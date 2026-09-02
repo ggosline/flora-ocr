@@ -17,49 +17,41 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Trees, shrubs sometimes climbing, or lianes. Leaves simple, petiolate, opposite, rarely whorled by 3, presenting 2-4 glands at the base of the blade, stipulate or not.
 
-Arbres, arbustes parfois lianescents, ou lianes. Feuilles simples, pétio-
+Inflorescences axillary or terminal, racemes, umbels, often grouped into panicles. Bracts and bracteoles present or caducous. Flowers pedicellate, bisexual, actinomorphic or zygomorphic. Sepals 5, generally without gland. Petals 5, clawed, entire, denticulate or fimbriate. Stamens 10, glabrous or finely pubescent. Ovary hirsute or glabrous, 3-(2) locular. Styles (2-) 3, curved.
 
-lées, opposées, rarement verticillées par 3, présentant 2-4 glandes à la base
+Samara with lateral wing membranous or coriaceous, orbicular or ovate, and with dorsal wing smaller or absent.
 
-du limbe, stipulées ou non.
+### African genus comprising 15 species.
 
-Inflorescences axillaires ou terminales, racèmes, ombelles, souvent groupées en panicules. Bractées et bractéoles présentes ou caduques. Fleurs pédicellées, bisexuées, actinomorphes ou zygomorphes. Sépales 5, généralement sans glande. Pétales 5, onguiculés, entiers, denticulés ou fimbriés. Étamines 10, glabres ou finement pubescents. Ovaire hirsute ou glabre, 3-(2) loculaire. Styles (2-) 3, courbés.
+TYPE SPECIES: Triaspis hypericoides Burch., southern Africa.
 
-Samare à aile latérale membraneuse ou coriace, orbiculaire ou ovée, et à aile dorsale plus petite ou nulle.
+About fifteen species from tropical or southern Africa, 2 Cameroonian.
 
-### Genre africain comptant 15 espèces.
+1. Lianes entirely clothed with hispid hairs..... 1. T. letestuana.
 
-ESPÈCE-TYPE : Triaspis hypericoides Burch., Afrique australe.
+1'. Lianes glabrous or clothed with non-hispid hairs.
 
-Une quinzaine d'espèces d'Afrique tropicale ou australe, 2 camerounaises.
+2. Petals similar; ovaries glabrous.
 
-1. Lianes entièrement vêtues de poils hispides..... 1. T. letestuana.
+3. Lateral wings of samaras emarginate at apex..... T. emarginata
 
-1'. Lianes glabres ou vêtues de poils non hispides.
+3'. Lateral wings of samaras entire or ± retuse, rarely emarginate.....
 
-2. Pétales semblables; ovaires glabres.
+..... T. lateriflora (Angola and Zambia).
 
-3. Ailes latérales des samares émarginées au sommet..... T.emarginata
+2'. Petals dissimilar; ovaries pubescent.
 
-3'. Ailes latérales des samares entières ou ± rétuses, rarement émarginées.....
+4. Filaments of stamens pubescent..... T. macropteron
 
-..... T. lateriflora (Angola et Zambie).
+(Congo, Angola, Mozambique and Zambia).
 
-2'. Pétales dissemblables; ovaires pubescents.
+4'. Filaments of stamens glabrous.
 
-4. Filets des étamines pubescents..... T. macropteron
+5. Stems glabrous; adult leaves glabrous..... 2. T. sapinii.
 
-(Congo, Angola, Mozambique et Zambie).
-
-4'. Filets des étanines glabres.
-
-5. Tiges glabres; feuilles adultes glabres..... 2. T. sapinii.
-
-5'. Tiges vêtues de poils apprimés; feuilles adultes vêtues de poils soyeux à la face inférieure ..... T. stipulata (Togo, Nigeria, Cameroun).
-
----
+5'. Stems clothed with appressed hairs; adult leaves clothed with silky hairs on the lower surface ..... T. stipulata (Togo, Nigeria, Cameroon).
 
 ## Species in region
 

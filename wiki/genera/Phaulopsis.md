@@ -17,39 +17,37 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 ≡ Phaylopsis Willdenow, Sp. Pl. 3 : 342 (1800). — C. B. Clarke, F.T.A. 5 : 82 (1899).
 
-Plantes herbacées feuillées jusqu'au sommet ou presque. Feuilles plus ou moins inégales dans la paire (anysophyllie).
+Herbaceous plants leafy to the apex or nearly so. Leaves more or less unequal in the pair (anisophylly).
 
-Fleurs disposées en épis terminaux formés de cymes ou en grappes axillaires et bractéolées. Calice à 5 sépales très inégaux dont le postérieur est plus grand et bractéiforme. Corolle à 2 lèvres, la supérieure bidentée ou bilobée, l'inférieure 3-lobée. 4 étamines didynamics incluses, à filets rapprochés par paires, et insérés sur la corolle; anthères à 2 loges parallèles contiguës. Ovaire à 2 loges biovulées; style simple à stigmate aigu.
+Flowers arranged in terminal spikes formed of cymes or in axillary and bracteolate racemes. Calyx with 5 very unequal sepals, the posterior one larger and bract-like. Corolla 2-lipped, the upper lip bidentate or bilobate, the lower lip 3-lobed. 4 didynamous stamens included, with filaments brought together in pairs and inserted on the corolla; anthers with 2 parallel contiguous cells. Ovary with 2 cells, each 2-ovulate; style simple with an acute stigma.
 
-Capsule membraneuse localicide en 2 valves puis également septicide, portant des graines dès la base. 4 graines comprimées
+Capsule membranous, localisticidally dehiscent into 2 valves and then equally septicide, bearing seeds from the base. 4 compressed seeds
 
 ---
 
-soutenues par des rétinacles, à nombreux poils hygroscopiques marginaux.
+supported by retinacles, with numerous marginal hygroscopic hairs.
 
-Genre des tropiques de l'Ancien Monde, dont une espèce,
+Genus of the tropics of the Old World, of which one species,
 
-P. imbricata, a récemment été signalée en Amérique.
+P. imbricata, has recently been recorded in America.
 
-Ce genre demanderait une révision : le nombre d'espèces, environ 10, est difficile à préciser à cause des délimitations très incertaines.
+This genus would require revision: the number of species, approximately 10, is difficult to determine because of very uncertain delimitations.
 
-Espèce type : Phaylopsis imbricata (Forsk.) Sweet, décrit sous le binôme ≡ Ruellia imbricata Forsk. de l'Arabie, Yemen (= Phaylopsis parviflora Willd., nom illégitime, décrit de l'Inde).
+Type species: Phaylopsis imbricata (Forsk.) Sweet, described under the binomial ≡ Ruellia imbricata Forsk. from Arabia, Yemen (= Phaylopsis parviflora Willd., illegitimate name, described from India).
 
-1. Corolle jusqu'à 17 mm de long, ± en forme d'entonnoir; feuilles à limbe symétrique à la base, longuement atténué dans le pétiole. . . .
+1. Corolla up to 17 mm long, ± funnel-shaped; leaves with blade symmetric at the base, long-attenuate in the petiole. . . .
 
-1'. Corolle jusqu'à 8 mm de long, tubulée et un peu campanulée dans la partie supérieure; feuilles à limbe ± asymétrique-oblique à la base, brièvement atténué et à peine décurrent dans le pétiole.
+1'. Corolla up to 8 mm long, tubulate and somewhat campanulate in the upper part; leaves with blade ± asymmetric-oblique at the base, shortly attenuate and scarcely decurrent in the petiole.
 
-2. Inflorescences strobiliformes, très denses et allongées, de  $ 6 \times 2 $ cm; bractées supérieures obcordées-orbiculaires, d'environ 1 cm de diamètre..... 2. P. Poggei.
+2. Inflorescences strobiliform, very dense and elongate, of $ 6 \times 2 $ cm; upper bracts obcordate-orbicular, about 1 cm in diameter..... 2. P. Poggei.
 
-2'. Fleurs en toutes petites inflorescences axillaires, ou en inflorescences condensées subglobuleuses, ne dépassant pas 1,5 cm de long et de large; bractées supérieures ovales ou, si ± orbiculaires, ne dépassant pas alors 0,5 cm de diamètre.
+2'. Flowers in very small axillary inflorescences, or in condensed subglobose inflorescences, not exceeding 1.5 cm long and broad; upper bracts ovate or, if ± orbicular, then not exceeding 0.5 cm in diameter.
 
-3. Inflorescences condensées aux extrémités de petits rameaux, feuilles assez symétriques; bractées subsessiles, ovales, obtuses, de 10-12 × 5-6 mm, vertes, non transparentes; corolle de 8 mm de long; graine de 1,7 mm de diamètre..... 3. P. silvestris.
+3. Inflorescences condensed at the ends of small branchlets, leaves fairly symmetric; bracts subsessile, ovate, obtuse, 10–12 × 5–6 mm, green, not transparent; corolla 8 mm long; seed 1.7 mm in diameter..... 3. P. silvestris.
 
-3'. Inflorescences axillaires, non condensées, en général composées de deux fleurs; feuilles très asymétriques, obliques; bractées subsessiles, orbiculaires, de 4-5 cm de diamètre; corolle de 4,5 mm de long; graine de 1 mm de diamètre.... 4. P. micrantha.
+3'. Inflorescences axillary, not condensed, generally composed of two flowers; leaves very asymmetric, oblique; bracts subsessile, orbicular, 4–5 cm in diameter; corolla 4.5 mm long; seed 1 mm in diameter.... 4. P. micrantha.
 
 ## Species in region
 

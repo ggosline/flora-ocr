@@ -17,17 +17,13 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Stem elongated. Leaves twisted at the base to lie in the same plane, fleshy, unequally bilobed. Inflorescence shortened, dense or lax, zigzag or straight. Flowers small to medium, resupinate. Sepals and petals similar or dissimilar. Labellum entire or trilobed, without callus, furnished with a geniculate spur. Rostellum short, massive, obtuse. Viscidium single. Tegula simple, linear to ribbon-like. Remnants of the rostellum notched at the apex, channelled.— Pl. 188, p. 406.
 
-Tige allongée. Feuilles tordues à la base pour se situer dans un même plan, charnues, inégalement bilobées. Inflorescence raccourcie, dense ou lâche, en zigzag ou droite. Fleurs petites à moyennes, résupinées. Sépales et pétales semblables ou dissemblables. Labelle entier ou trilobé, sans callus, muni d'un éperon genouillé. Rostellum court, massif, obtus. Viscidie unique. Tegula simple, linéaire à rubanée. Restes du rostellum encochés au sommet, canaliculés.— Pl. 188, p. 406.
+Genus of two species widely distributed in tropical Africa, extending to Zimbabwe.
 
-Genre de deux espèces largement distribuées en Afrique tropicale, s'étendant jusqu'au Zimbabwe.
+1. Inflorescence dense, rachis straight, bracts imbricate, labellum entire, subquadrate, truncate at the apex briefly apiculate ..... 43. 2. C. emarginatum
 
-1. Inflorescence dense, rachis droit, bractées imbriquées, labelle entier, subcarré,
-
-tronqué au sommet brièvement apiculé ..... 43. 2. C. emarginé
-
-1'. Inflorescence lâche, rachis en zigzag, bractées espacées, labelle trilobé, le lobe médian plus ou moins divisé en avant .....43. 1. C. christyanum
+1'. Inflorescence lax, rachis zigzag, bracts spaced, labellum trilobed, the median lobe more or less divided at the apex ..... 43. 1. C. christyanum
 
 ## Species in region
 

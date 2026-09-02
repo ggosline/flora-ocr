@@ -17,21 +17,17 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Herbs annual or perennial with simple hairs. Leaves ordinarily divided and auriculate.
 
-Herbes annuelles ou vivaces à poils simples. Feuilles ordinairement divisées et auriculées.
-
-Grappes terminales, plus rarement axillaires, sans ou avec (pas au Gabon), bractées, subcorymbiformes à nombreuses petites fleurs. Infrutescences allongées. Sépales non sacciformes obliques. Pétales jaunes ou blancs spatuliformes. Étamines 6, nettement tétradynames à filets linéaires ; anthères ovales ou oblongues, obtuses. Nectaires entourant la base des filets latéraux le plus souvent prolongés à l'extérieur des filets médians. Ovaire cylindrique à sphérique contenant peu ou beaucoup d'ovules. Siliques non ou peu aplaties, déhiscentes, parfois portées par un gynophore court ; valves à nervure centrale indistincte. Style net bien
+Racemes terminal, more rarely axillary, without or with (not in Gabon) bracts, subcorymbiform to numerous small flowers. Infructescences elongate. Sepals non-sacciform oblique. Petals yellow or white spatulate. Stamens 6, distinctly tetradynamous with linear filaments; anthers oval or oblong, obtuse. Nectaries surrounding the base of the lateral filaments most often extended outside the median filaments. Ovary cylindric to spheric containing few or many ovules. Siliques non or slightly flattened, dehiscent, sometimes borne on a short gynophore; valves with indistinct central nerve. Style distinct though
 
 ---
 
-qu'assez court ; stigmate aplatì ou bifide. Graines peu aplaties, ellipsoï-
+rather short; stigma flattened or bifid. Seeds slightly flattened, ellipsoid or spheric, ± mucilaginous, not winged.
 
-dales ou sphériques, ± mucilagineuses, non ailées.
+TYPE SPECIES: Rorippa sylvestris (L.) Bess.
 
-ESPÈCE-TYPE : Rorippa sylvestris (L.) Bess.
-
-Ce genre comprenant environ 80 espèces, est répandu dans le monde entier sauf dans les régions arctiques ; 12 espèces ont été reconnues en Afrique tropicale (incl. Madagascar) dont 1 au Gabon.
+This genus comprising approximately 80 species, is distributed throughout the entire world except in arctic regions; 12 species have been recognized in tropical Africa (incl. Madagascar) of which 1 in Gabon.
 
 ## Species in region
 

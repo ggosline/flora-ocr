@@ -17,69 +17,27 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Trees, often of large size, or rarely shrubs, dioecious; cross-section sometimes very fragrant, exuding white latex or not, sometimes neither odour nor latex. Leaves compound, imparipinnate (rarely some paripinnate); leaflets opposite to subopposite, sometimes punctate. Inflorescences axillary or rarely plant cauliflorous, paniculate in form, often fasciculate. Flowers functionally unisexual with vestiges of the opposite sex present; calyx cupuliform, with entire to dentate or lobed margins; petals free or connate and tearing at anthesis, then reflexed; staminal tube urceolate or cylindric, with entire margins or 8–12(–16)-lobed or crenate, with anthers inserted inside toward the apex and alternating with the lobes or crenulations, wholly or almost included; gynoecium (pistillode) sessile or on a short sometimes disciform gynophore; ovary 2–5(–7)-locular, with axile placentation, with 1 ovule or 2 superposed ovules per locule; stigma discoid. Fruits capsular, sometimes with delayed dehiscence, globose or more or less deeply lobed, containing 1–5(–7) seeds. Seed reniform or conical, entirely surrounded by a red-orange sarcotesta; cotyledons conical, superposed or oblique.
 
-Arbres , souvent de grande taille, ou rarement arbustes, dioïques ; tranche parfois très
+African genus comprising 7 species, of which 5 in Gabon.
 
-odorante, exsudant un latex blanc ou non, parfois ni odeur ni latex. Feuilles composées,
+B: Aubréville (1959), Koenen & de Wilde (2012), Staner & Gilbert (1958).
 
-imparipennées (rarement quelques-unes paripennées) ; folioles opposées à suboppo-
+### Key to the species
 
-sées , parfois ponctuées. Inflorescences axillaires ou rarement plante cauliflore, en forme
+1. - Leaflets with network of veinlets very prominent and raised on both faces, especially when dry ......................................................................................................................... 2
 
-de panicules, souvent fasciculées. Fleurs fonctionnellement unisexuées avec vestiges du
-
-sexe opposé présents ; calice cupuliforme, à bords entier à dentés ou lobés ; pétales libres
-
-ou soudés et se déchirant à l’anthèse, puis réfléchis ; tube staminal urcéolé ou cylin -
-
-drique, à bords entiers ou 8–12(–16)-lobé ou crénelé, à anthères insérées à l’intérieur
-
-vers le sommet et alternant avec les lobes ou les crénelures, totalement ou presque in-
-
-cluses ; gynécée (pistillode) sessile ou sur un gynophore court parfois disciforme ; ovaire
-
-2–5(–7)-loculaire, à placentation axillaire , à 1 ovule ou 2 ovules superposées par loge ;
-
-stigmate discoïde. Fruits capsulaires , parfois à déhiscence tardive, globuleux ou plus
-
-ou moins profondément lobés, contenant 1–5(–7) graines. Graine réniforme ou conique,
-
-entièrement entourée d’un sarcotesta rouge-orange : cotylédons coniques, superpo -
-
-sées ou obliques.
-
-Genre africain comprenant 7 espèces, dont 5 au Gabon.
-
-B : Aubréville (1959), Koenen & de Wilde (2012), Staner & Gilbert (1958).
-
-ibliographie
-
-### Clé des espèces
-
-1. - Folioles avec réseau de veinules très saillant et en relief sur les deux faces, surtout
-
-à sec ......................................................................................................................... 2
-
-- Folioles avec réseau de veinules effacé, légèrement proéminent sur les deux
-
-faces ........................................................................................................................ 4
+- Leaflets with network of veinlets effaced, slightly prominent on both faces ........................................................................................................................ 4
 
 ---
 
-2. - Arbustes ou petits arbres cauliflores, ne dépassant pas 5 m de hauteur à maturité
+2. - Shrubs or small cauliflorous trees, not exceeding 5 m in height at maturity ................................................................................................................ L. cauliflora
 
-................................................................................................................ L. cauliflora
+- Slender trees, reaching 35 to 40 m in height, with axillary inflorescences .......... 3
 
-- Arbres élancés, atteignant 35 à 40 m de hauteur, à inflorescences axillaires .......... 3
+3. - Leaflets often asymmetric at the base; flower 5–7.5 mm in length; fruit 4–5 cm in diameter ................................................................................................ L. cedrata
 
-3. - Folioles souvent asymétriques à la base ; fleur 5–7,5 mm de longueur ; fruit 4–5 cm
-
-de diamètre ................................................................................................ L. cedrata
-
-- Folioles le plus souvent symétriques à la base ; fleur 10–15(–17 mm) de longueur ;
-
-fruit 10–15 cm de diamètre ............................................................. L. mayombensis
+- Leaflets most often symmetric at the base; flower 10–15(–17) mm in length; fruit 10–15 cm in diameter ............................................................. L. mayombensis
 
 ## Species in region
 

@@ -17,37 +17,13 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Leaves with entire or toothed margins, sessile or petiolate. Flowers in axillary cymes with bracts, sometimes solitary flowers; calyx with 5 lobes or lobes reduced; corolla with tube split to the base, pubescent inside, the 5 lobes spreading, subequal and often winged; stamens free, anthers basifixed; ovary inferior or subinferior, cylindric to globose, with 1–4 uniovulate locules; style simple or bilobed. Fruit drupaceous, ± fleshy, with 1–2 seeds; endocarp woody or sometimes thin and crustaceous. Seeds with ovoid circumference; testa parchment-like; endosperm fleshy.
 
-Feuilles à marge entière ou dentée, sessiles ou pétiolées. Fleurs en cymes axillaires pour-
+Genus comprising ± 130 species, most from Australia, a few with a wide distribution throughout the entire Indo-Pacific region and other tropical regions; in Gabon a single species.
 
-vues de bractées, parfois fleurs solitaires ; calice à 5 lobes ou lobes réduits ; corolle à tube
+BIBLIOGRAPHY
 
-fendu jusqu’à la base, pubescente à l’intérieur , les 5 lobes étalés, subégaux et souvent
-
-ailés ; étamines libres, anthères basifixes ; ovaire infère ou subinfère, cylindrique à glo-
-
-buleux, à 1–4 loges uniovulées ; style simple ou bilobé. Fruit drupacé, ± charnu , à 1–2
-
-graines ; endocarpe ligneux ou parfois mince et crustacé. Graines à circonférence ovée ;
-
-testa parcheminé ; endosperme charnu.
-
-Genre comprenant ± 130 espèces, la plupart de l’Australie, quelques-unes ont une large
-
-distribution dans toute la région Indo-Pacifique et les autres régions tropicales ; au Gabon
-
-une seule espèce.
-
-B : Carolin (1990), Guillaumet (1978), Howarth et al. (2003), Launert
-
-IBLIOGRAPHIE
-
-(1983).
-
----
-
----
+B: Carolin (1990), Guillaumet (1978), Howarth et al. (2003), Launert (1983).
 
 ## Species in region
 

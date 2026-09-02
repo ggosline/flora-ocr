@@ -17,31 +17,27 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Arbres ou arbustes, souvent sétulo-strigilleux, ombrophiles ou xérophiles, ceux-ci souvent à feuillaison et floraison alternées; rameaux ± 4-angulaires, souvent noueux, épais; feuilles souvent coriaces.
+Trees or shrubs, often setulose-strigillous, umbrophilous or xerophilous, the latter often with alternating foliation and flowering; branches ± 4-angular, often knotty, thick; leaves often coriaceous.
 
 ---
 
 ---
 
-Panicules terminales de cymes bipares souvent importantes. Fleurs 4-mères; calice court, ondulé, ou lobes plus développés, persistants et réfléchis ou étalés dans le fruit. Corolle grande. Étamines en 2 verticilles peu ou très inégaux : les externes à pédoconnectif long; les internes à pédoconnectif presqu’égal ou beaucoup plus court, parfois subnul; 2 appendices antérieurs souvent très développés, linéaires, claviformes ou subulés; pas d’éperon. Ovaire profondément relié à l’hypanthe par les cloisons interstaminales, libre dès la moitié de sa hauteur, convexe, souvent sétuleux et avec une collerctte péristyle. Style linéaire; stigmate punctiforme; placentas cymbiformes, stipités sur toute la partie moyenne de l’axe.
+Terminal panicles of often large biparious cymes. Flowers 4-merous; calyx short, undulate, or lobes more developed, persistent and reflexed or spreading in the fruit. Corolla large. Stamens in 2 whorls little or very unequal: the external ones with long pedoconnective; the internal ones with pedoconnective nearly equal or much shorter, sometimes subnull; 2 anterior appendages often very developed, linear, claviform or subulate; no spur. Ovary deeply connected to the hypanthium by the interstaminal septa, free from the middle of its height, convex, often setulose and with a peristyle collerette. Style linear; stigma punctiform; placentas cymbiform, stipitate over the whole middle part of the axis.
 
-Capsule à ovaire souvent saillant. Graines cunées à subcochléaires, à raphé latéral et hile elliptique, souvent papilleuses ou tuberculées. Nombre chromosome (D. africana) : n = ± 20 (FAVARGER).
+Capsule with ovary often prominent. Seeds cuneate to subcochlear, with lateral raphe and elliptic hilum, often papillose or tuberculate. Chromosome number (D. africana): n = ± 20 (FAVARGER).
 
-ESPÈCE-TYPE : Dichaetanthera articulata Endl., Madagascar.
+TYPE SPECIES: Dichaetanthera articulata Endl., Madagascar.
 
-Genre afromalgache d'une trentaine d'espèces. De huit à dix en Afrique, forestières ou rupicoles, se succédant de la Guinée au Zambèze; absente des îles atlantiques; trois au Gabon.
+Afromalgasy genus of about thirty species. Eight to ten in Africa, forest-dwelling or rupiculous, succeeding from Guinea to the Zambezi; absent from Atlantic islands; three in Gabon.
 
-1. Hypanthe glabre, saur sur le pédicelle ± strigilleux, graines funiculées et crête-
+1. Hypanthium glabrous, except on the pedicel ± strigillous, seeds funiculose and crested with linear hairs reaching 0.5 mm ..... 1. D. africana.
 
-lées de poils linéaires atteignant 0,5 mm ..... 1. D. africana.
+1'. Hypanthium scabérulé or hirsute; seeds cuneate, sparsely papillose or tuberculate.
 
-1'. Hypanthe scabérulé ou hirsute; graines cunées, éparsement papilleuses ou tuberculées.
+2. Hypanthium ± densely scabrous; young branches scabérulé .... 2. D. corymbosa.
 
-2. Hypanthe ± densément scabre; jeunes rameaux scabérulés.... 2. D. corymbosa.
-
-2'. Hypanthe densément hirsute, ainsi que les jeunes rameaux..... 3. D. strigosa.
+2'. Hypanthium densely hirsute, as are the young branches ..... 3. D. strigosa.
 
 ## Species in region
 

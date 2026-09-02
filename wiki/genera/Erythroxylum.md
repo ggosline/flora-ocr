@@ -17,25 +17,23 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Arbres ou arbrisseaux à ramilles comprimées latéralement. Feuilles alternes, simples, entières; stipules intrapétiolaires, ± souduées, persistantes ou ± caduques.
+Trees or shrubs with laterally compressed twigs. Leaves alternate, simple, entire; stipules intrapetiolary, ± connate, persistent or ± caducous.
 
 ---
 
-Fleurs axillaires, solitaires ou en fascules, hétérostylées. Calice campanulé, à 5 segments. Pétales 5, libres, à appendices nectarifères entiers ou lobés. Étamines 10, soudées à la base en un tube, subégales ou inégales, les plus longues opposées aux pétales, les plus courtes aux sépales. Ovaire triloculaire, à un ovule pendant par loge; souvent une seule loge fertile. Styles 3, libres ou partiellement soudés; stigmates 3, capités.
+Flowers axillary, solitary or in fascicles, heterostylous. Calyx campanulate, with 5 segments. Petals 5, free, with entire or lobed nectariferous appendages. Stamens 10, connate at the base into a tube, subequal or unequal, the longest opposite the petals, the shortest opposite the sepals. Ovary trilocular, with one pendulous ovule per locule; often only one locule fertile. Styles 3, free or partially connate; stigmas 3, capitate.
 
-Drupes monospermes, à loges stériles ± apparentes. Graines oblongues à elliptiques, à albumen charnu.
+Drupes monospermic, with sterile locules ± apparent. Seeds oblong to elliptic, with fleshy albumen.
 
-Environ 200 espèces des régions tropicales, surtout de l'Amérique et de Madagascar.
+Approximately 200 species from tropical regions, especially from America and Madagascar.
 
-Espèce-type : Erythroxylum areolatum Linné, Syst. ed. 10 (1759).
+Type species: Erythroxylum areolatum Linné, Syst. ed. 10 (1759).
 
-Le genre comprend plus de 190 espèces tropicales dont la plupart sont en Amérique.
+The genus comprises more than 190 tropical species, most of which are found in America.
 
-1. Styles des fleurs longistyles libres; appendices nectarifères insérés au quart inférieur, à la face ventrale du pétale; feuilles sans « fausses nervures ». . . 1. E. emarginatum.
+1. Styles of long-styled flowers free; nectariferous appendages inserted at the lower quarter, on the ventral face of the petal; leaves without "false veins". . . 1. E. emarginatum.
 
-1'. Styles des fleurs longistyles soudés sur la plus grande partie de leur longueur; appendices nectarifères insérés à la base sur la face ventrale du pétale; feuilles avec une paire de « fausses nervures »..... 2. E. mannii.
+1'. Styles of long-styled flowers connate for most of their length; nectariferous appendages inserted at the base on the ventral face of the petal; leaves with a pair of "false veins"..... 2. E. mannii.
 
 ## Species in region
 

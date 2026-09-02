@@ -16,11 +16,9 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Small ferns often epiphytic. Rhizome bearing scales. Petiole mostly not articulate. Fronds pinnate, with pinnae adnate to the costa, the lower ones progressively reduced. Surfaces often hirsute. Sori without paraphyses, terminal or dorsal on the veins, rounded or elliptic. Sporangial pedicel with a single row of cells.
 
-Petites fougères souvent épiphytes. Rhizome portant des écailles. Pétiole le plus souvent non articulé. Frondes pennées, à pennes adnées au costa, les inférieures progressivement réduites. Surfaces souvent hirsutes. Sore sans paraphyses, terminal ou dorsal sur les nervures, arrondi ou elliptique. Pédicelle du sporange à 1 seule rangée de cellules.
-
-Plus de 200 espèces, tropicales, de Nouvelle-Zélande jusqu'au Tropique du Cancer au Nord; une seule espèce au Gabon.
+More than 200 species, tropical, from New Zealand to the Tropic of Cancer in the North; a single species in Gabon.
 
 ## Species in region
 

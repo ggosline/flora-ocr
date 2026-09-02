@@ -17,27 +17,23 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Shrubs or small trees.
 
-Arbustes ou petits arbres.
+Leaves alternate, entire, 1-foliolate. Petiole cylindrical and articulate with a petiolule, each with its own pulvinus.
 
-Feuilles alternes entières 1-foliolées. Pétiole cylindrique et articulé avec un pétiolule, chacun d'eux avec son propre pulvinus.
+Inflorescences axillary in glomerate or paniculate clusters. Bracts minute, subtriangular.
 
-Inflorescences axillaires en glomérules ou en panicules. Bractées minuscules subtriangulaires.
+Flowers small, subsessile, mostly 5-merous, bisexual. Sepals 5, connate at the base, slightly imbricate to valvate. Petals 5, shortly coherent in their lower part to completely free, valvate to slightly imbricate. Stamens, generally 5 fertile ones opposite the sepals alternating with 5 staminodes opposite the petals, these two cycles briefly connate by their base, forming a ring. Pistil with 1 carpel; ovary sessile, ovoid to ellipsoidal, with 2 collateral ovules; style short and fairly stout or long and filiform, stigma capitate to lobulate.
 
-Fleurs petites subsessiles, en majorité 5-mères, bisexuées. Sépales 5, connés à la base, légèrement imbriqués à valvaires. Pétales 5, courtement cohérents dans leur partie inférieure à complètement libres, valvaires à légèrement imbriqués. Étamines, en général 5 fertiles opposées aux sépales alternant avec 5 staminodes opposés aux pétales, ces deux cycles étant brièvement connés par leur base, ce qui forme un anneau. Pistil à 1 carpelle ; ovaire sessile, ovoïde à ellipsoïdal, avec 2 ovules collatéraux ; style court et passablement gros ou long et filiforme, stigmate capité à lobulé.
+<<<---SECTION-BREAK--->>>
 
----
+Fruits ellipsoidal, ovoid to obovoid, indehiscent, tomentose, yellow to brownish at maturity. Calyx persistent beneath the fruit. Fruit wall finely crustaceous.
 
----
+Seed 1 per fruit, outer layer of the seed coat fleshy (sarcotesta), inner layer thin; albumen poor to abundant; embryo with flat cotyledons.
 
-Fruits ellipsoidaux, ovoïdes à obovoïdes, indéhiscents, tomenteux, jaunes à brunâtres à maturité. Calice persistant sous le fruit. Paroi du fruit finement crustacée.
+Epigeal germination.
 
-Graine 1 par fruit, couche externe de l'enveloppe de la graine charnue (sarcotesta), couche interne fine ; albumen pauvre à abondant ; embryon à cotylédons plats.
-
-Germination épigée.
-
-Répartition : deux espèces d'Afrique occidentale et centrale, dont une au Gabon.
+Distribution: two species from West and Central Africa, one of which occurs in Gabon.
 
 ## Species in region
 

@@ -17,43 +17,41 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+### Trees reaching 35 m in height, shrubs or lianas, completely glabrous.
 
-### Arbres atteignant 35 m de hauteur, arbustes ou lianes, complètement glabres.
+Leaves opposite, in each pair equal or unequal, petiolate or sessile; bases of petioles united, often auriculate; blade thin and fragile or coriaceous, entire or slightly crenulate.
 
-Feuilles opposées, dans chaque paire égales ou inégales, pétiolées ou sessiles; bases des pétioles unies, souvent auriculées; limbe mince et fragile ou coriace, entier ou légèrement crénelé.
+Inflorescences terminal, erect, sometimes pendulous during fruiting, dichasia, frequently brittle at the nodes when dry.
 
-Inflorescences terminales, érigées, quelquefois pendant les lors de la fructification, dichasiales, fréquemment cassantes aux nœuds à l'état sec.
+Flowers with 4 sepals, free (fused only in A. laxiflora), orbicular or nearly orbicular, concave, decussate, entire, appressed against the base of the corolla tube on the fresh material, often spreading on dried specimens. Corolla white or cream (continental Africa), or violet (Madagascar), tube sometimes green, fleshy, with 8–16 lobes contorted in the bud. Stamens as many as the lobes of the corolla, exserted; filaments short, all completely or partially fused; anthers narrow; locules separate. Ovary conical or ovoid to obovoid, 4-locular; style thick, approximately the same length as the corolla tube; stigma large, generally obovoid to cylindric and bilobed at the apex.
 
-Fleurs à 4 sépales, libres (soudés seulement chez A. laxiflora), orbiculaires ou presque orbiculaires, concaves, décussés, entiers, dressés contre la base du tube de la corolle sur le vif, souvent étalés sur échantillons desséchés. Corolle blanche ou crème (Afrique continentale), ou violette (Madagascar), tube parfois vert, charnu, à 8-16 lobes contortés dans le bouton. Étamines en même nombre que les lobes de la corolle, exsertes; filets courts, tous complètement ou partiellement soudés; anthères étroites; loges séparées. Ovaire conique ou ovoïde à obovoïde, à 4 loges; style épais, environ de même longueur que le tube de la corolle; stigmate grand, généralement obovoïde à cylindrique et bilobé au sommet.
+Fruits: berries, dark green or yellow, globose or ellipsoid. Seeds numerous, small, brown.
 
-Fruits : baies, vert foncé ou jaunes, globuleuses ou ellipsoïdes. Graines nombreuses, petites, brunes.
+TYPE SPECIES: Anthocleista nobilis G. Don
 
-ESPÈCE-TYPE : Anthocleista nobilis G. Don
-
-Le genre comporte 14 espèces réparties en Afrique tropicale, à Madagascar et aux Comores.
+The genus comprises 14 species distributed in tropical Africa, Madagascar, and the Comoros.
 
 ---
 
-# CLÉ DES ESPÈCES CAMEROUNAISES ET GABONAISES
+# KEY TO THE SPECIES OF CAMEROON AND GABON
 
-1. Sépales acuminés et carénés ..... 2. A. laxiflora.
+1. Sepals acuminate and keeled ..... 2. A. laxiflora.
 
-1'. Sépales arrondis, non carénés.
+1'. Sepals rounded, not keeled.
 
-2. Nervures latérales distinctes; feuilles groupées au sommet de petits rameaux; arbres en forme de candélabre ou arbustes à tronc plus ou moins divisé.
+2. Lateral veins distinct; leaves clustered at the apex of small branchlets; trees candelabrum-shaped or shrubs with trunk more or less divided.
 
-3. Rameaux à épines courtes jumelées; boutons floraux uniformément arrondis ou subtronqués au sommet.
+3. Branchlets with short paired spines; floral buds uniformly rounded or subtruncate at the apex.
 
-4. Rameaux hérissés d'épines; épines confluentes à la base; feuilles nettement plus pâles et plus ou moins glauques en dessous, généralement sessiles, souvent ± lyriformes; marge habituellement réfléchie et ondulée; corolle dans le bouton mûr 2,5-4 fois plus longue que le calice
+4. Branchlets bristling with spines; spines confluent at the base; leaves distinctly paler and more or less glaucous beneath, generally sessile, often ± lyrate; margin usually reflexed and undulate; corolla in the mature bud 2.5–4 times longer than the calyx.
 
-4'. Rameaux non nettement épineux; épines au moins demi-soudées; feuilles non nettement plus pâles en dessous, pétiolées; marge ni réfléchie ni ondulée; corolle dans le bouton mûr 5,5-6 fois plus longue que le calice.
+4'. Branchlets not distinctly spiny; spines at least half-fused; leaves not distinctly paler beneath, petiolate; margin neither reflexed nor undulate; corolla in the mature bud 5.5–6 times longer than the calyx.
 
-3'. Si rameaux épineux, corolle dans le bouton mùr non arrondie mais atténuée au sommet.
+3'. If branchlets spiny, corolla in the mature bud not rounded but attenuate at the apex.
 
-5. Boutons floraux généralement uniformément arrondis au sommet; feuilles pétiolées.
+5. Floral buds generally uniformly rounded at the apex; leaves petiolate.
 
-6. Feuilles obovées, généralement arrondies à la base; calice non nettement rétréci; rameaux à épines discrètes et rares, baie lisse à l'état sec, de  $ 35-50 \times 25-35 $ mm à maturité, avec paroi épaisse (environ 3 mm) ....
+6. Leaves obovate, generally rounded at the base; calyx not distinctly constricted; branchlets with discrete and rare spines, berry smooth when dry, 35–50 × 25–35 mm at maturity, with thick wall (approximately 3 mm) ....
 
 ## Species in region
 

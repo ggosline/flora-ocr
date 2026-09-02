@@ -17,21 +17,19 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Tree or shrub.
 
-Arbre ou arbuste.
+Leaves alternate.
 
-Feuilles alternes.
-
-Inflorescences : plusieurs capitules de fleurs sur une même inflores-
+Inflorescences: several flower capitula on the same inflores-
 
 cence.
 
-Fleurs 5 mères. Pétales absents. Étamines 5.
+Flowers 5-merous. Petals absent. Stamens 5.
 
-Fruits secs, aplatis et courbés, condensés en cônes.
+Fruits dry, flattened and curved, condensed into cones.
 
-Ce genre a deux espèces : l'une, des zones côtières des deux côtés de l'Atlantique, l'autre, de la région de la Mer Rouge.
+This genus has two species: one from the coastal zones on both sides of the Atlantic, the other from the Red Sea region.
 
 ## Species in region
 

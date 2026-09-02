@@ -17,69 +17,17 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Herbs annual or perennial, of very variable size and habit; stems ± trigonous, nodose, leafy. Leaves with closed sheaths, sometimes separated from the blade by a ligule, free margin of the collar sometimes drawn out and forming a small tongue; blades linear to narrowly oblong, often strongly scabrous on the margin and nerves, glabrous or hairy. Inflorescence usually formed of a terminal panicle and one or several lateral ones arising from the sheaths of the upper leaves, or inflorescence in a "spike" bearing glomerules of sessile spikelets, without bracts. Spikelets unisexual or bisexual, with glumes distichous or spiral, the 2–4 lower glumes empty; bisexual spikelets with a basal female flower and one or several male flowers above; female spikelet like the bisexual spikelet, but the upper male portion reduced to 1–2 empty or missing scales; male spikelet like the bisexual spikelet, but without the basal female flower and often with more male flowers. Unisexual flowers, solitary in the axil of the glumes; stamens 1–3, with linear anthers, often apiculate to aristate; style linear, 3-branched, rarely persistent. Achene ovoid to subglobose, ± trigonous, often white, grey or blackish, shiny, smooth, reticulate, tuberculate or lacunose, glabrous or hairy, borne by a gynophore (called here hypogynium) often triangular, dilated into a simple or trilobed disc, more rarely cupuliform or almost absent.
 
-Herbes annuelles ou vivaces , de taille et d’allure très variables ; tiges ± trigones,
+Large genus of about 250 species from all tropical and subtropical regions except the driest, often in marshes and damp grassy zones, more rarely in forest. In Africa, about 75 species are found, of which 20 occur in Gabon.
 
-noueuses, feuillées. Feuilles à gaines fermées , parfois séparées du limbe par une ligule,
+Taxonomic note: The Gabonese species can be grouped into three sections:
 
-marge libre du collet parfois étirée et formant une languette ; limbes linéaires à étroite-
+sect. Hypoporum C.B.Clarke (S. catophylla, S. distans, S. interrupta and S. melanotricha), with the inflorescence composed of a "spike" bearing several glomerules of spikelets, without foliaceous involucral bracts, with bisexual and male spikelets and hypogynium not or scarcely developed.
 
-ment oblongs, souvent fortement scabres sur la marge et les nervures, glabres ou poilus.
+I. sect. Ophryoscleria (Nees) Core (S. racemosa, S. verrucosa and S. vogelii) is easily recognized by its large fruits with the cupuliform hypogynium and ciliate margin. The plants are robust with very scabrous blades, the spikelets female or male, in terminal or lateral panicles.
 
-Inflorescence formée habituellement d’une panicule terminale et d’une ou plusieurs
-
-latérales issues des gaines des feuilles supérieures , ou inflorescence en « épi » por-
-
-tant des glomérules d’épillets sessiles, sans bractées. Épillets unisexués ou bisexués,
-
-à glumes distiques ou spiralées, les 2–4 glumes inférieures vides ; épillets bisexués
-
-avec une fleur femelle basale et une ou plusieurs fleurs mâles au-dessus ; épillet femelle
-
-comme l’épillet bisexué, mais la partie mâle supérieure réduite à 1–2 écailles vides ou
-
-manquantes ; épillet mâle comme l’épillet bisexué, mais sans la fleur femelle basale et
-
-souvent avec davantage de fleurs mâles. Fleurs unisexuées, solitaires à l’aisselle des
-
-glumes ; étamines 1–3, à anthères linéaires, souvent apiculées à aristées ; style linéaire,
-
-à 3 branches, rarement persistant. Akène ovoïde à subglobuleux, ± trigone, souvent
-
-blanc, gris ou noirâtre, brillant, lisse, réticulé, tuberculé ou lacunaire, glabre ou
-
-poilu, porté par un gynophore (appelé ici hypogynium) souvent triangulaire, dilaté en
-
-un disque simple ou trilobé, plus rarement cupuliforme ou presque absent.
-
-Grand genre d’environ 250 espèces de toutes les régions tropicales et subtropicales à
-
-l’exception des plus sèches, souvent dans les marécages et zones herbeuses humides, plus
-
-rarement en forêt. En Afrique, on trouve environ 75 espèces, dont 20 au Gabon.
-
-Note taxonomique : Les espèces gabonaises peuvent être groupées en trois sections :
-
-sect. Hypoporum C.B.Clarke ( S. catophylla, S. distans, S. interrupta et S. melanotricha ),
-
-avec l’inflorescence composée d’un « épi » portant plusieurs glomérules d’épillets, sans
-
-bractées involucrales foliacées, à épillets bisexuées et mâles et hypogynium non ou peu
-
-développé.
-
-I. sect. Ophryoscleria (Nees) Core ( S. racemosa, S. verrucosa et S. vogelii ) est facile-
-
-ment reconnue par ses grandes fruits avec l’hypogynium cupuliforme et à marge ci-
-
-liée. Les plantes sont robustes à limbes très scabres, les épillets femelles ou mâles,
-
-en panicules terminales ou latérales.
-
-II. sect. Scleria (les autres espèces gabonaises) a généralement un fruit avec l’hypo-
-
-gynium bien développé et 3-lobé. La plupart des espèces ont une taille intermé-
+II. sect. Scleria (the other Gabonese species) generally has a fruit with the hypogynium well developed and 3-lobed. Most species have an intermediate size.
 
 ## Species in region
 

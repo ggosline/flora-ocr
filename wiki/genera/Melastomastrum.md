@@ -17,23 +17,21 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Erect or geniculate shrubs.
 
-Arbrisseaux dressés ou genouillés.
+Glomerules involucrate with persistent bracts, or thyrsoid cymes in which each flower is independently involucrate with 2 to 3 pairs of bracts. Flowers 5-merous; hypanthium glabrous, or with setae or emergences scattered irregularly, especially on the lower half; sepal lobes persistent. Corolla well developed, pink or purple, rarely white. Stamens with subulate anther, in 2 unequal and discolorous whorls, rarely osbeckioid. External stamens with elongate pedoconnective, with 2 anterior free appendages, linear or claviform and inconspicuous dorsal protuberance. Internal stamens less developed, but of identical structure. Ovary with convex apex, often setulose and peristyle collar ± 5-lobed, or formed by the coalescence of setae. Style linear; stigma punctiform. Placentas elongate, cymbiform, stipitate by a blade nearly as long as the axis.
 
-Glomérules involucrés de bractées persistantes, ou cymes thyrsoïdes dont chaque fleur est indépendamment involucrée de 2 à 3 paires de bractées. Fleurs 5-mères; hypanthe glabre, ou avec des soies ou émergences dispersées sans ordre, surtout sur la moitié inférieure; lobes sépalaires persistants. Corolle bien développée, rose ou pourpre, rarement blanche. Éta-mines à anthère subulée, en 2 verticilles inégaux et discolores, rarement osbeckioïdes. Étamines externes à pédoconnectif allongé, avec 2 appendices antérieurs libres, linéaires ou claviformes et protubérance dorsale peu évidente. Étamines internes moins développées, mais de structure identique. Ovaire à sommet convexe, souvent sétuleux et colerette péristyle ± 5-lobée, ou formée par la coalescence des soies. Style linéaire; stigmate punctiforme. Placentas allongés, cymbiformes, stipités par une lame presqu'aussi longue que l'axe.
+Capsule included; sepal lobes reflexed. Seeds cochlear, with broad hilum, ± tuberculate.
 
-Capsule incluse; lobes sépalaires réfléchis. Graines cochélaires, à hile large, ± tuberculées.
+TYPE SPECIES: Melastomastrum capitatum (Vahl) A. & R. Fernandes, West Africa.
 
-ESPÈCE-TYPE : Melastomastrum capitatum (Vahl) A. & R. Fernandes, Afrique occidentale.
-
-Genre africain de six espèces héliophiles. L'une d'elles, Melastoma strum capitatum (VAHL) A. & R. FERN. (Fl. Cam. 24 : 48, tab. 11 (1983)), largement répandue dans les Régions soudanienne et zambézienne, semble bien exclue de la forêt gabonaise. Toutefois, elle pourrait y apparaître avec l'extension des défrichements.
+African genus of six heliophilous species. One of them, Melastomastrum capitatum (VAHL) A. & R. FERN. (Fl. Cam. 24 : 48, tab. 11 (1983)), widely distributed in the Sudanian and Zambezian regions, appears to be well excluded from the Gabonese forest. However, it could appear there with the expansion of land clearance.
 
 ---
 
-1. Fleurs rapprochées en triades, mais chacune d'elles séparément involucrée de 3 paires de bractées; hypanthe glabre, ovaire glabre, collerette péristyle ciliée 1. M. segregatum.
+1. Flowers brought together in triads, but each of them separately involucrate with 3 pairs of bracts; hypanthium glabrous, ovary glabrous, peristyle collar ciliate 1. M. segregatum.
 
-1'. Fleurs glomérulées par 3 à 5 dans un involucre commun de bractées; hypanthe densément vêtu, dans sa partie moyenne, d'émergences rameuses; ovaire sétuleux, plus la collerette 5-lobée ciliée ..... 1 bis. M. autranianum.
+1'. Flowers glomerate in 3 to 5 in a common involucre of bracts; hypanthium densely clothed, in its middle part, with branched emergences; ovary setulose, plus the 5-lobed ciliate collar ..... 1 bis. M. autranianum.
 
 ## Species in region
 

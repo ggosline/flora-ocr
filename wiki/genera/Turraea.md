@@ -17,59 +17,21 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Shrubs, often sarmentose or lianescent. Leaves simple, entire or lobed at apex.
 
-Arbustes , souvent sarmenteux ou lianescents. Feuilles simples , entières ou sommet lobé.
+Inflorescences generally axillary, fasciculate; flowers in cymes or panicles, rarely solitary. Flowers hermaphrodite, (3–)4 or 5(–6)-merous; calyx cupuliform, lobed or dentate, persistent; petals free, imbricate; stamens 8 or 10 or rarely 20, connate into a cylindrical staminal tube with entire to undulate margin or prolonged into simple or bilobed appendages, filiform or triangular, in the same number identical to or double that of the anthers, anthers inserted at the apex of the staminal tube or attached internally almost at its apex; disc annular, minute or absent; ovary globose, (3–)4–10(–20)-locular, ovules 2 per locule, juxtaposed, oblique or superposed; style filiform, often swollen at apex into a club or barrel shape, the swelling is indicated as receptaculum pollinis, crowned with a discoid stigma. Fruit capsular, loculicidal, opening into as many valves as there are locules. Seed reniform, with black, glossy testa, usually provided with a remarkably red or yellowish aril; cotyledons flat, juxtaposed.
 
-Inflorescences généralement axillaires, fasciculées ; fleurs en cymes ou panicules, rare -
+Genus comprising approximately 60 species, mainly in tropical Africa (20), in Madagascar (31) and in the Mascarenes (8); a single Indo-Malayan species; in Gabon, 2 species.
 
-ment solitaires. Fleurs hermaphrodites , (3–)4 ou 5(–6)-mères ; calice cupuliforme, lobé
+Bibliography
 
-ou denté, persistant ; pétales libres, imbriqués ; étamines 8 ou 10 ou rarement 20, soudées
+B: Mabberley (2011), Pennington & Styles (1975), Staner (1941), Staner & Gilbert (1958).
 
-en un tube staminal cylindrique à bord entier à ondulé ou prolongé en appendices simples
+### Key to species
 
-ou bilobés, filiformes ou triangulaires, en même nombre identique ou double des anthères,
+1. – Shrub scarcely exceeding 3 m in height; blade papyraceous, often lobed at apex; peduncle (2–)4–5(–9) mm; staminal tube 23–30(–35) mm in length, apex without filiform appendages ............................................................ T. cabrae
 
-anthères insérées au sommet du tube staminal ou attachées intérieurement presqu’à son
-
-sommet ; disque annulaire, minuscule ou nul ; ovaire globuleux, (3–)4–10(–20)-loculaire,
-
-ovules 2 par loge, juxtaposés, obliques ou superposés ; style filiforme, souvent renflé au
-
-sommet en forme de massue ou de tonnelet, le renflement est indiqué comme récepta -
-
-culum pollinis , couronné d’un stigmate discoïde. Fruit capsulaire, loculicide, s’ouvrant
-
-en autant de valves qu’il y a des loges. Graine réniforme, à testa noir, luisant, d›habitude
-
-muni d’un arille remarquablement rouge ou jaunâtre ; cotylédons plans, juxtaposés.
-
-Genre comprenant environ 60 espèces, surtout en Afrique tropicale (20), à Madagascar
-
-(31) et aux Mascareignes (8) ; une seule espèce Indo-Malaisien ; au Gabon, 2 espèces.
-
-B : Mabberley (2011), Pennington & Styles (1975), Staner (1941), Staner &
-
-ibliographie
-
-Gilbert (1958).
-
-### Clé des espèces
-
-1. - Arbuste ne dépassant guère 3 m de hauteur ; limbe papyracé, souvent lobé au
-
-sommet ; pédoncule (2–)4–5(–9) mm ; tube staminal 23–30(–35) mm de longueur,
-
-sommet sans appendices filiformes ............................................................ T. cabrae
-
-- Arbuste sarmenteux ou lianescent, parfois liane atteignant 20 m de longueur ;
-
-limbe coriace, jamais lobé ; pédoncule (10–)15–40(–70) mm ; tube staminal
-
-(10–)12–16(–20) mm de longueur, sommet muni d’appendices filiformes, géminés,
-
-alternant avec les anthères .......................................................................... T. vogelii
+– Sarmentose or lianescent shrub, sometimes liane reaching 20 m in length; blade coriaceous, never lobed; peduncle (10–)15–40(–70) mm; staminal tube (10–)12–16(–20) mm in length, apex provided with filiform appendages, geminate, alternating with the anthers .......................................................................... T. vogelii
 
 ## Species in region
 

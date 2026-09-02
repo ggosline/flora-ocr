@@ -16,21 +16,19 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 in Hook., J. Bot. 3 : 251 (1841) ; WARB., in ENGL. & PRANTL, NPF 3 (6a) : 44 (1893) ; BAMPS, FCBR, Spermat., Flacourt. 1 : 50 (1968) ; SLEUMER, EBJ 92 : 64 (1972).
 
-Arbustes ou petits arbres dioïques, exceptionnellement monoïques, généralement épineux.
+Shrubs or small dioecious trees, exceptionally monoecious, generally spiny.
 
-Feuilles sans stipules, alternes, entières ou denticulées.
+Leaves without stipules, alternate, entire or denticulate.
 
-Fleurs unisexuées, exceptionnellement ♂, ♀ et ♀ (plantes poly-games). Fleurs ♂ fasciculées ou en courts racèmes ; sépales 4-7, soudés entre eux à la base, à préfloraison valvaire ; pétales absents ; réceptacle charnu, muni de glandes ciliées ; étamines nombreuses (40-60). Fleurs ♀ solitaires ou en fascicules 2-4-flores ; sépales 4-10, soudés entre eux à la base, persistants et parfois accrescents sur le fruit ; pétales absents ; réceptacle entouré d'un anneau de glandes ciliées ; ovaire imparfaitement 2-6-(20)-loculaire (loges confluentes), à 2-6-(20) placentas plurivulés ; styles 2-6-(20-40) ; stigmates 2-3-lobés.
+Flowers unisexual, exceptionally ♂, ♀ and ♀ (polygamous plants). Male flowers fasciculate or in short racemes ; sepals 4–7, connate at the base, valvate in aestivation ; petals absent ; receptacle fleshy, provided with ciliate glands ; stamens numerous (40–60). Female flowers solitary or in fascicles of 2–4 flowers ; sepals 4–10, connate at the base, persistent and sometimes accrescent on the fruit ; petals absent ; receptacle surrounded by a ring of ciliate glands ; ovary imperfectly 2–6–(20)–locular (locules confluent), with 2–6–(20) pluriovulate placentas ; styles 2–6–(20–40) ; stigmas 2–3–lobed.
 
-Fruits : Baies ; graines 1-3-(15), glabres ou pubescentes.
+Fruits : Berries ; seeds 1–3–(15), glabrous or pubescent.
 
-ESPÈCE-TYPE : D. zizyphoides E. MEY. ex ARN.
+TYPE SPECIES : D. zizyphoides E. MEY. ex ARN.
 
-Ce genre renferme 15 espèces dont 1 en Asie (Sri Lanka) et le reste en Afrique tropicale et subtropicale ; une seule espèce est présente au Gabon.
+This genus contains 15 species, of which 1 is found in Asia (Sri Lanka) and the rest in tropical and subtropical Africa ; only one species is present in Gabon.
 
 ## Species in region
 

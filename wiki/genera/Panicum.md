@@ -16,45 +16,39 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Perennial or annual herbs of highly variable size, leaves generally linear, sometimes lanceolate.
 
-Herbes pérennes ou annuelles de taille très variable, feuilles généralement linéaires, parfois lancéolées.
+Compound panicles, pedicels often long. Spikelets elliptic to orbicular, sometimes asymmetric. Glumes membranous, the lower shorter, with 0, 1 or several nerves, the upper as long as the spikelet with 5, 7 or 9 nerves. Lower floret male or neuter, lemma similar to the upper glume; palea membranous or hyaline, more or less reduced. Upper floret hermaphrodite, lemma coriaceous, finely nerved, palea covered laterally by the margins of the lemma. Two lodicules; three stamens; styles distinct.
 
-Panicules composées, pédicelles souvent longs. Épilets elliptiques à orbiculaires, parfois asymétriques. Glumes membraneuses, l'inférieure plus courte, à 0,1 ou plusieurs nervures, la supérieure de la taille de l'épillet à 5, 7 ou 9 nervures. Fleur inférieure mâle ou neutre, lemma semblable à la glume supérieure; paléa membraneuse ou hyaline, plus ou moins réduite. Fleur supérieure hermaphrodite, lemma coriace, finement nervée, paléa recouverte latéralement par les bords de la lemma. Deux lodicules; trois étamines; styles distincts.
+Very important genus, in all tropical and subtropical regions. Plants with very diverse ecology, some are valuable forage species.
 
-Genre très important, dans toutes les régions tropicales et subtropicales. Plantes à écologie très diverse, certaines sont des espèces fourragères de valeur.
+About a dozen species are recorded in Gabon.
 
-Une douzaine d'espèces sont signalées au Gabon.
+1. Leaves oval-lanceolate, narrowed-rounded at the base.
 
-1. Feuilles ovales lancéolées, rétrécies-arrondies à la base.
+2. Blades about 15-20 × 3-5 mm; spikelets with symmetric profile, 1 mm long; panicle 2 to 4 cm; small stoloniferous herb of marshy places ..... 1. P. parvifolium.
 
-2. Limbes d'environ 15-20 × 3-5 mm; épilets à profil symétrique, de 1 mm de long; panicule de 2 à 4 cm; petite herbe stolonifère d'endroits marécageux..... 1. P. parvifolium.
+2'. Blades about 2.5-8 × 1.5-2 cm; spikelets with asymmetric profile 1.5 mm long; panicle up to 15 cm long and more; herb with creeping base of shaded moist places .... 2. P. brevifolium.
 
-2'. Limbes d'environ 2,5-8 × 1,5-2 cm; épilets à profil asymétrique de 1,5 mm de long; panicule jusqu'à 15 cm de long et plus; herbe à base rampante d'endroits ombragés humides .... 2. P. brevifolium.
+1'. Leaves elongate linear, narrow.
 
-1'. Feuilles linéaires allongées, étroites.
+3. Spikelets obtuse at the apex or shortly acuminate; glumes not gaping; fertile glumelles transversely rugose, or verrucose.
 
-3. Épillets obtus à l'extrémité ou courtement acuminés; glumes non baillantes; glumelles fertiles transversalement rugueuses, ou verruqueuses.
-
-4. Épillets allongés, de 3 à 4 mm de long; glumelles fertiles crustacées, finement rugueuses transversalement; grande herbe rudérale ..... 3. P. maximum.
+4. Spikelets elongate, 3 to 4 mm long; fertile glumelles crustaceous, finely rugose transversely; tall ruderal herb ..... 3. P. maximum.
 
 ---
 
-4'. Épillets plus courts que ci-dessus, globuleux ou plus ou moins acuminés, glumelles fertiles verruqueuses, papyracées.
+4'. Spikelets shorter than above, globose or more or less acuminate, fertile glumelles verrucose, papyraceous.
 
-5. Feuilles linéaires étroites, enroulées, d'environ 1/2 mm de large; épilets courtement acuminés; glume inférieure mesurant les 3/4 de l'épillet; petite herbe cespiteuse des sables blancs temporairement humides ..... 4. P. brazzavillense.
+5. Leaves linear narrow, rolled, about 1/2 mm wide; spikelets shortly acuminate; lower glume measuring 3/4 of the spikelet; small tufted herb of temporarily moist white sands ..... 4. P. brazzavillense.
 
-5'. Feuilles linéaires aplaties ou parfois enroulées, mais de plus de 2 mm de large; épilets globuleux, arrondis au sommet.
+5'. Leaves linear flattened or sometimes rolled, but more than 2 mm wide; spikelets globose, rounded at the apex.
 
-6. Épillets glabres, à reflets métalliques, glumes inégales, l'infé-
+6. Spikelets glabrous, with metallic sheen, glumes unequal, the lower narrow, making about 3/4 of the spikelet; small savanna herb ..... 5. P. fulgens.
 
-ricurc étroite, faisant environ les 3/4 de l'épillet; petite
+6'. Spikelets pubescent; glumes similar; small herb on moist white sands ..... 6. P. nervatum.
 
-herbe de savane..... 5. P. fulgens.
-
-6'. Épillets pubescents; glumes semblables; petite herbe sur sables blancs humides ..... 6. P. nervatum.
-
-3'. Épillets distinctement acuminés, à glumes baillantes, au moins à maturité, avec les acumens souvent recourbés vers l'arrière; glumes fertiles lisses et brillantes.
+3'. Spikelets distinctly acuminate, with gaping glumes, at least at maturity, with the acumens often curved backwards; fertile glumes smooth and shiny.
 
 ## Species in region
 

@@ -17,39 +17,15 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Large to medium trees. Leaves: blade with entire margins. Stipules distinct, early caducous. Inflorescence axillary. Flowers unisexual, dioecious, 5-merous, with articulate pedicel, the male ones in multiflorous glomerules, the female ones in pauciflorous fascicles; bracts and bracteoles small. Male flower with free, imbricate sepals; petals shorter than the sepals; disk extrastaminal, narrow, annular, pilose; stamens 5–6, with introrse anthers; pistillode present. Female flower with sepals, petals and disk similar to those of the male flower; ovary 2-locular with 2 ovules per locule; styles 4, recurved. Drupaceous fruit, with persistent calyx and corolla, indehiscent, fleshy. One seed per fruit, albuminous.
 
-Arbres grands à moyens . Feuilles : limbe à marges entières. Stipules distinctes, tôt
+Monotypic genus from West and Central Africa, with uncertain systematic position.
 
-caduques . Inflorescence axillaire . Fleurs unisexuées, dioïques , 5-mères, à pédicelle arti -
+Taxonomic note: Leandri, followed by Webster and Radcliffe-Smith l.c., described the flowers of this genus as apetalous, but petals are present. They were described as small languettes in the male flower and small membranous pieces in the female flower.
 
-culé, les mâles en glomérules multiflores, les femelles en fascicules pauciflores ; bractées
+B: Radcliffe-Smith (2001), Webster (1994).
 
-et bractéoles petites. Fleur mâle à sépales libres, imbriqués ; pétales plus courts que les
-
-sépales ; disque extrastaminal, étroit, annulaire, pileux ; étamines 5–6, à anthères in -
-
-trorses ; pistillode présent. Fleur femelle à sépales, pétales et disque semblables à ceux de
-
-la fleur mâle ; ovaire 2-loculaire à 2 ovules par loge ; styles 4, recourbés. Fruit drupacé,
-
-à calice et corolle persistants, indéhiscent, charnu . Graine une par fruit, albuminée.
-
-Genre monotypique de l’Afrique de l’Ouest et Centrale, à position systématique incer -
-
-taine.
-
-Note taxonomique : Leandri, suivi par Webster et Radcliffe-Smith l.c. , a décrit les fleurs
-
-de ce genre comme apétales, mais les pétales sont présents. Elles étaient décrites comme
-
-petites languettes chez la fleur mâle et petites pièces membraneuses chez la fleur femelle.
-
-B : Radcliffe-Smith (2001), Webster (1994).
-
-ibliographie
-
----
+ibliography
 
 ## Species in region
 

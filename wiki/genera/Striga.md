@@ -17,73 +17,35 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Herbes annuelles ou rarement pérennes, hémiparasites ou holoparasites , hirsutes ou
-
-scabres ; racines généralement très condensées, avec des racines adventives entre les
-
-écailles souterraines ; tiges dressées, généralement quadrangulaires, souvent canalicu-
-
-lées. Feuilles opposées ou subopposées, sessiles ou subsessiles, dans la plupart des
-
-espèces, réduites à des petites écailles linéaire-lancéolées . Inflorescences en racème
-
-ou épi, dense ou lâche, occasionnellement capitée, munie de bractées ou feuillée. Fleurs
-
-sessiles à subsessiles ; bractéoles présentes ; calice tubuleux, ± symétrique, 5-lobé ou
-
-(4–)5-denté ; corolle bilabiée, blanche, rose, violacée, pourpre ou crème à orangé et
-
-rouge, généralement densément pubescente, tube mince, formant un angle droit avec le
-
-limbe, orifice du tube très petit, moins de 1 mm de diamètre, lèvre supérieure dressée et
-
-bifide ou émarginée, lèvre inférieure tripartite ; étamines 4, didynames, incluses, anthères
+Herbs annual or rarely perennial, hemiparasitic or holoparasitic, hirsute or scabrous; roots generally very condensed, with adventitious roots between the subterranean scales; stems erect, generally quadrangular, often canaliculate. Leaves opposite or subopposite, sessile or subsessile, in most species, reduced to small linear-lanceolate scales. Inflorescences in raceme or spike, dense or lax, occasionally capitate, furnished with bracts or leafy. Flowers sessile to subsessile; bracteoles present; calyx tubular, ± symmetric, 5-lobed or (4–)5-dentate; corolla bilabiate, white, pink, violaceous, purple or cream to orange and red, generally densely pubescent, tube thin, forming a right angle with the limb, tube orifice very small, less than 1 mm in diameter, upper lip erect and bifid or emarginate, lower lip tripartite; stamens 4, didynamous, included, anthers
 
 ---
 
-Corolle ouverte et étalée (× 4). – 5. Étamines (× 8). – 6. Capsule jeune (× 4). – 7. Capsule (× 4). – 8.
-
-Graine (× 20). Dessin par J. Williamson (©), reproduit avec permission de la dessinatrice et Royal Bota-
-
-nic Gardens, Kew, à partir de Ghazanfar et al. (2008).
+Open and spreading corolla (× 4). – 5. Stamens (× 8). – 6. Young capsule (× 4). – 7. Capsule (× 4). – 8. Seed (× 20). Drawing by J. Williamson (©), reproduced with permission of the artist and Royal Botanic Gardens, Kew, from Ghazanfar et al. (2008).
 
 ---
 
-uniloculaires, filets courts ; ovaire tubuleux, à disque basal ; style allongé, stigmate cla-
+unilocular, filaments short; ovary tubular, with basal disc; style elongate, stigma claviform. Fruits capsular, loculicidal. Seeds numerous, minute (scobiform).
 
-viforme. Fruit s capsulaires, loculicides. Graines nombreuses, minuscules (scobiformes).
+Genus of 40 species, most in Africa, a few in Asia; in Gabon, four species.
 
-Genre de 40 espèces, la plupart en Afrique, quelques-unes en Asie ; au Gabon, quatre
+B: Mohamed et al. (2001).
 
-espèces.
+Bibliography
 
-B : Mohamed et al. (2001).
+### Key to the species
 
-ibliographie
+1. - Calyx with 5 nerves ............................................................................................ 2
 
-### Clé des espèces
+- Calyx with 10 to 15 nerves ................................................................................... 3
 
-1. - Calice avec 5 nervures ............................................................................................ 2
+2. - Purple corolla, lower lip 5–5.5 mm in length; limb narrowly triangular-ovate, 1–2.5 mm in width; savanna plant ............... S. bilabiata
 
-- Calice avec 10 à 15 nervures ................................................................................... 3
+- Yellow-orange corolla, lower lip 35–40 mm in length; limb triangular-ovate, 12–30 mm wide; forest plant ........................ S. hallaei
 
-2. - Corolle pourpre, lèvre inférieure 5–5,5 mm de longueur ; limbe étroitement
+3. - Delicate plant, (5–)10–15(–30) cm in height; inflorescence in lax spike; dark red to yellow corolla; limb less than 1 mm in width ....................... S. asiatica
 
-triangulaire-ovale, 1–2,5 mm de largeur ; plante de la savane ............... S. bilabiata
-
-- Corolle orange jaunâtre, lèvre inférieure 35–40 mm de longueur ; limbe
-
-triangulaire-ovale, 12–30 mm de large ; plante de la forêt ........................ S. hallaei
-
-3. - Plante délicate, (5–)10–15(–30) cm de hauteur ; inflorescence en épi lâche ; corolle
-
-rouge foncé à jaune ; limbe de moins de 1 mm de largeur ....................... S. asiatica
-
-- Plante robuste, 50–150 cm de hauteur ; inflorescence en épi dense ; corolle blanche
-
-à gorge jaune ; limbe 3–12 mm de largeur ........................................... S. macrantha
+- Robust plant, 50–150 cm in height; inflorescence in dense spike; white corolla with yellow throat; limb 3–12 mm in width ........................................... S. macrantha
 
 ## Species in region
 

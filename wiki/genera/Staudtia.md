@@ -16,37 +16,35 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Trees with subcoriaceous, glabrous, petiolate leaves, the blade oval-elliptic with 5–10 pairs of secondary veins. Flowers dioecious, sessile, the male ones infundibuliform, the female ones subglobose with 3–4 lobes: filaments fused into a column bearing 3–4 linear anthers equalling the filaments in length. Stigma sessile; fruit with fleshy pericarp, with seed provided with a thick woody testa, entire aril, albumen not ruminate.
 
-Arbres à feuilles subcoriaces, glabres, pétiolées, à limbe ovale-elliptique avec 5-10 paires de nervures secondaires. Fleurs dioïques, sessiles, les mâles infundibiliformes, les femelles subglobuleses à 3-4 lobes: filets soudés en colonne portant 3-4 anthères linéaires égalant en longueur les filets. Stigmate sessile; fruit à péricarpe charnu, à graine munie d'un tégument ligneux épais, arille entier, albumen non ruminé.
+Stapf (F.T.A. 6, 1:156) gives the key to the 3 species of Warburg:
 
-Stapf (F.T.A. 6, 1:156) donne la clé des 3 espèces de Warburg :
+1. Petiole with upper canal broad and shallow.
 
-1. Pétiole à canal supérieur large et peu profond.
+2. Fruit medium: 22–44 mm long, pedicel 5 mm..... S. stipitata.
 
-2. Fruit moyen : 22-44 mm de long, pédoncule 5 mm..... S. stipitata.
+2'. Fruit large: 44–50 mm long, pedicel short.... S. kamerunensis.
 
-2'. Fruit gros : 44-50 mm de long, pédoncule court.... S. kamerunensis.
-
-1'. Pétiole à canal supérieur étroit et profond; fruit non stipité.....
+1'. Petiole with upper canal narrow and deep; fruit not stipitate.....
 
 ..... S. gabonensis.
 
----
+<<<---SECTION-BREAK--->>>
 
-PL. XXV. — 1 à 7, Staudtia gabonensis Warb.: 1, feuille de 11 cm; 1', jeunes fruits de 1 cm (N. Hallé 1819); 2, rameau avec capitules 5', diam. 5 mm; 3, capituile 5 en demi-coupe; 3', fl. 5; 3', coupe, 3', dessus de l'androcée (Le Testu 1895); 4, capitule 5 diam. 15 mm, fl. nouées; 5, demi-coupe; 5', fl. 5; 5", sa coupe; 5", poils de l'ovaire et du pédicelle (SRFK 2362); 6, fr. de 24 mm (Le Testu 4570); 7, graine de 18 mm dans l'arille, face dorsale; 7', côté raphé; 7", coupe (Klaine 565bis d'après Pierre St. Niohue). — 8 à 11, Pycnanthus Marchalianus Ghesq.; 8, feuille pliée, de 15 cm, face inf.; 9, gros fruit: 35 mm de long; 9, graine dans l'arille (Letouz 5059); 10, fl. 8 et sa coupe 10'; 11, fl. 5 et sa coupe 11'; 11" fl. à 4 sépales (d'après Gilbert et Troupin, Fl. du Congo b.).
+PL. XXV. — 1 to 7, Staudtia gabonensis Warb.: 1, leaf of 11 cm; 1', young fruits of 1 cm (N. Hallé 1819); 2, branchlet with capitula 5', diam. 5 mm; 3, capitulum 5 in half-section; 3', fl. 5; 3', section, 3', upper side of the androecium (Le Testu 1895); 4, capitulum 5 diam. 15 mm, fl. knotted; 5, half-section; 5', fl. 5; 5", its section; 5", hairs of the ovary and pedicel (SRFK 2362); 6, fr. of 24 mm (Le Testu 4570); 7, seed of 18 mm in the aril, dorsal surface; 7', raphé side; 7", section (Klaine 565bis after Pierre St. Niohue). — 8 to 11, Pycnanthus Marchalianus Ghesq.; 8, folded leaf, of 15 cm, lower surface; 9, large fruit: 35 mm long; 9, seed in the aril (Letouz 5059); 10, fl. ♂ and its section 10'; 11, fl. ♀ and its section 11'; 11" fl. with 4 sepals (after Gilbert and Troupin, Fl. du Congo b.).
 
----
+<<<---SECTION-BREAK--->>>
 
-Hutchinson et Dalziel (F.W.T.A.: 60) mettent en synonymes S. gabonensis et S. stipitata en ne conservant que ce dernier binome. La clé se réduit ainsi :
+Hutchinson and Dalziel (F.W.T.A.: 60) place S. gabonensis and S. stipitata in synonymy, retaining only the latter binomial. The key thus reduces to:
 
-1. Fruit de 2-3,5 cm de long sur 1,4-1,8 cm de large, avec pédoncule de 2-8 mm.
+1. Fruit of 2–3.5 cm long by 1.4–1.8 cm wide, with pedicel of 2–8 mm.
 
 1. S. stipitata = S. gabonensis.
 
-1'. Fruit de 5 cm de long sur 3-5 cm de large, avec pédoncule de 2-4 mm.
+1'. Fruit of 5 cm long by 3–5 cm wide, with pedicel of 2–4 mm.
 
-Gilbert et. Troupin (Flore du Congo Belge : 394) attribuent à S. gabonensis des fruits non stipités comme Stapf mais contrai-rement à la description de Warburg. L'herbier du Muséum de Paris ne possède pas de types de ces espèces car l'échantillon Griffon du Bellay n° 5 ayant servi à Baillon pour établir la diagnose de Myristica Niohue (Baillon, Adansonia 9 : 79) = Pycnanthus Niohue (Baill) Warb. est un mélange de feuilles de Staudtia gabonensis et de fruits de Pycnanthus. La graine Duparquet 74 donnée comme second type par Baillon ne constitue pas un matériel de grande valeur taxinomique. Comme la vingtaine d'échantillons de Staudtia groupés au Muséum de Paris montrent des pédoncules fructifères variant de 2 à 8 mm de long, et qu'aucun fruit ne correspond à la description de celui de St. kamerunensis Warb. il ne sera question ici que de St. gabonensis.
+Gilbert and Troupin (Flore du Congo Belge: 394) attribute to S. gabonensis non-stipitate fruits as Stapf but contrary to the description of Warburg. The herbarium of the Paris Museum does not possess types of these species because the specimen Griffon du Bellay no. 5 which served Baillon to establish the diagnosis of Myristica Niohue (Baillon, Adansonia 9: 79) = Pycnanthus Niohue (Baill) Warb. is a mixture of leaves of Staudtia gabonensis and fruits of Pycnanthus. The seed Duparquet 74 given as second type by Baillon does not constitute material of great taxonomic value. As the score of specimens of Staudtia grouped at the Paris Museum show fruiting pedicels varying from 2 to 8 mm long, and as no fruit corresponds to the description of that of St. kamerunensis Warb., only St. gabonensis will be discussed here.
 
 ## Species in region
 

@@ -17,21 +17,17 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 ≠ Paulowilhelmia Hochst., in Flora 21 : 1 (27 janv. 1844).
 
-Arbrisseaux à tiges tétragones et feuilles pétiolées glabres ou pubescentes plus ou moins ovales.
+Shrubs with tetragone stems and petiolate leaves, glabrous or pubescent, more or less ovate.
 
-Inflorescences terminales en panicles; fleurs nombreuses, pourvues de bractées et de bractéoles plus ou moins caduques ou subnulles. Calice à 5 segments subégaux, plus ou moins linéaires ou lancéolés. Corolle à tube cylindrique et limbe à une seule lèvre 5 lobée; 4 étamines égales, fertiles, insérées sur le tube. 4-10 ovules dans chaque loge de l'ovaire. Style filiforme exsert à stigmate subulé.
+Inflorescences terminal in panicles; flowers numerous, provided with bracts and bracteoles more or less caducous or subnull. Calyx with 5 subequal segments, more or less linear or lanceolate. Corolla with cylindric tube and limb with a single 5-lobed lip; 4 equal, fertile stamens, inserted on the tube. 4-10 ovules in each locule of the ovary. Style filiform exsert with subulate stigma.
 
-Capsule étroite biloculaire et séminifère jusqu'à la base.
+Capsule narrow, bilocular and seed-bearing to the base.
 
-4-10 graines comprimées par loge; rétinacles recourbés.
+4-10 seeds compressed per locule; retinacula incurved.
 
-Le genre est monotypique.
-
----
+The genus is monotypic.
 
 ## Species in region
 

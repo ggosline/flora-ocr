@@ -16,27 +16,19 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 in BENTH. & HOOK. F., Gen. Pl. 1 (1) : 400 (1862); RADLK., in ENGL., Pflanzenreich, Sapindaceae : 1150 (1933).
 
-Arbres moyens (7-10 m) ou élevés (25-30 m) à tronc ramifié. Feuilles glabres ou avec nervures et pétioles velus, paripennées à 2-6 paires de folioles entières, oblongues; la paire inférieure est plus petite, suborbiculaire et insérée à quelques millimètres de la base du pétiole, simulant ainsi des stipules, sauf chez E. petiolare où la 1 $ ^{re} $ paire de folioles, conforme aux suivantes, est placée à 30-40 mm de la base.
+Medium-sized trees (7-10 m) or tall trees (25-30 m) with branched trunk. Leaves glabrous or with pubescent veins and petioles, paripinnate with 2-6 pairs of entire, oblong leaflets; the lower pair is smaller, suborbicular and inserted a few millimetres from the base of the petiole, thus simulating stipules, except in E. petiolare where the 1st pair of leaflets, conforming to the following ones, is placed 30-40 mm from the base.
 
-Inflorescences axillaires, en grappes ou épis simples ou ramiﬁés de cymules scorpioïdes sessiles ou non, de 1-3 ﬂeurs pédicellées et bractéolées; axes pubescents tomentelleux ou hirsutes. Fleurs régulières, blanches, rosées ou violacées, de 3-4 mm de diamètre, polygames; calice à 5 sépales subvalvaires, libres, pubérulents ou tomentelleux à l'extérieur; corolle à 5 pétales également ou dépassant les sépales, subvalvaires, à onglet court, limbe lancéolé; écaille plus large et moins longue que le limbe, denticulée, ne formant pas entonnoir, c'est-à-dire libre à la base, généralement très velue, crêpue; disque en coupe à bords minces ondulés, parfois marqué de cannelures intérieures correspondant aux ﬁlets, glabre; 8 à 10 étamines exsertes, même dans les ﬂeurs femelles; ﬁlet glabre ou velu; anthères parfois pubérulentes (E. oblongum, racemosum et paniculatum); pistil à ovaire subglobuleux, velu, à 3 loges uniovulées; style terminal velu, égalant l'ovaire.
+Inflorescences axillary, in simple or ramified racemes or spikes of sessile or non-sessile scorpioid cymules, of 1-3 pedicellate and bracteolate flowers; axes pubescent, tomentellous or hirsute. Flowers regular, white, pink or purplish, 3-4 mm in diameter, polygamous; calyx with 5 subvalvate, free sepals, puberulent or tomentellous externally; corolla with 5 petals equal to or exceeding the sepals, subvalvate, with short claw, lanceolate limb; scale wider and shorter than the limb, denticulate, not forming a funnel, that is free at the base, generally very hairy, crisped; disc cup-shaped with thin undulate edges, sometimes marked by interior furrows corresponding to the filaments, glabrous; 8 to 10 exsert stamens, even in the female flowers; filament glabrous or hairy; anthers sometimes puberulent (E. oblongum, racemosum and paniculatum); pistil with subglobose, hairy ovary, 3 uniovulate locules; terminal hairy style, equalling the ovary.
 
-Fruit : capsule localicide, subglobuleuse, à 3 valves épaisses (1,5-3-
+Fruit: loculicidal capsule, subglobose, with 3 thick (1.5-3-4 mm) hard valves, sclerified like a nutshell, presenting in the large interior cavity, at the base, a tuft of white-yellowish woolly hairs, whence the generic name (in Greek, erion = wool and koilos = cavity). The surface of the fruit, at first hairy, generally sheds its pubescence and presents in the fresh state a bright red-orange colour. Seed elongate, inserted at the lower quarter of the central axis, hilum at the base, towards the interior, erect, with glossy black seed coat surrounded over one-third of its height by a red-orange, very soft, lobed aril. Embryo straight with equal, plano-convex cotyledons, one outer, one inner, inferior radicle whose tip is directed towards the hilum.
 
----
+Type species: Eriocælum paniculatum Baker.
 
----
+About ten species have been described from plants of West Africa, from Zaïre and Angola to Liberia.
 
-4 mm) dures, scléifiées comme la coquille d'une noix, présentant dans la large cavité intérieure, à la base, une touffé de poils laineux blanc-jaunâtre, d'où le nom générique (en grec, erion = laine et koilos = cavité). La surface du fruit, d'abord velue, se dépouille généralement de sa pilosité et présente sur le frais une couleur rouge-orangé vif. Graine allongée, insérée au quart inférieur de l'axe central, hile à la base, vers l'intérieur, dressée, à légument noir brillant entourée sur le tiers de sa hauteur d'un arille rouge-orangé, très mou, lobulé. Embryon droit à cotylédons égaux, plans-convexes, l'un extérieur, l'autre intérieur, radicule infère dont la pointe est dirigée vers le hile.
-
-Espèce-type : Eriocælum paniculatum Baker.
-
-Une dizaine d'espèces ont été décrites sur des plantes d'Afrique occidentale, depuis le Zaïre et l'Angola jusqu'au Liberia.
-
-Les caractères choisis pour la distinction des espèces sont : les dimensions du fruit (RADLKOFER), le relief de la nervure médiane, en saillie dessus dans toutes les espèces sauf dans E. oblongum et paniculatum où elle est en creux (KEAY); il a été ajouté ici la pubescence des étamines examinées sur les types ou des échantillons de référence. Mais la diversité du matériel : échantillons en fleurs, en fruits, stériles, est cause d'incertitude et cette clé pourra être certainement améliorée à l'avenir.
+The characters chosen for the distinction of species are: the dimensions of the fruit (RADLKOFER), the relief of the midvein, raised above in all species except in E. oblongum and paniculatum where it is sunken (KEAY); to this has been added the pubescence of the stamens examined on the types or reference specimens. But the diversity of the material: samples in flower, in fruit, sterile, is the cause of uncertainty and this key can certainly be improved in the future.
 
 ## Species in region
 

@@ -17,71 +17,23 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Herbes pérennes issues d’un rhizome vigoureux et résistant, à feuilles et scapes souvent
-
-pileux . Feuilles en une touffe basale, linéaires, épaisses, spongieuses, les vieilles glabres-
-
-centes, non septées. Inflorescences : scapes axillaires, plurisillonnés ; capitule globuleux
-
-ou aplati, 9–35 mm de diamètre ; bractées involucrales en plusieurs séries imbriquées,
-
-les centrales parfois rayonnantes au-delà de la marge du disque du capitule, coriaces, à
-
-marges scarieuses ; bractées florales filiformes, avec un sommet marqué et souvent
-
-pileux ; réceptacle portant un coussin laineux de longs poils ennoyant les fleurs. Fleurs
-
-3-mères, pédicellées ; sépales souvent caducs, oblancéolés-oblongs, concaves, générale-
-
-ment membraneux ; pétales soudés en un tube charnu infundibuliforme ou oblong , à
-
-marge supérieure faiblement 3-lobée, les internes à 3 glandes linéaires brunes et insérées
-
-vers les 2/3 supérieurs. Fleurs mâles avec un court stipe charnu entre sépales et pétales ;
+Perennial herbs arising from a vigorous and resistant rhizome, with leaves and scapes often pilose. Leaves in a basal tuft, linear, thick, spongy, the old ones glabrescent, not septate. Inflorescences: scapes axillary, plurisulcate; capitulum globose or flattened, 9–35 mm in diameter; involucral bracts in several imbricate series, the central ones sometimes radiating beyond the margin of the capitulum disk, coriaceous, with scarious margins; floral bracts filiform, with a marked and often pilose apex; receptacle bearing a woolly cushion of long hairs enveloping the flowers. Flowers 3-merous, pedicellate; sepals often caducous, oblanceolate-oblong, concave, generally membranous; petals fused into a fleshy infundibuliform or oblong tube, with weakly 3-lobed upper margin, the inner ones with 3 brown linear glands inserted toward the upper 2/3. Male flowers with a short fleshy stipe between sepals and petals;
 
 ---
 
-Tebbs (©), reproduit avec permission à partir de Phillips (2011).
+Tebbs (©), reproduced with permission from Phillips (2011).
 
 ---
 
-sépales libres ou parfois soudés à la base ; pétales à tube glabre, ayant parfois des petites
+sepals free or sometimes fused at the base; petals with glabrous tube, sometimes having small slits at the base; stamens 6, arising from the base of the petal tube, anthers generally pale cream-yellow, rarely dark brown; rudimentary gynoecium present. Female flowers: petals with free base thus forming slits in the tube at the level of the ovary, tube often villous externally and/or internally; ovary prominent at maturity between the slits of the petal tube; stigmas 3, without appendages. Seeds subglobose, brown, densely covered with white piliform expansions.
 
-fentes à la base ; étamines 6 , issues de la base du tube des pétales, anthères généralement
+Genus with 15 species in tropical Africa and 2 endemic to Madagascar; one in Gabon.
 
-jaune crème pâle, rarement brun foncé ; gynécée rudimentaire présent. Fleurs femelles :
+Taxonomic notes: Mesanthemum is a relatively small genus with most species having a restricted distribution concentrated particularly in West Africa and southern Democratic Republic of the Congo to northern Zambia. Most are relatively robust perennial herbs, with pilose leaves, with no risk of confusion with the few species of Eriocaulon present in Gabon. The coriaceous involucral bracts are also harder than they usually are in Eriocaulon.
 
-pétales à base libre formant ainsi des fentes dans le tube au niveau de l’ovaire, tube
+A bibliographic reference of Mesanthemum prescottianum (Bong.) Körn. for Gabon is based on a misidentification (Sosef et al. 2006). This species is present in West Africa, from Guinea Conakry to Côte d'Ivoire.
 
-souvent villeux extérieurement et/ou intérieurement ; ovaire saillant à maturité entre les
-
-fentes du tube des pétales ; stigmates 3, sans appendices. Graines subglobuleuses, brunes,
-
-densément couvertes d’expansions blanches piliformes.
-
-Genre à 15 espèces en Afrique tropicale et 2 endémiques à Madagascar ; une au Gabon.
-
-Notes taxonomiques : Mesanthemum est un genre relativement petit avec la plupart des
-
-espèces à répartition restreinte et concentrée en particulier à l’Afrique de l’Ouest et le sud
-
-de la République Démocratique du Congo jusqu’au nord de la Zambie. La plupart sont des
-
-herbes pérennes relativement robustes, avec des feuilles pileuses, sans risque de confusion
-
-avec les quelques espèces d’ Eriocaulon présentes au Gabon. Les bractées involucrales
-
-coriaces sont aussi plus dures qu’elles ne le sont habituellement dans Eriocaulon .
-
-Une référence bibliographique de Mesanthemum prescottianum (Bong.) Körn. pour le
-
-Gabon est fondée sur une erreur de détermination (Sosef et al. 2006). Cette espèce est
-
-présente en Afrique de l’Ouest, de la Guinée Conakry à la Côte d’Ivoire.
-
-B : Jacques-Félix (1947), Kimpouni (1994a), Kimpouni, Lejoly & Lisowski
+B: Jacques-Félix (1947), Kimpouni (1994a), Kimpouni, Lejoly & Lisowski
 
 ## Species in region
 

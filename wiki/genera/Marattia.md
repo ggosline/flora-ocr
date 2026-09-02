@@ -16,13 +16,11 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Rhizome erect. Frond of large dimensions, 2-3 times pinnate. Veins free, simple or forked, without recurrent veins. Sori dorsal on the veins, formed of a double row of coalescent sporangia.
 
-Rhizome dressé. Fronde de grandes dimensions, 2-3 fois pennée. Nervures libres, simples ou furquées, sans nervures récurrentes. Sores dorsaux sur les nervures, formés d'une double rangée de sporanges coalescents.
+Type species: Marattia alata Sw., from Jamaica.
 
-Espèce type : Marattia alata Sw., de la Jamaïque.
-
-Environ 60 espèces tropicales. Une seule en Afrique.
+Approximately 60 tropical species. Only one in Africa.
 
 ## Species in region
 

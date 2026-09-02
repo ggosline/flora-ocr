@@ -17,47 +17,12 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Trees glabrous; latex yellow. Stipules absent. Leaves opposite; lamina with numerous punctations or brief translucid lines and sometimes with secretory canals traversing obliquely the numerous lateral nerves. Inflorescences axillary, generally at nodes already devoid of leaves. Flowers bisexual (but functionally female) and male, glabrous, the male ones in fascicles, the bisexual ones solitary; calyx entire in bud, opening into 2(−3) segments, ± persistent; petals 4(−6), imbricate, caducous; stamens numerous, free or fused at the base into a ring; ovary 2-locular, with 2 ovules per locule, sometimes 4-locular with 1 ovule per locule as a result of the formation of false septa, basal placentation; style 1, very short, stigma peltate, 2−4-lobed. Fruits drupaceous or rarely dehiscent, with 1−4 fibrous and monospermic pyrenes. Seeds large, with poorly distinct cotyledons, surrounded by edible colourless pulp.
 
-Arbres glabres ; latex jaune . Stipules absentes. Feuilles opposées ; limbe à nombreuses
+Genus grouping approximately 75 species of which two are in Central America, three in continental Africa and the others in Madagascar (which constitutes the centre of diversity of the genus), in tropical Asia and as far as the Pacific and New Caledonia; in Gabon, a single indigenous species. Mammea americana L. is sometimes cultivated in Africa and was recorded in Gabon in 1895. It is therefore not impossible that this species is still present there.
 
-ponctuations ou lignes brèves translucides et parfois à canaux sécréteurs traversant obli-
-
-quement les nombreuses nervures latérales. Inflorescences axillaires , généralement aux
-
-nœuds déjà dépourvus des feuilles. Fleurs bisexuées (mais fonctionnellement femelles)
-
-et mâles, glabres, les mâles en fascicules , les bisexuées solitaires ; calice entier dans le
-
-bouton, s’ouvrant en 2( ‒ 3) segments , ± persistants ; pétales 4( ‒ 6), imbriqués, caducs ;
-
-étamines nombreuses, libres ou soudées à la base en un anneau ; ovaire 2-loculaire, à 2
-
-ovules par loge, parfois 4-loculaire à 1 ovule par loge par suite de la formation de fausses
-
-cloisons, placentation basale ; style 1, très court, stigmate pelté, 2 ‒ 4-lobé. Fruits drupacés
-
-ou rarement déhiscents, à 1 ‒ 4 noyaux fibreux et monospermes . Graines larges, à coty-
-
-lédons peu distincts, entourés par une pulpe comestible sans couleur.
-
-Genre groupant environ 75 espèces dont deux en Amérique Centrale, trois en Afrique
-
-continentale et les autres à Madagascar (qui constitue le centre de diversité du genre),
-
-en Asie tropicale et jusqu’au Pacifique et en Nouvelle Calédonie ; au Gabon, une seule
-
-espèce indigène. Mammea americana L. est parfois cultivée en Afrique et était signalée
-
-au Gabon en 1895. Il n‘est donc pas impossible que cette espèce y soit toujours présente.
-
-B : Bamps (1970a, 1971), Bamps et al. (1978), Dunthorn (2004), Stevens
-
-i B liographie
-
-(2007), de Wilde (1956).
-
----
+B: Bamps (1970a, 1971), Bamps et al. (1978), Dunthorn (2004), Stevens
+Bibliography (2007), de Wilde (1956).
 
 ## Species in region
 

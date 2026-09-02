@@ -17,45 +17,39 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+1. L. PIERRE distributed to several Herbaria, including (B) (cf. Camptostylus GILG, Notizbl. Berl-Dahl. 2 : 57, 1898), the printed drawing comprising numerous analyses of the species Cerolepis petiolaris PIERRE ; which constituted the validity of the publication. The drawing was dated "1/96" and seen by GILG before the publication of Camptostylus GILG in December 1897 or February 1898 (cf. GILG, EBJ 40 : 451 (1908) ; GILG knew the species "C. petiolaris PIERRE" only through the drawing.
 
-1. L. PIERRE a distribué à plusieurs Herbiers, y compris (B) (cf. Camptostylus GILG, Notizbl. Berl-Dahl. 2 : 57, 1898), le dessin imprimé comprenant de nombreuses analyses de l'espèce Cerolepis petiolaris PIERRE ; ce qui a constitué la validité de la publication. Le dessin était daté en « 1/96 » et vu par GILG avant la publication de Camptostylus GILG en décembre 1897 ou février 1898 (cf. GILG, EBJ 40 : 451 (1908) ; GILG ne connaissait l'espèce « C. petiolaris PIERRE » que par le dessin.
+<<<---SECTION-BREAK--->>>
 
----
+Trees or shrubs unarmed or spiny.
 
----
+Leaves stipulate, entire or crenate-dentate to serrate ; petiole swollen or not at the apex.
 
-Arbres ou arbustes inermes ou épineux.
+Inflorescences few-flowered or many-flowered, in cymes, racemes or panicles. Flowers ♂ or ♀ and ♀ (polygamous plants), grouped or solitary, terminal or axillary, generally on aerial axes, but sometimes subterranean ; sepals 3-5, imbricate ; petals 5-12, imbricate ; stamens numerous (10-100) ; ovary glabrous or pubescent, with 2-8 pluriovulate placentas ; style unique, entire or deeply divided into 3-5 stigmatic branches.
 
-Feuilles stipulées, entières ou crénelées-dentées à serrées ; pétiole enflé ou non au sommet.
+Fruits : capsules sometimes tardily dehiscent or even indehiscent, generally on aerial axes, but sometimes subterranean, smooth or spiny ; seeds numerous, rarely 1-2, ± arillate ; glabrous or pubescent.
 
-Inflorescences pauciflores ou multiflores, en cymes, racèmes ou panicules. Fleurs ♂ ou ♀ et ♀ (plantes polygames), groupées ou solitaires, terminales ou axillaires, généralement sur des axes aériens, mais parfois souterrains ; sépales 3-5, imbriqués ; pétales 5-12, imbriqués ; étamines nombreuses (10-100) ; ovaire glabre ou pubescent, à 2-8 placentas pluriovulés ; style unique, entier ou profondément divisé en 3-5 branches stigmatiques.
+TYPE SPECIES : O. spinosa FORSSK.
 
-Fruits : capsules parfois tardivement déhiscentes ou même indéhiscentes, généralement sur des axes aériens, mais parfois souterrains, lisses ou épineuses ; graines nombreuses, rarement 1-2, ± arillées ; glabres ou pubescentes.
+Genus of Arabia, tropical Africa and America, comprising approximately 30 species, of which 9 for the Flora, with one new species, Oncoba breteleri Hul (p. 55).
 
-ESPÈCE-TYPE : O. spinosa FORSSK.
+1. Branches spiny ; leaves glandular on the margins of the lower surface ; flowers always solitary ; fruits always unarmed, subglobose, difficult to dehisce.
 
-Genre d'Arabie, d'Afrique et d'Amérique tropicales, comprenant environ 30 espèces, dont 9 pour la Flore, avec une espèce nouvelle, Oncoba breteleri Hul (p. 55).
+1'. Branches unarmed, leaves not glandular on their margins ; flowers grouped, rarely solitary ; fruits unarmed or spiny, globose or ovoid, early or tardily dehiscent.
 
-1. Rameaux épineux ; feuilles glandulaires sur les bords de la face inférieure ; fleurs toujours isolées ; fruits toujours inermes, subglobuleux, difficilement déhiscents.
+2. Flowers and fruits always on aerial axes ; anthers dehiscing by longitudinal slits.
 
-l'. Rameaux inermes, feuilles non glanduleuses sur leurs bords ; fleurs groupées, rarement solitaires ; fruits inermes ou épineux, globuleux ou ovoïdes, tôt ou tardivement déhiscents.
+3. Inflorescences in few-flowered fascicles ; petals very large (25-50 × 10-20 mm).
 
-2. Fleurs et fruits toujours sur des axes aériens ; anthères à déhiscence par fentes longitudinales.
+4. Flowers arising on leafy branches ; ovary verrucose-glandular ; style entire, with stigma 4-5-lobed or finely denticulate ; fruits unarmed.....2. O.
 
-3. Inflorescences en fascicules pauciflores ; pétales très grands (25-50 x 10-20 mm).
+4'. Flowers cauline ; ovary echinulate ; style divided at the apex into 5-6 stigmatic branches ; fruits spiny ..... 3. O. welwitschii
 
-4. Fleurs naissant sur des rameaux feuillés ; ovaire verruequeux-glandulaire ; style entier, à stigmate 4-5-lobé ou finement denticulé ; fruits inermes.....2. O.
+3'. Inflorescences in racemes or racemiform panicles, many-flowered, or few-flowered ; petals smaller (8-15 × 2-9 mm).
 
-4'. Fleurs caulinaires ; ovaire échinulé ; style divisé au sommet en 5-6
+5. Racemes ; pedicel not articulate.
 
-branches stigmatiques ; fruits épineux ..... 3. O. welwitschii
-
-3'. Inflorescences en racèmes ou panicules racémiformes, multiflores, ou pauciflores ; pétales plus petits (8-15 × 2-9 mm).
-
-5. Racèmes ; pédicelle non articulé.
-
-6. Présence d’organes glandulaires en forme de « trompette », à la bas-
+6. Presence of glandular organs shaped like "trumpets", at the base-
 
 ## Species in region
 

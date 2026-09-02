@@ -17,71 +17,15 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Perennial herbs or shrubs, in isolated clumps or small patches, by production of basal suckers; roots thickened. Leaves in spirals contracted into a rosette or rarely distichous, especially in younger plants, simple, with colourless or more often yellow, brown or purple sap, sometimes the base enlarged forming a bulbous swelling; lamina linear to narrowly ovate or deltoid; sheathing at the base, margin generally with spinose teeth or sometimes cartilaginous, surface glabrous, generally smooth, uniformly green or spotted with white. Inflorescence terminal and axillary, pedunculate, with flowers lax or compact, arranged in one or several paniculate racemes, capitate to elongate cylindric; peduncle robust, flattened at the base, with branches generally situated in the upper half; bracts scarious. Flowers pedicellate, erect in bud, pendant at anthesis; perianth in two cycles of 3 free pieces toward the apex, fleshy; stamens with flattened filaments, anthers oblong, basifixed; style slender, longer than the stamens. Fruit erect, sometimes stipitate, with 3 obtuse angles, papyraceous or weakly woody, opening toward the apex, with seed dispersal by ballistic projection.
 
-Herbes pérennes ou arbustes , par pieds isolés ou par petites taches, par la production
+The genus Aloe is present in most of subsaharan Africa, the Arabian Peninsula, Madagascar and islands of the Indian Ocean. The centres of diversity are found in southern and eastern Africa; in Gabon, there are two species.
 
-basale des drageons ; racines épaissies. Feuilles en spirales contractées en rosette ou rare-
+Taxonomic notes: In their work, Les plantes utiles du Gabon, Raponda-Walker & Sillians (1961) give the use of "Aloe angolensis De Wild. & Dur." at Fernan Vaz. We cannot confirm the presence of this species in Gabon. It is possible that it was confused with Aloe congolense De Wild. & T. Durand, which is a synonym of A. buettneri, known from Gabon.
 
-ment distiques, en particulier dans les plantes plus jeunes, simples, avec une sève incolore
+To make a good herbarium with Aloe, it is important to remove the gelatinous tissue from the leaves. The best method is to carefully incise the lower surface following the edge just set back from the marginal teeth, detach it and scrape away the gel. Both leaf surfaces will then dry more quickly. The inflorescence must be killed quickly to prevent all the flowers from falling. It can be soaked for a few minutes in a preservative liquid or placed in a freezer or microwave oven. In the field, petroleum is a good alternative.
 
-ou plus souvent jaune, brune ou pourpre , parfois la base élargie formant un gonflement
-
-bulbeux ; limbe linéaire à étroitement ovale ou deltoïde; engaînant à la base, marge géné-
-
-ralement avec des dents épineuses ou parfois cartilagineuse, surface glabre, générale -
-
-ment lisse, uniformément verte ou tachée de blanc. Inflorescence terminale et axillaire,
-
-pédonculée, à fleurs lâches ou compactes, disposées en un ou plusieurs racèmes panicu -
-
-lés, capités à longuement cylindriques ; pédoncule robuste, aplati à la base, à branches
-
----
-
-généralement situées dans la moitié supérieure ; bractées scarieuses. Fleurs pédicellées,
-
-dressées en bouton, pendantes à l’anthèse ; périanthe en deux cycles de 3 pièces, libres
-
-vers le sommet, charnues ; étamines à filet aplati, anthères oblongues, basifixes ; style
-
-grêle, plus longs que les étamines. Fruit dressé, parfois stipité, à 3 angles obtus, papyracé
-
-ou faiblement ligneux, s’ouvrant vers le haut, à dispersion des graines par projection
-
-balistique.
-
-Le genre Aloe est présent dans la plus grande partie de l’Afrique subsaharienne, la Pénin -
-
-sule Arabe, Madagascar et les îles de l’Océan Indien. Les centres de diversité se trouvent
-
-en Afrique australes et orientale ; au Gabon, il existe deux espèces.
-
-Notes taxonomiques : Dans leur ouvrage, Les plantes utiles du Gabon , Raponda-Walker
-
-& Sillians (1961) donnent l’usage de « Aloe angolensis De Wild. & Dur. » à Fernan Vaz.
-
-Nous ne pouvons pas confirmer la présence de cette espèce au Gabon. Il est possible
-
-qu’elle ait été confondue avec Aloe congolense De Wild. & T. Durand, qui est un syno -
-
-nyme de A. buettneri , connue du Gabon.
-
-Pour réaliser un bon herbier avec Aloe , il est important de supprimer le tissu gélatineux
-
-des feuilles. Le meilleur moyen est d’inciser soigneusement la surface inférieure en sui -
-
-vant le bord juste en retrait des dents marginales, de la détacher et de gratter la gelée. Les
-
-deux faces foliaires sécheront ainsi plus vite. L’inflorescence doit être tuée rapidement
-
-pour éviter la chute de toutes les fleurs. Elle peut être trempée quelques minutes dans un
-
-liquide de conservation ou mise au congélateur ou dans un four à micro-ondes. Sur le
-
-terrain, le pétrole est une bonne alternative.
-
-B : Carter (1994), Carter et al. (2011), Newton (2001), Raponda-Walker &
+B: Carter (1994), Carter et al. (2011), Newton (2001), Raponda-Walker &
 
 ## Species in region
 

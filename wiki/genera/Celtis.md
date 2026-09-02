@@ -17,69 +17,29 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Trees or shrubs, monoecious, rarely dioecious, with deciduous or persistent leaves, unarmed (often armed in non-African species); buds scaly or not. Leaves: lamina generally unequal at the base, entire or serrate margin, penninerved or triplinerved; cystoliths often present, giving a scabrous texture to adult leaves. Stipules thick, peltate, fused or free. Inflorescences axillary on shoots of the year, in racemes, panicles or in cymules grouped (sometimes fasciculate in non-African species); male and hermaphrodite flowers often precocious, female ones sometimes in separate inflorescences. Flowers: tepals (4 or) 5 or 6, imbricate, slightly connate at the base; stamens equal in number to the tepals, glabrous, filaments subulate, curved in bud and detaching elastically at anthesis, anthers ovoid; ovary unilocular, ovoid-ellipsoidal, sessile; styles (1 or) 2, bifid, rarely entire. Fruits drupaceous, weakly fleshy, sometimes with ribbed endocarp. Seeds with curved embryo; cotyledons broad.
 
-Arbres ou arbustes , monoïques, rarement dioïques, à feuilles caduques ou persistantes, inermes
+This genus of 60 to 70 species has a cosmopolitan distribution; in Africa, it includes Nigeria, São Tomé and Príncipe, Cameroon, Equatorial Guinea, Gabon, Republic of the Congo, Democratic Republic of the Congo, Central African Republic and Angola. In Gabon, it comprises five species.
 
-(souvent armés chez les espèces non africaines) ; bourgeons écailleux ou non. Feuilles : limbe
+Uses: The wood of Celtis is used for light construction, for various household utensils and as firewood. The roots can fix nitrogen in symbiosis with bacteria.
 
-généralement inégal à la base, à marge entière ou serrée , penninervé ou triplinervé ; cys-
+Bi: Letouzey (1968), Sattarian (2006), Todzia (1993), Wilmot-Dear (1991).
 
----
+Bibliography
 
-tolithes souvent présents, donnant une texture scabre aux feuilles adultes. Stipules épaisses,
+### Key to species
 
-peltées, soudées ou libres. Inflorescences axillaires sur les pousses de l’année , en grappes,
+1. - Leaf lamina entirely and strongly asymmetric, often falciform ................. 2
 
-panicules ou en cymules groupées (parfois fasciculées chez les espèces non africaines) ; fleurs
+- Leaf lamina symmetric, only the base sometimes asymmetric .................................... 3
 
-mâles et hermaphrodites souvent précoces, les femelles parfois en inflorescences séparées.
-
-Fleurs : tépales (4 ou)5 ou 6, imbriqués , légèrement connés à la base ; étamines en nombre
-
-égal aux tépales, glabres, filets subulés, incurvés en bouton et se détendant élastiquement à
-
-l’anthèse, anthères ovoïdes ; ovaire uniloculaire, ovoïde-ellipsoïdal, sessile ; styles (1 ou)2,
-
-bifides, rarement entiers. Fruits drupacés , faiblement charnus, parfois à endocarpe côtelé.
-
-Graines à embryon courbé ; cotylédons larges.
-
-Ce genre de 60 à 70 espèces ayant une aire de répartition cosmopolite ; en Afrique, il inclut le
-
-Nigéria, Sao Tomé et Principe, le Cameroun, la Guinée équatoriale, le Gabon, la République
-
-du Congo, la République démocratique du Congo, la République Centrafricaine et l’Angola.
-
-Au Gabon, il compte cinq espèces.
-
-Usage : Le bois des Celtis est utilisé pour la construction légère, pour divers ustensiles ménagers et
-
-comme bois de chauffage. Les racines peuvent fixer l’azote en symbiose avec des bactéries.
-
-Bi : Letouzey (1968), Sattarian (2006), Todzia (1993), Wilmot-Dear (1991).
-
-B liographie
-
-### Clé des espèces
-
-1. - Limbe foliaire entièrement et fortement asymétrique, souvent falciforme ................. 2
-
-- Limbe foliaire symétrique, seule la base parfois asymétrique .................................... 3
-
-2. - Pétiole de 5–18 mm ; limbe de 8–18 × 5–10 cm, glabre ou avec quelques poils sur
-
-les nervures dessous ; fruit largement ovoïde à obovoïde, de 15–21 × 13–18 mm
+2. - Petiole 5–18 mm; lamina 8–18 × 5–10 cm, glabrous or with a few hairs on the veins beneath; fruit broadly ovoid to obovoid, 15–21 × 13–18 mm
 
 ............................................................................................................ C. adolfi-friderici
 
-- Pétiole de 2–4 mm ; limbe de 4–11 × 2–4 cm, nervure médiane poilue dessus, poilu
+- Petiole 2–4 mm; lamina 4–11 × 2–4 cm, midvein hairy above, hairy at least on the basal part of the veins beneath; fruit globose, 10–18 × 8–15 mm ................................................................................................. C. tessmannii
 
-au moins sur la partie basale des nervures dessous ; fruit globuleux, de 10–18 ×
-
-8–15 mm ................................................................................................. C. tessmannii
-
-3. - Limbe foliaire elliptique-ovale à étroitement elliptique-ovale ; styles entiers
+3. - Leaf lamina elliptic-ovate to narrowly elliptic-ovate; styles entire
 
 ## Species in region
 

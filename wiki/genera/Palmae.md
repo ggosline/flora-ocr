@@ -16,63 +16,9 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+### (ARECACEAE Bercht & J.Presl (1820), nom. cons., nom. alt.)
 
-### (ARECACEAE Bercht & J.Presl (1820), nom. cons. , nom. alt. )
-
-Arbres , arbustes ou lianes, épines présentes ou absentes, monocarpiques [mourant après une
-
-seule floraison] ou polycarpiques [fleurissant plusieurs fois], hermaphrodites, dioïques ou mo -
-
-noïques ; stipe [tronc] absent (et alors plante acaule) ou court à plusieurs mètres de longueur,
-
-solitaire ou cespiteux, lisse ou couvert de restes de vieilles feuilles ou de gaines foliaires,
-
-fibres autour du stipe absentes ou présentes. Feuilles alternes, spiralées ; gaine foliaire tubulé
-
-ou se déchirant, armée ou non d’épines ; ochréa [partie prolongeant la gaine apicalement]
-
-présente ou absente ; pétiole présent ou absent (sur feuille mature), très court à long, armé
-
-ou non d’épines, dans certain cas présence de folioles basales modifiées en épine ; limbe
-
-bifide, penné, palmé (hors du Gabon) ou costapalmé [limbe palmé mais avec la nervure
-
-principale bien développée] ; folioles linéaires, elliptiques, sigmoïdes ou absentes, sommet
-
-acuminé, apiculé ou prémorse [comme coupé avec des dents], bords armés ou non d’épines,
-
-parfois le rachis prolongé en un cirrhe [extension comme un fouet] généralement muni de
-
-folioles-épines 1,5–5 cm de longueur [folioles apicales modifiées en crochets (acanthophylls
-
-en anglais)], le rachis de la cirrhe épineux ou non. Inflorescences axillaires, solitaires ou non,
-
-situées au-dessous ou entre les feuilles, en épi ou panicule ramifié jusqu’à 6 fois, parfois
-
-(genre Calamus ) un flagelle émerge à la même position sur l’axe (suggérant que c’est une
-
-inflorescence modifiée) ; pédoncule long ou court ; préfeuille (autrefois appelée spathe) se
-
-divisant généralement en deux ; bractées pédonculaires absente à plusieurs ; rachis plus court,
-
-égalant ou plus long que le pédoncule ; rameaux florifères courts à longs, fins ou très épais.
-
-Fleurs hermaphrodites ou unisexuées, sessiles ou pédicellées, solitaires ou par 2, 3 ou plus
-
-en cymes scorpioïdes (cincinnus, hors du Gabon) ; périanthe différencié en calice et corolle ;
-
-sépales 3, libres ou fusionnés ; pétales 3, libres ou fusionnés ; étamines 6 à nombreuses,
-
-filets érigés, soudés à la corolle, anthère latrorse ou extrorse, basifixe ou médifixe, staminodes
-
-généralement présents ; gynécée apocarpique [à carpelles libres] ou syncarpique [à carpelles
-
-fusionnés], à (2–)3(–4) carpelles glabres ou couverts de petites écailles, uni- à pluri-loculaire,
-
-chaque loge à 1 ovule basifixe, -médifixe ou apical ; style libre ou fusionné, stigmate érigé
-
-ou courbé ; pistillode présent ou absent dans les fleur mâles. Fruits larges avec restes stigma -
+Trees, shrubs or lianes, spines present or absent, monocarpic [dying after a single flowering] or polycarpic [flowering several times], hermaphrodite, dioecious or monoecious; crownshaft [trunk] absent (and thus plant acaulescent) or short to several metres in length, solitary or caespitose, smooth or covered with remains of old leaves or leaf sheaths, fibres around the crownshaft absent or present. Leaves alternate, spiral; leaf sheath tubular or splitting, armed or unarmed with spines; ochrea [part extending the sheath apically] present or absent; petiole present or absent (on mature leaf), very short to long, armed or unarmed with spines, in certain cases presence of basal leaflets modified into spines; blade bifid, pinnate, palmate (outside Gabon) or costapalmate [blade palmate but with the main vein well developed]; leaflets linear, elliptic, sigmoid or absent, apex acuminate, apiculate or premorse [as if cut with teeth], margins armed or unarmed with spines, sometimes the rachis extended into a cirrhus [whip-like extension] generally bearing leaflet-spines 1.5–5 cm in length [apical leaflets modified into hooks (acanthophylls in English)], the rachis of the cirrhus spinose or not. Inflorescences axillary, solitary or not, situated below or between the leaves, in a spike or panicle branched up to 6 times, sometimes (genus Calamus) a flagellum emerges at the same position on the axis (suggesting it is a modified inflorescence); peduncle long or short; prophyll (formerly called spathe) generally dividing into two; peduncular bracts absent to several; rachis shorter, equalling or longer than the peduncle; flowering branches short to long, slender or very thick. Flowers hermaphrodite or unisexual, sessile or pedicellate, solitary or in 2, 3 or more in scorpioid cymes (cincinnus, outside Gabon); perianth differentiated into calyx and corolla; sepals 3, free or fused; petals 3, free or fused; stamens 6 to numerous, filaments erect, adnate to the corolla, anther latrorse or extrorse, basifixed or medifixed, staminodes generally present; gynoecium apocarpous [with free carpels] or syncarpous [with fused carpels], with (2–)3(–4) carpels glabrous or covered with small scales, uni- to plurilocular, each locule with 1 ovule basifixed, medifixed or apical; style free or fused, stigma erect or curved; pistillode present or absent in male flowers. Fruits large with remains of stigma—
 
 ## Species in region
 

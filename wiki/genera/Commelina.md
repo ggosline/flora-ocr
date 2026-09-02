@@ -17,71 +17,25 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Herbes pérennes ou annuelles, à ramification sympodiale ; racines fibreuses ou parfois tubéri -
-
-sées. Feuilles spiralées ou distiques, sans ou avec pseudopétiole ; limbe à base généralement
-
-oblique, sommet souvent acuminé. Inflorescences terminales et opposées aux feuilles, soli-
-
-taires ou en grappe, chaque inflorescence composée de 1 ou 2 cincinni pédonculés et contrac -
-
-tés, sous-tendus ou entièrement enveloppés par une spathe pliée à bords libres ou soudés
-
-vers la base ; cincinnus distal généralement sortant de la spathe avec une fleur mâle , le
+Herbs perennial or annual, with sympodial branching; roots fibrous or sometimes tuberous. Leaves spiral or distichous, without or with pseudipetiole; blade with generally oblique base, apex often acuminate. Inflorescences terminal and opposite the leaves, solitary or in racemes, each inflorescence composed of 1 or 2 pedunculate and contracted cincinni, subtended or entirely enveloped by a spathe folded with free or basally fused margins; distal cincinnus generally exserted from the spathe with a staminate flower, the
 
 ---
 
 ---
 
-basal entièrement enveloppé par la spathe, généralement pluriflore, avec plusieurs ou toutes
+basal entirely enveloped by the spathe, generally pluriflorous, with several or all flowers bisexual. Flowers distinctly zygomorphic, pedicellate; sepals free or the 2 lower partially or entirely fused; petals free, unequal, the 2 upper broader and clawed, the lower (very) reduced, without claw; stamens 3, the 2 lateral generally prominent, (distinctly) longer than the median, with anthers of different shape, the median often saddle-shaped, often of different color and sometimes with pollen also of different color from that of the 2 lateral, anthers dehiscent longitudinally; staminodes (2–)3, the median often shorter than the lateral, filaments glabrous, generally free, antheroid generally 6-lobed, sometimes reduced, yellow, sometimes presenting a dark central spot; ovary sessile, 2- or 3-locular, with 2 to 5(–6) ovules, dorsal locule with 0 or 1(–2) ovules or suppressed, ventral locules 1- or 2-ovulate; style slender, stigma generally capitate or triangular. Fruits in capsules 2- or 3-locular, with 2 or 3 valves, with 1 to 5(–6) seeds; dorsal locule, if present, with 0 or 1 seed, dehiscent or not, if indehiscent, the valve is fused to the seed or not, ventral locules generally with 1 or 2 seeds, dehiscent. Seeds uniseriate; hilum linear; embryotegium lateral, sometimes appendiculate.
 
-les fleurs bisexuées . Fleurs nettement zygomorphes, pédicellées ; sépales libres ou les 2 in-
+Genus of ± 170 pantropical and temperate species, with ± 100 in Africa, of which 6 in Gabon.
 
-férieurs partiellement ou entièrement soudés ; pétales libres, inégaux, les 2 supérieurs plus
+Notes: The species are difficult to identify, because flowers are not abundant and wilt rapidly and few characters are visible on herbarium specimens. On the other hand, seeds are often very distinct and characteristic.
 
-larges et ongiculés, l’inférieur (très) réduit, sans onglet ; étamines 3, les 2 latérales généra-
+B: Brunel et al. (1984), van der Burg (2006), Faden (1998, 2012), Vanden Berghen (1988).
 
-lement proéminentes, (nettement) plus longues que la médiane , avec des anthères de forme
+Bibliography
 
-différente, la médiane souvent en forme de selle, souvent de couleur différente et parfois
+### Key to the species
 
-avec le pollen également de couleur différente de celui des 2 latérales, anthères déhiscentes
-
-longitudinalement ; staminodes (2–)3, le médian souvent plus court que les latéraux, filets
-
-glabres, généralement libres, anthérode généralement 6-lobé , parfois réduits, jaunes, présen -
-
-tant parfois une tache centrale noirâtre ; ovaire sessile, 2- ou 3-loculaire, avec 2 à 5(–6) ovules,
-
-loge dorsale à 0 ou 1(–2) ovules ou supprimée, loges ventrales 1- ou 2-ovulées ; style mince,
-
-stigmate généralement capité ou triangulaire. Fruits en capsules 2- ou 3-loculaires, avec 2
-
-ou 3 valves , avec 1 à 5(–6) graines ; loge dorsale, si présente, à 0 ou 1 graine, déhiscente ou
-
-non, si indéhiscente, la valve est soudée à la graine ou non, loges ventrales généralement à
-
-1 ou 2 graines, déhiscentes. Graines unisériées ; hile linéaire ; embryotège latérale, parfois
-
-appendiculées.
-
-Genre de ± 170 espèces pantropicales et tempérées, avec ± 100 en Afrique, dont 6 au Gabon.
-
-Notes : Les espèces sont difficiles à identifier, car les fleurs sont peu abondantes et fanent rapidement
-
-et peu de caractères sont visibles sur les herbiers. Par contre, les graines sont souvent très distinctes et
-
-caractéristiques.
-
-B : Brunel et al. (1984), van der Burg (2006), Faden (1998, 2012), Vanden Berghen (1988).
-
-i B liographie
-
-### Clé des espèces
-
-1. - Fleur jaune, jaune pâle ou blanc verdâtre ; spathe à marges pourvues de poils roux
+1. - Flower yellow, pale yellow or greenish white; spathe margins provided with reddish hairs
 
 ...................................................................................................................... C. capitata
 

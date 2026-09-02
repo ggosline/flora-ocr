@@ -16,13 +16,11 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Herbs with rhizome, with erect, branched stems. Leaves with petiole capable of reaching several decimetres in length, with swollen callus passing to the midvein, on the upper surface, by way of a V-shaped beak. Blade elliptic, distinctly asymmetric, with the acumen displaced laterally with respect to the midvein axis.
 
-Herbes à rhizome, à tiges dressées, ramifiées. Feuilles à pétiole pouvant atteindre plusieurs décimètres de long, à callus renflé passant à la nervure médiane, sur la face supérieure, par l'intermédiaire d'un bec en forme de V. Limbe elliptique, nettement assymétrique, avec l'acumen déporté latéralement par rapport à l'axe de la nervure médiane.
+Inflorescences branched but very dense, borne at the axil of a cluster of ± well-developed leaves. Racemes with few internodes, very short, the abaxial bracts being thereby closely imbricate. Each of these bracts subtends a sickle of biporous cymes, numbering 4 or fewer. Each cyme bears at its base, besides the adaxial spathe-bract, a true abaxial bract. Common peduncle of the cymes very short; floral pedicels likewise very short, subequal. Bracteoles absent. Two external staminodes, petaloid; internal staminode in a non-appendiculate hood. Ovary with three uniovulate locules, indehiscent fruit with 1–3 seeds with bifid basal aril.
 
-Inflorescences ramiíées mais très denses, portées à l'aisselle d'un bouquet de feuilles ± bien développées. Racèmes à entre-nœuds peu nombreux, très courts, les bractées abaxiales étant de ce fait étroitement imbriquées. Chacune de ces bractées axille une faucille de cymes bipares, au nombre de 4 ou moins. Chaque cyme porte à sa base, outre la bractée-spathe adaxiale, une vraie bractée abaxiale. Pédoncule commun des cymes très court ; pédicelles floraux également très courts, subégaux. Bractéoles absentes. Deux staminodes externes, pétaloïdes ; staminode interne en capuchon non appendiculé. Ovaire à trois loges univolées, fruit indéhiscent à 1-3 graines à arille basal bifide.
-
-Une seule espèce des régions forestières d'Afrique tropicale.
+A single species from the forest regions of tropical Africa.
 
 ## Species in region
 

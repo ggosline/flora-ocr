@@ -16,9 +16,7 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Ce genre compte une centaine d’espèces en Australie.
+This genus comprises about a hundred species in Australia.
 
 ## Species in region
 

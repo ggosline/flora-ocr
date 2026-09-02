@@ -17,13 +17,11 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Perennial herbs, extensively creeping and rooting at the base, leaves linear-lanceolate, amplexicaul at the base, tessellate venation.
 
-Herbes pérennes, longuement rampantes et radicantes à la base, feuilles linéaires lancéolées, amplexicaules à la base, nervures tessellées.
+Inflorescences paniculate with spiciform branches. Spikelets oblong, glumes similar, membranous, terminated by a small thickened extension of the dorsal keel, the lower one shorter with 3 nerves, the upper one with 5 nerves. Lower floret male or neuter, lemma similar to the upper glume, palea of the same size, hyaline, bicarinate. Upper floret hermaphrodite, lemma coriaceous, with enrolled margins, with 5 nerves, terminated like the glumes; palea similar in size and texture, with 2 keels, each terminated by a thickened and backward-curved appendage; 2 fleshy lodicules; 3 stamens, distinct styles.
 
-Inflorescences paniculées à branches spiciformes. Épillets oblongs, glumes semblables, membraneuses, terminées par un petit prolongement épaissi de la carène dorsale, l'inférieure plus courte à 3 nervures, la supérieure à 5 nervures. Fleur inférieure mâle ou neutre, lemma semblable à la glume supérieure, palée de même taille, hyaline, bicarénée. Fleur supérieure hermaphrodite, lemma coriace, à bords enroulés, à 5 nervures, terminée comme les glumes; palée semblable par la taille et la texture, à 2 carènes, chacune terminée par un appendice épaissi et recourbé en arrière; 2 lodicules charnues; 3 étamines, styles distincts.
-
-Une espèce est signalée du Gabon :
+One species is recorded from Gabon:
 
 ## Species in region
 

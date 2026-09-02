@@ -17,67 +17,25 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Palmier acaulescent ou avec stipe solitaire jusqu’à 4 m , polycarpique, monoïque, dépourvu
-
-d’épines ; stolons axillaires présents. Feuilles 5 à nombreuses, imparipennées, jeunes feuilles
-
-simples ; gaine tubuleuse mais divisée apicalement, à marges fibreuses ; pétiole concave des -
-
-sus, arrondi dessous, bords fibreux, à pilosité caduque ; limbe à folioles rhomboïdales, à
-
-sommet prémorse , marges lisses dans la moitié inférieure, doublement dentées dans la partie
-
-supérieure, glabre dessus, glabre ou pubescent à tomenteux dessous, avec 5 nervures rayon -
-
-nantes depuis la base. Inflorescences solitaires, inter- ou infrafoliaires, spiciformes, érigées ,
-
-mais parfois courbées en fruit, protandres [à fleurs mâles devenant mature avant les femelles] ;
-
-pédoncule mince, à pilosité tomenteuse caduque, à préfeuille basale, tubuleuse, à 2 ou 3 brac -
-
-tées tubuleuses ; rachis plus court, de longueur égale ou supérieure à celle du pédoncule, à
+Acaulescent palm or with solitary stem up to 4 m, polycarpic, monoecious, lacking spines; axillary stolons present. Leaves 5 to numerous, imparipinnate, young leaves simple; sheath tubular but apically divided, with fibrous margins; petiole concave above, rounded below, fibrous margins, with caducous pilosity; blade with rhomboidal leaflets, with premorse apex, margins smooth in the lower half, doubly dentate in the upper part, glabrous above, glabrous or pubescent to tomentose below, with 5 radiating nerves from the base. Inflorescences solitary, inter- or infrafoliar, spiciform, erect, but sometimes curved in fruit, protandrous [male flowers maturing before female]; peduncle slender, with caducous tomentose pilosity, with basal prophyll, tubular, with 2 or 3 tubular bracts; rachis shorter, of equal or greater length than the peduncle, with
 
 ---
 
-fleurs généralement en triades disposées en spirale, la partie apicale ne portant que des fleurs
+flowers generally in triads arranged spirally, the apical portion bearing only male flowers, in dyads or solitary, flowers arranged in foveae (cavities). Male flowers: sepals 3, imbricate, adnate to the receptacle for half their length, distinctly lobed; petals 3, valvate; stamens 6, in two whorls of which the outer is opposite to the sepals and shorter than the inner, anthers short, dorsifixed near the base; pistillode short, slightly 3-lobed. Female flowers symmetric; sepals 3, distinct, imbricate; petals fused to the receptacle for ⅓ to ½ of their length, with lobes imbricate in bud; staminodes absent; gynoecium ovoid, 3-locular or with 2 abortive locules, with 1 ovule per locule; style scarcely visible, with 3 short stigmas. Fruits narrowly ovoid to ellipsoid, fleshy, smooth, with visible stigmatic remains, with 1 to 3 seeds; exocarp thin; mesocarp gelatinous. Seeds narrowly ellipsoid.
 
-mâles, en diades ou solitaires, fleurs disposées dans des fovea (cavités). Fleurs mâles : sépales
+Genus comprising two species in tropical Africa, from Nigeria to Angola (Cabinda) and western Democratic Republic of the Congo, both represented in Gabon.
 
-3, imbriqués, adnés sur la moitié de leur longueur au réceptacle, nettement lobés ; pétales 3,
+B: Faye et al. (2016) van Valkenburg et al. (2007), van Valkenburg & Sunderland (2008).
 
-valvaires ; étamines 6, en deux verticilles dont l’externe opposé aux sépales et plus court que
+Bibliography
 
-l’interne, anthères courts, dorsifixes vers la base ; pistillode court, légèrement 3-lobé. Fleurs
+### Key to species
 
-femelles symétriques ; sépales 3, distincts, imbriqués ; pétales fusionnés au réceptacle sur ⅓
+1. - Acaulescent palm; leaf 1.5–4 m in length; lower surface of leaflets pubescent to
+tomentose; infructescence erect, with olive green fruits spotted with purple becoming
+dark purple at maturity ............................................................................................. P. acaulis
 
-à ½ de leur longueur, à lobes imbriqués en bouton ; staminodes absents ; gynécée ovoïde,
-
-3-loculaire ou à 2 loges avortées, à 1 ovule par loge ; style peu visible, à 3 stigmates courts.
-
-Fruits étroitement ovoïdes à ellipsoïdes, charnus, lisses, à restes stigmatiques visibles, avec 1
-
-à 3 graines ; épicarpe mince ; mésocarpe gélatineux. Graines étroitement ellipsoïdes.
-
-Genre comprenant deux espèces en Afrique tropicale, du Nigéria jusqu’à l’Angola (Cabinda)
-
-et l’ouest de la République démocratique du Congo, toutes deux représentées au Gabon.
-
-B : Faye et al. (2016) van Valkenburg et al. (2007), van Valkenburg & Sunderland (2008).
-
-i B liographie
-
-### Clé des espèces
-
-1. - Palmier acaule ; feuille 1,5–4 m de longueur ; dessous des folioles pubescent à
-
-tomenteux ; infrutescence dressée, à fruits vert olive tachetés de pourpre devenant brun
-
-pourpre à maturité ............................................................................................. P. acaulis
-
-- Palmier solitaire avec stipe jusqu’à 3 m ; feuille 0,5–1,2 m de longueur ; dessous des
+- Solitary palm with stem up to 3 m; leaf 0.5–1.2 m in length; lower surface of
 
 ## Species in region
 

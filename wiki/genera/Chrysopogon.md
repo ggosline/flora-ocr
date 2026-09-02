@@ -19,15 +19,13 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Inflorescences in loose panicles formed of whorls of thin branches, simple or divided.
 
-Inflorescences en panicules lâches formées de verticilles de branches minces, simples ou divisées.
+Spikelets in terminal triads; one is sessile, the others pedicellate, detaching together from the peduncle which is thickened and pubescent.
 
-Épillets en triades terminales; l'un est sessile, les autres pédicelles, se détachant ensemble du pédoncule qui est épaissi et pubescent.
+Lower floret reduced to a sterile lemma, the upper hermaphrodite in sessile spikelets, male or neuter in pedicellate spikelets. Sessile spikelets laterally compressed, awned. Lower glume coriaceous, with rounded or more or less keeled back toward the apex; upper glume naviculate; lemmas hyaline, that of the lower floret with 2 nerves, that of the upper floret entire or bidentate, and awned in the sinus. Palea absent or very small. Two glabrous lodicules, 3 stamens.
 
-Fleur inférieure réduite à une glumelle stérile, la supérieure hermaphrodite dans les épillets sessiles, mâle ou neutre dans les épillets pédicellés. Épillets sessiles latéralement aplatis, aristés. Glume inférieure coriace, à dos arrondi ou plus ou moins caréné vers le sommet; glume supérieure naviculaire; lemmas hyalines, celle de la fleur inférieure à 2 nervures, celle de la fleur supérieure entière ou bidentée, et aristée dans le sinus. Paléa nulle ou très petite. Deux lodicules glabres, 3 étamines.
-
-Épillets pédicellés aplatis dorsalement, mutiques ou avec une courte subule.
+Pedicellate spikelets dorsally compressed, muticous or with a short subule.
 
 ## Coix
 

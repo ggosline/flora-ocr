@@ -17,15 +17,13 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Herbaceous plant, decumbent or ascending, woolly-hairy. Leaves opposite, decumbent, ovate, highly variable.
 
-Plante herbacée couchée ou ascendante, velue-laineuse. Feuilles opposées couchées ovales, très variables.
+Inflorescences in spikes, often terminal, ovate or cylindrical, somewhat pedunculate; flowers small, purple, pink or white, at the axil of ovate herbaceous imbricate, hairy bracts; no bracteoles. Calyx with 4 thin, ± transparent segments, of unequal width, the anterior one ± bilobed or almost bipartite. Corolla with thin tube curved at the apex and enlarged below the throat; limb with 2 lips; the upper one exterior in bud, briefly bilobed; the lower one larger, with 3 deep lobes, spreading, obovate. 2 anterior fertile stamens, attached above the middle of the tube and ± included; anthers with 2 ovate locules separated, not caudate or scarcely caudate at the base; staminodes 0. Disk indistinct; ovary with 8–10 ovules per locule; style with somewhat bilobed stigma.
 
-Inflorescences en épis souvent terminaux, ovales ou cylindriques un peu pédonculés; fleurs petites pourpres, roses ou blanches à l'aisselle de bractées ovales herbacées imbriquées, velues; pas de bractéoles. Calice à 4 segments minces ± transparents, de largeur inégale, l'antérieur ± bilobé ou presque bipartite. Corolle à tube mince arqué au sommet et élargi sous la gorge; limbe à 2 lèvres; la supérieure extérieure dans le bouton, est brièvement bilobée; l'inférieure est plus grande, à 3 lobes profonds étalées obovales. 2 étamines antérieures fertiles, fixées au-dessus du milieu du tube et ± incluses; anthères à 2 loges ovales séparées, non caudées ou à peine caudées à la base; stami-nodes o. Disque indistinct; ovaire à 8-10 ovules par loge; style à stigmate un peu bilobé.
+Capsule oblong, rostrate, with 2 locules from the base; seeds small, ± globulous, wrinkled, sometimes covered with hooked hairs; albumen thin; cotyledons thick, ovate or hemispherical, radicles cylindrical, straight.
 
-Capsule oblongue, rostrée, à 2 loges dès la base; graines petites ± globuleuses, ridées, parfois couvertes de poils crochus; albumen mince; cotylédons épais, ovales ou hémisphériques, radicules cylindriques droites.
-
-Genre paléotropical, monotypique, devenu pantropical.
+Paleotropical genus, monotypic, become pantropical.
 
 ## Species in region
 

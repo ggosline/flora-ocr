@@ -17,67 +17,51 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Herbs annual or perennial, terrestrial or epiphytic, often succulent; stems erect or
+creeping, often ascending. Stipules absent. Leaves alternate, opposite or whorled.
+Inflorescences in erect spikes. Flowers bisexual, minute (visually little differentiated from one
+species to another); stamens 2, with 2-locular anther opening by 1 slit; ovary globose, ovoid,
+obovoid or cylindric; style fleshy, often enlarged into an oblique platform, with 1 stigma.
+Fruits in globose, ovoid, obovoid or cylindric berries.
 
-Herbes annuelles ou vivaces, terrestres ou épiphytes, souvent succulentes ; tiges dressées ou
+Pantropical genus comprising approximately 1500 species; in Gabon, 7 species.
 
-rampantes, souvent ascendantes. Stipules absentes . Feuilles alternes, opposées ou verticillées.
+**Bibliography**
 
-Inflorescences en épis dressés . Fleurs bisexuées, minuscules (visuellement peu distinctes
-
-d’une espèce à l’autre) ; étamines 2, à anthère 2-loculaire et s’ouvrant par 1 fente ; ovaire
-
-globuleux, ovoïde, obovoïde ou cylindrique ; style charnu, souvent élargi en plateau oblique,
-
-à 1 stigmate . Fruits en baies globuleuses, ovoïdes, obovoïdes ou cylindriques.
-
-Genre pantropical comprenant environ 1500 espèces ; au Gabon, 7 espèces.
-
-B : Balle (1948), Diniz (1997), Düll (1973), Mathieu & Callejas Posada (2006), Verdcourt
-
-i B liographie
-
+B: Balle (1948), Diniz (1997), Düll (1973), Mathieu & Callejas Posada (2006), Verdcourt
 (1996).
 
 ---
 
 62 Tariq STÉVART & Daniel J.L. GEERINCK
 
-### Clé des espèces
+### Key to species
 
-1. - Feuilles généralement quaternées, mais parfois opposées ou ternées (surtout chez les
+1. – Leaves generally quaternate, but sometimes opposite or ternate (especially in young plants) ............................................................................................ P. tetraphylla
 
-jeunes plantes) ............................................................................................ P. tetraphylla
+– Leaves alternate or opposite ........................................................................................ 2
 
-- Feuilles alternées ou opposées ........................................................................................ 2
+2. – Plant creeping; leaf blade generally widely elliptic to circular, but sometimes elliptic .......................................................................................... P. bangroana
 
-2. - Plante rampante ; feuille à limbe généralement largement elliptique à circulaire, mais
+– Plant erect; leaf blade ovate, elliptic or widely ovate-triangular .......... 3
 
-parfois elliptique .......................................................................................... P. bangroana
+3. – Spikes numerous (approximately 20 or more); leaf blade membranous, widely ovate-
+triangular, ± as long as wide, base truncate-rounded to cordate ........ P. pellucida
 
-- Plante dressée ; feuille à limbe ovale, elliptique ou largement ovale-triangulaire .......... 3
+– Spikes few (rarely more than 5); leaf blade thick and often fleshy, ovate
+or elliptic, longer than wide, base never cordate ................................................. 4
 
-3. - Épis nombreux (environ 20 ou plus) ; feuille à limbe membraneux, largement ovale-
+4. – Leaf blade apex acute or obtuse, not apiculate to rounded-emarginate; spikes
+1–2.5 mm in diameter when dry .................................................................................. 5
 
-triangulaire, ± aussi long que large, à base tronquée-arrondie à cordée ........ P. pellucida
+– Leaf blade apex acutely apiculate, subcuspidately to long-acuminate; spikes
+rarely reaching 1 mm in diameter when dry ......................................................... 6
 
-- Épis peu nombreux (rarement plus de 5) ; feuille à limbe épais et souvent charnu, ovale
+5. – Spikes terminal or subterminal, several per node .................................. P. thomeana
 
-ou elliptique, plus long que large, à base jamais cordée ................................................. 4
+– Spikes terminal and/or axillary, 1 per node ................................................ P. abyssinica
 
-4. - Limbe de la feuille à sommet aigu ou obtus, non apiculé à arrondi-échancré ; épis
-
-1–2,5 mm de diamètre à l’état sec .................................................................................. 5
-
-- Limbe de la feuille à sommet aiguapiculé, subcuspidé à longuement acuminé ; épis
-
-atteignant rarement 1 mm de diamètre à l’état sec ......................................................... 6
-
-5. - Épis terminaux ou subterminaux, plusieurs par nœud .................................. P. thomeana
-
-- Épis terminaux et/ou axillaires, 1 par nœud ................................................ P. abyssinica
-
-6. - Herbe généralement épiphyte ; feuille à limbe elliptique (rapport largeur/longueur < ½),
+6. – Herb generally epiphytic; leaf blade elliptic (width/length ratio < ½),
 
 ## Species in region
 

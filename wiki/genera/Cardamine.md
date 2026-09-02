@@ -17,15 +17,13 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Herbs annual, biennial or perennial, with simple hairs. Leaves simple or more often compound.
 
-Herbes annuelles, bisannuelles ou vivaces, à poils simples. Feuilles simples ou plus souvent composées.
+Terminal racemes without bracts, corymbiform with small or rather large flowers; infructescences usually elongated. Sepals not saccate, oblique, with hyaline margins. Petals white, yellowish, pink or violet, spatulate, with obovate limb sometimes unguiculate, rarely reduced. Stamens 6 or 4; filaments filiform or dilated. Nectaries hippocrepiform or annular surrounding the base of the lateral stamens and forming as it were a conical gland outside each pair of median stamens. Ovary narrowly cylindrical with short style. Ovules numerous. Silique linear with abrupt dehiscence; replum thick; valves without clear nerves. Seeds oblong or elliptic flattened, distinctly rugose or papillose.
 
-Grappes terminales sans bractées, corymbiformes à fleurs petites ou assez grandes ; infrutescences ordinairement allongées. Sépales non sacciformes, obliques, à marges hyalines. Pétales blancs, jaunâtres, roses ou violacés, spatuliformes, à limbe obovale parfois onguiculé, rarement réduits. Étamines 6 ou 4 ; filets filiformes ou dilatés. Nectaires hippocrépiformes ou annulaires entourant la base des étamines latérales et formant comme une glande conique à l'extérieur de chaque paire d'éta-mines médianes. Ovaire étroitement cylindrique à style court. Ovules nombreux. Silique linéaire à déhiscence brusque ; replum épais ; valves sans nervures nettes. Graines oblongues ou elliptiques aplaties, net-tement rugueuses ou mamelonnées.
+TYPE SPECIES: Cardamine pratensis L.
 
-ESPÈCE-TYPE : Cardamine pratensis L.
-
-Ce genre d'environ 130 espèces se répartit dans toutes les régions subarctiques tempérées et dans toutes les zones montagneuses du monde, particulièrement dans les stations humides. En Afrique, 6 espèces ont été recensées.
+This genus of approximately 130 species is distributed in all temperate subarctic regions and in all mountain zones of the world, particularly in moist stations. In Africa, 6 species have been recorded.
 
 ## Species in region
 

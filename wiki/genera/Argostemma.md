@@ -17,21 +17,19 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Calyx with short tube, briefly 4–5-dentate. Corolla with 4–5 valvate lobes emarginate almost to the base. 4–5 exserted stamens with somewhat fleshy filament. Anther subbasifixed subsagittate, dehiscent by apical pore. Disk fleshy. Style filiform with brief capitate stigma. Ovary with 2 locules. Ovules very numerous inserted on 2 axile peltate mediifixed placentas.
 
-Calice à tube court, brièvement 4-5- denté. Corolle à lobes 4-5 lobes valvaires échancrés presque jusqu'à la base. 4-5 étamines exsertes à filet un peu charnu. Anthère subbasifixe subsagittée, déhiscente par pore apical. Disque charnu. Style filiforme à bref stigmate capité. Ovaire à 2 loges. Ovules très nombreux insérés sur 2 placentas axiles peltés médifixes.
+Fruit capsular multispermic. Seeds ovoid escaping through an aperture at the apex of the fruit. Testa ornamented with a fine polygonal network. Embryo very small surrounded by albumen.
 
-Fruit capsulaire multisperme. Graines ovoïdes s'échappant par une aperture du sommet du fruit. Testa orné d'un réseau polygonal fin. Embryon très petit entouré d'albumen.
+Type species: A. sarmentosum Wall. of the Himalaya.
 
-Espèce type : A. sarmentosum Wall. de l'Himalaya.
-
-Plus de cent espèces d'Asie du Sud-Est et deux espèces africaines dont les caractères distinctifs sont faibles. Une distinction sous-spécifique pourrait aussi bien convenir.
+More than one hundred species from Southeast Asia and two African species of which the distinctive characters are weak. A subspecific distinction could equally well be appropriate.
 
 ---
 
-1. Pédicelle pubescent, axes ± pubescents; grandes paires foliaires fortement anisophylles ..... A. pumilum Benn.
+1. Pedicel pubescent, axes ± pubescent; large leaf-pairs strongly anisophyllous ..... A. pumilum Benn.
 
-1'. Pédicelle glabre, axes glabres; grandes paires foliaires médiocrement ou inégalement anisophylles ..... I. A. africanum
+1'. Pedicel glabrous, axes glabrous; large leaf-pairs moderately or unequally anisophyllous ..... I. A. africanum
 
 ## Species in region
 

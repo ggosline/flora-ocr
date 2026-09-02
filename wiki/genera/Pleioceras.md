@@ -17,69 +17,19 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Shrubs, lianes or trees, with white latex in the bark and leaves. Leaves opposite, in a pair equal or subequal, shortly petiolate, with axillary colleters in 1 or 2 rows. Inflorescences terminal, paniculate, lax, with numerous bracteate flowers, with axillary colleters. Flowers actinomorphic, except for the calyx lobes sometimes slightly unequal; calyx persistent beneath the fruit, with imbricate lobes, at the base near the margins without or with 1 or 2 colleters; corolla with lobes twisted and overlapping to the left in the bud, the interior bearing an ensemble of central appendices, short, truncate or filiform, and lateral appendices long and filiform; stamens exsert, forming a cone, covered by the appendices of the corolla; filaments short, filiform, glabrous on the exterior, hispid toward the apex on the interior, anthers introrse, sagittate at the base, apiculate and pilose at the apex, fertile for 0.3 of the length just below the apex, entirely dehiscent by a longitudinal slit; disk absent; pistil glabrous or sometimes with a few papillae; ovary superior, 2 carpels free, placentas adaxial, with numerous ovules in several rows; style inserted just below the apex of the carpels, filiform, cleft at the base; pistil head with a fine annulus at the base, almost cylindric, covered by the anthers and on the interior with triangular reflexions of the connectives adnate to the clavuncule; stigma minute, 2-lobed. Fruits of 2 follicles spreading, pendant, thin, dehiscent along an adaxial line, with numerous seeds in 2 to several rows. Seeds linear, very narrowly oblong, finely channelled, with a tuft of hairs (coma) ± dense at the apex, directed toward the base of the fruit; embryon broad, surrounded by a whitish endosperm very little abundant; cotyledons broad, complex, larger than the short and straight radicle.
 
-Arbustes , lianes ou arbres , à latex blanc dans l’écorce et les feuilles. Feuilles opposées, dans
+A genus with five species limited to tropical continental Africa, of which two in Gabon.
 
-une paire égales ou subégales, courtement pétiolées, avec des collétères axillaires sur 1 ou 2
+B: Beentje (2021), Barink (1984), Endress et al. (2019), Omino (2002).
 
-rangées. ,QÀRUHVFHQFHV terminales SDQLFXOpHVOkFKHVjQRPEUHXVHVÀHXUVEUDFWpHVjFRO -
+BIBLIOGRAPHY
 
-létères axillaires. Fleurs actinomorphes, à l’exception des lobes du calice parfois légèrement
+### Key to species
 
-LQpJDX[FDOLFHSHUVLVWDQWVRXVOHIUXLWjOREHVLPEULTXpVjEDVHSUqVGXERUGVDQVRXDYHF
+- Leaf blade glabrous or almost so beneath with tertiary venation scarcely visible; median appendix of each corolla lobe rounded at the apex and pubescent ... P. gilletii
 
-ou 2 collétères ; corolle à lobes tordus et recouvrant vers la gauche dans le bouton, l’intérieur
-
-portant XQHQVHPEOHGHjDSSHQGLFHVFHQWUDX[FRXUWVWURQTXpVRX¿OLIRUPHVHWj
-
-DSSHQGLFHVODWpUDX[ORQJVHW¿OLIRUPHV ; étamines exsertes, formant un cône, couvertes
-
-par les appendices de la corolle ¿OHWVFRXUWV¿OLIRUPHVJODEUHVjO¶H[Wpulhxujo¶LQWpULHXU
-
-hispides vers le sommet, anthères introrses, sagittées à la base, apiculées et pileuses au som-
-
-met, fertiles sur 0,3 de la longueur juste sous le sommet, entièrement déhiscentes par une fente
-
-ORQJLWXGLQDOHGLVTXHDEVHQWSLVWLOJODEUHRXSDUIRLVDYHFTXHOTXHVSDSLOOHVRYDLUHVXSqUHj
-
-2 carpelles libres , placentas adaxiaux, à nombreux ovules en plusieurs rangées ; style inséré
-
-MXVWHVRXVOHVRPPHWGHVFDUSHOOHV¿OLIRUPHIHQGXjODEDVHSLVWLOjWrWHDYHFXQDQQHDX¿Q
-
-jODEDVHSUHVTXHF\OLQGULTXHUHFRXYHUWSDUOHVDQWKqUHVHWjO¶LQWpULHXUDYHFOHVUHQÀHPHQWV
-
-triangulaires des connectifs adnés à la clavoncule ; stigmate minuscule, 2-lobé. Fruits de 2 fol-
-
-licules étalés, pendants, minces, déhiscents le long d’une ligne adaxiale, à nombreuses graines
-
-en 2 à plusieurs rangées. Graines OLQpDLUHVjWUqVpWURLWHPHQWREORwGHV¿QHPHQWFDQQHOpHV
-
-avec une touffe de poils (coma) ± dense au sommet, dirigée vers la base du fruit ; embryon
-
-large, entouré d’un endosperme blanchâtre très peu abondant ; cotylédons larges, complexes,
-
-SOXVJUDQGVTXHODUDGLFXOHFRXUWHHWGURLWH
-
-8QJHQUHDYHFFLQTHVSqFHVOLPLWpHVjO¶$IULTXHFRQWLQHQWDOHWURSLFDOHGRQWGHX[DX*DERQ
-
-B : Beentje (2021), Barink (1984), Endress et al. (2019), Omino (2002).
-
-IBLIOGRAPHIE
-
-### Clé des espèces
-
-/LPEHIROLDLUHJODEUHRXSUHVTXHGHVVRXVjQHUYDWLRQWHUWLDLUHSHXYLVLEOHDSSHQ -
-
-GLFHPpGLDQGHFKDTXHOREHGHODFRUROOHDUURQGLDXVRPPHWHWSXEHVFHQW ... P. gilletii
-
-- Limbe foliaire densément pubescent sur la nervure médiane dessous, à nervation
-
-WHUWLDLUHDSSDUHQWHDSSHQGLFHPpGLDQGHFKDTXHOREHGHODFRUROOHEL¿GHDXVRP -
-
-met ................................................................................................................. P. zenkeri
-
----
+- Leaf blade densely pubescent on the midrib beneath, with tertiary venation apparent; median appendix of each corolla lobe bifid at the apex ................................................................................................................. P. zenkeri
 
 ## Species in region
 

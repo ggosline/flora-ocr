@@ -17,35 +17,13 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Trees, sometimes shrubs, glabrous. Stipules intrapetiolary, sometimes fused to each other and/or to the base of the petiole, often caducous, scars distinct. Leaves: blade with entire margin. Inflorescences axillary, cymose, bisexual, with a few male flowers and one, or sometimes a few female flowers, sometimes grouped into a strobiliferous inflorescence; bracts large; bracteoles small. Male flowers pedicellate, with 5 imbricate sepals; petals 5; disk small, extrastaminal, lobed; stamens 5, free, opposite the sepals; pistillode present. Female flower with pedicel longer than that of the male flowers, with sepals and petals smaller than in the male flower; disk lobulate; ovary 3-locular, with 2 ovules per locule; stigma bonnet-shaped, ± lobulate. Fruit capsular, dehiscent, with 1 or 2 seeds per locule.
 
-Arbres , parfois arbustes, glabres . Stipules intrapétiolaires , parfois soudées entre elles et/
+Genus with approximately 15 species in Central and South tropical America and one species in West and Central tropical Africa.
 
-ou à la base du pétiole, souvent caduques, cicatrices distinctes. Feuilles : limbe à marge
+Bibliography
 
-entière. Inflorescences axillaires, cymeuses, bisexuées , à quelques fleurs mâles et une,
-
-ou parfois quelques fleurs femelles, parfois groupées en une inflorescence strobiliforme ;
-
-bractées grandes ; bractéoles petites. Fleurs mâles pédicellées, à 5 sépales imbriqués ;
-
-pétales 5 ; disque petit, extrastaminal, lobé ; étamines 5, libres, oppositisépales ; pistillode
-
-présent. Fleur femelle à pédicelle plus long que celui des fleurs mâles, à sépales et pétales
-
-plus petits que chez la fleur mâle ; disque lobulé ; ovaire 3-loculaire, à 2 ovules par loge ;
-
-stigmate en forme de bonnet, ± lobulé. Fruit capsulaire, déhiscent, à 1 ou 2 graines par
-
-loge .
-
-Genre à environ 15 espèces en Amérique tropicale Centrale et du Sud et une espèce en
-
-Afrique tropicale de l’Ouest et Centrale.
-
-b : Hayden (1990), Pax & Hoffmann (1922), Radcliffe-Smith (2001).
-
-ibliographie
+b: Hayden (1990), Pax & Hoffmann (1922), Radcliffe-Smith (2001).
 
 ## Species in region
 

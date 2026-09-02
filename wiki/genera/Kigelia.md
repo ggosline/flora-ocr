@@ -17,17 +17,15 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Trees of medium size with spreading crowns. Leaves opposite or whorled, imparipinnate compound, usually with 7–9 leaflets.
 
-Arbres de taille moyenne avec couronnes étalées. Feuilles opposées ou verticillées, composées imparipennées, habituellement à 7-9 folioles.
+Inflorescence a pendulous racemose panicle with the central axis strongly elongated, suspended beneath the lower branches like a flowery whip. Flowers with a large calyx, cupular, irregularly 5-toothed. Corolla brownish-maroon to red, campanulate above a tubular base. Stamens ± didynamous; anther thecae not divergent. Ovary cylindric. Disc large, annular-pulvinate.
 
-Inflorescence en panicule racémeuse pendante avec l'axe central fortement allongé, suspendue sous les branches inférieures comme un flagelle fleuri. Fleurs à grand calice, cupulaire, irrégulièrement 5-denté. Corolle brunâtre marron à rouge, campanulée au-dessus d'une base tubuleuse. Étamines ± didynamics ; thèques de l'anthère non divergentes. Ovaire cylindrique. Disque de grande taille, annulaire-pulviné.
+Fruit very large, indehiscent, cylindric-oblong, fibrous and woody, reaching a diameter of 12 cm or more, commonly up to 50 cm long. Seeds flat, wingless, cotyledons folded halfway along their central axis.
 
-Fruit très grand, indéhiscent, cylindrique-oblong, fibreux et ligneux, d'un diamètre atteignant 12 cm ou plus, communément long jusqu'à 50 cm. Graines plates, sans ailes, cotylédons repliés à moitié le long de leur axe central.
+TYPE SPECIES: Kigelia pinnata (Jacq.) DC. (= K. africana (Lam.) Benth).
 
-ESPÉCE-TYPE : Kigelia pinnata (Jacq.) DC. (= K. africana (Lam.) Benth).
-
-Un genre probablement ditypique occupant une grande variété d'habitats à travers l'Afrique tropicale. Des nombreux taxons nommés, seule K. moosa SPRAGUE, à fleurs rouge-orange, des forêts de montagne d'Afrique orientale semble spécifiquement distincte.
+A genus probably ditypic occupying a great variety of habitats throughout tropical Africa. Of the numerous named taxa, only K. moosa SPRAGUE, with red-orange flowers, from the montane forests of East Africa appears specifically distinct.
 
 ## Species in region
 

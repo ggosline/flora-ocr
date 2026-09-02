@@ -17,49 +17,23 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Plant with basal portion thallose and foliacious or ribbon-like; stems simple or rarely branched.
 
-Plante à partie basale thalloïde foliacée ou rubanée ; tiges simples ou rarement ramifiées.
+Leaves with ± dichotomous divisions, with linear or filiform segments. Inflorescences axillary or terminal, with flowers solitary or up to 12 in fascicles, if axillary appearing opposite the leaves. Flower inverted within the spathe; pedicel longly exsert at anthesis; tepals 2, linear to filiform; androecium longer than the ovary, with 1 to 3 stamens, with androphore as long or longer than the filaments, anther introrse, oblong; ovary ellipsoid, with elliptic transverse section, unilocular, with central placentation, on a well-developed gynophore; stigmas crested, linear or globose. Fruits erect, ellipsoid, laterally compressed, with 8 ribs, the median ribs of each valve being the most prominent; valves 2, navicular, equal, caducous. Seeds ellipsoid, slightly compressed, with reticulate testa.
 
-Feuilles à divisions ± dichotomes, à segments linéaires ou filiformes. Inflorescences axillaires
-
-ou terminales, à fleurs solitaires ou jusqu’à 12 en fascicules, si axillaires apparaissant
-
-opposées aux feuilles . Fleur inversée à l’intérieur de la spathelle ; pédicelle longuement ex -
-
-sert à l’anthèse ; tépales 2, linéaires à filiformes ; androcée plus long que l’ovaire, avec 1 à 3
-
-étamines, avec androphore aussi long ou plus long que les filets, anthère introrse, oblongue ;
-
-ovaire ellipsoïde, à section transversale elliptique , uniloculaire, à placentation centrale, sur
-
-un gynophore bien développé ; stigmates cristés, linéaires ou globuleux. Fruits dressés, ellip-
-
-soïdes, comprimés latéralement , à 8 côtes, les côtes médianes de chaque valve étant les
-
-plus proéminentes ; valves 2, naviculaires, égales, caduques. Graines ellipsoïdes, légèrement
-
-comprimées, à testa réticulé.
-
-Genre avec six espèces distribuées en Afrique de l’Ouest et Centrale ; au Gabon, deux espèces.
+Genus with six species distributed in West and Central Africa; in Gabon, two species.
 
 Bi : Cook & Rutishauser (2007), Cusset (1978, 1987a), Engler (1926), Rutishauser et al.
 
-B liographie
+B ibliography
 
 (2007).
 
-### Clé des espèces
+### Key to the species
 
-1. - Stigmates soudés à la base, ± 0,1 mm de longueur, subglobuleux ; tépales 1,2–1,3 mm
+1. - Stigmas connate at the base, ± 0.1 mm long, subglobose; tepals 1.2–1.3 mm long; pedicel 9–10 mm long after anthesis; anther 0.8–1 mm long ............................................................................................................. M. hallei
 
-de longueur ; pédicelle 9–10 mm de longueur après l’anthèse ; anthère 0,8–1 mm de
-
-longueur ............................................................................................................. M. hallei
-
-- Stigmates cristés (à marge denticulée), sessiles ; tépales 0,3–0,6 mm de longueur ;
-
-pédicelle 15–20 mm de longueur après l’anthèse ; anthère 0,7–0,8 mm de longueur
+- Stigmas crested (with dentate margin), sessile; tepals 0.3–0.6 mm long; pedicel 15–20 mm long after anthesis; anther 0.7–0.8 mm long
 
 ............................................................................................................... M. heteromorpha
 

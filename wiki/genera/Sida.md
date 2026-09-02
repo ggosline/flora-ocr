@@ -17,69 +17,47 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Perennial or annual herbs, subshrubs, shrubs, or rarely small trees, often covered with simple or stellate hairs. Stipules often caducous. Leaves with dentate margins or rarely entire. Inflorescences axillary, often spheric, pauciflorous or sometimes solitary flowers. Flower: epicalyx absent; calyx 5-lobed, often campanulate; petals relatively small, generally unicolorous and yellow; ovary with 5–15 carpels; stigmatic branches of the same number as the carpels. Fruit with 5–15 verticillate unispermate mericarps. Seeds triangular-reniform, smooth, often glabrous.
 
-Herbes vivaces ou annuelles, sous-arbustes, arbustes ou rarement petits arbres, souvent
+Cosmopolitan genus with approximately 150 species, of which five occur in Gabon.
 
-couverts de poils simples ou étoilés. Stipules souvent caduques. Feuilles à marges dentées
+B: Akoègninou et al. (2006), Exell & Meeuse (1961), Bayer & Kubitzki (2003), Hauman (1963), Marais & Friedman (1987), Verdcourt (2009).
 
-ou rarement entières. Inflorescences axillaires, souvent sphériques, pauciflores ou parfois
+### Key to species
 
-fleurs solitaires. Fleur : calicule absent ; calice 5-lobé, souvent campanulé ; pétales re-
+1. - Limb cordate, plant with hairs 1.5–2 mm .............................................. S. urens
 
-lativement petits, généralement unicolores et jaunes ; ovaire à 5 ‒ 15 carpelles ; branches
+- Limb with rounded, cuneate base, not cordate, plant with hairs less than
 
----
+1.5 mm ................................................................................................................. 2
 
----
+2. - Limb linear, at least 10 times longer than wide; inflorescences terminal
 
-stigmatiques du même nombre que les carpelles . Fruit à 5 ‒ 15 méricarpes verticillés
+................................................................................................................... S. linifolia
 
-et unispermes . Graines triangulaire-réniformes, lisses, souvent glabres.
+- Limb narrowly elliptic or wider; inflorescences axillary ...................................... 3
 
-Genre cosmopolite à 150 espèces environ, dont cinq au Gabon.
+3. - Limb obliquely ovate, of highly variable size (presence of leaves less than
 
-B : Akoègninou et al. (2006), Exell & Meeuse (1961), Bayer & Kubitzki
+1 cm in length), with rounded base and obtuse apex, plant prostrate or
 
-i B liographie
+erect; mericarps non- or briefly apiculate ................................................... S. ovata
 
-(2003), Hauman (1963), Marais & Friedman (1987), Verdcourt (2009).
+- Limb oblong-lanceolate or rhombic to ovate, with acuminate apex or if obtuse,
 
-### Clé des espèces
+with cuneate base, plant erect; mericarps with 2 distinct awns ............................ 4
 
-1. - Limbe cordiforme, plante à poils de 1,5 ‒ 2 mm ............................................ S. urens
+4. - Leaves, at least the upper ones, distichous; limb narrowly elliptic to ovate,
 
-- Limbe à base arrondie, cunéiforme, non cordée, plante à poils de moins de
+with dentate margin to the base, apex acute and base rounded; calyx
 
-1,5 mm .................................................................................................................... 2
+glabrescent; flowers chiefly solitary ................................................... S. acuta
 
-2. - Limbe linéaire, au moins 10 fois plus long que large ; inflorescences terminales
+- Leaves spiral; limb rhombic to oblong-lanceolate, with entire margin toward
 
-.................................................................................................................... S. linifolia
+the base, apex obtuse and base cuneate; calyx provided with farinose hairs and
 
-- Limbe étroitement elliptique ou plus large ; inflorescences axillaires .................... 3
-
-3. - Limbe obliquement ovale, de taille très variable (présence de feuilles de moins
-
-de 1 cm de longueur), à base arrondie et sommet obtus, plante prostrée ou
-
-érigée ; méricarpes non ou brièvement apiculés .......................................... S. ovata
-
-- Limbe oblong-lancéolé ou losangique à ovale, à sommet acuminé ou si obtus, à
-
-base cunéiforme, plante érigée ; méricarpes à 2 arêtes distinctes ........................... 4
-
-4. - Feuilles, au moins les plus hautes, distiques ; limbe étroitement elliptique à
-
-ovale, à marge dentée jusqu’à la base, sommet aigu et à base arrondie ;
-
-calice glabrescent ; fleurs surtout solitaires................................................... S. acuta
-
-- Feuilles spiralées ; limbe losangique à oblong-lancéolé, à marge entière vers le
-
-bas, sommet obtus et base cunéiforme ; calice pourvu de poils farineux et base de
-
-la nervure nettement renflée ; fleurs souvent en pseudo-fascicules ... S. rhombifolia
+base of the vein distinctly swollen; flowers often in pseudo-fascicles ... S. rhombifolia
 
 ## Species in region
 

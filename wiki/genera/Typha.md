@@ -17,45 +17,13 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Herbs, sometimes robust; rhizomes with sympodial branching, covered by distichous cataphylls. Leaves distichous, with long sheaths, often auriculate at the apex; blades linear, fleshy. Flowers arranged in a terminal, dense and cylindrical spike, the apical part male, the basal part female, the two continuous or interrupted along the persistent axis; male flowers with 1–3(–8) monadelphous stamens surrounded by filiform to spatulate or spatulate-laciniate bracteoles, connective prolonged; female flowers solitary or in small groups on a common pedicel, surrounded by setae and often also by linear bracteoles that are ovate or spatulate at the apex, of the same length as the setae; ovary stipitate, unilocular, with apical placentation; style filiform, longer than the setae; sterile flowers often present, with a claviform pistillode with reduced style. Fruits falling before dehiscence, narrowly ellipsoid. Seed fusiform.
 
-Herbes , parfois robustes ; rhizomes à ramifications sympodiales, couverts par des cata-
+Genus comprising 8 to 13 anemophilous species, widely distributed in the tropical and temperate regions of all continents, a single species present in Gabon.
 
-phylles distiques. Feuilles distiques, à gaines longues, souvent auriculées au sommet ;
+Bibliography
 
-limbes linéaires, charnues. Fleurs disposées en un épi terminal, dense et cylindrique,
-
-la partie apicale mâle, la partie basale femelle , les deux continues ou interrompues le
-
-long de l’axe persistant ; fleurs mâles à 1–3(–8) étamines monadelphes entourées par des
-
-bractéoles filiformes à spathulées ou spathulées-laciniées, connectif prolongé ; fleurs fe-
-
-melles solitaires ou en petits groupes sur un pédicelle commun, entourées par des soies
-
-et souvent aussi par des bractéoles linéaires qui sont ovées ou spatulées au sommet, de la
-
-même longueur que les soies ; ovaire stipité, uniloculaire , à placentation apicale ; style
-
-filiforme, plus long que les soies ; fleurs stériles souvent présentes, avec un pistillode cla-
-
-viforme à style réduit. Fruits tombants avant déhiscence, étroitement ellipsoïdes. Graine
-
-fusiforme.
-
-Genre comprenant 8 à 13 espèces anémophiles, largement répandues dans les régions
-
-tropicales et tempérées de tous les continents, une seule espèce présente au Gabon.
-
-B : Hepper (1968c), Kubitzki (1998), Napper (1971), Thieret & Luken
-
-i B liographie
-
-(1996).
-
----
-
----
+B: Hepper (1968c), Kubitzki (1998), Napper (1971), Thieret & Luken (1996).
 
 ## Species in region
 

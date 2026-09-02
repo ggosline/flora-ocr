@@ -17,13 +17,11 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Terrestrial or epiphytic herb with 1 or a few tubers. Stem often arched at the base and then erect, generally glandular. Basal leaves solitary or rare, and a few cauline bracts higher up. Inflorescence generally with numerous resupinate flowers. Dorsal sepal concave, agglutinated to the petals; lateral sepals deflexed or spreading. Labellum spurred, 0, 3 or 5-lobed. Gynostemium short, rather stout. Stigma independent with 2 elongate lobes. Labellum adnate to the margins of the rostellum. – Pl. 8, p. 27.
 
-Herbacée terrestre ou épiphyte avec 1 ou quelques tubercules. Tige souvent arquée à la base et alors érigée, en général glandulaire. Feuilles basales, unique ou rares, et quelques bractées caulinaires plus haut. Inflorescence, en général nombreuses fleurs résupinées. Sépale dorsal concave agglutiné aux pétales ; sépales latéraux, défléchis ou étalés. Labelle éperonné, 0, 3 ou 5 lobes. Gynostème court, assez trapu. Stigmate indépendant à 2 lobes allongés. Labelle adné aux marges du rostellum. – Pl. 8, p. 27.
+No information on pollination in this genus, but floral size and morphology suggest flies or butterflies as agents. However, self-pollination cannot be excluded in certain species.
 
-Aucune information sur la pollinisation dans ce genre, mais la taille et la morphologie florale suggèrent comme agent des mouches ou des papillons. On ne peut cependant exclure l'auto-pollinisation chez certaines espèces.
-
-Ce genre comprend ~130 espèces, la plupart de Madagascar et des Mascareignes et pas moins de 20 sur le continent africain.
+This genus comprises ~130 species, mostly from Madagascar and the Mascarene Islands and no fewer than 20 on the African continent.
 
 ## Species in region
 

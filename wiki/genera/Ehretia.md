@@ -17,15 +17,13 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Trees or shrubs. Leaves alternate, petiolate, simple; blade with entire or slightly dentate margin. Inflorescences axillary or terminal, cymose, much-branched, with scorpioid cymules. Flowers hermaphrodite, sessile or shortly pedicellate, small; calyx campanulate, with very short tube, deeply divided into (4−)5 imbricate lobes; corolla campanulate or subrotate, white, yellowish or blue, with tube shorter or longer than the (4−)5(−7) imbricate, spreading or reflexed, oblong lobes; stamens inserted toward the apex of the throat, generally exsert, anther oblongoid; ovary subglobose, with 2 locules 2-ovulate or with 4 locules 1-ovulate, ovules anatropous; style terminal, scarcely divided into 2 branches terminated by a capitate stigma. Fruits drupaceous, subglobose, fleshy, dissociating at maturity into 2 or mericarps, with 4 seeds or often fewer by abortion.
 
-Arbres ou arbustes. Feuilles alternes, pétiolées, simples; limbe à marge entière ou légèrement dentée. Inflorescences axillaires ou terminales, cymeuses, très ramifiées, à cymules scorpioïdes. Fleurs hermaphrodites, sessiles ou courtement pédicellées, petites; calice campanulé, à tube très court, profondément divisé en (4−)5 lobes imbriqués; corolle campanulée ou subrotacée, blanche, jaunâtre ou bleue, à tube plus court ou plus long que les (4−)5(−7) lobes imbriqués, étalés ou réfléchés, oblongs; étamines insérées vers le sommet de la gorge, généralement exsertes, anthère obloïde; ovaire subglobuleux, à 2 loges 2-ovulés ou à 4 loges 1-ovulés, ovules anatropes; style terminal, à peine divisé en 2 branches terminées par un stigmate capité. Fruits drupacés, subglobuleux, charnus, se dissociant à maturité en 2 ou méricarpes, avec 4 graines ou souvent moins par avortement.
+Pantropical genus comprising approximately 50 species, most of which are paleotropical and approximately 24 in Africa. For Gabon: one species, with two varieties.
 
-Genre pantropical comprenant environ 50 espèces, dont la plupart paléotropicales et environ 24 en Afrique. Pour le Gabon : une espèce, avec deux variétés.
+Notes: According to Göttschling et al. (2014) and Luebert et al. (2016), the genus Ehretia belongs to the family Ehretiaceae Mart., a pantropical family of approximately 150 species. The genus Ehretia is a monophyletic group and of African or Asian origin (Old World).
 
-Notes: Selon Göttschling et al. (2014) et Luebert et al. (2016), le genre Ehretia fait partie de la famille des Ehretiaceae Mart., une famille pantropicale d'environ 150 espèces. Le genre Ehretia est un groupe monophylétique et d'origine africaine ou asiatique (Ancien Monde).
-
-BIBLIOGRAPHIE: Baker & Wright (1906), Brenan (1954), Göttschling et al. (2014, 2016), Luebert et al. (2016), Taton (1971).
+BIBLIOGRAPHY: Baker & Wright (1906), Brenan (1954), Göttschling et al. (2014, 2016), Luebert et al. (2016), Taton (1971).
 
 ## Species in region
 

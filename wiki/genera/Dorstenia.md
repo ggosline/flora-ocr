@@ -17,8 +17,6 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 - Kosaria FORSSK., Fl. AEgypt. Arab.: 164 (1775); GMELIN, Syst. Nat.: 71 (1791), «Cosaria».
 
 - Sychinium Desv., Mém. Soc. Linn. Paris 4: 216 (1826).
@@ -29,21 +27,21 @@ tags: [genus, generated]
 
 – Ctenocladium AIRY SHAW, Kew Bull. 18 : 272 (1965).
 
-Plantes monoïques à latex ; herbes ou sous-arbrisseaux tantôt avec des rhizomes herbacés (ou succulents) à ligneux et des tiges feuillées dressées ou ascendantes, herbacées à succulentes ou au moins ligneuses à la base, tantôt avec des tubercules souterrains et, soit des tiges succulentes soit des tiges rampantes ; ou encore arbustes ramifiés ou non. Feuilles simples spiralées ou distiques, à nervation pennée (à palmée) ; stipules latérales libres, larges à subulées.
+Monoecious plants with latex; herbs or subshrubs sometimes with herbaceous (or succulent) rhizomes to woody and leafy stems erect or ascending, herbaceous to succulent or at least woody at the base, sometimes with underground tubers and either succulent stems or trailing stems; or else branched or unbranched shrubs. Leaves simple, spiraled or distichous, with pinnate (to palmate) venation; lateral stipules free, broad to subulate.
 
-Inflorescences solitaires, par 2 ou plus sur des rameaux courts axillaires, bisexuées, pédonculées. Réceptacle discoidal à turbiné ou
+Inflorescences solitary, in pairs or more on short axillary branchlets, bisexual, pedunculate. Receptacle discoidal to turbinate or
 
 ---
 
-naviculé, de forme variée avec des bractées (appendices, bractées rayonnantes) marginales, parfois insérées plus bas sur le réceptacle ou sur le pédoncule. Fleurs nombreuses ou assez nombreuses ; partie supérieure libre du périanthe 2-3- (-4) lobée avec généralement des poils renflés semblables à des papilles, oblongs à claviformes ou globuleux, hyalins ou villacés à pourpre foncé. Fleurs 8 avec 2-3 étamines incurvées dans le bouton, très fréquemment encore courbées à l'anthèse, mais souvent dans des directions différentes ; anthères latrorses ou extrorses, à connectif large à assez étroit ; pistillode présent ou absent. Fleurs 9 1 à n, très souvent au centre du réceptacle ; ovaire libre ; stigmates 2 ou 1, petits.
+naviculate, of varied form with bracts (appendages, radiating bracts) marginal, sometimes inserted lower on the receptacle or on the peduncle. Flowers numerous or fairly numerous; upper free portion of the perianth 2-3- (-4) lobed with generally inflated hairs resembling papillae, oblong to claviform or globose, hyaline or villous to dark purple. Male flowers with 2-3 stamens curved in bud, very frequently still curved at anthesis, but often in different directions; anthers latorse or extrorse, with broad to fairly narrow connective; pistillode present or absent. Female flowers 1 to n, very often at the center of the receptacle; ovary free; stigmas 2 or 1, small.
 
-Fruit petit à gros (jusqu'à environ 1 cm de longueur); exocarpe blanc, charnu, déhiscent, repoussant sur le haut ou éjectant un noyau à endocarpe crustacé, lisse ou tuberculé (dans les espèces succulentes), avec souvent une excroissance du côté du hile ; albumen présent dans les petites graines, absent dans les plus grosses ; embryon avec des cotylédons égaux et plats ou inégaux et plus ou moins pliés, plats à épais ; radicule assez longue à courte.
+Fruit small to large (up to approximately 1 cm in length); exocarp white, fleshy, dehiscent, pushing back at the top or ejecting a stone with crustaceous endocarp, smooth or tuberculate (in succulent species), often with an outgrowth on the hilum side; albumen present in small seeds, absent in larger ones; embryo with cotyledons equal and flat or unequal and more or less folded, flat to thick; radicle fairly long to short.
 
-ESPÈCE-TYPE : Dorstenia contrajerva L.
+TYPE SPECIES: Dorstenia contrajerva L.
 
-Les espèces africaines peuvent être rangées, grosso modo, en 4 groupes assez distincts mais encore peu assis taxonomiquement. Ils correspondent en partie aux sections de ENGLER.
+The African species can be arranged, roughly speaking, into 4 fairly distinct groups but still poorly established taxonomically. They correspond in part to the sections of ENGLER.
 
-Le premier groupe comprend les espèces originellement placées dans le genre Craterogyne, avec en plus D. elliptica, seule espèce de la section Nothodorstenia ENGL. (1898). Ce sont des arbrisseaux ou sous-arbrisseaux qui peuvent dépasser 1 m de hauteur et même atteindre 6 m. Les tiges, ramifiées ou non, proviennent (dans toutes les espèces ?) de rhizomes rampants. Les réceptacles orbiculaires de l'inflorescence portent sur la marge dépourvue de frange, au moins 2 rangées de petites bractées ou de petites bractées plus bas sur le pédoncule. Ces bractées ressemblent aux stipules par leur forme et leur texture. Les stipules ont une base large et sont semi-amplexicaules (sauf dans D. elliptica). Dans 3 de ces 5 espèces, l'inflorescence possède généralement une seule fleur ♀ centrale. Le noyau, assez gros, est lisse.
+The first group comprises species originally placed in the genus Craterogyne, plus D. elliptica, the sole species of the section Nothodorstenia ENGL. (1898). These are shrubs or subshrubs that can exceed 1 m in height and even reach 6 m. The stems, branched or unbranched, arise (in all species?) from creeping rhizomes. The orbicular receptacles of the inflorescence bear on the margin devoid of fringe, at least 2 rows of small bracts or small bracts lower on the peduncle. These bracts resemble the stipules in their form and texture. The stipules have a broad base and are semi-amplexicaul (except in D. elliptica). In 3 of these 5 species, the inflorescence generally possesses a single central female flower. The stone, fairly large, is smooth.
 
 ## Species in region
 

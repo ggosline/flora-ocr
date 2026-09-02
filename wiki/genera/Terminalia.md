@@ -14,8 +14,6 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 6.1. catappa, p. 119
 
 6.2. ivorensis, p. 122
@@ -26,9 +24,9 @@ tags: [genus, generated]
 
 ---
 
-# Spécimens
+# Specimens
 
-# (suivis du code numérique des espèces entre parenthèses)
+# (followed by the numerical species code in parentheses)
 
 AFZELIUS s.n. (1.30), s.n. (1.35)
 
@@ -100,7 +98,7 @@ DIBATA 263 (1.39), 550 (1.3)
 
 DON 24 (1.9)
 
----
+<<<---SECTION-BREAK--->>>
 
 DOUMENGUE 140 (1.1)
 

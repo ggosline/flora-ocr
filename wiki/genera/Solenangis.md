@@ -17,17 +17,15 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Epiphytic herbs of variable size, small to large. Stem elongate, with or without leaves. Leaves, when present, distichous, fleshy or coriaceous, briefly and unequally bilobed. Inflorescence axillary, pauci- to multiflorous, spreading. Flowers small to medium, resupinate. Sepals and petals subsimilar. Labellum entire or sometimes distinctly trilobed well above the base. Rostellum short, ligulate, obtuse, slightly recurved upward. Viscidium single. Tegula single. Rostellum deeply notched after withdrawal of the pollinium; lateral lobes large, the median one reduced, scarcely visible. – Pl. 173, p. 378.
 
-Herbes épiphytes de taille variable, petites à grandes. Tige allongée, avec ou sans feuilles. Feuilles, quand elles sont présentes, distiques, charnues ou coriaces, brièvement et inégalement bilobées. Inflorescence axillaire, pauci- à multiflore, étalée. Fleurs petites à moyennes, résupinées. Sépales et pétales subsemblables. Labelle entier ou parfois nettement trilobé bien au-dessus de la base. Rostellum court, ligulé, obtus, légèrement recourbé vers le haut. Viscidie unique. Tegula unique. Rostellum profondément entaillé après retrait du pollinarium ; lobes latéraux grands, le médian réduit, peu visible. – Pl. 173, p. 378.
+Genus of 5 known species from tropical Africa, Madagascar and the Mascarene Islands. Two species known from Gabon.
 
-Genre de 5 espèces connues d’Afrique tropicale, de Madagascar et des Mascareignes. Deux espèces connues du Gabon.
-
-1. Éperon 5-10 mm, labelle faiblement trilobé ; inflorescence 0,5-1,5 (-2) cm
+1. Spur 5-10 mm, labellum weakly trilobed; inflorescence 0.5-1.5 (-2) cm
 
 .....39. 1 S. clavata.
 
-1'. Éperon 20-27 mm labelle entier ; inflorescence 2-10 cm ..... 39. 2. S. scandens.
+1'. Spur 20-27 mm labellum entire; inflorescence 2-10 cm ..... 39. 2. S. scandens.
 
 ## Species in region
 

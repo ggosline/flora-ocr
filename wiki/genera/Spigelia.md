@@ -17,17 +17,15 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Herbs or subshrubs. Leaves simple, often whorled.
 
-Herbes ou sous-arbustes. Feuilles simples, souvent verticillées.
+Inflorescences helicoid and terminal for the species represented in Africa. Flowers pentamerous. Sepals free or united at the base, very narrowly oblong to ovate, equal or unequal. Corolla funnel-shaped; lobes valvate. Ovary 2-locular.
 
-Inflorescences hélicoïdes et terminales pour l'espèce représentée en Afrique. Fleurs pentamères. Sépales libres ou unis à la base, très étroitement oblongs à ovés, égaux ou inégaux. Corolle en entonnoir; lobes valvaires. Ovaire à 2 loges.
+Fruits capsular, bilobed, with 4 caducous valves, surrounded by the persistent cupular base of the calyx.
 
-Fruits capsulaires, bilobés, à 4 valves caduques, entourés par la base cupulaire persistante du calice.
+Type species: Spigelia anthelmia L., from America.
 
-Espèce-type : Spigelia anthelmia L., d'Amérique.
-
-Environ 50 espèces en Amérique, surtout tropicale.
+Approximately 50 species in America, mostly tropical.
 
 ## Species in region
 

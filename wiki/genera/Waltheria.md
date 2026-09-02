@@ -17,11 +17,9 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Herbs or subligneous pubescent shrublets. Stipules present. Leaves alternate, simple, petiolate, with denticulate margins. Inflorescence axillary, contracted into glomerules. Flowers hermaphrodite. 5 sepals. 5 petals with twisted prefloration, marcescent, inserted above the base of the staminal tube. 5 stamens opposite-petalled, connate in a collar. Anthers with 2 parallel extrorse locules. No staminodes. Ovary with a single binovulate locule, with basal placenta. Capsule bivalved. Seed ascending, albuminous, with two flat cotyledons. Radicle directed towards the hilum.
 
-Herbes ou arbrisseaux sousligneux pubescents. Stipules présentes. Feuilles alternes simples pétiolées, à marges denticulées. Inflorescence axillaires contractées en glomérules. Fleurs hermaphrodites. 5 sépales. 5 pétales à préfloraison tordue, marcescents, insérés au-dessus de la base du tube staminal. 5 étamines oppositipétales, connées en collerette. Anthères à 2 loges parallèles extrorses. Pas de staminodes. Ovaire à une seule loge biovulée, à placenta basal. Capsule bivalvée. Graine ascendante albuminée à deux cotylédons plats. Radicule dirigée vers le hile.
-
-Environ 45 espèces d'un grand nombre de régions tropicales; surtout nombreuses en Amérique, deux habitent l'Afrique; l'une d'elles, espèce pantropicale et type du genre, est connue du Gabon.
+Approximately 45 species from a large number of tropical regions; especially numerous in America, two inhabit Africa; one of them, a pantropical species and type of the genus, is known from Gabon.
 
 ## Species in region
 

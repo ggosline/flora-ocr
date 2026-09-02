@@ -16,13 +16,11 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+See the bibliography given below for the single species.
 
-Voir la bibliographie donnée ci-dessous pour l'espèce unique.
+Tree with simple, petiolate leaves. Lateral stipules. Axillary inflorescences. Calyx with 5 free, hairy sepals. Flowers with an androphore adorned with a tuft of hairs. Anthers arranged as in Sterculia. Flower ∀ with a 5-carpellate ovary. Fruits in very thick, strongly woody follicles. Wingless seeds, inserted on two lines situated one centimeter apart and on either side of the dehiscence line; they are albuminous, enveloped in a layer of yellow spongy tissue; this layer is not a true aril but results from hypertrophy of the integument cells. Cotyledons elliptic, thin, nerved, with a radicle directed toward the hilum.
 
-Arbre à feuilles simples, pétiolées. Stipules latérales. Inflorescences axillaires. Calice à 5 sépales libres, velus. Fleurs à androphore orné d'un bouquet de poils. Anthères disposées comme chez les Sterculia. Fleur ∀ à ovaire 5-carpellé. Fruits en follicules très épais fortement ligneux. Graines aptères, insérées sur deux lignes situées à un centimètre et de part et d'autre de la ligne de déhiscence; elles sont albuminées, enveloppées d'une couche spongieuse jaune; cette couche n'est pas une véritable arille mais provient d'une hypertrophie des cellules du tégument. Cotylédons elliptiques, minces, nervés, à radicule dirigée vers le hile.
-
-Une seule espèce, Eribroma oblonga, ouest-africaine, présente au Gabon. Cette espèce a longtemps été considérée comme appartenant au genre Sterculia. D'importantes différences morphologiques ou structurales de la fleur, du fruit, de la graine et même du bois (cf. Normand, Atl. Bois de la Côté d'Ivoire II : 244, 1955), justifient la réhabilitation du genre Eribroma créé par Pierre. L'E. oblonga a cependant été cité dans les clés données au genre Sterculia (cf. p. 11).
+A single species, Eribroma oblonga, West African, present in Gabon. This species was long considered to belong to the genus Sterculia. Important morphological or structural differences in the flower, fruit, seed, and even wood (cf. Normand, Atl. Bois de la Côté d'Ivoire II: 244, 1955) justify the rehabilitation of the genus Eribroma created by Pierre. E. oblonga has, however, been cited in the keys given for the genus Sterculia (cf. p. 11).
 
 ## Species in region
 

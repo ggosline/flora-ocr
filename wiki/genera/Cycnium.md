@@ -16,33 +16,15 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+in Hook., Compan. Bot. Mag. 1: 368 (1836).
 
-in Hook., Compan. Bot. Mag . 1 : 368 (1836).
+Annual or perennial herbs, with tuberous or elongated, pubescent rhizomes; stems prostrate, ascending or erect. Leaves opposite or sometimes alternate or in whorls of 3, sessile or petiolate; blade sometimes entire, ovate-lanceolate and acuminate or else pinnatipartite to bipinnatipartite and with dentate or serrate margin; venation pinnate. Inflorescences racemose, lax, foliaceous or bracteiferous. Flowers without or with bracteoles, sessile to pedicellate; calyx 4- or 5-lobed, lobes equal to subequal; corolla 5-lobed, bilabiate, with tube curved or narrow and slender, without palate; stamens 4, didynamous, unilocular, included, filaments with unilateral barbule. Fruit a berry or more frequently a capsule with septicidal dehiscence. Seeds with reticulate-tuberculate or smooth testa.
 
-Herbes annuelles ou pérennes, à rhizomes tubéreux ou allongés, pubescents ; tiges pros-
+Genus with 15 species in tropical Africa, of which one in Gabon.
 
-trées, ascendantes ou dressées. Feuilles opposées ou parfois alternes ou en verticille de
+B: Hansen (1978).
 
-3, sessiles ou pétiolées ; limbe parfois entier, ovale-lancéolé et acuminé ou bien penna-
-
-tiséqué à bipennatiséqué et à marge dentée ou serrée ; nervation pennée. Inflorescences
-
-en forme de racème, lâche, foliacée ou bractéifère . Fleurs sans ou avec bractéoles,
-
-sessiles à pédicellées ; calice 4- ou 5-lobé, lobes égaux à subégaux ; corolle 5-lobé, bila-
-
-biée, à tube courbé ou étroit et mince, sans palais ; étamines 4, didynames, uniloculaires,
-
-incluses, filets à barbule unilatérale. Fruit une baie ou plus fréquemment une capsule à
-
-déhiscence septicide . Graines à testa réticulé-tuberculé ou lisse.
-
-Genre avec 15 espèces en Afrique tropicale, dont une au Gabon.
-
-B : Hansen (1978).
-
-ibliographie
+ibliography
 
 ## Species in region
 

@@ -16,45 +16,39 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Terrestrial plants, with erect or creeping rhizome, solenostelic or dictystelic, scaly. Petiole channeled on the adaxial surface. Frond pinnate to bipinnate, sometimes tripartite at the base, the apex of the lamina often similar to the pinnae. Rachis channeled, often papillose or spinescent at the base of the pinnae. Costae channeled, decurrent on the rachis. Surfaces generally glabrous. Venation free or anastomosing, forming areolae along the costa only, or along the costae and costulae.
 
-Plantes terrestres, à rhizome dressé ou rampant, solenos-télique ou dictyostélique, écailleux. Pétiole canaliculé à la face adaxiale. Fronde pennée à bipennée, parfois tripartite à la base, l'extrémité du limbe souvent semblable aux pennes. Rachis canaliculé, souvent papilleux ou spinescent à la base des pennes. Costae canaliculés, décurrents sur le rachis. Surfaces généralement glabres. Nervures libres ou anastomoses, formant des aréoles le long du costa seulement, ou le long des costae et costulae.
-
-Fronde fertile semblable à la stérile, ou légèrement dimorphe. Nervures réunies dans la fronde fertile par une nervure commis-
+Fertile frond similar to the sterile, or slightly dimorphic. Venation united in the fertile frond by a commissural vein.
 
 ---
 
 ---
 
-surale. Sores linéaires, submarginaux, couverts par une indusie
+Sori linear, submarginous, covered by an indusium formed of 3 rows of cells. Presence of paraphyses. Spores tetrahedral or bilateral.
 
-formée de 3 rangées de cellules. Présence de paraphyses. Spores
+Type species: (lectotype of Christensen): Pteris longifolia L. Approximately 250 species, tropical and subtropical; 6 in Gabon.
 
-tétraédriques ou bilatérales.
+### KEY TO PTERIS (cf. add. p. 119)
 
-Espèce type : (lectotype de Christensen) : Pteris longifolia L. Environ 250 espèces, tropicales et subtropicales; 6 au Gabon.
+1. Frond not tripartite, pinnate to bipinnate.
 
-### CLÉ DES PTERIS (cf. add. p. 119)
+2. Frond polymorphic, with entire pinnae or partially and irregularly pinnate; venation forming several rows of areolae between the midvein of the lobes and the margin..... 1. P. Burtoni.
 
-1. Fronde non tripartite, pennée à bipennée.
+2'. Fronds regularly bipinnatifid.
 
-2. Fronde polymorphe, à pennes entières ou partiellement et irrégulièrement pennées; nervures formant plusieurs rangées d'aréoles entre la nervure médiane des lobes et la marge..... 1. P. Burtoni.
+3. Venation forming costal areolae only, free in the lobes.
 
-2'. Frondes régulièrement bipinnatifides.
+4. Segments entire; petiole stramineous, costal areolae triangular..... 2. P. linearis.
 
-3. Nervures formant des aréoles costales seulement, libres dans les lobes.
+4'. Segments dentate at the apex, petiole brownish, bearing spines at the extreme base; costal areolae depressed.
 
-4. Segments entiers; pétiole straminé, aréoles costales trian-gulaires..... 2. P. linearis.
+3'. Venation forming costal areolae and along the midvein of the lobes.
 
-4'. Segments dentés au sommet, pétiole brunâtre, portant des épines à l'extrême base; aréoles costales surbaissées.
+5. Fronds not climbing, having 7 pairs of pinnae; rachis not spinous; texture subcoriaceous..... 4. P. atrovirens.
 
-3'. Nervures formant des aréoles costales et le long de la nervure médiane des lobes.
+5'. Frond climbing, having 28 pairs of pinnae; rachis spinulose; texture thin..... 5. P. similis.
 
-5. Frondes non grimpantes, ayant 7 paires de pennes; rachis non épineux; texture subcoriace..... 4. P. atrovirens.
-
-5'. Fronde grimpante, ayant 28 paires de pennes; rachis spinuleux; texture mince..... 5. P. similis.
-
-1'. Fronde tripartite, c'est-à-dire divisée en 3 branches primaires également développées, elles-mêmes bipennées; nervures formant des aréoles costales..... 6. P. marginata.
+1'. Frond tripartite, that is divided into 3 equally developed primary branches, themselves bipinnate; venation forming costal areolae..... 6. P. marginata.
 
 ## Species in region
 

@@ -17,27 +17,25 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Vine with ± woody branches, cylindrical or somewhat angular and covered with fairly thick cork. Young stems ± cylindrical, with simple or stellate hairs. Leaves opposite, petiolate, entire, penninerved.
 
-Liane à branches ± ligneuses, cylindriques ou un peu anguleuses et couvertes d'un liège assez épais. Jeunes tiges ± cylindriques, à poils simples ou étoilés. Feuilles opposées, pétiolées, entières, penninerves.
-
-Fleurs axillaires, solitaires ou surtout sur le vieux bois, en pseudo-fascicules, pédicellées; 2 bractéoles ± connées au moins au début et formant un spathe enfermant le tube de la corolle au moins jusqu'au milieu. Calice court, en général membraneux, glabre ou pubescent, entier. Corolle blanche, à tube droit ou courbé, cylindrique ou élargi vers le haut, souvent gibbeux et oblique vers la base; limbe à 5 lobes de taille variable réfléchis ou étalés. 4 étanines didynamics insérées vers le milieu du tube, incluses, les postérieures un peu plus longues; filets courts; anthères linéaires à loges parallèles subégales à la base ou inégales, déhiscentes en long. Disque annulaire charnu très convexe entourant la base de l'ovaire, ce dernier en général obliquement comprimé, présente d'abord deux loges inégales puis une seule; 1-2 ovules par loge; style filiforme; stigmate bilobé, à lobe antérieur souvent plus grand.
+Flowers axillary, solitary or especially on old wood, in pseudo-fascicles, pedicellate; 2 bracteoles ± connate at least at first and forming a spathe enclosing the corolla tube at least to the middle. Calyx short, generally membranous, glabrous or pubescent, entire. Corolla white, with tube straight or curved, cylindrical or enlarged towards the apex, often gibbous and oblique at the base; limb with 5 lobes of variable size reflexed or spreading. 4 didynamous stamens inserted towards the middle of the tube, included, the posterior ones somewhat longer; filaments short; anthers linear with parallel locules subequal at the base or unequal, dehiscing longitudinally. Annular fleshy disc very convex surrounding the base of the ovary, the latter generally obliquely compressed, first presenting two unequal locules then a single one; 1–2 ovules per locule; style filiform; stigma bilobed, with anterior lobe often larger.
 
 ---
 
-Fruit dupracé ovoïde-comprimé, à mésocarpe charnu ou pulpeux et endocarpe osseux; 1-2 graines sans rétinacle, dressées, cotylédons pliés ou convolutés; radicule courte.
+Fruit drupaceous ovoid-compressed, with fleshy or pulpy mesocarp and bony endocarp; 1–2 seeds without retinacle, erect, cotyledons folded or convolute; radicle short.
 
-Espèce type : Mendozia (sic) aspera Ruiz et Pavon (Pérou).
+Type species: Mendozia (sic) aspera Ruiz et Pavon (Peru).
 
-Plus de 90 espèces ont été décrites des tropiques de l'Amérique (cf. E. C. Leonard, Contrib. U. S. Nat. Herb. 31, 1 : 11, 1951); 3 espèces de Madagascar (cf. R. Benoist, l. c. 139, 1944) et, d'après une révision des espèces du continent africain pour la Flore du Gabon, le genre est représenté en Afrique tropicale par 4 espèces; outre les 3 reconnues pour le Gabon, il n'existe que le M. combretoides (A. Chev.) R. Benoist, endémique de la Côte-d'Ivoire.
+More than 90 species have been described from the tropics of America (cf. E. C. Leonard, Contrib. U. S. Nat. Herb. 31, 1: 11, 1951); 3 species from Madagascar (cf. R. Benoist, l. c. 139, 1944) and, according to a revision of the species of the African continent for the Flora of Gabon, the genus is represented in tropical Africa by 4 species; besides the 3 recognized for Gabon, there exists only M. combretoides (A. Chev.) R. Benoist, endemic to Ivory Coast.
 
-### CLÉ DES MENDONCIA
+### KEY TO MENDONCIA
 
-1. Plantes entièrement glabres; fleurs assez grandes, en pseudo-fascicules axillaires (30-45 fleurs dans un pseudo-fascicule) ... 1. M. Lindaviana.
+1. Plants entirely glabrous; flowers rather large, in pseudo-fascicles axillary (30–45 flowers in a pseudo-fascicle) ... 1. M. Lindaviana.
 
-I'. Plantes ± densément pubescentes, fleurs axillaires, en général 2-4 par aisselle.
+1'. Plants ± densely pubescent, flowers axillary, generally 2–4 per axil.
 
-2. Limbe 3 à 5 fois plus long que le pétiole; tige pétiolée, côté médiane et limbe des feuilles finement vétu en dessous de poils simples et apprimés; limbe elliptique-lancéolé de 7 × 3 mm, à acumen arrondi, à mucron jusqu'à 1,5 mm de long, à base arrondie ou subcordée, mince, lisse et élastique, vert foncé en dessus; les deux faces du limbe sont ± glabrescentes, mais toujours munis de quelques poils simples et de petites pustules blanchâtes et translucides; ces pustules sont plus denses sur le dessus du limbe; fruit mùr de 9 × 6 mm..... 2. M. Gilgi
+2. Limb 3 to 5 times longer than the petiole; stem petiolate, midrib and limb of leaves finely clothed below with simple and appressed hairs; limb elliptic-lanceolate 7 × 3 mm, with rounded acumen, with mucro up to 1.5 mm long, with rounded or subcordate base, thin, smooth and elastic, dark green above; both surfaces of the limb are ± glabrescent, but always furnished with a few simple hairs and small whitish and translucent pustules; these pustules are denser on the upper surface of the limb; ripe fruit 9 × 6 mm..... 2. M. Gilgi
 
 ## Species in region
 

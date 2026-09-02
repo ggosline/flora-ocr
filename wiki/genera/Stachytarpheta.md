@@ -17,69 +17,25 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Shrubs or annual or perennial herbs, glabrous to densely hairy, unarmed. Leaves opposite or alternate, simple, generally petiolate; lamina with dentate, denticulate or crenulate margin.
 
-Arbustes ou herbes annuelles ou vivaces, glabres à densément poilus, inermes . Feuilles op-
+Inflorescences in terminal spike, elongate or short; bracts well-visible, often becoming woody and reflexed after anthesis. Flowers sessile or embedded in the axis of the inflorescence, grouped; calyx persistent, enveloping the fruit, with narrow tube, 5-nerved, with 4 or 5 (sub)equal entire or bifid teeth; corolla funnel- or trumpet-shaped, blue, violet, red or white, with narrow tube, straight or incurved, with pubescent throat internally, with 5 (sub)equal lobes; stamens 2 (superior), inserted in the upper half of the tube, included and 2 staminodes, anthers with divaricate linear-oblong thecae; ovary with 1 carpel 2-locular, with 1 erect anatropous ovule per locule; style persistent, filiform, stigma capitate. Fruits as dry schizocarp, dividing at maturity into 2 hard mericarps, with short beak, striate on the back and generally foveolate near the apex. Seeds linear, without endosperm.
 
-posées ou alternes, simples, généralement pétiolées ; limbe à bord denté, dentelé ou crénelé.
+A genus of approximately 120 species and widely distributed in (sub)tropical America. Several invasive species introduced and naturalized in (sub)tropical Africa including Nigeria, Cameroon, São Tomé and Príncipe, Gabon, the Democratic Republic of the Congo, the Central African Republic and Angola; in Asia, Australia and the Pacific. Some authors believe that certain species of this genus are native to Africa (see Atkins 2005 and Fernandes 2006).
 
-Inflorescences en épi terminal, allongé ou court ; bractées bien visibles, devenant souvent
+Notes: The taxonomic and nomenclatural situation of this genus is complex, as many species have been introduced from South America, and have since become naturalized throughout the world and have often been described several times and consequently placed in synonymy across Africa, Asia and Australia. In Africa, particularly for S. indica, the nomenclatural and taxonomic history is confused.
 
-ligneuses et réfléchies après l’anthèse. Fleurs sessiles ou encastrées dans l’axe de l’inflo -
+Bibliography
 
-rescence, groupées ; calice persistant, enveloppant le fruit, à tube étroit, 5-nervuré, avec 4
+B: Atkins (2004), Cardoso et al. (2011), Chandler et al. (2014), Fernandes (2005), Huber et al. (1963), Verdcourt (1992).
 
-ou 5 dents (sub)égales entières ou bifides ; corolle en forme d’entonnoir ou de trompette,
+### Key to species
 
-bleue, violette, rouge ou blanche, à tube étroit, droit ou incurvé, à gorge pubescente intérieure-
+1. - Calyx at anthesis with 4 teeth, of which 2 are very reduced so that it often appears to be 2-toothed ................................................................................................... S. indica
 
-ment, à 5 lobes (sub)égaux ; étamines 2 (supérieures) , insérées dans la moitié supérieure du
+- Calyx at anthesis with 4 or 5 subequal teeth ........................................................... 2
 
-tube, incluses et 2 staminodes, anthères à thèques divariquées linéaires-oblongues ; ovaire à
-
-1 carpelle 2-loculaire, avec 1 ovule anatrope dressé par locule ; style persistant, filiforme,
-
-stigmate capité. Fruits en schizocarpe sec , se divisant à maturité en 2 méricarpes durs, à
-
-bec court, striés sur le dos et généralement fovéolés près de l’apex. Graines linéaires, sans
-
-endosperme.
-
-Un genre d’environ 120 espèces et largement répandu en Amérique (sub)tropicale. Quelques
-
-espèces envahissantes introduites et naturalisées en Afrique (sub)tropicale dont le Nigéria, le
-
-Cameroun, Sao Tomé-et-Principe, le Gabon, la République démocratique du Congo, la Répu -
-
-blique Centrafricaine et l’Angola ; en Asie, en Australie et dans le Pacifique. Quelques auteurs
-
-pensent que certaines espèces de ce genre sont originaires de l’Afrique (voir Atkins 2005 et
-
-Fernandes 2006).
-
-Notes : La situation taxonomique et nomenclaturale de ce genre est complexe, car de nombreuses espèces
-
-ont été introduites de l’Amérique du Sud, et se sont depuis naturalisées à travers le monde et ont souvent
-
-été décrites plusieurs fois et par conséquent mis en synonymie à travers l’Afrique, l’Asie et l’Australie.
-
-En Afrique, en particulier pour S . indica , l’histoire nomenclaturale et taxonomique est confuse.
-
-B : Atkins (2004), Cardoso et al. (2011), Chandler et al. (2014), Fernandes (2005), Huber et
-
-i B liographie
-
-al. (1963), Verdcourt (1992).
-
-### Clé des espèces
-
-1. - Calice à l’anthèse avec 4 dents, dont 2 très réduites de sorte qu’il semble souvent
-
-être à 2 dents ................................................................................................... S . indica
-
-- Calice à l’anthèse avec 4 ou 5 dents subégales ........................................................... 2
-
-2. - Inflorescence à poils épars ; calice à 4 dents ; tube de la corolle long de 4–6 mm
+2. - Inflorescence with scattered hairs; calyx with 4 teeth; corolla tube 4–6 mm long
 
 ## Species in region
 

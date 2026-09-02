@@ -16,19 +16,17 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Rhizome creeping, dichotomously divided, the apex covered with hairs. Petiole and rachis slender, climbing, with indefinite growth, often reaching several metres, with alternate primary branches bearing a pair of pinnae, with secondary branches palmate or pinnate. Sterile pinnules entire or lobed, with veins generally free. Fertile pinnules narrower than the sterile ones, bearing along their entire length narrow lobes, each bordered by 2 rows of shortly stalked sporangia, pear-shaped, with complete apical ring, protected by a lobe of the leaf serving as an indusium.
 
-Rhizome rampant, divisé dichotoniquement, le sommet couvert de poils. Pétiole et rachis minces, grimpants, à croissance indéfinie, atteignant souvent plusieurs mètres, à branches primaires alternes, portant une paire de pennes, à branches secondaires palmées ou pennées. Pinnules stériles entières ou lobées, à nervures généralement libres. Pinnules fertiles plus étroites que les stériles, portant sur toute leur longueur des lobes étroits, bordés chacun de 2 rangées de sporanges courtement pédonculés, en forme de poire, à anneau complet, apical, protégé par un lobe de la feuille servant d'indusie.
-
-Espèce type : L. scandens Sw.
+Type species: L. scandens Sw.
 
 ---
 
-Environ 40 espèces, tropicales ou subtropicales. Communes en forêt secondaire, forment des buissons, recherchent les endroits éclairés. 2 espèces au Gabon.
+Approximately 40 species, tropical or subtropical. Common in secondary forest, forming shrubs, seeking well-lit places. 2 species in Gabon.
 
-1. Pinnules articulées, souvent caduques, les fertiles triangulaires, obtus-ses, longues de 2-4 cm, à base hastée..... 1. T. microphyllum.
+1. Pinnules articulate, often caducous, the fertile ones triangular, obtuse, 2–4 cm long, with hastate base..... 1. T. microphyllum.
 
-1'. Pinnules non articulées, les fertiles linéaires, longues de 5-9 cm, à base tronquée, légèrement décurrente..... 2. L. Smithianum.
+1'. Pinnules non-articulate, the fertile ones linear, 5–9 cm long, with truncate base, slightly decurrent..... 2. L. Smithianum.
 
 ## Species in region
 

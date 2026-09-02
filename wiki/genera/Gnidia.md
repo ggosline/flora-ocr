@@ -17,21 +17,19 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Only the principal synonyms have been mentioned. We have understood this very complex genus here in the sense in which it is generally tended to be defined today. Indeed, most species were described alternately in two, if not in three different genera which must obviously be regarded as synonymous if one wishes to accept as valid entities and of specific rank, assemblages of populations presenting from one place to another only imperceptible and continuous variations of certain characters.
 
-Seuls les principaux synonymes ont été mentionnés. Nous avons compris ici ce genre très complexe au sens où l'on tend généralement à le définir aujourd'hui. En effet, la plupart des espèces furent décrites alternativement dans deux, sinon dans trois genres différents qu'il convient évidemment de regarder comme synonymes si l'on veut admettre comme entités valables et de niveau spécifique, des ensembles de populations ne présentant d'un lieu à un autre que des variations insensibles et continues de certains caractères.
+These variations concern essentially the floral type (a single individual may possess both tetramerous and pentamerous flowers, and a single population appears to be able locally to show dominance of pentamerous flowers and elsewhere dominance of tetramerous flowers), the development of the internal cycle of the perianth (corolla, which may appear in the form of coloured petals as large as the sepals, or else, on a single individual or within a single population, reduced to minute glands or even absent), the nature of the ramifications and the qualities of these (woody or sub-woody savanna plants, frequently subjected to fires, and behaving as geopyrophytes).
 
-Ces variations concernent essentiellement le type floral (un même individu peut posséder des fleurs têtra et pentamères, et une même population paraît pouvoir être localement à dominance de fleurs pentamères et ailleurs à dominance de fleurs tétramères), le développement du cycle interne du périanthe (corolle, qui peut apparaître sous forme de pétales colorés aussi grands que les sépales, ou bien, sur un même individu ou dans une même population, réduits à de minuscules glandes ou même absents), la nature des ramifications et les qualités de celles-ci (plantes ligneuses ou sous-ligneuses de savanes, fréquemment soumises aux feux, et se comportant en géopyrophytes).
+Now, the generic distinctions were founded essentially on the floral type and on the presence or absence of petals. It is evident that these characters do not present sufficient stability for them to be taken into account at the generic level so long as it will not be possible to bring, through the play of character correlations, a confirmation of their value on the plane of fundamental systematics. One must nevertheless emphasize that the distinctions between Gnidia s.s., Lasiosiphon, Arthrosolen, Englerodaphne,
 
-Or, les distinctions génériques furent fondées essentiellement sur le type floral et sur la présence ou l'absence de pétales. Il est évident que ces caractères ne présentent pas une stabilité suffisante pour qu'il puisse en être tenu compte au niveau générique tant qu'il ne sera pas possible d'apporter, par le jeu des corrélations de caractères, une confirmation de leur valeur sur le plan de la systématique fondamentale. On doit néanmoins souligner que les distinctions entre Gnidia s.s., Lasiosiphon, Arthrosolen, Englerodaphne,
+<<<---SECTION-BREAK--->>>
 
----
+may, locally, be applied, by taking into consideration the floral type most frequently encountered, in order to delimit taxonomic categories which may or may not be assimilable to genera.
 
-peuvent, localement, être appliquées, en prenant en considération le type floral le plus fréquemment rencontré, afin de délimiter des catégories taxinomiques assimilables ou non à des genres.
+Large trees, shrubs or small shrubs with erect branches often simple, often herbaceous, straight or bushy, sometimes with ericoid habit (South Africa especially) often with thickened rootstocks emitting woody or herbaceous shoots (chamaephytes). Bark variable, smooth or wrinkled, lenticellate or not, but almost always bearing long and very solid fibres. Wood with vessels frequently grouped in small islets (Leandri).
 
-Grands arbres, arbustes ou arbrisseaux à rameaux dressés souvent simples, souvent herbacés, droits ou touffus, parfois à port éricoïde (Afrique du Sud surtout) souvent à souches épaissies émettant des rejets ligneux ou herbacés (chaméphytes). Écorce variable, lisse ou rugueuse, lenticellée ou non, mais comportant presque toujours des fibres longues et très solides. Bois à vaisseaux fréquemment groupés en petit ilôts (Leandri).
-
-Feuilles le plus souvent alternes, mais parfois opposées, les supérieures surtout, chez quelques espèces (Englerodaphne), à limbe de faibles dimensions, plat et membraneux ou aciculaire et coriace, variable (quelques cas d'hétérophyllie).
+Leaves most often alternate, but sometimes opposite, the upper ones especially, in a few species (Englerodaphne), with blade of small dimensions, flat and membranous or acicular and coriaceous, variable (a few cases of heterophylly).
 
 ## Species in region
 

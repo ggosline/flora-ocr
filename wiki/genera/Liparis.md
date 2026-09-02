@@ -17,39 +17,35 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+PL. 56. – Structure of the gynostemium of the genus Liparis L. C. Rich.: A, anterior view ; B, I, rostellum and stigma, basal view, anther removed ; C, F, H, lateral view ; D, anther, basal view ; E, J, pollinia, various aspects ; G, apical region of the gynostemium viewed from below (A-G, ex SZLACHETKO & MARGONSKA, 2001).
 
 ---
 
-PL. 56. – Structure du gynostème du genre Liparis L. C. Rich.: A, vue antérieure ; B, I, rostelle et stigmate, vue de la base, anthère retirée ; C, F, H, vue latérale ; D, anthère, vue de la base ; E, J, pollinie, aspects divers ; G, région apicale du gynostème vue d'en bas (A-G, ex SZLACHETKO & MARGONSKA, 2001).
+Herbaceous terrestrial or epiphytic plants. Pseudobulbs of diverse size and form, often narrowly cylindrical to ovoid. Leaves basal or cauline, plicate, fine or more substantial. Inflorescence lax and pauciflorous to dense and pluriflorous. Flowers minute to medium, ± resupinate. Petals and sepals dissimilar. Lip auriculate, generally channelled, especially in the lower part, generally rather thick and fleshy, adorned with a single basal callus. Gynostemium elongate, slender, arched, broad wings at the apical half, base swollen. Pollinia 4, laterally flattened, ellipsoid. Caudicles absent. Rostellum truncate, short, narrow, generally without viscidium. – Pl. 56, p. 117.
 
----
+Information on pollination in Liparis is rare in the literature. Some species are cleistogamous in rainforest but chasmogamous (open-flowered) when the outside air is drier. The dull greenish or whitish colours sometimes tinged with purple-brown of the flowers of many species, the absence of nectar and nectar guides as well as the flower size suggest that they are pollinated by flies.
 
-Herbacées terrestres ou épiphytes. Pseudobulbes de taille et de forme diverses, souvent étroitement cylindriques à ovoïdes. Feuilles basales ou caulinaires, plissées, fines ou plus consistantes. Inflorescence lâche et pauciflore à dense et pluriflore. Fleurs de minuscules à moyennes, ± résupinées. Pétales et sépales dissemblables. Labelle auriculé, en général canaliculé, surtout à la partie inférieure, en général plutôt épais et charnu, orné d'un seul callus basal. Gynostème allongé, grêle, arqué, larges ailes à la moitié apicale, base renflée. Pollinies 4, aplatties latéralement, ellipsoïdales. Caudicules absents. Rostellum tronqué, court, étroit, en général sans viscidie. – Pl. 56, p. 117.
+This important genus, especially pantropical, comprises approximately 270 species, some representatives in temperate regions of both hemispheres. In Gabon, 6 species are known.
 
-Les informations sur la pollinisation des Liparis sont rares dans la littérature. Certaines espèces sont cleistogames en forêt ombrophile mais chasmogames (à fleurs ouvertes) quand l'air extérieur est plus sec. Les couleurs ternes verdâtes ou blanchâtes parfois additionnées de brun-pourpre des fleurs de maintes espèces, l'absence de nectar et de guides vers le nectar ainsi que la taille des fleurs font supposer qu'elles sont pollinisées par des mouches.
+1. Lip deeply 3-dentate just above the base; median lobe apiculate, apex recurved upward ..... 6. L. tridens
 
-Ce genre important, surtout pantropical, compte environ 270 espèces, dont quelques représentants en régions tempérées des deux hémisphères. Au Gabon, on en connaît 6 espèces.
+1'. Lip of diverse form but never distinctly 3-lobed.
 
-1. Labelle profondément 3-denté juste au-dessus de la base ; lobe médian apiculé, sommet recourbé vers le haut ..... 6. L. tridens
+2. Lateral sepals fused into a gamosepalous whole ..... 4. L. hallei
 
-1'. Labelle de forme diverse mais jamais nettement 3-lobé.
+2'. Lateral sepals free or fused only at their base.
 
-2. Sépales latéraux soudés en un ensemble gamosépale ..... 4. L. hallei
+3. Lip orbicular, transversely elliptic or diamond-shaped, maximum width at or below the middle ..... 1. L. ascendens
 
-2'. Sépales latéraux libres ou soudés seulement par leur base.
+3'. Lip obovate, maximum width above the middle.
 
-3. Labelle orbiculaire, trans-elliptique ou en losange, largeur maximale près ou en dessous du milieu ..... 1. L. ascendens
+4. Rhizome long, ascending, pseudobulbs well separated ..... 2. L. deistelli
 
-3'. Labelle obové, largeur maximale au-dessus du milieu.
+4'. Rhizome reduced, very short, pseudobulbs crowded against each other.
 
-4. Rhizome long, ascendant, pseudobulbes bien séparés ..... 2. L. deistelli
+5. Large plants, generally > 25 cm, leaves 2–10 cm wide, inflorescence (10)20–40(–n)-flowered ..... 5. L. nervosa
 
-4'. Rhizome réduit, très court, pseudobulbes serrés les uns contres les autres.
-
-5. Grandes plantes, en général > 25 cm, feuilles larges de 2-10 cm, inflorescence (10)20-40(-n)-flore ..... 5. L. nervosa
-
-5'. Petites plantes < 15 cm, feuilles larges de moins de 1(1,7) cm, inflorescence 3-10(20)-flore ..... 3. L. epiphytica
+5'. Small plants < 15 cm, leaves less than 1–1.7 cm wide, inflorescence 3–10(20)-flowered ..... 3. L. epiphytica
 
 ## Species in region
 

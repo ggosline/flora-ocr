@@ -17,29 +17,27 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Small trees with an orthotropic main stem and plagiotrophic branches ramified in the horizontal plane or ± pendulous; one species is epiphytic. Stipules acute ± elongate, erect, caducous or not. Leaves arranged in equal pairs or, at flowering nodes, in ± anisophyllous pairs, or further reduced to caducous scales. Domatia present or absent.
 
-Petits arbres à tige principale orthotrope et rameaux plagio-tropes ramifiés dans le plan horizontal ou ± retombants; une espèce est épiphyte. Stipules aiguës ± allongées, dressées, caduques ou non. Feuilles disposées en paires égales ou, aux nœuds florifères, en paires ± anisophylles, ou encore réduites à des écailles caduques. Domaties présentes ou non.
+Inflorescences pseudoaxillary, appearing unilaterally and every other node along plagiotrophic branches with sympodial elongation. Inflorescences in contracted or not contracted cymes, reaching at most 7 cm in length, pedunculate or subsessile, pluri- or multiflorous, with minute caducous or persistent bracts. Flowers pedicellate, white, yellow or green, with central parts sometimes red. Calyx with tubular limb revealing fairly early the apex of the corolla, with very reduced lobes or not exceeding 3 mm. Corolla rotate with rather short cylindrical tube, at most 3 times longer than wide, with twisted lobes, overlapping to the left, acute or subacute, with pubescent throat. Stamens exsert, sagittate; anthers attached below the lower third of their length; filament short, inserted at the upper level of the throat; pollen in simple grains. Style exsert with oblongue club-shaped, longitudinally striated stigma, with 2 well-adhering lobes. 2 locules each containing a hemispherical, peltate, multiovulate placenta.
 
-Inflorescences pseudoaxillaires apparaissant unilatéralement et un nœud sur deux le long des rameaux plagiotropes à allongement sympodial. Inflorescences en cymes contractées ou non, atteignant au plus 7 cm de longueur, pédonculées ou subsessiles, pluri ou multiflores, à bractées minimes caduques ou non. Fleurs pédicellée blanche, jaune ou verte, à parties centrales parfois rouges. Calice à limbe tubuleux laissant apparaître assez tôt l'apex de la corolle, à lobes très réduits ou ne dépassant pas 3 mm. Corolle rotacée à tube cylindrique plutôt court, 3 fois plus long que large au plus, à lobes tordus, recouvrants vers la gauche, aigus ou subaigus, à gorge pubescente. Etamines exsertes sagittées; anthères attachées au dessous du tiers inférieurs de leur longueur; filet court inséré au niveau supérieur de la gorge; pollen en grains simples. Style exsert à massue oblongue striée en long, à 2 lobes bien adhérents. 2 loges contenant chacune un placenta hémisphérique pelté multiovulé.
+Fruit globose, small, with caducous calycinal limb leaving a distinct circular scar. Seeds numerous.
 
-Fruit globuleux de petite taille à limbe calycinal caduc laissant une cicatrice circulaire bien distincte. Graines nombreuses.
+Type species: Aidia cochinchinensis Lour. Errors in the original diagnosis long contributed to this genus being considered dubious.
 
-Espèce type : Aidia cochinchinensis Lour. Les erreurs de la diagnose originale ont longtemps contribué à faire considérer ce genre comme douteux.
+Old World tropical and extending to Australia. 13 species—of which 8 African, among which 3 endemic to São Tomé. 3 species in Gabon. A. genipiflora (DC.) Dandy, species of West Africa reaching western Cameroon; it is replaced further east by A. rhacodosepala (K. Schum.) E. Petit which is
 
-Ancien Monde tropical et jusqu'en Australie. 13 espèces-dont 8 africaines parmi lesquelles 3 endémiques de San Tomé. 3 espèces au Gabon. A. genipiflora (DC.) Dandy, espèce de l'Afrique de l'Ouest atteint le Cameroun occidental; elle est remplacée plus à l'est par A. rhacodosepala (K. Schum.) E. Petit qui n'est
+<<<---SECTION-BREAK--->>>
 
----
+known only from Bipindi, Yaoundé and Ndiki (Jacques-Félix 2560); with calyx longly tubulous like the preceding, this species differs from it mainly by its obovate calyxinal lobes.
 
-connu que de Bipindi, Yaoundé et Ndiki (Jacques-Félix 2560); à calice longuement tubuleux comme la précédente, cette espèce en diffère principalement par ses lobes calycinaux obovés.
+### KEY TO AIDIA
 
-### CLÉ DES AIDIA
+1. Pseudoaxillary inflorescence appearing at the level of a caducous scale; inflorescence subsessile ± briefly branched.
 
-1. Inflorescence pseudo-axillaire apparaissant au niveau d'une écaillée caduque; inflorescence subsessile  $ \pm $ brièvement ramifiée.
+2. Scale at the base of the inflorescence opposite a generally persistent developed leaf; terrestrial shrub; calyx truncate, denticulate; bracts persistent in the inflorescence.
 
-2. Écaille de la base de l'inflorescence opposée à une feuille développée généralement persistante; arbuste terrestre; calice tronqué denticulé; bractées persistantes dans l'inflorescence.
-
-3. Corolle en bouton pubescente au moins sur la partie recouvrante des lobes.
+3. Corolla in bud pubescent at least on the overlapping part of the lobes.
 
 ## Species in region
 

@@ -17,63 +17,25 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Shrubs generally sarmentose and provided with prickles. Leaves alternate, petiolate, generally compound, imparipinnate, digitate or rarely simple; stipules present, free. Inflorescences often paniculate. Flowers 5-merous, generally bisexual; hypanthium flat to cupuliform; epicalyx absent; sepals imbricate, erect or reflexed; petals sometimes reduced or absent; disk absent; stamens numerous; carpels numerous, free, grouped in a head, 2-ovulate (but 1 often aborted); style subterminal to capitate or bifid stigma. Fruits formed of fleshy drupels borne by the accrescent receptacle, generally black or red; endocarp hard, ornamented. Seeds with thin testa and poor in endosperm.
 
-Arbustes généralement sarmenteux et pourvus d’aiguillons . Feuilles alternes, pétio -
-
-lées, en général composées, imparipennées, digitées ou rarement simples ; stipules
-
-présentes, libres. Inflorescences souvent paniculées. Fleurs 5-mères, généralement bi -
-
-sexuées ; hypanthium plan à cupuliforme ; épicalice nul ; sépales imbriqués, dressés ou
-
-réfléchis ; pétales parfois réduits ou absents ; disque nul ; étamines nombreuses ; car -
-
-pelles nombreux, libres, groupés en tête , 2-ovulés (mais 1 souvent avorté) ; style sub -
-
-terminal à stigma capité ou bifide. Fruits formés de drupéoles charnues portées par le
-
-réceptacle accrescent , généralement noir ou rouge ; endocarpe dur, orné. Graines à testa
-
-mince et pauvre en endosperme.
-
-Genre cosmopolite avec environ 250 espèces, mais avec des milliers de « micro-espèces »
-
-dans le sous-genre Rubus caractérisé par l’apomixie et des complexes de polyploïdes. En
-
-Afrique tropicale, une vingtaine d’espèces, surtout en altitude ; au Gabon une seule es -
-
-pèce (mais voir Remarque ci-dessous).
+Cosmopolitan genus with approximately 250 species, but with thousands of "micro-species" in the subgenus Rubus characterized by apomixis and complexes of polyploids. In tropical Africa, about twenty species, especially at altitude; in Gabon a single species (but see Remark below).
 
 ---
 
-Remarque : Dans Flora Zambesiaca (Mendes & Kupicha, 1978), on a mentionné la présence de
+Remark: In Flora Zambesiaca (Mendes & Kupicha, 1978), the presence of Rubus apetalus was mentioned in Gabon. As not confirmed by a herbarium specimen, this presence remains doubtful. Nevertheless, the species appears in the key below.
 
-Rubus apetalus au Gabon. Comme non confirmée par un échantillon d’herbier, cette présence reste
+Bibliography: Hauman (1952), Kalkman (1993, 2004), Letouzey (1978), Mendes & Kupicha (1978).
 
-douteuse. Néanmoins, l’espèce figure dans la clé ci-dessous.
+### Key to the species
 
-b : Hauman (1952), Kalkman (1993, 2004), Letouzey (1978), Mendes &
+1. - Branches villous; blade above with appressed hairs between the veins, below pilose between the veins; petals generally absent ................ R. apetalus Poir.
 
-ibliographie
+- Branches almost glabrous to tomentose; blade above glabrous to sparsely pilose between the veins, below glabrous between the veins or tomentose; petals present but reduced or sometimes absent ................................................................. 2
 
-Kupicha (1978).
+2. - Blade below glabrous outside the veins ............. R. pinnatus var. afrotropicus
 
-### Clé des espèces
-
-1. - Rameaux villeux ; limbe dessus avec pilosité apprimée entre les nervures, dessous
-
-pileux entre les nervures ; pétales généralement absents ................ R. apetalus Poir.
-
-- Rameaux presque glabre à tomenteux ; limbe dessus glabre à éparsement pileux
-
-entre les nervures, dessous glabre entre les nervures ou bien tomenteux ; pétales
-
-présents mais réduits ou parfois absents ................................................................. 2
-
-2. - Limbe dessous glabre en dehors des nervures ............. R. pinnatus var. afrotropicus
-
-- Limbe dessous avec tomentum blanc-grisâtre ............. R. pinnatus var. ledermannii
+- Blade below with white-greyish tomentum ............. R. pinnatus var. ledermannii
 
 ## Species in region
 

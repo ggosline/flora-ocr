@@ -17,41 +17,11 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Small herbs, annual and generally without leaves or large perennial herbs, with or without leaves, in tufts; stems cylindrical or triangular, without or with a node above the base. Leaves (if present) often basal; sheaths tubulous. Inflorescence usually in dense fascicles of ± numerous spikelets, apparently lateral or in an anthela of numerous spikelets; main bract of the inflorescence foliate, or more commonly resembling the stem and in its continuation, with or without transverse septa. Spikelets with numerous bisexual flowers subtended by glumes arranged in a spiral. Flower: perianth bristles present or absent, in smooth needles or furnished with retrorsely barbed teeth, or flattened and plumose; stamens usually 3, with filaments often persisting after anther fall; style with 2–3 branches. Achene obovate to almost round, often apiculate, smooth or with rounded to acute transverse ribs; embryo very large, fungiform, with the root cap and coleoptile lateral.
 
-Herbes petites, annuelles et généralement sans feuilles ou grandes herbes vivaces, avec
+Genus very widely distributed in tropical and temperate regions, comprising approximately 50 species, two of which occur in Gabon.
 
-ou sans feuilles, en touffe ; tiges cylindriques ou triangulaires , sans ou avec un nœud
-
-au-dessus de la base. Feuilles (si présentes) souvent basales ; gaines tubuleuses. Inflores-
-
-cence habituellement en fascicules denses d’épillets ± nombreux, apparemment latérale
-
-ou en anthèle de nombreux épillets ; bractée principale de l’inflorescence foliacée, ou
-
-plus communément ressemblant à la tige et dans son prolongement , avec ou sans
-
-cloisons transversales. Épillets avec de nombreuses fleurs bisexuées sous-tendues par
-
-des glumes arrangées en spirale . Fleur : soies périanthaires présentes ou absentes, en
-
-aiguilles lisses ou garnies de dents rétrorses, ou aplaties et plumeuses ; étamines habi-
-
-tuellement 3, à filets persistant souvent après la chute des anthères ; style à 2–3 branches.
-
-Akène obovale à presque rond, souvent apiculé, lisse ou avec des côtes transversales
-
-arrondies à aiguës ; embryon très gros, fongiforme, avec la coiffe des racines et le coléo-
-
-ptile latéraux.
-
-Genre très largement répandu dans les régions tropicales et tempérées, comptant environ
-
-50 espèces, dont deux au Gabon.
-
-Note taxonomique : Les deux espèces gabonaises diffèrent clairement par le type des
-
-soies périanthaires : filiformes à crochets recourbés chez S. mucronatus (section Schoe-
+Taxonomic note: The two Gabonese species differ clearly in the type of perianth bristles: filiform with hooked barbs in S. mucronatus (section Schoe-
 
 ---
 
@@ -59,17 +29,13 @@ a b
 
 Lye (1995, 1997).
 
-### Clé des espèces
+### Key to the species
 
-1. - Plante vivace, stolonifère ; tige et gaine cylindriques ; inflorescence terminale en
-
-apparence, en anthèle composée ombelliforme ; soies périanthaires plumeuses
+1. - Perennial plant, stoloniferous; stem and sheath cylindrical; inflorescence terminal in appearance, in an umbelliform compound anthela; perianth bristles plumose
 
 ................................................................................................................. S. subulatus
 
-- Plante annuelle ou vivace ; tige et gaine triangulaires ; inflorescence latérale avec
-
-des épillets sessiles ; soies périanthaires en aiguille garnie de dents rétrorses
+- Annual or perennial plant; stem and sheath triangular; lateral inflorescence with sessile spikelets; perianth bristles in needles furnished with retrorsely barbed teeth
 
 .............................................................................................................. S. mucronatus
 

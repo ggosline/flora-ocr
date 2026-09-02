@@ -17,13 +17,9 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Perennial herbaceous plants with linear lanceolate, elongated leaves; inflorescences in long rigid spiciform racemes.
 
-Plants herbacées vivaces à feuilles linéaires lancéolées,
-
-allongées; inflorescences en longs racèmes spiciformes rigides.
-
-Épillets linéaires oblongs, subsessiles, dressés et appliqués contre le rachis. De 2 à 4 fleurs hermaphrodites, caduques séparément. Glumes allongées, égalant à peu près les fleurs, l'inférieure plus courte, la deuxième embrassante, les deux aiguës, mutiques. Lemmas rigides et coriaces, cnroulées, aplaties, à arête grêle. Palées un peu plus courtes, brièvement bifides. Deux ou 3 étanmines; style et 2 ou 3 stigmates très longs et persistants.
+Spikelets linear oblong, subsessile, erect and appressed against the rachis. 2 to 4 hermaphrodite flowers, deciduous separately. Glumes elongated, approximately equalling the flowers, the lower shorter, the second embracing, both acute, muticous. Lemmas rigid and coriaceous, enrolled, flattened, with slender awns. Paleas somewhat shorter, briefly bifid. Two or 3 stamens; style and 2 or 3 very long and persistent stigmas.
 
 ## Species in region
 

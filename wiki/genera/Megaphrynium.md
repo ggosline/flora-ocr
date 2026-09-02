@@ -16,35 +16,33 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Perennial herbs, erect. Rhizome giving rise to simple stems terminated by an inflorescence borne laterally, and surmounted by a leaf. Base of stems surrounded by aphyllous sheaths, or by complete leaves, very long-petiolate. Leaf blades large, elliptic, acuminate, rounded then slightly decurrent along the midvein at the base. Callus ± swollen, gradually passing into the rest of the petiole; transition to the midvein continuous on the lower surface, marked by a V-shaped beak on the upper surface.
 
-Herbes vivaces dressées. Rhizome donnant naissance à des tiges simples terminées par une inflorescence portée latéralement, et surmontée par une feuille. Base des tiges entourée de gaines aphyllés, ou de feuilles complètes, très longucment pétiolées. Limbes de grande taille, elliptiques, acuminés, arrondis puis légèrement décurrents le long de la nervure médiane à la base. Callus ± renflée, passant progressivement au reste du pétiole ; passage à la nervure médiane continu à la face inférieure, marqué par un bec en forme de V à la face supérieure.
+Inflorescence more or less branched, formed of racemes of spiciform cymes, articulate, with numerous internodes. Abaxial bracts quickly caducous, but previously surrounding the distal part of the inflorescence. Only one biflorous cyme per bract, each with its adaxial spathe-bract also caducous. Common peduncle short, bearing two subsessile flowers side by side, with a single thick, acuminate bractlet at the axil of the two pedicels. Sepals free, petals united at the base. 0-1-2 external staminodes narrowly linear or subulate, more often unequally trilobed. One of the internal staminodes is appendiculate. Ovary three-locular, uniovulate. Fruit capsular, globose to sub-trigonous, with prominent, dehiscent sutures. Seeds with lacerate aril, surrounded by abundant mucilage.
 
-Inflorescence plus ou moins ramifiée, formée de grappes de cymes spiciformes, articulées, à entre-nœuds nombreux. Bractées abaxiales rapidement caduques, mais entourant auparavant la partie distale de l'inflorescence. Une seule cyme biflore par bractée, chacune avec sa spathe-bractée adaxiale également caduque. Pédoncule commun court, portant deux fleurs subsessiles côte à côte, avec une seule bractéole épaisse, acuminée, à l'aisselle des deux pédicelles. Sépales libres, pétales soudés à la base. 0-1-2 staminodes externes étroitement linéaires ou subulés, plus souvent inégalement trilobés. Un des staminodes internes est appendiculé. Ovaire à trois loges uniovulées. Fruit capsulaire, globuleux à sub-trigone, à sutures bien visibles et déhiscent. Graines à arille lacinié, entourées d'un mucilage abondant.
+Type species: M. macrostachyum (Benth.) M.-Redh.
 
-Espèce type : M. macrostachyum (Benth.) M.-Redh.
+Genus established by Milne-Redhead at the time of the subdivision of the genus Sarcophrynium. Probably about half a dozen species from the forest regions of tropical Africa. Four Gabonese species, two of which are new.
 
-Genre créé par Milne-Redhead lors du démembrement du genre Sarcophrynium. Probablement une demi-douzaine d'espèces des régions forestières d'Afrique tropicale. Quatre espèces gabonaises, dont deux nouvelles.
-
-1. Axes des racèmes minces, flexueux, pouvant dépasser 20 cm de long, à très nombreux entre-nœuds; pédoncules et axes des inflo-rescences et bractées glabres ou légèrement pubérulentes; ovaire
+1. Raceme axes thin, flexuous, able to exceed 20 cm long, with very numerous internodes; peduncles and axes of inflorescences and bracts glabrous or slightly puberulent; ovary
 
 ---
 
-glabre; un staminode externe bien développé, l'autre minuscule.
+glabrous; one external staminode well-developed, the other minute.
 
 1. M. gabonense.
 
-1'. Axes des racèmes plus courts que ci-dessus, non flexueux.
+1'. Raceme axes shorter than above, not flexuous.
 
-2. Pédoncule commun des fleurs restant relativement mince et d'environ 1 cm de long à la fructification ; ovaire densément pubescent brun-velouté, ainsi que les axes d'inflorescence ; bractées glabres ; 0-1 staminode externe ..... 2. M. trichogynum.
+2. Common peduncle of the flowers remaining relatively thin and approximately 1 cm long at fruiting; ovary densely pubescent, brown-velvety, as are the inflorescence axes; bracts glabrous; 0-1 external staminode ..... 2. M. trichogynum.
 
-2'. Pédoncule commun des fleurs restant court (moins de 1 cm), mais très épaissi dans le fruit.
+2'. Common peduncle of the flowers remaining short (less than 1 cm), but much thickened in the fruit.
 
-3. Bractées et ovaire glabres, axes de l'inflorescence glabres ou légèrement pubérulents ; 1 ou 2 staminodes externes.....
+3. Bracts and ovary glabrous, inflorescence axes glabrous or slightly puberulent; 1 or 2 external staminodes.....
 
 3. M. macrostachyum.
 
-3'. Bractées pubescentes ; ovaire glabre, mais surmonté par une cou-
+3'. Bracts pubescent; ovary glabrous, but surmounted by a neck-
 
 ## Species in region
 

@@ -17,31 +17,25 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Tall lianes unarmed or sarmentose shrubs. Old wood nearly normal, cylindric but festooned in transverse section with small unequal and shallow furrows. Stipules separate, minute, inserted at the nodes. Leaves opposite or somewhat subopposite; no distinct rubber at the fracture of the petiole. Limb entire, often with finely denticulate margin.
 
-Lianes élevées inermes ou arbustes sarmenteux. Vieux bois presque normal, cylindrique mais festonné en coupe transversale de petits silons inégaux et peu profonds. Stipules séparées minuscules, insérées aux nœuds. Feuilles opposées ou un peu subopposées ; pas de caoutchouc distinct à la cassure du pétiole. Limbe entier souvent à marge finement denticulée.
+Inflorescences axillary, grouped sometimes in large terminal panicles; dichotomous cymes furnished at the bifurcations with supernumerary flowers or small additional branches. Bracts opposite, reduced, acute. Flowers small, pedicellate, with imbricate prefloration. Young buds globose. Sepals 5, imbricate. Petals 5, semi-erect. Disk low and narrow, small annular ridge somewhat sinuous. Stamens 3, with extrorse anthers, transversely dehiscent, with ribband-like filament. Pollen simple, tricolporate, small, poorly ornamented. Pistil erect, longer than wide, ± attenuate into narrow style, glabrous, with punctiform stigma. Ovary with 3 locules and 2 ovules per locule.
 
-Inflorescences axillaires groupées parfois en grands panicules terminaux ; cymes dichotomes munies aux bifurcations de fleurs surnumérais
+Fruit dry, tricarpellate, dehiscent into 6 compressed and caducous valves. Seeds 2 per fruit, winged, with 2 nerves of which the raphe is transalary. Cotyledons not fused; radicle with prominent and acute apex. Germination epigeal.
 
----
+TYPE SPECIES: Reissantia indica (Willd.) Hallé. R. astericantha Hallé, before its attachment as a variety of R. indica, had initially been designated as type species.
 
-res ou de petites ramifications supplémentaires. Bractées opposées réduites, aiguès. Fleurs petites, pédicellées, à préfloraison imbriquée. Jeunes boutons globuleux. Sépales 5 imbriqués. Pétales 5 semi-érigés. Disque bas en étroit petit bourrelet un peu sinueux. Étamines 3 à anthè-res extrorses, transversalement déhiscentes, à filet rubané. Pollen simple tricolporé, petit, peu orné. Pistil dressé, plus long que large, ± atténué en style étroit, glabre, à stigmate ponctiforme. Ovaire à 3 loges et 2 ovules par loge.
+Etymology: in 1957, a rocky island of South Finistère, Reissant, caused the loss of a wooden fishing vessel. On the beach, near Lesconil, two main wrecks were cast ashore and, between them, intermediate debris. A certain analogy was found there with the mode of branching of the inflorescences here described. The anecdote is complete if one reports the fact that the weather was very fine and that the two owners of the boat were disputing at the helm on the return from fishing.
 
-Fruit sec tricarpellé, déhiscent en 6 valvcs comprimées et caduques. Graines par 2, ailées, à 2 nervures dont le raphé transalaire. Cotylédons non soudés ; radicule à sommet saillant et aigu. Germination épigée.
+Genus of 6 species, all from the Old World: 3 in continental Africa, 1 in Madagascar, 3 in Asia, of which the type variety of the principal species. In Cameroon and Gabon, two varieties of the latter.
 
-ESPÈCE-TYPE : Reissantia indica (Willd.) Hallé. R. astericantha Hallé, avant son rattachement comme variété de R. indica, avait d'abord été désigné comme espèce-type.
+### KEY TO SPECIES AND VARIETIES
 
-Étymologie : en 1957, un ilot rocheux du Sud Finistère, Reissant, causa la perte d'un navire de pêche en bois. Sur la plage, près de Lesconil, furent rejetés deux épaves principales et, entre elles, des débris intermédiaires. Il a été trouvé là une certaine analogie avec le mode de ramification des inflorescences ici décrites. L'anecdote est complète si l'on rapporte le fait que le temps était très beau et que les deux propriétaires du bateau se disputaient à la barre au retour de la pêche.
+1. Flowers entirely glabrous; petals entire, with attenuate subulate aspect; regions of dense humid forests.
 
-Genre de 6 espèces, toutes de l'ancien monde : 3 en Afrique continentale, 1 à Madagascar, 3 en Asie dont la variété-type de l'espèce principale. Au Cameroun et du Gabon, deux variétés de cette dernière.
+2. Flowers white or yellowish, small, 1.2–2 mm in diameter; leaves rarely green and concolorous when dry; flowers often brown when dry; young twigs often slender, often not clearly quadrangular ..... 1a. R. indica var. indica.
 
-### CLÉ DES ESPÈCES ET VARIÉTÉS
-
-1. Fleurs entièrement glabres ; pétales entiers, d'aspect atténué subulé ; régions de forêts denses humides.
-
-2. Fleurs blanches ou jaunâtres, petites, de 1,2-2 mm de diamètre ; feuilles rarement vertes et concolores à sec ; fleurs souvent brunes à sec ; jeunes rameaux souvent grêles, souvent peu nettement quadrangulaires
-
-2'. Fleurs vertes, de 2,5-4 mm de diamètre ; feuilles souvent vertes et concolores à sec ; fleurs souvent noirâtres à sec ; jeunes rameaux souvent vigoureux et souvent nettement quadrangulaires ..... 1b. R. indica var. astericantha.
+2'. Flowers green, 2.5–4 mm in diameter; leaves often green and concolorous when dry; flowers often blackish when dry; young twigs often vigorous and often clearly quadrangular ..... 1b. R. indica var. astericantha.
 
 ## Species in region
 

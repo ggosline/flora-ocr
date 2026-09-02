@@ -16,41 +16,17 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 in Tuckey, Narr. exped. Zaire : 459 (1818).
 
-Herbes annuelles grêles ou vivaces, en touffe. Feuilles basales ; ligule absente ; limbe
+Slender annual or perennial herbs, tufted. Leaves basal; ligule absent; blade flat, channelled or rolled. Inflorescence terminal and capitate or in apparently lateral spike cluster, composed of one to several conical spikes and generally surrounded by several foliaceous involucral bracts; spikes with numerous approximated bracts arranged spirally, each subtending a spikelet. Spikelet with one flower surrounded by 2 fine hypogynous scales (rarely absent), the lower one dorsal often called prophyll, the upper one ventral often called glume. Flowers bisexual or rarely unisexual; stamens 1–3; style with 2–3 branches. Achenes obovoid to narrowly cylindric, papillose.
 
-plan, canaliculé ou enroulé. Inflorescence terminale et capitée ou en groupe apparem-
+Genus comprising approximately 35 species, widely distributed in the tropical and subtropical regions of both hemispheres. In Africa, 22 species are present, of which 2 occur in Gabon.
 
-ment latéral d’épis , composée d’un à plusieurs épis coniques et généralement entourée
+Taxonomic note: This genus, which has not yet been separated from Cyperus on a molecular basis, is accepted here solely on the basis of its particular floral structure.
 
-de plusieurs bractées involucrales foliacées ; épis avec de nombreuses bractées rappro-
+Bibliography
 
-chées et disposées en spirale, chacune sous-tendant un épillet. Épillet à une fleur en-
-
-tourée par 2 fines écailles hypogynes (rarement absentes), l’inférieure dorsale souvent
-
-nommée prophylle , la supérieure ventrale souvent nommée glume . Fleurs bisexuées ou
-
-rarement unisexuées ; étamines 1–3 ; style à 2–3 branches. Akènes obovoïdes à étroite-
-
-ment cylindriques, papilleux .
-
-Genre comptant environ 35 espèces, largement répandu dans les régions tropicales et sub-
-
-tropicales des deux hémisphères. En Afrique, 22 espèces sont présentes dont 2 au Gabon.
-
-Note taxonomique : Ce genre qui n’a pas encore été séparé de Cyperus sur une base mo-
-
-léculaire, est accepté ici uniquement sur la base de sa structure florale particulière.
-
-b : Goetghebeur (1989), Haines & Lye (1971, 1983), Hooper (1986), Raynal
-
-ibliographie
-
-(1973).
+b: Goetghebeur (1989), Haines & Lye (1971, 1983), Hooper (1986), Raynal (1973).
 
 ---
 

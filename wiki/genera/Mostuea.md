@@ -17,41 +17,35 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Shrubs, subshrubs or sometimes lianes, generally well branched; stipules membranous, connate.
 
-Arbustes, sous-arbustes ou parfois lianes, généralement bien ramiﬁés; stipules membraneuses, soudées.
+Leaves opposite, shortly petiolate; limb ordinarily papyraceous when dry, variable in shape and size, ovate to narrowly elliptic, entire or weakly sinuate-dentate.
 
-Feuilles opposées, courtement pétiolées; limbe ordinairement papyracé à l'état sec, variable de forme et de grandeur, ové à étroitement elliptique, entier ou faiblement sinué-denté.
+Inflorescences axillary or terminal, generally obliquely and incompletely dichasial, uni- or multiflorous, sometimes almost capitate.
 
-Inflorescences axillaires ou terminales, généralement obliquement et incomplètement dichasiales, uni- ou multiflores, parfois presque capituliformes.
+Flowers pentamerous. Sepals ovate to linear, connate at the base. Corolla funnel-shaped; lobes imbricate in bud, almost equal, spreading, orbicular or suborbicular. Heterostyly. Stamens included or often exserted, notably in the case of long-styled stamens; filaments pubescent or sometimes glabrous, inserted at the quarter or lower third of the corolla tube, elongate and ± unequal; anthers orbicular or oblong; thecae separate. Ovary ovoid, two-locular; style caducous, finely pubescent with glandular hairs; stigma twice bifurcate with narrow lobes; ovules two per locule.
 
-Fleurs pentamères. Sépales ovés à linéaires, soudés à la base. Corolle en entonnoir; lobes imbriqués dans le bouton, presque égaux, étalés, orbiculaires ou suborbiculaires. Hétérostylie. Étamines incluses ou souvent exsertes, notamment dans le cas des étamines de type long; filets pubescents ou parfois glabres, insérés au quart ou au tiers inférieur du tube de la corolle, allongés et  $ \pm $ inégaux; anthères orbiculaires ou oblongues; loges séparées. Ovaire ovoïde, à deux loges; style caduc, finement pubescent avec poils glandulifères; stigmate deux fois bifurqué à lobes étroits; ovules deux par loge.
+Fruits capsular, obcordate, bilobed or rarely ellipsoid, flattened, loculicidal, 4-valved; locules 1- or 2-seeded. Seed plano-convex (or not if the fruit is ellipsoid), obliquely ovate or orbicular, with dense appressed pubescence in African species.
 
-Fruits capsulaires, obcordés, bilobés ou rarement ellipsoïdes, aplatis, loculicides, à 4 valves; loges à 1 ou 2 graines. Graine plan-convexe (ou non si le fruit est ellipsoïde), obliquement ovée ou orbiculaire, à dense pubescence apprimée dans les espèces africaines.
+TYPE SPECIES: Mostuea brunonis Didr.
 
-ESPÈCE-TYPE : Mostuea brunonis Didr.
-
-7 espèces en Afrique tropicale et à Madagascar, et une dans le nord de l'Amérique du sud.
+7 species in tropical Africa and Madagascar, and one in northern South America.
 
 ---
 
-### CLÉ DES ESPÈCES CAMEROUNAISES ET GABONAISES
+### KEY TO THE CAMEROONIAN AND GABONESE SPECIES
 
-1. Inflorescence à deux grandes bractées suborbiculaires couvrant le calice .....
+1. Inflorescence with two large suborbicular bracts covering the calyx .....
 
-1'. Inflorescence à petites bractées ne recouvrant jamais le calice.
+1'. Inflorescence with small bracts never covering the calyx.
 
-2. Plante hirsute à poils raides érigés, surtout sur les petits rameaux ..... 1. M. batesii.
+2. Plant hirsute with stiff erect hairs, especially on small branchlets ..... 1. M. batesii.
 
-2'. Plante pubescente, pileuse, ou glabre; poils jamais érigés.
+2'. Plant pubescent, pilose, or glabrous; hairs never erect.
 
-3. Base des feuilles nettement oblique; sépales presque linéaires, subulés; fruits
+3. Leaf base distinctly oblique; sepals almost linear, subulate; fruits pale, distinctly nerved ..... 4. M. neurocarpa.
 
-pâles, nettement nervés ..... 4. M. neurocarpa.
-
-3'. Base des feuilles non ou ⊥ oblique; sépales de forme variable; fruits brun
-
-foncé ou rouges, non ou peu distinctement nervés ..... 2. M. brunonis.
+3'. Leaf base not or ⊥ oblique; sepals of variable shape; fruits dark brown or red, not or scarcely distinctly nerved ..... 2. M. brunonis.
 
 ## Species in region
 

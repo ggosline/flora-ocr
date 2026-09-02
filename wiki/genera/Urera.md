@@ -16,69 +16,15 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Voy. Uranie : 496 ('1826' 1830).
 
-Voy. Uranie : 496 (‘1826’ 1830).
+Woody lianes, sometimes slender and herbaceous to partially woody, dioecious, very rarely monoecious; stems often climbing high into trees, sometimes creeping on the ground, often anchored to the substrate by axillary adventitious roots, often with appreciable secondary tissues that sometimes render them pentagonal, rarely slender, often with dark brown or dark purple protuberances, naked or furnished at the apex with stinging hairs; almost always with stinging hairs on the petioles and inflorescences, sometimes also on the leaf laminas, non-stinging hairs almost always absent; cystoliths punctiform or ± elongate. Stipules intrapetiolary, often caducous, partially fused. Leaves alternate, petiolate; lamina oval, elliptic, subcircular or obovate, with base cuneate to cordate, apex acuminate to rounded, margin entire, crenulate or serrate, chartaceous to coriaceous; venation generally symmetrically triplinerved, with a variable number of additional lateral veins above the basal pair reaching half to three-quarters of the apex of the lamina. Inflorescences axillary, cymose, lax or moderately condensed, in small glomerules grouped into racemes or panicles, unisexual, pedunculate or subsessile, generally associated with the corresponding leaf, but often at leafless axils. Male flowers 4- or 5-merous, pedicellate; pistillode present. Female flowers sessile or shortly pedicellate on ± fleshy inflorescence axes, often surrounded by tufts of stinging hairs; tepals 4, weakly unequal in the basal part or with an entirely tubular perianth bearing at the apex ± 4 indistinct teeth; staminodes absent; ovary ovoid, covered from one-third to almost entirely by the perianth; stigma almost sessile, penicillate. Fruits ovoid or weakly compressed laterally, enveloped in the persistent, accrescent perianth during achene maturation and becoming fleshy, yellow, orange or red.
 
-Lianes ligneuses , parfois grêles et herbacées à partiellement ligneuses, dioïques , très rare -
-
-ment monoïques ; tiges souvent grimpantes très haut dans les arbres , parfois rampantes
-
-au sol , souvent fixées au substrat par des racines adventives axillaires, souvent avec des tissus
-
-secondaires appréciables qui les rendent parfois pentagonales, rarement grêles, souvent avec
-
-des protubérances brun sombre ou pourpre sombre , nues ou munies au sommet de poils
-
-urticants ; presque toujours avec des poils urticants sur les pétioles et les inflorescences,
-
-parfois aussi sur les limbes foliaires , poils non urticants presque toujours absents ; cystolithes
-
-ponctiformes ou ± allongés . Stipules intrapétiolaires, souvent caduques, partiellement sou -
-
-dées. Feuilles alternes, pétiolées ; limbe ovale, elliptique, subcirculaire ou obovale, à base
-
-cunéée à cordée, sommet acuminé à arrondi, marge entière, crénulée ou serrée , cartacé
-
-à coriace ; nervation généralement symétriquement triplinerve , avec un nombre variable de
-
-nervures latérales additionnelles au-dessus de la paire basale qui atteint la moitié jusqu’aux
-
-trois quarts du sommet du limbe. Inflorescences axillaires, cymeuses, lâches ou modérément
-
-condensées , en petits glomérules groupés en racèmes ou panicules , unisexuées, pédon -
-
-culées ou subsessiles, généralement associées à la feuille correspondante, mais souvent aux
-
-aisselles défeuillées. Fleurs mâles 4- ou 5-mères, pédicellées ; pistillode présent . Fleurs
-
-femelles sessiles ou courtement pédicellées sur des axes inflorescentiels ± charnus, souvent
-
-entourées par des touffes de poils urticants ; tépales 4, faiblement inégaux dans la par -
-
-tie basale ou avec un périanthe entièrement tubuleux et portant au sommet ± 4 dents
-
-indistinctes ; staminodes absents ; ovaire ovoïde, couvert du tiers à la quasi-totalité par
-
-le périanthe ; stigmate presque sessile, pénicillé. Fruits ovoïdes ou faiblement comprimés
-
-latéralement, enveloppés dans le périanthe persistant, accrescent durant la maturation de
-
-l’akène et devenant charnu, jaune, orange ou rouge .
-
-Genre avec environ 40 espèces, répandues en Afrique tropicale, à Madagascar, en Amérique
-
-tropicale et dans les îles du Pacifique. Au Gabon, sept espèces telles que retenues dans notre
-
-traitement, davantage d’espèces pourraient y être trouvées, mais une conception taxonomique
+Genus with approximately 40 species, distributed in tropical Africa, Madagascar, tropical America and Pacific islands. In Gabon, seven species as retained in our treatment, more species could be found there, but a broader taxonomic concept of the species, in particular in the complex U. batesii - U. cordifolia - U. gabonensis - U. talbotii, could appreciably reduce this number.
 
 ---
 
 70 Ib FRIIS
-
-plus large des espèces, en particulier dans le complexe U. batesii - U. cordifolia - U. gabonen-
-
-sis - U. talbotii , pourrait en diminuer sensiblement le nombre.
 
 ## Species in region
 

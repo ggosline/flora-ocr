@@ -17,71 +17,33 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Trees, shrubs, scandent shrubs or herbs. Stipules caducous or persistent and sometimes spiny, reinforced and curved. Leaves often distichous, with entire or sometimes denticulate margin. Flowers small, unisexual, monoecious or dioecious, axillary, the male ones generally geminate or fasciculate, the female ones generally solitary; petals absent. Male flowers with pedicel often filiform; sepals (4–)5–6, imbricate; disc glands (4–)5–6, free or connate; stamens 3–6, filaments free or connate; pistillode absent. Female flowers with pedicel generally more robust than in male flowers; sepals as in male flowers, but often larger; hypogynous disc, ± flattened or cupular, entire or lobed or with separate glands; staminodes generally absent; ovary ± sessile, 3(–10)-locular, with 2 ovules per locule; styles 3(–4), free or connate at the base, bifid or bilobed, often curved. Fruits capsular and dehiscent or fleshy (berry) and indehiscent, with 2 seeds per locule. Seeds globose or shaped like a spherical or elliptic nail, with smooth, finely striate or reticulate tegument, sometimes pilose.
 
-Arbres , arbustes, arbustes lianescents ou herbes. Stipules caduques ou persistantes et par -
+Genus circumtropical with approximately 1000 species, of which approximately 150 in Africa and 12 in Gabon.
 
-fois épineuses , renforcées et recourbées . Feuilles souvent distiques, à marge entière ou
+Use: The herbaceous species of Phyllanthus employed as medicinal plants are very often used without distinction of species.
 
-parfois denticulée. Fleurs petites, unisexuées , monoïques ou dioïques , axillaires, les
+Taxonomic note: Several species cited in Check-List des Plantes Vasculaires du Gabon (Sosef et al., 2006) do not appear here: P. delagoensis Hutch. is a species from Mozambique; the specimen Bradley 1102 cited under P. gossweileri Hutch. corresponds to P. amarus Schumach.; Breteler 6355 cited as P. leucanthus Pax is P. odontadenius Müll.Arg. and Louis 944 cited under P. niruri L. is identified as P. dinklagei Pax.
 
-mâles en général géminées ou fasciculées, les femelles généralement solitaires ; pétales
+b: Brunel (1987), Radcliffe-Smith (1996b, 2001).
 
-absents . Fleurs mâles à pédicelle souvent filiforme ; sépales (4–)5–6, imbriqués ; glandes
+ibliography
 
-du disque (4–)5–6, libres ou soudées ; étamines 3–6, filets libres ou soudés ; pistillode
+### Key to species
 
-absent . Fleurs femelles à pédicelle en général plus robuste que chez les fleurs mâles ; sé -
+1. - Woody plants, shrubby, scandent or arborescent .................................. 2
 
-pales comme chez les fleurs mâles, mais souvent plus grands ; disque hypogyne, ± aplati
+- Herbaceous plants, sometimes woody at the base ......................................................... 7
 
-ou cupulaire, entier ou lobé ou à glandes séparées ; staminodes généralement absents ;
+2. - Fruits dry at maturity, dehiscent; plants ± shrubby, ≤ 1.5 m in height ......... 3
 
-ovaire ± sessile, 3(–10)-loculaire, à 2 ovules par loge ; styles 3(–4), libres ou soudés à la
+- Fruits fleshy at maturity, indehiscent; plants shrubby, scandent or
 
-base, bifides ou bilobés, souvent recourbées. Fruits capsulaires et déhiscents ou char -
+arborescent ........................................................................................................... 4
 
-nus (baie) et indéhiscents , à 2 graines par loge. Graines globuleuses ou en forme d’on -
+3. - Pedicel of female flower ≥ 8 mm; limb suborbicular, obovate to elliptic-
 
-glet sphérique ou elliptique, à tégument lisse, finement strié ou réticulé, parfois pileux.
-
-Genre circumtropical à environ 1000 espèces dont environ 150 en Afrique et 12 au Ga -
-
-bon.
-
-Usage : Les espèces de Phyllanthus herbacées employées comme plantes médicinales
-
-sont très souvent utilisées sans distinction d’espèces.
-
-Note taxonomique : Quelques espèces citées dans Check-List des Plantes Vasculaires du
-
-Gabon (Sosef et al. , 2006) ne figurent pas ici : P. delagoensis Hutch. est une espèce de
-
-Mozambique ; le spécimen Bradley 1102 cité sous P. gossweileri Hutch. correspond à P.
-
-amarus Schumach. ; Breteler 6355 cité comme P. leucanthus Pax est P. odontadenius
-
-Müll.Arg. et Louis 944 cité sous P. niruri L. est identifié comme P. dinklagei Pax.
-
-b : Brunel (1987), Radcliffe-Smith (1996b, 2001).
-
-ibliographie
-
-### Clé des espèces
-
-1. - Plantes ligneuses, arbustives, lianescentes ou arborescentes .................................. 2
-
-- Plantes herbacées, parfois ligneuses à la base ......................................................... 7
-
-2. - Fruits secs à maturité, déhiscents ; plantes ± arbustives, ≤ 1,5 m de hauteur ......... 3
-
-- Fruits charnus à maturité, indéhiscents ; plantes arbustives, lianescentes ou
-
-arborescentes ........................................................................................................... 4
-
-3. - Pédicelle de la fleur femelle ≥ 8 mm ; limbe suborbiculaire, obové à elliptique-
-
-obové, (2–)5–13(–20) × (2–)4–8(–11) mm ............................... P . nummulariifolius
+obovate, (2–)5–13(–20) × (2–)4–8(–11) mm ............................... P. nummulariifolius
 
 ## Species in region
 

@@ -17,13 +17,11 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+### Annual herbs with creeping base. Leaves lanceolate.
 
-### Herbes annuelles à base rampante. Feuilles lancéolées.
+Narrow panicle formed by a succession of small unilateral spiciform racemes. Spikelets with asymmetric profile, arranged in two series on the lower face of the flattened rachis of spikes. Glumes similar, or the lower one somewhat shorter; with 4 or 7 nerves. Lower flower hermaphrodite, exceeding the glumes, slightly pubescent at the base and on the margins; lemma papyraceous with 5 nerves, palea of equal length, bifid, with 2 nerves. Two lodicules; three stamens; distinct styles. Upper flower female, smaller, dorsally flattened, pubescent, glumelles similar to those of the lower flower. Two lodicules; stamens much reduced or suppressed; free styles.
 
-Panicule étroite formée d'une succession de petits racèmes spiciformes unilatéraux. Épilets à profil asymétrique, disposés en deux séries sur la face inférieure du rachis aplaté d'épis. Glumes semblables, ou l'inférieure un peu plus courte; à 4 ou 7 nervures. Fleur inférieure hermaphrodite, dépassant les glumes, légèrement pubescente à la base et sur les bords; lemma papyracée à 5 nervures, paléa de même longueur, bifide, à 2 nervures. Deux lodicules; trois étamines; styles distincts. Fleur supérieure femelle, plus petite, dorsalement aplatie, pubescente, glumelles semblables à celles de la fleur inférieure. Deux lodicules; étamines très réduites ou supprimées; styles libres.
-
-Genre monospécifique paraissant répandu dans la plus grande partie de l'Afrique tropicale humide et semi-humide.
+Monotypic genus appearing widespread in most of the humid and semi-humid tropical Africa.
 
 ## Species in region
 

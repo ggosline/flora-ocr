@@ -15,69 +15,15 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+(by Benedict John POLLARD)
 
-(par Benedict John POLLARD)
+Sp. pl. 2 : 637 (1753) (' Clerodendron' ).
 
-Sp. pl. 2 : 637 (1753) (‘ Clerodendron’ ).
+Shrubs, sometimes scandent, rarely small trees, woody lianes or subshrubs. Leaves opposite, rarely whorled (of 3 to 7 leaves) or subopposite, simple; blade entire, undulate or crenate, rarely more deeply incised, glabrous or pilose with simple hairs, most often with sessile or peltate glands, rarely with large scaly glands. Inflorescences terminal or axillary, lax or more rarely condensed, generally elongate, pyramidal or corymbiform, rarely with compound dichasial cymes more distant, opposite, axillary and generally pedunculate; bracts foliaceous or very much reduced; bracteoles strongly reduced. Flowers symmetric to asymmetric in bud, often resupinate; calyx campanulate or rarely tubular, subactinomorphic, persistent and generally accrescent at fruiting, variously 5-lobed or sometimes truncate, with lobes spreading in a star or enveloping the fruit, brightly colored; corolla 5-lobed, variously colored, zygomorphic with upper lobe (which is, in reality, the lower one because of the resupination of the flower) abruptly enlarged, or else subactinomorphic and hypocratériform with upper lobe scarcely larger than the others; stamens 4, didynamous to subequal, generally longly exserted, anthers versatile, thecae parallel, opening by longitudinal slits; ovary imperfectly 4-locular, with 1 ovule per locule, not or weakly 4-lobed; style terminal, exsert, shortly bifid at the apex with equal to subequal branches. Fruits generally drupaceous, fleshy, often brightly colored contrasting with that of the calyx, glossy, globose, obovoid-globose to obovoid or rarely ellipsoid to ellipsoid-obovoid, separating most often into 4 rounded mericarps each with one seed.
 
-Arbustes , parfois lianescents, rarement petits arbres , lianes ligneuses ou arbrisseaux . Feuilles
+Genus of 400 to 500 species, from tropical and warm temperate regions, most in tropical Africa and south Asia, some in tropical America and in northern Australasia, and certain ones extending northward into the temperate zone of East Asia. Several species are cultivated because of their attractive flowers. Twenty-one species are recorded as present in Gabon, including C. speciosissimum cultivated as an ornamental plant and sometimes naturalized.
 
-opposées, rarement verticillées (de 3 à 7 feuilles) ou subopposées, simples ; limbe entier,
-
-ondulé ou serré, rarement plus profondément incisé, glabre ou poilu à poils simples, le plus
-
-souvent à glandes sessiles ou peltées, rarement à grosses glandes écailleuses. Inflorescences
-
-terminales ou axillaires, lâches ou plus rarement condensées, généralement allongées, pyra-
-
-midales ou corymbiformes, rarement à cymes bipares composées plus distantes, opposées,
-
-axillaires et généralement pédonculées ; bractées foliacées ou très réduites ; bractéoles forte-
-
-ment réduites. Fleurs symétriques à asymétriques en bouton, souvent résupinées ; calice
-
-campanulé ou rarement tubuleux, subactinomorphe, persistant et généralement accrescent à la
-
-fructification, diversement 5-lobé ou parfois tronqué, à lobes étalés en étoile ou enveloppant le
-
-fruit, de couleur vive ; corolle 5-lobée, diversement colorée, zygomorphe à lobe supérieur (qui
-
-est, en réalité, l’inférieur à cause de la résupination de la fleur) s’élargissant brusquement,
-
-ou bien subactinomophe et hypocratériforme à lobe supérieur à peine plus grand que
-
-les autres ; étamines 4, didynames à subégales, généralement longuement exsertes, anthères
-
-versatiles, thèques parallèles, s’ouvrant par des fentes longitudinales ; ovaire imparfaitement
-
-4-loculaire, à 1 ovule par loge, non ou faiblement 4-lobé ; style terminal, exsert, courtement
-
-bifide à l’apex à branches égales à subégales. Fruits généralement drupacés, charnus, souvent
-
-de couleur vive contrastant avec celle du calice, brillants, globuleux, obovoïdes-globuleux à
-
-obovoïdes ou rarement ellipsoïdaux à ellipsoïdaux-obovoïdes, se séparant le plus souvent en
-
-4 méricarpes arrondis à une graine.
-
-Genre de 400 à 500 espèces, des régions tropicales et tempérées chaudes, la plupart en Afrique
-
-tropicale et en Asie du sud, quelques-unes en Amérique tropicale et dans le nord de l’Austra-
-
----
-
-lasie et certaines s’étendant vers le nord dans la zone tempérée de l’Asie orientale. Plusieurs
-
-espèces sont cultivées en raison de leurs fleurs attrayantes. Vingt et une espèces sont réperto -
-
-riées comme présentes au Gabon, dont C . speciosissimum cultivé comme plante ornementale
-
-et parfois naturalisé.
-
-Notes : De nombreuses espèces de Clerodendrum adoptent un port lianescent grimpant, sarmenteux ou
-
-volubile, souvent grâce à des structures épineuses tendant à se développer à partir des anciennes bases des
+Notes: Many species of Clerodendrum adopt a scandent, sarmentose or twining climbing habit, often through spinose structures tending to develop from the old bases of
 
 ## Species in region
 

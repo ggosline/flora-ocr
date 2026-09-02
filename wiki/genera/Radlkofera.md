@@ -17,11 +17,9 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Trees monocaulous, monoecious. Leaves large, multifoliolate, paripinnate. Inflorescences cauline or axillary, in spiciform racemes, multiflorous subsessile, multibracteolate; bracts linear, large. Floral characters very similar to those of the genus Chytranthus, but the filaments are somewhat swollen at the base and their pubescence is somewhat different. The disc is perpendicular to the axis of the floral pedicel. Fruit pyriform or globoid without rib (6-7 locules).
 
-Arbres monocaules, monoïques. Feuilles grandes, multifoliolées, paripennées. Inflorescences caulinaires ou axillaires, en racèmes spiciformes multiflores subsessiles, multibractéolées; bractées linéaires grandes. Caractères floraux très semblables à ceux du genre Chytranthus, mais les filets sont un peu renflés à la base et leur pubescence est un peu différente. Le disque est perpendicular à l'axe du pédoncule floral. Fruit pyriforme ou globoïde sans côte (6-7 loges).
-
-### Genre monotypique étroitement apparenté aux Chytranthus.
+### Monotypic genus closely related to Chytranthus.
 
 ## Species in region
 

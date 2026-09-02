@@ -17,73 +17,15 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Trees or shrubs, monocaulous or with branched trunk, glabrous. Stipules intrapetiolary, caducous or persistent, fused or rarely free (C. lecomtei (Tiegh.) Farron). Leaves sessile or petiolate; petiole often wrinkled; blade with entire or serrate margin, often decurrent on the petiole; secondary veins spaced or rarely numerous and dense (C. lecomtei), slightly to strongly arched upward and subtangent to the margin or rarely straight (C. lecomtei), tertiary veins scalariform or sometimes reticulate. Inflorescence terminal or rarely axillary, simple or branched, generally composed of cymules (= very reduced bipolar cymes) sessile to subsessile arranged in racemes, rarely reduced to 1 or 2 flowers; gemmate scales at the base of the peduncle present or absent. Flowers: bracts caducous or persistent; pedicel articulate above the base; sepals 5, quincuncial in bud, persistent, accrescent and becoming red in fruit; petals 5, contorted, longer than the sepals, yellow or rarely whitish or orange, cuneate or sometimes shortly unguiculate; stamens 10, free, filaments much shorter than the anthers, persistent, generally less than 1 mm, anthers yellow, narrowly to very narrowly piriform, transversely wrinkled, dehiscent by an apical pore; carpels fused at the base but free in fruit, uniovulate, approximately 1(–2) mm in height; style 1, slender, gynobasic, curved outward, stigma terminal, short. Fruits apocarous; receptacle enlarged in the form of a flattened hemisphere, red; drupelets 1 to 5 per fruit and well developed, reniform to ellipsoid or subglobose, turning from green to red, then to black or rarely remaining red at maturity. Seeds with cotyledons curved, incumbent or accumbent, equal or strongly unequal.
 
-Arbres ou arbustes, monocaules ou tronc ramifié, glabres. Stipules intrapétiolaires ,
+Genus with approximately 55 species, widely distributed in tropical Africa including Madagascar, with 2 species in South Asia and Southeast Asia, India and Sri Lanka, Hainan and from the Philippines to Indonesia; in Gabon, 26 species, four of which are endemic.
 
-caduques ou persistantes, fusionnées ou rarement libres ( C. lecomtei (Tiegh.) Farron).
+Bibliography: Amaral & Bittrich (2014), Bamps & Farron (1967), Bissiengou (2014), Bissiengou et al. (2013), Farron (1968, 1985), Robson (1963), Verdcourt (2005).
 
-Feuilles sessiles ou pétiolées ; pétiole souvent ridé ; limbe à marge entière ou serretée,
+### Key to the species
 
-souvent décurrent sur le pétiole ; nervures secondaires espacées ou rarement nombreuse
-
-et denses ( C. lecomtei ), légèrement à fortement arquées vers le haut et subtangentes au
-
-bord ou rarement droites ( C. lecomtei ), nervures tertiaires scalariformes ou parfois réticu-
-
-lées. Inflorescence terminale ou rarement axillaire, simple ou ramifiée, généralement
-
-composée de cymules (= cymes bipares très réduites) sessiles à subsessiles arrangées
-
-en racèmes , rarement réduite à 1 ou 2 fleurs ; écailles gemmaires à la base du pédon -
-
-cule présentes ou absentes. Fleurs : bractées caduques ou persistantes ; pédicelle arti-
-
-culé au-dessus de la base ; sépales 5, quinconciaux en bouton, persistants, accrescents
-
-et devenant rouges en fruit ; pétales 5, contortés, plus longs que les sépales, jaunes
-
-ou rarement blanchâtres ou orange, cunéés ou parfois courtement onguiculés ; étamines
-
-10, libres, filets beaucoup plus courts que les anthères, persistants, généralement moins
-
-de 1 mm, anthères jaunes, étroitement à très étroitement piriformes, ridées transver-
-
-salement, déhiscentes par un pore apical ; carpelles fusionnés à la base, mais libres
-
-en fruit, uniovulés, environ 1(–2) mm de hauteur ; style 1, grêle, gynobasique, courbé
-
-vers l’extérieur, stigmate terminal, court. Fruits apocarpes ; réceptacle élargi en forme
-
-hémisphère aplati, rouge ; drupéoles 1 à 5 par fruit et bien développées, réniformes à
-
-ellipsoïdes ou subglobuleuses, passant du vert au rouge, puis au noir ou rarement restant
-
----
-
-rouges à maturité. Graines à cotylédons courbés, incombants ou accombants, égaux
-
-ou fortement inégaux.
-
-Genre avec environ 55 espèces, largement répandues en Afrique tropicale y inclus Mada-
-
-gascar, avec 2 espèces en Asie du Sud et Asie du Sud-Est, l’Inde et Sri Lanka, Hainan et
-
-des Philippines à l’Indonésie ; au Gabon, 26 espèces, dont quatre sont endémiques.
-
-b : Amaral & Bittrich (2014), Bamps & Farron (1967), Bissiengou (2014),
-
-ibliographie
-
-Bissiengou et al. (2013), Farron (1968, 1985), Robson (1963), Verdcourt (2005).
-
-### Clé des espèces
-
-1. - Arbre monocaule ; feuilles en touffes au sommet du tronc (collectrices de litière) ;
-
-limbe 17–70(–90) cm de longueur, étroitement spatulé à étroitement elliptique-
-
-obovale ou rarement étroitement elliptique ; nervures tertiaires perpendiculaires
+1. – Tree monocaulous; leaves in tufts at the top of the trunk (litter collectors); blade 17–70(–90) cm in length, narrowly spatulate to narrowly elliptic-obovate or rarely narrowly elliptic; tertiary veins perpendicular
 
 ## Species in region
 

@@ -14,65 +14,9 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+(LAMIACEAE Martinov (1820), nom. altern., nom. cons.)
 
-(LAMIACEAE Martinov (1820), nom. altern., nom. cons. )
-
-Arbustes ou herbes, plus rarement arbres ou plantes grimpantes , aromatiques ou non ; tiges
-
-souvent à section transversale carrée . Stipules absentes. Feuilles simples, parfois palmati-
-
-composées ( Vitex ), opposées, généralement décussées , parfois verticillées , très rarement
-
-alternes, rarement en rosette basale, pétiolées ou sessiles ; limbe généralement denté ou lobé,
-
-parfois entier. Inflorescences indéterminées , composées de cymes et disposées en thyrse
-
-terminal ou axillaire, lâche ou condensé , pouvant être paniculé, racémiforme à cymes uni-
-
-flores ou à verticilles de fleurs denses ( verticillastres ), en épi ou condensé en tête ; bractées
-
-souvent présentes (structures foliaires sous-tendant la cyme), parfois cymes avec bractéoles
-
-(bractées secondaires sous-tendant les branches et les pédicelles de la cyme). Fleurs généra-
-
-lement zygomorphes, rarement actinomorphes, hypogynes, bisexuées (rarement unisexuées
-
-hors du Gabon) ; calice gamosépale, zygomorphe, souvent à 2 lèvres, ou rarement ac-
-
-tinomorphe, souvent accrescent en fruit , avec 2 à 10 lobes, le plus souvent 5, égaux ou
-
-inégaux, rarement obsolètes, souvent certains lobes soudés formant une lèvre entière ; corolle
-
-gamopétale, légèrement à fortement zygomorphe , souvent bilabiée, rarement à 1 lèvre,
-
-ou rarement actinomorphe , courte à allongée, parfois avec un anneau de poils ou d’écailles
-
-à l’intérieur, avec (2 à)4 ou 5(à 8) lobes égaux ou inégaux ; étamines épipétales, fixées à l’in -
-
-térieur du tube de la corolle, généralement 4(à 8) ou parfois 2 par avortement et staminodes
-
-alors souvent présents, si 4, alors souvent didynames, généralement libres, rarement la paire
-
-antérieure fusionnée, filets généralement exserts , parfois inclus dans la lèvre de la corolle,
-
-anthères généralement à deux thèques, ou une seule par avortement ; disque à la base de
-
-l’ovaire souvent présent, nectarifère ; gynécée 2-carpellé, à ovaire parfois entier, mais plus
-
-souvent 4-loculaire par intrusion de la paroi formant une fausse cloison, ou rarement
-
-imparfaitement 2-loculaire et libre vers le sommet , ovules généralement 4, anatropes à
-
-hémi-anatropes, généralement basaux ou sub-basaux, dressés, rarement orthotropes, apicaux,
-
-pendants, portés près de la marge de la paroi du carpelle ; style terminal (si ovaire en-
-
-tier ou lobé) ou gynobasique (si ovaire profondément 4-lobé), caduc , généralement à 2
-
-lobes égaux ou inégaux qui portent les stigmates, rarement entier. Fruits : drupes (souvent
-
-se séparant en 2 ou 4 méricarpes contenant des pyrènes), ou secs et indéhiscents ou se
+Shrubs or herbs, more rarely trees or climbing plants, aromatic or not; stems often with square transverse section. Stipules absent. Leaves simple, sometimes palmately compound (Vitex), opposite, generally decussate, sometimes whorled, very rarely alternate, rarely in basal rosette, petiolate or sessile; blade generally dentate or lobed, sometimes entire. Inflorescences indeterminate, composed of cymes and arranged in terminal or axillary thyrse, lax or condensed, which can be paniculate, racemiform with uniflorous cymes or with dense whorls of flowers (verticillasters), in spike or condensed into head; bracts often present (foliar structures subtending the cyme), sometimes cymes with bracteoles (secondary bracts subtending the branches and pedicels of the cyme). Flowers generally zygomorphic, rarely actinomorphic, hypogynous, bisexual (rarely unisexual outside Gabon); calyx gamosepalous, zygomorphic, often 2-lipped, or rarely actinomorphic, often accrescent in fruit, with 2 to 10 lobes, usually 5, equal or unequal, rarely obsolete, often some lobes fused forming an entire lip; corolla gamopetalous, slightly to strongly zygomorphic, often bilabiate, rarely 1-lipped, or rarely actinomorphic, short to elongate, sometimes with a ring of hairs or scales inside, with (2 to)4 or 5(to 8) lobes equal or unequal; stamens epipetalous, attached inside the corolla tube, generally 4(to 8) or sometimes 2 by abortion and staminodes then often present, if 4, then often didynamous, generally free, rarely the anterior pair fused, filaments generally exsert, sometimes included in the corolla lip, anthers generally with two thecae, or a single one by abortion; disc at the base of the ovary often present, nectariferous; gynoecium 2-carpellate, with ovary sometimes entire, but more often 4-locular by intrusion of the wall forming a false septum, or rarely imperfectly 2-locular and free toward the apex, ovules generally 4, anatropous to hemi-anatropous, generally basal or sub-basal, erect, rarely orthotropous, apical, pendant, borne near the margin of the carpel wall; style terminal (if ovary entire or lobed) or gynobasic (if ovary deeply 4-lobed), caducous, generally with 2 equal or unequal lobes bearing the stigmas, rarely entire. Fruits: drupes (often separating into 2 or 4 mericarps containing pyrenes), or dry and indehiscent or opening
 
 ## Species in region
 

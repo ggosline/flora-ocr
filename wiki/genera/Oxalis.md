@@ -17,55 +17,23 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Annual or perennial herbs, rarely aquatic, often succulent, often chamaephytes; stem often subligneous or ligneous. Stipules often present, fused at the base of the petiole. Leaves alternate, basal to cauline, 3–plurifoliolate, rarely 1-foliolate. Inflorescence axillary or cauline, in pseudo-umbels or cymes, sometimes solitary flowers; bracteoles 2 to several; pedicel articulated at the base and sometimes below the calyx. Flower heterostylous, distyled or homostylous, sometimes cleistogamous; sepals imbricate, sometimes bearing callosities towards the apex; petals connate at the base into a ring, yellow, pink, red, violaceous or white; stamens 10, filaments sparsely pubescent towards the apex, 5 outer short and opposite the petals and 5 inner long, opposite the sepals, anthers basifixed, with longitudinal dehiscence. Fruit capsular, loculicidal, with persistent valves. Seeds with fleshy outer integument; arillode separating elastically.
 
-Herbes annuelles ou pérennes , rarement aquatiques , souvent succulentes, souvent cha-
-
-méphytes ; tige souvent subligneuse ou ligneuse. Stipules souvent présentes, soudées à
-
-la base du pétiole. Feuilles alternes, radicales à caulinaires , 3–pluri-foliolées, rarement
-
-1-foliolées. Inflorescence axillaire ou caulinaire, en pseudo-ombelles ou cymes, parfois
-
-fleurs solitaires ; bractéoles 2 à plusieurs ; pédicelle articulé à la base et quelquefois en
-
-dessous du calyce. Fleur hétérostylée , distylée ou homostylée , parfois cleistogame ;
-
-sépales imbriqués , parfois munis de callosités vers le sommet ; pétales connés à la base
-
-en un anneau, jaunes, roses, rouges, violacées ou blancs ; étamines 10 , filets éparsement
-
-pubescents vers le sommet, 5 extérieurs courts et opposés aux pétales et 5 intérieurs
-
-longs, opposés aux sépales, anthères basifixes, à déhiscence longitudinale. Fruit capsu-
-
----
-
-laire, loculicide, à valves persistantes. Graines à tégument extérieur charnu ; arillode se
-
-séparant élastiquement.
-
-Genre cosmopolite comprenant ± 700 espèces, surtout en Amérique et Afrique australe.
-
-Au Gabon 2 espèces sont présentes.
+Cosmopolitan genus comprising ± 700 species, especially in America and southern Africa. In Gabon 2 species are present.
 
 B : Cocucci (2004), Exell (1963), Lourteig (1979), Wilczek (1958).
 
-IBLIOGRAPHIE
+IBLIOGRAPHY
 
-1. - Feuilles palmées, 3-foliolées ; herbe à tige prostrée ou redressé, ± radicante aux
+1. - Leaves palmate, 3-foliolate; herb with prostrate or erect stem, ± radicant at the nodes; stipules present, fused at the base of the petiole; flowers yellow ................. 2
 
-nœuds ; stipules présentes, soudées à la base du pétiole ; fleurs jaunes ................. 2
+- Leaves pinnate, 3-foliolate; herb or erect suffrutex, without bulbils; stipules absent; flowers white, pink, violaceous to reddish ...................... O . barrelieri
 
-- Feuilles pennées, 3-foliolées ; herbe ou suffrutex dressé, sans bulbilles ; stipules
-
-absentes ; fleurs blanches, roses, violacées à rougeâtres ...................... O . barrelieri
-
-2. - Plante robuste, 10–30 cm de hauteur ; feuilles vertes sur les deux faces
+2. - Robust plant, 10–30 cm in height; leaves green on both faces
 
 ......................................................... O . corniculata ssp. corniculata var. corniculata
 
-- Plante grêle, 9–12 cm de hauteur ; feuilles mauves à violacées
+- Slender plant, 9–12 cm in height; leaves mauve to violaceous
 
 ..................................................... O . corniculata ssp. corniculata var. atropurpurea
 

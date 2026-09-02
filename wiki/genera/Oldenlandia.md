@@ -17,45 +17,43 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Slender herbs ± branched, often erect, sometimes prostrate. Stipules ± connate at the base of the petiolar margins, with dentate apex or bearing ± attenuate appendages. Laminae often linear, sometimes narrowly elliptic, more rarely ovate.
 
-Herbes grêles ± rameuses, souvent dressées, parfois couchées. Stipules ± connées à la base des marges pétiolaires, à sommet denté ou muni d'appendices ± effilés. Limbes souvent linéaires, parfois étroitement elliptiques, plus rarement ovés.
+Inflorescences cymose or flowers axillary, solitary or fasciculate. Pedicel variable, often slender, sometimes absent. Calyx most often 4-lobed; up to 8 lobes in O. capensis var. pleiosepala. Corolla 4-merous; tube variable often short, lobes small; colour white, blue-violet or pinkish. Stamens ± exserted, with connective not prominent. Pollen tricolporate. Style with bilobed stigma ± exceeding the stamens (heterostyly marked in some species). Disc glabrous. Style generally glabrous. Ovary with 2 locules. Placentas capitate inserted on a slender, slightly ascending pedicel.
 
-Inflorescences cymeuses ou fleurs axillaires, solitaires ou fasciculées. Pédicelle variable, souvent grêle, parfois nul. Calice le plus souvent 4-lobé; jusqu'à 8 lobes chez O. capensis var. pleiosepala. Corolle 4-mère; tube variable souvent court, lobes petits; couleur blanche bleu-violacé ou rosée. Étamines ± exser-tes, à connectif non saillant. Pollen tricolporé. Style à stigmate bilobé dépassant ± les étamines (hétérostyle sensible chez quelques espèces). Disque glabre. Style généralement glabre. Ovaire à 2 loges. Placentas capités insérés sur un pédoncule grêle un peu ascendant.
+Fruit a thin or subcoriaceous capsule, globulous, dehiscing apically into two pairs of flaps. Seeds ca. 0.4-0.5 mm, somewhat ovate, angular.
 
-Fruit capsulaire mince ou subcoriace, globuleux, déhiscent apicalement en deux paires de clapets. Graines d'env. 0,4-0,5 mm, un peu ovées anguleuses.
+Seed germination is obtained in 50-60 days from fresh seeds; this time can be reduced to about ten days if the seeds are previously dried in an oven (F. Hallé).
 
-La germination des graines s’obtient en 50-60 jours à partir des graines fraîches; ce temps peut être réduit à une dizaine de jours si les graines sont préalablement séchées au four (F. Hallé).
+Approximately 400 species according to the former concept of the genus. Currently about sixty species are counted in Africa, principally distributed in herbaceous tropical regions. 7 species in Gabon, including the type species O. corymbosa L.
 
-Environ 400 espèces suivant l'ancienne conception du genre. Actuellement on compte une soixantaine d'espèces en Afrique, principalement répandues dans les régions tropicales herbeuses. 7 espèces au Gabon, dont l'espèce type O. corymbosa L.
+### KEY TO OLDENLANDIA
 
-### CLÉ DES OLDENLANDIA
+1. Inflorescences pedunculate, cymose, pauciflorous or multiflorous; flowers blue, violet or white.
 
-1. Inflorescences pédonculées cymeuses, pauci ou multiflores; fleurs bleutées, violacées ou blanches.
-
-2. Cymes pluri ou multiflores groupées en panicules parfois terminaux.
+2. Cymes pluriflorous or multiflorous grouped into panicles, sometimes terminal.
 
 ---
 
-3. Feuilles de 5-30(40) mm de large; pédicelles de 0,5-5 mm; corolle de moins de 4 mm de longueur..... 1. O. nervosa.
+3. Leaves 5-30(40) mm wide; pedicels 0.5-5 mm; corolla less than 4 mm long..... 1. O. nervosa.
 
-3'. Feuilles de 2-8 mm de large; pédicelles de 2-12 mm; corolle de 5-6 mm de longueur. ..... 2. O. affinis.
+3'. Leaves 2-8 mm wide; pedicels 2-12 mm; corolla 5-6 mm long..... 2. O. affinis.
 
-2'. Cymes pauciflores (1-4 fl.) axillaires; pédicelles de 3-7 mm; corolle longue de 2-3 mm.....3. O. corymbosa.
+2'. Cymes pauciflorous (1-4 fl.) axillary; pedicels 3-7 mm; corolla 2-3 mm long.....3. O. corymbosa.
 
-1'. Inflorescences non pédonculées, en fascicule ou glomérule, ou encore fleurs axillaires solitaires; fleurs blanches ou rosées.
+1'. Inflorescences not pedunculate, in fascicle or glomerate, or flowers axillary solitary; flowers white or pinkish.
 
-4. Fleurs longuement pédicélées, axillaires par 1-2.
+4. Flowers long-pedicellate, axillary 1-2 per node.
 
-5. Tiges molles et allongées,  $ \pm $ couchées, comprimées-sulquées à sec, peu rameuses..... 4. O. lancifolia.
+5. Stems soft and elongate, ± prostrate, compressed-sulcate when dry, sparsely branched..... 4. O. lancifolia.
 
-5'. Tiges raides, dressées, cylindriques et 4-anguleuses, très ra-meuses ..... 5. O. herbacea.
+5'. Stems rigid, erect, cylindric and 4-angular, very much branched..... 5. O. herbacea.
 
-4'. Fleurs très brièvement pédicellées à sessiles, 1-10 par aisselle.
+4'. Flowers very briefly pedicellate to sessile, 1-10 per axil.
 
-6. Fleurs par 1-3; feuilles de 1-3 mm de large ..... 6. O. capensis.
+6. Flowers 1-3 per axil; leaves 1-3 mm wide..... 6. O. capensis.
 
-6'. Fleurs par 3-10; feuilles de 3-10 mm de large..... 7. O. goreensis.
+6'. Flowers 3-10 per axil; leaves 3-10 mm wide..... 7. O. goreensis.
 
 ## Species in region
 

@@ -16,29 +16,27 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 in ENGL. & PRANTL, Nat. Pflanzenfam. 4 (3b) : 242 (1894) ; HEINE, FWTA, ed. 2, 2 : 287 (1963) ; SANTISUK, Thai Forest Bull. 8 : 6 (1974) ; GENTRY, Fl. Cam. 27 : 35 (1984).
 
 - Muenteria SEEM., J. of Bot. 3 : 329 (1865).
 
-Arbres. Feuilles opposées, composées imparipennées.
+Trees. Leaves opposite, imparipinnate compound.
 
-Inflorescences terminales paniculées. Calice spathacé, habituellement avec un acumen bien développé. Corolle jaune (rouge brunâtre dans une espèce asiatique), tubulaire campanulée au dessus d'une base étroitement tubulaire. Étamines didynamics, staminode très petit. Ovaire linéaire-oblong, habituellement glabre ou écailleux. Disque présent.
+Inflorescences terminal paniculate. Calyx spataceus, usually with a well-developed acumen. Corolla yellow (reddish-brown in one Asian species), tubular-campanulate above a narrowly tubular base. Stamens didynamous, staminode very small. Ovary linear-oblong, usually glabrous or scaly. Disk present.
 
 ---
 
-Capsules linéaires, fortement aplaties et en forme de ruban ; septum se développait dorsalement et ventralement (= pseudoseptum) ; valves comprimées parallèles à celui-ci. Graines minces, biaillées, à ailes hyalines.
+Capsules linear, strongly flattened and ribbon-shaped; septum developing dorsally and ventrally (= pseudoseptum); valves compressed parallel to it. Seeds thin, two-winged, with hyaline wings.
 
-ESPÈCE-TYPE : Markhamia stipulata (Wall.) Seem.
+TYPE SPECIES: Markhamia stipulata (Wall.) Seem.
 
-Environ 10 espèces, 8 en Afrique et 2 en Asie du Sud-Est ; plusieurs espèces africaines ne sont pas très différenciées les unes des autres.
+Approximately 10 species, 8 in Africa and 2 in Southeast Asia; several African species are not very well differentiated from one another.
 
-### CLÉ DES ESPÈCES
+### KEY TO SPECIES
 
-1. Calice densément tomenteux ; folioles ± pubérulentes dessous, au moins le long des nervures, pétiolues longs de moins de 3 mm ; fruit pubérulent ; pseudo-stipules subulées ..... 1. M. tomentosa.
+1. Calyx densely tomentose; leaflets ± puberulent beneath, at least along the veins, petiolules less than 3 mm long; fruit puberulent; subulate pseudo-stipules ..... 1. M. tomentosa.
 
-1'. Calice écailleux ; folioles écailleuses dessous ; distinctement pétiolulées ; fruit écailleux ; pseudostipules foliacées ..... 1bis. M. lutea.
+1'. Calyx scaly; leaflets scaly beneath; distinctly petiolulate; fruit scaly; foliaceous pseudo-stipules ..... 1bis. M. lutea.
 
 ## Species in region
 

@@ -17,23 +17,13 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Herbs with simple or branched stems. Flowers pedicellate, unisexual or bisexual; stamens sessile, staminodes absent in female flowers. Follicles dehiscent in 2 valves by a dorsal longitudinal slit.
 
-Herbes à tiges simples ou ramifiées. Fleurs pédicellées, unisexuées ou bisexuées ; éta -
+Pantropical genus comprising approximately 30 species, most of them Asian and two African, one of which in Gabon.
 
-mines sessiles, staminodes absents dans les fleurs femelles. Follicules déhiscents en 2
+Bibliography
 
-valves par une fente longitudinale dorsale.
-
-Genre pantropical comprenant environ 30 espèces, la plupart asiatiques et deux africaines
-
-dont une au Gabon.
-
-B : Hepper (1968), Maas-van de Kamer & Weustenfeld (1998), Symoens
-
-ibliographie
-
-(1984).
+B: Hepper (1968), Maas-van de Kamer & Weustenfeld (1998), Symoens (1984).
 
 ## Species in region
 

@@ -17,11 +17,9 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Characteristics of the family.
 
-Caractères de la famille.
-
-Une seule espèce en Afrique continentale.
+A single species in continental Africa.
 
 ## Species in region
 

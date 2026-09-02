@@ -16,23 +16,21 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Herbaceous ferns, terrestrial or epiphytic. Stems erect, creeping, or pendant, with dichotomous or pinnate branches. Leaves small, entire, 1-nerved, without ligule, mono- or dimorphous and arranged on 2 planes. Fertile leaves arranged in terminal strobili, or alternating with sterile ones. Sporangia at the axil of fertile leaves, globose, dehiscent in 2 valves.
 
-Fougères herbacées, terrestres ou épiphytes. Tiges dressées, rampantes, ou pendantes, à branches dichotomes ou pennées. Feuilles de petite taille, entières 1-nerviées, sans ligule, mono ou dimorphes et disposées sur 2 plans. Feuilles fertiles disposées en strobiles terminaux, ou alternant avec les stériles. Sporanges à l'aisselle des feuilles fertiles, globuleux, déhiscents en 2 valves.
+Approximately 750 species.
 
-Environ 750 espèces.
+1. Strobili not pedunculate.
 
-1. Strobiles non pédonculés.
+2. Sporophylls longer than sporangia..... 1. L. Staudtii.
 
-2. Sporophylles plus longs que les sporanges..... 1. L. Staudtii.
+2'. Sporophylls and sporangia of the same size.
 
-2'. Sporophylles et sporanges de même taille.
+3. Terminal strobili, pendant epiphytic plant... 2. L. phlegmaria.
 
-3. Strobiles terminaux, plante épiphyte pendante... 2. L. phlegmaria.
+3'. Strobili arising on lateral branches; terrestrial, erect plant..... 3. L. cernuum.
 
-3'. Strobiles nés sur des branches latérales; plante terrestre, dressée..... 3. L. cernuum.
-
-1'. Strobiles pédonculés; feuilles dimorphes; strobiles solitaires, nais-sant des tiges rampantes..... 4. L. affine.
+1'. Strobili pedunculate; leaves dimorphous; strobili solitary, arising from creeping stems..... 4. L. affine.
 
 ---
 
@@ -44,13 +42,13 @@ Environ 750 espèces.
 
 = Urostachys Adolf-Friedericii Hert. ex Nessel, Bärlapp.: 226 (1939).
 
-Épiphyte à tiges subdressées, recourbées au sommet, longues d'environ 35 cm, simples ou dichotomes. Feuilles imbriquées, étalées, longues de 14-20 mm sur 2 mm de large, lancéolées, arrondies à la base, vert clair, brillantes, aplaties, avec une marge légèrement enroulée et un costa apparent. Strobiles apicaux, lâches, non pédonculés, simples ou dichotomes. Sporophylles entièrement différents des feuilles, elliptiques-lancéolés, longs de 4 mm sur 2 mm de large, coriaces, sans costa net. Sporanges jaune verdâtre.
+Epiphyte with suberect stems, curved at the apex, approximately 35 cm long, simple or dichotomous. Leaves imbricate, spreading, 14–20 mm long by 2 mm wide, lanceolate, rounded at the base, pale green, lustrous, flattened, with a slightly involute margin and an apparent costa. Apical strobili, loose, non-pedunculate, simple or dichotomous. Sporophylls entirely different from the leaves, elliptic-lanceolate, 4 mm long by 2 mm wide, coriaceous, without distinct costa. Sporangia yellowish-green.
 
-Type : Staudt 476, Johann-Albrechtshöhe.
+Type: Staudt 476, Johann-Albrechtshöhe.
 
-Matériel gabonais étudié :
+Gabonese material studied:
 
-N. Hallé : 835, riv. Wébé, Mts de Cristal; 1860, Ayem, SW de Ndjolé; 2375, 2417, Abanga, Mts de Cristal.
+N. Hallé: 835, riv. Wébé, Mts de Cristal; 1860, Ayem, SW of Ndjolé; 2375, 2417, Abanga, Mts de Cristal.
 
 ## Species in region
 

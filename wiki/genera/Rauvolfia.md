@@ -17,75 +17,21 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Trees or shrubs, often candelabra-shaped; branches with white latex but absent from the bark; branches terminating in 2 to 7 branchlets, in number equal to the leaves of the whorl; nodes marked by a distinctive ring of numerous colleters confined to the leaf axil and petiolar region. Stipules absent. Leaves in whorls of 2 to 7, those of a whorl subequal or unequal in size and form, often confined to the summits of the branchlets, in certain species sometimes opposite on the lower nodes, petiolate or sessile, glabrous. Inflorescences terminal, sometimes apparently lateral, in a cyme with a few or more flowers, the first ramification umbellate or corymbiform. Flowers actinomorphous or, in certain species, slightly zygomorphous; calyx with glabrous lobes on the interior, corolla with a glabrous tube on the exterior, pilosity variable, on the interior with lobes covering towards the left in bud; stamens free from one another and from the pistil, included or exserted, anthers glabrous; disk annular or cupuliform, entire to undulate or slightly crenulate, glabrous; pistil: ovary superior, composed of two carpels free or completely fused, each with 1 or 2 ovules, glabrous; style glabrous to pubescent, pistil head cylindric with a basal neck and a biapiculate stigmatoid apex. Fruits white, yellow or orange to red or green, in apocaric or partially to completely syncaric drupes, with 1 or 2 developed mericarps, each carpel with a single pyrene containing a single seed. Seeds laterally compressed, obliquely ovoid to ellipsoid, with a large embryo surrounded by thin fleshy endosperm.
 
-Arbres ou arbustes , souvent en forme de chandelier ; branches à latex blanc mais absent de
+A pantropical genus of approximately species, of which eleven are represented in continental Africa and six in Gabon.
 
-l’écorce ; branches se terminant par 2 à 7 ramilles, en nombre égal à des feuilles du verticille ;
+Notes. Four species that were treated as synonyms in the revision by van Dilst & Leeuwenberg (1991) are reinstated here.
 
-nœuds marqués par un anneau distinctif de nombreux collétères FRQ¿QpV j O¶DLVVHOOH
+B: Endress et al. (2019), van Dilst & Leeuwenberg (1991).
 
-des feuilles et à la région pétiolaire. Stipules absentes. Feuilles en verticilles de 2 à 7 , celles
+BIBLIOGRAPHY
 
-G¶XQYHUWLFLOOHVXEpJDOHVRXLQpJDOHVHQWDLOOHHWHQIRUPHVRXYHQWFRQ¿Qphvdx[VRPPHWVGHV
+### Key to the species
 
-UDPLOOHVFKH]FHUWDLQHVHVSqFHVSDUIRLVRSSRVpHVVXUOHVQ°XGVLQIpULHXUVSpWLROpHVRXVHV -
+Pedicel and axes of the inflorescence puberulent; inflorescence with numerous flowers; leaf limb 2–7 × 1–4 cm with 3 to 4 pairs of principal lateral nerves; mericarps free in fruit (if both are developed), orange to red ........................................................................................................ R. vomitoria
 
-siles, glabres. ,QÀRUHVFHQFHV terminales SDUIRLVDSSDUHPPHQWODWpUDOHVHQF\PHjTXHOTXHV
-
-RXSOXVLHXUVÀHXUVOD ère UDPL¿FDWLRQRPEHOOpHRXFRU\PELIRUPH Fleurs actinomorphes ou,
-
-FKH]FHUWDLQHVHVSqFHVOpJqUHPHQW]\JRPRUSKHVFDOLFHjOREHVJODEUHVjO¶LQWpULHXUFRUROOH
-
-jWXEHJODEUHjO¶H[Wpulhxusrloxghidorqyduldeohjo¶LQWpULHXUjOREHV recouvrant vers la
-
-gauche en bouton ; étamines libres les unes des autres et du pistil , incluses ou exsertes,
-
-DQWKqUHV JODEUHV GLVTXH DQQXODLUH RX FXSXOLIRUPH HQWLHU j RQGXOp RX Opjquhphqw FUpQHOp
-
-glabre ; pistil : ovaire supère, composé de deux carpelles libres ou complètement fusionnés,
-
-chacun avec 1 ou 2 ovules, glabre ; style glabre à pubescent, tête du pistil cylindrique avec
-
-un col basal et un sommet stigmatoïde biapiculé . Fruits blancs, jaunes ou orange à rouges
-
-ou verts, en drupes apocarpiques ou partiellement à complètement syncarpiques,à 1 ou
-
-2 méricarpes développés, chaque carpelle à un seul noyau contenant une seule graine .
-
-Graines FRPSULPpHVODWpUDOHPHQWREOLTXHPHQWRYRwGHVjHOOLSVRwGDOHVDYHFXQJURVHPEU\RQ
-
-entouré d’un endosperme charnu mince.
-
-8QJHQUHSDQWURSLFDOG¶HQYLURQHVSqFHVGRQWRQ]HVRQWUHSUpVHQWpHVHQ$IULTXHFRQWLQHQ -
-
-tale et six au Gabon.
-
-Notes 4XDWUH HVSqFHV TXL pWDLHQW WUDLWpHV FRPPH GHV V\QRQ\PHV GDQV OD Upylvlrq GH YDQ 'LOVW
-
-Leeuwenberg (1991) sont rétablies ici.
-
-B : Endress et al. (2019), van Dilst & Leeuwenberg (1991).
-
-IBLIOGRAPHIE
-
-### Clé des espèces
-
-3pGRQFXOH HW D[HV GH O¶LQÀRUHVFHQFH SXEpUXOHQWV LQÀRUHVFHQFH j QRPEUHXVHV
-
-ÀHXUVOLPEHIROLDLUHGH±î±FPDYHFjSDLUHVGHQHUYXUHVODWp -
-
-rales principales ; méricarpes libres en fruit (si les deux sont développés), orange à
-
-rouges ........................................................................................................ R. vomitoria
-
-3pGRQFXOHHWD[HVGHO¶LQÀRUHVFHQFHJODEUHVLQÀRUHVFHQFHSDXFLjSOXULÀRUHV
-
-limbe foliaire de 1,8–70 × 0,8–19 cm, avec 5 à 45 paires de nervures latérales prin-
-
-cipales ; méricarpes libres ou soudées en fruit, blanchâtres à jaunâtres, orange ou
-
-rouges, ou vert à brun ou noir ..................................................................................... 2
+Pedicel and axes of the inflorescence glabrous; inflorescence few- to pluriflorous; leaf limb 1.8–70 × 0.8–19 cm, with 5 to 45 pairs of principal lateral nerves; mericarps free or fused in fruit, whitish to yellowish, orange or red, or green to brown or black ..................................................................................... 2
 
 ## Species in region
 

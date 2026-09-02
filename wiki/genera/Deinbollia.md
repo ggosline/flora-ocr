@@ -17,25 +17,19 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Shrubs, trees with branching or palm-like habit (monocaulous); young branches tomentellous-ferruginous to glabrous; leaves paripinnate, 2-18-jugate, petiolate; basal leaflets smaller, the upper ones larger, often acuminate, entire, glabrous or ± hairy, with or without mucilage cells.
 
-Arbustes, arbres ramières ou à port de palmier (monocaules); rameaux jeunes tomentelleux-ferrugineux à glabres; feuilles paripennées, 2-18-juguées, pétiolées; folioles de base plus petites, les supérieures plus grandes, souvent acuminées, entières, glabres ou ± velues, à cellules à mucilage ou non.
+Inflorescences cauline or axillary in simple or branched racemes 1-2 times, whose axes bear biparious cymules of 3-21 regular polygamous flowers pedicellate. Spherical buds whose diameter (2-6 mm) is an important element in specification; calyx with 5 sepals substantially equal or the two outer smaller, quincuncial, orbicular, very concave, fairly coriaceous, hairy or not on the outside and inside, often ciliate at the margin; corolla with 5 quincuncial petals, ovate, ± hairy, hairy scale, ± bilobed, disc in entire crown or in a cup shape, with upper margin thin, glabrous or hairy; androecium variable: 9 to 30 stamens in a single row; filaments often very hairy, anthers introrse (extrorse in D. rambaensis); ovary with 2 or 3 carpels nearly separate, united at the base by a gynobasic style.
 
-Inflorescences caulinaires ou axillaires en grappes simples ou ramifiées 1-2 fois, dont les axes portent des cymules bipares de 3-21 fleurs polygames régulières pédicellées. Boutons sphériques dont le diamètre (2-6 mm) est un élément important dans la spécification; calice à 5 sépales sensiblement égaux ou les deux extérieurs plus petits, quinconciaux, orbiculaires, très concaves, assez coriaces, velus ou non à l'extérieur et à l'intérieur, souvent ciliés au bord; corolle à 5 pétales quinconciaux, ovales, ⊥ velus, écaille velue, ⊥ bilobée, disque en couronne entière ou en cuvette, à bord supérieur mince, glabre ou velue; androcée variable : 9 à 30 étamines sur un seul rang; filets souvent très velus, anthères introrses (extrorses dans D. rambaensis); ovaire à 2 ou 3 carpelles presque séparés, unis à la base par un style gynobasique.
+Fruit indehiscent, formed of 1-3 bacciform mericarps, rounded or ovoid, fleshy on the fresh plant, becoming coriaceous upon desiccation; endocarps adhering to the seed coat. The abortive carpels are visible at the base of the fruit above the disc and calyx often persistent. Seed ovoid with thick and hard coat, brown or black, with ventral hilum; cotyledons superposed, one ventral, the other dorsal, equal, slightly curved or straight, radicle on the external and lower side, engaged in a fold of the coat near the hilum; aril absent.
 
-Fruit indéhiscent, formé de 1-3 méricarpes bacciformes, arrondis ou ovoïdes, charnus sur la plante fraîche, devenant coriaces par dessication; endocarpes adhérant au tégument de la graine. Les carpelles avortés sont visibles à la base du fruit au-dessus du disque et du calice souvent persistants. Graine ovoïde à tégument épais et dur, brun ou noir, à hile ventral; cotylédons superposés, l'un ventral, l'autre dorsal, égaux, légèrement courbés ou droits, radicule côté externe et inférieur, engagée dans un repli du tégument près du hile; arille nul.
+TYPE SPECIES: Deinbollia pinnata (Poir.) Schum. & Thonn.
 
-ESPÈCE-TYPE : Deinbollia pinnata (Poir.) Schum. & Thonn.
+Genus exclusively tropical African (Madagascar included); more than forty species have been described. The key below includes only those found in Gabon (5) in Cameroon (8) and in neighbouring States (9). The species of East or southern Africa, as well as those of West Africa, are not cited.
 
-Genre exclusivement tropical africain (Madagascar compris); plus de quarante espèces ont été décrites. La clé ci-dessous ne comprend que celles trouvées au Gabon (5) au Cameroun (8) et dans les États voisins (9). Les espèces d'Afrique orientale ou australe, de même que celles d'Afrique de l'Ouest, ne sont pas citées.
+1. Leaves hairy, hairs 0.5-1 mm on and under the veins; inflorescence terminal; sepals hairy on both faces; petals hairy on the back.
 
-1. Feuilles velues, poils 0,5-1 mm sur et sous les nervures; inflorescence terminale; sépales velus sur les 2 faces; pétales à dos velu.
-
-2. Feuilles veloutées; poils roux doré, 0,5-1 mm sous les nervures d'ordre 1-4,
-
----
-
-dessus poils 0,5 mm sur nervures d'ordre 1-2; feuilles (5)-6-8-(10)-juguées; pétiole 10-20 cm; rachis 20-50 cm; folioles basales 5-10 × 3-5 cm; foliole supérieures 13-18 (-40) × 5-7 (-12) cm; 16-20 paires de nervures; acumen 15 mm; pétiole 2-6 mm; inflorescence 40-80 cm avec 8-12 rameaux 3-10 cm; cymes à stipe de 1 mm; boutons 2-3 mm velus, poils ondulés 0,5 mm, dorés non crépus; sépales à marge glabre; 16-17 étanines; fruit orangé, velouté, méricarpe 5-10 mm.
+2. Leaves velvety; hairs golden-red, 0.5-1 mm under veins of order 1-4; above hairs 0.5 mm on veins of order 1-2; leaves (5)-6-8-(10)-jugate; petiole 10-20 cm; rachis 20-50 cm; basal leaflets 5-10 × 3-5 cm; upper leaflets 13-18 (-40) × 5-7 (-12) cm; 16-20 pairs of veins; acumen 15 mm; petiolule 2-6 mm; inflorescence 40-80 cm with 8-12 branches 3-10 cm; cymes with stipe of 1 mm; buds 2-3 mm hairy, wavy hairs 0.5 mm, golden non-crispy; sepals with glabrous margin; 16-17 stamens; fruit orange, velvety, mericarp 5-10 mm.
 
 ## Species in region
 

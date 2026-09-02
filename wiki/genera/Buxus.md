@@ -17,17 +17,13 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Trees or shrubs, glabrous. Leaves opposite, decussate; blade coriaceous, with entire margin. Inflorescences with flowers subfasciculate or in short cymes, generally characterized by a terminal female flower subtended by 2 bracts, surrounded by 2 to 4 male flowers, each likewise subtended by 2 bracts, sometimes the inflorescence entirely male, with 1 or 2 terminal flowers, or else female, with 1 terminal flower. Male flowers: sepals 4, of which 2 external and 2 internal, equal or unequal, obovate to orbicular; stamens 4 to 6(−10), anther sessile, subsessile or on a distinct filament; pistillode present or absent. Female flowers: sepals 4 to 6; staminodes absent; ovary with 2 ovules per locule. Fruits capsular, with loculicidal dehiscence, with 3 valves, each furnished with 2 apical horns, representing vestiges of the styles. Seeds generally 3-fleshy or ovoid-oblong.
 
-Arbres ou arbustes, glabres. Feuilles opposées, décussées; limbe coriace, à marge entière. Inflorescences à fleurs subfasciculées ou en cymes courtes, généralement caractérisées par une fleur femelle terminale sous-tendue par 2 bractées, entourée par 2 à 4 fleurs mâles, chacune également sous-tendue par 2 bractées, parfois l'inflorescence entièrement mâle, avec 1 ou 2 fleurs terminales, ou bien femelle, avec 1 fleur terminale. Fleurs mâles : sépales 4, dont 2 externes et 2 internes, égaux ou inégaux, obovales à orbiculaires ; étamines 4 à 6(−10), anothère sessile, subsessile ou sur un filet distinct ; pistillode présent ou absent. Fleurs femelles : sépales 4 à 6 ; staminodes absents ; ovaire à 2 ovules par loge. Fruits capsulaires, à déhiscence loculicide, à 3 valves, chacun muni de 2 cornes apicales, représentant des vestiges des styles. Graines généralement 3-carnées ou ovoïdes-oblongues.
+Genus with approximately 100 species, present in almost all tropical and subtropical regions, – often at altitude, and also in the temperate regions of Europe and Asia. In continental Africa, there are nine species; in Madagascar ten others still. In Gabon, a single species.
 
-Genre avec environ 100 espèces, présent dans presque toutes les régions tropicales et subtropicales, – souvent en altitude, et aussi dans les régions tempérées de l'Europe et de l'Asie. En Afrique continentale, il existe neuf espèces ; à Madagascar encore dix autres. Au Gabon, une seule espèce.
+Notes: Some authors have sometimes recognized the genera Notobuxus and Buxella as being distinct from Buxus, notably on the basis of the number of stamens (4 in Buxus, 6(−10) in Notobuxus) and of anthers borne on filaments (Buxus) or sessile (Notobuxus). Here, we follow the opinion that consists of delimiting these taxa at the section level in a genus Buxus in the broad sense (Friis 1989, 2006). The sole Gabonese species, B. acutata, then belongs to the section Notobuxus (Oliv.) Friis.
 
-Notes : Des auteurs ont parfois reconnu les genres Notobuxus et Buxella comme étant distincts de Buxus, notamment sur la base du nombre des étamines (4 chez Buxus, 6(−10) chez Notobuxus) et des anthères portées par des filets (Buxus) ou sessiles (Notobuxus). Ici, nous suivons l'opinion qui consiste à délimiter ces taxons au niveau de la section dans un genre Buxus au sens large (Friis 1989, 2006). La seule espèce gabonaise, B. acutata, appartient alors à la section Notobuxus (Oliv.) Friis.
-
-BIBLIOGRAPHIE: Chant (1996), Friis (1989, 2006), Köhler (2007), Robyns (1960), Verdcourt (1962),
-
----
+BIBLIOGRAPHY: Chant (1996), Friis (1989, 2006), Köhler (2007), Robyns (1960), Verdcourt (1962),
 
 ## Species in region
 

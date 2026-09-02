@@ -17,75 +17,23 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Trees or shrubs evergreen, trunk generally straight cylindrical, latex white staining the bark and pith; wood light. Leaves opposite, petiolate, those of a pair connate by a short ochrea, with numerous small colleters in 2 or 3 axillary series; petiole canaliculate above; limb often with domatia at the axil of secondary veins.
 
-Arbres ou arbustes VHPSHUYLUHQWVWURQFJpQpUDOHPHQWGURLWF\OLQGULTXHODWH[EODQFFROODQW
+Inflorescences terminal and axillary, cymose, condensed and much shorter than the leaves; bracts often with small axillary colleters. Flowers 5-merous, actinomorphic, fleshy, fragrant; calyx with lobes bearing a line of colleters at the internal base; corolla with tube inflexed in the middle, thickened at the throat, with lobes covering to the right in bud, often with auriculate base on the left; stamens included, forming a cone rigidly connected to the pistil head, filament very short or absent, anther narrowly triangular, sagittate at the base, acuminate at the apex, introrse; disk lobed; ovary with 2 almost free carpels, united at the apex by the base of the style, with axial placenta, lobed, with 2 pendulous ovules in each carpel; style with 2 longitudinal grooves. Fruits composed of 2 follicles connate at the base, woody at maturity, adaxially flattened and dehiscent on this face, with woody wall, smooth inside. Seeds fusiform, thin, rostrate at the apex, rostrum bearing at least above the middle long straight hairs enveloping the seed in the fruit, with a narrow longitudinal crest from the base to the rostrum, where are found the narrow hilum and the apical micropyle; testa wrinkled; endosperm white, surrounding the embryo; cotyledons folded in the seed.
 
-dans l’écorce et la moelle ; bois léger. Feuilles opposées, pétiolées, celles d’une paire connées
+A genus with two species limited to continental tropical Africa. Only one species is observed in the wild in Gabon, the other, F. elastica is known only from plantations.
 
-par un ochréa court , avec de nombreuses petits collétères en 2 ou 3 séries axillaires ; pé-
+Use: F. elastica is considered to be a rubber tree of great value.
 
-tiole canaliculé dessus ; limbe souvent avec des domaties à l’aisselle des nervures secondaires.
+Notes: The species F. elastica was cultivated in Gabon (Raponda-Walker & Sillans 1961) and may be encountered in Gabon, but its wild or escaped presence has not yet been confirmed. This is the reason for which it is included in the key below.
 
-,QÀRUHVFHQFHV WHUPLQDOHVHWD[LOODLUHVF\PHXVHVFRQGHQVpHVEHDXFRXSSOXVFRXUWHVTXHOHV
+B: Beentje (2021), Endress et al.
 
-feuilles ; bractées souvent avec de petits collétères axillaires. Fleurs 5-mères, actinomorphes,
+BIBLIOGRAPHY
 
-charnues, parfumées ; calice à lobes munis d’une ligne de collétères à la base interne ; corolle à
+### Key to species
 
-WXEHUHQÀpDXPLOLHXpSDLVVLjODJRUJHjOREHV recouvrant vers la droite en bouton, souvent
-
-à base gauche auriculée ; étamines incluses, formant un cône rigidement relié à la tête du
-
-pistil ¿OHWWUqVFRXUWRXDEVHQWDQWKqUHpWURLWHPHQWWULDQJXODLUHVDJLWWpHjODEDVHDFXPLQp
-
-DXVRPPHWLQWURUVHGLVTXHOREpRYDLUHj 2 carpelles presque libres , unis au sommet
-
-SDUODEDVHGXVW\OHjSODFHQWDDGD[LDOOREpDYHFjRYXOHVSHQGDQWVGDQVFKDTXH
-
-carpelle ; style avec 2 sillons longitudinaux. Fruits composés de 2 follicules connés à la base ,
-
-ligneux à maturité, adaxialement aplatis et déhiscents sur cette face, à paroi ligneuse, lisses à
-
-l’intérieur. Graines fusiformes, minces, rostrées au sommet, rostre portant au moins au-dessus
-
-du milieu de longs poils droits enveloppant la graine dans le fruit, avec une crête longitudinale
-
-étroite de la base au rostre, où se trouvent le hile étroit et le micropyle apical ; testa rugueux ;
-
-endosperme blanc, entourant l’embryon ; cotylédons repliés dans la graine.
-
-8QJHQUHDYHFGHX[HVSqFHVOLPLWpjO¶$IULTXHWURSLFDOHFRQWLQHQWDOH8QHVHXOHHVSqFHHVW
-
-observée à l’état sauvage au Gabon, l’autre, F . elastica Q¶HVWFRQQXHTXHGHVSODQWDWLRQV
-
-Usage : F . elastica est considéré comme un arbre à caoutchouc de grande valeur.
-
-Notes : L’espèce F. elastica était cultivée au Gabon (Raponda-Walker & Sillans 1961) et pourra être
-
-UHQFRQWUpHDX*DERQPDLVVDSUpVHQFHVDXYDJHRXpFKDSSpHQ¶HVWSDVHQFRUHFRQ¿UPpH&¶HVWODUDLVRQ
-
-SRXUODTXHOOHHOOHHVWLQFOXVHGDQVODFOpFLGHVVRXV
-
-B : Beentje (2021), Endress et al.
-
-IBLIOGRAPHIE
-
-### Clé des espèces
-
-/DWH[SRLVVHX[ORUVTX¶LOHVWIURWWpHQWUHOHVGRLJWVGRPDWLHVVLSUpVHQWHVjO¶DLV -
-
-selle des nervures secondaires, en touffe de poils droits ; ovaire pubescent ; fol-
-
----
-
-OLFXOHSUHVTXHIXVLIRUPHGH±î±FPUpWUpFLHQXQVRPPHWDLJXRX
-
-rarement subobtus ; bouton mûr long de 8,5–22 mm, obtus ou aigu au sommet ;
-
-calice à lobes longs de 1,5–4 mm ; corolle glabre ou pubérulente à l’extérieur, à
-
-OREHVSDUIRLVDXULFXOpVSOXVFRXUWVRXSOXVORQJVTXHOHWXEHORQJVGH±PPHW
+Latex poisonous when rubbed between the fingers; domatia present at the axil of secondary veins, in tuft of straight hairs; ovary pubescent; follicle almost fusiform, 0.5–2 × 0.5–1 cm, narrowed at the apex acute or rarely subobtuse; mature bud 8.5–22 mm long, obtuse or acute at the apex; calyx with lobes 1.5–4 mm long; corolla glabrous or puberulent outside, with lobes sometimes auriculate, shorter or longer than the tube, 3–5 mm long and
 
 ## Species in region
 

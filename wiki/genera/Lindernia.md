@@ -17,55 +17,25 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Herbes annuelles ou vivaces ; tige dressée à ascendante ou prostrée, à ramifications nom -
-
-breuses (paraclades) ou peu ramifiée, glabre ou pubescente, quadrangulaire. Feuilles op-
-
-posées, caulinaires, sessiles ; limbe orbiculaire à ovale ou lancéolé à linéaire-filiforme,
-
-acuminé à obtus au sommet, à marge dentée à crénelée ou entière ; nervation palmée . In-
-
-florescences terminales ou parfois axillaires, en forme de racème, lâche ou dense, chaque
-
-nœud florifère portant 1 ou 2 fleurs. Fleurs pédicellées, parfois fleurs cleistogames ses -
-
-siles présentes ; calice 5-lobé, à lobes égaux ; corolle zygomorphe, à lèvre supérieure
-
-entière ou bipartite, lèvre inférieure tripartite, sans palais ; étamines 4, les antérieures
-
-(abaxiales) aux filets soit incurvés en forme de Z et formant des appendices géniculés
-
-couverts de poils glanduleux et de papilles, soit réduits et aux staminodes incur-
-
-vés ou étroits , ceux des étamines postérieures (adaxiales) droits, anthères à 2 thèques
-
-égales ; ovaire glabre ; stigmate bilobé. Fruits capsulaires, septicides-septifrages. Graines
-
-à albumen lisse, non alvéolé.
+Annual or perennial herbs; stem erect to ascending or prostrate, with numerous ramifications (paraclades) or little branched, glabrous or pubescent, quadrangular. Leaves opposite, cauline, sessile; blade orbicular to oval or lanceolate to linear-filiform, acuminate to obtuse at the apex, with margin dentate to crenate or entire; venation palmate. Inflorescences terminal or sometimes axillary, racemose in form, lax or dense, each floriferous node bearing 1 or 2 flowers. Flowers pedicellate, sometimes cleistogamous sessile flowers present; calyx 5-lobed, with lobes equal; corolla zygomorphic, with upper lip entire or bipartite, lower lip tripartite, without palate; stamens 4, the anterior (abaxial) ones with filaments either incurved in Z-form and forming geniculate appendages covered with glandular hairs and papillae, or reduced with incurved or narrow staminodes, those of the posterior (adaxial) stamens straight, anthers with 2 equal thecae; ovary glabrous; stigma bilobed. Fruits capsular, septicide-septifrague. Seeds with smooth albumen, not alveolate.
 
 ---
 
 ---
 
-Genre comprenant 30 espèces, réparties en Europe, en Afrique, en Asie et en Amérique ;
+Genus comprising 30 species, distributed in Europe, Africa, Asia and America; in Gabon, two species.
 
-au Gabon, deux espèces.
+Bibliography: Fischer (1992, 1999), Fischer et al. (2013), Lewis (2000), Philcox (1968).
 
-B : Fischer (1992, 1999), Fischer et al. (2013), Lewis (2000), Philcox (1968).
+### Key to species
 
-ibliographie
-
-### Clé des espèces
-
-1. - Limbe ovale à orbiculaire ; bractées foliacées ; tige prostrée à ascendante
+1. - Blade oval to orbicular; bracts foliaceous; stem prostrate to ascending
 
 ............................................................................................................. L. rotundifolia
 
-- Limbe étroitement lancéolé à oblancéolé ou ovale ; bractées écailleuses ; tige
+- Blade narrowly lanceolate to oblanceolate or oval; bracts scaly; stem
 
-dressée ou parfois prostrée à ascendante ............................................... L. parviflora
+erect or sometimes prostrate to ascending ............................................... L. parviflora
 
 ## Species in region
 

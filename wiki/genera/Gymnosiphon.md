@@ -17,51 +17,23 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Mycoheterotrophic herbs ("saprophytic"), without chlorophyll, rhizomatous, with long filiform roots; stems simple or branched. Leaves reduced to scales, the basal ones absent. Inflorescence few-flowered to many-flowered, often bifurcate. Flowers trumpet-shaped, basal part of the perianth tubular, lobes 6, unequal, spreading, the external ones trilobed and much broader than the internal ones; lobes of the perianth, stamens and stigmas caducous and only the floral tube persisting; stamens sessile, connective without appendage; ovary unilocular, with parietal placentation, each placenta with 2 apical septal glands distinct and globose; style filiform, stigmas either infundibuliform and without appendages or horseshoe-shaped and each stigma with 2 fragile filiform appendages. Fruit with irregular dehiscence.
 
-Herbes mycohétérotrophes (« saprophytiques »), sans chlorophylle, rhizomateuses, avec
+Pantropical genus comprising approximately 25 species, most of which are neotropical and 7 in Africa; in Gabon, 3 species have been observed.
 
-des longues racines filiformes ; tiges simples ou ramifiées. Feuilles réduites à des écailles,
+B: Cowley (1988), Jonker (1938), Maas et al. (1986), Merckx (2008).
 
-les basilaires absentes. Inflorescence pauciflore à multiflore, souvent bifurquée. Fleurs en
+### Key to species
 
-forme de trompette, partie basale du périgone tubuleuse, lobes 6, inégaux , étalés , les ex -
+1. – Perianth tube approximately 12 mm in length; stigmas without filiform appendages; flowers sessile ............................................................................ G. bekensis
 
-ternes trilobés et beaucoup plus larges que les internes ; lobes du périgone, étamines
+– Perianth tube 1–5 mm in length; stigmas provided with filiform appendages; floral pedicel 1–4 mm in length ....................................................................... 2
 
-et stigmates caducs et seul le tube floral persistant ; étamines sessiles, connectif sans
-
-appendice ; ovaire uniloculaire, à placentation pariétale, chaque placenta à 2 glandes sep -
-
-tales apicales distinctes et globuleuses ; style filiforme, stigmates soit infundibuliformes
-
-et sans appendices ou bien en forme de fer à cheval et chaque stigmate à 2 appendices
-
-filiformes fragiles . Fruit à déhiscence irrégulière.
-
-Genre pantropical comprenant environ 25 espèces, dont la plupart néotropicales et 7 en
-
-Afrique ; au Gabon, 3 espèces ont été observées.
-
-B : Cowley (1988), Jonker (1938), Maas et al. (1986), Merckx (2008).
-
-ibliographie
-
-### Clé des espèces
-
-1. - Tube du périgone environ 12 mm de longueur ; stigmates sans appendices fili-
-
-formes ; fleurs sessiles ............................................................................ G. bekensis
-
-- Tube du périgone 1–5 mm de longueur ; stigmates munis d’appendices filiformes ;
-
-pédicelle floral 1–4 mm de longueur ....................................................................... 2
-
-2. - Tube du périgone 1–2 mm de longueur, avec une constriction apicale
+2. – Perianth tube 1–2 mm in length, with an apical constriction
 
 .............................................................................................................. G. constrictus
 
-- Tube du périgone 2–5 mm de longueur, sans constriction apicale ..... G. longistylus
+– Perianth tube 2–5 mm in length, without apical constriction ..... G. longistylus
 
 ## Species in region
 

@@ -17,21 +17,15 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Perennial herbs with creeping base. Inflorescences in panicles with few branches each bearing up to 5 or 6 spikelets. Spikelets solitary or in pairs, rounded. Glumes similar, the lower shorter, with 3 or 5 nerves, the upper separated from the preceding by a distinct internode. Lower floret neuter; lemma very similar to the upper glume, palea shorter, hyaline. Upper floret hermaphrodite; lemma oblong lanceolate, apiculate, coriaceous, with a small depression at the base; palea similar. Two fleshy lodicules, 3 stamens, distinct styles.
 
-Herbes pérennes à base rampante. Inflorescences en panicules à branches peu nombreuses portant chacune jusqu'à 5 ou 6 épillets. Épillets solitaires ou par paires, arrondis. Glumes semblables, l'inférieure plus courte, à 3 ou 5 nervures, la supérieure séparée de la précédente par un entrenœud distinct. Fleur inférieure neutre; lemma très semblable à la glume supérieure, paléa plus courte, hyaline. Fleur supérieure hermaphrodite; lemma oblongue lancéolée, apiculée, coriace, creusée d'une petite dépression à la base; paléa semblable. Deux lodicules charnues, 3 étamines, styles distincts.
+Three species are known between Congo and Ivory Coast.
 
-On connaît trois espèces entre le Congo et la Côte-d'Ivoire.
+Two are recorded in Gabon:
 
-Deux sont signalées au Gabon :
+1. Spikelets 5 mm long or less, glumes with 3 nerves, panicle 2.5 to 4 cm long, with 2 or 3 branches ..... 1. C. mayumbense.
 
-1. Épillets de 5 mm de long ou moins, glumes à 3 nervures, panicule de
-
-2,5 à 4 cm de long, à 2 ou 3 ramifications ..... 1. C. mayumbense.
-
-1'. Épillets de 5 à 6 mm de long, glumes à 5 nervures, panicule jusqu'à
-
-25 cm de long à nombreuses branches..... 2. C. gabunense.
+1'. Spikelets 5 to 6 mm long, glumes with 5 nerves, panicle up to 25 cm long with numerous branches ..... 2. C. gabunense.
 
 ## Species in region
 

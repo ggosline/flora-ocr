@@ -17,17 +17,15 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Herbes monopodiales. Tige courte. Feuilles distiques, assez épaisses, charnues, linéaires, lobes obtus. Inflorescence dense, longue, étalée, multiflore. Fleurs petites, résupinées, charnues. Sépales et pétales dissemblables. Sépales assez densément ou subdensément couverts de
+Monopodial herbs. Stem short. Leaves distichous, rather thick, fleshy, linear, lobes obtuse. Inflorescence dense, long, spreading, multiflorous. Flowers small, resupinate, fleshy. Sepals and petals dissimilar. Sepals rather densely or subdensely covered with
 
 ---
 
 ---
 
-petites protubérances. Labelle ligulé, recourbé, muni d'un éperon. Éperon claviforme, obtus. Gynostème assez grêle. Stigmate grand, elliptique, profondément concave à la base. Anthère incombante, operculée, à parois minces. Pollinies 2, ellipsoïdes, porées. Rostellum court et massif, épais, charnu, ligulé. Viscidie unique, transversalement elliptique. Tegula double, mince, assez large. Rostellum tronqué après retrait du pollinarium. – Pl. 186, p. 403.
+small protuberances. Lip ligulate, curved back, provided with a spur. Spur claviform, obtuse. Gynostemium rather slender. Stigma large, elliptic, deeply concave at the base. Anther incumbent, operculate, with thin walls. Pollinia 2, ellipsoid, porate. Rostellum short and massive, thick, fleshy, ligulate. Viscidium single, transversely elliptic. Tegula double, thin, rather broad. Rostellum truncate after withdrawal of the pollinarium. – Pl. 186, p. 403.
 
-Genre monospécifique se trouvant en Afrique Occidentale tropicale.
+Monotypic genus found in tropical West Africa.
 
 ## Species in region
 

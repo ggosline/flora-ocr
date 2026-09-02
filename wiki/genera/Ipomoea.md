@@ -17,75 +17,25 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Herbs erect, creeping or climbing, sometimes lianioid, rarely shrubs.
 
-Herbes dressées, rampantes ou volubiles, parfois lianescentes, rarement arbustes .
+Leaves highly variable, simple or more rarely compound; blade entire, lobed or deeply divided, often cordate at the base. Inflorescences uni- to multiflorous, in axillary cymes, umbelliform, corymbiform or paniculate or in ± capitate heads, sometimes surrounded by a bracteate involucre. Flowers with sepals variable in shape and size, equal or unequal; corolla of variable colour, with throat often darker or lighter than the lobes; stamens equal or unequal, inserted near the base of the corolla tube, included, sometimes exserted; pollen grains echinulate; pistil with ovary 2–4(–5)-locular, 4-ovulate; style filiform, stigmas bilobed. Fruits globose to ovoid, dehiscent by 2–10 valves or by irregular tears. Seeds glabrous or pilose.
 
-Feuilles très variables, simples ou plus rarement composées ; limbe entier, lobé ou pro-
+Genus circumtropical, approximately 500 species, of which approximately 100 in Africa; in Gabon 9 indigenous species and 6 introduced species.
 
-fondément divisé, souvent cordé à la base. Inflorescences uni- à multiflores, en cymes
+Taxonomic note: The introduced species appear in the key below, in ordinary font, but are not treated.
 
-axillaires, ombelliformes, corymbiformes ou paniculiformes ou en têtes ± capituliformes,
+Among the six species introduced to Gabon, I. batatas L., the sweet potato, is the best known and bears the following vernacular names (Raponda-Walker & Sillans 1961):
 
-entourées parfois par un involucre bractéal. Fleurs à sépales variables en forme et en
+amóngha (fang), amóngó (bakèlè), égwèta (ivéa, mitsogo), émóngó (baduma), futa (mindumu), gémóngó (baléngi), imóngó (banzabi, béséki, ngowé), lémónghó (mindumu), lifita (bavili), lungu (bapunu), mbóngó (benga), móngó (balumbu, bavové), móngó y'onigi (mpongwè, nkomi, orungu), móngu (éshira, bavarama, bavungu), ofogola (galoa). It is cultivated for its tubers, with tender flesh and somewhat sweet. It is consumed boiled, fried, roasted in ashes, etc. The leaves of the red sweet potato crushed and macerated serve to hasten childbirth. The leaves of the various varieties are excellent fodder for livestock and one of the best foods for rabbits and guinea pigs. The young leaves are used as a spinach substitute. They are also used to dye fishing nets. Three varieties are distinguished:
 
-taille, égaux ou inégaux ; corolle de couleur variable, à gorge souvent plus foncée
+a) Red sweet potato: amóngha-étsogélé (fang), égwèta-a-gèga (mitsogo), mòngò-ntsingo (galoa, nkomi, orungu), móngó y'odjosola (mpongwè), mongu-bènga (bapunu), mongu-divwita (éshira).
 
-ou plus claire que les lobes ; étamines égales ou inégales, insérées vers la base du tube
+<<<---SECTION-BREAK--->>>
 
-de la corolle, incluses, parfois exsertes ; grains de pollen échinulés ; pistil à ovaire
+b) Yellow sweet potato: amongha-atsü (fang), diki-di-kóku (éshira), idiki-dya-kókó (mitsogo), iké-nyi-ndjógóni (galoa, nkomi, orungu), móngó y'iwèló (mpongwè).
 
-2–4(–5)-loculaire, 4-ovulé ; style filiforme, stigmates biglobuleux. Fruits globuleux à
-
-ovoïdes, déhiscents par 2–10 valves ou par déchirures irrégulières . Graines glabres
-
-ou pileuses .
-
-Genre circumtropical, environ 500 espèces, dont environ 100 en Afrique ; au Gabon 9
-
-espèces indigènes et 6 espèces introduites.
-
-Note taxonomique : Les espèces introduites figurent dans la clé ci-dessous, en police ordi -
-
-naire, mais ne sont pas traitées.
-
-Parmi les six espèces introduites au Gabon, I. batatas L., la patate douce, est la mieux
-
-connue et porte les noms vernaculaires suivants (Raponda-Walker & Sillans 1961) :
-
-amóngha (fang), amóngó (bakèlè), égwèta (ivéa, mitsogo), émóngó (baduma), futa (min-
-
-dumu), gémóngó (baléngi), imóngó (banzabi, béséki, ngowé), lémónghó (mindumu), lifi -
-
-ta (bavili), lungu (bapunu), mbóngó (benga), móngó (balumbu, bavové), móngó y’onigi
-
-(mpongwè, nkomi, orungu), móngu (éshira, bavarama, bavungu), ofogola (galoa). Elle
-
-est cultivée pour ses tubercules, à chair tendre et un peu sucrée. Elle se consomme bouil-
-
-lie, frite, grillée sous la cendre, etc. Les feuilles de la patate rouge écrasées et macérées
-
-servent à hâter les accouchements. Les feuilles des diverses variétés sont un excellent
-
-fourrage pour le bétail et une des meilleures nourritures pour les lapins et les cobayes.
-
-Les jeunes feuilles sont utilisées en guise d’épinard. Elles servent également à teindre les
-
-filets de pêche. Trois variétés sont distinguées :
-
-a) Patate rouge : amóngha-étsogélé (fang), égwèta-a-gèga (mitsogo), mòngò-ntsingo
-
-(galoa, nkomi, orungu), móngó y’odjosola (mpongwè), mongu-bènga (bapunu), mongu-
-
-divwita (éshira).
-
----
-
-b) Patate jaune : amongha-atsü (fang), diki-di-kóku (éshira), idiki-dya-kókó (mitsogo),
-
-iké-nyi-ndjógóni (galoa, nkomi, orungu), móngó y’iwèló (mpongwè).
-
-c) Patate violette : amóngha-ntangha (fang), égwèta-a-gém-bindo (mitsogo), móngó-a-
+c) Purple sweet potato: amóngha-ntangha (fang), égwèta-a-gém-bindo (mitsogo), móngó-a-
 
 ## Species in region
 

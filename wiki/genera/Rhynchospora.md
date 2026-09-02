@@ -17,73 +17,29 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Herbes annuelles ou vivaces, de taille très variable ; base formée d’un rhizome ligneux
-
-court ou peu développé, parfois stolonifère. Feuilles nombreuses, parfois très serrées à la
-
-base, parfois bien espacées le long de la tige ; gaines tubuleuses ; ligule absente ou peu
-
-développée ; limbes larges ou étroits, habituellement raides, avec de minuscules dents
-
-épineuses le long de la marge. Inflorescence habituellement paniculée, souvent avec les
-
-rameaux se terminant en corymbes. Épillets sessiles ou pétiolés, ovales à étroitement
-
-lancéolés, aigus ou obtus, brun ± foncé (rarement blancs), avec les glumes disposées
+Annual or perennial herbs, of highly variable size; base formed by a short woody rhizome or poorly developed, sometimes stoloniferous. Leaves numerous, sometimes very densely packed at the base, sometimes well spaced along the stem; tubular sheaths; ligule absent or poorly developed; blades wide or narrow, usually stiff, with minute spinous teeth along the margin. Inflorescence usually paniculate, often with branches terminating in corymbs. Spikelets sessile or petiolate, ovate to narrowly lanceolate, acute or obtuse, ± dark brown (rarely white), with glumes arranged
 
 ---
 
-Bourgeon produisant une nouvelle branche. – C. B. Base du limbe et orifice de la gaine. – C. Partie
+Bud producing a new branch. – C. B. Base of the blade and opening of the sheath. – C. Part
 
-Inflorescence. – D. Épillet. – E. Glume avec sa de l’inflorescence. – D. Épillet. – E. Épillet sans
+Inflorescence. – D. Spikelet. – E. Glume with its of the inflorescence. – D. Spikelet. – E. Spikelet without
 
-fleur. – F. Épillet montrant un jeune fruit. – G. Fruit. les 5 écailles inférieures. – F. Fleur. – G. Fruit avec
+flower. – F. Spikelet showing a young fruit. – G. Fruit. the 5 lower scales. – F. Flower. – G. Fruit with
 
-Dessin original par Richard W. Haines ©. segments du périanthe et 2 filets. Dessin original par
+Original drawing by Richard W. Haines ©. perianth segments and 2 filaments. Original drawing by
 
 Richard W. Haines ©.
 
-en spirale ; dans la plupart des espèces, les 3–5 glumes inférieures sont vides (sté-
+in a spiral; in most species, the 3–5 lower glumes are empty (sterile), the 1–40 following glumes bear bisexual flowers, while the upper ones are exclusively male. Flowers: perianth (in our species) absent or formed by 6 bristles with minute antrorse spinous teeth, bristles shorter or longer than the achene; stamens 2–3; ovary with a long style slightly bifid at the apex or with two long branches. Achene obovate, oblanceolate, urceolate or nearly square, white, grey or brownish, transversely undulate or smooth; base of the persistent style forming a conical or flattened cap, sometimes covering the sides of the achene; top of the persistent pedicel beneath the achene; embryo of the Carex type.
 
-riles), les 1–40 glumes suivantes ont des fleurs bisexuées , tandis que les supérieures
+Genus comprising approximately 250 species widely distributed in the world, especially in tropical and subtropical America; 8 present in Gabon in humid habitats, often in marshes and wet meadows.
 
-sont uniquement mâles. Fleurs : périanthe (dans nos espèces) absent ou formé de 6 soies
-
-ayant de minuscules dents épineuses antrorses, soies plus courtes ou plus longues que
-
-l’akène ; étamines 2–3 ; ovaire avec un long style légèrement bifide à l’extrémité ou avec
-
-deux longues branches. Akène obovale, oblancéolé, urcéolé ou presque carré, blanc, gris
-
-ou brunâtre, ondulé transversalement ou lisse ; base du style persistant en une coiffe
-
-conique ou aplatie, couvrant parfois les côtés de l’akène ; haut du pédicelle persistant
-
-sous l’akène ; embryon du type Carex .
-
-Genre comprenant environ 250 espèces largement répandues dans le monde, surtout en
-
-Amérique tropicale et subtropicale ; 8 présentes au Gabon dans des habitats humides,
-
-souvent dans les marécages et les prairies humides.
-
-Note taxonomique : Rhynchospora est étroitement lié à Tetraria connue de l’Afrique
-
-orientale et australe, mais il en diffère par le style à 2 branches. Les espèces africaines
-
-sont parfois classées en deux sections : les Haplostyleae avec le style entier ou légèrement
-
-bifide à l’extrémité seulement ( R. rubra, R. holoschoenoides, R. corymbosa et R. triflora )
-
-et les Diplostyleae avec le style profondément bifide ( R. candida, R. brownii, R. perrieri,
-
-R. eximia et R. gracillima ).
+Taxonomic note: Rhynchospora is closely related to Tetraria known from eastern and southern Africa, but differs from it by the 2-branched style. African species are sometimes classified into two sections: the Haplostyleae with the style entire or only slightly bifid at the apex (R. rubra, R. holoschoenoides, R. corymbosa and R. triflora) and the Diplostyleae with the style deeply bifid (R. candida, R. brownii, R. perrieri, R. eximia and R. gracillima).
 
 ---
 
-b : Haines & Lye (1983), Hoenselaar et al. (2010), Hooper (1972), Lye
+b: Haines & Lye (1983), Hoenselaar et al. (2010), Hooper (1972), Lye
 
 ## Species in region
 

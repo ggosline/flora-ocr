@@ -16,77 +16,71 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Terrestrial or epiphytic ferns, with creeping or erect rhizome, covered with clathrate scales. Petiole non-articulate, bearing at the base 2 vascular cords united higher up. Frond simple, or pinnate to quadripinnate, generally glabrous, with channelled rachis, lamina decurrent on it. Veins generally free, forked. Sori elongate, on one side of the vein, protected by an indusium attached to it. Spores with perispore.
 
-Fougères terrestres ou épiphytes, à rhizome rampant ou dressé, couvert d'écailles clathrées. Pétiole non articulé, portant, à la base, 2 cordons vasculaires réunis plus haut. Fronde simple, ou pennée à quadripennée, généralement glabre, à rachis canaliculé, limbe décurrent sur lui. Nervures généralement libres, furquées. Sores allongés, sur un côté de la nervure, protégés par une indusie attachée sur elle. Spores avec périspore.
+Type species: Asplenium trichomanes L.
 
-Espèce type : Asplenium trichomanes L.
+Genus very homogeneous, comprising about 700 species; throughout the globe; 21 in Gabon.
 
-Genre très homogène, comprenant environ 700 espèces; sur tout le globe; 21 au Gabon.
+1. Several veins per segment, sori oblique with respect to the median vein; lamina entire or variously pinnate (s. s. genus Asplenium).
 
-1. Plusieurs nervures par segment, sores obliques par rapport à la nervure médiane; limbe entier ou diversement penné (s. s. genre Asplenium).
+2. Frond entire.
 
-2. Fronde entière.
+3. Rhizome erect; epiphytic ferns, frond not proliferous at the apex.
 
-3. Rhizome dressé; fougères épiphytes, fronde non prolifère au sommet.
+4. Frond reaching 8 cm wide, long-petiolate; sori thin and close together..... 1. A. africanum.
 
-4. Fronde atteignant 8 cm de large, longuement pétolée; sores min-
+4'. Frond strap-shaped, reaching 3–4 cm wide, long-caudate; sori thick and spaced..... 2. A. subintegrum.
 
-ces et rapprochés..... 1. A. africanum.
-
-4'. Fronde loriforme, atteignant 3-4 cm de large, longuement caudée;
-
-sores épais et espacés..... 2. A. subintegrum.
-
-3'. Rhizome rampant; fougères terrestres; fronde membraneuse, dentée, souvent prolifère au sommet. 3. A. variabile var. variabile.
+3'. Rhizome creeping; terrestrial ferns; frond membranous, dentate, often proliferous at the apex. 3. A. variabile var. variabile.
 
 ---
 
-2'. Fronde uni ou pluripennée.
+2'. Frond unipinnate or pluripinnate.
 
-5. Fronde unipennée.
+5. Frond unipinnate.
 
-6. Pennes toutes adnées, décurrentes en une aile le long du rachis.
+6. Pinnae all adnate, decurrent in a wing along the rachis.
 
 4. A. Hallei.
 
-6'. Pennes non adnées.
+6'. Pinnae not adnate.
 
-7. Pas de penne terminale, rachis terminé par un long flagelle.
+7. No terminal pinna, rachis terminated by a long flagellum.
 
 5. A. vagans.
 
-7'. Présence d'une penne terminale semblable ou non aux latérales.
+7'. Presence of a terminal pinna similar or not to the lateral ones.
 
-8. Penne terminale scmblable aux latérales.
+8. Terminal pinna similar to the lateral ones.
 
-9. Penne terminale non prolifère; pennes en éventail. 6. A. Laurentii.
+9. Terminal pinna not proliferous; pinnae fan-shaped. 6. A. Laurentii.
 
-9'. Penne terminale, au moins, prolifère; pennes ovales ou oblongues.
+9'. Terminal pinna, at least, proliferous; pinnae oval or oblong.
 
-10. Penne terminale seule prolifère.
+10. Terminal pinna alone proliferous.
 
-II. Pennes latérales 1-4 paires; sores minces.....
+11. Lateral pinnae 1–4 pairs; sori thin.....
 
 3 bis. A. variabile var. paucijugum.
 
-II'. Pennes latérales jusqu'à 10-12 paires; sores épais et courts..... 7. A. Geppi.
+11'. Lateral pinnae up to 10–12 pairs; sori thick and short..... 7. A. Geppi.
 
-10'. Pennes latérales aussi prolifères, oblongues, abruptement acuminées..... 8. A. Annetii.
+10'. Lateral pinnae also proliferous, oblong, abruptly acuminate..... 8. A. Annetii.
 
-8'. Penne terminale non semblable aux latérales.
+8'. Terminal pinna not similar to the lateral ones.
 
-12. Fronde gemmifère à la base de la penne terminale.
+12. Frond gemmiferous at the base of the terminal pinna.
 
-13. Rachis ailé, extrémité de la fronde brusquement rétrécie, linéaire, en « queue de rat ». ..... 9. A. Barteri.
+13. Rachis winged, apex of the frond abruptly narrowed, linear, in "rat's tail". ..... 9. A. Barteri.
 
-13'. Rachis non aile. Pennes progressivement décroissantes vers le sommet de la fronde..... 10. A. macrophagebium.
+13'. Rachis not winged. Pinnae progressively decreasing towards the apex of the frond..... 10. A. macrophagebium.
 
-12'. Fronde non gemmifère.
+12'. Frond not gemmiferous.
 
-14. Pennes latérales dimidiées, le costa bordant, au moins en partie, la marge inférieure; marge supérieure lobée ou laciniée..... II. A. formosum.
+14. Lateral pinnae dimidiate, the costa bordering, at least in part, the lower margin; upper margin lobed or laciniate..... 11. A. formosum.
 
-14'. Pennes latérales non dimidiées, mais oblongues, inéquilatréales ou trapézoïdo-rhomboïdales, la penne terminale souvent trilobée.
+14'. Lateral pinnae not dimidiate, but oblong, inequilateral or trapezoid-rhomboidal, the terminal pinna often trilobed.
 
 ## Species in region
 

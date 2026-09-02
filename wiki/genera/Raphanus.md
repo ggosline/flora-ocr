@@ -17,13 +17,11 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Annual or biennial herbs, hapaxanthous, ± hispid with simple hairs, with leafy stem. Leaves lyrate-pinnatifid; cotyledons presenting a deep sinus.
 
-Herbes annuelles ou bisannuelles, hapaxanthes, ± hispides à poils simples, à tige feuillée. Feuilles lyriformes-pennatipartites ; cotylédons présentant un profond sinus.
+Terminal racemes without bracts, ± corymbiform with rather numerous and relatively large flowers. Fruit cluster elongated. Sepals erect, the inner ones broader and ± sacciform; Petals white, yellow or violaceous, with oval and unguiculate limb. Stamens 6 with straight filaments. Lateral nectaries very small, the median ones hemispheric or cylindric. Ovary subulate biarticular, of which the lower article is very short while the upper article is long and contains in its lower part few or more ovules. Silique biarticular; lower article dehiscent into 2 valves, either very short and aspermic, or reduced; upper article indehiscent and caducous, torulose or flexuous, with transverse septa separating each seed.
 
-Grappes terminales sans bractées, ± corymbiformes à fleurs assez nombreuses et relativement grandes. Infrutescence allongée. Sépales dressés, les internes plus larges et ± sacciformes ; Pétales blancs, jaunes ou violacés, à limbe ovale et onguiculé. Étamines 6 à filets droits. Nectaires latéraux très petits, les médians hémisphériques ou cylindriques. Ovaire subulé biarticulé dont l'article inférieur est très court tandis que l'article supérieur est long et contient dans sa partie inférieure quelques ovules ou davantage. Silique biarticulé ; article inférieur déhiscent en 2 valves, soit très court et asperme, soit réduit ; article supérieur indéhiscent et caduc, toruleux ou flexueux, cloisons transversales séparant chaque graine.
-
-ESPÈCE-TYPE : Raphanus sativus L.
+TYPE SPECIES: Raphanus sativus L.
 
 ## Species in region
 

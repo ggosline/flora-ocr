@@ -17,11 +17,9 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Slender stem, erect with linear, linear-lanceolate leaves. Inflorescence elongated, rather lax. Flowers resupinate, rather small. Sepals fine, glabrous, apex thickened. Petals glabrous, unequally bipartite. Labellum trilobed from the base, finely pubescent. Spur < pedicel + ovary. Antherophones = 1/2 length of rostellophones, fused to them apically. Rostellum trilobed: median lobe triangular, massive < connective, the lateral ones digitate, slightly sigmoid. Stigmaphones canaliculate, external face papillose, apical region dilated into a sort of plateau. Pollinating agent unknown. – Pl. 21, p. 50.
 
-Tige grêle, dressée à feuilles linéaires, linéaires-lancéolées. Inflorescence allongée, assez lâche. Fleurs résupinées, assez petites. Sépales fins, glabres, sommet épaissi. Pétales glabres, inégalement bipartites. Labelle trilobé depuis la base, finement pubescent. Éperon < pédicelle + ovaire. Anthérophores = 1/2 longueur des rostellophores, soudés à eux apicalement. Rostellum trilobé : lobe médian triangulaire, massif < connectif, les latéraux digités, légèrement sigmoïdes. Stigmaphores canaliculés, face externe papilleuse, région apicale dilatée en une sorte de plateau. Agent de pollinisation inconnu. – Pl. 21, p. 50.
-
-### Genre ayant une seule espèce endémique au Gabon.
+### Genus having a single species endemic to Gabon.
 
 ## Species in region
 

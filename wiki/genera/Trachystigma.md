@@ -16,23 +16,19 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 in DE CANDOLLE A. & C., Mon. Phan. 5 (1): 131 (1883); BAKER J.G. & CLARKE C.B., FTA 4 (2): 503 (1906); BURTT, Fl. Cam. 27: 24, tab. 4, fig. 2-3 (1984).
 
 - Roettlera VAHL sect. Trachystigma (C.B. Cl.) K. FRITSCH, in ENGL. & PRANTL, Nat. Pflanzenfam. 4 (3B): 148 (1895).
 
-Herbes unifeuillées, comme Acanthonema.
+Herbs unifoliate, as in Acanthonema.
 
-Inflorescences se présentant en séries acropètes, au sommet de l'hypocotyle et à la base de la nervure ; pédoncule non ramifié de 5 cm, sans bractée à la base ; cymes à fleurs par paires, ramifiées unilatéralement dans la partie supérieure. Pédicelles aussi longs, ou plus longs que les fleurs. Calice divisé tout près de la base, en 5 segments. Corolle avec un tube court, large, élargi dans la partie supérieure ; lobes 5, arrondis, subégaux ou les 2 supérieurs beaucoup plus petits. Disque unilatéral, oblique, nettement plus court que l'ovaire. Étamines fertiles 2 ; filets provenant d'environ ou juste sous le milieu du tube de la corolle habituellement prolongés au-delà des anthères en une dent aiguë ; thèques des anthères divariquées. Staminode une, filiforme. Ovaire cylindrique, uniloculaire, à placentas lamellaires révolutés ; style aussi long que l'ovaire, stigmate bifide.
+Inflorescences arranged in acropetal series, at the apex of the hypocotyl and at the base of the nerve; peduncle unbranched, 5 cm long, without a bract at the base; cymes with flowers in pairs, branched unilaterally in the upper part. Pedicels as long as or longer than the flowers. Calyx divided very close to the base, into 5 segments. Corolla with a short, wide tube, expanded in the upper part; lobes 5, rounded, subequal or the 2 upper ones much smaller. Disk unilateral, oblique, distinctly shorter than the ovary. Fertile stamens 2; filaments arising from about or just below the middle of the corolla tube, usually extended beyond the anthers into an acute tooth; anther sacs divaricate. Staminode one, filiform. Ovary cylindrical, unilocular, with revolute lamellate placentas; style as long as the ovary, stigma bifid.
 
-### Capsule cylindrique, contenue à la base dans le calice.
+### Capsule cylindrical, enclosed at the base in the calyx.
 
-ESPÈCE-TYPE : Trachystigma mannii C.B. Cl.
+TYPE SPECIES: Trachystigma mannii C.B. Cl.
 
-Le genre est monospécifique et endémique du Gabon. Il a une ressemblance superficielle avec Streptocarpus LINDL., mais il est facilement distinguable par le fruit rectiligne, le disque unilatéral, et la dent apicale sur le filet.
-
----
+The genus is monospecific and endemic to Gabon. It has superficial resemblance to Streptocarpus LINDL., but it is easily distinguishable by the straight fruit, the unilateral disk, and the apical tooth on the filament.
 
 ## Species in region
 

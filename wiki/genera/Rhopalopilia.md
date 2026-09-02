@@ -17,29 +17,25 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Scrambling shrubs or lianas. Leaves shortly petiolate. Inflorescences in axillary racemes or in umbels with claviform rachis or thickened at the base of the pedicels. Bracts caducous, small. Flowers ♀ tetra- or pentamerous with claviform receptacle. Calyx small. Corolla inserted on the receptacle, reflexed and caducous. Disk in the form of free glands between themselves or weakly fused, alternate-petaled. Stamens epipetalous with short, flattened filament. Anthers introrse. Ovary superior, small, with 1 pendulous ovule from an erect central placenta.
 
-Arbustes sarmenteux ou lianescents. Feuilles courtement pétiolées. Inflorescences en grappes axillaires ou en ombelles à rachis claviforme ou épaissi à la base des pédicelles. Bractées caduques de petite taille. Fleurs ♀ tétra- ou pentamères à réceptacle claviforme. Calice de petite taille. Corolle insérée sur le réceptacle, réfléchie et caduque. Disque sous forme de glandes libres entre elles ou faiblement soudées, alternipétales. Étamines épipétales à filet court, aplat. Anthères introrses. Ovaire supère petit à 1 ovule pendant d'un placenta central dressé.
+Type species: R. pallens Pierre.
 
-Espèce-type : R. pallens Pierre.
+This African endemic genus comprises 4 species.
 
-Ce genre endémique africain compte 4 espèces.
+1. Inflorescence in a raceme.
 
-1. Inflorescence en grappe.
+2. Inflorescence with rachis thickened around the base of the pedicels; base of limb strongly cordate; petiole 1–2 mm long ..... 1. R. hallei.
 
-2. Inflorescence à rachis épaissi autour de la base des pédicelles; base du limbe fortement cordée; pétiole long de 1-2 mm..... 1. R. hallei.
+2'. Inflorescence with claviform rachis; base of limb rounded or attenuate; petiole 2–6 mm long ..... 2. R. pallens.
 
-2'. Inflorescence à rachis claviforme; base du limbe arrondie ou atténuée; pétiole long de 2-6 mm ..... 2. R. pallens.
+1'. Inflorescence in an umbel.
 
-1'. Inflorescence en ombelle.
+3. Vegetative apparatus and rachis pubescent; stamens exceeding the corolla .....
 
-3. Appareil végétatif et rachis pubescents; étanines dépassant la corolle .....
-
-3'. Appareil végétatif et rachis glabres; étamines ne dépassant pas les pétales .....
+3'. Vegetative apparatus and rachis glabrous; stamens not exceeding the petals .....
 
 4. R. altescandens.
-
----
 
 ## Species in region
 

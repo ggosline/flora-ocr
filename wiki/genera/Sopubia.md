@@ -17,55 +17,17 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Herbes annuelles ou vivaces ou sous-arbrisseaux, hémiparasites , glabres ou légère-
-
-ment scabre-pubescentes ; tiges généralement dressées ou ascendantes, cylindriques
-
-ou quadrangulaires dans leur partie supérieure, lignifiées à la base dans les vivaces,
-
-parcourues de bandes longitudinales de poils courts alternant avec des bandes glabres,
-
-cet arrangement s'inversant à chaque entrenœud. Feuilles opposées ou verticillées ou
-
-parfois alternes, surtout dans la partie supérieure de la tige ou dans ses branches,
-
-sessiles ; limbe entier ou pennatiséqué avec des segments linéaires à filiformes , ner-
-
-vure médiane et marge dotée d’une rangée de poils courts, recourbés et portés par des
-
-coussinets blancs translucides, souvent seulement visibles après dessiccation. Inflores -
-
-cences terminales, en forme de racème, lâche à plus ou moins dense ; bractées présentes.
-
-Fleurs pédicellées, à 2 bractéoles ; calice campanulé, à 5 lobes égaux, valvaires, étroi-
-
-tement à largement triangulaires ; corolle rotacée, pourpre, rose ou blanche, à tube
-
-court, à 5 lobes entiers et subégaux ; étamines 4, didynames, toutes cohérentes jusqu’
-
-à la déhiscence des thèques inégales, l’une fertile et l’autre stérile, plus petite, vide,
-
-thèque fertile pileuse sur les deux marges de sa ligne de déhiscence ; ovaire ovoïde
-
-ou subglobuleux, glabre ; style recourbé, filiforme, stigmate en forme de massue. Fruits
-
-capsulaires, à déhiscence loculicide, émarginé-arrondis au sommet, glabres. Graines
-
-nombreuses, à testa réticulé.
+Annual or perennial herbs or subshrubs, hemiparasitic, glabrous or slightly scabrous-pubescent; stems generally erect or ascending, cylindrical or quadrangular in their upper part, lignified at the base in perennials, traversed by longitudinal bands of short hairs alternating with glabrous bands, this arrangement reversing at each internode. Leaves opposite or whorled or sometimes alternate, especially in the upper part of the stem or in its branches, sessile; blade entire or pinnatipartite with linear to filiform segments, midvein and margin bearing a row of short, recurved hairs borne on white translucent cushions, often only visible after desiccation. Inflorescences terminal, racemose in form, lax to more or less dense; bracts present. Flowers pedicellate, with 2 bracteoles; calyx campanulate, with 5 equal, valvate, narrowly to broadly triangular lobes; corolla rotate, purple, pink or white, with short tube, with 5 entire and subequal lobes; stamens 4, didynamous, all coherent until dehiscence of unequal theca, one fertile and the other sterile, smaller, empty, fertile theca pilose on both margins of its dehiscence line; ovary ovoid or subglobulous, glabrous; style recurved, filiform, stigma clavate. Capsular fruits, with loculicidal dehiscence, emarginate-rounded at the apex, glabrous. Seeds numerous, with reticulate testa.
 
 ---
 
 ---
 
-Genre d’environ 25 à 30 espèces qui sont répandues en Afrique, en Asie et Australie tro-
+Genus of approximately 25 to 30 species which are distributed in tropical Africa, Asia and Australia; in Gabon, one species.
 
-picale ; au Gabon, une espèce.
+B: Hansen (1975b), Hofmann & Fischer (1998, 2004).
 
-B : Hansen (1975b), Hofmann & Fischer (1998, 2004).
-
-ibliographie
+ibliography
 
 ## Species in region
 

@@ -17,23 +17,15 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Herbaceous plants with erect stems generally short, scapiform or almost absent. Leaves all radical or alternate and gathered towards the apex of the branches, entire or crenate.
 
-Plantes herbacées à tiges dressées en général courtes, scapi-
+Inflorescences in solitary or not solitary spikes, slender cylindrical; axillary peduncles rigid and covered with small imbricate papyraceous or glumaceous bracts. Flowers bracteolate, small, white or purple. 5 sepals of which 2 anterior ± connate, ± equal, acuminate. Corolla with slender cylindrical tube, with obscurely bilabiate limb, with lobes imbricate in bud. 2 stamens inserted near the throat of the corolla, included, with very short filaments; anthers with 2 parallel locules, generally 2 staminodes. Disk indistinct; ovary having 6-10 ovules per locule, on 2 rows; stigma bilobed.
 
-formes ou presque nulles. Feuilles toutes radicales ou alternes et
+Capsule oblong-linear, contracted at the base, rostrate, oligospermous; seeds small.
 
-rassemblées vers le sommet des ramifications, entières ou cré-
+Type species: Elytraria virgata Michaux, from North America (nom. illeg.; = Elytraria carolinensis (J. F. Gmel.) Pers.).
 
-nelées.
-
-Inflorescences en épis solitaires ou non, effilés cylindriques; pédoncules axillaires rigides et couverts de petites bractées imbriquées papyracées ou glumacées. Fleurs bractéolées, petites, blanches ou pourpres. 5 sépales dont 2 antérieurs ± soudés, ± égaux, acuminés. Corolle à tube cylindrique effilé, à limbe obscurément bilabié, à lobes imbriqués dans le bouton. 2 étamines insérées près de la gorge de la corolle, incluses, à filets très court; anthères à 2 loges parallèles, en général 2 staminodes. Disque indistinct; ovaire ayant 6-10 ovules par loge, sur 2 rangs; stigmate bilobé.
-
-Capsule oblongue-linéaire, contractée à la base, rostrée, oligosperme; graines petites.
-
-Espèce type : Elytraria virgata Michaux, d'Amérique du Nord (nom. illeg.; = Elytraria carolinensis (J. F. Gmel.) Pers.).
-
-Genre pantropical, dont la taxinomie est compliquée par une grande variabilité des espèces qui ont une certaine tendance à former des races locales. Bremekamp indique six espèces en Amérique tropicale et une seule espèce paléotropicale.
+Pantropical genus, whose taxonomy is complicated by great variability of the species which have a certain tendency to form local races. Bremekamp indicates six species in tropical America and a single paleotropical species.
 
 ## Species in region
 

@@ -17,71 +17,33 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Lianes or lianescent shrubs. Leaves trifoliolate or simple (unifoliolate), opposite or subopposite, sometimes ternate; blade with domatia often present beneath in the axils of lateral veins. Inflorescences cymose, multi- to pauciflorous, sometimes with a solitary flower. Flowers fragrant; calyx tubular to cupular, with 5 to 10(–11) lobes often ± subulate, or barely lobed, sometimes undulate; corolla glabrous, white, sometimes yellowish, slightly pinkish or red, clearly tubular, with 5 to 9 imbricate lobes; stamens with very short filaments inserted on the corolla tube near the throat, anthers introrse, often apiculate; style short or long (heterostylous flowers), either as long as the corolla tube or as half the tube, with bilobed stigma, the lobes generally remaining joined. Fruit a bilobed or ± spherical berry, with 1 or 2 seeds. Seeds without albumen.
 
-Lianes ou arbustes lianescents. Feuilles trifoliolées ou simples (unifoliolées) , opposées ou
-
-subopposées, parfois ternées ; limbe à domaties souvent présentes dessous dans les aisselles
-
-des nervures latérales. Inflorescences cymeuses , multi- à pauciflores, parfois à fleur solitaire.
-
-Fleurs odorantes ; calice tubulaire à cupulaire, avec 5 à 10(–11) lobes souvent ± subulés, ou à
-
-peine lobé, parfois ondulé ; corolle glabre, blanche, parfois jaunâtre, un peu rosâtre ou rouge,
-
-nettement tubulaire, avec 5 à 9 lobes imbriqués ; étamines à filets très courts insérés sur le
-
-tube de la corolle près de la gorge, anthères introrses, souvent apiculées ; style court ou long
-
-( fleurs hétérostylées ), soit aussi long que le tube de la corolle ou que la moitié du tube, à
-
-stigmate bilobé, les lobes en général demeurant joints. Fruit une baie bilobée ou ± sphérique,
-
-avec 1 ou 2 graines. Graines sans albumen.
-
-Genre de l’Ancien Monde tropical et des régions tempérées chaudes, à environs 200 espèces,
-
-dont 25 à 30 en Afrique, souvent avec des distributions d’une assez grande étendue ; au Gabon
-
-six espèces dont deux endémiques.
+Genus of the Old World tropical and warm temperate regions, with approximately 200 species, of which 25 to 30 in Africa, often with rather extensive distributions; in Gabon six species of which two are endemic.
 
 ---
 
 Jasminum 3
 
-Notes : J. bakeri Scott-Elliot figure dans la clé des espèces, mais n’est pas traité. Cette espèce de l’Afrique
+Notes: J. bakeri Scott-Elliot appears in the key to species, but is not treated. This West African species has been recorded in southern Cameroon and is fairly common in the Democratic Republic of the Congo. Its presence in eastern Gabon is probable. Alongside the six indigenous species (see also note under J. pauciflorum Benth.), J. floribundum Fresen. is also found in Gabon, but only as a cultivated ornamental plant.
 
-de l’Ouest a été signalée dans le Sud du Cameroun et elle est assez commune dans la République
+Bibliography
 
-démocratique du Congo. Sa présence dans l’Est du Gabon est probable. À côté des six espèces indigènes
+Green (2004), Kupicha (1983), Liben (1973), Turrill (1952).
 
-(voir aussi note sous J. pauciflorum Benth.), on trouve aussi J. floribundum Fresen. au Gabon, mais seu -
+### Key to species
 
-lement comme plante ornementale cultivée.
+1. - Leaves trifoliolate ........................................................................................................... 2
 
-Bi : Green (2004), Kupicha (1983), Liben (1973), Turrill (1952).
+- Leaves simple (unifoliolate) ............................................................................................. 3
 
-B liographie
+2. - Inflorescence with peduncle > 10 mm, pubescent; calyx with distinct lobes, 1–2 mm in length; corolla 5-lobed (to be looked for in Gabon) ........................ J. bakeri Scott-Elliot
 
-### Clé des espèces
+- Inflorescence with peduncle 2–6 mm, sparsely puberulent; calyx with undulate margin or lobes < 0.5 mm; corolla 6-lobed ........................................................ J. nardydorum
 
-1. - Feuilles trifoliolées ......................................................................................................... 2
+3. - Leaves, at least some of them, ternate; petiole (6–)12–16(–21) mm; blade without domatia; flower with pedicel 1–3 mm ............................................ J. dichotomum
 
-- Feuilles simples (unifoliolées) ........................................................................................ 3
-
-2. - Inflorescence à pédoncule > 10 mm, pubescente ; calice à lobes distincts, 1–2 mm de
-
-longueur ; corolle 5-lobée (à rechercher au Gabon) ........................ J. bakeri Scott-Elliot
-
-- Inflorescence à pédoncule de 2–6 mm, éparsement pubérulente ; calice à bord ondulé
-
-ou à lobes < 0,5 mm ; corolle 6-lobée ...................................................... J. nardydorum
-
-3. - Feuilles, au moins certaines d’entre elles, ternées ; pétiole (6–)12–16(–21) mm ; limbe
-
-sans domaties ; fleur à pédicelle de 1–3 mm ............................................ J. dichotomum
-
-- Feuilles opposées ou subopposées ; pétiole jusqu’à 10 mm ; limbe sans ou avec
+- Leaves opposite or subopposite; petiole up to 10 mm; blade without or with
 
 ## Species in region
 

@@ -17,11 +17,9 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Genus dedicated to Simon Paulli, comprising approximately 150 American species and a single Afro-American one: Paullinia pinnata L.
 
-Genre dédié à Simon Paulli, comptant environ 150 espèces américaines et une seule afro-américaine : Paullinia pinnata L.
-
-Espèce-type : Paullinia pinnata L.
+Type species: Paullinia pinnata L.
 
 ## Species in region
 

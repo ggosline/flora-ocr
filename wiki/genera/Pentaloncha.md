@@ -16,19 +16,17 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Ref. cf. infra.
 
-Réf. cf. infra.
+Low plants. Stipules entire or more rarely bifid. Very strong anisophylly. Axillary inflorescences. Calyx lobes petaloid. Ovary with 2 locules. Placentas rounded, not emarginate, peltate. Seeds spherical.
 
-Plantes basses. Stipules entières ou plus rarement bifides. Anisophyllie très forte. Inflorescences axillaires. Lobes du calice pétaloïdes. Ovaire à 2 loges. Placentas arrondis, non émarginés, peltés. Graines sphériques.
-
-L'espèce type, P. humilis, est gabonaise. La seule autre espèce P. rubriflora R. Good (Journ. of Bot. 64, suppl. 2 : 8, 1926) du Mayombe portugais, différerait par ses lobes calycinaux bleutés veinés et par sa corolle rouge-pourpre. On doit exclure
+The type species, P. humilis, is Gabonese. The only other species P. rubriflora R. Good (Journ. of Bot. 64, suppl. 2: 8, 1926) from Portuguese Mayombe, would differ by its bluish veined calycinal lobes and by its red-purple corolla. One must exclude
 
 ---
 
 ---
 
-du genre le Pentaloncha (?) stipulosa (Hutch. et Dalz.) Bremekamp, d'Afrique occidentale, qui appartient au genre Poecilocalyx (cf. p. 230).
+from the genus the Pentaloncha (?) stipulosa (Hutch. et Dalz.) Bremekamp, from West Africa, which belongs to the genus Poecilocalyx (cf. p. 230).
 
 ## Species in region
 

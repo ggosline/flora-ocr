@@ -17,25 +17,23 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Shrubs with very unequal internodes, some slender and much elongated, others very crowded at the extremities. Stipules persistent, scarious. Leaves grouped in subarticulate tufts, deciduous. Domatia pubescent.
 
-Arbustes à entrenceuds très inégaux, les uns grêles très allongés, les autres très serrés aux extrémités. Stipules persistantes scariauses. Feuilles groupées en bouquets subterminaux, caduques. Domaties pubescentes.
-
-Fleurs solitaires terminales entourées à la base d'écalles
+Flowers solitary, terminal, surrounded at the base by scarious scales.
 
 ---
 
-scarieuses. Calice à rebord cupulaire très réduit, à lobes allongés persistantes. Corolle à gorge évasée, nigrescente à sec, pubescente à l'intérieur vers le fond du tube. Étamines sessiles; anthère fixée vers le tiers inférieur, à sommet atteignant la gorge. Pollen jaune d'or en tétrades à exine réticulée. Style renflé en massue au niveau des anthères, à 2 lobes accolés. Ovaire à 2 placentas issus des parois et affrontés de façon à former, ± nettement, deux loges. Ovules inclus dans des logettes ± profondes du tissu placentaire; volumineux et de forme lenticulaire, ces ovules présentent une remarquable ligne d'insertion qui s'étend sur plus de la moitié de leur pourtour.
+Calyx with a cupular rim much reduced, with lobes elongated, persistent. Corolla with expanded throat, nigrescent when dry, pubescent inside toward the base of the tube. Stamens sessile; anther attached toward the lower third, with apex reaching the throat. Pollen golden yellow in tetrads with reticulate exine. Style swollen into a club at the level of the anthers, with 2 adpressed lobes. Ovary with 2 placentas arising from the walls and facing each other so as to form, ± distinctly, two locules. Ovules included in ± deep locelli of the placental tissue; voluminous and of lenticular form, these ovules present a remarkable insertion line that extends over more than half their perimeter.
 
-Fruit globoïde ou piriforme, lisse, de 2-4 cm de diam., à pédoncule ± accrescent, à sépales persistants. Graines comprimées, irrégulièrement lenticulaires, albuminées; embryon droit à cotylédons cordiformes.
+Fruit globoid or pyriform, smooth, 2-4 cm in diam., with ± accescent pedicel, with persistent sepals. Seeds compressed, irregularly lenticular, albuminous; embryo straight with cordate cotyledons.
 
-Type du genre : Euclinia longiflora Salisb., non encore connu du Gabon; il est pourtant fort probable que cette espèce y sera découverte; elle est en effet largement répandue de Guinée portugaise jusqu'en Ouganda et en Angola; elle cohabite enfin au Cameroun, avec une seconde espèce E. squamifera qui seule pour le moment est connue du Gabon.
+Type of the genus: Euclinia longiflora Salisb., not yet known from Gabon; it is however quite probable that this species will be discovered there; it is indeed widely distributed from Portuguese Guinea to Uganda and Angola; it occurs finally in Cameroon with a second species E. squamifera which alone for the moment is known from Gabon.
 
-### CLÉ DES ESPÈCES
+### KEY TO THE SPECIES
 
-1. Corolle à tube de 16-24 cm de longueur; sépales étroitement oblongs ou ± onguiculés et sensiblement espacés entre eux à la base; fleur pédicellée; environ 9 paires de nervures secondaires.....
+1. Corolla with tube 16-24 cm in length; sepals narrowly oblong or ± unguiculate and appreciably spaced from each other at the base; flower pedicellate; approximately 9 pairs of secondary nerves.....
 
-1'. Corolle à tube de 2-5 cm; sépales ± atténués au-dessus du tiers inférieur et ± imbriqués à la base; fleur sessile; environ 12 paires de nervures secondaires..... 1. E. squamifera
+1'. Corolla with tube 2-5 cm; sepals ± attenuated above the lower third and ± imbricate at the base; flower sessile; approximately 12 pairs of secondary nerves..... 1. E. squamifera
 
 ## Species in region
 

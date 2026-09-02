@@ -17,41 +17,33 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Shrub or liane with alternate entire leaves. Axillary inflorescence in multiflorous fascicles on a cushion, numerous bracts. Flowers ♀ pentamerous. Pedicel present. Calyx present. Petals valvate, linear or linear-oblong, apex attenuated or acute. Stamens 5 with filament enlarged at the base narrowing towards the apex. Ovary pubescent or glabrous, asymmetric; style long and ± twisted, pubescent or glabrous with globulous stigma. Drupe ± reniform bilobed, keeled and reticulate.
 
-Arbuste ou liane à feuilles alternes entières. Inflorescence axillaire en fascicule multiflore sur un coussinet, nombreuses bractées. Fleurs ♀ pentamères. Pédicelle présent. Calice présent. Pétales valvaires, linéaires ou linéaires-oblongs, sommet atténué ou aigu. Étamines 5 à filet élargi à la base se rétrécissant vers le sommet. Ovaire pubescent ou glabre, asymétrique; style long et ± tordu, pubescent ou glabre à stigmate globuleux. Drupe ± réniforme bilobée, carénée et réticulée.
+TYPE SPECIES: R. beninensis (Hook. f. ex Benth.) Planchon.
 
-ESPÈCE-TYPE : R. beninensis (Hook. f. ex Benth.) Planchon.
+This genus comprises 10 species in Africa. 5 are present in Cameroon and Gabon. It should be noted that 3 other Cameroonian species are imperfectly known due to the loss of the type specimens.
 
-Ce genre groupe 10 espèces en Afrique. 5 sont présentes au Cameroun et au Gabon. Il faut noter que 3 autres espèces camerounaises sont imparfaitement connues du fait de la disparition des échantillons-types.
+1. Pedicel glabrous to subglabrous; calyx ciliolate on the margin; branchlets glabrous.
 
-1. Pédicelle glabre à subglabre; calice ciliolé sur le bord; rameaux glabres.
+2. Ovary glabrous ..... 1. R. beninensis.
 
-2. Ovaire glabre ..... 1. R. beninensis.
+2'. Ovary pubescent.
 
-2'. Ovaire pubescent.
+3. Secondary veins ascending; pedicel 5–7 mm long; ovary entirely pubescent ..... 2. R. preuss
 
-3. Nervures secondaires ascendantes; pédicelle long de 5-7 mm; ovaire entièrement pubescent ..... 2. R. preuss
-
-3'. Nervures secondaires peu ascendantes, s'étalant; pédicelle long de 10 mm;
-
-ovaire glabre à la base..... 3. R. poggei.
+3'. Secondary veins slightly ascending, spreading; pedicel 10 mm long; ovary glabrous at the base ..... 3. R. poggei.
 
 ---
 
-1'. Pédicelle tomenteux à pubescent; calice pubescent; rameaux ± pubescents.
+1'. Pedicel tomentose to pubescent; calyx pubescent; branchlets ± pubescent.
 
-4. Pétiole glabre; drupe glabre à maturité; style glabre; sommet du limbe acuminé
+4. Petiole glabrous; drupe glabrous at maturity; style glabrous; apex of limb acuminate acute; pedicel short (3 mm generally) ..... 4. R. fusca.
 
-aigu; pédicelle court (3 mm en général)..... 4. R. fusca.
+4'. Petiole pubescent; drupe pubescent at maturity; style pubescent (1/2 of the length); apex of limb acuminate obtuse; pedicel 3–12 mm long ..... 5. R. ferruginea.
 
-4'. Pétiole pubescent; drupe à maturité pubescent; style pubescent (1/2 de la longueur); sommet du limbe acuminé obtus, pédicelle long de 3-12 mm....
+5. Limb glabrous ___ var. ferruginea.
 
-..... 5. R. ferruginea.
-
-5. Limbe glabre ___ var. ferruginea.
-
-5'. Limbe pubescent à la face inférieure ..... var. villosa.
+5'. Limb pubescent on the lower surface ..... var. villosa.
 
 ## Species in region
 

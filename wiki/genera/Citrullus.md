@@ -16,27 +16,21 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 in Eckl. & Zeyh., Enum. pl. afric. austral. 2: 279 (1836), nom. cons.
 
-Herbes annuelles ou vivaces, monoïques ou dioïques ; tiges jusqu'à 6 m de longueur ; racines tubérisées, minces ou jusqu'à 1 m de longueur. Vrilles 2- ou 3-fides, simples ou absentes. Feuilles simples, pétiolées ; limbe de contour circulaire à triangulaire-ovale, 3- ou 5-palmatilobé, les segments lobulés ou disséqués. Inflorescences axillaires, généralement à fleurs solitaires. Fleurs mâles : réceptacle largement campanulé ; sépales étroits ; corolle rotacée ou largement campanulée, de taille moyenne, jaune à blanche, à lobes ovales-oblongs ; étamines 3, insérées près de la base du tube, à filets courts et libres, dont 2 à anthères bithèques et 1 à anthère monothèque, à loges flexueuses. Fleurs femelles à périanthe semblable à celui des fleurs mâles ; ovaire ovoïde ; style court, colonnaire, avec 3 stigmates épais, réniformes, plus ou moins 3-lobés. Fruits : baies grosses, globuleuses ou obloïdes, charnues ou sèches, indéhiscentes, glabres ou couvertes d'épines proéminentes, à nombreuses graines. Graines de contour oblong, comprimées, lisses, à testa jaunâtre pâle, noirâtre ou brun.
+Annual or perennial herbs, monoecious or dioecious; stems up to 6 m long; roots tuberous, thin or up to 1 m long. Tendrils 2- or 3-fid, simple or absent. Leaves simple, petiolate; blade orbicular to triangular-ovate in outline, 3- or 5-palmatilobed, the segments lobulate or dissected. Inflorescences axillary, generally with solitary flowers. Male flowers: receptacle broadly campanulate; sepals narrow; corolla rotate or broadly campanulate, medium-sized, yellow to white, with ovate-oblong lobes; stamens 3, inserted near the base of the tube, with short free filaments, of which 2 with bithecate anthers and 1 with monothecate anther, with flexuous locules. Female flowers with perianth similar to that of male flowers; ovary ovoid; style short, columnar, with 3 thick reniform stigmas, more or less 3-lobed. Fruits: large berries, globose or oblongoid, fleshy or dry, indehiscent, glabrous or covered with prominent spines, with numerous seeds. Seeds oblong in outline, compressed, smooth, with pale yellowish, blackish or brown testa.
 
-Genre avec six espèces en Afrique, en Asie occidentale et la région méditerranéenne orientale, en formations semi-désertiques et buissons xériques, sur dunes de sable et autres terrains perturbés. Pour le Gabon : une espèce avec deux sous-espèces.
+Genus with six species in Africa, western Asia and the eastern Mediterranean region, in semi-desert formations and xeric scrub, on sand dunes and other disturbed soils. For Gabon: one species with two subspecies.
 
-BIBLIOGRAPHIE: Achigan-Dako et al. (2015), Chomicki & Renner (2015), Jeffrey (1967), Keraudren (1967), Keraudren-Aymonin (1975), Schaefer & Renner (2011a).
+BIBLIOGRAPHY: Achigan-Dako et al. (2015), Chomicki & Renner (2015), Jeffrey (1967), Keraudren (1967), Keraudren-Aymonin (1975), Schaefer & Renner (2011a).
 
-### Clé des taxons
+### Key to taxa
 
-1. - Fruit à pulpe rouge, rose ou rarement blanche, douce; péricarpe <5 mm d'épaisseur; graine non mucilagineuse, non marginée, 10–15 × 5–8 mm
+1. - Fruit with red, pink or rarely white, sweet pulp; pericarp <5 mm thick; seed non-mucilaginous, non-marginate, 10–15 × 5–8 mm
 
-- Fruit à pulpe blanche, amère (ou rarement douce); péricarpe de 5–10 mm
-
-d'épaisseur; graine mucilagineuse, à marge blanchâtre ou noirâtre,  $ 16 \times 10 $ mm
+- Fruit with white, bitter pulp (or rarely sweet); pericarp 5–10 mm thick; seed mucilaginous, with whitish or blackish margin, 16 × 10 mm
 
 C. lanatus subsp. mucosospermus
-
----
 
 ## Species in region
 

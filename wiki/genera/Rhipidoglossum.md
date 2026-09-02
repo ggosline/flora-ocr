@@ -17,27 +17,25 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Leaves coriaceous or fleshy, or thin, unequally bilobed at the apex. Inflorescence appearing in the middle of the embracing leaf bases in the upper part of the stem. Flowers generally small to minute, translucent. Sepals and petals dissimilar. Labellum entire or weakly bi-, tri- or quadrilobed, without callus or with a transverse or digitate callus at the spur throat. Spur prominent. Rostellum digitate, fleshy, rather thick, acute. Viscidium double, more or less ovate-triangular, lamellate. Tegula double, linear, lamellate. Viscidium and tegula both exceeding the two sides of the rostellum. Rostellum acute, digitate after withdrawal of the pollinium. – Pl. 209, p. 441.
 
-Feuilles coriaces ou charnues, ou minces, inégalement bilobées au sommet. Inflorescence apparaissant au milieu des bases foliaires embrassantes dans la partie supérieure de la tige. Fleurs généralement petites à minuscules, translucides. Sépales et pétales dissemblables. Labelle entier ou faiblement bi-, tri- ou quadrilobé, sans callus ou avec un callus transversal ou digitiforme à la gorge de l'éperon. Éperon saillant. Rostellum digitiforme, charnu, assez épais, aigu. Viscidie double, plus ou moins ovée-triangulaire, lamellée. Tegula double, linéaire, lamellée. Viscidie et tegula toutes deux dépassant les deux côtés du rostellum. Rostellum aigu, digitiforme après retrait du pollinarium. – Pl. 209, p. 441.
+Genus of approximately 20-30 species found exclusively on the African continent.
 
-Genre d’environ 20-30 espèces uniquement sur le continent africain.
+1. Stem short or only slightly elongate, leaves more or less imbricate at the base ..... 50. 3. R. magnicalcar
 
-1. Tige courte ou seulement un peu allongée, feuilles plus ou moins imbriquées à la base ..... 50. 3. R. magnicalcar
-
-1'. Tige allongée, feuilles plus ou moins bien espacées le long de la tige ..... 2
+1'. Stem elongate, leaves more or less well-spaced along the stem ..... 2
 
 ---
 
 ---
 
-2. Labelle divisé en 4 lobes ..... 50. 1. R. bilobatum
+2. Labellum divided into 4 lobes ..... 50. 1. R. bilobatum
 
-2'. Labelle non comme ci-dessus ..... 3
+2'. Labellum not as above ..... 3
 
-3. Éperon sacciforme, plus court que le pédicelle et l'ovaire, obtus ..... 50. 2. R. densiflorum
+3. Spur sacciform, shorter than the pedicel and the ovary, obtuse ..... 50. 2. R. densiflorum
 
-3'. Éperon étroitement conique, aigu, plus long que le pédicele et l'ovaire ..... 50. 4. R. rutilum
+3'. Spur narrowly conical, acute, longer than the pedicel and the ovary ..... 50. 4. R. rutilum
 
 ## Species in region
 

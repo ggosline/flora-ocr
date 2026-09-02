@@ -17,55 +17,25 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Woody vines, clinging by the petioles. Leaves long-petiolate, 3–5-digitate; leaflets with petiolules weakly to strongly channelled, subcoriaceous, with entire margins. Axillary cymes or united into panicles, furnished with bracts. Flowers hermaphrodite; perianth in 2 whorls, 5-merous; stamens 5, rarely exserted; thecae dehiscent by valve adherent by its external vertical edge; staminodes in 2 whorls: the 10 external glandular or tepaloid, the 5 internal glandular; style filiform, stigma dilated. Fruits with 2 or 3 lateral wings.
 
----
+Genus comprising 20 species, most Asiatic (17 species) and 5 in Africa; in Gabon, 3 species.
 
-Lianes ligneuses, s’accrochant par les pétioles. Feuilles longuement pétiolées, 3–5-digi-
+B: Hutchinson & Dalziel (1954), Kubitzki (1969), Verdcourt (1985).
 
-tées ; folioles à pétiolules faiblement à fortement canaliculés, subcoriaces, à marge entière.
+BIBLIOGRAPHY
 
-Cymes axillaires ou réunies en panicules, munies de bractées . Fleurs hermaphrodites ;
+Remarks
 
-périgones en 2 verticilles , 5-mères ; étamines 5, rarement exsertes ; thèques déhiscen-
+In the description of the genus, the perianth is usually described as composed of two whorls of five tepals. Nevertheless, these two whorls are well distinguished and consequently can be considered as constituting the calyx and corolla.
 
-tes par valve adhérente par son bord vertical externe ; staminodes en 2 verticilles : les
+1. - Stem remaining solid; leaves with 3–5 leaflets with 1–3 pairs of nerves arising in the lower third of the limb; pedicel (ovary included) with short and appressed hairs .................................................................................................................. 2
 
-10 externes glanduliformes ou tépaloïdes, les 5 internes glanduliformes ; style filiforme,
+- Stem becoming hollow; leaves with 3 leaflets penninerved with 4–6 pairs of lateral nerves distributed along the midvein; pedicel (ovary included) with hooked and glandular hairs .................................................................................... I. cava
 
-stigmate dilaté. Fruits à 2 ou 3 ailes latérales .
+2. - Leaflets acuminate; lateral nerves 2(–3) pairs .......................... I. pentaphylla
 
-Genre comprenant 20 espèces, la plupart asiatique (17 espèces) et 5 en Afrique ; au Ga-
-
-bon, 3 espèces.
-
-B : Hutchinson & Dalziel (1954), Kubitzki (1969), Verdcourt (1985).
-
-IBLIOGRAPHIE
-
-Remarques
-
-Dans la description du genre, le périanthe est habituellement décrit comme composé de deux ver-
-
-ticilles de cinq tépales. Néanmoins, ces deux verticilles se distinguent bien et par conséquent, peu-
-
-vent être considérés comme constituant le calice et la corolle.
-
-1. - Tige restant solide ; feuilles à 3–5 folioles avec 1–3 paires de nervures partant
-
-dans le tiers inférieure du limbe ; pédicelle (ovaire inclus) à poils courts et
-
-apprimés .................................................................................................................. 2
-
-- Tige devenant creuse ; feuilles à 3 folioles penninervées avec 4–6 paires de
-
-nervures latérales réparties le long la médiane ; pédicelle (ovaire inclus) à poils
-
-crochus et glanduleux .................................................................................... I. cava
-
-2. - Folioles acuminées ; nervures latérales 2(–3) paires .......................... I. pentaphylla
-
-- Folioles obtuses à largement émarginées ; nervures latérales 1(–2) paires
+- Leaflets obtuse to broadly emarginate; lateral nerves 1(–2) pairs
 
 ............................................................................................................. I. verspertilio
 

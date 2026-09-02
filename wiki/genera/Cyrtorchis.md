@@ -17,11 +17,9 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Stem elongate, sometimes short. Leaves unequally bilobed at the apex. Inflorescence generally shorter than the leaves, multiflorous. Flowers generally of medium size, resupinate. Sepals and petals subsimilar. Labellum entire. Spur generally long, narrowly cylindrico-conical. Rostellum digitate, acute, thick, longer than the gynostemium. Single viscidium, rather large, formed of two parts: the lower one thin, lamellate, hyaline, linear; the upper one saddle-shaped, very thick. Tegula double. Remains of the rostellum tridentate after removal of the pollinarium, the lateral lobes subulate, much longer than the median one. – Pl. 158, p. 353.
 
-Tige allongée, parfois courte. Feuilles inégalement bilobées au sommet. Inflorescence généralement plus courte que les feuilles, multiflore. Fleurs généralement de taille moyenne, résupinées. Sépales et pétales subsemblables. Labelle entier. Éperon généralement long, étroitement cylindrico-conique. Rostellum digitiforme, aigu, épais, plus long que le gynostème. Viscidie unique, assez grande, formée de deux parties : l'inférieure mince, lamellée, hyaline, linéaire ; la supérieure en forme de selle, très épaisse. Tegula double. Restes du rostellum tridentés après retrait du pollinarium, les lobes latéraux subulés, beaucoup plus longs que le médian. – Pl. 158, p. 353.
-
-Genre d'environ 10 espèces largement distribué en Afrique tropicale dont une espèce au Gabon.
+Genus of about 10 species widely distributed in tropical Africa of which one species in Gabon.
 
 ## Species in region
 

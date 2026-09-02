@@ -17,43 +17,19 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Arbres à tronc cylindrique ; écorce lisse, orange vif en coupe ; bois jaune vif ; toutes
-
-les parties jeunes pubescentes-apprimées. Feuilles opposées ; limbe à marge subentière
-
-à denticulée ; nervures secondaires très fortement courbées-ascendantes , nervures
-
-tertiaires en fin réseau. Inflorescences axillaires, cymeuses, bipares, contractées et pédon -
-
-culées. Fleurs 4-mères ; pédicelle articulé au milieu ; calice campanulé, à lobes dressés
-
-et valvaires ; pétales spatulés, pectinés au sommet ; étamines 8 , alternant avec un disque
-
-lobé, anthères 2-loculaires, à déhiscence longitudinale ; ovaire supère, 2-loculaire, à 2
-
-ovules pendants par loge ; stigmate 2-lobé. Fruit indéhiscent, charnu probablement une
-
-baie , avec 1 ou 2 graines développées. Graines non vivipares, à arille libre, blanchâtre,
-
-translucide et plurilobé ; albumen abondant.
+Trees with cylindrical trunk; bark smooth, bright orange in section; wood bright yellow; all young parts pubescent-appressed. Leaves opposite; lamina with margin subentire to denticulate; secondary nerves very strongly curved-ascending, tertiary nerves in fine reticulum. Inflorescences axillary, cymose, biparous, contracted and pedunculate. Flowers 4-merous; pedicel articulate in the middle; calyx campanulate, with lobes erect and valvate; petals spatulate, pectinate at apex; stamens 8, alternating with a lobed disc, anthers 2-locular, with longitudinal dehiscence; ovary superior, 2-locular, with 2 pendulous ovules per locule; stigma 2-lobed. Fruit indehiscent, fleshy probably a berry, with 1 or 2 developed seeds. Seeds non-viviparous, with free aril, whitish, translucent and plurilobed; endosperm abundant.
 
 ---
 
-Fleur étalée, le pistil ôté (× 6). – 5. Fruit (× 3). (1, 5 : Germain 5213 ; 2-4 : Germain 5248 ). Dessin par M.
-
-Allard, reproduit à partir de Liben (1987), Jardin botanique Meise ©.
+Flower spread, the pistil removed (× 6). – 5. Fruit (× 3). (1, 5 : Germain 5213 ; 2-4 : Germain 5248 ). Drawing by M. Allard, reproduced from Liben (1987), Meise Botanical Garden ©.
 
 ---
 
-Genre monospécifique, connu seulement du Gabon et de la République Démocratique du
-
-Congo.
+Monotypic genus, known only from Gabon and the Democratic Republic of the Congo.
 
 b : Floret (1974, 1976), Liben (1987).
 
-ibliographie
+ibliography
 
 ## Species in region
 

@@ -17,29 +17,17 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Herbaceous or sometimes suffrutescent plants, climbing, trailing or erect, hairy or glabrous. Leaves entire. Inflorescences axillary, pseudo-axillary or terminal, in dense, short or long spikes, with broad bracts, membranous or veined, arranged in 4 rows of which 2 do not bear flowers. Flowers small, sessile, solitary in the axil of the bracts and accompanied by 2 ± large bracteoles, membranous or transparent, involucral, sometimes very small. Calyx with 5 acute subequal teeth, generally membranous or transparent. Corolla with short, straight tube, slightly widened towards the top, with 2 lips: upper lip, inner in the bud, erect, concave, entire or bidentate; lower lip generally longer, spreading trilobed. 2 stamens inserted at the throat, shorter than the upper lip. Anthers with 2 separate lobes, slightly offset, the lower or both spurred. Staminodes 0.
 
-Plantes herbacées ou parfois suffrutescentes, grimpantes,
+Capsule orbicular, oval or oblong, with base on a narrow undented stipe, with partition separating elastically from the valves at maturity. 4 flattened seeds, reniform-suborbicular wrinkled.
 
-couchées ou dressées, poilues ou non. Feuilles entières.
+Type species: Rungia repens (L.) Nees (≡ Justicia repens L.), described from India.
 
-Inflorescences axillaires, pseudo-axillaires ou terminales, en épis denses, courts ou longs, à bractées larges, membraneuses ou veinées, disposées sur 4 rangs dont 2 ne renferment pas de fleurs. Fleurs petites, sessiles, solitaires à l'aisselle des bractées et accompagnées de 2 bractéoles ± grandes, membraneuses ou transparentes, involucrales, parfois très petites. Calice à 5 dents aiguës subégales, en général membraneuses ou transparentes. Corolle à tube court, droit, un peu élargi vers le haut, à 2 lèvres : a supérieure, intérieure dans le bouton, dressée, concave, entière ou bidentée; l'inférieure en général plus longue, étalée trilobée. 2 étamines insérées à la gorge, plus courtes que la lèvre supérieure. Anthères à 2 loges séparées, un peu décalées, l'inférieure ou les deux éperonnées. Staminodes O.
+According to C. B. Clarke, approximately 20 paleotropical species.
 
-Capsule orbiculaire, ovale ou oblongue, à base en stipe étroit non évidé, à cloison se détachant de façon élastique des valves à maturité. 4 graines aplaties, réniformes-suborbiculaires ridées.
+1. Robust plants: shrublet up to 3 m high; bracts 20 × 12 mm; corolla up to 2 cm long..... 1. R. grandis.
 
-Espèce type : Rungia repens (L.) Nees (≡ Justicia repens L.), décrit de l'Inde.
-
-D'après C. B. Clarke, environ 20 espèces paléotropicales.
-
-1. Plantes robustes : sous-arbrisseau jusqu'à 3 m de haut ; bractées de
-
-20 × 12 mm; corolle jusqu'à 2 cm de long..... 1. R. grandis.
-
-1'. Petites plantes herbacées rampantes jusqu'à 20 cm de haut; brac-
-
-tées de 6 × 4 mm; corolle de 5 mm de long..... 2. R. congoensis.
-
----
+1'. Small herbaceous trailing plants up to 20 cm high; bracts 6 × 4 mm; corolla 5 mm long..... 2. R. congoensis.
 
 ## Species in region
 

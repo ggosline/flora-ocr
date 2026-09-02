@@ -16,13 +16,11 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Large terrestrial ferns, with shortly creeping rhizome bearing articulate, clear hairs. Fronds bipinnate-tripinnatifid. Veins free, pinnate. Sori short, often situated in the sinuses. Indusium formed by the reflexed margin of the lamina.
 
-Fougères terrestres de grande taille, à rhizome courtement rampant, portant des poils articulés, clairs. Frondes bipennées-tripinnatifides. Nervures libres, pennées. Sores courts, souvent situés dans les sinus. Indusie formée par le bord réfléchi du limbe.
+Type species: Anisosorus hirsuta Trev.
 
-Espèce type : Anisosorus hirsuta Trev.
-
-Une espèce américaine et une africaine.
+One American and one African species.
 
 ## Species in region
 

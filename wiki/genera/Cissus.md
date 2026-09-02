@@ -17,39 +17,33 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Climbing plants, sarmentose, herbaceous or strongly woody and of large span, sometimes crassulescent; root system sometimes tuberous; tendrils always present, at least on the branches of the year, branched or not, furnished with bracts; stipules always present, sometimes quickly caducous, of very variable form and size. Leaves simple, entire or lobed, rarely 3–5 foliolate, petiolate, rarely sessile, of very variable size, form, and pilosity; with pinnate or palmatipinnate venation.
 
-Lianes sarmenteuses, herbacées ou fortement ligneuses et de grande envergure, parfois crassulescentes; système radiculaire parfois tubérisé; vrilles toujours présentes, au moins sur les rameaux de l'année, ramifiées ou non, munies de bractées; stipules toujours présentes, parfois rapidement caduques, de forme et de taille très variables. Feuilles simples, entières ou lobées, rarement 3-5 foliolées, pétiolées, rarement sessiles, de taille, de forme, de pilosité très variables; à nervation pennée ou palmatipennée.
+Inflorescences always oppositifoliate, pedunculate, in regular cymes corymbiform or umbelliform, furnished with bracts and bracteoles. Flowers tetramerous, hermaphrodite, pedicellate. Calyx cupuliform, entire or with 4 valvate lobes. Corolla generally ovoid, often somewhat expanded at the base, obtuse or rounded at the apex; petals valvate, cucullate internally, separately caducous. Stamens inserted on the receptacle, at the base and around the disc; stamen filaments erect, fitted into the sinuses of the disc; anthers introrse lodged before anthesis in the cucullae of the petals. Disc entire, forming a complete ring around the ovary, with thick lobed margin. Ovary fused to the disc and almost entirely included, with two locules separated by a complete septum; 2 oblong ovules per locule; style cylindric or cylindro-conic with continuous growth during and somewhat after anthesis; small entire stigma, discoid.
 
-Inflorescences toujours oppositifoliées, pédonculées, en cymes régulières corymbiformes ou ombelliformes, pourvues de bractées et de bractéoles. Fleurs tétramères, hermaphrodites, pédicellées. Calice cupuliforme, entier ou à 4 lobes valvaires. Corolle généralement ovoïde, souvent un peu évasée à la base, obtuse ou arrondie au sommet; pétales valvaires, cucullés intérieurement, séparément caducs. Étamines insérées sur le réceptacle, à la base et autour du disque; filets staminaux dressés, encastrés dans les échancrures du disque; anthères introrses logées avant l'anthèse dans les cuculles des pétales. Disque entier, formant un anneau complet autour de l'ovaire, à bord épais lobé. Ovaire soudé au disque et presque entièrement inclus, à deux loges séparées par une cloison complète; 2 ovules oblongs par loge; style cylindrique ou cylindro-conique à croissance continue pendant et un peu après l'anthèse; petit stigmate entier, discoïde.
+Berries monospermal, fleshy, of generally reduced size. Seed attenuate in its lower part on the ventral side and presenting two oblique fossettes penetrating into the albumen. Albumen ruminate.
 
-Baies monospermes, charnues, de taille généralement réduite. Graine atténuée dans sa partie inférieure du côté ventral et présentant deux fossettes obliques s'enfonçant dans l'albumen. Albumen ruminé.
+Type species: C. vitiginea L.
 
-Espèce type : C. vitiginea L.
+Genus formerly very extensive, now reduced to the former section Eucissus of Planchon. More than 300 species of the tropical and equatorial regions of the globe. In Gabon 16 species currently known.
 
-Genre autrefois très vaste, maintenant réduit à l'ancienne section Eucissus de Planchon. Plus de 300 espèces des régions
+Particular characters of recognition:
 
----
+Plant presenting on its various organs small black glands: C. Dewevrei.
 
-tropicales et équatoriales du globe. Au Gabon 16 espèces actuellement connues.
+Stems more or less distinctly polygonal, winged or not: C. Leonardii, C. Planchoniana, C. petiolata, C. producta.
 
-Caractères particuliers de reconnaissance :
+Leaves digitate 5-foliolate: C. aralioides.
 
-Plante présentant sur ses différents organes de petites glandes noires : C. Dewevrei.
+Leaves with margin of limb entire not denticulate: C. Dinklagei.
 
-Tiges plus ou moins nettement polygonales, ailées ou non : C. Leonardii, C. Planchoniana, C. petiolata, C. producta.
+Leaves presenting on the lower face of the limb domatia: C. Barbeyana, C. Dinklagei, C. Leonardii.
 
-Feuilles digitées 5-foliolées : C. aralioides.
+Leaves presenting on the lower face of the limb a fine and dense felt: C. amœna, C. Dewevrei, C. oreophila, C. ruginosicarpa.
 
-Feuilles à marge du limbe entière non denticulée : C. Dinklagei.
+Leaves presenting at the same time all of the following characters: limb more or less cordate or orbicular, with cordate base, with acuminate apex, with palmatipinnate venation, with network of veins in ladder pattern: C. amœna, C. Dewevrei, C. oreophila, C. petiolata, C. prunifera, C. ruginosicarpa, C. Smithiana.
 
-Feuilles présentant à la face inférieure du limbe des domaties :
-
-C. Barbeyana, C. Dinklagei, C. Leonardii.
-
-Feuilles présentant à la face inférieure du limbe un fin et dense feutrage : C. amcena, C. Dewevrei, C. oreophila, C. ruginosicarpa.
-
-Feuilles présentant à la fois tous les caractères suivants : limbe plus ou moins cordiforme ou orbiculaire, à base cordée, à sommet acuminé, à nervation palmatipennée, à réseau de nervures en échelle : C. amœna, C. Dewevrei, C. oreophila, C. petiolata, C. prunifera, C. ruginosicarpa, C. Smithiana. Inflorescences très petites, presque sessiles : C. diffusiflora, C. Gossweileri, C. Planchoniana.
+Inflorescences very small, almost sessile: C. diffusiflora, C. Gossweileri, C. Planchoniana.
 
 ## Species in region
 

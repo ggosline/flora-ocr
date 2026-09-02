@@ -16,19 +16,17 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 in TUCKEY, Nar. Exp. Riv. Zaire, App.: 453 (1818); TEDLIE in BOWDICH, Miss. Ashantee: 372 (1819); BENNETT in BENNETT & R. BROWN, Pl. Jav. Rar.: 49 (1838); ENGL., Mon. Afr. Pfl., 1, Moraceae: 42 (1898); DE RUITER, BJBB 46: 496 (1976).
 
-Arbres dioïques avec des tiges et des branches creuses, cloisonnées, et des racines-échasses. Feuilles spiralées ; limbe pelté, composé avec des lobes radiaux. Stipules souduées, entièrement amplexicaules.
+Dioecious trees with hollow, septate stems and branches, and stilt roots. Leaves spiral; lamina peltate, compound with radial lobes. Stipules connate, entirely amplexicaul.
 
-Inflorescences groupées par 2 à l'aisselle des feuilles, pédonculées, pourvues de bractées. Inflorescences ♂ plusieurs fois dichotomes, avec des groupes de fleurs globuleux-capités, terminaux. Périanthe bilobé ; étamine unique ; pistillode absent. Inflorescences ♀ en épis aplatis avec de nombreuses fleurs denses (sub) sessiles. Périanthe tubulaire ; ovaire libre ; ovale subbasale, orthotrope ; stigmate simple.
+Inflorescences grouped by 2 at the leaf axils, pedunculate, provided with bracts. ♂ Inflorescences several times dichotomous, with groups of globose-capitate flowers, terminal. Perianth bilobed; stamen solitary; pistillode absent. ♀ Inflorescences in flattened spikes with numerous dense (sub)sessile flowers. Perianth tubular; ovary free; ovule subbasal, orthotropous; stigma simple.
 
-Fruit libre ; endocarpe crustacé ; mésocarpe mucilagineux ; exocarpe membraneux ; graine albuminée ; cotylédons égaux et plats ; radicule apicale.
+Fruit free; endocarp crustaceous; mesocarp mucilaginous; exocarp membranous; seed albuminous; cotyledons equal and flat; radicle apical.
 
-ESPÉCE-TYPE : Musanga cecropioides R. Br. ex Tedlie.
+TYPE SPECIES: Musanga cecropioides R. Br. ex Tedlie.
 
-Ce genre très distinct comprend 2 espèces : l'espèce à vaste répartition, M. cecropioides et l'espèce montagnarde, M. leo-errerare Hauman & Léonard, qui est limitée à une petite aire près de la frontière orientale du Zaïre.
+This very distinct genus comprises 2 species: the species with a vast distribution, M. cecropioides and the montane species, M. leo-errerare Hauman & Léonard, which is limited to a small area near the eastern border of Zaire.
 
 ## Species in region
 

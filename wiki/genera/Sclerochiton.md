@@ -17,23 +17,21 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Shrubs or subshrubs; leaves entire or rarely subdentate.
 
-Arbrisseaux ou sous-arbrisseaux; feuilles entières ou rarement subdentées.
-
-Fleurs parfois axillaires solitaires subsessiles, le plus souvent groupées en inflorescences courtes, pauciflores (2-5 flores, parfois 10 et plus), blanches ou rouges ou bleues; bractées et bractéoles souvent carénées, ces dernières plus courtes que le calice. Calice à 5 segments plus ou moins rigides, peu inégaux le postérieur en général plus grand que les autres et marqué de nervures longitudinales. Corolle à tube court ou assez court; limbe unilabé à 5 lobes subégaux. 4 étamines insérées sur le tube de la corolle, plus ou moins exsertes ou rarement incluses. Anthères ovales
+Flowers sometimes axillary solitary subsessile, most often grouped in short inflorescences, few-flowered (2-5 flowers, sometimes 10 and more), white or red or blue; bracts and bracteoles often keeled, the latter shorter than the calyx. Calyx with 5 segments more or less rigid, slightly unequal, the posterior one generally larger than the others and marked with longitudinal nerves. Corolla with short or fairly short tube; limb unilabiate with 5 subequal lobes. 4 stamens inserted on the corolla tube, more or less exserted or rarely included. Anthers oval
 
 ---
 
 ---
 
-triangulaires, pointues, à une seule loge, pourvues en général à la base d'une touffe de poils blancs, ou plus ou moins ciliées sur le bord. Disque petit; style à stigmate obtus ou bidenté.
+triangular, pointed, with a single locule, provided generally at the base with a tuft of white hairs, or more or less ciliate on the margin. Disc small; style with obtuse or bidentate stigma.
 
-Capsule un peu contractée à la base. 2-4 graines, rétinacles courts.
+Capsule slightly contracted at the base. 2-4 seeds, short retinacles.
 
-Espèce type : Sclerochiton Harveyanus Nees, d'Afrique du Sud.
+Type species: Sclerochiton Harveyanus Nees, from South Africa.
 
-8 espèces ont été décrites d'Afrique tropicale et australe; deux d'entre elles ont du être rattachées à l'espèce qui suit. La délimitation des espèces de ce genre est difficile et quelquefois un peu artificielle car basée sur les caractères des bractéoles et du calice; le nombre des espèces pourrait fort probablement, après étude monographique du genre, être encore réduit.
+8 species have been described from tropical and austral Africa; two of them had to be referred to the species that follows. The delimitation of the species of this genus is difficult and sometimes somewhat artificial as it is based on the characters of the bracteoles and the calyx; the number of species could very probably, after monographic study of the genus, be further reduced.
 
 ## Species in region
 

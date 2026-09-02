@@ -17,31 +17,29 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Shrubs, small trees or exceptionally lianes (O. Schumannianus). Stipules erect persistent ± acute, broad at the base and connate to the leaf axils at least at the juvenile stage, with subparallel venules, glabrous on the inner face with cereocysts at the base. Domatia pilose or absent.
 
-Arbrisseaux, arbustes ou exceptionnellement lianes (O. Schumannianus). Stipules dressées persistantes ± aiguës, larges à la base et connées aux aisselles foliaires au moins au stade juvénile, à veinules subparallèles, à face interne glabre avec des céréocystes à la base. Domaties pileuses ou nulles.
+Inflorescences terminal, displaced laterally by the sympodial elongation of plagiotropic axes. Panicle ± lax or contracted, elongate or ± corymbiform, pauci- to multiflorous. Bracts minute acute, rarely developed. Calyx with a cupuliform dentate limb, with very small or attenuate teeth. Corolla white very long and very narrowly tubular to the throat which is glabrous; 5 narrow lobes overlapping to the left in the bud. Anthers exserted sub-basifixed, sessile or subsessile, inserted at the throat, apiculate or acuminate, sometimes prolonged at the base by two sterile appendices. Pollen in tetrads. Style glabrous very slender exceeding the throat and terminated by a small fusiform pollencollecting club, at the apex furnished with 2 very reduced stigmatic lips. Small ± prominent annular disc. Ovary bilocular: in fact the two locules are ± distinctly confluent, the two placentas being ± fused only at the extremities. Ovules fairly numerous, contiguous on the fleshy placentas.
 
-Inflorescences terminales rejetées latéralement par l'allongement sympodial des axes plagiotropes. Panicule ± lâche ou contracté, allongé ou ± corymbiforme, pauci à multiflore. Bractées minimes aiguës, rarement développées. Calice à limbe cupuliforme denté, à dents très petites ou effilées. Corolle blanche très longuement et très étroitement tubulaire jusqu'à la gorge qui est glabre; 5 lobes étroits recouvrant à gauche dans le bouton. Anthères exsertes sub-basifixes, sessiles ou subsessiles, insérées à la gorge, apiculées ou acuminées, parfois prolongées à la base par deux appendices stériles. Pollen en tétrades. Style glabre très grêle dépassant la gorge et terminé par une petite massue fusiforme collectrice du pollen avant l'anthèse, à apex muni de 2 lèvres stigmatiques très réduites. Petit disque annulaire ± saillant. Ovaire biloculaire : en fait les deux loges sont ± nettement confluentes, les deux placentas n'étant ± soudés qu'aux extrémités. Ovules assez nombreux, contigus sur les placentas charnus.
+Fruit globose, ovoid or ± elongate, smooth, green then orange at maturity, with thin or thick wall, subcharnose in vivo, with calycinal limb caducous or not. Seed elliptic compressed, 4–8 mm long, with testa ornate with subconcentrical horseshoe-shaped striations. Embryo straight, with small foliate cotyledons, surrounded by oily albumen.
 
-Fruit globuleux, ovoïde ou ‡ allongé, lisse, vert puis orangé à maturité, à paroi mince ou épaisse, subcharnue in vivo, à limbe calycinal caduc ou non. Graine elliptique comprimée, longue de 4-8 mm, à testa orné de stries subconcentriques en fer à cheval. Embryon droit, à petits cotylédons foliacés, entouré d'albumen oléagineux.
+Type species: Oxyanthus speciosus DC. This genus of tropical Africa, absent from Madagascar, comprises about forty species.
 
-Espèce type : Oxyanthus speciosus DC. Ce genre d'Afrique tropicale, absent à Madagascar, comprend une quarantaine d'espèces.
+Excluded species: O.³ platystylis Hiern (F.T.A. 3: 109, 1877). The type, Mann 1712 from the Crystal Mountains, is a specimen of Schumanniophyton magnificum var. trimerum f. Letestuanum, in
 
-Espèces exclues : O.³ platystylis Hiern (F.T.A. 3 : 109, 1877). Le type, Mann 1712 des Monts de Cristal, est un spécimen de Schumanniophyton magnificum var. trimerum f. Letestuanum, en
+<<<---SECTION-BREAK--->>>
 
----
+mixture with a few corollas of an indeterminate Oxyanthus; Oxyanthus leptactina Wernh. is a synonym of Leptactina Laurenitiana Dewèvre (cf. p. 80).
 
-mélange avec quelques corolles d'un Oxyanthus indéterminé; Oxyanthus leptactina Wernh. est synonyme de Leptactina Laurenitiana Dewèvre (cf. p. 80).
+### KEY TO OXYANTHUS
 
-### CLÉ DES OXYANTHUS
+1. Base of leaf limbs very unequal (leaves of flowering axes only); limbs 17) 20–55 cm long, with 10–17 pairs of secondary veins; no domatia.
 
-1. Base des limbes foliaires très inégale (feuilles des axes florifères seulement); limbes longs de (17) 20-55 cm, à 10-17 paires de nervures secondaires; pas de domaties.
+2. Leaf veins glabrous; 10–12 pairs of secondary veins; fruit obtuse at apex, pedunculate, with thick pericarp.....
 
-2. Nervures foliaires glabres; 10-12 paires de nervures secondaires; fruit obtus au sommet, pédonculé, à péricarpe épais.....
+2'. Leaf veins not entirely glabrous on the lower face;
 
-2'. Nervures foliaires non tout à fait glabres à la face inférieure;
-
-11-17 paires de nervures secondaires.
+11–17 pairs of secondary veins.
 
 ## Species in region
 

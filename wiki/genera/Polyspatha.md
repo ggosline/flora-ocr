@@ -16,71 +16,25 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 in Hook., Niger Fl. : 543 (1849).
 
-Herbes pérennes, stolonifères, à racines fibreuses. Feuilles spiralées ; pseudopétiole présent ;
+Perennial herbs, stoloniferous, with fibrous roots. Leaves spiral; pseudipetiole present; blade with supervolute vernation, symmetric base. Inflorescences terminal, sometimes a few at the upper axils, the most apical sometimes perforating the sheath, in modified thyrse, composed of an axis with few or numerous sessile, distichous spathes, with 1(–3) short cincinni, bearing a few bisexual flowers; spathes persistent, conduplicate, with free margins. Flowers < 1 cm in diameter, zygomorphic, shortly pedicellate; sepals free, subequal, puberulent; petals free, unequal, white, the upper ones with claw, the lower one very reduced, without claw; stamens 3, inserted on the lower part of the flower, longer than the staminodes, the median one shorter than the others, anther with longitudinal dehiscence, with narrow connective; staminodes 3, inserted on the upper part of the flower, antherodia shaped like inverted 'V', yellow; ovary sessile, glabrous, bilocular, locules with 1 ovule; style slender, filiform, stigma capitate. Fruits: dehiscent capsules, bilocular, bivalved, glabrous, ochreous. Seeds ellipsoid, with radial ribs; hilum linear, raised in a groove; embryotegium semi-lateral to dorsal.
 
-limbe à préfoliaision supervolutée, à base symétrique. Inflorescences terminales, parfois
-
-quelques-unes aux aisselles supérieures, les plus apicales parfois perforant la gaine , en thyrse
-
-modifié, composé d’un axe avec quelques ou de nombreuses spathes sessiles, distiques, à
-
-1(–3) cincinni brefs, portant quelques fleurs bisexuées ; spathes persistantes, condupliquées,
-
-à bords libres . Fleurs < 1 cm de diamètre, zygomorphes , courtement pédicellées ; sépales
-
-libres, subégaux, pubérulents ; pétales libres, inégaux, blancs, les supérieurs à onglet , l’in -
-
-férieur très réduit, sans onglet ; étamines 3, insérés sur la partie inférieure de la fleur, plus
-
-longues que les staminodes, la médiane plus courte que les autres, anthère à déhiscence lon -
-
-gitudinale, à connectif étroit ; staminodes 3, insérés sur la partie supérieure de la fleur ,
-
-anthérode en forme de ‘V’ inversé , jaune ; ovaire sessile, glabre, biloculaire, loges à 1 ovule ;
-
-style grêle, filiforme, stigmate capité. Fruits : capsules déhiscentes , biloculaires , bivalves ,
-
-glabres, ocres . Graines ellipsoïdales, à côtes radiales ; hile linéaire , surélevé dans une canne-
-
-lure ; embryotège semi-latérale à dorsale .
-
-Genre endémique en Afrique, avec trois espèces, dont deux au Gabon et la troisième à recher -
-
-cher.
+Genus endemic to Africa, with three species, two of which are in Gabon and the third is yet to be found.
 
 B : Brenan (1968b), van der Burg (2006), Faden (1998, 2012), Morton (1967).
 
-i B liographie
+Bibliography
 
-### Clé des espèces
+### Key to the species
 
-1. - Spathe falciforme ; limbe foliaire dépourvu de longs poils unisériés, souvent sca-
+1. - Spathe falcate; leaf blade lacking long uniseriate hairs, often scabrous above; seed ribbed, with (12–)14 to 18 smooth continuous ribs ....... P. paniculata
 
-bredessus ; graine côtelée, avec (12–)14 à 18 côtes lisses continues ....... P. paniculata
+- Spathe broadly ovate-falcate; leaf blade with long uniseriate hairs, always on the upper face, never scabrous above; seed superficially ribbed-reticulate or deeply ribbed with (17–)18 to 23 prominent and knotty ribs, interrupted transversely or not ....................................................... 2
 
-- Spathe largement ovale-falciforme ; limbe foliaire pourvu de longs poils unisé-
+2. - Leaf blade with long uniseriate hairs on both faces, as well as the internodes and the sheath; spathes tufted, becoming deflexed against the floral axis, surface with dull cells, not brown nor bubble-shaped under × 20 magnification; seed superficially ribbed-reticulate, neither knotty nor interrupted transversely ............................................................................................ P. hirsuta
 
-riés, toujours sur la face supérieure, jamais scabre dessus ; graine superficiellement
-
-côtelée-réticulée ou profondément côtelée avec (17–)18 à 23 côtes saillantes et
-
-noueuses, interrompues transversalement ou non ....................................................... 2
-
-2. - Limbe foliaire muni de longs poils unisériés sur les deux faces, de même que les
-
-entrenœuds et la gaine ; spathes touffues, devenant défléchies contre l’axe floral, à
-
-surface à cellules ternes, non brunes ni en forme de bulles sous un grossissement
-
-de × 20 ; graine superficiellement côtelée-réticulée, ni noueuse, ni interrompue
-
-transversalement ............................................................................................ P. hirsuta
-
-- Limbe foliaire à longs poils unisériés uniquement sur la face supérieure, ainsi que
+- Leaf blade with long uniseriate hairs only on the upper face, as well as the
 
 ## Species in region
 

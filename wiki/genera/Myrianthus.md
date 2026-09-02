@@ -17,35 +17,33 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 - Dicranostachys TRÉCUL, Ann. Sc. Nat., sér. 3, 8: 85 (1847).
 
-Arbustes ou arbres dioïques avec des racines échasses, ou lianes. Feuilles spiralées ; limbe simple à palmé, nervation palmée à pennée ; stipules soudées, (presque) entièrement amplexicaules.
+Shrubs or dioecious trees with stilt roots, or lianes. Leaves spiral; blade simple to palmate, venation palmate to pinnate; stipules fused, (almost) entirely amplexicaul.
 
-Inflorescences groupées par 2 à l'aisselle des feuilles, pourvues de bractées, pédonculées. Inflorescences ♂ plusieurs fois dichotomes, portant des fleurs densément disposées sur les derniers axes ou les axes d'ordres immédiatement inférieurs ; périanthe formé de (3-) 4 tépales ± imbriqué ; étamines 3-4 à filaments dressés dans le bouton, libres ou soudés à la base, et anthères extrorses. Inflorescences ♀ globuleuses-capitées ; fleurs quelques-unes à beaucoup, soudées à la base ; périanthe tubulaire, 2-3-lobé ; ovaire libre ; ovules orthotropes et basaux ; stigmate simple.
+Inflorescences grouped by 2 at the leaf axils, provided with bracts, pedunculate. ♂ Inflorescences several times dichotomous, bearing flowers densely disposed on the ultimate axes or axes of immediately lower orders; perianth formed of (3–)4 tepals ± imbricate; stamens 3–4 with filaments erect in bud, free or fused at the base, and anthers extrorse. ♀ Inflorescences globose-capitate; flowers few to many, fused at the base; perianth tubular, 2–3-lobed; ovary free; ovules orthotropous and basal; stigma simple.
 
-Dans le fruit, exocarpe charnu, soudé au périanthe charnu, jaune à rouge-orangé ; endocarpe ligneux ; graine grande, sans albumen ; testa membraneux ; cotylédons égaux et plans ; radicule courte et apicale.
+In the fruit, exocarp fleshy, fused to the fleshy perianth, yellow to red-orange; endocarp woody; seed large, without albumen; testa membranous; cotyledons equal and plane; radicle short and apical.
 
-ESPÈCE-TYPE : Myrianthus arboreus P.B.
+TYPE SPECIES: Myrianthus arboreus P.B.
 
-Le genre comprend 7 espèces qui sont généralement des arbustes très ramifiés ou des arbres bas, qu'on trouve le plus souvent dans les forêts de régénération et les forêts riveraines. Les espèces ne montrent pas de différences considérables mais peuvent être facilement reconnues.
+The genus comprises 7 species which are generally highly branched shrubs or low trees, found most often in regeneration forests and riverine forests. The species do not show considerable differences but can be easily recognized.
 
-### CLÉ DES ESPÈCES
+### KEY TO THE SPECIES
 
-1. Jeunes rameaux, pétioles et principales nervures à la face inférieure, rendus scabres par des poils raides recourbés ; feuilles généralement simples ; arbustes atteignant 4 m de hauteur ..... 3. M. cuneifolius.
+1. Young branches, petioles and principal veins on the lower surface, made scabrous by stiff curved hairs; leaves generally simple; shrubs reaching 4 m in height ..... 3. M. cuneifolius.
 
-1'. Jeunes rameaux, pétioles et principales nervures à la face inférieure avec des poils dressés à apprimés, droits à légèrement recourbés ; feuilles composées ou simples ; arbustes ou arbres de taille moyenne.
+1'. Young branches, petioles and principal veins on the lower surface with erect to appressed hairs, straight to slightly curved; leaves compound or simple; shrubs or trees of medium size.
 
-2. Feuilles simples, entières à trilobées (rarement 5-lobées); stipules non entièrement amplexicaules ..... 2. M. serratus.
+2. Leaves simple, entire to trilobed (rarely 5-lobed); stipules not entirely amplexicaul ..... 2. M. serratus.
 
-2'. Feuilles généralement composées (rarement 3-5-lobées) ; stipules entièrement amplexicaules.
+2'. Leaves generally compound (rarely 3–5-lobed); stipules entirely amplexicaul.
 
 ---
 
-3. Feuilles brillantes et glabres dessus ; limbe atteignant  $ 40 \times 30 $ cm ; fleurs  $ \delta $ en groupes denses longs de 2-5 mm sur les derniers rameaux des inflorescences atteignant 9 cm de largeur ; fleurs  $ \varphi $ ovoides à coniques 1 bis M. preussii.
+3. Leaves shiny and glabrous above; blade reaching 40 × 30 cm; ♂ flowers in dense groups 2–5 mm long on the ultimate branches of inflorescences reaching 9 cm in width; ♀ flowers ovoid to conical 1 bis M. preussii.
 
-3' Feuilles mates et initialement avec des poils apprimés dessus ; limbe atteignant  $ 80 \times 90 $ cm ; fleurs  $ \delta $ sur les avant-derniers rameaux des inflorescences larges de plus de 15 cm ; fleurs  $ \varphi $ obovoides 1. M. arboreus.
+3' Leaves dull and initially with appressed hairs above; blade reaching 80 × 90 cm; ♂ flowers on the penultimate branches of inflorescences more than 15 cm broad; ♀ flowers obovoid 1. M. arboreus.
 
 ## Species in region
 

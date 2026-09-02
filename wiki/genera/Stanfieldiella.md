@@ -17,63 +17,43 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Perennial herbs, stoloniferous, with fibrous roots. Leaves spiral, with pseudopetiole;
+blade narrowly elliptic to elliptic-ovate, with involute prefoliation. Inflorescences terminal,
+terminal and axillary, or rarely exclusively axillary, in thyrses or reduced to a single cincinnus,
+axes generally with glandular pubescence. Flower actinomorphic: sepals free, equal; petals free,
+equal, without claw; stamens 6, subequal, fertile, with glabrous filament, anther small, with
+narrow connective and longitudinal dehiscence; staminodes absent; ovary 3-locular, locules with
+2 to 10 ovules; style slender. Fruits: capsules 3-locular, 3-valved, with 2 to 10 uniseriate seeds
+per locule. Seeds: hilum linear; embryotegium semi-dorsal.
 
-Herbes pérennes, stolonifères, à racines fibreuses. Feuilles spiralées , avec pseudopétiole ;
+Genus endemic to Africa, with four species, especially in West and Central Africa, three of which
+are represented in Gabon.
 
-limbe étroitement elliptique à elliptique-ovale, à préfoliaison involutée . Inflorescences ter-
+Bi: Brenan (1960), van der Burg (2006), Faden (1998, 2012), Morton (1967).
 
-minales, terminales et axillaires, ou rarement exclusivement axillaires, en thyrses ou réduites
+Bibliography
 
-à un seul cincinnus, axes généralement à pubescence glanduleuse. Fleur actinomorphe : sé-
+### Key to the species
 
-pales libres, égaux ; pétales libres, égaux, sans onglet ; étamines 6, subégales, fertiles , à filet
-
-glabre, anthère petite, à connectif étroit et déhiscence longitudinale ; staminodes absents ;
-
-ovaire 3-loculaire, loges avec 2 à 10 ovules ; style mince. Fruits : capsules 3-loculaires ,
-
-3-valvées , avec 2 à 10 graines unisériées par loge. Graines : hile linéaire ; embryotège semi-
-
-dorsale .
-
-Genre endémique d’Afrique, avec quatre espèces, surtout en Afrique de l’Ouest et centrale,
-
-dont trois représentées au Gabon.
-
-Bi : Brenan (1960), van der Burg (2006), Faden (1998, 2012), Morton (1967).
-
-B liographie
-
-### Clé des espèces
-
-1. - Graines 2 à 4 par loge, verruqueuses ; fruit ne dépassant guère les sépales
-
+1. - Seeds 2 to 4 per locule, verrucose; fruit scarcely exceeding the sepals
 ( S. brachycarpa ) .......................................................................................................... 2
 
-- Graines 4 à 10 par loge, lisses ou verruqueuses ; fruit nettement plus long que les
+- Seeds 4 to 10 per locule, smooth or verrucose; fruit distinctly longer than the
+sepals ......................................................................................................................... 3
 
-sépales ......................................................................................................................... 3
+2. - Plant entirely covered with spreading, stiff, whitish translucid pubescence
+.................................................................................... S. brachycarpa var. hirsuta
 
-2. - Plante entièrement couverte d’une pubescence étalée, raide, blanchâtre translu -
+- Plant glabrous, except for a few scattered, spreading, violaceous long hairs on the
+internodes, sheaths, and at the base of the blade ....................... S. brachycarpa var. brachycarpa
 
-cide .................................................................................... S. brachycarpa var. hirsuta
-
-- Plante glabre, excepté quelques longs poils épars, étalés, violacés, sur les entre-
-
-noeuds, gaines, et à la base du limbe ....................... S. brachycarpa var. brachycarpa
-
-3. - Inflorescence terminale généralement 3‒5 cm de largeur ; plante généralement
-
-jusqu’à 15–20(‒30) cm de hauteur ; fruit 1,5‒2 mm de largeur ; graine lisse
-
+3. - Terminal inflorescence generally 3–5 cm in width; plant generally up to 15–20(–30) cm
+in height; fruit 1.5–2 mm in width; seed smooth
 ................................................................................................................. S. imperforata
 
-- Inflorescence terminale compacte 2‒3 cm de longueur et de largeur ; plante géné -
-
-ralement plus robuste, 30‒50 cm de hauteur ; fruit 2,5‒3 mm de largeur ; graine
-
-verruqueuse ............................................................................................... S. oligantha
+- Compact terminal inflorescence 2–3 cm in length and width; plant generally more
+robust, 30–50 cm in height; fruit 2.5–3 mm in width; seed verrucose
+............................................................................................... S. oligantha
 
 ## Species in region
 

@@ -17,37 +17,19 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Glabrous trees. Intrapetiolar stipules, fused, persistent. Leaves grouped toward the branch extremities: lamina with entire margin; secondary veins distant.
 
-Arbres glabres. Stipules intrapétiolaires, soudées , persistantes. Feuilles groupées vers
+Terminal inflorescences, with flowers grouped in reduced cymules along the main axis (thus forming a false raceme). Flowers 4-merous, zygomorphic; sepals persistent, imbricate, unequal; petals imbricate, unequal; a single fertile stamen, anther opening by 2 apical pores; numerous staminodes, fused into a tube but free at the apex; ovary with 2 carpels, unilocular at the apex; style unique. Fruits capsular, inflated, opening by 2 valves. Seeds numerous, winged.
 
-les extrémités des branches : limbe à marge entière ; nervures secondaires distantes.
+Monospecific genus, known from Cameroon, Equatorial Guinea, Gabon, and the Republic of the Congo.
 
-Inflorescences terminales, à fleurs groupées en cymules réduites le long du rachis
+b: Amaral & Bittrich (2014), Pellegrin (1924).
 
-principal (alors en faux racème). Fleurs 4-mères, zygomorphes ; sépales persistants,
-
-imbriqués, inégaux ; pétales imbriqués, inégaux ; une seule étamine fertile , anthère
-
-s’ouvrant par 2 pores apicaux ; staminodes nombreux, soudés en tube, mais libres au
-
-sommet ; ovaire à 2 carpelles , uniloculaire au sommet ; style unique. Fruits capsulaires,
-
-renflées, s’ouvrant par 2 valves . Graines nombreuses, ailées .
-
-Genre monospécifique, connue du Cameroun, de la Guinée équatoriale, du Gabon et de
-
-la République du Congo.
-
-b : Amaral & Bittrich (2014), Pellegrin (1924).
-
-ibliographie
+ibliography
 
 ---
 
-Milne-Rehead 3030 ; 9, 10 : Marks 56 ; 11 : Gossweiler 4110 ). Dessin par G.W. Dalby (©), reproduit avec
-
-permission à partir de Robson (1963).
+Milne-Rehead 3030; 9, 10: Marks 56; 11: Gossweiler 4110). Drawing by G.W. Dalby (©), reproduced with permission from Robson (1963).
 
 ---
 

@@ -17,13 +17,11 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Lianes, with the habit of Thunbergia or Mendoncia; they differ from them by the dehiscence, by apical pores, of the anthers. Ovary with two-ovulate locules; style with bilobed stigma. Fruit capsular, rostrate, with 2 seeds per locule.
 
-Lianes, à port de Thunbergia ou Mendoncia; elles en différent par la déhiscence, par pores apicaux, des anthères. Ovaire à loges biovulées; style à stigmate bilobé. Fruit capsulaire rostré à 2 graines par loge.
+Type species: Ps. saccatus Radlk., from Madagascar; also from East Africa (= Ps. africanus S. Moore).
 
-Espèce type : Ps. saccatus Radlk., de Madagascar; également d'Afrique orientale (= Ps. africanus S. Moore).
-
-Trois espèces de Madagascar et d'Afrique tropicale, dont Ps. heterochondros Mildbr. de Tanzanie.
+Three species from Madagascar and tropical Africa, including Ps. heterochondros Mildbr. from Tanzania.
 
 ## Species in region
 

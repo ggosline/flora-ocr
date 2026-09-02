@@ -17,71 +17,27 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Trees or shrubs. Leaves simple, opposite, petiolate; limb with entire margin; venation pinnate, lateral veins anastomosing with the following ones; domatia in pocket or crypt form, present or absent. Inflorescences cauliflorous or axillary, in panicles, racemes or with fasciculate flowers. Flowers 4-merous, hermaphrodite; calyx deeply 4-lobed; corolla fleshy, white, glabrous, with tube often inconspicuous, with 4 valvate lobes in bud, with margin convolute at anthesis; stamens with very short filaments, alternating with the corolla lobes, anthers extrorse, almost hidden in the corolla lobe; ovary subglobose; style short. Fruits drupaceous, with 1 seed only. Seed exalbuminous; cotyledons plano-convex, with apical radicle.
 
-Arbres ou arbustes . Feuilles simples , opposées, pétiolées ; limbe à marge entière ; nervation
+Genus with approximately 70 species in Africa, including Madagascar; in Gabon, four species and another one to be sought.
 
-pennée, nervures latérales bouclant avec les suivantes ; domaties en pochette ou en crypte, pré -
+Notes: For a long time, the delimitation of genera in the tribe Oleeae Hoffmanns. & Link ex Dumort., with among others, Chionanthus L., Linociera Sw. ex Schreb. and Noronhia Stadtm. ex Thouars, was uncertain. Recently, molecular data (Hong-Wa & Besnard, 2013) showed that the four species present in Gabon and formerly placed in Chionanthus, are better placed in Noronhia.
 
-sentes ou absentes. Inflorescences cauliflores ou axillaires, en panicules, racèmes ou à fleurs
+N. mildbraedii (Gilg & Schellenb.) Hong-Wa & Besnard is rare in forests in the north, east and south of Gabon; its presence in Gabon is probable, for which reason it appears in the key below.
 
-fasciculées. Fleurs 4-mères, hermaphrodites ; calice profondément 4-lobé ; corolle charnue,
+B: Green (1963), Hong-Wa & Besnard (2013), Liben (1973), Stearn (1980).
 
-blanche, glabre, à tube souvent discret , à 4 lobes valvaires en bouton, à marge convolutée
+Bibliography
 
-à l’anthèse ; étamines à filets très courts, alternant avec les lobes de la corolle, anthères
+### Key to the species
 
-extrorses , presque cachées dans le lobe de la corolle ; ovaire subglobuleux ; style court. Fruits
+1. - Tree 3–8 m in height; leaf limb 15–32 × 5–14 cm, the lateral veins without domatia; corolla 3–4 mm in length; fruit pink to dark red .......... N. camptoneura
 
----
+- Often smaller habit; leaf limb smaller, with lateral veins without or with domatia; corolla generally longer; fruit reddish, blue or purple ............ 2
 
-12 Frans J. BRETELER & Carel C.H. JONGKIND
+2. - Inflorescence with axis < 2 cm; leaf limb with lateral veins without domatia; corolla 9–20 mm in length; fruit red; generally a shrub < 2 m in height ........................................................................................................... N. congesta
 
-drupacés, avec 1 seule graine . Graine exalbuminée ; cotylédons plans-convexes, à radicule
-
-apicale.
-
-Genre avec environ 70 espèces en Afrique, y inclus Madagascar ; au Gabon, quatre espèces et
-
-une autre à rechercher.
-
-Notes : Depuis longtemps, la délimitation des genres dans la tribu des Oleeae Hoffmanns. & Link ex Du -
-
-mort., avec entre autres, Chionanthus L., Linociera Sw. ex Schreb. et Noronhia Stadtm. ex Thouars , était
-
-incertaine. Récemment, des données moléculaires (Hong-Wa & Besnard, 2013) ont montré que les quatre
-
-espèces présentes au Gabon et auparavant placées dans Chionanthus , le sont mieux dans Noronhia.
-
-N. mildbraedii (Gilg & Schellenb.) Hong-Wa & Besnard est rare dans les forêts au nord, à l’est et au sud
-
-du Gabon ; sa présence au Gabon est probable, raison pour laquelle elle figure dans la clé ci-dessous.
-
-B : Green (1963), Hong-Wa & Besnard (2013), Liben (1973), Stearn (1980).
-
-i B liographie
-
-### Clé des espèces
-
-1. - Arbre de 3–8 m de hauteur ; limbe foliaire 15–32 × 5–14 cm, les nervures latérales sans
-
-domaties ; corolle 3–4 mm de longueur; fruit rose à rouge foncé .......... N. camptoneura
-
-- Port souvent plus petit; limbe foliaire plus petit, à nervures latérales sans ou avec
-
-domaties ; corolle généralement plus longue ; fruit rougeâtre, bleu ou pourpre ............ 2
-
-2. - Inflorescence à axe de < 2 cm ; limbe foliaire à nervures latérales sans domaties ;
-
-corolle 9–20 mm de longueur ; fruit rouge ; généralement un arbuste de < 2 m de
-
-hauteur ........................................................................................................... N. congesta
-
-- Inflorescence à axe souvent plus long ; limbe foliaire à nervures latérales sans ou avec
-
-domaties ; corolle généralement plus courte ; fruit rougeâtre, bleu ou pourpre ; port
-
-généralement plus élevé .................................................................................................. 3
+- Inflorescence with axis often longer; leaf limb with lateral veins without or with domatia; corolla generally shorter; fruit reddish, blue or purple; habit generally taller .................................................................................................. 3
 
 ## Species in region
 

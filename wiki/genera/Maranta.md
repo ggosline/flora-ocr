@@ -16,11 +16,9 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Herbs with branched stems and homotropous leaves. Inflorescences paniculate with abaxial bracts subtending one or several cymes of two unequally pedicelled flowers; the inflorescence peduncle is well developed; bracteoles absent. Sepals free, corolla tubular and swollen at the base. Two external petaloid staminodes, large. Internal staminode hooded, laterally appendiculate. Ovary glabrous, unilocular by abortion. Fruit indehiscent, coriaceous, with one arillate seed.
 
-Herbes ramiées à feuilles homotropes. Inflorescences paniculées à bractées abaxiales axillant une ou plusieurs cymes de deux fleurs inégalement pédicellées ; le pédoncule inflorescentiel est bien développé ; bractéoles absentes. Sépales libres, corolle tubuleuse et renflée à la base. Deux staminodes externes pétaloïdes, grands. Staminode interne en capuchon, appendiculé latéralement. Ovaire glabre, uniloculaire par avortement. Fruit indéhiscent, coriace, à une graine arillée.
-
-Ce genre important d'Amérique tropicale comporte une vingtaine d'espèces. L'une d'elles est introduite au Gabon :
+This important genus of tropical America comprises about twenty species. One of them has been introduced to Gabon:
 
 ## Species in region
 

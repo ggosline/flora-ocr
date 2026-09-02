@@ -17,19 +17,17 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Perennial cespitose herbs, generally aromatic when crushed. Inflorescence in a very dense compound panicle. Racemes geminate, formed of pairs of heterogamous spikelets except the lower pair of one or both racemes which is homogamous and male. Rachis articles and pedicels linear, often cupular or auriculate at the apex.
 
-Herbes pérennes cespiteuses, généralement aromatiques lorsqu'on les froisse. Inflorescence en panicule composée très dense. Racèmes géminés, formés de paires d'épillets hétérogames sauf la paire inférieure de l'un ou des deux racèmes qui est homogame et mâle. Articles du rachis et pédicelles linéaires, souvent cupulaires ou auriculés au sommet.
+Spikelets with 2 florets, the lower reduced to a lemma, the upper hermaphrodite in the sessile spikelets, male or sometimes sterile in the pedicellate spikelets.
 
-Épillets à 2 fleurs, l'inférieure réduite à une glumelle, la supérieure hermaphrodite dans les épillets sessiles, mâle ou parfois neutre dans les épillets pédicellés.
+Fertile spikelets dorsally compressed; lower glume flattened or more or less depressed on the back, bicarinate; upper glume naviculate, carinate toward the top, with one nerve. Lemma of the lower floret hyaline, entire, with two nerves. Fertile lemma bifid, awned in the sinus. Palea absent; two small lodicules, glabrous; 3 stamens.
 
-Épillets fertiles dorsalement comprimés; glume inférieure aplatie ou plus ou moins déprimée sur le dos, bicarénée; glume supérieure naviculaire, carénée vers le haut, à une nervure. Glumelle de la fleur inférieure hyaline, entière, à deux nervures. Lemma fertile bifide, aristée dans le sinus. Paléa absente; deux lodicules petites, glabres; 3 étamines.
+Pedicellate spikelets generally little different in form, but never depressed on the back. Glumes awnless. One lemma in the lower floret, hyaline, with two nerves; upper floret most often male, or suppressed.
 
-Épillets pédicellés généralement peu différents par la forme, mais jamais déprimés sur le dos. Glumes mutiques. Une glumelle dans la fleur inférieure, hyaline, à deux nervures; fleur supérieure le plus souvent mâle, ou supprimée.
+This genus is distinguished from the preceding one by the great density of its inflorescence.
 
-Ce genre se distingue du précédent par la grande densité de son inflorescence.
-
-Deux espèces se rencontrent au Gabon, mais toutes deux cultivées.
+Two species are found in Gabon, but both are cultivated.
 
 ## Species in region
 

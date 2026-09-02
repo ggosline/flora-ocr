@@ -17,61 +17,11 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Perennial herbs, rhizomatous or suffrutescent. Leaves spiral, most often in basal rosette or in whorls, rarely distichous or subopposite; generally pseudopetiolate; blade pubescent at least on the margins, with symmetrical base. Inflorescences terminal or terminal and axillary, sometimes entirely axillary, in pedunculate or subsessile thyrse, or rarely reduced to a simple cincinnus, with male and female flowers, or bisexual and male, rarely all bisexual. Flowers slightly or distinctly zygomorphic, pedicellate; sepals free, subequal, petaloid; petals free, subequal or the lower one distinctly broader than the others, generally equal to the sepals, without claw, white or pink to dark red or violet; stamens 3, oppositipetalous, equal or dimorphic, in which case the two upper ones with shorter filament and anther of different form from that of the lower stamen, filaments generally glabrous; staminodes 3, oppositisepalous, subequal or the upper one sometimes broader, reduced or absent, often composed of a filament accompanied by long moniliform hairs in a fan-like arrangement, antheroid absent; ovary sessile, glabrous or pubescent, 3-locular, locules equal, each with 2 to 6 ovules uni- or biseriate; style relatively short, stigma capitate to deltoid. Fruits: berries, orange to red or blue to black at maturity, locules with 1 to 6 seeds uni- or biseriate. Seeds triangular or polygonal, each covered with a thin, translucent, papyraceous layer when dry; hilum generally punctiform; embryotegium dorsal.
 
-Herbes pérennes, rhizomateuses ou suffrutescentes. Feuilles spiralées, le plus souvent en ro-
+A strictly African genus of 33 species showing particularly strong abundance and diversity in West Africa, Central Africa and in the islands of the Gulf of Guinea. In Gabon, 20 species are known, of which eight have been described recently, and one is described here.
 
-sette basale ou en verticilles , rarement distiques ou subopposées ; généralement pseudopé-
-
-tiolées ; limbe pubescent au moins sur les marges , à base symétrique. Inflorescences termi-
-
-nales ou terminales et axillaires, parfois toutes axillaires, en thyrse pédonculé ou subsessile,
-
-ou rarement réduit à un cincinnus simple, à fleurs mâles et femelles, ou bisexuées et mâles,
-
-rarement toutes bisexuées. Fleurs légèrement ou distinctement zygomorphes, pédicellées ;
-
-sépales libres, subégaux, pétaloïdes ; pétales libres, subégaux ou l’inférieur nettement plus
-
-large que les autres, généralement égaux aux sépales, sans onglet , blancs ou roses à rouge
-
-foncé ou violets ; étamines 3, oppositipétales, égales ou dimorphes, auquel cas, les deux supé-
-
-rieures à filet plus court et à anthère de forme différente de celle de l’étamine inférieure, filets
-
-généralement glabres ; staminodes 3, oppositisépales , subégaux ou le supérieur parfois plus
-
-large, réduit ou absent, souvent composés d’un filet accompagné de longs poils moniliformes
-
-en éventail, anthérode absent ; ovaire sessile, glabre ou pubescent, 3-loculaire, loges égales,
-
-chacune avec 2 à 6 ovules uni- ou bisériés ; style relativement court, stigmate capité à deltoïde.
-
-Fruits : baies , orange à rouges ou bleues à noires à maturité, loges avec 1 à 6 graines uni- ou
-
-bisériées. Graines triangulaires ou polygonales, chacune couverte d’une couche mince, trans -
-
-lucide, papyracée sur le sec ; hile généralement ponctiforme ; embryotège dorsale .
-
-Un genre strictement africain de 33 espèces présentant une abondance et une diversité particu -
-
-lièrement fortes en Afrique de l’ouest, centrale et dans les îles du Golfe de Guinée. Au Gabon,
-
-20 espèces sont connues, dont huit ont été décrites récemment, et une est décrite ici.
-
-Notes : Ce genre est particulièrement diversifié au Gabon. Récemment, nous avons identifié huit espèces
-
-nouvelles pour la science (Bidault & van der Burg 2019) et nous sommes convaincus que d’autres nou -
-
-veautés restent à découvrir. Certains taxons probablement nouveaux restent à caractériser, mais l’état
-
-actuel des collections ne nous permet pas de les décrire avec certitude. En conséquence, ceux-ci sont en
-
-partie indiqués dans les remarques afférentes à différentes espèces. Un traitement intégral du genre en
-
-Afrique semblerait alors opportun. Parmi les huit espèces récemment décrites, cinq étaient auparavant
-
-confondues avec P. satabiei Brenan, mais sont désormais bien discriminées. Ce nom a donc été largement
+Notes: This genus is particularly diverse in Gabon. Recently, we identified eight species new to science (Bidault & van der Burg 2019) and we are convinced that other novelties remain to be discovered. Certain probably new taxa remain to be characterized, but the current state of collections does not allow us to describe them with certainty. Consequently, these are partly indicated in the remarks pertaining to different species. A comprehensive treatment of the genus in Africa would therefore seem opportune. Among the eight recently described species, five were previously confused with P. satabiei Brenan, but are now well discriminated. This name has therefore been widely
 
 ## Species in region
 

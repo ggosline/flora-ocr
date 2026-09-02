@@ -16,43 +16,41 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 in Engler & Prantl, Nat. Pflanzenfam. 4(2) : 74 (1895).
 
-Herbes pérennes, dressées, glabres ; tiges simples ou peu ramifiées, quadrangulaires à ailées.
+Perennial herbs, erect, glabrous; stems simple or sparingly branched, quadrangular to winged.
 
-Feuilles opposées, sessiles. Inflorescences en cymes terminales et axillaires, pluriflores,
+Leaves opposite, sessile. Inflorescences in terminal and axillary cymes, many-flowered,
 
-longuement pédonculées . Fleurs actinomorphes, 4-mères ; calice campanulé , à lobes avec
+long-pedunculate. Flowers actinomorphic, 4-merous; calyx campanulate, with lobes bearing
 
-2 ou 3 côtes longitudinales saillantes , sans écailles à la base interne ; corolle en entonnoir ;
+2 or 3 prominent longitudinal ridges, without scales at the internal base; corolla funnel-shaped;
 
-étamines 4, incluses, inégales, une grande à anthère fertile et trois plus petites à anthère
+stamens 4, included, unequal, one large with fertile anther and three smaller ones with sterile
 
-stérile ; ovaire 1-loculaire ; stigmate 2-lobé. Fruits oblongoïdes. Graines cubiques à rectan-
+anther; ovary 1-locular; stigma 2-lobed. Fruits oblong. Seeds cubic to rectangular, sometimes
 
-gulaires, parfois globuleuses ; testa réticulé, à cellules polygonales.
+globular; testa reticulate, with polygonal cells.
 
 ---
 
-Fleur (× 5). – 5. Partie de la corolle et une étamine (× 10). – 6. Étamines d’un bouton (× 10). – 7. Anthère,
+Flower (× 5). – 5. Part of the corolla and one stamen (× 10). – 6. Stamens of a bud (× 10). – 7. Anther,
 
-vue de profil (× 10). – 8. Gynécée (× 10). – 9. Ovaire, coupe transversale (× 10). – 10. Fruit mûr (× 5). –
+side view (× 10). – 8. Gynoecium (× 10). – 9. Ovary, transverse section (× 10). – 10. Mature fruit (× 5). –
 
-11. Valves de la capsule, vues externe et interne (× 5). – 12. Graine (× 50). (1-12 : Le Testu 8972 ). Dessin
+11. Capsule valves, external and internal views (× 5). – 12. Seed (× 50). (1-12 : Le Testu 8972 ). Drawing
 
-par A. Raynal, Muséum national d’Histoire naturelle, Paris (©), reproduit avec permission à partir de
+by A. Raynal, Muséum national d'Histoire naturelle, Paris (©), reproduced with permission from
 
 Raynal (1965).
 
 ---
 
-Genre comprenant une espèce d’Afrique tropicale et présente au Gabon.
+Genus comprising one species from tropical Africa and present in Gabon.
 
-B : Boutique (1972), Paiva & Nogueira (1990), Sileshi (2002), Struwe & Albert (2002),
+B: Boutique (1972), Paiva & Nogueira (1990), Sileshi (2002), Struwe & Albert (2002),
 
-i B liographie
+Bibliography
 
 Struwe & Pringle (2018), Taylor (1963), Thiv (2003).
 

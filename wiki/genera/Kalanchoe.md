@@ -17,63 +17,25 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Annual or perennial herbs, sometimes shrubs. Leaves generally opposite, decussate, simple, fleshy, the upper ones often scaly; blade entire or rarely pinnatifid, margin entire to sinuate, serrate or dentate. Inflorescence terminal, composed of cymes grouped in panicle, corymb or thyrse. Flowers erect or pendulous, pedicellate; sepals 4, free or fused to the middle; petals 4, fused for 2/3 or more, tube quadrangular and ± inflated, throat often constricted, lobes often apiculate; stamens 8, generally included, filaments fused to the middle with the corolla, anthers ovate or oblong, with ± spherical connective; gynoecium superior, carpels 4, free or ± fused at the base, nectariferous scales linear to semicircular; styles variable but often shorter than the carpel. Fruits with several seeds. Seeds ellipsoid or oblong, with 4–6 ribs and tegument longitudinally wrinkled.
 
-Herbes annuelles ou pérennes, parfois arbustes. Feuilles généralement opposées, décus -
+Genus of approximately 150 species known from tropical and subtropical regions of the Old World and one species in the New World (and others introduced); most species in South Africa and Madagascar. Many are cultivated as ornamentals.
 
-sées, simples, charnues, les supérieures souvent écailleuses ; limbe entier ou rarement
-
-pennatifide, marge entière à sinueuse, serrée ou dentée. Inflorescence terminale , com -
-
-posée de cymes groupées en panicule, corymbe ou thyrse. Fleurs dressées ou pendantes,
-
-pédicellées ; sépales 4 , libres ou soudés jusqu’à la moitié ; pétales 4, soudés sur les 2/3
-
-ou plus, tube quadrangulaire et ± renflé , gorge souvent contractée, lobes souvent api -
-
-culés ; étamines 8 , généralement incluses, filets soudés jusqu’à la moitié avec la corolle,
-
-anthères ovées ou oblongues, à connectif ± sphérique ; gynécée supère, carpelles 4 , libres
-
-ou ± soudés à la base, écailles nectarifères linéaires à semi-circulaires ; styles variables
-
-mais souvent plus courts que le carpelle. Fruits à plusieurs graines. Graines ellipsoïdes
-
-ou oblongues, à 4–6 côtes et tégument longitudinalement rugueux.
-
-Genre d’environ 150 espèces connues des régions tropicales et subtropicales du Vieux
-
-Monde et une espèce dans le Nouveau Monde (et d’autres introduites) ; la plupart des
-
-espèces en Afrique du Sud et Madagascar. Beaucoup sont cultivées comme ornementales.
-
-Au Gabon, il y a deux espèces, l’une indigène et l’autre cultivée.
+In Gabon, there are two species, one indigenous and the other cultivated.
 
 ---
 
 ---
 
-Note taxonomique : dans le passé, le genre Bryophyllum Salisb. était souvent reconnu
+Taxonomic note: in the past, the genus Bryophyllum Salisb. was often recognized as distinct from Kalanchoe. Today, most authors treat it as a synonym.
 
-comme distinct de Kalanchoe . Aujourd’hui, la plupart des auteurs le traitent comme sy -
+Bibliography: Descoings (2003), Raadts (1977), Thiede & Eggli (2007), Wickens (1987).
 
-nonyme.
+### Key to species
 
-b : Descoings (2003), Raadts (1977), Thiede & Eggli (2007), Wickens
+1. - All leaves simple; flowers erect; calyx with tube up to 1.5 mm in length; corolla 11–25 mm in length ................................ K. crenata ssp. crenata
 
-ibliographie
-
-(1987).
-
-### Clé des espèces
-
-1. - Feuilles toutes simples ; fleurs dressées ; calice à tube jusqu’à 1,5 mm de lon-
-
-gueur ; corolle 11–25 mm de longueur ................................ K. crenata ssp. crenata
-
-- Feuilles basales simples, les supérieures à 3 ou 5 folioles ; fleurs pendantes ; calice
-
-à tube jusqu’à 25 mm de longueur ; corolle environ 40 mm de longueur
+- Basal leaves simple, the upper ones with 3 or 5 leaflets; flowers pendulous; calyx with tube up to 25 mm in length; corolla approximately 40 mm in length
 
 .................................................................................................................... K. pinnata
 

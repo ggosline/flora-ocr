@@ -16,39 +16,37 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 ANDERSS., Nov. Act. Soc. Scient. Upsala sér. 3, II : 254 (nom seul.).
 
-Herbes généralement cespiteuses; inflorescences en grandes panicules composées.
+Grasses generally caespitose; inflorescences in large compound panicles.
 
-Épillets par paires, différents par la forme et le sexe, ou homogames dans la ou les paires inférieures. Articles du racème et pédicelles filiformes. Fleur inférieure réduite à une glumelle, la supérieure hermaphrodite dans les épillets sessiles des paires hétérogames, mâle ou neutre ailleurs. Épillets fertiles aplatis dorsalement, à bords arrondis; glume inférieure tronquée ou bidentée, parfois légèrement déprimée sur le dos. Glume supérieure naviculaire, carénée vers le haut, à 3 nervures. Lemma de la fleur inférieure hyaline, à deux nervures, ciliée, celle de la fleur supérieure étroite, avec une marge hyaline, bidentée, prolongée dans le sinus par une arête genouillée, plus ou moins pubescente. Palée nulle ou réduite à une petite écaille hyaline. Deux lodicules petites, glabres, 3 étamines. Épillets pédicelles aigus, généralement plus longs que les épillets sessiles. Lemmas des deux fleurs bien développées.
+Spikelets in pairs, differing in form and sex, or homogamous in the lower pair or pairs. Rachis articles and pedicels filiform. Lower floret reduced to a lemma, the upper hermaphrodite in the sessile spikelets of heterogamous pairs, male or neuter elsewhere. Fertile spikelets dorsally flattened, with rounded margins; lower glume truncate or bidentate, sometimes slightly depressed on the back. Upper glume navicular, keeled towards the apex, with 3 nerves. Lemma of the lower floret hyaline, with two nerves, ciliate, that of the upper floret narrow, with a hyaline margin, bidentate, produced into the sinus by a geniculate awn, more or less pubescent. Palea absent or reduced to a small hyaline scale. Two small lodicules, glabrous, 3 stamens. Pedicelled spikelets acute, generally longer than the sessile spikelets. Lemmas of both well-developed florets.
 
-Le genre Hyperrhenia se reconnaît à ses racèmes aristés géminés et soutenus par des spathéoles, et aux marges enroulées de la glume inférieure de l'épillet sessile; ceci le distingue des Andropogon, dont certaines espèces, A. pseudapricus par exemple, ont une allure générale très comparable.
+The genus Hyperrhenia is recognized by its awned racemes geminate and supported by spathéoles, and by the enrolled margins of the lower glume of the sessile spikelet; this distinguishes it from Andropogon, of which certain species, A. pseudapricus for example, have a very comparable general appearance.
 
-Le genre compte plus de 60 espèces, surtout africaines, dont une douzaine au Gabon.
+The genus comprises more than 60 species, mainly African, of which about a dozen in Gabon.
 
-Ce sont pour la plupart de grandes ,ou de très grandes herbes dont l'importance est considérable en zone guinéenne. Sauf dans les sols très sableux, ce sont elles en effet qui constituent le plus souvent la presque totalité du tapis herbacé, avec dans chaque cas une seule espèce largement dominante.
+These are for the most part tall or very tall grasses whose importance is considerable in the Guinean zone. Except in very sandy soils, they are indeed those that most often constitute almost the totality of the herbaceous sward, with in each case a single species largely dominant.
 
 ---
 
-Beaucoup d’entre-elles ont ainsi une signification écologique précise :
+Many of them thus have precise ecological significance:
 
-H. dissoluta : terrains sableux.
+H. dissoluta : sandy soils.
 
-H. Welwitschii : alluvions, terrains frais, mais relativement légers.
+H. Welwitschii : alluvial soils, fresh soils, but relatively light.
 
-H. cyanescens : alluvions, terrains frais, argileux.
+H. cyanescens : alluvial soils, fresh soils, clayey.
 
-H. rufa : espèce assez exigeante, demande des sols profonds, frais, assez argileux et bien pourvus en matière organique.
+H. rufa : rather demanding species, requires deep, fresh, fairly clayey soils well supplied with organic matter.
 
-H. diplandra : amplitude écologique plus large; exige cependant des sols profonds, assez argileux, ou, si sableux, bien pourvus en matière organique.
+H. diplandra : broader ecological amplitude; nevertheless requires deep, fairly clayey soils, or, if sandy, well supplied with organic matter.
 
-H. lecomtei : sols secs, peu profonds, caillouteux ou latéritiques
+H. lecomtei : dry, shallow, stony or lateritic soils.
 
-H. chrysargyrea : au Gabon et au Congo ne se rencontre que sur les zones d'affleurement de roches calcaires. Il indique d'assez grandes teneurs en éléments minéraux, calcium en particulier.
+H. chrysargyrea : in Gabon and Congo found only on zones with limestone rock outcrops. It indicates fairly high contents in mineral elements, calcium in particular.
 
-H. familiaris et H. filipendula : jachères, ou savanes, sols plutôt légers.
+H. familiaris and H. filipendula : fallow land or savannas, rather light soils.
 
 ## Species in region
 

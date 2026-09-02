@@ -17,23 +17,21 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Lianes ou buissons sarmenteux. Stipules simples, bifides ou bilobées. Feuilles souvent ± pubescentes, parfois glabres
+Lianas or sarmentose shrubs. Stipules simple, bifid or bilobed. Leaves often ± pubescent, sometimes glabrous
 
 ---
 
-(M. arcuata, M. polita). Limbe mince elliptique à base variable et sommet aigu souvent peu nettement acuminé. 4-17 paires de nervures secondaires. Nervures intersecondaires souvent subparallèles.
+(M. arcuata, M. polita). Blade thin elliptic with variable base and acute often not clearly acuminate apex. 4–17 pairs of secondary veins. Intersecondary veins often subparallel.
 
-Inflorescences multiflores (sauf M. elegans) généralement ornées à leur périphérie de quelques sépales remarquablement développés en feuilles attractives blanches, blanc-jaune ou rouges, à base pétiolée, à limbe arrondi, elliptique, ové ou lancéolé, à nervures flabellées (3 ou 5 principales à la base). Quelques espèces sans sépales attractifs, ont alors des corolles plus amples et plus colorées (M. arcuata, M. elegans). Fleurs bisexuées avec un sexe dominant (hétérostylie) ou fleurs unisexuées par avortement d'un des sexes (dioecie). Corolle à lobes jaune vif ou jaune d'or sauf exceptions (rouges chez M. elegans; blancs chez M. erythrophylla). Tube à pubescence interne assez abondante, poils ascendants sous les anthères et au-dessus jusqu'à la gorge. Étamines fixées vers le milieu du tube de la corolle ou un peu au-dessus, à filet très bref inséré dans le quart inférieur de l'anthère. Connectif brièvement apiculé au sommet; base de l'anthère ± fendue. Le filet staminal dans sa partie soudée au tube de la corolle présente souvent un petit décollement qui fait face à une petite fente interpétalaire (F. Hallé : 279). Pieds ♂ à étamines développées, ovaires et styles minuscules; pieds ♀ à étamines réduites style long, massue stigmatique oblongue bilobée, ovaire développé déjà turbiné dans le bouton. Deux loges à placentas peltés, plus rarement 3 ou 4 loges. Ovules très nombreux en masses sémiovoïdes à face externe bombée et face interne plane autour du mince pédoncule placentaire.
+Multiflorous inflorescences (except M. elegans) generally adorned at their periphery with a few sepals remarkably developed into attractive white, whitish-yellow or red leaves, with petiolate base, with rounded, elliptic, ovate or lanceolate blade, with flabellate veins (3 or 5 principal at the base). A few species without attractive sepals, having instead more ample and more coloured corollas (M. arcuata, M. elegans). Flowers bisexual with a dominant sex (heterostyly) or unisexual flowers through abortion of one of the sexes (dioecy). Corolla with bright yellow or golden yellow lobes except exceptions (red in M. elegans; white in M. erythrophylla). Tube with fairly abundant internal pubescence, hairs ascending beneath the anthers and above to the throat. Stamens fixed towards the middle of the corolla tube or somewhat above, with very short filament inserted in the lower quarter of the anther. Connective shortly apiculate at the apex; base of the anther ± cleft. The staminal filament in its part fused to the corolla tube often shows a small detachment that faces a small interpetal slit (F. Hallé: 279). ♂ Plants with developed stamens, minute ovaries and styles; ♀ plants with reduced stamens long style, oblong bilobed stigmatic club, ovary already turbinate in the bud developed. Two locules with peltate placentas, more rarely 3 or 4 locules. Ovules very numerous in semioval masses with convex external face and plane internal face around the thin placental pedicel.
 
-Fruits sphériques elliptiques ou oblongs, de 15-25 mm de long env., à petits sépales souvent persistants. Graines brunes, petites d'env. 0,5-1,1 mm, à testa assez grossièrement réticulé. Germination obtenue en 13 jours chez M. arcuata à partir de graines fraîchement lavées (N. Hallé 3430). Nombre chromosome-mique 2n = 22 (8 espèces citées par F. Hallé).
+Fruits spherical elliptic or oblong, 15–25 mm long approx., with small often persistent sepals. Seeds brown, small approx. 0.5–1.1 mm, with fairly coarsely reticulate testa. Germination obtained in 13 days in M. arcuata from freshly washed seeds (N. Hallé 3430). Chromosome number 2n = 22 (8 species cited by F. Hallé).
 
-Type du genre : Mussaenda frondosa Linné de l'Inde.
+Type of the genus: Mussaenda frondosa Linné from India.
 
 ---
 
-Plus de 50 espèces d'Afrique tropicale; le genre est représenté en outre par une centaine d'espèces d'Asie, d'Océanie et de Madagascar; un très petit nombre d'espèces en Amérique. 7 espèces Gabon. Un huitième espèce M. elegans Schum. et Thonn., est à rechercher au Gabon; elle est connue du Mayombe congolais (H. Lecomte A. 100).
+More than 50 species from tropical Africa; the genus is moreover represented by a hundred species from Asia, Oceania and Madagascar; a very small number of species in America. 7 species in Gabon. An eighth species M. elegans Schum. et Thonn., is to be sought in Gabon; it is known from the Congolese Mayombe (H. Lecomte A. 100).
 
 ## Species in region
 

@@ -16,45 +16,43 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 in Freycinet Voy. Monde Bot. : tab. 35 (1827), & 421 (1829), nom. conserv. – FTWA : 206 (1968) ; FAC 1 : 251 (1984) ; FCAM 1 : 294 (1998) ; GYNOR 1 : 328 (2000).
 
-Tubercule unique. Feuille unique, produite après les fleurs, dressée à prostrée, pliée, base souvent cordée. Inflorescence uni- à pluriflore, dressée. Fleurs résupinées, parfois dressées, tubulaires. Labelle ± trilobé,
+Single tuber. Single leaf, produced after the flowers, erect to prostrate, folded, base often cordate. Inflorescence uni- to pluriflorous, erect. Flowers resupinate, sometimes erect, tubular. Labellum ± trilobed,
 
 ---
 
-souvent pubescent ou avec des reliefs charnus du côté interne. Gynostème dressé, grêle, un peu renflé près du sommet. Clinandrium apical très développé. Pollinies 4, sectiles. Stigmate concave, entier. Rostellum tronqué, subdressé, produisant une seule viscidie cellulaire. Caudicules absents. - Pl. 46, p. 95.
+often pubescent or with fleshy reliefs on the inner side. Gynostemium erect, slender, somewhat swollen near the apex. Clinandrium apical, much developed. Pollinia 4, sectile. Stigma concave, entire. Rostellum truncate, suberect, producing a single cellular viscidium. Caudicles absent. - Pl. 46, p. 95.
 
-La biologie de la pollinisation de ce genre a été observée par PETTERSSON (1989). Il a distingué 3 groupes d'espèces selon les composantes de leur pollinisation. Ces groupes correspondent pour la plupart aux 3 sections de Nervilia :
+The pollination biology of this genus was observed by PETTERSSON (1989). He distinguished 3 groups of species according to the components of their pollination. These groups correspond for the most part to the 3 sections of Nervilia:
 
-– Le groupe de N. bicarinata, a une inflorescence pluriflore, des fleurs moyennes à grandes sans éperon ni nectar. La pollinisation aurait lieu grâce à un leurre attirant le plus souvent des guêpes solitaires.
+– The N. bicarinata group has pluriflorous inflorescence, medium to large flowers without spur or nectar. Pollination would take place by means of a lure attracting most often solitary wasps.
 
-– Le groupe de N. petraea est uniflore ; ses fleurs sont de taille moyenne, sans éperon, mais avec une petite quantité de nectar, les pollinisateurs étant de petites abeilles.
+– The N. petraea group is uniflorous; its flowers are medium-sized, without spur, but with a small amount of nectar, the pollinators being small bees.
 
-– Le groupe de N. stolziana est aussi uniflore ; ses fleurs de taille moyenne ont un éperon et produisent une importante quantité de nectar. Les pollinisateurs sont des Coléoptères-Scoliidae. On rencontre aussi quelques espèces autogames et cleistogames.
+– The N. stolziana group is also uniflorous; its medium-sized flowers have a spur and produce a significant amount of nectar. The pollinators are Coleoptera-Scoliidae. A few autogamous and cleistogamous species are also found.
 
-Le genre compte une soixantaine d'espèces réparties en Afrique, Asie et Australie, dont 13 pour l'Afrique continentale, 3 sont présentes au Gabon.
+The genus comprises approximately sixty species distributed in Africa, Asia and Australia, of which 13 for continental Africa, 3 are present in Gabon.
 
-### CLÉ DES ESPÈCES (par les fleurs)
+### KEY TO SPECIES (by flowers)
 
-1. Labelle à marge apicale fimbriée ou crénelée ..... 3. N. petraea
+1. Labellum with apical margin fimbriate or crenate ..... 3. N. petraea
 
-1'. Labelle à marge apicale entière ..... 2
+1'. Labellum with apical margin entire ..... 2
 
-2. Partie inférieure du labelle panduriforme, plus large au sommet, lobes latéraux obtus ..... 1. N. adolphi
+2. Lower part of labellum panduriform, wider at the apex, lateral lobes obtuse ..... 1. N. adolphi
 
-2'. Partie inférieure du labelle oblongue-elliptique à oblongue en croissant de lune, plus large près du milieu, lobes latéraux aigus à auriculiformes ..... 2. N. bicarinata
+2'. Lower part of labellum oblong-elliptic to oblong in crescent shape, wider near the middle, lateral lobes acute to auriculiform ..... 2. N. bicarinata
 
-### CLÉ DES ESPÈCES (par les feuilles)
+### KEY TO SPECIES (by leaves)
 
-1. Pétiole > 10 cm ..... 2. N. bicarinata
+1. Petiole > 10 cm ..... 2. N. bicarinata
 
-1'. Pétiole < 6(7) cm ..... 2
+1'. Petiole < 6(7) cm ..... 2
 
-2. Feuille très petite, largeur < 2(2.5) cm et sans apicule distinct ..... 3. N. petraea
+2. Leaf very small, width < 2(2.5) cm and without distinct apicule ..... 3. N. petraea
 
-2'. Feuille plus grande et apiculée ..... 1. N. adolphi
+2'. Leaf larger and apiculate ..... 1. N. adolphi
 
 ## Species in region
 

@@ -17,35 +17,17 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Shrub to small tree, glabrous, with branches narrowly 2-winged. Stipules small, ± persistent. Leaves distichous on plagiotropic branches, with entire margins, without glands.
 
-Arbuste à petit arbre, glabre, à branches étroitement 2 - ailés . Stipules petites , ± persis -
+Flowers unisexual, monoecious, axillary, the male ones in fascicles, the female ones solitary, with 6 imbricate sepals, without petals. Male flower: extrastaminal disc; stamens 2, very short; pistillode absent. Female flower: disc very large; ovary ± sessile, ± sunken in the disc, 3-locular, with 2 ovules per locule. Fruit capsular, dehiscent, with 2 seeds per locule. Seeds smooth.
 
-tantes . Feuilles distiques sur les branches plagiotropes, à marge entière, sans glandes.
+Monotypic genus of Central Africa.
 
-Fleurs unisexuées , monoïques , axillaires , les mâles en fascicules , les femelles soli -
+Taxonomic note: The publication in 1987 of this genus in the thesis of J.F. Brunel was long considered to be invalid (see Hoffmann et al., 2006), but following the International Code of Botanical Nomenclature in force, it is effective and thus the correct name.
 
-taires , à 6 sépales imbriqués, sans pétales . Fleur mâle : disque extrastaminal ; étamines
+b: Breteler (1991), Hoffmann et al. (2006).
 
-2 , très courtes ; pistillode absent. Fleur femelle : disque très grand ; ovaire ± sessile, ±
-
-enfoncé dans le disque, 3-loculaire, à 2 ovules par loge. Fruit capsulaire, déhiscent, à 2
-
-graines par loge. Graines lisses.
-
-Genre monospécifique d’Afrique Centrale.
-
-Note taxonomique : La publication en 1987 de ce genre dans la thèse de J.F. Brunel a
-
-longtemps été considérée comme invalide (voir Hoffmann et al. , 2006), mais suivant le
-
-Code International de Nomenclature Botanique en vigueur, elle est effective et alors le
-
-nom correct.
-
-b : Breteler (1991), Hoffmann et al. (2006).
-
-ibliographie
+Bibliography
 
 ## Species in region
 

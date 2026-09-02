@@ -17,69 +17,27 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Trees or shrubs. Stipules entire or laciniate, caducous or ± persistent. Leaves with short petiole; lamina with entire margin. Inflorescences axillary or terminal, in spikes or spiciform racemes. Flowers unisexual, dioecious, apetalous, small, each in the axil of a small bract. Male flowers with pedicel absent or very short; calyx cupuliform or 3–5(–8)-lobed, with imbricate lobes; stamens (2–)3–5(–6), opposite to the sepals, longer than the calyx, anthers with distinct thecae; disk with free or connate glands; pistillode small. Female flowers with persistent calyx; ovary 1(–2)-locular, exceeding the calyx, with 2 ovules per locule; styles (2–)3(–4), ± terminal, ± persistent. Fruits drupaceous, ± ellipsoid, generally ≤ 1 cm in length, with foveolate endocarp.
 
-Arbres ou arbustes. Stipules entières ou laciniées , caduques ou ± persistantes. Feuilles
+Genus widespread in tropical and subtropical regions of the Old World, mainly in Asia, as well as in northern Australia, with nearly 200 species, only 5–7 in continental Africa, of which three in Gabon.
 
-à pétiole court ; limbe à marge entière. Inflorescences axillaires ou terminales, en épis
+Taxonomic note: The inflorescences are sometimes completely transformed by a parasite into a dense panicle resembling a small witch's broom.
 
-ou en racèmes spiciformes . Fleurs unisexuées, dioïques, apétales , petites, chacune à
+A. membranaceum Müll.Arg., reported in the Checklist of Vascular Plants of Gabon (Sosef et al. 2006), is not found in Gabon. The material cited under this name belongs in part to A. venosum and in part to A. vogelianum.
 
-l’aisselle d’une petite bractée. Fleurs mâles à pédicelle nul ou très court ; calice cupuli -
+b: Keay (1958), Léonard (1988), Smith (1988).
 
-forme ou 3–5(–8)-lobé, à lobes imbriqués ; étamines (2–)3–5(–6), oppositisépales, plus
+Bibliography
 
-longues que le calice, anthères à thèques distinctes ; disque à glandes libres ou soudées ;
+### Key to the species
 
-pistillode petit. Fleurs femelles à calice persistant ; ovaire 1(–2)-loculaire, dépassant le
+1. - Branchlet with entire stipules; leaf with lamina (3–)4–20(–26) × (1.5–)3–8 cm and 4–10(–12) pairs of lateral veins ..................................................................... 2
 
-calice, à 2 ovules par loge ; styles (2–)3(–4), ± terminaux, ± persistants. Fruits drupacés,
+- Branchlet with laciniate stipules; leaf with lamina (9–)20–28(–31) × (2–)7–10 cm and 10–18 pairs of lateral veins ....................................................... A. laciniatum
 
-± ellipsoïdes, généralement ≤ 1 cm de longueur, à endocarpe fovéolé .
+2. - Leaf with lamina 4–8(–11) × (2–)3–4(–6) cm, apex obtuse to acute or very briefly acuminate (≤ 5 mm); female inflorescence 3–5 cm in length, 3–7 cm in fruit ..................................................................................................... A. venosum
 
-Genre répandu dans les régions tropicales et subtropicales de l’Ancien Monde, princi -
-
-palement en Asie, ainsi que dans le nord de l’Australie, avec près de 200 espèces, 5–7
-
-seulement en Afrique continentale, dont trois au Gabon.
-
-Note taxonomique : Les inflorescences sont parfois complètement transformées par un
-
-parasite en une panicule dense semblable à un petit balai de sorcière.
-
-A. membranaceum Müll.Arg., signalée dans Checklist des Plantes Vasculaires du Gabon
-
-(Sosef et al. 2006), n’est pas trouvée au Gabon. Le matériel cité sous ce nom appartient
-
-en partie à A. venosum et en partie à A. vogelianum .
-
-b : Keay (1958), Léonard (1988), Smith (1988).
-
-ibliographie
-
-### Clé des espèces
-
-1. - Ramille à stipules entières ; feuille à limbe de (3–)4–20(–26) × (1,5–)3–8 cm et
-
-4–10(–12) paires de nervures latérales .................................................................... 2
-
-- Ramille à stipules laciniées ; feuille à limbe de (9–)20–28(–31) × (2–)7–10 cm et
-
-10–18 paires de nervures latérales ....................................................... A . laciniatum
-
-2. - Feuille à limbe de 4–8(–11) × (2–)3–4(–6) cm, sommet obtus à aigu ou très
-
-brièvement acuminé (≤ 5 mm) ; inflorescence femelle 3–5 cm de longueur, 3–7 cm
-
-en fruit ..................................................................................................... A. venosum
-
-- Feuille à limbe de (3–)7–20(–26) × (1,5–)4–8 cm, à sommet acuminé sur (0,5–)1–
-
-2,5 cm ; inflorescence femelle 5–11 cm de longueur, (10–)15–30 cm en fruit
-
-............................................................................................................ A. vogelianum
-
----
+- Leaf with lamina (3–)7–20(–26) × (1.5–)4–8 cm, with apex acuminate over (0.5–)1–2.5 cm; female inflorescence 5–11 cm in length, (10–)15–30 cm in fruit ............................................................................................................ A. vogelianum
 
 ## Species in region
 

@@ -17,23 +17,19 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Dioecious trees with hollow, septate stems and branches. Leaves spiral; lamina peltate, with radial lobes. Stipules connate, entirely amplexicaul; hair cushion (trichilium) at the base of the petiole on the abaxial side.
 
-Arbres dioïques avec des tiges et des branches creuses, cloisonnées. Feuilles spiralées ; limbe pelté, avec des lobes radiaux. Stipules souduées, entièrement amplexicaules ; coussin de poils (trichilium) la base du pétiole du côté abaxial.
+Pedunculate, digitate inflorescences, with few to numerous groups of spikes, enveloped by a caducous spathe. Perianth tubular; stamens 2; stigma hairy to peltate; ovule basal, orthotropous.
 
-Inflorescence pédonculées, digitées, avec des groupes d'épis peu nombreux à nombreux, enveloppées par une spathe caduque. Périant the tubulaire ; étamines 2 ; stigmate chevelu à pelté ; ovule basal, orthotrope.
+Fruits: small tuberculate nuts; seed albuminous. - Pl. 84, p. 265.
 
-Fruits : petites noix tuberculées ; graine albuminée. - Pl. 84, p. 265.
+TYPE SPECIES: Cecropia peltata L.
 
-ESPÉCE-TYPE : Cecropia peltata L.
+Cecropia, similar to Musanga in its habit and ecology, is a common genus in the vegetation of tropical America. A few species, in particular C. peltata, have been introduced into several tropical countries of the Old World, where they have become subspontaneous in some regions.
 
-Cecropia, semblable au Musanga par son port et son écologie, est un genre commun dans la végétation de l'Amérique tropicale. Quelques espèces, en particulier C. peltata, ont été introduites dans plusieurs pays tropicaux de l'Ancien Monde, où elles sont devenues subspontanées dans quelques régions.
+GABONESE MATERIAL STUDIED:
 
-MATÉRIEL GABONAIS ÉTUDIÉ :
-
-Chalot 48, Libreville (fl. ♂, mars).
-
----
+Chalot 48, Libreville (fl. ♂, March).
 
 ## Species in region
 

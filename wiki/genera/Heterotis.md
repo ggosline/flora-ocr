@@ -17,29 +17,25 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+### Perennial herbs (rooting, or geophytes) or shrublets.
 
-### Herbes vivaces (radicantes, ou géophytes) ou arbrisseaux.
+Cymes often diffuse at the apex of branches or united in leafy panicles or racemes. Flowers 4–5-merous; hypanthium either variously pubescent: simple, stellate, glandular hairs, setulous emergences, with or without intersepalar lobes; or glabrous and often then with 5 or 10 membranous lobes forming a calycle; sepals persistent. Stamens with pedoconnective in both whorls; ± dimorphic: the outer ones with a bifid appendage, the two lobes being obtuse, thick or auriculate, or appendage entire, claviform, sometimes the head 3-tuberculate; the inner ones with shorter pedoconnective and appendage. Ovary with convex or truncate apex; tomentose without a collarette; setulous with collarette; glabrous with or without 5-partite collarette; style filiform, stigma punctiform; placentas cymbiform.
 
-Cymes souvent diffuses à l'extrémité des rameaux ou réunies en panicules feuillées ou racèmes. Fleurs 4-5-mères; hypanthe soit diversement indumenté : poils simples, étoilés, glanduleux, émergences sétuleuses, avec ou sans lobes intersépalaires; soit glabre et souvent alors avec 5 ou 10 lobes membraneux formant calcule; sépales persistants. Étamines avec pédoconnectif dans les 2 verticilles; ± dimorphes : les externes avec appendice bifide, les 2 lobes étant obtus, épais ou auriculés, ou appendice entier, claviforme, parfois la tête 3-tuberculée; les internes avec pédoconnectif et appendice plus courts. Ovaire à sommet convexe ou tronqué; tomentaux sans colerette; sétuleux avec colerette; glabre avec ou sans colerette 5-partite; style filiforme, stigmate punctiforme; placentas cymbiformes.
+Fruit capsular; seeds cochlear, smooth, furrowed, foveolate or verrucose, often with an aril. Chromosome numbers: 15, 16, 17.
 
-Fruit capsulaire; graines cochléaires, lisses, sillonnées, fovéolées ou verruqueuses, souvent avec arille. Nombres chromosomesmiques : 15, 16, 17.
+TYPE-SPECIES: Heterotis decumbens (Pal. Beauv.) JACQ.-FÉL., West Africa.
 
-ESPÈCE-TYPE : Heterotis decumbens (Pal. Beauv.) JACQ.-FÉL., Afrique occidentale.
-
-Deux sections au Gabon. La sect. Heterotis est constituée, selon notre conception, de quatre ou cinq espèces dont les limites sont assez confuses. H. rotundifolia (Sm.) JACQ.-FÉL. se distingue par des émergences denses et bien développées; elle est connue de l'ouest africain. H. prostata (Thon.) BENTH., Fl. Cam. 24 : 37, tab. 9, fig. 4-6 (1983), est également exclue de la forêt gabonaise; c'est une espèce vigoureuse, à feuilles elliptiques et à sépales appendiculés; son aire s'étend de l'ouest à l'est du continent. H. decumbens, bien représentée au Gabon, est caractérisée par des émergences rares et médiocres, souvent remplacées par des soies simples. Enfin, H. buettneriana est une espèce à fleurs réduites et homostaminées. Cependant, on ne peut la confondre comme forme « osbeckioïde » d'H. decumbens, dont les spécimens néoténiques forestiers restent à fleurs hétérostaminées.
+Two sections in Gabon. Sect. Heterotis is constituted, according to our conception, of four or five species whose limits are rather confused. H. rotundifolia (Sm.) JACQ.-FÉL. is distinguished by dense and well-developed emergences; it is known from West Africa. H. prostata (Thon.) BENTH., Fl. Cam. 24 : 37, tab. 9, fig. 4–6 (1983), is likewise excluded from the Gabonese forest; it is a vigorous species, with elliptic leaves and appendiculate sepals; its range extends from west to east of the continent. H. decumbens, well represented in Gabon, is characterized by rare and mediocre emergences, often replaced by simple setae. Finally, H. buettneriana is a species with reduced and homostaminous flowers. However, it cannot be confused as an "osbeckioid" form of H. decumbens, whose neotenic forest specimens remain with heterostaminous flowers.
 
 ---
 
-1. Hypanthe diversement sétuleux ou avec émergences sétuleuses; appendice staminal bilobé-obtus; ovaire convexe ± sétuleux (sect. Heterotis).
+1. Hypanthium variously setulous or with setulous emergences; staminal appendage bilobate-obtuse; ovary convex ± setulous (sect. Heterotis).
 
-2. Émergences interspéralaires seules bien développées, celles de l'hypanthe sont squamiformes ou nulles, les soies étant libres; fleurs généralement grandes, étamines dimorphes ..... 1. H. decumbens.
+2. Intersepalar emergences alone well developed, those of the hypanthium are squamiform or absent, the setae being free; flowers generally large, stamens dimorphic ..... 1. H. decumbens.
 
-2'. Émergences filiformes surtout nombreuses vers le haut; fleurs petites, éta-
+2'. Filiform emergences especially numerous toward the apex; flowers small, stamens homomorphic ..... 2. H. buettneriana.
 
-mines homomorphes ..... 2. H. buettneriana.
-
-1'. Hypanthe glabre; émergences intersépalaires lobuliformes ou nulles (sect. Cyclos-temma BENTH.). Cymes de 2 à 3 fleurs très écartées par des axes grêles; fleurs 4-mères; plante glabrescente, radicante ..... 3. H. rupicola.
+1'. Hypanthium glabrous; intersepalar emergences lobulose or absent (sect. Cyclostemma BENTH.). Cymes of 2 to 3 flowers widely separated by slender axes; flowers 4-merous; plant glabrescent, rooting ..... 3. H. rupicola.
 
 ## Species in region
 

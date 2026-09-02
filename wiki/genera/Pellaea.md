@@ -16,17 +16,15 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Terrestrial ferns, with creeping or erect, scaly rhizomes. Frond uni- or bipinnate, with black, glossy rachis; pinnae entire, coriaceous, generally naked, with free or anastomosing veins. Sori almost marginal, at the tip of the veins, initially separated, then in contact, in a line protected by the reflected and continuous margin, generally without paraphyses. Spores smooth or reticulate.
 
-Fougères terrestres, à rhizome rampant ou dressé, écailleux. Fronde uni- ou pluripennée, à rachis noir, brillant; pennes entières, coriaces, généralement nues, à nervures libres ou anastomoses. Sores presque marginaux, à l'extrémité des nervures, au début séparés, puis en contact, en une ligne protégée par la marge réfléchie et continue, généralement sans paraphyses. Spores lisses ou réticulées.
+Type species (lectotype): Pellaea atropurpurea (L.) Link.
 
-Espèce type (lectotype) : Pellaea atropurpurea (L.) Link.
+Approximately 80 species, xerophilous, mainly in America, South Africa and Madagascar.
 
-Environ 80 espèces, xérophiles, surtout en Amérique en Afrique du sud et à Madagascar.
+1. Frond imparipinnate, rachis bearing narrow filiform scales
 
-1. Fronde imparipennée, rachis portant d'étroites écailles filiformes
-
-1'. Fronde bipennée à la base, rachis portant des poils crispés, épars ..... 2. P. Holstii.
+1'. Frond bipinnate at the base, rachis bearing crisp, scattered hairs ..... 2. P. Holstii.
 
 ## Species in region
 

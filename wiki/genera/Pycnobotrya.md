@@ -16,35 +16,15 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 in Benth. & Hook.f., Gen. pl. 2(2) : 715 (1876).
 
-Grandes lianes , sans vrilles, à latex blanc devenant jaune pâle. Feuilles opposées ou ternées ,
+Large lianes, without tendrils, with white latex becoming pale yellow. Leaves opposite or ternate, petiolate, inserted on distinct leaf buds. Inflorescences terminal and in the axil of the uppermost leaves, paniculate. Flowers actinomorphic except for the unequal calyx lobes; calyx without colleters, lobes imbricate in the bud; corolla pink, lobes contorted and overlapping towards the left in the bud; stamens included; ovary composed of 2 free carpels with biseriate ovules and axial in each carpel. Fruits composed of 2 free follicles, compressed laterally, 2-valved, dehiscent on the adaxial side, with 1 to 4 seeds in 2 alternate rows. Seeds flattened, surrounded by a papyraceous wing; raphe passing through the middle of the seed; embryo oblong, rounded at the apex, auriculate at the base; radicle situated between the auricles of the cotyledons.
 
-pétiolées, insérées sur des bourgeons foliaires distincts. ,QÀRUHVFHQFHV terminales et à l’ais-
-
-selle des feuilles sommitales, paniculées. Fleurs actinomorphes sauf pour les lobes du calice
-
-LQpJDX[FDOLFHVDQVFROOpWqUHVjOREHVLPEULTXpVGDQVOHERXWRQFRUROOHURVHjOREHVFRQWRU -
-
-tés et recouvrant vers la gauche dans le bouton ; étamines incluses ; ovaire composé de 2
-
-carpelles libres DYHFRYXOHVELVpULpVHWDGD[LDX[GDQVFKDTXHFDUSHOOH Fruits composés de
-
-2 follicules libres, comprimés latéralement, à 2 valves, déhiscents du côté adaxial, avec
-
-1 à 4 graines en 2 rangées alternes . Graines aplaties, entourées d’une aile papyracée ;
-
-raphé passant au milieu de la graine ; embryon oblong, arrondi au sommet, auriculé à la base ;
-
-radicule située entre les auricules des cotylédons.
-
-*HQUHPRQRW\SLTXHOLPLWpjO¶$IULTXHWURSLFDOH
+Monotypic genus limited to tropical Africa.
 
 B : Beentje (2021), Endress et al. (2019), van der Ploeg (1983).
 
-IBLIOGRAPHIE
+BIBLIOGRAPHY
 
 ## Species in region
 

@@ -17,71 +17,31 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Trees or shrubs dioecious. Leaves persistent, compound, imparipinnate, 2–9 pinnate; leaflets entire, sometimes with distinct glandular dots or dashes. Inflorescences axillary to supra-axillary or sometimes pseudo-terminal, paniculate. Flowers 5-merous, functionally unisexual but externally male and female flowers very similar; pedicel generally bracteolate, articulate with the upper part distinctly enlarged and called the receptacle; calyx cupuliform, with 5 lobes or teeth; petals free, white, pink, yellow or greenish; staminal crown deeply divided into 10 lobes (with the exception of T. prieureana), the free parts of the stamens terminating in two small points surrounding the anther inserted at the apex; disc of variable shape, often swollen and internally fused with the base of the staminal tube, sometimes distinctly cupuliform, surrounding the ovary (T. prieureana and T. rubescens); ovary 2–3(–4)-locular, with axillary placentation, with 2 collateral ovules per locule. Fruits capsular, globose to subglobose, loculicidal, with (2–)3 valves. Seed plano-convex, with black testa, partly fleshy and forming a red or orange sarcotesta; cotyledons plano-convex, juxtaposed.
 
-Arbres ou arbustes dioïques. Feuilles persistantes, composées, imparipennées, 2–9 pen -
+Pantropical genus, most species (> 50) in tropical America, 19 in Africa, of which 8 in Gabon and a few in Asia.
 
-nées ; folioles entières, parfois avec des points ou des tirets glanduleux distincts. Inflo -
+B: Aubréville (1959), Pennington & Styles (1975), de Wilde (1968).
 
-rescences axillaires à supra-axillaires ou parfois pseudo-terminales, paniculées. Fleurs
+Bibliography
 
-5-mères, fonctionnellement unisexuées mais vu de l’extérieur fleurs mâles et femelles très
+### Key to the species
 
-similaires ; pédicelle généralement bractéolé, articulé dont la partie supérieure bien élar -
+1. - Staminal crown laciniate; trunk generally cylindric ................................................... 2
 
-gie et nommé réceptacle ; calice cupuliforme, à 5 lobes ou dents ; pétales libres, blancs,
-
-roses, jaunes ou verdâtres ; couronne staminale profondément découpée en 10 lanières
-
-(à l’exception de T. prieureana ), les parties libres des étamines terminées par deux
-
----
-
-petites pointes qui entourent l’anthère insérée au sommet ; disque de forme variable,
-
-souvent renflé et soudé intérieurement avec la base du tube staminal, parfois nettement
-
-cupuliforme, entourant l’ovaire ( T. prieureana et T. rubescens ) ; ovaire 2–3(–4)-loculaire,
-
-à placentation axillaire, à 2 ovules collatéraux par loge . Fruits capsulaires, globuleux
-
-à subglobuleux, loculicides, à (2–)3 valves. Graine plane-convexe, à testa noir, partiel -
-
-lement charnu et formant un sarcotesta rouge ou orange ; cotylédons plans-convexes,
-
-juxtaposés.
-
-Genre pantropical, la plupart des espèces (> 50) en Amérique tropicale, 19 en Afrique,
-
-dont 8 au Gabon et quelques-unes en Asie.
-
-B : Aubréville (1959), Pennington & Styles (1975), de Wilde (1968).
-
-ibliographie
-
-### Clé des espèces
-
-1. - Couronne staminale laciniée ; fût généralement cylindrique .................................. 2
-
-- Couronne staminale entière ; fût souvent cannelé à la base
+- Staminal crown entire; trunk often fluted at the base
 
 ............................................................................... T. prieureana subsp. vermoesenii
 
-2. - Disque autour de l’ovaire net, cupuliforme ; jeunes branches creuses et avec écorce
+2. - Disc around the ovary distinct, cupuliform; young branches hollow and with lenticellate bark .............................................................................................. T. rubescens
 
-lenticellée .............................................................................................. T. rubescens
+- Disc poorly developed; branches neither hollow nor distinctly lenticellate ................... 3
 
-- Disque peu développé ; branches ni creuses ni nettement lenticellées ................... 3
+3. - Leaflets densely velutinous beneath; lateral nerves well marked, narrowly spaced, parallel and depressed above .............................................. T. tessmannii
 
-3. - Folioles densément velues dessous ; nervures latérales bien marquées, étroitement
+- Leaflets glabrous to glabrescent or rarely pubescent; lateral nerves neither parallel nor distinctly depressed above ............................................................... 4
 
-espacées, parallèles et déprimées dessus .............................................. T. tessmannii
-
-- Folioles glabres à glabrescentes ou rarement pubescentes ; nervures latérales ni
-
-parallèles, ni nettement déprimées dessus ............................................................... 4
-
-4. - Ovaire et finalement fruit 3-loculaire ...................................................................... 5
+4. - Ovary and finally fruit 3-locular ...................................................................... 5
 
 ## Species in region
 

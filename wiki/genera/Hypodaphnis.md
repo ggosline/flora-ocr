@@ -17,17 +17,11 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+PL. XIX. — On the left, Hypodaphnis Zenkeri Stapf. (Benoit 89) : 1, flowering branch, leaf 12 cm; 1', detail of venation; 2, flower, tepal 4 mm; 2', section; 3, stamen of the 1st cycle, inner face; 3', profile; 3", outer face; 4, 4', 4", same views for the 2nd cycle; 6, gland of the 2nd cycle, inner face, 6', profile, 6", horizontal section. — On the right, Cassytha filiformis Linné : 1, branch, diam. 1 mm; 1', haustoria; 2, flowers, diam. 1.5 mm; 2', section; 3, 4, 5, 6, 1st; 3, 2nd and 4th cycles of stamens, inner face; 3' to 6', profile; 3" to 6", outer face; 7, fruit in section, diam. 6 mm (fl, Debeaux 183; fr, Chevalier 5031; stems, Thollon 433).
 
----
+Trees; leaves alternate, petiolate, limb pinninerved. Inflorescences in subterminal or axillary corymbs with numerous flowers. Bracts small, caducous. Flowers pedicellate, hermaphrodite (character noted by Kostermans, whereas Stapf described the flowers as dioecious). Stamens of the three outer cycles fertile, the first two with introrse anthers, the $ 3^{\text{e}} $ cycle with extrorse anthers, the $ 4^{\text{e}} $ cycle aborted. Ovary inferior, style equaling the stamens, stigma discoid. Drupe ovoid, rounded, pedicellate.
 
-PL. XIX. — A gauche, Hypodaphnis Zenkeri Stapf. (Benoit 89) : 1, rameau florifère, feuille de 12 cm; 1', détail de nervation; 2, fleur, tèpale de 4 mm; 2', coupe; 3, étamine du 1er cycle, face interne; 3', profil; 3", face externe; 4,4',4", mêmes vues pour le 2e cycle; 6 glande du 2e cycle, face interne, 6', profil, 6", coupe horizontale. — A droite, Cassytha filiformis Linné : 1, rameau, diam. 1 mm; 1', sucoirs; 2, fleurs, diam. 1,5 mm; 2', coupe; 3,4,5,6, 1er; 3, 2e et 4e cycles d'étamines, face interne; 3' à 6', profil; 3" à 6", face externe; 7, fruit en coupe, diam. 6 mm (fl, Debeaux 183; fr, Chevalier 5031; tiges, Thollon 433).
-
----
-
-Arbres; feuilles alternes, pétiolées, limbe penninerve. Inflorescences en corymbes subterminaux ou axillaires à fleurs nombreuses. Bractées petites, caduques. Fleurs pédicellées, hermaphrodites (caractère relevé par Kostermans, alors que Stapf décrivait les fleurs dioïques). Étamines des trois cycles externes fertiles, les deux premiers à anthères introrses, le  $ 3^{\text{e}} $ cycle à anthères extrorses, le  $ 4^{\text{e}} $ cycle avorté. Ovaire infère, style égalant les étamines, stigmate discoïde. Drupe ovoïde, arrondie, pédicellée.
-
-C'est le seul genre de la famille comportant un ovaire infère, d'où son nom. Il ne compte qu'une espèce.
+It is the only genus in the family with an inferior ovary, whence its name. It comprises only one species.
 
 ## Species in region
 

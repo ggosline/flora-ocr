@@ -17,33 +17,27 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Herbaceous plants or rarely suffrutescent, sometimes climbing, glabrous or pubescent. Leaves opposite, entire or nearly so.
 
-Plantes herbacées ou rarement suffrutescentes, parfois grim-
+Flowers rarely solitary, most often grouped in racemes or terminal or axillary spikes, dense or lax, provided with foliaceous bracts, sometimes small, or little distinct, with bracteoles and sepals; the flowers bear two bracteoles near the base of the calyx. Calyx with 5 segments ± deep, subunited, oblong or linear, subequal or unequal, one being larger than the others. Corolla with tube gradually widening towards the apex and with subrégular or bilabiate limb with 5 lobes; upper lip, exterior in bud, bilobate or bidentate; lower lip with 3 lobes, the median one interior in bud, 4 didynamous stamens, inserted below the middle of the tube and ± included; anthers with 2 locules dehiscent by fissures that are short or extending to the base. Disk indistinct. Ovary with multiloculate locules; style briefly bilobate at the apex, with lobes sometimes bifid.
 
-pantes, glabres ou pubescentes. Feuilles opposées entières ou pres-
+Capsule oblong, obtuse, non-stipitate, bearing seeds from the base to the apex. Seeds numerous, small, globose, lacking retinacles, albumen thin, cartilaginous; cotyledons ± thick, rounded, radicle curved.
 
-que.
+Type species: St. argentea Wall., from India.
 
-Fleurs rarement solitaires, le plus souvent groupées en grappes ou épis terminaux ou axillaires, denses ou lâches, pourvus de bractées foliacées, parfois petites, ou peu distinctes, de braé-téoles et de sépales; les fleurs portent deux bractéoles près de la base du calice. Calice à 5 segments ± profonds, sublibres, oblong ou linéaires, subégaux ou inégaux, l'un étant plus grand que les autres. Corolle à tube graduellement élargi vers le haut et à limbe subrégulier ou bilabié à 5 lobes; lèvre supérieure, extérieure dans le bouton, bilobée ou bidentée; lèvre inférieure à 3 lobes, dont le médian intérieur dans le bouton, 4 étamines didynamics, insérées au-dessous du milieu du tube et ± incluses; anthères à 2 loges déhiscentes par des fentes qui sont courtes ou descendent jusqu'à la base. Disque indistinct. Ovaire à loges multioulées; style brièvement bilobé au sommet, à lobes parfois bifides.
-
-Capsule oblongue obtuse non stipitée, portant des graines depuis la base jusqu'au sommet. Graines nombreuses, petites, globuleuses, dépourvues de rétinacles, albumen mince, cartila-gineux; cotylédons ± épais, arrondis, radicule arquée.
-
-Espèce type : St. argentea Wall., de l'Inde.
-
-D'après Bremekamp, on compte 80 espèces dans les tropiques des deux Amériques, de l'Afrique et de l'Asie.
+According to Bremekamp, there are 80 species in the tropics of both Americas, Africa and Asia.
 
 ---
 
-1. Inflorescence ± pubescentes, à petits poils rigides n'atteignant guère 0,5 mm, colorés, ± glanduleux; bractées spathulées-lancéolées ou même ovales-lancéolées, triplinerves, beaucoup plus grandes que les bractéoles; sépale postérieur à une seule côté médiane, égalant les deux sépales antérieurs..... (Staurogyne alboviolacea.)
+1. Inflorescence ± pubescent, with small rigid hairs scarcely reaching 0.5 mm, colored, ± glandular; bracts spatulate-lanceolate or even ovate-lanceolate, triplinerved, much larger than the bracteoles; posterior sepal with a single median rib, equaling the two anterior sepals..... (Staurogyne alboviolacea.)
 
-2. Plantes dressées; feuilles atteignant 11 cm de longueur et avec jusqu'à 11 nervures latérales de chaque côté; inflorescences en épis atteignant 12 cm de long; fleurs blanches, nuancées de violet...
+2. Plants erect; leaves reaching 11 cm in length and with up to 11 lateral veins on each side; inflorescences in spikes reaching 12 cm long; flowers white, tinged with violet...
 
-2'. Plantes couchées, épiphytes; feuilles atteignant 2,5 cm de longueur et avec 4 nervures sur chaque côté; inflorescences très courtes, atteignant 1,5 cm de longueur; fleurs entièrement blanches...
+2'. Plants prostrate, epiphytic; leaves reaching 2.5 cm in length and with 4 veins on each side; inflorescences very short, reaching 1.5 cm in length; flowers entirely white...
 
 1 bis. S. alboviolacea var. gracilior.
 
-1'. Inflorescences pubescentes à poils soyeux, non colorés, atteignant une longueur de 2 mm, sans glande ou très faiblement glanduleux; bractées linéaires-filiformes, à une seule côte médiane, ressemblant exactement aux bractéoles; sépale postérieur triplinerve jusqu'à trois fois plus large et un peu plus long que les deux sépales antérieurs.
+1'. Inflorescences pubescent with silky hairs, uncolored, reaching a length of 2 mm, without gland or very weakly glandular; bracts linear-filiform, with a single median rib, resembling exactly the bracteoles; posterior sepal triplinerved up to three times wider and slightly longer than the two anterior sepals.
 
 ## Species in region
 

@@ -17,51 +17,25 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Annual or perennial herbs, aquatic or semi-aquatic; stems erect. Leaves dimorphous, sessile, the aerial ones opposite or whorled, the submerged ones always whorled; blade with palmate venation, those of aerial leaves entire, sometimes lobed or divided and with margin obtusely crenate-dentate or entire, those of submerged leaves multipartite with capillary segments. Inflorescences in a raceme, each node bearing 2 flowers. Flowers sessile or pedicellate; bracteoles present or absent; calyx tubular, 5-lobed, with equal lobes; corolla tubular to infundibuliform, upper lip bipartite, lower lip tripartite, without palate; stamens 4, didynamous, anthers with 2 equal thecae, connective prolonged; ovary ovoid, glabrous; stigma bilobed. Fruits capsular, septicide-septifrage or loculicidal. Seeds with non-alveolate albumen.
 
-Herbes annuelles ou vivaces, aquatiques ou semi-aquatiques ; tiges dressées. Feuilles
+Palaeotropical genus comprising 36 species, three of which occur in Gabon.
 
-dimorphes, sessiles, les aériennes opposées ou verticillées, les submergées toujours
+B: Philcox (1970).
 
-verticillées ; limbe à nervation palmée, ceux des feuilles aériennes entiers, parfois lobés
+Bibliography
 
-ou divisés et à marge obtusément crénelé-dentée ou entière, ceux des feuilles submer-
+### Key to the species
 
-gées multipartites à segments capillaires . Inflorescences en racème, chaque nœud por-
-
-tant 2 fleurs. Fleurs sessiles ou pédicellées ; bractéoles présentes ou absentes ; calice
-
-tubuleux, 5-lobé, à lobes égaux ; corolle tubuleuse à infundibuliforme, lèvre supérieure
-
-bipartite, lèvre inférieure tripartite, sans palais ; étamines 4, didynames, anthères à 2
-
-thèques égales, connectif prolongé ; ovaire ovoïde, glabre ; stigmate bilobé. Fruits capsu-
-
-laires, septicides-septifrages ou loculicides. Graines à albumen non alvéolé.
-
-Genre paléotropical comprenant 36 espèces, dont trois au Gabon.
-
-B : Philcox (1970).
-
-ibliographie
-
-### Clé des espèces
-
-1. - Limbe des feuilles aériennes de la partie florifère ± profondément lobé ou divisé
+1. - Blade of aerial leaves of the floriferous part ± deeply lobed or divided
 
 ..................................................................................................................... L. indica
 
-- Limbe des feuilles aériennes de la partie florifère ± entier, à marges dentées ou
+- Blade of aerial leaves of the floriferous part ± entire, with dentate or crenate margins, never divided or lobed .............................................................................. 2
 
-crénelées, jamais divisé ou lobé .............................................................................. 2
+2. - Corolla up to 14 mm in length; bracteoles absent; stem densely pubescent; flowers in dense racemes .................................................. L. dasyantha
 
-2. - Corolle jusqu’à 14 mm de longueur ; bractéoles absentes ; tige densément
-
-pubescente ; fleurs en racèmes denses .................................................. L. dasyantha
-
-- Corolle jusqu’à 3–4 mm de longueur ; bractéoles présentes ; tige pubescente ;
-
-fleurs en racèmes lâches ............................................................................. L. barteri
+- Corolla up to 3–4 mm in length; bracteoles present; stem pubescent; flowers in lax racemes ............................................................................. L. barteri
 
 ## Species in region
 

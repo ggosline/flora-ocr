@@ -17,39 +17,19 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Herbes vivaces ou éphémères, souvent ligneuses à la base. Feuilles opposées, à collétères
-
-présents dans les aisselles foliaires ; limbe à sommet mucroné. ,QÀRUHVFHQFHV terminales,
-
-PDLVSRXYDQWDSSDUDvWUHODWpUDOHVHQUDLVRQG¶XQUHODLVV\PSRGLDOjRXÀHXUV Fleurs acti-
-
-nomorphes ; calice à lobes étroits et étranglés ; corolle hypocratériforme, resserrée à la gorge ,
-
-laineuse ou veloutée, à lobes recouvrant vers la gauche HQERXWRQREOLTXHPHQWRERYDOHV
-
-étamines insérées au-dessus du milieu du tube ; disque à deux glandes étroites ; pistil à ovaire
-
-bicarpellé, ovules nombreux. Fruits à 2 méricarpes libres F\OLQGULTXHV HW DLJXV Graines
-
-oblongues, noires, à testa rugueux.
+Perennial or ephemeral herbs, often woody at the base. Leaves opposite, with colleters present in the leaf axils; limb with mucronate apex. Inflorescences terminal, but able to appear lateral due to a sympodial relay with 0 to flowers. Flowers actinomorphic; calyx with narrow and constricted lobes; corolla hypocratériform, constricted at the throat, woolly or velvety, with lobes overlapping to the left and in bud obliquely obovate; stamens inserted above the middle of the tube; disk with two narrow glands; pistil with bicarpellate ovary, numerous ovules. Fruits with 2 free mericarps, cylindrical and acute. Seeds oblong, black, with wrinkled testa.
 
 ---
 
-Graine dépouillée de son arille (9 × 7 mm). (1-11 : N. Hallé 758 , 823 et 2459 ). Dessin par Nicolas Hallé,
-
-0XVpXPQDWLRQDOG¶+LVWRLUHQDWXUHOOH3DULVUHSURGXLWDYHFSHUPLVVLRQjSDUWLUGH+DOOp
+Seed stripped of its aril (9 × 7 mm). (1-11: N. Hallé 758, 823 and 2459). Drawing by Nicolas Hallé, Muséum national d'Histoire naturelle, Paris, reproduced with permission from Hallé.
 
 ---
 
-*HQUHDYHFKXLWHVSqFHVGRQWVHSWj0DGDJDVFDUHWXQHHQ,QGHHWDX6UL/DQNDO¶XQHGHVHV -
+Genus with eight species, seven in Madagascar and one in India and Sri Lanka; one of its Malagasy species is widely planted and naturalized in the tropics, including in Gabon.
 
-Sqfhvpdojdfkhvhvwodujhphqwsodqwphhwqdwxudolvphvrxvohvwursltxhv\FRPSULVDX*DERQ
+B: Beentje (2021), van Bergen (1996), Endress et al. (2019).
 
-B : Beentje (2021), van Bergen (1996), Endress et al. (2019
-
-IBLIOGRAPHIE
+BIBLIOGRAPHY
 
 ## Species in region
 

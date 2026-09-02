@@ -17,49 +17,47 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Plantes terrestres ou lithophytes de taille très variable. Organes pérennes très variables ; pseudobulbes, tubériformes ou cauliformes, à plusieurs nœuds, généralement souterrains ou rarement au-dessus du sol. Feuilles plissées, minces ou charnues ou coriaces, parfois réduites à des écailles. Inflorescence basale. Labelle généralement trilobé, souvent avec un callus, des rides ou des papilles. Pied de la colonne saillant, massif. Pollinies 2, aplaties dorsiventralement, fourchues. Rostellum court,
+Terrestrial or lithophytic plants of highly variable size. Perennial organs highly variable; pseudobulbs, tuberiform or cauliform, with several nodes, generally underground or rarely above ground. Leaves plicate, thin or fleshy or coriaceous, sometimes reduced to scales. Inflorescence basal. Labellum generally trilobed, often with a callus, ridges or papillae. Column foot prominent, massive. Pollinia 2, flattened dorsiventrally, forked. Rostellum short,
 
 ---
 
-PL. 138. – Structure du gynostème du genre Graphorkis Thouars : A, partie supérieure, vue latérale ; B, partie supérieure, vue de dessous ; C, reste du rostelle ; D, anthère, vue de dessous ; E-G, tegula et viscidie, vues diverses ; H, pollinies, vues diverses (A-H, ex SZLACHETKO).
+PL. 138. – Structure of the gynosteme of the genus Graphorkis Thouars: A, upper part, lateral view; B, upper part, ventral view; C, remainder of rostellum; D, anther, ventral view; E-G, tegula and viscidium, various views; H, pollinia, various views (A-H, ex SZLACHETKO).
 
 ---
 
-tronqué, en dôme. Tegula unique, mince. Viscidie elliptique ou ovoïde. – Pl. 140, p. 315.
+truncate, dome-shaped. Tegula unique, thin. Viscidium elliptic or ovoid. – Pl. 140, p. 315.
 
-Genre d'environ 250 espèces, largement distribué dans les zones tropicales et subtropicales d'Afrique, Madagascar, Asie, Australie et Amérique. C'est l'un des genres les plus variables de l'ordre des Orchidales. Aucune classification infragénérique satisfaisante n'existe pour le genre africain Eulophia.
+Genus of approximately 250 species, widely distributed in the tropical and subtropical zones of Africa, Madagascar, Asia, Australia and America. It is one of the most variable genera in the order Orchidales. No satisfactory infrageneric classification exists for the African genus Eulophia.
 
-Labelle de plus de 11 (-15) mm ..... 2
+Labellum more than 11 (-15) mm ..... 2
 
-Labelle de moins de 10 (-14) mm ..... 12
+Labellum less than 10 (-14) mm ..... 12
 
-2. Partie basale du labelle allongée en un éperon conique ou claviforme, mais, saillant ..... 3
+2. Basal part of labellum elongated into a conical or claviform, but prominent spur ..... 3
 
-2'. Partie basale du labelle sacciforme ou sacciforme-conique, ne produisant aucun éperon saillant ..... 8
+2'. Basal part of labellum sacciform or sacciform-conical, not producing any prominent spur ..... 8
 
-3. Labelle avec rides lamellées-cristées au centre du labelle ..... 4
+3. Labellum with lamellar-crested ridges at the center of the labellum ..... 4
 
-3'. Labelle avec des rides verruqueuses, crénelées ou glabres au centre et/ou au sommet, lamelles courtes, si présentes, seulement près de la base ..... 6
+3'. Labellum with verrucose, crenate or glabrous ridges at the center and/or at the apex, lamellae short, if present, only near the base ..... 6
 
-4. Éperon digitiforme, obtus ..... 29. 10. E. magnicristata
+4. Spur digitate, obtuse ..... 29. 10. E. magnicristata
 
-4'. Éperon conique, avec parfois un sommet aigu filiforme ..... 5
+4'. Spur conical, sometimes with an acute filiform apex ..... 5
 
-5. Lamelle partant depuis le centre du labelle jusqu'au sommet ; sépales et pétales subaigus ou obtus ..... 29. 3. E. boulawongo
+5. Lamella extending from the center of the labellum to the apex; sepals and petals subacute or obtuse ..... 29. 3. E. boulawongo
 
-5'. Lamelles partant de la base du labelle vers le sommet ; sépales apiculés ; pétales aigus ..... 29. 9. E. horsfalli
+5'. Lamellae extending from the base of the labellum to the apex; sepals apiculate; petals acute ..... 29. 9. E. horsfalli
 
-6. Labelle avec des lamelles basales aliformes, des rides verruqueuses ou crénelées au-dessus ..... 29. 12. E. stachyodes
+6. Labellum with wing-like basal lamellae, verrucose or crenate ridges above ..... 29. 12. E. stachyodes
 
-6'. Labelle avec des nervures légèrement épaissies à la base et/ou au centre de l'épichile ..... 7
+6'. Labellum with slightly thickened veins at the base and/or at the center of the epichile ..... 7
 
-7. Éperon cylindrique à claviforme, droit ; sépales et pétales subsemblables ..... 29. 7. E. euglossa
+7. Spur cylindric to claviform, straight; sepals and petals subsimilar ..... 29. 7. E. euglossa
 
-7'. Éperon sacciforme à sacciforme-conique ; sépales et pétales dissemblables ..... 29. 3. E. boulawongo
+7'. Spur sacciform to sacciform-conical; sepals and petals dissimilar ..... 29. 3. E. boulawongo
 
-8. Hypochile transversalement elliptique, nettement plus large que long ..... 29. 6. E. cucullata
+8. Hypochile transversely elliptic, distinctly wider than long ..... 29. 6. E. cucullata
 
 ## Species in region
 

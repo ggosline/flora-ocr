@@ -15,47 +15,13 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Shrubs or herbs, aromatic or not; stems branched. Leaves simple, opposite, sessile to subsessile. Inflorescences thyrsoid; cymes sessile, with 2 to 7 flowers; bracts persistent, small, sometimes with a gland-like structure clearly visible on the external surface; bracteoles absent. Flowers pedicellate; calyx cylindrical or constricted at the throat, membranous, truncate at the base, bilabiate, 3-lobed, upper lip simple, rounded, smaller than the lower, not decurrent, lateral lobes absent, lower lip with 2 large, rounded lobes, throat closed by convergent lobes; fruiting calyx inflated, falling in one piece; corolla strongly bilabiate, 5-lobed, white or violet, with tube geniculate at the base and dorsally spurred, with parallel sides toward the apex, glabrous within, but with an annular crest at the base formed from the traces of the upper filaments, upper lip 4-lobed, with median lobes recurved exceeding the lateral ones, lower lip horizontal, hooded, without a line of thickened tissue at the base, not folding back at anthesis; stamens 4, declined, fused or free over a very short distance at the base, adjacent, attached on the lower surface of the throat, held within the lower lip, anthers reniform to orbicular, dorsifixed, with equal thecae; disk 4-lobed, with the lower lobe larger; ovary deeply 4-lobed; style gynobasic, apex bifid, lobes linear. Fruits: 4 achenes, glabrous, slightly flattened, with small scars, weakly mucilaginous.
 
-Arbustes ou herbes , aromatiques ou non ; tiges ramifiées. Feuilles simples, opposées, ses-
+Genus with 3 species in central, eastern and southern Africa; in Gabon a single species.
 
-siles à subsessiles. Inflorescences thyrsoïdes ; cymes sessiles, avec 2 à 7 fleurs ; bractées
+Bibl.: Matthew (1971, 1972), Paton et al. (2013, 2018).
 
-persistantes, petites, parfois avec une structure en forme de glande bien visible sur la face
-
-externe ; bractéoles absentes. Fleurs pédicellées ; calice cylindrique ou resserré à la gorge,
-
-membraneux, tronqué à la base, bilabié, 3-lobé , lèvre supérieure simple, arrondie, plus petite
-
-que l’inférieure, non décurrente, lobes latéraux absents , lèvre inférieure à 2 grands lobes,
-
-arrondis, gorge fermée par des lobes convergents ; calice fructifère renflé, tombant d’une
-
-pièce ; corolle fortement bilabiée, 5-lobée, blanche ou violette, à tube géniculé à la base
-
-et dorsalement éperonné , à côtés parallèles vers le sommet, glabre à l’intérieur, mais avec
-
-une crête annulaire à la base formée à partir des traces des filets supérieurs, lèvre supérieure
-
-4-lobée, à lobes médians recourbés dépassant les latéraux, lèvre inférieure horizontale, ca-
-
-puchonnée, sans ligne de tissu épaissi à la base, ne se repliant pas à l’anthèse ; étamines 4,
-
-déclinées , fusionnées ou libres sur une très courte distance à la base, adjacentes, attachées
-
-sur la face inférieure de la gorge , maintenues à l’intérieur de la lèvre inférieure , anthères
-
-réniformes à orbiculaires, dorsifixes, à thèques égales ; disque 4-lobé, à lobe inférieur plus
-
-grand ; ovaire profondément 4-lobé ; style gynobasique, apex bifide, lobes linéaires. Fruits : 4
-
-akènes, glabres, légèrement aplatis, avec de petites cicatrices, faiblement mucilagineux.
-
-Genre avec 3 espèces en Afrique centrale, de l’est et du sud ; au Gabon une seule espèce.
-
-Bi : Matthew (1971, 1972), Paton et al. (2013, 2018).
-
-B liographie
+Bibliography
 
 ## Species in region
 

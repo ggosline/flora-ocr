@@ -17,37 +17,31 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Unarmed lianes of considerable height; old wood cylindrical, normal, often pale yellow. Total absence of rubber filaments. Leaves opposite or weakly subopposite, petiolate. Blade entire or dentate. Stipules very much reduced.
 
-Lianes inermes élevées ; vieux bois cylindrique normal, souvent jaune pâle. Absence totale de filaments de caoutchouc. Feuilles opposées
-
----
-
-ou faiblement subopposées, pétiolées. Limbe entier ou denté. Stipules très réduites.
-
-Inflorescences axillaires pédonculées, parfois rapprochées en panicules terminales ; cymes dichotomes toujours dépourvues de ramifications surnuméraires ; entre-nœuds des cymes plus ou moins quadrangulaires ; bractées petites, aiguës opposées. Boutons globuleux, ovés ou oblongs. Fleurs modestes de 3,5-7(10) mm de diamètre, souvent vertes, parfois jaunes, ± pédicellées. Sépales 5 quinconciaux égaux ou inégaux,
+Inflorescences axillary, pedunculate, sometimes clustered in terminal panicles; dichotomic cymes always lacking supernumerary branching; internodes of cymes more or less quadrangular; bracts small, acute, opposite. Buds globose, ovate or oblong. Flowers modest, 3.5–7(10) mm in diameter, often green, sometimes yellow, ± pedicellate. Sepals 5, quincuncial, equal or unequal,
 
 ---
 
-entiers ou finement fimbriolés. Pétales 5 quinconciaux sessiles, bien recouvrants les uns les autres au sommet du bouton, insérés entre des sinuosités de la base du disque. Disque orienté latéralement et séparé de l'androcée par un massif charnu formant un androgynophore ± cylindrique, parfois globuleux ou tronconique. Étamines 3 insérées plus haut que le niveau supérieur nectarifère du disque ; filets brièvement rubanés ou ± élargis ; anthère transversalement déhiscente ; pollen simple tricolporé. Style petit de 0,5-1,5 mm, triangulaire à la base ; ovaire demi-enfoncé sous le niveau d'insertion des filets qui masquent des sillons intercarpellaires. (4)6-16 ovules par loge ± disposées en deux rangées.
+entire or finely fimbriolate. Petals 5, quincuncial, sessile, well overlapping one another at the apex of the bud, inserted between sinuosities at the base of the disc. Disc oriented laterally and separated from the androecium by a fleshy mass forming an ± cylindric androgynophore, sometimes globose or truncate-conical. Stamens 3, inserted higher than the upper nectariferous level of the disc; filaments briefly ribbon-like or ± widened; anther transversely dehiscent; pollen simple tricolporate. Style small, 0.5–1.5 mm, triangular at the base; ovary half-immersed below the level of insertion of the filaments, which conceal intercarpellary grooves. (4)6–16 ovules per locule ± arranged in two rows.
 
-Fruit tricarpellé à 3 méricarpes de deux valves caduques chaque. Graine ailée à deux nervures dont le raphé transalaire ; insertions sur des étuis triangulaires comprimés. Caractères de l'embryon non connus.
+Fruit tricarpellate with 3 mericarps of two caducous valves each. Seed winged with two veins, the raphe transalary; insertions on compressed triangular sheaths. Characters of the embryo unknown.
 
-ESPÈCE-TYPE : Simirestis dewildemaniana Hallé.
+TYPE SPECIES: Simirestis dewildemaniana Hallé.
 
-Étymologie : du latin simius, singe, et restis, corde : corde pour les singes.
+Etymology: from the Latin simius, ape, and restis, cord: a cord for apes.
 
-Huit espèces africaines dont 3 particulières à l'Afrique de l'Est : S. goetzei (Loes.) Hallé, S. scheffleri (Loes.) Hallé, et S. brianii Hallé. Une espèce, S. atractaspis Hallé, n'est connue que du Ghana. Deux espèces au Cameroun et deux espèces au Gabon.
+Eight African species, of which 3 are particular to East Africa: S. goetzei (Loes.) Hallé, S. scheffleri (Loes.) Hallé, and S. brianii Hallé. One species, S. atractaspis Hallé, is known only from Ghana. Two species in Cameroon and two species in Gabon.
 
-### CLÉ DES ESPÈCES
+### KEY TO THE SPECIES
 
-1. Disque-androgynophore étroit ; le sommet (androgynophore) est un peu plus large que la base (disque) ; pédicelle de 2,2 mm ; 8 ovules par loge ; fleur de 4,5-6,5 mm de diamètre ..... S. atractaspis Hallé (Côte-d'Ivoire (César 1777), et Ghana).
+1. Disc-androgynophore narrow; the apex (androgynophore) is somewhat wider than the base (disc); pedicel 2.2 mm; 8 ovules per locule; flower 4.5–6.5 mm in diameter ..... S. atractaspis Hallé (Ivory Coast (César 1777), and Ghana).
 
-1'. Disque-androgynophore moyen : diamètre au sommet à peu près égal à celui de la base.
+1'. Disc-androgynophore medium: diameter at apex approximately equal to that of the base.
 
-2. Androgynophore un peu plus haut que large, subcylindrique avec le disque épais ; pistil et filets plus longs que larges ; sépales peu distinctement micro-denticulés.
+2. Androgynophore somewhat taller than broad, subcylindric with thick disc; pistil and filaments longer than broad; sepals not distinctly microdenticulate.
 
-3. Sépales érigés ou étalés, égaux ou presque ; pétales déployés sans déformations marginales ; pédicelles de 0,5-2 mm.
+3. Sepals erect or spreading, equal or nearly so; petals deployed without marginal deformations; pedicels 0.5–2 mm.
 
 ## Species in region
 

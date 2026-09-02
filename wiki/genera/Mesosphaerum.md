@@ -15,67 +15,21 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Herbes érigées ou arbrisseaux à odeur désagréable. Feuilles opposées, parfois alternes,
-
-simples, pétiolées. Inflorescences terminales et axillaires, sur des pousses latérales courtes,
-
-en thyrse lâche ou dense ; cymes pédonculées, monochasiales, parfois légèrement capitées ;
-
-bractées foliacées, devenant plus petites vers l’apex ; bractéoles petites, persistantes. Fleurs
-
-pédicellées ; calice tubuleux-campanulé en fleur, devenant plus turbiné en fruit, faiblement
-
-zygomorphe, à 5 dents subégales dressées et subulées, à tube droit, progressivement dilaté
-
-vers la gorge souvent à poils blancs ; corolle courtement exserte du tube du calice, lèvre supé-
-
-rieure dressée ou réfléchie, à 2 lobes égaux, lèvre inférieure 3-lobée, lobe médian sacciforme ,
-
-resserré à la base, articulé, devenant brusquement défléchi à l’anthèse, avec une crête
-
-transversale basale ; étamines 4, déclinées , légèrement exsertes du tube, incluses dans le
-
-lobe médian de la lèvre inférieure, exappendiculées, paire supérieure fixée légèrement en des -
-
-sous de l’inférieure ou au-dessus du point médian du tube, paire inférieure plus longue, fixée
-
-à la base du lobe médian de la lèvre inférieure, filets libres, anthères réniformes, dorsifixes,
-
-à thèques égales ; ovaire profondément 4-lobé, glabre ; style gynobasique, apex courtement
-
-bifide à branches subégales. Fruits : akènes 4 ou 1 ou 2 par l’avortement, lisses ou rugueux,
-
-produisant parfois du mucilage lorsqu’ils sont humides, à cicatrice basale bien marquée et
-
-à 2 lobes .
+Erect herbs or shrubs with unpleasant odor. Leaves opposite, sometimes alternate, simple, petiolate. Inflorescences terminal and axillary, on short lateral shoots, in loose or dense thyrse; pedunculate cymes, monochasial, sometimes slightly capitate; bracts foliaceous, becoming smaller toward the apex; bracteoles small, persistent. Flowers pedicellate; calyx tubular-campanulate in flower, becoming more turbinate in fruit, weakly zygomorphic, with 5 subequal erect subulate teeth, tube straight, progressively dilated toward the throat often with white hairs; corolla shortly exsert from the calyx tube, upper lip erect or reflexed, with 2 equal lobes, lower lip 3-lobed, median lobe sacciform, constricted at the base, articulate, becoming abruptly deflexed at anthesis, with a basal transverse ridge; stamens 4, declined, slightly exsert from the tube, included in the median lobe of the lower lip, exappendiculate, upper pair fixed slightly below the lower or above the midpoint of the tube, lower pair longer, fixed at the base of the median lobe of the lower lip, filaments free, anthers reniform, dorsifixed, with equal thecae; ovary deeply 4-lobed, glabrous; style gynobasic, apex shortly bifid with subequal branches. Fruits: achenes 4 or 1 or 2 by abortion, smooth or rugose, sometimes producing mucilage when wet, with well-marked basal scar and 2 lobes.
 
 ---
 
-Genre avec 25 espèces, originaires du Mexique, de l’Amérique centrale et de l’Amérique du
+Genus with 25 species, originating from Mexico, Central America and South America. The two species recorded in Gabon are both pantropical weeds.
 
-Sud. Les deux espèces recensées au Gabon sont toutes deux des adventices pantropicales.
+Notes: The species of Mesosphaerum were formerly placed in Hyptis.
 
-Notes : Les espèces de Mesosphaerum étaient auparavant placées dans Hyptis .
+Bibliography: Harley & Pastore (2012).
 
-Bi : Harley & Pastore (2012).
+### Key to the species
 
-B liographie
+1. - Inflorescence generally with groups of cymes well spaced with up to 6 flowers; calyx in fruit 8–12 mm long; corolla 10–12 mm long; achenes 3.8–4 mm long, often only 1 or 2 developed ................... M. suaveolens
 
-### Clé des espèces
-
-1. - Inflorescence généralement à groupes de cymes bien espacées avec jusqu’à 6
-
-fleurs ; calice en fruit long de 8–12 mm ; corolle longue de 10–12 mm ; akènes
-
-longs de 3,8–4 mm, souvent seulement 1 ou 2 développés ................... M. suaveolens
-
-- Inflorescence généralement dense, ramifiée au sommet, en forme de candélabre, à
-
-cymes généralement scorpioïdes, avec (10 à)20 à 40 fleurs ; calice en fruit atteignant
-
-5,5 mm de longueur ; corolle longue de 2,5–4 mm ; akènes 4, longs de 0,9–1 mm
+- Inflorescence generally dense, branched at the apex, candelabra-shaped, cymes generally scorpioid, with (10 to)20 to 40 flowers; calyx in fruit reaching 5.5 mm in length; corolla 2.5–4 mm long; achenes 4, 0.9–1 mm long
 
 ................................................................................................................. M. pectinatum
 

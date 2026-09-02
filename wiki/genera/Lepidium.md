@@ -17,19 +17,17 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Annual or perennial herbs (but not in Gabon) or sometimes subshrubs, with simple hairs. Leaves simple or compound.
 
-Herbes annuelles ou vivaces (mais pas au Gabon) ou parfois sous-arbrisseaux, à poils simples. Feuilles simples ou composées.
+Terminal or axillary racemes, without corymb-like bracts, with numerous small flowers. Fructifications contracted or elongated, narrowly cylindric and fairly dense. Sepals not saccate, elliptic. Petals whitish, longer or shorter than the sepals, sometimes absent; Stamens 6–4 or 2 with linear or subulate filaments. Nec-
 
-Grappes terminales ou axillaires, sans bractées corymbiformes à nombreuses petites fleurs. Infrutescences contractées ou allongées, étroitement cylindriques et assez denses. Sépales non sacciformes, elliptiques. Pétales blanchâtres, plus longs ou plus courts que les sépales, parfois absents ; Étamines 6-4 ou 2 à filets linéaires ou subulés. Nec-
-
-taires 6 ou 4. Ovaire aplati dorsoventralement, elliptique, contenant 2 ovules. Silicules fortement aplaties, elliptiques ou suborbiculaires, souvent ± ailées avec un style court ± exsert ou au contraire inclus dans un sinus apical. Graines, 1 par loge, aplaties, elliptiques ou obovales, nettement réticulées, parfois ailées, mucilagineuses.
+taries 6 or 4. Ovary flattened dorsoventrally, elliptic, containing 2 ovules. Silicles strongly flattened, elliptic or suborbicular, often ± winged with a short style ± exsert or conversely included in an apical sinus. Seeds, 1 per locule, flattened, elliptic or obovate, clearly reticulate, sometimes winged, mucilaginous.
 
 ---
 
-ESPÈCE-TYPE : Lepidium latifolium L.
+TYPE SPECIES: Lepidium latifolium L.
 
-Ce genre comporte environ 150 espèces réparties dans toutes les régions du monde sauf dans les régions polaires. Ce sont pour la plupart des adventices introduites.
+This genus comprises approximately 150 species distributed in all regions of the world except in polar regions. These are for the most part introduced weeds.
 
 ## Species in region
 

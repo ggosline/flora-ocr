@@ -17,25 +17,23 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Perennial herbs, rooting at the base, generally floating.
 
-Herbes pérennes, radicantes à la base, généralement flottantes.
+Racemes subdigitate, rachis articles enlarged toward the apex, plano-convex, pedicels similar, somewhat smaller. Spikelets in pairs, those of each pair similar in form and sex, or the pedicels male. Two flowers, the lower male, the upper hermaphrodite or sometimes male in the pedicellate spikelets. Lower glume coriaceous, long caudate-acuminate, bicarinate. Upper glume chartaceous, navicular, carinate. Lower glumae hyaline, that of the sterile flower with two nerves, that of the fertile flower with three fine nerves. Upper glumelles with 2 nerves. Two well-developed glumellules; 3 stamens.
 
-Racèmes subdigités, articles du rachis élargis vers le haut, plan-convexes, pédicelles semblables, un peu plus petits. Épilets par paires, ceux de chaque paire semblables par la forme et le sexe, ou les pédicelles mâles. Deux fleurs, l'inférieure mâle, la supérieure hermaphrodite ou parfois mâle dans les épilets pédicelles. Glume inférieure coriace, longuement caudée acuminée, bicarénée. Glume supérieure cartacée, naviculaire, carénée. Glume inférieures hyalines, celle de la fleur stérile à deux nervures, celle de la fleur fertile avec trois fines nervures. Glumelles supérieures à 2 nervures. Deux glumellules bien développées; 3 étanches.
+Vossia are easily recognizable by the size of their racemes, very robust and elongate, and especially by the importance of the prolongation of the lower glume which can reach 35 mm long.
 
-Les Vossia sont aisément reconnaissables par la taille de leurs racèmes, très robustes et allongés, et surtout par l'importance du prolongement de la glume inférieure qui peut atteindre 35 mm de long.
-
-A côté du V. cuspidata sous sa forme typique, il est possible de distinguer la variété polystachya; celle-ci est caractérisée par le plus grand nombre de racèmes (4-7 au lieu de 1-2) qui sont aussi plus minces et plus allongés, et par la plus grande longueur du prolongement des glumes. Les spécimens de la forme typique que nous avons pu voir proviennent tous de l'Afrique occidentale ou des régions tchadiennes; ceux qui appartiennent à la variété polystachya proviennent du Gabon, de l'Oubangui, et aussi du lac Tchad et du Logone où ils cohabitent alors avec la forme typique.
+Alongside V. cuspidata in its typical form, it is possible to distinguish the variety polystachya; this is characterized by the greater number of racemes (4-7 instead of 1-2) which are also more slender and more elongate, and by the greater length of the prolongation of the glumes. The specimens of the typical form that we were able to see all come from West Africa or the Chadian regions; those that belong to the variety polystachya come from Gabon, Oubangui, and also from Lake Chad and the Logone where they then coexist with the typical form.
 
 ---
 
 ---
 
-1. Racèmes solitaires à l'extrémité des chaumes ou digités par deux ou trois; prolongement de la glume inférieure de 10 à 25 mm de long, articles du rachis de 3 à 5 mm de large au sommet
+1. Racemes solitary at the apex of the culms or digitate in pairs or threes; prolongation of the lower glume 10 to 25 mm long, rachis articles 3 to 5 mm wide at the apex
 
-1'. 4 à 7 racèmes digités à l'extrémité des chaumes; prolongement des glumes inférieures de 20 à 35 mm de long; articles du rachis de 2 à 3 mm de large au sommet..... V. cuspidata var. polystachya.
+1'. 4 to 7 racemes digitate at the apex of the culms; prolongation of the lower glumes 20 to 35 mm long; rachis articles 2 to 3 mm wide at the apex..... V. cuspidata var. polystachya.
 
-V. cuspidata est largement répandu dans toute l’Afrique tropicale et aux Indes. L’espèce et sa variété sont des plantes semi-aquatiques formant souvent des prairies flottantes. Bonnes plantes fourragères, du moins à l’état jeune.
+V. cuspidata is widely distributed throughout tropical Africa and the Indies. The species and its variety are semi-aquatic plants often forming floating meadows. Good forage plants, at least in the young state.
 
 ## Species in region
 

@@ -17,73 +17,21 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Small dioecious shrubs, covered with an indumentum of stellate hairs. Leaves compound, imparipinnate, 1–3-pinnate; petiole and especially the rhachis narrowly winged; leaflets opposite to subopposite. Inflorescences axillary, paniculate or pseudoracemose. Flowers 5-merous, functionally unisexual; calyx deeply 5-partite; petals 5, free, slightly imbricate; stamens 10, fused into a shortly cylindrical staminal tube in the lower half, apex with free filaments, as straps, each terminated by 4–6 unequal filiform appendages, with 10 anthers inserted at the base of the appendages; annular disc, surrounding the ovary and partially fused to its base; ovary 3-locular, with axile placentation, ovules 1 or 2 per locule, superposed. Capsular fruits, subglobose to ovoid, slightly 3(–4)-lobed or angular, mucronate, loculicidal, dehiscing by 3(–4) valves, usually only one seed developed per locule. Seed black, partially surrounded by a thin orange aril; cotyledons plane-convex, juxtaposed.
 
-Petits arbustes dioïques, couverts d’un indument de poils étoilés . Feuilles composées,
+Genus limited to central Africa comprising two species, one (P. le-testui) endemic to Gabon, the other (P. zenkeri) limited to Cameroon. The distribution of the two species is insufficiently known; the Cameroonian species should be sought in northern Gabon.
 
-imparipennées, 1–3-pennées ; pétiole et surtout le rachis étroitement ailé ; folioles
+Bibliography: Harms (1940), Mabberley (2011), Pennington & Styles (1975).
 
-opposées à subopposées. Inflorescences axillaires, paniculées ou en forme de pseudo-ra -
+### Key to species
 
-cèmes. Fleurs 5-mères, fonctionnellement unisexuées ; calice profondément 5-partite ;
+1. - Leaflets often coarsely 2–4-dentate or lobed towards the apex, with (5–)6–10 pairs of principal lateral veins; inflorescence paniculate-racemiform; free parts of staminal tube terminated by 4 filiform appendages (to be sought in Gabon) ....................................................................................... P. zenkeri Harms
 
-pétales 5, libres, légèrement imbriqués ; étamines 10, soudées en un tube staminal cour -
-
-tement cylindrique dans la moitié inférieure, sommet à filaments libres, en lanières,
-
-chacun terminé par 4–6 appendices filiformes inégaux, à 10 anthères insérées à la
-
-base des appendices ; disque annulaire, entourant l’ovaire et partiellement soudé à sa
-
-base ; ovaire 3-loculaire, à placentation axillaire, ovules 1 ou 2 par loge, superposés .
-
-Fruits capsulaires, subglobuleux à ovoïdes, légèrement 3(–4)-lobés ou anguleux, mucro -
-
-nés, loculicides, à déhiscence par 3(–4) valves, d’habitude une seule graine développée
-
-par loge. Graine noire, partiellement entourée par un arille mince orange ; cotylédons
-
-plans-convexes, juxtaposés.
-
-Genre limité à l’Afrique centrale comprenant deux espèces dont une ( P. le-testui ) en-
-
-démique au Gabon, l’autre ( P. zenkeri ) limité au Cameroun. La distribution des deux
-
-espèces est insuffisamment connue ; l’espèce camerounaise est à rechercher dans le nord
-
-du Gabon.
-
-B : Harms (1940), Mabberley (2011), Pennington & Styles (1975).
-
-ibliographie
-
-### Clé des espèces
-
-1. - Folioles souvent grossièrement 2–4-dentées ou lobées vers le sommet, à (5–)6–10
-
-paires de nervures latérales principales ; inflorescence en panicule racémiforme ;
-
-parties libres du tube staminal terminées par 4 appendices filiformes (à rechercher
-
-au Gabon) ....................................................................................... P. zenkeri Harms
-
-- Folioles à marge entière, à 3–5(–6) paires de nervures latérales principales ;
-
-inflorescence en panicule nettement ramifiée ; parties libres du tube staminal
-
-terminées par 4–6 appendices filiformes .................................................. P. le-testui
+- Leaflets with entire margin, with 3–5(–6) pairs of principal lateral veins; inflorescence distinctly branched paniculate; free parts of staminal tube terminated by 4–6 filiform appendages .................................................. P. le-testui
 
 ---
 
-Dito, face externe. – G. Tube staminal ouvert montrant le gynécée. – H. Gynécée, coupe longitudinale.
-
-– I. Fleur fonctionnellement mâle, tube staminal ouvert, face externe. – J. Dito, face interne montrant le
-
-gynécée fonctionnellement mâle. – K. Dito, gynécée à base entourée d’un disque, coupe longitudinale
-
-(fl.m.). – L. Infrutescence. – M. Graine en partie couverte par l’arille. – N. Cotylédons juxtaposés. (A,
-
-I–K : Leeuwenberg & Persoon 13513 ; B–H : A.M Louis et al. 518 ; L : Wieringa et al. 5993 ; M, N :
+Ditto, outer face. – G. Staminal tube open showing the gynoecium. – H. Gynoecium, longitudinal section. – I. Functionally male flower, staminal tube open, outer face. – J. Ditto, inner face showing the functionally male gynoecium. – K. Ditto, gynoecium with base surrounded by a disc, longitudinal section (fl.m.). – L. Infructescence. – M. Seed partly covered by the aril. – N. Juxtaposed cotyledons. (A, I–K : Leeuwenberg & Persoon 13513 ; B–H : A.M Louis et al. 518 ; L : Wieringa et al. 5993 ; M, N :
 
 ## Species in region
 

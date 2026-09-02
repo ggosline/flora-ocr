@@ -17,37 +17,13 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Shrubs or small trees with white latex, entirely glabrous except for the calyx lobes sometimes ciliate and the interior of the corolla. Leaves petiolate, opposite and, at least on certain branches, arranged in whorls at the level of ramifications, 0.5 to 2 cm in the region. Inflorescences terminal and often also axillary. Flowers: calyx with lobes connate at the extreme base, without colleters; corolla white to pale yellow or salmon, with lobes overlapping toward the left in the bud; stamens free, with apex just below the throat; filaments very short; anthers entirely fertile; disc absent; ovary with carpels separated, each with up to biserate ovules. Fruits with 2 separate follicles, moniliform or torulous, each composed of a single series of 1 to 13 ellipsoidal drupes, laterally compressed, orange or red; exocarp thin; mesocarp fleshy or pulpous. Seeds with thin, smooth testa; farinose endosperm, surrounding the embryo.
 
-Arbustes ou petits arbres à latex blanc, entièrement glabres, sauf les lobes du calice parfois
+A genus with eight species, one endemic to Sri Lanka, five endemic to Madagascar, one restricted to Madagascar, Comoros and Cameroon, and one in Cameroon and Gabon.
 
-ciliés et l’intérieur de la corolle. Feuilles pétiolées, opposées et, au moins sur certains ra-
+B: Endress et al. (2019), Leeuwenberg (1997b).
 
-PHDX[VXUWRXWDXQLYHDXGHVUDPL¿FDWLRQVHQYHUWLFLOOHVGHjSDVGDQVODUpJLRQ ,QÀRUHV -
-
-cences terminales et souvent aussi axillaires. Fleurs : calice à lobes connés à l’extrême base,
-
-sans collétères ; corolle blanche à jaune pâle ou saumon, à lobes recouvrant vers la gauche
-
-GDQV OH ERXWRQ pWDPLQHV OLEUHV j VRPPHW MXVWH VRXV OD JRUJH ¿OHWV WUqV FRXUWV DQWKqUHV
-
-HQWLqUHPHQWIHUWLOHVGLVTXHDEVHQWRYDLUHDYHFFDUSHOOHVVpSDUpVFKDFXQDYHFMXVTX¶j
-
-ovules bisériés. Fruits à 2 follicules séparés, moniliformes ou toruleux, dont chacun est
-
-composé d’une seule série de 1 à 13 drupes ellipsoïdales, comprimés latéralement, orange
-
-ou rouges ; exocarpe mince ; mésocarpe charnu ou pulpeux. Graines à testa mince, lisse ;
-
-endosperme farineux, entourant l’embryon.
-
-8QJHQUHDYHFKXLWHVSqFHVGRQWXQHHQGpPLTXHGX6UL/DQNDFLQTHQGpPLTXHVGH0DGDJDV -
-
-FDUXQHUHVWUHLQWHj0DGDJDVFDUHWDX[&RPRUHVHWXQHDX&DPHURXQHWDX*DERQ
-
-B : Endress et al. (2019), Leeuwenberg (1997b).
-
-IBLIOGRAPHIE
+BIBLIOGRAPHY
 
 ## Species in region
 

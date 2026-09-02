@@ -17,37 +17,15 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Fronds floating or submerged, solitary or several together with daughter fronds produced by budding in two lateral pockets on the lower surface, circular to lanceolate, lacking a scale at the base, with 1–5(–7) nerves, with 1 root without hairs. Flowers lodged in the lateral budding pockets, surrounded by a membranous envelope; stamens 2, anther with 4 locules; ovary with 1 amphitropous or atropous ovule or else with 2–7 anatropous ovules. Fruits symmetric or asymmetric. Seeds 1–6, 0.4–0.9 mm in length, with 8–60 longitudinal ribs.
 
-Frondes flottantes ou submergées, solitaires ou plusieurs ensemble avec les frondes-filles
+Genus nearly cosmopolitan, with 13 species; in Gabon a single species.
 
-produites par bourgeonnement dans deux poches latérales de la face inférieure, circulaires
+Vernacular names: lentille d'eau (Fr), duckweed, pondweed (Eng.), Wasserlinsen (Ger.).
 
-à lancéolées, dépourvues d’une écaille à la base, à 1–5(–7) nervures, à 1 racine sans
+Taxonomic note: The genus is divided into two subgenera: the subgenus Lemna with floating fronds and the subgenus Staurogeton Rchb. with submerged fronds.
 
-poils. Fleurs logées dans les poches de bourgeonnement latérales , entourées d’une
-
-enveloppe membraneuse ; étamines 2, anthère à 4 loges ; ovaire à 1 ovule amphitrope
-
-ou atrope ou bien à 2–7 ovules anatropes. Fruits symétriques ou asymétriques. Graines
-
-1–6, 0,4–0,9 mm de longueur, à 8–60 côtes longitudinales.
-
-Genre presque cosmopolite, avec 13 espèces ; au Gabon une seule espèce.
-
-Noms vernaculaires : lentille d’eau (Fr), duckweed, pondweed (Angl.), Wasserlinsen
-
-(Allem.).
-
-Note taxonomique : Le genre est divisé en deux sous-genres : le sous-genre Lemna avec
-
-des frondes flottantes et le sous-genre Staurogeton Rchb. avec des frondes submergées.
-
-b : den Hartog & van der Plas (1970), Landolt (1986, 1998), Landolt &
-
-ibliographie
-
-Lawalree (1988).
+Bibliography: den Hartog & van der Plas (1970), Landolt (1986, 1998), Landolt & Lawalree (1988).
 
 ## Species in region
 

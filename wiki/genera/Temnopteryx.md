@@ -17,11 +17,9 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Woody plant pubescent with interpetiolate stipules multifid with filiform teeth. Inflorescences axillary grouped towards the extremities. 5 sepals very unequal, all or almost all petaloid and attractive. Corolla with very long tube, with 5 short lobes, valvate induplicate in the prefloration. 5 bilocular anthers with very short filament; connective with prominent apicule. Ovary with 3-4-5 locules. Fleshy placentas inserted over the entire height of the ovary axis. Fruit globoid non-fleshy, indehiscent, with thin internal walls; seeds very numerous, covering the placentas in a very regular manner, very tightly packed against each other and prismatic.
 
-Plante ligneuse pubescente à stipules interpétiolaires multifides à dents filiformes. Inflorescences axillaires groupées vers les extrémités. 5 sépales très inégaux, tous ou presque tous péta-loïdes attractifs. Corolle à tube très long, à 5 lobes courts, valvaires indupliqués à la préfloraison. 5 anthères biloculaires à filet très court; connectif à apicule saillant. Ovaire à 3-4-5 loges. Placentas charnus insérés sur toute la hauteur de l'axe de l'ovaire. Fruit globoïde non charnu, indéhiscent, à parois internes minces; graines très nombreuses, couvrant les placentas de façon très régulière, très serrées les unes contre les autres et prismatiques.
-
-Genre monospécifique, endémique du Gabon.
+Monotypic genus, endemic to Gabon.
 
 ## Species in region
 

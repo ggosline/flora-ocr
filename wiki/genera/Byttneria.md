@@ -17,17 +17,15 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Climbing shrubs. Stipules generally caducous. Leaves simple, petiolate. Inflorescences in axillary umbellules. Flowers small, hermaphrodite. Calyx valvate with 5 lobes. 5 petals unguiculate, cucullate, surmounted by a dorsal appendage, adhering to each other above the anthers. Androecium in a collar on the edge of which 5 stamens oppositipetalous generally alternate with 5 short staminodes. Ovary sessile with 5 biovulate locules. Style unique with briefly lobed stigmas at the apex. Fruit capsular, globose, spinous, with septicidal dehiscence; the carpels separate and from each of them a seed escapes through an apical slit. Seed ascending, exalbuminous; cotyledons twisted around the radicle.
 
-Arbustes lianescents. Stipules généralement caduques. Feuilles simples pétiolées. Inflorescences en ombellules axillaires. Fleurs petites, hermaphrodites. Calice valvaire à 5 lobes. 5 pétales onguiculés, cucullés, surmontés d'un appendice dorsal, adhérents entre eux par-dessus les anthères. Androcée en collerette sur le bord de laquelle 5 étamines oppositipétales alternent en général avec 5 staminodes brefs. Ovaire sessile à 5 loges biovulées. Style unique à stigmates brièvement lobés au sommet. Fruit capsulaire globuleux, épineux, à déhiscence septicide; les carpelles se séparent et de chacun d'eux une graine s'échappe par une fente apicale. Graine ascendante exalbuminée; cotylédons tordus autour de la radicule.
-
-Environ 90 espèces tropicales habitant principalement l'Amérique et l'Asie; 27 espèces à Madagascar; 5 autres en Afrique; une seule espèce au Gabon.
+Approximately 90 tropical species inhabiting mainly America and Asia; 27 species in Madagascar; 5 others in Africa; a single species in Gabon.
 
 1. Byttneria grossedenticulata Bod. et Pellegr.
 
 BODARD et PELLEGR., Bull. S. B. Fr. 97 : 31 (1950); PELL., Sterc. Gab. Mém. S. B. Fr. : 46 (1950-1951).
 
-Liane ligneuse grêle à jeunes extrémités cylindriques finement pubescentes. Pétioles pubérulents de 5-9 mm de long. Stipules linéaires pubescentes de 3-5 mm de long. Limbe obové-oblong de 9-14 cm de long et de 2,3-4,5 cm de large, à base arrondie, à sommet ayant souvent une ou deux dents grossières de chaque côté; acumen de 2 cm de long à mucron filiforme atteignant 2 mm. Nervure médiane finement en relief sur le dessus du limbe;
+Slender woody vine with young cylindrical extremities finely pubescent. Petioles puberulent 5–9 mm long. Stipules linear pubescent 3–5 mm long. Blade obovate-oblong 9–14 cm long and 2.3–4.5 cm wide, with rounded base, apex often with one or two coarse teeth on each side; acumen 2 cm long with filiform mucro reaching 2 mm. Midrib finely prominent on the upper surface of the blade;
 
 (1) Cf. addenda, p. 148.
 
@@ -35,13 +33,13 @@ Liane ligneuse grêle à jeunes extrémités cylindriques finement pubescentes. 
 
 ---
 
-7-9 paires de nervures latérales; la paire inférieure est basilaire.
+7–9 pairs of lateral nerves; the lower pair is basal.
 
-Inflorescence ombelliforme axillaire, de 1-4 (5) fleurs portées par un pédoncule très bref, de 0 à 4 mm. Petites bractéoles étroites aiguës et pubescentes. Pédicelle filiforme de 10-15 mm de long, articulé au-dessus de la moitié. Bouton conique aigu, de 6-9 mm de long, d'abord pubescent. 5 sépales deltoïdes connés à la base, valvaires, pubescents sur le bord interne des marges. 5 pétales glabres à onglet basal filiforme, à partie moyenne cucullée à 4 sillies entourant les étamines, à appendice apical digité. Androcée composé d'une collerette pubescente, haute de 3-4 mm, et de 5 anthères oppositipétales, sessiles, longues de 1 mm, triloculaires, à loges parallèles distinctes. Ovaire globuleux de 1 mm de diamètre, pubescent, à 5 loges biovulées. Style filiforme glabrescent de 2 mm de long, lobé au sommet.
+Inflorescence umbelliform axillary, of 1–4 (5) flowers borne by a very short peduncle, 0 to 4 mm. Small narrow acute pubescent bracteoles. Filiform pedicel 10–15 mm long, articulate above the middle. Conical acute bud, 6–9 mm long, initially pubescent. 5 deltoid sepals connate at the base, valvate, pubescent on the inner edge of the margins. 5 glabrous petals with filiform basal claw, with cucullate middle part with 4 grooves surrounding the stamens, with digitate apical appendage. Androecium composed of a pubescent collar, 3–4 mm high, and 5 sessile oppositipetalous anthers, 1 mm long, trilocular, with distinct parallel locules. Globose ovary 1 mm in diameter, pubescent, with 5 biovulate locules. Filiform nearly glabrous style 2 mm long, lobed at the apex.
 
-Fruit inconnu.
+Fruit unknown.
 
-Les fleurs ont une tendance à l’unisexualité. Certaines d’entre elles ont un ovaire un peu réduit et glabre (Bodard et Pellegrin).
+The flowers show a tendency towards unisexuality. Some of them have a somewhat reduced and glabrous ovary (Bodard and Pellegrin).
 
 ## Species in region
 

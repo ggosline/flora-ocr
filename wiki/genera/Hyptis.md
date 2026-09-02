@@ -15,59 +15,21 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Annual or perennial herbs (sometimes shrubs outside Gabon), aromatic. Leaves simple, opposite, petiolate. Inflorescences terminal or axillary, in cymes with numerous flowers, densely arranged in axillary pedunculate capitules; bracts foliaceous toward the base, narrower toward the apex; bracteoles present, forming an involucre at the base of the head. Flowers sessile; calyx obconic to tubular-campanulate, ribbed, elongating in fruit, with 5 subequal teeth; corolla 5-lobed, ± bilabiate, with upper lip subdressed, emarginate, lower lip articulate at the base, becoming deflexed, median lobe saccate, containing the stamens, then folding back at anthesis to release them explosively; stamens 4, declined, unequal, inserted on the lower side of the throat, scarcely exserted, anthers reniform to orbicular, dorsifixed, with equal thecae; ovary deeply 4-lobed; style gynobasic, apex shortly bifid or entire. Fruits: 4 achenes, with a well-visible bilobed basal areole, smooth to punctate-rugulose, sometimes producing mucilage when wet.
 
-Herbes annuelles ou pérennes (parfois des arbustes hors du Gabon), aromatiques. Feuilles
+Genus with approximately 144 species distributed in the tropical and subtropical regions of the New World. Several species are naturalized in the tropics of the Old World where they behave as weeds. Two species occur in Gabon.
 
-simples, opposées, pétiolées. Inflorescences terminales ou axillaires, en cymes à nombreuses
+Notes: Some species formerly placed in the genus Hyptis are now recognized in different genera. See also Cantinoa and Mesosphaerum in this treatment.
 
-fleurs, densément disposées en capitules axillaires pédonculés ; bractées foliacées vers le
+B: Harley & Pastore (2012), Morton (1962), Pastore et al. (2011), Paton et al. (2013).
 
-bas, plus étroites dans le haut ; bractéoles présentes, formant un involucre à la base de la tête.
+Bibliography
 
-Fleurs sessiles ; calice obconique à tubuleux-campanulé, côtelé, s’allongeant en fruit, à 5
+### Key to species
 
-dents subégales ; corolle 5-lobée, ± bilabiée, à lèvre supérieure subdressée, émarginée, lèvre
+1. - Calyx 5–7 mm long, lobes 2–3 mm long, with wide truncate sinus between the lobes; stem sarmentose or prostrate, often rooting at the lower nodes ................................................................................................................. H. atrorubens
 
-inférieure articulée à la base, devenant défléchie, lobe médian sacciforme, contenant les
-
-étamines, ensuite se repliant à l’anthèse pour les libérer de manière explosive ; étamines
-
-4, déclinées, inégales, insérées sur le côté inférieur de la gorge, peu saillantes, anthères réni-
-
-formes à orbiculaires, dorsifixes, à thèques égales ; ovaire profondément 4-lobé ; style gy -
-
-nobasique, apex courtement bifide ou entier. Fruits : akènes 4, à aréole basale bilobée bien
-
-visible, lisses à ponctués-ruguleux, produisant parfois du mucilage lorsqu’ils sont mouillés.
-
-Genre avec environ 144 espèces réparties dans les régions tropicales et subtropicales du Nou-
-
-veau Monde. Plusieurs espèces sont naturalisées sous les tropiques de l’Ancien Monde où
-
-elles se comportent comme des mauvaises herbes. Deux espèces existent au Gabon.
-
-Notes : Certaines espèces autrefois placées dans le genre Hyptis sont maintenant reconnues dans diffé-
-
-rents genres. Voir aussi Cantinoa et Mesosphaerum dans ce traitement.
-
-B : Harley & Pastore (2012), Morton (1962), Pastore et al. (2011), Paton et al. (2013).
-
-i B liographie
-
-### Clé des espèces
-
-1. - Calice long de 5–7 mm, lobes longs de 2–3 mm, à large sinus tronqué entre les
-
-lobes ; tige sarmenteuse ou couchée, s’enracinant souvent aux nœuds inférieurs
-
-................................................................................................................. H. atrorubens
-
-- Calice long de 3–5 mm, lobes longs de 1–1,5 mm, à sinus étroit en forme de V ou
-
-U entre les lobes ; tige dressée, ne s’enracinant pas aux nœuds ............. H. lanceolata
-
----
+- Calyx 3–5 mm long, lobes 1–1.5 mm long, with narrow V- or U-shaped sinus between the lobes; stem erect, not rooting at the nodes ............. H. lanceolata
 
 ## Species in region
 

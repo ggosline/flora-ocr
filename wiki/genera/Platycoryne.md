@@ -17,13 +17,11 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Tubers 1–2, ovoid or ellipsoid. Stem erect, delicate. Leaves scattered along the stem or collected in a basal rosette, small, narrow, linear or lanceolate. Inflorescence in general short, often capitate. Flowers resupinate, of bright colour. Dorsal sepal and petals forming a sort of helmet; lateral sepals deflexed. Labellum ligulate, simple. Labellum and/or petals sometimes with filiform basal lobules. Stigmaphores fairly massive, short, truncate at the apex. Auricles in general prominent, entire, subspheric, below the antherophores and rostellophores. – Pl. 23, p. 53.
 
-Tubercules 1-2, ovoïdes ou ellipsoïdaux. Tige dressée, délicate. Feuilles dispersées le long de la tige ou réunies en rosette basale, petites, étroites, linéaires ou lancéolées. Inflorescence en général courte, souvent capitée. Fleurs résupinées, de couleur vive. Sépale dorsal et pétales formant une sorte de casque ; sépales latéraux défléchis. Labelle liguliforme, simple. Labelle et/ou pétales parfois avec des lobules basaux filiformes. Stigmaphores assez massifs, courts, tronqués au sommet. Auricules en général proéminentes, entières, subsphériques, au-dessous des anthérophores et des rostellophores. – Pl. 23, p. 53.
+We have found no information on pollination in this genus; the bright-coloured flowers of certain species nevertheless indicate that the pollinators are probably diurnal butterflies.
 
-Nous n'avons trouvé aucune information sur la pollinisation dans ce genre ; les fleurs de couleurs vives de certaines espèces indiquent cependant que les pollinisateurs sont probablement des papillons diurnes.
-
-Genre exclusivement africain d’Afrique tropicale et de Madagascar, réunissant environ 20-25 espèces.
+Genus exclusively African from tropical Africa and Madagascar, comprising approximately 20–25 species.
 
 ## Species in region
 

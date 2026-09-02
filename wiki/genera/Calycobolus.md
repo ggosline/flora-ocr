@@ -17,73 +17,39 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Lianes, parfois arbustes lianescents, glabres ou pubescents , les poils en général en forme
-
-de T. Feuilles simples, pétiolées ; limbe entier, papyracé à coriace, glabre à pubescent,
-
-le plus souvent mucroné au sommet ; domaties présentes ou absentes dessous. Inflores -
-
-cences axillaires ou (sub)terminales, en racèmes ou ± arrangées en fascicules axil-
-
-laires , odorantes ou non. Fleurs : sépales inégaux, les deux externes plus grands ou de
-
-forme différente des trois internes ; corolle tubulaire, urcéolée, campanulée ou infun-
-
-dibuliforme, généralement courtement lobée ; étamines généralement égales, incluses ,
+Lianes, sometimes scandent shrubs, glabrous or pubescent, the hairs generally T-shaped. Leaves simple, petiolate; blade entire, papyraceous to coriaceous, glabrous to pubescent, most often mucronate at the apex; domatia present or absent beneath. Inflorescences axillary or (sub)terminal, in racemes or ± arranged in axillary fascicles, fragrant or not. Flowers: sepals unequal, the two external ones larger or of different shape from the three internal ones; corolla tubular, urceolate, campanulate or infundibuliform, generally shortly lobed; stamens generally equal, included,
 
 ---
 
-anthères dressées ou pendantes , parfois à longs poils souples le long des fentes, grains
+anthers erect or pendulous, sometimes with long soft hairs along the slits, pollen grains smooth; pistil glabrous or rarely pubescent; styles 2, of equal or unequal length, free or partially fused, stigmas globose or capitate. Fruit indehiscent, enveloped by the two external sepals, unequally accrescent. Seed generally solitary.
 
-de pollen lisses ; pistil glabre ou rarement pubescent ; styles 2, de longueur égale ou
+Tropical genus with amphi-Atlantic distribution, 3 species in America, 14 species in Africa, of which 6 in Gabon.
 
-non, libres ou partiellement soudés, stigmates globuleux ou capités. Fruit indéhiscent,
+Note: The majority of Calycobolus species inhabits the forests of West and Central Africa.
 
-enveloppé par les deux sépales externes, inégalement accrescents . Graine générale-
+B: Breteler (2013), Lejoly & Lisowski (1985).
 
-ment solitaire .
+Bibliography
 
-Genre tropical à distribution amphi-atlantique, 3 espèces en Amérique, 14 espèces en
+### Key to the species
 
-Afrique, dont 6 au Gabon.
+1. - Flower open with erect anthers ......................................................................... 2
 
-Note : La majorité des espèces de Calycobolus habite les forêts de l’Afrique de l’ouest
+- Flower open with pendulous anthers ....................................................................... 3
 
-et centrale.
+2. - Leaf beneath with axillary domatia in at least some lateral veins, with petiole of (1.5–)2–3 cm ............................................................................. C. goodii
 
-B : Breteler (2013), Lejoly & Lisowski (1985).
+- Leaf without domatia, with petiole of 0.6–1.2(–1.6) cm .......................... C. heineanus
 
-ibliographie
+3. - Corolla of ≤ 2 cm in length ................................................................................ 4
 
-### Clé des espèces
+- Corolla of ≥ (2.5–)3 cm in length ...................................................................... 5
 
-1. - Fleur épanouie à anthères dressées ......................................................................... 2
+4. - Corolla infundibuliform; leaf acute to shortly (≤ 10(–15) mm) acuminate at the apex; petiole (10–)15–40(–55) mm ................................................. C. gilgianus
 
-- Fleur épanouie à anthères pendantes ....................................................................... 3
+- Corolla urceolate; leaf distinctly (5–)15–25 mm) acuminate at the apex; petiole (5–)6–9(–16) mm ...................................................................... C. africanus
 
-2. - Feuille dessous à domaties axillaires dans au moins quelques nervures latérales, à
-
-pétiole de (1,5–)2–3 cm ............................................................................. C. goodii
-
-- Feuille sans domaties, à pétiole de 0,6–1,2(–1,6) cm .......................... C. heineanus
-
-3. - Corolle de ≤ 2 cm de longueur ................................................................................ 4
-
-- Corolle de ≥ (2,5–)3 cm de longueur ...................................................................... 5
-
-4. - Corolle infundibuliforme ; feuille aiguë à courtement (≤ 10(–15) mm) acuminée au
-
-sommet ; pétiole (10–)15–40(–55) mm ................................................. C. gilgianus
-
-- Corolle urcéolée ; feuille distinctement (5–)15–25 mm) acuminée au sommet ;
-
-pétiole (5–)6–9(–16) mm ...................................................................... C. africanus
-
-5. - Anthères au moins à quelques poils longs et souples le long des fentes ; bractéoles
-
-attachées ± au milieu du pédicelle ..................................................... C. acuminatus
+5. - Anthers with at least some long soft hairs along the slits; bracteoles attached ± at the middle of the pedicel ..................................................... C. acuminatus
 
 ## Species in region
 

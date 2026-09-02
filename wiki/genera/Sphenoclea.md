@@ -17,37 +17,17 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Helophilous herbs; stems erect or decumbent, ± spongy, the submerged parts with aerenchymatous tissue. Leaves glabrous. Flowers sessile, very small, with helicoid insertion on the rachis; calyx persistent, with rounded lobes; corolla caducous; stamens with very short filaments and globose anthers; style very short, glabrous, with capitate stigma and slightly bilobed. Fruits obovoid to obconic, with slightly convex operculum that detaches with the upper part of the calyx. Seeds with axial, straight embryo.
 
-Herbes hélophiles ; tige dressés ou décombantes, ± spongieuses, les parties submergées
+Genus comprising 2 species, one with almost pantropical distribution, the other endemic to West Africa.
 
-à tissu aérenchymateux. Feuilles glabres. Fleurs sessiles, très petites , à insertion héli-
+B: Monod (1980), Thulin (1973, 1983).
 
-coïdale sur le rachis ; calice persistant , à lobes arrondies ; corolle caduque ; étamines à
-
-filaments très courts et anthères globuleuses ; style très court, glabre, à stigmate capité
-
-et légèrement bilobé. Fruits obovoïdes à obconiques, opercule légèrement bombé qui se
-
-détache avec la partie supérieure du calice . Graines à embryon axial, droit.
-
-Genre comprenant 2 espèces, l’une à distribution presque pantropicale, l’autre endémique
-
-en Afrique de l’Ouest.
-
-B : Monod (1980), Thulin (1973, 1983).
-
-IBLIOGRAPHIE
+BIBLIOGRAPHY
 
 ---
 
-Bractéoles. – 6. Bouton floral. – 7. Fleur ouverte. – 8. Calice. – 9. Ovaire. – 10. Corolle ouverte.
-
-– 11. Étamine. – 12. Fruit. – 13. Ovaire en coupe transversale. – 14. Graine. (1, 2, 14 : Milne-Red-
-
-head & Taylor 7463 ; 3-6, 12, 13 : Jones FHI 18808 ; 7-11 : Deighton 132a ). Planche par Olive
-
-Milne-Redhead (©), reproduite avec permission à partir de Hepper (1963) l.c.
+Bracteoles. – 6. Floral bud. – 7. Open flower. – 8. Calyx. – 9. Ovary. – 10. Open corolla. – 11. Stamen. – 12. Fruit. – 13. Ovary in cross-section. – 14. Seed. (1, 2, 14: Milne-Redhead & Taylor 7463; 3–6, 12, 13: Jones FHI 18808; 7–11: Deighton 132a). Plate by Olive Milne-Redhead (©), reproduced with permission from Hepper (1963) l.c.
 
 ---
 

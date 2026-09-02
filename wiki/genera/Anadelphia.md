@@ -14,8 +14,6 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 2.1 afzeliana
 
 2.2 hamata

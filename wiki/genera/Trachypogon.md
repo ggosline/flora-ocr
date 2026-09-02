@@ -17,43 +17,37 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Spikelets in pairs, the two pedicels, but differing in sex, arranged in terminal racemes, solitary, geminate or digitate. Pedicels of unequal length, the shortly pedicellate spikelets male or neuter and persistent, the long pedicellate spikelets hermaphrodite and rapidly deciduous. Two flowers, the lower reduced to a lemma, the upper male, neuter or hermaphrodite according to the spikelet type.
 
-Épillets par paires, les deux pédicelles, mais différents par le sexe, disposés en racèmes terminaux, solitaires, géminés ou digités. Pédicelles de longueur inégale, les épillets courtement pédicelles mâles ou neutres et persistants, les épillets longuement pédicelles hermaphrodites et rapidement cadues. Deux fleurs, l'inférieure réduite à une lemma, la supérieure mâle, neutre ou hermaphrodite selon le type de l'épillet.
+Fertile spikelets awned; lower glume bicarinate, 5–9 nerved, upper glume 3-nerved, with a groove on either side of the keel. Fertile lemma entire, prolonged by a geniculate awn. Male or neuter spikelets dorsally flattened or rounded, muticous. Glumes similar to those of fertile spikelets. Lemma of the upper flower entire or bidentate, sometimes mucronate or shortly awned.
 
-Épillets fertiles aristés; glume inférieure bicarénée, à 5-9 nervures, glume supérieure à 3 nervures, avec un sillon de chaque côté de la carène. Lemma fertile entière, prolongée par une arête géniculée. Épillets mâles ou neutres dorsalement aplatis ou arrondis, mutiques. Glumes semblables à celles des épillets fertiles. Lemma de la fleur supérieure entière ou bidentée, parfois mucronée ou courtement aristée.
+Cespitose perennial herbs, with narrow linear leaves and pubescent nodes.
 
-Herbes pérennes cespiteuses, à feuilles linéaires étroites et à nœuds pubescents.
+One species, Trachypogon Thollonii Stapf, known from the Batéké
 
-Une espèce, Trachypogon Thollonii Stapf, connue des Pla-
+Plateaus, around Brazzaville, would be worth searching for on the
 
-teaux Batékés, autour de Brazzaville, serait à rechercher sur les
+sandy soils of the Franceville region.
 
-sols sableux de la région de Franceville.
-
-Les Trachypogon ne présentent qu'un intérêt fourrager réduit.
+The Trachypogon have only reduced fodder value.
 
 ---
 
-# III. BAMBUSÉES
+# III. BAMBUSEAE
 
-Plantes herbacées du sous-bois à feuilles ovales-lancéolées à linéaires lancéolées.
+Herbaceous plants of the understory with ovate-lanceolate to linear-lanceolate leaves.
 
-1. 6 étamines à filets libres; épilets avec les 1 à 3 fleurs inférieures
+1. 6 stamens with free filaments; spikelets with 1 to 3 lower flowers male, the others hermaphrodite..... 43. Guaduella.
 
-mâles, les autres hermaphrodites..... 43. Guaduella.
+1'. 6 stamens with fused filaments; the 3 to 6 lower flowers male, the terminal one female alone.
 
-1'. 6 étamines à filets soudés; les 3 à 6 fleurs inférieures mâles, la terminale seule femelle.
+2. Inflorescences in panicles or short racemes; lodicules null or little visible; 3 to 5 empty pieces (glumes) at the base of the spikelet.....
 
-2. Inflorescences en panicules ou racèmes courts; lodicules nulles ou peu visibles; 3 à 5 pièces vides (glumes) à la base de l'épillet.....
+2'. Loose very elongate inflorescence; 3 well-developed lodicules, at least in the male flowers; 2 glumes only at the base of the spikelets..... 45. Atractocarpa.
 
-2'. Inflorescence lâche très allongée; 3 lodicules bien développées, au moins dans les fleurs mâles; 2 glumes seulement à la base des épilles..... 45. Atractocarpa.
+Franchet had described the genus Atractocarpa with free stamens, which differentiated it from Puelia. The stamens are in fact monadelphous in these two genera; however characters of the inflorescence and organization of the spikelets allow them to be maintained.
 
-Franchet avait décrit le genre Atractocarpa avec des étamines libres, ce qui le différenciait des Puelia. Les étamines sont en réalité monadelphes dans ces deux genres, cependant des caractères de l'inflorescence et de l'organisation des épilets permettent de les maintenir.
-
-La distinction des espèces paraît assez difficile chez ces bambusées herbacées; elle a souvent été basée sur la forme des feuilles. Or celle-ci paraît très variable et on rencontre souvent toutes les formes intermédiaires entre les types extrêmes. Un matériel beaucoup plus abondant serait utile pour pouvoir se prononcer dans certains cas.
-
----
+The distinction of species appears fairly difficult in these herbaceous bambuseae; it has often been based on leaf form. However, this appears highly variable and one often encounters all intermediate forms between the extreme types. Much more abundant material would be useful in order to be able to decide in certain cases.
 
 ## Species in region
 

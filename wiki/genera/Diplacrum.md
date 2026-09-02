@@ -17,57 +17,21 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Annual or rarely perennial herbs, stoloniferous, small to medium in size.
 
-Herbes annuelles ou rarement vivaces, stolonifères, de taille petite à moyenne .
+Leaves with linear or rarely lanceolate blades; ligule absent. Inflorescence in a head or panicle, sometimes bearing spikelets in sessile or shortly pedunculate axillary glomerules. Spikelets all unisexual (male spikelets possibly appearing as male flowers situated below the female spikelet), the males with a few opposite glumes and all fertile, the females without rudiments of upper flowers, so that the single flower appears terminal. Male flower with a single stamen. Female flower with two opposite glumes persistent or falling with the fruit; pistil resting on a trilobed disc with lobes opposite the 3 main ribs; style with 3 branches, not thickened at the base, slender, falling rapidly. Achene ovoid to almost globose, with a short beak, with 3 ribs, smooth, reticulate or longitudinally ridged.
 
-Feuilles à limbes linéaires ou rarement lancéolées ; ligule absente. Inflorescence en tête
+Genus comprising seven species, widely distributed in the tropical and subtropical regions of the Old World, also one or two species in South America; two species in Africa, one of which in Gabon.
 
-ou panicule, portant parfois des épillets en glomérules axillaires sessiles ou cour-
+Taxonomic note: Some authors (Kern 1961, 1974) place Diplacrum as a subgenus or section of Scleria. However, Goetghebeur (1998) considers that this genus belongs to the tribe Bisboekelereae and not to the tribe Sclerieae. Diplacrum differs from Scleria by its spikelets all unisexual, its male flowers with a single stamen and its 2 glumes (not 3) below the female flower.
 
-tement pédonculés . Épillets tous unisexués (épillets mâles pouvant apparaître comme
-
-étant des fleurs mâles situées sous l’épillet femelle), les mâles avec quelques glumes
-
-opposées et toutes fertiles , les femelles sans rudiments de fleurs supérieures, si bien que
-
-l’unique fleur apparaît comme terminale. Fleur mâle à une seule étamine . Fleur femelle
-
-avec deux glumes opposées persistantes ou tombant avec le fruit ; pistil reposant sur un
-
-disque trilobé avec les lobes opposés aux 3 côtes principales ; style à 3 branches, non
-
-épaissi à la base, grêle, tombant rapidement. Akène ovoïde à presque globuleux, avec un
-
-bec court, à 3 côtes, lisse, réticulé ou côtelé longitudinalement .
-
-Genre comptant sept espèces, largement répandu dans les régions tropicales et subtro-
-
-picales de l’Ancien Monde, également une ou deux espèces en Amérique du Sud ; deux
-
-espèces en Afrique dont une au Gabon.
-
-Note taxonomique : Certains auteurs (Kern 1961, 1974) placent Diplacrum comme sous-
-
-genre ou section de Scleria . Cependant, Goetghebeur (1998) considère que ce genre ap-
-
-partient à la tribu des Bisboekelereae et non à la tribu des Sclerieae . Diplacrum diffère
-
-de Scleria par ses épillets tous unisexués, ses fleurs mâles à une seule étamine et ses
-
-2 glumes (non 3) sous la fleur femelle.
-
-B : Goetghebeur (1998), Haines & Lye (1983), Kern (1961, 1974), Napper
-
-ibliographie
-
-(1972).
+Bibliography: Goetghebeur (1998), Haines & Lye (1983), Kern (1961, 1974), Napper (1972).
 
 ---
 
 a b
 
-### Eleocharis confervoides ( Couteau 1078 , République Démocratique du Congo).
+### Eleocharis confervoides (Couteau 1078, Democratic Republic of the Congo).
 
 ## Species in region
 

@@ -17,31 +17,29 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 & PRANTL, Nat. Pflanzenfam. 3 (5) : 208 (1892).
 
 — Gymnosporia subgen. Scytophyllum (ECKL. & ZEYH.) LOES., I.c. (1892).
 
-Arbres ou arbustes inermes ou spinescents, montrant exceptionnellement des fils de latex. Feuilles alternes parfois fasciculées sur des rameaux courts, courtement stipulées (stipules caduques).
+Trees or shrubs unarmed or spinescent, exceptionally showing latex threads. Leaves alternate, sometimes fascicled on short branchlets, shortly stipulate (stipules caducous).
 
-Inflorescences axillaires, en fascicules ou en courtes cymes. Fleurs en général ¥, actinomorphes, (tétra-)pentamères. Sépales et pétales à préfloraison contortée. Étamines soudées au disque patelliforme ou cupulaire; anthères introrses à déhiscence longitudinale. Ovaire enfoncé dans le disque, (2-)3(-4)-loculaire, chaque loge contenant (1-)2 ovules dressés. Style ± distinct à 2-3 valves.
+Inflorescences axillary, in fascicles or in short cymes. Flowers generally ¥, actinomorphic, (tetra-)pentamerous. Sepals and petals with contorted prefloration. Stamens fused to the patellifor or cupular disk; anthers introrse with longitudinal dehiscence. Ovary sunken in the disk, (2-)3(-4)-locular, each locule containing (1-)2 erect ovules. Style ± distinct with 2-3 valves.
 
-Arille charnu cupuliforme à la base de la graine ou membraneux et enveloppant ± toute la graine.
+Aril fleshy, cupuliform at the base of the seed or membranous and enveloping ± the entire seed.
 
-ESPÈCE-TYPE : Maytenus boaria Molina.
+TYPE SPECIES: Maytenus boaria Molina.
 
-Ce genre pantropical et subtropical groupe environ 200 espèces; deux sont représentées au Gabon.
-
----
+This pantropical and subtropical genus groups approximately 200 species; two are represented in Gabon.
 
 ---
 
-### CLÉ DES ESPÈCES
+---
 
-1. Arbuste non épineux; appareil végétatif contenant des fils de latex, fruit bivalve; arille entourant complètement la graine; filet très court; style court; pétales réfléchis intérieurement et pubescents au sommet..... 1. M. acuminata
+### KEY TO SPECIES
 
-1'. Arbuste épineux; appareil végétatif sans latex; fruit trivalve; arille basal; filet long; style long; pétales dressés et glabres..... 2. M. buchananii
+1. Shrub non-spiny; vegetative apparatus containing latex threads, fruit bivalvate; aril completely surrounding the seed; filament very short; style short; petals reflexed inwardly and pubescent at the apex..... 1. M. acuminata
+
+1'. Shrub spiny; vegetative apparatus without latex; fruit trivalvate; basal aril; filament long; style long; petals erect and glabrous..... 2. M. buchananii
 
 ## Species in region
 

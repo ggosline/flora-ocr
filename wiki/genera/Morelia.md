@@ -17,17 +17,15 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Arbuste glabre. Stipules dressées, triangulaires-aiguës à marges amincies, rapidement caduques. Feuilles pétiolées; anisophyllie faible au nulle. Domaties nombreuses situées à la fois le long de la médiane et aux bifurcations des nervures secondaires.
+Glabrous shrub. Stipules erect, triangular-acute with thinned margins, rapidly caducous. Leaves petiolate; anisophylly weak or absent. Domatia numerous, situated both along the midvein and at the bifurcations of secondary veins.
 
 ---
 
-Inflorescences corymbiformes paraissant unilatéralement axillaires un nœud sur deux, en grappe de cymes corymbiforme pédonculée, à petites bractées deltoïdes aiguës; les cymes sont alternes, plus rarement subopposées le long du rachis; les bractées supérieures sont opposées. Les fleurs blanches ressemblent in vivo à celle du genre Pavetta mais sont pentamères; à sec elles paraissent beaucoup plus proches des Aidia mais elles sont beaucoup moins aiguës en bouton. Calice glabre ou non, profondément eupuliforme, brièvement denté. Corolle à préfloraison tordue, à pétales oblonges; intérieur de la gorge densément velu. Étamines exsertes à filet court, à anthères linéaires sagittées sub-basifixes; pollen en grains simples triporés, bréviaxes, faiblement ornés. Style glabre à stigmate exsert cannelé. Ovaire circulaire en coupe, à 4 loges, paraissant composé de 2 feuilles carpellaires et de deux fausses cloisons. Placentas à 2-4 ovules, peltés, opposés par deux sur les cloisons médianes.
+Inflorescences corymbiform, appearing unilaterally axillary at alternate nodes, in a raceme of pedunculate corymbirform cymes, with small deltoid acute bracts; the cymes are alternate, more rarely subopposite along the rachis; the upper bracts are opposite. The white flowers resemble in vivo those of the genus Pavetta but are pentamerous; when dry they appear much closer to Aidia but are much less acute in bud. Calyx glabrous or not, deeply cupuliform, briefly dentate. Corolla with twisted prefloration, with oblong petals; interior of the throat densely villous. Stamens exsert with short filament, with sagittate linear anthers sub-basifixed; pollen in simple grains triporose, breviaxial, weakly ornamented. Style glabrous with exsert channeled stigma. Ovary circular in section, 4-locular, appearing composed of 2 carpellary leaves and two false septa. Placentas with 2–4 ovules, peltate, opposite in pairs on the median septa.
 
-Fruit globuleux nettement plus gros que celui des Aidia. Graines albuminées cuculliformes hémisphériques. Embryon blanc ± courbé.
+Fruit globose, distinctly larger than that of Aidia. Seeds albuminous, cuculliform hemispherical. Embryo white, ± curved.
 
-Genre monotypique.
+Monotypic genus.
 
 ## Species in region
 

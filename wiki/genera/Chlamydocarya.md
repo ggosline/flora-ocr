@@ -17,35 +17,33 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Lianes dioïques de grande taille à tige torsadée. Feuilles parfois munies d'hyadhodes sur les bords du limbe. Inflorescences ♂ en épis axillaires ou caulinaires. Fleurs ♂ tétramères. Calice absent. Étamines libres et gynobasiques. Pistillode réduit. Inflorescence ♀ en épis axillaire ou caulinaire. Fleurs ♀ tétramères. Calice absent. Staminodes alternipétales. Ovaire pubescent uniloculaire. Stigmate en plateau lacinié. Drupe entourée par un organe hirsute pubescent ou échinulé. Endocarpe ligneux; aiguillons ou lames à sa face interne. Embryon aussi grand que la graine.
+Large dioecious lianes with twisted stem. Leaves sometimes bearing hydathodes on the margins of the blade. ♂ inflorescences in axillary or cauline spikes. ♂ flowers tetramerous. Calyx absent. Stamens free and gynobasic. Pistillode reduced. ♀ inflorescence in axillary or cauline spike. ♀ flowers tetramerous. Calyx absent. Staminodes alternipetalous. Ovary pubescent unilocular. Stigma plateau-like laciniate. Drupe surrounded by a hirsute pubescent or echinulate organ. Endocarp woody; prickles or blades on its inner surface. Embryo as large as the seed.
 
 ---
 
 ---
 
-Espèce-type : C. thomsoniana Baillon.
+Type species: C. thomsoniana Baillon.
 
-Ce genre renferme 6 espèces en Afrique tropicale; 3 sont représentées au Cameroun et au Gabon.
+This genus contains 6 species in tropical Africa; 3 are represented in Cameroon and Gabon.
 
-1. Infrutescence en grappe allongée; hydathodes absents.
+1. Infructescence in elongate raceme; hydathodes absent.
 
-2. Sommet de l'ovaire accrescent en forme de calotte se terminant en long tubule; grappe allongée, longue; pétales glabres intérieurement; pubescence de l'ovaire réfléchie vers la base du pistil..... 1. C. anhydathoda.
+2. Apex of ovary accresent in the form of a cap terminating in a long tubule; elongate raceme, long; petals glabrous internally; pubescence of ovary reflected towards the base of the pistil..... 1. C. anhydathoda.
 
-2'. Sommet de l'ovaire accrescent en sphère ± ellipsoïde; grappe courte; pétales pubescents intérieurement; pubescence de l'ovaire dressée..... 2. C. soyauxii.
+2'. Apex of ovary accresent in ± ellipsoid sphere; raceme short; petals pubescent internally; pubescence of ovary erect..... 2. C. soyauxii.
 
-1'. Infrutescence en sphère étoilée; hydathodes présents..... 3. C. thomsoniana.
+1'. Infructescence in starred sphere; hydathodes present..... 3. C. thomsoniana.
 
-CLÉ DES ESPÈCES PAR L'APPAREIL VÉGÉTATIF
+KEY TO SPECIES BY VEGETATIVE APPARATUS
 
-1. Hydathodes absents.
+1. Hydathodes absent.
 
-2. Nervilles en réseau lâche; 8-9 paires de nervures secondaires; pétiole éparsement pubescent dessus et glabre dessous..... 1. C. anhydathoda.
+2. Nervilles in loose network; 8-9 pairs of secondary veins; petiole sparsely pubescent above and glabrous below..... 1. C. anhydathoda.
 
-2'. Nervilles en réseau dense; 8-15 paires de nervures secondaires; pétiole entièrement pubescent ..... 2. C. soyauxii.
+2'. Nervilles in dense network; 8-15 pairs of secondary veins; petiole entirely pubescent ..... 2. C. soyauxii.
 
-1'. Hydathodes présents ..... 3. C. thomsoniana.
+1'. Hydathodes present ..... 3. C. thomsoniana.
 
 ## Species in region
 

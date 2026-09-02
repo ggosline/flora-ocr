@@ -17,19 +17,13 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Stem elongate, sometimes branched. Leaves distichous, ligulate, unequally bilobed, with a piliferous ligule at the apex of the sheath, opposite the leaf. Inflorescence axillary, very short, pauciflorous. Flowers small, resupinate. Sepals and petals dissimilar. Labellum entire or weakly trilobed, without callus. Spur cylindric to claviform, obtuse. Gynostemium short, slender, erect. Rostellum elongate, oblong. Viscidium unique. Tegula unique. Rostellum bilobed after withdrawal of the pollinarium, the median lobe entirely reduced. – Pl. 160, p. 356.
 
-Tige allongée, parfois ramifiée. Feuilles distiques, ligulées, inégalement bilobées, avec une ligule piliforme au sommet de la gaine, à l'opposé de la feuille. Inflorescence axillaire, très courte, pauciflore. Fleurs petites, résupinées. Sépales et pétales dissemblables. Labelle entier ou faiblement trilobé, sans callus. Éperon cylindrique à claviforme, obtus. Gynostème court, frêle, dressé. Rostellum allongé, oblong. Viscidie unique. Tegula unique. Rostellum bilobé après retrait du pollinarium, le lobe médian entièrement réduit. – Pl. 160, p. 356.
+A small genus of 3 species widely distributed in tropical Africa, of which 2 in Gabon.
 
-Un petit genre de 3 espèces largement distribué en Afrique tropicale dont 2 au Gabon.
+1. Leaves reaching 2.5 mm in width, spur reaching 2 mm; labellum clearly trilobed .....33. 2. E. gabonensis
 
-1. Feuilles atteignant 2,5 mm de largeur, éperon atteignant 2 mm ; labelle nette-
-
-ment trilobé .....33. 2. E. gabonensis
-
-1'. Feuilles de plus de 5 mm de largeur, éperon de plus de 2,3 mm, labelle entier
-
-.....33.1.E.clavata
+1'. Leaves more than 5 mm in width, spur more than 2.3 mm, labellum entire .....33.1. E. clavata
 
 ## Species in region
 

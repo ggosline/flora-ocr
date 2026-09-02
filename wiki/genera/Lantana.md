@@ -17,69 +17,21 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Trees, shrubs or small shrubs perennial, erect or climbing, rarely prostrate, aromatic; stems tomentose, with scabrous hairs or armed with spines. Leaves decussate or in whorls of 3 (or 4), simple, petiolate; blade dentate or crenate, often ± bullate or rugose, generally glandular-punctate. Inflorescences generally axillary, in heads or pedunculate spikes, cylindrical or subspheric; bracts linear to triangular; axis of the fruiting spike with ± scattered scars. Flowers sessile; calyx tubulate, persistent, truncate or sinuate-dentate, membranous; corolla cylindrical or enlarging above the middle, with indistinctly 2-lipped limb, with 4 or 5 unequal, obtuse or emarginate lobes; stamens 4, didynamous, inserted at the middle of the tube, included, anthers with parallel thecae; ovary with 1 carpel 2-locular, with one ovule per locule, basal or attached laterally near the base; style entire, with capitate stigma. Fruits drupaceous; mesocarp ± fleshy, rarely rather dry; endocarp hard, 2-locular or dividing into 2 one-locular pyrenes. Seeds without endosperm.
 
-Arbres, arbustes ou arbrisseaux pérennes, dressés ou grimpants, rarement prostrés, aroma-
+A genus of about 100 species, principally native to subtropical and tropical America, with a few from Africa to Thailand, including Nigeria, Cameroon, Gabon, Republic of the Congo, and Democratic Republic of the Congo, Central African Republic and Angola. Several species are widely cultivated as ornamental garden plants, with numerous cultivars. In Gabon, it is known from only a single introduced and naturalized species.
 
-tiques ; tiges tomenteuses, à poils scabres ou armées d’épines . Feuilles décussées ou en ver-
+Notes: L. montevidensis (Spreng.) Briq. is often cultivated in gardens as a bedding plant or as ground cover.
 
-ticilles de 3(ou 4), simples, pétiolées ; limbe denté ou crénelé, souvent ± bullé ou rugueux,
+Bibliography
 
-généralement glanduleux-ponctué. Inflorescences généralement axillaires, en têtes ou épis
+Atkins (2004), Cardoso et al. (2011), Fernandes (1989), Fernandes & Diniz (2005), Huber et al. (1963), Sanders (2006), Sosef et al. (2006), Verdcourt (1992).
 
-pédonculés, cylindriques ou subsphériques ; bractées linéaires à triangulaires ; axe de l’épi
+### Key to species
 
-fructifère à cicatrices ± dispersées. Fleurs sessiles ; calice tubulé, persistant, tronqué ou si-
+1. - Leaves opposite; stem almost always covered with recurved, scattered or even rarely absent spines; bracts of inflorescences linear to very narrowly elliptic-ovate, 1–1.5 mm wide; spike not elongating or scarcely after flowering ...................................................................... L. × strigocamara
 
-nueux-denté, membraneux ; corolle cylindrique ou s’élargissant au-dessus du milieu, à limbe
-
-indistinctement 2-labié, avec 4 ou 5 lobes inégaux, obtus ou émarginés ; étamines 4 , didy-
-
-names, insérées au milieu du tube, incluses, anthères à thèques parallèles ; ovaire à 1 carpelle
-
-2-loculaire , à un ovule par loge, basal ou fixé latéralement près de la base ; style entier, à
-
-stigmate capité. Fruits en drupe ; mésocarpe ± charnu, rarement plutôt sec ; endocarpe dur,
-
-2-loculaire ou se divisant en 2 pyrènes 1-loculaires . Graines sans endosperme.
-
-Un genre d’environ 100 espèces, principalement originaires de l’Amérique subtropicale et
-
-tropicale, avec quelques-unes de l’Afrique à la Thaïlande, y compris le Nigéria, le Cameroun,
-
-le Gabon, la République du Congo, et la République démocratique du Congo, la République
-
-Centrafricaine et l’Angola. Plusieurs espèces sont largement cultivées comme plantes orne-
-
-mentales de jardin, avec de nombreux cultivars. Au Gabon, il n’est connu que d’une seule
-
-espèce introduite et naturalisée.
-
-Notes : L. montevidensis (Spreng.) Briq. est souvent cultivée dans les jardins comme plante à massif ou
-
-comme couvre-sol.
-
-Bi : Atkins (2004), Cardoso et al. (2011), Fernandes (1989), Fernandes & Diniz (2005), Hu-
-
-B liographie
-
-ber et al. (1963), Sanders (2006), Sosef et al. (2006), Verdcourt (1992).
-
-### Clé des espèces
-
-1. - Feuilles opposées ; tige presque toujours couverte d`épines recourbées, clairse-
-
-mées ou même rarement absentes ; bractées des inflorescences linéaires à très
-
-étroitement elliptiques-ovales, larges de 1–1,5 mm ; épi ne s`allongeant pas ou à
-
-peine après la floraison ...................................................................... L . × strigocamara
-
-- Feuilles groupées par 3, rarement opposées ; tige inerme ; bractées étroitement
-
-elliptiques-ovales à ovales, large de 0,6–13 mm ; épi s’allongeant généralement
-
-après la floraison ......................................................................................................... 2
+- Leaves grouped by 3, rarely opposite; stem unarmed; bracts narrowly elliptic-ovate to ovate, 0.6–13 mm wide; spike generally elongating after flowering ......................................................................................................... 2
 
 ## Species in region
 

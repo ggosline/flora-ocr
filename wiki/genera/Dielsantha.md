@@ -17,39 +17,17 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Perennial herb. Leaves alternate, crowded, petiolate. Flowers in short racemes or subaxillary clusters, or solitary and sessile; hypanthium linear and resembling a pedicel; calyx with 5 subequal lobes; corolla with dorsal slit to the base, bilabiate, with upper lip bilabiate and lower lip trilabiate; stamens 5, free from the corolla, anthers forming an oblique tube, each with a tuft of hairs at the apex; ovary 2-locular, inferior; stigma 2-lobed, short and rounded, surrounded by a ring of hairs. Fruit cylindrical, dehiscent into 5 narrow segments. Seeds numerous.
 
-Herbe pérenne. Feuilles alternes, serrées, pétiolées. Fleurs en courts racèmes ou groupes
-
-subaxillaires, ou solitaires et sessiles ; hypanthium linéaire et ressemblant à un pé-
-
-dicelle ; calice à 5 lobes subégaux ; corolle à fente dorsale jusqu’à la base , bilabiée,
-
-à lèvre supérieure bilabiée et l’inférieure trilabiée ; étamines 5, libres de la corolle, an-
-
-thères formant un tube oblique, chacune avec une touffe de poils au sommet ; ovaire
-
-2-loculaire, infère ; stigmate 2-lobé, court et arrondi, entouré d’un anneau de poil. Fruit
-
-cylindrique, déhiscente en 5 segments étroits . Graines nombreuses.
-
-Genre monospécifique représenté au Nigéria, Cameroun, Guinée Équatoriale (Bioko) et
-
-Gabon.
+Monospecific genus represented in Nigeria, Cameroon, Equatorial Guinea (Bioko) and Gabon.
 
 ---
 
-Note taxonomique : Lammers (2007) affirme que les lobes des stigmates de Dielsantha
+Taxonomic note: Lammers (2007) states that the stigma lobes of Dielsantha are filiform and one-third longer than the style and uses this character in his keys. This assertion derives from the description provided by Wimmer (1953), which is incorrect on this point: the stigma lobes are in fact short and rounded.
 
-sont filiformes et d’un tiers plus long que le style et utilise ce caractère dans ses clés. Cette
+B: Lammers (2007), Wimmer (1953, 1963).
 
-affirmation provient de la description fournie par Wimmer (1953), qui est incorrecte sur
-
-ce point : les lobes de stigmates sont en réalité courts et arrondis.
-
-B : Lammers (2007), Wimmer (1953, 1963).
-
-i B liographie
+Bibliography
 
 ## Species in region
 

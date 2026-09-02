@@ -17,35 +17,31 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Annual herbs or slender small shrubs with herbaceous branches climbing by tendrils.
 
-Herbes annuelles ou petits arbrisseaux grêles à rameaux herbacés grimpant par des vrilles.
+Axillary inflorescences with long peduncles, generally furnished with 2 tendrils below the cymes in umbels or racemes terminating them. Bracteolate flowers; calyx with 4–5 unequal sepals, the outer ones smaller; 4 petals furnished with scales inserted almost at their base, the scale of the inner petal asymmetric, spoon-shaped at base, its concavity covering the androecium, with ± dense hairiness on the margins and furnished with a crest at the upper part, the scale of the lower petal cristulate; disc formed of 2 rounded or horn-shaped glands, pilose; androecium of 8 unequal stamens, the largest ones toward the outside, surrounding the pistillode, inserted on an androgynophore (in section Ceratadenia) connate with the upper petals; pistil with 3 carpels, 1 style and 3 papillose stigmas; ovules campylotropous ascending.
 
-Inflorescences axillaires longuement pédonculées, munies générale-ment de 2 vrilles sous les cymes en ombelles ou en grappes qui les terminent. Fleurs bractéolées; calice à 4-5 sépales inégaux, les extérieurs plus petits; 4 pétales munis d'écailles insérées presque à leur base, l'écaille du pétale intérieur dissymétrique, à base en cuiller, dont la concavité couvre l'androcée, avec pilosité ± fournie sur les bords et munie d'une crête à la partie supérieure, l'écaille du pétale inférieur cristulée; disque formé de 2 glandes arrondies ou en cornes, velues; androcée de 8 étamines inégales, les plus grandes vers l'extérieur, entourant le pistillode, insérées sur un androgynophore (dans la section Ceratadenia) conné avec les pétales supérieurs; pistil à 3 carpelles, 1 style et 3 stigmates papilleux; ovules campylotropes ascendants.
+Subglobose or turbinate capsule, inflated. Seeds round with black, hard and thick integument; funicle increasing in diameter in the vicinity of the hilum, thus simulating a discoid aril with thin margin after seed fall; embryo with folded cotyledons, the lower one once, the upper one twice; radicle hidden in a fold of the integument.
 
-Capsule subglobuleuse ou turbinée, gonflée. Graines rondes à tégument noir, dur et épais; funicule augmentant de diamètre au voisinage du hile, simulant ainsi un arille discoïde à bord mince après la chute de la graine; embryon à cotylédons pliés, l'inférieur une fois, le supérieur 2 fois; radicule cachée dans un repli du tégument.
+Type species: Cardiospermum halicacabum L., pantropical.
 
-Espèce-type : Cardiospermum halicacabum L., pantropicale.
+1. Disc glands elongate (3–4 mm) horn-shaped; tendrils present; androgynophore present (section Ceratadenia Radlk.).
 
-1. Glandes du disque allongées (3-4 mm) en forme de cornes; vrilles présentes; androgynophore présent (section Ceratadenia Radlk.).
+2. Calyx with 4 sepals 5–6 mm long ..... 1. C. grandiflorum.
 
-2. Calice à 4 sépales longs de 5-6 mm ..... 1. C. grandiflorum.
-
-2'. Calice à 5 sépales (espèce brésilienne) ..... C. integerrimum.
+2'. Calyx with 5 sepals (Brazilian species) ..... C. integerrimum.
 
 ---
 
-1'. Glandes du disque courtes, arrondies, 0,5 mm; vrilles présentes ou non; pas d'an drogynophore (section Brachyadenia Radlk.)
+1'. Disc glands short, rounded, 0.5 mm; tendrils present or absent; no androgynophore (section Brachyadenia Radlk.)
 
-3. Calice à 4 sépoles de 2-3(4) mm.
+3. Calyx with 4 sepals 2–3(4) mm.
 
-4. Herbes; hile presque aussi large que la graine; inflorescences à 3 cymules digitées ..... 2. C. halicacabum.
+4. Herbs; hilum almost as wide as the seed; inflorescences with 3 digitate cymules ..... 2. C. halicacabum.
 
-4'. Plante subligneuse; hile 3 fois moins large que la graine; inflorescences à 3-5-
+4'. Subwoody plant; hilum 3 times narrower than the seed; inflorescences with 3–5–(8) cymules in racemes ..... 2 bis. C. corindum.
 
-(8) cymules en racèmes ..... 2 bis. C. corindum.
-
-3'. Calice à 5 sépales : espèces américaines, 3 avec vriles, 3 sans vriles.
+3'. Calyx with 5 sepals: American species, 3 with tendrils, 3 without tendrils.
 
 ## Species in region
 

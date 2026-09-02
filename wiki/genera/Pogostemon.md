@@ -15,37 +15,13 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Herbs annual or perennial, sometimes aromatic. Leaves simple, opposite or in whorls of 3 or 4. Inflorescences terminal and axillary or terminal only, condensed and spiciform with contiguous verticillasters; bracts small or linear; bracteoles similar to bracts but smaller. Flowers: calyx actinomorphic or slightly bilabiate, obconic or tubular-obconic, with 5 narrowly triangular teeth; corolla bilabiate, narrowly funnel-shaped, upper lip 3-lobed, lower lip entire; stamens 4, didynamous, clearly exserted from the corolla, upper and lower pairs divergent, spreading, filaments subequal or unequal, often bearded with long moniliform hairs around the midpoint, anthers 1-thecate, basifixed, with longitudinal dehiscence; ovary deeply 4-lobed; style gynobasic, exsert, apex bifid with equal or subequal branches. Fruits: achenes 1 to 4, ovoid, glabrous, often shining, with small scars.
 
-Herbes annuelles ou vivaces, parfois aromatiques. Feuilles simples, opposées ou en verticilles
+Genus of approximately 80 species present in Africa, Asia and northern Australia; in Africa five species of which one recorded in Gabon.
 
-de 3 ou 4. Inflorescences terminales et axillaires ou uniquement terminales, condensées et
+B: Yao et al. (2016).
 
-spiciformes à verticillastres contigus ; bractées petites ou linéaires ; bractéoles semblables
-
-aux bractées, mais plus petites. Fleurs : calice actinomorphe ou légèrement bilabié, obconique
-
-ou tubuleux-obconique, à 5 dents étroitement triangulaires ; corolle bilabiée, en forme d’en-
-
-tonnoir étroit, lèvre supérieure 3-lobée, lèvre inférieure entière ; étamines 4, didynames, clai -
-
-rement exsertes de la corolle, la paire supérieure et inférieure divergentes, étalées , filets subé -
-
-gaux ou inégaux, souvent barbus à poils longs moniliformes autour du point médian ,
-
-anthères à 1 thèque, basifixes, à déhiscence longitudinale ; ovaire profondément 4-lobé ;
-
-style gynobasique, exsert, apex bifide à branches égales ou subégales. Fruits : akènes 1 à 4,
-
-ovoïdes, glabres, souvent luisants, à de petites cicatrices.
-
-Genre d’environ 80 espèces présent en Afrique, en Asie et le nord de l’Australie ; en Afrique
-
-cinq espèces dont une signalée au Gabon.
-
-B : Yao et al. (2016).
-
-i B liographie
+i Bibliography
 
 ## Species in region
 

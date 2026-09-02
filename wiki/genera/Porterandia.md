@@ -17,31 +17,29 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Small trees or shrubs; vegetative apparatus ordinarily pubescent, brown or reddish-brown when dry. Stipules erect ± oblong, obtuse or subacute, somewhat connate at the base. Leaf blade generally developed, exceeding 20 cm, with an acute base. The petiole is relatively short: 5% of the leaf. 10–26 pairs of secondary nerves.
 
-Arbres médiocres ou arbustes; appareil végétatif pubescent ordinairement brun ou roux à sec. Stipules dressées ± oblongues, obtuses ou subaiguës, un peu connées à la base. Limbe foliaire développé généralement supérieur à 20 cm et à base aiguë. Le pétiole est relativement court : 5 % de la feuille. 10-26 paires de nervures secondaires.
+Pubescent inflorescences, pluri- or multiflorous, shortly pedunculate, cymose, terminal appearing axillary unilateral. Bracts opposite, amplexicaul at the base. Pedicels short ± accrescent in the fruit. Flowers pubescent with a tubular calyx with 5 rather short teeth. Corolla with twisted prefloration; 5 lobes overlapping towards the left, the right part covered and glabrous; tube shortly infundibuliform, pubescent-villous externally, closed internally in its narrow part by a ring of short erect hairs. Anthers included, subsessile, inserted below the middle, linear, ± distinctly apiculate. Style included with a narrowly oblong furrowed stigma. Ovary with 2 locules and 2 narrowly peltate placentas, oblong subcordiform, bearing very numerous ovules.
 
-Inflorescences pubescentes pluri ou multiflores brièvement pédonculées, cymeuses, terminales paraissant axillaires unilatérales. Bractées opposées embrassantes à la base. Pédicelles courts ± accrescents dans le fruit. Fleurs pubescentes à calice tubuleux à 5 dents plutôt brèves. Corolle à préfloraison tordue; 5 lobes recouvrant vers la gauche à partie droite recouverte glabre; tube courtemment infundibiliforme pubescent velu extérieurement, fermé à l'intérieur dans sa partie étroite par un anneau de courts poils dressés. Anthères incluses subsessiles insérées au-dessous du milieu, linéaires, ± nettement apiculées. Style inclus à stigmate étroitement oblong sillonné. Ovaire à 2 loges et 2 placentas étroitement peltés, oblongs subcordiformes, portant de très nombreux ovules.
+Berry-like fruit narrowly or ± broadly elliptic, with a persistent calycine cupule; endocarp thin. Numerous angular seeds 1–2 mm, with seed-coat cells in pits.
 
-Fruit bacciforme étroitement ou ± largement elliptique, à cupule calycinale persistante; endocarpe mince. Nombreuses graines anguleuses de 1-2 mm, à cellules légumentaires en fossettes.
-
-Genre représenté en Asie par 9 espèces non lianescentes dont l'espèce type P. anisophylla (Jack ex Roxb.) Ridley, et en Afrique par 5 espèces dont 3 lianes. La seule espèce non gabonaise est le P. penduliflora (K. Schum.) Keay du Tanganyika.
+Genus represented in Asia by 9 non-climbing species, of which the type species P. anisophylla (Jack ex Roxb.) Ridley, and in Africa by 5 species, of which 3 are lianes. The only non-Gabonese species is P. penduliflora (K. Schum.) Keay from Tanganyika.
 
 ---
 
-# N. HALLÉ. — RUBIACÉES-GARDÉNIÉES
+# N. HALLÉ. — RUBIACEAE-GARDENIOIDEAE
 
-### CLÉ DES ESPÈCES
+### KEY TO SPECIES
 
-1. Arbutes ou arbres.
+1. Shrubs or trees.
 
-2. Fruit elliptique ± lisse; limbe à sommet arrondi et à face supérieure glabre ou glabrescente..... 1. P. cladantha
+2. Fruit elliptic ± smooth; leaf blade with rounded apex and upper face glabrous or glabrescenct..... 1. P. cladantha
 
-2'. Fruit subglobuleux grossièrement côtelé; limbe à sommet lancéolé et à face supérieure pubescente..... 2. P. nalaensis
+2'. Fruit subglobose, coarsely ribbed; leaf blade with lanceolate apex and upper face pubescent..... 2. P. nalaensis
 
-3. Limbe foliaire velu sur les deux faces; inflorescences 8-12-flores; disque pubescent..... 3. P. castaneofulva
+3. Leaf blade villous on both surfaces; inflorescences 8–12-flowered; disc pubescent..... 3. P. castaneofulva
 
-3'. Limbe glabrescent dessus; inflorescences 2-8 flores; disque glabre.
+3'. Leaf blade glabrescenct above; inflorescences 2–8 flowered; disc glabrous.
 
 …… 4. P. annulata
 

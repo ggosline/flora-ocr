@@ -16,25 +16,19 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 in BENTH. & HOOK., Niger Fl. : 250 (1849); Gen. Pl. 1 : 402, nº 33 (1862); in ENGL., Pflanzenreich, Sapindaceae : 879 (1933).
 
-Petits arbres ou arbustes à rameaux étalés, arrondis, cannelés, d'abord tomentelleux mais bientôt glabres. Feuilles réunies à l'extrémité des rameaux, à pétiole arrondi, strié, à base épaissie, 3-7-juguées, presque glabre; folioles alternes ou opposées, les supérieures plus grandes oblongues ou obovales,
+Small trees or shrubs with spreading, rounded, grooved branches, at first tomentellous but soon glabrous. Leaves gathered at the end of the branches, with rounded, striated petiole, thickened at base, 3-7-jugate, nearly glabrous; leaflets alternate or opposite, the upper ones larger oblong or obovate, the lower ones shorter, more rounded; acumen very short and obtuse, petiolules short; blade membranous or slightly coriaceous, glabrous; midvein channelled above, the lateral veins looped; margin entire.
 
----
+Inflorescences in simple, slender, tomentose, tawny axillary spikes; axis furrowed, angular, bearing sessile scorpioid cymules of 2-3 flowers, sometimes reduced to a single one; bracts and bracteoles subulate, tomentose, reddish-brown; buds ovoid, pedicels filiform. Flowers dioecious, regular, fairly large; calyx saccate with 5 short, obtuse teeth, slightly imbricate, splitting at anthesis into 3-5 fracto-sepals tomentellous on both faces; petals absent; disk regular, cup-shaped or cushion-shaped, lining the base of the calyx¹, marked with 8-13 furrows inside by the impression of the stamens, glabrous or hairy; androecium of 8-13 stamens in a circle around the pistillode, filaments twice bent in the bud (♂ fl.); staminodes swollen at the apex, without anther (♀ fl.); filament glabrous; anther with emarginate base, introrse, pollen flattened, triangular, tricolporate; ovary ovoid, subtrigonous in section, 3-locular, densely velutinous-tomentose; style short, stigma disk-shaped flattened with 3 reflexed lobes; ovules solitary, campylotropous ascending.
 
-les inférieures moins longues, plus arrondies; acumen très court et obtus, pétioIules courts; limbe membraneux ou légèrement coriace, glabre; nervure médiane en creux dessus, les latérales bouclées; marge entière.
+Fruit subdrupaceous (exocarp forming a hard crust when dry), ovoid in shape, apex acute, densely tomentellous-ochraceous; most often one locule with abortion of the other two; seed ovoid, surrounded on 3/4 by the gelatinous aril, tegument hard, thin, brown, glossy; embryo with thick cotyledons, radicle basilar in a papilla.
 
-Inflorescences en épis axillaires, simples, grêles, tomentaux, fauves; axe sillonné, anguleux, portant des cymules sessiles scorpioïdes de 2-3 fleurs, parfois réduites à une seule; bractées et bractéoles subulées, tomenteuses, roussâtres; boutons ovoïdes, pédicelles filiformes. Fleurs dioïques, régulières, assez grandes; calice sacciforme à 5 dents courtes, obtuses, légèrement imbriquées, se fendant à l'anthèse en 3-5 fracto-sépales tomentelleux sur les 2 faces; pétales nuls; disque régulier, en cuvette ou en coussin, tapissant le fond du calice¹, marqué de 8-13 sillons à l'intérieur par l'impression des étamines, glabre ou velu; androcée de 8-13 étamines en cercle autour du pistillode, à filets 2 fois fléchis dans le bouton (fl. ♂); staminodes renflés au sommet, sans anthère (fl. ♀); filet glabre; anthère à base émarginée, introrse, pollen aplat, triangulaire, tricolporé; ovaire ovoïde, à section subtrigone, à 3 loges, densément velu tomenteux; style court, stigmate en disque aplat à 3 lobes réfléchis; ovules solitaires, campylotropes ascendants.
+TYPE SPECIES: Lecaniodiscus cupanioides Planch.
 
-Fruit subdrupacé (exocarpe formant une croûte dure en séchant), de forme ovoïde, extrémité aiguë, densément tomentelleux-ochracé; le plus souvent une loge et avortement des 2 autres; graine ovoïde, entourée sur les 3/4 par l'arille gélatineux, tégument dur, mince, brun, brillant; embryon à cotylédons épais, radicule basilaire en papille.
+Remarkable genus, among the Schleicherieae, for its saccate calyx almost closed before anthesis, then tearing into sepal-like valves. Two species in tropical Africa, one western (L. cupanioides), the other eastern: Mozambique, Tanzania, Rhodesia (L. fraxinifolius).
 
-ESPÈCE-TYPE : Lecaniodiscus cupanioides Planch.
-
-Genre remarquable, parmi les Schleicherées, par son calice en sac presque fermé avant l'anthèse, puis se déchirant en valves sépaloïdes. Deux espèces en Afrique tropicale, l'une occidentale (L. cupanioides), l'autre orientale : Mozambique, Tanzanie, Rhodésie (L. fraxinifolius).
-
-1. Épis allongés, 8-15 cm; feuilles plus grandes; pétiole 8 cm; rachis 40 cm; folioles de la base 3-5 × 6-7 (-9) cm; folioles du sommet 7-8 × 16-18 cm; poils glandeux épars sous le limbe..... L. cupanioides.
+1. Spikes elongate, 8-15 cm; leaves larger; petiole 8 cm; rachis 40 cm; leaflets of the base 3-5 × 6-7 (-9) cm; leaflets of the apex 7-8 × 16-18 cm; scattered glandular hairs beneath the blade..... L. cupanioides.
 
 ## Species in region
 

@@ -17,33 +17,17 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Herbs, shrubs or small trees. Leaves generally alternate, entire to dentate or rarely lobed or incised. Flowers in panicle, raceme, spike, or solitary flowers; calyx with (3–)5 lobes; corolla ± deeply (3–)5-lobed, or divided almost to the base; stamens (3–)5, free, base of filament linear or ± dilated, generally ciliate; ovary 2–5-locular, sub-inferior to rarely sub-superior, ovules numerous; style shorter or longer than the corolla. Fruit capsular, dehiscent by apical valves. Seeds numerous.
 
-Herbes, arbrisseaux ou petits arbustes . Feuilles généralement alternes, entières à dentées
+Genus of 200 species, mainly distributed in the southern hemisphere, particularly abundant in South Africa; in Gabon a single species.
 
-ou rarement lobées ou incisées. Fleurs en panicule, racème, épi, ou fleurs solitaires ; ca-
+B: Hepper (1963a), Lammers (2007), Thulin (1975, 1977).
 
-lice avec (3–)5 lobes ; corolle ± profondément (3–)5-lobée , ou divisée presque jusqu’à
-
-la base ; étamines (3–)5, libres, base du filet linéaire ou ± dilatée, généralement cilié ;
-
-ovaire 2–5-loculaire, sub-infère à rarement sub-supère, ovules nombreux ; style plus
-
-court ou plus long que la corolle. Fruit capsulaire, déhiscent par des valves apicales.
-
-Graines nombreuses.
-
-Genre de 200 espèces, principalement distribuées dans l’hémisphère sud, particulière-
-
-ment abondant en Afrique du Sud ; au Gabon une seule espèce.
-
-B : Hepper (1963a), Lammers (2007), Thulin (1975, 1977).
-
-i B liographie
+i Bibliography
 
 ---
 
-Stella Ross-Craig (©), adaptée et reproduit avec permission à partir de Hepper (1963a).
+Stella Ross-Craig (©), adapted and reproduced with permission from Hepper (1963a).
 
 ---
 

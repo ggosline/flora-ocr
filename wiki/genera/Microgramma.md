@@ -16,13 +16,11 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Epiphytic ferns with long-creeping rhizome covered with scales with peltate base. Petiole articulate. Fronds simple, entire, slightly dimorphous, the fertile narrower than the sterile, of firm or coriaceous texture. Veins anastomosing, forming several rows of areoles containing included venules, recurved at their apex. Sori at the apex of veins or at the junction of several venules, superficial, rounded on each side of the median vein. Paraphyses filiform, multicellular.
 
-Fougères épiphytes à rhizome longuement rampant, couvert d'écailles à base peltée. Pétiole articulé. Frondes simples, entières, légèrement dimorphes, la fertile plus étroite que la stérile, de texture ferme ou coriace. Nervures anastomosées, formant plusieurs rangées d'aréoles contenant des nervilles incluses, recourbées à leur extrémité. Sores à l'extrémité des nervures ou à la réunion de plusieurs nervilles, superficiels, arrondis de chaque côté de la nervure médiane. Paraphyses filiformes, multicellulaires.
+Type: Microgramma persicariaefolia (Schrad.) Pr.
 
-Type : Microgramma persicariaefolia (Schrad.) Pr.
-
-Environ 20 espèces américaines; une seule en Afrique.
+Approximately 20 American species; only one in Africa.
 
 ## Species in region
 

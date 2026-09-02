@@ -17,43 +17,17 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Small trees or shrubs. Stipules transformed into or replaced by cylindrical glands. Leaves simple; lamina penninerved, oblong-elliptic, with entire or dentate-serrulate margin and provided with glands, furnished with russet pubescence on the lower surface, notably on the main vein. Inflorescences with flowers solitary or in pairs (–3); buds pubescent. Flowers hermaphrodite, without staminodes, (sub-)sessile, with sepals and petals persistent and slightly accrescent in fruit; sepals 4–5(–6), free, membranaceous; petals similar to sepals; double corona; stamens 7–11; ovary on an androgynophore, unilocular; styles (3–)4–6(–7). Fruits capsular, pluriovulate. Seeds tuberculate.
 
-Petit arbres ou arbustes . Stipules transformées en ou remplacées par des glandes
+Genus of 2 species from western Central Africa, one endemic to South Cameroon, the other, with wider distribution, present in Gabon.
 
-cylindriques . Feuilles simples ; limbe penninervé , oblong-elliptique, à marge entière
+Taxonomic note: This genus was treated as a member of Flacourtiaceae by Sleumer (1976).
 
-ou dentelée-serrulée et pourvue de glandes, pourvu d’une pilosité rousse sur la surface
-
-inférieure, notamment sur la nervure principale. Inflorescences à fleurs solitaires ou par
-
-2(–3) ; boutons poilus. Fleurs hermaphrodites, sans staminodes, (sub-)sessiles, à sépales
-
-et pétales persistants et légèrement accrescents en fruit ; sépales 4–5(–6), libres, mem-
-
-braneux ; pétales semblables aux sépales ; couronne double ; étamines 7–11 ; ovaire sur
-
-un androgynophore, uniloculaire ; styles (3–)4–6(–7). Fruits capsulaires, pluriovulées.
-
-Graines bosselées .
-
-Genre de 2 espèces de l’ouest de l’Afrique Centrale, une endémique du Sud-Cameroun,
-
-l’autre, à distribution plus large, est présente au Gabon.
-
-Note taxonomique : Ce genre à été traité comme membre des Flacourtiaceae par Sleumer
-
-(1976).
-
-b : De Vos & Breteler (2009), Sleumer (1976).
-
-ibliographie
+Bibliography: De Vos & Breteler (2009), Sleumer (1976).
 
 ---
 
-Dessin par Hans de Vries, Naturalis Biodiversity Center ©.
-
----
+Drawing by Hans de Vries, Naturalis Biodiversity Center ©.
 
 ## Species in region
 

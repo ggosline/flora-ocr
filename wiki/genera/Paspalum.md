@@ -17,41 +17,25 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Perennial herbs, spikelets orbicular, plano-convex, grouped in unilateral racemes with swollen or flattened rachis. Lower glume suppressed or almost so, the upper convex, as large as the spikelet, with 3 or more nerves. Lower flower reduced to a lemma, similar to the upper glume, but flattened. Upper flower hermaphrodite, glumes coriaceous, the palea partially covered by the enrolled margins of the lemma. Two lodicules; 3 stamens; styles distinct.
 
-Herbes pérennes, épilets orbiculaires, plan-convexes, groupés en racèmes unilatéraux à rachis renflé ou aplat. Glume inférieure supprimée ou presque, la supérieure convexe, aussi grande que l'épillet, à 3 nervures ou plus. Fleur inférieure réduite à une lemma, semblable à la glume supérieure, mais aplatie. Fleur supérieure hermaphrodite, glumelles coriaces, la paléa partiellement recouverte par les rebords enroulés de la lemma. Deux odicules; 3 étamines; styles distincts.
+Very important genus, especially in America; 4 species are recorded from Gabon.
 
-Genre très important, en Amérique surtout; 4 espèces sont signalées au Gabon.
+1. Racemes digitate at the apex of the culms, numbering 2 or rarely 3.
 
-1. Racèmes digités à l'extrémité des chaumes, au nombre de 2 ou rarement de 3.
+2. Plants of damp and shaded places; leaf blades flexible, spreading, rounded at the base, reaching 10 mm wide; spikelets about 1.5 mm long, with upper glume finely ciliate on the margins; racemes 6 to 15 cm long..... 1. P. conjugatum.
 
-2. Plantes d'endroits humides et ombragés; limbes foliaires souples,
+2'. Plants of marshy places at the seaside; leaves distichous imbricate with rigid blades, narrow (up to 5 mm wide) and often enrolled; spikelets 3 to 4 mm long, glabrous; racemes 12 to 35 mm long..... 2. P. vaginatum.
 
-étalés, arrondis à la base, atteignant 10 mm de large; épillets
+1'. Racemes paniculate at the apex of the culms, numbering 2 or more, always inserted at different levels.
 
-d'environ 1,5 mm de long, à glume supérieure finement ciliée sur
+3. Racemes numerous (5 to 20) with angular rachis about 0.5 mm wide; pubescent spikelets 1 to 1.5 mm long; erect plant of forest fallows ..... 3. P. paniculatum.
 
-les bords; racèmes de 6 à 15 cm de long..... 1. P. conjugatum.
+3'. Racemes 2 to 10, ribbon-like rachis 1 to 3 mm wide, glabrous spikelets 1.5 to 2.5 mm long; erect or more or less trailing plants of fallows or ruderal ..... 4. P. scrobiculatus
 
-2'. Plantes d'endroits marécageux du bord de la mer; feuilles distiques imbriquées à limbes raides, étroits (jusqu'à 5 mm. de large) et souvent enroulés; épilets de 3 à 4 mm de long, glabres; racèmes de 12 à 35 mm de long..... 2. P. vaginatum.
+4. 2 or 3 racemes, sometimes 4..... var. Commersonnii.
 
-1'. Racèmes paniculés à l'extrémité des chaumes, au nombre de 2 ou plus,
-
-toujours insérés à des niveaux différents.
-
-3. Racèmes nombreux (5 à 20) à rachis anguleux d'environ 1/2 mm de large; épilets pubescents de 1 à 1,5 mm de long; plante dressée de jachères forestières ..... 3. P. paniculatum.
-
-3'. Racèmes de 2 à 10, rachis rubané de 1 à 3 mm de large, épilets
-
-glabres de 1,5 à 2,5 mm de long; plantes dressées ou plus ou moins
-
-rampantes de jachères, ou rudérales ..... 4. P. scrobiculatus
-
-4. 2 ou 3 racèmes, parfois 4..... var. Commersonnii.
-
-4'. 4 à 7, parfois jusqu'à 10 racèmes..... var. polystachyum.
-
----
+4'. 4 to 7, sometimes up to 10 racemes..... var. polystachyum.
 
 ## Species in region
 

@@ -17,19 +17,15 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Trees monoecious or dioecious. Leaves distichous on the branches; blade with pinnate venation. Stipules free, semi-amplexicaul.
 
-Arbres monoïques ou dioïques. Feuilles distiques sur les rameaux ; limbe à nervation pennée. Stipules libres, semi-amplexicaules.
+Inflorescences on short branches at the leaf axils or below the leaves, with 1–2 female inflorescences (on the lower nodes of short branches) and/or up to 8 male inflorescences. Male inflorescences discoid, pedunculate; numerous bracts attached at the base, those at the margin of the receptacle imbricate; in 1–3 rows forming an involucre; flowers few to numerous, with 2–7 free tepals; stamens 2–4, straight before anthesis, with anthers latrorse to extrorse; pistillode absent. Female inflorescences sessile or pedunculate, with an involucre of few imbricate bracts, attached basally; flower solitary, rarely 2; perianth 4-lobed, the lower part fused to the receptacle; ovary fused to the sunken part of the perianth; stigmas 2.
 
-Inflorescences sur des rameaux courts à l'aisselle des feuilles ou sous les feuilles, avec 1-2 inflorescences ♀ (sur les nœuds inférieurs, des rameaux courts) et/ou jusqu'à 8 inflorescences ♂. Inflorescences ♂ discoïdes, pédonculées ; nombreuses bractées attachées à la base, celles de la marge du réceptacle imbriquées ; en 1-3 rangées formant un involucre ; fleurs quelques-unes à nombreuses, avec 2-7 tépales libres ; étamines 2-4, droites avant l'anthèse, à anthères latrorses à extrorses ; pistillode absent. Inflorescences ♀ sessiles ou pédonculées, avec un involucre de quelques bractées imbriquées, attachées basalement ; fleur unique, rarement 2 ; périanthe 4-lobé, la partie inférieure soudée au réceptacle ; ovaire soudé à la partie enfoncée du périanthe ; stigmates 2.
+Infructescences with a red to scarlet, fleshy receptacle, forming one unit with the fruit; endocarp crustaceous; testa thin, with a large suborbicular, thickened zone, abundantly vascularized, below the hilum; embryo longitudinal; cotyledons (almost) equal; radicle short and apical.
 
-Infrutescences avec un réceptacle rouge à écarlate, charnu, formant un tout avec le fruit ; endocarpe crustacé ; testa mince, avec une grande zone suborbiculaire, épaissie, abondamment vascularisée, sous le hile ; embryon longitudinal ; cotylédons (presque) égaux ; radicule courte et apicale.
+TYPE SPECIES: Antiaris toxicaria Lesch.
 
-ESPÉCE-TYPE : Antiaris toxicaria Lesch.
-
-Environ 15 espèces ont été décrites dans le genre Antiaris et les échantillons d'Antiaris récoltés au Yemen ont été décrits comme Ficus challa SCHWEINF. CORNER (1962) reconnaît 4 espèces dans le genre Antiaris. A. toxicaria, que l'on rencontre de l'Afrique de l'Ouest aux îles Tonga dans le Pacifique, A. africana en Afrique occidentale et centrale, et 2 espèces malgaches. Cependant la nature des caractères utilisés pour distinguer ces 4 espèces justifie la reconnaissance d'une espèce unique : A. toxicaria avec aux moins 5 sous-espèces.
-
----
+Approximately 15 species have been described in the genus Antiaris and specimens of Antiaris collected in Yemen were described as Ficus challa SCHWEINF. CORNER (1962) recognizes 4 species in the genus Antiaris. A. toxicaria, which is found from West Africa to the Tonga Islands in the Pacific, A. africana in West and Central Africa, and 2 species from Madagascar. However the nature of the characters used to distinguish these 4 species justifies the recognition of a single species: A. toxicaria with at least 5 subspecies.
 
 ## Species in region
 

@@ -17,31 +17,27 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Trees, shrubs, or lianes with simple and entire leaves. Spikes, racemes or flowers solitary axillary. Flowers ♀ pentamerous. Calyx small. Petals free from one another, valvate, pubescent on the inner face (pubescence in a tuft). Stamens free. Disk present. Ovary often asymmetric unilocular. Style often eccentric and bifid, sometimes pubescent, terminating in a ± developed stigma. Drupe monospermatous ellipsoid.
 
-Arbres, arbustes, ou lianes à feuilles simples et entières. Épis, grappes ou fleurs solitaires axillaires. Fleurs ♀ pentamères. Calice petit. Pétales libres entre eux, valvaires, pubescents à la face interne (pubescence en touffe). Étamines libres. Disque présent. Ovaire souvent asymétrique uniloculaire. Style souvent excentrique et bifide, parfois pubescent, se terminant par un stigmate ± développé. Drupe monosperme ellipsoïde.
+TYPE SPECIES: I. senegalensis A. L. Juss.
 
-ESPÈCE-TYPE : I. senegalensis A. L. Juss.
+This African genus contains 6 species of which 3 are present in Gabon and 1 only in Cameroon.
 
-Ce genre africain renferme 6 espèces dont 3 sont présentes au Gabon et 1 seule au Cameroun.
+1. Flower solitary or few-flowered raceme; petals glabrous externally; ovary pubescent at its apex ..... 1. I. guessfeldtii.
 
-1. Fleur solitaire ou grappe pauciflore; pétales glabres extérieurement; ovaire pubes-
-
-cent à son sommet ..... 1. I. guessfeldtii.
-
-1'. Inflorescence en fascicule de grappes ou grappe solitaire multiflore; pétales pubescents extérieurement; ovaire entièrement pubescent.
+1'. Inflorescence in fascicle of racemes or solitary multiflorous raceme; petals pubescent externally; ovary entirely pubescent.
 
 ---
 
-### ICACiNACEA
+### ICACINACEAE
 
-2. Inflorescence longue de 5-8 cm; rachis glabre; fleurs sessiles; sépales glabres; pétales éparsement pubescents ..... 2. I. claessensii
+2. Inflorescence 5-8 cm long; rachis glabrous; flowers sessile; sepals glabrous; petals sparsely pubescent ..... 2. I. claessensii
 
-2'. Inflorescence longue de 1-3,5 cm; rachis pubescent; fleurs pédicellées; sépales et pétales largement pubescents extérieurement..... 3. I. mannii.
+2'. Inflorescence 1-3.5 cm long; rachis pubescent; flowers pedicellate; sepals and petals widely pubescent externally ..... 3. I. mannii.
 
-3. Limbe glabre dessous..... var. mannii.
+3. Limb glabrous beneath ..... var. mannii.
 
-3'. Limbe pubescent dessous ..... var. lebrunii.
+3'. Limb pubescent beneath ..... var. lebrunii.
 
 ## Species in region
 

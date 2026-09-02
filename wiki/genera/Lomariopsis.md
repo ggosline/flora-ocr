@@ -16,33 +16,25 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Climbing rhizome, fleshy, dorsiventral, bearing a row of roots and several rows of fronds, covered with peltate, brown scales. Fronds dimorphous, the sterile ones pinnate, with pinnae articulate (except the terminal one). Veins free, terminating at the cartilaginous margin of the lamina. Fertile fronds with narrow pinnae, covered with sporangia on the lower surface.
 
-Rhizome grimpant, charnu, dorsiventral, portant une rangée de racines et plusieurs rangées de frondes, couvert d'écalles peltées, brunes. Frondes dimorphes, les stériles pennées, à pennes articulées (excepté la terminale). Nervures libres, se terminant à la marge cartilagineuse du limbe. Frondes fertiles à pennes étroites, couvertes de sporanges à la face inférieure.
+Type of the genus: Lomariopsis cochinchinensis Fée.
 
-Type du genre : Lomariopsis cochinchinensis Fée.
-
-Afrique et îles africaines, Siam, Indochine, Malaisie, Nouvelle-Guinée.
+Africa and African islands, Siam, Indochina, Malesia, New Guinea.
 
 ---
 
-1. Fronde stérile toujours simple..... 1. L. palustris.
+1. Sterile frond always simple..... 1. L. palustris.
 
-1'. Fronde stérile adulte pennée.
+1'. Sterile adult frond pinnate.
 
-2. Pennes fertiles à extrémité nue, caudée, longue d'environ 5 mm
+2. Fertile pinnae with naked, caudate apex, approximately 5 mm long..... 2. L. guineensis.
 
-2. L. guineensis.
+2'. Fertile pinnae bearing sporangia to the non-caudate apex.
 
-2'. Pennes fertiles portant des sporanges jusqu'à l'extrémité non caudée.
+3. Sterile pinnae with rounded bases, abruptly acuminate; rachis of fertile pinnae not scaly..... 3. L. Rossii.
 
-3, Pennes stériles à bases arrondies, abruptement acuminées;
-
-rachis des pennes fertiles non écailleux..... 3. L. Rossii.
-
-3'. Pennes stériles à bases tronquées; rachis des pennes fertiles
-
-écailleux ..... 4. L. hederacea.
+3'. Sterile pinnae with truncate bases; rachis of fertile pinnae scaly..... 4. L. hederacea.
 
 ## Species in region
 

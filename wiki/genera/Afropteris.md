@@ -16,13 +16,11 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Terrestrial ferns with creeping rhizome, solenostelic, scaly, with brown, lanceolate scales. Frond deltoid, several times pinnate, with free venation. Sori with elongate, introrse indusia, without paraphyses. Spores trilète.
 
-Fougères terrestres, à rhizome rampant, solénostélique, écailleuses, à écailles brunes, lancéolées. Fronde deltoïde plusieurs fois pennée, à nervures libres. Sores à indusie allongée, introrse, sans paraphyses. Spores trilètes.
+Type: Afropteris repens Alston.
 
-Type : Afropteris repens Alston.
-
-Deux espèces : Cameroun, Guinée, Seychelles. Une seule au Gabon.
+Two species: Cameroon, Guinea, Seychelles. One only in Gabon.
 
 ## Species in region
 

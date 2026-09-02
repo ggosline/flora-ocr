@@ -17,67 +17,49 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Morphology as in Inversodicraea, but stems and branches without foliar scales, stipules absent or present, leaves with petiole flattened and sheathing at the base, and fruits with sometimes persistent valves.
 
-Morphologie comme chez Inversodicraea , mais tiges et rameaux sans écailles foliacées , sti-
+Genus with approximately 46 species, confined to tropical West and Central Africa; in Gabon, nine species.
 
-pules absentes ou présentes, feuilles à pétiole aplati et engainant à la base et fruits à valves
+Notes: See the first Note under the preceding genus.
 
-parfois persistantes.
+Bibliography: Cheek et al. (2017), Cook & Rutishauser (2007), Cusset (1974, 1983, 1984, 1987a), Rutishauser et al. (2007), Schenk et al. (2015), Thiv et al. (2009).
 
-Genre avec environ 46 espèces, confiné à l’Afrique tropicale de l’Ouest et Centrale ; au Ga -
+### Key to species
 
-bon, neuf espèces.
+1. - Leaf with very enlarged, cupuliform, membranous sheath; blade reduced to a very small mucro at the apex of the sheath ......................................................................... L. aloides
 
-Notes : Voir la première Note sous le genre précédent.
+- Leaf with non-cupuliform sheath; blade developed, linear, entire or dichotomous ....... 2
 
-Bi : Cheek et al. (2017), Cook & Rutishauser (2007), Cusset (1974, 1983, 1984, 1987a),
+2. - Leaves all entire; plant acaulous or with stem distinct, 0.5–3 cm long ........................ 3
 
-B liographie
+- Leaves divided, at least those situated below the spatheole; plant acaulous or with well-developed stem, reaching 30 cm in length ............................................................. 4
 
-Rutishauser et al. (2007), Schenk et al. (2015), Thiv et al. (2009).
+3. - Leaves arranged in rosette, with base abruptly enlarged; pedicel 8 mm after anthesis; fruit with persistent valves ............................................................ L. tenuifolia
 
-### Clé des espèces
+- Leaves distichous, with sheathing base; pedicel ± 3.5 mm after anthesis; fruit with
 
-1. - Feuille à gaine très élargie, cupuliforme, membraneuse ; limbe réduit à un très petit
+caducous valves ........................................................................................ L. sanagaensis
 
-mucron au sommet de la gaine ......................................................................... L. aloides
+4. - Stamen 1; plant 5–8 mm tall; stigmas linear, 0.15–0.2 mm ..... L. pygmaea
 
-- Feuille à gaine non cupuliforme ; limbe développé, linéaire, entier ou dichotome ....... 2
+- Stamens 2 or 3(–4); plant acaulous or with stem reaching 25 cm in length;
 
-2. - Feuilles toutes entières ; plante acaule ou avec tige distincte de 0,5–3 cm de longueur 3
+stigmas linear, 0.5–0.7 mm or subglobose and very short .....................................5
 
-- Feuilles divisées, au moins celles situées sous la spathelle ; plante acaule ou avec tige
+5. - Stem simple, in adult individuals less than 1 cm long ........................ 6
 
-bien développée, atteignant 30 cm de longueur ............................................................. 4
+- Stem simple or branched, in adult individuals more than 1 cm long ........ 7
 
-3. - Feuilles disposées en rosette, à base brusquement élargie ; pédicelle 8 mm après
+6. - Stem terminated by a solitary flower; pollen in monads; leaf 0.7–2.5 cm long
 
-l’anthèse ; fruit à valves persistantes ............................................................ L. tenuifolia
+......................................................................................................... L. bifurcata
 
-- Feuilles distiques, à base engainante ; pédicelle ± 3,5 mm après l’anthèse ; fruit à
+- Stem terminated by a group of 5 to 7 flowers, or plant subacaulous with solitary flowers;
 
-valves caduques ........................................................................................ L. sanagaensis
+pollen in dyads; leaf (0.6–)1–6 cm long ........................................ L. pusilla
 
-4. - Étamine 1 ; plante haute de 5–8 mm ; stigmates linéaires, 0,15–0,2 mm ..... L. pygmaea
-
-- Étamines 2 ou 3(–4) ; plante acaule ou avec tige atteignant 25 cm de longueur ;
-
-stigmates linéaires, 0,5–0,7 mm ou subglobuleux et très courts .....................................5
-
-5. - Tige simple, celle des individus adultes de moins de 1 cm de longueur ........................ 6
-
-- Tige simple ou ramifiée, celle des individus adultes de plus de 1 cm de longueur ........ 7
-
-6. - Tige terminée par une fleur solitaire ; pollen en monades ; feuille 0,7–2,5 cm de
-
-longueur ......................................................................................................... L. bifurcata
-
-- Tige terminée par un groupe de 5 à 7 fleurs, ou plante subacaule à fleurs solitaires ;
-
-pollen en dyades ; feuille (0,6–)1–6 cm de longueur ........................................ L. pusilla
-
-7. - Inflorescences unilatérales .............................................................................................. 8
+7. - Inflorescences unilateral .............................................................................................. 8
 
 ## Species in region
 

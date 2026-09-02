@@ -17,39 +17,37 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Woody plants, sarmentose or lianescent, sometimes forming hedges or shrubs. Stipules bilobed or bipartite, caducous. Characteristic axillary hooks on branches that bear or will bear inflorescences. These hooks function as transformed axillary inflorescence peduncles (cf. A. Guillaumein, C. R. Acad. Sc. 18 mai 1931). Lamina with ascending secondary veins.
 
-Plantes ligneuses, sarmenteuses ou lianescentes, formant parfois des haies ou des buissons. Stipules bilobées ou bipartites caduques. Crochets axillaires caractéristiques sur des rameaux qui portent ou porteront des inflorescences. Ces crochets ont valeur de pédoncules d'inflorescences axillaires transformées (cf. A. Guillaumein, C. R. Acad. Sc. 18 mai 1931). Limbe à nervures secondaires ascendantes.
+Inflorescences many-flowered, capitate, spherical. Flowers ± pedicellate, pentamerous, pubescent, with quincuncial prefloration, with subcharnose lobes overlapping one another only moderately at the apex of the bud. Stamens apiculate with 2 locules. Filament very short, basidorsifixed. Style long, clearly exceeding the corolla; stigma weakly swollen with 2 lateral patches. Ovary with 2 locules; peltate placentas entirely covered with ascending imbricate ovules.
 
-Inflorescences multiflores capitées sphériques. Fleurs ± pédicellées pentamères, pubescentes, à préfloraison quinconciale, à lobes subcharnus se recouvrant médiocrement les uns les autres au sommet du bouton. Étamines apiculées à 2 loges. Filet très court, basi-dorsifixe. Style long dépassant nettement la corolle; stigmate faiblement renflé à 2 taches latérales. Ovaire à 2 loges; placentas peltés entièrement couvert d'ovules imbriqués ascendants.
+Fruit dry, dehiscent, with accrescent pedicel and persistent calyx.
 
-Fruit sec déhiscent à pédicelle accrescent et calice persistant.
-
-Graine petite, très légère, munie de longues et fines ailes opposées.
+Seed small, very light, bearing long and fine opposite wings.
 
 ---
 
-Ce genre est représenté par de nombreuses espèces d’Asie et d’Indonésie; il est représenté à Madagascar au moins par une espèce, et en Amérique par deux espèces.
+This genus is represented by numerous species from Asia and Indonesia; it is represented in Madagascar by at least one species, and in America by two species.
 
-L'U. gambir (Hunter) Roxb. de Malaisie, utilisé dans de nombreux mélanges masticatoires, s'emploie en outre dans certaines préparations de tannerie, de teinturerie et de pharmacie. L'espèce, bien reconnaissable par ses stipules simples, a été introduite au Congo ex-belge.
+U. gambir (Hunter) Roxb. from Malesia, used in numerous masticatory mixtures, is furthermore employed in certain preparations for tannery, dyeing, and pharmacy. The species, readily recognizable by its simple stipules, was introduced to the former Belgian Congo.
 
-### CLÉ DES ESPÈCES
+### KEY TO THE SPECIES
 
-1. Tiges pubescentes.
+1. Stems pubescent.
 
-2. Calice à lobes de 0-0,25 mm de hauteur; limbes pubescents sur les deux faces; corolle de moins de 17 mm de long ou moins.....
+2. Calyx with lobes 0–0.25 mm in height; laminae pubescent on both faces; corolla less than 17 mm long or less.....
 
-2. Calice à lobes de 1-2 mm de long; limbes glabres, au moins sur la face supérieure; corolle de plus de 25 mm de long.....
+2. Calyx with lobes 1–2 mm long; laminae glabrous, at least on the upper face; corolla more than 25 mm long.....
 
 ..... U. Talbotii Wernh.
 
-(de la Guinée fr. au Nigeria.)
+(from French Guinea to Nigeria.)
 
-1'. Tiges glabres ou glabrescentes ..... 2. U. africana.
+1'. Stems glabrous or glabrescent ..... 2. U. africana.
 
-3. Calice à lobes de 0,5 mm de long ou moins..... 2. var. africana.
+3. Calyx with lobes 0.5 mm long or less..... 2. var. africana.
 
-3'. Calice à lobes de 1,5 - 3 mm de long..... 2. var. angolensis.
+3'. Calyx with lobes 1.5–3 mm long..... 2. var. angolensis.
 
 ## Species in region
 

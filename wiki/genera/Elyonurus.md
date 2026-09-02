@@ -16,29 +16,25 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 Humb. et Ponpl. apud Willd. Sp. Pl. IV : 941.
 
-Herbes généralement pérennes, répandant une odeur aroma-
+Herbs generally perennial, emitting an aromatic odour when crushed.
 
-tique lorsqu'on les froisse.
+Racemes erect at the apex of culms or their branches, hirsute, with compressed articles and pedicels. Spikelets in pairs, similar but differing in sex, muticous.
 
-Racèmes dressés à l'extrémité des chaumes ou de leurs ramifications, hirsutes, à articles et pédicelles compressés. Épilets par paires, similaires mais différents par le sexe, mutiques.
+Two flowers in each spikelet: the lower one sterile and reduced to a lemma; the upper one hermaphrodite in the sessile spikelet, male or sterile in the pedicellate spikelet. Glumes of equal length: the lower one more or less coriaceous, bifid, flattened on the back and bicarinate, ciliate or hirsute on the keels and with fine transparent canals. Upper glume membranous, lanceolate, acute. Lower lemmas hyaline; upper lemmas very reduced or suppressed. 2 lodicules; three stamens; stigmas emerging laterally.
 
-Deux fleurs dans chaque épillet : l'inférieure neutre et réduite à une glumelle; la supérieure hermaphrodite dans l'épillet sessile, mâle ou neutre dans l'épillet pédicellé. Glumes de même longueur : l'inférieure plus ou moins coriace, bifide, aplatie sur le dos et bicarénée, ciliée ou hirsute sur les carènes et avec de fins canaux transparents. Glume supérieure membraneuse, lancéolée, aiguë. Glumelles inférieures hyalines; glumelles supérieures très réduites ou supprimées. 2 lodicules; trois étamines; stigmates sortant latéralement.
+The genus is characterized by the muticous, pubescent spikelets and the aromatic odour of the plants. It comprises about fifteen species, one of which (E. argenteus Nees.) has been collected in Gabon. A second one (E. Hensii K. Schum.) which exists in the Congo should be able to occur in the savannas of southern Gabon.
 
-Le genre se caractérise par les épillets mutiques, pubescents, et l'odeur aromatique des plantes. Il comporte une quinzaine d'espèces, dont une (E. argenteus Nees.) a été récoltée au Gabon. Une deuxième (E. Hensii K. Schum.) qui existe au Congo doit pouvoir se rencontrer dans les savanes du sud du Gabon.
-
-E. argenteus Nees. et E. Brazzae Franch. ont été mis en synonymie par Stapf dans la Flora of Tropical Africa. Les deux espèces ont été à nouveau reprises par Robyns dans la Flore Agrostologique du Congo Belge et du Ruanda Urundi. Les distinctions sont essentiellement basées sur des différences de port et de taille des plantes; or, le port de ces Elyonurus peut être assez variable. Il s'agit en effet d'herbes de savanes sur sols sableux qui se développent rapidement, peuvent brûler précocement pendant
+E. argenteus Nees. and E. Brazzae Franch. were placed in synonymy by Stapf in the Flora of Tropical Africa. The two species were again taken up by Robyns in the Agrostological Flora of the Belgian Congo and Ruanda Urundi. The distinctions are essentially based on differences in habit and plant size; now, the habit of these Elyonurus can be quite variable. These are indeed savanna herbs on sandy soils that develop rapidly, can burn early during
 
 ---
 
-la saison des pluies et repousser ensuite : ces repousses sont souvent assez mal développées. Il nous semble donc que la synonymie doive être maintenue.
+the rainy season and then regrow: these regrowths are often rather poorly developed. It therefore seems to us that the synonymy should be maintained.
 
-1. Herbes de 30 à 70 cm de haut; ramifications florifères assez nombreuses, racèmes de ± 6 cm de long; épilets, callus compris, d'environ 6 mm de long; glume inférieure bifide sur 1/3 de sa longueur environ ..... 1. E. Hensii.
+1. Herbs 30 to 70 cm tall; fertile branches fairly numerous, racemes of ± 6 cm long; spikelets, callus included, about 6 mm long; lower glume bifid over approximately 1/3 of its length ..... 1. E. Hensii.
 
-1'. Herbes jusqu'à 1,50 m de haut; racèmes solitaires à l'extrémité des chaumes ou de branches latérales peu nombreuses, de 8 à 10 cm de long généralement; épilets de 8 mm de long, callus compris; glume inférieure bifide sur 1/5 ou 1/4 de sa longueur..... 2. E. argenteus.
+1'. Herbs up to 1.50 m tall; racemes solitary at the apex of culms or of few lateral branches, generally 8 to 10 cm long; spikelets 8 mm long, callus included; lower glume bifid over 1/5 or 1/4 of its length ..... 2. E. argenteus.
 
 ## Species in region
 

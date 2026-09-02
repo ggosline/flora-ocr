@@ -16,19 +16,17 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Frondes larges, bipinnatifides à tripennées, insérées en spirales au sommet de la fronde. Indusie en forme de coupe. Sporanges insérés sur un réceptacle surélevé.
+Fronds broad, bipinnatifid to tripinnate, inserted in spirals at the apex of the frond. Indusium cup-shaped. Sporangia inserted on an elevated receptacle.
 
 Lectotype (cf. Pichi-Sermolli, Webbia, 12 : 138, 1955) : Cyathea arborea (L.) Sm.
 
 ---
 
-Environ 600 espèces, surtout des régions tropicales humides, et même subtropicales. Atteint l'Afrique australe, le Chili et la Nouvelle-Zélande au Sud. Les espèces sont parfois très localisées.
+Approximately 600 species, mostly from humid tropical regions, and even subtropical ones. Reaching southern Africa, Chile and New Zealand to the south. The species are sometimes very localized.
 
-1. Fronde bipinnatifide-bipennée, pétiole violacé, lisse. 1. C. camerooniana.
+1. Frond bipinnatifid-bipinnate, petiole violaceous, smooth. 1. C. camerooniana.
 
-1'. Fronde tripinnatifide à tripennée; pétiole brunâtre très épineux, recouvert d'un tomentum roux..... 2. C. Manniana.
+1'. Frond tripinnatifid to tripinnate; petiole brownish, very spiny, covered with rusty tomentum..... 2. C. Manniana.
 
 ## Species in region
 

@@ -17,71 +17,22 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Herbs of fresh waters, monocarpic, monoecious, dioecious, trioecious or with hermaphrodite flowers; stem ordinarily erect, unbranched and contracted or sometimes rhizomatous, creeping and irregularly branched. Stipules absent. Intravaginal squamules sometimes present, 2 to 10 per leaf. Leaves ordinarily in rosette, the juvenile ones not differentiated into petiole and blade, the adult ones most often with petiole and blade distinct; petiole ordinarily sheathing at the base, sometimes winged laterally, spinulate or not; blade submerged or floating, ribbon-like to ovate or suborbicular, with up to 15 main longitudinal nerves connected by transverse nerves, these often oblique. Inflorescences long-pedunculate; spathes solitary, ovoid to narrowly cylindric, sometimes compressed, winged, ribbed, spiny or verrucose, more rarely smooth, with apex 2- to 6-lobed. Flowers hermaphrodite or unisexual; sepals green, with membranous margins; petals large, white or colored, showy, but very delicate and promptly caducous; stamens (3–)6 to 15 or sometimes more, in cycles of 3, filaments often flattened, anthers basifixed or slightly dorsifixed; ovary with 3 to 15(–20 or +) carpels, placentation laminal-diffuse, ovules numerous (up to 200 or +); styles 3 to 15(–20 or more), each divided into 2 linear and papillose stigmatic branches. Male flowers up to 60 per spathe; pedicels delicate; ovary generally well developed. Hermaphrodite and female flowers: 1 or 2(–4) per spathe (outside of Gabon, even up to 12), sessile; sepals often persistent at the apex of the hypanthium; stamens all staminodial in female flowers. Fruits capsular, somewhat fleshy, with regular or irregular dehiscence, with numerous seeds. Seeds oblong or fusiform, apiculate; outer testa densely covered with soft and mucilaginous unicellular hairs forming a pulp rapidly eliminated after the seed has been released.
 
-Herbes des eaux douces, monocarpiques, monoïques, dioïques, trioïques ou bien à fleurs her-
+Genus of approximately 25 species from tropical regions, most in Africa, especially in East Africa and in the Zambezian region, about ten in Asia and Australia and one in South America; one species naturalized in Europe. In Gabon, a single species.
 
-maphrodites ; tige ordinairement dressée, non ramifiée et contractée ou parfois rhizomateuse,
+Bibliography
 
-rampante et irrégulièrement ramifiée. Stipules absentes . Squamules intravaginales parfois
-
-présentes, 2 à 10 par feuille. Feuilles ordinairement en rosette , les juvéniles non différen-
-
-ciées en pétiole et limbe, les adultes le plus souvent à pétiole et limbe distincts ; pétiole
-
-ordinairement engaînant à la base, parfois ailé latéralement, spinulescent ou non ; limbe sub-
-
-mergé ou flottant , rubané à ovale ou suborbiculaire, avec jusqu’à 15 nervures longitudinales
-
-principales reliées par des nervures transversales, celles-ci souvent obliques. Inflorescences
-
-longuement pédonculées ; spathes solitaires, ovoïdes à étroitement cylindriques, parfois com-
-
-primées, ailées, côtelées, épineuses ou verruqueuses, plus rarement lisses , à sommet 2- à
-
-6-lobé. Fleurs hermaphrodites ou unisexuées ; sépales verts, à bords membraneux ; pétales
-
-grands, blancs ou colorés , voyants, mais très délicats et promptement caducs ; étamines
-
-(3–)6 à 15 ou parfois plus , en cycles de 3, filets souvent aplatis, anthères basifixes ou légè-
-
-rement dorsifixes ; ovaire avec 3 à 15(–20 ou +) carpelles , placentation laminale-diffuse,
-
-ovules nombreux (jusque 200 ou +) ; styles 3 à 15(–20 ou plus), chacun divisé en 2 branches
-
-stigmatiques linéaires et papilleuses. Fleurs mâles jusqu’à 60 par spathe ; pédicelles déli -
-
-cats ; ovaire généralement bien développé. Fleurs hermaphrodites et femelles : 1 ou 2(–4) par
-
-spathe (hors du Gabon, même jusqu’à 12), sessiles ; sépales souvent persistants au sommet de
-
-l'hypanthium ; étamines toutes staminodiales dans les fleurs femelles. Fruits capsulaires , un
-
-peu charnues, à déhiscence régulière ou irrégulière, à nombreuses graines. Graines oblongues
-
-ou fusiformes, apiculées ; testa externe densément couvert de poils unicellulaires mous et
-
-mucilagineux formant une pulpe rapidement éliminée après que la graine a été libérée.
-
-Genre d’environ 25 espèces des régions tropicales, la plupart en Afrique, surtout en Afrique de
-
-l’Est et dans la région Zambézienne, une dizaine en Asie et en Australie et une en Amérique du
-
-Sud ; une espèce naturalisée en Europe. Au Gabon, une seule espèce.
-
-Bi : Cook (1998), Cook et al. (1984), Simpson (1989), Symoens (1984, 2009), Symoens &
-
-B liographie
-
+Bi: Cook (1998), Cook et al. (1984), Simpson (1989), Symoens (1984, 2009), Symoens &
 Sosef (2015).
 
 ---
 
 56 Marc S.M. SOSEF
 
-### Clé des taxons
+### Key to taxa
 
-1. - Pétales entièrement jaunes ................................................... O. ulvifolia subsp . ulvifolia
+1. - Petals entirely yellow ................................................... O. ulvifolia subsp. ulvifolia
 
 ## Species in region
 

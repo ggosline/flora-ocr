@@ -17,19 +17,17 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Perennial plants, stoloniferous or caespitose, with linear obtuse leaves. Spikes unilateral, 2 or more, digitate or subdigitate, very slender, with flattened rachis. Spikelets elliptic, appressed against the rachis, biconvex. Lower glume suppressed, the upper one membranous as long as the spikelet, with 4 or 5 nerves. Lower flower neuter, reduced to a lemma similar to the upper glume. Upper flower hermaphrodite with coriaceous glumelles, lemma with 4 nerves, its margins tightly rolled onto the palea. Two lodicules; 3 stamens; styles free.
 
-Plantes pérennes stolonifères ou cespiteuses à feuilles linéaires obtuses. Épis unilatéraux, 2 ou plus, digités ou subdigités, très minces, à rachis aplati. Épillets elliptiques, apprimés contre le rachis, biconvexes. Glume inférieure supprimée, la supérieure membraneuse aussi longue que l'épillet, à 4 ou 5 nervures. Fleur inférieure neutre, réduite à une lemma semblable à la glume supérieure. Fleur supérieure hermaphrodite à glumelles coriaces, lemma à 4 nervures, ses bords étroitement enroulés sur la paléa. Deux lodicules; 3 étamines; styles libres.
+Two Axonopus are recorded in Africa, A. compressus P. Beauv. (Agrost.: 154) type species of the genus, distributed especially in America and also encountered in West Africa. It grows on fresh soils; it is the "Carpet Grass" of the Americans, an excellent lawn and pasture grass. A second Axonopus encountered throughout tropical Africa presents itself as a robust caespitose plant, reaching 1 m in height, very frequent in marshy places where it often forms dense stands. According to H. Jacques-Félix (Notes sur les Gram. d'Afrique, Journ. d'Agr. Trop. et de Bot. Appl. IV, 2-3, 1957: 139-142) this form is the most frequent in Africa. It should be referred to A. flexuosus (Peter) Hubb. This species is much less interesting, economically speaking, than the other.
 
-Deux Axonopus sont signalés en Afrique, A. compressus P. Beauv. (Agrost. : 154) espèce type du genre, répandue surtout en Amérique et que l'on rencontre également en Afrique occidentale. Elle pousse sur des sols frais; c'est le « Carpet Grass » des Américains, excellente herbe de pelouse et de pâturage. Un deuxième Axonopus que l'on rencontre dans toute l'Afrique tropicale se présente comme une plante cespiteuse robuste, atteignant 1 m de haut, très fréquente dans les endroits marécageux où elle forme souvent des peuplements denses. D'après H. Jacques-Félix (Notes sur les Gram. d'Afrique, Journ. d'Agr. Trop. et de Bot. Appl. IV, 2-3, 1957 : 139-142) c'est cette forme qui est la plus fréquente en Afrique. Elle doit être rapportée à A. flexuosus (Peter) Hubb. Cette espèce est beaucoup moins intéressante, économiquement parlant, que l'autre.
-
-Outre le port, les deux Axonopus peuvent se distinguer par les caractères suivants : nœuds glabres chez A. flexuosus, pubescens chez A. compressus. Épillet de 3,5 à 4 mm et faux fruit (glumelles + caryopse) occupant les 2/3 de la longueur de l'épillet chez A. flexuosus, mais chez A. compressus, épillet de 2,5 à 3 mm et faux fruit occupant les 4/5 de la longueur de l'épillet. De plus, la nervure centrale de la lemma stérile est souvent supprimée ou réduite chez A. compressus.
+Apart from habit, the two Axonopus can be distinguished by the following characters: nodes glabrous in A. flexuosus, pubescent in A. compressus. Spikelet 3.5 to 4 mm and false fruit (glumelles + caryopsis) occupying 2/3 of the length of the spikelet in A. flexuosus, but in A. compressus, spikelet 2.5 to 3 mm and false fruit occupying 4/5 of the length of the spikelet. Furthermore, the central nerve of the sterile lemma is often suppressed or reduced in A. compressus.
 
 ---
 
-Une étude plus approfondie, portant sur un abondant matériel serait cependant nécessaire pour savoir s’il s’agit bien de deux espèces distinctes : les caractères différentiels sont en effet plus ou moins nets, avec de nombreuses formes de transition.
+A more thorough study, based on abundant material, would nevertheless be necessary to know whether these are indeed two distinct species: the differential characters are in fact more or less clear, with numerous transitional forms.
 
-Une distinction est cependant nécessaire du fait de l'intérêt pratique très différent des deux formes. Seule la suivante a été récoltée au Gabon jusqu'ici :
+A distinction is nevertheless necessary because of the very different practical interest of the two forms. Only the following has been collected in Gabon so far:
 
 ## Species in region
 

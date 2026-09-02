@@ -19,27 +19,25 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Perennial or annual herbs, stoloniferous or caespitose, often much branched. Leaves with linear to lanceolate blades.
 
-Herbes pérennes ou annuelles, stolonifères ou cespiteuses, souvent très ramifiées. Feuilles à limbes linéaires à lancéolés.
+Inflorescences spiciform, dense, elongated. Branches very short, leaving raised scars on the rachis when they detach. Spikelets solitary or in fascicles of 2 to 5, surrounded by an involucre of more or less numerous hairs, glabrous or pubescent, and falling with them. Spikelets lanceolate to oblong.
 
-Inflorescences spiciformes, denses, allongées. Branches très courtes, laissant des cicatrices en relief sur le rachis lorsqu'elles se détachent. Épillets solitaires ou en fascicules de 2 à 5, entourés par un involucre de poils plus ou moins nombreux, glabres ou pubescents, et tombant avec eux. Épillets lancéolés à oblongs.
+Glumes hyaline or membranous, the lower one somewhat shorter or even suppressed, with 1-3 nerves, the upper one reaching the length of the spikelet or smaller, sometimes trilobate, with 0 to 9 nerves. Lower floret male or neuter, lemma similar to the upper glume, or much reduced in neuter florets. Palea bicarinate, likewise the lemma or more or less reduced. Upper floret hermaphrodite, lemma as long as the spikelet, cartaceous or coriaceous, with 5 to 7 nerves. Palea of the same length, its margins covered by those of the lemma. Lodicules very reduced or absent; 3 stamens; styles free or more or less fused.
 
-Glumes hyalines ou membraneuses, l'inférieure un peu plus courte ou même supprimée, à 1-3 nervures, la supérieure atteignant la longueur de l'épillet ou plus petite, parfois trilobée, de 0 à 9 nervures. Fleur inférieure mâle ou neutre, lemma semblable à la glume supérieure, ou très réduite dans les fleurs neutres. Paléa bicarénée, également la lemma ou plus ou moins réduite. Fleur supérieure hermaphrodite, lemma aussi longue que l'épillet cartacée ou coriace, avec de 5 à 7 nervures. Paléa de même longueur, ses bords recouverts par ceux de la lemma. Lodicules très réduites ou absentes; 3 étamines; styles libres ou plus ou moins soudés.
+Genus of major importance comprising more than 100 species in the warm regions of the globe. Some are cultivated and have great economic value (Millets). Others provide valuable fodder, such as P. purpureum, elephant grass.
 
-Genre très important comptant plus de 100 espèces dans les régions chaudes du globe. Certaines sont cultivées et revêtent un grand intérêt économique (Mils). D'autres donnent des fourrages de valeur, comme P. purpureum, l'herbe à éléphant.
+Five species are recorded in Gabon.
 
-Cinq espèces sont signalées au Gabon.
-
-1. Lemmas des fleurs inférieures et supérieures de même texture, ou la supérieure plus ou moins durcie; fleur supérieure se désarticulant difficilement du reste de l'épillet à maturité; épilets laissant des cicatrices prolongées sur le rachis par de légères côtes longitudinales.
+1. Lemmas of lower and upper florets of the same texture, or the upper one more or less hardened; upper floret disarticulating with difficulty from the rest of the spikelet at maturity; spikelets leaving scars prolonged on the rachis by faint longitudinal ridges.
 
 ---
 
-2. Herbe d'environ 1 m de haut à chaumes minces, genouillés aux nœuds inférieurs; limbes des feuilles atteignant  $ 25 \times 1.5 $ cm; inflorescence d'environ 10 cm de long et 6 mm de diamètre, sans les soies; herbe pérenne en fortes touffes sur le bord des rivières ..... 1. P. Franchetianum.
+2. Herb about 1 m tall with thin culms, geniculate at lower nodes; leaf blade reaching 25 × 1.5 cm; inflorescence about 10 cm long and 6 mm in diameter, without the bristles; perennial herb in strong tufts on the edge of rivers ..... 1. P. Franchetianum.
 
-2'. Grande herbe à allure de canne à sucre, atteignant plusieurs mètres de haut; limbe des feuilles pouvant dépasser 1 m de long et 3 cm de large. Épis jusqu'à une trentaine de centimètres de long et 3 cm de diamètre, sans les soies; herbe en peuplement dans les jachères forestières ou sur le bord dès cours d'eau
+2'. Large herb with the appearance of sugar cane, reaching several metres tall; leaf blade capable of exceeding 1 m long and 3 cm wide. Spikes up to about thirty centimetres long and 3 cm in diameter, without the bristles; herb in stands in forest fallows or on the edge of watercourses ..... 2. P. purpureum.
 
-1'. Lemmas des fleurs inférieures et supérieures très dissemblables, l'inférieure membraneuse; la supérieure plus courte, cartacées, brillante; fleur fertile se détachant très facilement à maturité; épillets laissant des cicatrices prolongées en dessous d'elles sur le rachis par des ailes saillantes; plantes de jachère.
+1'. Lemmas of lower and upper florets very dissimilar, the lower one membranous; the upper one shorter, cartaceous, shiny; fertile floret detaching very easily at maturity; spikelets leaving scars prolonged below them on the rachis by prominent wings; plants of fallow lands.
 
 46.1 conjugatum
 

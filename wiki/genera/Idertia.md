@@ -17,41 +17,11 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Shrubs or small trees; sapwood and red wood; stems horizontal to ascending, slightly angular and striated in the distal portion. Intrapetiolary stipules, fused at the base, firm. Leaves: lamina with thickened margin and often irregularly provided with stiff setules; secondary veins few in number, spaced, slightly curved, terminating in the thickened margin, tertiary venation scalariform. Inflorescence axillary, in short fascicles of 1 or 2(–4) flowers; gemmate scales denticulate, scarious. Flowers actinomorphic, 5-merous; sepals with quincuncial prefloration, persistent; petals with contorted prefloration, yellow; stamens (9 or) 10, filaments much shorter than the anthers, anthers smooth, dehiscing by 2 apical pores; carpels 5 (or 6), almost free, uniovulate; style 1, gynobasic, with entire stigma. Fruits apocarpous, with accrescent receptacle, pedicel and sepals; drupelets 1 to 4, ellipsoid, black at maturity. Seeds with accumbent cotyledons, equal, straight.
 
-Arbustes ou petits arbres ; aubier et bois rouge ; tiges horizontales à ascendantes, légère-
+Monotypic genus of West and Central Africa.
 
-ment anguleuses et striées dans la partie distale. Stipules intrapétiolaires, soudées à la
-
----
-
-base , fermes. Feuilles : limbe à marge épaissie et souvent pourvue irrégulièrement de
-
-sétules raides ; nervures secondaires peu nombreuses, espacées, peu courbées, se termi-
-
-nant dans la marge épaissie, réseau tertiaire scalariforme. Inflorescence axillaire, en fas-
-
-cicules courts de 1 ou 2(–4) fleurs ; écailles gemmaires denticulées, scarieuses. Fleurs
-
-actinomorphes, 5-mères ; sépales à préfloraison quinconciale, persistants ; pétales à
-
-préfloraison contortée, jaunes ; étamines (9 ou )10, filets beaucoup plus courtes que les
-
-anthères, anthères lisses , déhiscentes par 2 pores apicaux ; carpelles 5(ou 6), presque
-
-libres, uniovulés ; style 1, gynobasique, à stigmate entier. Fruits apocarpes, à réceptacle,
-
-pédicelle et sépales accrescents ; drupéoles 1 à 4, ellipsoïdes, noires à maturité. Graines
-
-à cotylédons accombants, égaux, droits .
-
-Genre monotypique de l’Afrique de l’Ouest et Centrale.
-
-b : Amaral & Bittrich (2014), Bamps & Farron (1967), Farron (1963, 1985),
-
-ibliographie
-
-Sosef (2013).
+Bibliography: Amaral & Bittrich (2014), Bamps & Farron (1967), Farron (1963, 1985), Sosef (2013).
 
 ## Species in region
 

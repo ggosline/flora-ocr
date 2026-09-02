@@ -17,13 +17,11 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Herbs prostrate or climbing, monoecious or dioecious; stems reaching 15 m in length. Tendrils 2- to 6-fid. Leaves: limb oval-cordate in outline, 3- to 5-lobed or rarely entire, scabrous. Inflorescences: the male ones in racemes, the female ones with solitary flowers. Male flowers relatively large; receptacle campanulate; sepals 3 or 5, triangular; petals free, obcordate to obovate, yellowish-white or golden yellow; stamens 3, of which 2 bithecous and 1 monotheca, or else 5 and all monotheca, with free filaments, inserted on the receptacle, anther with sigmoidal-flexuous locules. Female flowers with perianth similar to that of male flowers; ovary elongate, angular or cylindric, smooth or echinulate, with numerous horizontal ovules; style columnar, with 3 bilobed stigmas. Fruits as berries, cylindric, smooth to angular or ribbed or echinulate, mature fruit dry, with seeds embedded in a fibrous tissue, opening by a terminal opercule, with persistent style. Seeds oblong in outline, flattened, blackish.
 
-Herbes rampantes ou grimpantes, monoïques ou dioïques; tiges atteignant 15 m de longueur. Vrilles 2- à 6-fides. Feuilles: limbe de contour ovale-cordiforme, 3- à 5-lobé ou rarement entier, scabre. Inflorescences: les mâles en racèmes, les femelles à fleurs solitaires. Fleurs mâles relativement grandes; réceptacle campanulé; sépales 3 ou 5, triangulaires; pétales libres, obcordiformes à obovales, blanc jaunâtre ou jaune d'or; étanines 3, dont 2 bithèques et 1 monothèque, ou bien 5 et toutes monothèques, à filets libres, insérés sur le réceptacle, anthère à loges sigmoïdes-flexueuses. Fleurs femelles à périanthe semblable à celui des fleurs mâles; ovaire allongé, anguleux ou cylindrique, lisse ou échinulé, à nombreux ovules horizontaux; style en colonne, à 3 stigmates bilobés. Fruits en baie, cylindrique, lisse à anguleuse ou côtelée ou échinulée, fruit mûr sec, à graines noyées dans un tissue fibreux, s'ouvrant par un opercule terminal, à style persistant. Graines de contour oblong, aplaties, noirâtres.
+Pantropical genus of five to seven species, of which one to three in America and the others in Africa, Asia, Australia and Pacific islands; in Gabon, one species.
 
-Genre pantropical de cinq à sept espèces, dont une à trois en Amérique et les autres en Afrique, en Asie, en Australie et les îles du Pacifique ; au Gabon, une espèce.
-
-BIBLIOGRAPHIE : Filipowicz et al. (2014), Jeffrey (1967), Keraudren (1967), Keraudren-Aymonin (1975), Schaefer & Renner (2011a).
+BIBLIOGRAPHY: Filipowicz et al. (2014), Jeffrey (1967), Keraudren (1967), Keraudren-Aymonin (1975), Schaefer & Renner (2011a).
 
 ## Species in region
 

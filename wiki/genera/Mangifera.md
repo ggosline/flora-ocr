@@ -17,29 +17,27 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+### Trees polygamous (with male and bisexual flowers on the same plant). Leaves alternate,
 
-### Arbres polygames (avec fleurs mâles et bisexuées sur la même plante). Feuilles alternes,
+simple, pinnately veined. Inflorescences in terminal and/or subterminal panicles. Flowers
 
-simples , penninervées. Inflorescences en panicules terminales et/ou subterminales. Fleurs
+unisexual, 4- or 5-merous, with imbricate prefloration; sepals free or nearly so; stamens
 
-unisexuées , 4- ou 5-mères, à préfloraison imbriquée ; sépales libres ou presque ; étamines
+5(–12) of which 1 or 2(–5) fertile, the others sterile; disc present; ovary subglobose, 1-locular;
 
-5(–12) dont 1 ou 2(–5) fertiles , les autres stériles ; disque présent ; ovaire subglobuleux, à 1
+style 1, eccentric. Fruits drupaceous, ovoid to subreniform, with fleshy mesocarp, with
 
-loge ; style 1, excentrique . Fruits drupacés, ovoïdes à subréniformes, à mésocarpe charnu, à
+1 seed, endocarp woody. Seeds oblong-ovoid, ± compressed, with thick cotyledons,
 
-1 graine, endocarpe ligneux. Graines oblongues-ovoïdes, ± comprimées, à cotylédons épais,
+plano-convex.
 
-plans-convexes.
+Genus of Asia and Oceania, grouping ± 40 species of which one cultivated in almost all
 
-Genre d’Asie et l’Océanie, groupant ± 40 espèces dont une cultivée dans presque tous les pays
+tropical and sometimes subtropical countries.
 
-tropicaux et parfois subtropicaux.
+B: Mukherji (1949), Pell et al. (2011), Van der Veken (1960a).
 
-B : Mukherji (1949), Pell et al. (2011), Van der Veken (1960a).
-
-i B liographie
+Bibliography
 
 ## Species in region
 

@@ -17,65 +17,13 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Shrubs or annual or perennial herbs, monoecious or dioecious (not in Gabon), generally provided with numerous stinging hairs; cystoliths linear or punctiform. Stipules intrapetiolar, fused nearly to the apex. Leaves alternate, generally long-petiolate; blade laterally symmetrical, base generally cordate, apex long-acuminate, margin serrate. Inflorescences unisexual, sometimes with a few flowers of the opposite sex, paniculate or spiciform by reduction of the branches, sometimes with a few elongate internodes, thus spacing out the floral glomerules. Male flowers generally pedicellate, 4- or 5-merous; pistillode present. Female flowers: pedicel sometimes winged, with lateral symmetry (sect. Laportea, not known from Gabon) or winged on the dorsal and ventral faces (as defined by the symmetry of the flower) and asymmetrical (sect. Fleurya); tepals 4, unequal, the 2 lateral ones generally wider than the medial ones, which differ in shape and unequal size, one dorsal tepal geniculate; staminodes absent; ovary laterally compressed, ovoid, but also asymmetrical; stigma sessile, filiform or trifid with filiform branches. Fruit stipitate and free from the tepals (sect. Laportea, not known from Gabon) or sessile and falling with the persistent perianth (sect. Fleurya), laterally compressed, often with characteristic sculptures on the sides, forming a ringed crest delimiting a ± rugose surface.
 
-Arbustes ou herbes annuelles ou pérennes, monoïques ou dioïques (non au Gabon), géné -
+Pantropical genus, with approximately 25 species, extending widely in the temperate regions of North America and East Asia. In Gabon, only two species, but more could be encountered, see notes.
 
-ralement munies de nombreux poils urticants ; cystolithes linéaires ou ponctiformes. Sti-
+Notes: Chew (1965) united the genera Laportea and Fleurya within Laportea with sections Laportea and Fleurya (Gaudich.) Chew, which he maintained in his world monograph (Chew 1969). Species of two sections are found in Cameroon, but for now, only section Fleurya is known from Gabon.
 
-pules intrapétiolaires, soudées presque jusqu’au sommet. Feuilles alternes, généralement
-
-longuement pétiolées ; limbe latéralement symétrique, base généralement cordée, som-
-
-met longuement acuminé, marge serrée . Inflorescences unisexuées , parfois avec quelques
-
-fleurs du sexe opposé, paniculées ou spiciformes par réduction des branches , parfois avec
-
-quelques entrenœuds allongés, espaçant ainsi les glomérules floraux. Fleurs mâles générale -
-
-ment pédicellées, 4- ou 5-mères ; pistillode présent. Fleurs femelles : pédicelle parfois ailé ,
-
-à symétrie latérale (sect. Laportea , non connue du Gabon) ou ailé sur les faces dorsale et
-
-ventrale (comme défini par la symétrie de la fleur) et asymétrique (sect. Fleurya ) ; tépales
-
-4 , inégaux, les 2 latérales généralement plus larges que les médianes , qui diffèrent par la
-
-forme et par la taille inégale, un tépale dorsal genouillé ; staminodes absents ; ovaire com-
-
-primé latéralement , ovoïde , mais également asymétrique ; stigmate sessile , filiforme ou
-
-trifide avec des branches filiformes . Fruit stipité et libre des tépales (sect. Laportea , non
-
-connue du Gabon) ou sessile et tombant avec le périanthe persistant (sect. Fleurya ), comprimé
-
-latéralement, souvent avec des sculptures caractéristiques sur les côtés , formant une crête
-
-annelée délimitant une surface ± rugueuse .
-
-Genre pantropical, avec environ 25 espèces, s’étendant largement dans les régions tempérées
-
-de l’Amérique du Nord et de l’Asie orientale. Au Gabon, seulement deux espèces, mais on
-
-pourrait en rencontrer davantage, voir notes.
-
-Notes : Chew (1965) a uni les genres Laportea et Fleurya dans Laportea avec les sections Laportea et
-
-Fleurya (Gaudich.) Chew, qu’il a maintenu dans sa monographie mondiale (Chew 1969). Des espèces
-
-de deux sections se trouvent au Cameroun, mais pour l’instant, seulement la section Fleurya est connue
-
-du Gabon.
-
-L. mooreana (Hiern) Chew (1965) de la sect. Fleurya se trouve au Cameroun, dans la République du
-
-Congo, en Angola et ailleurs en Afrique, mais se localise principalement dans des stations humides des
-
-régions Soudano-Zambésienne ; elle pourrait être présente au Gabon. L. interrupta (L.) Chew (1965), de
-
-la même section, est une espèce plutôt rudérale associée à des milieux instables ; commune en Afrique
-
-tropicale, en Asie et en Océanie, elle est connue du Cameroun et pourrait se rencontrer au Gabon, sur des
+L. mooreana (Hiern) Chew (1965) of sect. Fleurya is found in Cameroon, in the Republic of the Congo, in Angola and elsewhere in Africa, but is principally localized in humid stations of the Sudano-Zambezian regions; it could be present in Gabon. L. interrupta (L.) Chew (1965), of the same section, is a rather ruderal species associated with unstable habitats; common in tropical Africa, Asia and Oceania, it is known from Cameroon and could be encountered in Gabon, in
 
 ## Species in region
 

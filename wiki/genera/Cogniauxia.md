@@ -17,13 +17,11 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Climbing herbs, dioecious, reaching several meters in length; roots large, swollen. Tendrils bifid. Leaves petiolate; blade oval-cordate, simple or 3- to 5-lobed, coriaceous. Inflorescences: male ones in long racemes; female ones with solitary flowers; bracts linear. Male flowers: receptacle elongated almost tubular, swollen at the base and enlarged at the apex; sepals triangular; petals obovate, yellow to orange; stamens 3 (or 5), with developed filaments, inserted on the margin of the receptacle, anthers 2 bithecal and 1 monothecal, with conduplicate locules. Female flowers solitary; perianth similar to that of male flowers; ovary oblong, with numerous horizontal ovules. Fruits fairly large, smooth, indehiscent, with hard pericarp, with numerous seeds. Seeds smooth, slightly oblique.
 
-Herbes grimpantes, dioïques, atteignant plusieurs mètres de longueur; racines grosses, renflées. Villes bifides. Feuilles pétiolées; limbe ovale-cordiforme, simple ou 3- à 5-lobé, ‡coriace. Inflorescences: les mâles en racèmes longs; les femelles à fleurs solitaires; bractées linéaires. Fleurs mâles: réceptacle allongé presqu’en tube, renflé à la base et élargi au sommet; sépales triangulaires; pétales obovales, jaunes à orange; étamines 3(ou 5), à filets ‡développés, insérées sur le bord du réceptacle, anthères 2 bithèques et 1 monothèque, à loges condupliquées. Fleurs femelles solitaires; périanthe semblable à celui des fleurs mâles; ovaire oblong, à nombreux ovules horizontaux. Fruits assez grosses, lisses, indéhiscentes, à péricarpe dur, à de nombreuses graines. Graines lisses, un peu obliques.
+Genus endemic to Central Africa with two species, one in Gabon, the other known from the Republic of the Congo and the Democratic Republic of the Congo.
 
-Genre centrafricain à deux espèces, dont une au Gabon, l’autre connue de la République du Congo et la République démocratique du Congo.
-
-BIBLIOGRAPHIEN: Keraudren (1967), Keraudren-Aymonin (1975), Schaefer & Renner (2011a).
+BIBLIOGRAPHY: Keraudren (1967), Keraudren-Aymonin (1975), Schaefer & Renner (2011a).
 
 ## Species in region
 

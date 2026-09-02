@@ -17,45 +17,21 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 tab. Herb. L. Pierre, del. E. Delpy 5/1901.
 
 Marquesia Gilg, Bot. Jahrb. Syst. 40 : 485 (1908).
 
-Arbres sempervirents ; tronc avec contreforts ; ramilles sillonnées ; indument à poils
+Evergreen trees; trunk with buttresses; branchlets furrowed; indumentum with simple hairs and spherical glands. Leaves with geniculate petiole; secondary nerves prominent beneath, tertiary venation densely reticulate. Flowers in axillary or terminal panicles; sepals with velvety indumentum; petals weakly twisted in bud, glabrescent; androgynophore present; stamens numerous, anthers short, connective without appendage; ovary trilocular at base, unilocular at apex, pilose, with parietal placentation and 6 ovules; stigma trifid. Fruits dehiscent, surrounded by 5 subequal wings formed by accrescent sepals; pericarp thin.
 
-simples et glandes sphériques . Feuilles à pétiole géniculé ; nervures secondaires pro -
+Genus with three species in Central Africa (Equatorial Guinea, Gabon, Angola, Democratic Republic of the Congo, Tanzania and Zambia); in Gabon, only one species.
 
-éminentes en dessous, nervation tertiaire densément réticulée . Fleurs en panicules
+Bibliography
 
-axillaires ou terminales ; sépales à indument velouté ; pétales faiblement tordus en bou -
-
-ton, glabrescents ; androgynophore présent ; étamines nombreuses, anthères courtes,
-
-connectif sans appendice ; ovaire triloculaire à la base, uniloculaire au sommet, poilu,
-
-à placentation pariétale et 6 ovules ; stigmate trifide. Fruits déhiscents, entourés par 5
-
-ailes subégales formés par les sépales accrescents ; péricarpe mince.
-
-Genre à trois espèces en Afrique Centrale (Guinée Équatoriale, Gabon, Angola, Répu -
-
-blique Démocratique du Congo, Tanzanie et Zambie) ; au Gabon, une seule espèce.
-
-b : Ashton (2003), Duvigneaud (1961), Fries (1914), Sosef (2010), Verdcourt
-
-ibliographie
-
-(1989).
+b: Ashton (2003), Duvigneaud (1961), Fries (1914), Sosef (2010), Verdcourt (1989).
 
 ---
 
-Fleur, 2 sépales, pétales et toutes les étamines sauf une enlevés. – 5. Feuille, dessous avec glandes
-
-minuscules. – 6. Fruit avec ailes. – 7. Fruit. (1-4 : Mcpherson 16289 ; 5 : Breteler 13971 ; 6-7 : N.
-
-Hallé 4563 ). Dessin par Anita Walsmit Sachs, NCB Naturalis (section NHN) ©.
+Flower, 2 sepals, petals and all stamens except one removed. – 5. Leaf, underside with minute glands. – 6. Fruit with wings. – 7. Fruit. (1-4 : Mcpherson 16289 ; 5 : Breteler 13971 ; 6-7 : N. Hallé 4563). Drawing by Anita Walsmit Sachs, NCB Naturalis (section NHN) ©.
 
 ---
 

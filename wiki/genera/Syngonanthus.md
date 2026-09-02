@@ -16,69 +16,17 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 in Urb., Symb. Antill. 1 : 487 (1900).
 
-Herbes pérennes ou annuelles, généralement pileuses , poils fréquemment glanduleux.
+Perennial or annual herbs, generally pilose, hairs frequently glandular.
 
-Feuilles en une touffe basale ou en rosette, linéaires à subulées ou aciculaires. Inflores -
+Leaves in a basal tuft or rosette, linear to subulate or acicular. Inflorescence: scapes generally 3-sulcate; capitulum 3.5–8 mm in diameter, scarious, white or brown, pilose to apparently glabrous, often shiny; involucral bracts multiseriate, glabrous or with margin and sometimes also the external face delicately ciliate, the inner ones hyaline; floral bracts absent; receptacle villous. Flowers 3-merous, pedicel villous; sepals lanceolate, weakly carinate, membranous. Male flowers: sepals connate below the midpoint into an infundibuliform tube; petals entirely connate into a membranous subtuncate tube; stamens 3, filaments adnate to the internal face of the tube, extending beyond the margin, anthers white or yellowish, after anthesis, the filaments falling back inside the tube which covers the stamens; rudimentary gynoecium 3-branched at the base of the tube, the branches with swollen glandular apex. Female flowers: sepals free; petals connate near the apex, with free unguiculate base, with reduced apex, free and incurved, glands absent; ovary prominent at maturity between the free bases of the petals; style formed of a hollow tube divided at the apex into 3 long stigmatic branches, generally alternating with 3 glandular appendages with swollen apex, these entangled after anthesis with the incurved apices of the petals and thus forming a clavate mass. Seeds ellipsoid, brown, generally with white longitudinal striations.
 
-cence : scapes généralement 3-sillonnés ; capitule 3,5–8 mm de diamètre, scarieux , blanc
+Genus with approximately 200 species, mainly in South America; 14 in tropical and southern Africa; in Gabon, 3 species.
 
-ou brun, pileux à apparemment glabre, souvent brillant ; bractées involucrales plurisé-
+Taxonomic note: Syngonanthus can be immediately distinguished from Eriocaulon by the pilose and sometimes glandular leaves and scapes, and also by the more scarious and shiny texture of the capitulum. The African species of Syngonanthus are smaller and much more slender than those of Mesanthemum.
 
-riées, glabres ou à marge et parfois aussi la face externe délicatement ciliée, les internes
-
-hyalines ; bractées florales absentes ; réceptacle villeux. Fleurs 3-mères, pédicelle vil-
-
-leux ; sépales lancéolés, faiblement carénés, membraneux. Fleurs mâles : sépales sou-
-
-dés sous la moitié en un tube infundibuliforme ; pétales entièrement soudés en un tube
-
-membraneux subtronqué ; étamines 3 , filets adnés à la face interne du tube, s’étendant
-
-au-dessus du bord, anthères blanches ou jaunâtres, après l’anthèse, les filets retombant à
-
-l’intérieur du tube qui recouvre les étamines ; gynécée rudimentaire 3-ramifié à la base du
-
-tube, les branches à sommet glanduleux renflé. Fleurs femelles : sépales libres ; pétales
-
-soudés proche du sommet, à base onguiculée libre, à sommet réduit, libre et incurvé,
-
-glandes absentes ; ovaire saillant à maturité entre les bases libres des pétales ; style
-
-formé d’un tube creux divisé au sommet en 3 branches stigmatiques longues, générale-
-
-ment alternant avec 3 appendices glanduleux à sommet renflé , ceux-ci emmêlés après
-
-l’anthèse avec les sommet incurvés des pétales et formant ainsi une masse claviforme.
-
-Graines ellipsoïdes, brunes, généralement à stries longitudinale blanches.
-
-Genre à environ 200 espèces, principalement en Amérique du Sud ; 14 en Afrique tropi-
-
-cale et australes ; au Gabon, 3 espèces.
-
-Note taxonomique : Syngonanthus peut se distinguer immédiatement de Eriocaulon par
-
-les feuilles et les scapes pileux et parfois glanduleux, et aussi par la texture plus scarieuse
-
-et brillante du capitule. Les espèces africaines de Syngonanthus sont plus petites et beau-
-
-coup plus grêles que celles de Mesanthemum .
-
-La description générique faite ci-dessus ne s’applique qu’aux espèces africaines. Aux
-
-Amériques, le genre est beaucoup plus diversifié, parfois avec une tige allongée et ra -
-
-mifiée, une variabilité plus grande de l’inflorescence et de la morphologie florale. En
-
-Afrique, Syngonanthus est un genre critique d’espèces proches, souvent difficiles à sépa -
-
-rer l’une de l’autre. À l’inverse de Eriocaulon , la structure florale est très uniforme et la
-
-délimitation des espèces s’appuie principalement sur des petites différences de l’appareil
+The generic description given above applies only to the African species. In the Americas, the genus is much more diversified, sometimes with an elongate and branched stem, greater variability of the inflorescence and floral morphology. In Africa, Syngonanthus is a critical genus of closely related species, often difficult to separate from one another. Unlike Eriocaulon, the floral structure is very uniform and the delimitation of species is based mainly on small differences in the
 
 ## Species in region
 

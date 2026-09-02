@@ -16,19 +16,11 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Epiphytes with long-running rhizome, covered with peltate scales, attached by their centre, with dentate margins. Petiole articulated in 2 rows on the rhizome. Blade generally deltoid, several times pinnate, with lower pinnae themselves deltoid, ultimate segments with unequal bases; surfaces generally glabrous, coriaceous texture. Veins free, presence of false veins. Sori terminal on the veins near the margin, sac-shaped indusium, attached by the base and the ribs. Spores bilateral.
 
-Epiphytes à rhizome longuement rampant, couvert d'écailles
+Type species: Davallia canariensis (L.) Sm.
 
-peltées, attachées par leur centre, à marges dentées. Pétiole
-
----
-
-articulé en 2 rangées sur le rhizome. Limbe généralement deltoïde, plusieurs fois penné, à pennes inférieures elles mêmes deltoïdes, segments ultimes à bases inégales; surfaces généralement nues, texture coriace. Nervures libres, présence de fausses nervures. Sores terminaux sur les nervures près de la marge, indusie saciforme, attachée par la base et les côtes. Spores bilatérales.
-
-Espèce type : Davallia canariensis (L.) Sm.
-
-Environ 40 espèces; l'aire du genre s'étend du Sud ouest de l'Europe, à l'Asie, à la Malaisie et à la Polynésie; une seule espèce au Gabon.
+About 40 species; the range of the genus extends from southwestern Europe, to Asia, to Malaysia and to Polynesia; a single species in Gabon.
 
 1. Davallia chaerophylloides (Poir.) Steudel (PL. XI)
 
@@ -40,27 +32,27 @@ Environ 40 espèces; l'aire du genre s'étend du Sud ouest de l'Europe, à l'Asi
 
 = Davallia Schnellii Tard., Not. Syst. 13 : 372, t. 1, f. 1-2 (1948).
 
-Rhizome épais, rampant, portant de très nombreuses écailles rousses, peltées à la base, présentant des prolongements sur leurs bords. Pétiole long de 20 cm, straminé, nu, articulé au rhizome, canaliculé. Limbe deltoïde, 3-4 penné, long de 30-40 cm sur autant de large. Pennes alternes, longuement pétiolées, deltoïdes, les inférieures longues de 20-30 cm sur 15 de large. Pinnules pétiolulées, alternes, ovales-deltoïdes, divisées, presque jusqu'au rachis, en segments ovales-obtus, à base cunéiforme, peu effilées, pinnatifides. Fronde glabre, subcoriace. Nervures pennées. Présence de fausses nervures entre les vraies. Sores à indusie atteignant le bord du limbe, plus ou moins tronquée. Spores ovales, finement mamelonnées.
+Rhizome thick, creeping, bearing very numerous russet scales, peltate at the base, presenting extensions on their margins. Petiole 20 cm long, stramineous, glabrous, articulated to the rhizome, channelled. Blade deltoid, 3-4 pinnate, 30-40 cm long by as much wide. Pinnae alternate, long-petiolate, deltoid, the lower ones 20-30 cm long by 15 cm wide. Pinnules petiolulate, alternate, ovate-deltoid, divided, almost to the rachis, into ovate-obtuse segments, with cuneiform base, slightly tapered, pinnatifid. Frond glabrous, subcoriaceous. Veins pinnate. Presence of false veins between the true ones. Sori with indusium reaching the margin of the blade, more or less truncate. Spores ovate, finely papillose.
 
-Type : du Petit Thouars, Madagascar.
+Type: from du Petit Thouars, Madagascar.
 
-Alston pense qu'il n'est pas justifié de séparer le D. Vogelii du D. chaerophylloides; la forme des segments et de l'indusie sont un peu différents chez l'un et chez l'autre, mais peut-être ne s'agit-il là que du degré de variabilité de l'espèce.
+Alston believes it is not justified to separate D. Vogelii from D. chaerophylloides; the shape of the segments and of the indusium are somewhat different in one and in the other, but perhaps this is only a matter of the degree of variability of the species.
 
-### Afrique tropicale et australe. Mascareignes.
+### Tropical and southern Africa. Mascarene Islands.
 
 ---
 
-Matériel gabonais étudié :
+Gabonese material studied:
 
-N. Hallé : 2068, Lac Ezanga.
+N. Hallé: 2068, Lake Ezanga.
 
-Klaine : 146, Libreville.
+Klaine: 146, Libreville.
 
-Nicklès : sans n., Oyem.
+Nicklès: unnumbered, Oyem.
 
-Pobéguin : 17, sans. loc.
+Pobéguin: 17, no locality.
 
-Walker : 1, Sainte-Anne du Fernan-Vaz.
+Walker: 1, Sainte-Anne du Fernan-Vaz.
 
 ## Species in region
 

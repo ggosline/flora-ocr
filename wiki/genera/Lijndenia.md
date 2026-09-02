@@ -17,17 +17,15 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Leaves 3-(5-)nerved, principal veins converging only arcuate towards the apex; additional veins ± evident, arcuate, evanescent before the summit; surfaces granular due to the presence of mesophyllian sclereids.
 
-Feuilles 3-(5-) nervées, convergentes principales seulement coar-quées vers le haut; additionnelles ± évidentes, coarquées, évanescentes avant le sommet; surfaces grenues par la présence de sclérites mésophylliennes.
+Cymes glabrous, branched¹, or glomerate, bracts persistent at all articulations. Stamens with connective scarcely prolonged, gland reduced or absent. Ovary 2-ovulate.
 
-Cymes glabres, ramifiées¹, ou glomérulées, bractées persistantes à toutes les articulations. Étamines à connectif peu prolongé, glande réduite ou nulle. Ovaire 2-ovulé.
+Fruit globose. Embryo transverse to the seed; hypocotyl moderate and epigeal germination; cotyledons foliaceous, tightly involute then revolute, assimilatory.
 
-Fruit globuleux. Embryon couché en travers de la graine; hypocotyle moyen et germination épigée; cotylédons foliacés, étroitement involutés puis révolutés, assimilateurs.
+TYPE-SPECIES: Lijndenia laurina Zoll. & Morit., Java.
 
-ESPÈCE-TYPE : Lijndenia laurina Zoll. & Morit., Java.
-
-Genre d'extension paléotropicale; une seule espèce africaine, présente au Gabon.
+Genus of palaeotropical distribution; a single African species, present in Gabon.
 
 ## Species in region
 

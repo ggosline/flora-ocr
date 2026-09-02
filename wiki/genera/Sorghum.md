@@ -17,19 +17,13 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Annual or perennial herbs, often of large size. Spikelets grouped in large panicles of racemes, lax in wild species. Sessile spikelets dorsally compressed, falling with the rachis article and the contiguous pedicel. Pedicelled spikelets reduced sometimes to the pedicel alone. Lower flower neutral and reduced to a lemma, the upper hermaphrodite (sessile spikelets), male or suppressed (pedicelled spikelets). Glumes coriaceous, awnless, the upper with a broad rounded back and margins folded toward the apex, only enrolled lower down, the upper, naviculate, keeled toward the apex with hyaline, ciliate margins toward the apex. Lemmas hyaline, ciliate, that of the lower flower with two or no nervure, that of the upper flower with 1 or 3 nervures, bidentate, with in the sinus an awn more or less developed, rarely entire, mucronate and awnless. Palea hyaline, very small or absent. 2 lodicules; 3 stamens. Pedicelled spikelets, much narrower, male or neutral, sometimes very reduced or suppressed. Glumes herbaceous, lemmas hyaline, ciliate, with 1 or 2 nervures.
 
-Herbes annuclles ou pércnnes, souvent de grande taille. Épillets groupés en grandes panicules de racèmes, lâches dans les espèces spontanées. Épillets sessiles dorsalement compressés, tombant avec l'article du rachis et le pédicelle contigu. Épillets pédicelles réduits parfois au seul pédicelle. Fleur inférieure neutre et réduite à une glumelle, la supérieure hermaphrodite (épillets sessiles), mâles ou supprimée (épillets pédicellés). Glumes coriaces, mutiques, la supérieure avec un large dos arrondi et les bords repliés vers le sommet, seulement enroulés plus bas, la supérieure, naviculaire, carénée vers le sommet avec des marges hyalines, ciliées vers le sommet. Lemmas hyalines, ciliées, celle de la fleur inférieure avec deux ou pas de nervure, celle de la fleur supérieure à 1 ou 3 nervures, bidentée, avec dans le sinus une arête plus ou moins développée, rarement entière, mucronée et mutique. Palée hyaline, très petite ou nulle. 2 lodicules; 3 étamines. Épillets pédicelles, beaucoup plus étroits, mâles ou neutres, parfois très réduits ou supprimés. Glumes herbacées, glumelles hyalines, ciliées, à 1 ou 2 nervures.
+Each of the two sections of the genus, Sorghum s. s. and Sorghastrum, is represented in Gabon by one species.
 
-Chacune des deux sections du genre, Sorghum s. s. et Sorghas-
+1. Primary branches of the panicle whorled, at least at the lower nodes; pedicelled spikelets more or less well developed (Sorghum s. s.). Panicles pyramidal very lax, spikelets oval-lanceolate, leaves up to 5 cm wide; sessile spikelets acuminate, reddish-brown pubescent, with or without awn..... I. S. arundinaceum
 
-trum, est représentée au Gabon par une espèce.
-
-1. Branches primaires du panicule verticillées, au moins aux nœuds inférieurs; épilets pédicellés plus ou moins bien développés (Sorghum s. s.). Panicules pyramidales très lâches, épilets ovalelancéolés, feuilles jusqu'à 5 cm de large; épilets sessiles acuminés, pubescents roux, avec ou sans arête..... I. S. arundinace
-
-1'. Branches primaires du panicule solitaires, divisées depuis la base (Sorghastrum). Plantes annuelles, les racèmes réduits à un seul épillet sessile accompagné de deux pédicelles nus; glumes brunes, coriaces ..... 2. S. bipennatum.
-
----
+1'. Primary branches of the panicle solitary, divided from the base (Sorghastrum). Annual plants, the racemes reduced to a single sessile spikelet accompanied by two naked pedicels; glumes brown, coriaceous ..... 2. S. bipennatum.
 
 ## Species in region
 

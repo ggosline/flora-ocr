@@ -17,75 +17,25 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Trees, shrubs or rarely suffrutex, generally dioecious or sometimes monoecious or polygamous, rarely with only bisexual flowers; latex yellow, white or transparent.
 
-Arbres , arbustes ou rarement suffrutex, généralement dioïques ou parfois monoïques ou
+Stipules often present. Leaves opposite, rarely subopposite or whorled; petiole with a fovea at the base (cavity with an extension resembling a ligule); secretory canals generally present. Inflorescences terminal or axillary, in cymes, fascicles, racemes or panicles, sometimes solitary flowers. Flowers: sepals 4 and decussate or sometimes 5 and quincuncial; petals 4–5, white greenish to yellow. Male flowers with stamens generally numerous, generally united in 4–5 phalanges with filaments partially or entirely connate and anthers juxtaposed at the apex or rarely free; disc fleshy, cupuliform or central and 4–5-lobed or obconic and entire. Female and bisexual flowers generally similar to male flowers, but with free stamens in reduced number or sometimes with reduced staminodial phalanges; ovary 2–5(–12)-locular, with 1 ovule per locule and apical placentation; stigma sessile or subsessile, peltate, 2–5-lobed or entire. Fruits: berries with smooth or verrucose exocarp, glabrous or puberulent. Seeds 1–4 per fruit, surrounded by pulpous tissue, sometimes considered as an aril.
 
-polygames, rarement à fleurs uniquement bisexuées ; latex jaune, blanc ou transparent.
+Genus grouping more than 250 species with pantropical distribution; the greatest diversity is observed in tropical Asia and Madagascar; in Gabon 15 indigenous species have been collected. The mangosteen (Garcinia mangostana L.) is sometimes cultivated in Gabon for its edible fruits.
 
-Stipules souvent présentes. Feuilles opposées, rarement subopposées ou verticillées ;
+Taxonomic note: A specimen recently collected, Stévart 3128, could well represent a new species, close to G. xanthochymus Hook.f. However, as the material is incomplete (leafy twig with only one fruit), we did not wish to describe it at this time.
 
-pétiole à une fovéa à la base (cavité à extension ressemblant à une ligule) ; canaux
+Bibliography
 
-sécréteurs généralement présents. Inflorescences terminales ou axillaires, en cymes, fas-
+Bi: Bamps (1970a), Bamps et al. (1978), Robson (1961), Sosef & Dauby (2012), Stevens (2007), Sweeney (2008).
 
-cicules, racèmes ou panicules, parfois fleurs solitaires. Fleurs : sépales 4 et décussés ou
+### Key to species
 
-parfois 5 et quinconciaux ; pétales 4 ‒ 5 , blanc verdâtre à jaunes. Fleurs mâles à étamines
+1. - Inflorescence very large, often more than 50 cm in length, provided with a few long simple branches, bearing glomerules spaced with small white sessile flowers; lamina glossy, (14–)25–57 cm in length .................. G. lucida
 
-généralement nombreuses, généralement réunies en 4 ‒ 5 phalanges à filets partiellement
+- Inflorescence much smaller; flowers at least briefly pedicellate; lamina glossy or not, generally smaller, up to 28(–35) cm in length ............. 2
 
-ou entièrement soudés et à anthères juxtaposées au sommet ou rarement libres ; disque
-
-charnu, cupuliforme ou central et 4 ‒ 5-lobé ou obconique et entier . Fleurs femelles et
-
-bisexuées généralement semblables aux fleurs mâles, mais à étamines libres en nombre
-
-réduit ou parfois à phalanges staminales réduites ; ovaire 2 ‒ 5( ‒ 12)-loculaire, à 1 ovule
-
----
-
-par loge et placentation apicale ; stigmate sessile ou subsessile, pelté , 2 ‒ 5-lobé ou en-
-
-tier. Fruits : baies à exocarpe lisse ou verruqueux, glabres ou pubérulentes. Graines 1 ‒ 4
-
-par fruit, entourées d’un tissu pulpeux , considéré parfois comme un arille.
-
-Genre groupant plus de 250 espèces à distribution pantropicale ; la plus grande diversité
-
-est observée en Asie tropicale et à Madagascar ; au Gabon 15 espèces indigènes ont été
-
-récoltées. Le mangoustan ( Garcinia mangostana L.) est parfois cultivé au Gabon pour
-
-ses fruits comestibles.
-
-Note taxonomique : Un échantillon récolté récemment, Stévart 3128 , pourrait bien repré-
-
-senter une nouvelle espèce, proche de G. xanthochymus Hook.f. Mais, comme le matériel
-
-est incomplet (ramille feuillé à un fruit seulement), nous n’avons pas souhaité la décrire
-
-pour le moment.
-
-Bi : Bamps (1970a), Bamps et al. (1978), Robson (1961), Sosef & Dauby
-
-B liographie
-
-(2012), Stevens (2007), Sweeney (2008).
-
-### Clé des espèces
-
-1. - Inflorescence très grande, souvent plus de 50 cm de longueur, pourvue de quelques
-
-longues ramifications simples, portant des glomérules espacés de petites fleurs
-
-blanches sessiles ; limbe luisant, (14 ‒ )25 ‒ 57 cm de longueur .................. G. lucida
-
-- Inflorescence beaucoup plus petite ; fleurs au moins brièvement pédicellées; limbe
-
-luisant ou non, généralement plus petit, jusqu’à 28( ‒ 35) cm de longueur ............. 2
-
-2. - Ramilles anguleuses, légèrement ou parfois fortement ailées ; pétioles ridés trans-
+2. - Branchlets angular, slightly or sometimes strongly winged; petioles transversely wrinkled
 
 ## Species in region
 

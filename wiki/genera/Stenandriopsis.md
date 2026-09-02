@@ -17,15 +17,13 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Herbaceous plants with glabrous inflorescences, terminal, spike-shaped; bracts toothed or not on the margins; bracteoles as long as the calyx or shorter. Calyx with five lanceolate, free, subequal sepals; the posterior sepal is somewhat wider and longer than the others and has only a single median nerve and a simple acicular point. Corolla white, pale lilac or violaceous, with a very long tube; limb with five subequal lobes regularly and stellately spread. Four didynamous stamens; anthers included, one-locular, hirsute along the connective.
 
-Plantes herbacées à inflorescences glabrcs, terminales, en forme d'épi; bractées dentées ou non sur les bords; bractéoles aussi longues que le calice ou plus courtes. Calice à cinq sépales lancéolées, libres, subégaux; le sépale postérieur est un peu plus large et long que les autres et n'a qu'une seule nervure médiane et une simple pointe aciculaire. Corolle blanche, lilas pâle ou vio-lacée, à tube très long; limbe à cinq lobes subégaux et régulièrement étalés, étoilés. Quatre étamines didynamics; anthères incluses, à une loge, hirsutes le long du connectif.
+Capsule compressed, with four seeds near the base dehiscent into two valves; seed coat tuberculate or verruculose-papillose.
 
-Capsule comprimée, avec quatre graines près de la base déhiscente en deux valves; test des graines tuberculé ou verruculeux-papilleux.
+Type species: Stenandriopsis Thompsonii S. Moore, from Madagascar.
 
-Espèce type : Stenandriopsis Thompsonii S. Moore, de Madagascar.
-
-Le genre fut considéré par son auteur en 1906 comme monotype. D'autres espèces malgaches ont été décrites en 1939 par R. Benoist, mais le genre ne comportait, jusqu'à la révision de cet auteur en 1943, aucune espèce du continent africain. À la suite de cette révision, le genre compta, en dehors de l'espèce type, sept autres espèces malgaches et deux espèces d'Afrique tropicales : St. guineensis (Nees) R. Benoist et St. afromontana (Mildbraed) R. Benoist, décrites antérieurement dans le genre Crossandra Salisb. — Une nouvelle révision des espèces de ces deux genres nous oblige à présenter les combinaisons taxinomiques suivantes en complément des espèces gabonaises traitées ci-dessous :
+The genus was considered by its author in 1906 as monotypic. Other Malagasy species were described in 1939 by R. Benoist, but the genus contained, until this author's revision in 1943, no species from the African continent. Following this revision, the genus comprised, apart from the type species, seven other Malagasy species and two species from tropical Africa: St. guineensis (Nees) R. Benoist and St. afromontana (Mildbraed) R. Benoist, described earlier in the genus Crossandra Salisb. — A new revision of the species of these two genera obliges us to present the following taxonomic combinations as a supplement to the Gabonese species treated below:
 
 Stenandriopsis Buntingii (S. Moore) Heine, comb. nov.
 

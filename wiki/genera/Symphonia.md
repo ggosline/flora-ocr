@@ -17,37 +17,13 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Trees or shrubs. Stipules present, in the form of a gland. Leaves opposite or subopposite; lamina coriaceous; secretory canals often superimposed on the lateral veins and scarcely visible. Inflorescences in sessile cymes, umbelliform or corymbiform, terminal on short lateral branchlets, with 1–several flowers. Flowers bisexual; sepals 5, imbricate, persistent; petals 5, contorted, caducous; disk extrastaminal, cupuliform, persistent; stamens fused into a tube surrounding the ovary, divided at the apex into 5 phalanges of 2–6 fused anthers, caducous; ovary 5-locular, with axile placentation and 1–12 ovules per locule; styles 5, concrescent at the base, then spreading-divergent, persistent. Fruits: berries with 1(–3) seeds and hard skin. Seeds with fibrillous aril; embryo thick.
 
-Arbres ou arbustes. Stipules présentes, sous forme d’une glande. Feuilles opposées ou
+Genus grouping 15 species endemic to Madagascar and one species with wide distribution present in tropical America and tropical Africa including Gabon.
 
-subopposées ; limbe coriace ; canaux sécréteurs souvent superposés aux nervures laté-
+Bibliography
 
-rales et peu visibles. Inflorescences en cymes sessiles, ombelliformes ou corymbiformes,
-
-terminales sur des rameaux courts latéraux , à 1 ‒ plusieurs fleurs. Fleurs bisexuées ;
-
-sépales 5, imbriqués, persistants ; pétales 5, contortés, caducs ; disque extrastaminal,
-
-cupuliforme, persistant ; étamines soudées en un tube entourant l’ovaire, divisé au
-
-sommet en 5 phalanges de 2 ‒ 6 anthères fusionnées, caduc ; ovaire 5-loculaire, à pla-
-
-centation axile et 1 ‒ 12 ovules par loge ; styles 5, concrescents à la base, puis éta-
-
-lés-divergents , persistants. Fruits : baies à 1( ‒ 3) graines et peau dure. Graines à arille
-
-fibrilleux ; embryon épais.
-
-Genre groupant 15 espèces endémiques à Madagascar et une espèce de large répartition
-
-présente en Amérique tropicale et en Afrique tropicale dont le Gabon.
-
-B : Bamps (1970a), Bamps et al. (1978), Pellegrin (1959), Robson (1961),
-
-i B liographie
-
-Stevens (2007).
+B: Bamps (1970a), Bamps et al. (1978), Pellegrin (1959), Robson (1961), Stevens (2007).
 
 ## Species in region
 

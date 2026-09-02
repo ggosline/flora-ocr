@@ -17,45 +17,23 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Philocrena Bong., Mém. Acad. Imp. Sci. Saint-Pétersbourg, sér. 6, Sci. Math., Seconde Pt. Sci. Nat. 1 :
+Philocrena Bong., Mém. Acad. Imp. Sci. Saint-Pétersbourg, sér. 6, Sci. Math., Seconde Pt. Sci. Nat. 1:
 
 80 (1835).
 
-Malaccotristicha C.Cusset & G.Cusset, Bull. Mus. natl. Hist. nat., sér. 4, Adansonia 10(2) : 174 (1988).
+Malaccotristicha C.Cusset & G.Cusset, Bull. Mus. natl. Hist. nat., sér. 4, Adansonia 10(2): 174 (1988).
 
-Herbes aquatiques, ressemblant à des mousses ; racines attachées aux rochers par des struc -
+Aquatic herbs, moss-like in appearance; roots attached to rocks by disciform structures; basal thalloid ribbon-like portion, bearing simple or branched stems.
 
-tures disciformes ; partie basale thalloïde rubanée, portant des tiges simples ou ramifiées.
+Leaves sessile, entire, oval, with a well-visible midvein, arranged in 3 ranks, ± spread on 2, appressed and ± imbricate on the last. Inflorescences axillary, with solitary flowers or sometimes in fascicles, without spathels, framed at the base by a cupule formed of 2 bracts larger than the leaves. Flowers pedicellate; tepals 3, fused over part of their length, scarious; stamen 1(–2), pollen in monads; ovary 3-locular; stigmas 3, filiform. Fruits with 9 ribs, dehiscent in 3 caducous valves.
 
-Feuilles sessiles, entières, ovales, avec une nervure médiane bien visible, disposées sur 3
+Genus with probably a single highly polymorphic species, present in America, Africa, Madagascar, the Mascarene Islands, and Australia.
 
-rangs, ± étalées sur 2, apprimées et ± imbriquées sur le dernier. Inflorescences axillaires, à
+Notes: The plants adapt very well to variations in environmental conditions. Indeed, unlike other species of Podostemaceae, individuals of the genus Tristicha adapt well to a significant decrease in current velocity, to more or less good stability of the substrate, as well as to significant silting.
 
-fleurs solitaires ou parfois en fascicules, sans spathelles , encadrées à la base par une cupule
+Bibliography
 
-formée de 2 bractées plus grandes que les feuilles . Fleurs pédicellées ; tépales 3, soudés
-
-sur une partie de leur longueur , scarieux ; étamine 1(–2), pollen en monades ; ovaire 3-locu -
-
-laire ; stigmates 3, filiformes. Fruits à 9 côtes, déhiscents en 3 valves caduques.
-
-Genre avec probablement une seule espèce très polymorphe, présente en Amérique, en
-
-Afrique, à Madagascar, aux Mascareignes et en Australie.
-
-Notes : Les plantes s’adaptent très bien aux variations des conditions du milieu. En effet, contrairement
-
-aux autres espèces de Podostemaceae, les individus du genre Tristicha s’adaptent bien à une baisse im -
-
-portante de la vitesse du courant, à la plus ou moins bonne stabilité du support, ainsi qu’à un envasement
-
-important.
-
-B : Cook & Rutishauser (2007), Cusset (1987b), Cusset & Cusset (1988a, 1988b), Hauman
-
-i B liographie
+B: Cook & Rutishauser (2007), Cusset (1987b), Cusset & Cusset (1988a, 1988b), Hauman
 
 (1948a), Rutishauser et al. (2007).
 

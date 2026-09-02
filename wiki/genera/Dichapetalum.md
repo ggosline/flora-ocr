@@ -17,15 +17,13 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-TYPE : D. madagascariense POIR.
+TYPE: D. madagascariense POIR.
 
 – Leucosia Thouars, l.c.: 23 (1806); Breteler, 73 (13): 37, 38 (1973).
 
-TYPE : L. thouarsiana RoEM. & SCHULT. = Dichapetalum leucosia (SPRENG.) ENGL.
+TYPE: L. thouarsiana RoEM. & SCHULT. = Dichapetalum leucosia (SPRENG.) ENGL.
 
-– Chailletia DC., l.c. 17 : 153 (1811); OLIVER, FTA 1 : 339 (1868); BRETELER, MLW 73 (13) : 3, 37, 38, 110 (1973); l.c. 79 (16) : 26 (1979); AUWP 86 (3) : 8, 9 (1986).
+– Chailletia DC., l.c. 17: 153 (1811); OLIVER, FTA 1: 339 (1868); BRETELER, MLW 73 (13): 3, 37, 38, 110 (1973); l.c. 79 (16): 26 (1979); AUWP 86 (3): 8, 9 (1986).
 
 TYPE: C. pedunculata DC. = Dichapetalum pedunculatum (DC.) BAILL.
 
@@ -35,19 +33,19 @@ TYPE: C. pedunculata DC. = Dichapetalum pedunculatum (DC.) BAILL.
 
 TYPE (lecto-): Dichapetalum kamerunense ENGL. = D. oblongum (HOOK. F. ex BENTH.) ENGL.
 
-– Icacinopsis ROBERTY, Bull. IFAN 15: 1420 fig. 6 (1953); Petite Flore de L'Ouest-Africain : 89 (1954); KEAY, FWTA, ed. 2, 1 (2): 433, 636 (1958); BRETELER, MLW 73 (13): 37, 82, 85 (1973).
+– Icacinopsis ROBERTY, Bull. IFAN 15: 1420 fig. 6 (1953); Petite Flore de L'Ouest-Africain: 89 (1954); KEAY, FWTA, ed. 2, 1 (2): 433, 636 (1958); BRETELER, MLW 73 (13): 37, 82, 85 (1973).
 
 TYPE: I. annonoides ROBERTY = Dichapetalum barteri ENGL.
 
-Lianes, arbustes lianescents ou non ou petits arbres à ramifications sympodiales et croissance par flush. Tiges montrant souvent des intrusions du phloème dans le cylindre ligneux. Branches creuses ou non, portant souvent des lenticelles éparses ou alignées verticalement.
+Lianes, lianescent shrubs or not or small trees with sympodial branching and growth by flush. Stems often showing phloem intrusions into the xylem cylinder. Branches hollow or not, often bearing scattered lenticels or aligned vertically.
 
-### Stipules caduques ou persistantes, entières ou diversement lobées ou divisées.
+### Stipules caducous or persistent, entire or variously lobed or divided.
 
-Feuilles, en disposition spiralée sur les pousses ortho-tropes, mais pseudo-distiques sur les axes plagiotropes, fortement réduites et même absentes sur les axes orthotropes de certaines lianes ; pétioles relativement courts ; limbe entier, pennatinerve, presque toujours muni, dessous le plus souvent, de glandes orbiculaires en général aplaties.
+Leaves in spiral arrangement on orthotropic shoots, but pseudo-distichous on plagiotrophic axes, strongly reduced and even absent on orthotropic axes of certain lianes; petioles relatively short; blade entire, pinnately nerved, almost always bearing, usually on the lower surface, orbicular glands generally flattened.
 
-Inflorescences axillaires, parfois disposées sur des axes aphylles axillaires ou terminaux ; cymes, soit nettement pédonculées et ramiﬁées, soit subsphériques et sessiles ou avec un pédoncule libre ou soudé au pétiole. Bractées et bractéoles le plus souvent pctitcs. Pédicelle presque toujours articulé (non articulé chez D. glomeratum, D. pulchrum ct D. trichocephalum), partie supérieure (= le pédicelle sens. str.) nulle à très distincte.
+Inflorescences axillary, sometimes arranged on axillary or terminal aphyllous axes; cymes, either clearly pedunculate and ramified, or subspherical and sessile or with a free or adnate peduncle to the petiole. Bracts and bracteoles usually small. Pedicel almost always articulate (non-articulate in D. glomeratum, D. pulchrum and D. trichocephalum), upper part (= the pedicel in the strict sense) absent to very distinct.
 
-Fleurs petites, actinomorphes, 5-mères, bisexuées chez les espèces africaines, blanchâtres à jaune pâle. Réceptacle plat ou légèrement concave. Sépales inégaux à subégaux, imbriqués, libres à courtemment soudés, formant rarement un tube. Pétales égaux alternisépales, de forme générale ± spatulée, base en principe aussi large que les filets, le plus souvent soudée à ceux-ci ; pétales rarement entièrement libres, bilobés à entiers, lobes plats ou concaves. Étamines 5, égales, épisé-pales ; anthères introrses s'ouvrant par des fentes longitudinales, connectif souvent fortement épaissi. Staminodes 5, épipétales, de forme variable, parfois réunis en une sorte de disque annulaire lobulé ou cupuliforme. Pistil 2-3 (4)-mère ; styles libres ou solidaires ; ovules, 2 par loge, anatropes pendants, raphé ventral, obturateur souvent présent.
+Flowers small, actinomorphic, 5-merous, hermaphrodite in African species, whitish to pale yellow. Receptacle flat or slightly concave. Sepals unequal to subequal, imbricate, free to shortly united, rarely forming a tube. Petals equal, alternating with the sepals, of generally ± spatulate form, base in principle as broad as the filaments, most often united to them; petals rarely entirely free, bilobed to entire, lobes flat or concave. Stamens 5, equal, epi-sepalous; anthers introrse opening by longitudinal slits, connective often strongly thickened. Staminodes 5, epipetalous, of variable form, sometimes united into a sort of lobulate or cupuliform annular disc. Pistil 2-3 (4)-merous; styles free or coherent; ovules, 2 per cell, anatropous pendulous, ventral raphe, obturator often present.
 
 ## Species in region
 

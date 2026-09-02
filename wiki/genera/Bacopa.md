@@ -17,61 +17,27 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Herbs annual or perennial, glabrous or rarely pubescent; stem creeping to erect, simple or little branched, rounded or quadrangular. Leaves opposite, sessile to subsessile; blade linear to lanceolate or ovate, sometimes triangular, obtusely to narrowly crenate or serrate or with entire margin; venation pinnate or palmate. Inflorescences in loose leafy raceme; each flower with 2 bracteoles or bracteoles absent. Flowers: calyx 4–5-lobed, with 3 ovate to broadly ovate lobes, the upper one larger, and 2 filiform to lanceolate lobes, or with 4 subequal lobes; corolla subrotate, upper lip bipartite, lower lip tripartite, without palate; stamens 4, didynamous, included, anthers with two equal thecae; ovary ovoid, glabrous; stigma bilobed. Fruits capsular, loculicidal or septicide-septifrague. Seeds with non-alveolate albumen.
 
-Herbes annuelles ou vivaces, glabres ou rarement pubescentes ; tige rampante à dressée,
+Pantropical genus comprising approximately 60 species, of which three in Gabon.
 
-simple ou peu ramifiée, arrondie ou quadrangulaire. Feuilles opposées, sessiles à subses-
+B: Fischer (1999, 2004), Ghazanfar et al. (2008).
 
-siles ; limbe linéaire à lancéolé ou ovale, parfois triangulaire, obtusément à étroitement
+### Key to the species
 
-crénelé ou serreté ou à marge entière ; nervation pennée ou palmée. Inflorescences en
+1. – Blade ovate to lanceolate, acuminate at the apex, with pinnate venation, with a distinct midvein; bracteoles present ................................................... B. crenata
 
-racème feuillé lâche ; chaque fleur à 2 bractéoles ou bractéoles absentes. Fleurs : calice
-
-4–5-lobé, à 3 lobes ovales à largement ovales, le supérieur plus grand, et 2 lobes
-
-filiformes à lancéolés, ou à 4 lobes subégaux ; corolle subrotacée , lèvre supérieure
-
-bipartite, lèvre inférieure tripartite, sans palais ; étamines 4, didynames, incluses, anthères
-
-à deux thèques égales ; ovaire ovoïde, glabre ; stigmate bilobé. Fruits capsulaires, loculi-
-
-cides ou septicides-septifrages. Graines à albumen non alvéolé.
-
-Genre pantropical comprenant environ 60 espèces, dont trois au Gabon.
-
-B : Fischer (1999, 2004), Ghazanfar et al. (2008).
-
-ibliographie
-
-### Clé des espèces
-
-1. - Limbe ovale à lancéolé, acuminé au sommet, à nervation pennée, avec une nervure
-
-médiane distincte ; bractéoles présentes ................................................... B. crenata
-
-- Limbe ovale à spatulé, obtus à subaigu au sommet, à nervation palmée ; bractéoles
-
-présentes ou absentes .............................................................................................. 2
+– Blade ovate to spatulate, obtuse to subacute at the apex, with palmate venation; bracteoles present or absent .............................................................................................. 2
 
 ---
 
-Étamine abaxiale. – E. Étamine adaxiale. – F. Gynécée. (A–F : Fischer 7634 ). Dessin par E. Fischer (©).
+Abaxial stamen. – E. Adaxial stamen. – F. Gynoecium. (A–F: Fischer 7634). Drawing by E. Fischer (©).
 
 ---
 
-2. - Sépales 4, subégaux ; bractéoles absentes ; feuilles à nervation distincte, à 5-7
+2. – Sepals 4, subequal; bracteoles absent; leaves with distinct venation, with 5–7 visible veins, wider in their upper part, irregularly crenate towards the apex .......................................................................................... B. egensis
 
-nervures visibles, plus larges dans leur partie supérieure, irrégulièrement crénelées
-
-vers le sommet .......................................................................................... B. egensis
-
-- Sépales 5, inégaux ; bractéoles 2, en dessous du calice ; feuilles à nervation
-
-indistincte, seulement la nervure médiane visible, plus larges au milieu, à marge
-
-entière ..................................................................................................... B. monnieri
+– Sepals 5, unequal; bracteoles 2, below the calyx; leaves with indistinct venation, only the midvein visible, wider in the middle, with entire margin ..................................................................................................... B. monnieri
 
 ## Species in region
 

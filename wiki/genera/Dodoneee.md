@@ -17,55 +17,53 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Sapindaceae with ovary containing 2 ovules per locule. Leaves simple or imparipinnate compound. Tree or shrubs with regular or irregular flowers, with or without petals; disc very reduced; ovary 2–3-locular. Capsule septicide or septifrage; seed without arille; embryo spiral.
 
-Sapindacées dont l'ovaire renferme 2 ovules par loge. Feuilles simples ou composées imparipennées. Arbre ou arbustes à fleurs régulières ou non, avec ou sans pétales; disque très réduit; ovaire 2-3-loculaire. Capsule septicide ou septifrage; graine sans arille; embryon spiralé.
+TYPE GENUS: Dodonæa L.
 
-GENRE-TYPE : Dodonæa L.
+This tribe comprises 3 genera localized in New Caledonia and Australia, and one pantropical genus Dodonæa.
 
-Cette tribu compte 3 genres localisés en Nouvelle Calédonie et en Australie, et un genre pantropical Dodonæa.
+### 22. DODONÆA Linné
 
-### 22. DODON/EA Linné
+Gen., ed. 1, Append. Octandria: 341 (1737); RADLK., in ENGL., Pflanzenreich, Sapindaceae: 1350 (1933).
 
-Gen., ed. 1, Append. Octandria : 341 (1737); RADLK., in ENGL., Pflanzenreich, Sapindacea : 1350 (1933).
+Trees, shrubs or small shrubs with the habit of heather, most often viscous-resinous. Leaves simple or pinnate, petiolate or subsessile.
 
-Arbres, arbustes ou arbrisseaux à port de bruyère, le plus souvent visqueux-résineux. Feuilles simples ou pennées, pétiolées ou subsessiles.
+Flowers regular, axillary or terminal, solitary or in simple or branched racemes; 3–7 sepals valvate, oval-triangular, glabrous or puberulent, soon reflexed, caducous; petals absent; disc inconspicuous; 5–8 stamens; ovary rounded with (2–) 3 (–4–6) ribs; style terminal, filiform. Capsule membranous or coriaceous with 2–6 locules; embryo spiral.
 
-Fleurs régulières, axillaires ou terminales, solitaires ou en grappes simples ou rameuses; 3-7 sépales valvaires, ovales triangulaires, glabres ou pubérulents, bientôt réfléchis, caducs; pétales nuls; disque peu marqué; 5-8 étamines; ovaire arrondi à (2-) 3 (-4-6) côtes; style terminal filiforme. Capsule membraneuse ou coriace à 2-6 loges; embryon spiralé.
+TYPE SPECIES: Dodonæa viscosa (L.) Jacq.
 
-ESPÊCE-TYPE : Dodonæa viscosa (L.) Jacq.
-
-Genre comptant plus de 50 espèces en Australie, 1 à Madagascar, 1 aux Iles Hawai et enfin une espèce pantropicale : D. viscosa.
+Genus comprising more than 50 species in Australia, 1 in Madagascar, 1 in the Hawaiian Islands and finally one pantropical species: D. viscosa.
 
 ### Dodonæa viscosa (Linné) Jacquin
 
-Enum. Pl. Carib. : 19 (1760); RADLK., in ENGL., Pflanzenreich, Sapindaceae : 1363 (1933). La synonymie occupe 4 pages de cet ouvrage.
+Enum. Pl. Carib.: 19 (1760); RADLK., in ENGL., Pflanzenreich, Sapindaceae: 1363 (1933). The synonymy occupies 4 pages of this work.
 
-Arbuste ou petit arbre de 3-5 m, glabre, visqueux, à écorce jaunâtre se détachant en lanières (LETOUZEY). Feuilles simples, ponctuées de glandes résineuses, à court pétiole, 2-10 mm, limbe lancéolé, variable, sur les dimensions duquel sont définies des formes et des variétés.
+Shrub or small tree 3–5 m tall, glabrous, viscous, with yellowish bark peeling off in strips (LETOUZEY). Leaves simple, dotted with resinous glands, with short petiole, 2–10 mm, blade lanceolate, variable, on the dimensions of which forms and varieties are defined.
 
 ---
 
-Inflorescence en grappe composée également les feuilles. Fleurs à pédicelle de 5-6 mm; sépales 3 mm, verdâtres; 8 étamines incluses, anthères jaunes, oblongues, apiculées, filet glabre très court. Capsule 2 cm, septifrage, à (2-) 3 (-4) ailes méridiennes larges de 3-4 mm. Graines ovoïdes, lenticulaires, avec caroncule coiffant l'empreinte radiculaire. PL. 40, 12-17", p. 175.
+Inflorescence a raceme, compound and also leafy. Flowers with pedicel 5–6 mm; sepals 3 mm, greenish; 8 stamens included, anthers yellow, oblong, apiculate, filament glabrous very short. Capsule 2 cm, septifrage, with (2–) 3 (–4) meridian wings 3–4 mm broad. Seeds ovoid, lenticular, with caruncle capping the radical hilum. PL. 40, 12–17", p. 175.
 
-### Bentham distingue 3 variétés (Fl. Austr. 1 : 476, 1863) :
+### Bentham distinguishes 3 varieties (Fl. Austr. 1: 476, 1863):
 
-— var. viscosa, la plus répandue. Limbe de 8-12 × 3-4 cm.
+— var. viscosa, the most widespread. Blade 8–12 × 3–4 cm.
 
-— var. angustifolia, d'Afrique du Sud. Limbe 7-9 × 0,5-1 cm.
+— var. angustifolia, from South Africa. Blade 7–9 × 0.5–1 cm.
 
-— var. spathulata, d'Afrique orientale et de Guinée. Limbe spatulé.
+— var. spathulata, from East Africa and Guinea. Blade spatulate.
 
-MATÉRIEL CAMEROUNAIS ÉTUDIÉ :
+CAMEROONIAN MATERIAL STUDIED:
 
-Letouzey 7008, Mokolo, cultivé, ornamental (fl., fr., sept.).
+Letouzey 7008, Mokolo, cultivated, ornamental (fl., fr., Sept.).
 
 SRFCam 19281, s.l. (fr., 1969).
 
-MATÉRIEL GABONAIS ÉTUDIÉ :
+GABONESE MATERIAL STUDIED:
 
 Duparquet s.n., (fl., fr., 1864).
 
-Gilles 42, Pointe Denis (fr., janv.).
+Gilles 42, Pointe Denis (fr., Jan.).
 
 Griffon du Bellay 16 (fl., 1863).
 

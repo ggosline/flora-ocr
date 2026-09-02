@@ -16,21 +16,17 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 ### C. B. Clarke, Bull. Misc. Inform. Kew 1906 : 251 (1906).
 
-Arbrisseaux à feuilles allongées entières.
+Shrubs with elongate entire leaves.
 
-Inflorescences en épis lâches, un peu velus, à 10 fleurs munies de petites bractées elliptiques et de 2 bractéoles beaucoup plus grandes. Calice divisé jusqu'à la base en 4 sépales; le supérieur ovale, à apex bipartite; l'inférieur elliptique entier, les 2 latéraux plus courts linéaires. Corolle petite, à tube cylindrique; limbe unilabé,
+Inflorescences in lax, somewhat hairy spikes, with 10 flowers bearing small elliptic bracts and 2 much larger bracteoles. Calyx divided to the base into 4 sepals; the upper one ovate, with bipartite apex; the lower one entire elliptic, the 2 lateral ones shorter linear. Corolla small, with cylindric tube; limb unilabiate,
 
----
+<<<---SECTION-BREAK--->>>
 
----
+exceeding the calyx; 4 stamens, with very short and slightly pubescent filament, with unilocular anther. Fruit small, glabrous, fusiform-rostrate, transversely furrowed when dry.
 
-dépassant le calice; 4 étamines, à filet très court et légèrement pubescent, à anthère uniloculée. Fruit petit, glabre, fusiforme-rostré, transversalement sillonné à sec.
-
-Genre monotypique.
+Monotypic genus.
 
 ## Species in region
 

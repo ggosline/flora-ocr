@@ -16,19 +16,17 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Epiphytic ferns, with long-creeping, scaly rhizome. Petiole generally articulate. Fronds pinnate, with pinnae articulate to the rachis. Veins free. Midvein prominent. Sori dorsal, terminal on the veins, rounded, with reniform or rounded indusium. Spores oblong, with perispore.
 
-Fougères épiphytes, à rhizome longuement rampant, écailleux. Pétiole généralement articulé. Frondes pennées, à pennes articulées au rachis. Nervures libres. Nervure médiane proéminente. Sores dorsaux, terminaux sur les nervures, arrondis, à indusie réniforme ou arrondie. Spores oblongues, à périspore.
+Type species: Arthropteris tenella (Forster) J. Sm.
 
-Espèce type : Arthropteris tenella (Forster) J. Sm.
-
-Une vingtaine d'espèces, d'Arabie à Madagascar, Luzon, Fidji, Nouvelle-Guinée, Nouvelle-Calédonie; 2 espèces au Gabon.
+About twenty species, from Arabia to Madagascar, Luzon, Fiji, New Guinea, New Caledonia; 2 species in Gabon.
 
 ---
 
-1. Penne terminale semblable aux latérales, à base supérieure auriculée, inférieure oblique..... I. A. Palisoti.
+1. Terminal pinna similar to the lateral ones, with upper base auriculate, lower base oblique..... 1. A. Palisoti.
 
-1'. Extrémité de la fronde pinnatifide : pennes latérales à bases égales ou subégales, présence de glandes calcaires blanches à la face supérieure du limbe..... 2. A. orientalis.
+1'. Frond apex pinnatifid: lateral pinnae with equal or subequal bases, presence of white calcareous glands on the upper surface of the blade..... 2. A. orientalis.
 
 ## Species in region
 

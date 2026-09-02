@@ -17,19 +17,13 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Tree with young branchlets clothed in stellate hairs. Leaves simple, entire, penninerved, opposite; stipules intrapetiolar, connate, caducous.
 
-Arbre à jeunes rameaux vêtus de poils étoilés . Feuilles simples, entières,
+Inflorescences terminal in panicles; bracts caducous. Flower with pubescent pedicel. Sepals 5, imbricate, orbicular to elliptic. Petals 5, imbricate, longer than the sepals. Stamens 10, all fertile, alternately short and long, inserted within a tube approximately 2 mm high. Anthers versatile, introrse, with longitudinal dehiscence, apiculate. Ovary densely pubescent; style bifid at the apex; stigmas 2, capitate.
 
-penniverves, opposées; stipules intrapétiolaires, soudées, caduques.
+Capsules with lateral dehiscence, monospermatous.
 
-Inflorescences terminales en panicules; bractées caduques. Fleur à pédicelle pubescent. Sépales 5, imbriqués, orbiculaires à elliptiques. Pétales 5, imbriqués, plus longs que les sépales. Etamines 10, toutes fertiles, alternativement courtes et longues, s'insérant à l'intérieur d'un tube haut d'env. 2 mm. Anthères versatiles, introrses, à déhiscence longitudinale, apiculées. Ovaire densément pubescent; style bifide au sommet; stigmates 2, capités.
-
-Capsules à déhiscence latérale, monospermes.
-
-Espécies-SYNTYPES : C. parvifolius Oliv. et C. grandifolius Oliv., de Malaisie.
-
----
+Syntypic species: C. parvifolius Oliv. and C. grandifolius Oliv., from Malaysia.
 
 ## Species in region
 

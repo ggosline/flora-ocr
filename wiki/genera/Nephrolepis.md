@@ -16,25 +16,21 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Terrestrial or epiphytic plants, stoloniferous, with short, erect, non-articulate stem. Fronds close together, pubescent or glabrous, pinnate. Pinnae articulate, dimidiate. Veins free, midvein prominent on the upper surface. Sori terminal on the veins, dorsal or marginal, rounded or elongate along the margins. Sporangium with interrupted annulus. Spores bilateral.
 
-Plantes terrestres ou épiphytes, stolonifères, à tige courte, dressée, non articulée. Frondes rapprochées, pubescentes ou glabres, pennées. Pennés articulées, dimidiées. Nervures libres, nervure médiane proéminente à la face supérieure. Sores terminaux sur les nervures, dorsaux ou marginaux, arrondis ou allongés le long des marges. Sporange à anneau interrompu. Spores bilaterales.
+Type species: Nephrolepis exaltata (L.) Schott.
 
-Espèce type : Nephrolepis exaltata (L.) Schott.
+About thirty pantropical species.
 
-Une trentaine d'espèces pantropicales.
+1. Sori rounded.
 
-1. Sores arrondis.
-
-2. Indusie à sinus étroit, s'ouvrant vers la marge de la penne; pennes généralement de plus de 1 cm de large; frondes atteignant 2 m.
+2. Indusium with narrow sinus, opening toward the margin of the pinna; pinnae generally more than 1 cm wide; fronds reaching 2 m.
 
 1. N. biserrata.
 
-2'. Indusie à sinus large, s'ouvrant vers le sommet de la penne; pennes étroites..... 2. N. undulata.
+2'. Indusium with wide sinus, opening toward the apex of the pinna; pinnae narrow..... 2. N. undulata.
 
-1'. Sores allongés, réunissant plusieurs nervures, ou continus tout autour des pennes..... 3. N. acutifolia.
-
----
+1'. Sori elongate, joining several veins, or continuous all around the pinnae..... 3. N. acutifolia.
 
 ## Species in region
 

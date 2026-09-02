@@ -17,53 +17,23 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Herbs to subshrubs glabrous. Stipules free, persistent, deeply laciniate.
 
-Herbes à suffrutex glabres. Stipules libres, persistantes, profondément laciniées .
+Leaves sessile to petiolate; blade herbaceous, with serrate margin. Inflorescences terminal or axillary, in the form of panicles or racemes or with fascicled or solitary flowers.
 
-Feuilles sessiles à pétiolées ; limbe herbacé, à marge serretée. Inflorescences terminales
-
-ou axillaires, sous forme de panicules ou racèmes ou à fleurs fasciculées ou solitaires.
-
-Fleurs actinomorphes, (4–)5-mères ; sépales imbriqués, persistants, mais non élargis en
-
-fruit ; pétales à préfloraison contortée , caducs, blancs à roses ; étamines 5, anthères
-
-déhiscentes par fentes longitudinales ; staminodes en (1–)2 verticilles, les internes pé-
-
-taloïdes , les externes filiformes à sommet arrondi, deltoïde ou réniforme ; ovaire incom -
-
-plètement 3-loculaire, à placentation pariétale et nombreux ovules ; style unique, simple,
-
-stigmate non élargi. Fruit capsulaire, à 3 valves . Graines albuminées, à testa alvéolé ;
-
-cotylédons égaux.
+Flowers actinomorphic, (4–)5-merous; sepals imbricate, persistent, but not enlarged in fruit; petals with contorted prefloration, caducous, white to pink; stamens 5, anthers dehiscing by longitudinal slits; staminodes in (1–)2 whorls, the inner ones petaloid, the outer ones filiform with rounded, deltoid or reniform apex; ovary incompletely 3-locular, with parietal placentation and numerous ovules; style unique, simple, stigma not enlarged. Fruit capsular, with 3 valves. Seeds albuminous, with alveolate testa; cotyledons equal.
 
 ---
 
-Sauvagesia compte autour de 40 espèces, la plupart en Amérique du Sud, trois en Asie et
+Sauvagesia comprises around 40 species, most in South America, three in Asia and two in Africa and Gabon.
 
-deux en Afrique et au Gabon.
+Bibliography: Amaral & Bittrich (2014), Bamps & Farron (1967), Robson (1963), Sastre (1971), Verdcourt (2005).
 
-b : Amaral & Bittrich (2014), Bamps & Farron (1967), Robson (1963),
+### Key to the species
 
-ibliographie
+1. - Upper blades progressively narrower; flowers grouped at the apex of stems, in uniparious cymes or sometimes solitary; staminodes in 1 whorl, petaloid ................................................................................................. S. africana
 
-Sastre (1971), Verdcourt (2005).
-
-### Clé des espèces
-
-1. - Limbes supérieurs progressivement plus étroits ; fleurs groupées au sommet des
-
-tiges, en cymes unipares ou parfois solitaires ; staminodes en 1 verticille,
-
-pétaloïdes ................................................................................................. S. africana
-
-- Limbes tous de la même largeur ; fleurs solitaires ou rarement fasciculées par 2
-
-ou 3 ; staminodes en 2 verticilles, les internes pétaloïdes, les externes filiformes, à
-
-sommet réniforme à triangulaire ................................................................. S. erecta
+- Blades all of the same width; flowers solitary or rarely fascicled by 2 or 3; staminodes in 2 whorls, the inner ones petaloid, the outer ones filiform, with reniform to triangular apex ................................................................. S. erecta
 
 ## Species in region
 

@@ -14,8 +14,6 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 10.1 alata, p. 36.
 
 10.2 gossweileri, p. 38.

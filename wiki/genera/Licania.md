@@ -16,31 +16,17 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 ### subg. Afrolicania (Mildbraed) F. white & Prance, comb. et stat. nov.
 
 — Afrolicania MILDBR., Notizbl. Bot. Gart. Mus. Berlin 7 : 483 (1921).
 
-Arbre dioique. Panicules terminales, grêles et multiflores.
+Dioecious tree. Terminal panicles, slender and multiflorous.
 
-Fleurs petites, actinomorphes; hypanthe étalé faiblement concave; sépales 5, imbriqués subvalvaires, tomentelleux et persistants; pétales 0; étamines 20 en général, insérées sur la marge du réceptacle, courbées vers le centre de la fleur et plus courtes que les sépales, 5 alternisépales et 15 par
+Flowers small, actinomorphic; hypanthium spreading weakly concave; sepals 5, imbricate subvalvate, tomentellous and persistent; petals 0; stamens 20 in general, inserted on the margin of the receptacle, curved toward the center of the flower and shorter than the sepals, 5 alternisepalous and 15 in groups of 3 oppositisepalous, with small semiglob­ose anthers; small subglobose ovary, sessile at the base of the hypanthium, unilocular, containing 2 basilar collateral ascending ovules; filiform gynobasic style, somewhat longer than the ovary, stigma slightly trilobed; staminate flowers with pistillode absent or styliform.
 
----
+Fruit ovoid with crustaceous and fragile pericarp in the dry state, covered internally with an arachnose pubescent layer, monospermous; seed erect filling the locule, with membranous testa, with thick, fleshy and oleaginous cotyledons, strongly concave, connate by their margin and forming a fairly large cavity; germination obturator absent.
 
-groupes de 3 oppositisépales, à petites anthères semiglobuleuses; petit ovaire subglobuleux, sessile au fond de l'hypanthe, uniloculaire, renfermant 2 ovules basilaires collatéraux ascendants; style filiforme gynobasique, un peu plus long que l'ovaire, stigmate légèrement trilobé, fleurs mâles à pistillode nul ou styliforme.
-
-Fruit ovoïde à péricarpe crustacé et fragile à l'état sec, recouvert inté-
-
-rieurement d'un revêtement pubescent aranéeux, monosperme; graine
-
-dressée remplissant la loge, à tégument membraneux, à cotylédons épais,
-
-charnus et oléagineux, fortement concaves, connés par leur bord et formant
-
-une cavité assez grande; obturateur de germination absent.
-
-Le genre Licania Aubl. (Hist. Pl. Guiane Fr. 1 : 119, tab. 45, 1775) groupe quelque 150 espèces d'Amérique centrale et méridionale tropicales, 1 espèce asiatique (L. splendens Prance & Kost.) et enfin 1 espèce africaine (L. elæosperma) qui est considérée comme appartenant à un sous-genre monospéciﬁque, bien individualisé et caractérisé par l'unisexualité de ses fleurs, la forme du réceptacle, la morphologie des cotylédons, l'anatomie du bois.
+The genus Licania Aubl. (Hist. Pl. Guiane Fr. 1 : 119, tab. 45, 1775) groups together some 150 species from tropical Central and South America, 1 Asian species (L. splendens Prance & Kost.) and finally 1 African species (L. elæosperma) which is considered to belong to a monospecific subgenus, well individualized and characterized by the unisexuality of its flowers, the form of the receptacle, the morphology of the cotyledons, the anatomy of the wood.
 
 ## Species in region
 

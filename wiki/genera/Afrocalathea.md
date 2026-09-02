@@ -16,13 +16,11 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Perennial herbs with rhizome emitting very short stems bearing a number of leafless imbricate sheaths then 1 or 2 very long-petioled leaves.
 
-Herbes pérennes à rhizome émettant des tiges très courtes portant un certain nombre de gaines aphylles imbriquées puis 1 ou 2 feuilles très longuement pétolées.
+Spiciform inflorescences, arising separately and directly from the rhizome, more or less long-pedunculate, with a few sterile imbricate bracts at the base. Fertile bracts abaxial distichous, subtending two to three biflorous cymes each borne by a bicarinate adaxial bract. Flowers subsessile on a very short common peduncle; bracteoles absent. Flowers with linear sepals, corolla tubular at the base. Two large external staminodes, petaloid. Ovary trilocular with uniovulate locules. Fruit ?
 
-Inflorescences spiciformes, naissant séparément et directement sur le rhizome, plus ou moins longuement pédonculées, avec quelques bractées stériles imbriquées à la base. Bractées fertiles abaxiales distiques, axillant deux à trois cymes biflores portées chacune par une bractée adaxiale bicarénée. Fleurs subsessiles sur un pédoncule commun très court ; bractéoles absentes. Fleurs à sépales linéaires, corolle tubulaire à la base. Deux staminodes externes grands, pétaloïdes. Ovaire triloculaire à loges uniovulées. Fruit ?
-
-Une seule espèce des régions congolaises et camerounaises.
+A single species from Congolese and Cameroonian regions.
 
 1. Afrocalathea rhizantha (K. Schum.) K. Schum. (Pl. XXX p. 143)
 
@@ -30,29 +28,23 @@ Une seule espèce des régions congolaises et camerounaises.
 
 = Calathea rhizantha K. Schum. Bot. Jahrb. 15 : 433 (1892).
 
-Rhizome rampant, noueux, feuilles solitaires ou par 2 avec un pétiole atteignant une cinquantaine de centimètres. Callus de 3 à 5 cm, en continuité avec le pétiole, le passage à la nervure médiane marqué à la face supérieure par un décrochement en forme de V. Limbe atténué au sommet et vers la base, légèrement assymétrique, jusqu'à environ 35 × 10 cm.
+Rhizome creeping, knotty, leaves solitary or in pairs with a petiole reaching about fifty centimetres. Callus of 3 to 5 cm, continuous with the petiole, the transition to the midvein marked on the upper surface by a V-shaped depression. Blade attenuate at the apex and towards the base, slightly asymmetric, up to approximately 35 × 10 cm.
 
-Racèmes de 8-15 cm, avec des entre-nœuds d'environ 25 mm, pédoncule jusqu'à une dizaine de centimètres. Bractées glabres, de 30 × 10 mm. Pédoncule commun de fleurs de 3-4 mm. Fleurs blanches. Sépales linéaires, acuminés, de 10-12 mm, corolle à tube de ± 15 mm; les lobes atteignent 20 mm. Staminodes
+Racemes of 8–15 cm, with internodes of approximately 25 mm, peduncle up to about ten centimetres. Bracts glabrous, of 30 × 10 mm. Common peduncle of flowers of 3–4 mm. Flowers white. Linear sepals, acuminate, of 10–12 mm, corolla with tube of ± 15 mm; the lobes reach 20 mm. External staminodes and callous staminode of about thirty millimetres,
 
----
+the others of 10–15 mm long. Ovary pubescent.
 
-externes et staminode calleux d'une trentaine de millimètres,
+Type: Soyaux 84, Gabon (B, not seen).
 
-les autres de 10-15 mm de long. Ovaire pubescent.
+Plant of the forest understory, known from Gabon and Cameroon.
 
-Type : Soyaux 84, Gabon (B, non vu).
+Material studied for Gabon:
 
-Plante du sous-bois de la forêt dense, connue du Gabon et du Cameroun.
+Klaine: 3558, Mont Bouet, Libreville; 33, env. of Libreville.
 
-Matériel étudié pour le Gabon :
+Chevalier: 27048, Alédjo, Ramboué.
 
-Klaine : 3558, Mont Bouet, Libreville ; 33, env. de Libreville.
-
-Chevalier : 27048, Alédjo, Ramboué.
-
-Le Testu : 1910, Tchibanga; 5042, Moundou, Haute-Ngounyé; 7708, Liyanga, Lastoursville.
-
----
+Le Testu: 1910, Tchibanga; 5042, Moundou, Haute-Ngounyé; 7708, Liyanga, Lastoursville.
 
 ## Species in region
 

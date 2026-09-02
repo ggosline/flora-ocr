@@ -16,27 +16,21 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Filiform rhizome, extensively creeping. Frond with ultimate segments uninerved; no false veins. Sori with
 
-Rhizome filiforme, longuement rampant. Fronde avec des
+indusium divided into 2 valves, entire or dentate; receptacle generally included.
 
-segments ultimes uninerviés; pas de fausses nervures. Sores à
+Type species: H. tunbridgense (L.) Sm.
 
----
+In the broad sense approximately 300 species, mostly tropical.
 
-indusie divisée en 2 valves, entières ou dentées; réceptacle généralement inclus.
+1. Frond glabrous, margin entire (Mecodium)..... I. H. Kühnii.
 
-Espèce type : H. tunbridgense (L.) Sm.
+1'. Frond bearing stellate hairs (Sphaerocionium).
 
-Au sens large environ 300 espèces, surtout tropicales.
+2. Stellate hairs only on the veins and margins; frond 5–15 cm..... 2. H. hirsutum.
 
-1. Fronde glabre, marge entière (Mecodium)..... I. H. Kühnii.
-
-1'. Fronde portant des poils stellés (Sphaerocionium).
-
-2. Poils stelles seulement sur les nervures et les marges; fronde de 5-15 cm..... 2. H. hirsutum.
-
-2'. Poils stelles aussi sur le parenchyme; fronde atteignant 30 cm.
+2'. Stellate hairs also on the parenchyma; frond reaching 30 cm.
 
 3. H. splendidum.
 

@@ -16,49 +16,31 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 in Hook., Icon. pl. sér. 3, 14 : t. 1393 (1882).
 
-Arbres ou arbustes . Stipules entières, tôt caduques . Feuilles penninervées. Inflores -
+Trees or shrubs. Stipules entire, early caducous. Leaves penninerved. Inflorescences axillary, in the form of racemes or spikes or else flowers in compound racemes/spikes at the apex of the branches. Flowers subsessile to briefly pedicellate; sepals glabrous to hairy on the outside, glabrous on the inside; petals thin, caducous; disc glabrous; ovary globose depressed, densely hairy. Fruits ± trigonous in section, with glossy valves. Seeds oblong, trigonous in section.
 
-cences axillaires, en forme de racèmes ou épis ou bien fleurs en racèmes/épis composés à
-
-l’extrémité des rameaux. Fleurs subsessiles à brièvement pédicellées ; sépales glabres à
-
-poilus à l’extérieur , glabres à l’intérieur ; pétales minces , caducs ; disque glabre ; ovaire
-
-globuleux déprimé, densément poilu . Fruits ± trigones en section , à valves luisantes .
-
-Graines oblongues, trigones en section.
-
-Genre africain à 8 espèces, répandu dans l’Afrique de l’Ouest et Centrale jusqu’au Gabon
-
-où 2 espèces sont connues et une imparfaitement.
+African genus with 8 species, distributed in West and Central Africa up to Gabon where 2 species are known and one imperfectly.
 
 ---
 
-Note taxonomique : Le disque est probablement issu d’un verticille de staminodes, tom -
+Taxonomic note: The disc is probably derived from a whorl of staminodes, falling entirely with or shortly after the stamens.
 
-bant entièrement avec ou peu de temps après les étamines.
+B: Bayer (2007), Brenan (1954), Breteler et al. (submitted).
 
-B : Bayer (2007), Brenan (1954), Breteler et al. (soumis).
+Bibliography
 
-ibliographie
+### Key to species
 
-### Clé des espèces
+1. - Sepals entirely pubescent on their outer surface ......................... S. sp. (nov. ?)
 
-1. - Sépales entièrement pubescents sur leur face externe ......................... S. sp. (nov. ?)
+- Sepals glabrous or partially pubescent on their outer surface, at least glabrous on their margins (the edge may be ciliate) .................................................................. 2
 
-- Sépales glabres ou partiellement pubescents sur leur face externe, au moins glabres
+2. - Pedicel 2–5(–7) mm; limb with midvein glabrous above ....... S. glabrescens
 
-sur leur marges (le bord peut être cilié) .................................................................. 2
+- Flower sessile or with pedicel 0.5–1.5 mm; limb with midvein pubescent above
 
-2. - Pédicelle 2–5(–7) mm ; limbe à nervure médiane glabre dessus ....... S. glabrescens
-
-- Fleur sessile ou à pédicelle de 0,5–1,5 mm ; limbe à nervure médiane pubescente
-
-dessus .................................................................................................. S. gabonensis
+.................................................................................................. S. gabonensis
 
 ## Species in region
 

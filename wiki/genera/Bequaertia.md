@@ -17,23 +17,21 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Glabrous liane with rubber filaments. Cross-section of old wood with dentate crenate outline. Leaves opposite, petiolate. Stipules extra-petiolar. Blade dentate.
 
-Liane glabre à filaments de caoutchouc. Coupe du vieux bois à contour denté crénelé. Feuilles opposées pétiolées. Stipules extra-pétiolaires. Limbe denté.
-
-Inflorescences axillaires en cymes dichotomes sans fleurs surnuméraires ni rameaux supplémentaires. Petites bractées opposées aiguës per-
+Inflorescences axillary in dichotomous cymes without supernumerary flowers or supplementary branches. Small opposite acute bracts per-
 
 ---
 
-PL. 73. – Hippocratea myriantha Oliv. : 1, poils d'inflorescence ; 2, 3, jeune bouton et bouton ; 4, fleur, diam. 4 mm ; 5, sépale face externe et interne ; 6, disque juvenile, diam. 0,9 mm ; 7, coupe de disque, diam. 1 mm ; 8-10, étamine ; 11, coupe d'ovaire ; 12, 13, loges ouvertes ; 14, réceptacle de fruit démantelé ; 15-21, méricarpes et valves longs de 58-95 mm ; 22, coupe transversale de méricarpe en vue frontale ; 24-29, tubulures placentaires longues de 3-5 mm ; 30-34, graines longues de 4-7 cm ; 35, embryon de 25 mm et coupe montrant les cotylédons séparés (1, 3, 16, 18-20, 22, 23, 27-29, 35, Hallé N. IA 3559, Côte-d'Ivoire ; 2, 5, 11-13, Fotius 3072 ; 14, 17, 25, 33, Klaine 1128 ; 15, 21, 24, 26, 31, 34, De Wilde W.c.s. 1424 ; 30, 32, Klaine 163).
+PL. 73. – Hippocratea myriantha Oliv. : 1, inflorescence hairs ; 2, 3, young bud and bud ; 4, flower, diam. 4 mm ; 5, sepal external and internal face ; 6, juvenile disc, diam. 0.9 mm ; 7, cross-section of disc, diam. 1 mm ; 8-10, stamen ; 11, cross-section of ovary ; 12, 13, open locules ; 14, dismantled fruit receptacle ; 15-21, mericarps and valves 58-95 mm long ; 22, transverse cross-section of mericarp in frontal view ; 24-29, placental tubes 3-5 mm long ; 30-34, seeds 4-7 cm long ; 35, embryo 25 mm and cross-section showing separated cotyledons (1, 3, 16, 18-20, 22, 23, 27-29, 35, Hallé N. IA 3559, Ivory Coast ; 2, 5, 11-13, Fotius 3072 ; 14, 17, 25, 33, Klaine 1128 ; 15, 21, 24, 26, 31, 34, De Wilde W.c.s. 1424 ; 30, 32, Klaine 163).
 
 ---
 
-sistantes. Bouton large et court. Calice à 5 pétales quinconciaux, petits. Corolle très charnue ne s'étalant pas ; 5 pétales juxtaposés à la base, inégaux imbriqués latéralement, non couvrants entre eux au sommet du bouton. Disque nul. Androcée de 3 étamines courtes, connées à la base, extorses, à anthère transversalement déhiscente. Pollen en tétrades calmnées de 4 monades tricolporées. Ovaire glabre, triloculaire demi-enfoncé. Style nul. Stigmate à 3 lobes oppositipétales. 6-8(12) ovules bisériés par loge.
+isting. Bud broad and short. Calyx with 5 quincuncial petals, small. Corolla very fleshy not spreading ; 5 petals juxtaposed at the base, unequal laterally imbricate, not overlapping each other at the apex of the bud. Disc absent. Androecium of 3 short stamens, connate at the base, extrorse, with transversely dehiscent anther. Pollen in calmnate tetrads of 4 tricolporate monads. Ovary glabrous, trilocular half-immersed. Style absent. Stigma with 3 lobes opposite to the petals. 6-8(12) biseriate ovules per locule.
 
-Fruit à 3 méricarpes déhiscents en 6 valves caduques. Graines ailées à raphé transalaire insérées sur des étuis funiculaires. Embryon à radicule saillante et à cotylédons non soudés contenant du caoutchouc.
+Fruit with 3 mericarps dehiscent into 6 caducous valves. Seeds winged with transalary raphe inserted on funicular sheaths. Embryo with prominent radicle and non-fused cotyledons containing rubber.
 
-Genre monotypique dédié au naturaliste belge, le Dr. J. BEQUAERT, éminent récolteur au Mayombe et au Ruwenzori des années 1910-1920.
+Monotypic genus dedicated to the Belgian naturalist, Dr. J. BEQUAERT, eminent collector in the Mayombe and Ruwenzori in the years 1910-1920.
 
 ## Species in region
 

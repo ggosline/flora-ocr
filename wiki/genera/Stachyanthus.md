@@ -17,23 +17,17 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Lianes or lianescent shrubs, dioecious. Inflorescences in spikes or racemes, cauline fascicled, on cushions. ♂ Flowers penta- or hexamerous, with cupuliform calyx, with valvate petals, with stamens bearing longitudinal dehiscence slits. ♀ Flowers similar to ♂ flowers, with a unilocular ovary and a discoid stigma. Drupe ellipsoid with crustaceous verrucose endocarp ± smooth on the inner face.
 
-Lianes ou arbustes lianescents dioïques. Inflorescences en épis ou en grappes, caulinaires fasciculées, sur des coussinets. Fleurs ♂ penta- ou hexamères, à calice cupuliforme, à pétales valvaires, à étamines à fentes de déhiscence longitudinales. Fleurs ♀ semblables aux fleurs ♂, avec un ovaire uniloculaire et un stigmate discoïde. Drupe ellipsoïde à endocarpe crustacé verruqueux ± lisse à la face interne.
+Type species: S. zenkeri Engler.
 
-Espèce-type : S. zenkeri Engler.
+This genus endemic to Africa contains 6 species, of which 2 are present in Cameroon and none in Gabon.
 
-Ce genre endémique africain renferme 6 espèces dont 2 sont présentes au Cameroun et aucune au Gabon.
+1. Limb base rounded; petals pubescent externally..... 1. S. zenkeri.
 
-1. Base du limbe arrondie; pétales pubescents extérieurement..... 1. S. zenkeri.
-
-1'. Base du limbe cunéiforme ou atténuée; pétales glabres extérieurement.....
+1'. Limb base cuneiform or attenuate; petals glabrous externally.....
 
 ..... 2. S. cuneatus.
-
----
-
----
 
 ## Species in region
 

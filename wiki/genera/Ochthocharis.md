@@ -17,23 +17,17 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Shrubby, branched, erect plants; branches terete; leaves petiolate.
 
-Arbrisseaux ramifiés, dressés; rameaux arrondis; feuilles pétiolées.
+Inflorescences sometimes axillary, in terminal, biporous cymes with reduced bracts, in African species. Flowers 5-merous; calyx short, entire to sinuate; corolla exposed before anthesis. Stamens homomorphic, in 2 whorls, of ± unequal size in African species; anthers ± sigmoid, attenuate, in perigynous position in the bud; podoconnective short, anterior appendage entire then emarginate, posterior spur short. Ovary adnate to the hypanthium for half its height; free part conical, grooved by compression from the stamens; style sigmoid, stigma finely capitate; placentas stipitate on the lower half of the axis, free part ascending.
 
-Inflorescences parfois axillaires, en cymes terminales, bipares, à bractées réduites, chez les espèces africaines. Fleurs 5-mères; calice court, entier à sinué; corolle découverte avant l'anthèse. Étamines homomorphes, en 2 verticilles, de taille ± inégale chez les espèces africaines; anthères ± sigmoïdes, atténuées, en position périgyne dans le bouton; pédoconnectif court, appendice antérieur entier puis émarginé, éperon postérieur court. Ovaire adhérent à l'hypanthe sur la moitié de sa hauteur; partie libre conique, cannelée par pression des étamines; style sigmoïde, stigmate finement capité; placentas stipités sur la moitié inférieure de l'axe, partie libre ascendante.
+Fruit dry, globose, with irregular dehiscence. Seeds laterally compressed, broadly obtriangular through extension of the raphe; hilum punctiform, brown persistent aril; embryo straight.
 
-Fruit sec, globuleux, à déhiscence irrégulière. Graines comprimées latéralement, largement obtriangulaires par extension du raphé; hile punctiforme, arille brune persistante; embryon droit.
+### Chromosome number (O. dicellandroides): n = 12 (FAVARGER).
 
-### Nombre chromosomesique (O. dicellandroides) : n = 12 (FAVARGER).
+TYPE SPECIES: Ochthocharis javanica Bl., Java.
 
-ESPÈCE-TYPE : Ochthocharis javanica Bl., Java.
-
-Genre afro-asiatique, de sept espèces environ, dont deux seulement en Afrique : l'une endémique du Liberia; l'autre, plus largement répandue, est présente au Gabon.
-
----
-
----
+Afro-Asiatic genus of about seven species, of which only two occur in Africa: one endemic to Liberia; the other, more widely distributed, is present in Gabon.
 
 ## Species in region
 

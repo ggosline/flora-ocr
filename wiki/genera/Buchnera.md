@@ -17,61 +17,35 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Herbes annuelles ou pérennes, hémiparasites , généralement scabres et rigides ; tiges
-
-prostrées, ascendantes ou dressées, quadrangulaires ou arrondies. Feuilles caulinaires ou
-
-en rosette basale , opposées, mais subopposées ou alternes dans l’inflorescence, sessiles
+Herbs annual or perennial, hemiparasitic, generally scabrous and rigid; stems prostrate, ascending or erect, quadrangular or rounded. Cauline leaves or in basal rosette, opposite, but subopposite or alternate in the inflorescence, sessile
 
 ---
 
 ---
 
-Gynécée. (A–D : Louis 10935 ). Dessin par E. Fischer (©).
+Gynoecium. (A–D: Louis 10935). Drawing by E. Fischer (©).
 
 ---
 
-ou courtement pétiolées ; limbe filiforme ou linéaire-lancéolé à ovale ou orbiculaire, acuminé
+or shortly petiolate; blade filiform or linear-lanceolate to ovate or orbicular, acuminate or obtuse at the apex, with entire or dentate margin. Inflorescences racemose in form, leafy or bearing bracts. Flowers sessile or with short pedicel: bracteoles generally present; calyx tubular, with 10 nerves or ridges, 4- or 5-dentate, glabrous or pilose to hispid-scabrous or glandular; corolla blue, violet, purple, pink or whitish to yellowish, tube cylindrical, slender, curved or arched, with 5 subequal lobes, without palate; stamens 4, included, with unilcular anthers, dorsifixed; ovary ovoid; style short, stigma clavate or bilobed. Fruits capsular, septicidal. Seeds numerous, with reticulate testa.
 
-ou obtus au sommet, à marge entière ou dentée. Inflorescences en forme de racème, feuil-
+Genus of about 100 species in South America, Africa (about 70 species) and Asia; three species in Gabon.
 
-lées ou munies de bractées . Fleurs sessiles ou à pédicelle court : bractéoles généralement
+B: Hepper (1963), Mielcarek (1996), Philcox (1990).
 
-présentes ; calice tubuleux, à 10 nervures ou crêtes, 4- ou 5-denté, glabre ou pileux à hispide-
+Bibliography
 
-scabre ou glanduleux ; corolle bleue, violacée, pourpre, rose ou blanchâtre à jaunâtre,
+### Key to species
 
-tube cylindrique, grêle, courbé ou arqué, à 5 lobes subégaux, sans palais ; étamines 4,
-
-incluses, à anthères uniloculaires, dorsifixes ; ovaire ovoïde ; style court, stigmate en massue
-
-ou bilobé. Fruits capsulaires, septicides. Graines nombreuses, à testa réticulé.
-
-Genre d’environ 100 espèces en Amérique du Sud, Afrique (environ 70 espèces) et Asie ;
-
-trois espèces au Gabon.
-
-B : Hepper (1963), Mielcarek (1996), Philcox (1990).
-
-ibliographie
-
-### Clé des espèces
-
-1. - Inflorescence cylindrique, lâche, peu ramifiée, 7–25 cm de longueur
+1. - Inflorescence cylindrical, lax, little branched, 7–25 cm in length
 
 ........................................................................................................... B. leptostachya
 
-- Inflorescence globuleuse, dense, jusqu’à 4,5 cm de longueur ................................ 2
+- Inflorescence globose, dense, up to 4.5 cm in length ................................ 2
 
-2. - Lobes du calice égaux ; bractées acuminées au sommet ; corolle blanchâtre à
+2. - Calyx lobes equal; bracts acuminate at the apex; corolla whitish to yellowish, with tube of ± 3.5 mm in length ................................................ B. capitata
 
-jaunâtre, à tube de ± 3,5 mm de longueur ................................................ B. capitata
-
-- Lobes du calice inégaux ; bractées aiguës au sommet ; corolle mauve à bleu
-
-violacé, à tube de ± 10 mm de longueur .......................................... B. paucidentata
+- Calyx lobes unequal; bracts acute at the apex; corolla mauve to violet-blue, with tube of ± 10 mm in length .......................................... B. paucidentata
 
 ## Species in region
 

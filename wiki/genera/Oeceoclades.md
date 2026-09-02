@@ -17,23 +17,21 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Small to medium-sized plants, terrestrial or epiphytic. Pseudobulbs crowded, with a single node, ovoid to fusiform. Leaves at the apex of the pseudobulbs, 1–3, generally petiolate, lanceolate, elliptic or oblong. Inflorescence at the base of the pseudobulbs, unbranched, generally many-flowered. Sepals and petals dissimilar in shape and size. Lip three-lobed, with one or two calli at the base. Spur cylindric, pendulous. Column foot short, stout, prominent. Gynosteme rather stout, arched. Pollinia 2, semi-ellipsoid, forked. Rostellum elongate. Tegula oblong. Viscidium rounded. – Pl. 136, p. 309.
 
-Plantes petites à moyennes, terrestres ou épiphytes. Pseudobulbes serrés, à un seul nœud, ovoïdes à fusiformes. Feuilles au sommet des pseudobulbes, 1-3, généralement pétiolées, lancéolées, elliptiques ou oblongues. Inflorescence à la base des pseudobulbes, non ramifiée, généralement multiflore. Sépales et pétales de forme et de taille non semblables. Labelle trilobé, avec un ou deux callus à la base. Éperon cylindrique, pendant. Pied de la colonne court, massif, saillant. Gynostème assez massif, arqué. Pollines 2, semi-ellipsoïdes, fourchues. Rostellum allongé. Tegula oblongue. Viscidie arrondie. – Pl. 136, p. 309.
+Genus of about 30 species widely distributed in tropical and subtropical Africa, Madagascar, the Mascarene Islands, the Seychelles, in
 
-Genre d'environ 30 espèces largement distribuées en Afrique tropicale et subtropicale, à Madagascar, aux Mascareignes, aux Seychelles, en
+<<<---SECTION-BREAK--->>>
 
----
+PL. 135. – Ansellia africana Lindl.: A, general view; B, C, lip; D, dorsal sepal; E, petal; F, lateral sepal (A–D, Fleury 26421, P; E–F, Le Testu 3752, P).
 
-PL. 135. – Ansellia africana Lindl.: A, vue générale ; B, C, labelle ; D, sépale dorsal ; E, pétale ; F, sépale latéral (A-D, Fleury 26421, P; E-F, Le Testu 3752, P).
+<<<---SECTION-BREAK--->>>
 
----
+Australasia, the Pacific Islands, South America, the Bahamas and the Antilles.
 
-# Australasie, dans les îles du Pacifique, en Amérique du Sud, aux Bahamas et aux Antilles.
+1. Pseudobulbs one-leaved, lip with 2 divergent keels at the base 27. 1. O. maculata
 
-1. Pseudobulbes unifoliés, labelle avec 2 carènes divergentes à la base 27. 1. O. maculata
-
-1'. Pseudobulbes à 2 ou 3 feuilles, labelle avec un callus central unique, papilleux, au sommet et à la base ..... 27. 2. O. saundersiana
+1'. Pseudobulbs with 2 or 3 leaves, lip with a single central callus, papillose, at the apex and base ..... 27. 2. O. saundersiana
 
 ## Species in region
 

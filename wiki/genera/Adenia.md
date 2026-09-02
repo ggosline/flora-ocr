@@ -17,71 +17,23 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Perennial lianes, herbaceous to woody, generally dioecious, rarely monoecious or polygamous, furnished with axillary tendrils, simple or branched. Stipules narrowly triangular or reniform, often quickly caducous, sometimes absent. Leaves: petiole with 1 spatulate gland or 2 auriculate glands at the apex; lamina simple to palmatifid. Inflorescences axillary, cymose, the central flower often replaced by a tendril; bracts and bracteoles very small, triangular or subulate. Flowers unisexual; pedicel articulate at the base. Male flowers campanulate to tubular or broadly cylindric, glabrous; hypanthium cupuliform or tubular; sepals (4–)5(–6), free or partially connate into a tube; petals (4–)5(–6), free, reduced, shorter and narrower than the sepals, often laciniate or fimbriate; corona present or absent, in one whorl, variable, glands of the hypanthium 5 or absent; stamens (4–)5(–6), hypogynous or perigynous, filaments free or partially connate into a tube, anthers basifixed, oblong, often apiculate; ovary rudimentary (pistillode). Female flowers smaller than the males; otherwise as the male flowers but staminodes + subulate; ovary often briefly stipitate (gynophore), with 3(–5) placentas, ovules generally numerous; styles 3(–5), free or connate, stigmas broad, of variable shape, papillose or laciniate. Fruits capsular, + elongately stipitate, with 3(–5) valves; pericarp coriaceous to woody, smooth or verrucose. Seeds numerous, enveloped by a thin or sometimes fleshy aril, with foveolate testa, the pits counted along an imaginary meridian line.
 
-Lianes vivaces, herbacées à ligneuses, généralement dioïques , rarement monoïques ou
+Genus of tropical regions of the Old World, with approximately 95 species of which approximately 60 in Africa and 7 in Gabon.
 
-polygames, pourvues de vrilles axillaires, simples ou ramifiées. Stipules étroitement
+**Bibliography**
 
-triangulaires ou réniformes, souvent rapidement caduques, parfois absentes. Feuilles :
+De Wilde (1971, 1975), Feuillet & Macdougal (2007), Hutchinson & Dalziel (1954), Robyns (1995), Zepernick & Timler (1984).
 
-pétiole à 1 glande spatulé ou 2 glandes auriculées au sommet ; limbe simple à palma-
+### Key to the species
 
-tilobé. Inflorescences axillaires, cymeuses, la fleur centrale souvent remplacé par une
+1. – Lamina deeply 3-lobed, with peltate base; flower large, approximately 3.5 cm in length, tubular, no glands on the petiole, only on the lamina .............. A. staudtii
 
-vrille ; bractées et bractéoles très petites, triangulaires ou subulées. Fleurs unisexuées ;
+– Lamina not or weakly 3–5-lobed, not peltate, with one or two glands at the insertion of the lamina; flower < 2 cm in length ........................................................................ 2
 
-pédicelle articulé à la base. Fleurs mâles campanulées à tubuleuses ou largement cylin-
+2. – Apex of petiole with 1 ± spatulate gland ................................................................. 3
 
-driques, glabres ; hypanthium cupuliforme ou tubuleux ; sépales (4–)5(–6), libres ou par-
-
-tiellement connés en un tube ; pétales (4–)5(–6), libres, réduits, plus courts et étroits que
-
-les sépales, souvent laciniés ou fimbriés ; couronne présente ou non, à un verticille ,
-
-variable, glandes de l’hypanthium 5 ou absentes ; étamines (4–)5(–6), hypogynes ou péri-
-
-gynes, filets libres ou partiellement connés en un tube, anthères basifixes, oblongues,
-
-souvent apiculées ; ovaire rudimentaire (pistillode). Fleurs femelles plus petites que les
-
-mâles ; autrement comme les fleurs mâles mais staminodes + subulés ; ovaire souvent
-
-brièvement stipité ( gynophore ), à 3(–5) placentas, ovules généralement nombreux ; styles
-
-3(–5), libres ou connés, stigmates larges, de forme variable, papilleux ou laciniés. Fruits
-
-capsulaires, + longuement stipitées, à 3(–5) valves ; péricape coriace à ligneux, lisse ou
-
-verruqueux. Graines nombreuses, enveloppées par un arille mince ou parfois charnu, à
-
-testa fovéolé, les fossettes sont comptées le long une ligne imaginaire méridienne.
-
-Genre des régions tropicales de l’Ancien Monde, avec environ 95 espèces dont environ
-
-60 en Afrique et 7 au Gabon.
-
-b : De Wilde (1971, 1975), Feuillet & Macdougal (2007), Hutchinson &
-
-ibliographie
-
-Dalziel (1954), Robyns (1995), Zepernick & Timler (1984).
-
-### Clé des espèces
-
-1. - Limbe profondément 3-lobé, à base peltée ; fleur large, environ 3,5 cm de longueur,
-
-tubuleuse, pas de glandes sur le pétiole, seulement sur le limbe .............. A. staudtii
-
-- Limbe non ou faiblement 3–5-lobé, non pelté, à une ou deux glandes à l’insertion
-
-du limbe ; fleur < 2 cm de longueur ........................................................................ 2
-
-2. - Sommet du pétiole à 1 glande ± spatulé ................................................................. 3
-
-- Sommet du pétiole à 2 glandes disposées sur des auricules non spatulées .............. 6
-
----
+– Apex of petiole with 2 glands arranged on non-spatulate auricles .............. 6
 
 ## Species in region
 

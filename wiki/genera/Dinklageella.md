@@ -17,13 +17,11 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Stem elongate, entirely leafy. Leaves bilobed at the apex, coriaceous. Inflorescence axillary. Flowers medium-sized or small, resupinate. Sepals and petals subsimilar. Labellum distinctly trilobed, lateral lobes spreading. Spur of variable size. Stigma relatively small, elliptic, deeply concave. Rostellum rather massive, thick, fleshy, ligulate, obtuse. Viscidium single, large, very thick and fleshy. Tegula large, rather thin. Remains of rostellum forked, lobes acute, massive. – Pl. 191, p. 411.
 
-Tige allongée, entièrement feuillée. Feuilles bilobées au sommet, coriaces. Inflorescence axillaire. Fleurs de taille moyenne ou petites, résupinées. Sépales et pétales subsemblables. Labelle nettement trilobé, lobes latéraux étalés. Éperon de taille variable. Stigmate relativement petit, elliptique, profondément concave. Rostellum assez massif, épais, charnu, ligulé, obtus. Viscidie unique, grande, très épaisse et charnue. Tegula grande, assez mince. Restes du rostellum fourchus, lobes aigus, massifs. – Pl. 191, p. 411.
+1. Labellum trilobed just above the middle, median lobe truncate . . . . 44.2. D. villiersi
 
-1. Labelle trilobé juste au-dessus du milieu, lobe médian tronqué . . . . 44.2. D. villiersi
-
-1'. Labelle trilobé juste au-dessus de la base, lobe médian aigu ou obtus
+1'. Labellum trilobed just above the base, median lobe acute or obtuse
 
 ## Species in region
 

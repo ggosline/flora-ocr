@@ -17,71 +17,33 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Trees with stilt roots; latex sparse, often present, clear to brown. Stipules present or absent. Leaves generally ± clustered at the branch tips; blade with entire or sometimes wavy margin. Inflorescences globose, enveloped by free and imbricate bracts, the male with several flowers, the female with a single or exceptionally a few flowers. Flowers monoecious, without disk, 4–5-merous. Male flower ± sessile; calyx gamosepalous or sepals more or less free; petals present or absent; stamens 4–6(–8), free; pistillode present. Female flower: calyx gamosepalous; petals absent or very rarely a few present; ovary 3- or 5-locular, glabrous or pubescent; styles 3 or 5, palmatilobed. Fruits subglobose to ellipsoid, fleshy, with 3–5 pyrenes, each with a single seed.
 
-Arbres à racines-échasses ; latex peu fourni souvent présent, clair à brun. Stipules pré -
+Genus widespread in tropical Africa, including Madagascar, with 28–30 species, nine of which occur in Gabon.
 
-sentes ou absentes . Feuilles en général ± en touffes aux extrémités des rameaux ;
+b: Breteler (2012a, b), Keay (1958), Pax & Hoffman (1922).
 
-limbe à marge entière ou parfois ondulée. Inflorescences globuleuses , enveloppées par
+Bibliography
 
-des bractées libres et imbriquées , les mâles à plusieurs fleurs, les femelles à une seule
+### Key to species
 
-ou exceptionnellement à quelques fleurs. Fleurs monoïques, sans disque , 4–5 mères.
+1. - Stipules absent or obsolete, 0.5–2(–6) mm long, stipular scars absent or obsolete .............................................................................................. 2
 
-Fleur mâle ± sessile ; calice gamosépale ou sépales plus ou moins libres ; pétales présents
+- Stipules present, well-differentiated, (3–)4–15(–80) mm long, caducous or fairly long-persistent, stipular scars prominent ................................ 7
 
-ou absents ; étamines 4–6(–8), libres ; pistillode présent. Fleur femelle : calice gamosé -
+2. - Young branchlets glabrous or at most with a few hairs at the leaf axils .... 3
 
-pale ; pétales absents ou très rarement quelques-uns présents ; ovaire 3- ou 5-loculaire,
+- Young branchlets pubescent to puberulent, hairs at least axillary and/or around or on the sides of the base of petioles (plate 27F) ................................................. 4
 
-glabre ou pubescent ; styles 3 ou 5, palmatilobés. Fruits subglobuleux à ellipsoïdes, char -
+3. - Blade papyraceous to coriaceous, 9–10 × 4–5 cm, generally shortly (≤ 0.5 cm) acuminate (plate 27A); inflorescence ≤ 10 mm in diameter ............ U. acuminata
 
-nus, à 3–5 pyrènes à une seule graine.
-
-Genre répandu en Afrique tropicale, y compris Madagascar, avec 28–30 espèces dont
-
-neuf au Gabon.
-
-b : Breteler (2012a, b), Keay (1958), Pax & Hoffman (1922).
-
-ibliographie
-
-### Clé des espèces
-
-1. - Stipules absentes ou obsolètes, de 0,5–2(–6) mm de longueur, cicatrices stipulaires
-
-absentes ou obsolètes .............................................................................................. 2
-
-- Stipules présentes, bien distinctes, de (3–)4–15(–80) mm de longueur, caduques ou
-
-assez longtemps persistantes, cicatrices stipulaires marquées ................................ 7
-
-2. - Jeunes rameaux glabres ou au plus avec quelques poils à l’aisselle des feuilles .... 3
-
-- Jeunes rameaux pubescents à pubérulents, poils au moins axillaires et/ou autour ou
-
-sur les côtés de la base des pétioles (planche 27F) ................................................. 4
-
-3. - Limbe papyracé à coriace, 9–10 × 4–5 cm, en général courtement ( ≤ 0,5 cm)
-
-acuminé (planche 27A) ; inflorescence ≤ 10 mm de diamètre ............ U. acuminata
-
-- Limbe rigide, très coriace, (14–)16–23(–42) × 6–8(–14) cm, le plus souvent obtus à
-
-rétus au sommet (planche 27B) ; inflorescence (1,5–)2–4 cm de diamètre
+- Blade rigid, very coriaceous, (14–)16–23(–42) × 6–8(–14) cm, most often obtuse to retuse at the apex (plate 27B); inflorescence (1.5–)2–4 cm in diameter
 
 ................................................................................................................. U. pynaertii
 
-4. - Ramilles sans touffes de poils rouges frisés, si pileuses, les poils de couleur
+4. - Ramules without tufts of crisp red hairs, if pilose, the hairs of different colour and not distinctly tufted ..................................................................... 5
 
-différente et non nettement en touffes ..................................................................... 5
-
-- Ramilles à touffes de poils rouges frisés, à l’aisselle des feuilles et souvent aussi
-
-latéralement à la base des pétioles (planche 27F) ; arbre des bords de rivière,
-
-souvent partiellement dans l’eau .......................................................... U. heudelotii
+- Ramules with tufts of crisp red hairs, at the leaf axils and often also laterally at the base of petioles (plate 27F); tree of riverbanks, often partially in water .......................................................... U. heudelotii
 
 ## Species in region
 

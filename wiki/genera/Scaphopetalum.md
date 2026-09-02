@@ -17,41 +17,37 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Shrubs or small trees provided with stipules. Leaves alternate; shortly petiolate, with entire elliptic blade. Lateral veins pinnate with a basal pair.
 
-Arbustes ou arbrisseaux pourvus de stipules. Feuilles alternes ; courtement pétiolées, à limbe entier elliptique. Nervures latérales pennées avec une paire basilaire.
+Inflorescence few- or many-flowered, axillary or cauline, briefly contracted subfasciculate, or more or less elongately pedunculate, sometimes very slenderly so. Bracteoles small, acute; often 3 small prefolia on the pedicel. Floral bud globulose, angular or not, with calyx concealing the corolla.
 
-Inflorescence pauci- ou pluriflore, axillaire ou caulinaire, brièvement contractée subfasciculée, ou plus ou moins longuement pédonculée, parfois de façon très grêle. Bractéoles petites, aiguës; souvent 3 petites préfeuilles sur le pédicelle. Bouton globuliforme, anguleux ou non, à calice masquant la corolle.
+Flower ∇ yellow, white, red or violaceous. Calyx with 5 variable sepals, sometimes more or less connate with each other. Petals cucullate dorsally convex, with more or less angular apex. Stamens connate in a wide membranous funnel or collar basally fused to the petals, with pentagonal outline, bearing at the angles 5 aggregates of sessile anthers; each aggregate is capped by a petal and ordinarily comprises 6 pollen sacs, i.e. 3 anthers; the collar is more or less dentate in short staminodes between the groups of anthers. Ovary superior oblong, sessile, often pubescent, with 5 locules few- or multiovulate; ovules biseriate sometimes superposed. Style single narrow, erect.
 
-Fleur ∇ jaune, blanche, rouge ou violacée. Calice à 5 sépales variables, parfois plus ou moins soudés entre eux. Pétales cucullés dorsalement convexes, à sommet plus ou moins anguleux. Étamines connées en un large entonnoir membraneux ou collerette soudée basalement aux pétales, à contour pentatonal, portant aux angles 5 agrégats d'anthères sessiles; chaque agrégat est coiffé par un pétale et comprend ordinairement 6 loges polliniques soit 3 anthères; la collerette est plus ou moins dentée en courts staminodes entre les groupes d'anthères. Ovaire supère oblong, sessile, souvent pubescent, à 5 loges pauci ou multiovulées; ovules bisériés parfois superposés. Style unique étroit, dressé.
+Fruit capsular dehiscent, adorned with ridges, pustules or horns.
 
-Fruit capsulaire déhiscent, orné de rides, pustules ou cornes.
+Seeds provided with an aril, few in number in each locule.
 
-Graines pourvues d'une arille, peu nombreuses dans chaque loge.
+The Scaphopetalum are forest understory plants of the dense forests of Africa. Their distribution reaches westward to Liberia, eastward to the Yangambi region in Belgian Congo, and southward to the limits of Mayombe. About twenty species have been described; this number could be reduced by more than a third.
 
-Les Scaphopetalum sont des plantes de sous-bois des forêts denses d'Afrique. Leur répartition atteint vers l'ouest le Libéria, vers l'est la région de Yangambi au Congo ex Belge, et vers le sud les limites du Mayombe. Une vingtaine d'espèces ont été décrites; ce nombre pourrait être réduit de plus d'un tiers.
-
-Cinq espèces sont connues du Gabon. Le Sc. zenkeri K. Schum., seulement cité dans la clef, et connu du Cameroun,
+Five species are known from Gabon. Sc. zenkeri K. Schum., only cited in the key, and known from Cameroon,
 
 ---
 
-n'a pas encore été récolté au Gabon; la présence de cette espèce est possible dans la région du Woleu-Ntem.
+has not yet been collected in Gabon; the presence of this species is possible in the Woleu-Ntem region.
 
-Espèce type : Scaphopetalum blackii.
+Type species: Scaphopetalum blackii.
 
-(feuilles, inflorescences et fleurs.)
+(leaves, inflorescences and flowers.)
 
-1. Feuille ornée, vers la base du limbe, d'un renflement en ampoule;
+1. Leaf adorned, toward the base of the blade, with a flask-shaped swelling; extremities rather villous..... 1. Sc. thonneri.
 
-extrémités plutôt velues..... 1. Sc. thonneri.
+1'. Leaf not presenting the preceding character; extremities puberulent or glabrescente.
 
-1'. Feuille ne présentant pas le caractère précédent; extrémités pubérulentes ou glabrescentes.
+2. Inflorescences axillary, not situated on the trunk of the plant, subfasciculate or short; flowers always less than 15 mm diam.
 
-2. Inflorescences axillaires, non situées sur le tronc de la plante, subfasciculées ou courtes; fleurs toujours inférieures à 15 mm de diam.
+3. Calyx with valvate sepals; floral bud polygonal; midvein prominent on the upper side of the blade..... Sc. zenkeri.
 
-3. Calice à sépales valvés; bouton floral polygonal; nervure médiane en relief sur le dessus du limbe..... Sc. zenkeri.
-
-3'. Calice à sépales soudés; bouton floral globuliforme apiculé; nervure médiane généralement en dépression sur le dessus du limbe..... 2. Sc. blackii.
+3'. Calyx with connate sepals; floral bud globulose apiculate; midvein generally in depression on the upper side of the blade..... 2. Sc. blackii.
 
 ## Species in region
 

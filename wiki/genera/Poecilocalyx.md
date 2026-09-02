@@ -17,27 +17,23 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Small shrubs with vertical stems reaching 1–2 m, with horizontal branches, with pubescent internodes, with simple or plurifid stipules, pubescent. Leaves ± pubescent, at least on the veins and petiole. 7–15 pairs of lateral veins regularly arcuate. Limb ± olivaceous when dried. Foliar domatia apparently absent.
 
-Petits arbrisseaux à tige verticale atteignant 1-2 m, à rameaux horizontaux, à entrenœuds pubescents, à stipules simples ou plurifides, pubescentes. Feuilles ± pubescentes, au moins sur les nervures et le pétiole. 7-15 paires de nervures latérales régulièrement arquées. Limbe ± olivacé en herbier. Domaties foliaires paraissant absentes.
+The axillary pseudoumbelliform inflorescences, uni-, pauci- or pluriflorous, are short, villous, with microarticulate hairs. Bracteate involucre 4–6 lobed, pubescent, biverticillate or only partially doubled by bracteate pieces inserted around the flowers. 5(6–7) laminate calycine lobes, ovate, elliptic or spatulate, green, veined and ⊥ pubescent. Bud pubescent at the apex of the corolla; the latter presents 5(6) valvate lobes scarcely or not exceeding the calyx, with strong internal pubescence at the level of the androecium. 5 oblong anthers, ⊥ arcuate bilocular, with very brief prominent mucro, mediodorsifixed; pedicel scarcely 0.5 mm. Pubescent style; ⊥ convex fleshy disc, ⊥ ornamented with radiating furrows, sometimes micropubérulent. Ovary with (2)4–5 locules. Placentas deeply emarginate with V-shaped insertion. Numerous subspherical seeds, reticulate-fossulate sometimes slightly echinulate, ca. 0.5 mm diam., albuminous. Small straight embryo.
 
-Les inflorescences axillaires pseudombelliformes, uni, pauci ou pluriflore, sont courtes, velues, à poils microarticulés. Involucre bractéal 4-6 lobé, pubescent, biverticillé ou seulement partiellement doublé par des pièces bractéales insérées autour des fleurs. 5(6-7) lobes calycinaux laminés, ovés, elliptiques ou spatulés, verts, nervurés et ⊥ pubescents. Bouton pubescent au sommet de la corolle; celle-ci présente 5 (6) lobes valvaires dépassant peu ou pas le calice, à pubescence interne forte au niveau de l'androcée. 5 anthères oblongues, ⊥ arquées biloculaires, à très bref mucron saillant, médidorsifixe; pédicelle ayant à peine 0,5 mm. Style pubescent; disque charnu ⊥ bombé, ⊥ orné de sillons rayonnants, parfois micropubérulent. Ovaire à (2)4-5 loges. Placentas profondément échancrés à insertion en V. Nombreuses graines subsphériques, réticulées-fossulées parfois un peu échinulées, d'env. 0,5 mm de diam., albuminées. Petit embryon droit.
+Genus of 4 species, only two known from Gabon. It is very probable that the type species P. Schumannii Bremek., from South Cameroon (as far as the left bank of the Ntem south of Ambam, J. and A. Raynal 10076), will one day be collected in Gabon. In its original conception, this type species presents rather variable forms. Another species from Liberia and western Côte-d'Ivoire remained for a long time confused with Urophyllum or Pauridiantha because of its ovaries with only 2 locules; this is Poecilocalyx stipulosa (Hutch. and Dalz.) N. Hallé (Adansonia 4: 238, 1964).
 
-Genre de 4 espèces dont deux seulement connues au Gabon. Il est très probable que l'espèce-type P. Schumannii Bremek., du Sud Cameroun (jusqu'à la rive gauche du Ntem au sud d'Ambam, J. et A. Raynal 10076), sera un jour récoltée au Gabon. Dans sa conception originale, cette espèce-type présente des formes assez variables. Une autre espèce du Liberia et de Côte-d'Ivoire occidentale est restée longtemps confondue avec Urophyllum ou Pauridiantha du fait de ses ovaires à 2 loges seulement, c'est le Poecilocalyx stipulosa (Hutch. et Dalz.) N. Hallé (Adansonia 4 : 238, 1964).
+<<<---SECTION-BREAK--->>>
 
----
+### KEY TO POECILOCALYX SPECIES
 
----
+1. Stipules pluri- or multifid; calyx with 5–7 lanceolate lobes 5–6 × 2–3 mm, hirsute pubescent externally; ovary with 4–5 locules clothed with long hairs; upper surface of limb glabrous (typical form) or pubescent; secondary veins 11–12 pairs (typical form) or only 8–10 pairs. P. Schumannii (pl. 49)
 
-### PFEICILOCALYX : CLÉ DES ESPÈCES
+1'. Stipules with a single very acute apex; calyx with 5 lobes; 7–10(11) pairs of secondary veins.
 
-1. Stipules pluri ou multifides; calice à 5-7 lobes lancéolés de 5-6 × 2-3 mm, pubescents hirsutes extérieurement; ovaire à 4-5 loges vêtu de poils longs; face supérieure du limbe glabre (forme typique) ou pubescente; nervures secondaires 11-12 paires (forme typ.) ou seulement 8-10 paires. P. Schumannii (pl. 49
+2. Upper surface of limb glabrous; sepals ovate, almost glabrous externally; ovary clothed with short hairs (less than 0.5 mm); 7–8 pairs of secondary veins..... 1. P. crystallinus.
 
-1'. Stipules à un seul sommet très aigu; calice à 5 lobes; 7-10 (11) paires de nervures secondaires.
-
-2. Dessus du limbe glabre; sépales ovés, presque glabres extérieurement; ovaire revêtu de poils courts (moins de 0,5 mm); 7-8 paires de nervures sec..... 1. P. crystallinus.
-
-2'. Dessus du limbe pubescent; sépales elliptiques ± spatulés, hir-
+2'. Upper surface of limb pubescent; sepals elliptic ± spatulate, hir-
 
 ## Species in region
 

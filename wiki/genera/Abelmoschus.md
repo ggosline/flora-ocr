@@ -17,53 +17,17 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Annual or biennial herbs, erect, generally strongly branched; stem often tinged with red. Stipules filiform, covered with stiff hairs. Leaves spiral; petiole very long; blade palmatifid to palmatipartite in 3, 5 or 7 segments, cordate at the base; veins 5–9, with simple stiff hairs on both faces. Flowers solitary, axillary or in terminal raceme by reduction of terminal leaves; epicalyx of 5–18 free segments, caducous after anthesis, covered with stiff hairs; calyx tubulous, foliaceous, persistent and splitting longitudinally after anthesis; corolla wide; stamen tube bearing anthers almost to the base; ovary 7–12-locular, carpels pluriovulate, style with 5–12 branches. Fruits capsular, loculicidal, oblong, angular, acute-acuminate, truncate at base. Seeds globular to ovoid, with minute excrescences in concentric rows.
 
-Herbes annuelles ou bisannuelles, érigées, en général fortement ramifiées ; tige souvent
+Genus with 15 species, close to – and in the past often united with – Hibiscus, native to Southeast Asia, but now pantropical as a result of frequent introductions, followed by escapes from cultivation; two species in Gabon.
 
-teintée de rouge . Stipules filiformes, couvertes de poils raides. Feuilles en spirale ; pé-
+B: Bayer & Kubitzki (2003), Hauman (1963), Siemonsma (1991), Siemonsma & Kouamé (2004), Verdcourt (2009).
 
-tiole très long ; limbe palmatilobé à palmatipartite en 3, 5 ou 7 segments, cordé à la base ;
+### Key to species
 
-nervures 5 ‒ 9, à poils simples raides sur les deux faces. Fleurs solitaires, axillaires ou
+1. - Epicalyx (calyculus) segments 5–10, oval to oblong, 4–13 mm wide; fruit ovoid to cylindric ............................................................................ A. caillei
 
-en grappe terminale par réduction des feuilles terminales ; épicalice en 5 ‒ 18 segments
-
-libres, caducs après la floraison, couverts de poils raides ; calice tubuleux, foliacé, per-
-
-sistant et se fendant longitudinalement après l’anthèse ; corolle large ; tube staminal
-
-pourvu d’anthères presque jusqu’à la base ; ovaire 7 ‒ 12-loculaire , carpelles pluriovulés,
-
-style à 5 ‒ 12 branches. Fruits capsulaires, loculicides, oblongs, anguleux , acuminés-
-
-aigus, à base tronquée. Graines globuleuses à ovoïdes, avec de minuscules excroissances
-
-en rangs concentriques.
-
-Genre à 15 espèces, proches de – et dans le passé souvent réuni avec – Hibiscus , originaire
-
-d’Asie du Sud-Est, mais maintenant pantropical par suite d’introductions fréquentes, sui-
-
-vies par des échappées de culture ; deux espèces au Gabon .
-
-B : Bayer & Kubitzki (2003), Hauman (1963), Siemonsma (1991), Siemons-
-
-i B liographie
-
-ma & Kouamé (2004), Verdcourt (2009).
-
-### Clé des espèces
-
-1. - Segments de l’épicalice (calicule) 5 ‒ 10, ovales à oblongs, 4 ‒ 13 mm de largeur ;
-
-fruit ovoïde à cylindrique ............................................................................ A. caillei
-
-- Segments de l’épicalice 7 ‒ 18, filiformes à linéaires, 0,5 ‒ 3 mm de largeur ; fruit
-
-cylindrique à pyramidal ....................................................................... A. esculentus
-
----
+- Epicalyx segments 7–18, filiform to linear, 0.5–3 mm wide; fruit cylindric to pyramidal ....................................................................... A. esculentus
 
 ## Species in region
 

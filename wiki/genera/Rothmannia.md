@@ -17,45 +17,43 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Shrubs or trees unarmed with an orthotropic monopodial main axis and sympodial lateral branches. Leaves opposite in all parts except sometimes at the base of the flower where the last vegetative node often bears only a single developed blade. Stipules deltoid ± acuminate. Domatia present or absent.
 
-Arbrisseaux, arbustes ou arbres inermes à axe principal orthotrope monopodial et rameaux latéraux sympodiaux. Feuilles opposées dans toutes les parties sauf parfois à la base de la fleur où le dernier nœud végétatif présente souvent un seul limbe développé. Stipules deltoïdes ± acuminées. Domaties présentes ou nulles.
-
-Fleurs terminales sessiles ou brièvement pédonculée sur des axes composés d'un petit nombre d'entrenœuds, solitaires ou plus rarement par 2-3, grandes et souvent pendantes, vertes, blanches, ochracées, brunes ou brun-rouge. Calice à tube velu
+Flowers terminal sessile or briefly pedunculate on axes composed of a small number of internodes, solitary or more rarely in pairs or threes, large and often pendulous, green, white, ochraceous, brown or reddish-brown. Calyx with tube villous
 
 ---
 
-à l'intérieur, à lobes marginaux dressés. Corolle pentamère (sauf chez R. octomera : 7-8 lobes), ± longuement infundibiliforme, à lobes recouvrant, selon les espèces, vers la droite ou vers la gauche dans le bouton. Anthères incluses ou semi-exsertes, ± médifixes, à connectif glabre ou présentant des lignes marginales pubescentes parfois subapicalement seulement. Pollen en grains simples. Style glabre, stigmate ± massif. Ovaire uniloculaire à 2 placentas pariétaux affrontés et parfois particllement soudés entre eux.
+on the inside, with marginal lobes erect. Corolla pentamerous (except in R. octomera : 7-8 lobes), ± longly infundibuliform, with lobes overlapping, according to species, towards the right or towards the left in the bud. Anthers included or semi-exsert, ± medifix, with connective glabrous or bearing marginal pubescent lines sometimes subapically only. Pollen in simple grains. Style glabrous, stigma ± massive. Ovary unilocular with 2 parietal placentas facing and sometimes partially fused to each other.
 
-Fruit globuleux ou ellipsoïde, orné ou non de crêtes ou de sillons, de (2)3-17 cm de diamètre, à tube du calice le plus souvent persistant (caduc chez R. lateriflora). Péricarpe épais ou finement coriace; endocarpe ± finement crustacé. Graines très nombreuses de 5-12 mm, sublenticulaires, albuminées, enrobées dans une masse placentaire charnue.
+Fruit globose or ellipsoid, ornamented or not with crests or furrows, of (2)3-17 cm in diameter, with calyx tube most often persistent (caducous in R. lateriflora). Pericarp thick or finely coriaceous; endocarp ± finely crustaceous. Seeds very numerous 5-12 mm, sublenticular, albuminous, wrapped in a fleshy placental mass.
 
-Espèce type : Rothmannia capensis Thunb., d'Afrique du Sud.
+Type species: Rothmannia capensis Thunb., from South Africa.
 
-Environ 26 espèces. Genre connu d'après Keay de Madagascar et d'Asie, douteux en Amérique. 12 espèces au Gabon.
+About 26 species. Genus known from Madagascar and Asia according to Keay, doubtful in America. 12 species in Gabon.
 
-Deux espèces non connues du Gabon y sont à rechercher : Rothmannia hispida (K. Schum.) Fagerl. et R. urcelliformis (Schweinf. ex Hiern) Bullock ex Robyns.
+Two species not known from Gabon are to be sought there: Rothmannia hispida (K. Schum.) Fagerl. and R. urcelliformis (Schweinf. ex Hiern) Bullock ex Robyns.
 
-La biologie florale et notamment le mode de pollinisation des espèces à grosses fleurs pendantes, n'est pas connu; il n'est pas exclu, l'anthèse étant souvent nocturne et le parfum violent, que les Cheiroptères y puissent jouer un rôle. Cette remarque s'applique à quelques autres espèces notamment Gardenia imperialis et Pseudogardenia Kalbreyeri.
+The floral biology and notably the mode of pollination of species with large pendulous flowers is not known; it is not excluded, anthesis being often nocturnal and the fragrance strong, that Chiroptera could play a role in this. This remark applies to a few other species namely Gardenia imperialis and Pseudogardenia Kalbreyeri.
 
-### ROTHMANNIA : CLÉ DES FLEURS
+### ROTHMANNIA: KEY TO FLOWERS
 
-1. Corolle à lobes recouvrants vers la droite.
+1. Corolla with lobes overlapping towards the right.
 
-2. Corolle longue de 6 à 10 cm.
+2. Corolla 6 to 10 cm long.
 
-3. Corolle glabre extérieurement.....1. R. Liebrechtsiana
+3. Corolla glabrous externally.....1. R. Liebrechtsiana
 
-3'. Corolle pubescente extérieurement.....R. urcelliformis
+3'. Corolla pubescent externally.....R. urcelliformis
 
-(de la Guinée occidentale à l'Angola)
+(from West Guinea to Angola)
 
-2. Corolle de 15 à 23 cm de longueur.
+2. Corolla 15 to 23 cm in length.
 
 ---
 
-4. Fleur 5-mère.
+4. Flower 5-merous.
 
-5. Calice glabre extérieurement; corolle très finement pubes-cente ..... 2. R. lateriflora
+5. Calyx glabrous externally; corolla very finely pubescent ..... 2. R. lateriflora
 
 ## Species in region
 

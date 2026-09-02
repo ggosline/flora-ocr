@@ -17,37 +17,15 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Perennial herbs; stems generally decumbent. Leaves generally spiral, rarely distichous; pseudepetiole absent; blade succulent, sometimes with glandular pubescence. Inflorescences in terminal and axillary thyrses, often with glandular pubescence; bracts and bracteoles not perfoliate, persistent or caducous; cincinni with bisexual or male flowers.
 
-Herbes pérennes ; tiges généralement décombantes. Feuilles généralement spiralées, rarement
+Flowers slightly or moderately zygomorphic; sepals green; petals with short or absent claw, lower petal equal or ± different from the 2 upper petals; stamens 6, all fertile or the 3 upper ones staminodial, with glabrous filament (in Africa), the 3 upper different from the 3 lower, all equal or the median one distinct, sometimes one anther missing, the lower median often different from the other 2. Fruits: capsules, generally with 3 equal, 3-valved locules, sometimes indehiscent (not in Gabon), locules with 1 to 9 uniseriate seeds. Seeds with linear hilum; embryotegium lateral to semi-dorsal.
 
-distiques ; pseudopétiole absent ; limbe succulent , parfois à pubescence glanduleux. Inflo -
+Genus of eight species, from northern India and Bhutan to China and Vietnam, in the Philippines and Indonesia (Borneo); only one species in central Africa.
 
-rescences en thyrses terminaux et axillaires, souvent à pubescence glanduleuse ; bractées et
+B: Faden (1998, 2007).
 
-bractéoles non perfoliées , persistantes ou caduques ; cincinni à fleurs bisexuées ou mâles .
-
-Fleurs légèrement ou modérément zygomorphes ; s épales verts ; pétales à onglet court ou
-
-nul , pétale inférieur égal ou ± différent des 2 pétales supérieurs ; étamines 6, toutes fertiles ou
-
-les 3 supérieures staminodiales , à filet glabre (en Afrique), les 3 supérieures différentes des 3
-
-inférieures, toutes égales ou la médiane distincte, parfois une anthère manquante, la médiane
-
-inférieure souvent différente des 2 autres. Fruits : capsules , généralement à 3 loges égales,
-
-3-valvées , parfois indéhiscentes (pas au Gabon), loges avec 1 à 9 graines unisériées. Graines
-
-à hile linéaire ; embryotège latérale à semi-dorsale .
-
-Genre de huit espèces, du Nord de l’Inde et du Bhoutan jusqu’à la Chine et le Vietnam, dans
-
-les Philippines et en Indonésie (Bornéo) ; une seule espèce en Afrique centrale.
-
-B : Faden (1998, 2007).
-
-i B liographie
+Bibliography
 
 ## Species in region
 

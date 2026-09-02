@@ -16,29 +16,27 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 in DURAND, Ind. Gen. : 76 (1887); in ENGL., Pflanzenreich, Sapindaceae : 872 (1932).
 
-Sapindacées monospermées, arbustives ou arborescentes, parfois mono-caules. Feuilles paripennées parfois bipennées (Bizonula, Macphersonia). Fruit indéhiscent où, parfois, l'arille charnu et pulpeux provoque, par son gonflement, la rupture des carpelles sur le dos (CAPURON); desséché, cet arille ne se signale que par une mince pellicule entourant la graine. Extérieurement les 3 carpelles ne forment ni lobes ni sillons à la surface du fruit qui est entier.
+Sapindaceae with a single seed, shrubby or arborescent, sometimes mono-caulose. Leaves paripinnate, sometimes bipinnate (Bizonula, Macphersonia). Fruit indehiscent where, sometimes, the fleshy and pulpy aril causes, by its swelling, the rupture of the carpels on the back (CAPURON); desiccated, this aril is marked only by a thin pellicle surrounding the seed. Externally the 3 carpels form neither lobes nor sulci on the surface of the fruit, which is entire.
 
-GENRE-TYPE : Schleichera Willd.
+TYPE-GENUS: Schleichera Willd.
 
-Cette tribu comprend au total 8 genres dont 3 dans la région camerounogabonaise. D'après HUTCHINSON & DALZIEL, l'espèce asiatique Schleichera trijuga Willd. a été introduite en Afrique occidentale.
+This tribe comprises in total 8 genera, of which 3 are in the Cameroon-Gabon region. According to HUTCHINSON & DALZIEL, the Asian species Schleichera trijuga Willd. was introduced to West Africa.
 
-1. Fleurs sans pétales; feuilles 2-4-juguées.
+1. Flowers without petals; leaves 2–4-jugate.
 
-2. Fruit, après dessication, à endocarpe crustacé épais, à une seule loge par avortement des autres; arille non fendu sur le dos.
+2. Fruit, after desiccation, with thick crustaceous endocarp, with a single locule by abortion of the others; aril not split on the back.
 
-3. Fruit glabre; fleur petite, 2-3 mm..... SCHLEICHER.
+3. Fruit glabrous; flower small, 2–3 mm ..... SCHLEICHERA.
 
-3'. Fruit velu hérisse; fleur de 4-5 mm ..... 14.LECANIODISCUS.
+3'. Fruit hairy, bristly; flower 4–5 mm ..... 14. LECANIODISCUS.
 
-2'. Fruit (desséché) à exocarpe mince et cassant, à une seule loge par résorption des parois; arille fendu sur le dos..... 15. HAPLOCŒLUM.
+2'. Fruit (desiccated) with thin and brittle exocarp, with a single locule by resorption of the walls; aril split on the back ..... 15. HAPLOCŒLUM.
 
-4. 5 pétales à base en entonnoir avec écaille laineuse; disque double; feuilles bipennées; des poils étoilés..... 16. BIZONULA.
+4. 5 petals with funnel-shaped base with woolly scale; double disc; bipinnate leaves; stellate hairs ..... 16. BIZONULA.
 
-4'. Ces caractères non réunis : 4 genres d'Afrique orientale et de Madagascar dont MACPHERSONIA.
+4'. These characters not combined: 4 genera from East Africa and Madagascar, including MACPHERSONIA.
 
 ## Species in region
 

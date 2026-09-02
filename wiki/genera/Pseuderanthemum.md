@@ -17,25 +17,23 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Herbaceous plants erect or undershrubs or shrubs, rarely lianes.
 
-Plantes herbacées dressées ou sous-arbrisseaux ou arbrisseaux, rarement lianes.
-
-Inflorescences axillaires ou terminales, en épis ou grappes ou cymes; fleurs par 1-3 à l'aisselle de bractées en général petites
+Inflorescences axillary or terminal, in spikes or racemes or cymes; flowers 1-3 at the axil of bracts generally small
 
 ---
 
-et linéaires. Calice à 5 segments. Corolle à tube long, grêle, cylindrique, non élargi ou à peine élargi au sommet, à 5 lobes étalés subégaux; les deux lobes postérieurs sont un peu plus petits que les autres. 2 étamines fertiles insérées dans le tube de la corolle; anthères à connectif large et loges obtuses ou aiguës à la partie inférieure; loge extérieure souvent plus longue; souvent 2 stamins
+and linear. Calyx with 5 segments. Corolla with long, slender, cylindrical tube, not enlarged or scarcely enlarged at the apex, with 5 spreading subequal lobes; the two posterior lobes are somewhat smaller than the others. 2 fertile stamens inserted in the corolla tube; anthers with broad connective and obtuse or acute cells at the lower part; outer cell often longer; often 2 staminodes.
 
-Capsule longuement stipitée, à / graines ou moins, arrondies ou subtétragones, lisses ou fovéolées.
+Capsule long-stipitate, with / seeds or fewer, rounded or subtetragonous, smooth or foveolate.
 
-Espèce type : Pseuderanthemum alatum (Nees) Radlk., = Eranthemum alatum Nees, du Mexique.
+Type species: Pseuderanthemum alatum (Nees) Radlk., = Eranthemum alatum Nees, from Mexico.
 
-Environ 80 espèces des régions tropicales, et notamment indopacifiques.
+Approximately 80 species from tropical regions, and notably Indo-Pacific.
 
-1. Plante vivace ou arbuste de 20-50 cm de haut; inflorescence de 10-15 cm de long; 1-3 fleurs par nœud; fleurs blanches ou violet pâle; tube de la corolle de 14 mm de long, étamines incluses .....
+1. Perennial plant or shrub 20–50 cm tall; inflorescence 10–15 cm long; 1–3 flowers per node; flowers white or pale violet; corolla tube 14 mm long, stamens included .....
 
-1'. Arbuste jusqu'à 3 m de haut; inflorescences jusqu'à 3 cm de long; fleurs 6-8 ou plus par nœud, en fascicules très denses; fleurs blanches; tube de 3 cm de long étamines exsertes..... 2. P. Ludovicianum.
+1'. Shrub up to 3 m tall; inflorescences up to 3 cm long; flowers 6–8 or more per node, in very dense fascicles; flowers white; tube 3 cm long, stamens exsert..... 2. P. ludovicianum.
 
 ## Species in region
 

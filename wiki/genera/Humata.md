@@ -16,21 +16,19 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Rhizome long-creeping, covered with peltate scales.
 
-Rhizome longuement rampant, couvert d'écailles peltées.
+Fronds articulate, deltoid, usually dimorphic, coriaceous,
 
-Frondes articulées, deltoïdes, le plus souvent dimorphes, coriaces,
+pinnatifid or bipinnatifid, glabrous, with free venation. Sori
 
-pinnatifides ou bipinnatifides, glabres, à nervures libres. Sores
+submarginally, terminal on the veins, with coriaceous indusium,
 
-submarginaux, terminaux sur les nervures, à indusie coriace,
+rounded or reniform, attached by the base only. Sporange pedicel
 
-arrondie ou réniforme, attachée par la base seulement. Pédicelle
+with 3 rows of cells. Spores bilateral.
 
-du sporange à 3 rangées de cellules. Spores bilatérales.
-
-Environ 50 espèces, de Malaisie et Polynésie, une s'étendant jusqu'à Madagascar et l'Afrique.
+Approximately 50 species, from Malesia and Polynesia, one extending as far as Madagascar and Africa.
 
 ## Species in region
 

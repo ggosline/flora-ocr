@@ -17,69 +17,25 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Perennial herbs, generally stoloniferous or rhizomatous. Leaves alternate, spiral; pseudpetiole present; blade with symmetrical base, with glabrous margin. Inflorescences in terminal thyrse, very dense to lax, with bisexual and male flowers. Flowers actinomorphic to slightly zygomorphic, pedicellate, generally < 1 cm in diameter; sepals free, subequal, green or petaloid; petals free, equal or the lower one somewhat different from the other 2, white; stamens 6, equal or more or less unequal, all fertile, or the 3 upper shorter and fertile or staminodial, filaments free, glabrous, anthers with longitudinal dehiscence; ovary sessile, glabrous, 3-locular, with equal locules or one slightly reduced, ovules (1–)2(–4)-seriate; style slender, stigma capitate. Fruits bacciform, but hard and crustaceous, indehiscent, 3-locular, glabrous, blue to blue-black or blue-grey, often lustrous and appearing metallic; seeds (1–)2(–3)-seriate, (1–)2 to 18 per locule. Seeds polygonal, grey or brown, smooth or superficially bumpy; hilum punctiform to oblong; embryotega dorsal.
 
-Herbes pérennes, généralement stolonifères ou rhizomateuses. Feuilles alternes, spiralées ;
+Genus mainly paleotropical comprising approximately 18 species, of which three in continental Africa and one in Madagascar; in Gabon only one species.
 
-pseudopétiole présent ; limbe à base symétrique, à marge glabre. Inflorescences en thyrse
+Notes: Sosef et al. (2006) reports the presence of P. mannii C.B.Clarke. However, this was based on an erroneous identification. P. mannii is rather a species from West Africa and has therefore never been recollected in Gabon. It bears an inflorescence in lax panicle and fruits oval blue-grey. Nevertheless the presence of this species cannot be excluded, as it is recorded from southern Cameroon, as well as from the Democratic Republic of the Congo, the Central African Republic and other neighbouring countries. This is why we have included it in the key below.
 
-terminal, très dense à lâche , à fleurs bisexuées et mâles. Fleurs actinomorphes à légère-
+B: Brenan (1968b), Faden (2012), Morton (1967).
 
-ment zygomorphes , pédicellées, généralement < 1 cm de diamètre ; sépales libres, subégaux,
-
-verts ou pétaloïdes ; pétales libres, égaux ou l’inférieur un peu différent des 2 autres, blancs ;
-
-étamines 6, égales ou plus ou moins inégales, toutes fertiles, ou les 3 supérieures plus courtes
-
-et fertiles ou staminodiales, filets libres, glabres, anthères à déhiscence longitudinale ; ovaire
-
-sessile, glabre, 3-loculaire, à loges égales ou une légèrement réduite, ovules (1–)2(–4)-sériés ;
-
-style grêle, stigmate capité. Fruits bacciformes, mais durs et crustacés , indéhiscents , 3-locu-
-
-laires, glabres, bleus à bleu noir ou gris bleu, souvent lustrés et apparaissant métalliques ;
-
-graines (1–)2(–3)-sériées, (1–)2 à 18 par loge. Graines polygonales, grises ou brunes, lisses ou
-
-superficiellement bosselées ; hile ponctiforme à oblong ; embryotège dorsale.
-
-Genre principalement paléotropical comprenant environ 18 espèces, dont trois en Afrique
-
-continental et une à Madagascar ; au Gabon une seule espèce.
-
-Notes : Sosef et al. (2006) rapporte la présence de P. mannii C.B.Clarke. Cependant, elle était fondée sur
-
-une identification erronée. P. mannii est une espèce plutôt de l’Ouest Africain et n’a donc jamais été ré -
-
-coltée au Gabon. Elle porte une inflorescence en panicule lâche et des fruits ovales gris bleu. Néanmoins
-
-la présence de cette espèce ne peut pas être exclue, car signalée au Sud de Cameroun, ainsi qu’en Ré -
-
-publique démocratique du Congo, en République Centrafricaine et d’autres pays voisins. C’est la raison
-
-pour laquelle nous l’avons incluse dans la clé ci-dessous.
-
-B : Brenan (1968b), Faden (2012), Morton (1967).
-
-i B liographie
+Bibliography
 
 ---
 
-### Clé des espèces
+### Key to the species
 
-1. - Inflorescence lâche, paniculée, composée de 4 à 10 cincinni, non couverte par des
-
-bractées élargies à l’état jeune ; fleur bien ouverte à maturité ; limbe foliaire 4–13,5
-
-× 1,5–3,3 cm ; fruit ellipsoïdal, gris-bleu à maturité (à rechercher au Gabon)
+1. - Inflorescence lax, paniculate, composed of 4 to 10 cincinni, not covered by enlarged bracts in the young state; flower well open at maturity; leaf blade 4–13.5 × 1.5–3.3 cm; fruit ellipsoid, grey-blue at maturity (to be sought in Gabon)
 
 ...................................................................................................... P. mannii C.B.Clarke
 
-- Inflorescence très dense, capituliforme, à nombreux cincinni, enveloppée par des
-
-bractées élargies à l’état jeune ; fleurs très serrées, les tépales ne pouvant pas s’ou -
-
-vrir ; limbe foliaire 11–31 × 2,5–8(–10) cm ; fruit subsphérique, bleu ou bleu-noir
+- Inflorescence very dense, capitate, with numerous cincinni, enveloped by enlarged bracts in the young state; flowers very tightly packed, the tepals unable to open; leaf blade 11–31 × 2.5–8(–10) cm; fruit subspherical, blue or blue-black
 
 ## Species in region
 

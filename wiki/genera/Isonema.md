@@ -17,75 +17,21 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Scandent shrubs or lianes; latex sometimes only in the roots. Leaves decussate, those of a pair equal; petiole channelled, with numerous colleters in the groove, the two at the apex of which are larger and resemble small horns. Inflorescences terminal and at the distal leaf axils, sometimes axillary in I. smeathmannii with some to several flowers on axes at the base, often with axillary colleters. Flowers actinomorphic; calyx with sepals free, imbricate, alternating with groups of colleters; corolla hypocrateriform to slightly infundibuliforme, with lobes overlapping to the right, generally with undulate subapical appendage; stamens exserted, inserted at the throat, anthers narrowly triangular, forming a cone with introrse fertile lobes on the apical. Ovary with carpels free, progressively retracted in the filiform style, glabrous, with bilobed stigma. Fruits composed of 2 follicles connate at the base, widely spreading, cylindrical, attenuate towards the obtuse apex, rusty-brown, velvety, opening by a longitudinal slit on the adaxial side, with numerous seeds. Seeds fusiform, hemiorb­icular in section, flattened towards the apex and base, furnished with a small basal deciduous coma and an apical coma with simple hairs, spreading; hilum raised.
 
-Arbustes sarmenteux ou lianes ; latex parfois seulement dans les racines. Feuilles décussées,
+Genus with three species restricted to tropical western and central Africa from Senegal to the Democratic Republic of the Congo and Gabon, only one species in [region unspecified].
 
-celles d’une paire égales ; pétiole canaliculé, à nombreux collétères dans le sillon dont les
+B: Beentje (2021), Endress et al. (2019), van der Ploeg (1983).
 
-deux au bout sont plus grands et ressemblent à de petites cornes. ,QÀRUHVFHQFHV terminales
-
-HWjO¶DLVVHOOHGHVIHXLOOHVGLVWDOHVSDUIRLVD[LOODLUHVFKH] I. smeathmannii DYHFTXHOTXHVj
-
-SOXVLHXUVÀHXUVD[HVEDVDX[VRXYHQWDYHFGHVFROOpWqUHVD[LOODLUHV Fleurs actinomorphes ;
-
-FDOLFH j Vpsdohv OLEUHV LPEULTXpV DOWHUQDQW DYHF JURXSHV GH j FROOpWqUHV FRUROOH
-
-hypocratériforme à légèrement infundibuliforme, à lobes recouvrant vers la droite , géné-
-
-ralement à appendice ondulé subapical ; étamines exsertes , insérées à la gorge, anthères
-
-étroitement triangulaires, formant un cône DYHFORJHVLQWURUVHVIHUWLOHVVXUOHѿDSLFDO
-
-RYDLUHjFDUSHOOHVOLEUHVSURJUHVVLYHPHQWUpWUpFLGDQVOHVW\OH¿OLIRUPHJODEUHjVWLJPDWH
-
-bilobé. Fruits composés de 2 follicules FRQQpVjODEDVHODUJHPHQWpWDOpVF\OLQGULTXHVDWWp -
-
-nués vers le sommet obtus, brun-rouille, veloutés, s’ouvrant par une fente longitudinale sur le
-
-côté adaxial, à nombreuses graines . Graines fusiformes, hémi-orbiculaires en section, apla-
-
-ties vers le sommet et la base, munies d’un petit coma basal caduc et un coma apical à poils
-
-simples, étalés ; hile surélevé.
-
-*HQUHDYHFWURLVHVSqFHVOLPLWpHVjO¶$IULTXHWURSLFDOHRFFLGHQWDOHHWFHQWUDOHGX6pQpJDOjOD
-
-5pSXEOLTXHGpPRFUDWLTXHGX&RQJRDX*DERQXQHVHXOHHVSqFH
-
-B : Beentje (2021), Endress et al. (2019), van der Ploeg (1983).
-
-IBLIOGRAPHIE
+BIBLIOGRAPHY
 
 ---
 
-,VRQHPDLQIXQGLEXOLÀRUXP Stapf Planche 44
+Isonema infundibiflorum Stapf Plate 44
 
-Bull. Misc. Inform. Kew 1898 : 306 (1898).
+Bull. Misc. Inform. Kew 1898: 306 (1898).
 
-Arbuste sarmenteux ou liane , atteignant 5 m de longueur ; rameaux glabres, ramilles pubé-
-
-rulentes. Feuille Spwlrohgh±PPSXEpUXOHQWOLPEHRYDOHjHOOLSWLTXHREORQJ±IRLV
-
-DXVVLORQJTXHODUJHGH±î±FPDUURQGLjFRUGpjODEDVHDFXPLQpHWDYHFXQH
-
-pointe aiguë au sommet, glabre dessus, poilu dessous, surtout sur les nervures médiane et se-
-
-condaires ; nervures secondaires 6 à 9(12) paires. ,QÀRUHVFHQFH lâche, de 9,5–16 × 6–14 cm ;
-
-Spgrqfxohgh±FPD[HVSXEpUXOHQWVEUDFWpHVW{WFDGXTXHVRYDOHVORQJXHVGHPP
-
-Fleur : Spglfhoohgh±PPFDOLFH±IRLVDXVVLORQJTXHODUJHGH±î±
-
-PPSXEpUXOHQWjO¶H[Wpulhxuprlqvghqvpphqwyhuvohvpdujhvsoxv¿QHVJODEUHjO¶LQWpULHXU
-
-corolle rouge foncé , avec 10 bandes longitudinales blanches à l’intérieur de la gorge, pubéru-
-
-lent à l’extérieur, pubérulent glanduleux à l’intérieur, longue de 15,5–19 mm dans le bouton
-
-mûr, à tube légèrement infundibuliforme, long de 9–11 mm , vert pâle, large de 1,5–2 mm à la
-
-EDVHHWGH±PPjODJRUJHSXEpUXOHQWHWjTXHOTXHVSRLOVJODQGXOHX[jO¶H[Wpulhxujorehv
+Scandent shrub or liane, reaching 5 m in length; branches glabrous, branchlets puberulent. Leaf: petiole 0.6–1 mm, puberulent; limb ovate to elliptic, oblong—times as long as wide, 0.7–1.5 × 0.4–0.8 cm, rounded to cordate at the base, acuminate with an acute point at the apex, glabrous above, hairy below, especially on the median and secondary nerves; secondary nerves 6 to 9(12) pairs. Inflorescence lax, 9.5–16 × 6–14 cm; pedicels 0.5–1 cm, axes puberulent, bracteate at top, bracts deciduous, ovate, long mm. Flower: pedicel 0.3–0.5 mm, calyx 0.7–times as long as wide, 0.5–0.8 × 0.4–0.6 mm, puberulent on the exterior, less densely so towards the finer margins, glabrous on the interior; corolla dark red, with 10 longitudinal white bands on the interior of the throat, puberulent on the exterior, puberulent glandulous on the interior, long 15.5–19 mm in the mature bud, with slightly infundibuliforme tube, long 9–11 mm, pale green, wide 1.5–2 mm at the base and 3.5–4 mm at the throat, puberulent and with some glandulous hairs on the exterior; lobes
 
 ## Species in region
 

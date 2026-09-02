@@ -17,27 +17,25 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Petites plantes au rhizome allongé, rampant, avec des pseudobulbes biens séparés, 1-2-foliés. Feuilles épaisses, coriaces, à double pli. Inflorescence issue de la base du pseudobulbe, assez lâche, pédoncule filiforme, rachis parfois en zigzag. Fleurs rares, minuscules, non-résupinées. Sépales assez développés, dissemblables, les latéraux à base oblique. Pétales réduits à des structures squamiformes ou absents. Labelle articulé, libre, ± trilobé, épais au centre ou le long de la veine médiane, canaliculé. Pied de la colonne proéminent. Gynostème court,
+Small plants with elongate, creeping rhizome, with well-separated pseudobulbs, 1-2-leaved. Leaves thick, coriaceous, with double fold. Inflorescence arising from the base of the pseudobulb, rather lax, peduncle filiform, rachis sometimes zigzag. Flowers rare, minute, non-resupinate. Sepals fairly well developed, dissimilar, the lateral ones with oblique base. Petals reduced to squamiform structures or absent. Labellum articulate, free, ± trilobed, thick at the centre or along the median vein, channelled. Column foot prominent. Gynostemium short,
 
 ---
 
-PL. 104. – Structure du gynostème du genre Genyorchis Schltr.: A, vue de la base ; B, reste du rostelle ; C, anthère, vue latérale ; D, pollinies (A-D, ex SZLACHETKO & MARGOŃSKA, 2001).
+PL. 104. – Structure of the gynostemium of the genus Genyorchis Schltr.: A, view of the base; B, remainder of the rostellum; C, anther, lateral view; D, pollinia (A-D, ex SZLACHETKO & MARGOŃSKA, 2001).
 
 ---
 
-droit, assez massif. Pollinies 4 en 2 paires, de taille inégale, aplaties latéralement, ellipsoïdales. Caudicules gluants. Tegula unique, oblongue, assez charnue. Viscidie ovale, petite, charnue. Pl. 104, p. 207.
+erect, fairly massive. Pollinia 4 in 2 pairs, of unequal size, flattened laterally, ellipsoid. Caudicles sticky. Tegula unique, oblong, fairly fleshy. Viscidium oval, small, fleshy. Pl. 104, p. 207.
 
-Ces fleurs très petites sont probablement pollinisées par les abeilles, mais il n’existe aucune observation sur la pollinisation dans le genre Genyorchis qui compte environ 10 espèces originaires d’Afrique tropicale.
+These very small flowers are probably pollinated by bees, but there are no observations on pollination in the genus Genyorchis which contains approximately 10 species native to tropical Africa.
 
-1. Pseudobulbes 1-foliés ..... 2. G. platybulbon
+1. Pseudobulbs 1-leaved ..... 2. G. platybulbon
 
-1'. Pseudobulbes 2-foliés.
+1'. Pseudobulbs 2-leaved.
 
-2. Labelle déployé globalement obtriangulaire : lobe médian court et large, les latéraux très développés largement étalés ..... 3. G. sanfordii
+2. Labellum overall obtriangular in shape: median lobe short and wide, lateral lobes very developed, broadly spread ..... 3. G. sanfordii
 
-2'. Labelle globalement rectangulare ou obové : lobe médian triangulaire, elliptique à ové, révoluté ..... 1. G. apetala
+2'. Labellum overall rectangular or obovate in shape: median lobe triangular, elliptic to ovate, revolute ..... 1. G. apetala
 
 ## Species in region
 

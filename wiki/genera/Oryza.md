@@ -17,17 +17,15 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Marsh herbs, annual or perennial, with inflorescences in panicles or sometimes in simple spikes.
 
-Herbes de marais, annuelles ou vivaces, à inflorescences en panicules ou parfois en épis simples.
-
-Épillets uniflores, aplatis latéralement, aristés ou non, portés sur un pédicelle court dilaté en cupule sous l'articulation. Glumelles stériles le plus souvent réduites et beaucoup plus courtes que l'épillet, ou nulles. Lemma coriace ou papyracée, carénée et parfois
+Spikelets uniflorous, laterally compressed, awned or not, borne on a short pedicel dilated into a cupule beneath the articulation. Sterile glumelles most often reduced and much shorter than the spikelet, or absent. Lemma coriaceous or papyraceous, keeled and sometimes
 
 ---
 
-longuement aristée, à 3 ou 5 nervures dont les deux latérales forment un rebord épais le long de la glumelle. Paléa semblable, mais plus étroite. Deux lodicules; 6 étamines.
+long-awned, with 3 or 5 nerves of which the two lateral ones form a thick border along the glumelle. Palea similar, but narrower. Two lodicules; 6 stamens.
 
-Ce genre comporte une quinzaine d'espèces; l'une d'elles est signalée au Gabon.
+This genus comprises about fifteen species; one of them is recorded from Gabon.
 
 ## Species in region
 

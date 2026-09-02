@@ -17,23 +17,21 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Shrubs or trees, trunk often grooved; branchlets unarmed, with fissured, non-lenticellate bark.
 
-Arbustes ou arbres, tronc souvent cannelé; rameaux inermes, à écorce fissurée, non lenticellée.
+Leaves ternate and very rarely subopposite on some small lateral branchlets in the species represented in Cameroon; blade with pinnate venation.
 
-Feuilles ternées et très rarement subopposées sur quelques petits rameaux latéraux dans l'espèce représentée au Cameroun; limbe à nervation pennée.
+### Terminal inflorescences, thyrsoid.
 
-### Inflorescences terminales, thyrsoïdes.
+Flowers tetramerous, actinomorphic except for the calyx often irregularly lobed. Calyx campanulate to cylindric, with 4 lobes much shorter than the tube, triangular, acute or rarely obtuse or rounded at the apex, entire and erect or suberect; often two (or twice two) lobes coherent or partially connate in flowers accompanying flowers with regularly lobed calyx, on the outside with fine glandular hairs and often also simple or branched hairs; on the inside with appressed pubescence in species from continental Africa. Corolla generally white or cream, circumscissile, furnished internally with recurved hairs at the throat and glandular hairs in the tube, the latter having approximately the same length as the calyx; lobes oblong, recurved. Stamens well exserted, inserted at the throat; anthers glabrous, subreniform at maturity, formed of 2 lobes confluent at the apex. Ovary laterally compressed, surrounded by a disciform ring, with 2 locules; in each locule an axillary peltate placenta with numerous ovules; style long, with capitate stigma.
 
-Fleurs tétramères, actinomorphes sauf pour le calice souvent irrégulièrement lobé. Calice campanulé à cylindrique, à 4 lobes beaucoup plus courts que le tube, triangulaires, aiguis ou rarement obtus ou arrondis au sommet, entiers et érigés ou subérigés; souvent deux (ou deux fois deux) lobes cohérents ou partiellement soudés chez des fleurs accompagnant des fleurs à calice ‡ régulièrement lobé, à l'extérieur poils glandulifères fins et souvent aussi poils simples ou ramifiés; à l'intérieur pubescence apprimée chez les espèces du continent africain. Corolle généralement blanche ou crème, circumscissile, garnie intérieurement de poils recourbés à la gorge et de poils glandulifères dans le tube, celui-ci ayant environ la même longueur que le calice; lobes oblongs, recurbés. Étamines bien exsertes, insérées à la gorge; anthères glabres, subréniformes à maturité, formées de 2 loges confluentes au sommet. Ovaire latéralement comprimé, entouré par un anneau disciforme, à 2 loges; dans chaque loge un placenta axillaire pelté avec nombreux ovules; style long, à stigmate capité.
-
-Capsules bivalves, de même longueur environ que le calice et incluses dans celui-ci. Graines très petites, fusiformes.
+Capsules bivalved, approximately the same length as the calyx and included within it. Seeds very small, fusiform.
 
 ---
 
-Espèce-type : Nuxia verticillata Lam.
+Type species: Nuxia verticillata Lam.
 
-# Environ 15 espèces en Afrique, à Madagascar et aux Mascareignes.
+# Approximately 15 species in Africa, Madagascar and the Mascarene Islands.
 
 ## Species in region
 

@@ -17,43 +17,19 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Herbes autotrophes ; rhizomes absents ; racines longues, filiformes ; tiges simples ou ra -
-
-rement ramifiées. Feuilles vertes , les basilaires souvent en rosette, les caulinaires réduites
-
-à des petites écailles. Inflorescences uniflores ou parfois pauciflores, bifurquées, contrac -
-
-tées. Fleurs munies de 3 ailes ; périgone à partie basale tubuleuse, lobes du périgone 6,
-
-entiers, inégaux, dressés, les externes plus larges que les internes ; lobes, étamines et
-
-stigmates persistants ; étamines à connectif généralement muni d’un appendice basal et
-
-de deux appendices apicaux ; ovaire 3-loculaire, à placentation axillaire , glandes sep -
-
-tales parfois présentes ; style filiforme, stigmates infundibuliformes, sans appendices .
-
-Fruit déhiscent à fentes transversales.
+Autotrophic herbs; rhizomes absent; roots long, filiform; stems simple or rarely branched. Leaves green, the basal ones often in rosette, the cauline ones reduced to small scales. Inflorescences uniflorous or sometimes pauciflorous, bifurcate, contracted. Flowers provided with 3 wings; perianth with basal part tubular, perianth lobes 6, entire, unequal, erect, the outer ones broader than the inner ones; lobes, stamens and stigmas persistent; stamens with connective generally provided with a basal appendage and two apical appendages; ovary 3-locular, with axillary placentation, septal glands sometimes present; style filiform, stigmas infundibuliform, without appendages. Fruit dehiscent with transverse slits.
 
 ---
 
-Juliette Vesque (1, 2) et D. Leyniers (3–6), reproduit avec la permission, © Publications Scienti -
-
-fiques du Muséum national d’Histoire naturelle, Paris, et Jardin botanique national de Belgique, à
-
-partir de Perrier de la Bâthie (1946) et Geerinck (1970) l.c.
+Juliette Vesque (1, 2) and D. Leyniers (3–6), reproduced with permission, © Scientific Publications of the National Museum of Natural History, Paris, and National Botanical Garden of Belgium, from Perrier de la Bâthie (1946) and Geerinck (1970) l.c.
 
 ---
 
-Genre pantropical comprenant environ 55 espèces dont 10 en Afrique ; au Gabon, une
+Pantropical genus comprising approximately 55 species of which 10 in Africa; in Gabon, only one species.
 
-espèce seulement.
+B: Cowley (1988), Geerinck (1970), Maas et al. (1986), Merckx (2008).
 
-B : Cowley (1988), Geerinck (1970), Maas et al. (1986), Merckx (2008).
-
-ibliographie
+ibliography
 
 ## Species in region
 

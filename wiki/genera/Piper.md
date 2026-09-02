@@ -17,67 +17,31 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Shrubs, lianes or herbs, sometimes dioecious, terrestrial or rarely epiphytic, with stems thickened at the nodes and often bearing adventitious roots, glabrous or hairy. Stipules adnate to the petiole, ± sheathing. Leaves alternate. Inflorescences in erect spikes or racemes. Flowers minute (visually scarcely distinct from one species to another), sessile or subpedicellate; stamens 2 to 6, with 4-locular anthers opening by 2 slits; ovary globose, ovoid, obovoid or cylindric; style present or absent, stigmas 2 to 5. Fruits globose, ovoid, obovoid or cylindric, glabrous or pubescent-glandular.
 
-Arbrisseaux , lianes ou herbes , parfois dioïques, terrestres ou rarement épiphytes, à tiges épais-
+Pantropical genus comprising approximately 2000 species; in Gabon, 3 species, of which 2 are indigenous and 1 naturalized.
 
-sies aux nœuds et souvent munies de racines adventives, glabres ou velues. Stipules adnées au
+Notes: Besides these three species, Piper nigrum L., the pepper plant used as a condiment worldwide, is sometimes cultivated. It is a shrub or a liane; leaves with blade ovate-elliptic, 8–18 × 3.5–8 cm; inflorescences solitary or grouped, polygamous, in spikes 3–10 cm long; stamens 2 or 3; fruits globose, black, 5–6 × ± 4 mm, with a single seed. Black pepper is distinguished by the complete fruit but harvested before maturity, and white pepper by the ripe fruit, but stripped of its pericarp and thus reduced to the seed. This product is called locally pepper of the whites or bush pepper and in Mpongwé: ntogoloy'atanga.
 
-pétiole, ± engainantes . Feuilles alternes. Inflorescences en épis ou racèmes dressés. Fleurs
+B: Balle (1948), Diniz (1997), Raponda-Walker & Sillans (1961), Verdcourt (1996).
 
-minuscules (visuellement peu distinctes d’une espèce à l’autre), sessiles ou subpédicellées ;
-
-étamines 2 à 6, à anthère 4-loculaire et s’ouvrant par 2 fentes ; ovaire globuleux, ovoïde,
-
-obovoïde ou cylindrique ; style présent ou absent, stigmates 2 à 5 . Fruits globuleux, ovoïdes,
-
-obovoïdes ou cylindriques, glabres ou pubescents-glanduleux.
-
-Genre pantropical comprenant environ 2000 espèces ; au Gabon, 3 espèces, dont 2 indigènes
-
-et 1 naturalisée.
-
-Notes : Outre ces trois espèces, est parfois cultivé Piper nigrum L., le poivrier mondialement condimen-
-
-taire. C’est un arbrisseau ou une liane ; feuilles à limbe ovale-elliptique, 8–18 × 3,5–8 cm ; inflorescences
-
-isolées ou groupées, polygames, en épis longs de 3–10 cm ; étamines 2 ou 3 ; fruits globuleux, noirs, 5–6
-
-× ± 4 mm, à une seule graine. On distingue le poivre noir au fruit complet mais cueilli avant maturité et le
-
-poivre blanc au fruit mûr, mais débarrassé de son péricarpe donc réduit à la graine. Ce produit est nommé
-
-localement poivre des blancs ou poivre de brousse et en mpongwé : ntogoloy’atanga.
-
-B : Balle (1948), Diniz (1997), Raponda-Walker & Sillans (1961), Verdcourt (1996).
-
-i B liographie
+Bibliography
 
 ---
 
 68 Tariq STÉVART & Daniel J.L. GEERINCK
 
-### Clé des espèces
+### Key to the species
 
-1. - Épis groupés par (2–)3 à 7 ± en ombelle ; feuille à pétiole de 6,5–30 cm et limbe
+1. - Spikes grouped by (2–)3 to 7 ± in an umbel; leaf with petiole 6.5–30 cm and subcircular blade, with 11 to 15 palmate nerves; stigmas minute ...... P. umbellatum
 
-subcirculaire, avec 11 à 15 nervures palmées ; stigmates minuscules ...... P. umbellatum
+- Spikes or racemes solitary; leaf with petiole reaching 5 cm and ovate-elliptic blade, with 3 to 9(–11) palmate nerves; stigmas recurved or subrecurved ......................... 2
 
-- Épis ou racèmes solitaires ; feuille à pétiole atteignant 5 cm et limbe ovale-elliptique,
-
-avec 3 à 9(–11) nervures palmées ; stigmates récurvés ou subrécurvés ......................... 2
-
-2. - Liane dioïque ; feuille à base cunéée-arrondie, à sommet acuminé à cuspidé ; fleurs
-
-unisexuées, en racèmes ; baies mûres pédicellées ; ovaire généralement à 3 stigmates
+2. - Dioecious liane; leaf with cuneate-rounded base, with acuminate to cuspidate apex; flowers unisexual, in racemes; ripe berries pedicellate; ovary generally with 3 stigmas
 
 ....................................................................................................................... P. guineense
 
-- Arbrisseau ou sous arbrisseau, parfois quelque peu lianescent, démuni de racines
-
-adventives ; feuille à base arrondie-cordée, à sommet courtement acuminé ; fleurs
-
-bisexuées, en épis ; baies mûres sessiles ; ovaire à 2 stigmates ...................... P. capense
+- Shrub or undershrub, sometimes somewhat lianescent, devoid of adventitious roots; leaf with rounded-cordate base, with shortly acuminate apex; flowers bisexual, in spikes; ripe berries sessile; ovary with 2 stigmas ...................... P. capense
 
 ## Species in region
 

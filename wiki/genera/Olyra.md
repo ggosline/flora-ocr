@@ -16,23 +16,15 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 LINNÉ Amoen. Acad. V : 408.
 
-Plantes pérennes à longs chaumes ramiﬁés, dressés ou grim-
+Perennial plants with long ramified culms, erect or climbing. Leaves with blade rolled in the bud then spread, ovate-lanceolate, with tessellate veins.
 
-pants. Feuilles à limbe enroulé dans le bourgeon puis étalé,
+Terminal panicles of unisexual, heteromorphic spikelets, the two sexes being mixed in the same inflorescence. Male spikelets smaller, one-flowered; glumes absent or marked by a ring sometimes bilobed at the articulation of the spikelet with the pedicel. Lemma lanceolate, caudate acuminate, with 3 veins. Palea shorter, with 2 veins. Lodicules 3 or absent; 3 stamens.
 
-ovale-lancéolé, à nervures tessellées.
+Female spikelets terminal and lateral on the branches of the inflorescence, situated above the male spikelets, one-flowered. The two glumes similar, ovate lanceolate, caudate acuminate, especially the lower, with 3 or 9 tessellate veins, persistent on the pedicels. Lemma elliptic, coriaceous with 5 poorly distinct veins. Palea of the same texture, with 2 veins. Three lodicules; stamens absent; ovary glabrous; style divided in its upper half.
 
-Panicules terminales d'épillets unisexués, hétéromorphes, les deux sexes étant mêlés dans la même inflorescence. Épillets mâles plus petits, à une fleur; glumes nulles ou marquées par un anneau quelquefois bilobé à l'articulation de l'épillet avec le pédicelle. Lemma lancéolée, caudée acuminée, à 3 nervures. Paléa plus courte, à 2 nervures. Lodicules 3 ou nulles; 3 étamines.
-
-Épillets femelles terminaux et latéraux sur les branches de l'inflorescence, situés au-dessus des épillets mâles, à une seule fleur. Les deux glumes semblables, ovales lancéolées, caudées acuminées, surtout l'inférieure, à 3 ou 9 nervures tessellées, persistantes sur les pédicelles. Lemma elliptique, coriace à 5 nervures peu distinctes. Paléa de même texture, à 2 nervures. Trois lodi-cules; étamines nulles; ovaire glabre; style divisé dans sa moitié supérieure.
-
-Environ 25 espèces, surtout d'Amérique tropicale, une afri-
-
-caine.
+Approximately 25 species, especially from tropical America, one African.
 
 ---
 

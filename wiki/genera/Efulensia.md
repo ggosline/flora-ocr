@@ -17,35 +17,13 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Liane vivace grande et glabre ; vrilles simples. Stipules absentes ou réduites. Feuilles à 3
-
-ou 5 folioles palmées ou imparipennées ; folioles distinctement pétiolulées , à marge
-
-entière. Inflorescences généralement terminées par une vrille simple . Fleurs herma-
-
-phrodites ; pédicelle articulé au sommet et prolongé par un stipe distinct ; hypanthium
-
-patelliforme ; sépales 5, libres, persistants ; pétales 5 ; couronne simple , composée de
-
-nombreux filaments stériles connés à la base ; étamines (4–)5(–6) , hypogynes ou péri-
-
-gynes ; ovaire uniloculaire, à (2–)3(–4) placentas pariétaux ; styles 3(–4), stigmates glo-
-
-buleux. Fruits capsulaires, déhiscents, à (2–)3(–4) valves ligneuses. Graines 4–12 par
-
-capsule, fovéolées.
+Perennial large glabrous liane; tendrils simple. Stipules absent or reduced. Leaves with 3 or 5 palmate or imparipinnate leaflets; leaflets distinctly petiolulate, with entire margin. Inflorescences generally terminated by a simple tendril. Flowers hermaphrodite; pedicel articulate at apex and prolonged by a distinct stipe; hypanthium patelliform; sepals 5, free, persistent; petals 5; corona simple, composed of numerous sterile filaments connate at the base; stamens (4–)5(–6), hypogynous or perigynous; ovary unilocular, with (2–)3(–4) parietal placentas; styles 3(–4), stigmas globose. Fruits capsular, dehiscent, with (2–)3(–4) woody valves. Seeds 4–12 per capsule, foveolate.
 
 ---
 
-Genre endémique en Afrique Centrale (du Cameroun jusqu’en Ouganda) avec deux es-
+Genus endemic to Central Africa (from Cameroon to Uganda) with two species, one of which occurs in Gabon.
 
-pèces, dont une au Gabon.
-
-b : De Wilde (1974a, 1974b), Robyns (1995).
-
-ibliographie
+Bibliography: De Wilde (1974a, 1974b), Robyns (1995).
 
 ## Species in region
 

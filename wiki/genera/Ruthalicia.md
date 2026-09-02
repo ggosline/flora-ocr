@@ -17,17 +17,15 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-(par Norbert HOLSTEIN)
+(by Norbert HOLSTEIN)
 
 Kew Bull. 15(3): 360 (1962).
 
-Herbes vivaces, grimpantes ou rampantes, lignifiées à la base, dioïques; tiges jusqu'à 15 m de longueur, glabres ou à poils rouge bordeaux. Vrilles simples. Feuilles pétiolées, simples; limbe profondément 3- à 7-palmatilobé. Inflorescences axillaires, les mâles en racèmes, souvent accompagné par 1 fleur solitaire à la base, les femelles à fleur solitaire ou en racème réduit; probractée présente; bractées un peu plus courtes que la probractée. Fleurs mâles: réceptacle tubuleux ou infundibuliforme; sépales 5, subulés, linéaires; pétales 5, libres presque jusqu'à la base, s'ouvrant ou restant fermés, jaune ±orangé; étamines 3, libres, à filets insérés à mi-hauteur ou dans la moitié supérieure du tube, anthères cohérentes, 1 monothèque, les 2 autres bithèques, à loges tripiquées; pistillode absent. Fleurs femelles: réceptacle campanulé; périanthe semblable à celui des fleurs mâles; staminodes présents; ovaire glabre, à nombreux ovules horizontaux. Fruits globuleux à ellipsoïdaux, immatures verts avec des macules en bandes longitudinales blanches, matures rouge orangé jusqu'à rouge vif, lisses, à nombreuses graines dans une pulpe jaune. Graines enveloppées par un arille, lentiforme, asymétriquement obovoïde, brun foncé à noires.
+Perennial herbs, climbing or creeping, woody at the base, dioecious; stems up to 15 m in length, glabrous or with dark red hairs. Tendrils simple. Leaves petiolate, simple; blade deeply 3- to 7-palmatilobed. Inflorescences axillary, the male ones in racemes, often accompanied by 1 solitary flower at the base, the female ones with solitary flower or in reduced raceme; probract present; bracts slightly shorter than the probract. Male flowers: receptacle tubular or infundibuliform; sepals 5, subulate, linear; petals 5, free almost to the base, opening or remaining closed, yellow ± orange; stamens 3, free, with filaments inserted at mid-height or in the upper half of the tube, anthers cohesive, 1 monotheca, the 2 others bitheca, with tripinnatifid locules; pistillode absent. Female flowers: receptacle campanulate; perianth similar to that of male flowers; staminodes present; ovary glabrous, with numerous horizontal ovules. Fruits globose to ellipsoid, immature green with markings in white longitudinal bands, mature orange-red to bright red, smooth, with numerous seeds in yellow pulp. Seeds enveloped by an aril, lentiform, asymmetrically obovoid, dark brown to black.
 
-Genre de l’Afrique de l’Ouest et de l’Afrique centro-occidentale avec deux espèces, dont une au Gabon.
+Genus of West Africa and West-Central Africa with two species, one of which occurs in Gabon.
 
-BIBLIOGRAPHIE : Jeffrey (1962), Keraudren (1967), Schaefer & Renner (2011a).
+BIBLIOGRAPHY: Jeffrey (1962), Keraudren (1967), Schaefer & Renner (2011a).
 
 ## Species in region
 

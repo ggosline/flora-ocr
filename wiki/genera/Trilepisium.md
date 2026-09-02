@@ -17,25 +17,23 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 - Bosqueia Thou. ex. Baill., Adansonia, sér. 1, 3 : 338 (1863) ; Engl., Mon. Afr. Pfl. 1, Moraceae : 35 (1898) ; Hutch. in Hutch. & Rendle, FTA 6 (2) : 221 (1917) ; L'eAndri, Not. Syst. 13 : 176 (1948).
 
 - Pontya A. CHEV., Veg. ut. Afr. Trop. Fr. 5: 263 (1909), nomen; Bull. Soc. Bot. Fr., Mém. 8: 210 (1912), descr.
 
-Arbres monoïques. Feuilles distiques ; limbe à nervation pennée à subtriplinerve. Stipules soudées, entièrement amplexicaules.
+Monoecious trees. Leaves distichous; lamina with pinnate to subtriplinerve venation. Stipules fused, entirely amplexicaul.
 
-Inflorescences solitaires ou parfois par paires sur des rameaux courts à l'aisselle des feuilles, d'abord enveloppées par 2 stipules modifiées, discoïdes à turbinées, pédonculées, avec un involucre 6-8-lobé à 6-8-fide, submembraneux ; partie supérieure du réceptacle submembraneuse, recourbée à l'intérieur, sa marge étant soudée à la surface interne du réceptacle, couvrant de nombreuses étamines libres, circumscissile à l'anthèse et laissant une partie tubulaire déchirée autour de l'unique fleur ô centrale, et une partie marginale déchirée ; anthères latrorses.
+Inflorescences solitary or sometimes in pairs on short branchlets at the leaf axils, initially enclosed by 2 modified stipules, discoid to turbinate, pedunculate, with a 6-8-lobed to 6-8-fid, submembranous involucre; upper part of receptacle submembranous, incurved internally, its margin fused to the inner surface of the receptacle, covering numerous free stamens, circumscissile at anthesis and leaving a tubular part torn around the unique central ♂ flower, and a marginal torn part; anthers latrorseh.
 
 ---
 
-Fleur ♀ enfoncée dans le réceptacle ; périanthe tubulaire ; ovaire soudé au périanthe, stigmates 2, rubanés.
+♀ flower sunken in the receptacle; perianth tubular; ovary fused to the perianth, stigmas 2, ribbonlike.
 
-Infrutescences ellipsoïdes à globuleuses, couronnées par les restes de la partie submembraneuse du réceptacle et par les étamines ; réceptacle charnu, rouge à noirâtre ; endocarpe crustacé ; testa assez mince, avec une zone suborbiculaire épaissie, vascularisée, sous le hile ; embryon avec une marque distincte de cette partie de la testa ; cotylé-dons épais, égaux et soudés ; radicule courte, apicale ou subapicale.
+Infructescences ellipsoid to globose, crowned by the remains of the submembranous part of the receptacle and by the stamens; receptacle fleshy, red to blackish; endocarp crustaceous; testa rather thin, with a thickened suborbicular zone, vascularized, beneath the hilum; embryo with a distinct mark from this part of the testa; cotyledons thick, equal and fused; radicle short, apical or subapical.
 
-ESPÈCE-TYPE : Trilepisium madagascariense DC.
+TYPE SPECIES: Trilepisium madagascariense DC.
 
-Le genre monospécifique Trilepisium a une position assez isolée à l'intérieur des Dorstenieae, position due surtout à son inflorescence très particulière.
+The monotypic genus Trilepisium occupies a fairly isolated position within Dorstenieae, a position due especially to its very distinctive inflorescence.
 
 ## Species in region
 

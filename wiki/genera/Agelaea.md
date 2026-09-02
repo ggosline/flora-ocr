@@ -17,15 +17,13 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+TYPE: A. villosa Sol. ex PLANCH. nom. illeg.
 
-TYPE : A. villosa Sol. ex PLANCH. nom. illeg.
-
-pour Cnestis trifolia LAM.
+for Cnestis trifolia LAM.
 
 = A. trifolia (LAM.) BAILL.
 
-= A. pentagyna (LAM.) BAIL
+= A. pentagyna (LAM.) BAILL.
 
 – Castanola LLANOS, Mem. R. Acad. Ci. Ex. Fis. Nat. Madrid 3 (2): 503 (1859).
 
@@ -33,29 +31,29 @@ TYPE: C. trinervis LLANOS
 
 = Agelaea macrophylla (ZOLL.) LEENHOUTS
 
-Grande liane. Branches cylindriques à profondément cannelées, extrémités souvent terminées en vrille. Certaines espèces ont souvent du phloème interxylaire.
+Large liana. Branches cylindrical to deeply fluted, apices often terminating in a tendril. Some species frequently have interxylary phloem.
 
-Feuilles 3- ou 5-foliolées ; folioles entières, symétriques ou asymétriques ; nervation III formant ± nettement de petits carrés ou de petites croix (Pl. 7, 1, p. 33).
+Leaves 3- or 5-foliolate; leaflets entire, symmetric or asymmetric; venation III forming ± clearly small squares or small crosses (Pl. 7, 1, p. 33).
 
 ---
 
-Inflorescences axillaires paniculées, à fleurs en général nombreuses ; quelques inflorescences sont fréquemment groupées à la même aisselle et souvent une ou davantage se trouvent à l'extrémité d'un rameau feuillé, simulant une inflorescence terminale d'autant que les feuilles axillantes demeurent rudimentaires.
+Inflorescences axillary paniculate, with flowers generally numerous; some inflorescences are frequently grouped at the same axil and often one or more are located at the apex of a leafy branch, simulating a terminal inflorescence especially as the axillant leaves remain rudimentary.
 
-Fleurs 5-mères, hétérotristylées ou hétérodistylées, parfumées ; pédicelle toujours nettement articulé. Sépales presque libres, en préfloraison imbriquée, jamais accrescents sous le fruit. Pétales égaux ou plus longs que les sépales, librcs ou connivents près de leur base, blancs, souvent avec une trace de jaune ou de rouge, glabres. Étamines en 2 cycles, courtement unies à leur base, filets glabres, les 5 étamines oppositisépales plus longues que les 5 oppositipétales. Pistil à 5 carpelles libres.
+Flowers 5-merous, heterotristylous or heterodistylous, fragrant; pedicel always clearly articulate. Sepals nearly free, in imbricate prefloration, never accrescent under the fruit. Petals equal to or longer than the sepals, free or connivant near their base, white, often with a trace of yellow or red, glabrous. Stamens in 2 cycles, shortly united at their base, filaments glabrous, the 5 stamens opposite the sepals longer than the 5 opposite the petals. Pistil with 5 free carpels.
 
-Fruit : 1 à 5 follicules par fleur, piriformes ou ellipsoïdaux, rétrécis à la base, terminés ou non par un bec, avec ou sans protubérances grossières, oranges à rouges, veloutés, déhiscents selon une suture ventrale.
+Fruit: 1 to 5 follicles per flower, pyriform or ellipsoid, narrowed at the base, terminated or not by a beak, with or without coarse protuberances, orange to red, velvety, dehiscent along a ventral suture.
 
-Graines solitaires subovoïdes ou ellipsoïdes; testa en partie charnu, jaune à rouge (sarcotesta), autre partie du testa mince, noire et luisante; hile basal; albumen absent, cotylédons plans-convexes, glabres; radicule apicale.
+Seeds solitary subovoïd or ellipsoid; testa partly fleshy, yellow to red (sarcotesta), other part of testa thin, black and shiny; hilum basal; albumen absent, cotyledons plane-convex, glabrous; radicle apical.
 
-Ce genre compte 7 espèces, 5 d'Afrique tropicale et 2 d'Asie. En Afrique, il existe depuis la Guinée Bissau jusqu'au Sud-Soudan et vers le Sud jusqu'en Angola, au Mozambique et à Madagascar. Toutes les espèces africaines sont représentées au Gabon.
+This genus comprises 7 species, 5 from tropical Africa and 2 from Asia. In Africa, it occurs from Guinea-Bissau to South Sudan and southward to Angola, Mozambique, and Madagascar. All African species are represented in Gabon.
 
-1. Feuilles 5-foliolées ..... 1. A. gabonensis
+1. Leaves 5-foliolate ..... 1. A. gabonensis
 
-1'. Feuilles 3-foliolées.
+1'. Leaves 3-foliolate.
 
-2. Sépales longs de 1,5-2 mm, non bordés de poils multicellulaires ; nombreuses cellules à mucus à la face supérieure des folioles, formant de petites ponctuations sur le sec ; poils non fasciculés ..... 2. A. parado
+2. Sepals 1.5–2 mm long, not edged with multicellular hairs; numerous mucilage cells on the upper surface of the leaflets, forming small punctations when dry; hairs not fasciculate ..... 2. A. parado
 
-2'. Sépales longs de (2,5-3-4(-5) mm, bordés de poils multicellulaires ; cellules à mucus absentes ; la plupart des poils fasciculés par 3 ou 4.
+2'. Sepals (2.5–)3–4(–5) mm long, edged with multicellular hairs; mucilage cells absent; most hairs fasciculate by 3 or 4.
 
 ## Species in region
 

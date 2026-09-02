@@ -17,27 +17,21 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+### Small perennial or annual herbs with slender culms, filiform leaves.
 
-### Petites herbes pérennes ou annuelles à tiges fines, feuilles filiformes.
+Cylindric or more or less compressed racemes, solitary at the apex of culms, disarticulating at the level of each joint. Joints and pedicels more or less linear or claviform, enclosing between them the sessile spikelet.
 
-Racèmes cylindriques ou plus ou moins comprimés, solitaires à l'extrémité des chaumes, se désarticulant au niveau de chaque article. Articles et pédicelles plus ou moins linéaires ou claviformes, enfermant entre eux l'épillet sessile.
+Spikelets in pairs, the sessile one dorsally compressed, with a thin transverse callus fused to the contiguous joint and pedicel, the whole falling as a single piece at maturity. Two flowers, the lower male or neuter, the upper hermaphrodite, awnless. Lower glume coriaceous, transversely ridged on the back, upper glume hyaline, membranous, with 3 or 5 nerves, sometimes subulate. Lower lemmas linear-lanceolate, hyaline, with one, 2 and sometimes 3 nerves. Upper lemmas hyaline, smaller, sometimes very short, with 2 nerves, or nerves not visible. 2 lodicules; 3 stamens; stigmas short, erect.
 
-Épillets par paires, le sessile dorsalement compressé, avec un mince callus transversal soudé à l'article et au pédicelle contigus, le tout tombant en une seule pièce à maturité. Deux fleurs, l'inférieure mâle ou neutre, la supérieure hermaphrodite, mutique. Glume inférieure coriace, transversalement ridée sur le dos, glume supérieure hyaline, membraneuse, à 3 ou 5 nervures, parfois subulée. Glumelles inférieures linéaires lancéolées, hyalines, à une, 2 et parfois 3 nervures. Glumelles supérieures hyalines, plus petites, parfois très courtes, avec 2 nervures, ou nervures non visibles. 2 lodicules; 3 étamines; stigmates courts, dressés.
+Pedicelled spikelets rudimentary, represented only by a
 
-Épillets pédicellés rudimentaires, représentés seulement par un
+hair, or reduced to the pedicel.
 
-poil, ou réduits au pédicelle.
+The genus Rytachne comprises half a dozen species which are mostly small plants of humid meadows. Two species are recorded from Gabon:
 
-Le genre Rytachne compte une demi-douzaine d'espèces qui sont pour la plupart de petites plantes de prairies humides. Deux espèces sont signalées au Gabon :
+1. Lower glume of the sessile spikelet bearing very pronounced transverse crests occupying the entire width of the glume. 1. R. rottboellioides.
 
-1. Glume inférieure de l'épillet sessile portant des crêtes transversales
-
-très accusées occupant toute la largeur de la glume. 1. R. rottboellioides.
-
-1'. Glume inférieure de l'épillet sessile portant dans sa partie inférieure des tubercules plus ou moins marqués et généralement localisés sur les côtes uniquement ..... 2. R. Mannii.
-
----
+1'. Lower glume of the sessile spikelet bearing in its lower part more or less marked tubercles and generally localized on the ribs only ..... 2. R. Mannii.
 
 ## Species in region
 

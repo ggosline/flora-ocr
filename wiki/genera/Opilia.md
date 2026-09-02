@@ -17,21 +17,17 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+### OPILIACEAE
 
----
+Shrubs or lianes with coriaceous leaves. Axillary or very slightly supra-axillary racemes; flowers solitary or fasciculate. Bracts of variable size, caducous, those of large size giving a strobiliferous aspect to the young inflorescence. Flowers tetra- or pentamerous. Calyx small. Petals borne by the receptacle, free, valvate, reflexed. Stamens alternate with alternipetalous glands (sometimes entire disc). Ovary uniovulate; ovule pendulous from an erect central placenta. Style short and fine. Drupe containing a seed with endosperm.
 
-### OPILIACE
+Type species: O. amentacea Roxburgh.
 
-Arbustes ou lianes à feuilles coriaces. Grappes axillaires ou très légèrement supra-axillaires; fleurs solitaires ou fasciculées. Bractées de taille variable, caduques, celles de grande taille donnant un aspect strobiliforme à la jeune inflorescence. Fleurs tétra- ou pentamères. Calice petit. Pétales portés par le réceptacle, libres, valvaires, réfléchis. Étamines alternes avec les glandes alternipétales (parfois disque entier). Ovaire uniovulé; ovule pendant d'un placenta central dressé. Style court et fin. Drupe contenant une graine albuminée.
+This African and Asian genus comprises about twenty species. 15 are represented in Africa, 2 in Cameroon and Gabon.
 
-Espèce-type : O. amentacea Roxburgh.
+1. Shrubby liane or liane; young inflorescence strobiliferous; raceme.....
 
-Ce genre africain et asiatique groupe une vingtaine d'espèces. 15 sont représentées en Afrique, 2 au Cameroun et au Gabon.
-
-1. Arbuste lianescent ou liane; inflorescence jeune strobiliforme; grappe.....
-
-1'. Arbre; inflorescence jeune non strobiliforme; grappe de fascicules plus longue ou égale à la feuille..... 2. O. congolana.
+1'. Tree; young inflorescence not strobiliferous; raceme of fascicles longer than or equal to the leaf..... 2. O. congolana.
 
 ## Species in region
 

@@ -19,13 +19,11 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Perennial or annual herbs, prostrate or erect with leaf sheaths strongly compressed.
 
-Herbes pérennes ou annuelles prostrées ou dressées à gaines foliaires fortement compressées.
+False terminal or subterminal spikes, formed of short racemes of 2 to 5 spikelets more or less embedded in the flank, anterior to a common, flattened, spongy, continuous or articulate axis. Spikelets lanceolate, lower glume small, the upper approximately as long as the spikelet and with 5 or 7 nerves, or the two glumes similar and very small. Lower floret male or reduced to the lemma; the latter of the same size as the spikelet, generally with 3 to 7 nerves, palea, when present, bicarinate. Upper floret hermaphrodite, lemma coriaceous, with 3 or 5 nerves. Palea similar, tightly constricted between the margins of the palea, but with 2 nerves; 2 lodicules; 3 stamens; free styles.
 
-Faux épis terminaux ou subterminaux, formés de courts racèmes de 2 à 5 épilets plus ou moins enfoncés dans le flan, antérieur d'un axe commun aplat, spongieux, continu ou articulé. Épillets lancéolés, glume inférieure petite, la supérieure à peu près aussi longue que l'épillet et à 5 ou 7 nervures, ou les deux glumes semblables et très petites. Fleur inférieure mâle ou réduite à la lemma; celle-ci de la même taille que l'épillet, généralement de 3 à 7 nervures, paléa, lorsqu'elle est présente, bicarénée. Fleur supérieure hermaphrodite, lemma coriace, à 3 ou 5 nervures. Paléa semblable étroitement resserrée entre les bords de la paléa, mais à 2 nervures; 2 lodicules; 3 étamines; styles libres.
-
-Plantes généralement du bord de la mer, 2 espèces en Afrique, l'une sur les côtes occidentales ainsi qu'en Amérique, l'autre sur les côtes orientales, à Madagascar et autour de l'Océan Indien jusqu'à Ceylan. Une espèce au Gabon :
+Plants generally from the seashore, 2 species in Africa, one on the western coasts as well as in America, the other on the eastern coasts, in Madagascar and around the Indian Ocean to Ceylon. One species in Gabon:
 
 61.1 secundatum
 
@@ -73,9 +71,9 @@ ZOYSIA
 
 70.1a matrella var. pacificaA-
 
-### Spécimens récoltés après 1962
+### Specimens collected after 1962
 
-La liste complète des récoltes-témoins de cette mise à jour peut être obtenue en s’adressant directement à l’auteur à Wageningen.
+The complete list of voucher collections from this update can be obtained by contacting the author directly at Wageningen.
 
 ALERS (Lopé) 4 (12.1); 5 (3.3); 6 (3.4); 7 (28.9); 10 (46.2); 11 (23.2); 12 (47.4a); 15 (67.3); 16 (28.5); 17 (17.3); 19 (2.1); 23 (48.1); 25 (58.1); 28 (20.2a); 30 (30.1); 35 (45.13); 45 (39.2); 53 (66.1); 53 A (56.1); 55 (56.1); 91 (56.5); 107 (55.1); 108 (67.3); 110 (57.3); 114 (56.6); 138 (58.1); 187 (64.2).
 

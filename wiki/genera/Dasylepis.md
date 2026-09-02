@@ -14,8 +14,6 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 8.1 blackii, p. 30.
 
 SCOTTELLIA

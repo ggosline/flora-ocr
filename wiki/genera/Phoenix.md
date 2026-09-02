@@ -17,43 +17,13 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Polycarpic trees, dioecious, spiny; stem solitary or caespitose, covered with the remains of leaf sheaths. Leaves pinnate; sheath fibrous, forming a net; petiole short; rachis curved or straight; blade with numerous leaflets, regularly arranged on different planes, the basal ones modified into spines. Inflorescences axillary, interfoliar, solitary, branched once, unisexual, the male and female superficially similar; prophyll coriaceous, splitting in two; peduncle flattened; rachis flattened, as long as the peduncle; flowering branches arranged in spiral on the rachis; flowers solitary, arranged in spiral on the flowering branches, each subtended by a bract. Male flowers: calyx cupuliform, shortly 3-lobed; corolla with short tube, 3 imbricate lobes, longer than the sepals; stamens 6, filaments short, anthers basifixed, latrose; pistillode absent or present. Female flowers: calyx cupuliform, 3-lobed; corolla with 3(–4) imbricate petals, up to twice as long as the calyx; staminodes 6; gynoecium with 3(–4) free, ovoid carpels, 1 ovule per carpel; stigmas 3, short. Fruits ovoid to oblong, with apical stigmatic remnants, monospermic. Seed elongate, cylindric to plano-convex, smooth, with longitudinal groove.
 
-Arbres polycarpiques , dioïques, épineux ; stipe solitaire ou cespiteux, couvert des restes des
+Genus comprising 14 species from tropical Africa and Asia, one of which is represented in Gabon.
 
-gaines foliaires. Feuilles pennées ; gaine fibreuse, formant un filet ; pétiole court ; rachis cour -
+B: Barrow (1998), Dransfield (1986, 2010), Dransfield et al. (2008).
 
-bé ou droit ; limbe à folioles nombreuses, arrangées régulièrement sur différents plans, les
-
-basales modifiées en épine . Inflorescences axillaires, interfoliaires, solitaires, ramifiées une
-
-fois, unisexuées, les mâles et femelles superficiellement semblables ; préfeuille coriace, se
-
-fendant en deux ; pédoncule aplati ; rachis aplati, aussi long que le pédoncule ; rameaux flo -
-
-rifères disposés en spirale sur le rachis ; fleurs solitaires, disposées en spirale sur les rameaux
-
-florifères, chacune sous-tendue par une bractée. Fleurs mâles : calice cupuliforme, courtement
-
-3-lobé ; corolle à tube court, à 3 lobes imbriqués, plus longue que les sépales ; étamines 6,
-
-filets courts, anthères basifixes, latrorses ; pistillode absent ou présent. Fleurs femelles : calice
-
-cupuliforme, 3-lobé ; corolle à 3(–4) pétales imbriqués, jusqu’à deux fois plus longs que le
-
-calice ; staminodes 6 ; gynécée à 3(–4) carpelles libres, ovoïdes, à 1 ovule par carpelle ; stig -
-
-mates 3, courts. Fruits ovoïdes à oblongs, avec des restes stigmatiques apicaux, monospermes.
-
-Graine allongée, cylindrique à plan-convexe, lisse, à sillon longitudinal.
-
-Genre comprenant 14 espèces de l’Afrique et de l’Asie tropicale, dont une est représentée au
-
-Gabon.
-
-B : Barrow (1998), Dransfield (1986, 2010), Dransfield et al. (2008).
-
-i B liographie
+Bibliography
 
 ## Species in region
 

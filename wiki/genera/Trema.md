@@ -17,35 +17,31 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Trees or shrubs, monoecious or dioecious, unarmed, evergreen. Stipules paired, lateral,
 
-Arbres ou arbustes , monoïques ou dioïques, inermes , sempervirents. Stipules appariées, laté-
+free, caducous, leaving a short transverse scar on each side at the base of the
 
-rales, libres, caduques, laissant une courte cicatrice transversale de chaque côté de la base des
+leaves. Leaves alternate; lamina penninerved or triplinnerved, ± scabrous, generally unequal at
 
-feuilles. Feuilles alternes ; limbe penninervé ou triplinervé, ± scabre, généralement inégal à
+the base, with serrate margin. Inflorescences axillary on shoots of the year, generally
 
-la base, à marge serrée . Inflorescences axillaires sur les pousses de l’année , généralement
+condensed, with numerous flowers, cymes with male dominance and fewer female or
 
-condensées, à nombreuses fleurs, cymes à dominance mâle et moins de fleurs femelles ou
+hermaphrodite flowers situated towards the apex. Flowers: tepals (4 or)5, shortly connate at the base, in
 
-hermaphrodites situées vers l’apex. Fleurs : tépales (4 ou)5, courtement connés à la base, dans
+male buds induplicate-valvate, in female ones ± imbricate; stamens in number equal to the tepals; ovary sessile, 1-locular; styles 2, short, divaricate or involute, non-
 
-les boutons mâles indupliqués-valvaires , dans les femelles ± imbriqués ; étamines en nombre
+ramified, generally persistent. Fruits as weakly fleshy drupes; endocarp bony,
 
-égal aux tépales ; ovaire sessile, 1-loculaire ; styles 2, courts, divariqués ou involutés, non
+endosperm fleshy; cotyledons very narrow.
 
-ramifiés, généralement persistants. Fruits en drupes faiblement charnues ; endocarpe osseux,
+Genus known from tropical and subtropical regions, with approximately 20 species, one of which occurs in
 
-endosperme charnu ; cotylédons très étroits.
+continental Africa and is present in Gabon.
 
-Genre connu des régions tropicales et subtropicales, avec environ 20 espèces, dont une en
+B: Hutchinson et al. (1958), Letouzey (1968), Polhill (1966), Todzia (1993), Wilmot-Dear
 
-Afrique continentale et présente au Gabon.
-
-B : Hutchinson et al. (1958), Letouzey (1968), Polhill (1966), Todzia (1993), Wilmot-Dear
-
-i B liographie
+Bibliography
 
 (1991).
 

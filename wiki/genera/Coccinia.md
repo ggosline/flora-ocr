@@ -17,9 +17,7 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-### (par Norbert HOLSTEIN)
+### (by Norbert HOLSTEIN)
 
 Prodr. fl. Ind. orient.: 347 (1834).
 
@@ -29,21 +27,21 @@ Physedra Benth. & Hook.f., Gen. pl. 1(3): 827 (1867).
 
 Staphylococce Benth. & Hook.f., Gen. pl. 1(3): 828 (1867).
 
-Herbes grimpantes ou rampantes, dioïques, ±lignifiées à la base, souvent avec tubercules; tiges glabres ou à poils simples, jusqu'à 20 m de longueur. Vrilles simples ou inégalement bifides. Feuilles pétiolées ou sessiles, simples; limbe réniforme à cordiforme ou profondément 3- à 7-palmatilobé, à marge munie d'hydatodes denticuliformes. Inflorescences à probractée ovoïde ou caduque; la mâle en fascicule ou racème, souvent accompagnée par 1 ou 2 fleurs uniques, rarement à fleur solitaire; la femelle à fleur solitaire ou en racème solitaire, parfois accompagnée par une fleur unique à la base; bractées caduques, ovoïdes, un peu plus courtes que la probractée. Fleurs mâles: réceptacle large et peu profond, rarement urcéolé; sépales subulés à triangulaires, la base adhérente à la corolle; corolle campanulé, blanche, jaune pâle ±orangé, à lobes étroitement elliptiques-ovales à triangulaires; étamines 3, toutes bithèques ou 2 bithèques et une monothèque, cohérentes, à anthères formant une masse globuleuse. Fleurs femelles à périanthe comme chez les fleurs mâles; ovaire 3-loculaire, avec quelques ou plusieurs ovules horizontaux. Fruits en baie, globuleux à ellipsoïdaux, immatures verts, souvent avec des bandes longitudinales de macules blanches, parfois aussi vert foncé, qui disparaissent généralement à maturation, rouge à maturité. Graines enveloppées par un arille, aplaties à lenticulaires, asymétriquement obovoïdes, grises à beiges.
+Climbing or trailing herbs, dioecious, ± lignified at the base, often with tubercles; stems glabrous or with simple hairs, up to 20 m in length. Tendrils simple or unequally bifid. Leaves petiolate or sessile, simple; blade reniform to cordate or deeply 3- to 7-palmatifid, with margin furnished with denticuliform hydatodes. Inflorescences with ovoid or caducous probract; the male in fascicle or raceme, often accompanied by 1 or 2 solitary flowers, rarely with solitary flower; the female with solitary flower or in solitary raceme, sometimes accompanied by a solitary flower at the base; bracts caducous, ovoid, somewhat shorter than the probract. Male flowers: receptacle broad and shallow, rarely urceolate; sepals subulate to triangular, the base adnate to the corolla; corolla campanulate, white, pale yellow ± orange, with lobes narrowly elliptic-ovate to triangular; stamens 3, all bithecate or 2 bithecate and one monothecate, coherent, with anthers forming a globose mass. Female flowers with perianth as in male flowers; ovary 3-locular, with several or many horizontal ovules. Fruits berries, globose to ellipsoid, immature green, often with bands of white spots lengthwise, sometimes also dark green, which generally disappear at maturity, red at maturity. Seeds enclosed by an aril, flattened to lenticular, asymmetrically obovoid, grey to beige.
 
-Genre africain avec 25 espèces dont une, C. grandis (L.) Voigt, aussi en Asie et introduite dans de nombreuses autres régions tropicales et subtropicales ; au Gabon, trois espèces.
+African genus with 25 species of which one, C. grandis (L.) Voigt, also in Asia and introduced into many other tropical and subtropical regions; in Gabon, three species.
 
-Notes : Les trois espèces présentes au Gabon ne sont pas bien séparées dans les phylogénies. C. heterophylla et C. racemiflora sont morphologiquement bien caractérisées, mais sont incluses avec C. barteri dans un complexe très variable.
+Notes: The three species present in Gabon are not well separated in phylogenies. C. heterophylla and C. racemiflora are morphologically well characterized, but are included with C. barteri in a highly variable complex.
 
-BIBLIOGRAPHIE: Holstein (2015), Holstein & Renner (2011), Jeffrey (1967), Keraudren (1967), Keraudren-Aymonin (1975), Schaefer & Renner (2011a).
+BIBLIOGRAPHY: Holstein (2015), Holstein & Renner (2011), Jeffrey (1967), Keraudren (1967), Keraudren-Aymonin (1975), Schaefer & Renner (2011a).
 
-1. - Sépales subulés, longs de 5–7 mm; vrilles toujours bifides; fruit 4–6 × 2–2,5 cm.
+1. - Sepals subulate, 5–7 mm long; tendrils always bifid; fruit 4–6 × 2–2.5 cm.
 
-- Sépales linéaires, subulés or étroitement triangulés, longs de <2,5 mm; vrilles simples ou bifides; fruit 1,5–2,5 × ±1,5 cm..... 2
+- Sepals linear, subulate or narrowly triangulate, <2.5 mm long; tendrils simple or bifid; fruit 1.5–2.5 × ±1.5 cm..... 2
 
 ---
 
-2. - Fleurs mâles fasciculées ou en racèmes denses; fleurs femelles et fruits solitaires ou en racèmes denses; vrilles simples ou bifides..... C. barteri
+2. - Male flowers fasciculate or in dense racemes; female flowers and fruits solitary or in dense racemes; tendrils simple or bifid..... C. barteri
 
 ## Species in region
 

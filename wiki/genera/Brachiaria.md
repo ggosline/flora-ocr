@@ -16,29 +16,25 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 Gris., Lebed. Fl. Ross. IV : 469.
 
-Herbes pérennes ou annuelles, feuilles linéaires ou plus ou moins lancéolées.
+Perennial or annual herbs, leaves linear or more or less lanceolate.
 
-Epillets en racèmes unilatéraux, ceux-ci sessiles sur un axe commun, rachis mince ou plus ou moins aplati avec une nervure en zigzag sur la face ventrale portant les épillets; ceux-ci, oblongs, mutiques, sont convexes sur le dos. Glume inférieure petite, la supérieure ressemblant à la lemma inférieure, à 5, 7 ou 9 nervures. Fleur inférieure mâle ou neutre, à paléa bien développe. Fleur supérieure à lemma coriace, bords enroulés, 5 nervures. Paléa de même texture, aussi longue, bicarénée. Deux lodicules; 3 étamines; styles distincts.
+Spikelets in one-sided racemes, these sessile on a common axis, rachis thin or more or less flattened with a zigzag vein on the ventral face bearing the spikelets; these, oblong, awnless, are convex on the back. Lower glume small, the upper resembling the lower lemma, with 5, 7 or 9 veins. Lower flower male or neuter, with a well-developed palea. Upper flower with coriaceous lemma, margins inrolled, 5 veins. Palea of the same texture, equally long, bicarinate. Two lodicules; 3 stamens; distinct styles.
 
-Environ 80 espèces, surtout en Afrique; 4 sont signalées au Gabon.
+Approximately 80 species, mainly in Africa; 4 are recorded from Gabon.
 
-1. Rachis des racèmes aplati-rubané, ceux-ci composés, nombreux, avec des épilets de 3-3,5 mm de long; longues feuilles linéaires; herbes d'endroits humides ..... I. B. mutica.
+1. Rachis of racemes flattened-ribbon-like, these composed, numerous, with spikelets 3–3.5 mm long; long linear leaves; herbs of wet places ..... I. B. mutica.
 
-1'. Rachis des racèmes filiforme, triquètre ou plus ou moins aplaté mais non nettement rubané :
+1'. Rachis of racemes filiform, triquetrous or more or less flattened but not distinctly ribbon-like :
 
-2. Inflorescence formée de 2 à 8 racèmes dressés, jusqu'à 15 cm de long; épillets en une série longitudinale, ovoïdes, jusqu'à 6 mm de long; feuilles longuement linéaires ..... 2. B. brizantha.
+2. Inflorescence formed of 2 to 8 erect racemes, up to 15 cm long; spikelets in a single longitudinal series, ovoid, up to 6 mm long; leaves elongate linear ..... 2. B. brizantha.
 
-2'. Inflorescence en panicule formée de 6 à très nombreux racèmes simples ou composés, du moins dans leur partie inférieure, les ramifications secondaires très courtes; feuilles lancéolées, ondulées crispées sur les bords.
+2'. Inflorescence in a panicle formed of 6 to very numerous simple or compound racemes, at least in their lower part, the secondary ramifications very short; leaves lanceolate, wavy crisped on the margins.
 
-3. Racèmes lâches formés de petits racèmes secondaires ou de glomérules de 2 à 6 épilets; fleur inférieure mâle. 3. B. Kotschyana.
+3. Racemes lax formed of small secondary racemes or glomérules of 2 to 6 spikelets; lower flower male. 3. B. Kotschyana.
 
-3'. Racèmes denses d'épillets solitaires ou les plus inférieurs par 2; fleur inférieure neutre ..... 4. B. distichophylla.
-
----
+3'. Racemes dense with solitary spikelets or the lowest paired; lower flower neuter ..... 4. B. distichophylla.
 
 ## Species in region
 

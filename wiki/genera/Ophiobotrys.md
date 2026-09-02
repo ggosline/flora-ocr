@@ -17,23 +17,17 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Trees or shrubs.
 
-Arbres ou arbustes.
+Leaves petiolate, entire; stipules caducous.
 
-Feuilles pétiolées, entières ; stipules caduques.
+Inflorescences in terminal panicles, multiflorous, lax, composed of spiciform racemes, subsessile. Flowers generally ¥; sometimes plants polygamous; with small persistent bracts fused together into a cupule; sepals 5, subimbricate; petals absent; receptacular disk furnished with villous lobes; stamens 5-6, alternating with the disk lobes; ovary tomentose, with 3 multiovulate placentas; style thick, divided into 3 stigmatic branches.
 
-Inflorescences en panicules terminales, multiflores, lâches, composées de racèmes spiciformes, subsessiles. Fleurs généralement ¥ ; parfois plantes polygames ; de petites bractées persistantes et soudées entre elles en cupule ; sépales 5, subimbriqués ; pétales absents ; disque du réceptacle pourvu de lobes velus ; étamines 5-6, alternant avec les lobes du disque ; ovaire tomenteux, à 3 placentas multiovulés ; style épais, divisé en 3 branches stigmatiques.
+Fruits: capsules with 3 valves; seeds 1-2.
 
-Fruits : capsules à 3 valves ; graines 1-2.
+TYPE SPECIES: O. zenkeri GILG.
 
-ESPÈCE-TYPE : O. zenkeri GILG.
-
-### Genre monotypique de l’Afrique tropicale occidentale et centrale.
-
----
-
----
+### Monotypic genus of tropical western and central Africa.
 
 ## Species in region
 

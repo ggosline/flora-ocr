@@ -16,33 +16,15 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+in Hook., Niger Fl.: 445 (1849).
 
-in Hook., Niger Fl. : 445 (1849).
+Lianes with tendrils, with white latex. Leaves opposite, with short petioles, inserted on distinct cushions. Inflorescences axillary, solitary or in pairs, thyrsoid, bracteate. Flowers: calyx with equal or subequal lobes, without colleters; corolla: tube with wall not thickened above the stamens, with lobes overlapping toward the left; stamens included, anthers introrse, not carinate; ovary unilocular, with 2 parietal placentas bearing ovules each nearly connate at the base and at the apex (thus ovary often appearing 2-locular); pistil never touching the stamens. Syncarpous fruits, in fleshy berries, globular or pyriform, yellow or orange, exocarp with sclerified layers, glabrous; fibrous pulp, red, acidic. Seeds ovoid, testa thin, smooth, endosperm abundant.
 
-Lianes , avec des vrilles , à latex blanc. Feuilles opposées, à pétioles courts, insérées sur des
+Monotypic genus, limited to tropical Africa.
 
-coussinets distincts. ,QÀRUHVFHQFHV axillaires VROLWDLUHVRXHQSDLUHWK\UVRwGHVEUDFWpHVLQ -
+B: Beentje (2021), Endress et al. (2019), Leeuwenberg & Berndsen (1988), Omino (2002).
 
-Ipulhxuhvvpsdorwghv Fleurs : calice à lobes égaux ou subégaux, sans collétères ; corolle : tube
-
-à paroi non épaissie au-dessus des étamines, à lobes recouvrant vers la gauche ; étamines
-
-incluses , anthères introrses, non carénées ; ovaire uniloculaire, avec 2 placentas pariétaux
-
-SRUWDQWjRYXOHVFKDFXQSUHVTXHFRQQpVjODEDVHHWDXVRPPHWGRQFRYDLUHVRXYHQWHQ
-
-apparence 2-loculaire) ; pistil ne touchant jamais les étamines . Fruits syncarpes, en baies
-
-charnues JOREXOHX[RXSLULIRUPHVMDXQHVRXRUDQJHH[RFDUSHjFRXFKHVFOpUL¿pH glabre ;
-
-SXOSH¿EUHXVHURXJHDFLGH Graines RYRwGHVWHVWDPLQFHOLVVHHQGRVSHUPHDERQGDQW
-
-*HQUHPRQRW\SLTXHOLPLWpjO¶$IULTXHWURSLFDOH
-
-B : Beentje (2021), Endress et al. (2019), Leeuwenberg & Berndsen (1988), Omino (2002).
-
-IBLIOGRAPHIE
+BIBLIOGRAPHY
 
 ---
 

@@ -17,25 +17,23 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Shrubs or lianes. Leaves petiolate. Flowers pentamerous. Stamens 10-13 on a short androgynophore. Staminodes 10-13 in the ♀ flower. Ovary aborted in the ♂ flower; with 4-5 locules containing numerous ovules in the ♀ flower. Stigma with 5 lobes. Berry globose. Seed reniform with pubescent testa.
 
-Arbustes ou lianes. Feuilles pétiolées. Fleurs pentamères. Étamines 10-13 sur un androgynophore court. Staminodes 10-13 dans la fleur ♀. Ovaire avorté dans la fleur ♂; à 4-5 loges contenant de nombreux ovules dans la fleur ♀. Stigmate à 5 lobes. Baie globuleuse. Graine réniforme à testa pubescent.
-
-Ce genre monospécifique est présent au Cameroun et au Gabon.
+This monotypic genus is present in Cameroon and Gabon.
 
 ---
 
 ### J.-F. VILLIERS
 
-Pentadiplandra a une position systématique peu stable. Il fut d'abord placé par BAILLON dans les Tiliaceæ, puis il fut incorporé à la famille des Capparaceæ. Actuellement il constitue la famille des Pentadiplandraceæ créée par HUTCHINSON.
+Pentadiplandra has an unstable systematic position. It was first placed by BAILLON in the Tiliaceæ, then it was incorporated into the family Capparaceæ. Currently it constitutes the family Pentadiplandraceæ created by HUTCHINSON.
 
-### CLÉ DES VARIÉTÉS
+### KEY TO VARIETIES
 
-1. Base des feuilles atténuée; limbe cliptique ou lancéolé .....
+1. Base of leaves attenuate; blade elliptic or lanceolate .....
 
 …… P. brazzeana var. brazzeana.
 
-1'. Base des feuilles arrondie; limbe elliptique..... P. brazzeana var. valida.
+1'. Base of leaves rounded; blade elliptic..... P. brazzeana var. valida.
 
 ## Species in region
 

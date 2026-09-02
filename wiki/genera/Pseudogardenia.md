@@ -17,23 +17,21 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Shrub ± lianescent with pubescent extremities. Stipules erect triangular acute, connate at the axils. Leaves with petiole medium or short. No domatia.
 
-Arbuste ± lianescent à extrémités pubescentes. Stipules dressées triangulaires aiguës, connées aux aisselles. Feuilles à pétiole moyen ou court. Pas de domaties.
-
-Fleurs solitaires pubescentes, terminales sur des rameaux latéraux à 3-8 nœuds feuillés, penta ou hexamères. Ovaire à sillons longitudinaux. Calice profondément tubuleux conique à rebord tronqué masqué par une couronne externe de grands lobes foliacés insérés au-dessous du sommet. Corolle très développée semblable à celle des Rothmannia. Anthères ± incluses sessiles, dorsifixes, fendues à la base; pollen en grains simples
+Flowers solitary pubescent, terminal on lateral branchlets with 3–8 leafy nodes, penta- or hexamerous. Ovary with longitudinal grooves. Calyx deeply tubular conical with truncate margin masked by an external corona of large foliaceous lobes inserted below the apex. Corolla very developed resembling that of Rothmannia. Anthers ± included sessile, dorsifixed, cleft at the base; pollen in simple grains
 
 ---
 
-tricolporés, brévicolpés, subsphériques d'env. 50 μ à exine réticulée. Style pubescent à stigmate volumineux ± exsert, elliptique, biapiculé. Ovaire uniloculaire à deux longs placentas pariétaux multiovulés.
+tricolporate, brevicolpate, subspheric of approx. 50 μ with reticulate exine. Style pubescent with voluminous stigma ± exsert, elliptic, biapiculate. Ovary unilocular with two long multiovulate parietal placentas.
 
-Fruit bacciforme subglobuleux 10-12 sulqué.
+Fruit bacciform subglobose 10–12 sulcate.
 
-Genre monotypique.
+Monotypic genus.
 
 1. Pseudogardenia Kalbreyeri (Hiern) Keay (PL. 53, p. 227)
 
-R. W. J. Keay, ref. ci-dessus.
+R. W. J. Keay, ref. above.
 
 = Gardenia Kalbreyeri Hiern, Journ. Bot. 16:97, t. 195 (1878). — F.W.T.A. ed. 1, 2:73 (1931).
 
@@ -41,15 +39,15 @@ R. W. J. Keay, ref. ci-dessus.
 
 = Randia purpureo-maculata C. H. Wright, Kew Bull.: 123 (1901).
 
-Arbuste sarmenteux ou liane dépassant 6 m de hauteur; entrenœuds ± pubescents de 1-6(10) cm de longueur. Stipules de 4-10 mm, pubescentes, ± caduques. Pétioles pubescents de 3-12 mm. Limbe glabre ou un peu pubescent dessus, ± pubescent dessous, brunâtre dessus à sec, obové de (7)12-24 × 4-10 cm, à base atténuée aiguë ou ± étroitement obtuse à subtronquée; sommet acuminé. 8-15 paires de nervures secondaires pubescentes ainsi que la médiane à la face inférieure.
+Shrub sarmentose or liane exceeding 6 m in height; internodes ± pubescent 1–6(10) cm in length. Stipules 4–10 mm, pubescent, ± caducous. Petioles pubescent 3–12 mm. Blade glabrous or somewhat pubescent above, ± pubescent below, brownish above when dry, obovate (7)12–24 × 4–10 cm, base attenuate acute or ± narrowly obtuse to subtruncate; apex acuminate. 8–15 pairs of secondary nerves pubescent as well as the midvein on the lower face.
 
-Pédicelle pubescent de 5-10 mm de longueur. Fleur très odorante. Préfloraison tordue. Calice velu étroitement conique de 10-15 mm de longueur au niveau de l'ovaire, tubuleux sur 20-40 mm de hauteur, à lobes ovés-lancéolés de 15-25 × 6-15 mm insérés env. 2-4 mm au-dessous du rebord de la partie tubuleuse. Corolle blanche, jaunâtre ou verdâtre mouchetée-striée intérieurement de pourpre ± violacé, densément pubescente ochracéc à sec, à tube de 10-16 cm de longueur, à lobes ovés ou lancéolés de 4-8 × 2-4,5 cm; gorge large, glabre à l'intérieur, le fond du tube étant au contraire ± pubescent. Anthères de 25-30 × 3 mm, à sommet souvent tordu, fixées vers le tiers ou le quart inférieur;
-
----
+Pedicel pubescent 5–10 mm in length. Flower very fragrant. Prefloration twisted. Calyx hairy narrowly conical 10–15 mm in length at the level of the ovary, tubular for 20–40 mm in height, with ovate-lanceolate lobes 15–25 × 6–15 mm inserted approx. 2–4 mm below the margin of the tubular part. Corolla white, yellowish or greenish dotted-striped inside with purple ± violaceous, densely pubescent ochraceus when dry, with tube 10–16 cm in length, with ovate or lanceolate lobes 4–8 × 2–4.5 cm; throat wide, glabrous inside, the bottom of the tube being on the other hand ± pubescent. Anthers 25–30 × 3 mm, apex often twisted, inserted towards the lower third or quarter;
 
 ---
 
-le connectif apparaît ventralement entre les deux thèques. Style à colonne glabre vers le bas, pubescente vers le haut et au niveau des anthères, à massue elliptique de  $ 25-30 \times 5-10 \, mm $,  $ \pm $ entièrement exserte. Ovaire long et cannelé extérieurement.
+---
+
+the connective appears ventrally between the two thecae. Style with column glabrous towards the base, pubescent towards the apex and at the level of the anthers, with elliptic club $25–30 \times 5–10 \, mm$, $\pm$ entirely exsert. Ovary long and grooved externally.
 
 ## Species in region
 

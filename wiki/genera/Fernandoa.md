@@ -17,37 +17,35 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+- Ferdinandoa SEEM., J. of Bot. 8: 280 (1870), sphalm. for Fernandoa.
 
-- Ferdinandoa SEEM., J. of Bot. 8: 280 (1870), sphalm. pour Fernandoa.
+– Ferdinanda BENTH. & HOOK. f., Gen. Pl. 2: 1047 (1876), pro syn., non LAG. (1816).
 
-– Ferdinanda BENTH. & HOOK. f., Gen. Pl. 2 : 1047 (1876), pro syn., non LAG. (1816).
+- Fernandia Baill., Hist. Pl. 10: 47 (1888), nom. nov. for Fernandoa; K. Schum., in Engl. & Prantl, Nat. Pflanzenfam. 4 (3b): 243 (1895).
 
-- Fernandia Baill., Hist. Pl. 10: 47 (1888), nom. nov. pour Fernandoa; K. Schum., in Engl. & Prantl, Nat. Pflanzenfam. 4 (3b): 243 (1895).
-
-– Kigelianthe BaILL., Hist. Pl. 10 : 50 (1888).
+– Kigelianthe BAILL., Hist. Pl. 10: 50 (1888).
 
 – Tisserantodendron SILLANS, Bull. Soc. Bot. France 98: 270 (1951). TYPE: T. chevalieri SILLANS (= F. adolfi-friderici).
 
-– Spathodeopsis P. Dop, C.R. Ac. Sc. Paris 189 : 1097 (1929). TYPE : S. collignonii DON.
+– Spathodeopsis P. Dop, C.R. Ac. Sc. Paris 189: 1097 (1929). TYPE: S. collignonii DON.
 
 ---
 
-Arbres. Feuilles opposées, composées imparipennées.
+Trees. Leaves opposite, imparipinnate compound.
 
-Inflorescences le plus souvent ramiflores, racémeuses réduites, pauciflores. Calice très largement campanulé, habituellement lobé presque au milieu ou sous le milieu. Corolle grande, largement campanulée à campanulée-infundibuliforme, rouge-orange ou jaune. Étamines 4, subexsertes, staminode petit. Ovaire linéaire, habituellement courtemet pubérulent, ovules multisériés. Disque bien développé.
+Inflorescences mostly ramiflorous, reduced racemose, few-flowered. Calyx very broadly campanulate, usually lobed almost at the middle or below the middle. Corolla large, broadly campanulate to campanulate-infundibuliform, red-orange or yellow. Stamens 4, subexserted, staminode small. Ovary linear, usually shortly puberulent, ovules multiseriate. Disc well developed.
 
-Capsules (non connues dans quelques espèces) linéaires, subcylindriques, longitudinalement striées, déhiscentes perpendiculairement au septum. Graines minces, biaillées à ailes hyalines.
+Capsules (unknown in some species) linear, subcylindric, longitudinally striate, dehiscent perpendicular to the septum. Seeds thin, bialate with hyaline wings.
 
-ESPÉCE-TYPE : Fernandoa superba Welw. ex Seem. (= F. ferdinandi (Welw.) Milne-Redh.).
+TYPE SPECIES: Fernandoa superba Welw. ex Seem. (= F. ferdinandi (Welw.) Milne-Redh.).
 
-7 espèces, 3 à Madagascar, 3 en Afrique, et au moins une en Asie. En plus des deux espèces gabonaises, F. magnifica Seem., se rencontre dans la partie orientale du continent africain s'étendant du Kenya au Mozambique. Van STEENIS (Blumea 23: 121-138, 1976; Flora Malesiana, ser. 1, 8(2): 114-186, 1977) considérait Haplophragma Dop., genre tropical asiatique, comme étant une partie de Fernandoa, mais cela en fait un genre extrêmement hétérogène autrement bien délimité ; d'un côté, Lamiodendron STEENIS de Nouvelle Guinée, maintenu par Van Steenis, serait bien ajusté dans Fernandoa.
+7 species, 3 from Madagascar, 3 from Africa, and at least one from Asia. In addition to the two Gabonese species, F. magnifica Seem. is encountered in the eastern part of the African continent extending from Kenya to Mozambique. Van STEENIS (Blumea 23: 121–138, 1976; Flora Malesiana, ser. 1, 8(2): 114–186, 1977) considered Haplophragma Dop., an Asian tropical genus, to be part of Fernandoa, but this makes it an extremely heterogeneous genus otherwise well delimited; on the other hand, Lamiodendron STEENIS from New Guinea, maintained by Van Steenis, would fit well within Fernandoa.
 
-### CLÉ DES ESPÈCES
+### KEY TO SPECIES
 
-1. Fleurs jaunes, longues de moins de 6 cm et larges de moins de 3 cm ; feuilles glabres dessous sauf dans les aisselles nervuraires et parfois le long des nervures principales ..... 1. F. adolfi-friderici.
+1. Flowers yellow, less than 6 cm long and less than 3 cm wide; leaves glabrous beneath except in the nerve axils and sometimes along the principal nerves ..... 1. F. adolfi-friderici.
 
-1'. Fleurs orange ; longues de plus de 6 cm et larges de plus de 3 cm, feuilles densément tomenteuses dessous ..... 2. F. ferdinandi.
+1'. Flowers orange; more than 6 cm long and more than 3 cm wide, leaves densely tomentose beneath ..... 2. F. ferdinandi.
 
 ## Species in region
 

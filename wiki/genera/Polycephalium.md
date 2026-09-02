@@ -17,13 +17,11 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Dioecious liane. Leaves palmate-veined, lobed or entire. Hydathodes present. Male inflorescences in panicles of glomerules, axillary. Male flowers trimerous, without calyx, gamopetalous, with 3 stamens, without ovary. Female inflorescence in solitary axillary glomerules. Female flowers with a calyx, gamopetalous. Ovary ellipsoid; style pubescent, stigma peltate. Drupe sessile surrounded by the accrescent corolla. Endocarp woody, verrucose on its inner face.
 
-Liane dioïque. Feuilles palminerves, lobées ou entières. Hydathodes présents. Inflorescences ♂ en panicules de glomérules, axillaires. Fleurs ♂ trimères, sans calice, gamopétales, à 3 étanines, sans ovaire. Inflorescence ♀ en glomérules solitaires axillaires. Fleurs ♀ avec un calice, gamopétales. Ovaire ellipsoïde; style pubescent, stigmate pelté. Drupe sessile entourée par la corolle accrescente. Endocarpe ligneux verruqueux à sa face interne.
+TYPE SPECIES: P. poggei Engl. (= P. lobatum (Pierre) Pierre ex Engl.).
 
-ESPÈCE-TYPE : P. poggei Engl. (= P. lobatum (Pierre) Pierre ex Engl.).
-
-Ce genre africain groupa 2 espèces. Une seule est présente au Came-roun et au Gabon.
+This African genus grouped 2 species. Only one is present in Cameroon and Gabon.
 
 ## Species in region
 

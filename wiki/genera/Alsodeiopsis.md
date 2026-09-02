@@ -16,87 +16,81 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 in BENTHAM & HOOKER F., Gen. Pl. 1 (3) : 996 (1867).
 
 — Alsodeidium Engl., Pflanzenw. Ost. Afr. C : 248 (1895).
 
-Arbres ou arbustes. Inflorescence en panicule ombelliforme ou corymbiforme. Bractées linéaires de petite taille. Boutons floraux ovoïdes ou coniques. Fleurs ♀ pentamères. Calice présent. Corolle gamopétale. Étamines à connectif appendiculé et à anthères ovales-oblongues. Ovaire hirsute. Style long et grêle à stigmate capité globuleux. Drupe ellipsoïde pubescente.
+Trees or shrubs. Inflorescence in umbelliform or corymbiform panicles. Bracts linear, small. Floral buds ovoid or conical. Flowers ♀ pentamerous. Calyx present. Corolla gamopetalous. Stamens with appendiculate connective and oval-oblong anthers. Ovary hirsute. Style long and slender with globose capitate stigma. Drupe ellipsoid pubescent.
 
-Espèce-type : A. mannii Oliv.
+Type species: A. mannii Oliv.
 
-Ce genre africain groupe 11 espèces dont 7 sont présentes au Cameroun et au Gabon. Ces espèces souvent très affines sont difficiles à séparer.
+This African genus comprises 11 species, of which 7 are present in Cameroon and Gabon. These species, often very closely related, are difficult to distinguish.
 
-1. Face supérieure du limbe éparsement pubescente ou pubescente.
+1. Upper surface of limb sparsely pubescent or pubescent.
 
-2. Face inférieure du limbe pubescente à poils longs; pétales hirsutes; inflorescence multiflore; pétiole long de 0-5 mm.
+2. Lower surface of limb pubescent with long hairs; petals hirsute; inflorescence multiflorous; petiole 0.5 mm long.
 
-2'. Face inférieure du limbe pubescente à poils courts; pétales éparsement pubes-
-
-cents; inflorescence bi- ou triflore; pétiole long de 0-2 mm.
+2'. Lower surface of limb pubescent with short hairs; petals sparsely pubescent; inflorescence bi- or triflorous; petiole 0-2 mm long.
 
 2. A. weissenborniana.
 
-1'. Face supérieure du limbe glabre ou glabrescente.
+1'. Upper surface of limb glabrous or glabrescent.
 
-3. Pétiole glabre; face inférieure du limbe glabre..... 3. A. mannii.
+3. Petiole glabrous; lower surface of limb glabrous..... 3. A. mannii.
 
-3'. Pétiole pubescent; face inférieure du limbe pubescente.
+3'. Petiole pubescent; lower surface of limb pubescent.
 
 ---
 
-4. Face inférieure du limbe éparsement pubescente..... 4. A. staudti.
+4. Lower surface of limb sparsely pubescent..... 4. A. staudti.
 
-4'. Face inférieure du limbe densément pubescente.
+4'. Lower surface of limb densely pubescent.
 
-5. Poils appressés.
+5. Hairs appressed.
 
-6. Pétales entièrement pubescents extérieurement; pubescence roussâtre ou jaunâtre.
+6. Petals entirely pubescent externally; pubescence rusty or yellowish.
 
-7. Limbe étroitement elliptique; sommet atténué ou courtemment acuminé.
+7. Limb narrowly elliptic; apex attenuate or shortly acuminate.
 
-5. A. zenk
+5. A. zenkeri.
 
-7'. Limbe largement elliptique; sommet acuminé ± obtus.....
+7'. Limb broadly elliptic; apex acuminate ± obtuse.....
 
 ..... 7. A. poggei var. robynsii.
 
-6'. Pétales pubescents sur la ligne médiane; pubescence blanchâtre.....
+6'. Petals pubescent on the midline; pubescence whitish.....
 
-6. A. rowlandii
+6. A. rowlandii.
 
-5'. Poils dressés..... 7. A. poggei var. poggei.
+5'. Hairs erect..... 7. A. poggei var. poggei.
 
-### CLÉ DES ESPÈCES PAR L'APPAREIL VÉGÉTATIF
+### KEY TO SPECIES BY VEGETATIVE CHARACTERS
 
-1. 8-19 paires de nervures secondaires.
+1. 8–19 pairs of secondary nerves.
 
-2. Face inférieure du limbe glabre..... 3. A. mannii.
+2. Lower surface of limb glabrous..... 3. A. mannii.
 
-2'. Face inférieure du limbe pubescente; pétiole pubescent..... 1. A. rubra.
+2'. Lower surface of limb pubescent; petiole pubescent..... 1. A. rubra.
 
-1'. 6-8 paires de nervures secondaires.
+1'. 6–8 pairs of secondary nerves.
 
-3. Poils dressés à la face inférieure ..... 7. A. poggei var. poggei.
+3. Hairs erect on lower surface..... 7. A. poggei var. poggei.
 
-3'. Poils apprimés à la face inférieure.
+3'. Hairs appressed on lower surface.
 
-4. Face supérieure pubescente..... 2. A. weissenborniana.
+4. Upper surface pubescent..... 2. A. weissenborniana.
 
-4'. Face supérieure glabre ou glabrescente.
+4'. Upper surface glabrous or glabrescent.
 
-5. Face inférieure à pubescence roussâtre ou jaunâtre; limbe de forme
+5. Lower surface with rusty or yellowish pubescence; limb narrowly elliptic..... 5. A. zenkeri.
 
-étroitement elliptique ..... 5. A. zenkeri.
+5'. Lower surface with white pubescence; limb elliptic to oblong-elliptic.
 
-5'. Face inférieure à pubescence blanche; limbe de forme elliptique à oblongue-elliptique.
+6. Apex of limb distinctly acute acuminate mucronate..... 6. A. rowlandii.
 
-6. Sommet du limbe nettement acuminé aigu mucroné..... 6. A. rowlandii.
+6'. Apex of limb obtusely acuminate mucronate.
 
-6'. Sommet du limbe acuminé obtus mucroné.
-
-7. Base inéquilétérale arrondie d'un côté et atténuée de l'autre; pubes-
+7. Base unequilateral rounded on one side and attenuate on the other; pubes-
 
 ## Species in region
 

@@ -16,19 +16,13 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Annual aquatic ferns. Rhizome erect, short. Petiole fleshy, lacunose. Fronds dimorphous, the sterile pinnate-bipinnatifid, with broad lobes, often viviparous. Venation forming areoles without included veinlets. Fertile frond narrow, divided. Sporangia with short pedicel, regular annulus, scattered along the veins, protected by the reflected margin of the lamina. Spores tetrahedral, striated.
 
-Fougères aquatiques annuelles. Rhizome dressé, court. Pétiole charnu, lacuneux. Frondes dimorphes, la stérile pennée-bipinnatifide, à lobes larges, souvent vivipare. Nervation formant des aréoles sans nervilles incluses. Fronde fertile, étroite, divisée. Sporanges à pédicelle court, anneau régulier, disséminés le long des nervures, protégés par la marge réfléchie du limbe. Spores tétraédiques striés.
+Type species: Ceratopteris thalictroides (L.) Brong.
 
-Espèce type : Ceratopteris thalictroides (L.) Brong.
+Genus long separated, forming the family PARKERIACEAE, because of its isolated sporangia. Specialized as a result of its aquatic habitat, it nevertheless approaches the ADIANTACEAE by the arrangement of the sporangia along the veins.
 
-Genre longtemps séparé, formant la famille des PARKERIACEAE. à cause de ses sporanges isolés. Spécialisé par suite de son habi-
-
----
-
-tat aquatique, il se rapproche cependant des ADIANTACEAE par l'arrangement des sporanges le long des nervures.
-
-3 ou 4 espèces selon la conception des auteurs. Une espèce au Gabon.
+3 or 4 species according to the conception of authors. One species in Gabon.
 
 ## Species in region
 

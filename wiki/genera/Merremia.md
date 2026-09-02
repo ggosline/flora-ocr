@@ -17,55 +17,27 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Perennial herb to small shrubs; stems mostly twining, often prostrate, rarely erect. Leaves generally petiolate; limb entire or lobed to dentate. Inflorescences axillary, in few- to many-flowered cymes or with solitary flowers; bracts generally small. Flowers: sepals 5, subequal, sometimes accrescent in fruit; corolla funnel-form or campanulate, entire or weakly lobed, white to yellow; stamens included, often contorted, unequal or not; pollen grains smooth; disc ± annular; ovary 2–4-locular, 4-ovulate; style simple, filiform, stigmas included, bilobate. Fruit with four valves or irregularly dehiscent. Seeds 1–4, glabrous or pubescent.
 
-Herbe vivace à petits arbustes ; tiges le plus souvent volubiles, souvent prostrées,
+Pantropical genus of approximately 80 species, of which approximately 20 are African; for the Flora, 2 indigenous species and one introduced.
 
-rarement érigées . Feuilles en général pétiolées ; limbe entier ou lobé à denté. Inflores -
+Taxonomic note: The author followed Deroin (2001) and Gonçalves (1987) who treat Xenostegia as a synonym of Merremia.
 
-cences axillaires, en cymes pauci- à multiflores ou à fleurs solitaires ; bractées générale -
+B: Deroin (2001), Gonçalves (1987), Lejoly & Lisowski (1992).
 
-ment petites. Fleurs : sépales 5, subégaux, parfois accrescents en fruit ; corolle infundibu-
+Bibliography
 
-liforme ou campanulée, entière ou faiblement lobée, blanche à jaune ; étamines incluses,
+### Key to species
 
-souvent contortées, inégales ou non ; grains de pollen lisses ; disque ± annulaire ; ovaire
-
-2–4-loculaire, 4-ovulé ; style simple, filiforme, stigmates inclus, biglobuleux. Fruit à
-
-quatre valves ou irrégulièrement déhiscent. Graines 1–4, glabres ou pubescentes .
-
-Genre pantropical à environ 80 espèces dont environ 20 africaines ; pour la Flore, 2
-
-espèces indigènes et une introduite.
-
-Note taxonomique : L’auteur a suivi Deroin (2001) et Gonçalves (1987) qui traitent Xe-
-
-nostegia comme un synonyme de Merremia .
-
-B : Deroin (2001), Gonçalves (1987), Lejoly & Lisowski (1992).
-
-ibliographie
-
-### Clé des espèces
-
-1. - Feuilles linéaires-lancéolées ou oblongues-linéaires, souvent hastées ou sagittées à
-
-la base, subsessiles, (0,5–)1–5 cm de longueur, glabres
+1. - Leaves linear-lanceolate or oblong-linear, often hastate or sagittate at the base, subsessile, (0.5–)1–5 cm in length, glabrous
 
 ................................................................................ M. tridentata subsp. angustifolia
 
-- Feuilles ± ovées ou ± profondément découpées à segments sinueux-dentés .......... 2
+- Leaves ± ovate or ± deeply divided with sinuate-dentate segments ............ 2
 
-2. - Feuilles ± ovées, entières ou 3-lobées jusqu’au milieu ...................... M. hederacea
+2. - Leaves ± ovate, entire or 3-lobed to the middle ...................... M. hederacea
 
-- Feuilles ± profondément découpées à segments sinueux-dentés; espèce
-
-ornementale, introduite ................................................ M. dissecta (Jacq.) Hallier f.
-
----
-
----
+- Leaves ± deeply divided with sinuate-dentate segments; ornamental species, introduced ................................................ M. dissecta (Jacq.) Hallier f.
 
 ## Species in region
 

@@ -17,19 +17,17 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Herbs generally perennial in dense tufts, with narrow leaves.
 
-Herbes généralement pérennes en touffes denses, à feuilles étroites.
+Inflorescence in linear, unilateral racemes, solitary or digitate by 2 or 3. Spikelets densely biseriate along a flattened rachis, disarticulating above the glumes, with 3 or 4 flowers, the 2 lower ones sterile or the second male, the third hermaphrodite; the fourth male, sterile or more or less reduced.
 
-Inflorescence en racèmes linéaires, unilatéraux, solitaires ou digités par 2 ou 3. Épillets densément hisériés le long d'un rachis aplati, se désarticulant au-dessus des glumes, à 3 ou 4 fleurs, les 2 inférieures neutres ou la deuxième mâle, la troisième hermaphrodite; la quatrième mâle, neutre ou plus ou moins réduite.
-
-Glumes inégales, l'inférieure persistante, carénée, à une nervure, la supérieure plus longue, à 2 ou 3 nervures, avec un poil raide partant du milieu d'une des nervures latérales. Lemmas à 3 nervures, obtuses, aristées juste sous le sommet, glabres ou
+Glumes unequal, the lower one persistent, keeled, with one vein, the upper one longer, with 2 or 3 veins, with a stiff hair arising from the middle of one of the lateral veins. Lemmas with 3 veins, obtuse, awned just below the apex, glabrous or
 
 ---
 
-ciliées le long des nervures. Paléas un peu plus courtes, à 2 nervures ou bicarénées. Deux lodicules; 3 étamines dans les fleurs hermaphrodites, 2 dans les fleurs mâles. Ovaire glabre à styles distincts.
+ciliate along the veins. Paleas somewhat shorter, with 2 veins or bicarinate. Two lodicules; 3 stamens in the hermaphrodite flowers, 2 in the male flowers. Ovary glabrous with distinct styles.
 
-Une dizaine d'espèces en Afrique et en Amérique, une espèce signalée au Gabon.
+About ten species in Africa and America, one species reported from Gabon.
 
 ## Species in region
 

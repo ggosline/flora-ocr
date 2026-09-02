@@ -17,11 +17,9 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Plants monopodial. Leaves distichous, ligulate to lanceolate, often falcate, unequally bilobed at the apex. Inflorescence axillary, racemose, few- to many-flowered. Flowers small, resupinate. Sepals and petals dissimilar, petals fused at the base to the lateral sepals. Labellum trilobed or nearly entire, without callus or with a prominent callus. Spur at the base of the labellum, of variable length and shape. Rostellum briefly ligulate, wider than long. Viscidium double, thin, glutinous. Tegula double, oblong to linear. Rostellum briefly tridentate after withdrawal of the pollinarium, the lobes being nearly equal in size. – Pl. 214, p. 451.
 
-Plantes monopodiales. Feuilles distiques, ligulées à blancéolées, souvent falciformes, inégalement bilobées au sommet. Inflorescence axillaire, en racème, pauci- à multi-flore. Fleurs petites, résupinées. Sépales et pétales dissemblables, pétales soudés à la base aux sépales latéraux. Labelle trilobé ou presque entier, sans callus ou avec un callus saillant. Éperon à la base du labelle, de longueur et de forme variables. Rostellum brièvement ligulé, plus large que long. Viscidie double, mince, gluante. Tegula double, oblongue à linéaire. Rostellum brièvement tridenté après retrait du pollinarium, les lobes étant presque égaux en taille. – Pl. 214, p. 451.
-
-Genre d'environ 15 espèces présentes en Afrique tropicale et aux Mascareignes. Une seule existe au Gabon.
+Genus of approximately 15 species present in tropical Africa and the Mascarene Islands. Only one exists in Gabon.
 
 ## Species in region
 

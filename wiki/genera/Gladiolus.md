@@ -17,73 +17,23 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Herbes à corme souvent globuleux, parfois stolonifère , tuniqué par des fibres en ré-
-
-seau parallèle ; tige généralement simple, parfois ramifiée, subcylindrique ; cataphylles
-
-2–3. Feuilles distiques, équitantes, généralement basilaires à caulinaires durant l’anthè-
-
-se, parfois latérales avant ou après l’anthèse sur une tige distincte. Inflorescence spici-
-
-forme , rarement uniflore ; spathes absentes ; bractées présentes, accompagnées d’une
-
-bractéole interne. Fleurs sessiles, subactinomorphes à nettement zygomorphes et parfois
-
-bilabiées ; périgone à tépales soudés en un tube plus ou moins évasé et incurvé, à lobes
-
-égaux à nettement inégaux, le supérieur médian souvent arqué et les 3 inférieurs ou les 5
-
-autres formant parfois une lèvre inférieure ; étamines exsertes , généralement disposées
-
-unilatéralement, rarement divergentes, insérées vers le sommet du tube du périgone,
-
-filet libre, anthère subbasifixe à médifixe, rarement mucronée ou apiculée ; ovaire ovoïde
-
-à subcylindrique ; style filiforme, stigmates 3 , terminaux, oblongs , entiers ou bilobulés.
-
-Fruit globuleux, ovoïde, ellipsoïde ou subcylindrique. Graines généralement aplaties, an-
-
-guleuses à ailées.
+Herbs with often globose corm, sometimes stoloniferous, tunicate with parallel reticulate fibres; stem generally simple, sometimes branched, subcylindrical; cataphylls 2–3. Leaves distichous, equitant, generally basal to cauline during anthesis, sometimes lateral before or after anthesis on a distinct stem. Inflorescence spiciform, rarely uniflorous; spathes absent; bracts present, accompanied by an internal bracteole. Flowers sessile, subactinomorphic to distinctly zygomorphic and sometimes bilabiate; perianth with tepals fused into a more or less spreading and incurved tube, with lobes equal to distinctly unequal, the upper median lobe often arched and the 3 lower or the 5 others sometimes forming a lower lip; stamens exserted, generally arranged unilaterally, rarely divergent, inserted towards the apex of the perianth tube, filament free, anther subbasifix to medifix, rarely mucronate or apiculate; ovary ovoid to subcylindrical; style filiform, stigmas 3, terminal, oblong, entire or bilobulate. Fruit globose, ovoid, ellipsoid or subcylindrical. Seeds generally flattened, angular to winged.
 
 ---
 
-Genre d’Europe et d’Afrique méditerranéenne, d’Asie du sud-ouest mais surtout d’Afri-
+Genus of Europe and Mediterranean Africa, of south-western Asia but especially of tropical, subtropical and southern Africa, as well as Madagascar, comprising nearly 200 species; for Gabon: 3 indigenous species.
 
-que tropicale, subtropicale et australe, ainsi que de Madagascar, comprenant près de 200
+B: Goldblatt (1996a).
 
-espèces ; pour le Gabon : 3 espèces indigènes.
+IBLIOGRAPHY
 
-B : Goldblatt (1996a).
+1. - Leaves well developed present or almost reduced to sheaths on the flowering stem during anthesis; perianth distinctly bilabiate, tube 8–15 mm long, the 2 lateral lobes and the 3 lower lobes fused together at the base; style 15–25 mm long .................................................................................... 2
 
-IBLIOGRAPHIE
+- Leaves well developed present on the flowering stem during anthesis; perianth not distinctly bilabiate, tube 15–20 mm long, lateral lobes free, the 3 lower lobes fused at their base; style 30–35 mm long ................................................................................................... G. mirus
 
-1. - Feuilles bien développées présentes ou quasi réduites à des gaînes sur la tige
+2. - Leaves well developed present on the flowering stem during anthesis; bracts imbricate; lateral and lower lobes of the perianth fused together for 4–6 mm; style 20–25 mm long ..................................... G. gregarius var. gregarius
 
-florifère lors de l’anthèse ; périgone nettement bilabié, à tube de 8–15 mm de
-
-longueur, les 2 lobes latéraux et les 3 inférieurs soudés ensemble à la base ;
-
-style de 15–25 mm de longueur .................................................................................... 2
-
-- Feuilles bien développées présentes sur la tige florifère lors de l’anthèse ;
-
-périgone non nettement bilabié, à tube de 15–20 mm de longueur, les lobes
-
-latéraux libres, les 3 lobes inférieurs soudés à leur base ; style de 30–35 mm
-
-de longueur ................................................................................................... G. mirus
-
-2. - Feuilles bien développées présentes sur la tige florifère lors de l’anthèse ; bractées
-
-imbriquées ; lobes latéraux et inférieurs du périgone soudés ensemble sur 4–6 mm ;
-
-style de 20–25 mm de longueur ..................................... G. gregarius var. gregarius
-
-- Feuilles quasi réduites à des gaines sur la tige florifère lors de l’anthèse mais
-
-parfois développées sur une tige stérile ; bractées non imbriquées ; lobes latéraux
+- Leaves almost reduced to sheaths on the flowering stem during anthesis but sometimes developed on a sterile stem; bracts not imbricate; lateral lobes
 
 ## Species in region
 

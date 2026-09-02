@@ -17,15 +17,13 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Annual branched plants; spikelets in pairs, one sessile, the other pedicellate, with the pedicel completely fused to the corresponding article of the rachis. Lower glume of the sessile spikelet globose and longitudinally wrinkled, the upper one chartaceous, ovate, sunken into a cavity of the rachis; lemmas hyaline, awnless. The upper lemma of the sterile floret is absent. False fruit formed by the hardened lower glume and the article of the rachis that is closely applied to it.
 
-Plantes annuelles ramifiées ; épillets par paires, l'un sessile, l'autre pédicellé, avec le pédicelle complètement soudé à l'article correspondant du rachis. Glume inférieure de l'épillet sessile globuleuse et ridée longitudinalement, la supérieure chartacée, ovale, enfoncée dans une cavité du rachis; glumelles hyalines, mutiques. La glumelle supérieure de la fleur stérile fait défaut. Faux fruit formé par la glume inférieure durcie et l'article du rachis qui lui est étroitement appliqué.
+Pedicellate spikelet with lower floret neuter; the upper one is hermaphrodite or more or less reduced or suppressed. Glumes similar, ovate-lanceolate. Lemmas hyaline, when present.
 
-Épillet pédicellé à fleur inférieure neutre; la supérieure est hermaphrodite ou plus ou moins réduite ou supprimée. Glumes semblables, ovales-lancéolées. Glumelles hyalines, lorsqu'elles sont présentes.
+This genus is characterized by the very peculiar form of the lower glume of the sessile spikelet and, as is often the case in the group of the Rottboelliastrinae, by the fusion, here total, of the pedicels to the rachis.
 
-Ce genre est caractérisé par la forme très particulière de la glume inférieure de l'épillet sessile et, comme c'est souvent le cas dans le groupe des Rottbcelliastrées, par la soudure, ici totale, des pédicelles au rachis.
-
-Le genre ne comporte qu'une seule espèce pantropicale.
+The genus comprises only a single pantropical species.
 
 ## Species in region
 

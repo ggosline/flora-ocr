@@ -17,23 +17,17 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Perennial or annual plants, leaves with linear laminae, ligule absent or represented by a line of hairs.
 
-Plantes pérennes ou annuelles, feuilles à limbes linéaires,
+Dense unilateral spiciform racemes, grouped in terminal panicles. Spikelets elliptic to lanceolate, apex acuminate to awned. Glumes unequal, the lower short, with 3 or 5 nerves, the upper equalling the spikelet, with 5 or 7 nerves, acuminate, cuspidate or shortly subulate. Lower flower male or neuter, lemma similar to the upper glume, but flattened on the back; palea hyaline, more or less reduced, with 2 nerves. Upper flower hermaphrodite, lemma convex, coriaceous, shiny with 5 fine nerves; margins folded back but not covering the apex of the palea. Two fleshy lodicules, 3 stamens, styles distinct.
 
-ligule absente ou représentée par une ligne de poils.
+Only one species belonging to this genus has been recorded so far in Gabon: E. stagnina P. Beauv. However, the presence of E. pyramidalis Hitch. et Chase, a species frequent in marshy zones throughout tropical Africa is very probable.
 
-Racèmes spiciformes unilatéraux denses, groupés en panicules terminales. Épillets elliptiques à lancéolés, extrémité acuminée à aristée. Glumes inégales, l'inférieure courte, à 3 ou 5 nervures, la supérieure égalant l'épillet, à 5 ou 7 nervures, acuminée, cuspidée ou courtement subulée. Fleur inférieure mâle ou neutre, lemma semblable à la glume supérieure, mais aplatie sur le dos; paléa hyaline, plus ou moins réduite, à 2 nervures. Fleur supérieure hermaphrodite, lemma convexe, coriace, brillante à 5 fines nervures; marges repliées mais ne recouvrant pas le sommet de la paléa. Deux lodicules charnues, 3 étamines, styles distincts.
+Lower glume and upper lemma cuspidate or shortly awned; ligule represented by a line of hairs.
 
-Une seule espèce appartenant à ce genre a été signalée jusqu'ici au Gabon : E. stagnina P. Beauv. Mais la présence d'E. pyramidalis Hitch. et Chase, espèce fréquente dans les zones marécageuses de toute l'Afrique tropicale est très probable.
+1. Spikelets only acuminate or very shortly cuspidate, 3 to 4 mm long, in dense panicles formed of sub-horizontal or slightly erect branches; tall grasses erect with stiff and cutting leaves from marshy stations ..... E. pyramidalis
 
-Glume inférieure et lemma supérieure cuspidées ou courtement aristées; ligule représentée par une ligne de poils.
-
-1. Épillets seulement acuminés ou très courtement cuspidés, de 3 à 4 mm de long, en panicules denses formées de branches sub-horizontales ou légèrement redressées; grandes herbes dressées à feuilles raides et coupantes de stations marécageuses ..... E. pyramidalis
-
-1'. Épilets longuement aristés, de 4 à 6 mm de long, arête jusqu'à 2 cm et plus, panicule assez lâche; herbes flottantes de stations inondées ..... E. stagnina.
-
----
+1'. Spikelets long-awned, 4 to 6 mm long, awn up to 2 cm and more, panicle rather loose; floating grasses from flooded stations ..... E. stagnina.
 
 ## Species in region
 

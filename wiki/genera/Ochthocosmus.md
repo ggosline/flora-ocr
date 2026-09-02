@@ -17,47 +17,35 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Trees or shrubs. Leaves petiolate or subsessile, simple, entire or dentate, often presenting glandular teeth on the margins in the upper part; stipules extrapetiolar, caducous or absent.
 
-Arbres ou arbrisseaux. Feuilles pétiolées ou subsessiles, simples, entières ou dentées, présentant souvent des dents glanduleuses sur les bords à la partie supérieure; stipules extrapétiolaires, caduques ou absentes.
-
-Inflorescences en racèmes 1-3 fois ramiﬁés formant des fascicules axil-
-
-laires et terminaux. Sépales 5, imbriqués, soudés à la base, persistants.
+Inflorescences in racemes 1–3 times branched forming axillary and terminal fascicles. Sepals 5, imbricate, connate at the base, persistent.
 
 ---
 
-Pétales 5, contortés, nervurés, libres, persistants sur le fruit, souvent accres-
+Petals 5, contorted, nerved, free, persistent on the fruit, often accrescent. Stamens 5 or 10; filaments connate at the base in a very short tube. Ovary 5-locular, with locules partially divided by a false septum; ovules 2 per locule, collateral, pendulous; style 1; stigmas 5, free or connate. Capsules septifidal, globose or ovoid, with 1–3 (–5) seeds. Seeds albuminous, most often provided with an aril.
 
-cents. Étamines 5 ou 10; filets soudés à la base en un tube très court. Ovaire
+About 10 species, chiefly from tropical Africa, Guyana and Brazil.
 
-5-loculaire, à loges partiellement divisées par une fausse cloison; ovules 2
+Type species: Ochthocosmus roraimae Benth., Guyana.
 
-par loge, collatéraux, pendants; style 1; stigmates 5, libres ou soudés.
+The genus comprises about ten species in tropical Africa, Brazil and Guyana.
 
-Capsules septicides, globuleuses ou ovoïdes, à 1-3 (-5) graines. Graines albuminées, le plus souvent munies d'un arille.
+1. Stamens 10; racemes glabrous, 2 times branched, with primary branches inserted at several points along the rachis; flowers sessile or pedicellate, with pedicel 4–10 mm long.
 
-Environ 10 espèces, surtout d'Afrique tropicale, de la Guyane et du Brésil.
+2. Flowers sessile ..... 1. O. sessilifol
 
-Espèce-type : Ochthocosmus roraimae Benth., Guyane.
+2'. Flowers pedicellate ..... 2. O. calothyrsus.
 
-Le genre compte une dizaine d'espèces en Afrique tropicale, au Brésil et en Guyane.
+1'. Stamens 5, racemes glabrous or puberulent to pubescent, generally once branched, with branches inserted at the base of the rachis; flowers solitary or grouped 2–10 in fascicles, pedicellate, with puberulent pedicel 2–3 mm long, or flowers solitary or grouped 2–4, pedicellate, with glabrous pedicel 5–10 mm long.
 
-1. Étamines 10; racèmes glabres, 2 fois ramifiés, à ramifications primaires insérées en plusieurs points le long des rachis; fleurs sessiles ou pédicellées, à pédicelle long de 4-10 mm.
+3. Racemes puberulent to pubescent; flowers solitary or grouped 2–10 in fascicles; pedicel puberulent 2–3 mm. ..... 3. O. africanus.
 
-2. Fleurs sessiles ..... 1. O. sessilifol
+4. Branchlets glabrous ___ var. africanus.
 
-2'. Fleurs pédicellées ..... 2. O. calothyrsus.
+4'. Branchlets tomentulose to puberulent..... var. puberulus (Zaire).
 
-1'. Étamines 5, racèmes glabres ou bien pubérulents à pubescents, généralement une fois ramifiés, à ramifications insérées à la base des rachis; fleurs solitaires ou groupées par 2-10 en fascicules, pédicellées, à pédicelle pubérulent, long de 2-3 mm, ou bien fleurs solitaires ou groupées par 2-4, pédicellées, à pédicelle glabre, long de 5-10 mm.
-
-3. Racèmes pubérulents à pubescents; fleurs solitaires ou groupées par 2-10 en fascicules; pédicelle pubérulent de 2-3 mm. ..... 3. O. africanus.
-
-4. Ramilles glabres ___ var. africanus.
-
-4'. Ramilles tomentelleuses à pubérulentes..... var. puberulus (Zaïre).
-
-3'. Racèmes glabres; fleurs solitaires ou groupées par 2-4; pédicelle glabre de 5-10 mm.
+3'. Racemes glabrous; flowers solitary or grouped 2–4; pedicel glabrous 5–10 mm.
 
 …… 4. O. congolensis.
 

@@ -17,47 +17,19 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Herbes aquatiques, enracinées, annuelles à vivaces. Feuilles avec ou sans stipules, soit
-
-immergées, rubanées et sans pétiole, soit à limbe flottant ou émergé, ovale à réniforme
-
-et à pétiole engaînant à la base. Fleurs en épi , parfois en paires ou rarement solitaires,
-
-pédicellées , parfois dimorphes et certaines cleistogames ; spathe membraneuse, enfermée
-
-dans la gaîne d’une feuille ; périgone presque actinomorphe, souvent infundibuli-
-
-forme , à 6 lobes oblongs, subégaux et étalés, blancs, bleus ou purpurins, accrescents ;
-
-étamines des fleurs chasmogames 3 , inégales, insérées à la gorge du tube périgonial,
-
-exsertes, 1 étamine dans des fleurs cleistogames, anthères basifixes ; ovaire unilocu-
+Aquatic herbs, rooted, annuals to perennials. Leaves with or without stipules, either submerged, ribbon-like and without petiole, or with floating or emergent limb, ovate to reniform and with petiole sheathing at the base. Flowers in spike, sometimes in pairs or rarely solitary, pedicellate, sometimes dimorphic and some cleistogamous; spathe membranous, enclosed within the sheath of a leaf; perianth almost actinomorphic, often infundibuliform, with 6 oblong, subequal and spreading lobes, white, blue or purplish, accrescent; stamens of chasmogamous flowers 3, unequal, inserted at the throat of the perianth tube, exsert, 1 stamen in cleistogamous flowers, anthers basifixed; ovary unilocular, with 3 parietal placentas, ovules numerous; style filiform. Fruits capsular, loculicidally dehiscent, oblong or linear; pericarp thin. Seeds numerous, ovoid to cylindrical, longitudinally striated.
 
 ---
 
-Troupin 111 ). Reproduit avec la permission du Jardin botanique national de Belgique (©) à partir
-
-de Lawalrée & Bruynseels (1981).
+Troupin 111). Reproduced with the permission of the National Botanical Garden of Belgium (©) from Lawalrée & Bruynseels (1981).
 
 ---
 
-laire, à 3 placentas pariétaux , ovules nombreux ; style filiforme. Fruits capsulaires,
+Genus comprising 10 species, of which 2 in tropical Africa and 8 in tropical and subtropical America. Three species are naturalized in Europe. In Gabon a single species.
 
-loculicides , oblongs ou linéaires ; péricarpe mince. Graines nombreuses, ovoïdes à cylin-
+Bibliography
 
-driques, striées longitudinalement.
-
-Genre comprenant 10 espèces, dont 2 en Afrique tropicale et 8 en Amérique tropicale et
-
-subtropicale. Trois espèces sont naturalisées en Europe. Au Gabon une seule espèce.
-
-B : Catarino & Martins (1997), Cook (1998), Lawalrée & Bruynseels (1981),
-
-i B liographie
-
-Verdcourt (1968).
+B: Catarino & Martins (1997), Cook (1998), Lawalrée & Bruynseels (1981), Verdcourt (1968).
 
 ## Species in region
 

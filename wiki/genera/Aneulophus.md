@@ -16,21 +16,19 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 in BENTHAM & HOOKER, Gen. Pl. 1 : 244 (1862).
 
-Arbre ou petit arbre, glabre. Feuilles simples, entières, penninerves, opposées, pétiolées; stipules 2, extra-pétiolaires.
+Tree or small tree, glabrous. Leaves simple, entire, penninerved, opposite, petiolate; stipules 2, extra-petiolar.
 
-Fascicules axillaires, multiflores; bractées orbiculaires, lobées et ciliolées. Fleur à pédicelle grêle et glabre. Sépales 5, imbriqués, plus longs que les pétales, à nervure saillante sur le dos. Étamines 10, toutes fertiles, subégales, soudées à la base en un tube très court. Ovaire 3 (-4)-loculaire, 3-lobé au sommet; ovules 2 par loge, collatéraux, pendants; styles 3 (4), dressés, libres; stigmates 3, capités, terminaux.
+Axillary fascicles, multiflorous; bracts orbicular, lobed and ciliolate. Flower with slender, glabrous pedicel. Sepals 5, imbricate, longer than the petals, with prominent nerve on the back. Stamens 10, all fertile, subequal, united at the base into a very short tube. Ovary 3 (−4)-locular, 3-lobed at the apex; ovules 2 per locule, collateral, pendulous; styles 3 (4), erect, free; stigmas 3, capitate, terminal.
 
-Capsule septicide, généralement à 3 loges fertiles. Graine 1 par loge, munie d'un arille au sommet. Embryon droit.
+Capsule septicide, generally with 3 fertile locules. Seed 1 per locule, provided with an aril at the apex. Embryo straight.
 
-### Genre africain monotypique.
+### Monotypic African genus.
 
 ---
 
-# FLORE DU GABON
+# FLORA OF GABON
 
 ## Species in region
 

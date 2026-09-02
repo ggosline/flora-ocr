@@ -17,45 +17,35 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Perennial or annual grasses with narrow linear leaves and ligule reduced to a line of cilia.
 
-Herbes vivaces ou annuelles à feuilles linéaires étroites et
+Inflorescences in spiciform or more or less lax panicles; spikelets small, awnless, with one hermaphrodite flower. Glumes membranous with 0 to 1 nerve, the lower one shorter. Lemma longer than the upper glume, or as long, membranous; callus very short or absent, glabrous. Palea of the same length or slightly shorter, of the same texture, oblong, emarginate or bifid, sometimes separating into two at maturity. Glumellules 2 or absent; 3 stamens; styles free. Pericarp of the seed sometimes free and detaching from the fruit.
 
-ligule réduite à une ligne de cils.
+Genus comprising numerous species which are often fallow plants or ruderals of little interest for stock-raising.
 
-Inflorescences en panicules spiciformes ou plus ou moins lâches; épillets petits, mutiques, à une fleur hermaphrodite. Glumes membraneuses à 0 à 1 nervure, l'inférieure plus courte. Lemma plus longue que la glume supérieure, ou aussi longue, membraneuse; callus très court ou nul, glabre. Palée de même longueur ou un peu plus courte, de même texture, oblongue, émarginée ou bifide, se séparant parfois en deux à maturité. Glumellules 2 ou absentes; 3 étamines; styles libres. Péricarpe de la graine parfois libre et se détachant du fruit.
+Six species are recorded in Gabon.
 
-Genre comportant de nombreuses espèces qui sont souvent des plantes de jachère ou des rudérales sans grand intérêt pour l'élevage.
+1. Leaves short, stiff and pungent; inflorescence in a very dense spiciform panicle 4 to 5 cm long; plant with long stolons from seashore borders..... 1. S. virginicus.
 
-Six espèces sont signalées au Gabon.
+1'. Leaves soft, not pungent; inflorescence in a more or less lax panicle and always longer than above.
 
-1. Feuilles courtes, raides et piquantes; inflorescence en panicule spici-
-
-forme très dense de 4 à 5 cm de long; plante longuement stolonifère
-
-des bords de mer..... I. S. virginicus.
-
-1'. Feuilles molles, non piquantes, inflorescence en panicule plus ou moins lâche et toujours plus longue que ci-dessus.
-
-2. Branches de l'inflorescence verticillées, feuilles pectinées-ciliées sur les bords; espèce de savane sur sols sableux..... 2. S. congoensis.
+2. Branches of the inflorescence whorled, leaves pectinate-ciliate on the margins; savanna species on sandy soils..... 2. S. congoensis.
 
 ---
 
-2'. Branches de l'inflorescence non verticillées, feuilles glabres sur les bords.
+2'. Branches of the inflorescence not whorled, leaves glabrous on the margins.
 
-3. Inflorescence très diffuse à branches allongées, finement capil-
+3. Inflorescence very diffuse with elongated, finely capillary branches; spikelets less than 1 mm long. 3. S. minutiflorus.
 
-laires; épilets de moins de 1 mm de long. 3. S. minutiflorus.
+3'. Inflorescence relatively dense with secondary branches densely furnished with spikelets to their base, not finely capillary nor flexuous; spikelets more than 1 mm long.
 
-3'. Inflorescence relativement dense à branches secondaires densément garnies d'épillets jusqu'à leur base, non finement capil-laires ni flexueuses; épillets de plus de 1 mm de long.
+4. Glumes as long as the spikelet; stoloniferous plants with often rolled, stiff leaves; inflorescence more than 20 cm long..... 4. S. robustus.
 
-4. Glumes aussi longues que l'épillet; plantes stolonifères à feuilles souvent enroulées, raides; inflorescence de plus de 20 cm de long..... 4. S. robustus.
+4'. Glumes much shorter than the spikelet.
 
-4'. Glumes beaucoup plus courtes que l'épillet.
+5. Secondary branches forming dense racemes, approximately 1 to 2 cm long; spikelets long-acuminate, grass reaching a few decimetres high. 5. S. Molleri.
 
-5. Branche secondaires formant des racèmes denses, de 1 à 2 cm de long environ; épilets longuement acuminés, herbe atteignant quelques décimètres de haut. 5. S. Molleri.
-
-5'. Branches de la panicule nettement plus longues que ci-dessus; épillets elliptiques sub-obtus ou courtemment acuminés; glumes souvent tronquées denticulées au sommet; herbe pouvant atteindre 1 m de haut et plus. 6. S. pyramidalis.
+5'. Branches of the panicle distinctly longer than above; spikelets elliptic sub-obtuse or shortly acuminate; glumes often truncate denticulate at the apex; grass able to reach 1 m high and more. 6. S. pyramidalis.
 
 ## Species in region
 

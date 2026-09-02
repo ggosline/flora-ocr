@@ -17,13 +17,11 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Tall trees with elevated trunk and glabrous branches. Cerocysts numerous, substipular and calyxinal, secreting an abundance of cerids at the juvenile stage. Stipules connate truncate amplexicaul with ciliolate margin. Petiole short. Lamina subcoriaceous glabrous. Inflorescence solitary terminal appearing laterally opposite a solitary leaf; the inflorescence is racemose, pluriflorous, with primary ramifications alternate along the rachis, and axillary to very short bracts. Flower glabrous. Calyx briefly tubulous truncate. Corolla with cylindric tube, with twisted prefloration, with 5 suborbicular lobes. 5 anthers semi-included, linear, sessile. Pollen in simple tricolporate grains of $ 26 \times 21 $ μ. Style with weakly thickened stigma, bilobed, semi-included. Disk glabrous cupuliform. Ovary with a single locule containing two parietal placentas facing each other not fused together. Ovules very numerous.
 
-Grands arbres à tronc élevé et à rameaux glabres. Cérocystes nombreux, sous-stipulaires et calycinaux, secrétant en abondance des cérides au stade juvénile. Stipules connées tronquées amplexicaules à rebord ciliolé. Pétiole court. Limbe subcoriace glabre. Inflorescence solitaire terminale paraissant latéralement opposée à une feuille solitaire; l'inflorescence est racémeuse, pluriflore, à ramifications primaires alternes le long du rachis, et axillées par de très courtes bractées. Fleur glabre. Calice brièvement tubuleux tronqué. Corolle à tube cylindrique, à préfloraison tordue, à 5 lobes suborbiculaires. 5 anthères semi-incluses, linéaires, sessiles. Pollen en grains simples tricolporés de  $ 26 \times 21 $ μ. Style à stigmate faiblement épaissi, bilobé, semi-inclus. Disque glabre cupuliforme. Ovaire à une seule loge contenant deux placentas pariétaux affrontés non soudés entre eux. Ovules très nombreux.
+Fruit spherical with thick wall firmly fleshy, with thin crustaceous endocarp. Seeds sublenticular compressed albuminous ca. 1 cm. Embryo with cordate orbicular cotyledonary leaves and straight radicle.
 
-Fruit sphérique à paroi épaisse fermement charnue, à endocarpe crustacé mince. Graines sublenticulaires comprimées albuminées d'env. 1 cm. Embryon à feuilles cotylédonaires cordées orbiculaires et à radicule droite.
-
-Espèce type étudiée ci dessous. Une seconde espèce de ce genre, le B. rhomboideifolia E. Petit, a été décrite de la cuvette congolaise; ses feuilles fréquemment verticillées par 3 ne dépassent pas 20 × 6 cm.
+Type species studied below. A second species of this genus, B. rhomboideifolia E. Petit, has been described from the Congo Basin; its leaves frequently whorled by 3 do not exceed 20 × 6 cm.
 
 ## Species in region
 

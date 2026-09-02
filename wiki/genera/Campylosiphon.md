@@ -16,37 +16,15 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 in Hook., Icon. pl. 14(4) : 65 (1882).
 
-Herbes mycohétérotrophes (« saprophytiques »), sans chlorophylle, rhizomateuses, avec
+Mycoheterotrophic herbs ("saprophytic"), without chlorophyll, rhizomatous, with long filiform roots; stems simple or rarely branched. Leaves reduced to scales, the basal ones absent. Inflorescences few-flowered to many-flowered, rarely uniflorous, often contracted (in Africa). Flowers trumpet-shaped; basal part of perianth tubular, lobes more or less equal, spreading; lobes, stamens and stigmas long-persistent; stamens sessile, anthers with connective bearing one basal and two apical appendages; ovary unilocular, with parietal placentation in the apical part, 3-locular and with axillary placentation in the basal part; septal glands 3, indistinct; style filiform, stigmas infundibuliform, without appendages. Fruit with irregular dehiscence.
 
-des longues racines filiformes ; tiges simples ou rarement ramifiées. Feuilles réduites
-
-à des écailles, les basilaires absentes. Inflorescences pauciflores à multiflores, rarement
-
-uniflores, souvent contractées (en Afrique). Fleurs en forme de trompette ; partie basale
-
-du périgone tubuleuse, lobes plus ou moins égaux, étalés ; lobes, étamines et stigmates
-
-longtemps persistants ; étamines sessiles, anthères à connectif muni d’un appendice
-
-basal et deux apicaux ; ovaire uniloculaire, à placentation pariétale dans la partie apicale,
-
-3-loculaire et à placentation axillaire dans la partie basale ; glandes septales 3, indis -
-
-tinctes ; style filiforme, stigmates infundibuliformes, sans appendices. Fruit à déhiscence
-
-irrégulière.
-
-Genre comprenant 2 espèces, l’une en Amérique du Sud tropicale et l’autre en Afrique
-
-tropicale, Gabon inclus.
+Genus comprising 2 species, one in tropical South America and the other in tropical Africa, Gabon included.
 
 B : Jonker (1938), Maas et al. (1986), Merckx (2008).
 
-ibliographie
+Bibliography
 
 ## Species in region
 

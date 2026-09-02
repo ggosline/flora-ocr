@@ -17,33 +17,29 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Slender woody lianes or lianules, twining or ± scandent. Apices generally pubescent. Stipules entire or emarginate at apex. Leaves opposite; anisophylly rare and always weak (exceptions in Madagascar).
 
-Lianes ligneuses grêles ou lianules, volubiles ou ± rampantes. Extrémités généralement pubescentes. Stipules entières ou émargénées au sommet. Feuilles opposées; anisophyllie rare et toujours faible (exceptions à Madagascar).
+Inflorescences axillary rarely cauline, often ± pedunculate, often pluri- or multiflorous, panicle-shaped or capitulate, often ± contracted, rarely almost glabrous. Calyx with lobes often long; sometimes with tube fairly long. Corolla long and narrow with lobes valvate rather small, most often white. Internal pubescence variable formed of very fine beaded hairs. 5 anthers sessile or with short filament, medifix, narrowly oblong, slightly emarginate or micro-apiculate at apex, inserted at the throat (short-styled form) or ± low in the corolla tube. Style glabrous slender, with 5 long and narrow stigmatic lobes. Disc a small cushion, rarely cupuliform, glabrous. Ovary with (4)5 locules. Placentas elliptic sometimes presenting on the external face a zone devoid of ovules (Pl. 24, 6 to 9 p. 127).
 
-Inflorescences axillaires rarement caulinaires, souvent ± pédonculées, souvent plurì ou multiflores, paniculiformes ou capituliformes, souvent ± contractées, rarement presque glabres. Calice à lobes souvent longs; parfois à tube assez long. Corolle longue et étroite à lobes valvaires assez petits, le plus souvent blanche. Pilosité interne variable formée de très fins poils en chapelet. 5 anthères sessiles ou à filet bref, médifixes, étroitement oblongues, un peu émarginées ou micro-apiculées au sommet, insérées à la gorge (forme brévistyle) ou ± bas dans le tube de la corolle. Style glabre grêle, à 5 lobes stigmatiques longs et étroits. Disque en petit coussinet, rarement cupuliforme, glabre. Ovaire à (4)5 loges. Placentas elliptiques présentant parfois sur la face externe une plage dépourvue d'ovules (Pl. 24, 6 à 9 p. 127).
+Fruit globose 8 to 15 mm in diam., multiseeded, fleshy between the locules which are long and narrow, and around them. Pulp coloured or not. Seeds very numerous, small, ovate ± compressed or subangular 5 to 7 mm long. Seed coat with very fine ornamentation. Germination rapid in one or two weeks. Small epigeal seedling erect with two green cotyledonary leaves spreading.
 
-Fruit globuleux de 8 à 15 mm de diam., multisperme, charnu entre les loges qui sont longues et étroites, et autour de celles-ci. Pulpe colorée ou non. Graines très nombreuses, petites, ovées ± comprimées ou subanguleuses de 5 à 7 mm de long. Tégument séminal à ornamentation très fine. Germination rapide en une ou deux semaines. Petite plantule épigée dressée à deux feuilles cotylédonaires vertes étalées.
+Type species: Sabicea aspera Aubl., from Guyana.
 
-Espèce type : Sabicea aspera Aubl., de Guyane.
-
-Ce genre comprend environ 120 espèces. Une cinquantaine en Amérique, 4 à Madagascar et environ 65 en Afrique. Au Gabon une vingtaine d'espèces.
+This genus comprises approximately 120 species. About fifty in America, 4 in Madagascar and approximately 65 in Africa. In Gabon about twenty species.
 
 ---
 
-### SABICEA : CLÉ DES GROUPES D'ESPÈCES
+### SABICEA: KEY TO SPECIES GROUPS
 
-1. Inflorescences uniflores ou pauciflores en fascicules ou en glomérules sessiles; pas de pédoncule commun, ni d'involucre naviculiforme, ni de pseudoverticille bractéal protecteur, ni d'axes ramifiés.....
+1. Inflorescences uniflorous or pauciflorous in fascicles or in sessile glomerules; no common peduncle, nor naviculate involucre, nor protective bracteate pseudowhorl, nor branched axes.....
 
-1'. Inflorescences subsessiles ou pédonculées, nées d'un axe unique, souvent multiflores, capitées, contractées ou ramifiées de façon ± lâche.
+1'. Inflorescences subsessile or pedunculate, arising from a single axis, often multiflorous, capitate, contracted or branched in a ± loose manner.
 
-2. Bractées involucrales soit étroitement embrassantes avec la paire inférieure naviculiforme, soit très amples, soit pseudoverticillées; inflorescence en pseudocapitule ou en ombelle.
+2. Involucral bracts either narrowly embracing with the lower pair naviculate, or very ample, or pseudoverticillate; inflorescence in pseudocapitule or in umbel.
 
-3. Inflorescences pseudocapituliformes non sphériques; la première paire de bractées est plus nettement protectrice, soit  $ \pm $ naviculée soit très ample.
+3. Inflorescences pseudocapituliform not spheric; the first pair of bracts is more distinctly protective, either ± naviculate or very ample.
 
-4. Bractées inférieures ± naviculées, parfois profondément,
-
-soudées ou non entre elles à la base (voir la jeune inflo-
+4. Lower bracts ± naviculate, sometimes deeply, united or not between them at the base (see the young inflo-
 
 ## Species in region
 

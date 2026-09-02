@@ -17,27 +17,25 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Slender woody lianes with multiflorous terminal inflorescences. Stipules uni- or paucidentate. Flowers pentamerous, arranged in pairs juxtaposed on all the ramifications of the cymes. Calyx lobes ± unequal, sometimes foliaceous. Prefloration valvate. Raphides abundant in floral tissues. Pollen in tricolporate reticulate grains (F. Hallé 383). Ovaries with 2 multiovulate locules. Placenta subglobose, densely ovuliferous, narrowly peltate at the center of the internal face. Dry dehiscent fruits: dehiscence is septicidal but, moreover, a partial loculicidal dehiscence is observed (top of the locule).
 
-Lianules ligneuses grêles à inflorescences multiflores terminales. Stipules uni ou paucidentées. Fleurs pentamères juxtaposées par deux sur toutes les ramifications des cymes. Lobes du calice ± inégaux parfois foliacés. Préfloraison valvaire. Raphides abondants dans les tissus floraux. Pollen en grains tricolporés réticulés (F. Hallé 383). Ovaires à 2 loges multiovulées. Placenta subglobuleux densément ovulifères, étroitement peltés au milieu de la face interne. Fruits secs déhiscents : la déhiscence est septicide mais on observe en outre une déhiscence localicide partielle (haut de la loge).
-
-Genre d'Afrique occidentale et centrale; 2 espèces d'après G. Taylor; l'espèce type est au Gabon.
+Genus of western and central Africa; 2 species according to G. Taylor; the type species is from Gabon.
 
 1. Sacosperma paniculatum (Benth.) G. Taylor. (PL. 23)
 
-Voir les références du genre. — F. Hallé, Adansonia 2 : 267 (1961).
+See generic references. — F. Hallé, Adansonia 2 : 267 (1961).
 
 = Peltospermum paniculatum Bentham in Hook. Niger Fl. : 400 (1849).
 
 = Oldenlandia peltospermum Hiern, Oliv. F.T.A. 3 : 53 (1877). — F.W.T.A. ed. I, 2 : 132 (1931).
 
-Petite liane atteignant 3 m de hauteur, à tige ± volubile. Entrenœuds creux ± pubérulents puis roux-glabrescent, longs de 3-8 (12) cm. Stipules : une seule paire par nœud, pubérulentes, longues de 2-3,5 mm, brusquement atténuées, à sommet subulé simple ou bifide. Pétiole de 5-11 mm, ± pubérulent. Limbe glabre ou très médiocrement pubescent, de 5-10 × 2-5 cm; certaines feuilles proches des inflorescences sont plus réduites; base du limbe aiguë; sommet aigu ± atténué ou subacuminé. 7-12 paires
+Small liane attaining 3 m in height, with ± voluble stem. Internodes hollow ± puberulent then rusty-glabrescent, 3–8 (12) cm long. Stipules: a single pair per node, puberulent, 2–3.5 mm long, abruptly attenuate, with a simple or bifid subulate apex. Petiole 5–11 mm, ± puberulent. Lamina glabrous or very faintly pubescent, 5–10 × 2–5 cm; some leaves near the inflorescences are more reduced; base of lamina acute; apex acute ± attenuate or subacuminate. 7–12 pairs
 
 ---
 
-de nervures secondaires arquées ascendantes. Domaties axillaires pubescentes à ouverture ± apparente.
+of secondary veins arched ascending. Domatia axillary, pubescent with ± apparent opening.
 
-Inflorescences en grappes de cymes terminales sur des rameaux latéraux; les 3-5(7) nœuds successifs du rachis portent des cymes opposés ± fourchues et unipares; pédoncules des cymes de 0,5-3 cm; branches scorpioïdes (?) portant une succession régulière de nœuds biflores espacés de 3-8 mm : jusqu'à 15 nœuds biflores par cyme élémentaire. Fleurs subsessiles (les extérieures présentant de très petites bractéoles basales), blanches, verdâtres ou violacées, nigrescentes à sec. Ovaire haut de 1-1,5 mm. 5 lobes calycinaux glabres ± inégaux longs de 0,5-1,5 mm. Sommet du bouton ± aigu; corolle extérieurement glabre de 7-9 × 1,5-2 mm; 5 lobes pétalaires dépassant à peine 1 mm, aigus. Anthères blanches de 1,5-2 mm, à très court filet, insérées à la gorge (forme brévystyle) ou au milieu d'une zone pubescente interne : poils blancs très serrés visibles à la gorge. Filets décollés et pubescents au niveau de fentes interpétalaires de la base de la corolle. Pollen blanc. Style violacé à 2 lobes oblongs de 1,5 mm. Disque glabre.
+Inflorescences in racemes of terminal cymes on lateral branches; the 3–5(7) successive nodes of the rachis bear opposite ± forked and unipary cymes; pedicels of cymes 0.5–3 cm; scorpioid (?) branches bearing a regular succession of biflorous nodes spaced 3–8 mm apart: up to 15 biflorous nodes per elementary cyme. Flowers subsessile (the outer ones bearing very small basal bracteoles), white, greenish or violaceous, becoming blackish when dry. Ovary 1–1.5 mm high. 5 calycine lobes glabrous ± unequal, 0.5–1.5 mm long. Apex of bud ± acute; corolla externally glabrous, 7–9 × 1.5–2 mm; 5 petalous lobes scarcely exceeding 1 mm, acute. Anthers white, 1.5–2 mm, with very short filament, inserted at the throat (short-styled form) or in the middle of an internal pubescent zone: white hairs very densely packed, visible at the throat. Filaments detached and pubescent at the level of interpetalous slits at the base of the corolla. Pollen white. Style violaceous with 2 oblong lobes 1.5 mm long. Disc glabrous.
 
 ## Species in region
 

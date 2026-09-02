@@ -17,21 +17,19 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Shrubs sometimes sarmentose or small trees, glabrous. Leaves most often 1-5-jugate; leaflets generally ovate-oblong, entire, glabrous, subcoriaceous.
 
-Arbustes parfois sarmenteux ou petits arbres, glabres. Feuilles le plus souvent 1-5-juguées; folioles généralement ovales-oblongues, entières, glabres, subcoriaces.
+Flowers monoecious, small, regular; calyx with 5 orbicular, concave sepals, quincuncial in prefloration, the 2 outer ones smaller; petals (3-4)-5; disk regular, free margin with 5 crenations (housing for petals) or with 5 lobes, glabrous; androecium with 5-7 stamens; filaments with thickened and hairy base; ovary most often bilocular, with 2 (rarely 3) cocci; style situated in the depression between the lobes, but not distinctly gynobasic. Fruit drupaceous with 2-(3) lobes, often reduced to 1 coccus by abortion. Embryo straight; cotyledons thick, one dorsal, the other ventral; radicle papilliferous (1 mm) at the base, on the hilum side.
 
-Fleurs monoïques, petites, régulières; calice à 5 sépales orbiculaires, concaves, à préfloraison quinconciale, les 2 extérieurs plus petits; pétales (3-4)-5; disque régulier, marge libre à 5 créneaux (logement des pétales) ou à 5 lobes, glabre; androcée à 5-7 étamines; filets à base épaissie et velue; ovaire le plus souvent biloculaire, à 2 (rarement 3) coques; style situé dans la dépression entre les lobes, mais non franchement gynobasique. Fruit drupacé à 2-(3) lobes, souvent réduits à 1 coque par avortement. Embryon droit; cotylédons épais, l'un dorsal, l'autre ventral; radicule papilliforme (1 mm) à la base, côté hile.
+TYPE SPECIES: Aphania montana Blume.
 
-ESPÈCE-TYPE : Aphania montana Blume.
+Endocarp cartilaginous, hardened; pollen ellipsoid subglobose; leaf epidermis without secretory cells; fruit cocci ellipsoid obovate (Section Pycnaphania Radlk.) — 1. A. senegalensis.
 
-Endocarpe cartilagineux, induré; pollen ellipsoïde sub-globuleux; épiderme foliaire sans cellules secrétrices; coques du fruit ellipsoïdes obovales (Section Pycnaphania Radlk.....1. A. senegalensis.
+### Endocarp cartilaginous, chartaceous; pollen triangular, flattened (Section Aphania)
 
-### Endocarpe cartilagineux, chartacé; pollen triangulaire, aplati (Section Aphania)
+According to LEENHOUTS, these 21 species would be reduced to 3, the first being
 
-Selon LEENHOUTS, ces 21 espèces se réduiraient à 3, la première étant
-
-A. senegalensis à aire très vaste et 2 autres confinées en Nouvelle Guinée.
+A. senegalensis with a very extensive range and 2 others confined to New Guinea.
 
 ## Species in region
 

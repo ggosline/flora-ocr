@@ -17,45 +17,13 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Polycarpic, monoecious trees, unarmed; solitary stipe, generally without leaf sheath remains. Leaves pinnate; leaf sheath fibrous, forming a fibril opposite the petiole, fibrous margins; petiole concave above, rounded below, tomentose; rachis curved or straight, with caducous tomentose pubescence; leaflets numerous, arranged regularly in the same plane. Inflorescences axillary, interfoliar, solitary, branched once, protandrous; peduncle robust; prophyll tubulate, becoming fibrous; peduncular bracts very broad, containing the entire inflorescence just before anthesis; rachis as long as the peduncle; flowering branches arranged spirally on the rachis, robust, pendulous then horizontal, with inconspicuous bracts. Male flowers sessile; sepals 3, imbricate, triangular; petals 3, longer than the sepals, imbricate; stamens 6, filament short, anther dorsifixed, latrorse; pistillode present, 3-lobed. Female flowers sessile; sepals 3, imbricate; petals 3, similar to the sepals; staminodes united in a ring; gynoecium 3-carpellate, with 3 anatropous, basal ovules; stigmas 3, short. Fruits very large, ellipsoid to broadly ovoid, triangular-rounded in transverse section, with 3 large pores and a single seed. Seed with a layer of homogeneous albumen, with empty central cavity, filled with liquid; embryo basal.
 
-Arbres polycarpiques , monoïques, sans épines ; stipe solitaire, généralement sans restes de
+Genus comprising a single species, very widely distributed along the coasts of all tropical regions.
 
-gaines foliaires. Feuilles pennées ; gaine foliaire fibreuse, formant un filet opposé au pétiole,
+B: Dransfield (1986), Dransfield et al. (2008), Harries (1978), Stauffer et al. (2014).
 
-marges fibreuses ; pétiole concave au-dessus, arrondi en dessous, tomenteux ; rachis courbé
-
-ou droit, à pilosité tomenteuse caduque ; folioles nombreuses, arrangées régulièrement
-
-dans un même plan . Inflorescences axillaires, interfoliaires, solitaires, ramifiées une fois,
-
-protandre ; pédoncule robuste ; préfeuille tubulée, devenant fibreuse ; bractées pédonculaires
-
-très larges, contenant toute l’inflorescence juste avant l’anthèse ; rachis aussi long que le
-
-pédoncule ; rameaux florifères disposés en spirale sur le rachis, robustes, pendantes puis hori -
-
-zontales, à bractées peu visibles. Fleurs mâles sessiles ; sépales 3, imbriqués, triangulaires ;
-
-pétales 3, plus longs que les sépales, imbriqués ; étamines 6, filet court, anthère dorsifixe,
-
-latrorse ; pistillode présent, 3-lobé. Fleurs femelles sessiles ; sépales 3, imbriqués ; pétales 3,
-
-semblables aux sépales ; staminodes unis en un anneau ; gynécée 3-carpellaire, à 3 ovules ana -
-
-tropes, basaux ; stigmates 3, courts. Fruits très grands, ellipsoïdes à largement ovoïdes, trian -
-
-gulaires-arrondis en coupe transversale, avec 3 grands pores et une seule graine. Graine avec
-
-une couche d’albumen homogène, à cavité centrale vide, remplie de liquide ; embryon basal.
-
-Genre comprenant une seule espèce, très largement répartie le long les côtes de toutes les
-
-régions tropicales.
-
-B : Dransfield (1986), Dransfield et al. (2008), Harries (1978), Stauffer et al. (2014).
-
-i B liographie
+Bibliography
 
 ## Species in region
 

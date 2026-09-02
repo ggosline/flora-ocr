@@ -16,15 +16,13 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Herbs with rhizomes, forming tufts of leaves with imbricate sheaths at the base and short stems, bearing a leaf and an inflorescence arising laterally from the sheath. Leaves long-petiolate, transition from the callus to the midvein marked on the upper surface by a V-shaped step. Blades oblong to linear-oblong.
 
-Herbes à rhizomes, formant des touffes de feuilles à gaines imbriquées à la base et de tiges courtes, portant unc fcuillc et une inflorescence sortant latéralement de la gaine. Feuilles longuement pétiolées, passage du callus à la nervure médiane marqué à la face supérieure par un décrochement en forme de V. Limbes oblongs à linéaires oblongs.
+Inflorescence spiciform, simple or bifurcate at the base, rachis elongate, bracts abaxial distichous, axilling one or more biflorous cymes each borne by an adaxial bicarinate bract. Common peduncle short, pedicels unequal, lacking bracteoles. Sepals unequal, the anterior much smaller; corolla with short tube. External staminodes large, petaloid, the inner ones smaller; stamen filament free. Ovary with three uniovulate locules, but producing a fruit with a single seed with persistent calyx.
 
-Inflorescence spiciforme, simple ou bifurquée à la base, rachis allongé, bractées abaxiales distique, axillant une ou plusieurs cymes biflores portées chacune par une bractée adaxiale bicarénée. Pédoncule commun court, pédicelles inégaux, dépourvus de bractéoles. Sépales inégaux, l'antérieur beaucoup plus petit ; corolle à tube court. Staminodes externes grands, pétaloïdes, les internes plus petits ; filament staminal libre. Ovaire à trois loges uniovulées, mais donnant un fruit à une seule graine avec le calice persistant.
+Type species: Halopegia azurea K. Schum.
 
-Espèce type : Halopegia azurea K. Schum.
-
-Ce genre compte 4 espèces, une africaine, les autres de Java ou des Indes orientales. Ce sont toutes des plantes de marais.
+This genus comprises 4 species, one African, the others from Java or the East Indies. These are all marsh plants.
 
 ## Species in region
 

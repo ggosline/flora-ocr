@@ -17,71 +17,69 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Shrubs or perennial herbs, sometimes annual, monoecious, with erect or ascending stems;
 
-Arbustes ou herbes pérennes, parfois annuelles , monoïques, à tiges dressées ou ascendantes ;
+cystoliths punctiform. Stipules lateral, free. Leaves alternate, opposite or whorled,
 
-cystolithes ponctiformes . Stipules latérales, libres. Feuilles alternes, opposées ou verticillées,
+petiolate or sessile; blade narrowly ovate to narrowly elliptic, base generally
 
-pétiolées ou sessiles ; limbe étroitement ovale à étroitement elliptique, base généralement
+rounded or cuneate, margin entire or dentate, chartaceous to subcoriaceous. Inflorescences in axillary
 
-arrondie ou cunéée, marge entière ou dentée, cartacé à subcoriace. Inflorescences en glomé-
+glomerules, bisexual and compact. Male flowers pedicellate, 4- or 5-merous, often with
 
-rules axillaires, bisexués et compacts. Fleurs mâles pédicellées, 4- ou 5-mères, souvent avec
+hooked hairs; tepals generally muticous, rarely with crests or transverse
 
-des poils crochus ; tépales généralement mutiques, rarement avec des crêtes ou des ailes
+wings; pistillode present or absent. Female flowers sessile, with tepals completely
 
-transversales ; pistillode présent ou non. Fleurs femelles sessiles, avec des tépales complète-
+fused surrounding the ovary, sometimes apparently fused to it in the lower part,
 
-ment soudés entourant l’ovaire , parfois apparemment soudés à lui dans la partie inférieure,
+often with ± distinct longitudinal crests; staminodes absent; stigma sessile,
 
-souvent avec des crêtes longitudinales ± distinctes ; staminodes absents ; stigmate sessile,
-
-filiforme , parfois enroulé comme une pelote de laine, avec des papilles latérales, caduc. Fruit
+filiform, sometimes coiled like a ball of wool, with lateral papillae, caducous. Fruit
 
 ---
 
 66 Ib FRIIS
 
-ovoïde, dressé, à sommet ± comprimé et pointu, généralement blanc perlé à brun brillant ,
+ovoid, erect, with apex ± compressed and pointed, generally pearly white to glossy brown,
 
-complètement entouré par le périanthe membraneux persistant , mais libre de ce dernier
+completely surrounded by the persistent membranous perianth, but free from the latter
 
-qui peut présenter des ailes longitudinales.
+which may present longitudinal wings.
 
-Genre avec environ 50 espèces principalement paléotropicales ; au Gabon, deux espèces.
+Genus with approximately 50 species principally paleotropical; in Gabon, two species.
 
-Notes : Pour la distinction entre Pouzolzia et Boehmeria, voir la note sous Boehmeria .
+Notes: For the distinction between Pouzolzia and Boehmeria, see the note under Boehmeria.
 
-B : Friis (1993), Kravtsova (2009), Kravtsova et al . (2003), Wilmot-Dear & Friis (2006).
+B: Friis (1993), Kravtsova (2009), Kravtsova et al. (2003), Wilmot-Dear & Friis (2006).
 
-i B liographie
+Bibliography
 
-### Clé des espèces
+### Key to species
 
-1. - Inflorescence pauciflore, comprenant 1 à 5(–6) fleurs femelles, mais parfois avec un
+1. – Inflorescence pauciflorous, comprising 1 to 5(–6) female flowers, but sometimes with a
 
-grand nombre de fleurs mâles ; bractées voyantes si présentes, à base largement cordée,
+large number of male flowers; bracts conspicuous if present, with broadly cordate base,
 
-à sommet arrondi ; bractées et périanthe mâles à poils crochus ; périanthe femelle
+with rounded apex; bracts and male perianth with hooked hairs; female perianth
 
-pubescent à strigueux, verdâtre à brunâtre, opaque, terne ; stigmate généralement
+pubescent to strigulose, greenish to brownish, opaque, dull; stigma generally
 
-enroulé en une structure globuleuse ; rameaux à peine feuillés ou nus vers la base
+coiled into a globose structure; branches scarcely leafy or naked toward the base
 
 ...................................................................................................................... P. guineensis
 
-- Inflorescence généralement avec au moins 10 fleurs, souvent 20 à 25, généralement
+– Inflorescence generally with at least 10 flowers, often 20 to 25, generally
 
-les femelles plus nombreuses que les mâles ; toutes les bractées florales discrètement
+female flowers more numerous than male; all floral bracts discretely
 
-linéaires-lancéolées, à base étroitement cunéée, à sommet longuement acuminé ;
+linear-lanceolate, with narrowly cuneate base, with apex longly acuminate;
 
-bractées et périanthe mâles pubérulents, sans poils crochus ; périanthe femelle presque
+bracts and male perianth puberulous, without hooked hairs; female perianth nearly
 
-glabre, notamment en fruit d’un or frappant, brillant et semi-translucide ; stigmate
+glabrous, notably in fruit of striking gold, glossy and semi-translucent; stigma
 
-filiforme, droit, jamais enroulé en une structure globuleuse ; rameaux devenant
+filiform, straight, never coiled into a globose structure; branches becoming
 
 ## Species in region
 

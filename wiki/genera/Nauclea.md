@@ -17,43 +17,31 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Tall trees or unarmed shrubs, rarely subsarmentose. Stipules either short and deltoid, or ample and ovate, ± rapidly caducous. Leaves petiolate, medium or ample, generally very well developed on young plants or on shoots. Inflorescences solitary and terminal. Calyx with ± 5 lobes, sometimes free and caducous or persistent, sometimes ± connate with each other around the flowers. Corolla long, infundibuliform, with 4–5 imbricate lobes. Stamens with very short filament and bilocular anther. Style long and narrow, far exceeding the corolla; stigma ± swollen cylindric, then ± conical acuminate. Ovaries entirely connate with each other over their entire length, each with two multiovulate locules.
 
-Grands arbres ou arbustes inermes, rarement subsarrimentaux. Stipules soit courtes et deltoïdes, soit amples et ovales, ± rapidement caduques. Feuilles pétiolées, moyennes ou amples, généralement très développées sur les jeunes pieds ou sur les rejets. Inflorescences solitaires terminales. Calice à ± 5 lobes, tantôt libres, caduces ou non, tantôt ± soudés entre eux autour des fleurs. Corolle longue, infundibiliforme, à 4-5 lobes imbriqués. Étamines à filet très court et anthère biloculaire. Style long et étroit, dépassant beaucoup la corolle; stigmate ± renflé cylindrique, puis ± conique acuminé. Ovaires entièrement soudés entre eux sur toute leur longueur, chacun à deux loges multi-ovulées.
-
-Fruit syncarpique massivement sphéroïde, à surface parfois spongieuse, parfois alvéolée ou réticulée, ± charnu. Graines aptères, parfois marginées; testa réticulée, les cellules présentant au fond des perforations variables et des parois latérales pleines et non ornées. Petit embryon droit entouré d'albumen.
+Syncarpic fruit massively spheroid, with surface sometimes spongy, sometimes alveolate or reticulate, ± fleshy. Seeds wingless, sometimes marginate; testa reticulate, the cells showing at the base variable perforations and full non-ornamented lateral walls. Small straight embryo surrounded by albumen.
 
 ---
 
-Espèce type, N. orientalis L. (= Sarcocephalus cordatus Miq.) d'Asie.
+Type species, N. orientalis L. (= Sarcocephalus cordatus Miq.) from Asia.
 
-### CLÉ DES ESPÈCES
+### KEY TO THE SPECIES
 
-1. Stipules réduites deltoïdes; lobes des calices libres depuis leur base.
+1. Stipules reduced deltoid; calyx lobes free from their base.
 
-2. Lobes des calices à tête obconique plate, ± pubescents et très caduces; graines non marginées; infrutescence rouge ornée d'alvéoles apparentes; nervure médiane ± pubérulente sur la face inférieure du limbe ..... I. N. latifolia.
+2. Calyx lobes with flat obconic head, ± pubescent and very caducous; seeds non-marginate; fruiting head red ornamented with apparent alveoles; midvein ± puberulent on the lower surface of the limb ..... 1. N. latifolia.
 
-2'. Lobes des calices à apex ± saillant, densément pubescents et per-
+2'. Calyx lobes with ± prominent apex, densely pubescent and persistent; seeds marginate; fruiting head yellowish finely spongy on surface, without apparent alveoles..... 2. N. Pobeguini.
 
-sistants; graines marginées; infrutescence jaunâtre finement
+1'. Stipules well developed ovate; calyx lobes ± concrescent.
 
-spongieuse en surface, sans alvéoles apparentes.... 2. N. Pobeguini.
+3. Keel thin, very prominent on the stipule axis; apex of the inflorescence peduncle swollen subcapitate; calyx lobes pubescent, connate in ± distinct groups and weakly adherent with each other: they become isolated on the fruit surface giving it a ± echinnulate aspect ..... 3. N. Diderrichii.
 
-1'. Stipules développées ovales; lobes des calices ± concrescents.
+3'. No narrow keel on the stipules, sometimes only toward the base an ± obtuse boss; apex of the inflorescence peduncles attenuate; calyx lobes glabrous or moderately ciliate, all connate with each other; they form an uninterrupted network on the fruit surface.
 
-3. Carène mince, très saillante sur l'axe des stipules; sommet du pédon-cule de l'inflorescence renflé subcapité; lobes des calices pubes-cents, soudés par groupes ± distincts et peu adhérents entre eux : ils s'isolent à la surface du fruit en lui donnant un aspect ± échil-nulé ..... 3. N. Diderrichii.
+4. Inflorescence of approx. 4–6 cm in diameter; stigmatic club 3 or 4 times longer than wide; internodes swollen by myrmecoecidies; base of the leaf limb often very enlarged.....
 
-3'. Pas de carène étroite sur les stipules, parfois seulement vers la base une bosse ± obtuse; sommet du pédoncule des inflorescences atténué; lobes des calices glabres ou médiocrement ciliés, tous soudés entre eux; ils forment un réseau ininterrompu à la surface du fruit.
-
-4. Inflorescence d'env. 4-6 cm de diam.; massue stigmatique 3 ou
-
-4 fois plus longue que large; entrenœuds renflés par des myrmé-
-
-cocécidies; base du limbe foliaire souvent très élargie.....
-
-4'. Inflorescences de 3,5 cm de diam. ou moins; massue stigmatique
-
-2 à 3 fois plus longue que large; pas de myrmécocécidies; base
+4'. Inflorescences of 3.5 cm in diameter or less; stigmatic club 2 to 3 times longer than wide; no myrmecoecidies; base of the leaf
 
 ## Species in region
 

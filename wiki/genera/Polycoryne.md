@@ -16,21 +16,19 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+References below.
 
-Références ci-dessous.
+Lianescent plant, particularly glabrous in all its parts. Stipules amplexicaul, somewhat fused at the base to the petiolar axils. Leaf domatia very small, in great number, not limited to the axils of the midrib. Petiole channelled.
 
-Plante lianescente, particulièrement glabre en toutes ses parties. Stipules embrassantes, un peu soudées à la base aux aisselles pétiolaires. Domaties foliaires très petites, en grand nombre, non limitées aux aisselles de la nervure médiane. Pétiole canaliculé.
-
-Inflorescences terminales ± contractées en panicules de cymes multiflores, à pédoncule issu d'un bourgeon écailleux; ce pédoncule porte souvent 3 nœuds ± étagés à paires de feuilles ± réduites ou même nulles, le système stipulaire étant seul développé. Floraison synchrone. Fleurs blanches, glabres. Corolle longue, étroitement infundibiliforme, à 5 lobes obtus au sommet, contortés à la préfloraison. Étamines sessiles demi-exsertes, apiculées. Pollen tétraédrique de 55 μ de diam., à grains élémentaires triporés, à
+Terminal inflorescences ± contracted into panicles of multiflorous cymes, with peduncle arising from a scaly bud; this peduncle often bears 3 ± tiered nodes with pairs of ± reduced or even absent leaves, the stipular system alone being developed. Flowering synchronous. Flowers white, glabrous. Corolla long, narrowly infundibuliform, with 5 obtuse lobes at the apex, contorted in prefloration. Stamens sessile semi-exserted, apiculate. Pollen tetrahedral 55 μ in diam., with triporose elementary grains, with
 
 ---
 
-exine médiocrement réticulée. Style filiforme médiocrement renflé au niveau des anthères, fendu en 2 lobes, dépassant un peu l'androcée à l'anthèse. Ovaire uniloculaire; deux placentas parié-taux; ovules peu serrés entre eux.
+moderately reticulate exine. Style filiform moderately thickened at the level of the anthers, split into 2 lobes, slightly exceeding the androecium at anthesis. Ovary unilocular; two parietal placentas; ovules not closely packed together.
 
-Fruit bacciforme globoïde, multisperme. Graines lenticulaires grandes.
+Fruit berry-like globoid, multiseeded. Seeds large, lenticular.
 
-### Genre monotypique d'Afrique occidentale.
+### Monotypic genus of West Africa.
 
 ## Species in region
 

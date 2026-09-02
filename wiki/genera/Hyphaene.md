@@ -17,51 +17,15 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Tree palms, spiny, polycarpic, dioecious; solitary stem [but generally dichotomous in other species, generally not present in Gabon]. Leaves: sheath open, densely tomentose, with fibrous margins; petiole concave above, rounded below, margins armed with robust and reflexed spines; blade costapalmately divided from one-third to two-thirds of its length into induplicate segments [cross-section V-shaped], with glaucous surface with wax present, intersegmental fibers visible. Inflorescences interfoliar, male and female similar; peduncle robust, with abundant but caducous piloseness; prophyll tubular; peduncular bracts 2, tubular, with abundant but caducous piloseness; rachis longer than the peduncle, with floriferous branches catkin-shaped; bracts appressed, spiraled, densely tomentose, fused laterally and adnate to the axis forming foveae [cavities] densely pubescent; male flowers grouped by 3, female flowers solitary.
 
-Palmiers arborescents, épineux , polycarpiques, dioïques ; stipe solitaire [mais généralement
+Male flowers: calyx tubular at base, 3-lobed; corolla long-tubular, 3-lobed, valvate; stamens 6, filaments fused at base, anthers medifixed, latrose or introrse; pistillode present, 3-lobed. Female flower: pedicel short; calyx with 3 distinct, rounded, imbricate sepals; corolla with 3 petals, similar to sepals; staminodes 6, united in an epipetalous ring; gynoecium globose, 3-carpellate, 3-ovulate; stigmas 3, short. Fruits developing on enlarged pedicels, developing 1(–3) carpel(s), containing 1 to 3 seeds, of variable form. Seeds basal.
 
-dichotomique chez les autres espèces, généralement non présentes au Gabon]. Feuilles : gaine
+Genus comprising approximately eight species from tropical Africa to India and Sri Lanka, of which only one is represented in Gabon.
 
-ouverte, densément tomenteuse, à marges fibreuses ; pétiole concave dessus, arrondi dessous,
+B: Dransfield et al. (2008), Stauffer et al. (2014, 2017), van Valkenburg & Dransfield (2004).
 
-bords armés d’épines robustes et réfléchies ; limbe costapalmé , divisée du tiers aux deux tiers
-
-de sa longueur en segments indupliqués [section transversale en « V »], à surface glauque
-
-avec présence de cire, fibres intersegmentaires visibles. Inflorescences interfoliaires, mâles
-
-et femelles semblables ; pédoncule robuste, à pilosité abondante mais caduque ; préfeuille
-
-tubuleuse ; bractées pédonculaires 2, tubuleuses, à pilosité abondante mais caduque ; rachis
-
-plus long que le pédoncule, à rameaux florifères en forme de chaton ; bractées apprimées,
-
-spiralées, densément tomenteuses, fusionnées latéralement et adnées à l’axe en formant des
-
-fovea [cavités] densément pubescentes ; fleurs mâles groupées par 3, les femelles solitaires.
-
-Fleurs mâles : calice tubuleux à la base, à 3 lobes ; corolle longuement tubuleuse, à 3 lobes
-
-valvaires ; étamines 6, filets fusionnés à la base, anthères médifixes, latrorses ou introrses ;
-
-pistillode présent, 3-lobé. Fleur femelle : pédicelle court ; calice avec 3 sépales distincts,
-
-arrondis, imbriqués ; corolle avec 3 pétales, semblables aux sépales ; staminodes 6, unis en
-
-un anneau épipétale ; gynécée globuleux, 3-carpellaire, 3-ovulaire ; stigmates 3, courts. Fruits
-
-naissant sur des pédicelles élargis, développant 1(–3) carpelle(s), renfermant 1 à 3 graines, à
-
-forme variable. Graines basales.
-
-Genre comprenant environ huit espèces d’Afrique tropicale jusqu’en Inde et Sri Lanka, dont
-
-une seulement représentée au Gabon.
-
-B : Dransfield et al. (2008), Stauffer et al. (2014, 2017), van Valkenburg & Dransfield (2004).
-
-i B liographie
+Bibliography
 
 ## Species in region
 

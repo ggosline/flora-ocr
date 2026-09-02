@@ -17,27 +17,23 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Unarmed high-climbing lianes, entirely glabrous. Old wood normally cylindrical. Rubber filaments present or absent. Stipules reduced. Leaves opposite, rarely subopposite, petiolate. Blade entire or with scattered weak denticules.
 
-Lianes inermes élevées, entièrement glabres. Vieux bois cylindrique normal. Filaments de caoutchouc présents ou absents. Stipules réduites. Feuilles opposées, rarement subopposées, pétiolées. Limbe entier ou à faibles denticules espacés.
-
-Inflorescences en cymes axillaires dichotomes dépourvues de ramifications surnuméraires, pédonculées souvent groupées en panicules terminales ; entre-nœuds cylindriques. Bractées opposées dans les cymes, parfois subopposées sur le rachis des panicules, petites et deltoïdes. Boutons plutôt gros, globuleux ; à pétales très largement imbriqués cucullés. Fleurs plutôt larges, 1 cm ou plus, s'ouvrant largement, blanches devenant jaunes, pédicellées. Sépales 5 quinconciaux inégaux, suborbiculaires, finement denticulés. Pétales 5 espacés, étroits ou atténués à la base, concaves dessus en cuiller, blanc pur au début de l'anthèse, à nervures formant des arceaux. Disque petit, bas, ± étalé ou relevé en cupule, à bord mince ; intérieur du disque nettement en dépression. Étamines insérées profondément au contact du bord interne du disque ; filets rubanés courts ; anthère transversalement déhiscente ; pollen en monades tricolporées. Ovaire nettement enfoncé, au niveau moyen de la base des lobes du calice ; le haut des loges, à paroi mince, est bombé entre les filets ; les loges sont séparées de l'androcée par un sillon profond à la base des filets. Style étroit et très court ; stigmate subsessile à 3 lobes arqués extrorses déjà formés dans le bouton. (4)6-9 ovules par loge en 2 rangs.
-
----
+Inflorescences in axillary dichotomous cymes lacking supernumerary ramifications, pedunculate often grouped into terminal panicles; internodes cylindrical. Bracts opposite in the cymes, sometimes subopposite on the panicle rachis, small and deltoid. Buds rather large, globose; with petals very broadly imbricate cucullate. Flowers rather large, 1 cm or more, opening widely, white becoming yellow, pedicellate. Sepals 5 quincuncial unequal, suborbicular, finely denticulate. Petals 5 spaced, narrow or attenuate at the base, concave above in a spoon-like manner, pure white at the beginning of anthesis, with veins forming arcs. Disk small, low, ± spreading or raised into a cupule, with thin margin; interior of disk clearly depressed. Stamens inserted deeply in contact with the inner margin of the disk; filaments ribbon-like short; anther transversely dehiscent; pollen in tricolporate monads. Ovary clearly sunken, at the mean level of the base of the calyx lobes; the top of the locules, with thin wall, is convex between the filaments; the locules are separated from the androecium by a deep groove at the base of the filaments. Style narrow and very short; stigma subsessile with 3 arched extrorse lobes already formed in the bud. (4)6-9 ovules per locule in 2 rows.
 
 # CELASTR. HIPPOCRATEOIDEAE
 
-Fruit à réceptacle turbiné, à 6 valves caduques plutôt souples. Graînes soit grosses et aptères (par atrophie de l'aile) sans étuis d'insertion, soit comprimées ailées à raphé transalaire, insérées sur un étui funiculaire.
+Fruit with turbinate receptacle, with 6 caducous rather flexible valves. Seeds either large and apterus (by atrophy of the wing) without insertion sheaths, or compressed winged with transalary raphe, inserted on a funicular sheath.
 
-ESPÈCE-TYPE : Cuervea kappleriana (Miq.) A.C. Smith, espèce américaine décrite du Surinam.
+TYPE SPECIES: Cuervea kappleriana (Miq.) A.C. Smith, American species described from Surinam.
 
-Genre de 5 espèces, trois américaines et deux d'Afrique. Le nom du genre a été créé en l'honneur d'un abbé de Bogota, ROMUALDO CUER-VEO.
+Genus of 5 species, three American and two from Africa. The name of the genus was created in honour of an abbé of Bogota, ROMUALDO CUERVEO.
 
-### CLÉ DES ESPÈCES
+### KEY TO THE SPECIES
 
-1. Fleur de 8-12 mm de diamètre ; disque à lobes un peu anguleux ; pétales de 4-5 × 3-4 mm ; fruit à valves comprimées ; graines à aile membraneuse développée ; feuille ayant souvent un peu de latex (filaments de caoutchouc) ; limbe foliaire de 5-10 et rarement jusqu'à 15 cm de longueur ..... 1. C. isangiensis.
+1. Flower 8-12 mm in diameter; disk with somewhat angular lobes; petals 4-5 × 3-4 mm; fruit with compressed valves; seeds with developed membranous wing; leaf often having some latex (rubber filaments); leaf blade 5-10 and rarely up to 15 cm in length ..... 1. C. isangiensis.
 
-1'. Fleur de 15-20 mm de diamètre ; disque à lobes plutôt arrondis ; pétales de 7-12 × 5-7 mm ; fruit à valves renflées ; graines volumineuses attachées par un cordon plat ; pas de latex ; limbe de 10-27 cm, souvent plus de 15 cm
+1'. Flower 15-20 mm in diameter; disk with rather rounded lobes; petals 7-12 × 5-7 mm; fruit with inflated valves; large seeds attached by a flat cord; no latex; blade 10-27 cm, often more than 15 cm
 
 ## Species in region
 

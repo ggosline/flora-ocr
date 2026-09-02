@@ -16,15 +16,13 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 in Benth. & Hook., Gen. pl. 1: 828 (1867).
 
-Herbes vivaces, monoïques, rampantes ou grimpantes; tiges jusqu'à 6 m de longueur. Vrilles simples. Feuilles pétiolées; limbe ovale-cordiforme, entier ou légèrement 3- à 5-lobé, aigu ou acuminé au sommet, ±pubescent. Inflorescences : les mâles en racème, les femelles à fleur solitaire ou par 2 ou 3. Fleurs mâles : réceptacle courte, obconique ou cylindrique; sépales subulés à triangulaires-elliptiques ou pectinés-pinnatifides, jusqu'à 10 mm de longueur et de largeur; corolle campanulée, jaune à orange, à lobes entiers; étamines 3, à filets libres, insérés dans la partie inférieure du réceptacle, anthères toutes bithèques, à loges tripiquées. Fleurs femelles : périanthe semblable à celui des fleurs mâles, mais un peu plus grand; ovaire ellipsoïdal, hispide, à nombreux ovules horizontaux ; style en colonne, à 3 stigmates 3- à 5-lobés. Fruits : baies, ellipsoïdales à globuleuses, jusqu'à 7 cm de longueur, charnues, hérissées de poils raides, aciculaires et fragiles, vertes, devenant rouges à maturité, déhiscentes en 10 valves, à nombreuses graines dans une pulpe rouge. Graines comprimées, lisses.
+Perennial herbs, monoecious, creeping or climbing; stems up to 6 m in length. Tendrils simple. Leaves petiolate; blade ovate-cordate, entire or slightly 3- to 5-lobed, acute or acuminate at the apex, ± pubescent. Inflorescences: the male ones in a raceme, the female ones with a solitary flower or 2 or 3 together. Male flowers: receptacle short, obconic or cylindric; sepals subulate to triangular-elliptic or pectinate-pinnatifid, up to 10 mm in length and width; corolla campanulate, yellow to orange, with entire lobes; stamens 3, with free filaments, inserted in the lower part of the receptacle, all anthers bithecate, with tripicate locules. Female flowers: perianth similar to that of male flowers, but somewhat larger; ovary ellipsoid, hispid, with numerous horizontal ovules; style columnar, with 3 stigmas 3- to 5-lobed. Fruits: berries, ellipsoid to globose, up to 7 cm in length, fleshy, covered with rigid, acicular and fragile hairs, green, becoming red at maturity, dehiscent in 10 valves, with numerous seeds in a red pulp. Seeds compressed, smooth.
 
-Genre africain de cinq espèces de la forêt humide, dont quatre sur le continent et une à Madagascar; au Gabon, une espèce.
+African genus of five species from humid forest, four on the continent and one in Madagascar; in Gabon, one species.
 
-BIBLIOGRAPHIE: Jeffrey (1967), Keraudren (1967), Keraudren & Jeffrey (1967), Keraudren-Aymonin (1975).
+BIBLIOGRAPHY: Jeffrey (1967), Keraudren (1967), Keraudren & Jeffrey (1967), Keraudren-Aymonin (1975).
 
 ## Species in region
 

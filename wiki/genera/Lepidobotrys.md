@@ -17,19 +17,13 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Tree glabrous. Leaves entire, penninerved, with canaliculate petiolule, articulate at the base with the petiole; stipules and stipels ciliolate.
 
-Arbre glabre. Feuilles entières, penninerves, à pétiolule canaliculé, articulé à la base avec le pétiole; stipules et stipelles ciliolées.
+Sepals erect in ♂ flowers, persistent in ♀ flowers. Petals free. Stamens exert, anthers introrse, versatile. Staminodes included in ♀ flowers. Ovary 3-lobed, 3-locular, rudimentary in ♂ flowers; styles 3, canaliculate, bilobed.
 
-Sépales dressés chez les fleurs ♂, persistants chez les fleurs ♀. Pétales libres. Étamines exertes, anthères introrses, versatiles. Staminodes inclus chez les fleurs ♀. Ovaire 3-lobé, 3-loculaire, rudimentaire chez les fleurs ♂; styles 3, canaliculés, bilobés.
+Capsule 3-valvate, with septicidal dehiscence.
 
-Capsule 3-valvaire, à déhiscence septicide.
-
-### Genre africain monotypique.
-
----
-
----
+### Monotypic African genus.
 
 ## Species in region
 

@@ -17,35 +17,13 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Dioecious or rarely monoecious herbs, pink to purple, becoming brownish, with horizontal and branched tubers. Leaves reduced to imbricate scales. Inflorescences solitary, unbranched, with numerous flowers in involucrate capitula, generally pedunculate or sometimes sessile; peduncles and capitula with imbricate scales. Male flowers on a plane to slightly convex receptacle, with 2–6 minute tepals arranged in a spiral; stamens 2–6, united into a synandrium, anthers generally with 2 locules and longitudinal dehiscence. Female flowers on a hemispherical to conical receptacle, free but densely inserted; perianth tubular, 3–4-lobed; ovary with 1 ovule; style 1, long-exsert. Fruits: achenes grouped in a hemispherical structure.
 
-Herbes dioïques ou rarement monoïques, roses à pourpres , devenant brunâtres, à tu-
+Monotypic genus from West and Central Africa.
 
-bercules horizontaux et branchus. Feuilles réduites à des écailles imbriquées . Inflo-
+Bi: Hansen (1986, 1993), Staner (1948), Stannard (2006).
 
-rescences solitaires, non ramifiées, à fleurs nombreuses en capitules involucrés , géné-
-
-ralement pédonculés ou parfois sessiles ; pédoncules et capitules à écailles imbriquées.
-
-Fleurs mâles sur un réceptacle plan à peu convexe, avec 2–6 tépales minuscules disposés
-
-en spirale ; étamines 2–6, réunies en un synandre , anthères généralement à 2 loges et
-
-à déhiscence longitudinale. Fleurs femelles sur un réceptacle hémisphérique à conique,
-
-libres mais densément insérés ; périanthe tubulaire, 3–4-lobé ; ovaire à 1 ovule ; style 1,
-
-longuement exsert. Fruits : akènes groupés dans une structure hémisphérique.
-
-Genre monospécifique d’Afrique occidentale et centrale.
-
-Bi : Hansen (1986, 1993), Staner (1948), Stannard (2006).
-
-B liographie
-
----
-
----
+Bibliography
 
 ## Species in region
 

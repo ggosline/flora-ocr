@@ -17,15 +17,13 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Trees dioecious; branchlets rounded, striated, glabrous. Buds gummy, resinous. Leaves 4-6-jugate, glabrous; leaflets ovate, acute at both ends, shiny, with mucilaginous upper epidermis.
 
-Arbres dioïques; rameaux arrondis, striés, glabres. Bourgeons gommeux, résineux. Feuilles 4-6-juguées, glabres; folioles ovales, aiguës aux 2 extrémités, brillantes, à épiderme supérieur mucigère.
+Inflorescences terminal and axillary, the male ones grouped at the apex of the branchlets and appearing before complete leaf development; peduncle ca. 5 cm, bearing in racemes 6-10 multiparous cymes branched in planes perpendicular to each other, forming a compact inflorescence of 3-4 cm; female inflorescences less branched, based on examination of the infructescences: ca. 5 triflorous branchlets, in raceme on a peduncle of ca. 5 cm; male flowers: calyx with 4-5 lobes connate to the middle; flat annular disk, glabrous; 4-5 stamens with glabrous filaments, folded twice in the bud. In the female flowers, judging from the fruit with accrescent calyx: 4-5 sepals glabrous on the inside, tomentellous on the outside; 4-5 staminodes without anthers; filiform style.
 
-Inflorescences terminales et axillaires, les mâles groupées au sommet des rameaux et paraissant avant le développement complet des feuilles; pédoncule d'env. 5 cm, portant en grappes 6-10 cymes multipares ramifiées dans des plans perpendiculaires les uns aux autres, formant une inflorescence compacte de 3-4 cm; inflorescences femelles moins ramifiées, d'après l'examen des infrutescences : env. 5 rameaux triflores, en grappe sur un pédoncule d'env. 5 cm; fleurs mâles : calice à 4-5 lobes soudés jusqu'au milieu; disque annulaire aplat, glabre; 4-5 étamines à filets glabres, repliés 2 fois dans le bouton. Dans les fleurs femelles, à en juger sur le fruit à calice accrescent : 4-5 sépales glabres à l'intérieur, tomentelleux à l'extérieur; 4-5 staminodes sans anthères; style filiforme.
+Fruit olive-shaped, apiculate by the remains of the style; epidermis black shiny, glabrous; 1 locule and 1 seed by abortion.
 
-Fruit en forme d'olive, apiculé par le reste du style; épiderme noir brillant, glabre; 1 loge et 1 graine par avortement.
-
-Une espèce d'Afrique tropicale.
+One species from tropical Africa.
 
 ## Species in region
 

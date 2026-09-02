@@ -17,35 +17,13 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Annual or perennial herbs, rarely exceeding 50 cm in height. Leaves clustered at the base of the stems; blades flat and often rolled. Inflorescence in a compact head formed of one-flowered spikelets, arranged on a flattened or elongated receptacle, and surrounded by an involucre of greenish foliaceous bracts. Spikelets: each comprises a small bract, a hypogynous scale (called here squamelle), a rachis (only in a few species) and a flower; squamelle often well-marked and resembling a petal, sometimes surrounding the achene and falling with it or separate. Flowers bisexual, with 1–3(–5) stamens; ovary topped by a style with 2–3 branches. Achene finely papillose.
 
-Herbes annuelles ou vivaces, dépassant rarement 50 cm de hauteur. Feuilles groupées à la
+Small genus of approximately 20 species, almost entirely confined from South Africa to the Sahara, but with one species in Madagascar and South America, and two occurring as far as Indochina; one alone in Gabon.
 
-base des tiges ; limbes plans et souvent enroulés. Inflorescence en tête compacte formée
+Bibliography
 
-d’épillets à une fleur, placés sur un réceptacle aplati ou allongé, et entourée par un
-
-involucre de bractées foliacées verdâtres. Épillets : chacun comporte une petite brac-
-
-tée, une écaille hypogyne (appelée ici squamelle ), un rachis (seulement pour quelques
-
-espèces) et une fleur ; squamelle souvent bien distincte et ressemblant à un pétale,
-
-entourant parfois l’akène et tombant avec lui ou séparée. Fleurs bisexuées, à 1‒3(‒5)
-
-étamines ; ovaire surmonté d’un style à 2‒3 branches. Akène finement papilleux.
-
-Petit genre d’environ 20 espèces, presque entièrement confiné de l’Afrique du Sud au
-
-Sahara, mais avec une espèce à Madagascar et en Amérique du Sud, et deux poussant
-
-jusqu’en Indochine ; une seule au Gabon.
-
-B : Goetghebeur (1980), Haines & Lye (1983), Hooper & Napper (1972),
-
-ibliographie
-
-Raynal (1973).
+B: Goetghebeur (1980), Haines & Lye (1983), Hooper & Napper (1972), Raynal (1973).
 
 ## Species in region
 

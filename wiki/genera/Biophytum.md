@@ -17,69 +17,19 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Herbs or suffrutex erect, annual or perennial; stems simple or branched, pubescent, presence or absence of leaf scars below the apex. Leaves grouped in rosette at the apex of stems or branches, petiolate or subsessile, paripinnate, sensitive or not; rachis pubescent, terminated by a bristle; leaflets opposite to subopposite, rectangular-oblong or rounded, the upper ones larger, generally glabrous. Inflorescence axillary, terminal or cauline, with 2–15 flowers in pseudo-umbels or in cymes, or solitary flowers; bracts forming an involucre. Flower often heterotristylous, with pedicel articulated above the base; sepals erect; petals white, pink or yellow to orange; stamens 10, 5 long and 5 short; ovary 5-lobed; stigmas terminal, dilated. Fruit capsular, obovate, with valves spreading at maturity. Seeds small, light brown, furnished with transverse tubercles; outer testa fleshy.
 
-Herbes ou suffrutex dressés, annuels ou pérennes ; tiges simples ou ramifiées, pubes-
+Pantropical genus comprising ± 50 species, of which 3 in Gabon.
 
-centes , présence ou non de cicatrices foliaires sous le sommet. Feuilles groupées en ro-
+BIBLIOGRAPHY: Cocucci (2004), Knuth (1930), Mathews & Endress (2002), Wilczek (1958).
 
-sette au sommet des tiges ou des rameaux , pétiolées ou subsessiles, paripennées, sen-
+1. - Perennial plant, woody; stem pubescent, furnished with leaf scars towards the apex; leaflets with lateral veins finely or slightly prominent on the dry state, forming an acute or subacute angle with the midvein (rocky zones bordering watercourses) ...................................................................................................... 2
 
-sitives ou non ; rachis pubescent, terminé par une soie ; folioles opposées à subopposées,
+- Annual plant; stem densely pubescent at the apex, without leaf scars; leaflets with lateral veins prominent on the dry state, forming a right angle with the midvein (savanna) ............................................................................... B. umbraculum
 
-rectangulaires-oblongues ou arrondies , les supérieures plus grandes, généralement
+2. - Stem unbranched; leaves with 14–18(–20) pairs of leaflets; lateral veins finely prominent, forming an acute angle with the midvein; peduncles 0.5–1 cm in length; petals pink to white ........................................... B. talbotii
 
-glabres. Inflorescence axillaire, terminale ou caulinaire, avec 2–15 fleurs en pseudo-om-
-
-belles ou en cymes, ou fleurs solitaires ; bractées formant un involucre . Fleur souvent
-
-hétérotristylée , à pédicelle articulé au dessus de la base ; sépales dressés ; pétales blancs,
-
-roses ou jaunes à orangés ; étamines 10 , 5 longues et 5 courtes ; ovaire 5-lobé ; stigmates
-
-∗ Le genre Averrhoa est représenté au Gabon par une seule espèce, Averrhoa carambola L. Elle est
-
-toujours trouvée dans les jardins et plantations des zones semi-arides et humides.
-
----
-
-terminaux, dilatés. Fruit capsulaire, obovale, à valves étalées à maturité. Graines petites,
-
-marron clair, munies de tubercules transversaux ; tégument externe charnu.
-
-Genre pantropical comprenant ± 50 espèces, dont 3 au Gabon.
-
-B : Cocucci (2004), Knuth (1930), Mathews & Endress (2002), Wilczek
-
-IBLIOGRAPHIE
-
-(1958).
-
-1. - Plante pérenne, ligneuse ; tige pubescente, munie de cicatrices foliaires vers le
-
-sommet ; folioles à nervures latérales finement ou peu proéminentes sur le sec,
-
-formant un angle aigu ou subaigu avec la médiane (zones rocheuses en bordure
-
-des cours d’eau) ...................................................................................................... 2
-
-- Plante annuelle ; tige densément pubescente au sommet, sans cicatrices foliaires ;
-
-folioles à nervures latérales proéminentes sur le sec, formant un angle droit avec la
-
-médiane (savane) ............................................................................... B . umbraculum
-
-2. - Tige non ramifiée ; feuilles avec 14–18(–20) paires de folioles ; nervures latérales
-
-finement proéminentes, formant un angle aigu avec la médiane ; pédoncules
-
-0,5–1 cm de longueur ; pétales roses à blancs ........................................... B . talbotii
-
-- Tige généralement ramifiée ; feuilles avec 7–10(–12) paires de folioles ; nervures
-
-latérales peu proéminentes, formant un angle subaigu avec la médiane ;
-
-pédoncules (1–)4–6(–9) cm de longueur ; pétales jaune-orangés ............. B . zenkeri
+- Stem generally branched; leaves with 7–10(–12) pairs of leaflets; lateral veins slightly prominent, forming a subacute angle with the midvein; peduncles (1–)4–6(–9) cm in length; petals yellow-orange ............. B. zenkeri
 
 ## Species in region
 

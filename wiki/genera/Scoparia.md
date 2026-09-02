@@ -17,27 +17,13 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Annual or perennial herbs or suffrutex; stems erect, with numerous ramifications (paraclades), quadrangular. Leaves opposite or whorled, sessile; lamina with pinnate venation. Inflorescences axillary, in the form of a loose raceme. Flowers distinctly pedicellate, without bracteoles; calyx with 4 or 5 equal lobes; corolla subrotate, with 4 lobes, throat furnished with dense hairs; stamens 4, anthers with 2 equal thecae; ovary ovoid; stigma bilobed. Fruits capsular, loculicidal. Seeds with non-alveolate albumen.
 
-Herbes annuelles, vivaces ou suffrutex ; tiges dressées, à ramifications nombreuses (para -
+Genus comprising 20 species, of which 19 distributed in tropical America and one pantropical, introduced to Gabon.
 
-clades), quadrangulaires. Feuilles opposées ou verticillées , sessiles ; limbe à nervation
+Bibliography
 
-pennée. Inflorescences axillaires, en forme de racème lâche. Fleurs distinctement pédicel-
-
-lées, sans bractéoles ; calice à 4 ou 5 lobes égaux ; corolle subrotacée, à 4 lobes, gorge
-
-munie de poils denses ; étamines 4, anthères à 2 thèques égales ; ovaire ovoïde ; stigmate
-
-bilobé. Fruits capsulaires, loculicides. Graines à albumen non alvéolé.
-
-Genre comprenant 20 espèces, dont 19 réparties en Amérique tropicale et une pantropi-
-
-cale, introduite au Gabon.
-
-B : Fischer (2004), Ghazanfar et al. (2008).
-
-ibliographie
+Fischer (2004), Ghazanfar et al. (2008).
 
 ## Species in region
 

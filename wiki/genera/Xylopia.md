@@ -17,21 +17,19 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Trees with generally narrow and relatively tall trunk, crowned with a canopy of horizontally spreading branches, or shrubs, glabrous or with a covering of simple hairs.
 
-Arbres，á fut généralement étroit et relativement élevé, coiffé d'une cime ä rameaux étalés horizontalement,ou arbustes, glabres ou â indument de poils simples.
+Floral buds ovoid or most often lanceolate. Flowers axillary, solitary, in cymes or fasciculate. Sepals 3, valvate, ± connate at the base, much shorter than the petals. Petals 6, free, in two valvate cycles, thick, erect or spreading, ovate or most often linear, enlarged and concave at the base; the inner ones somewhat shorter than the outer ones (exceptionally much shorter: X. rubescens), often clawed at the base, sometimes auriculate, furnished with lateral glands or membranes on the inner face. Stamens numerous, linear, with short filaments, articulate, thecae linear, appearing transversely septate, connectives capitate. One or two rows of external and internal staminodes. Carpels 3–34, free, ovaries ovoid to ovoid-oblong, styles short topped with a ± long and tapering stigmatiferous part, glabrous or terminated by a few hairs. Receptacle most often depressed at the centre where the ovaries are inserted, raised at the margins to form an urceolate shape where the innermost stamens are attached, partially concealing the ovaries; in some species, the receptacle is convex, of the common type in the family, or even absolutely plane. Ovules ± numerous, uniseriate or biseriate.
 
-Boutons floraux ovoides ou le plus souvent lancéolés. Fleurs , axillaires, solitaires,en cymes ou fasciculées. Sépales 3,valvaires, ± soudés a la base,beaucoup plus courts que les pétales.Pétales 6, libres,en deux cycles valvaires,épais, dressés ou étalés,oves ou le plus souvent linéaires,élargis et concaves ä la base; les internes un peu plus courts que les externes (exceptionnellement beaucoup plus courts :X. rubescens),souvent onguiculés ä la base,parfois auriculés,munis de glandes latérales ou de membranes ä la face interne.Etamines nombreuses, linéaires,ä filets courts,articulés, theques linéaires, semblant cloisonnées transversalement, connectifs capités. Un ou deux rangs de staminodes externes et internes. Carpelles 3-34， libres,ovaires ovoides á ovoides-oblongs,styles courts surmontés d'une partie stigmatifére ± longue et efilée, glabre ou terminée par quelques poils.Réceptacle le plus souvent déprimé au centre ou sont insérés les ovaires,relevé sur les bords jusqu'a former une urcéole ou sont attachées les étamines les plus internes, cachant partiellement les ovaires; chez quelques espéces, le réceptacle est convexe,de type commun dans la famille,ou méme absolument plan. Ovules ± nombreux,uni ou bisériés.
+Fruits with ± numerous mericarps, cylindric or obovoid, stipitate or sessile. Seeds 1–8, uniseriate, vertical or oblique, biseriate and horizontal. Aril completely surrounding the seed, laciniate or cupuliform, sometimes inconspicuous.
 
-Fruits a méricarpes ± nombreux,cylindriques ou obovoides, stipités ou sessiles. Graines I-8, unisériees, verticales ou obliques, bisériees et horizontales. Arille entourant totalement la graine, lacinié ou cupuliforme,parfois invisible.
+Type species: Xylopia muricata L.
 
-Espece type :Xylopia muricata L.
+Pantropical genus comprising approximately 150 species; in Africa it is represented by about thirty species mostly in forest zones.
 
-Genre pantropical comprenant I5o especes environ；en Afrique il est représenté par une trentaine d'especes pour la plupart en zone forestiere.
+It seems to us difficult to currently take account of the sections established by Engler and Diels for African species and taken up again by Fries in 1959. Indeed, if the sections Neoxylopia and Habzelia are well characterized, the section Xylopia, on the other hand, contains certain groups of species whose morphological characters are so different that they would justify the creation of new sections.
 
-Il nous parait dificile de tenir compte actuellement des sections établies par Engler et Diels pour les especes africaines et reprises par Fries en 1959.En effet, si les sections Neoxylopia et Habzelia sont bien caractérisées,la section Xylopia,par contre, renferme certains groupes d'espéces dont les caracteres morphologiques sont si différents qu'ils justifieraient la création de nouvelles sections.
-
-Bien que leur position dans le genre ait été tres discutée, X.Quintasii et X.aurantiiodora,par exemple,nous semblent devoir y conserver leur place mais pourraient parfaitement entrer dans une section a part.Les Xylopia a gros méricarpes sessiles，renfermant desgraines bisériees horizontales, pourraient également constituer une section différente de la sect. Xylopia.
+Although their position in the genus has been much discussed, X. Quintasii and X. aurantiiodora, for example, seem to us should retain their place there but could perfectly well enter into a separate section. The Xylopia with large sessile mericarps, containing biseriate horizontal seeds, could equally constitute a section different from sect. Xylopia.
 
 ## Species in region
 

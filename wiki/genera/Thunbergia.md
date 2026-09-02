@@ -16,25 +16,23 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 Retzius, Phys. Saelsk. Handling. 1,3 : 163 (1780 « 1776 »), nom. cons.
 
-Plantes grimpantes herbacées ou ligneuses ou arbrisseaux dressées; feuilles opposées, en général anguleuses ou hastées.
+Climbing plants herbaceous or woody or erect shrubs; leaves opposite, generally angulate or hastate.
 
-Fleurs violettes ou pourpres ou bleues ou jaunes ou blanches, soit axillaires par 1-2, soit en grappes terminales, accompagnées à la base du pédicelle, de bractées foliacées, et pourvues sous le calice de 2 grandes bractéoles cohérentes, (au moins au début), qui enveloppent le calice et souvent aussi la corolle. Calice petit, annulaire, tronqué au bord ou 10-15 denté (souvent obscurément). Corolle à tube courbé ou oblique et ventru, souvent comprimé élargi vers le haut, à limbe peu irrégulier, étalé, à 5 loges arrondis, tordus dans le bouton. 4 étamines didnames insérées vers la base du tube de la corolle. Filets libres épaissis à la base; anthères glabres ou poilues, à 2 loges parallèles égales ou un peu inégales, aciculaires ou éperonées à la base, rarement obtuses, déhiscentes en long par des fentes. Disque annulaire ou en coussin; ovaire charnu, à 2 ovules collatéraux par loge; style courbé au sommet et élargicynéiforme, en entonnoir ou plus ou moins bilobé.
+Flowers violet or purple or blue or yellow or white, either axillary in 1-2 or in terminal racemes, accompanied at the base of the pedicel by foliaceous bracts, and furnished below the calyx with 2 large cohesive bracteoles (at least initially), which envelop the calyx and often also the corolla. Calyx small, annular, truncate at the margin or 10-15 dentate (often obscurely). Corolla with tube curved or oblique and ventricose, often compressed enlarged toward the apex, with limb slightly irregular, spreading, with 5 rounded lobes, twisted in the bud. 4 didynamous stamens inserted toward the base of the corolla tube. Filaments free thickened at the base; anthers glabrous or pilose, with 2 parallel lobes equal or somewhat unequal, acicular or spurred at the base, rarely obtuse, dehiscing longitudinally by slits. Annular or cushion-like disc; ovary fleshy, with 2 collateral ovules per locule; style curved at the apex and enlarged claviform, funnel-shaped or more or less bilobed.
 
-Capsule épaisse coriace atténuée brusquement en bec, loculicide, à 1-2 graines par loge. Graines globuleuses, ovales ou comprimées, à funicule court et épais mais sans excroissance distincte; hile latéral; albumen nul; cotylédons larges; radicule courte et arquée.
+Capsule thick coriaceous abruptly attenuated into a beak, loculicidal, with 1-2 seeds per locule. Seeds globulose, oval or compressed, with short and thick funicle but without distinct appendage; lateral hilum; albumen absent; cotyledons broad; radicle short and curved.
 
-Espèce type : Thunbergia capensis Retz., de l'Afrique du Sud.
+Type species: Thunbergia capensis Retz., from South Africa.
 
-Tropiques et régions chaudes de l'Ancien Monde, surtout de l'Afrique. Quelques espèces ornamentales ont été introduites et naturalisées en Amérique. Lindau (Bot. Jahrb. 17, Beibl. 41 : 31-43, 1893) indique 66 espèces; un grand nombre fut décrit
+Tropics and warm regions of the Old World, especially Africa. A few ornamental species have been introduced and naturalized in America. Lindau (Bot. Jahrb. 17, Beibl. 41 : 31-43, 1893) indicates 66 species; a large number was recently described
 
 ---
 
-récemment par C. E. B. Bremekamp (1955) de l'Indonésie. Le nombre exact d'espèces est impossible à préciser ici, faute d'une révision monographique du genre. Le nombre de 150 indiqué par Melchior (in Engl. Syllab., ed. 12, 2 : 458, 1964) est sans doute trop élevé.
+by C. E. B. Bremekamp (1955) from Indonesia. The exact number of species is impossible to determine here, due to the lack of a monographic revision of the genus. The number of 150 indicated by Melchior (in Engl. Syllab., ed. 12, 2 : 458, 1964) is doubtless too high.
 
-1. Limbe des feuilles de 4, 3-6,5 × 2-2,5 cm, aigu à la base; acumen dépourvu de mucron; bord des grandes feuilles (chez quelques exemplaires aussi des petites feuilles) sinué-denté ou angulé, avec deux ou trois dents grandes et obtuses de chaque côté; pédicelle de la fleur en général supérieur à 2,5 cm; bractéoles plus ou moins obtuses, en général ne dépassant pas 2,5 cm de longueur; corolle bleu clair ou blanc, jaunâtre à la gorge; lobes du calice ne dépassant pas 2 mm à l'anthèse; bec du fruit conique, de 1,5 cm de long, et 6 mm de diamètre à la base.
+1. Leaf blade 4.3-6.5 × 2-2.5 cm, acute at the base; acumen lacking a mucro; margin of large leaves (in some specimens also of small leaves) sinuate-dentate or angulate, with two or three large obtuse teeth on each side; flower pedicel generally exceeding 2.5 cm; bracteoles more or less obtuse, generally not exceeding 2.5 cm in length; corolla pale blue or white, yellowish at the throat; calyx lobes not exceeding 2 mm at anthesis; fruit beak conical, 1.5 cm long, and 6 mm in diameter at the base.
 
 ## Species in region
 

@@ -17,77 +17,27 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Arbres, arbustes ou suffrutex ; tiges à écailles gemmaires nombreuses, distiques,
-
-caduques . Stipules caduques ou parfois persistantes, entières ou fimbriées à profon -
-
-dément divisées, libres. Feuilles : limbe à marge serrée ou ciliée ou parfois entière ;
+Trees, shrubs or suffrutex; stems with numerous, distichous, caducous gemmate scales. Stipules caducous or sometimes persistent, entire or fimbriate to deeply divided, free. Leaves: blade with margin serrate or ciliate or sometimes entire;
 
 ---
 
-Étamine (× 5). – 5. Ovaire (× 3). – 6. Fruit (× ½). (1, 3–5 : Voorhoeve 1301 ; 6 : Voorhoeve s.n. ; 2 : de
-
-Wilde 3668). Dessin par L. van der Riet, Naturalis Biodiversity Center (©).
+Stamen (× 5). – 5. Ovary (× 3). – 6. Fruit (× ½). (1, 3–5: Voorhoeve 1301; 6: Voorhoeve s.n.; 2: de Wilde 3668). Drawing by L. van der Riet, Naturalis Biodiversity Center (©).
 
 ---
 
-nervures secondaires peu nombreuses et espacées, arquées et subtangentes au bord. In-
+secondary nerves few and spaced, arched and subtangent to the margin. Inflorescences terminal or on short axillary branchlets, paniculate, racemiform, fasciculate or reduced to a single flower. Flowers actinomorphic; sepals (3–)5, imbricate in prefloration, persistent and accrescent in fruit; petals 5(–12), imbricate in prefloration, pale yellow to orange, often unguiculate; stamens (9–)12 or more, filaments reaching at least one-third the length of the anther, thecae smooth, dehiscent by longitudinal slits or apical pores; carpels (3–)5 to 15, almost free in fruit, uniovulate; style gynobasic, lobulate or shortly divided at the apex. Fruits apocarpous, with accrescent receptacle; druplets ovoid-erect or reniform-flattened, black. Seeds straight to curved, exalbuminous; cotyledons accumbent or incumbent, equal or unequal.
 
-florescences terminales ou sur des rameaux courts axillaires, paniculées, racémiformes,
+Paleotropical genus comprising approximately 80 species, the majority in Africa and Madagascar, one in Mauritius and 4 in Asia (from India to the Malay Peninsula); in Gabon, 4 species.
 
-fasciculées ou réduites à une fleur. Fleurs actinomorphes ; sépales (3–)5, à préfloraison
+Taxonomic note: The species O. pulchra Hook.f. was mentioned in the Checklist of Vascular Plants of Gabon (Sosef et al., 2006), but this occurrence was based on an incorrect identification of a sterile specimen of O. multiflora; likewise for O. staudtii Engl. & Gilg whose occurrence was based on a few specimens of O. latisepala with reduced inflorescences.
 
-imbriquée, persistants et accrescents en fruit ; pétales 5(–12), à préfloraison imbriquée,
+Bibliography: Amaral & Bittrich (2014), Bamps & Farron (1967), Robson (1963), Verdcourt (2005).
 
-jaune pâle à orange , souvent onguiculés ; étamines (9–)12 ou plus , filets atteignant au
+### Key to the species
 
-moins un tiers de la longueur de l’anthère, thèques lisses, déhiscentes par fentes longitu-
+1. - Flowers in fascicle or short raceme with rachis 1–4 mm; petals white or pale yellow; branchlets densely provided with small round and white lenticels; blade coriaceous, with margin serrate to crenate .................................................. O. afzelii
 
-dinales ou pores apicaux ; carpelles (3–)5 à 15, presque libres en fruit, uniovulés ; style
-
-gynobasique, lobulé ou courtement divisé au sommet. Fruits apocarpes, à réceptacle
-
-accrescent ; drupéoles ovoïdes-dressées ou réniformes-aplaties, noires. Graines droites
-
-à recourbées, exalbuminées ; cotylédons accombants ou incombants, égaux ou inégaux.
-
-Genre paléotropical comprenant environ 80 espèces dont la plupart en Afrique et Mada-
-
-gascar, une à Maurice et 4 en Asie (de l’Inde jusqu’à la Péninsule Malaise) ; au Gabon,
-
-4 espèces.
-
-Note taxonomique : L’espèce O. pulchra Hook.f. a été mentionnée dans Checklist des
-
-Plantes Vasculaires du Gabon (Sosef et al. , 2006), mais cette présence était fondée sur
-
-une identification incorrecte d’un échantillon stérile d’ O. multiflora ; idem pour O. staud -
-
-tii Engl. & Gilg dont la présence se fondait sur quelques échantillons d’ O. latisepala avec
-
-des inflorescences réduites.
-
-b : Amaral & Bittrich (2014), Bamps & Farron (1967), Robson (1963),
-
-ibliographie
-
-Verdcourt (2005).
-
-### Clé des espèces
-
-1. - Fleurs en fascicule ou en court racème à rachis de 1–4 mm ; pétales blancs ou
-
-jaune pâle ; ramilles densément munies des petites lenticelles rondes et blanches ;
-
-limbe coriace, à marge serretée à crénelée .................................................. O. afzelii
-
-- Fleurs en racème ou panicule à rachis de plus de 2 cm ; pétales jaune pâle à
-
-jaunes ; ramilles sans ou avec lenticelles rondes et blanches ; limbe à marge entière
-
-ou à petits dents espacées ou, si serreté, alors limbe membraneux ......................... 2
+- Flowers in raceme or panicle with rachis more than 2 cm; petals pale yellow to yellow; branchlets without or with round and white lenticels; blade with margin entire or with small spaced teeth or, if serrate, then blade membranous ......................... 2
 
 ## Species in region
 

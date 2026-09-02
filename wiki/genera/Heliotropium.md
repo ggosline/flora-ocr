@@ -17,17 +17,13 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Herbs annual or perennial, sometimes woody at the base, hairy. Leaves alternate or subopposite, sessile or petiolate; blade with entire or denticulate margin. Inflorescences terminal, in unilateral cymes, spiciform, scorpioid, simple or forked, without bracts, coiled at the apex. Flowers: calyx with 5 segments narrowly ovate-elliptic to linear; corolla funnelform, white or blue, glabrous or pubescent externally, frequently pubescent on the inner face of the throat, with 5 spreading lobes, imbricate in bud, folded and induplicate; stamens 5, included, glabrous, with obsolete filament, anthers free, ovoid-oblong to narrowly ovoid-ellipsoidal; disc sometimes present; ovary completely or incompletely 4-locular, with 1 ovule per locule; style terminal, simple, sometimes absent, stigma depressed-conic or discoid, usually surmounted by a sterile cylindric or conic appendage. Fruits dry, a schizocarp or rarely slightly drupaceous, breaking at maturity into 4 distinct mericarps or coherent in pairs. Seeds straight or curved; albumen generally present.
 
-Herbes annuelles ou vivaces, parfois ligneuses à la base, poilues. Feuilles alternes ou subopposées, sessiles ou pétiolées; limbe à marge entière ou denticulée. Inflorescences terminales, en cymes unilatérales, spiciformes, scorpioïdes, simples ou fouchues, sans bractées, en roulées au sommet. Fleurs: calice à 5 segments étroitement ovales-elliptiques à linéaires; corolle infundibuliforme, blanche ou bleue, glabre ou pubescente extérieurement, fréquemment pubescente sur la face interne de la gorge, à 5 lobes étalés, imbriqués en bouton, pliés et indupliqués; étamines 5, incluses, glabres, à filet obsolète, anthères libres, ovoïdes-obloïdes à étroitement ovoïdes-ellipsoïdales; disque parfois présent; ovaire complètement ou incomplètement 4-loculaire, à 1 ovule par loge; style terminal, simple, parfois absent, stigmate déprimé-conique ou discoïde, généralement surmonté d'un appendice stérile cylindrique ou conique. Fruits secs, un schizocarpe ou rarement légèrement drupacés, se brisant à maturité en 4 méricarpes distincts ou cohérents par paires. Graines droites ou courbes; albumen généralement présent.
+Genus comprising approximately 325 species (probably fewer due to numerous transfers to Euploca (see Frohlich et al. 2020), widespread in (sub)tropical and warm temperate climate zones, with approximately 65 taxa in Africa; in Gabon: one species.
 
-Genre comprenant environ 325 espèces (probablement moins à cause de nombreux transferts vers Euploca (voir Frohlich et al. 2020), répandu dans les zones de climat (sub)tropical et tempéré chaud, avec environ 65 taxons en Afrique; au Gabon : une espèce.
+Notes: We follow here the division of Heliotropium into (among others) Heliotropium sensu stricto and Euploca Nutt., as proposed by Hilger & Diane (2003).
 
-Notes : Nous suivons ici la division de Heliotropium en (entre autres) Heliotropium sensu stricto et Euploca Nutt., telle que proposée par Hilger & Diane (2003).
-
-BIBLIOGRAPHIE : Diane et al (2016), Förther (1998), Heine (1963), Hilger & Diane (2003), Taton (1971), Verdcourt (1991)
-
----
+BIBLIOGRAPHY: Diane et al (2016), Förther (1998), Heine (1963), Hilger & Diane (2003), Taton (1971), Verdcourt (1991)
 
 ## Species in region
 

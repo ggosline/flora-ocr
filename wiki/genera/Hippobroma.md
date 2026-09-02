@@ -17,31 +17,17 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Annual or perennial herb. Leaves alternate, coarsely toothed to pennatilobed.
 
-Herbe annuelle ou pérenne. Feuilles alternes, grossièrement dentées à pennatilobées .
-
-Fleurs solitaires, aux aisselles supérieures des feuilles ; calice 5-lobé ; corolle hypocra-
-
-tériforme, 5-lobé, légèrement zygomorphe ; étamines 5, filets soudés à la corolle sur
-
-presque toute leur longueur, anthères soudées en un tube oblique, chacune avec une
-
-touffe de poils au sommet ; ovaire 2-loculaire, subinfère ; stigmate à 2 lobes courts et
-
-arrondis, entouré d’un anneau de poils. Fruit à déhiscence par 2 courtes valves apicales .
-
-Graines nombreuses.
+Flowers solitary, at the upper leaf axils; calyx 5-lobed; corolla hypocrateriform, 5-lobed, slightly zygomorphic; stamens 5, filaments adnate to the corolla for nearly their entire length, anthers connate into an oblique tube, each with a tuft of hairs at the apex; ovary 2-locular, subinferior; stigma with 2 short and rounded lobes, surrounded by a ring of hairs. Fruit dehiscing by 2 short apical valves. Seeds numerous.
 
 ---
 
-Genre monospécifique, indigène aux Antilles, mais introduit et naturalisé dans les régions
+Monotypic genus, indigenous to the Antilles, but introduced and naturalized in tropical regions.
 
-tropicales.
+B: Lammers (2007), McVaugh (1940).
 
-B : Lammers (2007), Mcvaugh (1940).
-
-i B liographie
+Bibliography
 
 ## Species in region
 

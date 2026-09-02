@@ -17,29 +17,27 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Dioecious trees or rarely monoecious, sometimes with bisexual flowers, generally
 
-Arbres dioïques ou rarement monoïques, parfois avec fleurs bisexuées, généralement
+monocaulous, reaching 25(–35) m in height; trunk ± fleshy or with soft wood. Leaves long-
 
-monocaule , atteignant 25(–35) m de hauteur ; tronc ± charnu ou à bois mou. Feuilles lon-
+petiolate; laminae palmatifid; stipules absent. Inflorescences in the axil of the upper
 
-guement pétiolées ; limbes palmatilobés ; stipules absentes. Inflorescences à l’aisselle des
+leaves, the male ones longer and more branched than the female ones, pendulous,
 
-feuilles supérieures, les mâles plus longues et plus ramifiées que les femelles, pendantes,
+the female ones with fewer flowers, but larger ones. Flowers slightly fragrant,
 
-les femelles à fleurs moins nombreuses, mais plus grandes. Fleurs légèrement odorantes,
+with white corolla, with twisted prefloration. Male flowers with small calyx; stamens 10, in
 
-à corolle blanche, à préfloraison tordue . Fleurs mâles à petit calice ; étamines 10, en
+2 whorls, those of the outer whorl, alternate-petalous, those of the inner whorl, opposite-
 
-2 verticilles , celles du verticille extérieur, alternipétales, celles de l’intérieur, oppositipé-
+petalous. Female flowers larger; ovary unilocular, with numerous ovules; stigmas
 
-tales. Fleurs femelles plus grandes ; ovaire uniloculaire , à ovules nombreux ; stigmates
+5. Berry of variable shape, elongate or rounded, with smooth surface, presenting ribs more
 
-5. Baie de forme variable, allongée ou arrondie, à surface lisse, présentant des côtes plus
+or less prominent; flesh with whitish sap. Seeds numerous, small, black or
 
-ou moins saillantes ; chair à suc blanchâtre. Graines nombreuses, petites, noires ou gri-
-
-sâtres .
+greyish.
 
 ---
 
@@ -49,31 +47,29 @@ sâtres .
 
 6 4 1 3
 
-Fleur bisexuée. – 6. Fruit, un quart enlevé. Planche avec éléments pris de Miller (1998 ; abre), Ba-
+Bisexual flower. – 6. Fruit, one quarter removed. Plate with elements taken from Miller (1998; tree), Ba-
 
-dillo (1971 ; inflorescence), Fisher (1980 ; fleurs) et Nakasone & Paull (1998 ; fruit), et reproduite
+dillo (1971; inflorescence), Fisher (1980; flowers) and Nakasone & Paull (1998; fruit), and reproduced
 
-avec permission.
+with permission.
 
 ---
 
-Le genre Carica englobe 20–25 espèces (mais voir Note taxonomique ci-dessous) distri-
+The genus Carica encompasses 20–25 species (but see Taxonomic Note below) distri-
 
-buées en Amérique Centrale et en Amérique du Sud. Le genre est surtout connu à travers
+buted in Central America and South America. The genus is mainly known through
 
-Carica papaya ou papayer qui est cultivé dans toutes les régions tropicales pour ses fruits
+Carica papaya or papaya which is cultivated in all tropical regions for its edible fruits at maturity.
 
-comestibles à maturité.
+Taxonomic Note: Recently, Van Droogenbroeck et al. (2002) transferred most
 
-Note taxonomique : Récemment, Van Droogenbroeck et al. (2002) ont transféré la plupart
+of the species to the genera Vasconcellea, Jacaratia and Jarilla. The genus Carica then
 
-des espèces vers les genres Vasconcellea, Jacaratia et Jarilla . Le genre Carica est alors
+became monospecific.
 
-devenu monospécifique.
+Bibliography
 
-B : Heilborn (1936), Kubitzki (2003), Van Droogenbroeck et al. (2002), Van
-
-i B liographie
+B: Heilborn (1936), Kubitzki (2003), Van Droogenbroeck et al. (2002), Van
 
 Tieghem (1884).
 

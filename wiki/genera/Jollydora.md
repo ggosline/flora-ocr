@@ -17,51 +17,43 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+TYPE SPECIES: Jollydora duparquetiana (BAILLON) PIERRE.
 
-ESPÈCE-TYPE : Jollydora duparquetiana (BAILLON) PIERRE.
-
-(Basion. : Connarus duparquetianus Baillon).
+(Basionym: Connarus duparquetianus Baillon).
 
 – Anthagathis HARMS, NPF 3 (3), Nachtr. 1 : 195 (1897).
 
-ESPÈCE-TYPE : Anthagathis monadelphia HARMS
+TYPE SPECIES: Anthagathis monadelphia HARMS
 
 = J. duparquetiana (BAILLON) PIERRE.
 
 – Ebandoua PELLEGRIN, Bull. Soc. Bot. Fr. 102 : 331 (1955).
 
-ESPÈCE-TYPE : Ebandoua cauliflora PELLEGRIN
+TYPE SPECIES: Ebandoua cauliflora PELLEGRIN
 
 = J. duparquetiana (BAILLON) PIERRE.
 
-Petits arbustes sempervirens, en général non ramifiés, hauts de $\leq\approx8\ m$ (modèle architectural de CORNER). Parties jeunes couvertes d'un indumentum rougeâtre à brun luisant, laineux, soyeux ou tomenteux.
+Small evergreen shrubs, generally unbranched, up to ≤≈8 m tall (CORNER's architectural model). Young parts covered with a reddish to glossy brown indumentum, woolly, silky or tomentose.
 
-Feuilles pennées en général rassemblées au sommet ; pétiole un peu renflé à la base, ordinairement plus court que le rachis ; folioles opposées à alternes en nombre pair ou impair, rachis en principe terminé par une foliole ; pétioule court, un peu renflé.
+Leaves pinnate, generally clustered at the apex; petiole slightly swollen at the base, ordinarily shorter than the rachis; leaflets opposite to alternate in even or odd number, rachis in principle terminated by a leaflet; petiolule short, slightly swollen.
 
-Inflorescences : racèmes groupés sur le tronc ou à l'aisselle des feuilles. Pédicelles articulés.
+Inflorescences: racemes grouped on the trunk or in the leaf axils. Pedicels articulate.
 
-Fleurs 5-mères, hétérotristylées. Sépales imbriqués, libres inégaux, les 2 plus externes plus petits. Pétales imbriqués, libres ou un peu cohérents. Étamines 10, unies à la base en une coupe ± visible, partiellement incluse dans l'ovaire. Pistil 1-carpellé ; ovaire ellipsoidal, ovules fixées en position presque basale ; stigmate simple ou un peu lobé.
+Flowers 5-merous, heterotristylous. Sepals imbricate, free unequal, the 2 outermost smaller. Petals imbricate, free or somewhat cohesive. Stamens 10, united at the base into a ± visible cup, partially enclosed in the ovary. Pistil 1-carpellate; ovary ellipsoid, ovules attached in an almost basal position; stigma simple or somewhat lobed.
 
-Fruit 1-2-sperme, indéhiscent.
+Fruit 1–2-seeded, indehiscent.
 
-Graine avec enveloppe presque entièrement charnue. Albumen absent. Cotylédons épais et subcornés, radicule en position apicale.
+Seed with an almost entirely fleshy envelope. Albumen absent. Cotyledons thick and subcorneous, radicle in apical position.
 
 ---
 
-RÉPARTITION : trois espèces en Afrique tropicale, de l'Est du Nigeria au Nord de l'Angola (Cabinda), dont deux sont présentes au Gabon.
+DISTRIBUTION: three species in tropical Africa, from eastern Nigeria to northern Angola (Cabinda), of which two are present in Gabon.
 
-ÉCOLOGIE : forêt dense ; altitude ≤ ≈ 1000 m.
+ECOLOGY: dense forest; altitude ≤ ≈ 1000 m.
 
-Parties végétatives et sépales avec des poils non glanduleux uniquement ; fruits
+Vegetative parts and sepals with non-glandular hairs only; fruits obovate-ellipsoid to subspherical ..... 1. J. duparquetiana
 
-obovo-ellipsoïdaux à subsphériques ..... 1. J. duparquetiana
-
-Feuilles munies de poils glanduleux dispersés le long de la médiane sur les 2 faces ;
-
-sépales avec poils glanduleux au moins en partie ; fruits étroitement (sub)
-
-ellipsoïdaux ..... 2. J. pierrei
+Leaves furnished with scattered glandular hairs along the midvein on both faces; sepals with glandular hairs at least in part; fruits narrowly (sub)ellipsoid ..... 2. J. pierrei
 
 ## Species in region
 

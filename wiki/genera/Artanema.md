@@ -16,37 +16,15 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+in Sweet, Brit. Fl. Gard., ser. 2, 3: tab. 234 (1834).
 
-in Sweet, Brit. Fl. Gard., sér. 2, 3 : tab. 234 (1834).
+Perennial herbs; stem erect, simple or sparsely branched, glabrous, quadrangular. Leaves opposite, petiolate; blade with pinnate venation. Inflorescences in the form of a lax raceme, each flowering node bearing 2 flowers. Flowers pedicellate; calyx actinomorphic, 5-lobed; corolla narrowly infundibuliform, upper lip bipartite, furnished on the inside with glandular hairs, lower lip tripartite; stamens 4, the anterior (abaxial) ones with geniculate, incurved or Z-shaped filaments, forming doubly geniculate appendages, covered with glandular hairs and papillae, the posterior (adaxial) ones with narrow filaments, anthers with 2 equal theca; ovary globose, glabrous; style filiform, stigma bilobed. Fruits: septicide-septifrage capsules. Seeds with alveolate albumen, with small round cavities formed by the endothelium (bothriosperm).
 
-Herbes vivaces ; tige dressée, simple ou peu ramifiée, glabre, quadrangulaire. Feuilles
+Genus comprising 4 species, distributed in tropical Africa and Asia; in Gabon, one species.
 
-opposées, pétiolées ; limbe à nervation pennée. Inflorescences en forme de racème lâche,
+B: Fischer (1999, 2004), Fischer et al. (2013), Ghazanfar et al. (2008).
 
-chaque nœud florifère portant 2 fleurs. Fleurs pédicellées ; calice actinomorphe, 5-lobé ;
-
-corolle étroitement infundibuliforme, lèvre supérieure bipartite, garnie à l’intérieur de
-
-poils glanduleux, lèvre inférieure tripartite ; étamines 4, les antérieures (abaxiales) à
-
-filets géniculés, incurvés ou en forme de Z, formant des appendices doublement gé -
-
-niculés, couverts de poils glanduleux et de papilles , les postérieures (adaxiales) à filets
-
-étroits, anthères à 2 thèques égales ; ovaire globuleux, glabre ; style filiforme, stigmate
-
-bilobé. Fruits : capsules septicides-septifrages. Graines à albumen alvéolé, avec des
-
-petites cavités rondes formées par l’endothélium (bothriosperme ).
-
-Genre comprenant 4 espèces, réparties en Afrique et en Asie tropicales ; au Gabon, une
-
-espèce.
-
-B : Fischer (1999, 2004), Fischer et al . (2013), Ghazanfar et al. (2008).
-
-ibliographie
+Bibliography
 
 ## Species in region
 

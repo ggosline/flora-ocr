@@ -17,65 +17,21 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Shrubs or small trees, rarely lianescent, with white latex in all parts. Leaves opposite or in whorls of 3 to 5, petiolate, those of a pair or whorl equal or subequal. Inflorescences sessile, mainly axillary, sometimes also terminal, sometimes ramified, generally fasciculate. Flowers actinomorphic except for the subequal calyx lobes; calyx with lobes free or connate at the extreme base, with membranous margin, completely glabrous on both faces, without colleters; corolla white to yellow, tube with a belt of internal pubescence just below the insertion of the stamens, lobes overlapping to the left in bud, always shorter than the tube, spreading and often curved back later; stamens included, free from each other, inserted at the middle or above the middle of the tube, anthers ovoid, cordate at the base, obtuse to acuminate at the apex, glabrous, with parallel locules dehiscing longitudinally; pistil glabrous, ovary with 2 to 5 distinct carpels, united at the extreme base by a disc-like thickening, with 1 to 6 ovules per carpel; pistil head included in the tube, oblong or ellipsoid. Fruits yellow to bright orange, smooth or wrinkled, composed of 2 to 5 separated mericarps, of variable shape, with rounded or uncinate apex, each with 1 to 6 seeds fleshy and sometimes slightly fibrous. Seeds of diverse forms, somewhat angular, brown; embryo straight, spatulate, surrounded by thick albumen, rather floury and hard; cotyledons thin and foliaceous.
 
-Arbustes ou petits arbres , rarement lianescents, à latex blanc dans toutes les parties. Feuilles
+Genus with seven species endemic to tropical Africa, all present in Gabon.
 
-opposées ou en verticilles de 3 à 5 , pétiolées, celles d’une paire ou d’un verticille égales ou
+BIBLIOGRAPHY: Endress et al. (2019), Jongkind & Lachenaud (2022), Omino (1996, 2002).
 
-subégales. ,QÀRUHVFHQFHV sessiles , principalement axillaires , parfois aussi terminales, parfois
+### Key to species
 
-UDPLÀRUHVJpQpUDOHPHQWIDVFLFXOpHV Fleurs actinomorphes à l’exception des lobes subégaux
+Leaves all ternate or some opposite and others ternate on the same branch, sometimes in whorls of 3 to 5; ovary bicarpellate, each biovulate................................................................................................... P. pycnantha
 
-du calice ; calice à lobes libres ou connés à l’extrême base, à bord membraneux, complètement
+- Leaves all opposite; ovary with 2 to 5 carpels, each with 1 or more ovules .............................................................................................. 2
 
-glabres sur les deux faces, sans collétères ; corolle blanche à jaune, à tube avec une ceinture
+2. - Stamens inserted ± at the middle of the tube; style 1.2–1.5 mm long; mericarps with 1 or 2 seeds .................................................................................... P. brevistyla
 
-de pubescence interne juste sous l’insertion des étamines, à lobes recouvrant vers la gauche
-
-dans le bouton, toujours plus courts que le tube , étalés et souvent recourbés par la suite ;
-
-étamines incluses, libres entre elles , insérées au milieu ou au-dessus du milieu du tube, an-
-
-WKqUHVRYRwGHVFRUGpHVjODEDVHREWXVHVjDFXPLQpHVDXVRPPHWJODEUHVjORJHVSDUDOOqOHV
-
-déhiscentes longitudinalement ; pistil glabre, ovaire avec 2 à 5 carpelles distincts , unis à
-
-l’extrême base par un épaississement disciforme, avec 1 à 6 ovules par carpelle ; tête du pis-
-
-WLOLQFOXVHGDQVOHWXEHREORwGHRXHOOLSVRwGDOH Fruits jaunes à orange vif, lisses ou rugueux,
-
-composés de 2 à 5 méricarpes séparés, de forme variable, à apex arrondi ou unciné, chacun
-
-avec 1 à 6 graines FKDUQXHWSDUIRLVOpJqUHPHQW¿EUHX[ Graines de formes diverses, un peu
-
-anguleuses, brunes ; embryon droit, spatulé, entouré d’un albumen épais, plutôt farineux et
-
-dur ; cotylédons minces et foliacés.
-
-*HQUHDYHFVHSWHVSqFHVHQGpPLTXHVGHO¶$IULTXHWURSLFDOHWRXWHVSUpVHQWHVDX*DERQ
-
-BIBLIOGRAPHIE : Endress et al. (2019), Jongkind & Lachenaud (2022), Omino (1996, 2002).
-
-### Clé des espèces
-
-)HXLOOHV WRXWHV WHUQpHV RX TXHOTXHVXQHV RSSRVpHV HW G¶DXWUHV WHUQpHV VXU OD
-
-même branche, parfois en verticilles de 3 à 5 ; ovaire bicarpellé, chacun biovulé
-
-................................................................................................................... P. pycnantha
-
-- Feuilles toutes opposées ; ovaire avec 2 à 5 carpelles, chacun à 1 ou plusieurs
-
-ovules .......................................................................................................................... 2
-
-2. - Étamines insérées ± au milieu du tube ; style long de 1,2–1,5 mm ; méricarpes à 1
-
-ou 2 graines ............................................................................................... P. brevistyla
-
-- Étamines insérées entre le milieu et les 92% de la longueur du tube ; style long de
-
-5,5–16 mm ; méricarpes avec 1 à plusieurs graines .................................................... 3
+- Stamens inserted between the middle and 92% of the tube length; style 5.5–16 mm long; mericarps with 1 to several seeds ........................................................ 3
 
 ## Species in region
 

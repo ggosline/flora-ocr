@@ -17,55 +17,53 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Herbaceous monopodial plants with simple erect or pendulous stems. Leaves along the entire stem, cylindrical or dorsiventrally flattened. Inflorescences axillary, emerging from the leaf sheaths opposite the leaves. Flowers generally small, pale-colored, generally fragrant. Sepals and petals dissimilar or subsimilar. Lip generally three-lobed, rarely entire, the lateral lobes generally fimbriate. Spur of variable size. Gynostemium erect, fairly slender. Rostellum elongated, digitate, curved toward the stigma, obtuse. Single viscidium. Tegula split in Y-shape, lamellose. Rostellum remnants tridentate, lateral lobes linear, much longer than the tooth-like median lobe. – Pl. 177, p. 385.
 
-Plantes herbacées monopodiales à tige simple dressée ou pendante. Feuilles sur toute la tige, cylindriques ou aplaties dorsiventralement. Inflorescences axillaires, émergeant des gaines foliaires à l'opposé des feuilles. Fleurs généralement petites, de couleur claire, généralement parfumées. Sépales et pétales dissemblables ou subsemblables. Labelle généralement trilobé, rarement entier, les lobes latéraux généralement fimbriés. Éperon de taille variable. Gynostème dressé, assez grêle. Rostellum allongé, digitiforme, recourbé vers le stigmate, obtus. Viscidie unique. Tegula fendue en forme de Y, lamellée. Restes du rostellum tridentés, lobes latéraux linéaires, beaucoup plus longs que le lobe médian dentiforme. – Pl. 177, p. 385.
+Genus of approximately 40 species, known from tropical and southern Africa.
 
-Genre d'environ 40 espèces, connu en Afrique tropicale et australe.
+Eleven species known from Gabon.
 
-Onze espèces connues du Gabon.
+1. Lip entire or weakly three-lobed ..... 2
 
-1. Labelle entier ou faiblement trilobé ..... 2
+1'. Lip strongly three-lobed ..... 5
 
-1'. Labelle fortement trilobé ..... 5
+2. Median lobe of the lip rectangular or subsquare, truncate with a short apicule at the apex ..... 41. 5. T. filifolia
 
-2. Lobe médian du labelle rectangulare ou subcarré, tronqué avec un court apicule au sommet ..... 41. 5. T. filifolia
+2'. Median lobe of the lip narrowly triangular, acute ..... 3
 
-2'. Lobe médian du labelle étroitement triangulaire, aigu ..... 3
+3. Leaves very thick, semi-circular or triangular in transverse section, leaf margins folded inward ..... 41. 4. T. crassifolia
 
-3. Feuilles très épaisses, de section transversale semi-circulaire ou triangulaire, marges foliaires ourlées vers l'intérieur ..... 41. 4. T. crassifolia
+3'. Leaves thin, flat in transverse section, leaf margins curved ..... 4
 
-3'. Feuilles minces, plates en section transversale, marges foliaires recourbées ..... 4
-
-4. Inflorescence 2-4-flore, labelle 3-6 mm ..... 41. 1. T. anthomaniaca
+4. Inflorescence 2–4-flowered, lip 3–6 mm ..... 41. 1. T. anthomaniaca
 
 ---
 
-PL. 177. – Structure du gynostème du genre Tridactyle Schltr. : A, vue de face ; B, vue latérale ; C, reste du rostelle ; D, anthère ; E, tegula et viscidie ; F, pollinies (A-F, ex SzLACHETKO, 2003).
+PL. 177. – Structure of the gynostemium of the genus Tridactyle Schltr.: A, front view; B, lateral view; C, rostellum remnant; D, anther; E, tegula and viscidium; F, pollinia (A–F, ex SZLACHETKO, 2003).
 
 ---
 
-5. Éperon genuillé, labelle trilobé juste sous le milieu, lobes latéraux falciformes divergents, entiers, aussi longs que le médian
+5. Spur geniculate, lip three-lobed just below the middle, lateral lobes falcate divergent, entire, as long as the median lobe
 
 41. 6. T. lagosensis
 
-5'. Eperon droit, lobes latéraux du labelle pendants ou divergents, généralement fimbriés au moins aussi longs que le médian, généralement plus longs
+5'. Spur straight, lateral lobes of the lip pendent or divergent, generally fimbriate at least as long as the median lobe, generally longer
 
-6. Éperon 0,4-0,8 mm, obtus ..... 41. 3. T. brevicalcarata
+6. Spur 0.4–0.8 mm, obtuse ..... 41. 3. T. brevicalcarata
 
-6'. Éperon plus long ..... 7
+6'. Spur longer ..... 7
 
-7. Lobe médian du labelle en crochet ..... 41. 2. T. bicaudata
+7. Median lobe of the lip hooked ..... 41. 2. T. bicaudata
 
-7'. Lobe médian du labelle non comme ci-dessus ..... 8
+7'. Median lobe of the lip not as above ..... 8
 
-8. Lobes latéraux du labelle tronqués, irrégulièrement denticulés au sommet ..... 41. 11. T. truncatiloba
+8. Lateral lobes of the lip truncate, irregularly denticulate at the apex ..... 41. 11. T. truncatiloba
 
-8'. Lobes latéraux du labelle caudés ou apiculés, mais non tronqués ..... 9
+8'. Lateral lobes of the lip caudate or apiculate, but not truncate ..... 9
 
-9. Tous les lobes du labelle de même longueur et de même forme ..... 41. 10. T. tridactylites
+9. All lobes of the lip of the same length and form ..... 41. 10. T. tridactylites
 
-9'. Lobe médian du labelle nettement plus court que les latéraux, triangulaire, entier, lobes latéraux à marges plus ou moins fimbriées ..... 10
+9'. Median lobe of the lip clearly shorter than the lateral ones, triangular, entire, lateral lobes with more or less fimbriate margins ..... 10
 
 ## Species in region
 

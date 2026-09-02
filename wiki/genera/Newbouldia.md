@@ -17,17 +17,15 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Slender trees with rapid growth. Leaves in whorls of 3, compound, imparipinnate; leaflets subsessile.
 
-Arbres minces à croissance rapide. Feuilles en verticilles de 3, composées, imparipennées ; folioles subsessiles.
+Inflorescence in narrow terminal panicle. Calyx spathaceous or subspathaceous; apex usually very minutely bifid, glabrous. Corolla light magenta or pinkish with darker veins, tubular-campanulate above a tubular base, glabrous externally. Stamens weakly didynamous; thecae weakly divergent. Ovary linear, glabrous. Disc present.
 
-Inflorescence en étroite panicule terminale. Calice spathacé ou subspathacé ; sommet habituellement très petitement bifide, glabre. Corolle magenta clair ou rosâtre avec des veines plus sombres, tubulaire-campanulée au-dessus d'une base tubulaire, glabre extérieurement. Étamines faiblement didynamics ; thèques faiblement divergentes. Ovaire linéaire, glabre. Disque présent.
+TYPE SPECIES: N. laevis (P.B.) Seem. ex Bur.
 
-ESPÈCE-TYPE : N. laevis (P.B.) Seem. ex Bur.
+Capsule linear, subcylindric, with thin valves, very finely squamose, otherwise glabrous, often with inconspicuous longitudinal veins. Seeds thin, biwinged, with hyaline wings.
 
-Capsule linéaire, subcylindrique, à valves minces, très finement écailleuses, autrement glabres, souvent avec des nervures longitudinales non visibles. Graines minces, biaillées, à ailes hyalines.
-
-Genre monospécifique d'Afrique occidentale depuis le Sénégal et la Gambie jusqu'au Gabon et au Congo.
+Monotypic genus from West Africa from Senegal and Gambia to Gabon and Congo.
 
 ## Species in region
 

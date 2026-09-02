@@ -17,69 +17,61 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 in DC., Prodr. 9 : 55 (1845).
 
 Sebaea R.Br., Prodr. 451 (1810), pro parte .
 
-Herbes annuelles, parfois mycohétérotrophes (« saprophytes ») et sans chlorophylle (E. oli-
+Annual herbs, sometimes mycoheterotrophic ("saprophytic") and lacking chlorophyll (E. oli-
 
-ganthum ) ; tiges simples ou ramifiées, quadrangulaires. Feuilles opposées ou rarement plus
+ganthum); stems simple or branched, quadrangular. Leaves opposite or rarely more or less
 
-ou moins alternes ( E. oliganthum ), sessiles, parfois réduites. Inflorescences terminales, à fleur
+alternate (E. oliganthum), sessile, sometimes reduced. Inflorescences terminal, with solitary
 
-solitaire ou rarement plusieurs, groupées en cymes pauciflores ou parfois inflorescence basale
+flower or rarely several, grouped into few-flowered cymes or sometimes basal inflorescence
 
-et les fleurs (cléistogames) cachées dans la litière ( E. oliganthum ). Fleurs actinomorphes,
+with flowers (cleistogamous) hidden in litter (E. oliganthum). Flowers actinomorphic,
 
-5-mères, souvent hétérostyles , rarement cléistogames ( E. oliganthum ) ; calice à lobes presque
+5-merous, often heterostylous, rarely cleistogamous (E. oliganthum); calyx with lobes nearly
 
-libres, généralement carénés à ailés sur le dos, souvent avec des écailles à la base interne ;
+free, generally keeled or winged on the back, often with scales at the base inside;
 
-corolle en entonnoir, finement papilleuse à l’extérieur, à tube souvent renflé au-dessus
+corolla funnelform, finely papillose on the outside, with tube often swollen above
 
-de l’ovaire ; étamines 5, incluses, libres ou rarement soudées en un anneau (dans les fleurs
+the ovary; stamens 5, included, free or rarely connate in a ring (in the long-styled flowers of E. oliganthum), with anthers bearing an apical gland and sometimes bearing
 
-longistyles de E. oliganthum ), à anthères munies d’une glande apicale et parfois munies de
+two minute glands at the base of the thecae; ovary 2-locular; style long or short, included
 
-deux glandes minuscules à la base des thèques ; ovaire 2-loculaire ; style long ou court, inclus
+or exsert, with entire, papillose stigma. Fruits ellipsoid to globose. Seeds cubic;
 
-ou exsert, à stigmate entier, papilleux . Fruits ellipsoïdes à globuleux. Graines cubiques ;
+testa foveolate, with stellate cells.
 
-testa fovéolé, à cellules étoilées.
+Genus comprising 22 species present in sub-Saharan Africa, most in southern Africa;
 
-Genre comprenant 22 espèces présentes en Afrique sub-saharienne, la plupart en Afrique aus-
+in Gabon, 3 species.
 
-trale ; au Gabon, 3 espèces.
+Notes: Exochaenium, the only Gentianaceae in Gabon with 5-merous flowers, has often been included in the genus
 
-Notes : Exochaenium , la seule Gentianacée du Gabon à fleurs 5-mères, a souvent été inclus dans le genre
+Sebaea. According to a recent taxonomic study (Kissling 2012) the two genera differ by the following characteristics:
 
-Sebaea . Selon une étude taxonomique récente (Kissling 2012) les deux genres diffèrent par les caracté-
+Sebaea: stigma glabrous, 2-lobed; stamens exsert; seed with testa cells rectangular;
 
-ristiques suivantes :
+Exochaenium: stigma papillose, entire; stamens included; seed with testa cells stellate.
 
-Sebaea : stigmate glabre, 2-lobé ; étamines exsertes ; graine à cellules du testa rectangulaires ;
+B: Boutique (1972), Kissling (2012), Paiva & Nogueira (1990), Struwe & Pringle (2018).
 
-Exochaenium : stigmate papilleux, entier ; étamines incluses ; graine à cellules du testa étoilées.
+### Key to species
 
-B : Boutique (1972), Kissling (2012), Paiva & Nogueira (1990), Struwe & Pringle (2018).
+1. - Plant without chlorophyll ............................................................................ E. oliganthum
 
-i B liographie
+- Plant with chlorophyll ................................................................................................. 2
 
-### Clé des espèces
+2. - Corolla 20–35 mm in length; calyx 7–22 mm in length; leaves 5–40 ×
 
-1. - Plante sans chlorophylle ............................................................................ E. oliganthum
+2.5–13 mm ........................................................................................................ E. grande
 
-- Plante avec chlorophylle ................................................................................................. 2
+- Corolla 7–9 mm in length; calyx 3–5 mm in length; leaves 2–5 ×
 
-2. - Corolle 20–35 mm de longueur ; calice 7–22 mm de longueur ; feuilles 5–40 ×
-
-2,5–13 mm ........................................................................................................ E. grande
-
-- Corolle 7–9 mm de longueur ; calice 3–5 mm de longueur ; feuilles 2–5 ×
-
-0,5–1,5 mm ................................................................................................ E. baumianum
+0.5–1.5 mm ................................................................................................ E. baumianum
 
 ## Species in region
 

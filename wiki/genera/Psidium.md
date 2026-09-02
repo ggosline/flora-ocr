@@ -16,39 +16,35 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Trees or shrubs. Leaves opposite, petiolate.
 
-Arbres ou arbrisseaux. Feuilles opposées, pétolées.
+Inflorescences axillary, dichotomous, bearing 1 to 7 flowers. Flowers rather large, white, pentamerous or tetramerous, hermaphrodite. Calyx somewhat prolonged above the ovary, entirely closed in the bud or 4-5-lobed, then splitting more or less regularly into 4-5 segments, sometimes circumcissile. Petals free, imbricate in the bud, spreading in the open flower. Ovary with 3-7 locules (rarely only two locules); ovules numerous, inserted on bilamellate axillary placentas. Style filiform. Stigma small, capitate or peltate. Fruit fleshy, with numerous small seeds. Seeds with hard testa, more or less reinforced; cotyledons small; radicle relatively long. Seedlings with cotyledons above ground.
 
-Inflorescences axillaires, dichotomes, portant 1 à 7 fleurs. Fleurs assez larges, blanches, pentamères ou tétramères, hermaphrodites. Calice un peu prolongé au-dessus de l'ovaire, entièrement clos dans le bouton ou 4-5-lobé, puis se fendant plus ou moins régulièrement en 4-5 segments, parfois circumcissile. Pétales libres, imbriqués dans le bouton, étalés dans la fleur épanouie. Ovaire à 3-7 loges, (rarement seulement deux loges); ovules nombreux, insérés sur des placentas axillaires bilamellés. Style filiforme. Stigmate petit, capité ou pelté. Fruit charnu, à nombreuses petites graines. Graines à testa dur, plus ou moins réinformés; cotylédons petits; radicule relativement longue. Plantules avec les cotylédons au dessus du sol.
+Genus comprising approximately 150 species almost all from tropical America, a few from New Caledonia. The guava, Ps. guajava L., and several other species are cultivated for their edible fruits in all warm countries.
 
-Genre comprenant environ 150 espèces presque toutes d'Amérique tropicale, quelques-unes de Nouvelle-Calédonie. Le goyavier, Ps. guajava L., et quelques autres espèces, sont cultivées pour leurs fruits comestibles dans tous les pays chauds.
+The neighbouring genera, Calyptropsidium Berg (= Ps. Friedrichthalianum (Berg) Ndz.) and Mitropsidium Burret, were created for species with circumcissile calyx.
 
-Les genres voisins, Calyptropsidium Berg (= Ps. Friedrichthalianum (Berg) Ndz.) et Mitropsidium Burret, ont été créés pour les espèces à calice circumcissile.
-
-Espèce type : Psidium guajava L.
+Type species: Psidium guajava L.
 
 ---
 
-### CLÉ DES ESPÈCES INTRODUITES EN AFRIQUE OCCIDENTALE
+### KEY TO SPECIES INTRODUCED TO WEST AFRICA
 
-1. Calice lobé dans le bouton; feuilles obovées, glabres.. 1. Ps. cattleyanum.
+1. Calyx lobed in the bud; leaves obovate, glabrous.. 1. Ps. cattleyanum.
 
-1'. Calice clos dans le bouton.
+1'. Calyx closed in the bud.
 
-2. Feuilles et rameaux glabres, jeunes rameaux quadrangulaires.
+2. Leaves and branches glabrous, young branches quadrangular.
 
-Ps. Friedrichstahlianum.
+Ps. Friedrichthalianum.
 
-2'. Feuilles et jeunes rameaux pubescents.
+2'. Leaves and young branches pubescent.
 
-3. Jeunes rameaux quadrangulaires, nervures latérales de la feuille
+3. Young branches quadrangular, lateral leaf veins 12-16 pairs impressed above..... 2. Ps. guajava.
 
-12-16 paires imprimées en dessus..... 2. Ps. guajava.
+3'. Young branches rounded, lateral leaf veins 7-10 pairs not impressed above..... Ps. guineense.
 
-3'. Jeunes rameaux arrondis, nervures latérales de la feuille 7-10 paires non imprimées en dessus..... Ps. guineense.
-
-Du Gabon nous n'avons vu qu'un spécimen de Ps. cattleyanum Sabine, Ps. guajava L., cependant, est très souvent cultivé et naturalisé en Afrique tropicale, ainsi qu'au Gabon. Le Ps. guineense Sw. (= Ps. araca Raddi) est moins fréquent.
+From Gabon we have only seen one specimen of Ps. cattleyanum Sabine, Ps. guajava L., however, is very often cultivated and naturalized in tropical Africa, as well as in Gabon. Ps. guineense Sw. (= Ps. araca Raddi) is less frequent.
 
 ## Species in region
 

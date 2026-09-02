@@ -17,39 +17,17 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+PL. 26. – Structure of the gynostemium of the genus Cheirostylis Blume: A, dorsal view; B, basal view; C, rostellum remainder; D, lateral view; E, anther, basal view; F, anterior view; G, lateral view; H-J, viscidium and tegula, various aspects; K, anther dorsal view; L-N, viscidium, tegula and caudicles, various aspects (A-N, ex SZLACHETKO & RUTKOWSKI, 2000).
 
 ---
 
-PL. 26. – Structure du gynostème du genre Cheirostylis Blume: A, vue de dessus ; B, vue de la base ; C, reste du rostelle ; D, vue latérale ; E, anthère, vue de la base ; F, vue antérieure ; G, vue latérale ; H-J, viscidie et tegula, aspects divers ; K, anthère vue de dessus ; L-N, viscidie, tegula et caudicules, aspects divers (A-N, ex SZLACHETKO & RUTKOWSKI, 2000).
+Stem produced from a creeping fleshy rhizome. Leaves petiolate, inserted spirally on the lower part of the stem. Inflorescence terminal. Flowers resupinate. Sepals fused together and with the petals along their length, their base forming an inflated tube. Labellum fused to the base of the gynostemium. Base of labellum sacciform with two fleshy appendages on the inner side; epichile or limb of labellum often broad, bilobed. Staminodes forming a vast thin clinandrium. Stigma with 2 lobes well separated by long fleshy terminal carinae. Rostellum elongate, erect, massive. Large viscidium, ovate-lanceolate. Tegula longer than the viscidium, fine and lamellose. Pollination unknown. – Pl. 26, p. 61.
 
----
+Genus of approximately 20 species from tropical Africa, Madagascar, the Comoros and Pacific islands.
 
-Tige émise par un rhizome rampant charnu. Feuilles pétiolées insé-
+1. Leaf blade 1–4 cm long, 0.8–2.5 cm wide, petiole shorter than the blade; labellum ± equal to the other perianth parts, 3.5–5 mm long .....2. Ch. lepida
 
-rées en spirale sur la partie inférieure de la tige. Inflorescence terminale.
-
-Fleurs résupinées. Sépales soudés ensemble et avec les pétales sur leur
-
-longueur, leur base formant un tube renflé. Labelle soudé à la base du
-
-gynostème. Base du labelle sacciforme avec deux appendices charnus du
-
-côté interne ; épichile ou limbe du labelle souvent larges, bilobés.
-
-Staminodes formant un vaste clinandrium mince. Stigmate à 2 lobes bien
-
-séparés par de longues carènes terminales charnues. Rostellum allongé,
-
-érigé, massif. Grande viscidie, ovée-lancéolée. Tegula plus longue que la
-
-viscidie, fine et lamellée. Pollinisation inconnue. – Pl. 26, p. 61.
-
-Genre d'environ 20 espèces d'Afrique tropicale, de Madagascar, des Comores et des îles du Pacifique.
-
-1. Limbe foliaire long de 1-4 cm, large de 0,8-2,5 cm, pétiole plus court que le limbe ; labelle ± égal aux autres pièces du périanthe, long de 3,5-5 mm .....2. Ch. lepida
-
-1'. Limbe foliaire long de 0,7-1,8(2,6) cm, large de 0,6-1,6(2,3) cm, pétiole ± égal au limbe ; labelle plus long que les autres pièces du périanthe, long de 4.8-5,8 mm .....1. Ch. divina
+1'. Leaf blade 0.7–1.8(2.6) cm long, 0.6–1.6(2.3) cm wide, petiole ± equal to the blade; labellum longer than the other perianth parts, 4.8–5.8 mm long .....1. Ch. divina
 
 ## Species in region
 

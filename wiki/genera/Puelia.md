@@ -19,27 +19,25 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Herbaceous plants, erect. Sheaths without blades at the base, leaves gathered towards the apex of the culms. Blades shortly petiolate, oval-oblong. Inflorescences terminal, sometimes on the leafy culms.
 
-Plantes herbacées dressées. Gaines aphylles à la base, feuilles rassemblées vers le sommet des chaumes. Limbes courtemment pétiolés, ovales oblongs. Inflorescences terminales, parfois sur les chaumes feuillés.
+Spikelets flattened, multiflorous, with all flowers unisexual, the lower ones male or neuter, the terminal one female. Male flowers with coriaceous lemma, with numerous nerves, glabrous or more or less pubescent. Palea ciliate, bicarinate; 6 stamens monadelphous.
 
-Épillets aplatis, multiflores, à fleurs toutes unisexuées, les inférieures mâles ou neutres, la terminale femelle. Fleurs mâles à lemma coriace, à nombreuses nervures, glabres ou plus ou moins pubescentes. Paléa ciliées, bicarénées; 6 étamines monodelphes.
+Female flower with similar glumelles, pubescent, tightly enrolled. Ovary glabrous with bifid style. Lodicules null or reduced; 4 to 5 glumes at the base of the spikelet.
 
-Fleur femelle à glumelles semblables, pubescentes, étroitement enroulées. Ovaire glabre à style bifide. Lodicules nulles ou réduites; 4 à 5 glumes à la base de l'épillet.
+Genus represented in Gabon, Cameroon, Ubangi and ex-Belgian Congo. Five species have been described, differentiated, for some, essentially by the shape of the leaves. We have not seen material for some of them. According to the descriptions given, some could be synonyms.
 
-Genre représenté au Gabon, au Cameroun, en Oubangui et au Congo ex-belge. Cinq espèces ont été décrites, différenciées, pour certaines, essentiellement par la forme des feuilles. Nous n'avons pas vu de matériel pour certaines d'entre elles. D'après les descriptions données, certaines pourraient être synonymes.
+1. Fertile culms and sterile culms separate.....
 
-1. Chaumes fertiles et chaumes stériles séparés.....
+P. Schumanniana Pilger (Cameroon).
 
-P. Schumanniana Pilger (Cameroun).
+1'. Inflorescence at the apex of the leafy culms.
 
-1'. Inflorescence à l'extrémité des chaumes feuillés.
+2. Leaves elongate, 20–30 × 5–7 cm; terminal inflorescence
 
-2. Feuilles allongées, de 20-30 × 5-7 cm; inflorescence terminale
+elongate, 10–15 cm long... P. Dewevrei De Wild. (Congo).
 
-allongée, de 10-15 cm de long... P. Dewevrei De Wild. (Congo).
-
-2'. Feuilles ovales lancéolées, de 25-30 × 10-20 cm; panicule terminale courte; feuilles ciliées sur les bords..... 1. P. ciliata.
+2'. Leaves oval-lanceolate, 25–30 × 10–20 cm; short terminal panicle; leaves ciliate on the margins..... 1. P. ciliata.
 
 ---
 

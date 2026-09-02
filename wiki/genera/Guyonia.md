@@ -17,23 +17,17 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+### Small rooting herbs.
 
-### Herbes radicantes, de petite taille.
+Inflorescences of 2 to 3 flowers, subtended by caducous non-enveloping bracts. Flowers normally 5-merous (varying from 4 to 7); hypanthium campanulate, calyx lobes persistent. Stamens homomorphic, or slightly unequal; anthers broadly ovoid, or oblong, with a wide pore; podoconnective slightly shorter than the anther, slightly arched, with a 2-tuberculate frontal protuberance. Ovary adnate by its lower half; apex free, convex, glabrous; style sigmoid, stigma capitate; placentas cymbiform, stipitate.
 
-Inflorescences de 2 à 3 fleurs, sous-tendues par des bractées caduques non enveloppantes. Fleurs normalement 5-mères (variant de 4 à 7); hypanthe campanulé, lobes du calice persistants. Étamines homomorphes, ou légèrement inégales; anthères largement ovoïdes, ou oblongues, à pore large; pédoconnectif un peu plus court que l'anthère, légèrement arqué, avec protubérance frontale 2-tuberculée. Ovaire adhérent par sa moitié inférieure; sommet libre, convexe, glabre; style sigmoïde, stigmate capité; placentas cymbiformes, stipités.
+Fruit dry, dehiscent. Seeds relatively large and few in number, attenuate on the funicular base, sparsely tuberculate, or papillose.
 
-Fruit sec, rupture. Graines relativement grosses et peu nombreuses, atténuées sur la base funiculaire, éparsement tuberculées, ou papilleuses.
+TYPE SPECIES: Guyonia tenella Naud., Guinea.
 
-ESPÈCE-TYPE : Guyonia tenella Naud., Guinée.
+Two very closely related species; only one in Gabon.
 
-Deux espèces très affines; une seule au Gabon.
-
-1. Ce sont les étamines externes qui servent de caractère chez les espèces hétérostaminées; celles-ci peuvent présenter parfois des fleurs homostaminées, dites « osbeckioïdes ». Sur cette question, consulter : H. JACQUES-FÉLIX, Observations sur les caractères staminaux et la classification des Osbeckieæ africaines, Adansonia, sér. 2, 20 (4) : 405-429 (1981).
-
----
-
----
+1. It is the external stamens that serve as a character in heterostamineous species; these can sometimes present homostamineous flowers, called "osbeckioid". On this question, consult: H. JACQUES-FÉLIX, Observations on staminal characters and the classification of African Osbeckieæ, Adansonia, ser. 2, 20 (4): 405-429 (1981).
 
 ## Species in region
 

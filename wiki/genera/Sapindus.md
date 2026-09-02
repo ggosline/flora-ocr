@@ -17,15 +17,13 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Trees more or less tall, glabrous or subtomentose. Leaves generally 2-5-8-jugate with rachis naked or narrowly winged (S. saponaria).
 
-Arbres plus ou moins élevés, glabres ou subtomenteux. Feuilles généralement 2-5-8-juguées à rachis nu ou étroitement ailé (S. saponaria).
+Inflorescences terminal. Flowers regular; 5 orbicular sepals; 5 petals with scarcely any scale; generally, 8 stamens with hairy base; pistil with 3 locules; style terminal. Fruit formed of 1-2-3 fleshy mericarps containing a saponin that froths upon agitation in water.
 
-Inflorescences terminales. Fleurs régulières; 5 sépales orbiculaires; 5 pétales à écaille presque nulle; en général, 8 étamines à base velue; pistil à 3 loges; style terminal. Fruit formé de 1-2-3 méricarpes charnus contenant une saponase moussant par agitation dans l'eau.
+TYPE SPECIES: Sapindus saponaria L.
 
-ESPÈCE-TYPE : Sapindus saponaria L.
-
-Sur les 13 espèces du genre Sapindus, une seule est introduite en Afrique, y compris Madagascar et le Maghreb : S. saponaria.
+Of the 13 species of the genus Sapindus, only one has been introduced to Africa, including Madagascar and the Maghreb: S. saponaria.
 
 ## Species in region
 

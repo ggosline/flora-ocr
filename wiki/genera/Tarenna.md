@@ -17,23 +17,21 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Small trees or shrubs, sometimes lianes, with rather slender extremities. Stipules intrapetiolar, always erect, deltoid or lanceolate, sometimes margined, more rarely ovate, glabrous at least in the distal part which is always developed and very often ‡ convex, generally blackish when dry; the stipular acumen sometimes distinct is then short, less than half the total length; it is acute without being abruptly subulate as in Pavetta or Rutidea. Petioles canaliculate. Blades thin to subcoriaceous of medium dimensions, with ± asymmetric base in certain species, with ordinarily acuminate apex. Domatia frequent at the nerve axils along the midvein.
 
-Petits arbres ou arbustes, parfois lianes, à extrémités plutôt grèles. Stipules intrapétiolaires toujours dressées, deltoïdes ou lancéolées, parfois marginées, plus rarement ovées, glabres au moins dans la partie distale qui est toujours développée et très souvent ‡ bombée, généralement nigrecente à sec; l'acumen stipulaire quelquefois distinct est alors court, inférieur à la moitié de la longueur totale; il est aigu sans être abruptement subulé comme chez Pavetta ou Rutidea. Pétioles canalicules. Limbes minces à subcoriace de dimensions moyennes, à base ± dissymétriques dans certaines espèces, à sommet ordinairement acuminé. Domaties fréquentes aux aisselles nervaires le long de la médiane.
-
-Inflorescences terminales souvent ± corymbiformes. Fleurs axillées par de petites bractées, les plus longues de 5-9 mm chez T. Leonardii N. Hallé du Congo oriental. Floraison habituellement synchrone. Fleurs pédicellées pentamères alors qu'elles sont tétramères chez Pavetta. Calice à 5 lobes contortés de 0,5 à 5 mm de longueur. Corolle à tube presque aussi long ou un peu plus long que les lobes qui sont oblongs, aiguis ou non au sommet, contortés à la préfloraison. Étamines exsertes à filet généralement court inséré à la gorge; anthère suprabasifixe très étroitement sagittée. Pollen en grains simples tricolporés. Style grêle, long, pubescent
+Inflorescences terminal, often ± corymbiform. Flowers subtended by small bracts, the longest 5–9 mm in T. Leonardii N. Hallé from eastern Congo. Flowering usually synchronous. Flowers pedicellate, pentamerous whereas they are tetramerous in Pavetta. Calyx with 5 contorted lobes 0.5 to 5 mm in length. Corolla with tube almost as long or somewhat longer than the lobes which are oblong, acute or not at the apex, contorted in prefloration. Stamens exserted with filament generally short inserted at the throat; anther suprabasifixed very narrowly sagittate. Pollen in simple tricolporate grains. Style slender, long, pubescent
 
 ---
 
-ou non, à massue stigmatique exserte médiocrement renflée, non volumineuse. Ovaire à 2 loges; dans chaque loge un placenta hémisphérique pelté à court pédoncule centraxial plutôt ascendant. (1-2) 3-15 ovules par placenta, légèrement ou plus souvent net-tement enfoncés dans le tissu placentaire.
+or not, with exserted stigmatic club moderately inflated, not voluminous. Ovary with 2 locules; in each locule one hemispherical peltate placenta with short centraxial peduncle rather ascending. (1–2) 3–15 ovules per placenta, slightly or more often distinctly embedded in the placental tissue.
 
-Le fruit est une petite baie globuleuse, rarement ellipsoïde, généralement inférieure à 1 cm de diam., blanche, jaunâtre, orangée, devenant parfois + rouge ou noire, à calice persistant ou plus rarement caduc. Graines convexes, anguleuses à hémisphériques, à hile béant, à testa lisse. Albumen non ruminé (caractère distinctif du genre voisin Enterospermum). Embryon petit, droit, à cotylédons foliacés.
+The fruit is a small globose berry, rarely ellipsoid, generally less than 1 cm in diam., white, yellowish, orange, becoming sometimes ± red or black, with persistent or more rarely caducous calyx. Seeds convex, angular to hemispheric, with gaping hilum, with smooth testa. Albumen non-ruminate (distinctive character of the related genus Enterospermum). Embryo small, straight, with foliaceous cotyledons.
 
-Espèce type du genre : Tarenna zeylanica Gaertn. de Ceylan.
+Type species of the genus: Tarenna zeylanica Gaertn. from Ceylon.
 
-Le genre compte environ 180 espèces tropicales du monde entier hormis de l'Amérique. Près de 50 espèces sont de l'Afrique continentale; de nombreuses espèces sont malgaches; plus de 120 espèces sont d'Asie, d'Indonésie et d'Océanie. 11 espèces connues du Gabon.
+The genus comprises about 180 tropical species from throughout the world except from America. Nearly 50 species are from continental Africa; numerous species are Malagasy; more than 120 species are from Asia, Indonesia and Oceania. 11 species known from Gabon.
 
-Espèce exclue : Tarenna Soyauxii (Hiern) Bremek. (= Ixora asteriscus K. Schum.); les stipules chez cette espèce sont du type Tarenna ou Rutidea. Les inflorescences dissymétriques sont très particulières; les ovules solitaires sont basiliaires ascendants; les fruits sont monospermes; la testa des graines n'est pas finement vernissée crustacée. Cette espèce est à exclure des Gardéniées même comprises au sens le plus large; elle n'a sa place ni parmi les Pavetta ni parmi les Ixora ou Rutidea. Elle fera l'objet, le moment venu, de l'établissement d'un nouveau genre d'Ixorées.
+Excluded species: Tarenna Soyauxii (Hiern) Bremek. (= Ixora asteriscus K. Schum.); the stipules in this species are of the Tarenna or Rutidea type. The asymmetric inflorescences are very particular; the solitary ovules are basal ascending; the fruits are monospermous; the testa of the seeds is not finely varnished crustaceous. This species must be excluded from the Gardenioideae even understood in the broadest sense; it has no place either among the Pavetta or among the Ixora or Rutidea. It will be the subject, when the time comes, of the establishment of a new genus of Ixoreae.
 
 ## Species in region
 

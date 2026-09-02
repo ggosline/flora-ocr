@@ -17,27 +17,21 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+PL. 154. – Ancistrorhynchus recurvus Finet : A, G, flower ; B, H, labellum ; C, I, dorsal sepal ; D, J, petal ; E, K, lateral sepal ; F, M-O, leaf tips (A-F, Sita 2934, P ; G-O, Lecomtes.n., P).
 
 ---
 
-PL. 154. – Ancistrorhynchus recurvus Finet : A, G, fleur ; B, H, labelle ; C, I, sépale dorsal ; D, J, pétale ; E, K, sépale latéral ; F, M-O, extrémités foliaires (A-F, Sita 2934, P ; G-O, Lecomtes.n., P).
+PL. 156. – Structure of the gynostemium of the genus Bolusiella Schltr. : A, frontal view ; B, frontal view, anther tilted backwards ; C, lateral view ; D, remainder of the rostellum, frontal view ; E-G, tegula and viscidium ; H, viscidium, ventral view ; I, pollinia (A-I, ex SZLACHETKO & al.).
 
 ---
 
----
+Small herbs. Stems short, simple. Leaves imbricate, arranged in a fan shape, rigid, fleshy. Inflorescence axillary, lax or dense, multiflorous. Flowers minute, not resupinate, transparent. Petals and sepals subsimilar. Labellum entire or weakly three-lobed, provided with a spur. Gynostemium elongate, erect. Stigma masked by a large rostellum. Rostellum large, linguiform, with an apex slightly recurved upwards. Viscidium solitary, oblong-elliptic. Tegula cleft near the base, V-shaped. Remnants of the rostellum distinctly tridentate, the two lateral lobes distinctly larger than the median one. – Pl. 156, p. 349.
 
-PL. 156. – Structure du gynostème du genre Bolusiella Schltr. : A, vue de face ; B, vue de face, anthère penchée vers l'arrière ; C, vue latérale ; D, reste du rostelle, vue de face; E-G, tegula et viscidie ; H, viscidie, vue de dessous ; I, pollinies (A-I, ex SZLACHETKO & al.).
+Genus of approximately 5 species in tropical and southern Africa.
 
----
+1. Inflorescence reaching 20 cm long, in a dense spike with crowded flowers ; leaves almost rounded at the apex, 7 mm wide ..... 31. 1. B. batesii
 
-Herbes petites. Tiges courtes, simples. Feuilles imbriquées, disposées en éventail, rigides, charnues. Inflorescence axillaire, lâche ou dense, multiflore. Fleurs minuscules, non résupinées, transparentes. Pétales et sépales subsemblables. Labelle entier ou faiblement trilobé, muni d'un éperon. Gynostème allongé, dressé. Stigmate masqué par un grand rostellum. Rostellum grand, linguiforme, avec un sommet légèrement recourbé vers le haut. Viscidie unique, oblongue-elliptique. Tegula fendue près de la base, en forme de V. Restes du rostellum nettement tridentés, lcs dcux lobes latéraux nettement plus grands que le médian. – Pl. 156, p. 349.
-
-Genre d'environ 5 espèces en Afrique tropicale et australe.
-
-1. Inflorescence atteignant 20 cm long, en épi dense avec des fleurs serrées ; feuilles presque arrondies au sommet, larges de 7 mm ..... 31. 1. B. batesii
-
-1'. Inflorescence atteignant 10 cm, en épi lâche avec des fleurs bien espacées, feuilles aiguës larges de 12 mm ..... 31. 2. B. talbotii
+1'. Inflorescence reaching 10 cm, in a lax spike with flowers well-spaced, leaves acute 12 mm wide ..... 31. 2. B. talbotii
 
 ## Species in region
 

@@ -17,17 +17,13 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Shrubs 1 to 3 m tall, with glabrous internodes. Stipules simple with insertion base distinctly narrower than the branch, glabrous. Petiole sinuous with margins of the canal blunt and glabrous. Foliar domatia absent. Inflorescences multiflorous cauline (axillary in St. ziamaeana). Calyx cupuliform micropubescent (or glabrous, St. z.). Corolla valvate (induplicate, St. z.) with lobes more numerous than the carpels. Anthers with fragile apicule. Style glabrous. Disc slightly or not convex. Ovary with 2 locules (5, St. z.); false partition dividing in 2 the upper half of each locule. Placenta in deep V-shape. Fruits fleshy. Seeds 0.4 mm, globose, reticulate fossulate.
 
-Arbustes de 1 à 3 m de hauteur, à entrençuds glabres. Stipules simples à base d'insertion nettement plus étroite que le rameau, glabres. Pétiole sinueux à marges du canal émoussées et glabres. Domaties foliaires absentes. Inflorescences multiflores caulinaires (axillaires chez St. ziamaeana). Calice cupuliforme micropubèrent (ou glabre, St. z.). Corolle valvaire (indulpiquée, St. z.) à lobes plus nombreux que les carpelles. Anthères à apicule fragile. Style glabre. Disque peu ou pas bombé. Ovaire à 2 loges (5, St. z.); fausse cloison divisant en 2 la moitié supérieure de chaque loge. Placenta en V profond. Fruits charnus. Graines de 0,4 mm, globuleuses, réticulées fossulées.
+This genus contains 3 species. Only the type species is known from Gabon; another is known only from Cameroon (St. makakana N. Hallé, Adansonia, 4: 236, 1964), it is smaller and its stipules are narrowly linear. A third species, of a distinct subgenus, St. ziamaeana (Jacq.-Fél.) N. Hallé, non cau-
 
-Ce genre contient 3 espèces. Seule l'espèce type est connue du Gabon; une autre n'est connue que du Cameroun (St. makakana N. Hallé, Adansonia, 4 : 236, 1964), elle est plus petite et ses stipules sont étroitement linéaires. Une troisième espèce, d'un sous-genre distinct, St. ziamaeana (Jacq.-Fél.) N. Hallé, non cau-
+<<<---SECTION-BREAK--->>>
 
----
-
----
-
-liflore, est une endémique des confins de la Guinée, du Libéria et de Sierra-Leone.
+liflore, is an endemic of the borders of Guinea, Liberia and Sierra Leone.
 
 ## Species in region
 

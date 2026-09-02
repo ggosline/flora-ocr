@@ -16,25 +16,23 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Rhizome rampant ou dressé, portant des écailles généralement épaisses, entières. Pétiole ± écailleux. Limbe oblong, deltoïde ou oblancéolé, le plus souvent penné-bipenné, les pennes inférieures souvent réduites, défléchies, portant un aérophore à la base. Limbe jeune parfois recouvert de mucilage. Nervures généralement pennées dans les segments, 1-4 paires de 2 segments voisins
+Rhizome creeping or erect, bearing generally thick, entire scales. Petiole ± scaly. Blade oblong, deltoid or oblanceolate, most often pinnate-bipinnate, the lower pinnae often reduced, deflexed, bearing an aerophore at the base. Young blade sometimes covered with mucilage. Veins generally pinnate in the segments, 1–4 pairs of neighbouring segments with
 
 ---
 
-anastomoses, formant une nervure exurrente avant le sinus dont le bord est occupé par une membrane. Texture herbacée ou subcoriace. Rachis, costae et costulae portant, au moins à la face supérieure, des poils blanchâtres, unicellulaires. Face inférieure du limbe souvent glanduleuse. Sores arrondis, dorsaux et médians sur les nervures, indusés, à indusie réniforme-arrondie, brune, persistante ou rarement fugace, parfois glanduleuse.
+anastomoses, forming an exurrent vein before the sinus whose margin is occupied by a membrane. Texture herbaceous or subcoriaceous. Rachis, costae and costulae bearing, at least on the upper surface, whitish, unicellular hairs. Lower surface of the blade often glandular. Sori rounded, dorsal and median on the veins, indurate, with reniform-rounded, brown indusium, persistent or rarely fugacious, sometimes glandular.
 
-Espèce type : Cyclosorus gongylodes (Schkuhr) Link.
+Type species: Cyclosorus gongylodes (Schkuhr) Link.
 
-Environ 300 espèces, tropicales et subtropicales; 3 au Gabon.
+Approximately 300 species, tropical and subtropical; 3 in Gabon.
 
-1. Une seule ou, au plus, 2 paires de nervures basales, unies.
+1. One or at most 2 pairs of basal veins, united.
 
-2. Rhizome court, à frondes rapprochées; présence de poils blancs sur les nervures et sur le limbe; sores ne faisant pas le tour des sinus..... I. C. dentatus.
+2. Rhizome short, with fronds close together; presence of white hairs on the veins and on the blade; sori not forming around the sinuses..... I. C. dentatus.
 
-2'. Rhizome longuement rampant, segments glabres; sores faisant le tour des sinus..... 2. C. striatus.
+2'. Rhizome extensively creeping, segments glabrous; sori forming around the sinuses..... 2. C. striatus.
 
-1'. 4-5 paires de nervures unies dans 2 lobes voisins; pennes inférieures très décroissantes et auriculiformes..... 3. C. afer.
+1'. 4–5 pairs of veins united in 2 neighbouring lobes; lower pinnae very decreasing and auriculate..... 3. C. afer.
 
 ## Species in region
 

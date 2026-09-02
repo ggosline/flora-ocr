@@ -17,41 +17,13 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Shrub, dioecious, monocaulous or with trunk sparsely branched; indumentum with simple hairs, often glandular. Leaves compound, imparipinnate; leaflets alternate or rarely subopposite. Inflorescences axillary, racemose in form; rachis pendulous, elongate, often shortly branched or more rarely with long lateral ramifications. Flowers 4-merous, functionally unisexed, but with vestiges of the opposite sex; calyx cupuliform, 4-lobed; petals reflexed at anthesis; staminal tube cylindrical or weakly urceolate, margin crenulate, the 8 anthers (or antherodes) inserted within toward the apex of the tube, not exceeding the level of the crenulations; gynoecium on an annular disc-gynophore, ovary filiform or globose, 4(–6)-locular, with 1 ovule per locule, more or less attenuate into a style with a discoid stigma. Infructescence often persistently elongate. Fruits capsular, lobed or plicate, notably toward the apex, containing 1–4 seeds. Seed reniform, entirely surrounded by a red-orange sarcotesta; cotyledons plano-convex, juxtaposed.
 
-Arbuste , dioïque, monocaule ou à tronc peu branchu ; indument à poils simples, souvent
+Monotypic genus, restricted to humid tropical Africa, from Nigeria to the Democratic Republic of the Congo.
 
-glanduleux. Feuilles composées, imparipennées ; folioles alternes ou rarement subop -
+B: Koenen & de Wilde (2012).
 
-posées. Inflorescences axillaires, en forme de racèmes ; rachis pendant, allongé, souvent
-
-courtement branchu ou plus rarement à longues ramifications latérales. Fleurs 4-mères,
-
-fonctionnellement unisexuées, mais avec vestiges du sexe opposé ; calice cupuliforme,
-
-4-lobé ; pétales réfléchis à l’anthèse ; tube staminal cylindrique ou faiblement urcéolé,
-
-bord crénelé, les 8 anthères (ou anthérodes) insérées à l’intérieur vers le sommet du tube,
-
-ne dépassant pas le niveau des crénelures ; gynécée sur un disque-gynophore annulaire,
-
-ovaire filiforme ou globuleux, 4(–6)-loculaire, à 1 ovule par loge , plus ou moins atté -
-
-nué en un style avec un stigmate discoïde. Infrutescence souvent longuement persistante.
-
-Fruits capsulaires, lobés ou plissés, notamment vers le sommet, contenant 1–4 graines.
-
-Graine réniforme, entièrement entourée d’un sarcotesta rouge-orange ; cotylédons
-
-plans-convexes, juxtaposés.
-
-Genre monospécifique, limité à l’Afrique tropicale humide, du Nigéria jusqu’à la Répu -
-
-blique Démocratique du Congo.
-
-B : Koenen & de Wilde (2012).
-
-ibliographie
+ibliography
 
 ## Species in region
 

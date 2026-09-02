@@ -17,45 +17,41 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-ESPÈCE-TYPE : M. expansa Sol. ex PLANCH.
+TYPE SPECIES: M. expansa Sol. ex PLANCH.
 
 – Dinklagea GILG, Notizbl. Bot. Gart. Berlin 7: 242 (1897); NPF 3 (3), Nachtr. 1: 190 (1897).
 
-ESPÈCE-TYPE : D. macrantha GILG
+TYPE SPECIES: D. macrantha GILG
 
 = M. macrantha (GILG) SCHELLENB.
 
 ---
 
-Lianes ou arbustes sarmenteux. Rameaux cylindriques ou très légèrement lobés ; bois toujours (?) sans phloème intraxylaire ou très légèrement lobé.
+Lianes or sarmentose shrubs. Branches cylindrical or very slightly lobed; wood always (?) without intraxylary phloem or very slightly lobed.
 
-Feuilles imparipennées ; folioles opposées ou subopposées, entières, symétriques ou presque ; nervation se résolvant en un système dense de fines veinules parallèles.
+Leaves imparipinnate; leaflets opposite or subopposite, entire, symmetric or nearly so; venation resolving into a dense system of fine parallel veinules.
 
-### Inflorescences axillaires en panicules ou en racèmes.
+### Inflorescences axillary in panicles or racemes.
 
-Fleurs 5-mères, hétérotri- ou hétérodistylées, rougeâtres à jaunes. Sépales connés à la base, préfloraison valvaire. Pétales plus longs que les sépales, libres, préfloraison imbriquée. Androgynophore court mais net. Étamines en 2 cycles, libres, les 5 oppositisépales plus longues que les oppositipétales. Pistil à 5 carpelles libres.
+Flowers 5-merous, heterotrior heterodistylous, reddish to yellow. Sepals connate at the base, valvate in bud. Petals longer than the sepals, free, imbricate in bud. Androgynophore short but distinct. Stamens in 2 cycles, free, the 5 antisepalous longer than the antipetalous. Pistil with 5 free carpels.
 
-Fruits : follicules 1-5 par fleur, base contractée, sommet en bec ou non, intérieur glabre, déhiscence selon une suture ventrale découvrant des graines pendantes ; intérieur du péricarpe se séparant de l'exocarpe à maturité. Calice persistant et en général accrescent sous le fruit.
+Fruits: follicles 1–5 per flower, base constricted, apex beaked or not, interior glabrous, dehiscence along a ventral suture revealing pendulous seeds; interior of the pericarp separating from the exocarp at maturity. Calyx persistent and generally accrescent beneath the fruit.
 
-Graine solitaire, subovoïde, fixée à la suture ventrale ; testa luisant et entièrement charnu (sarcotesta) ou avec une partie mince du côté dorsal, sarcotesta muni d'un appendice filiforme reliant la graine à la base du follicule ; hile ventral ; radicule apicale ; embryon avec cotylédons minces plats et nettement nervés, entièrement inclus dans un albumen abondant.
+Seed solitary, subovoid, attached to the ventral suture; testa shiny and entirely fleshy (sarcotesta) or with a thin part on the dorsal side, sarcotesta bearing a filiform appendage connecting the seed to the base of the follicle; hilum ventral; radicle apical; embryo with thin flat clearly-nerved cotyledons, entirely enclosed in abundant albumen.
 
-### Germination actuellement considérée comme épigée.
+### Germination currently considered epigeal.
 
-Ce genre a 4 espèces et un hybride putatif d'Afrique tropicale humide. Son aire s'étend de la Guinée occidentale à l'Est du Zaïre et de la Centrafrique au Nord de l'Angola. Dans les régions plus sèches il est limité aux forêts-galeries. Au Gabon, on reconnaît 3 espèces ainsi que cet hybride.
+This genus comprises 4 species and a putative hybrid from humid tropical Africa. Its range extends from western Guinea to eastern Zaire and from the Central African Republic to northern Angola. In drier regions it is restricted to gallery forests. In Gabon, 3 species are recognized as well as this hybrid.
 
-1. Pétales avec 2 lobes latéraux ; étanines de la même fleur sensiblement de longueur égale, pistil inégal à celles-ci (hétérodistylie). Folioles coriaces ; bouton floral 3-3,5 × 2-2,5 mm juste à l'ouverture du calice ..... 3. M. macrantha
+1. Petals with 2 lateral lobes; stamens of the same flower approximately equal in length, pistil unequal to them (heterodistyly). Leaflets coriaceous; floral bud 3–3.5 × 2–2.5 mm just at the opening of the calyx ..... 3. M. macrantha
 
-1'. Pétales ne présentant pas de tels lobes ; étamines en 2 cycles de longueur net-
+1'. Petals not presenting such lobes; stamens in 2 cycles of clearly different lengths, pistils unequal to one or the other cycle (heterotristyly);
 
-tement différentes, pistils inégaux à l'un ou l'autre cycle (hétérotristylie) ;
+leaflets papyraceous; floral bud 1–2.7 × 1–1.8 mm just at the opening of the
 
-folioles papyracées ; bouton floral 1-2,7 × 1-1,8 mm juste à l'ouverture du
+calyx.
 
-calice.
-
-2. Pistil avec des poils sphériques sur tout le style, indumentum de longs poils sur tout l'ovaire; fruit toujours avec de longs poils de >0,3 mm, nettement mélangés avec des poils glandulaires et sphériques; bouton floral sphérique au moment de l'ouverture du calice complètement développé ..... 2. M. griffo
+2. Pistil with spherical hairs throughout the style, indumentum of long hairs throughout the ovary; fruit always with long hairs of >0.3 mm, clearly mixed with glandular and spherical hairs; floral bud spherical at the moment of opening of the fully developed calyx ..... 2. M. griffo
 
 ## Species in region
 

@@ -17,15 +17,11 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Perennial herbs, sometimes lianescent, monoecious or rarely dioecious; stems glabrous, villous or rarely tomentose. Tendrils 2- to 7-fid, rarely simple. Leaves simple or 3- to 5-foliolate; blade, if simple, ovate-cordate, 3- to 7-lobed or more rarely entire-margined. Inflorescences with flowers solitary or fasciculate. Male flowers small; receptacle campanulate or subcylindric; calyx with 5 lobes; corolla campanulate, yellow, white or pale green, with ovate to oblong lobes; stamens 3, inserted on the receptacle, 2 bithecate and 1 monothecate or all 3 bithecate, with free, linear filaments, anthers basi-medifixed, free or sometimes coherent, with duplicated or triplicated locules; staminodes 3; pistillode small or absent. Female flowers with perianth similar to that of male flowers; ovary ovoid, obloid or ellipsoidal, 3-locular, with 1 to 3 erect ovules per locule; stigmas 3, reflexed, dilate. Fruits dry or fleshy, green, red or black at maturity, ovoid to subglobose, indehiscent, often with a very bitter taste, with 1 to 30 seeds. Seeds erect, with ovate to oblong outline, rarely triangular, somewhat compressed, most often smooth, non-marginate.
 
-Herbes pérennes, parfois lianescentes, monoïques ou rarement dioïques; tiges glabres, villeuses ou rarement tomenteuses. Vrilles 2- à 7-fides, rarement simples. Feuilles simples ou 3- à 5-foliolées; limbe, si simple, ovale-cordiforme, 3- à 7-lobé ou plus rarement à bord entier. Inflorescences à fleurs solitaires ou fasciculées. Fleurs mâles petites; réceptacle campanulé ou subcylindrique; calice à 5 lobes; corolle campanulée, jaune, blanche ou vert pâle, à lobes ovales à oblongs; étamines 3, insérées sur le réceptacle, 2 bithèques et 1 monothèque ou les 3 bithèques, à filets libres, linéaires, anthères basi-médifixes, libres ou parfois cohérentes, à loges dupliquées ou tripliquées; staminodes 3; pistillode petit ou absent. Fleurs femelles à périanthe semblable à celui des fleurs mâles; ovaire ovoïde, obloïde ou ellipsoïdal, 3-loculaire, avec 1 à 3 ovules dressés par loge; stigmates 3, réfléchis, dilatés. Fruits secs ou charnus, verts, rouges ou noirs à maturité, ovoïdes à subglobuleux, indéhiscents, souvent à goût très amer, avec 1 à 30 graines. Graines dressées, de contour ovale à oblong, rarement triangulaire, un peu comprimées, le plus souvent lisses, non marginées.
+Genus with 50 to 60 species from fluvial forest and forest margins, especially in tropical South America, a few species in Mexico and southern United States; in Africa, only one species in West and Central Africa and also in Madagascar.
 
-Genre avec 50 à 60 espèces de la forêt fluviale et des lisières, surtout dans l’Amérique du Sud tropicale, quelques espèces au Mexique et au sud des États-Unis ; en Afrique, seulement une espèce en Afrique de l’Ouest et centrale et aussi à Madagascar.
-
-BIBLIOGRAPHIE : Duchen & Renner (2010), Jeffrey (1971), Keraudren (1967), Keraudren-Aymonin (1975), Schaefer & Renner (2011a).
-
----
+BIBLIOGRAPHY: Duchen & Renner (2010), Jeffrey (1971), Keraudren (1967), Keraudren-Aymonin (1975), Schaefer & Renner (2011a).
 
 ## Species in region
 

@@ -17,13 +17,11 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Tall perennial grasses with lanceolate petiolate leaves and paniculate inflorescences. Flowers monoecious; both sexes are on separate uniflorous spikelets but nevertheless borne by the same inflorescence. One or two female sessile spikelets and one male pedicellate spikelet at each node of the inflorescence branches.
 
-Grandes herbes pérennes à feuilles lancéolées pétiolées et inflorescences en panicule. Fleurs monoïques; les deux sexes sont sur des épilets uniflores séparés mais portés cependant par la même inflorescence. Un ou deux épilets sessiles femelles et un épillet pédicellé mâle à chaque nœud des branches de l'inflorescence.
+Male spikelets with two short membranous glumes; lemma oval lanceolate, palea narrow linear. Lodicules absent, 6 stamens. Female spikelets with similar glumes, shorter than the spikelet. Lemma accrescent, swollen at maturity into a closed envelope except for a small opening through which the stigmas pass. Palea narrow, linear, included within. Two lodicules; staminodes sometimes present; style with 3 branches.
 
-Épillets mâles à deux glumes membraneuses courtes; lemma ovale lancéolée, paléa linéaire étroite. Lodicules nulles, 6 étamines. Épillets femelles à glumes semblables, plus courtes que l'épillet. Lemma accrescente renflée à maturité en une enveloppe close à l'exception d'un petit orifice par où passent les stigmates. Paléa étroite, linéaire, incluse à l'intérieur. Deux lodicules; staminodes parfois présents; style à 3 branches.
-
-Ce genre compte 5 espèces distribuées entre l’Afrique, l’Asie et l’Océanie. Une seule est africaine.
+This genus comprises 5 species distributed between Africa, Asia and Oceania. Only one is African.
 
 ## Species in region
 

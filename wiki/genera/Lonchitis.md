@@ -16,29 +16,23 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Terrestrial ferns, with short, hairy rhizome. Fronds pinnate, not dimorphous, not articulate, with reticulate venation, often pubescent. Sori along the margins, generally confined to the sinuses, indusium absent, replaced by hairs. Sporangia mixed with paraphyses.
 
-Fougères terrestres, à rhizome court, poilu. Frondes pennées, non dimorphes, non articulées, à nervures réticulées, souvent pubescentes. Sores le long des marges, généralement confinés aux sinus, à indusie absente, remplacée par des poils. Sporanges mêlés de paraphyses.
+Type species: Lonchitis aurita L.
 
-Espèce type : Lonchitis aurita L.
+About fifteen species in tropical or southern Africa, and in tropical America.
 
-Une quinzaine d'espèces en Afrique tropicale ou australe, et en Amérique tropicale.
+1. Frond with entire or scarcely lobed pinnae, a few rare acicular hairs, appressed, stiff, on the rachises and veins. 1. L. Currori.
 
-1. Fronde à pennes entières ou à peine lobées, quelques rares poils
+1'. Frond bipinnatifid to tripinnatifid.
 
-aciculaires, couchés, raides, sur les rachis et nervures. 1. L. Currori.
+2. Frond bipinnatifid to bipinnate, pinnules shortly petiolulate.
 
-1'. Fronde bipinnatifide à tripinnatifide.
+3. Frond pale green, bipinnatifid to bipinnate; paraphyses with recurved apex ..... 2. L. reducta.
 
-2. Fronde bipinnatifide à bipennée, pinnules courtement pétiolulées.
+3'. Frond dark green, bipinnate; paraphyses with acute apex ..... 3. L. Tisserantii.
 
-3. Fronde vert clair, bipinnatifide à bipennée; paraphyses à extrémité recourbée ..... 2. L. reducta.
-
-3'. Fronde vert foncé, bipennée; paraphyses à extrémité
-
-aiguë..... 3. L. Tisserantii.
-
-2'. Fronde tripinnatifide; pinnules ailees à la base.... 4. L. gracilis.
+2'. Frond tripinnatifid; pinnules winged at the base .... 4. L. gracilis.
 
 ## Species in region
 

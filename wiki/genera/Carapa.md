@@ -17,73 +17,15 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Trees or shrubs, dioecious, with persistent or semipersistent foliage; cross-section without remarkable exudate. Leaves broad, compound, paripinnate or exceptionally imparipinnate, in terminal panicles and interspersed with stubs of poorly developed leaves; petiole often thickened at base and usually provided with conspicuous glands. Inflorescences axillary or sometimes pseudo-terminal, paniculate in form. Flowers 4–5-merous, functionally unisexual but with vestiges of the opposite sex well developed, male and female flowers similar at first sight; calyx patellifform or cupuliform, with rounded lobes or sepals nearly free; petals 4–5(–6), free, white to yellow or pink; staminal tube cylindric or urceolate, 8–10-lobed at apex, anthers (or anthérodes) 8–10(–11), nearly sessile, included, inserted between the lobes of the tube; disk thick, cupuliform to annular, free from the staminal tube; ovary globose to ovoid or cylindric, 4–5-locular, with 2–8 superposed ovules per locule; stigma disciform. Fruit capsular, large, pendent, pedunculate, subglobose or cylindric, with septicidal dehiscence into 4 or 5 coriaceous valves. Seeds 2–8 per locule, large, angular from mutual compression, with thick woody testa; cotyledons fused.
 
-Arbres ou arbrisseaux dioïques, à feuillage persistent ou semipersistent ; tranche sans
+Transatlantic tropical genus comprising ± 24 species, of which 12 are African and 5 from Gabon.
 
-exsudat remarquable. Feuilles larges, composées, paripennées ou par exception impari -
+Taxonomic note: Recently, the taxonomy of this genus has changed considerably. The true C. procera DC., mentioned in the Check-list of vascular plants of Gabon (Sosef et al., 2006), does not occur in Gabon. On the other hand, the identification of Carapa material from Gabon with the aid of the study by Kenfack (2011) often leads to unsatisfactory results. The interpretation of the original diagnoses of the entities described by Harms (1915, 1917) and the conception of some new species by Kenfack (2011) seem to us debatable. Given the molecular studies of Carapa in Africa by Duminil et al. (2012) and those on the phylogeography of Carapa in South America by Scotti-Saintagne et al. (2013), which demonstrate the complexity of the genus and the polymorphism of its species as a result of frequent interspecific gene flow, we have chosen for Gabon a more cautious and practical treatment. The ecology of the species is still poorly known and further research, especially field work, is desirable.
 
-pennées, en panaches terminaux et entremêlées de chicots de feuilles mal développées ;
+Bibliography: Kenfack (2011), Noamesi (1958), Pennington & Styles (1975), Staner & Gilbert (1958).
 
-pétiole à base souvent épaissie et d’habitude pourvu de glandes apparentes. Inflores -
-
-cences axillaires ou parfois pseudo-terminales, en forme de panicules. Fleurs 4–5-mères,
-
-fonctionnellement unisexuées, mais vestiges du sexe opposé bien développés, fleurs
-
-mâles et femelles similaires à première vue ; calice patelliforme ou cupuliforme, à lobes
-
-arrondis ou sépales presque libres ; pétales 4–5(–6), libres, blancs à jaunes ou roses ;
-
-tube staminal cylindrique ou urcéolé, 8–10-lobé au sommet, anthères (ou anthérodes)
-
-8–10(–11), quasi-sessiles, incluses, insérées entre les lobes du tube ; disque épais, cu -
-
-puliforme à annulaire, libre du tube staminal ; ovaire globuleux à ovoïde ou cylindrique,
-
-4–5-loculaire, à 2–8 ovules superposés par loge ; stigmate disciforme. Fruit capsulaire,
-
-large, pendant, pédonculé, subglobuleux ou cylindrique, à déhiscence septifrage en 4 ou
-
-5 valves coriaces. Graines 2–8 par loge, grosses, anguleuses par compression mutuelle,
-
-à testa épais ligneux ; cotylédons fusionnés .
-
-Genre tropicale transatlantique comprenant ± 24 espèces dont 12 africaines et 5 au Gabon.
-
-Note taxonomique : Récemment, la taxonomie de ce genre a beaucoup changée. Le vrai
-
-C. procera DC., mentionné dans le Check-list des plantes vasculaires du Gabon (Sosef
-
-et al. , 2006), n’existe pas au Gabon. Par contre, l’identification du matériel de Carapa
-
-en provenance du Gabon avec l’aide de l’étude de Kenfack (2011) mène souvent à des
-
-résultats insatisfaisants. L’interprétation des diagnoses originales des entités décrites par
-
----
-
-Harms (1915, 1917) et la conception de quelques espèces nouvelles par Kenfack (2011)
-
-nous paraissent discutables. Compte tenu des études moléculaires de Carapa en Afrique
-
-de Duminil et al . (2012) et celles de la phylogéographie de Carapa en Amérique du Sud
-
-par Scotti-Saintagne et al. (2013), qui montrent la complexité du genre et le polymor -
-
-phisme de ses espèces par suite de flux de gènes interspécifique fréquents, nous avons
-
-choisi pour le Gabon un traitement plus réticent et pratique. L’écologie des espèces est
-
-encore mal connue et la recherche supplémentaire, surtout de terrain, est souhaitable.
-
-B : Kenfack (2011), Noamesi (1958), Pennington & Styles (1975), Staner &
-
-ibliographie
-
-Gilbert (1958).
-
-### Clé des espèces
+### Key to species
 
 ## Species in region
 

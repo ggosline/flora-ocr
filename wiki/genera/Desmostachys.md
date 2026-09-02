@@ -17,31 +17,29 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Shrub or small tree with alternate leaves. Inflorescence in a spike or raceme of fascicles, axillary or supra-axillary, multiflorate. Flowers ♀ sessile, 4- or 5-merous. Petals free or connate, pubescent on the external face. Stamens 4–5, free or adnate to the corolla. Ovary glabrous or pubescent. Style long, glabrous or pubescent, terminating in a capitate stigma. Drupe ellipsoid. Embryo as long as the seed.
 
-Arbuste ou arbrisseau à feuilles alternes. Inflorescence en épi ou en grappe de fascicules, axillaire ou supra-axillaire, multiflore. Fleurs ♀ sessiles, 4- ou 5-mères. Pétales libres ou soudés, pubescents à la face externe. Étamines 4-5, libres ou soudées à la corolle. Ovaire glabre ou pubescent. Style long, glabre ou pubescent, se terminant par un stigmate capité. Drupe ellipsoïde. Embryon aussi long que la graine.
+Type species: D. planchonianus Miers.
 
-Espèce-type : D. planchonianus Miers.
+This genus comprises 7 species in tropical Africa and Madagascar.
 
-Ce genre groupe 7 espèces en Afrique tropicale et à Madagascar.
+4 species and 1 variety are present in Cameroon and Gabon.
 
-4 espèces et 1 variété sont présentes au Cameroun et au Gabon.
+1. Inflorescence in a raceme or spike, simple.
 
-1. Inflorescence en grappe ou en épi, simple.
+2. Pentamery; gamopetalous; stamens adnate to the corolla tube; flower 1 cm long; inflorescence broadly supra-axillary; corolla pubescent externally; style and stamens projecting ± well beyond the corolla tube...
 
-2. Pentamérie; gamopétalie; étamines soudées au tube de la corolle; fleur longue de 1 cm; inflorescence largement supra-axillaire; corolle pubescente extérieurement; style et étamines dépassant ± largement le tube de la corolle...
+2'. Tetramery; dialypetalous; stamens free; inflorescence axillary or slightly supra-axillary; corolla glabrous externally; style short and stamens equal to or shorter than the corolla tube; ovary glabrous..... 2. D. tenuifolius.
 
-2'. Tétramérie; dialypétalie; étamines libres; inflorescence axillaire ou légèrement supra-axillaire; corolle glabre extérieurement; style court et étamines égales ou moins longues que le tube de la corolle; ovaire glabre..... 2. D. tenuifolius.
+3. Inflorescences 15–20 cm long; leaves of large size... var. tenuifolius.
 
-3. Inflorescences longues de 15-20 cm; feuilles de grande taille... var. tenuifolius.
+3'. Inflorescences of small size, 5–7 cm long, fasciculate; leaves of small size... var. angustifolius.
 
-3'. Inflorescences de petite taille, longues de 5-7 cm, fasciculées; feuilles de petite taille var. angustifolius.
+1'. Inflorescence in a raceme of glomerules or in a glomerule.
 
-1'. Inflorescence en grappe de glomérules ou en glomérule.
+4. Inflorescence exceeding 2 cm in length..... 3. D. brevipes.
 
-4. Inflorescence dépassant 2 cm de longueur..... 3. D. brevipes.
-
-4'. Inflorescence longue de moins de 2 cm..... 4. D. oblongifolia.
+4'. Inflorescence less than 2 cm long..... 4. D. oblongifolia.
 
 ## Species in region
 

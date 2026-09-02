@@ -17,81 +17,29 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Shrub or small tree, with repeated dichotomous branching, with sparse white latex.
 
-Arbuste ou petit arbre , jUDPL¿FDWLRQVGLFKRWRPLTXHVUpSpWpHV , à latex blanc peu abondant.
+Leaves opposite, sessile or shortly petiolate, those of a pair equal or unequal. Inflorescences in the forks, with large foliaceus bracts. Flowers 5-merous; base of calyx with some small internal colleters; corolla with lobes overlapping to the left; stamens deeply included, anthers entirely fertile, sessile; ovary bicarpellate, with a basal disciform thickening; pistil head midway along the anthers. Fruits syncarps, with 2 united carpels. Seeds obliquely ellipsoid, with a deep hilar groove and longitudinal grooves fairly shallow on the other side, enveloped by an arillate papillose structure with a honeycomb-like arrangement, ruminate albumen, embryo nearly straight, spathulate; cotyledons broadly ovate.
 
-Feuilles opposées, sessiles ou courtement pétiolées, celles d’une paire égales ou inégales. In-
-
-ÀRUHVFHQFHV dans les fourches , à grandes bractées foliacées . Fleurs 5-mères ; base du calice
-
-DYHF TXHOTXHV SHWLWV FROOpWqUHV LQWHUQHV FRUROOH j OREHV U ecouvrant vers la gauche ; éta-
-
-mines profondément incluses, anthères entièrement fertiles, sessiles ; ovaire bicarpellé, avec
-
-un épaississement disciforme basal ; tête du pistil à mi-chemin le long des anthères. Fruits
-
-syncarpes, à 2 carpelles unis. Graines REOLTXHPHQWHOOLSVRwGDOHVDYHFXQVLOORQKLODLUHSUR -
-
-IRQGHWGHVVLOORQVORQJLWXGLQDX[DVVH]SHXSURIRQGVGHO¶DXWUHF{Wphqyhorssphvg¶XQDULOOH
-
-SDSLOOHXVHVDYHFXQHVWUXFWXUHHQQLGG¶DEHLOOHVDOEXPHQUXPLQpHPEU\RQSUHVTXHGURLW
-
-spatulé ; cotylédons largement ovales.
-
-*HQUHPRQRW\SLTXHOLPLWpDX*DERQjOD5pSXEOLTXHGX&RQJRHWjO¶$QJROD&DELQGD
+Monotypic genus limited to Gabon, the Republic of the Congo, and Angola. Cabinda.
 
 ---
 
-Dessin par Wil Wessel-Brand, Naturalis Biodiversity Center (©), reproduit à partir de Leeuwenberg &
-
-Berndsen (1988).
+Drawing by Wil Wessel-Brand, Naturalis Biodiversity Center (©), reproduced from Leeuwenberg & Berndsen (1988).
 
 ---
 
-Notes : Endress et al. (2019) ont mentionné sa présence au Cameroun, mais aucun échantillon à l’appui
+Notes: Endress et al. (2019) mentioned its presence in Cameroon, but no supporting specimen is known.
 
-n’est connu.
+B: Endress et al. (2019), Hallé (1971), Leeuwenberg (1995).
 
-B : Endress et al. (2019), Hallé (1971), Leeuwenberg (1995).
+BIBLIOGRAPHY
 
-IBLIOGRAPHIE
+Criocerasdipladeniiflorus (Stapf) K.Schum. Plate 27; Figure 4(D-F) in Engler & Prantl, Nat.Pflanzenfam.Nachträge 2: 56 (1900).
 
-&ULRFHUDVGLSODGHQLLÀRUXV (Stapf) K.Schum. Planche 27 ; Figure 4(D-F)
+Shrub or small tree measuring up to 8 m in height, branches glabrous. Leaf glabrous, sessile or with petiole reaching 3 mm, limb narrowly obovate to elliptic, 2–5 times as long as wide, 4–11 × 2–7 cm, cordate or subcordate at the base, acuminate to apiculate at the apex; secondary nerves 6 to 12 pairs, incurved, tertiary venation reticulate. Inflorescence bracts 1 to 3, 4–11 × 2–7 cm, base rounded, covering the pedicel and the base of the flower, apex acuminate. Flower fragrant, pendulous; pedicel of 1–2 cm, covered with bractioles 5 mm, sepals of calyx globose, 8–9 × 6–7 mm, acuminate, glabrous; corolla 9.5–19 cm long, white, glabrous on the outside, with a pilose band 2 cm high below the insertion of the stamens, tube 8–13.5 cm long, basal part narrowly cylindrical, 2–3 mm wide, abruptly enlarged to 8–10 mm at the insertion of the stamens, lobes stellate-elliptic, 2–3 times as long as wide, 4–6 cm long, rounded; stamens with anther 1–1.5 mm long, pistil glabrous with ovary abruptly retracted in the style; style slender. Fruit nearly transversely ellipsoidal, 40–50 × 20–25 × 15–25 mm, with narrow ridge(s) along the entire length, apiculate with a recurved acumen. Seed 7–11 mm long.
 
-in Engler & Prantl, 1DW3ÀDQ]HQIDP1DFKWUlJH 2 : 56 (1900).
-
-Arbuste ou petit arbre PHVXUDQWMXVTX¶jPGHKDXWHXUUDPHDX[JODEUHV Feuille glabre,
-
-sessile ou à pétiole atteignant 3 mm OLPEHpWURLWHPHQWRERYDOHjHOOLSWLTXH±±
-
-IRLVDXVVLORQJTXHODUJHGH±î±FPFRUGpRXVXEFRUGpjODEDVHDFXPLQpjDSLFXOp
-
-au sommet ; nervures secondaires 6 à 12 paires, incurvées, nervation tertiaire réticulée. ,QÀR -
-
-rescence bractées 1 à 3 , de 4–11 × 2–7 cm , base arrondie
-
-UHFRXYUDQW OH Spglfhooh HW OD EDVH GH OD ÀHXU VRPPHW DFXPLQp Fleur odorante, pendante ;
-
-Spglfhoohghfpfrxyhuwgheudfwprohvvpsdorwghvfdolfhjorehvgh±î±PPDFX -
-
-minés, glabres ; corolle longue de 9,5–19 cm , blanche, glabre à l’extérieur , avec une ceinture
-
-pileuse haute de 2 cm sous l’insertion des étamines, à tube long de 8–13,5 cm, partie basale
-
-étroitement cylindrique, large de 2–3 mm EUXVTXHPHQWpODUJLVXU±PPjO¶LQVHUWLRQ
-
-GHVpWDPLQHVjOREHVpWDOpVHOOLSWLTXHV±IRLVDXVVLORQJVTXHODUJHVORQJVGH±FP
-
-DUURQGLVpWDPLQHVjDQWKqUHORQJXHGH±PPSLVWLOJODEUHjRYDLUHUpWUpFLEUXVTXHPHQW
-
-dans le style ; style grêle. Fruit presque transversalement ellipsoïdal , de 40–50 × 20–25 ×
-
-15–25 mm, avec des crête(s) étroite(s) sur toute la longueur , apiculé avec un acumen re-
-
-courbé. Graine longue de 7–11 mm.
-
-Distribution *DERQ5pSXEOLTXHGX&RQJRHW$QJROD&DELQGDDX*DERQ(VWXDLUH0R\HQ2JRRXp
+Distribution: Gabon, Republic of the Congo, and Angola. Cabinda in Gabon. Estuary, Middle Ogooué.
 
 ## Species in region
 

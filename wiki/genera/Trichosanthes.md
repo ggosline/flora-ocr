@@ -17,25 +17,19 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Herbs annual or perennial, dioecious or rarely monoecious; stems several metres in length. Tendrils 2- to 5-fid or rarely simple, sometimes with apical adhesive discs. Leaves simple or rarely compound with 3 or 5 leaflets, petiolate; blade entire or 3- to 7(-9)-palmately lobed, with margin generally denticulate. Inflorescences: the male ones in racemes or rarely with solitary flower coaxial with a raceme, the female ones with solitary flower or rarely in raceme. Flowers generally fragrant and opening at night. Male flowers: receptacle elongate, tubular to cylindric, often dilated at apex; sepals 5, triangular to elliptic-ovate, with margin entire, dentate or lacinate; petals long-fimbriate or more rarely entire, white, rarely pink or red; stamens 3, filaments inserted at mid-height of tube, free, very short, 2 anthers bithecous, 1 monothec, with lobes tripiqued. Female flowers: perianth similar to that of male flowers; ovary ovoid to fusiform, glabrous to villous, with 3 placentas and numerous almost pendulous or horizontal ovules; style slender to filiform, with 3 entire or bifid stigmas. Fruits fleshy, pulpous, globose to ovoid or ellipsoidal to fusiform, indehiscent, generally glabrous and smooth, sometimes ribbed, orange to red or rarely blue metallic at maturity, with numerous seeds. Seeds with elliptic-oblong to ovate outline, sagittate or rounded at base; testa smooth, yellowish to white, black or dark brown, with or without distinct margin.
 
-Herbes annuelles ou vivaces, dioïques ou rarement monoïques; tiges de plusieurs mètres de longueur. Vrilles 2- à 5-fides ou rarement simples, parfois avec des crampons apicaux. Feuilles simples ou rarement composé et à 3 ou 5 folioles, pétiolées; limbe entier ou 3- à 7(-9)-palma-tilobé, à marge généralement denticulée. Inflorescences: les mâles en grappes ou rarement à fleur solitaire coaxillant une grappe, les femelles à fleur solitaire ou rarement en grappe. Fleurs généralement parfumées et s'ouvrant la nuit. Fleurs mâles: réceptacle allongé, tubuleux à cylindrique, souvent dilaté au sommet; sépales 5, triangulaires à elliptiques-ovales, à marge entière, dentée ou laciniée; pétales longuement fimbriés ou plus rarement entiers, blancs, rarement roses ou rouges; étamines 3, filets insérés à mi-hauteur du tube, libres, très courts, 2 anthères bithèques, 1 monothèque, à loges tripiqués. Fleurs femelles: périanthe semblable à celui des fleurs mâles; ovaire ovoïde à fusiforme, glabre à villeux, à 3 placentas et de nombreux ovules presque pendants ou horizontaux; style grêle à filiforme, à 3 stigmates entiers ou bifides. Fruits charnus, pulpeux, globuleux à ovoïdes ou ellipsoidaux à fusiformes, indéhiscents, généralement glabres et lisses, parfois côtelés, orange à rouges ou rarement bleu métallique à maturité, à nombreuses graines. Graines de contour elliptique-oblong à ovale, sagittées ou arrondies à la base; testa lisse, jaunâtre à blanc, noir ou brun foncé, avec ou sans marge distincte.
+The genus comprises about 100 Asian species, from India to north-east Australia; in Africa and Gabon one species is cultivated and could sometimes escape.
 
-Le genre comprend environ 100 espèces asiatiques, de l’Inde au nord-est de l’Australie; en Afrique et au Gabon une espèce est cultivée et pourrait parfois s’échapper.
+BIBLIOGRAPHY: De Boer et al. (2012), Jeffrey (1967), Keraudren (1967), Keraudren-Aymonin (1975), Schaefer & Renner (2011a).
 
-BIBLIOGRAPHIE: De Boer et al. (2012), Jeffrey (1967), Keraudren (1967), Keraudren-Aymonin (1975), Schaefer & Renner (2011a).
-
-Trichosanthes cucumerina L. var. anguina (L.) Haines     Planche 35(6-10); Figure 6(E)
+Trichosanthes cucumerina L. var. anguina (L.) Haines     Plate 35(6-10); Figure 6(E)
 
 Bot. Bihar Orissa 3: 388 (1922).
 
 T. anguina L., Sp. pl. 2: 1008 (1753).
 
-Herbe annuelle, monoïque; tige grêle, ramifiée, anguleuse, pubérulente. Vrilles 2-fides. Feuille: pétiole 3–7 cm; limbe de contour suborbiculaire à orbiculaire-réniforme, ±profondément (3–5)−(7)−lobé, 8−16 × 6−18 cm, membraneux, les lobes généralement obovales,
-
----
-
-densément pubérulents dessous, subglabres dessus, à bord finement denticulés. Inflorescence : la mâle généralement avec 8 à 15 fleurs, à pédoncule pubérulent, de 10–18 cm, la femelle à fleur solitaire, à pédoncule atteignant 1 cm ; bractées longues de 3(−5) mm. Fleur mâle : pédicelle dressé, 5–12 cm ; réceptacle subcylindrique, légèrement dilaté au sommet, de 2,5–3 × 4–5 mm, pubérulent ; sépales réfléchis, longs de ±2 mm ; pétales longuement fimbriés ou plus rarement entiers, blancs ; étanines à filet de 1,5–2 mm, anthère longue de 2–3 mm. Fleur femelle : ovaire étroitement fusiforme, ±villeux. Fruit cylindrique, de 100–200 × 3–4 cm, lisse, parfois spiralé. Graine obloïde, de 14–17 × 7–9 mm, finement rugueuse, à marge ondulée.
+Annual herb, monoecious; stem slender, branched, angular, puberulent. Tendrils 2-fid. Leaf: petiole 3–7 cm; blade suborbicular to orbicular-reniform in outline, ± deeply (3–5)−(7)−lobed, 8−16 × 6−18 cm, membranous, the lobes generally obovate, densely puberulent below, subglabrous above, with margin finely denticulate. Inflorescence: the male one generally with 8 to 15 flowers, with puberulent peduncle, 10–18 cm, the female one with solitary flower, with peduncle reaching 1 cm; bracts 3(−5) mm long. Male flower: pedicel erect, 5–12 cm; receptacle subcylindric, slightly dilated at apex, 2.5–3 × 4–5 mm, puberulent; sepals reflexed, ± 2 mm long; petals long-fimbriate or more rarely entire, white; stamens with filament 1.5–2 mm, anther 2–3 mm long. Female flower: ovary narrowly fusiform, ± villous. Fruit cylindric, 100–200 × 3–4 cm, smooth, sometimes spiralled. Seed oblong, 14–17 × 7–9 mm, finely rugose, with undulate margin.
 
 ## Species in region
 

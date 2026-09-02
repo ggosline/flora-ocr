@@ -17,23 +17,21 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Low herbs with septate crispate hairs. Stipules united to the petiolar bases, 3-lobed, narrow; the central lobe longer than the lateral ones. Leaves distinctly petiolate. Blade ovate, veined.
 
-Herbes basses à poils cloisonnés crispés. Stipules unies aux bases pétiolaires, à 3 lobes, étroits; le lobe central est plus long que les latéraux. Feuilles distinctement pétiolées. Limbe ové nervuré.
-
-Inflorescences contractées sessiles pseudo-axillaires (ramification unilatérale) ou terminales entre les bases des bifurcations d'axes. Fleurs sessiles. Calices à lobes un peu inégaux. Corolle à tube long, glabre à la gorge. Hétérostylie variable à nulle.
+Inflorescences contracted, sessile, pseudo-axillary (unilateral branching) or terminal between the bases of axis bifurcations. Flowers sessile. Calyces with somewhat unequal lobes. Corolla with long tube, glabrous at the throat. Heterostyly variable to absent.
 
 ---
 
-PL. 18. — Pentodon pentandrus (Sch. et Th.) Vatke (N. Hallé 1560) : 1, rameau; 2, bouton; 3, préfloraison de la corolle; 4 et 4', fleur épanouie; 5, coupe de fleur en long (en partie d'après F. Hallé 147); 6, fruit vidé de ses graines; 7, graine vue par dessous et profil.
+PL. 18. — Pentodon pentandrus (Sch. et Th.) Vatke (N. Hallé 1560): 1, branch; 2, bud; 3, corolla prefloration; 4 and 4', open flower; 5, longitudinal flower section (partly after F. Hallé 147); 6, fruit emptied of its seeds; 7, seed viewed from below and profile.
 
 ---
 
-Pollen tricolporé. Style glabre. Disque ovale petit. Ovaire turbiné à 2 loges. Placentas ovoïdes peltés. Nombreux ovules serrés-contigus prismatiques.
+Pollen tricolporate. Style glabrous. Disc small, oval. Ovary turbinate, 2-locular. Placentas ovoid, peltate. Numerous ovules tightly contiguous, prismatic.
 
-Fruit capsulaire elliptique à sommet tronqué déhiscent entre les lobes persistants.
+Fruit capsular, elliptic, with truncate apex, dehiscent between the persistent lobes.
 
-Type du genre : Parapentas silvatica (K. Schum.) Bremek., du Tanganyika. 4 espèces de ce genre en Afrique tropicale. Une seule au Gabon.
+Type of the genus: Parapentas silvatica (K. Schum.) Bremek., from Tanganyika. 4 species of this genus in tropical Africa. One only in Gabon.
 
 ## Species in region
 

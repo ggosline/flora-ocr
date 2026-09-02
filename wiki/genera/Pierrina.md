@@ -17,19 +17,17 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Shrubs, cauliflorous and ramiflorous. Branchlets subtétragones, glabrous; mass of intrapetiolary cataphylls triangular, erect against the branchlet; at the apex of the branchlet main axis generally ending in a pointed persistent stump and sympodial axis with cataphylls at the base. Leaves with short petiole; blade oblong, with slightly asymmetric cuneiform base, with caudate acuminate apex with elongate narrow acumen, with denticulate margin rarely entire, with lateral veins anastomosing in loops.
 
-Arbustes, cauliflores et ramiflores. Rameaux subtétragones, glabres; massif de cataphylles intrapétiolaire triangulaire dressé contre le rameau; à l'extrémité du rameau axe principal en général en moignon pointu persistant et axe sympodial avec cataphylles à la base. Feuilles à pétiole court; limbe oblong, à base cunéiforme légèrement asymétrique, à sommet caudé acuminé avec acumen allongé étroit, à marge denticulée rarement entière, à nervures latérales anastomosées en boucles.
+Inflorescences of isolated flowers or pseudofasciculate on stems and branchlets. Calyx broadly patellifom, entire or festooned; corolla purple, smooth in floral bud and furrowed in contact with the stamens, spreading into 4 lobes at anthesis; stamens numerous, on 3–4 concentric whorls, with filaments coalescent at the base and oblong anthers as long as the filaments and with poricidal dehiscence; ovary globulous, (3-)4(-5?) locules with approximately 6 ovules per locule, style filiform, stigma somewhat capitate and somewhat lobed. Capsules, obtuse at the base, elongate, sometimes constricted at the middle, fusiform at the apex, bright red at maturity, opening by the apex into (2–3)–4(–5) valves, unilocular; seeds tunicate clustered in a fusiform mass; albumen not ruminate.
 
-Inflorescences de fleurs isolées ou pseudofasciculées sur tiges et rameaux. Calice largement patelliforme, entier ou festonné; corolle pourpre, lisse dans le bouton floral et sillonnée au contact des étamines, s'écartant en 4 lobes à l'épanouissement; étamines nombreuses, sur 3-4 cercles concentriques, à filets coalescents à la base et anthères oblongues aussi longues que les filets et à déhiscence poricide; ovaire globuleux, (3-)4(-5?) loges avec environ 6 ovules par loge, style filiforme, stigmate un peu capité et un peu lobé. Capsules, obtuses à la base, allongées, parfois constrictées au milieu, fusiformes au sommet, rouge vif à maturité, s'ouvrant par l'apex en (2-3)-4(-5) valves, uniloculaires; graines tuniquées agglomérées en une masse fusiforme; albumen non ruminé.
-
-Espèce-type : Pierrina zenkeri Engler.
+Type species: Pierrina zenkeri Engler.
 
 ---
 
-Ce genre présente de grandes affinités avec le genre Brazzeia Baill., mais peut être considéré comme caractérisé par l'androcée avec filet et anthère subégaux, l'ovaire à 4 loges et la capsule oblongue fusiforme, tous autres caractères étant fort similaires entre les deux genres.
+This genus presents great affinities with the genus Brazzeia Baill., but may be considered as characterized by the androecium with filament and anther subequal, the ovary with 4 locules and the oblong fusiform capsule, all other characters being very similar between the two genera.
 
-Pierrina Engl. ne comporte qu'une seule espèce, P. zenkeri Engl., connue seulement au Cameroun à ce jour. Un second taxon (P. longifolia Engl.) qui représentait une espèce de la même région est ici placé en synonymie.
+Pierrina Engl. comprises only a single species, P. zenkeri Engl., known only from Cameroon to date. A second taxon (P. longifolia Engl.) which represented a species from the same region is here placed in synonymy.
 
 ## Species in region
 

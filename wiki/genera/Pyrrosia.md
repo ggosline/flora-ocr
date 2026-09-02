@@ -16,19 +16,17 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Epiphytes, à rhizome rampant, écailleux. Fronde articulée, entière, coriace, plus ou moins couverte d'écailles stellées. Nervures anastomoses; aréoles à nervilles incluses. Sores non acrostichoïdes, arrondis, rarement allongés et confluents; présence de paraphyses stellées.
+Epiphytes, with creeping, scaly rhizome. Frond articulate, entire, coriaceous, more or less covered with stellate scales. Veins anastomosing; areoles with included veinlets. Sori non-acrostichoid, rounded, rarely elongate and confluent; presence of stellate paraphyses.
 
 ---
 
-Environ 100 espèces, de Nouvelle-Zélande en Sibérie, et d'Afrique en Polynésie.
+Approximately 100 species, from New Zealand to Siberia, and from Africa to Polynesia.
 
-Type : Pyrrosia chinensis Mirb.
+Type: Pyrrosia chinensis Mirb.
 
-1. Rhizome longuement rampant, portant des écailles ciliées; frondes très espacées..... 1. P. lanceolata.
+1. Rhizome long-creeping, bearing ciliate scales; fronds very distant..... 1. P. lanceolata.
 
-1'. Rhizome rampant, portant des écailles entières..... 2. P. Mechowii.
+1'. Rhizome creeping, bearing entire scales..... 2. P. Mechowii.
 
 ## Species in region
 

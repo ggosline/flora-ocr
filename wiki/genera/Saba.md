@@ -17,33 +17,13 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Lianes with entwined tendrils, with copious white latex in all parts. Leaves opposite, petiolate, glabrous or with some hairs especially on the nerves, with axillary colleters. Inflorescences terminal or in the forks, rarely also axillary or on the tendrils, lax or condensed with some or numerous flowers. Flowers actinomorphic except for the unequal calyx lobes, fragrant; calyx with erect lobes, the inner ones slightly longer than the outer ones, corolla with tube not thickened above the stamens, with lobes overlapping towards the left, ciliate or not; stamens included, inserted below the middle of the tube; ovary with fused carpels, pistil with oblongoid or ellipsoid head. Fruits syncarpous, in berries with numerous indehiscent seeds, pericarp glabrous, smooth or wrinkled, sclerified. Seeds reaching 12 mm in length.
 
-Lianes à vrilles enroulées , à latex blanc copieux dans toutes les parties. Feuilles opposées, pé-
+A genus with three species limited to tropical Africa, one of which in Gabon.
 
-WLROpHVJODEUHVRXDYHFTXHOTXHVSRLOVVXUWRXWVXUOHVQHUYXUHVDYHFGHVFROOpWqUHVD[LOODLUHV
+B: Beentje (2021), Endress et al. (2019), Leeuwenberg & van Dilst (1989), Omino (2002).
 
-,QÀRUHVFHQFHV terminales ou dans les fourches, rarement aussi axillaires ou sur les vrilles,
-
-Okfkhv RX FRQGHQVpHV DYHF TXHOTXHV RX QRPEUHXVHV ÀHXUV Fleurs actinomorphes sauf les
-
-lobes du calice inégaux, parfumées ; calice à lobes érigés, les intérieurs légèrement plus longs
-
-TXH OHV H[Wpulhxuv FRUROOH j WXEH QRQ pSDLVVL DXGHVVXV GHV pWDPLQHV j lobes recouvrant
-
-vers l a gauche , ciliés ou non ; étamines incluses , insérées sous le milieu du tube ; ovaire a
-
-FDUSHOOHVVRXGpVSLVWLOjWrWHREORwGHRXHOOLSVRwGDOH Fruits syncarpes, en baies à nombreuses
-
-JUDLQHVLQGpKLVFHQWHVSpULFDUSHJODEUHOLVVHRXUXJXHX[VFOpUL¿p Graines atteignant 12 mm
-
-de longueur.
-
-8QJHQUHDYHFWURLVHVSqFHVOLPLWpHVjO¶$IULTXHWURSLFDOHGRQWXQHDX*DERQ
-
-B : Beentje (2021), Endress et al. (2019), Leeuwenberg & van Dilst (1989), Omino (2002).
-
-IBLIOGRAPHIE
+BIBLIOGRAPHY
 
 ## Species in region
 

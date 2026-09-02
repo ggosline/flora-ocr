@@ -17,45 +17,15 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Slender to robust herbs, flowering with or slightly before the leaves; bulb often prolonged into a pseudo-stem formed by the leaf bases. Leaves 1 to several, sessile, with base clasping the floral scape or not; lamina filiform to lanceolate, margins ciliate or with minute teeth. Inflorescence racemose, often lax and unilateral; floral scape, smooth or slightly ribbed; bracts linear to ovate; bracteoles absent. Flowers not articulate, pedicels erect in bud, ascending in flower, then erect in fruit; tepals connate for ¼ to ½ their length, yellowish-green to brownish-green or brown, the outer ones spreading and papillose at the apex, sometimes with an appendage, the inner ones erect, conniving and forming a tube, the apices spreading; stamens with flattened filaments, inserted at the apex of the tube, with dorsifixed anthers, large; ovary sessile or briefly stipitate, oblong, with numerous (± 20) ovules per locule; style short or as long as the ovary. Fruit: loculicidal capsule. Seeds suborbicular, compressed, black.
 
-Herbes grêles à robustes, fleurissant avec ou peu avant les feuilles ; bulbe souvent pro-
+Genus comprising approximately 30 species, distributed in the Mediterranean Region, Africa, Madagascar, South-West Asia to India and Sri Lanka; in Gabon, only one species is known.
 
-longé en une pseudo-tige formée par les bases des feuilles. Feuilles 1 à plusieurs, sessiles,
+Taxonomic note: Molecular studies have shown that in the future, this genus should probably be included in Ornithogalum.
 
-à base embrassant la hampe florale ou non ; limbe filiforme à lancéolé, marges ciliées ou
+B: Obermeyer (1964), Speta (1998b), Stedje (1996).
 
-à dents minuscules. Inflorescence en racème, souvent lâche et unilatéral ; hampe flo-
-
-rale, lisse ou un peu côtelée ; bractées linéaires à ovées ; bractéoles absentes. Fleurs non
-
-articulées, pédicelles dressés en bouton, ascendants en floraison, puis dressés en fruit ;
-
-tépales soudés sur ¼ à ½ de leur longueur , jaune-verdâtre à vert-brunâtre ou bruns, les
-
-externes étalés et papilleux au sommet, parfois avec un appendice, les internes dressés,
-
-connivents et formant un tube, les sommets étalés ; étamines à filets aplatis, insérées
-
-au sommet du tube , à anthères dorsifixes, grandes ; ovaire sessile ou brièvement stipité,
-
-oblong, à nombreux (± 20) ovules par loge ; style court ou aussi long que l’ovaire. Fruit :
-
-capsule loculicide. Graines suborbiculaires, comprimées, noires.
-
-Genre comprenant environ 30 espèces, répandues en Région Méditerranéenne, Afrique,
-
-Madagascar, Asie du Sud-Ouest jusqu’en Inde et au Sri Lanka ; au Gabon, une seule
-
-espèce est connue.
-
-Note taxonomique : Des études moléculaires ont montré, que dans le futur, ce genre de-
-
-vrait probablement être inclus dans Ornithogalum .
-
-B : Obermeyer (1964), Speta (1998b), Stedje (1996).
-
-i B liographie
+Bibliography
 
 ## Species in region
 

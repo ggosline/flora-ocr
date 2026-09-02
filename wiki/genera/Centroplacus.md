@@ -17,15 +17,11 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Dioecious trees, without exudate, with simple hairs confined to inflorescences. Stipules small. Leaves distichous, without glands, shortly petiolate; blade with margin obscurely serrulate to serrate, penninerved, with tertiary veins subparallel. Inflorescences solitary or sub-fasciculate, the male ones in panicles, the female ones rather racemiform; bracts very small, subtending a flower. Male flowers shortly pedicellate; sepals 5; petals 5, imbricate; disk cupuliform, glabrous; stamens 5, anthers introrse; pistillode in column, entire to 3-fid, villous. Female flowers as the male flowers, but petals absent; disk 5-lobed; staminodes small; ovary 3-locular; styles 3, subulate. Fruits 6-lobulate, with loculicidal dehiscence; columella absent. Seeds ovoid-ellipsoidal, black, lustrous.
 
-Arbres dioïques, sans exsudat, à poils simples confinés aux inflorescences. Stipules petites. Feuilles distiques, sans glandes, courtement pétiolées; limbe à marge obscurément serrulée à serrée, penninervé, à nervures tertiaires subparallèles. Inflorescences solitaires ou sub-fasciculées, les mâles en panicule, les femelles plutôt racémiformes; bractées très petites, sous-tendant une fleur. Fleurs mâles courtement pédicellées; sépales 5; pétales 5, imbriqués; disque cupuliforme, glabre; étamines 5, anthères introrses; pistillode en colonne, entier à 3-fide, villeux. Fleurs femelles comme les fleurs mâles, mais pétales absents; disque 5-lobé; staminodes petits; ovaire 3-loculaire; styles 3, subulés. Fruits 6-lobulés, à déhiscence loculicide; columelle absente. Graines ovoïdes-ellipsoïdales, noires, luisantes.
+A monotypic genus, confined to Cameroon, Equatorial Guinea, Gabon and the Republic of the Congo.
 
-Un genre monotypique, confiné au Cameroun, à la Guinée équatoriale, au Gabon et à la Ré-
-
-publique du Congo.
-
-BIBLIOGRAPHIE: Kubitzki (2014), Radcliffe-Smith (2001), Webster (1994).
+BIBLIOGRAPHY: Kubitzki (2014), Radcliffe-Smith (2001), Webster (1994).
 
 ## Species in region
 

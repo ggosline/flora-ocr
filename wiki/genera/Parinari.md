@@ -17,29 +17,27 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Trees or shrubs, rarely (P. capensis) suffrutescent and rhizomatous. Leaves with petiole bearing 2 glands near the middle; 15-30 pairs of lateral veins with parallel tertiary veins; initially covered with superficial woolly indumentum golden or silvery or whitish below the blade, then pubescence concentrated in the crypts of the vein network; often marginal or submarginal hydathodes.
 
-Arbres ou arbustes, rarement (P. capensis) suffruxé rhizomateux. Feuilles avec pétiole garni de 2 glandes vers le milieu; 15-30 paires de nervures latérales avec nervures tertiaires parallèles; d'abord revêtement laineux superficiel doré ou argenté ou blanchâtre au-dessous du limbe, puis pubescence concentrée dans les cryptes du réseau de nervilles; souvent hydatodes marginaux ou submarginaux.
-
-Inflorescences pubescentes en cymes complexes paniculées très fleuries. Bractées et bractéoles cachant les boutons floraux puis ± rapidement caduques. Fleurs légèrement zygomorphes, à bouton droit ou courbé (P. hypochrysea) sur le pédicelle, hermaphrodites; réceptacle plus long que les sépales, subcampanulé ou (P. hypochrysea) subcupuliforme, creux, pubescent intérieurement; 5 sépales (lobes du calice) triangulaires, pubescentes aussi intérieurement; 5 pétales égaux aux sépales ou plus courts, caduces; environ 7 étamines (3 opposées au sépale médian, 2 à chaque sépale latéral), à filet plus court que les sépales, légèrement courbé, environ 6 staminodes, petits, subulés ou en apparence absents et formant un rebord charnu (P. hypochrysea); ovaire normalement monocarpellaire, 2-loculaire,
+Inflorescences pubescent in complex paniculate cymes, very floriferous. Bracts and bracteoles concealing the flower buds then ± rapidly caducous. Flowers slightly zygomorphic, with bud erect or curved (P. hypochrysea) on the pedicel, hermaphrodite; receptacle longer than the sepals, subcampanulate or (P. hypochrysea) subcupuliform, hollow, pubescent inside; 5 sepals (calyx lobes) triangular, pubescent also on the inside; 5 petals equal to the sepals or shorter, caducous; approximately 7 stamens (3 opposite to the median sepal, 2 to each lateral sepal), with filament shorter than the sepals, slightly curved, approximately 6 staminodes, small, subulate or apparently absent and forming a fleshy rim (P. hypochrysea); ovary normally monocarpellary, 2-locular,
 
 ---
 
-près de l'ouverture du réceptacle, pubescent, à style gynobasique arqué, inclus.
+near the opening of the receptacle, pubescent, with gynobasic style curved, included.
 
-Drupes charnues ellipsoïdes; épicarpe verruqueux; endocarpe dur, épais, à surface fibreuse rugueuse avec 2 obturateurs de germination à la base; face interne des cavités revêtue d'une pubescence dorée. Germination hypogée; cataphylles 6-15; euphyllles alternes, avec stipules lancéolées persistantes.
+Drupes fleshy ellipsoid; epicarp verrucose; endocarp hard, thick, with rough fibrous surface bearing 2 germination plugs at the base; inner face of the cavities covered with golden pubescence. Hypogeal germination; cataphylls 6-15; euphylls alternate, with persistent lanceolate stipules.
 
-ESPÉCE-TYPE : Parinari campestris Aubl. (lectotype, Hauman, 1951).
+TYPE SPECIES: Parinari campestris Aubl. (lectotype, Hauman, 1951).
 
-Genre pantropical groupant 44 espèces dont 6 en Afrique tropicale; 4 espèces présentes au Cameroun, une cinquième (P. congolana; cf. P. congensis ci-après) possible; 2 espèces seulement au Gabon et connues au Cameroun.
+Pantropical genus comprising 44 species, of which 6 in tropical Africa; 4 species present in Cameroon, a fifth (P. congolana; cf. P. congensis below) possible; 2 species only in Gabon and known from Cameroon.
 
-Grands arbres de forêt (P. excelsa, P. hypochrysea), arbre de bords de rivières (P. congensis) ou petit arbre souvent grégaire de savane (P. curatellifolia); P. capensis Harv., suffrutex rhizomateux d'Afrique australe, est connu au Congo et remonte jusque dans la région d'Impfondo.
+Large forest trees (P. excelsa, P. hypochrysea), tree of river margins (P. congensis) or small tree often gregarious in savanna (P. curatellifolia); P. capensis Harv., suffrutescent rhizomatous shrub of southern Africa, is known from Congo and extends as far as the Impfondo region.
 
-### (feuilles normales et non de jeunes plants ou de rejets)
+### (normal leaves and not from young plants or shoots)
 
-1. Arbuste ou arbre de savane; feuilles elliptiques à elliptiques-oblongues, à base largement aiguë à obtuse, à sommet arrondi ou un peu émarginé; petites glandes planes sur la moitié proximale du pétiole ou vers le milieu; indumentum grisâtre ou blanchâtre.....2. P. curatellifolia.
+1. Savanna shrub or tree; leaves elliptic to elliptic-oblong, with broadly acute to obtuse base, with rounded or slightly emarginate apex; small flat glands on the proximal half of the petiole or near the middle; indumentum greyish or whitish.....2. P. curatellifolia.
 
-1'. Arbres de forêt ou (1) de bords de cours d'eau; feuilles à sommet acuminé, rarement subaigu mais alors base subcordée.
+1'. Forest trees or (1) of watercourse margins; leaves with acuminate apex, rarely subacute but then base subcordate.
 
 ## Species in region
 

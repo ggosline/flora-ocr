@@ -17,39 +17,33 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Trees or shrubs (lianes?); rhytidome exfoliated, often spotted with reddish tints, bark relatively thin with pink to red fracture; wood ± orangish with pores smaller (≤ 150 μm) than in Scytopetalum and fairly frequently with grille-like perforations at the end of vascular elements; rays 2–3 seriate, narrower (< 50 μm) than in Scytopetalum; young branchlets angular with 3 edges and sometimes winged (O. alata); cataphyll mass intrapetiolary, conical but flattened, pointed or bifid, developing especially at the tip of branchlets with main axis persisting as a linear stump and sympodial axis bearing towards the base pairs of unequal imbricate triangular cataphylls, papillose on the margin for the upper inner ones at origin. Leaves distichous, shortly petiolate; blade symmetric or asymmetric at base, acuminate at apex, with entire margin (with minute non-prominent glandular dots), denticulate or crenate-undulate.
 
-Arbres ou arbustes (lianes?); rhytidome exfolié souvent taché de rougeâtre, écorce relativement mince à tranche rose à rouge; bois ± orangé avec pores plus petits (≤ 150 μm) que chez Scytopetalum et assez fréquemment cloisons perforées en grille à l'extrémité des éléments vasculaires; rayons 2-3 sériés moins larges (< 50 μm) que chez Scytopetalum; jeunes rameaux anguleux avec 3 arêtes et parfois ailés (O. alata); massif de cataphylles intrapétiolaire, conique mais aplat, pointu ou bifide, se développant surtout à l'extrémité de rameaux avec axe principal en moignon linéaire persistant et axe sympodial portant vers la base des paires de cataphylles inégales triangulaires imbriquées, papilleuses sur la marge pour les supérieures internes à l'origine. Feuilles distiques, brièvement pétolées; limbe symétrique ou asymétrique à la base, acuminé au sommet, à marge entière (avec minuscules taches glanduleuses non proéminentes), denticulée ou crénelée-ondulée.
+Inflorescences terminal or axillary subapical, in rather large loose panicles, 1, 2 (3) times branched, with angular, white, puberulent axes. Floral buds ellipsoid, white-pink, with furrowed corolla; calyx
 
-Inflorescences terminales ou axillaires subterminales, en panicules
+pursuant, cupuliform or almost patelliforme, entire, incised or denticulate;
 
-lâches assez grandes, 1, 2 (3) fois ramifiées, à axes anguleux, blancs, pubérulents. Boutons floraux ellipsoïdes, blanc rosé, à corolle sillonnée; calice
-
-pursuant, cupuliforme ou presque patelliforme, entier, incisé ou denticulé;
-
-corolle à 6-12 pétales courbés en bec à l'apex, s'écartant brusquement à l'épanouissement et se retournant vers l'extérieur; étanines très nombreuses, sur 5-8 cercles, à filet allongé et anthère courte à déhiscence longi-
+corolla with 6–12 petals curved into a beak at apex, separating abruptly at anthesis and reflexing outward; stamens very numerous, in 5–8 whorls, with elongate filament and short anther with longitudinal dehiscence from
 
 ---
 
 ### R. LETOUZEY
 
-tudinale depuis le haut, les plus courtes vers l'intérieur; ovaire globuleux, 3-5 loges biovulées, stigmate excavé. Capsules subglobuleuses ou oblongues-ovoïdes, normalement monospermes; graine non tuniquée à albumen non ruminé.
+the top, the shortest towards the interior; ovary globose, 3–5 locules biovulate, stigma excavate. Capsules subglobose or oblong-ovoid, normally monospermate; seed not tunicate with non-ruminate albumen.
 
-Espèce-type : Oubanguia africana Baill.
+Type species: Oubanguia africana Baill.
 
-Ce genre ne comporte que 3 espèces et n'est connu qu'au Nigeria du Sud-Est, au Cameroun, au Gabon, au Congo et au Zaïre.
+This genus comprises only 3 species and is known only from South-East Nigeria, Cameroon, Gabon, Congo and Zaïre.
 
-1. Jeunes rameaux ailes (parfois étroitement); feuilles atteignant 4-8 × 10-16
+1. Young branchlets winged (sometimes narrowly); leaves attaining 4–8 × 10–16 (−25) cm; 6–8 petals; capsule oblong-ovoid ..... 2. O. alata.
 
-(-25) cm; 6-8 pétales; capsule oblongue-ovoide ..... 2. O. alata.
+1'. Young branchlets not winged but ± angular; leaves not exceeding 6.5 × 13 (−16) cm; about 6–10(−12) petals; capsule globose or slightly obovoid.
 
-1'. Jeunes rameaux non ailés mais ± anguleux; feuilles ne dépassant pas 6,5 × 13 (-16) cm; environ 6-10(-12) pétales; capsule globuleuse ou légèrement obvoïde.
-
-2. Limbe coriace à base en général asymétrique; marge un peu courbée dessous, parfois denticulée; environ 6-8 pétales; capsule légèrement obovoïde.....
+2. Blade coriaceous with base generally asymmetric; margin somewhat curved below, sometimes denticulate; about 6–8 petals; capsule slightly obovoid .....
 
 ..... 1. O. africana.
 
-2'. Limbe subcoriace à base symétrique (exceptionnellement asymétrique); marge plane; 8-10(-12) pétales; capsule globuleuse ..... 3. O. laurifolia.
+2'. Blade subcoriaceous with base symmetric (exceptionally asymmetric); margin plane; 8–10(−12) petals; capsule globose ..... 3. O. laurifolia.
 
 ## Species in region
 

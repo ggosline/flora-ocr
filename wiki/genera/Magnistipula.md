@@ -17,8 +17,6 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 55 (1960); MENDES, Consp. Fl. Angol. 4 : 17 (1970); WHITE, BJBB 46 : 281 (1976).
 
 — Hirtella subg. Afrohirtella Haum., BJBB 21 : 178 (1951).
@@ -27,21 +25,17 @@ tags: [genus, generated]
 
 Haum., BJBB 3 : 37 (1952); Keay, FWTA ed. 2, 1 (2) : 430 (1958).
 
-Arbres ou arbustes. Stipules libres et latérales, subulées, étroitement triangulaires ou foliacées.
+Trees or shrubs. Stipules free and lateral, subulate, narrowly triangular or foliaceous.
 
-Inflorescences rarement en racèmes simples, surtout en panicules racémeuses avec fleurs solitaires, en glomérules ou en cymes, parfois subsessiles généralement pédicellées. Bractées et bractéoles, parfois glanduleuses, ne recouvrant pas les boutons floraux. Fleurs fortement zygomorphes, hermaphrodites; réceptacle courbé ou gibbeux à la base, creux et garni
+Inflorescences rarely in simple racemes, chiefly in racemose panicles with solitary flowers, in glomerules or in cymes, sometimes subsessile generally pedicellate. Bracts and bracteoles, sometimes glandular, not covering the floral buds. Flowers strongly zygomorphic, hermaphrodite; receptacle curved or gibbous at the base, hollow and lined internally with retrorseе hairs, with oblique opening; 5 sepals (calyx lobes) unequal; 5 petals with abrupt elongation and then longer than the sepals; c. 7 stamens with curved filaments, scarcely longer than the sepals and opposite the posterior one, flattened and fused at the base for 1/3 of their height; staminodes variously fused, forming dentate margin or crenate ligule; ovary monocarpellate, 1-locular (2-locular for M. tessmannii), inserted near the opening of the receptacle; style gynobasic curved scarcely longer than the sepals.
 
----
+Fleshy drupes; endocarp, densely pubescent internally, either thin and coriaceous or crustaceous, or (M. tessmannii) thick and woody. Hypogeal germination; cataphylls absent; euphylls opposite or verticillate by 4, with persistent subulate stipules.
 
-intérieurement de poils rétrorses, à ouverture oblique; 5 sépales (lobes du calice) inégaux; 5 pétales à élongation brutale et alors plus longs que les sépales; env. 7 étamines à filets courbés, à peine plus longs que les sépales et opposés au postérieur, aplatis et soudés à la base sur 1/3 de leur hauteur; staminodes diversement soudés, formant rebord denté ou languette crénelée; ovaire monocarpellaire, 1-loculaire (2-loculaire pour M. tessmannii), inséré près de l'ouverture du réceptacle; style gynobasique arqué à peine plus long que les sépales.
+Type species: Magnistipula conrauana Engler.
 
-Drupes charnues; endocarpe, densément pubescent intérieurement, soit mince et coriace ou crustacé, soit (M. tessmannii) épais et ligneux. Germination hypogée; cataphylles absentes; euphylles opposées ou verticillées par 4, avec stipules subulées persistantes.
+Genus grouping 2 species (M. tamenaka (Cap.) Prance & F. White ms., M. cerebriformis (Cap.) Prance & F. White ms.) from Madagascar and 9 species from tropical Africa of which 8 in Cameroon and 6 in Gabon, the ninth being M. sapinii De Wild., geosuffrutex of the Kalahari sands. Long confused with Hirtella L., or resulting from an imprecise delimitation between these 2 genera, the latter being in fact found only in tropical America (with nearly 90 species) and represented elsewhere only by a single species (H. zanzibarica Oliv.) in East Africa and Madagascar; it is characterized by the flower slightly (and not strongly) zygomorphic, the receptacle with straight (and not oblique) opening, the sepals subequal (and not unequal), the staminal filaments very exsert (and not included), the staminodes almost free (and not fused).
 
-Espèce-type : Magnistipula conrauana Engler.
-
-Genre groupant 2 espèces (M. tamenaka (Cap.) Prance & F. White ms., M. cerebriformis (Cap.) Prance & F. White ms.) de Madagascar et 9 espèces d'Afrique tropicale dont 8 au Cameroun et 6 au Gabon, la neuvième étant M. sapinii De Wild., géosuffrutex des sables du Kalahari. Longtemps confondu avec Hirtella L., ou résultant d'une délimitation imprécise entre ces 2 genres, le second ne se rencontrant en réalité qu'en Amérique tropicale (avec près de 90 espèces) et n'étant représenté ailleurs que par une seule espèce (H. zanzibarica Oliv.) en Afrique orientale et à Madagascar; il se caractérise par la fleur légèrement (et non fortement) zygomorphpe, le réceptacle à ouverture droite (et non oblique), les sépales subégaux (et non inégaux), les filets staminaux très exserts (et non inclus), les staminodes presque libres (et non soudés).
-
-1. Ovaire uniloculaire; endocarpe mince et fibreux ou crustacé.
+1. Ovary unilocular; endocarp thin and fibrous or crustaceous.
 
 ## Species in region
 

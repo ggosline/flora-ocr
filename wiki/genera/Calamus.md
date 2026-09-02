@@ -17,39 +17,13 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Cespitose lianes, climbing to considerable height, polycarpic, dioecious. Leaves pinnate, without terminal cirrhus; petiole present, densely spiny; leaflets arranged regularly or irregularly, lanceolate, with spiny margin. Inflorescences axillary, branched to 2 or 3 orders, when sterile modified into a long spiny flagellum; male inflorescence composed of solitary flowers, female with flowers in diads of a sterile male and a fertile female; bracts spiny. Male flowers symmetrical; calyx tubular, 3-lobed; corolla tubular, 3-lobed; stamens 6, epipetalous, filaments free; pistillode absent. Female flowers with calyx and corolla as in males, persistent in fruit; staminodes 6; gynoecium 3-locular, 3-ovulate, covered with a row of scales; stigmas 3, recurved. Fruits apically rostrulate with stigmatic remnants, covered with scales in several rows. Seeds with homogeneous albumen.
 
-Lianes cespiteuses, grimpant à une hauteur importante, polycarpiques , dioïques. Feuilles
+Genus comprising more than 500 species, principally in India, Southeast Asia and northern Australia and a single representative in Africa and Gabon.
 
-pennées, sans cirrhe terminal ; pétiole présent, densément épineux ; folioles arrangées
+Bibliography
 
-régulièrement ou irrégulièrement, lancéolées, à marge épineuse . Inflorescences axillaires,
-
-ramifiées à 2 ou 3 ordres, quand stérile modifié en un long flagelle épineux ; inflorescence
-
-mâle composée de fleurs solitaires, la femelle avec fleurs en diades d’une mâle stérile et une
-
-femelle fertile ; bractées épineuses. Fleurs mâles symétriques ; calice tubulé, 3-lobé ; corolle
-
-tubulée, 3-lobé ; étamines 6, épipétales, filets libres ; pistillode absent. Fleurs femelles avec
-
-calice et corolle comme chez les mâles, persistants en fruit ; staminodes 6 ; gynécée 3-locu -
-
-laire, 3-ovulée, recouvert d’une rangée d’écailles ; stigmates 3, recourbés. Fruits apicalement
-
----
-
-rostrés avec les restes stigmatiques, couvert d’écailles sur plusieurs rangées . Graines à albu -
-
-men homogène.
-
-Genre comprenant plus de 500 espèces, principalement en Inde, Asie du Sud Est et nord de
-
-l’Australie et une seule représentée en Afrique et au Gabon.
-
-B : Baker (2015), Dransfield (1986, 2010), Dransfield et al. (2008), Sunderland (2012).
-
-i B liographie
+B: Baker (2015), Dransfield (1986, 2010), Dransfield et al. (2008), Sunderland (2012).
 
 ## Species in region
 

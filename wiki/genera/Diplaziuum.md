@@ -17,23 +17,19 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Terrestrial ferns, with rhizome creeping or most often erect, bearing scales entire or dentate. Fronds simple, or 1–several times pinnate, of texture generally herbaceous to subcoriaceous; rachis glabrescent or slightly scaly, papillose on the upper surface, channeled; costae and costulae channeled on the upper surface, often winged. Veins free, pinnate, rarely anastomosing from one group to another. Sori elongate along a vein, with lateral indusium, the basal sorus acroscopic of each group generally double, with indusium opening in opposite directions, not extending beyond the vein.
 
-Fougères terrestres, à rhizome rampant ou le plus souvent dressé, portant des écailles entières ou dentées. Frondes simples, ou 1- plusieurs fois pennées, de texture généralement herbacée à subcoriace; rachis glabrescent ou peu écailleux, papilleux à la face supérieure, canaliculé; costae et costulae canaliculés à la face supérieure, souvent ailés. Nervures libres, pennées, rarement anastomoses d'un groupe à l'autre. Sores allongés le long d'une nervure, à indusie latérale, le sore basal acroscopique de chaque groupe généralement double, à indusie s'ouvrant en sens inverse, ne passant pas au dessus de la nervure.
+Lectotype: Diplazium plantaginifolium (L.) Urban, Symb. Ant. 4 : 31 (1903), = Asplenium plantaginifolium L., = Athyrium plantaginifolium (L.) Cop.
 
-Lectotype : Diplazium plantaginifolium (L.) Urban, Symb. Ant. 4 : 31 (1903), = Asplenium plantaginifolium L., = Athyrium plantaginifolium (L.) Cop.
-
-Régions tropicales et subtropicales.
+Tropical and subtropical regions.
 
 ---
 
-1. Nervures généralement libres (quelques rares anastomoses dans D. Welwitschii).
+1. Veins generally free (a few rare anastomoses in D. Welwitschii).
 
-2'. Pennes lobées, penne terminale profondément pinnatifide.....
+2'. Pinnae lobed, terminal pinna deeply pinnatifid.....
 
-1'. Nervures régulièrement anastomosées; fronde le plus souvent pro-
-
-lifère..... 3. D. proliferum.
+1'. Veins regularly anastomosing; frond most often proliferous..... 3. D. proliferum.
 
 ## Species in region
 

@@ -15,49 +15,47 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Shrubby lianes with large tortuous lianes (in Gabon) bearing scales (Pl. 2, $ A_{3} $ $ B_{2} $ $ C_{2} $ $ D_{2} $, $ E_{2} $, p. 15) or stipitate glands present.
 
-Arbustes lianescents à grandes lianes tortueuses (au Gabon) présentant des écailles (Pl. 2,  $ A_{3} $  $ B_{2} $  $ C_{2} $  $ D_{2} $,  $ E_{2} $, p. 15) ou glandes stipitées présentes.
+Leaves alternate to whorled. Lower part of petiole often transformed into a lignified spine.
 
-Feuilles alternes à verticillées. Partie inférieure du pétiole souvent transformée en épine lignifiée.
+Inflorescences terminal and/or axillary, in racemes and/or in panicles. Bracts and/or axillant leaves often shiny and coloured.
 
-Inflorescences terminales et/ou axillaires, en racèmes et/ ou en panicules. Bractées et/ou feuilles axillantes souvent luisantes et colorées.
-
-Fleurs bisexuées, 4 ou 5 mères, régulières ou légèrement zygomorphés, nettement divisées en un réceptacle inférieur et un réceptacle supérieur lui même très souvent subdivisé en une partie basse et une partie haute, reliées entre elles par une striction située au niveau du disque. Pétales présents ou absents, avec un indûment ou glabres. Étamines, 2 fois le nombre des lobes du calice ; quand le réceptacle
+Flowers bisexual, 4 or 5 merous, regular or slightly zygomorphic, distinctly divided into a lower receptacle and an upper receptacle itself very often subdivided into a lower part and an upper part, connected to each other by a stricture situated at the level of the disc. Petals present or absent, with an indumentum or glabrous. Stamens, 2 times the number of calyx lobes; when the upper receptacle
 
 ---
 
-supérieur est long, les étamines sont en général nettement disposées sur 2 cycles, le plus interne étant opposé aux lobes du calice. Style libre ou en partie fixé au réceptacle supérieur.
+is long, the stamens are generally clearly arranged in 2 cycles, the innermost being opposite to the calyx lobes. Style free or partly attached to the upper receptacle.
 
-Fruit sec (du moins au Gabon) à 4 ou 5 ailes (la plupart des espèces), sessile ou stipité (Pl. 1 : A, B, C, D, p. 11), parfois adapté à la dispersion par l'eau. Cotylédons de formes diverses.
+Fruit dry (at least in Gabon) with 4 or 5 wings (most species), sessile or stipitate (Pl. 1: A, B, C, D, p. 11), sometimes adapted for dispersal by water. Cotyledons of various shapes.
 
-### CLÉ DES ESPÈCES
+### KEY TO THE SPECIES
 
-N.B. Cette clé utilise les caractères floraux : C. erosum en a été exclue car on ignore encore sa fleur ; mais C. congolanum, non encore récoltée au Gabon, figure dans cette clé, car elle est présente au Cameroun et au Congo (Kinshasa).
+N.B. This key uses floral characters: C. erosum has been excluded from it as its flower is still unknown; but C. congolanum, not yet collected in Gabon, appears in this key, as it is present in Cameroon and Congo (Kinshasa).
 
-1. Écailles absentes y compris sur les jeunes pousses ou les inflorescences. Fleurs et fruits 4-5-mères ; fleurs ± nettement stipitées ; pétales toujours bien visibles, rouges à jaunes, rarement blancs.
+1. Scales absent including on young shoots or inflorescences. Flowers and fruits 4–5-merous; flowers ± distinctly stipitate; petals always clearly visible, red to yellow, rarely white.
 
-2. Réceptacle supérieur cupuliforme. Pétales blancs, glabres, excepté de très petits
+2. Upper receptacle cupuliform. Petals white, glabrous, except for very small
 
-poils le long du bord. Étamines exsertes de < 5 mm ..... 30. C. mucronatum
+hairs along the edge. Stamens exserted < 5 mm ..... 30. C. mucronatum
 
-2'. Réceptacle différent. Pétales le plus souvent rouges ou orange.
+2'. Receptacle different. Petals most often red or orange.
 
-3. Réceptacle supérieur en tube courbe de 17-32 mm, base nettement arrondie, fleurs en général sur racème terminal :
+3. Upper receptacle in curved tube of 17–32 mm, base distinctly rounded, flowers generally in terminal raceme:
 
-4. Fleurs, extérieur couvert de poils apprimés ordinaires . . . . 39. C. platypterum
+4. Flowers, exterior covered with appressed ordinary hairs . . . . 39. C. platypterum
 
-4'. Fleurs, extérieur couvert de poils dressés ordinaires et de poils glanduleux ..... 4. C. bracteatum
+4'. Flowers, exterior covered with erect ordinary hairs and glandular hairs ..... 4. C. bracteatum
 
-3'. Fleurs ne montrant pas ces caractères.
+3'. Flowers not showing these characters.
 
-5. Fleurs avec un long tube. Étamines non ou courtemment exsertes ; style en partie réuni au réceptacle supérieur.
+5. Flowers with a long tube. Stamens not or shortly exserted; style partly united to the upper receptacle.
 
-6. Réceptacle supérieur, long > 4 cm ..... 22. C. indicum
+6. Upper receptacle, length > 4 cm ..... 22. C. indicum
 
-6'. Réceptacle supérieur, long ≤ 3 cm
+6'. Upper receptacle, length ≤ 3 cm
 
-7. Réceptacle supérieur nettement plus large au-dessus du milieu qu'à son ouverture ; étamines non visibles de l'extérieur .....23. C. inflatum
+7. Upper receptacle distinctly wider above the middle than at its opening; stamens not visible from the outside .....23. C. inflatum
 
 ## Species in region
 

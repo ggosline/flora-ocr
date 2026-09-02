@@ -17,31 +17,29 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Unifoliate herb, the single leaf of the adult plant being an accrescent cotyledon; the other cotyledon small and not persistent.
 
-Herbe unifeuillée, la simple feuille de la plante adulte étant un cotylédon accrescent ; l’autre cotylédon petit et non persistant.
-
-Inflorescence se développait en séries acropètes au sommet de l'hypocotyle et à la base de la nervure principale ; pédoncule court, avec une ou deux petites bractées à la base ; cyme à fleurs par paires, habituellement ramifiée unilatéralement. Calice divisé tout près de la base en cinq segments. Tube de la corolle beaucoup plus long que les lobes, faiblement élargi vers le haut, ouverture dilatée ; lobes presque égaux, courts et étalés. Disque unilatéral, oblique, moitié moins long que l'ovaire. Étamines fertiles deux, rarement quatre (seulement en culture ?), filets fixés au milieu du tube, un peu aplatis et courbés vers le haut à partir de leur milieu, se prolongeant au-delà de l'anthère en une
+Inflorescence developing in acropetal series at the apex of the hypocotyl and at the base of the main vein; peduncle short, with one or two small bracts at the base; cyme with flowers in pairs, usually unilaterally branched. Calyx divided very near the base into five segments. Corolla tube much longer than the lobes, weakly enlarged toward the top, dilated opening; lobes almost equal, short and spreading. Disk unilateral, oblique, half as long as the ovary. Fertile stamens two, rarely four (in cultivation only?), filaments attached at the middle of the tube, somewhat flattened and curved upward from their middle, extending beyond the anther into a
 
 ---
 
-### GESNERIACE
+### GESNERIACEAE
 
-dent étroite ; anthère à thèques divariquées, cohérentes, face à face ; habituellement avec une courte dent, réfléchie vers le bas, sur le dos du connectif. Staminodes 2, habituellement bien développées, aplaties, courbes. Ovaire conique, biloculaire, lames des placentas entièrement ovulifères ; style environ quatre fois aussi long que l'ovaire, un peu élargi sous le sommet, stigmate courtement bifide.
+narrow tooth; anther with divaricate thecae, coherent, facing each other; usually with a short tooth, reflexed downward, on the back of the connective. Staminodes 2, usually well developed, flattened, curved. Ovary conical, bilocular, placental laminae entirely ovuliferous; style approximately four times as long as the ovary, somewhat enlarged below the apex, stigma shortly bifid.
 
-Fruit ovoïde conique, sans lignes de déhiscences apparentes, se cassant simplement avec l'âge (?). Graines marron sombre, ellipsoïdes, faiblement côtelées, longues d'environ 0,5 mm.
+Fruit ovoid-conical, without apparent lines of dehiscence, simply breaking with age (?). Seeds dark brown, ellipsoid, weakly ribbed, approximately 0.5 mm long.
 
-ESPÈCE-TYPE : Acanthonema strigosum Hook.f.
+TYPE SPECIES: Acanthonema strigosum Hook.f.
 
-Ce genre, ne comportant que deux espèces extrêmement proches, est limité au Sud du Nigeria, à Fernando Po, au Cameroun et au Gabon.
+This genus, comprising only two extremely closely related species, is confined to southern Nigeria, Fernando Po, Cameroon, and Gabon.
 
-La feuille simple est extrêmement variable en taille et en forme ; elle est probablement très influencée par les conditions de croissance et d'entassement. La présence fréquente d'inflorescences mortes, montre que ces plantes vivent plus qu'une seule période de floraison. Les plantes à feuilles étroites sont probablement des jeunes fleurissant au cours de la première saison ; parfois une feuille étroite au sommet, mais s'élargissant soudainement près de la base, peut représenter un agrandissement par croissance basale de la seconde saison. Des observations attentives sur des populations sauvages sont demandées.
+The single leaf is extremely variable in size and shape; it is probably greatly influenced by growth conditions and crowding. The frequent presence of dead inflorescences shows that these plants flower more than once. Plants with narrow leaves are probably young ones flowering in the first season; sometimes a narrow leaf at the apex, but suddenly widening near the base, may represent an enlargement through basal growth in the second season. Careful observations on wild populations are requested.
 
-### CLÉ DES ESPÈCES
+### KEY TO THE SPECIES
 
-1. Corolle longue de 20 à 30 mm, faiblement renflée à la partie inférieure du haut et courbée vers le haut juste sous l'ouverture ..... 1. A. strigosum.
+1. Corolla 20 to 30 mm long, weakly swollen in the lower part of the upper portion and curved upward just below the opening ..... 1. A. strigosum.
 
-1'. Corolle longue de 10 à 13 mm, faiblement renflée à la partie inférieure du haut, mais plus ou moins droite ..... 2. A. diandrum.
+1'. Corolla 10 to 13 mm long, weakly swollen in the lower part of the upper portion, but more or less straight ..... 2. A. diandrum.
 
 ## Species in region
 

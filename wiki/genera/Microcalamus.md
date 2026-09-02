@@ -17,33 +17,25 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Perennial herbs with extravaginal innovations; culms surrounded at the base by a number of leaf sheaths devoid of blade (cataphylls), the first internode often long and creeping. Leaves few in number, blade lanceolate, contracted and articulate at the base.
 
-Herbes pérennes à innovations extravaginales; chaumes entourés à la base d'un certain nombre de gaines foliaires dépour-
+Racemes often reduced, solitary or paniculate.
 
-vues de limbe (cataphylles), le premier entrenceud souvent long et rampant. Feuilles peu nombreuses, limbe lancéolé, contracté et articulé à la base.
+Spikelets ovoid-lanceolate, in pairs or threes, or solitary.
 
-Racèmes souvent réduits, solitaires ou paniculés.
+Glumes oval, with 5 or 7 nerves, shorter than the spikelet; lower floret male or neuter, lemma similar to the glumes but longer, with 7 nerves; palea bicarinate, somewhat shorter; 2 lodicules. Upper floret hermaphrodite; lemma coriaceous, subulate-acuminate, with 5 nerves; palea bicarinate, shorter, 2 lodicules, 3 stamens.
 
-Épillets ovoïdes lancéolés, par deux ou trois, ou isolés.
+3 species are recorded from Gabon, where two of them appear moreover to be endemic; they are distinguished only by vegetative characters; the herbarium material relating to these species is very limited.
 
-Glumes ovales, à 5 ou 7 nervures, plus courtes que l'épillet; fleur inférieure mâle ou neutre, lemma semblable aux glumes, mais plus longue, à 7 nervures; paléa bicarénée, un peu plus courte; 2 lodicules. Fleur supérieure hermaphrodite; lemma coriace, subulée-acuminée, à 5 nervures; paléa bicarénée, plus courte, 2 lodicules, 3 étamines.
-
-3 espèces sont signalées au Gabon, où deux d'entre elles semblent d'ailleurs endémiques; elles ne se distinguent que par des caractères végétatifs; le matériel d'herbier relatif à ces espèces est très réduit.
-
-1. De 2 à 8 feuilles par chaume florifère, glabres à la face supérieure, finement pubescentes à la face inférieure vers la base, ou glabres; nervation très serrée, de 12 à 14 nervures par centimètre.
+1. 2 to 8 leaves per flowering culm, glabrous on the upper face, finely pubescent on the lower face towards the base, or glabrous; venation very close, 12 to 14 nerves per centimetre.
 
 ..... 1. M. barbinodis.
 
-1'. 1 à 3 feuilles complètes par chaume florifère, nervation moins serrée (de 7 à 10 nervures par cm).
+1'. 1 to 3 complete leaves per flowering culm, venation less close (7 to 10 nerves per cm).
 
-2. Limbes foliaires glabres à la face supérieure, pubescents en dessous, au moins vers la base ou à l'état jeune ..... 2. M. aspidistrula.
+2. Leaf blades glabrous on the upper face, pubescent below, at least towards the base or in the young state ..... 2. M. aspidistrula.
 
-2'. Limbes foliaires éparsement pubescents à la face supérieure avec des
-
-. poils tuberculés à la base, glabres ou presque à la face inférieure.
-
----
+2'. Leaf blades sparsely pubescent on the upper face with tuberculate hairs at the base, glabrous or nearly so on the lower face.
 
 ## Species in region
 

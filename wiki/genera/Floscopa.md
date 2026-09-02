@@ -17,67 +17,25 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Herbs perennial or annual; roots fibrous; stems erect or decumbent. Leaves alternate, spiral; pseudipetiole present or absent; lamina with symmetrical base. Inflorescences terminal or axillary, thyrsoid or reduced to 1 or 2 cincinni, those of the upper axils generally combined with the terminal one and thus forming a composite inflorescence; axes and bracteoles generally with glandular pubescence, rarely with simple pubescence or glabrous. Flowers bisexual, zygomorphic, pedicellate, generally < 5 mm in diameter; sepals free, subequal, green, generally with glandular pubescence; petals free, unequal, white, pink to purple or yellow to orange, never blue, without claw, the upper ones elliptic to obovate, the lower one oblong; stamens 6, all fertile, dimorphic, the 3 upper ones with glabrous filaments, fused at the base, anthers small, with longitudinal dehiscence; staminodes absent; ovary ± stipitate, glabrous, 2-locular, locules with 1 ovule; style slender, stigma capitate. Fruits: dehiscent capsules, stipitate, broadly ellipsoidal to discoid, 2-locular, 2-valved; locules with 1 seed. Seeds ellipsoidal, generally with numerous ribs or crests; hilum linear; embryotegum lateral.
 
-Herbes pérennes ou annuelles ; racines fibreuses ; tiges érigées ou décombantes. Feuilles
+Pantropical genus of ± 20 species, about fifteen of which occur in Africa and four in Gabon.
 
-alternes, spiralées ; pseudopétiole présent ou absent ; limbe à base symétrique. Inflorescences
+Bi: Brenan (1968b), van der Burg (2006), Faden (1998, 2012), Sosef et al. (2006).
 
-terminales ou axillaires, thyrsoïdes ou réduites à 1 ou 2 cincinni , celles des aisselles supé-
+Bibliography
 
-rieures généralement combinées avec la terminale et formant ainsi une inflorescence com -
+### Key to species
 
-posée ; axes et bractéoles généralement à pubescence glanduleuse, rarement à pubescence
+1. – (Semi-)floating plant, with flexuous stems, forming layers on water; leaf lamina not narrowed toward the base, without pseudipetiole, often amplexicaul ...................................................................................................................... F. aquatica
 
-simple ou glabres. Fleurs bisexuées, zygomorphes , pédicellées, généralement < 5 mm de
+– Plant of moist to dry places, generally erect or decumbent, not floating; leaf lamina generally with pseudipetiole .............................................. 2
 
-diamètre ; sépales libres, subégaux, verts, généralement à pubescence glanduleuse ; pétales
+2. – Leaf lamina up to 2 times longer than wide; plant creeping, never exceeding 30 cm in length; upper petals rhomboidal ........................ F. mannii
 
-libres, inégaux, blancs, roses à pourpres ou jaunes à orange, jamais bleus , sans onglet , les
+– Leaf lamina at least 3 times longer than wide; plants more robust (generally decumbent, more than 30 cm in length and up to 1.5 m); upper petals elliptic to ovate ...................................................................................................... 3
 
-supérieurs elliptiques à obovales, l’inférieur oblong ; étamines 6, toutes fertiles, dimorphes ,
-
-les 3 supérieures à filets glabres, soudés à la base, anthères petites, à déhiscence longitudi -
-
-nale ; staminodes absents ; ovaire ± stipité, glabre, 2-loculaire, loges à 1 ovule ; style grêle,
-
-stigmate capité. Fruits : capsules déhiscentes , stipitées, largement ellipsoïdales à discoïdales,
-
-2-loculaires, 2-valvées ; loges à 1 graine . Graines ellipsoïdales, généralement à nombreuses
-
-côtes ou crêtes ; hile linéaire ; embryotège latérale.
-
-Genre pantropical de ± 20 espèces, dont une quinzaine en Afrique et quatre au Gabon.
-
-Bi : Brenan (1968b), van der Burg (2006), Faden (1998, 2012), Sosef et al. (2006).
-
-B liographie
-
-### Clé des espèces
-
-1. - Plante (semi-)flottante, à tiges flexueuses, formant des couches sur l’eau ; limbe
-
-foliaire non rétréci vers la base, sans pseudopétiole, souvent amplexicaule
-
-...................................................................................................................... F. aquatica
-
-- Plante des endroits humides à secs, généralement érigée ou décombante, non flot -
-
-tante ; limbe foliaire généralement avec pseudopétiole .............................................. 2
-
-2. - Limbe foliaire jusqu’à 2 fois plus long que large ; plante rampante, ne dépassant
-
-jamais 30 cm de longueur ; pétales supérieurs rhomboïdaux ........................ F. mannii
-
-- Limbe foliaire au moins 3 fois plus long que large ; plantes plus robustes (générale-
-
-ment décombantes, plus de 30 cm de longueur et jusqu’à 1,5 m) ; pétales supérieurs
-
-elliptiques à ovales ...................................................................................................... 3
-
-3. - Limbe foliaire linéaire, sessile et amplexicaule, plus de 10 fois plus long que
-
-large .......................................................................................................... F. glomerata
+3. – Leaf lamina linear, sessile and amplexicaul, more than 10 times longer than wide .......................................................................................................... F. glomerata
 
 ## Species in region
 

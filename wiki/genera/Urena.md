@@ -17,27 +17,9 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Suffrutescent herbs, annual, with strong taproot; stem branched. Stipules caducous. Leaves polymorphous; lamina sub-orbicular to narrowly ovate, simple or palmatifid, stellate-tomentose; primary vein on the lower surface provided with a prominent basal oblong nectary. Flowers solitary, axillary or in groups; epicalyx campanulate, distinctly 5-lobed with linear lobes; calyx shorter than the epicalyx, cupuliform; staminal tube bearing anthers on the terminal part; ovary with 5 carpels, uniovulate; styles 10, stigmas ± discoid. Fruits with 5 mericarps ± trigonous, distinctly provided with spines with hooks (glochidiae) on the dorsal surface. Seeds angular.
 
-Herbes suffrutescentes, annuelles, à racine forte et pivotante ; tige ramifiée. Stipules
-
-caduques. Feuilles polymorphes ; limbe sub-orbiculaire à étroitement ovale, simple ou
-
-palmatipartite, étoilé-tomenteux ; nervure principale sur la surface inférieure munie
-
-d’un nectaire oblong basal saillant . Fleurs solitaires, axillaires ou en groupes ; calicule
-
-campanulée, nettement 5-lobé à lobes linéaires ; calice plus court que le calicule, cupu-
-
-liforme ; tube staminal portant des anthères sur la partie terminale ; ovaire à 5 carpelles,
-
-uniovulées ; styles 10 , stigmates ± discoïdes. Fruits à 5 méricarpes ± trigones, nettement
-
-pourvus d’épines avec crochets (glochidies) sur la surface dorsale. Graines anguleuses.
-
-Genre répandu dans les zones tropicales et subtropicales avec 4 ‒ 6 espèces dont une en
-
-Afrique.
+Genus distributed in tropical and subtropical zones with 4–6 species of which one in Africa.
 
 ---
 
@@ -45,13 +27,10 @@ Berhaut (1979).
 
 ---
 
-Note taxonomique : Le genre est très proche de Pavonia Cav. connu de l’Amérique Cen-
+Taxonomic note: The genus is very close to Pavonia Cav. known from Central and South America, as well as from India and Polynesia.
 
-trale et du Sud, ainsi que de l’Inde et de la Polynésie.
-
-B : Akoègninou et al. (2006), Bayer & Kubitzki (2003), Exell & Meeuse
-
-i B liographie
+B: Akoègninou et al. (2006), Bayer & Kubitzki (2003), Exell & Meeuse
+i Bibliography
 
 (1961), Hauman (1963).
 

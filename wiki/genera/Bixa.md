@@ -17,13 +17,9 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+The generic characters are those of the family.
 
-Les caractères génériques sont ceux de la famille.
-
-ESPÈCE-TYPE : Bixa orellana L.
-
----
+TYPE SPECIES: Bixa orellana L.
 
 ## Species in region
 

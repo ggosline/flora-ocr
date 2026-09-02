@@ -17,19 +17,15 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Tree with soft wood. Leaves digitate with 3–9 leaflets.
 
-Arbre à bois tendre. Feuilles digitées à 3-9 folioles.
+Pedicels bearing 2 bracteoles. Calyx ovoid to oblong, with 5 lobes, with silky villous pubescence on the inner face. Petals 5, white, fleshy, obovate. Staminal column terminating in long filaments bearing simple ± reniform anthers. Ovary with 5 multi-ovulate locules. Style divided into stellate stigmas, as numerous as the locules.
 
-Pédicelles porteurs de 2 bractéoles. Calice ovoïde à oblong, à 5 lobes, à pubescence soyeuse villeuse à la face interne. Pétales 5, blancs, charnus, obovés. Colonne staminale se terminant en longs filaments porteurs d'anthères simples ± réniformes. Ovaire à 5 loges multiovulées. Style divisé en stigmates étoilés, aussi nombreux que les loges.
+Capsule oblong, woody, indehiscent. Seeds reniform, surrounded by farinose pulp, lateral hilum. Endosperm membranous. Embryo curved.
 
-Capsule oblongue, ligneuse, indéhiscente. Graines réniformes, entourées par une pulpe farineuse, hile latéral. Endosperme membraneux. Embryon courbe.
+TYPE SPECIES: Adansonia digitata L.
 
-ESPÈCE-TYPE : Adansonia digitata Linné.
-
-Ce genre renferme 12 espèces d’Afrique, de Madagascar, et du Nord-Ouest de l’Australie. L’espèce-type a été introduite aux Indes. Au Gabon, une seule espèce a été cultivée.
-
----
+This genus contains 12 species from Africa, Madagascar, and north-western Australia. The type species has been introduced to the Indies. In Gabon, only one species has been cultivated.
 
 ## Species in region
 

@@ -17,33 +17,13 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Annual herbs, acaulescent, glabrous; stems quadrangular. Leaves opposite. Inflorescences terminal, in pluriflorous cymes. Flowers actinomorphic, 4-merous; pedicel very short; calyx with tube much shorter than the lobes narrowly winged on the back; corolla funnel-shaped; stamens 4, included to exserted, inserted on the throat of the corolla, filament provided at the base with a semi-circular scale, with oblong anthers; ovary 1-locular, briefly stipitate; stigma capitate, filiform or bifid with filiform lobes. Fruits ellipsoid. Seeds globular, with reticulate testa, with polygonal cells.
 
-Herbes annuelles, acaules , glabres ; tiges quadrangulaires. Feuilles opposées. Inflorescences
+Genus comprising 17 species from tropical Africa, most in East Africa and in the copper region of South-East Democratic Republic of Congo and Zambia; a single species in Gabon.
 
-terminales, en cymes pluriflores . Fleurs actinomorphes, 4-mères ; pédicelle très court ; calice
+Bibliography
 
-à tube beaucoup plus court que les lobes étroitement ailés sur le dos ; corolle en entonnoir ;
-
-étamines 4, incluses à exsertes, insérées sur la gorge de la corolle , filet muni à la base d’une
-
-écaille semi-circulaire , à anthères oblongues ; ovaire 1-loculaire, brièvement stipitée ; stig-
-
-mate capité, filiforme ou bifide à lobes filiformes. Fruits ellipsoïdes. Graines globuleuses, à
-
-testa réticulé, avec des cellules polygonales.
-
-Genre comprenant 17 espèces d’Afrique tropicale, la plupart en Afrique de l’Est et dans la
-
-région de cuivre au Sud-Est de la République démocratique du Congo et la Zambie ; une seule
-
-espèce au Gabon.
-
-B : Bamps (1987), Boutique (1972), Paiva & Nogueira (1990), Sileshi (2002), Struwe &
-
-i B liographie
-
-Albert (2002), Struwe & Pringle (2018), Taylor (1963, 1973).
+B: Bamps (1987), Boutique (1972), Paiva & Nogueira (1990), Sileshi (2002), Struwe & Albert (2002), Struwe & Pringle (2018), Taylor (1963, 1973).
 
 ## Species in region
 

@@ -17,21 +17,19 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Herbs annual or perennial, monoecious or dioecious; stems branched, creeping or climbing. Tendrils bifid or rarely simple. Leaves entire, lobed or palmatipartite, with 2 sessile or stipitate glands at the apex of the petiole or at the base of the blade. Inflorescences: the male with solitary flower or in raceme; the female with solitary flower. Male flowers: receptacle elongate, campanulate, infundibuliform or obconic; sepals small, sometimes glandular; petals free or slightly united at the base, white; stamens 3, with free filaments, very short, inserted at the base or toward the middle of the receptacle, anthers free or coherent, 2 bithecal and 1 monothecal, with tripunctate locules; pistillode glanduliform or absent. Female flowers: perianth similar to that of male flowers; ovary ovoid, with numerous horizontal ovules; style straight, short, with 3 thick, bilobed stigmas. Fruits: indehiscent berries, of varied forms, with hard pericarp, with spongy pulp. Seeds smooth, with thickened margin.
 
-Herbes annuelles ou vivaces, monoïques ou dioïques; tiges ramifiées, rampantes ou grimpantes. Vrilles bifides ou rarement simples. Feuilles entières, lobées ou palmatiséquées, avec 2 glandes sessiles ou stipitées au sommet du pétiole ou à la base du limbe. Inflorescences : les mâles à fleur solitaire ou en racème ; les femelles à fleur solitaire. Fleurs mâles : réceptacle allongé, campanulé, infundibuliforme ou obconique ; sépales petits, parfois glanduleux ; pétales libres ou légèrement soudés à la base, blancs ; étamines 3, à filets libres, très courts, insérés à la base ou vers le milieu du réceptacle, anthères libres ou cohérentes, 2 bitheques et 1 monothèque, à loges tripiquées; pistillode glanduliforme ou absent. Fleurs femelles : périanthe semblable à celui des fleurs mâles ; ovaire ovoïde, à de nombreux ovules horizontaux ; style droit, court, à 3 stigmates épais, bilobés. Fruits : baies indéhiscentes, de formes variées, à péricarpe dur, à pulpe spongieuse. Graines lisses, à marge épaissie.
+African genus of six species, one of which (L. siceraria) pantropical and widely cultivated; in Gabon, three species.
 
-Genre africain de six espèces, dont une (L. siceraria) pantropicale et largement cultivée; au Gabon, trois espèces.
+BIBLIOGRAPHY: Clarke et al. (2006), Erickson et al. (2005), Jeffrey (1967), Keraudren (1967), Keraudren-Aymonin (1975), Schaefer & Renner (2011a).
 
-BIBLIOGRAPHIE : Clarke et al. (2006), Erickson et al. (2005), Jeffrey (1967), Keraudren (1967), Keraudren-Aymonin (1975), Schaefer & Renner (2011a).
+1. - Monoecious plant; male flowers solitary..... L. siceraria
 
-1. - Plante monoïque; fleurs mâles solitaires..... L. siceraria
+- Dioecious plant; male flowers in raceme..... 2
 
-- Plante dioïque; fleurs mâles en racème..... 2
+2. - Sepals glandular on the margins; receptacle of the male flower 4–5 cm long
 
-2. - Sépales glanduleux sur les bords; réceptacle de la fleur mâle long de 4–5 cm
-
-- Sépales non glanduleux ; réceptacle de la fleur mâle long de 2–3 cm..... L. breviflora
+- Sepals non-glandular; receptacle of the male flower 2–3 cm long..... L. breviflora
 
 ## Species in region
 

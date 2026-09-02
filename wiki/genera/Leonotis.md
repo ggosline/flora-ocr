@@ -15,43 +15,13 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Annual or perennial herbs, or shrubs. Leaves simple, opposite, petiolate or sometimes sessile. Inflorescences terminal; verticillasters spaced, 1 to 5 per stem, dense, spherical, with numerous flowers; bracts foliaceous; bracteoles linear, mucronate. Flowers subsessile; calyx tubular, with 10 nerves, with 8 to 10 triangular, mucronate teeth; corolla tubular, bilabiate, white or slightly pink, covered with red, orange, yellow or fawn hairs, tube with 1 to 3 rings of hairs inside, upper lip entire, slightly shorter than the tube, cucullate, apex with a fringe of long hairs inside covering the anthers and stigmas, sometimes white, lower lip 3-lobed, reflexed to spreading, distinctly shorter than the upper lip, darker than the rest of the corolla, subglabrous; stamens 4, beneath the upper lip, not exsert, the lower pair longer, inserted at the throat, anther with 2 divaricate thecae; disk 4-lobed, with lower lobe larger; ovary deeply 4-lobed; style gynobasic, apex with only the lower stigmatic branch developed, upper branch minute or absent. Fruits: nutlets obconic, triangular in cross-section, truncate distally, with sessile glands, otherwise glabrous, with small scars.
 
-Herbes annuelles ou vivaces, ou arbustes . Feuilles simples, opposées, pétiolées ou parfois
+Genus of nine species confined largely to tropical Africa, but with two species naturalized in other tropical regions. One species in Gabon.
 
-sessiles. Inflorescences terminales ; verticillastres espacés, 1 à 5 par tige, denses, sphériques ,
+B: Iwarsson & Harvey (2003), Morales (2011), Morton (1963).
 
-à nombreuses fleurs ; bractées foliacées ; bractéoles linéaires, mucronées. Fleurs subsessiles ;
-
-calice tubuleux, à 10 nervures, à 8 à 10 dents triangulaires, mucronées ; corolle tubuleuse,
-
-bilabiée, blanche ou légèrement rose, couverte de poils rouges, orange, jaunes ou chamois ,
-
-tube avec 1 à 3 anneaux de poils à l’intérieur, lèvre supérieure entière, légèrement plus courte
-
-que le tube, cucullée, apex muni d’une frange de longs poils à l’intérieur couvrant les an-
-
-thères et les stigmates , parfois blancs, lèvre inférieure 3-lobée, réfléchie à étalée, nettement
-
-plus courte que la supérieure, plus foncée que le reste de la corolle, subglabre ; étamines 4,
-
-sous la lèvre supérieure, non exsertes, la paire inférieure plus longue, insérée à la gorge, an-
-
-thère à 2 thèques divariquées ; disque 4-lobé, à lobe inférieur plus grand ; ovaire profondément
-
-4-lobé ; style gynobasique, apex avec seulement la branche stigmatique inférieure développée,
-
-branche supérieure minuscule ou absente. Fruits : akènes obconiques, triangulaires en coupe
-
-transversale , tronqués distalement, à glandes sessiles, sinon glabres, à de petites cicatrices.
-
-Genre de neuf espèces confinées en grande partie à l’Afrique tropicale, mais à deux espèces
-
-naturalisées dans d’autres régions tropicales. Une espèce au Gabon.
-
-B : Iwarsson & Harvey (2003), Morales (2011), Morton (1963).
-
-i B liographie
+Bibliography
 
 ## Species in region
 

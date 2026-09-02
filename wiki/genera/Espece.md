@@ -16,8 +16,6 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 ## Species in region
 
 *No species blocks were segmented for this genus in the source.*

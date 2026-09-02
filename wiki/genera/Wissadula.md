@@ -17,25 +17,15 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Herbs or subshrubs, much-branched with greyish tomentum. Stipules filiform, caducous.
 
-Herbes ou sous-arbustes, très ramifiés à tomentum grisâtre. Stipules filiformes, caduques.
+Leaves cordate. Inflorescences paniculate. Flowers without an epicalyx; calyx with 5 sepals united; corolla relatively small; staminal tube covered with anthers; ovary with 3–5 carpels, each divided into two by a transverse septum. Capsular fruits, locules dehiscent at the apex. Seeds globose-reniform, hairy.
 
-Feuilles cordées . Inflorescences paniculées . Fleurs sans calicule ; calice à 5 sépales
+Genus with about 30 species, mainly in America; one species in Africa.
 
-soudés ; corolle relativement petite ; tube staminal couvert d’anthères ; ovaire à 3 ‒ 5
+Bibliography
 
-carpelles, chacun partagé en deux par un septum transversal . Fruits capsulaires, loges
-
-déhiscentes au sommet. Graines globuleuses-réniformes, poilus.
-
-Genre à 30 espèces environ, surtout en Amérique ; une espèce en Afrique.
-
-B : Akoègninou et al. (2006), Bayer & Kubitzki (2003), Exell & Meeuse
-
-i B liographie
-
-(1961), Hauman (1963), Verdcourt (2009).
+Akoègninou et al. (2006), Bayer & Kubitzki (2003), Exell & Meeuse (1961), Hauman (1963), Verdcourt (2009).
 
 ## Species in region
 

@@ -17,25 +17,11 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Twining or scandent herbs. Inflorescence with pedunculate axillary cymes. Flowers: sepals 5, subequal; corolla narrowly urceolate; stamens included, inserted near the base of the corolla, filaments with the basal portion enlarged into a large scale; pollen grains echinulate; disc cupular; ovary 2-locular, 4-ovulate; style 1, stigma included, capitate. Fruit 4-seeded, opening by 4 valves. Seeds pilose.
 
-Herbes volubiles ou lianescentes . Inflorescence à cymes axillaires pédonculées. Fleurs :
+Paleotropical genus with approximately 10 species, 2 of which occur in tropical Africa; one species in Gabon.
 
-sépales 5, subégaux ; corolle étroitement urcéolée ; étamines incluses, insérées près de
-
-la base de la corolle, filets à partie basale élargie en grande écaille ; grains de pollen
-
-échinulés ; disque cupulé ; ovaire 2-loculaire, 4-ovulé ; style 1, stigmate inclus, capité.
-
-Fruit 4-sperme, s’ouvrant par 4 valves. Graines pileuses .
-
-Genre paléotropical à environ 10 espèces, dont 2 en Afrique tropicale ; une espèce au
-
-Gabon.
-
-B : Gonçalves (1987), Lejoly & Lisowski (1993), Vercourt (1963).
-
-ibliographie
+Bibliography: Gonçalves (1987), Lejoly & Lisowski (1993), Vercourt (1963).
 
 ## Species in region
 

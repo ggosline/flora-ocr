@@ -16,13 +16,11 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Terrestrial ferns, with creeping or ascending, scaly rhizome, with narrow scales, not peltate. Petiole black, polished, lustrous. Lamina pinnate or multipinnate, with dimidiate or flabellate pinnae, often herbaceous, with free veins, dichotomous from the base. Sporangia naked, at the apex of the vein and sometimes between the veins, on the lower surface of the reflexed margin. Rachis and petiole channelled on the upper surface. Spores without perispore.
 
-Fougères terrestres, à rhizome rampant ou ascendant, écailleux, à écailles étroites, non peltées. Pétiole noir, poli, brillant. Limbe penné ou pluripenné, à pennes dimidiées ou flabellées, souvent herbacées, à nervures libres, dichotomes dès la base. Sporanges nus, à l'extrémité de la nervure et quelquefois entre les nervures, à la face inférieure de la marge réfléchie. Rachis et pétiole canaliculés à la face supérieure. Spores sans périspore.
+Type species (lectotype): Adiantum capillus-veneris L.
 
-Espèce-type (lectotype) : Adiantum capillus-veneris L.
-
-Environ 200 espèces, tropicales et subtropicales, genre particulièrement bien représenté en Amérique tropicale. 1 espèce dans le sud et l'ouest de l'Europe. Une seule espèce au Gabon : A. Vogelii. Deux autres A. soboliferum Wall. ex Hooker et A. incisum Forskäl sont du Congo, région de Loudima (PL. XVII).
+Approximately 200 species, tropical and subtropical, genus particularly well represented in tropical America. 1 species in southern and western Europe. Only one species in Gabon: A. Vogelii. Two others A. soboliferum Wall. ex Hooker and A. incisum Forskäl are from Congo, Loudima region (PL. XVII).
 
 ## Species in region
 

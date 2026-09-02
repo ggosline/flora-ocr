@@ -17,19 +17,15 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Tall annual herbs erect with alternate or opposite leaves, petiolate, palmate.
 
-Grandes herbes annuelles dressées à feuilles alternes ou opposées, pétiolées, palmées.
+Male inflorescences shorter than the leaves; female inflorescences in axillary fascicles. Calyx with 5 sepals for male flowers and 1 sepal for female flowers. Ovary sessile.
 
-Inflorescences ♂ plus courtes que les feuilles; inflorescences ♀ en fascicules axillaires. Calice à 5 sépales pour les fleurs ♂ et à 1 sépale pour les fleurs ♀. Ovaire sessile.
+Type species: Cannabis sativa Linné.
 
-Espèce-type : Cannabis sativa Linné.
-
-Ce genre cosmopolite renferme une espèce présente au Gabon.
+This cosmopolitan genus contains one species present in Gabon.
 
 (1). nom. cons.
-
----
 
 ## Species in region
 

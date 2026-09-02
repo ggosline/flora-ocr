@@ -16,27 +16,25 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+References see below.
 
-Références cf. infra.
+Plants erect, herbaceous or ± woody with robust unbranched apices. Stipules laminate, marcescent or caducous. Lower surface of leaf blade densely covered with whitish tomentum.
 
-Plantes dressées herbacées ou ± ligneuses à extrémités robustes non ramifiées. Stipules laminées, marcescentes ou caduques. Dessous du limbe foliaire densément revêtu d'un tomentum blanchâtre.
+Inflorescences capitate axillary enveloped in a deep bracteate involucre. Flowers heterostylous sessile; calyx tubular and toothed. Corolla with long tube. Anther subsessile apiculate, inserted toward the middle of its height. Style glabrous. Ovary with 3–5 locules, with long and narrow placentas.
 
-Inflorescences capitées aillaires enveloppées dans un involucre bractéal profond. Fleurs hétérostyles sessiles; calice tubuleux et denté. Corolle à tube long. Anthère subsessile apiculée, insérée vers la moitié de sa hauteur. Style glabre. Ovaire à 3-5 loges, à placentas longs et étroits.
-
-Fruits charnus succulents globuleux. Graines anguleuses d'env. 0,5 mm.
+Fruits fleshy succulent globose. Seeds angular approx. 0.5 mm.
 
 ---
 
-Tous les Stipularia gabonais appartiennent à l'espèce type du genre. Une seconde espèce St. elliptica Schweinf. ex Hiern, connue du Nigeria, Cameroun, Centrafrique et Congo, serait à rechercher au Gabon.
+All Gabon Stipularia belong to the type species of the genus. A second species St. elliptica Schweinf. ex Hiern, known from Nigeria, Cameroon, Central African Republic and Congo, should be sought in Gabon.
 
-Le Stipularia gabonica Hiern, à exclure, est un Sabicea.
+Stipularia gabonica Hiern, to be excluded, is a Sabicea.
 
-### CLÉ DES STIPULARIA
+### KEY TO STIPULARIA
 
-1. Involucre 4-lobé; lobes extérieurement glabres, brun rougeâtres à sec; limbe de 12-30 cm de long; stipules de 15-30 mm de large et ± persistantes..... 1. St. africana.
+1. Involucre 4-lobed; lobes glabrous externally, reddish-brown when dry; blade 12–30 cm long; stipules 15–30 mm wide and ± persistent..... 1. St. africana.
 
-1'. Involucre 2-3 lobé; lobes extérieurement couverts d'un fin et dense revêtement tomentelleux blanchâtre à sec; limbe de 6 à 18 cm de long; stipules de 2 à 7 mm de large et ± caduques.... St. elliptica.
+1'. Involucre 2–3 lobed; lobes externally covered with a fine and dense whitish tomentellate covering when dry; blade 6 to 18 cm long; stipules 2 to 7 mm wide and ± caducous.... St. elliptica.
 
 ## Species in region
 

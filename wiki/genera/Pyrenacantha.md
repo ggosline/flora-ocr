@@ -17,55 +17,49 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Shrubs or lianes dioecious with penninerved or palmate-nerved leaves, often bearing hydathodes. Inflorescences in racemes or multiflorous spikes, axillary or on old wood, often fasciculate. Flowers tri-, tetra- or pentamerous, sessile or pedicellate. Stamens with short and broad filament, replaced by staminodes in ♀ flowers. Pistillode reduced to a tuft of hairs in ♂ flowers. Ovary ellipsoid pubescent in ♀ flowers. Drupe with wooden endocarp ornamented on its internal face.
 
-Arbustes ou lianes dioïques à feuilles penninerves ou palminerves, souvent pourvues d'hydathodes. Inflorescences en grappes ou en épis multiflores, axillaires ou sur le vieux bois, souvent fasciculées. Fleurs tri-, tétra - ou pentamères, sessiles ou pédicellées. Étamines à filet court et
+TYPE SPECIES: P. volubilis Wight.
 
----
+This genus is African, Madagascan and Asian. Most of the 25 recognized species are in Africa. 10 species are represented in Cameroon and Gabon.
 
-large, remplacées par des staminodes dans les fleurs ♀. Pistillode réduit à une touffe de poils dans les fleurs ♂. Ovaire ellipsoïde pubescent dans les fleurs ♀. Drupe à endocarpe ligneux ornementé à sa face interne.
+1. Leaves palmate-nerved; inflorescences cauline; hydathodes 5 mm from the margin of the lamina ..... 1. P. klaineana.
 
-ESPÈCE-TYPE : P. volubilis Wight.
+2. Lamina sparingly pubescent or tomentose; primary and secondary veins pubescent ___ var. klaineana.
 
-Ce genre est africain, malgache et asiatique. La plupart des 25 espèces reconnues sont en Afrique. 10 espèces sont représentées au Cameroun et au Gabon.
+2'. Lamina densely and very finely pubescent or tomentose; primary and secondary veins glabrous ..... var. congolana.
 
-1. Feuilles palminerves; inflorescences caulinaires; hydathodes à 5 mm du bord du limbe ..... 1. P. klaineana.
+1'. Leaves penninerved; inflorescences axillary; hydathodes absent or on the margin of the lamina.
 
-2. Limbe désément pubescent ou tomenteux; nervures primaire et secondaires pubescentes ___ var. klaineana.
+3. Lamina glabrous or very sparingly pubescent.
 
-2'. Limbe densément et très finement pubescent ou tomenteux; nervures primaire et secondaires glabres ..... var. congolana.
-
-1'. Feuilles penninerves; inflorescences axillaires; hydathodes absents ou sur le bord du limbe.
-
-3. Limbe glabre ou très éparsement pubescent.
-
-4. Base arrondie ou très faiblement atténuée; limbe de 8-14 × 3,5-7 cm.
+4. Base rounded or very weakly attenuate; lamina 8-14 × 3.5-7 cm.
 
 2. P. glabrescens.
 
-4'. Base obtuse ou courtemment auriculée; limbe de grande taille : 20-23 × 9-10 cm ..... 3. P. grandifolia.
+4'. Base obtuse or shortly auriculate; lamina large: 20-23 × 9-10 cm ..... 3. P. grandifolia.
 
-3'. Limbe pubescent dessous.
+3'. Lamina pubescent below.
 
-5. Hydathodes présents.
+5. Hydathodes present.
 
-6. Poils apprimés.
+6. Hairs appressed.
 
-7. Hydathodes globuleux peu saillants; nervure médiane glabre dessus; pubescence de la face inférieure assez dense; tige glabre; fleurs sessiles; aiguillons crochus à la face interne de l'endocarpe.....
+7. Hydathodes globose slightly prominent; midvein glabrous above; pubescence of lower face fairly dense; stem glabrous; flowers sessile; prickles hooked on the internal face of the endocarp.....
 
 …… 4. P. vogeliana.
 
-7'. Hydathodes piriformes très saillants; nervure médiane pubescente dessus; pubescence de la face inférieure très dense; tige pubescente; fleurs ♂ pédicellées; aiguillons droits à la face interne de l'endocarpe ..... 5. P. acuminata.
+7'. Hydathodes piriform very prominent; midvein pubescent above; pubescence of lower face very dense; stem pubescent; ♂ flowers pedicellate; prickles straight on the internal face of the endocarp ..... 5. P. acuminata.
 
-6. Poils non apprimés, dressés et ‡ enchevêtrés.
+6. Hairs not appressed, erect and ± entangled.
 
-8. Hydathodes globuleux non dressés; inflorescences ♂ en épi dense; inflorescences ♀ en glomérules ..... 6. P. staudtii.
+8. Hydathodes globose not erect; ♂ inflorescences in dense spike; ♀ inflorescences in glomerate clusters ..... 6. P. staudtii.
 
-8'. Hydathodes piriformes; inflorescences ♂ en grappes multiflores lâches; inflorescences ♀ en grappes.
+8'. Hydathodes piriform; ♂ inflorescences in loose multiflorous racemes; ♀ inflorescences in racemes.
 
-9. Bractées des fleurs ♂ au sommet du pédicelle; pétales densément pubescents; aiguillons droits ou fourchus à la face interne de l'endocarpe ..... 7. P. sylvestris.
+9. Bracts of ♂ flowers at the apex of the pedicel; petals densely pubescent; prickles straight or forked on the internal face of the endocarp ..... 7. P. sylvestris.
 
-9'. Bractées des fleurs ♂ à la base ou au milieu du pédicelle; pétales éparsement pubescents; aiguillons courbés au sommet à la face interne de l'endocarpe ..... 8. P. lebrunii.
+9'. Bracts of ♂ flowers at the base or middle of the pedicel; petals sparingly pubescent; prickles curved at the apex on the internal face of the endocarp ..... 8. P. lebrunii.
 
 ## Species in region
 

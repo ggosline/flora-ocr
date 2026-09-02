@@ -16,57 +16,25 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 in A.DC. & C.DC., Monogr. phan. 4 : 259 (1883).
 
-Arbres . Feuilles alternes, imparipennées ; folioles 5 à 21, alternes à opposées, à limbe
+Trees. Leaves alternate, imparipinnate; leaflets 5 to 21, alternate to opposite, with blade ± asymmetric, oblong-elliptic, with 5 to 12 pairs of lateral veins. Inflorescences in terminal or axillary panicles, lax, with short, simple, erect hairs. Flowers unisexual, dioecious, 3- or 4(–5)-merous, with imbricate prefloration. Male flowers: sepals slightly fused at the base, obtuse at the apex; petals elliptic, ± spreading at anthesis; stamens 6 to 8(–10), the episepalous ones somewhat longer than the epipetalous, inserted around the crenate disk with the rudimentary pistillode in the middle. Female flowers similar to male flowers, but with staminodes smaller than the stamens; ovary globose, with 3 or 4(–5) uniovulate locules; styles 3 or 4(–5), short, ± terminal. Fruits oblong-ovoid, ± 4(–5)-angular or compressed, glabrous, with 1 or 2(–4) seeds. Seeds oblong.
 
-± asymétrique , oblong-elliptique, avec 5 à 12 paires de nervures latérales. Inflorescences
+Genus of tropical Africa with two species present in Gabon.
 
-en panicules terminales ou axillaires, lâches, à poils courts, simples, dressés . Fleurs uni-
+Notes: The species P. gigantea A.Chev. (1917) was transferred by Hauman (1960) to Ganophyllum Blume, a genus of Sapindaceae. It is now called G. giganteum (A.Chev.) Hauman.
 
-sexuées, dioïques , 3- ou 4(–5)-mères, à préfloraison imbriquée. Fleurs mâles : sépales légère -
-
-ment soudés à la base, obtus au sommet ; pétales elliptiques, ± étalés à l’anthèse ; étamines 6 à
-
-8(–10), les épisépales un peu plus longues que les épipétales, insérées autour du disque crénelé
-
-avec le pistillode rudimentaire au milieu. Fleurs femelles semblables aux fleurs mâles, mais
-
-à staminodes plus petits que les étamines ; ovaire globuleux, à 3 ou 4(–5) loges uniovulées ;
-
-styles 3 ou 4(-5), courts, ± terminaux. Fruits oblongs-ovoïdes, ± 4(–5)-gonaux ou comprimés,
-
-glabres, à 1 ou 2(–4) graines. Graines oblongues.
-
-Genre d’Afrique tropicale à deux espèces présentes au Gabon.
-
-Notes : L’espèce P. gigantea A.Chev. (1917) a été transféré par Hauman (1960) à Ganophyllum Blume,
-
-genre de Sapindaceae. Elle s’appelle maintenant G. giganteum (A.Chev.) Hauman.
-
-Keay (1958), dans Flora of West tropical Africa , avait distingué une seule espèce, P. microcarpa , avec
-
-trois variétés : var. hirsuta Brenan , var . longifolia (Engl.) Keay et var. microcarpa . La var. hirsuta n’est
-
-pas signalée au Gabon. Les différences entre les variétés longifolia et microcarpa sont cependant d’une
-
-importance qui mérite le niveau d’espèce.
+Keay (1958), in Flora of West tropical Africa, had distinguished a single species, P. microcarpa, with three varieties: var. hirsuta Brenan, var. longifolia (Engl.) Keay and var. microcarpa. The var. hirsuta is not recorded in Gabon. The differences between the varieties longifolia and microcarpa are, however, of importance that merits the rank of species.
 
 B : Chevalier (1917), Hauman (1960), Keay (1958), Pell et al. (2011), Van der Veken (1960a)
 
-i B liographie
+Bibliography
 
-### Clé des espèces
+### Key to the species
 
-1. - Fleur 4(–5)-mère, à pédicelle jusqu’à 1 mm, articulé près de la base ; fruit jusqu’à
+1. - Flower 4(–5)-merous, with pedicel up to 1 mm, articulate near the base; fruit up to 2.8 cm in length, with 1 or 2 seeds ......................................................... P. microcarpa
 
-2,8 cm de longueur, à 1 ou 2 graines ......................................................... P. microcarpa
-
-- Fleur 3-mère, souvent ± sessile ou à pédicelle jusqu’à 1 mm, articulé au sommet ; fruit
-
-(2-)2,5–3,5 cm de longueur, à 1 graine ......................................................... P. longifolia
+- Flower 3-merous, often ± sessile or with pedicel up to 1 mm, articulate at the apex; fruit (2-)2.5–3.5 cm in length, with 1 seed ......................................................... P. longifolia
 
 ---
 

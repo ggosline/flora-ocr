@@ -17,31 +17,29 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Shrubs, small shrubs or small trees. Internodes frequently pubescent. Stipules entire, often finely pubescent. Leaves generally having domatia. Inflorescences axillary, uni, pauci or multiflorous, very rarely grouped into terminal panicles often staggered on successive nodes. Calyx cupuliform or not, with 5 (6) small lobes or denticules. Corolla valvate with 5 lobes and short tube, ca. 1.5–4 mm. Anthers mediorsifix apiculate, with 2 locules. Style often pubescent. Disk ± convex or truncate, pubescent or glabrous. Ovary with 2–3 locules. Placenta U- or V-shaped with the lower transverse part attenuate, or bilobed placenta forming in each locule two independent ovular masses. Fruits fleshy globose; seeds (0.4) 0.7–1 mm, globoid-ovoid with reticulate testa, sometimes ± muriculate crested.
 
-Arbrisseaux, arbustes ou petits arbres. Entrenœuds fréquemment pubescents. Stipules entières souvent finement pubescentes. Feuilles ayant généralement des domaties. Inflorescences axillaires uni, pauci ou multiflores très rarement groupées en panicules terminales souvent échelonnées sur des nœuds successifs. Calice cupuliforme ou non, à 5 (6) petits lobes ou denticules. Corolle valvaire à 5 lobes et à tube court, env. 1,5-4 mm. Anthères médiorsifixes apiculées, à 2 loges. Style souvent pubescent. Disque ± bombé ou tronqué, pubescent ou glabre. Ovaire à 2-3 loges. Placenta en U ou V avec la partie transversale inférieure amincie, ou placenta bilobé formant dans chaque loge deux masses ovulaires indépendantes. Fruits charnus gobuleux; graines de (0,4) 0,7-1 mm, globoïdes-ovoïdes à testa réticulé, parfois cristé ± muriculé.
+Type: P. canthiflora Hook. f. This genus, fairly extensive and moderately homogeneous, has as neighbors or "satellites" the small homogeneous genera Commitheca, Stelecantha and Poecilocalyx.
 
-Type : P. canthiflora Hook. f. Ce genre, assez étendu et médiocrement homogène, à pour voisins ou « satellites », les petits genres homogènes Commitheca, Stelecantha et Poecilocalyx.
-
-### Uniquement africain, ce genre ne comptait encore que
+### Exclusively African, this genus contained only
 
 ---
 
-3 espèces en 1940. À cette date Bremekamp le compléta par un certain nombre d'espèces qu'il retira du genre Urophyllum Wall. ce dernier ne compte maintenant plus un seul représentant africain. En 1959, Hepper ajouta quelques unités aux Pauridiantha. Actuellement ce genre contient 25 espèces distribuées de la guinée portugaise à l'Ouganda, plus une espèce à Madagascar; 9 habitent l'Afrique occidentale; 12 sont gabonaises.
+3 species in 1940. At that date Bremekamp supplemented it with a certain number of species which he removed from the genus Urophyllum Wall., this latter now having not a single African representative. In 1959, Hepper added a few units to Pauridiantha. Currently this genus contains 25 species distributed from Portuguese Guinea to Uganda, plus one species from Madagascar; 9 inhabit West Africa; 12 are Gabonese.
 
-### PAURIDIANTHA : CLÉ DES ESPÈCES
+### PAURIDIANTHA: KEY TO SPECIES
 
-1. Rameaux grêles; jeunes entrenceuds d'env. 1 mm de large ou moins; stipules plus étroites que le rameau, souvent subulées; inflorescences pauciflores ou à la fois pluriflores et contractées.
+1. Branches slender; young internodes ca. 1 mm wide or less; stipules narrower than the branch, often subulate; inflorescences pauciflorous or at once pluriflorous and contracted.
 
-2. Ovaire triloculaire.
+2. Ovary trilocular.
 
-3. Feuilles non rubescentes à sec; inflorescences uniflores souvent fasciculées; médiane un peu pubescente dessus; calice cupuliforme à dents un peu inférieures à 0,5 mm; corolle à tube pubérulent; fruit un peu 6-lobé en vue apicale à sec; rameaux à pubescence fine et éparse; pédicelle accrescent sous le fruit; domaties à large ouverture ovale un peu pubescente; fruit devenant noir. P. sylvicola (H. et D.) Brem. (de la Guinée ex-fr. au Ghana).
+3. Leaves not rubescent when dry; inflorescences uniflorous, often fasciculate; median somewhat pubescent above; calyx cupuliform with teeth slightly less than 0.5 mm; corolla with puberulent tube; fruit somewhat 6-lobed in apical view when dry; branches with fine and sparse pubescence; pedicel accrescent under the fruit; domatia with broad oval opening somewhat pubescent; fruit becoming black. P. sylvicola (H. et D.) Brem. (from former French Guinea to Ghana).
 
-3'. Feuilles rubescentes à sec; inflorescences uniflores solitaires; médiane glabre dessus; calice à rebord cupuliforme et dents de 0,8 mm env.; domaties à ouverture étroite et sans pilosité particulière; fruit devenant bleu..... 1. P. venusta.
+3'. Leaves rubescent when dry; inflorescences uniflorous, solitary; median glabrous above; calyx with cupuliform margin and teeth ca. 0.8 mm; domatia with narrow opening and without particular pilosity; fruit becoming blue..... 1. P. venusta.
 
-2'. Ovaire à 2 loges.
+2'. Ovary with 2 locules.
 
-4. Inflorescences uniflores, rarement à 2-3 fleurs; pédicelles de 2-10 mm; médiane glabre dessus.
+4. Inflorescences uniflorous, rarely with 2–3 flowers; pedicels 2–10 mm; median glabrous above.
 
 ## Species in region
 

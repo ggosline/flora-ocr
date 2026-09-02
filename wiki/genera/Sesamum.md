@@ -17,75 +17,29 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Perennial or annual herbs, erect or prostrate; stem with setaceous hairs, other parts with pilose indumentum. Leaves with blade of highly variable form, often polymorphous. Flowers solitary, supported by small and rudimentary bracts; pedicel with extrafloral nectaries at the base; corolla obliquely tubular and narrowed at the base, white, pink or purple, with anterior lobes subequal or enlarged; anthers dorsifixed, connective provided with a gland; disk annular; ovary subcylindric, 2-locular but locules divided almost to the apex by a false septum, ovules numerous, uniseriate. Fruits coriaceous or rarely woody, rostrate, without lateral appendages, often partially dehiscent; calyx often persistent. Seeds obovate, compressed, winged or with (1–)2 fringes; testa smooth or rugose.
 
-Herbes vivaces ou annuelles, dressées ou couchées ; tige à poils sétacés, autres parties à
+A very heterogeneous and polyphyletic genus, with about twenty species, most of them indigenous to Africa south of the Sahara, a few in India and Sri Lanka; in Gabon, three species.
 
-indument pileux. Feuilles à limbe de forme très variable, souvent polymorphe . Fleurs
-
-solitaires , soutenues par des bractées petites et rudimentaires ; pédicelle avec nectaires
-
-extrafloraux à la base ; corolle obliquement tubulaire et rétrécie à la base, blanche, rose
-
-ou pourpre, à lobes antérieurs subégaux ou élargis ; anthères dorsifixes, connectif muni
-
-d’une glande ; disque annulaire ; ovaire subcylindrique, 2-loculaire mais locules divisés
-
-presque jusqu’au sommet par un fausse cloison, ovules nombreux, unisériés. Fruits co-
-
-riaces ou rarement ligneux, rostrés, sans appendices latéraux , souvent partiellement
-
-déhiscents ; calice souvent persistant. Graines obovées, comprimées, ailées ou à (1−)2
-
-franges ; testa lisse ou rugueux.
-
-Un genre très hétérogène et polyphylétique, avec une vingtaine d’espèces, la plupart in-
-
-digènes en Afrique au sud du Sahara, quelques-unes en Inde et au Sri Lanka ; au Gabon,
-
-trois espèces.
-
-Notes : Sesamum indicum (sésame) est une plante importante, cultivée dans le monde
-
-pour son huile qui est extraite de la graine. Dans la Check-list des plantes vasculaires
-
-du Gabon (Sosef et al. 2006), la présence de Sesamum angustifolium (Oliv.) Engl. a été
-
-signalée par erreur au Gabon.
+Notes: Sesamum indicum (sesame) is an important plant, cultivated throughout the world for its oil which is extracted from the seed. In the Check-list of vascular plants of Gabon (Sosef et al. 2006), the presence of Sesamum angustifolium (Oliv.) Engl. was erroneously reported from Gabon.
 
 ---
 
-Au moins quatre sections peuvent être distinguées : sect. Aptera Seidenst. emend. Bedi-
+At least four sections can be distinguished: sect. Aptera Seidenst. emend. Bedigian, sect. Sesamopteris Endl., sect. Chamaesesamum Benth. and sect. Sesamum emend. Bedigian. The two latter are not present in Africa.
 
-gian, sect. Sesamopteris Endl., sect. Chamaesesamum Benth. et sect. Sesamum emend.
+B: Bedigian (2003, 2010), Bruce (1953), Heine (1963).
 
-Bedigian. Les deux dernières ne sont pas présentes en Afrique.
+Bibliography
 
-B : Bedigian (2003, 2010), Bruce (1953), Heine (1963).
+### Key to species
 
-i B liographie
+1. - Leaf with petiole 3–11 cm; blade with margins generally dentate; fruits 1.5–4 cm in length ..................................................................................................................... 2
 
-### Clé des espèces
+- Leaf sessile or with short petiole; blade with entire margins; fruits 0.9–1.3 cm in length .................................................................................................... S. parviflorum
 
-1. - Feuille à pétiole de 3−11 cm ; limbe à bords généralement dentés ; fruits 1,5−4 cm
+2. - Plant slightly pubescent; blade of lower leaves deeply divided or palmately compound; fruit beak terminating in an acute point; mature seeds with fine reticulation, wrinkles or almost smooth, white to brown and black, sometimes beige, yellow or red ................................................................................. S. indicum
 
-de longueur ..................................................................................................................... 2
-
-- Feuille sessile ou à pétiole court ; limbe à bords entiers ; fruits 0,9−1,3 cm de
-
-longueur .................................................................................................... S. parviflorum
-
-2. - Plante légèrement pubescente ; limbe des feuilles inférieures profondément divisé ou
-
-composé palmé ; bec du fruit se terminant en une pointe aiguë ; graines mûres avec
-
-une réticulation fine, des rides ou presque lisses, blanches à brunes et noires, parfois
-
-beiges, jaunes ou rouges ................................................................................. S. indicum
-
-- Plante entièrement densément pubescente ; limbe des feuilles inférieures jamais
-
-composé ou divisé ; bec du fruit avec des traces de cornes apicales ; graines
+- Plant entirely densely pubescent; blade of lower leaves never compound or divided; fruit beak with traces of apical horns; seeds
 
 ## Species in region
 

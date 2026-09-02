@@ -16,15 +16,11 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Terrestrial ferns, with extensively creeping rhizome bearing hairs or scales. Fronds spaced, of large size, pinnate or multipinnate, apparently dichotomous through abortion of the terminal bud. Ultimate segments lobed almost to the rachis; frequent presence of "stipules" at the base of bifurcations. Veins forked, free. Sori without indusium, bearing a few rare sporangia with complete annulus, oblique, opening by a vertical slit. Gametophyte bearing a distinct median vein.
 
-Fougères terrestres, à rhizome longuement rampant, portant des poils ou des écailles. Frondes espacées, de grande taille, pennées ou pluripennées, apparemment dichotomes par abortion du bourgeon terminal. Segments ultimes lobés presque jusqu'au rachis; présence fréquente de « stipules » à la base des bifurcations. Nervures furquées, libres. Sores sans indusie, portant quelques rares sporanges à anneau complet, oblique, s'ouvrant par une fente verticale. Gamétophyte portant une nervure médiane nette.
+Type species: Gleichenia polypodioides (L.) J. Sm.
 
-Espèce type : Gleichenia polypodioides (L.) J. Sm.
-
-Une espèce au Gabon.
-
----
+One species in Gabon.
 
 ## Species in region
 

@@ -16,21 +16,19 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 in DURAND, Ind. Gen. : 81 (1887); in ENGL., Pflanzenreich, Sapindaceae : 1406 (1933).
 
-Sapindacées à 2 ovules par loge. Feuilles paripennées. Arbres ou arbustes à fleurs régulières, souvent apétales; ovaire à 2 ou 3 loges. Fruit indéhiscent; graine sans arille.
+Sapindaceae with 2 ovules per locule. Leaves paripinnate. Trees or shrubs with regular flowers, often apetalous; ovary with 2 or 3 locules. Fruit indehiscent; seed without aril.
 
-GENRE-TYPE : Doratoxylon Thou.
+TYPE GENUS: Doratoxylon Thou.
 
-### Tribu comprenant 9 genres extra-africains et 2 genres africains.
+### Tribe comprising 9 extra-African genera and 2 African genera.
 
-1. Radicule ponctuelle, non cachée dans un repli du tégument; 4 (-5) étamines opposées aux sépales; calice tomentelleux à l'extérieur, sans glandes saillantes, glabre à l'intérieur; disque non lobé; inflorescence ♂, 5-10 cm; fruit apiculé, bacciforme; embryon droit..... 23. ZANHA.
+1. Radicle punctate, not hidden in a fold of the integument; 4 (-5) stamens opposite the sepals; calyx tomentellous on the exterior, without prominent glands, glabrous on the interior; disc not lobed; male inflorescence 5-10 cm; fruit apiculate, bacciform; embryo straight..... 23. ZANHA.
 
 ---
 
-1'. Radicule allongée, recouverte par un repli du tégument; 5 étamines alternant avec les sépales; calice glabre à l'extérieur, avec glandes saillantes, tomentelleux à l'intérieur; disque à 5 lobes opposés aux sépales; inflorescence ♂ 15-20 cm; fruit apicule ou non, drupacé; embryon plié..... 24. GANOPHYLLUM.
+1'. Radicle elongate, covered by a fold of the integument; 5 stamens alternating with the sepals; calyx glabrous on the exterior, with prominent glands, tomentellous on the interior; disc with 5 lobes opposite the sepals; male inflorescence 15-20 cm; fruit apiculate or not, drupaceous; embryo folded..... 24. GANOPHYLLUM.
 
 ## Species in region
 

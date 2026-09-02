@@ -17,25 +17,17 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Shrubs, small trees or rarely climbers or low plants. Internodes finely pubescent, rarely glabrous. Stipules entire ± acute, connate at the base in the axils. Petiole canaliculate. Lamina elliptic with variable pubescence, generally dense on the undersurface of the nerves. Fine nervilles in a remarkable striolate network in certain species of the type subgenus.
 
----
+Inflorescences terminal on the lateral branches, more rarely axillary on the main stem. Racemes of cymes sometimes contracted into spikes or spherical pseudocapitules. The cymes are typically composed of a peduncle bearing two uniparious scorpioid secondary cymes. Flowering is staggered even in species said to be capitate.
 
-Arbrisseaux, arbustes ou petits arbres, rarement lianes ou plantes basses. Entrenœuds finement pubescents, rarement gla-bres. Stipules entières ± aiguës, connées à la base aux aisselles. Pétiole canaliculé. Limbe elliptique à pubescence variable, généra-lement dense sous le dessous des nervures. Fines nervilles en réseau striolé remarquable chez certaines espèces du sous-genre type.
+Flowers sessile or pedicellate. Calyx pubescent or not, with limb ± cupuliform lobed or subtruncate. Corolla with a narrow cylindrical tube from the base, then widening at the level of the anthers to the throat. Internal pubescence of the corolla variable between the base of the lobes and a zone below the anthers; in the subgenus Bertiera this annular zone is composed of refracted hairs; these are replaced by micropapillae in the subgenus Bertierella. Petals 5, acute and contorted in the bud. 5 introrse stamens. Anthers subsessile attached at about the lower third of their height, 2-locular, narrow, with ± sagittate base, with apiculate connectivum erect at the level of the commissure of the lobes. Pollen tricolporate (quadricolporate in B. guianensis Aubl. and B. spicata (Gaertn.) Wernh.), angulaperturate, equiaxial or weakly breviaxial. Ectexine reticulate with narrow meshes. Style narrow, glabrous, bearing an enlarged stigma formed of two adherent lamellae as long as the anthers; this stigma is ornamented with 10 membranous crests that insert in the bud between the pollen sacs; these lamellae receive pollen at the beginning of anthesis. Disk fleshy ± developed, glabrous. Ovary two-locular with numerous ovules. Placentas peltate, capitate, weakly emarginate at the upper part.
 
-Inflorescences terminales sur les rameaux latéraux, plus rarement axillaires sur la tige principale. Grappes de cymes parfois contractées en épis ou en pseudocapitules sphériques. Les cymes sont typiquement composées d'un pédoncule portant deux cymes secondaires unipares scorpioides. La floraison est échelonnée même chez les espèces dites capitées.
+Fruit fleshy ± coloured, blue, purplish, red, white or whitish, sometimes green at maturity, globular or ovoid with persistent calyx, with pedicel sometimes accrescent. Seeds black or brownish, tetrahedral or truncate-pyramidal, 1–1.8 mm, with finely rugose or granulate surface. Embryo straight, short, surrounded by horny albumen.
 
-Fleurs sessiles ou pédicellées. Calice pubescent ou non, à limbe ± cupuliforme lobé ou subtronqué. Corolle à tube cylindrique étroit depuis la base, puis s'élargissant au niveau des anthères jusqu'à la gorge. Pubescence interne de la corolle variable entre la base des lobes et une zone inférieure aux anthères; dans le sous-genre Bertiera cette zone annulaire se compose de poils réfractés; ceux-ci sont remplacés par des micropapilles dans le sous-genre Bertierella. Pétales 5, aigus et contortés dans le bouton. 5 étamines introrses. Anthères subsessiles attachées vers le tiers inférieur de leur hauteur, à 2 loges, étroites, à base ± sagittée, à connectif apiculé dressé au niveau de la commissure des lobes. Pollen tricolporé (quadricolporé chez B. guianensis Aubl. et B. spicata (Gaertn.) Wernh.), angulaperturé, équiaxe ou faiblement bréviaxe. Ectexine réticulée à mailles étroites. Style étroit, glabre, portant un stigmate élargi formé de deux lames adhérentes aussi longues que les anthères; ce stigmate est orné de 10 crêtes membraneuses qui s'insèrent dans le bouton entre les loges polliniques; ces lames reçoivent le pollen au début de l'anthèse. Disque charnu ± développé, glabre. Ovaire à deux loges multioulées. Placentas peltés, capités, faiblement émarginés à la partie supérieure.
+Type of the genus: Bertiera guianensis Aubl. from equatorial America.
 
-Fruit charnu ± coloré, bleu, violacé, rouge, blanc ou blanchâtre, parfois vert à maturité, globuleux ou ovoïde à calice per-sistant, à pédicelle parfois accrescent. Graines noires ou brunâtres
-
----
-
-tétraédriques ou tronc-pyramidales de 1-1,8 mm, à surface finement ruguleuse ou granuleuse. Embryon droit, court, entouré d'un albumen corné.
-
-Type du genre : Bertiera guianensis Aubl. d'Amérique équatoriale.
-
-55 espèces tropicales d'Afrique, Madagascar, Indonesie et Amérique; 41 espèces africaines; 19 espèces gabonaises.
+55 tropical species from Africa, Madagascar, Indonesia and America; 41 African species; 19 Gabonese species.
 
 ## Species in region
 

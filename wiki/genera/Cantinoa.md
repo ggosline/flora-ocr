@@ -15,47 +15,15 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Herbs or subshrubs, often aromatic. Leaves simple, petiolate, sessile.
 
-Herbes ou sous-arbrisseaux , souvent aromatiques. Feuilles simples, pétiolées, sessiles.
+Inflorescences terminal, in spiciform thyrse; cymes subsessile, monochasial; bracts and bractlets small. Flowers subsessile; calyx campanulate, regular, with 5 subequal lobes, linear-subulate, with elongate and urceolate tube, with long hairs toward the apex and around the throat; corolla shortly exsert from calyx tube, upper lip with 2 equal lobes, erect or reflexed, lower lip 3-lobed, median lobe sacciform, constricted at the base, articulate, abruptly deflexed at anthesis (in releasing pollen), with a transverse crest at the base; stamens 4, declined, slightly exsert from tube at anthesis, included in median lobe of lower lip in bud, not appendiculate, the upper pair attached slightly below the lower or above the midpoint of the tube, the lower pair longer, attached at the base of the median lobe of the lower lip, filaments free, anthers reniform, dorsifixed, with equal thecae; ovary deeply 4-lobed, glabrous; style gynobasic, apex shortly bifid with subequal branches. Fruits: 4 achenes, with small 2-lobed basal scars well marked, smooth or wrinkled, sometimes producing mucilage when wet.
 
-Inflorescences terminales, en thyrse spiciforme ; cymes subsessiles, monochasiales ; brac-
+Genus with twenty-three species, found in the southeastern United States, the Caribbean and South America down to Argentina. Two species are introduced and widespread in the Old World, including one in Gabon.
 
-tées et bractéoles petites. Fleurs subsessiles ; calice campanulé, régulier, à 5 lobes subégaux,
+B: Harley & Pastore (2012), Paton et al. (2013).
 
-linéaires-subulés, à tube allongé et urcéolé, à longs poils vers le sommet et autour de la gorge ;
-
-corolle courtement exserte du tube du calice, lèvre supérieure à 2 lobes égaux, dressés ou
-
-réfléchis, lèvre inférieure 3-lobée, lobe médian sacciforme , resserré à la base, articulé,
-
-brusquement défléchi à l’anthèse (en relâchant le pollen), avec une crête transversale
-
-à la base ; étamines 4, déclinées , légèrement exsertes du tube à l’anthèse, incluses dans le
-
-lobe médian de la lèvre inférieure en bouton, non appendiculées, la paire supérieure fixée
-
-légèrement en dessous de l’inférieure ou au-dessus du point médian du tube, la paire inférieure
-
-plus longue, fixée à la base du lobe médian de la lèvre inférieure, filets libres, anthères réni -
-
-formes, dorsifixes, à thèques égales ; ovaire profondément 4-lobé, glabre ; style gynobasique,
-
-apex courtement bifide à branches subégales. Fruits : akènes 4, à petites cicatrices basales
-
-2-lobées bien marquées , lisses ou rugueux, produisant parfois du mucilage lorsqu’ils sont
-
-mouillés.
-
-Genre avec vingt-trois espèces, trouvées dans le sud-est des États-Unis, les Caraïbes et en Amérique du
-
-Sud jusqu’en Argentine. Deux espèces sont introduites et répandues dans l’Ancien Monde, dont une au
-
-Gabon.
-
-B : Harley & Pastore (2012), Paton et al. (2013).
-
-i B liographie
+Bibliography
 
 ## Species in region
 

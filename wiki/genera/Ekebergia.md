@@ -17,33 +17,13 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Trees or shrubs dioecious, with an indumentum of simple hairs. Leaves imparipinnate, with 2–7 pairs of leaflets. Inflorescences axillary, in the form of panicles or racemes, contracted. Flowers 5-merous, functionally unisexed; calyx cupuliform, generally deeply 5-lobed or -toothed; petals 4(–5), free; stamens (8–)10, entirely fused into a staminal tube bearing anthers implanted at the apex; disk patellifom or annular, surrounding the ovary, fleshy; ovary 2–5(–6)-locular, with axile placentation, with 2 superposed ovules per locule, narrow pistillode in functionally male flowers, with the ovary having vestigial ovules. Fruits indehiscent (drupes), with 2–5(–6) pyrenes. Seed in the form of a segment of an orange, without aril, with thin testa; cotyledons plano-convex, collateral.
 
-Arbres ou arbustes dioïques, à indument de poils simples. Feuilles imparipennées , à 2–7
+African genus comprising 3 or 4 species of which presumably 1 in Gabon.
 
-paires de folioles. Inflorescences axillaires, en forme de panicules ou racèmes, contrac -
+B: Mabberley (2011), Pennington & Styles (1975), Staner & Gilbert (1958),
 
-tées. Fleurs 5-mères, fonctionnellement unisexuées ; calice cupuliforme, généralement
-
-profondément 5-lobé ou -denté ; pétales 4(–5), libres ; étamines (8–)10, entièrement sou -
-
-dées en un tube staminal portant les anthères implantées au sommet ; disque patelli -
-
-forme ou annulaire, entourant l’ovaire, charnu ; ovaire 2–5(–6)-loculaire, à placentation
-
-axillaire, à 2 ovules superposés par loge, pistillode étroit dans les fleurs fonctionnellement
-
-mâles, avec l’ovaire à ovules vestigiaux. Fruits indéhiscents (drupes), à 2–5(–6) noyaux.
-
-Graine en forme d’un segment d’une orange, sans arille, à testa mince ; cotylédons plans-
-
-convexes, collatéraux.
-
-Genre africain comprenant 3 ou 4 espèces dont vraisemblablement 1 au Gabon.
-
-B : Mabberley (2011), Pennington & Styles (1975), Staner & Gilbert (1958),
-
-ibliographie
+ibliography
 
 Styles & White (1991).
 

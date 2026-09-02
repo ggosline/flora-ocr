@@ -17,37 +17,27 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Shrubs, lianes or trees.
 
-Arbustes, lianes ou arbres.
+Lianes: reaching a length of 120 m and a height of 45 m; stems reaching a diameter of 30 cm; with hook-shaped tendrils, solitary or in 1–3 superposed pairs, with short branchlets, at the axils of small bracts or sometimes (but then solitary) at the axils of ordinary leaves, occupying the place of an inflorescence.
 
-Lianes : atteignent une longueur de 120 m et une hauteur de 45 m; tiges atteignent un diamètre de 30 cm; avec des vrilles en forme de crochets, solitaires ou par 1-3 paires superposées, à rameaux courts, aux aiselles de petites bractées ou parfois (mais alors solitaires) aux aiselles des feuilles ordinaires, occupant la place d'une inflorescence.
+Trees: generally less than 10 m in height (savanna species), but reaching 10–35 m in height in forest; trunk 10–100 cm in diameter: without tendrils.
 
-Arbres : généralement inférieurs à 10 m de hauteur (espèces de savane), mais atteignent 10-35 m de hauteur en forêt; tronc de 10-100 cm de diamètre: sans vrilles.
+Wood usually with islands of phloem (except in section Spinosae and in S. henningsii). Branchlets generally unarmed, sometimes with axillary spines (section Spinosae) or scattered (S. aculeata). Stipules caducous (section Spinosae), more or less persistent (S. congolana) or more often reduced to a line between the petioles.
 
-Bois habituellement avec des îlots de phloème (sauf dans la section Spinosae et chez S. henningsii). Rameaux généralement non épineux, parfois avec des épines axillaires (section Spinosae) ou dispersées (S. aculeata). Stipules caduques (section Spinosae), plus ou moins persistantes (S. congolana) ou plus souvent réduites à une ligne entre les pétioles.
+Leaves opposite or exceptionally ternate on the central axis; in each pair or whorl, equal or nearly equal, petiolate or sometimes subsessile; leaves of variable form, usually smaller in lianes and sarmentose shrubs, on the central axis and at the base of small branchlets. Blade orbicular to narrowly elliptic, generally coriaceous, thinner, often larger and more acute in shade, entire, with 1–2(–3) pairs of lateral veins arising from the base or nearly so, curved along the margin, rarely pinninerved.
 
-Feuilles opposées ou exceptionnellement ternées sur l'axe central; dans chaque paire ou verticille, égales ou presque égales, pétiolées ou parfois subsessiles; feuilles de forme variable, habituellement plus petites chez les lianes et arbustes sarmenteux, sur l'axe central et à la base des petits rameaux. Limbe orbiculaire à étroitement elliptique, généralement coriace, plus mince, souvent plus grand et plus aigu à l'ombre, entier, avec 1-2(-3) pai
+Inflorescences terminal, axillary or both at once, thyrsoid, uni- to multiflorous, lax or contracted.
 
----
+Flowers tetra- or pentamerous. Sepals orbicular, triangular or less often narrowly oblong, imbricate. Corolla rotate, campanulate or trumpet-shaped; lobes valvate. Stamens inserted at the throat or in the corolla tube. Ovary with two locules or rarely with a single locule; style persistent; stigma generally capitate. Ovules in highly variable number, inserted on an axillary placenta in two-locular ovaries or basal in one-locular ovaries.
 
-res de nervures latérales partant de la base ou presque, courbées le long de la marge, rarement penninervé.
+Fruits in globose, ellipsoid, or exceptionally pyriform berries, of variable size, with one seed or with a large number of seeds of various forms; wall often thick and pseudoligncous.
 
-Inflorescences terminales, axillaires ou les deux à la fois, thyrsoïdes, uni-à multiflores, lâches ou contractées.
+TYPE SPECIES: Strychnos nux-vomica Linné.
 
-Fleurs tétra- ou pentamères. Sépales orbiculaires, triangulaires ou moins souvent étroitement oblongs, imbriqués. Corolle rotacée, campanulée ou en trompette; lobes valvaires. Étamines insérées à la gorge ou dans le tube de la corolle. Ovaire à deux loges ou rarement à une seule; style persistant; stigmate généralement capité. Ovules en nombre très variable, insérés sur un placenta axillaire dans les ovaires à deux loges ou basal dans les ovaires à une loge.
+Approximately 200 species in the tropics, of which 75 in Africa and Madagascar.
 
-Fruits en baies globuleuses, ellipsoïdes, ou exceptionnellement pyri-
-
-formes, de taille variable, à une graine ou avec un grand nombre de
-
-graines de formes diverses; paroi souvent épaisse et pseudoligneuse.
-
-ESPÈCE-TYPE : Strychnos nux-vomica Linné.
-
-Environ 200 espèces sous les tropiques, dont 75 en Afrique et à Madagascar.
-
-NOTES : Strychnos est représenté en Afrique par 11 sections; ces sections sont énumérées ici avec leurs espèces camerounaises et gabonaises dans un ordre plus ou moins naturel.
+NOTES: Strychnos is represented in Africa by 11 sections; these sections are enumerated here with their Cameroonian and Gabonese species in a more or less natural order.
 
 ## Species in region
 

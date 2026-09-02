@@ -16,19 +16,17 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Rhizome long-creeping, bearing pale brown hairs; vascular system solenostelic. Frond tripinnate-quadripinnatifid, with continuous growth; axes channelled, the furrows communicating from one axis to another. Sori continuous, marginal, arising on a vascular commissure, protected by a double indusium, one formed by the reflexed margin, the internal indusium remaining thin.
 
-Rhizome longuement rampant, portant des poils bruns clairs; système vasculaire solenostélique. Fronde tripennée-quadripinnatifide, à croissance continue; axes canaliculés, les sillons communicant d'un axe à l'autre. Sores continus, marginaux, nés sur une commissure vasculaire, protégés par une indusie double, l'une étant formée par la marge réfléchie, l'indusie interne restant mince.
+Type species: Pteridium aquilinum (L.) Kühn.
 
-Espèce type : Pteridium aquilinum (L.) Kühn.
+A single species, or a few very closely related species; temperate and tropical regions.
 
-Une espèce globale, ou quelques espèces très voisines; régions tempérées et tropicales.
+May be regarded as the transition between the DENNSTAEDTIACEAE and the PTERIDEAE, superficially resembling Pteris.
 
-Peut être regardé comme le passage dentre les DENNSTAEDTIACEAE et les PTERIDEAE, ressemblant superficiellement aux Pteris.
+1. Plant subglabrous, pinnules elongate, entire or pinnatifid at the base and long-caudate, making an oblique angle with the costa; frond oval, ..... 1. P. centrali-africanum.
 
-1. Plante subglabre, pinnules allongées, entières ou pinnatifides à la base et longuement caudées, faisant un angle oblique avec le costa; fronde ovale, ..... 1. P. centrali-africanum.
-
-1'. Face inférieure du limbe et rachis de tous ordres portant un tomentum rougeâtre. Pinnules. profondément divisées, à angle droit, fronde deltoïde..... 2. P. aquilinum.
+1'. Lower surface of the blade and rachis of all orders bearing a reddish tomentum. Pinnules deeply divided, at right angles, frond deltoid ..... 2. P. aquilinum.
 
 ## Species in region
 

@@ -17,23 +17,21 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Small herbs somewhat rich in sap. Pubescence of the entire plant with some recurved hairs. Lowest leaf of the adult plant, usually solitary. Main flowering stem with a pair of opposite leaves.
 
-Petites herbes quelque peu riches en sève. Pubescence de toute la plante avec une partie de poils recourbés. Feuille la plus basse, de la plante adulte, habituellement solitaire. Tige fleurie principale, avec une paire de feuilles opposées.
-
-Inflorescence apparemment terminale sur la tige florifère, véritablement axillée par une feuille sous-tendante naviculaire, sommet de la tige avorté (fide WEBER). Fleurs par paires sur une cyme hélicoïde. Calice divisé jusqu'à environ la moitié de la longueur en 5 lobes. Tube de la corolle plus long que les lobes ; 3 lobes inférieurs formant la lèvre inférieure, deux supérieurs ascendants. Disque entourant l'ovaire. Étamines 4, fixées près de l'ouverture du tube de la corolle, les deux latéro-postérieures fertiles seulement avec la partie libre des filets tordue ;
+Inflorescence apparently terminal on the flowering stem, truly axillary to a boat-shaped subtending leaf, apex of the stem aborted (fide WEBER). Flowers in pairs on a helicoid cyme. Calyx divided to approximately half its length into 5 lobes. Corolla tube longer than the lobes; 3 lower lobes forming the lower lip, two upper ones ascending. Disc surrounding the ovary. Stamens 4, attached near the opening of the corolla tube, the two latero-posterior ones fertile only with the free part of the filaments twisted;
 
 ---
 
-anthères adhérentes face à face. Staminodes stériles dépassant les anthères. Ovaire uniloculaire, globuleux ; style mince, soutenu dans la partie supérieure par les étamines fertiles, stigmate papilleux saillant juste au-delà des anthères ; placentas pariétaux, ovulifères sur toute leur face interne, avec de nombreux ovules sur de longs funicules.
+anthers coherent face to face. Sterile staminodes exceeding the anthers. Ovary unilocular, globose; style slender, supported in the upper part by the fertile stamens, stigma papillose projecting just beyond the anthers; parietal placentae, ovuliferous over their entire inner surface, with numerous ovules on long funicles.
 
-Capsule à paroi mince, globuleuse, entourée par le calice quelque peu élargi, à déhiscence circulaire. Graines nombreuses, ellipsoïdes, spiralement striées.
+Capsule thin-walled, globose, surrounded by the calyx somewhat enlarged, with circular dehiscence. Seeds numerous, ellipsoid, spirally striated.
 
-ESPÈCE-TYPE : Epithema saxatile Bl. (Java).
+TYPE SPECIES: Epithema saxatile Bl. (Java).
 
-Epithema est un genre avec une répartition remarquablement large. La mention la plus orientale de la seule espèce africaine est d'Ouganda ; de là, le genre se retrouve aux Ghats occidentales de l'Inde et à Sri Lanka. A partir de l'Inde nord-orientale, l'aire est continue à travers la Birmanie, le Sud-Ouest de la Chine, et la Thaïlande, en Asie du Sud-Est aussi loin que Timor, les Moluques et la Nouvelle-Guinée, où il semble être rare avec une dernière localisation écartée sur l'île Rennell, à l'extrémité orientale des îles Salomon. Sur une grande partie de cette aire, les différences spécifiques sont difficiles à discerner, et il est possible qu'il n'y ait pas plus de 3 ou 4 espèces en Asie. En attendant une révision critique du matériel asiatique, l'espèce africaine Epithema tenue C.B.CL. est reconnue comme autonome.
+Epithema is a genus with a remarkably wide distribution. The most easterly mention of the only African species is from Uganda; from there, the genus is found in the Western Ghats of India and in Sri Lanka. From northeastern India, the range is continuous across Burma, southwestern China, and Thailand, in Southeast Asia as far as Timor, the Moluccas and New Guinea, where it appears to be rare with a final isolated locality on Rennell Island, at the eastern extremity of the Solomon Islands. Over much of this range, specific differences are difficult to discern, and it is possible that there are no more than 3 or 4 species in Asia. Pending a critical revision of the Asian material, the African species Epithema tenue C.B.CL. is recognized as autonomous.
 
-Epithema est un genre nettement distinct, à la fois par son mode de croissance (voir notes après l'espèce), son inflorescence et ses caractères floraux ; la cyme dense, hélicoïde, avec paires de fleurs, enveloppée au début dans la feuille axillante naviculaire est unique. Il est aussi peu commun de trouver, chez les Cyrtandroïdea, les filaments staminaux unis à la base (cela se retrouve dans quelques genres néotropicaux de Gesnerioïdea. Chez Epithema, cette situation est même plus inhabituelle car, quoique tous les quatre filets soient unis, seulement deux sont fertiles. Ces deux étamines fertiles, sont ainsi serrées autour du stigmate, comme pour le tenir en place, tandis que les deux stériles se projettent devant et, peut-être, jouent un rôle de déclencheur dans la pollinisation ; ceci reste à étudier.
+Epithema is a distinctly separate genus, both by its mode of growth (see notes after the species), its inflorescence and its floral characters; the dense, helicoid cyme, with pairs of flowers, enveloped initially in the boat-shaped axillary leaf is unique. It is also unusual to find, in the Cyrtandroideae, staminal filaments united at the base (this is found in a few neotropical genera of Gesnerioideae). In Epithema, this situation is even more unusual since, although all four filaments are united, only two are fertile. These two fertile stamens are thus tightly arranged around the stigma, as if to hold it in place, while the two sterile ones project forward and, perhaps, play a trigger role in pollination; this remains to be studied.
 
 ## Species in region
 

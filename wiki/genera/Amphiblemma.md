@@ -17,31 +17,29 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Shrubs of modest size, often herbaceous, with sympodial growth, glandular hairs frequent on floral organs. Leaves petiolate, often unequal.
 
-Arbrisseaux de taille médiocre, souvent herbacés, à croissance sympodiale, poils glanduleux fréquents sur les organes floraux. Feuilles pétio-lées, souvent inégales.
+Terminal or axillary cymes, uniparious, solitary, or geminate, or verticillate, or variously paniculate. Flowers 5-merous; hypanthium turbinate to campanulate-oblong; calyx lobes broadly triangular or tooth-like, often thickened-mucronate on the back, sometimes with a linear appendage. Corolla often showy, pink or white. Stamens in 2 dimorphous verticils; the outer ones with a developed pedoconnective and prolonged with a simple appendage, spur absent or modest; the inner ones smaller, with a short or absent pedoconnective, and short appendage, obtuse or bituberulate, spur present. Ovary deeply included, entirely adherent toward the base, then by short septa; apex free, defined by an entire or 5-lobed crown. Style linear; stigma punctiform. Placentas on almost the entire height of the locule, ± salient, lamellose or cymbiform.
 
-Cymes terminales ou axillaires, unipares, solitaires, ou géminées, ou verticillées, ou diversement paniculées. Fleurs 5-mères; hypanthe turbiné à campanulé-oblong; lobes du calice largement triangulaires ou dentiformes, souvent épaissis-mucronés sur le dos, parfois avec un appendice linéaire. Corolle souvent voyante, rose ou blanche. Étamines en 2 verticilles dimorphes; les externes avec pédoconnectif développé et prolongé en avant d'un appendice simple, éperon nul ou médiocre; les internes plus petites, avec pédoconnectif court ou nul, et appendice court, obtus ou bituberculé, éperon présent. Ovaire profondément inclus, entièrement adhérent vers le bas, puis par des cloisons courtes; sommet libre, défini par une couronne entière ou 5-lobée. Style linéaire; stigmate punctiforme. Placentas sur presque toute la hauteur de la loge, ± saillants, lamellés ou cymbiformes.
+Capsule concave, or crater-shaped through accretion of the crown, which is thickened or membranous, included or salient; calyx marcescent; dehiscence valvate. Seeds ovoid to oblong, funicle ± fragile; appendiculate along the raphe by a membrane dilated upward into an ± bilobed aeriferous vesicle.
 
-Capsule concave, ou cratériforme par accrescence de la couronne, qui est épaissie ou membraneuse, incluse ou saillante; calice marcescent; déhiscence valvaire. Graines ovoïdes à oblongues, funicule ± fragile; appendiculées le long du raphé par une membrane dilatée vers le haut en une vésicule aérifère ± bilobée.
+TYPE SPECIES: Amphiblemma cymosum (Schrad. et Wendl.) Naud.; description based on a specimen obtained in the greenhouses of Hanover, probable provenance from Sierra Leone.
 
-ESPÈCE-TYPE : Amphiblemma cymosum (Schrad. et Wendl.) Naud.; description sur un spécimen obtenu dans les serres de Hanovre, provenance probable de Sierra Leone.
-
-Genre exclusivement occidental, bien représenté au Gabon par huit espèces, dont plusieurs sont endémiques.
+Genus exclusively western, well represented in Gabon by eight species, several of which are endemic.
 
 ---
 
-### CLÉ DES SECTIONS ET DES ESPÈCES
+### KEY TO SECTIONS AND SPECIES
 
-1. Cymes solitaires, dressées, multiflores; sépales avec appendice subapical linéaire; couronne épigyne saillante à maturité. Plante velutineuse à hirsute (sect. Cincinnatiæ Engl.)
+1. Cymes solitary, erect, multiflorous; sepals with a subapical linear appendage; epigynous crown salient at maturity. Plant velutinous to hirsute (sect. Cincinnatiæ Engl.)
 
-1'. Cymes digitées par 2 à 5 en inflorescences corymboides, ou contractées et ombelliformes; sépales sans appendice; couronne épigyne incluse (sect. Corymbosæ Engl.).
+1'. Cymes digitate by 2 to 5 in corymboid inflorescences, or contracted and umbelliform; sepals without appendage; epigynous crown included (sect. Corymbosæ Engl.).
 
-2. Arbrisseaux herbacés, dressés, peu ramifiés; tiges relativement épaisses, 4-angulaires; feuilles membraneuses, serretées-ciliées, sensiblement égales dans la même paire; hypantho-calice glabrescent ou avec poils glanduleux, lobes largement triangulaires ou arrondis.
+2. Herbaceous shrubs, erect, little branched; stems relatively thick, 4-angular; leaves membranous, serrate-ciliate, substantially equal within the same pair; hypantho-calyx glabrescnet or with glandular hairs, lobes broadly triangular or rounded.
 
-3. Cymules 3-5-flores, exclusivement axillaires, principalement sur les nœuds défeuillés; hypanthe glabrescent, poils glanduleux sur le calice . . . 2. A. soyauxii.
+3. Cymules 3-5-flowered, exclusively axillary, mainly on leafless nodes; hypanthium glabrescnet, glandular hairs on the calyx . . . 2. A. soyauxii.
 
-3'. Cymes multiflores, verticillées, terminales, parfois quelques axillaires sur les nœuds sommitaux; hypantho-calice avec poils glanduleux ... 3. A. ciliatum.
+3'. Cymes multiflorous, verticillate, terminal, sometimes a few axillary on the apical nodes; hypantho-calyx with glandular hairs ... 3. A. ciliatum.
 
 ## Species in region
 

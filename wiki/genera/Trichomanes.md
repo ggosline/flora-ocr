@@ -16,53 +16,49 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Fougères terrestres ou épiphytes, à rhizome généralement longuement rampant, rarement dressé. Fronde de texture très mince, simple ou flabellée, ou plusieurs fois divisée. Nervation flabellée ou pennée, présence, dans certaines espèces, de « fausses nervures » formées de rangées de cellules étroites et épaissies, généralement non reliées aux vraies, bordant souvent le limbe. Sores à indusie tubulaire ou campanulée, à réceptacle de longueur indéterminée, généralement exsert.
+Terrestrial or epiphytic ferns, with rhizome generally extensively creeping, rarely erect. Frond of very thin texture, simple or flabellate, or several times divided. Venation flabellate or pinnate, presence, in certain species, of "false veins" formed by rows of narrow and thickened cells, generally not connected to the true veins, often bordering the limb. Sori with tubular or campanulate indusium, with receptacle of indeterminate length, generally exsert.
 
 ---
 
-Espèce type : Linné n'a pas indiqué le type du genre. Copeland choisit Trichomanes crispum L. de la Martinique. Holttum critique ce choix dans Ferns of Malaya : 87 (1954); il aurait préféré T. radicans ou T. maximum; la première de ces deux espèces a été prise par Copeland comme type des Vandenboschia. Copeland divise, en effet, les Trichomanes en un certain nombre de genres, que nous considérons plutôt comme des sous-genres dans lesquels il est du reste parfois difficile de ranger les espèces africaines.
+Type species: Linnaeus did not indicate the type of the genus. Copeland chose Trichomanes crispum L. from Martinique. Holttum criticized this choice in Ferns of Malaya: 87 (1954); he would have preferred T. radicans or T. maximum; the first of these two species was taken by Copeland as the type of Vandenboschia. Copeland divides, in fact, the Trichomanes into a certain number of genera, which we consider rather as subgenera in which it is moreover sometimes difficult to place the African species.
 
-Environ 300 espèces, presque toutes tropicales.
+Approximately 300 species, almost all tropical.
 
-1. Rhizome filiforme, longuement rampant.
+1. Rhizome filiform, extensively creeping.
 
-2. Fronde simple, entière ou lobée.
+2. Frond simple, entire or lobed.
 
-3. Pas de fausses nervures marginales..... 1. T. Ballardianum.
+3. No marginal false veins..... 1. T. Ballardianum.
 
-3'. Présence d'une fausse nervure marginale.
+3'. Presence of a marginal false vein.
 
-4. Fronde régulièrement lobée; marge crispée. 2. T. chamaedrys.
+4. Frond regularly lobed; margin crisped. 2. T. chamaedrys.
 
-4'. Fronde entière ou irrégulièrement lobée, marge plane..... 3. T. erosum.
+4'. Frond entire or irregularly lobed, margin plane..... 3. T. erosum.
 
-2'. Fronde palmée-flabelliforme ou plusieurs fois pinnatifide.
+2'. Frond palmate-flabelliform or several times pinnatifid.
 
-5. Fronde palmée-flabelliforme, à peu près aussi longue que large..
+5. Frond palmate-flabelliform, approximately as long as wide..
 
 4. T. Mannii.
 
-5'. Fronde au moins 2 fois plus longue que large, tripinnatifide
+5'. Frond at least 2 times longer than wide, tripinnatifid
 
 5. T. africanum.
 
-1'. Rhizome épais, dressé.
+1'. Rhizome thick, erect.
 
-6. Fronde pennée, présence de poils sur le rachis et les nervures.
+6. Frond pinnate, presence of hairs on the rachis and veins.
 
 6. T. crispiforme.
 
-6'. Fronde 2-4 pinnatifide, glabre.
+6'. Frond 2-4 pinnatifid, glabrous.
 
-7. Pétiole non ailé, partie supérieure du rachis seulement ailée; pinnules divisées presque jusqu'à la nervure en segments linéaires
+7. Petiole not winged, upper part of rachis only winged; pinnules divided almost to the vein into linear segments
 
 7. T. cupressoides.
 
-7'. Partie supérieure du pétiole et rachis ailés; fronde à pinnule à peine lobées..... 8. T. guineense.
-
----
+7'. Upper part of petiole and rachis winged; frond with pinnule barely lobed..... 8. T. guineense.
 
 ## Species in region
 

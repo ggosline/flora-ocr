@@ -17,63 +17,33 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Palmiers polycarpiques, monoïques, dépourvu d’épines, acaules ou à stipe court ou peu
-
-visible . Feuilles pennées à bifides, très grandes, érigées ; gaine courte, se fendant à l’opposé
-
-du pétiole, à marges fibreuses ; pétiole long, fin, concave dessus, arrondi dessous ; folioles
-
-avec plusieurs nervures centrales, à marges denticulées, couvertes d’une pilosité vert clair
-
-sur la face inférieure . Inflorescences interfoliaires, érigées, cachées parmi le feuillage et l’ac -
-
-cumulation des débris, spiciformes ; pédoncule très court, densément tomenteux, à préfeuille
-
-courte, fibreuse, bractée tubuleuse, plus longue que la préfeuille, formant un filet fibreux
-
-autour des fleurs ; rachis plus long que le pédoncule ; fleurs en triades (une femelle et deux
-
-mâles), distalement à fleurs par deux et finalement solitaires. Fleurs mâles : sépales 3, libres ,
-
-imbriqués à la base ; pétales 3, libres , valvaires ; étamines 60 à 100 , à filet court, triangulaire,
-
-anthère allongée, basifixe, latrorse ; pistillode absent. Fleurs femelles plus grandes que les
+Polycarpic, monoecious palms, devoid of spines, acaulescent or with short or little visible stipe. Leaves pinnate to bifid, very large, erect; sheath short, splitting opposite the petiole, with fibrous margins; petiole long, slender, concave above, rounded below; leaflets with several central nerves, with denticulate margins, covered with light green pubescence on the lower surface. Inflorescences interfoliar, erect, hidden among the foliage and accumulation of debris, spiciform; peduncle very short, densely tomentose, with short, fibrous prophyll, tubular bract longer than the prophyll, forming a fibrous filament around the flowers; rachis longer than the peduncle; flowers in triads (one female and two males), distally with flowers in pairs and finally solitary. Male flowers: sepals 3, free, imbricate at the base; petals 3, free, valvate; stamens 60 to 100, with short, triangular filament, anther elongate, basifixed, latrorse; pistillode absent. Female flowers larger than the
 
 ---
 
 ---
 
-mâles, largement ovoïdes ; calice cupuliforme, 3-lobé ou avec 2 sépales distincts, imbriqués,
+males, broadly ovoid; calyx cupuliform, 3-lobed or with 2 distinct sepals, imbricate, glabrous; petals 3, free, imbricate, asymmetric; staminodes 6; gynoecium ovoid, 1-locular, with 1 ovule; stigma 3-angular. Fruits globose to obovoid, shortly rostrate, monospermous, purple to black at maturity; epicarp thin; mesocarp thin and parenchymatous; endocarp bony, thick, slightly tuberculate. Seeds globose to obovoid, rugose.
 
-glabres ; pétales 3, libres , imbriqués, asymétriques ; staminodes 6 ; gynécée ovoïde, 1-lo -
+Genus of tropical Africa, comprising three species, all represented in Gabon.
 
-culaire, à 1 ovule ; stigmate 3-angulaire. Fruits globuleux à obovoïdes, courtement rostrés,
+B: Bourobou Bourobou et al. (2016), van Valkenburg et al. (2007, 2008).
 
-monospermes, pourpres à noirs à maturité ; épicarpe fin ; mésocarpe fin et parenchymateux ;
+Bibliography
 
-endocarpe osseux, épais, légèrement bosselé. Graines globuleuses à obovoïdes, rugueuses.
+### Key to species
 
-Genre d’Afrique tropicale, comprenant trois espèces, toutes représentées au Gabon.
+1. - Mature leaves entire, with deeply bifid apex ........................... S. profiziana
 
-B : Bourobou Bourobou et al. (2016), van Valkenburg t al. (2007, 2008).
+- Mature leaves pinnate, divided into 8 to 40 pairs of leaflets ..................................... 2
 
-i B liographie
-
-### Clé des espèces
-
-1. - Feuilles matures entières, à sommet profondément bifide ........................... S. profiziana
-
-- Feuilles matures pennées, divisées en 8 à 40 paires de folioles ..................................... 2
-
-2. - Folioles 8 à 17(–24) ; rachis des inflorescences 3–6 cm ; < 17 fruits par infrutescence
+2. - Leaflets 8 to 17(–24); inflorescence rachis 3–6 cm; < 17 fruits per infructescence
 
 ............................................................................................................................ S. mannii
 
-- Folioles (20–)25 à 40 ; rachis des inflorescences 7–11 cm ; jusqu’à 30 fruits par
+- Leaflets (20–)25 to 40; inflorescence rachis 7–11 cm; up to 30 fruits per
 
-infrutescence ..................................................................................................... S. walkeri
+infructescence ..................................................................................................... S. walkeri
 
 ## Species in region
 

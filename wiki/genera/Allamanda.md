@@ -17,29 +17,13 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Erect or scandent shrubs. Leaves whorled; inflorescences terminal or pseudo-axillary, in corymbs, generally large. Flowers with calyx of nearly free sepals; corolla infundibuliform, yellow, the lower part furnished with fringed scales, with lobes overlapping to the left in bud; stamens inserted toward the apex of the narrow part of the tube, with very short filaments; anthers adnate to the head of the pistil; ovary 1-locular, with numerous ovules. Fruits in globose, spiny capsule, with 2 valves, with numerous seeds. Seeds compressed, winged or with membranous border.
 
-Arbustes dressés ou lianescents. Feuilles verticillées . ,QÀRUHVFHQFHV terminales ou pseu-
+Genus with fourteen species of tropical America, one cultivated and sometimes naturalized in Gabon.
 
-doaxillaires , en corymbes, généralement grandes. Fleurs FDOLFHjVpSDOHVSUHVTXHOLEUHV
+B: Beentje (2021), Endress et al. (2019).
 
-corolle infundibuliforme, jaune , la partie inférieure munie d’écailles frangées , à lobes se che-
-
-vauchant vers la gauche en bouton ; étamines insérées vers le sommet de la partie étroite du
-
-WXEHj¿OHWVWUqVFRXUWV anthères adnées à la tête du pistil ; ovaire 1-loculaire , à nombreux
-
-ovules. Fruits en capsule globuleuse , épineuse , à 2 valves, à nombreuses graines. Graines
-
-comprimées, ailées ou à bord membraneux.
-
-*HQUHDYHFTXDWRU]HHVSqFHVGHO¶$Ppultxhwurslfdohgrqwxqhfxowlyphhwsduirlvpfkdssph
-
-au Gabon.
-
-B : Beentje (2021), Endress et al. (2019).
-
-IBLIOGRAPHIE
+BIBLIOGRAPHY
 
 ## Species in region
 

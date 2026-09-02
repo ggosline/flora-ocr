@@ -17,15 +17,11 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Annual or perennial herbs, monoecious or dioecious, climbing or creeping. Tendrils simple or rarely bifid. Leaves petiolate, simple; limb ovate-cordate to triangular or hastate to palmatilobate, often with unpleasant odor. Inflorescences: the male ones in raceme or pedunculate umbel; the female ones with solitary flower or in fascicle. Male flower: receptacle campanulate to cylindric; sepals 5, dentiform; petals 5, united at the base, yellow or rarely white; stamens 3, inserted on the upper part of the receptacle, with short, fine filaments, anthers 2 bithecate and 1 monotheca or rarely all bithecate, anther with straight locules, fringed with hairs. Female flowers shortly pedicellate; perianth similar to that of male flowers; staminodes 3 or rarely absent; ovary ovoid to fusiform, smooth, containing numerous horizontal ovules; stigmas 3, 2-lobed or else a single one, 3-lobed. Fruits a non-dehiscent berry (pepo), globose or ellipsoidal, smooth, of green, white, yellow, orange or red color at maturity. Seeds ovoid, flattened, white, smooth, covered with appressed hairs.
 
-Herbes annuelles ou vivaces, monoïques ou dioïques, grimpantes ou rampantes. Vrilles simples ou rarement bifides. Feuilles pétiolées, simples; limbe ovale-cordiforme à triangulaire ou hasté à palmatilobé, souvent à odeur désagréable. Inflorescences : les mâles en racème ou ombelle pédonculé ; les femelles à fleur solitaire ou en fascicule. Fleur mâle : réceptacle campanulé à cylindrique ; sépales 5, dentiformes ; pétales 5, unis à la base, jaunes ou rarement blancs ; étamines 3, insérées sur la partie supérieure du réceptacle, à filets courts, fines, anthères 2 bithèques et 1 monothèque ou rarement tous bithèques, anthère à loges droites, frangées de poils. Fleurs femelles courtement pédicellées ; périanthe semblable à celui des fleurs mâles ; staminodes 3 ou rarement absents ; ovaire ovoïde à fusiforme, lisse, renfermant de nombreux ovules horizontaux ; stigmates 3, 2-lobés ou bien une seule, 3-lobé. Fruits une baie indéhiscente (pépon), globuleuse ou ellipsoïdale, lisse, de couleur verte, blanche, jaune, orange ou rouge à maturité. Graines ovoïdes, aplaties, blanches, lisses, couvertes de poils apprimés.
+Genus comprising about twelve species in America, with one, M. pendula L., naturalized in Asia, and another, M. sphaerocarpa, introduced to Africa and present in Gabon.
 
-Genre comprenant environ douze espèces en Amérique, avec une, M. pendula L., naturalisée en Asie, et une autre, M. sphaerocarpa, introduite en Afrique et présent au Gabon.
-
-BIBLIOGRAPHIE: Jeffrey (1967), Keraudren (1967), Keraudren-Aymonin (1975), Schaefer & Renner (2010b, 2011a).
-
----
+BIBLIOGRAPHY: Jeffrey (1967), Keraudren (1967), Keraudren-Aymonin (1975), Schaefer & Renner (2010b, 2011a).
 
 ## Species in region
 

@@ -17,35 +17,25 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Shrubs or small trees with glabrous branchlets. Stipules very narrowly connate at the petiolar axils, triangular acuminate. Petiole normally developed and distinctly canaliculate. Blade glabrous less than 15 cm, acuminate or lanceolate. Certain portions of axes bear successions of reduced and ± cordate leaves.
 
-Arbustes ou arbrisseaux à rameaux glabres. Stipules très étroitement connées aux aisselles pétiolaires, triangulaires acuminées. Pétiole normalement développé et distinctement canaliculé. Limbe glabre inférieur à 15 cm, acuminé ou lancéolé. Certaines portions d'axes portent des successions de feuilles réduites et ± cordiformes.
+Inflorescences axillary, opposite in pairs on successive nodes, pedunculate, lax or contracted, few- or many-flowered. Flowers inconspicuous, white or green; approximately 8 mm long. Calyx glabrous with a cupuliform limb and small teeth or lobes ± ciliate. Corolla with (3) 4-5 lobes with twisted prefloration; tube moderately infundibuliform. Anthers sessile acuminate, with exsert apex. Style pubescent or not; stigma exsert with lobes at first adherent then ± divergent. Small fleshy glabrous disk. Ovary with 2 locules (sometimes ± confluent in the upper part). 2 to 8 ovules per locule.
 
-Inflorescences axillaires opposées par paires sur des nœuds successifs, pédonculées, lâches ou contractées, pauci ou pluriflores. Fleurs peu voyantes, blanches ou vertes; longues de 8 mm environ. Calice glabre à limbe cupuliforme et à petites dents ou lobes ± ciliés. Corolle à (3) 4-5 lobes à préfloraison tordue; tube médiocrement infundibuliforme. Anthères sessiles acuminées, à sommet exsert. Style pubescent ou non; stigmate exsert à lobes d'abord adhérents puis ± divergents. Petit disque charnu, glabre. Ovaire à 2 loges (parfois ± confluentes dans la partie supérieure). 2 à 8 ovules par loge.
+Fruit berry-like with juicy edible pulp. Seeds 1-15, with cordate-fibrous testa, sometimes marginate; albumen abundant. Small straight embryo.
 
-Fruit bacciforme à pulpe juteuse comestible. Graines 1-15, à testa cordé-fibreux, parfois marginé; albumen abondant. Petit embryon droit.
+Type species: P. africana A. Rich. ex DC.
 
-Espèce type : P. africana A. Rich. ex DC.
+This exclusively African genus comprises six species. Two of these are not known to us: one endemic to Annobon Island, P. confertiflora Mildbr., and P. saxifraga Hochst. ex A. Rich. from Abyssinia. P. parviflora Benth. is known to us from Guinea (Adam 4431 and 4448, Macenta), Sierra Leone, Dahomey (Le Testu 108), southern Nigeria, Fernando Po, Príncipe and São Tomé; this species is distinguished from the others by its inflorescences more elongately developed beyond the peduncle. P. Gilletii De Wild., a Congolese species, is to be sought in the SE of Gabon as it reaches the Alima River, a tributary of the Congo (Thollon 892).
 
-Ce genre exclusivement africain compte six espèces. Deux d'entre celles-ci ne nous sont pas connues : une endémique de l'île Annobon, P. confertiflora Mildbr., et P. saxifraga Hochst.
+Only two species are known from Gabon.
 
----
+1. Leaves of flowering branchlets all developed, not shortened into ± cordate bracts; inflorescence peduncles often at once long, slender and subcylindric.
 
-ex A. Rich. de l'Abyssinie. Le P. parviflora Benth. nous est connu de Guinée (Adam 4431 et 4448, Macenta), Sierra Leone, Dahomey (Le Testu 108), sud Nigeria, Fernando Po, Principe et San Tomé; cette espèce se distingue des autres par ses inflorescences plus longuement développées au-delà du pédoncule. Le P. Gilletii De Wild., espèce congolaise, est à rechercher dans le SE du Gabon car elle atteint la rivière Alima affluent du Congo (Thollon 892).
+2. Leaves with pubescent nerve axils along the midrib; 6-15 seeds per fruit; flowers normally pentamerous; plants of forest galleries in dry regions..... P. africana
 
-Deux espèces seulement sont connues du Gabon.
+2'. Leaves completely glabrous including the nerve axils; 1-2(4?) seeds per fruit; flowers often tetramerous; sciaphilous shrub of dense humid forest..... I. P. africana var. exequatorialis
 
-1. Feuilles de rameaux florifères toutes développées, non raccourcies en bractées ± cordiformes; pédoncule d'inflorescences souvent à la fois longs, grêles et subcylindriques.
-
-2. Feuilles à aisselles nervaires pubescentes le long de la médiane;
-
-6-15 graines par fruit; fleurs normalement pentamères; plantes
-
-de galeries forestières en pays secs..... P. africana
-
-2'. Feuilles tout à fait glabres y compris les aisselles nervaires; 1-2(4?) graines par fruit; fleurs souvent tétramères; arbuste sciaphile de forêt dense humide..... I. P. africana var. exequatorialis
-
-1'. Feuilles des rameaux florifères partiellement modifiées en bractées ± cordiformes échelonnées dans les extrémités; pédoncules d'inflorescences souvent à la fois courts et comprimés; plantes souvent ripicoles.
+1'. Leaves of flowering branchlets partially modified into ± cordate bracts scattered in the extremities; inflorescence peduncles often at once short and compressed; plants often ripiculous.
 
 ## Species in region
 

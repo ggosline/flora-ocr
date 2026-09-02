@@ -16,49 +16,43 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Trees, shrubs or small trees. Leaves opposite, almost always coriaceous. Lateral veins numerous and close together.
 
-Arbres, arbustes ou arbrisseaux. Feuilles opposées, presque toujours coriaces. Nervures latérales nombreuses et rapprochées.
+Flowers ♂, tetramerous, grouped in few-flowered or many-flowered cymes, most often terminal, sometimes on old wood or axillary. Calyx slightly prolonged above the ovary, the lobes often poorly developed. Petals, in African species, imbricate and connate, falling together like a cap (however free in a few introduced species). Ovary with two locules; ovules several or numerous, inserted on the partition.
 
-Fleurs ♂, tétramères, groupées en cymes pauciflores ou multiflores, le plus souvent terminales, parfois sur le vieux bois ou axillaires. Calice un peu prolongé au dessus de l'ovaire, les lobes souvent peu développés. Pétales, chez les espèces africaines, imbriqués et connés, tombant ensemble comme une coiffe (libres cependant dans quelques espèces introduites). Ovaire à deux loges; ovules plusieurs ou nombreux, insérés sur la cloison.
+Fruit fleshy, most often monospermic, with a large seed. Cotyledons thick, free; radicle short. Seedlings with cotyledons remaining most often in the soil and in the fruit (seedlings not yet studied for Africa).
 
-Fruit charnu, le plus souvent monosperme, à graine large. Cotylédons épais, libres; radicule courte. Plantules avec les cotylédons demeurant le plus souvent en terre et dans le fruit (plantules non encore étudiées pour l'Afrique).
+Type species: Syzygium caryophyllaceum Gaertn.
 
-Espèce type : Syzygium caryophyllaceum Gaertn.
+Genus often united with Eugenia L.; in Africa it is nevertheless well distinguished by the embryo and by the inflorescence. The genus is absent in America. In Africa, there are about twenty species often very close to each other, all belonging to the section Euszyzygium. Most of the species are from tropical Asia (approximately 300); a few other species in Australia.
 
-Genre souvent réuni à Eugenia L.; en Afrique il est cependant bien distinct par l'embryon et par l'inflorescence. Le genre manque en Amérique. En Afrique, il y a une vingtaine d'espèces souvent très proches, toutes appartenant à la section Euszyzygium. La plupart des espèces sont d'Asie tropicale (environ 300); quelques autres espèces en Australie.
+Several species have edible fruits. The clove tree, S. aromaticum (L.) Merrill et Perry, also belongs to this genus.
 
-Plusieurs espèces ont des fruits comestibles. Le giroflier, S. aromaticum (L.) Merrill et Perry, appartient également à ce genre.
+### KEY TO THE SPECIES
 
-### CLÉ DES ESPÈCES
+1. Indigenous species. Petals always connate.
 
-1. Espèces indigènes. Pétales toujours connés.
-
-2. Feuilles subsessiles, cordées à la base, allongées, de 10-25 cm de long; fleurs larges : boutons floraux adultes de 8-10 mm de diam.
+2. Leaves subsessile, cordate at the base, elongate, 10-25 cm long; flowers large: adult floral buds 8-10 mm diam.
 
 2. S. Gilletii.
 
-2'. Feuilles pétiolées, aiguës, obtuses ou arrondies à la base, plus petites; fleurs plus petites : boutons floraux de 2-5 mm de diam.
+2'. Leaves petiolate, acute, obtuse or rounded at the base, smaller; flowers smaller: floral buds 2-5 mm diam.
 
-3. Jeunes rameaux quadrangulaires; feuilles assez petites, de 4-7 cm de long; sépales à peine développés..... 1. S. Staudti.
+3. Young branches quadrangular; leaves rather small, 4-7 cm long; sepals scarcely developed..... 1. S. Staudti.
 
 ---
 
-3'. Jeunes rameaux arrondis; feuilles plus larges.
+3'. Young branches rounded; leaves broader.
 
-4. Sépales distincts, aussi sur le fruit, subimbriqués dans le bou-
+4. Sepals distinct, also on the fruit, subimbricate in the bud, 1 mm high; leaves obovate, long cuneate at the base, shortly acuminate at the apex.... 3. S. congolense.
 
-ton, hauts de 1 mm; feuilles obovées, longuement cunéiformes
+4'. Sepals scarcely developed.
 
-à la base, courtement acuminées au sommet.... 3. S. congolense.
+5. Marsh tree, with prop roots; leaves ovate-elliptic, often rounded at the base, long acuminate at the apex and very acute..... 4. S. ovariense.
 
-4'. Sépales à peine développés.
+5'. Trees of non-swampy stations, without prop roots; leaves acute at the base..... 5. S. guineense s.l.
 
-5. Arbre de marais, à racines-échasses; feuilles ovées-elliptiques, souvent arrondies à la base, longuement acuminées au sommet et très aiguës..... 4. S. ovariense.
-
-5'. Arbres de stations non marécageuses, sans racines-échasses; feuilles aiguës à la base..... 5. S. guineense s.l.
-
-6. Arbuste ou petit arbre du bord de la mer; feuilles ovées-elliptiques, extrêmement coriaces, arrondies ou obtuses, parfois courtemment acuminées au sommet; pétiole court et épais, d'environ 5 mm de long..... 5 c. var. littorale.
+6. Shrub or small tree of the seashore; leaves ovate-elliptic, extremely coriaceous, rounded or obtuse, sometimes shortly acuminate at the apex; petiole short and thick, about 5 mm long..... 5 c. var. littorale.
 
 ## Species in region
 

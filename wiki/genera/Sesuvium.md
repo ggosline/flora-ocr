@@ -17,39 +17,19 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Herbes ou sous-arbustes ; tiges dichotomiques. Feuilles alternes ou opposées, ± charnues,
-
-exstipulées mais fausses stipules présentes et formées par la base papyracée des pé-
-
-tioles ; limbe linéaire à obovale, entier, aplati à cylindrique. Fleurs axillaires, solitaires,
-
-à 2 bractéoles basales ; tépales 5, persistants , apiculés , l’extérieur vert, l’intérieur rose
-
-à pourpre, tube obconique ; étamines 5–∞, libres, insérées à la gorge du tube , plus
-
-courtes que les tépales ; ovaire supère, à 2–5 carpelles multi-ovulés, placentation axil-
-
-laire ; styles 2–5. Fruits : capsule circumscissile , conique, à péricarpe mince, couvercle
-
-entier. Graines nombreuses, réniformes, noires.
+Herbs or subshrubs; stems dichotomous. Leaves alternate or opposite, ± fleshy, exstipulate but false stipules present and formed by the papyraceous base of the petioles; blade linear to obovate, entire, flattened to cylindric. Flowers axillary, solitary, with 2 basal bracteoles; tepals 5, persistent, apiculate, the outer green, the inner pink to purple, tube obconic; stamens 5–∞, free, inserted at the throat of the tube, shorter than the tepals; ovary superior, with 2–5 carpels multi-ovulate, placentation axillary; styles 2–5. Fruits: circumscissile capsule, conical, with thin pericarp, operculum entire. Seeds numerous, reniform, black.
 
 ---
 
-Graine (× 12). (1, 3-7 : Drummond & Hemsley 3625 ; 2 : Faulkner 2108). Dessin par Ann Webster
-
-©, reproduit avec permission à partir de Jeffrey (1961) l.c.
+Seed (× 12). (1, 3-7: Drummond & Hemsley 3625; 2: Faulkner 2108). Drawing by Ann Webster ©, reproduced with permission from Jeffrey (1961) l.c.
 
 ---
 
-Genre avec 12 espèces distribuées dans toutes les régions tropicales et subtropicales ; au
+Genus with 12 species distributed in all tropical and subtropical regions; in Gabon, a single species.
 
-Gabon, une seule espèce.
+B: Gonçalves (1978), Hartmann (1993), Hauman (1951), Linn Bogle (1970).
 
-B : Gonçalves (1978), Hartmann (1993), Hauman (1951), Linn Bogle (1970).
-
-i B liographie
+i Bibliography
 
 ## Species in region
 

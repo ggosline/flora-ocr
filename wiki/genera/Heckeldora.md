@@ -17,63 +17,25 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Shrubs or small trees dioecious, with foliage in tufts at the branch tips.
 
-Arbustes ou petits arbres dioïques, à feuillage en touffes aux extrémités des rameaux.
+Leaves compound, imparipinnate, with 1–6(–7) pairs of alternate to subopposite or opposite leaflets; petiole and rachis flattened or subchanneled above, puberulent; leaflets entire, without punctations or translucent streaks, the upper ones larger than the proximal, with midvein generally bearing stiff indumentum above.
 
-Feuilles composées, imparipennées, à 1–6(–7) paires de folioles alternes à subopposées
+Inflorescences axillary or supra-axillary, solitary or fascicled, paniculate and few-branched or pseudo-racemose in form, often pendulous. Flowers 4–5-merous, functionally unisexual; calyx cupuliform, truncate or superficially 3–5-lobed or dentate; petals (3–)4–5, free, imbricate, yellowish-white or pale pink; stamens (8–)10, completely connate, stamen tube cylindric or funnel-shaped, rim crenate, anthers 8(–10), included in the tube or sometimes slightly exsert, inserted just below the apex of the tube; gynoecium supported by a stipe (gynophore) thickened at the apex and fused with the base of the ovary; ovary unilocular with 2(–3) parietal placentas, each placenta with 2 juxtaposed ovules. Fruit berry-like, indehiscent, stipitate, ovoid or cylindric or narrowly ovoid and moniliform, mucronate. Seed entirely covered with vascularized sarcotesta; cotyledons plane-convex, juxtaposed.
 
-ou opposées ; pétiole et rachis aplatis ou subcanaliculés dessus, pubérulents ; folioles
+African genus comprising 7 species of which 3 occur in Gabon.
 
-entières, sans points, ni traits translucides, les supérieures plus grandes que les proxi -
+Bibliography: Mabberley (2011), Pennington & Styles (1975), Staner & Gilbert (1958), de Wilde (2007).
 
-males, à nervure médiane généralement pourvue d’un indument hérissé net dessus .
+### Key to species
 
-Inflorescences axillaires ou supra-axillaires, solitaires ou fasciculés, paniculées et peu
+1. - All leaves 3-foliolate .............................................................. H. trifoliolata
 
-branchues ou en forme de pseudo-racèmes, souvent pendantes. Fleurs 4–5-mères, fonc -
+- Leaves with 5–15 leaflets, rarely mixed with a 3-foliolate leaf .............. 2
 
-tionnellement unisexuées ; calice cupuliforme, tronqué ou superficiellement 3–5-lobé ou
+2. - Calyx 1–2(–2.5) mm long; petals 6–8(–9.5) mm long; fruit narrowly ovoid to cylindric, but often asymmetric, ribbed and moniliform, beaked ........................................................................................................ H. staudtii
 
-denté ; pétales (3–)4–5, libres, imbriqués, blanc verdâtre ou rose pâle ; étamines (8–)10,
-
-entièrement soudées, tube staminal cylindrique ou en entonnoir, bord crénelé, anthères
-
-8(–10), incluses dans le tube ou parfois légèrement exsertes, insérées juste sous le som -
-
-met du tube ; gynécée supporté par un stipe (gynophore) renflé au sommet et soudé avec
-
-la base de l’ovaire ; ovaire uniloculaire à 2(–3) placentas pariétaux, chaque placenta
-
-avec 2 ovules juxtaposés . Fruit bacciforme , indéhiscent, stipité, ovoïde ou cylindrique
-
-ou étroitement ovoïde et moniliforme, mucroné. Graine entièrement recouverte d’un sar -
-
-cotesta vascularisé ; cotylédons plans-convexes, juxtaposées.
-
-Genre africaine comprenant 7 espèces dont 3 au Gabon.
-
-B : Mabberley (2011), Pennington & Styles (1975), Staner & Gilbert (1958),
-
-ibliographie
-
-de Wilde (2007).
-
-### Clé des espèces
-
-1. - Toutes les feuilles 3-foliolées .............................................................. H. trifoliolata
-
-- Feuilles à 5–15 folioles, rarement mélangées avec une feuille 3-foliolée .............. 2
-
-2. - Calice 1–2(–2,5) mm de longueur ; pétales 6–8(–9,5) mm de longueur ; fruit
-
-étroitement ovoïde à cylindrique, mais souvent asymétrique, côtelé et moniliforme,
-
-rostré ........................................................................................................ H. staudtii
-
-- Calice 2–3,5 mm de longueur ; pétales 8–11 mm ; fruit compact, ovoïde à
-
-obovoïde, souvent mamelonnée, mucroné au sommet ............................. H. zenkeri
+- Calyx 2–3.5 mm long; petals 8–11 mm; fruit compact, ovoid to obovoid, often mammillose, mucronate at apex ............................. H. zenkeri
 
 ## Species in region
 

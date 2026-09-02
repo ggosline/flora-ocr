@@ -17,13 +17,9 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Terrestrial herb with a short, vertical rhizome. Leaves in a basal rosette, petiolate. Inflorescence terminal. Flowers long and tubular, somewhat arched. Labellum with a long claw, very thick, with 2 basal lobules. Gynostemium sigmoid. Column foot oblique, fused to the ovary. Staminodes large, aliform, rather thick, fleshy. Clinandrium absent – Pl. 35, p. 77.
 
----
-
-Herbacée terrestre à court rhizome, vertical. Feuilles en rosette basale, pétiolées. Inflorescence terminale. Fleurs longues tubulaires, un peu arquées. Labelle longuement onguiculé, très épais, à 2 lobules basaux. Gynostème sigmoïde. Pied de la colonne oblique, soudé à l'ovaire. Staminodes grands, aliformes, assez épais, charnus. Clinandrium absent – Pl. 35, p. 77.
-
-### Aucune information sur la pollinisation de ce genre monotypique.
+### No information available on the pollination of this monotypic genus.
 
 ## Species in region
 

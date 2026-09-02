@@ -17,31 +17,29 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Plantes inermes ; lianes élevées ou parfois buissons sarmenteux. Vieux bois cylindrique normal, souvent jaune pâle. Filaments de caoutchouc le plus souvent absents (abondants pourtant dans une sous-espèce orientale du P. graciliflora). Stipules petites espacées, avec au moins une
+Unarmed plants; tall lianes or sometimes sarmentose shrubs. Old wood cylindrical normal, often pale yellow. Rubber filaments mostly absent (however abundant in an eastern subspecies of P. graciliflora). Stipules small spaced, with at least one
 
 ---
 
-dent principale très aiguë. Feuilles opposées ou légèrement subopposées,
+main tooth very acute. Leaves opposite or slightly subopposite,
 
-pétiolées. Limbe denté ou denticulé, parfois entier.
+petiolate. Blade dentate or denticulate, sometimes entire.
 
-Inflorescences axillaires en paires, parfois disposées en panicules terminales. Cymes dichotomes toujours dépourvues de ramifications supplémentaires. Boutons globuleux ou ovés. Fleurs petites de 2-6 mm de diamètre. Sépales 5 quinconciaux égaux ou inégaux, courts, entiers ou ± denticulés. Pétales 5 quinconciaux sessiles, rarement un peu onguiculés, bien recouvrants au sommet du bouton (exception P. biholongi). Disque réduit, bas, annulairc ou cupuliforme, parfois lobé entre les bases pétalaires, charnu extérieurement, latéralement ou vers le haut, toujours directement au contact de la base de l'androcée. Étamines 3 petites transversalement déhiscentes. Pollen simple, tricolporé, très petit. Style petit ou très réduit à stigmate ponctiforme ou ± trilobulé ; les lobes visibles alternent avec les étamines (sauf dans le cas de P. andongensis, cfr. p. 208). Ovaire trilobé à 3 loges semi-enfoncées par rapport à la base de l'androcée ; 4-10 ovules par loge.
+Inflorescences axillary in pairs, sometimes arranged in terminal panicles. Dichotomic cymes always devoid of supplementary ramifications. Buds globose or ovate. Flowers small 2-6 mm in diameter. Sepals 5 quincuncial equal or unequal, short, entire or ± denticulate. Petals 5 quincuncial sessile, rarely somewhat unguiculate, well overlapping at the apex of the bud (exception P. biholongi). Disk reduced, low, annular or cupuliform, sometimes lobed between the petal bases, fleshy externally, laterally or toward the apex, always directly in contact with the base of the androecium. Stamens 3 small transversely dehiscent. Pollen simple, tricolporate, very small. Style small or very reduced to punctiform stigma or ± trilobulate; the visible lobes alternate with the stamens (except in the case of P. andongensis, cfr. p. 208). Ovary trilobed with 3 semi-immersed locules with respect to the base of the androecium; 4-10 ovules per locule.
 
-Fruit tricarpellé à 6 valves caduques. Graines ailées à 2 nervures dont le raphé transalaire ; elles sont insérées sur des étuis triangulaires comprimés. Cotylédons soudés (caractère restant à vérifier chez quelques espèces) ; gemmule sans structures distinctes.
+Fruit tricarpellate with 6 caducous valves. Seeds winged with 2 nerves of which the raphe is transalary; they are inserted on compressed triangular arils. Cotyledons fused (character remaining to be verified in a few species); embryo without distinct structures.
 
-ESPÈCE-TYPE : Pristimera verrucosa (H.B. & Kunth) Miers, d'Amérique.
+TYPE SPECIES: Pristimera verrucosa (H.B. & Kunth) Miers, from America.
 
-Étymologie grecque : de « pristis », scie, et « meros », partie (florale) ; allusion aux pièces florales denticulées chez quelques espèces.
+Greek etymology: from "pristis", saw, and "meros", (floral) part; allusion to the denticulate floral parts in some species.
 
-Genre de 24 espèces dont 8 ou 9 en Amérique, 4 à Madagascar et une en Indonésie (P. glaga (Korth.) Hallé). En Afrique 13 espèces ; 6 au Cameroun (3 à rechercher) ; 3 au Gabon (5 autres à rechercher) ; le Zaïre en compte 8 ou 9. Trois espèces seulement sont connues de l'Afrique de l'Ouest. Certaines espèces sont insuffisamment connues du fait de leur rareté.
+Genus of 24 species of which 8 or 9 in America, 4 in Madagascar and one in Indonesia (P. glaga (Korth.) Hallé). In Africa 13 species; 6 in Cameroon (3 to be sought); 3 in Gabon (5 others to be sought); Zaire comprises 8 or 9. Only three species are known from West Africa. Some species are insufficiently known due to their rarity.
 
-### CLÉ DES SOUS-GENRES ET ESPÈCES
+### KEY TO SUBGENERA AND SPECIES
 
-1. Fleurs urcéolées à semi-rotacées ; sépales égaux ou subégaux ; pétales suborbiculaires, ovés ou oblongs ou pourvus d'un large onglet ou sessiles ; disque peu apparent, lobé ou anguleux, cupuliforme ou non (sous-genre Pristimera).
+1. Flowers urceolate to semi-rotate; sepals equal or subequal; petals suborbicular, ovate or oblong or provided with a broad claw or sessile; disk inconspicuous, lobed or angular, cupuliform or not (subgenus Pristimera).
 
-2. Disque nettement 5-lobé, à lobes enserrant la base des pétales ; fleur sessile à subsessile ; pétales presque orbiculaires d'environ 1 mm de diamètre ; feuille paraissant souvent à sec mince et crispée ..... 1. P. paniculata.
+2. Disk distinctly 5-lobed, with lobes enclosing the base of the petals; flower sessile to subsessile; petals almost orbicular about 1 mm in diameter; leaf appearing often when dry thin and crisped ..... 1. P. paniculata.
 
 ## Species in region
 

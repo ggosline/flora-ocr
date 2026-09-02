@@ -17,19 +17,17 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Liane dépourvue de caoutchouc, à bois cylindrique. Pubescence remarquable surtout aux jeunes extrémités et dissimulant les stipules. Feuilles opposées pétiolées entières ; limbes à poils étoilés sans équivalent dans la sous-famille.
+Liana devoid of rubber, with cylindrical wood. Pubescence remarkable especially on young extremities and concealing the stipules. Leaves opposite, petiolate, entire; laminae with stellate hairs without equivalent in the subfamily.
 
 ---
 
-Inflorescences à base de cymes sans ramifications supplémentaires. Bractées grandes et enveloppantes dans les inflorescences juvéniles. Boutons vêtus jusqu'au sommet par les sépales. Pétales pubescents, à base onguiculée et à marge fimbriée. Disque étalé multilobulé, séparé par un étranglement d'un androgynophore charnu couronné de poils à la base des 3 étamines ; anthères transversalement déhiscentes ; pollen simple tricolporé à réticule grossier. Ovaire pubescent à 3 loges multovulées.
+Inflorescences with a base of cymes without supplementary branching. Bracts large and enveloping in juvenile inflorescences. Buds clothed to the apex by the sepals. Petals pubescent, with unguiculate base and fimbriate margin. Disk spreading, multilobulate, separated by a constriction from a fleshy androgynophore crowned with hairs at the base of the 3 stamens; anthers transversely dehiscent; pollen simple tricolporate with coarse reticulum. Ovary pubescent with 3 multilovulate locules.
 
-Fruit sec à trois méricarpes déhiscents en 2 valves non caduques. Loge carpellaire tapissée de poils. Graines pubescentes autour de l'embryon ; aile développée, bordée mais non traversée par le raphé. Pas d'étuis funiculaires différenciés mais parfois des vestiges d'arilles.
+Fruit dry with three mericarps dehiscent in 2 non-caducous valves. Carpellary locule lined with hairs. Seeds pubescent around the embryo; wing developed, bordered but not traversed by the raphe. No differentiated funicular sheaths but sometimes remnants of arils.
 
-### Genre monotypique d'Afrique continentale humide.
+### Monotypic genus of humid continental Africa.
 
-Étymologie : du grec Helis, Helicos, spirale, et Nema, fil. Allusion aux filets staminaux qui s'enroulent en spirale ; compte tenu de la banalité de ce caractère, le choix de l'appellation n'est pas très heureux.
+Etymology: from Greek Helis, Helicos, spiral, and Nema, thread. Allusion to the staminal filaments which coil in a spiral; given the banality of this character, the choice of the name is not very fortunate.
 
 ## Species in region
 

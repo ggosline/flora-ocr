@@ -17,69 +17,23 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Shrubs or trees with cylindrical stems, often deeply furrowed on the trunk, with white latex. Opposite leaves, those of a pair equal or unequal; petioles or leaf bases of a pair connate in a short ochrea, with a single row of axillary colleters; limb elliptic to obovate or narrowly obovate, cunéate at the base or decurrent on the petiole. Inflorescences generally by two in the forks of the branches, often longly pedunculate, cymose, bracteate, generally very visible, caducous or persistent, leaving very visible scars. Flowers actinomorphic, often fragrant; calyx generally furnished with very visible colleters inside the tube, with subequal lobes; corolla mainly cream or yellow or partially brownish, with tube often clearly twisted, throat generally almost stellate in transverse section, with lobes in bud, overlapping to the left, stamens included or partially exserted, with sessile anthers, annular disc, glabrous pistil, ovary with 2 free or connate carpels at the base, rarely entirely fused, united at the apex by the styles, style thickened to the apex, head of the pistil with short, coherent theca with the connectives of the anthers at the apex, stigmatoid head, short style and head of the pistil
 
-Arbustes ou arbres UDPHDX[F\OLQGULTXHVVRXYHQWSURIRQGpPHQWVLOORQQpVVXUOHVHF à latex
+<<<---SECTION-BREAK--->>>
 
-blanc . Feuilles opposées, celles d’une paire égales ou inégales ; pétioles ou bases foliaires
+of the calyx showing the pistil; ± Fruit ± . Idem longitudinal section ± pistil Leeuwenberg 13542; 2, 3, 4 (open calyx): A.M. Louis 360; 5: Wieringa 779; 6: A.M. Louis 1902).
 
-d’une paire connés en un ochréa court , avec une seule rangée de collétères axillaires ; limbe
+Drawing by Yuen Fang Tan, Naturalis Biodiversity Center (©), reproduced from Haegens (1994).
 
-HOOLSWLTXHjRERYDOHRXpWURLWHPHQWRERYDOHFXQppjODEDVHRXGpFXUUHQWVXUOHSpWLROH ,QÀR -
+<<<---SECTION-BREAK--->>>
 
-rescences généralement par deux dans les fourches des rameaux, souvent longuement pédon-
+falling with the corolla. Fruits with 2 free carpels or less often, partially or completely fused, green to yellow or orange, generally with numerous seeds; soft wall, fleshy, often thick. Seeds obliquely ellipsoid or reniform, rugose, the hilar side with a deep furrow over half the width, less deeply furrowed on the other sides, with a finely tuberculate or honeycomb structure, each surrounded by a white to orange pulpy aril; copious albumen, ruminate, surrounding the embryo.
 
-FXOpHVF\PHXVHVEUDFWpHVJpQpUDOHPHQWELHQYLVLEOHVFDGXTXHVRXSHUVLVWDQWHVODLVVDQW
+A genus of the Old World, with species, of which in Africa and five in Southeast Asia.
 
-des cicatrices bien visibles. Fleurs actinomorphes, souvent parfumées ; calice généralement
+In Gabon, 12 species.
 
-muni de collétères bien visibles à l’intérieur du tube , à lobes subégaux ; corolle principa-
-
-lement crème ou jaune ou partiellement brunâtre, à tube souvent nettement tordu , gorge
-
-Jpqpudohphqw SUHVTXH pWRLOpH HQ FRXSH WUDQVYHUVDOH j OREHV HQ ERXWRQ recouvrant vers la
-
-gauche pWDPLQHVLQFOXVHVRXSDUWLHOOHPHQWH[VHUWHVjDQWKqUHVVHVVLOHVGLVTXHDQQXODLUH
-
-pistil glabre, ovaire à 2 carpelles libres ou connés à la base, rarement entièrement fusionnés,
-
-XQLVjO¶DSH[SDUOHVW\OHVW\OHpSDLVVLMXVTX¶jO¶DSH[Wrwhgxslvwlojorehvodwpudx[FRXUWV
-
-cohérents avec les connectifs des anthères jDSH[VWLJPDWRwGHFRXUW style et tête du pistil
-
----
-
-GXFDOLFHPRQWUDQWOHSLVWLOî±)UXLWîҀ±,GHPFRXSHORQJLWXGLQDOHîSLVWLO
-
-Leeuwenberg 13542 ; 2, 3, 4 (calice ouvert) : A.M. Louis 360 ; 5 : Wieringa 779 ; 6 : A.M. Louis 1902 ).
-
-Dessin par Yuen Fang Tan, Naturalis Biodiversity Center (©), reproduit à partir de Haegens (1994).
-
----
-
-tombant avec la corolle . Fruit s à 2 carpelles libres ou moins souvent, partiellement ou com-
-
-plètement soudés, verts à jaunes ou orange, généralement à nombreuses graines ; paroi molle,
-
-charnue, souvent épaisse. Graines REOLTXHPHQWHOOLSVRwGDOHVRXUpQLIRUPHVUXJXHXVHVOHF{Wp
-
-hilaire avec un sillon profond sur la moitié de la largeur, moins profondément sillonnées sur
-
-OHVDXWUHVF{Wpvdyhfxqhvwuxfwxuh¿QHPHQWWXEHUFXOpHRXHQQLGG¶DEHLOOHVFKDFXQHHQWRXUpH
-
-d’un arille pulpeux blanc à orange ; albumen copieux, ruminé, entourant l’embryon.
-
-8QJHQUHGHO¶$QFLHQ0RQGHDYHFHVSqFHVGRQWHQ$IULTXHHWFLQTHQ$VLHGX6XG(VW
-
-Au Gabon, 12 espèces.
-
-Notes : Dans la révision de Leeuwenberg (1985), seules trois espèces de Voacanga sont citées du Gabon.
-
-Deux autres, V. chalotiana et V. thouarsii , y ont été trouvées depuis. En dehors de cela, la grande variation
-
-GDQVODIRUPHGHVÀHXUVHWGHVIUXLWVFKH] V. bracteata s.l . et V. psilocalyx s.l. DDPHQpORJLTXHPHQWj
-
-restaurer plusieurs espèces anciennement unies avec d’autres (Jongkind & Lachenaud 2022) et de décrire
+Notes: In Leeuwenberg's revision (1985), only three species of Voacanga are cited from Gabon. Two others, V. chalotiana and V. thouarsii, have been found there since. Apart from that, the great variation in the form of the flowers and fruits in V. bracteata s.l. and V. psilocalyx s.l. amentologically led to restore several species formerly united with others (Jongkind & Lachenaud 2022) and to describe
 
 ## Species in region
 

@@ -16,49 +16,15 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+in Engl. & Prantl, Nat. Pflanzenfam. (ed. 1) 3(4): 307 (1896).
 
-in Engl. & Prantl, Nat. Pflanzenfam . (éd. 1) 3(4) : 307 (1896).
+Trees, monoecious. Leaves compound, paripinnate or nearly imparipinnate; petiole and rachis flattened above and slightly winged on the margins; leaflets 5–8 pairs, opposite, subopposite or rarely alternate, entire, generally glabrous. Inflorescences terminal or axillary, in large panicles with ultimate cymose branching. Flowers 4-merous, functionally unisexual but with vestiges of the opposite sex usually well-developed; calyx deeply lobed, lobes semicircular and imbricate; petals free, imbricate, reflexed at anthesis, glabrous, white or red-violet; staminal tube cylindrical with upper margin denticulate, teeth alternating with the 8 anthers (or antherodia) exserted, with short filament inserted on the margin of the tube; disc cupuliform supporting the gynoecium, yellow; ovary 4-locular, with 4–6 ovules per locule. Fruit capsular, pendant, narrowly ellipsoid, quadrangular in section, with apical or simultaneously apical and basal dehiscence into 4 coriaceous, black valves; central axis (columella) corky, with 4 faces, each face with 2–4 seeds inserted at the apex of the columella by the tip of their wing. Seed ovoid or suborbicular, flattened, provided with a membranous wing; cotyledons flat, thin.
 
-Arbres , monoïques . Feuilles composées, paripennées ou quasi imparipennées ; pétiole
+African genus comprising 2 species, of which 1 in Gabon.
 
-et rachis aplatis dessus et légèrement ailés sur les bords ; folioles 5–8 paires, opposées, su -
+B: Mabberley (2011), Pennington & Styles (1975).
 
-bopposées ou rarement alternes, entières, généralement glabres. Inflorescences terminales
-
-ou axillaires, en grandes panicules à ramifications ultimes cymeuses. Fleurs 4-mères ,
-
-fonctionnellement unisexuées, mais avec vestiges du sexe opposé d’habitude bien déve -
-
-loppés ; calice profondément lobé, à lobes semi-circulaires et imbriqués ; pétales libres,
-
-imbriqués, réfléchis à l’anthèse, glabres, blancs ou rouge violacé ; tube staminal cylin -
-
-drique à bord supérieur denticulé, dents alternants avec les 8 anthères (ou anthérodes)
-
-exsertes, à court filet inséré sur le bord du tube ; disque cupuliforme soutenant le gynécée,
-
-jaune ; ovaire 4-loculaire, à 4–6 ovules par loge. Fruit capsulaire, pendant , étroitement
-
-ellipsoïde , quadrangulaire en section, à déhiscence apicale ou simultanément apicale et
-
-basale en 4 valves coriaces, noires ; axe central (columelle) liégeux, à 4 faces , chaque
-
-face avec 2–4 graines insérées au sommet de la columelle par l’extrémité de leur aile.
-
-Graine ovoïde ou suborbiculaire, aplatie, pourvue d’une aile membraneuse ; cotylé -
-
-dons plats, minces.
-
-Genre africain comprenant 2 espèces, dont 1 au Gabon.
-
-B : Mabberley (2011), Pennington & Styles (1975).
-
-ibliographie
-
----
-
----
+ibliography
 
 ## Species in region
 

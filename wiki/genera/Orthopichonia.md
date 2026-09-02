@@ -17,69 +17,31 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Lianes with coiled tendrils, with abundant white latex in all parts. Leaves opposite,
 
-Lianes à vrilles enroulées , à latex blanc abondant dans toutes les parties. Feuilles opposées,
+numerous parallel and dense secondary nerves. Inflorescences generally axillary, sometimes terminal and in the form of a bracteate tendril with small persistent stipules on each side near the base. Flowers actinomorphic, fragrant; calyx persistent, without colleters, with subequal lobes imbricate at the apex in bud; corolla generally white with tubular-shaped tube, thin, not twisted, with lobes overlapping to the left in bud; stamens included, inserted in the basal half of the tube, dorsally keeled, rarely devoid of a sterile apex, glabrous; disk absent; ovary semi-inferior to superior composed of united carpels (syncarp), 1-locular to imperfectly 2-locular, with 2 parietal placentas; style glabrous, style and stigma persistent. Fruits as berries with 2 entirely fused carpels, often subtended by the persistent calyx, glabrous. Seeds irregularly ellipsoid to reniform, smooth, cotyledons plane ovate-elliptic reaching 7 mm in length, cord-like generally cuneate at the base, obtuse at the apex, with hard and fleshy endosperm.
 
-Spwlrophvolpehhoolswltxhjreorqjsduirlvrerydohrxrydohfxqppjodedvhj nombeuses
+This genus is exclusively African and comprises six species, four of which occur in Gabon.
 
-nervures secondaires parallèles et denses . ,QÀRUHVFHQFHV généralement axillaires, parfois
+Notes: The taxonomy of this genus is still not very robust and more in-depth research must be undertaken to resolve the issues.
 
-WHUPLQDOHVHWHQIRUPHGHYULOOHEUDFWpHVSHUVLVWDQWHVSHWLWHVjFROOpWqUHVGHFKDTXHF{Wp
+BIBLIOGRAPHY: Beentje (2021), Endress et al. (2019), Vonk (1989).
 
-près de la base. Fleurs actinomorphes, odorantes ; calice persistant, sans collétères, à lobes
+### Key to the species
 
-VXEpJDX[LPEULTXpVGDQVOHERXWRQFRUROOHJpQpUDOHPHQWEODQFKHjWXEHHQIRUPHGHERX -
+Remark: It is still very difficult to identify Orthopichonia specimens in fruit, particularly when they are immature. This is the reason why it is not possible to identify all fertile specimens of Orthopichonia from Gabon.
 
-teille, mince, non tordu, à lobes recouvrant vers la gauche en bouton ; étamines incluses, insé-
+1. Apex of mature bud blunt and rounded ...................................................................... 2
 
-rées dans la moitié basale du tube , carénées dorsalement , rarement dépourvues d’un som-
+- Apex of mature bud attenuate and obtuse ........................................................................ 3
 
-PHWVWpULOHJODEUHVGLVTXHDEVHQWRYDLUHVHPLLQIqUHjVXSqUHFRPSRVpGHFDUSHOOHVXQLV
+2. - Mature bud 7.5–13 mm long; corolla tube 4.5–7 mm long; fruit ± globose, often with a base resembling a stipe, smooth or slightly warty ............................... O. barteri
 
-(syncarpe), 1-loculaire à imparfaitement 2-loculaire, à 2 placentas pariétaux ; style glabre,
+- Mature bud 13.5–19 mm long; corolla tube 9–15 mm long; fruit generally pyriform, strongly warty ............................................................................... O. cirrhosa
 
-style et stigmate persistants. Fruits en baies à 2 carpelles entièrement soudés, souvent sous-
+3. - Corolla tube 4.7–6 mm long; petiole 11–22 mm ........................ O. seretii
 
-tendus par le calice persistant, glabres. Graines LUUpJXOLqUHPHQW HOOLSVRwGDOHV j Upqliruphv
-
-OLVVHVFRW\Opgrqvsodqvrydohvjhoolswltxhvdwwhljqdqwppghorqjxhxufrugpvjopjquh -
-
-ment cunéés à la base, obtus au sommet, à endosperme dur et charnu.
-
-&HJHQUHH[FOXVLYHPHQWDIULFDLQFRPSWHVL[HVSqFHVGRQWTXDWUHDX*DERQ
-
-Notes : La taxonomie de ce genre est encore peu robuste et des recherches plus approfondies doivent être
-
-menées pour résoudre les problèmes.
-
-BIBLIOGRAPHIE : Beentje (2021), Endress et al. (2019), Vonk (1989).
-
-### Clé des espèces
-
-Remarque ,OHVWHQFRUHWUqVGLI¿FLOHG¶LGHQWL¿HUOHVVSpFLPHQVG¶ Orthopichonia en fruits, en particulier
-
-ORUVTX¶LOVVRQWLPPDWXUHV&¶HVWODUDLVRQSRXUODTXHOOHLOQ¶HVWSDVSRVVLEOHG¶LGHQWL¿HUWRXVOHVVSpFL -
-
-mens fertiles d’ Orthopichonia du Gabon.
-
-7rWHGXERXWRQPUREORwGHHWDUURQGLH ...................................................................... 2
-
-- Tête du bouton mûr atténuée et obtuse ........................................................................ 3
-
-2. - Bouton mûr long de 7,5–13 mm ; tube de la corolle long de 4,5–7 mm ; fruit
-
-± globuleux, souvent à base ressemblant à un stipe, lisse ou légèrement verru-
-
-TXHX[ ............................................................................................................. O. barteri
-
-- Bouton mûr long de 13,5–19 mm ; tube de la corolle long de 9–15 mm ; fruit géné-
-
-UDOHPHQWSLULIRUPHIRUWHPHQWYHUUXTXHX[ ................................................. O. cirrhosa
-
-3. - Tube de la corolle long de 4,7–6 mm ; pétiole de 11–22 mm ........................ O. seretii
-
-- Tube de la corolle long de 7,5–16 mm ; pétiole de 5–13 mm ..................... 2YLVFLÀXD
+- Corolla tube 7.5–16 mm long; petiole 5–13 mm ..................... O. viscifflua
 
 ## Species in region
 

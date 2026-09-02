@@ -17,41 +17,11 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Trees or shrubs. Stipules early caducous, small. Leaves often in tufts at the apex of branchlets, sometimes ± whorled; petiole cylindric, of very variable length on the same branchlet; blade of very variable dimensions, with entire margin, often bearing at the apex of the upper surface two small glands and sometimes (1–)2 basal glands on the lower surface. Inflorescences in panicles that appear to be terminal (but axillary from a strictly morphological viewpoint). Flowers unisexual, dioecious. Male flowers (4–)5-merous; sepals ± free; petals of the same length or somewhat smaller than the sepals; stamens 5, exsert; disc with 5 glands; pistillode present. Female flowers 5-merous; petals somewhat longer than the sepals; disc hypogynous, cupuliform; ovary ovoid, 3(–4)-locular, with 2 ovules per locule; styles bilobed at the apex, papillose. Fruit capsular, with loculicidal dehiscence, ± spheric. Seeds 1(–2) per locule, smooth, red, shining.
 
-Arbres ou arbustes. Stipules tôt caduques, petites. Feuilles souvent en touffes au sommet
+African genus with 1 or 2 species (see taxonomic note) in West and Central Africa; one species in Gabon.
 
-des rameaux , parfois ± verticillées ; pétiole cylindrique, de longueur très variable sur
-
-le même rameau ; limbe de dimensions très variables, à marge entière, souvent garni
-
-au sommet de la face supérieure de deux petites glandes et parfois à (1–)2 glandes basales
-
-à la face inférieure. Inflorescences en panicules qui semblent être terminales (mais
-
-axillaires d’un point de vue strictement morphologique). Fleurs unisexuées, dioïques.
-
-Fleurs mâles (4–)5-mères ; sépales ± libres ; pétales de même longueur ou un peu plus
-
-petits que les sépales ; étamines 5, exsertes ; disque à 5 glandes ; pistillode présent. Fleurs
-
-femelles 5-mères ; pétales un peu plus longs que les sépales ; disque hypogyne , cupu -
-
-liforme ; ovaire ovoïde, 3(–4)-loculaire, à 2 ovules par loge ; styles bilobés au sommet,
-
-papilleux. Fruit capsulaire, à déhiscence loculicide, ± sphérique. Graines 1(–2) par loge,
-
-lisses, rouges , luisantes.
-
-Genre africain à 1 ou 2 espèces (voir note taxonomique) en Afrique de l’Ouest et Cen -
-
-trale ; une espèce au Gabon.
-
-b : Engler (1911), Léonard & Nkounkou (1989), Pax & Hoffmann (1922),
-
-ibliographie
-
-Radcliffe-Smith (2001).
+Bibliography: Engler (1911), Léonard & Nkounkou (1989), Pax & Hoffmann (1922), Radcliffe-Smith (2001).
 
 ## Species in region
 

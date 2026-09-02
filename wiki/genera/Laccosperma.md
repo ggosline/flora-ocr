@@ -17,73 +17,33 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 Ancistrophyllum (G.Mann & H.Wendl.) H.Wendl. in De Kerchove de Denterghem, Palmiers : 230
 
-(1878), nom. illeg .
+(1878), nom. illeg.
 
 Ancistrophyllum (G.Mann & H.Wendl.) H.Wendl. subg. Laccosperma (G.Mann & H.Wendl.) Hook.f. in
 
 Bentham & Hooker, Gen. pl. 3(2) : 937 (1883), nom. illeg.
 
-Palmiers lianescents , cespiteux, munis d’épines, monocarpiques . Feuilles matures pennées,
+Climbing palms, caespitose, armed with spines, monocarpic. Mature leaves pinnate, with a terminal cirrus; sheath ± densely covered with spines; ochrea present, entire, horizontally or obliquely cut, or drying and cut longitudinally; knee absent; petiole present; blade with linear to sigmoid leaflets, with strongly spinous margins; cirrus armed with spine-like leaflets of 1.5–5 cm or spine-like leaflets absent, with rachis lacking spines or with short spines less than 5 mm. Inflorescences in the axil of distal leaves, often reduced, branched once; peduncle contained within the leaf sheath, base not fused to the internode; prophyll strictly tubular; peduncular bracts 1 to 3; rachis longer than the peduncle; flowering branches with flowers in dyads or rarely in triads. Flowers bisexual; calyx tubular, weakly 3-lobed; corolla tubular at the base, with 3 valvate lobes; stamens 6, fused into an epipetalous ring, filaments short, distinct and inflated, anthers medifixed, oblong, latrorse; gynoecium 3-carpellate, 3-ovulate, covered with scales; style triangular. Fruits berry-like, 1–3.5 cm in length, with apical stigmatic remnants, covered with reflexed scales, reddish-brown at maturity, with 1 or 2 seeds; mesocarp white, fleshy at maturity. Seeds ovoid and laterally flattened.
 
-avec un cirrhe terminal ; gaine ± densément couverte d’épines ; ochréa présente, entière,
+Genus comprising seven species from West and Central Africa, from Senegal to eastern Democratic Republic of the Congo, five of which are represented in Gabon.
 
-horizontalement ou obliquement coupée, ou séchant et coupée longitudinalement ; genou
+Notes: Laccosperma was generally considered a subgenus of the genus Calamus, later as a subgenus of Ancistrophyllum. This situation did not change until the publication of Dransfield (1982) which included Ancistrophyllum in Laccosperma.
 
-absent ; pétiole présent ; limbe à folioles linéaires à sigmoïdes, à bords fortement épineux ;
+The species L. acutiflorum (Becc.) J.Dransf. is known from Sierra Leone to Cameroon, in Equatorial Guinea, in the Republic of the Congo and in the Democratic Republic of the Congo. Its presence in Gabon is probable, which is why it appears in the key below.
 
-cirrhe muni de folioles-épines de 1,5–5 cm ou folioles-épines absentes, à rachis dépourvue
+Bibliography
 
-d’épines ou avec des épines courtes de moins de 5 mm. Inflorescences à l’aisselle des feuilles
-
-distales, souvent réduites, ramifiées une fois ; pédoncule contenu dans la gaine foliaire, base
-
-non fusionnée à l’entrenœud ; préfeuille strictement tubuleuse ; bractées pédonculaires 1 à
-
-3 ; rachis plus long que le pédoncule ; rameaux florifères à fleurs en diades ou rarement en
-
-triades . Fleurs bisexuées ; calice tubuleux, faiblement 3-lobé ; corolle tubuleuse à la base,
-
-à 3 lobes valvaires ; étamines 6, fusionnées en un anneau épipétale, filets courts, distincts
-
-et renflés, anthères médifixes, oblongues, latrorses ; gynécée 3-carpellé, 3-ovulé, couvert
-
-d’écailles ; style triangulaire. Fruits bacciformes, 1–3,5 cm de longueur, munis de restes stig -
-
-matiques apicaux, couvert d’écailles réfléchies, rouge-brun à maturité, avec 1 ou 2 graines ;
-
-mésocarpe blanc, charnu à maturité. Graines ovoïdes et aplaties latéralement.
-
-Genre comprenant sept espèces d’Afrique de l’Ouest et centrale, du Sénégal jusqu’à l’est de la
-
-République démocratique du Congo, dont cinq sont représentées au Gabon.
-
-Notes : Laccosperma a été généralement considéré comme un sous-genre du genre Calamus , après
-
-comme sous-genre d’ Ancistrophyllum . Cette situation n’a pas changé jusqu’à la publication de Dransfield
-
-(1982) qui a inclus Ancistrophyllum dans Laccosperma.
-
-L’espèce L. acutiflorum (Becc.) J.Dransf. est connue de la Sierra Léone au Cameroun, en Guinée équa -
-
-toriale, en République du Congo et en République démocratique du Congo. Sa présence au Gabon est
-
-probable, raison pour laquelle elle figure dans la clé ci-dessous.
-
-Bi : Couvreur & Niangadouma (2016), Dransfield (1982), Dransfield et al. (2008), Faye et al.
-
-B liographie
+Couvreur & Niangadouma (2016), Dransfield (1982), Dransfield et al. (2008), Faye et al.
 
 (2014), Sunderland (2007, 2012).
 
 ---
 
-### Clé des espèces
+### Key to species
 
-1. - Liane frêle, à stipe de 5–15 mm de diamètre ; limbe avec ≤ 12 folioles de chaque côté
+1. - Slender liana, with stem 5–15 mm in diameter; blade with ≤ 12 leaflets on each side
 
 ## Species in region
 

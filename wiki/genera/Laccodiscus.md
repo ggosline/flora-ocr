@@ -17,29 +17,27 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Trees or shrubs erect or climbing, with striated branches. Leaves paripinnate, 3-8-jugate; basal leaflets sometimes simulating stipules, ± serrate, coriaceous, often bristly with setae.
 
-Arbres ou arbustes dressés ou grimpants, à rameaux striés. Feuilles paripennées, 3-8-juguées; folioles basales simulant parfois des stipules,  $ \pm $ dentées en scie, coriaces, souvent hérisées de soies.
+Inflorescences in branched racemes, axillary or terminal, bearing stipitate cymules, biporous, pauciflorous, with bracts and bracteoles. Flowers 5-8 mm in diameter, regular, polygamous; calyx with quincuncial aestivation, (4-5) 5 sepals hirsute on both faces, with ± keeled dorsum, rendering the bud ribbed; corolla with 4-5 valvate petals, lanceolate, hirsute, with short or absent claw; dentiform lateral appendages; regular disk, glabrous, in a lobed crown, or with 5 separated lobes; androecium intradiscal (7-) 8-10 stamens, with hirsute filaments, anthers elongate, mucronate (except in L. pseudostipularis); ovary with 3-4 locules, obovate, tomentose. Woody capsule, 3 (-4) lobed, isodiametric, retaining the style point at apex and the calyx at base, hirsute outside and within the locules; seed with integument appearing fleshy through an aril enveloping it completely, elongate, with hilum at base; embryo with straight cotyledons, plano-convex; radicle inferior minimal.
 
-Inflorescences en grappes ramifiées, axillaires ou terminales, portant des cymules stipitées, bipares, pauciflores, avec bractées et bractéoles. Fleurs de 5-8 mm de diamètre, régulières, polygames; calice à préfloraison quinconciale, (4-5) 5 sépales velus sur les 2 faces, à dos ± caréné, rendant le bouton côtelé; corolle à 4-5 pétales valvaires, lancéolés, velus, à onglet court ou nul; appendices latéraux dentiformes; disque régulier, glabre, en couronne lobée, ou à 5 lobes séparés; androcée intradiscal (7-) 8-10 étamines, à filets velus, anthères allongées, mucronées (sauf dans L. pseudostipularis); ovaire à 3-4 loges, obové, tomentaux. Capsule ligneuse, 3 (-4) lobée, isodiamétrique, conservant la pointe du style au sommet et le calice à la base, velue dehors et dans les loges; graine à tégument paraissant charnu par un arille l'enveloppant complètement, allongée, à hile à la base; embryon à cotylédons droits, plans convexes; radicule infère minime.
+TYPE SPECIES: Laccodiscus ferrugineus (Bak.) Radlk.
 
-ESPÈCE-TYPE : Laccodiscus ferrugineus (Bak.) Radlk.
-
-### Genre comptant 4 espèces d'Afrique occidentale.
+### Genus comprising 4 species from West Africa.
 
 ---
 
-1. Inflorescences laxiflores, avec soies longues (1-2 mm) hirsutes, rousses; feuilles de 40-60 cm, velues-hirsutes ou soyeuses, à pétiole de 0,5-15 cm; folioles entières ou à petites dents (1 mm) au sommet.
+1. Inflorescences laxiflorous, with long setae (1-2 mm) hirsute, rusty; leaves 40-60 cm, hirsute-pilose or silky, with petiole 0.5-15 cm; leaflets entire or with small teeth (1 mm) at apex.
 
-2. Long pétiole, 6-15 cm; 3-5 paires de folioles oblongues L/l plus petit ou égal à 3; 8-10 paires de nervures; pétioule 6-10 mm..... 1. L. ferrugineus.
+2. Long petiole, 6-15 cm; 3-5 pairs of oblong leaflets L/w less than or equal to 3; 8-10 pairs of veins; petiolule 6-10 mm..... 1. L. ferrugineus.
 
-2'. Court pétiole, 0,5-1 cm; 7-8 paires de folioles allongées L/l plus grand que 3; 16-18 paires de nervures; pétioules 2-3 mm..... 2. L. klaineanus.
+2'. Short petiole, 0.5-1 cm; 7-8 pairs of elongate leaflets L/w greater than 3; 16-18 pairs of veins; petiolules 2-3 mm..... 2. L. klaineanus.
 
-1'. Inflorescences densiflores brièvement tomenteuses, rousses (poils de 0,5 mm); feuilles de 40 cm sub-glabres, sessiles; folioles de la première paire stipuli-formes, folioles dentées de la base au sommet; dents recourbées env. 2 mm; env. 15 paires de nervures.
+1'. Inflorescences densiflorous briefly tomentose, rusty (hairs 0.5 mm); leaves 40 cm subglabrous, sessile; leaflets of the first pair stipuliform, leaflets dentate from base to apex; teeth curved approx. 2 mm; approx. 15 pairs of veins.
 
-3. Folioles oblongues, atténuées en long acumen, 16-20 × 4,5 cm, pétiolule 2 mm; cymules sessiles (RADLKOFER); feuilles 7-juguées; anthère mucronée, de longueur double du filet; disque en couronne continue. 3. L. spinulosodentatus.
+3. Leaflets oblong, attenuate into long acumen, 16-20 × 4.5 cm, petiolule 2 mm; cymules sessile (RADLKOFER); leaves 7-jugate; anther mucronate, twice the length of the filament; disk in continuous crown. 3. L. spinulosodentatus.
 
-3'. Folioles plus larges 20 × 9 cm, subovales, sommet obtus, pétiolule 5 mm; cymules stipitées; feuilles 4-6 juguées; anthère mutique, de la moitié de la longueur du filet; disque formé de 5 dents isolées..... 4. L. peudostipularis.
+3'. Leaflets broader 20 × 9 cm, subovate, apex obtuse, petiolule 5 mm; cymules stipitate; leaves 4-6 jugate; anther muticate, half the length of the filament; disk formed of 5 isolated teeth..... 4. L. pseudostipularis.
 
 ## Species in region
 

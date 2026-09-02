@@ -17,11 +17,9 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Herbs with an erect leafy stem. Leaves distichous, thick. Inflorescence elongate, multiflorous. Flowers large, resupinate. Pedicel twisted in its lower part. Sepals and petals subsimilar. Labellum clawed, more or less elliptic to broadly obovate, entire or trilobed at the apex, apiculate. Spur very long, filiform, twisted in a spiral toward the apex. Rostellum elongate, digitate, fleshy, subacute, curved upward just above the middle. Viscidium solitary. Tegula solitary. Remains of the rostellum obtuse, channeled. – Pl. 206, p. 437.
 
-Herbes avec une tige feuillée dressée. Feuilles distiques, épaisses. Inflorescence allongée, multiflore. Fleurs grandes, résupinées. Pédicelle tordu dans sa partie inférieure. Sépales et pétales subsemblables. Labelle onguiculé, plus ou moins elliptique à largement obové, entier ou trilobé au sommet, apiculé. Éperon très long, filiforme, tordu en spirale vers le sommet. Rostellum allongé, digitiforme, charnu, subaigu, recourbé vers le haut juste au-dessus du milieu. Viscidie unique. Tegula unique. Restes du rostelle obtus, canaliculés. – Pl. 206, p. 437.
-
-Genre monospécifique d'Afrique tropicale et de Madagascar.
+Monospecific genus from tropical Africa and Madagascar.
 
 ## Species in region
 

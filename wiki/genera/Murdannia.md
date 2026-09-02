@@ -17,59 +17,21 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Perennial herbs (in Gabon), with fibrous or hard tuberculate rootstock. Leaves spirally arranged or distichous, mostly in basal rosette, with a few cauline leaves; without pseudopetiole. Inflorescences terminal or axillary, in thyrses of 2 or more cincinni, the latter multiflorous or reduced or uniflorous, partially hidden in the leaf sheath, bearing flowers all bisexual or bisexual and male. Flowers actinomorphic to slightly zygomorphic; sepals free, subequal; petals free, equal, without claw; fertile stamens 3 or sometimes 2, oppositisepalous, with filament long pubescent; staminodes absent or 3(–4), oppositipetalous, antherodia 3-lobed or hastate; ovary 3-locular. Fruits: capsules (2–)3-locular, opening on (2–)3 valves, locules with 1 or several seeds. Seeds uni- or biseriate; hilum punctiform to linear; embryotegium lateral to dorsal.
 
-Herbes pérennes (au Gabon), à souche fibreuse ou tuberculé dure . Feuilles spiralées ou dis-
+Genus of ± 50 species, present in all tropical and subtropical zones; in Africa 8 or 9 species, of which 2 in Gabon.
 
-tiques, majoritairement en rosette basale, avec quelques feuilles caulinaires ; sans pseu-
+Notes: The Asian species M. nudiflora (L.) Brenan is invasive in several regions of Africa and America, notably in rice paddies. It was mentioned by Raponda-Walker & Sillans (1961), but this is probably a misidentification, as it has not yet been recorded in Gabon. The plant is less robust than M. simplex with a base resembling a rosette and decumbent flowering stems.
 
-dopétiole. Inflorescences terminales ou axillaires, en thyrses à 2 cincinni ou plus, les derniers
+Bibliography
 
-multiflores à réduits ou uniflores, partiellement cachés dans la gaine foliaire, munis de fleurs
+Bi: Brenan (1952), van der Burg (2006), Faden (1998, 2012), Faden & Inman (1996), Morton (1967), Raponda-Walker & Sillans (1961).
 
-toutes bisexuées ou bisexuées et mâles. Fleurs actinomorphes à légèrement zygomorphes ;
+### Key to the species
 
-sépales libres, subégaux ; pétales libres, égaux, sans onglet ; étamines fertiles 3 ou parfois 2,
+1. - Slender herb, supported by surrounding vegetation; inflorescence unbranched, in fascicles at the axil of 1 to 3 terminal leaves, bearing 1(–2) hermaphrodite flowers; stamens 3, staminodes absent .................................................................. M. tenuissima
 
-oppositisépales, à filet longuement pubescent ; staminodes absents ou 3(–4), oppositipétales,
-
-anthérodes 3-lobés ou hastés ; ovaire 3-loculaire. Fruits : capsules (2–)3-loculaires, s’ouvrant
-
-sur (2–)3 valves, loges à 1 ou plusieurs graines. Graines uni- ou bisériées ; hile ponctiforme à
-
-linéaire ; embryotège latérale à dorsale.
-
-Genre de ± 50 espèces, présent dans toutes les zones tropicales et subtropicales ; en Afrique 8
-
-ou 9 espèces, dont 2 au Gabon.
-
-Notes : L’espèce asiatique M. nudiflora (L.) Brenan est envahissant dans plusieurs régions de l’Afrique
-
-et de l’Amérique, notamment dans les rizières. Elle a été mentionnée par Raponda-Walker & Sillans
-
-(1961), mais il s’agit probablement d’une erreur d’identification, car elle n’a pas encore été signalée au
-
-Gabon. La plante est moins robuste que M. simplex avec une base semblable à une rosette et des tiges
-
-florales prostrées.
-
-Bi : Brenan (1952), van der Burg (2006), Faden (1998, 2012), Faden & Inman (1996), Morton
-
-B liographie
-
-(1967), Raponda-Walker & Sillans (1961).
-
-### Clé des espèces
-
-1. - Herbe grêle, soutenue par la végétation ; inflorescence non-ramifiée, en fascicules
-
-à l’aisselle des 1 à 3 feuilles terminales, portant 1(–2) fleurs hermaphrodites ; éta -
-
-mines 3, staminodes absents .................................................................. M. tenuissima
-
-- Herbe plus robuste ; inflorescence ramifiée, avec plusieurs fleurs sur chaque
-
-branche de l’axe floral ; étamines 2, staminodes 4 ..................................... M. simplex
+- More robust herb; inflorescence branched, with several flowers on each branch of the floral axis; stamens 2, staminodes 4 ..................................... M. simplex
 
 ## Species in region
 

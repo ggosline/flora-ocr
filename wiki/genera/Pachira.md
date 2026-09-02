@@ -17,49 +17,47 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Trees or shrubs, deciduous or sempervirent, unarmed or sometimes spinescent; trunk with or without buttresses. Leaves petiolate, stipulate; 3–11 leaflets articulate, sessile or petiolulate, entire.
 
-Arbres ou arbustes, décidus ou sempervirents, inermes ou parfois spinescents; tronc avec ou sans contreforts. Feuilles pétiolées, stipulées; 3-11 folioles articulées, sessiles ou pétiolulées, entières.
+Flowers solitary or fasciculate by 2–3, axillary or subterninal, rarely in paciflorous cymose inflorescences. Pedicels with 3 bractlets early caducous. Floral buds linear, straight sometimes ± curved. Flowers ♀ actinomorphic, large, 15–35 cm long. Receptacle most often glandular. Calyx cupuliform-campanulate to subtubuliforme, truncate to undulate, pubescent to puberulent on both faces. Corolla with 5 ribbon-like petals, enrolled in a tube around the staminal column, caducous after anthesis, fleshy, pubescent on both faces. Stamens 200–700, in two whorls, phalanges glabrous. Gynoecium with filiform style, ± pubescent.
 
-Fleurs solitaires ou fasciculées par 2-3, axillaires ou subterminales, rarement inflorescences cymeuses pauciflores. Pédicelles à 3 bractéoles tôt caduques. Boutons floraux linéaires, droits parfois ± arqués. Fleurs ♀ actinomorphes, de grande taille longues de 15-35 cm. Réceptacle le plus souvent glandulaire. Calice cupuliforme-campanulé à subtubuliforme, tronqué à ondulé, pubescent à pubérulent sur les deux faces. Corolle à 5 pétales rubanés, enroulés en tube autour de la colonne staminale, caduc après l'anthèse, charnus, pubescents sur les deux faces. Étamines 200-700, en deux verticilles, phalanges glabres. Gynécée à style filiforme, ± pubescent.
+Capsule woody. Seeds variously numerous and of variable size.
 
-Capsule ligneuse. Graines diversement nombreuses et de taille variable.
+TYPE SPECIES: Pachira aquatica Aubl.
 
-ESPÈCE-TYPE : Pachira aquatica Aubl.
-
-Les genres Pachira Aubl. et Bombacopsis Pittier restent distincts dans l'important travail consacré au genre Bombax (sens. lat.) par A. Robyns. Cependant il nous semble difficile de maintenir séparés deux taxons ne différant que par des caractères peu importants ou peu visibles dans la majorité des cas. Les critères séparateurs sont :
+The genera Pachira Aubl. and Bombacopsis Pittier remain distinct in the important work devoted to the genus Bombax (sensu lato) by A. Robyns. However, it seems to us difficult to maintain separate two taxa differing only by characters of little importance or little visible in the majority of cases. The separating criteria are:
 
 ---
 
-— La taille des fleurs : celles des Pachira ont une longueur variant de 15 à 25,5 cm, tandis que chez Bombacopsis, elles peuvent atteindre une longueur de 35 cm.
+— The size of the flowers: those of Pachira have a length varying from 15 to 25.5 cm, while in Bombacopsis, they can reach a length of 35 cm.
 
-— La germination : chez Pachira les cotylédons sont au niveau du sol, tandis que chez Bombacopsis, ils sont nettement au-dessus de la terre.
+— The germination: in Pachira the cotyledons are at ground level, while in Bombacopsis, they are clearly above the soil.
 
-— Le pollen : malgré quelques différences, les pollens des deux genres demeurent très ressemblants.
+— The pollen: despite some differences, the pollens of the two genera remain very similar.
 
-Tous les autres caractères génériques sont identiques dans les deux cas. Il nous semble donc logique d’admettre la synonymie entre ces deux genres et de conserver, conformément au Code de la nomenclature, le genre Pachira.
+All other generic characters are identical in both cases. It seems to us therefore logical to admit the synonymy between these two genera and to retain, in accordance with the Code of nomenclature, the genus Pachira.
 
-Ce genre néotropical pour l’essentiel, est représenté en Afrique par des espèces introduites, dont 3 pour le Gabon.
+This essentially Neotropical genus is represented in Africa by introduced species, 3 of which for Gabon.
 
-### CLÉ DES ESPÈCES PAR LES FEUILLES
+### KEY TO SPECIES BY LEAVES
 
-1. Folioles pétiolulées ..... 3. P. aquatica
+1. Leaflets petiolulate ..... 3. P. aquatica
 
-1'. Folioles sessiles ou subsessiles.
+1'. Leaflets sessile or subsessile.
 
-2. Face inférieure du limbe pubérulente ou lépidote..... 1. P. glabra
+2. Lower surface of the blade puberulent or lepidote ..... 1. P. glabra
 
-2'. Face inférieure du limbe glabre..... 2. P. sessilis
+2'. Lower surface of the blade glabrous ..... 2. P. sessilis
 
-### CLÉ DES ESPÈCES PAR LES FRUITS
+### KEY TO SPECIES BY FRUITS
 
-1. Valves glabres ..... 1. P. glabra
+1. Valves glabrous ..... 1. P. glabra
 
-1'. Valves pubescentes ou pubérulentes.
+1'. Valves pubescent or puberulent.
 
-2. Graines à stries fortement saillantes..... 2. P. sessilis
+2. Seeds with strongly prominent striations ..... 2. P. sessilis
 
-2'. Graines à stries non saillantes..... 3. P. aquatica
+2'. Seeds with non-prominent striations ..... 3. P. aquatica
 
 ## Species in region
 

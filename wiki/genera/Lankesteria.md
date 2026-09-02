@@ -17,17 +17,15 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Shrubs, subshrubs or herbaceous plants with woody base.
 
-Arbustes, sous arbrisseaux ou plantes herbacées à base ligneuse.
+Flowers yellow-orange, grouped in heads, spikes or panicles, inserted at the axil of bracts and provided with bracteoles almost as long as the calyx. Calyx divided almost to the base into 5 linear, subulate segments. Corolla with tube long and narrow throughout its length, limb scarcely irregular, with 5 obtuse subequal lobes, 2 fertile stamens inserted towards the top of the tube, exserted, with oblong-muticous anthers with 2 parallel locules, 2 very small staminodes. 1–2 ovules per locule, stigma capitate or oblong, ± bilobed.
 
-Fleurs jaune orange, groupées en têtes, épis ou panicules, insérées à l'aisselle de bractées et pourvues de bractéoles presqu’aussi longues que le calice. Calice divisé presque jusqu'à la base en 5 segments linéaires, subulées. Corolle à tube long et étroit sur toute sa longueur, à limbe à peine irrégulier, à 5 lobes obtus subé-gaux, 2 étamines fertiles insérées vers le haut du tube, exsertes, à anthères oblongues-mutiques à 2 loges parallèles, 2 staminodes très petits. 1-2 ovules par loge, stigmate capité ou oblong, ± bilobé.
+Capsule oval or orbicular, compressed parallel to the partition contracted at the base into a short stipe, generally with 2 seeds supported by fairly long retinacula hook-shaped.
 
-Capsule ovale ou orbiculaire, comprimée parallèlement à la cloison contractée à la base en court stipe, en général à 2 graines supportées par des rétinacles assez longs en forme de crochet.
+Type species: L. parviflora Lindl., from Sierra Leone, = L. hispida (Willd.) T. Anders.
 
-Espèce type : L. parøiflora Lindl., de Sierra-Leone, = L. hispida (Willd.) T. Anders.
-
-Environ 4 espèces en Afrique tropicale, une seule au Gabon.
+Approximately 4 species in tropical Africa, only one in Gabon.
 
 ## Species in region
 

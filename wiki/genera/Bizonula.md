@@ -17,9 +17,7 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Ce genre gabonais monospécifique nous est connu par 3 parts d'une récolte de LE TESTU comportant des feuilles paraissant incomplètement développées et des fleurs femelles aux ovaires sans doute fécondés. L'auteur donne la plante pour hermaphrodite, mais la présence d'un cercle d'éta-mines courtes dans une fleur femelle est courante dans les Sapindacées; il faudrait pouvoir apprécier la fertilité du pollen. La description des caractères génériques sera ici, en l'absence d'autres espèces, confondue avec celle des caractères spécifiques.
+This monotypic Gabonese genus is known to us from 3 parts of a collection by LE TESTU bearing leaves appearing incompletely developed and female flowers with ovaries presumably fertilized. The author reports the plant as hermaphrodite, but the presence of a ring of short stamens in a female flower is common in the Sapindaceae; it would be necessary to be able to assess the fertility of the pollen. The description of the generic characters will here, in the absence of other species, be merged with that of the specific characters.
 
 ## Species in region
 

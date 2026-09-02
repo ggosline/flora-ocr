@@ -17,19 +17,15 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Erect or scandent shrubs, or trees with angular or cylindrical branches. Leaves generally opposite. Stipules caducous.
 
-Arbustes dressés ou lianescents, ou arbres à rameaux anguleux ou cylindriques. Feuilles en général opposées. Stipules caduques.
+Inflorescences in multiflorous axillary cymes or rarely solitary flowers. Flowers ♀ or sometimes ♂ or ♀ by abortion, actinomorphic, tetra- or pentamerous, with perianth whorls contorted or subvalvate. Petals of highly variable form. Stamens in the same number as the perianth parts, fused by the filament to the disc; anthers introrse with longitudinal or subtransverse dehiscence. Disc fleshy or membranous. Ovary ± sunken in the disc, 5-locular, generally with 2 (-4-10-12) ovules per locule, erect or pendulous.
 
-Inflorescences en cymes axillaires multiflores ou rarement fléurs solitaires. Fleurs ♀ ou parfois ♂ ou ♀ par avortement, actinomorphes, tétra- ou pentamères, à verticilles périanthaires contortés ou subvalvaires. Pétales de forme très variable. Étamines en même nombre que les pièces périanthaires, soudées par le filet au disque; anthères introrses à déhiscence longitudinale ou subtransversale. Disque charnu ou membraneux. Ovaire ± enfoncé dans le disque, 5-loculaire, en général à 2 (-4-10-12) ovules par loge, dressés ou pendants.
+Capsules with 2-5 valves, dehiscent into (1-3)-4-5 locules, ± fleshy to coriaceous. Seeds 1-2 per locule, surrounded by a fleshy or membranous, split aril.
 
-Capsules à 2-5 valves, déhiscentes à (1-3)-4-5 loges, ± charnues à coriaces. Graines 1-2 par loge, entourées d'un arille charnu ou membraneux, fendu.
+Type species: Euonymus europaeus Linné.
 
-Espèce-type : Euonymus europaeus Linné.
-
-Ce genre tropical et tempéré, essentiellement asiatique, comprend environ 220 espèces. Une seule est connue au Gabon.
-
----
+This tropical and temperate genus, essentially Asiatic, comprises approximately 220 species. Only one is known from Gabon.
 
 ## Species in region
 

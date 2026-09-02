@@ -17,23 +17,21 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Herbaceous terrestrial or epiphytic plants, often very large. Pseudobulbs scarcely visible, certain internodes of the stem generally somewhat swollen. Large petiolate leaves, plicate and thin, at the apex of the pseudobulbs or spaced along the erect stem. Lateral inflorescences, erect, generally pauciflorous. Large spectacular flowers. Sepals and petals subsimilar. Labellum spurred, without callus, apical half trilobed. Gynostemium rather short and massive, straight or slightly arched at the apex. Pollinia 8, unequal in form and size, ± ovoid, laterally flattened, each with a caudicle. Rostellum ligulate, inclined forward, rather large, without viscidium. – Pl. 52, p. 111.
 
-Herbacées terrestres ou épiphytes, souvent très grandes. Pseudobulbes très peu visibles, certains entreœuds de la tige en général un peu renflés. Grandes feuilles pétiolées, plissées et fines, au sommet des pseudobulbes ou espacées le long de la tige dressée. Inflorescences latérales, dressées, en général pauciflores. Grandes fleurs spectaculaires. Sépales et pétales subsimilaires. Labelle éperonné, sans callus, à moitié apicale trilobée. Gynostème assez court et massif, droit ou un peu arqué au sommet. Pollinies 8, inégales de forme et en taille, ± ovoïdes, aplaties latéralement, chacune avec un caudicule. Rostellum liguliforme, penché vers l'avant, assez grand, sans viscidie. – Pl. 52, p. 111.
+<<<---SECTION-BREAK--->>>
 
----
+PL. 51. – Calanthe sylvatica (Thouars) Lindl.: A, general view; B, flower; C, flower with bract; D, E, labellum; F, G, H, labellum and spur; I, dorsal sepal; J, petal; K, lateral sepal (A–B, ex GEERINCK 1984, modified; C–E, Preuss 1061, HBG; D, Mildbraed 6529, P; F, I–K, Descoings 12876, P; G, Letouzey 13288, P; H, J. & A. Raynal 10458, P)
 
-PL. 51. – Calanthe sylvatica (Thouars) Lindl.: A, vue générale ; B, fleur ; C, fleur avec bractée ; D, E, labelle ; F, G, H, labelle et éperon ; I, sépale dorsal ; J, pétale ; K, sépale latéral (A-B, ex GEERINCK 1984, modifié ; C-E, Preuss 1061, HBG ; D, Mildbraed 6529, P ; F, I-K, Descoings 12876, P ; G, Letouzey 13288, P ; H, J. & A. Raynal 10458, P)
+<<<---SECTION-BREAK--->>>
 
----
+The white, violet or purple flowers are zygomorphic and positioned horizontally with a prominent landing platform adorned with rows of hairs. Nectaries form on the external face of the tepals. All these characters make the flowers attractive to bees, which are probably the agents of their pollination. Some species of Phaius show autogamous or even cleistogamous forms (self-pollinated in the bud).
 
-Les fleurs blanches, violettes ou pourpres et zygomorphes sont en position horizontale avec une plateforme d'atterrissage proéminente ornée de rangs de poils. Des nectaires se forment sur la face externe des tépales. Tous ces caractères rendent les fleurs attractives pour les abeilles qui sont probablement les agents de leur pollinisation. Certaines espèces de Phaius montrent des formes autogames ou même cléistogames (autopollinisées dans le bouton).
+This genus comprises approximately 85 paleotropical species, particularly from Southeast Asia; only two species are known from continental Africa and both are present in Gabon.
 
-Ce genre compte environ 85 espèces paléotropicales, en particulier du Sud-Est Asiatique ; seules deux espèces sont connues de l’Afrique continentale et toutes deux sont présentes au Gabon.
+1. Spur prominent, 20–25 mm long, lateral lobes of the labellum prominent, triangular, acute ..... 1. P. ma
 
-1. Éperon proéminent, long de 20-25 mm, lobes latéraux du labelle proéminents, triangulaires, aigus ..... 1. P. ma
-
-1'. Éperon rudimentaire, long de 1 mm, lobes latéraux du labelle très peu visibles, arrondis ..... 2. P. occidentalis
+1'. Spur rudimentary, 1 mm long, lateral lobes of the labellum scarcely visible, rounded ..... 2. P. occidentalis
 
 ## Species in region
 

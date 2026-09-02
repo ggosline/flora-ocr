@@ -17,21 +17,19 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Épiphytes ou lithophytes de taille petite à moyenne, caulescents ou non. Tiges groupées. Feuilles iridiformes, comprimées latéralement ou sub-cylindriques, charnues, oblongues à elliptiques-lancéolées, aiguës,
+Epiphytes or lithophytes of small to medium size, caulescent or not. Stems clustered. Leaves iridiform, laterally compressed or sub-cylindric, fleshy, oblong to elliptic-lanceolate, acute,
 
 ---
 
-PL. 61. – Liparis nervosa (Thunb.) Lindl.: A, vue générale ; B, pseudobulbe ; C, D, E, labelle ; F, bractée ; G, sépale dorsal ; H, J, pétale ; I, sépale latéral ; K, gynostème, vue latérale. – Liparis tridens Kraenzl.: L, fleur ; M, bractée ; N, labelle ; O, pseudobulbe ; P, feuille (A-B, Schlechter 12815, P ; C-K, Chevalier 24193, P ; L-P, Letouzey 13977, P).
+PL. 61. – Liparis nervosa (Thunb.) Lindl.: A, general view; B, pseudobulb; C, D, E, labellum; F, bract; G, dorsal sepal; H, J, petal; I, lateral sepal; K, gynostemium, lateral view. – Liparis tridens Kraenzl.: L, flower; M, bract; N, labellum; O, pseudobulb; P, leaf (A-B, Schlechter 12815, P; C-K, Chevalier 24193, P; L-P, Letouzey 13977, P).
 
 ---
 
-distiques. Inflorescence terminale, solitaire, non ramifiée, en général dense et pluriflore. Fleurs petites à minuscules, non résupinées, pâles, souvent translucides. Sépales et pétales libres, dissemblables. Pétales plus petits que les sépales. Labelle sessile, dévié, entier ou diversement lobé, ou irrégulièrement denticulé. Gynostème droit, court et massif. Pollinies 4, orbiculaires à elliptiques, comprimées latéralement. Staminodes réduits. Rostellum subdressé, court ou modeste, produisant une très petite viscidie semi-liquide. – Pl. 62, p. 129.
+distichous. Inflorescence terminal, solitary, unbranched, generally dense and pluriflorous. Flowers small to minute, non-resupinate, pale, often translucent. Sepals and petals free, dissimilar. Petals smaller than the sepals. Labellum sessile, deflexed, entire or variously lobed, or irregularly denticulate. Gynostemium straight, short and robust. Pollinia 4, orbicular to elliptic, laterally compressed. Staminodes reduced. Rostellum subdressé, short or modest, producing a very small semi-liquid viscidium. – Pl. 62, p. 129.
 
-Pour ce genre aux fleurs minuscules translucides et ternes, portées sur un épais rachis cylindrique un peu luisant, VAN DER PIJL & DODSON (1969) supposent, au moins chez certaines espèces, que les vibrations du seul labelle pourraient attirer les mouches.
+For this genus with minute translucent and dull flowers, borne on a thick cylindric somewhat shiny rachis, VAN DER PIJL & DODSON (1969) suppose, at least in certain species, that vibrations of the labellum alone could attract flies.
 
-Genre pantropical de quelques centaines d'espèces pour la plupart d'Asie et d'Océanie.
+Pantropical genus of several hundred species, mostly from Asia and Oceania.
 
 ## Species in region
 

@@ -17,13 +17,9 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+The generic characters are those of the family.
 
-Les caractères génériques sont ceux de la famille.
-
-ESPÈCE-TYPE : Avicennia officinalis Linné.
-
----
+TYPE SPECIES: Avicennia officinalis Linné.
 
 ## Species in region
 

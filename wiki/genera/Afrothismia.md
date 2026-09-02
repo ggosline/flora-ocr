@@ -17,33 +17,19 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Herbs with cylindrical rhizome, each node with a sphere composed of small ellipsoid to ovoid tubers, each with a small root; stems simple or rarely branched. Inflorescences few-flowered, sometimes reduced to a single flower. Flowers sessile; perianth caducous, throat of the tube surrounded by a ring, the lower part urceolate with a median membranous internal rim, lobes unequal; anthers adnate to the stigma; placentas connate in a sterile central column at the base and a free and fertile upper part; style persistent. Fruits indehiscent or with irregular dehiscence. Seeds ellipsoid.
 
-Herbes à rhizome cylindrique, chaque nœud avec une sphère composé de petits tuber -
+Genus of tropical Africa comprising 11 species, one of which occurs in Gabon.
 
-cules ellipsoïdes à ovoïdes, chacun avec une petite racine ; tiges simples ou rarement ra -
+B: Cheek (2004), Cowley (1988), Maas-van de Kamer (1998), Merckx
 
-mifiées. Inflorescences pauciflores, parfois réduites à une fleur. Fleurs sessiles ; périgone
-
-caduc, gorge du tube entourée d’un anneau, la partie inférieure urcéolée avec un rebord
-
-interne médian membraneux, lobes inégaux ; anthères adnées au stigmate ; placentas
-
-connés en une colonne centrale stérile à la base et une partie supérieure libre et fertile ;
-
-style persistant. Fruits indéhiscents ou à déhiscence irrégulière . Graines ellipsoïdes.
-
-Genre d’Afrique tropicale comprenant 11 espèces, dont une au Gabon.
-
-B : Cheek (2004), Cowley (1988), Maas-van de Kamer (1998), Merckx
-
-ibliographie
+Bibliography
 
 (2008).
 
 ---
 
-Franke, reproduit avec la permission du Jardin botanique national de Belgique ©, à partir de Franke
+Franke, reproduced with permission of the National Botanic Garden of Belgium ©, from Franke
 
 (2004) l.c.
 

@@ -17,71 +17,23 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+### Acaulescent herbs (for the Flora region) in colonies; rhizomes creeping, cylindrical, thick, fibrous, often bearing a few cataphylls. Leaves distichous or in rosette, sessile, solitary or few in number, simple; blade entire, linear to narrowly obovate, ensiform to cylindrical, from < 10 cm to > 100 cm in length, base generally concave, apex generally mucronate, fleshy, succulent, plane, smooth or somewhat rugulose, slightly to strongly grooved dorsally, without visible midvein, pale green to dark green, with or without irregular transverse coloured bands often in zigzag pattern. Inflorescences generally in terminal thyrsoid raceme, very modest to 2 m in length, with smooth axes; flowers solitary or fasciculate, each fascicle subtended by a scarious bract; floral bracts caducous. Flowers generally fragrant, nocturnal, flowering for a few hours; pedicel almost absent to up to 18 mm with a persistent basal portion, usually with floral nectaries at the base; perianth 0.8–15 cm in length, white to pinkish-green, with a long tube, with 6 spreading to reflexed lobes; stamens inserted near the throat, longer or somewhat shorter than the lobes, filaments often swollen, white, anthers yellow to grey, versatile, opening by lateral slits; ovary oblong to ellipsoid, smooth; style filiform, reaching the apex of the perianth or usually exsert, white, stigma subcapitate, slightly 3-lobed. Fruits subsessile or with a receptacle reaching ± 10 mm in length, spherical and containing a single seed, or deeply 2- or 3-lobed with 2 or 3 seeds, smooth or tuberculate, yellow to orange, with thin pericarp. Seeds spherical to ellipsoid, smooth, white to brown.
 
-### Herbes acaules (pour la région de la Flore) en colonies ; rhizomes rampants, cylindriques,
+Genus of Africa and Madagascar, extending to South Asia and Indonesia, with approximately 85 species, of which 80 in Africa (Govaerts et al. 2016) and two in Gabon.
 
-épais, fibreux, portant souvent quelques cataphylles. Feuilles distiques ou en rosette, ses-
+Use: Many species are cultivated as ornamental plants; several have been cultivated in the tropics for the resistant fibre obtained from the leaves.
 
-siles , solitaire ou peu nombreuses, simples ; limbe entier, linéaire à étroitement obovale, en
+Notes: Some authors use Thunb. as the author of this genus. However, Petagna has been retained, along with the correct spelling of the name.
 
-ensiforme à cylindrique, de < 10 cm à > 100 cm de longueur, base généralement concave ,
+B: Brown (1915), Mbugua (2007), Menale et al. (2013), Velayos & Cabezas (2018).
 
-sommet généralement mucroné, charnu, succulent , plan, lisse ou un peu rugueux, légèrement
-
-ou fortement rainuré dorsalement, sans nervure médiane visible , vert pâle à vert foncé, avec
-
-ou sans bandes transversales colorées , irrégulières et souvent en zigzag. Inflorescences gé-
-
-néralement en racème thyrsoïde terminal , très modeste à 2 m de longueur, à axes lisses ;
-
-fleurs solitaires ou fasciculées , chaque fascicule sous-tendu par une bractée scarieuse ; brac-
-
-tées florales caduques. Fleurs généralement odorantes, nocturnes , à floraison durant quelques
-
-heures ; pédicelle presque nul à jusqu’à 18 mm avec une partie basale persistante, habituel-
-
-lement avec des nectaires floraux à la base ; périanthe 0,8–15 cm de longueur, blanc à vert
-
-rosâtre, à tube long, avec 6 lobes étalés à réfléchis ; étamines insérées près de la gorge, plus
-
-longues ou un peu plus courtes que les lobes, filets souvent renflés, blancs, anthères jaunes à
-
-grises, versatiles, s’ouvrant par des fentes latérales ; ovaire obloïde à ellipsoïde, lisse ; style
-
-filiforme, atteignant le sommet du périanthe ou habituellement exsert, blanc, stigmate sub -
-
-capité, légèrement 3-lobé. Fruits subsessiles ou avec un réceptacle atteignant ± 10 mm de
-
-longueur, sphériques et contenant une seule graine, ou profondément 2- ou 3-lobés avec 2
-
-ou 3 graines , lisses ou tuberculées, jaunes à orange, à péricarpe mince . Graines sphériques
-
-à ellipsoïdes, lisses, blanches à brunes.
-
-Genre de l’Afrique et de Madagascar, jusqu’en Asie du Sud et en l’Indonésie, avec environ 85
-
-espèces, dont 80 en Afrique (Govaerts et al. 2016) et deux au Gabon.
-
-Usage : De nombreuses espèces sont cultivées comme plantes ornementales ; plusieurs ont été cultivées
-
-sous les tropiques pour la fibre résistante obtenue à partir des feuilles.
-
-Notes : Certains auteurs utilisent Thunb. comme l’auteur de ce genre. Cependant, Petagna a été conservé,
-
-ainsi que l’orthographe correcte du nom.
-
-B : Brown (1915), Mbugua (2007), Menale et al. (2013), Velayos & Cabezas (2018).
-
-i B liographie
+Bibliography
 
 ---
 
-### Clé des espèces
+### Key to species
 
-1. - Fleur 8–9,5 cm de longueur ; inflorescence à fleurs denses, distantes de 0,5–2 cm ;
-
-feuilles ± érigées à étalées, généralement > 7 cm de largeur, à bords rouge-brun à marge
+1. - Flower 8–9.5 cm in length; inflorescence with dense flowers, distant from 0.5–2 cm; leaves ± erect to spreading, generally > 7 cm in width, with red-brown margins to edge
 
 ## Species in region
 

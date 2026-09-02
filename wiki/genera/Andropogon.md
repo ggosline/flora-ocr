@@ -17,35 +17,29 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Herbs generally perennial, inflorescences in racemes most often arranged in pairs at the apex of culms and their branches, rarely solitary, sometimes more numerous, digitate or subdigitate.
 
-Herbes généralement pérennes, inflorescences en racèmes le plus souvent disposés par paires à l'extrémité des chaumes et de leurs ramifications, rarement solitaires, parfois plus nombreux, digités ou subdigités.
+Spikelets in pairs, the lower ones sometimes homogamous, male or sterile. Inflorescence supported by a spatheole. Articles of the rachis and pedicels more or less thick, enlarged towards the apex. Spikelets with two florets, the lower one reduced to a sterile lemma, the upper one hermaphrodite, or sterile and sometimes absent in the pedicellate spikelets and in those of the homogamous pairs.
 
-Épillets par paires, les inférieures parfois homogames, mâles ou neutres. Inflorescence soutenue par une spathéole. Articles du rachis et pédicelles plus ou moins épais, élargis vers le sommet. Épillets à deux fleurs, l'inférieure réduite à une glumelle stérile, la supérieure hermaphrodite, ou neutre et parfois absente dans les épillets pédicelles et dans ceux des paires homogames.
+Sessile spikelets with short, pubescent callus, lower glume flattened, or concave or channelled on the back, bicarinate. Upper glume navicular, with 1 or 3 nerves, carinate in its upper part, sometimes subulate. Lemmas generally ciliate, that of the lower floret hyaline, with two nerves, that of the upper fertile floret hyaline or more or less thick, bifid and extended by an awn in the sinus. Paleas hyaline without nerves, or suppressed. 2 glabrous lodicules, 3 stamens. Pedicellate spikelets always dorsally flattened, sometimes very reduced. Glumes herbaceous to membranous, the lower one sometimes subulate. Lemmas, when present, hyaline, ciliate, muticous.
 
-Épillets sessiles à callus court, pubescent, glume inférieure aplatie, ou concave ou canaliculée sur le dos, bicarénée. Glume supérieure naviculaire, à 1 ou 3 nervures, carénée dans sa partie supérieure, parfois subulée. Lemmas généralement ciliées, celle de la fleur inférieure hyaline, à deux nervures, celle de la fleur supérieure fertile hyaline ou plus ou moins épaisse, bifide et prolongée par une arête dans le sinus. Palées hyalines sans nervure, ou supprimées. 2 lodicules glabres, 3 étamines. Épillets pédicellés toujours aplatis dorsalement, quelquefois très réduits. Glumes herbacées à membraneuses, l'inférieure parfois subulée. Glumelles, lorsqu'elles sont présentes, hyalines, ciliées, mutiques.
+1. Articles of the rachis and pedicels linear or slightly swollen towards the apex; racemes generally paniculate, sometimes geminate; lower glume narrow, furrowed on the back, upper glume generally only acuminate (Leptopogon).
 
-1. Articles du rachis et pédicelles linéaires ou légèrement renflés vers le sommet; racèmes généralement paniculés, parfois géminés; glume inférieure étroite, creusée d'un sillon dans le dos, glume supérieure généralement seulement acuminée (Leptopogon).
+2. 3 to 15 racemes, in corymbiform panicles, articles and pedicels glabrous or nearly so, sessile spikelets muticous ..... 1. A. Brazzae.
 
-2. 3 à 15 racèmes, en panicules corymbiformes, articles et pédicelles
+2'. Generally 2 racemes, sometimes 3 or 4.
 
-glabres ou presque, épillets sessiles mutiques ..... 1. A. Brazzae.
-
----
-
-2'. Généralement 2 racèmes, parfois 3 ou 4.
-
-3. Articles et pédicelles longuement ciliés (cils plus longs qu'eux), branches de l'inflorescence peu nombreuses, racèmes de 3 à 4 cm de long, épilets pédicelles neutres ou rudimentaires...
+3. Articles and pedicels with long cilia (cilia longer than them), branches of the inflorescence few, racemes 3 to 4 cm long, pedicellate spikelets sterile or rudimentary...
 
 2. A. laxatus.
 
-3'. Pubescence des articles et pédicelles courte; inflorescences à nombreuses branches, racèmes de 4 à 5 cm de long. Épilets pédicelles mâles, bien développés..... 3. A. africanus.
+3'. Pubescence of articles and pedicels short; inflorescences with many branches, racemes 4 to 5 cm long. Pedicellate spikelets male, well developed..... 3. A. africanus.
 
-1'. Articles et pédicelles nettement épaissis vers le haut, claviformes.
+1'. Articles and pedicels distinctly thickened towards the upper part, claviform.
 
-4. Glume inférieure des épillets essiles comprimée latéralement entre les articles et les pédicelles, dos étroit, profondément déprimé; Glume supérieure acuminée, mucronée ou subulée (Piestum).
+4. Lower glume of the sessile spikelets compressed laterally between the articles and pedicels, back narrow, deeply depressed; Upper glume acuminate, mucronate or subulate (Piestum).
 
-5. Racèmes par paires, panicules à nombreuses branches, glume supérieure de l'épillet sessile et glume inférieure de l'épillet pédicellé avec une subule de 10 à 12 mm de long.....
+5. Racemes in pairs, panicles with many branches, upper glume of the sessile spikelet and lower glume of the pedicellate spikelet with a subule 10 to 12 mm long.....
 
 ## Species in region
 

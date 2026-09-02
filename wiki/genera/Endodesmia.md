@@ -16,37 +16,15 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 in Benth. & Hook.f., Gen. pl. 1 : 166 (1862).
 
-Arbres ; latex jaune ou rougeâtre, parfois absent ; ramilles cylindriques. Stipules pré-
+Trees; latex yellow or reddish, sometimes absent; branchlets cylindric. Stipules present in the form of paired glands. Leaves opposite, glabrous; lateral veins parallel, very close together and alternating with discontinuous translucent secretory canals, marginal vein apparent. Inflorescences in terminal or axillary cymes, with 5–∞ flowers. Flowers bisexual, glabrous; sepals 5, imbricate, persistent; petals 5, contorted, caducous, rather fleshy; stamens numerous, fused into a weakly 5-lobed staminal tube, anthers stipitate and arranged inside the tube along its entire length; disk annular, surrounding the base of the ovary; ovary unilocular, with 1 ovule; style 1, eccentric, stigma small. Fruit: a drupe with thick and fleshy pedicel; endocarp crustaceous. Seed without aril, with thin testa and fleshy cotyledons.
 
-sentes sous forme de glandes accouplées. Feuilles opposées, glabres ; nervures latérales
+Monospecific genus, distributed from Nigeria to the Democratic Republic of the Congo.
 
-parallèles très rapprochées et alternant avec les canaux sécréteurs translucides dis-
+B: Bamps (1970a), Pellegrin (1959), Spirlet (1966), Stevens (2007).
 
-continus , nervure marginale apparente. Inflorescences en cymes terminales ou axillaires,
-
-à 5 ‒ ∞ fleurs. Fleurs bisexuées , glabres ; sépales 5, imbriqués, persistants ; pétales 5,
-
-contortés , caducs, assez charnus ; étamines nombreuses, soudées en un tube staminal
-
-faiblement 5-lobé, anthères stipitées et disposées à l’intérieur du tube sur toute sa
-
-hauteur ; disque annulaire , entourant la base de l’ovaire ; ovaire uniloculaire, avec 1
-
-ovule ; style 1, excentrique, stigma petit. Fruit : une drupe à pédicelle épais et charnu ;
-
-endocarpe crustacé. Graine sans arille, à testa mince et cotylédons charnus.
-
-Genre monospécifique, distribué du Nigéria jusqu’à la République Démocratique du
-
-Congo.
-
-B : Bamps (1970a), Pellegrin (1959), Spirlet (1966), Stevens (2007).
-
-i B liographie
+Bibliography
 
 ## Species in region
 

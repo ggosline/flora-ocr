@@ -17,9 +17,7 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Le genre Toddalia Juss. n'est représenté que par une seule espèce répandue de l'Afrique orientale et de Madagascar jusqu'à la Chine et aux îles Philippines. Vers l'ouest l'aire de cette espèce couvre le Congo ex-belge, y compris la région du Bas-Congo; sa présence au Gabon paraît certaine si l'on en croît Walker et Sillans (Pl. utiles Gabon : 383, 1961).
+The genus Toddalia Juss. is represented by only a single species distributed from East Africa and Madagascar to China and the Philippine Islands. Westward the range of this species covers the former Belgian Congo, including the Lower Congo region; its presence in Gabon appears certain according to Walker and Sillans (Pl. utiles Gabon: 383, 1961).
 
 ## Species in region
 

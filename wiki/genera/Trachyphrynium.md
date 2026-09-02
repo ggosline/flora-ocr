@@ -16,13 +16,11 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Woody herbs with bamboo-like climbing, branched stems. Branches bearing at the base a number of leafless sheaths, then distichous leaves, long-sheathing at the base. Petiole articulated slightly above the sheath, articulation marked by a ridge and a peripheral groove. Callous part of the petiole cylindrical, passing to the main vein without discontinuity on the lower surface of the leaf, and by a slight ridge on the upper surface. Blades slightly asymmetric, antitropous.
 
-Herbes ligneuses à tiges bambusoïdes grimpantes, ramiées. Rameaux portant à la base un certain nombre de gaines aphylles, puis des feuilles distiques, longuement engainantes à la base. Pétiole articulé un peu au-dessus de la gaine, articulation marquée par un bourrelet et un sillon périphérique. Partie calleuse du pétiole cylindrique, passant à la nervure principale sans discontinuité sur la face inférieure de la feuille, et par un léger bourrelet à la face supérieure. Limbes légèrement assymétriques, antitropes.
+Inflorescences terminal or subterminal, spiciform, simple or branched at the base. Rachis articulate, in zig-zag, bearing at each node an abaxial bract rapidly caducous, which envelops a small cyme of two flowers and the distal, not yet developed part of the inflorescence. Cymes shortly pedunculate, adaxial spathe-bract alone present; pedicels subequal, each bearing a fleshy bracteole. Flowers with petaloid sepals, as well as the two staminodes of the external cycle. Internal staminode hood-shaped bearing laterally a long pendant spur. Ovary trilocular, densely papillose.
 
-Inflorescences terminales ou subterminales, spiciformes, simples ou ramifiées à la base. Rachis articulé, en zig-zag, portant à chaque nœud une bractée abaxiale rapidement caduque, qui enveloppe une petite cyme de deux fleurs et la partie distale non encore développée de l'inflorescence. Cymes courtement pédonculées, bractée-spathe adaxiale seule présente; pédicelles subégaux, portant chacun une bractéole charnue. Fleurs à sépales pétaloïdes, ainsi que les deux staminodes du cycle externe. Staminode interne en capuchon portant latéralement un long éperon pendant. Ovaire triloculaire, densément papilleux.
-
-Fruit capsulaire, déhiscent, muriqué. Graines lisses, luisantes à arille basal lacinié ; canal périspermatique ovale en coupe transversale.
+Fruit capsular, dehiscent, muricate. Seeds smooth, shining with laciniate basal aril; perisperm canal oval in transverse section.
 
 1. Trachyphrynium Braunianum (K. Schum.) Bak.
 
@@ -32,23 +30,21 @@ Fruit capsulaire, déhiscent, muriqué. Graines lisses, luisantes à arille basa
 
 = Bamburantha arnoldiana Hort., Cat. Hort. Col.: 20 (1901).
 
-Rhizome ramifié, pousses aériennes atteignant plusieurs mètres de long, grimpantes ou formant des fourrés épais. Gaines aphylles persistantes, gaines foliaires imbriquées. Partie non calleuse du pétiole très courte ou nulle, callus de 0,5 à 1,5 cm.
+Rhizome branched, aerial shoots reaching several metres in length, climbing or forming thick thickets. Leafless sheaths persistent, leaf sheaths imbricate. Non-callous part of the petiole very short or absent, callus 0.5 to 1.5 cm.
 
----
+<<<---SECTION-BREAK--->>>
 
----
+Blade of highly variable dimensions from 6 × 2.5 to 15 × 6 cm and sometimes more, acuminate, cordate at the base, glabrous.
 
-Limbe de dimensions très variables de  $ 6 \times 2,5 $ à  $ 15 \times 6 $ cm et parfois plus, acuminé, cordé à la base, glabre.
+Inflorescence up to about twenty centimetres in length; rachis shortly pubescent, articles 4 to 10 mm long. Bracts 15 to 25 mm long, peduncles of cymes 2 mm, fleshy bracteoles as long, white. Flowers white more or less spotted with mauve, 20 to 25 mm long.
 
-Inflorescence jusqu'à une vingtaine de centimètres de long ; rachis courtement pubescent, articles de 4 à 10 mm de long. Bractées de 15 à 25 mm de long, pédoncules des cymes de 2 mm, bractéoles charnues aussi longues, blanches. Fleurs blanches plus ou moins tachées de mauve, de 20 à 25 mm de long.
+Capsule three-lobed orange, 1.5 cm high, with loculicidal dehiscence; seeds black with white aril.
 
-Capsule tricoque orangée, 1,5 cm de haut, à déhiscence loculicide ; graines noires à arille blanc.
+Type: Schweinfurth: 3713, Cameroon (B).
 
-Type : Schweinfurth : 3713, Cameroun (B).
+Species inhabiting forest regions, from West Africa to Uganda. Plant common in secondary growth or forest galleries, often at the water's edge.
 
-Espèce habitant les régions forestières, de l'Afrique occidentale à l'Uganda. Plante commune dans les recrus ou les galeries forestières, souvent au bord de l'eau.
-
-Tiges utilisées comme liens, en vannerie ou pour la construction des cases.
+Stems used as ties, in basketry or for the construction of huts.
 
 ## Species in region
 

@@ -17,29 +17,23 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Trees or shrubs spiny or unarmed.
 
-Arbres ou arbustes épineux ou inermes.
+Leaves subentire to crenate-dentate.
 
-Feuilles subentières à crénelées-dentées.
+Inflorescences in racemes, glomules or axillary terminal panicles. Flowers unisexual, rarely ¥ ; bracts oval, pubescent, 1-2 mm long ; pedicel glabrous, 2-3 mm long ; sepals (3)-4-5-(7), ± connate to each other at the base, imbricate, ciliate, sometimes persistent ; petals absent ; receptacle surrounded by a ring of glabrous glands. ♂ Flowers in racemes ; stamens numerous. ♀ Flowers solitary or in racemes ; ovary glabrous, imperfectly 4-6-(8)-locular (locules confluent), with 4-6-(8) pluriovulate placentas ; styles in the same number as the locules, free or connate at the base ; stigmas lobulate or bilobed.
 
-Inflorescences en grappes, glomérules ou panicules axillaires terminaux. Fleurs unisexuées, rarement ¥ ; bractées ovales, pubescentes, de 1-2 mm de long ; pédicelle glabre, de 2-3 mm de long ; sépales (3)-4-5-(7), ± soudés entre eux à la base, imbriqués, ciliés, parfois persistants ; pétales absents ; réceptacle entouré d'un anneau de glandes glabres. Fleurs ♂ en racèmes ; étamines nombreuses. Fleurs ♀ solitaires ou en racèmes ; ovaire glabre, imparfaitement 4-6-(8)-loculaire (loges confluentes), à 4-6-(8) placentas pluriovulés ; styles en même nombre que les loges, libres ou connés à la base ; stigmates lobulés ou bilobés.
+Fruits: polyspermic drupes ; seeds ordinarily superposed by 2 in each locule.
 
-Fruits : drupes polyspermes ; graines ordinairement superposées par 2 dans chaque loge.
+TYPE SPECIES: F. ramontchi L'HÉR. (= F. indica (BURM. f.) MERR.)
 
-ESPÈCE-TYPE : F. ramontchi L'HÉR. (= F. indica (BURM. f.) MERR.)
-
-Ce genre renferme 15 espèces, en régions tropicales et subtropicales d’Afrique, d’Asie et du Pacifique ; 2 espèces sont représentées au Gabon.
+This genus contains 15 species, in tropical and subtropical regions of Africa, Asia and the Pacific ; 2 species are represented in Gabon.
 
 ---
 
-1. Feuilles à nervures tertiaires disposées en réseau ; limbe pubescent à glabres-
+1. Leaves with tertiary veins arranged in a network ; lamina pubescent to glabrescent on both faces, subcoriaceous ; fruit often ridged when dry ..... 1. F. indica
 
-cent sur les 2 faces, subcoriace ; fruit souvent côtelé sur le sec ..... 1. F. indica
-
-1'. Feuilles à nervures tertiaires ± parallèles entre elles ; limbe glabre, papyracé ;
-
-fruit rarement côtelé sur le sec ..... 2. F. vogelii
+1'. Leaves with tertiary veins ± parallel to each other ; lamina glabrous, papyraceous ; fruit rarely ridged when dry ..... 2. F. vogelii
 
 ## Species in region
 

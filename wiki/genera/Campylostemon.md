@@ -16,35 +16,33 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 in BENTH. & HOOK., Gen. Pl. 1 : 998 (1862) ; LOES., Notizbl. Bot. Gart. Mus. Berlin 13 : 563 (1937) ; LAWALRÉE, Bull. Jard. Bot. État Bruxelles 18 : 249 (1947) ; WILCZEK, FCB 9 : 175 (1960).
 
-Lianes ligneuses glabres à filaments de caoutchouc. Bois à coupe transversale anguleuse étoilée. Feuilles opposées pétiolées. Stipules extrapétiolaires réduites, très aiguës.
+Woody glabrous lianes with rubber filaments. Wood with stellate angular transverse section. Leaves opposite petiolate. Stipules extrapetiolar reduced, very acute.
 
-Inflorescences en cymes dichotomes axillaires parfois groupées en panicules, glabres, multiflores, à bractées opposées persistantes; ni fleurs ni ramifications surnuméraires. Boutons globuleux. Fleurs pédicellées (4)5-mères. Sépales petits souvent épaissis en goitre à la base. Pétales imbriqués. Disque absent. Étamines 5 arquées introrses ; anthères transversalement déhiscentes ; pollen en tétrades de 4 monades tricolporées. Ovaire à 3 loges ; stigmate subsessile trilobé. 4-16 ovules par loge.
+Inflorescences in axillary dichotomous cymes sometimes grouped in panicles, glabrous, multiflorous, with opposite persistent bracts; neither supernumerary flowers nor branches. Buds globose. Flowers pedicellate (4)5-merous. Sepals small often thickened in a goitre at the base. Petals imbricate. Disc absent. Stamens 5 arcuate introrse; anthers transversely dehiscent; pollen in tetrads of 4 tricolporate monads. Ovary with 3 locules; stigma subsessile trilobate. 4-16 ovules per locule.
 
-Fruit à 3 méricarpes se dissociant en 6 valves caduques. Graines ailées à raphé transalaire, insérées sur des étuis funiculaires comprimés. Plantule à cotylédons épigés.
+Fruit with 3 mericarps dissociating into 6 caducous valves. Seeds winged with transalar raphe, inserted on compressed funicular sheaths. Seedling with epigeal cotyledons.
 
-ESPÈCE-TYPE : Campylostemon angolense Welw. ex Oliv.
+TYPE SPECIES: Campylostemon angolense Welw. ex Oliv.
 
-L'étymologie du nom de genre souligne que les étamines (stemon) sont recourbées sur elles-mêmes ou cachées (campylos), c'est-à-dire introrses.
+The etymology of the generic name emphasizes that the stamens (stemon) are curved back on themselves or hidden (campylos), that is to say introrse.
 
-Genre d'Afrique continentale comptant 8 espèces ou moins, dont 3 douteuses du Cameroun ne sont pas suffisamment connues de nous :
+Genus of continental Africa comprising 8 species or fewer, of which 3 doubtful ones from Cameroon are not sufficiently known to us:
 
-Campylostemon lindequistianum LOES. in MILDBRAED, Wiss. Egerb. Deutsch-Zentr. Afr. Exped. 1910-11, 2: 77 (1922). TYPE : Mildbraed 5360, Lomie, fl. mai ; descr. in Notzbl. Bot. Gart. Mus. Berlin 13 : 569 (1937) ; + forme minor, Mildbraed 4741, Molundu, fl. mars.
+Campylostemon lindequistianum LOES. in MILDBRAED, Wiss. Egerb. Deutsch-Zentr. Afr. Exped. 1910-11, 2: 77 (1922). TYPE: Mildbraed 5360, Lomie, fl. May; descr. in Notzbl. Bot. Gart. Mus. Berlin 13 : 569 (1937); + minor form, Mildbraed 4741, Molundu, fl. March.
 
-C. danckelmannianum LOES. in MILDBR., l.c. : 88 (1922) ; descr. in Notizbl. 13 : 573 (1937) ; espèce donnée comme voisine de C. bequaertii De Wild. : TYPE : Mildbraed 5514, Ebolowa, fl. juin.
+C. danckelmannianum LOES. in MILDBR., l.c. : 88 (1922); descr. in Notizbl. 13 : 573 (1937); species given as related to C. bequaertii De Wild.: TYPE: Mildbraed 5514, Ebolowa, fl. June.
 
-C. schweinfurthianum LOES. in MILDBR., l.c. : 58 (1922) ; descr. in Notizbl. 13 : 576 (1937) ; espèce donnée comme proche de C. angolense Welw. ex Oliv. TYPE : Mildbraed 4710 (nec 4770), (HBG!).
+C. schweinfurthianum LOES. in MILDBR., l.c. : 58 (1922); descr. in Notizbl. 13 : 576 (1937); species given as close to C. angolense Welw. ex Oliv. TYPE: Mildbraed 4710 (nec 4770), (HBG!).
 
 ---
 
-Nota. – La découverte du genre Campylostemon est à l'origine de la fusion des Hippocrateaceae, au sens de Jussieu, et des Celastraceae. Par la suite d'autres découvertes n'ont fait que consolider ce rapprochement.
+Note. – The discovery of the genus Campylostemon is at the origin of the merger of Hippocrateaceae, in the sense of Jussieu, and Celastraceae. Subsequently other discoveries have only served to consolidate this approximation.
 
-### CLÉ DES ESPÈCES
+### KEY TO SPECIES
 
-1. Feuilles à la fois grandes, coriaces et entières ; cymes grandes et vigoureuses ; acumen petit de moins de 1 cm ; fines nervures apparentes et flabellées ; médiane très médiocrement saillante dessus à sec ; lobes du stigmate affaissés à plat dans le bouton ..... 1. C. mitophorum.
+1. Leaves at once large, coriaceous and entire; cymes large and vigorous; acumen small less than 1 cm; fine nerves apparent and flabellate; median very weakly prominent above when dry; lobes of stigma collapsed flat in the bud ..... 1. C. mitophorum.
 
 ## Species in region
 

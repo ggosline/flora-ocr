@@ -17,67 +17,11 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Perennial (more rarely annual) herbs, in tufts or with creeping rhizomes or stolons, sometimes producing tubers or bulbs; stems 2–500 cm long, erect or more rarely pendulous (especially in viviparous plants), trigonous, or (more rarely) rounded or hexagonal, usually leafy only at the base, rarely to the middle or basal leaves absent, base sometimes swollen and succulent. Leaves tristichous, linear, rarely all reduced to their sheaths, the lower ones often scale-like, covering the base of the stem and rhizome; blades linear. Anatomy of stems and leaves of eucyperoïd type (subgenera Pycnostachys and Anosporum) or of chlorocyperoïd type (other subgenera). Inflorescence terminal, often an open umbelliform anthela or a dense head, usually composed of numerous spikelets grouped into distinct spikes or digitately fascicled, usually subtended by involucral bracts resembling the leaves; base of each branch (ray) enclosed in a tubular bicarinate prophyll. Spikelets 2–7 × 0.5–5 mm, ± compressed, linear or oval, with 1 to 50 flowers; axis (rachis) often winged by the decurrent base of the glumes, persistent or caducous (abscission of the entire spikelet); glumes distichous, 0.5–9 mm long, white, grey, green, brown, reddish-brown or blackish, often variegated, with 1–5 lateral nerves ± distinct on each side of the midvein often green and a different colour from the rest of the glume, sometimes produced into a straight or curved mucro. Flowers bisexual; hypogynous scales or bristles absent; stamens 1, 2 or 3, the connective sometimes producing an apical appendage; style trifid or bifid, rarely nearly entire. Achenes sessile, trigonous or lenticular, 0.4–2.8 mm long, usually obovoid or ellipsoid; surface often tuberculate or papillose; embryo of Cyperus type.
 
-Herbes vivaces ou (plus rarement) annuelles , en touffes ou avec des rhizomes ram-
+A large genus of approximately 650 species, of which approximately 50 occur in Gabon.
 
-pants ou des stolons, produisant parfois des tubercules ou des bulbes ; tiges longues de
-
-2‒500 cm, dressées ou plus rarement pendantes (surtout chez les plantes vivipares), tri-
-
-gones, ou (plus rarement) arrondies ou hexagonales, habituellement feuillées seulement
-
-à la base, rarement jusqu’au milieu ou feuilles basales absentes, base parfois renflée et
-
-succulente. Feuilles tristiques, linéaires, rarement toutes réduites à leurs gaines, les in-
-
-férieures souvent en écailles, couvrant la base de la tige et le rhizome ; limbes linéaires.
-
-Anatomie des tiges et des feuilles de type eucyperoïde (sous-genres Pycnostachys et
-
-Anosporum ) ou de type chlorocyperoïde (autres sous-genres). Inflorescence terminale,
-
-souvent une anthèle ouverte ombelliforme ou une tête dense, habituellement consti-
-
-tuée de nombreux épillets groupés en épis distincts ou en fascicules digités , habi-
-
-tuellement sous-tendue par des bractées involucrales ressemblant aux feuilles ; base de
-
-chaque branche (rayon) enfermée dans un prophylle tubuleux bicaréné. Épillets de 2‒7
-
-× 0,5‒5 mm, ± comprimés, linéaires ou ovales, avec 1 à 50 fleurs ; axe (rachis) sou-
-
-vent ailé par la base décurrente des glumes, persistant ou caduc (chute de l’épillet entier) ;
-
-glumes distiques, longues de 0,5‒9 mm , blanches, grises, vertes, brunes, brun-rouge ou
-
-noirâtres, souvent panachées, avec 1‒5 nervures latérales ± distinctes de chaque côté de la
-
-médiane souvent verte et d’une autre couleur que le reste de la glume, prolongée parfois
-
-par un mucron droit ou recourbé. Fleurs bisexuées ; écailles ou soies hypogynes ab-
-
-sentes ; étamines 1, 2 ou 3, le connectif produisant parfois un appendice apical ; style tri-
-
-fide ou bifide, rarement presque entier. Akènes sessiles, trigones ou lenticulaires, longs
-
-de 0,4‒2,8 mm , habituellement obovoïdes ou ellipsoïdes ; surface souvent tuberculée ou
-
-papilleuse ; embryon de type Cyperus .
-
-Un grand genre d’environ 650 espèces, dont environ 50 poussent au Gabon.
-
-Notes taxonomiques : Certains auteurs considèrent les sous-genres Kyllinga et Pycreus
-
-comme des genres séparés (par exemple Hoenselaar et al. , 2010), mais ces genres ne for-
-
-ment pas des groupes monophylétiques et ont évolué à partir d’ancêtres différents. Nous
-
-avons donc suivi l’opinion de Kern dans Flora Malesiana (Kern, 1974) et de Kükenthal
-
-(1936), l’auteur de la monographie du genre Cyperus , et considéré Kyllinga et Pycreus
-
-comme des sous-genres de Cyperus . Il faut noter que les analyses moléculaires ont fait
+Taxonomic notes: Some authors consider the subgenera Kyllinga and Pycreus as separate genera (for example Hoenselaar et al., 2010), but these genera do not form monophyletic groups and evolved from different ancestors. We have therefore followed the opinion of Kern in Flora Malesiana (Kern, 1974) and of Kükenthal (1936), the author of the monograph of the genus Cyperus, and considered Kyllinga and Pycreus as subgenera of Cyperus. It should be noted that molecular analyses have shown
 
 ## Species in region
 

@@ -17,41 +17,15 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Perennial or annual herbs. Leaves arranged on a short or elongated stem, thin to thick and coriaceous, not septate. Inflorescences: scapes solitary (in Africa) or in umbels; capitulum villous; involucral bracts generally shorter than the capitulum disk; floral bracts present. Flowers 3-merous (in Africa) or 2-merous; sepals free except at the extreme base; petals without glands. Male flowers: petals fused into a glabrous funnelform tube and finally involute and covering the stamens; stamens 3 (in Africa), arising from the truncate margin of the petal tube, anthers white; rudimentary gynoecium present. Female flowers: petals free; stigmas 3, alternating with simple or bifid glandular appendages. Seeds variable, often with longitudinal ridges.
 
-Herbes pérennes ou annuelles. Feuilles disposées sur une tige courte ou allongée , minces
+Genus of approximately 700 species, almost entirely confined to tropical America; in Africa 1 species.
 
-à épaisses et coriaces, non septées. Inflorescences : scapes solitaires (en Afrique) ou en
+Taxonomic notes: Paepalanthus is the largest genus in the family and is strongly heterogeneous, both in vegetative and floral characters. The center of diversity is found in Brazil.
 
-ombelles ; capitule villeux ; bractées involucrales généralement plus courtes que le disque
+B: Ruhland (1903), Kimpouni (1993).
 
-du capitule ; bractées florales présentes. Fleurs 3-mères (en Afrique) ou 2-mères ; sépales
-
-libres sauf à l’extrême base ; pétales sans glandes . Fleurs mâles : pétales soudés en un
-
-tube infundibuliforme glabre et finalement involuté et couvrant les étamines ; étamines 3
-
-(en Afrique), issues de la marge tronquée du tube des pétales, anthères blanches ; gynécée
-
-rudimentaire présent. Fleurs femelles : pétales libres ; stigmates 3, alternant avec des
-
-appendices glandulaires simples ou bifides . Graines variables, souvent avec des crêtes
-
-longitudinales.
-
-Genre à environ 700 espèces, presque entièrement confinées à l’Amérique tropicale ; en
-
-Afrique 1 espèce.
-
-Notes taxonomiques : Paepalanthus est le plus grand genre de la famille et il est fortement
-
-hétérogène, tant par les caractères végétatifs que floraux. Le centre de diversité se trouve
-
-au Brésil.
-
-B : Ruhland (1903), Kimpouni (1993).
-
-ibliographie
+ibliography
 
 ## Species in region
 

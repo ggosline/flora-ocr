@@ -17,17 +17,15 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Perennial erect herbs, racemes geminate at the apex of the culms. Spikelets in pairs, the 3 to 9 lower pairs homogamous male or neuter, the others heterogamous. Rachis articles linear, dorsally compressed, those situated between the homogamous pairs glabrous, those situated between the heterogamous pairs wider, enlarged at the apex and ciliate on the margins. Pedicels similar, more flattened.
 
-Herbes pérennes dressées, racèmes géminés à l'extrémité des chaumes. Épillets par paires, les 3 à 9 paires inférieures homogames mâles ou neutres, les autres hétérogames. Articles du rachis linéaires, compressés dorsalement, ceux situés entre les paires homogames glabres, ceux situés entre les paires hétérogames plus larges, élargis au sommet et ciliés sur les bords. Pédicelles semblables, plus aplatis.
+Sessile spikelets subrounded or slightly flattened laterally. Callus elongate, acute, densely tomentose, except along the midline. Glumes of equal length, subcoriaceous, the lower one depressed between the two keels, the upper one naviculate, rounded on the back, with three nerves, but keeled toward the apex. Lower flower reduced to a hyaline lemma with two nerves, ciliate.
 
-Épillets sessiles subarrondis ou légèrement aplatis latéralement. Callus allongé, aigu, densément tomenteux, excepté sur la ligne médiane. Glumes de même longueur, subcoriaces, l'inférieure déprimée entre les deux carènes, la supérieure naviculaire, arrondie sur le dos, à trois nervures, mais carénées vers le sommet. Fleur inférieure réduite à une lemma hyaline à deux nervures, ciliée.
+Upper flower hermaphrodite, lemma bifid awned. Palea shorter, hyaline, with 2 nerves, 3 stamens, 2 lodicules. Sessile spikelets of the homogamous pairs similar, but awnless and with a naked callus.
 
-Fleur supérieure hermaphrodite, lemma bifide aristée. Paléa plus courte, hyaline, à 2 nervures, 3 étamines, 2 lodicules. Épillets sessiles des paires homogames semblables, mais mutiques et à callus nu.
+Pedicellate spikelets large, flattened; lower glume wide, membranous, ciliate on the margins. Upper glume narrow, with 5–9 nerves; glumelles hyaline, awnless.
 
-Épillets pédicellés grands, aplatis; glume inférieure large, membraneuse, ciliée sur les bords. Glume supérieure étroite, à 5-9 nervures; glumelles hyalines, mutiques.
-
-On a signalé dans ce genre 4 espèces, toutes d'Afrique tropicale, reconnaissables par leurs grands épilets pédicellés aplatis. Une seule a été récoltée au Gabon.
+Four species have been recorded in this genus, all from tropical Africa, recognizable by their large flattened pedicellate spikelets. Only one has been collected in Gabon.
 
 ## Species in region
 

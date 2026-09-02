@@ -17,27 +17,23 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+PL. 28. – Structure of the gynostemium of the genus Zeuxine Lindl.: A, lateral view; B, view of the base; C, posterior view, anther removed; D-F, viscidium and tegula, various aspects; G, viscidium and tegula seen in section (A-G, ex SZLACHETKO & RUTKOWSKI, 2000).
 
 ---
 
-PL. 28. – Structure du gynostème du genre Zeuxine Lindl.: A, vue latérale ; B, vue de la base ; C, vue postérieure, anthère retirée ; D-F, viscidie et tegula, aspects divers ; G, viscidie et tegula vues en coupe (A-G, ex SZLACHETKO & RUTKOWSKI, 2000).
+Creeping rhizome with few roots, rather fleshy, very pubescent. Petiolate leaves, spiral on the lower part of the stem. Terminal inflorescence. Flowers resupinate or not. Sepals and petals free. Lip with sacciform base and two fleshy internal appendages. Epichil elliptic to transverse-elliptic, widened. Gynostemium short, columnar part short and fused to the margins of the lip. No carinae: neither terminal nor ventral. Staminodes forming a distinct clinandrium. Stigma with 2 separate lobes. Rostellum elongate, fleshy, obtuse. Viscidium oblong. Tegula fine, generally longer than the viscidium. Anther erect, ovate-cordate. Pollination unknown. – Pl. 28, p. 65.
 
----
+Genus of about 50 species distributed from tropical Africa to the Pacific islands.
 
-Rhizome rampant aux racines peu nombreuses assez charnues, très pubescentes. Feuilles pétiolées, en spirale sur la partie inférieure de la tige. Inflorescence terminale. Fleurs résupinées ou non. Sépales et pétales libres. Labelle à base sacciforme avec deux appendices charnous internes. Épichile elliptique à trans-elliptique, élargi. Gynostème court, partie columnaire courte et soudée aux marges du labelle. Aucune carène : ni terminale ni ventrale. Staminodes formant un clinandrium distinct. Stigmate à 2 lobes séparés. Rostellum allongé, charnu, obtus. Viscidie oblongue. Tegula fine, en général plus longue que la viscidie. Anthère érigée, ovée-cordée. Pollinisation inconnue. – Pl. 28, p. 65.
+### KEY TO THE SPECIES:
 
-Genre d'environ 50 espèces réparties depuis l'Afrique tropicale jusqu'aux îles du Pacifique.
+1. Flowers not resupinate, thus lip at the top.....3 . Z. stammleri
 
-### CLÉ DES ESPÈCES :
+1'. Flowers resupinate, thus lip at the bottom.
 
-1. Fleurs non résupinées, donc labelle en haut.....3 . Z. stammleri
+2. Apical lobe of the lip transverse-elliptic, up to 2 times wider than long
 
-1'. Fleurs résupinées, donc labelle en bas.
-
-2. Lobe apical du labelle trans-elliptique, jusqu'à 2 fois plus large que long
-
-2'. Lobe apical du labelle réniforme au moins 2,5 fois plus large que long
+2'. Apical lobe of the lip reniform at least 2.5 times wider than long
 
 ## Species in region
 

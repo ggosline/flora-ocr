@@ -17,37 +17,35 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Tall trees. Long stipules protecting the terminal bud then caducous. Leaves glabrous opposite or whorled in threes, with or without axillary domatia.
 
-Arbres élevés. Longues stipules protectrices du bourgeon terminal puis caduques. Feuilles glabres opposées ou verticillées par trois, avec ou sans domaties axillaires.
-
-Inflorescences tantôt terminales tantôt axillaires-subterminales, paniculées, à extrémités ombelliformes. Pédicelle très court ou nul. Fleurs généralement blanches, parfois rose-pourpré. Ovaire ± globuleux d'env. 1 mm; lobes calycinaux petits avec une touffe de poils raides à la base du côté interne. Corolle (4)5(6)-mère à tube court et très étroit à la base, renflé-campanulé au
+Inflorescences sometimes terminal sometimes axillary-subterminal, paniculate, with umbelliform extremities. Pedicel very short or absent. Flowers generally white, sometimes pink-purple. Ovary ± globose approximately 1 mm; calycine lobes small with a tuft of stiff hairs at the base on the inner side. Corolla (4)5(6)-merous with a short and very narrow tube at the base, inflated-campanulate at the
 
 ---
 
-niveau des anthères. Lobes pétalaires très courts et érigés à l'anthèse, portant chacun un très long appendice apical filiforme. Étamines incluses sessiles; sommet de l'anthère très aigu. Style nettement plus court que le tube de la corolle, bilobé au sommet. Disque indistinct. 2 loges à nombreux ovules ascendants.
+level of the anthers. Petalous lobes very short and erect at anthesis, each bearing a very long apical filiform appendage. Stamens included sessile; apex of anther very acute. Style distinctly shorter than the corolla tube, bilobed at the apex. Disk indistinct. 2 locules with numerous ascending ovules.
 
-Fruit en capsule oblongue septicide avec le sommet des deux valves un peu localicide. Graines comprimées oblongues à contour membraneux formant deux ailes opposées. Embryon entouré d'albumen.
+Fruit an oblong septicide capsule with the apex of the two valves somewhat loculeicidal. Seeds compressed oblong with membranous outline forming two opposite wings. Embryo surrounded by albumen.
 
-Espèce type : Pausinystalia johimbe.
+Type species: Pausinystalia johimbe.
 
-Ce genre resté méconnu jusque vers 1920, est proche mais bien distinct du précédent. Bien que l'on puisse y relever une vingtaine de noms se rapportant à des descriptions ou seulement à des combinaisons, le genre Pausinstalia ne paraît guère comporter plus de 6 ou 7 espèces. 3 espèces sont au Gabon.
+This genus, which remained poorly known until around 1920, is close but well distinct from the preceding one. Although about twenty names referring to descriptions or only to combinations can be found, the genus Pausinystalia appears to comprise no more than 6 or 7 species. 3 species are in Gabon.
 
-Une espèce exclue, P. Talbotii Wernh., est un Corynanthe.
+One excluded species, P. Talbotii Wernh., is a Corynanthe.
 
-### CLÉ DES PAUSINYSTALIA
+### KEY TO PAUSINYSTALIA
 
-1. Feuilles verticillées par 3; inflorescences terminales; domaties axil-laires absentes..... I. P. johimbe.
+1. Leaves whorled in 3; inflorescences terminal; axillary domatia absent..... I. P. johimbe.
 
-1'. Feuilles par 2; inflorescences axillaires ou terminales; domaties présentes.
+1'. Leaves in pairs; inflorescences axillary or terminal; domatia present.
 
-2. Sépales plutôt dressés; inflorescences plutôt denses à ombellules multiflores; inflorescences toujours axillaires; domaties axillaires glabres.
+2. Sepals rather erect; inflorescences rather dense with multiflorous umbellules; inflorescences always axillary; axillary domatia glabrous.
 
-3. Calice tout à fait glabre..... 2. P. macroceras.
+3. Calyx entirely glabrous..... 2. P. macroceras.
 
-3'. Calice ± pubescent..... 2 bis P .macroceras v. Bequaertii.
+3'. Calyx ± pubescent..... 2 bis P. macroceras v. Bequaertii.
 
-2'. Sépales plutôt étalés inflorescences lâches à ombellules souvent pauciflores; inflorescences souvent terminales; calice micropubé-rulent; domaties axillaires pubescentes dans l'orifice.....
+2'. Sepals rather spreading; inflorescences lax with umbellules often pauciflorous; inflorescences often terminal; calyx micropubescent; axillary domatia pubescent at the opening.....
 
 ---
 

@@ -16,45 +16,35 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Herbs more or less woody, branched or with simple stems, glabrous or puberulent. Leaves alternate, antitropic or homeotropic, blades strongly asymmetric with one curved side and one nearly straight side; the acumen is displaced laterally and not in the prolongation of the central nerve axis. Petioles long-sheathing at the base; the non-callous part is of variable length and the callous part is generally swollen; but the articulation with the non-callous part is not marked by a peripheral groove. Transition to the midvein of the blade continuous on the lower face but marked by a raised beak on the upper part.
 
-Herbes plus ou moins ligneuses, ramifiées ou à tiges simples, glabres ou pubérulentes. Feuilles alternes, antitropes ou hometropes, limbes fortement asymétriques avec un côté courbe et un côté presque droit ; l'acumen se trouve déporté latéralement et non pas dans le prolongement de l'axe de la nervure centrale. Pétioles longuement engainants à la base ; la partie non calleuse est de longueur variable et la partie calleuse est généralement renflée ; mais l'articulation avec la partie non calleuse n'est pas marquée par un sillon périphérique. Passage à la nervure médiane du limbe continu à la face inférieure mais marqué par un bec en relief à la partie supérieure.
+Inflorescences in racemes of cymes, simple or branched. Abaxial bracts persistent, each subtending a sickle of 1 to 3 biflorous cymes. Adaxial spathe-bracts of the cymes alone present. Common peduncle of the cymes often very elongate; floral pedicels unequal and lacking bracteoles. Flowers with free sepals, often glumaceous, corolla with tube more or less long. Staminodes of the external cycle numbering 2 and petaloid; internal staminode hood-shaped not appendiculate; stamen with unilocular anther. Ovary with 3 uniovulate locules. Capsule globose with 1–3 seeds, dehiscent or not. Seeds with lamellar or entire aril.
 
-Inflorescences en grappes de cymes, simples ou ramiﬁées. Bractées abaxiales persistantes, axillant chacune une faucille de 1 à 3 cymes biflores. Bractée-spathes adaxiales des cymes seules présentes. Pédoncule commun des cymes souvent très allongé ; pédicelles floraux inégaux et dépourvus de bractéoles. Fleurs à sépales libres, souvent glumacés, corolle à tube plus ou moins long. Staminodes du cycle externe au nombre de 2 et pétaloïdes ; staminode interne en capuchon non appendiculé ; étamine à anthère uniloculaire. Ovaire à 3 loges uniovulées. Capsule globuleuse à 1-3 graines, déhiscente ou non. Graines à arille lamellaire ou entier.
+Type species: M. comorensis Brongn. et Gris., Réunion Island.
 
-Espèce type : M. comorensis Brongn. et Gris., île de la Réunion.
-
-Une vingtaine d'espèces ont été décrites, appartenant à ce genre. Ce nombre doit en réalité être ramené à une douzaine. À part l'espèce type du genre, ce sont toutes des plantes des régions forestières de l'Afrique tropicale. Onze espèces et trois variétés au Gabon.
+About twenty species have been described belonging to this genus. This number should in reality be reduced to about a dozen. Apart from the type species of the genus, these are all plants from the forest regions of tropical Africa. Eleven species and three varieties in Gabon.
 
 ---
 
-1. Plantes dressées à tiges simples, non ramifiées.
+1. Plants erect with simple, non-branched stems.
 
-2. Une feuille, rarement deux, sur chaque tige.
+2. One leaf, rarely two, on each stem.
 
-3. Inflorescence paniculée dense ou en racèmes courts et à fleurs blanches ; bractées d'env. 15 mm de long, entre-nœuds de 8 mm ; feuilles étroitement lancéolées ..... 1. M. holostachya.
+3. Inflorescence paniculate dense or in short racemes with white flowers; bracts of ca. 15 mm long, internodes of 8 mm; leaves narrowly lanceolate ..... 1. M. holostachya.
 
-3'. Inflorescence spiciforme allongée à fleurs jaunes ; bractées de
+3'. Inflorescence spiciform elongate with yellow flowers; bracts of 25–40 mm long, internodes of 15 to 25 mm; leaves triangular-lanceolate ..... 2. M. cuspidata.
 
-25-40 mm de long, entre-nœuds de 15 à 25 mm ; feuilles
+2'. Three leaves on each stem; yellow flowers ..... 3. M. sulphurea.
 
-triangulaires lancéolées..... 2. M. cuspidata.
+1'. Plants branched, more or less climbing.
 
-2'. Trois feuilles sur chaque tige ; fleurs jaunes..... 3. M. sulphurea.
+4. Leaves antitropic, callus pubescent on its upper face; inflorescence paniculate lax with internodes of ± 15 mm. White flowers.
 
-1'. Plantes ramifiées, plus ou moins grimpantes.
+5. Leaves, sheaths, bracts and inflorescence axes glabrous.
 
-4. Feuilles antitropes, callus pubescent à sa face supérieure ; inflo-
+5'. Leaves, etc., pubescent.
 
-rescence paniculée lâche à entre-nœuds de ± 15 mm. Fleurs
-
-blanches.
-
-5. Feuilles, gaines, bractées et axes d'inflorescence glabres.
-
-5'. Feuilles, etc., pubescentes.
-
-6. Feuilles d'env. 10 × 5 cm..... 5. M. congensis v. pubescens.
+6. Leaves of ca. 10 × 5 cm ..... 5. M. congensis v. pubescens.
 
 ## Species in region
 

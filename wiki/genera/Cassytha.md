@@ -16,13 +16,9 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Parasitic plants, whose fine branches, glabrous or ± pubescent, are furnished with haustoria. Leaves reduced to oval or lanceolate scales. Inflorescences in solitary spikes. Flowers hermaphrodite, sessile or subsessile, inserted at the axil of bracts and provided with 2 bracteoles. Receptacle developing after flowering to completely envelop the fruit; 6 tepals, the 3 outer ones smaller; the two external whorls of the androecium have introrse anthers, the 3rd with extrorse anthers bearing glands at the base of the filament, the 4th staminodial. Drupes completely enclosed within the fleshy receptacle crowned with tepals. Disregarding the vegetative apparatus, this genus would be placed in the vicinity of Cryptocarya by its flower and fruit.
 
-Plantes parasites, dont les rameaux fins, glabres ou ± velus, sont munis de suçoirs. Feuilles réduites à des écailles ovales ou lancéolées. Inflorescences en épis solitaires. Fleurs hermaphrodites, sessiles ou subsessiles, insérées à l'aisselle de bractées et pourvues de 2 bractéoles. Réceptacle se développait après la floraison pour envelopper complètement le fruit; 6 tépales, les 3 extérieurs plus petits; les deux verticilles externes de l'androcée sont à anthères introrses, le 3° à anthères extrorses avec glandes à la base du filet, le 4° staminodial. Drupes entièrement enfermées dans le réceptacle charnu couronné des tépales. En faisant abstraction de l'appareil végétatif, ce genre se placerait au voisinage de Cryptocarya par la fleur et le fruit.
-
-Genre répandu dans les régions tropicales du monde entier,
-
-comportant une quinzaine d'espèces. Au Gabon, une seule espèce.
+Genus widespread in the tropical regions of the entire world, comprising about fifteen species. In Gabon, a single species.
 
 ## Species in region
 

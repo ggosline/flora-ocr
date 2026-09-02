@@ -17,19 +17,17 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Trees or shrubs unarmed.
 
-Arbres ou arbustes inermes.
+Leaves stipulate, dentate.
 
-Feuilles stipulées, dentées.
+Inflorescences in cymes grouped in pseudo-umbels, axillary. Flowers ♂ or ♀ and ♀ (polygamous plants) ; bracts linear-acuminate, tomentose, ± persistent ; sepals valvate ; petals 6–12, imbricate ; stamens in 2 rows, the external ones (10) connate and longer than the internal ones ; the latter (10) free ; ovary tomentose, with 3–5 pluriovulate placentae ; style entire.
 
-Inflorescences en cymes groupées en pseudo-ombelles, axillaires. Fleurs ♂ ou ♀ et ♀ (plantes polygames) ; bractées linéaires-acuminées, tomenteuses, ± persistantes ; sépales valvaires ; pétales 6-12, imbriqués ; étamines en 2 rangs, les externes (10) soudées et plus longues que les internes ; celles-ci (10) libres ; ovaire tomenteux, à 3-5 placentas pluriovulés ; style entier.
+Fruits : capsules tardily dehiscent in 3–5 valves, covered with branched spines ; seeds numerous, arillate at the base.
 
-Fruits : capsules tardivement déhiscentes en 3-5 valves, couvertes d'aiguillons ramifiés ; graines nombreuses, arillées à la base.
+TYPE SPECIES : B. speciosum Gürk.
 
-ESPÈCE-TYPE : B. speciosum Gürk.
-
-Genre d’Afrique tropicale occidentale-centrale et orientale, comprenant 2 espèces, dont 1 pour la Flore.
+Genus of tropical western-central and eastern Africa, comprising 2 species, of which 1 for the Flora.
 
 ## Species in region
 

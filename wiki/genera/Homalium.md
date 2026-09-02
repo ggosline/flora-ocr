@@ -17,59 +17,57 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Trees or shrubs unarmed.
 
-Arbres ou arbustes inermes.
+Leaves dentate or crenate; stipules variable, sometimes foliaceous, reniform, persistent.
 
-Feuilles dentées ou crénelées ; stipules variables, parfois foliacées, réniformes, persistantes.
-
-Inflorescences en racèmes, panicules ou thyrses, axillaires ou terminaux, portant des fleurs solitaires ou groupées en fascicules ou glomé-rules espacés le long du rachis. Fleurs ♀ ; bractées et bractéoles nombreuses, ovales, pubescentes ou glabres, parfois soudées entre elles ; pédicelle glabre ou pubescent, articulé, de 1-4 mm de long ; calice turbiniforme et soudé à l'ovaire dans sa partie inférieure, à 4-8 lobes généralement peu accrescents ; pétales en même nombre que les sépales et alternant avec eux, parfois longuement accrescents et persistants ; étamines opposées aux pétales, en même nombre que ceux-ci ou par fascicules de 3-4, alternant avec des glandes subglobuleuses-aplaties ; filets filiformes ; anthères suglobuleuses, extorses ; ovaire semi-infère, unilo-
+Inflorescences in racemes, panicles or thyrses, axillary or terminal, bearing solitary flowers or grouped in fascicles or glomérules spaced along the rachis. Flowers ♀; bracts and bracteoles numerous, ovate, pubescent or glabrous, sometimes fused together; pedicel glabrous or pubescent, articulate, 1-4 mm long; calyx turbiniform and fused to the ovary in its lower part, with 4-8 lobes generally scarcely accrescent; petals in the same number as the sepals and alternating with them, sometimes longly accrescent and persistent; stamens opposite the petals, in the same number as these or in fascicles of 3-4, alternating with subglobose-flattened glands; filaments filiform; anthers subglobose, extrorse; ovary semi-inferior, unilo-
 
 ---
 
-culaire, à 2-6 placentas pluriovulés ; style glabre ou ± pubescent, divisé en 2-6 branches stigmatiques.
+cular, with 2-6 pluriovulate placentas; style glabrous or ± pubescent, divided into 2-6 stigmatic branches.
 
-Fruits : capsules déhiscentes 2-6 valves, entourées de périanthe ± accrescent et persistant ; graines peu nombreuses, petites.
+Fruits: dehiscent capsules 2-6 valves, surrounded by ± accrescent and persistent perianth; seeds few, small.
 
-ESPÈCE-TYPE : H. racemosum JACQ.
+TYPE SPECIES: H. racemosum JACQ.
 
-Ce genre renferme environ 200 espèces réparties dans les régions tropicales ; en Afrique, il existe environ 60 espèces, dont 9 pour le Gabon.
+This genus contains about 200 species distributed in tropical regions; in Africa, there are about 60 species, of which 9 for Gabon.
 
-1. Une seule étanine en face de chaque pétale.
+1. A single stamen opposite each petal.
 
-2. Inflorescences en racèmes à l'aisselle des feuilles supérieures.
+2. Inflorescences in racemes in the axil of the upper leaves.
 
 1. H. longistylum
 
-2. Inflorescences en panicules ou thyrses, axillaires ou subterminales.
+2. Inflorescences in panicles or thyrses, axillary or subterminal.
 
-3. Tube du calice aussi long que large.
+3. Calyx tube as long as broad.
 
-4. Pétales très peu accrescents ne dépassant jamais 4 mm de long, à l'état fructifère.
+4. Petals very scarcely accrescent never exceeding 4 mm long, in the fruiting state.
 
-5. Rameaux tomenteux ; feuilles tomenteuses sur la face inférieure.
+5. Branches tomentose; leaves tomentose on the lower surface.
 
-6. Feuilles à pétiole long de 2-3 mm ; pétales de 5-8 mm de long sur le fruit.
+6. Leaves with petiole 2-3 mm long; petals 5-8 mm long on the fruit.
 
-7. Limbe cunée à arrondi à la base ; pétales de 8 mm de long sur le fruit.
+7. Lamina cuneate to rounded at the base; petals 8 mm long on the fruit.
 
-8. Pétiole de 4-6 mm de long ; pétales accrescents, atteignant 8 mm de long.
+8. Petiole 4-6 mm long; accrescent petals, reaching 8 mm long.
 
-9. Pétiole de 7-20 mm de long ; pétales très peu accrescents, atteignant 5 mm de long.
+9. Petiole 7-20 mm long; petals very scarcely accrescent, reaching 5 mm long.
 
-10. Rameaux glabres à glabrescents ; feuilles glabres à glabrescents sur la face inférieure.
+10. Branches glabrous to glabrescent; leaves glabrous to glabrescent on the lower surface.
 
-11. Limbe cordé à la base ; pétales accrescents de 10-15 mm de long-gueur sur le fruit.
+11. Lamina cordate at the base; accrescent petals 10-15 mm long on the fruit.
 
-12. Plusieurs étamines (3 ou 4) en face de chaque pétale.
+12. Several stamens (3 or 4) opposite each petal.
 
-13. Pétiole de 4-6 mm de long ; pétales accrescents, atteignant 8 mm de long.
+13. Petiole 4-6 mm long; accrescent petals, reaching 8 mm long.
 
-14. Pétiole de 7-20 mm de long ; pétales très peu accrescents, atteignant 5 mm de long.
+14. Petiole 7-20 mm long; petals very scarcely accrescent, reaching 5 mm long.
 
-15. Rameaux tomenteux ; feuilles tomenteuses sur la face inférieure.
+15. Branches tomentose; leaves tomentose on the lower surface.
 
-16. Feuilles à pétiole long de 5-10 mm ; pétales de 12-15 mm de long sur le fruit.
+16. Leaves with petiole 5-10 mm long; petals 12-15 mm long on the fruit.
 
 ## Species in region
 

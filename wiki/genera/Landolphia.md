@@ -17,71 +17,21 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Lianes avec vrilles SDUIRLVSHWLWVDUEXVWHVUKL]RPDWHX[KRUVGX*DERQWLJHjODWH[EODQF
-
-Feuilles opposées, rarement certaines verticillées ou subopposées ; limbe sans domaties. ,QÀR -
-
-rescences D[LOODLUHVHWRXWHUPLQDOHVHWSDUIRLVVXUGHVYULOOHVF\PHXVHVDYHFXQHjSOXVLHXUV
-
-ÀHXUV VRXYHQW EHDXFRXS SOXV FRXUWHV TXH OHV IHXLOOHV Fleurs souvent parfumées ; calice à
-
-OREHV OLEUHV RX SUHVTXH VRXYHQW HQFRUH LPEULTXpV GDQV OD ÀHXU RXYHUWH SDUIRLV PXQLV GH
-
-collétères à l’intérieur, ou par groupes de 2 ou 3 alternant avec les sépales ; corolle blanche ou
-
-(partiellement) jaune, orange, rougeâtre, bleuâtre ou violacée, tube généralement épaissi au-
-
-dessus des anthères, lobes recouvrant vers la gauche, généralement auriculés à droite ;
-
-couronne absente ; étamines libres LQFOXVHV RX SDUIRLV SDUWLHOOHPHQW H[VHUWHV ¿OHWV SOXV
-
-FRXUWVTXHOHVDQWKqUHVDQWKqUHQRQFDUpQpH carpelles complètement soudés . Fruits syn-
-
-carpes, en baies indéhiscentes, glabres jVXUIDFHOLVVHRXPXQLHGHFUrWHVGHERVVHVHWRXGH
-
-OHQWLOOHVSDURLFKDUQXHRXFRULDFHSDUIRLVDYHFXQHFRXFKHGHFHOOXOHVVFOpUL¿pHVDYHFXQHj
-
-plusieurs graines surmontées d’une pulpe blanche, jaune, orange ou rouge. Graines ± irrégu-
-
-OLqUHPHQWRYRwGHVRXHOOLSVRwGDOHVOHSOXVVRXYHQWFRPSULPpHVODWpUDOHPHQWHWRXDYHFRX
-
-côtés aplatis, à testa mince et endosperme copieux ; cotylédons plats , à bord souvent ondulé.
-
-8QJHQUHDYHFHQYLURQHVSqFHVHQ$IULTXHHW0DGDJDVFDUGRQWXQHFLQTXDQWDLQHHQ$IULTXH
-
-continentale et au moins 36 espèces au Gabon (voir note sous L . owariensis ).
+Lianes with tendrils [SDUIRLVSHDUOXVHVGXWH[EODQF]. Leaves opposite, rarely some whorled or subopposite; lamina without domatia. Inflorescences axillary and terminal and sometimes on tendrils, cymose with one to several flowers, often much shorter than the leaves. Flowers often fragrant; calyx with lobes free or almost free, often still imbricate in the open flower, sometimes provided with colleters on the inside, or in groups of 2 or 3 alternating with the sepals; corolla white or (partially) yellow, orange, reddish, bluish or violaceous, tube generally thickened above the anthers, lobes overlapping towards the left, generally auriculate on the right; corona absent; stamens free, included or sometimes partially exserted, filaments shorter than the anthers, anther non-carinate, carpels completely fused. Fruits syncarps, in indehiscent berries, glabrous or with surface smooth or provided with ridges, bosses and or lenticels, pericarp fleshy or coriaceous, sometimes with a layer of sclerified cells, with one to several seeds surmounted by white, yellow, orange or red pulp. Seeds ± irregularly ovoid or ellipsoid, most often compressed laterally and/or with flattened sides, with thin testa and copious endosperm; cotyledons flat, with margin often undulate. A genus with approximately species in Africa and Madagascar, of which about fifty in continental Africa and at least 36 species in Gabon (see note under L. owariensis).
 
 ---
 
-Fleur (× 4). – 4. Idem, coupe longitudinale (× 4). – 5. Calice, coupe longitudinale, avec collétères (× 4).
+Flower (× 4). – 4. Idem, longitudinal section (× 4). – 5. Calyx, longitudinal section, with colleters (× 4).
 
-J.J.F.E. de Wilde 8234 ; 6 : Leemans 240 ). Dessin par Yuen Fang Tan, Naturalis
-
-Biodiversity Center (©), reproduit à partir de van der Ploeg (1983).
+J.J.F.E. de Wilde 8234; 6: Leemans 240). Drawing by Yuen Fang Tan, Naturalis Biodiversity Center (©), reproduced from van der Ploeg (1983).
 
 ---
 
-Notes : Certaines espèces de Landolphia RQWGHVIUXLWVFDUDFWpULVWLTXHVHWSHXYHQWrWUHIDFLOHPHQWLGHQWL -
+Notes: Some species of Landolphia have characteristic fruits and can be easily identified when they fruit, but for most of them the identification of fruiting plants is still very difficult, or even impossible. There are also certain species for which no mature fruit has yet been identified, so a key for fruiting Landolphia cannot be included here.
 
-¿pHVORUVTX¶HOOHVIUXFWL¿HQWPDLVSRXUODSOXSDUWG¶HQWUHHOOHVO¶LGHQWL¿FDWLRQGHVSODQWHVIUXFWL¿pHVHVW
+In the last revision of Landolphia (Persoon et al. 1992), a Gabon specimen with large velvety fruits (J.J.de Wilde et al. 396) and tendrils, was cited under L. dulcis (Sabine ex G.Don) Pichon. This would be the only Landolphia specimen with velvety fruits. However, it belongs neither to L. dulcis s.l. nor to any of the Landolphia species described. It is not even yet clear to which genus it belongs.
 
-HQFRUHWUqVGLI¿FLOHYRLUHLPSRVVLEOH,O\DDXVVLFHUWDLQHVHVSqFHVRDXFXQIUXLWPUQ¶DHQFRUHpWp
-
-LGHQWL¿pGRQFXQHFOpSRXUOHV Landolphia fructifères ne pourra pas être incluse ici.
-
-Dans la dernière révision de Landolphia (Persoon et al. 1992), un spécimen du Gabon avec de grands
-
-fruits veloutés ( J.J.de Wilde et al. 396 ) et des vrilles, a été cité sous L . dulcis (Sabine ex G.Don) Pichon.
-
-Ce serait le seul spécimen de Landolphia avec des fruits veloutés. Cependant, il n’appartient ni à L . dul-
-
-cis s.l. ni à aucune des espèces de Landolphia Gpfulwhvlfl,OQ¶HVWPrPHSDVHQFRUHFODLUjTXHOJHQUHLO
-
-appartient.
-
-B : Endress et al. (2019), Jongkind & Lachenaud (2022), Persoon et al. (1992), van Dilst
+B: Endress et al. (2019), Jongkind & Lachenaud (2022), Persoon et al. (1992), van Dilst
 
 ## Species in region
 

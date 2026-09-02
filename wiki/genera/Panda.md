@@ -17,19 +17,17 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Tree with simple, dentate leaves, very often asymmetric at the base.
 
-Arbre à feuilles simples, dentées, très souvent asymétriques à la base.
+Inflorescences in cauline racemes or in fascicles of racemes;
 
-Inflorescences en grappes caulinaires ou en fascicules de grappes;
+Flowers ♂ or ♀. Sepals imbricate; petals valvate. Stamens 10, didynamous in two whorls, absent in ♀ flowers. Intrastaminal disc. Ovary reduced in the ♂ flower and superior, ± pentalobed, with 3 uniovulate locules, in the ♀ flower.
 
-Fleurs ♂ ou ♀. Sépales imbriqués; pétales valvaires. Étamines 10, didynamics en deux verticilles, absentes dans les fleurs ♀. Disque intrastaminal. Ovaire réduit dans la fleur ♂ et supère, ± pentalobé, à 3 loges uniovulées, dans la fleur ♀.
+Pedicellate drupe trispermate with thick, muricate and lacunose endocarp.
 
-Drupe pédicélée trisperme à endocarpe épais, muriqué et lacuneux.
+TYPE SPECIES: Panda oleosa Pierre.
 
-ESPÈCE-TYPE : Panda oleosa Pierre.
-
-Ce genre monospécifique est endémique de l'Afrique.
+This monotypic genus is endemic to Africa.
 
 ## Species in region
 

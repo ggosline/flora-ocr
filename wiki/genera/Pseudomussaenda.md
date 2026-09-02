@@ -17,19 +17,15 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Shrubs sometimes sarmentose (?), or shrubby plants with thin chartaceous leaves. Terminal inflorescences with few or many flowers in cymes of sessile heterostylous flowers. One, or a small number of flowers at the periphery of the inflorescence, presents one of its sepals hypertrophied into a petiolate piece with a large attractive limb. Normal sepals usually 5, small, ‡ tapered. Corolla with a very long tube, with 5 lobes tapered at the apex; prefloration valvate induplicate; lobes spreading at anthesis; throat hairy; internal hairs not articulate. Stamens bilocular with apically salient connective. Ovary with 2 multiovulate locules. Placentas very narrowly
 
-Arbrisseaux parfois sarmenteux (?), ou arbustes à feuilles chartacées minces. Inflorescences terminales pluri ou multi-flores en cymes de fleurs sessiles hétérostyles. Une, ou un petit nombre de fleurs de la périphérie de l'inflorescence, présente un de ses sépales hypertrophié en pièce pétiolée à grand limbe attractif. Sépales normaux habituellement 5, petits, ‡ effilés. Corolle à tube très long, à 5 lobes effilés à l'apex; préfloraison valvaire indupliquée; lobes étalés à l'anthèse; gorge velue; poils internes non articulés. Étamines biloculaires à connectif saillant apicalement. Ovaire à 2 loges multiovulées. Placentas très étro-
+<<<---SECTION-BREAK--->>>
 
----
+oblong, inserted along their entire length on the floral axis. Style slender, glabrous, longer or shorter than the level of the anthers. Stigma bilobed, ovoid at least in the longistyled form.
 
----
+Fruit a dry capsule generally scarcely dehiscent. Seed albuminous.
 
-tement oblongs, insérés sur toute leur longueur à l'axe floral. Style grêle, glabre, plus long ou plus court que le niveau des anthères. Stigmate bilobé, ovoïde au moins dans la forme longistyle.
-
-Fruit sec capsulaire généralement à peine déhiscent. Graine albuminée.
-
-On peut considérer le Ps. Monteroi (Vernh.) Wernh. comme l'espèce type du genre; elle est connue du Bas-Congo et d'Angola. Le genre comprend 4 ou 5 espèces dont une seule gabonaise.
+The Ps. Monteroi (Vernh.) Wernh. can be considered the type species of the genus; it is known from Lower Congo and Angola. The genus comprises 4 or 5 species of which only one is Gabonese.
 
 ## Species in region
 

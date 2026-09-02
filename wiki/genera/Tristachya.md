@@ -17,13 +17,11 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Herbs generally perennial with linear leaves spreading or rolled, ligule represented by a line of hairs.
 
-Herbes généralement pérennes à feuilles linéaires étalées ou enroulées, ligule représentée par une ligne de poils.
+Inflorescence in loose or spiciform panicle, formed of triads of spikelets shortly pedicellate, or sessile within the triad. Glumes persistent, coriaceous, with 3 or 5 nerves, lanceolate, acuminate or more or less obtuse; the upper as long as the spikelet or sometimes shorter than the lower which generally measures half the spikelet. Lower flower male; lemma analogous to the upper glume, with 3, 7 or 9 nerves; palea bicarinate, membranous. Upper flower hermaphrodite with bearded callus, truncate, acute or bidentate. Lemma with 5 or 7 nerves, generally pubescent, bilobed, with geniculate awn. Palea bicarinate; 2 fleshy lodicules; 2 or 3 stamens; styles free.
 
-Inflorescence en panicule lâche ou spiciforme, formée de triades d'épillets courtement pédicellés, ou sessiles au sein de la triade. Glumes persistantes, coriaces, à 3 ou 5 nervures, lancéolées, acuminées ou plus ou moins obtuses; la supérieure aussi longue que l'épillet ou parfois plus courte que l'inférieure qui mesure en général la moitié de l'épillet. Fleur inférieure mâle; lemma analogue à la glume supérieure, à 3, 7 ou 9 nervures; paléa bicarénée, membraneuse. Fleur supérieure hermaphrodite à callus barbu, tronqué, aigu ou bidenté. Lemma à 5 ou 7 nervures, généralement pubescente, bilobée, à arête géniculée. Paléa bicarénée; 2 lodicules charnues; 2 ou 3 étamines; styles libres.
-
-Une espèce est signalée au Gabon, où elle semble rare.
+One species is recorded from Gabon, where it appears to be rare.
 
 ## Species in region
 

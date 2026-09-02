@@ -17,31 +17,25 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Herbaceous or suffrutescent plants (the largest specimens are woody at the base). Inflorescences terminal, capitate, spiciform or strobilate; bracts erect, colored; bracteoles very small. Calyx unequal: the three posterior sepals connate for half their length in D. thunbergii forus (T. And.) Benth. ex C.B. Clarke or for three-quarters (Gabonese species); anterior sepals free. Corolla white, violet or bluish, radiate, closely resembling the flowers of the genus Thunbergia. Ovary with locules containing 10–20 ovules. Seeds with a ring of hygroscopic hairs.
 
-Plantes herbacées ou suffrutescentes (les plus grands specimens sont ligneux à la base). Inflorescences terminales, capit
+Type species: Ruellia thunbergii flora T. Anders. (= Distichocalyx thunbergii florus (T. Anders.) Benth., ex. C. B. Cl.). described from Fernando Po. Bentham merely indicated Ruellia thunbergii flora as belonging to his new genus; the binomial was not published until 1899 by C. B. Clarke (F. T. A. 5: 62).
 
----
+The character of the unequal calyx is also found in Ruellia sect. Endosiphon (T. Anders. ex Benth.) Heine; the genus moreover possesses very considerable affinities with the genus Ruellia, of which it could even be considered as forming a section.
 
-liformes, spiciformes ou strobilacées; bractées dressées, colorées; bractéoles très petites. Calice inégal : les trois sépales postérieurs connés sur la moitié de leur longueur chez D. thunbergii forus (T. And.) Benth. ex C.B. Clarke ou sur les trois quarts (espèces gabonaises); sépales antérieurs libres. Corolle blanche, violette ou bleuâtre, radiée, ressemblant beaucoup aux fleurs du genre Thunbergia. Ovaire à loges contenant 10-20 ovules. Graines avec un anneau de poils hygroscopiques.
+Genus from southern Nigeria, Cameroon, Fernando Po, Gabon, western Congo, and Cabinda.
 
-Espèce type : Ruellia thunbergii flora T. Anders. (= Distichocalyx thunbergii florus (T. Anders.) Benth., ex. C. B. Cl.). décrit de Fernando-Po. Bentham a seulement indiqué Ruellia thunbergii flora comme appartement à son nouveau genre; le binôme ne fut publié qu'en 1899 par C. B. Clarke (F. T. A. 5 : 62).
+An epiphytic species with a regular calyx, with segments entirely free, was described from Cameroon: D. epiphytica (sic!) Lindau (Notizbl. Bot. Gart. u. Mus. Berlin-Dahlem 7: 494, 1921). The epiphytic habit is not a specific character; see below, description of D. grandifolius, p. 25.
 
-Le caractère du calice inégal se trouve également chez Ruellia sect. Endosiphon (T. Anders. ex Benth.) Heine; le genre possède en outre de très considérables affinités avec le genre Ruellia, dont il pourrait même être considéré comme formant une section.
+24 species were described in this genus, of which 3 were transferred to the related genus Acanthopale, which does not occur in Gabon, and two to the genus Ruellia; several of the 19 other taxa have been or will perhaps be recognized as conspecific with each other. The genus comprises approximately 8 species. Certain taxonomic difficulties and the loss in 1943 of numerous type specimens of C.E.B. Bremekamp's species hamper the monographic study.
 
-Genre du Nigeria du Sud, Cameroun, Fernando-Po, Gabon, Congo occidental, et Cabinda.
+1. Small, gracile plants, not exceeding 80 cm in height; bracts and calyces green, flowers white, 25 mm long... 1. D. strobilinus.
 
-Une espèce à port épinhyte et à calice régulier, à segments entièrement libres, a été décrite au Cameroun : D. epiphytica (sic!) Lindau (Notizbl. Bot. Gart. u. Mus. Berlin-Dahlem 7 : 494, 1921). Le port épiphyte n'est pas un caractère spécifique; voir ci-dessous, description de D. grandifolius, p. 25.
-
-24 espèces ont été décrites dans ce genre, dont 3 ont été transférées au genre voisin Acanthopale, qui n'existe pas au Gabon, et deux au genre Ruellia; plusieurs des 19 autres taxa ont été ou seront peut-être reconnus comme consécifiques entre eux. Le genre comprend approximativement 8 espèces. Certaines difficultés taxinomiques et la perte, en 1943, de nombreux échantillons types des espèces de C.E.B. Bremekamp gènent l'étude monogra-phique.
-
-1. Plantes petites, graciles, ne dépassant pas 80 cm de hauteur; bractées et calices verts, fleurs blanches, 25 mm de long... 1. D. strobilinus.
-
-1'. Plantes plus grandes, bractées et calices pourprés, robustes; fleurs bleues ou violettes, d'env. 50 mm de long.
+1'. Larger plants, bracts and calyces purple, robust; flowers blue or violet, about 50 mm long.
 
 ---
 
-2. Tiges, pétioles et feuilles poilus ou pubescents; feuilles pubescentes en dessus et en dessous (si le dessus des feuilles glabre, il a y toujours quelques poils au long de la partie inférieure de la nervure médiane); limbe ne dépassant pas 45 mm de largeur; inflorescences courtes, plus ou moins capituliformes, ne dépassant pas 3,5 cm de longueur (fleurs non comprises)..... 2. D. hirsuta
+2. Stems, petioles and leaves hairy or pubescent; leaves pubescent on upper and lower surface (if the upper surface of the leaves glabrous, there are always a few hairs along the lower part of the midvein); blade not exceeding 45 mm in width; inflorescences short, more or less capitate, not exceeding 3.5 cm in length (flowers not included)..... 2. D. hirsuta
 
 ## Species in region
 

@@ -16,9 +16,7 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Une seule famille, Lycopodiaceae, avec 2 genres vivants : Phylloglossum (monospécifique, Australie), et Lycopodium, seul genre africain.
+A single family, Lycopodiaceae, with 2 living genera: Phylloglossum (monospecific, Australia), and Lycopodium, the only African genus.
 
 ## Species in region
 

@@ -17,49 +17,13 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Aquatic or sometimes terrestrial herbs, perennial, stoloniferous, monoecious or dioecious; stem contracted or elongate (but then leafless and bearing terminal buds). Stipules 1 or 2, ovate, transparent. Leaves with spiral insertion, in rosette, with distinct petiole; blade cordate to reniform or almost orbicular, with entire margins; midvein well-defined, the other main veins arising at the base of the blade or detaching in its lower half and converging toward its apex, transverse veins distinct. Inflorescence with unisexual flowers; male spathe pedunculate, formed of 2 distinct bracts with sometimes additional floral bracts, surrounding (1–)2 to 6 flowers; female spathe sessile, formed of a single bract enveloping a single flower. Male flower pedicellate, persistent after anthesis; sepals 3, navicular, shorter than the petals; petals 3, rapidly wilting; stamens 12 to 18 of which 6 to 12 fertile, arranged in 4 to 6 cycles of 3, filaments connate by pairs at their base, anthers basifixed; ovary 3-lobed; styles reduced. Female flower with robust pedicel; sepals and petals as in the male flower; staminodes 6 in 2 cycles of 3, the ones opposite the petals transformed into nectaries; ovary 6-carpellate, oblong, with laminal-diffuse placentation, ovules very numerous; styles 6, free, each divided into 2 linear stigmatic lobes with papillose inner surface. Fruits berry-like, with very numerous seeds. Seeds ellipsoid, with loose testa, bearing verrucose or spinescent excrescences.
 
-Herbes aquatiques ou parfois terrestres, vivaces, stolonifères, monoïques ou dioïques ; tige
+Genus comprising 3 species from temperate and warm regions of the Old World and Australia; in Gabon, 1 species.
 
-contractée ou allongée (mais alors non feuillée et portant des bourgeons terminaux). Stipules
+B: Cook (1998), Cook & Lüönd (1982), Symoens (1984, 2009), Symoens & Sosef (2015).
 
-1 ou 2 , ovales, transparentes. Feuilles à insertion spiralée, en rosette , à pétiole distinct ; limbe
-
-cordiforme à réniforme ou quasi orbiculaire , à bords entiers ; nervure médiane bien dis-
-
-tincte, les autres nervures principales naissant à la base du limbe ou se détachant dans sa
-
-moitié inférieure et convergeant vers son sommet, nervures transversales distinctes. Inflo -
-
-rescence à fleurs unisexuées ; spathe mâle pédonculée, formée de 2 bractées distinctes avec
-
-parfois des bractées florales additionnelles, entourant (1–)2 à 6 fleurs ; spathe femelle sessile,
-
-formée d'une seule bractée enveloppant une seule fleur. Fleur mâle pédicellée, persistante
-
-après l'anthèse ; sépales 3, naviculaires, plus courts que les pétales ; pétales 3, rapidement
-
-flétris ; étamines 12 à 18 dont 6 à 12 fertiles, disposées en 4 à 6 cycles de 3, filets soudés par
-
-paires à leur base , anthères basifixes ; ovaire 3-lobé ; styles réduits. Fleur femelle à pédicelle
-
-robuste ; sépales et pétales comme dans la fleur mâle ; staminodes 6 en 2 cycles de 3, les oppo-
-
-sitipétales transformés en nectaires ; ovaire 6-carpellaire, oblong, à placentation laminale-
-
--diffuse, ovules très nombreux ; styles 6, libres, chacun divisé en 2 lobes stigmatiques linéaires
-
-à surface intérieure papilleuse. Fruits bacciformes , à graines très nombreuses. Graines ellip -
-
-soïdes, à tégument lâche, portant des excroissances verruqueuses ou spinescentes.
-
-Genre comportant 3 espèces des régions tempérées et chaudes de l’Ancien Monde et de l’Aus-
-
-tralie ; au Gabon, 1 espèce.
-
-B : Cook (1998), Cook & Lüönd (1982), Symoens (1984, 2009), Symoens & Sosef (2015).
-
-i B liographie
+Bibliography
 
 ## Species in region
 

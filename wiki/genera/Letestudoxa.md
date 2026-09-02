@@ -17,17 +17,15 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Lianas with indument of simple or fasciculate hairs. Flowers solitary, extra-axillary to suboppostifolious. Floral buds globose to ovoid; bracts 2, alternate, not completely enclosing the young bud. Calyx forming a hood around the floral bud, tearing transversely without producing distinct sepals. Petals 6, in two whorls, imbricate, free, coriaceous, subequal or the inner ones somewhat smaller, much larger than the calyx. Receptacle convex. Stamens very numerous, prismatic, sessile, thecae linear extrorse, connectives dilated above the anthers. Carpels numerous, slender, ovaries ± cylindric with base included in the receptacle, styles developed, stigmas hairy. Ovule 1, erect at the base of the ovarian locule.
 
-Lianes a indument de poils simples ou fasciculés. Fleurs, solitaires,extra-axillaires ä suboppositifoliees.Boutons floraux globuleux â ovoides; bractées 2, alternes, n'enfermant pas completement le jeune bouton. Calice formant un capuchon autour du bouton floral, se dechirant transversalement sans donner de sépales distincts.Pétales 6,en deux verticilles, imbriques, libres, coriaces, subégaux ou les internes un peu plus petits,beaucoup plus grands que le calice. Réceptacle convexe. Etamines tres nombreuses， prismatiques， sessiles， theques lineaires extrorses, connectifs dilatés au-dessus des antheres. Carpelles nombreux, gréles,ovaires ± cylindriques a base incluse dans le réceptacle, styles développés,stigmates chevelus.Ovule 1, dressé au fond de la loge ovarienne.
+Syncarpous fruits globose, muricate, pedicellate, with the calyx ring long-persistent at the base; mericarps obpyramidal, apiculate at the apex, fused in their lower quarter corresponding to almost the entirety of the seed locule, contiguous above on half their length, free at the apex. Seeds 1 per mericarp, small, ovoid-flattened, almost entirely included in the receptacle.
 
-Fruits syncarpiques globuleux, muriqués, pédicellés, ä anneau du calice longtemps persistant á la base；méricarpes obpyramidaux,apiculés au sommet, soudes dans leur quart inférieur correspondant á la presque totalité de la loge de la graine,contigus au-dessus sur la moitié de leur longueur, libres au sommet.Graines,I par méricarpe,petites,ovoides-aplaties,presqu'entierement incluses dans le réceptacle.
+Type species: L. bella Pellegrin.
 
-Espece type :L. bella Pellegrin.
+Small genus comprising two species in central Africa. The syncarpous fruit was classified by R.E. Fries among the apocarpous fruits forming a transition with syncarpous fruits. It indeed resembles certain fruits of the American genus Duguetia in which the mericarps are entirely occupied by the seed and contiguous in their lower 3/4. In the genus Letestudoxa, the seed occupies only the base of the mericarp, about the lower quarter, entirely fused in the fruit. It is also very close to the fruit of Pachypodanthium, in which the seeds occupy the entire length of the mericarp fused in the lower 3/4.
 
-Petit genre comprenant deux especes en Afrique centrale. Le fruit syncarpique a été classé par R.E.Fries parmi les fruits apocarpiques formant transition avec les syncarpes.Il ressemble en effet beaucoup â certains fruits du genre américain Duguetia ou les méricarpes sont entierement occupés par la graine et contigus dans leurs 3/4 inférieurs.Dans le genre Letestudoxa,la graine n'occupe quela base du méricarpe,environle quart inférieur, entierement soudé dans le fruit. Il est également tres proche du fruit des Pachypodanthium，dans lequel les graines occupent toute la longueur du méricarpe soudé dans les 3/4 inférieurs.
-
-Le genre Letestudoxa est tres probablement un genre de transition,mais nous préférons le rapprocher des genres á fruits syncarpiques en raison de la soudure quasi complete de la loge ovarienne dans le fruit.
+The genus Letestudoxa is very probably a transition genus, but we prefer to place it near the genera with syncarpous fruits because of the almost complete fusion of the ovarian locule in the fruit.
 
 ## CLE DES ESPECES
 

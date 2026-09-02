@@ -17,29 +17,23 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Small or medium-sized trees. Leaves 1-3-jugate; leaflets oblong, the lower one often smaller, oval-rounded, entire, appearing glabrous but bearing minute hairs and microscopic stipitate glands scattered beneath the blade.
 
-Arbres petits ou moyens. Feuilles 1-3-juguées; folioles oblongues, l'inférieure souvent plus petite, ovale-arrondie, entières, d'apparence glabre mais présentant des poils minuscules et des glandes stipitées microscopiques dispersées sous le limbe.
+Inflorescences spiciform, simple or branched, terminal and axillary, bearing uni- or pluriflorous cymules with linear bracts. Flowers polygamous regular, male and female in the same inflorescence or in separate inflorescences; calyx deeply (3-) 4-5-cleft, with valvate deltoid segments, tomentellous-glandular, dingy white outside, puberulous or glabrous inside, reflexed at the end of anthesis, caducous; petals absent; disc placentiform or in a depressed cone, dark red to blackish (whence the generic name), glabrous, sometimes 4-lobed (C. pervillei); stamens 4-8, opposite the sepals when the androecium is isostemonous, inserted in the centre of the disc, with glabrous filaments, rarely villous; anthers oval, introrse, attached above the emarginate base; pollen globose with 3 grooves and 3 pores; ovary 2-locular; ovules attached above the base of the axis, with inferior micropyle.
 
-Inflorescences spiciformes, simples ou ramifiées, terminale et axillaires, portant des cymules uni-ou pluriflores avec bractées linéaires. Fleurs polygames régulières, mâles et femelles dans la même inflorescence ou dans des inflorescences séparées; calice profondément (3-) 4-5-fendu, à segments valvaires deltoïdes, tomentelleux-glanduleux, blanc sale à l'extérieur, pubérulents ou glabres à l'intérieur, réfléchis en fin d'anthèse, caducs; pétales nuls; disque placentiforme ou en cône abaissé, rouge noirâtre (d'où le nom générique), glabre, parfois 4-lobé (C. pervillei); étanines 4-8, opposées aux sépales quand l'androcée est isostémone, insérées dans le centre du disque, à filets glabres, rarement velus; anthères ovales, introrses, fixées au-dessus de la base émarginée; pollen globuleux à 3 sillons et 3 pores; ovaire à 2 loges; ovules fixés au-dessus de la base de l'axe, à micropyle infère.
+Fruit berry-like, not stipitate, suborbicular, with 2 lobes or 1 by abortion, tomentellous; sarcocarp rather thick, coriaceous when dry; seeds elliptic; embryo straight.
 
-Fruit bacciforme, non stipité, suborbiculaire, à 2 lobes ou 1 par avortem, tomentelleux; sarcocarpe assez épais, coriace sur le sec; graines elliptiques; embryon droit.
+TYPE SPECIES: Crossonephelis pervillei Baillon.
 
-ESPÈCE-TYPE : Crossonephelis pervillei Baillon.
-
-Cette description comporte les parties communes des 2 diagnoses de Baillon et de Radlkofer; la remarque de Capuron est suivie ici, et Melanodiscus est considéré comme synonyme, les différences devenant distinctions spécifiques. Crossonephelis comptait à l'origine une espèce de Madagascar : C. pervillei Baillon (Adansonia, ser. 1, 11 : 245, 1874), à 4 sépales, 4 étamines et disque à 4 sillons. Melanodiscus avait été créé pour une plante du Nigeria en 1887; une deuxième espèce du Kilimandjaro : M. oblongus Radlk. fut ajoutée en 1894 et enfin M. unijugatus Pellegrin en 1938, du Gabon. Il ne sera retenu dans la clé ci-dessous que l'espèce du Gabon et celle du Nigeria, rencontrée depuis au Cameroun oriental (Adansonia, ser. 2, 12 (4) : 551-555, 1972).
+This description comprises the common parts of the two diagnoses by Baillon and Radlkofer; Capuron's remark is followed here, and Melanodiscus is considered a synonym, the differences becoming specific distinctions. Crossonephelis originally comprised one species from Madagascar: C. pervillei Baillon (Adansonia, ser. 1, 11 : 245, 1874), with 4 sepals, 4 stamens and a disc with 4 grooves. Melanodiscus had been created for a plant from Nigeria in 1887; a second species from Kilimanjaro: M. oblongus Radlk. was added in 1894 and finally M. unijugatus Pellegrin in 1938, from Gabon. Only the species from Gabon and that from Nigeria, encountered since in eastern Cameroon (Adansonia, ser. 2, 12 (4) : 551-555, 1972), will be retained in the key below.
 
 ---
 
-1. Feuilles 2-4-juguées; folioles inférieures ovales, obliques d'un côté ou subcordées,
-
-5 × 3 cm, très près de la tige; les supérieures plus grandes, oblongues-elliptiques,
-
-20 × 8 cm.
+1. Leaves 2-4-jugate; leaflets lower ones oval, oblique on one side or subcordate, 5 × 3 cm, very close to the stem; the upper ones larger, oblong-elliptic, 20 × 8 cm.
 
 1. C. africanus.
 
-1. Feuilles 1-juguées; folioles elliptiques, acuminées, 12-20 × 3-6 cm. ..... 2. C. unijugatus.
+1. Leaves 1-jugate; leaflets elliptic, acuminate, 12-20 × 3-6 cm. ..... 2. C. unijugatus.
 
 ## Species in region
 

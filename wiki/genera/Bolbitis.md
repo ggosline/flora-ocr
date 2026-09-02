@@ -16,35 +16,33 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Terrestrial ferns, with creeping rhizome, with scales often clathrate, entire. Petiole non-articulate, scaly. Frond generally pinnate, rarely simple or pinnatifid. Venation forming areoles between the lateral veins and along the costa. Fertile frond contracted, covered by sporangia, no paraphyses.
 
-Fougères terrestres, à rhizome rampant, à écailles souvent clathrées, entières. Pétiole non articulé, écailleux. Fronde généralement pennée, rarement simple ou pinnatifide. Nervation formant des aréoles et entre les nervures latérales et le long du costa. Fronde fertile contractée, recouverte par les sporanges, pas de paraphyses.
+Type of the genus: Bolbitis serratifolia (Mertens) Schott (= Acrostichum Mertens).
 
-Type du genre : Bolbitis serratifolia (Mertens) Schott (= Acrostichum Mertens).
-
-Environ 90 espèces, tropicales.
+Approximately 90 species, tropical.
 
 ---
 
-1. Penne terminale lobée.
+1. Terminal pinna lobed.
 
-2. Bourgeon présent à l'extrémité de la fronde simple. 1. B. gaboonensis.
+2. Bud present at the apex of the simple frond. 1. B. gaboonensis.
 
-2'. Pas de bourgeon (ou rarement, et alors axillaire).
+2'. No bud (or rarely, and then axillary).
 
-3. Fronde simple ou pinnatifide..... 2. B. fluviatilis.
+3. Frond simple or pinnatifid..... 2. B. fluviatilis.
 
-3'. Fronde pennée.
+3'. Frond pinnate.
 
-4. Nervures latérales proéminentes; 2-7 paires de pennes ayant 3-4 cm de large..... 3. B. auriculata.
+4. Lateral veins prominent; 2–7 pairs of pinnae having 3–4 cm wide..... 3. B. auriculata.
 
-4'. Nervures latérales non proéminentes; 10-15 paires de pennes ayant environ 1,5 cm de large..... 4. B. Heudelotii.
+4'. Lateral veins not prominent; 10–15 pairs of pinnae having approximately 1.5 cm wide..... 4. B. Heudelotii.
 
-1'. Penne terminale non lobée.
+1'. Terminal pinna not lobed.
 
-5. Nervures latérales non proéminentes; pennes de 1,5 cm de large environ, à base atténuée..... 5. B. salicina.
+5. Lateral veins not prominent; pinnae approximately 1.5 cm wide, attenuate at base..... 5. B. salicina.
 
-5'. Nervures latérales proéminentes; pennes de 2-5 cm de large, cunéiformes ou tronquées à la base..... 6. B. acrostichoides.
+5'. Lateral veins prominent; pinnae 2–5 cm wide, cuneate or truncate at base..... 6. B. acrostichoides.
 
 ## Species in region
 

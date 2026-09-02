@@ -17,21 +17,15 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Shortened stem. Leaves spreading, unequally bilobed at the apex. Inflorescence axillary, pendulous, lax, few- or many-flowered. Flowers large, resupinate, fragrant. Sepals and petals subsimilar. Lip funnel-shaped, entire or subentire, cucullate, without callus. Spur conical with a broad throat, more or less swollen at the apex. Gynostemium strongly flattened dorsiventrally, enlarged towards the base. Rostellum large, oblong, enlarged at the truncate apex, lamellar. Single viscidium. Single tegula, much longer than the viscidium. Remains of the rostellum tridentate at the apex after withdrawal of the pollinarium, the lateral lobes larger than the median one scarcely visible. – Pl. 162, p. 359.
 
----
+Genus of two known species from tropical western and central Africa.
 
-Tige raccourcie. Feuilles étalées, inégalement bilobées au sommet. Inflorescence axillaire, pendante, lâche, pauci- ou pluriflore. Fleurs grandes, résupinées, parfumées. Sépales et pétales subsemblables. Labelle infundibuliforme, entier ou subentier, cucullé, sans callus. Éperon conique avec un gorge large, plus ou moins renflé au sommet. Gynostème fortement aplati dorsiventralement, élargi vers la base. Rostellum grand, oblong, élargi au sommet tronqué, lamellaire. Viscidie unique. Tegula unique, beaucoup plus longue que la viscidie. Restes du rostellum tridentés au sommet après retrait du pollinarium, les lobes latéraux plus grand que le médian peu visible. – Pl. 162, p. 359.
-
-Genre de deux espèces connues de l'Afrique tropicale occidentale et centrale.
-
-1. Feuilles linéaires ; sépales atteignant 18 mm, éperon de 25-30 mm
+1. Leaves linear; sepals reaching 18 mm, spur 25–30 mm
 
 34.1.E. galeandrae
 
-1'. Feuilles oblongues-obovales ; sépales de plus de 20 mm, éperon de 20-25 mm
-
----
+1'. Leaves oblong-obovate; sepals more than 20 mm, spur 20–25 mm
 
 ## Species in region
 

@@ -16,13 +16,11 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Terrestrial ferns, with creeping rhizome bearing hairs. Frond pinnate or multipinnate, with oblique, equilateral pinnules, hairy. Veins free. Sori intramaginal, terminal on the veins, with cup-shaped indusium, fixed by the base and sides, with short receptacle. Annulus of sporangium formed of about twenty cells. Spores tetrahedral.
 
-Fougères terrestres, à rhizome rampant, portant des poils. Fronde pennée ou pluripennée, à pinnules obliques, équilatérales, poilues. Nervures libres. Sores intramarginaux, terminaux sur les nervures, à indusie en forme de coupe, fixée par la base et les côtés, à réceptacle court. Anneau du sporange formé d'une vingtaine de cellules. Spores tétraédriques.
+Type species: Microlepia speluncae (L.) Moore.
 
-Espèce type : Microlepia speluncae (L.) Moore.
-
-Une seule espèce au Gabon.
+Only one species in Gabon.
 
 ## Species in region
 

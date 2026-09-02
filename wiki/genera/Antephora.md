@@ -17,13 +17,11 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Perennial or annual herbs, base sometimes creeping. Leaves with flattened linear blades.
 
-Herbes pérennes ou annuelles, base parfois rampante. Feuilles à limbes linéaires aplatis.
+Spikelets in glomerules of 3 to 11, gathered into dense cylindrical spikes. Lower glumes abaxial, thickened and coriaceous, fused in their lower part, forming an involucre at the glomerule. Upper glume long-acuminate, hyaline, generally shorter than the lower, one-nerved. Lower flower neuter, reduced to a hyaline or membranous glumelle, 3 or 7-nerved. Upper flower hermaphrodite; lemma 3 or 5-nerved, its margins folded over those of the palea which is 2-nerved. No lodicule; 3 stamens; styles free or nearly so.
 
-Épillets en glomérules de 3 à 11, rassemblés en épis cylindriques denses. Glumes inférieures abaxiales, épaissies et coriaces, soudées dans leur partie inférieure, formant un involucre au glomérule. Glume supérieure longuement acuminée, hyaline, généralement plus courte que l'inférieure, à une nervure. Fleur inférieure neutre, réduite à une glumelle hyaline ou membraneuse, à 3 ou 7 nervures. Fleur supérieure hermaphrodite; lemma à 3 ou 5 nervures, ses bords repliés sur ceux de la palée qui est à 2 nervures. Pas de lodicule; 3 étamines; styles libres ou presque.
-
-Une quinzaine d'espèces sont connues, dont une seule est signalée au Gabon.
+About fifteen species are known, of which only one is reported from Gabon.
 
 ## Species in region
 

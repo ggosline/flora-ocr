@@ -17,33 +17,13 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Herbaceous plants, prostrate or twining. Leaves simple, entire, more or less elliptic, often mucronate. Flowers axillary, generally solitary, on long pedicels; sepals unequal, the three outer ones broader and more or less decurrent on the pedicel, all accrescent in fruit; corolla funnel-shaped, ± entire, partially hairy on the outside; stamens included; pollen grains smooth; ovary 2-locular, with two ovules per locule; style 1, included, simple, with two globose or oblong, thick stigmas. Fruit 2-locular, with 4 valves and 4 black seeds.
 
-Plantes herbacées, prostrées ou volubiles . Feuilles simples, entières, plus ou moins
+Genus comprising 5 species in tropical America, of which one species has circum-tropical distribution.
 
-elliptiques, souvent mucronées. Fleurs axillaires, généralement solitaires, à long pédi-
+Taxonomic note: According to Verdcourt (1963), the genus is very close to Merremia and should perhaps be considered as a section of the latter.
 
-celle ; sépales inégaux, les trois externes plus larges et plus ou moins décurrents sur
-
-le pédicelle , tous accrescents en fruit ; corolle infundibuliforme, ± entière, partiellement
-
-poilue à l’extérieur ; étamines incluses ; grains de pollen lisses ; ovaire 2-loculaire, à
-
-deux ovules par loge ; style 1, inclus , simple, à deux stigmates globuleux ou oblongs,
-
-épais . Fruit 2-loculaire, à 4 valves et 4 graines noires .
-
-Genre comprenant 5 espèces en Amérique tropicale dont une espèce à distribution cir-
-
-cumtropicale.
-
-Note taxonomique : D’après Verdcourt (1963), le genre est très proche de Merremia et
-
-devrait peut-être être considéré comme une section de ce dernier.
-
-B : Deroin (2001), Lejoly & Lisowski (1993), Verdcourt (1963).
-
-ibliographie
+Bibliography: Deroin (2001), Lejoly & Lisowski (1993), Verdcourt (1963).
 
 ## Species in region
 

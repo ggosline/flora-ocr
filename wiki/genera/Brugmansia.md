@@ -17,43 +17,13 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Small trees or shrubs, up to 6 m tall, unarmed; branches thick and robust, glabrescent or pubescent with simple hairs, sometimes viscid. Leaves alternate, simple, petiolate; blade with entire margin or sometimes dentate to superficially lobed. Inflorescences axillary, generally with solitary flowers, more rarely in short cymes. Flowers bisexual, erect or pendulous, 5-merous, slightly zygomorphic; calyx often persistent, tubular, sometimes strongly angular, generally covering the lower half of the corolla, with 5 lobes or opening by a longitudinal slit; corolla tubular or infundibuliform, with valvate prefloration, apex sinuate to slightly lobed, often recurved and bearing 5 to 10 narrow teeth; stamens equal, filament inserted near the apex of the tube, pubescent, anthers basifixed, linear, dehiscent by longitudinal slits; ovary 2-locular, glabrous; style filiform, glabrous, with stigma ovoid to ellipsoid, enclosing the apical part of the style. Fruits: indehiscent capsules, spherical to ellipsoid, smooth and woody, with numerous seeds. Seeds large, pyramidal to reniform, with thick and subereous testa; embryo straight.
 
-Petits arbres ou arbustes , jusqu’à 6 m de hauteur, inermes ; rameaux épais et robustes,
-
-glabrescents ou pubescents à poils simples, parfois visqueux. Feuilles alternes, simples, pétio-
-
-lées ; limbe à bord entier ou parfois denté à superficiellement lobé. Inflorescences axillaires,
-
-généralement à fleurs solitaires , plus rarement en courtes cymes. Fleurs bisexuées, dressées
-
-ou pendantes, 5-mères, légèrement zygomorphes ; calice souvent persistant, tubuleux, parfois
-
-fortement anguleux, recouvrant généralement la moitié inférieure de la corolle, avec 5 lobes
-
-ou s’ouvrant par une fente longitudinale ; corolle tubuleuse ou infundibuliforme , à préflo -
-
-raison valvaire, à sommet sinué à légèrement lobé, souvent recourbé et muni de 5 à 10
-
-dents étroites ; étamines égales, à filet inséré vers le sommet du tube, pubescent , anthères
-
-basifixes, linéaires, déhiscentes par des fentes longitudinales ; ovaire 2-loculaire, glabre ; style
-
-filiforme, glabre, à stigmate ovoïde à ellipsoïde, enserrant la partie apicale du style. Fruits :
-
-capsules indéhiscentes, sphériques à ellipsoïdes, lisses et ligneuses , à nombreuses graines.
-
-Graines grandes, pyramidales à réniformes, à testa épais et subéreux ; embryon droit.
-
-Genre de 6 à 8 espèces en fonction des auteurs ; originaire des Andes, mais plusieurs espèces
-
-sont maintenant largement plantées comme arbres d’ornement dans beaucoup de régions tro -
-
-picales et subtropicales ; pour le Gabon une seule espèce.
+Genus of 6 to 8 species depending on authors; native to the Andes, but several species are now widely planted as ornamental trees in many tropical and subtropical regions; for Gabon a single species.
 
 B : Barbosa et al. (2016), Bikandu et al. (2020), Edmonds (2012), Hay et al. (2012), Hunzi-
 
-i B liographie
+i Bibliography
 
 ker (2001), Lockwood (1973).
 

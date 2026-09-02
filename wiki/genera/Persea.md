@@ -16,19 +16,9 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Trees or shrubs with alternate, penninerved or pseudo-triplinerved leaves, somewhat coriaceous and often pubescent. Inflorescences axillary in cymes or panicles; flowers greenish-yellow, hermaphrodite, sometimes polygamous. Perianth with short tube, with six segments caducous or persistent, the outer ones often shorter. Stamens in 3 cycles of 3 pieces each, with 4-locular anthers (2 in P. urbaniana Mez.); staminodes of the 4th cycle large, cordate or sagittate, more or less stipitate. Berry globose, ovoid or pyriform with slightly dilated pedicel.
 
-Arbres ou arbrisseaux à feuilles alternes penninerves ou pseudo-triplinervées, un peu coriaces et souvent pubescentes. Inflorescences axillaires en cymes ou panicules; fleurs vert-jaunâtre
-
----
-
----
-
-hermaphrodites, parfois polygames. Périanthe à tube court, à six segments caduces ou persistants, les extérieurs souvent plus courts. Étamines en 3 cycles de 3 pièces chacun, à 4 loges aux anthères (2 chez P. urbaniana Mez.); staminodes du  $ 4^{e} $ cycle grands, cordés ou sagittés, plus ou moins stipités. Baie globuleuse, ovoïde ou pyriforme à pédicelle peu dilaté.
-
-Environ 30 espèces américaines, dont une, l'Avocatier, culti-
-
-vée dans tous les pays tropicaux.
+Approximately 30 American species, one of which, the avocado, is cultivated in all tropical countries.
 
 ## Species in region
 

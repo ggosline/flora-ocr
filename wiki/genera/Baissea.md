@@ -17,73 +17,21 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Climbing shrubs or lianes, with white latex, without tendrils or axillary glands. Stipules absent. Leaves opposite; petiole with adaxial colleters; blade often with tufts of hairs (domatia) at the base of at least some secondary veins on the lower surface. Inflorescences axillary and generally also terminal, arranged in loose or dense cymes, few- to pluriflorous, in panicle or corymb. Flowers 5-merous; calyx with imbricate, almost free lobes, base without or with several colleters on the internal surface; corolla with infundibuliform, campanulate or cylindric tube, with dense tufts of hairs on the internal surface alternating with the stamens, often with scales or crests above their insertion, lobes twisted in bud and covering to the right, ovate to oblong; stamens inserted from the 1/4 to 3/4 of the base of the tube, included but visible from the outside in the wide part of the corolla or just with the anther tips exserted, on short filaments, anthers forming a cone above the stigma head and adhering to it by a round patch situated internally between the appendages and the connective, disk patelliform or cupulate, crenulate or 5-lobed; ovary semi-inferior, with 2 carpels connate at the extreme base and rounded at the apex, numerous ovules, style obconic, stigma head composed of a basal part adherent to the anthers, a slightly winged central part, and an apex, bilobed stigmatoid, glabrous. Fruits apocarpose, with 2 pendulous, narrowly cylindric follicles, connate at the extreme base. Seeds narrowly ellipsoid, compressed laterally, with apical tuft of hairs (= coma) directed toward the fruit apex; albumen thin.
 
-Arbustes grimpants ou lianes , à latex blanc , sans vrilles, ni glandes axillaires. Stipules ab-
+A genus of about 8 species limited to continental Africa, 4 species in Gabon.
 
-sentes. Feuilles opposées ; pétiole à collétères adaxiaux ; limbe souvent avec des touffes
+BIBLIOGRAPHY: van Dilst (1995), Endress et al. (2019), Jongkind & Lachenaud (2022), Omino (2002).
 
-de poils (domaties) à l’aisselle d’au moins certaines nervures secondaires de la face infé-
+### Key to the species
 
-rieure. ,QÀRUHVFHQFHV axillaires et généralement aussi terminales, disposées en cymes lâches
+1. - Leaf blade densely felted dark brown below; corolla with tube 1.5–2 mm long ............................................................................................. B. atrobrunnea
 
-RXGHQVHVSDXFLjSOXULÀRUHVHQSDQLFXOHRXHQFRU\PEH Fleurs 5-mères ; calice à lobes
+- Leaf blade less hairy below; corolla with tube generally 1.1–7 mm long .............................................................................................................................. 2
 
-LPEULTXpVSUHVTXHOLEUHV base sans ou avec plusieurs collétères sur la face interne ; co-
+- Leaf blade obovate to oblong, panduriform or deltoid, the largest reaching 8 × 3 cm, but generally much smaller, rounded to cordate at the base ... 3
 
-UROOHjWXEHLQIXQGLEXOLIRUPHFDPSDQXOpRXF\OLQGULTXHjWRXIIHVGHQVHVGHSRLOVVXUODIDFH
-
-interne alternant avec les étamines, souvent à écailles ou crêtes au-dessus de leur insertion, à
-
----
-
-J. Louis 11491 5 : J.W.A. Jansen 1816 ). Dessin par Yuen Fang
-
-Tan, Naturalis Biodiversity Center (©), reproduit à partir de Vonk (1994).
-
----
-
-lobes tordus dans le bouton et recouvrant vers la droite , ovales à oblongs ; étamines insé-
-
-rées à partir du ᪠ MXVTX¶jѿGHODEDVHGXWXEHLQFOXVHVPDLVYLVLEOHVGHO¶H[Wpulhxufrpph
-
-GDQVODSDUWLHpODUJLHGHODFRUROOHRXMXVWHOHVVRPPHWVGHVDQWKqUHVH[VHUWHVj¿OHWVFRXUWV
-
-anthères formant un cône au-dessus de la tête du pistil et y adhérant par une tache ronde
-
-VLWXpHLQWpULHXUHPHQWHQWUHOHVDSSHQGLFHVHWOHFRQQHFWLIGLVTXHSDWHOOLIRUPHRXFXSXOpFUp -
-
-nelé ou 5-lobé ; ovaire semi-infère, à 2 carpelles connés à l’extrême base et arrondis à l’apex,
-
-jQRPEUHX[RYXOHVVW\OHREFRQLTXHjWrWHGXSLVWLOFRPSRVpHG¶XQHSDUWLHEDVDOHDGKpUHQWH
-
-DX[DQWKqUHVG¶XQHSDUWLHFHQWUDOHOpJqUHPHQWDLOpHHWG¶XQDSH[VWLJPDWRwGHELOREpJODEUH
-
-Fruits apocarpes, à 2 follicules pendants, étroitement cylindriques , connés à l’extrême
-
-base. Graines pWURLWHPHQWHOOLSVRwGDOHVFRPSULPpHVODWpUDOHPHQWjWRXIIHGHSRLOVDSLFDOH
-
-(=coma) dirigée vers l’apex du fruit ; albumen mince.
-
-8QJHQUHG¶HQYLURQHVSqFHVOLPLWpHVjO¶$IULTXHFRQWLQHQWDOHHVSqFHVDX*DERQ
-
-BIBLIOGRAPHIE : van Dilst (1995), Endress et al. (2019), Jongkind & Lachenaud (2022), Omino (2002).
-
-### Clé des espèces
-
-1. - Limbe foliaire densément feutré de brun foncé dessous ; corolle à tube long de
-
-1,5–2 mm ............................................................................................. B. atrobrunnea
-
-- Limbe foliaire moins poilu dessous ; corolle à tube généralement long de 1,1–7
-
-mm .............................................................................................................................. 2
-
-/LPEHIROLDLUHRERYDOHjREORQJSDQGXULIRUPHRXGHOWRwGHOHVSOXVJUDQGVDWWHL -
-
-gnant 8 × 3 cm, mais généralement beaucoup plus petites, arrondi à cordé à la base ... 3
-
-/LPEHIROLDLUHSULQFLSDOHPHQWRERYDOHRXHOOLSWLTXHOHVSOXVJUDQGVGH±î
+- Leaf blade principally obovate or elliptic, the largest 4–6 × 1.5–2 cm
 
 ## Species in region
 

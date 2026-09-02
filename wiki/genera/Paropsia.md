@@ -17,77 +17,31 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Arbustes, lianes ou petit arbres ; vrilles absentes . Stipules caduques. Feuilles alternes, ±
-
-distiques ; limbe penninervé , à marge crénelée ou serretée-glanduleuse à entière. Inflo -
-
-rescences axillaires et uniflores ou en pseudofascicules multiflores terminaux . Fleurs
-
-hermaphrodites , pédicellées, odorantes ; hypanthium légèrement cupuliforme ; sépales
-
-(4–)5, libres ; pétales (4–)5, libres ; couronne simple , formée d’appendices laciniés
+Shrubs, lianes or small trees; tendrils absent. Stipules caducous. Leaves alternate, ± distichous; lamina penninerved, with crenate or serrate-glandulous to entire margin. Inflorescences axillary and uniflorous or in multiflorous terminal pseudofascicles. Flowers hermaphrodite, pedicellate, fragrant; hypanthium slightly cupuliform; sepals (4–)5, free; petals (4–)5, free; corona simple, formed of laciniate appendices
 
 ---
 
-Androcée et gynécée (× 6). – 4. Base de l’androcée, face interne (× 6). – 5. Gynécée (× 6). – 6. Coupe
-
-transversale de l’ovaire (× 12 ½). – 7. Capsule (× 1). – 8. Graine (× 3). (1, 3-6 : Jans 928 ; 2 : Louis
-
-12893 ; 7, 8 : Louis 7971 ). Dessin par M. Allard, reproduit avec permission du Jardin botanique national
-
-de la Belgique (©) à partir de Robyns (1995).
+Androecium and gynoecium (× 6). – 4. Base of androecium, internal face (× 6). – 5. Gynoecium (× 6). – 6. Transverse section of ovary (× 12 ½). – 7. Capsule (× 1). – 8. Seed (× 3). (1, 3–6: Jans 928; 2: Louis 12893; 7, 8: Louis 7971). Drawing by M. Allard, reproduced with permission from the National Botanical Garden of Belgium (©) from Robyns (1995).
 
 ---
 
-libres ou brièvement connés à la base ; étamines 5 , filets connés à la base et adnés à la
+free or briefly connate at base; stamens 5, filaments connate at base and adnate to base of gynophore, anthers linear to sub-sagittate, dorsifixed; ovary sessile or with short gynophore; styles 3 (–5), free, stigmas flattened or thick, sub-reniform. Fruits capsular, sub-globose, dehiscent at apex in 3 valves. Seeds few to numerous.
 
-base du gynophore, anthères linéaires à sub-sagittées , dorsifixes ; ovaire sessile ou à
+Genus with 11 species, of which one in Asia, 10 in Africa and 3 in Gabon.
 
-court gynophore ; styles 3 (–5), libres, stigmates aplatis ou épais, sub-réniformes. Fruits
+Taxonomic note: Treated as a member of Flacourtiaceae by Sleumer (1976).
 
-capsulaires, sub-globuleux, déhiscents au sommet en 3 valves . Graines peu nombreuses
+Bibliography: Breteler (2003), De Vos & Breteler (2009), De Wilde (1975), Sleumer (1970, 1976).
 
-à nombreuses.
+### Key to species
 
-Genre à 11 espèces, dont une en Asie, 10 en Afrique et 3 au Gabon.
+1. – Sepals < 9 mm long; flowers present during or after leaf loss, in false spikes (with dozens of flowers) terminal or, if axillary and solitary, leaves very reduced; ovary glabrous; branchlets with whitish lenticels ........................................................................................... P. guineensis
 
-Note taxonomique : Traité comme membre des Flacourtiaceae par Sleumer (1976).
+– Sepals > 15 mm long; flowers on young leafy branchlets, axillary, solitary or in pairs(–3); ovary densely hairy; branchlets without distinct lenticels ................................................................................................................. 2
 
-b : Breteler (2003), De Vos & Breteler (2009), De Wilde (1975), Sleumer
+2. – Branchlets, underside of lamina and ovary hispid; sepals with hispid midvein, with long hairs bearing a tiny white tubercle at base; lamina (11–)16–20 cm long, papyraceous ......................................... P. gabonica
 
-ibliographie
-
-(1970, 1976).
-
-### Clé des espèces
-
-1. - Sépales < 9 mm de longueur ; fleurs présentes pendant ou après la perte des
-
-feuilles, en faux épis (avec des dizaines de fleurs) terminale ou, si axillaires et
-
-solitaires, les feuilles très réduites ; ovaire glabre ; rameaux à lenticelles
-
-blanchâtres ........................................................................................... P. guineensis
-
-- Sépales > 15 mm de longueur ; fleurs sur les jeunes rameaux feuillés, axillaires,
-
-solitaires ou par 2(–3); ovaire densément poilu ; rameaux sans lenticelles
-
-distinctes ................................................................................................................. 2
-
-2. - Rameaux, dessous du limbe et ovaire hispides ; sépales à nervure médiane
-
-hispide, avec de long poils pourvus d’un minuscule tubercule blanc à la base ;
-
-limbe (11–)16–20 cm de longueur, papyracé ......................................... P. gabonica
-
-- Rameaux pubescents, dessous du limbe presque glabre ; sépales pubérulents,
-
-couvert de courts poils flexueux ; ovaire tomenteux ; limbe (3,5–)7–11(–13) cm de
-
-longueur, sub-coriace .................................................. P. grewioides var. grewioides
+– Branchlets pubescent, underside of lamina nearly glabrous; sepals puberulent, covered with short flexuous hairs; ovary tomentose; lamina (3.5–)7–11(–13) cm long, sub-coriaceous .................................................. P. grewioides var. grewioides
 
 ## Species in region
 

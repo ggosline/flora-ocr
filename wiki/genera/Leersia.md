@@ -17,13 +17,11 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Perennial plants with narrow linear leaves.
 
-Plantes pérennes à feuilles linéaires étroites.
+Paniculate inflorescences with narrow, thin axes, typically in a zigzag pattern. Spikelets laterally flattened, shortly pedicellate, articulated above rudimentary glumes, reduced to a hyaline ring, entire or bilobed, scarcely distinct. Hermaphrodite floret; lemma with 5 nerves, subcartilaginous, awnless, keels and margins ciliate with stiff hairs. Palea narrower, with 3 nerves, grooved along the external nerves in a furrow into which the folded margins of the lemma fit. Keel with rigid hairs. 2 fleshy lodicules, 1, 3 or 6 stamens; styles distinct.
 
-Inflorescences paniculées à axes étroits, minces, typiquement en zigzag. Épillets latéralement aplatis, courtement pédicellés, articulés au dessus des glumes rudimentaires, réduites à un anneau hyalin, entier ou bilobé, peu distinct. Fleur hermaphrodite; lemma à 5 nervures, subcartilagineuse, mutique, carènes et marges ciliées à poils raides. Palée plus étroite, à 3 nervures, creusée le long des nervures externes d'un sillon dans lequel viennent s'emboiter les bords repliés de la lemma. Carène à poils rigides. 2 lodicules charnues, 1, 3 ou 6 étamines; styles distincts.
-
-6 ou 7 espèces dans les zones tropicales, dont une est connue au Gabon.
+6 or 7 species in tropical zones, one of which is known from Gabon.
 
 ## Species in region
 

@@ -17,19 +17,17 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 - Cyathanthus ENGL., Nat. Pflanzenfam., Nachtr. 1 : 120 (1897).
 
-Petits sous-arbrisseaux monoïques avec des tiges rhizomateuses et de petits rameaux feuillés ascendants ou dressés. Feuilles distiques ; limbe à nervation pennée. Stipules subamplexicaules, libres.
+Small monoecious undershrubs with rhizomatous stems and small leafy branches ascending or erect. Leaves distichous; blade with pinnate venation. Stipules subamplexicaul, free.
 
-Inflorescences solitaires à groupées sur des rameaux courts à l'aisselle des feuilles, bisexuées, cupuliformes à infundibuliformes, pédonculées, avec 4 bractées réniformes, imbriquées sur la marge du réceptacle. Fleurs à nombreuses, en plusieurs rangées, en partie en petits groupes, pédicellées ; périanthe tubulaire, (3-) 4 (-5) -lobé à (3-) 4 (-5)-fide ; étamines 1, 2 (3) droites avant l'anthèse, à anthères étroites, latrorses, pistillode absent. Fleurs ♀ solitaires au centre du réceptacle, libres ; périanthe à 2 (3) tépales libres ou 4 soudés ; ovaire libre ; stigmates 2.
+Inflorescences solitary or grouped on short branches in the leaf axils, bisexual, cupuliform to infundibuliform, pedunculate, with 4 reniform bracts, imbricate on the receptacle margin. Flowers numerous, in several rows, partly in small groups, pedicellate; perianth tubular, (3-) 4 (-5) -lobed to (3-) 4 (-5)-fid; stamens 1, 2 (3) straight before anthesis, with narrow anthers, latrorsal, pistillode absent. ♀ Flowers solitary at the centre of the receptacle, free; perianth with 2 (3) free tepals or 4 connate; ovary free; stigmas 2.
 
-Fruit $ ^{1} $ non soudé au périanthe vert élargi ; exocarpe blanc, charnu, déhiscent, éjectant le noyau ; endocarpe mince. Testa fin avec une partie suborbiculaire épaissie, vascularisée sous un hile petit ; cotylédons (sub) égaux, épais et unis ; radicule subapicale et courte.
+Fruit $ ^{1} $ not united with the enlarged green perianth; exocarp white, fleshy, dehiscent, ejecting the stone; endocarp thin. Testa fine with a thickened suborbicular part, vascularized under a small hilum; cotyledons (sub) equal, thick and united; radicle subapical and short.
 
-ESPÈCE-TYPE : Scyphosyce manniana Baill.
+TYPE SPECIES: Scyphosyce manniana Baill.
 
-Le genre comprend 2 espèces. Elles sont suffrutescentes et ont des rhizomes avec des rameaux feuillés dressés et ascendants. Le port est très semblable à celui de quelques espèces de Dorstenia suffrutescentes, habitant les sous-bois forestiers.
+The genus comprises 2 species. They are suffrutescent and have rhizomes with erect and ascending leafy branches. The habit is very similar to that of some suffrutescent Dorstenia species, inhabiting forest understory.
 
 ## Species in region
 

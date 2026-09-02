@@ -17,31 +17,27 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Large lianes or sarmentose shrubs; rubber-like filaments absent from flowers, fruits, seeds and leaves, absent to ± abundant in the ground parenchyma of certain woody stems. Wood mass with ± deep radiant grooves, continuous or discontinuous, filled with parenchyma; this structure contributes to a certain flexibility of the tall lianes; the largest and tallest sometimes fracturing into 4 wood masses that tend to reiterate the initial structure. Leaves entire or moderately crenate.
 
-Grandes lianes ou buissons sarmenteux ; filaments de caoutchouc absents des fleurs, des fruits, des graines et des feuilles, absent à ± abondant dans le parenchyme de remplissage de certaines tiges ligneuses. Massif ligneux de sillons rayonnants ± profonds, continus ou discontinus, remplis de parenchyme ; cette structure contribue à une certaine souplesse des lianes élevées ; les plus grosses et les plus grandes se fracturant parfois en 4 massifs qui tendent à réitérer la structure initiale. Feuilles entières ou médiocrement crénelées.
+Inflorescences based on axillary biparous cymes without supernumerary branches. Sepals 5 equal or not, rather small. Corolla valvate or with very narrowly imbricate margins; 5 petals often long, glabrous or pubescent, not overlapping one another, except in L. yaundina, at the apex of the bud which is most often conical. Anthers subapical, transverse with confluent locules; pollen in tricolporate monads approximately 20–40 μm in diameter, often breviaxial and finely reticulate. Ovary with thin wall surrounded at the base by the filaments; style conico-pyramidal with punctiform stigma; 4–15 (22) ovules per locule. Disc often bordered by a slight constriction or an annular groove separating a sometimes cupuliform fleshy lower rim from a very variable and ± developed fleshy upper mass.
 
-Inflorescences à base de cymes bipares axillaires sans ramifications surnuméraires. Sépales 5 égaux ou non, plutôt petits. Corolle valvaire ou à marges très étroitement imbriquées ; 5 pétales souvent longs, glabres ou pubescents, ne se recouvrant pas les uns les autres, sauf chez L. yaundina, au sommet du bouton qui est le plus souvent conique. Anthères subapicales transverses à loges confluentes ; pollen en monades tricolporées d'environ 20-40 μm de diamètre, souvent bréviaxes et finement réticulées. Ovaire à paroi mince entouré par la base des filets ; style conico-pyramidal à stigmate ponctiforme ; 4-15 (22) ovules par loge. Disque souvent cerné d'une légère encolure ou d'une gouttière annulaire séparant un rebord charnu inférieur parfois cupuliforme d'un massif charnu supérieur très variable et ± développé.
+Fruits, seeds and funicular sheaths from the base of the carpel as in Hippocratea but without rubber-like filaments. Cotyledons fused, hypogeal in the seedling.
 
-Fruits, graines et étuis funiculaires du fond du carpelle comme chez Hippocratea mais sans filaments de caoutchouc. Cotylédons soudés, hypogés dans la plantule.
+TYPE SPECIES: Loeseneriella macrantha (Korthals) A.C. Smith, from Indonesia.
 
-ESPÈCE-TYPE : Loeseneriella macrantha (Korthals) A.C. Smith, d'Indonésie.
-
-Le genre est dédié à Th. LOESENER (1865-1941), éminent botaniste allemand, le meilleur connaisseur des Hippocratéacées avant la  $ 2^{e} $ guerre mondiale.
+The genus is dedicated to Th. LOESENER (1865–1941), eminent German botanist and foremost authority on Hippocrateaceae before the 2nd World War.
 
 ---
 
-Ce genre, inconnu du nouveau monde, est composé de 16 espèces dont 10 en Afrique, 2 à Madagascar ; 5 sont distribuées de l'Inde aux îles Salomon, et du Sud de la Chine à Morton Bay en Australie. 6 espèces en Afrique de l'Ouest, 9 au Cameroun, 8 au Gabon et 7 au Zaïre.
+This genus, unknown from the New World, is composed of 16 species of which 10 in Africa, 2 in Madagascar; 5 are distributed from India to the Solomon Islands, and from southern China to Morton Bay in Australia. 6 species in West Africa, 9 in Cameroon, 8 in Gabon and 7 in Zaïre.
 
-L. ectypetala Hallé, d'Afrique occidentale, est la seule espèce africaine non camerounaise ; on connaît mal la limite orientale de son aire de répartition qui atteint peut-être le Nigeria.
+L. ectypetala Hallé, from West Africa, is the only African species not from Cameroon; the eastern limit of its distribution range, which perhaps reaches Nigeria, is poorly known.
 
-### CLÉ DES ESPÈCES
+### KEY TO THE SPECIES
 
-1. Disque ± complexe, à cupule, collerette, rebord annulaire ou bord inférieur dent-
+1. Disc ± complex, with cupule, collar, annular rim or lower margin denticulate, not simultaneously fleshy, truncate-conical and simple.
 
-cule, non à la fois charnu, tronconique et simple.
-
-2. Disque charnu pourvu d'une cupule, d'une collerette, d'un petit rebord annulaire ou de 5 denticules ; base des pétales libre, non adhérente à la cupule discale.
+2. Disc fleshy provided with a cupule, a collar, a small annular rim or 5 denticules; base of petals free, not adnate to the disc cupule.
 
 ## Species in region
 

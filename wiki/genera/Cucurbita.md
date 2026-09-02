@@ -17,23 +17,19 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Annual monoecious herbs, climbing or prostrate; stems and branches robust. Tendrils bifid to multifid. Leaves: lamina lobed, cordate at the base. Inflorescences with solitary flowers. Flowers: corolla relatively large, yellow. Male flowers: sepals 5, narrowly elliptic-ovate, sometimes foliaceous at the apex; corolla campanulate, 5-lobed; stamens 3, anthers united in a head, 2 bithecal and 1 monothecal, with linear, reflexed locules; pistillode absent. Female flowers with short pedicel; calyx and corolla as in male flowers; staminodes 3, broadly triangular; ovary oblong to globose, 1-locular, with 3 to 5 placentas, with numerous horizontal ovules; style short, with 2- to 5-lobed stigmas. Fruits relatively large, fleshy, indehiscent, with numerous seeds. Seeds flattened, smooth.
 
-Herbes annuelles, monoiques, grimpantes ou prostrées; tiges et branches robustes. Vrilles bifides à multifides. Feuilles : limbe lobé, cordé à la base. Inflorescences à fleurs solitaires. Fleurs : corolle relativement grande, jaune. Fleurs mâles : sépales 5, étroitement elliptiques-ovales, parfois foliacés au sommet; corolle campanulée, 5-lobée; étamines 3, anthères réunies en tête, 2 bithèques et 1 monothèque, à loges linéaires, réfléchies; pistillode absent. Fleurs femelles à pédicelle court; calice et corolle comme dans les fleurs mâles ; staminodes 3, largement triangulaires ; ovaire obloïde à globuleux, 1-loculaire, avec 3 à 5 placentas, à nombreux ovules horizontaux ; style court, à stigmates 2- à 5-lobés. Fruits relativement gros, charnus, indéhiscents, à nombreuses graines. Graines aplaties, lisses.
+American genus of 18 species, several of which are widely cultivated in the tropical, subtropical and temperate regions of the entire world; in Gabon, three cultivated species and sometimes naturalized.
 
-Genre américaine de 18 espèces, dont plusieurs espèces sont largement cultivées dans les régions tropicales, subtropicales et tempérées du monde entier; au Gabon, trois espèces cultivées et parfois échappées.
+BIBLIOGRAPHY: Jeffrey (1967), Keraudren (1967), Keraudren-Aymonin (1975), Schaefer & Renner (2011a).
 
-BIBLIOGRAPHIE: Jeffrey (1967), Keraudren (1967), Keraudren-Aymonin (1975), Schaefer & Renner (2011a).
+1. - Sepals linear, with enlarged and foliaceous apex; fertile pedicel with distinctly enlarged apex; seed with distinctly thickened margin..... C. moschata
 
-1. - Sépales linéaires, à sommet élargi et foliacé; pédicelle fructifère à sommet nettement élargi; graine à marge nettement épaissie..... C. moschata
+- Sepals linear to very narrowly elliptic-ovate, with non-foliaceous apex; fertile pedicel slightly enlarged at apex in fruit; seed with distinctly to slightly thickened or obtuse margin..... 2
 
-- Sépales linéaires à très étroitement elliptiques-ovales, à sommet non foliacé; pédi-celle fructifère légèrement élargi au sommet en fruit; graine à marge nettement à légèrement épaissie ou obtuse..... 2
+2. - Leaf lamina triangular to ovate-triangular, irregularly 5- or 7-lobed; sepals very narrowly elliptic-ovate; pedicel sulcate-angular and slightly thickened at apex in fruit; seed with thickened margin..... C. pepo
 
-2. - Limbe foliaire triangulaire à ovale-triangulaire, irrégulièrement 5- ou 7-lobé; sé-pales très étroitement elliptiques-ovales; pédicelle sillonné-anguleux et légèrement épaissi au sommet en fruit; graine à marge épaissie..... C.pepo
-
-- Limbe foliaire réniforme à orbiculaire, presque entier ou à marge dentée; sépales étroitement elliptiques-ovales; pédicelle subcylindrique et non épaissi au sommet en fruit; graine à marge obtuse ou ±épaissie..... C. maxima
-
----
+- Leaf lamina reniform to orbicular, nearly entire or with dentate margin; sepals narrowly elliptic-ovate; pedicel subcylindric and not thickened at apex in fruit; seed with obtuse or ±thickened margin..... C. maxima
 
 ## Species in region
 

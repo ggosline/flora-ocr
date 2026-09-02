@@ -17,39 +17,15 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Arbres ou rarement arbustes ; écorce à fissures sous forme d’un bateau ou rhombique ;
-
-latex jaune, blanchâtre ou transparent ; ramilles souvent anguleuses. Stipules absentes.
-
-Feuilles opposées : limbe souvent coriace ; nervures latérales parallèles très rappro-
-
-chées et alternant avec les canaux sécréteurs translucides continus . Inflorescence ter-
-
-minale ou axillaire, en racèmes ou en panicules ou rarement réduit à 1 ‒ 3 fleurs. Fleurs
-
-bisexuées ; sépales 4 , libres, les internes parfois pétaloïdes ; pétales 2 ou 4 ‒ 8 ou parfois
-
-nuls, imbriqués, blancs ; étamines nombreuses, groupées en 4 phalanges ou parfois
-
-libres , à filets minces ; disque absent ; ovaire uniloculaire, à un seul ovule droit ; style
-
-1, mince, souvent flexueux, stigmate pelté. Fruit : une drupe à péricarpe crustacé. Graine
-
-non arillée, à grands cotylédons.
+Trees or rarely shrubs; bark with fissures in the form of a boat or rhombic; yellow, whitish or transparent latex; branchlets often angular. Stipules absent. Leaves opposite: limb often coriaceous; lateral nerves parallel very close together and alternating with continuous translucent secretory canals. Inflorescence terminal or axillary, in racemes or in panicles or rarely reduced to 1–3 flowers. Flowers bisexual; sepals 4, free, the inner ones sometimes petaloid; petals 2 or 4–8 or sometimes absent, imbricate, white; stamens numerous, grouped in 4 phalanges or sometimes free, with thin filaments; disc absent; ovary unilocular, with a single straight ovule; style 1, thin, often flexuous, stigma peltate. Fruit: a drupe with a crustaceous pericarp. Seed non-arillate, with large cotyledons.
 
 ---
 
-Genre groupant environ 185 espèces, dont dix en Amérique tropicale. Les autres sont
+Genus comprising approximately 185 species, of which ten in tropical America. The others are present in East Africa and Madagascar as far as the Pacific; in Gabon, a single introduced species.
 
-présentes en Afrique de l’Est et Madagascar jusque dans le Pacifique ; au Gabon, une
+B: Bamps et al. (1978), Robson (1961), Stevens (1980, 2007).
 
-seule espèce introduite.
-
-B : Bamps et al. (1978), Robson (1961), Stevens (1980, 2007).
-
-i B liographie
+Bibliography
 
 ## Species in region
 

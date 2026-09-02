@@ -16,15 +16,11 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Terrestrial ferns with creeping rhizome, with fronds arranged in 2 rows. Petiole canaliculate on the upper surface. Frond pinnate or bipinnate, with pinnules not articulate, bearing a costa or flabellate. Veins free, or scarcely anastomosing. Sori linear, marginal, with linear indusium. Spores trilete verrucose.
 
-Fougères terrestres à rhizome rampant, à frondes disposées en 2 rangées. Pétiole canaliculé à la face supérieure. Fronde pennée ou bipennée, à pinnules non articulées, portant un costa ou flabellées. Nervures libres, ou à peine anastomosées. Sores linéaires, marginaux, à indusie linéaire. Spores trilètes verruques.
+Type species: Schizolegnia ensifolia (Sw.) Alston.
 
-Espèce type : Schizolegnia ensifolia (Sw.) Alston.
-
-Onze espèces, autrefois mises dans les Lindsaea. Une seule au Gabon.
-
----
+Eleven species, formerly placed in Lindsaea. Only one in Gabon.
 
 ## Species in region
 

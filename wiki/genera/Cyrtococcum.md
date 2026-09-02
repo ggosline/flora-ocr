@@ -17,13 +17,9 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Perennial herbs with prostrate or creeping base, leaves linear to lanceolate.
 
-Herbes pérennes à base couchée ou rampante, feuilles linéaires
-
-à lancéolées.
-
-Épillets asymétriques, latéralement aplatis, disposés en panicules et généralement lâches. Glumes membraneuses, à 3 ou 5 nervures, fleur inférieure neutre, à lemma semblable à la glume supérieure; paléa à 2 nervures, parfois absente. Fleur supérieure hermaphrodite; lemma naviculaire étroite, coriace, à bords étroitement enroulés, 5 nervures peu visibles. Paléa de même taille et de même texture. Deux lodicules; 3 étamines; styles distincts.
+Spikelets asymmetric, laterally flattened, arranged in panicles and generally lax. Glumes membranous, with 3 or 5 nerves, lower floret neuter, with lemma similar to the upper glume; palea with 2 nerves, sometimes absent. Upper floret hermaphrodite; lemma narrowly navicular, coriaceous, with edges narrowly enrolled, 5 nerves scarcely visible. Palea of same size and same texture. Two lodicules; 3 stamens; styles distinct.
 
 ## Species in region
 

@@ -17,47 +17,43 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Herbaceous plants with leafy culms often leafy only near the apex, the base of the stem being surrounded by aphyllous sheaths. Leaves oval lanceolate to linear lanceolate, contracted into a petiole at the base. Inflorescences terminal, on the leafy culms or on distinct aphyllous culms, in racemes or more or less divided panicles.
 
-Plantes herbacées à chaumes feuillés souvent seulement vers le sommet, la base de la tige étant entourée de gaines aphyles. Feuilles ovales lancéolées à linéaires lancéolées, contractées en pétiole à la base. Inflorescences terminales, sur les chaumes feuillés ou sur des chaumes aphyles distincts, en racèmes ou panicules plus ou moins divisées.
+Spikelets flattened with numerous flowers, the 1 to 3 lower ones male, the others hermaphrodite. Two glumes generally pubescent, at the base of the spikelet, the lower one generally shorter. Lower glumella coriaceous, with numerous veins. Upper glumella thin, bicarinate with winged keels, generally pubescent; 3 oval lodicules, truncate at the apex. Six stamens with free filaments. Ovary oblong, pubescent, styles distinct almost to the base.
 
-Épillets aplatis à nombreuses fleurs, les 1 à 3 inférieures mâles, les autres hermaphrodites. Deux glumes généralement pubescentes, à la base de l'épillet, l'inférieure généralement plus courte. Glumelle inférieure coriace, à nombreuses nervures. Glumelle supérieure mince, bicarénée à carènes ailées, généralement pubescente; 3 lodicules ovales, tronquées au sommet. Six étamines à filets libres. Ovaire oblong, pubescent, styles distincts presque jusqu'à la base.
+Approximately 8 species, most from Gabon and Cameroon, one distributed as far as Liberia.
 
-Environ 8 espèces, la plupart du Gabon et du Cameroun, l'une distribuée jusqu'au Liberia.
+A certain number of species are known so far only from Cameroon; their presence in Gabon is however probable, which is why they will be mentioned in the key below.
 
-Un certain nombre d'espèces ne sont connues jusqu'ici que du Cameroun; leur présence au Gabon est cependant probable, c'est pourquoi elles seront mentionnées dans la clé ci-dessous.
+1. Leafy stems and fertile stems distinct.
 
-1. Tiges feuillées et tiges florifères distinctes.
+2. Sterile culms with 1 or 2 leaves only; fertile culms with generally only 3 spikelets, each with 8 flowers..... G. Ledermannii Pilger (Cameroon).
 
-2. Chaumes stériles à 1 ou 2 feuilles seulement; chaumes fertiles avec généralement seulement 3 épilets, chacun à 8 fleurs..... G. Ledermannii Pilger (Cameroun).
+2'. Leaves and spikelets more numerous at the apex of the culms.
 
-2'. Feuilles et épilets plus nombreux à l'extrémité des chaumes.
+3. Inflorescence short and dense, spikelets with 4 or 5 flowers; palea longer than the lemma..... G. densiflora Pilger (Cameroon).
 
-3. Inflorescence courte et dense, épilets à 4 ou 5 fleurs; paléa plus longue que la lemma..... G. densiflora Pilger (Cameroun).
-
-3'. Inflorescence spiciforme allongée, les branches inférieures seules
+3'. Inflorescence spiciform elongate, the lower branches alone
 
 ---
 
-ramifiées; épilets à nombreuses fleurs; lemmas et palées de mê-
+ramified; spikelets with numerous flowers; lemmas and paleas of the same length, or the former somewhat longer. 1. G. foliosa.
 
-me longueur, ou les premières un peu plus longues. 1. G. foliosa.
+1'. Inflorescence at the apex of the leafy culms.
 
-1'. Inflorescence à l'extrémité des chaumes feuillés.
+4. Leaves very elongate, 5 times as long as wide or more; inflorescence elongate with distant spikelets..... 2. G. longifolia.
 
-4. Feuilles très allongées, 5 fois aussi longues que larges ou plus; inflorescence allongée à épilets distants..... 2. G. longifolia.
+4'. Leaves oval, elliptic or more or less elongate, but less than above.
 
-4'. Feuilles ovales, elliptiques ou plus ou moins allongées, mais moins que ci-dessus.
-
-5. Feuilles peu nombreuses, 2 ou 3 (parfois jusqu'à 5), densément groupées au sommet des chaumes; inflorescence paniculée relativement dense; épillets généralement de 3 à 4 cm de long.....
+5. Leaves few in number, 2 or 3 (sometimes up to 5), densely grouped at the apex of the culms; inflorescence relatively dense paniculate; spikelets generally 3 to 4 cm long.....
 
 3. G. marantifolia
 
-6. Feuilles de 15 à 20 cm de long et ± 8 cm de large, le plus souvent par 2, atténuées à la base..... var. Duparqueti.
+6. Leaves 15 to 20 cm long and ± 8 cm wide, most often in pairs, attenuate at the base..... var. Duparqueti.
 
-6'. Feuilles de 8 à 10 cm de long, généralement par 3, parfois jusqu'à 5, arrondies, à subcordées à la base. var. brevifolia.
+6'. Leaves 8 to 10 cm long, generally in threes, sometimes up to 5, rounded, subcordate at the base. var. brevifolia.
 
-5'. Feuilles plus nombreuses, réparties le long des chaumes, ou plus ou moins groupées vers le sommet.
+5'. Leaves more numerous, distributed along the culms, or more or less grouped towards the apex.
 
 ## Species in region
 

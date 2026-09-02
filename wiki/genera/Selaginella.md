@@ -16,51 +16,41 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Terrestrial herbs, annual or perennial. Stems erect or prostrate, bearing rhizophores with ± marked dichotomous division. Leaves ligulate, small, heteromorphic, in 4 ranks, the angular leaves different from the other leaves. Sporangia in terminal spikes or strobili, borne at the axil of specialized leaves or sporophylls. Spores of 2 kinds: megaspores and microspores, borne in separate sporangia.
 
-Herbes terrestres, annuelles ou vivaces. Tiges dressées ou couchées, portant des rhizophores à division dichotomique ± marquée. Feuilles ligulées, petites, hétéromorphes, sur 4 rangs, les feuilles angulaires différentes des autres feuilles. Sporanges en épis terminaux ou strobiles, nés à l'aisselle de feuilles spécialisées ou sporophylles. Spores de 2 sortes : mégaspores et microspores, nées dans des sporanges séparés.
+Type species: Selaginella spinosa Pal.
 
-Espèce type : Selaginella spinosa Pal.
+Cosmopolitan, approximately 800 species.
 
-Cosmopolite, environ 800 espèces.
+### KEY TO SPECIES (cf. add. p. 25)
 
-### CLÉ DES ESPÈCES (cf. add. p. 25)
+1. Stems coiled or climbing; rhizophores dorsal or ventral.
 
-1. Tiges enroulées ou grimpantes; rhizophores dorsaux ou ventraux.
+2. Stems coiled, not articulate..... 1. S. myosurus.
 
-2. Tiges enroulées, non articulées..... 1. S. myosurus.
+2'. Stems climbing, articulate..... 2. S. grallipes.
 
-2'. Tiges grimpantes, articulées..... 2. S. grallipes.
+1'. Stems erect or prostrate; rhizophores ventral.
 
-1'. Tiges dressées ou rampantes; rhizophores ventraux.
+3. Stems pubescent, erect; ramose part frond-shaped, with triangular outline..... 3. S. Vogelii.
 
-3. Tiges pubescentes, dressées; partie rameuse en forme de fronde, à contour triangulaire ..... 3. S. Vogelii.
+3'. Stems glabrous.
 
-3'. Tiges glabres.
+4. Stems erect, not divided from the base.
 
-4. Tiges dressées, non divisées dès la base.
+5. Presence of soboles, lateral leaves serrulate, bearing 2 false nerves, contiguous on the stem..... 4. S. versicolor.
 
-5. Présence de soboles, feuilles latérales serrulées, portant 2 faus-
+5'. No soboles; lateral leaves ciliolate at the base, spaced approximately 10 times their width on the stem..... 5. S. leoneensis.
 
-ses nervures, contiguës sur la tige..... 4. S. versicolor.
+4'. Stems prostrate, generally divided from the base, rhizophores at the nodes.
 
-5'. Pas de soboles; feuilles latérales ciliolées à la base, espacées
+6. Stems often orange-coloured; lateral leaves often reflexed and coiled; median leaves obovate; microspores whitish..... 6. S. Soyauxii.
 
-d'environ 10 fois leur largeur sur la tige..... 5. S. leoneensis.
+6'. Stems pale straw-coloured; microspores vermillion en masse.
 
----
+7. Sporophylls uniform; median leaves acuminate, serrulate..... 7. S. cathedrifolia.
 
-4'. Tiges couchées, généralement divisées dès la base, rhizophores aux nœuds.
-
-6. Tiges souvent de couleur orangée; feuilles latérales souvent réfléchies et enroulées; feuilles médianes obovales; microspores blanchâtres..... 6. S. Soyauxii.
-
-6'. Tiges straminées, pâles; microspores vermillon en masse.
-
-7. Sporophyllos uniformes; feuilles médianes acuminées, ser-rulées..... 7. S. cathedrifolia.
-
-7'. Sporophylles dimorphes; feuilles médianes acuminées-aris-
-
-tées ..... 8. S. molliceps.
+7'. Sporophylls dimorphic; median leaves acuminate-aristate..... 8. S. molliceps.
 
 ## Species in region
 

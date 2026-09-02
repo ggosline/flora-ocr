@@ -17,75 +17,25 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Lianes or sarmentose shrubs; white or clear exudate. Stipules reduced to straight lines connecting the petioles. Leaves opposite or more rarely in whorls of 3 or 4, often inserted on distinct leaf buds, with 2 to 20 axillary colleters or rarely with 5 colleters at the upper base of the petiole; lamina with secondary veins anastomosing at the margin, tertiary venation reticulate. Inflorescences terminal, rarely axillary or apparently so, often on short lateral branches, or in the forks, sessile or pedicellate with numerous flowers. Flowers actinomorphic or with unequal calyx lobes; calyx with lobes internally at the base without or with up to colleters per lobe; corolla with lobes overlapping to the right, often bearing an appendix in a filiform shape with a crown of 10 lobes inserted beside the base of the corolla lobes; stamens inserted at the level of the tube enlargement, anthers conniving, forming a closed cone around the pistil; disc absent; ovary with lobes partially connate from the base; style and pistil head detaching with the corolla. Infructescences bearing few or fruits. Fruits composed of rigid follicles or rarely flexuous, connate at the base, dehiscent adaxially by a longitudinal slit, almost fusiform with the greatest diameter in the basal half, barely retuse or with a broad and obtuse apex or terminating in a narrow and obtuse point or in a button; endocarp at maturity detached from the exocarp, rigid and parchment-like. Seeds almost fusiform, retuse at the beak; most specimens presenting a basal coma; and an apical rostrate coma; endosperm in a thin layer, completely surrounding the embryo.
 
-Lianes ou arbustes sarmenteux ; exsudat blanc ou clair . Stipules réduites à des lignes droites
+A genus comprising species in continental Africa, one in Madagascar and seven in Asia; at Gabon, ten species.
 
-reliant les pétioles. Feuilles opposées ou moins souvent en verticilles de 3 ou 4, souvent in-
+Vernacular names: the following names are common to all Strophanthus species: poison arrow, vines, spider tresses, sanglek, kémbé, benga, énéné, nii, néfangé, nébakotatamona, wimi, tsogo, ivé, abavo, vé, monalé, apindi, jimu, nadji, ba, punu, muna, wé, shiraba, vara, maba, vungu, bavili, balubu, massangungowe, muné, iban, zabina, nanyloangona, yaa, améké, akyembé, bakélé, ntébéseki, onawmpongwé, galo, ankomiogùngù, onna, yimindumu.
 
-sérées sur des bourgeons foliaires distincts, avec 2 à 20 collétères axillaires ou rarement avec
+B: Beentje (1982, 2002, 2021), Endress et al. (2019).
 
-5 collétères à la base supérieure du pétiole ; limbe à nervures secondaires anastomosées au
-
-bord, nervation tertiaire réticulée. ,QÀRUHVFHQFH s terminales, rarement axillaires ou en appa-
-
-rence comme telles, souvent sur des courtes branches latérales, ou dans les fourches, sessiles
-
-RXSpGRQFXOpHVDYHFXQHjGHQRPEUHXVHVÀHXUV Fleurs actinomorphes ou à lobes du calice
-
-LQpJDX[FDOLFHjOREHVjO¶LQWpULHXUjODEDVHVDQVRXDYHFMXVTX¶jFROOpWqUHVSDUOREH
-
-corolle à lobes recouvrant vers la droite Upwupflvvrxyhqwhqxqdsshqglfh¿OLIRUPH avec
-
-une couronne à 10 lobes insérée à côté de la base des lobes de la corolle ; étamines insérées
-
-au niveau de l’élargissement du tube, anthères conniventes, formant un cône fermé autour
-
-du pistil GLVTXHDEVHQWRYDLUHjORJHVSDUWLHOOHPHQWFRQQpHVjSDUWLUGHODEDVHVW\OHHW
-
-tête du pistil se détachant avec la corolle. Infrutescences QHSRUWDQWTXHRXIUXLWV Fruits
-
-composés de IROOLFXOHVULJLGHVRXUDUHPHQWÀH[XHX[ , connés à la base, déhiscents adaxia-
-
-lement par une fente longitudinale, presque fusiformes avec le plus grand diamètre dans la
-
-PRLWLpEDVDOHjSHLQHUpWUpFLVRXHI¿Opvuduhphqwyhuvodedvhvrlwdyhfxqvrpphwodujhhw
-
-obtus ou se terminant par une pointe étroite et obtuse ou par un bouton ; endocarpe à maturité
-
-détaché de l’exocarpe, rigide et parcheminé. Graines SUHVTXHIXVLIRUPHUpWUpFLHHQEHFDX
-
-VRPPHWSUpVHQWDQWXQFRPDEDVDOFDGXFFKH]ODSOXSDUWGHVHVSqFHVHWXQFRPDDSLFDOURVWUp
-
-endosperme en une couche mince, entourant complètement l’embryon.
-
-8QJHQUHFRPSUHQDQWHVSqFHVHQ$IULTXHFRQWLQHQWDOHXQHj0DGDJDVFDUHWVHSWHQ$VLH
-
-au Gabon, dix espèces.
-
-Noms vernaculaires : les noms suivants sont communs à toutes les espèces de Strophanthus : poison
-
-DUURZYLQHVSLGHUWUHVVHVDQJOpNqPEqEHQJDpQqpQLLQpIDQJpQqEDNRWDPRQDwPLWVRJR
-
-LYpDEDYRYpPRQDOqDSLQGMLPXQDGMLEDSXQXPXQDwpVKLUDEDYDUDPDEDYXQJXEDYLOLEDOXPEX
-
-PDVVDQJXQJRZpPXQqLEDQ]DELQDQ\LORDQJRQD\DDPqNqDN\qPEqEDNqOqQWpEpVpNL
-
-RQDwPSRQJZqJDORDQNRPLRUXQJXRQQD\LPLQGXPX
-
-B : Beentje (1982, 2002, 2021), Endress et al. (2019).
-
-IBLIOGRAPHIE
+BIBLIOGRAPHY
 
 ---
 
-&OpGHVHVSqFHVSRXUGHVSODQWHVÀRULIqUHV
+Key to species for flowering plants
 
-1. - Lobes de la corolle arrondis au sommet .......................................................... S. gratus
+1. - Corolla lobes rounded at the apex .......................................................... S. gratus
 
-- Lobes de la corolle à sommet aigu, acuminé ou caudé ............................................... 2
+- Corolla lobes acute, acuminate or caudate at the apex ............................................... 2
 
-2. - Lobes de la corolle aigus ou acuminés, non caudés au sommet ................. S. thollonii
+2. - Corolla lobes acute or acuminate, not caudate at the apex ................. S. thollonii
 
 ## Species in region
 

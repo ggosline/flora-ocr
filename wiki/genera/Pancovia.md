@@ -17,25 +17,23 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Small branched trees, with leaves 2–6 jugate. Leaflets entire, appearing glabrous, fairly coriaceous.
 
-Petits arbres rameux, à feuilles 2-6 juguées. Folioles entières, d'apparence glabre, assez coriaces.
-
-Inflorescences axillaires ou caulinaires, simples ou rameuses, formées d'épis de cymes scorpioides sessiles très contractées. Fleurs irrégulières, polygames, pédicellées, mâles et femelles dans une même inflorescence; calice fendu sur les 2/3 ou 3/4 de sa hauteur; sépales à préfloraison quinconciale, de largeur inégale, velus extérieurement et parfois aussi intérieurement; normalement 4 pétales supérieurs, parfois 3; onglet ± velu, limbe souvent ondulé au bord et frangé. L'écaille présente dans ce genre son maximum de complexité : le limbe est creusé à sa base en un entonnoir fendu du côté intérieur; de chaque côté de cette fente s'élèvent les deux moitiés de l'écaille, sous forme d'appendices voûtés, parfois pectinés, velus. De plus, ces deux appendices supportent à leur face dorsale, donc du côté du limbe, des excroissances fimbriées glabres. Au maximum de complication, il existe 4 griffes tournées vers l'intérieur et recourbées vers le bas, superposées deux à deux. Ces appendices sont parcourus par des faisceaux libéro-ligneux d'orientation inverse de celle des faisceaux du limbe (LEINFELLNER, p. 481). Disque excentrique du côté supérieur de la fleur, glabre, réniforme, simple ou ± 4-lobé; étamines (6-) 7-8 (-10) à filets velus, courbés vers le haut, anthères introrses, dorsifixes ou basifixes, glabres; ovaire à 3 (-4) silons, tomentelleux; style terminal.
+Inflorescences axillary or cauline, simple or branched, formed of spikes of very contracted sessile scorpioid cymes. Flowers irregular, polygamous, pedicellate, male and female in the same inflorescence; calyx split 2/3 or 3/4 of its height; sepals with quincuncial prefloration, of unequal width, hairy externally and sometimes also internally; normally 4 upper petals, sometimes 3; claw ± hairy, limb often undulate at margin and fringed. The scale in this genus displays its maximum complexity: the limb is excavated at its base into a funnel split on the inner side; from each side of this slit rise the two halves of the scale, in the form of vaulted appendages, sometimes pectinate, hairy. Moreover, these two appendages bear on their dorsal face, thus on the limb side, glabrous fimbriate excrescences. At maximum complication, there exist 4 claws directed inward and recurved downward, superposed in pairs. These appendages are traversed by libero-ligneous bundles of orientation inverse to that of the bundles of the limb (LEINFELLNER, p. 481). Disk eccentric on the upper side of the flower, glabrous, reniform, simple or ± 4-lobed; stamens (6–) 7–8 (–10) with hairy filaments, curved upward, anthers introrse, dorsifixed or basifixed, glabrous; ovary with 3 (–4) furrows, tomentellous; style terminal.
 
 ---
 
-Fruit bacciforme, coriace, à 3 profonds sillons ou 3 lobes bien séparés, parfois ailés; style persistant et pouvant être alors subgynobasique; graine elliptique, comprimée latéralement, tégument brun scrobiculé; embryon à cotylédons dressés, réserve amylacée à cellules tannifères brunes, radicule petite, infère.
+Fruit bacciform, coriaceous, with 3 deep furrows or 3 well-separated lobes, sometimes winged; style persistent and possibly then subgynobasic; seed elliptic, laterally compressed, testa brown scrobiculate; embryo with erect cotyledons, starch reserve with brown tanniliferous cells, radicle small, inferior.
 
-### Espèce-type : Pancovia bijuga Willd.
+### Type species: Pancovia bijuga Willd.
 
-Une douzaine d'espèces en Afrique tropicale; leur définition est souvent imprécise car les fruits sont insuffisamment connus; certaines ne sont pas indiquées dans la clé mais annexées aux descriptions qui la suivent.
+About a dozen species in tropical Africa; their definition is often imprecise because fruits are insufficiently known; some are not indicated in the key but annexed to the descriptions that follow.
 
-1. Feuilles 2-5-juguées; folioles acuminées ou non, à marges courbes; calice velu sur les 2 faces
+1. Leaves 2–5-jugate; leaflets acuminate or not, with curved margins; calyx hairy on both faces
 
-2. Folioles sans acumen net, sauf chez P. harmsiana, (1)-2-3-juguées, env. 10 paires de nervures; légèrement discolores, largeur maximum au milieu; sépales velus sur les 2 faces, poils 0,3-0,5 mm. (L/l rapport longueur largeur des folioles).
+2. Leaflets without sharp acumen, except in P. harmsiana, (1)–2–3-jugate, ca. 10 pairs of nerves; slightly discolorous, maximum width at middle; sepals hairy on both faces, hairs 0.3–0.5 mm. (L/w ratio length width of leaflets).
 
-3. Épis d'env. 1 cm; folioles : L/l = 3,5 à 4,2, dessus vert-bleu, dessous vert olive; pétiole lisse; pédicelle 3-7 mm; pétales 7-9 mm plus grands que sépales; disque 4-lobé..... 1. P. harmsiana.
+3. Spikes ca. 1 cm; leaflets: L/w = 3.5 to 4.2, upper side blue-green, lower side olive green; petiole smooth; pedicel 3–7 mm; petals 7–9 mm larger than sepals; disk 4-lobed..... 1. P. harmsiana.
 
 ## Species in region
 

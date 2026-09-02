@@ -17,25 +17,23 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+### Large or small trees.
 
-### Arbres grands ou petits.
+Leaves alternate, simple and entire, often bearing glands on the margins (stipitate glands near the petiole); penninerved. Large lateral veins, at least the upper ones, anastomosing a few mm from the margin; tertiary veins semiparallel and almost perpendicular to the midvein.
 
-Feuilles alternes, simples et entières, souvent munies de glandes sur les marges (glandes stipitées près du pétiole) ; pennatinervées Grandes nervures latérales, au moins les supérieures, anastomosées à quelques mm de la marge, nervures III semiparallèles et presque perpendiculares à la médiane.
+Flowers 5-merous, pedicel distinct. Receptacle broadly infundibuliform to campanulate. Petals with ciliate margin, glabrous elsewhere. Stamens 10, biseriate; filaments glabrous; anthers often septate. Pistil: a single semi-superior ovary biovulate and a single style.
 
-Fleurs 5-mères, pédicelle distinct. Réceptacle largement infundibiliforme à campanulé. Pétales à marge ciliée, partout ailleurs glabres. Étamines 10, bisériées ; filets glabres ; anthères souvent cloisonnées. Pistil : un seul ovaire semi-supère biovulé et un style unique.
+Fruit monospermic, resembling a large gall, subspherical, sessile, succulent, glabrous, with the receptacle very often visible at the base of the fruit.
 
-Fruit monosperme imitant une grosse galle, subspérique, sessile, succulent, glabre, avec le réceptacle très souvent visible à la base du fruit.
+Seed with 2 succulent cotyledons, ± plano-convex, without albumen. Hypogeal germination, cotyledons remaining in the fruit; first leaves scale-like.
 
-Graine à 2 cotylédons succulents, ± plan convexes, sans albumen. Germination hypogée, cotylédons restant dans le fruit ; premières feuilles en forme d'écailles.
+The genus comprises three (perhaps four) species restricted to humid tropical Africa.
 
-Le genre comprend trois (peut-être quatre) espèces limitées à l’Afrique tropicale humide.
+### KEY TO SPECIES
 
-### CLÉ DES ESPÈCES
+1. Inflorescences and flowers almost glabrous; young leaves, pubescence scarcely visible; length of the inflorescence rachis always < 2.5 cm (generally ≈ 1 cm). Trees always found in marshy places ..... S. mannii
 
-1. Inflorescences et fleurs presque glabres ; jeunes feuilles, pubescence très peu visible ; longueur du rachis de l'inflorescence toujours < 2,5 cm (en général ≈ 1 cm). Arbres toujours rencontrés dans les lieux marécageux ..... S. mannii
-
-1'. Inflorescences, fleurs et jeunes feuilles, pubescence bien visible ; longueur du rachis de l'inflorescence en général très > 2,5 cm. Arbres rares dans les lieux marécageux ..... S. sericeum
+1'. Inflorescences, flowers and young leaves, pubescence clearly visible; length of the inflorescence rachis generally much > 2.5 cm. Trees rare in marshy places ..... S. sericeum
 
 ## Species in region
 

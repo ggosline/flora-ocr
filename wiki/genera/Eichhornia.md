@@ -17,47 +17,23 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Aquatic herbs, floating or rooted, annual to perennial, with sympodial growth.
 
-Herbes aquatiques, flottantes ou enracinées, annuelles à vivaces, croissance sympodiale.
+Leaves in rosette or alternate, the submerged and emergent sometimes of similar form, sometimes also the submerged ones strongly dimorphic: either ribbon-like and then lacking a petiole, or differentiated into petiole and limb. Flowers in spikes, panicles or solitary, sessile; lower spathe foliaceous or reduced to a swollen or convolute sheath, upper spathe scaly; perianth infundibuliform, with 6 slightly unequal lobes, blue to pink, with glandular hairs; stamens 6, 3 longer, filaments with glandular hairs, anthers dorsifixed; ovary 3-locular, ovules numerous; style filiform. Fruits capsular, loculicidal, ovoid to fusiform-linear, surrounded by the withered perianth; pericarp membranous. Seeds numerous, oblong to ellipsoid, longitudinally striate-winged.
 
-Feuilles en rosette ou alternes, les immergées et émergées parfois de forme semblable,
-
-parfois aussi les immergées fortement dimorphes : soit rubanées et alors dépourvues de
-
-pétiole, soit différenciées en pétiole et limbe. Fleurs en épis, panicules ou solitaires, ses-
-
-siles ; spathe inférieure foliacée ou réduite à une gaine renflée ou convolutée, spathe
-
-supérieure écailleuse ; périgone infundibuliforme , à 6 lobes légèrement inégaux, bleu à
-
-rose, à poils glanduleux ; étamines 6 , 3 plus longues, filets à poils glanduleux, anthères
-
-dorsifixes ; ovaire 3-loculaire , ovules nombreux ; style filiforme. Fruits capsulaires,
-
-loculicides , ovoïdes à fusiformes-linéaires, entourées du périgone fané ; péricarpe mem-
-
-braneux. Graines nombreuses, oblongues à ellipsoïdes, striées-ailées longitudinalement.
-
-Genre comprenant 7 ou 8 espèces, dont une seule indigène et une autre naturalisée en
-
-Afrique y compris le Gabon, les autres en Amérique tropicale et subtropicale.
+Genus comprising 7 or 8 species, of which only one is indigenous and another naturalized in Africa including Gabon, the others in tropical and subtropical America.
 
 ---
 
-B : Catarino & Martins (1997), Cook (1998), Lawalrée & Bruynseels (1981),
+Bibliography
 
-i B liographie
+B: Catarino & Martins (1997), Cook (1998), Lawalrée & Bruynseels (1981), Verdcourt (1968).
 
-Verdcourt (1968).
+### Key to species
 
-### Clé des espèces
+1. - Alternate leaves, arranged along a stem; petiole not swollen; flowers solitary ..................................................................................................... E. natans
 
-1. - Feuilles alternes, disposées le long d’une tige ; pétiole non renflé ; fleurs
-
-solitaires ..................................................................................................... E. natans
-
-- Feuilles en rosette flottante ; pétiole renflé ; fleurs en épi ...................... E. crassipes
+- Leaves in floating rosette; petiole swollen; flowers in spike ...................... E. crassipes
 
 ## Species in region
 

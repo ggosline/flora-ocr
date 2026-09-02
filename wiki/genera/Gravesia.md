@@ -17,17 +17,15 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Perennial herbs, shrublets or shrubs.
 
-Herbes pérennes, arbrisseaux ou arbustes.
+Terminal cymes, umbelliform or paniculate, sometimes very reduced. Flowers 4- or 5-merous. Hypanthium 4- or 5-angled, sometimes winged on the ribs, glabrous or variously pubescent; calyx always short, entire to briefly lobed or dentate. Stamens homomorphic, strictly lacking a pediconnective, but the anther often prolonged by a dorsal appendage. Ovary variously adnate to the hypanthium; apex always glabrous, depressed to concave, with an epigynous crown ± accrescent on the fruit.
 
-Cymes terminales, ombelliformes ou paniculées, parfois très réduites. Fleurs 4- ou 5-mères. Hypanthe 4- ou 5-gone, parfois ailé sur les côtes, glabre ou diversement indumenté; calice toujours court, entier à brièvement lobé ou denté. Étamines homorophes, strictement sans pédoconnectif, mais l'anthère souvent prolongée par un appendice dorsal. Ovaire diversement adhérent à l'hypanthe; sommet toujours glabre, déprimé à concave, avec couronne épigyne ± accrescente sur le fruit.
+Capsule often exsert from the crown; placentas sessile or stipitate. Seeds cuneiform, papillose, funiculate.
 
-Capsule souvent exserte par la couronne; placentas sessiles ou stipités. Graines cunéiformes, papilleuses, funiculées.
+Type species: G. bertolonioides Naud., Madagascar.
 
-Espécies-type : G. bertolonioides Naud., Madagascar.
-
-Genre très important à Madagascar; quelques espèces en Afrique orientale (Tanzanie) et au Kivou; seulement représenté à l'ouest par l'espèce du Gabon. Ce sont des plantes sylvicoles, peu compétitives.
+Very important genus in Madagascar; a few species in East Africa (Tanzania) and in Kivu; represented in the west only by the Gabon species. These are sylvicole plants, with low competitiveness.
 
 ## Species in region
 

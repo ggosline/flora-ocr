@@ -17,17 +17,13 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Perennial herbs, with elongated rhizomes, bearing leaves in dense basal tufts.
 
-Herbes pércnnes, longuement rhizomateuses, à feuilles bas-
+Inflorescences silky silvery. Spikelets all similar, generally in pairs, one of them with a longer pedicel than the other, arranged on the branches of a spiciform panicle. Spikelets with two florets, the lower one neutral and reduced to a lemma. Glumes similar, membranous, with three to nine nerves, enclosed by long silvery hairs attached to the callus or the base of the glumes. Lemmas of the lower floret hyaline, smaller than the glumes; lower lemma of the upper floret similar, hyaline, awnless; upper lemma hyaline, without nerves. No lodicules; 2 stamens, styles fused at the base, stigmas linear.
 
-laires en touffes denses.
+Belonging to the group of Saccharastreae, Imperata cylindrica is characterized essentially by its spikelets all pedicelled and its inflorescences in spiciform panicles.
 
-Inflorescences soyeuses argentées. Épilets tous semblables, généralement par paires, l'un deux plus longuement pédicellé que l'autre, disposés sur les branches d'une panicule spiciforme. Epilets à deux fleurs, l'inférieure neutre et réduite à une glumelle. Glumes semblables, membraneuses, avec trois à neuf nervures, enveloppées par de longs poils argentés fixés sur le callus ou la base des glumes. Glumelles de la fleur inférieure hyaline, plus petite que les glumes; glumelle inférieure de la fleur supérieure semblable, hyaline, mutique; glumelle supérieure hyaline, sans nervures. Pas de lodicules; ou 2 étanines, styles soudés à la base, stigmates linéaires.
-
-Appartenant au groupe des Saccharastrées, l’Imperata cylindrica se caractérise essentiellement par ses épilets tous pédicellés et ses inflorescences en panicules spiciformes.
-
-Le genre compte 5 ou 6 espèces, très proches les unes des autres, des régions chaudes du monde entier.
+The genus comprises 5 or 6 species, very closely related to each other, from the warm regions of the entire world.
 
 ## Species in region
 

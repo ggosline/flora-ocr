@@ -17,27 +17,15 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Trees or shrubs, with lenticellate bark. Leaves often distichous; blade with entire margins. Inflorescences axillary, the male ones fasciculate, the female ones solitary to ternate.
 
-Arbres ou arbustes, à écorce lenticellée . Feuilles souvent distiques ; limbe à marges en -
+Flowers unisexual, dioecious, 4-merous, apetalous. Male flowers: sepals ± connate at the base, imbricate; stamens 4, free; disc prominent, ± entire; pistillode absent. Female flowers with sepals and disc similar to the male flower; ovary (2–)3–4-locular, with 2 ovules per locule; styles ± connate, bifid at the apex. Fruits capsular, dehiscent, 2–4-lobed. Seeds (1–)2 per locule, albuminous.
 
-tières. Inflorescences axillaires, les mâles fasciculées, les femelles solitaires à ternées.
+Genus circumtropical with approximately 14 species, only one of which occurs in continental Africa.
 
-Fleurs unisexuées, dioïques, 4-mères, apétales . Fleurs mâles : sépales ± soudés à la base,
+b: Radcliffe-Smith (2001), Webster (1979, 1994).
 
-imbriqués ; étamines 4, libres ; disque proéminent , ± entier ; pistillode absent . Fleurs
-
-femelles à sépales et disque semblables à la fleur mâle ; ovaire (2–)3–4-loculaire, à 2
-
-ovules par loge ; styles ± soudés, bifides au sommet. Fruits capsulaires, déhiscents, 2–4
-
-lobés. Graines (1–)2 par loge, albuminées.
-
-Genre circumtropical d’environ 14 espèces dont une seule en Afrique continentale.
-
-b : Radcliffe-Smith (2001), Webster (1979, 1994).
-
-ibliographie
+ibliography
 
 ## Species in region
 

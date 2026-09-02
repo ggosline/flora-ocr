@@ -17,25 +17,23 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Shrubs or tall bushes. Stipules acute, caducous. Petioles short. Leaves alternate, simple, entire and acuminate. 2 basal nerves on either side of the midvein. Numerous small axillary domatia open on the lower face of the limb and situated at the axils of many nerves.
 
-Arbrisseaux ou arbustes élevés. Stipules aiguës caduques. Pétioles courts. Feuilles alternes, simples, entières et acuminées. 2 nervures basilaires de part et d'autre de la médiane. Nombreuses petites domacies axillaires ouvertes à la face inférieure du limbe et situées aux aisselles de beaucoup de nervures.
+Inflorescences in brief axillary cymes. Pedicels articulate. Flowers hermaphrodite. 5 valvate sepals, elongate, free. 5 very short petals, more or less rounded and concave, with pubescent margin, applied to the base of the stamineal fascicles. 5 stamineal fascicles opposite the petals, fused basally into a short collar; 1 to 5 staminodes exterior or aborted stamens per fascicle, with 2–8 fertile stamens, for a total of 3 to 10 pieces per fascicle. 5 small internal staminodes fused to the collar and alternating with the fascicles. Anthers with two lobes opposite with lateral dehiscence, more rarely juxtaposed extrorse. Ovary with 2–5 multi-ovulate locules; 5–10 biseriate ovules per locule. Central style with terminal denticulate stigma. Globoid capsule, non-spiny, with 2–5 locules, with irregular loculicidal dehiscence. Seed black with red-orange fleshy aril, albuminous, with flat cotyledons.
 
-Inflorescences en brèves cymes axillaires. Pédicelles articulés. Fleurs hermaphrodites. 5 sépales valvaires, allongés, libres. 5 pétales très courts, plus ou moins arrondis et concaves, à marge pubescente, appliqués sur la base des faisceaux staminaux. 5 faisceaux staminaux oppositipétales, soudés basalement en une courte collerette; 1 à 5 staminoides extérieurs ou étamines avortées par faisceau, avec 2-8 étamines fertiles, soit un total de 3 à 10 pièces par faisceau. 5 petits staminoides internes soudés à la collerette et alternant avec les faisceaux. Anthères à deux loges opposées à déhiscence latérale, plus rarement juxtaposées extrorses. Ovaire à 2-5 loges multioulées; 5-10 ovules bisériés par loge. Style central à stigmate terminal denticulé. Capsule globoïde non épineuse à 2-5 loges, à déhiscence loculicide irrégulière. Graine noire à arille charnu rouge orangé, albuminée, à cotylédons plats.
+About thirty species principally African. The genus is otherwise known from tropical Asia, the Dutch Indies and the Philippine islands. Genus very homogeneous in Africa and whose species are difficult to define. 2 species in Gabon (1).
 
-Une trentaine d’espèces principalement africaines. Le genre est connu en outre d’Asie tropicale, des Indes néerlandaises et des îles Philippines. Genre très homogène en Afrique et dont les espèces sont difficilement définissables. 2 espèces au Gabon (1).
+Type species, L. glabra Turez. from Asia.
 
-Espèce type, L. glabra Turez. d'Asie.
-
-(1) Nos récentes prospections dans la région de Makokou, permettent d'ajouter une troisième espèce : Leptonychia cf. batangensis (C. H. Wright) Burr. Seuls les fruits ont pu être étudiés (pl. 25). Matériel récolté : N. Hallé 1074, 1195, 1488, Makokou (fr. verts, fév.-mars).
+(1) Our recent prospecting in the Makokou region allows us to add a third species: Leptonychia cf. batangensis (C. H. Wright) Burr. Only the fruits could be studied (pl. 25). Material collected: N. Hallé 1074, 1195, 1488, Makokou (green fr., Feb.–Mar.).
 
 ---
 
-Feuilles de plus de 7 cm de largeur; pétales à face externe glabre.....
+Leaves more than 7 cm wide; petals with external face glabrous.....
 
 1. L. echinocarpa.
 
-Feuilles de moins de 6 cm de largeur; pétales à face externe pubescente..
+Leaves less than 6 cm wide; petals with external face pubescent..
 
 2. L. sp. aff. lasiogyne.
 

@@ -17,73 +17,27 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Lianes or climbing shrubs with white latex or clear exudate in all parts.
 
-Lianes ou arbustes grimpants avec un latex blanc ou un exsudat clair dans toutes les parties.
+Stipules intrapetiolar, narrow, formed by ochreae often enlarged. Leaves opposite; petiole without supra-axillary glands; limb with reticulate tertiary venation. Inflorescences terminal and sometimes also axillary, cymose, lax, very dense with some or more bracteate flowers, sepaloid. Flowers generally perfumed, calyx globose, subequivalent, furnished with colleters inside at the base; bud with corolla lobes overlapping to the right and of a variable form, more or less characteristic for the species; corolla always pubescent internally with straight hairs directed downward in a band just below the insertion of the stamens; stamens with apex above or below the throat; disk absent; ovary with carpels separated united in an ovary with locules (in A. multiflora); style head of variable form, the base coherent with the anthers, of a cone or a cylinder basally generally with a ring at the summit and an apex stigmatoid bilobed. Fruits of 2 follicles separated, syncarpous (in A. multiflora), often very long, linear, cylindrical, longitudinally dehiscent on the adaxial side. Seeds narrowly elliptic, apex directed toward the apex of the follicle, with a longitudinal line hollowed or in relief on the flat or concave side and smooth or with several longitudinal lines in relief on the other convex side, furnished with a short wing at the base, coma situated at the summit, longer than the grain, of simple hairs in tufts or on a beak endosperm surrounding the embryon.
 
-Stipules intrapétiolaires étroites formées par des ochréas souvent élargis. Feuilles opposées ;
+Genus comprising eleven species in continental Africa and eight endemic species in Madagascar. In Gabon, eight species.
 
-pétiole sans glandes supra-axillaires ; limbe à nervures tertiaires réticulées . ,QÀRUHVFHQFHV
+Notes: In the key below and in those of previous publications, the color of the corolla is important for the identification of species, while for many herbarium specimens it is often not known. The taxonomy of this genus is therefore not very solid. More field notes and photographs could improve the situation.
 
-WHUPLQDOHVHWSDUIRLVDXVVLD[LOODLUHVF\PHXVHVOkFKHVjWUqVGHQVHVDYHFTXHOTXHVRXSOX -
+B: Beentje (2021), Endress et al. (2019), Leeuwenberg (1997a), Leeuwenberg & Kupicha
 
-VLHXUVÀHXUVEUDFWpHVVpSDORwGHV Fleurs Jpqpudohphqwsduixpphvfdolfhjorehvvxeptxl -
-
-valents, munis de collétères à l’intérieur à la base ; bouton à lobes de la corolle se chevau-
-
-chant à droite jWrWHG¶XQHIRUPHYDULDEOHSOXVRXPRLQVFDUDFWpULVWLTXHSRXUO¶HVSqFH
-
-corolle toujours pubescente intérieurement à poils droits dirigés vers le bas en une bande
-
-juste sous l’insertion des étamines ; étamines à sommet au-dessus ou au-dessous de la gorge ;
-
-GLVTXHDEVHQWRYDLUHjFDUSHOOHVVpSDUpVXQLVGDQVXQRYDLUHjORJHVFKH] $PXOWLÀRUD ) ;
-
-tête du pistil de forme variable, la base cohérente avec les anthères, d’un cône ou d’un cy-
-
-OLQGUHEDVDOJpQpUDOHPHQWDYHFXQDQQHDXDXVRPPHWHWXQDSH[VWLJPRwGHELOREp Fruits de 2
-
-follicules Vpsdupvv\QFDUSHFKH] $PXOWLÀRUD ), souvent très longs, linéaires, cylindriques ,
-
-longitudinalement déhiscents du côté adaxial. Graines pWURLWHPHQWHOOLSWLTXHVjVRPPHWGL -
-
-rigé vers l’apex du follicule, avec une ligne longitudinale en creux ou en relief sur le côté plat
-
-ou concave et lisse ou avec plusieurs lignes longitudinales en relief sur l’autre côté convexe,
-
-PXQLHVG¶XQHDLOHFRXUWHjODEDVHFRPDVLWXpDXVRPPHWSOXVORQJTXHODJUDLQHGHSRLOV
-
-VLPSOHVHQWRXIIHRXVXUXQEHFHQGRVSHUPH¿QHQWRXUDQWO¶HPEU\RQ
-
-*HQUHFRPSUHQDQWHVSqFHVHQ$IULTXHFRQWLQHQWDOHHWKXLWHVSqFHVHQGpPLTXHVj0DGDJDV -
-
-car. Au Gabon, huit espèces.
-
-Notes : Dans la clé ci-dessous et dans celles des publications précédentes, la couleur de la corolle est
-
-LPSRUWDQWHSRXUO¶LGHQWL¿FDWLRQGHVHVSqFHVDORUVTXHSRXUGHQRPEUHX[VSpFLPHQVG¶KHUELHUHOOHQ¶HVW
-
-souvent pas connue. La taxonomie de ce genre n’est donc pas très solide. Plus de notes de terrain et de
-
-photos pourraient améliorer la situation.
-
-B : Beentje (2021), Endress et al. (2019), Leeuwenberg (1997a), Leeuwenberg & Kupicha
-
-IBLIOGRAPHIE
+BIBLIOGRAPHY
 
 (1985), Omino (2002), Pichon (1954b).
 
-### Clé des espèces
+### Key to the species
 
-1. - Limbe foliaire à nervures latérales plutôt droites, formant un angle de 25–35º avec
-
-ODPpGLDQHFRUROOHjOREHVVSDWKXOLIRUPHV±IRLVDXVVLORQJVTXHOHWXEH
-
-GDQVOHERXWRQIRLVDXVVLORQJVTXHOHWXEHWRUGXVLQÀRUHVFHQFHSOXW{WOkFKH
+1. - Leaf limb with lateral veins rather straight, forming an angle of 25–35º with the median; corolla with spathulifome lobes ± times as long as the tube; in the bud sometimes also as long as the tube and twisted; in inflorescence rather lax
 
 ................................................................................................................... A. benthamii
 
-/LPEHIROLDLUHjQHUYXUHVODWpUDOHVSOXVpWHQGXVIRUPDQWXQDQJOHGHDYHFOD
+Leaf limb with lateral veins more extended, forming an angle of with the
 
 ## Species in region
 

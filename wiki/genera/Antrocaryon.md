@@ -17,63 +17,25 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Trees of medium to large size, deciduous; trunk cylindrical. Leaves alternate, imparipinnate; leaflets in 5 to 9 pairs, with entire blade, with 10 to 30 pairs of parallel lateral veins, arched, anastomosing toward the margin. Inflorescences terminal or axillary, in ± loose panicles. Flowers unisexual, dioecious, with rudiments of the opposite sex aborted, 5-merous, with imbricate or valvate prefloration. Male flowers: calyx slightly gamosepalous, pateliform; petals pubescent on both surfaces; stamens 10; disk thick. Female flowers slightly larger than the male ones, with calyx and corolla similar to those of the male flower; staminodes 10; ovary subglobose, 5-locular; styles 5, short, subapical. Fruits flattened to subglobose; endocarp 5- or 6-lobed or 5-gonal, with 5 subapical opercules. Seeds oblong, with thin testa. Seedlings with epigeal cotyledons, plano-convex; the 2 first leaves opposite, 3-foliolate.
 
-Arbres de taille moyenne à grande, caducifoliés ; tronc cylindrique. Feuilles alternes, impa -
+African genus with three species, two of which in Gabon.
 
-ripennées ; folioles en 5 à 9 paires, à limbe entier, avec 10 à 30 paires de nervures latérales
+Notes: Keay (1958), in Flora of West Tropical Africa, cites the presence of Antrocaryon micraster A.Chev. & Guill. from West Africa for Cameroon, Uganda and the Democratic Republic of the Congo. However, Van der Veken (1960a) does not mention this species. Nevertheless, it appears in the Check-list of vascular plants of Gabon (Sosef et al. 2006). The collections cited there under A. micraster very probably represent A. nannanii entirely.
 
-parallèles, arquées, anastomosées vers le bord. Inflorescence terminales ou axillaires, en pani -
+B: Keay (1958), Kokwaro (1986), Pell et al. (2011), Van der Veken (1960a).
 
-cules ± lâches. Fleurs unisexuées, dioïques , à rudiments du sexe opposé avorté, 5-mères,
+Bibliography
 
-à préfloraison imbriquée ou valvaire. Fleurs mâles : calice légèrement gamosépale, patelli -
+### Key to the species
 
-forme ; pétales pubescents sur les deux faces ; étamines 10 ; disque épais. Fleurs femelles
-
-légèrement plus grandes que les mâles, à calice et corolle semblables à ceux de la fleur mâle ;
-
-staminodes 10 ; ovaire subglobuleux, à 5 loges ; styles 5 , courts, subterminaux. Fruits aplatis
-
-à subglobuleux ; endocarpe 5- ou 6-lobé ou 5-gonal, à 5 opercules subapicaux. Graines oblon -
-
-gues, à testa mince. Plantules à cotylédons épigés, plans-convexes ; les 2 premières feuilles
-
-opposées, 3-foliolées .
-
-Genre africain à trois espèces dont deux au Gabon.
-
-Notes : Keay (1958), dans Flora of West Tropical Africa , cite la présence d’ Antrocaryon micraster
-
-A.Chev. & Guill. de l’Afrique de l’Ouest pour le Cameroun, l’Ouganda et la République démocratique
-
-du Congo. Pourtant, Van der Veken (1960a) ne mentionne pas cette espèce. Néanmoins, elle figure dans
-
-Check-list des plantes vasculaires du Gabon (Sosef et al. 2006). Les collections qui y sont citées sous A.
-
-micraster représentent très probablement toutes A. nannanii .
-
-B : Keay (1958), Kokwaro (1986), Pell et al. (2011), Van der Veken (1960a).
-
-i B liographie
-
-### Clé des espèces
-
-1. - Folioles avec 10 à 14 paires de nervures latérales (principales et celles entre les
-
-principales) ; noyau aplati, 5- ou 6-lobulé, 1–1,5 cm de hauteur et 2,2–2,6 cm de
-
-diamètre ..................................................................................................... A. klaineanum
+1. – Leaflets with 10 to 14 pairs of lateral veins (principal ones and those between the principal ones); stone flattened, 5- or 6-lobed, 1–1.5 cm in height and 2.2–2.6 cm in diameter ..................................................................................................... A. klaineanum
 
 ---
 
 4 Frans J. BRETELER
 
-- Folioles avec 20 à 30 paires de nervures latérales (principales et celles entre les
-
-principales) ; noyau subsphérique à largement obovoïde, ± comprimé latéralement,
-
-3,5–4,5 cm de hauteur, 3–3,5 cm de largeur et 3,5–4 cm d’épaisseur ........... A. nannanii
+– Leaflets with 20 to 30 pairs of lateral veins (principal ones and those between the principal ones); stone subspherical to broadly obovoid, ± compressed laterally, 3.5–4.5 cm in height, 3–3.5 cm in width and 3.5–4 cm in thickness ........... A. nannanii
 
 ## Species in region
 

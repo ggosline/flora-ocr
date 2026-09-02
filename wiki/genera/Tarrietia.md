@@ -17,17 +17,15 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Large trees with entire, lobed or digitately compound leaves, variable on the same branch, with scaly hairs beneath the limb, petiolate, alternate.
 
-Grands arbres à feuilles entières, lobées ou composées digitées, variables sur un même rameau, à poils écailleux sous le limbe, pétiolées, alternes.
+Inflorescences multiflorous, axillary, paniculate. Flowers ♂ or ♀. Calyx campanulate with 4–5 teeth, clothed with stellate hairs. Corolla absent. ♂ Flower comprising a disc surrounding the base of the androphore, and a regular staminodial crown. ♀ Flower with 3–5 carpels opposite the sepals, erect on a disc, uniovulate, free; stamens aborted at the base of the gynoecium.
 
-Inflorescences multiflores axillaires paniculées. Fleurs ou ♀. Calice campanulé à 4-5 dents, vêtu de poils stellés. Corolle absente. Fleur ♂ comportant un disque entourant la base de l'androphore, et une couronne staminale régulière. Fleur ♀ à 3-5 carpelles opposés aux sépales, dressés sur un disque, univoulés, libres; étamines avortées à la base du gynécée.
+Fruit composed of indehiscent "samaras" (up to 5). Wing large, thin and veined. Seed albuminous; radicle situated on the side of the hilum.
 
-Fruit composé de «samares» indéhiscentes (jusqu'à 5). Aile grande, mince et veinée. Graine albuminée; radicule située du côté du hile.
+Type species: Tarrietia javanica Bl., from Indonesia.
 
-Espèce type : Tarrietia javanica Bl., d'Indonésie.
-
-Les Tarrietia se distinguent nettement des genres voisins par l'aile mince des follicules du fruit. Ce genre principalement représenté en Indo-Malaisie, comporte en Afrique deux espèces voisines entre elles, dont les aires de répartition sont séparées, le Niangon d'Afrique Occidentale et l'Ogoué du Gabon.
+Tarrietia is clearly distinguished from neighbouring genera by the thin wing of the fruit follicles. This genus, principally represented in Indo-Malaysia, comprises in Africa two species closely related to each other, whose distribution areas are separate, the Niangon of West Africa and the Ogoué of Gabon.
 
 ## Species in region
 

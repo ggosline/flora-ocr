@@ -17,51 +17,13 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Herbs annual or perennial, more rarely shrubs or small trees, unarmed; stems often pubescent with simple glandular or viscous hairs. Leaves alternate, simple, petiolate or sessile; blade with entire margin. Inflorescences terminal, in racemes or panicles, subtended by bracts, with numerous flowers, rarely solitary. Flowers bisexual, 5-merous, actinomorphic or slightly zygomorphic, often opening at night; pedicel bracteolate, erect to curved; calyx persistent and often accrescent on the fruit, tubular to narrowly campanulate, with equal or unequal lobes; corolla infundibuliform, urceolate or trumpet-shaped, with short lobes, with valvate-induplicate aestivation; stamens equal or slightly unequal, inserted towards the base of the tube, filament glabrous or pubescent, anther dorsifixed, spherical or ovoid to ellipsoid; disc prominent, annular or cupuliform; ovary 2(–4)-locular, glabrous; style filiform, glabrous, with capitate or bilobed stigma. Fruits: capsules smooth, with septicidal and loculicidal dehiscence by 4 dehiscence slits (2 valves that open in two), with numerous seeds. Seeds spherical to ellipsoid, angular, with reticulate-alveolate testa; embryo straight or curved.
 
-Herbes annuelles ou pérennes, plus rarement arbustes ou petits arbres , inermes ; tiges souvent
+Genus of approximately 60 species whose centre of diversity corresponds to the high plateaux of South America. Also present at lower altitude, with species in the subtropical regions of the New World, in the islands of the Pacific Ocean, in Australia and in South-West Africa. The species used for tobacco production (N. tabacum L.) is the only one present in Gabon.
 
-pubescentes à poils simples glanduleux ou visqueux . Feuilles alternes, simples, pétiolées
+Bibliography
 
-ou sessiles ; limbe à bord entier. Inflorescences terminales, en grappes ou panicules, axillées
-
-par des bractées, à fleurs nombreuses, rarement solitaires. Fleurs bisexuées, 5-mères, actino -
-
-morphes ou légèrement zygomorphes, s’ouvrant souvent la nuit ; pédicelle bractéolé, dressé
-
-à recourbé ; calice persistant et souvent accrescent sur le fruit , tubuleux à étroitement cam-
-
-panulé, à lobes égaux ou inégaux ; corolle infundibuliforme, urcéolée ou en trompette , à
-
-lobes courts, à préfloraison valvaire-indupliquée ; étamines égales ou légèrement inégales,
-
-insérées vers la base du tube, filet glabre ou pubescent, anthère dorsifixe, sphérique ou ovoïde
-
-à ellipsoïde ; disque proéminent, annulaire ou cupuliforme ; ovaire 2(–4)-loculaire, glabre ;
-
-style filiforme, glabre, à stigmate capité ou bilobé. Fruits : capsules lisses, à déhiscence septi-
-
-cide et loculicide par 4 fentes de déhiscence (2 valves qui s’ouvrent en deux), à nombreuses
-
-graines. Graines sphériques à ellipsoïdes, anguleuses, à testa réticulé-alvéolé ; embryon droit
-
-ou courbé.
-
-Genre d’environ 60 espèces dont le centre de diversité correspond aux hauts plateaux de
-
-l’Amérique du Sud. Présent aussi à plus basse altitude, avec des espèces dans les régions
-
-subtropicales du Nouveau Monde, dans les îles de l’Océan Pacifique, en Australie et au Sud-
-
-Ouest de l’Afrique. L’espèce utilisée pour la production du tabac ( N. tabacum L.) est la seule
-
-présente au Gabon.
-
-B : Barboza et al. (2016), Bikandu et al. (2020), Edmonds (2012), Hunziker (2001), Goods-
-
-i B liographie
-
-peed (1954).
+B: Barboza et al. (2016), Bikandu et al. (2020), Edmonds (2012), Hunziker (2001), Goodspeed (1954).
 
 ## Species in region
 

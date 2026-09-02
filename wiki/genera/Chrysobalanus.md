@@ -17,19 +17,17 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Shrubs or small trees, with intrapetiolar stipules. Leaf blade with lower surface glabrous, bearing 2-4 glands towards the base.
 
-Arbustes ou petits arbres, à stipules intrapétiolaires. Limbe à face inférieure glabre garnie de 2-4 glandes vers la base.
+Inflorescences few-flowered, cymose or in short racemes of cymules, or false racemes, or subsessile fascicles; bracts and bracteoles small, tardily caducous. Flowers actinomorphic, hermaphrodite; receptacle cupuliform, pubescent internally and externally; calyx lobes (sepals) 5, subequal; petals 5, longer than the sepals; stamens 15-25, in a continuous whorl, with hirsute filaments, reaching at most only twice the length
 
-Inflorescences peu fleuries, cymeuses ou en courts racèmes de cymules, ou faux racèmes, ou fascicules subsessiles; bractées et bractéoles petites, tardivement caduques. Fleurs actinomorphes, hermaphrodites; réceptacle cupuliforme, pubescent intérieurement et extérieurement; lobes du calice (sépales) 5, subégaux; pétales 5, plus longs que les sépales; étamines 15-25, sur un cercle continu, à filaments hirsutes, n'atteignant au maximum que le double
+Drupes fleshy, glabrous; endocarp thin, glabrous internally at maturity, bearing 5-8 longitudinal ribs with dehiscence by 5-8 valves at the base.
 
-Drupes charnues, glabres; endocarpe mince, glabre intérieurement à maturité, garni de 5-8 côtes longitudinales avec déhiscence par 5-8 valves à la base.
-
-ESPÊCE-TYPE : Cirysobalanus icaco L.
+TYPE SPECIES: Chrysobalanus icaco L.
 
 ---
 
-Petit genre ne comportant que 2 espèces en Amérique tropicale, l'une endémique (C. cuspidatus Griseb. ex Duss) aux petites Antilles, l'autre (C. icaco L.), côtière en général et très répandue, se retrouvent sur les côtes d'Afrique, entre autres au Cameroun et au Gabon; à l'intérieur de l'Afrique occidentale et centrale un autre taxon (C. atacorensis A. Chev.), présent au Cameroun et au Gabon, doit être considéré comme sous-espèce (subsp. atacorensis (A. Chev.) F. White) de C. icaco L.
+A small genus comprising only 2 species in tropical America, one endemic (C. cuspidatus Griseb. ex Duss) to the Lesser Antilles, the other (C. icaco L.), coastal in general and very widespread, found on the coasts of Africa, among others in Cameroon and Gabon; in the interior of West and Central Africa another taxon (C. atacorensis A. Chev.), present in Cameroon and Gabon, should be considered as a subspecies (subsp. atacorensis (A. Chev.) F. White) of C. icaco L.
 
 ## Species in region
 

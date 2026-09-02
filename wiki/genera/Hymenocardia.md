@@ -17,53 +17,17 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Trees or shrubs; young parts and/or lower leaf surface dotted with sessile glandular discs, golden yellow to reddish. Stipules caducous. Leaves with entire margins. Inflorescences: the male axillary or on aphyllous branchlets, in spikes or spike-like racemes, solitary or fasciculate; the female axillary, with flowers solitary, geminate or in racemes. Flowers unisexual, dioecious, small; petals and disc absent. Male flowers (4–)5(–8)-merous; calyx cupuliform, dentate or lobed with lobes/teeth ± imbricate in bud; stamens opposite the sepals, filaments connate at base, anthers large, connective with an apical gland; pistillode cylindric, entire or bilobed. Female flowers with (4–)5(–9) free sepals, very caducous; ovary 2-locular, with 2 ovules per locule; styles 2, free. Fruits either samaroid and winged all around the perimeter, or partially winged and separating into 2. Seeds compressed, generally solitary in the locules, with thin, shining testa; cotyledons broad, flat, very thin.
 
-Arbres ou arbustes ; parties jeunes et/ou face inférieure des feuilles ponctuées de
+Palaeotropical genus, comprising 9 species of which 8 are African and one in South-East Asia; 2 species in Gabon.
 
-disques glanduleux, sessiles, jaune d’or à rougeâtres . Stipules caduques. Feuilles à
+Bibliography: Léonard & Mosango (1985), Pax & Hoffmann (1922), Radcliffe-Smith (2001).
 
-marges entières. Inflorescences : les mâles axillaires ou sur des rameaux aphylles, en épis
+### Key to the species
 
-ou en racème d’épis, solitaires ou fasciculées ; les femelles axillaires, à fleurs solitaires,
+1. - Blade acute, rounded or obtuse at the apex, at adult stage, with abundant glandular discs on the lower surface; fruit winged in the upper half, detaching from a persistent columella into 2 indehiscent shells .............................. H. acida
 
-géminées ou en racèmes. Fleurs unisexués, dioïques, petites ; pétales et disque nuls .
-
-Fleurs mâles (4–)5(–8)-mères ; calice cupuliforme , denté ou lobé à lobes/dents ± imbri -
-
-qués dans le bouton ; étamines oppositisépales, filets connés à la base, anthères grandes,
-
-connectif avec une glande apicale ; pistillode cylindrique, entier ou bilobé. Fleurs fe -
-
-melles à (4–)5(–9) sépales libres , très caducs ; ovaire 2-loculaire , à 2 ovules par loge ;
-
-styles 2, libres. Fruits soit samaroïdes et ailés sur tout le pourtour, soit partiellement
-
-ailés et se séparant en 2 . Graines comprimées, généralement solitaires dans les loges, à
-
-testa mince, luisant ; cotylédons larges, plans, très minces.
-
-Genre paléotropical, comprenant 9 espèces dont 8 africaines et une en Asie Sud-Est ; 2
-
-espèces au Gabon.
-
-b : Léonard & Mosango (1985), Pax & Hoffmann (1922), Radcliffe-Smith
-
-ibliographie
-
-(2001).
-
-### Clé des espèces
-
-1. - Limbe aigu, arrondi ou obtus au sommet, au stade adulte, à disques glanduleux
-
-abondants à la face inférieure ; fruit ailé dans la moitié supérieure, se détachant
-
-d’une columelle persistante en 2 coques indéhiscentes .............................. H . acida
-
-- Limbe acuminé, au stade adulte à disques glanduleux très rares ou nuls à la face
-
-inférieure ; fruit entièrement ailé, indéhiscent, samaroïde ..................... H . ulmoides
+- Blade acuminate, at adult stage with glandular discs very rare or absent on the lower surface; fruit entirely winged, indehiscent, samaroid ..................... H. ulmoides
 
 ## Species in region
 

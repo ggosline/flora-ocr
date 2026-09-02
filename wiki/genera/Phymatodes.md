@@ -16,17 +16,15 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Fougères épiphytes à rhizome rampant, presque nu, épais, portant, surtout vers le sommet, des écailles peltées, suborbiculaires
+Epiphytic ferns with a creeping rhizome, almost naked, thick, bearing, especially towards the apex, peltate, suborbicular scales
 
 ---
 
-membraneuses. Frondes glabres, coriaces, simples ou profondément pinnatifides, à marge entière. Nervation réticulée, à nervilles incluses. Sores arrondis, souvent enfoncés, sans paraphyses, uni ou multisériés.
+membranous. Fronds glabrous, coriaceous, simple or deeply pinnatifid, with entire margin. Venation reticulate, with included veinlets. Sori rounded, often sunken, without paraphyses, uniseriate or multiseriate.
 
-Type : Phymatodes vulgaris Pr. (= Polypodium phymatodes L.)
+Type: Phymatodes vulgaris Pr. (= Polypodium phymatodes L.)
 
-De Polynésie en Afrique; une espèce en Afrique.
+From Polynesia to Africa; one species in Africa.
 
 ## Species in region
 

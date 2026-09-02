@@ -16,19 +16,13 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Shrubs or small trees glabrous with slender branchlets, with simple stipules narrower than the branchlet. Petiole with thin margins bearing at least a few hairs. Leaf domatia present in the axils of secondary nerves. Inflorescences axillary pluriflorous glabrous. Calyx lobes neither laminate nor spathulate. Corolla valvate with lobes more numerous than the carpels. Anthers apiculate. Style pubescent. Disc strongly convex. 2-4 ovary locules bearing a small false septum at the upper part. Placenta U-shaped. Seeds 1 mm, elongate not globose, in fleshy fruits.
 
-Arbrisseaux ou arbustes glabres à rameaux grêles, à stipules simples plus étroites que le rameau. Pétiole à marges minces ayant au moins quelques poils. Domaties foliaires présentes aux aisselles des nervures secondaires. Inflorescences axillaires plur
+Genus comprising only two species. The first, type of the genus, determined for the first time on Gabonese material by E. Petit in 1959, the second recently discovered.
 
----
+1. Flowers 6-9 mm diam.; ovary with 3-4 locules; calyx lobes well distinct; inflorescence lax 2-3 cm long; base of limb acute; acumen attenuate; axillary domatia pubescent. 1. C. Liebrechtsiana.
 
-flores glabres. Lobes du calice non laminés ni spathulés. Corolle valvaire à lobes plus nombreux que les carpelles. Anthères apiculées. Style pubescent. Disque fortement bombé. 2-4 loges d'ovaire présentant une petite fausse cloison à la partie supérieure. Placenta en U. Graines de 1 mm, allongées non globuleuses, dans des fruits charnus.
-
-Genre ne comprenant que deux espèces. La première, type du genre, déterminée pour la première fois sur du matériel gabonais par E. Petit en 1959, la seconde récemment découverte.
-
-1. Fleurs de 6-9 mm de diam.; ovaire à 3-4 loges; lobes du calice bien distincts; inflorescence lâche de 2-3 cm de long; base du limbe aiguë; acumen atténué; domaties axillaires pubescentes. 1. C. Liebrechtsiana.
-
-1'. Fleurs d'env. 4 mm de diam.; ovaire à 2 loges; dents du calice très réduites; inflorescences contractées ayant à peine 1 cm de long; base du limbe obtuse; acumen caudé à extrémité subspathulée; domaties axillaires glabres à perforation apparente.. 2. C. Letestuana.
+1'. Flowers c. 4 mm diam.; ovary with 2 locules; calyx teeth very reduced; inflorescences contracted barely 1 cm long; base of limb obtuse; acumen caudate with subspathulate apex; axillary domatia glabrous with apparent perforation. 2. C. Letestuana.
 
 ## Species in region
 

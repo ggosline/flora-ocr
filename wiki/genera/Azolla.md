@@ -16,13 +16,11 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Floating plants, with roots and horizontally ramified stems. Leaves small, imbricate, in two rows, formed of two lobes, one floating and the other submerged, bearing globose sporocarps entirely surrounded by the indusium, of two kinds, some with microsporanges, others with macrosporanges. Microsporanges globose, membranous, containing microspores surrounded by "massulae" and bearing on their surface ornamentation in the form of hooks or glochidiae. Macrosporange containing a single macrospore with verrucose epispore and bearing a floating apparatus formed of 3 "massulae".
 
-Plantes flottantes, à racines, à tiges ramiﬁées, horizontales. Feuilles petites, imbriquées, en deux rangées, formées de deux lobes, l'un ﬂottant et l'autre immergé, portant des sporocarpes globuleux entièrement entourés par l'indusie, de deux sortes, les uns à microsporanges, les autres à macrosporanges. Microsporanges globuleux, membraneux, contenant des microspores entourées de « massulae » et portant à leur surface une ornementation en forme de crochets ou glochidies. Macrosporange contenant une seule macrospore à épispore verruqueuse et portant un appareil de flottaison formé de 3 « massulae ».
+Type species: Azolla filiculoides Lam.
 
-Espèce type : Azolla filiculoides Lam.
-
-Environ 6 espèces dont une au Gabon.
+Approximately 6 species, one of which occurs in Gabon.
 
 ## Species in region
 

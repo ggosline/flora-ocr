@@ -17,33 +17,21 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Shrubs generally epiphytic. Leaves large, 3–5-nerved.
 
-Arbrisseaux généralement épiphytes. Feuilles amples, 3-5-nerviées.
+Cymose inflorescences uniparous, verticillate in axillary or terminal panicles. Flower 5-merous; hypanthium obconic; calyx short, with lobes scarcely distinct; corolla exposed before anthesis. Stamens in 2 equal or slightly unequal whorls; connective appendage with a simple anterior appendix and a non-significant dorsal protuberance. Ovary adnate for almost its entire height; apex depressed, peripheral margin without membranous corona; interstaminal septa very short. Style linear; stigma punctiform; placentas occupying the full height of the locules, sessile; ovules numerous, in 5 to 6 rows.
 
-Cynes unipares, verticillées en panicules axillaires ou terminales. Fleur 5-mère; hypanthe obconique; calice court, à lobes peu distincts; corolle découverte avant l'anthèse. Étamines en 2 verticilles égaux ou légèrement inégaux; pédoconnectif avec un appendice antérieur simple, et une pro-tubérance dorsale non significative. Ovaire adhérent sur presque toute sa hauteur; vertex déprimé, marge périphérique sans couronne membraneuse; cloisons interstaminales très courtes. Style linéaire; stigmate puncto
+Capsule with locicidal dehiscence, then septicidal. Seeds appendiculate-membranous at both ends.
 
----
+TYPE SPECIES: Pressiella kamerunensis Gilg, Cameroon.
 
----
+The two species of the genus are represented in Gabon.
 
-tiforme; placentas sur toute la hauteur des loges, sessiles; ovules nombreux, sur 5 à 6 rangs.
+KEY TO SPECIES
 
-Capsule à déhiscence localicide, puis septicide. Graines appendiculées-
+1. Leaves petiolate, ovate-lanceolate, base rounded; terminal cymes; sepal lobes glabrous ..... 1. P. kamerunensis.
 
-membraneuses aux 2 extrémités.
-
-ESPÈCE-TYPE : Pressiella kamerunensis Gilg, Cameroun.
-
-Les deux espèces du genre sont représentées au Gabon.
-
-CLÉ DES ESPÈCES
-
-1. Feuilles pétiolées, ovales-lancées, base arrondie; cymes terminales; lobes sépalaires glabres ..... 1. P. kamerunensis.
-
-1'. Feuilles subsessiles, elliptiques-lancéolées, base étroitement cordée; cymes sommitales : terminales et axillaires; lobes sépalaires poilus-glanduleux
-
-2. P. gabonensis.
+1'. Leaves subsessile, elliptic-lanceolate, base narrowly cordate; apical cymes: terminal and axillary; sepal lobes hairy-glandular ..... 2. P. gabonensis.
 
 ## Species in region
 

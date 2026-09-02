@@ -17,63 +17,19 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Perennial or annual herbs; stems erect, decumbent or prostrate; underground storage organs often present, such as bulbs, tubers, rhizomes, or tuberous roots. Leaves spiraled or distichous, without pseudipetiole, succulent. Inflorescences terminal or terminal and axillary, rarely all axillary, either elongated with falciform herbaceous bracts arranged in two ranks, or contracted and hidden in the sheath; elongated cincinni often united in clusters forming capitules. Flowers bisexual, actinomorphic, sessile or subsessile; sepals generally connate at the base, rarely ± free, generally keeled and pubescent; petals connate into a tubular corolla with 3 shorter spreading lobes; stamens 6, equal, fertile, far exceeding the corolla, filaments generally free, rarely shortly connate at the base, densely bearded on their upper half with long moniliform colored hairs, generally with an apical swelling, anthers basifixed, dehiscing by small basal slits; staminodes absent; ovary sessile, 3-locular, locules with 2 ovules; style approximately the same length as the filaments, likewise bearded or glabrous, with a similar swelling, stigma small to relatively broad. Fruits: 3-locular capsules, 3-valved, locules with (1–)2 uniseriate seeds. Seeds: basal punctiform hilum; embryotegium terminal, normally semi-ellipsoid, flattened on one side; testa slightly bumpy.
 
-Herbes pérennes ou annuelles ; tiges érigées, décombantes ou couchées ; organes de stoc-
+Paleotropical genus of ± 50 species, of which ± 25 in Africa and two in Gabon.
 
-kage souterrains souvent présents , tels des bulbes, tubercules, rhizomes, ou racines tubé-
+Bibliography
 
-risées. Feuilles spiralées ou distiques, sans pseudopétiole, succulentes. Inflorescences ter-
+Brunel et al. (1984), van der Burg (2006), Faden (1998, 2012), Sosef et al. (2006), Vanden Berghen (1988).
 
-minales ou terminales et axillaires, rarement toutes axillaires, soit allongées avec bractées
+### Key to species
 
-herbacées falciformes disposées sur deux rangs, ou contractées et cachées dans la gaine ;
+1. - Herb with erect stem; basal leaves in rosette, the cauline ones (2–)3 or 4(–5), distant and leaving the stem visible; tuberous roots ......... C. longifolia var. gracilis
 
-cincinni allongés souvent réunis en faisceaux formant des capitules . Fleurs bisexuées,
-
-actinomorphes, sessiles ou subsessiles ; sépales généralement soudés à la base , rarement
-
-± libres, généralement carénés et pubescents ; pétales connés en une corolle tubulaire avec
-
-3 lobes plus courts et étalés ; étamines 6, égales, fertiles, surpassant largement la corolle,
-
-filets généralement libres, rarement courtement connés à la base, densément barbus sur leur
-
-moitié supérieure avec de longs poils moniliformes colorés , généralement avec un renfle -
-
-ment apical , anthères basifixes, à déhiscence par petites fentes basales ; staminodes absents ;
-
-ovaire sessile, 3-loculaire, loges à 2 ovules ; style environ de même longueur que les filets,
-
-également barbu ou glabre, avec un renflement similaire, stigmate petit à relativement large.
-
-Fruits : capsules 3-loculaires, 3-valvées, loges à (1–)2 graines unisériées. Graines : hile ba-
-
-sal punctiforme ; embryotège terminale, normalement sémi-ellipsoïdale, aplaties d’un côté ;
-
-testa légèrement bosselé.
-
-Genre paléotropical de ± 50 espèces, dont ± 25 en Afrique et deux au Gabon.
-
-Bi : Brunel et al. (1984), van der Burg (2006), Faden (1998, 2012), Sosef et al. (2006), Van-
-
-B liographie
-
-den Berghen (1988).
-
-### Clé des espèces
-
-1. - Herbe à tige dressée ; feuilles basales en rosette, les caulinaires (2–)3 ou 4(–5),
-
-distantes et laissant la tige visible ; racines tubérisées ......... C. longifolia var. gracilis
-
-- Herbe à tige souvent rampante ou décombante, succulente, rhizomateuse et parfois
-
-s’enracinant aux nœuds ; feuilles caulinaires distiques, généralement plus de 10, à
-
-gaines recouvrant la tige ; racines fibreuses ......................................... C. arachnoidea
-
----
+- Herb with stem often creeping or decumbent, succulent, rhizomatous and sometimes rooting at the nodes; cauline leaves distichous, generally more than 10, with sheaths covering the stem; fibrous roots ......................................... C. arachnoidea
 
 ## Species in region
 

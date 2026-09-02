@@ -17,23 +17,21 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Trees with alternate, simple, entire or toothed leaves, petiolate; stipules minute, caducous.
 
-Arbres à feuilles alternes, simples, entières ou dentées, pétiolées; stipules minimes, caduques.
-
-Inflorescences cymeuses, axillaires, atteignant parfois les extrémités parmi les jeunes feuilles; bractées et bractéoles caduques ou persistantes. Fleurs pédicellées. Sépales 5, imbriqués, libres. Pétales 5, imbriqués, libres.
+Inflorescences cymose, axillary, sometimes reaching the extremities among the young leaves; bracts and bracteoles caducous or persistent. Flowers pedicellate. Sepals 5, imbricate, free. Petals 5, imbricate, free.
 
 ---
 
-Étamines 10, alternativement longues et courtes, souduées à la base ou non ; anthères à 2 loges, déhiscentes par détachement. Ovaire 5-loculaire, placentation axile; ovule 1 par loge, pendant; style simple, aussi long ou plus long que les étamines.
+Stamens 10, alternately long and short, connate at the base or not; anthers 2-locular, dehiscent by separation. Ovary 5-locular, axile placentation; ovule 1 per locule, pendulous; style simple, as long as or longer than the stamens.
 
-Drupe ne contenant généralement qu'une ou deux graines oblongues;
+Drupe generally containing one or two oblong seeds;
 
-endocarpe épais et dur, avec des cavités résinifères.
+endocarp thick and hard, with resiniferous cavities.
 
-Espèce-type : S. amazonica Mart.
+Type species: S. amazonica Mart.
 
-Seule espèce africaine :
+Only African species:
 
 ## Species in region
 

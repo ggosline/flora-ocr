@@ -16,25 +16,21 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Ferns generally epiphytic or on rocks, with short, scaly rhizome, scales clathrate, with dentate margins. Roots very numerous. Frond pendant, entire, linear, lanceolate, or oblanceolate, not articulate, fleshy. Midvein not apparent, venules forming elongate areoles, without included venules. Sori superficial or ± immersed, elongate along the veins, exindusiate. Paraphyses very numerous, with enlarged apical cell.
 
-Fougères généralement épiphytes ou de rochers, à rhizome court, écailleux, écailles clathrées, à marges dentées. Racines très nombreuses. Limbe pendant, entier, linéaire, lancéolé, ou oblancéolé, non articulé, charnu. Nervure médiane non apparente, nervilles formant des aréoles allongées, sans nervilles incluses. Sores superficiels ou ± immergés, allongés le long des nervures, exindusés. Paraphyses très nombreuses, à cellule apicale élargie.
+Type species: Antrophyum reticulatum (Forst.) Klf.
 
-Espèce type : Antrophyum reticulatum (Forst.) Klf.
+Approximately 40 species, poorly defined, mainly in the New World; one species from Gabon.
 
-Environ 40 espèces, mal définies, surtout dans le nouveau monde; une espèce du Gabon.
+<<<---SECTION-BREAK--->>>
 
----
+Type species: Vittaria lineata (L.) Smith.
 
----
+Species difficult to distinguish, approximately 80, in warm regions. One species in Cameroon, 2 species in Gabon.
 
-Espèce type : Vittaria lineata (L.) Smith.
+1. Petiole black at base, frond reaching 30–60 cm long. 1. V. guinéensis.
 
-Espèces difficiles à distinguer, environ 80, dans les régions chaudes. Une espèce au Cameroun, 2 espèces au Gabon.
-
-1. Pétiole noir à la base, limbe atteignant 30-60 cm de long. 1. V. guinéensis.
-
-1'. Pétiole straminé à la base, fronde atteignant 15 cm de long.....
+1'. Petiole stramineous at base, frond reaching 15 cm long.....
 
 2. V. owariensis.
 

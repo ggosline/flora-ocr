@@ -16,41 +16,39 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+1. Kidneys-shaped glands soldered to the receptacle, in pairs, surrounding the 3rd cycle of stamens; fertile stamens: 9; the first two cycles with sessile or subsessile anthers, introrse; the 3rd cycle with narrow filaments and lateral or sub-introrse anthers; tepals hairy within; all species African.
 
-1. Glandes réniformes souduées au réceptacle, par paires, entourant le  $ 3^{e} $ cycle d'étamines; étamines fertiles : 9; les deux premiers cycles à anthères sessiles ou subsessiles, introrses; le  $ 3^{e} $ cycle à filets étroits et à anthères latérales ou sub-introrses; tépales velus à l'intérieur; espèces toutes africaines.
+..... subgenus SYNTHORADENIA (2) Rob. et Wilcz. (1949).
 
-..... sous-genre SYNTHORADENIA (2) Rob. et Wilcz. (1949).
+Type of the subgenus: B. ugandensis Rendle (Bagshawe 142).
 
-Type du sous-genre : B. ugandensis Rendle (Bagshawe 142).
+1'. Oblong or globose glands fixed to the base of the filaments of the 3rd cycle of stamens; fertile stamens: 6–9; the six outer (1st and 2nd cycle)
 
-1'. Glandes oblongues ou globuleuses fixées à la base des filets du  $ 3^{e} $ cycle d'étamines; étamines fertiles : 6-9; les six extérieures ( $ 1^{er} $ et  $ 2^{e} $ cycle)
+(1) Genus dedicated to Hufeland, physician contemporary with Nees.
 
-(1) Genre dédié à Hufeland, médecin contemporain de Nees.
-
-(2) Du grec : συν, avec. — θοροσ, réceptacle. — αδην, glande.
+(2) From the Greek: συν, with. — θοροσ, receptacle. — αδην, gland.
 
 ---
 
-PL. II. — Horizon: a, Beilschmiedia (?) calcitranthera R. Fouilloy (Le Testu 6015) étam. 0,3 mm, pist. 1,5 mm; b, B. Manni Benth. et Hk (Mann, type), étam. 1 mm, pist. 2 mm; c, B. Minuitflora Benth. et Hk. (Z 1695), étam. 1,5 mm; pist. 2 mm; d, B. minuitflora (Klaine 286) étam. 1 mm, pist. 2 mm; e, B. minuitflora (Z 1063) étam. 0,5 mm; pist. 1 mm; f, B. gaboonensis Benth. et Hk. (Z 2065); étam. 0,8 mm, pist. 1,5 mm; g, B. gaboonensis (Mann 979, type) étam. et pist. 0,5 mm; h, B. Wilczekii R. Fouilloy (Z 451) étam. 0,8 mm, pist. 1,5 mm. — Vertic. : 1,1,
+PL. II. — Horizon: a, Beilschmiedia (?) calcitranthera R. Fouilloy (Le Testu 6015) stamen 0.3 mm, pist. 1.5 mm; b, B. Manni Benth. et Hk (Mann, type), stamen 1 mm, pist. 2 mm; c, B. minuitflora Benth. et Hk. (Z 1695), stamen 1.5 mm; pist. 2 mm; d, B. minuitflora (Klaine 286) stamen 1 mm, pist. 2 mm; e, B. minuitflora (Z 1063) stamen 0.5 mm; pist. 1 mm; f, B. gaboonensis Benth. et Hk. (Z 2065); stamen 0.8 mm, pist. 1.5 mm; g, B. gaboonensis (Mann 979, type) stamen and pist. 0.5 mm; h, B. Wilczekii R. Fouilloy (Z 451) stamen 0.8 mm, pist. 1.5 mm. — Vertic. : 1,1,
 
 ---
 
-à filets distincts (rarement nuls) à anthères introrses ou apicales;
+with distinct filaments (rarely absent) with introrse or apical anthers;
 
-étamines du  $ 3^{e} $ cycle à anthères latérales ou sub-extrorses; tépales
+stamens of the 3rd cycle with lateral or sub-extrorse anthers; tepals
 
-glabres à la face interne ou rarement pubérulents; espèces africaines,
+glabrous on the inner face or rarely puberulent; species African,
 
-asiatiques ou américaines.
+Asiatic or American.
 
-2. Filets des étamines des  $ 1^{er} $ et  $ 2^{e} $ cycles plus étroits que l'anthère et distinctement plus longs; glandes globuleuses plus petites que le filet du  $ 3^{e} $ cycle; tépales glabres à l'intérieur (sauf B. Chevalieri)..... Section A. Eubeilschmieda Benth. Hook. f. Gén. Pl. III. 152 (1880). Type : B. Roxburghiana Ness (Wallich 2605).
+2. Filaments of the stamens of the 1st and 2nd cycles narrower than the anther and distinctly longer; globose glands smaller than the filament of the 3rd cycle; tepals glabrous within (except B. Chevalieri)..... Section A. Eubeilschmiedia Benth. Hook. f. Gén. Pl. III. 152 (1880). Type: B. Roxburghiana Nees (Wallich 2605).
 
-2′. Filets des étanines des 1er et 2e cycles de largeur et longueur sensiblement égales à celles de l'anthère (ou filets nuls); anthères introrses ou subapicales; glandes du 3e cycle plus ou moins oblongues et plus ou moins égales en longueur au filet; tépales glabres-cents à pubérulents à la face interne.....
+2′. Filaments of the stamens of the 1st and 2nd cycles of width and length substantially equal to those of the anther (or filaments absent); anthers introrse or sub-apical; glands of the 3rd cycle more or less oblong and more or less equal in length to the filament; tepals glabrescant to puberulent on the inner face.....
 
-Section B. Hufelandia (Nees) Benth. Hook. Gen. Pl. III : 152 (1880). Type : B. pendula (Sw) Benth (Swartz. s. n.)
+Section B. Hufelandia (Nees) Benth. Hook. Gen. Pl. III: 152 (1880). Type: B. pendula (Sw) Benth (Swartz. s. n.)
 
-2'''. Filets des étamines des 1er et 2e cycles losangiques, plus larges et plus longs que les anthères apicales subextrorses; étamines du 3e cycle ordinairement stériles avec de petites glandes globules; tépales glabres intérieurement.....
+2'''. Filaments of the stamens of the 1st and 2nd cycles rhombic, wider and longer than the apical sub-extrorse anthers; stamens of the 3rd cycle ordinarily sterile with small globular glands; tepals glabrous within.....
 
 ## Species in region
 

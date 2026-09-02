@@ -17,11 +17,9 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Racemes formed of 3 or 4 pairs of homogamous neuter spikelets reduced to their glumes and a terminal triad comprising one fertile spikelet and two pedicelled male spikelets. Fertile spikelet with long acute callus and two florets; the lower one is reduced to a lemma; the upper one is hermaphrodite. Glumes subequal; the lower one rounded on the back, subobtuse, with 6 nerves; the upper one thin, with 3 nerves, weakly emarginate and subulate in the sinus. Sterile lemma hyaline, ciliate, with 2 nerves. Fertile lemma narrow, bifid, awn inserted in the sinus, robust, pubescent. Two small lemmas, glabrous; 3 stamens, free styles; neuter spikelets with lower glume lanceolate acute or slightly bidentate, with 9 nerves. Upper glume smaller, hyaline, with 3 nerves.
 
-Racèmes formés de 3 ou 4 paires d'épilets neutres homogames réduits à leurs glumes et d'une triade terminale comportant un épillet fertile et deux épilets pédicellés mâles. Épillet fertile à long callus aigu et deux fleurs; l'inférieure est réduite à une glumelle; la supérieure est hermaphrodite. Glumes subégales; l'inférieure arrondie sur le dos, subobtuse, à 6 nervures; la supérieure mince, à 3 nervures, faiblement émarginée et subulée dans le sinus. Glumelle stérile hyaline, ciliée, à 2 nervures. Glumelle fertile étroite, bifide, arête insérée dans le sinus, robuste, pubescente. Deux glumelles petites, glabres; 3 étamines, styles libres; épillets neutres à glume inférieure lancéolée aiguë ou légèrement bidentée, à 9 nervures. Glume supérieure plus petite, hyaline, à 3 nervures.
-
-La seule espèce, du Congo Portugais, a été retrouvée sur la côte gabonaise :
+The only species, from Portuguese Congo, was found again on the Gabonese coast:
 
 ## Species in region
 

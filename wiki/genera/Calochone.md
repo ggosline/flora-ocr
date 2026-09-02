@@ -16,29 +16,25 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+References below.
 
-Références ci-dessous.
+Climbing plants ± pubescent with limbs ± cordate. Axes and petioles with hairs generally reflexed. Stipules connate at the base for approximately 1 mm at the petiolar axils, apex very acute.
 
-Plantes grimpantes ± velues à limbes ± cordés. Axes et pétioles à poils généralement réfléchis. Stipules connées à la base sur 1 mm env. aux aisselles pétiolaires, à sommet très aigu.
+Terminal inflorescences cymose or very contracted paniculate. Calyx with narrow ± subulate lobes. Corolla large, pink ± scarlet. Flowering not synchronous but centripetal; corolla tube long and somewhat flared at the throat. Petals acuminate or scarcely apiculate, orbicular. Anthers sessile included. Pollen in tetrahedral tetrads of 62 μ diam., with triporiate elements and thin exine finely reticulate. Style swollen into a striated stigmatic club, with 2 short lobes reaching the throat.
 
-Inflorescences terminales cymeuses ou paniculiformes très contractées. Calice à lobes étroits ± subulés. Corolle grande, rose ± écarlate. Floraison non synchrone mais centripète; tube de la corolle long et un peu évasé à la gorge. Pétales acuminés ou à peine apiculés, orbiculaires. Anthères sessiles incluses. Pollen en tétrades téraédriques de 62 μ de diam., à éléments triporés et exine mince finement réticulée. Style renflé en massue stigmatique striée en long, à 2 courts lobes atteignant la gorge.
+Fruit globoid; wall coriaceous with very thin horny endocarp.
 
-Fruit globoïde; paroi coriace à endocarpe corné très mince.
+Seeds large, compressed, finely marginate, fairly numerous.
 
-Graines grosses, comprimées, finement marginées, assez nombreuses.
+Type of the genus: *Calochone acuminata* Keay.
 
-Type du genre : Calochone acuminata Keay.
+Two still poorly known and rare species from western equatorial Africa.
 
-Deux espèces encore mal connues et rares d'Afrique équatoriale occidentale.
+### KEY TO SPECIES
 
-### CLÉ DES ESPÈCES
+1. Calyx puberulent; corolla 3–6 cm diam.; vigorous branches with hairs approximately 1 mm long.....1. *C. acuminata*
 
-1. Calice pubérulent; corolle de 3-6 cm de diam.; entrençéds vigou-
-
-reux à poils de 1 mm environ.....1. C. acuminata
-
-1'. Calice velu; corolle de 2-3 cm de diam.; entrençueds plutôt grêles à poils de 2 mm environ.....2. C. Redingii
+1'. Calyx hairy; corolla 2–3 cm diam.; rather slender branches with hairs approximately 2 mm long.....2. *C. Redingii*
 
 ## Species in region
 

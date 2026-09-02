@@ -17,35 +17,31 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Lianes or sarmentose shrubs glabrous. Leaves opposite sometimes subopposite, with limb often varnished above in herbarium, most often greyish, brownish, reddish-brown or blackish when dry, more rarely olivaceous.
 
-Lianes ou arbustes sarmenteux glabres. Feuilles opposées parfois subopposées, à limbe souvent vernissé dessus en herbier, le plus souvent grisâtre, brunâtre, roussâtre ou noirâtre à sec, plus rarement olivacé.
-
-Inflorescences en cymes ou grappes de cymes à entre-nœuds quadrangulaires ou 4-ailés, munies de ramifications supplémentaires dans les fourches. Fleurs petites, de 1,9-3,3 mm de diamètre à l'anthèse. Pré-floraison quinconciale. Sépales 5 un peu inégaux, un peu irrégulièrement denticulés. Corolle rotacée ou semi-urcéolée ; 5 pétales orbiculaires ou oblongs, uni ou paucinerviés, à marges amincies, entiers ou subdenticulés, se coiffant bien entre eux au sommet du bouton. Disque petit, 0,6-0,9 mm de diamètre, en cupule assez profonde, le rebord, presque au niveau de la base du style, est entier ou fendu sous chacune des
+Inflorescences in cymes or racemes of cymes with quadrangular or 4-winged internodes, furnished with supplementary ramifications in the forks. Flowers small, 1.9–3.3 mm in diameter at anthesis. Prefloration quincuncial. Sepals 5 somewhat unequal, somewhat irregularly denticulate. Corolla rotate or semi-urceolate; 5 petals orbicular or oblong, uni- or paucinervate, with thinned margins, entire or subdenticulate, fitting well together at the apex of the bud. Disk small, 0.6–0.9 mm in diameter, in a rather deep cupule, the rim, almost at the level of the base of the style, entire or split beneath each of the
 
 ---
 
-trois étamines. Filets rubanés étroits, séparés à la base, insérés dans un sillon périgyne profond ; anthère transversalement déhiscente, à fente apicale dans le bouton puis extrorse. Pistil subpyramidal, à 3 lobes stigmatiques ± réduits et oppositistémones. 2 ovules juxtaposés par loge, par exception 2-4 chez l'espèce américaine E. festiva (Miers) A.C. Smith.
+three stamens. Filaments narrowly ribbon-like, separated at the base, inserted in a deep perigynous groove; anther transversely dehiscent, with apical slit in the bud then extrorse. Pistil subpyramidal, with 3 stigmatic lobes ± reduced and oppositistemonous. 2 juxtaposed ovules per locule, by exception 2–4 in the American species E. festiva (Miers) A.C. Smith.
 
-Fruit divisé en 3 méricarpes, chacun à 2 valves caduques. Graines aptères ou ailées ; dans ce dernier cas le raphé est transalaire. Cotylédons cordés à la base ce qui protège latéralement la radicule, soudés ou simplement adhérents.
+Fruit divided into 3 mericarps, each with 2 caducous valves. Seeds apterous or winged; in the latter case the raphe is transalar. Cotyledons cordate at the base which protects laterally the radicle, fused or simply adherent.
 
-ESPÈCE-TYPE : Elachyptera floribunda (Benth.) A.C. Smith, d'Amérique.
+TYPE SPECIES: Elachyptera floribunda (Benth.) A.C. Smith, from America.
 
-Étymologie : du grec elachys, raccourci, et pteros, aile ; l'aile de la graine étant parfois réduite.
+Etymology: from Greek elachys, shortened, and pteros, wing; the seed wing being sometimes reduced.
 
-Genre de 7 espèces, 3 d'Amérique, 3 d'Afrique et 1 de Madagascar.
+Genus of 7 species, 3 from America, 3 from Africa and 1 from Madagascar.
 
-### CLÉ DES ESPÈCES
+### KEY TO THE SPECIES
 
-1. Cupule discale entière ; graine aptère ; fleur d'environ 1,9 mm de diamètre ; pétales arrondis, cucullés charnus et ne s'étalant pas ; stigmate ponctiforme ....
+1. Disk cupule entire; seed apterous; flower approximately 1.9 mm in diameter; petals rounded, fleshy cucullate and not spreading; stigma punctiform ....
 
-1'. Cupule discale à marge fendue en 3 fentes ; pétales minces ± étalés.
+1'. Disk cupule with margin split into 3 slits; petals thin ± spreading.
 
-2. Graine apère ; pétales oblongs étalés ; fleur de 2,5-3,3 mm de diamètre ; stig-
+2. Seed apterous; petals oblong spreading; flower 2.5–3.3 mm in diameter; stigma trilobed ..... 2. E. bipindensis.
 
-mate trilobé ..... 2. E. bipindensis.
-
-2'. Graine ailée ; pétales elliptiques semi-étalés ; fleur d'environ 2,1 mm de diamètre ; stigmate ponctiforme ..... 2 bis. E. parvifolia.
+2'. Seed winged; petals elliptic semi-spreading; flower approximately 2.1 mm in diameter; stigma punctiform ..... 2 bis. E. parvifolia.
 
 ## Species in region
 

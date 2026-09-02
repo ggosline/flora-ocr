@@ -17,17 +17,15 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Trees. Leaves imparipinnate with 9–15 leaflets.
 
-Arbres. Feuilles imparipennées à 9-15 folioles.
+Inflorescences in terminal raceme. Lower pedicels longer. Flowers with a large, spathaceous calyx, narrowing to a recurved apex. Corolla red-orange or crimson, usually with a yellow margin, large, broadly campanulate above a cylindrical base, glabrous externally. Anthers glabrous, with divaricate thecae. Ovary narrowly oblong, ovules multiseriate in each locule.
 
-Inflorescences en racème terminal. Pédicelles inférieurs plus longs. Fleurs avec un grand calice, spathacé, se rétrécissant à sommet recourbé. Corolle rouge-orange ou cramoisie, habituellement avec un bord jaune, grande, largement campanulée au-dessus d'une base cylindrique, glabre extérieurement. Anthères glabres, à thèques divariquées. Ovaire étroitement oblong, ovules multisériés dans chaque loge.
+Fruit a narrowly oblong-elliptic capsule, valves keeled, narrowed at the extremities, dehiscent perpendicular to the septum. Seeds flat, winged, with broad and hyaline membranous wings, surrounding the seed body.
 
-Fruit en capsule étroitement oblong-elliptique, valves carénées, rétrécies aux extrémités, déhiscentes perpendiculairement au septum. Graines plates, ailes, ailes larges et hyalines membraneuses, entourant le corps de la graine.
+TYPE SPECIES: S. campanulata P.B.
 
-ESPÈCE-TYPE : S. campanulata P.B.
-
-### Genre monotypique d'Afrique tropicale.
+### Monotypic genus of tropical Africa.
 
 ## Species in region
 

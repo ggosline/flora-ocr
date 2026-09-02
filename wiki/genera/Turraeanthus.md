@@ -17,65 +17,61 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Trees or shrubs dioecious, with persistent foliage. Leaves compound, imparipinnate,
 
-Arbres ou arbustes dioïques, à feuillage persistant. Feuilles composées, imparipennées,
+1–12-pinnate; leaflets entire or rarely weakly lobed near the apex. Inflorescences
 
-1–12-pennées ; folioles entières ou rarement faiblement lobées près du sommet. Inflo -
+axillary to supra-axillary or sometimes arising from stout branches, paniculate.
 
-rescences axillaires à supra-axillaires ou parfois naissant de gros rameaux, paniculées.
+Flowers 4–5-merous, functionally unisexual; pedicel with bracteoles; calyx cupuliform,
 
-Fleurs 4–5-mères, fonctionnellement unisexuées ; pédicelle bractéolé ; calice cupuli -
+entire or with undulate or very shortly dentate margins; petals valvate, fused to each other
 
-forme, entier ou à bords ondulés ou très courtement dentés ; pétales valvaires, soudés
+and to the staminal tube in the lower half, free at the apex; stamens 8 or 10, fused into
 
-entre eux et au tube staminal dans la moitié inférieure , libres au sommet ; étamines 8
+a cylindrical staminal tube, with margin slightly lobed or entire, anthers 8 or 10(–11),
 
-ou 10, soudées en un tube staminal cylindrique, à bord légèrement lobé ou entier, anthères
+sessile, inserted in a circle within the throat, almost included in the tube; disc absent;
 
-8 ou 10(–11), sessiles, insérées en cercle à l’intérieur de la gorge, quasi incluses dans le
+ovary (3–)4–5-locular, with axile placentation, ovules 2 per locule, superposed. Fruit
 
-tube ; disque nul ; ovaire (3–)4–5-loculaire, à placentation axillaire, ovules 2 par loge,
+capsular, subglobose or pyriform, loculicidal, opening into (2–)3–4(–5) valves, a single
 
-superposés. Fruit capsulaire, subglobuleux ou piriforme, loculicide, s’ouvrant en (2–)3–
+seed developed per locule. Seed with yellow sarcotesta; cotyledons plano-convex,
 
-4(–5) valves, une seule graine développée par loge. Graine à sarcotesta jaune ; cotylédons
+superposed.
 
-plans-convexes, superposés.
+Genus restricted to humid tropical Africa comprising 3 species, 2 of which occur in Gabon.
 
-Genre limité à l’Afrique tropicale humide comprenant 3 espèces, dont 2 au Gabon. La
+The third species, T. mannii Baill., known from Nigeria (Calabar) and western Cameroon,
 
-troisième espèce, T. mannii Baill., connu du Nigéria (Calabar) et du Cameroun occidental
+is to be sought in Gabon.
 
-est à rechercher au Gabon.
+B: Harms (1940), Staner & Gilbert (1958), Pennington & Styles (1975).
 
-B : Harms (1940), Staner & Gilbert (1958), Pennington & Styles (1975).
+ibliography
 
-ibliographie
+### Key to the species
 
-### Clé des espèces
+1. - Shrub or small tree, not exceeding 7(–9) m in height; leaves with 1–4(–6)
 
-1. - Arbuste ou petit arbre, ne dépassant pas 7(–9) m de hauteur ; feuilles à 1–4(–6)
+pairs of leaflets ..................................................................................................... 2
 
-paires de folioles ..................................................................................................... 2
-
-- Arbre atteignant 35(–40) m de hauteur ; feuilles à 4–15 paires de folioles
+- Tree reaching 35(–40) m in height; leaves with 4–15 pairs of leaflets
 
 ................................................................................................................. T. africanus
 
-2. - Arbuste ne dépassant pas 2 m de hauteur ; feuilles d’habitude 3-foliolées, parfois
+2. - Shrub not exceeding 2 m in height; leaves usually 3-foliolate, sometimes
 
-1- ou 5-foliolées ; folioles à 3–5 paires de nervures latérales nettes (à rechercher au
+1- or 5-foliolate; leaflets with 3–5 pairs of distinct lateral veins (to be sought in
 
 Gabon) .............................................................................................. T. mannii Baill.
 
-- Arbuste ou petit arbre de 1–7(–9) m de hauteur ; feuilles d’habitude 7–9(–13)-
+- Shrub or small tree 1–7(–9) m in height; leaves usually 7–9(–13)-
 
-foliolées, par exception 4–5-foliolées ; folioles à plus de 5 paires de nervures
+foliolate, exceptionally 4–5-foliolate; leaflets with more than 5 pairs of
 
-latérales .................................................................................................... T. longipes
-
----
+lateral veins .................................................................................................... T. longipes
 
 ## Species in region
 

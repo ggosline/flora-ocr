@@ -17,27 +17,23 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Herbaceous plants or more rarely frutescent with stems often having six angles. Leaves petiolate, entire.
 
-Plantes herbacées ou plus rarement frutescentes à tiges ayant souvent six angles. Feuilles pétiolées entières.
+Inflorescences most often in cymes or spikes. Flowers surrounded by an involucre of 2-4 bracts, solitary or not within each involucre, blue, red, violet or white. Calyx with 5 segments. Corolla with tube tapering, slightly widened toward the top and limb 2-lipped; the upper lip is erect, concave inside in the bud; lower lip spreading, entire or trilobed. Two stamens inserted in the tube of the corolla; anthers with parallel, superposed locules, slightly unequal, with narrow connective. 2 ovules per locule of ovary; style filiform.
 
-Inflorescences le plus souvent en cymes ou épis. Fleurs entourées d'un involucre de 2-4 bractées, solitaires ou non dans chaque involucre, bleues, rouges, violettes ou blanches. Calice à 5 segments. Corolle à tube effilé un peu élargi vers le haut et limbe à 2 lèvres; la supérieure est dressée, concave intérieure dans le bouton; lèvre inférieure étalée, entière ou trilobée. Deux étamines insérées dans le tube de la corolle; anthères à loges paralèles, superposées, un peu inégales, à connectif étroit. 2 ovules par loge d'ovaire; style filiforme.
+Capsule more or less flattened, oval or suborbicular, with 2-4 seeds situated toward the middle, with septum detaching from the valves of the capsule often elastically. Seeds compressed, suborbicular.
 
----
+Type species: D. chinensis (L.) Juss., described from China (= Justicia chinensis L.).
 
-Capsule plus ou moins aplatie, ovale ou suborbiculaire, à 2-4 graines situées vers le milieu, à cloison se détachant des valves de la capsule de façon souvent élastique. Graines comprimées suborbiculaires.
+Distributed in most tropical and temperate regions of the globe. According to E. C. Leonard (Contrib. U. S. Nat. Herb. 31, 3 : 328, 1958), approximately 300 species have been described; H. Melchior indicates a number of 180 species (in Engler, Syllabus, ed. 12, 2 : 460, 1964).
 
-Espèce type : D. chinensis (L.) Juss., décrit de Chine (= Justicia chinensis L.).
+1. Involucre with unequal bracts, broadly orbicular-acuminate.
 
-Réparti dans la plupart des régions tropicales et tempérées du globe. D’après E. C. Leonard (Contrib. U. S. Nat. Herb. 31, 3 : 328, 1958), environ 300 espèces ont été décrites; H. Melchior indique un nombre de 180 espèces (in Engler, Syllabus, ed. 12, 2 : 460, 1964).
+2. Inflorescences in small pedunculate fascicles; approximately 5 partial inflorescences provided with an involucre whose bracts are ciliate on the margins and pubescent on the outer face; leaves lanceolate..... 1. D. Elliotii.
 
-1. Involucre à bractées inégales, largement orbiculaires-acuminées.
+2'. Inflorescences in racemes; the partial inflorescences provided with an involucre are opposite and subsessile; bracts slightly ciliate on the margins, glabrescent on the outer face; leaves oval..
 
-2. Inflorescences en petits fascicules pédonculés; environ 5 inflorescences partielles munies d'un involucre dont les bractées sont ciliées aux bords et pubescentes sur la face extérieure; feuilles lancéolées..... 1. D. Elliotii.
-
-2'. Inflorescences en racèmes; les inflorescences partielles munies d'un involucre sont opposées et subsessiles; bractées légèrement ciliées aux bords, glabrescentes sur la face extérieure; feuilles ovales..
-
-1'. Involucre à bractées plus ou moins inégales, lancéolées-acuminées; le long acumen est muni d'une pointe sétiforme; inflorescence en pseudofascicules axillaires verticillés..... 3. D. verticillata.
+1'. Involucre with more or less unequal bracts, lanceolate-acuminate; the long acumen is provided with a setiform point; inflorescence in pseudofascicles axillary whorled..... 3. D. verticillata.
 
 ## Species in region
 

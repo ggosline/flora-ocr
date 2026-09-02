@@ -16,37 +16,35 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Terrestrial ferns, with short rhizome, fronds in tufts, very scaly, on the rhizome and base of petioles; scales either clathrate and iridescent, or thick, with denticulate or ciliate margins, base often cordate. Lamina lanceolate to deltoid, bipinnatifid to 4-pinnate, the basal pair of pinnae often developed basiscopic, with catadromic division, bearing, on the rachis and in the groove, on the upper face of costae and costulae, crisp, reddish, articulate hairs, very dense. Groove of costae and costulae with flattened, continuous edges, costulae little decurrent on the costa. Texture coriaceous, coloration often brownish when dry. Veins free. Sori rounded, with ± caducous indusium.
 
-Fougères terrestres, à rhizome court, frondes en touffes, très écailleuses, sur le rhizome et la base des pétioles; écaillés soit clathrées et iridescentes, soit épaisses, à marges denticulées ou ciliées, base souvent cordée. Limbe lancéolé à deltoïde, bipinnatifide à 4-penné, la paire de pennes basales souvent développée basiscopiquement, à division catadrome, portant, sur le rachis et dans le sillon, à la face supérieure des costae et costulae, des poils crispés, roux, articulés, très denses. Sillon des costae et costulae à bords aplatis, continus, à costulae peu décurrents sur le costa. Texture coriace, coloration souvent brunissante sur le sec. Nervures libres. Sores arrondis, à indusie ± caduque.
+Type of genus: Aspidium ctenitis Link, = Ctenitis distans (Brack.) Ching, from Brazil.
 
-Type du genre : Aspidium ctenitis Link, = Ctenitis distans (Brack.) Ching, du Brésil.
+More than 100 species, tropical and subtropical.
 
-Plus de 100 espèces, tropicales et subtropicales.
+This genus is particularly difficult, the species being very variable as to division and pilosity. The distinction from Lastreopsis does not always seem easy to us. We nevertheless adopt for C. protensa, lanigera and pilosissima, the terminology of Miss Tindale (Contrib. N.S. Wales, 1961 and 1962).
 
-Ce genre est particulièrement difficile, les espèces étant très variables comme division et pilosité. La distinction d'avec les Lastreopsis ne nous semble pas toujours facile. Nous prenons cependant pour C. protensa, lanigersa et pilosissima, la terminologie de Miss Tindale (Contrib. N.S. Wales, 1961 et 1962).
+1. Veins not anastomosing.
 
-1. Nervures non anastomosées.
+2. Pinnules trapezoidal or dimidiate; frond pedate; upper pinnae of the same size.
 
-2. Pinnules trapézoïdales ou dimidiées; fronde pédalée; pennes supérieures de même taille.
+3. Pinnae with median costa, not bordering the lamina at its base;
 
-3. Pennes à costa médian, ne bordant pas le limbe vers sa base;
-
-penne terminale largement triangulaire.... I. C. securidiformis.
+terminal pinna broadly triangular.... I. C. securidiformis.
 
 ---
 
-3'. Pennes à costa très oblique, bordant le limbe vers la base; extrémité du limbe étroite, lobée ..... 2. C. Tindalii.
+3'. Pinnae with very oblique costa, bordering the lamina at the base; apex of lamina narrow, lobed ..... 2. C. Tindalii.
 
-2'. Pennes non dimidiées, les supérieures de taille croissante; fronde non pédalée ..... 3. C. protensa.
+2'. Pinnae not dimidiate, the upper ones progressively increasing in size; frond not pedate ..... 3. C. protensa.
 
-4. Surface du limbe pubescente, marges pubescentes; rachis portant de longs poils ..... 4. C. lanigera.
+4. Surface of lamina pubescent, margins pubescent; rachis bearing long hairs ..... 4. C. lanigera.
 
-4'. Surfaces glabres, rachis courtemment pubérulent. 5. C. pilosissima.
+4'. Surfaces glabrous, rachis shortly puberulent. 5. C. pilosissima.
 
-1'. Nervures formant quelques aréoles isolées, parfois une rangée
+1'. Veins forming some isolated areoles, sometimes a row
 
-d'aréoles marginales..... 6. C. Buchholzii.
+of marginal areoles..... 6. C. Buchholzii.
 
 ## Species in region
 

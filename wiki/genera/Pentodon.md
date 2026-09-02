@@ -17,11 +17,9 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Plants entirely glabrous. Leaves sessile or subsessile, succulent. Stipules sheathing, briefly 2–4-dentate. Flowers pentamerous with rather long pedicel. Pollen tricolporate. Ovary with two locules containing a capitate placenta; placental heads remarkably split-bilobate in their upper part.
 
-Plantes entièrement glabres. Feuilles sessiles ou subsessiles, succulentes. Stipules engainantes brièvement 2-4-dentées. Fleurs pentamères à pédicelle plutôt long. Pollen tricolporé. Ovaire à deux loges contenant un placenta capité; têtes placentaires remarquablement fendues-bilobées en leur partie supérieure.
-
-Type du genre : Pentodon pentandrus (Schum. et Thonn.) Vatke. Une seconde espèce est connue de Somalie.
+Type of the genus: Pentodon pentandrus (Schum. et Thonn.) Vatke. A second species is known from Somalia.
 
 ## Species in region
 

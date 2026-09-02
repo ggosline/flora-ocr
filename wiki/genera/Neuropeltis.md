@@ -16,73 +16,31 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 in Roxb., Fl. ind. 2 : 43 (1824).
 
-Lianes. Feuilles entières , pétiolées, mucronulées au sommet. Inflorescences en pani-
+Lianes. Leaves entire, petiolate, mucronate at apex. Inflorescences in panicles and racemes, the panicles generally terminal, the racemes rather axillary; bract adnate to pedicel, strongly accrescent and ± scarious in fruit; bracteoles sometimes present. Flower: calyx persistent, with subequal sepals; corolla ± campanulate, 5-lobed, white; stamens inserted on the corolla tube, filaments filiform, sometimes widened toward the base, anthers oblong, exsert or not; pollen grains smooth; disk poorly developed; ovary imperfectly bilocular, with 2 ovules per locule; styles 2, free, equal to subequal, stigmas bifurcate, antler-shaped, exsert or included. Fruits with 1(–2) seeds, surrounded at their base by the persistent calyx, indehiscent. Seeds glabrous.
 
-cules et en racèmes , les panicules généralement terminales, les racèmes plutôt axillaires ;
+Paleotropical genus with 14 species, 4 in Asia, and 10 in the Guineo-Congolian region, two of them (N. occidentalis Breteler and N. prevosteoides Mangenot) endemic to Upper Guinea and two (N. eladii Breteler and N. pseudovelutina Lejoly & Lisowski) endemic to Cameroon; in Gabon, 6 species.
 
-bractée soudée au pédicelle, fortement accrescente et ± scarieuse en fruit ; bractéoles
+Taxonomic note: The specimen Thomas & Wilks 6557 mentioned in Checklist of the Vascular Plants of Gabon (Sosef et al. 2006) under Neuropeltis pseudovelutina Lejoly & Lisowski, represents N. acuminata.
 
-parfois présentes. Fleur : calice persistant , à sépales subégaux ; corolle ± campanu-
+B: Breteler (2010, 2014), Lejoly & Lisowski (1984, 1993).
 
-lée, 5-lobée, blanche ; étamines insérées sur le tube de la corolle, filets filiformes, par -
+Bibliography
 
-fois élargis vers la base, anthères oblongues, exsertes ou non ; grains de pollen lisses ;
+### Key to species
 
-disque peu développé ; ovaire imparfaitement biloculaire, à 2 ovules par loge ; styles 2,
+1. - Ovary pubescent at least at apex, glabrescent in fruit or not ......................... N. acuminata
 
-libres , égaux à subégaux, stigmates bifurqués, en forme de cornes de cerf, exserts ou
+- Ovary glabrous ........................................................................................................ 2
 
-inclus . Fruits à 1(–2) graines, à leurs base entourées par le calice persistant, indéhiscent .
+2. - Stamens shorter than the corolla ......................................................................... 3
 
-Graines glabres .
+- Stamens longer than the corolla, exsert or incurved ........................................... 4
 
-Genre paléotropical à 14 espèces, 4 en Asie, et 10 dans la région Guinéo-Congolaise,
+3. - Leaf blade hairy below, often finely pitted above; inflorescence densely flowered, the axillary ones racemose and much shorter than 20 cm (sometimes the terminal ones compound up to 45 cm in length); corolla (5–)6–7 mm in length ............................................................................................................................................. N. velutina
 
-deux d’entre elles ( N. occidentalis Breteler et N. prevosteoides Mangenot) endémiques
-
-de la Haute Guinée et deux ( N. eladii Breteler et N. pseudovelutina Lejoly & Lisowski)
-
-endémiques du Cameroun ; au Gabon, 6 espèces.
-
-Note taxonomique : Le spécimen Thomas & Wilks 6557 mentionné dans Checklist des
-
-Plantes Vasculaires du Gabon (Sosef et al. 2006) sous Neuropeltis pseudovelutina Lejoly
-
-& Lisowski, représente N. acuminata.
-
-B : Breteler (2010, 2014), Lejoly & Lisowski (1984, 1993).
-
-ibliographie
-
-### Clé des espèces
-
-1. - Ovaire pubescent au moins au sommet, glabrescent en fruit ou non ... N. acuminata
-
-- Ovaire glabre ........................................................................................................... 2
-
-2. - Étamines plus courtes que la corolle ....................................................................... 3
-
-- Étamines plus longues que la corolle, exsertes ou incurvées .................................. 4
-
-3. - Limbe foliaire velu dessous, souvent finement ponctué en creux dessus ; inflores-
-
----
-
-cence densément fleurie, les axillaires racémeuses et beaucoup plus courte que
-
-20 cm (parfois les terminales composées jusqu’à 45 cm de longueur) ; corolle
-
-(5–)6–7 mm de longueur .......................................................................... N. velutina
-
-- Limbe foliaire glabre ou presque, non ponctué en creux dessus ; inflorescence très
-
-éparsement fleurie, composées et jusqu’à 20 cm de longueur ; corolle ≤ 5 mm de
-
-longueur .................................................................................................. N. laxiflora
+- Leaf blade glabrous or nearly so, not pitted above; inflorescence very sparsely flowered, compound and up to 20 cm in length; corolla ≤ 5 mm in length .............................................................................................. N. laxiflora
 
 ## Species in region
 

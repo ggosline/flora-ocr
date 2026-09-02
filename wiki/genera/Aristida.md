@@ -17,13 +17,11 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Annual or perennial plants with narrow linear leaves, often rolled, short ligule.
 
-Plantes annuelles ou pérennes à feuilles linéaires étroites, souvent enroulées, ligule courte.
+Inflorescences in more or less lax panicles. Spikelets with a single flower, disarticulating above the glumes; these similar, the lower one generally smaller, acuminate or awned, with 1 nerve. Lemma cylindrical or more or less flattened, indurate, rolled around the palea. Callus bearded, awn with 3 branches, the lateral ones more or less reduced or absent. Palea membranous, small, muticous. Two lodicules; 3 stamens.
 
-Inflorescences en panicules plus ou moins lâches. Épillets à une seule fleur, se désarticulant au dessus des glumes; celles-ci semblables, l'inférieure généralement plus petite, acuminées ou aristées, à 1 nervure. Lemma cylindrique ou plus ou moins aplatie, indurée, enroulée autour de la paléa. Callus barbu, arête à 3 branches, les latérales plus ou moins réduites ou nulles. Paléa membraneuse, petite, mutique. Deux lodicules; 3 étamines.
-
-Genre comportant de nombreuses espèces, abondantes surtout dans les zones à climat aride. Une seule est signalée au Gabon.
+Genus comprising numerous species, abundant especially in areas with arid climate. Only one is recorded from Gabon.
 
 ## Species in region
 

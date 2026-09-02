@@ -16,39 +16,19 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 in Hook., Compan. Bot. Mag . 1 : 368 (1836).
 
-Herbes annuelles, hémiparasites , glabres ; tiges dressées, quadrangulaires ou arron-
+Annual herbs, hemiparasitic, glabrous; stems erect, quadrangular or rounded. Leaves opposite to subopposite or sometimes alternate in the inflorescence, sessile; blade entire and filiform or pinnatisect with filiform segments. Inflorescences in the form of a lax, leafy raceme. Flowers pedicellate, with linear-lanceolate bracteoles; calyx 5-lobed, lobes equal; corolla subrotate, white, opening at night, with long and curved tube, 5-lobed, lobes subequal; stamens 4, didynamous, included, filaments short, pilose at the base, anthers unilocular; ovary ovoid to globular; style long and curved, generally exsert, stigma bilobed. Fruits capsular, septicide, rostrate, compressed vertically. Seeds cylindric to obovoid.
 
-dies. Feuilles opposées à subopposées ou parfois alternes dans l’inflorescence, sessiles ;
-
-limbe entier et filiforme ou pennatiséqué avec des segments filiformes. Inflorescences
-
-en forme de racème lâche, feuillé. Fleurs pédicellées, à bractéoles linéaire-lancéolées ;
-
-calice 5-lobé, à lobes égaux ; corolle subrotacée, blanche, ouverte pendant la nuit, à
-
-tube long et courbé, 5-lobé, lobes subégaux ; étamines 4, didynames, incluses, filets
-
-courts, pileux à la base, anthères uniloculaires ; ovaire ovoïde à globuleux ; style long
-
-et courbé, généralement exsert, stigmate bilobé. Fruits capsulaires septicides, rostrés,
-
-comprimés verticalement . Graines cylindriques à obovoïdes.
-
-Six espèces en Afrique tropicale et Afrique australe, à Madagascar, Turquie, Russie, Inde
-
-et Australie tropicale ; au Gabon, une espèce.
+Six species in tropical Africa and southern Africa, in Madagascar, Turkey, Russia, India and tropical Australia; in Gabon, one species.
 
 B : Hansen (1975a).
 
-ibliographie
+Bibliography
 
 ---
 
-Étamines. – E. Fruit avec calice (A–E : Fischer s.n. ). Dessin par E. Fischer (©).
+Stamens. – E. Fruit with calyx (A–E : Fischer s.n. ). Drawing by E. Fischer (©).
 
 ---
 

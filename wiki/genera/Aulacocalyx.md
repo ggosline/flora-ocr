@@ -17,35 +17,33 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Trees or shrubs. Stipules triangular acute ± attenuate, pubescent or not, ± caducous. Leaves petiolate with limb often acute at the base but sometimes subobtuse, obtuse or cordate and then ± asymmetric. 4–14 pairs of ascending secondary nerves. Anisophylly localized at the basal node of the inflorescence. Domatia axillary pubescent or absent.
 
-Arbres ou arbustes. Stipules triangulaires aiguës ± atténuées, pubescentes ou non, ± caduques. Feuilles pétiolées à limbe souvent aigu à la base mais parfois subobtus, obtus ou cordé et alors ± dissymétrique. 4-14 paires de nervures secondaires ascendantes. Anisophyllie localisée au nœud basal de l'inflorescence. Domaties axillaires pubescentes ou nulles.
+Inflorescences few- or many-flowered terminal appearing sometimes pseudoaxillary. Pedicels small to subnull. Flowers with tubular calyx dentate more or less elongately or truncate-denticulate. Corolla pubescent with tube of highly variable length. In certain species with long tube, the latter can split unilaterally giving the flower a zygomorphic aspect. Anthers sessile generally medifixed, exsert at least in part. Style glabrous rarely pubescent, with long and very narrow undivided stigmatic apex or very briefly bilobed at the apex. Small annular disc. Ovary bilocular; each locule with a placenta pendant from the apex of the septum and bearing 2 to 10 sunken ovules.
 
-Inflorescences pauci ou pluriflores terminales paraissant parfois pseudoaxillaires. Pédicelles petits à subnuls. Fleurs à calice tubuleux denté plus ou moins longuement ou tronquédenticulé. Corolle pubescente à tube de longueur très variable. Chez certaines espèces à tube long, celui-ci peut se fendre unilatéralement donnant à la fleur un aspect zygomorphe. Anthères sessiles généralement médifixes, exsertes au moins en partie. Style glabre rarement pubescent, à longue et très étroite extrémité stigmatique indivise ou très brièvement bilobée à l'apex. Petit disque annulaire. Ovaire biloculaire; chaque loge avec un placenta pendant du sommet de la cloison et comportant de 2 à 10 ovules enfoncés.
+Genus known only from Africa, with 8 species, and whose type species is A. jasminiflora. 5 species in Gabon. There is furthermore one western species A. divergens (Hutch. et Dalz.) Keay, from Guinea and Sierra Leone, very close to and vicariant of A. jasminiflora. The two latter species are East African: A. diervilleoides (K. Schum.) Petit and A. laxiflora Petit.
 
-Genre connu seulement d'Afrique, par 8 espèces, et dont l'espèce type est A. jasminiflora. 5 espèces au Gabon. Il existe en outre une espèce occidentale A. divergens (Hutch. et Dalz.) Keay, de Guinée et Sierra Leone, très proche et vicariante de A. jasminiflora. Les deux dernières espèces sont Est-africaines : A. diervilleoides (K. Schum.) Petit et A. laxiflora Petit.
-
-Les corolles de certaines fleurs se fendent unilatéralement et paraissent ± zygomorphes; cette tendance est remarquable chez quelques espèces qui furent distinguées dans un genre Dorothea; les critères de ce taxon ont dû être considérés comme ayant une valeur générique insuffisante.
+The corollas of certain flowers split unilaterally and appear ± zygomorphic; this tendency is remarkable in a few species that were distinguished in a genus Dorothea; the criteria of this taxon had to be considered as having insufficient generic value.
 
 ---
 
-# N. HALLÉ. — RUBIACÉES-GARDÉNIÉES
+# N. HALLÉ. — RUBIACEAE–GARDENIEAE
 
-### CLÉ DES AULACOCALYX
+### KEY TO AULACOCALYX
 
-1. Limbe à base obtuse à cordée, fréquemment ± dissymétrique, et à 9-14 paires de nervures secondaires; lobes calycinaux étroits et ± subulés; inflorescences 1-3-flores, souvent uniflores.....
+1. Limb with obtuse to cordate base, frequently ± asymmetric, and with 9–14 pairs of secondary nerves; calycine lobes narrow and ± subulate; inflorescences 1–3-flowered, often uniflorous.....
 
-1'. Limbe à base aiguë ou parfois subobtuse mais symétrique, et à moins de 8 paires de nervures secondaires, généralement 4-6 paires.
+1'. Limb with acute or sometimes subobtuse but symmetric base, and with fewer than 8 pairs of secondary nerves, generally 4–6 pairs.
 
-2. Lobes calycinaux deltoïdes très aiguis à ± subulés; corolle rotacée à pilosité et longueur du tube variables; inflorescences contractées pauci ou multiflores.
+2. Calycine lobes deltoid very acute to ± subulate; corolla rotate with pilosity and tube length variable; inflorescences contracted few- or many-flowered.
 
-3. Jeunes entrenœuds et surtout stipules vêtus d'une pubescence ± dorée caractéristique.
+3. Young internodes and especially stipules clothed with ± golden pubescence characteristic.
 
-4. Sépales moyens ou longs, d'env. 2,5-5 mm.....
+4. Sepals medium or long, of ca. 2.5–5 mm.....
 
 ..... 2a. A. jasminiflora var. jasminiflora
 
-4'. Sépales courts d'env. 1-2 mm.....
+4'. Sepals short of ca. 1–2 mm.....
 
 ..... 2b. A. jasminiflora var. brevis
 

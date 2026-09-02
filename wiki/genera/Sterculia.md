@@ -15,29 +15,27 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Trees often tall. Stipules small, caducous very rapidly. Leaves simple, alternate, bearing at least when young, stellate hairs. Petiole without canal, more or less geniculate near the upper extremity. Venation of the blade variable between pinnate and palmate types.
 
-Arbres souvent élevés. Stipules petites très rapidement caduques. Feuilles simples, alternes, portant au moins dans le jeune âge, des poils étoilés. Pétiole sans canal plus ou moins genouillé près de l'extrémité supérieure. Nervation du limbe variable entre le type penné et le type palmé.
+Inflorescences in axillary racemes. Flowers ♂ or ♀ without corolla. Calyx campanulate with 5 lobes. ♂ Flower with androecium formed of a narrow column bearing sessile anthers irregularly arranged. ♀ Flower with ovary composed of 4–5 pluriovulate, hairy carpels, coherent or tightly juxtaposed, typically alternisepalous, each bearing a stigmatic lobe curved outward. Anthers atrophied around the base of the ovary.
 
-Inflorescences en grappes axillaires. Fleurs ♂ ou ♀ sans corolle. Calice campanulé à 5 lobes. Fleur ♂ à androcée formé d'une colonne étroite portant des anthères sessiles irrégulièrement disposées. Fleur ♀ à ovaire composé de 4-5 carpelles pluriovulés, velus, adhérents ou étroitement juxtaposés, typiquement alternisépales, portant chacun un lobe stigmatique recourbé extérieurement. Anthères atrophiées autour de la base de l'ovaire.
+Fruits composed of several separate radiating follicles, moderately or shortly pedicellate, with a coriaceous dehiscent envelope. Seeds not winged, inserted on the dehiscence line, albuminous, with radicle opposite to the hilum.
 
-Fruits composés de plusieurs follicules séparés rayonnants, moyennement ou courtement pédonculés, à enveloppe coriace déhiscente. Graines non ailées, insérées sur la ligne de déhiscence, albuminées, à radicule opposée au hile.
+The distinction between Sterculia and Cola rests firstly on the arrangement of anthers: they never have a regular or organized arrangement in Sterculia. The second essential difference concerns the seed: it is never devoid of albumen in Sterculia.
 
-La distinction entre les Sterculia et les Cola repose premièrement sur la disposition des anthères : elles n'ont jamais une disposition régulière ou organisée chez les Sterculia. La seconde différence essentielle concerne la graine : elle n'est jamais dépourvue d'albumen chez les Sterculia.
+We exclude Sterculia lastoursvillensis Bodard et Pellegr., in which the anthers are regularly arranged in phalanges; no affinity exists between this species with digitately compound leaves and Sterculia; by contrast this species is manifestly related to Chlamydocola chlamydantha (formerly confused with
 
-Nous excluons le Sterculia lastoursvillensis Bodard et Pellegr. chez lequel les anthères sont régulièrement disposées en phalanges; aucune affinité n'existe entre cette espèce à feuilles composées digitées et les Sterculia; par contre cette espèce est manifestement parente du Chlamydocola chlamydantha (autrefois confondu avec
+<<<---SECTION-BREAK--->>>
 
----
+Cola). Like Sterculia, Chlamydocola have an albuminous seed.
 
-les Cola). Comme les Sterculia, les Chlamydocola ont une graine albuminée.
+We exclude on the other hand Sterculia bayakensis Pellegr., which proved to be identical to Pterygota bequaertii De Wild. Pellegrin's type had a pathologically irregular androecium.
 
-Nous excluons d'autre part le Sterculia bayakensis Pellegr. qui s'est révélé être identique au Pterygota bequaertii De Wild. Le type de Pellegrin avait un androcée pathologiquement irrégulier.
+It is appropriate to set aside moreover Sterculia oblonga Mast. and rhinopetala K. Sch. The first exists in Gabon and characterizes the genus Eribroma Pierre. The second has not yet been found in Gabon; it likewise merits a separate place because its seeds and androecium are very particular, different from those of true Sterculia.
 
-Il convient d'écarter en outre les Sterculia oblonga Mast. et rhinopetala K. Sch. Le premier existe au Gabon et caractérise le genre Eribroma Pierre. Le second n'a pas encore été trouvé au Gabon; il mérite également une place à part car ses graines et son androcée sont très particuliers, différents de ceux des véritables Sterculia.
+The genus Sterculia, for which the need for a comprehensive revision is felt, comprises approximately 200 species from all tropical regions; they form a rather heterogeneous assemblage. The forests of West Africa comprise only a small number of them, which are trees of fairly large size with soft wood.
 
-Le genre Sterculia pour lequel le besoin d'une révision d'ensemble se fait sentir, comprend environ 200 espèces de toutes les régions tropicales; elles forment un ensemble assez hétérogène. Les forêts de l'Afrique de l'ouest n'en comprennent qu'un petit nombre qui sont des arbres d'assez grande taille à bois tendre.
-
-St. foetida L., d'Asie, est l'espèce type du genre.
+*St. foetida* L., from Asia, is the type species of the genus.
 
 ## Species in region
 

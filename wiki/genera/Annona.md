@@ -17,19 +17,17 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Small trees, shrubs or rhizomatous suffrutices, glabrous or with indumentum of simple hairs. Buds globose, conical or triquetrous. Flowers generally solitary or in pauciflorous inflorescences, terminal, opposite to the leaves or extra-axillary. Bracteoles persistent or caducous. Sepals 3, valvate, much smaller than the petals. Petals 6, in two equal or unequal whorls, free or connate at the base, the outer ones valvate, the inner ones valvate or imbricate, sometimes rudimentary or absent. Stamens very numerous, linear-oblong; filament short, thecae extrorse; connective dilated above the anthers, often papillose. Carpels numerous, free in the flower or ± connate, cylindrical, stigmas claviform, ± muriculate. 1 ovule only, erect.
 
-Petits arbres,arbustes ou arbrisseaux rhizomateux，glabres ou â indument de poils simples.Boutons globuleux,coniques ou triquetres.Fleurs généralement ,solitaires ou en inflorescences pauciflores,terminales,oppositifoliees ou extra-axillaires.Bractéoles persistantes ou caduques. Sépales 3，valvaires, beaucoup plus petits que les pétales.Pétales 6,en deux verticilles égaux ou inégaux,libres ou soudés ä la base,les externes valvaires，les internes valvaires ou imbriqués,parfois rudimentaires ou nuls. Etamines tres nombreuses,linéaires-oblongues; filet court,théques extrorses；connectif dilaté au-dessus des antheres, souvent papilleux.Carpelles nombreux, libres dans la fleur ou ± soudes, cylindriques,stigmates claviformes,± muriqués.1 seul ovule dressé.
+Syncarpous fruits, fleshy, ovoid or globose to cylindrical. Seeds numerous embedded in the pulp. Aril visible or absent.
 
-Fruits syncarpiques,charnus,ovoides ou globuleux â cylindriques.Graines nombreuses noyées dans la pulpe.Arille visible ou absent.
+Type species: A. muricata L.
 
-Espece type :A. muricata L.
+Tropical genus comprising about a hundred species, most of them American. Only 4 indigenous species are present in Africa and Madagascar with several subspecies and varieties: A. glauca Thonn. has a very restricted range in West Africa, A. glabra L. is a mangrove species, whilst A. senegalensis Pers. and A. stenophylla Engl. et Diels are savanna species much more widely distributed. Four other species, originating from America, are introduced and cultivated in Africa.
 
-Genre tropical groupant une centaine d'espéces,la plupart américaines.4 especes indigenes sont seulement présentes en Afrique et a Madagascar avec plusieurs sous-especes et variétés : A.glauca Thonn.a une aire de répartition tres restreinte en Afrique occidentale,A.glabra L. est une espéce de mangrove, tandis qu'A.senegalensis Pers. et A.stenophylla Engl. et Diels sont des espéces de savane beaucoup plus largement répandues. Quatre autres espéces,originaires d'Amérique,sont introduites et cultivées en Afrique.
+1.- For the spelling Annona versus Anona (Miller Ph., Gardeners Dict. 4, fig. 23 (1755) see J.E. Dandy, Regnum vegetabile, 51:27 (1967).
 
-1.- Pour la graphie Annona versus Anona (Miller Ph.,Gardeners Dict.4，fig. 23 (1755) voir J.E.Dandy,Regnum vegetabile,51:27 (1967).
-
-Comme les Anonidium, les Annona font partie d'une série évolutive renfermant des genres parmi les plus évolués dans la famille, tendant vers une véritable syncarpie.
+Like Anonidium, Annona are part of an evolutionary series containing genera among the most evolved in the family, tending towards true syncarpium.
 
 ## CLE DES ESPECES
 

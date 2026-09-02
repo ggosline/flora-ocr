@@ -19,33 +19,31 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Annual or perennial grasses with fine culms. Inflorescence in false panicles of racemes.
 
-Herbes annuelles ou pérennes à chaumes fins. Inflorescence en faussc panicule de racèmes.
+Spikelets in solitary racemes at the apex of culms or their branches and supported by narrow, scarious or more or less herbaceous spatheoles. Rachis articles and pedicels swollen toward the apex and often quite massive, detaching with the pair of spikelets they support.
 
-Épillets en racèmes solitaires à l'extrémité des chaumes ou de leurs ramifications et supportés par des spathéoles étroites, scarieuses ou plus ou moins herbacées. Articles du racème et pédicelles renflés vers le sommet et souvent assez massifs, se détachant avec la paire d'épillets qu'ils supportent.
+Lower floret reduced to a lemma, the upper hermaphrodite in the sessile spikelet, male in the pedicellate spikelet, sometimes reduced or suppressed.
 
-Fleur inférieure réduite à une glumelle, la supérieure hermaphrodite dans l'épillet sessile, mâle dans l'épillet pédicellé, parfois réduite ou supprimée.
+Lower glume of the sessile spikelet more or less flattened on the back, bicarinate, each keel terminating in a short tooth or a mucro. Upper glume navicular, keeled at least toward the apex. Lemmas ciliolate, hyaline, lemma of the lower floret with 2 nerves, that of the upper floret bifid or bidentate, sometimes entire, prolonged in the sinus by an awn. Palea minute or absent. Two small lodicules, 3 stamens. Pedicellate spikelet generally wider and more flattened or of reduced size. Glumes membranous, the lower sometimes awned. Lemmas, when present, hyaline, ciliate, awnless.
 
-Glume inférieure de l'épillet sessile plus ou moins aplatie sur le dos, bicarénée. chaque carène se terminant par une courte dent ou un mucron. Glume supérieure naviculaire, carénée au moins vers le sommet. Glumelles ciliolées, hyalines, lemma de la fleur inférieure à 2 nervures, celle de la fleur supérieure bifide ou bidentée, parfois entière, prolongée dans le sinus par une arête. Paléa minuscule ou nulle. Deux petites lodicules, 3 étamines. Épillet pédicellé généralement plus large et plus aplati ou de taille réduite. Glumes membraneuses, l'inférieure parfois aristée. Glumelles, lorsqu'elles sont présentes, hyalines, ciliées, mutiques.
+This genus is characterized essentially by its glumes with clearly folded margins, its solitary racemes and its awned spikelets. Two groups of species, differentiated by their fertile lemma more or less deeply bifid, are represented in Gabon or have a strong chance of being so.
 
-Ce genre se caractérise essentiellement par ses glumes à bords nettement repliés, ses racèmes solitaires et ses épilets aristés. Deux groupes d'espèces, différenciés par leur glumelle fertile plus ou moins profondément bifide, sont représentés au Gabon ou ont de fortes chances de l'être.
-
-1. Glumelle inférieure fertile de l'épillet sessile bifide jusqu'à son milieu ou au-delà; glume inférieure généralement arrondie sur le dos, nervures indistinctes.
+1. Lower fertile lemma of the sessile spikelet bifid to its middle or beyond; lower glume generally rounded on the back, nerves indistinct.
 
 ---
 
-2. Feuilles linéaires courtes, obtuses ou courtemment acuminées au sommet; base des chaumes prostrée; herbes annuelles ou pérennes.
+2. Leaves linear short, obtuse or shortly acuminate at the apex; base of culms prostrate; annual or perennial grasses.
 
-3. Tiges fines, très ramifiées; feuilles jusqu'à 3 mm de large, parfois plus, mais seulement sur la tige primaire; épilets sessiles jusqu'à 3 mm de long..... 1. S. brevifolium.
+3. Stems fine, much-branched; leaves up to 3 mm wide, sometimes more, but only on the primary stem; sessile spikelets up to 3 mm long..... 1. S. brevifolium.
 
-3'. Tige relativement robuste, avec quelques ramifications aux nœuds inférieurs; feuilles de 4 à 10 mm de large; épilets sessiles de 4 mm de long..... 2. S. platphyllum.
+3'. Stem relatively robust, with some branching at the lower nodes; leaves 4 to 10 mm wide; sessile spikelets 4 mm long..... 2. S. platyphyllum.
 
 ..... 3. S. semiberbe.
 
-1'. Glumelle inférieure fertile de l'épillet sessile courtement bidentée au sommet; glume inférieure aplatie sur le dos, avec des nervures fines mais distinctes; herbes pérennes dressées à racèmes pubescents soyeux blancs..... 4. S. Thollonii.
+1'. Lower fertile lemma of the sessile spikelet shortly bidentate at the apex; lower glume flattened on the back, with fine but distinct nerves; erect perennial grasses with white silky pubescent racemes..... 4. S. Thollonii.
 
-Les Schizachyrium sont des herbes de savane, qui peuvent se rencontrer dans des stations assez diverses. Les exigences écologiques des différentes espèces sont souvent assez étroites. Les espèces annuelles sont généralement de bonnes plantes fourrages, d'un intérêt réduit cependant du fait de leur faible développement et de leur densité souvent faible dans les peuplements herbacés.
+Schizachyrium are savanna grasses, which can be found in quite diverse stations. The ecological requirements of the different species are often quite narrow. The annual species are generally good forage plants, of reduced interest however due to their weak development and their often low density in herbaceous stands.
 
 56.1 brevifolium
 

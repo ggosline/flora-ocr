@@ -17,25 +17,23 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Shrubs (2.5-6-(10) m tall), monoecious.
 
-Arbustes (2,5-6-(10) m de haut), monoïques.
-
-Feuilles stipulées, entières ou faiblement denticulées dans le tiers supérieur des marges.
+Leaves stipulate, entire or weakly denticulate in the upper third of the margins.
 
 ---
 
-Inflorescences axillaires, en cymes ou en glomérules pauciflores. Fleurs unisexuées, enveloppées dans de grandes bractées (préfeuilles bractéales) ou soutenues par de petites bractées triangulaires ; pédicelle articulé ou non ; sépales 4, en 2 paires décussées ; les 2 externes recouvrant presque entièrement les 2 internes dans le jeune bouton ; pétales absents. Fleurs ♂ à androcée comportant un tube basal ; étamines 7-15-20) ; couronne de staminodes intrastaminale présente ou absente ; ovaire abortif, pubescent. Fleurs ♀ à androcée avorté, ± réduit ; ovaire pubescent ou glabre ; styles 4, ± robustes, pubescents ou glabres ; stigmates densément ou légèrement papillifères.
+Inflorescences axillary, in cymes or in pauciflorous glomérules. Flowers unisexual, enveloped in large bracts (bracteale prefolia) or supported by small triangular bracts; pedicel articulate or not; sepals 4, in 2 decussate pairs; the 2 external ones almost entirely covering the 2 internal ones in the young bud; petals absent. ♂ flowers with androecium comprising a basal tube; stamens 7-15-(20); crown of intrastaminal staminodes present or absent; abortive ovary, pubescent. ♀ flowers with aborted androecium, ± reduced; ovary pubescent or glabrous; styles 4, ± robust, pubescent or glabrous; stigmas densely or lightly papilliferous.
 
-Fruits (juvéniles) pubescents ou glabres, avec les styles persistants.
+Fruits (juvenile) pubescent or glabrous, with persistent styles.
 
-ESPÈCE-TYPE : T. acuminatus GILG.
+TYPE SPECIES: T. acuminatus GILG.
 
-Genre d’Afrique tropicale occidentale comprenant 2 espèces qui sont présentes au Gabon.
+Genus of tropical West Africa comprising 2 species which are present in Gabon.
 
-1. Inflorescences en cymes unipares ou bipares ; boutons floraux enveloppés dans de grandes bractées (de 7-10 mm de long) ou préfeuilles bractéales ; étamines 10-20 ; présence de couronne de staminodes intrastaminale ; pistil densément pubescent ; stigmates échiniformes, densément papillifères . . . .
+1. Inflorescences in unipare or bipare cymes; floral buds enveloped in large bracts (7-10 mm long) or bracteale prefolia; stamens 10-20; presence of intrastaminal staminode crown; pistil densely pubescent; stigmas echiniform, densely papilliferous . . . .
 
-1'. Inflorescences en glomérules pauciflores ; fleurs soutenues par de petites bractées (environ 2 mm de long) ; étamines 7-8 ; absence de couronne de stami-nodes intrastaminale ; pistil glabre ou glabrescent ; stigmates légèrement papillifères ..... 2. T. gabonensis
+1'. Inflorescences in pauciflorous glomérules; flowers supported by small bracts (approximately 2 mm long); stamens 7-8; absence of intrastaminal staminode crown; pistil glabrous or glabrescent; stigmas lightly papilliferous ..... 2. T. gabonensis
 
 ## Species in region
 

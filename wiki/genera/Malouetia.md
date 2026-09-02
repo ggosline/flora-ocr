@@ -17,61 +17,27 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Arbres ou arbustes à latex blanc. Feuilles opposées ; pétiole glabre ; limbe à base cunéée ou
-
-décurrente sur le pétiole, acuminé avec une pointe obtuse ou aigu au sommet, glabre sur les
-
-deux faces, aisselles des nervures principales dessous à domaties en fossette à marge glabre
-
-ou ciliée ; nervure médiane et secondaires proéminentes et distinctes dessous. ,QÀRUHVFHQFHV
-
-terminales, ou apparemment axillaires, car surmontées ensuite par 1 ou 2 branches axillaires,
+Trees or shrubs with white latex. Leaves opposite; petiole glabrous; blade with cuneate or decurrent base on the petiole, acuminate with an obtuse or acute apex, glabrous on both surfaces, axils of the principal veins below with domatia in a pit with glabrous or ciliate margin; midvein and secondary veins prominent and distinct below. Inflorescences terminal, or apparently axillary, as they are subsequently surmounted by 1 or 2 axillary branches,
 
 ---
 
-Biodiversity Center (©), reproduit à partir de Persoon et al. (1992).
+Biodiversity Center (©), reproduced from Persoon et al. (1992).
 
 ---
 
-Okfkhv j FRQWUDFWpHV EHDXFRXS SOXV FRXUWHV TXH OHV IHXLOOHV DYHF j ÀHXUV EUDFWpHV
+Bracts contracted much shorter than the leaves with bracteate flowers ovate. Fleshy flowers, calyx with lobes imbricate alternating with groups of colleter flowers, corolla white with tube with basal part cylindric and apical part cupuliform or conic with lobes spreading, covering toward the right; stamens included or exserted, inserted at the base of the enlarged part of the tube, forming a cone attached to the pistil head, anther narrowly triangular, acuminate at the apex, sterile at the base, longly auriculate; disk absent or lobed; ovaries subglobose with carpels united at the base, glabrous up to the height of the disk; pistil with fusiform head coherent with the anthers. Fruits composed of 2 follicles connate at the base, divergent, 0.5–2 cm cylindric and filiform toward the apexes opening by a longitudinal slit on the adaxial side. Seeds obliquely fusiform, channeled on the hilar side base and apex hairy, without coma.
 
-ovales. Fleurs charnues FDOLFHjOREHVLPEULTXpVDOWHUQDQWDYHFGHVJURXSHVGHFROOpWqUHV
+Genus comprising four species limited to tropical Africa, two of which in Gabon.
 
-FRUROOHEODQFKHjWXEHjSDUWLHEDVDOHF\OLQGULTXHHWSDUWLHDSLFDOHFXSXOLIRUPHRXFRQLTXHj
+B: Beentje (2021), Endress et al. (2019), van der Ploeg (1985).
 
-lobes étalés, recouvrant vers la droite ; étamines incluses ou exsertes, insérées à la base de
+BIBLIOGRAPHY
 
-la partie élargie du tube, formant un cône lié à la tête du pistil, anthère étroitement trian-
+### Key to the species
 
-JXODLUHDFXPLQpHDXVRPPHWVWpULOHjEDVHORQJXHPHQWDXULFXOpHGLVTXHDEVHQWRXOREp
+1. - Corolla with tube 4.5–5.5 mm long, with lobes 4.5–6.5 × 0.9–1.5 mm; stamens included; domatia with ciliate margin; follicles 8–11 cm long .......... M. mildbraedii
 
-RYDLUHVXEJOREXOHX[jFDUSHOOHVXQLVjODEDVHJODEUHVMXVTX¶jODKDXWHXUGXGLVTXHSLVWLO
-
-à tête fusiforme cohérente avec les anthères. Fruits composés de 2 follicules connés à la base,
-
-GLYHUJHDQWj± cylindriques HI¿Opvyhuvohvrpphwv¶RXYUDQWSDUXQHIHQWHORQJLWXGL -
-
-nale du côté adaxial. Graines REOLTXHPHQWIXVLIRUPHVFDQQHOpHVVXUOHF{Wpklodluhjedvhhw
-
-sommet poilu, sans coma .
-
-*HQUHFRPSRUWDQWTXDWUHHVSqFHVOLPLWpHVjO¶$IULTXHWURSLFDOHGRQWGHX[DX*DERQ
-
-B : Beentje (2021), Endress et al. (2019), van der Ploeg (1985).
-
-IBLIOGRAPHIE
-
-### Clé des espèces
-
-1. - Corolle à tube long de 4,5–5,5 mm, à lobes de 4,5–6,5 × 0,9–1,5 mm ; étamines
-
-incluses ; domaties à marge ciliée ; follicules longs de 8–11 cm .......... M. mildbraedii
-
-- Corolle à tube long de 12–18,5 mm, à lobes de 8–17 × 5–10 mm ; étamines ex-
-
-sertes ; domaties à marge glabre ; follicules longs de 16–47 cm ....... M. bequaertiana
+- Corolla with tube 12–18.5 mm long, with lobes 8–17 × 5–10 mm; stamens exserted; domatia with glabrous margin; follicles 16–47 cm long ....... M. bequaertiana
 
 ## Species in region
 

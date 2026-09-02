@@ -17,71 +17,31 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+In Gabon: terrestrial or epiphytic plants, perennial; stems succulent or suffrutescent or rhizomatous, rarely climbing by adventitious roots, the epiphytes especially with stellate or scaly hairs. Leaves peltate or not; lamina entire or sometimes lobed, palmate or even bipinnate; venation pennate to palmate. Inflorescence unisexual or bisexual; bisexual cymes with central flowers male, lateral flowers female. Flower ♂: tepals 2 or 4; stamens: 3–50. Flower ♀: tepals 2 or 4, free or sometimes fused into a column in the lower part; ovary winged, ribbed or wingless; obovoid, ovoid, globose or fusiform, 2–5-locular, with triangular, square or circular section; placentas: 1 to 2 per locule; styles 2–4, simple or most often divided at the apex with branches covered by longitudinal stigmatic patches, ± coiled-spiralled or horseshoe-shaped. Fruit: fleshy and dehiscent or not, less often capsular, winged or wingless.
 
-Au Gabon : plantes terrestres ou épiphytes , pérennantes ; tiges charnues ou suffrutes-
+Begonia is a very large genus with approximately 1500 species and currently divided into 65 sections. In Gabon 55 species (including 21 endemic) are recorded, belonging to 7 sections.
 
-centes ou rhizomateuses, rarement grimpantes par racines adventives, les épiphytes sur-
+To facilitate identification of the species, one proceeds by way of a key to the sections and their treatment in alphabetical order; within each of them, the species are also treated alphabetically.
 
-tout avec des poils stellés ou écailleux . Feuilles peltées ou non ; limbe entier ou parfois
+BIBLIOGRAPHY
 
-lobé, palmé ou même bipenné ; nervation pennée à palmée. Inflorescence 1- ou 2-sexuée ;
-
-cymes bisexuées avec les fleurs centrales mâles, les latérales femelles. Fleur ♂ : tépales 2
-
-ou 4 ; étamines : 3–50. Fleur ♀ : tépales 2 ou 4 , libres ou parfois soudés en une colonne
-
-dans la partie inférieure ; ovaire ailé, côtelé ou aptère ; obovoïde, ovoïde, globuleux ou
-
-fusiforme, 2–5-loculaire, à section triangulaire, carrée ou circulaire ; placentas : 1 à 2 par
-
-loge ; styles 2–4, simples ou le plus souvent divisés au sommet avec les branches couver-
-
-tes de plages stigmatiques longitudinales, ± enroulées-spiralées ou en fer à cheval. Fruit :
-
-charnu et déhiscent ou non, moins souvent capsulaire, ailé ou aptère.
-
-Begonia est un très grand genre avec env. 1500 espèces et divisé actuellement en 65 sec-
-
-tions. Au Gabon on recense 55 espèces (dont 21 endémiques) appartenant à 7 sections.
-
-Pour faciliter l’identification des espèces, on passe par une clé des sections et leur trai-
-
-tement dans un ordre alphabétique ; à l’intérieur de chacune d’entre elles, les espèces le
-
-sont aussi traitées alphabétiquement.
-
-B : Doorenbos, Sosef & de Wilde (1998), Hooker (1871), Hutchinson., Dal-
-
-IBLIOGRAPHIE
-
-ziel & Keay (1954), Tebbitt (2005), Wilczek (1969a).
+B: Doorenbos, Sosef & de Wilde (1998), Hooker (1871), Hutchinson, Dalziel & Keay (1954), Tebbitt (2005), Wilczek (1969a).
 
 ---
 
-### Clé des sections
+### Key to the sections
 
-1. - Fleurs à 4 tépales ..................................................................................................... 2
+1. - Flowers with 4 tepals ..................................................................................................... 2
 
-- Fleurs à 2 tépales ..................................................................................................... 3
+- Flowers with 2 tepals ..................................................................................................... 3
 
-2. - Plante terrestre ; feuilles palmatilobées à nervation palmée ; fruit largement ellip
+2. - Terrestrial plant; leaves palmatilobed with palmate venation; fruit broadly ellipsoid with 3 or 6 prominent nerves, indehiscent ...................... sect. Mezierea (p. 30)
 
-soïde à 3 ou 6 nervures saillantes, indéhiscent ...................... sect. Mezierea (p. 30)
+- Plants mostly epiphytic; leaves with entire or toothed margin, never palmatilobed; fruit fusiform, rarely claviform, dehiscent in valves or by slits ................................................................................... sect. Tetraphila (p. 72)
 
-- Plantes le plus souvent épiphytes ; feuilles à bordure entière ou dentée, jamais
+3. - Epiphytes with woody stems, indument formed of fimbriate scales; with 2 large persistent bracts forming a flattened cupule enveloping the inflorescence and infructescence ............................................................. sect. Squamibegonia (p. 65)
 
-palmatilobée ; fruit fusiforme, rarement claviforme, déhiscent en valves ou par
-
-fentes ................................................................................... sect. Tetraphila (p. 72)
-
-3. - Epiphytes à tiges ligneuses, à indument formé d’écailles fimbriées ; à 2 grandes
-
-bractées persistantes formant une cupule aplatie enveloppant l’inflorescence et
-
-l’infrutescence ............................................................. sect. Squamibegonia (p. 65)
-
-- Plantes herbacées, terrestres ou rarement grimpantes, sans indument écailleux ; .....
+- Herbaceous plants, terrestrial or rarely climbing, without scaly indument; .....
 
 ## Species in region
 

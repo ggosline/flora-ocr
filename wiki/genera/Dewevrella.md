@@ -17,41 +17,13 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Twining lianes, without tendrils, with white latex. Leaves decussate, petiolate, those of a pair equal; petiole canaliculate. Inflorescences axillary and terminal, thyrsoid, with numerous flowers. Flowers purple, actinomorphic, calyx without colleters, with imbricate lobes in bud; corolla with lobes with basal part valvate in bud, with apical part contorted and overlapping towards the right; stamens clearly exserted, filaments coiled around the style towards the left for the lower part and from this point onwards after a transition zone coiled towards the right, anthers forming a cone, introrse, with 2 longitudinally dehiscent locules over their entire length, the connective coherent with the head of the pistil, lobed disc covering the ovary; ovary composed of 2 free carpels, united by the style. Fruits composed of 2 follicles, connate at the base, dehiscent over their entire length by an adaxial longitudinal slit, with placenta detaching from the carpel, with numerous seeds. Seeds fusiform, compressed laterally towards the apex and base, with an apical coma directed towards the apex of the carpel; endosperm fleshy, surrounding the fleshy embryo.
 
-Lianes volubiles, sans vrilles, à latex blanc. Feuilles décussées, pétiolées, celles d’une paire
+Monotypic genus, limited to tropical Africa.
 
-égales ; pétiole canaliculé. ,QÀRUHVFHQFHV D[LOODLUHVHWWHUPLQDOHVWK\UVRwGHVjÀHXUVQRP -
+B: Beentje (2021), Endress et al. (2019), van der Ploeg (1985).
 
-breuses. Fleurs Pquhv DFWLQRPRUSKHV FDOLFH VDQV FROOpWqUHV j OREHV LPEULTXpV GDQV OH
-
-bouton ; corolle à lobes à partie basale valvaire en bouton, à partie apicale contortée et re-
-
-couvrant vers la droite ; étamines nettement exsertes, ¿OHWVHQURXOpVDXWRXUGXVW\OHYHUV
-
-la gauche pour la partie inférieure et à partir de ce point après une zone de transition
-
-enroulés vers la droite , anthères formant un cône, introrses, à 2 loges déhiscentes longitu-
-
-GLQDOHPHQWVXUWRXWHOHXUORQJXHXUOHFRQQHFWLIFRKpUHQWDYHFODWrWHGXSLVWLOGLVTXHOREp
-
-recouvrant l’ovaire ; ovaire composé de 2 carpelles libres, unis par le style. Fruits composés
-
-de 2 follicules , connés à la base, déhiscents sur toute la longueur par une fente longitudinale
-
-adaxiale, à placenta se détachant du carpelle, avec de nombreuses graines. Graines fusiformes,
-
-comprimées latéralement vers le sommet et la base, avec un coma apical dirigé vers le sommet
-
-du carpelle ; endosperme charnu, entourant l’embryon charnu.
-
-*HQUHPRQRW\SLTXHOLPLWpjO¶$IULTXHWURSLFDOH
-
-B : Beentje (2021), Endress et al. (2019), van der Ploeg (1985).
-
-IBLIOGRAPHIE
-
----
+BIBLIOGRAPHY
 
 ## Species in region
 

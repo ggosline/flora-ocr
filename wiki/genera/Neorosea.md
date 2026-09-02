@@ -17,29 +17,27 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+(1753); nec Rosea Martius (1826), syn. of Iresine P. Br., Amaranthaceae.
 
-(1753); nec Rosea Martius (1826), syn. de Iresine P. Br., Amaranthacées.
-
-Arbres ou arbustes. Stipules connées aux aisselles pétiolaires, à rostre aigu. Feuilles souvent munies de galles bactériennes disposées tantôt en lignes bordant la médiane, tantôt en taches dans les champs intersecondaires (variation similaire à celle qui existe chez les Psychotria).
+Trees or shrubs. Stipules connate at the petiolar axils, with an acute rostrum. Leaves often bearing bacterial galls arranged either in lines bordering the midvein, or as spots in the intersecondary fields (variation similar to that which exists in Psychotria).
 
 ---
 
-Fleurs blanches fasciculées ou solitaires, axillaires, munies à la base ou sur le pédoncule de cupules involucrales souvent ± emboîtées. Pédoncule médiocre ou nul. Calice à limbe recouvrant entièrement ou partiellement la corolle dans le bouton, et se fendant en 2-3 ou 4 lobes. Corolle 7-9 mère à lobes recouvrants vers la gauche dans le bouton. Anthères insérées au niveau de la gorge, exsertes, basifixes, à sommet obtus à subaigu mais non apiculé, à 2 loges orientées latéralement, à connectif élargi et aminci entre les loges; flet très court. Pollen tricolporé, de 12-20 μ hexagonal en vue polaire, à exine ponctuée. Style pubescent ou glabre. Stigmate bilobé à lobes ± allongés parfois brièvement épaissis. Ovaire à 2 loges; chaque loge avec un placenta axile pendant ellipsoïde dans lequel au même niveau sont 2 ovules espacés net-tement enfoncés, souvent disposés latéralement. Petit disque annulaire glabre.
+Flowers white, fasciculate or solitary, axillary, provided at the base or on the peduncle with involucral cupules often ± nested. Peduncle moderate or absent. Calyx with limb covering entirely or partially the corolla in the bud, and splitting into 2–3 or 4 lobes. Corolla 7–9-merous with lobes overlapping to the left in the bud. Anthers inserted at the level of the throat, exserted, basifixed, with apex obtuse to subacute but not apiculate, with 2 locules oriented laterally, with a connective enlarged and thinned between the locules; filament very short. Pollen tricolporate, 12–20 μ hexagonal in polar view, with punctate exine. Style pubescent or glabrous. Stigma bilobed with lobes ± elongate sometimes briefly thickened. Ovary with 2 locules; each locule with an axile placenta pendant, ellipsoid, in which at the same level are 2 ovules distinctly spaced, deeply sunken, often arranged laterally. Small annular glabrous disc.
 
-Baie sphérique de 1-2 cm de diamètre à épiderme le plus souvent mince, ordinairement jaunâtre ou olivacé à sec et non nigrescent. Graines ± ovoïdes à 1 ou 2 faces planes par compression réciproque, de 4-6 mm (jusqu'à 11 mm dans le fruit frais); cicatrice hilaire elliptique, plane, relativement grande; testa brillant très finement ridé à sec, brun ou noir, très mince. Albumen épais très dur. Embryon droit à radicule dirigée vers l'apex du fruit.
+Berry spherical, 1–2 cm in diameter with epidermis most often thin, ordinarily yellowish or olivaceous when dry and not blackening. Seeds ± ovoid with 1 or 2 faces flattened by mutual compression, 4–6 mm (up to 11 mm in the fresh fruit); hilar scar elliptic, plane, relatively large; testa shiny, very finely wrinkled when dry, brown or black, very thin. Albumen thick, very hard. Embryo straight with radicle directed toward the apex of the fruit.
 
-Espèce type : Neorosea jasminiflora (Klotzsch) N. Hallé, comb. nov., = Rosea jasminiflora Klotzsch, l. c. : 502 (1853).
+Type species: Neorosea jasminiflora (Klotzsch) N. Hallé, comb. nov., = Rosea jasminiflora Klotzsch, l. c.: 502 (1853).
 
-Hiern accorde à ce genre négligé valeur de section parmi les Tricalysia de la F.T.A.; les limites qu'il donne ne regroupent que des espèces à style glabre et sont d'autant moins satisfaisantes que les caractères essentiels ne sont pas décrits.
+Hiern accords this neglected genus the rank of section among the Tricalysia of the F.T.A.; the limits he gives encompass only species with glabrous style and are all the less satisfactory in that the essential characters are not described.
 
-Les combinaisons suivantes sont nécessaires à une bonne compréhension du genre qui est répandu de l'Afrique occidentale à l'Afrique orientale.
+The following combinations are necessary for a proper understanding of the genus, which is distributed from West Africa to East Africa.
 
-Neorosea trilocularis (Scott Ell.) N. Hallé, comb. nov., = Aulacocalyx triloculare Scott Elliot, Journ. Linn. Soc. 30 : 81 (1894), = Tricalysia tril
+Neorosea trilocularis (Scott Ell.) N. Hallé, comb. nov., = Aulacocalyx triloculare Scott Elliot, Journ. Linn. Soc. 30: 81 (1894), = Tricalysia tril
 
 ---
 
-cularis (Scott Ell.) Hutch. et Dalziel. L'épithete spécifique est trompeuse, l'ovaire étant biloculaire; le type a pu présenter une anomalie ou être interprété de façon erronée à partir d'un fruit contenant 3 graines comme il arrive fréquemment.
+cularis (Scott Ell.) Hutch. et Dalziel. The specific epithet is misleading, the ovary being bilocular; the type may have presented an anomaly or been interpreted erroneously from a fruit containing 3 seeds as frequently occurs.
 
 ## Species in region
 

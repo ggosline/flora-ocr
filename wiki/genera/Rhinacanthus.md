@@ -17,21 +17,19 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+### Climbing or erect shrubs with entire leaves.
 
-### Arbrisseaux grimpants ou dressés, à feuilles entières.
-
-Inflorescences terminales en panicules plutôt pauciflores, formés de cymes divariquées. Fleurs solitaires ou groupées par 2-3. Bractées et bractéoles petites. Calice petit à 5 segments ± profonds linéaires-lancéolés à acumen sétacé. Corolle à tube long et effilé, un peu élargi près du sommet, à limbe étalé à 2 lèvres; la supérieure, intérieure dans le bouton, petite, lancéolée, entière ou bidentée, courbée ou tordue; l'inférieure large, plane trilobée, à lobe médian extérieur dans le bouton. 2 étamines insérées près
+Inflorescences terminal in rather few-flowered panicles, formed of divaricate cymes. Flowers solitary or grouped by 2–3. Bracts and bracteoles small. Calyx small with 5 ± deep segments linear-lanceolate with setaceous acumen. Corolla with long and attenuate tube, slightly widened near the apex, with spreading limb 2-lipped; the upper, inner in the bud, small, lanceolate, entire or bidentate, curved or twisted; the lower broad, plane trilobed, with median lobe outer in the bud. 2 stamens inserted near
 
 ---
 
-du sommet du tube, plus courtes que les lèvres; anthères à 2 loges subparallèles, placées un peu l'une au-dessus de l'autre, arrondies ou aiguës à la base. Staminodes O. Disque cupuliforme; ovaire à loges biovulées; style filiforme; stigmate obtus obscurément bilobé.
+the apex of the tube, shorter than the lips; anthers with 2 subparallel locules, placed somewhat one above the other, rounded or acute at the base. Staminodes 0. Disk cupuliform; ovary with biovulate locules; style filiform; stigma obtuse obscurely bilobed.
 
-Capsule oblongue ou claviforme rétrécie en long stipe. 4 graines ou moins par avortement, comprimées, ± orbiculaires.
+Capsule oblong or claviform narrowed into a long stipe. 4 seeds or fewer by abortion, compressed, ± orbicular.
 
-Espèce type : R. communis Nees ( $ \equiv $ Rh. nasutus [L.] Kurz; Indes orientales).
+Type species: R. communis Nees ($\equiv$ Rh. nasutus [L.] Kurz; Eastern Indies).
 
-Environ 5 espèces des tropiques de l'Ancien Monde, une seule au Gabon.
+About 5 species from the tropics of the Old World, only one in Gabon.
 
 ## Species in region
 

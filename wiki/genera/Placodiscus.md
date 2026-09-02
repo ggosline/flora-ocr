@@ -17,29 +17,27 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Shrubs to trees reaching 15 m; leaves 2-18-jugate, sometimes inserted on the last centimeters of the rameal extremities; leaflets acuminate or cuspidate, entire, subcoriaceous, glabrous or bearing a few simple or serially glandular hairs.
 
-Arbustes à arbres atteignant 15 m; feuilles 2-18-juguées, parfois insérées sur les derniers centimètres des extrémités raméales; folioles acuminées ou cuspidées, entières, subcoriaces, glabres ou portant quelques poils simples ou sériés glanduleux.
+Inflorescences in racemes or subsessile spikes; rachis most often sulcate-angular, simple or branched, bearing numerous scorpioid cymules, subsessile or sessile, bracteolate, uniflorous or pluriflorous; pedicels sometimes very short, articulated at the base. Flowers regular; calyx globose, urceolate or turbinate, with 5 valvate teeth, puberulent or tomentellous on both faces, sometimes glandular (pedicellate hairs); corolla absent; disk regular, in a cup ± flattened or depressed at the center, smooth, without impression of petals or stamens, glabrous or hairy; androecium (7-) 8 stamens surrounding a pistillode (fl. ♂); filaments bent (weakly in P. caudatus and P. turbinatus) twice in the bud, hairy at base, glabrous at apex; anthers oblong, introrse, basi-dorsifix; ovary tomentellous, with 3 grooves and 3 uniovulate locules. Fruit: berry with 3 lobes or fewer by abortion, 2 to 3 cm in diameter; style and calyx persistent on and beneath the tomentellous-ferruginous fruit; seeds ± elongate and flattened, with coriaceous integument, without aril.
 
-Inflorescences en grappes ou épis subsessiles; rachis le plus souvent sillonné-anguleux, simple ou rameux, portant de nombreuses cymules scorpioïdes, subsessiles ou sessiles, bractéolées, uniflores ou pluriflores; pédicelles parfois très courts, articulés à la base. Fleurs régulières; calice globuleux, urcéolé ou turbiné, à 5 dents valvaires, pubérulent ou tomentelleux sur les 2 faces, parfois glanduleux (poils pédicellés); corolle nulle; disque régulier, en cuvette ± aplatie ou déprimée au centre, lisse, sans impression de pétales ou d'étamines, glabre ou velu; androcée (7-) 8 étamines entourant un pistillode (fll. ♂); filets ployés (faiblement dans P. caudatus et P. turbinatus) 2 fois dans le bouton, à base velue, à sommet glabre; anthères oblongues, introrses, basi-dorsifixes; ovaire tomentelleux, à 3 sillons et 3 loges uniovulées. Fruit : baie à 3 lobes ou moins par avortement, de 2 à 3 cm de diamètre; style et calice persistants sur et sous le fruit tomentelleux-ferrugineux; graines ± allongées et aplaties, à tégument coriace, sans arille.
+TYPE SPECIES: Placodiscus turbinatus Radlkofer.
 
-ESPÈCE-TYPE : Placodiscus turbinatus Radlkofer.
-
-Une quinzaine d'espèces croissant en Afrique tropicale depuis la Guinée jusqu'en République centrafricaine; une seule en Afrique orientale. La clé ci-dessous les concerne toutes sauf cette dernière : Placodiscus amaniensis Radlk. qui se place entre P. caudatus et P. leptostachys. La description détaillée et figurée ne retient que les plantes du Cameroun et du Gabon.
+About fifteen species growing in tropical Africa from Guinea to the Central African Republic; only one in East Africa. The key below concerns all of them except the latter: Placodiscus amaniensis Radlk. which lies between P. caudatus and P. leptostachys. The detailed and illustrated description retains only the plants of Cameroon and Gabon.
 
 ---
 
-1. Pas de poils glanduleux.
+1. No glandular hairs.
 
-2. Feuilles sessiles 2-juguées, brillantes sur les 2 faces; folioles inférieures simulant des stipules de 2-3 cm, les supérieures 18-22 × 6-8 cm; épis simples 25-30 cm; cymules uniflores; fruit de 2 cm; disque velu (Côte d'Ivoire, Sierra Leone; type : Afzelius s.n., RADLK., l.c. : 812)..... P. pseudostipularis Radlkofer.
+2. Leaves sessile 2-jugate, shiny on both faces; lower leaflets simulating stipules 2-3 cm, upper ones 18-22 × 6-8 cm; simple spikes 25-30 cm; uniflorous cymules; fruit 2 cm; disk hairy (Ivory Coast, Sierra Leone; type: Afzelius s.n., RADLK., l.c.: 812)..... P. pseudostipularis Radlkofer.
 
-2'. Feuilles pétolées.
+2'. Leaves petiiolate.
 
-3. Disque densément velu. (L/l rapport Longueur largeur des folioles).
+3. Disk densely hairy. (L/w ratio Length width of leaflets).
 
-4. Feuilles plus que 5-juguées; L/l plus grand ou égal à 4; feuilles serrées aux extrémités des rameaux sur 4-10 cm.
+4. Leaves more than 5-jugate; L/w ratio greater than or equal to 4; leaves crowded at the extremities of the branches over 4-10 cm.
 
-5. Feuilles 8-18 juguées; pétioles 5-20 cm, triangulaires; rachis cannelé-angleux; folioles 18 × 4,5 cm à 8-10 paires de nervures; grappe simple, 35 cm, de cymules stipitées, 1 mm à env. 5 fleurs; pédicelles de 5-8 (-10) mm articulés au milieu; fruit de 2 cm; petit arbre (Côte d'Ivoire); type : Aubréville 1661-883, Bull. Soc. Bot. Fr. 85 : 292, 1938
+5. Leaves 8-18 jugate; petioles 5-20 cm, triangular; rachis sulcate-angular; leaflets 18 × 4.5 cm with 8-10 pairs of nerves; simple raceme, 35 cm, of stipitate cymules, 1 mm to ca. 5 flowers; pedicels 5-8 (-10) mm articulated in the middle; fruit 2 cm; small tree (Ivory Coast); type: Aubréville 1661-883, Bull. Soc. Bot. Fr. 85: 292, 1938
 
 ## Species in region
 

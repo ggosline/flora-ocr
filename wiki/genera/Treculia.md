@@ -17,31 +17,27 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Trees or shrubs dioecious (or monoecious). Leaves generally distichous on the small branches. Blade with pinnate venation. Stipules free, entirely amplexicaul.
+
+Unisexual inflorescences (or bisexual), on short branches at the leaf axils, or the male inflorescences especially, on older branches or on the stems; inflorescences subsessile to pedunculate, furnished with bracts and subinvolucrate; rachis thick and solid; flowers in cavities among the fused bases of interflorals bracts whose upper parts are peltate, cushion-like, claviform or furnished with a prickle. Flowers pedicellate; flowers with perianth 2-4 (-5)-lobed, membranous; stamens 2-4, straight with anthers latrorse to introrse or extrorse; pistillode generally absent; flowers with perianth (probably) absent; ovary free; style with 2 filiform stigmas.
+
+In the fruit, upper parts of interflorals bracts hardened, fruits in a (fairly) soft zone; endocarp crustaceous; exocarp solid and coriaceous or fragile and ± fleshy; testa fairly thick with a thickened orbicular vascularized zone beneath a small hilum; embryo curved; cotyledons unequal, the smallest flat and enclosed by the largest, or strongly reduced; radicle short and apical, remains of albumen chiefly at the apical part of the seed.
+
+TYPE-SPECIES: Treculia africana Decne.
+
+Treculia comprises 3 species, grouped in 2 sections. The most widely distributed, T. africana, is the only species of sect. Treculia. T. acuminata and T. obovoidea form sect. Pseudotreculia. They inhabit humid forest, extending from Nigeria to Lower Congo.
+
+In sect. Treculia the plants can be monoecious and the inflorescences are sometimes bisexual. All interflorals bracts are peltate. The anthers are long, narrow and introrse. The exocarp is finely fleshy.
+
+In sect. Pseudotreculia BALL. (= sect. Microtreculia ENGL.) the plants are always dioecious and the inflorescences are solely unisexual. The inflorescences have exceptionally interflorals bracts furnished with a prickle, which becomes a spine in the infructescence. The anthers are short, broad and latrorse to introrse. The exocarp is coriaceous.
+
+### KEY TO THE SPECIES
+
+1. Blade generally ± asymmetric; inflorescences with only peltate interflorals bracts; inflorescences at least 25 mm in diameter; anthers long and narrow..... 1. T. africana.
 
 ---
 
-Arbres ou arbustes dioïques (ou monoïques). Feuilles généralement distiques sur les petits rameaux. Limbe à nervation pennée. Stipules libres, entièrement amplexicaules.
-
-Inflorescences unisexuées (ou bisexuées), sur des rameaux courts à l'aisselle des feuilles, ou les inflorescences mâles surtout, sur des rameaux plus vieux ou sur les tiges ; inflorescences subsessiles à pédonculées, pourvues de bractées et subinvolucrées ; rachis épais et solide ; fleurs dans des cavités parmi les bases soudées des bractées interflorales dont les parties supérieures sont peltées, en coussinet, claviformes ou munies d'un aiguillon. Fleurs pédicellées ; fleurs à périanthe 2-4 (-5)-lobé, membraneux ; étamines 2-4, droites à anthères latrorses à introrses ou à extrorses ; pistillode généralement absent ; fleurs à périanthe (probablement) absent ; ovaire libre ; style avec 2 stigmates filiformes.
-
-Dans le fruit, parties supérieures des bractées interflorales durcies, fruits dans une zone (assez) molle ; endocarpe crustacé ; exocarpe solide et coriace ou fragile et ± charnu ; testa assez épais avec une zone orbiculaire vascularisée épaissie sous un hile petit ; embryon recourbé ; cotylédons inégaux, le plus petit plat et enfermé par le plus grand, ou fortement réduit ; radicule courte et apicale, restes d'albumen surtout à la partie apicale de la graine.
-
-ESPÉCE-TYPE : Treculia africana Decne.
-
-Treculia comprend 3 espèces, groupées en 2 sections. La plus largement distribuée, T. africana, est la seule espèce de la sect. Treculia. T. acuminata et T. obovoidea forment la sect. Pseudotreculia. Ils habitent la forêt humide, s'étendant du Nigéria au Bas Congo.
-
-Dans la sect. Treculia les plantes peuvent être monoïques et les inflorescences sont parfois bisexuées. Toutes les bractées interflorales sont peltées. Les anthères sont longues, étroites et introrses. L'exocarpe est finement charnu.
-
-Dans la sect. Pseudotreculia BALL. (= sect. Microtreculia ENGL.) les plantes sont toujours dioïques et les inflorescences sont uniquement unisexuées. Les inflorescences ont exceptionnellement des bractées interflorales munies d'un aiguillon, qui devient une épine dans l'infrutescence. Les anthères sont courtes, larges et latrorses à introrses. L'exocarpe est coriace.
-
-### CLÉ DES ESPÈCES
-
-1. Limbe généralement ± asymétrique ; inflorescences avec seulement des bractées interflorales peltées ; inflorescences à d'au moins 25 mm de diamètre ; anthères longues et étroites..... 1. T. africana.
-
----
-
-1. Limbe symétrique ou peu asymétrique ; inflorescences avec généralement des bractées interflorales aiguillonnées ; si seulement des bractées peltées, alors inflorescences à d'au moins 5 mm de diamètre ; anthères courtes et larges.
+1. Blade symmetric or slightly asymmetric; inflorescences generally with prickly interflorals bracts; if only peltate bracts, then inflorescences at least 5 mm in diameter; anthers short and broad.
 
 ## Species in region
 

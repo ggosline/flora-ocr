@@ -17,73 +17,21 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Shrubs or trees with abundant white latex in the bark, branches, leaves and fruits; ochrea present on certain nodes. Leaves opposite or subopposite, those of a pair equal, petiolate, without axillary colleters. Inflorescences terminal and sometimes axillary, cymose with numerous flowers. Flowers 5-merous, actinomorphic or sometimes with unequal calyx lobes; calyx with subequal or sometimes unequal sepals, valvate, with 0 to 10 colleters at the base internally alternating with the corolla lobes; tube cylindrical with lobes in bud overlapping to the right; stamens included, free, inserted at the base of the tube, with anthers introrse, basifixed, with locules dehiscing longitudinally along their entire length; disk absent; ovary with 2 carpels connate at the extreme base only; style slightly cleft at the base, attaining the insertion of the stamens; head of the pistil void, most often with 2 longitudinal denticulate lines. Fruits composed of 2 follicles little extended, slender, with numerous seeds bi- or pluriseriate, dehiscent along an adaxial line, with weakly coriaceous wall. Seeds linear, narrowly oblong, striate, channelled, glabrous, with a coma at the summit sometimes also as long as the seed, with hairs directed towards the summit; embryo large surrounded by an endosperm very thin; cotyledons large, conduplicate, larger than the short and straight radicle.
 
-Arbustes ou arbres dont l’écorce, les branches, les feuilles et les fruits contiennent un latex
+Genus of tropical Africa and Asia with four species, two in Africa one of which in Gabon.
 
-blanc abondant ; ochréa présent sur certains nœuds. Feuilles opposées ou subopposées, celles
+B: Beentje (2021), Endress et al. (2019), de Kruif (1981), Leeuwenberg & Kupicha (1985),
 
-d’une paire égales, pétiolées, sans collétères axillaires . ,QÀRUHVFHQFHV WHUPLQDOHVHWRXDSSD -
-
-UHPPHQWD[LOODLUHVF\PHXVHVjQRPEUHXVHVÀHXUV Fleurs 5-mères, actinomorphes ou parfois
-
-à lobes du calice inégaux ; calice à sépales subégaux ou parfois inégaux, valvaires, avec 0 à 10
-
-FROOpWqUHVjODEDVHLQWHUQHDOWHUQDQWDYHFOHVOREHVFRUROOHjWXEHF\OLQGULTXHjOREHVGDQV
-
-le bouton recouvrant vers la droite ; étamines incluses, libres , insérées à la base du tube, à
-
-DQWKqUHVLQWURUVHVEDVL¿[HVjORJHVGpKLVFHQWHVORQJLWXGLQDOHPHQWVXUWRXWHOHXUORQJXHXU
-
-GLVTXHDEVHQWRYDLUHj 2 carpelles connés à l’extrême base seulement ; style légèrement
-
-IHQGXjODEDVHDWWHLJQDQWO¶LQVHUWLRQGHVpWDPLQHVjWrWHGXSLVWLORYRwGHOHSOXVVRXYHQWDYHF
-
-2 lignes longitudinales dentelées. Fruits composés de 2 follicules peu étendus, élancés, à nom-
-
-breuses graines bi- ou plurisériées, déhiscents le long d’une ligne adaxiale, à paroi faiblement
-
-coriace. Graines OLQpDLUHVjpWURLWHPHQWREORwGHVVWULpHVFDQQHOpHVJODEUHVjFRPDVRPPLWDO
-
-GHjIRLVDXVVLORQJTXHODJUDLQHjSRLOVGLULJpVYHUVOHVRPPHWHPEU\RQODUJHHQWRXUp
-
-G¶XQHQGRVSHUPHWUqVPLQFHFRW\Opgrqvodujhvfrqgxsoltxpvsoxvjudqgvtxhodudglfxoh
-
-courte et droite.
-
-*HQUHGHO¶$IULTXHHWO¶$VLHWURSLFDOHDYHFTXDWUHHVSqFHVGHX[HQ$IULTXHGRQWXQHDX*DERQ
-
-B : Beentje (2021), Endress et al. (2019), de Kruif (1981), Leeuwenberg & Kupicha (1985),
-
-IBLIOGRAPHIE
+BIBLIOGRAPHY
 
 Omino (2002).
 
-+RODUUKHQDÀRULEXQGD *'RQ7'XUDQG	6FKLQ] Planche 36 ; Figure 5(F, G)
+Holaarrhena floribunda (G.Don) T.Durand & Schinz Plate 36; Figure 5(F, G)
 
-eWXGHVÀ&RQJR : 190 (1896).
+Studies Fl. Congo: 190 (1896).
 
-Arbuste ou arbre atteignant 25 m de hauteur ; bois tendre. Feuille : pétiole de 0,5–7(–10) mm,
-
-SXEHVFHQW OLPEH RYDOH j HOOLSWLTXH RX pWURLWHPHQW RYDOH IRLV DXVVL ORQJ TXH ODUJH
-
-de 2–14(–19) × 2,3–8(–11) cm, – ceux de la première ou des deux premières paires d’un
-
-rameau souvent petits et suborbiculaires , à sommet arrondi à obtus –, cunéé à arrondi à la
-
-base, acuminé ou aigu au sommet, pubescent à glabre dessus, plus densément pubescent à
-
-glabre dessous ; nervures secondaires 5 à 14 paires . ,QÀRUHVFHQFH généralement en apparence
-
-axillaire ou opposée aux feuilles, parfois terminale, plutôt dense ; pédoncule et axes jamais en-
-
-tièrement glabres ; pédoncule de 0,5–1,3 cm ; bractées linéaires, longues de 1–2,1 mm. Fleur :
-
-Spglfhoohgh±PPFDOLFHjOREHVVXEpJDX[±IRLVDXVVLORQJTXHODUJHGH±î
-
-0,6–2 mm, pubescents, à bord cilié, avec 0 à 10 collétères à la base alternant avec les lobes ;
-
-FRUROOHHQERXWRQPUORQJXHGH±PPjWXEH±IRLVDXVVLORQJTXHOHFDOLFH long
+Shrub or tree reaching 25 m in height; wood soft. Leaf: petiole 0.5–7(–10) mm, pubescent; limb ovate to elliptic or narrowly ovate, sometimes as long as wide, 2–14(–19) × 2.3–8(–11) cm, — those of the first or of the first two pairs of a branch often small and suborbicular —, rounded to obtuse at apex, cuneate to rounded at base, acuminate or acute at summit, pubescent to glabrous above, more densely pubescent to glabrous below; secondary veins 5 to 14 pairs. Inflorescence generally apparently axillary or opposite to the leaves, sometimes terminal, rather dense; peduncle and axes never entirely glabrous; peduncle 0.5–1.3 cm; bracts linear, 1–2.1 mm long. Flower: Pedicel 0.5–1 mm; calyx with subequal lobes, sometimes as long as wide, 0.6–2 × 0.6–2 mm, pubescent, with ciliate margin, with 0 to 10 colleters at the base alternating with the lobes; corolla in bud 1 mm long, 0.75 mm, with tube sometimes as long as the calyx long
 
 ## Species in region
 

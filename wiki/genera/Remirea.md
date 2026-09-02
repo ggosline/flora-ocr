@@ -17,45 +17,17 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Perennial herbs with long creeping rhizomes. Leaves numerous; sheath tubular, truncate at the apex; ligule absent. Inflorescence capitate, compact, composed of several spikes. Spikelets often composed of 3 empty glumes below an apparently terminal bisexual flower. Flowers lacking hypogynous bristles; stamens 3, unilateral with crested anther; style with 3 branches, the base gradually merging into the upper part of the ovary. Achene ellipsoid, trigonous and smooth.
 
-Herbes vivaces, avec de longs rhizomes rampants. Feuilles nombreuses ; gaine tubu-
+Monotypic genus of which the single species is widely distributed in the tropics.
 
-leuse, tronquée au sommet ; ligule absente. Inflorescence capitée, compacte , composée
-
-de plusieurs épis. Épillets composés souvent de 3 glumes vides sous une fleur bisexuée
-
-apparemment terminale . Fleurs à soies hypogynes absentes ; étamines 3, unilatérales
-
-à anthère huppée ; style à 3 branches, la base se fondant progressivement dans la partie
-
-supérieure de l’ovaire. Akène ellipsoïde, trigone et lisse.
-
-Genre monotypique dont l’unique espèce est largement répandue sous les tropiques.
-
-Note taxonomique : Le classement de ce genre est très discuté. Traditionnellement, Re-
-
-mirea a été inclus dans la tribu des Rhynchosporeae en raison de ses épillets qui ont
-
-quelques glumes vides à la base. Toutefois, Kern (1958) l’a inclus dans Cyperus en raison
-
-des structures de l’inflorescence, de l’épillet, de la fleur et de l’akène, de la forte nerva-
-
-tion des glumes, ainsi que de son anatomie. Kern a certainement raison d’affirmer que
-
-Remirea est étroitement lié aux Cyperus (il a aussi un embryon de type Cyperus ) et c’est
-
-donc avec un très grand doute que nous l’avons gardé comme genre distinct dans la tribu
-
-des Cypereae .
+Taxonomic note: The classification of this genus is much debated. Traditionally, Remirea has been included in the tribe Rhynchosporeae because of its spikelets which have some empty glumes at the base. However, Kern (1958) included it in Cyperus because of the structures of the inflorescence, spikelet, flower and achene, the strong nervation of the glumes, as well as its anatomy. Kern is certainly right in asserting that Remirea is closely related to Cyperus (it also has a Cyperus-type embryo) and it is therefore with very great doubt that we have retained it as a distinct genus in the tribe Cypereae.
 
 ---
 
-b : Chermezon (1923, 1925), Haines & Lye (1983), Kern (1958), Oteng-
+Bibliography
 
-ibliographie
-
-Yeboah (1975).
+b: Chermezon (1923, 1925), Haines & Lye (1983), Kern (1958), Oteng-Yeboah (1975).
 
 ## Species in region
 

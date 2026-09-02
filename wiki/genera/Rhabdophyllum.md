@@ -16,71 +16,25 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Bull. Mus. Hist. Nat., Paris 8 : 216 (April 1902).
 
-Bull. Mus. Hist. Nat., Paris 8 : 216 (avril 1902).
+Subshrub to small trees. Stipules intrapetiolary, connate at the base. Leaves: blade with entire or sometimes denticulate margins; secondary nerves numerous, close, parallel and ± straight to the margin. Inflorescences axillary, generally pluriflorous, often on a compressed stem and furnished at their base with small imbricate scales, persistent or caducous; flowers grouped in cymules (bipinnate or unipinnate cymes very much reduced) along a main rachis (then in false raceme), sometimes the rachis very short. Flowers actinomorphic, 5-merous, long-pedicellate; sepals persistent and accrescent, some with their margin split into two blades that mesh with the simple edges of the neighboring sepals; petals yellow to pale yellow, quickly caducous, elliptic-obovate, scarcely exceeding the length of the sepals, in the bud, the inner edges insinuating themselves between the stamens; stamens 10, forming a sheath around the style, anthers almost sessile, transversely wrinkled; gynoecium with 5 almost free and uniovulate carpels; style unique, gynobasic, green. Fruits with accrescent pedicel and receptacle, red or pink like the persistent sepals; druplets spherical or reniform, brown or black. Seeds: cotyledons incumbent, equal or unequal.
 
-Suffrutex à petits arbres. Stipules intrapétiolaires , soudées à la base. Feuilles : limbe à
+Genus comprising 8 species, known from tropical Africa, from Guinea-Conakry and Sierra Leone in the west, to the Democratic Republic of the Congo, Angola and Zambia, in the east; in Gabon, six species.
 
-marge entière ou parfois denticulée ; nervures secondaires nombreuses, serrés, paral-
+Bibliography: Amaral & Bittrich (2014), Bamps & Farron (1967), Farron (1965, 1985), Sosef (2008).
 
-lèles et ± droites jusqu’au bord . Inflorescences axillaires, généralement pluriflores, sou -
+### Key to the species
 
-vent sur une tige comprimée et munies à leur base de petites écailles imbriquées, persis-
+1. - Blade with non-hierarchized secondary nerves (see Plate 25), very fine and smooth beneath, narrowly elliptic to narrowly elliptic-oval, rarely exceeding 14 × 4 cm, papyraceous ............................................................................... 2
 
-tantes ou caduques ; fleurs groupées en cymules (cymes bipares ou unipares très réduites)
+- Blade with hierarchized secondary nerves (see Plate 24) and prominent at least beneath, narrowly elliptic to elliptic-obovate, (8–)12–30 × (2–)4–10 cm, often coriaceous ........................................................................................................ 5
 
-le long d’un rachis principal (alors en faux racème), parfois le rachis très court. Fleurs
+2. - Flowers all scattered along the rachis, in false raceme ..................................... 3
 
-actinomorphes, 5-mères, longuement pédicellées ; sépales persistants et accrescents ,
+- Flowers in false umbel, situated in the upper part of the rachis ...... R. welwitschii
 
-quelques-uns avec leur bord dédoublé en deux lames qui engrènent les bords simples
-
-des sépales voisins ; pétales jaunes à jaune pâle, rapidement caducs, elliptiques-obovales,
-
-ne dépassant guère la longueur des sépales , dans le bouton, les bords internes s’insi-
-
-nuant entre les étamines ; étamines 10 , formant un manchon autour du style, anthères
-
-presque sessiles , ridées transversalement ; gynécée à 5 carpelles presque libres et
-
-uniovulés ; style unique, gynobasique, vert. Fruits à pédicelle et réceptacle accrescents,
-
-rouges ou roses comme les sépales persistants ; drupéoles sphériques ou réniformes,
-
-brunes ou noires. Graines : cotylédons incombants , égaux ou inégaux.
-
-Genre comprenant 8 espèces, connues de l’Afrique tropicale, depuis la Guinée-Conakry
-
-et la Sierra Leone à l’ouest, jusqu’à la République démocratique du Congo, l’Angola et la
-
-Zambie, à l’est ; au Gabon, six espèces.
-
-b : Amaral & Bittrich (2014), Bamps & Farron (1967), Farron (1965, 1985),
-
-ibliographie
-
-Sosef (2008).
-
-### Clé des espèces
-
-1. - Limbe à nervures secondaires non-hiérarchisées (voir Planche 25), très fines et
-
-rases dessous, étroitement elliptique à étroitement elliptique-ovale, rarement
-
-dépassant 14 × 4 cm, papyracé ............................................................................... 2
-
-- Limbe à nervures secondaires hiérarchisées (voir Planche 24) et saillantes au moins
-
-dessous, étroitement elliptique à elliptique-obovale, (8–)12–30 × (2–)4–10 cm,
-
-souvent coriace ........................................................................................................ 5
-
-2. - Fleurs toutes dispersées le long du rachis, en faux racème ..................................... 3
-
-- Fleurs en fausse ombelle, situées à la partie supérieure du rachis ...... R. welwitschii
-
-3. - Inflorescence dense ou ouverte ; sépales droits à la base, étalés en fruit ; fleurs et
+3. - Inflorescence dense or open; sepals straight at the base, spreading in fruit; flowers and
 
 ## Species in region
 

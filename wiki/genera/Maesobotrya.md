@@ -17,73 +17,25 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Trees or shrubs; indumentum with simple hairs. Leaves: blade with denticulate or sometimes entire margins, the denticules bearing a tuft of hairs, glands generally present on the lower surface. Inflorescences arranged in the axils of leaves, on old wood or on the trunk, racemiform to spiciform, few- to plurifasciculate or solitary. Flowers unisexual or very rarely bisexual, dioecious. Male flowers early caducous with the pedicel short; calyx 4–6-fid, with imbricate lobes; petals generally absent; stamens 4–6(–7), opposite to the sepals, glabrous; disk ± lobed, generally pilose; pistillode small, pilose. Female flowers with calyx similar to that of male flowers, persistent; petals rarely present; disk cupuliform, lobed or not, pilose or not; ovary 2–3(–4)-locular, with 2 ovules per locule; styles spreading–recurved, bifid. Fruits fleshy, indehiscent or dehiscent, globose to ellipsoid or ovoid, 1–3-seeded; pericarp thin. Seeds with colored sarcotesta, white or blue.
 
-Arbres ou arbustes ; indument à poils simples. Feuilles : limbe à marges denticulées
+Genus of tropical Africa, comprising about twenty species, distributed from Guinea to the Central African Republic, Uganda and Zambia; nine species in Gabon.
 
-ou parfois entières, les denticules munis d’une touffe de poils, glandes en général
+Taxonomic note: M. vermeulenii (De Wild.) J.Léonard is cited in the Check-list of Vascular Plants of Gabon (Sosef et al., 2006), but is not present there. The specimens cited belong to other species, notably to M. cordulata.
 
-présentes sur la face inférieure . Inflorescences disposées à l’aisselle des feuilles, sur
+b: Léonard (1994), Pax & Hoffmann (1922).
 
-le vieux bois ou sur le tronc, racémiformes à spiciformes, pauci- à plurifasciculées ou
+ibliography
 
-solitaires. Fleurs unisexuées ou très rarement bisexuées, dioïques. Fleurs mâles tôt ca -
+### Key to the species
 
-duques avec le pédicelle court ; calice 4–6-fide, à lobes imbriqués ; pétales généralement
+1. - Stipules generally asymmetric, ± falciform, 3–25 × 1–15 mm, persistent or caducous.................................................................................................................. 2
 
-nuls ; étamines 4–6(–7), oppositisépales , glabres ; disque ± lobé, généralement pileux ;
+- Stipules symmetric, narrowly triangular to lanceolate, 2–8(–13) × 0.5–1(–2) mm, early caducous.................................................................................................... 3
 
-pistillode petit, poilu. Fleurs femelles à calice semblable à celui des fleurs mâles, persis -
+2. - Branchlets, petiole and blade hispid–setulose with spreading hairs; inflorescences fasciculate on the trunk or on old branches....................................... M. klaineana
 
----
-
-Idem, calice enlevé (× 15). ‒ D. Étamine (× 15). ‒ E. Pistillode (× 15). ‒ F. Fruit (× 2). (A ‒ E :
-
-Mildbraed 8768 ; F : Olorunfemi FHI 35662 ). Dessin par Camilla Speight (©), reproduit avec per -
-
-mission à partir de Radcliffe-Smith (2001).
-
----
-
-tant ; pétales rarement présents ; disque cupuliforme, lobé ou non, poilu ou non ; ovaire
-
-2–3(–4)-loculaire, à 2-ovules par loge ; styles étalés–récurvés, bifides. Fruits charnus ,
-
-indéhiscents ou déhiscents , globuleux à ellipsoïdes ou ovoïdes, 1–3-spermes ; péricarpe
-
-mince. Graines à sarcotesta coloré, blanc ou bleu .
-
-Genre de l’Afrique tropicale, comprenant une vingtaine d’espèces, répandu de la Guinée
-
-à la République Centrafricaine, l’Ouganda et la Zambie ; au Gabon neuf espèces.
-
-Note taxonomique : M. vermeulenii (De Wild.) J.Léonard est citée dans la Check-list des
-
-Plantes Vasculaires du Gabon (Sosef et al. , 2006), mais n’y est pas présente. Les spéci -
-
-mens cités appartiennent à d’autres espèces, notamment à M. cordulata .
-
-b : Léonard (1994), Pax & Hoffmann (1922).
-
-ibliographie
-
-### Clé des espèces
-
-1. - Stipules en général asymétriques, ± falciformes, 3–25 × 1–15 mm, persistantes ou
-
-caduques .................................................................................................................. 2
-
-- Stipules symétriques, étroitement triangulaires à lancéolées, 2–8(–13) × 0,5–1(–2)
-
-mm, tôt caduques .................................................................................................... 3
-
-2. - Ramilles, pétiole et limbe hispides–sétuleux à poils étalés ; inflorescences fascicu-
-
-lées sur le tronc ou sur les vieux rameaux ........................................... M. klaineana
-
-- Ramilles, pétiole et limbe pubescents (à poils ± doux) à l’état jeune, glabrescents à
-
-l’état adulte ; inflorescences axillaires, solitaires à ternées .............. M. bertramiana
+- Branchlets, petiole and blade pubescent (with ± soft hairs) when young, glabrescent when adult; inflorescences axillary, solitary to ternate.................. M. bertramiana
 
 ## Species in region
 

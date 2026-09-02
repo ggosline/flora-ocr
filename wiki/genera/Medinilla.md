@@ -16,27 +16,23 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 in FREYCINET, Voy. Bot.: 484 (1826).
 
 — Myrianthemum GILG, Pflanzenfam., Nachtr.: 266 (1897).
 
-Arbrisseaux, parfois sarmenteux, souvent épiphytes; racines charnues ou non. Feuilles parfois verticillées, souvent sessiles ou brévipétiolées, égales ou inégales, coriaces, à marges entières; nervation généralement acrodrome.
+Shrubs, sometimes sarmentose, often epiphytic; roots fleshy or not. Leaves sometimes whorled, often sessile or short-petiolate, equal or unequal, coriaceous, with entire margins; venation generally acrodromous.
 
-Fleurs axillaires ou sur le vieux bois, en cymes bipares, ou fasciculées; 4-mères, souvent de taille médiocre; calice entier à 4-sinué, parfois 4-denté avec ou sans épaississement dorsal. Pétales souvent charnus, roses ou blancs. Étamines homomorphes et ±égales, ou modérément dimorphes et inégales; connectif sans prolongation axiale, 2-appendiculé en avant et 1-appendiculé en arrière (éperon parfois peu développé). Ovaire entièrement adhérent, ou par des cloisons vers le haut; style grêle, stigmate punctiforme; placentas axiles, ± protubérants, ou stipités à la base et ascendants.
+Flowers axillary or on old wood, in dichasial cymes, or fasciculate; 4-merous, often of modest size; calyx entire to 4-sinuate, sometimes 4-dentate with or without dorsal thickening. Petals often fleshy, pink or white. Stamens homomorphic and ± equal, or moderately dimorphic and unequal; connective without axial prolongation, 2-appendiculate in front and 1-appendiculate behind (spur sometimes poorly developed). Ovary entirely adnate, or by septa towards the apex; style slender, stigma punctiform; placentas axile, ± prominent, or stipitate at the base and ascending.
 
-Fruits globuleux, bacciformes, moins de 1 cm de diamètre. Graines nombreuses, droites : oblongo-cunéiformes, hile basal.
+Fruits globose, berry-like, less than 1 cm in diameter. Seeds numerous, straight: oblong-cuneiform, hilum basal.
 
-ESPÈCE-TYPE : Medinilla rosea Gaud., Océanie.
+TYPE SPECIES: Medinilla rosea Gaud., Oceania.
 
-Quatre cents espèces environ, surtout asiatiques; nombreuses aussi à Madagascar; trois seulement en Afrique.
+Approximately four hundred species, mostly Asian; numerous also in Madagascar; only three in Africa.
 
-1. Arbrisseau terrestre, traînant ou épidendre; feuilles subverticillées, cunées à la base; inflorescences multiflores sur les nœuds près du sol; étamines dimorphes : les externes avec éperon subulé ..... 1. M. mirabilis.
+1. Terrestrial shrub, trailing or ependendre; leaves subwhorled, cuneate at base; inflorescences multiflorous on nodes near the ground; stamens dimorphic: the external ones with subulate spur ..... 1. M. mirabilis.
 
-1'. Arbrisseau épiphyte; feuilles opposées, étroitement cordées; cymes médiocres, longues de 2 à 3 cm, étamines subégales, avec éperon linéaire 1 bis. M. mannii.
-
----
+1'. Epiphytic shrub; leaves opposite, narrowly cordate; cymes moderate, 2 to 3 cm long, stamens subequal, with linear spur ..... 1 bis. M. mannii.
 
 ## Species in region
 

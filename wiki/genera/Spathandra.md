@@ -17,21 +17,15 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Leaves tri- or plurinerved: 2 convergent and clearly visible, robust toward the base and not curved with the transversals; often accompanied by one or several additional pairs ± curved; reticulum often apparent; limb with surfaces granulose due to the presence of ± polyramose mesophyllian sclerites.
 
-Feuilles tri- ou pluri-nerviées : 2 convergentes bien visibles, robustes vers la base et non coarquées avec les transversales; souvent accompagnées de une ou plusieurs paires additionnelles ± coarquées; réticulum souvent apparent; limbe à surfaces grenues par la présence de sclérites mésophyliennes ± polyrameuses.
+Branched, pubescent cymes; epigynous chamber smooth or with radial partitions; calyx sinuate to lobed; stamens with slightly prolonged connective, with gland; unilocular ovary, 6–8-ovulate.
 
-Cymes ramifiées, pubescentes; chambre épigyne lisse ou avec cloisons radiales; calice sinué à lobé; étamines à connectif peu prolongé, avec glande; ovaire uniloculaire, 6-8-ovulé.
+Globose fruit; embryo curved (lying transverse to the seed), hypocotyl moderate, foliaceus cotyledons, hemispherical, displaced to the periphery of the seed by intrusion of placental tissue; seedling with epigeal germination, assimilatory cotyledons.
 
-Fruit globuleux; embryon courbe (couché en travers de la graine), hypocotyle moyen, cotylédons foliacés, hémisphériques, rejetés à la périphérie de la graine par intrusion du tissu placentaire; plantule à germination épigée, cotylédons assimilateurs.
+TYPE SPECIES: Spathandra blakeoides (G. Don) JACQ.-FÉL., Sierra Leone.
 
-ESPÈCE-TYPE : Spathandra blakeoides (G. Don) JACQ.-FÉL., Sierra Leone.
-
-Une seule espèce, africaine occidentale, présente au Gabon.
-
----
-
----
+A single species, from West Africa, present in Gabon.
 
 ## Species in region
 

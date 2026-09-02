@@ -17,17 +17,15 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Herbs generally perennial, small in size, culms with numerous nodes. Leaves with lanceolate blades, rounded at the base, nervures generally tessellate.
 
-Herbes généralement pérennes, de petite taille, chaumes à nombreux nœuds. Feuilles à limbes lancéolés, arrondis à la base, nervures généralement tessellées.
+Dense, short racemes, more or less spaced on a common axis, unilateral. Spikelets with similar glumes, with 3–7 nervures, keeled toward the apex and at least the lower one awned. Lower flower male or neuter, lemma resembling the glumes, with 5 or 9 nervures, mucronate or shortly awned. Palea of the same size, with 2 nervures, or reduced. Upper flower hermaphrodite, lemma awnless, enrolled, more or less coriaceous. Palea covered laterally by the lemma. Two lodicules, three stamens, distinct styles.
 
-Racèmes denses, courts, plus ou moins espacés sur un axe commun, unilatéraux. Épilets à glumes semblables, à 3-7 nervures, carénées vers le haut et au moins l'inférieure aristée. Fleur inférieure mâle ou neutre, lemma ressemblant aux glumes, à 5 ou 9 nervures, mucronée ou courtement aristée. Paléa de même taille, à 2 nervures, ou réduite. Fleur supérieure hermaphrodite, lemma mutique, enroulée, plus ou moins coriace. Paléa recouverte latéralement par la lemma. Deux lodicules, trois étanines, styles distincts.
+Plants of understory or cool and shaded places, without practical interest. Two species are recorded from Gabon:
 
-Plantes de sous-bois ou d'endroits frais et ombragés, sans intérêt pratique. Deux espèces sont signalées au Gabon :
+1. Awns linear, obtuse at their apex, smooth and often red or pink in color; spikelets 3 to 4 mm long..... 1. O. hirtellus.
 
-1. Arêtes linéaires, obtuses à leur extrémité, lisses et de couleur souvent rouge ou rose; épilets de 3 à 4 mm de long..... 1. O. hirtellus.
-
-1'. Arêtes capillaires, flexueuses, scabres, de teinte pâle; épilets de 2 mm de long ou à peine plus..... 2. O. Burmannii.
+1'. Awns capillary, flexuous, scabrous, pale in color; spikelets 2 mm long or barely more..... 2. O. Burmannii.
 
 ## Species in region
 

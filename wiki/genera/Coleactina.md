@@ -16,19 +16,17 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Generic-specific diagnosis: Coleactina papalis N. Hallé, gen. nov., sp. nov.
 
-Diagnose gênrico-spécifique : Coleactina papalis N. Hallé, gen. nov., sp. nov.
+Shrub puberulous, allied to Leptactina but with flowers polyemerous, axillary, solitary. Leaves opposite, large, petiolate. Stipules conspicuous, very large, interpetiolary, lanceolate, mitre-shaped like a papal mitre. Flowers axillary, solitary. Pedicel with 2 involucres, minute, the lower one with leaves greatly stipulate, connate, opposite, the upper one cupulate, denticulate, covering the ovary. Calyx very long, tubular, lamina glabrous, with subulate and ciliate teeth. Corolla (6)7-merous as in Leptactina, tube very long, pubescent, lobes lanceolate, glabrous above. Anthers sessile, affixed to the upper 1/3, very long and narrowly sagittate, included, bilocular. Pollen simple, 4-colporate, short-axial. Ovary very hairy, bilocular, with 2 oblong placentae, multiovulate, on an axile laminate peduncle; disc pulvinate. Style filiform, pilose to the level of the anthers, apex bilobate and exserted. Fruit unknown.
 
-Frutex puberulus affinis Leptactinae sed floribus pleiomeris axillaribus solitariis. Folia opposita magna petiolata. Stipulae conspicua maximae interpetiolares lanceolatae ut mitra papalis mitriformes. Flores axillares solitarii. Pedicellus involucris 2, minutus, inferiore foliis magnopere stipulatis connatis oppositis, superiore cupulato denticulato ovarium tegenie. Calyx longissima tubolosus lamina glabra, dentibus subulatis et ciliatis. Corolla (6)7-mera ut Leptactinae tubo longissima pubescenti, lobis lanceolatis superne glabris. Antherae sessiles 1/3 superiore adfixae longissima et anguste sugittatae inclusae biloculate. Pollen simplex 4-colporatum breviaxe. Ovarium valde pilosum biloculatum piacertae 2 oblongae multiovulatae pedunculo axili laminato; discus pulvinatus. Stylus filiformis ad antherarum libram pilosus, apice bilobatus et exertus. Fructus ignotus.
+Monotypic genus: holotype P, Le Testu 8356, Gabon, c. lat. S. 2°30′, long. E. 12°15′.
 
-Genus monotypicus : holotypus P, Le Testu 8356, Gabon, c. lat. S. 2°30′, long. E. 12°15′.
-
-Ce nouveau genre diffère des Leptactina par ses fleurs 6-7 mères solitaires et axillaires, par son double involucre très particulier qui ne présente pas d'équivalent dans les genres voisins, par son calice très profondément tubuleux, par son pollen 4-colporé, par ses stipules géantes. Il se rapproche des Leptactina et non des
+This new genus differs from Leptactina by its 6–7 merous flowers, solitary and axillary, by its double involucre, very peculiar, which presents no equivalent in neighbouring genera, by its very deeply tubular calyx, by its 4-colporate pollen, by its giant stipules. It approaches Leptactina and not the
 
 ---
 
-autres Gardéniées par la forme et la pubescence de sa corolle, tube et lobes, par ses anthères, par son pollen simple colporé, par son style et son stigmate, par son ovaire, disque et placentas, par la morphologie sinon la taille de ses stipules. Par l'aspect de ses très grandes feuilles il rappelle le Leptactina Arnoldiana De Wild.
+other Gardeniinae by the form and pubescence of its corolla, tube and lobes, by its anthers, by its simple colporate pollen, by its style and stigma, by its ovary, disc and placentae, by the morphology if not the size of its stipules. By the aspect of its very large leaves it recalls Leptactina Arnoldiana De Wild.
 
 ## Species in region
 

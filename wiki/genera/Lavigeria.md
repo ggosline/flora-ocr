@@ -17,13 +17,9 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Liana with underground tubers. Cauline inflorescences. Female flowers pentamerous, sessile, with valvate petals. Stamens free, gynobasic. Ovary pubescent. Stigma capitate. Drupe large. Embryo as long as the seed. Cotyledons foliaceous, undulate and plicate.
 
-Liane à tubercules souterrains. Inflorescences caulinaires. Fleurs ♀ pentamères, sessiles, à pétales valvaires. Étamines libres, gynobasiques Ovaire pubescent. Stigmate capité. Drupe de grande taille. Embryon aussi long que la graine. Cotylédons foliacés, ondulés et plissés.
-
-Ce genre endémique africain est monospécifique.
-
----
+This African endemic genus is monotypic.
 
 ## Species in region
 

@@ -16,21 +16,19 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 in Fedde Repert. 49 : 228 (1940) ; Pflanzenf., ed. 2, 20 B : 217 (1942).
 
-Lianes glabres dépourvues de caoutchouc, à vieux bois interrompu, en coupe transversale, par des séries concentriques de petites lacunes. Rameaux alternes densément lenticellés. Feuilles subopposées ou parfois alternes, pétiolées. Stipules réduites aux nœuds.
+Glabrous lianes lacking latex, with old wood interrupted, in transverse section, by concentric series of small lacunae. Branches alternate, densely lenticellate. Leaves subalternate or sometimes alternate, petiolate. Stipules reduced at the nodes.
 
-Cauliflorie remarquable : longs rameaux florifères aphylles pourvus seulement de petites écailles, issus entre le sol et 4 m de hauteur environ, de la partie inférieure des tiges ligneuses. Fleurs portées par de nombreux glomérules échelonnés. Calice soudé ou non en capuchon. Corolle quinconciale normalement 5-mère. Disque épais et largement charnu. Normalement 3 étamines à filet rubané large, insérées dans un sillon périgyne ; anthères extrorses divisées en 2 loges un peu obliques, contigués ou un peu confluentes. Pollen en monades tricolporées subéquiaxes. Style pyramidal court à stigmate ponctiforme. Ovules 2 par loge. Ovaire à paroi épaisse.
+Remarkable cauliflory: long aphyllous flowering branches bearing only small scales, arising between ground level and approximately 4 m in height, from the lower part of the woody stems. Flowers borne in numerous staggered glomules. Calyx fused or not into a hood. Corolla quincuncial, normally 5-merous. Disc thick and broadly fleshy. Normally 3 stamens with wide ribbon-like filament, inserted in a perigenous furrow; anthers extrorse, divided into 2 somewhat oblique locules, contiguous or slightly confluent. Pollen in subequiaxial tricolporate monads. Style pyramidal, short, with punctiform stigma. Ovules 2 per locule. Ovary with thick wall.
 
-Le fruit est une baie globuleuse (et non une drupe) ; la cavité interne est divisée par de minces cloisons. Graines, jusqu'à 6, exalbuminées, entourées à maturité d'un peu de mucilage.
+The fruit is a globose berry (and not a drupe); the internal cavity is divided by thin partitions. Seeds, up to 6, exalbuminous, surrounded at maturity by a little mucilage.
 
-ESPÈCE-TYPE : Salacighia letestuana (Pellegr.) Blakelock.
+TYPE SPECIES: Salacighia letestuana (Pellegr.) Blakelock.
 
-Etymologie : de Salacia (voir p. 30) et de guion du grec (idée de jambe nue), par allusion aux rameaux d'inflorescences aphyllos.
+Etymology: from Salacia (see p. 30) and from guion of Greek (idea of bare leg), by allusion to the aphyllous inflorescence branches.
 
-Genre de deux espèces dont l'une, S. linderi (Loes.) Blakelock, a un calice non soudé en capuchon dans le bouton ; elle n'est connue que de la Sierra Leone et du Libéria. L'espèce-type est largement répandue en forêt guinéo-congolaise. Le caractère du calice soudé en capuchon existe aussi chez un Salacia d'Indonésie : S. sororia Miq. (Fl. Malesiana 1, 6 (3) : 409, 1964).
+Genus of two species, one of which, S. linderi (Loes.) Blakelock, has a calyx not fused into a hood in the bud; it is known only from Sierra Leone and Liberia. The type species is widely distributed in Guineo-Congolian forest. The character of the calyx fused into a hood also exists in an Indonesian Salacia: S. sororia Miq. (Fl. Malesiana 1, 6 (3) : 409, 1964).
 
 ## Species in region
 

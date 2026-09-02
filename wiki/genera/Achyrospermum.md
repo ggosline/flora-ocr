@@ -15,69 +15,27 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Herbs, sometimes with woody base or shrubs, sometimes scandent. Leaves simple, petiolate.
 
-Herbes , parfois à base ligneuse ou arbustes , parfois sarmenteux. Feuilles simples, pétiolées.
+Inflorescences terminal and/or axillary, thyrsoid, dense and spiciform; cymes with 3 to 8 flowers; bracts distinct and much smaller than the leaves; bracteoles smaller or obsolete. Flowers shortly pedicellate; calyx tubular, becoming narrowly funnel-shaped in fruit, 5-lobed, with lobes oval to triangular, sometimes ciliate at apex, subequal or the 2 lower lobes positioned lower and slightly smaller; corolla bilabiate, 4-lobed, white (in the Flora territory) to violet or pink to red, upper lip short, emarginate, scarcely hooded, with uniform pilosity, lower lip 3-lobed with median lobe larger; 4 stamens, under the upper lip, scarcely exsert (in the Flora territory), the upper pair slightly shorter, attached to the upper part of the tube, base of filament forming a small scale, with confluent thecae, parallel; disk shortly 4-lobed; ovary deeply 4-lobed; style gynobasic, apex bifid, branches equal, sometimes very short. Fruits: 4 achenes, with scales on the upper half, sometimes with sessile glands.
 
-Inflorescences terminales et/ou axillaires, thyrsoïdes, denses et spiciformes ; cymes avec 3 à
+Genus with approximately 25 species in the humid forests of tropical Africa, Madagascar and other islands of the Indian Ocean, India and Malaysia, extending to southern China. In Africa, there are 21 species, of which three occur in Gabon.
 
-8 fleurs ; bractées distinctes et beaucoup plus petites que les feuilles ; bractéoles plus petites
+B: Bruce (1936), Morton (1963), Paton et al. (2009, 2013).
 
-ou obsolètes. Fleurs courtement pédicellées ; calice en tube, devenant en forme d’entonnoir
-
-étroit en fruit, 5-lobé, à lobes ovales à triangulaires , parfois ciliés à l’apex, subégaux ou les
-
-2 inférieurs placés plus bas et un peu plus petits ; corolle bilabiée, 4-lobée, blanche (dans le
-
-territoire de la Flore) à violette ou rose à rouge, lèvre supérieure courte, émarginée, à peine ca-
-
-puchonnée, à pilosité uniforme, lèvre inférieure 3-lobée à lobe médian plus grand ; 4 étamines,
-
-sous la lèvre supérieure , peu exsertes (dans le territoire de la Flore) , la paire supérieure un
-
-peu plus courte, fixée à la partie supérieure du tube, base du filet formant une petite écaille, à
-
-thèques confluentes, parallèles ; disque courtement 4-lobé ; ovaire profondément 4-lobé ; style
-
-gynobasique, apex bifide, branches égales, parfois très courtes. Fruits : 4 akènes, avec des
-
-écailles sur la moitié supérieure , parfois à glandes sessiles.
-
-Genre avec environ 25 espèces dans les forêts humides d’Afrique tropicale, de Madagascar
-
-et d’autres îles de l’Océan Indien, de l’Inde et de la Malaisie, jusqu’au sud de la Chine. En
-
-Afrique, on compte 21 espèces, dont trois existent au Gabon.
-
-B : Bruce (1936), Morton (1963), Paton et al. (2009, 2013).
-
-i B liographie
+Bibliography
 
 ---
 
-### Clé des espèces
+### Key to species
 
-1. - Inflorescence terminale globuleuse ou courtement cylindrique, atteignant 3 cm de
+1. - Terminal inflorescence globose or shortly cylindric, reaching 3 cm in length; leaf limb generally marked with white on the veins of the upper surface (character sometimes not visible in herbarium specimens) ............................... A. tisserantii
 
-longueur ; limbe foliaire généralement marqué de blanc sur les nervures de la face
+- Terminal inflorescence cylindric, 3–9 cm long; leaf limb uniformly green on the upper surface .................................................................................. 2
 
-supérieure (caractère parfois non visible en herbier) ............................... A. tisserantii
+2. - Calyx with teeth long acuminate-caudate, with cilia of ± 1 mm; upper part of the stem villous, with hairs generally spreading; upper surface of leaf limb with stiff hairs 1–1.5 mm ............................................................................ A. ciliatum
 
-- Inflorescence terminale cylindrique, longue de 3–9 cm ; limbe foliaire uniformé -
-
-ment vert sur la face supérieure .................................................................................. 2
-
-2. - Calice à dents longuement acuminées-caudées, à cils de ± 1 mm ; partie supérieure
-
-de la tige villeuse, à poils généralement étalés ; face supérieure du limbe foliaire à
-
-poils raides de 1–1,5 mm ............................................................................ A. ciliatum
-
-- Calice à dents aiguës ou mucronées au sommet, à cils plus courts ; partie supérieure
-
-de la tige densément pubescente à pileuse, à poils généralement apprimés et dirigés
-
-vers le bas ; face supérieure du limbe foliaire pratiquement glabre sauf sur la ner-
+- Calyx with teeth acute or mucronate at apex, with shorter cilia; upper part of the stem densely pubescent to pilose, with hairs generally appressed and directed downward; upper surface of leaf limb practically glabrous except on the vein
 
 ## Species in region
 

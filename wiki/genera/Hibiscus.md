@@ -17,73 +17,37 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Perennial or annual herbs, subshrub, shrubs or rarely small trees, often covered with simple or stellate hairs. Leaves with limb entire to palmatilobed or palmatifid. Flowers axillary, solitary or in racemes, panicles or glomerules, provided with an epicalyx of 3–10(–20) bracteoles; sepals fused at the base; petals white, orange or yellow, with purple or violet base; stamen tube with anthers variously arranged; ovary with 5 carpels, the 5 locules with several ovules; style dividing into 5 branches at the apex, stigmas capitate, very papillose. Fruits capsular, with loculicidal dehiscence, generally surrounded by the accrescent epicalyx and calyx, at least 2 seeds per locule. Seeds generally reniform, glabrous, verrucose, striate.
 
-Herbes vivaces ou annuelles, sous-arbrisseau, arbustes ou rarement petits arbres, souvent
+Genus with approximately 200 species, pantropical and subtropical; in Gabon 12 species, of which 2 new to science.
 
-couvert de poils simples ou étoilés . Feuilles à limbe entier à palmatilobé ou palmati-
+Taxonomic note: The genus Hibiscus contains many ornamental species, such as H. mutabilis L., H. rosa-sinensis L. and H. schizopetalum (Mast.) Hook.f., which might be encountered in gardens in Gabon. Several species were introduced for their fibres or edible leaves.
 
-partite. Fleurs axillaires, solitaires ou en racèmes, panicules ou glomérules, pourvues
+B: Akoègninou et al. (2006), Bayer & Kubitzki (2003), Exell & Meeuse (1961), Hauman (1963), Mwachala (2009).
 
-d’un calicule de 3 ‒ 10( ‒ 20) bractéoles ; sépales soudés à la base ; pétales blancs, orange
-
-ou jaunes, à base pourpre ou violacée ; tube staminal à anthères diversement réparties ;
-
-ovaire à 5 carpelles , les 5 loges à plusieurs ovules ; style se divisant en 5 branches au
-
-sommet, stigmates capités, très papilleux. Fruits capsulaires, à déhiscence loculicide , en
-
-général entourés du calicule et calice accrescents, au moins 2 graines par loge. Graines
-
-généralement réniformes, glabres, verruqueuses, striées.
-
-Genre à 200 espèces environ, pantropicales et subtropicales ; au Gabon 12 espèces, dont
-
-2 nouvelles pour la science.
-
-Note taxonomique : Le genre Hibiscus contient de nombreuses espèces ornementales,
-
-comme H. mutabilis L., H. rosa-sinensis L. et H. schizopetalum (Mast.) Hook.f., qu’on
-
-pourrait rencontrer dans des jardins au Gabon. Plusieurs espèces étaient introduites pour
-
-leur fibres ou feuilles comestibles.
-
-B : Akoègninou et al. (2006), Bayer & Kubitzki (2003), Exell & Meeuse
-
-i B liographie
-
-(1961), Hauman (1963), Mwachala (2009) .
+Bibliography
 
 ---
 
-### Clé des espèces
+### Key to species
 
-1. - Bractéoles de l’épicalice (calicule) formant une cupule à 8 ‒ 10 dents;
+1. – Bracteoles of the epicalyx (epicalycine cup) forming a cup with 8–10 teeth;
+   coastal shrub .......................................................................................... H. tiliaceus
+   – Bracteoles of the epicalyx mostly free, fused only at the base .................................... 2
 
-arbuste côtier ........................................................................................... H. tiliaceus
+2. – Calyx accrescent after flowering, becoming red and fleshy ....................... H. sabdariffa
+   – Calyx little or non-accrescent, not becoming fleshy ..................................................... 3
 
-- Bractées de l’épicalice en majeure partie libres, soudées seulement à la base ....... 2
+3. – Bracteoles of the epicalyx distinctly or obscurely forked ............................................. 4
+   – Bracteoles simple ...................................................................................................... 10
 
-2. - Calice accrescent après floraison, devenant rouge et charnu ............... H. sabdariffa
+4. – Stipules ovate, auriculate, amplexicaul; epicalyx with 10 foliaceous bracteoles,
+   elliptic or ovate, remarkably spread out in a plane forming a crown
+   ............................................................................................... H. surattensis
+   – Stipules linear or subulate, non-amplexicaul; epicalyx reflexed, spreading or
+   more or less appressed, not forming a crown .................................................................. 5
 
-- Calice peu ou non accrescent, ne devenant pas charnu ........................................... 3
-
-3. - Bractéoles de l’épicalice nettement ou obscurément fourchues ............................. 4
-
-- Bractéoles simples ................................................................................................ 10
-
-4. - Stipules ovales, auriculées, amplexicaules ; épicalice à 10 bractéoles foliacées,
-
-elliptiques ou ovales, remarquablement étendues dans un plan en forme de
-
-couronne .............................................................................................. H. surattensis
-
-- Stipules linéaires ou subulées, non amplexicaules ; épicalice réfléchi, étendu ou
-
-plus ou moins apprimé, non en forme de couronne, ............................................... 5
-
-5. - Fleur ou fleurs sur un ensemble de pédoncules et pédicelles de 3 ‒ 11 cm,
+5. – Flower or flowers on a set of peduncles and pedicels of 3–11 cm,
 
 ## Species in region
 

@@ -17,25 +17,19 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Annual and erect herbs (African and Malagasy species) or perennial and creeping at the base.
 
-Herbes annuelles et érigées (espèces africaines et malgaches) ou vivaces et rampantes à la base.
+Leaves opposite, petiolate or sessile, entire; stipules interpetiolar, well developed or reduced to a transverse border.
 
-Feuilles opposées, pétiolées ou sessiles, entières; stipules interpétio-
+Inflorescences terminal and/or axillary, generally long-pedunculate, dichasia with long helicoid branches.
 
-laires bien développées ou réduites à un rebord transversal.
+Flowers short-pedicellate to subsessile, 5-merous. Sepals generally little connate, ovate to oblong, green in the central part, transparent and whitish at the margin, acute or less often obtuse, entire. Corolla urceolate, longer than the calyx, with lobes papillose externally and internally, throat furnished with a ring of penicillate or pilose hairs; tube generally slightly longer than the lobes; lobes oblong or triangular, acute, entire, erect, imbricate in the bud. Stamens included, inserted slightly above the base of the corolla, with glabrous filament, nearly the same length as the orbicular and glabrous anther. Pistil glabrous; ovary half-inferior, ± globose, two-locular; style short or very short, sometimes longitudinally split; stigma subcapitate or bilobed, generally torn when the corolla falls; one axillary placenta, orbicular peltate, with approximately 30 ovules per locule.
 
-Inflorescences terminales et/ou axillaires, généralement longuement pédonculées, dichasiales à longs rameaux hélicoïdes.
+Fruits capsular, 2-horned.
 
-Fleurs courtement pédicellées à subsessiles, 5-mères. Sépales généra- lement peu soudés, ovés à oblongs, verts dans la partie centrale, transpa- rents et blanchâtes au bord, aigus ou moins souvent obtus, entiers. Corolle urcéolée, plus longue que le calice, à lobes papilleux extérieurement et intérieurement, à gorge garnie d'un anneau de poils pénicillés ou pileux; tube généralement un peu plus long que les lobes; lobes oblongs ou trian- gulaires, aigus, entiers, érigés, imbriqués dans le bouton. Étamines incluses, insérées un peu au-dessus de la base de la corolle, à filet glabre, presque de même longueur que l'anthère orbiculaire et glabre. Pistil glabre; ovaire demi-infère, ± globuleux, à deux loges; style court ou très court, parfois longitudinalement fendu; stigmate subcapité ou bilobé, généralement déchiré quand la corolle tombe; un placenta axillaire, orbiculaire pelté, à 30 ovules environ par loge.
+Type species: Mitreola petiolata (J. F. Gmel.) Torr. & Gray
 
-Fruits capsulaires, 2-cornés.
-
-Espèce-type : Mitreola petiolata (J. F. Gmel.) Torr. & Gray
-
-Cinq ou six espèces, presque pantropicales; une espèce bien connue de l'Amérique et de l'Asie, rare en Afrique; en savane.
-
----
+Five or six species, nearly pantropical; one well-known species from America and Asia, rare in Africa; in savanna.
 
 ## Species in region
 

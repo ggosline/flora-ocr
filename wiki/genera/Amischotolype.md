@@ -17,69 +17,19 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Herbs decumbent or ascending; aerial stems unbranched, basal portion rhizomatous and rooting at the nodes, partially covered by the sheaths. Leaves spiral, well-spaced along the stem, glabrous or slightly hairy; pseudipetiole present; blade narrowly elliptic-ovate. Inflorescences axillary, sessile or shortly pedunculate, piercing the base of the sheath below the leaf blade, often bifurcate/bijugate, forming a pair of multiflorous cincinni, with flowers alternate on the rachis. Flowers: sepals narrowly elliptic-oblong, weakly keeled, almost conduplicate, green; petals narrowly elliptic-oblong; stamens 6, sinuous, filaments longer than the petals, anthers with 4 locules; staminodes absent; ovary 3-lobed, truncate; style slender. Fruits: capsule opening in 3 valves exposing 3 to 6 uniseriate seeds. Seeds reniform, coarsely rugose, covered by a fleshy aril; hilum linear.
 
-Herbes décombantes ou ascendantes ; tiges aériennes non ramifiées, partie basale rhizoma -
+Genus widely Asian with about 24 species, with two species, one of which is described below, in Africa, from Nigeria to the Democratic Republic of the Congo; two species present in Gabon.
 
-teuse et s’enracinant aux nœuds, partiellement couverts par les gaines. Feuilles spiralées, bien
+Notes: The only African species known to date, A. tenuis, was first described in the genus Buforrestia by Clarke (1881) with reservations. Bentham & Hooker (1883) subsequently transferred it to the genus Forrestia, and Clarke (1901) then described Forrestia africana, while emphasizing that a new genus would probably be better suited to the African species. Finally, Rao (1971), noting that the name Forrestia A.Rich. is preceded by Forrestia Raf. of the family Rhamnaceae, proposed the transfer of two Indian species and the African species F. tenuis to the genus Amischotolype, previously placed in synonymy with Forrestia by Bentham. The disjunction between species of south and south-east Asia and central Africa may seem surprising, especially in the absence of species in East Africa, but this case is also noted for the genus Tricarpelema. Further genetic studies could make it possible to confirm the belonging of the now two African species to the genus Amischotolype.
 
-espacées le long de la tige, glabres ou légèrement poilues ; pseudopétiole présent ; limbe étroi -
+B: Bentham (1883), Brenan (1968), Clarke (1901), Duistermaat (2012), Rao (1971).
 
-tement elliptique-ovale. Inflorescences axillaires, sessiles ou courtement pédonculées, per-
+Bibliography
 
-forant la base de la gaine sous le limbe foliaire , souvent bifurquées/bijuguées, formant
+### Key to the species
 
-une paire de cincinni multiflores , à fleurs alternes sur le rachis. Fleurs : sépales étroitement
-
-elliptiques-oblongs, faiblement carénés, quasi condupliqués, verts ; pétales étroitement ellip-
-
-tiques-oblongs ; étamines 6 , sinueuses, filets plus longs que les pétales , anthères à 4 loges ;
-
-staminodes absents ; ovaire 3-lobé, tronqué ; style mince. Fruits : capsule s’ouvrant en 3
-
-valves exposant les 3 à 6 graines unisériées. Graines réniformes, grossièrement rugueuses,
-
-couvertes par un arille charnu ; hile linéaire.
-
-Genre largement asiatique d’environ 24 espèces, avec deux espèces, dont une décrite ci-des -
-
-sous, en Afrique, du Nigéria à la République démocratique du Congo ; les deux espèces pré -
-
-sentes au Gabon.
-
-Notes : La seule espèce africaine connue jusqu’à aujourd’hui, A. tenuis , a d’abord été décrite dans le
-
-genre Buforrestia par Clarke (1881) avec des doutes. Bentham & Hooker (1883) l’ont ensuite transférée
-
----
-
-dans le genre Forrestia , et Clarke (1901) décrivit ensuite Forrestia africana , tout en soulignant qu’un
-
-nouveau genre serait probablement plus adapté aux espèces africaines. Enfin, Rao (1971), notant que le
-
-nom Forrestia A.Rich. est précédé par Forrestia Raf. de la famille des Rhamnaceae, proposa le transfert
-
-de deux espèces indiennes et de l’espèce africaine F. tenuis dans le genre Amischotolype , précédemment
-
-mis en synonymie avec Forrestia par Bentham. La disjonction entre les espèces du sud et sud-est asia -
-
-tique et de l’Afrique centrale peut sembler étonnante, surtout en l’absence d’espèces en Afrique de l’Est,
-
-mais ce cas est aussi noté pour le genre Tricarpelema . Des études génétiques plus poussées pourraient
-
-permettre de confirmer l’appartenance des désormais deux espèces africaines au genre Amischotolype .
-
-B : Bentham (1883), Brenan (1968), Clarke (1901), Duistermaat (2012), Rao (1971).
-
-i B liographie
-
-### Clé des espèces
-
-1. - Port rampant et ascendant sur troncs d’arbres au moyen de racines caulinaires et
-
-aériennes, jusqu’à 3 m de hauteur ; limbe foliaire étroitement elliptique-ovale à
-
-elliptique, généralement 3 fois plus long que large ; pédoncule jusqu’à 12 mm
+1. - Habit creeping and ascending on tree trunks by means of cauline and aerial roots, up to 3 m in height; leaf blade narrowly elliptic-ovate to elliptic, generally 3 times longer than wide; peduncle up to 12 mm
 
 ## Species in region
 

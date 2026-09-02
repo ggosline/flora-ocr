@@ -17,29 +17,27 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Lianes with tendrils, with white latex. Stipules absent. Leaves opposite, glabrous, petio-
 
-Lianes avec des vrilles , à latex blanc. Stipules absentes. Feuilles opposées, glabres, pétio-
+late. Inflorescences in axillary and terminal cymes. Flowers 5-merous; calyx without colleters;
 
-lées. ,QÀRUHVFHQFHV en cymes axillaires et terminales. Fleurs 5-mères ; calice sans collétères ;
+corolla with almost cylindrical tube, with lobes overlapping towards the left; stamens included,
 
-FRUROOHjWXEHSUHVTXHF\OLQGULTXHjOREHV recouvrant vers la gauche ; étamines incluses,
+anthers close to the throat, apiculate at the apex, cordate or subcordate at the base, glabrous;
 
-anthères proches de la gorge, apiculées au sommet, cordées ou subcordées à la base, glabre ;
+ovary syncarpous; pistil still present after the fall of the corolla, with a head reaching the an-
 
-ovaire syncarpe ; pistil encore présent après la chute de la corolle, à tête atteignant les an-
+thers, apex stigmatoid, cleft at the summit. Syncarpous fruits, in berries with numerous seeds,
 
-WKqUHVDSH[VWLJPDWRwGHIHQGXDXVRPPHW Fruits syncarpes, en baies à nombreuses graines,
+globulous or ovoid, orange, glabrous, with glutinous pulp. Seeds ellipsoid, thin testa,
 
-JOREXOHXVHVjRYRwGHVRUDQJH glabres , à pulpe gluante. Graines HOOLSVRwGDOHVWHVWDPLQFH
+thin endosperm.
 
-endosperme mince .
+Monotypic genus, limited to tropical Africa.
 
-*HQUHPRQRW\SLTXHOLPLWpjO¶$IULTXHWURSLFDOH
+B: Beentje (2021), Endress et al. (2019), Haegens (1994).
 
-B : Beentje (2021), Endress et al. (2019), Haegens (1994).
-
-IBLIOGRAPHIE
+BIBLIOGRAPHY
 
 ## Species in region
 

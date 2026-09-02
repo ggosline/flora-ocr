@@ -17,77 +17,27 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Shrubs or trees, rarely lianescent, with white latex in all parts; branches glabrous. Leaves opposite, petiolate, those of a pair equal or subequal; blade glabrous on both surfaces. Inflorescences mostly terminal, sometimes also axillary, dense, lax, with some to numerous flowers; pedicel glabrous. Flowers fragrant, actinomorphic, except for the calyx lobes subequal; calyx with lobes bearing colleters inside; corolla with tube subcylindric, longer than the calyx, retracted under the insertion of the stamens with lobes covering to the left in bud, sometimes twisted, shorter, equal to, or longer than the tube; stamens included, free, inserted in the upper half of the tube, anthers glabrous, consisting of two lobes parallel with longitudinal dehiscence; pistil glabrous, ovary subglobose to oblong, composed of 2 separate carpels, united at the extreme base by a disciform thickening; ovules in each carpel, pistil with head composed of a basal part subglobose, stigmatic, and of a stigmatoid apex. Fruits composed of 2 distinct mericarps divergent, ovoid to obovoid, apex rounded or rostrate, yellow to orange, smooth or wrinkled, with grains to wall ± mm of thickness, charnu-fibrous. Seeds somewhat angular, smooth, without comaembryom straight, spatulate surrounded by a thick, rather starchy and hard endosperm, leaving a hole around the base of the radicle; cotyledons thin, foliaceous.
 
-Arbustes ou arbres , rarement lianescents, à latex blanc dans toutes les parties ; rameaux
+A genus with species all present in Africa; one species, H. zeylanica Thwaites, is also widely distributed in South and Southeast Asia; in Gabon, seven species are known.
 
-glabres. Feuilles opposées, pétiolées, celles d’une paire égales ou subégales ; limbe glabre
+BIBLIOGRAPHY
 
-sur les deux faces. ,QÀRUHVFHQFHV le plus souvent terminales, parfois aussi axillaires, denses
+B: Beentje (2021), Endress et al. (2019), Leeuwenberg & Kupicha (1985), Omino (1996, 2002).
 
-jOkFKHVDYHFTXHOTXHVjQRPEUHXVHVÀHXUVjSpGRQFXOHJODEUH Fleurs odorantes, actino-
+### Key to species
 
-morphes, sauf les lobes du calice subégaux ; calice à lobes munis de collétères à l’intérieur ;
-
-FRUROOHjWXEHVXEF\OLQGULTXHSOXVORQJTXHOHFDOLFHUpWUpFLVRXVO¶LQVHUWLRQGHVpWDPLQHV
-
-à lobes recouvrant vers la gauche HQERXWRQSDUIRLVWRUGXVSOXVFRXUWVRXSOXVORQJVTXH
-
-le tube ; étamines incluses, libres, insérées à la moitié supérieure du tube, anthères glabres,
-
-constituées de deux loges parallèles à déhiscence longitudinale ; pistil glabre, ovaire subglo-
-
-buleux à oblong, composé de 2 carpelles séparés, unis à l’extrême base par un épaississement
-
-GLVFLIRUPHRYXOHVjGDQVFKDTXHFDUSHOOHSLVWLOjWrWHFRPSRVpHG¶XQHSDUWLHEDVDOH
-
-VXEJOREXOHXVH VWLJPDWLTXH HW G¶XQ VRPPHW VWLJPDWRwGH Fruits composés de 2 méricarpes
-
-GLVWLQFWV GLYHUJHDQW j RYRwGHV j RERYRwGHV j VRPPHW DUURQGL RX URVWUp MDXQHV j
-
-RUDQJHOLVVHVRXYHUUXTXHX[DYHFjJUDLQHVjSDURLGH±PPG¶pSDLVVHXUFKDU -
-
-QXHj¿EUHXVH Graines TXHOTXHSHXDQJXOHXVHVOLVVHVVDQVFRPDHPEU\RQGURLWVSDWKXOp
-
-entouré d’un endosperme épais, plutôt amidonné et dur, laissant un trou autour la base de la
-
-radicule ; cotylédons minces, foliacés.
-
-8QJHQUHDYHFHVSqFHVWRXWHVSUpVHQWHVHQ$IULTXHXQHHVSqFH H. zeylanica Thwaites,
-
-est également largement répandue en Asie du Sud et du Sud-Est ; au Gabon, sept espèces sont
-
-connues.
-
-B : Beentje (2021), Endress et al. (2019), Leeuwenberg & Kupicha (1985), Omino (1996,
-
-IBLIOGRAPHIE
-
-2002).
-
-### Clé des espèces
-
-1. - Calice à lobes longs de 4,6–6 mm ; corolle à tube long de 16–21 mm ; limbe fo-
-
-liaire avec 8 à 10 paires de nervures secondaires ................................... H. maasiorum
+1. - Calyx with lobes 4.6–6 mm long; corolla with tube 16–21 mm long; leaf blade with 8 to 10 pairs of secondary veins ................................... H. maasiorum
 
 ---
 
-- Calice à lobes longs de 0,6–2,5 mm ; corolle à tube long de 3–13 mm ; limbe fo-
+- Calyx with lobes 0.6–2.5 mm long; corolla with tube 3–13 mm long; leaf blade with 7 to 30 pairs of lateral veins ............................................................. 2
 
-liaire avec 7 à 30 paires de nervures latérales ............................................................. 2
-
-2. - Corolle à tube long de 3–4 mm, l’intérieur avec ou sans touffes de poils minus-
-
-FXOHVVRXVFKDTXH¿OHWOLPEHIROLDLUHDYHFjSDLUHVGHQHUYXUHVVHFRQGDLUHV
+2. - Corolla with tube 3–4 mm long, the interior with or without tufts of minute hairs under each filament, leaf blade with to pairs of secondary veins.
 
 .............................................................................................................. H. camerunenis
 
-- Corolle à tube long de 4–13 mm, l’intérieur avec une bande pubescente sous les
-
-pWDPLQHVHWSDUIRLVMXVTX¶jODJRUJHOLPEHIROLDLUHDYHFjSDLUHVGHQHUYXUHV
-
-secondaires .................................................................................................................. 3
+- Corolla with tube 4–13 mm long, the interior with a pubescent band under the stamens and sometimes up to the throat, leaf blade with to pairs of secondary veins .................................................................................................................. 3
 
 ## Species in region
 

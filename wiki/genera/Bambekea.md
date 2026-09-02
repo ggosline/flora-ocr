@@ -17,13 +17,11 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Annual herb, climbing, dioecious; stem glabrous. Tendrils 2-fid, spiralling above the branching point. Leaves petiolate; blade rather large, palmatilobed, with 5 lobes. Inflorescences in raceme. Male flowers: receptacle short, rotate; sepals 5, with reflexed, triangular teeth; petals 5, free, narrow, obovate, entire; stamens 5, inserted at the base of the receptacle, with free filaments, anthers extorse, initially coherent in a spherical capitulum in the middle of the perianth then free, monotheca, with linear, irregularly flexuous locules, connective somewhat enlarged, not prolonged above the theca; pistillode absent. Female flowers similar to male flowers; staminodes 5, linear-subulate; ovary sometimes slightly constricted at the apex, containing numerous horizontal ovules; style elongated, with 5 stigmas. Fruits as berries, obovoid, glabrous, containing numerous horizontal seeds. Seeds slightly flattened, not marginate.
 
-Herbe annuelle, grimpante, dioïque; tige glabre. Vrilles 2-fides, spiralées au-dessus du point de ramification. Feuilles pétiolées; limbe assez grand, palmatilobé, à 5 lobes. Inflorescences en racème. Fleurs mâles: réceptacle court, rotacé; sépales 5, à dents réfléchis, triangulaires; pétales 5, libres, étroits, obovales, entiers; étamines 5, insérées dans le fond du réceptacle, à filets libres, anthères extorcises, d'abord cohérentes en un capitule sphérique au milieu du périanthe puis libres, monothèques, à loges linéaires, irrégulièrement flexueuses, connectif un peu élargi, non prolongé au-dessus de la thèque; pistillode absent. Fleurs femelles semblables aux fleurs mâles; staminodes 5, linéaires-subulés; ovaire parfois un peu rétréci au sommet, renfermant de nombreux ovules horizontaux; style allongé, à 5 stigmates. Fruits en baie, obovoïdes, glabres, renfermant de nombreuses graines horizontales. Graines légèrement aplaties, non marginées.
+### Monotypic African genus, from Côte d'Ivoire to Uganda.
 
-### Genre africain monotypique, de la Côte d'Ivoire jusqu'en Ouganda.
-
-BIBLIOGRAPHIE: Jeffrey (1967), Keraudren (1967), Keraudren-Aymonin (1975), Schaefer & Renner (2011a).
+BIBLIOGRAPHY: Jeffrey (1967), Keraudren (1967), Keraudren-Aymonin (1975), Schaefer & Renner (2011a).
 
 ## Species in region
 

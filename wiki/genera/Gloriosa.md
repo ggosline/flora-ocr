@@ -17,35 +17,17 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Herbs with tunicate corms and sometimes rhizomatous; stem simple or branched, erect or climbing, bearing a cataphyll. Cauline leaves, alternate to opposite or in whorls of 3–4, sessile, sheathing. Flowers solitary, axillary, long-pedicellate, pendulous; perianth with free tepals and reflexed upward, persistent; stamens free, anthers dorsifixed; carpels united, ovary ellipsoid-ovoid to cylindric; style 1, perpendicular to the ovary and 3-branched at the apex. Fruits loculicidal or septicidal, coriaceous. Seeds globular, with red and fleshy aril.
 
-Herbes à corme tuniqué et parfois rhizomateux ; tige simple ou ramifiée, dressée ou grim -
+Genus comprising probably a single very variable species (see below) from tropical to subtropical Africa and Asia, but some authors have recognized a dozen species.
 
-pante, pourvue d’une cataphylle. Feuilles caulinaires , alternes à opposées ou en verti -
+b: Field (1972), Hoenselaar (2005), Nordenstam (1998).
 
-cilles de 3–4, sessiles, engaînantes . Fleurs solitaires, axillaires, longuement pédicellées ,
-
-pendantes ; périgone à tépales libres et réfléchis vers le haut, persistants ; étamines libres,
-
-anthères dorsifixes ; carpelles soudés, ovaire ellipsoïde-ovoïde à cylindrique ; style 1, à
-
-position perpendiculaire à l’ovaire et à 3 branches au sommet. Fruits loculi- ou septi -
-
-cides, coriaces. Graines globuleuses, à arille rouge et charnu.
-
-Genre comprenant probablement une seule espèce très variable (voir ci-dessous)
-
-d’Afrique et d’Asie tropicale à subtropicale, mais certaines auteurs ont reconnu une di -
-
-zaine d’espèces.
-
-b : Field (1972), Hoenselaar (2005), Nordenstam (1998).
-
-ibliographie
+ibliography
 
 ---
 
-Williams 61 ). Dessin par H.L. Wilks (©), reproduit avec permission à partir de Hoenselaar (2005).
+Williams 61). Drawing by H.L. Wilks (©), reproduced with permission from Hoenselaar (2005).
 
 ---
 

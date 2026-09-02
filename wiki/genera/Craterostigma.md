@@ -17,41 +17,13 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Annual or perennial herbs, sometimes suffrutex; stems erect to ascending or prostrate, with numerous ramifications (paraclades) or few-branched, glabrous or pubescent, quadrangular. Leaves opposite, cauline or in basal rosette, sessile; blade orbicular to ovate or lanceolate, acuminate to obtuse at the apex, with margin dentate to crenate or entire; venation palmate. Inflorescence terminal or sometimes axillary, in lax or dense raceme, each floriferous node bearing 1 or 2 flowers. Flowers with pedicels longer than the leaves; calyx 5-lobed, sometimes winged, with lobes equal; corolla zygomorphic, with upper lip entire or bipartite, lower lip tripartite, without palate; stamens 4, the anterior (abaxial) ones with filaments curved in Z-shape and forming geniculate appendages covered with glandular hairs and papillae, filaments of posterior (adaxial) stamens narrow, anthers with 2 equal thecae; ovary glabrous; stigma bilobed. Fruits capsular, septicide-septifrage. Seeds with alveolate albumen, with small round cavities formed by the endothelium (bothriosperme).
 
-Herbes annuelles ou vivaces, parfois suffrutex ; tiges dressées à ascendantes ou pros-
+Genus with 25 species in Africa to India and Vietnam (1 species); one species in Gabon.
 
-trées, à ramifications nombreuses (paraclades) ou peu ramifiées, glabres ou pubescentes,
+B: Fischer (1999, 2004), Fischer et al. (2013).
 
-quadrangulaires. Feuilles opposées, caulinaires ou en rosette basale, sessiles ; limbe
-
-orbiculaire à ovale ou lancéolé, acuminé à obtus au sommet, à bord denté à crénelé ou
-
-entier ; nervation palmée . Inflorescence terminale ou parfois axillaire, en racème lâche
-
-ou dense, chaque nœud florifère portant 1 ou 2 fleurs. Fleurs à pédicelles plus longs
-
-que les feuilles ; calice 5-lobé, parfois ailé, à lobes égaux ; corolle zygomorphe, à lèvre
-
-supérieure entière ou bipartite, lèvre inférieure tripartite, sans palais ; étamines 4, les
-
-antérieures (abaxiales) aux filets incurvés en forme de Z et formant des appendices
-
-géniculés couverts de poils glanduleux et de papilles , filets des étamines postérieures
-
-(adaxiales) étroits, anthères à 2 thèques égales ; ovaire glabre ; stigmate bilobé. Fruits
-
-capsulaires, septicides-septifrages. Graines à albumen alvéolé, avec des petites cavités
-
-rondes formées par l'endothélium (bothriosperme).
-
-Genre avec 25 espèces en Afrique jusqu’en Inde et Vietnam (1 espèce) ; une espèce au
-
-Gabon.
-
-B : Fischer (1999, 2004), Fischer et al. (2013).
-
-ibliographie
+ibliography
 
 ## Species in region
 

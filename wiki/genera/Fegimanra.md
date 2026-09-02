@@ -17,27 +17,13 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Shrubs to medium trees. Leaves simple, often in tufts at the apex of the branches; blade with entire margin. Inflorescences in terminal panicles. Flowers unisexual, dioecious, 4-merous; pedicel articulate; calyx gamosepalous, with imbricate lobes; petals imbricate, finely puberulent. Male flower: stamens 1, free, with introrse anther, with longitudinal slits. Female flower with 1 staminode; ovary unilocular, uniovulate; style 1. Fruits with 1 seed, partially covered at the base by a fleshy cupule formed from the receptacle.
 
-Arbustes à arbres moyens. Feuilles simples , souvent en touffes à l’extrémité des rameaux ;
+Genus of tropical Africa, comprising three species, one from Gabon and the Republic of the Congo, two others from West Africa (Guinea, Sierra Leone, Liberia).
 
-limbe à marge entière. Inflorescences en panicules terminales. Fleurs unisexuées, dioïques,
+B: Engler (1921), Hawthorne & Jongkind (2006), Keay (1958), Pell et al. (2011).
 
-4-mères ; pédicelle articulé ; calice gamosépale, à lobes imbriqués ; pétales imbriqués,
-
-finement pubérulents. Fleur mâle : étamines 1 , libre, à anthère introrse, à fentes longitudi -
-
-nales. Fleur femelle à 1 staminode ; ovaire uniloculaire, uniovulé ; style 1. Fruits à 1 graine,
-
-partiellement couvert à la base par une cupule charnue formée du réceptacle .
-
-Genre d’Afrique tropicale, comprenant trois espèces, une du Gabon et de la République du
-
-Congo, deux autres de l’Afrique de l’Ouest (Guinée, Sierra Léone, Libéria).
-
-B : Engler (1921), Hawthorne & Jongkind (2006), Keay (1958), Pell et al. (2011).
-
-i B liographie
+Bibliography
 
 ## Species in region
 

@@ -17,23 +17,21 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 - Neosloetiopsis ENGL., l.c. 51: 426 (1914); RENDLE in HUTCH. & RENDLE, FTA 6 (2): 78 (1916); HAUMAN, FCB 1: 82 (1948).
 
 ---
 
 ---
 
-Arbustes ou petits arbres dioïques (ou monoïques). Feuilles distiques ; limbe à nervation pennée. Stipules libres, semi-amplexicaules.
+Shrubs or small dioecious (or monoecious) trees. Leaves distichous; blade with pinnate venation. Stipules free, semi-amplexicaul.
 
-Inflorescences solitaires à l'aisselle des feuilles (normalement unisexuées). Inflorescences 8 en épi, avec un sillon stérile abaxial, pourvues de bractées (en partie peltées); périanthe quadrifide à segments imbriqués ; étamines 4 infléchies avant l'anthèse, souplement recourbées vers l'extérieur à l'anthèse, à anthères introrses ; pistillode très petit. Inflorescences 9 uniflores, pourvues de bractées ; périanthe avec 4 pétales, libres et imbriquées ; ovaire libre ; stigmates 2, filiformes.
+Inflorescences solitary in the leaf axils (normally unisexual). Male inflorescences in a spike, with an abaxial sterile groove, provided with bracts (in part peltate); perianth quadrifid with imbricate segments; stamens 4 inflexed before anthesis, flexibly curved outward at anthesis, with introrse anthers; pistillode very small. Female inflorescences uniflorous, provided with bracts; perianth with 4 petals, free and imbricate; ovary free; stigmas 2, filiform.
 
-Périanthe élargi en fruit, verdâtre, fortement charnu ; exocarpe épais, charnu, blanc, et déhiscent, éjectant le noyau ; endocarpe noir, coriace, avec un disque dur vers le hile ; testa vascularisé avec un capuchon apical épaissi plus densément vascularisé ; cotylédons égaux, épais ; radicule apicale et très courte.
+Perianth enlarged in fruit, greenish, strongly fleshy; exocarp thick, fleshy, white, and dehiscent, ejecting the stone; endocarp black, coriaceous, with a hard disc toward the hilum; testa vascularized with a thickened apical cap more densely vascularized; cotyledons equal, thick; radicle apical and very short.
 
-ESPÈCE-TYPE : Sloetiopsis usambarensis ENGL.
+TYPE SPECIES: Sloetiopsis usambarensis ENGL.
 
-L'espèce bien connue Neosloetiopsis kamerunensis est synonyme de Sloetiopsis usambarensis. Le genre monospécifique Sloetiopsis montre de réelles ressemblances avec le genre asiatique Sloetia TEYSMANN & BINNEND ex KURZ et pourrait être congénérique. CORNER (1962) considère le genre Sloetia comme section du vaste genre Streblus LOUREIRO.
+The well-known species Neosloetiopsis kamerunensis is a synonym of Sloetiopsis usambarensis. The monotypic genus Sloetiopsis shows real similarities with the Asian genus Sloetia TEYSMANN & BINNEND ex KURZ and might be congeneric. CORNER (1962) considers the genus Sloetia as a section of the vast genus Streblus LOUREIRO.
 
 ## Species in region
 

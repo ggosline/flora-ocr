@@ -16,13 +16,11 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Rhizome creeping, covered with imbricate, peltate scales, often ciliate when young. Petiole articulate at some distance from the rhizome, the part below the articulation being considered a phyllopodium. Frond simple, entire, with simple or forked veins, close together, terminating in hydathodes. Sori dorsal, close to the costa, forming a row on each side of it. Indusium ± reniform. Spores bilateral.
 
-Rhizome rampant, couvert d'écailles imbriquées, peltées, souvent ciliées chez le jeune. Pétiole articulé à une certaine distance du rhizome, la partie au dessous de l'articulation étant considérée comme un phyllopodium. Fronde simple, entière, à nervures simples ou furquées, rapprochées, se terminant par des hydathodes. Sores dorsaux, rapprochés du costa, formant une rangée de chaque côté de lui. Indusie ± réniforme. Spores bilatérales.
+Type species: Oleandra neriformis Cav.
 
-Espèce type : Oleandra neriformis Cav.
-
-Environ 40 espèces, surtout d'Asie et Polynésie; une seule au Gabon.
+Approximately 40 species, chiefly from Asia and Polynesia; one only in Gabon.
 
 ## Species in region
 

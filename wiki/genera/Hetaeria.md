@@ -17,23 +17,17 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Fleshy, creeping rhizome. Leaves petiolate in basal rosette, arranged in spiral. Terminal inflorescence. Flowers not resupinate. Sepals and petals free. Labellum, base generally from deeply saccate to spurred, internal surface with ≥ 2 appendices inside. Epichile enlarged and distinctly bilobed. Gynostemium short, erect. Column very short fused to the margins of the labellum. Staminodes forming a vast clinandrium, stigma with 2 lobes well separated by ventral winged processes, fleshy or lamellose. Rostellum elongate, obtuse, fleshy. Viscidium oblong. Tegula fairly fleshy and short or elongate. – Pl. 31, p. 71. Pollination unknown.
 
-Rhizome charnu, rampant. Feuilles pétiolées en rosette basale, disposées en spirale. Inflorescence terminale. Fleurs non résupinées. Sépales et pétales libres. Labelle, base en général de profondément sac-
+This genus, from Africa to Fiji passing through India, comprises about twenty species.
 
----
+1. Labellum downward ..... 1. H. heterosepala
 
-ciforme à éperonnée, face interne avec ≥ 2 appendices à l'intérieur. Épichile élargi et nettement bilobé. Gynostème court, dressé. Colonne très courte soudée aux marges du labelle. Staminodes formant un vaste clinandrium, stigmate à 2 lobes bien séparés par des processus ventraux aliformes, charnus ou lamelleux. Rostellum allongé, obtus, charnu. Viscidie oblongue. Tegula assez charnue et courte ou allongée. – Pl. 31, p. 71. Pollinisation inconnue.
+1'. Labellum upward ..... 2
 
-Ce genre, de l'Afrique aux Fidji en passant par l'Inde, compte une vingtaine d'espèces.
+2. Lower part of labellum 3–4 mm long, apical lobes 2–2.3 mm long and 0.8–1 mm wide ..... 2. H. mannii
 
-1. Labelle en bas ..... 1. H. heterosepala
-
-1'. Labelle en haut ..... 2
-
-2. Partie inférieure du labelle longue de 3-4 mm, lobes apicaux longs de 2-2,3 mm et larges de 0,8-1 mm ..... 2. H. mannii
-
-2'. Partie inférieure du labelle longue de (4) 5-6,5 mm long, lobes apicaux longs de (2,5) 3-7,5 mm et larges de 2-3,5 mm ..... 3. H. tetraptera
+2'. Lower part of labellum (4) 5–6.5 mm long, apical lobes (2.5) 3–7.5 mm long and 2–3.5 mm wide ..... 3. H. tetraptera
 
 ## Species in region
 

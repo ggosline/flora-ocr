@@ -17,47 +17,13 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Trees or shrubs with white latex, branches dichotomous. Leaves opposite, petiolate or subsessile, those of a pair equal or unequal; ochrea present, short (not enlarged into intrapetiolar stipules). Inflorescences by two, just below each ramification, peduncles irregularly corymbiform, bracteate, sepaloid. Flowers: pedicel slender; calyx with imbricate lobes in bud, corolla white to cream or pale yellow, thin, tube not twisted, lobes in bud covering toward the left, not inflexed, entire; stamens free, included, anthers narrowly triangular, with sterile acuminate apex, sagittate and fertile at the base, introrse, dehiscent along their entire length by a longitudinal slit; disk present, pistil glabrous, ovary composed of free or connate carpels, pistil with a head composed of a basal ring, a central subglobose or obcampanulate part, with 5 lateral striae and 2 apical elongate lobes; style and stigma persistent after corolla fall. Fruits pendulous, composed of 2 carpels united or free, of bright color. Seeds obliquely ellipsoid with a deep furrow reaching to the middle on the hilar side, deeply cerebellose over the entire surface; aril pulpous, white, enveloping the seed; endosperm copious, ruminate, enveloping the embryo almost straight and spatulate, cotyledons rounded at the apex.
 
-Arbres ou arbustes à latex blanc, UDPL¿pVGLFKRWRPLTXHPHQW . Feuilles opposées, pétiolées
+Genus with two species restricted to tropical central Africa from Cameroon to Angola, one of which in Gabon.
 
-ou subsessiles, celles d’une paire égales ou inégales ; ochréa présent, court (non élargi en
+B: Beentje (2021), Endress et al. (2019), Vonk & Leeuwenberg (1989).
 
-stipules intrapétiolaires). ,QÀRUHVFHQFHV par deux, MXVWHDXGHVVXVGHFKDTXHUDPL¿FDWLRQ ,
-
-Spgrqfxophvluupjxolquhphqwfru\PELIRUPHVEUDFWpHVVpSDORwGHV Fleurs : pédicelle grêle ;
-
-FDOLFH j OREHV LPEULTXpV GDQV OH ERXWRQ FRUROOH EODQFKH j FUqPH RX MDXQH SkOH PLQFH j
-
-tube non tordu , lobes du bouton UHFRXYUDQW YHUV OD JDXFKH QRQ LQÀpFKLV , entiers ; éta-
-
-mines libres, incluses, anthères étroitement triangulaires, à sommet stérile acuminé, sagittées
-
-et fertiles à la base, introrses, déhiscentes sur toute leur longueur par une fente longitudinale ;
-
-GLVTXH SUpVHQW SLVWLO JODEUH RYDLUH FRPSRVp GH FDUSHOOHV OLEUHV RX FRQQpV SLVWLO j WrWH
-
-composée d’un anneau basal, d’une partie centrale subglobuleuse ou obcampanulée, avec 5
-
-stries latérales et à 2 lobes apicaux élancés ; style et stigmate persistants après la chute de la
-
-corolle. Fruits pendants, composés de 2 carpelles unis ou libres, de couleur vive . Graines
-
-REOLTXHPHQW HOOLSVRwGDOHV j XQ VLOORQ SURIRQG MXVTX¶j PLFKHPLQ GX F{Wp KLODLUH profon-
-
-dément cérébelleuses sur toute la surface ; arille pulpeux, blanc, enveloppant la graine ;
-
-HQGRVSHUPH FRSLHX[ UXPLQp HQYHORSSDQW O¶HPEU\RQ SUHVTXH GURLW HW VSDWXOp FRW\Opgrqv
-
-arrondis au sommet.
-
-*HQUHjGHX[HVSqFHVOLPLWpHVjO¶$IULTXHWURSLFDOHFHQWUDOHGX&DPHURXQMXVTX¶HQ$QJROD
-
-dont une au Gabon.
-
-B : Beentje (2021), Endress et al. (2019), Vonk & Leeuwenberg (1989).
-
-IBLIOGRAPHIE
+BIBLIOGRAPHY
 
 ## Species in region
 

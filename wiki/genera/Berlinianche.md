@@ -17,55 +17,23 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Pilostyles sect. Berlinianche Harms in Engl. & Prantl, Nat. Pflanzenfam. , éd. 2, 16b : 273
+Pilostyles sect. Berlinianche Harms in Engl. & Prantl, Nat. Pflanzenfam., ed. 2, 16b: 273
 
 (1935).
 
-Plantes émergeantes des rameaux des arbres. Boutons naissant directement de l’écorce,
+Plants emerging from tree branches. Buds arising directly from the bark, initially covered by an entire scaly involucre that tears irregularly into three bracts or circumscissile, leaving a cup with 1(–3) flowers. Flowers numerous, globose, ovoid or ellipsoid; tepals in 3 whorls, free, persistent, imbricate, with an external whorl of 3 tepals, a central one of (5–)6(–7) and an internal whorl of 3 or (5–)6(–7); annular disc, 4–6-angled. Male flowers with pistillode formed of a dilated column; filaments united into a cylindrical tube surrounding the pistillode and bearing at the apex 1–2 rows of sessile anthers. Female flowers: ovary with 4 placentas; style short, conical or cylindrical, stigma semi-globose. Fruits globose, surrounded by persistent bracts and tepals.
 
-d’abord couverts par un involucre entier écailleux qui se déchire irrégulièrement en trois
+Genus with two species limited to Central and East Africa.
 
-bractées ou circumscissiles, laissant une cupule avec 1(–3) fleurs. Fleurs nombreuses,
+B: Blarer et al. (2004), Meijer (1993), Vattimo (1955, 1970), Verdcourt
 
-globuleuses, ovoïdes ou ellipsoïdes ; tépales en 3 verticilles , libres, persistants, imbri-
-
-qués, avec un verticille externes à 3 tépales, un central à (5–)6(–7) et un interne à
-
-3 ou (5–)6(–7) ; disque annulaire, 4–6-anguleux. Fleurs mâles à pistillode formé d’une
-
-colonne dilatée ; filets unis en un tube cylindrique entourant le pistillode et portant au
-
-sommet 1–2 rangées d’anthères sessiles . Fleurs femelles : ovaire à 4 placentas ; style
-
-court, conique ou cylindrique, stigmate semi-globuleux. Fruits globuleux, entourés par
-
-les bractées et tépales persistants.
-
-Genre à deux espèces limitées en Afrique Centrale et Orientale.
-
-B : Blarer et al. (2004), Meijer (1993), Vattimo (1955, 1970), Verdcourt
-
-i B liographie
+Bibliography
 
 (1998).
 
----
+<<<---SECTION-BREAK--->>>
 
-Fleur mâle, section longitudinale (× 12). – 5. Tépale extérieur de la fleur mâle (× 8). – 6. idem, du
-
-verticille central (× 8). – 7, 8. idem, du verticille interne (× 8). – 9. Tube staminal jeune avec disque
-
-(× 12). – 10. Tube staminal, sommet (schématique). – 11. Fleur femelle (× 8). – 12. Fleur femelle,
-
-section longitudinale (× 12). – 13. Pistillode (× 30). (1–13 : Richards s.n ., Bidgood et al. 2779 &
-
-Welwitsch s.n.). Planche par Pat Halliday (©), reproduite avec permission à partir de Verdcourt
-
-(1998).
-
----
+Male flower, longitudinal section (× 12). – 5. External tepal of the male flower (× 8). – 6. idem, of the central whorl (× 8). – 7, 8. idem, of the internal whorl (× 8). – 9. Young staminal tube with disc (× 12). – 10. Staminal tube, apex (schematic). – 11. Female flower (× 8). – 12. Female flower, longitudinal section (× 12). – 13. Pistillode (× 30). (1–13: Richards s.n., Bidgood et al. 2779 & Welwitsch s.n.). Plate by Pat Halliday (©), reproduced with permission from Verdcourt (1998).
 
 ## Species in region
 

@@ -16,11 +16,9 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+For the characters of the genus refer to the key on p. 3.
 
-Pour les caractères du genre se reporter à la clé p. 3.
-
-Genre surtout représenté en Australie, quelques espèces aussi en Malaisie. Plusieurs espèces sont cultivées dans divers pays chauds, surtout comme essences de reboiscments. Environ 500 espèces.
+Genus especially represented in Australia, with a few species also in Malaysia. Several species are cultivated in various warm countries, mainly as timber species for reforestation. Approximately 500 species.
 
 ## Species in region
 

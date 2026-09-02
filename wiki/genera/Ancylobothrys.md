@@ -17,71 +17,29 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Lianes covered at least partially with ferruginous-brown pubescence, with large terminal tendrils. Stipules absent. Leaves opposite, petiolate. Inflorescences terminal, in tendrils, lax except for the terminal ramifications with flowers generally sessile. Flowers: calyx with lobes often apparently often ferruginous-brown by pubescence, generally without colleters; corolla with narrow tube, often thickened above the stamens, with lobes overlapping to the left, ciliate on both faces, with longer hairs on the overlapped face in the bud; stamens inserted in the lower half of the corolla tube, anthers narrowly triangular, cordate at the base, dorsally keeled; ovary pilose, 1-locular, abruptly narrowed into a style, pistil head with stigma formed of a basal subglobose or cylindric part and a bifid stigmatoid apex. Fruits syncarpous, in berries, indehiscent, subglobose or pyriform, velutinous, with wall lacking a cellular layer with sclerites. Seeds ellipsoid, with horny albumen surrounding the embryo.
 
-Lianes couvertes au moins partiellement d’une pilosité brun ferrugineux, à grosses vrilles
+Genus with eight species, all in continental tropical Africa, one also present in the Comoros and in the northwest of Madagascar, three in Gabon.
 
-terminales . Stipules absentes. Feuilles opposées, pétiolées. ,QÀRUHVFHQFHV terminales, en
+Notes: The three species from Gabon are often difficult to distinguish, particularly in the absence of flowers.
 
-vrilles, lâches VDXIOHVUDPL¿FDWLRQVWHUPLQDOHVjÀHXUVJpQpUDOHPHQWVHVVLOHV Fleurs : calice
+B: Endress et al. (2019), Pichon (1953), Reddy et al. (2020), Vonk et al. (1994).
 
-à lobes souvent apparemment souvent brun ferrugineux par la pilosité, généralement sans
+BIBLIOGRAPHY
 
-collétères ; corolle à tube étroit, souvent épaissi au-dessus des étamines, à lobes recouvrant
+### Key to the species
 
-vers la gauche , ciliés sur les deux faces, à poils plus longs sur la face recouverte dans le bou-
+Caution: leaves can vary considerably on the same plant.
 
-ton ; étamines insérées dans la moitié inférieure du tube de la corolle , anthères étroitement
+1. – Leaf blade with 5 to 14 pairs of secondary veins, most often running at an angle of 45–60° with the median; petiole of 2–5 mm; corolla tube 10.5–20 mm long ........................................................................ A. robusta
 
-triangulaires, cordées à la base, dorsalement carénées ; ovaire poilu, 1-loculaire , abrupte-
+– Leaf blade with 8 to 25 pairs of secondary veins, ± straight, forming an angle of 60–75° with the median; petiole of 4–20 mm; corolla tube 7.5–44 mm long .................................................................................................................. 2
 
-ment rétréci en un style, tête du pistil à stigmate formé d’une partie basale subglobuleuse
+2. Corolla tube 7.5–10.5 mm long, much longer than the lobes, glabrous or with short and sparse external pubescence; petiole of 4–15 mm ................................. A. scandens
 
-RXF\OLQGULTXHHWG¶XQVRPPHWVWLJPDWRwGHELOREp Fruits syncarpes, en baies , indéhiscents,
-
-subglobuleux ou piriformes, vélutineux , à paroi sans couche cellulaire à sclérites. Graines
-
-HOOLSVRwGDOHVjDOEXPHQFRUQpHQWRXUDQWO¶HPEU\RQ
-
-*HQUHDYHFKXLWHVSqFHVWRXWHVHQ$IULTXHWURSLFDOHFRQWLQHQWDOHXQHSUpVHQWHDXVVLDX[&R -
-
-PRUHVHWGDQVOHQRUGHVWGH0DGDJDVFDUWURLVHVSqFHVDX*DERQ
-
-Notes /HVWURLVHVSqFHVGX*DERQVRQWVRXYHQWGLI¿FLOHVjGLVWLQJXHUHQSDUWLFXOLHUHQO¶DEVHQFHGH
-
-ÀHXUV
-
-B : Endress et al. (2019), Pichon (1953), Reddy et al. (2020), Vonk et al. (1994).
-
-IBLIOGRAPHIE
-
-### Clé des espèces
-
-Attention : les feuilles peuvent beaucoup varier sur une même plante.
-
-1. - Limbe foliaire avec 5 à 14 paires de nervures secondaires, la plupart souvent cour-
-
-Ephvvrxvxqdqjohgh±DYHFODPpGLDQHSpWLROHGH±PPWXEHGHOD
-
-corolle long de 10,5–20 mm ........................................................................ A. robusta
-
-- Limbe foliaire avec 8 à 25 paires de nervures secondaires, ± droites, formant un
-
-DQJOHGH±DYHFODPpGLDQHSpWLROHGH±PPWXEHGHODFRUROOHORQJGH
-
-7,5–44 mm .................................................................................................................. 2
-
-7XEHGHODFRUROOHORQJGH±PPSOXVORQJTXHOHVOREHVJODEUHRXjSXEHV -
-
-cence externe courte et éparse ; pétiole de 4–15 mm ................................. A. scandens
-
-7XEH GH OD FRUROOH ORQJ GH PP pJDODQW RX SOXV FRXUW TXH OHV OREHV
-
-pubescent extérieurement, souvent régulièrement dense ; pétiole de 8–20 mm
+Corolla tube 10–44 mm long, equalling or shorter than the lobes, pubescent externally, often regularly dense; petiole of 8–20 mm
 
 ................................................................................................................... A. pyriformis
-
----
 
 ## Species in region
 

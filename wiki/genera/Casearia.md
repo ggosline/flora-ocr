@@ -17,27 +17,23 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Arbres (10-20-(40) m de haut) ou arbustes.
+Trees (10-20-(40) m tall) or shrubs.
 
 ---
 
-Feuilles souvent distiques, pétiolées, entières à denticulées ou cré-
+Leaves often distichous, petiolate, entire to denticulate or crenate; stipules generally caducous.
 
-nelées ; stipules généralement caduques.
+Inflorescences solitary or in fascicles or axillary glomerules, multiflorous, bearing numerous small squamiform bracts. Flowers ¥; pedicel articulate; sepals 4-6, connate at the base; petals absent; stamens 8-10, alternating with the disc lobes which are ± flattened and hairy; filaments free or fused with the lobes in their lower part, forming a short staminal tube which is inserted on the calyx above the level of fusion of the ovary to the base of the receptacle (perigynous flower); anthers basifixed-dorsifix and dehiscing by introrse slits; ovary glabrous or pubescent, with 2-3-(4) pluriovulate placentas; style simple; stigma capitate.
 
-Inflorescences solitaires ou en fascicules ou glomérules axillaires, multiflores, munis de nombreuses petites bractées squamiformes. Fleurs ¥ ; pédicelle articulé ; sépales 4-6, connés à la base ; pétales absents ; étamines 8-10, alternant avec les lobes du disque qui sont ± aplatis et velus ; filets libres ou soudés avec les lobes dans leur partie inférieure, formant un court tube staminal qui est inséré sur le calice au-dessus du niveau de soudure de l'ovaire au fond du réceptacle (fleur périgyne) ; anthères basi-dorsifixes et déhiscentes par fentes introrses ; ovaire glabre ou pubescent, à 2-3-(4) placentas pluriovulés ; style simple ; stigmate capité.
+Fruits: capsules with (2)-3-(4) valves; seeds generally numerous, surrounded by a laciniate aril.
 
-Fruits : capsules à (2)-3-(4) valves ; graines généralement nombreuses, entourées d'un arille lacinié.
+TYPE SPECIES: C. nitida Jacq.
 
-ESPÊCE-TYPE : C. nitida Jacq.
+### Pantropical genus, comprising approximately 180 species, of which 2 for the Flora.
 
-### Genre pantropical, comprenant environ 180 espèces, dont 2 pour la Flore.
+1. Flowers in stipitate glomerules; branchlets pubescent; leaves densely hairy on the lower face; lateral nerves 12-16 pairs..... 1. C. stipitata
 
-1. Fleurs en glomérules stipités ; rameaux pubescents ; feuilles densément velues sur la face inférieure ; nervures latérales 12-16 paires..... 1. C. stipitata
-
-1'. Fleurs en glomérules sessiles ou subsessiles ; rameaux glabres ; feuilles glabres ; nervures latérales (6)-8-10 paires ..... 2. C. barteri
+1'. Flowers in sessile or subsessile glomerules; branchlets glabrous; leaves glabrous; lateral nerves (6)-8-10 pairs ..... 2. C. barteri
 
 ## Species in region
 

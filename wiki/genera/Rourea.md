@@ -17,45 +17,39 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-ESPÈCE-TYPE : R. frutescens AUBL.
+TYPE SPECIES: R. frutescens AUBL.
 
 – Byrsocarpus Thonn. ex Schum., Beskrivelse af guineiske Planter : 246 (1827).
 
-ESPÈCE-TYPE : B. coccineus Thonn. ex Schum.
+TYPE SPECIES: B. coccineus Thonn. ex Schum.
 
 = Rourea coccinea (Thonn. ex Schum.) Benth.
 
 ---
 
-Lianes, arbustes ou petits arbres. Rameaux cylindriques ou net-
+Lianes, shrubs or small trees. Branches cylindrical or distinctly lobed, often terminating in a tendril-like extension; interxylary phloem frequent in certain species.
 
-tement lobés, souvent terminés par une extrémité en forme de vrille ;
+Leaves imparipinnate, occasionally 1-foliolate only; leaflets opposite or subopposite, entire, symmetric, often mucronate.
 
-phloème interxylaire fréquent chez certaines espèces.
+Inflorescences axillary, in panicles or racemes, sometimes almost spherical, frequently several at the axil of sometimes rudimentary leaves, sometimes one or more together at the end of a leafy branch and resembling a terminal inflorescence.
 
-Feuilles imparipennées, occasionnellement 1-foliolées seulement ; folioles opposées ou subopposées, entières, symétriques, souvent mucronées.
+Flowers 5-merous, heterostylous, fragrant; pedicels always distinctly articulate. Sepals free or almost entirely connate, imbricate in prefloration, persistent and generally accrescent, sometimes markedly so (accretion manifests immediately after pollination while the fruit is still very small). Petals equal to or longer than the sepals, free or conniving near their base, often strap-shaped and rolled or folded, white often with a trace of yellow or red, glabrous or with some hairs at the apex. Stamens in 2 cycles, slightly connate at the base, the 5 opposite-sepalous ones longer than the 5 opposite-petalous ones; filaments glabrous. Pistil with 5 free carpels glabrous to pubescent.
 
-Inflorescences axillaires, en panicules ou en racèmes, parfois presque sphériques, fréquemment plusieurs à l'aisselle de feuilles parfois rudimentaires, parfois une ou davantage ensemble à l'extrémité d'une branche feuillée et ressemblant à une inflorescence terminale.
-
-Fleurs 5-mères, hétérodistylées, parfumées ; pédicelles toujours nettement articulés. Sépales libres ou presque entièrement connés, pré-floraison imbriquée, persistant et en général accrescents, parfois fortement ainsi (l'accrescence se manifeste aussitôt après la pollinisation alors que le fruit est encore très petit). Pétales aussi ou plus longs que les sépales, libres ou connivents près de leur base, souvent en forme de lanière et enroulés ou pliés, blancs souvent avec une trace de jaune ou de rouge, glabres ou avec quelques poils au sommet. Étamines en 2 cycles, légèrement réunies à la base, les 5 oppositisépales plus longues que les 5 oppositipétales ; filets glabres. Pistil à 5 carpelles libres glabres à pubescents.
-
-Fruits : follicules 1-5 par fleur, ovés à elliptiques, sommet arrondi à aigu, ou terminé par un bec, intérieur glabre, extérieur glabre ou velouté et/ou avec des poils glanduleux, oranges à rouges ou (rarement) blancs, déhiscence selon une suture ventrale, ou ± circumscissile à la base.
+Fruits: follicles 1-5 per flower, ovate to elliptic, apex rounded to acute, or terminating in a beak, interior glabrous, exterior glabrous or velvety and/or with glandular hairs, orange to red or (rarely) white, dehiscence along a ventral suture, or ± circumscissile at the base.
 
 ---
 
-Graines 1 rarement 2 par follicule, subovoïdes à ellipsoïdales ; testa charnu en partie ou en totalité ; partie charnue jaune à rouge ; partie non charnue brun foncé à noire (parfois rouge ?) et brillante ; hile basal ; albumen absent de la graine mûre ; cotylédons plans-convexes, glabres ; radicule apicale à ventrale.
+Seeds 1 rarely 2 per follicle, subovoid to ellipsoidal; testa fleshy in part or entirely; fleshy part yellow to red; non-fleshy part dark brown to black (sometimes red?) and shiny; hilum basal; albumen absent in the mature seed; cotyledons plano-convex, glabrous; radicle apical to ventral.
 
-Germination épigée et hypogée.
+Germination epigeal and hypogeal.
 
-Genre circumtropical de 40 à 70 espèces vivant en forêt et en savane. La plupart des espèces sont limitées aux forêts ombrophiles tropicales. Onze des douze espèces présentes en Afrique ont été rencontrées au Gabon.
+Circumtropical genus of 40 to 70 species living in forest and savanna. Most species are restricted to tropical rainforests. Eleven of twelve species present in Africa have been encountered in Gabon.
 
-### (principalement fondée sur du matériel fructifère)
+### (mainly based on fruiting material)
 
-1. Fruit velouté.
+1. Fruit velvety.
 
-2. Lobes du calice sous le fruit 1-1,5 fois plus longs que larges, de forme inégale ..... 10. R. solanderi
+2. Calyx lobes beneath the fruit 1–1.5 times longer than wide, of unequal form ..... 10. R. solanderi
 
 ## Species in region
 

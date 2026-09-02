@@ -17,51 +17,49 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Shrubs sometimes scandent or lianes, rarely trees. Leaves alternate, simple and entire, petiolate, generally bearing glands at the base of the limb or on the petiole.
 
-Arbustes parfois lianescents ou lianes, rarement arbres. Feuilles alternes, simples et entières, pétiolées, présentant généralement des glandes à la base du limbe ou sur le pétiole.
+Inflorescences terminal and axillary; racemes sometimes grouped into panicles; bracts and bracteoles persistent, bracteoles situated at the base of the pedicel. Calyx bearing one or more glands, with 5 coriaceous sepals. Petals 5, most often unguiculate, longer than the sepals, entire or fimbriate, laciniate, crenate. Stamens 10, ± connate at the base; anthers basifixed. Ovary 3-locular, generally with one sterile locule, hirsute. Styles 2, curved, glabrous.
 
-Inflorescences terminales et axillaires; racèmes parfois groupés en panicules; bractées et bractéoles persistantes, bractéoles situées à la base du pédicelle. Calice présentant une ou plusieurs glandes, à 5 sépales coriaces. Pétales 5, le plus souvent onguiculés, plus longs que les sépales, entiers ou fimbriés, lacrés, crénelés. Étamines 10, ± soudées à la base; anthères basifixes. Ovaire 3-loculaire, généralement à une loge stérile, hirsute. Styles 2, courbés, glabres.
+Fruit composed of 2 (-3) samaras, with dorsal wing straight or oblique.
 
-Fruit composé de 2 (-3) samares, à aile dorsale droite ou oblique.
+About thirty tropical species, essentially African (1 species in Madagascar; 1 species in New Caledonia).
 
-Une trentaine d’espèces tropicales, essentiellement africaines (1 espèce à Madagascar; 1 espèce en Nouvelle-Calédonie).
+Type species: Acridocarpus plagiopterus Guill. & Perr., Senegal.
 
-Espèce-type : Acridocarpus plagiopterus Guill. & Perr., Sénégal.
+1. Anthers bearing 2 small horns at the apex.
 
-1. Antheres munies de 2 petites cornes au sommet.
+2. Limb obovate, obtuse to subcordate at the base, rounded, emarginate-apiculate at the apex; bracts large reaching 10 mm. ..... 2. A. macrocalyx.
 
-2. Limbe obové, obtus à subcordé à la base, arrondi, émarginé-apiculé au sommet; bractées grandes pouvant atteindre 10 mm. ..... 2. A. macrocalyx.
+2'. Limb elliptic to obovate, obtuse to narrowed at the base, acuminate at the apex; bracts 2–4 mm long. ..... 1. A. camerounensis.
 
-2'. Limbe elliptique à obové, obtus à rétréci à la base, acuminé au sommet; bractées longues de 2-4 mm. ..... 1. A. camerounensis.
-
-1. Mais cette proposition ne semble pas avoir encore été publiée et soumise à l'approbation d'un Congrès International.
+1. But this proposal does not appear to have yet been published and submitted for approval by an International Congress.
 
 ---
 
-1'. Antheres aiguës, obtuses ou émarginées au sommet.
+1'. Anthers acute, obtuse or emarginate at the apex.
 
-3. Bractéoles non glandulaires.
+3. Bracteoles non-glandular.
 
-4. Calice à une seule grosse glande; racèmes presque toujours non ramifiés à pédon-cule robuste; jeunes tiges et pédoncules ± sqameux; limbe de 13-31 × 3-9 cm.
+4. Calyx with a single large gland; racemes almost always unbranched with robust peduncle; young stems and peduncles ± squamose; limb 13–31 × 3–9 cm.
 
-5. Samares longues de 3-6 cm.
+5. Samaras 3–6 cm long.
 
-6. La longifolius.
+6. A. longifolius.
 
-7. Samares ovées de 2 × 1,5 cm.
+7. Samaras ovate 2 × 1.5 cm.
 
-8. Calice à 2-3 petites glandes; inflorescences presque toujours ramifiées; jeunes tiges pubescentes; limbe de 2-10 × 1-4 cm.
+8. Calyx with 2–3 small glands; inflorescences almost always branched; young stems pubescent; limb 2–10 × 1–4 cm.
 
-9. Bractéoles glandulaires.
+9. Bracteoles glandular.
 
-10. Limbe elliptique, oblong à obové, 5-12 (-1/1) × 2-7 cm; pédicelle long de 0,9-2 cm.
+10. Limb elliptic, oblong to obovate, 5–12 (–11) × 2–7 cm; pedicel 0.9–2 cm long.
 
 11. A. smeathmannii.
 
-12. Límbe obové à oblong-obové, 10-15 × 6-7 cm; pédicelle de 0,6-1,6 cm.
+12. Limb obovate to oblong-obovate, 10–15 × 6–7 cm; pedicel 0.6–1.6 cm.
 
-13. A. staudtii¹ (Cameroun).
+13. A. staudtii¹ (Cameroon).
 
 ## Species in region
 

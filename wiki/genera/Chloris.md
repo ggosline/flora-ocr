@@ -17,15 +17,13 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Perennial or annual herbs, with racemes solitary or digitate at the apex of culms.
 
-Herbes pérennes ou annuelles, à racèmes solitaires ou digités à l'extrémité des chaumes.
+Spikelets with 2 to 4 flowers, sessile, densely inserted on one side only of a narrow rachis, disarticulating above the glumes. Lower flower hermaphrodite, the second male or neuter, the following more or less reduced or suppressed. Two persistent glumes, narrow, keeled, acuminate or the upper obtuse. Fertile lemma ciliate, 3-nerved, shortly bidentate, generally awned below the apex. Palea bicarinate; 2 lodicules; 3 stamens.
 
-Épillets à 2 à 4 fleurs, sessiles, densément insérés sur un seul côté d'un rachis étroit, se désarticulant au-dessus des glumes. Fleur inférieure hermaphrodite, la seconde mâle ou neutre, les suivantes plus ou moins réduites ou supprimées. Deux glumes persistantes, étroites, carénées, acuminées ou la supérieure obtuse. Lemma fertile ciliée, à 3 nervures, courtement bidentée, généralement aristée sous le sommet. Palée bicarénée; 2 lodicules; 3 étamines.
+Male flowers with glumes similar but glabrous and smaller. Neuter flowers more or less reduced with or without an awn; the lemma generally alone persistent.
 
-Fleurs mâles à glumelles semblables mais glabres et plus petites. Fleurs neutres plus ou moins réduites avec ou sans arête; la lemma généralement seule persistante.
-
-Très nombreuses espèces dans les zones tropicales, généralement dans les zones sèches. Une espèce signalée au Gabon.
+Very numerous species in tropical zones, generally in dry zones. One species recorded in Gabon.
 
 ## Species in region
 

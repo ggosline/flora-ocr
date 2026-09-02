@@ -16,39 +16,15 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 in Hook., Icon. Pl. 14 : 33, t. 1346 (1881).
 
-Herbes vivaces, en touffes, avec des rhizomes courts ou des stolons ; tiges nues. Feuilles
+Perennial herbs, in tufts, with short rhizomes or stolons; stems naked. Leaves with prominent sheaths; ligule present; blade short or absent. Inflorescence usually in a dense head formed of numerous (rarely a few) sessile spikelets; involucral bracts small. Spikelets with 4–7 glumes of increasing length, with 1(–2) flowers; glumes distichous and caducous; flower subtended by the penultimate large glume and surrounded by the wings of the following glumes; rachis with short internodes, slightly elongate between the flowers. Flowers bisexual; perianth absent; stamens 3; style 1, with 2–3 long branches and thickened base. Achene obovoid, triangular, often with 3 ribs, smooth or slightly verrucose.
 
-à gaines saillantes ; ligule présente ; limbe court ou absent . Inflorescence habituellement
+Genus of 3–4 species, widely distributed but scattered from Gabon and the Democratic Republic of the Congo in Central Africa to Madagascar, Asia (from Sri Lanka to China) and New Caledonia. They usually grow on inselbergs or in dry sandy soils of open wooded areas. A single species in Gabon.
 
-en tête dense formée de nombreux (rarement quelques-uns) épillets sessiles ; bractées
+B: Bentham (1881c), Goetghebeur (1998), Raynal (1967).
 
-i nvolucrales petites . Épillets avec 4‒7 glumes de longueur croissante, à 1(‒2) fleurs ;
-
-glumes distiques et caduques ; fleur sous-tendue par l’avant dernière grande glume et
-
-entourée par les ailes des glumes suivantes ; rachis à entrenœuds courts, légèrement étiré
-
-entre les fleurs. Fleurs bisexuées ; périanthe absent ; étamines 3 ; style 1, à 2‒3 longues
-
-branches et base épaissie. Akène obovoïde, triangulaire, souvent à 3 côtes, lisse ou légè-
-
-rement verruqueux.
-
-Genre de 3‒4 espèces, largement répandu, mais dispersé du Gabon et la République Dé-
-
-mocratique du Congo en Afrique Centrale à Madagascar, l’Asie (du Sri Lanka à la Chine)
-
-et en Nouvelle Calédonie. Elles poussent habituellement sur les inselbergs ou dans les
-
-sols sableux secs des zones boisées ouvertes. Une seule espèce au Gabon.
-
-B : Bentham (1881c), Goetghebeur (1998), Raynal (1967).
-
-ibliographie
+ibliography
 
 ## Species in region
 

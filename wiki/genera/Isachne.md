@@ -17,17 +17,15 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Annual or perennial herbs, often from humid places. Culms slender, creeping at the base. Leaves linear-lanceolate.
 
-Herbes annuelles ou pérennes, souvent d'endroits humides. Chaumes minces, rampants à la base. Feuilles linéaires lancéolées.
+Inflorescence in a strongly branched panicle. Spikelets elliptic or orbicular. Glumes similar, or the upper one somewhat wider, reaching the length of the spikelet, or its 2/3. The two florets can be hermaphrodite, or the lower male and the upper hermaphrodite. Lemmas of the two florets similar, elliptic, obtuse, as large as the spikelet, membranous or coriaceous, sometimes pubescent, with 5 or 7 nerves. Paleas of the same length, with two nerves, their margin covered by those of the lemma.
 
-Inflorescence en panicule fortement ramifiée. Épillets elliptiques ou orbiculaires. Glumes semblables, ou la supérieure un peu plus large, atteignant la longueur de l'épillet, ou ses 2/3. Les deux fleurs peuvent être hermaphrodites, ou l'inférieure mâle et la supérieure hermaphrodite. Lemmas des deux fleurs semblables, elliptiques, obtuses, aussi grandes que l'épillet, membraneuses ou coriaces, parfois pubescentes, à 5 ou 7 nervures. Palées de même longueur, à deux nervures, leur bord recouvert par ceux de la lemma.
+### Two small lodicules; 3 stamens; styles distinct.
 
-### Deux lodicules, petites; 3 étamines; styles distincts.
+Numerous species, in all tropical regions of the Globe, particularly in Asia.
 
-Espèces nombreuses, dans toutes les régions tropicales du Globe, particulièrement en Asie.
-
-Une seule est signalée au Gabon.
+Only one is recorded in Gabon.
 
 ## Species in region
 

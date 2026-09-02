@@ -15,51 +15,13 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Herbs or shrubs, sometimes with persistent woody or fleshy rootstock, generally aromatic. Leaves simple, opposite, generally petiolate. Inflorescences thyrsoid, generally lax; cymes sessile or pedunculate, 1 to 3(to 5), very rarely 6 or 7; bracts subtending the cymes persistent; bracteoles absent. Flowers pedicellate; calyx funnel-shaped, not circumscissile, bilabiate, erect, with pedicel attaching symmetrically at the base, throat glabrous inside, open, upper lip with 1 lobe, generally wider than the lower lobes, shortly decurrent on the tube or not, lower lip 4-lobed, with lobes narrowly triangular to triangular, the lateral ones wider or equal to the median ones and positioned midway between the upper lobe and the median lobes of the lower lip; corolla bilabiate, with lips of equal length, tube sigmoid, sometimes strongly, narrow and with parallel sides at the base and extending toward the throat, lips of length ± equal, upper lip 4-lobed, erect or ascending, lower lobe spreading, cucullate, enveloping the stamens, not thickened and articulate at the base, not folding back at anthesis; stamens 4, declined, with free filaments, adjacent, attached at the throat and held within the lower lip; disk 4-lobed, with lower lobe wider; ovary deeply 4-lobed; style gynobasic, apex bifid with subulate lobes. Fruits: 4 achenes, glabrous, with small scars, mucilaginous when wet.
 
-Herbes ou arbustes , parfois à souche persistante ligneuse ou charnue, généralement aroma-
+Genus with 42 species, principally in tropical Africa with two species in India; one species in Gabon.
 
-tique. Feuilles simples, opposées, généralement pétiolées. Inflorescences thyrsoïdes, géné-
+Bi: Paton et al. (2018, 2019).
 
-ralement lâches ; cymes sessiles ou pédonculées, 1 à 3(à 5), très rarement 6 ou 7 ; bractées
-
----
-
-sous-tendant les cymes persistantes ; bractéoles absentes. Fleurs pédicellées ; calice en forme
-
-d’entonnoir, non circumscissile, bilabié, droit, à pédicelle se fixant symétriquement à la
-
-base , gorge glabre à l’intérieur, ouverte, lèvre supérieure à 1 lobe, généralement plus large
-
-que les lobes inférieurs, courtement décurrente sur le tube ou non, lèvre inférieure 4-lobée, à
-
-lobes étroitement triangulaires à triangulaires, les latéraux plus larges ou égaux aux médians
-
-et positionnés à mi-chemin entre le lobe supérieur et les lobes médians de la lèvre infé-
-
-rieure ; corolle bilabiée, à lèvres de longueur égale , tube sigmoïde , parfois fortement, étroit
-
-et à côtés parallèles à la base et s’étendant vers la gorge, lèvres de longueur ± égale, lèvre
-
-supérieure 4-lobée, dressée ou ascendante, lobe inférieur étalé, cucullé, enveloppant les éta-
-
-mines, non épaissie et articulé à la base, ne se repliant pas à l’anthèse ; étamines 4, déclinées ,
-
-à filets libres, adjacentes, fixés à la gorge et maintenus à l’intérieur de la lèvre inférieure ;
-
-disque 4-lobé, à lobe inférieur plus large ; ovaire profondément 4-lobé ; style gynobasique,
-
-apex bifide à lobes subulés. Fruits : akènes 4, glabres, à petites cicatrices, mucilagineux à
-
-l’état humide.
-
-Genre avec 42 espèces, principalement en Afrique tropicale avec deux espèces en Inde ; une
-
-espèce au Gabon.
-
-Bi : Paton et al. (2018, 2019).
-
-B liographie
+B liography
 
 ## Species in region
 

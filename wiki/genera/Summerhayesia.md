@@ -17,13 +17,11 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Stem short or rather elongate. Leaves unequally bilobed at the apex.
 
-Tige courte ou assez allongée. Feuilles inégalement bilobées au sommet.
+Inflorescence elongate, few- to many-flowered. Flowers small, resupinate. Sepals and petals subsimilar. Labellum ovate-lanceolate, similar to the tepals, without callus, entire. Spur slender, cylindric. Rostellum long, digitate, massive, acute, recurved upward near the middle. Single viscidium. Single tegula. Remnants of the rostellum acute, channelled. – Pl. 208, p. 440.
 
-Inflorescence allongée, pauci- à pluriflore. Fleurs petites, résupinées. Sépales et pétales subsemblables. Labelle ové-lancéolé, semblable aux tépales, sans callus, entier. Éperon grêle, cylindrique. Rostellum long, digitiforme, massif, aigu, recourbé vers le haut près du milieu. Viscidie unique. Tegula unique. Restes du rostelle aigus, canaliculés. – Pl. 208, p. 440.
-
-Genre de 3 espèces confinées à l'Afrique tropicale, dont une présente au Gabon.
+Genus of 3 species confined to tropical Africa, one of which is present in Gabon.
 
 ## Species in region
 

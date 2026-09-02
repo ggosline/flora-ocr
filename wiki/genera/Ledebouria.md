@@ -17,45 +17,19 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Relatively small plants, generally flowering with the leaves; roots branched. Leaves sometimes petiolate; blade linear to circular, often spotted, margins entire; venation weakly prominent. Inflorescence axillary, in loose to dense raceme; floral axis simple, glabrous; bracts often present, without spur. Flowers actinomorphic; pedicels erect or ascending; bracteoles often present; tepals free or fused at base, campanulate and forming a pseudo-tube, reflexed at apex, 1-nerved, greenish or purple; stamens with filaments attached to perianth; ovary stipitate, conical to obconical, with 2 ovules in each locule; style reddish, stigma entire. Fruit: capsule ovoid to subglobose. Seeds globose or broadly obovoid, black.
 
-Plantes relativement petites, fleurissant généralement avec les feuilles ; racines rami-
-
-fiées. Feuilles parfois pétiolées ; limbe linéaire à circulaire, souvent tacheté , marges
-
-entières ; nervation faiblement proéminente. Inflorescence axillaire, en racème lâche à
-
-dense ; hampe florale simple, glabre ; bractées souvent présentes, sans éperon. Fleurs
-
-actinomorphes ; pédicelles dressés ou ascendants ; bractéoles souvent présentes ; tépales
-
-libres ou fusionnés à la base, campanulés et formant un pseudo-tube, réfléchis au
-
-sommet, 1-nervés, verdâtres ou pourpres ; étamines à filets fixés au périanthe ; ovaire
-
-stipité , conique à obconique, avec 2 ovules dans chaque loge ; style rougeâtre, stigmate
-
-entier. Fruit : capsule ovoïde à subglobuleuse. Graines globuleuses ou largement obo-
-
-voïdes, noires.
-
-Genre comprenant environ 50 espèces en Afrique subsaharienne, Madagascar et Inde ; au
-
-Gabon, une seule espèce.
+Genus comprising approximately 50 species in sub-Saharan Africa, Madagascar and India; in Gabon, a single species.
 
 ---
 
-Gynécée (× 4). – 8. Fruit (× 2). – 9. Graine (× 2). Dessin par Margareth Tebbs (©), reproduit avec
-
-permission à partir de Stedje (1996).
+Gynoecium (× 4). – 8. Fruit (× 2). – 9. Seed (× 2). Drawing by Margareth Tebbs (©), reproduced with permission from Stedje (1996).
 
 ---
 
-B : Jessop (1970), Manning et al. (2004), Speta (1998a, 1998b), Stedje
+B: Jessop (1970), Manning et al. (2004), Speta (1998a, 1998b), Stedje (1996).
 
-i B liographie
-
-(1996).
+Bibliography
 
 ## Species in region
 

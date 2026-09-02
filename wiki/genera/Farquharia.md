@@ -17,31 +17,13 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Large lianes, with generally colourless exudate; branches with stipular lines between the petioles. Leaves opposite; petiole furnished with 1 to 3 series of colleters. Inflorescences in terminal, dense panicles. Flowers 5-merous, actinomorphic; sepals free, furnished with colleters on the inside at the base; corolla infundibuliform, lobes overlapping to the right; stamens included; ovary composed of 2 almost free carpels, united at the apex by the base of the style. Fruits composed of 2 follicles connate at the base, almost cylindrical, dehiscing adaxially, with woody wall. Seeds fusiform, with one longitudinal crest extending from the base towards the apex and bearing the hilum, with apical coma formed of a short beak with straight or slightly curved hairs, and with deciduous basal coma; embryo surrounded by endosperm.
 
-Grandes lianes , à exsudat généralement incolore ; rameaux à lignes stipulaires entre les pé-
+Monotypic genus limited to tropical Africa.
 
-tioles. Feuilles opposées ; pétiole muni de 1 à 3 séries de collétères . ,QÀRUHVFHQFHV en pani-
+B: Beentje (2021), Endress et al.
 
-cule terminale , denses. Fleurs 5-mères, actinomorphes ; sépales libres, munis des collétères
-
-à l’intérieur à la base ; corolle infundibuliforme, lobes recouvrant vers la droite ; étamines
-
-incluses ; ovaire composé de 2 carpelles presque libres , unis au sommet par la base du style.
-
-Fruits composés de 2 follicules connés à la base SUHVTXHF\OLQGULTXHVGpKLVFHQWVDGD[LDOH -
-
-ment, à paroi ligneuse. Graines fusiformes, à une crête longitudinale partant de la base vers
-
-l’apex et portant le hile, à coma apical formé d’un bec court à poils droits ou légèrement cour-
-
-bés, et à coma basal caduc ; embryon entouré d’endosperme.
-
-*HQUHPRQRW\SLTXHOLPLWpjO¶$IULTXHWURSLFDOH
-
-B : Beentje (2021), Endress et al.
-
-IBLIOGRAPHIE
+BIBLIOGRAPHY
 
 ## Species in region
 

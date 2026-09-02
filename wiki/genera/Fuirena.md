@@ -17,77 +17,32 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Annual or perennial herbs, of highly variable size (from a few cm to 1.5 m); perennial plants with a horizontal woody rhizome; stems with nodes and leaves along their entire length. Leaves with well-developed, closed leaf sheaths; ligule always present, tubular; blade generally plane, hairy, at least along the margin and at the apex. Inflorescence in a paniculate corymb with branches usually spreading, hairy.
 
-Herbes annuelles ou vivaces , de taille très variable (de quelques cm à 1,5 m) ; plantes
+Spikelets formed of numerous imbricate glumes, arranged in a spiral on a knotty axis, sometimes with glumes in 5 ranks making the spikelets angular, the 2 lowest glumes sterile, the upper ones with bisexual flowers; glumes generally reddish-brown or dark grey, strongly hairy and with the central nerve prolonged by a straight or curved mucro. Flower: perianth with (0) 3 or 6 segments arranged in 2 whorls of 3, segments of varied forms (scales, bristles, blades, etc.); stamens 2–3; style with 3 long branches, the base often persistent on the achene as a cylindric button. Achene sessile, obovoid, triangular, greyish-white, becoming generally brown or somewhat greenish at maturity, with smooth or transversely ridged surface, falling with the scales or hypogynous bristles (if present); embryo of the Schoenoplectus type.
 
-vivaces avec un rhizome horizontal ligneux ; tiges avec des nœuds et des feuilles sur
+Fuirena is a relatively small genus of about 30 species found in most warm countries. In Africa, it is represented by 16 species, of which 2 occur in Gabon. All species grow in seasonally or permanently humid habitats, with some species frequently growing in water. They are good forage plants, but rarely present in large quantities.
 
-toute leur longueur. Feuilles à gaines foliaires bien développées, fermées ; ligule toujours
+Bibliography
 
-présente, tubuleuse ; limbe généralement plan, poilu, au moins le long de la marge et au
-
-sommet. Inflorescence en corymbe paniculé à rameaux habituellement écartés, poilu.
-
-Épillets formés de nombreuses glumes imbriquées, disposées en spirale sur un axe
-
-noueux, parfois avec les glumes sur 5 rangs rendant les épillets anguleux, les 2 glumes
-
----
-
-Dessin original par Jana Taborska. W. Haines ©.
-
-plus basses stériles, les supérieures avec des fleurs bisexuées ; glumes généralement
-
-brun rougeâtre ou gris noir, fortement poilues et avec la nervure centrale prolongée
-
-par un mucron droit ou recourbé. Fleur : périanthe à (0) 3 ou 6 segments disposés en
-
-2 verticilles de 3 , segments de formes variées (écailles, soies, lames, etc.) ; étamines
-
-2‒3 ; style à 3 longues branches, la base souvent persistant sur l’akène en un bouton
-
-cylindrique. Akène sessile, obovoïde , triangulaire, blanc grisâtre, devenant généralement
-
-brun ou un peu verdâtre à maturité, à surface lisse ou transversalement ridée, tombant
-
-avec les écailles ou les soies hypogynes (si présentes) ; embryon de type Schoenoplectus .
-
-Fuirena est un genre relativement petit d’environ 30 espèces que l’on trouve dans la plu-
-
-part des pays chauds. En Afrique, il est représenté par 16 espèces dont 2 au Gabon. Toutes
-
-les espèces poussent dans des habitats humides saisonnièrement ou en permanence, avec
-
-certaines espèces poussant fréquemment dans l’eau. Ce sont de bonnes plantes fourra-
-
-gères, mais rarement présentes en grandes quantités.
-
-B : Haines & Lye (1983), Hoenselaar et al. (2010), Hooper & Napper (1972),
-
-ibliographie
-
+B: Haines & Lye (1983), Hoenselaar et al. (2010), Hooper & Napper (1972),
 Lye (1997).
 
 ---
 
-### Clé des espèces
+### Key to the species
 
-1. - Plante annuelle, sans base ligneuse dure ; les 3 segments internes du périanthe
+1. - Annual plant, without hard woody base; the 3 internal segments of the perianth
+square, clearly stipitate; not yet found in Gabon ........... F. ciliaris (L.) Roxb.
 
-carrés, nettement stipités ; pas encore trouvé au Gabon ........... F. ciliaris (L.) Roxb.
+- Perennial plant, with a hard woody base; internal segments of the perianth
+different ................................................................................................................. 2
 
-- Plante vivace, avec une base ligneuse dure ; segments internes du périanthe
+2. - Stem and sheath with 5 angles; blade 4–25 mm wide (3–4 mm in saline habitat); the
+3 internal segments of the perianth obovate to obcordate, sessile ........... F. umbellata
 
-différents ................................................................................................................. 2
-
-2. - Tige et gaine à 5 angles ; limbe large de 4‒25 mm (3‒4 mm en habitat salin) ; les
-
-3 segments internes du périanthe obovales à obcordés, sessiles ........... F. umbellata
-
-- Tige et gaine triangulaires ; limbe large de 1‒4 mm ; périanthe à 6 segments en
-
-aiguilles scabres .......................................................................................... F. stricta
+- Stem and sheath triangular; blade 1–4 mm wide; perianth with 6 segments in
+scabrous needles .......................................................................................... F. stricta
 
 ## Species in region
 

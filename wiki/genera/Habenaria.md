@@ -17,35 +17,31 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+PL. 9. – Cynorkis gabonensis Summerh.: A, flower; B, C, labellum; D, dorsal sepal; E, F, petal; G, lateral sepal; H, gynostemium, lateral view. - Veyretella hetaerioides (Summerh.) Szlach. & Olsz.: I, spur, ovary and bract; J, labellum; K, dorsal sepal; L, petal; M, lateral sepal; N, leaf; O, gynostemium, lateral view; P, id., basal view (A-H, Le Testu 6454, P; I-P, Le Testu 2214, P).
 
 ---
 
-PL. 9. – Cynorkis gabonensis Summerh.: A, fleur; B, C, labelle ; D, sépale dorsal ; E, F, pétale ; G, sépale latéral ; H, gynostème, vue latérale. - Veyretella hetaerioides (Summerh.) Szlach. & Olsz.: I, éperon, ovaire et bractée ; J, labelle ; K, sépale dorsal ; L, pétale ; M, sépale latéral ; N, feuille ; O, gynostème, vue latérale ; P, id., vue de la base (A-H, Le Testu 6454, P; I-P, Le Testu 2214, P).
+Herbaceous terrestrial or epiphytic plant. Tubers, 1 or few in number, ovoid or ellipsoidal, sometimes reduced. Inflorescence terminal. Flowers often numerous and resupinate, variable in size. Sepals and petals similar or dissimilar. Petals often bipartite, ciliate. Labellum spurred with 3 lobes similar or dissimilar. Stigma with 2 lobes forming stigmaphores, receptive face often limited to the most apical region. Rostellum with 3 lobes, the 2 lateral ones elongate. Anther erect to shortly deflexed, lower part of anther sacs elongate, forming anthaerophores united with rostellophores. – Pl. 10, p. 31.
 
----
+This genus includes species mainly pollinated by butterflies: the flowers are generally horizontal or pendulous, white, green, or cream-coloured, with abundant nectar at the base of a long and narrow spur. To advertise the nectar, colours give way to the stellate shape of the flowers. Sometimes grooves on the lower part of the labellum form a mechanical guide for the tongue. The scent of the flowers, of intense sweetness or imitating that of plant products, is very strong at night and absent during the day. Stigmatic processes, the stigmaphores, appear to be typical of flowers adapted for pollination by a nocturnal butterfly.
 
-Herbacée terrestre ou épiphyte. Tubercules, 1 ou peu nombreux, ovoïdes ou ellipsoïdaux, parfois réduits. Inflorescence terminale. Fleurs souvent nombreuses et résupinées, taille variable. Sépales et pétales semblables ou non. Pétales souvent bi-partites, ciliés. Labelle éperonné à 3 lobes semblables ou non. Stigmate à 2 lobes formant des stigmaphores, face réceptive souvent limitée à la région la plus apicale. Rostellum à 3 lobes, les 2 latéraux allongés. Anthère dressée à courtemment défléchie, partie inférieure des logettes allongée, formant des anthérophores réunis aux rostellophores. – Pl. 10, p. 31.
+A genus of more than 700 species, the majority from tropical regions with a few representatives from warm temperate zones. Insufficiently known, a number of species have been included in it despite a gynostemium of entirely different structure*. KRAENZLIN divided the genus into several sections, the key to which is as follows:
 
-Ce genre inclut des espèces surtout pollinisées par des papillons : les fleurs sont en général horizontales ou pendantes, blanches, vertes, ou crème, nectar abondant au fond d'un éperon long et étroit. Pour signaler le nectar, les couleurs font place à la forme stellée des fleurs. Parfois des rainures sur la partie inférieure du labelle forment un guide mécanique pour la langue. L'odeur des fleurs, d'une intense suavité ou imitant celle de produits végétaux, est très forte la nuit et nulle le jour. Des processus stigmatiques, les stigmaphores, semblent typiques des fleurs adaptées à la pollinisation par un papillon de nuit.
+### KEY TO THE SECTIONS
 
-Genre de plus de 700 espèces en majorité des régions tropicales avec quelques représentants des zones tempérées chaudes. Insuffisamment connu, nombre d'espèces y ont été incluses malgré un gynostème de structure toute différente*. KRAENZLIN a divisé le genre en plusieurs sections dont voici la clé :
-
-### CLÉ DES SECTIONS
-
-1. Feuilles 1 ou 2, basales, orbiculaires à cordées, apprimées au sol
+1. Leaves 1 or 2, basal, orbicular to cordate, pressed to the ground
 
 1. Diphyllae p. 30
 
-1'. Feuilles longicaulinaires ..... 2
+1'. Leaves longicaulinate ..... 2
 
-2. Pétales indivis ..... 2. Commelinifolia e p. 32
+2. Petals undivided ..... 2. Commelinifolia p. 32
 
-2'. Pétales divisés en deux parties ..... 3
+2'. Petals divided into two parts ..... 3
 
-3. Portion fertile de l'anthère égale aux stigmaphores..... 3. Pentaceras p. 38
+3. Fertile portion of anther equal to stigmaphores..... 3. Pentaceras p. 38
 
-3'. Portion fertile de l'anthère 2-4 fois < aux stigmaphores
+3'. Fertile portion of anther 2-4 times < stigmaphores
 
 4. Replicate p. 40
 
@@ -53,7 +49,7 @@ Genre de plus de 700 espèces en majorité des régions tropicales avec quelques
 
 Bot. Jahrb. 16 : 56, 147 (1892).
 
-Feuilles basales 1-2, radicantes, apprimées sur le sol, sessiles, en général plus larges que longues ; sur la tige, des gaines caulinaires très
+Basal leaves 1-2, rooting, pressed to the ground, sessile, generally wider than long; on the stem, very reduced sheathing leaves
 
 ## Species in region
 

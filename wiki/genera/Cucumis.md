@@ -17,27 +17,25 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Herbes grimpantes ou rampantes, monoïque ou dioïque. Vrilles simples, solitaire ou rarement en groupe de 5 à 8, ou absentes. Feuilles pétiolées, simple; limbe ovale-cordé à triangulaire ou hasté, palmatilobé. Inflorescences: les mâles à fleurs en fascicules ou parfois solitaires; les femelles à fleur généralement solitaires ou en fascicules de 2 à 6, souvent avec des inflorescences mâles. Fleurs mâles petites, subsessiles ou courtement pédicellées; réceptacle campanulé, hérissé de poils raides sur la face externe; sépales (4 ou 5, dressés, triangulaires à
+Climbing or creeping herbs, monoecious or dioecious. Tendrils simple, solitary or rarely in groups of 5 to 8, or absent. Leaves petiolate, simple; blade ovate-cordate to triangular or hastate, palmatilobed. Inflorescences: the male with flowers in fascicles or sometimes solitary; the female with flower generally solitary or in fascicles of 2 to 6, often with male inflorescences. Male flowers small, subsessile or shortly pedicellate; receptacle campanulate, bristly with stiff hairs on the external face; sepals 4 or 5, erect, triangular to
 
 ---
 
-subulés ; pétales 5, légèrement unis à la base, jaunes ; étanines 3, extrorses, insérées à environ mi-hauteur du réceptacle, à filets courts, libres, anthères 2 bithèques et 1 monothèque, à loges droites ou tripiqués, rarement horizontales. Fleurs femelles courtement pédicellées ; périanthe semblable à celui des fleurs mâles ; staminodes 3, insérés sur le réceptacle, rarement absents ; ovaire globuleux ou ellipsoïdal, souvent hérissé de poils à l'état jeune, glabrescent, renfermant de nombreux ovules horizontaux ; stigmate entier ou sublobé à 3-lobé. Fruits : baies solitaires ou en fascicule de 2 à 6, indéhiscentes ou rarement explosives, globuleuses à ellipsoïdales ou cylindriques, jaunes, vertes ou rouges à maturité. Graines ±elliptiques, à faces convexes, lisses ou finement scrobiculées ; testa de couleur claire, ±jaunâtre.
+subulate; petals 5, slightly united at the base, yellow; stamens 3, extrorse, inserted at approximately mid-height of the receptacle, with short, free filaments, anthers 2 bithecate and 1 monothec, with erect locules or tripleicate, rarely horizontal. Female flowers shortly pedicellate; perianth similar to that of male flowers; staminodes 3, inserted on the receptacle, rarely absent; ovary globose or ellipsoidal, often bristly with hairs when young, glabrescent, containing numerous horizontal ovules; stigma entire or sublobed to 3-lobed. Fruits: berries solitary or in fascicles of 2 to 6, indehiscent or rarely explosive, globose to ellipsoidal or cylindrical, yellow, green or red at maturity. Seeds ±elliptic, with convex faces, smooth or finely scrobiculate; testa pale in colour, ±yellowish.
 
-Genre comprenant environ 60 espèces, distribuées en Afrique, en Asie et en Australie, dont la plupart en Afrique ; au Gabon deux espèces à l'état sauvage et le melon, C. melo L. ssp. melo, cultivé.
+Genus comprising approximately 60 species, distributed in Africa, Asia and Australia, of which the majority in Africa; in Gabon two species in the wild and the melon, C. melo L. ssp. melo, cultivated.
 
-BIBLIOGRAPHIE: Endl et al. (2018), Jeffrey (1967), Keraudren (1967), Keraudren-Aymonin (1975), Kirk-bride (1993), Naudin (1859), Schaefer (2007), Schaefer & Renner (2011a), Sebastian et al. (2010).
+BIBLIOGRAPHY: Endl et al. (2018), Jeffrey (1967), Keraudren (1967), Keraudren-Aymonin (1975), Kirk-bride (1993), Naudin (1859), Schaefer (2007), Schaefer & Renner (2011a), Sebastian et al. (2010).
 
-1. - Fruit globuleux, 0,7–1,2 cm de diamètre, lisse ou légèrement échinulé; limbe foliaire ovale à subdeltoïde, entier ou rarement 3- à 5-lobé..... C. afrotropicus
+1. - Fruit globose, 0.7–1.2 cm in diameter, smooth or slightly echinulate; leaf blade ovate to subdeltoid, entire or rarely 3- to 5-lobed..... C. afrotropicus
 
-- Fruit obloïde à globuleux, >2 cm de diamètre, lisse ou hérissé d'épines coniques; limbe foliaire ovale, ovale-cordiforme, suborbiculaire ou réniforme, entier ou 3–5(−7)-palmatilobé..... 2
+- Fruit obloid to globose, >2 cm in diameter, smooth or bristly with conical spines; leaf blade ovate, ovate-cordate, suborbicular or reniform, entire or 3–5(−7)-palmatilobed..... 2
 
-2. - Fruit 6–10 × 3–6 cm, hérissés d'épines coniques; limbe foliaire largement ovalecordiforme, entier ou 3–5-palmatilobé, à lobes triangulaires à subcirculaires C. metuliferus
+2. - Fruit 6–10 × 3–6 cm, bristly with conical spines; leaf blade broadly ovate-cordate, entire or 3–5-palmatilobed, with triangular to subcircular lobes..... C. metuliferus
 
-- Fruit sans épines, soit  $ 3-5 \times 2-3 $ cm, soit  $ >10 \times 8 $ cm ; limbe foliaire ovale à suborbiculaire ou réniforme, entier ou 3- à 5(-7)-palmatilobé..... 3
+- Fruit without spines, either 3–5 × 2–3 cm, or >10 × 8 cm; leaf blade ovate to suborbicular or reniform, entire or 3- to 5(−7)-palmatilobed..... 3
 
-3. - Fruit 3–5 × 2–3 cm, amer; limbe foliaire ovale, cordé à la base, généralement 3(−5)-palmatilobé, à lobe centrale 2 à 3 fois aussi long que les latéraux
+3. - Fruit 3–5 × 2–3 cm, bitter; leaf blade ovate, cordate at the base, generally 3(−5)-palmatilobed, with central lobe 2 to 3 times as long as the lateral ones
 
 ## Species in region
 

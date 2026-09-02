@@ -17,25 +17,21 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Deciduous trees, spinescent at maturity, often provided with winged buttresses. Lanceolate stipules; 5-9 leaflets, articulate, petiolulate or not, entire.
 
-Arbres caducifoliés, spinescents à l'état adulte, souvent munis de contreforts ailés. Stipules lancéolées; 5-9 folioles, articulées, pétiolulées ou non, entières.
-
-Inflorescences en fascicules ou fleurs solitaires, souvent à l'extrémité des rameaux défeuillés. Fleurs pédicellées, réceptacle glandulaire ou non. Calice cupuliforme, campanulé, coriace, caduc après l'anthèse. Pétales 5, asymétriques au sommet. Étamines 70-200, en 2 verticilles soudés à la base en un tube staminal : verticille externe de 5 phalanges multistaminales et
+Inflorescences in fascicles or solitary flowers, often at the apex of defoliate branchlets. Flowers pedicellate, receptacle glandular or not. Calyx cupuliform, campanulate, coriaceous, caducous after anthesis. Petals 5, asymmetric at the apex. Stamens 70-200, in 2 whorls fused at the base into a stamen tube: outer whorl of 5 multistaminate phalanges and
 
 ---
 
-### BOMBACACE
+### BOMBACACEAE
 
-verticille interne de 5 phalanges à 2 étamines chacune; anthère médifixe,
+inner whorl of 5 phalanges with 2 stamens each; anther medifixed, hippocrepiform or linear, monotheca. Ovary sessile.
 
-hippocrépiforme ou linéaire, monothèque. Ovaire sessile.
+Capsule subligneous to ligneous, loculicidal with 5 valves, columella persistent. Seeds numerous and piriform to subglobose. Kapok abundant white or slightly russet.
 
-Capsule subligneuse à ligneuse, localicide à 5 valves, columelle persistante. Graines nombreuses et piriformes à subglobuleuses. Kapok abondant blanc ou légèrement roussâtre.
+TYPE SPECIES: Bombax ceiba Linné, p.p.
 
-ESPÊCE-TYPE : Bombax ceiba Linné, p.p.
-
-Ce genre renferme 8 espèces asiatiques ou africaines; une seule est présente au Gabon.
+This genus contains 8 Asian or African species; only one is present in Gabon.
 
 ## Species in region
 

@@ -15,51 +15,25 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-(par Benedict John POLLARD)
+(by Benedict John POLLARD)
 
 Hist. pl. 11 : 110 (1891).
 
-Arbrisseaux dressés ou arbustes décombants, prostrés ou dressés ; branches armées d’épines
+Shrubs erect or subscandent, prostrate or erect; branches armed with axillary curved spines and with remains of pedicels transformed into hardened spines (pseudospines); stems solid. Leaves opposite. Inflorescences axillary, flowers solitary. Flowers: calyx regularly 5-lobed, hairy on both faces, scarcely accrescent in fruit; corolla scarlet to orange-red or yellow, with short tube (4–10 mm long), flared distally but not split; ovary cylindric, glandular, 4-locular in the upper part, with placenta split to the margin; style terminal, apex shortly bifid. Fruits drupaceous, with 4 mericarps with broad scars.
 
-axillaires courbées et des restes des pédicelles transformés en épines indurées (pseudoé-
+Genus with two species, both present in Gabon.
 
-pines) ; tiges pleines. Feuilles opposées. Inflorescences axillaires, à fleurs solitaires , Fleurs :
+Notes: Kalaharia was included in Clerodendrum at the subgeneric level by Verdcourt (1992). It was long considered monotypic, with K. uncinata, then a second species, K. schaijesii, was described by Bamps (2013).
 
-calice régulièrement 5-lobé, poilu sur les deux faces, à peine accrescent en fruit ; corolle écar-
+B: Baillon (1891), Bamps (2013), Verdcourt (1992).
 
-late à rouge orangé ou jaune, à tube court (long de 4–10 mm) , évasé distalement, mais non
+Bibliography
 
-fendu ; ovaire cylindrique, glanduleux, 4-loculaire à la partie supérieure , à placenta fendu
+### Key to species
 
-jusqu’au bord ; style terminal , apex courtement bifide. Fruits drupacés , à 4 méricarpes à
+1. - Prostrate and creeping geofrutex; calyx 5–6 mm long; corolla subactinomorphic, yellow; stamens not exserted beyond the corolla lobes .................. K. schaijesii
 
-cicatrices larges.
-
-Genre à deux espèces, toutes les deux présentes au Gabon.
-
-Notes : Kalaharia a été inclus dans Clerodendrum au niveau subgénérique par Verdcourt (1992). Il a été
-
-longtemps considéré comme monospécifique, avec K. uncinata , puis une seconde espèce, K. schaijesii ,
-
-a été décrite par Bamps (2013).
-
-B : Baillon (1891), Bamps (2013), Verdcourt (1992).
-
-i B liographie
-
-### Clé des espèces
-
-1. - Géofrutex prostré et rampant ; calice long de 5–6 mm ; corolle subactinomorphe,
-
-jaune ; étamines non exsertes au-delà des lobes de la corolle .................. K. schaijesii
-
-- Arbuste buissonnant dressé ou arbrisseau ; calice long de 8–9 mm ; corolle zygo-
-
-morphe, écarlate à rouge-orange ; étamines longuement exsertes au-delà des lobes
-
-de la corolle ................................................................................................ K. uncinata
+- Erect bushy shrub or shrublet; calyx 8–9 mm long; corolla zygomorphic, scarlet to orange-red; stamens long exserted beyond the corolla lobes ................................................................................................ K. uncinata
 
 ## Species in region
 

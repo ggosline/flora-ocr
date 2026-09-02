@@ -17,75 +17,71 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Herbs often robust, perennial, generally with short rhizome or stoloniferous plant;
 
-Herbes souvent robustes, vivaces, généralement à rhizome court ou plante stolonifère ;
+cataphylls present on lateral stems; fertile stems lateral or central,
 
-cataphylles présentes sur les tiges latérales ; tiges florifères latérales ou centrales,
+cylindric to triangular. Leaves usually basal; basal sheaths open,
 
-cylindriques à triangulaires . Feuilles habituellement basales ; gaines basales ouvertes,
+the cauline ones tubulous; ligule absent; blade rarely absent, linear to ovate–
 
-les caulinaires tubuleuses ; ligule absente ; limbe rarement absent, linéaire à ovale–
+lanceolate, with entire margin or bearing numerous small teeth, progressively or
 
-lancéolé , à marge entière ou munie de nombreuses petites dents, progressivement ou
+abruptly narrowed at apex, acute to mucronate, sometimes with a pseudo-petiole formed of
 
-brusquement rétréci au sommet, aigu à mucroné, parfois avec un pseudo-pétiole formé de
+2 halves of blade narrowed and folded on the central vein. Inflorescence terminal, either
 
-2 moitiés de limbe rétréci et replié sur la nervure centrale. Inflorescence terminale, soit
+on a central stem, or on several lateral stems, in compound panicle or in head
 
-sur une tige centrale, soit sur plusieurs tiges latérales, en panicule composée ou en tête
+formed of numerous crowded spikes, rarely in groups of few spikes or reduced
 
-formée de nombreux épis serrés , rarement en groupes d’épis peu nombreux ou réduite
+to a single spike (M. africana var. filipes); involucral bracts often foliaceous on the
 
-à un épi unique ( M. africana var. filipes ) ; bractées involucrales souvent foliacées sur la
-
-tige centrale ou glumacées, rarement foliacées sur les tiges latérales ; épis composés de
+central stem or glumaceous, rarely foliaceous on lateral stems; spikes composed of
 
 ---
 
-quelques à plusieurs bractées glumacées ovales (bractées spicoïdales ) , disposées en spi-
+several to numerous oval glumaceous bracts (spicoid bracts), arranged in spiral,
 
-rale, chaque bractée sous-tendant un épillet très réduit nommé spicoïde ; chaque spicoïde
+each bract subtending a very reduced spikelet called spicoid; each spicoid
 
-composé de 2–6 bractées florales dont habituellement 1–3 sous-tendent des fleurs
+composed of 2–6 floral bracts of which usually 1–3 subtend male flowers,
 
-mâles, 0–3 sont vides, et celle du sommet abrite une fleur femelle ; deux bractées
+0–3 are empty, and the apical one bears a female flower; two lower bracts
 
-inférieures fortement carénées et concaves , les supérieures très fines. Fleurs : les mâles
+strongly keeled and concave, the upper ones very thin. Flowers: the male
 
-à 1 étamine, les femelles à 1 style à 2–3 branches ; pollen sphéroïdal, à paroi épaisse
+ones with 1 stamen, the female ones with 1 style with 2–3 branches; pollen spheroidal, with thick
 
-avec une aperture anaporée distincte, non groupé en pseudomonade comme chez toutes
+wall with a distinct anoporate aperture, not grouped in pseudomonad as in all
 
-les autres Cyperaceae africaines. Akène globuleux à obovoïde , la base souvent rétrécie,
+other African Cyperaceae. Achene globose to obovoid, the base often narrowed,
 
-sommet apiculé, à surface lisse, rugueuse, papilleuse ou irrégulièrement tuberculée ; em-
+apex apiculate, with smooth, rugose, papillose or irregularly tuberculate surface; em-
 
-bryon de type Carex.
+bryo of Carex type.
 
-Genre de taille moyenne, comptant environ 120 espèces, dont 22 au Gabon. Ils sont pré-
+Genus of medium size, comprising approximately 120 species, of which 22 in Gabon. They are present
 
-sents dans toutes les régions tropicales humides. Le genre Hypolytrum y a été inclus très
+in all humid tropical regions. The genus Hypolytrum has been included in it very
 
-récemment.
+recently.
 
-b : Hooper & Napper (1972), Lye (2011a), Nelmes (1955a), Raynal (1968b),
-
-ibliographie
+Bibliography: Hooper & Napper (1972), Lye (2011a), Nelmes (1955a), Raynal (1968b),
 
 Simpson (1992), Simpson et al. (2003).
 
-### Clé des espèces
+### Key to species
 
-1. - Tige florifère centrale, souvent avec une feuille ..................................................... 2
+1. - Central fertile stem, often with a leaf ..................................................... 2
 
-- Tige florifère latérale, sans feuille, apparaissant à l’aisselle des vielles feuilles
+- Lateral fertile stem, without leaf, appearing at the axil of old basal leaves
 
-basales (parfois décomposées) .............................................................................. 16
+(sometimes decomposed) .............................................................................. 16
 
-ESPÈCES À TIGE FLORIFÈRE CENTRALE
+SPECIES WITH CENTRAL FERTILE STEM
 
-2. - Feuilles basales réduites aux gaines ; tige florifère feuillée principalement dans les
+2. - Basal leaves reduced to sheaths; fertile stem leafed mainly in the
 
 ## Species in region
 

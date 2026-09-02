@@ -17,47 +17,13 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Polycarpic, monoecious trees; solitary stipe, erect or creeping with leaf sheath remnants toward the apex. Leaves pinnate; leaf sheath tubulate, disintegrating into a fibrous mass, margins armed with spines; petiole concave above, angular below, armed with spines; rachis curved or straight; leaflets numerous arranged regularly in several planes. Inflorescences interfoliar, solitary, short and dense, unisexual, in successive production of male then female, branched once; peduncle short and elliptic; prophyll short, tubulate; peduncular bracts arranged far from the prophyll, tubulate; rachis shorter to longer than the peduncle; male flowering branches amentaceous (catkin-like), tomentose, with solitary flowers arising in cavities; female flowering branches larger than the male and with fewer flowers, flowers in triads (2 abortive male flowers); bracts short. Male flower sessile; sepals 3, imbricate, triangular; petals 3, valvate, as long as the sepals; stamens 6, filaments broad and united in a tube, anther introrse, basifixed; pistillode present. Female flower sessile, distinctly wider than the male; sepals 3, imbricate; petals 3, similar to the sepals; staminodes united in a ring with 6 lobes; gynoecium 3-carpellate, with 3 orthotropous ovules, attached toward the center; stigmas 3, short. Fruits ovoid but angular toward the base, with smooth exocarp, 1-seeded.
 
-Arbres polycarpiques, monoïques ; stipe solitaire, érigée ou rampant avec restes de gaines fo -
+Genus comprising two species, one African and one from South America; in Gabon, one species.
 
-liaires vers le sommet. Feuilles pennées ; gaine foliaire tubulée, se désintégrant en une masse
+B: Dransfield (1986, 2010), Dransfield et al. (2008), Stauffer et al. (2014), Tuley (1995).
 
-fibreuse, marges armées d’épines ; pétiole concave au-dessus, angulaire en dessous, armé
-
-d’épines ; rachis courbé ou droit ; folioles nombreuses arrangées régulièrement dans plusieurs
-
-plans. Inflorescences interfoliaires, solitaires, courtes et denses , unisexuées, en production
-
-successive mâles puis femelles, ramifiées une fois ; pédoncule court et elliptique ; préfeuille
-
-courte, tubulée ; bractées pédonculaires disposées loin de la préfeuille, tubulées ; rachis plus
-
-court à plus long que le pédoncule ; rameaux florifères mâles amentacés (en forme de cha -
-
-tons), tomenteux, à fleurs solitaires naissant dans des cavités ; rameaux florifères femelles
-
-plus grands que les mâles et avec moins de fleurs, fleurs en triades (2 fleurs mâles abortives) ;
-
-bractées courtes. Fleur mâle sessile ; sépales 3, imbriqués, triangulaires ; pétales 3, valvaires,
-
-aussi longs que les sépales ; étamines 6, filets larges et unis en un tube, anthère introrse, basi -
-
-fixe ; pistillode présent. Fleur femelle sessile, nettement plus large que la mâle ; sépales 3,
-
-imbriqués ; pétales 3, semblables aux sépales ; staminodes unis en un anneau avec 6 lobes ;
-
-gynécée 3-carpellaire, à 3 ovules orthotropes, attachés vers le centre ; stigmates 3, courts.
-
-Fruits ovoïdes mais anguleux vers la base , à exocarpe lisse, à 1 graine.
-
-Genre comprenant deux espèces dont une africaine et une d’Amérique du Sud ; au Gabon,
-
-une espèce.
-
-B : Dransfield (1986, 2010), Dransfield et al. (2008), Stauffer et al. (2014), Tuley (1995).
-
-i B liographie
+Bibliography
 
 ## Species in region
 

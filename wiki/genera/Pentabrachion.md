@@ -17,53 +17,21 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Arbustes ou petits arbres. Stipules petites. Feuilles à marge entière, sans glandes . Inflo -
-
-rescences en fascicules axillaires ou sur les branches plus âgées, unisexuées ou bi -
-
-sexuées , les unisexuées en général pauciflores. Fleurs unisexuées ou rarement à quelques
-
-étamines dans la fleur femelle, dioïques ou monoïques. Fleurs mâles à pédicelle court ;
-
-sépales légèrement imbriqués ; pétales petits ; disque extrastaminal , ± urcéolé ; éta -
-
-mines (3–)5–7(–9), soudées à la base en un androgynophore ; pistillode bien déve -
-
-loppé . Fleurs femelles à pédicelle plus long que chez les fleurs mâles ; sépales, pétales
+Shrubs or small trees. Stipules small. Leaves with entire margin, without glands. Inflorescences in axillary fascicles or on older branches, unisexual or bisexual, the unisexual ones generally pauciflorous. Flowers unisexual or rarely with a few stamens in the female flower, dioecious or monoecious. Male flowers with short pedicel; sepals slightly imbricate; petals small; disk extrastaminal, ± urceolate; stamens (3–)5–7(–9), connate at the base into an androgynophore; pistillode well-developed. Female flowers with pedicel longer than in male flowers; sepals, petals
 
 ---
 
-Stipule. ‒ D. Inflorescence mâle. ‒ E. Fleurs mâles. ‒ F, G. Fleur mâles vues du haut, avec res -
-
-pectivement 5 et 8 étamines (b = bractée). ‒ H. Fleur mâle avec bractée. ‒ I. Fleur mâle en coupe
-
-longitudinale avec bractée. ‒ J. Pistillode avec étamine. ‒ K, L. Anthère, faces dorsale et ventrale.
-
-‒ M. Fleurs femelles. ‒ N. Calice d’une fleur femelle montrant staminodes et disque. ‒ O. Coupe
-
-transversale de l’ovaire. ‒ P. Fruit. ‒ Q. Méricarpe. (A, M ‒ O : Pobéguin 97 ; B, P, Q : Jongkind
-
-& Abbin 2180 ; C : Le Testu 8137 ; D ‒ L : Le Testu 7159 ). Dessin par H. de Vries, NCB Naturalis
-
-(section NHN) ©.
+Stipule. ‒ D. Male inflorescence. ‒ E. Male flowers. ‒ F, G. Male flowers viewed from above, with respectively 5 and 8 stamens (b = bract). ‒ H. Male flower with bract. ‒ I. Male flower in longitudinal section with bract. ‒ J. Pistillode with stamen. ‒ K, L. Anther, dorsal and ventral faces. ‒ M. Female flowers. ‒ N. Calyx of a female flower showing staminodes and disk. ‒ O. Transverse section of ovary. ‒ P. Fruit. ‒ Q. Mericarp. (A, M ‒ O : Pobéguin 97 ; B, P, Q : Jongkind & Abbin 2180 ; C : Le Testu 8137 ; D ‒ L : Le Testu 7159 ). Drawing by H. de Vries, NCB Naturalis (section NHN) ©.
 
 ---
 
-et disque comme chez les fleurs mâles ; ovaire 3-loculaire, à 2 ovules par loge ; styles
+and disk as in male flowers; ovary 3-locular, with 2 ovules per locule; styles 2–3 times bifid. Fruits capsular, dehiscent, with 2 seeds per locule. Seeds smooth, glossy.
 
-2–3 fois bifides. Fruits capsulaires, déhiscents , à 2 graines par loge . Graines lisses,
+Monotypic genus from central tropical Africa, very close to the genus Cleistanthus.
 
-luisantes.
+Bibliography
 
-Genre monospécifique de l’Afrique tropicale centrale, très proche du genre Cleistanthus .
-
-b : Hoffman et al. (2006), Léonard (1970), Pax & Hoffman (1922), Rad -
-
-ibliographie
-
-cliffe-Smith (2001).
+b : Hoffman et al. (2006), Léonard (1970), Pax & Hoffman (1922), Radcliffe-Smith (2001).
 
 ## Species in region
 

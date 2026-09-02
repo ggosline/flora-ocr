@@ -17,15 +17,13 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Herbaceous plants with leaves sheathing at the base. Blade ovate-lanceolate, shortly petiolate at the base.
 
-Plantes herbacées à feuilles engainantes à la base. Limbe ovale-lancéolé, brièvement pétolé à la base.
+Inflorescences in very elongate terminal racemes. Spikelets flattened, pluriflorous, articulate above the 2 glumes. Flowers unisexual, the 4 to 6 lower ones sterile or male, the terminal one female. Lemma of the lower flowers glabrous, coriaceous with numerous nerves. Palea hyaline with 2 winged and ciliate keels. Fertile glumelles similar to one another, rolled, pubescent. 3 lodicules pubescent at the apex, clearly visible.
 
-Inflorescences en grappes terminales très allongées. Épillets aplatis, pluriflores, articulés au-dessus des 2 glumes. Fleurs unisexuées, les 4 à 6 inférieures neutres ou mâles, la terminale femelle. Lemma des fleurs inférieures glabre, coriace à nombreuses nervures. Paléa hyaline à 2 carènes ailées et ciliées. Glumelles fertiles semblables entre elles, enroulées, pubescentes. 3 lodicules pubescentes au sommet, bien visibles.
+Stamens monadelphous. Ovary fusiform, with style enlarged at the base, with 2 or 3 stigmas.
 
-Étamines monadelphes. Ovaire fusiforme, à style élargi à la base, à 2 ou 3 stigmates.
-
-Une seule espèce connue, du Congo et du Gabon.
+A single species known, from the Congo and Gabon.
 
 ## Species in region
 

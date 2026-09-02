@@ -17,23 +17,21 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Large unarmed lianes with rubber threads; wood with 4 (× 1–3) grooves ± deep. Leaves opposite petiolate. Stipules spaced or contiguous at the nodes. Limb dentate or entire.
 
-Grandes lianes inermes à filaments de caoutchouc ; bois à 4 ( × 1-3) sillons ± profonds. Feuilles opposées pétiolées. Stipules espacées ou jointives aux nœuds. Limbe denté ou entier.
+Inflorescences in complicated cymes of supernumerary flowers or supplementary ramifications. Flowers pedicellate small (or medium-sized), with 5 sepals and 5 petals valvate (or imbricate), tomentose (or ± pilose) on both faces. Disc circular simple, annular (or cushion-like ± thick), glabrous (or puberulent). Stamens 3, transversely dehiscent; pollen in large polyads, of 4 tetrads or 16 monads, calymnate; 3–4 pores per monad but no slits. Ovary ± immersed. Style attenuate; stigma punctiform or trilobate. 4–8 ovules per locule.
 
-Inflorescences en cymes compliquées de fleurs surnuméraires ou de ramifications supplémentaires. Fleurs pédicellées petites (ou moyennes), à 5 sépales et 5 pétales valvaires (ou imbriqués), tomenteux (ou ± pileux) sur les deux faces. Disque circulaire simple, annulaire (ou en coussinet ± épais), glabre (ou pubérulent). Étamines 3, transversalement déhiscentes ; pollen en grosses polyades, de 4 tétrades ou 16 monades, calymnées ; 3-4 pores par monade mais pas de sillons. Ovaire ± enfoncé. Style atténué ; stigmate ponctiforme ou trilobulé. 4-8 ovules par loge.
+Fruit glabrous tricarpellate; 4–8 seeds per mericarp; dehiscence in 6 valves. Receptacle persistent with triangular compressed funiclar sheaths. Seeds winged with transverse raphé, with glabrous testa. Cotyledons separate or fused presenting rubber threads at the fracture; small radicle clearly prominent.
 
-Fruit glabre tricarpellé ; 4-8 graines par méricarpe ; déhiscence en 6 valves. Réceptacle persistant avec les étuis funiculaires comprimés triangulaires. Graines ailées à raphé transalaire, à tégument glabre. Cotylédons séparés ou soudés présentant des filaments de caoutchouc à la cassure ; petite radicule nettement saillante.
+TYPE SPECIES: Hippocratea volubilis L., from America.
 
-ESPÊCE-TYPE: Hippocratea volubilis L., d'Amérique.
-
-Étymologie : genre dédié à Hippocrate, médecin grec, 460-377 av. J.C.
+Etymology: genus dedicated to Hippocrates, Greek physician, 460–377 BC.
 
 ---
 
-Genre de 3 espèces dont deux en Afrique. Une seule en Afrique centrale, l'autre localisée en Afrique occidentale : H. vignei Hoyle : Côted'Ivoire, Ghana et Nigeria (van Meer 796, WAG!).
+Genus of 3 species of which two in Africa. Only one in Central Africa, the other localized in West Africa: H. vignei Hoyle: Côte d'Ivoire, Ghana and Nigeria (van Meer 796, WAG!).
 
-Nota : Les caractères précédemment indiqués entre parenthèses ne se rencontrent pas chez l'espèce H. myriantha.
+Note: The characters previously indicated in parentheses are not found in the species H. myriantha.
 
 ## Species in region
 

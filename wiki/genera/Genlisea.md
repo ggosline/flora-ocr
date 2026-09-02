@@ -17,63 +17,11 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Annual to perennial herbs, lacking roots; stem short, subterranean, erect or decumbent. Leaves dimorphic, the normal ones arranged in a dense to lax rosette from the apex of the stem, petiolate, with an entire limb, very narrowly elliptic-ovate to spatulate or orbicular, glabrous or rarely pilose, the others forming capture organs (rhizophylls) subterranean, in the form of funnels ± densely crowded on the lower part of the stem and sinking into the substrate, Y-shaped traps, petiolate, with a tubular limb, ellipsoidal at the base and terminated by 2 helicoid ribbon-like arms, the arms and tube with the inner surface furnished with transverse rows of stiff hairs directed inward.
 
-Herbes annuelles à pérennes, dépourvues de racines ; tige courte, souterraine, dressée ou dé-
+Inflorescence terminal, arising from the leafy rosette, with a condensed to ± elongate raceme, few- to many-flowered; peduncle simple or branched toward the apex, generally with septate glandular and non-glandular hairs, rarely glabrous (not in Gabon), furnished with sterile bracts (scaly) ± numerous, basifixed. Flowers: bracteoles 2, inserted with the bract at the base of the pedicel; pedicel much longer than the bracts, erect at anthesis, erect, spreading or strongly curved at maturity, glandular, hispid or ± glabrous; calyx with 5 subequal lobes, slightly accrescent in fruit, densely glandular to hispid or glabrous; corolla glandular, hispid or glabrous, blue, violet, mauve, yellow or white, upper lip ± erect, entire (in Gabon) or 2-lobed (outside Gabon), lower lip larger, with the limb spreading or deflexed, ± deeply 3-lobed, with an acute or obtuse spur, shorter to longer than the lower lip; stamens 2, inserted at the base of the corolla, filaments linear, curved, anthers dorsifixed, ellipsoidal, with ± confluent thecae; ovary globular, glandular, hispid or glabrous; style short and indistinct, persistent, stigma with lower lip semi-orbicular, ± as wide as the ovary, with upper lip broadly triangular and much smaller or indistinct. Fruits globular, circumscissile, with 1 to 3 superimposed dehiscence rings, the lower one situated approximately in the equatorial plane of the capsule (in Gabon), or longitudinally bivalvate (subgenus Tayloria; outside Gabon), with numerous seeds. Seeds ovoid (in Gabon), with reticulate testa, with a prominent hilum at one of the extremities.
 
-combante. Feuilles dimorphes , les normales disposées en rosette dense à lâche depuis
-
-le sommet de la tige, pétiolées, à limbe entier, très étroitement elliptique-ovale à spa-
-
-tulé ou orbiculaire , glabre ou rarement poilu, les autres formant des organes de capture
-
-(rhizophylles) souterrains, sous forme d’entonnoir ± densément rapprochées sur la par-
-
-tie inférieure de la tige et s’enfonçant dans le substrat, pièges en Y, pétiolées, à limbe
-
-tubuleux, ellipsoïdal à la base et terminé par 2 bras rubannés hélicoïdaux, les bras et le
-
-tube à face interne munie de rangs transversaux de poils raides dirigés vers l’intérieur .
-
-Inflorescence terminale, naissant de la rosette foliaire, à racème condensé à ± allongé, pauci- à
-
-multiflore ; pédoncule simple ou ramifié vers le haut, généralement à poils septés glanduleux
-
-et non glanduleux , rarement glabre (pas au Gabon), muni de bractées stériles (écailleuses)
-
-± nombreuses, basifixes. Fleurs : bractéoles 2, insérées avec la bractée à la base du pédicelle ;
-
-pédicelle beaucoup plus long que les bractées, dressé à l’anthèse, dressé, étalé ou fortement
-
-recourbé à maturité, glanduleux, hispide ou ± glabre ; calice à 5 lobes subégaux , légèrement
-
-accrescents en fruit, densément glanduleux à hispides ou glabres ; corolle glanduleuse, hispide
-
-ou glabre, bleue, violette, mauve, jaune ou blanche, lèvre supérieure ± dressée, entière (au
-
-Gabon) ou 2-lobée (hors du Gabon), lèvre inférieure plus grande, à limbe étalé ou défléchi,
-
-± profondément 3-lobé, à éperon aigu ou obtus, plus court à plus long que la lèvre inférieure ;
-
-étamines 2, insérées à la base de la corolle, filets linéaires, courbées, anthères dorsifixes, el -
-
-lipsoïdales, à thèques ± confluentes ; ovaire globuleux, glanduleux, hispide ou glabre ; style
-
-court et indistinct, persistant, stigmate à lèvre inférieure semi-orbiculaire, ± aussi large que
-
-l’ovaire, à lèvre supérieure largement triangulaire et beaucoup plus petite ou indistincte. Fruits
-
-globuleux, circumscissiles, avec 1 à 3 cercles de déhiscence superposés , l’inférieur situé à
-
-peu près dans le plan équatorial de la capsule (au Gabon), ou longitudinalement bivalvaire
-
-(sous-genre Tayloria ; hors du Gabon), à nombreuses graines. Graines ovoïdes (au Gabon), à
-
-testa réticulé, à hile saillant à l’une des extrémités.
-
-Genre comprenant 30 espèces : 21 en Amérique tropicale et 9 en Afrique tropicale dont 1
-
-présente aussi à Madagascar. Pour la Flore : 1 espèce.
+Genus comprising 30 species: 21 in tropical America and 9 in tropical Africa of which 1 also present in Madagascar. For the Flora: 1 species.
 
 ## Species in region
 

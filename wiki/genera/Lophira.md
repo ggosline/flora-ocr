@@ -17,35 +17,15 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Deciduous trees; branches with very prominent leaf scars. Stipules caducous.
 
-Arbres caducifoliés ; rameaux à cicatrices foliaires très apparentes. Stipules caduques.
+Leaves clustered in tufts at the apex of branches; secondary nerves numerous and very closely spaced. Inflorescence terminal, in panicles. Flowers actinomorphic, fragrant; sepals 5, imbricate in aestivation, persistent; petals 5, contorted in aestivation, white; stamens ∞, in 3 to 5 whorls, anthers dehiscing by 2 apical pores; ovary sessile, 1-locular, with 2 fused carpels, pluriovulate, with basal placentation, ovules in 2 ranks, erect, anatropous; style short, with 2 crossed and divergent stigmas. Fruits: subwoody achenes, with 1 seed, surrounded by the calyx, with outer sepals accrescent and alate. Seeds exalbuminous.
 
-Feuilles groupées en touffes au sommet des rameaux ; nervures secondaires nom-
+Genus of West and Central Africa, eastward to Sudan and Uganda, comprising 2 species, one of which occurs in Gabon.
 
-breuses et très rapprochées . Inflorescence terminale, en panicules. Fleurs actino-
+Bibliography
 
-morphes, odorantes ; sépales 5, à préfloraison imbriquée, persistants ; pétales 5, à
-
-préfloraison contortée, blancs ; étamines ∞ , en 3 à 5 verticilles, anthères déhiscentes par
-
-2 pores apicaux ; ovaire sessile, 1-loculaire, à 2 carpelles soudés, pluriovulé, à placenta-
-
-tion basilaire, ovules sur 2 rangs, dressés, anatropes ; style court, à 2 stigmates croisés et
-
-divergents. Fruits : akènes subligneux, à 1 graine, entourés du calice, à sépales exté-
-
-rieurs accrescents et aliformes . Graines exalbuminées.
-
-Genre d’Afrique de l’Ouest et Centrale, vers l’est jusqu’au Soudan et l’Ouganda, compre-
-
-nant 2 espèces, dont une au Gabon.
-
-b : Amaral & Bittrich (2014), Bamps (1970), Bamps & Farron (1967),
-
-ibliographie
-
-Hutchinson, Dalziel & Keay (1954), Verdcourt (2005).
+Amaral & Bittrich (2014), Bamps (1970), Bamps & Farron (1967), Hutchinson, Dalziel & Keay (1954), Verdcourt (2005).
 
 ## Species in region
 

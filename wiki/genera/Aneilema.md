@@ -17,67 +17,27 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Herbs annual or perennial, with fibrous or tuberized roots. Leaves spiral or distichous; blade sessile or narrowed into pseudopetiole at the base, vernation generally involute.
 
-Herbes annuelles ou pérennes, à racines fibreuses ou tubérisées . Feuilles spiralées ou dis-
+Inflorescences terminal or terminal and axillary, rarely all axillary, generally in thyrse, sometimes reduced to a single cincinnus, with bisexual and male flowers, rarely a few female. Flowers distinctly zygomorphic, pedicellate; sepals free, subequal, green; petals free, unequal, the two upper ones unguiculate, wider than the lower one generally considerably reduced (but sometimes broad), without claw; stamens 3, placed below the staminodes, the median generally shorter than the others, filaments free or fused at the base, glabrous or the lateral ones bearded, anthers with longitudinal dehiscence, with narrow connective or rarely that of the median with enlarged connective; staminodes 2 or 3 (the median sometimes absent), superior with respect to and shorter than the fertile stamens, with glabrous filament, antherodia bilobed or reduced; ovary (1–)2- or 3-locular, locules unequal when 3-locular, locules with 1 to 6 ovules. Fruits: capsules (1–)2- or 3-locular, bivalved or rarely trivalved (A. aequinoctiale), (rarely indehiscent), locules with 1 to 6 seeds uniseriate. Seeds with linear hilum; embryotegum lateral.
 
-tiques ; limbe sessile ou rétréci en pseudopétiole à la base, vernation généralement involutée.
+Genus of 64 species mainly in tropical Africa, two in the Arabian Peninsula (including one African species), one endemic to Madagascar, five or six in Australia and surrounding islands, and one or two in tropical America. The genus is represented in Gabon by three species and one to be sought.
 
-Inflorescences terminales ou terminales et axillaires, rarement toutes axillaires, généralement
+Bi: Brenan (1968b), van der Burg (2006), Faden (1991, 1998, 2012), Morton (1966).
 
-en thyrse, parfois réduites à un seul cincinnus, à fleurs bisexuées et mâles, rarement quelques-
+Bibliography
 
-unes femelles. Fleurs nettement zygomorphes , pédicellées ; sépales libres, subégaux, verts ;
+### Key to the species
 
-p étales libres, inégaux, les deux supérieurs onguiculés, plus larges que l’inférieur générale -
+1. - Petals yellow; fruit 7–9 mm in length, 3-horned ............................ A. aequinoctiale
 
-ment considérablement réduit (mais parfois large), sans onglet ; étamines 3, placées sous les
+- Petals white or pale lilac, lavender or violet; fruit ≤ 7 mm in length, without horns ...........................................................................................................................2
 
-staminodes , la médiane généralement plus courte que les autres, filets libres ou soudés à la
+2. - Fruit ± as long as wide, ± spherical, with 2 unispermatous locules; leaf with distinct petiole of ± 0.5–2 cm (to be sought in Gabon) ..................................... A. dispermum
 
-base, glabres ou les latéraux barbus, anthères à déhiscence longitudinale, à connectif étroit ou
+- Fruit generally longer than wide, with 2 or 3 locules and several seeds per locule; leaf generally sessile ........................................................................................ 3
 
-plus rarement celle de la médiane à connectif élargi ; staminodes 2 ou 3 (le médian parfois
-
-absent), supérieurs par rapport aux et plus courts que les étamines fertiles, à filet glabre, an -
-
-thérodes bilobées ou réduites ; ovaire (1–)2- ou 3-loculaire, loges inégales quand 3-loculaire,
-
-loges avec 1 à 6 ovules . Fruits : capsules (1–)2- ou 3-loculaires, bivalvées ou rarement
-
-trivalvées ( A. aequinoctiale ) , (rarement indéhiscentes), loges avec 1 à 6 graines unisériées .
-
-Graines à hile linéaire ; embryotège latérale .
-
-Genre de 64 espèces principalement en Afrique tropicale, deux dans la Péninsule Arabique
-
-(dont une espèce africaine), une endémique de Madagascar, cinq ou six en Australie et dans
-
-les îles environnantes, et une ou deux en Amérique tropicale. Le genre est représenté au Gabon
-
-par trois espèces et une à rechercher.
-
-Bi : Brenan (1968b), van der Burg (2006), Faden (1991, 1998, 2012), Morton (1966).
-
-B liographie
-
-### Clé des espèces
-
-1. - Pétales jaunes ; fruit 7‒9 mm de longueur, 3-corné ............................ A. aequinoctiale
-
-- Pétales blancs ou lilas pâle, lavande ou violets ; fruit ≤ 7 mm de longueur, sans
-
-cornes ...........................................................................................................................2
-
-2. - Fruit ± aussi long que large, ± sphérique, à 2 loges unispermes ; feuille à pétiole
-
-distinct de ± 0,5‒2 cm (à rechercher au Gabon) ..................................... A. dispermum
-
-- Fruit généralement plus long que large, à 2 ou 3 loges et plusieurs graines par loge ;
-
-feuille généralement sessile ........................................................................................ 3
-
-3. - Inflorescence dense, subcapitée, 1,5‒6 cm de diamètre, avec un axe central et
+3. - Inflorescence dense, subcapitate, 1.5–6 cm in diameter, with a central axis and
 
 ## Species in region
 

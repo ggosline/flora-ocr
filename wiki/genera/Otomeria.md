@@ -17,37 +17,31 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Stiff herbs, rarely twining vines. Stipules multifid. Leaves rarely sessile; petiole generally well-channeled with 2 fine margins; leaf blades ovate to lanceolate, ± pubescent, sometimes almost glabrous between the veins.
 
-Herbes raides, rarement lianules volubiles. Stipules plurifides. Feuilles rarement sessiles; pétiole généralement bien canaliculé à 2 fines marges; limbes ovés à lancéolés ± pubescens, parfois presque glabres entre les nervures.
+Inflorescences contracted at the juvenile stage then most often accrescent into 1–2 long spikes of alternate paired flowers. Calyx with 5 very unequal lobes, the longest ones laminar, sublinear to ovate, arranged externally in each pair of flowers. Corolla white or red with ± induplicate valvate prefloration, with medium or long tube, with flared or swollen throat, with abundant and ascending internal pubescence at the level of the stamens, reduced to absent below. Heterostyly or isostyly according to species. Anthers attached at about the middle or slightly below, with obtuse or slightly emarginate apex. Filament often short. Style long, slender, glabrous, most often exsert, with small bilobed stigma. Disk reduced, ± papilliferous. Ovary narrow or turbinate, compressed in the plane of the 2 locules. Placentas ovate, ± elongate with ± long central insertion, with moderately wrinkled surface densely covered with ovules closely packed together.
 
-Inflorescences contractées au stade juvénile puis le plus souvent accrescentes en 1-2 longs épis de fleurs jumelées alternes. Calice à 5 lobes très inégaux, les plus longs laminés, sublinéaires à ovés, disposés extérieurement dans chaque paire de fleurs. Corolle blanche ou rouge à préfloraison valvaire ± indupliquée, à tube moyen ou long, à gorge évasée ou renflée, à pubescence interne
+Fruit ± ovate-oblong or obconic capsule, with prominent longitudinal veins, with apical beak sometimes prominent between the sepals and dehiscent; there is moreover ± complete longitudinal septicidal dehiscence. Old fruits may persist, empty and shredded. Numerous angular seeds 0.5–0.8 mm approx. when dry. Germination obtained in more than a month in O. elatior (F. Hallé).
 
----
+Type of the genus: Otomeria guineensis Bentham. A related genus, Pentas, not known from Gabon, is distinguished by its branched inflorescences.
 
-fournie et ascendante au niveau des étamines, réduite à nulle au-dessous. Hétérostylie ou isostylie suivant les espèces. Anthères attachées vers le milieu ou un peu au-dessous, à sommet obtus ou un peu émarginé. Filet souvent court. Style long, grêle, glabre, le plus souvent exsert, à stigmate bilobé petit. Disque réduit ± papillifère. Ovaire étroit ou turbiné, comprimé dans le plan des 2 loges. Placentas ovés ± allongés à insertion centrale ± longue, à surface médiocrement bosselée densément couverte d'ovules serrés entre eux.
+Eight intertropical African species, 5 in Gabon.
 
-Fruit capsulaire ± ové oblong ou obconique, à nervures longitudinales saillantes, à bec apical parfois saillant entre les sépales et déhiscent; il y a en outre déhiscence septicide longitudinale ± complète. Les vieux fruits peuvent persister, vides et déchiquetés. Nombreuses graines anguleuses de 0,5-0,8 mm env. à sec. Germination obtenue en plus d'un mois chez O. elatior (F. Hallé).
+### KEY TO OTOMERIA
 
-Type du genre; Otomeria guineensis Bentham. Un genre voisin, Pentas, non connu du Gabon, se distingue par ses inflo-rescences ramifiées.
+1. Erect herb (or ± creeping, cf. sp. no. 2) less than 1.50 m tall; infructescences ± lax.
 
-Huit espèces intertropicales africaines, 5 au Gabon.
+2. Corolla white, at least the lobes; leaves ovate.
 
-### CLÉ DES OTOMERIA
+3. Corolla tube narrow then swollen at the throat; infructescence generally exceeding 15 cm long; fruits oblong, narrow, numerous ..... 1. O. guineensis.
 
-1. Herbe dressée (ou ± rampante, cf. sp. n° 2) de moins de 1,50 m de hauteur; infrutescences ± lâches.
+3'. Corolla tube gradually flared toward the throat; infructescence generally less than 10 cm; fruits ± ovoid, fewer in number than in the preceding species... 2. O. cameronica.
 
-2. Corolle blanche, au moins les lobes; feuilles ovées.
+2'. Corolla red or pink; leaves narrowly lanceolate.
 
-3. Tube de la corolle étroit puis renflé à la gorge; infrutescence dépassant généralement 15 cm de long; fruits oblongs, étroits, nombreux ..... 1. O. guineensis.
+4. Corolla tube 3–6 mm long, flared at the throat; plant very branched..... 3. O. micrantha.
 
-3'. Tube de la corolle progressivement évasé vers la gorge; infrutestescence généralement inférieure à 10 cm; fruits ± ovoïdes moins nombreux que dans l'espèce précédente... 2. O. cameronica.
-
-2'. Corolle rouge ou rose; feuilles étroitement lancéolées.
-
-4. Tube de la corolle long de 3-6 mm, évasé à la gorge; plante très rameuse..... 3. O. micrantha.
-
-4'. Tube de la corolle long de 15-25 mm, étranglé puis renflé à la gorge; plante peu rameuse..... 4. O. elatior.
+4'. Corolla tube 15–25 mm long, constricted then swollen at the throat; plant little branched..... 4. O. elatior.
 
 ## Species in region
 

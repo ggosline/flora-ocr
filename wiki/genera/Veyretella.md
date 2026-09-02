@@ -17,9 +17,7 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Herbacée terrestre. Long rhizome charnu, rampant, racines sur toute sa longueur. Tige dressée, glabre. Feuilles en rosette basale, pétiolées, largement-lancéolées à lancéolées. Inflorescence terminale, fleurs résu-pinées, relativement grandes. Labelle trilobé avec callus basal phalloïde ; lobe médian important, ± réniforme et latéraux peu visibles, marges longuement 3-dentées. Éperon filiforme, longueur > ovaire. Gynostème court, stigmate à 2 lobes bien séparés convexes et soudés aux marges du labelle. Rostellum dressé à 3 lobes : le médian triangulaire, aigu, un peu plissé, les 2 autres égaux. Anthère rétroversée avec anthérophores saillants. Genre monospécifique.
+Terrestrial herb. Long fleshy rhizome, creeping, roots along its entire length. Stem erect, glabrous. Leaves in basal rosette, petiolate, broadly-lanceolate to lanceolate. Terminal inflorescence, flowers resupinate, relatively large. Lip trilobed with phalloïd basal callus; median lobe prominent, ± reniform and lateral lobes scarcely visible, margins with long 3-dentate edges. Spur filiform, length > ovary. Gynostemium short, stigma with 2 well-separated convex lobes and adnate to the margins of the lip. Rostellum erect with 3 lobes: the median one triangular, acute, somewhat plicate, the 2 others equal. Anther retroverse with prominent antherophores. Monotypic genus.
 
 ## Species in region
 

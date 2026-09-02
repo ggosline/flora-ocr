@@ -17,23 +17,21 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Herbs annual or perennial, or suffrutex, hairy. Leaves alternate, petiolate; blade with entire margin, covered with white appressed hairs and dilated at base. Inflorescences in scorpioid cymes, or flowers solitary supra-axillary at the end of leafy branches; bracts absent. Flowers: calyx divided almost to the base into 5 narrowly elliptic-ovate segments, unequal to equal, persistent and accrescent under the fruit; corolla cylindric to infundibuliform or sometimes subrotate, white or yellow, pubescent on the outside, glabrous to pubescent on the inside, with 5 imbricate lobes, triangular to ovate-triangular, with involute margins, apex often folded inward; stamens 5, included, with very short filaments, inserted at ±0.5–1 mm from the base of the corolla tube, anthers coherent, ovate-oblong to narrowly elliptic-ovate, with pubescent apex; disk sometimes present; ovary with 1 ovule per cell; style terminal, with conical stigma, but disciform at the base. Fruits dry or slightly drupaceous, sometimes rostrate, pubescent, breaking at maturity into 4 monospermatous achenes.
 
-Herbes annuelles ou vivaces, ou suffrutex, poilus. Feuilles alternes, pétiolées; limbe à marge entière, couvert de poils blancs apprimés et à base dilatée. Inflorescences en cymes scorpioïdes, ou fleurs solitaires supra-axillaires à l'extrémité des rameaux feuillus; bractées absentes. Fleurs: calice divisé presque jusqu'à la base en 5 segments étroitement elliptiques-ovales, inégaux à égaux, persistants et accrescents sous le fruit; corolle cylindrique à infundibuliforme ou parfois subrotacée, blanche ou jaune, pubescente à l'extérieur, glabre à pubescente à l'intérieur, à 5 lobes imbriqués, triangulaires à ovales-triangulaires, à marges involutées, à extrémité souvent repliée vers l'intérieur; étamines 5, incluses, à filets très courts, insérés à ±0,5–1 mm de la base du tube corollin, anthères cohérentes, ovales-oblongues à étroitement elliptiques-ovales, à apex pubescent; disque parfois présent; ovaire à 1 ovule par loge; style terminal, à stigmate conique, mais disciforme à la base. Fruits secs ou légèrement drupacés, parfois rostrés, pubescents, se brisant à maturité en 4 akènes monospermes.
+Genus comprising approximately 165 species (situation in 2020), most of them in South America, Central America and Australia; 12 in Africa (Frohlich et al. 2020; Simons & Wieringa 2019); in Gabon: two species.
 
-Genre comprenant environ 165 espèces (situation en 2020), la plupart en Amérique du Sud, Amérique centrale et en Australie; 12 en Afrique (Frohlich et al. 2020; Simons & Wieringa 2019); au Gabon : deux espèces.
+Notes: The division of Heliotropium into (among others) Heliotropium s.str. and Euploca Nutt. sensu Hilger & Diane (2003) was followed here.
 
-Notes: On a suivi ici la division de Heliotropium en (entre autres) Heliotropium s.str. et Euploca Nutt. sensu Hilger & Diane (2003).
+The species of Euploca are often "weeds", small herbs that grow in vacant or ruderal land. In Central Africa, botanists have often overlooked these plants and habitats during their surveys. It is therefore quite possible that the number of species and their known distribution are underestimated.
 
-Les espèces d’Euploca sont souvent des «adventices», petites herbes qui poussent dans des terrains vagues ou rudéraux. En Afrique centrale, les botanistes ont souvent ignoré ces plantes et stations pendant leurs prospections. C’est pourquoi il serait bien possible que le nombre des espèces et leur distribution connue soit sous-estimés.
-
-BIBLIOGRAPHIE : Diane et al. (2016), Förther (1998), Frohlich et al. (2020), Heine (1963), Hilger & Diane (2003), Simons & Wieringa (2019), Taton (1971).
+BIBLIOGRAPHY: Diane et al. (2016), Förther (1998), Frohlich et al. (2020), Heine (1963), Hilger & Diane (2003), Simons & Wieringa (2019), Taton (1971).
 
 ---
 
-1. - Corolle jaune à jaune-orange; calice à lobes égaux; fruit rostré..... E. katangensis
+1. - Corolla yellow to yellow-orange; calyx with equal lobes; fruit rostrate..... E. katangensis
 
-- Corolle blanc crème; calice à lobes inégaux; fruit à sommet arrondi..... E. ovalifolia
+- Corolla cream-white; calyx with unequal lobes; fruit with rounded apex..... E. ovalifolia
 
 Euploca katangensis (Gürke ex De Wild.) E.L.A.N.Simons & Wieringa Blumea 64(1): 94 (2019).
 
@@ -45,7 +43,7 @@ H. baclei DC. var. rostratum I.M.Johnst., Contr. Gray Herb. 92: 91 (1930).
 
 H. nigerinum A.Chev. Explor. bot. Afrique occ. franc.: 450 (1920).
 
-Herbe pérenne ou annuelle, parfois subligneuse à la base; tiges subérigées, formant des rosettes, longues de 7–20(-40) cm, ramifiées, densément strigueuses, à poils blancs apprimés. Feuille : pétiole 2–4 mm ; limbe elliptique à oblong, 4–17 × 3–6(-8) mm, strigueux sur les deux faces. Inflorescence à fleurs solitaires, supra-axillaires à l'extrémité des rameaux feuillés. Fleur : pédicelle 0,2–3 mm ; calice infundibuliforme, à lobes subégaux, longs de 3–4 mm, aigus au sommet, éparsement strigueux extérieurement, ciliés à la base ; corolle infundibuliforme à subrotacée, jaune à jaune-orange, éparsement pubescente extérieurement, glabre intérieurement; à tube long de 3–5 mm, à lobes de 1–1,5 × 1–1,2 mm, parfois alternant avec des petites dents ; étanine à anthère longue de 0,7 mm, courtement apiculée ; disque cupuliforme ; ovaire ovoïde, 0,7–0,8 mm de diamètre, acuminé au sommet, glabre à éparsement pubescente ; style 0,2–0,4 mm. Fruit légèrement drupacé, ovoïde, ±2 mm de diamètre, terminé par un bec long de 1,6–4,2 mm.
+Herb perennial or annual, sometimes subwoody at the base; stems suberect, forming rosettes, 7–20(–40) cm long, branched, densely strigose, with white appressed hairs. Leaf: petiole 2–4 mm; blade elliptic to oblong, 4–17 × 3–6(–8) mm, strigose on both faces. Inflorescence with solitary flowers, supra-axillary at the end of leafy branches. Flower: pedicel 0.2–3 mm; calyx infundibuliform, with subequal lobes, 3–4 mm long, acute at apex, sparsely strigose externally, ciliate at base; corolla infundibuliform to subrotate, yellow to yellow-orange, sparsely pubescent externally, glabrous internally; tube 3–5 mm long, lobes 1–1.5 × 1–1.2 mm, sometimes alternating with small teeth; stamen with anther 0.7 mm long, shortly apiculate; disk cupuliform; ovary ovoid, 0.7–0.8 mm in diameter, acuminate at apex, glabrous to sparsely pubescent; style 0.2–0.4 mm. Fruit slightly drupaceous, ovoid, ±2 mm in diameter, terminated by a beak 1.6–4.2 mm long.
 
 ## Species in region
 

@@ -17,33 +17,29 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Monopodial lianes, climbing or trailing. Leaves with twisted, channelled petiole; lamina of variable size and shape, generally apiculate, fleshy. Inflorescence axillary, subapical to terminal. Flowers rare to numerous opening successively, small to very large, generally pale in colour, sometimes with purplish traces on the labellum. Petals and sepals sub-similar, often thick and fleshy. Labellum adnate to the column for part of its length forming an infundibuliform or sacciform structure. Centre of labellum with appendages of various types: scale-like hairs or lamellae. Column generally erect to arcuate, long, slender, generally pubescent below the stigma. – Pl. 39, p. 83.
 
-Lianes monopodiales, grimpantes ou rampantes. Feuilles à pétiole tordu, canaliculé ; limbe de taille et de forme variées, en général apiculé, charnu. Inflorescence axillaire, subterminale à terminale. Fleurs rares à nombreuses s'ouvrant successivement, petites à très grandes, en général de couleur pâle, avec parfois des traces pourpres sur le labelle. Pétales et sépales sub-semblables, souvent épais et charnus. Labelle soudé au gynostème sur une partie de sa longueur formant une structure infundibuliforme ou sacciforme. Centre du labelle avec des appendices de types variés : poils en écailles ou lamelles. Gynostème en général dressé à arqué, long, grêle, en général poilu sous le stigmate. – Pl. 39, p. 83.
-
-Les observations sur la biologie de la pollinisation chez Vanilla proviennent surtout du Nouveau Monde. La structure florale indique une adaptation à la pollinisation par les abeilles : les fleurs sont horizontales et zygomorphes avec une plateforme d'atterrissage proéminente formée
+Observations on pollination biology in Vanilla come mostly from the New World. The floral structure indicates an adaptation to pollination by bees: the flowers are horizontal and zygomorphic with a prominent landing platform formed by the labellum, ornamented with various callosi­ties and hairs playing the role of guide toward the nectar; the colour of the flowers is generally yellow, white, sometimes with purple or purplish traces on the labellum (V. imperialis). The flowers emit a refreshing and sweet scent during the day; the hairs and scales of the labellum are thin-walled cells filled with oils and sugar. They are "caressed" by bees. The structure of the column and more particularly the presence of a soft pollinium and abundant stigmatic liquid do not, however, always prevent autogamy which is sometimes encountered in this genus (VAN DER PIJL & DODSON 1969).
 
 ---
 
-PL. 39. – Structure du gynostème du genre Vanilla Mill.: A, vue latérale ; B, C, vues antérieures ; D, anthère, vue postérieure ; E, anthère, vue latérale (A-E, ex SZLACHETKO & RUTKOWSKI, 2000).
+PL. 39. – Structure of the column of the genus Vanilla Mill.: A, lateral view; B, C, anterior views; D, anther, posterior view; E, anther, lateral view (A-E, ex SZLACHETKO & RUTKOWSKI, 2000).
 
 ---
 
-par le labelle, ornamentée de diverses callosités et de poils jouant le rôle de guide vers le nectar ; la couleur des fleurs est en général jaune, blanche, parfois avec des traces violettes ou pourpres sur le labelle (V. imperialis). Les fleurs émettent une odeur rafraîchissante et suave pendant le jour ; les poils et les écailles du labelle sont des cellules à parois fines remplies d'huiles et de sucre. Elles sont «caressées» par les abeilles. La structure du gynostème et plus particulièrement la présence d'une pollinie molle et d'un liquide stigmatique abondant n'empêchent cependant pas toujours l'autogamie qui se rencontre parfois dans ce genre (VAN DER PIJL & DODSON 1969).
+Pantropical genus of about 100 species, mostly Neotropical; in Gabon, 6 species have been collected.
 
-Genre pantropical d'environ 100 espèces pour la plupart néotropicales ; au Gabon, 6 espèces ont été récoltées.
+1. Labellum distinctly trilobate after spreading, wider near the base ..... 2
 
-1. Labelle nettement trilobé après étalement, plus large près de la base ..... 2
+2. Labellum deeply sacciform at the base, median lobe distinctly < than the lateral ones ..... 2. V. chalottii
 
-2. Labelle profondément sacciforme à la base, lobe médian nettement < aux latéraux ..... 2. V. chalottii
+2'. Labellum narrowly tubular at the base, median lobe > than the lateral ones ..... 3
 
-2'. Labelle étroitement tubulaire à la base, lobe médian > aux latéraux ..... 3
+3. The median lobe of the labellum truncate, wider at the apex ..... 5. V. heterolopha
 
-3. le lobe médian du labelle tronqué, plus large au sommet ..... 5. V. heterolopha
+3'. The median lobe of the labellum ± ribbon-like, tapering from the middle toward the apex ..... 4
 
-3'. le lobe médian du labelle ± rubanné, s'amincissant du milieu vers le sommet ..... 4
-
-4. Labelle épais, charnu, les latéraux très peu visibles, callus crépu au centre du labelle ..... 4. V. hallei
+4. Labellum thick, fleshy, the lateral lobes scarcely visible, callus crimped at the centre of the labellum ..... 4. V. hallei
 
 ## Species in region
 

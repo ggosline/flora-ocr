@@ -16,17 +16,11 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Rhizome erect, thick, with fleshy, numerous roots. Frond large, imparipinnate, with entire, fleshy pinnae, the lower ones sterile, the upper ones fertile. Veins oblique, anastomosing into areoles without included veinlets. Sporangia covering the entire lower surface of the lamina, mixed with capitate paraphyses.
 
-Rhizome dressé, épais, à racines charnues, nombreuses. Fronde de grande taille, imparipennée, à pennes entières, charnues, les inférieures stériles, les supérieures fertiles. Nervures obliques, anastomosées en aréoles sans nervilles incluses. Spo
+Type species: Acrostichum aureum L.
 
----
-
-ranges couvrant toute la face inférieure du limbe, mélangés de paraphyses capitées.
-
-Espèce type : Acrostichum aureum L.
-
-Genre pantropical, comprenant quelques espèces typiques de la mangrove. Une espèce au Gabon.
+Pantropical genus, comprising a few mangrove-typical species. One species in Gabon.
 
 ## Species in region
 

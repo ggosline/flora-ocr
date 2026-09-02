@@ -17,19 +17,17 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Tree or shrub. Leaves alternate, glabrous and acuminate. Inflorescence formed by an umbel of opposite-leafed glomerules. Flowers ¥, gamopetalous. Stamens free and pubescent. Disc unilateral. Stigma small. Drupe rostrate, keeled and curved.
 
-Arbre ou arbuste. Feuilles alternes, glabres et acuminées. Inflorescence formée par une ombelle de glomérules oppositifoliée. Fleurs ¥, gamopétales. Étamines libres et pubescentes. Disque unilatéral. Stigmate de petite taille. Drupe rostrée, carénée et courbe.
+This monotypic genus is endemic to tropical Africa.
 
-Ce genre monospécifique est endémique d'Afrique tropicale.
+### KEY TO VARIETIES
 
-### CLÉ DES VARIÉTÉS
-
-1. Feuilles de grande taille : 9-20 × 3-7 cm, elliptiques à oblongues .....
+1. Leaves large: 9-20 × 3-7 cm, elliptic to oblong .....
 
 ..... L. africana var. africana.
 
-1'. Feuilles de petite taille : 3,5-8 × 0,9-2 cm, étroitement elliptiques .....
+1'. Leaves small: 3.5-8 × 0.9-2 cm, narrowly elliptic .....
 
 ..... L. africana var. microphylla.
 

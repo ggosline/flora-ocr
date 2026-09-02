@@ -17,17 +17,15 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Lianes with a pubescence of simple hairs. Leaves with a very dense and very fine reticulum. Flowers axillary or extra-axillary, solitary or in (1)-2-flowered cymes. Sepals 3, valvate, entirely covering the petals in the bud, with margins ± reflexed outward, forming a ± pronounced arête. Petals 6-10, imbricate, equal, in two regular cycles or 2 (3) ± irregular. Stamens very numerous, inserted perpendicularly along the cylindrical receptacle (androgynophore); filaments short; thecae linear extrorse, connectives thick, flattened above the anthers. Carpels numerous, situated at the apex of the receptacle, ovaries ovoid, pubescent, stigmas sessile short. Ovules 14-20, biseriate.
 
-Lianes á indument de poils simples.Feuilles á réticulum tres dense et tres fin. Fleurs ,axillaires ou extra-axillaires,solitaires ou en cymes (1)-2-flores. Sépales 3,valvaires,recouvrant entierement les pétales dans le bouton,ä bords ± réfléchis vers l'extérieur, formant une aréte ± prononcée.Pétales 6-l0, imbriqués,égaux,en deux cycles réguliers ou 2 (3) ± irréguliers. Etamines tres nombreuses, inserées perpendiculairement le long du receptacle cylindrique (androgynophore)； filets courts; theques linéaires extrorses, connectifs épais,aplatis au-dessus des antheres. Carpelles nombreux， situés au sommet du réceptacle, ovaires ovoides，velus,stigmates sessiles courts.Ovules l4-20, biseries.
+Fruits unknown.
 
-Fruits inconnus.
+Type species: T. congolensis Boutique.
 
-Espece type : T. congolensis Boutique.
+Small genus of equatorial Africa comprising two species, one Gabonese, the other Congolese.
 
-Petit genre d'Afrique équatoriale comprenant deux especes, l'une gabonaise,l'autre congolaise.
-
-Le genre Toussaintia est probablement l'un des genres d'Annonacées les plus primitifs en Afrique. Comme dans le genre Mischogyne, l'androgynophore rappelle certaines Magnoliacées asiatiques du genre Michelia. L'insertion des étamines reste cependant bien caractéristique,et leur forme est nettement du type Annonacée.En outre,les sépales ± pétaloides,la disposition des pétales en deux-trois cycles ± irréguliers， sont autant de caractéres qui rapprochent encore ce genre des Magnoliacées,et lui conférent une origine primitive dans la famille des Annonacees.
+The genus Toussaintia is probably one of the most primitive genera of Annonaceae in Africa. As in the genus Mischogyne, the androgynophore recalls certain Asian Magnoliaceae of the genus Michelia. The insertion of the stamens remains nevertheless quite characteristic, and their form is clearly of the Annonaceae type. Furthermore, the ± petaloid sepals, the arrangement of the petals in two to three ± irregular cycles, are so many characters that bring this genus even closer to the Magnoliaceae, and confer upon it a primitive origin within the family Annonaceae.
 
 ## CLE DES ESPECES
 

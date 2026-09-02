@@ -17,13 +17,11 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Perennial herbs with decumbent culms rooting at the nodes, lanceolate leaves.
 
-Herbes pérennes à chaumes couchés et enracinés aux nœuds, feuilles lancéolées.
+Paniculate inflorescence with filiform divisions. Oblong-acuminate spikelets, dorsally flattened, arranged in short racemes constituting the ultimate divisions of the inflorescence.
 
-Inflorescence paniculée à divisions filiformes. Épillets oblongs-acuminés, dorsalement aplatis, disposés en courts racèmes constituant les ultimes divisions de l'inflorescence.
-
-Glumes semblables, plus courtes que l'épillet, l'inférieure à 3 nervures, la supérieure à 3 ou 5 nervures. Fleur inférieure réduite à une lemma, qui a la taille et la forme de l'épillet, à 7 nervures. Fleur supérieure hermaphrodite, lemma coriace à marges hyalines et ciliées, à 5 nervures peu visibles; paléa de même taille et de même texture, à 2 nervures. Deux lodicules, 3 étamines, styles distincts.
+Glumes similar, shorter than the spikelet, the lower with 3 nerves, the upper with 3 or 5 nerves. Lower floret reduced to a lemma, which has the size and shape of the spikelet, with 7 nerves. Upper floret hermaphrodite, lemma coriaceous with hyaline and ciliate margins, with 5 scarcely visible nerves; palea of the same size and texture, with 2 nerves. Two lodicules, 3 stamens, distinct styles.
 
 ## Species in region
 

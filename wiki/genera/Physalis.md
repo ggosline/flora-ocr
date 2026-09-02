@@ -17,63 +17,61 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Herbs annual or perennial, or more rarely small shrubs, generally much-branched,
 
-Herbes annuelles ou pérennes, ou plus rarement petits arbustes , généralement très ramifiées,
+sometimes woody at the base, unarmed; stems pubescent with simple, branched or stellate hairs,
 
-parfois ligneuses à la base, inermes ; tiges pubescentes à poils simples, ramifiés ou étoilés,
+glandular or not. Leaves alternate, more rarely in pairs or groups of 3, petiolate; blade with entire,
 
-glanduleux ou non. Feuilles alternes, plus rarement par 2 ou 3, pétiolées ; limbe à bord entier,
+sinuate or irregularly dentate margin. Inflorescences axillary, generally with solitary flowers or
 
-sinué ou irrégulièrement denté. Inflorescences axillaires, généralement à fleurs solitaires ou
+occasionally in fascicles of 2 to 7 flowers. Flowers bisexual, 5-merous, actinomorphic;
 
-occasionnellement en fascicules de 2 à 7 fleurs. Fleurs bisexuées, 5-mères, actinomorphes ;
+calyx campanulate to cupuliform, enlarged and persistent in fruit; corolla with valvate prefloration,
 
-calice campanulé à cupuliforme, élargi et persistant en fruit ; corolle à préfloraison val -
+broadly campanulate to rotate, infundibuliform, more rarely urceolate, yellow or
 
-vaire, largement campanulée à rotacée, infundibuliforme, plus rarement urcéolée, jaune ou
+sometimes white to purple, often with 5 dark spots at the base, apex truncate or
 
-parfois blanche à pourpre, souvent avec 5 taches sombres à la base , sommet tronqué ou
+lobed; stamens generally equal, inserted at the base of the tube, anthers basifixed or
 
-lobé ; étamines généralement égales, insérées à la base du tube, anthères basi- ou dorsifixes,
+dorsifixed, oblongoid, dehiscent by longitudinal slits; annular disk, sometimes absent;
 
-oblongoïdes, déhiscentes par des fentes longitudinales ; disque annulaire, parfois absent ;
+ovary 2-locular, glabrous; style filiform, glabrous, stigma discoid-capitate, bilobed. Fruits:
 
-ovaire 2-loculaire, glabre ; style filiforme, glabre, stigmate discoïde-capité, bilobé. Fruits :
+spherical berries, enclosed in the accrescent enlarged calyx, urceolate, generally with
 
-baies sphériques, enfermées dans le calice accrescent élargi, urcéolé, généralement à ner-
+prominent reticulate and coloured veins, with numerous seeds. Seeds flattened, circular to
 
-vures réticulées saillantes et colorées , à nombreuses graines. Graines aplaties, circulaires à
+reniform; embryo curved.
 
-réniformes ; embryon courbé.
+Genus comprising between 75 and 100 species, mainly originating from the New World and diversified
 
-Genre comprenant entre 75 et 100 espèces, surtout originaire du Nouveau Monde et diversifié
+in Central America (Mexico); a few species cultivated throughout the world and naturalized
 
-en Amérique Centrale (Mexique) ; quelques espèces cultivées dans le monde entier et naturali -
+in all tropical regions. In Gabon, the genus comprises 2 introduced species.
 
-sées dans l’ensemble des régions tropicales. Au Gabon, le genre compte 2 espèces introduites.
+B: Barbosa et al. (2016), Bikandu et al. (2020), Edmonds (2012), Heine (1963), Hunziker
 
-B : Barbosa et al. (2016), Bikandu et al. (2020), Edmonds (2012), Heine (1963), Hunziker
-
-i B liographie
+Bibliography
 
 (2001), Waterfall (1967).
 
 ---
 
-### Clé des espèces
+### Key to species
 
-1. - Calice en fleur < 5 mm de longueur, à lobes < 3 mm de longueur ; plante glabres -
+1. - Calyx in flower < 5 mm in length, lobes < 3 mm in length; plant glabrescent to
 
-cente à éparsement pubescente ; corolle blanche, crème à jaune-orange ou pourpre
+sparsely pubescent; corolla white, cream to yellow-orange or pale purple with
 
-pâle à face interne tachetée de vert pâle ou de brun au centre .................... P. angulata
+internal face spotted with pale green or brown at the centre .................... P. angulata
 
-- Calice en fleur 5–10 mm de longueur, à lobes de 3,5–6 mm de longueur ; plante for -
+- Calyx in flower 5–10 mm in length, lobes 3.5–6 mm in length; plant strongly
 
-tement pubescente ; corolle jaune ou jaune verdâtre à face interne avec 5 grandes
+pubescent; corolla yellow or yellowish-green with internal face with 5 large
 
-taches foncées au centre ............................................................................ P. peruviana
+dark spots at the centre ............................................................................ P. peruviana
 
 ## Species in region
 

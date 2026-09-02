@@ -16,25 +16,21 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+in COTHENIUS, Disp. : 1 (Jan.–May 1790); Schr. Berlin. Ges. Naturf. Fr. 10 (= Beob. Berlin. Ges. etc. 4) : 51 (June–Aug. 1790); Sp Pl. 1 : 18 (1797). — DE CANDOLLE, Prod. 9 : 22 (1845). — HOOKER, Icon. 8 : t. 795 (1848). — SOLEREDER in ENGLER & PRANTL, Nat. Pflanzenf. 4 (2) : 36 (1892). — FTA 4 (1) : 517. — FWTA ed. 1, 2 : 24. — LEEUWENBERG & STAFLEU, Taxon 10 : 212 (1961). — LEEUWENBERG, Act. Bot. Neerl. 12 : 112 (1963). — FWTA ed. 2, 2 : 46. — non MEDIKUS, Act. Theod. Palat. Phys. 6 : 480 (Mar.–May 1790) (= Endymion Dum. or Scilla L., p.p., Liliacea).
 
-in COTHENIUS, Disp. : 1 (janv.-mai 1790); Schr. Berlin. Ges. Naturf. Fr. 10 (= Beob. Berlin. Ges. etc. 4) : 51 (juin-août 1790); Sp Pl. 1 : 18 (1797). — DE CANDOLLE, Prod. 9 : 22 (1845). — HOOKER, Icon. 8 : t. 795 (1848). — SOLEREDER in ENGLER & PRANTL, Nat. Pflanzenf. 4 (2) : 36 (1892). — FTA 4 (1) : 517. — FWTA ed. 1, 2 : 24. — LEEUWENBERG & STAFLEU, Taxon 10 : 212 (1961). — LEEUWENBERG, Act. Bot. Neerl. 12 : 112 (1963). — FWTA ed. 2, 2 : 46. — non MEDIKUS, Act. Theod. Palat. Phys. 6 : 480 (mars-mai 1790) (= Endymion Dum. ou Scilla L., p.p., Liliacea).
+Climbing and twining shrubs or lianes, 0.60–12 (–30) m tall; stems cylindrical, glabrous.
 
-Arbustes grimpants et volubiles ou lianes, de 0,60-12 (-30) m de hauteur; tiges cylindriques, glabres.
+Leaves opposite, equal in each pair, shortly petiolate; blade ± orbicular to elliptic, entire, glabrous on both surfaces; stipules reduced to an interpetiolar rim.
 
-Feuilles opposées, égales dans chaque paire, brièvement pétiolées; limbe ± orbiculaire à elliptique, entier, glabre sur les deux faces; stipules réduites à un rebord interpétiolaire.
+### Terminal inflorescences, ± dichasial, many-flowered.
 
-### Inflorescences terminales,  $ \pm $ dichasiales, multiflores.
+Flowers with pale green, pale yellow or cream calyx, often with small purple dots when dried; sepals 4, of which 3 very small and triangular and 1 much longer and narrowly oblong. Corolla lilac, mauve, violet, purple or white, often with yellow tint on the lobes, often with small purple dots when dried, narrowly tubular, puberulent without, like the calyx; tube cylindrical; lobes 4, subequal, valvate, spreading, narrowly triangular, acute, entire. Stamen 1, exserted, inserted near the corolla throat; anther elliptic, with 2 separate locules. Ovary superior, glabrous, globose or nearly so, 2-locular; style filiform, glabrous, exsert; stigma very small; one entire placenta with numerous ovules per locule.
 
-Fleurs à calice vert pâle, jaune pâle ou crème, souvent avec petits points pourpres à l'état desséché; sépales 4, dont 3 très petits et triangulaires et 1 beaucoup plus long et étroitement oblong. Corolle lilas, mauve, violette, pourpre ou blanche, souvent avec teinte jaune sur les lobes, souvent avec petits points pourpres à l'état desséché, étroitement tubulaire, pubérulente à l'extérieur, comme le calice; tube cylindrique; lobes 4, subégaux, valvaires, étalés, étroitement triangulaires, aigus, entiers. Étamine 1, exserte, insérée près de la gorge de la corolle; anthère elliptique, à 2 loges séparées. Ovaire supère, glabre, globuleux ou presque, à 2 loges; style filiforme, glabre, exsert; stigmate très petit; un placenta entier avec nombreux ovules par loge.
+Fruit capsular, oblong dark brown, 2-valved, septicidal, with several seeds. Seeds flat, dark brown, ellipsoid, surrounded by a broad wing.
 
-Fruits capsulaires, oblongs brun foncé, 2-valvaire, septicides, avec plusieurs graines. Graines plates, brun foncé, ellipsoïdes, entourées par une aile large.
+TYPE SPECIES: Usteria guineensis Willd.
 
-ESPÈCE-TYPE : Usteria guineensis Willd.
-
-Une seule espèce en Afrique occidentale et équatoriale.
-
----
+One species only in West and equatorial Africa.
 
 ## Species in region
 

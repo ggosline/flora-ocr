@@ -17,37 +17,36 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Large deciduous trees with slender cylindrical boles bearing winged buttresses. Shoots and young leaves clothed with stellate hairs. Stipules caducous. Petioles with early development in young leaves. Leaf blade entire. Veins palmately basilar.
 
-Grands arbres caducifoliés à fût élancé cylindrique à contreforts ailés. Extrémités et jeunes pousses vêtues de poils stellés. Stipules caduques. Pétioles à développement hâtif dans les jeunes feuilles. Limbe entier. Nervures basilaires palmées.
+Inflorescences in spiciform racemes with sinuous rachis. Flowers polygamous. Calyx fleshy with 5-10 free lobes, with valvate prefloration, lacking thinned margins. Corolla absent.
 
-Inflorescences en grappes spiciformes à rachis sinueux. Fleurs polygames. Calice charnu à 5-10 lobes libres, à préfloraison valvaire, dépourvus de marge amincies. Corolle absente.
+Staminate flower with slender staminal column. Crown uniseriate with pollen sacs more or less regularly arranged. Pistillate flower with anthers surrounding the base of the ovary; 3-5 pubescent carpels, weakly coherent, attenuated into free styles each terminated by a punctiform extrorse stigma.
 
-Fleur ♂ à colonne staminale grêle. Couronne unisériées de loges polliniques plus ou moins régulièrement disposées. Fleur ♀ à anthères entourant la base de l'ovaire; 3-5 carpelles velus, peu adhérents, atténués en styles libres terminés chacun par un stigmate ponctiforme extrorse.
+Fruits with large dehiscent follicles, persistent until after seed fall. Seeds numerous, winged, flat, albuminous, stacked and imbricate in a double row. Wing opposite to the hilum.
 
-Fruits à gros follicules déhiscents, persistants jusqu'après la chute des graines. Graines nombreuses, ailées, plates, albuminées, empilées et imbriquées en une double rangée. Aile opposée au hile.
+The genus Pterygota is related to Sterculia, and even more so to the genus Eribroma, through its wood, its follicles, its albumen-bearing seeds, and despite its androecium of the same type as that of Cola. The wing and the superficial teguments of the cotyledonary part of the seed are composed of lacunose tissue appearing to be of the same nature as the yellowish superficial teguments of Eribroma oblonga.
 
-Le genre Pterygota est apparenté aux Sterculia, et plus encore au genre Eribroma, par son bois, ses follicules, ses graines à albumen, et malgré son androcée du même type que celui des Cola. L'aile et les légums superficiels de la partie cotylédonée de la graine sont composés d'un tissu lacuneux paraissant de même nature que les légums superficiels jaunâtres d'Eribroma oblonga.
+Pterygota comprises about a dozen tropical species inhabiting Africa, Asia, and Oceania. Only two species are known from Gabon; it is appropriate to mention a third species liable to be discovered in the less humid zones of northern Gabon, Pt. macrocarpa K. Schum.
 
-Les Pterygota comprennent une douzaine d'espèces tropicales habitant l'Afrique, l'Asie et l'Océanie. Deux espèces seulement sont connues au Gabon; il convient de signaler une troisième espèce susceptible d'être découverte dans les zones les moins humides du Nord Gabon, le Pt. macrocarpa K. Schum.
-
-Le type du genre est le Pt. roxburghii Sch. et Endl., d’Asie.
+The type of the genus is Pt. roxburghii Sch. et Endl., from Asia.
 
 ---
 
-### CLÉ DES ESPÈCES PAR LES FEUILLES
+### KEY TO SPECIES BY LEAVES
 
-1. Limbe assez régulièrement ovale à base obtuse ou arrondie; 3-5 nervures basiliaires; env. 3 paires de nervures pennées non basiliaires; poils stellés très ras, peu distincts sur les extrémités et les pétioles
-
+1. Blade fairly regularly oval with obtuse or rounded base; 3-5 basilar nerves; approximately 3 pairs of non-basilar pinnate nerves; stellate hairs very sparse, poorly distinct on shoots and petioles.....
 1. Pt. augouardii.
 
-1'. Limbe assez largement ové ou orbiculaire, à base tronquée ou cordée.
+1'. Blade fairly broadly ovate or orbicular, with truncate or cordate base.
 
-2. Nervures basiliaires 5, rarement 7; env. 4-5, rarement 3 paires de nervures pennées non basiliaires; poils stellés formant un feutrage bien apparent sur les extrémités et les jeunes feuilles; base du limbe subtronquée à cordée..... 2. Pt. bequaertii.
+2. Basilar nerves 5, rarely 7; approximately 4-5, rarely 3 pairs of non-basilar pinnate nerves; stellate hairs forming a well-apparent tomentum on shoots and young leaves; base of blade subtruncate to cordate.....
+2. Pt. bequaertii.
 
-2'. Nervures basiliaires 7, parfois 9; env. 3-4 paires de nervures pennées non basiliaires; poils en écailles stellées appliqués sur les extrémités et les jeunes feuilles; base du limbe plus ou moins profondément cordée ..... Pt. macrocarpa.
+2'. Basilar nerves 7, sometimes 9; approximately 3-4 pairs of non-basilar pinnate nerves; hairs in stellate scales applied on shoots and young leaves; base of blade more or less deeply cordate.....
+Pt. macrocarpa.
 
-### CLÉ DES ESPÈCES PAR LES FLEURS ET INFLORESCENCES
+### KEY TO SPECIES BY FLOWERS AND INFLORESCENCES
 
 ## Species in region
 

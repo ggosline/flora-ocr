@@ -17,57 +17,21 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Perennial or annual herbs with linear or linear-lanceolate leaves, often plicate between the nerves. Spiciform panicles with solitary spikelets or in glomerate clusters, or looser inflorescences with elongate branches. Pedicels furnished with persistent hairs forming an involucre around the spikelets. Spikelets oblong, convex on the back, unequal glumes, the lower one very small, most often with 3 or 5 nerves, the upper one with 5 or 7 nerves, the same size as the spikelet. Lower floret male or neuter, lemma of the same size as the spikelet generally with 5 nerves; palea of the same length, keeled, or more or less reduced or absent. Upper floret hermaphrodite, lemma convex on the back, apiculate, coriaceous and very often transversely rugose. Palea of the same length, equally coriaceous and covered laterally by the margins of the lemma. Two lodicules, three stamens, distinct styles.
 
-Herbes pérennes ou annuelles à feuilles linéaires ou linéaires-
+A very important genus comprising in tropical Africa essentially savane grasses and fallow forest herbs. A certain number of the former are excellent forage species. Three species have been collected in Gabon; the presence of a fourth is very probable.
 
-lancéolées et alors souvent plissées entre les nervures.
+1. Forest herbs or herbs of shaded places, inflorescences in loose panicles, spikelets each accompanied by a single bristle. Leaves plicate longitudinally between the nerves.
 
-Panicules spéciformes déses d'épillets solitaires ou en glomé-
+2. Robust perennial herbs erect, exceeding 1 m in height and with leaves more than 2 cm wide; panicles several decimetres in height..... 1. S. megaphylla.
 
-rules, ou inflorescences plus lâches à branches allongées. Pédicelles
+2'. Annual plants with prostrate base, less than 1 m in height; leaves less than 2 cm wide, panicles about fifteen centimetres long..... 2. S. aequalis.
 
-munis de poils persistants formant involucre autour des épillets.
+1'. Savane herbs or marsh zone herbs with narrow linear leaves not plicate longitudinally. Bristles forming an involucre at the base of the spikelets; inflorescence spiciform dense and continuous.
 
-Épilets oblongs, convexes sur le dos, glumes inégales, l'inférieure
+3. Culms compressed at the base and lower leaf sheaths flabellate-imbricate; inflorescence 10 to 25 cm long; spikelets 2 mm, with an involucre of 7 to 10 tawny bristles 4 to 5 mm long; herb of marshy ground..... 3. S. anceps.
 
-très petite, le plus souvent à 3 ou 5 nervures, la supérieure à 5 ou
-
-7 nervures, de la même taille que l'épillet. Fleur inférieure mâle ou
-
-neutre, lema de la même taille que l'épillet généralement à 5 nervures
-
-; paléa de même longueur, carénée, ou plus ou moins réduite
-
-ou nulle. Fleur supérieure hermaphrodite, lemma convexe sur le
-
-dos, apiculée, coriace et très souvent transversalement rugueuse.
-
-Lemma de même longueur, également coriace et recouverte latéralement par les rebords de la lemma. Deux lodicules, trois étamines, styles distincts.
-
-Genre très important comportant en Afrique tropicale essentiellement des herbes de savane et de jachères forestières. Un certain nombre des premières sont d'excellentes espèces fourragères. Trois espèces ont été récoltées au Gabon; la présence d'une quatrième est très probable.
-
-1. Herbes forestières ou d'endroits ombragés, inflorescences en panicules
-
-lâches, épilets accompagnés chacun d'une seule soie. Feuilles
-
-plissées longitudinalement entre les nervures.
-
-2. Fortes plantes pérennes dressées, dépassant 1 m de haut et à feuilles de plus de 2 cm de large; panicules de plusieurs déci-mètres de haut..... 1. S. megaphylla.
-
-2'. Plantes annuelles à base prostrée, de moins de 1 m de haut;
-
----
-
-feuilles de moins de 2 cm de large, panicules d'une quinzaine
-
-de centimètres de long..... 2. S. aequalis.
-
-1'. Herbes de savane ou de zones marécageuses à feuilles liénaires étroites non plissées longitudinalement. Soies formant un involucre à la base des épillets; inflorescence spiciforme dense et continue.
-
-3. Chaumes comprimés à la base et gaines foliaires inférieures flabellées-imbriquées; inflorescence de 10 à 25 cm de long; épilles de 2 mm, avec un involucre de 7 à 10 soies fauves de 4 à 5 mm de long; herbe de terrain marécageux..... 3. S. anceps.
-
-3'. Chaumes inférieurs comprimés, mais gaines foliaires non comme ci-dessus; inflorescence jusqu'à 40 cm de long; épilets de 2 à 3 mm; involucre de 6 à 10 soies de 4 à 8 mm de long, jaunes ou rouges ..... 4. S. sphacelata.
+3'. Lower culms compressed, but leaf sheaths not as above; inflorescence up to 40 cm long; spikelets 2 to 3 mm; involucre of 6 to 10 bristles 4 to 8 mm long, yellow or red..... 4. S. sphacelata.
 
 ## Species in region
 

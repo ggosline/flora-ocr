@@ -17,11 +17,9 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Leafless epiphyte. Stem very short. Roots numerous, flattened. Inflorescence uniflorous. Flowers rather large, resupinate. Sepals and petals dissimilar, glabrous. Lateral sepals forming a prominent mentum with the foot of the column. Labellum entire, with numerous thickened and branched nerves. Spur narrowly conical, prominent. Gynostemium with two wings descending towards the foot where they are fused to the margins of the spur throat. Foot of the column prominent. Rostellum ligulate. Viscidium unique, obovate. Tegula split into two lobes in the apical third, and then widened, cupuliform, the lower part linear, thin, lamellose. – Pl. 175, p. 381.
 
-Épiphyte aphylle. Tige très courte. Racines nombreuses, aplaties. Inflorescence uniflore. Fleurs assez grandes, résupinées. Sépales et pétales dissemblables, glabres. Sépales latéraux formant un mentum saillant avec le pied de la colonne. Labelle entier, avec de nombreuses nervures épaissies et ramifiées. Éperon étroitement conique, saillant. Gynostème avec deux ailes descendant vers le pied où elles sont soudées aux marges de la gorge de l'éperon. Pied de la colonne saillant. Rostellum ligulé. Viscidie unique, obovale. Tegula fendue en deux lobes dans le tiers apical, et alors élargie, cupuliforme, la partie inférieure linéaire, mince, lamellée. – Pl. 175, p. 381.
-
-Genre monospécifique, connu jusqu'ici d'Afrique centrale.
+Monotypic genus, known hitherto from Central Africa.
 
 ## Species in region
 

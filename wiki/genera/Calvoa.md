@@ -17,27 +17,25 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Perennial herbs subwoody, or shrublets, often crassulescent, furfuraceous or glabrescente, rarely setulose (C. hirsuta); branches 4-angular or rounded, sometimes nodes thickened and verrucose. Leaves subsessile or petiolate, linear to broadly ovate.
 
-Herbes pluriannuelles subligneuses, ou arbrisseaux, souvent crassulescents, furfuracés ou glabrescents, rarement sétuleux (C. hirsuta); rameaux 4-angulaires ou arrondis, parfois nœuds épaissis et verruqueux. Feuilles subsessiles ou pétiolées, linéaires à largement ovales.
-
-Cymes scorpioides, simples ou bifurquées une à plusieurs fois. Fleurs 5-mères, sessiles ou brièvement pédicellées; hypanthe campanulé ou obconique à cylindracé, ± côtelé; calice subentier et lobes dentiformes, ou triangulaires et souvent carénés. Pétales obovales ou oblongs, dissymétriques, souvent adhérents par la base. Étamines brachymorphes, concolores, égales, ou les externes un peu plus longues, homomorphes ou l'appendice antérieur légèrement différent; anthères oblongues, ± allantoïdes; pédoconnectif court, aplat, souvent brusquement arqué, appendice antérieur généralement squamiforme, obtus ou tronqué sur le verticille externe, plus développé, plus large, scutelliforme et ± denticulé sur le verticille interne; éperon situé vers le milieu du pédoconnectif; filets aplatis, souvent adhérents à leur insertion sur les pétales. Ovaire adhérent sauf au sommet qui est concave avec une couronne épigyne entière ou 5-lobée en rapport
+Scorpioid cymes, simple or bifurcate one to several times. Flowers 5-merous, sessile or shortly pedicellate; hypanthium campanulate or obconic to cylindrical, ± ribbed; calyx nearly entire with tooth-like lobes, or triangular and often keeled. Petals obovate or oblong, asymmetric, often adhering at the base. Stamens brachymorphic, concolorous, equal, or the external ones somewhat longer, homomorphic or the anterior appendage slightly different; anthers oblong, ± allantoid; pedicel-connective short, flattened, often suddenly curved, anterior appendage generally squamiform, obtuse or truncate on the external whorl, more developed, wider, scutelliform and ± denticulate on the internal whorl; spur situated towards the middle of the pedicel-connective; filaments flattened, often adhering at their insertion on the petals. Ovary adnate except at the apex which is concave with an entire or 5-lobed epigynous crown in relation
 
 ---
 
-avec la déhiscence. Style court,  $ \pm $ sigmoide, épaissi dans sa partie moyenne; stigmate capité; placentas linéaires, sessiles ou protubérants.
+to the dehiscence. Style short, ± sigmoid, thickened in its middle part; stigma capitate; placentas linear, sessile or protruding.
 
-Fruit à paroi souvent épaissie, aérifère, 5-10 cannelée; calice marcescent, puis caduc, rarement persistant (C. orientalis); couronne épigyne accrescente, coriace et exserte, plus rarement incluse; déhiscence loculicide, ou parfois loculicide et septicide (C. trochainii). Graines ovoïdes ou oblongues, ± appendiculées par le raphé et le funicule. Nombre chromosomesique (C. monticola) : n = 27 (FAVARGER).
+Fruit with wall often thickened, air-filled, 5-10 ribbed; calyx marcescent, then deciduous, rarely persistent (C. orientalis); epigynous crown accrescent, coriaceous and exserted, more rarely included; dehiscence loculicidal, or sometimes loculicidal and septicide (C. trochainii). Seeds ovoid or oblong, ± appendiculate by the raphe and funicle. Chromosome number (C. monticola): n = 27 (FAVARGER).
 
-ESPÉCE-TYPE : Calvoa sinuata Hook. f., île Principe.
+TYPE SPECIES: Calvoa sinuata Hook. f., Príncipe Island.
 
-Genre africain, très distinct parmi les Sonérilées, surtout diversifié dans l'Ouest. Les espèces, peu compétitives, sont parfois épiphytes ou localisées dans les clairières marécageuses et les stations rupestres intra-forestières. Le matériel du Gabon étant insuffisant, nous citons quelques espèces connues des territoires voisins et dont la présence au Gabon est probable.
+African genus, very distinct among the Sonerileae, especially diversified in the West. The species, poorly competitive, are sometimes epiphytic or localized in swampy clearings and intra-forest rocky stations. The material from Gabon being insufficient, we cite a few species known from neighboring territories and whose presence in Gabon is probable.
 
-1. Plante sétuleuse, y compris sur l'hypanthe. Cymes contractées; fruits cylindracés, écailles saillantes; souvent épiphyte ..... 1. C. hirsuta.
+1. Plant setulose, including on the hypanthium. Cymes contracted; fruits cylindrical, with prominent scales; often epiphytic ..... 1. C. hirsuta.
 
-1'. Plantes glabrescentes, ou seulement furfuracées sur les parties jeunes.
+1'. Plants glabrescente, or only furfuraceous on the young parts.
 
-2. Fruit pédicellé, étroitement obconique, sans écailles saillantes. Déhiscent sur toute sa hauteur; graines appendiculées aux 2 extrémités; souvent épiphyte ..... 2. C. trochainii.
+2. Fruit pedicellate, narrowly obconic, without prominent scales. Dehiscent over its entire height; seeds appendiculate at both extremities; often epiphytic ..... 2. C. trochainii.
 
 ## Species in region
 

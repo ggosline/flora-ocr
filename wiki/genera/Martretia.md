@@ -17,37 +17,15 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Trees or shrubs. Stipules entire. Leaves without glands; lamina with entire margin.
 
-Arbres ou arbustes . Stipules entières. Feuilles sans glandes ; limbe à marge entière.
+Inflorescences axillary, sometimes on old branches. Flowers unisexual or rarely the female flower with a few stamens, most often dioecious, 4–8-merous; sepals imbricate; petals and disc absent. Male flowers: stamens ± free, anthers with connectif slightly prominent; pistillode present. Female flowers with 4–7 sepals; staminodes generally present; ovary 2-locular, with 2 ovules per locule, becoming 4-locular with one ovule (seed) per locule; styles 2, fused at the base. Fruit capsular, separating into 4 one-seeded cocci.
 
-Inflorescences axillaires, parfois sur les branches âgées. Fleurs unisexuées ou rarement
+Genus of West and Central Africa with one species.
 
-la fleur femelle avec quelques étamines, le plus souvent dioïques, 4–8-mères ; sépales
+Taxonomic note: Contrary to the description of Léonard (1989), the disc of the female flower is absent. The 5–6 minute free glands are in reality very reduced staminodes.
 
-imbriqués ; pétales et disque absents . Fleurs mâles : étamines ± libres, anthères à
-
-connectif légèrement proéminent ; pistillode présent. Fleurs femelles à 4–7 sépales ;
-
-staminodes en général présents ; ovaire 2-loculaire , à 2 ovules par loge, devenant
-
-4-loculaire s à un ovule (graine) par loge ; styles 2, soudés à la base. Fruit capsulaire, se
-
-séparant en 4 coques uniséminées .
-
-Genre de l’Afrique de l’Ouest et Centrale à une espèce.
-
-Note taxonomique : Contrairement à la description de Léonard (1989), le disque de la
-
-fleur femelle est nul. Les 5–6 minuscules glandes libres sont en réalité des staminodes
-
-très réduits.
-
-b : Léonard (1989), Pax & Hoffman (1922), Radcliffe-Smith (2001).
-
-ibliographie
-
----
+Bibliography: Léonard (1989), Pax & Hoffman (1922), Radcliffe-Smith (2001).
 
 ## Species in region
 

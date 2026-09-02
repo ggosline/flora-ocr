@@ -16,15 +16,13 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Rhizome long-creeping, covered with thick, black hairs. Petiole violet, glossy. Frond with continuous growth, bearing reduced pinnules, stipuliform, at the base of the pinnae. Veins reticulate.
 
-Rhizome longuement rampant, couvert de poils épais, noirs. Pétiole violacé, brillant. Fronde à croissance continue, portant des pinnules réduites, stipuliformes, à la base des pennes. Nervures réticulées.
+### Sori continuous, protected by the reflexed margin of the lamina, without internal indusium.
 
-### Sores continu, protégés par la marge réfléchie du limbe, sans indusie interne.
+Type species: Histopteris incisa (Thbg.) J. Smith.
 
-Espèce type : Histopteris incisa (Thbg.) J. Smith.
-
-8 espèces, pantropicales, une au Gabon et au Cameroun.
+8 species, pantropical, one in Gabon and Cameroon.
 
 ## Species in region
 

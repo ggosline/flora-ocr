@@ -17,23 +17,21 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Trees or shrubs, without scales or stipitate glands.
 
-Arbres ou arbustes, sans écailles ni glandes stipitées.
+Leaves opposite or subopposite.
 
-Feuilles opposées ou subopposées.
+Flowers 4–5 merous, bisexual and male on the same inflorescence, the males being situated towards the base of it. Receptacle superior of the bisexual flower, campanulate and connected to the inferior receptacle by a thinner region imitating a pedicel. The male flower, devoid of a distinct inferior receptacle, shows a superior receptacle similar to the bisexual flower. Petals 4 or 5. Stamens 8 or 10.
 
-Fleurs 4-5 mères, bisexuées et mâles sur la même inflorescence, les mâles étant situées vers la base de celle-ci. Réceptacle supérieur de la fleur bisexuée, campanulé et relié au réceptacle inférieur par une région plus mince imitant un pédicelle. La fleur mâle, dépourvue de réceptacle inférieur net, montre un réceptacle supérieur semblable à la fleur bisexuée. Pétales 4 ou 5. Étamines 8 ou 10.
+Fruit dry, 2–5 winged.
 
-Fruit sec, 2-5 ailé.
+The genus comprises about ten species in Africa, of which only one is
 
-Le genre compte une dizaine d’espèces en Afrique, dont une seule pré-
-
-sente au Gabon.
+present in Gabon.
 
 ---
 
-PL. 26. – Laguncularia racemosa (L.) Gaertner : A, rameau avec des fleurs et des jeunes fruits ; B, feuille, face inférieure avec des glandes submarginales × 3 ; C, idem, détail d'une glande × 12,5 ; D, fleur × 6 ; E, fleur, coupe longitudinale × 6 ; F, pétales et étanines × 12,5 ; G, fruit × 2 ; H, fruit, coupe longitudinale × 3 ; I, fruit, coupe transversale × 3 (A, Leeuwenberg 6925 ; B, C, Breyne 1942 ; D, E, Welwitsch 4347 ; F, Broadway s.n. ; G-I, Lewalle 8000). – Dessins de M. ALLARD reproduits avec l'autorisation du Département des Spermatophytes et Ptéridophytes du Jardin Botanique National de MEISE (Belgique).
+PL. 26. – Laguncularia racemosa (L.) Gaertner : A, branch with flowers and young fruits ; B, leaf, lower surface with submarginale glands × 3 ; C, same, detail of a gland × 12.5 ; D, flower × 6 ; E, flower, longitudinal section × 6 ; F, petals and stamens × 12.5 ; G, fruit × 2 ; H, fruit, longitudinal section × 3 ; I, fruit, cross section × 3 (A, Leeuwenberg 6925 ; B, C, Breyne 1942 ; D, E, Welwitsch 4347 ; F, Broadway s.n. ; G–I, Lewalle 8000). – Drawings by M. ALLARD reproduced with the permission of the Department of Spermatophytes and Pteridophytes of the National Botanical Garden of MEISE (Belgium).
 
 ---
 

@@ -17,11 +17,9 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Epiphytic, lithophytic or terrestrial plants, rather large. Pseudobulbs fasciculate, fusiform, wrinkled when old. Leaves at the apex of pseudobulbs, large, plicate. Inflorescence axillary, at the apex of pseudobulbs. Flowers showy. Sepals and petals spreading, similar in size, shape and colour. Labellum without spur. Gynostemium slender, arcuate. Pollinia 2, flattened dorsiventrally, ellipsoid, forked. Stigma entire, deeply concave. Rostellum short, truncate, broad. Tegula short and very broad, thin. Viscidium crescent-shaped, very narrow yet broad, sticky. – Pl. 134, p. 305.
 
-Plantes épiphytes, lithophytes ou terrestres, plutôt grandes. Pseudobulbes fasciculés, fusiformes, ridés quand ils sont vieux. Feuilles au sommet des pseudobulbes, grandes, plissées. Inflorescence axillaire, au sommet des pseudobulbes. Fleurs voyantes. Sépales et pétales étalés, de taille, de forme et de couleur semblables. Labelle sans éperon. Gynostème grêle, arqué. Pollinies 2, aplaties dorsiventralement, ellipsoïdes, fourchues. Stigmate entier, profondément concave. Rostellum court, tronqué, large. Tegula courte et très large, mince. Viscidie en forme de croissant, très étroit mais large, collant. – Pl. 134, p. 305.
-
-### Genre monotypique largement distribué en Afrique tropicale et australe.
+### Monotypic genus widely distributed in tropical and southern Africa.
 
 ## Species in region
 

@@ -17,41 +17,37 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Herbaceous plants or undershrubs. Petiole winged. Leaves simple, cordate.
 
-Plantes herbacées ou sous-arbrisseaux. Pétiole ailé. Feuilles simples, cordiformes.
-
-Inflorescences en panicules, grappes ou épis munis de bractées; fleurs rouges ou violettes. Calice à 5 sépales, le supérieur plus long que les autres. Corolle à tube court, épais, à pli transversal, à limbe bilabéi, à lèvre supérieure falciforme bifide; lèvre inférieure trifide. 2 étamines, ou 4 étamines dont les antérieures stériles; staminodes plus courts, anthères fertiles à 2 loges paralèles, mutiques. Disque annulaire. Ovaire multioulé; style non exsert à 2 lobes inégaux.
+Inflorescences in panicles, racemes or spikes furnished with bracts; flowers red or violet. Calyx with 5 sepals, the upper one longer than the others. Corolla with short, thick tube, with transverse fold, with bilabiate limb, with upper lip falciform bifid; lower lip trifid. 2 stamens, or 4 stamens of which the anterior ones sterile; staminodes shorter, fertile anthers with 2 parallel locules, muticous. Annular disk. Ovary multilocular; style not exsert with 2 unequal lobes.
 
 ---
 
-Capsule linéaire, tétragone, à 2 loges oligospermes. 6-8 graines par fruit.
+Linear capsule, tetragonous, with 2 oligospermatous locules. 6-8 seeds per fruit.
 
-Espèce type : B. ovariensis P. Beauv., du Nigeria.
+Type species: B. ovariensis P. Beauv., from Nigeria.
 
-Environ 20 espèces de Madagascar et d'Afrique tropicale.
+Approximately 20 species from Madagascar and tropical Africa.
 
-1. Plantes absolument glabres sauf les pédicelles et calices, rarement les pédoncules; limbe des feuilles obovale-acuminé, entier, obtusément crénélé; pétiole ailé..... I. B. Soyauxii.
+1. Plants absolutely glabrous except for the pedicels and calyces, rarely the peduncles; limb of leaves obovate-acuminate, entire, obtusely crenulate; petiole winged..... 1. B. Soyauxii.
 
-1'. Plantes régulièrement poilues, surtout les tiges et les inflorescences; les feuilles et les parties inférieures de la plante sont ± glabrescentes chez quelques espèces :
+1'. Plants regularly hairy, especially the stems and inflorescences; the leaves and lower parts of the plant are ± glabrescent in some species:
 
-2. Limbe des feuilles lancéolé, ou ovale-lancéolé, entier ou un peu cré-
+2. Limb of leaves lanceolate, or ovate-lanceolate, entire or somewhat crenulate, long-decurrent into the petiole..... 2. B. lancifolia.
 
-nelé, longuement décurrent dans le pétiole..... 2. B. lancifolia.
+2'. Limb of leaves ± broadly ovate; leaves petiolate.
 
-2'. Limbe des feuilles ± largement ovale; feuilles pétioées.
+3. Limb of leaves entire or obscurely crenulate.
 
-3. Limbe des feuilles entier ou obscurément crénelé.
+4. Limb of leaves rounded at base, variable, broadly ovate, acuminate, hairy on both faces; petiole not or very slightly winged, hairy; panicle lax; calyx segments linear, 8–10 mm; with some glandular hairs; corolla violet
 
-4. Limbe des feuilles arrondi à la base, variable, largement ovale, acuminé, poilu sur les deux faces; pétiole non ou très légèrement ailé, poilu; panicule lache; segments du calice linéaire, de 8-10 mm; avec quelques poils glanduleux; corolle violette
+4'. Limb of leaves rounded and decurrent into the winged petiole; inflorescence in a spike; corolla white..... 4. B. verruculosa.
 
-4'. Limbe des feuilles arrondi et décurrent dans le pétiole aile; inflorescence en épi; corolle blanche..... 4. B. verruculosa.
+3'. Limb of leaves denticulate, narrowed at base and decurrent into the winged petiole.
 
-3'. Limbe des feuilles denticulé, rétréci à la base et décurrent dans le pétiole ailé.
+5. Petiole briefly, or sometimes scarcely winged toward the base of the limb; base of limb rounded or truncate..... 5. B. Vogeliana.
 
-5. Pétiole brièvement, ou parfois à peine ailé vers la base du limbe base du limbe arrondie ou tronquée..... 5. B. Vogeliana.
-
-5'. Pétiole ailé ± jusqu'à la base; limbe des feuilles, surtout les inférieures, longuement cuné à la base..... 6. B. patula.
+5'. Petiole winged ± to the base; limb of leaves, especially the lower ones, long-cuneate at base..... 6. B. patula.
 
 ## Species in region
 

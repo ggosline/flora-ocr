@@ -17,23 +17,17 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Robust lianes, sarmentose, climbing; aerial system almost entirely annual; perennial rootstock with root system often tuberized; tendrils always present, branched; stipules present, rapidly caducous. Leaves alternate, simple or digitately compound, entire or more or less deeply lobed, petiolate, sometimes very large, with palmatipinnate venation, with denticulate margins. Inflorescences generally large, multiflorous, in panicles, cymes or glomerules, always accompanied by a tendril, pedunculate, provided with bracts.
 
-Fortes lianes, sarmenteuses, grimpantes; appareil aérien presque entièrement annuel; souche pérenne à système radiculaire souvent tubérisé; vrilles toujours présentes, ramifiées; stipules présentes, rapidement caduques. Feuilles alternes, simples ou composées digitées, entières ou plus ou moins profondément lobées, pétiolées, de taille parfois très grande, à nervation palmatipennée, à marges denticulées. Inflorescences généralement grandes, multiflores, en panicules, cymes ou glomérules, toujours accompagnées d'une ville, pédonculées, pourvues de bractées.
+Flowers pentamerous, hermaphrodite, small, pedicellate. Calyx cupuliform, entire or with 5 valvate lobes. Corolla globose ovoid, regular, rounded at the apex. Petals valvate, distinctly cucullate on the interior at the apex, reflexed at anthesis and separately caducous. Stamens inserted on the receptacle at the base of the disk; filaments erect, anthers introrse, dorsifixed, lodged in the petaline cucullae before anthesis; connective somewhat thickened. Disk entire, completely surrounding the ovary, weakly lobed. Ovary included in the disk, with two locules separated by an incomplete septum cleft in the middle along its entire height; two ovules per locule; style very thick, very short, cylindric; stigma indistinct depressed at the apex.
 
-Fleurs pentamères, hermaphrodites, de petite taille, pédicelles. Calice cupuliforme, entier ou à 5 lobes valvaires. Corolle globuleuse ovoïde, régulière, arrondie au sommet. Pétales valvaires, nettement cucullés intérieurement au sommet, réfléchis à l'anthèse et séparément caducs. Étamines insérées sur le réceptacle à la base du disque; filets dressés, anthères introrses, dorsifixes, logées dans les cuculles pétalaires avant l'anthèse; connectif un peu épaissi. Disque entier, entourant complètement l'ovaire, faiblement lobé. Ovaire inclus dans le disque, à deux loges séparées par une cloison incomplète fendue au milieu sur toute sa hauteur; deux ovules par loges; style très épais, très court, cylindrique; stigmate indistinct déprimé au sommet.
+Fleshy berries with 2-4 seeds; seeds naviculate, compressed anteroposteriorly, marked with a fossa on the back and two broad sulci on the ventral face, T-shaped in transverse section¹.
 
-Baies charnues à 2-4 graines; graines naviculées, comprimées d'avant en arrière, marquées d'une fossette sur le dos et de deux larges vallécules sur la face ventrale, à coupe transversale en T¹.
+Type species: A. latifolia (Roxb.) Planch.
 
-Espèce-type : A. latifolia (Roxb.) Planch.
+This genus, which results from the dismemberment of the genera Vitis L. and Cissus L., comprises about a hundred species, in tropical Africa and Asia, a few others in Australia, Malesia and Central America. On the African continent, more than 30 species but only one is currently known from Gabon.
 
-Ce genre, qui résulte du démembrement des genres Vitis L. et Cissus L., comprend une centaine d'espèces, en Afrique et en Asie tropicales, quelques autres en Australie, en Malaisie et en Amérique centrale. Sur le continent africain, plus de 30 espèces mais une seule est actuellement connue au Gabon.
-
-1. Caractères des représentants du genre en Afrique tropicale.
-
----
-
----
+1. Characters of representatives of the genus in tropical Africa.
 
 ## Species in region
 

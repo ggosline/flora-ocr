@@ -16,19 +16,17 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Terrestrial ferns, rarely epiphytic, with erect, short rhizome bearing a few fronds. Vegetative frond simple, entire, with reticulate venation. Fertile frond formed of a foliaceous segment similar to the vegetative frond, and of a fertile segment in a spike. About fifty species, distributed throughout the world.
 
-Fougères terrestres, rarement épiphytes, à rhizome dressé, court, portant quelques frondes. Fronde végétative simple, entière, à nervation réticulée. Fronde fertile formée d'un segment foliacé semblable à la fronde végétative, et d'un segment fertile en épi. Une cinquantaine d'espèces, répandues dans le monde entier.
-
-Espèce type : Ophioglossum vulgarum L.
+Type species: Ophioglossum vulgarum L.
 
 ---
 
-### FLORE DU GABON
+### FLORA OF GABON
 
-1. Plante de 5-30 cm, à pétiole atteignant 10 cm; limbe cunéiforme ou cordé à la base..... I. O. reticulatum.
+1. Plant 5–30 cm, with petiole reaching 10 cm; limb cuneiform or cordate at the base ..... I. O. reticulatum.
 
-1'. Plante de 1-3 cm, à pétiole de 0,3 cm environ; limbe elliptique ..... 2. O. Thomasii.
+1'. Plant 1–3 cm, with petiole approximately 0.3 cm; limb elliptic ..... 2. O. Thomasii.
 
 ## Species in region
 

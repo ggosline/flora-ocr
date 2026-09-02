@@ -17,43 +17,19 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Slender to robust herbs, generally flowering before the leaves; bulb with imbricate scales and often pinkish or reddish. Leaves sessile, spiral; blade filiform to lanceolate, margins sometimes ciliate; venation weakly prominent. Inflorescence a solitary, lax to extremely dense raceme; floral scape glabrous; basal bracts with spur or scar at the base; bracteoles present. Flowers with pedicels erect or ascending, not articulate; tepals free or fused for ⅓, generally spreading or reflexed; stamens 6, fertile, filaments free or attached to the perianth, anthers dorsifixed or basifixed; ovary sessile, ovoid, with several ovules in each locule; style long. Fruit: loculicidal capsule, ellipsoid, ovoid to subglobose. Seeds semicircular, compressed, often winged, black.
 
-Herbes grêles à robustes, généralement fleurissant avant les feuilles ; bulbe à écailles
+Genus comprising ± 115 species widespread in Africa, Europe (Mediterranean region) and India. In Africa, ± 68 species are recognized; in Gabon, only one.
 
-imbriquées et souvent rosâtre ou rougeâtre. Feuilles sessiles, spiralées ; limbe filiforme
+Taxonomic note: The delimitation of the genus used in this treatment is that proposed by Jessop (1977) and Stedje (1987).
 
-à lancéolé, marges parfois ciliées ; nervation faiblement proéminente. Inflorescence en
+B: Jessop (1977), Manning et al. (2004), Stedje (1987), Speta (1998b).
 
-racème solitaire, lâche à extrêmement dense ; hampe florale glabre ; bractées basales
-
-avec éperon ou cicatrice à la base ; bractéoles présentes . Fleurs à pédicelles dressés
-
-ou ascendants, non articulés ; tépales libres ou fusionnés sur ⅓, généralement étalés ou
-
-réfléchis ; étamines 6, fertiles, filets libres ou rattachés au périanthe, anthères dorsifixes
-
-ou basifixes ; ovaire sessile, ovoïde, avec plusieurs ovules dans chaque locule ; style long.
-
-Fruit : capsule loculicide, ellipsoïde, ovoïde à subglobuleuse. Graines semi-circulaires,
-
-comprimées , souvent ailées , noires.
-
-Genre comprenant ± 115 espèces répandues en Afrique, Europe (région méditerranéenne)
-
-et Inde. En Afrique, ± 68 espèces sont reconnues ; au Gabon, une seule.
-
-Note taxonomique : La délimitation du genre utilisée dans ce traitement est celle proposée
-
-par Jessop (1977) et Stedje (1987).
-
-B : Jessop (1977), Manning et al. (2004), Stedje (1987), Speta (1998b).
-
-i B liographie
+Bibliography
 
 ---
 
-Dessin par Margareth Tebbs (©), reproduit avec permission à partir de Stedje (1996).
+Drawing by Margareth Tebbs (©), reproduced with permission from Stedje (1996).
 
 ---
 

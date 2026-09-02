@@ -17,29 +17,25 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Perennial or annual herbs of medium height, leaves linear sometimes very narrow.
 
-Herbes pérennes ou annuelles de taille moyenne, feuilles linéaires parfois très étroites.
+Loose panicles, very divided, with capillary branches. Spikelets generally densely pubescent with white, pink or violet hairs, with asymmetrical profile. Lower glume microscopic, scale-like in form, or reaching 1/3 of the length of the spikelet, then obtuse, with 0 or 1 nerve. Upper glume as long as the spikelet, gibbose, often emarginate and mucronate or awned in the sinus, with 5 or 7 nerves, most often pubescent. Lower flower male, lemma similar to the upper glume or more flattened on the back, palea linear, equally long, bicarinate. Upper flower hermaphrodite, smaller, often early deciduous. Lemma truncate or more or less deeply bilobed, with 3 or 5 nerves, glabrous or ciliate. Palea of the same length, with 2 nerves. Two lodicules, very small; 3 stamens; styles free.
 
-Panicules lâches, très divisées, à branches capillaires. Épillets généralement densément pubescents à poils blancs, roses ou violets, à profil asymétrique. Glume inférieure microscopique, sous forme d'écaille, ou atteignant 1/3 de la longueur de l'épillet, alors obtuse, à 0 ou 1 nervure. Glume supérieure aussi longue que l'épillet, gibbeuse, souvent émarginée et mucronée ou aristée dans le sinus, à 5 ou 7 nervures, le plus souvent pubescente. Fleur inférieure mâle, lemma semblable à la glume supérieure ou plus aplatie sur le dos, Paléa linéaire, aussi longue, bicarénée. Fleur supérieure hermaphrodite, plus petite, souvent précocement caduque. Lemma tronquée ou plus ou moins profondément bilobée, à 3 ou 5 nervures, glabre ou ciliée. Paléa de même longueur, à 2 nervures. Deux lodicules, très petites; 3 étamines; styles libres.
+About thirty species, principally from Africa and Madagascar. Two are recorded from Gabon, and the presence of a third is very probable.
 
-Une trentaine d'espèces, principalement d'Afrique et de Madagascar. Deux sont signalées au Gabon, et la présence d'une troisième est très probable.
+1. Upper glume and sterile lemma bifid at the apex and awned in the sinus; fertile lemma emarginate glabrous.
 
-1. Glume supérieure et lemma stérile bifides à l'extrémité et aristées dans le sinus; lemma fertile émarginée glabre.
+2. Herb capable of distinctly exceeding 50 cm in height; leaf blades narrow, 20 cm long or generally longer, rolled or spread and then 4 to 6 mm wide; spikelets silky pubescent or pink; savanna herb on sandy soils, flowering after fires..... 1. R. nerviglume.
 
-2. Herbe pouvant largement dépasser 50 cm de haut; limbes foliaires étroits, de 20 cm de long ou généralement plus, enroulés ou étalés et alors de 4 à 6 mm de large; épillets pubescents argentés ou roses; herbe de savane sur sols sableux, fleurissant après les feux..... 1. R. nerviglume.
+2'. Herb rarely exceeding 50 cm in height, leaf blades fili-
 
-2'. Herbe atteignant rarement 50 cm de haut, limbes foliaires fili-
-
-formes, étroitement enroulés, de 3 à 15 cm de long et 1,5 mm
+form, narrowly rolled, 3 to 15 cm long and 1.5 mm
 
 ---
 
-de large lorsqu'ils sont étalés; épilets pubescents argentés;
+wide when spread; spikelets silky pubescent; small herb of coastal savannas on white sands 2. R. filifolium.
 
-petite herbe des savanes côtières sur sables blancs 2. R. filifolium.
-
-1'. Glume supérieure et lemma stérile entières, acuminées ou mucronées; lemma fertile obtuse ou acuminée, ciliée dans sa partie supérieure; herbe dépassant souvent 50 cm de haut, limbes foliaires jusqu'à une cinquantaine de centimètres de long et 8 mm de large, étalés ou repliés; épilets pubescents violets, herbe de savane sur sol sableux, fleurissant après les feux..... 3. R. amethystem.
+1'. Upper glume and sterile lemma entire, acuminate or mucronate; fertile lemma obtuse or acuminate, ciliate in its upper part; herb often exceeding 50 cm in height, leaf blades up to about fifty centimetres long and 8 mm wide, spread or folded; spikelets violet pubescent, savanna herb on sandy soil, flowering after fires..... 3. R. amethystem.
 
 ## Species in region
 

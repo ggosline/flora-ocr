@@ -17,41 +17,33 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Herbs generally perennial, caespitose. Panicles narrow, erect, with spatholes folded or tightly rolled at maturity.
 
-Herbes généralement vivaces, cespiteuses. Panicules étroites, dressées, à spathéoles repliées ou étroitement enroulées à maturité.
+Racemes consisting of a pair and a terminal triad of heterogamous spikelets, or of a triad only, or of a single sessile spikelet provided with two vestigial pedicels. Sessile spikelets brown, shiny, with acute callus; glumes coriaceous, with nervures not visible on the back, very fine and white. Lower glume truncate or bidentate, the upper acute or subulate. Pedicellate spikelets longer than the sessile ones, more slender, sometimes absent. Articles and pedicels linear, appressed along the sessile spikelet. Rachis articles with very oblique articulation.
 
-Racèmes constitués d'une paire et d'une triade terminale d'épillets hétérogames, ou d'une triade seulement, ou d'un seul épillet sessile pourvu de deux pédicelles vestigiaux. Épillets sessiles bruns, luisants, à callus acéré; glumes coriaces, à nervures non visibles sur le dos, très fines et blanches. Glume inférieure tronquée ou bidentée, la supérieure aiguë ou subulée. Épillets pédicelles plus longs que les sessiles, plus grêles, parfois absents. Articles et pédicelles linéaires, apprimés le long de l'épillet sessile. Articles du rachis à articulation très oblique.
+These are herbs generally of small size, often characteristic of poor soils.
 
-Ce sont des herbes généralement de petite taille, caractéris-
+3 species are recorded from Gabon, one of which is new.
 
-tiques souvent de sols pauvres.
+1. Racemes formed by a pair and a triad of heterogamous spikelets.
 
-3 espèces sont signalées au Gabon, dont une est nouvelle.
+2. Peduncles of the racemes as long as or longer than the spatholes; awns approximately 15 mm long..... 1. P. hamata.
 
-1. Racèmes formés par une paire et une triade d'épillets hétérogames.
+2'. Peduncles of the racemes always shorter than the spatholes which thus always surround the raceme; awns approximately 3 cm long..... 2. P. arrecta.
 
-2. Pédoncules des racèmes aussi longs ou plus longs que les spathéoles;
-
-arêtes d'environ 15 mm de long..... 1. P. hamata.
-
-2'. Pédoncules des racèmes toujours plus courts que les spathéoles qui entourent ainsi toujours le racème; arêtes d'environ 3 cm de long..... 2. P. arrecta.
-
-1'. Racèmes formés uniquement par une triade; arêtes d'environ 5 cm de
-
-long, glume supérieure de l'épillet sessile subulée... 3. P. gabonensis.
+1'. Racemes formed solely by a triad; awns approximately 5 cm long, upper glume of the sessile spikelet subulate... 3. P. gabonensis.
 
 ---
 
-### 1. Pобeguinea hamata (Stapf.) J.-Fél.
+### 1. Robeguinea hamata (Stapf.) J.-Fél.
 
 = Anadelphia hamata Stapf.
 
 Jacques-Félix, Rev. de Bot. Appl. et d'Agr. Trop.: 168 (1950). — Stapf. Fl. of Trop. Afr. IX: 395 (1919).
 
-Herbe pérenne à chaumes minces rougeâtres, d'environ 50 cm de haut, feuilles pubescentes à limbe linéaire étroit. Inflorescence en panicule lâche, ramifications distantes les unes des autres. Spathéoles étroites enroulées d'environ 2,5 cm de long. Pédoncule des racèmes aussi long ou plus long, pubescent vers le sommet. Racème d'environ 2 cm de long, à articles et pédicelles minces, ciliés, de 4-5 mm de long.
+Perennial herb with thin reddish culms, approximately 50 cm tall, leaves pubescent with narrow linear blade. Inflorescence in a loose panicle, branches distant from each other. Narrow spatholes rolled approximately 2.5 cm long. Peduncle of the racemes as long as or longer, pubescent toward the apex. Raceme approximately 2 cm long, with thin, ciliate articles and pedicels, 4–5 mm long.
 
-Épillets sessiles glabres, environ 7 mm de long; callus pubescent. Glume inférieure bidentée, à 6 ou 7 nervures; glume supérieure émarginée, prolongée par une subule de 6-8 mm de long. Fleur inférieure réduite à une lemma hyaline, à deux nervures. Lemma fertile bifide jusqu'au tiers, aristée; arête genouillée; colonne pubescente à poils courts, réfléchis. Épillets pédicellés mâles, semblables aux sessiles ou un peu plus longs; glume inférieure courtement subulée, à 9 nervures; glume supérieure à 5 nervures. Glumelles comme dans l'épillet sessile, mais celle de la fleur supérieure mutique.
+Sessile spikelets glabrous, approximately 7 mm long; callus pubescent. Lower glume bidentate, with 6 or 7 nervures; upper glume emarginate, prolonged by a subule 6–8 mm long. Lower flower reduced to a hyaline lemma, with two nervures. Fertile lemma bifid to one-third, awned; awn geniculate; column pubescent with short, reflexed hairs. Pedicellate spikelets male, similar to the sessile ones or slightly longer; lower glume shortly subulate, with 9 nervures; upper glume with 5 nervures. Glumelles as in the sessile spikelet, but that of the upper flower awnless.
 
 ## Species in region
 

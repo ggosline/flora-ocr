@@ -16,11 +16,9 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Herbs with creeping rhizome emitting short stems bearing a single very long-petioled leaf and a spike-like inflorescence appearing at ground level. Axis with short internodes. A single two-flowered cyme in the axil of each abaxial bract. Common peduncle short, pedicels subequal with a single fleshy, acuminate bracteole at their junction. Adaxial spathe-bract absent. Sepals free, corolla with short tube, a single cycle of staminodes. Ovary with three uniovulate locules; fruit trigonous, fleshy, indehiscent, coriaceous. Seeds with mucilaginous endocarp.
 
-Herbes à rhizome rampant émettant des tiges courtes portant une seule feuille très longuement pétiolée et une inflorescence spiciforme apparaissant au ras du sol. Axe à entre-nœuds courts. Une seule cyme biflore à l'aisselle de chaque bractée abaxiale. Pédoncule commun court, pédicelles subégaux avec une seule bractéole charnue, acuminée, à leur jonction. Spathe-bractée adaxiale absente. Sépales libres, corolle à tube court, un seul cycle de staminodes. Ovaire à trois loges, uniovulées; fruit trigone, charnu, indéhiscent, coriace. Graines à endocarpe muci-lagineux.
-
-Une seule espèce, des régions forestières d'Afrique tropicale.
+A single species, from the forested regions of tropical Africa.
 
 ## Species in region
 

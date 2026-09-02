@@ -17,39 +17,35 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Shrubs or small trees unarmed or with lateral branches becoming coarsely spiniform. Buds containing glands secreting ceroids. Stipules deeply connate-tubular. Leaves opposite or whorled. Domatia present or absent.
 
-Arbustes ou petits arbres inermes ou à rameaux latéraux devenant grossièrement spiniformes. Bourgeons contenant des glandes secrétrices de cérides. Stipules profondément connées-tubuleuses. Feuilles opposées ou verticillées. Domaties présentes ou nulles.
+Flowers sessile, showy, generally white at the beginning of anthesis, terminal, sometimes pseudoaxillary, solitary or in few-flowered fascicles. Calyx with developed tube, with marginal or submarginall lobes. Corolla with deep, narrow or infundibuliform tube, with 5-12 lobes overlapping to the left in bud, with obtuse or rounded apex. Anthers included to sometimes exceeding the throat, medifixed or attached somewhat above mid-length. Pollen in tetrads. Style claviform with glabrous or pubescent column, with ± exserted stigma, cleft or not. Ovary unilocular with 2-3 rows of parietal placentation.
 
-Fleurs sessiles, belles, généralement blanches au début de l'anthèse, terminales, parfois pseudoaxillaires, solitaires ou en fascicules pauciflores. Calice à tube développé, à lobes marginaux ou submarginaux. Corolle à tube profond, étroit ou infundibuliforme, à 5-12 lobes recouvrant vers la gauche dans le bouton, à sommet obtus ou arrondi. Anthères incluses à sommet dépassant parfois la gorge, médifixes ou attachées un peu au dessus de la mi-longueur. Pollen en tétrades. Style claviforme à colonne glabre ou pubescente, à stigmate ± exsert, fendu ou non. Œvaire uniloculaire à 2-3 lignes de placentation pariétale.
+Fruit with ± thick and fibrous pericarp, with crustaceous endocarp. Seeds 3-4 mm, sublenticular, with thin smooth testa, albuminous, embedded in a compact placental mass.
 
-Fruit à péricarpe ± épais et fibreux, à endocarpe crustacé. Graines de 3-4 mm, sublenticulaires, à testa mince et lisse, albu-minées, noyées dans une masse placentaire compacte.
+Type species: Gardenia jasminoides Ellis, from Asia.
 
-Espèce type : Gardenia jasminoides Ellis, d'Asie.
+Numerous species from the Old World, from Madagascar and extending to New Caledonia. 9 species in West Africa,
 
-Nombreuses espèces de l'Ancien-Monde, de Madagascar et jusqu'en Nouvelle-Calédonie. 9 espèces en Afrique occidentale,
+<<<---SECTION-BREAK--->>>
 
----
+they frequent especially the regions of savannas and dry forests there.
 
----
+3 species in Gabon.
 
-elles y fréquentent surtout les régions de savanes et forêts sèches.
+### KEY TO GARDENIA
 
-3 espèces au Gabon.
+1. Leaves opposite; flowers pendulous voluminous, pentamerous; corolla infundibuliform; style glabrous; small riparian tree of dense forest ..... 1. G. imperialis
 
-### CLÉ DES GARDENIA
+1'. Leaves ternate; flowers ± erect pleiomerous; corolla tubular; style pubescent; shrub or small tree.
 
-1. Feuilles opposées; fleurs pendantes volumineuses, pentamères; corolle infundibuliforme; style glabre; petit arbre ripicole de forêt dense ..... 1. G. imperialis
+2. Leaves rather large, often 12-20 cm long, with acuminate apex; fruit narrowly fusiform often curved; corolla with 6 or 7 lobes 3.5 to 6 cm long; unarmed shrub of ± dense forest
 
-1'. Feuilles ternées; fleurs ± dressées pléiomères; corolle tubuleuse; style pubescent; arbuste ou arbrisseau.
+2'. Leaves small 5-11 cm long, with obtuse or rounded apex;
 
-2. Feuilles plutôt grandes, souvent longues de 12-20 cm, à sommet acuminé; fruit étroitement fusiforme souvent arqué; corolle à 6 ou 7 lobes longs de 3,5 à 6 cm; arbuste inermé de forêt ± dense
+fruit ± briefly ellipsoid; corolla with 8-9 lobes 1.5-
 
-2'. Feuilles petites de 5-11 cm de longueur, à sommet obtus ou arrondi;
-
-fruit ± brièvement ellipsoïde; corolle à 8-9 lobes longs de 1,5-
-
-3,5 cm; arbuste à rameaux spiniformes, de savane.....
+3.5 cm long; shrub with spiniform branches, of savanna.....
 
 3. G. Jovis-tonantis
 

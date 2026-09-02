@@ -17,17 +17,15 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Annual plants with slender culms, creeping and rooting at the base; leaves lanceolate, acuminate, rounded, narrowed and more or less asymmetric at the base. Lateral nerves numerous, fine.
 
-Plantes annuelles à chaumes minces, rampants et enracinés à la base; feuilles lancéolées, acuminées, arrondies, rétrécies et plus ou moins assymétriques à la base. Nervures latérales nombreuses, fines.
+Inflorescence formed of a panicle of unilateral racemes.
 
-Inflorescence formée d'une panicule de racèmes unilatéraux.
+Spikelets oblique and more or less gaping, laterally compressed. Glumes herbaceous as long as the spikelet, or the lower one somewhat shorter. Lower glume with 3 nerves, smooth. The upper one navicular, gibbous on the back, with 7 nerves with longitudinal lines of hooked hairs with swollen glandular base. Lower floret male or neuter, as long as the spikelet; lemma truncate, rounded on the back with membranous margins, palea as long, with two nerves.
 
-Épillets obliques et plus ou moins béants, comprimés latéralement. Glumes herbacées aussi longues que l'épillet, ou l'inférieure un peu plus courte. Glume inférieure à 3 nervures, lisse. La supérieure naviculaire, bossue sur le dos, à 7 nervures avec des lignes longitudinales de poils crochus à base glanduleuse renflée. Fleur inférieure mâle ou neutre, aussi longue que l'épillet; lemma tronquée, arrondie sur le dos à marges membraneuses, paléa aussi longue, à deux nervures.
+Upper floret hermaphrodite, lemma lanceolate, with 5 nerves, chartaceous; palea of the same texture; 2 acute lodicules; 3 stamens; styles free.
 
-Fleur supérieure hermaphrodite, lemma lancéolée, à 5 nervures, chartacée; paléa de même texture; 2 lodicules aiguës; 3 étamines; styles libres.
-
-Genre monospécifique.
+Monotypic genus.
 
 ## Species in region
 

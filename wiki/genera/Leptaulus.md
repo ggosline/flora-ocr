@@ -16,33 +16,31 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 in BENTHAM & HOOKER F., Gener. Pl. 1 : 351 (1852).
 
 — Acrocælium BAILL., Bull. Soc. Linn. Paris 1 : 988 (1892).
 
-Arbres ou arbustes à feuilles parfois ± décussées, sommct acuminé ± spatulé. Inflorescence en cyme ou en grappe cymeuse très courte, décussée par rapport à la feuille; parfois fleurs solitaires. Fleurs ¥, pentamères, actinomorphes, gamopétales. Étamines soudées au tube de la corolle par le filet. Style ± excentrique. Drupe à endocarpe ligneux ou cartilagineux.
+Trees or shrubs with leaves sometimes ± decussate, apex ± acuminate spatulate. Inflorescence in a cyme or very short cymose panicle, decussate with respect to the leaf; sometimes flowers solitary. Flowers ¥, pentamerous, actinomorphic, gamopetalous. Stamens fused to the corolla tube by the filament. Style ± eccentric. Drupe with woody or cartilaginous endocarp.
 
-ESPÈCE-TYPE : L. daphnoides Bentham.
+TYPE-SPECIES : L. daphnoides Bentham.
 
-Genre africain et malgache groupant 5 espèces, dont 4 sont présentes au Cameroun et au Gabon.
+African and Malagasy genus grouping 5 species, of which 4 are present in Cameroon and Gabon.
 
-1. Fleurs de grande taille (1 cm); jeunes rameaux éparsement pubérulents ou glabres; style égal ou supérieur à la longueur de la corolle.
+1. Flowers large (1 cm); young branches sparsely puberulent or glabrous; style equal to or exceeding the corolla length.
 
-2. Limbe d'une longueur égale ou supérieure à 15 cm, coriace; acumen court et aigu ou faiblement obtus; ovaire glabre..... 1. L. grandifolius.
+2. Lamina equal to or exceeding 15 cm in length, coriaceous; acumen short and acute or weakly obtuse; ovary glabrous..... 1. L. grandifolius.
 
-2'. Limbe de 5-16 cm de longueur, papyracé; acumen obtus ou spatulé; ovaire pubescent.
+2'. Lamina 5–16 cm in length, papyraceous; acumen obtuse or spatulate; ovary pubescent.
 
-3. Inflorescence multiflore; lobes de la corolle courts (1 mm); excroissances des lobes de petite taille; acumen obtus; style glabre..... 2. L. daphnoides.
+3. Inflorescence multiflorous; corolla lobes short (1 mm); excrescences of the lobes small; acumen obtuse; style glabrous..... 2. L. daphnoides.
 
-3'. Inflorescence pauciflore; lobes de la corolle longs (2,5 mm); excroissances des lobes de grande taille; acumen long et spatulé; style pubescent.. 3. L. zenkeri.
+3'. Inflorescence pauciflorous; corolla lobes long (2.5 mm); excrescences of the lobes large; acumen long and spatulate; style pubescent.. 3. L. zenkeri.
 
-4. Pédicelle court, de 0-5 mm..... var. zenkeri.
+4. Pedicel short, 0–5 mm..... var. zenkeri.
 
-4'. Pédicelle long d'environ 1 cm..... var. longipedicellata.
+4'. Pedicel approximately 1 cm long..... var. longipedicellata.
 
-1'. Fleurs de petite taille (4 mm); jeunes rameaux ± pubescents; style égal ou faiblement supérieur à la longueur du tube de la corolle..... 4. L. holstii.
+1'. Flowers small (4 mm); young branches ± pubescent; style equal to or weakly exceeding the corolla tube length..... 4. L. holstii.
 
 ## Species in region
 

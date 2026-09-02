@@ -17,13 +17,9 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Epiphytic plants. Pseudobulbs fasciculate, conical-ovoid to fusiform, with several nodes. Leaves narrowly elliptic to oblanceolate, plicate. Inflorescence lateral, branched, multiflorous. Sepals and petals subsimilar, spreading. Labellum trilobed, with 2 keels in the basal part, furnished with a spur. Spur narrowly cylindric, generally curved forward. No prominent column foot. Gynostemium arched. Pollinia 2, ellipsoid or ovoid, forked. Caudicles sticky. Stigma deeply concave, entire. Rostellum beaked, elongate. Tegula ovoid. Viscidium elliptic. – Pl. 138, p. 313.
 
----
-
-Plantes épiphytes. Pseudo-bulbes fasciculés, coniques-ovões à fusiformes, à plusieurs nœuds. Feuilles étroitement elliptiques à oblancéolées, plissées. Inflorescence latérale, ramifiée, multiflore. Sépales et pétales subsemblables, étalés. Labelle trilobé, avec 2 carènes dans la partie basale, muni d'un éperon. Éperon étroitement cylindrique, généralement recourbé vers l'avant. Pas de pied de colonne saillant. Gynostème arqué. Pollinies 2, ellipsoïdes ou ovoïdes, fourchues. Caudicules gluants. Stigmate profondément concave, entier. Rostellum en bec, allongé. Tegula ovoïde. Viscidie elliptique. – Pl. 138, p. 313.
-
-Le genre comprend une seule espèce largement distribuée en Afrique tropicale et australe et 5 autres à Madagascar et aux Mascareignes.
+The genus comprises a single species widely distributed in tropical and southern Africa and 5 others in Madagascar and the Mascarene Islands.
 
 ## Species in region
 

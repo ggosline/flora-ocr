@@ -17,27 +17,25 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Annual to perennial plants, herbaceous to sub-shrubby, hemiparasitic on roots. Leaves small, sometimes very reduced.
 
-Plantes annuelles à vivaces, herbacées à sous-arbustives, hémiparasites sur racines. Feuilles petites, parfois très réduites.
+Inflorescences varied or flowers solitary; bracteoles 2 or several, rarely absent. Flowers hermaphrodite, 4-5-merous; receptacle tubular; stamens inserted on the receptacular tube or on the tepals, with anthers most often attached dorsally to the tepals by a fascicle of hairs; disk poorly developed; ovary inferior; style short to long, with capitate stigma; placenta slender, ± twisted, bearing at the apex 2-3 pendulous ovules.
 
-Inflorescences variées ou fleurs solitaires; bractéoles 2 ou plusieurs, rarement nulles. Fleurs hermaphrodites, 4-5-mères; réceptacle tubulaire; étamines insérées sur le tube réceptaculaire ou sur les tépales, à anthères le plus souvent attachées dorsalement aux tépales par un faisceau de poils; disque peu développé; ovaire infère; style court à long, à stigmate capité; placenta grêle, ± tordu, portant au sommet 2-3 ovules penduleux.
+Achenes with 8-10 longitudinal ribs and ± reticulate, ordinarily surmounted by the receptacle and persistent tepals, the latter often ± rolled inward. Seeds with embryo situated at the centre or apex of the albumen; cotyledons generally of the same length or shorter than the hypocotyle.
 
-Akènes à 8-10 côtes longitudinales et ‡ réticulés, ordinairement sur-montés du réceptacle et des tépales persistants, ces derniers souvent ‡ enrou-lés vers l'intérieur. Graines à embryon situé au centre ou au sommet de l'albumen; cotylédons généralement de même longueur ou plus courts que l'hypocotyle.
+Genus grouping 4 sections and approximately 250 species, of which only two are American (Brazil), the others inhabiting the Old World, the greatest number occurring in South Africa.
 
-Genre groupant 4 sections et environ 250 espèces, dont seulement deux sont américaines (Brésil), les autres habitant l'Ancien Monde, le plus grand nombre se rencontrant en Afrique du Sud.
+Type species among others by Pilger, Natürl. Pflanzenfam. ed. 2, 16b : 85 (1935).
 
-Espèce-type entre autres par Pilger, Natürl. Pflanzenfam. ed. 2, 16b : 85 (1935).
+Hitchcock, Propos. British Botanists : 135 (1929) proposed T. alpinum L. as the type species.
 
-Hitchcock, Propos. British Botanists : 135 (1929) a proposé T. alpinum L. comme espèce-type.
-
-Les Thesium vivent uniquement dans des formations herbeuses. Ils sont hémiparasites sur les racines de diverses espèces herbacées (p. ex. Légumineuses, Graminées); ils sont souvent eux-mêmes parasités par des champignons microscopiques ou par des insectes qui provoquent la transformation des fleurs en galles. Ils passent souvent inaperçus. Les individus des espèces vivaces forment à la longue de fortes touffes; leur parasitisme sur les plantes voisines diminue la vitalité de celles-ci et finalement les tue; il se forme ainsi dans le tapis végétal autour des plantes de Thesium des cercles à plantes affaiblies ou même sans plantes.
+The Thesium live uniquely in herbaceous formations. They are hemiparasitic on the roots of various herbaceous species (e.g. Leguminosae, Gramineae); they are often themselves parasitized by microscopic fungi or by insects which cause the transformation of flowers into galls. They often go unnoticed. Individuals of perennial species form strong tufts in time; their parasitism on neighbouring plants diminishes the vitality of these and finally kills them; there thus forms in the vegetation carpet around Thesium plants circles of weakened or even plantless vegetation.
 
 ---
 
-1. Fleurs latérales, disposées à l'aisselle d'une bractée sous-tendante et flanquées de 2 bractéoles latérales; tépales généralement 4, de 2-3 mm; akènes à 8 côtes longitudinales; tiges de 40-75 cm; feuilles de 1,25-1,5 mm..... 1. T. filipes.
+1. Lateral flowers, arranged at the axil of a subtending bract and flanked by 2 lateral bracteoles; tepals generally 4, of 2-3 mm; achenes with 8 longitudinal ribs; stems of 40-75 cm; leaves of 1.25-1.5 mm..... 1. T. filipes.
 
-1'. Fleurs terminales, entourées d'un involucre de 5 bractéoles; tépales 5, d'environ 1,6 mm; akènes à 10 côtes longitudinales; tiges ne dépassant pas ou guère 40 cm; feuilles atteignant 15 mm..... 2. T. equisetoides.
+1'. Terminal flowers, surrounded by an involucre of 5 bracteoles; tepals 5, of approximately 1.6 mm; achenes with 10 longitudinal ribs; stems not exceeding or scarcely 40 cm; leaves reaching 15 mm..... 2. T. equisetoides.
 
 ## Species in region
 

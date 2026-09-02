@@ -17,23 +17,21 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Herbaceous plants annual, biennial or perennial (but not in Gabon), rarely shrublets, hispid with simple hairs, often glaucous. Stem ordinarily leafy. Leaves simple or pinnatifid-lyrate. Cotyledons emarginate.
 
-Plantes herbacées annuelles, bisannuelles ou vivaces (mais pas au Gabon), rarement arbrisseaux, hispides à poils simples, souvent glauques. Tige ordinairement feuillée. Feuilles simples ou pennatipartites-lyriformes. Cotylédons émarginés.
+Terminal racemes ordinarily without bracts, ± corymbiform with numerous and rather large flowers; infructescences elongated. Sepals oblique; the inner ones somewhat saccate. Petals yellow or white, spathulate or obovate and clawed. Stamens 6, the lateral ones often oblique with straight filaments. Lateral nectaries prismatic or very reduced; median nectaries hemispherical to filiform, often well developed. Ovary cylindric, style sometimes relatively long; stigma hemispherical or distinctly bilobed. Ovules few to very numerous, most often uniseriate. Siliques slightly flattened biconvex, dehiscent, attenuate to a conical, cylindric or filiform beak, sometimes borne on a short gynophore; valves rather thick with prominent median nerve. Seeds ± spherical, reticulate without wing and without mucilage.
 
-Grappes terminales ordinairement sans bractées, ± corymbiformes à fleurs nombreuses et assez grandes ; infrutescences allongées. Sépales obliques ; les internes un peu sacciformes. Pétales jaunes ou blancs spatuiformes ou obovales et onguiculés. Étamines 6, les latérales souvent obliques à filets droits. Nectaires latéraux prismatiques ou très réduits ; nectaires médians hémisphériques à filiformes, souvent bien développés. Ovaire cylindrique, style parfois relativement long ; stigmate hémisphérique ou nettement bilobé. Ovules peu à très nombreux, le plus souvent unisériés. Siliques peu aplaties biconvexes, déhiscentes, atténuées en un bec conique, cylindrique ou filiforme, portées parfois sur un gynophore court ; valves assez épaisses à nervure médiane saillante. Graines ± sphériques, réticulées sans aile et sans mucilage.
-
-ESPÉCE-TYPE : Brassica oleracea L.
+TYPE SPECIES: Brassica oleracea L.
 
 ---
 
-1. Feuilles caulinaires supérieures amplexicaules ou auriculées ..... 1. B. oleracea.
+1. Upper cauline leaves amplexicaul or auriculate ..... 1. B. oleracea.
 
-1'. Feuilles caulinaires supérieures ± pétiolées, ni amplexicaules ni auriculées.
+1'. Upper cauline leaves ± petiolate, neither amplexicaul nor auriculate.
 
-2. Feuilles caulinaires inférieures avec 0-1 segments latéraux ; rostre le plus souvent inférieur à 6 mm ..... 2. B. carinata.
+2. Lower cauline leaves with 0–1 lateral segments; beak most often less than 6 mm ..... 2. B. carinata.
 
-2'. Feuilles caulinaires inférieures avec 1-3 paires de segments latéraux ; rostre dépassant 6 mm ..... 3. B. juncea.
+2'. Lower cauline leaves with 1–3 pairs of lateral segments; beak exceeding 6 mm ..... 3. B. juncea.
 
 ## Species in region
 

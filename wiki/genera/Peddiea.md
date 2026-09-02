@@ -17,25 +17,17 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Shrubs or small trees with branches generally erect or somewhat tufted (in high-altitude forms). Bark grey or reddish, smooth or rugged, glabrous. Leaves alternate, sometimes subopposite, with papyraceous or somewhat coriaceous-rigid lamina, symmetric, oblong-lanceolate, almost always apiculate, glabrous.
 
-Arbustes ou arbrisseaux à rameaux généralement dressés ou un peu touffus (dans les formes d'altitude). Écorce grise ou rougeâtre, lisse ou rugueuse, glabre. Feuilles alternes, parfois subopposées, à limbe papyracé ou un peu coriace-rigide, symétrique, oblong-lancéolé, presque toujours apiculé, glabre.
+Inflorescences terminal (very rarely appearing axillary on underdeveloped branches), frequently umbelliform, more rarely corymbiform or racemiform. Bracts foliaceous and bracteoles scarious, quickly caducous but well-developed and particularly visible in the juvenile inflorescence. Flowers hermaphrodite, usually greenish, somewhat fleshy, pentamerous or tetramerous. Perigone tube cylindric, somewhat narrowed below the calyx lobes; the latter generally much shorter than the tube, rounded-oval, bearing setae at their apex. No petals, 2 cycles of stamens inserted between the upper third of the tube and the throat; filaments always shorter than the sepals; anthers elongate. Ovary frequently very hairy in the upper part, surrounded by an entire or multilobed hypogynous disc, glabrous or ciliate; 2 locules, each uniovulate; style fairly short; stigma spheroid or somewhat flattened, included.
 
-Inflorescences terminales (très rarement d'apparence axillaires sur des rameaux non-développés), fréquemment ombelli-formes, plus rarement corymbiformes ou racémiformes. Bractées foliacées et bractéoles scariées rapidement caduques mais bien développées et particulièrement visibles dans l'inflorescence juvé-nile. Fleurs hermaphrodites, habituellement verdâtres, un peu charnues, pentamères ou tétramères. Tube du périgone cylindrique, un peu rétréci sous les lobes du calice; ces derniers en général beaucoup plus courts que le tube, arrondis-ovales, portant des soies à leur sommet. Pas de pétales, 2 cycles d'étamines insérés entre le tiers supérieur du tube et la gorge; filets toujours plus courts que les sépales; anthères allongées. Ovaire fréquemment très velu supérieurement, entouré d'un disque hypogyne entier ou multilobé, glabre ou cilié; 2 loges, chacune uni-ovulée; style assez court; stigmate sphéroïde ou un peu aplati, inclus.
+Fruit drupaceous, ovoid, with terminal part narrower and conical, generally not adherent to the perigone tube which enlarges and splits; pericarp colored, thin; endocarp thickened; often only a single exalbuminous seed develops; embryo with thick cotyledons.
 
-Fruit drupacé, ovoïde, à partie terminale plus étroite et conique, généralement non solidaire du tube du périgone qui grandit et se déchire; péricarpe coloré, fin; endocarpe épaissi; souvent une seule graine exalbuminée se développe; embryon à cotylédons épais.
+Genus highly differentiated among African representatives of the Thymelaeaceae family, and only related to plants from Malesia or Oceania.
 
-Genre très différencié parmi les représentants africains de la famille des Thyméléacées, et seulement apparenté à des plantes de Malaisie ou d'Océanie.
+Several species from mountainous or altimontane regions, from Fouta-Djallon to Natal and Madagascar.
 
-Plusieurs espèces des régions montagneuses ou altimontanes,
-
-depuis le Fouta-Djalon jusqu'au Natal et à Madagascar.
-
-Le Peddiea Fischeri Engl. (PL. XIII), arbuste à fleurs verdâtes ou jaunâtres, est à rechercher vers les sommets du NE du Gabon.
-
----
-
----
+Peddiea Fischeri Engl. (PL. XIII), a shrub with greenish or yellowish flowers, is to be sought towards the summits of NE Gabon.
 
 ## Species in region
 

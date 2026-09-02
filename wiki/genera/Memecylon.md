@@ -17,37 +17,35 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+1. Especially on the lower surface and under the lens, due to filiform sclerites, whose existence can be recognized by the fibrous tearing of a fresh or moistened leaf.
 
-1. Surtout à la surface inférieure et sous la loupe, due aux sclérites filiformes, dont on reconnaît l'existence à la déchirure fibreuse d'une feuille fraîche ou humectée.
+2. Presence of polyramose sclerites in the mesophyll.
 
-2. Présence de sclérites polyrameuses dans le mésophylle.
-
-3. Presque toutes les espèces sont dépourvues de sclérites; quelques unes ont des sclérites sphéroïdes.
+3. Almost all species are devoid of sclerites; some have spheroid sclerites.
 
 ---
 
-Rameaux souvent avec nœuds aphyles (feuilles squamiformes) à la suite d'un entrenœud court, mais cependant florifères (pl. 49), Feuilles dites « uninerviées » lorsque les 2 convergentes sont submarginales et obscures (pl. 49), ou « subtrinerviées » lorsque ces convergentes sont visiblement coarquées avec les transversales, la médiane restant toujours prédominante (pl. 47); pas de réticulum polygonal apparent; limbe à surfaces irrégulières par le tapissage sous épidermique de sclérites mésophylliennes filiformes.
+Branches often with aphyllous nodes (leaves squamiform) following a short internode, but nonetheless floriferous (pl. 49). Leaves said to be "uninerved" when the 2 convergent veins are submarginal and obscure (pl. 49), or "subtrinerved" when these convergent veins are visibly coarctate with the transverse veins, the median always remaining predominant (pl. 47); no apparent polygonal reticulum; lamina with irregular surfaces due to subepidermal lining of filiform mesophyllian sclerites.
 
-Cymes ramifiées, bien que parfois contractées; chambre épigyne souvent avec 8 lignes ou cloisons membraneuses interstaminales; calice court, entier à sinué, ou lobé-valvaire, rarement membraneux et recouvrant la corolle avant l'anthèse (M. polyanthemos). Étamines dolabriformes, rarement le connectif peu prolongé (M. lateriflorum). Ovaire 1-loculaire, ou 4-loculaire (sect. Mouirioidea) dont une seule loge se développe, 6-16-ovulé.
+Branched cymes, although sometimes contracted; epigynous chamber often with 8 lines or interstaminal membranous septa; calyx short, entire to sinuate, or lobed-valvate, rarely membranous and covering the corolla before anthesis (M. polyanthemos). Stamens dolabriform, rarely with the connective scarcely prolonged (M. lateriflorum). Ovary 1-locular, or 4-locular (sect. Mouirioidea) of which only one locule develops, 6–16-ovulate.
 
-Fruit globuleux ou ellipsoïde, couronne calicinale tronquée à lobée. Embryon plié, hypocotyle long, cotylédons foliacés et chiffonnés; plantule à germination épigée, cotylédons déployés et assimilateurs.
+Fruit globose or ellipsoid, calycine crown truncate to lobed. Embryo folded, hypocotyl long, cotyledons foliaceous and wrinkled; seedling with epigeal germination, cotyledons deployed and assimilatory.
 
-ESPÈCE-TYPE : Memecylon capitellatum L., Sri Lanka.
+TYPE SPECIES: Memecylon capitellatum L., Sri Lanka.
 
-Ce genre s'étend à toutes les régions intertropicales de l'Ancien Monde. Les espèces du Gabon sont encore très mal connues. Le meilleur moyen d'une identification correcte est de rechercher les affinités réelles des espèces concernées et de les situer dans leur section respective.
+This genus extends to all intertropical regions of the Old World. The species of Gabon are still very poorly known. The best means of correct identification is to seek the real affinities of the species in question and to place them in their respective section.
 
-### CLÉ DES SECTIONS ET DES ESPÈCES
+### KEY TO SECTIONS AND SPECIES
 
-1. Fruits globuleux, ou transversalement ovoïdes; feuilles « uninerviées » : les convergentes étant peu ou non visibles et à moins de 2 mm de la marge; les transversales sont également peu visibles.
+1. Fruits globose, or transversely ovoid; leaves "uninerved": the convergent veins being scarcely or not visible and less than 2 mm from the margin; the transverse veins are likewise scarcely visible.
 
-2. Calice épais, avec 4 lobes valvaires; ovaire 4-loculaire avant l'anthèse; feuilles avec nervures transversales nombreuses, obscures, parallèles, espacées de 2 à 5 mm (sect. Mouirioidea).
+2. Calyx thick, with 4 valvate lobes; ovary 4-locular before anthesis; leaves with numerous, obscure, parallel transverse veins, spaced 2 to 5 mm apart (sect. Mouirioidea).
 
-3. Feuilles oblongo-elliptiques, ± 6×18 cm, de 15 à 20 nervures transversales; pétales semi-ovales ..... 1. M. lateriflorum.
+3. Leaves oblong-elliptic, ± 6×18 cm, with 15 to 20 transverse veins; petals semi-oval ..... 1. M. lateriflorum.
 
-3'. Feuilles blancées, ± 5 × 10 cm, de 10 à 12 nervures transversales; pétales subsagittés ..... 2. M. mouririoides.
+3'. Leaves whitened, ± 5 × 10 cm, with 10 to 12 transverse veins; petals subsagittate ..... 2. M. mouririoides.
 
-2'. Calice tronqué à sinué, ou lobes membraneux marcescents; ovaire 1-loculaire; feuilles avec nervures transversales espacées de 5 à 10 mm, souvent obliques; rameaux toujours arrondis (sect. Polyanthema).
+2'. Calyx truncate to sinuate, or lobes membranous marcescent; ovary 1-locular; leaves with transverse veins spaced 5 to 10 mm apart, often oblique; branches always rounded (sect. Polyanthema).
 
 ## Species in region
 

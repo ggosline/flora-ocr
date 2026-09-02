@@ -16,21 +16,17 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+References below.
 
-Références ci-dessous.
+Non-sarmentose shrubs; apices glabrous. Stipules connivate at the axils, glabrous, subpersistent. Petioles channelled.
 
-Arbustes non sarmenteux; extrémités glabres. Stipules con-
+Leaf blades rather large, glabrous, lacking domatia.
 
-niventes aux aisselles, glabres, subpersistantes. Pétioles canaliculés.
+Inflorescences terminal, pauciflorous, contracted cymose. Calyx with 5–6 large lobes, with conspicuous midvein reaching the acute apex. Corolla with tube only slightly longer than the lobes, not slender, with ± orbicular lobes, with internal pubescence. Anthers sessile, narrow, weakly exserted. Pollen tetrahedral, 68 μ, with 4 triporate elements and reticulate exine. Stigma swollen and striated at the level of the anthers, then scarcely exceeding them at anthesis. Ovary with 2 ± clearly opposite placentas. Ovules numerous.
 
-Limbes plutôt grands, glabres, dépourvus de domaties.
+Fruit ellipsoid, weakly longitudinally costate, with persistent calyx, containing approximately 22 ± lenticular seeds. The fleshy placental tissues bind the seeds together.
 
-Inflorescences terminales pauciflores, cymeuses contractées. Calice à 5-6 lobes grands, à nervure médiane apparente atteignant l'apex aigu. Corolle à tube un peu plus long seulement que les lobes, non grêle, à lobes ± orbiculaires, à pubescence interne. Anthères sessiles étroites, faiblement exsertes. Pollen tétrédrique de 68 μ à 4 éléments triporés et exine réticulée. Stigmate renflé strié au niveau des anthères puis dépassant à peine celles-ci à l'anthèse. Ovaire à 2 placentas ± nettement affrontés. Ovules nombreux.
-
-Fruit ellipsoïde faiblement costulé en long, à calice persistant, contenant env. 22 graines ± lenticulaires. Les tissus placentaires charnus lient les graines entre-elles.
-
-Genre monotypique.
+Monotypic genus.
 
 1. Preussiodora sulphurea (K. Schum.) Keay (PL. 48, p. 211)
 
@@ -40,21 +36,21 @@ R. W. J. Keay, Bull. J. B. Brux. 28 : 31 (1958); F.W.T.A. ed. 2, 2 : 119 (1963).
 
 = Randia exserta K. Schum., loc. cit. 33 : 343 (1903).
 
-Petit arbuste de 1,20 à 2 m de hauteur; stipules subtriangulaires très aiguës à apex subulé, longues de 5-10 mm arquées obliquement. Pétiole de 8-30 mm à canal désément criblé dessus de fines micropustules ou fines ponctuations ± répandues parfois vers la base de la nervure médiane. Limbe mince, brunâtre, un peu discolore à sec, de 12-25 (30) × 4-12 cm, à base aiguë et sommet avec un acumen court atteignant 5-10 mm. 11-15 paires de nervures secondaires; fin réseau médiocrement apparent.
+Small shrub 1.20 to 2 m tall; stipules subtriangular, very acute with subulate apex, 5–10 mm long, curved obliquely. Petiole 8–30 mm with channel densely covered on its upper surface with fine micropustules or fine punctations ± scattered, sometimes towards the base of the midvein. Leaf blade thin, brownish, somewhat discoloured when dry, 12–25 (30) × 4–12 cm, acute at base and apex with a short acumen reaching 5–10 mm. 11–15 pairs of secondary nerves; fine network moderately apparent.
 
 ---
 
-Inflorescences nigrescentes à sec, d'env. 1-6 fleurs subsessiles. Fleurs blanches, blanc-jaunâtre ou jaune soufre. Calice glabre ou ‡ cilié sur les marges, à lobes de 12-15 × 2,5-8 mm, oblongs ou ⊥ spatulés, aigus au sommet. Corolle à tube de 15 mm de longueur, à gorge en entonnoir atteignant 7 mm de diam., à lobes de 12-15 mm à sommet arrondi avec un apicule ± distinct.
+Inflorescences dark when dry, with approximately 1–6 subsessile flowers. Flowers white, whitish-yellow or sulphur yellow. Calyx glabrous or slightly ciliate on the margins, with lobes 12–15 × 2.5–8 mm, oblong or slightly spatulate, acute at the apex. Corolla with tube 15 mm long, with funnel-shaped throat reaching 7 mm diameter, with lobes 12–15 mm with rounded apex bearing a ± distinct apicule.
 
-Fruit (voir ci-dessus) non encore connu du Gabon. Le pédon-cule atteint 8 mm.
+Fruit (see above) not yet known from Gabon. The peduncle reaches 8 mm.
 
-Types : Preuss 34 et 1296 (B, probablement détruits) Victoria, Cameroun. Le type du Randia exserta K. Schum. est le spécimen Preuss 1386 (P!), du Cameroun occidental.
+Types: Preuss 34 and 1296 (B, probably destroyed), Victoria, Cameroon. The type of Randia exserta K. Schum. is the specimen Preuss 1386 (P!), from western Cameroon.
 
-Espèce est connue du sud Nigeria au Gabon et de Fernando-Po.
+Species known from southern Nigeria to Gabon and Fernando Po.
 
-Matériel GABONAIS :
+GABONESE MATERIAL:
 
-H. Lecomte E 66, Mayomba (fl. mars).
+H. Lecomte E 66, Mayomba (fl. March).
 
 ## Species in region
 

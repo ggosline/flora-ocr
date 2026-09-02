@@ -17,63 +17,11 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Herbs annual or perennial, shrubs, small trees or lianes, unarmed or prickly, glabrous or pubescent with simple, branched, stellate, dendritic or echinulate hairs, glandular or not. Leaves alternate or in pairs, simple or compound, petiolate or sessile; lamina with entire, toothed or pennatilobed margin. Inflorescences terminal, axillary or oppositifoliate, branched or not, pedunculate or not, with (1–)2 to 300+ bisexual or unisexual flowers, and in this case with bisexual and male flowers in the same inflorescence (andromonoecious plants), the bisexual ones in the basal part, the male ones in the distal part, more rarely functionally dioecious plants. Flowers (4–)5-merous, actinomorphic or zygomorphic, pedicellate or sessile; calyx cupuliform to campanulate, with 5(–10) often elongate lobes, persistent and ± strongly accrescent on the fruit; corolla rotate, campanulate or stellate, white, yellow, pink or purple, ± deeply lobed with 5(–10) lobes, valvate in aestivation; stamens generally 5, equal or unequal, filaments generally short, fused at the base of the corolla, glabrous or pubescent, anthers basifixed, ± connivent, ellipsoid, often attenuate at the apex, dehiscing by terminal pores sometimes enlarged into longitudinal slits; disc absent; ovary 2- or 3-locular, glabrous or pubescent; style filiform, glabrous or pubescent, with capitate to claviform stigma, sometimes bilobed. Fruits: berries, most often spherical and fleshy, but sometimes ellipsoid (variable in cultivated species) and dry, erect to pendulous, smooth, often with numerous seeds, sometimes containing sclerites (cells hardened into stony granules). Seeds flattened, reniform to circular, rarely winged; embryo curved.
 
-Herbes annuelles ou pérennes, arbustes , petits arbres ou lianes , inermes ou aiguillonnées,
+Cosmopolitan genus of approximately 1500 species, the majority of the diversity of lineages and species is found in South America, in the tropical regions surrounding the Amazon, but the genus is also particularly diverse in the tropical zones of the Old World; in Gabon, 12 indigenous, naturalized or escaped from cultivation species.
 
-glabres ou pubescentes à poils simples, ramifiés, étoilés, dendritiques ou échinulés , glan-
-
-duleux ou non. Feuilles alternes ou par paires, simples ou composées, pétiolées ou sessiles ;
-
-limbe à bord entier, denté ou pennatilobé. Inflorescences terminales, axillaires ou oppositi-
-
-foliées, ramifiées ou non, pédonculées ou non, avec (1–)2 à 300+ fleurs bisexuées ou uni-
-
-sexuées, et dans ce cas à fleurs bisexuées et mâles dans la même inflorescence (plantes
-
-andromonoïques), les bisexuées dans la partie basale, les mâles dans la partie distale , plus
-
-rarement plantes fonctionnellement dioïques. Fleurs (4–)5-mères, actinomorphes ou zygo -
-
-morphes, pédicellées ou sessiles ; calice cupuliforme à campanulé, à 5(–10) lobes souvent
-
-allongés, persistant et ± fortement accrescent sur le fruit ; corolle rotacée, campanulée ou
-
-étoilée, blanche, jaune, rose ou pourpre, ± profondément lobée avec 5(–10) lobes, à préflorai -
-
-son valvaire ; étamines généralement 5, égales ou inégales, filets généralement courts, soudés
-
-à la base de la corolle, glabres ou pubescents, anthères basifixes, ± conniventes, ellipsoïdes,
-
-souvent atténuées au sommet, déhiscentes par des pores terminaux parfois élargis en fentes
-
-longitudinales ; disque absent ; ovaire 2- ou 3-loculaire, glabre ou pubescent ; style filiforme,
-
-glabre ou pubescent, à stigmate capité à claviforme, parfois bilobé. Fruits : baies, le plus sou-
-
-vent sphériques et charnues, mais parfois ellipsoïdes (variables chez les espèces cultivées)
-
-et sèches , dressées à pendantes, lisses, souvent à nombreuses graines, parfois contenant des
-
-sclérites (cellules durcies en granules pierreux). Graines aplaties, réniformes à circulaires,
-
-rarement ailées ; embryon courbé.
-
-Genre cosmopolite d’environ 1500 espèces, la majorité de la diversité des lignées et des
-
-espèces se retrouve en Amérique du Sud, dans les régions tropicales environnant l’Amazo -
-
-nie, mais le genre est aussi particulièrement diversifié dans les zones tropicales de l’Ancien
-
-Monde ; au Gabon, 12 espèces indigènes, naturalisées ou échappées de cultures.
-
-Notes : Le genre Solanum compte trois espèces d’intérêt économique majeur, cultivées dans la quasi-
-
-totalité des régions du monde, la tomate ( S. lycopersicum L.), la pomme de terre ( S. tuberosum L.) et
-
-l’aubergine asiatique ( S. melongena L.). Bien qu’il n’existe pas de preuve que ces espèces s’échappent
-
-des cultures, elles sont largement cultivées et vendues sur les marchés gabonais. Elles sont donc incluses
+Notes: The genus Solanum includes three species of major economic importance, cultivated in virtually all regions of the world, the tomato (S. lycopersicum L.), the potato (S. tuberosum L.) and the Asian eggplant (S. melongena L.). Although there is no evidence that these species escape from cultivation, they are widely cultivated and sold in Gabonese markets. They are therefore included
 
 ## Species in region
 

@@ -16,17 +16,13 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Marsh herbs in tufts of leaves with imbricate sheaths at the base and stems terminated by an inflorescence borne at the axil of a leaf or leafless sheath. Transition from the callus to the midvein marked on the upper surface by a step perpendicular to the leaf axis.
 
-Herbes de marais en touffes de feuilles à gaines imbriquées à la base et de tiges terminées par une inflorescence portée à l'aisselle d'une feuille ou d'une gaine aphylle. Passage du callus à la nervure médiane marqué à la face supérieure par un décrochement perpendiculaire à l'axe de la feuille.
+Inflorescence branched, lax. Axes slender, zigzag, with caducous, non-imbricate bracts. Each of these bracts subtends a single biflorate cyme and its adaxial spathe-bract. Flowers subsessile, devoid of bracteoles. Sepals equal, corolla with short tube. External staminodial cycle represented by a single, petaloid piece, unguiculate at the base. Inner staminode in the form of a hood furnished with two linear appendages, filament partially free. Ovary with one cell containing a single ovule; fruit indehiscent with membranous pericarp. Seed spherical to ellipsoidal, with a small basal aril; perispermatic canal double.
 
-Inflorescence ramifiée, lâche. Axes minces, en zig-zag, à bractées caduques, non imbriquées. Chacune de ces bractées axille une seule cyme biflore et sa bractée-spathe adaxiale. Fleurs subsessiles, dépourvues de bractéoles. Sépales égaux, corolle à tube court. Cycle staminodial externe représenté par une seule pièce, pétaloïde, onguiculée à la base. Staminode interne en capuchon muni de deux appendices linéaires, flet staminal en partie libre. Ovaire à une loge uniovulée; fruit indéhiscent à péricarpe membraneux. Graine sphérique à ellipsoidale, avec une petit arille basal; canal périspermatique double.
+Type species: Thalia geniculata L. from tropical America.
 
-Espèce type : Thalia geniculata L. d'Amérique tropicale.
-
-Le genre compte 7 espèces d'Amérique tropicale et une
-
-(ou 2) africaines, des zones marécageuses de forêt ou de savane.
+The genus comprises 7 species from tropical America and one (or 2) African species, from marshy zones of forest or savanna.
 
 ## Species in region
 

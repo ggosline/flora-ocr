@@ -17,27 +17,21 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Herbaceous plants erect or ± decumbent.
 
----
+Inflorescences terminal in spikes or heads provided with filiform bracts. Flowers white or violet. Calyx regular with 5 large and broad segments. Corolla with tube very long, narrowly cylindrical curved at the apex, and with 5 rounded or emarginate lobes, twisted to the right in bud. 4 stamens included, with very short filaments free from the base. Anthers equal, with a single fertile lobe and the other rudimentary; connective slightly prolonged at the apex. 4-6 ovules per locule of ovary; style very long included; stigma entire.
 
-Plantes herbacées dressées ou ± rampantes.
+Capsule very slightly stipitate, subcylindric, with 6-14 seeds; valves strongly keeled on the back.
 
-Inflorescences terminales en épis ou en têtes munies de bractées filiformes. Fleurs blanches ou violettes. Calice régulier à 5 segments grands et larges. Corolle à tube très long, cylindrique étroit courbé au sommet, et à 5 lobes arrondis ou émarginés, tordus à droite dans le bouton. 4 étamines incluses, à filets très courts libres dès la base. Anthères égales, à une seule loge fertile et l'autre rudimentaire; connectif un peu prolongé au sommet. 4-6 ovules par loge d'ovaire; style très long inclus; stigmate entier.
+The type species was not designated by Bentham. The type species of the genus Haselhoffia is H. leucophthalma Lindau (= Physacanthus batanganus (G. Braun et J. Schum.) Lindau).
 
-Capsule très peu stipitée, subcylindrique, à 6-14 graines;
+The genus comprises three species. Ph. Talbotii S. Moore, the only non-Gabonese one, is from S. Nigeria.
 
-valves fortement carénées sur le dos.
-
-L’espèce type n’a pas été désignée par Bentham. L’espèce type du genre Haselhoffia est H. leucophthalma Lindau (= Physa-canthus batanganus (G. Braun et J. Schum.) Lindau).
-
-Le genre comprend trois espèces. Ph. Talbotii S. Moore, seule non gabonaise, est du S. Nigeria.
-
-1. Plante couchée, rampante, ne dépassant guère une hauteur de 15 cm; pétales à sommet nettement bilobé; calice étroitement tubulaire non renflé, de 4 mm large ou moins, à dents de 1 mm ou moins; fleurs souvent solitaires; feuilles elliptiques, obtuses à la base et au sommet.
+1. Plant decumbent, creeping, scarcely exceeding a height of 15 cm; petals with apex distinctly bilobed; calyx narrowly tubular not inflated, 4 mm wide or less, with teeth of 1 mm or less; flowers often solitary; leaves elliptic, obtuse at the base and at the apex.
 
 1. P. nematosiphon.
 
-1'. Plante dressée, souvent couchée vers la base, dépassant une hauteur de 15 cm; pétales à sommet arrondi ou faiblement émarginé; calice renflé de 5 mm de large ou plus, à dents de 2 mm ou plus; fleurs souvent condensées dans un pseudo-fascicule terminal; feuilles ovales ou elliptiques, atténuées à la base et acuminées au sommet 2. P. batanganus.
+1'. Plant erect, often decumbent toward the base, exceeding a height of 15 cm; petals with apex rounded or weakly emarginate; calyx inflated 5 mm wide or more, with teeth of 2 mm or more; flowers often condensed in a terminal pseudo-fascicle; leaves ovate or elliptic, attenuate at the base and acuminate at the apex. 2. P. batanganus.
 
 ## Species in region
 

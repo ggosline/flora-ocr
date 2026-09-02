@@ -17,51 +17,23 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Perennial or annual herbs; stem long, resembling the petiole. Leaves with short petiole; blade floating, simple, with orbicular to ovate outline, margin entire to dentate or crenate. Inflorescence appearing borne by the petiole, slightly below the blade, with a solitary flower or several in a glomérule. Flower heterostyled (in Gabon), showy, emerging only at the time of anthesis, subtended by a small bract; calyx spreading or erect at anthesis; corolla with villous lobes (in Gabon); interstaminal glands inserted on the inner face of the tube; ovary ovoid or globulous, with 5 basal glands. Fruit immersed after flowering; pericarp thick and fleshy or thin and papyraceous. Seeds on long funicles, ± orbicular with convex faces or oval-flattened, smooth or verrucose.
 
-Herbes vivaces ou non ; tige longue, ressemblant au pétiole. Feuilles à pétiole court ;
+Genus with almost cosmopolitan distribution, comprising ± 40 species of stagnant or slow-flowing waters, two of which occur in Gabon.
 
-limbe flottant, simple, à contour orbiculaire à ovale , marge entière à dentée ou cré-
+B: Kadereit (2007), Raynal (1971, 1974), Whitehouse (1996).
 
-nelée. Inflorescence paraissant portée par le pétiole , un peu au-dessous du limbe, à une
-
-fleur solitaire ou plusieurs en glomérule. Fleur hétérostyle (au Gabon), voyante , n’émer-
-
-geant qu’au moment de l’anthèse, sous-tendue par une petite bractée ; calice étalé ou
-
-dressé à l’anthèse ; corolle à lobes villeux (au Gabon) ; glandes interstaminales insérées
-
-à la face interne du tube ; ovaire ovoïde ou globuleux, à 5 glandes basales. Fruit immergé
-
-après la floraison ; péricarpe épais et charnu ou mince et papyracé. Graines sur des funi-
-
-cules longs, ± orbiculaires à faces convexes ou ovales-aplaties, lisses ou verruqueuses.
-
-Genre à distribution presque cosmopolite, comprenant ± 40 espèces des eaux stagnantes
-
-ou à écoulement lent, dont deux au Gabon.
-
-B : Kadereit (2007), Raynal (1971, 1974), Whitehouse (1996).
-
-i B liographie
+i Bibliography
 
 ---
 
 ---
 
-### Clé des espèces
+### Key to the species
 
-1. - Corolle jaune, à tube long de 3–3,5 mm et lobes longs de 6–8 mm ; pétiole long
+1. - Corolla yellow, with tube 3–3.5 mm long and lobes 6–8 mm long; petiole 3–10(–30) mm long; blade scarcely exceeding 12 cm in diameter; fruit with up to 12 seeds ................................................................................. N. forbesiana
 
-de 3–10(–30) mm ; limbe ne dépassant guère 12 cm de diamètre ; fruit avec
-
-jusqu’à 12 graines ................................................................................. N. forbesiana
-
-- Corolle blanche à cœur jaune, à tube long de 4–9 mm et lobes longs de 8–11 mm ;
-
-pétiole long de (10–)15–60 mm ; limbe jusqu’à 25–30 cm de diamètre ; fruit avec
-
-un grand nombre de graines (souvent plus de 50) ...... N. indica subsp. occidentalis
+- Corolla white with yellow centre, with tube 4–9 mm long and lobes 8–11 mm long; petiole (10–)15–60 mm long; blade up to 25–30 cm in diameter; fruit with a large number of seeds (often more than 50) ...... N. indica subsp. occidentalis
 
 ## Species in region
 

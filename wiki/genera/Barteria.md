@@ -17,75 +17,29 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+(with Frans J. BRETELER)
 
-(avec Frans J. BRETELER)
+Trees or shrubs without tendrils, with branches often hollow or swollen forming myrmecodomates. Stipules absent. Leaves with petiole decurrent to the lower node; blade penninerved, margin with several glands. Inflorescences with hermaphrodite flowers solitary or in fascicles, (sub-)axillary. Flowers (sub-)sessile, large, fragrant, white, supported by several ranks of scarious, brown bracts; sepals 5, free, petaloid; petals 5, ± similar to the sepals; corona in two ranks, fused to one another, the outer one in a membranous ring, the inner one in a shorter and firmer ring; stamens numerous, hypogynous, filaments generally in two ranks, fused at the base forming a tube, anthers oblong-linear, sub-basifixed, yellow; ovary sessile, with 3–4 pluriovulate placentas; styles simple, firm, stigmas thick, sub-globose or conical. Fruits globose, fleshy, indehiscent. Seeds by the dozens in a capsule.
 
-Arbres ou arbustes sans vrilles , à branches souvent creuses ou renflées formant des
+Genus mainly endemic to Central Africa (from Benin to the Rift Valley) with 4 species, all represented in Gabon.
 
-myrmécodomes Stipules absentes. Feuilles à pétiole décurrent jusqu’au noeud infé-
+Taxonomic note: Previously, the genus was treated by Sleumer (1976) and others as a member of Flacourtiaceae. Several species are myrmecophilous.
 
-rieur ; limbe penninervé , marge à plusieurs glandes. Inflorescences à fleurs hermaphro-
+Bibliography: Breteler (1999), Sinsin (2006), Sleumer (1976).
 
-dites solitaires ou en fascicules, (sub-)axillaires. Fleurs (sub-)sessiles, grandes, par-
+### Key to the species
 
-fumées, blanches, supportées par plusieurs rangs de bractées scarieuses, brunes ;
+1. - Blade up to 15(–20) cm in length, with 9–11(–14) pairs of lateral nerves; branches solid and free of ants or swollen for only a few cm and inhabited by ants; flowers solitary or sometimes 2; bracts not tearing .............................................................................................................................................. 2
 
-sépales 5, libres, pétaloïdes ; pétales 5, ± pareils aux sépales ; couronne en deux rangs ,
+- Blade of well-developed leaves, 20–40(–50) cm in length, with 13–20 pairs of lateral nerves; branches hollow for most of their length and inhabited by ants; flowers rarely solitary, often in odd number, 3–11; bracts often lacerate at flowering ........................................................ 3
 
-soudées l’une à l’autre, l’externe en un anneau membraneux, l’interne en un anneau plus
+2. - Branches solid, no myrmecodomates ................................................... B. solida
 
-court et plus ferme ; étamines nombreuses, hypogynes, filets généralement en deux rangs,
-
-soudés à la base en formant un tube, anthères oblongues-linéaires, sub-basifixes, jaunes ;
-
-ovaire sessile, à 3–4 placentas pluriovulés ; styles simples , fermes, stigmates épais, sub-
-
-globuleux ou coniques . Fruits globuleux, charnus, indéhiscents. Graines par dizaines
-
-dans une capsule.
-
-Genre principalement endémique de l’Afrique Centrale (du Bénin jusqu’à la vallée du
-
-Rift) avec 4 espèces, toutes représentées au Gabon.
-
-Note taxonomique : Avant, le genre était traité par Sleumer (1976) et autres comme
-
-membre des Flacourtiaceae. Plusieurs espèces sont myrmécophiles.
-
-b : Breteler (1999), Sinsin (2006), Sleumer (1976).
-
-ibliographie
-
-### Clé des espèces
-
-1. - Limbe jusqu’à 15(–20) cm de longueur, à 9–11(–14) paires de nervures latérales ;
-
-branches solides et libres de fourmis ou renflées sur quelques cm seulement et
-
-habités par des fourmis ; fleurs solitaires ou parfois par 2 ; bractées ne se déchirant
-
-pas ........................................................................................................................... 2
-
-- Limbe des feuilles bien développées, 20–40(–50) cm de longueur, à 13–20 paires
-
-de nervures latérales ; rameaux creux sur la plus grande partie de leur longueur et
-
-habités par des fourmis ; fleurs rarement solitaires, souvent en nombre impair, par
-
-3–11 ; bractées souvent lacérées à la floraison ........................................................ 3
-
-2. - Branches solides, pas de myrmécodomes ................................................... B. solida
-
-- Branches pourvues de myrmécodomes de quelques cm de longueur ; bractées avec
-
-la nervure médiane prolongée en forme d’arête ..................................... B. nigritana
+- Branches with myrmecodomates of a few cm in length; bracts with the midvein extended in the form of an awn ..................................... B. nigritana
 
 ---
 
-3. - Fleurs par 3, 5, 7, 9 (11), disposées en un fer à cheval entourant la moitié de la
-
-tige ; fruits ellipsoïdes, 3–3,5 × 2–2,5 cm ; bractées arrondies à obtuses, rarement
+3. - Flowers 3, 5, 7, 9 (11), arranged in a horseshoe shape surrounding half of the stem; fruits ellipsoid, 3–3.5 × 2–2.5 cm; bracts rounded to obtuse, rarely
 
 ## Species in region
 

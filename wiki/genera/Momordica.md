@@ -17,33 +17,31 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Perennial or rarely annual herbs, or vines, monoecious or dioecious; stems climbing, reaching 15 m in length; roots often fibrous or lignified and thickened. Tendrils simple or bifid. Leaves petiolate, simple or 3- to 15-foliolate; blade often bearing glands in the basal part. Inflorescences: the male with flowers solitary or in umbel, raceme, fascicle or pseudopanicle, often subtended by a ± orbicular bract, the female with flowers solitary. Male flowers: receptacle campanulate; sepals 5, narrowly ovate-elliptic, acute to obtuse at the apex; corolla rotate, campanulate or zygomorphic, with 5 petals free or rarely fused at the base, white or yellow, often with a black or purple spot towards the base, often 1 to 3 petals with an incurved basal scale; stamens (2–3(−5), with free, short filaments, inserted at the base or towards mid-height of the receptacle, anthers free or coherent, 2 bithecate and 1 monothecate or 1 trithecate and 1 bithecate or all monothecate, with locules duplicated or triplicated; pistillode glanduliform or absent. Female flowers: perianth similar to that of male flowers; ovary oblong to fusiform or cylindric, smooth to angular or tuberculate. Fruits berries, oblong to fusiform or broadly ovoid, indehiscent or dehiscent by 3 valves, smooth or angular, ornamented with tubercles or hairs. Seeds thick or compressed, smooth or ornamented, with testa white, brown or black, crustaceous.
 
-Herbes vivaces ou rarement annuelles, ou lianes, monoïques ou dioïque; tiges grimpantes, atteignant 15 m de longueur; racines souvent fibreuses ou lignifiées et épaissies. Vrilles simples ou bifides. Feuilles pétolées, simples ou 3- à 15-foliolées; limbe souvent muni de glandes dans la partie basale. Inflorescences: les mâles à fleurs solitaires ou en ombelle, racème, fascicule ou pseudopanicule, souvent sous-tendues par une bractée ±orbiculaire, les femelles à fleurs solitaires. Fleurs mâles: réceptacle campanulé; sépales 5, étroitement ovales-elliptiques, aigus à obtus au sommet; corolle rotacée, campanulée ou zygomorphe, à 5 pétales libres ou rarement soudés à la base, blancs ou jaunes, souvent avec une tache noire ou pourpre vers la base, souvent 1 à 3 pétales avec une écaille basale incurvée; étamines (2–3(−5), à filets libres, courts, insérés à la base ou vers la mi-hauteur du réceptacle, anthères libres ou cohérentes, 2 bithèques et 1 monothèque ou 1 trithèque et 1 bithèque ou toutes monothèques, à loges dupliquées ou tripliquées; pistillode glanduliforme ou absent. Fleurs femelles: périanthe semblable à celui des fleurs mâles; ovaire obloïde à fusiforme ou cylindrique, lisse à anguleux ou tuberculé. Fruits en baie, obloïde à fusiforme ou largement ovoïde, indéhiscente ou déhiscente par 3 valves, lisse ou anguleuse, ornamentée de tubercules ou de poils. Graines épaisses ou comprimées, lisses ou ornamentées, à testa blanc, brun ou noir, crustacé.
+Genus of Africa, Asia and Australia with 60 to 70 species, two of which (M. balsamina L., M. charantia L.) naturalized in America and in Pacific islands; in Gabon, eleven species.
 
-Genre de l'Afrique, de l'Asie et de l'Australie avec 60 à 70 espèces, dont deux (M. balsamina L., M. charantia L.) naturalisées en Amérique et dans les îles du Pacifique ; au Gabon, onze espèces.
+BIBLIOGRAPHY: Jeffrey (1967), Keraudren (1967), Keraudren-Aymonin (1975), Schaefer (2020), Schaefer & Renner (2010a, 2011a), Vogel (1990).
 
-BIBLIOGRAPHIE : Jeffrey (1967), Keraudren (1967), Keraudren-Aymonin (1975), Schaefer (2020), Schaefer & Renner (2010a, 2011a), Vogel (1990).
+1. - Leaf with 3 to 9 leaflets..... 2
 
-1. - Feuille avec 3 à 9 folioles..... 2
+- Simple leaves, with entire or lobed blade..... 4
 
-- Feuilles simples, à limbe entier ou lobé..... 4
+2. - Leaf with 9 leaflets..... M. enneaphylla
 
-2. - Feuille avec 9 folioles..... M. enneaphylla
+- Leaf with 3 to 5 leaflets..... 3
 
-- Feuille avec 3 à 5 folioles..... 3
+3. - Male inflorescence included in a large bract; fruit covered with large hairs, without tubercles..... M. cissoides
 
-3. - Inflorescence mâle incluse dans une grande bractée; fruit couvert de gros poils, sans tubercules..... M. cissoides
+- Male inflorescence not included in a large bract; fruit glabrous, beset with conical tubercles..... M. gilgiana
 
-- Inflorescence mâle non incluse dans une grande bractée; fruit glabre, hérissé de tubercules coniques..... M. gilgiana
+4. - Leaf blade coriaceous or subcoriaceous..... 5
 
-4. - Limbe foliaire coriace ou subcoriace..... 5
+- Leaf blade chartaceous, papyraceous or membranous..... 7
 
-- Limbe foliaire parcheminé, papyracé ou membraneux..... 7
+5. - Pedicel of the male flower winged; petals 2.5–3 cm long..... M. cabrae
 
-5. - Pédicelle de la fleur mâle aile; pétales longs de 2,5–3 cm..... M. cabrae
-
-- Pédicelle de la fleur mâle non aile; pétales longs de ±8 mm (fleur mâle inconnue chez M. breteleri)..... 6
+- Pedicel of the male flower not winged; petals ± 8 mm long (male flower unknown in M. breteleri)..... 6
 
 ## Species in region
 

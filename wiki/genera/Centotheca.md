@@ -19,23 +19,19 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Medium-sized perennial plants. Leaves with linear-lanceolate laminae, with tessellate parallel venation.
 
-Plantes pérennes de taille moyenne. Feuilles à limbes linéaires
+Inflorescences in terminal loose panicles with long branches; spikelets pedicellate, articulate above the glumes and between the flowers. Insertion points of the glumes distant; ovate, oblong, with 3 nerves, persistent, the upper one longer.
 
-lancéolés, à nervation parallèle tessellée.
-
-Inflorescences en panicules terminales lâches à longues ramifications; épilets pédicellés, articulés au-dessus des glumes et entre les fleurs. Points d'insertion des glumes distants; ovales, oblongues, à 3 nervures, persistantes, la supérieure est plus longue.
-
-Trois fleurs ou plus; rachis de l'épillet prolongé au-dessus de la dernière et portant une ébauche de glumelle. Lemmas à 5 ou 7 nervures, glabres ou portant dans leur partie supérieure des poils raides fasciculés sur une base tuberculée, d'abord dressés, puis réfléchis vers le bas. Palées plus étroites et plus courtes, bicarénées. Lodicules absentes; 2 ou 3 étamines, styles distincts.
+Three or more flowers; rachis of the spikelet prolonged above the last and bearing a rudimentary glumella. Lemmas with 5 or 7 nerves, glabrous or bearing in their upper part rigid fasciculate hairs on a tuberculate base, at first erect, then reflexed downward. Paleas narrower and shorter, bicarinate. Lodicules absent; 2 or 3 stamens, styles distinct.
 
 ---
 
-Deux espèces sont connues au Gabon; ce sont des plantes de sous-bois ou de jachères forestières, sans grand intérêt pratique.
+Two species are known from Gabon; these are plants of understory or fallow forest areas, of no great practical interest.
 
-1. Épillets aplatis, à nombreuses fleurs, de 8 à 15 mm de long. Lemmas glabres; limbes foliaires lancéolés, arrondis et sub-amplexicaules à la base; 5 nervures principales de chaque côté de la nervure primaire..... 1. C. mucronata.
+1. Spikelets flattened, with numerous flowers, 8 to 15 mm long. Lemmas glabrous; leaf laminae lanceolate, rounded and sub-amplexicaul at the base; 5 principal nerves on each side of the primary nerve..... 1. C. mucronata.
 
-1'. Épilets à 2 ou 3 fleurs, au plus 8 mm de long. Lemmas des fleurs supérieures portant des poils à base tuberculée; limbes foliaires rétrécis vers la base et subpétiolés; généralement 4 nervures principales de chaque côté de la nervure primaire..... 2. C. lappacea.
+1'. Spikelets with 2 or 3 flowers, at most 8 mm long. Lemmas of the upper flowers bearing hairs with tuberculate base; leaf laminae narrowed toward the base and subpetiolate; generally 4 principal nerves on each side of the primary nerve..... 2. C. lappacea.
 
 CHLORIS
 

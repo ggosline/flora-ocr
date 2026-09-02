@@ -17,15 +17,13 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Leaves distichous, coriaceous or fleshy, sometimes thin, unequally bilobed at the apex, often twisted at the base to lie in the same plane. Inflorescence few- to many-flowered, generally pendulous. Flowers small to fairly large, resupinate, translucent, pale-coloured. Sepals and petals dissimilar, free or lateral sepals fused to the petals. Labellum entire or weakly lobed, margins entire, denticulate or fimbriate, without callus or with a prominent callus at the spur throat. Spur of variable length. Rostellum elongated, beak-shaped, acute, fleshy. Tegula Y-shaped, sometimes V-shaped, attached to a single viscidium. – Pl. 203, p. 433.
 
-Feuilles distiques, coriaces ou charnues, parfois minces, inégalement bilobées au sommet, souvent tordues à la base pour se situer dans un même plan. Inflorescence pauci- à multiflore, généralement pendante. Fleurs petites à assez grandes, résupinées, translucides, de couleur claire. Sépales et pétales dissemblables, libres ou sépales latéraux soudés aux pétales. Labelle entier ou faiblement lobé, marges entières, denticulées ou fimbriées, sans callus ou avec un callus saillant à la gorge de l'éperon. Éperon de longueur variable. Rostellum allongé, en forme de bec, aigu, charnu. Tegula en forme de Y, parfois en forme de V, fixée à une viscidie unique. – Pl. 203, p. 433.
+Genus of approximately 20–30 species confined to continental Africa, primarily tropical, of which 2 species occur in Gabon.
 
-Genre d’environ 20-30 espèces confinées à l’Afrique continentale, principalement tropical, dont 2 espèces au Gabon.
+1. Stem short, < 12 cm. Leaves 15–70 cm ..... 47. 2. D. pellucida
 
-1. Tige courte, < 12 cm. Feuilles 15-70 cm ..... 47. 2. D. pellucida
-
-1'. Tige allongée, souvent > 1 m. Feuilles 5-17 cm ..... 47. 1. D. bidens
+1'. Stem elongated, often > 1 m. Leaves 5–17 cm ..... 47. 1. D. bidens
 
 ## Species in region
 

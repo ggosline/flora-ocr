@@ -17,17 +17,15 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Spiny or unarmed trees with compound-digitate leaves of 5-9 entire or dentate leaflets, stipulate (stipules caducous).
 
-Arbres épineux ou inermes à feuilles composées-digitées à 5-9 folioles entières ou dentées, stipulées (stipules caduques).
+Inflorescences in short racemes or solitary flowers. Flowers ♀ actinomorphic and pentamerous. Calyx with 3-12 valvate lobes. Petals ± pubescent externally, united at the base to the staminal tube, imbricate. Staminal tube with 5-15 stamens. Ovary 5-locular.
 
-Inflorescences en courtes grappes ou fleurs solitaires. Fleurs ♀ actinomorphes et pentamères. Calice à 3-12 lobes valvaires. Pétales ± velus extérieurement, soudés à la base au tube staminal, imbriqués. Tube staminal à 5-15 étamines. Ovaire 5-loculaire.
+Woody or coriaceous capsule, woolly within, loculicidal, polyspermous. Albumen absent. Cotyledons contortuplicate. Radicle curved.
 
-Capsule ligneuse ou coriace, laineuse à l'intérieur, loculicide, plurisperme. Albumen nul. Cotylédons contortupliqués. Radicule recourbée.
+TYPE SPECIES: Ceiba pentandra (L.) Gaertner.
 
-ESPÈCE-TYPE : Ceiba pentandra (L.) Gaertner.
-
-Ce genre pantropical regroupe 4 espèces; une seule est présente en Afrique occidentale et centrale.
+This pantropical genus comprises 4 species; only one is present in West and Central Africa.
 
 ## Species in region
 

@@ -17,55 +17,19 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Annual herbs or perennial subshrubs, hemiparasitic or rarely holoparasitic, 15–50 cm in height, exceptionally (A. fruticosa Eb.Fisch.) shrubby up to 150 cm; stems simple or branched with numerous paraclades, hispid with reflexed hairs. Leaves opposite, but alternate in the inflorescence, sessile or shortly petiolate; lamina linear-lanceolate to ovate, with crenate or dentate margin, hispid to subglabrous. Inflorescences in dense or lax raceme, leafy or with foliaceous bracts. Flowers sessile or shortly pedicellate, with linear bracteoles, of the same length or shorter than the calyx; calyx actinomorphic campanulate, not accrescent in fruit, tube longer than the lobes, glabrous to ciliate on the nerves and margins of the lobes; corolla yellow to dark orange, with red-purple or red venation; stamens 4, the abaxial ones with longer filaments and often pilose or rarely all filaments glabrous, anthers with 2 apiculate or obtuse thecae; ovary ovoid to globose; style curved, included, stigma claviform. Fruits: capsular, ± spherical to ovoid, loculicidal. Seeds numerous, fusiform to linear or claviform, truncate, with outer testa transparent and reticulate.
 
-Herbes annuelles ou sous-arbrisseaux pérennes, hémiparasites ou rarement holopara-
+Genus comprising approximately 40 species, known from South America, Africa and Madagascar, to India and Southeast Asia, of which two in Gabon.
 
-sites , 15–50 cm de hauteur, exceptionnellement ( A. fruticosa Eb.Fisch.) arbuste jusqu’à
+Bibliography
 
-150 cm ; tiges simples ou ramifiées à paraclades nombreux, hispides avec des poils réflé -
+B: Fischer (1996, 2006b), Hepper (1963), Mielcarek (1996), Morawetz & Wolfe (2009), Philcox (1990).
 
-chis. Feuilles opposées, mais alternes dans l’inflorescence, sessiles ou courtement pétio -
+### Key to species
 
-lées ; limbe linéaire-lancéolé à ovale, à marge crénelée ou dentée, hispide à subglabre.
+1. - Calyx with stipitate glands and hispid hairs; corolla with stipitate glands on the outside ............................................................................................ A. glandulosa
 
-Inflorescences en racème dense ou lâche, feuillé ou à bractées foliacées. Fleurs sessiles
-
-ou courtement pédicellées, à bractéoles linéaires, de même longueur ou plus courtes que
-
-le calice ; calice actinomorphe campanulé, non accrescent en fruit , tube plus longue
-
-que les lobes, glabre à cilié sur les nervures et marges des lobes ; corolle jaune à orange
-
-foncé, à nervation rouge-pourpre ou rouge ; étamines 4, les abaxiales à filets plus
-
-longs et souvent pileux ou rarement filets tous glabres, anthères à 2 thèques api -
-
-culées ou obtuses ; ovaire ovoïde à globuleux ; style recourbé, inclus, stigmate cla-
-
-viforme . Fruits : capsulaires, ± sphériques à ovoïdes, loculicides. Graines nombreuses,
-
-fusiformes à linéaires ou claviformes, tronquées, à testa extérieur transparent et réticulé.
-
-Genre comprenant environ 40 espèces, connu de l’Amérique du Sud, d’Afrique et de
-
-Madagascar, jusqu’en Inde et en Asie du Sud-Est, dont deux au Gabon.
-
-B : Fischer (1996, 2006b), Hepper (1963), Mielcarek (1996), Morawetz &
-
-ibliographie
-
-Wolfe (2009), Philcox (1990).
-
----
-
-### Clé des espèces
-
-1. - Calice à glandes stipitées et à poils hispides ; corolle à glandes stipitées à
-
-l’extérieur ............................................................................................ A. glandulosa
-
-- Calice glabre à cilié ; corolle glabre .................................................... A. sessiliflora
+- Calyx glabrous to ciliate; corolla glabrous .................................................... A. sessiliflora
 
 ## Species in region
 

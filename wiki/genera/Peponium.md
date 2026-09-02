@@ -17,17 +17,15 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 in Engl. & Prantl, Nat. Pflanzenfam., Nachtr.: 318 (1897).
 
 Peponia Naud., Ann. Sci. Nat., Bot., sér. 5(5): 29 (1866), nom. illeg., non Grev. (1863).
 
-Herbes vivaces, dioïques, grimpantes; racines souvent tubérisées. Vrilles bifides ou (rarement simples). Feuilles pétioilées; limbe de contour ovale-cordiforme, simple ou 3- à 5-lobé. Inflorescences: les mâles en racème pédonculé ou fleurs solitaires, les femelles à fleur solitaire; bractées cucullées, à la base du pédonculé. Fleurs jusqu'à 8 cm de diamètre, à odeur suave. Fleurs mâles: réceptacle allongé, cylindrique; sépales très étroitement elliptiques-ovales; pétales obovales, blancs ou jaunes; étamines 3, à filets libres, insérés sur le réceptacle, anthères cohérentes, 2 bitheques et 1 monothèque, à loges tripiquées. Fleurs femelles: périanthe semblable à celui des fleurs mâles; ovaire ellipsoidal-cylindrique, à nombreux ovules horizon-taux; stigmate bilobé. Fruits en baie indéhiscente, subglobuleuse à ellipsoïdale ou cylindrique, de taille moyenne, parfois rostrée, à péricarpe mince. Graines relativement petites, elliptiques en contour, comprimées, lenticulaires, de couleur sombre.
+Perennial herbs, dioecious, climbing; roots often tuberized. Tendrils bifid or (rarely simple). Leaves petiolate; blade ovate-cordate in outline, simple or 3- to 5-lobed. Inflorescences: the male ones in pedunculate raceme or solitary flowers, the female ones with a solitary flower; bracts cucullate, at the base of the peduncle. Flowers up to 8 cm in diameter, fragrant. Male flowers: receptacle elongate, cylindric; sepals very narrowly elliptic-ovate; petals obovate, white or yellow; stamens 3, with free filaments, inserted on the receptacle, anthers coherent, 2 bithecate and 1 monothecate, with tripunctate locules. Female flowers: perianth similar to that of male flowers; ovary ellipsoid-cylindric, with numerous horizontal ovules; stigma bilobed. Fruits as indehiscent berries, subglobose to ellipsoid or cylindric, of medium size, sometimes rostrate, with thin pericarp. Seeds relatively small, elliptic in outline, compressed, lenticular, dark in colour.
 
-Genre africain avec environ 20 espèces, dont dix à Madagascar; au Gabon, une ou peut-être deux espèces.
+African genus with approximately 20 species, of which ten in Madagascar; in Gabon, one or perhaps two species.
 
-BIBLIOGRAPHIE: Jeffrey (1967), Keraudren (1967), Keraudren-Aymonin (1975), Schaefer & Renner (2011a).
+BIBLIOGRAPHY: Jeffrey (1967), Keraudren (1967), Keraudren-Aymonin (1975), Schaefer & Renner (2011a).
 
 ## Species in region
 

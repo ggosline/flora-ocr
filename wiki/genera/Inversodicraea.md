@@ -17,67 +17,17 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Ledermanniella Engl. subg. Phyllosoma C.Cusset, Bull. Mus. natl. Hist. nat., sér. 4, Adansonia 5(4): 365 (1983).
 
-Ledermanniella Engl. subg. Phyllosoma C.Cusset, Bull. Mus. natl. Hist. nat., sér. 4, Adansonia 5(4) :
+Plant with a basal thalloid foliaceus or ribbon-like part, bearing on its surface or margins acaulous shoots or shoots with developed stems; stem, if present, simple or branched, pinnate or dichotomous, furnished with dense or scattered foliaceus scales. Stipules absent. Leaves deciduous before anthesis, distichous or in a rosette; petiole cylindric or slightly flattened, with a non-sheathing base; blade ribbon-like, navicular or linear, entire, pinnatipartite or dichotomous. Inflorescences with solitary flowers or in sessile or pedunculate fascicles; bracts (see Note below) rapidly caducous, 2- to 5-dichotomous, 5–10 mm in length; spathe of fragile consistency, tearing in ± regular fashion apically or laterally.
 
-365 (1983).
+Flowers inverted within the spathe; pedicel ± long-exsert at anthesis; tepals 2, linear to filiform; androecium shorter than, equal to, or longer than the ovary, with 1 or 2(–3) stamens, with the androphore at least ⅓ of the length of the filaments, anther bilocular, introrse; ovary ellipsoid, unilocular, sessile or borne on a more or less long gynophore; stigmas sessile, free. Fruits ovoid to ellipsoid, ornamented with 8 ribs, with caducous valves. Seeds ellipsoid, ± flattened dorso-ventrally.
 
-Plante à partie basale thalloïde foliacée ou rubanée, portant sur sa surface ou ses marges
+Genus with 20 species, distributed in Liberia, Ivory Coast and from Nigeria to Angola, with some isolated localities in Zambia, Malawi and Democratic Republic of the Congo. In Gabon, seven species are recorded.
 
-des pousses acaules ou à tige développée ; tige, si présente, simple ou ramifiée, pennée ou
+Notes: Cusset (1983) divided Ledermanniella into two subgenera: subgen. Phyllosoma, whose stem surface was more or less densely covered with foliaceus scales, and subgen. Ledermanniella, whose surface was devoid of them. Molecular analyses conducted by Thiv et al. (2009) showed that these two subgenera were found in two distinct clades. Thus they proposed that the species of subgenus Ledermanniella be retained in the genus Ledermanniella, and that the genus Inversodicraea, comprising the species of subgenus Phyllosoma, be restored and accepted. Subsequent molecular analyses (Schenk et al. 2015) supported the decision of Thiv et al. (2009).
 
-dichotome, munie d’écailles foliacées denses ou clairsemées . Stipules absentes . Feuilles
-
-décidues avant l’anthèse, distiques ou en rosette ; pétiole cylindrique ou légèrement aplati,
-
-à base non engainante ; limbe rubané, naviculaire ou linéaire, entier, pennatiséqué ou
-
-dichotome. Inflorescences à fleurs solitaires ou en fascicules sessiles ou pédonculés ; bractées
-
-(voir Note ci-dessous) rapidement caduques, 2- à 5-dichotomes, 5–10 mm de longueur ;
-
-spathelle de consistance fragile, se déchirant de façon ± régulière apicalement ou latéralement.
-
-Fleurs inversées à l’intérieur de la spathelle ; pédicelle ± longuement exsert à l’anthèse ;
-
-tépales 2, linéaires à filiformes ; androcée plus court, égal ou plus long que l’ovaire, avec 1
-
-ou 2(–3) étamines, avec l’androphore d’au moins ⅓ de la longueur des filets, anthère bilo -
-
-culaire, introrse ; ovaire ellipsoïde, uniloculaire, sessile ou porté par un gynophore plus ou
-
-moins long ; stigmates sessiles, libres. Fruits ovoïdes à ellipsoïdes, ornés de 8 côtes, à valves
-
-caduques. Graines ellipsoïdes, ± aplaties dorso-ventralement.
-
-Genre avec 20 espèces, distribué au Libéria, en Côte d’Ivoire et du Nigéria jusqu’en Ango -
-
-la, avec quelques localités isolées en Zambie, au Malawi et en République démocratique du
-
-Congo. Au Gabon, on compte sept espèces.
-
-Notes : Cusset (1983) divisait Ledermanniella en deux sous-genres : subgen. Phyllosoma , dont la surface
-
-de la tige était plus ou moins densément couverte d’écailles foliacées, et subgen. Ledermanniella , dont
-
-la surface en était dépourvue. Des analyses moléculaires effectuées par Thiv et al. (2009) ont montré que
-
----
-
-20 Jean-Paul GHOGUE
-
-ces deux sous-genres se retrouvaient dans deux clades distincts. C’est ainsi qu’ils proposent que soient
-
-maintenues dans le genre Ledermaniella , les espèces du sous-genre Ledermanniella, et que soit restitué
-
-et accepté le genre Inversodicraea comportant alors les espèces du sous-genre Phyllosoma . Des analyses
-
-moléculaires ultérieures (Schenk et al. 2015) confortèrent la décision de Thiv. et al. (2009).
-
-Le terme « bractée » a généralement été utilisé par Cusset (Cusset 1978, 1983, 1984, 1987a, 1987b, Cus -
-
-set & Cusset 1988a, 1988b) pour désigner les petites feuilles, modifiées ou non, axillant les fleurs chez de
+The term "bract" was generally used by Cusset (Cusset 1978, 1983, 1984, 1987a, 1987b, Cusset & Cusset 1988a, 1988b) to designate small leaves, modified or otherwise, subtending the flowers in
 
 ## Species in region
 

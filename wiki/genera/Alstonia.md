@@ -17,69 +17,23 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Trees or shrubs; branches in whorls, most often by 4 or 5. Stipules intrapetiolary, present or absent, often adnate to the petiole, often with large colleters at the margin. Leaves whorled or opposite, often bearing large axillary colleters. Inflorescences terminal, generally or up to together thyrsoid or composed of quasiumbels. Flowers hermaphrodite, actinomorphic, protandrous; corolla with cylindric tube, widened at the level of anthers, thickened at the throat, with stellate lobes; stamens included, with short but distinct filament; anthers triangular or narrowly triangular; disk annular, often indistinct; ovary apocarpe or syncarpe, superior, with 2 biplacentary carpels; style glabrous, with 2 short, apiculate, papillose stigmas. Fruits composed of 2 follicles, free or connate at the base (in Asia rarely a single bilocular follicle), rather thin to very thin, dehiscent along an adaxial line, discretely striate on the outside, with numerous seeds. Seeds sessile, in two or several rows, thin, flattened; placental scar situated approximately in the middle.
 
-Arbres ou arbustes ; branches en verticilles , le plus souvent par 4 ou 5. Stipules intrapétio-
+A genus comprising species from tropical Africa to central America and from the Himalayas and China to Australia and in the South Pacific as far as French Polynesia. The greatest diversity is found in Asia. In Africa two species such as in Gabon.
 
-laires présentes ou absentes, souvent adnées au pétiole, souvent avec de grands collétères
+Vernacular names: emien (trade name); cheesewood (Engl.); ekuk (Fang).
 
-à la marge. Feuilles verticillées ou opposées , souvent munies de gros collétères axillaires.
+B: Beentje (2021), Endress et al. (2019), de Jong (1979), Omino (2002), Sidiyasa (1998),
 
-,QÀRUHVFHQFHV terminales Jpqpudohphqwrxmxvtx¶jHQVHPEOHWK\UVRwGHVRXFRPSRVpHV
-
-GH TXDVLRPEHOOHV Fleurs Pquhv DFWLQRPRUSKHV SURWDQGUHV FRUROOH j WXEH F\OLQGULTXH
-
-pODUJLDXQLYHDXGHVDQWKqUHVpSDLVVLjODJRUJHjOREHVpWDOpVpWDPLQHVLQFOXVHVj¿OHWFRXUW
-
-PDLV GLVWLQFW DQWKqUHV WULDQJXODLUHV j pWURLWHPHQW WULDQJXODLUHV GLVTXH DQQXODLUH VRXYHQW
-
-indistinct ; ovaire apocarpe ou syncarpe, supère, à 2 carpelles biplacentaires ; style glabre, à
-
-2 stigmates courts, apiculés, papilleux. Fruits composés de 2 follicules, libres ou connés à
-
-la base (en Asie rarement à un seul follicule biloculaire), plutôt mince à très mince, déhiscent
-
-le long d’une ligne adaxiale, strié discrètement à l’extérieur, à nombreuses graines. Graines
-
-sessiles, en deux ou plusieurs rangées, minces, aplaties ; cicatrice du placenta située approxi-
-
-mativement au milieu.
-
-8QJHQUHFRPSUHQDQWHVSqFHVGHO¶$IULTXHWURSLFDOHjO¶$Ppultxhfhqwudohhwgho¶+LPD -
-
-OD\DHWGHOD&KLQHjO¶$XVWUDOLHHWGDQVOH3DFL¿TXHVXGMXVTX¶HQ3RO\Qpvlhiudqodlvh/DSOXV
-
-JUDQGHGLYHUVLWpVHWURXYHHQ$VLH(Q$IULTXHGHX[HVSqFHVFRPPHDX*DERQ
-
-Noms vernaculaires : emien (nom commercial) ; cheesewood (angl.) ; ekuk (fang).
-
-B : Beentje (2021), Endress et al. (2019), de Jong (1979), Omino (2002), Sidiyasa (1998),
-
-IBLIOGRAPHIE
+BIBLIOGRAPHY
 
 Wilks & Issembé (2000).
 
-### Clé des espèces
+### Key to species
 
-3pWLROHGH±±±FPOLPEHIROLDLUH±IRLVDXVVLORQJTXHODUJH
+Petiole 0.5–2 cm; limb 1–3 times as long as wide; secondary nerves in 6–8 pairs; axes of inflorescences densely or weakly pubescent; calyx pubescent on the outside; corolla tube 1.5–2 times as long as the lobes; fruit pubescent ............. A. boonei
 
-jQHUYXUHVVHFRQGDLUHVHQjSDLUHVjSDUFPD[HVGHVLQÀRUHV -
-
-cences densément ou faiblement pubescents ; calice pubescent à l’extérieur ; tube
-
-GHODFRUROOH±IRLVDXVVLORQJTXHOHVOREHVIUXLWSXEHVFHQW ............. A. boonei
-
-3pWLROHQXORXMXVTX¶j±OFPOLPEHIROLDLUH±IRLVDXVVLORQJTXHODUJHj
-
-QHUYXUHVVHFRQGDLUHVHQjSDLUHVjSDUFPD[HVGHVLQÀRUHVFHQFHV
-
-JODEUHVRXSHXSXEHVFHQWVXQLTXHPHQWVXUOHVGHUQLHUVUDPHDX[FDOLFHJODEUHRX
-
-SDUIRLVjTXHOTXHVSRLOVPLQXVFXOHVOREHVjTXHOTXHVSRLOVPDUJLQDX[WXEHGH
-
-ODFRUROOH±IRLVDXVVLORQJTXHOHVOREHVIUXLWJODEUHRXjTXHOTXHVSRLOV
-
-minuscules ................................................................................................. A . congensis
+Petiole null or up to 0.5 cm; limb 3–7 times as long as wide; secondary nerves in 8–12 pairs; axes of inflorescences glabrous or sparsely pubescent only on the last branches; calyx glabrous or sometimes with a few minute hairs; lobes with a few marginal hairs; corolla tube 2–3 times as long as the lobes; fruit glabrous or with a few minute hairs ................................................................................................. A. congensis
 
 ## Species in region
 

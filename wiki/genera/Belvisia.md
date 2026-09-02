@@ -16,11 +16,9 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Epiphytes with creeping, scaly rhizome, articulate petiole, entire blade, coriaceous, generally glabrous; reticulate venation with included veinlets. Sporangia localized at the apex of the blade, occupying the entire lower surface of the narrowed and linear frond. Presence of paraphyses.
 
-Épiphytes à rhizome rampant, écailleux, pétiole articulé, limbe entier, coriace, généralement glabre; nervation réticulée à nervilles incluses. Sporanges localisés au sommet du limbe, occupant toute la face inférieure de la fronde rétrécie et linéaire. Présence de paraphyses.
-
-Type : Belvisia spicata, d'Afrique.
+Type: Belvisia spicata, from Africa.
 
 ---
 

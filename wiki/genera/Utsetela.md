@@ -17,19 +17,17 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Shrubs. Leaves distichous; blade subtriplinerved. Stipules free, lateral.
 
-Arbustes. Feuilles distiques ; limbe subtriplinerve. Stipules libres, latérales.
+Inflorescences solitary, by 2 or in small groups on short branchlets at the leaf axils, bisexual, subsessile to pedunculate, bracts attached basally at the base of the inflorescence. Flowers several to many, often in groups of 2–3; perianth tubular, 1–4-lobed to 2–4-fid; stamens (1) 2 (3), straight in bud, with latorose anthers; pistillode absent. Female flower unique (sometimes more?) at the centre of the inflorescence; perianth tubular, 4-dentate; ovary free; stigmas 2, filiform.
 
-Inflorescences solitaires, par 2 ou par petits groupes sur des rameaux courts à l'aisselle des feuilles, bisexuées, subsessiles à pédonculées, bractées attachées basalement à la base de l'inflorescence. Fleurs à plusieurs à beaucoup, souvent par groupes de 2-3 ; périanthe tubulaire, 1-4-lobé à 2-4-fide ; étamines (1) 2 (3), droites dans le bouton, à anthères latorses ; pistillode absent. Fleur ♀ unique (parfois plus ?) au centre de l'inflorescence ; périanthe tubulaire, 4-denté ; ovaire libre ; stigmates 2, filiformes.
+Infructescences globose, bearing dispersed male flowers (or their remains). Fruit free; exocarp white, fleshy, dehiscent, ejecting the stone; endocarp fairly thin; testa with a thickened suborbicular zone, vascularized beneath the hilum; embryo with unequal cotyledons, the outer enveloping the inner thicker one; radicle small, subapical.
 
-Infrutescences globuleuses, portant des fleurs ô dispersées (ou les restes d'elles). Fruit libre ; exocarpe blanc, charnu, déhiscent, éjectant le noyau ; endocarpe assez mince ; testa avec une zone suborbiculaire épaissie, vascularisée sous le hile ; embryon à cotylédons inégaux, l'extérieur enveloppant l'intérieur plus épais ; radicule petite, subapicale.
-
-ESPÉCE-TYPE : Utsetela gabonensis Pellegr.
+TYPE-SPECIES: Utsetela gabonensis Pellegr.
 
 ---
 
-Ce remarquable genre, ressemblant au genre Bleekrodea Benth. & Hook.f. par ses inflorescences et au genre néotropical Helianthostylis Baill. par ses infrutescences, est monospécifique.
+This remarkable genus, resembling the genus Bleekrodea Benth. & Hook.f. by its inflorescences and the neotropical genus Helianthostylis Baill. by its infructescences, is monotypic.
 
 ## Species in region
 

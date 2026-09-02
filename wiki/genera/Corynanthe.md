@@ -17,23 +17,17 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+### Small trees with entirely glabrous vegetative apparatus. Stipules caducous.
 
-### Petits arbres à appareil végétatif entièrement glabre. Stipules caduques.
+Inflorescences either terminal (C. paniculata, on leafy sometimes short branches), or axillary, then arising near the apex of a branch. Flowers numerous, small, briefly pedicellate or sessile, 3–6-merous. Calyx with small lobes. Corolla with narrow tube, with lobes ± deeply separated, pubescent along the median line of the inner face, bearing at the apex an appendage in the form of a wart, digitiform or filiform, less than 6 mm. Anthers exsert. Style glabrous far exceeding the throat, with capitate or ovate stigma. Disk absent. Ovary 2-locular. Placentas fleshy pendulous, bearing numerous imbricate ascending ovules.
 
-Inflorescences soit terminales (C. paniculata, sur des rameaux feuillés parfois courts), soit axillaires, nées alors à proximité de l'extrémité d'un rameau. Fleurs nombreuses, petites, brièvement pédicellées ou sessiles, 3-6-mères. Calice à lobes petits. Corolle à tube étroit, à lobes ± profondément séparés, pubescents sur la ligne médiane de la face interne, portant au sommet un appendice en forme de verrue, digitiforme ou filiforme, inférieur à 6 mm. Anthères exsertes. Style glabre dépassant beaucoup la gorge, à stigmate capité ou ové. Disque nul. Ovaire à 2 loges. Placentas charnus pendants, portant des ovules nombreux imbriqués, ascendants.
+Fruit localicidally dehiscent from the apex. Seeds small and very light, with membranous aliform margin at both extremities.
 
-Fruit localicide déhiscent à partir du sommet. Graines petites et très légères, à marge membraneuse aliforme aux deux extrémités.
+Type of the genus C. paniculata Welwitsch described from Angola (type Welw. 1508, P! ex Museu Nacional).
 
-Type du genre C. paniculata Welwitsch décrit de l'Angola (type Welw. 1508, P! ex Museu Nacional).
+The genus Pseudocinchona was created by A. Chevalier for a species that was identical to Corynanthe pachyceras of Schumann. Raymond-Hamet wished to maintain this genus by invoking chemical characters in the absence of "clear macroscopic characters". These chemical characters are on one hand the absence of yohimbine, an alkaloid discovered in Pausinystalia and which exists in Corynanthe paniculata; on the other hand, the presence of corynanthine discovered in C. pachyceras and absent in C. paniculata. One could emphasize the character of truly terminal position of the inflorescences of C. paniculata, a unique case among Corynanthe sensu lato. But this qualitative character presents itself in the same way in the genus Pausinystalia where P. johimbe and P. Lane Poolei show truly terminal inflorescences while in most other species the inflorescences are subterminal–axillary as in Corynanthe mayumbensis, C. Mobiusii and C. pachyceras. In conclusion we agree with R. W. J. Keay (F.W.T.A., ed. 2: 111, footnote) that Pseudocinchona represented by C. pachyceras and C. mayumbensis merit only a place as a subgenus among Corynanthe.
 
-Le genre Pseudocinchona a été créé par A. Chevalier pour une espèce qui était identique au Corynanthe pachyceras de Schumann. Raymond-Hamet a voulu maintenir ce genre en faisant valoir des caractères chimiques faute de « caractères macroscopiques tranchés ». Ces caractères chimiques sont d'une part l'absence de
-
----
-
-yohimbine, alcaloïde découvert chez Pausinystalia et qui existe chez Corynanthe paniculata; d'autre part, la présence de corynanthine découverte chez le C. pachyceras et absente chez C. paniculata. On pourrait mettre en valeur le caractère de position vraiment terminale des inflorescences de C. paniculata, cas unique chez les Corynanthe sensu lato. Mais ce caractère qualitatif se présente de la même façon dans le genre Pausinystalia où les P. johimbe et P. Lane Poolei montrent des inflorescences vraiment terminales tandis que chez la plupart des autres espèces les inflorescences sont subterminales-axillaires comme chez Corynanthe mayumbensis, C. Mobiusii et C. pachyceras. En conclusion nous pensons avec R. W. J. Keay (F.W.T.A., éd. 2 : 111, note en bas de page) que les Pseudocinchona représentés par C. pachyceras et C. mayumbensis méritent seulement une place de sous-genre parmi les Corynanthe.
-
-Le genre Corynanthe se compose de 5 (ou 6) espèces dont deux sont connues au Gabon. Deux autres, C. Mobiusii Brandt du S Nigeria et du S Cameroun, et C. paniculata Welw. du Mayombe, bas-Congo et Kouilou (Lecomte A 67), sont à rechercher au Gabon. Notons que C. Mobiusii a pour synonyme Pausinstalia Talbotii Wernh.; opinion fondée sur l'échantillon Latilo F.H.I. 40341 (P ex K).
+The genus Corynanthe is composed of 5 (or 6) species of which two are known from Gabon. Two others, C. Mobiusii Brandt from S Nigeria and S Cameroon, and C. paniculata Welw. from Mayombe, lower Congo and Kouilou (Lecomte A 67), are to be sought in Gabon. Note that C. Mobiusii has as synonym Pausinystalia Talbotii Wernh.; opinion based on the specimen Latilo F.H.I. 40341 (P ex K).
 
 ## Species in region
 

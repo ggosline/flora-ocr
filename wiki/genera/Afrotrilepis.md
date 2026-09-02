@@ -17,45 +17,15 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Perennial herbs, robust or slender, in tufts or forming dense clumps, with fine or thick branched rhizomes, sometimes with a trunk-like stipe at the base. Leaves: leaf sheaths closed and extended at the collar, on the side opposite the blade, by a triangular lobe (counterligule); ligule hairy or fringed; blades short (A. jaegeri) or long (A. pilosa), flat, hairy or glabrous, crowded along the stems, folded or with incurved margins.
 
-Herbes vivaces, robustes ou grêles, en touffes ou formant des massifs, avec des rhizomes
+Inflorescence in a ± developed panicle, with small ± numerous spikes; spikes bisexual, male or more rarely female, with numerous lateral spikelets, having at the base bracts resembling glumes and arranged in a spiral. Spikelets bisexual or unisexual, with a few opposite glumes, the 1–2 larger ones having a flower at their axil; basal spikelets with 1–2 male flowers; upper spikelets most often with 1 male flower and 1 female flower. Unisexual flowers, the male ones with 1–3 stamens; female flower surrounded by 3 hypogynous scales, falling with the fruit; style with 3 branches with an acute and persistent base. Achene triangular, fusiform, with a long beak, smooth.
 
-ramifiés fins ou épais , quelquefois avec un stipe tronciforme à la base. Feuilles : gaines
+A genus comprising only 2 species, very widespread in West tropical Africa, from Senegal, Mali and Guinea to Cameroon and Gabon; a single species in Gabon.
 
-foliaires fermées et prolongées au collet, du côté opposé au limbe, par un lobe triangulaire
+B: Bentham (1881b), Gilly (1943), Goetghebeur (1998), Haines & Lye (1983), Raynal (1963).
 
-(contreligule) ; ligule poilue ou frangée ; limbes courts ( A. jaegeri ) ou longs ( A. pilosa ),
-
-plans, poilus ou glabres, serrés le long des tiges, pliés ou avec les marges incurvées.
-
-Inflorescence en panicule ± développée, avec de petits épis ± nombreux ; épis bisexués,
-
-mâles ou plus rarement femelles, avec de nombreux épillets latéraux, ayant à la base des
-
-bractées ressemblant à des glumes et disposées en spirale. Épillets bisexués ou unisexués,
-
-avec quelques glumes opposées, les 1‒2 plus grandes ayant une fleur à leur aisselle ;
-
-épillets basaux avec 1‒2 fleurs mâles ; épillets supérieurs le plus souvent avec 1 fleur
-
-mâle et 1 fleur femelle Fleurs unisexuées, les mâles 1‒3 étamines ; fleur femelle entou-
-
-rée par 3 écailles hypogynes, tombant avec le fruit ; style à 3 branches avec une base aiguë
-
-et persistante. Akène triangulaire, fusiforme, avec un long bec, lisse .
-
-Un genre comptant seulement 2 espèces, très répandu en Afrique tropicale de l’Ouest,
-
-depuis le Sénégal, le Mali et la Guinée jusqu’au Cameroun et le Gabon ; une seule espèce
-
-au Gabon.
-
-B : Bentham (1881b), Gilly (1943), Goetghebeur (1998), Haines & Lye
-
-ibliographie
-
-(1983), Raynal (1963).
+Bibliography
 
 ---
 

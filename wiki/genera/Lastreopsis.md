@@ -16,45 +16,35 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Terrestrial ferns, with long-creeping, rarely erect rhizome, bearing scales with thick-walled cells, margins entire or denticulate, sometimes bearing glandular hairs. Frond several times pinnate, deltoid, pentagonal, the first pair of lower pinnae developed basiscopic ally. Margin of blade thick, decurrent on the rachis. Rachis channelled on the upper surface, bearing multicellular reddish hairs. Costae and costulae prominent on the upper surface. Texture membranous or subcoriaceous. Frequent presence of glandular hairs, oblong or rounded, along the rachises, costae, costulae and lower surface of the blade. Veins free. Sori small, rounded. Indusium glandular, sometimes caducous.
 
-Fougères terrestres, à rhizome rampant, rarement dressé, portant des écailles à cellules épaisses, marges entières ou denticulées, quelquefois portant des poils glanduleux. Fronde plusieurs fois pennée, deltoïde, pentagonale, la première paire de pennes inférieures développée basiscopiquement. Marge du limbe épaisse, décurrente sur le rachis. Rachis canaliculé à la face supérieure, portant des poils multicellulaires roux. Costae et costulae proéminents à la face supérieure. Texture membraneuse ou subcoriace. Présence fréquente de poils glanduleux, oblongs ou arrondis, le long des rachis, costae, costulae et face inférieure du limbe. Nervures libres. Sores petits arrondis. Indusie glanduleuse, parfois caduque.
+Type: Lastreopsis recedens (J. Sm. ex Moore) Ching.
 
-Type : Lastreopsis recedens (J. Sm. ex Moore) Ching.
+About 300 species, in tropical America, Africa, Asia, Australia, New Zealand, Polynesia.
 
-Environ 300 espèces, en Amérique tropicale, Afrique, Asie,
+The position of this genus has been much debated. The presence of multicellular reddish hairs brings it closer to Ctenitis. It seems to us that, by its frond with deltoid outline, developed basioscopically, by its pluricellular hairs, it should be brought closer to Tectaria and Ctenitis. Copeland unites Lastreopsis and Ctenitis.
 
-Australie, Nouvelle-Zélande, Polynésie.
+A good character indicated by Miss Tindale is that of the adaxial surface of the primary and secondary axes: the adaxial surface of the primary axis is bordered by 2 ridges which are continuous with those of the other axes and, in the ultimate segments, with the thickened and decurrent margin of the segments; the ridges
 
-La place de ce genre a été très discutée. La présence de poils roux multicellulaires le rapproche des Ctenitis. Il nous semble que, par sa fronde à contour deltoïde, développée basiscopiquement, par ses poils pluricellulaires, elle doit se rapprocher des Tectaria et des Ctenitis. Copeland unit les Lastreopsis et les Ctenitis.
+<<<---SECTION-BREAK--->>>
 
-Un bon caractère indiqué par Miss Tindale est celui de la face adaxiale des axes principaux et secondaires : la face adaxiale de l'axe principal est bordée par 2 bourrelets qui sont en continuation avec ceux des autres axes et, dans les segments ultimes, avec la marge épaissie et décurrente des segments; les bourrelets
+bordering the axes of different orders are continuous (difference with Ctenitis).
 
----
+1. Rhizome long-creeping with distant fronds; ultimate segments ± cuneiform, with subflabellate veins..... 1. L. davalliaeformis.
 
-bordant les axes de différents ordres sont continus (différence avec Ctenitis).
+1'. Rhizome in a caudex, erect, thick, with approximate fronds.
 
-1. Rhizome longuement rampant à frondes espacées; segments ultimes
+2. Sori oblong; median pinnae lobed only; brownish coloration when dry..... 2. L. subsimilis.
 
-± cunéiformes, à nervures subflabellées..... 1. L. davalliaeformis.
+2'. Sori rounded; median pinnae themselves pinnate.
 
-1'. Rhizome en souche, dressé, épais, à frondes rapprochées.
+3. Costae and costulae villous on the lower surface; lower surfaces bearing some hairs; pinnules with the 1st acroscopic lobe more developed and more lobed..... 3. L. nigritiana.
 
-2. Sores oblongs; pennes moyennes seulement lobées; coloration brunissante sur le sec..... 2. L. subsimilis.
+3'. Costae glabrous or subglabrous on the lower surface.
 
-2'. Sores arrondis; pennes moyennes elles-mêmes pennées.
+4. Sori large; pinnae and pinnules long-petiolate, making an acute angle with the rachis..... 4. L. Vogelii.
 
-3. Costae et costulae villeux à la face inférieure; surfaces infé-
-
-rieures portant quelques poils; pinnules à 1er lobe acroscope
-
-plus développé et plus lobé..... 3. L. nigritiana.
-
-3'. Costae glabres ou subglabres à la face inférieure.
-
-4. Sores larges; pennes et pinnules longuement pétiolées, faisant un angle aigu avec le rachis..... 4. L. Vogelii.
-
-4'. Sores petits; pinnules subsessiles; pennes et pinnules faisant un angle presque droit avec les axes..... 5. L. efulensis.
+4'. Sori small; pinnules subsessile; pinnae and pinnules making an almost right angle with the axes..... 5. L. efulensis.
 
 1. Lastreopsis davalliaeformis (Tard.) Tardieu comb. nov. (PL. XXVII)
 

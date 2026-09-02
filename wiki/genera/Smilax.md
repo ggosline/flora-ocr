@@ -17,35 +17,13 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Slender dioecious lianas, often sempervirent; rhizome tuberculous; stems often spiny. Leaves alternate, glabrous; petiole with 2 tendrils; blade with 3–5(–7) principal nerves. Flowers unisexual, sometimes fragrant; tepals free, subequal, yellowish-green. Male flowers with 6 or rarely 3, 12, 15 or 18 stamens, filaments free, anthers basifixed, two-locular, introrse. Female flowers with 3–6 staminodes; ovary 3-locular, locules 1–2-ovulate; stigmas subsessile. Fruit a globular berry. Seeds 1–3, with small embryo, enveloped in hard and oily albumen.
 
-Lianes dioïques, grêles, souvent sempervirentes; rhizome tuberculeux ; tiges souvent épi-
+Genus comprising 300 species distributed as the family. From Gabon, only a single species is known.
 
-neuses . Feuilles alternées, glabres ; pétiole à 2 vrilles ; limbe à 3–5(–7) nervures prin-
+BIBLIOGRAPHY
 
-cipales. Fleurs unisexuées, parfois parfumées ; tépales libres, subégaux, jaune verdâtre.
-
-Fleurs mâles à 6 ou rarement 3, 12, 15 ou 18 étamines, filets libres, anthères basifixes, à
-
-deux loges, introrses. Fleurs femelles à 3–6 staminodes ; ovaire 3-loculaire, à loges 1–2-
-
-ovulées ; stigmates subsessiles. Fruit une baie globuleuse. Graines 1–3, à embryon petit,
-
-enveloppé dans un albumen dur et huileux.
-
-Genre comprenant 300 espèces distribuées comme la famille. Du Gabon, on ne connaît
-
-qu’une seule espèce.
-
-B : Conran (1998), Cowley (1989), Hepper (1968d), Perrier de la Bâthie
-
-IBLIOGRAPHIE
-
-(1938).
-
----
-
----
+B: Conran (1998), Cowley (1989), Hepper (1968d), Perrier de la Bâthie (1938).
 
 ## Species in region
 

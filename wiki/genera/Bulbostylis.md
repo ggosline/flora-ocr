@@ -17,67 +17,37 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Herbs annual or perennial. Leaves usually with tufts of hairs at the collar of the sheath, very rarely with leaves reduced to sheaths; blades usually very narrow, almost filiform, often hairy or scabrous. Inflorescence in simple anthela formed of a single sessile spikelet and pedicelled spikelets with basal bracts, or in more complex anthela with secondary branches, or reduced to a compact group of sessile spikelets, or rarely reduced to a single spikelet. Spikelets with glumes arranged in spiral, the 1–2 lower ones often empty, the following ones bisexual; glumes often hairy and of very variable form. Flowers bisexual; perianth absent; stamens 2–3; style with 2–3 branches, with swollen base persistent generally on the achene as a distinct apex, or rarely caducous (B. hispidula). Achene biconvex or trigonous, depending on whether the style is bifid or trifid, with surface smooth, reticulate, trabeculate, papillose, tuberculate, transversely ridged or longitudinally striate.
 
-Herbes annuelles ou vivaces. Feuilles habituellement avec des touffes de poils au collet
+Genus comprising approximately 120 species, widely distributed in tropical and warm temperate regions of the world. Approximately 80 species occur in Africa, of which 15 in Gabon.
 
-de la gaine , très rarement avec les feuilles réduites aux gaines ; limbes habituellement
+Bibliography
 
-très étroits, presque filiformes , souvent poilus ou scabres. Inflorescence en anthèle
+B: Bodard (1963), Goetghebeur & Coudijzer (1984b), Haines & Lye (1983), Hoenselaar et al. (2010), Hooper & Napper (1972), Lye (1997).
 
-simple formée d’un seul épillet sessile et d’épillets pédicellés avec des bractées basales,
+### Key to the species
 
-ou en anthèle plus complexe avec des rameaux secondaires, ou réduite à un groupe com-
+1. - Inflorescence formed of a head of sessile, ± numerous spikelets ................. 2
 
-pact d’épillets sessiles, ou rarement réduite à un seul épillet . Épillets avec les glumes
+- Inflorescence in anthela having at least 3 spikelets of which at least one is pedicelled 7
 
-arrangées en spirale, les 1‒2 inférieures souvent vides, les suivantes bisexuées ; glumes
+2. - Spikelet with distichous glumes 6–8 mm long; achene 1.7–2 mm long B. pilosa
 
-souvent poilues et de forme très variable. Fleurs bisexuées ; périanthe absent ; étamines
+- Spikelet with spiral glumes, 1.5–4.5 mm long; achene 0.5–1.5 mm long ... 3
 
-2‒3 ; style à 2‒3 branches, à base renflée persistant généralement sur l’akène en un
+3. - Inflorescence spherical; long hairs present at the base of the head .......... B. laniceps
 
-sommet distinct , ou rarement caduque ( B. hispidula ). Akène biconvexe ou trigone, sui-
-
-vant que le style est bifide ou trifide, à surface lisse, réticulée, trabéculée, papilleuse,
-
-tuberculée, ridée transversalement ou striée longitudinalement.
-
-Genre comptant environ 120 espèces, largement distribuées dans les régions tropicales et
-
-tempérées chaudes du monde. Environ 80 espèces poussent en Afrique dont 15 au Gabon.
-
-B : Bodard (1963), Goetghebeur & Coudijzer (1984b), Haines & Lye (1983),
-
-ibliographie
-
-Hoenselaar et al. (2010), Hooper & Napper (1972), Lye (1997).
-
-### Clé des espèces
-
-1. - Inflorescence formée d’une tête d’épillets sessiles serrés, ± nombreux ................. 2
-
-- Inflorescence en anthèle ayant au moins 3 épillets dont au moins un est pédicellé 7
-
-2. - Épillet à glumes distiques longues de 6‒8 mm ; akène long de 1,7‒2 mm B. pilosa
-
-- Épillet à glumes spiralées, longues de 1,5‒4,5 mm ; akène long de 0,5‒1,5 mm ... 3
-
-3. - Inflorescence sphérique ; longs poils présents à la base de la tête .......... B. laniceps
-
-- Inflorescence hémisphérique ou formée seulement de quelques épillets sessiles ... 4
+- Inflorescence hemispherical or formed of only a few sessile spikelets ... 4
 
 ---
 
-4. - Tige très scabre sous l’inflorescence avec de courts poils raides dirigés vers le
+4. - Stem very scabrous below the inflorescence with short stiff hairs directed upward; spikelet brownish ........................................................................ B. scabricaulis
 
-haut ; épillet brunâtre ........................................................................ B. scabricaulis
+- Stem not scabrous; spikelet brown to almost black .......................................................... 5
 
-- Tige non scabre ; épillet brun à presque noir .......................................................... 5
+5. - Glumes obtuse to emarginate; spikelet almost black ............................ B. vanderystii
 
-5. - Glumes obtuses à échancrées ; épillet presque noir ............................ B. vanderystii
-
-- Glumes aiguës avec la nervure centrale atteignant la pointe ; épillet brun rougeâtre
+- Glumes acute with the central nerve reaching the apex; spikelet reddish brown
 
 ................................................................................................................................. 6
 

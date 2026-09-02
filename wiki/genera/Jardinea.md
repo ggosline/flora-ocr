@@ -17,25 +17,19 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Erect, robust herbs.
 
-Herbes dressées, robustes.
+Numerous elongated racemes, arranged on a common axis at the apex of the culms, disarticulating at maturity between the spikelets.
 
-Nombreux racèmes allongés, disposés sur un axe commun à l'extrémité des chaumes, se désarticulant à maturité entre les épilles.
+Spikelets in pairs, heterogamous, the pedicellate sometimes much reduced. Sessile spikelet with two flowers, the lower male and the upper hermaphrodite, awnless. Glumes chartaceous, the lower one mucronate, bicarinate, flattened and tuberculate or spinescent on the back, strongly divergent at maturity. Upper glume naviculate, keeled. Lower lemmas hyaline, awnless, that of the sterile floret with two nerves, the fertile one with 3 nerves. Upper lemmas hyaline, with two nerves, sometimes very reduced or suppressed. Two lodicules, acute; three stamens.
 
-Épillets par paires, hétérogames, le pédicellé parfois très réduit. Épillet sessile à deux fleurs, l'inférieure mâle et la supérieure hermaphrodite, mutique. Glumes cartacées, l'inférieure mucronée, bicarénée, aplatie et tuberculée ou spinescente sur le dos, fortement divergente à maturité. Glume supérieure naviculaire, carénée. Glumelles inférieures hyalines, mutiques, celle de la fleur stérile à deux nervure, la fertile à 3 nervures. Glumelles supérieures hyalines, à deux nervures, parfois très réduites ou supprimées. Deux lodicules, aiguës; trois étamines.
+Jardinea species are most often plants of marshy places or forest margins with fresh soil. They are recognized by their ample inflorescences, their awnless spikelets with tuberculate lower glume.
 
-Les Jardinea sont le plus souvent des plantes d'endroits marécageux ou de lisières forestières à sol frais. On les reconnaît par leurs inflorescences amples, leurs épilets mutiques à glume inférieure tuberculée.
+Jardinea gabonensis Steud. was described from Gabon, but the presence of another species, J. congoensis Franch., is very probable.
 
-Le Jardinea gabonensis Steud. a été décrit du Gabon, mais la présence d'une autre espèce, le J. congoensis Franch., est très probable.
+1. Racemes 6 to 12, rigid, fragile, opposite or distributed on the inflorescence axis; pedicellate spikelets reduced to a small glume or almost suppressed..... 1. J. gabonensis.
 
-1. Racèmes de 6 à 12, rigides, fragiles, opposés ou répartis sur l'axe de l'inflorescence; épilets pédicélés réduits à une petite glume ou presque supprimés..... 1. J. gabonensis.
-
-1'. Racèmes très nombreux, verticillés ou sub-verticillés, au moins les inférieurs, relativement flexueux; épillets pédicellés semblables aux sessiles ou bien un peu réduits..... 2. J. congoensis.
-
----
-
----
+1'. Racemes very numerous, whorled or sub-whorled, at least the lower ones, relatively flexuous; pedicellate spikelets similar to the sessile ones or somewhat reduced..... 2. J. congoensis.
 
 ## Species in region
 

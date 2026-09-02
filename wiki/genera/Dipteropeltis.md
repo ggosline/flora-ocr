@@ -17,47 +17,47 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Lianes. Leaves entire. Inflorescences in panicles; bracteoles generally alternate.
 
-Lianes. Feuilles entières . Inflorescences en panicules ; bractéoles en général alternes.
+Flowers: sepals free, slightly unequal; corolla campanulate, deeply lobed;
 
-Fleurs : sépales libres, légèrement inégaux ; corolle campanulée, profondément lobée ;
+stamens with anthers included or exsert, pollen grains smooth; disk with diameter more
 
-étamines à anthères incluses ou exsertes , grains de pollen lisses ; disque à diamètre plus
+or less equal to that of the ovary; pistil included or with exsert stigmas, ovary with
 
-ou moins égal à celui de l’ovaire ; pistil inclus ou à stigmates exserts , ovaire à pubes-
+pubescence of appressed multicellular glandular hairs and bifurcate hairs, unilocular,
 
-cence de poils glanduleux apprimés multicellulaires et de poils bifurqués , uniloculaire,
+2-ovulate; styles ± equal, connate at the base, stigmas globose. Fruit ellipsoid, enveloped
 
-2-ovulé ; styles ± égaux, soudés à la base, stigmates globuleux . Fruit ellipsoïde, envelop-
+by the calyx with two external sepals ± equal, greatly enlarged and the internal ones not
 
-pé par le calice à deux sépales externes ± égaux, très élargis et les internes non élargis.
+enlarged.
 
-Genre d’Afrique centrale, peut-être proche de Calycobolus , comprenant 3 espèces dont
+Genus of central Africa, perhaps close to Calycobolus, comprising 3 species of which
 
-2 au Gabon.
+2 in Gabon.
 
-B : Breteler (1995, 2013), Lejoly & Lisowski (1993).
+B: Breteler (1995, 2013), Lejoly & Lisowski (1993).
 
-ibliographie
+Bibliography
 
-### Clé des espèces
+### Key to species
 
-1. - Corolle infundibuliforme, plus de 10 mm de longueur ; anthères et stigmates
+1. - Corolla funnel-shaped, more than 10 mm in length; anthers and stigmas
 
-inclus .................................................................................................... D. macrantha
+included ............................................................................................. D. macrantha
 
-- Corolle campanulée, jusqu’à 8 mm de longueur ; anthères et stigmates exserts
+- Corolla campanulate, up to 8 mm in length; anthers and stigmas exsert
 
-............................................................................................................. D. poranoides
+............................................................................................................ D. poranoides
 
 ---
 
-Corolle (× 3). – 4. Corolle ouverte (× 3). – 5. Corolle, détail de l’extérieur (× 3). – 6. Gynécée (× 3). –
+Corolla (× 3). – 4. Corolla open (× 3). – 5. Corolla, detail of the exterior (× 3). – 6. Gynoecium (× 3). –
 
-7. Fruit immature (× 2). (1–7 : A.M. Louis et al. 1409 ). Dessin par Hans de Vries, collection privée de
+7. Immature fruit (× 2). (1–7: A.M. Louis et al. 1409). Drawing by Hans de Vries, private collection of
 
-l’auteur (©).
+the author (©).
 
 ---
 

@@ -17,17 +17,13 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Shrubs erect; branches subangular. Leaves unequal, petiolate, lanceolate-cordate.
 
-Arbrisseaux dressés; rameaux subangulaires. Feuilles inégales, pétio-
+Panicles terminal of biprous cymes. Flowers 5-merous, pedicellate; receptacle glabrous; calyx short, entire. Stamens in 2 heteromorphic whorls: external ones with developed pedoconnective, anterior appendage bilobed, no spur; internal ones with curved anther, connective not prolonged, bituberculatе anteriorly; anthers with wide pore, epigynous in bud. Ovary adnate to the hypanthium except at the convex apex, glabrous; style thick, sigmoid; stigma punctiform; placentas cymbiform, stipitate along the entire height of the axis.
 
-lées, lancées-cordées.
+Fruit berry-like. Seeds cochlear, with wide hilum, embryo curved. Chromosome number: n = 12 (FAVARGER).
 
-Panicules terminales de cymes bipares. Fleurs 5-mères, pédicellées ; réceptacle glabre ; calice court, entier. Étamines en 2 verticilles hétéromorphes : externes à pédoconnectif développé, appendice antérieur bilobé, pas d'éperon; internes à anthère courbe, connectif non prolongé, bituberculé en avant; anthères à pore large, épigynes dans le bouton. Ovaire adhérent à l'hypanthe, sauf par le sommet convexe, glabre; style épais, sigmoïde; stigmate punctiforme; placentas cymbiformes, stipités sur toute la hauteur de l'axe.
-
-Fruit bacciforme. Graines cochéaires, à hile large, embryon courbe. Nombre chromosomeque : n = 12 (FAVARGER).
-
-Genre monospécifique, bien distinct parmi les Melastomataceae africaines.
+Monotypic genus, well distinct among African Melastomataceae.
 
 ## Species in region
 

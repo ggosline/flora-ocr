@@ -17,73 +17,31 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Perennial herbs, robust or slender, rhizome often tuberous. Leaves with relatively long petiole; blade floating or emergent, suborbicular to elliptic, deeply cordate to sagittate, lower surface with relatively prominent reticulate venation. Flowers floating or emergent; sepals (3–)4(–5), free; petals (5–)8–40(–50), white, yellow, pink, red or blue, inserted at multiple levels on the ovary; stamens usually numerous, the outermost petaloid, the inner ones normal; carpels (5–)8–35, fused at the base, partially fused at the upper part or syncarpic ovary, carpellary appendages inserted around the stigmatic cup. Fruit a schizocarp with irregular dehiscence, globose to ellipsoid. Seeds ovoid, buried in mucilage, arillate, floating, often with longitudinal pubescent lines.
 
-Herbes pérennes, robustes ou grêles, rhizome souvent tubéreux. Feuilles à pétiole relati-
-
-vement long ; limbe flottant ou émergé, suborbiculaire à elliptique, profondément cordé
-
-à sagitté, face inférieure à nervation relativement proéminente, palmée . Fleurs flottantes
-
-ou émergées ; sépales (3–)4(–5), libres ; pétales (5–)8–40(–50), blancs, jaunes, roses,
-
-rouges ou bleus, insérés à plusieurs niveaux sur l’ovaire ; étamines habituellement
-
-nombreuses, les plus externes pétaloïdes, les internes normales ; carpelles (5–)8–35, fu-
-
-sionnés à la base, partiellement fusionnés à la partie supérieure ou ovaire syncarpique,
-
-appendices carpellaires insérés autour de la coupe stigmatique . Fruit un schizocarpe
-
-à déhiscence irrégulière, globuleux à ellipsoïdes. Graines ovoïdes, enfouies dans un mu-
-
-cilage , arillées, flottantes, souvent avec des lignes longitudinales pubescentes.
-
-Genre presque cosmopolite, comprenant entre 40 et 50 espèces dont 12 sont reconnues en
-
-Afrique et 4 présentes au Gabon.
+Genus nearly cosmopolitan, comprising between 40 and 50 species, of which 12 are recognized in Africa and 4 present in Gabon.
 
 ---
 
-Notes taxonomiques : Le genre Nymphaea est divisé en 5 sous-genres. Les espèces du
+Taxonomic notes: The genus Nymphaea is divided into 5 subgenera. The species of Gabon are distributed in two subgenera, namely subg. Brachyceras Caspary (with N. heudelotii, N. micrantha and N. nouchali) and subg. Lotus DC. (with N. lotus).
 
-Gabon sont réparties dans deux sous-genres, à savoir subg. Brachyceras Caspary (avec N.
+Vernacular names: nénuphar (Fr), water lily (Eng).
 
-heudelotii , N. micrantha et N. nouchali ) et le subg. Lotus DC. (avec N. lotus .).
+Bibliography: Hauman (1951), Judd et al. (2008), Schneider & Williamson (1993), Verdcourt (1989b).
 
-Noms vernaculaires : nénuphar (Fr), water lily (Angl).
+### Key to species
 
-Bi : Hauman (1951), Judd et al. (2008), Schneider & Williamson (1993),
+1. - Herb ± robust; adult leaves 7–37(–50) × 5–34(–50) cm; open flowers (3.5–)5–20(–30) cm in diameter; sepals 3–8(–13) × 1–3.5 cm; stamens 30 or more ..................................................................................................................... 2
 
-B liographie
-
-Verdcourt (1989b).
-
-### Clé des espèces
-
-1. - Herbe ± robuste ; feuilles adultes 7–37(–50) × 5–34(–50) cm ; fleurs ouvertes
-
-(3,5–)5–20(–30) cm de diamètre ; sépales 3–8(–13) × 1–3,5 cm ; étamines 30
-
-ou plus ..................................................................................................................... 2
-
-- Herbe délicate ; feuilles adultes 2–6(–8) × 1,7–6(–7) cm ; fleurs ouvertes
-
-(2,5–)4–5,5(–8) cm de diamètre ; sépales 1–3 × 0,5–1,5 cm ; étamines 8–20 (–30)
+- Herb delicate; adult leaves 2–6(–8) × 1.7–6(–7) cm; open flowers (2.5–)4–5.5(–8) cm in diameter; sepals 1–3 × 0.5–1.5 cm; stamens 8–20 (–30)
 
 ............................................................................................................... N. heudelotii
 
-2. - Limbe foliaire glabre en dessous, marge entière à nettement dentée ; fleur bleue,
+2. - Leaf blade glabrous below, margin entire to distinctly dentate; flower blue, pink or sometimes white; anther connective prolonged in the form of a tongue ..... 3
 
-rose ou parfois blanche ; connectif des anthères prolongé en forme d’une langue ..... 3
+- Leaf blade pubescent below, at least on the veins, margin distinctly dentate; anther connective not prolonged or sometimes very short; flowers white to cream, rarely washed with pink .................................................................. N. lotus
 
-- Limbe foliaire pubescent dessous, au moins sur les nervures, marge nettement
-
-dentée ; connectif des anthères non prolongé ou parfois très court ; fleur blanches
-
-à crème, rarement lavées de rose .................................................................. N. lotus
-
-3. - Limbe avec des bulbilles au-dessus du point d’insertion du pétiole, à marges
+3. - Blade with bulbils above the point of insertion of the petiole, margins
 
 ## Species in region
 

@@ -16,21 +16,19 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+### KEY TO GENERA
 
-### CLÉ DES GENRES
+1. Labellum without a spur .....26. Ansellia
 
-1. Labelle sans éperon .....26. Ansellia
+1'. Labellum generally with a prominent spur or, at least, saccate .....2
 
-1'. Labelle généralement avec un éperon saillant ou, au moins, sacciforme .....2
+2. Pseudobulbs with a single node .....27. Oeceoclades
 
-2. Pseudobulbes à un seul nœud .....27. Oeceoclades
+2'. Pseudobulbs with several nodes or caulescent stems ..... 3
 
-2'. Pseudobulbes à plusieurs nœuds ou tiges caulescentes ..... 3
+3. Inflorescence paniculate, rostellum beaked .....28. Graphorkis
 
-3. Inflorescence en panicule, rostellum en bec .....28. Graphorkis
-
-3'. Inflorescence simple, rostellum court et large .....29. Eulophia
+3'. Inflorescence simple, rostellum short and broad .....29. Eulophia
 
 ## Species in region
 

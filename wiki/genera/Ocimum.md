@@ -15,65 +15,11 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Herbs annual or perennial or shrubs, generally aromatic. Leaves simple, opposite, petiolate. Inflorescences terminal, thyrsoid, lax or dense, arranged in verticillasters of 6 flowers; bracts smaller than leaves; bracteoles absent. Flowers pedicellate; calyx funnel-shaped, bilabiate, upper lip broad, entire, rounded at apex, decurrent on tube, curved upward, lower lip with 4 lobes, the lateral ones narrowly triangular to deltoid, sometimes with subulate apex, the median ones narrowly triangular at anthesis, throat densely hairy or glabrous; corolla bilabiate, tube straight or curved at base, generally dorsally gibbous in middle, often dilating toward throat, upper lip with 4 subequal lobes or lateral ones exceeding median ones, lower lip ± horizontal, flat or slightly concave, entire, not thickened and articulate at base, not folding back at anthesis; stamens 4, declined, exserted, upper pair attached near base of tube, with filaments generally pubescent at base, often appendiculate, lower pair attached near throat, glabrous, anthers orbicular, dorsifixed, with equal thecae; disc regularly 4-lobed; ovary deeply 4-lobed; style gynobasic, bifid, with equal, subulate branches. Fruits: 4 achenes, smooth or finely tuberculate, with small basal scar, sometimes producing mucilage when wet.
 
-Herbes annuelles ou vivaces ou arbustes , généralement aromatiques. Feuilles simples, op-
+Genus of 66 species spread throughout the tropics, mainly in Africa, often cultivated in subtropical and temperate zones. Commonly used as medicinal and culinary herbs. Two species are native to Gabon and another is naturalized there. Other species may be cultivated there.
 
-posées, pétiolées. Inflorescences terminales, thyrsoïdes, lâches ou denses, disposées en verti-
-
-cillastres à 6 fleurs ; bractées plus petites que les feuilles ; bractéoles absentes. Fleurs pédicel-
-
-lées ; calice en forme d’entonnoir, bilabié, lèvre supérieure large, entière, arrondie à l’apex,
-
-décurrente sur le tube, courbée vers le haut, lèvre inférieure à 4 lobes, les latéraux étroitement
-
-triangulaires à deltoïdes, parfois à apex subulé, les médians étroitement triangulaires à l’an-
-
-thèse, gorge densément poilue ou glabre ; corolle bilabiée, tube droit ou recourbé à la base,
-
-généralement dorsalement gibbeux au milieu, se dilatant souvent vers la gorge, lèvre supé-
-
-rieure à 4 lobes subégaux ou les latéraux dépassant les médians, lèvre inférieure ± horizontale,
-
-plate ou légèrement concave, entière, non épaissie et articulé à la base, ne se repliant pas à
-
-l’anthèse ; étamines 4, déclinées , exsertes, paire supérieure fixée près de la base du tube ,
-
-à filets généralement pubescents à la base, souvent appendiculés, paire inférieure fixée près
-
-de la gorge , glabre, anthères orbiculaires, dorsifixes, à thèques égales ; disque régulièrement
-
-4-lobé ; ovaire profondément 4-lobé ; style gynobasique, bifide, à rameaux égaux, subulés.
-
-Fruits : akènes 4, lisses ou finement tuberculés, à petite cicatrice basale, produisant parfois du
-
-mucilage lorsqu’ils sont humides.
-
-Genre de 66 espèces répandues sous les tropiques, principalement en Afrique, souvent culti-
-
-vées dans les zones subtropicales et tempérées. Couramment utilisées comme herbes médi-
-
----
-
-cinales et culinaires. Deux espèces sont originaires du Gabon et une autre y est naturalisée.
-
-D’autres espèces peuvent y être cultivées.
-
-Notes : Une occurrence d’ O. basilicum L. a été signalée à Cap Lopez. Raponda-Walker & Sillans (1961)
-
-suggèrent qu’il est largement cultivé au Gabon et connu sous les noms suivants : igondjo-maria, ivaï
-
-(mpongwè) ; ntsomo (galoa) ; ntsome, ozasa (nkomi) ; osim (fang) ; ndzatsi (balumbu) ; ndzandza (ba -
-
-punu, bavungu) ; mundzandza (banzabi) ; dika dumba-digègi (eshira) ; lévuvumba-lè-nkyénto (loango) ;
-
-ozindza, asindzi (bakèle) ; usendjo (béséki) ; adjumadju (mindumu) ; étsipo-a-mokèè (mitsogo) ; tsèpu-
-
-tsèlè (apindji) ; ivahi (benga). Cette espèce est communément cultivée comme herbe culinaire sous les
-
-tropiques et elle est souvent confondue avec O . africanum Lour. (synonymes : O. americanum L. var.
-
-pilosum (Willd.) A.J. Paton et O. citriodorum Vis.) qui est beaucoup plus fréquemment naturalisée, en
+Notes: An occurrence of O. basilicum L. has been reported at Cape Lopez. Raponda-Walker & Sillans (1961) suggest that it is widely cultivated in Gabon and known under the following names: igondjo-maria, ivaï (mpongwè); ntsomo (galoa); ntsome, ozasa (nkomi); osim (fang); ndzatsi (balumbu); ndzandza (bapunu, bavungu); mundzandza (banzabi); dika dumba-digègi (eshira); lévuvumba-lè-nkyénto (loango); ozindza, asindzi (bakèle); usendjo (béséki); adjumadju (mindumu); étsipo-a-mokèè (mitsogo); tsèputsèlè (apindji); ivahi (benga). This species is commonly cultivated as a culinary herb throughout the tropics and it is often confused with O. africanum Lour. (synonyms: O. americanum L. var. pilosum (Willd.) A.J. Paton and O. citriodorum Vis.) which is much more frequently naturalized, in
 
 ## Species in region
 

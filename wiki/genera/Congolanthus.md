@@ -17,27 +17,17 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Annual herbs; stems erect or prostrate, simple to highly branched, quadrangular.
 
-Herbes annuelles ; tiges dressées ou rampantes, simples à très ramifiées, quadrangulaires.
+Leaves opposite, sessile. Inflorescences axillary, subsessile, with solitary, geminate or ternate flowers. Flowers actinomorphic, 4-merous; calyx with cylindrical tube furnished with 4 prominent ribs and 8 fine ± distinct nerves, with erect lobes, 1-nerved; corolla funnel-shaped; stamens 4, included; ovary 1-locular; stigma 2-lobed. Fruit cylindric-oblongoid.
 
-Feuilles opposées, sessiles. Inflorescences axillaires, subsessiles, à fleurs solitaires, gémi-
+Seeds globose to triangular; testa reticulate, with polygonal cells.
 
-nées ou ternées . Fleurs actinomorphes, 4-mères ; calice à tube cylindrique garni de 4 côtes
+Monotypic genus of tropical Africa.
 
-saillantes et de 8 fines nervures ± distinctes , à lobes dressés, 1-nervés ; corolle en enton-
+Bibliography
 
-noir ; étamines 4, incluses ; ovaire 1-loculaire ; stigmate 2-lobé. Fruit cylindrique-oblongoïde.
-
-Graines globuleuses à triangulaires ; testa réticulé, à cellules polygonales.
-
-Genre monospécifique d’Afrique tropical.
-
-B : Boutique (1972), Paiva & Nogueira (1990), Raynal (1968), Sileshi (2002), Struwe &
-
-i B liographie
-
-Albert (2002), Struwe & Pringle (2018).
+B: Boutique (1972), Paiva & Nogueira (1990), Raynal (1968), Sileshi (2002), Struwe & Albert (2002), Struwe & Pringle (2018).
 
 ## Species in region
 

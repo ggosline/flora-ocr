@@ -17,73 +17,25 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Herbs annual or perennial; stem prostrate to ascendant or erect, glabrous or pubescent, quadrangular. Leaves opposite, petiolate; limb lanceolate or oval to orbicular, acuminate at apex, margin obtusely dentate; venation pinnate. Inflorescence in a lax raceme. Flower with pedicel shorter than the leaf; bracteoles absent; calyx ± symmetric, 5-lobed, each lobe provided with a dorsal wing; corolla white to pink with purplish spots, or yellow with purplish or blue spots, upper lip entire or bipartite, lower lip tripartite; stamens 4, each filament of the anterior (abaxial) stamens with 1 claviform appendage covered with glandular hairs and papillae, filaments of the posterior (adaxial) stamens straight, anthers with 2 equal or sometimes unequal theca (T. silvicola); ovary ovoid, adaxial part hairy or sometimes glabrous (T. crustacea); style filiform, stigma bilobed. Capsular fruits, with poricode dehiscence beside the walls, of same length or shorter than the calyx. Seeds with alveolate albumen, with small round cavities formed by the endothelium (bothriosperme).
 
-Herbes annuelles ou vivaces ; tige prostrée à ascendante ou dressée, glabre ou pubescente,
+Genus comprising 51 species, distributed especially in tropical Asia, five species in continental Africa, two in Madagascar and one in South America; in Gabon, six species of which one endemic and two subendemics.
 
-quadrangulaire. Feuilles opposées, pétiolées ; limbe lancéolé ou ovale à orbiculaire,
+Bibliography
 
-acuminé au sommet, marge obtusément dentée ; nervation pennée . Inflorescence en
+B: Fischer (1992, 2004), Fischer et al. (2013), Rahmanzadeh et al. (2005).
 
-racème lâche. Fleur à pédicelle plus court que la feuille ; bractéoles absentes ; calice
+### Key to species
 
-± symétrique, 5-lobé, chaque lobe pourvue d’une aile dorsale ; corolle blanche à
+1. – Corolla tube not exceeding 6 mm in length; species of open places (marshes, swamps, ruderal stations, secondary forests, sometimes rocks) ........ 2
 
-rose avec des taches violacées, ou jaune à taches violacées ou bleues, lèvre supérieure
+– Corolla tube at least 7 mm in length; species of primary forests, near streams, swamp forests and inselbergs at the forest edge .................. 4
 
-entière ou bipartite, lèvre inférieure tripartite ; étamines 4, chaque filet des étamines
+2. – Limb oval to lanceolate; appendage of anterior stamens short and indistinct, reduced to a gibbosity; corolla with pale purplish-violet spots, tube 6 mm in length; mainly open places ......................................................... T. thouarsii
 
-antérieures (abaxiales) à 1 appendice claviforme couvert de poils glanduleux et de
+– Limb oval to orbicular; appendage of anterior stamens distinct and claviform; corolla with dark blue or dark blue-violet spots, tube 4–5 mm in length; secondary forests and rocks ............................................... 3
 
----
-
-papilles, filets des étamines postérieures (adaxiales) droits, anthères à 2 thèques égales
-
-ou parfois inégales ( T. silvicola ) ; ovaire ovoïde, partie adaxiale poilue ou parfois glabre
-
-( T. crustacea ) ; style filiforme, stigmate bilobé. Fruits capsulaires, à déhiscence poricide
-
-à côté des parois, de même longueur ou plus courts que le calice . Graines à albumen
-
-alvéolé, avec de petites cavités rondes formées par l’endothélium (bothriosperme) .
-
-Genre comprenant 51 espèces, réparties surtout en Asie tropicale, cinq espèces en Afrique
-
-continentale, deux à Madagascar et une en Amérique du Sud ; au Gabon, six espèces dont
-
-une endémique et deux subendémiques.
-
-B : Fischer (1992, 2004), Fischer et al. (2013), Rahmanzadeh et al. (2005).
-
-ibliographie
-
-### Clé des espèces
-
-1. - Tube de la corolle ne dépassant pas 6 mm de longueur ; espèces des endroits
-
-ouverts (marais, baïs, stations rudérales, forêts secondaires, parfois rochers) ........ 2
-
-- Tube de la corolle au moins 7 mm de longueur ; espèces des forêts primaires, près
-
-des ruisseaux, forêts marécageuses et inselbergs à la lisière des forêts .................. 4
-
-2. - Limbe ovale à lancéolé ; appendice des étamines antérieures court et indistinct,
-
-réduit à une gibbosité ; corolle à taches pâles pourpre violacé, à tube de 6 mm de
-
-longueur ; surtout endroits ouverts ......................................................... T. thouarsii
-
-- Limbe ovale à orbiculaire ; appendice des étamines antérieures distincte et
-
-claviforme ; corolle à taches bleues foncés ou bleues-violacées foncés, à tube de
-
-4–5 mm de longueur ; forêts secondaires et rochers ............................................... 3
-
-3. - Lèvre supérieure de la corolle entière, lèvre inférieure à taches bleues triangulaires
-
-vers le bord des 3 lobes (Fig. 28), les trois lobes munis chacun dans leur moitié
-
-supérieure d’une tache bleue s’étendant jusqu’à leur sommet, tube ± inclus dans le
+3. – Upper lip of corolla entire, lower lip with triangular blue spots towards the edge of the 3 lobes (Fig. 28), the three lobes each provided in their upper half with a blue spot extending to their apex, tube ± included in the
 
 ## Species in region
 

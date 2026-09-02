@@ -16,15 +16,11 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Epiphytes with creeping and climbing rhizomes, covered with peltate, clathrate scales. Petiole articulate at the rhizome. Frond entire, rarely pinnatifid, of thin texture. Veins anastomosing, reticulate, the areoles containing included bifurcate veinlets. Sori small, rounded, exindusiate, irregularly disposed, superficial, without paraphyses.
 
-Éপিphytes à rhizome rampant et grimpant, couvert d'écailles peltées, clathrées. Pétiole articulé au rhizome. Limbe entier, rarement pinnatifide, de texture mince. Nervures anastomosées, réticulées, les aréoles contenant des nervilles incluses bifurquées. Sores de petite taille, arrondis, exindusés, irrégulièrement disposés, superficiels, sans paraphyses.
+Type: Microsodium irregulare Link.
 
-Type : Microsodium irregulare Link.
-
-Environ 40 espèces en Afrique.
-
----
+Approximately 40 species in Africa.
 
 ## Species in region
 

@@ -17,23 +17,21 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Trees or shrubs; bark slice red, often with a fleeting sugar-cane odor; sapwood transitioning to reddish heartwood. Stipules free or connate intrapetiolary for at least several species. Leaves with 2 glands at the apex of the petiole or at the extreme base of the lamina; lamina glabrous beneath, sometimes pubescent or with woolly arachnoid indumentum but nerve reticule without pubescent crypts (as in the genus Parinari Aubl.).
 
-Arbres ou arbustes ; tranche de l'écorce rouge, souvent à odeur fugace de canne à sucre; aubier passant à un bois de cœur rougeâtre. Stipules libres ou soudées intrapétiolaires pour au moins plusieurs espèces. Feuilles avec 2 glandes au sommet du pétiole ou à l'extrême base du limbe; limbe glabre dessous, parfois pubescent ou avec indumentum laineux aranéaux mais réseau de nervilles sans cryptes pubescentes (comme dans le genre Parinari Aubl.).
+Inflorescences in corymbiform panicles generally multiflorous, more rarely few-flowered branched racemes (M. sanagensis F. White); bracts and bracteoles not concealing the flower buds, generally early caducous. Flowers slightly zygomorphic, hermaphrodite; receptacle obconic ± curved, sometimes subcampanulate, often filled with nectariferous tissue, or hollow and glabrous within; 5 sepals (calyx lobes) suborbicular concave; 5 petals generally suborbicular or broadly obovate, longer than the sepals, caducous; 20–60 stamens on 2(3) whorls, with ondulate entangled filaments, longer than the sepals; staminodes few and vestigial or absent; 1–2–3 carpels, 2-locular, near the opening of the receptacle, hirsute or hispid, with gynobasic style curved upward, longer than the sepals, glabrous except at the base.
 
-Inflorescences en panicules corymbiformes en général multiflores, plus rarement racèmes branchus peu fleuris (M. sanagensis F. White); bractées et bractéoles ne cachant pas les boutons floraux, en général tôt caduques Fleurs légèrement zygomorphes, hermaphrodites; réceptacle obconique ± courbé, parfois subcampanulé, souvent rempli d'un tissu nectarifère, ou creux et glabre intérieurement; 5 sépales (lobes du calice) suborbiculaires concaves; 5 pétales en général suborbiculaires ou largement obovales, plus longs que les sépales, caduces; 20-60 étamines sur 2(3) cercles, à filets ondulés enchevêtrés, plus longs que les sépales; staminodes peu nombreux et vestigiaux ou absents; 1-2-3 carpelles, 2-loculaires, près de l'ouverture du réceptacle, hirsutes ou hispides, à style gynobasique courbé vers le haut, plus long que les sépales, glabre sauf à la base.
+Fleshy drupes, obovoid or exceptionally fusiform (M. sanagensis F. White); epicarp smooth or lenticellate; endocarp very hard, fibrous with rugose outer surface, densely pubescent-hispid within, dehiscent by 2 broad lateral valves; calyx and androecium persistent.
 
-Drupes charnues, obovoïdes ou exceptionnellement fusiformes (M. sanagensis F. White); épicarpe lisse ou lenticellé; endocarpe très dur, fibreux à surface extérieure rugueuse, densément pubescent-hispide intérieurement, déhiscent par 2 larges valves latérales; calice et androcée persistants.
+Epigeal germination; cotyledons fleshy, pale green, early shriveled; cataphylls absent; 2 first eophylls opposite, the others opposite or alternate with narrowly lanceolate persistent stipules.
 
-Germination épigée; cotylédons charnus, vert pâle, tôt recroquevillés; cataphylles absentes; 2 premières euphyllles opposées, les autres opposées ou alternes avec stipules étroitement lancéolées, persistantes.
-
-Espèce-type : Maranthes corymbosa Blume.
+Type species: Maranthes corymbosa Blume.
 
 ---
 
-Genre basé sur la seule espèce asiatique et océanienne tropicale (M. corymbosa Bl.). Une autre existe à Panama. Toutes les autres espèces, 10 au total, sont africaines, 3 existant au Gabon et 7 au Cameroun. Deux autres espèces (M. floribunda (Bak.) F. White et M. gatzeniana (Engl.) Prance) sont des espèces d'Afrique centrale et australe et la dernière, M. robusta (Oliv.) Prance, est un petit arbre de forêts marécageuses, soit subcôtières sur le littoral ouest-africain, soit plus continentales en Nigeria; des formes en apparence particulières de M. glabra (Oliv.) Prance ont été, au Gabon, antérieurement rapprochées de cette dernière espèce.
+Genus based on the sole tropical Asian and Oceanian species (M. corymbosa Bl.). Another exists in Panama. All the other species, 10 in total, are African, 3 occurring in Gabon and 7 in Cameroon. Two other species (M. floribunda (Bak.) F. White and M. gatzeniana (Engl.) Prance) are species of central and southern Africa and the last, M. robusta (Oliv.) Prance, is a small tree of swamp forests, either subcôtières on the west-African coast, or more continental in Nigeria; forms apparently particular of M. glabra (Oliv.) Prance were, in Gabon, previously brought close to this last species.
 
-1. Limbe recouvert dessous d'un revêtement feutré laineux fauve doré, parfois caduc sur feuilles âgées..... 2. M. chrysophylla.
+1. Lamina covered beneath with a fawn-golden woolly felt covering, sometimes caducous on aged leaves..... 2. M. chrysophylla.
 
 ## Species in region
 

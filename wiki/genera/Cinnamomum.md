@@ -16,23 +16,13 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Arbres aromatiques; feuilles opposées, coriaces, à 3-5 nervures sub-parallèles partant du pétiole (nervation palminerve à la base du limbe); fleurs petites, non involucrées, groupées en panicules ou grappes axillaires ou terminales. Fleurs hermaphrodites ou
+Aromatic trees; leaves opposite, coriaceous, with 3–5 sub-parallel nerves arising from the petiole (palmate venation at the base of the limb); flowers small, not involucrate, grouped in panicles or axillary or terminal racemes. Flowers hermaphrodite or
 
 ---
 
-polygames par avortement; périanthe à tube court, cupuliforme ou campanulé; limbe à 6 segments subégaux, persistants, acres-
+polygamous by abortion; perianth with a short tube, cupuliform or campanulate; limb with 6 subequal, persistent segments, accrescent or caducous; 9 fertile stamens on 3 cycles, 4-locular anthers; pedicellate staminodes, cordiform or subulate. Berry sessile within a cupule formed by the perianth, more or less persistent and accrescent.
 
-cents ou caduces; 9 étamines fertiles sur 3 cycles, 4 loges aux
-
-anthères; staminodes pédicellés, cordiformes ou en alène. Baie
-
-sessile dans une cupule formée par le périanthe plus ou moins
-
-pursuant et accru.
-
-Le genre comprend une centaine d'espèces asiatiques et australiennes. Le cannellier de Ceylan a été introduit au Gabon.
+The genus comprises about a hundred Asiatic and Australasian species. The cinnamon of Ceylon has been introduced to Gabon.
 
 ## Species in region
 

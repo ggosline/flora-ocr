@@ -17,29 +17,13 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Annual herbs, erect, glabrous; stems branched, cylindric. Leaves opposite or ternate, sessile, the lower ones larger than the upper ones. Inflorescences axillary, in panicles of contracted pluriflorous cymes. Flowers actinomorphic, 4-merous; calyx campanulate, covered with a network of anastomosing nerves, with lobes winged on the back, provided with glandular scales at the internal base; corolla funnel-shaped, with tube bearing 4 prominent ribs corresponding to the median nerves of the lobes; stamens 4, exserted, with filament swollen into a bulb at the base; ovary 1-locular; stigma 2-lobed. Fruits obovoid. Seeds triangular; testa reticulate, with isodimetric cells.
 
-Herbes annuelles, dressées, glabres ; tiges ramifiées, cylindriques. Feuilles opposées ou ter-
+Genus comprising a single species from Equatorial Guinea and Gabon.
 
-nées, sessiles, les inférieures plus grandes que les supérieures. Inflorescences axillaires, en
+B: Raynal (1965, 1968), Struwe & Albert (2002), Struwe & Pringle (2018), Taylor (1973).
 
-grappe de cymes pluriflores contractées . Fleurs actinomorphes, 4-mères ; calice campanu-
-
-lé, couvert d’un réseau de nervures anastomosées, à lobes ailés sur le dos , muni d’écailles
-
-glanduleuses à la base interne ; corolle en entonnoir, à tube portant 4 côtes saillantes cor-
-
-respondant aux nervures médianes des lobes ; étamines 4, exsertes, à filet renflé en boule
-
-à la base ; ovaire 1-loculaire ; stigmate 2-lobé. Fruits obovoïdes. Graines triangulaires ; testa
-
-réticulé, à cellules isodiamétriques.
-
-Genre comprenant une seule espèce de la Guinée équatoriale et du Gabon.
-
-B : Raynal (1965, 1968), Struwe & Albert (2002), Struwe & Pringle (2018), Taylor (1973).
-
-i B liographie
+i Bibliography
 
 ## Species in region
 

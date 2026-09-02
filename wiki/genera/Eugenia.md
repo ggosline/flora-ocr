@@ -16,39 +16,37 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Trees, shrubs or undershrubs; leaves opposite or whorled by 3, sometimes alternate, simple, mostly petiolate and coriaceous.
 
-Arbres, arbrisseaux ou sous-arbrisseaux; feuilles opposées ou verticillées par 3, parfois alternes, simples, le plus souvent pétiolées et coriaces.
+Tetramerous flowers, axillary, solitary, fasciculate or racemose, hermaphrodite or polygamous. Calyx not prolonged above the ovary, with well-developed lobes, free even in the bud, mostly with imbricate aestivation. Petals free, imbricate and overlapping in the bud, then more or less spreading before falling. Stamens numerous, in several rows, inserted on the disk. Anthers versatile, dehiscent by longitudinal slits. Style filiform; stigma terminal, small, mostly punctiform, sometimes enlarged. Ovary two-locular; ovules at least 4 per locule, inserted on the septum.
 
-Fleurs tétramères, axillaires, solitaires, fasciculées ou racémeuses, hermaphrodites ou polygames. Calice non prolongé au dessus de l'ovaire, à lobes bien développés, libres même dans le bouton, le plus souvent à préfloraison imbriquée. Pétales libres, imbriqués et se coiffant dans le bouton, puis plus ou moins étalés avant de tomber. Étamines nombreuses, sur plusieurs rangs, insérées sur le disque. Anthères versatiles, déhiscentes par des fentes longitudinales. Style filiforme; stigmate terminal, petit, le plus souvent ponctiforme, parfois élargi. Ovaire à deux loges; ovules au moins 4 par loge, insérés sur la cloison.
+Fruit fleshy, mostly monospermic, with a large seed, with fragile testa, sometimes adhering to the pericarp. Cotyledons thick, united to each other and to the radicle. Seedlings, insofar as studied, with cotyledons remaining mostly in the soil and even in the fruit.
 
-Fruit charnu, le plus souvent monosperme, à graine large, à testa fragile, parfois adhérent au péricarpe. Cotylédons épais, soudés l'un à l'autre ainsi qu'à la radicule. Plantules, autant qu'étudiées, à cotylédons demeurant le plus souvent dans la terre et même dans le fruit.
+Type species: Eugenia uniflora L.
 
-Espèce type : Eugenia uniflora L.
+Genus distinct by the inflorescence and by the embryo; within the limits here adopted there are still some thousand species, almost all from South America. In Africa, approximately 35 species. A few others are from Australia, Polynesia, New Guinea or the Molucca Islands (if the genus Jossinia Reinw. is included). No Eugenia on the large islands of tropical Asia. The species from these regions sometimes attributed to the genus Eugenia actually belong to the genus Syzygium. Botanists, however, are not yet agreed on the limits of the genus Eugenia.
 
-Genre distinct par l'inflorescence et par l'embryon; dans les limites ici adoptées on compte encore un millier d'espèces, presque toutes de l'Amérique du Sud. En Afrique, environ 35 espèces. Quelques autres sont d'Australie, de Polynésie, de Nouvelle-Guinée ou des îles Moluques (si le genre Jossinia Reinw. est inclus). Aucun Eugenia sur les grandes îles d'Asie tropicale. Les espèces de ces régions attribuées parfois au genre Eugenia appartiennent en fait au genre Syzygium. Les botanistes, cependant, ne sont pas encore d'accord sur les limites du genre Eugenia.
+In general, the species of Eugenia are of little economic interest. E. uniflora L. and a few others are cultivated for their edible fruits.
 
-En général, les espèces d'Eugenia sont à peu près sans intérêt économique. E. uniflora L. et quelques autres sont cultivées pour leurs fruits comestible.
-
-E. calophylloides DC. à feuilles larges et de 10-20 cm de long,
+E. calophylloides DC. with broad leaves 10-20 cm long,
 
 ---
 
-à fleurs subsessiles et pubescentes, n'atteint pas le Gabon, semble-t-il.
+with subsessile and pubescent flowers, does not seem to reach Gabon.
 
-### CLÉ DES EUGENIA
+### KEY TO EUGENIA
 
-1. Espèces indigènes; pédicelles dépassant rarement 1 cm de longueur, le plus souvent inférieurs à 5 mm.
+1. Indigenous species; pedicels rarely exceeding 1 cm in length, mostly less than 5 mm.
 
-2. Feuilles subsessiles, étroitement arrondies ou subcordées à la base,
+2. Leaves subsessile, narrowly rounded or subcordate at the base,
 
-longues de 17-28 cm; fleurs subsessiles..... 1. E. gabonensis.
+17-28 cm long; flowers subsessile..... 1. E. gabonensis.
 
-2'. Feuilles pétiolées, aiguës ou obtuses à la base, moins grandes.
+2'. Leaves petiolate, acute or obtuse at the base, smaller.
 
-3. Jeunes rameaux glabres, puis écailleux; feuilles assez grandes, de 12-17 cm de long, glabres; pétiole court, bientôt épais; ovaire glabre..... 2. E. Klainea
+3. Young twigs glabrous, then scaly; leaves fairly large, 12-17 cm long, glabrous; petiole short, soon thickened; ovary glabrous..... 2. E. Klainea
 
-3'. Jeunes rameaux pubescents, ne devenant pas écailleux; feuilles plus petites.
+3'. Young twigs pubescent, not becoming scaly; leaves smaller.
 
 ## Species in region
 

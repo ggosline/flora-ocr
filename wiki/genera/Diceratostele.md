@@ -17,11 +17,9 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Stems reed-like, lower internodes rooting, apical regions branched. Leaves arranged in a spiral, petiolate, folded. Inflorescence terminal or axillary. Flowers resupinate scarcely visible, tubular. Labellum contracted near the middle. Gynostemium erect, slender. Stigmatic surface elliptic, deeply concave. Rostellum triangular, acute, erect, fleshy, without viscidium. Anther erect, narrowly oblong, apiculate, 4 locules grouped at the apex of the rostellum. Pollinia 4, similar in form and size, linear, powdery. – Pl. 37, p. 79.
 
-Tiges calamoïdes, entrenœuds inférieurs radicants, régions apicales ramifiées. Feuilles disposées en spirale, pétiolées, pliées. Inflorescence terminale ou axillaire. Fleurs résupinées peu visibles, tubulaires. Labelle contracté près du milieu. Gynostème dressé, grêle. Surface stigmatique, elliptique, profondément concave. Rostellum triangulaire, aigu, dressé, charnu, sans viscidie. Anthère dressée, étroite oblongue, apiculée, 4 logettes groupées au sommet du rostellum. Pollinies 4, semblables par la forme et la taille, linéaires, pulvérulentes. – Pl. 37, p. 79.
-
-Genre monotypique. Pollinisation inconnue.
+Monotypic genus. Pollination unknown.
 
 ## Species in region
 

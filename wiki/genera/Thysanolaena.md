@@ -17,15 +17,11 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Tall perennial grasses with ribbon-like leaves. Loose panicles of numerous small spikelets, awnless, caducous.
 
-Grandes herbes pérennes à feuilles rubannées. Panicules lâches de nombreux épilets, petits, mutiques, caduques.
+Glumes reaching approximately half the length of the spikelet, with 0 or 1 nerve. 2 or 3 flowers, the lower one sterile and reduced to its lemma, the others hermaphrodite or the upper one more or less reduced or absent. Sterile lemma as long as the spikelet, membranous, with 1 or 3 nerves. Fertile lemmas acuminate, with 3 nerves, ciliate on the margins. Paleas shorter, bicarinate. Two lodicules; 2 stamens; distinct styles.
 
-Glumes atteignant environ la moitié de la longueur de l'épillet, à 0 ou 1 nervure. 2 ou 3 fleurs, l'inférieure neutre et réduite à sa lemma, les autres hermaphrodites ou la supérieure plus ou moins réduite ou absente. Lemma stérile aussi longue que l'épillet, membraneuse, à 1 ou 3 nervures. Lemmas fertiles acuminées, à 3 nervures, ciliées sur les bords. Palées plus courtes, bicarénées. Deux lodicules; 2 étamines; styles distincts.
-
-Une espèce est signalée par Franchet au Gabon d'après un échantillon de Griffon du Bellay (sans localité précise) que nous n'avons pas retrouvé.
-
----
+One species is reported by Franchet from Gabon based on a specimen from Griffon du Bellay (without precise locality) which we have not relocated.
 
 ## Species in region
 

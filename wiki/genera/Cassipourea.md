@@ -17,79 +17,47 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Trees, shrubs or suffrutex without aerial roots. Stipules interpetiolar, caducous.
 
-Arbres, arbustes ou suffrutex sans racines aériennes . Stipules interpétiolaires , caduques.
+Leaves opposite, often decussate; lamina with lateral venation often brochidodromous.
 
-Feuilles opposées, souvent décussées ; limbe à nervation latérale souvent brochidodrome.
+Inflorescences cymose, generally contracted into axillary fascicles. Flowers 4–5(–7)-merous; pedicel articulate; calyx coriaceous, persistent in fruit; petals fragile, with lacerate apex; disc variously developed; stamens 8–40, anthers with longitudinal dehiscence, dorsifixed; ovary superior, 2–3(–4)-locular, with axillary placentation and (1–)2 ovules per locule; style simple. Fruits capsular, septicidal. Seeds generally 1 per locule, arillate.
 
-Inflorescences cymeuses, généralement contractées en fascicules axillaires . Fleurs
+Genus with more than 50 species, distributed from Guyana in South America in the west to Sri Lanka in the east. In Africa, there are about thirty species, of which 11 in Gabon.
 
-4–5(–7)-mères ; pédicelle articulé ; calice coriace, persistant en fruit ; pétales fragiles, à
+Bibliography
 
-sommet lacinié ; disque diversement développé ; étamines 8–40, anthères à déhiscence
+Alston (1925), Breteler (2008), Keay (1954), Lewis (1956), Liben (1987).
 
-longitudinale, dorsifixes ; ovaire supère, 2–3(–4)-loculaire, à placentation axillaire et (1–)2
+Breteler (2008) gives brief descriptions of the subgenera to be distinguished in Africa with a key based on floral characters. With one exception, all are represented in Gabon:
 
-ovules par loge ; style simple. Fruits capsulaires, septicides. Graines généralement 1 par loge,
+1. Subgenus Cassipourea with C. plumosa (Oliv.) Alston.
 
-arillées.
+2. Subgenus Dactylopetalum (Benth.) Alston with C. barteri (Hook.f. ex Oliv.) Engl. & Brehmer and C. gummiflua Tul.
 
-Genre avec plus de 50 espèces, distribué de la Guyana, en Amérique du Sud à l’Ouest
+3. Subgenus Dinklageoweihea (Engl.) Floret with no representative in Gabon.
 
-jusqu’au Sri Lanka à l’Est. En Afrique, on trouve une trentaine d’espèces, dont 11 au
+<<<---SECTION-BREAK--->>>
 
-Gabon.
+4. Subgenus Lasiopetalum Alston with C. ndambiana Breteler and C. schizocalyx C.H.Wright.
 
-b : Alston (1925), Breteler (2008), Keay (1954), Lewis (1956), Liben (1987).
+5. Subgenus Pumiloweihea Floret with C. pumila Floret.
 
-ibliographie
+6. Subgenus Weihea (Spreng.) Alston with C. carringtoniana Mendes, C. congoensis DC. and C. ruwensorensis (Engl.) Alston.
 
-Breteler (2008) donne des brèves descriptions des sous-genres à distinguer en Afrique
+7. Subgenus Zenkeroweihea (Engl.) Floret with C. le-testui Pellegr. and C. nana Breteler.
 
-avec une clé basée sur les caractères floraux. À une exception près, tous sont représentés
+### Key to species
 
-au Gabon :
+1. - Stamens twice as numerous as calyx lobes* ...................................... 2
 
-1. Sous-genre Cassipourea avec C. plumosa (Oliv.) Alston.
+- Stamens at least three times as numerous as calyx lobes .......................... 5
 
-2. Sous-genre Dactylopetalum (Benth.) Alston avec C. barteri (Hook.f. ex Oliv.) Engl.
+2. - Anthers hairy; no gummy exudate between flowers; small inland shrubs ................... 3
 
-& Brehmer et C. gummiflua Tul.
+- Anthers glabrous; gummy exudate between flowers; coastal shrub or forest tree ............. 4
 
-3. Sous-genre Dinklageoweihea (Engl.) Floret sans représentant au Gabon.
-
----
-
-4. Sous-genre Lasiopetalum Alston avec C. ndambiana Breteler et C. schizocalyx
-
-C.H.Wright.
-
-5. Sous-genre Pumiloweihea Floret avec C. pumila Floret.
-
-6. Sous-genre Weihea (Spreng.) Alston avec C. carringtoniana Mendes, C. congoensis
-
-DC. et C. ruwensorensis (Engl.) Alston.
-
-7. Sous-genre Zenkeroweihea (Engl.) Floret avec C. le-testui Pellegr. et C. nana Breteler.
-
-### Clé des espèces
-
-1. - Étamines deux fois plus nombreuses que les lobes du calice* ............................... 2
-
-- Étamines au moins trois fois aussi nombreuses que les lobes du calice ................. 5
-
-2. - Anthères poilues ; pas d’exsudat gommeux entre les fleurs ; petits arbustes de
-
-l’intérieur des terres ................................................................................................ 3
-
-- Anthères glabres ; exsudat gommeux entre les fleurs ; arbuste côtier ou arbre de la
-
-forêt ......................................................................................................................... 4
-
-3. - Limbe à nervure principale glabre ou presque glabre dessus ; pédicelle
-
-7–15 mm .................................................................................................. C. le-testui
+3. - Lamina with principal vein glabrous or almost glabrous above; pedicel 7–15 mm ..... C. le-testui
 
 ## Species in region
 

@@ -17,63 +17,21 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Trees or sometimes shrubs with simple hairs; trunk sometimes with stilt roots; branches generally hollow, often inhabited by small ants. Stipules early caducous, scars distinct. Leaves large, with petiole of variable length, generally exceeding 2 cm; blade with entire margin, generally glandulous below and often with 1–2(–5) glands at the base above. Inflorescences axillary and/or on already defoliated parts, racemiform, solitary or fasciculate. Flowers unisexual, dioecious, the male ones grouped in cupuliform cymules with 3(–6) flowers, the female ones in uniflorous cymules; pedicel articulate; petals absent. Male flowers: sepals ± free, imbricate; stamens 5, alternisepalous; disc glands 5, well developed; pistillode ± developed. Female flowers: sepals valvate to slightly imbricate, glandulous base on the inner face; disc absent; receptacle disciform; ovary (2–)3(–4)-locular, with 2 ovules per locule, glabrous. Fruit capsular, dehiscent, globulous to ellipsoid, slightly 3-lobed or not, ribbed or not, glabrous. Seeds 1(–2) per locule, obovoid to ellipsoid, shining, glabrous.
 
-Arbres ou parfois arbustes à poils simples ; tronc parfois à racines-échasses ; rameaux en
+African genus from West and Central Africa, with 3 species comprising small to medium-sized forest trees, all present in Gabon.
 
-général creux, souvent habités par des petites fourmis . Stipules tôt caduques, cica -
+Bibliography: Breteler (2012c), Léonard (1995a). Pax & Hoffmann (1922), Radcliffe-Smith (2001).
 
-trices distinctes . Feuilles grandes, à pétiole de longueur variable, généralement dépas -
+### Key to the species
 
-sant 2 cm ; limbe à marge entière, en général glanduleux dessous et souvent à 1–2(–5)
+1. - Blade very often furnished below with numerous small reddish-brown pustules; fruit ribbed or if not, not exceeding 2 cm in diameter ...................................... 2
 
-glandes à la base dessus. Inflorescences axillaires et/ou sur les parties déjà défeuillées,
+- Blade without pustules; fruit not ribbed, 3–4.5 cm in diameter ................ P. stapfiana
 
-racémiformes, solitaires ou fasciculées. Fleurs unisexuées , dioïques, les mâles grou -
+2. - Sepals of the female flower 1.5–2 mm in length; ovary not ribbed; fruit globulous, ± 1.5 cm in diameter .......................................................... P. meiocarpa
 
-pées en cymules cupuliformes à 3(–6) fleurs, les femelles en cymules uniflores ; pé -
-
-dicelle articulé ; pétales absents . Fleurs mâles : sépales ± libres, imbriqués ; étamines
-
-5, alternisépales ; glandes du disque 5, bien développées ; pistillode ± développé. Fleurs
-
-femelles : sépales valvaires à légèrement imbriqués, base glanduleuse sur la face in -
-
-terne ; disque absent ; réceptacle disciforme ; ovaire (2–)3(–4)-loculaire, à 2 ovules par
-
-loge, glabre. Fruit capsulaire, déhiscent, globuleux à ellipsoïde , légèrement 3-lobé ou
-
-non, côtelé ou non, glabre . Graines 1(–2) par loge, obovoïdes à ellipsoïdes, luisantes ,
-
-glabres.
-
-Genre africain de l’Afrique de l’Ouest et Centrale, à 3 espèces comprenant des arbres
-
-forestiers de taille petite à moyenne, toutes présentes au Gabon.
-
-b : Breteler (2012c), Léonard (1995a). Pax & Hoffmann (1922), Radcliffe-
-
-ibliographie
-
-Smith (2001).
-
-### Clé des espèces
-
-1. - Limbe très souvent garni dessous de nombreuses petites pustules brun rougeâtre ;
-
-fruit côtelé ou si non, ne dépassant pas 2 cm de diamètre ...................................... 2
-
-- Limbe sans pustules ; fruit non côtelé, 3–4,5 cm de diamètre ................ P. stapfiana
-
-2. - Sépales de la fleur femelle 1,5–2 mm de longueur ; ovaire non côtelé ; fruit
-
-globuleux, ± 1,5 cm de diamètre .......................................................... P. meiocarpa
-
-- Sépales de la fleur femelle (2,5–)3–4 mm de longueur ; ovaire côtelé ; fruit
-
-ellipsoïde, ± 3,5–4 cm de longueur ................................................... P. macrophylla
-
----
+- Sepals of the female flower (2.5–)3–4 mm in length; ovary ribbed; fruit ellipsoid, ± 3.5–4 cm in length ................................................... P. macrophylla
 
 ## Species in region
 

@@ -17,19 +17,17 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Shrubs or succulent subshrubs, often epiphytic, erect or pendulous, sometimes with adventitious roots, with branching generally ±acrotonic (reduced apical growth exceeded by lateral shoots); branches articulate, cylindrical, flattened, angular, sometimes with crests or winged; areoles poorly developed, ±sunken and generally with short hairs. Leaves small, scaly. Inflorescences lateral, with solitary flowers or sometimes in small glomerules on the areoles. Flowers small, with ±spreading perianth; sepals poorly developed, unequal, ±succulent, greenish; petals 5 to 8, poorly developed, ±translucent; stamens 6 to ∞, with globose anthers; annular disk; ovary with ovules in variable number, with free funicle. Fruits as globose berries, often surmounted by the marcescent perianth, sometimes mucilaginous, often with few seeds. Seeds cylindrical to fusiform, with brown or black, soft testa.
 
-Arbustes ou sous-arbrisseaux succulents, souvent épiphytes, dressés ou pendant, parfois munis de racines adventives, à ramifications généralement ±acrotoniques (croissance apicale réduite et dépassée par les pousses latérales); rameaux articulés, cylindriques, aplatis, anguleux, parfois munis de crêtes ou ailés; aréoles peu développées, ±enfoncées et généra- lement à poils courts. Feuilles petites, écailleuses. Inflorescences latérales, à fleurs solitaires ou parfois en petits glomérules sur les aréoles. Fleurs petites, à périanthe ±étalé; sépales peu développés, inégaux, ±succulents, verdâtres; pétales 5 à 8, peu développés, ±translucides; étamines 6 à ∞, à anthères globuleuses; disque annulaire; ovaire à ovules en nombre variable, à funicule libre. Fruits en baies globuleuses, souvent surmontées du périanthe marcescent, parfois mucilagineuses, souvent à graines peu nombreuses. Graines cylindriques à fusiformes, à testa brun ou noir, mou.
-
-Un genre avec 36 espèces, toutes sauf une en Amérique centrale et du Sud (dont 29 endémiques du Brésil); une espèce répandue en Afrique, Madagascar et Sri Lanka, et présente au Gabon.
+One genus with 36 species, all but one in Central and South America (of which 29 endemic to Brazil); one species widespread in Africa, Madagascar and Sri Lanka, and present in Gabon.
 
 ---
 
-Notes : Le genre a été divisé en cinq sous-genres (Barthlott & Taylor 1995). La classification de Calvente (2012) n'est pas suivie ici, du fait qu'elle a choisi de ne pas reconnaître des sous-genres naturels paraphylétiques (Hörandl & Stuessy 2010), qui force d'inclure d'autres genres dans un concept plus large de Rhipsalis. La seule espèce africaine fait partie du sous-genre Rhipsalis, qui englobe six espèces caractérisées par des rameaux cylindriques ou parfois légèrement anguleux et des fleurs perpendiculaires aux rameaux, ±globuleuses, avec jusqu'à 8 pétales.
+Notes: The genus was divided into five subgenera (Barthlott & Taylor 1995). The classification of Calvente (2012) is not followed here, because it chose not to recognize natural paraphyletic subgenera (Hörandl & Stuessy 2010), which forces the inclusion of other genera in a broader concept of Rhipsalis. The only African species belongs to the subgenus Rhipsalis, which encompasses six species characterized by cylindrical or sometimes slightly angular branches and flowers perpendicular to the branches, ±globose, with up to 8 petals.
 
-BIBLIOGRAPHIE: Barthlott & Hunt (1993), Barthlott & Taylor (1995), Hunt (1968), Robyns (1967).
+BIBLIOGRAPHY: Barthlott & Hunt (1993), Barthlott & Taylor (1995), Hunt (1968), Robyns (1967).
 
-Planche 9
+Plate 9
 
 Bradleya 5:100 (1987).
 
@@ -37,7 +35,7 @@ R. cassytha Gaertn. var. mauritiana DC., Prodr. 3: 476 (1828).
 
 κ. Daccifera (J.S.Muell.) Stearn subsp. fortdauphinensis Süpplie, Brit. Cact. Succ. J. 14(2): 90 (1996), nom. inval.
 
-Arbuste atteignant jusqu'à 3 m de longueur, épineux à l'état jeune ; rameaux pendant, cylindriques, les supérieurs souvent verticillés, les entrenœuds 10–40 cm × 3–6 mm, glabres, vert glauque, munis d'aréoles spiralées, petites et de 0,5 mm de diamètre, avec 5 à 9 soies blanches caduques, et le sommet formé d'aréoles composées. Feuilles caduques. Inflorescence à 1–(2) fleur par aréole, parfois groupées au sommet d'un entrenœud. Fleur sessile, perpendicularment au rameau : sépales 3 à 5, inégaux, ±triangulaires à oblongs, longs de 0,5–1,5 mm, épais, verdâtes ; pétales (4–)5 à 8, elliptiques-oblongs à elliptiques-ovales, atteignant 3 mm de longueur, blanc crème à verdâtes ; étanines 10 à 18, légèrement plus courtes que les pétales internes, anthères subglobuleuses, de 0,5 mm de diamètre ; ovaire ellipsoidal à largement ellipsoidal, de ±3 × 2–2,5 mm, à nombreux ovules ; style épais, à 3 ou 4 stigmates érigés à étalés. Fruit sphérique à largement ellipsoidal, de 5–7 mm de longueur, souvent surmonté par les restes du périanthe, glabre, blanc verdâtre à blanc, rose ou rougeâtre à maturité, à paroi ±mucilagineuse et gluante. Graine ±réniforme, longue de 1–1,25 mm, noire ou brun foncé, finement ponctuée.
+Shrub reaching up to 3 m in length, spiny when young; branches pendulous, cylindrical, the upper ones often whorled, the internodes 10–40 cm × 3–6 mm, glabrous, glaucous green, with spiraled areoles, small and 0.5 mm in diameter, with 5 to 9 caducous white setae, and the apex formed of compound areoles. Leaves caducous. Inflorescence with 1–(2) flower per areole, sometimes grouped at the apex of an internode. Flower sessile, perpendicular to the branch: sepals 3 to 5, unequal, ±triangular to oblong, 0.5–1.5 mm long, thick, greenish; petals (4–)5 to 8, elliptic-oblong to elliptic-ovate, reaching 3 mm in length, cream white to greenish; stamens 10 to 18, slightly shorter than the inner petals, anthers subglobose, 0.5 mm in diameter; ovary ellipsoidal to broadly ellipsoidal, ±3 × 2–2.5 mm, with numerous ovules; style thick, with 3 or 4 erect to spreading stigmas. Fruit spherical to broadly ellipsoidal, 5–7 mm in length, often surmounted by the remains of the perianth, glabrous, greenish white to white, pink or reddish at maturity, with ±mucilaginous and sticky wall. Seed ±reniform, 1–1.25 mm long, black or dark brown, finely punctate.
 
 ## Species in region
 

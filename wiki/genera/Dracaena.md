@@ -17,67 +17,17 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Trees, shrubs or herbs, evergreen, 10 cm to 40 m tall; roots often orange; trunk generally smooth with visible arches or, in arborescent species, old trunks with longitudinal fissures, stem (distal part of the trunk bearing leaves) visible or not between the sheaths of leaves or prefolioles. Leaves alternate, distichous or spiral, sometimes pseudowhorled or equitant, sessile or pseudopetiolate; blade linear to almost circular, < 10 cm to > 100 cm long, base (semi-)amplexicaul, often sheathing, apex generally mucronate, margin entire, pale green to dark green, sometimes variegated, generally coriaceous. Inflorescences of very modest size or up to 2 m long, with smooth or scabrous axes, with solitary flowers or in contracted cymose fascicles; bracts generally caducous. Flowers 8–50 mm long; pedicel 1–21 mm, articulate above the base, generally bearing extrafloral nectaries at the base; bracteole caducous; perianth white to violet, often streaked red to violet on the outside, with cylindrical tube, with 6 spreading or reflexed lobes; stamens as long as or slightly shorter than the perianth, filaments swollen or filiform, white, anthers yellow to grey; ovary oblong to ellipsoid, smooth; style filiform, reaching the apex of the perianth or exsert, white, stigma subcapitate, generally slightly 3-lobed. Fruits spherical to ellipsoid, sometimes lobed or cornute, subsessile or with a receptacle reaching 12 mm long, yellow to orange (except D. steudneri, cultivated species, with dark purple fruits), fleshy, with 1 to 3 seeds. Seeds bony, rounded or flattened laterally if fruit with 2 or 3 seeds.
 
-Arbres , arbustes ou herbes, sempervirents, de 10 cm à 40 m de hauteur ; racines souvent
+Genus of tropical Africa and Asia between 33°N and 38°S, and two species in Central America, with approximately 116 species, of which 63 in Africa (Govaerts et al. 2016) and 27 indigenous and three introduced and cultivated in Gabon.
 
-orangées ; tronc généralement lisse avec des voûtes visibles ou, chez les espèces arbores-
+Usage: Various species of Dracaena are cultivated throughout the world as ornamental plants, while others have medicinal or social functions, such as for marking graves, sacred sites and agricultural plots.
 
-centes, les vieux troncs à fissures longitudinales, tige (partie distale du tronc portant les
-
-feuilles) visible ou non entre les gaines des feuilles ou des préfeuilles. Feuilles alternes, dis-
-
-tiques ou spiralées , parfois pseudoverticillées ou équitantes, sessiles ou pseudopétiolées ;
-
-limbe linéaire à presque circulaire, de < 10 cm à > 100 cm de longueur, base (semi-)am-
-
-plexicaule , souvent engainante, sommet généralement mucroné, marge entière , vert pâle
-
-à vert foncé, parfois panaché, généralement coriace . Inflorescences de taille très modeste ou
-
-jusqu’à 2 m de longueur, à axes lisses ou scabres, à fleurs solitaires ou en fascicules cymeux
-
-contractés ; bractées généralement caduques. Fleurs 8–50 mm de longueur ; pédicelle 1–21
-
-mm, articulé au-dessus de la base, généralement muni de nectaires extrafloraux à la base ;
-
-bractéole caduque ; périanthe blanc à violet , souvent strié de rouge à violet à l’extérieur,
-
-à tube cylindrique, à 6 lobes étalés ou réfléchis ; étamines aussi longues ou un peu plus
-
-courtes que le périanthe, filets renflés ou filiformes, blancs, anthères jaunes à grises ; ovaire
-
-obloïde à ellipsoïde, lisse ; style filiforme, atteignant le sommet du périanthe ou exsert, blanc,
-
-stigmate subcapité, généralement légèrement 3-lobé. Fruits sphériques à ellipsoïdes , parfois
-
-lobés ou cornus, subsessiles ou avec un réceptacle atteignant 12 mm de longueur, jaunes
-
-à oranges (sauf D. steudneri , espèce cultivée, à fruits pourpre-noir), charnus, avec 1 à 3
-
-graines . Graines osseuses, arrondies ou aplaties latéralement si fruit avec 2 ou 3 graines.
-
-Genre de l’Afrique et de l’Asie tropicale entre 33 ⁰ N et 38 ⁰ S, et deux espèces en Amérique
-
-centrale, avec environ 116 espèces, dont 63 en Afrique (Govaerts et al. 2016) et 27 indigènes
-
-et trois introduites et cultivées au Gabon.
-
-Usage : Diverses espèces de Dracaena sont cultivées dans le monde entier comme plantes ornementales,
-
-tandis que d’autres ont des fonctions médicinales ou sociales, comme pour le marquage des tombes, des
-
-sites sacrés et des parcelles agricoles.
-
-Notes : Les fleurs sont nocturnes, fleurissant pendant plusieurs heures. Elles sont visitées par des Elateri -
-
-dae (coléoptères) et des Sphingidae et Noctuidae (lépidoptères nocturnes).
+Notes: The flowers are nocturnal, blooming for several hours. They are visited by Elateridae (beetles) and Sphingidae and Noctuidae (nocturnal lepidopterans).
 
 ---
 
-Il y a deux espèces ( D. perrottetii et D. usambarensis ) à rechercher au Gabon, à cause de leur
-
-présence dans les pays voisins. Elles sont donc incluses dans le traitement ci-dessous.
+There are two species (D. perrottetii and D. usambarensis) to be searched for in Gabon, because of their presence in neighbouring countries. They are therefore included in the treatment below.
 
 ## Species in region
 

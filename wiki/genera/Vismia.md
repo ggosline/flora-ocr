@@ -17,63 +17,29 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Arbuste à petit arbre ou liane ; latex orange ; poils simples ou étoilés. Feuilles opposées,
-
-sans stipules ; limbe glabre ou à poils étoilés, sans ou avec petites glandes noires. Inflores-
-
-cences terminales ou axillaires, en cymes, panicules cymeuses ou en glomérules. Fleurs :
-
-sépales 5, persistants ; pétales 5, velus sur la face interne , caducs, glanduleux ou non ;
+Shrub to small tree or liane; latex orange; hairs simple or stellate. Leaves opposite, without stipules; blade glabrous or with stellate hairs, without or with small black glands. Inflorescences terminal or axillary, in cymes, cymose panicles or in glomérules. Flowers: sepals 5, persistent; petals 5, pubescent on the inner face, caducous, glandular or not;
 
 ---
 
-étamines en 5 phalanges de 3–∞, filets partiellement libres, staminodes 5, alternant avec
+stamens in 5 phalanges of 3–∞, filaments partially free, staminodes 5, alternating with the phalanges, glabrous (in Africa); ovary 5-locular, with 5–8 ovules per locule; styles 5, free, stigmas capitate. Fruits: berries with 25–40 seeds. Seeds ovoid to ellipsoid; testa finely reticulate, sometimes covered with black glands; embryo isocotyledonous, cotyledons plane-convex, accumbent.
 
-les phalanges, glabres (en Afrique) ; ovaire 5-loculaire, à 5–8 ovules par loge ; styles
+Genus of tropical America and continental tropical Africa with approximately 60 species, seven of which in Africa; two species in Gabon.
 
-5, libres, stigmates capités. Fruits : baies avec 25–40 graines . Graines ovoïdes à ellip-
+Taxonomic note: This genus was divided into two subgenera by Bamps (1966). The subgenus Vismia, with staminodes (interstaminal glands) pilose, is restricted to tropical America. The subgenus Afrovismia Bamps, with glabrous staminodes, is present only in tropical Africa.
 
-soïdes ; testa finement réticulé, parfois couvert de glandes noires ; embryon isocotylé,
+B: Bamps (1966, 1970), Ewan (1962), Stevens (2007).
 
-cotylédons plans-convexes, accombants.
+Bibliography
 
-Genre d’Amérique et d’Afrique tropicale continentale avec environ 60 espèces dont sept
+### Key to species
 
-en Afrique ; au Gabon deux espèces.
+1. - Liane or sarmentose shrub; inflorescences in terminal cymose panicles, longer than the subtending leaves; leaves rounded to subcordate at the base; staminal phalanges glabrous ............................................... 2
 
-Note taxonomique : Ce genre a été divisé en deux sous-genres par Bamps (1966). Le
+- Shrub or small tree; inflorescences in axillary cymes or apparently terminal on young lateral branches, shorter than the subtending leaves; leaves cuneate to obtuse at the base; staminal phalanges pubescent .......................................................................................... V. guineensis
 
-sous-genre Vismia , à staminodes (glandes interstaminales) pileux, est limité à l’Amérique
+2. - Blade glabrous or pubescent (surface visible) below ... V. rubescens var. rubescens
 
-tropicale. Le sous-genre Afrovismia Bamps, à staminodes glabres, n’est présent qu’en
-
-Afrique tropicale.
-
-B : Bamps (1966, 1970), Ewan (1962), Stevens (2007).
-
-i B liographie
-
-### Clé des espèces
-
-1. - Liane ou arbuste sarmenteux ; inflorescences en panicules cymeuses
-
-terminales, plus longues que les feuilles axillantes ; feuilles arrondies à
-
-subcordées à la base ; phalanges staminales glabres ............................................... 2
-
-- Arbuste ou petit arbre ; inflorescences en cymes axillaires ou apparemment
-
-terminales sur des jeunes rameaux latéraux, plus courtes que les feuilles
-
-axillantes ; feuilles cunéées à obtuses à la base ; phalanges staminales
-
-pubescentes .......................................................................................... V. guineensis
-
-2. - Limbe glabre ou pubescent (surface visible) dessous ... V. rubescens var. rubescens
-
-- Limbe tomenteux (surface non visible) dessous ........... V. rubescens var. tomentosa
+- Blade tomentose (surface not visible) below ........... V. rubescens var. tomentosa
 
 ## Species in region
 

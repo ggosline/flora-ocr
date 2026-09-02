@@ -17,19 +17,17 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Perennial herbs with creeping stolons, rooting at the nodes and then producing tufts of erect stems. Leaves distichous, narrowly linear, with imbricate sheaths.
 
-Herbes pérennes à stolons rampants, s'enracinant aux nœuds et émettant alors des touffes de tiges dressées. Feuilles distiques, linéaires étroites, à gaines imbriquées.
+Linear racemes, unilateral, 2 to 6 in terminal umbels. Spikelets awnless, one-flowered, inserted in 2 series on the rachis of the racemes, disarticulating above the glumes. Hermaphrodite flower, with narrow, keeled, acuminate or mucronate glumes, the lower one persistent. Lemma longer than the glumes, 3-nerved, keel ciliate. Palea shorter, bicarinate; 2 lodicules; 3 stamens.
 
-Racèmes linéaires, unilatéraux, de 2 à 6 en ombelles terminales. Épillets mutiques, à une fleur, insérés en 2 séries sur l'axe des racèmes, se désarticulant au-dessus des glumes. Fleur hermaphrodite, à glumes étroites, carénées, acuminées ou mucronées et l'inférieure persistante. Lemma plus longue que les glumes, à 3 nervures, carène ciliée. Palée plus courte, bicarénée; 2 lodicules; 3 étanines.
+This genus comprises two species, one of which, Cynodon dactylon Pers., the type of the genus, doubtless occurs in Gabon. It can be used to make lawns that need to be mowed frequently. It is propagated by cutting of stolons.
 
-Ce genre comporte deux espèces dont l'une, Cynodon dactylon Pers., type du genre, existe sans doute au Gabon. Elle peut être utilisée pour faire des pelouses qu'il faut tondre fréquemment. On la multiplie par bouturage de stolons.
-
-Noms vernaculaires(d'après Walker et Sillans) : Ekanda (Mpongwé); obur (Fang).
+Vernacular names (after Walker and Sillans): Ekanda (Mpongwé); obur (Fang).
 
 ---
 
-# XIII. PHARÉES
+# XIII. PHAREES
 
 ## Species in region
 

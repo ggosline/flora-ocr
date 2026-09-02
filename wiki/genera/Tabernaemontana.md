@@ -17,73 +17,23 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Shrubs, trees or lianes with dichotomous ramifications repeated; bark with abundant white latex; branches with well-visible leaf scars. Leaves opposite, those of a pair equal or unequal, petiolate or sometimes sessile; petioles of a pair generally connate into a distinct ochrea, bearing axillary colleters. Inflorescences (1) 2 just above a ramification corymbiform bracteate caducous but always present at anthesis bearing axillary colleters. Flowers actinomorphic except for the nearly equal calyx lobes, fragrant; calyx with almost free lobes connate up to halfway imbricate in the bud, in the interior often with colleters; corolla with tube twisted or not, with lobes overlapping to the left in the bud and folded inward, often auriculate on the left side of the base (in internal view); stamens free from the style included or sometimes exserted disk absent ovary composed of 2 carpels barely to distinctly connate at the base and connected at the apex by the style often split at the base; pistil head not coherent with the anthers, thus still complete after corolla fall. Fruits composed of 2 separated mericarps or less often united at the base, one of which sometimes remains small or aborted, subglobose or gourd-shaped, bacciform, dehiscent along an adaxial line or sometimes indehiscent, with thin wall or very thick to some or more seeds green glaucous orange or yellow at maturity sometimes pointed or warty. Seeds surrounded by a pulpy aril, white, orange or red slightly obliquely ellipsoid often somewhat angular with a deep furrow up to halfway across its width on the hilar side and a shallow or obscure furrow on the others, rather smooth, with tiny warts or alveolate; endosperm fleshy, white, ruminate, enveloping the embryo.
 
-Arbustes , arbres ou lianes j UDPL¿FDWLRQV dichotomiques répétées ; écorce à latex blanc
+Pantropical genus with approximately species approximately species in continental Africa of which ten in Gabon.
 
-abondant ; rameaux à cicatrices foliaires bien visibles. Feuille s opposées, celles d’une paire
+**BIBLIOGRAPHY**
 
-égales ou inégales, pétiolées ou parfois sessiles ; pétioles d’une paire généralement connés en
-
-un ochréa distinct, munis de collétères axillaires . ,QÀRUHVFHQFHV (1)2 juste au-dessus d’une
-
-UDPL¿FDWLRQ FRU\PELIRUPHVEUDFWpHVFDGXTXHVPDLVWRXMRXUVSUpVHQWHVjO¶DQWKqVHjFRO -
-
-létères axillaires. Fleurs actinomorphes, sauf pour les lobes du calice subégaux, odorantes ;
-
-FDOLFHjOREHVSUHVTXHOLEUHVjFRQQpVMXVTX¶jODPRLWLpLPEULTXpVGDQVOHERXWRQjO¶LQWpULHXU
-
-souvent avec des collétères ; corolle à tube tordu ou non , à lobes recouvrant vers la gauche
-
-dans le bouton et repliés vers l’intérieur , souvent auriculés du côté gauche de la base (en
-
-vue interne) ; étamines libres du style LQFOXVHVRXSDUIRLVH[VHUWHVGLVTXHDEVHQWRYDLUH
-
-composé de 2 carpelles à peine à nettement connées à la base et reliés au sommet par le style
-
-souvent fendu à la base ; tête du pistil non cohérente avec les anthères, donc encore complète
-
-après la chute de la corolle . Fruits composés de 2 méricarpes séparés ou moins souvent
-
-unis à la base , dont l’un reste parfois petit ou avorté, subglobuleux ou en forme de gousse,
-
-bacciformes , déhiscents le long d’une ligne adaxiale ou parfois indéhiscents, à paroi mince
-
-jWUqVpSDLVVHjTXHOTXHVRXSOXVLHXUVJUDLQHVYHUWVJODXTXHVRUDQJHRXMDXQHVjPDWXULWp
-
-SDUIRLVSRLQWLOOpVRXYHUUXTXHX[ Graines entourées d’un arille pulpeux , blanc, orange ou
-
-URXJHOpJqUHPHQWREOLTXHPHQWHOOLSVRwGDOHVVRXYHQWTXHOTXHSHXDQJXOHXVHVDYHFXQVLOORQ
-
-SURIRQGMXVTX¶jODPRLWLpGHVDODUJHXUVXUOHF{Wpklodluhhwxqvloorqshxsurirqgrxrevfxu
-
-sur les autres, plutôt lisses, à minuscules verrues ou à alvéoles ; endosperme charnu, blanc,
-
-ruminé, enveloppant l’embryon.
-
-*HQUHSDQWURSLFDODYHFHQYLURQHVSqFHVHQYLURQHVSqFHVHQ$IULTXHFRQWLQHQWDOHGRQW
-
-dix au Gabon.
-
-B : Beentje (2021), Endress et al. (2019), Jongkind & Lachenaud (2022), Leeuwenberg
-
-IBLIOGRAPHIE
-
-(1991), Leeuwenberg & Kupicha (1985), Omino (2002).
+B: Beentje (2021), Endress et al. (2019), Jongkind & Lachenaud (2022), Leeuwenberg (1991), Leeuwenberg & Kupicha (1985), Omino (2002).
 
 ---
 
-### Clé des espèces
+### Key to species
 
-1. - Arbuste ou arbre dressé ............................................................................................... 2
+1. - Upright shrub or tree ............................................................................................... 2
 
-- Liane ou arbuste sarmenteux ....................................................................................... 8
+- Liane or sarmentose shrub ....................................................................................... 8
 
-/LPEH IROLDLUH QHWWHPHQW FRULDFH Spgrqfxoh GH PP Jpqpudohphqw EHDX -
-
-coup plus long) ; méricarpes subglobuleux ou transversalement oblongs, verts ou
-
-JODXTXHVMDPDLVDLOpV .................................................................................................. 3
+Leaf blade distinctly coriaceous petiole of mm generally much longer); mericarps subglobose or transversely oblong, green or glaucous never winged .................................................................................................. 3
 
 ## Species in region
 

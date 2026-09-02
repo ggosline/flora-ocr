@@ -17,27 +17,25 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Leafless herbs, epiphytic or rarely lithophytic. Stem short. Leaves scaly, acute to rostrate, protecting the apex of the stem. Inflorescence axillary, racemose, produced by the apical part of the stem, few- to many-flowered. Flowers small to very small, sessile to pedicellate. Sepals and petals subsimilar or dissimilar. Labellum entire to clearly trilobed, furnished with a spur. Rostellum ligulate, short to elongate, curved upward, lamellose. Viscidium single, lamellose. Tegula simple,
 
-Herbes aphylles épiphytes ou rarement lithophytes. Tige courte. Feuilles écailleuses aiguës à rostrées, protégeant le sommet de la tige. Inflorescence axillaire, racémeuse, produite par la partie apicale de la tige, pauci- à multiflore. Fleurs petites à très petites, sessiles à pédicelées. Sépales et pétales subsemblables ou dissemblables. Labelle entier à nettement trilobé, muni d'un éperon. Rostellum ligulé, court à allongé, incurvé vers le haut, lamellé. Viscidie unique, lamellée. Tegula simple,
+<<<---SECTION-BREAK--->>>
 
----
+PL. 165. – Homocolleticon brownii (Rolfe) Szlach. & Olsz. : A, part of the inflorescence ; B, labellum spread out ; C, dorsal sepal ; D, petal ; E, lateral sepal ; F, leaf. – Homocolleticon monteiroae (Rchb.f.) Szlach. & Olsz. : G, flower and bract ; H, labellum spread out ; I, dorsal sepal ; J, petal ; K, lateral sepal ; L, leaf (A-F, Tisserant 382, P ; G-L, Le Testu 8073, P).
 
-PL. 165. – Homocolleticon brownii (Rolfe) Szlach. & Olsz. : A, partie de l'inflorescence ; B, labelle étalé ; C, sépale dorsal ; D, pétale ; E, sépale latéral ; F, feuille. – Homocolleticon monteiroae (Rchb.f.) Szlach. & Olsz. : G, fleur et bractée ; H, labelle étalé ; I, sépale dorsal ; J, pétale ; K, sépale latéral ; L, feuille (A-F, Tisserant 382, P ; G-L, Le Testu 8073, P).
+<<<---SECTION-BREAK--->>>
 
----
+lamellose. Remains of the rostellum forked, lateral lobes aliform, the median one being poorly developed. – Pl. 166, p. 367.
 
-lamellée. Restes du rostellum fourchus, lobes latéraux aliformes, le médian étant peu développé. – Pl. 166, p. 367.
+Genus of approximately 25–30 species present in tropical Africa and Madagascar with an extension to Natal (South African Republic). The species descriptions given below are taken mostly from Jonsson (1981).
 
-Genre d'environ 25-30 espèces présentes en Afrique tropicale et à Madagascar avec une extension au Natal (République sudafricaine). Les descriptions des espèces données ci-après sont reprises pour la plupart de Jonsson (1981).
+1. Free part of the rostellum much longer than the gynostemium ; labellum with prominent basal auricles .... subgen Encheiridion (36. 1. M. macrorrhynchium)
 
-1. Partie libre du rostelle beaucoup plus longue que le gynostème ; labelle avec auricules basales saillantes .... subgen Encheiridion (36. 1. M. macrorrhynchium)
+1'. Free part of the rostellum generally shorter or sometimes as long as the gynostemium ; labellum without basal auricles .. subgen Microcoelia (36. 2. M. caespitosa)
 
-1'. Partie libre du rostelle généralement plus courte ou parfois aussi longue que le gynostème ; labelle sans auricules basales .. subgen Microcoelia (36. 2. M. caespitosa)
+### Subgenus Encheiridion
 
-### Sous-genre Encheiridion
-
-Labelle avec des auricules basales saillantes ou des lobes latéraux. Partie libre du rostellum très allongée, plus longue que tout le gynostème. Tegula et viscidie très longues, étroites.
+Labellum with prominent basal auricles or lateral lobes. Free part of the rostellum very elongate, longer than the entire gynostemium. Tegula and viscidium very long, narrow.
 
 ## Species in region
 

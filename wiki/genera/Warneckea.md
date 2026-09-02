@@ -17,45 +17,39 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Leaves trinerved by 2 convergent nerves not coarctate, except towards the apex (see W. bebaiensis), and ± similar to the median nerve, or plurinerved by one or several pairs of additional convergent nerves, coarctate with secondary transverse nerves; reticulum polygonal often apparent: limb with smooth surfaces, sometimes sparsely granulate by the presence of spheroid mesophyllian sclerites.
 
-Feuilles trinerviés par 2 convergentes non coarquées, sauf vers le sommet (voir W. bebaiensis), et ± semblables à la médiane, ou plurinerviées par une ou plusieurs paires de convergentes additionnelles, coarquées avec les transversales secondaires; réticulum polygonal souvent apparent: limbe à surfaces lisses, parfois éparsement grenues par la présence de sclérites mésophylliennes sphéroïdes.
+Cymes branched and bracts caducous; or contracted and bracts persistent imbricate; epigynous chamber smooth, or with radial grooves, no membranous partitions; calyx always developed, either with limb nearly entire, or deeply lobed, lobes imbricate; stamens dolabriform, with or without gland; ovary (always?) with 2 locules, of which only one develops, 6-12-ovulate.
 
-Cymes ramifiées et bractées caduques; ou contractées et bractées persistantes imbriquées; chambre épigyne lisse, ou avec cannelures radiales, pas de cloisons membraneuses; calice toujours développé, soit avec limbe presque entier, soit profondément lobé, lobes imbriqués; étamines dolabriformes, avec ou sans glande; ovaire (toujours?) avec 2 loges, dont une seule se développe, 6-12-ovulé.
+Fruit globose or ellipsoid, often pulpous, blackish, crowned by
 
-Fruit globuleux ou ellipsoïde, souvent pulpeux, noirâtre, couronné par
+<<<---SECTION-BREAK--->>>
 
----
+the calyx truncate or lobed; embryo without hypocotyl, one fleshy cotyledon, globose, the other rudimentary; seedling with hypogeal germination, the fleshy cotyledon remains included in the seed coat.
 
----
+TYPE SPECIES: Warneckea amaniensis Gilg.
 
-le calice tronqué ou lobé; embryon sans hypocotyle, un cotylédon charnu, globuleux, l'autre rudimentaire; plantule à germination hypogée, le cotylédon charnu reste inclus dans l'enveloppe séminale.
+Afro-Malagasy genus. Eleven species in Gabon.
 
-ESPÈCE-TYPE : Warneckea amaniensis Gilg.
+1. Leaves not more than 3 × 6 cm; cymes axillary and terminal; fruits globose.
 
-Genre afro-malgache. Onze espèces au Gabon.
+2. Leaves "uninerved", the convergent nerves being little visible, near the margin, and arched from the base with the transverse nerves well apparent beneath; young branches 4-angular ..... 1. W. bebaiensis.
 
-1. Feuilles n'ayant pas plus de  $ 3 \times 6 $ cm; cymes axillaires et terminales; fruits globuleux.
+2'. Leaves "trinerved", the convergent nerves rectilinear being well apparent beneath; young branches rounded ..... 1 bis. W. lecomteana.
 
-2. Feuilles « uninerviées », les convergentes étant peu visibles, près de la marge, et arquées dès la base avec les transversales bien apparentes dessous; jeunes rameaux 4-angulaires ..... 1. W. bebaiensis.
+1'. Leaves of larger dimensions; cymes and fruits variable.
 
-2'. Feuilles « trinerviées », les convergentes rectilignes étant bien apparentes dessous; jeunes rameaux arrondis ..... 1 bis. W. lecomteana.
-
-1'. Feuilles de plus grandes dimensions; cymes et fruits variables.
-
-3. Nervures convergentes et médiane saillantes sur les 2 faces; feuilles ovales à ovales-lancées, ± 5 × 12 cm, cordées sur le pétiole; cymes capituliformes, subsessiles, longues de 0,8 à 1 cm; bractées persistantes, imbriquées; pédi-celles de 1 à 2 mm; fruit globuleux, 8 × 8 mm.
+3. Convergent nerves and median nerve prominent on both faces; leaves ovate to ovate-lanceolate, ± 5 × 12 cm, cordate on the petiole; cymes capituliform, subsessile, 0.8 to 1 cm long; bracts persistent, imbricate; pedicels 1 to 2 mm; fruit globose, 8 × 8 mm.
 
 2. W. fascicularis var. mangrovensis.
 
-3'. Nervures principales imprimées dessus (le réseau tertiaire peut être saillant); si le caractère est incertain, les feuilles ont  $ 8 \times 15 $ cm ou davantage.
+3'. Main nerves impressed above (the tertiary network may be prominent); if the character is uncertain, the leaves are 8 × 15 cm or more.
 
-4. Feuilles = cordées, ovales ou blancées; plusieurs paires de convergentes, dont les principales sont suprabasilaires; cymes principalement sur les nœuds défeuillés.
+4. Leaves ± cordate, ovate or lanceolate; several pairs of convergent nerves, of which the main ones are suprabasilar; cymes principally on the defoliate nodes.
 
-5. Rameaux arrondis; calice lobé ou nettement sinué; cymes sur les nœuds feuillés et défeuillés.
+5. Branches rounded; calyx lobed or distinctly sinuate; cymes on the leafy and defoliate nodes.
 
-6. Feuilles blancées, jusqu'à 10 × 25 cm; pédicelles de 5 à 7 mm; pétales
-
-2,5 × 4 mm. ..... 3. W. pulcherrima.
+6. Leaves lanceolate, up to 10 × 25 cm; pedicels 5 to 7 mm; petals 2.5 × 4 mm. ..... 3. W. pulcherrima.
 
 ## Species in region
 

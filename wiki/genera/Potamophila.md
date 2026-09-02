@@ -17,15 +17,13 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Aquatic or terrestrial plants, sometimes climbing, with linear lanceolate, broad leaves, petiolate at the base.
 
-Plantes aquatiques ou terrestres, parfois grimpantes, à feuilles linéaires lancéolées, larges, pétiolées à la base.
+Inflorescence in a panicle of solitary spikelets, in polygamous species with female spikelets toward the base and male or hermaphroditic toward the apex.
 
-Inflorescence en panicule d'épillets solitaires, celle des espèces polygames à épillets femelles vers la base et mâles ou hermaphrodités vers le sommet.
+Spikelets narrow, subcylindrical or laterally flattened. Flowers hermaphroditic or unisexual. Glumes very small, reduced to a cupule at the apex of the pedicel. Neuter flowers represented by two small setaceous pieces at the base of the spikelet. Fertile lemma concave or involute, muticous. Palea present. 6 stamens; 2 or 3 styles with plumose stigmas.
 
-Épillets étroits, subcylindriques ou latéralement aplatis. Fleurs hermaphrodites ou unisexuées. Glumes très petites, réduites à une cupule à l'extrémité du pédicelle. Fleurs neutres représentées par deux petites pièces sétacées à la base de l'épillet. Lemma fertile concave ou involutée, mutique. Paléa présente. 6 étamines; 2 ou 3 styles à stigmates plumeux.
-
-Une demi-douzaine d'espèces d'Afrique Australe, de Madagascar et d'Australie; une espèce nouvelle gabonaise.
+About half a dozen species from Southern Africa, Madagascar and Australia; one new Gabonese species.
 
 ## Species in region
 

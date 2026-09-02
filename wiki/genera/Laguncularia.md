@@ -17,17 +17,15 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Shrubs with opposite leaves.
 
-Arbrisseaux à feuilles opposées.
+Inflorescences in spikes.
 
-Inflorescences en épis.
+Flowers bisexual, 5-merous. Receptacle inferior with two united bracts.
 
-Fleurs bisexuées, 5-mères. Réceptacle inférieur avec deux bractées
+Petals present. Stamens 10. Fruit wrinkled.
 
-soudées. Pétales présents. Étamines 10. Fruit ridé.
-
-Genre monospécifique des zones côtières des deux côtés de l'Atlantique.
+Monotypic genus of coastal zones on both sides of the Atlantic.
 
 ## Species in region
 

@@ -17,13 +17,11 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Sapindaceae with one ovule per locule, with paripinnate leaves, arborescent, sometimes monocaulous. Petals sometimes without a scale. Fruit reduced to one locule by abortion, neither furrowed nor lobed, bacciform or drupaceous. Seed without an aril.
 
-Sapindacées à un ovule par loge, à feuilles paripennées, arborescentes, parfois monocaules. Pétales parfois sans écaille. Fruit réduit à une loge par avortement, ni sillonné, ni lobé, bacciforme ou drupacé. Graine sans arille.
+TYPE GENUS: Melicocca L.
 
-GENRE-TYPE : Melicocca L.
-
-Les Melicoccées comptent, d'après RADLKOFER, 7 genres extra-africains. Une des 2 espèces du genre Melicocca est cultivée sous les tropiques en Afrique et en Asie.
+The Melicoccaceae comprise, according to RADLKOFER, 7 extra-African genera. One of the 2 species of the genus Melicocca is cultivated under the tropics in Africa and Asia.
 
 ## Species in region
 

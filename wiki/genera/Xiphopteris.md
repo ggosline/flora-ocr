@@ -16,19 +16,17 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Petites fougères épiphytes, à rhizome court, écailleux; frondes en touffes. Pétiole non articulé; limbe pinnatifide, ou penné, à pennes adnées; une seule nervure, simple ou pinnafide,
+Small epiphytic ferns, with short, scaly rhizome; fronds in tufts. Petiole not articulate; lamina pinnatifid, or pinnate, with adnate pinnae; a single vein, simple or pinnatifid,
 
 ---
 
-par lobe. Sore sur la division acroscope de la nervure, sur un réceptacle allongé.
+per lobe. Sori on the acroscopic division of the vein, on an elongate receptacle.
 
-Type du genre : X. serrulata (Sw.) Klf.
+Type of the genus: X. serrulata (Sw.) Klf.
 
-Ce genre, souvent réuni au Ctenopteris (Alston, FWTA), se distingue par les lobes ne portant qu'une seule nervure, simple ou bifurquée.
+This genus, often united with Ctenopteris (Alston, FWTA), is distinguished by the lobes bearing only a single vein, simple or bifurcate.
 
-Environ 50 espèces, pantropicales. Une seule espèce au Gabon.
+About 50 species, pantropical. Only one species in Gabon.
 
 ## Species in region
 

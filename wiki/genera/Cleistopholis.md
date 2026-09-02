@@ -17,15 +17,13 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Trees or shrubs glabrous or glabrescent. Flowers axillary, pedicellate, geminate, fasciculate or in subumbelliform pedunculate inflorescences. Sepals 3, valvate, small, free. Petals 6, free, in two whorls; the outer valvate, elliptic-oblong or linear, much larger than the inner; the inner imbricate, concave, broadly triangular-ovate to suborbicular, covering the reproductive organs. Stamens numerous, in two or three cycles, sessile, broadly cuneiform to obpyramidal, thecae linear lateral, often unequal, connectives dilated, truncate above the anthers and prolonged towards the centre of the flower. Carpels (10–20), free, oblong, stigmas sessile discoid. Receptacle convex. Ovules (1)–2, lateral.
 
-Arbres ou arbustes glabres ou glabrescents. Fleurs , axillaires，pédicellées，géminées，fasciculéesou en inflorescences subombelliformes pédonculées. Sépales 3,valvaires,petits,libres. Pétales 6, libres,en deux verticilles；les externes valvaires,eliptiques-oblongs ou linéaires,beaucoup plus grands que les internes; les internes imbriques, concaves, largement triangulaires-ovés a suborbiculaires，recouvrant les organes reproducteurs.Etamines nombreuses,sur deux ou trois cycles，sessiles, largement cunéiformes ä obpyramidales，theques linéaires laterales, souvent inégales, connectifs dilatés,tronques au-dessus des antheres et prolongés vers le centre de la fleur. Carpelles (1o-2o)， libres, oblongs, stigmates sessles discoides. Réceptacle convexe. Ovules (1)-2,lateraux.
+Fruits with thick pedicel; mericarps subglobose to ellipsoid, subsessile or shortly stipitate. Seeds 1–2, vertical or transversely oblique, ± laterally compressed; testa smooth or tuberculate.
 
-Fruits ä pédicelle épais; méricarpes subglobuleux a ellipsoides, subsessiles ou courtement stipités. Graines 1-2， verticales ou transversales obliques,± comprimées latéralement；testa lisse ou tuberculé.
+Type species: C. glauca Pierre ex Engler et Diels.
 
-Espece type :C. glauca Pierre ex Engler et Diels.
-
-Petit genre d'Afrique tropicale comprenant 3 (4） especes. Par ses pétales externes valvaires,étalés,beaucoup plus grands que les internes retournés sur les organes reproducteurs,il présente certaines ressemblances avec le genre Friesodielsia van Steenis, mais chez ce dernier les pétales internes sont valvaires et connivents au sommet.Les fruits et la graine sont d'autre part tres difféerents.
+Small genus of tropical Africa comprising 3 (4) species. By its outer valvate petals, spreading, much larger than the inner petals turned back over the reproductive organs, it presents certain resemblances to the genus Friesodielsia van Steenis, but in the latter the inner petals are valvate and connivant at the apex. The fruits and seed are moreover very different.
 
 ## CLE DES ESPECES
 

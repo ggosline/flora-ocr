@@ -16,13 +16,7 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Arbustes à feuilles persistantes, à fleurs hermaphrodites ou dioïques, en ombelles, incluses dans un involucre globuleux avant
-
----
-
-la floraison; les mâles terminales, les femelles latérales. Périant le 4 divisions égales, caduques. Étamines généralement au nombre de 12, les intérieures portant 2 glandes aux filets; anthères toutes introrses, biloculaires.
+Shrubs with persistent leaves, with hermaphrodite or dioecious flowers, in umbels, enclosed in a globose involucre before flowering; the male flowers terminal, the female flowers lateral. Perianth with 4 equal, caducous divisions. Stamens generally 12 in number, the inner ones bearing 2 glands on the filaments; anthers all introrse, bilocular.
 
 ## Species in region
 

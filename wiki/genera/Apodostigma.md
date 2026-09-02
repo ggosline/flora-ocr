@@ -17,19 +17,17 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Tall lianes, unarmed. Old wood subterete with weak, spaced furrows. Stipules separate, minute, inserted at the nodes. Leaves opposite or somewhat subopposite with petiole lacking latex filaments in cross-section. Limb entire or with dentate margin but most often indistinctly so.
 
-Lianes élevées, inermes. Vieux bois subcylindrique avec de faibles sillons espacés. Stipules séparées, minuscules, insérées aux nœuds. Feuilles opposées ou un peu subopposées à pétiole dépourvu à la cassure de filaments de caoutchouc. Limbe entier ou à marge dentée mais le plus souvent indistinctement.
+Inflorescences axillary in dichotomous cymes: at each fork a terminal flower and two equal branches. Flowers small, pedicellate, with imbricate prefloration. Young buds globose. Sepals 5, imbricate. Petals not quite spreading, 1/4 erect; 4, in two pairs are somewhat symmetrically arcuate, producing a tendency toward zygomorphy. Disc divided into 3 crescents beneath the stamens, oriented laterally. Stamens 3 with extrorse anthers, transversely dehiscent, with very short filament not ribbon-like. Pollen simple, tricolporate, small. Pistil very short, broad, crowned by a triangular shield that separates three sessile stigmas rejected at the angles and dominating the anthers. Ovary with 3 locules and 2 ovules per locule.
 
-Inflorescences axillaires en cymes dichotomes : à chaque fourche une fleur terminale et deux rameaux égaux. Fleurs petites pédicellées, à préfloraison imbriquée. Jeunes boutons globuleux. Sépales 5 imbriqués. Pétales non tout à fait étalés, 1/4 érigés ; 4, en deux paires sont un peu symétriquement arqués ce qui produit une tendance à la zygomorphie. Disque divisé en 3 croissants sous-staminaux orientés latéralement. Étamines 3 à anthères extrorses, transversalement déhiscentes, à filet très court non rubané. Pollen simple, tricolporé, petit. Pistil très court, large, coiffé d'un écusson triangulaire qui sépare les trois stigmates sessiles rejetés aux angles et dominant les anthères. Ovaire à 3 loges et 2 ovules par loge.
+Fruits and seeds altogether similar to those of Reissantia indica, but cotyledons not distinctly veined.
 
-Fruits et graines tout à fait similaires à ceux des Reissantia indica, mais cotylédons non distinctement nervés.
+### African and Malagasy monotypic genus.
 
-### Genre monotypique africain et malgache.
+Greek etymology: from "apodos", sessile and "stigma", stigma.
 
-Étymologie grecque : de « apodos », sessile et « stigma », stigmate.
-
-Il y a une similitude remarquable entre la structure du pistil et celui du genre américain Cheiloclinium Miers, de la tribu des Salaciae.
+There is a remarkable similarity between the structure of the pistil and that of the American genus Cheiloclinium Miers, of the tribe Salaciae.
 
 ## Species in region
 

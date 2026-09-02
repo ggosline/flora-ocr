@@ -15,61 +15,13 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Shrubs or annual or perennial herbs, sometimes succulent, generally aromatic.
 
-Arbustes ou herbes annuelles ou vivaces, parfois succulents, généralement aromatiques.
+Leaves simple, opposite or rarely alternate, petiolate. Inflorescences terminal or axillary, thyrsoid; cymes sessile or pedunculate, sometimes with long monochasial branches, with 1 or several flowers; bracts generally caducous after flowering, sometimes erect and forming a tuft at the apex of the flowering stem; bracteoles absent. Flowers pedicellate; calyx bilabiate or regularly 5-lobed, funnel-shaped or with a straight or curved tube, generally ventrally gibbous, with pedicel attaching asymmetrically at the base opposite the upper lip, with lobes triangular to narrowly elliptic-ovate or spinescent, if calyx bilabiate then upper lip simple, larger or of similar size to the other lobes, decurrent or not, lower lip 4-lobed, with medial lobes lanceolate to triangular, fused at the base or separated by a sinus or fused into a single lobe; corolla bilabiate, with upper lip shorter than the lower, rarely subequal, tube sigmoid to almost straight, narrow and with ribs parallel at the base, extending toward the throat, very rarely gibbous, rarely annular, upper lip 4-lobed, erect or ascendant, the lower horizontal, cucullate to concave, not thickened and articulate at the base, not folding back at anthesis; stamens 4, declined, with filaments fused or free, adjacent, attached on the lower face of the throat, hidden inside the lower lip or exserted, anthers reniform to orbicular, dorsifixed, with equal thecae; disc 4-lobed with the lower lobe larger; ovary deeply 4-lobed; style gynobasic, apex bifid with subulate lobes. Fruits: achenes 4, ovoid, often slightly dorsi-ventrally flattened, glabrous, with small scars, mucilaginous when wet.
 
-Feuilles simples, opposées ou rarement alternes, pétiolées. Inflorescences terminales ou axil-
+Genus with 295 species in the tropical and subtropical regions of the Old World and approximately 180 in tropical Africa, of which 12 are spontaneous and one cultivated in Gabon.
 
-laires, thyrsoïdes ; cymes sessiles ou pédonculées, parfois à longs rameaux monochasiales,
-
-avec 1 ou plusieurs fleurs ; bractées généralement caduques après la floraison, parfois dressées
-
-et formant une touffe à l’apex de la tige fleurie ; bractéoles absentes. Fleurs pédicellées ; calice
-
-bilabié à régulièrement 5-lobé, en forme d’entonnoir ou de tube droit ou courbé, généralement
-
-ventralement gibbeux , à pédicelle se fixant asymétriquement à la base opposée à la lèvre
-
-supérieure , à lobes triangulaires à étroitement elliptiques-ovales ou spinescents, si calice bila-
-
-bié alors lèvre supérieure simple, plus grande ou de taille similaire aux autres lobes, décurrente
-
-ou non, lèvre inférieure 4-lobée, à lobes médians lancéolés à triangulaires, fusionnés à la base
-
-ou séparés par un sinus ou fusionnés en un seul lobe ; corolle bilabiée, à lèvre supérieure
-
-plus courte que l’inférieure , rarement subégale , tube sigmoïde à presque droit , étroit et à
-
-côtes parallèles à la base, s’étendant vers la gorge, très rarement gibbeux, rarement annulaire,
-
-lèvre supérieure 4-lobée, dressée ou ascendante, l’inférieure horizontale, cucullée à concave,
-
-non épaissie et articulé à la base, ne se repliant pas à l’anthèse ; étamines 4, déclinées, à fi -
-
-lets fusionnés ou libres, adjacentes, attachées sur la face inférieure de la gorge , cachées
-
-à l’intérieur de la lèvre inférieure ou exsertes, anthères réniformes à orbiculaires, dorsifixes,
-
-à thèques égales ; disque 4-lobé à lobe inférieur plus grand ; ovaire profondément 4-lobé ;
-
-style gynobasique, apex bifide à lobes subulés. Fruits : akènes 4, ovoïdes, souvent légèrement
-
-dorsi-ventralement aplatis, glabres, à petites cicatrices, mucilagineux lorsqu’ils sont mouillés.
-
-Genre avec 295 espèces dans les régions tropicales et subtropicales de l’Ancien Monde et
-
-environ 180 en Afrique tropicale, dont 12 spontanées et une cultivée au Gabon.
-
-Notes : Coleus a été récemment séparé du genre Plectranthus L’Hér. Les vrais Plectranthus , qu’on trouve
-
-principalement en Afrique australe et orientale et à Madagascar, ont les lèvres de la corolle égales plutôt
-
-que la lèvre supérieure plus courte que l’inférieure, avec un tube de la corolle droit, généralement gibbeux
-
-à la base, plutôt qu’un tube de la corolle sigmoïde étroit, non gibbeux, et le pédicelle s’attache au calice
-
-au centre de la base du tube du calice, plutôt qu’en face de la lèvre supérieure.
+Notes: Coleus has recently been separated from the genus Plectranthus L'Hér. The true Plectranthus, found mainly in southern and eastern Africa and Madagascar, have the corolla lips equal rather than the upper lip shorter than the lower, with a corolla tube straight, generally gibbous at the base, rather than a narrow sigmoid corolla tube, non-gibbous, and the pedicel attaches to the calyx at the center of the base of the calyx tube, rather than opposite the upper lip.
 
 ## Species in region
 

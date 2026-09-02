@@ -15,63 +15,27 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-(par Benedict John POLLARD)
+(by Benedict John POLLARD)
 
 Fl. Tellur. 4 : 69 (1838).
 
-Arbustes , arbrisseaux ou rarement petits arbres . Feuilles opposées ou ternées, simples ; limbe
-
-entier à denticulé, parfois lobé, à poils simples. Inflorescence terminale, condensée, allongée,
-
-pyramidale, rarement corymbiforme ou lâche à cymes axillaires ; bractées ou bractéoles pré-
-
-sentes. Fleurs non résupinées ; calice actinomorphe ou subactinomorphe, 5-lobé ou tronqué,
-
-non accrescent en fruit, à tube campanulé ou cupuliforme, à lobes largement ou étroitement
-
-triangulaires ; corolle asymétrique en bouton , subactinomorphe à zygomorphe, s’étalant
-
-nettement sur le côté inférieur, à une lèvre 5-lobée, à tube renflé, dressé ou sigmoïde, à lobe
-
-inférieur le plus grand, souvent concave à sacciforme et de couleur différente des 4 autres ;
-
-étamines 4, didynames, insérées sur le tube de la corolle, à filets ascendants; généralement
-
-longuement exserts, anthères basifixes , thèques parallèles, s’ouvrant par des fentes longitudi-
+Shrubs, subshrubs or rarely small trees. Leaves opposite or ternate, simple; blade entire to denticulate, sometimes lobed, with simple hairs. Inflorescence terminal, condensed, elongate, pyramidal, rarely corymbiform or lax with axillary cymes; bracts or bracteoles present. Flowers not resupinate; calyx actinomorphic or subactinomorphic, 5-lobed or truncate, not accrescent in fruit, with campanulate or cupuliform tube, with lobes broadly or narrowly triangular; corolla asymmetric in bud, subactinomorphic to zygomorphic, spreading distinctly on the lower side, with one 5-lobed lip, with inflated, erect or sigmoid tube, with lower lobe the largest, often concave to sacciform and of different colour from the other 4; stamens 4, didynamous, inserted on the corolla tube, with ascending filaments; generally long exsert, anthers basifixed, thecae parallel, opening by longitudinal slits;
 
 ---
 
-Constant Vanden Berghen, Jardin botanique de Meise (©).
+Constant Vanden Berghen, Botanical Garden Meise (©).
 
 ---
 
-nales ; ovaire imparfaitement 4-loculaire, à 1 ovule par loge, non lobé dans la fleur, le devenant
+ovary imperfectly 4-locular, with 1 ovule per locule, not lobed in the flower, becoming weakly lobed in fruit; style terminal, long exsert, apex bifid, unequal or equal. Fruits generally drupaceous, fleshy, most often separating into 4 mericarps with one seed or pyrene with one seed, lobes sometimes elongating strongly during maturation. Seeds with small scars.
 
-faiblement en fruit ; style terminal , longuement exsert, apex bifide, inégal ou égal. Fruits
+Genus with approximately 50 to 60 species widely distributed in sub-Saharan Africa, in Madagascar, in the islands of the Indian Ocean and in tropical Asia, east to the Moluccas. One species recorded in Gabon.
 
-généralement drupacés, charnus, se séparant le plus souvent en 4 méricarpes à une grainent un
+Notes: Since Steane & Mabberley (1998) it has been accepted that the species of Clerodendrum subgenus Cyclonema (Hochst.) Gürke and those of Clerodendrum sect. Konocalyx Verdc. together form a distinct genus, whose oldest name is Rotheca.
 
-pyrène à une graine, lobes s’allongeant parfois fortement au cours de la maturation. Graines
+B: Fernandes & Verdcourt (2000), Steane & Mabberley (1998).
 
-à de petites cicatrices.
-
-Genre avec environ 50 à 60 espèces largement réparties en Afrique subsaharienne, à Mada-
-
-gascar, dans les îles de l’océan Indien et en Asie tropicale, à l’est jusqu’aux Moluques. Une
-
-espèce signalée au Gabon.
-
-Notes : Depuis Steane & Mabberley (1998) on admet que les espèces du Clerodendrum sous-genre Cy-
-
-clonema (Hochst.) Gürke et celles de Clerodendrum sect. Konocalyx Verdc. forment ensemble un genre
-
-distinct, dont le nom le plus ancien est Rotheca .
-
-B : Fernandes & Verdcourt (2000), Steane & Mabberley (1998).
-
-i B liographie
+Bibliography
 
 ## Species in region
 

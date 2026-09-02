@@ -17,15 +17,13 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Liane. Leaves simple, petiolate, opposite, without stipules.
 
-Liane. Feuilles simples, pétiolées, opposées, sans stipules.
+Inflorescences multiflorous, terminal and axillary, formed of racemes grouped in panicles. Bracts and bracteoles persistent. Flowers pedicellate, bisexual, actinomorphic. Sepals 5, entire, attenuate at base. Stamens 10, glabrous. Ovary hirsute; styles 3, stigmas 3, terminal.
 
-Inflorescences multiflores, terminales et axillaires, formées de racèmes groupés en panicules. Bractées et bractéoles persistantes. Fleurs pédicellées, bisexuées, actinomorphes. Sépales 5, entiers, atténués à la base. Étamines 10, glabres. Ovaire hirsute; styles 3, stigmates 3, terminaux.
+Samaras with lateral membranous wing and distinct dorsal wing.
 
-Samares à aile latérale membraneuse et aile dorsale distincte.
-
-### Genre monotypique d'Afrique tropicale.
+### Monotypic genus of tropical Africa.
 
 ## Species in region
 

@@ -18,35 +18,33 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 ≠ Virecta Linn. f., Suppl. Plant.: 17 (1781).
 
 = Virecta Afzel. ex Smith, Rees. Cyclop. 37 (1817). — F.T.A. 3 : 47 (1877).
 
 — K. Schum., Pflanzenfam. 4, 4 : 29 (1891).
 
-Herbes ou arbuscules ± pubescents. Poils simples effilés. Entrenœuds pubescents au moins sur deux lignes longitudinales supra-axillaires. Stipules à 1-3(4) dents. Feuilles inégales suivant les nœuds, petites ou moyennes, brièvement pétiolées, non acuminées. Nervures secondaires ± arquées très ascendantes.
+Herbs or ± pubescent shrublets. Hairs simple and tapering. Internodes pubescent at least along two supra-axillary longitudinal lines. Stipules with 1–3(4) teeth. Leaves unequal on the nodes, small or medium-sized, shortly petiolate, not acuminate. Secondary veins ± arched, very ascending.
 
-Inflorescences terminales ± contractées et finalement acrescentes. Fleurs hermaphrodites d'un seul type, pubescentes ou glabres, non géminées. Sépales subulés ou spatulés. Corolle infundibuliforme, à tube très étroit vers la base; 4-8 lobes allongés et étroits, semi-érigés, dépassés par les étamines; filets glabres très longs insérés un peu au-dessous de la commissue des lobes. Anthères étroites à sommet plutôt émarginé entre les deux loges, et insérées plus bas que la moitié. Pollen tricolporé. Long style
+Inflorescences terminal, ± contracted and finally accrescent. Flowers hermaphrodite of a single type, pubescent or glabrous, not geminate. Sepals subulate or spatulate. Corolla infundibuliform, with a very narrow tube at the base; 4–8 lobes elongate and narrow, semi-erect, exceeded by the stamens; filaments glabrous, very long, inserted slightly below the commissure of the lobes. Anthers narrow with an apex rather emarginate between the two thecae, and inserted lower than the midpoint. Pollen tricolporate. Long style
 
 ---
 
-grêle, glabre, étroitement cylindrique jusqu'au stigmate tronqué. Le stigmate n'est pas sensiblement élargi in vivo mais paraît parfois subcapité à sec. Disque soit conique et fendu longitudinalement en bec d'oiseau avec un lobe au-dessus de chaque cloison de l'ovaire, soit ± cylindrique, tronqué au sommet, entier. Ovaire globuleux à deux loges; placentas peltés-capités avec de nombreux ovules.
+slender, glabrous, narrowly cylindrical up to the truncate stigma. The stigma is not substantially enlarged in vivo but sometimes appears subcapitate when dry. Disc either conical and split longitudinally into a bird's-beak shape with a lobe above each locule of the ovary, or ± cylindrical, truncate at the apex, entire. Ovary globose, two-locular; placentae peltate-capitate with numerous ovules.
 
-Infrustescences montrant + nettement une structure cymeuse avec des extrémités de type scorpioïde érigé. Fruits sphériques à sépales et disques persistants jusqu'à la déhiscence. Capsules localicides ayant une seule valve tenue par le petit pédicelle lignifié. La seconde valve est généralement caduque. Valves vides finalement dépouillées de leur épicarpe et montrant leur texture crustacée, leur cloison déchirée et leurs marges parfois ± enroulées. Graines d'env. 0,5 mm, anguleuses, tronc-pyramidales ou prismatiques, à tégument ruguleux réticulé.
+Infructescences showing + clearly a cymose structure with extremities of erect scorpioid type. Fruits spherical with persistent sepals and disc until dehiscence. Capsules loculicidally dehiscent, having a single valve held by the small lignified pedicel. The second valve is generally caducous. Valves eventually empty, stripped of their epicarp and showing their crustaceous texture, their torn septum and their margins sometimes ± enrolled. Seeds c. 0.5 mm, angular, truncate-pyramidal or prismatic, with a reticulate rugose testa.
 
-Espèce type : Virectaria procumbens (Sm.) Bremek.
+Type species: Virectaria procumbens (Sm.) Bremek.
 
-L'absence de raphides et les particularités du stigmate et du fruit donnent à ce genre une place excentrique parmi les Hédiotidées; toutefois les Virectaria ne nous paraissent pas à détacher de cette tribu.
+The absence of raphides and the peculiarities of the stigma and fruit give this genus an eccentric position among the Hedyotideae; however, we do not consider Virectaria to be separated from this tribe.
 
-Les Virecta paniculata et lutea nommés par G. Don en 1834 et provenant de Sierra-Leone n'ont pu être reconnus; les échantillons types sont perdus et les descriptions trop insuffisantes.
+Virecta paniculata and lutea named by G. Don in 1834 and from Sierra Leone could not be recognized; the type specimens are lost and the descriptions too insufficient.
 
-7 espèces dont 6 au Gabon. Genre africain répandu du Sénégal à la région des grands lacs orientaux.
+7 species, 6 of which are from Gabon. African genus distributed from Senegal to the region of the great eastern lakes.
 
-### CLÉ DES VIRECTARIA
+### KEY TO VIRECTARIA
 
-1. Disque cylindrique à sommet tronqué, entier et persistant sur fruit
+1. Disc cylindrical with truncate apex, entire and persistent on fruit
 
 ## Species in region
 

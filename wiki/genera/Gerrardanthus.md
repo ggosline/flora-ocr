@@ -17,13 +17,11 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Perennial herbs, dioecious; stems climbing, woody at the base. Tendrils apically bifid, spiraling above and below the branching point. Leaves entire; lamina ovate-cordate or 3- to 5-palmatilobate. Inflorescences: the male ones in pauci- or pluriflorous panicles; the female ones with solitary flowers or in pauciflorous panicles. Male flowers: ± zygomorphic, receptacle poorly developed; sepals small, dentiform; petals unequal; stamens 5, all monothec­ous, grouped in 2 pairs and a solitary one (often reduced to a staminode), locules straight, horizontal. Female flowers: perianth similar to that of male flowers; ovary elongate, trigonous, trilocular, ovules pendulous; styles 3, short. Fruits in elongate capsule, obconic or cratériform, trigonous, dehiscent at maturity by an apical 3-radiate slit. Seeds fusiform, compressed, with at their apex a broad membranous wing.
 
-Herbes vivaces, dioïques ; tiges grimpantes, ligneuses à la base. Vrilles apicalement bifides spiralées au-dessus et au-dessous du point de ramification. Feuilles entières ; limbe ovalecordé ou 3- à 5-palmatilobé. Inflorescences : les mâles en panicules pauci- ou pluriflores ; les femelles à fleurs solitaires ou en panicules pauciflores. Fleurs mâles : ± zygomorphes, réceptacle peu développé ; sépales petits, dentiformes ; pétales inégaux ; étanines 5, toutes monothèques, groupées en 2 paires et un solitaire (souvent réduit à un staminode), loges droites, horizontales. Fleurs femelles : périanthe semblable à celui des fleurs mâles ; ovaire allongé, trigone, triloculaire, ovules pendants ; styles 3, courts. Fruits en capsule allongée, obconique ou cratériforme, trigone, déhiscente à maturité par une fente apicale 3-radiée. Graines fusiformes, comprimées, à leur sommet avec une large aile membraneuse.
+### African genus of five species, one of which is in Gabon.
 
-### Genre africain de cinq espèces dont une au Gabon.
-
-BIBLIOGRAPHIE: Keraudren-Aymonin (1975).
+BIBLIOGRAPHY: Keraudren-Aymonin (1975).
 
 ## Species in region
 

@@ -17,69 +17,23 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Herbs annual or perennial, glabrous, of very variable size (1–150 cm); perennial species sometimes with a well-developed rhizome; stolons often present; stems green, cylindrical or ± triangular, hollow or filled with pith, smooth or striated, rarely transversely septate (E. dulcis). Leaves: tubular sheaths, truncate at apex or terminated by a short lobe, usually pale and often purplish at base, without blades (in African species). Inflorescence in a single terminal spikelet or rarely in a loose anthela, of very variable length (0.1–60 mm). Spikelet: glumes spiral and imbricate, usually numerous, glabrous, bisexual except the 1–2 lower ones usually sterile, similar or slightly different from the upper ones. Flower: perianth with 3–9 glabrous bristles or furnished with recurved spiny teeth, shorter or longer than the achene or reduced to a basal crown; stamens 1–3; style with 2–3 branches, with variations sometimes on the same plant. Achene obovate or urceolate, surface smooth, reticulate, punctate or longitudinally grooved with transverse striae, with the base of the style persistent as an appendage ± large, paler or darker than the achene, conical or flattened, sometimes surrounded by a distinct crown. Genus comprising approximately 180 species, dispersed in all warm and temperate regions, especially in America; in Africa approximately 20 species of which nine in Gabon.
 
-Herbes annuelles ou vivaces, glabres , de taille très variable (1‒150 cm) ; espèces vi-
+Taxonomic note: All achene lengths are given without the appendage.
 
-vaces parfois avec un rhizome bien développé ; stolons souvent présents ; tiges vertes,
+Bibliography: Haines & Lye (1983), Hinchcliff et al. (2010), Hoenselaar et al. (2010), Hooper & Napper (1972), Lye (1995, 1997).
 
-cylindriques ou ± triangulaires, creuses ou remplies de moelle, lisses ou striées, rare-
+### Key to species
 
-ment cloisonnées transversalement ( E. dulcis ). Feuilles : gaines tubuleuses, tronquées en
+1. – Stems unbranched, all terminating in a spikelet bearing at least 3 flowers ..... 2
 
-haut ou terminées par un lobe court, habituellement pâles et souvent violacées à la base,
+– Stems clearly branched; only a few branches terminating in a spikelet with 1 flower ................................................................................................................... 8
 
-sans limbes (chez les espèces africaines). Inflorescence en épillet terminal unique ou
+2. – Stems thick 1–8 mm; spikelet long 10–60 mm; glumes long 3–6 mm; achene long 1.5–2 mm, often ± triangular; perennial plants ........ 3
 
-rarement en anthèle lâche, de longueur très variable (0,1‒60 mm). Épillet : glumes
+– Stems thick 0.1–1 mm; spikelet long 2–15 mm; glumes long 1–2.3 mm; achene long 0.5–1 mm, lenticular, black, shiny; annual or perennial plants with slender creeping stems ............................................................ 6
 
-spiralées et imbriquées, habituellement nombreuses, glabres, bisexuées sauf les 1‒2 in-
-
-férieures habituellement stériles, semblables ou légèrement différentes des supérieures.
-
-Fleur : périanthe à 3‒9 soies glabres ou pourvues de dents épineuses récourbées , plus
-
-courtes ou plus longues que l’akène ou réduites à une couronne basale ; étamines 1‒3 ;
-
-style à 2‒3 branches, avec des variations parfois sur la même plante. Akène obovale ou
-
-urcéolé, surface lisse, réticulée, ponctuée ou rainurée longitudinalement avec des stries
-
-transversales, avec la base du style persistant comme un appendice ± grand, plus pâle
-
-ou plus foncé que l’akène, conique ou aplati, parfois entouré d’une couronne distincte.
-
-Genre comptant environ 180 espèces, dispersées dans toutes les régions chaudes et tem-
-
-pérées, surtout en Amérique ; en Afrique environ 20 espèces dont neuf au Gabon.
-
-Note taxonomique : Toutes les longueurs de l’akène sont données sans l’appendice.
-
-B : Haines & Lye (1983), Hinchcliff et al. (2010), Hoenselaar et al. (2010),
-
-ibliographie
-
-Hooper & Napper (1972), Lye (1995, 1997).
-
-### Clé des espèces
-
-1. - Tiges non ramifiées, se terminant toutes par un épillet ayant au moins 3 fleurs ..... 2
-
-- Tiges nettement ramifiées ; seulement quelques rameaux se terminant par un épillet
-
-à 1 fleur ................................................................................................................... 8
-
-2. - Tiges épaisses de 1‒8 mm ; épillet long de 10‒60 mm ; glumes longues de
-
-3‒6 mm ; akène long de 1,5‒2 mm, souvent ± triangulaire ; plantes vivaces ........ 3
-
-- Tiges épaisses de 0,1‒1 mm ; épillet long de 2‒15 mm ; glumes longues de
-
-1‒2,3 mm ; akène long de 0,5‒1 mm, lenticulaire, noir, brillant ; plantes annuelles
-
-ou vivaces avec des tiges rampantes grêles ............................................................ 6
-
-3. - Tiges arrondies et creuses, épaisses de 4‒8 mm ......................................... E. dulcis
+3. – Stems rounded and hollow, thick 4–8 mm ......................................... E. dulcis
 
 ## Species in region
 

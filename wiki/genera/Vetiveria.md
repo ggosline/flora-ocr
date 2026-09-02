@@ -16,17 +16,15 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 VIREY Journ. de Pharm. 1º Sér. XIII : 499.
 
-Herbes pérennes, rhizomateuses; panicules dressées, formées de verticilles de nombreux racèmes. Joints et pédicelles minces, légèrement élargis vers le sommet.
+Perennial grasses, rhizomatous; panicles erect, composed of whorls of numerous racemes. Joints and pedicels slender, slightly enlarged toward the apex.
 
-Fleur inférieure réduite à une glumelle stérile, la supérieure hermaphrodite dans l'épillet sessile, mâle dans le pédicellé. Épillet sessile aristé ou non. Glume inférieure coriace, à dos arrondi, généralement mutique; la supérieure naviculaire, carénée dans sa partie supérieure, mutique ou plus ou moins subulée. Glumelles hyalines; lemma de la fleur supérieure bifide, mutique ou aristée. Paléa réduite; deux lodicules, 3 étamines.
+Lower floret reduced to a sterile lemma, the upper one hermaphrodite in the sessile spikelet, male in the pedicellate one. Sessile spikelet awned or not. Lower glume coriaceous, with rounded back, generally awnless; the upper one navicular, keeled in its upper part, awnless or more or less subulate. Lemmas hyaline; lemma of the upper floret bifid, awnless or awned. Palea reduced; two lodicules, 3 stamens.
 
-Épillets pédicellés dorsalement compressés; glumes plus minces que dans l'épillet sessile et, comme les glumelles mutiques.
+Pedicellate spikelets dorsally compressed; glumes thinner than in the sessile spikelet and, like the lemmas, awnless.
 
-Un certain nombre d'espèces sont connues de l'Afrique tropicale. Au Gabon on rencontre V. zizanoides, originaire d'Asie et qui est fréquemment cultivé dans les villages.
+A certain number of species are known from tropical Africa. In Gabon one encounters V. zizanoides, originating from Asia and which is frequently cultivated in villages.
 
 ## Species in region
 

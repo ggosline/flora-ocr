@@ -16,15 +16,13 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Epiphytes of large size, with creeping rhizome. Fronds dimorphous, some humus-collecting "nest leaves," rounded, entire or lobed, appressed to the substrate, imbricate, the others normal, shortly petiolate, pendulous, bifurcate, with surfaces more or less covered with stellate hairs. Primary veins dichotomous, the secondary ones anastomosing, forming areoles with included veinlets. Sporangia entirely covering, on the lower surface, specialized portions of the frond, mixed with stellate paraphyses.
 
-Epiphytes de grande taille, à rhizome rampant. Frondes dimorphes, les unes collectrices d'humus « nest leaves, » arrondies, entières ou lobées, appliquées au substratum, imbriquées, les autres normales, courtement pétiolées, pendantes, bifurquées, à surfaces plus ou moins couvertes de poils stellés. Nervures principales dichotomes, les secondaires anastomosées, formant des aréoles à nervilles incluses. Sporanges recouvrant entièrement, à la face inférieure, des portions spécialisées de la fronde, mélangés de paraphyses stellées.
+Type: Platycerium alcicorne (Willd.) Desv. from Madagascar.
 
-Type : Platycerium alcicorne (Willm.) Desv. de Madagascar.
+1. Fertile leaves oval, ligulate, entire, with rusty pubescence.
 
-1. Feuilles fertiles ovales, linguiformes, entières, pubescence rousse.
-
-1'. Feuilles fertiles 3-4 fois furquées, à segments subaigus; pubescence grise..... 2. P. stemaria.
+1'. Fertile leaves 3–4 times furcate, with subacute segments; grey pubescence..... 2. P. stemaria.
 
 ## Species in region
 

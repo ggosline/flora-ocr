@@ -17,11 +17,9 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Trees with palmatilobate leaves, caducous stipules. Flowers hermaphrodite or polygamous, some unisexual by abortion. 5 sepals, 5 hairy petals with contorted prefloration. Androgynophore bearing numerous stamens with a bifid filament having at each extremity a half-anther. 5 staminodes alternipetalous with contorted prefloration surrounding the ovary, 5 carpels opposipetalous, free, attenuate into a style. Several ovules biseriate in each locule. Fruit with 5 samaroid carpels; wing erect, with an internal marginal rib, with branched venation.
 
-Arbres à feuilles palmatilobées, à stipules caduques. Fleurs hermaphroditcs ou polygames, certaines étant unisexuées par avortement. 5 sépales, 5 pétales poilus à préfloraison tordue. Androgynophore portant des étamines nombreuses à filet bifide ayant à chaque extrémité une demi-anthère. 5 staminodes alterni-pétales à préfloraison tordue entourant l'ovaire, 5 carpelles opposi-tipétales, libres, atténués en style. Plusieurs ovules bisériés dans chaque loge. Fruit à 5 carpelles samaroïdes; aile dressée, à côte marginale interne, à nervures ramifiées.
-
-Genre d'Afrique Tropicale. Deux espèces connues; le Tr. scleroxylon, représenté au Gabon, est l'espèce type du genre.
+Genus from Tropical Africa. Two known species; Tr. scleroxylon, represented in Gabon, is the type species of the genus.
 
 ## Species in region
 

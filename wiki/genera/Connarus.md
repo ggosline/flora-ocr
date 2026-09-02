@@ -17,33 +17,31 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+TYPE SPECIES: C. monocarpus L.
 
-ESPÈCE-TYPE : C. monocarpus L.
+Lianes, shrubs or small trees. Branchlets cylindrical. Leaves trifoliolate or imparipinnate, rarely the upper leaves unifoliolate; leaflets opposite or not, often acuminate, often punctate with glands.
 
-Lianes, arbustes ou petits arbres. Rameaux cylindriques. Feuilles trifoliolées ou imparipennées, rarement feuilles supérieures unifoliolées ; folioles opposées ou non, souvent acuminées, souvent ponctuées de glandes.
+Inflorescences in axillary panicles, but often appearing as a terminal composite inflorescence due to the reduction of leaves.
 
-Inflorescences en panicules axillaires, mais paraissant souvent comme une inflorescence terminale très composée du fait de la réduction des feuilles.
+Flowers bisexual, 5-merous, heterostylous. Pedicels distinctly articulate. Sepals connate at the base in valvate or imbricate aestivation, thick and fleshy or thin, generally punctate with glands. Petals longer than the sepals, free or coherent, usually white, in imbricate aestivation, pubescent or rarely almost glabrous on the exterior, interior often furnished with glandular hairs. Stamens 10, the episepalous ones fertile, the epipetalous ones shorter and fertile, sterile, or rudimentary; filaments united at the base, the longest generally furnished with stipitate glands, the shortest often without glands; anthers sometimes with glandular hairs at the apex. Pistil: 1 carpel only; style often pubescent and with stipitate hairs.
 
-Fleurs bisexuées, 5-mères, hétérostylées. Pédicelles nettement articulés. Sépales connés à la base en préfloraison valvaire ou imbriquée, épais et charnus ou fins, en général ponctués de glandes. Pétales plus longs que les sépales, libres ou cohérents, le plus souvent blancs, en préfloraison imbriquée, pubescents ou rarement presque glabres à l'extérieur, intérieur souvent muni de poils glanduleux. Étamines 10, les épéspales fertiles, les épipétales plus courtes et fertiles, stériles, ou rudimentaires ; filets unis à la base, les plus longs en général munis de glandes stipitées, les plus courts souvent sans glandes ; anthères avec parfois des poils glanduleux au sommet. Pistil : 1 seul carpelle ; style souvent pubescent et avec des poils stipités.
+Fruit: red follicle, opening longitudinally along a ventral suture, sometimes also with a dorsal suture, exterior pubescent at first, but often glabrescent, interior glabrous or pubescent and often with glands, often stipitate at the base and generally with a short mucro at the apex.
 
-Fruit : follicule rouge, ouverture longitudinale selon une suture ventrale, parfois aussi avec une suture dorsale, extérieur pubescent au début, mais souvent glabrescent, intérieur glabre ou pubescent et souvent avec des glandes, souvent stipité à la base et en général avec un mucron court au sommet.
+Seed solitary, attached to the ventral side of the follicle, ovoid or often reniform; testa shiny black, yellow and fleshy (sarcotesta) beneath the hilum; endosperm absent; hilum lateral; radicle apical, dorsal or almost central to the seed between the cotyledons; the latter thick, plano-convex.
 
-Graine solitaire, fixée sur le côté ventral du follicule, ovoïde ou souvent réniforme ; testa luisant noir, jaune et charnu (sarcotesta) au-dessous du hile ; endosperme absent ; hile latéral ; radicule apicale, dorsale ou presque au centre de la graine entre les cotylédons ; ceux-ci épais, plans-convexes.
+Genus circumtropical with approximately 75 species in principle limited to rainforest, of which 7 in Africa. Four are known from Gabon but there may be 2 more.
 
-Genre circumtropical d'environ 75 espèces en principe limitées à la forêt ombrophile, dont 7 en Afrique. On en connaît 4 du Gabon mais il se peut qu'il y en ait 2 de plus.
-
-Nous proposons ici trois clés. La meilleure identification exige un matériel complet, comportant à la fois les fleurs et les fruits. Avec les fleurs seules, la détermination s'avère parfois difficile.
+We propose here three keys. The best identification requires complete material, comprising both flowers and fruits. With flowers alone, determination sometimes proves difficult.
 
 ---
 
-### A. - Spécimens avec fleurs et fruits
+### A. - Specimens with flowers and fruits
 
-1. Follicule oblique-piriforme, long de ≤ 3.5 cm, mucron latéral, rarement presqu'apical ; radicule apicale dans la graine.
+1. Follicle obliquely pyriform, ≤ 3.5 cm long, mucro lateral, rarely almost apical; radicle apical in the seed.
 
-2. Étamines toutes fertiles (apparemment), étanines courtes rarement rudimentaires ; follicule avec stipe long de 5-10 mm, intérieur du péricarpe pubescent ..... 5. C. longistipitatus
+2. Stamens all fertile (apparently), short stamens rarely rudimentary; follicle with stipe 5–10 mm long, interior of pericarp pubescent ..... 5. C. longistipitatus
 
-2'. Étamines courtes rudimentaires, rarement (apparemment) fertiles ; follicule avec stipe long de 2-5 mm, péricarpe glabre ou avec une pubescence éparse à l'intérieur ..... 4. C. griffonianus
+2'. Short stamens rudimentary, rarely (apparently) fertile; follicle with stipe 2–5 mm long, pericarp glabrous or with sparse pubescence on the interior ..... 4. C. griffonianus
 
 ## Species in region
 

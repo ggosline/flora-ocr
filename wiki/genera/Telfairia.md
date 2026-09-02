@@ -17,13 +17,11 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Perennial herbs or lianes, dioecious; stems climbing, reaching 30 m in length; roots thick, tuberous. Tendrils bifid. Leaves petiolate, pedate (3–)5- or 7-foliolate; median leaflet the largest, the lateral ones sometimes asymmetric and sometimes subauriculate at the base. Inflorescences axillary, the male ones in racemes, the female ones with solitary flowers. Male flowers large, with a sweet scent; receptacle forming a short and broad tube; sepals 5, triangular, acuminate at the apex; petals 5, free, fimbriate, white, pink or purple; stamens 5, of which 4 in 2 pairs and 1 solitary, all bithecate, or else 3, of which 2 tetrathecate and 1 bithecate, with free filaments, inserted at the middle of the receptacle, anthers free or coherent. Female flowers: perianth similar to that of male flowers, but somewhat larger; ovary oblong, with numerous and horizontal ovules; style short, with 3-lobed stigmas. Fruits ellipsoid, up to 60(–95) × 25(–50) cm, fleshy, ribbed, with hard pericarp, dehiscent into 8 to 10 valves, with numerous (up to 200) seeds embedded in a fibrous network. Seeds of oval to suborbicular outline, large, 3.5–5 cm in diameter, compressed.
 
-Herbes vivaces ou lianes, dioïques; tiges grimpantes, atteignant 30 m de longueur; racines grosses, tubérisées. Vrilles bifides. Feuilles pétiolées, pédalées (3–)5- ou 7-foliolées; foliole médiane la plus grande, les latérales parfois asymétriques et parfois subauriculées à la base. Inflorescences axillaires, les mâles en racèmes, les femelles à fleurs solitaires. Fleurs mâles grandes, à odeur suave; réceptacle en un tube court et large; sépales 5, triangulaires, acuminés au sommet; pétales 5, libres, fimbriés, blancs, roses ou pourpres; étamines 5, dont 4 en 2 paires et 1 solitaire, toutes bithèques, ou bien 3, dont 2 tétrathèques et 1 bithèque, à filets libres, insérés au milieu du réceptacle, anthères libres ou cohérentes. Fleurs femelles : périanthe semblable à celui des fleurs mâles, mais un peu plus grand; ovaire obloïde, à ovules nombreux et horizontaux; style court, à stigmates 3-lobés. Fruits ellipsoïdaux, jusqu'à 60(-95) × 25(-50) cm, charnus, côtelés, à péricarpe dur, déhiscents en 8 à 10 valves, à nombreuses (jusqu'à 200) graines noyées dans un réseau fibreux. Graines de contour ovale à suborbiculaire, grosses, de 3,5–5 cm de diamètre, comprimées.
+African genus with three species, sometimes cultivated as a vegetable (the leaves) and source of oil (the seeds); in Gabon, one species.
 
-Genre africain avec trois espèces, parfois cultivées comme légume (les feuilles) et source d'huile (les graines); au Gabon, une espèce.
-
-BIBLIOGRAPHIE: Keraudren (1967), Keraudren-Aymonin (1975), Schaefer & Renner (2011a).
+BIBLIOGRAPHY: Keraudren (1967), Keraudren-Aymonin (1975), Schaefer & Renner (2011a).
 
 ## Species in region
 

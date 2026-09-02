@@ -17,45 +17,19 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Herbes faibles à robustes, fleurissant avec les feuilles, glabres ; bulbes à écailles im-
-
-briquées, racines ramifiées. Feuilles sessiles ; limbe linéaire ou lancéolé, sans ou avec
-
-nervure médiane blanche. Inflorescence en racème solitaire, ombelliforme à allongé, avec
-
-2–300 fleurs ; hampe florale à section ronde ; bractées lancéolées à ovées, apex filiforme,
-
-sans éperon ; bractéoles absentes. Fleurs à pédicelles dressés à horizontaux, dressés en
-
-fruit ; tépales libres, étalés, blancs, sans ou avec une ligne verte, sommet cucullé et
-
-portant des glandes ; étamines à filet libre, aplati , anthère blanche ou crème ; ovaire
-
-sessile ou avec un carpophore court, à plusieurs ovules par loge ; style grêle. Fruit :
-
-capsule ovoïde à subglobuleuse. Graines grandes, comprimées irrégulièrement, semi-
-
-circulaires , noires.
+Herbs weak to robust, flowering with the leaves, glabrous; bulbs with imbricate scales, ramified roots. Leaves sessile; blade linear or lanceolate, without or with a white midvein. Inflorescence in a solitary raceme, umbelliform to elongate, with 2–300 flowers; floral scape with round section; bracts lanceolate to ovate, apex filiform, without a spur; bracteoles absent. Flowers with pedicels erect to horizontal, erect in fruit; tepals free, spreading, white, without or with a green line, apex cucullate and bearing glands; stamens with free, flattened filament, anther white or cream; ovary sessile or with a short carpophore, with several ovules per locule; style slender. Fruit: capsule ovoid to subglobose. Seeds large, irregularly compressed, semicircular, black.
 
 ---
 
-Bulbe frais. – D. Fleur jeune. – E. Fleur mature. – F. Corolle ouverte, avec étamines. – G, H. Gyné-
-
-cées. – I. Fruit. (A–H : Bos 6 035 ; I : van der Maesen et al. 6487 ). Dessin par Hans de Vries, Herbier
-
-National des Pays-Bas – Wageningen branche (©).
+Fresh bulb. – D. Young flower. – E. Mature flower. – F. Open corolla, with stamens. – G, H. Gynoecia. – I. Fruit. (A–H: Bos 6 035; I: van der Maesen et al. 6487). Drawing by Hans de Vries, National Herbarium of the Netherlands – Wageningen branch (©).
 
 ---
 
-Genre comprenant environ 200 espèces réparties en Europe, Afrique et Asie ; au Gabon
+Genus comprising approximately 200 species distributed in Europe, Africa and Asia; in Gabon a single species.
 
-une seule espèce.
+B: Manning et al. (2004), Müller-Doblies & Müller-Doblies (1996), Ober-
 
-B : Manning et al. (2004), Müller-Doblies & Müller-Doblies (1996), Ober-
-
-i B liographie
+Bibliography
 
 meyer (1978), Speta (1998b).
 

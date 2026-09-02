@@ -17,31 +17,13 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Trees or shrubs with white latex; branchlets glabrous. Leaves opposite, petiolate, glabrous.
 
-Arbres ou arbustes à latex blanc ; rameaux glabres. Feuilles opposées, pétiolées, glabres.
+Inflorescences mainly terminal; bracts very small. Flowers actinomorphic; calyx with lobes free or connate at the base, furnished with colleters on the interior; corolla with tube almost cylindrical, fleshy, with lobes overlapping to the left; stamens free, included, glabrous; pistil glabrous, with disk uniting the carpels separated at the base, ovules numerous in each carpel. Fruits with 2 large mericarps separated, rounded at the apex, yellow to orange, glabrous, containing numerous seeds; wall very hard, on the interior with a layer of large fibers as in coconut. Seeds enveloped in a soft pulp, flattened and ± angular; testa smooth, coriaceous; embryo surrounded by thick endosperm; cotyledons thick and foliaceous.
 
-,QÀRUHVFHQFHV principalement terminales ; bractées très petites. Fleurs actinomorphes ; calice
+Monotypic genus limited to tropical Africa.
 
-à lobes libres ou connés à la base, munis de collétères jO¶LQWpULHXUFRUROOHjWXEHSUHVTXH
-
-F\OLQGULTXHFKDUQXjOREHV recouvrant vers la gauche ; étamines libres , incluses, glabres ;
-
-SLVWLOJODEUHjGLVTXHXQLVVDQWOHVFDUSHOOHVVpSDUpVjODEDVHRYXOHVQRPEUHX[GDQVFKDTXH
-
-carpelle. Fruits avec 2 grands méricarpes séparés , arrondis au sommet, jaunes à orange,
-
-glabres, contenant de nombreuses graines ; paroi très dure , à l’intérieur avec une couche de
-
-JURVVHV¿EUHVFRPPHGDQVODQRL[GHFRFR Graines enrobées dans une pulpe molle, aplaties
-
-et ± anguleuses ; testa lisse, coriace ; embryon entouré d’un endosperme épais ; cotylédons
-
-épais et foliacés.
-
-*HQUHPRQRW\SLTXHOLPLWpjO¶$IULTXHWURSLFDOH
-
-BIBLIOGRAPHIE : Beentje (2021), Endress et al. (2019), Omino (1996, 2002).
+BIBLIOGRAPHY: Beentje (2021), Endress et al. (2019), Omino (1996, 2002).
 
 ## Species in region
 

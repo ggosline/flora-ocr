@@ -17,43 +17,41 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-TYPE: T. guianensis AUBL.
+TYPE: T. guianensis Aublet.
 
 – Rohria Schreber, Gen. Pl. 1: 30 (1789); BRETELER, AUWP 86 (3): 44 (1986).
 
-TYPE: R. schreberi GMELIN.
+TYPE: R. schreberi Gmelin.
 
-– Tapura sect. Dischizolaena BAILL., Adansonia, sér. 1, 2: 112 (1873); BRETELER, AUWP 86 (3): 9, 44, 45 (1986).
+– Tapura sect. Dischizolaena Baill., Adansonia, sér. 1, 2: 112 (1873); BRETELER, AUWP 86 (3): 9, 44, 45 (1986).
 
-TYPE: T. capitulifera BAILL.
+TYPE: T. capitulifera Baill.
 
 – Dischizolaena (Baill.) Tieghem, Journ. Bot. 17 (8-9): 230 (1903); Breteler, AUWP 86 (3): 44 (1986).
 
-– Gonypetalum ULE, Verh. Bot. Ver. Prov. Brandenb. 78 : 174 (1906).
+– Gonypetalum Ule, Verh. Bot. Ver. Prov. Brandenb. 78: 174 (1906).
 
-TYPE : G. juruanum ULE. = Tapura juruana (ULE) RIZZINI.
+TYPE: G. juruanum Ule. = Tapura juruana (Ule) Rizzini.
 
 ---
 
-Arbres ou arbustes.
+Trees or shrubs.
 
-Stipules entières caduques. Feuilles pétiolées en général acuninées.
+Stipules entire, caducous. Leaves petiolate, generally acuminate.
 
-Inflorescences le plus souvent compactes, pédonculées ou non ;
+Inflorescences most often compact, pedunculate or not;
 
-pédonculé libre ou soudé au pétiole.
+peduncle free or fused to the petiole.
 
-Fleurs zygomorphes, (4) 5-mères, bisexuées; pédicelle articulé. Sépales inégaux, libres ou presque. Pétales en partie soudés aux étamines en un tube net, inégaux, 1 ou 2 d'entre eux nettement plus longs et bicucullés au sommet, les autres en général entiers ou presque. Étamines, 2-3 fertiles et 3-2 sans anthères. Staminodes soudés (lobes du disque) ou libres, absents en face des grands pétales. Pistil 2-3-mère; ovaire pubescent ou glabre ; style mince incurvé ou incliné, pubescent à la partie supérieure, sommet 2-3-lobé.
+Flowers zygomorphic, (4) 5-merous, bisexual; pedicel articulate. Sepals unequal, free or nearly so. Petals in part fused to the stamens into a distinct tube, unequal, 1 or 2 of them distinctly longer and bicucullate at the apex, the others generally entire or nearly so. Stamens, 2-3 fertile and 3-2 without anthers. Staminodes fused (disc lobes) or free, absent opposite the large petals. Pistil 2-3-merous; ovary pubescent or glabrous; style slender, incurved or inclined, pubescent in the upper part, apex 2-3-lobed.
 
-Fruits (partiellement connus) 1-3-spermes ; exocarpe déhiscent ou non ; mésocarpe succulent ou farineux ; endocarpe ligneux à parcheminé. Graines avec ou sans albumen.
+Fruits (partially known) 1-3-seeded; exocarp dehiscent or not; mesocarp succulent or farinose; endocarp woody to chartaceous. Seeds with or without albumen.
 
 TYPE: T. guianensis Aublet.
 
-Il a été reconnu 7 espèces en Afrique et 21 en Amérique. Les espèces les plus primitives avec 5 pétales égaux et 5 étanines fertiles se trouvent en Amérique ; les plus évoluées, avec seulement 2 étanines fertiles, sont africaines. T. fisheri est une espèce largement répandue en Afrique alors que T. ivorensis n'est connue que de l'Est de la Côte d'Ivoire et de l'Ouest du Ghana. Les 5 autres espèces ne se rencontrent qu'à l'Ouest de l'Afrique centrale et sont toutes représentées au Gabon. Certaines espèces (T. carinata, T. letestui, T. neglecta) ne sont connues que par une seule récolte ou deux et de plus, leurs fruits sont encore inconnus. On peut s'attendre à ce que T. fischeri soit présent au Gabon et que les prospections ultérieures de ce pays rapportent de nouvelles espèces (cf. Tapura sp. p. 000).
+Seven species have been recognized in Africa and 21 in America. The most primitive species with 5 equal petals and 5 fertile stamens are found in America; the most evolved, with only 2 fertile stamens, are African. T. fisheri is a species widely distributed in Africa whereas T. ivorensis is known only from eastern Côte d'Ivoire and western Ghana. The 5 other species are found only in western central Africa and are all represented in Gabon. Some species (T. carinata, T. letestui, T. neglecta) are known only from one or two collections and, moreover, their fruits remain unknown. One might expect T. fischeri to be present in Gabon and that further prospecting in that country will yield new species (cf. Tapura sp. p. 000).
 
-Le genre Tapura avait été divisé en 4 sections : deux ont été fondées sur des espèces américaines et les deux autres ont été respectivement créés pour le traitement d'une espèce africaine particulière. Ces divisions du genre ne seront pas retenues ici car il manque, et ceci est essentiel, une comparaison critique des espèces africaines avec les espèces américaines. Pour un tel travail, une connaissance de l'évolution du tube staminal des Dichapetalaceae paraît fondamentale.
+The genus Tapura had been divided into 4 sections: two were established on American species and the other two were respectively created for the treatment of a particular African species. These divisions of the genus will not be retained here because there is lacking, and this is essential, a critical comparison of African species with American species. For such work, a knowledge of the evolution of the staminal tube of the Dichapetalaceae appears fundamental.
 
 ## Species in region
 

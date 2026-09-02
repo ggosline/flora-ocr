@@ -17,21 +17,19 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Perennial grasses of humid places, with creeping rhizomes and extravaginal innovations. Robust culms, linear to linear-lanceolate leaves, membranous ligule, ciliate, imbricate sheaths.
 
-Herbes pérennes d'endroits humides, à rhizomes rampants et innovations extravaginales. Chaumes robustes, feuilles linéaires à linéaires-lancéolées, ligule membraneuse, ciliée, gaines imbriquées.
+Inflorescences in large branched, plumy panicles. Spikelets awnless, widely gaping, rachis of the spikelet disarticulating above the lower flower. 3 to 11 flowers, the lower one male or neuter, the following ones hermaphrodite; the upper one is more or less reduced. Glumes unequal, lanceolate to ovate-oblong, membranous, with 3 or 5 nerves. Lemmas glabrous, the lower one linear-lanceolate to oblong, longer than the glumes, membranous, generally with 3 nerves and persistent. Fertile lemmas linear-lanceolate, acuminate, with 1 or 3 nerves; callus obtuse, long-silky. Paleas oblong-linear, shorter than the lemmas, bicarinate. Two lodicules; 3 stamens, or two in the lower flower; ovary glabrous with distinct styles.
 
-Inflorescences en grandes panicules ramiﬁées, pluneuses. Épillets mutiques, largement baillants, rachis de l'épillet se désarticulant au dessus de la fleur inférieure. De 3 à 11 ﬂeurs, l'inférieure mâle ou neutre, les suivantes hermaphrodites; la supérieure est plus ou moins réduite. Glumes inégales, lancéolées, à ovales-oblongues, membraneuses, à 3 ou 5 nervures. Lemmas glabres, l'inférieure linéaire-lancéolée à oblongue, plus longue que les, glumes, membraneuses, généralement à 3 nervures et persistantes Lemmas fertiles linéaires lancéolées, acuminées, à 1 ou 3 nervures; callus obtus, longuement soyeux. Palées oblongues-linéaires, plus courtes que les lemmas, bicarénées. Deux lodicules; 3 étamines, ou deux dans la fleur inférieure; ovaire glabre à styles distincts.
+Hubbard (F.T.A. X, r) distinguishes two species in tropical Africa which he separates as follows:
 
-Hubbard (F.T.A. X, r) distingue en Afrique tropicale deux espèces qu'il sépare de la façon suivante :
+1. Callus hairs 7 to 10 mm long, glumes very unequal, the upper one oblong-lanceolate to narrowly oblong, 5 to 10 mm long; lower lemma 9 to 16 mm long... P. communis Trin.
 
-1. Poils du callus de 7 à 10 mm de long, glumes très inégales, la supérieure oblongue-lancéolée à étroitement oblongue, de 5 à 10 mm de long; lemma inférieure de 9 à 16 mm de long... P. communis Trin.
-
-1'. Poils du callus de 4 à 7 mm de long; glumes égales, sub-égales ou rarement très inégales, la supérieure ovale ou ovale-oblongue, rarement oblongue, de 2,5 à 5 et rarement 6 mm de long; lemma inférieure de 6 à 11 mm de long..... P. mauritianus Kunth.
+1'. Callus hairs 4 to 7 mm long; glumes equal, subequal or rarely very unequal, the upper one ovate or ovate-oblong, rarely oblong, 2.5 to 5 and rarely 6 mm long; lower lemma 6 to 11 mm long..... P. mauritianus Kunth.
 
 ---
 
-Le seul spécimen examiné pour le Gabon (Le Testu 2401, région de la Ngounyé) est malheureusement stérile, mais étant donné la répartition géographique des deux espèces, il s'agit très probablement de P. mauritianus, seul signalé jusqu'ici dans les régions équatoriales de l'Afrique de l'ouest.
+The only specimen examined for Gabon (Le Testu 2401, Ngounyé region) is unfortunately sterile, but given the geographic distribution of the two species, it is very probably P. mauritianus, the only one recorded so far in the equatorial regions of West Africa.
 
 ## Species in region
 

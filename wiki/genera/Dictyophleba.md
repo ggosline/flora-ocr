@@ -17,69 +17,61 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 Lianes à vrilles enroulées, à latex blanc et collant dans toutes ses parties ; branches à cicatrices
 
-transversales laissées par des stipules. Stipules interpétiolaires VRXYHQWFDGXTXHVjPDUJH
+transversales laissées par des stipules. Stipules interpétiolaires souvent caduques à marge
 
-entière ou laciniée. Feuilles opposées, pétiolées ; limbe cordé à arrondi à la base. ,QÀRUHV -
+entière ou laciniée. Feuilles opposées, pétiolées ; limbe cordé à arrondi à la base. Inflorescences terminales, pédonculées, généralement en forme de vrille, cymeuses. Fleurs : corolle
 
-cences terminales , pédonculées, généralement en forme de vrille, cymeuses. Fleurs : corolle
-
-glabre à l’extérieur jWXEHVXEF\OLQGULTXHSRLOXjO¶LQWpULHXUSULQFLSDOHPHQWGDQVODSDUWLH
+glabre à l'extérieur et tube subcylindrique poilu à l'intérieur principalement dans la partie
 
 la plus large, à lobes recouvrant vers la gauche, longuement ciliés sur les bords couverts en
 
-bouton ; étamines incluses DQWKqUHVJODEUHVQRQFDUpQpHVGLVTXHDEVHQWRYDLUHj 2 car-
+bouton ; étamines incluses anthères glabres non carénées, disque absent, ovaire à 2 carpelles unis semiloculaire glabre, pistil à style filiforme à tête pointue composée d'une
 
-pelles unis VHPLORFXODLUHJODEUHSLVWLOjVW\OH¿OLIRUPHjWrWHSRLQWXHFRPSRVpHG¶XQH
+partie basale oblongue et pileuse et d'une partie apicale stigmatoïde fendue Fruits syncarpes,
 
-SDUWLHEDVDOHREORQJXHHWSLOHXVHHWG¶XQHSDUWLHDSLFDOHVWLJPDWRwGHIHQGXH Fruits syncarpes,
-
-en baies indéhiscentes, rouges, orange ou jaunes, glabres RXSDUIRLVDYHFTXHOTXHVSRLOVj
+en baies indéhiscentes, rouges, orange ou jaunes, glabres ou parfois avec quelques poils à
 
 pulpe jaune. Graines avec endosperme ; cotylédons plats, ondulés.
 
-*HQUHDIULFDLQDYHFFLQTHVSqFHVHQ$IULTXHWURSLFDOHFRQWLQHQWDOHGRQWXQHV¶pWHQGMXVTX¶DX[
-
-&RPRUHVDX*DERQTXDWUHHVSqFHV
+Genre africain avec cinq espèces en Afrique tropicale continentale, dont une s'étend jusqu'aux Comores au Gabon, quatre espèces.
 
 Usage : La pulpe du fruit est comestible.
 
-B : Beentje (2021), Endress et al. (2019), de Hoogh (1989), Leeuwenberg & Kupicha (1985),
+BIBLIOGRAPHY
 
-IBLIOGRAPHIE
+B : Beentje (2021), Endress et al. (2019), de Hoogh (1989), Leeuwenberg & Kupicha (1985),
 
 Omino (2002).
 
 ---
 
-Kostense, Naturalis Biodiversity Center (©), reproduit à partir de van der Ploeg (1985).
+Kostense, Naturalis Biodiversity Center (©), reproduced from van der Ploeg (1985).
 
 ---
 
-### Clé des espèces
+### Key to species
 
-6WLSXOHVWULDQJXODLUHVXQLTXHPHQWVXUOHVMHXQHVSRXVVHVFDGXTXHV ......................... 2
+Stipules triangular, only on young shoots caducous ......................... 2
 
-- Stipules divisées en segments linéaires, persistantes .................................................. 3
+- Stipules divided into linear segments, persistent .................................................. 3
 
-&DOLFHjOREHVORQJVGH±PPGUHVVpVLQÀRUHVFHQFHGH±î±FPOLPEH
+Calyx with lobes 1–2 mm long erect in inflorescence of 0.5–1 × 0.5–1 cm, leaf blade
 
-foliaire de 3–17 × 2–8 cm .............................................................................. D. lucida
+of 3–17 × 2–8 cm .............................................................................. D. lucida
 
-&DOLFHjOREHVORQJVGH±PPpWDOpVLQÀRUHVFHQFHGH±î±FPOLPEH
+Calyx with lobes 1–2 mm long petaled in inflorescence of 0.5–1 × 0.5–1 cm, leaf blade
 
-foliaire de 14–41 × 6–20 cm ..................................................................... D. ochracea
+of 14–41 × 6–20 cm ..................................................................... D. ochracea
 
-&DOLFH j OREHV IRLV DXVVL ORQJV TXH ODUJHV PXQLV GH IRUWV SRLOV pWDOpV
+Calyx with lobes 2 times as long as wide provided with strong hairs petaled
 
-stipules longues de 0,5–2 cm ......................................................................... D. setosa
+stipules 0.5–2 cm long ......................................................................... D. setosa
 
-&DOLFHjOREHV±IRLVDXVVLORQJVTXHODUJHVVDQVSRLOVIRUWVpWDOpVVWLSXOHV
+Calyx with lobes 2–3 times as long as wide without strong hairs petaled, stipules
 
-longues de 2–4,5 cm .................................................................................. D. stipulosa
+2–4.5 cm long .................................................................................. D. stipulosa
 
 ## Species in region
 

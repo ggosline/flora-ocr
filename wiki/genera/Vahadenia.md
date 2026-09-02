@@ -17,35 +17,17 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Lianes with tendrils, with white latex in all parts. Leaves opposite, petiolate.
 
-Lianes avec des vrilles , à latex blanc dans toutes les parties. Feuilles opposées, pétiolées.
+Inflorescences axillary or terminal, in lax cymes with several or numerous flowers.
 
-,QÀRUHVFHQFHV axillaires ou terminales, en cyme lâche DYHFTXHOTXHVRXQRPEUHXVHVÀHXUV
+Flowers: calyx with lobes bearing numerous colleters in several rows at the base inside; corolla glabrous except for a tuft of hairs at the base of the lobes; tube subcylindric with lobes overlapping to the left in bud; stamens included; ovary glabrous in the lower half, pubescent in the upper half; pistil with head composed of a basal stigmatic part in the form of a diabolo and an apical stigmatoid part, cleft at the summit. Fruits syncarps, in indehiscent berries, glabrous, with orange pulp. Seeds ellipsoid, compressed laterally; testa thin; endosperm white when fresh, thick.
 
-Fleurs : calice à lobes munis de nombreuses collétères en plusieurs rangées à l’intérieur à
+A genus with two species limited to tropical Africa of the West and Central, one of which in Gabon.
 
-la base FRUROOHJODEUHVDXIXQHWRXIIHGHSRLOVjODEDVHGHVOREHVjWXEHVXEF\OLQGULTXHj
+B: Beentje (2021), Endress et al. (2019), Haegens (1994), Pichon (1953).
 
-lobes recouvrant vers la gauche en bouton ; étamines incluses ; ovaire glabre dans la moitié
-
-LQIpULHXUHSXEHVFHQWHGDQVODPRLWLpSLVWLOjWrWHFRPSRVpHG¶XQHSDUWLHEDVDOHVWLJPDWLTXH
-
-HQIRUPHGHGLDERORHWG¶XQHSDUWLHDSLFDOHVWLJPDWRwGHIHQGXHDXVRPPHW Fruits syncarpes,
-
-en baies indéhiscentes, glabres , à pulpe orange. Graines HOOLSVRwGDOHVFRPSULPpHVODWpUDOH -
-
-ment ; testa mince ; endosperme blanc sur le frais, épais.
-
-8QJHQUHDYHFGHX[HVSqFHVOLPLWpHVjO¶$IULTXHWURSLFDOHGHO¶2XHVWHWFHQWUDOHGRQWXQHDX
-
-Gabon.
-
-B : Beentje (2021), Endress et al. (2019), Haegens (1994), Pichon (1953).
-
-IBLIOGRAPHIE
-
----
+BIBLIOGRAPHY
 
 ## Species in region
 

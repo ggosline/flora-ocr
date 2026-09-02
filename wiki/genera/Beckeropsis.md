@@ -16,15 +16,13 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 Fig. et De Not. Mem. Accad. Sci. Torino Ser. 2, XIV : 365.
 
-Herbes pérennes ou annuelles, très ramiﬁées dans la partie supérieure. Feuilles linéaires-lancéolées, pétiolées.
+Perennial or annual herbs, much branched in the upper part. Leaves linear-lanceolate, petiolate.
 
-Racèmes solitaires ou fasciculés, longuement pédonculés. Épillets solitaires, oblong-acuminés, chacun soutenu par une longue soie caduque avec lui. Glumes petites, obtuses, hyalines et sans nervures; fleur inférieure neutre, réduite à une lemma hyaline, à 5 nervures, de la taille de l'épillet. Fleur supérieure hermaphrodite, lemma semblable à celle de la fleur stérile; palée tronquée, hyaline, à 2 nervures. Deux lodicules cunéiformes; 3 étamines; styles libres.
+Racemes solitary or fascicled, long-pedunculate. Spikelets solitary, oblong-acuminate, each supported by a long bristle deciduous with it. Glumes small, obtuse, hyaline and without nervures; lower flower sterile, reduced to a hyaline lemma, with 5 nervures, the size of the spikelet. Upper flower hermaphrodite, lemma similar to that of the sterile flower; palea truncate, hyaline, with 2 nervures. Two cuneiform lodicules; 3 stamens; styles free.
 
-On connaît 5 espèces d'Afrique tropicale ou australe, dont 1 est signalée au Gabon
+Five species are known from tropical or southern Africa, of which 1 is recorded from Gabon.
 
 ## Species in region
 

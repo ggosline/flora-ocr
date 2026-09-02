@@ -14,8 +14,6 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 7.1 multiflora, p. 27.
 
 ## Species in region

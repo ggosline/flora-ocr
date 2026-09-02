@@ -17,71 +17,25 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Trees or shrubs, often with spines on the branches and trunk. Leaves: blade with tertiary veins ± parallel. Inflorescences axillary, in glomerules or in fascicles. Flowers unisexual, monoecious or rarely dioecious, sessile or shortly pedicellate, (4–)5(–6)-merous, small; sepals valvate, persistent; petals small, often persistent. Male flowers with disc ± annular; filaments united at the base in a columnar androgynophore supporting a rudiment of gynoecium, then stamens spreading in a star. Female flowers: disc with outer part ± annular, inner part cup-shaped enveloping the ovary; ovary 2(–3)-locular, with 2 ovules per locule, glabrous; styles 2(–3), free or connate at the base, bifid or sub-entire. Fruits indehiscent, drupaceous, with fleshy mesocarp, often unilocular by abortion. Seed 1 or sometimes 2(–3), deeply furrowed.
 
-Arbres ou arbustes, souvent avec épines sur les branches et le tronc. Feuilles : limbe à
+Paleotropical genus, comprising approximately 60 species of which nearly 20 in Africa, two in Madagascar and the Mascarenes, the remainder in Asia; in Gabon six species.
 
-nervures tertiaires ± parallèles. Inflorescences axillaires, en glomérules ou en fascicules.
+Taxonomic note: All Gabonese species bear unilocular fruits with 1 single seed and belong to the subgenus Gentillia (Beille) Jabl.
 
-Fleurs unisexuées, monoïques ou rarement dioïques, sessiles ou courtement pédicellées,
+Bibliography: Breteler (2011b), Dressler (1996), Jablonsky (1915), Keay (1958), Léonard (1962).
 
-(4–)5(–6)-mères, petites ; sépales valvaires, persistants ; pétales petits, souvent persis -
+### Key to the species
 
-tants. Fleurs mâles à disque ± annulaire ; filets réunis à la base en un androgynophore
+1. - Blade with lateral veins anastomosed in inframarginally arched loops .................... 2
 
-colonnaire supportant un rudiment de gynécée, puis étamines étalées en étoile. Fleurs fe -
+- Blade with lateral veins ± all confluent into a marginal vein ............ 3
 
-melles : disque à partie externe ± annulaire, partie interne en forme de cupule enveloppant
+2. - Branchlets pubescent to glabrescent; blade pubescent beneath especially on the midvein and the 14–17(–21) pairs of lateral veins; bracts all narrowly triangular; female flower with pubescent pedicel and sepals 2–2.5 mm in length ............................................................................................... B. atroviridis
 
-l’ovaire ; ovaire 2(–3)-loculaire, à 2 ovules par loge, glabre ; styles 2(–3), libres ou connés
+- Branchlets and blade glabrous or with few scattered hairs; lateral veins (8–)9–12(–14) pairs; outer bracts very broad, 1–1.5 × 2–3 mm, the inner ones narrowly triangular, ± 1 mm in length; female flower with glabrous pedicel and sepals 1–1.5 mm in length ............................................ B. wilksii
 
-à la base, bifides ou sub-entiers. Fruits indéhiscents, drupacés, à mésocarpe charnu, sou -
-
-vent uniloculaires par avortement. Graine 1 ou parfois 2(–3), profondément sillonnée.
-
-Genre paléotropical, comprenant environ 60 espèces dont près de 20 en Afrique, deux à
-
-Madagascar et les Mascareignes, le reste en Asie ; au Gabon six espèces.
-
-Note taxonomique : Toutes les espèces gabonaises portent des fruits uniloculaires à 1
-
-seule graine et appartiennent au sous-genre Gentillia (Beille) Jabl.
-
-b : Breteler (2011b), Dressler (1996), Jablonsky (1915), Keay (1958), Léo -
-
-ibliographie
-
-nard (1962).
-
-### Clé des espèces
-
-1. - Limbe à nervures latérales anastomosées en arceaux inframarginaux .................... 2
-
-- Limbe à nervures latérales ± toutes confluentes en une nervure marginale ............ 3
-
-2. - Ramilles pubescentes à glabrescentes ; limbe pubescent dessous surtout sur la
-
-médiane et les 14–17(–21) paires de nervures latérales ; bractées toutes étroitement
-
-triangulaires ; fleur femelle à pédicelle pubescent et à sépales de 2–2,5 mm de
-
-longueur ............................................................................................... B. atroviridis
-
-- Ramilles et limbe glabres ou à quelques poils clairsemés ; nervures latérales
-
-(8–)9–12(–14) paires ; bractées externes très larges, de 1–1,5 × 2–3 mm, les
-
-internes étroitement triangulaires, de ± 1 mm de longueur ; fleur femelle à pédicelle
-
-glabre et à sépales de 1–1,5 mm de longueur ............................................ B. wilksii
-
-3. - Petit ou grand arbre de la forêt ; limbe le plus souvent nettement acuminé, (1,5–)
-
-2–3(–3,5) fois plus long que large, pubescent dessous à poils le plus souvent
-
-apprimés, à 8–16(–18) paires de nervures latérales ; fleur épanouie de 2–3 mm de
-
-diamètre ................................................................................................................... 4
+3. - Small or large forest tree; blade most often distinctly acuminate, (1.5–)2–3(–3.5) times longer than broad, pubescent beneath with hairs most often appressed, with 8–16(–18) pairs of lateral veins; opened flower 2–3 mm in diameter ................................................................................................................... 4
 
 ## Species in region
 

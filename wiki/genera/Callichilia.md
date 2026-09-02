@@ -17,63 +17,19 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Shrubs or lianes, glabrous, with white latex in all parts of the plant. Leaves opposite, those of a pair equal or unequal, subsessile or petiolate, bases of an opposite pair connate in a short ochrea, with numerous small axillary colleters in several rows. Inflorescences at or at the apex of a branch just below a bifurcate ramification, cymose with one or more flowers. Flowers 5-merous, actinomorphic or sometimes with unequal calyx lobes; calyx persistent in fruit, lobes subequal or unequal, imbricate in quinquuncial arrangement, much shorter than the corolla, at the interior near the base with 2 rows of minute colleters; corolla in the bud reddish, with tube glabrous at the interior except for pilose striae extending towards the base from the base of the filaments, cylindrical at the point of insertion of the stamens, then abruptly widened at this level into a cylindrical part or funnel-shaped and campanulate just below the throat, with lobes twisted in the bud, oblique, with 2 apexes, one acute and one rounded; stamens included, connivente in cone, with basifixed anthers, introrse, glabrous; annular disk at base, almost lobed, almost free from the ovary; ovary with 2 carpels connate at the base; pistil glabrous, with thin style, with head 5-striate or winged. Fruits bacciform, with numerous seeds; mericarps free or in C. orientalis Mooré half syncarpous, with thin wall, with juicy pulp. Seeds ovoid, tesselate-reticulate with deep alveolae in longitudinal rows; endosperm copious, white, horny, slightly ruminate, surrounding the embryo.
 
-Arbustes ou lianes , glabres, avec du latex blanc dans toutes les parties de la plante. Feuilles
+Genus of seven species limited to continental Africa and Gabon, two species.
 
-opposées, celles d’une paire égales ou inégales, subsessiles ou pétiolées, bases d’une paire
+B: Beentje (1978, 2002, 2021), Endress et al. (2019).
 
-opposée connées en un ochréa court, avec de nombreuses petites collétères axillaires plurisé-
+BIBLIOGRAPHY
 
-riés. ,QÀRUHVFHQFHV RXDXVRPPHWG¶XQHEUDQFKHMXVWHVRXVVDUDPL¿FDWLRQELIXUTXpH ,
+### Key to the species
 
-F\PHXVHVjRXSOXVLHXUVÀHXUV Fleurs 5-mères, actinomorphes ou parfois à lobes du calice
+1. - Leaf blade rounded to subcordate at the base; petiole reaching 4(–7) mm; liane or shrub; corolla tube 23–36 mm long; stamens inserted from the sixteenth up to the third starting from the base of the tube .............................. C. inaequalis
 
-inégaux ; calice persistant en fruit jOREHVVXEpJDX[RXLQpJDX[LPEULTXpVHQTXLQFRQFH
-
-EHDXFRXSSOXVFRXUWVTXHODFRUROOHjO¶LQWpULHXUSUqVGHODEDVHDYHFjUDQJpHVGHPLQXV -
-
-FXOHVFROOpWqUHVFRUROOHGDQVOHERXWRQPUREORwGHjWXEHJODEUHjO¶LQWpULHXUVDXIVWULHV
-
-SLOHXVHVV¶pWHQGDQWYHUVOHEDVjSDUWLUGHODEDVHGHV¿OHWVF\OLQGULTXHVRXVOHSRLQWG¶LQVHUWLRQ
-
-des étamines, puis brusquement élargi à ce niveau ’ HQXQHSDUWLHF\OLQGULTXHRXHQIRUPH
-
-d’entonnoir et campanulé juste sous la gorge, à lobes tordus dans le bouton, obliques, avec
-
-2 sommets, un aigu et un arrondi ; étamines incluses, conniventes en cône , à anthères
-
-EDVL¿[HVLQWURUVHVJODEUHVGLVTXHDQQXODLUHEDVSHXOREpSUHVTXHOLEUHGHO¶RYDLUHRYDLUH
-
-à 2 carpelles connées à la base ; pistil glabre, à style mince, à tête 5-striée ou ailée. Fruits
-
-bacciformes , à nombreuses graines ; méricarpes libres RXFKH] C . orientalis 60RRUHj
-
-moitié syncarpes, à paroi mince, à pulpe juteuse. Graines RYRwGHVWHVWDUpWLFXOpjDOYpROHV
-
-profondes en rangées longitudinales ; endosperme copieux, blanc, corné, légèrement ruminé
-
-entourant l’embryon.
-
-*HQUHGHVHSWHVSqFHVOLPLWpHVjO¶$IULTXHFRQWLQHQWDOHDX*DERQGHX[HVSqFHV
-
-B : Beentje (1978, 2002, 2021), Endress et al. (2019).
-
-IBLIOGRAPHIE
-
-### Clé des espèces
-
-1. - Limbe foliaire arrondi à subcordé à la base ; pétiole atteignant 4(–7) mm ; liane
-
-ou arbuste ; tube de la corolle long de 23–36 mm ; étamines insérées depuis le
-
-VHL]Lqphmxvtx¶DXWLHUVHQSDUWDQWGHODEDVHGXWXEH .............................. C. inaequalis
-
-- Limbe foliaire cunéé à rarement arrondi à la base ; pétiole atteignant 15(–20) mm ;
-
-arbuste dressé ; tube de la corolle long de 60–108 mm ; étamines insérées depuis le
-
-VHL]Lqphmxvtx¶DXWLHUVHQSDUWDQWGHODEDVHGXWXEH ............................... C. bequaerii
+- Leaf blade cuneate to rarely rounded at the base; petiole reaching 15(–20) mm; erect shrub; corolla tube 60–108 mm long; stamens inserted from the sixteenth up to the third starting from the base of the tube ............................... C. bequaerii
 
 ## Species in region
 

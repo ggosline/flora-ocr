@@ -17,21 +17,19 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Monoecious trees. Leaves spiral or distichous. Blade with pinnate venation. Stipules free, entirely amplexicaul to lateral.
 
-Arbres monoïques. Feuilles spiralées ou distiques. Limbe à ncrvation pennée. Stipules libres, entièrement amplexicaules à latérales.
+Unisexual inflorescences, pedunculate in heads, globose to claviform, provided with bracts. Perianth tubular; stamen 1.
 
-Inflorescences unisexuées, pédonculées en têtes, globuleuses à claviformes, pourvues de bractées. Périanthe tubulaire ; étamine 1.
+Infructescences (often) with a hard zone and a softer zone containing the fruits. Seed large; no albumen; cotyledons thick.
 
-Infrutescences (souvent) avec une zone dure et une zone plus molle contenant les fruits. Graine grande ; pas d'albumen ; cotylédons épais.
+A. altilis (Breadfruit tree) and A. heterophyllus (Jackfruit tree) are cultivated in the tropics. A. altilis has seeded and seedless forms and A. heterophyllus has forms with hard perianths or soft perianths in the fruit.
 
-A. altilis (Arbre à pain) et A. heterophyllus (Jacquier) sont cultivés sous les tropiques. A. altilis a des formes à graines et des formes sans graines et A. heterophyllus a des formes avec des périanthes durs ou des périanthes mous dans le fruit.
+### KEY TO SPECIES
 
-### CLÉ DES ESPÈCES
+1. Ramiflorous trees; leaves lobed ..... 1. A. altilis.
 
-1. Arbres ramiflores ; feuilles lobées ..... 1. A. altilis.
-
-1'. Arbres cauliflores ; feuilles entières ..... 2. A. heterophyllus.
+1'. Cauliflorous trees; leaves entire ..... 2. A. heterophyllus.
 
 ## Species in region
 

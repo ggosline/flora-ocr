@@ -17,41 +17,21 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Herb or suffrutex often furnished with a velvety tomentum. Stipules filiform, caducous.
 
-Herbe ou suffrutex souvent pourvu d’un tomentum velouté. Stipules filiformes, caduques.
+Leaves of very different sizes, long-petiolate; blade cordate, 7–9-palmatinerved.
 
-Feuilles de tailles très différentes, longuement pétiolées ; limbe cordé, 7 ‒ 9-palmatinervé.
-
-Fleurs axillaires, longuement pédicellées ; calicule absent ; calice cupuliforme ou cam-
-
-panulé, à 5 sépales soudés jusqu’au milieu, à lobes triangulaires-aigus, verdâtres ; pétales
-
-jaunes, parfois rouges à la base ou sur les nervures ; tube staminal en général plus court
-
-que la corolle, à base élargie, anthères toutes libres sur environ la moitié ; ovaire à 5 ‒ 30
-
-carpelles multi-ovulées ; style à environ 20( ‒ 30) branches dépassant à peine les an-
-
-thères. Fruits composés de (5 ‒ )20 ‒ 30 carpelles soudés à la base, à déhiscence loculicide,
+Flowers axillary, long-pedicellate; epicalyx absent; calyx cupuliform or campanulate, with 5 sepals fused to the middle, with triangular-acute lobes, greenish; petals yellow, sometimes red at the base or on the veins; staminal tube generally shorter than the corolla, with enlarged base, anthers all free for about half their length; ovary with 5–30 multi-ovulate carpels; style with about 20(–30) branches scarcely exceeding the anthers. Fruits composed of (5–)20–30 carpels fused at the base, with loculicidal dehiscence,
 
 ---
 
-dépassant le calice, hérissés au sommet par les arêtes des méricarpes . Graines 1 ‒ 3 par
+exceeding the calyx, bristly at the apex by the awns of the mericarps. Seeds 1–3 per carpel, reniform, glabrous or hairy, smooth or finely echinulate.
 
-carpelle, réniformes, glabres ou velues, lisses ou finement échinulées.
+Genus with more than 100 species from warm dry or humid regions of the world, but especially in America; a single species in Gabon. The genus Abutilon contains numerous ornamental species that are widely introduced.
 
-Genre à plus de 100 espèces des régions chaudes sèches ou humides du monde, mais sur-
+Bibliography
 
-tout en Amérique ; une seule espèce au Gabon . Le genre Abutilon contient de nombreuses
-
-espèces ornementales qui sont largement introduites.
-
-B : Akoègninou et al. (2006), Berhaut (1979), Bayer & Kubitzki (2003),
-
-i B liographie
-
-Exell & Meeuse (1961), Hauman (1963), Verdcourt (2009) .
+Akoègninou et al. (2006), Berhaut (1979), Bayer & Kubitzki (2003), Exell & Meeuse (1961), Hauman (1963), Verdcourt (2009).
 
 ## Species in region
 

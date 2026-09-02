@@ -16,69 +16,47 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 in Hook., Icon. Pl. 8 : t. 779 (1848).
 
-Arbres ou arbustes. Stipules tôt caduques. Feuilles à nervures tertiaires souvent ± pa -
+Trees or shrubs. Stipules early caducous. Leaves with tertiary veins often ± parallel. Inflorescences axillary, uni- or bisexual (often variable within the same species), gloméruliform, fasciculate or racemose; bracts very caducous.
 
-rallèles . Inflorescences axillaires, uni- ou bisexuées (souvent variables dans une même
+Flowers unisexual, monoecious or dioecious, (4–)5(–6)-merous; sepals valvate, tomentose to glabrous on the outside, glabrous on the inside; petals small. Male flowers with ± annular disc; stamens (4–)5–10, filaments united at the base into a columnar androgynophore, concealed by the disc or exsert with free parts spreading around a rudimentary gynoecium. Female flowers with annular hypogynous disc; ovary (2–)3(–4)-merous, with 2 ovules per locule; styles free or united over a variable length, 1–4 times bifid. Fruits capsular, ± tricoccous, dehiscent, with persistent columella. Seeds 1–2 per coccus.
 
-espèce), gloméruliformes, fasciculiformes ou racémiformes ; bractées très caduques.
+Paleotropical genus, comprising approximately 130 species, of which about twenty in Africa, six in Madagascar and the remainder in Asia; in Gabon 8 species.
 
-Fleurs unisexuées, monoïques ou dioïques, (4–)5(–6)-mères ; sépales valvaires , to -
+Bibliography
 
-menteux à glabres à l’extérieur, glabres à l’intérieur ; pétales petits . Fleurs mâles à
+b : Breteler (2011b), Hoffmann et al. (2006), Jablonsky (1915), Léonard (1960, 1962).
 
-disque ± annulaire ; étamines (4–)5–10, filets réunis à la base en un androgynophore
+### Key to species
 
-colonnaire , masqué par le disque ou exsert et à parties libres étalées autour d’un gynécée
+1. - Floral bud or calyx glabrous to sparsely pubescent on the outside ...................... 2
 
-rudimentaire. Fleurs femelles à disque annulaire hypogyne ; ovaire (2–)3(–4)-mère, à 2
+- Floral bud or calyx densely pilose on the outside ........................................... 3
 
-ovules par loge ; styles libres ou soudés sur une longueur variable, 1–4 fois bifides. Fruits
+2. - Disc in male and female flowers pilose; ovary and fruit pilose . C. ngounyensis
 
-capsulaires, ± tricoques, déhiscents, à columelle persistante. Graines 1–2 par coque.
+- Disc in male flowers glabrous to (sparsely) pubescent, in female flowers
 
-Genre paléotropical, comprenant environ 130 espèces, dont une vingtaine en Afrique, six
+glabrous or pilose; ovary and fruit glabrous ..................................... C. caudatus
 
-à Madagascar et le reste en Asie ; au Gabon 8 espèces.
+3. - Branchlets glabrous; leaf with coriaceous, glabrous lamina ................................................... 4
 
-b : Breteler (2011b), Hoffmann et al. (2006), Jablonsky (1915), Léonard
+- Branchlets pilose, early glabrescent or not; leaf with papyraceous to coriaceous
 
-ibliographie
+lamina, (partially) pilose or glabrous .............................................................................. 5
 
-(1960, 1962).
+4. - Lamina with 3–4 pairs of lateral veins ............................................ C. itsoghensis
 
-### Clé des espèces
+- Lamina with (5–)6–7(–8) pairs of lateral veins .................................. C. letouzeyi
 
-1. - Bouton floral ou calice glabre à éparsement pubescent à l’extérieur ...................... 2
+5. - Lamina glabrous beneath or with appressed hairs .............................................................. 6
 
-- Bouton floral ou calice densément pileux à l’extérieur ........................................... 3
+- Lamina pilose beneath, with erect hairs ................................................. C. bambidianus
 
-2. - Disque dans les fleurs mâles et femelles velu ; ovaire et fruit velus . C. ngounyensis
+6. - Flowers in elongate inflorescences, ± racemose; male flowers with pubescent
 
-- Disque dans les fleurs mâles glabre à (éparsement) pubescent, dans les fleurs
-
-femelles glabre ou velu ; ovaire et fruit glabres ..................................... C. caudatus
-
-3. - Ramilles glabres ; feuille à limbe coriace, glabre ................................................... 4
-
-- Ramilles pileuses, tôt glabrescentes ou non ; feuille à limbe papyracé à coriace,
-
-(partiellement) pileux ou glabre .............................................................................. 5
-
-4. - Limbe à 3–4 paires de nervures latérales ............................................ C. itsoghensis
-
-- Limbe à (5–)6–7(–8) paires de nervures latérales .................................. C. letouzeyi
-
-5. - Limbe glabre dessous ou à poils apprimés .............................................................. 6
-
-- Limbe velu dessous, à poils dressés ................................................. C. bambidianus
-
-6. - Fleurs en inflorescences allongées, ± racémiformes ; fleurs mâles à disque
-
-pubescent ................................................................................................................. 7
+disc ................................................................................................................. 7
 
 ## Species in region
 

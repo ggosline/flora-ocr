@@ -17,37 +17,35 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Subshrubs barely woody at the base or small shrubs 1 to 4 m tall, little or not branched. Stipules entire vigorous erect, wider than the stem, folded, projecting into the axil, furnished with a dense tuft of silky hairs at the base. Leaves large, equal in each pair.
 
-Sous-arbustes à peine ligneux à la base ou petits arbustes de 1 à 4 m de hauteur, peu ou pas ramifiés. Stipules entières vigoureuses dressées, plus larges que la tige, pliées, saillantes dans l'axe, munies d'une dense touffe de poils soyeux à l'aisselle. Feuilles grandes, égales dans chaque paire.
+Inflorescences cauline and low or scattered axillary, in ± sessile and ± tightly contracted cymes. Flowers pedicellate heterostylous. 5 developed sepals. Corolla with valvate prefloration, with long and narrow tube, with 5 short lobes. Internal pilosity of the throat formed either of globulous papillae, or of hairs with articles in beads. Anthers medifixed and sessile, apiculate. Style slender glabrous; 2 oblong stigmatic lobes but not spatulate. Small annular disc. Ovary two-locular. Placentas cordate and peltate. Seeds small, c. 0.5 mm, very numerous, with fine stretched reticulum.
 
-Inflorescences caulinaires basses ou échelonnées axillaires, en cymes ± sessiles et ± désentement contractées. Fleurs pédi-cellées hétérostyles. 5 sépales développés. Corolle à préfloraison valvaire, à tube long et étroit, à 5 lobes courts. Pilosité interne de la gorge formée soit de papilles globuleuses, soit de poils à articles en grains de chapelet. Anthères médifixes et sessiles, apiculées. Style grêle glabre; 2 lobes stigmatiques oblonges mais non spatulés. Petit disque annulaire. Ovaire à deux loges. Placentas cordés et peltés. Graines petites, env. 0,5 mm, très nombreuses, à fin réticule étiré.
+Type species: E. apocynaceum K. Schum. (Staudt 208, Lolodorf, Cameroon), cf. p. 222.
 
-Espèce type : E. apocynaceum K. Schum. (Staudt 208, Lolodorf, Cameroun), cf. p. 222.
-
-Ce genre longtemps méconnu comprend 6 espèces, gabonaises pour la plupart, périgabonaises ou du Nigeria. Certaines présentent quelques ressemblances avec les Stipularia (port, stipules, feuilles, habitat); elles en différent profondément par leurs inflorescences sans involucre tubuleux, leurs ovaires biloculaires, leurs placentas larges et cordés, leurs calices non tubuleux à lobes très longs.
+This genus long misunderstood comprises 6 species, mostly Gabonese, perigabonese or from Nigeria. Some show some similarities with Stipularia (habit, stipules, leaves, habitat); they differ profoundly from it by their inflorescences without tubular involucre, their bilocular ovaries, their wide and cordate placentas, their non-tubular calyces with very long lobes.
 
 ---
 
-### ECPOMA : CLÉ DES ESPÈCES
+### ECPOMA: KEY TO THE SPECIES
 
-1. Stipules de (2,5) 3-4 (5) cm de large; inflorescences embrassées par deux grandes pièces (stipulaires), l'une adossée à l'axe, l'autre adossée au pétiole; lobes du calice un peu plus larges que chez E. Hiernianum..... E. gigantostipulum.
+1. Stipules (2.5) 3–4 (5) cm wide; inflorescences embraced by two large pieces (stipular), one against the axis, the other against the petiole; calyx lobes somewhat wider than in E. Hiernianum..... E. gigantostipulum.
 
-1'. Stipules de moins de 2,5 cm de large; inflorescences à petites bractées basales non enveloppantes.
+1'. Stipules less than 2.5 cm wide; inflorescences with small basal bracts not enveloping.
 
-2. Feuilles et entrenœuds glabres; cauliflorie basse; extérieur de la corolle entièrement glabre..... 1. E. geanthum.
+2. Leaves and internodes glabrous; cauliflory low; exterior of corolla entirely glabrous..... 1. E. geanthum.
 
-2'. Feuilles et entrenœuds ± pubescents.
+2'. Leaves and internodes ± pubescent.
 
-3. Limbe pubescent dessus; tube de la corolle cilié; apex du bouton glabre..... 2. E. cauliflorum.
+3. Limb pubescent above; corolla tube ciliate; apex of bud glabrous..... 2. E. cauliflorum.
 
-3'. Limbe glabre dessus.
+3'. Limb glabrous above.
 
-4. Feuilles blancéolées; lobes du calice ± atténués ou presque effilés vers le sommet; tube de la corolle glabre; apex du bouton pubescent..... 3. E. Hiernianum.
+4. Leaves lanceolate whitish; calyx lobes ± attenuate or almost tapered toward the apex; corolla tube glabrous; apex of bud pubescent..... 3. E. Hiernianum.
 
-4'. Feuilles lauriformes lancéolées; lobes du calice un peu atténués vers la base; corolle non connue..... 4. E. sp.
+4'. Leaves laurel-form lanceolate; calyx lobes somewhat attenuate toward the base; corolla not known..... 4. E. sp.
 
-L'espèce E. gigantostipulum (K. Schum.) N. Hallé du sud Nigeria, de l'île Principe (Rose 419) et du bas Cameroun, n'est pas connue du Gabon mais elle pourrait sans doute s'y rencontrer. Cette plante d'aspect robuste présente une paire de larges fausses bractées de nature stipulaire protégant chaque inflorescence. C'est l'espèce la plus souvent confondue avec le Stipularia africana ; plus ligneuse elle peut atteindre 4 m de hauteur.
+The species E. gigantostipulum (K. Schum.) N. Hallé from southern Nigeria, from the island of Príncipe (Rose 419) and from lower Cameroon, is not known from Gabon but could doubtless be found there. This plant of robust appearance presents a pair of wide false bracts of stipular nature protecting each inflorescence. It is the species most often confused with Stipularia africana; more woody it can reach 4 m in height.
 
 ## Species in region
 

@@ -17,25 +17,23 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Shrubs or small trees. Laminate stipules. Anisophylly on certain parts of the lateral branches. Domatia present.
 
-Arbustes ou petits arbres. Stipules laminées. Anisophyllie sur certaines parties des rameaux latéraux. Domaties présentes.
-
-Inflorescences corymbiformes terminales. Fleurs pentamères ± pédicellées. Lobes du calice contortés, érigés. Préfloraison de la corolle contortée. Anthères ± exsertes subsagittées à thèques cloisonnées et formant 4 lignes verticales de petites locelles. Style bilobé au sommet. Ovaire à 2 loges; un placenta ové pelté dans chaque loge. Ovules très nombreux, contigus sur toute la surface placentaire.
+Inflorescences corymbiform, terminal. Flowers pentamerous ± pedicellate. Calyx lobes contorted, erect. Corolla prefloration contorted. Anthers ± exsert, subsagittate with chambered thecae forming 4 vertical lines of small locules. Style bilobed at the apex. Ovary with 2 locules; one ovate peltate placenta in each locule. Ovules very numerous, contiguous over the entire placental surface.
 
 ---
 
-Fruits globuleux ou ± ovoïdes, bacciformes, à sépales persistants. Graines tronc-pyramidales, noires, à tégument lisse et brillant, de près de 2 mm de longueur.
+Fruits globose or ± ovoid, bacciform, with persistent sepals. Seeds truncate-pyramidal, black, with smooth and glossy integument, nearly 2 mm in length.
 
-Espèce type : Dictyandra arborescens Welw. ex Hook. f.
+Type species: Dictyandra arborescens Welw. ex Hook. f.
 
-Ce genre d'Afrique tropicale est connu seulement par deux espèces forestières, toutes deux représentées au Gabon. Le D. involucrata ressemble beaucoup, à l'exception des loges des anthères, aux Leptactina. À l'instar des Sherbournia (cf. p. 127) il pourrait s'ensuivre un doute quant à la réelle situation taxonomique de cette espèce.
+This genus from tropical Africa is known only by two forest species, both represented in Gabon. D. involucrata resembles very closely, except for the anther locules, the Leptactina. Like Sherbournia (cf. p. 127), there could follow a doubt as to the true taxonomic position of this species.
 
-### CLÉ DES ESPÈCES
+### KEY TO THE SPECIES
 
-1. Stipules triangulaires érigées; tube de la corolle égal ou inférieur aux lobes; sépales largement ovés à marge recouvrante enroulée; style velu à stigmate bifurqué entièrement et exsert; fruit globuleux microsinueux en surface à sec; pédicelles de 1 cm environ.
+1. Stipules triangular, erect; corolla tube equal to or shorter than the lobes; sepals broadly ovate with overlapping margin rolled; style hairy with entirely bifurcate and exsert stigma; fruit globose microsinus on the surface when dry; pedicels about 1 cm.
 
-1'. Stipules suborbiculaires rabattues; tube de la corolle beaucoup plus long que les lobes; sépales lancéolés ± étroits; style glabre à lobes stigmatiques ± cachés; fruit ové à surface plissée en long à sec; pédicelles de 5 mm ou moins..... 2. D. involucrata
+1'. Stipules suborbicular, bent back; corolla tube much longer than the lobes; sepals lanceolate ± narrow; style glabrous with ± hidden stigmatic lobes; fruit ovate with surface longitudinally wrinkled when dry; pedicels 5 mm or less..... 2. D. involucrata
 
 ## Species in region
 

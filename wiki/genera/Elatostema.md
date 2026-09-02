@@ -17,67 +17,23 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Herbs annual or perennial, monoecious, pubescent or puberulent; stems prostrate and ascending; aerial axes flattened, with dorso-ventral symmetry; cystoliths linear.
 
-Herbes annuelles ou pérennes, monoïques, pubescentes ou pubérulentes ; tiges prostrées
+Stipules entirely or partially connate, intrapetiolary, those of the reduced leaf differing in size and sometimes also in shape from those of the normal leaf. Leaves alternate (probably mainly opposite, but one of the leaves of each pair entirely reduced), regularly distichous, sessile or very shortly petiolate; blade strongly asymmetric, the proximal half the widest, with the most developed venation and the greatest number of marginal teeth, base asymmetrically rounded, apex acute or acuminate, margin dentate; venation obliquely triplinervate. Inflorescences unisexual, axillary, sessile (in Gabon), formed of groups of flowers very densely agglomerated and surrounded by bracts almost free in the male inflorescences or by bracts somewhat connate in the female ones. Male flowers 4- or 5-merous; tepals generally with a dorsal corniculate appendage; pistillode weakly developed or absent. Female flowers: tepals 3(–5), strongly reduced; staminodes 3, squamiform; ovary ovoid; stigma sessile penicillate.
 
-et ascendantes ; axes aériens aplatis, à symétrie dorso-ventrale ; cystolithes linéaires.
+Fruits oval or strongly laterally compressed, small, smooth or longitudinally striate, whitish to pale brown, expelled by the reflexed staminodes.
 
-Stipules entièrement ou partiellement soudées, intrapétiolaires, celles de la feuille réduite dif -
+Genus with approximately 200 species from tropical regions of the Old World; in Gabon, only one species, but more may be expected, see notes.
 
-férant en taille et parfois aussi en forme de celles de la feuille normale. Feuilles alternes
+Notes: Two species are found in countries neighboring Gabon: E. welwitschii Engl., in the forests of countries to the north, east and south of Gabon, often at a somewhat higher altitude than E. paivaeanum, it could be encountered at the altitude of the highest mountains of Gabon, but for now, no specimens have been seen there. The low-altitude species, E. paivaeanum is normally more robust than the rather comparable species, but more slender, E. monticola Hook.f., which is found in Cameroon around 1000–2800 m and unknown in Gabon. Because the altitudinal range of E. welwitschii barely overlaps with the altitude of the mountains of Gabon, it is unlikely to be encountered there, but these two species are included in the key.
 
-(probablement principalement opposées, mais une des feuilles de chaque paire entièrement
+Bi: Friis (1993).
 
-réduite), régulièrement distiques, sessiles ou très courtement pétiolées ; limbe fortement
+Bibliography
 
-asymétrique , la moitié proximale la plus large , à la nervation la plus développée et au
+### Key to the species
 
-plus grand nombre de dents marginales , base asymétriquement arrondie, sommet aigu ou
-
-acuminé, marge dentée ; nervation obliquement triplinerve. Inflorescences unisexuées, axil -
-
-laires, sessiles (au Gabon), formées de groupes de fleurs très densément agglomérées et
-
-entourées de bractées presque libres dans les inflorescences mâles ou de bractées un peu
-
-soudées dans les femelles . Fleurs mâles 4- ou 5-mères ; tépales avec généralement un appen -
-
-dice dorsal cornu ; pistillode faiblement développé ou absent. Fleurs femelles : tépales 3(–5),
-
-fortement réduits ; staminodes 3, squamiformes ; ovaire ovoïde ; stigmate sessile pénicillé.
-
-Fruits ovales ou fortement comprimés latéralement, petits, lisses ou striés longitudinalement,
-
-blanchâtres à brun pâle, expulsés par les staminodes réfléchis.
-
-Genre avec environ 200 espèces des régions tropicales de l’Ancien Monde ; au Gabon, une
-
-seule espèce, mais on peut en attendre davantage, voir notes.
-
-Notes : Deux espèces se trouvent dans les pays voisins : E. welwitschii Engl., dans les forêts des pays au
-
-nord, à l’est et au sud du Gabon, souvent à altitude un peu plus élevée que E. paivaeanum , elle pourrait
-
-se rencontrer à l’altitude des plus hautes montagnes du Gabon, mais pour l’instant, il n’en a pas été vu
-
-d’échantillons. L’espèce de basse altitude, E. paivaeanum est normalement plus robuste que l’espèce plutôt
-
-comparable, mais plus grêle, E. monticola Hook.f., qui se trouve au Cameroun vers 1000–2800 m et incon -
-
-nue au Gabon. Parce que le spectre altitudinal d’ E. welwitschii se superpose à peine avec l’altitude des
-
-montagnes du Gabon, il est peu probable de l’y rencontrer, mais ces deux espèces sont incluses dans la clé.
-
-Bi : Friis (1993).
-
-B liographie
-
-### Clé des espèces
-
-1. - Limbe foliaire vert pâle sur le sec, les adultes 16–25 cm de longueur, à marge portant
-
-de chaque côté plus de (16–)25 petites dents diminuant progressivement vers le sommet
+1. - Blade pale green when dried, the adults 16–25 cm in length, with margin bearing on each side more than (16–)25 small teeth gradually diminishing towards the apex
 
 ## Species in region
 

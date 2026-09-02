@@ -19,41 +19,39 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Perennial or annual herbs with narrow leaves, ligules reduced to a fringe of hairs. Inflorescence in a loose or contracted and spiciform panicle.
 
-Herbes pérennes ou annuelles à feuilles étroites, ligules réduites à une frange de poils. Inflorescence en panicule lâche ou contractée et spiciforme.
+Spikelets laterally flattened, pedicellate; rachis deciduous above the glumes and between each flower, or persistent. Flowers 2 to very numerous, hermaphrodite, or the upper ones more or less reduced. Glumes equal or unequal, membranous, with 1 single nerve, often deciduous. Lemmas more or less imbricate, ovate to lanceolate, entire, awnless, with 3 nerves, generally glabrous. Paleas of the same size or smaller, bicarinate, persistent or deciduous. Two lodicules; generally 3 stamens; ovary glabrous with distinct styles. Seed falling surrounded by the two glumelles, or only with the lemma.
 
-Épillets latéralement aplatis, pédicellés; rachis caduc au-dessus des glumes et entre chaque fleur, ou persistant. Fleurs de 2 à très nombreuses, hermaphrodites, ou les supérieures plus ou moins réduites. Glumes égales ou non, membraneuses, à 1 seule nervure, souvent caduques. Lemmas plus ou moins imbriquées, ovales à lancéolées, entières, mutiques, à 3 nervures, généralement glabres. Palées de même taille ou plus petites, bicarénes, persistantes ou caduques. Deux lodicules; généralement 3 étamines; ovaire glabre à styles distincts. Graine tombant entourée par les deux glumelles, ou seulement avec la lemma.
+Important genus represented by very numerous species, some of which are valuable forage plants. Eight species are recorded from Gabon; most of them are ruderal.
 
-Genre important représenté par de très nombreuses espèces dont certaines sont des fourrages de valeur. Huit espèces sont signalées au Gabon; ce sont pour la plupart des rudérales.
+1. Spikelets 4 to 7 mm wide, very flattened, ovoid, few in number in a narrow racemose panicle ..... 1. E. platystachys.
 
-1. Épillets de 4 à 7 mm de large, très aplatis, ovoïdes, peu nombreux en panicule racémeuse étroite..... 1. E. platystachys.
+1'. Spikelets less than 2 to 3 mm wide.
 
-1'. Épillets de moins de 2 à 3 mm de large.
+2. Spikelets disarticulating from the apex at maturity, the rachis being articulate between each flower and deciduous with them; seed falling with the lemma and palea.
 
-2. Épillets se désarticulant à partir du sommet à maturité, le rachis étant articulé entre chaque fleur et caduc avec elles; graine tombant avec la lemma et la paléa.
+3. Inflorescences in loose panicles approximately 10-15 × 1.5-3 cm; spikelets very small approximately 2 mm long and 1 mm wide, greenish or more or less tinged with violet; paleas ciliate with long rigid hairs on the keels; ruderal ..... 2. E. tenella
 
-3. Inflorescences en panicules lâches d'environ 10-15 × 1,5-3 cm; épillets très petits d'environ 2 mm de long et 1 mm de large, verdâtres ou plus ou moins teintés de violet; paléas ciliées à longs poils raides sur les carènes; rudérale..... 2. E. tenelle
-
-3'. Inflorescences en panicules spiciformes denses d'environ 10 cm de long et 1 cm de diamètre; épilets de 2 à 4 mm de long et
+3'. Inflorescences in dense spiciform panicles approximately 10 cm long and 1 cm in diameter; spikelets 2 to 4 mm long and
 
 ---
 
-1,5 à 2 mm de large, blanc-grisâtes ou roses; paléas comme ci-dessus; rudérale ..... 3. E. ciliaris.
+1.5 to 2 mm wide, whitish-grey or pink; paleas as above; ruderal ..... 3. E. ciliaris.
 
-2'. Épillets se désarticulant à maturité à partir de la base; rachis
+2'. Spikelets disarticulating at maturity from the base; rachis
 
-persistentant, ainsi parfois que les paléas.
+persistent, as sometimes are the paleas.
 
-4. Épillets de moins de 1,5 mm de large, panicules lâches, épillets atteignant une dizaine de millimètres de long; paléas scabres sur les carènes, rapidement caduques; rudérale.....
+4. Spikelets less than 1.5 mm wide, loose panicles, spikelets reaching about a dozen millimetres long; paleas scabrous on the keels, rapidly deciduous; ruderal .....
 
-4'. Épillets de plus de 1,5 mm de large.
+4'. Spikelets more than 1.5 mm wide.
 
-5. Paléas caduques (axe de l'épillet restant nu après la chute des fleurs).
+5. Paleas deciduous (axis of the spikelet remaining bare after the fall of flowers).
 
-6. Épillets verdâtres, de 2 à 2,5 mm de large et jusqu'à 15 ou parfois 20 mm de long; panicule ample à nombreux épilets; paléas scabres sur les carènes.... 5. E. gangetica.
+6. Spikelets greenish, 2 to 2.5 mm wide and up to 15 or sometimes 20 mm long; panicle ample with numerous spikelets; paleas scabrous on the keels .... 5. E. gangetica.
 
-6'. Épillets couleur de paille jusqu'à 20 mm de long, de 2,5 à 3 mm de large; panicule étroite à épillets peu nombreux, palées à carènes nues; espèce pérenne rupicole dans les rapides de rivière, à forte souche ..... 6. E. Georgi.
+6'. Spikelets straw-coloured up to 20 mm long, 2.5 to 3 mm wide; panicle narrow with few spikelets, paleas with bare keels; perennial rupicole species in river rapids, with strong tufts ..... 6. E. georgii.
 
 23.1 ciliaris
 
@@ -115,7 +113,7 @@ HYPERTHELIA
 
 IMPERATA
 
-30.1cylindrica
+30.1 cylindrica
 
 ISACHNE
 

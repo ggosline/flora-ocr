@@ -17,59 +17,21 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Glabrous trees; latex yellow or yellow-orange. Stipules absent. Leaves opposite, clustered at the apex of branchlets; secretory canals parallel to the lateral veins but crossing them near the main vein, sometimes with black glandular punctations on the lower surface. Inflorescences terminal, in racemose panicles or in racemes, with 3–15 flowers. Flowers bisexual, large, fragrant, pentamerous; pedicel articulate near the base; sepals imbricate, coriaceous, persistent; petals contort, persistent; stamens numerous, in staminodial phalanges alternating with discal glands, the two persistent, filaments briefly fused at the base, anthers filiform; ovary 3–5(–6)-locular, with axile placentation, ovules 2-seriate; style 1, 5-lobed at the apex. Fruits: berries ovoid; exocarp coriaceous; mesocarp yellow. Seeds rich in fatty matter, exalbuminous, often of irregular form.
 
-Arbres glabres ; latex jaune ou jaune orangé. Stipules absentes. Feuilles opposées, grou-
+Genus of five species distributed from Mali and Guinea to Rwanda; two species in Gabon.
 
-pées au sommet des rameaux ; canaux sécréteurs parallèles aux nervures latérales mais
+Taxonomic note: The species P. maritima Pierre was described from material collected in Gabon. However, this material concerns only a fruit washed up on the beach that does not belong to the genus Pentadesma.
 
-les traversant près de la nervure principale, parfois à ponctuations glanduleuses noires sur
+B: Bamps (1970a, 1971), Meer (1965), Pellegrin (1959), Stevens (2007).
 
-la face inférieure. Inflorescences terminales, en panicules racèmeuses ou en racèmes ,
+Bibliography
 
-à 3 ‒ 15 fleurs. Fleurs bisexuées, grandes, odorantes, pentamères ; pédicelle articulé près
+### Key to the species
 
-de la base ; sépales imbriqués, coriaces, persistants ; pétales contortés, persistants ; éta-
+1. – Leaves without black punctations below, with 1(–2) secretory canals parallel between each pair of lateral veins; ovary bottle-shaped, with 2 series of 7–14 ovules per locule; fruit ovoid to globose, smooth ..................... P. butyracea
 
-mines nombreuses, en phalanges staminales alternant avec des glandes discales, les deux
-
-persistantes, filets brièvement soudés à la base, anthères filiformes ; ovaire 3 ‒ 5( ‒ 6)-
-
-loculaire, à placentation axile, ovules 2-sériés ; style 1, 5-lobé au sommet. Fruits : baies
-
-ovoïdes ; exocarpe coriace ; mésocarpe jaune. Graines riches en matière grasse, exalbu-
-
-minés, souvent d’une forme irrégulière.
-
-Genre à cinq espèces distribuées du Mali et de la Guinée jusqu’au Rwanda ; deux espèces
-
-au Gabon.
-
-Note taxonomique : L’espèce P. maritima Pierre a été décrite sur du matériel récolté au
-
-Gabon. Cependant, ce matériel concerne seulement un fruit rejeté sur la plage qui n’ap-
-
-partient pas au genre Pentadesma.
-
-B : Bamps (1970a, 1971), Meer (1965), Pellegrin (1959), Stevens (2007).
-
-i B liographie
-
-### Clé des espèces
-
-1. - Feuilles sans ponctuations noires en dessous, à 1( ‒ 2) canaux sécréteurs parallèles
-
-entre chaque paire de nervures latérales ; ovaire en forme de bouteille, à 2 séries
-
-de 7 ‒ 14 ovules par loge ; fruit ovoïde à globuleux, lisse ..................... P. butyracea
-
-- Feuilles avec ponctuations noires bien visibles dessous, à 2 ‒ 4 canaux sécréteurs
-
-parallèles entre chaque paire de nervures latérales ; ovaire globuleux, à 2 séries
-
-de 2 ‒ 6 ovules par loge ; fruit conique, cannelé .................................. P. grandifolia
-
----
+– Leaves with well-visible black punctations below, with 2–4 secretory canals parallel between each pair of lateral veins; ovary globose, with 2 series of 2–6 ovules per locule; fruit conical, grooved .................................. P. grandifolia
 
 ## Species in region
 

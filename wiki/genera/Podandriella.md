@@ -17,15 +17,11 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Herbaceous terrestrial with fleshy roots, in woolly clusters. Stem erect. Leaves in basal rosette, petiolate, limb elliptic-lanceolate, acute. Flowers resupinate, widely open. Dorsal sepal and petals forming a helmet; lateral sepals spreading. Petals entire. Labellum trilobed, narrow, linear to filiform. Spur filiform, swollen near the apex or not. Gynostemium with a long slender anther, only the uppermost part of which produces a sectile pollinium. Stigma with 2 relatively small lobes, parallel, shortly stipitate. – Pl. 19, p. 47.
 
-Herbacée terrestre aux racines charnues, en amas laineux. Tige dressée. Feuilles en rosette basales, pétiolées, limbe elliptique-lancéolé, aigu. Fleurs résupinées, largement ouvertes. Sépale dorsal et les pétales formant un casque ; sépales latéraux étalés. Pétales entiers. Labelle trilobé étroit, linéaire à filiforme. Éperon filiforme, renflé près du sommet ou non. Gynostème avec une longue anthère grêle dont seule la partie la plus haute produit une pollinie sectile. Stigmate à 2 lobes relativement petits, parallèles, courtement stipités. – Pl. 19, p. 47.
+The floral structures and colours resemble those of numerous species of Habenaria. Thus Podandriella is probably pollinated by a nocturnal butterfly.
 
-Les structures et les couleurs florales ressemblent à celle de nombreuses espèces d’Habenaria. Aussi Podandriella est-il probablement pollinisé par un papillon nocturne.
-
-Genre d'environ 5 espèces dont une seule est largement répartie en Afrique tropicale, alors que les autres sont limitées à de petites aires à Principe, au Cameroun et au Congo (Brazzaville).
-
----
+Genus of approximately 5 species, of which only one is widely distributed in tropical Africa, while the others are restricted to small areas in Príncipe, Cameroon and Congo (Brazzaville).
 
 ## Species in region
 

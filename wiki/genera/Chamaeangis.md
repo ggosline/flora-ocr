@@ -17,39 +17,37 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Tige raccourcie ou allongée. Feuilles généralement étroites, charnues ou coriaces, inégalement bilobées au sommet. Inflorescence allongée, multiflore, souvent 2-flore ou plus à chaque nœud. Fleurs
+Stem shortened or elongated. Leaves generally narrow, fleshy or coriaceous, unequally bilobed at the apex. Inflorescence elongated, multiflorous, often 2-flowered or more at each node. Flowers
 
 ---
 
-PL. 196. – Aerangis biloba (Lindl.) Schltr. : A, éperon, ovaire, pédicelle et bractée florale ; B, labelle ; C, sépale dorsal ; D, pétale ; E, sépale latéral ; F, gynostème, vue de face, anthère enlevée ; G, gynostème, vue latérale, anthère enlevée ; H, feuille ; I-K, extrémités foliares ; L, vue générale ; M, fleur, vue de face (A-J, Chevalier 21660, P ; L-M, ex STEWART, 1979).
-
----
+PL. 196. – Aerangis biloba (Lindl.) Schltr. : A, spur, ovary, pedicel and floral bract ; B, labellum ; C, dorsal sepal ; D, petal ; E, lateral sepal ; F, gynostemium, frontal view, anther removed ; G, gynostemium, lateral view, anther removed ; H, leaf ; I-K, leaf apices ; L, general view ; M, flower, frontal view (A-J, Chevalier 21660, P ; L-M, ex STEWART, 1979).
 
 ---
 
 ---
 
-petites, non résupinées, vertes, jaunes ou orangées. Sépales et pétales dissemblables, souvent charnus, convexes. Labelle entier, sans callus ou avec un petit callus près de la gorge de l'éperon. Éperon généralement allongé, souvent renflé au sommet. Gynostème dressé, court, massif. Rostellum allongé, digitiforme, obtus. Viscidie unique, mince. Tegula double, mince. Rostellum canalicule après retrait du pollinarium. – Pl. 198, p. 423.
+---
 
-Genre d'environ 15 espèces connues d'Afrique tropicale, de Madagascar et des Comores.
+small, non-resupinate, green, yellow or orange. Sepals and petals dissimilar, often fleshy, convex. Labellum entire, without callus or with a small callus near the spur throat. Spur generally elongated, often swollen at the apex. Gynostemium erect, short, massive. Rostellum elongated, digitate, obtuse. Viscidium unique, thin. Tegula double, thin. Rostellum channeled after withdrawal of the pollinarium. – Pl. 198, p. 423.
 
-1. Labelle trilobé au sommet ..... 2
+Genus of approximately 15 known species from tropical Africa, Madagascar and the Comoros.
 
-1'. Labelle entier ..... 3
+1. Labellum trilobed at the apex ..... 2
 
-2. Éperon très renflé dans la moitié apicale ou presque, fleur solitaire à chaque nœud, feuilles grandes, plates ..... 46. 2. Ch. ichneumonea
+1'. Labellum entire ..... 3
 
-2'. Éperon généralement non renflé, 3 fleurs à chaque nœud, feuilles étroites à marges révolutées ..... 46. 1. Ch. gabonensis
+2. Spur very swollen in the apical half or nearly so, flower solitary at each node, leaves large, flat ..... 46. 2. Ch. ichneumonea
 
-3. Éperon non renflé, étroitement cylindrique ..... 46. 4. Ch. odoratissima
+2'. Spur generally not swollen, 3 flowers at each node, leaves narrow with revolute margins ..... 46. 1. Ch. gabonensis
 
-3'. Éperon nettement renflé ..... 5
+3. Spur not swollen, narrowly cylindrical ..... 46. 4. Ch. odoratissima
 
-4. Labelle sans callus, éperon droit, une seule fleur à chaque nœud ..... 46. 3. Ch. lanceolata
+3'. Spur distinctly swollen ..... 5
 
-4'. Labelle avec un callus à la gorge de l'éperon, éperon incurvé, 2 fleurs à chaque nœud ..... 46. 5. Ch. vesicata
+4. Labellum without callus, spur straight, a single flower at each node ..... 46. 3. Ch. lanceolata
+
+4'. Labellum with a callus at the spur throat, spur incurved, 2 flowers at each node ..... 46. 5. Ch. vesicata
 
 ## Species in region
 

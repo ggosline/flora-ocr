@@ -17,45 +17,41 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Herbes grêles dressées, annuelles ou pérennes; racines contenant presque toujours une teinture violacée. Stipules engainantes à plusieurs dents ou lobes effilés. Feuilles linéaires sessiles.
+Slender erect herbs, annual or perennial; roots almost always containing a violet dye. Sheathing stipules with several teeth or tapering lobes. Leaves linear sessile.
 
 ---
 
-Inflorescences terminales corymbiformes ou paniculiformes. Fleurs blanches, roses ou écarlates. Calice à lobes triangulaires ou subulés. Tube de la corolle hypocratériforme. Étamines incluses dans la partie légèrement dilatée du haut du tube. Style glabre à stigmate inférieur aux anthères.
+Terminal corymb-like or panicle-like inflorescences. Flowers white, pink or scarlet. Calyx with triangular or subulate lobes. Corolla tube hypocratériform. Stamens included in the slightly dilated upper part of the tube. Style glabrous with stigma inferior to the anthers.
 
-Fruit globuleux ou ellipsoïde, biloculaire localicide. Graines anguleuses semblables à celles des Oldenlandia.
+Fruit globose or ellipsoid, bilocular loculicidal. Seeds angular similar to those of Oldenlandia.
 
-Espèce type : Kohautia senegalensis Cham. et Schlecht.
+Type species: Kohautia senegalensis Cham. et Schlecht.
 
-Genre largement distribué en Afrique, à Madagascar, et jusqu'en Inde, comprenant une soixantaine d'espèces. Plantes de plein soleil.
+Genus widely distributed in Africa, Madagascar, and as far as India, comprising about sixty species. Plants of full sun.
 
-Une seule espèce est connue du Gabon. D'autres espèces seraient à rechercher parmi celles de la clé ci-dessous qui sont les plus répandues en Afrique.
+Only one species is known from Gabon. Other species should be sought among those in the key below which are the most widespread in Africa.
 
-### CLÉ DES KOHAUTIA
+### KEY TO KOHAUTIA
 
-1. Fruits à pédicelles de (2)10-32 mm de long.
+1. Fruits with pedicels of (2)10-32 mm long.
 
-2. Lobes de la corolle à sommet très aigu..... K. senegalensis.
+2. Corolla lobes with very acute apex..... K. senegalensis.
 
-2'. Lobes de la corolle à sommet obtus.
+2'. Corolla lobes with obtuse apex.
 
-3. Fruits de 4-5 mm de diam.; lobes de la corolle larges de 2-2,5 mm;
+3. Fruits 4-5 mm in diam.; corolla lobes 2-2.5 mm wide; stems and leaves scabrous, plant branched... K. ubangensis Bremek.
 
-tiges et feuilles scabres, plante rameuse... K. ubangensis Bremek.
+3'. Fruits 3-4 mm in diam.; corolla lobes 1 mm wide or less.
 
-3'. Fruits de 3-4 mm de diam.; lobes de la corolle larges de 1 mm ou moins.
+4. Corolla lobes 1-2 mm long; plant branched with leaves sometimes rebordured scabrous..... K. virgata (Willd.) Bremek.
 
-4. Lobes de la corolle longs de 1-2 mm; plante rameuse à feuilles rebordées parfois scabres..... K. ∅irgata (Willd.) Bremek.
+4'. Corolla lobes 3-4.5 mm long; plant barely branched with leaves plane always glabrous.....1. K. kimuenzae.
 
-4'. Lobes de la corolle longs de 3-4,5 mm; plante à peine rameuse à feuilles planes toujours glabres.....1. K. kimuenzae.
+1'. Fruits with pedicels of 1-3 mm long.
 
-1'. Fruits à pédicelles de 1-3 mm de long.
+5. Fruits ellipsoid with calyx lobes of 1-2 mm; corolla lobes 1-2 mm wide..... K. coccinea Royle.
 
-5. Fruits ellipsoïdes à lobes calycinaux de 1-2 mm; lobes de la corolle de 1-2 mm de large..... K. coccinea Royle.
-
-5'. Fruits globuleux à lobes calycinaux de 1 mm; lobes de la corolle de 3-6 mm de large..... K. grandiflora DC.
+5'. Fruits globose with calyx lobes of 1 mm; corolla lobes 3-6 mm wide..... K. grandiflora DC.
 
 ---
 

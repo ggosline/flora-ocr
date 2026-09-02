@@ -17,8 +17,6 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 ≠ Anisotes Lindley ex Meisner, Pl. vasc. gen. 1:117, 2:84 (1838).
 
 = Macrorungia C.B. Clarke, 1. c. F.T.A. 5 : 254 (1899).
@@ -31,25 +29,25 @@ tags: [genus, generated]
 
 ---
 
-Arbrisseaux à feuilles entières.
+Shrubs with entire leaves.
 
-Fleurs rouges, disposées en épis et pourvues de bractées aussi longues ou plus longues que le calice, ovales, à étroite bordure hyaline; bractéoles O ou étroites. 5 sépales largement lancéolés, unis jusqu'à la moitié ou sublibres, colorés. Corolle à tube plus court que le limbe; celui-ci à 2 lèvres, la supérieure faiblement tridentée ou subentière; l'inférieure plus large émarginée. 2 étamines insérées dans le tube de la corolle, à filets glabres longuement exserts : anthères à 2 loges oblongues-obtuses attachées à des hauteurs un peu différentes. Disque en anneau.
+Red flowers, arranged in spikes and provided with bracts as long as or longer than the calyx, ovate, with narrow hyaline margin; bracteoles absent or narrow. 5 broadly lanceolate sepals, united to the middle or nearly free, coloured. Corolla with tube shorter than the limb; the latter with 2 lips, the upper weakly tridentate or nearly entire; the lower broader emarginate. 2 stamens inserted in the corolla tube, with glabrous filaments long-exserted: anthers with 2 oblong-obtuse lobes attached at slightly different heights. Disk annular.
 
-Le fruit est une capsule stipitée à 4 graines; placentas ne se détachant pas élastiquement de la base des loges.
+The fruit is a stipitate capsule with 4 seeds; placentas not detaching elastically from the base of the locules.
 
-Espèce type : A. trisulcus (Forsk.) Nees (= Dianthera trisulca) d'Arabie.
+Type species: A. trisulcus (Forsk.) Nees (= Dianthera trisulca) from Arabia.
 
-Environ 15 espèces d'Afrique et d'Arabie tropicale, et de Madagascar.
+About 15 species from tropical Africa and Arabia, and from Madagascar.
 
-Diffère de Rungia Nees par la forme du calice et de la corolle, et par les caractères du fruit. Les fleurs et surtout l'inflorescence de la seule espèce représentée au Gabon ressemblent beaucoup à celles du genre américain Jacobinia Nees ex Moric., notamment à l'espèce J. carnea (Lindl.) Nicholson, ainsi qu'à Pachystachys coccinea (Aubl.) Nees.
+Differs from Rungia Nees in the form of the calyx and corolla, and in the characters of the fruit. The flowers and especially the inflorescence of the only species represented in Gabon resemble greatly those of the American genus Jacobinia Nees ex Moric., notably the species J. carnea (Lindl.) Nicholson, as well as Pachystachys coccinea (Aubl.) Nees.
 
-La taxinomie de ce genre assez homogène et relativement bien délimité est resté longtemps douteuse; C.B. Clarke a basé la différence avec Anisotes sur la déhiscence élastique des placentas de son genre Macrorungia, les placentas d'Anisotes sensu Lindau n'étant pas déhiscents, et n'a pas admis les genres Himantochilus et Symplectochilus.
+The taxonomy of this genus, which is fairly homogeneous and relatively well delimited, remained doubtful for a long time; C.B. Clarke based the difference with Anisotes on the elastic dehiscence of the placentas of his genus Macrorungia, the placentas of Anisotes sensu Lindau not being dehiscent, and did not accept the genera Himantochilus and Symplectochilus.
 
-Himantochilus Zenkeri Lindau (Bot. Jahrb. 20 : 60, 1894), espèce la plus voisine de la seule gabonaise, H. macrophyllus, décrite en même temps par Lindau, a été transféré dans le genre Anisotes (A. Zenkeri, F.T.A. 5 : 227, 1900) par C.B. Clarke, qui transféra par contre l'Himantochilus macrophyllus Lindau, dans son nouveau genre Macrorungia.
+Himantochilus Zenkeri Lindau (Bot. Jahrb. 20 : 60, 1894), the species most closely related to the only Gabonese one, H. macrophyllus, described at the same time by Lindau, was transferred to the genus Anisotes (A. Zenkeri, F.T.A. 5 : 227, 1900) by C.B. Clarke, who conversely transferred Himantochilus macrophyllus Lindau into his new genus Macrorungia.
 
-L'espèce-type du genre Himantochilus, H. sessiliflorus Benth (Gen. Pl. 2 : 1117, 1876) a été placée elle-même par C.B. Clarke en 1900 dans le genre Anisotes, soit A. sessiliflorus (Benth.) C.B. Clarke.
+The type species of the genus Himantochilus, H. sessiliflorus Benth (Gen. Pl. 2 : 1117, 1876) was itself placed by C.B. Clarke in 1900 in the genus Anisotes, as A. sessiliflorus (Benth.) C.B. Clarke.
 
-Une étude récente du Macrorungia (?) formosissima (Klotzsch) C.B. Clarke (F.T.A. 5 : 255, 1900), et de sa position taxinomique, a amené E. Milne-Redhead à transférer cette espèce dans le genre Anisotes : A. formosissimus (Klotzsch) Milne-Redhead (Mém. N.Y. Bot. Gard. 9 : 25, 1954). Cette espèce
+A recent study of Macrorungia (?) formosissima (Klotzsch) C.B. Clarke (F.T.A. 5 : 255, 1900), and of its taxonomic position, led E. Milne-Redhead to transfer this species to the genus Anisotes: A. formosissimus (Klotzsch) Milne-Redhead (Mém. N.Y. Bot. Gard. 9 : 25, 1954). This species
 
 ## Species in region
 

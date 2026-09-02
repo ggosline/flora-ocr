@@ -16,51 +16,21 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 in Guill. & Perr., Fl. Seneg. tent. 1(4) : 153 (1831).
 
-Arbres ou parfois arbustes , souvent caducifoliés. Feuilles alternes, imparipennées, parfois
+Trees or sometimes shrubs, often deciduous. Leaves alternate, imparipinnate, sometimes 3-foliolate or rarely 1-foliolate; leaflets opposite or subopposite, with indumentum of simple or stellate hairs. Inflorescences subterminal or axillary, sometimes appearing before the leaves, in broad to narrow panicles or in racemes. Flowers unisexual, dioecious, 4-merous. Male flower: sepals imbricate, slightly united at the base; stamens 8, free; pistillode present. Female flower: sepals and petals similar to those of male flowers; small staminodes present; ovary cylindric, with 4 locules of which 2 or 3 are abortive; styles 3 or 4, subterminal, persistent, with terminal capitate stigma. Fruits oblong, ± compressed; mesocarp thin, ± pulpous; endocarp lignified, with 1 or 2 apical opercula. Seeds ± reniform, compressed.
 
-3-foliolées ou rarement 1-foliolées ; folioles opposées ou subopposées, à indument à poils
+Afro-Asian genus with approximately 40 species, half of which in Africa; in Gabon, two species.
 
-simples ou étoilés. Inflorescences subterminales ou axillaires, parfois naissant avant les
+Bibliography
 
-feuilles, en panicules larges à étroites ou en racèmes. Fleurs unisexuées, dioïques , 4-mères.
+Bi: Fernandes & Fernandes (1966), Keay (1958), Kokwaro (1986), Pell et al. (2011), Van der Veken (1960a).
 
-Fleur mâle : sépales imbriqués, légèrement unis à la base ; étamines 8, libres ; pistillode pré-
+### Key to species
 
-sent. Fleur femelle : sépales et pétales semblables à ceux des fleurs mâles ; petits staminodes
+1. - Young branches and inflorescences glabrous or with very short simple hairs, distinctly appressed; male and female inflorescences narrowly paniculate to racemose, up to 18 cm in length ......................................................................... L. glabrescens
 
-présents ; ovaire cylindrique, à 4 loges dont 2 ou 3 avortées ; styles 3 ou 4, subterminaux,
-
-persistants, à stigmate capité terminal. Fruits oblongs, ± comprimés ; mésocarpe mince, ± pul -
-
-peux ; endocarpe lignifié, à 1 ou 2 opercules apicaux. Graines ± réniformes, comprimées.
-
-Genre afro-asiatique avec environ 40 espèces dont la moitié en Afrique ; au Gabon, deux
-
-espèces.
-
-Bi : Fernandes & Fernandes (1966), Keay (1958), Kokwaro (1986), Pell et al. (2011), Van
-
-B liographie
-
-der Veken (1960a).
-
-### Clé des espèces
-
-1. - Jeunes rameaux et inflorescences glabres ou à poils simples très courts, nettement
-
-apprimés ; inflorescences mâles et femelles étroitement paniculées à racémeuses,
-
-jusqu’à 18 cm de longueur ......................................................................... L. glabrescens
-
-- Jeunes rameaux souvent, mais les inflorescences toujours, à petits poils étoilés ;
-
-inflorescences mâles largement paniculées, jusqu’à 20 cm de longueur et 8 cm de
-
-largeur, les femelles étroitement paniculées, ≤ 13 cm de longueur ............ L. welwitschii
+- Young branches often, but inflorescences always, with small stellate hairs; male inflorescences broadly paniculate, up to 20 cm in length and 8 cm in width, female ones narrowly paniculate, ≤ 13 cm in length ............ L. welwitschii
 
 ## Species in region
 

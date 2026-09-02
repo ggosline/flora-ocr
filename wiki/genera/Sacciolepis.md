@@ -16,21 +16,17 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 Nash, Britt. Man. Bot.: 89.
 
-Herbes généralement pérennes à feuilles linéaires.
+Generally perennial herbs with linear leaves.
 
-Inflorescences spiciformes denses. Épillets ovales-elliptiques. Glume inférieure courte, parfois très réduite, la supérieure renflée sur le dos, à 5-13 nervures. Fleur inférieure mâle ou neutre, lemma à dos droit, paléa hyaline, bicarénée ou plus ou moins réduite. Fleur supérieure hermaphrodite, lemma coriace, convexe, à 5 nervures peu visibles; paléa carénée à 2 nervures, recouverte latéralement par les rebords de la lemma. Deux lodicules, trois étamines.
+Inflorescences spike-like, dense. Spikelets oval-elliptic. Lower glume short, sometimes very reduced, the upper glume swollen on the back, with 5-13 nerves. Lower floret male or neuter, lemma with straight back, palea hyaline, bicarinate or more or less reduced. Upper floret hermaphrodite, lemma coriaceous, convex, with 5 scarcely visible nerves; palea carinate with 2 nerves, covered laterally by the margins of the lemma. Two lodicules, three stamens.
 
-Les Sacciolepsis sont souvent des plantes semi-aquatiques.
+Sacciolepsis are often semi-aquatic plants.
 
-Aucune espèce du genre n'a encore été signalée au Gabon, mais la présence d'au moins d'une entre elles : S. interrupta Stapf, est très probable. Elle serait à rechercher en bordure des cours d'eau calmes ou des lacs. C'est certainement une bonne espèce fourragère.
+No species of the genus has yet been recorded from Gabon, but the presence of at least one of them: S. interrupta Stapf, is very probable. It should be sought along the margins of calm watercourses or lakes. It is certainly a good forage species.
 
-C'est une herbe pérenne à chaumes spongieux épais; inflorescence cylindrique dense atteignant 30 cm de long et 8 mm de diamètre; épilets de 3 mm de long, glume inférieure hyaline à 5 ou 7 nervures anastomosées en dessous du sommet; glume supérieure à 9 nervures; fleur inférieure neutre à paléa souvent supprimée. (S. interrupta Stapf, F.T.A. IX : 757 (1920), = Panicum interruptum, Willd. Sp. Pl. I : 341 (1797)).
-
----
+It is a perennial herb with thick spongy culms; inflorescence cylindric, dense, reaching 30 cm long and 8 mm in diameter; spikelets 3 mm long, lower glume hyaline with 5 or 7 nerves anastomosing below the apex; upper glume with 9 nerves; lower floret neuter with palea often suppressed. (S. interrupta Stapf, F.T.A. IX: 757 (1920), = Panicum interruptum, Willd. Sp. Pl. I: 341 (1797)).
 
 ## Species in region
 

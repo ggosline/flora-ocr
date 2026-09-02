@@ -17,35 +17,29 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Shrubs to large trees with rounded, glabrous branchlets. Leaves petiolate, 3-10-jugate; leaflets ovate, entire, glabrous.
 
-Arbustes à grands arbres à rameaux arrondis, glabres. Feuilles pétiolées,
+Inflorescences terminal, formed of racemes of biparious cymes. Flowers ♂ and ♀ united in the same inflorescence, regular (African species) or irregular (Madagascan species); calyx with 5 ovate-lanceolate sepals, slightly imbricate, covered on both surfaces as well as the bracts with fasciculate-stellate hairs forming a whitish indumentum; sepals finally caducous; corolla absent or formed of 1-2 small petals, or else 4-5 puberulent petals; disk regular (African species) or irregular (Madagascan species); androecium of 7-8 stamens with filaments geniculate in bud, then straight and measuring twice the length of the sepals, red; ovary with 3 grooves and 3 locules, tomentose with stellate hairs.
 
-3-10-juguées; folioles ovales, entières, glabres.
+Capsule winged, 3-lobed, turbinate, attenuate at the base, with 3 more or less inflated locules; dehiscence loculicidal by 3 valves; pericarp thin, interior glossy yellow or red, exterior white-tomentose or nearly glabrous, brown or blue with unicellular hairs. Embryo spiral, fleshy.
 
-Inflorescences terminales formées de grappes de cymes bipares. Fleurs ♂ et ♀ réunies dans une même inflorescence, régulières (espèces africaines) ou irrégulières (espèces malgaches); calice à 5 sépales ovales-lancéolés, légèrement imbriqués, couvert sur les 2 faces ainsi que les bractées de poils fasciculés-étoilés formant un indument blanchâtre; sépales finalement caducis; corolle nulle ou formée de 1-2 petits pétales, ou encore 4-5 pétales pubérulents; disque régulier (espèces africaines) ou irrégulier (espèces malgaches); androcée de 7-8 étamines à filets géniculés dans le bouton, puis droits et mesurant le double des sépales, rouges; ovaire à 3 sillons et 3 loges, tomentum à poils étoilées :
+TYPE SPECIES: Majidea zanguebarica Kirk.
 
-Capsule ailée à 3 lobes, turbinée, atténuée à la base, à 3 loges ± enflées; déhiscence localicide par 3 valves; péricarpe mince, intérieur brillant jaune ou rouge, extérieur blanc-tomenteux ou presque glabre, brun ou bleu avec poils unicellulaires. Embryon spiralé, charnu.
+RADLKOFER attributes to this genus 5 species grouped into 2 sections:
 
-ESPÈCE-YTPE : Majidea zanguebarica Kirk.
+1. Flowers regular; petals absent or 1-2; disk regular obscurely pentagonal (Section Goniodiscus RADLK., Bot. Jahrb. 56: 255, 1920).
 
-RADLKOFER attribue à ce genre 5 espèces groupées en 2 sections :
+2. Leaves 3-7-jugate; leaflets oblong-lanceolate, 5-9 × 2-3 cm, almost symmetrical, base cuneate, membranaceous; petals absent or 1-2..... 1. M. fosteri.
 
-1. Fleurs régulières; pétales nuls ou 1-2; disque régulier obscurément pentagonal (Section Goniodiscus RADLK., Bot. Jahrb. 56 : 255, 1920).
+2'. Leaves up to 11-jugate; leaflets ovate-lanceolate, 8-11 × 2-3 cm, asymmetrical, base rounded, inner side broader; texture firmer; petals absent..... M. multijuga Radlkofer.
 
-2. Feuilles 3-7-juguées; folioles oblongues-lancéolées, 5-9 × 2-3 cm, presque symétriques, base en coin, membraneuses; pétales nuls ou 1-2..... 1. M. fosteri.
+2''. Leaves 5-10-jugate; lower leaflets ovate, upper ones oblong, 4-13 × 2-3 cm, with obtuse acumen, subcoriaceous; petals absent; 2 seeds per locule. M. cyanosperma (Chevalier) Radlkofer.
 
-2'. Feuilles jusqu'à 11-juguées; folioles ovales-lancéolées, 8-11 × 2-3 cm, asymétriques, base arrondie, côté intérieur plus large; consistance plus ferme; pétales nuls..... M. multijuga Radlkofer.
+1'. Flowers irregular; disk lateral, reniform; 4 petals (Section Harpulliopsis RADLK., l.c. 256).
 
----
+3. Capsule hairy (Tanzania)..... M. zanguebarica Kirk.
 
-2"'. Feuilles 5-10-juguées; folioles inférieures ovales, les supérieures oblongues, 4-13 × 2-3 cm, à acumen obtus, subcoriaces; pétales nuls; 2 graines par loge. M. cyanosperma (Chevalier) Radlkofer.
-
-1'. Fleurs irrégulières; disque latéral, réniforme; 4 pétales (Section Harpulliopsis RADLK., l.c. 256).
-
-3. Capsule velue (Tanzanie)..... M. zanguebarica Kirk.
-
-3'. Capsule glabre (Madagascar)..... M. madagascariensis Baillon.
+3'. Capsule glabrous (Madagascar)..... M. madagascariensis Baillon.
 
 ## Species in region
 

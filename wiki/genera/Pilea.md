@@ -17,63 +17,11 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Herbs annual or perennial, generally monoecious, sometimes weakly ligneous at the base (elsewhere in small shrubs), but generally delicate with all parts fleshy and aqueous, generally glabrous or glabrescent, but often with glandular cells scattered in the epidermis or with small emergences topped with minute reddish glands; cystoliths linear, rarely (not in Gabon) punctiform; stems generally translucent and turgescent. Stipules intrapetiolary, fused to the apex, persistent or sometimes caducous. Leaves opposite, rarely (not in Gabon) alternate, those of a pair often unequal in size and shape; petiole generally developed, often unequal in the same pair of leaves; blade generally elliptic to ovate, base cuneate or rounded, apex acuminate, margin entire, serrate or dentate; venation almost symmetrically triplinear, with a variable number of upper lateral veins, tertiary network generally scalariform. Inflorescences axillary, rarely (not in Gabon) terminal, unisexual or bisexual, sessile or pedunculate, in dichotomous cymes or in dense capitate glomerules. Male flowers (2–)4(–5)-merous; tepals fused at the base and bearing a (sub)apical cornute appendage; pistillode small or absent. Female flowers generally 3-merous; tepals unequal, the median the largest and appendiculate beneath the apex, the lateral ones distinctly smaller; staminodes in the form of a hyaline scale, lanceolate and oppositepetals, initially folded inward and pressed against the ovary and young achene, with the maturity of the latter and the senescence of the stipe, the hyaline scale suddenly moves and ejects the achene by a mechanism comparable to that of stamens suddenly reflexed in male flowers; ovary erect, ovoid or weakly laterally compressed; stigma sessile, penicillate. Fruit ovoid or weakly laterally compressed.
 
-Herbes annuelles ou pérennes , généralement monoïques , parfois faiblement ligneuses à la
+One genus with at least 250 species in all tropical regions and most subtropical regions, except Australia and New Zealand. In Gabon, a single species, but see notes.
 
-base (ailleurs en petits arbustes), mais généralement délicates avec toutes les parties char-
-
-nues et aqueuses , généralement glabres ou glabrescentes, mais souvent avec des cellules glan -
-
-duleuses dispersées dans l’épiderme ou avec des petites émergences surmontées de glandes
-
-rougeâtres minuscules ; cystolithes linéaires , rarement (non au Gabon) ponctiformes ; tiges
-
-généralement translucides et turgescentes. Stipules intrapétiolaires, soudées jusqu’au sommet,
-
-persistantes ou parfois caduques. Feuilles opposées, rarement (non au Gabon) alternes, celles
-
-d’une paire souvent inégales en taille et forme ; pétiole généralement développé, souvent
-
-inégal dans la même paire de feuilles ; limbe généralement elliptique à ovale, base cunéée ou
-
-arrondie, sommet acuminé, marge entière, serrée ou dentée ; nervation presque symétrique -
-
-ment triplinerve, avec un nombre variable de nervures latérales supérieures, réseau tertiaire
-
-généralement scalariforme. Inflorescences axillaires, rarement (non au Gabon) terminales,
-
-unisexuées ou bisexuées, sessiles ou pédonculées, en cymes dichotomiques ou en glomérules
-
-capités denses. Fleurs mâles (2–)4(–5)-mères ; tépales soudés à la base et portant un appen -
-
-dice cornu (sub)sommital ; pistillode petit ou absent. Fleurs femelles généralement 3 - mères ;
-
-tépales inégaux, le médian le plus grand et appendiculé sous le sommet, les latéraux
-
-nettement plus petits ; staminodes sous forme d’ une écaille hyaline, lancéolées et opposi-
-
-tépales, initialement pliées vers l’intérieur et pressées contre l’ovaire et le jeune akène,
-
-avec la maturité de ce dernier et le dépérissement du stipe, l’écaille hyaline se meut
-
-soudainement et éjecte l’akène par un mécanisme comparable à celui des étamines sou-
-
-dainement réfléchies dans les fleurs mâles ; ovaire dressé, ovoïde ou faiblement comprimé
-
-latéralement ; stigmate sessile, pénicillé. Fruit ovoïde ou faiblement comprimé latéralement.
-
-Un genre avec au moins 250 espèces dans toutes les régions tropicales et la plupart des régions
-
-subtropicales, à l’exception de l’Australie et de la Nouvelle-Zélande. Au Gabon, une seule
-
-espèce, mais voir notes.
-
-Notes : Pilea angolensis (Hiern) Rendle, proche de P. sublucens , est connue des pays au nord, à l’est et au
-
-sud du Gabon ; on la trouve souvent sur des affleurements rocheux, en savane arborée et en forêt claire.
-
-Comme elle pourrait être présente au Gabon, elle est incluse dans la clé ci-dessous. Des spécimens jeunes
+Notes: Pilea angolensis (Hiern) Rendle, close to P. sublucens, is known from countries north, east and south of Gabon; it is often found on rocky outcrops, in savanna woodland and open forest. As it could be present in Gabon, it is included in the key below. Young specimens
 
 ## Species in region
 

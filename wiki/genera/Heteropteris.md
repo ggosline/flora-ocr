@@ -16,23 +16,17 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 in HUMBOLDT, BONPLAND & KUNTH, Nov. Gen. Sp. Pl. 5 : 163 (1822).
 
-Arbustes ou lianes. Feuilles opposées, simples, pétiolées, entières, présentant généralement des glandes à la base du limbe ou sur le pétiole; stipules indistinctes.
+Shrubs or lianes. Leaves opposite, simple, petiolate, entire, generally presenting glands at the base of the blade or on the petiole; stipules indistinct.
 
-Inflorescences axillaires et terminales, généralement en panicules. Bractées et bractéoles persistantes. Fleurs pédicellées. Sépales 5, ayant chacun 2 glandes dorsalement, généralement 1 sépale sans glande. Pétales 5, onguiculés, généralement entiers et glabres. Étamines 10, inégales, parfois subégales, à filets soudés à la base; anthères basifixes; ovaire 3-loculaire; 5 styles libres; 3 stigmates terminaux en position latérale vers l'intérieur.
+Inflorescences axillary and terminal, generally in panicles. Bracts and bracteoles persistent. Flowers pedicellate. Sepals 5, each with 2 glands dorsally, generally 1 sepal without gland. Petals 5, unguiculate, generally entire and glabrous. Stamens 10, unequal, sometimes subequal, with filaments connate at the base; anthers basifixed; ovary 3-locular; 5 free styles; 3 terminal stigmas in lateral position towards the interior.
 
-Fruits formés de 1-3 samares à aile dorsale suborbiculaire.
+Fruits formed of 1–3 samaras with suborbicular dorsal wing.
 
-### Genre essentiellement d'Amérique tropicale avec 80 espèces dont une africaine.
+### Genus essentially of tropical America with 80 species, one of which is African.
 
-ESPÈCE-TYPE : Heteropteris purpurea (L.) Kunth, Antilles.
-
----
-
----
+TYPE SPECIES: Heteropteris purpurea (L.) Kunth, Antilles.
 
 ## Species in region
 

@@ -17,21 +17,19 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Arbres ou arbustes inermes, à grandes stipules ± foliacées ou membraneuses, rapidement caduques au niveau des inflorescences. Nervure médiane de la feuille souvent bifurquée avant le sommet du limbe. Nervures intersecondaires subparallèles. Inflorescences terminales ou axillaires, simples ou composées de capitules multiflores compacts, sphériques, à réceptacle hirsute; bractées nombreuses autour des fleurs sessiles; elles sont persistentes jusqu'à la fructification. Bouton à sommet ové-conique pubescent (sauf chez M. inermis); préfloraison valvaire. Calice tubuleux, tronqué ou ± lobé, généralement glabre, persistant sur le fruit. Corolle assez courte à 5 lobes charnus. Anthères apiculées. Style long, cylindrique, dépassant beaucoup la corolle, coiffé par un stigmate mitriforme ové ou oblong. Ovaires libres entre eux sur le réceptacle inflorescentiel, à 2 loges; nombreux ovules ascen-
+Trees or shrubs unarmed, with large stipules ± foliaceous or membranous, rapidly caducous at the level of the inflorescences. Midvein of the leaf often bifurcate before the apex of the limb. Intersecondary veins subparallel. Inflorescences terminal or axillary, simple or composed of multiflorous compact spherical capitula, with hirsute receptacle; numerous bracts around the sessile flowers; they are persistent until fruiting. Bud with ovate-conical pubescent apex (except in M. inermis); valvate prefloration. Calyx tubular, truncate or ± lobed, generally glabrous, persistent on the fruit. Corolla rather short with 5 fleshy lobes. Anthers apiculate. Style long, cylindric, much exceeding the corolla, topped by a mitriform ovate or oblong stigma. Ovaries free from each other on the inflorescence receptacle, with 2 locules; numerous ascending ovules—
 
 ---
 
-Espèce type, M. parvifolia (Roxb.) Korth., de l'Himalaya.
+Type species, M. parvifolia (Roxb.) Korth., from the Himalayas.
 
-Env. 16 espèces d'Afrique, d'Asie et des Philippines; 4 espèces africaines dont deux gabonaises. Les espèces non gabonaises sont M. inermis (Willd.) Korth., arbuste sahélo-soudanais à feuilles petites pour le genre, et M. rubrostipulata (K. Schum.) Havil., petit arbre des régions montagneuses est-africaines.
+Approximately 16 species from Africa, Asia and the Philippines; 4 African species of which two from Gabon. The non-Gabonese species are M. inermis (Willd.) Korth., a Sahelo-Sudanian shrub with small leaves for the genus, and M. rubrostipulata (K. Schum.) Havil., a small tree from East African mountainous regions.
 
-### CLÉ DES ESPÈCES
+### KEY TO THE SPECIES
 
-1. Calices tubuleux sur plus de 1 mm, tronqués ou faiblement sinueux, tout à fait glabres, érigés dans le fruit; inflorescence ayant généra-lement moins de 10 capitules; stipules en général pubescentes, assez fortement sur toute la moitié inférieure..... 1. M. stipulosa.
+1. Calyces tubular for more than 1 mm, truncate or weakly sinuous, quite glabrous, erect in the fruit; inflorescence generally having fewer than 10 capitula; stipules generally pubescent, rather strongly over the entire lower half..... 1. M. stipulosa.
 
-1'. Calices très brièvement tubuleux, ± profondément sinueux, à lobes nettement ciliés, courbés vers l'intérieur dans le fruit; inflorescences ayant ordinairement plus de 10 capitules; stipules en général glabres
+1'. Calyces very briefly tubular, ± deeply sinuous, with lobes distinctly ciliate, curved towards the inside in the fruit; inflorescences ordinarily having more than 10 capitula; stipules generally glabrous
 
 ## Species in region
 

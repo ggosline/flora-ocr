@@ -17,23 +17,21 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Liane ligneuse inerme entièrement glabre et dépourvue de caoutchouc. Liège du rhytidome recouvrant une mince couche orange (comme divers Salacia) ; bois cylindrique à structure normale. Feuilles simples pétiolées opposées ; stipules réduites.
+Woody, unarmed vine entirely glabrous and lacking rubber. Cork of the rhytidome covering a thin orange layer (as in various Salacia); cylindrical wood with normal structure. Simple, petiolate, opposite leaves; stipules reduced.
 
 ---
 
-PL. 52. — Simicratea welwitschii (Oliv.) Hallé : 1, détail de feuille ; 2, bouton ; 3, fleur, diam. 5,5 mm ; 4, fleur que par dessous ; 5, 6, périanthes anormaux; 7, coupe florale, diam. du disque 3 mm ; 8,9, étamine ; 10, intérieur du jeune bouton ; 11, coupe de l’ovaire ; 12, fruit juvénile ; 13, fruit ; 14, méricarpe de 6 cm ; 5, insertion d’une valve ; 16, méricarpe détaché vu par dessous ; 17, fruit après la chute des valves et des graines ; 18, socle placentaire d’un méricarpe en vue abaxiale ; 19, idem en vue apicale ; 20-22, graines longues de 36-50 mm ; 23, coupe distale de graine ; 24, embryon de 16 mm ; 25-28, galles de fruits, diam. env. 15-20 mm (1, Le Testu 8072 ; 2-8, 12, 13, Hallé N. 490, 490 bis, Côte-d’Ivoire ; 9-11, Annet 373 : 14, 16, 22, Mangenot, s.n., Côte-d’Ivoire ; 15, 18, 19, Adam 23573, Sierra Leone ; 17, 20, 23, 24, Klaine 266 ; 21, Chevalier 16975, Côte-d’Ivoire ; 25, Le Testu 8159 ; 26, Gossweiler 9261, Angola ; 27, Onochie FHI 34061, Nigeria ; 28, Baldwin 10006, Liberia).
+PL. 52. — Simicratea welwitschii (Oliv.) Hallé: 1, detail of leaf; 2, bud; 3, flower, diam. 5.5 mm; 4, flower seen from below; 5, 6, abnormal perianths; 7, floral section, diam. of disc 3 mm; 8, 9, stamen; 10, interior of young bud; 11, section of ovary; 12, juvenile fruit; 13, fruit; 14, mericarp of 6 cm; 15, insertion of a valve; 16, detached mericarp seen from below; 17, fruit after the fall of valves and seeds; 18, placental base of a mericarp in abaxial view; 19, same in apical view; 20-22, seeds 36-50 mm long; 23, distal section of seed; 24, embryo of 16 mm; 25-28, fruit galls, diam. approx. 15-20 mm (1, Le Testu 8072; 2-8, 12, 13, Hallé N. 490, 490 bis, Côte-d'Ivoire; 9-11, Annet 373; 14, 16, 22, Mangenot, s.n., Côte-d'Ivoire; 15, 18, 19, Adam 23573, Sierra Leone; 17, 20, 23, 24, Klaine 266; 21, Chevalier 16975, Côte-d'Ivoire; 25, Le Testu 8159; 26, Gossweiler 9261, Angola; 27, Onochie FHI 34061, Nigeria; 28, Baldwin 10006, Liberia).
 
 ---
 
-Cymes bipares ; préfloraison quinconciale à pièces périanthaires couvrantes au sommet du bouton. Fleurs pédicellées à périanthe semblable à celui de divers Salacia. Disque disciforme étalé à fossette centrale portant un étroit androgynophore en colonne. Étamines 3 à filet rubané ; anthère transversalement déhiscente ; pollen en monades tricolporées réticulées. Ovaire supère à paroi mince, à 3 loges biovulées, à style atténué et stigmate subponctiforme.
+Biparious cymes; quincuncial prefloration with perianth pieces covering at the apex of the bud. Pedicellate flowers with perianth similar to that of various Salacia. Disc disciform, spreading, with a central pit bearing a narrow columnar androgynophore. Stamens 3 with ribbon-like filament; anther dehiscing transversely; pollen in reticulate tricolporate monads. Ovary superior with thin wall, 3-locular with 2 ovules per locule, with attenuate style and subpunctiform stigma.
 
-Fruit à 3 méricarpes se dissociant en 6 valves caduques. Graines ailées 2 par méricarpe, à raphé transalaire ; cotylédons adhérents ou non entre eux ; radicule très réduite. Graines insérées sur un socle biauriculé qui enchâsse les tubulures placentaires.
+Fruit with 3 mericarps dissociating into 6 caducous valves. Winged seeds 2 per mericarp, with transalary raphe; cotyledons adherent or not to one another; radicle very reduced. Seeds inserted on a biauricular base that encloses the placental tubules.
 
-### Genre monotypique de l'Afrique continentale humide.
+### Monotypic genus of humid continental Africa.
 
-Étymologie hybride, de simius, singe, et cratos, pouvoir, par analogie avec Simirestis et Hippocratea.
+Hybrid etymology, from simius, monkey, and cratos, power, by analogy with Simirestis and Hippocratea.
 
 ## Species in region
 

@@ -17,67 +17,23 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 in Benth. & Hook.f., Gen. pl. 1 : 423 (1862).
 
 Emiliomarcelia T.Durand & H.Durand, Syllog. fl. congol. : 115 (1909).
 
-Arbres atteignant 35(–40) m de hauteur, arbustes ou lianes ; exsudat peu, blanc à rouge,
+Trees reaching 35(–40) m in height, shrubs or lianes; exudate scanty, white to red, black when dried; indument of vegetative parts sometimes with stellate hairs. Leaves alternate, imparipinnate or sometimes 3-foliolate, rarely 1-foliolate, often concentrated in tufts at the apex of branchlets or trunk; leaflets with smooth or ± granular-pustulate lamina. Inflorescences axillary, terminal or cauline, in panicles or sometimes in spikes or racemes. Flowers unisexual, dioecious, fairly small (≤ 8 mm in length), generally 4-merous, often mixed with a few 5-merous flowers, or rarely 6-merous, sessile or pedicellate, the female flowers generally less numerous than the male and generally with longer pedicel; sepals united at the base; petals free, narrowly imbricate or valvate, erect to spreading or reflexed at anthesis; stamens and staminodes equal in number to the petals, incurved in the bud; disc present, glabrous or with variable indument, in the male flowers sometimes with a small pistillode in the middle, in the female flowers situated below the ovary, sometimes cupuliform; ovary 1-locular, with 1 pendulous ovule, glabrous or with variable indument; stigmas 3 or 4, sessile or stipitate.
 
-noir lorsque seché ; indument des parties végétatives parfois à poils étoilés. Feuilles alternes,
+Fruits drupaceous, spherical to ovoid or ellipsoidal, sometimes turbinate, with rostrate or obtuse apex; mesocarp fleshy, ± fibrous; endocarp thin, ± coriaceous. Seed ovoid to ellipsoidal, sometimes slightly compressed. Seedling with plano-convex cotyledons; epicotyl 8–12 cm, terminated by 2 simple opposite leaves.
 
-imparipennées ou parfois 3-foliolées, rarement 1-foliolées, souvent concentrées en touffes au
+Genus of tropical Africa with about thirty known species, distributed from Guinea to Kenya in the East, to Angola and Mozambique in the South; in Gabon, 18 species.
 
-sommet des rameaux ou du tronc ; folioles à limbe lisse ou ± granuleux-pustuleux. Inflores -
-
-cences axillaires, terminales ou caulinaires, en panicules ou parfois en épis ou racèmes. Fleurs
-
-unisexuées, dioïques, assez petites (≤ 8 mm de longueur), en général 4-mères , souvent mé-
-
-langées à quelques fleurs 5-mères, ou rarement 6-mères, sessiles ou pédicellées, les femelles
-
-en général moins nombreuses que les mâles et en général à pédicelle plus long ; sépales unis
-
-à la base ; pétales libres, étroitement imbriqués ou valvaires , dressés à étalés ou réfléchis à
-
-l’anthèse ; étamines et staminodes en même nombre que les pétales, incurvées dans le bouton ;
-
-disque présent, glabre ou à indument variable, chez les fleurs mâles parfois à un petit pistillode
-
-au milieu, chez les fleurs femelles situé sous l’ovaire, parfois cupuliforme ; ovaire 1-loculaire ,
-
-à 1 ovule pendant , glabre ou à indument variable ; stigmates 3 ou 4, sessiles ou stipités .
-
-Fruits drupacés, sphériques à ovoïdes ou ellipsoïdales, parfois turbinés, à sommet rostré ou
-
-obtus ; mésocarpe charnu, ± fibreux ; endocarpe mince, ± coriace. Graine ovoïde à ellipsoï-
-
-dale, parfois légèrement comprimée. Plantule à cotylédons plans-convexes ; épicotyle 8–12
-
-cm, terminé par 2 feuilles simples et opposées.
-
-Genre d’Afrique tropicale avec une trentaine d’espèces connues, répandues de la Guinée
-
-jusqu’au Kenya à l’Est, à l’Angola et le Mozambique au Sud ; au Gabon, 18 espèces.
-
-Notes : T. arborea (A.Chev.) A.Chev., connu du Cameroun, figure dans la clé ci-dessous, mais n’est pas
-
-traité ; il est possible qu’il soit présent au Gabon.
+Notes: T. arborea (A.Chev.) A.Chev., known from Cameroon, appears in the key below, but is not treated; it is possible that it is present in Gabon.
 
 ---
 
 28 Frans J. BRETELER
 
-Aujourd’hui, notre connaissance de ce genre est très incomplète. Ceci est illustré par les 4 espèces, T.
-
-bracteata, T. debruijnii, T. nyangensis et T. wilksii , qui sont connues d’une seule récolte. En plus, il
-
-existe un bon nombre de récoltes, partiellement fertiles, qui n’ont pas pu être identifiées à l’espèce (voir
-
-aussi la note sous T. oliveri ). Par exemple, l’échantillon Le Testu 8261 ¸ de l’Ogooué-Lolo a été nommé
-
-provisoirement T. psilantha (Breteler 2004 : 126). La plante est proche de T. bijuga , mais en diffère par
+Today, our knowledge of this genus is very incomplete. This is illustrated by the 4 species, T. bracteata, T. debruijnii, T. nyangensis and T. wilksii, which are known from a single collection. Moreover, there exist a good number of collections, partially fertile, which could not be identified to species (see also the note under T. oliveri). For example, the specimen Le Testu 8261, from Ogooué-Lolo, was provisionally named T. psilantha (Breteler 2004 : 126). The plant is close to T. bijuga, but differs from it by
 
 ## Species in region
 

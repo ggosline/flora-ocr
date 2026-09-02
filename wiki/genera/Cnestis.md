@@ -17,35 +17,33 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+TYPE SPECIES: C. polyphylla Lam. (see LEMMENS, l.c.: 175).
 
-ESPÈCE-TYPE : C. polyphylla Lam. (voir LEMMENS, l.c. : 175).
+Lianas, shrubs (generally lianescent) or rarely small trees. Branches cylindrical, sometimes terminated by a tendril-like extremity.
 
-Lianes, arbustes (en général lianescents) ou rarement petits arbres. Rameaux cylindriques, parfois terminés par unc extrémité en forme de vrille.
+Leaves imparipinnate; leaflets opposite or not, entire, often asymmetrical and often acuminate.
 
-Feuilles imparipennées ; folioles opposées ou non, entières, souvent asymétriques et souvent acuminées.
+Inflorescences axillary, generally more than one at the axil of the same leaf, sometimes pseudo-terminal (and then axillate by reduced leaves), in panicles, in racemes or in fascicles on the main stem.
 
-Inflorescences axillaires, en général plus d'une à l'aisselle d'une même feuille, parfois pseudo-terminales (et alors axillées par des feuilles réduites), en panicules, en racèmes ou en fascicules sur la tige principale.
+Flowers pentamerous, heterostylous, often heterodistylous, rarely ± homostylous (C. ferruginea). Pedicels distinctly articulate but not so in species with fasciculate flowers. Sepals ± free, in imbricate (most often narrowly) or valvate prefloration. Petals fairly short, equalling or exceeding the sepals, free, white, yellowish or tinged with red, in imbricate prefloration, glabrous or with hairs near the base of the outer face. Stamens 10 (2 × 5), the epipetalous ones very often shorter than the episepalous; filaments shortly connate at the base or free, glabrous. Pistil: carpels 5, free; base of styles often pubescent.
 
-Fleurs pentamères, hétérostylées, souvent hétérodistylées, rarement ± homostylées (C. ferruginea). Pédicelles nettement articulés mais non ainsi chez les espèces à fleurs fasciculées. Sépales ± libres, en préfloraison imbriquée (le plus souvent étroitement) ou valvaire. Pétales assez courts, égalant ou dépassant les sépales, libres, blancs, jaunâtres ou teintés de rouge, en préfloraison imbriquée, glabres ou avec des poils près de la base de la face externe. Étamines 10 (2 × 5), les épétales très souvent plus courtes que les épéspales ; filets courtemment réunis à la base ou libres, glabres. Pistil : carpelles 5, libres ; base des styles souvent pubescente.
+Fruit formed of 1–5 reddish follicles, terminating or not in a beak, opening longitudinally along a ventral suture, with dense tomentum with sometimes long stiff hairs on the outer face and the inner face being velvety and sometimes also furnished with stiff hairs.
 
-Fruit formé de 1-5 follicules rougeâtres, se terminant ou non par un bec, s'ouvrant longitudinalement selon une suture ventrale, avec un tomentum dense avec parfois de longs poils raides sur la face externe et l'interne étant veloutée et parfois aussi munie de poils raides.
+Seeds solitary, attached at the base of the follicle, ovoid, their base presenting a yellow to red sarcotesta surrounding the hilum; testa ordinarily black and shiny; albumen present, abundant; radicle apical, cotyledons fine with veins.
 
-Graines solitaires, fixées à la base du follicule, ovoïdes, leur base présentant un sarcotesta jaune à rouge entourant le hile ; testa ordinairement noir et luisant ; albumen présent, abondant ; radicule apicale, cotylédons fins avec des nervures.
+Genus comprising 13 species practically limited to tropical Africa (only one in Asia), occurring generally in rainforests, sometimes in savanna; 7 representatives are known from Gabon.
 
-Genre comprenant 13 espèces pratiquement limitées à l'Afrique tropicale (une seule en Asie), se rencontrant en général en forêts ombrophiles, parfois en savane ; on en connaît 7 représentants au Gabon.
-
-Nous présentons ici trois clés. Avec un matériel complet, disposant précisément à la fois des fleurs et des fruits, l'identification est bien plus sûre; il est en effet parfois problématique de déterminer du matériel ne portant que les fleurs ou que les fruits.
+We present here three keys. With complete material, having precisely both flowers and fruits, identification is much more reliable; it is indeed sometimes problematic to determine material bearing only flowers or only fruits.
 
 ---
 
-### A - Pour les spécimens avec fleurs et fruits
+### A – For specimens with flowers and fruits
 
-1. Face externe du follicule avec des poils épineux très courts et de longs poils urticants facilement caducés ; pétales égalant ou dépassant les sépales.
+1. Outer face of follicle with very short spiny hairs and long urticating hairs easily deciduous; petals equalling or exceeding the sepals.
 
-2. Fleurs groupées en fascicules sur des épaississements nouveux des rameaux.
+2. Flowers grouped in fascicles on new thickenings of the branches.
 
-3. Feuilles 6-10-juguées ; foliole terminale 4,5-7,5 × 2-3,5 cm ; folioles glabres dessus sauf sur la médiane ; follicule en forme de crochet avec un bec large ..... 6. C. uncata
+3. Leaves 6–10-jugate; terminal leaflet 4.5–7.5 × 2–3.5 cm; leaflets glabrous above except on the midvein; follicle hook-shaped with a broad beak ..... 6. C. uncata
 
 ## Species in region
 

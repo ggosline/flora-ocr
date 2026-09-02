@@ -17,13 +17,11 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Perennial or annual herbs with slender culms.
 
-Herbes pérennes ou annuelles à chaumes minces.
+Panicles branched with finely capillary branches. Spikelets oblong, laterally compressed, with straight or slightly curved back. Lower glume reduced, membranous or hyaline, with 0 or 1 nervure, the upper as long as the spikelet, with 5 or 7 nervures, truncate or emarginate and sometimes awned in the sinus. Lower floret generally neuter and reduced to a lemma similar to the upper glume, rarely awnless. Palea sometimes present, bicarinate. Upper floret early caducous, lemma obtuse or bifid, finely membranous or hyaline, with 1, 3 or 5 faintly marked nervures. Palea binerved. Two lodicules, 3 stamens, free styles.
 
-Panicles ramiées à branches finement capillaires. Épillets oblongs, latéralement comprimés, à dos droit ou légèrement incurvé Glume inférieure réduite, membraneuse ou hyaline, à ou 1 nervure, la supérieure aussi longue que l'épillet, à 5 ou 7 nervures, tronquée ou émarginée et parfois aristée dans le sinus. Fleur inférieure généralement neutre et réduite à une lemma semblable à la glume supérieure, rarement mutique. Paléa parfois présente, bicarénée. Fleur supérieure précocement caduque, lemma obtuse ou bifide, finement membraneuse ou hyaline, à 1, 3 ou 5 nervures peu marquées. Paléa binerviée. Deux lodicules, 3 étanines, styles libres.
-
-Une quinzaine d'espèces, surtout d'Afrique. Une seule est signalée au Gabon, où elle paraît d'ailleurs rare.
+About fifteen species, mainly from Africa. Only one is recorded from Gabon, where it appears moreover to be rare.
 
 ## Species in region
 

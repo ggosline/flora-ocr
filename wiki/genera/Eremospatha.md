@@ -17,67 +17,27 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Solitary or caespitose lianes, polycarpic. Leaves pinnate, bifid in juveniles; leaf sheath devoid of spines; ochrea present, entire, horizontally or obliquely cut, or drying and splitting longitudinally; knee [swelling of the leaf sheath] absent or present, oblong; petiole present in juveniles, generally absent or very short in adults, spinous; blade with 5 to 30 leaflets linear, lanceolate to rhomboidal, apex broadly or narrowly premorse to apiculate, margin generally spinous, the basal ones strongly reduced, reflexed over the leaf sheath; cirrus furnished with spine-like leaflets 1.5–4 cm, with rachis devoid of spines or with short spines less than 5 mm.
 
-Lianes solitaires ou cespiteuses, polycarpiques . Feuilles pennées, bifides chez les juvéniles ;
+Inflorescence branched once; peduncle included within the leaf sheath, base not fused to the internode, without bracts; prophyll absent; rachis longer than the peduncle, with bracts 1–20 mm in length; flowers in bisexual dyads. Flowers: calyx weakly 3-lobed; corolla 3-lobed, lobes short, valvate; stamens 6, united in an epipetalous ring, filament short, anther short, ± medifix, sagittate, latrorse; ovary 3-locular, with 1 ovule per locule, covered with scales; style trigonous. Fruits 1–3.5 cm in length, apical stigmatic remnants, with 1 or 2 seeds; epicarp covered with reflexed scales arranged in longitudinal rows, red-brown at maturity; mesocarp fleshy at maturity. Seeds hemispherical to ellipsoid.
 
-gaine foliaire dépourvue d’épines ; ochréa présente, entière, horizontalement ou oblique -
+Genus comprising 14 species in West and Central Africa, one of which is found as far as Zambia; in Gabon, eight species are known.
 
-ment coupée, ou séchant et coupée longitudinalement ; genou [renflement de la gaine foliaire]
+Bibliography
 
-absent ou présent , oblong ; pétiole présent chez les juvéniles, généralement absent ou très
+Bourobou et al. (2016), Dransfield (1986, 2010), Dransfield et al. (2008), Faye et al. (2014), Sunderland (2007, 2012).
 
-court chez les adultes , épineux ; limbe avec 5 à 30 folioles linéaires, lancéolées à rhomboï -
+### Key to the species
 
-dales, sommet largement ou étroitement prémorse à apiculé, marge généralement épineuse, les
+1. - Leaflets irregularly distributed along the rachis, grouped by 2 or 3 ........................................................................................................... E. quinquecostulata
 
----
+- Leaflets regularly distributed along the rachis, solitary ...................................... 2
 
-basales fortement réduites, réfléchies sur la gaine foliaire ; cirrhe muni de folioles-épines
+2. - Knee clearly present below the insertion of the petiole ...................................... 3
 
-de 1,5–4 cm, à rachis dépourvue d’épines ou avec des épines courtes de moins de 5 mm.
+- Knee absent .................................................................................................................. 6
 
-Inflorescence ramifiée une fois ; pédoncule inclus dans la gaine foliaire, la base non fusionnée
-
-à l’entrenœud, sans bractées ; préfeuille absente ; rachis plus long que le pédoncule, avec des
-
-bractées de 1–20 mm de longueur ; fleurs en diades bisexuées . Fleurs : calice faiblement
-
-3-lobé ; corolle à 3 lobes courts, valvaires ; étamines 6, unies en un anneau épipétale, filet
-
-court, anthère courte, ± médifixe, sagittée, latrorse ; ovaire 3-loculaire, avec 1 ovule par loge,
-
-couvert d’écailles ; style trigone. Fruits 1–3,5 cm de longueur, restes stigmatiques apicaux,
-
-avec 1 ou 2 graines ; épicarpe couvert d’écailles réfléchies et en rangs longitudinaux, rouge-
-
-brune à maturité ; mésocarpe charnu à maturité. Graines hémisphériques à ellipsoïdes.
-
-Genre comprenant 14 espèces en Afrique de l’Ouest et Centrale dont une se rencontre jusqu’en
-
-Zambie ; au Gabon, huit espèces sont connues.
-
-Bi : Bourobou et al. (2016), Dransfield (1986, 2010), Dransfield et al. (2008), Faye et al.
-
-B liographie
-
-(2014), Sunderland (2007, 2012).
-
-### Clé des espèces
-
-1. - Folioles irrégulièrement distribuées le long du rachis, regroupées par 2 ou 3
-
-........................................................................................................... E. quinquecostulata
-
-- Folioles régulièrement distribuées le long du rachis, solitaires ...................................... 2
-
-2. - Genou clairement présent en dessous de l’insertion du pétiole ...................................... 3
-
-- Genou absent .................................................................................................................. 6
-
-3. - Ochréa en forme de V, se fendant longitudinalement ; folioles rhomboïdales à
-
-trapézoïdales .......................................................................................... E. wendlandiana
+3. - Ochrea V-shaped, splitting longitudinally; leaflets rhomboidal to trapezoidal .......................................................................................... E. wendlandiana
 
 ## Species in region
 

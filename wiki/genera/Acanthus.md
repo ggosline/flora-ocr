@@ -17,23 +17,19 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Herbaceous or suffrutescent plants. Leaves deeply divided, more rarely entire, often spinescent.
 
-Plantes herbacées ou suffrutescentes. Feuilles profondément divisées, plus rarement entières, souvent spinescentes.
+Inflorescences in terminal ± dense spikes, provided with bracts and bracteoles. Flowers subsessile, generally violet, pink or white. Flowers irregular; calyx with 4 sepals, the anterior and posterior much larger. Corolla hypogynous, imbricate, with short tube and a single lip, the lower, with 3 ± deep divisions; upper lip obliterated; 4 stamens inserted on the corolla, included, didynamous, with unilocular anthers, introrse. Ovary with 2 locules, 2 ovules per locule, ascending; style simple; bifid at the apex. Fruit a loculicidal capsule with 4 seeds.
 
-Inflorescences en épis terminaux ± denses, munies de bractées et de bractéoles. Fleurs subsessiles, généralement violettes, roses ou blanches. Fleurs irrégulières; calice à 4 sépales, l'antérieur et le postérieur beaucoup plus grands. Corolle hypogyne, imbriquée, à tube court à une seule lèvre, l'inférieure, à 3 divisions ± profondes; lèvre supérieure oblitérée; 4 étanines insérées sur la corolle, incluses, didymanes, à anthères uniloculaires, introrses. Ovaire à 2 loges, 2 ovules par loge, ascendants; style simple; bifide au sommet. Fruit capsulaire localicide à 4 graines.
+Type species: Acanthus mollis L., Mediterranean region.
 
-Espèce type : Acanthus mollis L., région méditerranéenne.
+### Subtropical countries and Tropics of the Old World. Approximately 20 species.
 
-### Pays subtropicaux et Tropiques de l'Ancien Monde. Environ 20 espèces.
+1. Leaves more or less deeply pinnatifid, dentate-lobed, or in young individuals, subentire, but always in this case slightly denticulate towards the base; bracteoles spinose. 1. A. montanus.
 
-1. Feuilles plus ou moins profondément pennatifides, dentées-lobées, ou chez les jeunes individus, subentières, mais toujours dans ce cas un peu dentelées vers la base; bractéoles épineuses. 1. A. montanus.
-
-1'. Feuilles subentières; très peu ou non dentées; bractéoles sans épines..
+1'. Leaves subentire; very little or not denticulate; bracteoles without spines.
 
 2. A. latisepalus.
-
----
 
 ## Species in region
 

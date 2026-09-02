@@ -17,43 +17,41 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Pseudobulbes fusiformes, cylindriques, ellipsoïdes ou ovoïdes, comprimés ou non. Feuilles une à beaucoup, de formes variées. Inflorescence terminale, ramifiée ou non, uni- ou multiflore. Fleurs de tailles variées, minuscules à grandes, non résupinées. Sépales et pétales dissemblables. Sépales latéraux obliquement triangulaires, parfois sacciformes ou munis d'un éperon à la base. Labelle articulé, trilobé ou entier, sans callus ou plus souvent avec un callus. Pied de la colonne très saillant. Pollinies 4,
+Pseudobulbs fusiform, cylindric, ellipsoid or ovoid, compressed or not. Leaves one to many, of varied forms. Inflorescence terminal, branched or not, uni- or multiflorous. Flowers of varied sizes, minute to large, non-resupinate. Sepals and petals dissimilar. Lateral sepals obliquely triangular, sometimes saccate or provided with a spur at the base. Labellum articulate, trilobed or entire, without callus or more often with a callus. Column foot very prominent. Pollinia 4,
 
 ---
 
-PL. 108. – Structure du gynostème du genre Polystachya Hook. : A, C, vue de dessous ; B, G, vue latérale ; D, E, pollinaire, aspects divers ; F, anthère, vue de dessous ; H, gynostème, anthère enlevée, vue de face (A-H, ex SZLACHETKO, 2003).
+PL. 108. – Structure of the gynostemium of the genus Polystachya Hook. : A, C, view from below; B, G, lateral view; D, E, pollinaria, various aspects; F, anther, view from below; H, gynostemium, anther removed, frontal view (A-H, ex SZLACHETKO, 2003).
 
 ---
 
-comprimées dorsi- ventralement, superposées, ellipsoïdes, de taille inégale. Tegula unique. Viscidie unique. – Pl. 108, p. 245.
+dorsiventrally compressed, superposed, ellipsoid, of unequal size. Tegula unique. Viscidium unique. – Pl. 108, p. 245.
 
-Grand genre pantropical d'environ 200 espèces, essentiellement africain. Le genre très variable sous la plupart de ses aspects demande une révision taxonomique. La seule monographie publiée il y a un certain temps par Kraenzlin (1926) n'est plus du tout satisfaisante aujourd'hui, du fait du très grand nombre d'espèces décrites depuis.
+Large pantropical genus of approximately 200 species, essentially African. The genus, highly variable in most of its aspects, requires taxonomic revision. The only monograph published some time ago by Kraenzlin (1926) is no longer satisfactory today, due to the very large number of species described since.
 
-### CLÉ DES SECTIONS
+### KEY TO SECTIONS
 
-1. Deux touffes, parfois serrées l'une contre l'autre, rarement une seule, de papilles charnues au centre du labelle ou près du sommet ..... 1. sect. Elasticae (p. 246)
+1. Two tufts, sometimes pressed close together, rarely a single tuft, of fleshy papillae at the centre of the labellum or near the apex ..... 1. sect. Elasticae (p. 246)
 
-1'. Labelle avec une seule crête papilleuse, quand elle existe, près de sa base ou au centre ..... 2
+1'. Labellum with a single papillous crest, when it exists, near its base or at the centre ..... 2
 
-2. Pseudobulbes bien comprimés dorsi-ventralement, couchés sur le substrat ..... 2. sect. Affines (p. 250)
+2. Pseudobulbs well compressed dorsiventrally, lying on the substrate ..... 2. sect. Affines (p. 250)
 
-2'. Pseudobulbes verticaux, généralement plus longs que larges ..... 3
+2'. Pseudobulbs vertical, generally longer than wide ..... 3
 
-3. Feuille unique au sommet du pseudobulbe ..... 3. sect. Cultriformes (p. 254)
+3. Single leaf at the apex of the pseudobulb ..... 3. sect. Cultriformes (p. 254)
 
-3'. Feuilles plusieurs ..... 4
+3'. Leaves several ..... 4
 
-4. Tiges jonciformes, épaissies en pseudobulbes très peu différenciés ..... 4. sect. Caulescentes (p. 260)
+4. Stems rushlike, thickened into very poorly differentiated pseudobulbs ..... 4. sect. Caulescentes (p. 260)
 
-4'. Tige épaissie, au moins à la base, en pseudobulbes ..... 5
+4'. Stem thickened, at least at the base, into pseudobulbs ..... 5
 
-5. Pseudobulbes superposés ..... 5. sect. Superpositae (p. 274)
+5. Pseudobulbs superposed ..... 5. sect. Superpositae (p. 274)
 
-5'. Pseudobulbes plus ou moins fasciculés ..... 6
+5'. Pseudobulbs more or less fasciculate ..... 6
 
-6. Inflorescence ramifée ..... 6. sect. Polystachya (p. 276)
+6. Inflorescence branched ..... 6. sect. Polystachya (p. 276)
 
 6'. Inflorescence simple ..... 7. sect. Calluniflorae (p. 290)
 
@@ -61,7 +59,7 @@ Grand genre pantropical d'environ 200 espèces, essentiellement africain. Le gen
 
 Rep. Sp. Nov. Regni Veg., Beih. 39 : 97 (1926).
 
-Plantes souvent aphylles au moment de la floraison. Inflorescence non ramifiée, assez dense, multiflore. Fleurs petites à moyennes. Labelle défléchi juste au-dessus de la base, pourvu de deux coussins de poils au centre ou près du sommet, avec parfois une nette carène à la base.
+Plants often leafless at the time of flowering. Inflorescence non-branched, rather dense, multiflorous. Flowers small to medium. Labellum deflexed just above the base, provided with two cushions of hairs at the centre or near the apex, sometimes with a distinct keel at the base.
 
 ## Species in region
 

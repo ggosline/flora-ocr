@@ -19,41 +19,27 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Perennial or annual erect herbs, linear leaves, ligule reduced to a line of hairs.
 
-Herbes pérennes ou annuelles dressées, feuilles linéaires,
+Spikelets linear-lanceolate, yellow or brown, most often solitary or grouped in pairs; glumes persistent on the inflorescence after the fall of flowers, generally with 3 nerves, coriaceous, glabrous or bearing tuberculate hairs at the base; the lower one measures between 1/4 and 3/4 of the length of the spikelet; the upper one is approximately as long as the spikelet.
 
-ligule réduite à une ligne de poils.
+Lower flower male or neuter, lemma similar to the upper glume, palea membranous, shorter, bicarinate. Upper flower hermaphrodite, with an elongate and bearded, acute, truncate or emarginate callus. Lemma coriaceous, glabrous or pubescent, with 5 or 9 nerves, shortly bifid; awn geniculate in the sinus, pubescent in its lower part; palea linear, bicarinate. Two lodicules; 2 or 3 stamens; ovary glabrous with free styles.
 
-Épillets linéaires lancéolés, jaunes ou bruns, le plus souvent solitaires ou groupés par 2; glumes persistantes sur l'inflorescence après la chute des fleurs, généralement à 3 nervures, coriaces, glabres ou portant des poils tuberculés à la base; l'inférieure mesure entre 1/4 et 3/4 de la longueur de l'épillet; la supérieure est à peu près aussi longue que l'épillet.
+Genus important by the number of species and the place they sometimes occupy in savanna vegetation. Loudetia are indeed often dominant in the herbaceous layer. Apart from certain hydrophilous species, Loudetia characterize usually poor, very sandy or lateritic soils; they are mediocre forage plants.
 
-Fleur inférieure mâle ou neutre, lemma semblable à la glume supérieure, paléa membraneuse, plus courte, bicarénée. Fleur supérieure hermaphrodite, à callus allongé et barbu, aigu, tronqué ou émarginé. Lemma coriace, glabre ou pubescente, à 5 ou 9 nervures, courtement bifide; arête géniculée dans le sinus, pubescente
+4 species are recorded in Gabon.
 
----
+1. Lemma of the upper flower densely pubescent white; callus truncate; panicles dense up to 60 cm long; tall herbs of marshy zones.....1. L. flammida.
 
-dans sa partie inférieure; paléa linéaire, bicarénée. Deux lodicules;
+1'. Lemma of the upper flower glabrous or shortly pubescent.
 
-2 ou 3 étamines; ovaire glabre à styles libres.
+2. Panicle loose, elongate, reaching at least a dozen centimetres.
 
-Genre important par le nombre des espèces et la place qu'elles occupent parfois dans la végétation des savanes. Les Loudetia sont en effet souvent dominants dans le tapis herbacé. Mises à part certaines espèces hydrophiles, les Loudetia caractérisent d'habitude des sols pauvres, très sableux ou latéritiques; ce sont des plantes fourragères médiocres.
+3. Callus truncate or slightly notched at the base, spikelets 8 to 12 mm long; tall savanna herbs, with panicles reaching 50 cm or more in length, with verticillate or subverticillate spreading branches; leaf blades reaching about fifty centimetres in length and about fifteen millimetres in width.
 
-4 espèces sont signalées au Gabon.
+3'. Callus distinctly bidentate; panicle reaching about forty centimetres in length with ascending branches; leaf blades often rolled reaching several decimetres in length and 5 to 6 mm in width; medium herb, on very leached sandy zones..... 3. L. simplex.
 
-1. Lemma de la fleur supérieure longuement pubescente blanche; callus
-
-tronqué; panicules denses jusqu'à 60 cm de long; grandes herbes
-
-de zones marécageuses.....1. L. flammida.
-
-1'. Lemma de la fleur supérieure glabre ou courtement pubescente.
-
-2. Panicule lâche, allongée, atteignant au moins une dizaine de centimètres.
-
-3. Callus tronqué ou légèrement échanéré à la base, épilets de 8 à 12 mm de long; grandes herbes de savane, à panicules pouvant dépasser 50 cm de long, à branches verticillées ou subverticillées étalées; limbes foliaires atteignant une cinquantaine de centimètres de long et une quinzaine de millimètres de large.
-
-3'. Callus nettement bidenté; panicule atteignant une quarantaine de centimètres de long à branches ascendantes; limbes foliaires souvent enroulés atteignant plusieurs décimètres de long et 5 à 6 mm de large; herbe moyenne, sur zones sableuses très lessivées..... 3. L. simplex.
-
-2'. Panicule spiciforme très dense d'environ 2,5 cm de long ou moins; petite herbe sur sols sableux lessivés..... 4. L. Vanderystii.
+2'. Panicle spiciform very dense about 2.5 cm long or less; small herb on leached sandy soils..... 4. L. vanderystii.
 
 LEPTASPIS
 
@@ -117,7 +103,7 @@ OTTOCHLOA
 
 45. 2. brevifolium
 
----
+<<<---SECTION-BREAK--->>>
 
 45. 3. congoense
 

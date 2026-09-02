@@ -17,23 +17,21 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Medium-sized trees or small shrubs. Stipules caducous or not. Leaves alternate or pseudo-whorled, more or less pubescent, at least when young. Hairs stellate, more rarely peltate, peltate scales, elongated-barbed or simple. Petiole not canaliculate, often long. Leaves simple, pinnate or digitinerved, digitilobate or entire, or compound digitately pinnatifid leaflets or entire.
 
-Arbres moyens ou arbustes de petite taille. Stipules caduques ou non. Feuilles alternes ou pseudoverticillées plus ou moins pubescentes, au moins dans le jeune âge. Poils stellés, plus rarement stellés, peltés, en écailles peltées, allongés-barbelés ou simples. Pétiole non canaliculé, souvent long. Feuilles simples, pinnati ou digitinervées, digitilobées ou entières, ou feuilles composées digitées à folioles entières ou pinnatilobées.
+Inflorescences axillary or cauline, pauci- or multiflorous, sessile, in short cymes or in racemes. Pedicel most often articulated between the extremities. Flowers of two types, successively or simultaneously on the same individual; some ♂ with rudimentary atrophied ovary, others ♀, with androecium only slightly reduced surrounding the base of a voluminous ovary. Calyx white, yellow, pink, red or dark garnet, of very variable size within the same species, more or less campanulate, with 3–6, more often 5 lobes with induplicate valvate prefloration; internal margins of the lobes unfolding more or less and petaloid. Corolla absent.
 
-Inflorescences axillaires ou caulinaires, pauci ou multiflores, sessiles, en courtes cymes ou en grappes. Pédicelle le plus souvent articulé entre les extrémités. Fleurs de deux types, successivement ou simultanément sur le même pied; les unes ♂ à ovaire rudimentaire atrophié, les autres ♀, à androcée seulement un peu réduit entourant la base d'un ovaire voumineux. Calice blanc, jaune, rose, rouge ou grenat foncé, de taille très variable dans une même espèce, plus ou moins campanulé, à 3-6, plus souvent 5 lobes à préfloraison valvaire indupliquée; marges internes des lobes se déployant plus ou moins et pétaloïdes. Corolle absente.
-
-Fleur ♂ à androphore souvent étroit portant une couronne simples ou double de loges polliniques; dans le premier cas la ligne d'insertion des loges est variable, circulaire, sinueuse ou lobée en phalanges. L'androcée est tantôt en forme de disque, tantôt en cupule autour de l'ovaire rudimentaire atrophié. Nombre d'anthères variable de 5 à 20 environ, à raison de 2 loges polliniques juxtaposées ou 2 paires de loges superposées par anthère. Fleur ♀ à ovaire 3-10 carpellé (assez fréquemment 3, 5 ou 10 carpelles), vêtu de poils stellés, parfois d'écailles peltées; les carpelles sont plus ou moins largement adhérents entre eux, soit jusqu'au centre, soit autour d'une cavité axiale pubescente. 1-30 ovules bisériés par carpelle.
+♂ flower with androphore often narrow bearing a simple or double corona of pollenic locules; in the first case the line of insertion of the locules is variable, circular, sinuous or lobed in phalanges. The androecium is sometimes in the form of a disc, sometimes in a cupule around the rudimentary atrophied ovary. Number of anthers variable from 5 to approximately 20, with 2 pollenic locules juxtaposed or 2 pairs of superposed locules per anther. ♀ flower with 3–10 carpelled ovary (fairly frequently 3, 5 or 10 carpels), clothed in stellate hairs, sometimes peltate scales; the carpels are more or less widely adherent to one another, either to the centre, or around a pubescent axial cavity. 1–30 ovules biseriate per carpel.
 
 ---
 
-Fruit composé d'un nombre variable de follicules le plus souvent indéhiscents et s'ouvrant seulement au sol, rarement largement déhiscents et persistants. Graine non ailée dépourvue d'albumen, à insertion placentaire variable, à légums minces ou épais, fibreux ou non. Gemmule parfois velue. Radicule dirigée vers le hile. Cotylédons 2, rarement jusqu'à 6, charnus; germination hypogée ou subhypogée.
+Fruit composed of a variable number of follicles most often indehiscent and opening only on the ground, rarely widely dehiscent and persistent. Seed not winged, devoid of albumen, with variable placental insertion, with thin or thick, fibrous or non-fibrous tegmen. Gemmule sometimes hairy. Radicle directed towards the hilum. Cotyledons 2, rarely up to 6, fleshy; hypogeous or subhypogeous germination.
 
-Espèce type : Cola acuminata.
+Type species: Cola acuminata.
 
-Le genre Cola faisait primitivement parti des Sterculia; on en a décrit près de 140 espèces, toutes africaines; 33 au moins vivent au Gabon. Ce sont pour la plupart, des arbustes de la strate inférieure des forêts denses.
+The genus Cola was originally part of Sterculia; approximately 140 species have been described, all African; at least 33 live in Gabon. These are for the most part shrubs of the lower stratum of dense forests.
 
-Nous nous sommes souvent écartés des conceptions de Schumann (1900) pour les divisions de ce genre. Parmi les espèces à feuilles simples, nous n'avons trouvé aucun caractère d'unité qui nous permette de conserver le sous-genre Haplocola; les sous-divisions de ce sous-genre sont en outre très artificiellement fondées sur le caractère entier ou lobé des feuilles. L'hétérophyllie est normale chez de très nombreux Cola; ce caractère n'est étayé par aucun autre et nous paraît devoir être rejeté.
+We have often deviated from the concepts of Schumann (1900) in the divisions of this genus. Among species with simple leaves, we have found no unifying character that would allow us to retain the subgenus Haplocola; the subdivisions of this subgenus are moreover founded very artificially on the character of entire or lobed leaves. Heterophylly is normal in very many Cola; this character is supported by no other and seems to us to warrant rejection.
 
 ## Species in region
 

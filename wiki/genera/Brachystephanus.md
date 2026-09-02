@@ -16,25 +16,23 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 ### Chr. G. Nees von Esenbeck, in DC, Prodr. II : 511 (1841).
 
-Plantes herbacées souvent rampantes ou radicantes à la base. Feuilles pétiolées, simples.
+Herbaceous plants often creeping or rooting at the base. Leaves petiolate, simple.
 
-Inflorescences terminales en épis ou panicules, munies de bractées libres et de bractéoles. Calice régulier, non involucré, à 5 sépales. Corolle à tube très long et grêle, à limbe bilobé, lèvres subégales, courtes, subentières. 2 étamines longuement exsertes; anthères uniloculaires, dorsifixes, obtuses; pas de staminodes. Stigmate entier, aigu.
+Inflorescences terminal in spikes or panicles, provided with free bracts and bracteoles. Calyx regular, not involucrate, with 5 sepals. Corolla with very long and slender tube, with bilobed limb, lips subequal, short, subentire. 2 stamens long-exserted; anthers unilocular, dorsifixed, obtuse; no staminodes. Stigma entire, acute.
 
-Capsule entourée des sépales persistants et accrescents au moins dans certaines espèces, à cloison adhérente aux valves.
+Capsule surrounded by persistent sepals and accrescent at least in some species, with partition adhering to the valves.
 
-Espèce type : Br. Lyallii Nees, de Madagascar.
+Type species: Br. Lyallii Nees, from Madagascar.
 
-Environ 10 espèces de Madagascar et d'Afrique tropicale.
+Approximately 10 species from Madagascar and tropical Africa.
 
 ---
 
-1. Inflorescence finement pubescente, en forme d'épi, composée de plusieurs pseudo-fascicules ou inflorescences partielles; entrenœuds d'environ 1-2 cm de long; bractées et bractéoles lancéolées-linéaires de 3-4 mm de long; fleurs et inflorescences partielles plus ou moins sessiles; corolle d'environ 4 cm de long..... 1. B. jaundensis.
+1. Inflorescence finely pubescent, spike-shaped, composed of several pseudo-fascicles or partial inflorescences; internodes approximately 1–2 cm long; bracts and bracteoles lanceolate-linear 3–4 mm long; flowers and partial inflorescences more or less sessile; corolla approximately 4 cm long..... 1. B. jaundensis.
 
-1'. Inflorescence pubescente-glanduleuse, en forme de panicule composé de beaucoup de petites inflorescences partielles; entrenœuds ne dépassant pas 1 cm de long; bractées et bractéoles subulées, minus-cules, atteignant 2 mm de long au maximum; inflorescences partielles dans ces petites branches jusqu'à 2 cm de long; fleurs nettement pédicellées, à pédicelle de 1-3 mm de long; corolle de 2-2,5 cm de long ..... 2. B. Mannii
+1'. Inflorescence pubescent-glandular, panicle-shaped composed of many small partial inflorescences; internodes not exceeding 1 cm long; bracts and bracteoles subulate, minute, reaching 2 mm long at maximum; partial inflorescences on these small branches up to 2 cm long; flowers clearly pedicellate, with pedicel 1–3 mm long; corolla 2–2.5 cm long ..... 2. B. Mannii
 
 ## Species in region
 

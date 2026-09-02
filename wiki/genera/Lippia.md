@@ -17,63 +17,61 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Shrubs or subshrubs erect or perennial herbs, most often pyrophytes with large
 
-Arbustes ou arbrisseaux érigés ou herbes pérennes, le plus souvent pyrophytes avec de grands
+woody rhizomes, unarmed. Leaves opposite or in whorls of 3 or 4, rarely alternate;
 
-rhizomes ligneux, inermes . Feuilles opposées ou en verticilles de 3 ou 4, rarement alternes ;
+limb entire, lobed or crenate, often scabrous above. Inflorescences spiciform, dense, gen-
 
-limbe entier, lobé ou crénelé, souvent scabre dessus. Inflorescences spiciformes, denses, gé-
+erally short and several grouped in axillary or terminal heads, often elongate and
 
-néralement courtes et plusieurs groupées en tête axillaire ou terminale, souvent allongés et
+cylindrical in fruit, with 1 to several heads per axil; peduncle naked, with dense scars.
 
-cylindriques en fruit, avec 1 à plusieurs têtes par aisselle ; pédoncule nu, à cicatrices denses.
+Flowers: calyx campanulate or compressed and with two keels or two wings, truncate and with two
 
-Fleurs : calice campanulé ou comprimé et à deux carènes ou à deux ailes, tronqué et à deux
+or four teeth; corolla white, greenish or cream yellow, often darker inside,
 
-ou quatre dents ; corolle blanche, verdâtre ou jaune crème, souvent plus foncée à l’intérieur,
+rarely magenta, with cylindrical or funnel-shaped tube, straight or curved, limb weakly
 
-rarement magenta, à tube cylindrique ou en forme d’entonnoir, droit ou incurvé, limbe faible-
+2-lipped, oblique, lower lip larger than upper; stamens 4, didynamous,
 
-ment 2-labié, oblique, lèvre inférieure plus grande que la supérieure ; étamines 4 , didynames,
+inserted in the corolla tube, included or slightly exserted, anthers with parallel
 
-insérées dans le tube de la corolle, incluses ou légèrement exsertes, anthères à thèques paral-
+thecae; ovary with 1 carpel and 2 uniovulate locules; style generally short, with oblique
 
-lèles ; ovaire à 1 carpelle et 2 loges uniovulé ; style généralement court, à stigmate oblique
+or recurved stigma. Fruits in dry schizocarp, enveloped by the compressed calyx; mericarps 2,
 
-ou recourbé. Fruits en schizocarpe sec , enveloppés par le calice comprimé ; méricarpes 2, se
+separating at maturity; pericarp papyraceous or hard. Seeds without endosperm.
 
-séparant à maturité ; péricarpe papyracé ou dur. Graines sans endosperme.
+A genus of approximately 140 species and native to (sub)tropical America and Africa;
 
-Un genre d’environ 140 espèces et originaire de l’Amérique (sub)tropicale et de l’Afrique ;
+introduced and naturalized in Asia and Australia. In Gabon, two species.
 
-introduit et naturalisé en Asie et en Australie. Au Gabon, deux espèces.
+Notes: In the literature, L. adoensis Hochst. ex Walp. is sometimes recorded from Gabon. However, this is
 
-Notes : Dans la littérature, L. adoensis Hochst. ex Walp. est parfois signalé au Gabon. Cependant, il s’agit
-
-très probablement d’une identification erronée de spécimens de L . multiflora (voir Sebsebe Demissew
+most probably an erroneous identification of specimens of L. multiflora (see Sebsebe Demissew
 
 1994).
 
-B : Atkins (2004), Cardoso et al. (2011), Fernandes (1986, 2005), Huber et al. (1963), Sosef
+Bibliography
 
-i B liographie
+B: Atkins (2004), Cardoso et al. (2011), Fernandes (1986, 2005), Huber et al. (1963), Sosef
 
 et al. (2006), Verdcourt (1992).
 
-### Clé des espèces
+### Key to species
 
-1. - Face supérieure du limbe foliaire lisse au toucher ; tige subglabre ou à poils épars
+1. - Upper surface of leaf limb smooth to the touch; stem subglabrous or with scattered
 
-apprimés de façon rigide et d’autres glanduleux ; bractées secondaires à sommet
+hairs appressed rigidly and others glandular; secondary bracts with apex
 
-obtus à courtement mucroné ..................................................................... L . multiflora
+obtuse to shortly mucronate ..................................................................... L. multiflora
 
-- Face supérieure du limbe foliaire rugueuse au toucher ; tige généralement munie de
+- Upper surface of leaf limb rugose to the touch; stem generally with
 
-poils apprimés, sans poils glanduleux ; bractées florales à sommet aigu à acuminé
+appressed hairs, without glandular hairs; floral bracts with apex acute to acuminate
 
-....................................................................................................................... L . rugosa
+....................................................................................................................... L. rugosa
 
 ## Species in region
 

@@ -17,23 +17,21 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Lianes élevées de diamètre médiocre, env. ☐ cm, à tiges ± flexueuses. Stipules petites, en couronne brièvement tubuleuse, interpétiolaires apiculées. Pétiole moyen ou long à canal étroit. Feuilles égales ou inégales suivant les paires: l'anisophyllie est extrême à certains nœuds. Appareil végétatif entièrement glabre.
+Tall lianas of moderate diameter, approx. ☐ cm, with stems ± flexuous. Stipules small, in a briefly tubular crown, interpetiolar apiculate. Petiole medium to long with narrow channel. Leaves equal or unequal according to the pairs: anisophylly is extreme at certain nodes. Vegetative apparatus entirely glabrous.
 
 ---
 
-Inflorescences terminales sur des rameaux latéraux, protogynes. Boutons allongés subaigus. Fleurs ở ou ∅ groupées en cymes ± contractées, protandres. Préfloraison contortée. Filet très court inséré vers le 1/4 ou 1/5 inférieur de l'anthère; cette dernière est fendue au-dessous de son point d'attache; connectif saillant au-dessus du sommet des loges. Pollen en tétrades tétraédriques. Disque annulaire d'env. 1 mm d'épaisseur. Ovaire à 2 loges; ovules très nombreux. L'hétérostylie est souligné par le volume du stigmate de la fleur ∅.
+Inflorescences terminal on lateral branches, protogynous. Buds elongate subacute. Flowers ♀ or ∅ grouped in ± contracted cymes, protandrous. Prefloration contorted. Filament very short inserted toward the 1/4 or 1/5 lower portion of the anther; the latter is split below its point of attachment; connective prominent above the apex of the locules. Pollen in tetrahedral tetrads. Annular disc approx. 1 mm thick. Ovary with 2 locules; ovules very numerous. Heterostyly is underlined by the volume of the stigma of the ∅ flower.
 
-Fruit charnu à pulpe molle dépassant 5-10 cm de longueur; graines nombreuses, un peu anguleuses, dépassant 2 mm, albu-minées. Embryon droit à cotylédons orbiculaires aussi longs ou moins longs que la radicule.
+Fleshy fruit with soft pulp exceeding 5–10 cm in length; seeds numerous, somewhat angular, exceeding 2 mm, albuminous. Embryo straight with orbicular cotyledons as long as or shorter than the radicle.
 
-Espèce type : Atractogyne gabonii Pierre. A. bracteata seconde espèce du genre est également gabonaise; très voisine, elle n'est pas sensiblement différente en herbier par ses caractères végétatifs.
+Type species: Atractogyne gabonii Pierre. A. bracteata second species of the genus is also Gabonese; very close, it is not substantially different in herbarium by its vegetative characters.
 
-### CLÉ DES ESPÈCES
+### KEY TO SPECIES
 
-1. Fruit atteignant 1-1,8 cm de diam., atténué aux extrémités; ovaire et jeune fruit 10-sillonnés; cymes souvent pluriflores ou multiflores; graines à réticule légumentaire plutôt grossier et mailles moyennement oblongues; bois 4-sillonné; domaties foliaires médiocrement ciliées..... I. A. gabonii
+1. Fruit reaching 1–1.8 cm diam., attenuate at the extremities; ovary and young fruit 10-sulcate; cymes often pluriflorous or multiflorous; seeds with rather coarse tegumentary reticulum and moderately oblong meshes; wood 4-sulcate; leaf domatia moderately ciliate..... I. A. gabonii
 
-1'. Fruit atteignant 3-5 cm de diam., brusquement élargi au-dessus du pétiole; ovaire et jeune fruit ovoïdes, lisses; cymes souvent pauciflores; graines à réticule très fin et mailles très étroitement étirées; bois cylindrique; domaties foliaires densément pubescentes.....
+1'. Fruit reaching 3–5 cm diam., abruptly enlarged above the petiole; ovary and young fruit ovoid, smooth; cymes often pauciflorous; seeds with very fine reticulum and very narrowly drawn-out meshes; wood cylindric; leaf domatia densely pubescent.....
 
 ## Species in region
 

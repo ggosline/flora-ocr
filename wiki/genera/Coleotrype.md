@@ -16,35 +16,17 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 in A.DC. & C.DC., Monogr. phan. 3 : 238 (1881).
 
-Herbes annuelles ou pérennes. Feuilles spiralées. Inflorescences axillaires, perforant les
-
-gaines à l’opposé du limbe, sessiles, capitées , composées de 1 ou plusieurs cincinni conges-
-
-tionnés, soutenus par une série de bractées . Fleurs bisexuées, sessiles, actinomorphes ;
-
-sépales libres, subégaux, verts ; pétales égaux, soudés à la base en un tube étroit ; étamines
-
-6, subégales, filets adnés au sommet du tube corollaire, libres au sommet, anthères basifixes,
-
-à déhiscence longitudinale ; staminodes absents . Fruits en capsules ± cachées par les sépales
-
-et les bractées, 3-loculaires, 3-valvés, déhiscentes, à loges avec 1 ou 2 graines. Graines cou-
-
-vertes par un arille mince devenant papyracé ; hile linéaire ; embryotège latérale.
+Annual or perennial herbs. Leaves spiralled. Inflorescences axillary, perforating the sheaths opposite to the blade, sessile, capitate, composed of 1 or several congested cincinni, supported by a series of bracts. Flowers bisexual, sessile, actinomorphic; sepals free, subequal, green; petals equal, fused at the base into a narrow tube; stamens 6, subequal, filaments adnate to the apex of the corolla tube, free at the apex, anthers basifixed, with longitudinal dehiscence; staminodes absent. Fruits in capsules ± hidden by the sepals and bracts, 3-locular, 3-valved, dehiscent, with locules bearing 1 or 2 seeds. Seeds covered by a thin aril becoming papyraceous; hilum linear; embryotegium lateral.
 
 ---
 
-Genre de dix espèces, six à Madagascar, quatre en Afrique continentale, dont une seule au
-
-Gabon.
+Genus of ten species, six from Madagascar, four from continental Africa, of which only one from Gabon.
 
 B : Brenan (1968a, 1968b), Faden (2012).
 
-i B liographie
+Bibliography
 
 ## Species in region
 

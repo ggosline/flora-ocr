@@ -16,11 +16,9 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Rhizome branched, devoid of chlorophyll, bearing mycorrhizae and rhizoids. Aerial stem simple at the base, several times dichotomous in the upper part. Sporangia at the upper part of the stems, divided into 3 lobes, having, at the base, bifurcate appendages, rigid, oval. Gametophyte underground, devoid of chlorophyll, cylindrical, bipolar.
 
-Rhizome rameux, sans chlorophylle, portant des mycorhizes et des rhizoïdes. Tige aérienne simple à la base, plusieurs fois dichotome à la partie supérieure. Sporanges à la partie supérieure des tiges, divisés en 3 lobes, ayant, à la base, des appendices bifurqués, rigides, ovales. Gamétophyte souterrain, sans chlorophylle cylindrique, bipolaire.
-
-Une seule espèce en Afrique.
+A single species in Africa.
 
 ---
 

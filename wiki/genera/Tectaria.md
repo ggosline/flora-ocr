@@ -16,23 +16,21 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Terrestrial ferns. Rhizome creeping or erect, bearing entire scales. Petiole scaly, often shiny black. Lamina rarely simple, most often pinnate or multipinnate, with basal pinna developed basiscopic. Pinnae or segments not aristate, rarely hirsute except on the axes which bear, on the upper surface, short articulate hairs. Veins free, or most often anastomosing, forming areoles with included veinlets. Costae raised on the upper surface. Sori rounded, terminal on a free vein, or at the junction of 2 anastomosing veinlets, indusium present or caducous.
 
-Fougères terrestres. Rhizome rampant ou dressé, portant des écailles entières. Pétiole écailleux, souvent noir brillant. Limbe rarement simple, le plus souvent penné ou pluripenné, à penne basale développée basiscopiquement. Pennes ou segments non aristés, rarement hirsutes sauf sur les axes qui portent, à la face supérieure, des poils courts, articulés. Nervures libres, ou, le plus souvent, anastomosées, formant des aréoles à nervilles incluses. Costae surélevés à la face supérieure. Sores arrondis, terminaux sur une nervure libre, ou à la rencontre de 2 nervilles anastomosantes, induisie présente ou caduque.
+Type species: T. trifoliata (L.) Cav. (= Polypodium L.).
 
-Espèce type : T. trifoliata (L.) Cav. (= Polypodium L.).
-
-Genre tropical ou subtropical.
+Tropical or subtropical genus.
 
 ---
 
-1. Penne terminale semblable aux latérales..... 1. T. varians.
+1. Terminal pinna similar to the lateral ones..... 1. T. varians.
 
-1'. Penne terminale deltoïde-lobée.
+1'. Terminal pinna deltoid-lobed.
 
-2. Rhizome longuement rampant; sores situés à la rencontre de plusieurs nervilles..... 2. T. angelicifolia.
+2. Rhizome long-creeping; sori situated at the junction of several veinlets..... 2. T. angelicifolia.
 
-2'. Rhizome dressé; frondes en touffes; sores situés à l'extrémité d'une nerville incluse..... 3. T. fernandensis.
+2'. Rhizome erect; fronds in tufts; sori situated at the apex of an included veinlet..... 3. T. fernandensis.
 
 ## Species in region
 

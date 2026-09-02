@@ -16,39 +16,19 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+in DC., Prodr. 10: 509 (1846).
 
-in DC., Prodr . 10 : 509 (1846).
-
-Herbes annuelles, hémiparasites , couvertes de poils minuscules ou scabres ; tiges dres-
-
-sées, à ramifications nombreuses, légèrement quadrangulaires. Feuilles opposées ou al-
-
-ternes, sessiles ; limbe linéaire-filiforme , acuminé au sommet, entier ou pennatifide. In-
-
-florescences en forme de racème lâche, feuillé. Fleurs pédicellées, à bractéoles linéaires ;
-
-calice campanulé, 5-lobé, lobes ovales à lancéolés et aigus ou obtus, égaux ; corolle cam-
-
-panulée, subrotacée, rose, blanche, violacée ou pourpre, tube élargi vers la gorge et
-
-parfois recourbé, lobes 5, subégaux, ; étamines 4, didynames, incluses, les abaxiales
-
-plus longues que les adaxiales, anthères à 2 thèques subégales, reliées au filament à
-
-l’apex ; ovaire ovoïde à globuleux ; style long, stigmate claviforme. Fruits capsulaires,
-
-septicides, comprimés longitudinalement. Graines nombreuses, obovoïdes.
+Annual herbs, hemiparasitic, covered with minute or scabrous hairs; stems erect, with numerous branches, slightly quadrangular. Leaves opposite or alternate, sessile; blade linear-filiform, acuminate at the apex, entire or pinnatifid. Inflorescences in the form of a lax, leafy raceme. Flowers pedicellate, with linear bracteoles; calyx campanulate, 5-lobed, lobes ovate to lanceolate and acute or obtuse, equal; corolla campanulate, subrotate, pink, white, violaceous or purple, tube enlarged toward the throat and sometimes curved, lobes 5, subequal; stamens 4, didynamous, included, the abaxial ones longer than the adaxial ones, anthers with 2 subequal thecae, attached to the filament at the apex; ovary ovoid to globose; style long, stigma claviform. Fruits capsular, septicidal, longitudinally compressed. Seeds numerous, obovoid.
 
 ---
 
 ---
 
-Genre de 4 à 5 espèces, présent de l’Afrique à Madagascar et en Inde, dont une au Gabon.
+Genus of 4 to 5 species, present from Africa to Madagascar and India, of which one occurs in Gabon.
 
-B : Fischer (2004), Ghazanfar et al. (2008).
+B: Fischer (2004), Ghazanfar et al. (2008).
 
-ibliographie
+Bibliography
 
 ## Species in region
 

@@ -16,71 +16,69 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 in Hooker, Ic. Pl. 8 : tab. 758 (1848).
 
-Petits arbres ou plus souvent arbustes à feuilles pétiolées, dentées ou entières.
+Small trees or more often shrubs with petiolate leaves, dentate or entire.
 
-Inflorescences en fascicules axillaires ou extra-axillaires. Fleurs unisexuées. Périant des fleurs ♀ semblable à celui des fleurs ♂ : sépales légèrement imbriqués, pétales contortés. Fleurs ♂ : 5 étamines alternipétales, filets fortement appressés contre le pistillode, anthères introrses ou latérales à déhiscence longitudinale ; ovaire réduit. Fleurs ♀ : ovaire charnu, 2-5 loges uniovulées.
+Inflorescences in axillary or extra-axillary fascicles. Flowers unisexual. Perianth of ♀ flowers similar to that of ♂ flowers: sepals slightly imbricate, petals contorted. ♂ Flowers: 5 stamens alternate with petals, filaments strongly appressed against the pistillode, anthers introrse or lateral with longitudinal dehiscence; ovary reduced. ♀ Flowers: fleshy ovary, 2–5 uniovulate locules.
 
-### Drupe charnue à noyau lignifié. Graines ovoïdes ou obtriangulaires.
+### Fleshy drupe with lignified stone. Seeds ovoid or obtriangular.
 
-ESPÈCE-TYPE : Microdesmis puberula Hook. f. ex Planchon.
+TYPE SPECIES: Microdesmis puberula Hook. f. ex Planchon.
 
 ---
 
 ### PANDACE
 
-# Ce genre se répartit des Philippines à l'Indonésie et en Afrique où 8 espèces sont recensées. Très affines, elles sont souvent difficiles à identifier.
+# This genus is distributed from the Philippines to Indonesia and in Africa where 8 species are recorded. Highly allied, they are often difficult to identify.
 
-### CLÉ DES ESPÈCES
+### KEY TO THE SPECIES
 
-### I. D'après les échantillons :
+### I. Based on sterile specimens:
 
-1. Rameaux ± fortement pubescents.
+1. Branchlets ± strongly pubescent.
 
-2. Pétales glabres intérieurement..... 1. M. klainei
+2. Petals glabrous within..... 1. M. klainei
 
 3. Pistillode pubescent..... 2. M. pierlotiana
 
-3'. Pistillode glabre..... 3. M. puberula
+3'. Pistillode glabrous..... 3. M. puberula
 
-1'. Rameaux glabres ou très fortement glabrescents.
+1'. Branchlets glabrous or very strongly glabrescent.
 
-4. Pétales pubescents ou pubérulents intérieurement..... 4. M. haumaniana
+4. Petals pubescent or puberulent within..... 4. M. haumaniana
 
-4'. Pétales glabres intérieurement..... 5. M. camerunensis
+4'. Petals glabrous within..... 5. M. camerunensis
 
-### II. D'après les échantillons
+### II. Based on sterile specimens
 
-2. Rameaux glabres..... 5. M. camerunensis
+2. Branchlets glabrous..... 5. M. camerunensis
 
-2.¹ Rameaux pubescents..... 1. M. klainei
+2'. Branchlets pubescent..... 1. M. klainei
 
 3. 2 styles..... 3. M. puberula
 
-4. Ovaire glabre ..... 4. M. haumaniana
+4. Ovary glabrous ..... 4. M. haumaniana
 
-4'. Ovaire pubescent..... 2. M. pierlotiana
+4'. Ovary pubescent..... 2. M. pierlotiana
 
-### III. D'après les Échantillons Fructifères :
+### III. Based on fruiting specimens:
 
-1. Fruit entièrement ou partiellement pubescent ou pubérulent.
+1. Fruit entirely or partially pubescent or puberulent.
 
-2. Fruit entièrement pubérulent; diamètre de 1-2 cm.
+2. Fruit entirely puberulent; diameter of 1–2 cm.
 
-3. Sommet du fruit non déprimé..... 1. M. ki
+3. Apex of fruit not depressed..... 1. M. ki
 
-¹. Sommet du fruit déprimé..... 2. M. pierloti
+3'. Apex of fruit depressed..... 2. M. pierloti
 
-Fruit partiellement pubérulent ou pubescent; diamètre inférieur à 1 cm.
+2'. Fruit partially puberulent or pubescent; diameter less than 1 cm.
 
-4. (1-) 2 (-3) logos; sommet pubescent..... 3. M. puberula
+4. (1–) 2 (–3) locules; apex pubescent..... 3. M. puberula
 
-4'. 3 loges; sommet pubérulent..... 5. M. camerunensis
+4'. 3 locules; apex puberulent..... 5. M. camerunensis
 
-1'. Fruit glabre..... 4. M. haumaniana
+1'. Fruit glabrous..... 4. M. haumaniana
 
 ## Species in region
 
