@@ -165,96 +165,187 @@
 - [[Zingiberaceae|Zingiberaceae]] — 45 species in Gabon
 - [[Zygophyllaceae|Zygophyllaceae]] — 0 species in Gabon
 
-## Genera (145)
+## Genera (275)
 
+- [[Abrus|Abrus]] — [[Leguminosae]]
+- [[Acacia|Acacia]] — [[Leguminosae]]
 - [[Achyranthes|Achyranthes]] — [[Amaranthaceae]]
+- [[Adenanthera|Adenanthera]] — [[Leguminosae]]
+- [[Adenopodia|Adenopodia]] — [[Leguminosae]]
+- [[Aeschynomene|Aeschynomene]] — [[Leguminosae]]
 - [[Afraegle|Afraegle]] — [[Rutaceae]]
 - [[Aframomum|Aframomum]] — [[Zingiberaceae]]
 - [[Afrobrunnichia|Afrobrunnichia]] — [[Polygonaceae]]
 - [[Afrosersalisia|Afrosersalisia]] — [[Sapotaceae]], 1 species in Gabon
 - [[Afrostyrax|Afrostyrax]] — [[Huaceae]], 3 species in Gabon
+- [[Afzelia|Afzelia]] — [[Leguminosae]]
+- [[Aganope|Aganope]] — [[Leguminosae]]
+- [[Airyantha|Airyantha]] — [[Leguminosae]]
 - [[Albertisia|Albertisia]] — [[Menispermaceae]], 4 species in Gabon
+- [[Albizia|Albizia]] — [[Leguminosae]]
 - [[Alternanthera|Alternanthera]] — [[Amaranthaceae]]
+- [[Alysicarpus|Alysicarpus]] — [[Leguminosae]]
 - [[Amaranthus|Amaranthus]] — [[Amaranthaceae]]
+- [[Amphimas|Amphimas]] — [[Leguminosae]]
 - [[Anacolosa|Anacolosa]] — [[Olacaceae]], 0 species in Gabon
 - [[Ancistrocladus|Ancistrocladus]] — [[Ancistrocladaceae]], 4 species in Gabon
+- [[Andira|Andira]] — [[Leguminosae]]
+- [[Angylocalyx|Angylocalyx]] — [[Leguminosae]]
 - [[Aningueria|Aningueria]] — [[Sapotaceae]], 1 species in Gabon
 - [[Anisocycla|Anisocycla]] — [[Menispermaceae]], 1 species in Gabon
+- [[Aphanocalyx|Aphanocalyx]] — [[Leguminosae]]
 - [[Aptandra|Aptandra]] — [[Olacaceae]], 1 species in Gabon
+- [[Arachis|Arachis]] — [[Leguminosae]]
 - [[Araliopsis|Araliopsis]] — [[Rutaceae]]
+- [[Aubrevillea|Aubrevillea]] — [[Leguminosae]]
 - [[Aucoumea|Aucoumea]] — [[Burseraceae]]
+- [[Augouardia|Augouardia]] — [[Leguminosae]]
 - [[Autranella|Autranella]] — [[Sapotaceae]], 1 species in Gabon
+- [[Baikiaea|Baikiaea]] — [[Leguminosae]]
 - [[Baillonella|Baillonella]] — [[Sapotaceae]], 1 species in Gabon
 - [[Balanites|Balanites]] — [[Balanitaceae]]
 - [[Baphia|Baphia]] — [[Leguminosae]]
+- [[Baphiopsis|Baphiopsis]] — [[Leguminosae]]
 - [[Beirnaertia|Beirnaertia]] — [[Menispermaceae]], 1 species in Gabon
 - [[Berlinia|Berlinia]] — [[Leguminosae]]
 - [[Bersama|Bersama]] — [[Melianthaceae]]
+- [[Bobgunnia|Bobgunnia]] — [[Leguminosae]]
 - [[Boerhaavia|Boerhaavia]] — [[Nyctaginaceae]]
 - [[Bougainvillea|Bougainvillea]] — [[Nyctaginaceae]]
+- [[Brachystegia|Brachystegia]] — [[Leguminosae]]
+- [[Caesalpinia|Caesalpinia]] — [[Leguminosae]]
+- [[Cajanus|Cajanus]] — [[Leguminosae]]
+- [[Calliandra|Calliandra]] — [[Leguminosae]]
+- [[Calopogonium|Calopogonium]] — [[Leguminosae]]
+- [[Calpocalyx|Calpocalyx]] — [[Leguminosae]]
+- [[Camoensia|Camoensia]] — [[Leguminosae]]
 - [[Canarium|Canarium]] — [[Burseraceae]]
+- [[Canavalia|Canavalia]] — [[Leguminosae]]
 - [[Canna|Canna]] — [[Cannaceae]]
+- [[Cassia|Cassia]] — [[Leguminosae]]
+- [[Cathormion|Cathormion]] — [[Leguminosae]]
 - [[Celosia|Celosia]] — [[Amaranthaceae]]
+- [[Centrosema|Centrosema]] — [[Leguminosae]]
 - [[Ceratophyllum|Ceratophyllum]] — [[Ceratophyllaceae]], 1 species in Gabon
 - [[Chasmanthera|Chasmanthera]] — [[Menispermaceae]], 1 species in Gabon
 - [[Chenopodium|Chenopodium]] — [[Chenopodiaceae]]
 - [[Cissampelos|Cissampelos]] — [[Menispermaceae]], 1 species in Gabon
 - [[Citropsis|Citropsis]] — [[Rutaceae]]
 - [[Clematis|Clematis]] — [[Ranunculaceae]], 2 species in Gabon
+- [[Clitoria|Clitoria]] — [[Leguminosae]]
+- [[Copaifera|Copaifera]] — [[Leguminosae]]
 - [[Costus|Costus]] — [[Zingiberaceae]]
 - [[Coula|Coula]] — [[Olacaceae]], 1 species in Gabon
+- [[Craibia|Craibia]] — [[Leguminosae]]
 - [[Crinum|Crinum]] — [[Amaryllidaceae]], 4 species in Gabon
 - [[Crotalaria|Crotalaria]] — [[Leguminosae]]
+- [[Crudia|Crudia]] — [[Leguminosae]]
+- [[Cryptosepalum|Cryptosepalum]] — [[Leguminosae]]
 - [[Curculigo|Curculigo]] — [[Hypoxidaceae]], 2 species in Gabon
 - [[Curcuma|Curcuma]] — [[Zingiberaceae]]
 - [[Cyathula|Cyathula]] — [[Amaranthaceae]]
+- [[Cyclocarpa|Cyclocarpa]] — [[Leguminosae]]
+- [[Cylicodiscus|Cylicodiscus]] — [[Leguminosae]]
+- [[Cynometra|Cynometra]] — [[Leguminosae]]
 - [[Dacryodes|Dacryodes]] — [[Burseraceae]]
 - [[Dalbergia|Dalbergia]] — [[Leguminosae]]
+- [[Dalbergiella|Dalbergiella]] — [[Leguminosae]]
+- [[Dalhousiea|Dalhousiea]] — [[Leguminosae]]
+- [[Daniellia|Daniellia]] — [[Leguminosae]]
 - [[Delpydora|Delpydora]] — [[Sapotaceae]], 1 species in Gabon
 - [[Desbordesia|Desbordesia]] — [[Irvingiaceae]]
+- [[Desmodium|Desmodium]] — [[Leguminosae]]
+- [[Detarium|Detarium]] — [[Leguminosae]]
+- [[Dewevrea|Dewevrea]] — [[Leguminosae]]
+- [[Dialium|Dialium]] — [[Leguminosae]]
 - [[Dialytheca|Dialytheca]] — [[Menispermaceae]], 1 species in Gabon
+- [[Didelotia|Didelotia]] — [[Leguminosae]]
+- [[Dioclea|Dioclea]] — [[Leguminosae]]
 - [[Diogoa|Diogoa]] — [[Olacaceae]], 1 species in Gabon
 - [[Dioncophyllum|Dioncophyllum]] — [[Dioncophyllaceae]]
 - [[Dioscoreophyllum|Dioscoreophyllum]] — [[Menispermaceae]], 2 species in Gabon
 - [[Diospyros|Diospyros]] — [[Ebenaceae]], 32 species in Gabon
 - [[Diphasia|Diphasia]] — [[Rutaceae]]
+- [[Distemonanthus|Distemonanthus]] — [[Leguminosae]]
+- [[Dolichos|Dolichos]] — [[Leguminosae]]
 - [[Donella|Donella]] — [[Sapotaceae]], 4 species in Gabon
 - [[Drymaria|Drymaria]] — [[Caryophyllaceae]]
+- [[Duparquetia|Duparquetia]] — [[Leguminosae]]
 - [[Englerophytum|Englerophytum]] — [[Sapotaceae]], 3 species in Gabon
 - [[Engomegoma|Engomegoma]] — [[Olacaceae]], 1 species in Gabon
+- [[Entada|Entada]] — [[Leguminosae]]
+- [[Eriosema|Eriosema]] — [[Leguminosae]]
+- [[Erythrina|Erythrina]] — [[Leguminosae]]
+- [[Erythrophleum|Erythrophleum]] — [[Leguminosae]]
+- [[Eurypetalum|Eurypetalum]] — [[Leguminosae]]
 - [[Fagara|Fagara]] — [[Rutaceae]]
+- [[Fillaeopsis|Fillaeopsis]] — [[Leguminosae]]
 - [[Flagellaria|Flagellaria]] — [[Flagellariaceae]], 1 species in Gabon
+- [[Galactia|Galactia]] — [[Leguminosae]]
 - [[Gambeya|Gambeya]] — [[Sapotaceae]], 3 species in Gabon
+- [[Gigasiphon|Gigasiphon]] — [[Leguminosae]]
 - [[Gilbertiodendron|Gilbertiodendron]] — [[Leguminosae]]
+- [[Gilletiodendron|Gilletiodendron]] — [[Leguminosae]]
 - [[Gluema|Gluema]] — [[Sapotaceae]], 1 species in Gabon
+- [[Gossweilerodendron|Gossweilerodendron]] — [[Leguminosae]]
 - [[Gouania|Gouania]] — [[Rhamnaceae]]
+- [[Griffonia|Griffonia]] — [[Leguminosae]]
+- [[Guibourtia|Guibourtia]] — [[Leguminosae]]
 - [[Halodule|Halodule]] — [[Cymodoceaceae]]
 - [[Hannoa|Hannoa]] — [[Simaroubaceae]]
+- [[Haplormosia|Haplormosia]] — [[Leguminosae]]
 - [[Heisteria|Heisteria]] — [[Olacaceae]], 3 species in Gabon
 - [[Hilleria|Hilleria]] — [[Phytolaccaceae]]
 - [[Hua|Hua]] — [[Huaceae]], 1 species in Gabon
+- [[Hylodendron|Hylodendron]] — [[Leguminosae]]
+- [[Hylodesmum|Hylodesmum]] — [[Leguminosae]]
 - [[Hypoxis|Hypoxis]] — [[Hypoxidaceae]], 1 species in Gabon
 - [[Impatiens|Impatiens]] — [[Balsaminaceae]]
 - [[Indigofera|Indigofera]] — [[Leguminosae]]
 - [[Iridosma|Iridosma]] — [[Simaroubaceae]]
 - [[Irvingia|Irvingia]] — [[Irvingiaceae]]
+- [[Isomacrolobium|Isomacrolobium]] — [[Leguminosae]]
 - [[Jateorhiza|Jateorhiza]] — [[Menispermaceae]], 1 species in Gabon
+- [[Julbernardia|Julbernardia]] — [[Leguminosae]]
 - [[Keita|Keita]] — [[Olacaceae]], 1 species in Gabon
 - [[Klainedoxa|Klainedoxa]] — [[Irvingiaceae]]
 - [[Kolobopetalum|Kolobopetalum]] — [[Menispermaceae]], 4 species in Gabon
+- [[Kotschya|Kotschya]] — [[Leguminosae]]
 - [[Lasiodiscus|Lasiodiscus]] — [[Rhamnaceae]]
 - [[Laurembergia|Laurembergia]] — [[Haloragaceae]]
 - [[Lecomtedoxa|Lecomtedoxa]] — [[Sapotaceae]], 5 species in Gabon
+- [[Leonardendron|Leonardendron]] — [[Leguminosae]]
+- [[Leonardoxa|Leonardoxa]] — [[Leguminosae]]
+- [[Leptoderris|Leptoderris]] — [[Leguminosae]]
+- [[Leptospron|Leptospron]] — [[Leguminosae]]
 - [[Leptoterantha|Leptoterantha]] — [[Menispermaceae]], 1 species in Gabon
 - [[Letestua|Letestua]] — [[Sapotaceae]], 1 species in Gabon
+- [[Leucaena|Leucaena]] — [[Leguminosae]]
+- [[Leucomphalos|Leucomphalos]] — [[Leguminosae]]
+- [[Librevillea|Librevillea]] — [[Leguminosae]]
 - [[Limaciopsis|Limaciopsis]] — [[Menispermaceae]], 1 species in Gabon
+- [[Loesenera|Loesenera]] — [[Leguminosae]]
+- [[Lonchocarpus|Lonchocarpus]] — [[Leguminosae]]
 - [[Ludwigia|Ludwigia]] — [[Onagraceae]], 8 species in Gabon
+- [[Machaerium|Machaerium]] — [[Leguminosae]]
+- [[Macroptilium|Macroptilium]] — [[Leguminosae]]
+- [[Macrotyloma|Macrotyloma]] — [[Leguminosae]]
 - [[Maesopsis|Maesopsis]] — [[Rhamnaceae]]
 - [[Manilkara|Manilkara]] — [[Sapotaceae]], 5 species in Gabon
+- [[Microberlinia|Microberlinia]] — [[Leguminosae]]
+- [[Microcharis|Microcharis]] — [[Leguminosae]]
 - [[Millettia|Millettia]] — [[Leguminosae]]
+- [[Mimosa|Mimosa]] — [[Leguminosae]]
 - [[Mollugo|Mollugo]] — [[Aizoaceae]]
+- [[Monopetalanthus|Monopetalanthus]] — [[Leguminosae]]
+- [[Mucuna|Mucuna]] — [[Leguminosae]]
 - [[Musa|Musa]] — [[Musaceae]]
+- [[Myroxylon|Myroxylon]] — [[Leguminosae]]
+- [[Neochevalierodendron|Neochevalierodendron]] — [[Leguminosae]]
 - [[Neolemonniera|Neolemonniera]] — [[Sapotaceae]], 1 species in Gabon
+- [[Neonotonia|Neonotonia]] — [[Leguminosae]]
+- [[Neustanthus|Neustanthus]] — [[Leguminosae]]
+- [[Newtonia|Newtonia]] — [[Leguminosae]]
 - [[Nothospondias|Nothospondias]] — [[Simaroubaceae]]
 - [[Octoknema|Octoknema]] — [[Octoknemaceae]], 6 species in Gabon
 - [[Odyendyea|Odyendyea]] — [[Simaroubaceae]]
@@ -263,55 +354,94 @@
 - [[Omphalocarpum|Omphalocarpum]] — [[Sapotaceae]], 3 species in Gabon
 - [[Ongokea|Ongokea]] — [[Olacaceae]], 1 species in Gabon
 - [[Oricia|Oricia]] — [[Rutaceae]]
+- [[Ormocarpum|Ormocarpum]] — [[Leguminosae]]
+- [[Ostryocarpus|Ostryocarpus]] — [[Leguminosae]]
+- [[Oxystigma|Oxystigma]] — [[Leguminosae]]
+- [[Pachyelasma|Pachyelasma]] — [[Leguminosae]]
 - [[Pachystela|Pachystela]] — [[Sapotaceae]], 2 species in Gabon
 - [[Pandanus|Pandanus]] — [[Pandanaceae]], 3 species in Gabon
+- [[Paraberlinia|Paraberlinia]] — [[Leguminosae]]
+- [[Parkia|Parkia]] — [[Leguminosae]]
 - [[Penianthus|Penianthus]] — [[Menispermaceae]], 1 species in Gabon
+- [[Pentaclethra|Pentaclethra]] — [[Leguminosae]]
 - [[Perichasma|Perichasma]] — [[Menispermaceae]], 1 species in Gabon
 - [[Phaeomeria|Phaeomeria]] — [[Zingiberaceae]]
 - [[Philoxerus|Philoxerus]] — [[Amaranthaceae]]
+- [[Physostigma|Physostigma]] — [[Leguminosae]]
 - [[Phytolacca|Phytolacca]] — [[Phytolaccaceae]]
 - [[Pierrodendron|Pierrodendron]] — [[Simaroubaceae]]
+- [[Piliostigma|Piliostigma]] — [[Leguminosae]]
+- [[Pithecellobium|Pithecellobium]] — [[Leguminosae]]
+- [[Plagiosiphon|Plagiosiphon]] — [[Leguminosae]]
+- [[Platysepalum|Platysepalum]] — [[Leguminosae]]
 - [[Polygonum|Polygonum]] — [[Polygonaceae]]
 - [[Portulaca|Portulaca]] — [[Portulacaceae]]
 - [[Potamogeton|Potamogeton]] — [[Potamogetonaceae]], 1 species in Gabon
+- [[Pseudarthria|Pseudarthria]] — [[Leguminosae]]
 - [[Pseudopachystela|Pseudopachystela]] — [[Sapotaceae]], 2 species in Gabon
+- [[Pseudoprosopis|Pseudoprosopis]] — [[Leguminosae]]
+- [[Psophocarpus|Psophocarpus]] — [[Leguminosae]]
+- [[Pterocarpus|Pterocarpus]] — [[Leguminosae]]
+- [[Pterygopodium|Pterygopodium]] — [[Leguminosae]]
 - [[Ptychopetalum|Ptychopetalum]] — [[Olacaceae]], 1 species in Gabon
 - [[Quassia|Quassia]] — [[Simaroubaceae]]
 - [[Ravenala|Ravenala]] — [[Strelitziaceae]]
 - [[Renealmia|Renealmia]] — [[Zingiberaceae]]
 - [[Rhigiocarya|Rhigiocarya]] — [[Menispermaceae]], 1 species in Gabon
+- [[Rhynchosia|Rhynchosia]] — [[Leguminosae]]
 - [[Rumex|Rumex]] — [[Polygonaceae]]
 - [[Ruppia|Ruppia]] — [[Ruppiaceae]]
 - [[Santiria|Santiria]] — [[Burseraceae]]
 - [[Sarcolophium|Sarcolophium]] — [[Menispermaceae]], 1 species in Gabon
 - [[Scadoxus|Scadoxus]] — [[Amaryllidaceae]], 3 species in Gabon
+- [[Schefflerodendron|Schefflerodendron]] — [[Leguminosae]]
+- [[Schrankia|Schrankia]] — [[Leguminosae]]
+- [[Scorodophloeus|Scorodophloeus]] — [[Leguminosae]]
+- [[Sesbania|Sesbania]] — [[Leguminosae]]
+- [[Sindora|Sindora]] — [[Leguminosae]]
+- [[Sindoropsis|Sindoropsis]] — [[Leguminosae]]
+- [[Sphenostylis|Sphenostylis]] — [[Leguminosae]]
+- [[Stachyothyrsus|Stachyothyrsus]] — [[Leguminosae]]
+- [[Stemonocoleus|Stemonocoleus]] — [[Leguminosae]]
 - [[Stephania|Stephania]] — [[Menispermaceae]], 1 species in Gabon
 - [[Strelitzia|Strelitzia]] — [[Strelitziaceae]]
 - [[Strombosia|Strombosia]] — [[Olacaceae]], 4 species in Gabon
 - [[Strombosiopsis|Strombosiopsis]] — [[Olacaceae]], 2 species in Gabon
+- [[Stylosanthes|Stylosanthes]] — [[Leguminosae]]
+- [[Swartzia|Swartzia]] — [[Leguminosae]]
 - [[Synclisia|Synclisia]] — [[Menispermaceae]], 2 species in Gabon
 - [[Synsepalum|Synsepalum]] — [[Sapotaceae]], 4 species in Gabon
 - [[Syntriandrium|Syntriandrium]] — [[Menispermaceae]], 1 species in Gabon
 - [[Syrrheonema|Syrrheonema]] — [[Menispermaceae]], 1 species in Gabon
 - [[Tacca|Tacca]] — [[Taccaceae]], 1 species in Gabon
 - [[Talinum|Talinum]] — [[Portulacaceae]]
+- [[Tephrosia|Tephrosia]] — [[Leguminosae]]
+- [[Teramnus|Teramnus]] — [[Leguminosae]]
+- [[Tessmannia|Tessmannia]] — [[Leguminosae]]
 - [[Tetracera|Tetracera]] — [[Dilleniaceae]], 5 species in Gabon
+- [[Tetrapleura|Tetrapleura]] — [[Leguminosae]]
 - [[Tieghemella|Tieghemella]] — [[Sapotaceae]], 1 species in Gabon
 - [[Tiliacora|Tiliacora]] — [[Menispermaceae]], 3 species in Gabon
 - [[Tinospora|Tinospora]] — [[Menispermaceae]], 1 species in Gabon
 - [[Toddalia|Toddalia]] — [[Rutaceae]]
+- [[Toubaouate|Toubaouate]] — [[Leguminosae]]
 - [[Tribulus|Tribulus]] — [[Zygophyllaceae]]
 - [[Triclisia|Triclisia]] — [[Menispermaceae]], 5 species in Gabon
 - [[Tridesmostemon|Tridesmostemon]] — [[Sapotaceae]], 1 species in Gabon
+- [[Triplisomeris|Triplisomeris]] — [[Leguminosae]]
 - [[Tulestea|Tulestea]] — [[Sapotaceae]], 3 species in Gabon
+- [[Uraria|Uraria]] — [[Leguminosae]]
 - [[Ventilago|Ventilago]] — [[Rhamnaceae]]
 - [[Vepris|Vepris]] — [[Rutaceae]]
 - [[Vigna|Vigna]] — [[Leguminosae]]
 - [[Vincentella|Vincentella]] — [[Sapotaceae]], 1 species in Gabon
 - [[Wildemaniodoxa|Wildemaniodoxa]] — [[Sapotaceae]], 1 species in Gabon
+- [[Xanthocercis|Xanthocercis]] — [[Leguminosae]]
 - [[Ximenia|Ximenia]] — [[Olacaceae]], 1 species in Gabon
+- [[Zenkerella|Zenkerella]] — [[Leguminosae]]
 - [[Zeyherella|Zeyherella]] — [[Sapotaceae]], 2 species in Gabon
 - [[Zingiber|Zingiber]] — [[Zingiberaceae]]
+- [[Zornia|Zornia]] — [[Leguminosae]]
 
 ## Species (343)
 

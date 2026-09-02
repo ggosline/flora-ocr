@@ -1,0 +1,347 @@
+"""Deterministic genus-page generator.
+
+Writes the mechanical parts of a genus page straight from the ingest bundles:
+frontmatter, authority and protologue, the species list, treatment blocks and
+figure references. **No model inference and no invented content** — every field
+is either copied from the bundle or left explicitly blank.
+
+The two things a model still has to supply are marked in the output with HTML
+comments, so they are greppable and so a half-finished page is never mistaken
+for a finished one:
+
+    <!-- TODO:translate -->   the diagnosis, emitted verbatim in the source
+                              language beneath the marker
+    <!-- TODO:notes -->       the Notes section, which needs world knowledge the
+                              source does not contain
+
+Usage
+-----
+    python -m flora_ocr.wiki.gen_genus --family Leguminosae --dry-run
+    python -m flora_ocr.wiki.gen_genus --family Leguminosae
+    python -m flora_ocr.wiki.gen_genus --all --skip-existing
+
+Existing pages are never overwritten without --force: the hand-written pages are
+better than anything this can produce, and clobbering them would be a net loss.
+"""
+from __future__ import annotations
+
+import argparse
+import json
+import re
+import sys
+from collections import defaultdict
+from pathlib import Path
+
+from flora_ocr.flora import REPO_ROOT
+
+BUNDLE_DIR = REPO_ROOT / "build" / "wiki_bundles"
+WIKI_DIR = REPO_ROOT / "wiki"
+
+# Directory names the family split mangled; the bundle's `family` field inherits
+# them, so a page generated straight from it would carry a family that does not
+# exist. Mapped rather than guessed.
+FAMILY_ALIASES = {
+    "Millettiaspeciesfabaceae": "Leguminosae",
+    "Labiataeulmaceaeverbenaceae": None,      # composite: needs manual split
+    "Boraginaceaebuxaceae": None,
+    "Gladiolusmirusvaupeliridaceae": None,
+}
+
+# Headings the segmenter reads as genera but which are not taxa at all. These get
+# no page: a "Leguminosae" or "Materiel" genus page would be pure noise.
+NOT_A_TAXON = {
+    "Leguminosae", "Materiel", "Materiel etudie", "Heterostylie",
+    "Cl", "St", "Ilomba", "Ossoko", "Ekoune",
+}
+
+# Genus names the scan corrupts, with the correction verified against the source.
+# The page is written under the correct name and records the raw form, so the
+# name is right in the wiki and the OCR text stays greppable.
+NAME_CORRECTIONS = {
+    "Lesenera": "Loesenera",
+    "Erythropheum": "Erythrophleum",
+    "Scorodophleus": "Scorodophloeus",
+    "Vrectaria": "Virectaria",
+    "Hymenodietyon": "Hymenodictyon",
+    "Pausinstalia": "Pausinystalia",
+    "Dietyandra": "Dictyandra",
+    "Tarena": "Tarenna",
+    "Stelecantha": "Stelechantha",
+    "Colecaryon": "Coelocaryon",
+    "Hypodaphns": "Hypodaphnis",
+    "Rhapiostylis": "Rhaphiostylis",
+}
+
+# Names that look wrong but that this module will not presume to correct.
+SUSPECT_NAMES: set[str] = set()
+
+# A citation line: a work, a volume/page and a year. The protologue is the first
+# such citation; anything after the first em-dash is a list of later references,
+# so the line is truncated there rather than carried whole.
+CITATION_RE = re.compile(r"^[A-Z].{5,160}?\(\d{4}\)")
+PAGE_MARKER_RE = re.compile(r"<!--\s*page\s+\d+\s*-->")
+FIGURE_REF_RE = re.compile(r"\[Figure[^\]]*\]")
+
+
+def load_bundles(family: str | None, vol: str | None) -> list[dict]:
+    out = []
+    for path in sorted(BUNDLE_DIR.glob("*.json")):
+        data = json.loads(path.read_text(encoding="utf-8"))
+        fam = resolve_family(data["treatment"].get("family"))
+        if family and fam != family:
+            continue
+        if vol and str(data["treatment"].get("vol")) != str(vol):
+            continue
+        out.append(data)
+    return out
+
+
+def resolve_family(raw: str | None) -> str | None:
+    if raw in FAMILY_ALIASES:
+        return FAMILY_ALIASES[raw]
+    return raw
+
+
+def clean(text: str) -> str:
+    """Strip page markers and figure placeholders; collapse blank runs."""
+    text = PAGE_MARKER_RE.sub("", text)
+    text = FIGURE_REF_RE.sub("", text)
+    text = re.sub(r"\n{3,}", "\n\n", text)
+    return text.strip()
+
+
+def split_heading(block_text: str) -> tuple[str, str]:
+    """Return (heading line, remainder) for a taxon block."""
+    lines = block_text.lstrip().split("\n")
+    head = lines[0].lstrip("# ").strip() if lines else ""
+    return head, "\n".join(lines[1:]).strip()
+
+
+def is_citation(line: str) -> bool:
+    return bool(CITATION_RE.match(line.strip()))
+
+
+def find_protologue(body: str) -> str:
+    """First citation line, truncated before the later-reference chain."""
+    for line in body.split("\n")[:6]:
+        line = line.strip()
+        if is_citation(line):
+            return re.split(r"\s+[—–]\s+", line)[0].rstrip(". ")
+    return ""
+
+
+def diagnosis_text(body: str, limit: int = 2500) -> str:
+    """The descriptive prose, minus the citation apparatus at the top."""
+    lines = []
+    for line in clean(body).split("\n"):
+        s = line.strip()
+        if not s:
+            continue
+        # skip the citation and synonymy apparatus that precedes the description
+        if not lines and (is_citation(s) or s.startswith(("=", "—", "–"))):
+            continue
+        lines.append(s)
+        if sum(len(x) for x in lines) > limit:
+            break
+    return "\n\n".join(lines)
+
+
+def species_rows(blocks: list[dict], genus: str) -> list[dict]:
+    return [b for b in blocks if b["rank"] == "species" and b.get("genus") == genus]
+
+
+def yaml_list(items) -> str:
+    return "[" + ", ".join(items) + "]"
+
+
+def render(genus: str, entries: list[tuple[dict, dict]]) -> str:
+    """entries: [(bundle, genus_block)] — one per treatment the genus appears in."""
+    first_block = entries[0][1]
+    family = resolve_family(first_block.get("family")) or ""
+    authority = (first_block.get("authority") or "").strip()
+
+    total_species = 0
+    treatments, species_all, figures = [], [], []
+    for bundle, gblock in entries:
+        t = bundle["treatment"]
+        spp = species_rows(bundle["blocks"], genus)
+        total_species += len(spp)
+        species_all.extend((s, t) for s in spp)
+        figures.extend(gblock.get("figures") or [])
+        treatments.append({
+            "vol": t.get("vol"),
+            "source": t.get("source"),
+            "pages": f'{gblock.get("page_start")}-{gblock.get("page_end")}',
+            "block": gblock,
+        })
+
+    fm = ["---", "type: genus", f"name: {genus}"]
+    if authority:
+        fm.append(f"authority: {authority}")
+    if family:
+        fm.append(f"family: {family}")
+    fm.append(f"species_in_region: {total_species}")
+    fm.append("treatments:")
+    for tr in treatments:
+        fm.append(f"  - vol: {tr['vol']}")
+        fm.append(f"    source: {tr['source']}")
+    raw = first_block.get("raw_name")
+    if raw:
+        fm.append(f"ocr_name: {raw}    # as the scan renders it; corrected above")
+    if genus in SUSPECT_NAMES:
+        fm.append("needs_review: name may be an OCR corruption or a mis-segmented heading")
+    fm.append("tags: [genus, generated]")
+    fm.append("---")
+
+    body = [""]
+    body.append(f"# *{genus}*" + (f" {authority}" if authority else ""))
+    body.append("")
+    if family:
+        body.append(f"**Family**: [[{family}]]")
+    if authority:
+        body.append(f"**Authority**: {authority}")
+    proto = find_protologue(split_heading(first_block.get("text", ""))[1])
+    if proto:
+        body.append(f"**Protologue**: {proto}")
+    body.append("")
+
+    body.append("## Diagnosis")
+    body.append("")
+    body.append("<!-- TODO:translate — source text below, verbatim and untranslated -->")
+    body.append("")
+    for _, gblock in entries:
+        _, rest = split_heading(gblock.get("text", ""))
+        d = diagnosis_text(rest)
+        if d:
+            body.append(d)
+            body.append("")
+
+    body.append("## Species in region")
+    body.append("")
+    if species_all:
+        body.append("| Species | Vol | Pages |")
+        body.append("|---------|-----|-------|")
+        for s, t in species_all:
+            name = s["name"]
+            link = name.replace(" ", "_")
+            epithet = name.split(" ", 1)[1] if " " in name else name
+            body.append(
+                f'| [[{link}\\|*{genus[0]}. {epithet}*]] | {t.get("vol")} '
+                f'| {s.get("page_start")}–{s.get("page_end")} |'
+            )
+    else:
+        body.append("*No species blocks were segmented for this genus in the source.*")
+    body.append("")
+
+    body.append("## Treatments")
+    body.append("")
+    for tr in treatments:
+        body.append(f"### Vol {tr['vol']}")
+        body.append("")
+        body.append(f"**Source**: `{tr['source']}` · **Pages**: {tr['pages']}")
+        body.append("")
+
+    if figures:
+        body.append("## Figures")
+        body.append("")
+        for f in figures:
+            body.append(f"- {f}")
+        body.append("")
+
+    body.append("## Notes")
+    body.append("")
+    body.append("<!-- TODO:notes -->")
+    body.append("")
+    body.append("## See also")
+    body.append("")
+    if family:
+        body.append(f"- [[{family}]]")
+    for tr in treatments:
+        body.append(f"- [[vol{str(tr['vol']).zfill(2)}]]")
+    body.append("")
+
+    return "\n".join(fm) + "\n".join(body)
+
+
+def main(argv: list[str] | None = None) -> int:
+    ap = argparse.ArgumentParser(description=__doc__,
+                                 formatter_class=argparse.RawDescriptionHelpFormatter)
+    ap.add_argument("--family", help="only genera of this family")
+    ap.add_argument("--vol", help="only this volume")
+    ap.add_argument("--all", action="store_true", help="every family")
+    ap.add_argument("--out", default=str(WIKI_DIR / "genera"))
+    ap.add_argument("--force", action="store_true",
+                    help="overwrite existing pages (they are usually better)")
+    ap.add_argument("--dry-run", action="store_true")
+    args = ap.parse_args(argv)
+
+    if not (args.family or args.vol or args.all):
+        ap.error("give --family, --vol or --all")
+
+    bundles = load_bundles(args.family, args.vol)
+    if not bundles:
+        print("no bundles matched", file=sys.stderr)
+        return 1
+
+    by_genus: dict[str, list] = defaultdict(list)
+    dropped: list[str] = []
+    corrected: list[tuple[str, str]] = []
+    for bundle in bundles:
+        for block in bundle["blocks"]:
+            if block["rank"] != "genus":
+                continue
+            raw = block["name"]
+            if raw in NOT_A_TAXON:
+                dropped.append(raw)
+                continue
+            name = NAME_CORRECTIONS.get(raw, raw)
+            if name != raw:
+                corrected.append((raw, name))
+                block = {**block, "name": name, "raw_name": raw}
+            by_genus[name].append((bundle, block))
+
+    out_dir = Path(args.out)
+    written = skipped = flagged = protected = 0
+    for genus, entries in sorted(by_genus.items()):
+        target = out_dir / f"{genus}.md"
+        if target.exists():
+            # --force is for refreshing pages this module wrote. A page without
+            # the `generated` tag was written by hand and is better than
+            # anything here can produce, so it is never overwritten — I lost the
+            # eight hand-written Leguminosae pages to a --force run once, and
+            # only got them back because they were committed.
+            existing = target.read_text(encoding="utf-8")
+            hand_written = "generated" not in existing.split("---")[1] if "---" in existing else True
+            if hand_written:
+                protected += 1
+                continue
+            if not args.force:
+                skipped += 1
+                continue
+        page = render(genus, entries)
+        if genus in SUSPECT_NAMES:
+            flagged += 1
+            print(f"  FLAG {genus}: suspect name, review before use")
+        if args.dry_run:
+            print(f"  would write {target} ({len(page)} bytes)")
+        else:
+            out_dir.mkdir(parents=True, exist_ok=True)
+            target.write_text(page, encoding="utf-8")
+        written += 1
+
+    verb = "would write" if args.dry_run else "wrote"
+    print(f"{verb} {written} genus pages, skipped {skipped} existing, "
+          f"{flagged} flagged for review")
+    if protected:
+        print(f"  protected {protected} hand-written pages (no `generated` tag)")
+    if dropped:
+        print(f"  dropped {len(dropped)} non-taxon headings: "
+              f"{', '.join(sorted(set(dropped)))}")
+    if corrected:
+        print("  corrected OCR names: "
+              + ", ".join(f"{a}->{b}" for a, b in sorted(set(corrected))))
+    return 0
+
+
+if __name__ == "__main__":
+    raise SystemExit(main())
