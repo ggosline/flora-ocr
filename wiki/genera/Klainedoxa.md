@@ -20,8 +20,8 @@ Very large Guineo-Congolian trees with long falcate stipules, simple coriaceous 
 
 | Species | Notes |
 |---|---|
-| [[Klainedoxa_gabonensis|K. gabonensis]] | polymorphic and widespread; includes small-leaved Gabon form |
-| [[Klainedoxa_busgenii|K. büsgenii]] | very large, subcordate leaves; possibly only a variety |
+| [[Klainedoxa_gabonensis\|K. gabonensis]] | polymorphic and widespread; includes small-leaved Gabon form |
+| [[Klainedoxa_busgenii\|K. büsgenii]] | very large, subcordate leaves; possibly only a variety |
 
 ## Treatments
 

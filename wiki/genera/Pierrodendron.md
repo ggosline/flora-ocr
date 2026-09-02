@@ -22,7 +22,7 @@ Small African trees with very large imparipinnate leaves to 1 m and large raceme
 
 | Species | Distribution | Page |
 |---|---|---|
-| [[Pierrodendron_africanum|P. africanum]] | southern Nigeria to Angola and Congo | 45–46 |
+| [[Pierrodendron_africanum\|P. africanum]] | southern Nigeria to Angola and Congo | 45–46 |
 
 The treatment distinguishes the western species *P. kerstingii* by its ten stamens; it was known from Côte d’Ivoire to Cameroon but not treated as Gabonese.
 

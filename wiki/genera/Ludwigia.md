@@ -23,14 +23,14 @@ Usually hygrophilous herbs, sometimes woody at base, often producing aerating ro
 
 | Taxon | Diagnostic feature | Page |
 |---|---|---|
-| [[Ludwigia_abyssinica|*L. abyssinica*]] | 4 stamens; seeds one-rowed | 31 |
-| [[Ludwigia_adscendens|*L. adscendens* subsp. *diffusa*]] | spongy floats or fine aerating roots | 31–33 |
-| [[Ludwigia_africana|*L. africana*]] | mixed short and long hairs; long-pedicellate flowers | 33–35 |
-| [[Ludwigia_erecta|*L. erecta*]] | glabrous; four-angled subsessile capsules | 35–37 |
-| [[Ludwigia_hyssopifolia|*L. hyssopifolia*]] | flattened petioles; stems shortly winged below leaves | 37–38 |
-| [[Ludwigia_leptocarpa|*L. leptocarpa*]] | five-merous; hirsute; spongy aquatic structures | 38 |
-| [[Ludwigia_octovalvis|*L. octovalvis*]] | swollen seed raphe; puberulent capsule | 38–39 |
-| [[Ludwigia_stenorraphe|*L. stenorraphe* subsp. *stenorraphe*]] | glaucous, densely hairy leaf undersides | 39–43 |
+| [[Ludwigia_abyssinica\|*L. abyssinica*]] | 4 stamens; seeds one-rowed | 31 |
+| [[Ludwigia_adscendens\|*L. adscendens* subsp. *diffusa*]] | spongy floats or fine aerating roots | 31–33 |
+| [[Ludwigia_africana\|*L. africana*]] | mixed short and long hairs; long-pedicellate flowers | 33–35 |
+| [[Ludwigia_erecta\|*L. erecta*]] | glabrous; four-angled subsessile capsules | 35–37 |
+| [[Ludwigia_hyssopifolia\|*L. hyssopifolia*]] | flattened petioles; stems shortly winged below leaves | 37–38 |
+| [[Ludwigia_leptocarpa\|*L. leptocarpa*]] | five-merous; hirsute; spongy aquatic structures | 38 |
+| [[Ludwigia_octovalvis\|*L. octovalvis*]] | swollen seed raphe; puberulent capsule | 38–39 |
+| [[Ludwigia_stenorraphe\|*L. stenorraphe* subsp. *stenorraphe*]] | glaucous, densely hairy leaf undersides | 39–43 |
 
 ## Key
 

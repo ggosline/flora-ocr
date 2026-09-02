@@ -23,8 +23,8 @@ Rootless submerged or floating freshwater herbs with branched stems and whorled,
 
 | Species | Regional status | Page |
 |---|---|---|
-| [[Ceratophyllum_demersum|*C. demersum*]] | Recorded in Gabon; cosmopolitan | 10–12 |
-| [[Ceratophyllum_submersum|*C. submersum*]] | Recorded in Cameroon; expected in Gabon | 12–13 |
+| [[Ceratophyllum_demersum\|*C. demersum*]] | Recorded in Gabon; cosmopolitan | 10–12 |
+| [[Ceratophyllum_submersum\|*C. submersum*]] | Recorded in Cameroon; expected in Gabon | 12–13 |
 
 ## Key
 

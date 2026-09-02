@@ -21,15 +21,15 @@ Prickly shrubs or trees with alternate pinnate leaves and oil-gland-dotted leafl
 
 | Species | Habit | Pages |
 |---|---|---:|
-| [[Fagara_buesgenii|F. buesgenii]] | understorey shrub | 16–18 |
-| [[Fagara_bouetensis|F. bouetensis]] | shrub or small tree | 18–21 |
-| [[Fagara_macrophylla|F. macrophylla]] | tree | 21–26 |
-| [[Fagara_tessmannii|F. tessmannii]] | tree | 26–30 |
-| [[Fagara_heitzii|F. heitzii]] | large tree | 30–34 |
-| [[Fagara_claessensii|F. claessensii]] | climbing shrub or small tree | 35–37 |
-| [[Fagara_leprieurii|F. leprieurii]] | shrub or tree | 37–40 |
-| [[Fagara_welwitschii|F. welwitschii]] | shrub or tree | 40–44 |
-| [[Fagara_dinklagei|F. dinklagei]] | woody plant | 44–48 |
+| [[Fagara_buesgenii\|F. buesgenii]] | understorey shrub | 16–18 |
+| [[Fagara_bouetensis\|F. bouetensis]] | shrub or small tree | 18–21 |
+| [[Fagara_macrophylla\|F. macrophylla]] | tree | 21–26 |
+| [[Fagara_tessmannii\|F. tessmannii]] | tree | 26–30 |
+| [[Fagara_heitzii\|F. heitzii]] | large tree | 30–34 |
+| [[Fagara_claessensii\|F. claessensii]] | climbing shrub or small tree | 35–37 |
+| [[Fagara_leprieurii\|F. leprieurii]] | shrub or tree | 37–40 |
+| [[Fagara_welwitschii\|F. welwitschii]] | shrub or tree | 40–44 |
+| [[Fagara_dinklagei\|F. dinklagei]] | woody plant | 44–48 |
 
 ## Treatment
 

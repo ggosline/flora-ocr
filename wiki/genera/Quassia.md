@@ -22,7 +22,7 @@ Shrubs or small trees with imparipinnate leaves and a partly winged rachis. Flow
 
 | Species | Distribution | Page |
 |---|---|---|
-| [[Quassia_africana|Q. africana]] | Cameroon to Angola and the central Congo Basin | 47–49 |
+| [[Quassia_africana\|Q. africana]] | Cameroon to Angola and the central Congo Basin | 47–49 |
 
 ## Treatments
 

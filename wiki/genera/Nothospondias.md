@@ -23,7 +23,7 @@ Dioecious trees with exceptionally large imparipinnate leaves clustered at branc
 
 | Species | Distribution | Page |
 |---|---|---|
-| [[Nothospondias_staudtii|N. staudtii]] | Côte d’Ivoire to Gabon and Mayombe | 52–54 |
+| [[Nothospondias_staudtii\|N. staudtii]] | Côte d’Ivoire to Gabon and Mayombe | 52–54 |
 
 ## Treatments
 

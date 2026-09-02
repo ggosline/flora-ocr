@@ -23,7 +23,7 @@ Rhizomatous or rhizomeless aquatic herbs, often with broader, more coriaceous fl
 
 | Species | Status in the treatment | Page |
 |---|---|---|
-| [[Potamogeton_schweinfurthii|*P. schweinfurthii*]] | Recorded in Cameroon and Gabon | 46–47 |
+| [[Potamogeton_schweinfurthii\|*P. schweinfurthii*]] | Recorded in Cameroon and Gabon | 46–47 |
 | *P. octandrus* | Cameroon; to be sought in Gabon | Key only |
 | *P. nodosus* | Cameroon; to be sought in Gabon | Key only |
 

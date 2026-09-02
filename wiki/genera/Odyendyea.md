@@ -22,7 +22,7 @@ Trees with glabrous imparipinnate leaves. Flowers usually 4-merous; petals imbri
 
 | Species | Distribution | Page |
 |---|---|---|
-| [[Odyendyea_gabonensis|O. gabonensis]] | Cameroon, Gabon | 39–41 |
+| [[Odyendyea_gabonensis\|O. gabonensis]] | Cameroon, Gabon | 39–41 |
 
 ## Treatments
 

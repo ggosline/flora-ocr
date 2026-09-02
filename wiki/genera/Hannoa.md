@@ -22,7 +22,7 @@ African trees with imparipinnate leaves. The calyx encloses the bud and later te
 
 | Species | Distribution | Page |
 |---|---|---|
-| [[Hannoa_klaineana|H. klaineana]] | widespread Guineo-Congolian forest | 42–44 |
+| [[Hannoa_klaineana\|H. klaineana]] | widespread Guineo-Congolian forest | 42–44 |
 
 The treatment also notes the Cameroonian montane *H. ferruginea* but does not provide a species account.
 

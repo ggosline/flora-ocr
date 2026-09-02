@@ -20,9 +20,9 @@ Climbing shrub or liana with cylindrical stems, minute peltate scales and erect 
 
 ## Species in the region
 
-| Species                   | Distribution     | Page                                     |       |
-| ------------------------- | ---------------- | ---------------------------------------- | ----- |
-| [[Dioncophyllum_thollonii | *D. thollonii*]] | Gabon and southern Republic of the Congo | 20–21 |
+| Species                   | Distribution     | Page                                     |
+| ------------------------- | ---------------- | ---------------------------------------- |
+| [[Dioncophyllum_thollonii\|*D. thollonii*]] | Gabon and southern Republic of the Congo | 20–21 |
 
 ## Treatment
 

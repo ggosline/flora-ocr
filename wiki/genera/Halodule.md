@@ -22,7 +22,7 @@ Submerged marine herbs with monopodially branching rhizomes, one or more simple 
 
 | Species | Distribution | Page |
 |---|---|---|
-| [[Halodule_wrightii|*H. wrightii*]] | Atlantic coast; photographed in Estuaire, Gabon | 15–17 |
+| [[Halodule_wrightii\|*H. wrightii*]] | Atlantic coast; photographed in Estuaire, Gabon | 15–17 |
 
 ## Treatment
 

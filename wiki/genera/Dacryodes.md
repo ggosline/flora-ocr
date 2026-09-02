@@ -20,15 +20,15 @@ Resinous trees with imparipinnate leaves and predominantly 3-merous unisexual fl
 
 | Species | Key feature |
 |---|---|
-| [[Dacryodes_buttneri|D. büttneri]] | persistent dense reddish stellate tomentum |
-| [[Dacryodes_normandii|D. normandii]] | caducous long-stalked branched hairs |
-| [[Dacryodes_heterotricha|D. heterotricha]] | persistent short-branched stellate hairs |
-| [[Dacryodes_macrophylla|D. macrophylla]] | few, very large leaflets |
-| [[Dacryodes_klaineana|D. klaineana]] | glabrescent broad leaflets, small globose fruit |
-| [[Dacryodes_edulis|D. edulis]] | cultivated safou; large violet edible fruit |
-| [[Dacryodes_le-testui|D. le-testui]] | dense simple hairs, fruit incompletely known |
-| [[Dacryodes_igaganga|D. igaganga]] | narrow scaled leaflets, rough apiculate stone |
-| [[Dacryodes_ebatom|D. ebatom]] | tiny globose fruit, known only from type |
+| [[Dacryodes_buttneri\|D. büttneri]] | persistent dense reddish stellate tomentum |
+| [[Dacryodes_normandii\|D. normandii]] | caducous long-stalked branched hairs |
+| [[Dacryodes_heterotricha\|D. heterotricha]] | persistent short-branched stellate hairs |
+| [[Dacryodes_macrophylla\|D. macrophylla]] | few, very large leaflets |
+| [[Dacryodes_klaineana\|D. klaineana]] | glabrescent broad leaflets, small globose fruit |
+| [[Dacryodes_edulis\|D. edulis]] | cultivated safou; large violet edible fruit |
+| [[Dacryodes_le-testui\|D. le-testui]] | dense simple hairs, fruit incompletely known |
+| [[Dacryodes_igaganga\|D. igaganga]] | narrow scaled leaflets, rough apiculate stone |
+| [[Dacryodes_ebatom\|D. ebatom]] | tiny globose fruit, known only from type |
 
 ## Keyed but not treated
 

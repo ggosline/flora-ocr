@@ -22,7 +22,7 @@ Semi-terrestrial or aquatic herbs with prostrate or ascending stems rooting at t
 
 | Species | Distribution | Page |
 |---|---|---|
-| [[Laurembergia_tetrandra|*L. tetrandra*]] | Widespread; four Gabonese provinces | 24–27 |
+| [[Laurembergia_tetrandra\|*L. tetrandra*]] | Widespread; four Gabonese provinces | 24–27 |
 
 ## Treatment
 

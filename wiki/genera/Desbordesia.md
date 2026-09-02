@@ -20,7 +20,7 @@ Monotypic Cameroon–Gabon forest-tree genus. It differs from *Irvingia* in its 
 
 | Species | Distribution |
 |---|---|
-| [[Desbordesia_glaucescens|D. glaucescens]] | Cameroon to Mayombe |
+| [[Desbordesia_glaucescens\|D. glaucescens]] | Cameroon to Mayombe |
 
 ## Treatments
 

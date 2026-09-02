@@ -22,7 +22,7 @@ The genus has the characters of Ruppiaceae: glabrous submerged or floating herbs
 
 | Species | Distribution | Page |
 |---|---|---|
-| [[Ruppia_maritima|*R. maritima*]] | Nearly cosmopolitan; photographed in coastal Gabon | 51–52 |
+| [[Ruppia_maritima\|*R. maritima*]] | Nearly cosmopolitan; photographed in coastal Gabon | 51–52 |
 
 ## Treatment
 

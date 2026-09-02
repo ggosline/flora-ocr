@@ -20,9 +20,9 @@ Trees with simple alternate leaves, caducous stipules leaving annular scars, and
 
 | Species | Notes |
 |---|---|
-| [[Irvingia_gabonensis|I. gabonensis]] | widespread; edible oily seed |
-| [[Irvingia_cf_excelsa|I. cf. excelsa]] | uncertain large-fruited northern form |
-| [[Irvingia_grandifolia|I. grandifolia]] | large-leaved wet-ground tree |
+| [[Irvingia_gabonensis\|I. gabonensis]] | widespread; edible oily seed |
+| [[Irvingia_cf_excelsa\|I. cf. excelsa]] | uncertain large-fruited northern form |
+| [[Irvingia_grandifolia\|I. grandifolia]] | large-leaved wet-ground tree |
 
 ## Key
 

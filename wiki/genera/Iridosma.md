@@ -20,9 +20,9 @@ Monotypic tree genus with imparipinnate leaves and paniculate bisexual flowers. 
 
 ## Species in the region
 
-| Species              | Distribution   | Page                               |       |
-| -------------------- | -------------- | ---------------------------------- | ----- |
-| [[Iridosma_le-testui | I. le-testui]] | Gabon endemic, known from the type | 49–51 |
+| Species              | Distribution   | Page                               |
+| -------------------- | -------------- | ---------------------------------- |
+| [[Iridosma_le-testui\|I. le-testui]] | Gabon endemic, known from the type | 49–51 |
 
 ## Treatments
 
