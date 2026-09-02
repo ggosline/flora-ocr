@@ -59,6 +59,14 @@ form and floral details are often more reliable than foliage alone.
       1. Inland primary-forest tree with larger flowers and stout pedicels  
          -> [[Manilkara_fouilloyana|*M. fouilloyana*]]
 
+## Keyed but not treated
+
+The source key separates these species but the volume gives them no treatment, usually because they fall outside the area it covers in full. They are listed for identification; some are extralimital to the region.
+
+- *Manilkara le-testui* — keyed in vol 01, not treated
+- *Manilkara multinervis* — keyed in vol 01, not treated
+- *Manilkara pellegriniana* — keyed in vol 01, not treated
+
 ## Treatments
 
 ### Vol 1 (1961)

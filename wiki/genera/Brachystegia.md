@@ -54,6 +54,13 @@ The 4 species of very large trees known in the Cameroonian-Gabonese forest can b
 | [[Brachystegia_mildbrædii\|*B. mildbrædii*]] | 15 | 279–281 |
 | [[Brachystegia_zenkeri\|*B. zenkeri*]] | 15 | 281–284 |
 
+## Keyed but not treated
+
+The source key separates these species but the volume gives them no treatment, usually because they fall outside the area it covers in full. They are listed for identification; some are extralimital to the region.
+
+- *Brachystegia cynometroides* — keyed in vol 15, not treated
+- *Brachystegia eurycoma* — keyed in vol 15, not treated
+
 ## Treatments
 
 ### Vol 15

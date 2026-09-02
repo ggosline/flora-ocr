@@ -58,6 +58,13 @@ The genus currently comprises 9 species and 1 variety. Two are species of open f
 | [[Daniellia_klainei\|*D. klainei*]] | 15 | 169–171 |
 | [[Daniellia_ogea\|*D. ogea*]] | 15 | 171–172 |
 
+## Keyed but not treated
+
+The source key separates these species but the volume gives them no treatment, usually because they fall outside the area it covers in full. They are listed for identification; some are extralimital to the region.
+
+- *Daniellia oliveri* — keyed in vol 15, not treated
+- *Daniellia thurifera* — keyed in vol 15, not treated
+
 ## Treatments
 
 ### Vol 15

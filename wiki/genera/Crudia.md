@@ -40,6 +40,12 @@ The pantropical genus Crudia comprises approximately 35 species from tropical re
 | [[Crudia_klainei\|*C. klainei*]] | 15 | 155–155 |
 | [[Crudia_gabonensis\|*C. gabonensis*]] | 15 | 155–157 |
 
+## Keyed but not treated
+
+The source key separates these species but the volume gives them no treatment, usually because they fall outside the area it covers in full. They are listed for identification; some are extralimital to the region.
+
+- *Crudia harmsiana* — keyed in vol 15, not treated
+
 ## Treatments
 
 ### Vol 15

@@ -69,6 +69,12 @@ This genus comprises approximately 145 species from tropical and subtropical reg
 | [[Albizia_lebbeck\|*A. lebbeck*]] | 31 | 156–159 |
 | [[Albizia_chinensis\|*A. chinensis*]] | 31 | 159–162 |
 
+## Keyed but not treated
+
+The source key separates these species but the volume gives them no treatment, usually because they fall outside the area it covers in full. They are listed for identification; some are extralimital to the region.
+
+- *Albizia glaberrima* — keyed in vol 31, not treated
+
 ## Treatments
 
 ### Vol 31

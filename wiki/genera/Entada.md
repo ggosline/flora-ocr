@@ -48,6 +48,12 @@ This genus is widespread in tropical regions; it is particularly abundant in Mad
 | [[Entada_gigas\|*E. gigas*]] | 31 | 77–84 |
 | [[Entada_mannii\|*E. mannii*]] | 31 | 84–86 |
 
+## Keyed but not treated
+
+The source key separates these species but the volume gives them no treatment, usually because they fall outside the area it covers in full. They are listed for identification; some are extralimital to the region.
+
+- *Entada pursaetha* — keyed in vol 31, not treated
+
 ## Treatments
 
 ### Vol 31

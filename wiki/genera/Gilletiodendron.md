@@ -42,6 +42,12 @@ One species exists in northern Côte d'Ivoire which is rather closer to G. kisan
 | [[Gilletiodendron_pierreanum\|*G. pierreanum*]] | 15 | 61–63 |
 | [[Gilletiodendron_kisantuense\|*G. kisantuense*]] | 15 | 63–65 |
 
+## Keyed but not treated
+
+The source key separates these species but the volume gives them no treatment, usually because they fall outside the area it covers in full. They are listed for identification; some are extralimital to the region.
+
+- *Gilletiodendron mildbraedii* — keyed in vol 15, not treated
+
 ## Treatments
 
 ### Vol 15

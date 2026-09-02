@@ -32,6 +32,13 @@ part of the ventral face.
 | [[Zeyherella_le-testui\|*Z. le-testui*]] | tree | Lastoursville region | 100 |
 | [[Zeyherella_mayombense\|*Z. mayombense*]] | shrub | Libreville estuary margin and nearby coastal sites | 100-102 |
 
+## Keyed but not treated
+
+The source key separates these species but the volume gives them no treatment, usually because they fall outside the area it covers in full. They are listed for identification; some are extralimital to the region.
+
+- *Zeyherella longepedicellata* — keyed in vol 01, not treated
+- *Zeyherella mayombense* — keyed in vol 01, not treated
+
 ## Treatments
 
 ### Vol 1 (1961)

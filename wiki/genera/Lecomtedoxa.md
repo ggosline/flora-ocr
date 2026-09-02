@@ -33,6 +33,12 @@ full length of the ventral face**.
 | [[Lecomtedoxa_heitzana\|*L. heitzana*]] | tree | very localized in Gabon | 69-70 |
 | [[Lecomtedoxa_biraudii\|*L. biraudii*]] | tree | known only from the type collection | 70-72 |
 
+## Keyed but not treated
+
+The source key separates these species but the volume gives them no treatment, usually because they fall outside the area it covers in full. They are listed for identification; some are extralimital to the region.
+
+- *Lecomtedoxa saint-aubini* — keyed in vol 01, not treated
+
 ## Treatments
 
 ### Vol 1 (1961)

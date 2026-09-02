@@ -44,6 +44,12 @@ E. africanum and typical E. suaveolens do not occur in Gabon. E. suaveolens is p
 |---------|-----|-------|
 | [[Erythrophleum_ivorense\|*E. ivorense*]] | 15 | 341–345 |
 
+## Keyed but not treated
+
+The source key separates these species but the volume gives them no treatment, usually because they fall outside the area it covers in full. They are listed for identification; some are extralimital to the region.
+
+- *Erythrophleum africanum* — keyed in vol 15, not treated
+
 ## Treatments
 
 ### Vol 15

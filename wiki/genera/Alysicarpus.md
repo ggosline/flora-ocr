@@ -56,6 +56,12 @@ Stipule and stipelles. – 4. Young inflorescence and bracteoles. – 5. Flower.
 | [[Alysicarpus_rugosus\|*A. rugosus*]] | 49 | 37–37 |
 | [[Alysicarpus_vaginalis\|*A. vaginalis*]] | 49 | 37–39 |
 
+## Keyed but not treated
+
+The source key separates these species but the volume gives them no treatment, usually because they fall outside the area it covers in full. They are listed for identification; some are extralimital to the region.
+
+- *Alysicarpus glumaceus* — keyed in vol 49, not treated
+
 ## Treatments
 
 ### Vol 49

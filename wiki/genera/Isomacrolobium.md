@@ -40,6 +40,13 @@ About a dozen species from West and equatorial Africa: I. elongatum in Sierra Le
 | [[Isomacrolobium_conchyliophorum\|*I. conchyliophorum*]] | 15 | 191–191 |
 | [[Isomacrolobium_isopetalum\|*I. isopetalum*]] | 15 | 191–193 |
 
+## Keyed but not treated
+
+The source key separates these species but the volume gives them no treatment, usually because they fall outside the area it covers in full. They are listed for identification; some are extralimital to the region.
+
+- *Isomacrolobium hallei* — keyed in vol 15, not treated
+- *Isomacrolobium leptorrhachis* — keyed in vol 15, not treated
+
 ## Treatments
 
 ### Vol 15

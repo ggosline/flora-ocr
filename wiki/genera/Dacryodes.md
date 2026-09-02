@@ -30,6 +30,13 @@ Resinous trees with imparipinnate leaves and predominantly 3-merous unisexual fl
 | [[Dacryodes_igaganga|D. igaganga]] | narrow scaled leaflets, rough apiculate stone |
 | [[Dacryodes_ebatom|D. ebatom]] | tiny globose fruit, known only from type |
 
+## Keyed but not treated
+
+The source key separates these species but the volume gives them no treatment, usually because they fall outside the area it covers in full. They are listed for identification; some are extralimital to the region.
+
+- *Dacryodes heterotricha* — keyed in vol 03, not treated
+- *Dacryodes osika* — keyed in vol 03, not treated
+
 ## Treatments
 
 ### Vol 3 (1962)

@@ -37,6 +37,12 @@ Two neighboring species, one Gabonese, the other Cameroonian, both producers of 
 |---------|-----|-------|
 | [[Microberlinia_brazzavillensis\|*M. brazzavillensis*]] | 15 | 287–290 |
 
+## Keyed but not treated
+
+The source key separates these species but the volume gives them no treatment, usually because they fall outside the area it covers in full. They are listed for identification; some are extralimital to the region.
+
+- *Microberlinia bisulcata* — keyed in vol 15, not treated
+
 ## Treatments
 
 ### Vol 15

@@ -57,6 +57,12 @@ Trees of moderate interest for timber exploitation.
 | [[Plagiosiphon_gabonensis\|*P. gabonensis*]] | 15 | 88–89 |
 | [[Plagiosiphon_multijugus\|*P. multijugus*]] | 15 | 89–91 |
 
+## Keyed but not treated
+
+The source key separates these species but the volume gives them no treatment, usually because they fall outside the area it covers in full. They are listed for identification; some are extralimital to the region.
+
+- *Plagiosiphon longitubus* — keyed in vol 15, not treated
+
 ## Treatments
 
 ### Vol 15

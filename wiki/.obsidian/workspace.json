@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "genera/Afzelia.md",
+                "file": "species/Diospyros_moutsambotei.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Afzelia"
+              "title": "Diospyros_moutsambotei"
             }
           }
         ]
@@ -187,8 +187,9 @@
   },
   "active": "751504066fed907e",
   "lastOpenFiles": [
-    "Afzelia_pachyloba.md",
+    "genera/Diospyros.md",
     "genera/Afzelia.md",
+    "Afzelia_pachyloba.md",
     "families/Leguminosae.md",
     "genera/Monopetalanthus.md",
     "Monopetalanthus_ledermannii.md",
@@ -212,7 +213,6 @@
     "genera/Sindora.md",
     "genera/Sesbania.md",
     "genera/Scorodophloeus.md",
-    "genera/Schrankia.md",
     "CuLX5GZw/Polygonaceae_vol7_paddle/figures/fig_002_p0015.png",
     "CuLX5GZw/Polygonaceae_vol7_paddle/figures/fig_001_p0009.png",
     "CuLX5GZw/Polygonaceae_vol7_paddle/figures/fig_000_p0002.png",

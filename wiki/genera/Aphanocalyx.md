@@ -59,6 +59,12 @@ J. Eckendorff: 118, region of Djoua (fl. Sept.).
 |---------|-----|-------|
 | [[Aphanocalyx_margininervatus\|*A. margininervatus*]] | 15 | 277–278 |
 
+## Keyed but not treated
+
+The source key separates these species but the volume gives them no treatment, usually because they fall outside the area it covers in full. They are listed for identification; some are extralimital to the region.
+
+- *Aphanocalyx cynometroides* — keyed in vol 15, not treated
+
 ## Treatments
 
 ### Vol 15

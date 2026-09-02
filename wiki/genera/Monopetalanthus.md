@@ -50,6 +50,16 @@ We count 2 species in Sierra Leone and Liberia, M. pteridophyllus, M. compactus,
 | [[Monopetalanthus_longiracemosus\|*M. longiracemosus*]] | 15 | 318–319 |
 | [[Monopetalanthus_coriaceus\|*M. coriaceus*]] | 15 | 319–322 |
 
+## Keyed but not treated
+
+The source key separates these species but the volume gives them no treatment, usually because they fall outside the area it covers in full. They are listed for identification; some are extralimital to the region.
+
+- *Monopetalanthus hedinii* — keyed in vol 15, not treated
+- *Monopetalanthus heitzii* — keyed in vol 15, not treated
+- *Monopetalanthus le-testui* — keyed in vol 15, not treated
+- *Monopetalanthus leonardii* — keyed in vol 15, not treated
+- *Monopetalanthus richardsiae* — keyed in vol 15, not treated
+
 ## Treatments
 
 ### Vol 15

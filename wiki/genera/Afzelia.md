@@ -47,6 +47,12 @@ The 4 species which concern us in Cameroon and Gabon are separated thus:
 | [[Afzelia_bipindensis\|*A. bipindensis*]] | 15 | 115–118 |
 | [[Afzelia_bella\|*A. bella*]] | 15 | 118–119 |
 
+## Keyed but not treated
+
+The source key separates these species but the volume gives them no treatment, usually because they fall outside the area it covers in full. They are listed for identification; some are extralimital to the region.
+
+- *Afzelia africana* — keyed in vol 15, not treated
+
 ## Treatments
 
 ### Vol 15
@@ -55,7 +61,28 @@ The 4 species which concern us in Cameroon and Gabon are separated thus:
 
 ## Notes
 
-<!-- TODO:notes -->
+*Afzelia africana* is **in region** despite having no treatment in vol. 15.
+Aubreville keys four species but treats three, excluding *A. africana* because
+it belongs to the northern peripheral domain — Sudano-Guinean dry forest and
+gallery forest — rather than the volume's Cameroon–Gabon core. That exclusion
+is an artefact of the volume's scope, not of the region's: the species is
+widespread in northern Nigeria and the Cameroon savannas, both inside this
+wiki's Nigeria-to-western-DRC compass, and it is also the genus type
+(*A. africana* Smith ex Pers., Syn. Pl. 1: 455, 1805).
+
+It keys out on a short receptacle (0.5–0.6 cm), 3–5 pairs of leaflets, a small
+standard petal (1.3–1.5 cm) and straight — not reniform — pods, with an
+orange-red aril.
+
+The two large timber species, *A. bipindensis* (red doussie) and *A. pachyloba*
+(white doussie), are the commercially important members of the genus here; both
+are absent from the Libero-Ivorian domain. *A. bella* var. *bella* is only an
+understorey shrub in Gabon, Cameroon and Congo, though var. *gracilior* reaches
+tree size in Cote d'Ivoire.
+
+Modern treatments place *Afzelia* in Leguminosae subfam. **Detarioideae**
+(LPWG 2017), formerly Caesalpiniaceae / Caesalpinioideae in the sense used by
+this volume.
 
 ## See also
 

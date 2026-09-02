@@ -33,6 +33,12 @@ Three Guineo-Congolian species, one in southern Cameroon and two in Congo. Two s
 |---------|-----|-------|
 | [[Leonardoxa_africana\|*L. africana*]] | 15 | 83–85 |
 
+## Keyed but not treated
+
+The source key separates these species but the volume gives them no treatment, usually because they fall outside the area it covers in full. They are listed for identification; some are extralimital to the region.
+
+- *Leonardoxa bequaertii* — keyed in vol 15, not treated
+
 ## Treatments
 
 ### Vol 15

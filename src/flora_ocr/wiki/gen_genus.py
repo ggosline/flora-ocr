@@ -14,6 +14,11 @@ for a finished one:
     <!-- TODO:notes -->       the Notes section, which needs world knowledge the
                               source does not contain
 
+A genus page also carries a "Keyed but not treated" section where the source
+key separates more species than the volume treats -- see `keyed_species`. It is
+rendered from the source, never inferred, and is kept out of the species table
+so that table keeps meaning "treated here".
+
 Usage
 -----
     python -m flora_ocr.wiki.gen_genus --family Leguminosae --dry-run
@@ -33,6 +38,7 @@ from collections import defaultdict
 from pathlib import Path
 
 from flora_ocr.flora import REPO_ROOT
+from flora_ocr.wiki import keyed_species
 
 BUNDLE_DIR = REPO_ROOT / "build" / "wiki_bundles"
 WIKI_DIR = REPO_ROOT / "wiki"
@@ -150,6 +156,26 @@ def species_rows(blocks: list[dict], genus: str) -> list[dict]:
     return [b for b in blocks if b["rank"] == "species" and b.get("genus") == genus]
 
 
+KEYED_HEADING = "## Keyed but not treated"
+KEYED_PREAMBLE = (
+    "The source key separates these species but the volume gives them no "
+    "treatment, usually because they fall outside the area it covers in full. "
+    "They are listed for identification; some are extralimital to the region."
+)
+
+
+def keyed_section(entries: list[tuple[dict, dict]], genus: str) -> list[str]:
+    """The 'keyed but not treated' block, or [] when the key adds nothing."""
+    extra = keyed_species.for_genus(entries, genus)
+    if not extra:
+        return []
+    out = [KEYED_HEADING, "", KEYED_PREAMBLE, ""]
+    for epithet, vol in extra:
+        out.append(f"- *{genus} {epithet}* — keyed in vol {vol}, not treated")
+    out.append("")
+    return out
+
+
 def yaml_list(items) -> str:
     return "[" + ", ".join(items) + "]"
 
@@ -233,6 +259,8 @@ def render(genus: str, entries: list[tuple[dict, dict]]) -> str:
         body.append("*No species blocks were segmented for this genus in the source.*")
     body.append("")
 
+    body.extend(keyed_section(entries, genus))
+
     body.append("## Treatments")
     body.append("")
     for tr in treatments:
@@ -263,6 +291,32 @@ def render(genus: str, entries: list[tuple[dict, dict]]) -> str:
     return "\n".join(fm) + "\n".join(body)
 
 
+SECTION_RE = re.compile(
+    rf"^{re.escape(KEYED_HEADING)}\n.*?(?=^## )", re.M | re.S)
+
+
+def patch_page(text: str, section: list[str]) -> str | None:
+    """Insert or refresh the keyed section in an existing page.
+
+    Returns None when nothing changes. Everything else on the page -- including
+    a translated diagnosis and any hand-written Notes -- is left exactly as it
+    is, which is the whole point: regenerating a page would throw the
+    translation away and cost another pass to get back.
+    """
+    block = "\n".join(section) + "\n" if section else ""
+    if SECTION_RE.search(text):
+        updated = SECTION_RE.sub(lambda _: block, text, count=1)
+    elif not block:
+        return None
+    else:
+        # the section belongs after the species table and before Treatments
+        anchor = re.search(r"^## Treatments$", text, re.M)
+        if not anchor:
+            return None
+        updated = text[:anchor.start()] + block + text[anchor.start():]
+    return updated if updated != text else None
+
+
 def main(argv: list[str] | None = None) -> int:
     ap = argparse.ArgumentParser(description=__doc__,
                                  formatter_class=argparse.RawDescriptionHelpFormatter)
@@ -272,6 +326,10 @@ def main(argv: list[str] | None = None) -> int:
     ap.add_argument("--out", default=str(WIKI_DIR / "genera"))
     ap.add_argument("--force", action="store_true",
                     help="overwrite existing pages (they are usually better)")
+    ap.add_argument("--patch-keyed", action="store_true",
+                    help="only insert/refresh the 'keyed but not treated' "
+                         "section on existing pages, leaving all other content "
+                         "(translations, notes) untouched")
     ap.add_argument("--dry-run", action="store_true")
     args = ap.parse_args(argv)
 
@@ -301,6 +359,29 @@ def main(argv: list[str] | None = None) -> int:
             by_genus[name].append((bundle, block))
 
     out_dir = Path(args.out)
+
+    if args.patch_keyed:
+        patched = unchanged = missing = 0
+        for genus, entries in sorted(by_genus.items()):
+            target = out_dir / f"{genus}.md"
+            if not target.exists():
+                missing += 1
+                continue
+            text = target.read_text(encoding="utf-8")
+            updated = patch_page(text, keyed_section(entries, genus))
+            if updated is None:
+                unchanged += 1
+                continue
+            n = updated.count("— keyed in vol")
+            print(f"  {genus}: {n} keyed-but-untreated species")
+            if not args.dry_run:
+                target.write_text(updated, encoding="utf-8")
+            patched += 1
+        verb = "would patch" if args.dry_run else "patched"
+        print(f"{verb} {patched} pages, {unchanged} unchanged, "
+              f"{missing} with no page yet")
+        return 0
+
     written = skipped = flagged = protected = 0
     for genus, entries in sorted(by_genus.items()):
         target = out_dir / f"{genus}.md"

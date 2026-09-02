@@ -106,6 +106,13 @@ They have not yet been transcribed into the wiki because the OCR is noisy and
 the treatment is unusually long. For now, use the source directly for
 specimen-level identification.
 
+## Keyed but not treated
+
+The source key separates these species but the volume gives them no treatment, usually because they fall outside the area it covers in full. They are listed for identification; some are extralimital to the region.
+
+- *Diospyros ebenum* — keyed in vol 18, not treated
+- *Diospyros sanza-minika* — keyed in vol 18, not treated
+
 ## Treatments
 
 ### Vol 18 (1970)

@@ -33,6 +33,12 @@ subglobose, with **5-30 seeds** that have a linear ventral scar.
 | [[Omphalocarpum_elatum\|*O. elatum*]] | small to medium tree | Bounzocou and Koulounga | 82-83 |
 | [[Omphalocarpum_le-testui\|*O. le-testui*]] | tree | Oyem, Moncoumana Idemba, Endama | 83-84 |
 
+## Keyed but not treated
+
+The source key separates these species but the volume gives them no treatment, usually because they fall outside the area it covers in full. They are listed for identification; some are extralimital to the region.
+
+- *Omphalocarpum le-testui* — keyed in vol 01, not treated
+
 ## Treatments
 
 ### Vol 1 (1961)

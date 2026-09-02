@@ -39,6 +39,12 @@ Notes: Genus rarely collected in Gabon. The following species have been included
 | [[Erythrina_vogelii\|*E. vogelii*]] | 49 | 201–202 |
 | [[Erythrina_wieringae\|*E. wieringae*]] | 49 | 202–202 |
 
+## Keyed but not treated
+
+The source key separates these species but the volume gives them no treatment, usually because they fall outside the area it covers in full. They are listed for identification; some are extralimital to the region.
+
+- *Erythrina fusca* — keyed in vol 49, not treated
+
 ## Treatments
 
 ### Vol 49
