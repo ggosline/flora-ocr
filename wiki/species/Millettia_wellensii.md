@@ -17,27 +17,19 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Arbuste de 4 m de hauteur ou liane ; rameaux, feuilles et inflorescences noires sur le sec , pétioles, rachis et inflorescences à pubescence courte, brune ; bourgeons comprimés. Stipules caduques, lancéolées, ± 8 × 1,5 mm. Feuille : pétiole 4–10 cm ; rachis 8–12 cm, canaliculé dessus ; stipelles filiformes, fragiles, (3–)4–7(–9) mm ; folioles (7–)9 à 11, pétiolule 3–4 mm, peu poilu ; à limbe oblong à ovale, 6–10(–16) × 2,5–4(–8) cm, base subcordée, acumen court et obtus à longuement pointu, atteignant 3 cm, les 2 faces brillantes, subglabre ; nervure médiane peu ou non poilue dessous, les latérales en (6–)8 à 10 paires. Inflorescence en panicule terminale de 35–40 cm de longueur ; pédoncule 4–7 cm ; ramilles florifères étalées, 2–5 cm, à 1 ou 2 fleurs par nœud ; bractées caduques, ovales-acuminées, ± 5–7 × 4 mm. Fleur : pédicelle 3–4 mm, pourvu de minuscules touffes de poils brun pâle, longs de 0,1–0,2 mm ; bractéoles caduques, près de la base du calice, étroitement elliptiques-ovales, ± 5 × 1 mm, pubescentes ; calice à tube de ± 4,5 mm de longueur et lobes de 0,5 mm ; corolle blanche à jaunâtre , étendard à limbe suborbiculaire, ± 9–10 mm de longueur, sans auricules, ni gibbosités, sommet émarginé, à onglet de 3 mm, ailes à limbe obovale, 10 × 2 mm, à onglet de 5 mm, pétales de la carène obovales-pointus, limbe 10 × 5 mm, onglet 5 mm ; étamines diadelphes, 14 mm de longueur ; ovaire 5 mm de longueur, faiblement toruleux, densément velu ; style 2 mm, velu, stigmate globuleux. Gousse et graine inconnues.
+Shrub 4 m tall or liane; branches, leaves and inflorescences black when dry, petioles, rachis and inflorescences with short, brown pubescence; buds compressed. Stipules caducous, lanceolate, ± 8 × 1.5 mm. Leaf: petiole 4–10 cm; rachis 8–12 cm, channeled above; stipels filiform, fragile, (3–)4–7(–9) mm; leaflets (7–)9 to 11, petiolule 3–4 mm, slightly hairy; lamina oblong to ovate, 6–10(–16) × 2.5–4(–8) cm, base subcordate, acumen short and obtuse to long and acute, reaching 3 cm, both surfaces glossy, subglabrous; midvein slightly or not hairy below, lateral veins in (6–)8 to 10 pairs. Inflorescence a terminal panicle 35–40 cm long; peduncle 4–7 cm; flowering branchlets spreading, 2–5 cm, with 1 or 2 flowers per node; bracts caducous, ovate-acuminate, ± 5–7 × 4 mm. Flower: pedicel 3–4 mm, bearing minute tufts of pale brown hairs, 0.1–0.2 mm long; bracteoles caducous, near the base of the calyx, narrowly elliptic-ovate, ± 5 × 1 mm, pubescent; calyx with tube ± 4.5 mm long and lobes 0.5 mm; corolla white to yellowish, standard with suborbicular lamina, ± 9–10 mm long, without auricles or gibbosities, apex emarginate, with claw 3 mm, wings with obovate lamina, 10 × 2 mm, with claw 5 mm, keel petals obovate-acute, lamina 10 × 5 mm, claw 5 mm; stamens diadelphous, 14 mm long; ovary 5 mm long, weakly torulose, densely hairy; style 2 mm, hairy, stigma globose. Pod and seed unknown.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-sud du Cameroun, Gabon et République démocratique du Congo ; au Gabon, connue du Moyen-Ogooué et de l’Ogooué-Maritime
+southern Cameroon, Gabon and Democratic Republic of the Congo; in Gabon, known from Moyen-Ogooué and Ogooué-Maritime
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-clairière de forêt, forêt perturbée près des rivières ; au Gabon à 50–100 m d’altitude, ailleurs à basse altitude. Fleurs en octobre, décembre et janvier
+forest clearing, disturbed forest near rivers; in Gabon at 50–100 m altitude, elsewhere at low altitude. Flowers in October, December and January
 
 ## Source note
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Hauman (1954a) avait déjà suggéré que M. wellensii pourrait être présente au Gabon, l’holotype provenant de Vaku dans le Mayumbe de la République démocratique du Congo. Les pétales sont très sensibles au toucher et sujets à dégâts après manipulation. B : Hauman (1954a). i B liographie
+Hauman (1954a) had already suggested that M. wellensii could be present in Gabon, the holotype coming from Vaku in the Mayumbe of the Democratic Republic of the Congo. The petals are very sensitive to touch and subject to damage after handling. B: Hauman (1954a). Bibliography
 
 ## Notes
 

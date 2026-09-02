@@ -21,13 +21,11 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Lianes. Branches glabrous, purple. Leaves simple. Limb oblong-elliptic to ovate, obtuse or rounded at the base, obtuse or shortly acuminate at the apex, 5–15 cm long by 3–7 cm wide, glabrous, papyraceous. Nerves 3 (–5) at the base. Reticulum prominent on both faces. Petiole approximately 5 mm long.
 
-Lianes. Rameaux glabres, pourprés. Feuilles simples. Limbe oblong-elliptique à ovale, obtus ou arrondi à la base, obtus ou courtement acuminé au sommet, de 5-15 cm long sur 3-7 cm large, glabre, papyracé. Nervures 3 (-5) à la base. Reticulum saillant sur les 2 faces. Pétiole d'env. 5 mm long.
+Terminal racemes, up to 20 cm in length, glabrous. Bracts and bracteoles triangular, very small, approximately 2 mm in length. Flowers yellow to red, glabrous. Pedicel slender, 5–10 mm. Receptacle cylindric, 2–3 cm in length, enlarged at the apex. Calyx brown-orange or red-orange with tube 3–6 mm and deltoid lobes 2–3 mm in length. Petals lanceolate pale green, acute at the base, rounded at the apex, 1–1.5 cm in length by 3–4 mm in width. Stamens with filaments approximately 2 cm, slightly puberulent. Anthers blue-blackish. Ovary glabrous.
 
-Racèmes terminaux, jusqu'à 20 cm de longueur, glabres. Bractées et bractéoles triangulaires, très petites, env. 2 mm de longueur. Fleurs jaunes à rouges, glabres. Pédicelle grêle, de 5-10 mm. Réceptacle cylindrique de 2-3 cm de longueur, élargi au sommet. Calice brun orangé ou rouge orangé à tube de 3-6 mm et lobes deltoïdes de 2-3 mm de longueur. Pétales blancéolés vert pâle, aigus à la base, arrondis au sommet, de 1-1,5 cm de longueur sur 3-4 mm de largeur. Étamines à filets de 2 cm environ, un peu pubérulents. Anthères bleu noirâtre. Ovaire glabre.
-
-Gousses à stipes de 2,5 cm de longueur, obliquement oblongues gonflées, noirâtres, coriaces, de 5-7 cm de longueur sur 3-4 cm de largeur. Graines 1-2, suborbiculaires, de 1,2 cm de diamètre.
+Pods with stipes 2.5 cm in length, obliquely oblong swollen, blackish, coriaceous, 5–7 cm in length by 3–4 cm in width. Seeds 1–2, suborbicular, 1.2 cm in diameter.
 
 ## Type
 
@@ -35,11 +33,9 @@ Griffon du Bellay 346, Gabon (P)
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Large liane widespread from Cameroon to Fernando Po, in Gabon and in the Congo Basin. Shrubby small tree in secondary thickets.
 
-Grande liane répandue du Cameroun à Fernando Po, au Gabon et à la cuvette congolaise. Arbrisseau buissonnant dans les fourrés secondaires.
-
-Pellegrin a fait cette remarque que l’espèce était très variable quant à la longueur du calice et la pubescence du pédicelle.
+Pellegrin made the observation that the species was highly variable with respect to the length of the calyx and the pubescence of the pedicel.
 
 ## Vernacular names
 

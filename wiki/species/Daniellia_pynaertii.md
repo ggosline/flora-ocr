@@ -21,15 +21,11 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Trees. Leaves with 5–9 pairs of leaflets. Rachis 10–25 cm long. Leaflets oblong, elliptic or lanceolate, acuminate, measuring 5–13 cm in length × 2–5 cm in width, more or less hairy beneath. Branches glabrous or glabrescent.
 
-Arbres. Feuilles à 5-9 paires de folioles. Rachis long de 10-25 cm. Folioles oblongues, elliptiques ou lancéolées, acuminées, mesurant 5-13 cm de longueur × 2-5 cm de largeur, plus ou moins poilues en dessous. Ramifications glabres ou glabrescentes.
+Flowers violaceous. Pedicel + receptacle, 1.5–3 cm in length. Receptacle glabrous. Sepals up to 2 cm in length and 18 mm in width. Petals 3 large and 2 rudimentary. Filaments of the stamens up to 4 cm in length, hairy on the lower half. Ovary glabrous.
 
-Fleurs violacées. Pédicelle + réceptacle, 1,5-3 cm de longueur. Réceptacle glabre. Sépales jusqu'à 2 cm de longueur sur 18 mm de largeur. Pétales 3 grands et 2 rudimentaires. Filets des étamines
-
-jusqu'à 4 cm de longueur, poilus sur la moitié inférieure. Ovaire glabre.
-
-Gousses de 7 × 3.5 cm environ.
+Pods approximately 7 × 3.5 cm.
 
 ## Type
 
@@ -37,11 +33,9 @@ Pynaert 679, Eala (BR)
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+This large tree would be characteristic — according to Léonard — of swampy or periodically inundated forests in the western part of the Congo Basin.
 
-Ce grand arbre serait caractéristique — d’après Léonard — des forêts marécageuses ou périodiquement inondées de la partie occidentale de la cuvette congolaise.
-
-L'espèce reste mal connue. Elle est signalée, à l'ouest, en Côte d'Ivoire, puis en Nigéria, au Gabon et au Congo.
+The species remains poorly known. It is recorded, in the west, in Côte d'Ivoire, then in Nigeria, Gabon and Congo.
 
 ## Specimens examined
 

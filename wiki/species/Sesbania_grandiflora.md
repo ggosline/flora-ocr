@@ -17,21 +17,15 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Arbre de 2–5 m de hauteur ou arbuste à branches assez épaisses ; ramilles d’abord pubescentes. Stipules caduques. Feuille 15–25 cm de longueur ; pétiole cylindrique, glabre ou éparsement soyeux ; stipelles subulées, minuscules ; folioles en (10–)15 à 20 paires, à limbe oblong, 2,5–3 × 0,5–1 cm, base un peu inégale, sommet arrondi, mucronulé, glabre ou à pubescence courte ; nervures latérales en 6 paires. Inflorescence lâche, en racèmes pauciflores ; pédoncules soyeux. Fleur grande, atteignant 10–12 cm de longueur ; calice ± 2 cm de longueur, avec quelques petites dents ; corolle blanche, rose ou rouge , étendard largement ovale, à sommet légèrement émarginé, sans appendices , ailes oblique-ovales, carène comparable ; étamines ± géniculées près de la base, tube staminal courbé ; ovaire linéaire, pubescent, courbé. Gousse linéaire, atteignant 30(–60) × 0,8–0,9 cm , légèrement aplatie , légèrement moniliforme, avec 15 à 25 graines, brune à maturité, sutures marquées, acumen 2–3 cm de longueur. Graine oblique-réniforme, 7 × 5 × 2–3 mm, brun-rouge à orange .
+Tree 2–5 m tall or shrub with fairly thick branches; branchlets at first pubescent. Stipules caducous. Leaf 15–25 cm long; petiole cylindrical, glabrous or sparsely silky; stipels subulate, minute; leaflets in (10–)15 to 20 pairs, with oblong blade, 2.5–3 × 0.5–1 cm, base somewhat unequal, apex rounded, mucronate, glabrous or with short pubescence; lateral veins in 6 pairs. Inflorescence lax, in pauciflorous racemes; peduncles silky. Flower large, reaching 10–12 cm long; calyx ± 2 cm long, with a few small teeth; corolla white, pink or red, standard broadly ovate, apex slightly emarginate, without appendages, wings oblique-ovate, keel comparable; stamens ± geniculate near the base, staminal tube curved; ovary linear, pubescent, curved. Legume linear, reaching 30(–60) × 0.8–0.9 cm, slightly flattened, slightly moniliform, with 15 to 25 seeds, brown at maturity, sutures marked, acumen 2–3 cm long. Seed oblique-reniform, 7 × 5 × 2–3 mm, reddish-brown to orange.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-originaire de l’Inde, largement disséminée par l’homme sous tous les tropiques ; au Gabon, collectée dans l’Estuaire (Libreville)
+native to India, widely disseminated by man throughout all tropics; in Gabon, collected in the Estuary (Libreville)
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-plantée dans les jardins comme légume ou ornement, ou bien comme haie ou brise-vent (temporaire), naturalisée surtout en bord de routes ; au Gabon à basse altitude, ailleurs jusqu’à 800 m. Usage : Les fleurs et jeunes fruits sont mangés comme légumes en Indonésie et l’Indochine. Les plantes sont très utilisées comme haie vive ornementale. Les feuilles et l’écorce sont médicinales et servent comme fourrage
+planted in gardens as a vegetable or ornament, or as a hedge or windbreak (temporary), naturalized especially along roadsides; in Gabon at low altitude, elsewhere up to 800 m. Uses: The flowers and young fruits are eaten as vegetables in Indonesia and Indochina. The plants are very much used as ornamental live hedges. The leaves and bark are medicinal and serve as fodder
 
 ## Vernacular names
 

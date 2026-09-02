@@ -22,13 +22,11 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Large tree. Leaflets ovate falcate, acuminate acute, rather obliquely cuneate at the base, 6.5–20 cm long by 3–10 cm wide, riddled with translucent dots, glabrous, coriaceous. Petiole 1.5–3 cm long.
 
-Grand arbre. Folioles ovées falciformes, acuminées aiguës, plutôt obliquement cunéiformes à la base, de 6,5-20 cm de longueur sur 3-10 cm de largeur, criblées de points translucides, glabres, coriaces. Pétiole de 1,5-3 cm de longueur.
+Spike racemes, axillary or terminal, reaching 20 cm; axes densely pubescent. Bracts and bracteoles forming cupules at the base of buds and flowers. Flowers sessile. Sepals 4, puberulent externally, 5–6 mm long × 3–4 mm wide, one of them being narrower. Disc and ovary glabrous; 2 ovules.
 
-Grappes d’épis, axillaires ou terminales, atteignant 20 cm; axes densément pubescents. Bractées et bractéoles formant des cupules à la base des boutons et des fleurs. Fleurs sessiles. Sépales 4, pubérulents extérieurement, 5-6 mm de longueur × 3-4 mm de largeur, l’un d’eux étant plus étroit. Disque et ovaire glabres; 2 ovules.
-
-Gousses orbiculaires ou elliptiques, plates, longtemps indéhiscentes, glabres, longues de 2-4 cm sur 2-3 cm de largeur; complètement entourées d'une marge très étroite, s'ouvrant en 2 valves minces.
+Legumes orbicular or elliptic, flat, long indehiscent, glabrous, 2–4 cm long by 2–3 cm wide; completely surrounded by a very narrow margin, opening into 2 thin valves.
 
 ## Vernacular names
 
@@ -42,11 +40,9 @@ Demeuse, Lac Léopold II, Congo (B)
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Large tree with a cylindrical, straight trunk, with thin, raised buttresses, smooth bark, grey, with a reddish brittle fracture.
 
-Grand arbre au fût cylindrique, droit, à contreforts minces, élevés, à écorce lisse, grise, de tranche cassante rougeâtre.
-
-Espèce typique des forêts périodiquement inondées, des forêts marécageuses, et des galeries forestières dont elle est souvent un des éléments dominants. Particulièrement abondante dans la cuvette congolaise, elle s'étend sporadiquement au Gabon et au Cameroun en suivant les cours d'eau. Une des principales espèces africaines productrices de copal. Le copal fossile récolté dans les formations marécageuses provient vraisemblablement des anciens peuplements de G. Demeusii. Bois rouge vif, dur et lourd.
+Typical species of periodically inundated forests, swamp forests, and forest galleries of which it is often one of the dominant elements. Particularly abundant in the Congo Basin, it extends sporadically to Gabon and Cameroon following watercourses. One of the main African copal-producing species. Fossil copal collected in swamp formations presumably derives from former populations of G. Demeusii. Wood bright red, hard and heavy.
 
 ## Specimens examined
 

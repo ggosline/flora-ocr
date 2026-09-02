@@ -17,21 +17,15 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Arbre ; rameaux veloutés, brun-rouge, lenticellés. Feuille : pétiole 1–3 cm ; rachis 6–12 cm ; folioles 7 à 12 , pétiolule 5 mm, limbe oblong, 4–12 × 2–4 cm, à sommet cuspidé ou acuminé, glabre et luisant dessus, velouté rouge-brun dessous , moins dense avec l’âge, montrant des glandes dorées ; nervures latérales en 10 à 12 paires. Inflorescence axillaire, en pseudoracème velouté brun-rouge ; bractées 1 mm de longueur. Fleur : pédicelle 2–3 mm ; bractéoles 1 mm de longueur ; calice cylindrique, ensuite turbiné, 5 mm de longueur, à bord sinueux-denté, velouté brun-rouge ; corolle blanche et brun-rouge, étendard redressé et ± rédupliqué, largement elliptique, 16–17 × 11–12 mm, légèrement émarginé au sommet, base tronquée et à onglet court, ailes oblongues, 12–14 × 3 mm, à base auriculée et à onglet court, glabres et glanduleuses, carène obtuse, 14 × 5 mm, glanduleuse et suture inférieure veloutée ; étamines 13–14 mm, glabres, anthères ovales-cordiformes ; ovaire lancéolé, poilu et glanduleux ; style oblique, court et glabrescent. Gousse et graine inconnues.
+Tree; branchlets velvety, reddish-brown, lenticellate. Leaf: petiole 1–3 cm; rachis 6–12 cm; leaflets 7 to 12, petiolule 5 mm, limb oblong, 4–12 × 2–4 cm, with cuspidate or acuminate apex, glabrous and glossy above, reddish-brown velvety below, less dense with age, showing golden glands; lateral veins in 10 to 12 pairs. Inflorescence axillary, in reddish-brown velvety pseudoraceme; bracts 1 mm long. Flower: pedicel 2–3 mm; bracteoles 1 mm long; calyx cylindric, then turbinate, 5 mm long, with sinuate-dentate margin, reddish-brown velvety; corolla white and reddish-brown, standard erect and ± reduplicate, broadly elliptic, 16–17 × 11–12 mm, slightly emarginate at apex, truncate base and short claw, wings oblong, 12–14 × 3 mm, with auriculate base and short claw, glabrous and glandular, keel obtuse, 14 × 5 mm, glandular and lower suture velvety; stamens 13–14 mm, glabrous, anthers ovate-cordate; ovary lanceolate, hairy and glandular; style oblique, short and glabrescent. Pod and seed unknown.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-endémique du Gabon, connue de la région de Lastoursville (Ogooué-Lolo)
+endemic to Gabon, known from the Lastoursville region (Ogooué-Lolo)
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-forêts ; à environ 200–500 m d’altitude. B : Pellegrin (1949), Raponda-Walker & Sillans (1961). i B liographie
+forests; at approximately 200–500 m altitude. B: Pellegrin (1949), Raponda-Walker & Sillans (1961). Bibliography
 
 ## Notes
 

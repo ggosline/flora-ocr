@@ -17,31 +17,23 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Herbe annuelle, 0,2–1,5 m de hauteur ; tige dressée, assez ramifiée ; rameaux grêles, finement pubescents. Stipules sétacées, 2–4 mm de longueur. Feuille : pétiole 0,5–4 mm ; rachis 1,5–
+Annual herb, 0.2–1.5 m tall; stem erect, fairly branched; branches slender, finely pubescent. Stipules setaceous, 2–4 mm long. Leaf: petiole 0.5–4 mm; rachis 1.5–
 
 Lerinckx, Jardin Botanique Meise (©).
 
-8(–10) cm de longueur ; stipelles absentes ; folioles 11 à 41 , opposées ou presque, légèrement caduques, à limbe elliptique-oblong, 4–12 × 1,5–5 mm, éparsement pubescent sur les deux faces, blanchâtre dessus, blanchâtre et brun doré dessous, surtout sur la nervure. Inflorescence en pseudoracèmes, avec 5 à 40 fleurs ; pédoncule grêle, 1,5–4 cm. Fleur : pédicelle 3–6 mm ; calice 2–2,5 mm de longueur, à dents triangulaires, aiguës, 2 fois la longueur du tube ; corolle rouge à rose , pourpre ou blanche , 4,5–6 mm de longueur. Gousse érigée à érigée-étalée , linéaire , droite, 15–40 × ± 1,5 mm, avec 5 à 12 graines, strigueuse à poils noirs . Graine anguleuse, ± 1,5 × 1 × 1 mm, brune ; hile subcentral sur le côté long.
+8(–10) cm long; stipels absent; leaflets 11 to 41, opposite or nearly so, slightly caducous, with elliptic-oblong lamina, 4–12 × 1.5–5 mm, sparsely pubescent on both surfaces, whitish above, whitish and golden-brown beneath, especially on the nerve. Inflorescence in pseudoracemes, with 5 to 40 flowers; peduncle slender, 1.5–4 cm. Flower: pedicel 3–6 mm; calyx 2–2.5 mm long, with triangular, acute teeth, 2 times the length of the tube; corolla red to pink, purple or white, 4.5–6 mm long. Pod erect to erect-spreading, linear, straight, 15–40 × ± 1.5 mm, with 5 to 12 seeds, strigulose with black hairs. Seed angular, ± 1.5 × 1 × 1 mm, brown; hilum subcentral on the long side.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-du Sénégal à l’Afrique orientale et l’Angola ; au Gabon, connue du Haut-Ogooué et de l’Ogooué-Ivindo
+from Senegal to eastern Africa and Angola; in Gabon, known from Haut-Ogooué and Ogooué-Ivindo
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-savanes, sols sablonneux, pentes rocheuses, inselbergs, stations rudérales ; au Gabon à 450 m d’altitude, ailleurs jusqu’à 1500 m. Fruits en septembre
+savannas, sandy soils, rocky slopes, inselbergs, ruderal stations; in Gabon at 450 m elevation, elsewhere up to 1500 m. Fruits in September
 
 ## Source note
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Variable pour le nombre de folioles et la couleur de la pilosité. b : Cronquist (1954), Gillett (1971a), Hepper (1958), Pellegrin (1949). ibliographie
+Variable for the number of leaflets and the colour of the pubescence. b: Cronquist (1954), Gillett (1971a), Hepper (1958), Pellegrin (1949). Bibliography
 
 ## Notes
 

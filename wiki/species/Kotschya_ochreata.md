@@ -17,27 +17,19 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Smithia ochreata Taub., Bot. Jahrb. Syst. 23(1-2) : 191 (1896). Smithia bilingensis Micheli ex Pellegr., Fl. Mayombe, Mém. Soc. Linn. Normandie 27(2) : 87 (1924). Arbuste de 0,8–3 m de hauteur ; rameaux, stipules, bractées, bractéoles et calices pubescents . Stipules persistantes, embrassant la tige, lancéolées, 8–10 × 3–4 mm, membraneuses. Feuille : pétiole 8–10 mm ; rachis 50–65 mm ; folioles 20 à 50 , en paires le plus souvent alternes, à limbe linéaire-oblong, 10–12 × 2–3 mm, glabre sur les deux faces, cilié, à 4 ou 5 nervures basi laires. Inflorescence : racèmes subsessiles, parfois condensés, 2–4 cm de longueur ; bractées ovales, légèrement falciformes , 3–5 × 3 mm. Fleur : pédicelle 4–5 mm ; bractéoles libres, ovales-falciformes, ± 5 × 3 mm ; calice 3–5 mm de longueur, lobes ovales, arrondis à carrés, subégaux ; corolle violacée, étendard obovale, 5–6 × 2–3 mm, émarginé, avec quelques soies dans l’échancrure, avec un petit appendice au-dessus de l’onglet, ailes 5 mm de longueur, pétales de la carène 6 × 1 mm, à appendice unilatéral ; étamines en tube de ± 3 mm de longueur ; ovaire soyeux, à 2 ovules. Gousse à 2 articles de ± 1,5 × 1,5 mm , poilue. Graine non vue.
+Smithia ochreata Taub., Bot. Jahrb. Syst. 23(1-2) : 191 (1896). Smithia bilingensis Micheli ex Pellegr., Fl. Mayombe, Mém. Soc. Linn. Normandie 27(2) : 87 (1924). Shrub 0.8–3 m tall; branches, stipules, bracts, bracteoles and calyces pubescent. Stipules persistent, clasping the stem, lanceolate, 8–10 × 3–4 mm, membranous. Leaf: petiole 8–10 mm; rachis 50–65 mm; leaflets 20 to 50, mostly in alternating pairs, with linear-oblong lamina, 10–12 × 2–3 mm, glabrous on both faces, ciliate, with 4 or 5 basialar nerves. Inflorescence: subsessile racemes, sometimes condensed, 2–4 cm long; bracts oval, slightly falcate, 3–5 × 3 mm. Flower: pedicel 4–5 mm; bracteoles free, oval-falcate, ± 5 × 3 mm; calyx 3–5 mm long, lobes oval, rounded to square, subequal; corolla violaceous, standard obovate, 5–6 × 2–3 mm, emarginate, with a few setae in the notch, with a small appendage above the claw, wings 5 mm long, keel petals 6 × 1 mm, with unilateral appendage; stamens in a tube ± 3 mm long; ovary silky, with 2 ovules. Pod with 2 articles ± 1.5 × 1.5 mm, hairy. Seed not seen.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-de la Sierra Léone jusqu’à la République démocratique du Congo et en Angola (Cabinda) ; au Gabon, connue du Haut-Ogooué
+from Sierra Leone to the Democratic Republic of the Congo and in Angola (Cabinda); in Gabon, known from Haut-Ogooué
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-bords des eaux, brousses marécageuses ; au Gabon à environ 500 m d’altitude, ailleurs à 0–2050 m
+water edges, marshy scrubland; in Gabon at approximately 500 m altitude, elsewhere at 0–2050 m
 
 ## Source note
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-La var. longipetala Hepper diffère de la variété-type par la corolle plus longue. b : Dewit & Duvigneaud (1954), Hepper (1958), Walters et al. (2011). ibliographie
+The var. longipetala Hepper differs from the typical variety by the longer corolla. b : Dewit & Duvigneaud (1954), Hepper (1958), Walters et al. (2011). ibliography
 
 ## Notes
 

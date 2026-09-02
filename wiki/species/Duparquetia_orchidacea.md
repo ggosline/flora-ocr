@@ -21,15 +21,11 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Climbing lianes with tendrils. Leaves imparipinnate with 3 (2-4) pairs of opposite leaflets. Rachis 10-18 cm. Leaflets ovate or elliptic to lanceolate, obtuse to abruptly acuminate at apex very acute and mucronate, rounded at base, 6-18 cm long by 4-7 cm wide, at first reddish-brown pubescent then glabrous beneath. Lateral veins approximately 5 pairs ascending, arched. Reticulum of veinlets and venules finely prominent on both surfaces. Petiolules 5-7 mm.
 
-Lianes sarmenteuses. Feuilles imparipennées à 3 (2-4) paires de folioles opposées. Rachis de 10-18 cm. Folioles ovées ou elliptiques à blancolées, obtuses à brusquement acuminées au sommet très aiguës et mucronées, arrondies à la base, de 6-18 cm de longueur sur 4-7 cm de largeur, d'abord velues brun roux puis glabres dessous. Nervures latérales env. 5 paires ascendantes, arquées. Réticulum de nervilles et veinules finement saillant sur les 2 faces. Pétioiules de 5-7 mm.
+Tomentose racemes erect, densely flowered, 15-30 cm, with thick axes remaining hispid, after the fall of flowers, with persistent pedicels. Pedicels up to 1 cm long. Flowers pink and white recalling those of certain Orchids. Sepals 4; the outer 18 mm long, pink, enveloping the others (of which 2 are fused) of white colour. Petals 5, red veined: 3 lanceolate 11-14 mm long by 3-6 mm wide; 2 linear 7-8 mm long by 0.7 mm. Stamens 4 with very short filaments; the 2 median anthers fused; anthers bifid at apex, opening by apical pores, approximately 5 mm long. Ovary ± silky pubescent, with 4 longitudinal ribs.
 
-Racèmes tomenteux dressés, densément fleuris, de 15-30 cm, à axes épais restant hérissés, après la chute des fleurs, des pédi-celles persistants. Pédicelles jusqu'à 1 cm de longueur. Fleurs rose et blanc rappelant celles de certaines Orchidées. Sépales 4;
-
-l'extérieur de 18 mm de longueur, rose, enveloppant les autres (dont 2 soudés) de couleur blanche. Pétales 5, rouges veinés : 3 lancéolés de 11-14 mm de longueur sur 3-6 mm de largeur; 2 linéaires longs de 7-8 mm sur 0,7 mm. Étamines 4 à très courts filets; les 2 anthères médianes soudées; anthères bifides au sommet, s'ouvrant par pores apicaux, longues d'env. 5 mm. Ovaire ± velu soyeux, à 4 côtes longitudinales.
-
-Gousses lancéolées, aplaties, ligneuses, renforcées sur chaque face de 2 nervures proéminentes, longues de 10 cm env. sur 1,5 cm de largeur et 1 cm d'épaisseur. Les valves s'enroulent en vrille après déhiscence; glabres extérieurement, velues laineuses intérieurement.
+Pods lanceolate, flattened, woody, reinforced on each face by 2 prominent nerves, approximately 10 cm long by 1.5 cm wide and 1 cm thick. The valves coil in a spiral after dehiscence; glabrous externally, woolly pubescent internally.
 
 ## Type
 
@@ -37,17 +33,13 @@ Griffon du Bellay 339, Gabon (P)
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Climbing lianes or sarmentose plants sometimes creeping, or bushy shrubs reaching up to 8 m in height. Riparian forests, edges of paths and villages, littoral savannas, secondary thickets.
 
-Lianes ou plantes sarmenteuses parfois rampantes, ou arbustes buissonnants pouvant atteindre 8 m de hauteur. Forêts ripicoles, bords de pistes et de villages, savanes littorales, fourrés secondaires.
-
-Espèce répandue du Libéria au Congo, à aire atlantique.
+Species widespread from Liberia to Congo, with Atlantic distribution.
 
 ## Uses
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Le fruit est mélangé au tabac à priser (Hédin). Les rameaux servent à confectionner des liens
+The fruit is mixed with snuff tobacco (Hédin). The branches are used to make cordage.
 
 ## Specimens examined
 

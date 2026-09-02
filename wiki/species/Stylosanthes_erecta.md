@@ -17,23 +17,15 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Fl. Oware 2 : 28, t. 77 (1810/1811). S. guineensis Schumach. & Thonn., Beskr. Guin. pl. : 357 (1827). S, erecta P.Beauv. var. acuminata Welw. ex Baker in Oliver, Fl. trop. Afr. 2 : 156 (1871). S. erecta P.Beauv. var. guineensis (Schumach. & Thonn.) Vogel, Linnaea 12 : 68 (1838). Herbe pérenne à base lignifiée ou suffrutex , jusqu’à 1,5 m de hauteur ; tiges semi-érigées à érigées, bien ramifiées, à une rangée de poils , puis devenant glabres, parfois poilues et poisseuses. Stipules scarieuses, à gaîne de 4–10 mm de longueur et dents de 3–6 mm, ciliées ou pubérulentes à glabres. Feuille : pétiole (au-dessus de la stipule) 4–8 mm ; rachis 2–3 mm ; folioles à pétiolule de 0,5–1 mm, limbe oblancéolé à étroitement elliptique, 5–17(–25) × 1,5– 5(–7) mm, base et sommet aigus, glabre, à nervure médiane parfois ciliée. Inflorescence en épi lâchement capité , 1–6(–14) cm de longueur ; bractée primaire à gaîne de ± 1 cm de longueur , bractée secondaire 4–6 mm de longueur. Fleur : bractéoles 2 , 3,5–5 mm de longueur ; calice à tube de 8–9 mm de longueur , lobes 3,5–5 mm de longueur ; étendard à limbe de
-
-7–8 × 6–7 mm, jaune à orange , ailes et carène 6–7 × 3–3,5 mm ; étamines 6–7 mm ; ovaire 1,5 mm de longueur, ovules 2 ; style 12–14 mm. Gousse 4–7 × 1,5–2,5 mm, à 1 ou parfois 2 articles ovoïdes, 3–5 mm de longueur, pubescents à glabres , à nervation saillante , bec saillant, fortement recourbé. Graine ovoïde-pointue, ± 3 mm de longueur, brun pâle à pourpre.
+Fl. Oware 2 : 28, t. 77 (1810/1811). S. guineensis Schumach. & Thonn., Beskr. Guin. pl. : 357 (1827). S. erecta P.Beauv. var. acuminata Welw. ex Baker in Oliver, Fl. trop. Afr. 2 : 156 (1871). S. erecta P.Beauv. var. guineensis (Schumach. & Thonn.) Vogel, Linnaea 12 : 68 (1838). Perennial herb with a lignified base or suffrutex, up to 1.5 m tall; stems semi-erect to erect, well-branched, with a row of hairs, then becoming glabrous, sometimes pilose and sticky. Stipules scarious, with a sheath 4–10 mm long and teeth 3–6 mm, ciliate or puberulent to glabrous. Leaf: petiole (above the stipule) 4–8 mm; rachis 2–3 mm; leaflets with a petiolule 0.5–1 mm, blade oblanceolate to narrowly elliptic, 5–17(–25) × 1.5–5(–7) mm, base and apex acute, glabrous, midvein sometimes ciliate. Inflorescence in a loosely capitate spike, 1–6(–14) cm long; primary bract with a sheath ± 1 cm long, secondary bract 4–6 mm long. Flower: bracteoles 2, 3.5–5 mm long; calyx with a tube 8–9 mm long, lobes 3.5–5 mm long; standard with a blade 7–8 × 6–7 mm, yellow to orange, wings and keel 6–7 × 3–3.5 mm; stamens 6–7 mm; ovary 1.5 mm long, ovules 2; style 12–14 mm. Pod 4–7 × 1.5–2.5 mm, with 1 or sometimes 2 ovoid articles, 3–5 mm long, pubescent to glabrous, with prominent venation, beak prominent, strongly curved. Seed ovoid-pointed, ± 3 mm long, pale brown to purple.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-largement répandue en Afrique tropicale, du Sénégal à l’Angola, plus rare en Afrique de l’Est, aussi à Madagascar, en Inde et au Sri Lanka ; au Gabon, connue de l’Estuaire, du Haut-Ogooué, de la Nyanga, de l’Ogooué-Ivindo et de l’Ogooué-Maritime
+widely distributed in tropical Africa, from Senegal to Angola, rarer in East Africa, also in Madagascar, India and Sri Lanka; in Gabon, known from Estuaire, Haut-Ogooué, Nyanga, Ogooué-Ivindo and Ogooué-Maritime
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-sables maritimes, savanes boisées et herbacées, stations rudérales, bords de route, très résistante à la sécheresse ; au Gabon et ailleurs, à 1–500 m d’altitude. Floraison de janvier à mai, juillet et d’octobre à décembre ; fruit en février, novembre et décembre. Usage : Une plante bonne à brouter. Elle a plusieurs usages médicinaux en Afrique
+maritime sands, wooded and herbaceous savannas, ruderal stations, roadsides, very resistant to drought; in Gabon and elsewhere, at 1–500 m altitude. Flowering from January to May, July and October to December; fruit in February, November and December. Uses: A plant good for grazing. It has several medicinal uses in Africa
 
 ## Vernacular names
 

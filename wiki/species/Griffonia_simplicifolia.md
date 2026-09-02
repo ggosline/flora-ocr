@@ -22,15 +22,13 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Lianas, sarmentose shrubs. Leaves ovate, rounded to subcordate at the base, rounded or shortly and obtusely acuminate at the apex, glabrous, 3-nerved at the base, 6–12 cm long by 3–6 cm wide. Reticulum well-marked on both faces.
 
-Lianes, arbustes sarmenteux. Feuilles ovées, arrondies à subcordées à la base, arrondies ou courtement et obtusément acuminées au sommet, glabres, 3-nervées à la base, 6-12 cm de longueur sur 3-6 cm de largeur. Reticulum bien marqué sur les 2 faces.
+Racemes tomentose, grey. Receptacle curved, tubular, 12–15 mm long, gradually enlarged then abruptly dilated, greyish-hairy, 12–15 mm long; calyx greenish with obtuse and short teeth. Petals reddish, longly clawed, oblong, glabrous or somewhat hairy. Stamens with pubescent filaments. Ovary longly stipitate, glabrous.
 
-Grappes tomenteuses grises. Réceptacle courbé, tubulaire, long de 12-15 mm, progressivement élargi puis brusquement dilaté, velu grisâtre, long de 12-15 mm; calice verdâtre à dents obtuses et courtes. Pétales rougeâtres, longuement onguiculés, oblongs, glabres ou un peu poilus. Étamines à filets pubescents. Ovaire longuement stipité, glabre.
+Pods obliquely ovoid, c. 5 × 3 cm, inflated, blackish; stipe 1–1.5 cm, pubescent.
 
-Gousses obliquement ovoïdes, d'env. 5 × 3 cm, gonflées, noirâtres; stipe de 1-1,5 cm, pubescent.
-
-Espèce très commune en Afrique occidentale, du Libéria à la Nigéria. Elle n'est dans l'herbier du Gabon représentée que par un seul spécimen récolté à Tchibanga.
+Species very common in West Africa, from Liberia to Nigeria. It is represented in the Gabon herbarium only by a single specimen collected at Tchibanga.
 
 ## Specimens examined
 

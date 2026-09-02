@@ -17,29 +17,19 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Arbuste, arbre ou liane , atteignant 10 m de hauteur ; rameaux jusqu’à 10(–14) cm de diamètre, à écorce rugueuse, rougeâtre à noire, devenant glabre. Stipules caduques. Feuille 20–30 cm de longueur ; pétiole (1–)4–6 cm, peu poilu à glabre ; rachis canaliculé dessus, (7–)10–15 cm ; stipelles setacées à plumeuses, ≤ 1 mm ; folioles 13 à 17 , à pétiolule de 2–4 mm, limbe oblong, (5–)7–8 × 1,8–2,5(–3) cm, base arrondie, sommet à acumen de 0,7–1,5(–2,5)
-
-cm, glabre dessus, soyeux à pilosité rouge verdâtre à jaunâtre et brillant-apprimé dessous ; nervures latérales en 8 à 12 paires. Inflorescence terminale, en panicule , 15–30 cm de lon gueur ; pédoncules veloutés ; ramilles florifères 4–8(–12) cm de longueur, brun-rouge foncé ; bractées caduques. Fleur 1,6 cm de longueur ; pédicelle 1,5–2 mm ; bractéoles ovales à rhom boïdales, 1,5 mm de longueur ; calice velouté rouge-brun, à tube de 3–4 mm de longueur, lobes 2–3 mm de longueur, imbriqués en bouton ; corolle blanche devenant orange avec l’âge , étendard plus large que long, limbe 8–10 × 10–13 mm, à 2 callosités et 2 auricules à la base, sommet à peine émarginé, à onglet de 2 mm, ailes oblongues, limbe 10–12 × 5 mm, à onglet de 3 mm, carène oblongue, limbe 10 × 16 mm, à onglet de 5 mm ; étamines 10–14 mm de longueur, inégales, la vexillaire la plus courte, anthères 1 mm de longueur ; ovaire oblonglancéolé, 7 × 1,5 mm, soyeux, à ± 5 ovules ; style glabre dans la moitié supérieure, courbé comme les filaments, 7 mm. Gousse oblongue-obovale, légèrement falquée, (7–)10–12 × 2–2,2 cm , atténuée vers la base, sommet arrondi à acumen oblique, suture supérieure un peu épaissie, pilosoté brun foncé. Graine non vue.
+Shrub, tree or liane, reaching 10 m in height; branches up to 10(–14) cm in diameter, with rough bark, reddish to black, becoming glabrous. Stipules caducous. Leaf 20–30 cm in length; petiole (1–)4–6 cm, slightly hairy to glabrous; rachis channelled above, (7–)10–15 cm; stipels setaceous to plumose, ≤ 1 mm; leaflets 13 to 17, with petiolule 2–4 mm, limb oblong, (5–)7–8 × 1.8–2.5(–3) cm, base rounded, apex with acumen 0.7–1.5(–2.5) cm, glabrous above, silky with reddish to yellowish greenish hairs and shiny-appressed below; lateral veins in 8 to 12 pairs. Inflorescence terminal, paniculate, 15–30 cm in length; peduncles velvety; flowering branchlets 4–8(–12) cm in length, dark reddish-brown; bracts caducous. Flower 1.6 cm in length; pedicel 1.5–2 mm; bracteoles oval to rhomboidal, 1.5 mm in length; calyx velvety reddish-brown, with tube 3–4 mm in length, lobes 2–3 mm in length, imbricate in bud; corolla white becoming orange with age, standard wider than long, limb 8–10 × 10–13 mm, with 2 calluses and 2 auricles at the base, apex scarcely emarginate, with claw 2 mm, wings oblong, limb 10–12 × 5 mm, with claw 3 mm, keel oblong, limb 10 × 16 mm, with claw 5 mm; stamens 10–14 mm in length, unequal, the vexillar the shortest, anthers 1 mm in length; ovary oblong-lanceolate, 7 × 1.5 mm, silky, with ± 5 ovules; style glabrous in the upper half, curved like the filaments, 7 mm. Pod oblong-obovate, slightly falcate, (7–)10–12 × 2–2.2 cm, attenuate towards the base, apex rounded to oblique acumen, upper suture somewhat thickened, with dark brown pubescence. Seed not seen.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Est du Nigéria, Cameroun, Gabon et République démocratique du Congo ; au Gabon, connue de l’Ogooué-Ivindo et du Woleu-Ntem
+Eastern Nigeria, Cameroon, Gabon and Democratic Republic of the Congo; in Gabon, known from Ogooué-Ivindo and Woleu-Ntem
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-forêt primaire, forêt marécageuse, le long des rivières ; au Gabon jusqu’à 430 m d’altitude, ailleurs jusqu’à 1200 m. Fleurs en mai, juillet et décembre ; fruits en janvier
+Primary forest, swamp forest, along rivers; in Gabon up to 430 m altitude, elsewhere up to 1200 m. Flowers in May, July and December; fruits in January
 
 ## Source note
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Bien que cette espèce pousse en forêt, elle est souvent décrite comme héliophile. La corolle a été décrite une fois comme ayant une coloration violette. b : Hauman (1954a), Pellegrin (1949). ibliographie
+Although this species grows in forest, it is often described as heliophile. The corolla has been described once as having purple coloration. b: Hauman (1954a), Pellegrin (1949). Bibliography
 
 ## Notes
 

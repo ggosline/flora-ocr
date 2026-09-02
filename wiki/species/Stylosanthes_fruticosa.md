@@ -17,21 +17,15 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-in Trimen, Handb. Fl. Ceylon 6, Suppl. : 77 (1931). S. mucronata Willd., Sp. pl. 3 : 1166 (1802). Suffrutex ou herbe pérenne à base souvent lignifiée, 0,3–1 m de hauteur ; tiges semi-érigées à érigées, bien ramifiées, pubescentes à hirsutes, souvent poisseuses. Stipules à gaîne de 2–10 mm de longueur, prolongées en dents de 3–6 mm de longueur. Feuille : pétiole (au-dessus de la stipule) 4–10 mm ; rachis 0,5–5 mm ; folioles à pétiolule de 0,5 mm, limbe elliptique-lancéolé, 5–33 × 2–9 mm, sommet et base arrondis à aigus, pubescent à assez densément poilu sur les deux faces. Inflorescence en pseudoracème lâchement capité ; pédoncule 0–5,5 cm ; rachis 1–1,5(–4) cm ; bractée primaire à gaîne de 1,2–2 cm de longueur ; bractée secondaire 4–6 mm de longueur. Fleur : bractéoles 2 , 3,5–5 mm de longueur ; calice à tube de 4–7 mm de longueur , lobes 2,5–3 × ± 1 mm ; étendard à limbe de 5–7 × 4–5 mm, jaune à orange , ailes et carène 4–6 mm de longueur ; étamines 5–6 mm ; ovaire 1–1,5 mm de longueur, ovules 2 ; style 10–14 mm. Gousse 4–9 × 2–2,5 mm, à 1 ou 2 articles ovoïdes de 3,5–4 mm de longueur, soyeux-villeux, le supérieur pubescent au moins le long les arêtes, à nervation saillante , bec recourbé, 1,5–3 mm. Graine ellipsoïde, 2,5–3 × 2–2,5 × 1–1,2 mm, brune, brillante.
+in Trimen, Handb. Fl. Ceylon 6, Suppl. : 77 (1931). S. mucronata Willd., Sp. pl. 3 : 1166 (1802). Subshrub or perennial herb with often lignified base, 0.3–1 m tall; stems semi-erect to erect, well-branched, pubescent to hirsute, often sticky. Stipules with sheath 2–10 mm long, extended into teeth 3–6 mm long. Leaf: petiole (above the stipule) 4–10 mm; rachis 0.5–5 mm; leaflets with petiolule 0.5 mm, blade elliptic-lanceolate, 5–33 × 2–9 mm, apex and base rounded to acute, pubescent to rather densely hairy on both surfaces. Inflorescence in laxly capitate pseudoraceme; peduncle 0–5.5 cm; rachis 1–1.5(–4) cm; primary bract with sheath 1.2–2 cm long; secondary bract 4–6 mm long. Flower: bracteoles 2, 3.5–5 mm long; calyx with tube 4–7 mm long, lobes 2.5–3 × ± 1 mm; standard with blade 5–7 × 4–5 mm, yellow to orange, wings and keel 4–6 mm long; stamens 5–6 mm; ovary 1–1.5 mm long, ovules 2; style 10–14 mm. Pod 4–9 × 2–2.5 mm, with 1 or 2 ovoid articles 3.5–4 mm long, silky-villous, the upper one pubescent at least along the ridges, with prominent venation, beak curved, 1.5–3 mm. Seed ellipsoid, 2.5–3 × 2–2.5 × 1–1.2 mm, brown, shining.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-largement répandue en Afrique tropicale, du Sénégal jusqu’en Somalie, à Zanzibar et au Mozambique, aussi à Madagascar, en Arabie, en Inde et au Sri Lanka ; au Gabon, non commune et récemment trouvée en Ogooué-Ivindo
+widely distributed in tropical Africa, from Senegal to Somalia, Zanzibar and Mozambique, also in Madagascar, Arabia, India and Sri Lanka; in Gabon, not common and recently found in Ogooué-Ivindo
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-savane herbacée et arbustive, jachères, sur sols pauvres ; au Gabon à environ 200 m d’altitude, ailleurs jusqu’à 1850 m. Fleurs en août. Usage : Une plante bonne à brouter, mais inférieure à S. guianensis . Elle a plusieurs usages médicinaux en Afrique
+herbaceous and shrubby savanna, fallows, on poor soils; in Gabon at approximately 200 m altitude, elsewhere up to 1850 m. Flowers in August. Use: A good forage plant, but inferior to S. guianensis. It has several medicinal uses in Africa
 
 ## Vernacular names
 

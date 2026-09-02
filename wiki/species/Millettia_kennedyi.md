@@ -17,29 +17,19 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Liane , à tige atteignant 25 m ; ramilles d’abord veloutées, ensuite glabres et pourvues de très nombreuses lenticelles. Stipules caduques. Feuille : pétiole 2–5 cm, canaliculé dessus, soyeux ; rachis 3,5–7 cm, soyeux, strié ; stipelles absentes ; folioles 5 à 7(–9) , pétiolule 3–5
-
-mm, velouté-doré, limbe ± oblong, 3–14 × 1,2–8,5 cm, base cunéée à arrondie et cordée, acumen obtus à allongé et 0,3–2,5 cm, glabre dessus, soyeux-doré et à médiane saillante des sous ; nervures latérales en 8 à 12(–16) paires, fines, nervures tertiaires ± parallèles aux laté rales. Inflorescence axillaire ou terminale, en panicules ou parfois pseudopanicules ou pseu doracèmes, 10–28 cm de longueur, lâche ; pédoncule 1–4 cm de longueur ; axes courtement pubescents et densément lenticellés ; bractées caduques, ovales, ± 1 × 0,75 mm, densément soyeuses à l’extérieur. Fleur ± 12 mm de longueur ; pédicelle 1,5–3(–4) mm, articulé à la base, soyeux ; bractéoles sous le calice, ovales, 0,5–1 mm de longueur, mucronulées et veloutées ; calice bilabié, densément soyeux, tube 3,5–5 mm de longueur, lobes supérieurs obtus, 1–2,5 mm de longueur, les inférieurs aigus, 4–5 mm de longueur ; corolle blanche , étendard à onglet étroit de 2–2,5 mm, limbe suborbiculaire, 11–13 × 8–13 mm, à sommet très peu émarginé, avec 2 callosités, ailes à onglet de 2–3 mm, limbe oblong-obtus, 10–15 × 3–4 mm, auriculé, carène à onglet de 2–3 mm, limbe 12–15 × 3–6 mm, auriculé ; étamines : tube 8–12 mm de longueur, partie libre 1–2 mm ; disque fimbrié, 10-lobé ; ovaire oblong-linéaire, 4–6 mm de longueur, roux velouté, avec 3 à 6 ovules ; style 7–15 mm, pubescent dans la moitié inférieure, stigmate minuscule. Gousse étroitement obovoïde, 4–11,5 × 2–3 cm , base cunéée à atténuée, valves un peu enroulées, brun jaunâtre à brunes, soyeuses. Graine aplatie, ellipsoïde-orbiculaire à réniforme, 6–12 × 5–8 mm, lisse ; hile 1–2 mm de longueur.
+Liane, with stems reaching 25 m; branchlets at first velutinous, subsequently glabrous and furnished with very numerous lenticels. Stipules caducous. Leaf: petiole 2–5 cm, channeled above, silky; rachis 3.5–7 cm, silky, striate; stipels absent; leaflets 5 to 7(–9), petiolule 3–5 mm, golden-velutinous, lamina ± oblong, 3–14 × 1.2–8.5 cm, base cuneate to rounded and cordate, acumen obtuse to elongate and 0.3–2.5 cm, glabrous above, golden-silky and with prominent midvein beneath; lateral nerves in 8 to 12(–16) pairs, fine, tertiary nerves ± parallel to lateral ones. Inflorescence axillary or terminal, in panicles or sometimes pseudopanicles or pseudoracemes, 10–28 cm in length, lax; peduncle 1–4 cm in length; axes shortly pubescent and densely lenticellate; bracts caducous, ovate, ± 1 × 0.75 mm, densely silky outside. Flower ± 12 mm in length; pedicel 1.5–3(–4) mm, articulate at base, silky; bracteoles below the calyx, ovate, 0.5–1 mm in length, mucronate and velutinous; calyx bilabiate, densely silky, tube 3.5–5 mm in length, upper lobes obtuse, 1–2.5 mm in length, the lower ones acute, 4–5 mm in length; corolla white, standard with narrow claw 2–2.5 mm, limb suborbicular, 11–13 × 8–13 mm, at apex very slightly emarginate, with 2 callosities, wings with claw 2–3 mm, limb oblong-obtuse, 10–15 × 3–4 mm, auriculate, keel with claw 2–3 mm, limb 12–15 × 3–6 mm, auriculate; stamens: tube 8–12 mm in length, free part 1–2 mm; disc fimbriate, 10-lobed; ovary oblong-linear, 4–6 mm in length, rusty velutinous, with 3 to 6 ovules; style 7–15 mm, pubescent in lower half, stigma minute. Legume narrowly obovoid, 4–11.5 × 2–3 cm, base cuneate to attenuate, valves somewhat enrolled, yellowish-brown to brown, silky. Seed flattened, ellipsoid-orbicular to reniform, 6–12 × 5–8 mm, smooth; hilum 1–2 mm in length.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Bénin, Nigéria, Gabon, République démocratique du Congo et Angola ; au Gabon, connue de l’Estuaire, de la Ngounié, de la Nyanga, de l’Ogooué-Lolo et de l’Ogooué-Maritime
+Benin, Nigeria, Gabon, Democratic Republic of the Congo and Angola; in Gabon, known from Estuaire, Ngounié, Nyanga, Ogooué-Lolo and Ogooué-Maritime
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-forêt primaire et secondaire, vallées humides et marécageuses ; à 10–400 m d’altitude. Fleurs de janvier à septembre ; fruits de janvier à novembre
+primary and secondary forest, humid and swampy valleys; at 10–400 m altitude. Flowers from January to September; fruits from January to November
 
 ## Source note
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Auparavant, cette espèce a été traitée comme synonyme de M. dinklagei , mais elle en diffère par les ramilles densément lenticellées, les feuilles 5 à 7(–9)-foliolées, la pilosité plus soyeuse et l’étendard plus long. b : Hepper (1958), van der Maesen (2006a). ibliographie
+Previously, this species was treated as a synonym of M. dinklagei, but it differs from it by the densely lenticellate branchlets, leaves 5 to 7(–9)-foliolate, the silkier indumentum and the longer standard. b: Hepper (1958), van der Maesen (2006a). Bibliography
 
 ## Notes
 

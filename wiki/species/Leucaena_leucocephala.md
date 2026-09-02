@@ -17,8 +17,6 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 BRENAN, FZ 3 (1): 53, tab. 14 (1970); LIBERATO, Fl. Guiné Port., Mimosaceae: 21 (1972); Fl. S. Tomé e Principe, Mimosaceae: 16 (1973); Ross, Fl. Natal.: 193 (1973); Fl. S. Afr. 16 (1): 115, tab. 12 (1975); TROUPIN, Fl. Rwanda, Spermato. 1: 377, tab. 76, fig. 6 (1978); THULIN, Legum. Ethiopia: 38 (1983); GUNN, FSGM: tab. p. 111, fig. D, F, H-I (1984).
 
 - Mimosa leucocephala LAM., Encyclop. Méth. Bot. 1: 12 (1783).
@@ -29,17 +27,15 @@ BRENAN, FZ 3 (1): 53, tab. 14 (1970); LIBERATO, Fl. Guiné Port., Mimosaceae: 21
 
 - Mimosa glauca auct. non. L.: L., Sp. Pl., ed. 2, 2: 1504 p.p. (1763).
 
-Arbre inerme haut de 2-15 m. Rhytidome du tronc et des branches principales gris à marron, lisse. Rameaux âgés à rhytidome beige clair, se desquamant en lanières pubescentes finement papyracées; nombreuses lenticelles plus claires ± saillantes. Rameaux jeunes pubescentes. Stipules pubescentes extérieurement, asymétriquement deltoïdes, longues de 1,25-2,5 mm, sommet aigu. Pétiole pubescent, long de
+Unarmed tree 2-15 m tall. Bark of trunk and main branches grey to brown, smooth. Older branches with pale beige bark, peeling in finely papyraceous pubescent strips; numerous lighter lenticels ± prominent. Young branches pubescent. Stipules pubescent externally, asymmetrically deltoid, 1.25-2.5 mm long, apex acute. Petiole pubescent, 1.8-3 cm long; upper face with a channel bordered by 2 longitudinal ridges, bearing just below the insertion of the first pair of pinnae a gland (often absent) truncate-conical. Rachis pubescent, 3-12.2 cm long, upper face carinate-channelled, lower face often terminating in a ± linear mucro, pubescent, ± 0.35 mm long. Pinnae 2-6 pairs. Pinnule axis ± pubescent, 3-9.5 cm long, upper face carinate; lower face terminating in a mucro similar to that of the rachis, 0.10-0.20 mm long. Leaflets 9-17 pairs, sessile. Blade glabrous on both faces; green above and greyish-green below on living plants, yellowish-green when dry; ± oblong asymmetric, reaching 15 × 3.5 (18 × 5) mm; base asymmetric: proximal margin ± rounded and distal margin very attenuate to linear; margin ciliate or not; apex acute. Midvein close to the distal margin, visible above and prominent below. Secondary veins rather inconspicuous above and prominent below. Veinlets in a rather loose network, visible below.
 
-1,8-3 cm ; face supérieure à canalicule bordé par 2 bourrelets longitudinaux, portant juste sous l'insertion de la première paire de pennes une glande (souvent absente) tronconique. Rachis pubescent, long de 3-12,2 cm, face supérieure carénée canaliculée, face inférieure se terminant souvent par un mucron ± linéaire, pubescent, long de ± 0,35 mm. Pennes 2-6 paires. Axe de la penne ± pubescent, long de 3-9,5 cm, face supérieure carénée ; face inférieure se terminant par un mucron semblable à celui du rachis, long de 0,10-0,20 mm. Folioles 9-17 paires, sessiles. Limbe glabre sur les deux faces ; vert dessus et gris vert dessous sur le vivant, vert jaunâtre sur le sec ; ± oblong asymétrique, atteignant 15 × 3,5 (18 × 5) mm ; base asymétrique : bord proximal ± arrondi et bord distal très atténué à linéaire ; bord cilié ou non ; sommet aigu. Nervure principale rapprochée du bord distal, visible dessus et saillante dessous. Nervures secondaires assez peu visibles dessus et saillantes dessous. Nervilles en réseau assez lâche, visible dessous.
+Inflorescences in globose capitate spikes, axillary, solitary or geminate. Inflorescence peduncle pubescent 2.5-5 cm long. Bracteole peltate pubescent at the apex of the external and internal faces, 2.5-3 mm long, base long-unguiculate, apex in an asymmetric horn-shaped form. Floral bud narrowly obovoid. Flowers yellowish-green to cream on living plants, sessile. Calyx narrowly obconic, 2.5-3.25 mm long; lobes free, pubescent externally, broadly triangular, 0.25-0.50 mm long, apex ± acute. Petals free from each other, pubescent externally on either side of the midline, narrowly obovate, 4.5-5.5 mm long, apex thickened, weakly reflexed internally, acute. Stamens 10, free, 9-10.5 mm long; anther pubescent, narrowly oblong 1 mm long. Pistil with stipe ± 0.5 mm long; ovary pubescent at apex, oblong, 2-2.5 mm long, containing 24 ovules; style 7.5-8 mm long, progressively widening towards the apex, stigma cupular.
 
-Inflorescences en épis capituliformes globuleux, axillaires, solitaires ou géminés. Pédoncule inflorescentiel pubescent long de 2,5-5 cm. Bractéole peltée pubescente au sommet de la face externe et de la face interne, longue de 2,5-3 mm, base longuement ungiculée, sommet en cornet asymétrique. Bouton floral étroitement obovoïde. Fleurs jaune verdâtre à crème sur le vivant, sessiles. Calice étroitement obconique, long de 2,5-3,25 mm ; lobes libres pubescents extérieurement, largement triangulaires, longs de 0,25-0,50 mm, sommet ± aigu. Pétales libres entre eux, pubescents extérieurement de part et d'autre de la ligne médiane, étroitement obovés, longs de 4,5-5,5 mm, sommet épaissi, faiblement réfléchi intérieurement, aigu. Étamines 10, libres, longues de 9-10,5 mm ; anthère pubescente, étroitement oblongue longue de ± 1 mm. Pistil à stipe long de ± 0,5 mm ; ovaire pubescent au sommet, oblong, long de 2-2,5 mm, contenant 24 ovules ; style long de 7,5-8 mm, s'élargissant progressivement vers le sommet, stigmate cupulaire.
+Pods 2-6, on the thickened receptacle, dehiscing by 2 slits, pendulous. Pod puberulent to very shortly pubescent, brown when dry, narrowly oblong to narrowly obovate-oblong, 8.5-17.5 × 1-1.7 cm, base cuneate long-stipitate, sutural ridges thickened, lateral face with transverse venation ± perpendicular to the sutures, in a very loose network, prominent but barely visible; apex ± acute apiculate. Seeds up to 24, black or brown, shining, ovoid to elliptic-oblong, 6-7 × 2-4 mm; central areole elongate; funicle undulate.
 
-Gousses 2-6, sur le réceptacle épaissi, déhiscentes par 2 fentes, pendantes. Gousse pubérulente à très courtement pubescente, marron sur le sec, étroitement oblongue à étroitement obovée oblongue, 8,5-17,5 × 1-1,7 cm, base cunéiforme longuement stipitée, bourrelets suturaux épaissis, face latérale à nervation transversale ± perpendiculare aux sutures, en réseau très lâche, saillant très peu visible ; sommet ± aigu apiculé. Graines jusqu'à 24, noires ou marron, luisantes, ovoïdes à elliptiques oblongues, 6-7 × 2-4 mm ; aréole centrale allongée ; funicule ondulé.
+Germination epigeal. Hypocotyl axis pubescent 3-3.5 cm long. Cotyledons oblong, 8-11 mm long, base cordate. First leaf glabrous appearing early, solitary, paripinnate compound; leaflets 8 pairs, as in adult leaflets; rachis terminated by a tapered mucro.
 
-Germination épigée. Axe hypocotylé pubescent long de 3-3,5 cm. Cotylédons oblongs, longs de 8-11 mm, base cordée. Première feuille glabre apparaissant tôt, solitaire, composée paripennée ; folioles 8 paires, comme folioles adultes ; rachis terminé par un mucron effilé.
-
-Axe glabre. Feuilles composées bipennées à une seule paire de pennes 6-juguées. Stipules comme les adultes. Pétiole ± pubescent, long de 1-1,5 cm ; face supérieure à canalicule bordé par 2 bourrelets latéraux et portant une glande saillante à son sommet ; face inférieure terminée par un mucron. Penne comme les adultes. – Pl. 31, p. 115.
+Axis glabrous. Leaves bipinnate compound with a single pair of 6-jugate pinnae. Stipules as in adults. Petiole ± pubescent, 1-1.5 cm long; upper face with a channel bordered by 2 lateral ridges and bearing a prominent gland at its apex; lower face terminated by a mucro. Pinnae as in adults. – Pl. 31, p. 115.
 
 ## Type
 
@@ -47,29 +43,25 @@ in Herb. Lamarck s.n. (Mimosa latisilique, Mimosa leucocephala) (P)
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Cette espèce originaire d'Amérique est largement représentée en Afrique. De cultivée, elle est devenue spontanée et peut former des fourrés sur les talus et les zones dégagées ensoleillées.
+This species native to America is widely represented in Africa. From being cultivated, it has become naturalized and can form thickets on sunny cleared slopes and areas.
 
 ## Uses
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Plante ornamentale utilisée comme haie. Les feuilles consommées comme fourrage ont un effet dépilatoire sur les chevaux et les porcs
+Ornamental plant used as a hedge. The leaves consumed as forage have a depilatory effect on horses and pigs.
 
 17. DICHROSTACHYS (De Candolle) Wight & Arnott, nom. conser.
 
 Prodr. Fl. Ind. Or.: 271 (1834).
 
-- Desmanthus Willd. sect. Dichrostachys DC., Mém. Légum. 12 : 428 (1826).
+- Desmanthus Willd. sect. Dichrostachys DC., Mém. Légum. 12: 428 (1826).
 
 – Cailliea GUILL. & PERR., Fl. Senegamb. Tent.: 239 (1832), nom. rej.
 
-Arbres petits à arbrisseaux, épineux. Stipules petites et caduques. Folioles nombreuses, petites, sessiles. Inflorescences axillaires en épés pédonculés, solitaires ou géminés. Fleurs supérieures ♂; fleurs inférieures stériles. Calice à sépales soudés. Corolle à pétales soudés, valvaires. Étamines 10, libres, à glande terminale souvent pédiculée caduque. Étamines stériles réduites au filet. Pistil subsessile à ovaire multioulé. Gousse de petite taille, tordue, coriace, à valves déprimées entre les graines, à déhiscence irrégulière.
+Small trees to shrubs, spiny. Stipules small and caducous. Leaflets numerous, small, sessile. Inflorescences axillary in pedunculate spikes, solitary or geminate. Upper flowers ♂; lower flowers sterile. Calyx with sepals connate. Corolla with connate, valvate petals. Stamens 10, free, with often pedicellate caducous terminal gland. Sterile stamens reduced to the filament. Pistil subsessile with multiloculate ovary. Pod small, twisted, coriaceous, with valves depressed between the seeds, with irregular dehiscence.
 
-ESPCÈCE-TYPE : D. cinerea (L.) Wight & Arn.
+TYPE SPECIES: D. cinerea (L.) Wight & Arn.
 
-Ce genre est tropical depuis l'Afrique jusqu'en Océanie ; plus abondant à Madagascar. Il regroupe une dizaine d'espèces. Une seule est présente au Gabon.
+This genus is tropical from Africa to Oceania; most abundant in Madagascar. It includes about ten species. Only one is present in Gabon.
 
 Dichrostachys cinerea (Linné) Wight & Arnott
 

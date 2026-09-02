@@ -23,17 +23,13 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Leonard (PL. 10, p. 61)
 
-Léonard (PL. 10, p. 61)
+Trees. Leaves with 8–12 alternate leaflets, sometimes subalternate or even opposite. Rachis up to 12 cm long, pubescent. Leaflets oblong-lanceolate, obtuse at apex, with asymmetric base, subsessile, 1.5–7 cm long by 0.5–3.5 cm wide, membranous, riddled with translucid dots, glabrous except the midvein somewhat pubescent below. Secondary veins traced to the margin.
 
-Arbres. Feuilles à 8-12 folioles alternes, parfois subopposées ou même opposées. Rachis jusqu'à 12 cm de longueur, pubescent. Folioles oblongues-lancéolées, obtuses au sommet, à base asymétrique, subsessiles, de 1,5-7 cm de longueur sur 0,5-3,5 cm de largeur, membraneuses, criblées de points translucides, glabres sauf la nervure médiane un peu pubescent dessous. Nervures secondaires tracées jusqu'à la marge.
+Axillary panicles 4–8 cm long, with pubescent branches. Flowers white. Pedicels pubescent, 3–6 mm. Sepals 3–4.5 mm long; 1 large, 2.5 mm; 3 oblong ones 2 mm, densely pubescent externally and likewise on the upper part of the inner face. Petals linear oblong, 4–5 × 1 mm, caducous. Stamens with filaments 4 to 7 mm long. Ovary glabrous, very shortly stipitate. Ovules 2–4.
 
-Panicules axillaires longs de 4-8 cm, à ramifications pubescentes. Fleurs blanches. Pédicelles pubescents, de 3-6 mm. Sépales longs de 3-4, 5 mm; 1 large, 2,5 mm; 3 oblongs de 2 mm, densément pubescents extérieurement et également à la partie supérieure de la face interne. Pétales linéaires oblongs,
-
-de 4-5- × 1 mm, caduc. Étamines à filets de 4 à 7 mm de longueur. Ovaire glabre très courtemment stipité. Ovules 2-4.
-
-Gousses obliquement oblongues ou elliptiques, jusqu'à  $ 4 \times 2.5 $ cm. Valves papyracées, très finement verruqueuses.
+Pods obliquely oblong or elliptic, up to 4 × 2.5 cm. Valves papyraceous, very finely verrucose.
 
 ## Type
 
@@ -41,11 +37,9 @@ Gillet 1354 Bas Congo (BR)
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Small or medium tree, 10–15 m tall, from southern Gabon and Mayombé, extending to Lower Congo. Trunk fluted. Bark rough, with thin pinkish interior. Wood hard.
 
-Arbre petit ou moyen, de 10-15 m de haut, du sud du Gabon et du Mayombé, s'étend au Bas-Congo. Fût cannécé. Écorccisse, à tranche mince et rosée. Bois dur.
-
-Espèce proche de G. Pierreanum, à folioles un peu plus nombreuses, plus étroites et à sommet obtus. La glabréité des fleurs du G. Pierreanum permet une séparation facile avec les fleurs pubescentes de G. kisantuense.
+Species close to G. Pierreanum, with leaflets somewhat more numerous, narrower, and with obtuse apex. The glabrous flowers of G. Pierreanum allow easy separation from the pubescent flowers of G. kisantuense.
 
 ## Specimens examined
 

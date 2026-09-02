@@ -21,11 +21,9 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Trees. Leaves 2-jugate, the lower pair near the branchlet. Rachis 6-10 cm. Stipules narrow, 1 cm long, glabrous, caducous, with suborbicular, reniform, reticulate auricle, 2-2.5 cm in diameter, persistent. Leaflets oblong, acuminate, mucronate, cuneate at the base, glabrous, 10-20 cm long, 4.5-7.5 cm wide. Secondary veins 10-13 pairs. Petiolules 3-4 mm.
 
-Arbres. Feuilles 2-juguées, la paire inférieure près du rameau. Rachis de 6-10 cm. Stipules étroites, longues de 1 cm, glabres, caduques, à oreillette suborbiculaire, réniforme, réticulée, de 2-2,5 cm de diamètre, persistante. Folioles oblongues, acuminées, mucronées, cunéiformes à la base, glabres, longues de 10-20 cm, larges de 4,5-7,5 cm. Nervures secondaires 10-13 paires. Pétio-lules de 3-4 mm.
-
-Panicules courtes, terminales et axillaires, longues de 10-15 cm. Axes forts, pubérulents, marqués de cicatrices saillantes. Bractées caduques. Pédicelles longs de 5 mm. Bractéoles de 6-7 mm de longueur sur 5-6 mm de largeur, pubérulentes. Calice à 5 lobes aigus, glabres, longs de 4 mm, larges de 1-2 mm. Un grand pétale à limbe émarginé, porté par un onglet de 2,5 mm. Étamines fertiles 3; des staminodes subulés. Ovaire subsessile, velu sur les marges seulement.
+Panicles short, terminal and axillary, 10-15 cm long. Axes stout, puberulent, marked with prominent scars. Bracts caducous. Pedicels 5 mm long. Bracteoles 6-7 mm long by 5-6 mm wide, puberulent. Calyx with 5 acute lobes, glabrous, 4 mm long, 1-2 mm wide. One large petal with emarginate limb, borne on a claw 2.5 mm long. Fertile stamens 3; subulate staminodes present. Ovary subsessile, villous on the margins only.
 
 ## Type
 
@@ -33,9 +31,7 @@ le Testu 2290 (P), Sindara (fl. sept.)
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Espèce connue seulement par le type.
+Species known only from the type.
 
 ## Notes
 

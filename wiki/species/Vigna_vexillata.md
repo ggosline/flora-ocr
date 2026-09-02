@@ -17,21 +17,15 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-V. vexillata (L.) A.Rich. var. dolichonema (Harms) Verdc., Kew Bull. 24 : 555 (1970). Herbe pérenne ; racine tubérisée fusiforme ; tiges prostrées à grimpantes, tomenteuses à pubescentes-hirsutes et uncinulées, jaunâtres à brunâtres. Stipules lancéolées, 5–13 × 2–3 mm, prolongées en dessous de l’insertion et cordées à courtement auriculées à la base . Feuille : pétiole 1,5–11 cm, poilu ; rachis 4–30 mm ; stipelles filiformes, 4–9 mm, pubescentes ; folioles à pétiolule de 1–4 mm, limbe lancéolé à ovale, 3,5–16,5 × 1,9–8 cm, tronqué à arrondi à la base, aigu ou acuminé au sommet, pubescent sur les deux faces. Inflorescence : pédoncule 5–36 cm, pubescent-hirsute et uncinulé ; rachis 0–10 mm, souvent avec 2 à 4 noeuds seulement ; bractées lancéolées, 3–4 mm de longueur, pubescentes. Fleur : bractéoles lancéolées à linéaires, 5–8 mm de longueur ; calice pubescent, à tube de 5–7 mm de longueur, lobes étroitement lancéolés, 6–20 mm de longueur ; corolle 16–35 mm de longueur , rose à pourpre ou rarement blanche, étendard émarginé, asymétrique , 16–35 × 17–40 mm, muni à la face interne de deux appendices parallèles, ailes obovales, 16–35 mm de longueur, carène asymétrique, falquée-courbée, 15–34 mm de longueur, à rostre long et incurvé, avec un éperon sur le pétale gauche, soutenant l’aile gauche en position horizontale ; ovaire avec 15 à 22 ovules ; style prolongé au-delà du stigmate par un bec court. Gousse dressée à étalée , 8–14 cm × 3–5 mm, pubescente, terminée par un bec droit . Graine 2,5–3,5 × 2–3 mm ; hile sans strophiole, subcentral, ± 1,2 mm de longueur.
+V. vexillata (L.) A.Rich. var. dolichonema (Harms) Verdc., Kew Bull. 24 : 555 (1970). Perennial herb; root fusiform and tuberous; stems prostrate to climbing, tomentose to pubescent-hirsute and uncinulate, yellowish to brownish. Stipules lanceolate, 5–13 × 2–3 mm, prolonged below the insertion and cordate to shortly auriculate at the base. Leaf: petiole 1.5–11 cm, hairy; rachis 4–30 mm; stipels filiform, 4–9 mm, pubescent; leaflets with petiolule 1–4 mm, blade lanceolate to ovate, 3.5–16.5 × 1.9–8 cm, truncate to rounded at the base, acute or acuminate at the apex, pubescent on both faces. Inflorescence: peduncle 5–36 cm, pubescent-hirsute and uncinulate; rachis 0–10 mm, often with only 2 to 4 nodes; bracts lanceolate, 3–4 mm long, pubescent. Flower: bracteoles lanceolate to linear, 5–8 mm long; calyx pubescent, with tube 5–7 mm long, lobes narrowly lanceolate, 6–20 mm long; corolla 16–35 mm long, rose to purple or rarely white, standard emarginate, asymmetric, 16–35 × 17–40 mm, bearing on the inner face two parallel appendages, wings obovate, 16–35 mm long, keel asymmetric, falcate-curved, 15–34 mm long, with a long incurved rostrum, with a spur on the left petal, supporting the left wing in horizontal position; ovary with 15 to 22 ovules; style prolonged beyond the stigma by a short beak. Pod erect to spreading, 8–14 cm × 3–5 mm, pubescent, terminated by a straight beak. Seed 2.5–3.5 × 2–3 mm; hilum without strophiole, subcentral, ± 1.2 mm long.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-espèce pantropicale ; au Gabon, connue seulement de la Nyanga
+Pantropical species; in Gabon, known only from Nyanga
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-savanes herbeuses et arborées, dans buissons, sur jachères, aussi au bord de l’eau ; au Gabon à 120 m d’altitude, ailleurs jusqu’à 2400 m. Usage : Espèce résistante aux insectes nuisibles, pouvant ainsi servir à l’amélioration du niébé
+Herbaceous and wooded savannas, in bushes, on fallows, also along watercourses; in Gabon at 120 m altitude, elsewhere up to 2400 m. Use: Species resistant to crop pests, and can thus be used to improve cowpea
 
 ## Vernacular names
 
@@ -39,9 +33,7 @@ pois poison, pois zombie (fr.) ; aka sasage, wild cowpea, zombi pea (angl.)
 
 ## Source note
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-D’autres variétés se trouvent ailleurs en Afrique. B : Maréchal et al. (1978), Pellegrin (1949), Pasquet (2001), Verdcourt (1970, 1971c), Wili B liographie czek (1954)
+Other varieties are found elsewhere in Africa. B: Maréchal et al. (1978), Pellegrin (1949), Pasquet (2001), Verdcourt (1970, 1971c), Wilczek (1954)
 
 ## Notes
 

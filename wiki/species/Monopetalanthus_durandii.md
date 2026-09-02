@@ -17,13 +17,11 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Leaves with relatively large leaflets, 3 to 6 cm in length, by 1 to 1.5 cm in width, numbering 12 to 15 pairs. Rachis 10–20 cm long. Stipules caducous, leaving annular scars on the twig. Leaflets rhomboidal, obtuse at the apex, sometimes coarsely bilobed, sessile, coriaceous; at the base the anterior lobe is rounded, the posterior lobe attenuate. Asymmetry of the leaflet both at the base and at the apex, very pronounced by the main vein running diagonally. A secondary vein rising from the point of attachment to about two-thirds of the length of the leaflet.
 
-Feuilles à relativement grandes folioles, de 3 à 6 cm de longueur, sur 1 à 1,5 cm de largeur, au nombre de 12 à 15 paires. Rachis long de 10-20 cm. Stipules caduques laissant des cicatrices annulaires sur le rameau. Folioles rhomboïdales, au sommet obtus, parfois grossièrement bi-lobé, sessiles, coriaces; à la base le lobe antérieur est arrondi, le lobe postérieur atténué. Dissymétrie de la foliole tant à la base qu'au sommet, très marqué par la nervure principale en diagonale. Une nervure secondaire s'élève du point d'attache jusqu'aux deux tiers environ de la longueur de la foliole.
+Inflorescences in terminal compound racemes, pubescent, ferruginous. Bracts caducous. Bracteoles 9 × 4 mm. Sepals 3, very reduced. Petal 1, slightly emarginate, very briefly unguiculate, ciliate at the apex, 5 mm in length × 3 mm in width. Stamens 10; 9 connate at the base, 1 free; filaments 1 cm long. Ovary hirsute, stipitate, with 1–2 ovules.
 
-Inflorescences en racèmes composés terminaux pubescents, ferrugineux. Bractées caduques. Bractéoles  $ 9 \times 4 $ mm. Sépales 3, très réduits. Pétale 1, peu émarginé, très brièvement onguiculé, cilié au sommet, 5 mm de longueur  $ \times 3 $ mm de largeur. Étamines 10; 9 connées à la base, 1 libre; filets longs de 1 cm. Ovaire hirsute, stipité, à 1-2 ovules.
-
-Gousses ligneuses, plates, obovales, 15-21 cm × 7-8,5 cm, terminées par une courte pointe recourbée; marquées d'une nervure longitudinale. Une ou deux graines arrondies, plates, de 2-3,5 cm de diamètre, de couleur chocolat.
+Legumes woody, flat, obovate, 15–21 cm × 7–8.5 cm, terminated by a short recurved point; marked with a longitudinal vein. One or two rounded, flat seeds, 2–3.5 cm in diameter, chocolate-coloured.
 
 ## Type
 
@@ -31,15 +29,11 @@ de St Aubin 2003, Gabon (P)
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+According to F. Hallé and Normand the petal is white, the anthers purple, the flowers fragrant, the odour recalling that of Linden flowers.
 
-D'après F. Hallé et Normand le pétale est blanc, les anthères violettes, les fleurs odorantes, l'odeur rappelant celle des fleurs de Tilleul.
+This Andoung is a large tree capable of reaching large diameters (up to 1.4 m). The bole is straight, cylindrical, provided at the base with low buttresses formed by the junction of large roots which may extend quite far at the soil surface. Bark smooth, grey or brown, approximately 1 cm thick. Cut face hard, fibrous, ochre. Wood pink-cream (of St Aubin); density 850–950. By its leaflets, the species is easily identifiable.
 
-Cet Andoung est un grand arbre pouvant atteindre de gros diamètrés (jusqu'à 1,4 m). Le fût est droit, cylindrique, muni à la base d'accotements peu élevés formés par le raccordement de grosses racines qui peuvent s'étendre assez loin à la surface du sol. Écorce lisse, grise ou brune, épaisse d'environ 1 cm. Tranche
-
-dure, fibreuse, ocre. Bois rose-cre (de St Aubin); densité 850-950. Par ses folioles, l'espèce est aisément identifiable.
-
-L'espèce forme des peuplements purs, parfois importants, dans les Monts de Cristal. Elle n'est pas signalée en dehors du Gabon.
+The species forms pure stands, sometimes substantial, in the Cristal Mountains. It is not recorded outside of Gabon.
 
 ## Vernacular names
 

@@ -16,27 +16,19 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-in Oliv., Fl. trop. Afr. 2 : 73 (1871). Herbe pérenne ou parfois annuelle ; tiges ± nombreuses, prostrées ou décombantes , 15–50 cm de longueur, légèrement hirsutes et visqueuses, scabres à maturité . Stipules linéairesacuminées, 4–10 mm, striées longitudinalement, à marges poilues. Feuille subsessile ; stipelles absentes ; foliole 1 , à limbe elliptique, 8–30(–50) × 4–15 mm, pubescent, à base cunéée, à sommet aigu, à environ 9 paires de nervures. Inflorescence en racèmes grêles, nombreux, de 1,5–2,5 cm de longueur, avec 2 à 7 fleurs, à l’aisselle des feuilles bien développées et aussi bien les aiselles des bractées resssemblant à des petites folioles . Fleur : pédicelle 1–2 mm ; calice 2–4 mm de longueur, lobes étroits, beaucoup plus longs que le tube, à poils longs et souvent terminés par une grosse glande noire ; corolle rouge à purpurine , étendard obovale à subarrondi, ± 3,5 mm de longueur, pubérulent-hispide à l’extérieur. Gousse ascendante, linéaire, 7–15 × 1–2 mm, avec 3 à 8 graines, hispide-pubérulente avec des poils à base bul beuse, ou parfois à indument épars. Graine ± 1 × 1 × 1 mm, brune.
+in Oliv., Fl. trop. Afr. 2 : 73 (1871). Perennial herb or sometimes annual; stems ± numerous, prostrate or decumbent, 15–50 cm long, slightly hirsute and viscous, scabrous at maturity. Stipules linear-acuminate, 4–10 mm, longitudinally striated, with hairy margins. Leaf subsessile; stipels absent; leaflet 1, with elliptic limb, 8–30(–50) × 4–15 mm, pubescent, with cuneate base, with acute apex, with approximately 9 pairs of veins. Inflorescence in slender racemes, numerous, 1.5–2.5 cm long, with 2 to 7 flowers, in the axils of well-developed leaves and also in the axils of bracts resembling small leaflets. Flower: pedicel 1–2 mm; calyx 2–4 mm long, lobes narrow, much longer than the tube, with long hairs often terminated by a large black gland; corolla red to purplish, standard obovate to subrotund, ± 3.5 mm long, puberulent-hispid on the outside. Pod ascending, linear, 7–15 × 1–2 mm, with 3 to 8 seeds, hispid-puberulent with hairs with bulbous base, or sometimes with sparse indumentum. Seed ± 1 × 1 × 1 mm, brown.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Afrique tropicale, surtout République du Congo, République démocratique du Congo et l’Angola ; au Gabon, connue des Plateaux Batéké (Haut-Ogooué)
+Tropical Africa, especially Republic of the Congo, Democratic Republic of the Congo and Angola; in Gabon, known from the Batéké Plateaus (Upper Ogooué)
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-savanes et plaines, sols sablonneux (sables du Kalahari) ; au Gabon à environ 500–600 m d’altitude, ailleurs jusqu’à 900 m. Fleurs d’octobre à décembre
+savannas and plains, sandy soils (Kalahari sands); in Gabon at approximately 500–600 m altitude, elsewhere up to 900 m. Flowers from October to December
 
 ## Source note
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Nouvellement signalée pour la flore gabonaise. Dans la zone zambésienne, il existe deux autres sous-espèces, subsp. lanceolata Schrire et subsp. nampulensis Schire. b : Cronquist (1954), Gillett (1971a), Schrire (2012). ibliographie
+Newly recorded for the Gabonese flora. In the Zambezian zone, there exist two other subspecies, subsp. lanceolata Schrire and subsp. nampulensis Schrire. b : Cronquist (1954), Gillett (1971a), Schrire (2012). ibliography
 
 ## Notes
 

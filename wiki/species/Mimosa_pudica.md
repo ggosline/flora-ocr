@@ -17,8 +17,6 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 FZ 3 (1): 51 (1970); GILBERT & BOUTIQUE, FCB 3: 229 (1952); KEAY, FWTA, ed. 2, 1 (2): 495 (1958); RAPONDA-WALKER & SILLANS, Pl. ut. Gabon: 249 (1961); BERHAUT, Fl. Sénégal, ed. 2: 46 (1967); FL. ILLUSTR. SÉNÉGAL: 4: 553, tab. p. 552 (1975); TROUPIN, FL. RWANDA, SPERMATO. 1: 376, tab. 76, fig. 2 (1978).
 
 ## Figures

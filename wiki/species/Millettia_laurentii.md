@@ -17,25 +17,19 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Tree up to 30(–45) m tall, almost glabrous, except for the inflorescence; trunk up to 1.2 m in diameter; bark lenticellate; buds lenticular. Stipules caducous, very small. Leaf:
 
-Arbre jusqu’à 30(–45) m de hauteur, presque glabre, sauf l’inflorescence ; tronc jusqu’à 1,2 m de diamètre ; écorce lenticellée ; bourgeons lenticulaires. Stipules caduques, très petites. Feuille :
+Pod. – 5. Seeds, lateral and ventral view. Drawing by Achmad Satiri Nurhaman, PROTA Foundation (©), reproduced with permission from Tchinda (2008).
 
-Gousse. – 5. Graines, vue latérale et ventrale. Dessin par Achmad Satiri Nurhaman, PROTA Foundation (©), reproduit avec permisson à partir de Tchinda (2008).
-
-pétiole cylindrique, strié, 4–7 cm ; rachis 10–20(–30) cm ; stipelles absentes ; folioles (9–)11 à 13(–15) , pétiolule 4–8 mm, canaliculé dessus, limbe elliptique-oblong à obovale, 5–12(–15) × 2–4,5(–9) cm, base largement cunéée à arrondie, sommet arrondi à presque tronqué, mais justeau-dessus, brusquement acuminé-caudé à acumen atteignant 2 cm, glabre ; nervures latérales en 8 à 11 paires, nervation tertiaire réticulée et proéminente dessous. Inflorescence terminale, en panicule étroite de 25–35 cm de longueur ; axes densément pubérulents ; rameaux florifères 1,5–5 cm de longueur, pubescents ; bractées caduques, ± 1 mm de longueur. Fleur 14–16 mm de longueur ; pédicelle ± 3 mm ; bractéoles linéaires, aiguës, ± 2 mm, insérées à 0,5 mm du calice ; calice à tube de 4–5 mm de longueur, densément velouté-bronzé, lobes oblongs ou par fois presque spatulés, 2–5 mm de longueur, les supérieurs ± soudés, sauf sur 0,5 mm ; corolle blanche teinté de lilas, à pourpre , glabre , étendard suborbiculaire, ± 12 × 11 mm, à base cordée avec 2 callosités et biauriculée, à onglet de 4 mm, ailes et carène oblongues, 10–12 × 6 mm, leur base crochue, à onglet de 4 mm ; étamines monadelphes, tube 11 mm de longueur, partie libre 3–4 mm, recourbée ; disque lobulé au sommet ; ovaire linéaire, 11 mm de longueur, pubescent, à 3 ou 4 ovules ; style 5 mm, recourbé, glabre. Gousse linéaire à oblongue, aplatie , atténuée vers la base, 15–25 × 3,5–4,5(–6) cm, à 3 ou 4 graines, glabre et s’enroulant à maturité. Graine aplatie, 2–2,5 × 1,8–2 × 0,2 cm, noire à brun violet, un peu côtelée.
+petiole cylindrical, striate, 4–7 cm; rachis 10–20(–30) cm; stipels absent; leaflets (9–)11 to 13(–15), petiolule 4–8 mm, canaliculate above, blade elliptic-oblong to obovate, 5–12(–15) × 2–4.5(–9) cm, base broadly cuneate to rounded, apex rounded to nearly truncate, but just above, abruptly acuminate-caudate with acumen reaching 2 cm, glabrous; lateral veins in 8 to 11 pairs, tertiary venation reticulate and prominent below. Inflorescence terminal, in a narrow panicle 25–35 cm long; axes densely puberulent; flowering branches 1.5–5 cm long, pubescent; bracts caducous, ± 1 mm long. Flower 14–16 mm long; pedicel ± 3 mm; bracteoles linear, acute, ± 2 mm, inserted 0.5 mm from the calyx; calyx with tube 4–5 mm long, densely velvety-bronze, lobes oblong or sometimes almost spatulate, 2–5 mm long, the upper ones ± connate, except for 0.5 mm; corolla white tinged with lilac to purple, glabrous, standard suborbicular, ± 12 × 11 mm, with cordate base with 2 callosities and biauriculatae, with claw 4 mm, wings and keel oblong, 10–12 × 6 mm, their base hooked, with claw 4 mm; stamens monadelphous, tube 11 mm long, free part 3–4 mm, curved; disk lobuled at the apex; ovary linear, 11 mm long, pubescent, with 3 or 4 ovules; style 5 mm, curved, glabrous. Pod linear to oblong, flattened, attenuate toward the base, 15–25 × 3.5–4.5(–6) cm, with 3 or 4 seeds, glabrous and coiling at maturity. Seed flattened, 2–2.5 × 1.8–2 × 0.2 cm, black to violet-brown, somewhat ribbed.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Cameroun, Guinée équatoriale, Gabon, République du Congo et République démocratique du Congo ; au Gabon, connue du Haut-Ogooué, de l’Ogooué-Ivindo et du Woleu-Ntem
+Cameroon, Equatorial Guinea, Gabon, Republic of the Congo and Democratic Republic of the Congo; in Gabon, known from Haut-Ogooué, Ogooué-Ivindo and Woleu-Ntem
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-forêt primaire et secondaire, lisières forêt-savane, zones marécageuses, plantations abandon nées, aussi plantée le long des routes ; au Gabon jusqu’à 950 m d’altitude. Fleurs en mars et avril et septembre à décembre ; fruits en février et novembre. Usage : Le bois noir, nervuré de gris, est très beau pour l’ébénisterie de luxe. Il est aussi couramment utilisé pour la parqueterie lourde, les menuiseries intérieures et extérieures et des panneaux intérieurs et extérieurs. On l’emploie également pour les instruments de musique de haute qualité, en particulier pour les guitares. Plusieurs usages en médécine traditionelle ont été rapportés en République démocratique du Congo et au Cameroun. L’espèce est notée comme menacée de disparition à cause de la surexploitation et de la destruction de l’habitat
+primary and secondary forest, forest-savanna edges, marshy zones, abandoned plantations, also planted along roads; in Gabon up to 950 m altitude. Flowers in March and April and September to December; fruits in February and November. Uses: The black wood, veined with grey, is very beautiful for luxury cabinetry. It is also commonly used for heavy parquetry, interior and exterior joinery and interior and exterior panels. It is also used for high-quality musical instruments, in particular for guitars. Several uses in traditional medicine have been reported in the Democratic Republic of the Congo and Cameroon. The species is noted as threatened with extinction due to overexploitation and habitat destruction
 
 ## Vernacular names
 
@@ -43,9 +37,7 @@ wengé (nom pilote) ; awong, bois de fer, bois noir, faux ébénier, palissandre
 
 ## Source note
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Parfois décrit comme liane, mais selon nous, il s’agit d’une erreur. b : Hauman (1954a), Pellegrin (1949), Tchinda (2008), Wilks & Issembé (2000). ibliographie
+Sometimes described as a liane, but in our view, this is an error. b: Hauman (1954a), Pellegrin (1949), Tchinda (2008), Wilks & Issembé (2000). Bibliography
 
 ## Notes
 

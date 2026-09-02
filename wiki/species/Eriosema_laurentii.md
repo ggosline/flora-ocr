@@ -17,27 +17,19 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-E. glomeratum (De Wild.) Baker f. var. laurentii (De Wild.) Baker f., Leg. trop. Afr. : 511 (1929). Herbe pérenne ou suffrutex, 1–3 m de hauteur ; tige dressée ou retombante, triangulaire au sommet, 1–2 cm de diamètre ; poils apprimés, roux doré. Stipules ovales-lancéolées 10–13 × ± 3 mm, aiguës, striées, brunes, face externe pubescente, marges ciliées. Feuille subsessile ; pétiole et rachis ± 2 mm ; folioles 3 , pétiolules 2–5 mm, limbe étroitement oblancéoléelliptique, 4–12 × 0,7–2 cm, à base atténuée, à sommet atténué et aigu, brièvement apprimépubescent dessus, longuement pubescent sur la nervure médiane, soyeux brun roussâtre à blanchâtre dessous, surtout sur les nervures, les latérales obliques ; nervures pennées , en 9 à 12 paires, proéminentes dessous . Inflorescence axillaire et terminale, en racèmes globuliformes de ± 1,5–3 cm de diamètre ; pédoncule 6–20 mm , 4–8 mm de diamètre, brun-ferru gineux, à poils apprim és. Fleur : pédicelle 2 mm ; calice bilabié, à poils longs jaunes, avec quelques glandes, tube ± 3 mm de longueur, à dents égales, 3–4,5 mm de longueur ; corolle jaune , 7–9 mm de longueur, étendard oblong, 6–8 × 3–3,5 mm, pubescent et éparsement glanduleux, à sommet émarginé, auricules peu développées, ailes 6–8 mm de longueur, carène légèrement plus courte, pubescente et glanduleuse. Gousse obovoïde , 8–12 × ± 6 mm, avec cannelures longitudinales, à longs poils soyeux roux. Graine ± 3,5 × 2,1 mm.
+E. glomeratum (De Wild.) Baker f. var. laurentii (De Wild.) Baker f., Leg. trop. Afr. : 511 (1929). Perennial herb or suffrutex, 1–3 m tall; stem erect or trailing, triangular at apex, 1–2 cm in diameter; hairs appressed, golden-russet. Stipules ovate-lanceolate 10–13 × ± 3 mm, acute, striate, brown, external face pubescent, margins ciliate. Leaf subsessile; petiole and rachis ± 2 mm; leaflets 3, petiolules 2–5 mm, blade narrowly oblanceolate-elliptic, 4–12 × 0.7–2 cm, base attenuate, apex attenuate and acute, briefly appressed-pubescent above, long-pubescent on midvein, silky brownish-russet to whitish below, especially on the nerves, lateral veins oblique; veins pinnate, in 9 to 12 pairs, prominent below. Inflorescence axillary and terminal, in globuliform racemes ± 1.5–3 cm in diameter; peduncle 6–20 mm, 4–8 mm in diameter, ferruginous-brown, with appressed hairs. Flower: pedicel 2 mm; calyx bilabiate, with long yellow hairs, with a few glands, tube ± 3 mm long, teeth equal, 3–4.5 mm long; corolla yellow, 7–9 mm long, standard oblong, 6–8 × 3–3.5 mm, pubescent and sparsely glandular, apex emarginate, auricles scarcely developed, wings 6–8 mm long, keel slightly shorter, pubescent and glandular. Pod obovoid, 8–12 × ± 6 mm, with longitudinal grooves, with long silky russet hairs. Seed ± 3.5 × 2.1 mm.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-largement distribuée en Afrique tropicale ; au Gabon, connue de l’Estuaire, du HautOgooué, de la Ngounié, de l’Ogooué-Ivindo, de l’Ogooué-Maritime et du Woleu-Ntem
+widely distributed in tropical Africa; in Gabon, known from Estuaire, Haut-Ogooué, Ngounié, Ogooué-Ivindo, Ogooué-Maritime and Woleu-Ntem
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-savane herbeuse, rives de rivières, végétation secondaire, bord de route, plus hygrophile et montagnarde que E. glomeratum ; au Gabon à 7–720 m d’altitude, ailleurs jusqu’à 2550 m. Fleurs et fruits la plus grande partie de l’année
+grassy savanna, riverbanks, secondary vegetation, roadside, more hygrophilous and montane than E. glomeratum; in Gabon at 7–720 m altitude, elsewhere up to 2550 m. Flowers and fruits most of the year
 
 ## Source note
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Dans la Flore Analytique du Bénin (van der Maesen, 2006) et la Check-list des Plantes vasculaires du Gabon (Sosef et al. 2006), ce taxon a été traité comme une variété d’ E. glomeratum , mais la distinction est quand même assez claire au niveau spécifique (voir la clé ci-dessus et van der Maesen & Wieringa (2012)). b : Hauman (1954c), Jacques-Félix (1971), van der Maesen (2006a), van der Maesen & ibliographie Wieringa (2012), Verdcourt (1971c)
+In the Flore Analytique du Bénin (van der Maesen, 2006) and the Check-list des Plantes vasculaires du Gabon (Sosef et al. 2006), this taxon was treated as a variety of E. glomeratum, but the distinction is nevertheless fairly clear at the specific level (see the key above and van der Maesen & Wieringa (2012)). Bibliography: Hauman (1954c), Jacques-Félix (1971), van der Maesen (2006a), van der Maesen & Wieringa (2012), Verdcourt (1971c)
 
 ## Notes
 

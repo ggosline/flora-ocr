@@ -17,29 +17,21 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Suffrutex atteignant 2,5 m de hauteur ; tiges striées et densément veloutées, grises ou blanchâtres. Stipules lancéolées, 5–10 mm de longueur, tomenteuses extérieurement, striées intérieurement. Feuille : pétioles 3–4 cm, tomenteux ; rachis 1–2 cm ; stipelles subulées, 5–12 mm ; folioles à pétiolule de 4–5 mm, limbe elliptique à elliptique-obovale, à marges ondulées, le terminal ± 9–10 × 6 cm, les latéraux 5–8 × 3,5–5 cm, gris dessus, tomenteux gris ou blanchâtres dessous ; nervures latérales en 5 ou 6 paires, saillantes dessous et ascendantes, arquées. Inflorescence en panicule ramifiée, dense , 6–35 cm de longueur, les axes tomenteux. Fleur : pédicelle 2–6 mm ; bractéoles linéaires, 3–4 mm, tomenteuses ; calice à tube de ± 1 mm de longueur, densément tomenteux, lobes subulés, aigus, ± 2 mm ; corolle 6–9 mm de longueur, rose ou rouge ; ovaire généralement stipité. Gousse courtement stipitée, linéaire , un peu irrégulière suivant sa fertilité, (7–)12–30 × 3–5 mm, avec (1–)6 à 12 graines, brune, finement pubescente. Graine visible comme bosse sur les valves, aplatie-réniforme, ± 2 × 1,2 mm, brune ; hile petit, 0,4 mm de longueur, central.
+Subshrub reaching 2.5 m in height; stems striated and densely velvety, grey or whitish. Stipules lanceolate, 5–10 mm in length, tomentulose externally, striated internally. Leaf: petioles 3–4 cm, tomentose; rachis 1–2 cm; stipelles subulate, 5–12 mm; leaflets with petiolule 4–5 mm, limb elliptic to elliptic-obovate, with undulate margins, the terminal ± 9–10 × 6 cm, the lateral ones 5–8 × 3.5–5 cm, grey above, grey or whitish tomentose below; lateral veins in 5 or 6 pairs, prominent below and ascending, arched. Inflorescence in a branched, dense panicle, 6–35 cm in length, the axes tomentose. Flower: pedicel 2–6 mm; bracteoles linear, 3–4 mm, tomentose; calyx with tube ± 1 mm in length, densely tomentose, lobes subulate, acute, ± 2 mm; corolla 6–9 mm in length, pink or red; ovary generally stipitate. Pod shortly stipitate, linear, somewhat irregular according to its fertility, (7–)12–30 × 3–5 mm, with (1–)6 to 12 seeds, brown, finely pubescent. Seed visible as a bulge on the valves, flattened-reniform, ± 2 × 1.2 mm, brown; hilum small, 0.4 mm in length, central.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-du Cameroun à l’Éthiopie et au Sud vers l’Afrique du Sud et Madagascar ; au Gabon, connue du Haut-Ogooué et de l’Ogooué-Lolo
+from Cameroon to Ethiopia and southward to South Africa and Madagascar; in Gabon, known from Haut-Ogooué and Ogooué-Lolo
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+herbaceous and shrubby savannas, dry or humid, open forests; in Gabon at approximately 400 m elevation, elsewhere up to 2000 m. Flowers in March. Uses: The var. hookeri is a medicinal plant with multiple uses or magical uses in several African countries
 
-savanes herbacées et arbustives, sèches ou humides, forêts ouvertes ; au Gabon à environ 400 m d’altitude, ailleurs jusqu’à 2000 m. Fleurs en mars. Usage : La var. hookeri est une plante médicinale à multiple usage ou à usage magique, dans plusieurs pays africaines
-
-Gardens, Kew (©), reproduit avec permission à partir de Verdcourt (1971d).
+Gardens, Kew (©), reproduced with permission from Verdcourt (1971d).
 
 ## Source note
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Au Gabon, n’a été récoltée qu’une fois. Il s’agit de la var. hookeri ; la var. argyrophylla Verdc., de l’Afrique de l’Ouest jusqu’en Ouganda, a des folioles à limbe avec un tomentum dense argenté dessous et des gousses sessiles. Bi : Burkill (1995), Léonard (1954b), Pellegrin (1949), Verdcourt (1971d). B liographie
+In Gabon, collected only once. This is var. hookeri; var. argyrophylla Verdc., from West Africa to Uganda, has leaflets with a limb bearing dense silvery tomentum below and sessile pods. Bi: Burkill (1995), Léonard (1954b), Pellegrin (1949), Verdcourt (1971d). Bibliography
 
 ## Notes
 

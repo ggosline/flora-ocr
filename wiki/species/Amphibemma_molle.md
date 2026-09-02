@@ -11,7 +11,7 @@ tags: [species, generated]
 ---
 # *Amphibemma molle* Hooker f.
 
-**Genus**: [[Amphibemma]]
+**Genus**: [[Amphiblemma]]
 **Family**: [[Melastomataceae]]
 **Protologue**: FTA 2 : 456 (1871); JACQ.-FÉL., Fl. Cam. 24 : 95, tab. 30 (1983)
 
@@ -67,6 +67,6 @@ Mann 1681 b, mt Cristal (juil.), K.
 
 ## See also
 
-- [[Amphibemma]]
+- [[Amphiblemma]]
 - [[Melastomataceae]]
 - [[vol25]]

@@ -17,8 +17,6 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 – Pentaclethra griffoniana BaILL., Adansonia 6: 206 (1865-1866).
 
 - Piptadenia griffoniana (BaILL.,) BAK. F., Legum. Trop. Afr. 3: 794 (1943).
@@ -31,15 +29,15 @@ tags: [species, generated]
 
 - Piptadenia klaineana PIERRE ex A. CHEV. Bois Gabon : 189 (1917). Syn. nov.
 
-Arbre de grande taille atteignant 25-35 m. Tronc atteignant un diamètre de 0,70-0,80 m ; avec des accotements à la base (sujets âgés ?). Écorce grise. Jeunes rameaux désément finement pubérulents. Rameaux âgés finement pubérulents, marron foncé à nombreuses lenticelles plus claires. Pétiole très finement pubérulent, très court, large et épais, ± aplati, long de 6-15 mm, canaliculé dessus et très fines ailes latérales. Rachis très finement pubérulent, large, épais, ± aplati, long de 2,5-8,4 cm ; fortement canaliculé dessus, portant une glande charnue saillante au niveau de la première et deuxième paire de pennes, parfois aux suivantes mais peu fréquemment. Pennes 3-5 paires. Axe de la penne très finement pubérulent, long de 4,5-19 cm, canaliculé dessus et ailé latéralement. Folioles 7-15 paires, sessiles, plus nombreuses sur les pennes sommitales que sur les pennes basales. Limbe glabre sur les deux faces (jeunes folioles éparsément pubescentes dessus et un peu pubescentes à la base de la face inférieure), marron foncé à marron beige clair luisant ou mat dessus et marron dessous sur le sec ; rhombique parfois faiblement falciforme, 1,5-4,5 × 0,45-1,8 cm ; base asymétrique : bord proximal auriculé et bord distal atténué ± rectiligne ; sommet obtus, faiblement émarginé à subémarginé. Nervure principale diagonale, faiblement concave dessus à ± plane, faiblement saillante à subplane dessous ; glabre (pubescente sur les deux faces pour les feuilles jeunes). Nervures secondaires 9-13 paires, ascendantes, rectilignes, faiblement saillantes sur la face supérieure (parfois invisibles sur les feuilles jeunes) et saillantes à la face inférieure. Nervilles en réseau peu dense, à mailles allongées ; peu ou pas saillantes dessus et saillantes dessous.
+Large tree reaching 25–35 m. Trunk reaching a diameter of 0.70–0.80 m ; with buttresses at the base (older specimens ?). Bark grey. Young branchlets very finely puberulent. Older branchlets finely puberulent, dark brown with numerous lighter lenticels. Petiole very finely puberulent, very short, broad and thick, ± flattened, 6–15 mm long, canaliculate above and very fine lateral wings. Rachis very finely puberulent, broad, thick, ± flattened, 2.5–8.4 cm long ; strongly canaliculate above, bearing a prominent fleshy gland at the level of the first and second pair of pinnae, sometimes on the following pairs but rarely. Pinnae 3–5 pairs. Pinnule axis very finely puberulent, 4.5–19 cm long, canaliculate above and winged laterally. Leaflets 7–15 pairs, sessile, more numerous on the terminal pinnae than on the basal pinnae. Blade glabrous on both faces (young leaflets sparsely pubescent above and somewhat pubescent at the base of the lower face), dark brown to light beige brown shiny or dull above and brown below when dry ; rhombic sometimes weakly falcate, 1.5–4.5 × 0.45–1.8 cm ; base asymmetric : proximal margin auriculate and distal margin attenuate ± straight ; apex obtuse, weakly emarginate to subemarginate. Midrib diagonal, weakly concave above to ± plane, weakly prominent to subplane below ; glabrous (pubescent on both faces for young leaves). Secondary veins 9–13 pairs, ascending, straight, weakly prominent on the upper face (sometimes invisible on young leaves) and prominent on the lower face. Veinlets in a sparse reticulate pattern, with elongate meshes ; little or not prominent above and prominent below.
 
-Inflorescence en panicule terminale ou axillaire. Axe inflorescentiel densément pubérulent tomentelleux ± fauve, épais. Bractéole tomentelleuse extérieurement et glabre intérieurement, étroitement triangulaire, longue de 0,75-1 mm, sommet aigu. Bouton floral ellipsoïde. Fleur ♀, sessile, jaunâtre ou blanc jaunâtre sur le vivant.
+Inflorescence a terminal or axillary panicle. Inflorescence axis densely puberulent-tomentellous ± tawny, thick. Bractlet tomentellous externally and glabrous internally, narrowly triangular, 0.75–1 mm long, apex acute. Floral bud ellipsoid. Flower ♀, sessile, yellowish or yellowish white when fresh.
 
-Calice obconique, pubescent extérieurement, long de 1-1,75 mm, bord supérieur ondulé à dents très largement triangulaires aiguës. Pétales soudés aux étamines, pubescents extérieurement, elliptiques, longs de 3-5,5 mm, sommet aigu. Étamines 10, soudées entre elles ; filet libre long de 7-7,5 mm ; anthère ellipsoïde, longue de 0,5 mm ; connectif terminé par une glande globuleuse courtement pédiculée tôt caduque. Disque intrastaminal soudé au tube staminal. Pistil à stipe long de 2-2,5 mm ; ovaire pubescent hirsute, long de 1,75-2 mm, à 8 ovules ; style glabre, long de ± 2,5 mm, infléchi.
+Calyx obconic, pubescent externally, 1–1.75 mm long, upper margin undulate with very broadly triangular acute teeth. Petals fused to the stamens, pubescent externally, elliptic, 3–5.5 mm long, apex acute. Stamens 10, fused together ; free filament 7–7.5 mm long ; anther ellipsoid, 0.5 mm long ; connective terminated by a globose gland shortly stipitate, early caducous. Intrastaminal disk fused to the staminal tube. Pistil with stipe 2–2.5 mm long ; ovary pubescent hirsute, 1.75–2 mm long, with 8 ovules ; style glabrous, ± 2.5 mm long, inflexed.
 
-Gousse aplatie, coriace, glabre, 10-30 × 2-2,5 cm, déhiscente par une fente; base atténuée cunéiforme, faiblement stipitée; bords suturaux moyennement saillants; faces latérales à nervation oblique très saillante, sommet obtus. Graines plates, 6-10 × 1,5-2,2 cm ; à aile membraneuse large de 4-5 mm.
+Pod flattened, coriaceous, glabrous, 10–30 × 2–2.5 cm, dehiscent by a slit ; base attenuate cuneiform, weakly stipitate ; sutural margins moderately prominent ; lateral faces with very prominent oblique venation, apex obtuse. Seeds flat, 6–10 × 1.5–2.2 cm ; with membranous wing 4–5 mm wide.
 
-Plantule à cotylédons restant dans le testa de la graine. Épicotyle pubescente, sillonné longitudinalement, long de ± 5 cm. Stipule pubescente, filiforme, long de 1 mm. 2 premières feuilles composées pennées, opposées, à 14 paires de folioles morphologiquement semblables aux folioles adultes, ± 1,2 × ± 0,3 cm, sommet aigu. Feuilles suivantes composées bipennées alternes, une paire de pennes ; glande saillante entre les pennes. Folioles comme précédemment (Letouzey, 9425, Cameroun). Jeune plant avec feuille de très grande taille (pétiole long de 6-10 cm) à folioles très développées, aiguës au sommet (Letouzey 1418, 13533, du Cameroun et Villiers 279). – Pl. 12, p. 51.
+Seedling with cotyledons remaining in the seed testa. Epicotyl pubescent, longitudinally furrowed, ± 5 cm long. Stipule pubescent, filiform, 1 mm long. First 2 compound pinnate leaves, opposite, with 14 pairs of leaflets morphologically similar to adult leaflets, ± 1.2 × ± 0.3 cm, apex acute. Following leaves alternate bipinnate compound, one pair of pinnae ; prominent gland between the pinnae. Leaflets as above (Letouzey, 9425, Cameroon). Young plant with very large leaf (petiole 6–10 cm long) with very developed leaflets, acute at apex (Letouzey 1418, 13533, from Cameroon and Villiers 279). – Pl. 12, p. 51.
 
 ## Type
 
@@ -47,15 +45,13 @@ Griffon du Bellay 6, Gabon, fr. 1864 (P !)
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+After comparison of an isotype of N. zenkeri and the holotype of N. griffoniana, we find that the slight floral differences (essentially measurements) observed by PELLEGRIN, are not sufficiently significant to maintain the distinction between the two taxa. N. zenkeri and N. griffoniana are therefore synonymous ; the latter remains valid due to its priority.
 
-Après comparaison d'un isotype de N. zenkeri et de l'holotype de N. griffoniana, nous constatons que les faibles différences florales (essentiellement des mensurations) observées par PELLEGRIN, ne sont pas suffisamment significatives pour maintenir la distinction entre les deux taxons. N. zenkeri et N. griffoniana sont donc synonymes ; ce dernier reste valable du fait de son antériorité.
+A. CHEVALIER, in "The forest and woods of Gabon" : 189 (1917), describes Piptadenia klaineana Pierre ex A. Chev. based on the specimen Klaine 1000. This is moreover the type of Newtonia klainei Pierre ex Harms. The two taxa are to be conflated and are synonymous with N. griffoniana.
 
-A. CHEVALIER, dans « La forêt et les bois du Gabon » : 189 (1917), décrit Piptadenia klaineana Pierre ex A. Chev. en se basant sur l'échantillon Klaine 1000. Celui-ci est par ailleurs le type de Newtonia klainei Pierre ex Harms. Les deux taxons sont à confondre et sont synonymes de N. griffoniana.
+It should be noted the great variability in the size of the leaflets as well as in the number of the rachis glands.
 
-Il faut noter la grande variabilité de la taille des folioles ainsi que du nombre des glandes du rachis.
-
-L'aire de cette espèce s'étend du Cameroun au Congo.
+The range of this species extends from Cameroon to Congo.
 
 ## Vernacular names
 

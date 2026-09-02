@@ -21,15 +21,13 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 — Vermösen, Ess. For. Congo Belge : 169 (1923). — Pellegrin, Fl. Mayombe I : 98 (1924); Lég. Gabon : 58 (1948).
 
-Arbres. Rameaux lenticellés. Feuilles 2-juguées. Stipules longues de 3,5-4,5 cm, persistantes, sans oreillettes. Grandes folioles oblongues, à sommet obtus, subsessiles (pétiole très court), glabres, de 10-45 cm de longueur sur 5-16 cm de largeur.
+Trees. Branchlets lenticellate. Leaves 2-jugate. Stipules 3.5-4.5 cm long, persistent, without auricles. Large leaflets oblong, with obtuse apex, subsessile (petiole very short), glabrous, 10-45 cm in length by 5-16 cm in width.
 
-Panicules terminales, à rameaux épais. Pédicelles longs de 3-4 cm. Bractéoles de 3,5 à 4,5 cm de longueur, pubérulentes ou presque glabres. Sépales 4, rougeâtres. Grand pétale postérieur jaune, jusqu'à 12,5 cm de largeur et 10 cm de longueur y compris l'onglet de 2,5 cm.
+Terminal panicles, with thick branches. Pedicels 3-4 cm long. Bracteoles 3.5 to 4.5 cm in length, puberulent or nearly glabrous. Sepals 4, reddish. Large posterior petal yellow, up to 12.5 cm in width and 10 cm in length including the claw of 2.5 cm.
 
-Très jeune fruit velu, marqué de deux rides longitudinales.
+Very young fruit pubescent, marked by two longitudinal ridges.
 
 ## Vernacular names
 
@@ -43,11 +41,9 @@ De Briey 92, Mayombe (BR)
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Small tree of siliceous and swampy soils according to Le Testu.
 
-Petit arbre de terrains siliceux et marécageux d'après Le Testu.
-
-Espèce très proche de G. Straussianum (Harms) Léonard, espèce mal connue de la Guinée espagnole (Engl. Bot. Jahrb. 35 : 310 (1910); répandue du Cameroun au Mayombe.
+Species very close to G. Straussianum (Harms) Léonard, a poorly known species from Spanish Guinea (Engl. Bot. Jahrb. 35 : 310 (1910); distributed from Cameroon to Mayombe.
 
 ## Specimens examined
 

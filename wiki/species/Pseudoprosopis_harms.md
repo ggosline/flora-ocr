@@ -16,17 +16,13 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Shrubs sometimes sarmentose, or lianes. Gland often present on the stipular scar. Leaflet sessile or petiolulate. Inflorescences in shortly pedunculate racemes, solitary fasciculate, sometimes paniculate. Flowers ♀, pentamerous, pedicellate. Calyx cupular. Petals 5, free valvate. Stamens 10, with filaments free or fused at the base; anther with apical gland. Ovary shortly stipitate, with approximately 10 ovules. Legume woody, dehiscent with 2 slits. Seeds orbicular to elliptic quadrangular, exalbuminous.
 
-Arbustes parfois sarmenteux, ou lianes. Glande souvent présente sur la cicatrice stipulaire. Foliole sessile ou pétiolulée. Inflorescences en racèmes courtemment pédonculés, solitaires fasciculées, parfois panicules. Fleurs ♀, pentamères, pédicellées. Calice cupulaire. Pétales 5,
+TYPE SPECIES: P. fischeri (Taub.) Harms (Prosopis fischeri Taub.)
 
-libres valvaires. Étamines 10, à filets libres ou soudés à la base ; anthère avec glande apicale. Ovaire courtement stipité, avec environ 10 ovules. Gousse ligneuse, déhiscente à 2 fentes. Graines orbiculaires à elliptiques quadrangulaires, exalbuminées.
+This genus contains 7 species in tropical Africa; of which 2 are presented in Gabon.
 
-ESPÈCE-TYPE : P. fischeri (Taub.) Harms (Prosopis fischeri Taub.)
-
-Ce genre renferme 7 espèces en Afrique tropicale ; dont 2 sont présentés au Gabon.
-
-1. Foliole subsessile (pétiolule long de ± 0,5 mm); limbe 1,35-2,3 × 0,35-1 cm; crochet axillaire souvent présent; pas d'acumen …… 1. P. gilletii. 1'. Foliole pétiolulée (pétiolule long de 2-4,5 mm); limbe 5-10 × 1,7-4 cm; pas de crochet axillaire; acumen net …… 2. P. claessensii.
+1. Leaflet subsessile (petiolule 0.5 mm long); limb 1.35–2.3 × 0.35–1 cm; axillary hook often present; no acumen …… 1. P. gilletii. 1'. Leaflet petiolulate (petiolule 2–4.5 mm long); limb 5–10 × 1.7–4 cm; no axillary hook; distinct acumen …… 2. P. claessensii.
 
 ## Notes
 

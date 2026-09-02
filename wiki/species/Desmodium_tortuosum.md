@@ -17,21 +17,15 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Herbe annuelle , érigée, 1–3,5 m de hauteur ; tige velue et à poils uncinés, lignifiée et ramifiée depuis la base. Stipules obliques-ovales, 6–8 × 1,5–3,5 mm, à sommet longuement atténué, pubérulentes. Feuille : pétiole 1–2 cm ; folioles (1–)3 , la terminale à limbe elliptique à ovale ou rhomboïdal, 4–8 × 1,5–3,5 cm, les latérales plus petites et plus obliques, légèrement poilus dessus, plus denses dessous ; nervures latérales secondaires disposées parallèlement entre les latérales principales . Inflorescence axillaire et terminale, en pseudoracèmes lâches atteignant 35 cm de longueur , à fleurs par 2 ; rachis glutineux-poilu ; bractées caduques, 3–6 × 0,8–1 mm. Fleur : pédicelle grêle, 11–16 mm ; calice à tube atteignant 4 mm de longueur, lobe supérieur bifide, lobes inférieurs latéraux 2–3 mm de longueur, l’inférieur central 3–4 mm de longueur ; corolle 4–5 mm de longueur, blanche à rose ou violette, carène dépassant les autres pétales. Gousse sur un stipe de 2 mm, à sutures dorsale et ventrale nettement échancrées, avec 5 à 7 articles rhomboïques de 3–6,5 × 3–4 mm, réticulés, tordus, densément uncinuléspubérulents. Graine ellipsoïde, atteignant 2,5 × 2 × 1 mm, brun clair.
+Annual herb, erect, 1–3.5 m tall; stem hairy and with uncinate hairs, lignified and branched from the base. Stipules oblique-ovate, 6–8 × 1.5–3.5 mm, with apex long attenuate, puberulent. Leaf: petiole 1–2 cm; leaflets (1–)3, the terminal one with elliptic to ovate or rhomboidal blade, 4–8 × 1.5–3.5 cm, the lateral ones smaller and more oblique, slightly hairy above, more densely so below; secondary lateral veins arranged parallel between the main lateral veins. Inflorescence axillary and terminal, in lax pseudoracemes reaching 35 cm in length, flowers in pairs; rachis glutinous-hairy; bracts caducous, 3–6 × 0.8–1 mm. Flower: pedicel slender, 11–16 mm; calyx with tube reaching 4 mm in length, upper lobe bifid, lower lateral lobes 2–3 mm in length, the central lower one 3–4 mm in length; corolla 4–5 mm in length, white to pink or violet, keel exceeding the other petals. Pod on a stipe of 2 mm, with dorsal and ventral sutures distinctly emarginate, with 5 to 7 rhomboidal articles 3–6.5 × 3–4 mm, reticulate, twisted, densely uncinulate-puberulent. Seed ellipsoid, reaching 2.5 × 2 × 1 mm, pale brown.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-originaire de l’Amérique tropicale et subtropicale, introduite dans les tropiques de l’Ancien Monde ; au Gabon, connue du Haut-Ogooué
+native to tropical and subtropical America, introduced to the tropics of the Old World; in Gabon, known from Upper Ogooué
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-végétation ouverte, prairie dans forêt secondaire ; au Gabon à 440 m d’altitude, ailleurs à 0–1200 m. Fleurs et fruits en février
+open vegetation, grassland in secondary forest; in Gabon at 440 m altitude, elsewhere at 0–1200 m. Flowers and fruits in February
 
 ## Vernacular names
 
@@ -39,9 +33,7 @@ Florida beggar weed (angl.). Usage : Utilisée comme fourrage et plante de couve
 
 ## Source note
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-En Amérique, quelques auteurs traitent D. tortuosum comme un synonyme de D. distortum . Ici, nous suivons les traitements de Schubert (1971) et de Mackinder et al. (2001). b : Botton & Hallé (1958), De la Estrella et al. (2010), Ern (1984), Hepper (1958), Mac ibliographie kinder et al. (2001), van der Maesen (2006a), Schubert (1954, 1971), Sosef & van der Maesen (1997)
+In America, some authors treat D. tortuosum as a synonym of D. distortum. Here we follow the treatments of Schubert (1971) and Mackinder et al. (2001). Bibliography: Botton & Hallé (1958), De la Estrella et al. (2010), Ern (1984), Hepper (1958), Mackinder et al. (2001), van der Maesen (2006a), Schubert (1954, 1971), Sosef & van der Maesen (1997)
 
 ## Notes
 

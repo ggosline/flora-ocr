@@ -17,21 +17,15 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-, non N.E.Br. (1903), nom. illeg. Herbe annuelle grêle ou rarement vivace, 10–40 cm de hauteur ; tige ramifiée, dressée à ascendante ou parfois prostrée ; à indument obscur, strigueux-hirsute sur la tige et les feuilles . Stipules subulées à étroitement triangulaires, 1,5–5 mm de longueur. Feuille : folioles (1–)3 à 5(–7) , les latérales opposées, la terminale brièvement pétiolulée, à limbe elliptiqueoblong à elliptique , 7–22 × 2–5(–9) mm, sommet aigu, parfois les folioles assez inégales en taille. Inflorescence racémeuse, 1,5–10 cm de longueur, avec 3 à 15 fleurs. Fleur : pédicelle grêle, 1–4 mm ; calice 1–2,5 mm de longueur, éparsement hirsute, lobes égalant à jusqu’ à 2 fois plus longs que le tube ; corolle rose, rouge ou orange , étendard elliptique à rhomboïdalovale, 3–4 mm de longueur, carène sans appendices latéraux, plus courte que l’étendard et les ailes, à rostre de 0,5–1,5 mm ; étamines 2–2,5 mm. Gousse ± courbée , 15–35 × 1–1,5 mm, avec 8 à 15 graines , éparsement pubérulente. Graine carrée, ± 1,5 × 1 × 1 mm, brun-orange à brun foncé ; hile le long du côté court.
+, non N.E.Br. (1903), nom. illeg. Slender annual herb or rarely perennial, 10–40 cm in height; stem branched, erect to ascending or sometimes prostrate; with dark indumentum, striguose-hirsute on the stem and leaves. Stipules subulate to narrowly triangular, 1.5–5 mm in length. Leaf: leaflets (1–)3 to 5(–7), the lateral ones opposite, the terminal one shortly petiolulate, with elliptic-oblong to elliptic blade, 7–22 × 2–5(–9) mm, apex acute, sometimes the leaflets quite unequal in size. Inflorescence racemose, 1.5–10 cm in length, with 3 to 15 flowers. Flower: pedicel slender, 1–4 mm; calyx 1–2.5 mm in length, sparsely hirsute, lobes equaling to up to 2 times longer than the tube; corolla pink, red or orange, standard elliptic to rhomboidally-oval, 3–4 mm in length, keel without lateral appendages, shorter than the standard and wings, with rostrum of 0.5–1.5 mm; stamens 2–2.5 mm. Pod ± curved, 15–35 × 1–1.5 mm, with 8 to 15 seeds, sparsely puberulent. Seed square, ± 1.5 × 1 × 1 mm, orange-brown to dark brown; hilum along the short side.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-du Ghana au Nigéria, au Cameroun, au Gabon et jusqu’au Soudan, à la Tanzanie, au Ma lawi, à la Zambie et à l’Angola ; au Gabon, connue de l’Ogooué-Ivindo et du Woleu-Ntem
+from Ghana to Nigeria, Cameroon, Gabon and as far as Sudan, Tanzania, Malawi, Zambia and Angola; in Gabon, known from Ogooué-Ivindo and Woleu-Ntem
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-savane, lisière de prairie humide, roches granitiques, sur sols superficiels et dans crevasses ; au Gabon à 460–690 m d’altitude, ailleurs à 1050–2000 m. b : Gillett (1971a), Schrire (1992, 2012). ibliographie
+savanna, margin of humid grassland, granitic rocks, on shallow soils and in crevices; in Gabon at 460–690 m altitude, elsewhere at 1050–2000 m. b: Gillett (1971a), Schrire (1992, 2012). ibliography
 
 ## Notes
 

@@ -17,25 +17,17 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+, syn. nov. Tree 10–15 m tall; bark brown; branches striated, branchlets covered like petioles, rachis and petiolules with ferruginous pubescence interspersed with glands. Leaf: petiole 1–2 cm; rachis 3–12 cm; leaflets 5 to 7, petiolule 5 mm, blade ovate-lanceolate, 4–17 × 2–6.5 cm, apex cuspidate, glabrous at maturity, reticulate, pale green and with golden glands beneath; lateral veins in 7 to 9 pairs. Inflorescence terminal, in panicle composed of short pseudoracemes, red-brown velvety; bracts suborbicular, ± 1 mm long. Flower: pedicel 3–4 mm; bracteoles suborbicular; calyx 5–7 mm long, red-brown velvety; standard suborbicular, 13–14 mm long, with apex incised, red-brown hairy on the back; stamens 13–14 mm; ovary hairy like the calyx. Pod oblique, rhomboidal, 7–9.5 × 2.5–3.5 × 2 cm, attenuate toward the base, apex cuspidate, obliquely striate, puberulent and glandular then glabrous. Seed 1–1.5 cm in diameter, reddish-brown to purple, smooth.
 
-, syn. nov. Arbre de 10–15 m de hauteur ; écorce brune ; rameaux striés, ramilles couvertes comme les pétioles, rachis et pétiolules, d’une pubescence ferrugineuse entremêlée de glandes. Feuille : pétiole 1–2 cm ; rachis 3–12 cm ; folioles 5 à 7 , pétiolule 5 mm, limbe ovale-lancéolé, 4–17 × 2–6,5 cm , sommet cuspidé, glabre à maturité , réticulé, vert pâle et à glandes dorées dessous ; nervures latérales en 7 à 9 paires. Inflorescence terminale, en panicule composée de pseudoracèmes courts, velouté rouge-brun ; bractées suborbiculaires, ± 1 mm de longueur. Fleur : pédicelle 3–4 mm ; bractéoles suborbiculaires ; calice 5–7 mm de longueur, velouté rougebrun ; étendard suborbiculaire, 13–14 mm de longueur , à sommet incisé, poilu rouge-brun
-
-Étamine vexillaire. – 10. Gousse. – 11. Idem, coupe longitudinale. (1–9 : J.J.F.E. de Wilde 7721 ; 10, 11 : W.J.J.O. de Wilde 2738 ). Dessin par Hans de Vries, Naturalis Biodiversity Center (©).
-
-sur le dos ; étamines 13–14 mm ; ovaire velu comme le calice. Gousse oblique, rhomboïdale , 7–9,5 × 2,5–3,5 × 2 cm, atténuée vers la base, à sommet cuspidé, obliquement striée , pubérulente et glanduleuse puis glabre. Graine 1–1,5 cm de diamètre, brun rougeâtre à pourpre, lisse .
+Vexillary stamen. – 10. Pod. – 11. Idem, longitudinal section. (1–9: J.J.F.E. de Wilde 7721; 10, 11: W.J.J.O. de Wilde 2738). Drawing by Hans de Vries, Naturalis Biodiversity Center (©).
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Cameroun, Gabon, République démocratique du Congo et Angola ; au Gabon, connue du Haut-Ogooué et du Woleu-Ntem
+Cameroon, Gabon, Democratic Republic of the Congo and Angola; in Gabon, known from Haut-Ogooué and Woleu-Ntem
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-collines en forêt primaire, forêt riveraine et secondaire ; au Gabon à 200–400 m d’altitude. Fleurs en février et avril ; fruits en octobre
+hillsides in primary forest, riparian and secondary forest; in Gabon at 200–400 m altitude. Flowers in February and April; fruits in October
 
 ## Vernacular names
 

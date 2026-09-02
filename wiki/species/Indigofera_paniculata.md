@@ -17,29 +17,21 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Herbe annuelle, atteignant 1–2 m de hauteur ; ramilles striés, grises-pubescents. Stipules sétacées, 2–4 mm. Feuille simple ; pétiole 1–2 mm ; stipelles absentes ; limbe linéaire-lancéo lé, 25–70(–80) × (2–)5–15(–17) mm, plus petit vers le haut, base et sommet atténués, pubes cent sur les 2 faces. Inflorescence paniculiforme, lâche, ± 30 cm de longueur , composée de racèmes atteignant 14 cm de longueur, dressée ; pédoncules 6–16 mm ; bractées ressemblant à petites folioles . Fleur : pédicelle 2–4 mm ; calice 1–2 mm de longueur, densément stri geux, lobes étroits, fortement pointus, plus longs que le tube, l’inférieur un peu plus long que les autres ; corolle rouge à orange , 3–4 mm de longueur, étendard ovale ou suborbiculaire, souvent ± acuminé, densément strigueux sur le dos. Gousse linéaire-oblongue , 4–5 × 1 mm, aplatie, à 2 ou 3 graines, à pubescence apprimée grise. Graine rectangulaire, ± 1,5 × 1 × 1 mm, brune ; hile central.
+Annual herb, reaching 1–2 m tall; branchlets striate, grey-pubescent. Stipules setaceous, 2–4 mm. Simple leaf; petiole 1–2 mm; stipels absent; lamina linear-lanceolate, 25–70(–80) × (2–)5–15(–17) mm, smaller towards the top, base and apex attenuate, pubescent on both faces. Inflorescence paniculate, lax, ± 30 cm long, composed of racemes reaching 14 cm long, erect; peduncles 6–16 mm; bracts resembling small leaflets. Flower: pedicel 2–4 mm; calyx 1–2 mm long, densely strigulose, lobes narrow, strongly acute, longer than the tube, the lower one somewhat longer than the others; corolla red to orange, 3–4 mm long, standard oval or suborbicular, often ± acuminate, densely strigulose on the back. Legume linear-oblong, 4–5 × 1 mm, flattened, with 2 or 3 seeds, with appressed grey pubescence. Seed rectangular, ± 1.5 × 1 × 1 mm, brown; hilum central.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Afrique de l’Ouest, Cameroun, Gabon, République démocratique du Congo, Kenya, Tan zanie et Angola ; au Gabon, connue du Haut-Ogooué, du Moyen-Ogooué, de la Nyanga et de l’OgoouéIvindo
+West Africa, Cameroon, Gabon, Democratic Republic of the Congo, Kenya, Tanzania and Angola; in Gabon, known from Haut-Ogooué, Moyen-Ogooué, Nyanga and Ogooué-Ivindo
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-savanes, stations ouvertes et riveraines ; au Gabon à 50–400 m d’altitude, ailleurs jusqu’à 1500 m. Floraison en février et mars, juin et juillet
+savannas, open and riparian stations; in Gabon at 50–400 m altitude, elsewhere up to 1500 m. Flowering in February and March, June and July
 
 ## Source note
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Subspecies gazensis (Baker f.) J.B.Gillett is known from East Africa. b: Cronquist (1954), Gillett (1971a), Hepper (1958), Pellegrin (1949). Bibliography
 
-La subsp. gazensis (Baker f.) J.B.Gillett est connue de l’Afrique de l’Est. b : Cronquist (1954), Gillett (1971a), Hepper (1958), Pellegrin (1949). ibliographie
-
-Bouton floral (× 10). – 4. Bouton étalé, à calice enlevé (× 10). – 5. Fleur épanouie, sans corolle (× 10). – 6. Gynécée, coupe longitudinale (× 10). – 7. Gousse (× 7). – 8. Gousse, coupe longitudinale (× 5).(1–6 : Luxen 410 ; 7, 8 : Luja 201 ). Dessin par J.M. Lerinckx, Jardin Botanique Meise (©).
+Floral bud (× 10). – 4. Spread bud, calyx removed (× 10). – 5. Opened flower, without corolla (× 10). – 6. Gynoecium, longitudinal section (× 10). – 7. Legume (× 7). – 8. Legume, longitudinal section (× 5).(1–6: Luxen 410; 7, 8: Luja 201). Drawing by J.M. Lerinckx, Meise Botanical Garden (©).
 
 ## Notes
 

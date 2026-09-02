@@ -21,15 +21,13 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Lianes. Branchlets puberulent, blackish. Leaves ovate or oblong-elliptic, obtuse to rounded at the base, rounded to shortly acuminate at the apex, glabrous, 6–13 cm long by 3–7 cm wide; trinervate at the base. Petiole 5–10 mm, glabrous or puberulent. Pedicels 7–10 mm.
 
-Lianes. Ramilles pubérulentes, noirâtres. Feuilles ovées ou oblongues-elliptiques, obtuses à arrondies à la base, arrondies à courtement acuminées au sommet, glabres, de 6-13 cm de longueur sur 3-7 cm de largeur; trinervurées à la base. Pétiole de 5-10 mm, glabre ou pubérulent. Pédicelles de 7-10 mm.
+Racemes up to 20 cm long, puberulent, brownish-grey. Flowers red-orange, tomentellous to glabrescent.
 
-Racèmes jusqu'à 20 cm de longueur, pubérulents, brungrisâtre. Fleurs rouge-orangé, tomentelleuses à glabrescentes.
+Receptacle cylindric 18–25 mm long, enlarged at the apex. Calyx with tube 3–6 mm, with broadly triangular lobes, 1–2 mm long. Petals lanceolate, 10–15 mm long and ± 3 mm wide, glabrous on the outside, puberulent on the inside. Stamens with filaments ca. 10 mm, puberulent; anthers black and filaments white. Ovary glabrous; long stipe 1.5 cm, glabrous.
 
-Réceptacle cylindrique de 18-25 mm de longueur, élargi au sommet. Calice à tube de 3-6 mm, à lobes largement triangulaires, longs de 1-2 mm. Pétales blancéolés, de 10-15 mm de longueur et ± 3 mm de largeur, glabres à l'extérieur, pubérulents à l'intérieur. Étamines à filets de 10 mm env., pubérulents; anthères noires et filets blancs. Ovaire glabre; long stipe de 1,5 cm, glabre.
-
-Gousses gonflées de 4-6 cm de longueur sur 2-3 cm de largeur.
+Legumes inflated 4–6 cm long by 2–3 cm wide.
 
 ## Type
 
@@ -37,11 +35,9 @@ Welwitsch, près Bango, district de Golungo Alto, Angola
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Species widespread from southern Cameroon to Angola.
 
-Espèce répandue du sud du Cameroun, à l'Angola.
-
-Grosse liane pouvant atteindre 25 cm de diamètre.
+Large liane reaching up to 25 cm in diameter.
 
 ## Specimens examined
 

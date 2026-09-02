@@ -11,7 +11,7 @@ tags: [species, generated]
 ---
 # *Marantachloa congensis* (K. Schum.) J. Léon. et Mull. [Pl. XXVI]
 
-**Genus**: [[Marantachloa]]
+**Genus**: [[Marantochloa]]
 **Family**: [[Marantaceae]]
 
 ## Synonyms
@@ -57,6 +57,6 @@ L'échantillon N. Hallé 1993, présente une anomalie dans son inflorescence : l
 
 ## See also
 
-- [[Marantachloa]]
+- [[Marantochloa]]
 - [[Marantaceae]]
 - [[vol09]]

@@ -17,21 +17,15 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Liane ; rameaux d’abord poilus, jaunâtres, puis glabrescents. Stipules persistantes à caduques, lancéolées-triangulaires, 12–18 mm de longueur, longuement éperonnées à la base, scarieuses, apprimées-pubescentes. Feuille : pétiole (4–)8–13 cm, ± hirsute ; rachis 2–4 mm ; stipelles filiformes, 3–10 mm de longueur ; folioles à pétiolule de 4–5 mm, à limbe ovale-elliptique à elliptique-oblong, 7–13 × 5–8 cm, base arrondie, sommet acuminé, glabre dessus, les laté raux semblables au terminal ; nervures secondaires en 7 ou 8 paires, obliques à la nervure principale et ± droites jusqu’à la marge , à peine hirsutes dessous . Inflorescence 20–30 cm de longueur, parfois branchue, dense, longuement pédonculée, soyeuse ; bractées lancéoléeslinéaires, 12–15 mm de longueur, velues-soyeuses. Fleur : bractéoles courtes et arrondies, au sommet du pédicelle de 4–6 mm ; calice campanulé, 10–14 mm de longueur, soyeux à l’extérieur, lèvre supérieure arrondie, émarginée, les 3 dents inférieures lancéolées-linéaires ; corolle 2–2,4 cm de longueur, rouge à purpurine , étendard à tache jaune près de la base ; étamines ± 19 mm de longueur, courbées ; ovaire ± 10 mm de longueur, velu, roux, avec 2 à 4 ovules ; style presque glabre, légèrement boursouflé, stigmate terminal, petit. Gousse 12–15 × 5–6 cm, à (1–)2 ou 3(–4) graines, rousse-soyeuse d’abord, puis glabre , renflée sur chaque graine. Graine noire.
+Liane; branches initially pilose, yellowish, then glabrescent. Stipules persistent to caducous, lanceolate-triangular, 12–18 mm in length, long-spurred at the base, scarious, appressed-pubescent. Leaf: petiole (4–)8–13 cm, ± hirsute; rachis 2–4 mm; stipels filiform, 3–10 mm in length; leaflets with petiolule 4–5 mm, limb ovate-elliptic to elliptic-oblong, 7–13 × 5–8 cm, base rounded, apex acuminate, glabrous above, the lateral ones similar to the terminal; secondary veins in 7 or 8 pairs, oblique to the main vein and ± straight to the margin, scarcely hirsute beneath. Inflorescence 20–30 cm in length, sometimes branched, dense, long-pedunculate, silky; bracts lanceolate-linear, 12–15 mm in length, villous-silky. Flower: bracteoles short and rounded, at the apex of the pedicel 4–6 mm; calyx campanulate, 10–14 mm in length, silky outside, upper lip rounded, emarginate, the 3 lower teeth lanceolate-linear; corolla 2–2.4 cm in length, red to purple, standard with yellow spot near the base; stamens ± 19 mm in length, curved; ovary ± 10 mm in length, villous, rufous, with 2 to 4 ovules; style nearly glabrous, slightly inflated, terminal stigma, small. Pod 12–15 × 5–6 cm, with (1–)2 or 3(–4) seeds, rufous-silky at first, then glabrous, inflated over each seed. Seed black.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-espèce pantropicale, mais en Afrique limitée à l’Ouest, du Libéria à la République démo cratique du Congo et à l’Angola ; au Gabon, connue du Moyen-Ogooué, de la Nyanga, de l’OgoouéIvindo et de l’Ogooué-Lolo, et probablement présente aussi en Ngounié
+Pantropical species, but in Africa limited to the West, from Liberia to the Democratic Republic of the Congo and Angola; in Gabon, known from Moyen-Ogooué, Nyanga, Ogooué-Ivindo and Ogooué-Lolo, and probably also present in Ngounié.
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-forêt humide tropicale et subtropicale, savane arborée et brousses ; au Gabon à 5–100 m d’alti tude, ailleurs jusqu’à 1000 m. Usage : Dans la Ngounié, les bûcherons se protègent contre des accidents durant l’abattage des arbres avec les graines attachées au bras droit
+Tropical and subtropical humid forest, wooded savanna and scrub; in Gabon at 5–100 m altitude, elsewhere up to 1000 m. Use: In Ngounié, woodcutters protect themselves against accidents during tree felling with seeds attached to the right arm.
 
 ## Vernacular names
 
@@ -39,9 +33,7 @@ mbélé-wélé (nkomi) ; mutundu-Bwanga (baduma) ; tsopinda (banzabi)
 
 ## Source note
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-La synonyme Dioclea reflexa Hook.f. (nov.-déc. 1849), est le nom le plus utilisé pour ce taxon, mais l’épithète hexandra a la priorité de quelque mois : le protologue du basionyme Mucuna hexandra T.S.Ralph est publié en effet en avril-mai 1849. Les gousses et les graines contiennent de l’air, leur permettant d’être transportées par les eaux sur des distances considérables. b : De la Estrella et al. (2010), Ern (1984), Hepper (1958), Mabberley (1980), van der Mae ibliographie sen (2006a), Pellegrin (1949), Raponda-Walker & Sillans (1961), Robyns (1954)
+The synonym Dioclea reflexa Hook.f. (Nov.–Dec. 1849), is the most commonly used name for this taxon, but the epithet hexandra has priority by a few months: the protologue of the basionym Mucuna hexandra T.S.Ralph is published in fact in April–May 1849. The pods and seeds contain air, allowing them to be transported by water over considerable distances. b: De la Estrella et al. (2010), Ern (1984), Hepper (1958), Mabberley (1980), van der Maesen (2006a), Pellegrin (1949), Raponda-Walker & Sillans (1961), Robyns (1954)
 
 ## Notes
 

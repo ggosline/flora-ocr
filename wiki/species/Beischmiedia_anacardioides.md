@@ -10,7 +10,7 @@ tags: [species, generated]
 ---
 # *Beischmiedia anacardioides*
 
-**Genus**: [[Beischmiedia]]
+**Genus**: [[Beilschmiedia]]
 **Family**: [[Lauraceae]]
 **Protologue**: F.T.A. 6,1: 1022 (1909)
 
@@ -44,6 +44,6 @@ Le Testu : 7279, Lastoursville (fl. mai).
 
 ## See also
 
-- [[Beischmiedia]]
+- [[Beilschmiedia]]
 - [[Lauraceae]]
 - [[vol10]]

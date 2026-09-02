@@ -11,7 +11,7 @@ tags: [species, generated]
 ---
 # *Hyperrhenia familiaris* (Steud.) Stapf.
 
-**Genus**: [[Hyperrhenia]]
+**Genus**: [[Hyparrhenia]]
 **Family**: [[Gramineae]]
 **Protologue**: STAPF, Fl. of Trop. Af. IX : 325 (1919)
 
@@ -45,6 +45,6 @@ Descoings : 6535, région de Franceville.
 
 ## See also
 
-- [[Hyperrhenia]]
+- [[Hyparrhenia]]
 - [[Gramineae]]
 - [[vol05]]

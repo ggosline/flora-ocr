@@ -17,11 +17,9 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Trees. Leaves paripinnate with 8–10 pairs of opposite leaflets, sessile, subrectangular, slightly falcate, truncate at the base, parallel to the rachis, attached at the anterior end, curved at the apex terminated by a mucro, 1.5 to 3 cm long, 0.6 to 1.2 cm wide. Rachis 5–11 cm, hirsute then glabrous. Main vein bordering the anterior margin, straight. Secondary veins palmately nerved diverging from the point of attachment.
 
-Arbres. Feuilles paripennées à 8-10 paires de folioles opposées, sessiles, subrectangulaires, légèrement falciformes, à la base tronquée, parallèle au rachis, fixée par l'extrémité antérieure, recourbée au sommet terminé par un mucron, longues de 1,5 à 3 cm, larges de 0,6 à 1,2 cm. Rachis de 5-11 cm, hirsute puis glabre. Nervure principale bordant la marge antérieure, droite. Des nervures secondaires palmatinerviées divergent du point d'attache.
-
-Inflorescences en grappes axillaires courtes, à axes velus. Fleurs blanches. Pédicelles hirsutes, de 3-4 mm. Bractéoles ovées de 6-7 mm, velues. Calice nul ou un unique sépale lancéolé de 2-2,5 mm. Pétales 1, obové-oblancéolé, onguiculé, de 7-8 × 3,5 mm. Étamines 9 + 1. Ovaire hirsute, brièvement stipité. 2 ovules.
+Inflorescences in short axillary racemes, with pubescent axes. Flowers white. Pedicels hirsute, 3–4 mm. Bractoles ovate 6–7 mm, pubescent. Calyx absent or a single lanceolate sepal 2–2.5 mm. Petals 1, obovate-oblanceolate, clawed, 7–8 × 3.5 mm. Stamens 9 + 1. Ovary hirsute, shortly stipitate. 2 ovules.
 
 ## Type
 
@@ -29,11 +27,9 @@ Ledermann, Dipika. Rapides du Campo. Cameroun
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+This species found in lower Cameroon is poorly known. It is represented in the Gabon herbarium only by a single sterile specimen. It is easily distinguished from other species with a main vein forming the margin of the leaflet, by its relatively greater width. It recalls M. pteridophyllus Harms which has exactly the same leaflet form, but with more numerous leaflets, and especially with large persistent sheathing stipules.
 
-Cette espèce trouvée dans le bas Cameroun est mal connue. Elle n'est pas représentée dans l'herbier du Gabon que par un seul spécimen stérile. Elle se distingue aisément des autres espèces à nervure principale formant la marge de la foliole, par sa relative grande largeur. Elle rappelle le M. pteridophyllus Harms qui a exactement la même forme de foliole, mais à plus nombreuses folioles, et surtout à grandes stipules engainantes persistantes.
-
-Ce M. pteridophyllus, de Sierra Leone et du Liberia, est également signalé présent par Léonard au Congo (Kasai). Il n'a pas à ce jour été découvert ni au Cameroun ni au Gabon, entre ses deux aires extrêmes libérienne et congolaise. En Afrique occidentale c'est un arbre médiocre, ripicole. Au Kasai l'espèce est également ripicole, mais elle serait un grand arbre.
+This M. pteridophyllus, from Sierra Leone and Liberia, is likewise reported present by Léonard in the Congo (Kasai). It has not to date been discovered either in Cameroon or in Gabon, between its two extreme areas in Liberia and Congo. In West Africa it is a mediocre tree, ripicole. In Kasai the species is likewise ripicole, but it would be a large tree.
 
 ## Specimens examined
 

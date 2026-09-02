@@ -17,21 +17,15 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Herbe annuelle, 0,4–1,5 m de hauteur, à base lignifiée, à racine pivotante ; ramilles nom breuses, dressées, grêles, légèrement pubescentes et glabrescentes, grises. Stipules sétacées, 1–2 mm. Feuille simple : pétiole 1–2 mm ; stipelles absentes ; foliole à limbe linéaire , 30–40 × 2–4(–5) mm, éparsement pubescent, à poils gris et apprimés. Inflorescence en racèmes axil laires ; racème jusqu’à 1 cm de longueur , avec 2 à 5 fleurs ; pédoncule 2–4 mm ; bractées 0,5 mm, caduques. Fleur : pédicelle ± 1,5 mm ; calice à tube de ± 0,7 mm de longueur, dents subulées, ± 0,7 mm ; corolle ± 4 mm de longueur, rose clair ou blanchâtre , pétales soyeuxargentés à l’extérieur ; étamines 4 mm ; ovaire 3 mm de longueur ; style 0,7 mm. Gousse érigée, subquadrangulaire , 10–25 × 1,8–2,5 mm, avec 6 à 12 graines, brune devenant noire. Graine quadrangulaire-arrondie, ± 1 mm de diamètre, vert olive devenant brune ; hile assez central.
+Annual herb, 0.4–1.5 m tall, with lignified base, with taproot; numerous branchlets, erect, slender, slightly pubescent and glabrescent, grey. Stipules setaceous, 1–2 mm. Simple leaf: petiole 1–2 mm; stipels absent; leaflet with linear blade, 30–40 × 2–4(–5) mm, sparsely pubescent, with grey appressed hairs. Inflorescence in axillary racemes; raceme up to 1 cm long, with 2 to 5 flowers; peduncle 2–4 mm; bracts 0.5 mm, caducous. Flower: pedicel ± 1.5 mm; calyx with tube ± 0.7 mm long, teeth subulate, ± 0.7 mm; corolla ± 4 mm long, pale pink or whitish, petals silky-silvered on the outside; stamens 4 mm; ovary 3 mm long; style 0.7 mm. Pod erect, subquadrangular, 10–25 × 1.8–2.5 mm, with 6 to 12 seeds, brown becoming black. Seed quadrangular-rounded, ± 1 mm in diameter, olive-green becoming brown; hilum fairly central.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Afrique tropicale, du Sénégal jusqu’au Soudan et au Sud jusqu’en Angola et Mozambique ; au Gabon, connue de l’Ogooué-Ivindo et de l’Ogooué-Maritime
+Tropical Africa, from Senegal to Sudan and south to Angola and Mozambique; in Gabon, known from Ogooué-Ivindo and Ogooué-Maritime
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-savanes, jachères, sols pauvres ; au Gabon à 0–200 m d’altitude, ailleurs jusqu’à 1800 m. Fleurs en décembre, fruits en mai. b : Cronquist (1954), Gillett (1971a), Hepper (1958), Pellegrin (1949). ibliographie
+savannas, fallow land, poor soils; in Gabon at 0–200 m altitude, elsewhere up to 1800 m. Flowers in December, fruits in May. b: Cronquist (1954), Gillett (1971a), Hepper (1958), Pellegrin (1949). Bibliography
 
 ## Notes
 

@@ -17,13 +17,11 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Stipules 4–6 cm, acute. Leaves with 9–14 alternate leaflets, oblong, 10–15 cm long × 3–4 cm wide, glabrous, obtuse or obtusely acuminate. Rachis approximately 12 cm. Numerous fine secondary veins, joined by their branches to marginal veins. Well-developed network of fine veinlets. Translucent punctations ± apparent. Petiolules 4 mm.
 
-Stipules de 4-6 cm, aiguës. Feuilles à 9-14 folioles alternes, oblongues, de 10-15 cm de longueur × 3-4 cm de largeur, glabres, obtuses ou obtusément acuminees. Rachis de 12 cm env. Nombreuses fines nervures secondaires, réunies par leurs ramifications aux nervures marginales. Réseau bien maillé de fines veinules. Ponctuations translucides ± apparentes. Pétiolules de 4 mm.
+Inflorescences 5–8 cm. Bracts subreniform, cordate, glabrous but ciliate on the margins, approximately 5 mm long. Pedicels 5 mm. Flowers glabrous or glabrescent. Sepals pink or white, 4 mm long. Ovary glabrous; 7–8 ovules.
 
-Inflorescences de 5-8 cm. Bractées subréniformes, cordées, glabres mais ciliées sur les bords, 5 mm environ de longueur. Pédicelles de 5 mm. Fleurs glabres ou glabrescentes. Sépales roses ou blancs, 4 mm de longueur. Ovaire glabre; 7-8 ovules.
-
-Fruits samaroïdes, ailés, de  $ 6 \times 1,5 $ cm environ, coriaces ou papyracés, oblongs, légèrement incurvés, à une graine (-2).
+Fruits samaroid, winged, approximately 6 × 1.5 cm, coriaceous or papyraceous, oblong, slightly incurved, with one seed (–2).
 
 ## Vernacular names
 
@@ -33,15 +31,13 @@ Mvana (Fang); Mpindja (Mpongoué)
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+This species is very characteristic by its stipules and leaves which are sufficient to identify it without any doubt.
 
-Cette espèce est très caractéristique par ses stipules et ses feuilles qui suffisent à la faire reconnaître sans hésitation possible.
+Large tree capable of reaching a large diameter and considerable height. The base of the trunk is furnished with numerous large buttresses, branched, slender, winged. Trunk cylindrical and straight. Foliage sparse with open canopy. Bark smooth, yellowish-green, thin, with fibrous inner surface, pink. Wood light brown, hard and heavy.
 
-Grand arbre pouvant atteindre un gros diamètre et une taille élevée. La base du fût est munie de nombreux grands contreforts, ramifiés, minces, ailés. Fût cylindrique et droit. Feuillage peu dense à couvert clair. Écorce lisse, jaune verdâtre, mince, à tranche fibreuse, rose. Bois brun clair, dur et lourd.
+Species widely distributed from southern Nigeria to Congo Kinshasa.
 
-Espèce largement répandue du Sud-Nigéria au Congo Kinshasa.
-
-Fréquente dans les forêts secondaires, où elle forme parfois de petits peuplements sur d'anciennes cultures. Quelques grands individus en forêt dense.
+Frequent in secondary forests, where it sometimes forms small stands on former cultivated lands. A few large individuals in dense forest.
 
 ## Specimens examined
 

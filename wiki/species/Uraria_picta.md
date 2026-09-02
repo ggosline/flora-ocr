@@ -17,21 +17,15 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Herbe subligneuse , érigée, 0,3–1(–1,5) m de hauteur ; racine pivotante. Stipules triangulairesacuminées, 5–15 × 3–6 mm. Feuille : pétiole 3–7 cm ; rachis 3–6 cm, à poils courts ; stipelles lancéolées à subulées, 2–5 mm de longueur ; folioles (1–)3 à 9, pétiolule poilu, de 1–2 mm, les basales à limbe ovale, limbe des autres, linéaire-lancéolé , 5–20(–25) × 0,6–2,5(–4) cm, à surface légèrement rugueuse et panaché de vert pâle dessus , nervures peu poilues, réticulation saillante dessous, à pubescence clairsemée. Inflorescence terminale, 15–30 cm de longueur, hirsute, poils gris, en bouton comme une queue de renard ; bractées 1–2 cm de longueur, scarieuses, longuement acuminées, à poils marginaux gris. Fleur : pédicelle grêle, ultérieurement crochu, 5–9 mm, hirsute, poils un peu courbés ; calice à tube bref, lobes étroitement triangulaires, 3–4 mm de longueur, à longs poils ; corolle violet pâle à mauve ou rose bleuâtre , surpassant à peine le calice, étendard obovale, 8–9 × 5–6 mm, ailes 6 × 2 mm, carène 6–7 × 2 mm ; étamines à tube de 6–7 mm de longueur ; ovaire linéaire, 3–4 × 0,5 mm, glabre, à 5 ou 6 ovules ; style ± 5 mm. Gousse 0,5–1 cm de longueur , avec 3 à 6 articles en zigzag, chacun 3–4 mm de diamètre, glabres, gris bleuté , reliés par des joints marginaux. Graine lenticulaire à subréniforme, 2–3 mm de diamètre, brun pâle ou grise.
+Subshrubby herb, erect, 0.3–1(–1.5) m tall; taproot. Stipules triangular-acuminate, 5–15 × 3–6 mm. Leaf: petiole 3–7 cm; rachis 3–6 cm, with short hairs; stipels lanceolate to subulate, 2–5 mm long; leaflets (1–)3 to 9, petiolule hairy, 1–2 mm, the basal ones with oval lamina, lamina of the others linear-lanceolate, 5–20(–25) × 0.6–2.5(–4) cm, with slightly rugose surface and variegated pale green above, veins slightly hairy, reticulation prominent below, with scattered pubescence. Inflorescence terminal, 15–30 cm long, hirsute, hairs grey, in bud like a fox-tail; bracts 1–2 cm long, scarious, long-acuminate, with grey marginal hairs. Flower: pedicel slender, later hooked, 5–9 mm, hirsute, hairs somewhat curved; calyx with short tube, lobes narrowly triangular, 3–4 mm long, with long hairs; corolla pale violet to mauve or bluish-pink, scarcely exceeding the calyx, standard obovate, 8–9 × 5–6 mm, wings 6 × 2 mm, keel 6–7 × 2 mm; stamens with tube 6–7 mm long; ovary linear, 3–4 × 0.5 mm, glabrous, with 5 or 6 ovules; style ± 5 mm. Pod 0.5–1 cm long, with 3 to 6 articles in zigzag, each 3–4 mm in diameter, glabrous, bluish-grey, connected by marginal joints. Seed lenticular to subreniform, 2–3 mm in diameter, pale brown or grey.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-partout en Afrique tropicale et jusqu’en Asie et l’Australie ; au Gabon, connue de l’Estuaire, du Haut-Ogooué, du Moyen-Ogooué, de la Ngounié, de la Nyanga, de l’Ogooué-Ivindo et de l’Ogooué-Maritime
+throughout tropical Africa and extending to Asia and Australia; in Gabon, known from Estuaire, Haut-Ogooué, Moyen-Ogooué, Ngounié, Nyanga, Ogooué-Ivindo and Ogooué-Maritime
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-savanes herbacées et arbustives, stations rudérales, bords de route ; au Gabon à 5–350 m d’altitude, ailleurs jusqu’à 1200 m. Fleurs et fruits en janvier et février, d’avril à juillet et novembre. Usage : L’espèce est importante dans l’alimentation humaine et animale et a plusieurs usages médicinaux et magiques en Afrique et en Asie
+herbaceous and shrubby savannas, ruderal stations, roadsides; in Gabon at 5–350 m altitude, elsewhere up to 1200 m. Flowers and fruits in January and February, April to July and November. Uses: The species is important in human and animal nutrition and has several medicinal and magical uses in Africa and Asia
 
 ## Vernacular names
 

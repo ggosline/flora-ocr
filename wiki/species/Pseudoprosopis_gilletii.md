@@ -17,8 +17,6 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 - Adenanthera gilletii DE WILD., Ann. Mus. Congo b., Bot., sér. 5, 1: 249 (1906).
 
 - Adenanthera klainei Pierré ex Baker f., Legum. Trop. Afr. 3: 798 (1930).
@@ -27,13 +25,13 @@ tags: [species, generated]
 
 – Newtonia griffoniana auct. non. (BAILL.) BAK. f.: TORRE, CFA 2 (2): 261 (1956).
 
-Liane ou arbuste sarmenteux. Axes jeunes ± éparsement pubescents à glabres. Axes âgés glabres, noirs avec parfois des bandes longitudinales plus claires sur le sec. Ramifications secondaires en crochets ± volubiles, courts, toujours du même côté de l'axe principal. Stipule caduque, souvent avec petite glande sur la base de la cicatrice stipulaire. Pétiole glabre à très éparsement pubescent, ou subglabre à ± pubescent, long de 3,2-7,5 cm, plat ou canalicule dessus. Rachis pubescent, long de (3,5-) 8,2-18 cm, canalicule, plat ou à faible carène dessus. Pennes (3-) 5-8 paires, oblongues-elliptiques. Axe de la penne pubescent à subglabre, long de 5-13 cm, ± fortement caréné dessus. Folioles 11-16 paires, à court pétioule long de ± 0,5 mm. Limbe glabre dessus et pubescent apprimé dessous (difficilement observable), noir, râtre à marron foncé dessus et marron clair à verdâtre dessous sur le sec, oblong, elliptique oblong (rarement un peu falciforme), 1,35-2,3 × 0,35-1 cm, base très asymétrique : bord proximal atténué subarrondi, perpendicular à l'axe de la penne et bord distal atténué parallèle à l'axe de la penne, sommet obtus arrondi, le plus souvent émarginé, à mucron normalement réfléchi vers la face inférieure. Nervure principale ± diagonale, concave à plane dessus et saillante pubescente dessous.
+Liane or sarmentose shrub. Young axes ± sparsely pubescent to glabrous. Mature axes glabrous, black with sometimes lighter longitudinal bands on the dried state. Secondary branches in hooks ± voluble, short, always on the same side of the main axis. Caducous stipule, often with small gland on the base of the stipular scar. Petiole glabrous to very sparsely pubescent, or subglabrous to ± pubescent, 3.2–7.5 cm long, flat or canaliculate above. Rachis pubescent, (3.5–) 8.2–18 cm long, canaliculate, flat or with weak keel above. Pinnae (3–) 5–8 pairs, oblong-elliptic. Pinna axis pubescent to subglabrous, 5–13 cm long, ± strongly keeled above. Leaflets 11–16 pairs, with short petiolule ± 0.5 mm long. Blade glabrous above and appressed-pubescent below (difficult to observe), black, dull to dark brown above and light brown to greenish below in the dried state, oblong, oblong-elliptic (rarely somewhat falcate), 1.35–2.3 × 0.35–1 cm, base very asymmetric: proximal margin attenuate subrounded, perpendicular to the pinna axis and distal margin attenuate parallel to the pinna axis, apex obtuse rounded, most often emarginate, with mucro normally reflexed toward the lower surface. Midvein ± diagonal, concave to plane above and prominent pubescent below.
 
-Nervures secondaires, 6-9 paires, ascendantes, non arquées, s'anastomosant en arceaux, saillantes sur les deux faces. Nervilles en réseau à mailles lâches ± allongées, saillantes sur les deux faces.
+Secondary veins 6–9 pairs, ascending, not arched, anastomosing in arcs, prominent on both surfaces. Veinlets in network with ± elongate loose meshes, prominent on both surfaces.
 
-Inflorescence en panicule terminale ou axillaire de grappes solitaires ou fasciculées par 2-3, atteignant une longueur de 54 cm. Rachis de la panicule ± pubescent. Rachis de la grappe pubescent côtelé. Bractéole pubescente extérieurement, très étroitement triangulaire, longue de 1,5 mm, à sommet très aigu. Pédicelle pubescent, long de 0,5-1 mm. Bouton floral obovoïde oblong, filet des étamines replié et entourant l'ovaire. Fleur ±, blanche ou blanc jaune odorante sur le frais. Sépales pubescents apprimés extérieurement, rouges sur le frais, longs de ± 1,25 mm ; lobes triangulaires longs de ± 0,5 mm, sommet aigu à obtus. Pétales pubescents extérieurement, jaunes ou blanc jaune sur le vivant, charnus sur le frais, oblancéolés, longs de 2,25-3 mm, sommet aigu épaissi. Étamines longues de 3,5-4 mm, ± libres entre elles ; anthère oblongue, longue de 0,5 mm, à connectif prolongé par une glande globuleuse pédiculée caduque. Ovaire substité, pubescent ± hirsute, long de 0,60-1 mm, à 8-9 ovules ; style long de 0,5 mm.
+Inflorescence in terminal or axillary panicle of solitary or fascicled racemes by 2–3, reaching a length of 54 cm. Panicle rachis ± pubescent. Raceme rachis pubescent ribbed. Bractlet pubescent externally, very narrowly triangular, 1.5 mm long, with very acute apex. Pedicel pubescent, 0.5–1 mm long. Floral bud obovoid oblong, stamen filament folded and surrounding the ovary. Flower ±, white or yellowish-white fragrant when fresh. Sepals appressed-pubescent externally, red when fresh, ± 1.25 mm long; lobes triangular ± 0.5 mm long, apex acute to obtuse. Petals pubescent externally, yellow or yellowish-white in living state, fleshy when fresh, oblanceolate, 2.25–3 mm long, apex acute thickened. Stamens 3.5–4 mm long, ± free from each other; anther oblong, 0.5 mm long, with connective prolonged by a globose pedicellate caducous gland. Ovary substipitate, pubescent ± hirsute, 0.60–1 mm long, with 8–9 ovules; style 0.5 mm long.
 
-Gousse ligneuse, glabre, noire sur le sec, déhiscente par 2 fentes, asymétriquement elliptique,  $ 8 \times 1,4 $ cm, base atténuée non stipitée, faces obliquement striées à bords suturaux très peu épaissis, sommet obtus apiculé. - Pl. 17, p. 69.
+Legume woody, glabrous, black in the dried state, dehiscent by 2 slits, asymmetrically elliptic, $ 8 \times 1.4 $ cm, base attenuate not stipitate, faces obliquely striated with sutural borders scarcely thickened, apex obtuse apiculate. - Pl. 17, p. 69.
 
 ## Type
 
@@ -41,15 +39,11 @@ Oddon in Gillett, 3559, Zaire : env. de Sanda, fl., 11-1903 (BR !)
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-L'aire de cette espèce s'étend du Gabon à l'Ouest du Zaïre. La floraison est notée essentiellement en octobre-novembre et la fructification, qui reste rare, en janvier et en novembre.
+The range of this species extends from Gabon to western Zaïre. Flowering is noted essentially in October–November and fruiting, which remains rare, in January and November.
 
 ## Uses
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-la tige servirait de cordage pour grimper dans les palmiers chez les Bapunus
+the stem would serve as cordage for climbing in palm trees among the Bapunus
 
 ## Vernacular names
 

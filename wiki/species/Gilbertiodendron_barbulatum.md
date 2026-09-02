@@ -21,11 +21,9 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Shrubs or trees. Branchlets greyish. Leaves 2-jugate, the lower pair inserted near the branchlet. Stipules lanceolate, short, 4-8 mm, caducous. Rachis short, 3-5 cm. Leaflets lanceolate, progressively attenuate at the apex, then long acuminate, mucronate, acute and unequal at the base, glabrous, reaching up to 27 cm in length by 8 cm in width. Lateral veins 11-14 pairs. Petiolules 4 mm.
 
-Arbustes ou arbres. Rameaux grisâtres. Feuilles 2-juguées, la paire inférieure insérée près du rameau. Stipules lancéolées, courtes, de 4-8 mm, caduques. Rachis court, de 3-5 cm. Folioles lancéolées, progressivement atténuées au sommet, puis longuement acuminées, mucronées, aiguës et inégales à la base, glabres, atteignant jusqu'à 27 cm de longueur sur 8 cm de largeur. Nervures latérales 11-14 pairs. Pétiolules de 4 mm.
-
-Panicules lâches, à rameaux grêles, pubescents roux, terminales ou axillaires ou sur le vieux bois. Bractées caduques. Longs pédicelles grèles de 1-1,5 cm, pubescents roux. Bractéoles de 6-7 mm, tomenteuses rousses extérieurement. Sépales 5, longs de 4 mm, glabres, soudés à la base en un tube de 2 mm. Un grand pétale bilobé, porté par un onglet de 6 mm. Étamines fertiles 3, très exsertes. Ovaire velu roux. Fruit?
+Panicles lax, with slender, rust-pubescent branchlets, terminal or axillary or on old wood. Bracts caducous. Long slender pedicels 1-1.5 cm, rust-pubescent. Bracteoles 6-7 mm, rust-tomentose externally. Sepals 5, 4 mm long, glabrous, connate at the base into a tube 2 mm. One large bilobed petal, borne by a claw 6 mm. Fertile stamens 3, very exsert. Ovary rust-villous. Fruit?
 
 ## Type
 
@@ -33,9 +31,7 @@ Le Testu 6411 (P), Maghounga, Hte Ngounié, Gabon (fl. mars)
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Espèce connue seulement par le type.
+Species known only from the type.
 
 ## Notes
 

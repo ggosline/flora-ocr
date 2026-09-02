@@ -17,13 +17,11 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Trees. Leaves with 8-20 alternate leaflets, ovate to oblong, with rounded or obtuse base, acuminate apex, marked with very visible translucent dots, glabrous, thin, 4-8 cm long by 2-4.5 cm wide. Numerous secondary veins (25-30), parallel, closely spaced, finely prominent on both faces, extending to a marginal vein. Petiolules 5-7 mm.
 
-Arbres. Feuilles à 8-20 folioles alternes, ovées à oblongues, à base arrondie ou obtuse, à sommet acuminé, marquées de points translucides très visibles, glabres, minces, de 4-8 cm de longueur sur 2-4,5 cm de largeur. Nombreuses nervures secondaires (25-30), parallèles, rapprochées, finement saillantes sur les 2 faces, tracées jusqu'à une nervure marginale. Pétioiules de 5-7 mm.
+Panicles loose, short, glabrous. Pedicels short, 2-3 mm. Calyx glabrous externally. Calyx with 4 subvalvate lobes, ovate-lanceolate, acute, hairy within, c. 5 mm long. Stamens 10. Ovary hirsute, with long woolly hairs, style short, glabrous.
 
-Panicules lâches, courtes, glabres. Pédicelles courts, de 2-3 mm. Calice glabre extérieurement. Calice à 4 lobes subvalvaires, ovés-lancéolés, aigus, velus en dedans, d'env. 5 mm de longueur. Étamines 10. Ovaire hirsute, à longs poils laineux, style court, glabre.
-
-Fruit indéhiscent, en forme de mangue aplatie, de 7·8 cm de diamètre. Graine épaisse, lenticulaire, coriace.
+Fruit indehiscent, mango-shaped and flattened, 7-8 cm in diameter. Seed thick, lenticular, coriaceous.
 
 ## Vernacular names
 
@@ -37,11 +35,9 @@ Zenker 2286, Cameroun (isotype P)
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Large tree, with weak buttressing at the base. Trunk straight and cylindrical. Bark superficially scaly, with fibrous fractured surface, pink. Wood reddish-brown, soft.
 
-Grand arbre, muni d'un faible empattement à la base. Fût droit et cylindrique. Écorce écailleuse superficiellement, à tranche fibreuse, rose. Bois brun-rouge, tendre.
-
-Cette espèce paraît, d'après de St-Aubin, répandue dans tout le Gabon et plus fréquente dans l'est. Aire du S. Nigéria au Gabon. Non signalée au centre du Congo.
+This species appears, according to de St-Aubin, to be distributed throughout Gabon and more frequent in the east. Range from S. Nigeria to Gabon. Not recorded from central Congo.
 
 ## Specimens examined
 

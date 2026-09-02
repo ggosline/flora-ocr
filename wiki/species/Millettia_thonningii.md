@@ -17,23 +17,15 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Arbuste ou arbre jusqu’à 20 m de hauteur ; tronc et ramilles à écorce brun pâle à grise. Stipules caduques, oblongues. Feuille : pétiole 2–6,5 cm ; rachis 0,5–8 cm, glabrescent ; stipelles
-
-nulles ; folioles 7 à 9 , pétiolule 2–6 mm, limbe largement ovale à obovale, 2,5–8,5 × 2–3,5 cm, base cunéée, acumen obtus, 1–4 mm, peu poilu à glabre dessus, à poils épars dessous, mais plus denses près de la nervure principale , caducs, sauf quelques touffes à la base ; nervures latérales en 5 à 7 paires. Inflorescence terminale ou axillaire, 7–22 cm de longueur , soyeuse ; brachyblastes à 1 ou 2 fleurs ; bractées oblongues, caduques. Fleur odorante : pédicelle grêle, 6–11 mm ; bractéoles au milieu du pédicelle, subulées, ± 1 mm de longueur ; calice brun rouge foncé, tube 4–6 mm de longueur, lobes triangulaires, 0,5–1,5 mm de longueur ; corolle violacée ou rarement presque blanche, étendard à onglet de 4–5 mm, limbe subcircu laire à transversalement largement elliptique, 8–14 × 10–16 mm, pubescent sur le dos, base à deux callosités, taché de blanc au milieu, ailes à onglet de 3–4 mm, limbe elliptique, 7–13 × 4–6 mm, peu velu, carène à onglet de 6 mm, limbe oblong 10–13 × 5–7 mm, velu, poche laté rale non saillante ; étamines14–20 mm dont partie libre de 4–8 mm ; ovaire linéaire, soyeux, avec 10 à 12 ovules. Gousse étroitement oblongue , 10–16 × 2–2,3 cm , avec 4 à 6 graines, ligneuse, brun grisâtre, finalement glabre. Graine réniforme à circulaire, aplatie, ± 9–12 × 11–20 × 1–2 mm, brune ; hile central, 1 mm de longueur.
+Shrub or tree up to 20 m tall; trunk and branchlets with pale brown to grey bark. Stipules caducous, oblong. Leaf: petiole 2–6.5 cm; rachis 0.5–8 cm, glabrescent; stipels absent; leaflets 7 to 9, petiolule 2–6 mm, blade broadly ovate to obovate, 2.5–8.5 × 2–3.5 cm, base cuneate, apex obtuse, 1–4 mm, sparsely hairy to glabrous above, with scattered hairs beneath but denser near the main vein, caducous except for a few tufts at the base; lateral nerves in 5 to 7 pairs. Inflorescence terminal or axillary, 7–22 cm long, silky; short shoots with 1 or 2 flowers; bracts oblong, caducous. Flower fragrant: pedicel slender, 6–11 mm; bracteoles at the middle of the pedicel, subulate, ± 1 mm long; calyx dark reddish brown, tube 4–6 mm long, lobes triangular, 0.5–1.5 mm long; corolla violet or rarely almost white, standard with claw 4–5 mm, blade suborbicular to transversely broadly elliptic, 8–14 × 10–16 mm, pubescent on the back, base with two calluses, marked with white in the middle, wings with claw 3–4 mm, blade elliptic, 7–13 × 4–6 mm, sparsely hairy, keel with claw 6 mm, blade oblong 10–13 × 5–7 mm, hairy, lateral pouch not prominent; stamens 14–20 mm of which free part 4–8 mm; ovary linear, silky, with 10 to 12 ovules. Pod narrowly oblong, 10–16 × 2–2.3 cm, with 4 to 6 seeds, woody, greyish brown, eventually glabrous. Seed reniform to circular, flattened, ± 9–12 × 11–20 × 1–2 mm, brown; hilum central, 1 mm long.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-de la Sierra Léone à l’Angola, très répandue en Afrique de l’Ouest ; ailleurs, uniquement plantée ; au Gabon, connue de la Nyanga
+from Sierra Leone to Angola, very widespread in West Africa; elsewhere, only planted; in Gabon, known from Nyanga
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-galeries forestières, lisière de savane, jachères, fourrés ; au Gabon à 100 m d’altitude, ailleurs jusqu’à 340 m. Fleurs en septembre ; fruits en avril. La floraison commence quand la plante est presque défeuillée. Usage : L’écorce macérée sert de purgatif pour les petits enfants (Fernan-Vaz). Plantée en Afrique de l’Ouest comme arbre d’ombrage et ornement
+forest galleries, savanna edge, fallows, thickets; in Gabon at 100 m altitude, elsewhere up to 340 m. Flowers in September; fruits in April. Flowering begins when the plant is almost leafless. Uses: Macerated bark serves as a purgative for young children (Fernan-Vaz). Planted in West Africa as a shade tree and ornament
 
 ## Vernacular names
 
@@ -41,9 +33,7 @@ ditutè (ngowé) ; kibakulu (yombi) ; ntuli (galoa, nkomi) ; tchibakulu (vili)
 
 ## Source note
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Le dessous des folioles des échantillons à fruit matures manquent parfois des touffes de poils caractéristiques situés vers la base de la médiane. b : Hauman (1954a), Hepper (1958), Pellegrin (1949), Raponda-Walker & Sillans (1961). ibliographie
+The underside of the leaflets of specimens with mature fruit sometimes lacks the characteristic hair tufts located toward the base of the midvein. b : Hauman (1954a), Hepper (1958), Pellegrin (1949), Raponda-Walker & Sillans (1961). ibliography
 
 ## Notes
 

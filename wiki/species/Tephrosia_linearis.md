@@ -17,23 +17,15 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Herbe annuelle ou pérenne de courte durée , assez érigée , jusqu’à 1 m de hauteur , à pubescence apprimée, blanche ou jaunâtre. Stipules lancéolées, 2–6(–7) mm de longueur, striées. Feuille : pétiole 2–7 mm ; rachis 2–5(–6) cm ; folioles (5–)7 à 15(–17), à limbe linéaire , 2,5–4(–7) × 0,1–0,4(–0,6) cm , glabre dessus, soyeux argenté dessous. Inflorescence en pseudoracèmes terminaux et axillaires, à fleurs très éparses sur 6 à 10 nœuds, jusqu’à 12(–20) cm de longueur ; bractées linéaires, 2–3 × 0,2 mm, les inférieures parfois développées en une petite feuille de 1 à 5 folioles. Fleur : pédicelle 1–4 mm ; 2 bractéoles grêles à la base du calice ; calice brun soyeux, tube 1–1,5 mm de longueur, lobes supérieurs libres ou presque , triangulaires-acuminés, 1–5 mm de longueur ; corolle carmin, rose ou orange , étendard 5–12 mm de longueur, à pubescence blanche à brun doré, ailes et carène presqu’aussi longues que
-
-l’étendard, glabres ; étamines à tube de 4–5 mm, partie libre de 1–2 mm ; ovaire linéaire, ± 5,5 mm de longueur ; style courbé, 1,5–3 mm, glabre, pénicillé . Gousse étalée ou ascendante , linéaire, courbée , 3,5–5,5(–6) × 0,3–0,4(–0,45) cm, avec 9 à 13(–15) graines, lâchement strigueuse, à pubescence brune. Graine ellipsoïde-oblongue, 2,5–3 × 1,5–2 × 0,7–1 mm, vert olive ou panachée ; hile excentré ; strophiole relativement grande, jaune.
+Annual or short-lived perennial herb, rather erect, up to 1 m tall, with appressed, white or yellowish pubescence. Stipules lanceolate, 2–6(–7) mm long, striate. Leaf: petiole 2–7 mm; rachis 2–5(–6) cm; leaflets (5–)7 to 15(–17), with linear lamina, 2.5–4(–7) × 0.1–0.4(–0.6) cm, glabrous above, silky silvery below. Inflorescence in terminal and axillary pseudoracemes, with flowers very scattered over 6 to 10 nodes, up to 12(–20) cm long; bracts linear, 2–3 × 0.2 mm, the lower ones sometimes developed into a small leaf of 1 to 5 leaflets. Flower: pedicel 1–4 mm; 2 slender bracteoles at the base of the calyx; calyx silky brown, tube 1–1.5 mm long, upper lobes free or almost so, triangular-acuminate, 1–5 mm long; corolla carmine, pink or orange, standard 5–12 mm long, with white to golden-brown pubescence, wings and keel almost as long as the standard, glabrous; stamens with tube 4–5 mm, free part 1–2 mm; ovary linear, ± 5.5 mm long; style curved, 1.5–3 mm, glabrous, penicillate. Pod spreading or ascending, linear, curved, 3.5–5.5(–6) × 0.3–0.4(–0.45) cm, with 9 to 13(–15) seeds, loosely strigose, with brown pubescence. Seed ellipsoid-oblong, 2.5–3 × 1.5–2 × 0.7–1 mm, olive green or variegated; hilum eccentric; strophiole relatively large, yellow.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Afrique occidentale et orientale, du Sénégal à l’Éthiopie, à la Tanzanie, à Zanzibar, à l’Angola et en Afrique du Sud ; au Gabon, connue du Moyen-Ogooué, de la Nyanga, de l’Ogooué-Ivindo et de l’Ogooué-Maritime
+West and East Africa, from Senegal to Ethiopia, Tanzania, Zanzibar, Angola and South Africa; in Gabon, known from Middle Ogooué, Nyanga, Ogooué-Ivindo and Ogooué-Maritime
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-savanes humides, jachères ; au Gabon à 0–200 m d’altitude, ailleurs jusqu’à 2400 m. Fleurs en janvier, février et octobre. Usage : Une plante bonne à brouter ; hors du Gabon, à usage médicinal et utilisée comme balai. B : Brummitt et al. (2007), Burkill (1995), Cronquist (1954), Gillett (1971d), Pellegrin i B liographie (1949)
+humid savannas, fallows; in Gabon at 0–200 m altitude, elsewhere up to 2400 m. Flowers in January, February and October. Use: A good forage plant; outside Gabon, used medicinally and employed as a broom. B: Brummitt et al. (2007), Burkill (1995), Cronquist (1954), Gillett (1971d), Pellegrin (1949)
 
 ## Notes
 

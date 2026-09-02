@@ -23,15 +23,13 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Trees. Leaves with 7–11 pairs of leaflets. Rachis 6–15 cm. Stipules? Leaflets rhomboidal, sessile, with rounded apex, with base truncate obliquely parallel to the rachis, posteriorly auriculate, 2–5 cm × 8–20 mm. The main vein is inclined forward at the apex, and backward at the base.
 
-Arbres. Feuilles à 7-11 paires de folioles. Rachis de 6-15 cm. Stipules? Folioles rhomboidales sessiles, à sommet arrondi, à base tronquée obliquement parallèlement au rachis, postérieurement auriculées, de 2-5 cm × 8-20 mm. La nervure principale est inclinée vers l'avant au sommet, et vers l'arrière à la base.
+From the point of attachment diverge several veins, of which the anterior one, well marked, is traced to about the midpoint of the leaflet.
 
-Du point d’attache divergent plusieurs nervures dont l’antérieure bien marquée est tracée jusqu’au milieu environ de la foliole.
+Terminal panicles composed of short, spiciform branchlets, brown velvety. Pedicels very short, 2–3 mm. Bracts ovate. Involucral bracteoles, ovate, somewhat keeled, 9–11 mm long, brown velvety. Sepals 4, subequal, the upper one broader and ± bilobed, 5–7 mm long, lanceolate. Petals 5, of which 4 are lanceolate rudimentary. The upper petal has a blade 10 × 8 mm and a broad hirsute claw, 3–4 mm long. Stamens 10, of which 9 are fused at the base, 1 free. Ovary stipitate, hairy. Style hairy at the base then glabrous. Ovules 4–5.
 
-Panicules terminales composées de rameaux courts, spiciformes, veloutés bruns. Pédicelles très courts, de 2-3 mm. Bractées ovées. Bractéoles involucrales, ovées, un peu carénées, longues de 9-11 mm, velouté brun. Sépales 4, subégaux, le supérieur plus large et ± bilobé, longs de 5-7 mm, lancéolés. Pétales 5, dont 4 lancéolés rudimentaires. Le pétale supérieur a unc lame de 10 × 8 mm et un large onglet hirsute, long de 3-4 mm. Étamines 10 dont 9 soudées à la base, 1 libre. Ovaire stipité, velu. Style velu à la base puis glabre. Ovules 4-5.
-
-Gousse (jeune) à angle droit sur le pédoncule, glabre, à apicule aigu, suture dorsale saillante, une nervure longitudinale peu accusée.
+Pod (young) at right angle to the peduncle, glabrous, with acute apiculum, dorsal suture salient, one longitudinal vein little pronounced.
 
 ## Type
 
@@ -39,11 +37,9 @@ Fleury 26690, Gabon (P)
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Tree with straight bole, with dense and dark crown.
 
-Arbre à fút droit, à cime dense et sombre.
-
-Espèce mal connue du Cameroun et du nord du Gabon.
+Species poorly known from Cameroon and northern Gabon.
 
 ## Vernacular names
 

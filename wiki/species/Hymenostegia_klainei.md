@@ -16,15 +16,13 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 Pierre ex Pellegr. (PL. 21, p. 103)
 
-Arbres. Feuilles 9-11 juguées. Rachis d'environ 20 cm de longueur, canaliculé, presque glabre. Longues stipules de 4-5 cm, à base auriculée, caduques. Folioles opposées, sessiles, rhomboïdales, étroites, à nervure médiane en diagonale, à sommet obliquement atténué ou acuminé, à base asymétrique, élargie et parallèle au rachis du côté antérieur, étroite et arrondie du côté postérieur, longues de 5-7 cm et larges de 1 cm environ, glabres ou presque. Nervation finement maillée et saillante dessous, peu visible dessus.
+Trees. Leaves 9–11 jugate. Rachis approximately 20 cm long, channeled, almost glabrous. Long stipules 4–5 cm, with auriculate base, caducous. Leaflets opposite, sessile, rhomboidal, narrow, with midvein diagonal, apex obliquely attenuate or acuminate, base asymmetric, enlarged and parallel to the rachis on the anterior side, narrow and rounded on the posterior side, 5–7 cm long and approximately 1 cm wide, glabrous or nearly so. Venation finely reticulate and prominent beneath, scarcely visible above.
 
-Racèmes axillaires, longs d'environ 15 cm, laxiflores; axes velus ferrugineux. Bractées ovées, caduques. Pédicelles de 5-8 mm, velus. Bractéoles opposées, roses, largement ovées, à base cordée, de 8-12 × 8-10 mm, glabres ou presque. Calice de 4 lobes oblongs, de 8 mm; tube campanulé glabre. Pétales obovés onguiculés, inégaux, 3 grands de 10 mm, 2 courts de 4 mm. Étamines 10; filets de 15 mm environ. Ovaire velu laineux surtout sur les bords, stipité, biovulé.
+Axillary racemes, approximately 15 cm long, laxiflorous; axes ferrugineous-pubescent. Bracts ovate, caducous. Pedicels 5–8 mm, pubescent. Bracteoles opposite, pink, broadly ovate, with cordate base, 8–12 × 8–10 mm, glabrous or nearly so. Calyx of 4 oblong lobes, 8 mm; tube campanulate glabrous. Petals obovate unguiculate, unequal, 3 large ones 10 mm, 2 short ones 4 mm. Stamens 10; filaments approximately 15 mm. Ovary villous-woolly especially on the margins, stipitate, biovulate.
 
-Gousse plate, elliptique, apiculée, obliquement stipitée, d'environ  $ 7 \times 3.5 \, cm $.
+Pod flat, elliptic, apiculate, obliquely stipitate, approximately 7 × 3.5 cm.
 
 ## Type
 
@@ -56,9 +54,7 @@ Le Testu : 8325, Iméno, région de Lastoursville (fl. sept.).
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Espèce proche des Hymenostegia Pellegrini et neoaubrevillei. Noms vernac. : Mundungu (Wandji).
+Species close to Hymenostegia Pellegrini and neoaubrevillei. Vernacular names: Mundungu (Wandji).
 
 ## Figures
 

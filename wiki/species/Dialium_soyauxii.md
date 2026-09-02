@@ -21,11 +21,9 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Trees. Leaves with 7-9 leaflets. Rachis up to 15 cm. Leaflets elliptic or oblong or oblong-lanceolate, acuminate, rounded or cuneate at the base, up to 12 × 5 cm, very finely reticulate on both surfaces. The lamina sometimes has a dull appearance on the abaxial side, from which the reticulum stands out poorly. Petal 0. Stamens 2 (-3). Ovary stipitate, hairy. Style hairy.
 
-Arbres. Feuilles à 7-9 folioles. Rachis jusqu'à 15 cm. Folioles elliptiques ou oblongues ou oblongues-lancéolées, acuminées, arrondies ou cunéiformes à la base, jusqu'à 12 × 5 cm, très finement réticulées sur les 2 faces. Le limbe a parfois en dessous un aspect terne d'où le réticulum se détache mal. Pétale o. Étamines 2 (-3). Ovaire stipité, velu. Style velu.
-
-Fruits aplatis, veloutés noirs.
+Fruits flattened, velvety black.
 
 ## Type
 

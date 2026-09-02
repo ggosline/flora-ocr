@@ -17,15 +17,13 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 = Cynometra floribunda Benth., Trans. Linn. Soc. 25 : 312 (1866).
 
-Petits arbres. Feuilles 4-6 juguées. Rachis de 5-9 cm, canaliculé, un peu pubescent. Folioles opposées, rhomboïdales, obtuses au sommet, sessiles, à base asymétrique, le côté antérieur plus développé et parallèle au rachis, le côté postérieur étroit et arrondi, mesurant 15-25 × 6-10 mm, glabres ou presque.
+Small trees. Leaves 4–6 imparipinnate. Rachis 5–9 cm, channelled, somewhat pubescent. Leaflets opposite, rhomboidal, obtuse at the apex, sessile, with asymmetrical base, the anterior side more developed and parallel to the rachis, the posterior side narrow and rounded, measuring 15–25 × 6–10 mm, glabrous or nearly so.
 
-Racèmes axillaires de 5-8 cm; axes pubescents. Pédicelles de 5-8 mm. Bractées lancéolées, caduques. Bractéoles largement ovées, à base un peu cordée, persistantes, glabres. Calice glabre : 4 lobes obtus; tube turbiné de 3 mm. Pétales 3, obovés-oblongs, de 7-8 mm; 2 autres antérieurs, rudimentaires. Étamines 10. Ovaire glanduleux, velu, biovulé.
+Axillary racemes 5–8 cm; axes pubescent. Pedicels 5–8 mm. Bracts lanceolate, caducous. Bracteoles broadly ovate, with slightly cordate base, persistent, glabrous. Calyx glabrous: 4 obtuse lobes; turbinate tube 3 mm. Petals 3, obovate-oblong, 7–8 mm; 2 other anterior, rudimentary. Stamens 10. Ovary glandular, villous, biovulate.
 
-Gousses plates, oblongues, à acumen aigu, pustuleuses, environ 7 × 3 cm.
+Pods flat, oblong, with acute acumen, pustulous, approximately 7 × 3 cm.
 
 ## Type
 
@@ -33,9 +31,7 @@ Mann 1719, Muni river lat. 1° N. (isotype P)
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Espèce du Gabon, du Mayombé et du bas Congo. Forêt ripicole et bords de marais.
+Species from Gabon, Mayombé, and lower Congo. Riparian forest and marsh edges.
 
 ## Specimens examined
 

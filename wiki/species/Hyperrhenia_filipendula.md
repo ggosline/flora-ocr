@@ -11,7 +11,7 @@ tags: [species, generated]
 ---
 # *Hyperrhenia filipendula* (Hochst.) Stapf.
 
-**Genus**: [[Hyperrhenia]]
+**Genus**: [[Hyparrhenia]]
 **Family**: [[Gramineae]]
 **Protologue**: STAPF, Fl. of Trop. Af. IX : 322 (1919)
 
@@ -32,6 +32,6 @@ Cette espèce est signalée à l'Est et au Sud du massif forestier, mais elle n'
 
 ## See also
 
-- [[Hyperrhenia]]
+- [[Hyparrhenia]]
 - [[Gramineae]]
 - [[vol05]]

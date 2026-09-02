@@ -11,7 +11,7 @@ tags: [species, generated]
 ---
 # *Leonardoa bequaertii* (De Wild.) Aubréville variété Bergeri (De Wild.) Léonard
 
-**Genus**: [[Leonardoa]]
+**Genus**: [[Leonardoxa]]
 **Family**: [[Leguminosae]]
 **Protologue**: A. Aubréville, Adansonia 8,2 : (1968)
 
@@ -24,17 +24,15 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Trees. Leaves with 1–2 pairs of opposite leaflets, elliptic to lanceolate, acuminate-emarginate, asymmetrical at the base, 3–15 cm in length by 1.5 cm in width. Rachis at most 5 cm in length, channelled. Veins and veinlets forming a ± dense reticulum and visible below.
 
-Arbres. Feuilles à 1-2 paires de folioles opposées, elliptiques à lancéolées, acuminées-émarginées, asymétriques à la base, de 3-15 cm de longueur sur 1,5 cm de largeur. Rachis de 5 cm de longueur au plus, canalicule. Nervures et nervilles formant un réticulum ± dense et visible en dessous.
+Scaly buds. Small axillary racemes of pink flowers, at most 3 cm in length. Pedicels 7–20 mm. Sepals oblong-lanceolate, up to 12 mm in length, reflexed in the open flower. Ovary glabrous.
 
-Bourgeons écailleux. Petits racèmes axillaires de fleurs roses, de 3 cm de longueur au plus. Pédicelles de 7-20 mm. Sépales oblongs lancéolés, jusqu'à 12 mm de longueur, réfléchis dans la fleur épanouie. Ovaire glabre.
+Legume oblong reaching 7 cm in length, flattened.
 
-Gousse oblongue atteignant 7 cm de longueur, aplatie.
+Type of Cynometra Bequaertii: Bequaert 53 Kindu, Congo.
 
-Type du Cynometra Bequaertii : Bequaert 53 Kindu, Congo.
-
-Nous rapportons à la variété Bergeri de l'espèce Bequaertii décrite de la forêt congolaise, un unique numéro de Le Testu du Gabon, 8413 récolté à Poupa dans la région de Lastoursville (fl. oct.).
+We refer to the variety Bergeri of the species Bequaertii described from the Congo forest, a single number from Le Testu of Gabon, 8413 collected at Poupa in the region of Lastoursville (fl. Oct.).
 
 ## Notes
 
@@ -42,6 +40,6 @@ Nous rapportons à la variété Bergeri de l'espèce Bequaertii décrite de la f
 
 ## See also
 
-- [[Leonardoa]]
+- [[Leonardoxa]]
 - [[Leguminosae]]
 - [[vol15]]

@@ -16,9 +16,7 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Foliolis symmetricis nervis lateralibus conspicuis et pagina inferiore pilis crispatis munitis D. crispae valde similis, sed foliolis suboppositis (nec alternis) apice obtuso vel rotundato (nec acuminato), fructibusque glabris angustioribus et applanatis differt.
+Leaflets symmetric with conspicuous lateral nerves and the lower surface furnished with crisp hairs, very similar to D. crispa, but differing in the subopposite (not alternate) leaflets with obtuse or rounded apex (not acuminate), and in the glabrous, narrower and flattened fruits.
 
 ## Type
 
@@ -26,29 +24,21 @@ Wieringa et al. 3710 (holo- : WAG! ; iso- : BR!, LBV, MO, WAG!), Gabon, 42 km on
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Wieringa et al. 3710). Drawing by Antonio Fernandez, Meise Botanical Garden (©).
 
-Wieringa et al. 3710 ). Dessin par Antonio Fernandez, Jardin Botanique Meise (©).
-
-et atteignant presque le bord du limbe, nervilles en réseau saillant ± scalariforme, nettement discolore sur les jeunes feuilles, devenant peu visible chez les feuilles âgées. Inflorescence en panicule de racèmes unilatéraux courts et denses, axillaire ou sur les vieux rameaux, 0,6–2 cm de longueur, à poils bruns semblables à ceux des rameaux ; bractées persistantes à la floraison, largement elliptiques, 1 × 0,5–0,7 mm, pubescentes. Fleur : pédicelle 1,5–3 mm ; bractéoles persistantes à la floraison, elliptiques à lancéolées, 0,7–1,2 × 0,2–0,5 mm, pubescentes ; calice vert pâle, à poils couchés assez denses, tube 2–3 × 1,7–2,3 mm, dents valvaires ± égales et largement triangulaires , aiguës à obtuses, 0,3–0,5 mm de longueur ; corolle blanche, pétales à onglet dépassant le calice , étendard non ou très obliquement coudé , à onglet de 2 mm et limbe suborbiculaire de 4 × 4 mm, à sommet bilobé, ailes dépassant un peu la carène, à onglet de 3 mm et limbe ± rectangulaire de 3,5 × 1,5 mm, lisse extérieurement, à base tronquée, carène faiblement courbée, à onglet de 2,5 mm et limbe de 3,5 × 1,7 mm, à base auriculée ; étamines en 2 phalanges de 5, filets ± 6 mm, soudés sur les 4 / de leur longueur, droits à la base 5 et courbés dans leur partie libre ; ovaire 2,7 × 0,8 mm, glabre ou très éparsement pubescent aux bords, à 2 ou 3 ovules et stipe de 3,2 mm ; style linéaire, 1,3 mm, à stigmate punctiforme. Gousse connue seulement à l’état très jeune, aplatie et étroitement obovée, 1,3 × 0,5 cm, glabre sauf quelques poils aux bords.
+and reaching almost to the margin of the blade, veinlets in a ± scalariform raised reticulate pattern, distinctly discolorous on young leaves, becoming scarcely visible on older leaves. Inflorescence in a panicle of short and dense unilateral racemes, axillary or on old branches, 0.6–2 cm in length, with brown hairs similar to those of the branches; bracts persistent at flowering, broadly elliptic, 1 × 0.5–0.7 mm, pubescent. Flower: pedicel 1.5–3 mm; bracteoles persistent at flowering, elliptic to lanceolate, 0.7–1.2 × 0.2–0.5 mm, pubescent; calyx pale green, with rather dense appressed hairs, tube 2–3 × 1.7–2.3 mm, valvate teeth ± equal and broadly triangular, acute to obtuse, 0.3–0.5 mm in length; corolla white, petals with claw exceeding the calyx, standard not or very obliquely bent, with claw 2 mm and suborbicular limb 4 × 4 mm, with bilobed apex, wings slightly exceeding the keel, with claw 3 mm and ± rectangular limb 3.5 × 1.5 mm, smooth externally, with truncate base, keel weakly curved, with claw 2.5 mm and limb 3.5 × 1.7 mm, with auriculate base; stamens in 2 bundles of 5, filaments ± 6 mm, fused for 4/5 of their length, straight at the base and curved in their free part; ovary 2.7 × 0.8 mm, glabrous or very sparsely pubescent at the margins, with 2 or 3 ovules and stipe 3.2 mm; style linear, 1.3 mm, with punctiform stigma. Pod known only in very young state, flattened and narrowly obovate, 1.3 × 0.5 cm, glabrous except for a few hairs at the margins.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Cameroun et Gabon (à rechercher aussi dans le nord de la République du Congo) ; espèce rare, récoltée seulement deux fois dont une seule au Gabon, entre Mékambo et la frontière congolaise
+Cameroon and Gabon (to be sought also in northern Republic of the Congo); rare species, collected only twice, only once in Gabon, between Mékambo and the Congolese frontier
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-forêt ripicole marécageuse ; vers 500 m d’altitude. Floraison en décembre
+swampy riparian forest; about 500 m altitude. Flowering in December
 
 ## Source note
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Autre échantillon étudié : Bates 1697 (P), Cameroun, Bitya, near the river Ja, 1922 (fl). Cette espèce ressemble à D. crispa par ses folioles peu nombreuses, couvertes de poils bruns crépus à la face inférieure, et à nervures latérales très saillantes. Ses fleurs sont aussi très semblables à celles de D. crispa . Elle s’en distingue toutefois par les folioles arrondies au sommet et subopposées ; en outre les gousses, bien qu’elles soient connues seulement à l’état très jeune, diffèrent nettement de celles de D. crispa par leur forme aplatie et plus étroite, ainsi que par leur surface glabre
+Other specimen studied: Bates 1697 (P), Cameroon, Bitya, near the river Ja, 1922 (fl). This species resembles D. crispa in its few leaflets, covered with crisp brown hairs on the lower surface, and with very prominent lateral nerves. Its flowers are also very similar to those of D. crispa. However, it differs in the leaflets rounded at the apex and subopposite; furthermore, the pods, although known only in very young state, differ distinctly from those of D. crispa in their flattened and narrower form, as well as in their glabrous surface
 
 ## Notes
 

@@ -17,8 +17,6 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 Mem. N.Y. Bot. Gard. 8 (5) : 429 (1954) ; FTEA, Legum. Mimos. : 43 (1959) ; FZ 3 (1) : 49, tab. 113 (1970) ; CUFODONTIS, BJBB 23, suppl. déc. 1953 : 207 (1953) ; GOSSWEILER, Agronom. Angolana 7 : 247 (1953) ; GILBERT & BOUTIQUE, FCB 3 : 230 (1952) ; MILL., Journ. S. Afr. Bot. 18 : 34 (1952) ; WILD, Guide Fl. Vict. Falls : 149 (1953) ; TORRE, in MENDONÇA, Contr. Conhec. Fl. Moçamb. 2 : 94 (1956) ; CFA 2 (2) : 268 (1956) ; KEAY, FWTA, ed. 2, 1 (2) : 492 (1958) ; RAPONDA-WALKER & SILLANS, Pl. ut. Gabon : 243 (1961) ; BERHAUT, Fl. Sénégal, ed. 2 : 46 (1967) ; FL. ILLUSTR. SÉNÉGAL 4 : 549, tab. 548 (1975) ; LIBERATO, Fl. Guiné Port., Mimosaceae : 20 (1972) ; MERXMÜLLER, Prodr. Fl. 58 : 18 (1967) ; TÁCKHOLM, Students' Fl. Egypt. : 286, tab. 92, fig. A (1974), sub. M. pigra JUSLENIUS ; TROUPIN, Fl. Rwanda, Spermato. 1 : 376, tab. 76; fig. 3 (1978) ; Fl. Pl. Ligneuses Rwanda : 430, tab. 145, fig. 1 (1982) ; GUNN, FSGM : tab. p. 97, fig. H, N (1984) ; ERN, Fl. analy. Togo : 245, 257 (1984).
 
 - M. asperata L., Syst, ed. 10, 2: 1312 (1759).
@@ -31,11 +29,11 @@ Mem. N.Y. Bot. Gard. 8 (5) : 429 (1954) ; FTEA, Legum. Mimos. : 43 (1959) ; FZ 3
 
 - M. asperata L. var. vermoesenii DE WILD., Pl. Bequaert. 3: 71 (1925).
 
-Buisson à tiges dressées ou sarmenteuses. Tige et rameaux marron à pubescence jaune ; épines variables en nombre et en taille. Stipule pubescente, triangulaire, longue de 2-4 mm, sommet aigu. Pétiole pubescente jaune, généralement non épineux, long de 0,5-2,2 cm, canalicule dessus. Rachis pubescent, épineux sur le dessus au niveau de l'insertion des pennes, et sur les côtés (épines souvent par 2), long de 4-13 cm. Pennes 6-17 paires. Axe de la penne pubescent dessus et éparsement pubescent à glabre dessous, long de 1,4-4,5 cm, à carène saillante dessus, terminé par un long mucron. Folioles 15-42 paires, sessiles à subsessiles. Limbe glabre dessus et ± pubescent à glabre dessous (poils blancs apprimés) ; marron dessus et marron plus clair à vert pâle sur le sec ; linéaire oblong, 3-8 × 0,5-1,25 mm, base asymétrique : bord proximal très fortement arrondi à subauriculé et bord distal atténué (subarrondi) ; marges ciliées ; sommet aigu à subobtus. Nervure principale médiane, peu ou pas visible dessus, saillante dessous. Nervures secondaires basales 3 (1 côté distal, 2 côté proximal), saillantes dessous. Nervilles invisibles.
+Shrub with erect or scandent stems. Stem and branches brown with yellow pubescence; spines variable in number and size. Stipule pubescent, triangular, 2-4 mm long, apex acute. Petiole yellow pubescent, generally unarmed, 0.5-2.2 cm long, channelled above. Rachis pubescent, spiny on the upper surface at the insertion of the pinnae, and on the sides (spines often in pairs), 4-13 cm long. Pinnae 6-17 pairs. Axis of pinna pubescent above and sparsely pubescent to glabrous below, 1.4-4.5 cm long, with prominent keel above, ending in a long mucro. Leaflets 15-42 pairs, sessile to subsessile. Blade glabrous above and ± pubescent to glabrous below (white appressed hairs); brown above and paler brown to pale green when dry; linear-oblong, 3-8 × 0.5-1.25 mm, base asymmetric: proximal margin very strongly rounded to subauricate and distal margin attenuate (subrounded); margins ciliate; apex acute to subobtuse. Midrib median, little or not visible above, prominent below. Basal secondary nerves 3 (1 distal side, 2 proximal side), prominent below. Veinlets invisible.
 
-Inflorescence en capitale globuleux, axillaire, solitaire. Pédoncule pubescent, long de 1,1-3 cm. Bractéoles pubescentes au sommet, spatulées, longues de 2 mm. Fleurs ♂, tétramères, roses à violettes sur le vivant. Calice court à sépales soudés, éparsement pubescents à la base à glabres, longs de ± 1 mm, laciniés. Pétales 4, soudés en tube, longs de 3-3,5 mm, lobes libres pubescents extérieurement, longs de 1-1,5 mm, sommet subaigu. Étamines 8, libres, épipétales grandes à filet long de 7,5 mm, alternipétales à filet court long de 4,5 mm; filet rose sur le vivant, s'élargissant progressivement vers le sommet, puis abruptement rétréci ; anthère jaune sur le vivant, étroitement ovée, longue de 0,5-0,6 mm. Pistil substité ; ovaire pubescent de part et d'autre de la suture ventrale et ± de la suture dorsale, oblong, long de 1,5 mm ; bord dorsal un peu concave et parfois plat ; ovules 12-16 ; style grêle long de 3-5 mm, effilé, à stigmate peu ou pas visible.
+Inflorescence in globose capitulum, axillary, solitary. Peduncle pubescent, 1.1-3 cm long. Bracteoles pubescent at apex, spatulate, 2 mm long. Flowers ♂, tetramerous, pink to violet when fresh. Calyx short with fused sepals, sparsely pubescent at base to glabrous, ± 1 mm long, laciniate. Petals 4, fused into tube, 3-3.5 mm long, free lobes pubescent externally, 1-1.5 mm long, apex subacute. Stamens 8, free, epipetalous large with filament 7.5 mm long, alternipetalous with short filament 4.5 mm long; filament pink when fresh, gradually widening towards apex, then abruptly narrowed; anther yellow when fresh, narrowly ovate, 0.5-0.6 mm long. Pistil substipitate; ovary pubescent on either side of the ventral suture and ± of the dorsal suture, oblong, 1.5 mm long; dorsal edge somewhat concave and sometimes flat; ovules 12-16; style slender 3-5 mm long, tapered, with stigma little or not visible.
 
-Lomentums fasciculés, densément soyeux hérissés (parfois subé-pineux), marron à jaunes, oblongs, 3-7,5 × 0,8-1,5 cm, base atténuée cunéiforme et stipitée ; sommet très fortement apiculé. Déhiscence en articles monospermes ; sutures persistantes. Graine transversale, marron mat, oblongue ellipsoïde, 7 × 3,5 mm ; aréole grande. - Pl. 22, p. 89.
+Loments fasciculate, densely silky hispid (sometimes somewhat spiny), brown to yellow, oblong, 3-7.5 × 0.8-1.5 cm, base attenuate cuneate and stipitate; apex very strongly apiculate. Dehiscence into monospermal articles; sutures persistent. Seed transverse, matt brown, oblong-ellipsoid, 7 × 3.5 mm; areole large. - Pl. 22, p. 89.
 
 ## Type
 
@@ -43,19 +41,15 @@ Aeschymomene spinosa-quinta Commelin., Rar. Pl. Amst.: 59, tab. 30 (1697)
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+It should be noted the variability of pubescence of the vegetative apparatus and spinescence, particularly that of the leaves: the spines of the rachis are sometimes very reduced and barely visible.
 
-Il faut noter la variabilité de la pubescence de l'appareil végétatif et de la spinescence, en particulier celle des feuilles : les épines du rachis sont parfois très réduites et peu visibles.
+The range of this plant is very extensive: tropical America, tropical Africa, Madagascar and Mauritius. It also exists in Asia, but its introduction appears to be recent. It is absent from Australia.
 
-L'aire de cette plante est très étendue : Amérique tropicale, Afrique tropicale, Madagascar et île Maurice. Elle existe aussi en Asie, mais son introduction semble récente. Elle manque en Australie.
-
-Son biotope favori semble être les bords sableux ou alluvionnaires des cours d'eau, des lacs, et des marécages, tant dans les zones de forêt dense humide que dans les savanes et les steppes sèches.
+Its preferred habitat appears to be the sandy or alluvial margins of watercourses, lakes, and marshes, both in zones of dense humid forest and in savannas and dry steppes.
 
 ## Uses
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-les racines ont des propriétés irritantes. Le liquide obtenu par la macération de leurs râpures est utilisé en instillations dans les narines contre le rhume de cerveau. Elles entrent aussi dans la composition d'une mixture (ibama ou dibama), servant de collyre versé dans les yeux des nouveaux initiés au bwiti
+The roots have irritant properties. The liquid obtained by maceration of their raspings is used as nasal instillations against head colds. They also enter into the composition of a mixture (ibama or dibama), serving as an eye lotion poured into the eyes of new initiates to the bwiti.
 
 ## Vernacular names
 

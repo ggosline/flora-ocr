@@ -17,21 +17,15 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Arbre moyen, 5–20 m de hauteur ; rameaux ridés, grisâtres, glabres ; épines surtout sur les jeunes repousses et rares ailleurs , droites ou crochues, ± 1,5 mm de longueur, brunes. Stipules linéaires, 15–22 mm de longueur, tomentelleuses-brunâtres. Feuille : pétiole atteignant 20–33 cm, avec ou sans épines ; rachis 5–12 cm ; stipelles 2–3 mm, glabres ; folioles à pétio lule de 10–13 mm, limbe 8–27 × 12–20 cm , papyracé, la terminale rhomboïdale , les latérales ovato-rhomboïdales , à sommet aigu à légèrement acuminé ; nervures latérales en 8 à 10 paires . Inflorescence en pseudoracèmes de 10–20 cm de longueur ; pédoncule 5–17 cm, légè rement pubescent ; rachis tomenteux. Fleur : pédicelle 6–8 mm, tomenteux ; calice spathacé, ± 2,5 cm de longueur, spathe s’ouvrant à 6–8 mm de la base, à 5 lobes ± égaux, comme des doigts allongés et acuminés, 8–15 mm et charnus ; corolle rouge , étendard ovale-oblong à oblong, 40–70 × 25–34 mm, glabre, ailes 17–23 × 8–11 mm, carène à pétales libres , 10–14 × 8–11 mm ; étamines diadelphes (9 + 1), la vexillaire soudée sur ± 17 mm. Gousse moniliforme, enroulée , atteignant 18 × 3 cm, ligneuse, avec 2 à 12 articles de 2–4 cm de diamètre, étranglements assez profonds. Graine ± 25 × 15 × 7 mm, rouge-orange ; hile noir.
+Medium-sized tree, 5–20 m in height; branchlets wrinkled, greyish, glabrous; spines chiefly on young shoots and rare elsewhere, straight or hooked, ± 1.5 mm in length, brown. Stipules linear, 15–22 mm in length, tomentellous-brownish. Leaf: petiole reaching 20–33 cm, with or without spines; rachis 5–12 cm; stipels 2–3 mm, glabrous; leaflets with petiolule 10–13 mm, blade 8–27 × 12–20 cm, papyraceous, the terminal one rhomboidal, the lateral ones ovato-rhomboidal, with acute to slightly acuminate apex; lateral veins in 8 to 10 pairs. Inflorescence in pseudoracemes 10–20 cm in length; peduncle 5–17 cm, slightly pubescent; rachis tomentose. Flower: pedicel 6–8 mm, tomentose; calyx spathe-like, ± 2.5 cm in length, spathe opening 6–8 mm from the base, with 5 ± equal lobes, like elongated and acuminate fingers, 8–15 mm and fleshy; corolla red, standard ovate-oblong to oblong, 40–70 × 25–34 mm, glabrous, wings 17–23 × 8–11 mm, keel with free petals, 10–14 × 8–11 mm; stamens diadelphous (9 + 1), the vexillary one fused for ± 17 mm. Pod moniliform, coiled, reaching 18 × 3 cm, woody, with 2 to 12 articles 2–4 cm in diameter, constrictions fairly deep. Seed ± 25 × 15 × 7 mm, red-orange; hilum black.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Cameroun, Gabon, République du Congo, République démocratique du Congo et Angola ; au Gabon, connue de la Nyanga et du Woleu-Ntem
+Cameroon, Gabon, Republic of the Congo, Democratic Republic of the Congo and Angola; in Gabon, known from Nyanga and Woleu-Ntem
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-en forêt hétérogène ; au Gabon à 40–600 m d’altitude, ailleurs jusqu’à 750 m
+in heterogeneous forest; in Gabon at 40–600 m altitude, elsewhere up to 750 m
 
 ## Vernacular names
 

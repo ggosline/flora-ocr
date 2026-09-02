@@ -17,23 +17,17 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Annual or perennial herb; stem erect, sometimes twining (volubile) towards the apex, reaching 2 m. Stipules narrowly ovate, 5–10 × 1.5–2 mm. Leaf: petiole 1–8 cm; rachis 0.5–1.5 cm; stipels pointed, 1–3 mm long; leaflets with entire limb, elliptic to narrowly ovate, 3–8 × 1–3.5 cm, the lateral ones somewhat smaller and oblique, glabrous above, finely pubescent below; lateral veins in 5 to 8 pairs. Inflorescence: peduncle 10–40 cm; rachis 3–35 cm; bracts pointed, ± 6 × 0.5 mm. Flower: pedicel 1–2 mm; bracteoles pointed, 1.2–4 × 0.5 mm; calyx with tube 4–5 mm long, lobes triangular, ± 1.5 × 1–2 mm; corolla red to brownish-red, maroon, or dark purple, wings and keel sometimes green tinged with red, standard with obovate limb, 8–11 × 8–10 mm, with claw 3–6 mm, wings with elliptic limb, 9 × 5–8 mm, with claw 8–9 mm, keel with limb 7–10 × 2.5–4 mm, with claw 8–9 mm; stamens 16–18 mm, free part 3–5 mm; ovary 10–12 mm, silky; style 6–7 mm. Pod linear, reflexed, 5.5–11 × 0.25–0.4 cm, with ± 12 seeds, finely silky pubescent. Seed oblique-oblong, 3–3.5 × 2–2.5 × 1 mm, brown or variegated brown and black; hilum central, ± 1 mm long.
 
-Herbe annuelle ou pérenne ; tige érigée , parfois grimpante (volubile) vers le sommet, atteignant 2 m. Stipules étroitement ovales, 5–10 × 1,5–2 mm. Feuille : pétiole 1–8 cm ; rachis 0,5–1,5 cm ; stipelles pointues, 1–3 mm de longueur ; folioles à limbe entier, elliptique à étroitement ovale, 3–8 × 1–3,5 cm, les latérales un peu plus petites et obliques, glabre dessus, à pubescence fine dessous ; nervures latérales en 5 à 8 paires . Inflorescence : pédoncule 10–40 cm ; rachis 3–35 cm ; bractées pointues, ± 6 × 0,5 mm. Fleur : pédicelle 1–2 mm ; bractéoles pointues, 1,2–4 × 0,5 mm ; calice à tube de 4–5 mm de longueur, lobes triangulaires, ± 1,5 × 1–2 mm ; corolle rouge à brun-rouge, bordeaux, ou pourpre foncé , ailes et carène parfois vertes teintées de rouge, étendard à limbe obovale, 8–11 × 8–10 mm, à onglet de 3–6 mm, ailes à limbe elliptique, 9 × 5–8 mm, à onglet de 8–9 mm, carène à limbe de 7–10 × 2,5–4 mm, à onglet de 8–9 mm, ; étamines 16–18 mm, partie libre 3–5 mm ; ovaire 10–12 mm, soyeux ; style 6–7 mm. Gousse linéaire, réfléchie , 5,5–11 × 0,25–0,4 cm, à ± 12 graines, à pubescence soyeuse fine. Graine oblique-oblongue, 3–3,5 × 2–2,5 × 1 mm, brune ou panachée brun et noir ; hile central, ± 1 mm de longueur.
-
-Étendard. – 13. Aile. – 14. Carène. – 15. Androcée. – 16. Gynécée, avec détail du style et stigmate. – 17. Gousses. Dessin par Bobbi Angell (©), reproduit avec permission à partir de Acevedo-Rodrigues (2005).
+Standard. – 13. Wing. – 14. Keel. – 15. Androecium. – 16. Gynoecium, with detail of style and stigma. – 17. Pods. Drawing by Bobbi Angell (©), reproduced with permission from Acevedo-Rodrigues (2005).
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Indes occidentales, Amérique continentale tropicale et subtropicale, naturalisé en Afrique tropicale, surtout à l’Est et au Sud, aussi et dans le Pacifique ; à rechercher au Gabon
+West Indies, tropical and subtropical continental America, naturalized in tropical Africa, especially in the East and South, also in the Pacific; to be sought in Gabon
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-stations côtières, en brousses, jachères, champs, savanes herbacées, bords de route ; ailleurs jusqu’à 1100 m d’altitude. Usage : Utilisée comme fourrage et engrais vert. Devenue une mauvaise herbe en Australie
+Coastal stations, in scrub, fallows, fields, herbaceous savannas, roadsides; elsewhere up to 1100 m altitude. Uses: Used as forage and green manure. Has become a weed in Australia
 
 ## Vernacular names
 

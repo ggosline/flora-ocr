@@ -11,7 +11,7 @@ tags: [species, generated]
 ---
 # *Amphibemma heterophyllum* Jacques-Félix
 
-**Genus**: [[Amphibemma]]
+**Genus**: [[Amphiblemma]]
 **Family**: [[Melastomataceae]]
 **Protologue**: Adansonia, sér. 2, 13 (4) : 448, tab. 7 (1973)
 
@@ -45,6 +45,6 @@ Hallé N. & Villiers J.-F. 5105, mt Cristal, pentes mt Méla (fév.).
 
 ## See also
 
-- [[Amphibemma]]
+- [[Amphiblemma]]
 - [[Melastomataceae]]
 - [[vol25]]

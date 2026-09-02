@@ -17,25 +17,17 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+P. palustris auct., non Desv. Climbing herb 1–6 m tall, blackening when dry. Stipules persistent, 8–17 mm long. Leaves: petiole 5–18 cm; rachis 0.8–5 cm; petiole and rachis sparsely pubescent to glabrous; stipels persistent, oblong, 2–6 mm long, with truncate apex; leaflets 3, with petiolule 3–6 mm, blade oval-rhomboidal to rounded-triangular or sometimes ± trilobed, 2.5–12 × 1.8–10 cm, base subrounded to acute, apex acute to acuminate, glabrous above and below or nearly so, margins ± ciliate. Inflorescence erect; peduncle 3–40 cm; bracts 5–11 mm long. Flower: pedicel 2–6 mm; bracteoles oval-oblong to elliptic, 10–14 × 5–7 mm, as long as the calyx or even longer, glabrous, longitudinally striate; calyx with tube 5–7 mm long, glabrous or glabrescent, upper lip 1 mm long, ± emarginate, lateral teeth 1 mm long, the lower one subulate, ± 2.5 mm; corolla blue, blue-violet or reddish, blackish after drying, standard obovate, 15–20(–24) × 12–15 mm, with emarginate apex, with 2 elongate appendages, wings oblanceolate, 15–18 × 5 mm, filiform claw ± 7 mm, keel obtuse, ± 15 × 6 mm, base subauriculate; ovary glabrous or sparsely pubescent, with 7 to 10 ovules; style ± 6 mm, flattened at apex, stigma villous-penicillate. Pod rectangular, emarginate at apex, 4-winged, 3.5–8 × 1–2 cm, with 5 to 8 seeds, glabrous, wings often fringed after maturity. Seed 6–7 × 5–7 mm, without strophiole, with brown pubescence.
 
-P. palustris auct., non Desv. Herbe grimpante de 1–6 m de hauteur, noircissant sur le sec . Stipules persistantes, 8–17 mm de longueur. Feuilles : pétiole 5–18 cm ; rachis 0,8–5 cm ; pétiole et rachis éparsement pubescents à glabres ; stipelles persistantes, oblongues, 2–6 mm de longueur, à sommet tronqué ; folioles 3, à pétiolule de 3–6 mm, limbe ovale-rhomboïdeal à arrondi-triangulaire ou parfois ± trilobé , 2,5–12 × 1,8–10 cm, base subarrondie à aiguë, sommet aigu à acuminé, glabre dessus et dessous ou presque , marges ± ciliées. Inflorescence dressée ; pédoncule 3–40 cm ; bractées 5–11 mm de longueur. Fleur : pédicelle 2–6 mm ; bractéoles ovalesoblongues à elliptiques, 10–14 × 5–7 mm, aussi longues que le calice ou même plus longues , glabres, striées longitudinalement ; calice à tube de 5–7 mm de longueur, glabre ou glabrescent, lèvre supérieure 1 mm de longueur, ± émarginée, dents latérales 1 mm de longueur, l’inférieure subulée, ± 2,5 mm ; corolle bleue, bleu violacé ou rougeâtre , noirâtre
-
-Gynécée (× 2). – 10. Stigmate (× 8). – 11. Gousse (× 1). 12. Graine (× 3). (1–10 : Faulkner 2690 ; 11 : Letouzey 8285 ; 12 : Peter K 314 ). Dessin par Pat Halliday, Royal Botanic Gardens, Kew (©), reproduit avec permission à partir de Verdcourt & Halliday (1978).
-
-après séchage , étendard obovale, 15–20(–24) × 12–15 mm, à sommet émarginé, à 2 appendices allongés, ailes oblancéolées, 15–18 × 5 mm, onglet filiforme de ± 7 mm, carène obtuse, ± 15 × 6 mm, base subauriculée ; ovaire glabre ou peu pubescent, avec 7 à 10 ovules ; style ± 6 mm, aplati au sommet, stigmate velu-pénicillé. Gousse rectangulaire, émarginée au sommet, 4-ailée , 3,5–8 × 1–2 cm, avec 5 à 8 graines , glabre, ailes souvent frangées après maturité . Graine 6–7 × 5–7 mm, sans strophiole, à pilosité brune.
+Gynecium (× 2). – 10. Stigma (× 8). – 11. Pod (× 1). 12. Seed (× 3). (1–10: Faulkner 2690; 11: Letouzey 8285; 12: Peter K 314). Drawing by Pat Halliday, Royal Botanic Gardens, Kew (©), reproduced with permission from Verdcourt & Halliday (1978).
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-en Afrique tropicale, largement répandue du Cameroun jusqu’à l’Angola, au Soudan et en Éthiopie, aussi en Asie tropicale ; au Gabon, connue de l’Estuaire, de la Nyanga, de l’Ogooué-Maritime et du Woleu-Ntem
+in tropical Africa, widely distributed from Cameroon to Angola, Sudan and Ethiopia, also in tropical Asia; in Gabon, known from Estuaire, Nyanga, Ogooué-Maritime and Woleu-Ntem.
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-stations humides, marécageuses, le long des rivières ; au Gabon à jusqu’à 50 m d’altitude, ailleurs jusqu’à 800 m. Fleurs en mai, août et décembre ; fruits en mai. Usage : Les gousses sont comestibles, mais non mangées au Gabon. C’est aussi un légume-feuille. Les usages sont semblables à ceux de P. palustris. Un usage moderne, les graines sont ajoutées aux produits riches en protéines pour les enfants mal nourris
+humid, marshy stations, along rivers; in Gabon up to 50 m altitude, elsewhere up to 800 m. Flowers in May, August and December; fruits in May. Uses: The pods are edible, but not eaten in Gabon. It is also a leaf vegetable. The uses are similar to those of P. palustris. A modern use: the seeds are added to protein-rich products for malnourished children.
 
 ## Vernacular names
 
@@ -43,9 +35,7 @@ pois ailé africain, kikalakasa (fr.) ; African winged bean, tropical African wi
 
 ## Source note
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Voir la note sous P. palustris . Bi : B urkill (1995 ), Schippers (2004b), Verdcourt (1968, 1971c), Verdcourt & Halliday B liographie (1978)
+See the note under P. palustris. Bi: Burkill (1995), Schippers (2004b), Verdcourt (1968, 1971c), Verdcourt & Halliday Bibliography (1978)
 
 ## Notes
 

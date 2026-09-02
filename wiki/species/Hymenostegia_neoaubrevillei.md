@@ -21,13 +21,11 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 Léonard (PL. 22, p. 105)
 
-Arbre moyen. Feuilles à 25 paires environ de folioles opposées, sessiles, de 10 × 2 mm, oblongues, à sommet oblique, obtus, entier, à base obliquement tronquée, l'oreillette postérieure aiguë, glabres. Rachis environ 10 cm. Bourgeons florifères strobiliformes, écailleux.
+Medium-sized tree. Leaves with approximately 25 pairs of opposite, sessile leaflets, 10 × 2 mm, oblong, with oblique, obtuse, entire apex, obliquely truncate base, the posterior auricle acute, glabrous. Rachis approximately 10 cm. Floral buds strobiliform, scaly.
 
-Grappes très fleuries de fleurs blanches, axillaires, plus courtes que les feuilles. Axes tomenteux roux. Bractéoles 2, membraneuses, lancéolées, glabres, non involucrales. Pédicelles de 6-7 mm, pubescents roussâtre. Pétales 2, parfois très réduits ou même nuls. Étamines 8-10. Ovaire velu, 2 ovules.
+Very floriferous racemes of white flowers, axillary, shorter than the leaves. Axes rusty tomentose. Bracteoles 2, membranous, lanceolate, glabrous, non-involucral. Pedicels 6-7 mm, rusty pubescent. Petals 2, sometimes very reduced or even absent. Stamens 8-10. Ovary villous, 2 ovules.
 
 ## Type
 
@@ -37,23 +35,21 @@ Le Testu 7500, Gabon (L, P)
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Espèce gabonaise très voisine d'Hymenostegia Pellegrini, à folioles plus petites.
+Gabonese species very close to Hymenostegia Pellegrini, with smaller leaflets.
 
 7. Hymenostegia Pellegrini (A. Chev.) Léonard Ngang (PL. 22, p. 105)
 
-J. Léonard, 20; 443 (1950). — de St Aubin, For. Gabon : 95 (1963). = Dipetalanthus Pellegrini A. Chev., Rev. Bot. appl. : 595, pl. 28 A (1946).
+J. Léonard, 20: 443 (1950). — de St Aubin, For. Gabon: 95 (1963). = Dipetalanthus Pellegrini A. Chev., Rev. Bot. appl.: 595, pl. 28 A (1946).
 
-= Cynometra bipetala Pellegr., Bull. Soc. Bot. Fr. 93 : 222 (1946); Lég. Gabon : 107 (1948).
+= Cynometra bipetala Pellegr., Bull. Soc. Bot. Fr. 93: 222 (1946); Lég. Gabon: 107 (1948).
 
-Feuilles paripennées, à 20-25 paires de folioles opposées, étroitement rhomboidales, à sommet obtus oblique, à base tronquée oblique parallèle au rachis, à oreillette postérieure aiguë, sessiles, glabres, 15-20 × 5 mm. Rachis long de 11-13 m, canaliculé, velouté.
+Leaves paripinnate, with 20-25 pairs of opposite leaflets, narrowly rhomboidal, with oblique obtuse apex, obliquely truncate base parallel to the rachis, the posterior auricle acute, sessile, glabrous, 15-20 × 5 mm. Rachis 11-13 m long, canaliculate, velvety.
 
-Inflorescences en grappes axillaires, courtes, denses, longues de 4-5 cm. Axes tomentaux. Bourgeons strobiliformes, à écailles imbriquées, distiques, devenant caduques. Bractées linéaires, longues de 1,5-1,6 cm, larges de 1 mm. Bractéoles opposées, lancéolées, étroites, membraneuses, non involucrales, d'environ 5 × 1 mm. Pédicelles glabres, de 5-8 mm. Sépales 4, suborbiculaires, de 4 mm, concaves, insérés avec les pétales et les étamines au bord d'un réceptacle concave peu profond. Pétales 2, blancs, spatulés, onguiculés, caducs, de 4 × 1,5 mm. Étamines 10, libres. Ovaire velu, brièvement stipité. 2 ovules.
+Inflorescences in short, dense, axillary racemes, 4-5 cm long. Axes tomentose. Buds strobiliform, with imbricate, distichous scales, becoming caducous. Bracts linear, 1.5-1.6 cm long, 1 mm wide. Bracteoles opposite, lanceolate, narrow, membranous, non-involucral, approximately 5 × 1 mm. Pedicels glabrous, 5-8 mm. Sepals 4, suborbicular, 4 mm, concave, inserted with the petals and stamens at the edge of a shallow concave receptacle. Petals 2, white, spatulate, unguiculate, caducous, 4 × 1.5 mm. Stamens 10, free. Ovary villous, briefly stipitate. 2 ovules.
 
-Gousses oblongues, d'environ 10 × 4 cm, aplaties, lisses, à suture dorsale limitée par 2 crêtes aiguës.
+Pods oblong, approximately 10 × 4 cm, flattened, smooth, with dorsal suture bounded by 2 acute ridges.
 
-Espèce gabonaise. Grand arbre de moyen diamètre. Fût peu élevé, ni très droit, ni très cylindrique, muni de contreforts minces et irréguliers. Écorce lisse, tranche fibreuse de couleur rouge vineux lavé. Bois brun-rose, dur et lourd.
+Gabonese species. Large tree of medium diameter. Bole of low height, neither very straight nor very cylindrical, provided with thin and irregular buttresses. Bark smooth, fibrous section wine-red in colour. Wood brown-pink, hard and heavy.
 
 ## Vernacular names
 

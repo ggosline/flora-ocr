@@ -23,13 +23,11 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Trees. Leaves paripinnate with 8–12 pairs of sessile leaflets, narrowly oblong, 6–18 × 2–5 mm, with emarginate apex, oblique base and auriculate posteriorly, glabrous. Rachis 3–5 cm, ferruginous pubescent. Stipules linear, very caducous.
 
-Arbres. Feuilles paripennées à 8-12 paires de folioles sessiles, étroitement oblongues, de 6-18 × 2-5 mm, à sommet émarginé, à base oblique et auriculée postérieurement, glabre. Rachis de 3-5 cm, pubescent ferrugineux. Stipules linéaires, très caduques.
+Inflorescences in short racemes. Pedicels approximately 6 mm long. Bracteoles ovate, not involucral, approximately 8 × 6 mm. Calyx tubular, with tube 8 mm; lobes imbricate, approximately 6 × 2.5–3.5 mm. Petals 5, spatulate with short claw, 3 larger and 2 smaller (1–0). Stamens 10. Ovary stipitate, the stipe adnate to the receptacle. 2 ovules.
 
-Inflorescences en courts racèmes. Pédicelles environ 6 mm de longueur. Bractéoles ovées, non involucrales, d'env. 8 × 6 mm. Calice tubulaire, à tube de 8 mm; lobes imbriqués, d'env. 6 × 2,5-3,5 mm. Pétales 5, spatulés à courts onglet, 3 plus grands et 2 plus petits (1-0). Étamines 10. Ovaire stipité, le stipe adhérent au réceptacle. 2 ovules.
-
-Fruits oblongs elliptiques, d'env. 6 × 3 cm, tomentaux roux.
+Fruits oblong elliptic, approximately 6 × 3 cm, rusty tomentose.
 
 ## Type
 
@@ -37,11 +35,7 @@ Unwin et Smythe 42, Sierra Leone (K)
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Arbre moyen ou petit du bord des rivières, à cime étalée,
-
-répandu depuis la Sierra Leone, le Libéria et la Côte d'Ivoire jusqu'au Cameroun et au nord du Gabon.
+Medium or small tree of riverbanks, with spreading crown, distributed from Sierra Leone, Liberia and Côte d'Ivoire to Cameroon and northern Gabon.
 
 ## Vernacular names
 

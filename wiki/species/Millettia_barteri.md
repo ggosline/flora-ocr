@@ -17,21 +17,15 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Liane de 10–25 m de longueur ; tige atteignant 5 cm de diamètre ; rameaux glabres ou pubé rulents, à lenticelles peu saillantes. Stipules très caduques. Feuille 10–30 cm de longueur ; pétiole 2–15,5 cm ; rachis 1,7–20 cm, glabre ou à poils très épars, canaliculé ; stipelles absentes ; folioles 5 à 11 , à pétiolule ridé, côtelé ou canaliculé dessus, 3–8 mm , glabre ou à poils très épars, limbe ovale à obovale, 4–17 × 1,4–7,2 cm, arrondi à la base, étroitement acuminé au sommet, glabre à la face supérieure, glabre ou à poils couchés très courts et épars à la face inférieure , devenant grisâtre ou brun olive à sec ; nervures planes ou en creux à la face supérieure, les latérales en 7 à 11 paires, très marquées et fortement ascendantes , réunies en arceaux peu apparents à 1–2 mm du bord, nervilles en réseau dense, mais non ou à peine saillant à la face inférieure. Inflorescence terminale et axillaire, en pseudoracèmes groupés en panicules de 20–120 cm de longueur, ou rarement simples, les ramifications latérales 10–25 cm de longueur, à pubescence veloutée ferrugineuse ; brachyblastes 1–2(–4) mm de longueur, ± globuleux ; bractées 0,7–3 × 0,7 mm , pubescentes. Fleur : pédicelle 2–5 mm ; bractéoles situées à la base du calice, caduques, elliptiques, 0,7–1 × 0,5–0,6 mm, pubescentes ; calice à poils apprimés brun doré , tube 2–3 mm de longueur, lobes triangulaires < 0,5 mm de longueur ; corolle rose à violet-pourpre , étendard ovale, 10–15 × 10–12 mm, à onglet court de ± 2 mm, la face externe à poils apprimés denses , ailes oblongues, 11–13 × 3 mm, à base tronquée ou légèrement auriculée, glabres, sauf quelques poils au sommet, carène oblongue, 12–13 × 5 mm, légèrement auriculée, pubescente extérieurement au sommet ; étamines d’abord diadelphes, ensuite ± monadelphes, à tube de ± 11 mm de longueur, la partie libre des filets courbée, de ± 2 mm ; disque annulaire ; ovaire linéaire, pubescent, à 4 ovules ; style courbé, ± 2 mm, glabre. Gousse obovée ou ellipsoïde, parfois falciforme, 3,7–7(–10) × 1,4–2,2 cm, avec 1 à 4 graines, à sutures fortement épaissies , à pubescence brun velouté dense . Graine lenticulaire, 12–19 × (15–)25 mm, brune, ridée à sec.
+Liana 10–25 m in length; stem reaching 5 cm in diameter; branchlets glabrous or pubescent, with inconspicuous lenticels. Stipules very caducous. Leaf 10–30 cm in length; petiole 2–15.5 cm; rachis 1.7–20 cm, glabrous or with very scattered hairs, canaliculate; stipels absent; leaflets 5 to 11, with petiolule wrinkled, ribbed or canaliculate above, 3–8 mm, glabrous or with very scattered hairs, blade oval to obovate, 4–17 × 1.4–7.2 cm, rounded at base, narrowly acuminate at apex, glabrous on upper surface, glabrous or with very short and scattered appressed hairs on lower surface, becoming greyish or olive-brown when dry; venation plane or sunken on upper surface, lateral veins in 7 to 11 pairs, very prominent and strongly ascending, united in inconspicuous arches 1–2 mm from the margin, veinlets in dense network but not or scarcely prominent on lower surface. Inflorescence terminal and axillary, in pseudoracemes grouped into panicles 20–120 cm in length, or rarely simple, the lateral branches 10–25 cm in length, with ferrugineous velvety pubescence; brachyblasts 1–2(–4) mm in length, ± globose; bracts 0.7–3 × 0.7 mm, pubescent. Flower: pedicel 2–5 mm; bracteoles situated at the base of the calyx, caducous, elliptic, 0.7–1 × 0.5–0.6 mm, pubescent; calyx with dense golden-brown appressed hairs, tube 2–3 mm in length, lobes triangular < 0.5 mm in length; corolla pink to violet-purple, standard ovate, 10–15 × 10–12 mm, with short claw of ± 2 mm, outer surface with dense appressed hairs, wings oblong, 11–13 × 3 mm, with truncate or slightly auriculate base, glabrous except for a few hairs at apex, keel oblong, 12–13 × 5 mm, slightly auriculate, pubescent externally at apex; stamens at first diadelphous, then ± monadelphous, with tube of ± 11 mm in length, the free part of the filaments curved, of ± 2 mm; annular disc; ovary linear, pubescent, with 4 ovules; style curved, ± 2 mm, glabrous. Pod obovate or ellipsoid, sometimes falcate, 3.7–7(–10) × 1.4–2.2 cm, with 1 to 4 seeds, with strongly thickened sutures, with dense brown velvety pubescence. Seed lenticular, 12–19 × (15–)25 mm, brown, wrinkled when dry.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Guinée-Bissau, Guinée, Sierra Léone, Libéria, Côte d’Ivoire, Ghana, Nigéria, Cameroun, Guinée équatoriale, Gabon, République centrafricaine, République du Congo, République démocratique du Congo et Angola ; au Gabon, dans presque tout le pays
+Guinea-Bissau, Guinea, Sierra Leone, Liberia, Côte d'Ivoire, Ghana, Nigeria, Cameroon, Equatorial Guinea, Gabon, Central African Republic, Republic of the Congo, Democratic Republic of the Congo and Angola; in Gabon, in almost the entire country
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-forêts secondaires, bords des rivières et bas-fonds marécageux en forêt ; au Gabon à 0–480 m d’altitude, ailleurs jusqu’à 800 m. Fleurs et fruits pendant la plus grande partie de l’année. Les graines flottent sur l’eau. Usage : La liane sert comme amarre solide pour les trains de bois et les embarcations, les fibres pour les pièges à gibier. Les tiges pilonnées et malaxées dans l’eau servent comme poison de pêche et aussi comme lavement et vomitif
+secondary forests, river banks and swampy depressions in forest; in Gabon at 0–480 m elevation, elsewhere up to 800 m. Flowers and fruits during most of the year. Seeds float on water. Uses: The liana serves as a solid rope for timber rafts and boats, the fibres for game traps. The stems pounded and kneaded in water serve as a fishing poison and also as an enema and emetic
 
 ## Vernacular names
 
@@ -39,11 +33,9 @@ atüe-ndzic, ndzic-nzè, olac-ndzic (fang) ; mbuku, géyita (mindumu), motukola 
 
 ## Source note
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+The pods of M. barteri differ from those of other Gabonese species by their strongly thickened sutures; these pods are pubescent, and not glabrous as indicated by Hauman (1954a). The fruits are sometimes deformed by galls. b: Banzouzi et al. (2008), Chevalier (1937b), Hauman (1954a), Pellegrin (1949), Rapondaibliography Walker & Sillans (1961)
 
-Les gousses de M. barteri diffèrent de celles des autres espèces gabonaises par leurs sutures fortement épaissies ; ces gousses sont pubescentes, et non glabres comme indiqué par Hauman (1954a). Les fruits sont parfois déformés par des galles. b : Banzouzi et al. (2008), Chevalier (1937b), Hauman (1954a), Pellegrin (1949), Rapondaibliographie Walker & Sillans (1961)
-
-Meise (©), reproduit à partir de De Wildeman (1906).
+Meise (©), reproduced from De Wildeman (1906).
 
 ## Notes
 

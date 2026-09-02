@@ -11,7 +11,7 @@ tags: [species, generated]
 ---
 # *Pyrosiia mechowii* (Hier.) Alston
 
-**Genus**: [[Pyrosiia]]
+**Genus**: [[Pyrrosia]]
 **Family**: [[Polypodiaceae]]
 
 ## Synonyms
@@ -47,6 +47,6 @@ Klein : 38, cap Estérias, env. de Libreville.
 
 ## See also
 
-- [[Pyrosiia]]
+- [[Pyrrosia]]
 - [[Polypodiaceae]]
 - [[vol08]]

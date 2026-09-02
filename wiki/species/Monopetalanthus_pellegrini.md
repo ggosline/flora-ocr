@@ -17,15 +17,13 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Trees. Branchlets hirsute reddish-brown. Leaves paripinnate with 13-15 pairs of leaflets. Rachis rather short, 5-7 cm, hirsute reddish-brown.
 
-Arbres. Rameaux velus roux. Feuilles paripennées à 13-15 paires de folioles. Rachis assez courts de 5-7 cm, hirsute roux.
+Leaflets linear-oblong, 10 to 13 × 3-4 mm, with rounded apex, somewhat asymmetrical and emarginate, with base truncate parallel to the rachis, the posterior lobe extended into an acute auricle.
 
-Folioles linéaires-oblongues, de 10 à 13 × 3-4 mm, à sommet arrondi, un peu dissymétrique et émarginé, à base tronquée parallèlement au rachis, le lobe postérieur prolongé d'une auricule aiguë.
+Inflorescences in panicles of hirsute glomerules, formed of densely imbricate bracts enclosing the young flowers. Flowers subsessile. Bracteoles suborbicular, approximately 4 mm, hirsute. Calyx absent. Single white petal, with emarginate apex, unguiculate, approximately 5 × 3 mm. Sometimes in addition 1-2 petaloid teeth. Stamens 10; 9 fused at the base for approximately 4 mm, 1 free. Ovary sessile, hirsute.
 
-Inflorescences en panicules de glomérules velus, formés des bractées densément imbriquées enfermant les jeunes fleurs. Fleurs subsessiles. Bractéoles suborbiculaires, de 4 mm environ, velues. Calice nul. Pétale unique blanc, à sommet émarginé, unguiculé, environ 5 × 3 mm. Parfois en plus 1-2 dents pétaloïdes. Étamines 10; 9 soudées à la base sur 4 mm environ, 1 libre. Ovaire sessile, hirsute.
-
-Gousses oblongues-elliptiques.
+Pods oblong-elliptic.
 
 ## Type
 
@@ -33,11 +31,9 @@ Le Testu 6024, Gabon (P)
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+This species resembles Monopetalanthus Le-Testui very closely; the leaflets are smaller and less numerous. Minor differences also in the calyx, absent in M. Pellegrini, with 2 small teeth in M. Le-Testui. It is also quite difficult to separate it from M. longiracemosus.
 
-Cette espèce ressemble beaucoup au Monopetalanthus Le-Testui; les folioles sont plus petites et moins nombreuses. Faibles différences aussi dans le calice, nul chez M. Pellegrini, 2 petites dents chez M. Le-Testui. Il est également assez difficile de le séparer de M. longiracemosus.
-
-Cet Andoung serait très rare dans le bassin sédimentaire du Gabon, un peu plus fréquent dans le centre et l'est. Existe aussi au Cameroun.
+This Andoung would be very rare in the sedimentary basin of Gabon, somewhat more frequent in the centre and east. Also occurs in Cameroon.
 
 ## Specimens examined
 

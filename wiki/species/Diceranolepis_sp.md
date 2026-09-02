@@ -11,7 +11,7 @@ tags: [species, generated]
 ---
 # *Diceranolepis sp* . B
 
-**Genus**: [[Diceranolepis]]
+**Genus**: [[Dicranolepis]]
 **Family**: [[Thymeleaceae]]
 **Protologue**: Aymonin, Webbia 19 (2) : 828 (1964), sub nomin. D. Baertsiana
 
@@ -39,6 +39,6 @@ Cette plante paraît différer des autres Dicranolepis connus par ses grandes fe
 
 ## See also
 
-- [[Diceranolepis]]
+- [[Dicranolepis]]
 - [[Thymeleaceae]]
 - [[vol11]]

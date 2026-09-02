@@ -17,27 +17,19 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Fl. zamb. 3(5) : 42 (2001). G. tenuiflora (Klein ex Willd.) Wight & Arn. var. villosa (Wight & Arn.) Benth. in Mart., Fl. bras. 15 : 143 (1859). Teramnus obcordatus Baill. (1883), Bull. Mens. Soc. Linn. Paris 1(48) : 382 (1883). Glycine kisantuensis De Wild., Ann. Mus. Congo Belge, Bot., sér. 5, 1 : 150 (1904). Galactia obcordata (Baill.) Verdc., Kew Bull. 24(2) : 283 (1970). Herbe grimpante ou rampante, assez tomenteuse partout ; tige atteignant 3,6 m de longueur, 1–3 mm de diamètre. Stipules ± persistantes, linéaires-subulées, 3–5 mm de longueur, bru nâtres, pubescentes. Feuille : pétiole 1–2,5 cm ; rachis 4–6 mm ; stipelles minuscules, brunes ; folioles 3 , à pétiolule de ± 3 mm, limbe étroitement elliptique, 2,5–5 × 1–1,8 cm, base obtuse, sommet obtus et obscurément indenté et/ou mucronulé, peu poilu dessus, pubescent dessous, le terminal plus grand que les latéraux . Inflorescence en racème de 2–8 cm de longueur, avec (1–)2 à 10 fleurs solitaires ou par 2 ou 3 ; pédoncule 3–10 cm ; bractées filiformes. Fleur : pédicelle 1,5–2 mm ; calice à tube court de 1–2 mm, à dents linéaires-lancéolées de 3–6 mm de longueur ; corolle rose ou bleue , ± 1 cm de longueur, glabre, étendard largement ovale, 4–5 mm de largeur, émarginé au sommet, ailes oblongues, arrondies au sommet, jaunes ou mauves à l’extrémité, carène à pétales soudés seulement dans la partie coudée, jaune ou blanchâtre ; étamines ± 1 cm, anthères basifixes ; ovaire ± (0,5–)1 × 0,1 cm, hirsute. Gousse assez droite, 4–5 × 0,5–0,8 cm, avec 5 à 8 graines, brune à noire, à style persistant à maturité en un bec recourbé , valves déroulantes. Graine oblongue-réniforme, ± 3 × 2 × 1,5 mm, brun jaunâtre ; hile entouré d’une bande plus foncée, strophiolé .
+Fl. zamb. 3(5) : 42 (2001). G. tenuiflora (Klein ex Willd.) Wight & Arn. var. villosa (Wight & Arn.) Benth. in Mart., Fl. bras. 15 : 143 (1859). Teramnus obcordatus Baill. (1883), Bull. Mens. Soc. Linn. Paris 1(48) : 382 (1883). Glycine kisantuensis De Wild., Ann. Mus. Congo Belge, Bot., sér. 5, 1 : 150 (1904). Galactia obcordata (Baill.) Verdc., Kew Bull. 24(2) : 283 (1970). Climbing or trailing herb, rather tomentose throughout; stem reaching 3.6 m in length, 1–3 mm in diameter. Stipules ± persistent, linear-subulate, 3–5 mm in length, brownish, pubescent. Leaf: petiole 1–2.5 cm; rachis 4–6 mm; stipels minute, brown; leaflets 3, with petiolule ± 3 mm, lamina narrowly elliptic, 2.5–5 × 1–1.8 cm, base obtuse, apex obtuse and obscurely indented and/or mucronate, sparsely hairy above, pubescent below, the terminal larger than the lateral ones. Inflorescence a raceme 2–8 cm in length, with (1–)2 to 10 flowers solitary or in pairs or threes; peduncle 3–10 cm; bracts filiform. Flower: pedicel 1.5–2 mm; calyx with short tube 1–2 mm, with linear-lanceolate teeth 3–6 mm in length; corolla pink or blue, ± 1 cm in length, glabrous, standard broadly ovate, 4–5 mm in width, emarginate at apex, wings oblong, rounded at apex, yellow or mauve at the extremity, keel with petals fused only in the bent portion, yellow or whitish; stamens ± 1 cm, anthers basifixed; ovary ± (0.5–)1 × 0.1 cm, hirsute. Pod fairly straight, 4–5 × 0.5–0.8 cm, with 5 to 8 seeds, brown to black, with persistent style at maturity forming a curved beak, valves dehiscent. Seed oblong-reniform, ± 3 × 2 × 1.5 mm, yellowish-brown; hilum surrounded by a darker band, strophiolate.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Ghana, Nigéria, République centrafricaine, Gabon, Soudan, Erythrée, Kenya, Ouganda, Tanzanie, Mozambique et Zimbabwe, aussi à Madagascar, en Inde, en Chine, en Nouvelle Guinée et en Australie ; au Gabon, connue de la Réserve de la Lopé (Ogooué-Ivindo)
+Ghana, Nigeria, Central African Republic, Gabon, Sudan, Eritrea, Kenya, Uganda, Tanzania, Mozambique and Zimbabwe, also in Madagascar, India, China, New Guinea and Australia; in Gabon, known from the Lopé Reserve (Ogooué-Ivindo)
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-stations ouvertes, savane brûlée annuellement, boisée ou littorale, rocheuse, parfois plus hu mide ; au Gabon à environ 100 m d’altitude, ailleurs jusqu’à 2000 m. Usage : L’espèce est un fourrage des des animaux sauvages. Les fleurs sont mellifères
+Open stations, annually burnt savanna, wooded or coastal, rocky, sometimes more humid; in Gabon at approximately 100 m altitude, elsewhere up to 2000 m. Use: The species is a forage for wild animals. The flowers are honey-bearing.
 
 ## Source note
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-En Asie, il s’agit de la var. tenuiflora (Klein ex Willd.) Burkart glabrescente à glabre. La diffé rence avec certaines formes de G. striata n’est pas claire et mériterait une étude taxonomique approfondie (Verdcourt 1971b, 2001). b : Ern (1984), Mackinder et al. (2001), Robyns (1954), Verdcourt (1971c). ibliographie
+In Asia, this is var. tenuiflora (Klein ex Willd.) Burkart glabrescente to glabrous. The difference with certain forms of G. striata is not clear and would merit thorough taxonomic study (Verdcourt 1971b, 2001). b : Ern (1984), Mackinder et al. (2001), Robyns (1954), Verdcourt (1971c). ibliography
 
 ## Notes
 

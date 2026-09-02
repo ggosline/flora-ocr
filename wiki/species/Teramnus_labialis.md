@@ -17,29 +17,21 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Herbe prostrée ou grimpante ; tige grêle , ± arrondie , d’abord pubescente. Stipules lancéolées, ± 5 mm de longueur. Feuille : pétiole 1,5–5 cm, à pubescence apprimée ; rachis 4–7 mm ; stipelles subulées ; folioles à pétiolule de 1–2 mm, limbe ovale-elliptique, 2,5–7 × 1,5–4 cm , base arrondie, sommet aigu et mucronulé, à pubescence apprimée clairsemée sur les deux faces. Inflorescence en pseudoracèmes lâches, à axe jusqu’à 10 cm , pubescents, à 1 ou 2 fleurs par nœud ; bractées subulées, 2–3 mm. Fleur : bractéoles 1–2 mm de longueur ; pédicelle grêle, 3–4 mm ; calice à tube de 1–3 mm de longueur, lobes linéaires, 1–3 mm ; corolle blanche à rose, à stries rougeâtres ou pourpres , exserte, étendard obovale, la base tronquée, l’onglet 1–1,5 mm, limbe 3–3,5 mm de longueur, ailes linéaires, 4 mm, carène plus large et plus courte ; étamines monadelphes ; ovaire velu, ± 3 mm de longueur ; style 0,5 mm. Gousse 2,5–6 × 0,3–0,4 cm , avec 5 à 8 graines, brune à brun foncé , atténuée à la base, à pubescence clairsemée. Graine cylindrique, 2–3 mm de longueur, brune, luisante, les extrémités aplaties ; hile ponctiforme.
+Herb prostrate or climbing; stem slender, ± rounded, initially pubescent. Stipules lanceolate, ± 5 mm long. Leaf: petiole 1.5–5 cm, with appressed pubescence; rachis 4–7 mm; stipels subulate; leaflets with petiolule of 1–2 mm, lamina ovate-elliptic, 2.5–7 × 1.5–4 cm, base rounded, apex acute and mucronulate, with scattered appressed pubescence on both surfaces. Inflorescence in lax pseudoracemes, with axis up to 10 cm, pubescent, with 1 or 2 flowers per node; bracts subulate, 2–3 mm. Flower: bracteoles 1–2 mm long; pedicel slender, 3–4 mm; calyx with tube 1–3 mm long, lobes linear, 1–3 mm; corolla white to pink, with reddish or purple striae, exserted, standard obovate, base truncate, claw 1–1.5 mm, limb 3–3.5 mm long, wings linear, 4 mm, keel wider and shorter; stamens monadelphous; ovary hairy, ± 3 mm long; style 0.5 mm. Pod 2.5–6 × 0.3–0.4 cm, with 5 to 8 seeds, brown to dark brown, attenuate at base, with scattered pubescence. Seed cylindric, 2–3 mm long, brown, shiny, ends flattened; hilum punctiform.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Very widely distributed in tropical Africa and Asia; presence in Gabon to be confirmed, cited from the Ngounié
 
-très largement répartie en Afrique et Asie tropicale ; présence au Gabon à confirmer, citée de la Ngounié
-
-Botanic Gardens, Kew (©), reproduit avec permission à partir de Verdcourt (1971c).
+Botanic Gardens, Kew (©), reproduced with permission from Verdcourt (1971c).
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-brousse, savane, stations ouvertes ; au Gabon à ± 400 m d’altitude, ailleurs à 600–1800 m. Usage : Une plante de fourrage dans certaines régions ; utilisée aussi comme plante de couverture et à usages médicinaux divers
+Bush, savanna, open habitats; in Gabon at ± 400 m altitude, elsewhere at 600–1800 m. Use: A forage plant in certain regions; also used as a cover plant and for various medicinal uses
 
 ## Source note
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Pellegrin (1949) a suggeré son existence au Gabon, mais il n’y a pas d’échantillons trouvés depuis. Vercourt (1970, 1971c) a distingué plusieurs taxons infraspécifiques, mais comme leur statut reste dou teux, nous pensons que leur distinction n’est pas utile ici. Bi : Burkill (1995), Hauman (1954b), Mackinder et al. (2001), Pellegrin (1949), Tulin (1983), B liographie Verdcourt (1970, 1971c)
+Pellegrin (1949) suggested its existence in Gabon, but no specimens have been found since. Verdcourt (1970, 1971c) distinguished several infraspecific taxa, but as their status remains doubtful, we think their distinction is not useful here. Bibliography: Burkill (1995), Hauman (1954b), Mackinder et al. (2001), Pellegrin (1949), Tulin (1983), Verdcourt (1970, 1971c)
 
 ## Notes
 

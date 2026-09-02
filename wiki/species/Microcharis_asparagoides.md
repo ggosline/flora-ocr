@@ -17,25 +17,15 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Herbe pérenne, à base ligneuse, ± glabre ; tiges grêles, prostrées ou radicantes, jusqu’à 60 cm de longueur. Stipules subulées, 0,2–1 mm de longueur. Feuille paripennée : pétiole 2–6 mm ; sommet du rachis ressemblant à une foliole terminale ; folioles 4 à 12 , opposées, à limbe linéaire, 3–21 × 0,1–0,8 mm , éparsement strigueux. Inflorescence axillaire ; racème 1,5–7 cm de longueur, y inclus le pédoncule de 1–3 cm, avec 2 à 10 fleurs ; bractées subulées, 0,5–1 mm de longueur. Fleur : pédicelle 1–5 mm ; calice 1,8–2,8 mm de longueur, à lobes
-
-Heather Wood, Royal Botanic Gardens, Kew (©), reproduit avec permission à partir de Gillett (1971a).
-
-triangulaires à subulés, aussi longs à 2 fois plus longs que le tube ; corolle rouge ou rose purpurin , étendard 4–5 mm de longueur, ailes dépassant l’étendard et la carène, 5–7 mm de longueur ; étamines 2–3 mm. Gousse droite, 8–32 × 1–1,7 mm, avec 4 à 16 graines, ± glabre. Graine rectangulaire, ± 1 mm de longueur.
+Perennial herb, with woody base, ± glabrous; stems slender, prostrate or rooting, up to 60 cm in length. Stipules subulate, 0.2–1 mm in length. Leaf paripinnate: petiole 2–6 mm; apex of rachis resembling a terminal leaflet; leaflets 4 to 12, opposite, with linear blade, 3–21 × 0.1–0.8 mm, sparsely strigulose. Inflorescence axillary; raceme 1.5–7 cm in length, including the peduncle of 1–3 cm, with 2 to 10 flowers; bracts subulate, 0.5–1 mm in length. Flower: pedicel 1–5 mm; calyx 1.8–2.8 mm in length, with lobes triangular to subulate, as long to 2 times longer than the tube; corolla red or purplish-pink, standard 4–5 mm in length, wings exceeding the standard and keel, 5–7 mm in length; stamens 2–3 mm. Pod straight, 8–32 × 1–1.7 mm, with 4 to 16 seeds, ± glabrous. Seed rectangular, ± 1 mm in length.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Gabon et République du Congo jusqu’au Kenya, en Tanzanie et en Zambie ; au Gabon, rare, connue de l’Ogooué-Ivindo (Bélinga)
+Gabon and Republic of the Congo to Kenya, in Tanzania and Zambia; in Gabon, rare, known from Ogooué-Ivindo (Bélinga)
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-savane, stations périodiquement marécageuses, terrains ouverts et jachères ; au Gabon vers 500 m d’altitude, ailleurs à 500–1700 m. b : Cronquist (1954), Gillett (1971a), Schrire (1992, 2012). ibliographie
+Savanna, periodically swampy stations, open grounds and fallows; in Gabon around 500 m in altitude, elsewhere at 500–1700 m. Bibliography: Cronquist (1954), Gillett (1971a), Schrire (1992, 2012).
 
 ## Notes
 

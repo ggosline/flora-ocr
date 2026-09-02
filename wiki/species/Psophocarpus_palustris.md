@@ -17,21 +17,15 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Herbe grimpante de 1–6 m de hauteur, noircissant sur le sec . Stipules persistantes, 8–17 mm de longueur. Feuille : pétiole 5–18 cm ; rachis 0,8–5 cm, éparsement pubescent à glabre ; stipelles persistantes oblongues, 2–6 mm de longueur, à sommet tronqué ; folioles 3, à pétiolule de 3–6 mm, limbe elliptique-ovale à légèrement rhomboïdal , parfois un peu trilobé, 2,5–12(–14) × 1,8–10 cm, pubescent dessus et ± pubescent dessous , à base subarrondie à aiguë, à sommet aigu à acuminé, marges ± ciliées. Inflorescence dressée ; pédoncule 3–40 cm . Fleur : pédicelle 2–6 mm ; bractéoles ± caduques, ± elliptiques, 5–6,5 × 4–5 mm, plus courtes que le calice , à pubescence dense ; calice à tube de 5–7 mm de longueur, glabre ou glabrescent, lèvre supérieure ± émarginée, lobes latéraux 1 mm de longueur, l’inférieur ± 2,5 mm de longueur, subulé ; corolle blanche, bleue, bleu violacée ou rougeâtre , noirâtre après séchage , étendard obovale, 15–20 × 12–15 mm, à sommet émarginé, à 2 appendices allongés, ailes oblancéolées, 15–18 × 5 mm, à onglet filiforme de ± 7 mm, carène obtuse, ± 15 × 6 mm, à base subauriculée ; ovaire glabre ou peu pubescent, avec 7 à 10 ovules ; style aplati au sommet, ± 10 mm, stigmate velu-pénicillé. Gousse rectangulaire, émarginée au sommet, 4-ailée , 2,3–5,5 × 1–2 cm, à (3–)4(–5) graines , glabre. Graine 6–7 × 5–7 mm, sans strophiole, à pilosité brune.
+Climbing herb 1–6 m in height, blackening when dry. Stipules persistent, 8–17 mm long. Leaf: petiole 5–18 cm; rachis 0.8–5 cm, sparsely pubescent to glabrous; stipels persistent oblong, 2–6 mm long, with truncate apex; leaflets 3, with petiolule 3–6 mm, blade elliptic-ovate to slightly rhomboidal, sometimes somewhat trilobed, 2.5–12(–14) × 1.8–10 cm, pubescent above and ± pubescent below, with subrounded to acute base, acute to acuminate apex, margins ± ciliate. Inflorescence erect; peduncle 3–40 cm. Flower: pedicel 2–6 mm; bracteoles ± caducous, ± elliptic, 5–6.5 × 4–5 mm, shorter than the calyx, with dense pubescence; calyx with tube 5–7 mm long, glabrous or glabrescent, upper lip ± emarginate, lateral lobes 1 mm long, the lower ± 2.5 mm long, subulate; corolla white, blue, blue-violet or reddish, blackish after drying, standard obovate, 15–20 × 12–15 mm, with emarginate apex, with 2 elongate appendages, wings oblanceolate, 15–18 × 5 mm, with filiform claw ± 7 mm, keel obtuse, ± 15 × 6 mm, with subauriculate base; ovary glabrous or sparsely pubescent, with 7 to 10 ovules; style flattened at apex, ± 10 mm, stigma hairy-penicillate. Pod rectangular, emarginate at apex, 4-winged, 2.3–5.5 × 1–2 cm, with (3–)4(–5) seeds, glabrous. Seed 6–7 × 5–7 mm, without strophiole, with brown pubescence.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-du Sénégal au Cameroun et au Gabon ; au Gabon, connue de l’Estuaire et du Woleu-Ntem
+From Senegal to Cameroon and Gabon; in Gabon, known from Estuaire and Woleu-Ntem
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-forêt secondaire et marécageuse, bords des rivières ; au Gabon jusqu’à 600 m d’altitude, ailleurs jusqu’à 700 m. Fleurs en mai. Usage : Les gousses sont comestibles à l’état jeune, mais cet usage est inconnu au Gabon. Ailleurs, la plante entière est aussi utilisée comme fourrage pour moutons et bœufs, et quelques usages médicinaux ont été notés dans les deux Congo
+Secondary and swampy forest, river margins; in Gabon up to 600 m altitude, elsewhere up to 700 m. Flowers in May. Use: The pods are edible when young, but this use is unknown in Gabon. Elsewhere, the whole plant is also used as fodder for sheep and cattle, and some medicinal uses have been noted in both Congos
 
 ## Vernacular names
 
@@ -39,9 +33,7 @@ haricot ailé, pois carré, pois sauvage (fr.) ; African winged bean (angl.)
 
 ## Source note
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Des auteurs divers (Baker 1872, Pellegrin 1949, Wilczek 1954) ont confondu cette espèce avec la suivante, P. scandens (Endl.) Verdc., qui en est très voisine. Verdcourt (1968) mentionne qu’il a observé une introgression entre les deux. Ainsi les noms vernaculaires et usages diététiques sont identiques. B : Pellegrin (1949), Raponda-Walker & Sillans (1961), Verdcourt (1968), Verdcourt & Hali B liographie liday (1978)
+Various authors (Baker 1872, Pellegrin 1949, Wilczek 1954) have confused this species with the following one, P. scandens (Endl.) Verdc., which is very closely related to it. Verdcourt (1968) mentions that he observed introgression between the two. Thus the vernacular names and dietary uses are identical. B: Pellegrin (1949), Raponda-Walker & Sillans (1961), Verdcourt (1968), Verdcourt & Halliday (1978)
 
 ## Notes
 

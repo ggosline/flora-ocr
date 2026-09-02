@@ -17,13 +17,9 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Leaves with 2 pairs of leaflets, the upper ones opposite, the lower ones alternate. Rachis 3-5 cm. Leaflets oblong-lanceolate, slightly falcate, long-acuminate acute, with cuneiform base, glabrous, 8-11 cm in length 3.5-4 cm in width, riddled with translucent dots. Secondary veins 4-6 pairs, fine, anastomosing, scarcely more prominent than the veinlets of a well-meshed network on both faces. Petiolules about 5 mm.
 
-Feuilles à 2 paires de folioles, les supérieures opposées, les inférieures alternes. Rachis de 3-5 cm. Folioles oblongues-lancéolées, légèrement falciformes, longuement acuminées aiguës, à base cunéiforme, glabres, de 8-11 cm de longueur 3,5-4 cm de
-
-largeur, criblées de points translucides. Nervures secondaires 4-6 paires, fines, anastomosées, à peine plus apparentes que les nervilles d'un réseau bien maillé sur les 2 faces. Pétiolules, d'environ 5 mm.
-
-Panicles à ramifications finement tomenteuses, de 6 cm de longueur environ. Bractées et bractéoles caduques. Sépales 4, glabres, carénés. Un seul grand pétale réniforme, sessile. Étmines 10, à filets un peu velus et un peu soudés à la base. Ovaire hirsute, à stipe court, soudé au fond d'un réceptacle cupuliforme court; 2 ovules.
+Panicles with finely tomentose branches, about 6 cm in length. Bracts and bracteoles caducous. Sepals 4, glabrous, carinate. A single large reniform petal, sessile. Stamens 10, with filaments somewhat villous and somewhat connate at the base. Ovary hirsute, with short stipe, connate at the base of a short cupuliform receptacle; 2 ovules.
 
 ## Type
 

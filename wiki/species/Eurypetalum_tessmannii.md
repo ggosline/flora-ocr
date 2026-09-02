@@ -17,9 +17,7 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Petit arbre. Espèce très proche de E. Batesii et peut-être identique. Le sommet est plus brièvement et parfois obtusément acuminé. Un grand pétale blanc de 6-7 × 12-13 mm, et 4 petits d'environ 1 mm.
+Small tree. Species very close to E. Batesii and perhaps identical. The apex is more briefly and sometimes obtusely acuminate. One large white petal 6-7 × 12-13 mm, and 4 small ones approximately 1 mm.
 
 ## Type
 

@@ -17,23 +17,15 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Liane , jusqu’à 40 m de longueur et à tige atteignant au moins 2,7 cm de diamètre, ou parfois arbuste sarmenteux ; tranche blanc-crème, devenant brun-rouge. Feuille : pétiole 2–3(–12) Botanique Meise (©).
-
-cm, à pubescence apprimée, les deux extrémités pulvinaires, 2–6 mm de longueur ; foliole à limbe ovale, progressivement lancéolé vers le sommet de la branche, (7–)12–17(–23) × (3– )5,5–10 cm, base (semi-)cordée , sommet acuminé, glabre, membraneux, vert, terne ou ± bril lant, plus pâle dessous, feuilles jeunes velues, soyeuses, rousses, puis glabrescentes ; nervures latérales en 7 à 9 paires, ascendantes, saillantes en dessous, poils surtout sur les nervures, glabrescentes . Inflorescence 9–35 cm de longueur , à rameaux velus roux . Fleur : bractéoles 10–12 mm de longueur , vert pâle à rousses, velues, à poils bruns assez longs, dirigés vers le sommet ; calice 4 mm de longueur, à bords pubescents, affaissés à la fin de la floraison et base florale devenant charnue ; corolle glabre, blanc jaunâtre ou violacée , étendard ± 15–17 mm de longueur et de largeur, tacheté de jaune près de la base, ailes et carène obovales, 15–16 mm de longueur ; étamines à filets atteignant ± 10 mm, anthères 2 mm de longueur, jaune foncé ou orange-crème ; ovaire glabre. Gousse subfalciforme , atteignant 8 × 2,5 cm, à extrémitées aiguës, glabre, verte ou gris-vert, puis noire, avec 1 à 3 graines. Graine aplatie, circulaire, 8–10 mm de diamètre, noire.
+Liane, up to 40 m in length and with stem reaching at least 2.7 cm in diameter, or sometimes sarmentose shrub; cross-section cream-white, becoming reddish-brown. Leaf: petiole 2–3(–12) cm, with appressed pubescence, both extremities pulvinate, 2–6 mm in length; leaflet with oval lamina, progressively lanceolate towards the branch apex, (7–)12–17(–23) × (3–)5.5–10 cm, base (semi-)cordate, apex acuminate, glabrous, membranous, green, dull or ± glossy, paler beneath, young leaves hairy, silky, russet, then glabrescent; lateral veins in 7 to 9 pairs, ascending, prominent beneath, hairs chiefly on the veins, glabrescent. Inflorescence 9–35 cm in length, with russet hairy branches. Flower: bracteoles 10–12 mm in length, pale green to russet, hairy, with fairly long brown hairs directed towards the apex; calyx 4 mm in length, with pubescent margins, collapsed at the end of flowering and floral base becoming fleshy; corolla glabrous, yellowish-white or violaceous, standard ± 15–17 mm in length and width, spotted with yellow near the base, wings and keel obovate, 15–16 mm in length; stamens with filaments reaching ± 10 mm, anthers 2 mm in length, dark yellow or cream-orange; ovary glabrous. Pod subfalcate, reaching 8 × 2.5 cm, with acute extremities, glabrous, green or greyish-green, then black, with 1 to 3 seeds. Seed flattened, circular, 8–10 mm in diameter, black.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Cameroun, Guinée équatoriale, Gabon, République du Congo, République démocratique du Congo et Angola ; au Gabon, assez commune dans l’Estuaire, le Haute-Ogooué, le Moyen-Ogooué, la Ngounié, l’Ogooué-Ivindo, l’Ogooué-Lolo, l’Ogooué-Maritime et le Woleu-Ntem
+Cameroon, Equatorial Guinea, Gabon, Republic of the Congo, Democratic Republic of the Congo and Angola; in Gabon, fairly common in the Estuaire, Haute-Ogooué, Moyen-Ogooué, Ngounié, Ogooué-Ivindo, Ogooué-Lolo, Ogooué-Maritime and Woleu-Ntem
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-forêt humide tropicale, bords de route et de rivière ; au Gabon à 100–925 m d’altitude, ailleurs jusqu’à 550 m
+tropical humid forest, roadside and riverside edges; in Gabon at 100–925 m altitude, elsewhere up to 550 m
 
 ## Vernacular names
 
@@ -41,9 +33,7 @@ dibimp-dikodi (bongom)
 
 ## Uses
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Le bois est parfois utilisé pour des petits objets. b : De la Estrella et al. (2010), Pellegrin (1949), Raponda-Walker & Sillans (1961), Tous ibliographie saint (1953)
+The wood is sometimes used for small objects. b: De la Estrella et al. (2010), Pellegrin (1949), Raponda-Walker & Sillans (1961), Tous ibliographie saint (1953)
 
 ## Notes
 

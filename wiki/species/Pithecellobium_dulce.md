@@ -17,17 +17,13 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 KEAY, FWTA, ed. 2, 2 (1): 485 (1958); BRENAN, FTEA, Legum. Mimos.: 165 (1959); FZ 3(1): 11 (1970); KEAY, ONOCHIE & STANFIELD, Niger. Trees 2: 78 (1964); BERHAUT, Fl. Sénégal, ed. 2: 43, 49 (1967); Fl. illustr. Sénégal 4: 573, tab. p. 574 (1975). – Mimosa dulcis Roxb., Pl. Corom. 1: 67, tab. 99 (1975).
 
-Arbuste à arbre élancé atteignant 20 m, fortement ramifié. Tronc annelé. Rhytidome marron à nombreuses lenticelles blanches. Stipules épineuses, longues de 2-3 mm, souvent émoussées au sommet. Feuilles fréquemment groupées sur un coussinet ligneux entre les stipules. Pétiole éparsement pubescent, long de 3-22 mm, fortement canaliculé.
+Shrub to slender tree reaching 20 m, strongly branched. Trunk ringed. Rhytidome brown with numerous white lenticels. Stipules spiny, 2-3 mm long, often blunt at the apex. Leaves frequently grouped on a woody cushion between the stipules. Petiole sparsely pubescent, 3-22 mm long, strongly canaliculate above with a prominent crest in the canalicule, prominent gland at the apex of the upper surface. Pinnae 1 pair. Pinna axis sparsely pubescent, 1-9 mm long, canaliculate above, gland at the apex of the upper surface, sometimes mucro at the apex of the lower surface. Leaflets 1 pair per pinna. Petiolule short, broad, wrinkled, non-canaliculate. Blade glabrous on both surfaces, greyish-green above and dark green slightly brown below when dry; elliptic to broadly elliptic, strongly asymmetric, 0.8-4 × 0.5-2 cm; base asymmetric: proximal margin rounded to weakly attenuate and distal margin ± strongly attenuate; apex rounded ± retuse, shortly mucronate. Midvein straight or arched; prominent on both surfaces. Secondary nerves 6-8 pairs, ascending, very slightly or not arched, prominent on both surfaces. Nervilles in dense prominent reticulation on both surfaces.
 
-dessus avec crête saillante dans le canalicule, glande saillante au sommet de la face supérieure. Pennes 1 paire. Axe de la penne éparsement pubescent, long de 1-9 mm, canalicule dessus, glande au sommet de la face supérieure, parfois mucron au sommet de la face inférieure. Folioles 1 paire par penne. Pétiolule court, large, ridé, non canaliculé. Limbe glabre sur les deux faces, gris verdâtre dessus et vert foncé légèrement marron dessous sur le sec ; elliptique à largement elliptique, fortement asymétrique,  $ 0,8-4 \times 0,5-2 $ cm ; base asymétrique : bord proximal arrondi à faiblcment atténué et bord distal ± fortement atténué ; sommet arrondi ± rétus, courtement mucroné. Nervure principale rectiligne ou arquée ; saillante sur les deux faces. Nervures secondaires 6-8 paires, ascendantes, très peu ou pas arquées, saillantes sur les deux faces. Nervilles en réseau dense saillant sur les deux faces.
+Inflorescence axillary in a raceme of capitules. Axis 8-31 cm long, bearing ovoid glands surrounded by bracts at the base of the capitules. Capitule peduncle pubescent, 4-10 mm long. Capitule globose, 4-6 mm in diameter. Floral bud ellipsoid. Flower ♢, pentamerous (or hexamerous), yellow in life. Sepals connate, pubescent externally, greyish or greenish glaucous in life, ± 1 mm long, apex acute ± hirsute. Petals connate into a tube, pubescent externally towards the apex, 3 mm long, lobes narrowly lanceolate, 1.25 mm long, apex acute. Stamens very numerous, exsert, cream-coloured in life, connate to each other by the filament for ± 2 mm; filament 6-7 mm long, sinuous; anther ellipsoid 0.25 mm long. Pistil cream to reddish in life, with glabrous stipe 1 mm long; ovary pubescent ± 3 mm long with 12 ovules; style slender ± 6.5 mm long, with globose stigma.
 
-Inflorescence axillaire en grappe de capitules. Axe long de 8-31 cm, portant des glandes ovoïdes entourées de bractées à la base des capitules. Pédoncule du capitule pubescent, long de 4-10 mm. Capitule globuleux, 4-6 mm de diamètre. Bouton floral ellipsoïde. Fleur ♢, pentamère (ou hexamère), jaune sur le vivant. Sépales soudés, pubescents extérieurement, grisâtre ou verdâtre glauque sur le vivant, longs de ± 1 mm, sommet aigu ± hirsute. Pétales soudés en tube, pubescents extérieurement vers le sommet, longs de 3 mm, lobes étroitement lancéolés, longs de 1,25 mm, sommet aigu. Étamines très nombreuses, exsertes, de couleur crème sur le vivant, soudées entre elles par le filet sur ± 2 mm ; filet long de 6-7 mm, sinueux ; anthère ellipsoïde longue de 0,25 mm. Pistil crème à rougeâtre sur le vivant, à stipe glabre long de 1 mm ; ovaire pubescent long de ± 3 mm à 12 ovules ; style grêle long de ± 6,5 mm, à stigmate globuleux.
-
-Gousse déhiscente pubescente à la base et sur les sutures, beaucoup plus éparsement à subglabre sur les faces latérales ; étroitement elliptique oblongue, courbe à enroulée, atteignant une longueur de 20,5 cm ; étranglée entre les graines ; base cunéiforme stipitée ; faces latérales à nervation très saillante ; sommet aigu apiculé. Graines 7, noires entourées par un arille charnu blanc à rougeâtre ; largement obvées, aplaties transversalement, 8-10 × 7-8 mm ; aréole visible, centrale, de même forme que la graine. – Pl. 41, Fig. 4-9, p. 173.
+Pod dehiscent pubescent at the base and on the sutures, much more sparsely to subglabrous on the lateral faces; narrowly elliptic-oblong, curved to coiled, reaching 20.5 cm in length; constricted between the seeds; base cuneate stipitate; lateral faces with very prominent venation; apex acute apiculate. Seeds 7, black surrounded by a fleshy white to reddish aril; broadly obovate, flattened transversely, 8-10 × 7-8 mm; areole visible, central, of the same shape as the seed. – Pl. 41, Fig. 4-9, p. 173.
 
 ## Type
 
@@ -35,15 +31,11 @@ Roxburgh in Wallich 5282, Inde : Coromandel, cultivé (K, peinture du type n° 4
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Cette espèce est originaire d'Amérique. Elle a été introduite comme plante ornamentale dans de nombreuses régions tropicales. A rechercher au Gabon.
+This species is native to America. It has been introduced as an ornamental plant in numerous tropical regions. To be sought in Gabon.
 
 ## Uses
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-l'arille est comestible
+the aril is edible
 
 ## Figures
 

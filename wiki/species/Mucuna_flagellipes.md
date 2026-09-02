@@ -17,21 +17,15 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Liane , tige jusqu’à 12 m de longueur ; rameaux grêles, jusqu’à 3 cm d’épaisseur, ± glabrescents. Stipules caduques, lancéolées, petites. Feuille : pétiole 8–15 cm de longueur, grêle, peu poilu, devenant glabre ; rachis comparable, 3–4 cm ; stipelles très caduques, linéaires, 1 cm ; foliole papyracée à subcoriace, pétiolule 5–8 mm, glabrescent à glabre, la terminale à limbe ovale, 10–15 × 5–8 cm, base obtuse ou arrondie, sommet acuminé ou cuspidé, les latérales plus larges, les deux faces peu poilues sur les nervures. Inflorescence pendante, sur un pédoncule très long et grêle atteignant 3 m , terminé en un axe en zigzag de 10–20 cm et renflé aux nœuds ; bractées caduques, carénées, 3–4 cm de longueur, aiguës au sommet, densément mais courtement velues, grises. Fleur pendante ; pédicelle 8–20 mm ; calice 10–15 mm de longueur, à poils gris soyeux apprimés et à soies raides, rousses, rares, longues, ± rapidement caduques ; corolle jaunâtre ou verdâtre , 3–4 cm de longueur. Gousse oblongue , 9–18 × 5–6 × 1,5–2 cm, sommet obtus, parfois mucroné, avec 2 ou 3 graines , coriace, avec de grosses crêtes ou rides transversales irrégulières , légèrement étranglée entre les graines, à poils hirsutes urticants, roux. Graine ± 3 cm de diamètre et 1,5 cm d’épaisseur, noire ; hile couvrant 4 / de la circonférence de la graine. 5
+Vine, stem up to 12 m long; slender branches, up to 3 cm thick, ± glabrescent. Stipules caducous, lanceolate, small. Leaf: petiole 8–15 cm long, slender, sparsely hairy, becoming glabrous; rachis comparable, 3–4 cm; stipels very caducous, linear, 1 cm; leaflet papyraceous to subcoriaceous, petiolule 5–8 mm, glabrescent to glabrous, the terminal one with oval lamina, 10–15 × 5–8 cm, base obtuse or rounded, apex acuminate or cuspidate, the lateral ones broader, both surfaces sparsely hairy on the nerves. Inflorescence pendulous, on a very long and slender peduncle reaching 3 m, terminated in a zigzag axis 10–20 cm and swollen at the nodes; bracts caducous, keeled, 3–4 cm long, acute at the apex, densely but shortly velutinous, grey. Flower pendulous; pedicel 8–20 mm; calyx 10–15 mm long, with appressed silky grey hairs and with rare stiff, reddish setae, long, ± rapidly caducous; corolla yellowish or greenish, 3–4 cm long. Pod oblong, 9–18 × 5–6 × 1.5–2 cm, apex obtuse, sometimes mucronate, with 2 or 3 seeds, coriaceous, with large irregular transverse ridges or wrinkles, slightly constricted between the seeds, with hirsute urticant hairs, reddish. Seed ± 3 cm in diameter and 1.5 cm thick, black; hilum covering 4/5 of the seed circumference.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Afrique tropicale de l’Ouest jusqu’à l’Ouganda et l’Angola ; au Gabon, connue de l’Es tuaire, du Moyen-Ogooué, de la Ngounié, de la Nyanga, de l’Ogooué-Ivindo, de l’Ogooué-Lolo et du Woleu-Ntem
+Tropical West Africa to Uganda and Angola; in Gabon, known from the Estuary, the Middle Ogooué, the Ngounié, the Nyanga, the Ogooué-Ivindo, the Ogooué-Lolo and the Woleu-Ntem.
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-lisière de forêt humide, surtout près de rivières, forêt secondaire, bords de route, aussi près des plages ; au Gabon à 0–500 m d’altitude, ailleurs jusqu’à 1400 m. Fleurs et fruits en janvier, mars, avril, août, et d’octobre à décembre, pas toujours ensemble. Usage : Les feuilles et l’écorce donnent une teinture noire pour poteries et tissus. Au Nigéria, on mange les feuilles comme légume, surtout en cas de famine. La gomme émulsifiante dans les graines a des pro priétés pharmacologiques et technologiques pour traiter les aliments
+Forest edge, humid forest, especially near rivers, secondary forest, roadsides, also near beaches; in Gabon at 0–500 m altitude, elsewhere up to 1400 m. Flowers and fruits in January, March, April, August, and October to December, not always together. Uses: The leaves and bark yield a black dye for pottery and fabrics. In Nigeria, the leaves are eaten as a vegetable, especially in times of famine. The emulsifying gum in the seeds has pharmacological and technological properties for treating foodstuffs.
 
 ## Vernacular names
 

@@ -17,27 +17,19 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Arbuste parfois sarmenteux ou lianescent, ou arbre de (2–)5–8(–15) m de hauteur ; ramilles finement veloutées et lenticellées, les terminales un peu fistuleuses. Stipules caduques. Feuille 30–40 cm de longueur ; pétiole et rachis cylindriques et striés, glabrescents ; stipelles nulles ; folioles (5–)7 à 11 , pétiolule 5–8 mm, velu, limbe oblong à lancéolé, 9–26 × 5–9 cm, assez brusquement acuminé au sommet, papyracé, glabre ou peu poilu sur les nervures saillantes en 7 à 9 paires dessous, vert foncé sur les deux faces, muni de petits pointes translucides , les aréoles munies dessous d’une ou quelques glandes (protubérances) minuscules noirâtres, peu marquées. Inflorescence terminale, 20–35 cm de longueur ; brachyblastes globuleux, 2–5 mm ; bractées très caduques, triangulaires, 5 × 1,5 mm. Fleur : pédicelle 2–4 mm ; bractéoles ovales-losangiques, ± 1 mm de longueur, à la base du calice ; calice tronquée, soyeux exté rieurement, tube ± 5 mm de longueur ; corolle violet rose à blanche ou bleuâtre ; étendard à onglet de 4 mm, limbe ± circulaire, ± 10 × 15 mm, densément apprimé poilu grisâtre sur le dos , base tronquée, sommet peu émarginé, ailes à onglet de 7 mm, limbe obovale-oblong, 7 mm de longueur, carène à onglet et limbe de ± 7 mm poilu près de la marge supérieure ; étamine vexillaire très courtement libre à la base ; disque annulaire ; ovaire linéaire, ± 6 mm de longueur, soyeux ; style courbé, ± 7 mm, glabre. Gousse étroitement oblongue , atteignant 13 × 2 cm , bec courbé , à 4 graines, valves à tomentum apprimé court et dense, brun pâle ou chocolat, sutures doublées. Graine orbiculaire, aplatie, 15 × 15 × 3–4 mm, marron.
+Shrub sometimes sarmentose or lianescent, or tree of (2–)5–8(–15) m in height; branchlets finely velutinous and lenticellate, the terminal ones somewhat fistulose. Stipules caducous. Leaf 30–40 cm in length; petiole and rachis cylindric and striate, glabrescent; stipels absent; leaflets (5–)7 to 11, petiolule 5–8 mm, pubescent, blade oblong to lanceolate, 9–26 × 5–9 cm, rather abruptly acuminate at apex, papyraceous, glabrous or slightly hairy on the prominent veins in 7 to 9 pairs beneath, dark green on both surfaces, furnished with small translucent points, the areoles provided beneath with one or a few minute blackish glands (protuberances), scarcely marked. Inflorescence terminal, 20–35 cm in length; brachyblasts globose, 2–5 mm; bracts very caducous, triangular, 5 × 1.5 mm. Flower: pedicel 2–4 mm; bracteoles oval-rhombic, ± 1 mm in length, at the base of the calyx; calyx truncate, silky externally, tube ± 5 mm in length; corolla violet-pink to white or bluish; standard with claw 4 mm, blade ± circular, ± 10 × 15 mm, densely appressed greyish-hairy on the back, base truncate, apex slightly emarginate, wings with claw 7 mm, blade obovate-oblong, 7 mm in length, keel with claw and blade of ± 7 mm hairy near the upper margin; vexillary stamen very shortly free at the base; disk annular; ovary linear, ± 6 mm in length, silky; style curved, ± 7 mm, glabrous. Pod narrowly oblong, reaching 13 × 2 cm, beak curved, 4-seeded, valves with short dense appressed tomentum, pale brown or chocolate, sutures doubled. Seed orbicular, flattened, 15 × 15 × 3–4 mm, brown.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Sierra Léone, Guinée, Libéria, Cameroun, République centrafricaine et Gabon ; au Gabon, connue de l’Ogooué-Ivindo, de l’Ogooué-Lolo et du Woleu-Ntem
+Sierra Leone, Guinea, Liberia, Cameroon, Central African Republic and Gabon; in Gabon, known from Ogooué-Ivindo, Ogooué-Lolo and Woleu-Ntem
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-forêt dense et chutes d’eau, forêt côtière, savane ; à 0–750 m d’altitude. Fleurs et fruits presque toute l’année. Usage : L’espèce a plusieurs usages en médécine traditionelle en Afrique de l’Ouest, la République démocratique du Congo et le Cameroun
+Dense forest and waterfalls, coastal forest, savanna; at 0–750 m in altitude. Flowers and fruits almost throughout the year. Use: The species has several uses in traditional medicine in West Africa, the Democratic Republic of the Congo and Cameroon
 
 ## Source note
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-On trouve des petites taches au milieu des réticulations du réseau tertiaire du dessous des folioles, parfois un peu surélevées. Ressemble beaucoup à Lonchocarpus sericeus , mais les gousses sont plus larges et moins longues, sans rétrécissements, et les folioles n’ont pas de points translucides chez cette dernière. Hepper (1958) mentionne la présence des stipelles, non vues dans nos échantillons gabonais et camerounais. b : Hepper (1958), Pellegrin (1949). ibliographie
+Small spots are found in the middle of the reticulations of the tertiary network on the underside of the leaflets, sometimes slightly raised. Resembles Lonchocarpus sericeus very much, but the pods are wider and less long, without constrictions, and the leaflets lack translucent points in the latter. Hepper (1958) mentions the presence of stipels, not seen in our Gabonese and Cameroonian specimens. b: Hepper (1958), Pellegrin (1949). ibliography
 
 ## Notes
 

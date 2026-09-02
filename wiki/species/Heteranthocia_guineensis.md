@@ -11,7 +11,7 @@ tags: [species, generated]
 ---
 # *Heteranthocia guineensis* (Franch.) Robyns.
 
-**Genus**: [[Heteranthocia]]
+**Genus**: [[Heteranthoecia]]
 **Family**: [[Gramineae]]
 
 ## Synonyms
@@ -118,6 +118,6 @@ II. ANDROPOGONÉES
 
 ## See also
 
-- [[Heteranthocia]]
+- [[Heteranthoecia]]
 - [[Gramineae]]
 - [[vol05]]

@@ -21,11 +21,9 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Trees. Young branchlets hirsute ferruginous. Stipules intrapetiolar, 4 mm long. Leaves with 10–12 pairs of opposite leaflets. Rachis 2–3 cm long, densely velutinous ferruginous. Leaflets linear-oblong, 6–10 × 2–2.5 mm; apex rounded or slightly emarginate, base obliquely truncate parallel to the rachis, unequal, not auriculate.
 
-Arbres. Rameaux jeunes hirsutes ferrugineux. Stipules intrapétiolaires, longues de 4 mm. Feuilles à 10-12 paires de folioles opposées. Rachis long de 2-3 cm, densément velu ferrugineux. Folioles linéaires-oblongues, de 6-10 × 2-2,5 mm; sommet arrondi ou légèrement émarginé, base tronquée obliquement parallèle au rachis, inégale, non auriculée.
-
-Inflorescences en épis à l'aisselle des feuilles terminales, de 6-15 cm de longueur; axe glabre. Pédicelles de 4-8 mm, glabres, à l'aisselle de petites bractées écailleuses, ciliées, caduques. Bractéoles glabres, d'environ  $ 3 \times 2 $ mm. Réceptacle glabre. Sépales minuscules, dentelés, glabres, longs de 0,5-0,75 mm. Pétales subulés, blancs, longs de 1-2 mm. Étamines 5, de 4,5-5 mm de longueur; anthères rouges. Ovaire stipité, densément velu; 4-5 ovules. Style grêle. Stigmate capité. Fruit inconnu.
+Inflorescences in spikes at the axil of terminal leaves, 6–15 cm long; axis glabrous. Pedicels 4–8 mm, glabrous, at the axil of small scaly bracteoles, ciliate, caducous. Bracteoles glabrous, approximately 3 × 2 mm. Receptacle glabrous. Sepals minute, denticulate, glabrous, 0.5–0.75 mm long. Petals subulate, white, 1–2 mm long. Stamens 5, 4.5–5 mm long; anthers red. Ovary stipitate, densely velutinous; 4–5 ovules. Style slender. Stigma capitate. Fruit unknown.
 
 ## Type
 
@@ -33,9 +31,7 @@ Walker 18 (P), Fernan-Vaz, Gabon (fl. janv.). Arbre poussant sur les sols sablon
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Oldeman et Normand ont émis des doutes sur les indications de port données par Walker; ils ont suggéré que cette espèce pouvait être une liane. Elle n'est connue jusqu'à présent que par l'holotype.
+Oldeman and Normand expressed doubts about the habit information given by Walker; they suggested that this species could be a liane. It is known thus far only from the holotype.
 
 ## Figures
 

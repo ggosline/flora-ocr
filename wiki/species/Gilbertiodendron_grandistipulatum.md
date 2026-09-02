@@ -22,13 +22,11 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Trees. Leaves 5-8 jugate. Stipules fused into a persistent intrapetiolary lamina reaching up to 20 cm in length, without auricles. Leaflets oblong or lanceolate, attenuate at the apex, reaching up to 40 cm in length by 10 cm in width.
 
-Arbres. Feuilles 5-8 juguées. Stipules soudées en une lame intrapétiolaire persistante pouvant atteindre 20 cm de longueur, sans oreillettes. Folioles oblongues ou lancéolées, atténuées au sommet, pouvant atteindre 40 cm de longueur sur 10 de largeur.
+Strong terminal panicles with very thick, ferruginous tomentose axes, up to 40 cm in length. Bracts 2-3 cm long, caducous. Bracteoles 3.5 to 4.5 cm in length by 2.5-3 cm in width, ferruginous tomentose externally. Sepals 4, 2 to 4 cm in length, red, the median one bifid and widest. Large median white petal up to 10 × 12 cm including a claw of 2-3 cm, the other petals linear 2 cm in length. Stamens 3, 4.5 cm long, 2 of 6-10 mm and 4 filiform staminodes of 1 mm. Ovary densely ferruginous hairy.
 
-Fortes panicules terminales à axes très épais, tomenteux ferrugineux, jusqu'à 40 cm de longueur. Bractées longues de 2-3 cm, caduques. Bractéoles de 3,5 à 4,5 cm de longueur sur 2,5-3 cm de largeur, tomenteuses ferrugineuses extérieurement. Sépales 4 de 2 à 4 cm de longueur, rouges, le médiان bifide le plus large. Grand pétale médiان blanc jusqu'à 10 × 12 cm y compris un onglet de 2-3 cm, les autres pétales linéaires de 2 cm de longueur, Étamines 3, longues de 4,5 cm, 2 longues de 6-10 mm et 4 staminodes filiformes de 1 mm. Ovaire densément velu ferrugineux.
-
-Grandes gousses longues de 20-30 cm, à 2 nervures longitudinales.
+Large pods 20-30 cm long, with 2 longitudinal nerves.
 
 ## Type
 
@@ -36,9 +34,7 @@ de Briey 65, Mayombe (BR)
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Espèce du Gabon et du Mayombe.
+Species from Gabon and Mayombe.
 
 ## Specimens examined
 

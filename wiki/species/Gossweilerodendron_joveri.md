@@ -15,17 +15,15 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Normand ex Aubréville, sp. nov. $ ^{1} $
+Normand ex Aubréville, sp. nov. $^{1}$
 
 Oduma (PL. 33, p. 149)
 
-Grands arbres résinfères. Feuilles glabres à 4-5 folioles alternes, oblongues, acuminées obtusément, d'environ 8 × 2,5 cm. Limbe papyracé, criblé de points translucides. Très nombreuses nervures secondaires tracées jusqu'à la nervure marginale, visibles dessous, mais ne constituant pas avec les nervilles un réseau finement saillant sur les 2 faces comme chez G. balsamiferum. Pétioiules de 5 mm.
+Large resiniferous trees. Leaves glabrous with 4-5 alternate, oblong, obtusely acuminate leaflets, approximately 8 × 2.5 cm. Lamina papyraceous, riddled with translucent dots. Very numerous secondary nerves extending to the marginal nerve, visible beneath, but not forming with the veinlets a finely prominent network on both surfaces as in G. balsamiferum. Petiolules 5 mm.
 
-Panicles de très petites fleurs. Axes finement velus. Pédi-celles env. 1,5 mm. Sépales glabres.
+Panicles of very small flowers. Axes finely pubescent. Pedicels approximately 1.5 mm. Sepals glabrous.
 
-Jeunes fruits samaroïdes, stipités. Les fruits les développés observés atteignent 12 cm de longueur avec une aile de 33 mm de largeur; l'extrémité contenant les cotylédons paraît rester longue et étroite, arquée ou presque droite.
+Young samaroid fruits, stipitate. The most developed fruits observed reach 12 cm in length with a wing 33 mm wide; the extremity containing the cotyledons appears to remain long and narrow, curved or nearly straight.
 
 ## Type
 
@@ -33,13 +31,11 @@ Normand s. n. bois exploité par Juan Jover env. de Sendye Guinée espagnole (P)
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 1. Gossweilerodendron Joveri Normand ex Aubréville. — Arbores magna resinosæ. Folia glabra foliolis 4-5 alternis, oblongis, obtuse acuminatis, 8 cm longis, 2,5 cm latis. Lamina papyracea, punctis perlucidis crebris conspersa. Nervi secundarii permulti usque ad nervum marginem, descripti subtus conspicui, sed non cum nervulis reticulum utraque pagina tenuiter prominentem sicut in G. balsamifera formantes. Petioluli 5 mm longi. Paniculæ floribus minimus. Axes tenuiter villosi, Pedicelli circ. 1,5 mm longi. Sepala glabra. Fructus novi samaras revocantes, stipitati, maturi adhuc ignoti.
 
-Grands arbres au fût droit, cylindrique jusqu'à la base. Aubier secrétant une résine jaune.
+Large trees with a straight, cylindrical trunk to the base. Sapwood secreting a yellow resin.
 
-L'espèce jusqu'à présent est connue de la Guinée espagnole, du Cameroun et du Gabon où elle cohabite avec G. balsamiferum avec lequel elle est probablement souvent confondue.
+The species is so far known from Spanish Guinea, Cameroon and Gabon where it coexists with G. balsamiferum with which it is probably often confused.
 
 ## Vernacular names
 

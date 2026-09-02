@@ -16,9 +16,7 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Diagnosis : Leptoderris aurantiacae Dunn affinis stipellis longis et alis in longitudine carinam aequan tibus, sed ab ea differt bracteolis brevibus et indumento papillato foliorum facie inferiore ; Leptoderris brachypterae (Benth.) Dunn affinis indumento, sed ab ea differt stipellis longis et floribus multo minori bus alis in longitudine carinam aequantibus.
+Diagnosis: Leptoderris aurantiacae Dunn affinis stipellis longis et alis in longitudine carinam aequantibus, sed ab ea differt bracteolis brevibus et indumento papillato foliorum facie inferiore; Leptoderris brachypterae (Benth.) Dunn affinis indumento, sed ab ea differt stipellis longis et floribus multo minoribus alis in longitudine carinam aequantibus.
 
 ## Type
 
@@ -26,23 +24,17 @@ Gabon, Estuaire, environs de Libreville, Klaine 1418 (holo- : P) ; ibidem, Klain
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 Vries, Naturalis Biodiversity Center (©).
 
-mm, ailes ± aussi longues que la carène, à auricule de 1–1,5 mm ; étamines ± aussi longues que la carène, 6–7 mm de longueur, glabres, anthères 0,3 mm de longueur ; pistil 6–7 mm de longueur à ovaire à poils apprimés. Gousse et graine inconnues.
+mm, wings ± as long as the keel, with auricle of 1–1.5 mm; stamens ± as long as the keel, 6–7 mm in length, glabrous, anthers 0.3 mm in length; pistil 6–7 mm in length with ovary with appressed hairs. Pod and seed unknown.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-endémique du Gabon, connue de l’Estuaire et du Moyen Ogooué
+endemic to Gabon, known from Estuaire and Moyen Ogooué
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-forêt primaire et secondaire ; à basse altitude
+primary and secondary forest; at low altitude
 
 ## Notes
 

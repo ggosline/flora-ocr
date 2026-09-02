@@ -22,15 +22,13 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Trees. Leaves with 11–21 alternate or subopposite leaflets, the terminal leaflets being larger than the lower ones. Rachis 7–15 cm long, rusty pubescent. Leaflets oblong, obtuse or acute at apex, rounded at base, except the terminal leaflet which is ± acute at each end, 1.5–7 cm long by 0.6–2.5 cm wide. Blade slightly rusty pubescent beneath, sometimes dotted with translucent points. About ten curved lateral nerves, pubescent beneath.
 
-Arbres. Feuilles à 11-21 folioles alternes ou subopposées, les folioles terminales étant plus grandes que les inférieures. Rachis longs de 7-15 cm, pubescent roussâtre. Folioles oblongues, obtuses ou aiguës au sommet, arrondies à la base, sauf la foliole terminale qui est ± aiguë à chaque extrémité, de 1,5-7 cm de longueur sur 0,6-2,5 cm de largeur. Limbe un peu pubescent roussâtre dessous, parfois criblé de points translucides. Une dizaine de nervures latérales arquées, pubescentes dessous.
+Venule reticulum lax. Petiolules pubescent, rusty, 2 mm long.
 
-Réticulum de nervilles lâche. Pétiolules pubescents, roussâtres, de 2 mm de longueur.
+Panicles with rusty tomentose axes. Receptacle greenish, rusty tomentose above. Petals 0. 2 stamens with golden-yellow anthers.
 
-Panicules à axes duveteux roussâtes. Réceptacle verdâtre, duveteux roussâtre en dessus. Pétale 0. 2 étamines à anthères jaune doré.
-
-Fruits globuleux, veloutés brunâtre, de 2 cm environ de diamètre.
+Fruits globose, rusty velvety, approximately 2 cm in diameter.
 
 ## Type
 
@@ -38,11 +36,9 @@ Dinklage 1709, Libéria
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Medium-sized tree, rarely exceeding 50 cm in diameter and 20 m in total height. Trunk without buttresses. Bark smooth with thin fracture.
 
-Arbre moyen, dépassant rarement 50 cm de diamètre et 20 m de hauteur totale. Tronc sans contreforts. Écorce lisse à tranche mince.
-
-Cette espèce est très répandue depuis la Guinée, jusqu'à la cuvette congolaise. Elle se rencontre partout en forêt et forme parfois des peuplements au bord des rivières.
+This species is very widespread from Guinea to the Congo Basin. It is encountered everywhere in forest and sometimes forms stands along riverbanks.
 
 ## Vernacular names
 

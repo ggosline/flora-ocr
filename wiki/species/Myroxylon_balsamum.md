@@ -17,23 +17,15 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Arbre atteignant 45 m de hauteur ; tronc jusqu’à 1 m de diamètre, droit ; couronne globuleuse , à feuillage dense ; rameaux ascendants ; écorce lisse, grise, à lenticelles abondantes, entaille jaunâtre à odeur repoussante. Feuille 8–20 cm de longueur ; pétiole 1–4 cm ; rachis 5–15 cm, pubescent ; folioles 4 à 11 , à pétiolule pubescent, limbe elliptique à lancéolé, 3–14 × 2–7 cm, base obtuse, sommet courtement acuminé, avec des petites glandes rondes et allon gées translucides dessous, vert dessus et dessous, nervure principale brune dessus, brune et glabrescente dessous. Inflorescence en un racème atteignant 20 cm de longueur, avec 15 à 30 fleurs solitaires ou parfois par 2 ; pédoncule courtement pubescent ; bractées ± 1 mm de longueur, brunes pubescentes. Fleur : pédicelle 1–2,5 cm ; bractéoles caduques, sous le calice, minuscules, brunes ; calice gris, pubescent, tube ± 5 mm de longueur, lobes triangulaires, 1–2 mm de longueur, étalés ; corolle blanchâtre , étendard à onglet de 3–5 mm, limbe orbiculaire, ± 10 × 8 mm, autres pétales ± égaux, étroits et spatulés, ± 8 × 2 mm ; étamines : filaments 6–8 mm, bruns, anthères ± 4 mm de longueur, jaunes, s’ouvrant au sommet et y produisant une
-
-goutte ; ovaire étroitement elliptique-obovale, 10–12 × 2 mm, brun, glabre, à 1 ou 2 ovules ; style recourbé au sommet, 2–3 mm, stigmate grêle. Gousse ± spathulée, aplatie , 8–13 × 2–3 × 1 cm, pendante, brun jaunâtre, aile supérieure plus large que l’inférieure, nervure centrale oblique et se terminant en une pointe latérale. Graine subréniforme, 12–18 mm de longueur, brun pâle.
+Tree reaching 45 m in height; trunk up to 1 m in diameter, straight; crown globose, with dense foliage; branches ascending; bark smooth, grey, with abundant lenticels, yellowish when cut with repellent odour. Leaf 8–20 cm in length; petiole 1–4 cm; rachis 5–15 cm, pubescent; leaflets 4 to 11, with pubescent petiolule, limb elliptic to lanceolate, 3–14 × 2–7 cm, base obtuse, apex shortly acuminate, with small round and elongate translucent glands beneath, green above and beneath, main vein brown above, brown and glabrescent beneath. Inflorescence a raceme reaching 20 cm in length, with 15 to 30 flowers solitary or sometimes in pairs; peduncle shortly pubescent; bracts ± 1 mm in length, brown pubescent. Flower: pedicel 1–2.5 cm; bracteoles caducous, below the calyx, minute, brown; calyx grey, pubescent, tube ± 5 mm in length, lobes triangular, 1–2 mm in length, spreading; corolla whitish, standard with claw 3–5 mm, limb orbicular, ± 10 × 8 mm, other petals ± equal, narrow and spatulate, ± 8 × 2 mm; stamens: filaments 6–8 mm, brown, anthers ± 4 mm in length, yellow, opening at the apex and producing a drop there; ovary narrowly elliptic-obovate, 10–12 × 2 mm, brown, glabrous, with 1 or 2 ovules; style curved at the apex, 2–3 mm, stigma slender. Pod ± spatulate, flattened, 8–13 × 2–3 × 1 cm, pendulous, yellowish-brown, upper wing wider than the lower, central vein oblique and terminating in a lateral point. Seed subreniform, 12–18 mm in length, pale brown.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-espèce d’Amérique tropicale, plantée aussi ici et là ; au Gabon, à l’arboretum de Sibang et probablement ailleurs
+species of tropical America, also planted here and there; in Gabon, at the Sibang arboretum and probably elsewhere
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-forêts humides tropicales sempervirentes, sur sols bien drainés ou collines ; entre 100 et 600 m d’altitude. Usage : Le bois est utilisé pour parquet, meubles, objets de décoration, etc. L’exsudat est utilisé pour la production du baume du Pérou
+humid tropical evergreen forests, on well-drained soils or hills; between 100 and 600 m in altitude. Uses: The wood is used for flooring, furniture, decorative objects, etc. The exudate is used for the production of Peru balsam
 
 ## Vernacular names
 

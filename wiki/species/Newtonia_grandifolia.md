@@ -17,17 +17,15 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Tree. Young branches pubescent. Stipules pubescent, linear, 3.5–4 mm long, apex acute, early caducous. Petiole densely pubescent to ± hirsute (erect hairs), cylindric, 2–3 cm long, canaliculate above. Rachis densely pubescent to ± hirsute, 10–40 cm long; upper surface canaliculate bearing a gland at the insertion of the pinnae pairs. Pinnae 7–21 pairs. Pinna axis pubescent to ± hirsute 4–10 cm long, carinate above. Leaflets 20–23 pairs, sessile. Blade glabrous on both surfaces, blackish above and brown below when dry, very narrowly oblong rhombic, reaching 9.5 × 2 mm, base asymmetric: proximal margin auriculate (auriculate margins of a leaflet pair sometimes overlapping) and distal margin rounded attenuate, margin sometimes ciliate, apex subobtuse. Midvein submedian to
 
-Arbre. Jeunes rameaux pubescents. Stipules pubescentes, linéaires, longues de 3,5-4 mm, sommet aigu, tôt caduques. Pétiole densément pubescent à ± hirsute (poils dressés), cylindrique, long de 2-3 cm, canaliculé dessus. Rachis densément pubescent à ± hirsute, long de 10-40 cm ; face supérieure canaliculée portant une glande à l'insertion des paires de pennes. Pennes 7-21 paires. Axe de la penne pubescent à ± hirsute long de 4-10 cm, caréné dessus. Folioles 20-23 paires, sessiles. Limbe glabre sur les 2 faces, noirâtres dessus et marron dessous sur le sec, très étroitement oblong rhombique, atteignant 9,5 × 2 mm, base asymétrique : bord proximal auriculé (bords auriculés d'une paire de folioles se recouvrant parfois) et bord distal arrondi atténué, marge parfois ciliée, sommet subobtus. Nervure principale submédiane à
+1. RAPONDA-WALKER & SILLANS, in Pl. ut. Gabon, give this name, by error, to N. duparquetiana.
 
-1. RAPONDA-WALKER & SILLANS, dans Pl. ut. Gabon, donnent ce nom, par erreur à N. duparquetiana.
+median, prominent on both surfaces (especially below). Remainder of venation not visible to weakly prominent below.
 
-médiane, saillante sur les deux faces (surtout dessous). Reste de la nervation non visible à faiblement saillant dessous.
+Inflorescence and flower unknown.
 
-Inflorescence et fleur inconnues.
-
-Gousse glabre, coriace, brun noir luisant sur le sec, très étroitement elliptique oblongue,  $ 38-40 \times 1,8-2 \, cm $, base stipitée (stipe long de 2,5-4 cm); bourrelets suturaux nettement épaissis; faces avec nervation ascendante oblique saillante; sommet aigu apiculé. Graine ailée papyracée, elliptique à oblongue,  $ 8-9,5 \times 1,3-1,6 \, cm $, aile étroite large de 2-4 mm; insertion funiculaire sommitale à subsommitale. Fig. 1, p. 56.
+Pod glabrous, coriaceous, shiny black-brown when dry, very narrowly elliptic oblong, 38–40 × 1.8–2 cm, base stipitate (stipe 2.5–4 cm long); sutural ridges distinctly thickened; faces with prominent ascending oblique venation; apex acute apiculate. Seed winged papyraceous, elliptic to oblong, 8–9.5 × 1.3–1.6 cm, wing narrow 2–4 mm wide; funicular insertion apical to subapical. Fig. 1, p. 56.
 
 ## Type
 
@@ -35,11 +33,9 @@ INEF s.n., forêt de la Mondah (holo-, iso-, P)
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+This species appears fairly close to N. leucocarpa, however the size of the various elements of the leaf, the cylindric aspect of the petiole and rachis, the less dense pubescence of the vegetative apparatus, the prominent venation of the fruit are characters that allow a clear distinction of the two species.
 
-Cette espèce apparaît comme assez proche de N. leucocarpa, cependant la taille des différents éléments de la feuille, l'aspect cylindrique du pétiole et du rachis, la pubescence moins fournie de l'appareil végétatif, la nervation saillante du fruit sont des caractères qui permettent une distinction nette des deux espèces.
-
-N. grandifolia se rencontre dans les forêts denses sempervirentes plus ou moins littorales depuis le Cameroun jusqu'au Congo.
+N. grandifolia is found in more or less littoral dense evergreen forests from Cameroon to Congo.
 
 ## Vernacular names
 

@@ -17,13 +17,11 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Trees. Leaves with 9–20 pairs of leaflets. Rachis 5–17 cm long, rusty-hairy. Leaflets linear-oblong, 6–20 × 1.5–3.5 mm, somewhat falcate, acute or obtuse at apex, base truncate parallel to rachis, pubescent to glabrous beneath. Midvein forming the anterior margin. Secondary veins fan-like from the point of attachment, one of them extending almost to the apex. Stipules spatulate, up to 4 cm long and 2 cm wide, very caducous, tightly nested when young and forming a strobililiferous bud.
 
-Arbres. Feuilles à 9-20 paires de folioles. Rachis long de 5 17 cm, velu roux. Folioles linéaires-oblongues, de 6-20 × 1,5-3,5 mm, un peu falciformes, aiguës ou obtuses au sommet, à base tronquée parallèle au rachis, pubescentes à glabres dessous. Nervure principale formant la marge antérieure. Des nervures secondaires en éventail à partir du point d'attache, l'une d'elles allant presque jusqu'au sommet. Stipules spatulées, jusqu'à 4 cm de longueur et 2 cm de largeur, très caduques, emboîtées étroitement à l'état jeune et formant un bourgeon strobiliforme.
+Inflorescences in short axillary racemes 2–3 cm long, with rusty-hairy axes; bracts 7–8 mm long, striate, caducous at flower opening. Flowers white or whitish-pink. Pedicels 5–7 mm. Bracteoles oblong 5–6 × 3–5 mm, brown-hairy. Calyx absent. Petal rounded at apex, 6–7 mm long × 3–4 mm wide. Stamens 10, 9 connate at base and 1 free. Ovary hirsute. 2 ovules.
 
-Inflorescences en courtes grappes axillaires de 2-3 cm de longueur, à axes velus roux; bractées longues de 7-8 mm, striées, caduques lors de l'épanouissement de la fleur. Fleurs blanches ou blanc rosé. Pédicelles de 5-7 mm. Bractéoles oblongues de 5-6 × 3-5 mm, velues brunes. Calice nul. Pétale arrondi au sommet, de 6-7 mm de longueur × 3-4 mm de largeur. Étamines 10 dont 9 soudées à la base et 1 libre. Ovaire hirsute. 2 ovules.
-
-Gousses oblongues, arrondies et mucronées au sommet, de  $ 4,5-6 \times 2,5-3,5 \, cm $, marquées d'une nervure longitudinale plus ou moins accusée.
+Pods oblong, rounded and mucronate at apex, 4.5–6 × 2.5–3.5 cm, marked by a more or less pronounced longitudinal vein.
 
 ## Vernacular names
 
@@ -37,9 +35,7 @@ Mildbraed 6141, Kribi, Cameroun
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Espèce ripicole camerounaise, gabonaise et congolaise s'étendant au Mayombé et au centre du Congo. Arbres atteignant 20 m de hauteur.
+Riparian Cameroonian, Gabonese and Congolese species extending to the Mayombé and central Congo. Trees reaching 20 m in height.
 
 ## Specimens examined
 

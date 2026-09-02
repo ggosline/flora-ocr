@@ -25,15 +25,11 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Trees. Leaves with 6–9 pairs of leaflets. Rachis 25–30 cm. Leaflets oblong to ovate-oblong, acuminate, asymmetric at base, 6–14 cm long × 2.5–5 cm wide, glabrous. Lateral veins 8–10 pairs, arcuate, more prominent than the veinlet network. Petiolules 5–7 mm.
 
-Arbres. Feuilles à 6-9 paires de folioles. Rachis de 25-30 cm. Folioles oblongues à ovées-oblongues, acuminées, asymétriques à la base, de 6-14 cm de longueur × 2,5-5 cm de largeur, glabres. Nervures latérales, 8-10 paires, arquées, plus saillantes que le réseau des nervilles Pétiolules de 5-7 mm.
+Dense panicles of blue-violet flowers, densely pubescent. Pedicels 10–12 mm, pubescent. Receptacle turbinate. Sepals pubescent externally, ca. 1.5 cm long × 1 cm wide. Petals 3 large ones ca. 1 cm × 5–9 mm wide; 2 rudimentary. Filaments 2–3 cm long, villous at base. Ovary initially densely pubescent, then glabrescent.
 
-Panicules denses de fleurs bleu-violet, densément pubescentes. Pédicelles de 10-12 mm, pubescents. Réceptacle turbiné. Sépales pubescents extérieurement, d'env. 1,5 cm de longueur sur 1 cm de
-
-largeur. Pétales 3 grands de 1 cm environ sur 5-9 mm de largeur; 2 rudimentaires. Filets longs de 2-3 cm, velus à la base. Ovaire d'abord densément pubescent, puis glabrescent.
-
-Grand arbre décidu de forêt dense, répandu depuis la Casamance jusqu'au Gabon et Fernando Po.
+Large deciduous tree of dense forest, widespread from Casamance to Gabon and Fernando Po.
 
 ## Type
 

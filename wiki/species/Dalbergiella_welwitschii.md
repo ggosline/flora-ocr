@@ -17,21 +17,15 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Ostryocarpus (?) welwitschii Baker, Fl. trop. Africa 2 : 240 (1871). Ostryocarpus racemosus A.Chev., Bull. Soc. Bot. France , Mém . 8 : 164 (1911). Arbuste sarmenteux ; rameaux glabres, à quelques petites épines bifides ; écorce vivante à exsudat gelée incolore (ou vaguement rougeâtre), amère. Stipules petites . Feuille : pétiole 3–6 cm ; rachis 10–30 cm ; folioles en 10 à 15 paires , à pétiolule poilue de 2–4 mm, limbe oblong , les centraux 2,5–7 × 1–3 cm, plus petits aux extrémitées, base tronquée à arrondie, sommet ± arrondi ou parfois émarginé, très peu poilu, devenant glabre dessus, peu poilu dessous ; nervure médiane bien marquée. Inflorescence ascendante, 7–16 cm de longueur , à fleurs solitaire ou par 2 ou 3 en fascicule, assez dense ; pédoncule velouté ; bractées et bractéoles fi liformes, poilues, ± 2 mm. Fleur : pédicelle grêle, 3–6 mm, poilu ; calice 5–6 mm de longueur dont 2–3 mm pour les dents aiguës, rougeâtre, velouté ; corolle ± 10 mm de longueur, jaune soufre, tachetée de rouge , étendard à onglet de ± 3 mm, ailes auriculées et à onglet étroit, carène comme les ailes, mais plus courte ; ovaire densément poilu, à 2 ou 3 ovules. Gousse 8–9 × 2 cm, à extrémités obliquement arrondies, glabre ou légèrement scabre, à 1 graine, à nervation surélevée, provenant de la suture dorsale. Graine aplatie.
+Ostryocarpus (?) welwitschii Baker, Fl. trop. Africa 2 : 240 (1871). Ostryocarpus racemosus A.Chev., Bull. Soc. Bot. France , Mém . 8 : 164 (1911). Scrambling shrub; branchlets glabrous, with a few small bifid spines; living bark exuding colourless (or vaguely reddish) gelatinous sap, bitter. Stipules small. Leaf: petiole 3–6 cm; rachis 10–30 cm; leaflets in 10 to 15 pairs, with hairy petiolule 2–4 mm, blade oblong, the central ones 2.5–7 × 1–3 cm, smaller at the extremities, base truncate to rounded, apex ± rounded or sometimes emarginate, very slightly hairy, becoming glabrous above, slightly hairy below; midvein well marked. Inflorescence ascending, 7–16 cm long, with flowers solitary or in groups of 2 or 3 in fascicles, fairly dense; peduncle velvety; bracts and bracteoles filiform, hairy, ± 2 mm. Flower: pedicel slender, 3–6 mm, hairy; calyx 5–6 mm long with 2–3 mm for the acute teeth, reddish, velvety; corolla ± 10 mm long, sulphur yellow, spotted with red, standard with claw ± 3 mm, wings auriculate and with narrow claw, keel as the wings, but shorter; ovary densely hairy, with 2 or 3 ovules. Legume 8–9 × 2 cm, with obliquely rounded extremities, glabrous or slightly scabrous, 1-seeded, with raised venation arising from the dorsal suture. Seed flattened.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Guinée et Sierra Léone jusqu’à la République centrafricaine et Angola ; au Gabon, connue du Haut-Ogooué et de la Nyanga
+Guinea and Sierra Leone to Central African Republic and Angola; in Gabon, known from Upper Ogooué and Nyanga
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-forêt primaire et semi-décidue, forêt secondaire, forêt riveraine, jachères, sur pente rocheuse ; au Gabon à 40–240 m d’altitude, ailleurs jusqu’à 800 m. Usage : Le bois est utilisé pour des outils de la maison. L’espèce a plusieurs usages médécinaux, elle est parfois plantée comme ornementale. Les feuilles sont anthelminthiques
+primary and semi-deciduous forest, secondary forest, riparian forest, fallow land, on rocky slope; in Gabon at 40–240 m altitude, elsewhere up to 800 m. Uses: The wood is used for household tools. The species has several medicinal uses, it is sometimes planted as an ornamental. The leaves are anthelmintic
 
 ## Vernacular names
 

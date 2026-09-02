@@ -21,15 +21,11 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Lianes. Branchlets glabrous; young branches violaceous and young leaves purple. Leaves elliptic to oblong, rounded to subcordate at the base, acute to acuminate at the apex, glabrous, 4 to 12 cm long by 2.5-6.5 cm wide. Nerves 3 (-5) at the base. Petiole slender, 6-10 mm long, glabrous.
 
-Lianes. Ramilles glabres; jeunes rameaux violacés et jeunes feuilles pourpres. Feuilles elliptiques à oblongues, arrondies à
+Racemes up to 20 cm long; axes tomentellous, yellowish-green. Flowers with thick, short pedicels, 4 mm long, bractlets caducous. Receptacle 4-6 mm long, densely tomentose. Calyx greyish somewhat violaceous, with tube 3-4 mm long, lobes broadly triangular, obtuse at the apex, 1-2 mm long. Petals wine-coloured, obovate to lanceolate, acute at the base, rounded at the apex, 3-6 mm long and wide, hirsute on both surfaces. Stamens with filaments 10-13 mm long, hirsute in the lower half. Ovary hirsute to glabrous, stipitate tomentose.
 
-subcordées à la base, aiguës à acuminées au sommet, glabres, de 4 à 12 cm de longueur sur 2,5-6,5 cm de largeur. Nervures 3 (-5) à la base. Pétiole grêle, long de 6-10 mm, glabre.
-
-Racèmes jusqu'à 20 cm de longueur; axes tomentelleux, jaune-verdàtre. Fleurs à pédicelles épais, courts, 4 mm de longueur, bractéoles caduques. Réceptacle de 4-6 mm de longueur, densément tomentaux. Calice grisâtre un peu violacé, à tube de 3-4 mm de longueur, lobes largement triangulaires, obtus au sommet, de 1-2 mm de longueur. Pétales lie de vin, obovés à blancéolés, aïgus à la base, arrondis au sommet, de 3-6 mm de longueur et largeur, velus sur les 2 faces. Étamines à filets de 10-13 mm long, velus dans la moitié inférieure. Ovaire velu à glabre, stipité tomentaux.
-
-Gousses obliquement ovoïdes à oblongues, gonflées, coriaces à ligneuses.
+Pods obliquely ovoid to oblong, swollen, coriaceous to woody.
 
 ## Type
 
@@ -37,9 +33,7 @@ Tessmann 48, Guinée espagnole
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Grande liane des formations ripicoles et des galeries forestières, de la Guinée espagnole au bas Congo et au Kasaï.
+Large liane of riparian formations and forest galleries, from Spanish Guinea to lower Congo and Kasai.
 
 ## Specimens examined
 

@@ -22,11 +22,9 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Small trees. Leaves with 2–3 pairs of leaflets. Rachis 7–14 cm long. Leaflets oblong, acuminate, cuneiform at the base, the lower ones smaller than the upper ones, glabrous, 11–16 cm long by 4–4.5 cm wide. Lateral veins 7 pairs, arched. Persistent foliaceous stipules 3–4 cm long, joined by their inner edge into an intrapetiolular blade and on the external side rounding at the base into a pair of auricles. Petiolules about 5 mm.
 
-Petits arbres. Feuilles à 2-3 paires de folioles. Rachis de 7-14 cm de longueur. Folioles oblongues, acuminées, cunéiformes à la base, les inférieures plus petites que les supérieures, glabres, de 11-16 cm de longueur sur 4-4,5 cm de largeur. Nervures latérales 7 paires, arquées. Stipules foliacées persistantes longues de 3-4 cm, soudées par leur bord interne en une lame intrapétiolaire et du côté externe s'arrondissant à la base en une paire d'oreillettes. Pétiohules d'environ 5 mm.
-
-Panicules allongées de 30 cm et plus, à ramifications courtes ne dépassant pas 10 cm, veloutées ferrugineuses. Pédicelles jusqu'à 1 cm. Bractéoles veloutées, ferrugineuses, longues de 1,5-2 cm. Réceptacle tubulaire de 3-4 mm, velu en dedans, portant 4 sépales de 8-10 mm de longueur, oblongs, glabres, à bords ciliés. Pétales 5, subégaux, obovés, atténués en onglet à la base, longs de 1,5-2 cm, larges de 4-6 mm. Étamines fertiles 3, exsertes, à filets velus à la base; 6 staminodes. Ovaire velu.
+Elongate panicles 30 cm and longer, with short branching not exceeding 10 cm, velvety ferruginous. Pedicels up to 1 cm. Bractlets velvety, ferruginous, 1.5–2 cm long. Tubular receptacle 3–4 mm, hairy within, bearing 4 sepals 8–10 mm long, oblong, glabrous, with ciliate margins. Petals 5, subequal, obovate, attenuate into a claw at the base, 1.5–2 cm long, 4–6 mm wide. Fertile stamens 3, exserted, with filaments hairy at the base; 6 staminodes. Ovary hairy.
 
 ## Type
 

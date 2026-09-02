@@ -17,29 +17,21 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Herbe à souche ligneuse, 8–25 cm de hauteur ; tubercule ovoïde , 2–4 × 1–1,5 cm ; tige ascendante, à poils blancs étalés , glabrescente vers la base. Stipules lancéolées, atteignant 16 × 3 mm, soudées sauf sur 1–2 mm au sommet . Feuille : pétiole 2–4 mm ; rachis ± 3 mm ; folioles 3 ou parfois 1 près de la base de la plante , limbe étroitement elliptique , 2,5–11(–14) × 0,5–2,4 cm, base obtuse, sommet aigu ; nervures latérales en 10 à 12 paires . Inflorescence en racèmes axillaires près du sommet de la plante ; pédoncule 2–9 cm ; racème 1–2 cm de longueur, avec jusqu’ à 15 fleurs ; bractées linéaires, 4–6 mm. Fleur subsessile ; calice à tube de 2–3 mm de longueur, dents lancéolées, subégales, ± 3 mm de longueur, à très longs poils blancs ; corolle jaune, étendard obovale, 6–10 × 4–6 mm, jaune strié de rouge, auriculé, à la base muni de 2 crêtes transversales , face externe à poils blancs et peu glanduleux. Gousse oblongue , 9–13 × 7–11 mm, noire, à longs poils blancs. Graine 2,5 × 3 × 2 mm ; hile à stro phiole sur la moitié apicale.
+Herb with woody base, 8–25 cm tall; tuber ovoid, 2–4 × 1–1.5 cm; stem ascending, with spreading white hairs, glabrescent towards the base. Stipules lanceolate, reaching 16 × 3 mm, fused except for 1–2 mm at the apex. Leaf: petiole 2–4 mm; rachis ± 3 mm; leaflets 3 or sometimes 1 near the base of the plant, blade narrowly elliptic, 2.5–11(–14) × 0.5–2.4 cm, base obtuse, apex acute; lateral veins in 10 to 12 pairs. Inflorescence in axillary racemes near the apex of the plant; peduncle 2–9 cm; raceme 1–2 cm long, with up to 15 flowers; bracts linear, 4–6 mm. Flower subsessile; calyx with tube 2–3 mm long, teeth lanceolate, subequal, ± 3 mm long, with very long white hairs; corolla yellow, standard obovate, 6–10 × 4–6 mm, yellow streaked with red, auriculate, at the base furnished with 2 transverse crests, outer face with white hairs and sparsely glandular. Pod oblong, 9–13 × 7–11 mm, black, with long white hairs. Seed 2.5 × 3 × 2 mm; hilum with strophiole on the apical half.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Guinée, Côte d’Ivoire, Bénin, Nigéria, Cameroun, République centrafricaine, Gabon, République du Congo, République démocratique du Congo, Angola, Éthiopie, Ouganda, Kenya, Tanzanie, Malawi, Rwanda, Burundi, Mozambique, Zambie et Zimbabwe ; au Gabon, connue du Haut-Ogooué et de l’Ogooué-Ivindo
+Guinea, Ivory Coast, Benin, Nigeria, Cameroon, Central African Republic, Gabon, Republic of the Congo, Democratic Republic of the Congo, Angola, Ethiopia, Uganda, Kenya, Tanzania, Malawi, Rwanda, Burundi, Mozambique, Zambia and Zimbabwe; in Gabon, known from Haut-Ogooué and Ogooué-Ivindo
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-savane herbacée et arbustive, aussi sur sable blanc, bord de route, rochers ; au Gabon à 400– 500 m d’altitude, ailleurs montant jusqu’à 2400 m. Fleurs de septembre à novembre. Usage : Le tubercule est consommable en période de famine
+Herbaceous and shrubby savanna, also on white sand, roadside, rocks; in Gabon at 400–500 m altitude, elsewhere reaching up to 2400 m. Flowers from September to November. Use: The tuber is edible in times of famine
 
 ## Source note
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Var. pawekiae Verdc., with all leaves unifoliolate, is found in Zambia, Zimbabwe and Malawi
 
-La var. pawekiae Verdc., à feuilles toutes unifoliolées, se trouve en Zambie, au Zimbabwe et au Malawi
-
-b : Hauman (1954c), Hepper (1958), Jacques-Félix (1971), Mackinder et al. (2001), Pelle ibliographie grin (1949), Verdcourt (1971a, 1971c).
+b: Hauman (1954c), Hepper (1958), Jacques-Félix (1971), Mackinder et al. (2001), Pelle ibliography grin (1949), Verdcourt (1971a, 1971c).
 
 ## Notes
 

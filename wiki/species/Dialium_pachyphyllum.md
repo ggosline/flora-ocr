@@ -23,17 +23,13 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 Omvong (P.L. 5, p. 41)
 
-Arbres. Rachis long de 8-17 cm. (3-) 5 (-6) folioles glabres, oblongues, oblongues-lancéolées, oblongues-elliptiques, elliptiques, insensiblement acuminées, parfois acuminées aiguës, obtuses ou arrondies à la base, coriaces. Limbe long de 8-23 cm sur 3-8 cm
+Trees. Rachis 8–17 cm long. (3–) 5 (–6) leaflets glabrous, oblong, oblong-lanceolate, oblong-elliptic, elliptic, insensibly acuminate, sometimes acute-acuminate, obtuse or rounded at the base, coriaceous. Blade 8–23 cm long × 3–8 cm wide. Midvein prominent beneath. Reticulum very finely meshed and generally prominent on both surfaces. Secondary nerves about ten pairs, scarcely more prominent than the veinlets and venules of the reticulum. On very coriaceous leaflets, the reticulum may be inconspicuous. Petiolule c. 8 mm, canaliculate.
 
-de largeur. Nervure médiane proéminente dessous. Réticulum très finement maillé et généralement saillant sur les 2 faces. Nervures secondaires une dizaines de paires, à peine plus marquées que les nervilles et veinules du réticulum. Sur des folioles très coriaces, le réticulum peut être peu visible. Pétiolule env. 8 mm, canaliculé.
+Panicles axillary, relatively pauciflorous, with yellow flowers and brownish-yellowish pubescent branches. Buds and sepals greyish-green. Buds pyramidal. Sepals 5, triangular, villous on both surfaces, erect. Disk pentagonal, c. 2 mm in diameter, velvety black-brown. Petal 1, yellow, elliptic, clawed. Stamens 2, sometimes 3. Ovary sessile.
 
-Panicules axillaires relativement pauciflores de fleurs jaunes à ramifications pubescentes brun-jaunâtre. Boutons et sépales gris-verdâtre. Boutons pyramidaux. Sépales 5, triangulaires, villeux sur les 2 faces, dressés. Disque pentagonal de ± 2 mm de diamètre, velouté brun noir. Pétale 1, jaune, elliptique, onguiculé. Étamines 2, parfois 3. Ovaire sessile.
-
-Fruits globuleux obovoïdes, un peu aplatis, ± 2,5 cm de longueur × ± 1,5 cm de largeur, veloutés brun noir, légèrement stipités. Sépales persistantes dressés à la base du fruit.
+Fruits globose obovoid, somewhat flattened, c. 2.5 cm long × c. 1.5 cm wide, velvety black-brown, slightly stipitate. Sepals persistent, erect at the base of the fruit.
 
 ## Type
 

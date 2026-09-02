@@ -21,15 +21,13 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Trees. Branches and rachis hirsute, brown. 7–9 leaflets, oblong-lanceolate, acuminate acute and apiculate, attenuate and rounded at the base. Rachis 6–8 cm, hirsute. Blade 5–10 cm long by 2–3 cm wide, glabrous and shining above, somewhat hairy below especially on the midvein. Lateral veins 8–10, ascending, prominent below. Reticulum finely prominent on both faces. Petiolules 3–4 mm, hirsute.
 
-Arbres. Rameaux et rachis hirsutes bruns. 7-9 folioles, oblongues-lancéolées, acuminées aiguës et apiculées, atténuées et arrondies à la base. Rachis de 6-8 cm, hirsute. Limbe long de 5-10 cm sur 2-3 cm de largeur, glabre et brillant dessus, un peu velu dessous surtout sur la nervure médiane. Nervures latérales 8-10, ascendantes, saillantes dessous. Réticulum finement saillant sur les 2 faces. Pétioïlues de 3-4 mm, hirsutes.
+1. Very close to D. Corbisieri Staner from Congo and Ubangi.
 
-1. Très proche de D. Corbisieri Staner du Congo, et de l'Oubangui.
+Ample terminal panicles with hirsute ramifications. Flowers yellowish-brown, shortly pedicellate. Sepals 5, ovate-deltoid, acute, 6–6.5 × 4–5 mm, hairy. Receptacle discoid, 4–5 mm in diameter, hairy. Petal 1, oblong-lanceolate, briefly unguiculate, glabrous, 3–4 mm long. Stamens 2. Ovary sessile, hairy; 3–4 ovulate.
 
-Panicules terminales amples, à ramifications hirsutes. Fleurs brun jaunâtre, courtement pédicellées. Sépales 5, ovés-deltoïdes, aigus, de 6-6, 5 × 4-5 mm, velus. Réceptacle discoïde, de 4-5 mm de diamètre, velu. Pétale 1, oblong lancéolé, brièvement onguiculé, glabre, long de 3-4 mm. Étamines 2. Ovaire sessile, velu; 3-4 ovulé.
-
-Fruits aplatis, poilus puis glabrescents.
+Fruits flattened, hairy then glabrescent.
 
 ## Type
 
@@ -37,11 +35,9 @@ Tessman 730, Campo, Cameroun
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Medium tree of Gabon and southern Cameroon, distributed as far as Congo.
 
-Arbre moyen du Gabon et du sud du Cameroun, répandu jusqu'au Congo.
-
-Espèce très facilement reconnaissable parmi nos Dialium notamment par ses rameaux et ses feuilles hirsutes. Les fleurs sont particulièrement grandes pour le genre.
+Species very easily recognizable among our Dialium especially by its hirsute branches and leaves. The flowers are particularly large for the genus.
 
 ## Vernacular names
 

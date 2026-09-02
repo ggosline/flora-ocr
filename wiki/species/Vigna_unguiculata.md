@@ -17,31 +17,25 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-V. sinensis (L.) Savi ex Hassk., Cat. hort. bot. bogor. : 279 (1844). Herbe rampante, érigée ou grimpante, glabre . Stipules lancéolées, 6–20 mm de longueur, prolongées en dessous de l’insertion et éperonnées . Feuille : pétiole 1,5–15 cm ; rachis 6–40 mm ; stipelles 1–2 mm de longueur ; folioles à pétiolule de 2–5–mm, limbe ovale à lancéolélinéaire, hasté à subhasté , 8–16 × 1–9 cm, aigu à arrondi à la base, acuminé à arrondi-mucronulé au sommet. Inflorescence : pédoncule 4–35 cm, éparsement pubérulent et uncinulé vers le sommet ; rachis 0,5–4 cm ; bractées lancéolées-aiguës, 3–5 × 1–2 mm. Fleur : bractéoles 3–5 × 1–2 mm ; calice à tube de 3–5 mm de longueur, lobes 1–6 mm de longueur ; corolle 15–25 mm de longueur, rose ou blanche ou jaune violacée , étendard 18–32 mm de largeur, émarginé au sommet, muni à la face interne de deux appendices parallèles, ailes obovales, 16–30 mm de longueur, carène falquée, incurvée, 15–29 mm de longueur, à rostre court et obtus ; ovaire avec 11 à 22 ovules ; style prolongé au-delà du stigmate par un bec court. Gousse indéhiscente, dressée à pendante, 9–90 cm × 3–11 mm , scabre à glabre, terminée par un bec recourbé . Graine 5–16 × 1,5–9 mm ; hile ± central avec une légère strophiole annulaire.
+V. sinensis (L.) Savi ex Hassk., Cat. hort. bot. bogor. : 279 (1844). Creeping, erect or climbing herb, glabrous. Stipules lanceolate, 6–20 mm long, prolonged below the point of insertion and spurred. Leaf: petiole 1.5–15 cm; rachis 6–40 mm; stipels 1–2 mm long; leaflets with petiolule 2–5 mm, blade ovate to lanceolate-linear, hastate to subhastate, 8–16 × 1–9 cm, acute to rounded at the base, acuminate to rounded-mucronate at the apex. Inflorescence: peduncle 4–35 cm, sparsely puberulent and uncinate toward the apex; rachis 0.5–4 cm; bracts lanceolate-acute, 3–5 × 1–2 mm. Flower: bracteoles 3–5 × 1–2 mm; calyx with tube 3–5 mm long, lobes 1–6 mm long; corolla 15–25 mm long, pink or white or yellowish-violet, standard 18–32 mm wide, emarginate at the apex, furnished on the inner face with two parallel appendages, wings obovate, 16–30 mm long, keel falcate, incurved, 15–29 mm long, with short blunt beak; ovary with 11 to 22 ovules; style prolonged beyond the stigma by a short beak. Pod indehiscent, erect to pendant, 9–90 cm × 3–11 mm, scabrous to glabrous, terminated by a curved beak. Seed 5–16 × 1.5–9 mm; hilum ± central with a slight annular strophiole.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Species of African origin, of very great variability, sometimes wild, but especially cultivated, the cultivars dispersed around the tropics; in Gabon, not yet collected in herbarium
 
-espèce d’origine africaine, de très grande variabilité, parfois sauvage, mais surtout cultivée, les cultivars dispersées autour des tropiques ; au Gabon, n’a pas encore été récoltée en herbier
+present practically throughout sub-Saharan Africa; expected in Gabon, in cultivated areas and inland savannas. B: Pasquet (1993). Bibliography subsp. letouzeyi Pasquet Bull. Jard. Bot. Nat. Belg. 62 : 159 (1993). Differs from subsp. type by: Flower with calyx lobes 4–18 mm long; corolla 23–30 mm long; ovary with 16 to 21 ovules. Pod dehiscent, 9–11 cm × 3–5 mm. Seed 3–6 mm long
 
-présente pratiquement partout en Afrique subsaharienne ; attendue au Gabon, dans les zones cultivées et les savanes de l’intérieur. B : Pasquet (1993). i B liographie subsp. letouzeyi Pasquet Bull. Jard. Bot. Nat. Belg. 62 : 159 (1993). Diffère de la subsp. type par : Fleur à lobes du calice 4–18 mm de longueur ; corolle 23–30 mm de longueur ; ovaire avec 16 à 21 ovules. Gousse déhiscente, 9–11 cm × 3–5 mm. Graine 3–6 mm de longueur
+from Cameroon to Kenya; in Gabon, known from Ogooué-Ivindo
 
-du Cameroun au Kenya ; au Gabon, connue de l’Ogooué-Ivindo
-
-de Sao Tomé jusqu’au Nord de l’Angola ; probablement à rechercher au Gabon dans les savanes côtières. B : Pasquet (1993). i B liographie
+from São Tomé to North Angola; probably to be sought in Gabon in coastal savannas. B: Pasquet (1993). Bibliography
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+cultivated areas, forest galleries; up to 2500 m altitude. Use: Man eats the dry and fresh seeds, young pods and young leaves as a vegetable or in sauces. It is also an excellent fodder
 
-terrains cultivés, galeries forestières ; jusqu’à 2500 m d’altitude. Usage : L’homme mange les graines sèches et fraîches, les gousses jeunes et les jeunes feuilles comme légume ou dans les sauces. C’est aussi un excellent fourrage
+spontaneous form, savannas, fallows; in Gabon at 500–900 m altitude, elsewhere up to 1500 m. B: Pasquet (1993). Bibliography subsp. alba (G.Don) Pasquet Kew Bull. 48 : 805 (1993). Clitoria alba G.Don, Gen. Syst. 2 : 215 (1832). Differs from subsp. type by: Flower: calyx lobes 1–6 mm long; corolla 17–23 mm long; ovary with 16 to 23 ovules. Pod dehiscent, 9–11 cm × 3–4 mm. Seed 2–3 × 1.5–2.5 mm
 
-forme spontanée, savanes, jachères ; au Gabon à 500–900 m d’altitude, ailleurs jusqu’à 1500 m. B : Pasquet ( 1993). i B liographie subsp. alba (G.Don) Pasquet Kew Bull. 48 : 805 (1993). Clitoria alba G.Don, Gen. Syst. 2 : 215 (1832). Diffère de la subsp. type par : Fleur : lobes du calice 1–6 mm de longueur ; corolle 17–23 mm de longueur ; ovaire avec 16 à 23 ovules. Gousse déhiscente, 9–11 cm × 3–4 mm. Graine 2–3 × 1,5–2,5 mm
-
-Botanique Meise (©).
+Botany Meise (©).
 
 ## Vernacular names
 
@@ -49,9 +43,7 @@ bannette, dolique-monguette, dolique-catjang, haricot dolique, haricot à l’oe
 
 ## Source note
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Cette espèce présente une grande variabilité morphologique avec 5 cultivars-groupes très différents : cv.-gr. Sesquipedalis (longues gousses charnues, graines réniformes, surtout cultivée dans le sud-est asiatique, = Dolichos sesquipedalis L.) ; cv.-gr. Textilis (longs pédoncules floraux, anciennement cultivé pour ses fibres) ; cv.-gr. Melanophthalmus (sensible à la photopériode, graines à tégument fin et ridé, 17 ovules ou moins par gousse) ; cv.-gr. Biflora (sensible à la photopériode, graines à tégument épais et lisse, 17 ovules ou moins par gousse) et cv.-gr. Unguiculata (insensible à la photopériode, graines à tégument épais et lisse, 17 ovules et plus par gousse). Ce dernier est très certainement cultivé au Gabon, puisqu’il est cultivé dans le Sud du Cameroun, ainsi qu’en République du Congo. La taxonomie de l’espèce V. unguiculata est assez compliquée, avec beaucoup d’auteurs qui ont appliqué leur propres idées sur les taxons à distinguer et aussi avec des interprétations diverses des nombreux échantillons-types. Pasquet (1993) a essayé de mettre de l’ordre dans cette situation, mais à cause de sa complexité, son système n’est pas bien compris, ni suivi partout. B : Lewis et al. (2005), Madamba & Grubben (2004), Madamba et al. (2006), Pandey & i B liographie Westphal (1989), Pasquet (1993, 2001), Verdcourt (1971c), Wilczek (1954). var. spontanea Pasquet Planche 129 Bull. Jard. Bot. Nat. Belg. 62 : 159 (1993). Diffère de la var. type par : Fleur : calice à lobes de 1,5–4 mm de longueur ; corolle 15–23 mm de longueur ; ovaire avec 12 à 18 ovules. Gousse déhiscente, 6–10 cm × 3–5 mm. Graine 3,5–5× 2,5–3 mm
+This species presents great morphological variability with 5 cultivar-groups very different from each other: cv.-gr. Sesquipedalis (long fleshy pods, reniform seeds, especially cultivated in southeast Asia, = Dolichos sesquipedalis L.); cv.-gr. Textilis (long floral peduncles, formerly cultivated for its fibers); cv.-gr. Melanophthalmus (photoperiod-sensitive, seeds with fine wrinkled testa, 17 ovules or fewer per pod); cv.-gr. Biflora (photoperiod-sensitive, seeds with thick smooth testa, 17 ovules or fewer per pod) and cv.-gr. Unguiculata (photoperiod-insensitive, seeds with thick smooth testa, 17 or more ovules per pod). The latter is very certainly cultivated in Gabon, since it is cultivated in South Cameroon, as well as in the Republic of Congo. The taxonomy of species V. unguiculata is rather complicated, with many authors who have applied their own ideas on taxa to distinguish and also with diverse interpretations of the numerous type specimens. Pasquet (1993) attempted to bring order to this situation, but because of its complexity, his system is not well understood, nor followed everywhere. B: Lewis et al. (2005), Madamba & Grubben (2004), Madamba et al. (2006), Pandey & Westphal (1989), Pasquet (1993, 2001), Verdcourt (1971c), Wilczek (1954). Bibliography var. spontanea Pasquet Plate 129 Bull. Jard. Bot. Nat. Belg. 62 : 159 (1993). Differs from var. type by: Flower: calyx with lobes 1.5–4 mm long; corolla 15–23 mm long; ovary with 12 to 18 ovules. Pod dehiscent, 6–10 cm × 3–5 mm. Seed 3.5–5 × 2.5–3 mm
 
 ## Notes
 

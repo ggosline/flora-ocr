@@ -21,13 +21,11 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Trees. Branchlets whitish. Leaves unijugate. Petiole short, 4–5 mm. Petiolules 2–3 mm. Short striated stipules. Leaflets oblong-lanceolate, somewhat falcate, attenuate then acuminate at the apex and mucronate, unequal at the base, glabrous, 9–16 cm long by 2.5–5 cm wide.
 
-Arbres. Rameaux blanchâtres. Feuilles unijuguées. Pétiole court, de 4-5 mm. Pétiolules de 2-3 mm. Courtes stipules striées. Folioles oblongues lancéolées, un peu falciformes, atténuées puis acuminées au sommet et mucronées, inégales à la base, glabres, de 9-16 cm de longueur sur 2,5-5 cm de largeur.
+Terminal panicles velvety ferruginous, 5–10 cm. Pedicels villous 8–10 mm. Caducous bracts leaving prominent relief scars. Villous ferruginous bractlets 12–14 × 5–6 mm. Calyx with 5 lanceolate lobes, glabrous, 7–8 mm long. One large white petal with bilobed limb, borne on a claw approximately 10 mm. Fertile stamens 3, long-exserted, glabrous. Ovary subsessile, densely villous.
 
-Panicles terminales veloutées ferrugineuses, de 5-10 cm. Pédicelles velus de 8-10 mm. Bractées caduques laissant de fortes cicatrices en relief. Bractéoles velues ferrugineuses de 12-14 × 5-6 mm. Calice à 5 lobes lancéolés, glabres, de 7-8 mm de longueur. Un grand pétale blanc à limbe bilobé, porté par un onglet de 10 mm environ. Étamines fertiles 3, longuement exsertes, glabres. Ovaire subsessile, densément velu.
-
-Fruit très jeune velu, à surface marquée d'une ride longitudinale parallèle au bord sutural.
+Fruit very young villous, surface marked with a longitudinal wrinkle parallel to the sutural margin.
 
 ## Type
 
@@ -67,11 +65,9 @@ Le Testu : 2119, Tchibanga (fl. sept.); 5715, Mimongo (fl. nov.); 9597, Mimvoul 
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Large tree very remarkable for its almost pure stands which in the forest of the Congo Basin constitute true forests over considerable total areas. These stands diverge around this centre of accumulation into neighbouring countries following the rivers. The stands are therefore encountered in periodically flooded forests, along river banks, in swampy forests, in humid depressions but also on dry land especially in sandy terrain. The crowns are densely leafy, the canopy very dark. Natural regeneration despite poor light is abundant. It is one of the rare cases of a forest of almost pure single species in African humid dense forest.
 
-Grand arbre très remarquable par ses peuplements presque purs qui dans la forêt de la cuvette congolaise constituent de véritables forêts sur des superficies au total considérables. Ces peuplements divergent autour de ce centre d'accumulation sur les pays voisins en suivant les rivières. Les peuplements se rencontrent donc dans les forêts périodiquement inondées, au bord des rivières, dans les forêts marécageuses, dans les fonds humides mais aussi sur la terre ferme surtout en terrain sablonneux. Les cimes sont densément feuillues, le couvert très sombre. La régénération naturelle en dépit de la médiocre luminosité est abondante. C'est un des rares cas d'une forêt à une essence presque pure dans la forêt dense humide africaine.
-
-Le fût est cylindrique, sans contreforts. Les peuplements se reconnaissent aisément avec leurs grandes feuilles. À l'époque de la croissance des jeunes pousses, les jeunes feuilles sont pendantes et rouge vif. Écorce s'exfoliant en lamelles brunes.
+The bole is cylindrical, without buttresses. The stands are easily recognized by their large leaves. At the time of young shoot growth, young leaves are pendulous and bright red. Bark exfoliating in brown lamellae.
 
 ## Figures
 

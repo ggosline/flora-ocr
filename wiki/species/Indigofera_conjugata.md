@@ -16,27 +16,19 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-in Oliv., Fl. trop. Afr. 2 : 75 (1871). Herbe pérenne, à racines épaisses ; tige rampante ou ascendante, anguleuse, 15–50 cm. Stipules sétacées, 5–10 mm de longueur. Feuille : pétiole 2–8 mm ; stipelles absentes ; folioles 1 à 5(–8), alternes , à limbe étroitement elliptique-oblancéolé, 2–7 × 0,5–1,4 cm, à sommet ar rondi à aigu, mucronulé, glabre dessus, finement strigueux et pubescent dessous. Inflorescence en pseudoracèmes axillaires, denses, multiflores , à maturité atteignant 12 cm de longueur, dont le pédoncule, 0,5–2 cm, à fleurs ascendantes. Fleur ± sessile ; calice 3–5 mm de longueur, à tube de 0,5 mm de longueur, pubescent, à lobes sétacés ; corolle rose ou rouge , 4–5 mm de longueur, étendard pubescent sur le dos, carène blanche à l’extérieur. Gousse réfléchie, linéaire , 12–18(–26) × 1,5–2 mm, légèrement 4-angulaire, avec 4 à 10 graines, à pubescence blanche. Graine arrondie-anguleuse, ± 1 mm de diamètre, brune ; hile central.
+in Oliv., Fl. trop. Afr. 2 : 75 (1871). Perennial herb, with thick roots; stem trailing or ascending, angular, 15–50 cm. Stipules setaceous, 5–10 mm long. Leaf: petiole 2–8 mm; stipels absent; leaflets 1 to 5(–8), alternate, with blade narrowly elliptic-oblanceolate, 2–7 × 0.5–1.4 cm, with apex rounded to acute, mucronate, glabrous above, finely strigulose and pubescent below. Inflorescence in axillary pseudoracemes, dense, multiflorous, reaching 12 cm in length at maturity, with peduncle 0.5–2 cm, with ascending flowers. Flower ± sessile; calyx 3–5 mm long, with tube 0.5 mm long, pubescent, with setaceous lobes; corolla pink or red, 4–5 mm long, standard pubescent on the back, keel white on the outside. Pod reflexed, linear, 12–18(–26) × 1.5–2 mm, slightly 4-angular, with 4 to 10 seeds, with white pubescence. Seed rounded-angular, ± 1 mm in diameter, brown; hilum central.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-de la Guinée jusqu’en Afrique orientale ; au Gabon, dans l’Ogooué-Ivindo (Réserve de la Lopé)
+from Guinea to East Africa; in Gabon, in the Ogooué-Ivindo (Lopé Reserve)
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-savane, savane arborée, brûlée annuelle ; au Gabon à environ 400 m d’altitude, ailleurs jusqu’à 1800 m. Usage : Une des sources de la couleur indigo
+savanna, wooded savanna, annually burnt; in Gabon at approximately 400 m altitude, elsewhere up to 1800 m. Use: One of the sources of indigo dye
 
 ## Source note
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Une deuxième variété, var. occidentalis Gillett, se trouve au Nigéria et dans l’Ouest du Cameroun. Son indument est crispé, ses folioles 1(–3). b : Cronquist (1954), Gillett (1971a), Hepper (1958). ibliographie
+A second variety, var. occidentalis Gillett, is found in Nigeria and western Cameroon. Its indumentum is crisped, its leaflets 1(–3). b: Cronquist (1954), Gillett (1971a), Hepper (1958). ibliography
 
 ## Notes
 

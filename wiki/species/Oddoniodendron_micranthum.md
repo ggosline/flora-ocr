@@ -21,17 +21,15 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 (Harms) Baker f. (Pl. 63, p. 259)
 
-Arbres. Feuilles imparipennées à 2-3 (-5) folioles alternes, glabres. Rachis de 1-8 cm de longueur. Folioles oblongues ou elliptiques, obliques, un peu falciformes, à sommet insensiblement et parfois obtusément acuminé, à base obtuse, longues de 6-20 cm, larges de 2 à 10 cm, subcoriaces, luisantes à la face supérieure. Nervures secondaires 5-6 paires, très ascendantes, anastomoses très près de la marge, à peine plus saillantes que les nervilles d'un réseau dense bien visible sur les 2 faces. PétioIules de 5-12 mm, canaliculés.
+Trees. Leaves imparipinnate with 2–3 (–5) alternate, glabrous leaflets. Rachis 1–8 cm long. Leaflets oblong or elliptic, oblique, somewhat falcate, with apex gradually and sometimes obtusely acuminate, base obtuse, 6–20 cm long, 2–10 cm wide, subcoriaceous, shining on the upper face. Secondary veins 5–6 pairs, very ascending, anastomoses very close to the margin, scarcely more prominent than the veinlets of a dense network clearly visible on both faces. Petiolules 5–12 mm, canaliculate.
 
-Panicules rosées axillaires et terminales, à nombreuses ramifications brièvement pubérulentes, solitaires à fasciculées, pouvant atteindre 20 cm de longueur. Fleurs à courts pédicelles de 2-4 mm, pubérulents. Bractées 2, valvaires, obovées, pubérulentes extérieurement, longues de 4-9 mm. Réceptacle court. Sépales 4, ovés, longs de 5-8 mm, imbriqués dans le bouton, les 2 externes pubérulents extérieurement. Pétales 5, lancéolés, acuminés, subégaux, de 6-10 mm de longueur sur 2-3 mm de largeur, blancs, velus sur la face interne. Étamines 10, libres, exsertes, glabres. Ovaire densément velu, courtement stipité; 2-5 ovules.
+Rosy panicles axillary and terminal, with numerous briefly puberulent branches, solitary or fasciculate, reaching up to 20 cm long. Flowers on short pedicels 2–4 mm, puberulent. Bracts 2, valvate, obovate, puberulent externally, 4–9 mm long. Receptacle short. Sepals 4, ovate, 5–8 mm long, imbricate in the bud, the 2 outer ones puberulent externally. Petals 5, lanceolate, acuminate, subequal, 6–10 mm long by 2–3 mm wide, white, hairy on the inner face. Stamens 10, free, exserted, glabrous. Ovary densely hairy, shortly stipitate; 2–5 ovules.
 
-Gousses oblongues de 10-13 × 4 cm, veloutées brunes, faiblement nervurées transversalement.
+Pods oblong, 10–13 × 4 cm, velvety brown, weakly transversely veined.
 
-Arbres moyens, à contreforts. Fût droit mais non cylindrique. Cime densément feuillée; jeunes feuilles pendantes. Écorce dure, de tranche orangée. Bois dur.
+Trees of medium size, with buttresses. Bole straight but not cylindric. Crown densely leafy; young leaves pendulous. Bark hard, orange on the cut surface. Wood hard.
 
 ## Specimens examined
 
@@ -59,11 +57,9 @@ de Saint-Aubin 1984, Gabon (P)
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Trees of medium or large size. The base of the bole is furnished with numerous, thin, ramified buttresses (photos in de Saint-Aubin, For. Gabon: 94). Bole cylindric, straight. Bark smooth or finely scaly, thick, fibrous on the cut surface, wine-red. Wood pink-brown, hard, heavy.
 
-Arbres moyens ou grands. La base du fût est munie de contrefort nombreux, minces, ramifiés (photos dans de Saint-Aubin, For. Gabon : 94). Fût cylindrique, droit. Écorce lisse on finement écailleuse, épaisse, de tranche fibreuse, rouge vineux. Bois brun rose, dur, lourd.
-
-Cette espèce d'après de Saint-Aubin, serait très rare, et se présenterait généralement en bouquets de quelques pieds disséminés dans la forêt primitive.
+This species, according to de Saint-Aubin, would be very rare, and would generally occur in small clumps of a few individuals scattered in the primary forest.
 
 ## Vernacular names
 

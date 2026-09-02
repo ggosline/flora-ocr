@@ -22,11 +22,9 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Trees. Branchlets lenticellate. Leaves simple, shortly petiolate (3–4 mm), oblong, with acuminate or obtuse apex, attenuate base, 8–12 cm long, 4.5–6 cm wide, glabrous. Secondary nerves 6–8 pairs, anastomosing near the margin. Tertiary veins finely reticulate beneath.
 
-Arbres. Rameaux lenticellés. Feuilles simples, courtement pétiolées (3-4 mm), oblongues, à sommet acuminé ou obtus, à base atténuée, longues de 8-12 cm, larges de 4,5-6 cm, glabres. Nervures secondaires 6-8 paires, anastomosées près de la marge. Nervilles finement réticulées dessous.
-
-Grappes très courtes (2 cm env.), axillaires, d'une dizaine de fleurs. Axe glabrescent. Bractées suborbiculaires courtes, très caduques, laissant des cicatrices très marquées. Pédicelles glabrescents, de 5-10 mm. Bractéoles non involucrales, caduques. Réceptacle concave. Sépales 4, imbriqués dans le bouton, puis réfléchis, oblongs-lancéolés, env. 4 mm, un peu velus extérieurement. Pétales 5, égaux ou subégaux, blancéolés, spatulés, glabrescents ou glabres, d'env. 6 × 2,5-3 mm. Étamines 10, libres. Ovaire velu, courtement stipité; 2 ovules. Fruits inconnus.
+Racemes very short (ca. 2 cm), axillary, with about ten flowers. Axis glabrescent. Bracts suborbicular, short, very caducous, leaving very marked scars. Pedicels glabrescent, 5–10 mm. Bracteoles non-involucral, caducous. Receptacle concave. Sepals 4, imbricate in the bud, then reflexed, oblong-lanceolate, ca. 4 mm, somewhat hairy externally. Petals 5, equal or subequal, whitish, spatulate, glabrescent or glabrous, ca. 6 × 2.5–3 mm. Stamens 10, free. Ovary hairy, shortly stipitate; 2 ovules. Fruits unknown.
 
 ## Type
 
@@ -34,9 +32,7 @@ Zenker 206, Cameroun (K)
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Espèce du S. Nigéria au Cameroun, à Fernando Po et au nord du Gabon.
+Species from S. Nigeria to Cameroon, Fernando Po and northern Gabon.
 
 ## Specimens examined
 

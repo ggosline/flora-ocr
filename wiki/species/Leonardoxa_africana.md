@@ -24,15 +24,13 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 Aubr. (PL. 16, p. 83)
 
-Arbustes. Feuilles à 2-4 paires de folioles opposées, glabres. Entrenœuds des jeunes rameaux parfois renflés, en étroits fuseaux creux abritant des fournis. Folioles oblongues, un peu falciformes, acuminées, à base très dissymétrique, la moitié extérieure du limbe étant insérée sur le pétiolule plus bas que la moitié intérieure, longues de 10-18 cm, larges de 4-7 cm. Nervures latérales environ 6-9 paires, saillantes dessous et réunies en arceaux bien dessinés à 4-5 mm des marges. Réseau de nervilles à mailles lâches. Très courts pétioules de 3-4 mm, tordus.
+Shrubs. Leaves with 2–4 pairs of opposite, glabrous leaflets. Internodes of young branches sometimes swollen, in narrow hollow spindles harbouring ants. Leaflets oblong, somewhat falciform, acuminate, with very asymmetric base, the outer half of the blade being inserted on the petiolule lower than the inner half, 10–18 cm long, 4–7 cm wide. Lateral veins approximately 6–9 pairs, prominent beneath and joined in well-drawn arches 4–5 mm from the margins. Network of veinlets with loose meshes. Very short petioles of 3–4 mm, twisted.
 
-Grappes courtes désentément fleuries, axillaires, souvent sur le vieux bois, solitaires ou par 2-3. Bractées et bractéoles ovées, obtuses, très courtes, (2 mm) caduques. Calice pubérulent ou glabre, tubulaire, de 7-8 mm; Lobes 4(-5) de 5-6 mm, oblongs, obtus, réfléchis dans la fleur épanouie, roses à bord violacés. Pétales 5, subégaux, ovales ou blancéolés, atténués à la base, dépassant un peu les lobes du calice, violets. Étamines 10, à filets violets, longuement exsertes, inégales, la supérieure plus courte et libre, les autres plus longues et un peu soudées inégalement à la base. Ovaire stipité, velu, soudé à la paroi du réceptacle, prolongé d'un long style grêle violet, à stigmate capité; 4-5 ovules.
+Short, sparsely flowered racemes, axillary, often on old wood, solitary or in groups of 2–3. Bracts and bracteoles ovate, obtuse, very short (2 mm), caducous. Calyx puberulent or glabrous, tubular, 7–8 mm; lobes 4(–5) of 5–6 mm, oblong, obtuse, reflexed in the open flower, pink with violet-edged margins. Petals 5, subequal, ovate or lancet-shaped, attenuate at the base, slightly exceeding the calyx lobes, violet. Stamens 10, with violet filaments, long-exserted, unequal, the upper one shorter and free, the others longer and somewhat unequally connate at the base. Ovary stipitate, villous, adnate to the receptacle wall, prolonged by a long slender violet style, with capitate stigma; 4–5 ovules.
 
-Gousse obovale oblongue, apiculée, aplatie, d'env. 10 × 4 cm, à surface légèrement ridée; 1 seule graine.
+Pod obovate-oblong, apiculate, flattened, c. 10 × 4 cm, with slightly wrinkled surface; 1 seed only.
 
 ## Type
 

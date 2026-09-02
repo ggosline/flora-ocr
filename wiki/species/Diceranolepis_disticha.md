@@ -11,7 +11,7 @@ tags: [species, generated]
 ---
 # *Diceranolepis disticha* Planch.
 
-**Genus**: [[Diceranolepis]]
+**Genus**: [[Dicranolepis]]
 **Family**: [[Thymeleaceae]]
 **Protologue**: Planchon, in Hook., Ic. Plant., tab. 798 (1848)
 
@@ -63,6 +63,6 @@ N. Hallé : 2836 (f., fr. oct.; fruits petits, rappelant ceux du D. Buchholzii);
 
 ## See also
 
-- [[Diceranolepis]]
+- [[Dicranolepis]]
 - [[Thymeleaceae]]
 - [[vol11]]

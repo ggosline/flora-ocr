@@ -17,21 +17,15 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-D. mauritianum auct., non (Willd.) DC. Arbrisseau de 0,10–1,5(–2) m de hauteur ; plusieurs tiges sortant d’une base lignifiée ; ra milles pubescentes à glabrescentes à poils droits apprimés. Stipules obliques, ovales-triangulaires, 5–10 mm de longueur, à sommet atténué. Feuille : pétiole 6–12(–15) mm ; rachis 2–4 mm ; stipelles subulées, ± 2 mm de longueur ; folioles 3 , limbe obovale, 1–3 × 0,7–1,5 cm, base cunéée, sommet arrondi à rétus, pubescent à glabre dessus, pubescent-apprimé dessous, les latérales plus petites, presque elliptiques ; nervures en 5 ou 6 paires . Inflorescence en pseudoracèmes terminaux et axillaires, assez lâches, 5–15(–20) cm de longueur , à 1 ou 2 fleurs par nœud ; bractées caduques, ovales-atténuées, 3,5–6 mm de longueur. Fleur : pédicelle 4–10 mm ; calice 2–3 mm de longueur, tube glabre à pubérulent, lobes profonds, poilus ; étendard 3,5–5 mm de longueur, plutôt pourpre , ailes et carène 3–4 mm de longueur, roses . Gousse aplatie, 15–20 mm de longueur, poilue et réticulée, sessile ou presque, avec 4 à 6 articles de 3–5 × 2,5–3,5 mm, suture dorsale légèrement échancrée au milieu des articles , suture ventrale fortement arrondie et échancrée . Graine oblongue-réniforme, 2,5–3 × 1,5–2 mm, brun pâle ; hile central.
+D. mauritianum auct., non (Willd.) DC. Shrub 0.10–1.5(–2) m tall; several stems arising from a lignified base; branchlets pubescent to glabrescent with straight appressed hairs. Stipules oblique, ovate-triangular, 5–10 mm long, with attenuate apex. Leaf: petiole 6–12(–15) mm; rachis 2–4 mm; stipels subulate, ± 2 mm long; leaflets 3, limb obovate, 1–3 × 0.7–1.5 cm, base cuneate, apex rounded to retuse, pubescent to glabrous above, appressed-pubescent below, the lateral ones smaller, almost elliptic; veins in 5 or 6 pairs. Inflorescence in terminal and axillary pseudoracemes, rather lax, 5–15(–20) cm long, with 1 or 2 flowers per node; bracts caducous, ovate-attenuate, 3.5–6 mm long. Flower: pedicel 4–10 mm; calyx 2–3 mm long, tube glabrous to puberulent, lobes deep, hairy; standard 3.5–5 mm long, rather purple, wings and keel 3–4 mm long, pink. Pod flattened, 15–20 mm long, hairy and reticulate, sessile or nearly so, with 4 to 6 articles of 3–5 × 2.5–3.5 mm, dorsal suture slightly notched at the middle of the articles, ventral suture strongly rounded and notched. Seed oblong-reniform, 2.5–3 × 1.5–2 mm, pale brown; hilum central.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-commune en Afrique tropicale et Madagascar ; au Gabon, connue de l’Estuaire, du MoyenOgooué, de la Ngounié, de la Nyanga, de l’Ogooué-Ivindo, de l’Ogooué-Lolo et du Woleu-Ntem
+common in tropical Africa and Madagascar; in Gabon, known from Estuaire, Moyen-Ogooué, Ngounié, Nyanga, Ogooué-Ivindo, Ogooué-Lolo and Woleu-Ntem.
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-sols ferrugineux, stations rudérales, savanes ; au Gabon à 10–600 m d’altitude, ailleurs jusqu’à 1300 m. Fleurs et fruits tout au long de l’année
+Ferruginous soils, ruderal stations, savannas; in Gabon at 10–600 m altitude, elsewhere up to 1300 m. Flowers and fruits throughout the year.
 
 ## Vernacular names
 
@@ -39,9 +33,7 @@ petit réglisse, petit treff (fr). Usage : Un très bon fourrage pour le bétail
 
 ## Source note
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Dans la littérature, cette espèce a été confondue avec le vrai D. mauritianum qui est une espèce plutôt asiatique. b : Burkill (1995), De la Estrella et al. (2010), Ern (1984), Hepper (1958), Mackinder et al. ibliographie (2001), van der Maesen (2006a), Pellegrin (1949), Polhill (1990), Schubert (1954, 1971)
+In the literature, this species has been confused with the true D. mauritianum which is rather an Asiatic species. Bibliography: Burkill (1995), De la Estrella et al. (2010), Ern (1984), Hepper (1958), Mackinder et al. (2001), van der Maesen (2006a), Pellegrin (1949), Polhill (1990), Schubert (1954, 1971).
 
 ## Notes
 

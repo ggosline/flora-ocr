@@ -11,7 +11,7 @@ tags: [species, generated]
 ---
 # *Warnecka wildeana* Jacques-Félix
 
-**Genus**: [[Warnecka]]
+**Genus**: [[Warneckea]]
 **Family**: [[Melastomataceae]]
 **Protologue**: Adansonia, sér. 2, 19 (3) : 260, tab. 2 (1980); Fl. Cam. 24 : 170, tab. 56 (1983)
 
@@ -53,6 +53,6 @@ Breteler & De Wilde J.J.F.E. 362, NNW Méla, arbuste de 5 m (août), WAG.
 
 ## See also
 
-- [[Warnecka]]
+- [[Warneckea]]
 - [[Melastomataceae]]
 - [[vol25]]

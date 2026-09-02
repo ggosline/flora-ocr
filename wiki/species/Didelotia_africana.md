@@ -17,13 +17,11 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Trees. Leaves unijugate, stipulate. Rachis very short, 5-8 mm. Leaflets opposite, ovate-lanceolate, asymmetric, somewhat falcate, with gradually acuminate apex, unequal base, broadly rounded on the outer side, glabrous, measuring 6-13 cm in length by 2.5-6 cm in width.
 
-Arbres. Feuilles unijuguées, stipulées. Rachis très court, de 5-8 mm. Folioles opposées, ovées lancéolées, asymétriques, un peu falciformes, à sommet graduellement acuminé, à base inégale, largement arrondies du côté externe, glabres, mesurant 6-13 cm de longueur sur 2,5-6 cm de largeur.
+Inflorescences axillary, racemiform, pendulous, measuring up to 18 cm in length; the short branches up to 3 cm. Pedicels puberulent, 2-3 mm long. Bracteoles 4 × 2 mm, puberulent on the exterior. Receptacle fleshy, undulate at the margins. Sepals ovate, minute. Petals filiform, 2-3 mm. Stamens 5, 6-8 mm. Ovary pubescent on the margins. Style glabrous.
 
-Inflorescences axillaires racéimiformes pendantes, mesurant jusqu'à 18 cm de longueur; les ramifications courtes jusqu'à 3 cm. Pédicelles pubérulents, longs de 2-3 mm. Bractéoles de 4 × 2 mm, pubérulentes extérieurement. Réceptacle charnu, ondulé sur les bords. Sépales ovés minuscules. Pétales filiformes de 2-3 mm. Étamines 5, de 6-8 mm. Ovaire pubescent sur les marges. Style glabre.
-
-Gousses glabres, oblongues, d'environ 10 × 4 cm, marquées d'une nervure longitudinale et d'une autre basilaire, peu accusées.
+Pods glabrous, oblong, approximately 10 × 4 cm, marked with one longitudinal nerve and another basilar one, slightly pronounced.
 
 ## Type
 
@@ -31,9 +29,7 @@ Griffon du Bellay 235 (P)
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Espèce répandue du sud de la Nigéria au Gabon.
+Species widespread from southern Nigeria to Gabon.
 
 ## Vernacular names
 

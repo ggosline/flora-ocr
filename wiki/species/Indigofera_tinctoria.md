@@ -17,21 +17,15 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Herbe à base ligneuse , 0,5–1,7 m de hauteur ; pilosité de la tige et du calice blanche, appri mée. Stipules triangulaires-allongées. Feuille : pétiole 7–12 mm ; rachis 2–7 cm ; stipelles absentes ; folioles 9 à 13(–17) , opposées, à limbe elliptique à elliptique-obovale, 15–23 × 7–12 mm, glabre ou strigueux dessus. Inflorescence en un pseudoracème axillaire, sessile ou à pédoncule jusqu’à 10 mm, rachis ± 75 mm. Fleur : pédicelle 1–1,5 mm ; calice à tube de 0,5 mm de longueur, dents ± 1,5 mm de longueur ; corolle rose purpurin , étendard largement obovale, 4–5 × 3 mm, ailes ± 4 × 2 mm, à base rectangulaire, sommet arrondi ; étamines 4–5 mm. Gousse jeune étalée, ensuite pendante sous un angle de 20–45 0 , droite ou légèrement arquée, 12–35 × 2 mm, avec 8 à 12 graines, brune avec des poils apprimés blancs. Graine cylindrique-arrondie, ± 2×1,5×1,5 mm, brune à noire ; hile excentré ou presque central.
+Herb with woody base, 0.5–1.7 m tall; stem and calyx pubescence white, appressed. Stipules triangular-elongate. Leaf: petiole 7–12 mm; rachis 2–7 cm; stipels absent; leaflets 9 to 13(–17), opposite, with elliptic to elliptic-obovate blade, 15–23 × 7–12 mm, glabrous or strigose above. Inflorescence as an axillary pseudoraceme, sessile or with peduncle up to 10 mm, rachis ± 75 mm. Flower: pedicel 1–1.5 mm; calyx with tube 0.5 mm long, teeth ± 1.5 mm long; corolla pink-purplish, standard broadly obovate, 4–5 × 3 mm, wings ± 4 × 2 mm, with rectangular base, rounded apex; stamens 4–5 mm. Young legume spreading, subsequently pendulous at an angle of 20–45°, straight or slightly curved, 12–35 × 2 mm, with 8 to 12 seeds, brown with appressed white hairs. Seed cylindric-rounded, ± 2 × 1.5 × 1.5 mm, brown to black; hilum eccentric or nearly central.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-originaire probablement de l’Inde, maintenant dans beaucoup des pays tropicaux, comme dans la plupart des pays africains et à Madagascar, sauf la République du Congo, la République démocra tique du Congo et la Namibie ; au Gabon, rarement cultivée, peut-être importée de l’Afrique de l’Ouest avant l’époque française. Rapportée de l’Estuaire (Raponda-Walker & Sillans 1961), mais il manque des échantillons d’herbier
+Probably native to India, now in many tropical countries, as in most African countries and Madagascar, except the Republic of the Congo, the Democratic Republic of the Congo, and Namibia; in Gabon, rarely cultivated, perhaps introduced from West Africa before the French period. Reported from the Estuary (Raponda-Walker & Sillans 1961), but herbarium specimens are lacking.
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-champs, bords de route, au Gabon à basse altitude, ailleurs jusqu’à 1250 m. Usage : L’espèce est renommée pour la couleur indigo naturelle, depuis fréquemment copiée par l’industrie chimique
+Fields, roadsides, in Gabon at low altitude, elsewhere up to 1250 m. Use: The species is renowned for natural indigo color, since frequently copied by the chemical industry.
 
 ## Vernacular names
 

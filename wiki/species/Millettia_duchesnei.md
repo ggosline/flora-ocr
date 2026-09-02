@@ -17,23 +17,15 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Liane atteignant 20 m, arbre jusqu’à 12 m ou arbuste ; tige rubanée, 20 cm de largeur et 3 cm d’épaisseur ; sève résineuse rouge. Stipules caduques, peltées , étroitement ovales, 10–14 × 2–3 mm. Feuille : pétiole 4–12 cm, anguleux, canaliculé dessus ; rachis 6–14 cm, canaliculé dessus, glabre ou peu pubescent ; stipelles sétacées, 4–5 mm ; folioles 7 à 9(–11) , à pétiolule de 5 mm, limbe obovale-elliptique, 5–12 × 2–5 cm, base cunéée à arrondie, à acumen de ± 1 cm, mucroné ; nervures latérales en 5 à 7 paires. Inflorescence en pseudoracème, simple ou ramifiée, 15–45 cm de longueur , les rameaux 10–20 cm ; axes bruns, à pubescence lâche et courte ; fleurs 3–6 sur brachyblastes de 5–6 mm de longueur ; bractées caduques, linéaires, 5 × 1–2 mm. Fleur : pédicelle 1–3 mm, pubescent ; bractéoles 6 × 1–4 mm ; calice obtus dans le bouton, pubescent, aussi à l’intérieur, tube ± 6 mm de longueur, lobes ovales, 4–5 × 3 mm, les supérieurs presqu’entièrement soudés ; corolle violette, rose ou pourpre , à tache blanche
-
-à la base des pétales, étendard ± 14 × 14 mm, à onglet de 2,5 mm et à 2 gibbosités latérales, ailes obovales, 14 × 6 mm, à onglet de 4 mm, auriculées, carène 14 × 6 mm, à onglet de 4 mm ; étamines monadelphes ou bien la vexillaire se déchirant à la fin, 12 mm, partie libre ± 2 mm ; ovaire 13 mm de longueur, velu, 5-ovulé ; style 4 mm, à stigmate capité. Gousse linéaire à losangique, 5–8 × 1,0–2,1 cm , brune, veloutée, devenant glabre et obliquement fendillée, à sommet pointu. Graine subarrondie, aplatie, ± 7 × 5 × 1 mm, brune, devenant noire et brillante.
+Liane reaching 20 m, tree up to 12 m or shrub; stem ribboned, 20 cm wide and 3 cm thick; resinous red sap. Stipules caducous, peltate, narrowly ovate, 10–14 × 2–3 mm. Leaf: petiole 4–12 cm, angular, canaliculate above; rachis 6–14 cm, canaliculate above, glabrous or sparsely pubescent; stipels setaceous, 4–5 mm; leaflets 7 to 9(–11), with petiolule of 5 mm, blade obovate-elliptic, 5–12 × 2–5 cm, base cuneate to rounded, with acumen of ± 1 cm, mucronate; lateral nerves in 5 to 7 pairs. Inflorescence in pseudoraceme, simple or branched, 15–45 cm in length, the branches 10–20 cm; axes brown, with lax and short pubescence; flowers 3–6 on brachyblasts of 5–6 mm in length; bracts caducous, linear, 5 × 1–2 mm. Flower: pedicel 1–3 mm, pubescent; bracteoles 6 × 1–4 mm; calyx obtuse in bud, pubescent, also on the inside, tube ± 6 mm in length, lobes ovate, 4–5 × 3 mm, the upper ones almost entirely fused; corolla violet, pink or purple, with white spot at the base of the petals, standard ± 14 × 14 mm, with claw of 2.5 mm and 2 lateral gibbosities, wings obovate, 14 × 6 mm, with claw of 4 mm, auriculate, keel 14 × 6 mm, with claw of 4 mm; stamens monadelphous or else the vexillary tearing at length, 12 mm, free part ± 2 mm; ovary 13 mm in length, villous, 5-ovulate; style 4 mm, with capitate stigma. Pod linear to rhombic, 5–8 × 1.0–2.1 cm, brown, velvety, becoming glabrous and obliquely fissured, with pointed apex. Seed subrounded, flattened, ± 7 × 5 × 1 mm, brown, becoming black and shiny.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Cameroun, Gabon et République démocratique du Congo ; au Gabon, connue de l’OgoouéIvindo et de l’Ogooué-Maritime
+Cameroon, Gabon and Democratic Republic of the Congo; in Gabon, known from Ogooué-Ivindo and Ogooué-Maritime
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-forêt primaire et secondaire, ombrophile ; à 0–500 m d’altitude. Floraison en novembre et janvier ; fruits en juillet. b : Hauman (1954a), Pellegrin (1949). ibliographie
+primary and secondary rainforest, ombrophilous; at 0–500 m altitude. Flowering in November and January; fruits in July. b: Hauman (1954a), Pellegrin (1949). Bibliography
 
 ## Notes
 

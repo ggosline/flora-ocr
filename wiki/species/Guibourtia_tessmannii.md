@@ -21,15 +21,13 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Leonard Bubinga (PL. 26, p. 121)
 
-Léonard Bubinga (PL. 26, p. 121)
+Trees. Leaflets ovate falcate, acuminate, coriaceous, without visible translucent punctations, 7–15 cm long and 3–6 cm wide. Petiole 1.5–3 cm long.
 
-Arbres. Folioles ovées falciformes, acuminées, coriaces, sans ponctuations translucides visibles, de 7-15 cm de longueur sur 3-6 cm de largeur. Pétiole de 1,5-3 cm de longueur.
+Strong panicles, with thick reddish-brown pubescent axes. Bract ovate, enveloping the bud, very caducous. Bracteoles lanceolate not enveloping the bud, very caducous. Flowers sessile. Sepals glabrous externally except on the margins, puberulent internally. Stamens 10. Ovary hirsute; 2 ovules.
 
-Fortes panicules, à axes épais pubescents roux. Bractée ovée, enveloppant le bouton, très caduque. Bractéoles lancéolées n'enveloppant pas le bouton, très caduques. Fleurs sessiles. Sépales glabres extérieurement sauf sur les marges, pubérulents intérieurement. Étamines 10. Ovaire hirsute; 2 ovules.
-
-Gousses obliquement elliptiques, avec un coté rectiligne et l'autre convexe, épaisses,  $ 3-3,5 \times 2-2,5 $ cm, déhiscentes en deux valves coriaces, à surface fortement plissée striée. Graines complètement entourées d'un arille.
+Pods obliquely elliptic, with one side rectilinear and the other convex, thick, 3–3.5 × 2–2.5 cm, dehiscent into two coriaceous valves, with strongly wrinkled striated surface. Seeds completely surrounded by an aril.
 
 ## Type
 
@@ -37,15 +35,13 @@ Tessmann 896, Guinée espagnole
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Very large trees of upland forests, among the largest of the primary forest. They can reach 2 m in diameter. Trunk straight, cylindrical, provided with thin, elevated buttresses. Crown broad and umbrella-shaped. Foliage dense. Bark rugose. Exfoliates in small circular scales which upon detaching leave bright red depressions. Heartwood brittle, old rose in colour. When incised it exudes a gelatinous gum of currant-red colour.
 
-Très grands arbres des forêts de terre ferme, parmi les plus grands de la forêt primaire. Ils peuvent atteindre 2 m de diamètre. Fût droit, cylindrique, pourvu de contreforts minces, élevés. Cime large en parasol. Feuillage dense. Écorce rugueuse. S'exfolie en petites écailles circulaires qui en se détachant laissent des dépressions rouge vif. Tranche cassante, de teinte vieux rose. Entaillée elle exsude une gomme gélatineuse de couleur rouge-groseille.
+Medicinal use. The base of the trunks is often debarked.
 
-Usage médicamenteux. La base des fûts est souvent écorcée.
+Scattered in the primary forests of Cameroon and Gabon.
 
-Disséminés dans les forêts primaires du Cameroun et du Gabon.
-
-Le bois fut quelquefois employé dans l'ébénisterie sous le nom de « faux bois de rose », apprécié surtout lorsqu'il est figuré (extérieurement aspect bosselé de la surface du tronc); teinte brun rosé finement veiné de rouge violacé; dur et lourd.
+The wood was sometimes used in cabinetmaking under the name "false rosewood", appreciated especially when figured (externally bosselated appearance of the trunk surface); reddish-brown colour finely veined with violaceous red; hard and heavy.
 
 ## Vernacular names
 

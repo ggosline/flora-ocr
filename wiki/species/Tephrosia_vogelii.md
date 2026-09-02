@@ -17,21 +17,15 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Arbuste érigé de 2–3(–4) m de hauteur ; tiges à pubescence dense jaune ou ferrugineuse , à poils courts et longs. Stipules assez caduques, lancéolées, 1–2 cm de longueur. Feuille : pétiole 1–3 cm ; rachis 10–25 cm, à poils bruns ; folioles 13 à 27(–31) , limbe elliptique-oblong à elliptique-oblancéolé, 2,5–8,5 × 1–2(–2,3) cm , sommet arrondi à légèrement émarginé, tomenteux dessus , plus dense dessous. Inflorescence terminale ou axillaire, en pseudoracèmes bruns, tomenteux, jusqu’à 10 cm de longueur (jusqu’à 20 cm en fruit) ; pédoncule robuste ; bractées jusqu’à 12(–16) mm de longueur. Fleur : pédicelle 14–26 mm ; calice brun, tomenteux, tube 3,5–6 mm de longueur, lobes oblongs, 6–14 mm de longueur , les supérieurs largement soudés , les latéraux et l’inférieur les plus longs ; étendard suborbiculaire, 23–35 mm de longueur , soyeux, en partie aussi à l’intérieur , blanc ou plus rarement pourpre lilacé à mauve, dorsalement blanc verdâtre, ailes obovales-oblancéolées, ± 25 mm de longueur, pourpre lilacé, carène obtuse, ± 25 mm de longueur, blanche, les marges pubescentes ; étamines à tube de ± 19 mm, partie libre 4–8 mm ; ovaire ± 20 mm de longueur, tomenteux ; style incurvé au sommet, aplati, à pubescence courte. Gousse droite, atteignant 14 × 1,5 cm , avec 10 à 16 graines, à pubescence blanche très dense, ou bien à tomentum brun aux sutures , sommet droit à légèrement courbé. Graine transversalement oblique, 6–8 × 4–4,5 × 2–3 mm, noire ou brune, lisse ; hile excentré près du côté étroit, strophiole annulaire, brun.
+Erect shrub 2–3(–4) m tall; stems with dense yellow or ferruginous pubescence, with short and long hairs. Stipules rather caducous, lanceolate, 1–2 cm long. Leaf: petiole 1–3 cm; rachis 10–25 cm, with brown hairs; leaflets 13 to 27(–31), limb elliptic-oblong to elliptic-oblanceolate, 2.5–8.5 × 1–2(–2.3) cm, apex rounded to slightly emarginate, tomentose above, denser below. Inflorescence terminal or axillary, in brown pseudoracemes, tomentose, up to 10 cm long (up to 20 cm in fruit); peduncle robust; bracts up to 12(–16) mm long. Flower: pedicel 14–26 mm; calyx brown, tomentose, tube 3.5–6 mm long, lobes oblong, 6–14 mm long, the upper ones broadly connate, the lateral and lower ones the longest; standard suborbicular, 23–35 mm long, silky, partly also on the inside, white or more rarely purple lilac to mauve, dorsally whitish-green, wings obovate-oblanceolate, ± 25 mm long, purple lilac, keel obtuse, ± 25 mm long, white, the margins pubescent; stamens with tube ± 19 mm, free part 4–8 mm; ovary ± 20 mm long, tomentose; style incurved at the apex, flattened, with short pubescence. Pod straight, reaching 14 × 1.5 cm, with 10 to 16 seeds, with very dense white pubescence, or with brown tomentum at the sutures, apex straight to slightly curved. Seed transversely oblique, 6–8 × 4–4.5 × 2–3 mm, black or brown, smooth; hilum eccentric near the narrow side, strophiole annular, brown.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-originaire d’Afrique tropicale où elle est largement répandue, introduite en Asie du SudEst et en Amérique tropicale ; au Gabon, assez commune et connue de l’Estuaire, du Haut-Ogooué, de la Nyanga, de l’Ogooué-Ivindo, de l’Ogooué-Lolo et de l’Ogooué-Maritime
+native to tropical Africa where it is widely distributed, introduced to Southeast Asia and tropical America; in Gabon, fairly common and known from Estuaire, Haut-Ogooué, Nyanga, Ogooué-Ivindo, Ogooué-Lolo and Ogooué-Maritime
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-surtout culture, bords des eaux, prairies ; au Gabon à 0–850 m d’altitude, ailleurs jusqu’à 2100 m. Fleurs en janvier, février, juin, août, septembre et novembre ; fruits pour la plupart, durant les mêmes mois. Usage : Un ichtyotoxique principal. Le thé des feuilles tue les poux. Les gousses vertes, l’écorce et les feuilles pourraient provoquer des avortements. Plante améliorante des sols, de couverture et produisant un colorant bleu. L’usage magique inclut des rituels de bain pour atteindre la fortune. Plante fourragère, mais à toxicité variable
+mainly cultivated, waterside edges, grasslands; in Gabon at 0–850 m altitude, elsewhere up to 2100 m. Flowers in January, February, June, August, September and November; fruits mostly during the same months. Uses: A principal ichthyotoxin. Tea of the leaves kills lice. The green pods, bark and leaves could cause abortions. Soil-ameliorating plant, cover crop and producing a blue dye. Magical use includes bathing rituals to achieve fortune. Forage plant, but with variable toxicity
 
 ## Vernacular names
 
@@ -39,9 +33,7 @@ haricot poison de poisson (fr.) ; fish-poison bean, Vogel’s tephrosia (angl.) 
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Androcée (× 2). – 7. Base de l’androcée (× 3). – 8. Base de l’étamine vexillaire (× 5). – 9. Gynécée (× 1½). – 10. Idem, coupe longitudinale (× 1½). – 11. Gousse, partie en coupe (× ½). (1–10 : Quarré 6165 ; 11 : Pittery 433 ). Dessin par J.M. Lerinckx, Jardin Botanique Meise (©).
+Androecium (× 2). – 7. Base of the androecium (× 3). – 8. Base of the vexillary stamen (× 5). – 9. Gynoecium (× 1½). – 10. Idem, longitudinal section (× 1½). – 11. Pod, sectioned part (× ½). (1–10: Quarré 6165; 11: Pittery 433). Drawing by J.M. Lerinckx, Meise Botanical Garden (©).
 
 ## Notes
 

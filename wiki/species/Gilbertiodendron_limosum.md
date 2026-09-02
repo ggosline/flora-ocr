@@ -21,13 +21,11 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Shrubs sometimes bushy. Leaves (2-) 3-jugate. Stipules persistent, acute, 2 cm long, furnished with reniform auricles, reticulate, 2-5 cm wide, 1-1.5 cm long. Rachis 12-15 cm, glabrous. Large leaflets lanceolate, acuminate, obtuse or rounded at the base, glabrous, 15-25 × 5-7.5 cm. About a dozen pairs of lateral nerves. Between 2 consecutive secondary nerves there is often placed an intermediate nerve anastomosed to the network of veinlets. Limb somewhat waffle-patterned on the upper surface.
 
-Arbustes parfois buissonnants. Feuilles (2-) 3 juguées. Stipules persistantes, aiguës, longues de 2 cm, pourvues d'oreillettes réinformes, réticulées, larges de 2-5 cm, longues de 1-1, 5 cm. Rachis de 12-15 cm, glabre. Grandes folioles lancéolées, acuminées, obtuses ou arrondies à la base, glabres, de 15-25 × 5-7,5 cm. Une douzaine de paires de nervures latérales. Entre 2 nervures secondaires consécutives se place souvent une nervure intermédiaire anastomosée au réseau des nervilles. Limbe un peu gaufré sur la face supérieure.
+Panicles lax, terminal, ferrugineous puberulent.
 
-Panicules lâches, terminales, pubérulentes ferrugineuses.
-
-Boutons floraux aigus. Bractées ovées, caduques. Bractéoles pubérulentes, rousses, longues de 12 à 15 mn, apiculées. Pédicelles de 5-10 mm. Calice pourpre, glabre, à 6 segments linéaires de 6 mm et tube de 2,5 mm. Un très grand pétale rose ou blanc, à lame bilobée large de 28 mm, haute de 15 mm, et onglet de 9 mm. Étamines fertiles 3, exsertes. Ovaire brièvement stipité, pubescent roux. Fruit?
+Floral buds acute. Bracts ovate, caducous. Bracteoles puberulent, rust-coloured, 12 to 15 mm long, apiculate. Pedicels 5-10 mm. Calyx purple, glabrous, with 6 linear segments 6 mm and tube 2.5 mm. One very large petal pink or white, with bilobed lamina 28 mm wide, 15 mm high, and claw 9 mm. Fertile stamens 3, exserted. Ovary shortly stipitate, rust-pubescent. Fruit?
 
 ## Type
 
@@ -35,9 +33,7 @@ Le Testu 2226, Gabon (P)
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Arbrisseau ripicole parfois buissonnant, partiellement immergé aux hautes eaux.
+Riparian shrub sometimes bushy, partially immersed at high water.
 
 ## Specimens examined
 

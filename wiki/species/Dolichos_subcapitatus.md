@@ -17,27 +17,19 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Herbe à souche fibreuse ; tige prostrée, atteignant 40 cm de longueur, anguleuse, striée, pubes cente. Stipules persistantes, dressées , ovales à oblongues, légèrement obliques, 6–20 × 4–8 mm , striées, à base subcordée, à sommet aigu et ciliolé. Feuille : pétiole 1–3 cm ; rachis 0,5–1,2 cm ; stipelles spathulées à orbiculaires, 2–3 × 1–2 mm ; folioles 3 , à pétiolule tomen teuse de ± 1 mm, limbe oblong-lancéolé à elliptique, les latérales légèrement obliques, 3–8,5 × 1–2,7 cm, à base arrondie, à sommet aigu-mucronulé, éparsement pubescentes sur les deux faces, mais glabres dans les spécimens gabonais . Inflorescence subcapituliforme, dense ; pédoncule 3–12 cm ; rachis 0,5–1,5 cm ; bractées ± caduques, lancéolées, 2–4 mm de lon gueur. Fleur : pédicelle 1–5 mm ; bractéoles vers le sommet du pédicelle, lancéolées, 7–9 mm de longueur ; calice éparsément pubérulent, tube 2–2,5 mm de longueur, lobes supérieurs adnés, arrondis à émarginés, 1–2 mm de longueur, lobe inférieur médian plus étroit que les autres, 2–3 mm de longueur ; corolle rose violacée , étendard suborbiculaire, 8–11 mm de dia mètre, à sommet émarginé, à 2 appendices lamelliformes transversaux, ailes obovales-lancéo lées, 8–12 × 4–6 mm, carène falciforme, 6–8 × 4 mm, à rostre incurvé ; ovaire subsessile, 5–8 mm de longueur, atténué de la base au sommet, glabre, rugueux ; stigmate entouré de longs poils. Gousse étroitement oblongue, 3–4,5 × 0,5–0,7 cm, atténuée à la base et au sommet, à 3 ou 4 graines, glabre, à sutures épaissies . Graine ovoïde, 3–4,5 × 3 × 2 mm, à arille excentrée de 2–3 mm de longueur, jaune ; hile linéaire, ± 2 mm de longueur.
+Herb with fibrous rootstock; stem prostrate, reaching 40 cm in length, angular, striate, pubescent. Stipules persistent, erect, ovate to oblong, slightly oblique, 6–20 × 4–8 mm, striate, with subcordate base, acute and ciliolate apex. Leaf: petiole 1–3 cm; rachis 0.5–1.2 cm; stipels spatulate to orbicular, 2–3 × 1–2 mm; leaflets 3, with tomentose petiolule of ± 1 mm, blade oblong-lanceolate to elliptic, the lateral ones slightly oblique, 3–8.5 × 1–2.7 cm, with rounded base, acute-mucronate apex, sparsely pubescent on both surfaces, but glabrous in Gabonese specimens. Inflorescence subcapituliform, dense; peduncle 3–12 cm; rachis 0.5–1.5 cm; bracts ± caducous, lanceolate, 2–4 mm in length. Flower: pedicel 1–5 mm; bracteoles toward the apex of the pedicel, lanceolate, 7–9 mm in length; calyx sparsely puberulent, tube 2–2.5 mm in length, upper lobes adnate, rounded to emarginate, 1–2 mm in length, median lower lobe narrower than the others, 2–3 mm in length; corolla pink-violet, standard suborbicular, 8–11 mm in diameter, with emarginate apex, with 2 transverse lamellifom appendages, wings obovate-lanceolate, 8–12 × 4–6 mm, keel falciform, 6–8 × 4 mm, with incurved rostrum; ovary subsessile, 5–8 mm in length, attenuate from base to apex, glabrous, rugose; stigma surrounded by long hairs. Pod narrowly oblong, 3–4.5 × 0.5–0.7 cm, attenuate at base and apex, with 3 or 4 seeds, glabrous, with thickened sutures. Seed ovoid, 3–4.5 × 3 × 2 mm, with eccentric aril of 2–3 mm in length, yellow; hilum linear, ± 2 mm in length.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-jusqu’à récemment, n’était connue que du Sud de la République démocratique du Congo ; au Gabon, observée dans le Haut-Ogooué sur les Plateaux Batéké
+Until recently, was known only from southern Democratic Republic of the Congo; in Gabon, observed in Haut-Ogooué on the Batéké Plateaus
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-savanes, lisières de forêt, stations rudérales et cultivées, savanes brûlées en mars ; au Gabon, sur sables du Kalahari, à 640 m d’altitude, ailleurs, jusqu’à 1500 m
+savannas, forest margins, ruderal and cultivated stations, savannas burned in March; in Gabon, on Kalahari sands, at 640 m altitude, elsewhere, up to 1500 m
 
 ## Source note
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-La var. angustifolium Mackinder a des folioles plus étroites (plus de 6 fois plus longues que larges) et elle est seulement connue de la Zambie. b : Mackinder (1999), Mackinder et al. (2001), Walters et al. (2011), Wilczek (1954). ibliographie
+The var. angustifolium Mackinder has narrower leaflets (more than 6 times longer than wide) and is known only from Zambia. b: Mackinder (1999), Mackinder et al. (2001), Walters et al. (2011), Wilczek (1954). ibliography
 
 ## Notes
 

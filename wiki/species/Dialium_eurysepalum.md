@@ -17,13 +17,11 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Trees. Leaves with (3–) 5 leaflets. Short rachis, 4–5 cm. Lamina elliptic or oblong, acuminate, cuneate to rounded at the base, coriaceous, glabrous, with margins folded inwardly, measuring approximately 7–8 × 3 cm. Midvein prominent beneath. Secondary veins, approximately 6 pairs, inconspicuous. Reticulation lax, scarcely apparent.
 
-Arbres. Feuilles à (3-) 5 folioles. Court rachis, de 4-5 cm. Limbe elliptique ou oblong, acuminé, cunéiforme à arrondi à la base, coriace, glabre, à bords repliés intérieurement, mesurant environ 7-8 × 3 cm. Nervure médiane saillante dessous. Nervures secondaires, environ 6 paires, peu accusées. Réticulum lâche, peu apparent.
+Inflorescences in panicles. 0 petals. 2 stamens.
 
-Inflorescences en panicles. o pétales. 2 étamines.
-
-Fruits globuleux, tomenteux brun noir.
+Fruits globose, tomentose dark brown.
 
 ## Type
 
@@ -31,9 +29,7 @@ Klaine 754, Gabon (P)
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Arbre moyen. Espèce gabonaise.
+Medium-sized tree. Gabonese species.
 
 ## Specimens examined
 

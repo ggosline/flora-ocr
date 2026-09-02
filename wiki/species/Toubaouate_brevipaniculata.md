@@ -22,15 +22,13 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 Aubr. et Pellegr. Andoung (Pl. 62, p. 257)
 
-Bourgeons en cônes écailleux; écailles distiques striées, ciliées. Lorsque le rameau se développe, les écailles tombent, laissant à la base du rameau des cicatrices annulaires, saillantes, pressées les unes contre les autres, très caractéristiques de l'espèce. Jeunes rameaux densément velus roux. À l'aiselle de chaque très jeune feuille se trouve une stipule engainante, intrapétiolaire, striée, glabre, très caduque, laissant une cicatrice annulaire nette. Rachis densément velus, 6-10 cm, à crête médiane velue dessus et dessous. Folioles oblongues, émarginées au sommet, base obliquement tronquée parallèlement au rachis, plus ou moins auriculées, parfois un peu ciliées (longs poils droits, apprimés, très caducés); 15-30 paires, de 12-15 (-20) × 3 (-4) mm.
+Buds in scaly cones; scales two-ranked, striated, ciliate. When the branch develops, the scales fall, leaving at the base of the branch prominent annular scars, pressed closely against one another, very characteristic of the species. Young branches densely rusty-pubescent. In the axil of each very young leaf is found an engirdling, intrapetiolular stipule, striated, glabrous, very caducous, leaving a distinct annular scar. Rachis densely pubescent, 6–10 cm, with a median ridge hairy above and below. Leaflets oblong, emarginate at the apex, base obliquely truncate parallel to the rachis, more or less auricate, sometimes slightly ciliate (long straight hairs, appressed, very caducous); 15–30 pairs, 12–15 (−20) × 3 (−4) mm.
 
-Inflorescences en courtes panicules axillaires; axes densément velus blancs roux; l'axe principal long de 6-8 cm marqué à la base par les cicatrices des écailles du bourgeon. Pédicelles grèles velus, de 2-5 mm. Bractéoles légèrement pubescentes sur la crête dorsale puis glabres, de 3-4 mm, suborbiculaires. Sépales écailleux 4-6. Pétales 5, filiformes, égaux, de 4 mm de longueur. Étamines 5, a filets de 4-4,5 mm. Ovaire stipité velu sur les bords. Style glabre. Stigmate pointu.
+Inflorescences in short axillary panicles; axes densely rusty-white pubescent; the main axis 6–8 cm long marked at the base by scars of the bud scales. Pedicels slender-hairy, 2–5 mm. Bracteoles slightly pubescent on the dorsal ridge then glabrous, 3–4 mm, suborbicular. Sepals scaly, 4–6. Petals 5, filiform, equal, 4 mm long. Stamens 5, with filaments 4–4.5 mm. Ovary stipitate, hairy on the margins. Style glabrous. Stigma pointed.
 
-Petites gousses oblongues, 6-8 mm de longueur × 3-4 mm de largeur, marquées d'une nervure longitudinale parfois accusée.
+Small oblong pods, 6–8 mm long × 3–4 mm wide, marked with a sometimes pronounced longitudinal nerve.
 
 ## Type
 
@@ -38,11 +36,7 @@ Médou 1826, Cameroun (P)
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Cet Andoung est un très grand arbre. Cime en touffes. La base du fût est épaisse, sans contreforts distincts. L'écorce est
-
-lisse, la tranche mince (5 mm), fibreuse, de teinte rouge vineux. Le bois tendre ou mi lourd. Il est très répandu au Gabon dans le bassin de la Noya, les Monts de Cristal et les Monts Tandous où il se présente à l'état de bouquets disséminés. Son aire s'étend depuis le Libéria et l'ouest de la Côte d'Ivoire, au Cameroun et au Gabon.
+This Andoung is a very large tree. Crown in tufts. The base of the trunk is thick, without distinct buttresses. The bark is smooth, the section thin (5 mm), fibrous, wine-red in color. The wood tender or semi-heavy. It is very widespread in Gabon in the Noya basin, the Cristal Mountains and the Tandous Mountains where it occurs in scattered groves. Its range extends from Liberia and western Côte d'Ivoire to Cameroon and Gabon.
 
 ## Vernacular names
 

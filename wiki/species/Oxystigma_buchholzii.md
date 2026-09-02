@@ -22,13 +22,11 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Small tree or shrub. Leaflets 3 to 6, the terminal ones opposite, the other leaflets alternate, glabrous. Blade ovate-elliptic or lanceolate, falcate, acuminate, acute or rounded at the base, 5–15 cm long by 2.5–5 cm wide, coriaceous. Secondary veins 8–12, scarcely apparent, slightly impressed on both faces.
 
-Petit arbre ou arbuste. Folioles 3 à 6, les terminales opposées, les autres folioles alternes, glabres. Limbe ové-elliptique ou lancéolé, falciforme, acuminé, aigu ou arrondi à la base, long de 5-15 cm sur 2,5-5 cm de largeur, coriace. Nervures secondaires 8-12, très peu apparentes, imprimées légèrement sur les 2 faces.
+Panicles 6–7 cm of very small white flowers. Sepals orbicular, about 2 mm, free or nearly so, somewhat ciliate on the margins. Petals absent. Stamens 10, with filaments free for 5–6 mm, very sparsely hairy. Ovary somewhat pubescent.
 
-Panicules de 6-7 cm de très petites fleurs blanches. Sépales orbiculaires, de 2 mm environ, libres ou presque, un peu ciliés sur les bords. Pétales o. Étamines 10, à filets libres sur 5-6 mm, très éparsement poilus. Ovaire un peu velu.
-
-Gousses en forme de cœur, indéhiscentes, épaisses, glabres, lisses, de 4-4,5 cm environ de diamètre. Une seule graine profondément sillonnée.
+Pods heart-shaped, indehiscent, thick, glabrous, smooth, about 4–4.5 cm in diameter. A single seed deeply furrowed.
 
 ## Vernacular names
 
@@ -42,11 +40,9 @@ Buchholz s. n., Limbaremi, Cameroun
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Shrub forming a ball above the water, or tree. Common in Gabon, in groves, along the banks of rivers.
 
-Arbuste en boule au-dessus de l'eau, ou arbre. Commun au Gabon, en bouquets, au bord des rivières.
-
-Bois brun-rouge, un peu résineux, tendre, léger. L'aubier entaillé exsude une résine verdâtre.
+Wood brown-red, somewhat resinous, soft, light. The sapwood when scored exudes a greenish resin.
 
 ## Specimens examined
 

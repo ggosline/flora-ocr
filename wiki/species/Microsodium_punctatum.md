@@ -11,7 +11,7 @@ tags: [species, generated]
 ---
 # *Microsodium punctatum* (L.) Copeland
 
-**Genus**: [[Microsodium]]
+**Genus**: [[Microsorium]]
 **Family**: [[Polypodiaceae]]
 
 ## Synonyms
@@ -49,6 +49,6 @@ Griffon du Bellay : 283, sans loc. N. Hallé : 1835, Ayem, SW de Ndjolé. N. Hal
 
 ## See also
 
-- [[Microsodium]]
+- [[Microsorium]]
 - [[Polypodiaceae]]
 - [[vol08]]

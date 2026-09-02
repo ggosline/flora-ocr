@@ -22,13 +22,9 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Trees. Leaves with 7–9 leaflets. Blade oblong, acuminate, rounded or cuneate at the base, measuring up to 10 cm in length and 3 cm in width, membranous, glabrous, dotted with scattered translucent points. Midvein prominent beneath. Approximately 6 pairs of secondary veins very slightly marked. Loose and inconspicuous network of veinlets.
 
-Arbres. Feuilles à 7-9 folioles. Limbe oblong, acuminé, arrondi ou cunéiforme à la base, mesurant jusqu'à 10 cm de longueur et 3 cm de largeur, membraneux, glabre, ponctué de
-
-points translucides épars. Nervures médiane proéminente dessous. Environ 6 paires de nervures secondaires très peu marquées. Réseau lâche et peu accusé de nervilles.
-
-Fruits globuleux, tomentaux.
+Fruits globose, tomentose.
 
 ## Type
 
@@ -36,11 +32,9 @@ Zenker 2695, Cameroun (isotype P)
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+The fruits of D. bipindense are tomentose; those of no. 26532 of Fleury taken as the type of D. Fleuryi are glabrous, but these are very old fruits which when younger could have been tomentose. The resemblances between the leaves of the two species are so great, all being dotted with translucent points which is uncommon in Dialium, that notwithstanding the difference noted in the presence of a tomentum in the fruits, we prefer to place Pellegrin's species in synonymy.
 
-Les fruits du D. bipindense sont tomenteux; ceux du n° 26532 de Fleury pris comme type du D. Fleuryi sont glabres, mais il s'agit de très vieux fruits qui plus jeunes pouvaient être tomenteux. Les ressemblances entre les feuilles des deux espèces sont si grandes, toutes étant ponctuées de points translucides ce qui est peu commun chez les Dialium, que nonobstant la différence constatée dans la présence d'un tomentum dans les fruits, nous préférons mettre l'espèce de Pellegrin en synonymie.
-
-Espèce du bas Cameroun et du Gabon.
+Species from lower Cameroon and Gabon.
 
 ## Specimens examined
 

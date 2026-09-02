@@ -21,15 +21,11 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Trees. Leaves 2–3 jugate. Stipules persistent, lanceolate, 1 cm long, with reniform ± caducous auricles. Rachis 3–6 cm, glabrous. Leaflets oblong, with obtuse base, with attenuate acuminate apex, 6–18 cm long, 2–6 cm wide. Lateral veins 12–15 pairs united near the margin by a scalloped vein.
 
-Arbres. Feuilles 2-3 juguées. Stipules persistantes, lancéolées, longues de 1 cm, à oreillettes réniformes ± caduques. Rachis
+Panicles axillary and terminal, lax. Fascicles of ferruginous racemes. Pedicels 5–15 mm. Bractlets velvety russet, 1 cm long. Sepals glabrous, lanceolate, 5 mm long, red, united at the base into a tube 2 mm. One large pale pink petal, with suborbicular blade, bilobed, 15 × 30 mm; claw 5 mm; 4 other small petals as long as the sepals. Stamens 3, exserted. Ovary hirsute, 5-ovulate.
 
-de 3-6 cm, glabre. Folioles oblongues, à base obtuse, à sommet atténué acuminé, longues de 6-18 cm, larges de 2-6 cm. Nervures latérales 12-15 paires réunies près de la marge par une nervure en festons.
-
-Panicules axillaires et terminales lâches. Fascicules de racèmes ferrugineux. Pédicelles de 5-15 mm. Bractéoles veloutées rousses de 1 cm de long. Sépales glabres, lancéolés, longs de 5 mm, rouges, réunies à la base en un tube de 2 mm. Un grand pétale blanc rosé, à lame suborbiculaire, bilobée, de 15 × 30 mm; onglet de 5 mm; 4 autres petits pétales aussi longs que les sépales. Étamines 3, exsertes. Ovaire hirsute, 5-ovulé.
-
-Jeune gousse oblongue, marquée de 2 nervures saillantes longitudinales dont une submarginale.
+Young pod oblong, marked with 2 prominent longitudinal veins of which one submarginale.
 
 ## Type
 
@@ -37,9 +33,7 @@ Le Testu 2112, Mayombe (P)
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Espèce ripicole mal connue du Gabon et du Mayombé. Signalée aussi dans le sud de la Nigéria (F.W.T.A.).
+Riparian species poorly known from Gabon and Mayombé. Also recorded from southern Nigeria (F.W.T.A.).
 
 ## Specimens examined
 

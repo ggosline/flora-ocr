@@ -16,23 +16,17 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-in Oliv., Fl. trop. Africa 2 : 217 (1871). Herbe grimpante, robuste ; rameaux cylindriques, à peine striés, glabrescents. Stipules caduques, ovales, 10 × 3 mm, à acumen linéaire. Feuille : pétiole 3–5 cm ; rachis ± 2 cm ; stipelles sétacées, 3–5 mm ; folioles à pétiolule de 2–4 mm, limbe atteignant 10–12(–14) × 7–8(–11) cm, glabre ou presque, le terminal ovale, base arrondie-subcordée, acumen 0,5–1 cm de longueur, mucronulé, les latérales semblables, mais obliques. Inflorescence en pseudoracèmes de (5–)10–40 cm ; bractées ovales, 1,5–2 cm de longueur, aiguës,. Fleur : pédicelle ± 1 cm, velu ; calice courtement velu, à tube de ± 3 mm de longueur, lobes lancéolés, le supérieur 6–8 mm de longueur, non élargi au sommet et nettement bilobé sur 1–2 mm , les latéraux 8–10 mm de longueur, l’inférieur 15–18 mm de longueur ; corolle persistante, rouge rosé , glabre, étendard obovale, ± 15 × 7–8 mm, base biauriculée, sommet émarginé, ailes obtuses, ± 12 × 2 mm, auriculées, onglet 3 mm, carène obtuse, ± 15 × 3 mm, onglet 3,5 mm ; ovaire à stipe court, oblong ; style flexueux. Gousse oblongue , cloisonnée entre les 2 graines , ± 15 × 6–7 mm, gris-vert à brune, velue, située parmi les pétales marcescents. Graine ellipsoïde , bleu noir , ± 5 mm de longueur ; hile clair, de ± 2 mm.
+in Oliv., Fl. trop. Africa 2 : 217 (1871). Robust climbing herb; branches cylindric, scarcely striate, glabrescent. Stipules caducous, ovate, 10 × 3 mm, with linear acumen. Leaf: petiole 3–5 cm; rachis ± 2 cm; stipels setaceous, 3–5 mm; leaflets with petiolule 2–4 mm, blade reaching 10–12(–14) × 7–8(–11) cm, glabrous or nearly so, the terminal ovate, base rounded-subcordate, acumen 0.5–1 cm long, mucronulate, the lateral ones similar, but oblique. Inflorescence in pseudoracemes of (5–)10–40 cm; bracts ovate, 1.5–2 cm long, acute. Flower: pedicel ± 1 cm, hairy; calyx shortly hairy, with tube ± 3 mm long, lobes lanceolate, the upper 6–8 mm long, not enlarged at apex and distinctly bilobed for 1–2 mm, the lateral ones 8–10 mm long, the lower 15–18 mm long; corolla persistent, rose-red, glabrous, standard obovate, ± 15 × 7–8 mm, base biauriculate, apex emarginate, wings obtuse, ± 12 × 2 mm, auriculate, claw 3 mm, keel obtuse, ± 15 × 3 mm, claw 3.5 mm; ovary with short stipe, oblong; style flexuous. Pod oblong, chambered between the 2 seeds, ± 15 × 6–7 mm, grey-green to brown, hairy, situated among the marcescent petals. Seed ellipsoid, blue-black, ± 5 mm long; hilum pale, ± 2 mm.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-du Nigéria à l’Ouganda et à l’Angola ; au Gabon, connue de la Ngounié, de la Nyanga, de l’Ogooué-Ivindo, de l’Ogooué-Lolo et du Woleu-Ntem
+from Nigeria to Uganda and Angola; in Gabon, known from the Ngounié, the Nyanga, the Ogooué-Ivindo, the Ogooué-Lolo and the Woleu-Ntem
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+tree-fall gaps and margins, understory of primary and secondary forest, fallows; in Gabon at 300–400 m altitude, elsewhere up to 850 m. Flowers in March, April and November; fruits in February and April. B: De la Estrella et al. (2010), Hauman (1954c), Pellegrin (1949), Raponda-Walker & Sillans (1961), Verdcourt (1971c)
 
-chablis et lisières, sous-bois de la forêt primaire et secondaire, jachères ; au Gabon à 300–400 m d’altitude, ailleurs jusqu’à 850 m. Fleurs en mars, avril et novembre ; fruits en février et avril. B : De la Estrella et al. (2010), Hauman (1954c), Pellegrin (1949), Raponda-Walker & Sili B liographie lans (1961), Verdcourt (1971c)
-
-Étendard, face interne (× 2). – 4. Aile, face externe (× 2). – 5. Carène (× 2). – 6. Androcée et gynécée (× 2). – 7. Gousse et graine (× 2). (1–6 : Lebrun 6749 ; 7 : Lebrun 6284 ). Dessin par J.M. Lerinckx, Jardin Botanique Meise (©).
+Standard, inner face (× 2). – 4. Wing, outer face (× 2). – 5. Keel (× 2). – 6. Androecium and gynoecium (× 2). – 7. Pod and seed (× 2). (1–6: Lebrun 6749; 7: Lebrun 6284). Drawing by J.M. Lerinckx, Meise Botanic Garden (©).
 
 ## Notes
 

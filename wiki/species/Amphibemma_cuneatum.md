@@ -11,7 +11,7 @@ tags: [species, generated]
 ---
 # *Amphibemma cuneatum* Jacques-Félix
 
-**Genus**: [[Amphibemma]]
+**Genus**: [[Amphiblemma]]
 **Family**: [[Melastomataceae]]
 **Protologue**: Adansonia, sér. 2, 13 (4) : 454, tab. 10 (1973)
 
@@ -53,6 +53,6 @@ Hallé N. & Villiers J.-F. 4710, mt Cristal, 6 km S Assok, sous-bois (janv.). Ch
 
 ## See also
 
-- [[Amphibemma]]
+- [[Amphiblemma]]
 - [[Melastomataceae]]
 - [[vol25]]

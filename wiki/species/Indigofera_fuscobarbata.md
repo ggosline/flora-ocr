@@ -17,29 +17,19 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Fl. Zamb. 3(4) : 77 (2012). I. hirsuta L. var. polystachya Baker, Fl. trop. Afr. 2 : 89 (1871). Herbe annuelle ou pérenne à base ligneuse, atteignant 1,5 m de hauteur ; tige dressée à éta lée ; indument hirsute brun . Stipules sétacées, 4–11 mm. Feuille : pétiole 1–6 mm, pétiole et rachis pileux ; stipelles absentes ; folioles 9 à 13(–15) , opposées, à limbe elliptique-obovale à elliptique, 7–21 × 4–12 mm, la terminale plus grande, base cunéée, sommet arrondi, pileux blanchâtre sur les deux faces. Inflorescence en pseudoracèmes denses de (5–)10–26 cm de lon -
-
-gueur, à l’aisselle des feuilles bien développées ; pédoncule 1,8–7(–10) cm ; bractées 3–7 mm de longueur. Fleur : pédicelle 0,5–2 mm ; calice 3–5 mm de longueur , égalant ou dépassant la corolle, hirsute, fendu presque jusqu’à la base en lobes sétacés ; corolle rose ou violette , étendard elliptique, ± 5 × 3 mm, sommet émarginé et mucroné, à pubescence blanche sur le dos, carène à marge poilue ; étamines 3,5–4,5(–5) mm. Gousse réfléchie , cylindrique, droite , 4–10 × 1,8–2 mm, à 2 ou 3 graines, hirsute à poils bruns ou gris , à sutures bien développées. Graine oblongue, 1,4–1,8 × ± 1 mm, verdâtre, lisse.
+Fl. Zamb. 3(4): 77 (2012). I. hirsuta L. var. polystachya Baker, Fl. trop. Afr. 2: 89 (1871). Annual or perennial herb with woody base, reaching 1.5 m in height; stem erect to spreading; indumentum hirsute brown. Stipules setaceous, 4–11 mm. Leaf: petiole 1–6 mm, petiole and rachis pilose; stipels absent; leaflets 9 to 13(–15), opposite, with elliptic-obovate to elliptic lamina, 7–21 × 4–12 mm, the terminal one larger, base cuneate, apex rounded, whitish pilose on both surfaces. Inflorescence in dense pseudoracemes of (5–)10–26 cm in length, in the axil of well-developed leaves; peduncle 1.8–7(–10) cm; bracts 3–7 mm in length. Flower: pedicel 0.5–2 mm; calyx 3–5 mm in length, equalling or exceeding the corolla, hirsute, split almost to the base into setaceous lobes; corolla pink or violet, standard elliptic, ± 5 × 3 mm, apex emarginate and mucronate, with white pubescence on the back, keel with pilose margin; stamens 3.5–4.5(–5) mm. Pod reflexed, cylindric, straight, 4–10 × 1.8–2 mm, with 2 or 3 seeds, hirsute with brown or grey hairs, with well-developed sutures. Seed oblong, 1.4–1.8 × ± 1 mm, greenish, smooth.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Nigéria, Cameroun, Gabon, République démocratique du Congo, Angola, É thiopie, Tanza nie, Zambie et Malawi ; la distribution au Gabon de cette espèce récemment décrite est encore inconnue
+Nigeria, Cameroon, Gabon, Democratic Republic of the Congo, Angola, Ethiopia, Tanzania, Zambia and Malawi; the distribution of this recently described species in Gabon is still unknown.
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-savane herbeuse et arbustive, lisière de forêt, bords de rivière et de route ; ailleurs à 1200–1800 m d’altitude
+Herbaceous and shrubby savanna, forest edge, river and roadside margins; elsewhere at 1200–1800 m altitude.
 
 ## Source note
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Cette espèce a été confondue avec I. longibarbata Engl., qui a des étamines plus courtes et des pédoncules plus longs. b : Cronquist (1954), Schrire (2012). ibliographie
+This species has been confused with I. longibarbata Engl., which has shorter stamens and longer peduncles. b: Cronquist (1954), Schrire (2012). Bibliography
 
 ## Notes
 

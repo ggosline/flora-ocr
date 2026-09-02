@@ -11,7 +11,7 @@ tags: [species, generated]
 ---
 # *Cyrtococcus chaetophorum* (Roem. et Schult.) Dandy.
 
-**Genus**: [[Cyrtococcus]]
+**Genus**: [[Cyrtococcum]]
 **Family**: [[Gramineae]]
 
 ## Synonyms
@@ -53,6 +53,6 @@ Jardin : sans localité précise (échantillon non vu). Descoings : 6565, régio
 
 ## See also
 
-- [[Cyrtococcus]]
+- [[Cyrtococcum]]
 - [[Gramineae]]
 - [[vol05]]

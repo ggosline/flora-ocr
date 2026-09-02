@@ -17,17 +17,15 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Resiniferous trees. Leaves with 6–10 alternate leaflets, shortly petiolulate (5 mm). Lamina elliptic or oblong, with rounded or obtuse apex, generally rounded at base, coriaceous, glabrous, 5–9 × 3–4 cm. Midvein prominent below, terminating in a small apical gland visible on the lower surface. Numerous secondary veins, generally confluent with the marginal vein, scarcely more prominent than the veinlets forming together a very tight characteristic network. Rachis approximately 6–14 cm.
 
-Arbres résinifères. Feuilles à 6-10 folioles alternes, courtement pétiolulées (5 mm). Limbe elliptique ou oblong, à sommet arrondi ou obtus, généralement arrondi à la base, coriace, glabre, de 5-9 × 3-4 cm. Nervure médiane proéminente dessous, terminée par une petite glande apicale, visible sur la face inférieure. Nombreuses nervures secondaires, généralement confluentes avec la nervure marginale, à peine plus saillantes que des nervilles formant ensemble un réseau très serré caractéristique. Rachis de 6-14 cm environ.
+Panicles of racemes exceeding 20 cm in length, the lower branches being approximately 10 cm, the upper ones 2–3 cm, tomentose tawny. Pedicels 2.5 mm. One bract at the base and 2 small non-enveloping bracteoles at the apex, very caducous. Flowers yellowish white. Calyx with a hairy tube 4 mm, and 4 imbricate lobes of which the posterior one broad, the others oblong lanceolate, hairy externally, hispid internally, approximately 8 × 3 mm. Petal 1, elliptic, obcordate, sessile, glabrous internally, ferruginous tomentose externally,
 
-Panicules de grappes de plus de 20 cm de longueur, les ramifications inférieures étant de 10 cm environ, les supérieures de 2-3 cm, tomenteuses fauves. Pédicelles de 2,5 mm. Une bractée à la base et 2 petites bractéoles non enveloppantes au sommet, très caduques. Fleurs blanc jaunâtre. Calice à tube velu de 4 mm, et 4 lobes imbriqués dont le postérieur large, les autres oblongs lancéolés, velus extérieurement, hispides intérieurement, de 8 × 3 mm environ. Pétale 1, elliptique, obcordé, sessile, glabre intérieurement, tomenteux ferrugineux extérieurement,
+(1) Vertical secretory canals rather arranged in concentric zones (Asian spp.), scattered in the African species.
 
-(1) Canaux secréteurs verticaux plutôt disposés en zones concentriques (esp. asiatiques), disséminés dans l'espèce africaine.
+approximately 6 × 4 mm. Stamens 10, of which 1 free, the others unequal, fused and hairy at the base: 2 lateral fertile ones longer with oblong anthers, the others sterile, shorter with aborted anthers. Ovary flattened, subsessile, with hairy margin, biovulate.
 
-d'environ 6 × 4 mm. Étamines 10, dont 1 libre, les autres inégales, soudées et velues à la base : 2 latérales fertiles plus longues avec des anthères oblongues, les autres stériles, plus courtes avec des anthères rabougries. Ovaire aplati, subsessile, à marge velue, biovulé.
-
-Gousse orbiculaire, stipitée, aplatie, coriace-ligneuse, inerne, à surface nervurée, de 6-7 cm de diamètre environ. Graine 1 (-2) ovale, de 4 × 3 cm environ.
+Pod orbicular, stipitate, flattened, coriaceous-woody, indehiscent, with a veined surface, approximately 6–7 cm in diameter. Seed 1 (–2) ovate, approximately 4 × 3 cm.
 
 ## Type
 
@@ -35,11 +33,9 @@ Klaine 423, gabon (P)
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Large tree. Bole tall, straight, cylindrical, thickened at the base but without buttresses. Bark superficially finely striated with longitudinal fissures, the cross-section very fibrous pink, 2–3 cm thick. The sapwood when cut exudes copal gum in abundance, colourless, extremely sticky. Heartwood grey-pink becoming red, resinous, soft and light.
 
-Grand arbre. Fût élevé, droit, cylindrique, épaissi au pied mais sans contreforts. Écorce superficiellement striée finement de fissures longitudinales, de tranche très fibreuse rose, épaisse de 2-3 cm. L'aubier entaillé exsude en abondance une gomme copal, incolore, excessivement poisseuse. Bois gris-rose devenant rouge, résineux, tendre et léger.
-
-En forêt et en bordure de mangrove.
+In forest and along mangrove margins.
 
 ## Vernacular names
 

@@ -17,21 +17,15 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Grande liane ; tige dépassant 10 cm de diamètre ; rameaux lenticellés ; ramilles pubérulentes, glabrescentes , la même pilosité sur les stipules, pétioles, rachis, pétiolules et stipelles. Stipules étroitement triangulaires, 6–8 × 3 mm , ± striées. Feuille : pétiole 4,5–12,5 cm ; rachis 4,5–10 cm ; stipelles étroitement triangulaires à subulées, 2–5 mm de longueur ; folioles 5 à 7 , à pétiolule de 6–9 mm, limbe obovale-elliptique, (6–)10–15(–19) × 4–9 cm , arrondi à la base, 5–10 mm acuminé au sommet, en général à mucron de 2–3 mm, papyracé, glabre dessus, à poils courts, épars et apprimés en dessous ; nervures latérales en 6 à 9 paires. Inflorescence au moins jusqu’à 40 cm de longueur, brun-tomenteuse ; bractées et bractéoles étroitement elliptiques, 2,5–5 mm de longueur . Fleur : pédicelle 1–3 mm ; calice campanulé, 5–5,5 mm de longueur, à dents de 1 mm de longueur, à poils courts et apprimés sur les deux faces ; corolle 12–15 mm de longueur, blanche , pétales ciliolés au sommet , à onglet de 2–3 mm, ailes nettement plus courtes que la carène ; étamines ± aussi longues que la carène, anthères 1 mm de longueur ; pistil aussi longue que les étamines, à poils bruns et apprimés. Gousse et graine inconnues.
+Large liana; stem exceeding 10 cm in diameter; branches lenticellate; branchlets puberulent, glabrescenct, the same pubescence on the stipules, petioles, rachis, petiolules and stipels. Stipules narrowly triangular, 6–8 × 3 mm, ± striate. Leaf: petiole 4.5–12.5 cm; rachis 4.5–10 cm; stipels narrowly triangular to subulate, 2–5 mm in length; leaflets 5 to 7, with petiolule of 6–9 mm, blade obovate-elliptic, (6–)10–15(–19) × 4–9 cm, rounded at the base, 5–10 mm acuminate at the apex, generally with mucro of 2–3 mm, papyraceous, glabrous above, with short, scattered and appressed hairs below; lateral nerves in 6 to 9 pairs. Inflorescence at least up to 40 cm in length, brown-tomentose; bracts and bracteoles narrowly elliptic, 2.5–5 mm in length. Flower: pedicel 1–3 mm; calyx campanulate, 5–5.5 mm in length, with teeth 1 mm in length, with short and appressed hairs on both faces; corolla 12–15 mm in length, white, petals ciliolate at the apex, with claw of 2–3 mm, wings distinctly shorter than the keel; stamens ± as long as the keel, anthers 1 mm in length; pistil as long as the stamens, with brown and appressed hairs. Pod and seed unknown.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Cameroun et Gabon ; au Gabon, connue d’une seule collection de l’Ogooué-Ivindo dans la région de Mékambo
+Cameroon and Gabon; in Gabon, known from a single collection from the Ogooué-Ivindo in the Mékambo region
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-forêt primaire et secondarisée ; au Gabon à 550 m d’altitude. b : Pellegrin (1949). ibliographie
+primary and secondarized forest; in Gabon at 550 m altitude. b: Pellegrin (1949). Bibliography
 
 ## Notes
 

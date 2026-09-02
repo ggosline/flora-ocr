@@ -21,13 +21,11 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Trees. Leaves with (1-) 2-3 (-4) pairs of pinnules. Rachis 20-30 cm in length. Leaflets 10-13 alternate per pinnule. Blade ovate-oblong or ovate-elliptic, asymmetric at the base, obtusely acuminate, cuneate to the base or subrounded, glabrous, 4-7 cm in length by 3-4 cm in width.
 
-Arbres. Feuilles à (1-) 2-3 (-4) paires de pinnules. Rachis de 20-30 cm de longueur. Foliolules 10-13 alternes par pinnule. Limbe ové-oblong ou ové-elliptique, asymétrique à la base, obtusément acuminé, cunéiforme à la base à subarrondi, glabre, de 4-7 cm de longueur sur 3-4 cm de largeur.
+Small flowers approximately 3 mm in length, subsessile (pedicel less than 1 mm) grouped in erect paniculate spikes at the end of the branches; axes reddish-brown pubescent, reaching 25 cm; reddish ferruginous. Stamens approximately 5 mm in length. Ovary hairy, long-stipitate.
 
-Petites fleurs de 3 mm de longueur environ, subsessiles (pédicelle moins de 1 mm) groupées en épis paniculés dressés à l'extrémité des branches; axes brun rouge pubescents, atteignant 25 cm; rougeâtres ferrugineuses. Étamines environ 5 mm de longueur. Ovaire velu, longuement stipité.
-
-Gousses noires, coriaces, oblongues, arrondies aux 2 extrémités, d'environ 8 × 3,5 cm. Graines 4-10, à légument noir un peu poisseux.
+Pods black, coriaceous, oblong, rounded at both ends, approximately 8 × 3.5 cm. Seeds 4-10, with black somewhat sticky seed coat.
 
 ## Vernacular names
 
@@ -41,15 +39,11 @@ Chevalier 16220, Côte d'Ivoire (P)
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Wood red, very hard.
 
-Bois rouge, très dur.
+A decoction of bark would be a violent poison (ordeal poison).
 
-La décoction d'écorce serait un poison violent (poison d'épreuve).
-
-Grand arbre répandu de la Sierra Leone au Cameroun et Gabon. L'espèce existe au Congo mais dans la F.C.B. tous les
-
-Erythrophleum de forêt dense sont rapportés à l’E. suaveolens (= E. guineense). Très fréquent dans la forêt de la région de l’estuaire du Gabon. Feuillage en touffes pendant à l’extrémité des rameaux. Fût entouré au pied de contreforts. Écorce brun rougeâtre, écailleux. Elle exsude, entaillée, un liquide un peu poisseux.
+Large tree widespread from Sierra Leone to Cameroon and Gabon. The species occurs in Congo but in the F.C.B. all dense forest Erythrophleum are referred to E. suaveolens (= E. guineense). Very frequent in the forest of the Gabon estuary region. Foliage in tufts hanging at the end of the twigs. Trunk surrounded at the base by buttresses. Bark reddish-brown, scaly. It exudes, when cut, a somewhat sticky liquid.
 
 ## Specimens examined
 

@@ -17,21 +17,15 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-, non Phaseolus campestris Mart. ex Benth. (1837). Herbe pérenne , grimpante, pubescente à glabre ; tiges atteignant 8 m de longueur. Stipules 2–5 mm de longueur, courtement bilobées à la base . Feuille : pétiole 2,5–8 cm ; rachis 8–25 mm ; stipelles oblongues, ± 1 mm de longueur, striées ; folioles à pétiolule de 3–5 mm, sillonné, pubescent, limbe ovale à ovale-lancéolé , 5–10 × (2–)4–8 cm, subarrondi à arrondi à la base, aigu à acuminé au sommet, éparsement poilu à glabre sur les deux faces. Inflorescence : pédoncule 2–13 cm, pubérulent à glabre ; rachis 0,5–2 cm ; bractées lancéolées, ± 3,5 mm de longueur. Fleur : bractéoles 3–6 mm de longueur, plus longues que le calice ; calice pubérulent, à tube de 1,5–2 mm de longueur, lobes 0,3–0,5 mm de longueur ; corolle jaune , 6–9 mm de longueur , étendard 5–6 × 6–8 mm, profondément émarginé au sommet , à 2 appendices parallèles à la face interne, ailes falquées, ± 7 × 3 mm, carène falquée-incurvée, ± 5 mm de longueur, à rostre long ; ovaire avec 8 à 10 ovules ; stigmate terminal. Gousse érigée ou perpendiculaire à l’axe du rachis, cylindrique (mais aplatie au début) , 4–5 × 0,5 cm, avec 5 à 8 graines, brun-noir, hirsute à poils roussâtres, terminée par un bec courbé . Graine 3–4,5 × 2,5–3,5 mm ; hile linéaire , ± 2,8 mm de longueur, sans strophiole .
+, not Phaseolus campestris Mart. ex Benth. (1837). Perennial herb, climbing, pubescent to glabrous; stems reaching 8 m in length. Stipules 2–5 mm in length, shortly bilobed at the base. Leaf: petiole 2.5–8 cm; rachis 8–25 mm; stipels oblong, ± 1 mm in length, striate; leaflets with petiolule 3–5 mm, furrowed, pubescent, blade ovate to ovate-lanceolate, 5–10 × (2–)4–8 cm, subrounded to rounded at the base, acute to acuminate at the apex, sparsely pilose to glabrous on both surfaces. Inflorescence: peduncle 2–13 cm, puberulent to glabrous; rachis 0.5–2 cm; bracts lanceolate, ± 3.5 mm in length. Flower: bracteoles 3–6 mm in length, longer than the calyx; calyx puberulent, with tube 1.5–2 mm in length, lobes 0.3–0.5 mm in length; corolla yellow, 6–9 mm in length, standard 5–6 × 6–8 mm, deeply emarginate at the apex, with 2 appendages parallel to the inner face, wings falcate, ± 7 × 3 mm, keel falcate-incurved, ± 5 mm in length, with long beak; ovary with 8 to 10 ovules; stigma terminal. Pod erect or perpendicular to the axis of the rachis, cylindric (but flattened initially), 4–5 × 0.5 cm, with 5 to 8 seeds, dark brown to black, hirsute with reddish-brown hairs, terminated by a curved beak. Seed 3–4.5 × 2.5–3.5 mm; hilum linear, ± 2.8 mm in length, without strophiole.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-d’origine sud-américaine ; en Afrique, de la Sierra Leone jusqu’au Nigéria, au Cameroun, au Gabon et à la République démocratique du Congo ; au Gabon, connue de l’Ogooué-Ivindo et l’Ogooué-Maritime
+of South American origin; in Africa, from Sierra Leone to Nigeria, Cameroon, Gabon and the Democratic Republic of the Congo; in Gabon, known from Ogooué-Ivindo and Ogooué-Maritime
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-forêts riveraines, marécages ; au Gabon à basse altitude, ailleurs jusqu’à 630 m. Floraison en février, avril, juillet, novembre (probablement la plupart des mois)
+riparian forests, swamps; in Gabon at low altitude, elsewhere up to 630 m. Flowering in February, April, July, November (probably most months)
 
 ## Vernacular names
 
@@ -39,11 +33,9 @@ haricot (fr)
 
 ## Source note
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+In the Flora of West tropical Africa (Hepper 1958) and the Flore d'Afrique centrale (Wilczek 1954), this species was treated under the name V. campestris (Mart. ex Benth.) R.Wilczek, which was a misidentification. B: Maréchal et al. (1978), Verdcourt (1970), Wilczek (1954). Bibliography
 
-Dans la Flora of West tropical Africa (Hepper 1958) et la Flore d’Afrique centrale (Wilczek 1954), cette espèce a été traitée sous le nom V. campestris (Mart. ex Benth.) R.Wilczek, qui était une erreur d’identification. B : Maréchal et al. (1978), Verdcourt (1970), Wilczek (1954). i B liographie
-
-Louis 10294 ). Dessin par M. Boutique, Jardin Botanique Meise (©).
+Louis 10294). Drawing by M. Boutique, Meise Botanic Garden (©).
 
 ## Notes
 

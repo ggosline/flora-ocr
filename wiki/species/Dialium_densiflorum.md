@@ -17,13 +17,9 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Trees. Leaves with (5–)7–9 leaflets. Blade oblong or oblong-lanceolate, attenuate and sometimes acuminate at the apex, cuneate or rounded at the base, glabrous, shining above, pale yellowish-grey and dull below, coriaceous, reaching 16 × 5 cm. Midvein prominent below. Numerous secondary veins generally not very distinct below with a fine prominent reticulum.
 
-Arbres. Feuilles à (5-) 7-9 folioles. Limbe oblong ou oblong-lancéolé, atténué et parfois acuminé au sommet, cunéiforme ou arrondi à la base, glabre, luisant dessus, jaune clair grisâtre
-
-et mat dessous, coriace, pouvant atteindre  $ 16 \times 5 $ cm. Nervure médiane proéminente dessous. Nombreuses nervures secondaires généralement peu distinctes en dessous avec un fin réticulum saillant.
-
-Inflorescences brunâtres. Ovaire velu noir, sessile.
+Inflorescences brownish. Ovary black villous, sessile.
 
 ## Type
 

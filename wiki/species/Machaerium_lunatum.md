@@ -17,23 +17,17 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Drepanocarpus lunatus (L.f.) G.Mey., Prim. fl. esseq. : 238 (1818). Shrub, sometimes scandent, 3–5 m tall, or small tree; distal branchlets zigzag, glabrous. Stipules spinose, recurved, very acute, 4–7 mm long. Leaf: petiole 1–2 cm; rachis 2–3 cm, rather slender; stipels absent; leaflets 7 or 9, subopposite, with petiolule 1–2 mm, blade oblong, 2–4 × 1–1.8 cm, apex obtuse, glabrous; lateral veins in keel. – 6. Androecium and gynoecium. – 7. Pod. – 8. Idem, longitudinal section. Drawing by Bobbi Angell (©), reproduced with permission from Acevedo-Rodrigues (2005).
 
-Drepanocarpus lunatus (L.f.) G.Mey., Prim. fl. esseq. : 238 (1818). Arbuste, parfois lianescent, de 3–5 m de hauteur, ou petit arbre ; rameaux distaux en zig-zag, glabres. Stipules épineuses, recourbées , très aigües, 4–7 mm de longueur. Feuille : pétiole 1–2 cm ; rachis 2–3 cm, assez grêle ; stipelles absentes ; folioles 7 ou 9 , subopposées, à pétio lule 1–2 mm, limbe oblong, 2–4 × 1–1,8 cm, à sommet obtus, glabre ; nervures latérales en Carène. – 6. Androcée et gynécée. – 7. Gousse. – 8. Idem, coupe longitudinale. Dessin par Bobbi Angell (©), reproduit avec permission à partir de Acevedo-Rodrigues (2005).
-
-± 25 à 30 paires, fines mais visibles dessous, atteignant la marge. Inflorescence en panicule peu ramifiée, les axillaires souvent simples, atteignant 8 × 5 cm ; bractées caduques, les basales épineuses comme les stipules, triangulaires plus haut. Fleur : pédicelle 2 mm ; bractéoles ovales, 1,5–2 mm de longueur, 5- ou 6-nervées ; calice 3,5 mm de longueur, ± tronquée et à dents aiguës de 0,5 mm de longueur ; corolle 8 mm de longueur, recourbée, mauve à rouge violacé ; ovaire à pubescence blanche apprimée. Gousse sur un stipe jusqu’à 5 mm, recourbée , la pointe rejoignant la base, 3–3,5 cm en diamètre, devenant glabre, suture dorsale épaissie, à nervures fines bien visibles. Graine ± 18 mm de longueur.
+± 25 to 30 pairs, fine but visible below, reaching the margin. Inflorescence in sparingly branched panicle, the axillary ones often simple, reaching 8 × 5 cm; bracts caducous, the basal ones spinose like the stipules, triangular above. Flower: pedicel 2 mm; bracteoles ovate, 1.5–2 mm long, 5- or 6-nerved; calyx 3.5 mm long, ± truncate and with acute teeth 0.5 mm long; corolla 8 mm long, recurved, mauve to violet-red; ovary with appressed white pubescence. Pod on a stipe up to 5 mm, recurved, the apex meeting the base, 3–3.5 cm in diameter, becoming glabrous, dorsal suture thickened, with fine nerves well visible. Seed ± 18 mm long.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-espèce d’Amérique et d’Asie tropicale, en Afrique sur les côtes occidentales, du Sénégal à l’Angola ; au Gabon, connue de l’Estuaire et de l’Ogooué-Maritime
+species of tropical America and Asia, in Africa on western coasts, from Senegal to Angola; in Gabon, known from Estuaire and Ogooué-Maritime
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-mangroves, marécages salés, sous cocoteraie ; à basse altitude. Usage : L’arbre est utilisé en foresterie des zones dégradées ; il protège le trait côtier. Le bois est employé comme flotteurs pour harpons. Les folioles bouillies ont été utilisées pour traiter les palpitations du cœur
+mangroves, salt marshes, under coconut plantations; at low altitude. Uses: The tree is used in forestry of degraded areas; it protects the coastal fringe. The wood is employed as floats for harpoons. The leaflets boiled have been used to treat heart palpitations
 
 ## Vernacular names
 

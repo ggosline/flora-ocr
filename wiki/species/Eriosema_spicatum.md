@@ -17,27 +17,19 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-E. spicatum Hook.f. subsp. collinum (Hepper) J.K.Morton, Kew Bull. 25 : 126 (1971). Herbe pérenne, 30–70 cm de hauteur, à pilosité dense de poils bouclés brun jaunâtre ; rhizome ligneux ; tige érigée. Stipules linéaires-lancéolées, 6–8 × 1,5 mm, scarieuses, soyeusestomenteuses à l’extérieur, glabres à l’intérieur. Feuille : pétiole 1,5–2 cm ; rachis 2–5 mm ; folioles 3 , à limbe obovale ou elliptique, 2,2–4 × 1,5–2 cm, base obtuse à cunéée, sommet obtus à aigu ; nervures latérales en 5 à 7 paires, ascendantes . Inflorescence axillaire ou ter minale ; racème 2–6 × 0,6–1,5 cm, un peu lâche, à fleurs pendantes ; pédoncule 5–17 cm, aux poils bouclés jaune-brunâtre ; bractées filiformes, 1–4 mm. Fleur : pédicelle 1–2 mm ; calice campanulé, 2–4 mm de longueur, à poils blancs et glandes orange éparses, tube ± 2 mm de longueur, dents triangulaires, 0,5–1,5 mm ; corolle 8–15 mm de longueur, jaune à blanc-verdâtre à sommet pourpre-brun , ou rose pâle, striée de rouge ou brun-pourpre , étendard oblong-obovale, auriculé et biappendiculé, à appendice central situé juste au-dessus de l’onglet , à sommet poilu et muni de glandes, ailes glabres, carène oblongue, glabre mais muni de glandes au sommet. Gousse oblongue-ovoïde , ± 11 × 7 mm, à 1 ou 2 graines, à poils denses grisâtres. Graine oblongue-trapézoïdale, 3–4 × 0,5–3 × 2 mm, verte à brune avec taches noires ; hile entourant ⅓ de la graine , blanc à jaunâtre.
+E. spicatum Hook.f. subsp. collinum (Hepper) J.K.Morton, Kew Bull. 25 : 126 (1971). Perennial herb, 30–70 cm tall, with dense pubescence of yellowish-brown curled hairs; woody rhizome; erect stem. Stipules linear-lanceolate, 6–8 × 1.5 mm, scarious, silky-tomentose outside, glabrous inside. Leaf: petiole 1.5–2 cm; rachis 2–5 mm; leaflets 3, with obovate or elliptic blade, 2.2–4 × 1.5–2 cm, base obtuse to cuneate, apex obtuse to acute; lateral veins in 5 to 7 pairs, ascending. Inflorescence axillary or terminal; raceme 2–6 × 0.6–1.5 cm, somewhat lax, with pendulous flowers; peduncle 5–17 cm, with yellowish-brown curled hairs; bracts filiform, 1–4 mm. Flower: pedicel 1–2 mm; calyx campanulate, 2–4 mm long, with white hairs and scattered orange glands, tube ± 2 mm long, teeth triangular, 0.5–1.5 mm; corolla 8–15 mm long, yellow to greenish-white with purple-brown apex, or pale pink, striped with red or purple-brown, standard oblong-obovate, auriculate and biappendiculate, with central appendage situated just above the claw, apex hairy and bearing glands, wings glabrous, keel oblong, glabrous but bearing glands at the apex. Pod oblong-ovoid, ± 11 × 7 mm, with 1 or 2 seeds, with dense greyish hairs. Seed oblong-trapezoidal, 3–4 × 0.5–3 × 2 mm, green to brown with black spots; hilum surrounding ⅓ of the seed, white to yellowish.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Guinée, Sierra Léone, Libéria, Côte d’Ivoire, Cameroun, Gabon, République du Congo et République démocratique du Congo ; au Gabon, connue de la Ngounié, de l’Ogooué-Ivindo et du Woleu-Ntem
+Guinea, Sierra Leone, Liberia, Ivory Coast, Cameroon, Gabon, Republic of the Congo and Democratic Republic of the Congo; in Gabon, known from Ngounié, Ogooué-Ivindo and Woleu-Ntem.
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-sur rochers, zones granitiques, savanes, stations humides à herbacées ; au Gabon à ± 600 m d’altitude
+on rocks, granitic areas, savannas, humid herbaceous stations; in Gabon at ± 600 m altitude.
 
 ## Source note
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Bien que Pellegrin (1949) et Hepper (1958) traitent E. spicatum comme synonyme de E. parviflorum , et que Hauman (1954c) ne mentionne pas E. spicatum , Jacques-Félix (1971) reconnaît assez d’espèces dans le « complexe de E. parviflorum ». Pour le moment, son traitement et celui de Verdcourt (1971a, 1971c) sont suivis ici, mais la situation taxonomique mérite une étude approfondie. b : Jacques-Félix (1971), Pellegrin (1949), Verdcourt (1971a, 1971c). ibliographie
+Although Pellegrin (1949) and Hepper (1958) treat E. spicatum as a synonym of E. parviflorum, and Hauman (1954c) does not mention E. spicatum, Jacques-Félix (1971) recognizes enough species within the "E. parviflorum complex". For the present, his treatment and that of Verdcourt (1971a, 1971c) are followed here, but the taxonomic situation merits in-depth study. b: Jacques-Félix (1971), Pellegrin (1949), Verdcourt (1971a, 1971c). Bibliography
 
 ## Notes
 

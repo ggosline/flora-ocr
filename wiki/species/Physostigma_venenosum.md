@@ -17,23 +17,15 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Liane atteignant le sommet des arbres ; tige ± 1 cm de diamètre. Stipules assez persistantes, lancéolées, 3–5 mm de longueur. Feuille : pétiole 3–11 cm ; rachis 1,2–3 cm ; stipelles subulées, 2–3 mm ; folioles à pétiolule de 4–5 mm, limbe ovale-elliptique, 5–15 × 3–8 cm, à base arrondie à obtuse, à sommet acuminé, glabre dessus, à pubérulence apprimée dessous. Inflo rescence en pseudoracème ; rachis en zigzag, muni de nœuds épaissis à 1 ou 2 fleurs. Fleur : pédicelle ± 5 mm, s’allongeant à maturité jusqu’à 15 mm ; calice 4–5 mm de longueur dont les dents de 1 mm, ciliolées ; corolle rose à rose pâle, parfois jaune pâle ou à tache verdâtre à la base, glabre, étendard recourbé , 1,5–2,5 cm de diamètre, ailes falquées, carène spiralée au
-
-sommet ; ovaire tomentelleux à glabre, à 2 ou 3 ovules ; style mince, ± 3 cm de longueur, le sommet en forme de crochet, stigmate vésiculeux. Gousse oblongue à étroitement ellipsoïde, cunéée aux extrémités , 10–18 × 2,5–4,5 cm, avec 1 à 3 graines, glabre, aux rides réticulées , cotonneuse à l’intérieur. Graine oblongue-ovoïde, 2,5–3,2 × 1,5–1,8 cm, brun foncé ; hile linéaire.
+Liana reaching the tops of trees; stem ± 1 cm in diameter. Stipules fairly persistent, lanceolate, 3–5 mm long. Leaf: petiole 3–11 cm; rachis 1.2–3 cm; stipels subulate, 2–3 mm; leaflets with petiolule 4–5 mm, blade ovate-elliptic, 5–15 × 3–8 cm, with base rounded to obtuse, apex acuminate, glabrous above, with appressed pubescence below. Inflorescence in pseudoraceme; rachis zigzag, furnished with thickened nodes bearing 1 or 2 flowers. Flower: pedicel ± 5 mm, elongating at maturity to 15 mm; calyx 4–5 mm long with teeth 1 mm, ciliolate; corolla pink to pale pink, sometimes pale yellow or with greenish mark at base, glabrous, standard recurved, 1.5–2.5 cm in diameter, wings falcate, keel spiraled at the apex; ovary tomentellous to glabrous, with 2 or 3 ovules; style slender, ± 3 cm long, apex hook-shaped, stigma vesiculous. Pod oblong to narrowly ellipsoid, cuneate at the extremities, 10–18 × 2.5–4.5 cm, with 1 to 3 seeds, glabrous, with reticulate wrinkles, cottony inside. Seed oblong-ovoid, 2.5–3.2 × 1.5–1.8 cm, dark brown; hilum linear.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Afrique occidentale et centrale, de la Sierra Léone à la République démocratique du Congo ; au Gabon, connue de la Nyanga, de l’Ogooué-Ivindo et de l’Ogooué-Lolo
+West and Central Africa, from Sierra Leone to the Democratic Republic of the Congo; in Gabon, known from Nyanga, Ogooué-Ivindo and Ogooué-Lolo
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-forêt ripicole et marécageuse, brousse secondaire ; au Gabon jusqu’à 530 m d’altitude, ailleurs jusqu’à 700 m. Fruits en décembre et janvier. Usage : La graine est un poison violent et tue les puces. Elle contient l’ésérine utilisée en thérapeutique oculaire. Ailleurs (République démocratique du Congo), le suc des feuilles colore en noir les couteaux et les pagaies
+riparian and swampy forest, secondary bush; in Gabon up to 530 m altitude, elsewhere up to 700 m. Fruits in December and January. Use: The seed is a violent poison and kills fleas. It contains eserine used in ocular therapy. Elsewhere (Democratic Republic of the Congo), the sap of the leaves colors knives and paddles black
 
 ## Vernacular names
 

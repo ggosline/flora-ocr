@@ -11,7 +11,7 @@ tags: [species, generated]
 ---
 # *Hyperrhenia cyanescens* (Chev.) Stapf.
 
-**Genus**: [[Hyperrhenia]]
+**Genus**: [[Hyparrhenia]]
 **Family**: [[Gramineae]]
 
 ## Synonyms
@@ -44,6 +44,6 @@ Sur alluvions fraîches et argileuses; pâturage de bonne qualité.
 
 ## See also
 
-- [[Hyperrhenia]]
+- [[Hyparrhenia]]
 - [[Gramineae]]
 - [[vol05]]

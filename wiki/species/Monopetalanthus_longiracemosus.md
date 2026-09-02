@@ -17,15 +17,11 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Trees. Young branches hairy rusty. Rachis pubescent 4-8 cm. Stipules caducous. Leaflets 14 to 22 pairs, oblong-linear somewhat falcate, with rounded apex, with base obliquely truncate parallel to the rachis, prolonged by a posterior auricle, long 7-12 mm, wide 2.5-3.5 mm, glabrous. Primary vein median. Secondary venation pinnate.
 
-Arbres. Jeunes rameaux pileux roux. Rachis pubescents de 4-8 cm. Stipules caduques. Folioles 14 à 22 paires, oblongues-
+Inflorescences in terminal panicles of glomerules of rusty floral buds. Bracts imbricate ovate, rusty tomentose, caducous. Flowers subsessile. Bracteoles rounded. Sepals 5, rudimentary, somewhat ciliate. Unique petal obovate, clawed. Stamens 10. Ovary subsessile, hirsute.
 
-linéaires un peu falciformes, à sommet arrondi, à base oblique-quement tronquée parallèlement au rachis, prolongée d'un auricule postérieur, longues de 7-12 mm, larges de 2,5-3,5 mm, glabres. Nervure principale médiane. Nervation secondaire pennée.
-
-Inflorescences en panicules terminaux de glomérules de boutons floraux roux. Bractées imbriquées ovées, tomenteuses rousses, caduques. Fleurs subsessiles. Bractéoles arrondies. Sépales 5, rudimentaires, un peu ciliés. Pétale unique obové, onguiculé. Étamines 10. Ovaire subsessile, hirsute.
-
-Fruit oblong, marqué d'une nervure longitudinale peu accusée.
+Fruit oblong, marked with a slightly pronounced longitudinal vein.
 
 ## Type
 
@@ -33,11 +29,9 @@ Chevalier 26935, Gabon (P)
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Large tree which would be especially frequent in the zone of the Tandous Mountains.
 
-Grand arbre qui serait surtout fréquent dans la zone des Monts Tandous.
-
-L'espèce est très voisine du M. Pellegrini.
+The species is very close to M. Pellegrini.
 
 ## Vernacular names
 

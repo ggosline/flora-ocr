@@ -21,15 +21,13 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Large vine with circinate tendrils. Leaves simple, entire, ovate, with rounded or subcordate base, with 5 (–7) digitate basal nerves, with attenuate, acuminate apex, 8–11 cm by 4.5–6.5 cm, papyraceous. Petiole 1.5–3 cm.
 
-Grande liane à vrilles circinées. Feuilles simples, entières, ovées, à base arrondie ou subcordée, à 5 (-7) nervures basales digitées, à sommet atténué, acuminé, de 8-11 cm sur 4,5-6,5 cm, papyracées. Pétiole de 1,5-3 cm.
+Terminal racemes of large white flowers, or axillary flowers. Pedicel 1 cm. Calyx with narrow cylindrical tube 1.5–1.8 cm, imperceptibly prolonged by the pedicel, with 5 valvate lanceolate acute lobes, rusty-hairy, approximately 5 cm. Petals 5, subequal, free 6–7 × 1 cm approximately, lanceolate acute, with base abruptly narrowed to short claw. Stamens 10 with slender filaments, hairy at the base, as long as the petals. Ovary hairy at the apex of a long hairy stipe 4–5 cm; style slender, hairy; stigma capitate, small.
 
-Racèmes terminaux de grandes fleurs blanches, ou fleurs axillaires. Pédicelle 1 cm. Calice à tube cylindrique étroit de 1,5-1,8 cm, insensiblement prolongé par le pédicelle, à 5 lobes valvaires lancéolés aigus, velus roux, de 5 cm environ. Pétales 5, subégaux, libres de 6-7 × 1 cm environ, lancéolés aigus, à base brusquement rétrécie en court onglet. Étamines 10 à filets grèles, velus à la base, aussi longs que les pétales. Ovaire velu au sommet d'un long stipe velu de 4-5 cm; style grêle, velu; stigmate capité, petit.
+Species from Cabinda, Kasai, the Congo basin and lower Katanga.
 
-Espèce du Cabinda, du Kasai, de la cuvette congolaise et du bas Katanga.
-
-Au Gabon elle n'a été récoltée que dans la région de Lastoursville.
+In Gabon it has only been collected in the Lastoursville region.
 
 ## Specimens examined
 

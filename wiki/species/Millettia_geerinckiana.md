@@ -16,9 +16,7 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Habitu scandente, foliis exstipellatis, foliolis glabrescentibus nervis lateralibus valde ascendentibus, inflorescentiis ramis pseudoracemosis, bracteis brevissimis, calyce breviter dentato, corollaque extus pubescente M. barteri affinis, sed differt foliis sicco viridibus (nec brunneis), nervis supra puberulis (nec glabris), venulis tertiariis inferius prominente reticulatis, calyce indumento patente (nec appresso), inflo rescentiaque paniculata rhachide brevissimo ramis lateralibus longe superato.
+Climbing habit, estipellate leaves, leaflets glabrescent with lateral nerves strongly ascending, inflorescences with pseudoracemose branches, very short bracts, shortly dentate calyx, and pubescent corolla externally M. barteri affinis, but differing in leaves remaining green when dry (not brown), nerves puberulent above (not glabrous), tertiary venules forming prominent reticulation below, calyx with patent indumentum (not appressed), and paniculate inflorescence with very short rachis far surpassed by the lateral branches.
 
 ## Type
 
@@ -26,23 +24,17 @@ Gesnot 7 (holo- : BRLU), Gabon, Ogooué-Lolo, Forêt des Abeilles, 0°41’S 11�
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-espèce endémique du Gabon, connue seulement de la Forêt des Abeilles (Ogooué-Lolo)
+endemic species from Gabon, known only from the Forest of the Bees (Ogooué-Lolo)
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-forêts ; à basse altitude
+forests; at low altitude
 
 ## Source note
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Other specimens examined: Dhetchuvi 1451 & 1464 (BRLU), Gabon, Ogooué-Lolo, Makandé, 0°41'S 11°54'E, 23 November 1993 (st); Dhetchuvi 1541 (BRLU), same locality, 30 November 1993 (st). This species is close to M. barteri by its climbing habit, its leaves lacking stipels, its leaflets with lateral nerves very ascending and well marked, its very reduced bracts, its calyx with very short teeth, and its externally pubescent corolla. It differs from it, however, by the leaflets remaining green when dried (those of M. barteri turn brown), by the puberulent nerves on the upper surface (and not glabrous), by the venules forming a very prominent network on the lower surface (in M. barteri, this network is inconspicuous), by the calyx with patent pubescence (and not appressed), and by the inflorescence with a central rachis much shorter than the lateral branches. The species is dedicated to Daniel Geerinck (1945–2016), specialist of Orchidaceae of Central Africa and passionate naturalist
 
-Autres échantillons étudiés : Dhetchuvi 1451 & 1464 (BRLU), Gabon, Ogooué-Lolo, Makandé, 0°41’S 11°54’E, 23 Novembre 1993 (st) ; Dhetchuvi 1541 (BRLU), même localité, 30 Novembre 1993 (st). Cette espèce est proche de M. barteri par son port lianescent, ses feuilles dépourvues de stipelles, ses folioles à nervures latérales très ascendantes et bien marquées, ses bractées très réduites, son calice à dents très courtes, et sa corolle pubescente extérieurement. Elle en diffère cependant par les folioles res tant vertes au séchage (celles de M. barteri brunissent), par les nervures pubérulentes à la face supérieure (et non glabres), par les nervilles formant un réseau très saillant à la face inférieure (chez M. barteri , ce réseau est peu apparent), par le calice à pubescence étalée (et non couchée), et par l’inflorescence à rachis central beaucoup plus court que les ramifications latérales. L’espèce est dédiée à Daniel Geerinck (1945–2016), spécialiste des Orchidaceae d’Afrique centrale et naturaliste passionné
-
-Idem, face inférieure. – 4. Fleur. – 5. Coupe d’une fleur avec pétales enlevés, montrant les étamines. – 6. Étendard, face interne. – 7. Aile, face externe. – 8. Pétale de la carène, face externe. (1–8 : Gesnot 7 ). Dessin par Antonio Fernandez, Jardin Botanique Meise (©).
+Same, lower surface. – 4. Flower. – 5. Section of a flower with petals removed, showing the stamens. – 6. Standard, internal surface. – 7. Wing, external surface. – 8. Keel petal, external surface. (1–8: Gesnot 7). Drawing by Antonio Fernandez, Meise Botanic Garden (©).
 
 ## Notes
 

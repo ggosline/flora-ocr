@@ -17,27 +17,19 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Herbe ou arbuste , 1,5–3(–7) m de hauteur ; rameaux étalés dès la base, souvent épineux , parfois inermes. Stipules rapidement caduques, triangulaires, 4–6 mm de longueur, à sommet aigu, pubescentes. Feuille 2–18(–25) cm de longueur ; pétiole atteignant 2 cm ; rachis pubérulent, glabrescent ; stipelles absentes ; folioles en 8 à 25(–40) paires, limbe 20–30 × 3–6 mm, glabre ou éparsement pubescent, à marges souvent pileuses, souvent glauque. Inflorescence en racèmes simples, pendants, portant 3 à 7(–22) fleurs. Fleur : pédicelle jusqu’à 12 mm ; calice à tube de 4 mm de longueur, lobes triangulaires, 0,5–1 mm de longueur, acuminés, presque glabres sauf sur les marges ; étendard jaune ou ponctué de violet sur le dos , face ventrale jaune, atteignant 17 × 25 mm, appendices à sommet libre sur ± 2 mm , à onglet de 4 mm, ailes et carène jaune (pâle?), aile 12–15 × 5–6 mm, à onglet de 4–6 mm, carène 5–8 × 3–9 mm, à onglet de 6–9 mm ; étamines 15–17 mm, libres sur 3–4 mm ; ovaire glabre ou légèrement pileux, avec 30 à 50 ovules. Gousse pendante , 10–25 × 0,3–0,5 cm, ± étranglée entre les 20 à 40 graines, glabre, le sommet pointu. Graine subcylindrique, ± 3–3,5 × 2 × 1,6 mm, vert olive normalement tachetée de noir ou de violet foncé.
+Herb or shrub, 1.5–3(–7) m tall; branches spreading from the base, often spiny, sometimes unarmed. Stipules quickly caducous, triangular, 4–6 mm long, with acute apex, pubescent. Leaf 2–18(–25) cm long; petiole reaching 2 cm; rachis puberulent, glabrescent; stipels absent; leaflets in 8 to 25(–40) pairs, blade 20–30 × 3–6 mm, glabrous or sparsely pubescent, with often pilose margins, often glaucous. Inflorescence in simple, pendulous racemes, bearing 3 to 7(–22) flowers. Flower: pedicel up to 12 mm; calyx with tube 4 mm long, lobes triangular, 0.5–1 mm long, acuminate, almost glabrous except on the margins; standard yellow or spotted with violet on the back, ventral face yellow, reaching 17 × 25 mm, appendages with free apex for ± 2 mm, with claw 4 mm, wings and keel yellow (pale?), wing 12–15 × 5–6 mm, with claw 4–6 mm, keel 5–8 × 3–9 mm, with claw 6–9 mm; stamens 15–17 mm, free for 3–4 mm; ovary glabrous or slightly pilose, with 30 to 50 ovules. Pod pendulous, 10–25 × 0.3–0.5 cm, ± constricted between the 20 to 40 seeds, glabrous, apex pointed. Seed subcylindric, ± 3–3.5 × 2 × 1.6 mm, olive green normally spotted with black or dark violet.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-du Sénégal au Soudan, Cameroun et Gabon ; au Gabon, connue de l’Estuaire
+from Senegal to Sudan, Cameroon and Gabon; in Gabon, known from the Estuary
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-bords de lacs, ruisseaux, en pleine lumière ; au Gabon à basse altitude, ailleurs jusqu’à 2000 m. Floraison surtout en saison pluvieuse. Usage : Les feuilles servent comme engrais vert. L’espèce est aussi utiliséee pour la production de fibres, charbon, et diverses usages médicinaux
+lake margins, streams, in full light; in Gabon at low altitude, elsewhere up to 2000 m. Flowering mainly in the rainy season. Use: The leaves serve as green manure. The species is also used for the production of fibres, charcoal, and various medicinal uses
 
 ## Source note
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Au Gabon, il s’agit de la subsp. punctata ; la subsp. sesban , avec ses étamines de 9–13 mm, se trouve en Afrique de l’Est (avec 4 variétés) et l’Asie du Sud-Est. B : Arbonnier (2000), Burkill (1995), Cronquist (1954), Gillett (1963, 1971c), Heering & i B liographie Gutteridge (1992b), Pellegrin (1949), Watt & Breyer-Brandwijk (1962)
+In Gabon, this is subsp. punctata; subsp. sesban, with its stamens 9–13 mm, is found in East Africa (with 4 varieties) and South-East Asia. B: Arbonnier (2000), Burkill (1995), Cronquist (1954), Gillett (1963, 1971c), Heering & Gutteridge (1992b), Pellegrin (1949), Watt & Breyer-Brandwijk (1962)
 
 ## Notes
 

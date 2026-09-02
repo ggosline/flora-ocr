@@ -17,17 +17,13 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 de Saint Aubin, For. Gabon : 53 (1963). — Letouzey et Mouranche, Ekop Cam. : 46 et pl. 10 (1952).
 
-Arbres. Feuilles paripennées, rachis pubescent de 10-15 cm ; 17-20 paires de folioles un peu falciformes, longues de 20-25 mm, large de 5-6 mm, linéaires-oblongues, à base tronquée parallèlement au rachis, le lobe postérieur étant prolongé d'un net auricule, à sommet arrondi, subémarginé, le lobe antérieur dépassant le lobe postérieur, glabres sauf quelques cils fins sur les marges. Nervure principale médiane, nervures secondaires pennées. Sur chaque nœud des rameaux trace d'une cicatrice très engainante laissée par la chute des écailles du bourgeon.
+Trees. Leaves paripinnate, rachis pubescent 10-15 cm long; 17-20 pairs of leaflets somewhat falciform, 20-25 mm long, 5-6 mm wide, linear-oblong, with base truncate parallel to the rachis, the posterior lobe being prolonged into a distinct auricle, apex rounded, subemarginate, the anterior lobe exceeding the posterior lobe, glabrous except for a few fine cilia on the margins. Midvein prominent, secondary veins pinnate. On each node of the branches trace of a highly sheathing scar left by the fall of bud scales.
 
-Inflorescences en panicules terminales, longues de 5-6 cm, formées d'abord de glomérules écailleux, velus roux, composés de bractées imbriquées. Fleurs sessiles. Bractéoles oblongues, velues, de  $ 5 \times 4 $ mm. Réceptacle peu profond de 2 mm. Calice réduit à 2 très petites dents velues, de part et d'autre de l'unique
+Inflorescences in terminal panicles, 5-6 cm long, formed first of scaly glomules, rusty-pubescent, composed of imbricate bracts. Flowers sessile. Bracteoles oblong, pubescent, 5 × 4 mm. Receptacle shallow, 2 mm deep. Calyx reduced to 2 very small pubescent teeth, on either side of the single petal. Petal obovate, emarginate at apex, shortly unguiculate. Stamens 8 with filaments briefly connate at the base. Ovary subsessile, hirsute.
 
-pétale. Pétale obové, émarginé au sommet, courtemment onguiculé. Étamines 8 à filets brièvement soudés à la base. Ovaire subsessile, hirsute.
-
-Gousse plate terminée par une pointe. Le bord sutural est prolongé de chaque côté par une crête saillante. La surface est marquée d'une forte nervure longitudinale. 1-2 graines d'environ 2 cm de diamètre.
+Legume flat, terminated by a point. The sutural margin is prolonged on each side by a prominent ridge. The surface is marked by a strong longitudinal nerve. 1-2 seeds about 2 cm in diameter.
 
 ## Vernacular names
 
@@ -41,11 +37,9 @@ Le Testu 9314, Gabon (P)
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Large tree capable of reaching large diameters. Powerful umbrella-shaped crown with light canopy. Cylindrical trunk elevated, provided at the base with a buttressed system formed by the junction of large roots that can extend over the ground fairly far from the stem. Bark smooth, about 1 cm thick. Break hard, fibrous, pale ochre color. Wood pale copper-pink, tender and light.
 
-Grand arbre pouvant atteindre de gros diamètrés. Cime puissante en parasol, à couvert léger. Fût cylindrique élevé muni à la base d'un empattemment formé par le raccordement des grosses racines qui peuvent s'étendre sur le sol assez loin du pied. Écorce lisse épaisse d'env. 1 cm. Tranche dure, fibreuse, de couleur ocre pâle. Bois clair rose cuivré, tendre et léger.
-
-Cet Andoung paraît répandu dans tout le Gabon, il est particulièrement abondant dans les Monts de Cristal. Il se groupe en bouquets de quelques pieds en mélange avec d'autres Andoungs. Également au Cameroun et en Guinée espagnole.
+This Andoung appears widespread throughout Gabon, it is particularly abundant in the Cristal Mountains. It occurs in groups of a few trees mixed with other Andoungs. Also in Cameroon and Spanish Guinea.
 
 ## Specimens examined
 

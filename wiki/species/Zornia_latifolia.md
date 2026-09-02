@@ -17,31 +17,23 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-in Rees, Cycl. 39(I, 77) : 4 (1818). Z. diphylla auct. pl., non (L.) Pers. (1806). Herbe vivace à base ligneuse , atteignant 1,2 m de hauteur ; tiges partiellement rampantes. Stipules caduques, lancéolées, 8–18 mm de longueur, dont 3–8 mm pour l’appendice lancéolé. Feuille ; pétiole 8–25 mm ; folioles à pétiolule de 1–1,5 mm, limbe linéaire-lancéolé , souvent largement ovale-elliptique à la base de la plante, (2–)3–4,5(–5,5) × (0,3–)0,5–1,5 cm, glabre ou peu pubescent. Inflorescence en racèmes lâches, de 4–17 cm de longueur dont 1–6 cm pour le pédoncule ; bractées ovales, 9–14 mm de longueur, à appendice court, ciliées. Fleur : calice pubescent, à tube de 2 mm de longueur, dents 0,5–2,5 mm de longueur ; corolle jaune striée de rouge , glabre, étendard suborbiculaire, 6–8 mm de longueur dont 2–3 mm pour l’onglet, ailes obliques-obovales, 5–6 mm de longueur dont 1,5–2 pour l’onglet, carène 5–7 mm de longueur dont 1,5 mm pour l’onglet ; étamines 8–9 mm de longueur ; ovaire 3 mm de longueur, velu. Gousse 10–17 × 1,5–3 mm, avec 3 à 7 articles de 2–4 mm de longueur, à poils piquants de 1–2 mm de longueur . Graine suborbiculaire, ± 1,5 × 1,5 × 1 mm, brune ; hile central sur le côté droit.
+in Rees, Cycl. 39(I, 77): 4 (1818). Z. diphylla auct. pl., non (L.) Pers. (1806). Perennial herb with woody base, reaching 1.2 m in height; stems partially decumbent. Stipules caducous, lanceolate, 8–18 mm in length, of which 3–8 mm for the lanceolate appendage. Leaf; petiole 8–25 mm; leaflets with petiolule of 1–1.5 mm, lamina linear-lanceolate, often broadly ovate-elliptic at the base of the plant, (2–)3–4.5(–5.5) × (0.3–)0.5–1.5 cm, glabrous or slightly pubescent. Inflorescence in lax racemes, 4–17 cm in length of which 1–6 cm for the peduncle; bracts ovate, 9–14 mm in length, with short appendage, ciliate. Flower: calyx pubescent, with tube 2 mm in length, teeth 0.5–2.5 mm in length; corolla yellow streaked with red, glabrous, standard suborbicular, 6–8 mm in length of which 2–3 mm for the claw, wings oblique-obovate, 5–6 mm in length of which 1.5–2 for the claw, keel 5–7 mm in length of which 1.5 mm for the claw; stamens 8–9 mm in length; ovary 3 mm in length, villous. Legume 10–17 × 1.5–3 mm, with 3 to 7 articles of 2–4 mm in length, with stinging hairs of 1–2 mm in length. Seed suborbicular, ± 1.5 × 1.5 × 1 mm, brown; hilum central on the right side.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Amérique tropicale, introduite en Afrique occidentale, de la Sierra Léone jusqu’au Gabon et à la République démocratique du Congo d’où elle est devenue envahissante ; au Gabon, largement distribuée, connue de tout les provinces
+Tropical America, introduced to West Africa, from Sierra Leone to Gabon and the Democratic Republic of the Congo from where it has become invasive; in Gabon, widely distributed, known from all provinces
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+littoral vegetation, secondary, along roads and rivers, ruderal stations, dry savannas, sands, fallows; in Gabon at 5–640 m altitude, elsewhere up to 1500 m. In flower for a large part of the year: May, July, September, November to January. Uses: A forage and medicinal plant. The leaves appear to be a drug for relaxation and sleep and also a hallucinogen (South America). Because of confusion with related species, the uses may also have been confused.
 
-végétations littorale, secondaire, le long des routes et rivières, stations rudérales, savanes sèches, sables, jachères ; au Gabon à 5–640 m d’altitude, ailleurs jusqu’à 1500 m. En fleur une grande partie de l’année : mai, juillet, septembre, de novembre à janvier. Usage : Une plante fourragère et médicinale. Les feuilles semblent être une drogue pour se relâcher et dormir et aussi un hallucinogène (Amérique du Sud). À cause de la confusion avec les espèces proches, les usages peuvent également avoir été confondus
-
-Drouet 2316A ). Dessin par R.H. Mohlenbrock (© ), adapté et reproduit à partir de Mohlenbrock (1961).
+Drouet 2316A). Drawing by R.H. Mohlenbrock (© ), adapted and reproduced from Mohlenbrock (1961).
 
 ## Source note
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Z. latifolia, treated by Pellegrin (1949) and others erroneously as Z. diphylla (L.) Pers., had no specimens in 1949, but this invasive plant has been found in Gabon since 1968, in large quantity. Z. latifolia has two varieties of which var. bernardinensis (Chodat & Hassl.) Mohlenbr. is only known from South America. B: Léonard (1954b), Milne-Redhead (1954), Mohlenbrock (1961), Pellegrin (1949). Bibliography
 
-Z. latifolia , traité par Pellegrin (1949) et autres en erreur comme Z. diphylla (L.) Pers., n’avait pas d’échantillons en 1949, mais on a trouvé cette plante envahissante au Gabon dépuis 1968, en grande quantité. Z. latifolia a deux variétés dont la var. bernardinensis (Chodat & Hassl.) Mohlenbr. est seulement connue de l’Amérique du Sud. B : Léonard (1954b), Milne-Redhead (1954), Mohlenbrock (1961), Pellegrin (1949). i B liographie
-
-Remerciements Un travail d’une telle envergure n’aurait pas pu être achevé sans la collaboration de nombreux collègues. Outre les auteurs en charge de certains genres, nos remerciements s’adressent particulièrement à ir. W. Joost van der Burg et dr.ir. Roel H.M.J. Lemmens de l’Université de Wageningen (resp. organisation générale du texte et clés et traduction des diagnoses en latin), dr. Roger M. Polhill et dr. Brian Schrire de Royal Botanic Gardens, Kew (resp. informations sur Crotalaria et informations sur Indigofera et Microcharis ), et aux curateurs et techniciens des herbiers de BR, BRLU, L, MO, P et WAG (visites et prêt du matériel).
+Acknowledgements Work of such scope could not have been completed without the collaboration of many colleagues. Besides the authors responsible for certain genera, our thanks are addressed particularly to ir. W. Joost van der Burg and dr.ir. Roel H.M.J. Lemmens of Wageningen University (resp. general organization of the text and keys and translation of diagnoses into Latin), dr. Roger M. Polhill and dr. Brian Schrire of Royal Botanic Gardens, Kew (resp. information on Crotalaria and information on Indigofera and Microcharis), and to the curators and technicians of the herbaria of BR, BRLU, L, MO, P and WAG (visits and loan of material).
 
 ## Notes
 

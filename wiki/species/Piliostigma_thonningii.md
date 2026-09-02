@@ -21,13 +21,11 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Shrubs, small trees. Leaves simple, alternate, bilobed. Limb reaching 17 cm in length and 21 cm in width, divided at the apex into two obtuse lobes over a quarter of its length, cordate at the base, with 9-12 digitate nerves, glabrous to villous below, coriaceous, marked below with a reticulum of veinlets and venules strongly prominent and characteristic. Petiole 3-5 cm.
 
-Arbustes, arbrisseaux. Feuilles simples, alternes, bilobées. Limbe atteignant 17 cm de longueur et 21 cm de largeur, partagé au sommet en deux lobes obtus sur le quart de sa longueur, cordé à la base, avec 9-12 nervures digitées, glabre à velu en dessous, coriace, marqué en dessous d'un réticulum de nervilles et de veinules fortement saillant et caractéristique. Pétiole de 3-5 cm.
+Terminal racemes or opposite the leaves, 10-25 cm long. Flowers white, ♀ or ♀. Floral buds obovoid, rusty tomentose. Calyx campanulate, 1.5 cm long, with 5 deltoid teeth. Petals 5, equal, obovate, unguiculate, 1.5-2.5 cm in length. Stamens 10, with villous filaments. Ovary villous with short style, with thick, capitate, sessile stigma.
 
-Racèmes terminaux ou opposés aux feuilles, longs de 10-25 cm. Fleurs blanches, ♀ ou ♀. Boutons floraux obovoïdes tomentaux roux. Calice campanulé, long de 1,5 cm, à 5 dents deltoïdes. Pétales 5, égaux, obovés, onguiculés, de 1,5-2,5 cm de longueur. Étamines 10, à filets velus. Ovaire velu à court style, à stigmate épais, capité, sessile.
-
-Gousses oblongues ou déhiscentes, coriaces, à graines éparses dans la pulpe.
+Pods oblong or dehiscent, coriaceous, with seeds scattered in the pulp.
 
 ## Type
 
@@ -35,9 +33,7 @@ Thonning, Ghana (C)
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Arbrisseaux à fût tortueux des savanes boisées, largement répandus dans toute l’Afrique tropicale. Récolté au Gabon dans les savanes de la Nyanga.
+Small trees with tortuous trunk in wooded savannas, widely distributed throughout tropical Africa. Collected in Gabon in the savannas of the Nyanga.
 
 ## Specimens examined
 

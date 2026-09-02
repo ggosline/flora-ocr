@@ -17,29 +17,19 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-, comme ‛ sapini ’ . Liane ou arbuste lianescent ; rameaux glabres sauf au sommet, brun foncé, à lenticelles brunes. Stipules caduques, lancéolées, ± 6 mm de longueur. Feuille : pétiole 3–8 cm ; rachis 6–10 cm, à poils roux apprimés ; stipelles (1–)1,5(–3) mm de longueur ; folioles 9 à 11 , pétiolule 1,5–3 mm, densément soyeux, limbe elliptique à obovale, 5–8 × 2–3(–4) cm, base
-
-arrondie à cunéée, sommet atténué, papyracé, vert pâle et glabre dessus, à poils brun doré, lui sants dessous ; nervures latérales en 8 ou 9 paires saillantes dessous. Inflorescence axillaire ou terminale, en pseudoracèmes denses de 10–20 cm de longueur , parfois ramifiés ; pédoncule 10 cm ; brachyblastes 2–5 mm de longueur ; axes tomenteux ; bractées triangulaires, 2 mm de longueur. Fleur : pédicelle 1 mm ; bractéoles suborbiculaires, 2 mm de diamètre ; calice tomenteux, rouge-brun à brun jaunâtre, tube 3 mm de longueur, lobes triangulaires, 1,5–3 mm de longueur ; corolle blanche , 11–12 mm de longueur, étendard à onglet de ± 3 mm, limbe largement elliptique à suborbiculaire, 10–11 × 7–8 mm, auriculé et à 2 callosités, sommet légèrement émarginé, ailes à onglet de 2 mm, limbe étroitement elliptique, 11–12 × 2–2,5 mm, auriculé, carène à onglet de 3 mm, limbe elliptique-falqué, 12–13 × 4–5 mm ; étamines à tube staminal de 8–9 mm, partie libre 4–7 mm ; ovaire oblong, 4–12 mm de longueur, rouge brun, pubescent, à 7 ovules ; style inclus, à poils apprimés. Gousse étroitement elliptique à étroitement obovale , 7–10 × 1,8–2 cm, atténuée à la base, arrondie et acuminée au sommet, avec 3 à 5 graines, à poils couchés et dorés. Graine ovoïde, aplatie, ± 8 × 6 mm, lisse, ± noire.
+, like 'sapini'. Liane or lianescent shrub; branchlets glabrous except at the apex, dark brown, with brown lenticels. Stipules caducous, lanceolate, ± 6 mm in length. Leaf: petiole 3–8 cm; rachis 6–10 cm, with appressed rufous hairs; stipels (1–)1.5(–3) mm in length; leaflets 9 to 11, petiolule 1.5–3 mm, densely silky, lamina elliptic to obovate, 5–8 × 2–3(–4) cm, base rounded to cuneate, apex attenuate, papyraceous, pale green and glabrous above, with golden-brown shining hairs below; lateral veins in 8 or 9 pairs prominent below. Inflorescence axillary or terminal, in dense pseudoracemes 10–20 cm in length, sometimes branched; peduncle 10 cm; brachyblasts 2–5 mm in length; axes tomentose; bracts triangular, 2 mm in length. Flower: pedicel 1 mm; bracteoles suborbicular, 2 mm in diameter; calyx tomentose, reddish-brown to yellowish-brown, tube 3 mm in length, lobes triangular, 1.5–3 mm in length; corolla white, 11–12 mm in length, standard with claw ± 3 mm, limb broadly elliptic to suborbicular, 10–11 × 7–8 mm, auriculate and with 2 callosities, apex slightly emarginate, wings with claw 2 mm, limb narrowly elliptic, 11–12 × 2–2.5 mm, auriculate, keel with claw 3 mm, limb elliptic-falcate, 12–13 × 4–5 mm; stamens with staminal tube 8–9 mm, free part 4–7 mm; ovary oblong, 4–12 mm in length, reddish-brown, pubescent, with 7 ovules; style included, with appressed hairs. Pod narrowly elliptic to narrowly obovate, 7–10 × 1.8–2 cm, attenuate at the base, rounded and acuminate at the apex, with 3 to 5 seeds, with appressed golden hairs. Seed ovoid, flattened, ± 8 × 6 mm, smooth, ± black.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Gabon, République du Congo et République démocratique du Congo ; au Gabon, connue du Haut-Ogooué, de l’Ogooué-Ivindo et de l’Ogooué-Lolo
+Gabon, Republic of the Congo and Democratic Republic of the Congo; in Gabon, known from Haut-Ogooué, Ogooué-Ivindo and Ogooué-Lolo
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-forêt et galeries forestières, savane ; à 300–500 m d’altitude. Floraison en janvier et juillet
+forest and forest galleries, savanna; at 300–500 m altitude. Flowering in January and July
 
 ## Source note
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-La var. subrubrosericea De Wild. se trouve en République démocratique du Congo et en diffère par sa pilosité rouge foncé. b : Hauman (1954a). ibliographie
+Var. subrubrosericea De Wild. occurs in the Democratic Republic of the Congo and differs from it by its dark red pilosescence. b: Hauman (1954a). ibliography
 
 ## Notes
 

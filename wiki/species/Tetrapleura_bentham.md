@@ -15,15 +15,13 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 in Hook. Journ. Bot., 4:345 (1841).
 
-Arbres inermes. Feuilles bipennées à pennes alternes ou opposées. Folioles alternes, à base asymétrique. Inflorescences en grappes axillaires, solitaires ou géminées. Fleurs ♢, pentamères, pédicellées. Calice gamosépalc à 5 dents. Corolle à pétalcs valvaircs, librcs. Étamines 10, libres entre elles, à connectif prolongé par une glande pédiculée caduque. Ovaire pluriovulé. Style filiforme. Gousse oblongue, indéhiscente, ligneuse, noire à noir violacé, cloisonnée entre les graines, à valves latéralement ailées (section du fruit cruciforme).
+Unarmed trees. Leaves bipinnate with pinnae alternate or opposite. Leaflets alternate, with asymmetric base. Inflorescences in axillary racemes, solitary or geminate. Flowers ♢, pentamerous, pedicellate. Calyx gamosepalous with 5 teeth. Corolla with valvate petals, free. Stamens 10, free from one another, with connective prolonged by a caducous pedicellate gland. Ovary pluriovulate. Style filiform. Pod oblong, indehiscent, woody, black to black-violet, chambered between the seeds, with laterally winged valves (cross-section of fruit cruciform).
 
-ESPÈCE-TYPE : T. tetrapleura (Schumach & Thonn.) Taub. (Adenanthera tetrapleura Schumach. & Thonn.).
+TYPE SPECIES: T. tetrapleura (Schumach & Thonn.) Taub. (Adenanthera tetrapleura Schumach. & Thonn.).
 
-Ce genre est endémique africain. Il regroupe deux espèces. Une seule est présente au Gabon.
+This genus is endemic to Africa. It comprises two species. Only one is present in Gabon.
 
 Tetrapleura tetraptera (Schumacher & Thonning) Taubert
 
@@ -31,15 +29,15 @@ Tetrapleura tetraptera (Schumacher & Thonning) Taubert
 
 – Tetrapleura thonningii Benth. in Hook. Journ. Bot. 4: 345 (1841), nom. illegit.
 
-Arbre haut de 6 à 36 m pour un diamètre atteignant environ 50 cm (rarement 1,20 m). Parfois petits contreforts aliformes concaves à la base. Écorce lisse à rugueuse, grise à marron, très mince, tranche rougeâtre à odeur forte. Rameaux jeunes faiblement pubescents à glabres. Rameaux âgés glabres, noirs, ± aplatis vers leur extrémité. Feuilles de l'extrémité des rameaux opposées à subopposées, autrement alternes.
+Tree 6 to 36 m tall with a diameter reaching approximately 50 cm (rarely 1.20 m). Sometimes small concave aliform buttresses at the base. Bark smooth to rugose, grey to brown, very thin, section reddish with a strong odor. Young branchlets weakly pubescent to glabrous. Old branchlets glabrous, black, ± flattened toward their apex. Leaves at the apex of branchlets opposite to subopposite, otherwise alternate.
 
-Pétiole finement pubescent surtout à son extrémité distalé, long de (3,5-) 4,3-13,5 cm, plat dessus vers la base, canaliculé vers le sommet. Rachis ± pubescent, long de (5,7-) 7,4-45 cm, canaliculé dessus. Pennes 5-13 paires opposées (parfois alternes). Axe de la penne pubescent, long de (3,6-) 5-10,5 (-14,5) cm, à crête saillante dessus et bords latéraux ± ailés. Folioles alternes, 18-24. Pétioule pubescent, long de 0,5-1 mm. Limbe glabre dessus et ± pubescent dessous (souvent touffe de poils plus denses apprimés à ± hirsutes à la base de la nervure primaire, côté proximal du limbe), marron vert à noir dessus et vert marron à marron foncé dessous sur le sec, oblong à oblong elliptique, parfois oblong lancéolé, (0,3-) 0,7-1,8 (-2,2) × (0,2-) 0,4-0,9 (-1,4) cm, base très asymétrique : bord proximal atténué et bord distal très arrondi ; sommet arrondi, fréquemment rétus à faible mucron replié vers la face inférieure. Nervure principale médiane, faiblement pubescent à la base, concave à faiblement saillante dessus et saillante pubescente dessous. Nervures secondaires 4-6 paires, ascendantes, peu ou pas arquées, souvent peu visibles, faiblement saillantes ou non sur les deux faces. Nervilles non visibles.
+Petiole finely pubescent especially at its distal apex, (3.5–) 4.3–13.5 cm long, flat above toward the base, canaliculate toward the apex. Rachis ± pubescent, (5.7–) 7.4–45 cm long, canaliculate above. Pinnae 5–13 pairs opposite (sometimes alternate). Pinnae axis pubescent, (3.6–) 5–10.5 (–14.5) cm long, with a prominent crest above and lateral edges ± winged. Leaflets alternate, 18–24. Petiolule pubescent, 0.5–1 mm long. Blade glabrous above and ± pubescent below (often a tuft of denser appressed or ± hirsute hairs at the base of the primary vein, on the proximal side of the blade), brownish green to black above and greenish brown to dark brown below when dry, oblong to oblong elliptic, sometimes oblong lanceolate, (0.3–) 0.7–1.8 (–2.2) × (0.2–) 0.4–0.9 (–1.4) cm, base very asymmetric: proximal edge attenuate and distal edge very rounded; apex rounded, frequently retuse with a small mucro reflexed toward the lower face. Primary midvein, weakly pubescent at the base, concave to weakly prominent above and prominent pubescent below. Secondary veins 4–6 pairs, ascending, slightly or not arched, often poorly visible, weakly prominent or not on both surfaces. Veinlets not visible.
 
-Inflorescences en grappes axillaires solitaires ou géminées, ou en courte panicule terminale. Axe pubescent. Pédicelle pubescent, long de 1,5-2,5 mm. Bouton floral ellipsoïde fusiforme, blanc verdâtre à rose sur le vivant ; à corolle glabre ou courtement pubescente au sommet. Fleurs ♂, pentamères, solitaires ou groupées par 2-3, jaunes à rose saumon sur le vivant. Sépales soudés, longs de 0,7-1,5 mm, pubescents extérieurement ; lobes libres triangulaires, longs de 0,25-0,5 mm, sommet aigu. Pétales 5, libres, glabres sur les deux faces, elliptiques, 3,5-4 × 0,75-1 mm, base atténuée en onglet ; sommet aigu épaissi. Étamines 10, libres ; filet grêle, long de 5-6 mm ; anthère ellipsoïde, longue de 0,5 mm, à connectif se terminant par une glande caduque. Pistil à stipe très court long de 0,25 mm ; ovaire glabre, long de 2,5-3 mm, à 11 ovules ; style grêle, long de 3,5 mm, terminé par un stigmate tubuleux très court.
+Inflorescences in axillary racemes solitary or geminate, or in a short terminal panicle. Axis pubescent. Pedicel pubescent, 1.5–2.5 mm long. Floral bud ellipsoid fusiform, whitish green to pink when fresh; corolla glabrous or shortly pubescent at the apex. Flowers ♂, pentamerous, solitary or grouped by 2–3, yellow to salmon-pink when fresh. Sepals fused, 0.7–1.5 mm long, pubescent externally; free lobes triangular, 0.25–0.5 mm long, apex acute. Petals 5, free, glabrous on both faces, elliptic, 3.5–4 × 0.75–1 mm, base attenuate into a claw; apex acute thickened. Stamens 10, free; filament slender, 5–6 mm long; anther ellipsoid, 0.5 mm long, with connective ending in a caducous gland. Pistil with a very short stipe 0.25 mm long; ovary glabrous, 2.5–3 mm long, with 11 ovules; style slender, 3.5 mm long, terminated by a very short tubular stigma.
 
-Gousse persistante sur l'arbre, pendante, indéhiscente, à section cruciforme, glabre, marron violet à noire luisante, oblongue, le plus souvent arquée, 15-25 × 4,5-6 cm ; base atténuée à arrondie à court stipe ; ailes latérales bien développées ; bords latéraux droits à ± lobés ; sommet atténué à arrondi. Ailes latérales dures ; ailes verticales remplies de mésocarpe charnu. Graines dures, ovales, de 9 × 7 × 4 mm.
+Pod persistent on the tree, pendulous, indehiscent, with cruciform section, glabrous, purple-brown to black shiny, oblong, most often curved, 15–25 × 4.5–6 cm; base attenuate to rounded with a short stipe; lateral wings well developed; lateral edges straight to ± lobed; apex attenuate to rounded. Lateral wings hard; vertical wings filled with fleshy mesocarp. Seeds hard, ovate, 9 × 7 × 4 mm.
 
-Plantule glabrescente. Cotylédons épigés. Quatre premières feuilles verticillées, composées pennées à 8-9 paires de folioles. Cinquième feuille solitaire comme précédemment. Feuilles 6-7 composées bipennées. – Pl. 16, p. 65.
+Seedling glabrescent. Cotyledons epigeal. First four leaves whorled, pinnately compound with 8–9 pairs of leaflets. Fifth leaf solitary as previously. Leaves 6–7 bipinnately compound. – Pl. 16, p. 65.
 
 ## Type
 
@@ -47,35 +45,31 @@ Thonning s.n., Ghana: Ghanba, Akwapim (C)
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+The range of this species is very extensive, extending from Senegal (Casamance) to Tanganyika to the east and to Angola to the south. It is a forest species of low to medium altitude. Flowering occurs from December to June; fruiting likewise.
 
-L'aire de cette espèce est très vaste puisqu'elle s'étend du Sénégal (Casamance) au Tanganyika vers l'Est et à l'Angola vers le Sud. C'est une espèce forestière de basse et moyenne altitude. La floraison a lieu de décembre à juin ; la fructification de même.
+We note some specimens with particularly small leaflets (Zenker 773, Cameroon; Le Testu 8666). This form may also be encountered in Congo and Central Africa. It does not seem appropriate to create a new taxon given the variability of the leaves.
 
-Signalons quelques échantillons avec des folioles particulièrement petites (Zenker 773, Cameroun ; Le Testu 8666). Cette forme peut aussi se rencontrer au Congo et en Centrafrique. Il ne semble pas opportun de créer un nouveau taxon vu la variabilité des feuilles.
-
-Aubréville 145, région d'Azongo (fr., sept.)
+Aubréville 145, Azongo region (fr., Sept.)
 
 Chalot s.n., s.l. (fl.)
 
-Fleury in Chevalier 26563, vill. d'Atsié, sur l'Ogooué, près Lambaréné (fr., août) ; 33573, env. Libreville (fr., avr.).
+Fleury in Chevalier 26563, village of Atsié, on the Ogooué, near Lambaréné (fr., Aug.); 33573, env. Libreville (fr., Apr.).
 
-Hallé N. 1735, 10 km SW Ndjolé, CEFA Ayem (fl., fr., avr.).
+Hallé N. 1735, 10 km SW Ndjolé, CEFA Ayem (fl., fr., Apr.).
 
-Hladik 1858 part A, plateau de M'Passa, Makokou (fl., déc.).
+Hladik 1858 part A, M'Passa plateau, Makokou (fl., Dec.).
 
-Klaine s.n., 2, plaine du village Louis, Libreville (fl., févr.); 413, Libreville (fl., avr.); 3523, Donghila (fl., nov.).
+Klaine s.n., 2, plain of Louis village, Libreville (fl., Feb.); 413, Libreville (fl., Apr.); 3523, Donghila (fl., Nov.).
 
 Lecomte F 27, Mayumba.
 
-Le Testu 1971, Tchibanga (fl., janv.); 5204, Mouila (fl., janv.); 5860, Saint-Martin (fl., déc.); 7046, Lastoursville (fl., mars); 8666, Magabi (fl., janv.).
+Le Testu 1971, Tchibanga (fl., Jan.); 5204, Mouila (fl., Jan.); 5860, Saint-Martin (fl., Dec.); 7046, Lastoursville (fl., Mar.); 8666, Magabi (fl., Jan.).
 
-Thollon 102, 102 bis, Ndjolé (fl., janv.); 275, Ogoué (fl., avr.).
+Thollon 102, 102 bis, Ndjolé (fl., Jan.); 275, Ogoué (fl., Apr.).
 
 ## Uses
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-le bois jaune clair tendre est utilisé en menuiserie. Il sert aussi à confectionner les pagaies. Des infusions sont obtenues à partir des fruits très odorants additionnés de piment; elles servent en lavement ou en fumigation comme fébrifuge. La décoction d'écorce est un vomitif efficace. L'écorce et les fruits pilés font office de poison de pêche. Par ailleurs, pour les tribus de l'intérieur du pays, les gousses répandues dans les plantations vivrières, protégeraient les récoltes contre les animaux nuisibles
+The pale yellow soft wood is used in carpentry. It is also used to make paddles. Infusions are obtained from the highly fragrant fruits mixed with chili pepper; they are used as enemas or fumigations as a febrifuge. Bark decoction is an effective emetic. Crushed bark and fruits serve as a fishing poison. Furthermore, for the tribes of the interior of the country, the pods scattered in food plantations would protect the harvests against harmful animals.
 
 ## Vernacular names
 

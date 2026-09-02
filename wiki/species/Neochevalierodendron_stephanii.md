@@ -22,15 +22,11 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Small trees. Leaves with 4 leaflets, the 2 upper ones opposite, the 2 others alternate. Rachis 5-6 cm, glabrous. Leaflets ovate-oblong slightly falciform, asymmetric, the midvein dividing the blade into two unequal parts, obtusely acuminate, cuneate at the base, 9-16 cm long, 5-8 cm wide, glabrous. Midvein slightly arched. Secondary veins 6-8, united in arches approximately 5 mm from the margins. Network of veinlets finely meshed, clearly visible on both faces. Petiolules 5 mm, twisted.
 
-Petits arbres. Feuilles à 4 folioles, les 2 supérieures opposées, les 2 autres alternes. Rachis de 5-6 cm, glabre. Folioles ovées oblongues légèrement falciformes, asymétriques, la nervure médiane partageant le limbe en deux parties inégales, obtusément acuminées, cunéiformes à la base, longues de 9-16 cm, larges de 5-8 cm, glabres. Nervure médiane un peu arquée. Nervures secondaires 6-8, réunies en arceaux à 5 mm env. des marges. Réseau de nervilles finement maillé, bien visible sur les 2 faces. Pétiolules de 5 mm, tordus.
+Inflorescences in racemes 6-8 cm long, glabrous, grouped in 1-5, at the axil of the upper leaves. Flowers white-pink, rather large, long-pedicellate (12-15 mm), glabrous. Bracteoles petaloid, ovate-suborbicular, 15 × 13 mm, not completely enveloping the bud, non-valvate, very caducous. Receptacle tubular, 8 mm deep. Calyx with 4 imbricate lobes, oval, concave, 12-14 mm. Petals 3, suborbicular cordate, 15 mm, lacinate and undulate at the margins, tomentose within, glabrous on the outside. Stamens 10, with carmine-red filaments, pubescent in the lower half, 15-18 mm long; anthers 3.5 mm. Ovary densely hairy on the margins, with a stipe fused to the wall of the receptacle.
 
-Inflorescences en racèmes longues de 6-8 cm, glabres, groupés
-
-par 1-5, à l'aisselle des feuilles supérieures. Fleurs blanches rosées, assez grandes, longuement pédicellées (12-15 mm), glabres. Bractéoles pétaloïdes, ovées-suborbiculaires, de  $ 15 \times 13 $ mm, n'enveloppant pas complètement le bouton, non valvaires, très caduques. Réceptacle en tube, profond de 8 mm. Calice à 4 lobes imbriqués, ovales, concaves, de 12-14 mm. Pétales 3, suborbiculaires cordés, de 15 mm, laciniés et ondulés sur les bords, tomenteux en dedans, glabres à l'extérieur. Étamines 10, à filets rouge carmin, pubescents dans la moitié inférieure, longs de 15-18 mm; anthères 3,5 mm. Ovaire densément velu sur les bords, à stipe soudé à la paroi du réceptacle.
-
-Grandes gousses oblongues, aplaties, coriaces, longues de 20 cm environ sur 7 cm de largeur, à surface nervurée.
+Large oblong pods, flattened, coriaceous, approximately 20 cm long by 7 cm wide, with a nervured surface.
 
 ## Type
 
@@ -38,9 +34,7 @@ A. Chevalier 26915 (P)
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Petit arbre de 8-15 m de hauteur, atteignant 60 cm de diamètre. Feuillage très dense. Écorce grisâtre, espèce endémique gabonaise.
+Small tree 8-15 m in height, reaching 60 cm in diameter. Foliage very dense. Bark greyish, species endemic to Gabon.
 
 ## Vernacular names
 

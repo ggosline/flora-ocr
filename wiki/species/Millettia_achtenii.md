@@ -17,21 +17,15 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Liane ; ramilles velues, puis glabres et lenticellées. Stipules lancéolées, ± 4 mm de longueur, velues. Feuille 18–25 cm de longueur ; pétiole ± 2 cm ; rachis 14–18 cm, poilu ; stipelles nulles ; folioles 7 à 9(–11) , à pétiolule de 3–4 mm, limbe oblong-lancéolé à obovale, 8–10 × 3–4,5 cm, la terminale la plus grande, base ± obtuse, à acumen aigu de 7–15 mm, glabre dessus, densément soyeux dessous, à poils blanc-jaune apprimés ; nervures latérales en 10–12 paires. Inflorescence axillaire ou terminale, en pseudoracèmes étroits de (4–)10–18 cm de longueur et peu ramifiés ; bractées ovales à suborbiculaires, ± 6 mm de longueur, très velues. Fleur sessile , 1,5 cm de longueur ; bractéoles couvrant le calice dès la base, suborbiculaires , (4–)6–8 mm de longueur, très velues ; calice roux foncé et velu, tube 5 mm de longueur, lobes lancéolés, ± 6 mm de longueur, les supérieurs soudés sur les ⅔, les inférieurs imbriqués en bouton, couvrant les supérieurs ; corolle violacée , étendard oblong, à limbe de ± 10 × 5 mm, base auriculée et calleuse, sommet à peine émarginé, à onglet incurvé, de 3–4 mm, ailes oblongues, 11 × 2,5 mm, à onglet de 3 mm, carène obtuse, 11 × 3 mm, à onglet de 5 mm ; étamines 15 mm, la partie libre ± 5 mm, la vexillaire à peine attachée ; ovaire oblong-linéaire, 10 mm de longueur, velu, à 6 ou 7 ovules ; style incurvé, 5 mm, glabre au sommet, stigmate capité, minuscule. Gousse 5–8 × 2 cm. Graine non vue.
+Liane; branchlets hairy, then glabrous and lenticellate. Stipules lanceolate, ± 4 mm long, hairy. Leaf 18–25 cm long; petiole ± 2 cm; rachis 14–18 cm, pilose; stipels absent; leaflets 7 to 9(–11), with petiolule 3–4 mm, blade oblong-lanceolate to obovate, 8–10 × 3–4.5 cm, the terminal one largest, base ± obtuse, with acute acumen 7–15 mm, glabrous above, densely silky below, with appressed white-yellow hairs; lateral veins in 10–12 pairs. Inflorescence axillary or terminal, in narrow pseudoracemes (4–)10–18 cm long and poorly branched; bracts ovate to suborbicular, ± 6 mm long, very hairy. Flower sessile, 1.5 cm long; bracteoles covering the calyx from the base, suborbicular, (4–)6–8 mm long, very hairy; calyx dark reddish-brown and hairy, tube 5 mm long, lobes lanceolate, ± 6 mm long, the upper ones connate for ⅔, the lower ones imbricate in bud, covering the upper ones; corolla violaceous, standard oblong, with limb ± 10 × 5 mm, base auriculate and callose, apex scarcely emarginate, with incurved claw, 3–4 mm, wings oblong, 11 × 2.5 mm, with claw 3 mm, keel obtuse, 11 × 3 mm, with claw 5 mm; stamens 15 mm, the free part ± 5 mm, the vexillar one scarcely attached; ovary oblong-linear, 10 mm long, hairy, with 6 or 7 ovules; style incurved, 5 mm, glabrous at the apex, stigma capitate, minute. Pod 5–8 × 2 cm. Seed not seen.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Gabon et Ouest de la République démocratique du Congo ; au Gabon, connue de l’Estuaire et de l’Ogooué-Lolo
+Gabon and West of the Democratic Republic of the Congo; in Gabon, known from Estuaire and Ogooué-Lolo
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-forêt, bord des eaux ; à 10–350 m d’altitude. Fleurs en novembre. Usage : La plante est utilisée comme poison de pêche. b : Hauman (1954a). ibliographie
+Forest, water margins; at 10–350 m altitude. Flowers in November. Use: The plant is used as a fishing poison. b: Hauman (1954a). Bibliography
 
 ## Notes
 

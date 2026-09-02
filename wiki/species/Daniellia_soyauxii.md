@@ -21,15 +21,11 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 — de Saint-Aubin, For. Gabon : 67 (1963). — Léonard, Bull. Jard. Bot. Brux. 19 : 407 (1949), var. pilosa.
 
-Arbres. Feuilles à 7-9 paires de folioles opposées. Rachis de 15-20 cm, glabre. Folioles ovées lancéolées ou oblongues, à sommet atténué et aigu ou courtement acuminé-aigu, obtuses ou arrondies ou subcordées à la base, mesurant 5-6 × 2 cm environ, luisantes dessus. Réseau de nervures et nervilles finement saillant sur les 2 faces. Limbe criblé de points translucides.
+Trees. Leaves with 7–9 pairs of opposite leaflets. Rachis 15–20 cm, glabrous. Leaflets ovate-lanceolate or oblong, with attenuate and acute or shortly acuminate-acute apex, obtuse or rounded or subcordate at base, measuring 5–6 × 2 cm approximately, shining above. Venation and veinlets finely raised on both faces. Limb riddled with translucent dots.
 
-Panicules lâches, à ramifications divariquées, un peu pubescentes. Pédicelles d'environ 1 cm de longueur, portant vers le
-
-milieu 2 bractéoles opposées, glabres ou presque. Sépales longs de 8-10 mm, oblongs, concaves. Pétales deux grands de 1 cm, un de 5-7 mm, poilus à l'intérieur et sur les bords; deux autres minuscules. Étamines 10 dont 9 soudées à la base et 1 libre, hirsutes dans la moitié inférieure. Ovaire stipité, glabre.
+Loose panicles, with divaricate branching, somewhat pubescent. Pedicels approximately 1 cm long, bearing towards the middle 2 opposite bracteoles, glabrous or nearly so. Sepals 8–10 mm long, oblong, concave. Petals two large ones 1 cm, one 5–7 mm, hairy on the inside and on the margins; two others minute. Stamens 10, of which 9 are connate at the base and 1 free, hirsute in the lower half. Ovary stipitate, glabrous.
 
 ## Vernacular names
 
@@ -41,11 +37,9 @@ Soyaux 101, Libreville, Gabon
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+This Daniellia of dense humid forest, with small leaves, is widespread from Gabon to Kasai. Léonard described a variety pilosa, of which the type is Le Testu 8291 from the Lastoursville region, whose axes of the inflorescences, the external face of the bracteoles and sepals are densely velutinous, as is the ovary at least on the margins.
 
-Ce Daniellia de forêt dense humide, à petites feuilles, est répandu du Gabon au Kasai. Léonard a décrit une variété pilosa, dont le type est le n° Le Testu 8291 de la région de Lastoursville, dont les axes des inflorescences, la face externe des bractéoles et des sépales sont densément velus, ainsi que l'ovaire au moins sur les bords.
-
-Noms vcrnac. : Mvancu, Egnougnouma (Fang).
+Vernacular names: Mvancu, Egnougnouma (Fang).
 
 ## Specimens examined
 

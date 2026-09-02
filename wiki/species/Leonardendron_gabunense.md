@@ -23,13 +23,11 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Leaves with 4 pairs of oblong or ovate-oblong leaflets, attenuate-acuminate at the apex, rounded at the base, glabrous, shiny above, 8-15 cm in length by 3.5-6 cm in width.
 
-Feuilles à 4 paires de folioles oblongues ou ovées-oblongues, atténuées-acuminées au sommet, arrondies à la base, glabres, luisantes dessus, de 8-15 cm de longueur sur 3,5-6 cm de largeur.
+The lower pair is inserted very close to the branchlet, thus appearing as large foliaceous stipules, cordate, briefly and abruptly acuminate, suborbicular, approximately 3.5 cm in diameter. In the normal leaflets, lateral veins 5-7 pairs, arched, very ascending.
 
-La paire inférieure est insérée très près du rameau, ayant alors l'aspect de grandes stipules foliacées, cordiformes, brièvement et brusquement acuminées, suborbiculaires, environ 3,5 cm de diamètre. Chez les folioles normales, nervures latérales 5-7 paires, arquées, très ascendantes.
-
-Grandes panicules terminales atteignant 50 cm de longueur et plus, courtement ramiﬁées; les axes latéraux sont hérissés de petites bractées persistantes. Pédicelles 5-7 mm. Bractéoles tomenteuses longues de 5-6 mm environ. Calice à tube de 4 mm, à 5 lobes obtus de 4 mm. Pétales 5, subégaux, spatulés, de couleur rouge groseille, de 7-8 mm de longueur. Étamines fertiles de couleur rouge, glabres. Ovaire velu, à 4 ovules.
+Large terminal panicles reaching 50 cm in length and more, shortly branched; the lateral axes are bristly with small persistent bracts. Pedicels 5-7 mm. Bracteoles tomentose, approximately 5-6 mm in length. Calyx with tube 4 mm, with 5 obtuse lobes of 4 mm. Petals 5, subequal, spatulate, currant-red in colour, 7-8 mm in length. Fertile stamens red in colour, glabrous. Ovary hairy, with 4 ovules.
 
 ## Type
 
@@ -37,9 +35,7 @@ Le Testu 7808 (P)
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Espèce connue seulement du Gabon.
+Species known only from Gabon.
 
 ## Specimens examined
 

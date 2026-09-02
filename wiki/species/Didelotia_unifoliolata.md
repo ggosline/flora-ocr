@@ -17,15 +17,11 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Trees. Leaves unifoliolate. Petiole approximately 5 mm. Stipules intrapetiolular, truncate. Leaflets ovate-elliptic or ovate-oblong, with gradually acuminate apex, with symmetric rounded base, subcoriaceous, glabrous, ordinarily measuring 10-16 cm in length by 4-8 cm in width. Approximately 8-10 pairs of lateral nerves, of which the lower 3-4 diverging from the base; anastomosing in a reticulate network of veinlets, visible on the lower surface of the limb.
 
-Arbres. Feuilles unifoliolées. Pétiole de 5 mm environ. Stipules intrapétiolulaires, tronquées. Folioles ovées elliptiques ou ovées oblongues, à sommet graduellement acuminé, à base symétrique arrondie, subcoriaces, glabres, mesurant ordinairement 10-16 cm de longueur sur 4-8 cm de largeur. Environ 8-10 paires de nervures latérales, dont les 3-4 inférieures divergeant de la
+Inflorescence in long axillary racemes, pendulous, measuring up to 50 cm in length, with short branches 1-4 cm in length, glabrous. Small persistent bracts 1 mm. Pedicels glabrous, 7-9 mm long. Bracteoles glabrous 5 mm in length, 3 mm in width. Receptacle cupuliform with undulate margin. Sepals absent or reduced to minute scales. Petals 5, filiform. Stamens 5, up to 15 mm long. Ovary glabrous, 6-8 ovulate.
 
-base; anastomosées dans un réseau maillé de veinules, visible sous le limbe.
-
-Inflorescence en longs racèmes axillaires, pendants, mesurant jusqu'à 50 cm de longueur, avec des ramifications courtes de 1-4 cm de longueur, glabres. Petites bractées persistantes de 1 mm. Pédicelles glabres, longs de 7-9 mm. Bractéoles glabres de 5 mm de longueur, 3 mm de largeur. Réceptacle cupuliforme à bord ondulé. Sépales nuls ou réduits à de minuscules écailles. Pétales 5, filiformes. Étamines 5, longues jusqu'à 15 mm. Ovaire glabre, 6-8 ovulé.
-
-Gousses oblongues, de 10 × 4 cm environ, marquées d'une nervure longitudinale et parfois d'une seconde basilaire et courte. Suture peu épaissie.
+Pods oblong, approximately 10 × 4 cm, marked with a longitudinal nerve and sometimes a second basal and short one. Suture slightly thickened.
 
 ## Type
 
@@ -33,9 +29,7 @@ Jans 855 bis (BR)
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Arbre de taille moyenne au fût cylindrique, à l'écorce écailleuse rougeâtre, ou arbuste, rencontré surtout au bord des rivières, du sud de la Nigéria au Congo.
+Medium-sized tree with cylindrical trunk, with reddish scaly bark, or shrub, encountered especially along riverbanks, from southern Nigeria to Congo.
 
 ## Specimens examined
 

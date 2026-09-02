@@ -21,11 +21,9 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Trees. Leaflets ovate falciform, acuminate, asymmetric at the base, which is rounded on the external side, glabrous, without visible translucent dots. Petiole 1.5–3.5 cm, slender. Flowers unknown.
 
-Arbres. Folioles ovées falciformes, acuminées, asymétriques à la base, qui est arrondie du côté externe, glabres, sans points translucides visibles. Pétiole de 1,5-3,5 cm, grêle. Fleurs inconnues.
-
-Gousses obliquement elliptiques, un côté rectiligne, l'autre convexe, comprimées, glabres, de 2-2,5 cm de longueur sur 1,5 cm de largeur, coriaces, épaisses, déhiscentes, rouges puis noirâtres et à surface chagrinée à l'état sec. Graines complètement entourées d'un arille rouge.
+Pods obliquely elliptic, one side straight, the other convex, compressed, glabrous, 2–2.5 cm in length by 1.5 cm in width, coriaceous, thick, dehiscent, red then blackish and with a shagreened surface when dry. Seeds completely surrounded by a red aril.
 
 ## Type
 
@@ -33,13 +31,9 @@ Heitz 21, Gabon (P)
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Large tree with a straight and cylindrical bole, sometimes channeled at the base which is reinforced by buttresses. It is sometimes abundant in certain forests of Gabon, on fresh soil in mixture with Berlinia bracteosa and Saccoglottis gabonensis. It does not produce copal, but exudes through wounds a clear yellow gum.
 
-Grand arbre à fût droit et cylindrique, parfois cannelé à la base qui est renforcée par des contreforts. Il est parfois abondant
-
-dans certaines forêts du Gabon, sur terrain frais en mélange avec Berlinia bracteosa et Saccoglottis gabonensis. Il ne produit pas de copal, mais exsude par les blessures une gomme jaune clair.
-
-Espèce endémique gabonaise.
+Species endemic to Gabon.
 
 ## Specimens examined
 

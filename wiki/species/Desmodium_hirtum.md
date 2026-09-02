@@ -17,27 +17,19 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Herbe annuelle ou suffrutex , 0,5–2 m de hauteur, prostrée ou dressée ; rameaux abondants, éparsement étalés-pileux . Stipules ovales-atténuées, 5,5–7 × 2 mm, glabres. Feuille : pétiole ± 1 cm ; stipelles subulées, 0,5–1 mm de longueur ; folioles 3 , à limbe obovale, 20–27(–40) × 14–17(–20) mm, cunéiforme à arrondi à la base, à sommet tronqué à émarginé, finement pubescent, surtout en dessous . Inflorescence en pseudoracèmes axillaires et terminaux, lâches, généralement à 2 fleurs par nœud ; rachis filiforme , unciné-pubérulent. Fleur : pédicelle fili forme , 9–13 mm, beaucoup plus longs que les fleurs ; calice à tube de 1 mm de longueur, dents 1,5 mm de longueur ; corolle 3,5 mm de longueur, rose , étendard et carène subégaux. Gousse avec 3 à 6 articles de ± 3 × 3 mm, peu uncinulés-velues, se séparant partiellement les uns des autres ou non, puis la gousse déhiscente le long de la suture ventrale . Graine ± 2 × 1,4 × 0,6 mm, rouge-brun ou jaune avec taches noires ; hile petit, subcentral.
+Annual herb or suffrutex, 0.5–2 m tall, prostrate or erect; branches abundant, sparsely spreading-pilose. Stipules ovate-attenuate, 5.5–7 × 2 mm, glabrous. Leaf: petiole ± 1 cm; stipels subulate, 0.5–1 mm long; leaflets 3, with obovate limb, 20–27(–40) × 14–17(–20) mm, cuneate to rounded at base, apex truncate to emarginate, finely pubescent, especially below. Inflorescence in axillary and terminal pseudoracemes, lax, generally with 2 flowers per node; rachis filiform, uncinate-puberulent. Flower: pedicel filiform, 9–13 mm, much longer than the flowers; calyx with tube 1 mm long, teeth 1.5 mm long; corolla 3.5 mm long, pink, standard and keel subequal. Pod with 3 to 6 articles of ± 3 × 3 mm, sparsely uncinate-hairy, separating partially from one another or not, then the pod dehiscent along the ventral suture. Seed ± 2 × 1.4 × 0.6 mm, reddish-brown or yellow with black spots; hilum small, subcentral.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Afrique tropicale ; au Gabon, dans l’Ogooué-Ivindo (mais voir sous Notes)
+Tropical Africa; in Gabon, in the Ogooué-Ivindo (but see under Notes)
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-sur sables, savane arbustive, champs d’igname ; ailleurs jusqu’à 1900 m d’altitude
+on sands, shrubby savanna, yam fields; elsewhere up to 1900 m altitude
 
 ## Source note
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-En herbier, la déhiscence des gousses n’est pas facile à voir. La présence de cette espèce au Gabon reste à confirmer, car le seul spécimen venant du Gabon, Florence 1686 à P, est identifié avec doute. B : Ern (1984) ; Hepper (1958), Mackinder et al. (2001), van der Maesen (2006a), Pellegrin i B liographie (1949), Schubert (1954, 1971)
+In herbarium material, pod dehiscence is not easy to observe. The presence of this species in Gabon remains to be confirmed, as the sole specimen from Gabon, Florence 1686 at P, is identified with doubt. B: Ern (1984); Hepper (1958), Mackinder et al. (2001), van der Maesen (2006a), Pellegrin Bibliography (1949), Schubert (1954, 1971)
 
 ## Notes
 

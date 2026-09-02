@@ -17,21 +17,15 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Indigofera welwitschii Baker var. remotiflora (E.G.Baker) Cronquist, Fl. Congo Belge 5 : 172 (1954). Herbe annuelle, à poils épars, étalés et apprimés ; tige radicante, jusqu’à 40 cm. Stipules subulées à étroitement triangulaires, 1,5–5 mm de longueur. Feuille avec 3 à 5(–7) folioles , mais souvent 1-foliolée ou simple vers la base ; pétiole 1–12 mm ; folioles des feuilles simples ou 1-foliolées à limbe elliptique à suborbiculaire, 4,5–15 × 2,5–8 mm, foliole terminale des feuilles plus hautes à limbe elliptique à oblong-lancéolé, 5–26 × 2–6 mm, à poils bifurqués dessus. Inflorescence à racèmes de 2–12 cm de longueur, y inclus le pédoncule de 0–2 cm, avec 3 à 12 fleurs lâches ; bractées linéaires, jusqu’à 1 mm. Fleur : pédicelle 2–5 mm ; calice 1–1,5 mm de longueur , à lobes étroitement triangulaires, ± aussi longs que le tube ; corolle rose ou rougeâtre ; étamines 2–2,5 mm. Gousse droite ou légèrement courbée, 7–20 × 1–1,5 mm, ± glabre, avec 4 à 8 graines . Graine rectangulaire, ± 1 mm de longueur.
+Indigofera welwitschii Baker var. remotiflora (E.G.Baker) Cronquist, Fl. Congo Belge 5 : 172 (1954). Annual herb, with scattered, spreading and appressed hairs; stem rooting, up to 40 cm. Stipules subulate to narrowly triangular, 1.5–5 mm long. Leaf with 3 to 5(–7) leaflets, but often 1-foliolate or simple toward the base; petiole 1–12 mm; leaflets of simple or 1-foliolate leaves with elliptic to suborbicular blade, 4.5–15 × 2.5–8 mm, terminal leaflet of upper leaves with elliptic to oblong-lanceolate blade, 5–26 × 2–6 mm, with bifurcate hairs on upper surface. Inflorescence with racemes 2–12 cm long, including the peduncle of 0–2 cm, with 3 to 12 loose flowers; bracts linear, up to 1 mm. Flower: pedicel 2–5 mm; calyx 1–1.5 mm long, with narrowly triangular lobes, ± as long as the tube; corolla pink or reddish; stamens 2–2.5 mm. Pod straight or slightly curved, 7–20 × 1–1.5 mm, ± glabrous, with 4 to 8 seeds. Seed rectangular, ± 1 mm long.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Côte d’Ivoire, Ghana, Nigéria, République centrafricaine, Cameroun, Gabon, République démocratique du Congo, Tanzanie, Angola, Zimbabwe, Malawi et Mozambique ; au Gabon rare, connue d’une seule récolte de la Réserve de la Lopé (Ogooué-Ivindo)
+Ivory Coast, Ghana, Nigeria, Central African Republic, Cameroon, Gabon, Democratic Republic of the Congo, Tanzania, Angola, Zimbabwe, Malawi and Mozambique; rare in Gabon, known from a single collection from the Lopé Reserve (Ogooué-Ivindo)
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-savane herbacée et arborée, stations rocheuses, lisière de forêt, bord de rivière et route ; au Gabon à environ 150 m d’altitude, ailleurs jusqu’à 2100 m. b : Cronquist (1954), Gillett (1971a), Schrire (1992, 2012). ibliographie
+herbaceous and wooded savanna, rocky stations, forest edge, riverbank and roadside; in Gabon at approximately 150 m altitude, elsewhere up to 2100 m. b: Cronquist (1954), Gillett (1971a), Schrire (1992, 2012). Bibliography
 
 ## Notes
 

@@ -11,7 +11,7 @@ tags: [species, generated]
 ---
 # *Dicipltera elliotii* C. B. Clarke
 
-**Genus**: [[Dicipltera]]
+**Genus**: [[Dicliptera]]
 **Family**: [[Acanthaceae]]
 **Protologue**: C.B. Clarke, F.T.A. 5 : 258 (1900)
 
@@ -66,6 +66,6 @@ EXPLICATION DE LA PLANCHE XL, fig. 9-17:
 
 ## See also
 
-- [[Dicipltera]]
+- [[Dicliptera]]
 - [[Acanthaceae]]
 - [[vol13]]

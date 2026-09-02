@@ -17,21 +17,15 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Herbe annuelle ou pérenne de courte durée, jusqu’à 1,5 m de hauteur ; tige érigée, à poils étalés rouille. Stipules lancéolées, 2–17 mm de longueur. Feuille : pétiole 0,3–5 cm ; rachis 8 cm, pubescent ; pétiolules 1–2 mm ; folioles 7 à 19 , à limbe oblong-elliptique à oblancéolé, atteignant 5,5(–6,5) × 1,3(–2,0) cm, base atténuée, sommet arrondi à peu émarginé, mucronulé, glabre à courtement pubescent dessus, pubescent dessous. Inflorescence terminale et axillaire, en pseudoracèmes denses , 5–30 cm de longueur ; bractées étroitement triangulaires, 4–9(–12) mm de longueur, poilues. Fleur : pédicelle ± 5 mm ; calice poilu blanc et rouille , tube 2–3 mm de longueur, lobes largement triangulaires, 1,5–3,5 mm de longueur, les supérieurs soudés, sauf au sommet, les inférieurs les plus longs ; étendard pourpre à mauve à l ’extérieur, brun soyeux à l’intérieur , 12–19 × 10–15 mm, ailes et carène ± 15 mm de longueur, glabres ; étamines à tube de 14 mm, libres sur 3–4 mm ; ovaire linéaire, ± 10 mm de longueur, crème, velouté ; style courbé, 6 mm, pubescent sur les 2 côtés . Gousse courbée , 5–7 × 0,5–0,6 cm , avec 12 à 22 graines, à poils bruns et courts, tous de la même longueur, sutures à poils blancs ou jaunes. Graine transversalement ellipsoïde, ± 3 × 1,5 × 1 mm, brune, lisse ; hile excentré, strophiole annulaire, blanche.
+Annual or short-lived perennial herb, up to 1.5 m in height; stem erect, with spreading rust-coloured hairs. Stipules lanceolate, 2–17 mm in length. Leaf: petiole 0.3–5 cm; rachis 8 cm, pubescent; petiolules 1–2 mm; leaflets 7 to 19, with oblong-elliptic to oblanceolate blade, reaching 5.5(–6.5) × 1.3(–2.0) cm, base attenuate, apex rounded to slightly emarginate, mucronate, glabrous to shortly pubescent above, pubescent below. Inflorescence terminal and axillary, in dense pseudoracemes, 5–30 cm in length; bracts narrowly triangular, 4–9(–12) mm in length, hairy. Flower: pedicel ± 5 mm; calyx hairy white and rust-coloured, tube 2–3 mm in length, lobes broadly triangular, 1.5–3.5 mm in length, the upper ones fused except at the apex, the lower ones the longest; standard purple to mauve on the outside, silky brown on the inside, 12–19 × 10–15 mm, wings and keel ± 15 mm in length, glabrous; stamens with tube of 14 mm, free for 3–4 mm; ovary linear, ± 10 mm in length, cream, velvety; style curved, 6 mm, pubescent on both sides. Pod curved, 5–7 × 0.5–0.6 cm, with 12 to 22 seeds, with brown and short hairs, all of the same length, sutures with white or yellow hairs. Seed transversely ellipsoid, ± 3 × 1.5 × 1 mm, brown, smooth; hilum eccentric, strophiole annular, white.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Afrique de l’Ouest, du Sénégal jusqu’au Soudan, à la Tanzanie, à l’Angola et au Mozambique ; au Gabon, assez commune et connue de l’Estuaire, du Haut-Ogooué, du Moyen-Ogooué, de la Ngounié, de la Nyanga et de l’Ogooué-Maritime
+West Africa, from Senegal to Sudan, Tanzania, Angola and Mozambique; in Gabon, fairly common and known from Estuaire, Haut-Ogooué, Moyen-Ogooué, Ngounié, Nyanga and Ogooué-Maritime
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-savanes herbacées, parfois brûlées, marécages ; au Gabon à 100–630 m d’altitude, ailleurs jusqu’à 1800 m. Fleurs et fruits de janvier à mai et de septembre à décembre. Usage : Utilisée comme ichtyotoxique. Des usages médicinaux et magiques ont été rapportés du Burundi et de l’Ouganda
+Herbaceous savannas, sometimes burnt, marshes; in Gabon at 100–630 m in altitude, elsewhere up to 1800 m. Flowers and fruits from January to May and from September to December. Use: Used as an ichthyotoxic agent. Medicinal and magical uses have been reported from Burundi and Uganda
 
 ## Vernacular names
 
@@ -39,9 +33,7 @@ ndawôle-bekôn (fang)
 
 ## Source note
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Une fois, les fleurs, normalement pourpre, ont été notées comme blanches. Bi : Brummitt et al. (2007), Burkill (1995), Cronquist (1954), Gillett (1971d), Raponda-WalB liographie ker & Sillans (1961)
+Once, the flowers, normally purple, were noted as white. Bibliography: Brummitt et al. (2007), Burkill (1995), Cronquist (1954), Gillett (1971d), Raponda-Walker & Sillans (1961)
 
 ## Notes
 

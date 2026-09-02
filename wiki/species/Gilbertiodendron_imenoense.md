@@ -21,11 +21,9 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Shrubs, trees. Leaves 3-jugate. Stipules fused into a bifid axillary blade, 1 to 3 cm, without persistent auricles. Rachis 10 cm. Leaflets obovate-oblong, obtuse at both ends, glabrous, unequal at base, 9–20 cm long by 4–7 cm wide. Secondary veins 12–18 pairs, prominent beneath, with intermediate parallel veins anastomosing into the veinlet network.
 
-Arbustes, arbres. Feuilles 3-juguées. Stipules soudées en une lame axillaire bifide, de 1 à 3 cm, sans oreillettes persistantes. Rachis de 10 cm. Folioles obovées-oblongues, obtuses aux 2 extrémités, glabres, à base inégale, de 9-20 cm de longueur sur 4-7 cm de largeur. Nervures secondaires 12-18 paires, saillantes dessous, avec des nervures parallèles intermédiaires anastomoses au réseau des nervilles.
-
-Panicules lâches, rousses, de 20-25 cm. Boutons ovoides ferrugineux. Fleurs longuement pédicellées, jusqu'à 3,5 cm. Bractéoles épaisses, longues d'environ 16 mm. Sépales 5, triangulaires, étroits, de 5-8 mm de longueur sur 3 mm de largeur à la base, glabres; tube de 2-3 mm. Un grand pétale profondément bilobé, blanc rosé, de 4 cm de largeur sur 1-1,5 cm de longueur; onglet de 1 cm. Étamines fertiles 3; 4 staminodes. Ovaire sessile, velu. Fruit?
+Lax, russet panicles, 20–25 cm. Ferruginous ovoid buds. Flowers with long pedicels, up to 3.5 cm. Bracteoles thick, approximately 16 mm long. Sepals 5, triangular, narrow, 5–8 mm long by 3 mm wide at the base, glabrous; tube 2–3 mm. One large petal deeply bilobed, white-pink, 4 cm wide by 1–1.5 cm long; claw 1 cm. Fertile stamens 3; 4 staminodes. Ovary sessile, villous. Fruit?
 
 ## Type
 

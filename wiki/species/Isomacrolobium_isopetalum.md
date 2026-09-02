@@ -22,11 +22,9 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Trees. Branchlets glabrous, ash-coloured. Leaves with 2–3 pairs of leaflets. Stipules caducous. Leaflets oblong or oblong-ovate or oblong-lanceolate, long-acuminate, glabrous, 7–15 cm long by 3–6 cm wide. Lateral veins 5–6 pairs, arched and ascending. Rachis 4–10 cm long.
 
-Arbres. Rameaux glabres, de couleur de cendre. Feuilles à 2-3 paires de folioles. Stipules caduques. Folioles oblongues ou ovées oblongues ou lancéolées oblongues, longuement acuminées, glabres, longues de 7-15 cm sur 3-6 cm de largeur. Nervures latérales 5-6 paires, arquées et ascendantes. Rachis, 4-10 cm de longueur.
-
-Panicules axillaires de 10-20 cm de longueur, pauciflores. Fleurs blanches. Bractéoles veloutées de 7-8 mm. Sépales 4, subégaux, de 7-9 mm, glabres. Pétales 5 (-6), subégaux, spatulés, arrondis au sommet, sans onglet marqué, glabres, blancs, de 7-8 mm. Étamines fertiles 3, exsertes; 5-6 staminodes. Ovaire densément velu.
+Axillary panicles 10–20 cm long, pauciflorous. Flowers white. Bracteoles velvety 7–8 mm. Sepals 4, subequal, 7–9 mm, glabrous. Petals 5 (–6), subequal, spatulate, rounded at the apex, without a marked claw, glabrous, white, 7–8 mm. Fertile stamens 3, exserted; 5–6 staminodes. Ovary densely hairy.
 
 ## Type
 
@@ -34,11 +32,9 @@ Zenker 3384 (P)
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Medium tree with an irregular trunk, low-branched, with dense foliage. Bark fibrous, with a red cross-section.
 
-Arbre moyen à fût irrégulier, bas branchu, à feuillage dense. Écorce fibreuse, à tranche rouge.
-
-Espèce camerounaise et gabonaise.
+Cameroonian and Gabonese species.
 
 ## Specimens examined
 

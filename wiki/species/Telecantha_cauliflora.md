@@ -11,7 +11,7 @@ tags: [species, generated]
 ---
 # *Telecantha cauliflora* (R. Good) Brem.
 
-**Genus**: [[Telecantha]]
+**Genus**: [[Stelechantha]]
 **Family**: [[Rubiaceae]]
 **Protologue**: Bremekamp, Bot. Jahrb. 71 : 218 (1940)
 
@@ -46,6 +46,6 @@ Le Testu : 5582, entre Moussanga et Nyanga-Moubigou, Haute-Ngounyé (fl. oct.).
 
 ## See also
 
-- [[Telecantha]]
+- [[Stelechantha]]
 - [[Rubiaceae]]
 - [[vol12]]

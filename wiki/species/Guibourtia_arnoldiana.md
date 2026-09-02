@@ -22,17 +22,13 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Leonard (PL. 28, p. 127)
 
-Léonard (PL. 28, p. 127)
+Trees. Leaflets ovate falcate, asymmetric at the base, the external side rounded, the other acute, imperceptibly acuminate, black when dry, riddled with translucent dots, 4–8 cm long by 1.2–4 cm wide. Petiole short, 4–8 mm long.
 
-Arbres. Folioles ovées falciformes, asymétriques à la base, le côté externe étant arrondi, l'autre aigu, insensiblement acuminées, noires à l'état sec, criblées de points translucides, de 4-8 cm de longueur sur 1,2-4 cm de largeur. Pétiole court de 4-8 mm de longueur.
+Racemes of spikes axillary or terminal, reaching 10 cm long; axes hairy. Bracts and bracteoles pubescent externally, very caducous. Buds cylindric, glabrous. Flowers sessile. 4 imbricate sepals, tomentose internally. Stamens 10. Disk hairy. Ovary hairy, 1 ovule.
 
-Grappes d'épis axillaires ou terminales, atteignant 10 cm de longueur; axes velus. Bractées et bractéoles pubescentes
-
-extérieurement, très caduques. Boutons cylindriques, glabres. Fleurs sessiles. 4 sépales imbriqués, tomenteux intérieurement. Étamines 10. Disque velu. Ovaire velu, 1 ovule.
-
-Gousses indéhiscentes, elliptiques, glabres, comprimées, membraneuses, marquées sur un côté d'une nette nervure submarginale.
+Pods indehiscent, elliptic, glabrous, compressed, membranous, marked on one side by a distinct submarginous nerve.
 
 ## Type
 
@@ -40,11 +36,9 @@ Tilman in Cabra 34, Tshoa, Mayumbé
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Large tree, with an irregular trunk supported by buttresses, characteristic for its red-brick bark.
 
-Grand arbre, au fût irrégulier soutenu par des contreforts, caractéristique par son écorce rouge brique.
-
-Espèce du Mayombé et du bas Congo. Ne paraît pas copallifère.
+Species of the Mayombé and lower Congo. Does not appear to be copal-bearing.
 
 ## Vernacular names
 

@@ -17,27 +17,19 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Herbe lianescente ; tige nettement quadrangulaire , assez robuste , à pubescence soyeuse, brune. Stipules caduques, lancéolées. Feuille : pétiole 8–10 cm, velu ; rachis 4–6 mm ; stipelles lancéolées, 2–3 mm ; folioles à pétiolule de 3–4 mm, la terminale à limbe rhomboïdal à obovale , 10–13,5 × 6–9 cm, les latérales ± asymétriques , 9–10(–12) × 5–6 cm. Inflorescence en pseudoracèmes robustes, à axe de 6–25 cm , à fleurs en fascicules ou en paires. Fleur : pédicelle 1,5–3 mm ; calice soyeux, tube 2–2,5 mm de longueur, lobes 2–2,5 mm de longueur ; corolle rougeâtre à orange ou bleue , un peu plus longue que le calice, étendard obovale, la base atténuée, 3–6 × 2–4 mm, ailes étroites, carène ovale, 2 mm de longueur ; étamines monadelphes ; ovaire velu ; stigmate subsessile. Gousse 3–4 × 0,2–0,3 cm , avec 8 ou 9 graines, noire , densément poilue. Graine cylindrique, 2–3 × 2 mm, brun-orange ; hile central, 1 mm de longueur.
+Climbing herb; stem distinctly quadrangular, rather robust, with silky, brown pubescence. Stipules caducous, lanceolate. Leaf: petiole 8–10 cm, hairy; rachis 4–6 mm; stipelles lanceolate, 2–3 mm; leaflets with petiolule 3–4 mm, the terminal one with rhomboid to obovate blade, 10–13.5 × 6–9 cm, the lateral ones ± asymmetric, 9–10(–12) × 5–6 cm. Inflorescence in robust pseudoracemes, with axis 6–25 cm, flowers in fascicles or in pairs. Flower: pedicel 1.5–3 mm; calyx silky, tube 2–2.5 mm long, lobes 2–2.5 mm long; corolla reddish to orange or blue, somewhat longer than the calyx, standard obovate, base attenuate, 3–6 × 2–4 mm, wings narrow, keel oval, 2 mm long; stamens monadelphous; ovary hairy; stigma subsessile. Pod 3–4 × 0.2–0.3 cm, with 8 or 9 seeds, black, densely hairy. Seed cylindric, 2–3 × 2 mm, brown-orange; hilum central, 1 mm long.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Afrique de l’Ouest, Cameroun, République démocratique du Congo, Angola, Afrique de l’Est et Zambie ; non encore observée au Gabon, mais sa présence probable avait déjà été suggérée par Pellegrin (1949)
+West Africa, Cameroon, Democratic Republic of the Congo, Angola, East Africa and Zambia; not yet observed in Gabon, but its probable presence had already been suggested by Pellegrin (1949)
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-savanes arborées, forêt galerie ; à 100–1750 m d’altitude
+Wooded savannas, gallery forest; at 100–1750 m altitude
 
 ## Source note
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Comme l’espèce précédente, cette espèce a été divisée en plusieurs taxons infraspécifiques. Pour la même raison, ils ne sont pas reconnus ici. Bi : Burkill (1995), Hauman (1954b), Mackinder et al. (2001), Pellegrin (1949), Tulin (1983), B liographie Verdcourt (1970, 1971c)
+Like the preceding species, this species was divided into several infraspecific taxa. For the same reason, they are not recognized here. Bibliography: Burkill (1995), Hauman (1954b), Mackinder et al. (2001), Pellegrin (1949), Tulin (1983), Verdcourt (1970, 1971c)
 
 ## Notes
 

@@ -17,27 +17,19 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Arbuste , atteignant 3,5 m de hauteur ; tige atteignant 1,8 cm de diamètre ; écorce brun, assez lisse ; rameaux pubescents à poils uncinés , m é langés à des poils droits plus longs. Stipules tardivement caduques, ovales-atténuées, obliques, jusqu’à 10 × 8 mm, striées, à marges ciliées. Feuille : pétiole 1–2 cm, pubescent ; rachis 4–9 mm ; stipelles subulées, 3–4 mm de longueur, brunes, à marges ciliées ; folioles 3 , à limbe rhomboïdal-ovale, base arrondie à cunéée, éparsement poilu dessus, à marges ciliées, le terminal 2,5–5,5 × 1,4–2,0 cm, les latéraux obliques, 1,5–3,2 × 1,4–2,2 cm. Inflorescence (sub) terminale, bien ramifiée ; fleurs 1 à 3 par nœud ; rachis avec poils glanduleux ; bractées caduques, ± 3 × 1 mm, pourpre à l’ état jeune, ensuite couleur paille . Fleur : pédicelle 5–7 mm, à poils glanduleu x ; bractéoles rapidement caduques, à la base des pédicelles, ± 1,1 × 0,2 mm ; calice purpurin, tube ± 1 mm de longueur, lobes obtus, 1,5–2 mm de longueur, les supérieurs ± connés, presque sans poils uncinés, sans glandes ; corolle purpurine ou violette, étendard largement ovale, avec 2 taches basales blanches et marge pourpre foncé, ailes et carène oblongues, arrondies au sommet, 4–4,5 × 1,5–3 mm. Gousse à stipe de ± 1 mm, à (3–)6 ou 7 articles ellipsoïdes de 2–3 × 2–2,5 mm, tordues (= caractère plus évident à l’état jeune ) . Graine ± réniforme, ± 2 × 1,5 × 1 mm, brun pâle ; hile presque central.
+Shrub, reaching 3.5 m in height; stem reaching 1.8 cm in diameter; bark brown, fairly smooth; branchlets pubescent with uncinate hairs, mixed with longer straight hairs. Stipules tardily caducous, ovate-attenuate, oblique, up to 10 × 8 mm, striate, with ciliate margins. Leaf: petiole 1–2 cm, pubescent; rachis 4–9 mm; stipels subulate, 3–4 mm long, brown, with ciliate margins; leaflets 3, with rhomboid-ovate blade, base rounded to cuneate, sparsely hairy above, with ciliate margins, the terminal 2.5–5.5 × 1.4–2.0 cm, the lateral ones oblique, 1.5–3.2 × 1.4–2.2 cm. Inflorescence (sub)terminal, well-branched; flowers 1 to 3 per node; rachis with glandular hairs; bracts caducous, ± 3 × 1 mm, purple when young, subsequently straw-coloured. Flower: pedicel 5–7 mm, with glandular hairs; bracteoles rapidly caducous, at the base of the pedicels, ± 1.1 × 0.2 mm; calyx purplish, tube ± 1 mm long, lobes obtuse, 1.5–2 mm long, the upper ones ± connate, almost without uncinate hairs, without glands; corolla purple or violet, standard broadly ovate, with 2 basal white spots and dark purple margin, wings and keel oblong, rounded at the apex, 4–4.5 × 1.5–3 mm. Pod with a stipe of ± 1 mm, with (3–)6 or 7 ellipsoid articles of 2–3 × 2–2.5 mm, twisted (= character more evident in the young state). Seed ± reniform, ± 2 × 1.5 × 1 mm, pale brown; hilum almost central.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-originaire de l’Amérique du Sud, introduite en Afrique ici et là ; connue du Gabon d’un seul spécimen, récolté dans la province du Haut-Ogooué
+Native to South America, introduced into Africa here and there; known from Gabon from a single specimen, collected in the Haut-Ogooué province.
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-savane herbeuse ouverte ; au Gabon à ± 450 m d’altitude, ailleurs jusqu’à 1000 m. Fleurs en septembre. Usage : Pourrait être un bon fourrage
+Open grassy savanna; in Gabon at ± 450 m altitude, elsewhere up to 1000 m. Flowers in September. Use: Could be a good forage.
 
 ## Source note
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Voir sous D. tortuosum . b : Botton & Hallé (1958), Ern (1984), Mackinder et al. (2001), van der Maesen (2006a). ibliographie
+See under D. tortuosum. b: Botton & Hallé (1958), Ern (1984), Mackinder et al. (2001), van der Maesen (2006a). Bibliography
 
 ## Notes
 

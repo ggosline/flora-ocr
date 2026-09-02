@@ -16,9 +16,7 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Diagnosis : Leptoderris brachypterae (Benth.) Dunn maxime similis indumento et florum statura, a qua bracteis bracteolisque multo longioribus et foliolorum nervis lateralibus numerosis differt.
+Diagnosis: Leptoderris brachypterae (Benth.) Dunn very similar to Leptoderris brachyptera in indumentum and flower structure, differing by much longer bracts and bracteoles and numerous lateral nerves of the leaflets.
 
 ## Type
 
@@ -26,21 +24,15 @@ Gabon, Ogooué-Lolo, Lastoursville, 2 février 1930, Le Testu 7887 (holo- : P (2
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-endémique du Gabon, connue d’une seule collection récoltée près de Lastoursville dans l’Ogooué-Lolo
+endemic to Gabon, known from a single collection gathered near Lastoursville in the Ogooué-Lolo
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-forêt dense ; à environ 300 m d’altitude
+dense forest; at approximately 300 m altitude
 
 ## Source note
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Le type de cette espèce est cité par Pellegrin (1949) sous Leptoderris velutina , ce qui est synonimisé ici avec L. brachyptera . b : Pellegrin (1949). ibliographie
+The type of this species is cited by Pellegrin (1949) under Leptoderris velutina, which is synonymized here with L. brachyptera. b: Pellegrin (1949). Bibliography
 
 ## Notes
 

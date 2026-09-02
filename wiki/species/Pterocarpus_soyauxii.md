@@ -17,23 +17,17 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-, pro parte (fruits). Arbre atteignant 50 m de hauteur ; tronc jusqu’à 1,4 m de diamètre, à contreforts ramifiés , jusqu’à 3 m de hauteur et 2 m de longueur ; écorce rugueuse, gris-brun, fibreuse ; rameaux gri sâtres, crevassés longitudinalement, s’exfoliant par bandes ; ramilles, pétioles et pédoncules ferrugineux-tomenteux. Stipules ovales-acuminées, 8–20 × 2 mm. Feuille : pétiole 2–5 cm ; rachis 7–20 cm ; folioles (9–)11 à 15, pétiolule 3–4 mm, limbe oblong, (3,5–)5–10 × 2,5–4,5 cm, base arrondie-obtuse, sommet à acumen obtus à aigu de 0,5–2 cm de longueur, ou même incisé ou légèrement émarginé, mucronulé ou non, vert foncé, luisant et glabre dessus, vert mat dessous ; nervure principale ferrugineuse à glabrescente dessous. Inflorescence en panicule multiflore, pyramidale, 10–20 cm de longueur ; bractées caduques, lancéolées, 5–10 mm de longueur. Fleur : pédicelle grêle, 8–10 mm ; bractéoles très caduques, près de la base du calice, 2,5–6 mm de longueur ; calice infundibuliforme, ± 5 mm de longueur, à pubescence courte, lobes ± 1 mm de longueur ; corolle jaune à jaune foncé , glabre, étendard à limbe orbiculaire, 10–12 × 10 mm, à base subcordée, marges gaufrées, onglet étroit, ailes larges, obovales, 10–11 mm de longueur, dont l’onglet 4 mm, carène 6–8 mm de longueur ; étamines monadelphes ou parfois diadelphes, 7–9 mm ; ovaire lancéolé, stipité, velu roux soyeux, avec 4 à 6 ovules ; style glabre. Gousse à stipe court, aplatie, ± orbiculaire , 5–9 cm de diamètre, à 1 graine, le centre réticulé , aile large, papyracée , courtement velue à l’état jeune. Graine au centre, aplatie, obovale, 12–16 × 5–7 mm.
+, pro parte (fruits). Tree reaching 50 m in height; trunk up to 1.4 m in diameter, with branched buttresses, up to 3 m in height and 2 m in length; bark rugose, greyish-brown, fibrous; branchlets greyish, longitudinally fissured, exfoliating in strips; ramilles, petioles and peduncles ferruginous-tomentose. Stipules ovate-acuminate, 8–20 × 2 mm. Leaf: petiole 2–5 cm; rachis 7–20 cm; leaflets (9–)11 to 15, petiolule 3–4 mm, blade oblong, (3.5–)5–10 × 2.5–4.5 cm, base rounded-obtuse, apex with obtuse to acute acumen 0.5–2 cm in length, or even incised or slightly emarginate, mucronate or not, dark green, shiny and glabrous above, dull green beneath; main vein ferruginous to glabrescent beneath. Inflorescence in multiflorous panicle, pyramidal, 10–20 cm in length; bracts caducous, lanceolate, 5–10 mm in length. Flower: pedicel slender, 8–10 mm; bracteoles very caducous, near the base of the calyx, 2.5–6 mm in length; calyx funnel-form, ± 5 mm in length, with short pubescence, lobes ± 1 mm in length; corolla yellow to dark yellow, glabrous, standard with orbicular limb, 10–12 × 10 mm, with subcordate base, margins goffered, claw narrow, wings wide, obovate, 10–11 mm in length, of which the claw 4 mm, keel 6–8 mm in length; stamens monadelphous or sometimes diadelphous, 7–9 mm; ovary lanceolate, stipitate, silky rusty-pubescent, with 4 to 6 ovules; style glabrous. Pod with short stipe, flattened, ± orbicular, 5–9 cm in diameter, 1-seeded, the centre reticulate, wing wide, papyraceous, shortly pubescent when young. Seed at the centre, flattened, obovate, 12–16 × 5–7 mm.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Cameroun, Guinée équatoriale, Gabon, République du Congo et République démocratique du Congo ; au Gabon, connue de l’Estuaire, de la Ngounié, de la Nyanga, de l’Ogooué-Ivindo, de l’Ogooué-Lolo et du Woleu-Ntem
+Cameroon, Equatorial Guinea, Gabon, Republic of the Congo and Democratic Republic of the Congo; in Gabon, known from Estuaire, Ngounié, Nyanga, Ogooué-Ivindo, Ogooué-Lolo and Woleu-Ntem
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+primary and secondary forest, rocks near springs; in Gabon at 10–650 m in altitude, elsewhere up to 500 m. Flowering from October to March; fruits from January to March
 
-forêt primaire et secondaire, rochers près de sources ; au Gabon à 10–650 m d’altitude, ailleurs jusqu’à 500 m. Floraison d’octobre à mars ; fruits de janvier à mars
-
-Usage : Le bois beau et durable est utilisé pour la charpenterie et l’ébénisterie, des instruments de musique, comme le tambour, le xylophone ; aussi pour la teinturerie et la confection de pirogues. Un des 10 espèces commerciales de bois les plus importantes au Gabon. En mélange, la résine (kino) est médicinale contre diverses affections et comme pommade de la peau. L’écorce est utilisée contre l’anémie, l’infertilité des femmes, comme galactagogue et pour soigner l’utérus (Towns & van Andel 2014).
+Uses: The beautiful and durable wood is used for carpentry and cabinet-making, musical instruments, such as drums, xylophones; also for dyeing and the making of pirogues. One of the 10 most important commercial timber species in Gabon. In mixture, the resin (kino) is medicinal against various ailments and as a skin ointment. The bark is used against anaemia, female infertility, as a galactagogue and for treating the uterus (Towns & van Andel 2014).
 
 ## Vernacular names
 
@@ -41,9 +35,7 @@ padouk, padauk d’Afrique, bois rouge, bois-corail, kaolin rouge (fr.) ; Africa
 
 ## Source note
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-L’espèce est apparentée à P. zenkeri Harms (du Cameroun) qui pourrait représenter une synonyme de P. osun Craib (Rojo 1972) du Nigéria et du Cameroun. B : Burkill (1995), Hauman (1954d), Jansen (2008), Lewis et al. (2005), Pellegrin (1949), i B liographie Raponda-Walker & Sillans (1961), Rojo (1972)
+The species is related to P. zenkeri Harms (from Cameroon) which could represent a synonym of P. osun Craib (Rojo 1972) from Nigeria and Cameroon. B: Burkill (1995), Hauman (1954d), Jansen (2008), Lewis et al. (2005), Pellegrin (1949), Bibliography Raponda-Walker & Sillans (1961), Rojo (1972)
 
 ## Notes
 

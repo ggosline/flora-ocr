@@ -17,25 +17,19 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Tree reaching 30 m in height; bark greyish-green, fissured, peeling in plates; branchlets striated, glabrous. Stipules ovate. Leaf: petiole 1–2 cm; rachis 6–13 cm; leaflets (5–)7 to 12, with petiolule 2–4 mm, blade elliptic to elliptic-ovate, 4–11 × 1.7–4.5 cm, apex cuspidate or acuminate, glabrous above except on midvein, below with brown pubescence then glabrous except on midvein, reticulate, pale green below, with golden glands; lateral nerves in 7 to 11 pairs. Inflorescence axillary, in pseudoraceme 2–15 cm in length, brown-red velvety, with angular axis; bracts ± 1 mm in length. Flower: pedicel 3–7 mm, hairy; bracteoles in pairs, hairy; calyx oblique, then campanulate, 5–7 mm in length, with subulate lobes, the lower one the longest; standard broadly obovate, 15–16 mm in length, with short claw, wings oblong, 15–16 mm in length, glabrous or slightly pubescent, with golden glands, keel obtuse, 14–16 mm in length, glandular, the lower suture ± pubescent; stamens 13–14 mm; ovary stipitate for 7 mm, lanceolate, 3 mm in length, hairy; style short, subulate. Pod oblique, semi-obovate, curved, 5–8 × 2.5–3.5 × 3 cm, with inflated and mucronate apex, with 1 or 2 seeds, dark brown, hairy, but glabrous and shining at maturity, valves 3–5 mm thick. Seed ± 15 mm in diameter, violet-black, shining, smooth.
 
-Arbre atteignant 30 m de hauteur ; écorce gris verdâtre, crevassée, se détachant en plaques ; rameaux striés, glabres. Stipules ovales. Feuille : pétiole 1–2 cm ; rachis 6–13 cm ; folioles (5–)7 à 12 , à pétiolule de 2–4 mm, limbe elliptique à elliptique-ovale, 4–11 × 1,7–4,5 cm , sommet cuspidé ou acuminé, glabre dessus sauf sur la médiane, dessous à une pubescence brune puis glabre sauf la médiane, réticulé, vert pâle dessous, à glandes dorées ; nervures latérales en 7 à 11 paires. Inflorescence axillaire, en pseudoracème de 2–15 cm de longueur, velouté brun-rouge, à axe anguleux ; bractées ± 1 mm de longueur. Fleur : pédicelle 3–7 mm, velu ; bractéoles en paires, velues ; calice oblique, puis campanulé, 5–7 mm de longueur, à lobes subulés, l’inférieur le plus long ; étendard largement obovale, 15–16 mm de longueur , à onglet court, ailes oblongues, 15–16 mm de longueur, glabres ou peu pubescentes, à glandes dorées, carène obtuse, 14–16 mm de longueur, glanduleuse, la suture inférieure ± pubescente ; étamines 13–14 mm ; ovaire stipité sur 7 mm, lancéolé, 3 mm de longueur, poilu ; style court, subulé. Gousse oblique, semi-obovale, courbée, 5–8 × 2,5–3,5 × 3 cm, à sommet renflé et mucroné, avec 1 ou 2 graines, brun sombre, velue, mais glabre et luisante à maturité, valves 3–5 mm d’épaisseur. Graine ± 15 mm de diamètre, noir violacé, luisante, lisse.
-
-Androcée, ouvert. – 11. Étamine vexillaire. – 12. Gynécée. (1–12 : Le Testu 8022 ). Dessin par Hans de Vries, Naturalis Biodiversity Center (©).
+Androecium, open. – 11. Vexillar stamen. – 12. Gynoecium. (1–12: Le Testu 8022). Drawing by Hans de Vries, Naturalis Biodiversity Center (©).
 
 Biodiversity Center (©).
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Gabon, République démocratique du Congo et Tanzanie (Usambara) ; au Gabon, rare et seulement connue du Woleu-Ntem
+Gabon, Democratic Republic of the Congo and Tanzania (Usambara); in Gabon, rare and only known from Woleu-Ntem
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-forêt primaire, forêt marécageuse ; au Gabon à environ 600 m d’altitude, ailleurs jusqu’à 1050 m. Usage : Le bois est utilisé pour la construction et pour la fabrication des instruments musicaux, et donne un beau poli. B : Gillett (1971d), Hauman (1954a), Lewis et al. (2005), Pellegrin (1949), Raponda-Walker i B liographie & Sillans (1961)
+primary forest, swamp forest; in Gabon at approximately 600 m elevation, elsewhere up to 1050 m. Use: The wood is used for construction and for the manufacture of musical instruments, and gives a beautiful polish. B: Gillett (1971d), Hauman (1954a), Lewis et al. (2005), Pellegrin (1949), Raponda-Walker & Sillans (1961)
 
 ## Notes
 

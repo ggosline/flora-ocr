@@ -17,21 +17,15 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-M. atropurpurea auct., non (Roxb.) Wight & Arn. Herbe grimpante, ± glabre ; tige 1–12 m de longueur. Stipules linéaires, velues, 6–8 mm de longueur. Feuille : pétiole robuste, 8–10 cm ; rachis 3 cm ; stipelles filiformes ; foliole à pétiolule de 0,5 cm, la terminale à limbe ovale-rhomboïdal, 10–12 × 6–7 cm, base arrondie, sommet obtus et mucroné, les latérales plus larges, asymmétriques, glabres dessus, à poils apprimés, raides, gris ou jaunâtres dessous. Inflorescence en grappe pendante, velue, argentée, à rachis de 2–29 cm ; pédoncule 2–18 cm. Fleur : pédicelle 4–5 mm ; calice campanulé, densément velu argenté extérieurement, tube 5–6 mm de longueur, dents supérieures soudées, deltoïdes, ± 5 mm de longueur, les inférieures lancéolées et atteignant 8 mm ; corolle violet foncé , jusqu’à 4 cm de longueur, étendard ± 2,5 cm de longueur. Gousse ± sigmoïde , 5–8 cm de longueur , 1–1,5 cm d’épaisseur, avec 5 ou 6 graines, densément couverte de poils raides, urticants , soyeux, gris ou bruns, marquée de quelques rides longitudinales , bec courbé au sommet. Graine atteignant ± 3 × 2 × 1 cm, noire à blanche et panachée ; hile couvrant ½ de la longueur de la graine, un peu excentré, caroncule saillante.
+M. atropurpurea auct., non (Roxb.) Wight & Arn. Climbing herb, ± glabrous; stem 1–12 m in length. Stipules linear, pubescent, 6–8 mm in length. Leaf: petiole robust, 8–10 cm; rachis 3 cm; stipelles filiform; leaflet with petiolule 0.5 cm, the terminal one with ovate-rhomboidal blade, 10–12 × 6–7 cm, base rounded, apex obtuse and mucronate, the lateral ones broader, asymmetric, glabrous above, with appressed, stiff, grey or yellowish hairs below. Inflorescence a pendulous, pubescent, silvery raceme, with rachis 2–29 cm; peduncle 2–18 cm. Flower: pedicel 4–5 mm; calyx campanulate, densely silvery pubescent externally, tube 5–6 mm in length, upper teeth connate, deltoid, ± 5 mm in length, the lower ones lanceolate and reaching 8 mm; corolla dark violet, up to 4 cm in length, standard ± 2.5 cm in length. Legume ± sigmoid, 5–8 cm in length, 1–1.5 cm thick, with 5 or 6 seeds, densely covered with stiff, urticant, silky, grey or brown hairs, marked by a few longitudinal wrinkles, beak curved at the apex. Seed reaching ± 3 × 2 × 1 cm, black to white and variegated; hilum covering ½ of the seed length, somewhat eccentric, caruncle prominent.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-cosmopolite sous les tropiques ; au Gabon, connue de l’Estuaire et de la Ngounié
+Cosmopolitan in the tropics; in Gabon, known from Estuaire and Ngounié
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-broussailles, terrains humides ; au Gabon à basse altitude, ailleurs à 0–800 m. Fleurs en avril. Usage : La var. utilis (Wall. ex Wight) Baker ex Burck est un engrais vert et une plante de couverture anti-érosive très utile, avec des gousses non urticantes et des graines comestibles, elle se trouve dans les pays avoisinants et probablement aussi au Gabon
+Scrubland, humid terrain; in Gabon at low altitude, elsewhere at 0–800 m. Flowers in April. Uses: The var. utilis (Wall. ex Wight) Baker ex Burck is a green manure and a very useful anti-erosive cover crop, with non-urticant legumes and edible seeds; it is found in neighbouring countries and probably also in Gabon
 
 ## Vernacular names
 
@@ -39,11 +33,9 @@ dolique de Floride, haricot velouté, petit pois pouilleux, poil à gratter, poi
 
 ## Source note
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+The description by Raponda-Walker & Sillans (1961) (as M. atropurpurea DC.) clearly indicates var. utilis, but Gabonese specimens are lacking in the herbaria. b: Amshoff (1939), Hauman (1954e), Mackinder et al. (2001), Pellegrin (1949), Raponda-Walker & Sillans (1961), Verdcourt (1971c), Watt & Breyer-Brandwijk (1962)
 
-La description de Raponda-Walker & Sillans (1961) (comme M. atropurpurea DC.) indique bien la var. utilis , mais des échantillons gabonais manquent dans les herbiers. b : Amshoff (1939), Hauman (1954e), Mackinder et al. (2001), Pellegrin (1949), Rapon ibliographie da-Walker & Sillans (1961), Verdcourt (1971c), Watt & Breyer-Brandwijk (1962)
-
-Carène. – 6. Androcée. – 7. Gynécée. – 8. Gousse. – 9. Idem, ouvert. – Mucuna sloanei : 10. Feuille, avec détail de l’indument sur la face inférieure. – 11. Fleur. – 12. Gousse. Dessin par Bobbi Angell (©), reproduit avec permission à partir de Acevedo-Rodrigues (2005).
+Keel. – 6. Androecium. – 7. Gynoecium. – 8. Legume. – 9. Same, opened. – Mucuna sloanei: 10. Leaf, with detail of indumentum on the lower surface. – 11. Flower. – 12. Legume. Drawing by Bobbi Angell (©), reproduced with permission from Acevedo-Rodrigues (2005).
 
 ## Notes
 

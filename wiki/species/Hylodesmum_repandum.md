@@ -17,21 +17,15 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Desmodium repandum (Vahl) DC., Prodr. 2 : 334 (1825). D. scalpe DC., Prodr. 2 : 334 (1825). D. caffrum Eckl. & Zeyh., Enum. pl. Afric. austr. : 251 (1836). Podocarpium repandum (Vahl) Y.C.Yang & P.H.Huang, Bull. Bot. Lab. N.E. Forest. Inst., Harbin 4 : 13 (1979). Herbe traînante devenant sous-arbrisseau, atteignant 1 m de hauteur ; tige à petits poils unciniés et à longs poils droits en densité variable. Stipules persistantes, ovales-triangulaires, 10–15(–20) mm de longueur, brunes. Feuille : folioles 3, à limbe ovale à rhomboïdal, 4–11 × 3–8 cm, les latérales plus petites que la terminale, à marges légèrement sinueuse, dessus pubescent à poils droits, sétacés, clairsemés, dessous à très petits poils glanduleux et poils unciniés caducs . Inflorescence en pseudoracèmes de 15–30 cm de longueur, très lâches, par fois ramifiés, à fleurs en paires ; bractées caduques, étroitement ovales, 5–10 mm de longueur. Fleur : pédicelle 1,5–3 cm, grêle ; calice 3–4,5 mm de longueur, pubérulent, lobes étroitement ovales-triangulaires ; corolle orange vif , étendard 8–13 mm de longueur, carène dépassant les autres pétales . Gousse stipitée, 1,5–4,5 cm de longueur, suture dorsale droite à légèrement ondulée, suture ventrale profondément incisée, isthme très étroit, ± 0,5 mm de largeur ; articles (1–)2 à 5, ± semi-circulaires, 5,5–8 × 2–3 mm, à poils unciniés . Graine réniforme, 5–8 × 2,5–4 mm, brune.
+Desmodium repandum (Vahl) DC., Prodr. 2 : 334 (1825). D. scalpe DC., Prodr. 2 : 334 (1825). D. caffrum Eckl. & Zeyh., Enum. pl. Afric. austr. : 251 (1836). Podocarpium repandum (Vahl) Y.C.Yang & P.H.Huang, Bull. Bot. Lab. N.E. Forest. Inst., Harbin 4 : 13 (1979). Trailing herb becoming a subshrub, reaching 1 m in height; stem with small uncinate hairs and long straight hairs in variable density. Stipules persistent, ovate-triangular, 10–15(–20) mm long, brown. Leaf: leaflets 3, with blade ovate to rhomboidal, 4–11 × 3–8 cm, the lateral ones smaller than the terminal one, with margins slightly sinuate, upper surface pubescent with straight, setaceous, scattered hairs, lower surface with very small glandular hairs and caducous uncinate hairs. Inflorescence in pseudoracemes of 15–30 cm long, very lax, sometimes branched, with flowers in pairs; bracts caducous, narrowly ovate, 5–10 mm long. Flower: pedicel 1.5–3 cm, slender; calyx 3–4.5 mm long, puberulent, lobes narrowly ovate-triangular; corolla bright orange, standard 8–13 mm long, keel exceeding the other petals. Legume stipitate, 1.5–4.5 cm long, dorsal suture straight to slightly undulate, ventral suture deeply incised, isthmus very narrow, ± 0.5 mm wide; articles (1–)2 to 5, ± semicircular, 5.5–8 × 2–3 mm, with uncinate hairs. Seed reniform, 5–8 × 2.5–4 mm, brown.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-très répandue ; de la Sierra Léone à l’Éthiopie, vers l’Afrique du Sud et Madagascar, en Asie, au Yémen, en Inde, au Bhoutan, en Chine et en Malésie ; n’est pas encore signalée au Gabon, mais présente au Cameroun, en République démocratique du Congo et en Guinée équatoriale (Bioko)
+Very widespread; from Sierra Leone to Ethiopia, towards southern Africa and Madagascar, in Asia, in Yemen, India, Bhutan, China and Malaysia; not yet recorded from Gabon, but present in Cameroon, Democratic Republic of the Congo and Equatorial Guinea (Bioko)
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-forêt humide et ombragée ; à 0–3000 m d’altitude. b : De la Estrella et al. (2010), Léonard (1954b), Lewis et al. (2005), Ohashi & Mill (2000), ibliographie Pellegrin (1949), Verdcourt (1971d, 2000)
+Humid and shaded forest; at 0–3000 m altitude. b: De la Estrella et al. (2010), Léonard (1954b), Lewis et al. (2005), Ohashi & Mill (2000), Bibliography Pellegrin (1949), Verdcourt (1971d, 2000)
 
 ## Notes
 

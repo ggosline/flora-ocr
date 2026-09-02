@@ -16,21 +16,15 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-in Hook., Niger Fl. : 310 (1849). Herbe rampante et/ou volubile, pubescente-hirsute ; tige jusqu’à 7 m de longueur. Stipules 5–9 × 1,5–2 mm, prolongées en dessous de l’insertion et cordées à courtement lobées à la base , pubescentes. Feuille : pétiole 1,5–8,5 cm ; rachis 5–15 mm ; stipelles 1 mm de lon gueur ; folioles à pétiolule de 1–2 mm, limbe lancéolé à ovale-lancéolé, 4–7,5 × 0,5–3,5 cm, arrondi à subaigu à la base, aigu au sommet, pubescent sur les deux faces. Inflorescence : pédoncule robuste, subquadrangulaire, 3–22 cm, pubescent vers le sommet ; rachis 0,5–5 cm ; bractées lancéolées, 2,5–3 mm de longueur. Fleur : bractéoles 2–3 mm de longueur ; calice glabre ou éparsement pubérulent , à tube de 2 mm de longueur, lobes triangulaires, 0,5–1,5 mm de longueur ; corolle asymétrique , 9–15 mm de longueur, rouge violacé à rose vif , glabre, étendard 10–15 mm de diamètre, sommet profondément émarginé, ailes obovales, 9–11 × 5 mm, carène courbée, 8–11 mm, à rostre court et obtus ; ovaire avec 8 à 11 ovules ; style prolongé au-delà du stigmate par un bec de ± 2 mm. Gousse dressée , 3–5 cm × 3–4 mm, terminée par un bec recourbé , avec 6 à 9 graines, pubérulente. Graine 2–3 × 1,5–2 mm ; hile ± central ; strophiole parallèle à la longueur de la graine , 1,5–2 mm de longueur.
+in Hook., Niger Fl. : 310 (1849). Trailing and/or twining herb, pubescent-hirsute; stem up to 7 m in length. Stipules 5–9 × 1.5–2 mm, prolonged below the insertion and cordate to shortly lobed at the base, pubescent. Leaf: petiole 1.5–8.5 cm; rachis 5–15 mm; stipels 1 mm in length; leaflets with petiolule of 1–2 mm, blade lanceolate to ovate-lanceolate, 4–7.5 × 0.5–3.5 cm, rounded to subacute at the base, acute at the apex, pubescent on both surfaces. Inflorescence: peduncle robust, subquadrangular, 3–22 cm, pubescent towards the apex; rachis 0.5–5 cm; bracts lanceolate, 2.5–3 mm in length. Flower: bracteoles 2–3 mm in length; calyx glabrous or sparsely puberulent, with tube 2 mm in length, lobes triangular, 0.5–1.5 mm in length; corolla asymmetric, 9–15 mm in length, red-violet to bright pink, glabrous, standard 10–15 mm in diameter, apex deeply emarginate, wings obovate, 9–11 × 5 mm, keel curved, 8–11 mm, with short and obtuse rostrum; ovary with 8 to 11 ovules; style extended beyond the stigma by a beak of ± 2 mm. Pod erect, 3–5 cm × 3–4 mm, terminated by a recurved beak, with 6 to 9 seeds, puberulent. Seed 2–3 × 1.5–2 mm; hilum ± central; strophiole parallel to the length of the seed, 1.5–2 mm in length.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-du Sénégal à la République centrafricaine, la République du Congo, la République démocratique du Congo et l’Angola ; à rechercher au Gabon
+from Senegal to the Central African Republic, the Republic of the Congo, the Democratic Republic of the Congo and Angola; to be searched for in Gabon
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-savanes ; à basse altitude jusqu’à 1400 m. B : Hepper (1958), Wilczek (1954). i B liographie
+savannas; at low altitude up to 1400 m. B: Hepper (1958), Wilczek (1954). i Bibliography
 
 ## Notes
 

@@ -17,21 +17,15 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Herbe prostrée ou grimpante ; tiges jusqu’à plusieurs mètres de longueur ; tubercule napiforme , atteignant 7,5 cm de longueur. Stipules linéaires-lancéolées, ± 2,5 mm de longueur. Feuille : pétiole 2–8 cm ; rachis 0,5–2,2 cm ; stipelles subulées, 2–3 mm ; folioles à pétiolule de 1–4 mm, limbe ovale à linéaire-lancéolé, 3–13 × 0,5–7,5 cm, base arrondie à obliquement cordée, sommet longuement acuminé, mucronulé, un peu scabre et vert foncé dessus, vert pâle dessous, parfois à quelques poils sur les nervures dessous. Inflorescence 6–22 cm de longueur, avec 2 à 12 fleurs au sommet du pédoncule de 6–27 cm ; bractées caduques, ovales à lancéolées, 1–2,5 mm de longueur. Fleur : pédicelle 2–6 mm ; bractéoles non-striées ; calice à tube de 4–7 mm de longueur, lobes arrondis, 1,5–2 mm de longueur, ciliés ; étendard circulaire-émarginé, 16–35 × 15–40 mm, rose violacé à mauve clair, muni au milieu d’une ligne verte à bords jaunâtres , à onglet court, bords incurvés, ailes 12–30 mm de longueur, rose violacé, sommet obtus et large, carène obtuse, 20–30 × 10–15 mm ; ovaire 10–25 mm de longueur, pubescent, avec 25 à 40 ovules ; style 10–15 mm, tomenteux . Gousse 10–20 × 0,5–0,8 cm, avec 2 à 30 graines, rose à brune, à sutures épaissies, glabre. Graine ± rectangulaire , 4–7 × 4–5 × 2–3 mm ; hile petit, central.
+Herb prostrate or climbing; stems up to several metres in length; tuber napiform, reaching 7.5 cm in length. Stipules linear-lanceolate, ± 2.5 mm in length. Leaf: petiole 2–8 cm; rachis 0.5–2.2 cm; stipels subulate, 2–3 mm; leaflets with petiolule of 1–4 mm, blade ovate to linear-lanceolate, 3–13 × 0.5–7.5 cm, base rounded to obliquely cordate, apex long-acuminate, mucronate, somewhat scabrous and dark green above, pale green below, sometimes with a few hairs on the veins below. Inflorescence 6–22 cm in length, with 2 to 12 flowers at the apex of the peduncle of 6–27 cm; bracts caducous, ovate to lanceolate, 1–2.5 mm in length. Flower: pedicel 2–6 mm; bracteoles non-striate; calyx with tube of 4–7 mm in length, lobes rounded, 1.5–2 mm in length, ciliate; standard circular-emarginate, 16–35 × 15–40 mm, violaceous-pink to pale mauve, provided in the middle with a green line with yellowish margins, with short claw, margins incurved, wings 12–30 mm in length, violaceous-pink, apex obtuse and broad, keel obtuse, 20–30 × 10–15 mm; ovary 10–25 mm in length, pubescent, with 25 to 40 ovules; style 10–15 mm, tomentose. Pod 10–20 × 0.5–0.8 cm, with 2 to 30 seeds, pink to brown, with thickened sutures, glabrous. Seed ± rectangular, 4–7 × 4–5 × 2–3 mm; hilum small, central.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Afrique de l’Ouest jusqu’à l’Éthiopie, le Zanzibar et le Malawi, souvent cultivée ; au Gabon, connue du Haut-Ogooué et de la Ngounié
+West Africa to Ethiopia, Zanzibar and Malawi, often cultivated; in Gabon, known from Haut-Ogooué and Ngounié
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-savane herbacée ou arbustive, sur sols sableux ; au Gabon à 430–640 m d’altitude, ailleurs à 200–1950 m. Fleurs en mars, août, octobre et novembre ; fruits en mars. Usage : Les graines et les tubercules sont mangés par l’homme. Les tubercules bouillis ont un goût qui se rapproche de celui des pommes de terre
+herbaceous or shrubby savanna, on sandy soils; in Gabon at 430–640 m altitude, elsewhere at 200–1950 m. Flowers in March, August, October and November; fruits in March. Uses: The seeds and tubers are eaten by man. The boiled tubers have a taste that resembles that of potatoes
 
 ## Vernacular names
 

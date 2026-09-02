@@ -21,13 +21,11 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Trees. Stipules forming an intrapetiolar blade, caducous. Scales persistent at the base of young shoots. Leaves with 2 pairs of leaflets, the upper ones opposite, the lower ones subopposite. Petiolules twisted. Leaflets oblong, somewhat falcate, acuminate, with acute or obtuse base, 3.5-9 cm long by 1.5-5 cm wide, glabrous. Secondary veins ascending, anastomosing before the margin, with a dense network of veinlets almost as prominent as the veins. Petiolules 2-3 mm, twisted.
 
-Arbres. Stipules formant une lame intrapétiolaire, caduque. Écailles persistantes à la base des jeunes pousses. Feuilles à 2 paires de folioles, les supérieures opposées, les inférieures subopposées. PétioIules tordus. Folioles oblongues, un peu falciformes, acuminées, à base aiguë ou obtuse, de 3,5-9 cm de longueur sur 1,5-5 cm de largeur, glabres. Nervures secondaires ascendantes, anastomosées, avant la marge, à un réseau dense de nervilles presque aussi saillant que les nervures. PétioIules 2-3 mm, tordus.
+Short racemes 3-6 cm long, loosely flowered. Pedicels filiform, 7-15 mm, glabrous. Bracteoles 2, caducous. Receptacle cupuliform, very short. Sepals 4, imbricate, 3-4 mm. Petals 5, subequal, lanceolate, attenuate into claw, 4-8 × 1-2.5 mm. Stamens 10, free, glabrous. Ovary stipitate, glabrous, biovulate.
 
-Grappes courtes de 3-6 cm de longueur, lâchement fleuries. Pédicelles filiformes de 7-15 mm, glabres. Bractéoles 2, caduques. Réceptacle cupuliforme très court. Sépales 4, imbriqués, de 3-4 mm. Pétales 5, subégaux, lancéolés, atténués en onglet, de 4-8 × 1-2,5 mm. Étamines 10, libres, glabres. Ovaire stipité, glabre, biovulé.
-
-Gousses jeunes obovées-lancéolées, stipitées, nervurées transversalement.
+Young pods obovate-lanceolate, stipitate, transversely veined.
 
 ## Type
 

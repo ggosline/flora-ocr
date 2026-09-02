@@ -17,27 +17,19 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Arbre de ± 28 m de hauteur ; tronc 120 cm de diamètre, à écorce grise, assez lisse, avec lignes horizontales fines et épines coniques irrégulières. Stipules inconnues. Feuille : pétiole 8 cm ; rachis 1,5 cm ; folioles à pétiolule de ± 8 mm, limbe suborbiculaire à ovale ou oblong , 9–12 × 6–9 cm , base tronquée, sommet obtus, parfois légèrement plié, coriace, glabre dessus, légèrement glabrescent dessous ; nervures latérales en 7 paires , ascendantes. Inflorescence terminale, en pseudoracèmes robustes, coniques, de ± 13 cm de longueur. Fleur sessile ; calice orange , plus pâle à la base, tube presqu’entièrement fendu ventralement, 22 × 7–10 mm, tomenteux à poils étoilés , surmonté de deux lobes pétaloïdes, membraneux , orange, l’un large, obdeltoïde, ± 23 × 23 mm et plié au milieu, l’autre linéaire, 25 × 2,5 mm ; étendard sigmoïde, 35 × 11 mm, orange à taches rouges, ailes orange avec quelques taches rouges, sigmoïdes, 14 × 6 mm, carène à pétales presque libres (unis à la base), chacun 13 × 10 mm, vert pâle à taches rouges ; étamines 35–40 mm, le vexillaire libre sur 15 mm, filets vert pâle à la base, pourpres au sommet, anthères 2 mm de longueur, brun pâle ; ovaire étroitement cylindrique, ± 20 mm de longueur, brun foncé ; style 15 mm, pourpre, partie terminale glabre, stigmate vert. Gousse et graine inconnues.
+Tree of ± 28 m in height; trunk 120 cm in diameter, with grey bark, fairly smooth, with fine horizontal lines and irregular conical spines. Stipules unknown. Leaf: petiole 8 cm; rachis 1.5 cm; leaflets with petiolule of ± 8 mm, blade suborbicular to ovate or oblong, 9–12 × 6–9 cm, base truncate, apex obtuse, sometimes slightly folded, coriaceous, glabrous above, slightly glabrescent below; lateral veins in 7 pairs, ascending. Inflorescence terminal, in robust pseudoracemes, conical, of ± 13 cm in length. Flower sessile; calyx orange, paler at the base, tube almost entirely cleft ventrally, 22 × 7–10 mm, tomentose with stellate hairs, surmounted by two petaloid lobes, membranous, orange, one broad, obdeltoid, ± 23 × 23 mm and folded in the middle, the other linear, 25 × 2.5 mm; standard sigmoid, 35 × 11 mm, orange with red blotches, wings orange with some red blotches, sigmoid, 14 × 6 mm, keel with petals almost free (united at the base), each 13 × 10 mm, pale green with red blotches; stamens 35–40 mm, the vexillar free for 15 mm, filaments pale green at the base, purple at the apex, anthers 2 mm in length, pale brown; ovary narrowly cylindric, ± 20 mm in length, dark brown; style 15 mm, purple, terminal part glabrous, stigma green. Pod and seed unknown.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-endémique du Gabon, connue d’une seule récolte entre Makokou et Mékambo (OgoouéIvindo)
+Endemic to Gabon, known from a single collection between Makokou and Mékambo (Ogooué-Ivindo)
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-forêt secondaire ; à 500 m d’altitude. On a observé la cime avec une partie feuillée et une partie fleurie, mais défeuillée
+Secondary forest; at 500 m altitude. The crown was observed with a leafy part and a flowering part, but leafless
 
 ## Source note
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Un grand arbre aux fleurs ressemblant à E. mildbraedii , mais à inflorescences simples, robustes, et fleurs plus grandes, sessiles, orange à taches rouges. E. mildbraedii a des inflorescences en fascicules plus grêles, et des fleurs à pédicelle de 3–5 mm, plus étroites, de couleur rose. b : Krukoff & Barneby (1974), van der Maesen (2013). ibliographie
+A large tree with flowers resembling E. mildbraedii, but with simple, robust inflorescences, and larger sessile flowers, orange with red blotches. E. mildbraedii has inflorescences in more slender fascicles, and flowers with pedicel of 3–5 mm, narrower, of pink colour. Bibliography: Krukoff & Barneby (1974), van der Maesen (2013).
 
 ## Notes
 

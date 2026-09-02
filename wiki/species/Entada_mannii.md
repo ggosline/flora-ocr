@@ -17,8 +17,6 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 TORRE, CFA 2 (2) : 258 (1956) ; KEAY, FWTA, ed. 2, 1 (2) : 491 (1958) ; LIBERATO, Fl. Guiné Port., Mimosaceae : 11 (1972) ; ERN., Fl. analy. Togo : 255, 256 (1984).
 
 - Piptadenia (?) mannii OLIV., FTA 2: 329 (1871).
@@ -31,15 +29,13 @@ TORRE, CFA 2 (2) : 258 (1956) ; KEAY, FWTA, ed. 2, 1 (2) : 491 (1958) ; LIBERATO
 
 - E. sudanica auct. non SCHWEINF. : DE WILD., Ann. Mus. Congo b., Bot., sér. 5, 2 : 129 (1905) ; l.c. 3 : 190 (1910) ; BJBB 4 : 86 (1914) ; Pl. Bequaert. 3 : 87 (1925) ; Th. & H. DURAND, Syll. : 184 (1905).
 
-Liane souvent très sarmenteuse, atteignant 20-25 m pour un diamètre de 8 cm. Rameaux glabres, noirs à lenticelles noirâtres saillantes sur le sec sur les plantes âgées, ridés à subsillonnés longitudinalement. Stipules tôt caduques ; cicatrices en bourrelets latéraux saillants (réduits ou disparus sur les tiges âgées). Pétiole à pubescence courte éparse dessus, glabre sur le reste, long de 3,5-5,5 cm ; canaliculé à très fortement canaliculé dessus, ± cylindrique dessous. Rachis long de 9-10 cm ; crête à sillon pubescent dessus et face inférieure hémicylindrique glabre. Pennes 3-7 paires. Axe de la penne long de 3,5-9 cm, crête saillante pubescente dessus, face inférieure très largement hémicylindrique, subailée latéralement, sommet de la face inférieure terminé par un mucron épais aigu. Folioles 8-12 paires (paire basale souvent remplacée par des stipelles courts aigus), subsessiles ou à courts pétiolues de ± 0,5 mm. Limbe très courtement pubescent à faiblement pubé-rulent apprimé dessus, courtement pubescent apprimé dessous ; marron à vert grisâtre dessus et vert jaunâtre à roussâtre dessous sur le sec ; oblong, atteignant 15 × 6 mm ; base asymétrique : bord proximal très arrondi à parfois subcordé et bord distal atténué arrondi ; sommet obtus arrondi à émarginé, mucroné. Nervure principale médiane, peu saillante dessus et saillante ± pubescente dessous. Reste de la nervation non visible (parfois quelques nervures secondaires faiblement saillantes).
+Liane often very sarmentose, reaching 20–25 m for a diameter of 8 cm. Branchlets glabrous, black with prominent blackish lenticels on dried material on older plants, wrinkled to subsulcate longitudinally. Stipules early caducous; scars in prominent lateral ridges (reduced or absent on old stems). Petiole with short sparse pubescence above, glabrous on the rest, 3.5–5.5 cm long; channeled to very strongly channeled above, ± cylindric below. Rachis 9–10 cm long; crest with pubescent sulcus above and lower hemicylindric glabrous face. Pinnae 3–7 pairs. Pinnule axis 3.5–9 cm long, prominent pubescent crest above, lower face very broadly hemicylindric, subwinged laterally, apex of lower face terminated by a thick acute mucro. Leaflets 8–12 pairs (basal pair often replaced by short acute stipels), subsessile or with short petiolules of ± 0.5 mm. Blade very shortly pubescent to weakly puberulent appressed above, shortly pubescent appressed below; brown to greyish-green above and yellowish-green to russet below on dried material; oblong, reaching 15 × 6 mm; base asymmetric: proximal margin very rounded to sometimes subcordate and distal margin rounded attenuate; apex obtuse rounded to emarginate, mucronate. Principal median nerve slightly prominent above and prominent ± pubescent below. Rest of the venation not visible (sometimes a few secondary nerves weakly prominent).
 
-Panicule (grappes parfois fasciculées par 2-3) axillaire ou plus souvent terminale. Rachis courtemment pubescent hérissé, côtelé. Brac-
+Panicle (racemes sometimes fasciculate in 2–3) axillary or more often terminal. Rachis shortly pubescent and hirsute, ribbed. Bractole caducous, 1.5 mm long. Pedicel glabrous, 0.5 mm long, with apical abscission. Bud ellipsoid to weakly obovoid, stamens with plicate filaments. Flowers white to pale yellow when fresh. Calyx glabrous, obconic, 1–1.25 (–1.50) mm long; lobes free, triangular, 0.15–0.20 (–0.50) mm long, apex acute. Petals glabrous, elliptic to weakly spathulate, 2.5–3 mm long, bases united to the staminal tube; apex acute to short fleshy apiculate on the inner face. Stamens 10, 4–5 mm long, united at the base to the disk for 0.50–0.75 mm; filament white when fresh, gradually weakly widened; anther oblong, elliptic-oblong, 0.25–0.30 mm long, connective prolonged by a pedicellate caducous gland. Pistil with stipe 0.25–0.30 mm long; ovary glabrous, narrowly oblong, weakly curved, 1.45–1.75 mm long, with ± 14 ovules; style 2.25–2.75 mm long with weakly thickened stigma.
 
-téole caduque, longue de 1,5 mm. Pédicelle glabre, long de 0,5 mm, à abscission sommitale. Bouton ellipsoïde à faiblement obovoïde, étamines à filets plissés. Fleurs blanches à jaune clair sur le frais. Calice glabre, obconique, long de 1-1,25 (-1,50) mm ; lobes libres triangulaires, longs de 0,15-0,20 (-0,50) mm, sommet aigu. Pétales glabres, elliptiques à faiblement blancolés, longs de 2,5-3 mm, bases souduées au tube staminal ; sommet aigu à court apicule charnu à la face interne. Étamines 10, longues de 4-5 mm, souduées à la base au disque sur 0,50-0,75 mm ; filet blanc sur le frais, progressivement faiblement élargi ; anthère oblongue, elliptique oblongue, longue de 0,25-0,30 mm connectif prolongé par une glande pédiculée caduque. Pistil à stipe long de 0,25-0,30 mm ; ovaire glabre, étroitement oblong, faiblement arqué, long de 1,45-1,75 mm, à ± 14 ovules ; style long de 2,25-2,75 mm à stigmate faiblement épaissi.
+Lomentum glabrous, reaching 35 × 8 cm; base rounded to cuneiform stipitate; lateral faces obscurely nerved and wrinkled except at seed level; sutural margins ± undulate to rectilinear. Seeds brown, ellipsoid to oblong, 1.6–1.8 × 0.9 cm, areole large, central, of the same shape as the seed.
 
-Lomentum glabre, atteignant  $ 35 \times 8 $ cm ; base arrondie à cunéi-forme stipitée ; faces latérales obscurément nervurées ridées sauf au niveau des graines ; bords suturaux ± ondulés à rectilignes. Graines brunes, ellipsoïdes à oblongues,  $ 1,6-1,8 \times 0,9 $ cm, aréole de grande taille, centrale, de même forme que la graine.
-
-Plantule glabre à cotylédons épigées. Premier entrenœud long de 2,5 cm. Deux premières feuilles opposées composées pennées à 1-15 paires de folioles. Feuilles suivantes composées bipennées à 2 (-3) paires de pennes à 3-8 paires de folioles et 2 stipelles filiformes à la base de la penne. (D'après GILBERT & BOUTIQUE, l.c.).
+Seedling glabrous with epigeal cotyledons. First internode 2.5 cm long. First two leaves opposite, compound pinnate with 1–15 pairs of leaflets. Subsequent leaves compound bipinnate with 2 (–3) pairs of pinnae with 3–8 pairs of leaflets and 2 filiform stipels at the base of the pinnule. (After GILBERT & BOUTIQUE, l.c.).
 
 ## Type
 
@@ -47,11 +43,9 @@ Mann 414, Fernando Po (holo, K; iso-, P!)
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Only one specimen (Jacques-Félix 3166, Cameroon) is given with an arborescent habit.
 
-Un seul échantillon (Jacques-Félix 3166, Cameroun) est donné avec un port arborescent.
-
-Cette plante se rencontre dans les groupements forestiers, particulièrement au bord des rivières ou sur les lisières, aussi sur les collines rocheuses. Son aire s'étend du Sénégal au Zaïre (bas Katanga) et à l'Angola au Sud.
+This plant is found in forest groupings, particularly at riverside or on forest margins, also on rocky hills. Its range extends from Senegal to Zaire (Lower Katanga) and Angola to the South.
 
 ## Specimens examined
 

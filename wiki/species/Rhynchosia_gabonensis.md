@@ -17,27 +17,19 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Herbe grimpante, robuste ; tige atteignant 7 m de longueur, pubérulente à glabre. Stipules lancéolées, 4 × 1 mm. Feuille : pétiole 5–6 cm ; rachis atteignant 1–3 cm ; folioles à limbe ovale-acuminé, les latérales obliques, jusqu’à 9 × 7,5 cm, à base cordée, coriace, presque glabre, vert terne dessus, vert pâle dessous à nervation rougeâtre , glandes vésiculeuses jaune pâle . Inflorescence atteignant 22 cm de longueur ; pédoncule 7–10 cm. Fleur : calice à tube de 2–3 mm, lobes 3–4 × 1 mm, subégales ; corolle assez persistante, étendard obovale, ± 12 × 7 mm, avec quelques poils près du sommet, ailes ± 9 × 3 mm, carène ± 10 mm de longueur ; étamines ± 11 mm. Gousse étranglée entre les 2 graines, 16–22 × 5 mm , à pubescence très courte et poils brun rouge, longs, couverte de papilles grises. Graine ovoïde, ± 4 × 3 × 3 mm, bleu métallique, brillantes .
+Climbing herb, robust; stem reaching 7 m in length, puberulent to glabrous. Stipules lanceolate, 4 × 1 mm. Leaf: petiole 5–6 cm; rachis reaching 1–3 cm; leaflets with ovate-acuminate blade, the lateral ones oblique, up to 9 × 7.5 cm, cordately based, coriaceous, almost glabrous, dull green above, pale green below with reddish venation, pale yellow vesiculate glands. Inflorescence reaching 22 cm in length; peduncle 7–10 cm. Flower: calyx with tube 2–3 mm, lobes 3–4 × 1 mm, subequal; corolla rather persistent, standard obovate, ± 12 × 7 mm, with a few hairs near the apex, wings ± 9 × 3 mm, keel ± 10 mm in length; stamens ± 11 mm. Pod constricted between the 2 seeds, 16–22 × 5 mm, with very short pubescence and long reddish-brown hairs, covered with grey papillae. Seed ovoid, ± 4 × 3 × 3 mm, metallic blue, shiny.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-endémique du Gabon, seulement connue de la route Tchimbélé-Assok, dans l’Estuaire et le Woleu-Ntem
+endemic to Gabon, known only from the Tchimbélé-Assok road, in Estuaire and Woleu-Ntem
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-forêt humide sempervirente, sur pentes ; à 500–600 m d’altitude
+humid evergreen forest, on slopes; at 500–600 m altitude
 
 ## Source note
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-L’espèce est semblable à R. mannii (très répandue, voir ci-dessous), mais a un calice petit avec des lobes subégales. Bi : De la Estrella et al. (2010), Jongkind (1994). B liographie
+The species is similar to R. mannii (very widespread, see below), but has a small calyx with subequal lobes. Bi: De la Estrella et al. (2010), Jongkind (1994). Bibliography
 
 ## Notes
 

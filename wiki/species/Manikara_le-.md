@@ -11,7 +11,7 @@ tags: [species, generated]
 ---
 # *Manikara le-* Testui Aubréville et Pellegrin.
 
-**Genus**: [[Manikara]]
+**Genus**: [[Manilkara]]
 **Family**: [[Sapotaceae]]
 **Protologue**: Notulae Systematicae. Vol. XVI. Fasc. 3-4 : 233 (1960)
 
@@ -49,6 +49,6 @@ Espèce remarquable, mais très imparfaitement connue par un spécimen unique de
 
 ## See also
 
-- [[Manikara]]
+- [[Manilkara]]
 - [[Sapotaceae]]
 - [[vol01]]

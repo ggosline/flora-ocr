@@ -17,13 +17,9 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Small trees. Leaves 6-jugate, the lower pair very small and inserted very close to the branches. Rachis approximately 10 cm long, pubescent. Short caducous stipules. Leaflets opposite, very shortly but distinctly petiolulate, somewhat pubescent on the midrib above, whitish-oblong, somewhat falcate, acuminate, acute and attenuate at the base, measuring up to 8 × 3 cm. Network of veins and veinlets finely prominent on both surfaces.
 
-Petits arbres. Feuilles ô-juguées, la paire inférieure très petite et insérée très près des rameaux. Rachis de 10 cm environ, pubescent. Courtes stipules caduques. Folioles opposées, très courtement mais nettement pétiolulées, un peu pubescentes sur
-
-la nervure médiane en dessus, blancéolées-oblongues, un peu falciformes, acuminées, atténuées aiguës à la base, mesurant jusqu'à  $ 8 \times 3 $ cm. Réseau des nervures et nervilles finement saillant sur les 2 faces.
-
-Racèmes axillaires, lâches, à axes pubescents. Pédicelles jusqu'à 3 cm de longueur, pubescents. Bractées lancéolées, de 10 × 3 mm, pubescentes, roses, caduques. Bractéoles ovées, arrondies à la base, à sommet obtus, pubescentes, environ 12 mm de longueur sur 9 mm de largeur, persistantes. Calice à 4 lobes lancéolés, réfléchis, longs de 6 mm, velus intérieurement; tube en entonnoir étroit, d'environ 5 mm. Pétales 3, oblongs de 6-7 × 4 mm, atténués à la base en un long onglet de 5 mm. Étamines 10; 5 filets longs de 15 mm, les cinq autres un peu plus courts. Ovaire velu sur les marges, à stipe velu fixé au fond du réceptacle.
+Axillary racemes, lax, with pubescent axes. Pedicels up to 3 cm long, pubescent. Bracts lanceolate, 10 × 3 mm, pubescent, pink, caducous. Bracteoles ovate, rounded at the base, with obtuse apex, pubescent, approximately 12 mm long by 9 mm wide, persistent. Calyx with 4 lanceolate lobes, reflexed, 6 mm long, hairy within; tube narrowly funnel-shaped, approximately 5 mm. Petals 3, oblong, 6–7 × 4 mm, attenuate at the base into a long claw of 5 mm. Stamens 10; 5 filaments 15 mm long, the five others slightly shorter. Ovary hairy on the margins, with a hairy stipe attached to the base of the receptacle.
 
 ## Type
 

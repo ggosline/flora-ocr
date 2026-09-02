@@ -17,27 +17,19 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Arbrisseau , 1–4 m de hauteur, glabre . Stipules lancéolées-triangulaires, 1–3 mm de longueur. Feuille : pétiole 0,5–2 cm, avec un pulvinus au sommet ; folioles 1(–3) , limbe lancéolé à ovale-lancéolé, (3–)8–14 × (1–)3–6 cm ; nervures saillantes dessous, réticulées. Inflorescence en courts racèmes grêles, avec 1 à 4 fleurs ; bractées 1–1,5 mm de longueur. Fleur : pédicelle, 4–8 mm ; bractéoles triangulaires à ovales-oblongues, 1–1,5 mm de longueur ; calice à tube de 3–4 mm de longueur, lobes 1–2 mm de longueur ; corolle 12–14 mm de longueur, violette ou blanche, striée de pourpre , pétales à onglets étroits et longs de 4–5 mm ; étamines monadelphes, soudées en un tube fendu unilatéralement ; ovaire linéaire. Gousse fortement cloisonnée, (2,5–)4,5–9 × 0,6–0,9 cm, atténuée aux deux extrémités, marquées de nervures longitudinales et saillantes, plus ou moins verruqueuse, glabre, avec (1–)2 à 5 articles ellipsoïdes-aplatis, 1,5–2,5 cm de longueur, se détachant facilement, verts à brun foncé. Graine ellipsoïde, aplatie, 8–10 × ± 4 mm, brun pâle.
+Shrub, 1–4 m tall, glabrous. Stipules lanceolate-triangular, 1–3 mm long. Leaf: petiole 0.5–2 cm, with a pulvinus at the apex; leaflets 1(–3), blade lanceolate to ovate-lanceolate, (3–)8–14 × (1–)3–6 cm; veins prominent beneath, reticulate. Inflorescence in short slender racemes, with 1 to 4 flowers; bracts 1–1.5 mm long. Flower: pedicel 4–8 mm; bracteoles triangular to ovate-oblong, 1–1.5 mm long; calyx with tube 3–4 mm long, lobes 1–2 mm long; corolla 12–14 mm long, violet or white, striped with purple, petals with narrow claws 4–5 mm long; stamens monadelphous, fused into a tube slit unilaterally; ovary linear. Pod strongly chambered, (2.5–)4.5–9 × 0.6–0.9 cm, attenuate at both ends, marked with longitudinal and prominent veins, more or less verrucose, glabrous, with (1–)2 to 5 ellipsoid-flattened articles, 1.5–2.5 cm long, separating easily, green to dark brown. Seed ellipsoid, flattened, 8–10 × ± 4 mm, pale brown.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-espèce littorale de la côte atlantique de l’Afrique, du Sénégal à l’Angola ; au Gabon, connue de l’Estuaire et de l’Ogooué-Maritime
+Littoral species of the Atlantic coast of Africa, from Senegal to Angola; in Gabon, known from the Estuary and Ogooué-Maritime
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-sable humide, lisières de forêt près des plages, forêt inondée ; à 1–100 m d’altitude. Fleurs et fruits de mars à mai et en décembre. Usage : Au Nigéria, les tiges sont utilisées pour fabriquer des cabanes
+Moist sand, forest margins near beaches, inundated forest; at 1–100 m altitude. Flowers and fruits from March to May and in December. Use: In Nigeria, the stems are used to make huts
 
 ## Source note
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Au Gabon, il s’agit de la var. verrucosum . La var. wombaliense J.Léonard, à articles non verruqueux et avec (1–)3 à 5 folioles à limbe brusquement acuminé, se trouve en République démocratique du Congo. B : Burkill (1995), Gillett (1966), Léonard (1954b), Pellegrin (1949). i B liographie
+In Gabon, this is var. verrucosum. Var. wombaliense J.Léonard, with non-verrucose articles and with (1–)3 to 5 leaflets with blade abruptly acuminate, is found in the Democratic Republic of the Congo. B: Burkill (1995), Gillett (1966), Léonard (1954b), Pellegrin (1949). Bibliography
 
 ## Notes
 

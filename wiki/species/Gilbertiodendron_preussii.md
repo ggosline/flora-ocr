@@ -21,13 +21,11 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Trees. Leaves 3-5 jugate. Large leaflets lanceolate, gradually acuminate, up to 20 cm in length and 7 cm in width, glabrous. Stipules quickly caducous.
 
-Arbres. Feuilles 3-5 juguées. Grandes folioles lancéolées, progressivement acuminées, jusqu'à 20 cm de longueur sur 7 cm de largeur, glabres. Stipules rapidement caduques.
+Panicles tomentose.
 
-Panicules tomenteuses.
-
-Gousses jusqu'à  $ 25 \times 6 $ cm, marquées d'une nervure longitudinale près du bord sutural.
+Pods up to 25 × 6 cm, marked with a longitudinal nerve near the sutural margin.
 
 ## Type
 
@@ -35,13 +33,11 @@ Preuss 449, Cameroun
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+De Saint-Aubin attributed to G. Preussii a large tree from Gabon with a straight, cylindrical trunk, without buttresses, with bark of sulphur-yellow colour.
 
-De Saint-Aubin a attribué à G. Preussii un grand arbre du Gabon à fût droit, cylindrique, sans contreforts, à l’écorce de couleur jaune soufre.
+We refer to this species a specimen collected by N. Hallé from the shores of Lake Ezanga.
 
-Nous rapportons à cette espèce un spécimen récolté par N. Hallé des bords du lac Ezanga.
-
-G. Preussii aurait d'après la F.W.T.A. une aire allant de la Sierra Leone au Cameroun que nous étendons ici au Gabon.
+According to the F.W.T.A., G. Preussii would have a range extending from Sierra Leone to Cameroon, which we here extend to Gabon.
 
 ## Vernacular names
 

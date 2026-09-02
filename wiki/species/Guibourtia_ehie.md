@@ -21,13 +21,11 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Trees. Leaflets ovate, falcate, acuminate, membranous, without translucent dots, black when dry, 5–8 cm long by 1.5–3.5 cm wide. Petiole short, 4–6 (–10) mm long.
 
-Arbres. Folioles ovées, falciformes, acuminées, membraneuses, sans points translucides, noires en séchant, de 5-8 cm de longueur sur 1,5-3,5 cm de largeur. Pétiole court, de 4 à 6 (-10) mm de longueur.
+Inflorescences in terminal panicles, up to 18 cm long; axes pubescent. Bracts and bracteoles caducous. Flowers sessile. Sepals elliptic, very concave, glabrous or puberulent externally, pubescent internally. Stamens 10. Disk and ovary pubescent; 2 ovules.
 
-Inflorescences en panicules terminales, jusqu'à 18 cm de longueur; axes velus. Bractées et bractéoles caduques. Fleurs sessiles. Sépales elliptiques, très concaves, glabres ou pubérulents extérieurement, pubescents intérieurement. Étamines 10. Disque et ovaire velus; 2 ovules.
-
-Gousses membraneuses, plates, réticulées, elliptiques, environ  $ 5 \times 3 $ cm. Une graine.
+Legumes membranous, flat, reticulate, elliptic, approximately 5 × 3 cm. One seed.
 
 ## Vernacular names
 
@@ -39,9 +37,7 @@ Chevalier 22447, Bongouanou, Côte d'Ivoire (P). Grand arbre. Fût élevé, droi
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Cette espèce est connue surtout de la Côte d'Ivoire; au Gabon elle est disséminée.
+This species is known especially from Côte d'Ivoire; in Gabon it is scattered.
 
 ## Specimens examined
 

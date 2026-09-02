@@ -17,29 +17,19 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Herbe grimpante, délicate ; tige grêle , grise, pubescente. Stipules lancéolées, ± 3 mm de longueur, velues extérieurement. Feuille : pétiole 5–8 cm, pubescent ; rachis 1–1,5 cm ; pétiolule
-
-2–3 mm ; folioles à limbe ovale-rhomboïdal, 6–8 × 3–6 cm, à base obtuse, à sommet cuspidé, vert terne, glabrescent sur les deux faces . Inflorescence à fleurs nombreuses, en pseudocapitules denses et subsessiles de 3–4 cm de diamètre ; bractées linéaires-lancéolées, 4–5 mm de longueur. Fleur : pédicelle 1,5–3 mm ; calice 6–9 mm de longueur, dont le tube 1–2 mm, lobes aigus ; corolle persistante, étendard jaune strié de rouge , 7–10 mm de longueur, glabre, ailes jaunes , carène verdâtre ; ovaire hirsute ; style persistant. Gousse oblongue , 1,5–2 × 0,5 cm, à 2 graines, avec quelques poils étalés. Graine réniforme, aplatie, ± 3,5 × 2 × 2 mm, brun-rouge à taches noires ou presque noires.
+Climbing herb, delicate; stem slender, grey, pubescent. Stipules lanceolate, ± 3 mm long, villous on the outside. Leaf: petiole 5–8 cm, pubescent; rachis 1–1.5 cm; petiolule 2–3 mm; leaflets with oval-rhomboidal blade, 6–8 × 3–6 cm, obtuse at base, cuspidate at apex, dull green, glabrescent on both surfaces. Inflorescence with numerous flowers, in dense and subsessile pseudocapitules 3–4 cm in diameter; bracts linear-lanceolate, 4–5 mm long. Flower: pedicel 1.5–3 mm; calyx 6–9 mm long, with tube 1–2 mm, lobes acute; corolla persistent, standard yellow streaked with red, 7–10 mm long, glabrous, wings yellow, keel greenish; ovary hirsute; style persistent. Pod oblong, 1.5–2 × 0.5 cm, with 2 seeds, with some spreading hairs. Seed reniform, flattened, ± 3.5 × 2 × 2 mm, red-brown with black or almost black spots.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Afrique occidentale, centrale et Angola jusqu’à la Zambie et au Malawi ; au Gabon, connue de l’Estuaire
+West, central Africa and Angola to Zambia and Malawi; in Gabon, known from the Estuary
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-savanes arborées, lisières de forêt ; au Gabon à basse altitude, ailleurs jusqu’à 1350 m. Usage : Une plante de fourrage
+Wooded savannas, forest margins; in Gabon at low altitude, elsewhere up to 1350 m. Use: A forage plant
 
 ## Source note
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-La sous-espèce densiflora se trouve en Inde. Bi : De la Estrella et al. (2010), Hauman (1954c), Mackinder et al. (2001), Pellegrin (1948), B liographie Verdcourt (1971a, 1971c)
+The subspecies densiflora is found in India. Bi: De la Estrella et al. (2010), Hauman (1954c), Mackinder et al. (2001), Pellegrin (1948), B liography Verdcourt (1971a, 1971c)
 
 ## Notes
 

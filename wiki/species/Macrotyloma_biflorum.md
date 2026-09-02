@@ -17,29 +17,21 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 Dolichos chrysanthus A.Chev. var. occidentalis (Harms) R.Wilczek, Fl. Congo Belge 6 : 324 (1954). M. chrysanthum (A.Chev.) Verdc., Kew Bull. 24 : 402 (1970). Kerstingiella biflora (Schumach. & Thonn.) J.A. Lackey, Phytologia 38(4) : 229 (1978).
 
-Herbe pérenne ; tige rampante ou parfois grimpante, grêle, jusqu’à 2 m de longueur. Stipules ovales-lancéolées, 2–4 × 1,2 mm. Feuille : pétiole 0,5–2,3 mm ; rachis 1–2 mm ; stipelles filiformes, 1,2 mm ; folioles 3, à limbe ovale à oblong, 1–4 × 0,5–2 cm, base arrondie, sommet arrondi ou rarement aigu. Inflorescence ± sessile, en fascicules avec 1 à 4 fleurs ; bractées ± 2 mm de longueur. Fleur : pédicelle très court ou nul ; bractéoles linéaires, 2,5–4 mm de longueur ; calice avec pubescence érigée, tube 2 mm de longueur, lobes lancéolés, 3–5,5 mm de longueur , lobes supérieurs connés sur la moitié ; corolle jaune pâle à blanche ou verte , étendard 11–16 × 8–14 mm, sommet émarginé, base subauriculée, rose à l’intérieur , à appendices linéaires de 4–6 mm, ailes oblancéolées, 12–14 × 2 mm, carène un peu courbée, 11–13 × 3 mm, sommet obtus, base subauriculée ; ovaire ± 6,5 mm de longueur, avec 4 à 10 ovules, marge pubérulente. Gousse linéaire , 3,5–4,7 cm × 3,5–4,5 mm , acuminée, avec 4 à 10 graines, glabre à densément pubescente. Graine 3–3,5 × 2–2,5 × 0,9 mm, rouge brunâtre avec ou sans pointillés noirs, à élaïosome terminal.
+Perennial herb; stem creeping or sometimes climbing, slender, up to 2 m long. Stipules ovate-lanceolate, 2–4 × 1.2 mm. Leaf: petiole 0.5–2.3 mm; rachis 1–2 mm; stipels filiform, 1.2 mm; leaflets 3, with limb ovate to oblong, 1–4 × 0.5–2 cm, base rounded, apex rounded or rarely acute. Inflorescence ± sessile, in fascicles with 1 to 4 flowers; bracts ± 2 mm long. Flower: pedicel very short or absent; bracteoles linear, 2.5–4 mm long; calyx with erect pubescence, tube 2 mm long, lobes lanceolate, 3–5.5 mm long, upper lobes connate for half their length; corolla pale yellow to white or green, standard 11–16 × 8–14 mm, apex emarginate, base subauriculate, pink inside, with linear appendages of 4–6 mm, wings oblanceolate, 12–14 × 2 mm, keel somewhat curved, 11–13 × 3 mm, apex obtuse, base subauriculate; ovary ± 6.5 mm long, with 4 to 10 ovules, margin puberulent. Pod linear, 3.5–4.7 cm × 3.5–4.5 mm, acuminate, with 4 to 10 seeds, glabrous to densely pubescent. Seed 3–3.5 × 2–2.5 × 0.9 mm, reddish-brown with or without black dots, with terminal elaiosome.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-vaste en Afrique occidentale et centrale ; au Gabon, sur les Plateaux Batéké (Haut-Ogooué)
+Widespread in West and Central Africa; in Gabon, on the Batéké Plateaus (Haut-Ogooué)
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-sables de Kalahari, savanes arbustives ou arborées, inselbergs ; au Gabon à 630 m d’altitude, ailleurs jusqu’à 900 m. Fleurs en décembre
+Kalahari sands, shrubby or wooded savannas, inselbergs; in Gabon at 630 m elevation, elsewhere up to 900 m. Flowers in December
 
 ## Source note
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-La seconde variété, var. apprime-puberulum Verdc., de la Guinée au Cameroun, en République centrafricaine, en République démocratique du Congo et au Soudan, n’est pas encore signalée au Gabon. Sa pilosité est apprimée, au lieu d’être étalée, le rachis est plus long et les folioles sont plus petites. b : Mackinder et al. (2001), Verdcourt (1982), Wilczek (1954). ibliographie
+The second variety, var. apprime-puberulum Verdc., from Guinea to Cameroon, in the Central African Republic, in the Democratic Republic of the Congo and in Sudan, has not yet been recorded in Gabon. Its indumentum is appressed rather than spreading, the rachis is longer and the leaflets are smaller. Bibliography: Mackinder et al. (2001), Verdcourt (1982), Wilczek (1954).
 
 ## Notes
 

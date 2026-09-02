@@ -17,21 +17,15 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Herbe annuelle , assez ligneuse , atteignant 1 m de hauteur, les éléments végétatifs strigueux ; tige érigée, fortement ramifiée vers le sommet ; ramilles cylindriques et éparsement pubéru lentes à glabres. Stipules 2–6 mm de longueur. Feuille : pétiole 4–8 mm ; stipelles absentes ; folioles 5 à 11 , opposées, à limbe oblancéolé à étroitement elliptique, 4–20 × 1–6 mm, éparse ment strigueux dessus, généralement glabre dessous. Inflorescence en corymbes ou capitules terminales sur les rameaux, grisâtres ; bractées externes simples, semblables aux folioles, les internes 3-partites et similaires aux lobes du calice. Fleur : pédicelle ± 1 mm ; calice rouge, à tube presque nul , lobes étroitement lancéolés, 4,5–7 mm de longueur ; corolle plus courte que le calice , rose foncé, orange-rouge ou pourpre , étendard 3–3,5 mm de longueur, courtement mucroné. Gousse oblongue à ovale , ± 2,5 × 1,5 mm, mucronée, à 1(–2) graines, soyeuse , puis glabrescente, rouge pourpre. Graine ± 1 mm de diamètre, vert olive.
+Annual herb, rather woody, reaching 1 m in height, the vegetative parts strigulose; stem erect, strongly branched towards the apex; branchlets cylindrical and sparsely pubescent to glabrous. Stipules 2–6 mm long. Leaf: petiole 4–8 mm; stipels absent; leaflets 5 to 11, opposite, with blade oblanceolate to narrowly elliptic, 4–20 × 1–6 mm, sparsely strigulose above, generally glabrous below. Inflorescence in corymbs or terminal capitules on the branches, greyish; outer bracts simple, similar to the leaflets, the inner ones 3-partite and similar to the calyx lobes. Flower: pedicel ± 1 mm; calyx red, with tube nearly absent, lobes narrowly lanceolate, 4.5–7 mm long; corolla shorter than the calyx, dark pink, orange-red or purple, standard 3–3.5 mm long, shortly mucronate. Pod oblong to ovate, ± 2.5 × 1.5 mm, mucronate, with 1(–2) seeds, silky, then glabrescent, red-purple. Seed ± 1 mm in diameter, olive-green.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-régions sèches de l’Afrique, du Sénégal à l’Angola et du Soudan au Zimbabwe ; au Gabon, observée dans le Haut-Ogooué, la Ngounié, la Nyanga et l’Ogooué-Maritime
+dry regions of Africa, from Senegal to Angola and from Sudan to Zimbabwe; in Gabon, observed in the Haut-Ogooué, the Ngounié, the Nyanga and the Ogooué-Maritime
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-savanes ; au Gabon jusqu’à 250 m d’altitude, ailleurs jusqu’à 1400 m. Usage : L’infusion (des feuilles ?) sert comme gargarisme contre les maux de dents. b : Cronquist (1954), Gillett (1971a), Pellegrin (1949), Raponda-Walker & Sillans (1961). ibliographie
+savannas; in Gabon up to 250 m altitude, elsewhere up to 1400 m. Use: The infusion (of leaves?) serves as a gargle against toothache. Bibliography: Cronquist (1954), Gillett (1971a), Pellegrin (1949), Raponda-Walker & Sillans (1961).
 
 ## Notes
 

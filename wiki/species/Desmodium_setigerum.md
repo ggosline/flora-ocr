@@ -17,27 +17,19 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-, pro parte. D. hirtum auct., non Guill. & Perr., Th. & H. Dur. , Syll. fl. congol. : 142 (1909). Herbe suffrutescente , prostrée , ramifiée dès la base ; tige anguleuse, à poils étales sur les angles . Stipules obliques, ovales-atténuées, 5–10 × 1,5–2 mm, poilues extérieurement. Feuille : pétiole 8–20 mm ; rachis 3–10 mm ; stipelles subulées, 2–4 mm de longueur ; folioles 3 , la terminale à limbe obovale à elliptique, 1,3–5 × 0,6–2,2 cm, base arrondie à cunéiforme, sommet obtus, mucronulé ou parfois émarginé, les latérales pareilles mais plus petites, pubescence apprimée grise, légère dessus, plus dense dessous . Inflorescence axillaire et terminale, en pseudoracèmes lâches de 8–15 cm de longueur , à poils étalés, à fleurs par 2 ; bractées très caduques, ovales-atténuées, 2,3–6 mm × 1,2–2 mm, poilues extérieurement. Fleur : pédicelle grêle, 5–10 mm ; calice à tube de ± 1 mm de longueur, pubérulent et poilu, lobes 2–3,5 mm de longueur ; corolle atteignant 4,5 mm de longueur, blanche, légèrement bleuâtre , étendard légèrement plus court que la carène. Gousse à suture dorsale légèrement ondulée, suture ventrale plus profondément échancrée , avec 2 à 6 articles de 2–3 × 1,5–2 mm, glabrescents à légèrement pubérulents-uncinés. Graine ± oblongue, atteignant 1,7 × 1,5 × 1 mm, brune ; hile ± central.
+, pro parte. D. hirtum auct., non Guill. & Perr., Th. & H. Dur. , Syll. fl. congol. : 142 (1909). Suffrutescent herb, prostrate, branched from the base; stem angular, with spreading hairs on the angles. Stipules oblique, ovate-attenuate, 5–10 × 1.5–2 mm, hairy on the exterior. Leaf: petiole 8–20 mm; rachis 3–10 mm; stipels subulate, 2–4 mm in length; leaflets 3, the terminal one with obovate to elliptic lamina, 1.3–5 × 0.6–2.2 cm, base rounded to cuneate, apex obtuse, mucronate or sometimes emarginate, the lateral ones similar but smaller, appressed grey pubescence, slightly dense above, denser below. Inflorescence axillary and terminal, in loose pseudoracemes 8–15 cm in length, with spreading hairs, flowers in pairs; bracts very caducous, ovate-attenuate, 2.3–6 × 1.2–2 mm, hairy on the exterior. Flower: pedicel slender, 5–10 mm; calyx with tube of ± 1 mm in length, puberulent and hairy, lobes 2–3.5 mm in length; corolla reaching 4.5 mm in length, white, slightly bluish, standard slightly shorter than the keel. Pod with dorsal suture slightly undulate, ventral suture more deeply emarginate, with 2 to 6 articles of 2–3 × 1.5–2 mm, glabrescent to slightly puberulent-uncinate. Seed ± oblong, reaching 1.7 × 1.5 × 1 mm, brown; hilum ± central.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Afrique tropicale, sauf l’Éthiopie ; au Gabon, connue du Haut-Ogooué
+Tropical Africa, except Ethiopia; in Gabon, known from Haut-Ogooué
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-terrains humides et rudéraux, bords des routes, pelouses, lisières ; au Gabon à ± 300 m d’alti tude, ailleurs jusqu’à 1800 m. Fleurs et fruits en février et décembre
+humid and ruderal terrain, roadsides, grasslands, forest margins; in Gabon at ± 300 m altitude, elsewhere up to 1800 m. Flowers and fruits in February and December
 
 ## Source note
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-La gousse pourrait être déhiscente le long les sutures, raison pour laquelle dans le passé, plusieurs auteurs la présentent incorrectement comme un synonyme de D. hirtum . b : De la Estrella et al. (2010), Hepper (1958), Mackinder et al. (2001), Pellegrin (1949), ibliographie Schubert (1954, 1971)
+The pod might be dehiscent along the sutures, which is why in the past several authors incorrectly presented it as a synonym of D. hirtum. b: De la Estrella et al. (2010), Hepper (1958), Mackinder et al. (2001), Pellegrin (1949), Bibliography Schubert (1954, 1971)
 
 ## Notes
 

@@ -16,9 +16,7 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Foliolis ellipticis apice rotundatis, bracteolis anguste lanceolatis, calyce lobis valvatis et staminibus sigmoideis D. rufae affinis, sed differt foliolis pluribus (20–31, nec 7–20) indumento flavo longiore et strigoso (nec crispato), calyce basi in hypanthio conspicue contracto, stipulisque anguste lanceolatis.
+Leaflets elliptic, rounded at apex, bracteoles narrowly lanceolate, calyx with valvate lobes and sigmoid stamens affinis to D. rufa, but differing in more numerous leaflets (20–31, not 7–20), indumentum longer and strigose yellow (not crisp), calyx clearly contracted at base into a hypanthium, and narrowly lanceolate stipules.
 
 ## Type
 
@@ -26,29 +24,21 @@ Mcpherson 15680 (holo- : WAG! ; iso- : MO), Gabon, South of Ayem, western border
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Wing, inner face. – 7. Keel petal, inner face. – 8. Gynoecium. - 9. Stamens. - 10. Legume. (1, 2 : Breteler 1723 ; 3 : Breteler 7188 ; 4–9 : Jongkind & Nieuwenhuis 2398 ; 10 : Jongkind & Nieuwenhuis 2273 ). Drawing by Antonio Fernandez, Meise Botanical Garden (©).
 
-Aile, face interne. – 7. Pétale de la carène, face interne. – 8. Gynécée. - 9. Étamines. - 10. Gousse. (1, 2 : Breteler 1723 ; 3 : Breteler 7188 ; 4–9 : Jongkind & Nieuwenhuis 2398 ; 10 : Jongkind & Nieuwenhuis 2273 ). Dessin par Antonio Fernandez, Jardin Botanique Meise (©).
-
-lancéolées , 1–1,5 × 0,2–0,3 mm, pubescentes ; calice à poils couchés très épars, tube 2–2,5 × 1,5–2,5 mm, ± côtelé sur le sec et à partie basale nettement rétrécie en un hypanthium de 1–1,2 mm, dents valvaires, ± égales, aiguës et étroitement triangulaires, 0,8–1,2 mm de longueur ; corolle blanche, pétales à onglet égalant ou dépassant courtement le calice , étendard coudé obliquement ou à angle droit et ± plié en long, à onglet de 2,7 mm et limbe obcordé de 5,3 × 4,5 mm, à sommet bilobé, ailes égalant la carène, à onglet de 2,8 mm et limbe de 5,7 × 2 mm, faiblement ridé transversalement vers la base de la face externe, à base arron die, carène fortement courbée, à onglet de 2 mm et limbe de 6 × 2,7 mm, à base légèrement auriculée ; étamines en 2 phalanges de 5, filets 7–8 mm, soudés sur les ¾ de leur longueur et courbés depuis la base en S très ouvert ; ovaire 3 × 0,8 mm, glabre, à 3 ovules et stipe courbé de 4 mm ; style linéaire, 0,8–1 mm, à stigmate punctiforme. Gousse inconnue.
+lanceolate, 1–1.5 × 0.2–0.3 mm, pubescent; calyx with very sparse appressed hairs, tube 2–2.5 × 1.5–2.5 mm, ± ridged when dry and with basal part clearly contracted into a hypanthium of 1–1.2 mm, valvate teeth, ± equal, acute and narrowly triangular, 0.8–1.2 mm in length; corolla white, petals with claw equalling or shortly exceeding the calyx, standard bent obliquely or at right angles and ± folded lengthwise, with claw 2.7 mm and obcordate limb 5.3 × 4.5 mm, at apex bilobed, wings equalling the keel, with claw 2.8 mm and limb 5.7 × 2 mm, weakly wrinkled transversely toward base on outer face, rounded at base, keel strongly curved, with claw 2 mm and limb 6 × 2.7 mm, slightly auriculate at base; stamens in 2 phalanges of 5, filaments 7–8 mm, fused for ¾ of their length and bent from base into a very open S; ovary 3 × 0.8 mm, glabrous, with 3 ovules and curved stipe 4 mm; style linear, 0.8–1 mm, with punctiform stigma. Legume unknown.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Guinée équatoriale (Rio Muni) et Gabon ; rare, connue par deux récoltes dont une seule au Gabon, en périphérie nord-ouest du Parc National de la Lopé (Ogooué-Ivindo)
+Equatorial Guinea (Rio Muni) and Gabon; rare, known from two collections, only one from Gabon, in the north-western periphery of Lopé National Park (Ogooué-Ivindo)
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-bord de pistes en forêt, lisières d’inselbergs ; à 200 m d’altitude au Gabon, 700 m en Guinée équatoriale. Fleurs en décembre
+Forest track margins, inselberg edges; at 200 m altitude in Gabon, 700 m in Equatorial Guinea. Flowers in December
 
 ## Source note
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Autres échantillons étudiés : Parmentier & Esono 3609 (BRLU), Guinée équatoriale (Rio Muni), inselberg de Dumu, près du village de Dumu, 1°22.2N´11°19.4´E, 3 Juin 2002 (st) . Cette espèce est très caractéristique par ses folioles petites et nombreuses, asymétriques, arrondies au sommet et munies de longs poils blonds strigueux épars sur les deux faces, ses stipules lancéolées et persistantes, et son calice à tube nettement rétréci en un hypanthium à la base. Elle semble voisine de D. rufa , qui a également des folioles asymétriques et des étamines à filets courbés en S, mais qui est bien différente par le calice, les folioles moins nombreuses à pubescence plus courte et ± crépue, et les stipules orbiculaires à elliptiques. Le type montre sur certaines feuilles, des appendices filiformes à la base des pétiolules, groupés par 2 à 5 et ressemblant à des stipelles. Ces appendices n’ont été observés chez aucune autre espèce africaine de Dalbergia
+Other specimens studied: Parmentier & Esono 3609 (BRLU), Equatorial Guinea (Rio Muni), Dumu inselberg, near the village of Dumu, 1°22.2N´11°19.4´E, 3 June 2002 (st). This species is very characteristic in its small and numerous, asymmetric leaflets, rounded at apex and bearing long sparse blonde strigose hairs on both faces, its lanceolate and persistent stipules, and its calyx with tube clearly contracted into a hypanthium at base. It appears close to D. rufa, which also has asymmetric leaflets and stamens with filaments bent into an S, but it is quite different in the calyx, fewer leaflets with shorter and ± crisp pubescence, and orbicular to elliptic stipules. The type shows on certain leaves filiform appendages at the base of the petiolules, grouped in 2 to 5 and resembling stipels. These appendages have not been observed on any other African species of Dalbergia
 
 ## Notes
 

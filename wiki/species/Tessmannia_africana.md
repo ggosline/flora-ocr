@@ -21,13 +21,11 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Trees. Leaves with 7-12 alternate leaflets. Rachis 10-12 cm, channelled. Leaflets elliptic or oblong-elliptic, obtuse or acuminate and slightly emarginate at the apex, subsessile, glabrous, coriaceous, 4-9.5 cm long by 1-4.5 cm wide. Secondary veins joined in arches at the leaf margin, scarcely distinct from a reticulate network of veinlets, remarkably finely prominent on both surfaces. Limb perforated with translucent dots.
 
-Arbres. Feuilles à 7-12 folioles alternes. Rachis de 10-12 cm, canaliculé. Folioles elliptiques ou oblongues elliptiques, obtuses ou acuminées et légèrement émarginées au sommet, subsessiles, glabres, coriaces, de 4-9,5 cm de longueur sur 1-4,5 cm de largeur. Nervures secondaires réunies en arceaux en bordure de la marge, à peine distinctes d'un réseau maillé de nervilles, remarquablement finement saillant sur les 2 faces. Limbe criblé de points translucides.
+Panicles formed of terminal and axillary racemes of numerous pink flowers. Axes pubescent tawny-yellow. Pedicels 5-12 mm, covered with tawny hairs mixed with glandular hairs. Sepals 4, lanceolate, approximately 10 × 4 mm, somewhat imbricate in the bud, covered with hairs and glandular excrescences; woolly-hairy internally. Petals 5, somewhat unequal, the 4 longer ones measuring 1.7 to 2.5 cm long, oblong, with crisped margins, attenuate into a claw at the base. Stamens: 9 with glabrous filaments, united at the base into a hairy sheath; 1 free. Ovary stipitate, hirsute and verrucose; 6-7 ovules.
 
-Panicles formées de grappes terminales et axillaires de nombreuses fleurs rosées. Axes pubescents jaune fauve. Pédicelles de 5-12 mm, couverts de poils fauves mêlés de poils glanduleux. Sépales 4, lancéolés, de 10 × 4 mm environ, un peu imbriqués dans le bouton, couverts de poils et d'excroissances glanduleuses; velu laineux intérieurement. Pétales 5, un peu inégaux, les 4 plus longs mesurant 1,7 à 2,5 cm de longueur, oblongs, à bords crispés, atténués en onglet à la base. Étamines : 9 à filets glabres, soudés à la base en une gaine velue; 1 libre. Ovaire stipité, hirsute et verruqueux; 6-7 ovules.
-
-Gousses obliquement suborbiculaires, plates, ± 5 cm de diamètre, velues ou glabrescentes, criblées de verrucosités pyramidales en forme d'épines, secrétant une résine poisseuse incolore.
+Pods obliquely suborbicular, flat, ± 5 cm in diameter, hairy or glabrescent, perforated with pyramidal verrucosities spine-like in form, secreting a sticky colourless resin.
 
 ## Vernacular names
 
@@ -41,11 +39,9 @@ Tessmann 377, Guinée espagnole (K)
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Large tree uncommon in primary forest. Trunk straight, cylindrical, without buttresses, rarely exceeding 90 cm in diameter. Bark smooth, dark grey, superficially striated vertically, reddish in cross-section and fibrous. Rhytidome hard, brittle, blackish in colour, spotted with red (of St Aubin). Wood hard, heavy, fine-grained, pink-brown.
 
-Grand arbre peu commun de la forêt primaire. Fût droit, cylindrique, sans contreforts, dépassant rarement 90 cm de diamètre. Écorce lisse, gris foncé, superficiellement striée verticalement, de tranche fibreuse rosâtre. Rhytidome dur, cassant, de teinte noire, taché de rouge (de St Aubin). Bois dur, lourd, à grain fin, brun rose.
-
-Espèce répandue du Cameroun au Gabon, à l'Oubangui et au Congo (Kasaï, Mayombe).
+Species widespread from Cameroon to Gabon, in the Ubangi and Congo (Kasai, Mayombe).
 
 ## Specimens examined
 

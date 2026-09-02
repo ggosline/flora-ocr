@@ -23,15 +23,13 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 (De Wild.) Troupin (Pl. 74, p. 293)
 
-Arbres. Stipules intrapétiolaires, caduques. Feuilles à (2-)3 (-4) paires de folioles opposées, elliptiques à ovées-elliptiques, un peu falciformes, acuminées, de 4-20 cm de longueur sur 2-8,5 cm de largeur, glabres, criblées de points translucides. Rachis glabre de 4-11 cm. Pétiolues tordus, de 3-4 mm de longueur du côté du bord supérieur, de 1-2 mm du côté inférieur.
+Trees. Stipules intrapetiolary, caducous. Leaves with (2-)3 (-4) pairs of opposite leaflets, elliptic to ovate-elliptic, somewhat falciform, acuminate, 4-20 cm long by 2-8.5 cm wide, glabrous, riddled with translucent points. Rachis glabrous 4-11 cm. Petiolules twisted, 3-4 mm long on the upper edge side, 1-2 mm on the lower side.
 
-Panicules terminales atteignant 25 cm de longueur, tomentées brun-jaune. Fleurs odorantes, blanches, courtement pédicellées (3-5 mm), tomenteuses extérieurement. Bractéoles ovales de 12 mm × 10 mm, tomenteuses extérieurement, glabres intérieurement. Sépales ovales de 6,5 mm de longueur sur 3-5 mm de largeur environ. Pétales 5 dont 4 filiformes de 3 mm; un grand de 17 mm de longueur, 6 mm de largeur, obové, à court onglet. Étamines 10 de ± 17 mm de longueur; 9 soudées à la base. Ovaire subsessile, velu, fauve, à 4-5 ovules.
+Terminal panicles reaching 25 cm long, brown-yellow tomentose. Flowers fragrant, white, shortly pedicellate (3-5 mm), tomentose externally. Bracteoles ovate 12 mm × 10 mm, tomentose externally, glabrous internally. Sepals ovate approximately 6.5 mm long by 3-5 mm wide. Petals 5, of which 4 filiform 3 mm; one large one 17 mm long, 6 mm wide, obovate, with short claw. Stamens 10 of ± 17 mm long; 9 fused at the base. Ovary subsessile, villous, tawny, with 4-5 ovules.
 
-Fortes gousses ligneuses, oblongues, plates, atteignant  $ 20 \times 8 $ cm, à forte suture dorsale formant un méplat de  $ 1,5 $ cm terminé de chaque côté par une crête, faiblement plissées en surface, contenant 1-3 grosses graines quadrangulaires de  $ 4-5 $ cm de côté.
+Strong woody pods, oblong, flat, reaching $ 20 \times 8 $ cm, with strong dorsal suture forming a flat edge of $ 1.5 $ cm terminated on each side by a ridge, weakly wrinkled in surface, containing 1-3 large quadrangular seeds $ 4-5 $ cm per side.
 
 ## Type
 
@@ -39,13 +37,11 @@ Seret 45, Yangambi, Congo (BR)
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Large tree furnished with high, slender buttresses. Bole straight, cylindrical. Bark smooth, marked with circular wrinkles, hard-edged, fibrous, reddish. Soft wood, dark brown veined which would be
 
-Grand arbre muni de contreforts élevés, minces. Fût droit, cylindrique. Écorce lisse, marquée de rides circulaires, de tranche dure, fibreuse, rougeâtre. Bois tendre, brun foncé veiné qui serait
+exported to South Africa under the Congolese commercial name Congo - zebra wood.
 
-exporté vers l'Afrique du Sud sous le nom congolais commercial de Congo - zebra wood.
-
-Espèce qui serait d'après de Saint-Aubin très rare au Gabon. Elle paraît plus commune dans le bas Cameroun. Elle est répandue depuis la Nigéria du sud, au Mayombé congolais, et au Congo.
+Species which would be according to de Saint-Aubin very rare in Gabon. It appears more common in lower Cameroon. It is distributed from southern Nigeria, to the Congolese Mayombé, and to Congo.
 
 ## Vernacular names
 

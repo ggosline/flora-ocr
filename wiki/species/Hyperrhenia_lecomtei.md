@@ -11,7 +11,7 @@ tags: [species, generated]
 ---
 # *Hyperrhenia lecomtei* (Rendle) Stapf.
 
-**Genus**: [[Hyperrhenia]]
+**Genus**: [[Hyparrhenia]]
 **Family**: [[Gramineae]]
 **Protologue**: STAPF, Fl. of Trop. Africa, IX : 361 (1919)
 
@@ -44,6 +44,6 @@ Koechlin : 4477, Tehibanga.
 
 ## See also
 
-- [[Hyperrhenia]]
+- [[Hyparrhenia]]
 - [[Gramineae]]
 - [[vol05]]

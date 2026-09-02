@@ -17,35 +17,25 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Suffrutex de 1 m de hauteur ; tige dressée ou retombante, cylindrique, mais triangulaire au sommet, à poils étalés, roux, assez longs et denses ; racine pivotante épaisse. Stipules ovales-lancéolées, 5–6 × 2 mm, à pubescence externe brune ou parfois roux-orangé, à marges ciliées. Feuille : pétiole 2–3 mm , velu ; folioles 3 , pétiolules 2–5 mm, limbe oblong-ellip tique, 1,2–6,5 × 0,3–2,5 cm, à base cunéée, à sommet obtus ou aigu, pubescent dessus, soyeux brun roussâtre dessous, les latérales obliques ; nervures latérales 6 à 9 de chaque côté pour la foliole terminale, 5 ou 6 pour les latérales, nervation subdigitée avec la nervure basale des folioles latérales atteignant ou dépassant la moitié de la longueur du limbe . Inflorescence axillaire et terminale, en racèmes globuliformes de 1,5–3 cm de diamètre et à plus de 10 fleurs ; pédoncule assez robuste, 4–8 mm , à poils brun-ferrugineux étalés ; bractées 3–5 × 1 Garden (©), reproduit avec permission.
-
-mm, velues. Fleur : pédicelle 2 mm ; calice bilabié, à poils longs jaunes et quelques glandes, tube 2–2,5 mm de longueur, à dents égales de 3–4,5 mm de longueur ; corolle jaune , étendard largement oblong, 5–8 × 3–3,5 mm, à sommet émarginé, à onglet de 1 mm, face externe pubescente et éparsement glanduleuse, auricules peu développées, sans gibbosités, ailes 6–8 mm de longueur, carène légèrement plus courte, pubescente et glanduleuse. Gousse obovoïde, 10–13 × 6–7 mm, à une rainure oblique à diagonale entre les 2 graines, à poils longs soyeux jaunes ou roux. Graine ellipsoïde, ± 4 × 3 ×2 mm, brune ou grise, tachetée de noir ; hile le long de la graine, blanc.
+Subshrub 1 m tall; stem erect or pendulous, cylindrical, but triangular at the apex, with spreading, reddish, fairly long and dense hairs; taproot thick. Stipules ovate-lanceolate, 5–6 × 2 mm, with brown or sometimes russet-orange external pubescence, with ciliate margins. Leaf: petiole 2–3 mm, hairy; leaflets 3, petiolules 2–5 mm, limb oblong-elliptic, 1.2–6.5 × 0.3–2.5 cm, with cuneate base, with obtuse or acute apex, pubescent above, silky brownish-russet below, the lateral ones oblique; lateral veins 6 to 9 on each side for the terminal leaflet, 5 or 6 for the lateral ones, venation subdigitate with the basal vein of the lateral leaflets reaching or exceeding half the length of the limb. Inflorescence axillary and terminal, in globuliform racemes 1.5–3 cm in diameter and with more than 10 flowers; peduncle fairly robust, 4–8 mm, with spreading ferruginous-brown hairs; bracts 3–5 × 1 mm, hairy. Flower: pedicel 2 mm; calyx bilabiate, with long yellow hairs and some glands, tube 2–2.5 mm long, with equal teeth 3–4.5 mm long; corolla yellow, standard broadly oblong, 5–8 × 3–3.5 mm, with emarginate apex, with claw 1 mm, outer face pubescent and sparsely glandular, auricles poorly developed, without gibbosities, wings 6–8 mm long, keel slightly shorter, pubescent and glandular. Pod obovoid, 10–13 × 6–7 mm, with an oblique to diagonal furrow between the 2 seeds, with long silky yellow or russet hairs. Seed ellipsoid, ± 4 × 3 × 2 mm, brown or grey, spotted with black; hilum along the seed, white.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Tropical Africa; in Gabon, known from Estuaire and Ogooué-Maritime
 
-Afrique tropicale ; au Gabon, connue de l’Estuaire et de l’Ogooué-Maritime
-
-Afrique tropicale ; au Gabon, connue de l’Estuaire, du Moyen-Ogooué, de la Nyanga et de l’Ogooué-Maritime
+Tropical Africa; in Gabon, known from Estuaire, Moyen-Ogooué, Nyanga and Ogooué-Maritime
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+herbaceous and saxicolous savannas, roadsides, bush; in Gabon at 10–120 m altitude, elsewhere up to 1500 m. Flowering after fires, in January and February, September and October. Uses: In the Democratic Republic of the Congo, the leaves are consumed as a vegetable. In cases of pneumonia, the leaves chewed with chilli are rejected onto scarifications made on the chest.
 
-savanes herbacées et saxicoles, bords de route, brousse ; au Gabon à 10–120 m d’altitude, ailleurs jusqu’à 1500 m. Floraison après les feux, en janvier et février, septembre et octobre. Usage : En République démocratique du Congo, les feuilles sont consommées comme légume. En cas de pneumonie, les feuilles mastiquées avec du piment, sont rejetées sur des scarifications faites sur la poitrine
-
-végétation ouverte, savane sableuse, latéritique, steppe brûlée ; au Gabon à 0–100 m d’altitude, ailleurs jusqu’à 1000 m
+open vegetation, sandy savanna, lateritic, burned steppe; in Gabon at 0–100 m altitude, elsewhere up to 1000 m.
 
 ## Source note
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+See under var. elongatum. b: De la Estrella et al. (2010), Ern (1984), Hauman (1954c), Hepper (1958), van der Maesen (2006a), van der Maesen & Wieringa (2012), Pellegrin (1949), Raponda-Walker & Sillans (1961), Verdcourt (1971c), Watt & Breyer-Brandwijk (1962). var. elongatum (Baill.) Baker Fl. trop. Afr. 2: 229 (1871). E. elongatum Baill., Adansonia 6: 227 (1866). Like var. glomeratum, but with pauciflorous inflorescence (fewer than 10 flowers), slender peduncle 1–2.5 cm and pennate venation.
 
-Voir sous var. elongatum . b : De la Estrella et al. (2010), Ern (1984), Hauman (1954c), Hepper (1958), van der Maesen ibliographie (2006a), van der Maesen & Wieringa (2012), Pellegrin (1949), Raponda-Walker & Sillans (1961), Verd court (1971c), Watt & Breyer-Brandwijk (1962). var. elongatum (Baill.) Baker Fl. trop. Afr. 2 : 229 (1871). E. elongatum Baill., Adansonia 6 : 227 (1866). Comme la var. glomeratum , mais à inflorescence pauciflore (moins de 10 fleurs), pédoncule grêle de 1–2,5 cm et nervation pennée
-
-Elle n’est pas toujours bien distincte de la var. glomeratum et n’est pas toujours reconnue comme taxon distinct. Hepper (1958) mentionne E. glomeratum comme une espèce très variable, sans s’occuper des variétés (sauf la var. laurentii (De Wild.) Baker f., reconnue comme espèce par van der Maesen & Wieringa (2012)) ; mais pour le Gabon, les 2 variétés sont bien distinctes. b : Hauman (1954c), van der Maesen & Wieringa (2012). ibliographie
+It is not always well distinguished from var. glomeratum and is not always recognized as a distinct taxon. Hepper (1958) mentions E. glomeratum as a highly variable species, not dealing with varieties (except var. laurentii (De Wild.) Baker f., recognized as a species by van der Maesen & Wieringa (2012)); but for Gabon, the 2 varieties are well distinct. b: Hauman (1954c), van der Maesen & Wieringa (2012).
 
 ## Notes
 

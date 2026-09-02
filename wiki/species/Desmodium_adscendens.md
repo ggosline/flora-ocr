@@ -17,29 +17,23 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Herbe vivace ; tige atteignant 1 m, rampante , s’enracinant aux nœuds ; indument pubescent, à poils courts, droits. Stipules obliques, ovales-atténuées, 7–10 mm de longueur, légèrement auriculées à la base, éparsement poilues. Feuille : pétiole 1–3 cm ; folioles 3 , à limbe obovale à subrhomboïdal, 2–3(–5,5) × 1,5–2,5(–3) cm, base ± cunéée, sommet souvent émarginé, très éparsement apprimé-poilu dessus, argenté et apprimé-poilu dessous . Inflorescence en racèmes lâches , dépassant largement les feuilles ; rachis anguleux, strié, éparsement poilu ; bractées ovales, 3,5–5 mm de longueur, à sommet longuement atténué, pubérulentes à glabrescentes. Fleur : pédicelle grêle, 7,5–16 mm, pubérulent à poils droits et uncinés ; calice 2,5–3 mm de longueur, pubérulent, rouge-violet foncé, lobes 1,5–2 mm de longueur ; corolle jusqu’à 6 mm de longueur, souvent bicolore, pourpre et blanche , rougeâtre ou violette , étendard souvent avec 2 taches basales blanches et à marge pourpre foncée. Gousse à suture ventrale nettement échancrée entre les 3 à 6 articles semi-elliptiques de 3,5–5,5 × 2,5–3 mm, suture dorsale droite ou peu échancrée . Graine oblongue, ± 4 × 2,5 × 1 mm, brun-ocre ; hile central.
+Perennial herb; stem reaching 1 m, creeping, rooting at the nodes; indument pubescent, with short, straight hairs. Stipules oblique, ovate-attenuate, 7–10 mm long, slightly auriculate at the base, sparsely hairy. Leaf: petiole 1–3 cm; leaflets 3, with obovate to subrhomboidal blade, 2–3(–5.5) × 1.5–2.5(–3) cm, base ± cuneate, apex often emarginate, very sparsely appressed-hairy above, silvery and appressed-hairy below. Inflorescence in loose racemes, far exceeding the leaves; rachis angular, striated, sparsely hairy; bracts ovate, 3.5–5 mm long, with apex long-attenuate, puberulent to glabrescent. Flower: pedicel slender, 7.5–16 mm, puberulent with straight and uncinate hairs; calyx 2.5–3 mm long, puberulent, dark red-violet, lobes 1.5–2 mm long; corolla up to 6 mm long, often bicolour, purple and white, reddish or violet, standard often with 2 white basal spots and dark purple margin. Pod with ventral suture distinctly notched between 3 to 6 semi-elliptic articles 3.5–5.5 × 2.5–3 mm, dorsal suture straight or slightly notched. Seed oblong, ± 4 × 2.5 × 1 mm, brown-ochre; hilum central.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Tropical Africa and South America, introduced in tropical Asia; in Gabon, known from Estuaire, Haut-Ogooué, Ngounié, Nyanga, Moyen-Ogooué, Ogooué-Ivindo, Ogooué-Maritime and Woleu-Ntem
 
-Afrique tropicale et Amérique du Sud, introduite en Asie tropicale ; au Gabon, connue de l’Estuaire, du Haut-Ogooué, de la Ngounié, de la Nyanga, du Moyen-Ogooué, de l’Ogooué-Ivindo, de l’Ogooué-Maritime et du Woleu-Ntem
-
-Afrique tropicale ; au Gabon, connue de l’Ogooué-Ivindo
+Tropical Africa; in Gabon, known from Ogooué-Ivindo
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Humid, swampy places, shaded, rocky slabs and savannas; in Gabon at 5–620 m altitude, elsewhere up to 1500 m. Uses: This species is used as green manure and cover crop. It has also been used to treat diarrhoea, to close the fontanelle in babies or as an ingredient in a cream to treat fever in children. The leaves are consumed to combat infertility in women
 
-endroits humides, marécageux, ombragées, dalles rocheuses et savanes ; au Gabon à 5–620 m d’altitude, ailleurs jusqu’à 1500 m. Usage : Cette espèce est utilisée comme engrais vert et plante de couverture. Elle a également été utilisée pour traiter la diarrhée, pour fermer la fontanelle des bébés ou comme ingrédient d’une crème pour traiter la fièvre des enfants. Les feuilles sont consommées à combattre l’infertilité des femmes
+Like var. adscendens, but more often in shaded places; in Gabon at 900 m altitude, elsewhere up to 2100 m
 
-Comme la var. adscendens , mais plus souvent dans des endroits ombragés ; au Gabon à 900 m d’altitude, ailleurs jusqu’à 2100 m
+PROSEA Foundation (©), reproduced with permission from Setyowati-Indarto & Brink (1999a).
 
-PROSEA Foundation (©), reproduit avec permission à partir de Setyowati-Indarto & Brink (1999a).
-
-Usage : Utilisée comme engrais vert et plante de couverture. b : Ern (1984), Hepper (1958), van der Maesen (2006a), Schubert (1954, 1971). ibliographie
+Uses: Used as green manure and cover crop. b: Ern (1984), Hepper (1958), van der Maesen (2006a), Schubert (1954, 1971). ibliography
 
 ## Vernacular names
 

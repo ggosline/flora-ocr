@@ -17,21 +17,15 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Pl. Ecol. Evol. 144(1) : 103 (2011). Herbe érigée, 25–50 cm de hauteur, à tubercule allongée vertical ; glandes petites, noires sur les folioles dessous, jaunes sur le calice ; tiges grêles, ± 1 mm de diamètre, longuement poilues, souvent à poils tuberculés à la base, glabrescentes. Stipules caduques, lancéolées, 4–9 × 1 mm. Feuille : p é tiole 3–6 mm , à poils obliquement inclinés ; rachis ± 1 mm ; stipelles absentes ; folioles 1 ou parfois 2 ou 3 , pétiolules 1–1,5 mm, à pubescence brun foncé, limbe lin é aire, 7–10 cm × 4–8 mm , à base cunéée à arrondie, à sommet aigu à arrondi et mucronulé, vert, légèrement bullé et à pubescence éparse dessus, vert-gris et à pubescence grisâtre dessous ; nervure centrale et latérales saillantes dessous . Inflorescence axillaire, rac é miforme, 1–4 cm de longueur, avec (1–)2 à 4(–6) fleurs ; bractées étroitement ovales, ± 4 mm longueur, striées et poilues. Fleur : bractéoles orbiculaires à ovales, 3–6 × 2–5 mm, atténuées, à pubescence dense brune et apprimée, nervure centrale saillante ; calice à tube de 2 mm de longueur, lobes lancéolés-atténués, 3–4 mm de longueur ; corolle à étendard obovale, ± 7 × 5 mm, face externe pubérulente, à onglet de 2 mm, face interne rouge à jaune striée de rouge , ailes étroitement obovales, ± 6 × 2 mm, jaunes , auriculées à la base, onglet 1,5 mm, pétales de la carène adnés vers le sommet, ± 5 × 2,5 mm, jaunes , onglet 2 mm ; étamines blanches, filaments soudés en tube de 4 mm de longueur, anthères allongés ; ovaire ovale, 3–4 × 1,5–2 mm, à pubescence longue, à 2 ovules ; style 3 mm, glabre ou presque. Gousse elliptique - oblongue , 14–17 × 6–8 mm, atténuée aux deux bouts, à pubescence longue grise. Graine ellipsoïde, ± 6 × 4 × 3 mm, blanc-crème à l’état jeune ; hile oblique, aussi long que la graine.
+Pl. Ecol. Evol. 144(1): 103 (2011). Erect herb, 25–50 cm tall, with a vertically elongate tuber; small glands, black on the leaflet undersides, yellow on the calyx; stems slender, ± 1 mm in diameter, long-pilose, often with tubercled hairs at the base, glabrescent. Stipules caducous, lanceolate, 4–9 × 1 mm. Leaf: petiole 3–6 mm, with obliquely inclined hairs; rachis ± 1 mm; stipels absent; leaflets 1 or sometimes 2 or 3, petiolules 1–1.5 mm, with dark brown pubescence, blade linear, 7–10 cm × 4–8 mm, with cuneate to rounded base, acute to rounded and mucronate apex, green, slightly bullate and with sparse pubescence above, grey-green and with greyish pubescence below; central and lateral veins prominent below. Inflorescence axillary, racemiform, 1–4 cm long, with (1–)2 to 4(–6) flowers; bracts narrowly ovate, ± 4 mm long, striate and pilose. Flower: bracteoles orbicular to ovate, 3–6 × 2–5 mm, attenuate, with dense appressed brown pubescence, central vein prominent; calyx with tube 2 mm long, lobes lanceolate-attenuate, 3–4 mm long; corolla with standard obovate, ± 7 × 5 mm, outer surface puberulent, claw 2 mm, inner surface red or yellow streaked with red, wings narrowly obovate, ± 6 × 2 mm, yellow, auriculate at the base, claw 1.5 mm, keel petals adnate toward the apex, ± 5 × 2.5 mm, yellow, claw 2 mm; stamens white, filaments fused into a tube 4 mm long, anthers elongate; ovary ovate, 3–4 × 1.5–2 mm, with long pubescence, 2-ovulate; style 3 mm, glabrous or nearly so. Pod elliptic-oblong, 14–17 × 6–8 mm, attenuate at both ends, with long grey pubescence. Seed ellipsoid, ± 6 × 4 × 3 mm, cream-white when young; hilum oblique, as long as the seed.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Gabon et République du Congo ; au Gabon, limitée aux Plateaux Batéké (province du Haut-Ogooué)
+Gabon and Republic of Congo; in Gabon, restricted to the Batéké Plateaus (Haut-Ogooué province)
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-sur sables de Kalahari ; à 400–600 m d’altitude. Fleurs et fruits en mai, juillet, octobre et décembre. b : van der Maesen & Walters (2011). ibliographie
+on Kalahari sands; at 400–600 m altitude. Flowers and fruits in May, July, October and December. b: van der Maesen & Walters (2011). Bibliography
 
 ## Notes
 

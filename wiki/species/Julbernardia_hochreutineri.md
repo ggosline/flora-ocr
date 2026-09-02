@@ -17,11 +17,9 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Trees. Leaves with 4 pairs of opposite leaflets, oblong somewhat falciform, asymmetrical at the base, attenuate into a short obtuse acumen, coriaceous, glabrous, riddled with translucent dots, 8-19 × 3-6.5 cm, shortly petiolulate. Midvein prominent on both surfaces. Secondary veins, about ten pairs forming with the veinlets a finely prominent network above and below. Rachis 12-15 cm. Petioles, approximately 5 mm, twisted and articulate at the insertion on the rachis.
 
-Arbres. Feuilles à 4 paires de folioles opposées, oblongues un peu falciformes, dissymétriques à la base, atténuées en un court acumen obtus, coriaces, glabres, criblées de points translucides, de 8-19 × 3-6,5 cm, courtement pétiolulées. Nervure médiane saillante sur les 2 faces. Nervures secondaires, une dizaine de paires formant avec les nervilles un réseau finement saillant dessus et dessous. Rachis de 12-15 cm. Pétioles, environ 5 mm, tordus et articulés à l'insertion sur le rachis.
-
-Panicles terminales ou axillaires, tomenteuses, rousses, densément fleuries. Fleurs longuement pédicellées (2-3 cm). Bractées de 5 mm, très caduques. Bractéoles 2, valvaires, coriaces, suborbiculaires, veloutées soyeuses sur les 2 faces, carénées extérieurement, environ 12 × 10 mm. Calice, 5 sépales libres, subégaux, elliptiques, glabres ou glabrescents, à marges ciliées, longs de 8 mm environ. Un grand pétale de 9 mm à limbe subtriangulaire, un peu auriculé, brusquement réduit en un onglet de 3 mm en gouttière. 4 pétales réduits à des dents de 5-6 mm. Étamines 10, dont 1 libre, les 9 autres un peu soudées à la base. Anthères dorsifixes, versatiles. Ovaire sessile, velu. Fruit inconnu.
+Terminal or axillary panicles, tomentose, russet, densely flowered. Flowers long-pedicellate (2-3 cm). Bracts 5 mm, very caducous. Bracteoles 2, valvate, coriaceous, suborbicular, velvety silky on both surfaces, keeled externally, approximately 12 × 10 mm. Calyx, 5 free sepals, subequal, elliptic, glabrous or glabrescent, with ciliate margins, approximately 8 mm long. One large petal 9 mm with subtriangular limb, somewhat auriculate, abruptly reduced to a 3 mm channelled claw. 4 petals reduced to teeth 5-6 mm. Stamens 10, of which 1 free, the 9 others somewhat connate at the base. Anthers dorsifixed, versatile. Ovary sessile, villous. Fruit unknown.
 
 ## Type
 
@@ -29,9 +27,7 @@ Le Testu 7184, Gabon (P)
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Espèce gabonaise peu connue.
+Gabon species little known.
 
 ## Specimens examined
 

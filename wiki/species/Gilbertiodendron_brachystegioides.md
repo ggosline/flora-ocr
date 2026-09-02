@@ -21,13 +21,11 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Trees. Leaves 6–9 jugate. Rachis 10–20 cm, pubescent then glabrous. Large foliaceous stipules reniform, approximately 2 cm in diameter, persistent. Leaflets oblong to lanceolate, with acuminate apex, obtusely or acutely so, with obtuse base, at first slightly pubescent beneath then glabrous, 2–7.5 cm long by 1.3–3.5 cm wide. Petiolules short, 2–3 mm, pubescent then glabrous.
 
-Arbres. Feuilles 6-9 juguées. Rachis de 10-20 cm, pubescent puis glabre. Grandes stipules foliacées réniformes, de 2 cm de diamètre environ, persistantes. Folioles oblongues à lancéolées, à sommet acuminé, obtusément ou aigu, à base obtuse, d'abord un peu pubescentes dessous puis glabres, de 2-7,5 cm de longueur sur 1,3-3,5 cm de largeur. Pétioules courts, de 2-3 mm, pubescentes puis glabres.
+Panicles axillary or terminal, very densely branched and flowered, dark brown pubescent. Pedicels 12–18 mm. Bracteoles 5–5.5 mm, ovate suborbicular, brown pubescent. Sepals 5, ca. 3 mm, lanceolate acute. One large petal, with bilobed limb, with broad glabrous claw. Fertile stamens 3, glabrous; staminodes present. Ovary hirsute.
 
-Panicules axillaires ou terminales, très densément ramifiées et fleuries, velues brun foncé. Pédicelles de 12-18 mm. Bractéoles de 5-5,5 mm, ovées suborbiculaires, velues brunes. Sépales 5, d'env. 3 mm, lancéolés aigus. Un grand pétale, à limbe bilobé, à onglet large et glabre. Étamines fertiles 3, glabres; des staminodes. Ovaire hirsute.
-
-Gousse ligneuse à 2 nervures longitudinales saillantes.
+Legume woody with 2 prominent longitudinal nerves.
 
 ## Type
 
@@ -35,17 +33,15 @@ Zenker 3315, Cameroun (isotype P)
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+The fruit of no. Letouzey 1462 from Cameroon, illustrated in "Ekop du Cameroun" has 3 nerves. That photographed by de Saint Aubin (Forest of Gabon) has only 2 nerves. The same is true of the young fruit of no. Groulez 1109 from Gabon. Nevertheless all these numbers appear to belong well to the species G. brachystegioides typified by no. 3315 of Zenker.
 
-Le fruit du n° Letouzey 1462 du Cameroun, dessiné dans « Ekop du Cameroun » a 3 nervures. Celui photographié par de Saint Aubin (Forêt du Gabon) n'a que 2 nervures. Il en est de même du jeune fruit du n° Groulez 1109 du Gabon. Cependant tous ces numéros semblent bien se rapporter à l'espèce G. brachystegioides typifiée par le n° 3315 de Zenker.
+G. brachystegioides is very close to G. ogoouensis. These are two species generally with numerous small leaflets and persistent reniform stipules, with very condensed inflorescences. The most notable differences are found in the pubescence of the inflorescences, densely dark brown pubescent in typical brachystegioides, rusty yellowish tomentose in G. ogoouensis. The number of longitudinal nerves of the fruit, 2 in the first,
 
-Le G. brachystegioides est très proche du G. ogoouensis. Ce sont deux espèces généralement à nombreuses petites folioles et à stipules réniformes persistantes, à inflorescences très condensées. Les différences les plus sensibles se trouvent dans la pubescence des inflorescences, densément velue brune chez le type brachystegioides, tomenteuse roux jaunâtre chez G. ogoouensis. Le nombre des nervures longitudinales du fruit, 2 chez le premier,
+3 in the second, could establish a distinction, but based on available material there remains doubt about the validity of a distinction based on this number of nerves. The classification of this group of Gilbertiodendron with small leaflets therefore lacks a definitive character.
 
-3 chez le second, pourrait établir une séparation, mais d'après le matériel disponible il subsiste un doute sur la validité d'une distinction fondée sur ce nombre de nervures. La classification de ce groupe de Gilbertiodendron à petites folioles n'a donc pas un caractère définitif.
+According to de Saint Aubin and Letouzey the species is a large tree, without buttresses, with straight bole. Bark apparently smooth, exfoliating in very fine irregular leafy scales. Fractured surface fibrous, reddish in colour.
 
-D'après de Saint Aubin et Letouzey l'espèce est un grand arbre, sans contrefort, à fût droit. Écorce apparemment lisse, s'exfoliant en très fines écailles feuilletées irrégulières. Tranche fibreuse, de couleur rougeâtre.
-
-Elle se présente en petits peuplements. Elle n'est connue que du Cameroun et du Gabon. Letouzey écrit que l'arbre, à l'abattage dégage une odeur assez fétide.
+It occurs in small stands. It is known only from Cameroon and Gabon. Letouzey writes that the tree, upon felling gives off a rather fetid odour.
 
 ## Vernacular names
 

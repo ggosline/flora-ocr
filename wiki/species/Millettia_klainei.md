@@ -17,21 +17,15 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Liane , à tige jusqu’à 6 m ; ramilles brunes, lenticellées, scabres . Stipules caduques. Feuille : pétiole 3–6 cm ; rachis 5–14 cm ; stipelles nulles ; folioles (9–)11 , pétiolule 2–3 mm, limbe lancéolé, 5–11 × 1–3,5 cm, base arrondie à cunéée, acumen 1–2 cm, glabre dessus, densément soyeux doré, brillant dessous ; nervures latérales en 10 à 12 paires, fines, non-saillantes . Inflorescence terminale et axillaire, en panicule de ± 25 cm de longueur ; ramilles 2–4 cm ; bractées caduques, ovales, 1–1,3 × 1 mm, soyeuses. Fleur 9–10 mm de longueur ; pédicelle jusqu’à 2 mm, soyeux ; bractéoles à la base du calice, suborbiculaires, 1–1,3 mm de longueur ; calice pubescent, à tube de ± 3 mm de longueur, lobes 2–5 mm, les supérieurs obtus, les autres aigus ; corolle blanche , étendard à onglet de ± 2 mm, limbe orbiculaire, calleux, 9–10,5 × 9 mm, auricules uncinés, ailes à onglet de 2,5–3 mm, limbe elliptique, 10–12 × 2,5–3 mm, auriculé, carène à onglet de 3,5–4 mm, limbe oblong, 11–13 × 4–4,5 mm, appendice unciné ; étamines 8–12 mm de longueur dont la partie libre de 1–4 mm, la vexillaire libre à la base ; ovaire lancéolé, 4–4,5 mm de longueur, soyeux, à 4 ou 5 ovules ; style 10–12 mm, pubescent dans la partie inférieure. Gousse linéaire-lancéolée , 15 × 1,7 cm , à 4 ou 5 graines, ligneuse, veloutée, fauve. Graine aplatie, orbiculaire.
+Climbing plant with stems up to 6 m; branchlets brown, lenticellate, scabrous. Stipules caducous. Leaf: petiole 3–6 cm; rachis 5–14 cm; stipels absent; leaflets (9–)11, petiolule 2–3 mm, blade lanceolate, 5–11 × 1–3.5 cm, base rounded to cuneate, acumen 1–2 cm, glabrous above, densely golden silky, lustrous below; lateral nerves in 10 to 12 pairs, fine, not prominent. Inflorescence terminal and axillary, in panicle of ± 25 cm length; branchlets 2–4 cm; bracts caducous, ovate, 1–1.3 × 1 mm, silky. Flower 9–10 mm length; pedicel up to 2 mm, silky; bracteoles at the base of calyx, suborbicular, 1–1.3 mm length; calyx pubescent, with tube of ± 3 mm length, lobes 2–5 mm, the upper ones obtuse, the others acute; corolla white, standard with claw of ± 2 mm, limb orbicular, callous, 9–10.5 × 9 mm, auricles uncinate, wings with claw of 2.5–3 mm, limb elliptic, 10–12 × 2.5–3 mm, auriculate, keel with claw of 3.5–4 mm, limb oblong, 11–13 × 4–4.5 mm, appendage uncinate; stamens 8–12 mm length with the free part of 1–4 mm, the vexillary one free at the base; ovary lanceolate, 4–4.5 mm length, silky, with 4 or 5 ovules; style 10–12 mm, pubescent in the lower part. Pod linear-lanceolate, 15 × 1.7 cm, with 4 or 5 seeds, woody, velvety, tawny. Seed flattened, orbicular.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-endémique du Gabon, connue de l’Estuaire, de l’Ogooué-Lolo et de l’Ogooué-Maritime
+endemic to Gabon, known from Estuaire, Ogooué-Lolo and Ogooué-Maritime
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-forêt humide, à basse altitude. Fleurs en février et mars, fruits en mars. b : Pellegrin (1949), Raponda-Walker & Sillans (1961). ibliographie
+humid forest, at low altitude. Flowers in February and March, fruits in March. b: Pellegrin (1949), Raponda-Walker & Sillans (1961). Bibliography
 
 ## Notes
 

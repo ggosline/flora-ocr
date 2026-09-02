@@ -17,27 +17,19 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Liane ; tige rubanée, atteignant 20 m de longueur, 20 cm de largeur et 3 cm d’épaisseur, à pubescence brune-étalée à courtement vélutineuse ; exsudat rougeâtre. Stipules caduques, ovales, 10–14 × 2–3 mm, peltées , à pubescence dense à l’extérieur, pubescente à l’intérieur, avec 6 à 8 nervures. Feuille : pétiole 6–12 cm ; rachis 6–14 cm ; stipelles 2–3 mm ; folioles 7 à 9(–11) , à pétiolule de 5–8 mm, limbe elliptique à obovale, 5–16 × 3–6,5 cm, base atténuée à arrondie, sommet acuminé, glabre dessus, lâchement et courtement poilu dessous ; nervures latérales en 8 à 10 paires. Inflorescence souvent robuste, en pseudopanicule ou pseudoracème de 45 × 25 cm ; pédoncule 3–7 cm ; rameaux 10–25 cm, brunes-tomenteuses ; bra chyblastes 2–6 mm de longueur, avec 3 à 6 fleurs ; bractées ovales, 3–7 × 1,5–3 mm, parfois peltées. Fleur : pédicelle 5–7 mm ; bractéoles 4–6 × 1 mm ; calice 10–15 mm de longueur dont 4–5 mm pour le tube, lobes supérieurs réunis, sauf pour 1 mm au sommet, autres lobes linéaires, aigus, 6–10 × 3–6 mm ; corolle 2–2,5 cm de longueur, pétales pourpres, rouges ou vieux rose , leur base à tache olive , étendard à limbe de 13 × 16 mm, auriculé et gibbeux, à > 20 stries radiales blanchâtres, onglet 3,5 mm, ailes à limbe obovale, 14–20 × 5–7 mm, auricule ± 2 mm, poche latérale peu visible, onglet 4–5 mm, carène à limbe elliptique-falqué, 11–17 × 5–8 mm, auriculé, onglet 5–5,5(–8) mm ; étamines diadelphes (9 + 1), filets à tube de 13–16 mm, partie libre 3–9 mm ; disque strié, à 10 lobes ; ovaire 13–15 mm de longueur, à pubescence dense et longue, peu étalée, stipe 0,5–1 mm, ovules 8 ; style 6–10 mm, pubescent sauf pour 1–2 mm au sommet. Gousse oblongue, 4–14,5 × 1,4–2,5 cm , base atténuée à arron die, sommet pointu, valves un peu torsadées, brunes-tomenteuses. Graine aplatie, ellipsoïde à globuleuse, 1–1,3 × 0,7–1 cm, lisse ; hile ± 1 mm de longueur.
+Liane; stem ribbon-like, reaching 20 m in length, 20 cm in width and 3 cm in thickness, with brown spreading to shortly velutinous pubescence; reddish exudate. Stipules caducous, ovate, 10–14 × 2–3 mm, peltate, with dense pubescence on the outside, pubescent on the inside, with 6 to 8 nerves. Leaf: petiole 6–12 cm; rachis 6–14 cm; stipels 2–3 mm; leaflets 7 to 9(–11), with petiolule 5–8 mm, blade elliptic to obovate, 5–16 × 3–6.5 cm, base attenuate to rounded, apex acuminate, glabrous above, loosely and shortly hairy below; lateral nerves in 8 to 10 pairs. Inflorescence often robust, in pseudopanicle or pseudoraceme 45 × 25 cm; peduncle 3–7 cm; branches 10–25 cm, brown-tomentose; brachyblasts 2–6 mm in length, with 3 to 6 flowers; bracts ovate, 3–7 × 1.5–3 mm, sometimes peltate. Flower: pedicel 5–7 mm; bracteoles 4–6 × 1 mm; calyx 10–15 mm in length of which 4–5 mm for the tube, upper lobes united except for 1 mm at the apex, other lobes linear, acute, 6–10 × 3–6 mm; corolla 2–2.5 cm in length, petals purple, red or old rose, their base with olive patch, standard with limb 13 × 16 mm, auriculate and gibbous, with > 20 whitish radial striae, claw 3.5 mm, wings with obovate limb, 14–20 × 5–7 mm, auricle ± 2 mm, lateral pocket scarcely visible, claw 4–5 mm, keel with elliptic-falcate limb, 11–17 × 5–8 mm, auriculate, claw 5–5.5(–8) mm; stamens diadelphous (9 + 1), filaments with tube 13–16 mm, free part 3–9 mm; disk striated, with 10 lobes; ovary 13–15 mm in length, with dense and long pubescence, slightly spreading, stipe 0.5–1 mm, ovules 8; style 6–10 mm, pubescent except for 1–2 mm at the apex. Pod oblong, 4–14.5 × 1.4–2.5 cm, base attenuate to rounded, apex pointed, valves somewhat twisted, brown-tomentose. Seed flattened, ellipsoid to globose, 1–1.3 × 0.7–1 cm, smooth; hilum ± 1 mm in length.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Gabon et République démocratique du Congo ; au Gabon, connue seulement de l’OgoouéIvindo
+Gabon and Democratic Republic of the Congo; in Gabon, known only from the Ogooué-Ivindo
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-forêt secondaire ; à 250 m d’altitude. Fruits en octobre
+secondary forest; at 250 m altitude. Fruits in October
 
 ## Source note
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-En Tanzanie, une espèce très avoisinante a été décrite : M. puguensis Gillett, mais son statut taxonomique reste à vérifier. b : Gillett (1971), Hauman (1954a). ibliographie
+In Tanzania, a very closely related species was described: M. puguensis Gillett, but its taxonomic status remains to be verified. b: Gillett (1971), Hauman (1954a). ibliography
 
 ## Notes
 

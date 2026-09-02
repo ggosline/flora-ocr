@@ -17,13 +17,11 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Trees. Leaves with 9-13 alternate leaflets. Rachis up to 25 cm in length. Leaflets ovate or oblong-ovate, or ovate-lanceolate, with rounded or obtuse base, acuminate, 5.5-10.5 cm in length by 3-4.5 cm in width, glabrous or slightly appressed-pubescent beneath. Approximately 7 pairs of fine, weakly marked secondary veins. Petiolules 4-7 mm, finely pubescent.
 
-Arbres. Feuilles à 9-13 folioles alternes. Rachis jusqu'à 25 cm de longueur. Folioles ovées ou ovées oblongues, ou ovées lancéolées, à base arrondie ou obtuse, acuminées, de 5,5-10,5 cm de longueur sur 3-4,5 cm de largeur, glabres ou légèrement pubes-centes apprimées dessous. Environ 7 paires de fines nervures secondaires peu marquées. Pétiolules, 4-7 mm, finement pubescents.
+Flowers grouped 1-4 along pendulous axillary racemes, reaching 30 cm in length. Long-pedicellate (1-2 cm). Buds globose. Calyx very finely tomentose, entire, then splitting into 3-4 irregular segments. A single large whitish-pink petal, with ovate blade, densely velutinous externally, approximately 23 mm in length by 15 mm in width. Stamens very numerous, inserted around the gynophore, of unequal length, the inner ones shorter than the outer, 5-15 mm in length, glabrous. Ovary linear incurved, glabrous, long-stipitate.
 
-Fleurs groupées par 1-4 le long de racèmes axillaires pendant, atteignant 30 cm de longueur. Longuement pédicellées (1-2 cm). Boutons globuleux. Calice très finement tomenteux, entier, puis se fendant en 3-4 segments irréguliers. Un seul grand pétale blanc rosé, à lame ovale, densément velue extérieurement, long de 23 mm environ sur 15 mm de largeur. Étamines très nombreuses, insé- rées autour du gynophore, de longueur inégale, les plus internes plus courtes que les externes, de 5-15 mm de longueur, glabres. Ovaire linéaire incurvé, glabre, longuement stipité.
-
-Longues gousses noires à surface vernissée, cylindriques, un peu toruleuses, longues ordinairement de 8-30 cm parfois plus, larges de 1,5-2 cm, indéhiscentes. Graines nombreuses.
+Long black pods with varnished surface, cylindrical, somewhat torulose, ordinarily 8-30 cm in length sometimes more, 1.5-2 cm in width, indehiscent. Seeds numerous.
 
 ## Vernacular names
 
@@ -37,25 +35,21 @@ Klaine 256, Gabon (P)
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Medium-sized tree of dense humid forests from Côte d'Ivoire to the Mayombé. In Gabon the species is very scattered in the primary forests. Bole neither very straight nor well cylindrical, somewhat swollen and fluted at the base. Bark scaly, exfoliating in irregular plates, yellowish. Exposed wood fibrous, yellowish. Wood red, hard and heavy, darkening in light.
 
-Arbre de taille moyenne, des forêts denses humides depuis le Côte d'Ivoire jusqu'au Mayombé. Au Gabon l'espèce est très disséminée dans les forêts primitives. Fût ni très droit, ni bien
+GABONESE MATERIAL STUDIED
 
-cylindrique, un peu épaissi et cannelé à la base. Écorce écailleuse, s'exfoliant par plaques irrégulières, jaunâtre. Tranche fibreuse, jaunâtre. Bois rouge, dur et lourd, fonçant à la lumière.
+du Boislouveau: 1037, Noya.
 
-Matériel GABONAIS ÉTUDIÉ
+Gaucheotte: 1155, lac Oguémoué.
 
-du Boislouveau : 1037, Noya.
+Klaine: 236 (fl. et fr. Dec. et Jan.), 256 (fl. et fr. July), 491 (fr. Dec.), Libreville.
 
-Gaucheotte : 1155, lae Oguémoué.
+Le Testu: 8648, Boucimbi (fl. Dec.); 8983, Oyem (fl. Feb.); 9188, Oyem (fl. July).
 
-Klaine : 236 (fl. et fr. déc. et janv.), 256 (fl. et fr. juill.), 491 (fr. déc.), Libreville.
+Pobéguin: 35 bis, lac Onangué (fr. May).
 
-Le Testu : 8648, Boucimbi (fl. déc.); 8983, Oyem (fl. fév.); 9188, Oyem (fl. juill.).
-
-Pobéguin : 35 bis, lac Onangué (fr. mai).
-
-Walker : 8, Mouila (fl. et fr. mai).
+Walker: 8, Mouila (fl. et fr. May).
 
 ## Figures
 

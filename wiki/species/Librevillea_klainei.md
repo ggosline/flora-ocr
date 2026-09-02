@@ -21,15 +21,13 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 Ngaba (Pl. 71, p. 285)
 
-Arbres. Stipules intrapétiolaires. Feuilles à 3-6 folioles ovées-oblongues ou lancéolées, à sommet atténué, acuminé, à base obtuse ou arrondie, un peu falciformes, glabres, coriaces, longues de 5-10 cm, larges de 2-3 cm. Nervure médiane déprimée dessus, saillante dessous. Nervures secondaires peu marquées et peu distinctes d'un réseau fin et net de veinules. Pétiolules de 3-4 mm. Rachis de 3-8 cm.
+Trees. Stipules intrapetiolary. Leaves with 3-6 ovate-oblong or lanceolate leaflets, with attenuate, acuminate apex, obtuse or rounded base, somewhat falciform, glabrous, coriaceous, 5-10 cm long, 2-3 cm wide. Midvein depressed above, prominent below. Secondary veins poorly marked and scarcely distinct from a fine and neat network of veinlets. Petiolules 3-4 mm. Rachis 3-8 cm.
 
-Panicules terminales, assez lâches, à ramifications pubes-centes de 3-5 cm. Pédicelles grêles pubérulents, de 5-10 mm. Bractéoles valvaires, ovées, suborbiculaires, longues de 3-3,5 mm, pubérulentes. Réceptacle court, cupuliforme. Périanthe rudimentaire avec (1-) 2 tépales de 2-3 mm. Étamines 10, à filets filiformes soudés à la base. Ovaire courtement stipité, velu; ovules 2-3.
+Terminal panicles, fairly lax, with pubescent ramifications 3-5 cm. Pedicels slender, puberulent, 5-10 mm. Bractéoles valvate, ovate, suborbicular, 3-3.5 mm long, puberulent. Receptacle short, cupuliform. Perianth rudimentary with (1–) 2 tepals 2-3 mm. Stamens 10, with filiform filaments fused at the base. Ovary shortly stipitate, hairy; ovules 2-3.
 
-Gousse plate, lisse, obliquement stipitée, oblongue, aplatie, à sommet arrondi et apiculé, de 10 × 4,5 cm environ, s'enroulant après déhiscence.
+Pod flat, smooth, obliquely stipitate, oblong, flattened, with rounded and apiculate apex, approximately 10 × 4.5 cm, coiling after dehiscence.
 
 ## Type
 
@@ -37,11 +35,9 @@ Klaine 8, Gabon (P)
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Large tree provided with thin and often fairly well-developed buttresses. Bole tall, cylindrical, but also sometimes curved. Bark somewhat scaly, with fibrous fracture, light beige. Wood brown-yellow veined, hard and heavy. Sometimes a shrub at the edge of lakes.
 
-Grand arbre muni de contreforts minces et souvent assez développés. Fût élevé, cylindrique, mais aussi parfois courbé. Écorce un peu écailleuse, à tranche fibreuse, beige clair. Bois brun-jaune veiné, dur et lourd. Parfois arbuste au bord des lacs.
-
-Espèce endémique du Gabon et du Mayumbé.
+Species endemic to Gabon and Mayumbé.
 
 ## Vernacular names
 

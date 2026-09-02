@@ -17,21 +17,15 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Herbe procombante ; tige atteignant 120 cm, densément poilue à poils rétrorses. Stipules 4–5 × 2 mm, nettement nervurées. Feuille : pétiole 2,5–5 cm ; folioles (1–)3, à limbe rhomboïdal à ovale, 2,5–4 × 2–2,5 cm, à base courtement lobée, à sommet acuminé, lobes latéraux des feuilles inférieures à base carrée, les feuilles plus loin sur la plante, à limbe ovale à étroite ment ovale et parfois 1-foliolé, à pubescence légère et brève dessus, gris tomenteux dessous ; nervures latérales en 4(–6) paires. Inflorescence : pédoncule 10–25 cm ; rachis 4–8 cm ; bractées pointues, ± 5 mm de longueur. Fleur : pédicelle 2 mm ; bractéoles pointues, ± 3 mm de longueur ; calice à tube de 5–6 mm de longueur, les lobes aigus, libres sur ± 3 mm ; corolle courbée en bouton , rouge purpurin foncé , les ailes densément colorées, étendard réfléchi, obovale à arrondi, à onglet de 6 mm, limbe ± 11 × 11 mm, ailes 23 × 10 mm, pétales de la carène linéaires-naviculiformes, ± 23 mm de longueur ; ovaire 10 mm de longueur, à ovules nombreux ; style 11 mm. Gousse linéaire, peu réfléchie au bout , 7–10 × 0,3–0,5 cm, sommet pointu/atténué, avec jusqu’à 12(–15) graines, gris-tomenteux. Graine oblongue-ellipsoïde, ± 4 × 3 × 2 mm, brune, marbrée de noir ; hile central, 1 mm de longueur.
+Herb procumbent; stem reaching 120 cm, densely hairy with retrorsely directed hairs. Stipules 4–5 × 2 mm, distinctly nerved. Leaf: petiole 2.5–5 cm; leaflets (1–)3, with rhomboidal to ovate blade, 2.5–4 × 2–2.5 cm, with shortly lobed base, with acuminate apex, lateral lobes of lower leaves with squared base, leaves further along the plant with ovate to narrowly ovate blade and sometimes 1-foliolate, with light and short pubescence above, grey tomentose below; lateral veins in 4(–6) pairs. Inflorescence: peduncle 10–25 cm; rachis 4–8 cm; bracts pointed, ± 5 mm in length. Flower: pedicel 2 mm; bracteoles pointed, ± 3 mm in length; calyx with tube 5–6 mm in length, the lobes acute, free for ± 3 mm; corolla curved in bud, dark purplish red, the wings densely coloured, standard reflexed, obovate to rounded, with claw 6 mm, limb ± 11 × 11 mm, wings 23 × 10 mm, keel petals linear-naviculate, ± 23 mm in length; ovary 10 mm in length, with numerous ovules; style 11 mm. Pod linear, slightly reflexed at the end, 7–10 × 0.3–0.5 cm, apex pointed/attenuate, with up to 12(–15) seeds, grey-tomentose. Seed oblong-ellipsoid, ± 4 × 3 × 2 mm, brown, marbled with black; hilum central, 1 mm in length.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-d’origine américaine, cultivée et naturalisée en Afrique tropicale, en Asie, en Australie et dans le Pacifique, en Afrique, surtout à l’Est et au Sud ; à rechercher au Gabon
+of American origin, cultivated and naturalized in tropical Africa, Asia, Australia and the Pacific, in Africa, especially in the East and South; to be sought in Gabon
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-jachères, champs, savanes herbacées, bords de route ; en Afrique à jusqu’à 1650 m d’altitude. Usage : Utilisée comme fourrage et engrais vert, aussi contre l’érosion
+fallows, fields, herbaceous savannas, roadsides; in Africa up to 1650 m in altitude. Use: Used as forage and green manure, also against erosion
 
 ## Vernacular names
 

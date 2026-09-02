@@ -17,21 +17,15 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Herbe vivace, procombante et formant un tapis ; tiges apprim ée s sur le sol , s’enracinant aux noeuds, 30–60 cm ou plus de longueur, pileuses, tiges secondaires courtes. Stipules triangulaires-lancéolées, 2–5 mm de longueur. Feuille : pétiole 4–9 mm ; stipelles aussi longues que les pétiolules, ± 1 mm de longueur ; folioles 3 , à limbe obtriangulaire à obcordiforme , le terminale 4–15 × 4–12 mm , plus grand que les latéraux, base cunéée, sommet tronqué à rétus, mucronulé, vert pâle, à pubescence apprimée blanche, plus dense dessous que dessus. Inflorescence axillaire , en pseudoracèmes ; pédoncule grêle, 5–10(–90) mm, portant jusqu’ à 8 fleurs en paires ; bractées ovales-atténuées, 2–3,5 mm de longueur. Fleur : pédicelle grêle, 5–10(–15) mm ; calice vert pâle, poilu, à tube de ± 1 mm de longueur, lobes 1,5–3 mm de longueur ; corolle 3,5–4,5 mm de longueur, bleue à pourpre ou parfois partiellement blanche. Gousse sessile, à s uture dorsale droite, suture ventrale é chancrée-arrondie , pubescenteuncinée, à 3 ou 4(–5) articles de 4 × 3 mm. Graine réniforme, ± 2 × 1,5 × 1 mm, brune ; hile central.
+Perennial herb, procumbent and forming a mat; stems appressed to the soil, rooting at the nodes, 30–60 cm or more in length, pilose, secondary stems short. Stipules triangular-lanceolate, 2–5 mm in length. Leaf: petiole 4–9 mm; stipels as long as the petiolules, ± 1 mm in length; leaflets 3, with obtriangular to obcordate lamina, the terminal one 4–15 × 4–12 mm, larger than the lateral ones, base cuneate, apex truncate to retuse, mucronulate, pale green, with appressed white pubescence, denser below than above. Inflorescence axillary, in pseudoracemes; peduncle slender, 5–10(–90) mm, bearing up to 8 flowers in pairs; bracts ovate-attenuate, 2–3.5 mm in length. Flower: pedicel slender, 5–10(–15) mm; calyx pale green, hairy, with tube ± 1 mm in length, lobes 1.5–3 mm in length; corolla 3.5–4.5 mm in length, blue to purple or sometimes partially white. Pod sessile, with dorsal suture straight, ventral suture notched-rounded, pubescentuncinulate, with 3 or 4(–5) articles of 4 × 3 mm. Seed reniform, ± 2 × 1.5 × 1 mm, brown; hilum central.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-pantropicale, jusqu’au Sud des États-Unis ; au Gabon, connue de l’Estuaire, du MoyenOgooué, de la Nyanga et de l’Ogooué-Maritime
+pantropical, extending to the southern United States; in Gabon, known from Estuaire, Moyen-Ogooué, Nyanga and Ogooué-Maritime
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-sur sol sablonneux, rudérale, bords des routes, pelouses ; au Gabon à 5–335 m d’altitude, ailleurs jusqu’à 1800 m
+on sandy soil, ruderal, roadsides, grasslands; in Gabon at 5–335 m altitude, elsewhere up to 1800 m
 
 ## Vernacular names
 
@@ -39,9 +33,7 @@ Creeping tick trefoil, Three-flower beggarweed (angl.). Usage : La plante peut s
 
 ## Source note
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-L’échantillon J.J. de Wilde et al. 875 porte exceptionnellement des inflorescences de 9 cm de longueur. b : Botton & Hallé (1958), De la Estrella et al. (2010), Ern (1984), Hepper (1958), Mackin ibliographie der et al. (2001), van der Maesen (2006a), Pengelly (1992), Raponda-Walker & Sillans (1961), Schubert (1954, 1971), Setyowati-Indarto & Brink (1999b)
+The specimen J.J. de Wilde et al. 875 exceptionally bears inflorescences 9 cm in length. b: Botton & Hallé (1958), De la Estrella et al. (2010), Ern (1984), Hepper (1958), Mackin et al. (2001), van der Maesen (2006a), Pengelly (1992), Raponda-Walker & Sillans (1961), Schubert (1954, 1971), Setyowati-Indarto & Brink (1999b)
 
 ## Notes
 

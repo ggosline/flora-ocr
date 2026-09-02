@@ -22,13 +22,11 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Trees. Leaves pinnate with 7–15 pairs of alternate or subopposite leaflets, sessile, 10–35 mm long, 3–12 mm wide, oblong, with an emarginate apex, with a base truncate parallel to the rachis, unequal, the anterior side wider than the posterior. Rachis 4–12 cm, channelled, glabrous.
 
-Arbres. Feuilles pennées à 7-15 paires de folioles alternes ou subopposées, sessiles, longues de 10-35 mm, larges de 3-12 mm, oblongues, à sommet émarginé, à base tronquée parallèlement au rachis, inégale, le côté antérieur plus large que le postérieur. Rachis de 4-12 cm, canaliculé, glabre.
+Inflorescences in axillary racemes, solitary or in pairs, short, up to 6 cm long, rusty-velutinous. Flowers pink or white. Bracts very caducous. Pedicels 4–6 mm. Sepals 4, lanceolate, 8–10 mm long, one of them broader (5 mm) than the other 3 (3–3.5 mm). Petals 5, 13–15 mm, lanceolate, narrow, attenuate into a long claw, glabrous except along the midvein covered with tawny hairs. Stamens 10, long-exserted; one free, with a filament hirsute at the base, and 9 united at the base into a tube 6–7 mm long, more or less villous, of which 5 are long and 4 short. Filaments pink, anthers red. Ovary stipitate, densely silky-hirsute. Ovules 5–8.
 
-Inflorescences en grappes axillaires, solitaires ou par 2, courtes, jusqu'à 6 cm de longueur, veloutées roux. Fleurs rosées ou blanches. Bractées très caduques. Pédicelles de 4-6 mm, Sépales 4, lancéolés, longs de 8-10 mm, l'un d'eux plus large (5 mm) que les 3 autres (3-3,5 mm). Pétales 5, de 13-15 mm, lancéolés, étroits, atténués en long onglet, glabres, sauf le long de la nervure médiane couverte de poils fauves. Étamines, 10, longuement exsertes; une libre, à filet hirsute à la base, et 9 soudées à la base en tube de 6-7 mm de longueur, plus ou moins velu, dont 5 longues et 4 courtes. Filets roses, anthères rouges. Ovaire stipité, densément soyeux hirsute. Ovules 5-8.
-
-Fruit plat, suborbiculaire, brièvement stipité, de 3-4 cm de diamètre, très velu d'abord puis glabre, lisse ou garni de petits poils verruequeux en forme d'épines.
+Fruit flat, suborbicular, briefly stipitate, 3–4 cm in diameter, very hairy at first then glabrous, smooth or covered with small verrucose hairs in the form of spines.
 
 ## Type
 
@@ -36,11 +34,7 @@ E. Laurent s. n., Lusambo, Kasai
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Grand arbre, empatté-cannelé à la base. Écorce lisse, très dure, à tranche jaune orangé virant au brun. Entaillée elle exsude
-
-une résine qui sert à faire des torches. Espèce répandue du Cameroun au Gabon, au Mayombé, et au Centre du Congo.
+Large tree, fluted-buttressed at the base. Bark smooth, very hard, with a yellow-orange interior turning brown. When incised it exudes a resin used for making torches. Species widespread from Cameroon to Gabon, to Mayombé, and to central Congo.
 
 ## Vernacular names
 

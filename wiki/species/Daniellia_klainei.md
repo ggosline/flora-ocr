@@ -21,15 +21,11 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Large copaiba trees. Buds thick, enveloped by horn-shaped stipules, early caducous. Leaves glabrous with 4–6 pairs of large opposite leaflets. Rachis thick, 20–40 cm long, swollen at the base. Blade lanceolate-oblong, gradually acute at the apex, rounded or obtuse at the base, measuring 12–30 cm in length by 4–10 cm in width, riddled with translucent dots, coriaceous. Lateral nerves numerous, 12–25 pairs, very ascending and joined in a scalloped pattern near the margin, reticulate with the veinlets, well marked on both surfaces. Petiolule 7–10 mm.
 
-Grands arbres copallières. Bourgeons épais, enveloppés par des stipules en cornet, tôt caduques. Feuilles glabres à 4-6 paires de grandes folioles opposées. Rachis épais, long de 20 à 40 cm, renflé à la base. Limbe lancéolé-oblong, progressivement pointu au sommet, arrondi ou obtus à la base, mesurant de 12-30 cm de longueur sur 4-10 cm de largeur, criblé de points translucides, coriace. Nervures latérales nombreuses, 12 à 25 paires, très ascendantes et réunies en feston près de la marge, réticulées avec les nervilles, bien marquées sur les 2 faces. Pétiolule de 7-10 mm.
+Glabrous panicles 25–30 cm. Bracts and bracteoles caducous. Bracteoles inserted towards the middle of pedicels 2.5–4 cm; these glabrous, swollen at the apex into a receptacle. Flowers mauve. Sepals oblong, concave, imbricate, 17–18 × 10–11 mm. Petals 5: three large, elliptic or suborbicular, sessile, 12 mm in length by 10 mm in width, tomentose on both faces then ± glabrous; two rudimentary 2–3 mm. Stamens 10 longly exserted; 9 with hairy filaments fused at the base, 1 free. Ovary glabrous, 4–5 ovules.
 
-Panicules glabres de 25-30 cm. Bractées et bractéoles caduques Bractéoles insérées vers le milieu de pédicelles de 2,5-4 cm; ceux-ci glabres, renflés au sommet en un réceptacle. Fleurs mauves. Sépales oblongs, concaves, imbriqués, de 17-18 × 10-11 mm. Pétales 5 : trois grands, elliptiques ou suborbiculaires, sessiles, de 12 mm de longueur sur 10 mm de largeur, tomentaux sur les
-
-2 faces puis ± glabres; deux rudimentaires de 2-3 mm. Étamines 10 longuement exsertes; 9 à filets velus soudés à la base, 1 libre. Ovaire glabre, 4-5 ovules.
-
-Fruit aplati, légèrement falciforme, d'environ 12 × 4,5 cm. Une seule graine oblongue, aplatie, de 4-5 × 1,5-2 cm, de couleur lie de vin.
+Fruit flattened, slightly falciform, about 12 × 4.5 cm. A single oblong seed, flattened, 4–5 × 1.5–2 cm, wine-lees coloured.
 
 ## Type
 
@@ -37,9 +33,7 @@ Fleury 26540, Gabon (P)
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Grand arbre fréquent surtout au bord des rivières et en forêt secondaire, répandu dans tout le Gabon et jusqu'au Mayombé.
+Large tree frequent especially on river banks and in secondary forest, distributed throughout Gabon and as far as Mayombé.
 
 ## Vernacular names
 

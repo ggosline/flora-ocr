@@ -17,25 +17,15 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-in Mildbr., Wiss. Erg. deut. Zentr.-Afr. Exp., Bot. 3 : 264, tab. 30 (1911). E. klainei Pierre ex Harms, Bot. Jahrb. Syst. 45 : 315 (1911). E. altissima A.Chev. ex Aubrév., Fl. forest. Côte-d’Ivoire 1 : 298 (1936) . E. problematica P.A.Duvign. & Rochez, Fl. Congo Belge & Ruanda-Urundi 6 : 123 (1954), nom. inval. Arbre de 15–30 m de hauteur ; tronc brun-gris, à épines atteignant 3,5 cm de longueur ; rameaux roux tomentelleux, puis glabres, avec des petites épines coniques, noirâtres. Stipules caduques, lancéolées, 3–4 mm de longueur. Feuille : pétiole 10–12 cm , grêle, inerme ; rachis 1–3 cm ; stipelles des folioles latérales verruqueuses, 3 mm de longueur, celles de la foliole
-
-Louis 9464 ; 9 : Toussaint 2392 ). Dessin par J.M. Lerinckx, Jardin Botanique Meise (©).
-
-terminale nulles ; folioles à pétiolule de 2–4 mm, limbe ovale-oblong à oblong, 3–13 × 2–6,5 cm , les terminales plus larges que les latérales, glabre ou presque, glauque dessous ; nervures latérales en 5 à 9 paires, saillantes, ascendantes . Inflorescence en pseudoracèmes en touffes terminales, 15–25 cm, y compris le pédoncule, lâches, axes assez grêles ; bractées et brac téoles caduques, linéaires-lancéolées, 1,5–2 mm. Fleur : pédicelle 5–15 mm ; calice obliquefusiforme, tube 9–20 mm de longueur, laineux-pubescent, surmonté par 2 lobes pétalo ï des membraneux , courtement laineux, roses, l’inférieur linéaire, 7–15 mm, le supérieur bipartite, 15–18 × 6–10 mm, les 2 dents irrégulièrement laciniées ; corolle rose à l ’extérieur , rouge à l’intérieur, étendard oblong, 2–3,5 cm de longueur, onguiculé, ailes ovales, ± 5 mm de longueur, pétales de la carène soudés vers la base, semi-ovales, 6–7 mm de longueur, api culés, arrondis à la base ; étamines diadelphes, atteignant 35 mm de longueur, la vexillaire à moitié libre, blanches à rougeâtres, anthères gris vert pâle ; ovaire stipité, linéaire-lancéolé, atteignant 25 mm de longueur, pubescent ; style ± 10 mm, glabre. Gousse moniliforme, cylindrique, courbé ou tordu , 5–15 × 2,5–4 cm, coriace à ligneuse, blanc verdâtre, profondément étranglée entre les 2 à 4 articles . Graine ± 2 × 1 cm, orangée ou rouge brillant ; hile central, blanc.
+in Mildbr., Wiss. Erg. deut. Zentr.-Afr. Exp., Bot. 3 : 264, tab. 30 (1911). E. klainei Pierre ex Harms, Bot. Jahrb. Syst. 45 : 315 (1911). E. altissima A.Chev. ex Aubrév., Fl. forest. Côte-d'Ivoire 1 : 298 (1936) . E. problematica P.A.Duvign. & Rochez, Fl. Congo Belge & Ruanda-Urundi 6 : 123 (1954), nom. inval. Tree 15–30 m tall; trunk brown-grey, with spines reaching 3.5 cm in length; branches reddish tomentellous, then glabrous, with small conical, blackish spines. Stipules caducous, lanceolate, 3–4 mm in length. Leaf: petiole 10–12 cm, slender, unarmed; rachis 1–3 cm; stipels of lateral leaflets verrucose, 3 mm in length, those of the terminal leaflet absent; leaflets with petiolule 2–4 mm, blade ovate-oblong to oblong, 3–13 × 2–6.5 cm, the terminal ones wider than the lateral ones, glabrous or nearly so, glaucous beneath; lateral veins in 5 to 9 pairs, prominent, ascending. Inflorescence in pseudoracemes in terminal tufts, 15–25 cm, including the peduncle, lax, axes rather slender; bracts and bracteoles caducous, linear-lanceolate, 1.5–2 mm. Flower: pedicel 5–15 mm; calyx oblique-fusiform, tube 9–20 mm in length, woolly-pubescent, surmounted by 2 petaloid membranous lobes, shortly woolly, pink, the lower one linear, 7–15 mm, the upper one bipartite, 15–18 × 6–10 mm, the 2 teeth irregularly lacerate; corolla pink on the outside, red on the inside, standard oblong, 2–3.5 cm in length, clawed, wings oval, ± 5 mm in length, keel petals fused towards the base, semi-oval, 6–7 mm in length, apiculate, rounded at the base; stamens diadelphous, reaching 35 mm in length, the vexillary one half-free, white to reddish, anthers pale greyish-green; ovary stipitate, linear-lanceolate, reaching 25 mm in length, pubescent; style ± 10 mm, glabrous. Pod moniliform, cylindrical, curved or twisted, 5–15 × 2.5–4 cm, coriaceous to woody, whitish-green, deeply constricted between the 2 to 4 articles. Seed ± 2 × 1 cm, orange or brilliant red; hilum central, white.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Guinée, Sierra Léone, Libéria, Côte d’Ivoire, Ghana, Togo, Cameroun, Gabon, République démocratique du Congo et Ouganda ; au Gabon, connue de l’Estuaire et de l’Ogooué-Maritime
+Guinea, Sierra Leone, Liberia, Côte d'Ivoire, Ghana, Togo, Cameroon, Gabon, Democratic Republic of the Congo and Uganda; in Gabon, known from Estuaire and Ogooué-Maritime
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-végétation ouverte, forêt secondaire, bords de route, aussi plantée ; au Gabon à (0–)70–600 m d’altitude, ailleurs jusqu’à 1600 m. En fleurs à l’état défeuillé. Usage : Arbre d’ombrage pour plantations de cacaoyers et caféiers, très ornementale. L’écorce en décoction a été utilisée pour laver les plaies et les boutons du pian. Les feuilles sont appliquées sur les blessures afin de les fermer
+open vegetation, secondary forest, roadsides, also planted; in Gabon at (0–)70–600 m in altitude, elsewhere up to 1600 m. In flower in the leafless state. Use: Shade tree for cocoa and coffee plantations, very ornamental. The bark in decoction has been used to wash wounds and yaws pustules. The leaves are applied to wounds in order to close them
 
 ## Vernacular names
 
@@ -43,9 +33,7 @@ arbre corail, flamboyant de la brousse (fr.) ; étèc-dum, ésóc-dum, ésóc-ol
 
 ## Source note
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-L’odeur des fleurs a été décrite comme malodorante, mais aussi comme douce. b : Ern (1984), Hepper (1958), Majot-Rochez & Duvigneaud (1954), Raponda-Walker & ibliographie Sillans (1961), Verdcourt (1971c)
+The odor of the flowers has been described as malodorous, but also as sweet. b : Ern (1984), Hepper (1958), Majot-Rochez & Duvigneaud (1954), Raponda-Walker & Bibliography Sillans (1961), Verdcourt (1971c)
 
 ## Notes
 

@@ -22,15 +22,13 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Leonard (Pl. 56, p. 235)
 
-Léonard (Pl. 56, p. 235)
+Trees. Leaves 4-5 jugate. Stipules lanceolate, acute, enveloping the branchlets, up to 5 cm long. Leaflets oblong, with obtuse apex, 10-20 cm long by 3-5 cm wide.
 
-Arbres. Feuilles 4-5 juguées. Stipules lancéolées, aiguës, enveloppant les rameaux, jusqu'à 5 cm de longueur. Folioles oblongues, à sommet obtus, longues de 10-20 cm sur 3-5 cm.
+Terminal panicles tomentose, ferruginous. Bracts caducous. Pedicels 1.5-2 cm. Bracteoles long, 2-2.5 cm, brown tomentose. Calyx glabrous with 5 linear segments, 8-10 mm; tube 2-3 mm. Large petal 6-7 × 3-4 cm; the other petals similar to the sepals. Fertile stamens 3 or 5. Staminodes subulate or absent. Ovary hairy, subsessile.
 
-Panicules terminales tomenteuses ferrugineuses. Bractées caduques. Pédicelles 1,5-2 cm. Bractéoles longues, de 2-2,5 cm, tomenteuses brunes. Calice glabre à 5 segments linéaires, de 8-10 mm; tube de 2-3 mm. Grand pétale de 6-7 × 3-4 cm; les autres pétales semblables aux sépales. Étamines fertiles 3 ou 5. Staminodes subulés ou nuls. Ovaire velu, subsessile.
-
-Très jeunes fruits marqués de 2 lignes longitudinales.
+Very young fruits marked with 2 longitudinal lines.
 
 ## Type
 

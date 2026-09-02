@@ -21,15 +21,11 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+— de St-Aubin, For. Gabon : 61. — F.W.T.A. 2nd ed. 1 : 47 (1958). — Letouzey, Ekop. Cameroon : 58, pl. 13 (1952).
 
-— de St-Aubin, For. Gabon : 61. — F.W.T.A. 2e éd. 1 : 47 (1958). — Letouzey, Ekop. Cameroun : 58, pl. 13 (1952).
+Trees. Leaves unijugate, glabrous, shortly petiolate (1 cm). Leaflets subsessile, somewhat falcate, oblong, with attenuate ± acute apex, 10–12 cm long, 3–3.5 cm wide, without translucent dots. About ten lateral nerves.
 
-Arbres. Feuilles unijuguées, glabres, brièvement pétiolées (1 cm). Folioles subsessiles, un peu falciformes, oblongues, à sommet atténué ± aigu, longues de 10-12 cm, larges de 3-3,5 cm, sans points translucides. Une dizaine de nervures latérales.
-
-Panicules terminales, velues. Fleurs sessiles ou courtement pédicellées (moins de 5 mm). Bractées caduques. Bractéoles involucrales, valvaires, concaves, un peu carénées, veloutées
-
-au dehors, légèrement velues dedans, env. 7-8 × 5-6 mm. Sépales 5, subégaux, oblongs, arrondis au sommet, velus sur les marges. Pétales 5, minuscules, un peu velus. Étamines 9 fertiles, filets filiformes, un peu soudés à la base. Ovaire hirsute; 4 ovules. Gousse aplatie, d'env. 13 × 4 cm, s'ouvrant en 2 valves ligneuses, de teinte brun-marron, minces, s'enroulant, à 2-3 graines.
+Terminal panicles, pubescent. Flowers sessile or shortly pedicellate (less than 5 mm). Bracts caducous. Involucral bractéoles, valvate, concave, somewhat carinate, velvety on the outside, slightly hairy inside, ca. 7–8 × 5–6 mm. Sepals 5, subequal, oblong, rounded at apex, hairy on the margins. Petals 5, minute, slightly hairy. Stamens 9 fertile, filaments filiform, slightly fused at the base. Ovary hirsute; 4 ovules. Pod flattened, ca. 13 × 4 cm, opening into 2 woody valves, brown-chestnut in colour, thin, enrolling, with 2–3 seeds.
 
 ## Vernacular names
 
@@ -43,15 +39,13 @@ Le Testu 7339, Gabon (P)
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+This Paraberlinia was attributed by Troupin, then by Léonard to the genus Julbernardia, and took the name J. Pellegriniana Troupin.
 
-Ce Paraberlinia a été attribué par Troupin, puis par Léonard au genre Julbernardia, et prit le nom de J. Pellegriniana Troupin.
+There exists in Gabon a possibility of confusion between the species Tetraberlinia bifoliolata (Harms) Léonard and Paraberlinia bifoliolata Pellegrin due to the similarity of names and morphological appearance common to the species. These are two large trees of dense humid forest. The fruits immediately separate them, that of T. bifoliolata being marked with 1–2 longitudinal nerves whereas the fruit of Paraberlinia bifoliolata is smooth, marked only with transverse wrinkles. The leaves of the 2 species resemble each other greatly, unijugate and with leaflets somewhat falcate, those of Tetraberlinia being more glossy, with nervilles parallel to the secondary nerves fairly distinct.
 
-Il existe au Gabon une possibilité de confusion entre l'espèce Tetraberlinia bifoliolata (Harms) Léonard et Paraberlinia bifoliolata Pellegrin en raison de la similitude des noms et de l'aspect morphologique commun aux espèces. Il s'agit de deux grands arbres de forêt dense humide. Les fruits les séparent immédiatement, celui du T. bifoliolata étant marqué de 1-2 nervures longitudinales tandis que le fruit du Paraberlinia bifoliolata est lisse, marqué seulement de rides transversales. Les feuilles des 2 espèces se ressemblent beaucoup, unijuguées et à folioles un peu falciformes, celles du Tetraberlinia étant plus brillantes, avec des nervilles parallèles aux nervures secondaires assez nettes.
+The Béli is a large tree, with thin buttresses, with trunk slightly sinuous. Bark smooth, hammered, reddish in colour, exfoliating in very small scales, with red fibrous inner surface. Wood dark brown, hard and heavy.
 
-Le Béli est un grand arbre, à contreforts minces, à tronné légèrement sinueux. Écorce lisse, martelée, de teinte rougeâtre, s'exfoliant en très petites écailles, de tranche fibreuse rouge. Bois brun foncé, dur et lourd.
-
-Le P. bijoliolata forme des peuplements très étendus dans tout le Gabon. D'après de St-Aubin, les comptages dans la région de Kougouleu dans 86 parcelles de 2,5 ha auraient fait reconnaître en moyenne 14 arbres à l'hectare ayant plus de 35 cm de diamètre, avec un maximum de 128 arbres dans une seule parcelle. L'espèce existe de la Nigéria du Sud au Gabon. Au Cameroun Letouzey signale qu'elle n'a été rencontrée que dans la région de Mbanga sous forme de bouquets très localisés de quelques arbres, ainsi que dans la région de Kribi.
+P. bifoliolata forms very extensive stands throughout Gabon. According to de St-Aubin, counts in the Kougouleu region in 86 plots of 2.5 ha are said to have recognized on average 14 trees per hectare with diameter greater than 35 cm, with a maximum of 128 trees in a single plot. The species exists from southern Nigeria to Gabon. In Cameroon Letouzey notes that it has been encountered only in the Mbanga region in the form of very localized clusters of a few trees, as well as in the Kribi region.
 
 ## Specimens examined
 

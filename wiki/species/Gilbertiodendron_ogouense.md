@@ -26,15 +26,13 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Leonard (Pl. 53, p. 225, and 54, p. 227)
 
-Léonard (Pl. 53, p. 225, et 54, p. 227)
+Trees. Leaves 2–8 jugate. Stipules linear very caducous, furnished with reniform auricles, 1–2 cm in diameter, persistent. Leaflets lanceolate, attenuate at the apex into a long acumen, acute, mucronate, glabrous, generally 9–10 × 2.5–3.5 cm, but capable of reaching 20 × 6.5 cm. Rachis of highly variable length, 4 to 34 cm. Lateral nerves 9–15 pairs.
 
-Arbres. Feuilles 2-8 juguées. Stipules linéaires très caduques, pourvues d'oreillettes réniformes, de 1-2 cm de diamètre, persistantes. Folioles lancéolées, atténuées au sommet en un long acumen, aigu, mucroné, glabres, généralement de 9-10 × 2,5-3,5 cm, mais pouvant atteindre 20 × 6,5 cm. Rachis de longueur très variable, de 4 à 34 cm. Nervures latérales 9-15 paires.
+Panicles terminal and axillary, densely branched and flowered, velvety russet. Pedicels up to 8 mm. Bracts very caducous. Bracteoles tomentose russet, $ 8 \times 6 $ mm. Calyx with 5 triangular acute lobes, glabrous, 4 mm long, fused at the base into a tube of 2 mm. One large bilobed petal, with short claw of 3 mm. Fertile stamens 3. Ovary sessile, hairy on the margins, then glabrous.
 
-Panicules terminales et axillaires, densément ramifiées et fleuries, veloutées rousses. Pédicelles jusqu'à 8 mm. Bractées très caduques. Bractéoles tomenteuses rousses, de  $ 8 \times 6 $ mm. Calice à 5 lobes triangulaires aigus, glabres, longs de 4 mm, soudés à la base en un tube de 2 mm. Un grand pétale bilobé, à onglet court de 3 mm. Étamines fertiles 3. Ovaire sessile, velu sur les marges, puis glabre.
-
-Fruit à 3 nervures longitudinales.
+Fruit with 3 longitudinal nerves.
 
 ## Type
 
@@ -42,9 +40,7 @@ Le Testu 6368, Gabon (P)
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Il est possible qu'il y ait au moins deux espèces différentes, mais très voisines réunies sous le nom de G. ogoouense; toutes deux ayant un fruit typiquement 3-nervuré. Sous ce nom de G. ogoouense nous groupons de nombreux spécimens récoltés du sud Cameroun au Kouilou, ayant des nombres variables de folioles, de 2-8 paires.
+It is possible that there are at least two different species, but very closely related united under the name of G. ogoouense; both having a fruit typically 3-nerved. Under this name of G. ogoouense we group numerous specimens collected from southern Cameroon to the Kouilou, having variable numbers of leaflets, 2–8 pairs.
 
 ## Specimens examined
 

@@ -17,15 +17,11 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Subshrub ± sarmentose or lianescent. Stem pubescent, with quadrangular section, edge marked by a ridge bearing recurved spines. Stipules pubescent, with a strong spine at the base, long and very narrowly triangular. Petiole pubescent to glabrescent, 1.5–6 cm long, strongly furrowed longitudinally; lateral and lower faces with spines. Rachis pubescent to glabrescent, 1.2–4.5 cm long, furrowed, with spines on the lateral and lower faces. Pinnae (1–) 2–4 pairs. Pinnae axis, ± pubescent to glabrous, 2–5 cm long, weakly spiny. Leaflets numerous opposite, subsessile. Blade glabrous to weakly pubescent below and glabrous above for the lower leaflets; glabrous on both faces for the upper ones; oblong asymmetric, reaching 1.8 × 0.8 cm; base asymmetric: proximal margin strongly rounded and distal margin very strongly attenuate-straight; margin pubescent; apex subrounded to broadly acute, subapiculate. Midvein diagonal, prominent on both faces. Basal secondary vein, one visible in the proximal 1/2 of the blade. Remainder of venation not visible.
 
-Suffrutex ± sarmenteux ou lianescent. Tige pubescente, à section quadrangulaire, arête marquée par un bourrelet portant des épines récurvées. Stipules pubescentes, à forte épine à la base, longuement et très étroitement triangulaires. Pétiole pubescent à glabrescent, long de 1,5-6 cm, fortement sillonné longitudinalement ; faces latérales et face inférieure avec épines. Rachis pubescent à glabrescent, long de 1,2-4,5 cm, sillonné, à épines sur les faces latérales et inférieure. Pennes (1-) 2-4 paires. Axe de la penne, ± pubescent à glabre, long de 2-5 cm, fa
+Inflorescence in axillary capitula at the apex of the stems. Peduncle pubescent, 3–7 mm long. Inflorescence axis weakly claviform. Basal bracteoles pubescent, narrowly triangular, ± 0.75 mm long. Apical bracteoles pubescent, oblanceolate, 1.25 mm long, apex very acute. Basal flowers ± 0.25 mm. Petals glabrous, ± 2 mm long, fused for 1/2 of the length; free lobes acute at the apex. Stamens 10, 4 mm long, filament ± enlarged on the upper 1/2, anther ellipsoid 0.5 mm long. Ovary superior sterile, 0.5 mm long, without style. Apical flowers ± 0.25 mm. Perianth and androecium as before. Pistil shortly stipitate: ovary glabrous, linear, 1 mm long, with 26 ovules; style ± 2 mm long, with stigma weakly capitate.
 
-blement épineux. Folioles nombreuses opposées, subsessiles. Limbe glabre à faiblement pubescent dessous et glabre dessus pour les folioles inférieures ; glabre sur les 2 faces pour les supérieures ; oblong asymétrique, atteignant  $ 1,8 \times 0,8 $ cm ; base asymétrique : bord proximal fortement arrondi et bord distal très fortement atténué rectiligne ; marge pubescente ; sommet subarrondi à largement aigu, subapiculé. Nervure principale diagonale, saillante sur les deux faces. Nervure secondaire basale, une visible dans la 1/2 proximale du limbe. Reste de la nervation non visible.
-
-Inflorescence en capitules axillaires au sommet des tiges. Pédoncule pubescent, long de 3-7 mm. Axe inflorescentiel faiblement claviforme. Bractéoles basales pubescentes, étroitement triangulaires, longues de ± 0,75 mm. Bractéoles sommitales pubescentes, oblancéolées, longues de 1,25 mm, sommet très aigu. Fleurs basales ± 0,25 mm. Pétales glabres, longes de ± 2 mm, soudés sur la 1/2 de la longueur; lobes libres aigus au sommet. Étamines 10, longues de 4 mm, filet ± élargi sur la 1/2 supérieure, anthère ellipsoïde longue de 0,5 mm. Ovaire supère stérile, long de 0,5 mm, sans style. Fleurs sommitales ± 0,25 mm. Périanthe et androcée comme précédemment. Pistil courtemment stipité : ovaire glabre, linéaire, long de 1 mm, à 26 ovules ; style long de ± 2 mm, à stigmate faiblement en plateau.
-
-Gousses fusiformes déhiscentes par 2 fentes ou plus, longues de 7,5-13 cm, pubescentes, sillonnées longitudinalement avec nombreuses épines sur les crêtes ; terminées par une longue pointe aiguë. Graines nombreuses, rhomboïdes, noires ± luisantes, 2-3 × 1,5-2,25 mm, aréole de grande taille. – Pl. 24, p. 95.
+Pods fusiform dehiscent by 2 or more slits, 7.5–13 cm long, pubescent, longitudinally furrowed with numerous spines on the ridges; terminating in a long acute point. Seeds numerous, rhomboid, black ± shiny, 2–3 × 1.5–2.25 mm, aril large. – Pl. 24, p. 95.
 
 ## Type
 
@@ -33,9 +29,7 @@ Poiteau s.n., Saint-Domingue (G-DC; phot., P)
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Cette plante originaire d'Amérique a été introduite en Afrique. On la trouve sur les côtes tropicales (Côte d'Ivoire, Bénin, Nigeria). Elle n'a pas été récoltée au Cameroun. Elle est présente au Gabon.
+This plant, originally from America, was introduced into Africa. It is found on tropical coasts (Côte d'Ivoire, Benin, Nigeria). It has not been collected in Cameroon. It is present in Gabon.
 
 ## Specimens examined
 

@@ -11,7 +11,7 @@ tags: [species, generated]
 ---
 # *Maranthochloa holostachya* (Bak.) Hutch.
 
-**Genus**: [[Maranthochloa]]
+**Genus**: [[Marantochloa]]
 **Family**: [[Marantaceae]]
 
 ## Synonyms
@@ -62,6 +62,6 @@ N. Hallé : 2270, Abanga, Monts de Cristal.
 
 ## See also
 
-- [[Maranthochloa]]
+- [[Marantochloa]]
 - [[Marantaceae]]
 - [[vol09]]

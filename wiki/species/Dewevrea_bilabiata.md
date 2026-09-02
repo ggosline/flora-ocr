@@ -17,31 +17,19 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Liane puissante héliophile ; tige en câble, jusqu’à 7 cm de diamètre ; rameaux 5–8 mm de diamètre ; écorce lisse. Stipules ± linéaires, rigides, atteignant 2,8 cm de longueur , à 5 ner vures longitudinales. Feuille : pétiole 12 cm ; rachis 6–10 cm ; pétiolules 3–12 mm ; folioles 5 ou 7 , à limbe obovale, 16–20 × 8–10 cm, brièvement acuminé, glabre ou presque, coriace, brillant dessus, plus pâle dessous, argenté, le terminal légèrement plus grand que les laté -
-
-Fleur. – 4. Étendard. – 5. Aile. – 6. Carène. – 7. Androcée. – 8. Gynécée. – 9. Gousse. Dessin par Pat Halliday (©), reproduit avec permission, à partir de Lewis et al. (2005).
-
-raux ; nervures secondaires saillantes, en 6 ou 7 paires, à nervures plus courtes et grêles entre elles . Inflorescence 30–40 cm de longueur, légèrement pubescente . Fleur : pédicelle étalé ou réfléchi, 7–8 mm, grêle ; calice 10–14 mm de longueur, ferrugineux-tomenteux, crème, tube très court, lèvre supérieure binervée, étroite, lèvre inférieure trinervée, étalée ; étendard 12–20 mm de longueur, sommet émarginé, blanchâtre, vert pâle à la base, ailes et carène 12–20 mm de longueur ; ovaire tomenteux, brun ; style 7–8 mm, sommet recourbé et glabre. Gousse étroitement obovale, atteignant 11 × 2,3 cm , sommet acuminé, s’enroulant à maturité, à 3 ou 4 graines, glabre, ligneuse. Graine carrée ou carrée-arrondie, atteignant 20 × 18 × 10 mm, brune ; hile de 5 mm de longueur.
+Powerful heliophilic liana; stem cable-like, up to 7 cm in diameter; branches 5–8 mm in diameter; bark smooth. Stipules ± linear, rigid, reaching 2.8 cm in length, with 5 longitudinal nerves. Leaf: petiole 12 cm; rachis 6–10 cm; petiolules 3–12 mm; leaflets 5 or 7, with obovate limb, 16–20 × 8–10 cm, briefly acuminate, glabrous or nearly so, coriaceous, shiny above, paler below, silvery, the terminal slightly larger than the lateral ones; secondary nerves prominent, in 6 or 7 pairs, with shorter and more slender nerves between them. Inflorescence 30–40 cm in length, slightly pubescent. Flower: pedicel spreading or reflexed, 7–8 mm, slender; calyx 10–14 mm in length, ferruginous-tomentose, cream-colored, tube very short, upper lip two-nerved, narrow, lower lip three-nerved, spreading; standard 12–20 mm in length, apex emarginate, whitish, pale green at the base, wings and keel 12–20 mm in length; ovary tomentose, brown; style 7–8 mm, apex curved and glabrous. Pod narrowly obovate, reaching 11 × 2.3 cm, apex acuminate, coiling at maturity, with 3 or 4 seeds, glabrous, woody. Seed square or square-rounded, reaching 20 × 18 × 10 mm, brown; hilum 5 mm in length.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Cameroun, République centrafricaine, Gabon, République du Congo et République démocratique du Congo ; au Gabon, connue de l’Ogooué-Ivindo
+Cameroon, Central African Republic, Gabon, Republic of the Congo and Democratic Republic of the Congo; in Gabon, known from Ogooué-Ivindo
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-forêt galerie, forêt marécageuse et secondaire ; au Gabon, à 385–500 m d’altitude, ailleurs à 350–670 m. Fleurit toute l’année et semble peu fructifier (Hauman et al. 1954a). Usage : Les feuilles jeunes sont comestibles comme légume. Les feuilles écrasées traitent les parasites du cuir chevelu. De l’eau potable s’écoule de la liane coupée. Le bois découpé est ichtyotoxique (Hauman et al. 1954a)
+gallery forest, swamp forest and secondary forest; in Gabon, at 385–500 m in altitude, elsewhere at 350–670 m. Flowers year-round and appears to fruit little (Hauman et al. 1954a). Uses: Young leaves are edible as a vegetable. Crushed leaves treat scalp parasites. Potable water flows from the cut liana. The cut wood is ichthyotoxic (Hauman et al. 1954a)
 
 ## Source note
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-La planche (venant de Lewis et al. , 2005) présente l’étendard à sommet doublement émarginé, ou bien muni d’un apicule au milieu de l’incision, mais nos observations montrent l’étendard simplement émarginé. Pellegrin (1949) a décrit l’étendard avec une pubescence externe, nous n’avons vu que des étendards glabres. La deuxième espèce de ce genre, D. gossweileri Baker f., est signalée en Angola (Cabinda). Les feuilles sont 5-foliolées et le style est plus court. Elle ne pourra représenté qu’une varieté de notre espèce. b : Geesink (1984), Hauman (1954a), Lewis et al. (2005). ibliographie
+The plate (from Lewis et al., 2005) presents the standard with apex doubly emarginate, or else furnished with an apicule in the middle of the incision, but our observations show the standard simply emarginate. Pellegrin (1949) described the standard with external pubescence, we have only seen glabrous standards. The second species of this genus, D. gossweileri Baker f., is reported in Angola (Cabinda). The leaves are 5-foliolate and the style is shorter. It can only represent a variety of our species. b: Geesink (1984), Hauman (1954a), Lewis et al. (2005). Bibliography
 
 ## Notes
 

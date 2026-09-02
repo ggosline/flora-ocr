@@ -17,23 +17,15 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Liane ou arbuste lianescent ; ramilles tomentelleuses à poils argentés , la même pilosité présente sur les stipules, pétioles, rachis, stipelles, pétiolules et inflorescences. Stipules ± persistantes, ± deltoïdes, 2–3 × 2–4 mm . Feuille : pétiole ± cylindrique, 4–10 cm ; rachis (3,5–)5–10(–18) cm ; stipelles caduques, étroitement triangulaires à subulées, 2–4 mm de lon gueur ; folioles 5 à 7, à pétiolule de 3–10(–12) mm, limbe obovale-elliptique, (3–)6–10(–21) × (1,5–)4–7(–17) cm , arrondi à obtus à la base, aigu ou brièvement acuminé à arrondi à légè rement échancré et mucroné au sommet, acumen 3–5 mm de longueur, glabre dessus, sauf la
-
-médiane et les principales nervures latérales à pilosité tomenteuse, densément soyeux à poils courts et ± couchés dessous ; nervures latérales en 7 ou 8(–9) paires . Inflorescence axillaire et subterminale, atteignant 80 cm de longueur ; bractées et bractéoles caduques, ovales-trian gulaires, 1–1,5(–2) mm de longueur. Fleur : pédicelle 0,5–2 mm ; calice 4 mm de longueur, tubuleux à campanulé, à dents de 0,5–1 mm de longueur, à poils soyeux apprimés sur les 2 faces ; corolle 9–11 mm de longueur , blanche , glabre, pétales à onglet de 1–2 mm, ailes et ± aussi l’étendard plus courts que la carène ; étamines à anthères de 0,6–1 mm de longueur ; pistil à poils soyeux, apprimés. Gousse étroitement elliptique, 11–12 × 4 cm, y compris l’aile de 3–6 mm de largeur, à 1 graine, à poils soyeux, apprimés.
+Liana or lianescent shrub; branchlets tomentellous with silvery hairs, the same indumentum present on stipules, petioles, rachis, stipels, petiolules and inflorescences. Stipules ± persistent, ± deltoid, 2–3 × 2–4 mm. Leaf: petiole ± cylindrical, 4–10 cm; rachis (3.5–)5–10(–18) cm; stipels caducous, narrowly triangular to subulate, 2–4 mm long; leaflets 5 to 7, with petiolule of 3–10(–12) mm, blade obovate-elliptic, (3–)6–10(–21) × (1.5–)4–7(–17) cm, rounded to obtuse at the base, acute or shortly acuminate to rounded to slightly emarginate and mucronate at the apex, acumen 3–5 mm long, glabrous above except the midrib and main lateral veins with tomentose indumentum, densely silky with short and ± appressed hairs below; lateral veins in 7 or 8(–9) pairs. Inflorescence axillary and subterminal, reaching 80 cm long; bracts and bracteoles caducous, ovate-triangular, 1–1.5(–2) mm long. Flower: pedicel 0.5–2 mm; calyx 4 mm long, tubular to campanulate, with teeth 0.5–1 mm long, with silky appressed hairs on both faces; corolla 9–11 mm long, white, glabrous, petals with claw 1–2 mm, wings and ± also the standard shorter than the keel; stamens with anthers 0.6–1 mm long; pistil with silky, appressed hairs. Pod narrowly elliptic, 11–12 × 4 cm, including the wing 3–6 mm wide, with 1 seed, with silky, appressed hairs.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Cameroun, Gabon, République du Congo, République démocratique du Congo et Angola (Cabinda) ; au Gabon, connue du Haut-Ogooué, de la Ngounié, de l’Ogooué-Ivindo, de l’Ogooué-Lolo et du Woleu-Ntem
+Cameroon, Gabon, Republic of the Congo, Democratic Republic of the Congo and Angola (Cabinda); in Gabon, known from Haut-Ogooué, Ngounié, Ogooué-Ivindo, Ogooué-Lolo and Woleu-Ntem.
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-forêt primaire et secondarisée, galeries forestières ; au Gabon jusqu’à 500 m d’altitude, ailleurs jusqu’à 700 m. b : Hauman (1954d), Pellegrin (1949), Sousa (1966). ibliographie
+Primary and secondarized forest, forest galleries; in Gabon up to 500 m altitude, elsewhere up to 700 m. Bibliography: Hauman (1954d), Pellegrin (1949), Sousa (1966).
 
 ## Notes
 

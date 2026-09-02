@@ -17,27 +17,19 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Liane ou petit arbre à arbuste de 3 m de hauteur ; ramilles glabrescentes, pourpre foncé. Stipules caduques. Feuille : pétiole 5–7 cm ; rachis 3,5–6 cm, dépassant à peine la dernière paire de folioles ; stipelles absentes ; folioles (3–)5 à 7(–9) , la paire basale souvent doublée, pétiolule ± 5 mm, glabre, foncé, limbe obovale-elliptique, 6–10 × 3–6 cm, base arrondie, sommet à acumen obtus de 5–7(–11) mm, glabre dessus, dessous à pubescence éparse et très courte ; nervures latérales en 5 à 7 paires. Inflorescence axillaire ou terminale, en pseudopanicules de 10–24 cm de longueur , peu ramifiées, les axes brun rougeâtre, à fleurs sur axes latérales très courts. Fleur : pédicelle 2–3 mm ; bractéoles circulaires, à peine 1 mm de diamètre ; calice 3 × 6 mm, poilu ; corolle rouge, glabre , étendard à onglet de 2–3 mm, limbe obovale-circulaire, 13 mm de diamètre, sans callosités, ailes 12 × 3 mm, à onglet courbé, carène falquée, 12 × 4 mm avec un auricule court ; étamines diadelphes , libres sur le tiers supérieur, atteignant 18 mm ; ovaire 10 mm de longueur, à pubescence très courte, à 6 ovules ; style 5–6 mm, glabre, stigmate à peine capité. Gousse oblongue , aplatie, atteignant 13 × 2 cm , atténuée vers la base, sommet en un petit bec courbé, à pubescence rouge brune dense. Graine non vue.
+Vine or small shrub-tree to 3 m tall; branchlets glabrescent, dark purple. Stipules caducous. Leaf: petiole 5–7 cm; rachis 3.5–6 cm, barely exceeding the distal leaflet pair; stipels absent; leaflets (3–)5 to 7(–9), the basal pair often doubled, petiolule ± 5 mm, glabrous, dark, blade obovate-elliptic, 6–10 × 3–6 cm, base rounded, apex with an obtuse acumen of 5–7(–11) mm, glabrous above, below with sparse and very short pubescence; lateral veins in 5 to 7 pairs. Inflorescence axillary or terminal, in pseudopanicles 10–24 cm long, sparsely branched, the axes reddish-brown, flowers on very short lateral axes. Flower: pedicel 2–3 mm; bracteoles circular, barely 1 mm diameter; calyx 3 × 6 mm, pilose; corolla red, glabrous, standard with claw 2–3 mm, blade obovate-circular, 13 mm diameter, without callosities, wings 12 × 3 mm, with curved claw, keel falcate, 12 × 4 mm with a short auricle; stamens diadelphous, free in the upper third, reaching 18 mm; ovary 10 mm long, with very short pubescence, 6-ovulate; style 5–6 mm, glabrous, stigma barely capitate. Pod oblong, flattened, reaching 13 × 2 cm, attenuate toward the base, apex with a small curved beak, with dense reddish-brown pubescence. Seed not seen.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Gabon et République démocratique du Congo ; au Gabon, connue de l’Ogooué-Maritime
+Gabon and Democratic Republic of the Congo; in Gabon, known from Ogooué-Maritime
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-forêt ripicole ; à 430 m d’altitude
+riparian forest; at 430 m altitude
 
 ## Source note
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Les spécimens gabonais récoltés en 2005 sont les premiers de cette espèce depuis le type ramassé en 1909 en RDC. Leur port est décrit comme liane, mais le type est un arbuste de 3 m. b : Hauman (1954a), Mollel & Adema (2006). ibliographie
+The Gabonese specimens collected in 2005 are the first of this species since the type collected in 1909 in DRC. Their habit is described as a vine, but the type is a shrub of 3 m. b: Hauman (1954a), Mollel & Adema (2006). Bibliography
 
 ## Notes
 

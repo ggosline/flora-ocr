@@ -16,9 +16,7 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Foliolis 3–5(–11) symmetricis et acuminatis, inflorescentiis brevibus, bracteolis lanceolatis, calyce lobis triangularibus acutis et ± aequalibus, fructibus papyraceis applanatis anguste ellipsoideis et appresse-pubescentibus D. adamii subsp. gabonicae valde affinis, sed differt vexillo angustiore lamina elliptica (nec suborbiculare), foliolisque subconcoloribus et valde prominente reticulatis.
+Leaflets 3–5(–11) symmetric and acuminate, inflorescences short, bracteoles lanceolate, calyx lobes triangular acute and ± equal, fruits papyraceous flattened narrowly ellipsoid and appressed-pubescent D. adamii subsp. gabonicae very closely related, but differs by narrower standard with elliptic lamina (not suborbicular), and leaflets subconcolorous and very prominently reticulate.
 
 ## Type
 
@@ -26,25 +24,19 @@ Stone et al. 3120 (holo- : BR! ; iso- : MO, WAG!), Gabon, Réserve de Lopé-Okan
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Cameroun, Guinée équatoriale (Rio Muni) et Gabon ; espèce peu fréquente, connue au Gabon dans la Ngounié, l’Ogooué-Ivindo et le Woleu-Ntem (région de Médouneu)
+Cameroon, Equatorial Guinea (Rio Muni) and Gabon; species infrequent, known from Gabon in Ngounié, Ogooué-Ivindo and Woleu-Ntem (Médouneu region)
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-bords de rivière et forêts saxicoles d’inselberg ; entre 50 et 600 m d’altitude. Fleurs et fruits d’août à octobre
+river margins and saxicolous inselberg forests; between 50 and 600 m altitude. Flowers and fruits from August to October
 
 ## Source note
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Other specimens studied: Floret et al. 1807 (P, WAG), Gabon, Petit Okano, Transgabonais viaduct, c. 0°04'S 11°52'E 10 October 1983 (fl); Lachenaud et al. 1390 (BRLU, LBV, MO), Gabon, Mabounié, left bank of the Ngounié, 15 November 2013 (st); Parmentier & Nguema 721 (BRLU), Gabon, Mont Fene, at the foot of the village of Efôt, 15 km from Médouneu towards Sam, 1°00.1'N 10°54.3'E, 15 January 2000 (st); Parmentier & Nguema 766 (BRLU), Gabon, mont Voma, inselberg at the foot of the village of Efôt, 15 km from Médouneu towards Sam, 1°00'N 10°54'E, 19 January 2000 (st); Lisowski M-1278 (BRLU), Equatorial Guinea (Rio Muni), Mbini District, village Sendje, Rio Uele, 1 September 1997 (fl); van Andel et al. 4016 (WAG), Cameroon, Campo Ma'an area, Ntemasi, Ntem riverbank, 2°20'20''N 10°30'05''E, 24 August 2001 (fr). D. stenopetala is very close to D. adamii and D. setifera, but is distinguished from them by the narrower standard, with lamina distinctly longer than wide (hence the species epithet). Furthermore, it differs from D. setifera by its leaves and branches with much shorter pubescence, and from D. adamii by its almost concolorous leaflets with very prominent reticulation. In the vegetative state, D. stenopetala also resembles D. semiapplanata, but the latter has thicker leaflets, ± glaucescent below and with less prominent venation, as well as very different fruits, and flowers with short bracteoles and suborbicular standard
 
-Autres échantillons étudiés : Floret et al. 1807 (P, WAG), Gabon, Petit Okano, viaduc du Transgabonais, c. 0°04’S 11°52’E 10 Octobre 1983 (fl) ; Lachenaud et al. 1390 (BRLU, LBV, MO), Gabon, Mabounié, rive gauche de la Ngounié, 15 Novembre 2013 (st) ; Parmentier & Nguema 721 (BRLU), Gabon, Mont Fene, au pied du village d’Efôt, à 15 km de Médouneu en direction de Sam, 1°00.1’N 10°54.3’E, 15 Janvier 2000 (st) ; Parmentier & Nguema 766 (BRLU), Gabon, mont Voma, inselberg au pied du village d’Efôt, à à 15 km de Médouneu en direction de Sam, 1°00’N 10°54’E, 19 Janvier 2000 (st) ; Lisowski M-1278 (BRLU), Guinée équatoriale (Rio Muni), District Mbini, village Sendje, Rio Uele, 1er Septembre 1997 (fl) ; van Andel et al. 4016 (WAG), Cameroun, Campo Ma’an area, Ntemasi, Ntem riverbank, 2°20’20’’N 10°30’05’’E, 24 Août 2001 (fr). D. stenopetala est très proche de D. adamii et D. setifera , mais s’en distingue par l’étendard plus étroit, à limbe nettement plus long que large (d’où le nom d’espèce). En outre, elle diffère de D. setifera par ses feuilles et rameaux à pubescence beaucoup plus courte, et de D. adamii par ses folioles presque concolores à réticulation très saillante. À l’état végétatif, D. stenopetala ressemble aussi à D. semiapplanata , mais cette dernière a des folioles plus épaisses, ± glaucescentes dessous et à nervation moins saillante, ainsi que des fruits très différents, et des fleurs à bractéoles courtes et étendard suborbiculaire
+Botany Meise (©).
 
-Botanique Meise (©).
-
-Le type de D. stenopetala a été rapporté précédemment à D. oblongifolia (Sosef et al. 2006). Cette der nière espèce, limitée à l’Afrique de l’Ouest, est bien différente par ses gousses légèrement ligneuses à paroi dure et ses folioles asymétriques plus nombreuses (7 à 11).
+The type of D. stenopetala was previously referred to D. oblongifolia (Sosef et al. 2006). This latter species, limited to West Africa, is well different by its slightly woody pods with hard wall and more numerous asymmetric leaflets (7 to 11).
 
 ## Notes
 

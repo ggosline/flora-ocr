@@ -17,23 +17,17 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+D. canum (J.F.Gmel.) Schinz & Thell., Mém. Soc. Neuchâtel Sc. Nat. 5 : 371 (1913). D. frutescens Schindl., Repert. Spec. Nov. Regni Veg . 21 : 9 (1925). Perennial herb, erect to spreading, 0.3–3 m tall; branchlets uncinate-pubescent with some longer hairs, glabrescent. Stipules eventually caducous, partially connate, 4–11 mm long, brown, striate, with ciliate margins, outer face shortly hairy. Leaf: petiole (1.5–)2–4 cm; rachis 2–4 mm; stipels subulate, 1–5.5 mm; leaflets 3, with very variable blade, suborbicular at the base of the plant, but narrowly elliptic above, apex rounded to slightly acuminate, green with a silvery-white median band, with short, uncinate pubescence above, dense with straight hairs below, the terminal ones 2–9 × 1.5–4.5 cm, the lateral ones up to 6 × 3 cm. Inflorescence in terminal and axillary pseudoracemes, 6–20 cm long, with 1 to 3 flowers per node; bracts caducous, narrowly ovate, 2.5–4 mm long, acuminate, striate and hairy. Flower: bracteoles narrow, ± 1 mm long;
 
-D. canum (J.F.Gmel.) Schinz & Thell., Mém. Soc. Neuchâtel Sc. Nat. 5 : 371 (1913). D. frutescens Schindl., Repert. Spec. Nov. Regni Veg . 21 : 9 (1925). Herbe pérenne, dressée à étalée, 0,3–3 m de hauteur ; ramilles uncinées-pubescentes avec quelques poils longs, glabrescentes. Stipules finalement caduques, partiellement connées , 4–11 mm de longueur, brunes, striées, à marges ciliées, face externe courtement poilue. Feuille : pétiole (1,5–)2–4 cm ; rachis 2–4 mm ; stipelles subulées, 1–5,5 mm ; folioles 3 , à limbe très variable, suborbiculaire à la base de la plante, mais étroitement elliptique en haut, sommet arrondi à légèrement acuminé, vert avec une bande médiane blanc argenté, à pubescence courte, uncinée dessus, dense et à poils droits dessous, les terminales, 2–9 × 1,5–4,5 cm, les latérales jusqu’à 6 × 3 cm . Inflorescence en pseudoracèmes terminaux et axillaires, 6–20 cm de longueur , avec 1 à 3 fleurs par nœud ; bractées caduques, étroitement ovales, 2,5–4 mm de longueur, acuminées, striées et poilues. Fleur : bractéoles étroites, ± 1 mm de longueur ;
-
-pédicelle 4–10 mm ; calice 2–4 mm de longueur, rougeâtre, lobes triangulaires-acuminés, 1–2 mm de longueur, pubérulents-uncinés avec quelques poils plus longs ; corolle 5–6 mm de lon gueur, violette, bleue, rouge ou pourpre. Gousse à stipe de 2 mm, 2–4 cm de longueur , avec 5 à 8 articles de 4–6 × 3–4 mm , densément uncinés-pubérulents, suture dorsale droite ou presque, suture ventrale échancrée sur les ⅔ entre les articles. Graine oblongue-réniforme, ± 3,5 × 2 mm, brun rougeâtre.
+pedicel 4–10 mm; calyx 2–4 mm long, reddish, lobes triangular-acuminate, 1–2 mm long, puberulent-uncinate with some longer hairs; corolla 5–6 mm long, violet, blue, red or purple. Pod with a stipe of 2 mm, 2–4 cm long, with 5 to 8 articles of 4–6 × 3–4 mm, densely uncinate-puberulent, dorsal suture straight or nearly so, ventral suture lobed for ⅔ between the articles. Seed oblong-reniform, ± 3.5 × 2 mm, reddish-brown.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-originaire de l’Amérique et naturalisée en Afrique, en Asie et dans le Pacifique ; en Afrique, assez répandue de la Guinée jusqu’au Cameroun et au Gabon, Afrique australe, Madagascar, Amérique du Sud et les Caraïbes ; au Gabon, connue de l’Estuaire. Botanique Meise (©)
+Native to America and naturalized in Africa, Asia and the Pacific; in Africa, fairly widespread from Guinea to Cameroon and Gabon, southern Africa, Madagascar, South America and the Caribbean; in Gabon, known from the Estuary. Botanic Gardens Meise (©)
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-forêt sèche, jachères, pelouses, bord de route ; au Gabon à basse altitude, ailleurs jusqu’à 1100 m. Fleurs et fruits en janvier et février
+dry forest, fallows, grassland, roadside; in Gabon at low altitude, elsewhere up to 1100 m. Flowers and fruits in January and February
 
 ## Vernacular names
 

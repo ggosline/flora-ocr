@@ -17,25 +17,19 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Arbre semi-décidu ou sempervirent, atteignant 10–35 m de hauteur ; tronc droit ; écorce des rameaux grise, les extrémités noirâtres sur le sec, ± glabres. Stipules lancéolées-oblongues, jusqu’à 1 cm de longueur . Feuille : pétiole 2–5 cm, glabre ; rachis 10–25 cm, glabre ; folioles 5 à 9, à pétiolule noir, de ± 8 mm, limbe oblong à ovale-oblong, 9–20 × 4–8 cm , luisant, glabre, réticulé sur les 2 faces ; nervures latérales en 7 à 10 paires distinctes. Inflorescence en racème ou panicule de pseudoracèmes, 8–25 cm de longueur ; bractées persistantes, lancéolées , 8–11 mm de longueur, finement pubérulentes. Fleur : pédicelle 2–4 mm, pubérulent ; bractéoles à la base du calice, linéaires-lancéolées, 7–8 mm de longueur ; calice 6–7 mm de longueur, glabre, dents deltoïdes-ovales, à marge pubescente ; corolle jaune , 11–15 mm de longueur, les onglets longs et étroits, étendard orbiculaire, à bords ridés, ailes obliques, obovales-oblongues, carène obtuse ; ovaire longuement stipité, oblong, à marge pubescente, à 2 ovules ; style court, aigu. Gousse sur un stipe de 5–10 mm, orbiculaire, 8–14 cm de diamètre , mince, papyracée, brillante et lisse , renflée un peu sur la graine unique, à réticulations plus visibles sur le renflement excentré, à vestiges du style presqu’invisibles. Graine circulaire, aplatie, ± 1 cm de diamètre.
+Semi-deciduous or evergreen tree, reaching 10–35 m in height; trunk straight; bark of branchlets grey, darkish at the tips when dry, ± glabrous. Stipules lanceolate-oblong, up to 1 cm in length. Leaf: petiole 2–5 cm, glabrous; rachis 10–25 cm, glabrous; leaflets 5 to 9, with black petiolule, ± 8 mm, lamina oblong to ovate-oblong, 9–20 × 4–8 cm, glossy, glabrous, reticulate on both surfaces; lateral veins in 7 to 10 pairs, distinct. Inflorescence a raceme or panicle of pseudoracemes, 8–25 cm in length; bracts persistent, lanceolate, 8–11 mm in length, finely puberulent. Flower: pedicel 2–4 mm, puberulent; bracteoles at the base of the calyx, linear-lanceolate, 7–8 mm in length; calyx 6–7 mm in length, glabrous, teeth deltoid-ovate, with pubescent margin; corolla yellow, 11–15 mm in length, the claws long and narrow, standard orbicular, with wrinkled margins, wings oblique, obovate-oblong, keel obtuse; ovary long-stipitate, oblong, with pubescent margin, with 2 ovules; style short, acute. Pod on a stipe of 5–10 mm, orbicular, 8–14 cm in diameter, thin, papyraceous, shiny and smooth, slightly swollen over the single seed, with reticulations more visible on the eccentric swelling, with style remnants almost invisible. Seed circular, flattened, ± 1 cm in diameter.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+West Africa, from Sierra Leone to Cameroon, Equatorial Guinea, Gabon and the Republic of the Congo; in Gabon, known from Ngounié
 
-Afrique occidentale, de la Sierra Léone jusqu’au Cameroun, la Guinée équatoriale, le Gabon et la République du Congo ; au Gabon, connue de la Ngounié
-
-Amérique du Sud et Afrique, du Sénégal jusqu’au Cameroun, la Guinée équatoriale et le Gabon ; au Gabon, connue du Moyen-Ogooué
+South America and Africa, from Senegal to Cameroon, Equatorial Guinea and Gabon; in Gabon, known from Moyen-Ogooué
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+secondary forests and abandoned land; up to 1250 m altitude. Flowering from October to February; fruits from December to March (in West Africa). Use: Seldom used for timber. In Nigeria, the cooked leaves are eaten as a vegetable. In Ghana, it is a shade tree for cocoa plantations.
 
-forêts secondaires et terrains abandonnés ; jusqu’à 1250 m d’altitude. Floraison d’octobre à février ; fruits de décembre à mars (en Afrique de l’Ouest). Usage : Peu utilisée pour le bois. Au Nigéria, on mange les feuilles cuites comme légume. Au Ghana, c’est un arbre d’ombre des cacaoyères
-
-forêts riveraines, lisières, savanes arborées, fréquente sur sols sableux ; au Gabon à 40 m d’altitude, ailleurs jusqu’à 500 m. Fleurs de novembre à mars ; fruits d’avril à juillet. Les fruits flottent sur l’eau. Usage : Le bois est utilisé pour des constructions temporaires, en charpenterie et sculpture et comme bois de feu. Ailleurs, on l’utilise comme coupe-vent et en médecine locale. Les feuilles servent de fourrage. Quelques populations mangent les feuilles bouillies. Les graines sont grillées en temps de disette et consommées en petite quantité, sinon elles sont indigestes ou même toxiques
+riparian forests, forest edges, wooded savannas, frequent on sandy soils; in Gabon at 40 m altitude, elsewhere up to 500 m. Flowers from November to March; fruits from April to July. The fruits float on water. Use: The wood is used for temporary constructions, in carpentry and carving and as firewood. Elsewhere, it is used as a windbreak and in local medicine. The leaves serve as fodder. Some populations eat the boiled leaves. The seeds are roasted in times of scarcity and consumed in small quantity, otherwise they are indigestible or even toxic.
 
 ## Vernacular names
 
@@ -45,13 +39,9 @@ ptérocarpe à forme de santal (fr.) ; Gambia kino (angl.). B : Arbonnier (2000)
 
 ## Source note
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+The subspecies usambarensis (Verdc.) Polhill is found in Tanzania and differs by the filiform bracts and the standard ± 10 mm in length. B: Bosch (2004b), Burkill (1995), Pellegrin (1949). Bibliography
 
-La sous-espèce usambarensis (Verdc.) Polhill se trouve en Tanzanie et en diffère par les bractées filiformes et l’étendard de ± 10 mm de longueur. B : Bosch (2004b), Burkill (1995), Pellegrin (1949). i B liographie
-
-Pterocarpus santalinoides L’Hér. ex DC. Planche 108 Prodr. 2 : 419 (1825). P. esculentus Schumach & Thonn., Beskr. Guin. pl. : 330 (1827). Arbre sempervirent ou parfois brièvement décidu, bas-branchu, 10–12 m de hauteur ; tronc à contreforts ; écorce mince, écailleuse . Stipules ± falciformes, jusqu’à 2(–3) cm de longueur, striées, pubescentes. Feuille : pétiole (2–)3–4(–5,5) cm ; rachis (4,5–)8–11(–16) cm, glabrescent ; folioles 5 à 9, à limbe ovale-elliptique, 5–13 × 3–6,5 cm , arrondi ou parAile (× 1). – 8. Carène (× 1). – 9. Fleur, corole enlevée, coupe longitudinale (× 1). – 10. Gousses (× ½). Dessin par A. Aubréville, reproduit à partir de Aubréville (1959).
-
-fois cunéé à la base, sommet acuminé, glabre, à nervation réticulée dessous. Inflorescence en grappes axillaires, 4–10 cm de longueur , peu ramifiée, à grandes fleurs, nombreuses ; bractées filiformes, pubescentes, fauves. Fleur : pédicelle 2–4(–5) mm ; bractéoles près de la base du calice, filiformes ; calice à tube de 7–8 mm de longueur, lobes 2–3 mm de longueur, tomenteux ; corolle jaune vif à orange , ± 2 cm de longueur ; étamines monadelphes, à tube fendu adaxialement ; ovaire pubescent, pluriovulé ; style pubescent. Gousse suborbiculaire , 2,5–4,5 × 3 × 2 cm, à 1 ou 2 graines, ligneuse, très bombée au milieu , la partie renflée bosselée , à aile étroite . Graine obliquement orbiculaire, 1,6–2 × 0,8–1,2 cm, à surface ondulée, brun chocolat , mate.
+Pterocarpus santalinoides L'Hér. ex DC. Plate 108 Prodr. 2: 419 (1825). P. esculentus Schumach & Thonn., Beskr. Guin. pl.: 330 (1827). Evergreen or sometimes briefly deciduous tree, low-branched, 10–12 m in height; trunk with buttresses; bark thin, scaly. Stipules ± falciform, up to 2(–3) cm in length, striate, pubescent. Leaf: petiole (2–)3–4(–5.5) cm; rachis (4.5–)8–11(–16) cm, glabrescent; leaflets 5 to 9, with lamina ovate-elliptic, 5–13 × 3–6.5 cm, rounded or sometimes cuneate at the base, apex acuminate, glabrous, with reticulate venation beneath. Inflorescence in axillary racemes, 4–10 cm in length, little branched, with large flowers, numerous; bracts filiform, pubescent, tawny. Flower: pedicel 2–4(–5) mm; bracteoles near the base of the calyx, filiform; calyx with tube 7–8 mm in length, lobes 2–3 mm in length, tomentose; corolla bright yellow to orange, ± 2 cm in length; stamens monadelphous, with tube split adaxially; ovary pubescent, polyovulate; style pubescent. Pod suborb­icular, 2.5–4.5 × 3 × 2 cm, with 1 or 2 seeds, woody, very convex in the middle, the swollen part knobby, with narrow wing. Seed obliquely orbicular, 1.6–2 × 0.8–1.2 cm, with undulate surface, chocolate brown, mat.
 
 ## Notes
 

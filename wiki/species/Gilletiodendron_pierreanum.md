@@ -24,21 +24,19 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Trees. Buds with two rows of opposite scales. Leaves with 6 (–8) alternate leaflets, obliquely oblong or oblong-elliptic, acuminate, up to 7 cm in length by 4 cm in width; with unequal base, the anterior part inflated, the posterior part narrow; marked with translucent dots, glabrous. Midvein somewhat falcate. Secondary veins numerous, fine, continuing to the marginal vein. Petiolules short (3 mm) but nevertheless distinct. Rachis glabrous, 8–12 cm.
 
-Arbres. Bourgeons à deux rangées opposées d'écailles. Feuilles à 6 (-8) folioles alternes, obliquement oblongues ou oblongues-elliptiques, acuminées, jusqu'à 7 cm de longueur sur 4 cm de largeur; à base inégale, la partie antérieure renflée, la partie postérieure étroite; marquées de points translucides, glabres. Nervure médiane un peu falciforme. Nervures secondaires nombreuses, fines, se continuant jusqu'à la nervure marginale. Pétiolues courts (3 mm) mais cependant nets. Rachis glabre, de 8-12 cm.
+Axillary and terminal panicles 5–8 cm, with finely tomentose branching. Buds glabrous. Flowers white with pink calyx. Pedicels 1.5–2 cm. Bracts short, caducous. Bracteoles small, non-overlapping, caducous. Receptacle very short. Sepals 4, subvalvate, one ovate wider than each of the 3 others. Petals 5, equal, oblong-oblanceolate. Stamens 10. Ovary sessile, glabrous; 2–4 ovules.
 
-Panicules axillaires et terminales de 5-8 cm, à ramifications finement tomenteuses. Boutons glabres. Fleurs blanches à calice rosé. Pédicelles de 1,5-2 cm. Bractées courtes, caduques. Bractéoles petites, non recouvrantes, caduques. Réceptacle très court. Sépales 4, subvalvaires, l'un ové plus large que chacun des 3 autres. Pétales 5, égaux, oblongs-oblancéolés. Étamines 10. Ovaire sessile, glabre; 2-4 ovules.
-
-Gousse de 5,5-6,5 × 2,5-3,5 cm, aplatie, lisse, glabre, stipitée et prolongée d'une pointe au sommet. 1-2 graines.
+Pod 5.5–6.5 × 2.5–3.5 cm, flattened, smooth, glabrous, stipitate and prolonged with a point at the apex. 1–2 seeds.
 
 — came 2272, Gabon (P).
 
-Arbre pouvant devenir très grand. Contreforts s'élevant à une grande hauteur. Fut cannelé, toujours de mauvaise forme.
+Tree capable of becoming very large. Buttresses rising to a great height. Trunk fluted, always of poor form.
 
-Ecorce gris clair, lisse, à tranche fibreuse, rosée. Bois brun-rosé, dur et lourd.
+Bark light gray, smooth, with fibrous pinkish section. Wood pink-brown, hard and heavy.
 
-Le Mbanégué est répandu dans le sud du Cameroun et dans tout le Gabon, plus fréquent au nord de l'Ogooué qu'au sud (de St Aubin), principalement dans les fonds humides de vallées, mais aussi sur les montagnes.
+The Mbanégué is widespread in southern Cameroon and throughout Gabon, more frequent north of the Ogooué than to the south (from St Aubin), principally in the humid bottoms of valleys, but also on mountains.
 
 ## Vernacular names
 

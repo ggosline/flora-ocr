@@ -22,11 +22,9 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Trees. Leaves with 4–6 pairs of opposite leaflets, oblong, somewhat falcate, obtusely and obliquely acuminate, with asymmetric base, the anterior angle being acute, the posterior margin rounded, glabrous except for the midvein and margins pubescent beneath, riddled with translucent punctations, thin, 3–6 × 1.2–2.5 cm. Secondary veins and veinlets forming a finely meshed network clearly visible on both faces. Rachis pubescent 7–9 cm long, channelled.
 
-Arbres. Feuilles à 4-6 paires de folioles opposées, oblongues, un peu falciformes, obtusément et obliquement acuminées, à base dissymétrique, l'angle antérieur étant aigu, le bord postérieur arrondi, glabres sauf la nervure médiane et les marges pubescents dessous, criblées de points translucides, minces, de 3-6 × 1,2-2,5 cm. Nervures secondaires et veinules formant un réseau finement maillé bien visible sur les 2 faces. Rachis pubescent de 7-9 cm de longueur, canaliculé.
-
-Panicles terminales désément fleuries, de 4-7 cm de longueur, pubescentes fauve. Fleurs roses à pédicelles longs de 3-5 mm. Bractéoles de 7-9 mm de longueur sur 6-7 mm de largeur, velues extérieurement, carénées. Sépales ovés, libres, de 3-5 mm de longueur, 3 cm de largeur, velus extérieurement, à bords ondulés et ciliés. Pétales 5 dont 4 filiformes, de 1-3 mm de longueur, 1 grand de 5-7 mm sur 5 mm de largeur. Étamines 10, 9 soudées à la base de 12 mm de longueur. Ovaire hirsute.
+Terminal panicles sparsely flowered, 4–7 cm long, pubescent tawny. Flowers pink with pedicels 3–5 mm long. Bracteoles 7–9 mm long by 6–7 mm wide, hairy externally, keeled. Sepals ovate, free, 3–5 mm long, 3 cm wide, hairy externally, with wavy ciliate margins. Petals 5, of which 4 filiform, 1–3 mm long, 1 large one 5–7 mm by 5 mm wide. Stamens 10, 9 fused at the base 12 mm long. Ovary hirsute.
 
 ## Type
 
@@ -34,9 +32,7 @@ De Briey 197, Mayumbé
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Grand arbre très rare dans les secteurs maritimes du Gabon. Répandu jusqu'au Cabinda. Non signalé dans la forêt congolaise.
+Large tree very rare in the maritime sectors of Gabon. Distributed as far as Cabinda. Not recorded in the Congolese forest.
 
 ## Specimens examined
 

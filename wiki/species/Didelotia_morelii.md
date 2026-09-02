@@ -16,13 +16,11 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Leaves paripinnate with approximately 18 pairs of leaflets. Stipules intrapetiolary, striated. Rachis pubescent, ferruginous, 12–15 cm long. Leaflets oblong, 20–25 mm in length by 5 mm in width, sessile, rounded at apex, obliquely truncate at base parallel to the rachis, posteriorly slightly auriculate, finely pubescent beneath. Midvein pubescent beneath. Secondary venation pinnate, weakly prominent. Floral buds axillary in scaly glomerate clusters, ferruginous-pubescent.
 
-Feuilles paripennées à 18 paires de folioles environ. Stipules intrapétiolaires striées. Rachis pubescent ferrugineux long de 12-15 cm. Folioles oblongues, de 20-25 mm de longueur sur 5 mm de largeur, sessiles, arrondies au sommet, à base tronquée obliquement parallèlement au rachis, postérieurement légèrement auriculée, finement pubescentes dessous. Nervure principale médiane, pubescente dessous. Nervation secondaire pennée, peu accusée. Bourgeons floraux axillaires en glomérules écailleux, pubescents ferrugineux.
+1. Didelotia Morelli Aubréville. — Leaves paripinnate, leaflets approximately 18 pairs. Stipules intrapetiolary, striated. Rachis ferruginous-pubescent, 12–15 cm long. Leaflets oblong, sessile, apex rounded, base obliquely truncate in line with the rachis, posteriorly slightly auriculate, thinly pubescent beneath. Midvein pubescent beneath. Secondary venation pinnate, scarcely conspicuous. Floral buds axillary, glomerate, glomerules squamose, ferruginous-pubescent. Inflorescences when developed spiciform. Floral buds with 2 bracteoles, 4 minute sepals, 5 filiform petals, 5 stamens, ovary glabrous sessile, 4–5 ovules, stigma acute. Fruit unknown.
 
-1. Didelotia Morelli Aubréville. — Folia paripinnata, foliolis circ. 18 jugis. Stipulae intrapetiolares striate. Rachis ferrugineopubescens, 12-15 cm longa. Foliola oblonga, sessilia, apice rotundata, basi oblique cum rachide tractu pari truncata, retro leviter auriculata, subtus tenuiter pubescentia. Nervus medianus subtus pubescens. Nervatio secundaria pinnata parum conspicua. Alabastra axillaria glomerata, glomerulus squamosis, ferrugineo-pubescentibus. Inflorescentiae evolutae spiciformes. Alabastra bracteole 2, sepala 4 minima, petala 5 filiformia, stamina 5, ovarium glabrum sessile, ovula 4-5, stigma aculum. Fructus ignotus.
-
-Inflorescence spiciforme. Bouton floral : 2 bractéoles, 4 sépales minuscules; 5 pétales filiformes; 5 étamines; 5 ovaire glabre, sessile; 4-5 ovules; stigmate pointu. Fruit inconnu.
+Inflorescence spiciform. Floral bud: 2 bracteoles, 4 minute sepals; 5 filiform petals; 5 stamens; 5 ovary glabrous, sessile; 4–5 ovules; stigma pointed. Fruit unknown.
 
 ## Type
 

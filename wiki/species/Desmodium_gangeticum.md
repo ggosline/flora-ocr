@@ -17,31 +17,23 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Suffrutex, 0,6–1,5 m de hauteur, souvent pyrophyte, pubescence à poils uncinés, glabrescent ; tige prostrée à dressée. Stipules subulées, 0,5–1 cm de longueur, pointues, scarieuses. Feuille : pétiole 1–2 cm ; stipelles subulées, ± 5 mm de longueur ; foliole 1 ou quelques feuilles à 3 folioles , à limbe étroitement elliptique à elliptique, 3–12 × 1–5 cm, sommet et base obtus, la terminale plus de 2 fois plus longue que les latérales . Inflorescence en pseudoracèmes terminaux et axillaires, 3–25 cm de longueur, lâches, avec 2 à 4 fleurs par nœud ; bractées subulées à lancéolées, 2–7,5 mm de longueur, pointues. Fleur : pédicelle grêle, 2–6 mm, courbés ; calice 2,5–3 mm de longueur, bilabié, lobes plus longs que le tube ; corolle blanche ou jaune pâle ou rose à violette, avec ailes plus foncées, étendard largement ovale à rhomboï dal, 3,5–4,5 mm de longueur, à 1 ou 2 taches basales blanches et marge pourpre foncé, ailes et carène obtuses. Gousse 1,2–2,5 cm de longueur, avec 5 à 8 articles semi- circulaires, 2–3 mm de longueur, légèrement réticulés et à poils uncinés, suture dorsale droite, la ventrale ondulée . Graine ellipsoïde à ± circulaire, atteignant 2,5 × 1,8 mm, brune.
+Subshrub, 0.6–1.5 m tall, often pyrophytic, pubescence with uncinate hairs, glabrescent; stem prostrate to erect. Stipules subulate, 0.5–1 cm long, acute, scarious. Leaf: petiole 1–2 cm; stipels subulate, ± 5 mm long; leaflet 1 or a few leaves with 3 leaflets, with blade narrowly elliptic to elliptic, 3–12 × 1–5 cm, apex and base obtuse, the terminal more than 2 times longer than the lateral ones. Inflorescence in terminal and axillary pseudoracemes, 3–25 cm long, lax, with 2 to 4 flowers per node; bracts subulate to lanceolate, 2–7.5 mm long, acute. Flower: pedicel slender, 2–6 mm, curved; calyx 2.5–3 mm long, bilabiate, lobes longer than the tube; corolla white or pale yellow or pink to violet, with wings darker, standard broadly ovate to rhomboidal, 3.5–4.5 mm long, with 1 or 2 white basal spots and dark purple margin, wings and keel obtuse. Pod 1.2–2.5 cm long, with 5 to 8 semicircular articles, 2–3 mm long, slightly reticulate and with uncinate hairs, dorsal suture straight, the ventral one undulate. Seed ellipsoid to ± circular, reaching 2.5 × 1.8 mm, brown.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+common in the paleotropics; in Gabon, known from Estuaire and Ogooué-Ivindo
 
-commune dans les paléotropiques ; au Gabon, connue de l’Estuaire et de l’Ogooué-Ivindo
-
-Aussi commune dans l’aire de l’espèce, mais non encore trouvée au Gabon. Usage : Utilisée comme plante de couverture et engrais vert
+Also common in the range of the species, but not yet found in Gabon. Use: Used as a cover plant and green manure
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+plains, savanna, gallery forest, open forest, fallows; in Gabon at low altitude, elsewhere up to 1500 m. Flowers in September. Use: Used as a cover plant and green manure. b: From Estrella et al. (2010), Ern (1984), Hepper (1958), Mackinder et al. (2001), van der Bibliography Maesen (2006a), Pellegrin (1949), Raponda-Walker & Sillans (1961), Schubert (1954, 1971)
 
-plaines, savane, forêt galerie, forêt ouverte, jachères ; au Gabon à basse altitude, ailleurs jusqu’à 1500 m. Fleurs en septembre. Usage : Utilisée comme plante de couverture et engrais vert. b : De la Estrella et al. (2010), Ern (1984), Hepper (1958), Mackinder et al. (2001), van der ibliographie Maesen (2006a), Pellegrin (1949), Raponda-Walker & Sillans (1961), Schubert (1954, 1971)
-
-var. maculatum (L.) Baker Fl. Brit. India 2 : 168 (1876). Plante herbacée à dimensions et folioles plus petites que la variété-type, issue d’une racine ligneuse, souvent à plusieurs tiges.
+var. maculatum (L.) Baker Fl. Brit. India 2 : 168 (1876). Herbaceous plant with smaller dimensions and leaflets than the typical variety, arising from a woody root, often with several stems.
 
 ## Source note
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Suivant l’opinion de Hepper (1958) et Ern (1984), cette variété est bien différente, comme aussi constaté particulièrement par van der Maesen (2006) pour le Bénin et l’Afrique Occidentale. Nous sommes ainsi en désaccord avec Pellegrin (1949) et Schubert (1971) qui l’ont mis en synonymie. Bi : Ern (1984), Hepper (1958), van der Maesen (2006a). B liographie
+Following the opinion of Hepper (1958) and Ern (1984), this variety is quite distinct, as also noted particularly by van der Maesen (2006) for Benin and West Africa. We thus disagree with Pellegrin (1949) and Schubert (1971) who placed it in synonymy. Bi: Ern (1984), Hepper (1958), van der Maesen (2006a). Bibliography
 
 ## Notes
 

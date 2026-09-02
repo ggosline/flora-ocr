@@ -17,23 +17,15 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Herbe annuelle, grimpante ; tige grêle, jusqu’à 4,8 m de longueur, pubescente-hirsute. Stipules 3–5 mm de longueur, pubescentes, prolongées en dessous de l’insertion et cordées à la base . Feuille : pétiole 2–5 cm ; rachis 6–14 mm ; stipelles 0,5 mm de longueur ; folioles à pétiolule de 1–2 mm, limbe ovale à lancéolé, 4–12 × 0,5–2,2 cm, cunéé à la base, longue -
-
-ment et étroitement acuminé au sommet, densément pubérulent au dessus, pubescent dessous. Inflorescence : pédoncule 2–22 cm, éparsement pubescent à glabre ; rachis 0,5–1 cm ; bractées triangulaires-lancéolées, 1–2 mm de longueur. Fleur : bractéoles 2–2,5 mm de longueur ; calice pubescent, à tube de 2–3 mm de longueur, lobes ovales-lancéolés, 1,5–2,5 mm de longueur, acuminés ; corolle 10–12 mm de longueur, jaune , glabre , étendard 10–11 × 10–12 mm, sommet arrondi à légèrement émarginé , muni à la face interne de deux appendices parallèles, ailes oblancéolées, 6–10 × 3 mm, carène courbée, 5–11 mm de longueur, à rostre court et obtus ; ovaire avec 6 à 10 ovules ; style prolongé au-delà du stigmate par un bec court . Gousse pendante , 5–7 cm × 4–4,5 mm, terminée par un bec recourbé , à poils bruns apprimés et blancs dressés. Graine 4 × 3–3,5 mm ; hile et strophiole excentrés , 2 mm de longueur.
+Annual climbing herb; stem slender, up to 4.8 m long, pubescent-hirsute. Stipules 3–5 mm long, pubescent, prolonged below the insertion and cordate at base. Leaf: petiole 2–5 cm; rachis 6–14 mm; stipels 0.5 mm long; leaflets with petiolule of 1–2 mm, lamina ovate to lanceolate, 4–12 × 0.5–2.2 cm, cuneate at base, long and narrowly acuminate at apex, densely puberulent above, pubescent below. Inflorescence: peduncle 2–22 cm, sparsely pubescent to glabrous; rachis 0.5–1 cm; bracts triangular-lanceolate, 1–2 mm long. Flower: bracteoles 2–2.5 mm long; calyx pubescent, tube 2–3 mm long, lobes ovate-lanceolate, 1.5–2.5 mm long, acuminate; corolla 10–12 mm long, yellow, glabrous, standard 10–11 × 10–12 mm, apex rounded to slightly emarginate, furnished on inner face with two parallel appendages, wings oblanceolate, 6–10 × 3 mm, keel curved, 5–11 mm long, with short and obtuse rostrum; ovary with 6 to 10 ovules; style prolonged beyond stigma by a short beak. Pod pendulous, 5–7 cm × 4–4.5 mm, terminated by a curved beak, with brown appressed hairs and white erect hairs. Seed 4 × 3–3.5 mm; hilum and strophiole eccentric, 2 mm long.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-du Nigéria à l’Éthiopie et l’Afrique du Sud ; au Gabon, connue de l’Estuaire et du HautOgooué
+from Nigeria to Ethiopia and South Africa; in Gabon, known from Estuaire and Haut-Ogooué
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-végétations herbacées, savanes humides, marais ; au Gabon jusqu’à 400 m d’altitude, ailleurs jusqu’à 1950 m
+herbaceous vegetation, humid savannas, marshes; in Gabon up to 400 m altitude, elsewhere up to 1950 m
 
 ## Vernacular names
 
@@ -41,9 +33,7 @@ haricot (fr.)
 
 ## Source note
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-La var. parviflora (Welw. ex Baker) Verdc., à corolle et gousse plus courtes, est distribuée de l’Angola et de la République démocratique du Congo jusqu’à l’Éthiopie et à la Zambie. B : Pasquet (2001), Verdcourt (1971c), Wilczek (1954). i B liographie
+Var. parviflora (Welw. ex Baker) Verdc., with shorter corolla and pod, is distributed from Angola and the Democratic Republic of Congo to Ethiopia and Zambia. B: Pasquet (2001), Verdcourt (1971c), Wilczek (1954). Bibliography
 
 ## Notes
 

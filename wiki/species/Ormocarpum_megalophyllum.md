@@ -17,21 +17,15 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Arbrisseau , 0,6–2 m de hauteur ; tiges et ramilles à poils glanduleux, glabrescentes. Stipules triangulaires-lancéolées, 5–7 mm de longueur, striées, glabres, les marges à soies raides. Feuille : rachis 6–18(–25) cm, grêle, sillonnée au dessus, glabre ou à soies glanduleuses courtes ; folioles 5 à 7(–9) , pétiolule 2 mm, limbe elliptique, 5–12 × 2,5–5 cm , à base cunéée, à sommet acuminé, mucronulé, glabre, la terminale souvent obovale, les basales souvent réduites. Inflorescence en racèmes de 5–18 (–26) cm de longueur, parfois plusieurs par nœud, portant des soies courtes ou des petites épines et glanduleuses à base élargie ; bractées trifides, 1,5 mm de longueur, glabres, embrassant le pédicelle. Fleur : pédicelle 5–14 mm, ± poilu ou épineux ; bractéoles 1,5 mm de longueur, près du calice ; calice étroit, 5 mm de longueur, poilu sur les nervures ; étendard obovale, 12 mm de longueur, ailes obovales, 10 mm de longueur, carène 15 × 4 mm, a sommet subaigu ; étamines monadelphes, soudées en un tube fendu unilatéralement . Gousse à sutures munies de poils glanduleux à base renflée et des poils raides ou non sur le même individu, parfois éparsement verruqueuse, avec 2 à 9 articles elliptiques, de 10–13 × 6 mm , atténués. Graine ellipsoïde, ± 8 × 5 × 3 mm, brun pâle ; hile situé vers le sommet et strophiole le long de la graine.
+Shrub, 0.6–2 m tall; stems and branchlets with glandular hairs, glabrescent. Stipules triangular-lanceolate, 5–7 mm long, striate, glabrous, margins with stiff bristles. Leaf: rachis 6–18(–25) cm, slender, furrowed above, glabrous or with short glandular bristles; leaflets 5 to 7(–9), petiolule 2 mm, blade elliptic, 5–12 × 2.5–5 cm, with cuneate base, acuminate and mucronate apex, glabrous, the terminal one often obovate, the basal ones often reduced. Inflorescence in racemes of 5–18(–26) cm long, sometimes several per node, bearing short bristles or small glandular spines with enlarged base; bracts trifid, 1.5 mm long, glabrous, clasping the pedicel. Flower: pedicel 5–14 mm, ± hairy or spiny; bracteoles 1.5 mm long, near the calyx; calyx narrow, 5 mm long, hairy on the veins; standard obovate, 12 mm long, wings obovate, 10 mm long, keel 15 × 4 mm, with subacute apex; stamens monadelphous, fused into a tube split unilaterally. Pod with sutures bearing glandular hairs with enlarged base and stiff hairs or not on the same individual, sometimes sparsely verrucose, with 2 to 9 elliptic articles, 10–13 × 6 mm, attenuate. Seed ellipsoid, ± 8 × 5 × 3 mm, pale brown; hilum situated toward the apex and strophiole along the seed.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-de la Guinée et la Sierra Léone à la République démocratique du Congo ; au Gabon, connue de l’Estuaire, de la Nyanga, de l’Ogooué-Ivindo, de l’Ogooué-Lolo et du Woleu-Ntem
+from Guinea and Sierra Leone to the Democratic Republic of the Congo; in Gabon, known from Estuaire, Nyanga, Ogooué-Ivindo, Ogooué-Lolo, and Woleu-Ntem
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-forêt saxicole, inselbergs, bords de rivière, forêt secondaire ; au Gabon à 140–760 m d’altitude, ailleurs jusqu’à 700 m. Fleurs et fruits en avril, mai et octobre ; fruits en décembre. B : Gillett (1966), Hepper (1958), Léonard (1954a, 1954b), Pellegrin (1949). i B liographie
+saxicole forest, inselbergs, river margins, secondary forest; in Gabon at 140–760 m altitude, elsewhere up to 700 m. Flowers and fruits in April, May, and October; fruits in December. B: Gillett (1966), Hepper (1958), Léonard (1954a, 1954b), Pellegrin (1949). Bibliography
 
 ## Notes
 

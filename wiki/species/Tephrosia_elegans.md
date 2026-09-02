@@ -17,21 +17,15 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Herbe annuelle ou pérenne de courte durée , atteignant 1,5 m de hauteur ; racine pivotante ; tiges à pubescence argentée ou jaunâtre foncé, apprimée. Stipules triangulaires, jusqu’à 7 mm de longueur. Feuille : petiole 3–5 mm ; rachis jusqu’à 2,5 cm ; folioles (1–)3 à 5 , à limbe étroitement à très étroitement obovale, atteignant 6 × 1,5 cm , base cunéée, sommet arrondi à émarginé avec ou sans mucron défléchi, glabre dessus, argenté dessous, nervure principale saillante, jaunâtre foncé, marges pubescentes. Inflorescence en fascicules de 2 ou 3 fleurs dans les aisselles des feuilles . Fleur : pédicelle ± 1 mm ; calice argenté, marges et intérieur jaunâtres, tube ± 2 mm de longueur, lobes lancéolés, 5–6 mm de longueur ; corolle jaune à jaune pâle , étendard à limbe de ± 7 mm de longueur , à onglet de 2 mm, argenté dorsalement, ailes et carène glabres, ± 9 et 8 mm de longueur respectivement ; étamines à filets de 6 mm, dont 2 mm libres ; ovaire ± 4 mm de longueur ; style tordu et courbé, 3 mm, glabre, sauf quelques poils près du stigmate élargi. Gousse linéaire , jusqu’à 5 × 0,6 cm , avec 4 à 6 graines, argentée , les sutures à poils bruns . Graine ellipsoïde-oblongue, ± 4,5 × 2,2 × 1,2 mm, brune ; hile excentré, strophiole saillante, foncée, cunéée.
+Annual or short-lived perennial herb reaching 1.5 m in height; taproot; stems with silvery or dark yellowish appressed pubescence. Stipules triangular, up to 7 mm in length. Leaf: petiole 3–5 mm; rachis up to 2.5 cm; leaflets (1–)3 to 5, with narrowly to very narrowly obovate limb, reaching 6 × 1.5 cm, base cuneate, apex rounded to emarginate with or without deflexed mucro, glabrous above, silvery below, main vein prominent, dark yellowish, margins pubescent. Inflorescence in fascicles of 2 or 3 flowers in the leaf axils. Flower: pedicel ± 1 mm; calyx silvery, margins and interior yellowish, tube ± 2 mm in length, lobes lanceolate, 5–6 mm in length; corolla yellow to pale yellow, standard with limb of ± 7 mm in length, with claw of 2 mm, silvery dorsally, wings and keel glabrous, ± 9 and 8 mm in length respectively; stamens with filaments of 6 mm, of which 2 mm free; ovary ± 4 mm in length; style twisted and curved, 3 mm, glabrous, except for a few hairs near the enlarged stigma. Legume linear, up to 5 × 0.6 cm, with 4 to 6 seeds, silvery, the sutures with brown hairs. Seed ellipsoid-oblong, ± 4.5 × 2.2 × 1.2 mm, brown; hilum eccentric, strophiole prominent, dark, cuneate.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Afrique occidentale et orientale, de la Guinée jusqu’au Soudan, à la Tanzanie et à l’Angola ; au Gabon, connue du Moyen-Ogooué, de la Nyanga et de l’Ogooué-Ivindo
+West and East Africa, from Guinea to Sudan, Tanzania and Angola; in Gabon, known from Middle Ogooué, Nyanga and Ogooué-Ivindo
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-savanes herbacées et arbustives, savanes humides, jachères, berges des rivières, sur sol sablonneux ou peu profond ; au Gabon à 100–800 m d’altitude, ailleurs jusqu’à 1200 m. Fleurs et fruits en février et octobre. B : Burkill (1995), Cronquist (1954), Gillett (1971d), Pellegrin (1949). i B liographie
+herbaceous and shrubby savannas, humid savannas, fallows, river banks, on sandy or shallow soil; in Gabon at 100–800 m altitude, elsewhere up to 1200 m. Flowers and fruits in February and October. B: Burkill (1995), Cronquist (1954), Gillett (1971d), Pellegrin (1949). Bibliography
 
 ## Notes
 

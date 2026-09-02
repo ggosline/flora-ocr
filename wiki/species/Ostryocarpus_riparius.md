@@ -17,27 +17,19 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Liane ou arbuste grimpant. Feuille glabre ; pétiole 5–13 cm ; rachis 6–8 cm ; folioles 3 à 5(–9), à pétiolules et pulvinus noirâtres, de (8–)10–15 mm, limbe elliptique ou rarement obovale, 9–17(–20) × (3–)5–9 cm, base tronquée à arrondie, sommet obtus à aigu ou parfois pourvu d’un court acumen et parfois replié ; nervures latérales en ± 10 paires. Inflorescence en panicule composée de pseudoracèmes, 30 cm ou plus de longueur, à fleurs concentrées sur des brachyblastes de 0,5–3 cm de longueur, à axes pubescents. Fleur : pédicelle ± 2 mm ; bractéoles linéaires, ± 2 mm de longueur ; calice 3–4 mm de longueur, à pubescence rousse ; corolle rose jaunâtre à crème , étendard ovale, 7–8 × ± 5 mm , à onglet veinulé, ailes ± 8 × 2,5 mm, carène ± 9 × 3 mm ; étamines soudées en gouttière de ± 7 mm ; ovaire linéaire, ± 5 mm, velu ; style 3 mm. Gousse d’abord ovale, à maturité ovale à subcirculaire, 4,5–6 × 4–5 cm , valves à nervures ondulées, sutures épaissies, doubles . Graine suborbiculaire à largement oblongue, 3–5 × 3–3,5 mm, acajou.
+Liane or climbing shrub. Leaf glabrous; petiole 5–13 cm; rachis 6–8 cm; leaflets 3 to 5(–9), with petiolules and pulvinus dark, (8–)10–15 mm, blade elliptic or rarely obovate, 9–17(–20) × (3–)5–9 cm, base truncate to rounded, apex obtuse to acute or sometimes bearing a short acumen and sometimes reflexed; lateral veins in ± 10 pairs. Inflorescence a panicle composed of pseudoracemes, 30 cm or more in length, with flowers concentrated on brachyblasts 0.5–3 cm in length, with pubescent axes. Flower: pedicel ± 2 mm; bracteoles linear, ± 2 mm in length; calyx 3–4 mm in length, with rusty pubescence; corolla yellowish-pink to cream, standard ovate, 7–8 × ± 5 mm, with veined claw, wings ± 8 × 2.5 mm, keel ± 9 × 3 mm; stamens fused in a groove ± 7 mm; ovary linear, ± 5 mm, hairy; style 3 mm. Pod at first ovate, at maturity ovate to subcircular, 4.5–6 × 4–5 cm, valves with wavy veins, thickened sutures, double. Seed suborbicular to broadly oblong, 3–5 × 3–3.5 mm, mahogany.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-de la Guinée jusqu’à la République démocratique du Congo ; au Gabon, connue de l’Estuaire et de l’Ogooué-Maritime
+from Guinea to the Democratic Republic of the Congo; in Gabon, known from Estuaire and Ogooué-Maritime
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-semi-aquatique, marécages, bord de rivières, forêt ouverte, lisière de savane, mangroves ; au Gabon et ailleurs à 0–200 m d’altitude. Fleurs en mai et juin et décembre ; fruits en mai. Usage : L’écorce a été utilisée comme fibre et pour la fabrication des cordes, ainsi que comme ichtyotoxique
+semi-aquatic, marshes, river banks, open forest, savanna edge, mangroves; in Gabon and elsewhere at 0–200 m in altitude. Flowers in May and June and December; fruits in May. Uses: The bark has been used as fibre and for rope manufacture, as well as an ichthyotoxic
 
 ## Source note
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Tous les spécimens gabonais sont lianescents, bien que Pellegrin (1949) et Dunn (1911b) ont mentionné comme port un arbuste sarmenteux ou grimpant. B : Burkill (1995), Dunn (1911b), Hauman (1954d), Pellegrin (1949). i B liographie
+All Gabonese specimens are lianescent, although Pellegrin (1949) and Dunn (1911b) mentioned as habit a sarmentose or climbing shrub. B: Burkill (1995), Dunn (1911b), Hauman (1954d), Pellegrin (1949). Bibliography
 
 ## Notes
 

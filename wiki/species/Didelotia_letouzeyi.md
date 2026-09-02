@@ -17,15 +17,11 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Trees. Leaves unijugate. Stipules intrapetiolar. Rachis very short, approximately 5 mm. Leaflets narrowly ovate-oblong, falcate, asymmetric, gradually acuminate, with unequal base, ordinarily 5 to 8 cm in length, 2–4 cm in width, glabrous. The leaves of seedlings may be bijugate. On young unijugate leaves, one can observe on the petiole the presence of a pair of stipels, sometimes visible also on adult leaves.
 
-Arbres. Feuilles unijuguées. Stipules intrapétiolaires. Rachis très court, de 5 mm environ. Folioles étroitement ovées oblongues, falciformes, asymétriques, graduellement acuminées, à base inégale, ordinairement de 5 à 8 cm de longueur, 2-4 cm de largeur, glabres. Les feuilles des plantules peuvent être bijuguées. Sur les
+Inflorescences axillary, pendulous, in compound racemes, measuring up to 20 cm in length, with very short branches. Bracts ovate, very small. Pedicels 3–4 mm long. Bracteoles 5–6 mm in length, pubescent externally. Receptacle cupuliform, fleshy, with undulate margins. Sepals and petals invisible. Stamens 5, 8–9 mm in length. Ovary glabrous, 4-ovulate.
 
-jeunes feuilles unijuguées, on peut observer sur le pétiole la présence d’une paire de stipelles, visibles quelquefois aussi sur les feuilles adultes.
-
-Inflorescences axillaires, pendantes, en racèmes composés, mesurant jusqu'à 20 cm de longueur, à ramifications très courtes. Bractées ovées très petites. Pédicelles longs de 3-4 mm. Bractéoles 5-6 mm de longueur, pubescentes extérieurement. Réceptacle cupuliforme, charnu, à bords ondulés. Sépales et pétales invisibles. Étamines 5, de 8-9 mm de longueur. Ovaire glabre, 4-ovulé.
-
-Gousses glabres, oblongues, marquées d'une nervure longitudinale, longues de 6-8 cm, à 1-2 graines.
+Pods glabrous, oblong, marked with a longitudinal nerve, 6–8 cm long, with 1–2 seeds.
 
 ## Vernacular names
 
@@ -39,13 +35,11 @@ Letouzey 1413, Cameroun (P)
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Species close to D. africana with which it is confused by collectors; it is generally well distinguished from it by its smaller leaflets.
 
-Espèce proche de D. africana avec laquelle elle est confondue par les prospecteurs; elle s'en distingue généralement bien par ses folioles plus petites.
+Large tree, with cylindrical, straight trunk, to the base which is slightly thickened. Bark smooth with tender, fibrous section, pink or reddish. Foliage in tufts of drooping leaves. Wood salmon-pink in colour, tender and light, with coarse grain.
 
-Grand arbre, au fût cylindrique, droit, jusqu'à la base qui est légèrement épaissie. Écorce lisse à tranche tendre, fibreuse, rose ou rougeâtre. Feuillage en bouquets de feuilles tombantes. Bois couleur rose saumon, tendre et léger, à grain grossier.
-
-Espèce assez fréquente au Cameroun (région de Kribi, Edéa, Eséka) et au Gabon jusqu'au Mayombé, mais disséminée par pieds isolés.
+Species fairly frequent in Cameroon (region of Kribi, Edéa, Eséka) and in Gabon up to the Mayombé, but scattered in isolated trees.
 
 ## Specimens examined
 

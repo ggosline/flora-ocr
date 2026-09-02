@@ -16,23 +16,15 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-in Oliv., Fl. trop. Afr. 2 : 112 (1871). Suffrutex ou herbe annuelle ou pérenne de courte durée , 0,5–1,5(–2) m de hauteur ; tiges semi-érigées à érigées, à pubescence dense, apprimée. Stipules étroitement triangulaires, 4–11 mm de longueur. Feuille : pétiole 3–14 mm ; rachis jusqu’à 11 cm ; folioles 13 à 19(–25) , limbe étroitement obovale à étroitement elliptique, 15–38(–45) × (3–)7–10(–12) mm, le terminal un peu plus large, base étroitement cunéée, sommet arrondi ou aigu, apiculé, glabre dessus, soyeux dessous. Inflorescence terminale ou axillaire, en pseudoracèmes de 15–30 cm de longueur, à fleurs lâches ; bractées caduques, étroites, 2–6 mm de longueur. Fleur : pédicelle 2–5 mm ; calice à pubescence dense, brune , tube 2–2,5 mm de longueur, lobes supérieurs ± 1,5 mm de longueur et soudés sur ¾ de leur longueur , les latéraux 2–3 mm de longueur, l’inférieur jusqu’à 6 mm de longueur ; corolle blanche à pourpre ou jaunâtre , étendard 8–13 mm de longueur , brun, soyeux à l’extérieur ; étamines à tube de 7 mm, partie libre des filets 3–4 mm ; ovaire pubescent ; style tordu, 4 mm, glabre, pénicellé . Gousse étalée ou ascendante, linéaire, courbée ou non, atteignant 5,5 × 0,7 cm, avec (6–)7 à 9(–10) graines, à pubescence dense de poils bruns à brun-rouge, celle des sutures souvent plus foncé , de 0,4–1,7 mm. Graine réniforme à rectangulaire, 3–4 × 2–3 × 1–1,5 mm, brune, rugueuse ; hile à / du côté 2 5 long, strophiole petite, crème.
+in Oliv., Fl. trop. Afr. 2 : 112 (1871). Suffrutex or annual or short-lived perennial herb, 0.5–1.5(–2) m tall; stems semi-erect to erect, densely pubescent, appressed. Stipules narrowly triangular, 4–11 mm long. Leaf: petiole 3–14 mm; rachis up to 11 cm; leaflets 13 to 19(–25), blade narrowly obovate to narrowly elliptic, 15–38(–45) × (3–)7–10(–12) mm, the terminal slightly wider, base narrowly cuneate, apex rounded or acute, apiculate, glabrous above, silky below. Inflorescence terminal or axillary, in pseudoracemes 15–30 cm long, with lax flowers; bracts caducous, narrow, 2–6 mm long. Flower: pedicel 2–5 mm; calyx densely pubescent, brown, tube 2–2.5 mm long, upper lobes ± 1.5 mm long and connate for ¾ of their length, lateral lobes 2–3 mm long, lower lobe up to 6 mm long; corolla white to purple or yellowish, standard 8–13 mm long, brown, silky outside; stamens with tube 7 mm, free part of filaments 3–4 mm; ovary pubescent; style twisted, 4 mm, glabrous, penicillate. Pod spreading or ascending, linear, curved or not, reaching 5.5 × 0.7 cm, with (6–)7 to 9(–10) seeds, densely pubescent with brown to reddish-brown hairs, those on the sutures often darker, 0.4–1.7 mm. Seed reniform to rectangular, 3–4 × 2–3 × 1–1.5 mm, brown, rugose; hilum 2/5 of the side long, strophiole small, cream.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-probablement originaire de l’Afrique tropicale de l’Est, mais introduite et maintenant présente du Libéria jusqu’au Kenya, à Zanzibar, au Malawi et au Mozambique, aussi aux Seychelles et aux
-
-Mascareignes, à Madagascar et en Inde ; introduite dans d’autres régions tropicales ; au Gabon, rare et seulement connue dans le passé (1903) de l’Estuaire (Libreville).
+probably native to East tropical Africa, but introduced and now present from Liberia to Kenya, Zanzibar, Malawi and Mozambique, also in the Seychelles and the Mascarenes, Madagascar and India; introduced in other tropical regions; in Gabon, rare and only known in the past (1903) from Estuaire (Libreville).
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-pelouses, savanes ouvertes ou arbustives, bords des rivières, ailleurs aussi en culture et naturalisée ; au Gabon à basse altitude, ailleurs jusqu’à 1800 m. Usage : Utilisée comme ichtyotoxique. Bi : Brummitt et al. (2007), Burkill (1995), Cronquist (1954), Gillett (1971d), Watt & BreyerB liographie Brandwijk (1962)
+grasslands, open or shrubby savannas, river banks, elsewhere also in cultivation and naturalized; in Gabon at low altitude, elsewhere up to 1800 m. Uses: Used as an ichthyotoxic. Bibliography: Brummitt et al. (2007), Burkill (1995), Cronquist (1954), Gillett (1971d), Watt & Breyer-Brandwijk (1962)
 
 ## Notes
 

@@ -23,17 +23,13 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Leonard (Pl. 54, p. 227)
 
-Léonard (Pl. 54, p. 227)
+Small trees, shrubs. Leaves 3 (-4) jugate. Stipules lanceolate acute 1–6 cm long, subpersistent, with caducous auricles. Leaflets obovate oblong, up to 30 cm in length and 9 cm in width. Blade glabrous, somewhat waffled by about twenty lateral nerves very prominent beneath and united near the margin by a scalloped nerve very pronounced.
 
-Petits arbres, arbustes. Feuilles 3 (-4) juguées. Stipules lancéolées aiguës longues de 1-6 cm, subpersistantes, à oreillettes caduques. Folioles obovées oblongues, jusqu'à 30 cm de longueur sur 9 cm de largeur. Limbe glabre, un peu gaufré par une vingtaine de nervures latérales très saillantes dessous et réunies près de la marge par une nervure en feston très marquée.
+Loose panicles, axillary or terminal. Buds apiculate, ferrugineous. Pedicels 1.5 cm. Bracteoles 1 cm long. Sepals 5, glabrous, 5–6 mm long, united at the base into a tube 2–3 mm. One large petal with 2 suborbicular lobes 1 cm in diameter each, and a claw 6 mm. 4 small petals somewhat smaller than the sepals. Fertile stamens 3, exserted; rudimentary staminodes. Ovary subsessile, villous.
 
-Panicules lâches, axillaires ou terminales. Boutons apiculés,
-
-ferrugineux. Pédicelles de 1,5 cm. Bractéoles longues de 1 cm. Sépales 5, glabres, longs de 5-6 mm, soudés à la base en un tube de 2-3 mm. Un grand pétale à 2 lobes suborbiculaires de 1 cm de diamètre chacun, et un onglet de 6 mm. 4 petits pétales un peut plus petits que les sépales. Étamines fertiles 3, exsertes; des staminodes rudimentaires. Ovaire subsessile, velu.
-
-Fruit plat, oblong, surface marquée d'une nervure longitudinale et de rides transversales.
+Fruit flat, oblong, surface marked by a longitudinal nerve and transverse wrinkles.
 
 ## Type
 
@@ -41,9 +37,7 @@ Griffon du Bellay 299, Gabon (P)
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Espèce reconnue du sud de la Nigéria au Cameroun et au Gabon.
+Species recognized from southern Nigeria to Cameroon and Gabon.
 
 ## Vernacular names
 

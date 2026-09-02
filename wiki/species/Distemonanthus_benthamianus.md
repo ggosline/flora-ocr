@@ -21,17 +21,13 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 — de Saint-Aubin, For. Gabon. 66 (1963). — Heitz, For. Gabon : 90 (1943).
 
-Arbres. Feuilles imparipennées généralement à 5 paires de folioles alternes ou subopposées (-7). Rachis de 6-20 cm de longueur, pubescent ferrugineux chez les jeunes feuilles. Folioles lancéolées ou oblongues, ou oblongues-elliptiques, acuminées aiguës et apiculées, arrondies à la base, de couleur vert clair, longues de 5-10 cm, larges de 2-4 cm, un peu pubescentes dessous. Une douzaine de nervures latérales, saillantes dessous avec des nervures intercalaires parallèles. Réticulum lâche de nervilles.
+Trees. Leaves imparipinnate generally with 5 pairs of alternate or subopposite leaflets (-7). Rachis 6–20 cm long, ferruginous pubescent on young leaves. Leaflets lanceolate or oblong, or oblong-elliptic, acute and acuminate with an apiculum, rounded at the base, light green in colour, 5–10 cm long, 2–4 cm wide, somewhat pubescent beneath. About a dozen lateral nerves, prominent beneath with parallel intercalary nerves. Loose reticulum of veinlets.
 
-Inflorescences en cymes bipares paniculées lâches, axillaires, grèles, pubescentes. Fleurs couleur lie de vin, inodores. Boutons oblongs-lancéolés, aïgus, obliques, d'env. 1,5 cm de longueur. Pédicelles pubescents, jusqu'à 2 cm de longueur Réceptacle cupuliforme, court. Calice à 5 sépales inégaux, de 10-15 mm de longueur, pubescents brunâtre extérieurement; 2 grands étant environ 2 fois plus larges que les 3 autres plus petits; rouge
+Inflorescences in lax bipinnate paniculate cymes, axillary, slender, pubescent. Flowers wine-coloured, inodorous. Buds oblong-lanceolate, acute, oblique, approximately 1.5 cm long. Pedicels pubescent, up to 2 cm long. Receptacle cupuliform, short. Calyx with 5 unequal sepals, 10–15 mm long, brownish pubescent externally; 2 large ones being approximately twice as wide as the 3 other smaller ones; reddish-violet with dark brown margins. Petals 3, unequal, subsessile, lanceolate, white; the largest measuring 15 × 4 mm, the 2 lateral ones 10 × 3 mm. Stamens 2, with white filaments. Anthers articulated at the summit of the filaments, linear, approximately 6 mm long, carmine, opening by apical pores. Staminodes 3. Ovary brown hirsute, 4–5 ovules.
 
-violacé à bords brun noir. Pétales 3, inégaux, subsessiles, lancéolés, blancs; le plus grand mesurant  $ 15 \times 4 $ mm, les 2 latéraux  $ 10 \times 3 $ mm. Étamines 2, à filets blancs. Anthères articulées au sommet des filets, linéaires, d'env. 6 mm de longueur, carminées, s'ouvrant par des pores apicaux. Staminodes 3. Ovaire hirsute brun, 4-5 ovules.
-
-Gousse plate, oblongue, apiculée, mince, jaune-rougeâtre, lisse, glabrescente, de 9-12 cm de longueur sur 3,5 cm de largeur. Petites graines brunes, plates, d'env. 9 × 5 mm.
+Pod flat, oblong, apiculate, thin, yellowish-red, smooth, glabrescent, 9–12 cm long by 3.5 cm wide. Small brown seeds, flat, approximately 9 × 5 mm.
 
 ## Vernacular names
 
@@ -45,13 +41,11 @@ Mann, Corisco Bay
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Large deciduous trees, with straight trunk sometimes slightly sinuous, cylindrical, with thin poorly developed or absent buttresses. Crown spreading in an umbrella shape, with light foliage. Bark of remarkable red colour, which makes this species one of the easiest to recognize, even from a distance. Smooth bark peeling off in broad thin plates leaving red scars that give the trunk its characteristic colour. Thin reddish grain, granular, brittle. Beautiful yellow wood.
 
-Grands arbres décidus, à fût droit parfois un peu sinueux, cylindrique, à contreforts minces peu développés ou nuls. Cime étalée en parasol, à couvert léger. Écorce de couleur rouge remarquable, qui fait de cette espèce une des plus faciles à reconnaître, même de loin. Écorce lisse se détachant par larges plaques minces laissant des cicatrices rouges qui donnent au fût sa couleur caractéristique. Tranche mince rouge atre, granuleuse, cassante. Beau bois jaune.
+Flowering occurs after leaf fall. During this period, the petals and stamens detach and fall like rain from the flowering trees.
 
-La floraison a lieu après la chute des feuilles. À cette période, les pétales et les étamines se détachent et tombent en pluie des arbres fleuris.
-
-Cette espèce est disséminée dans toutes les forêts, mais elle est surtout fréquente dans les formations secondaires, notamment au nord du Gabon. Elle est répandue depuis la Sierra Leone jusqu'au Gabon. Elle ne semble pas présente dans la forêt congolaise, du moins elle n'est pas citée dans la F.C.B. Son aire est essentiellement atlantique.
+This species is scattered throughout all forests, but it is especially frequent in secondary formations, notably in northern Gabon. It is widespread from Sierra Leone to Gabon. It does not appear to be present in Congolese forest, at least it is not cited in the F.C.B. Its range is essentially Atlantic.
 
 ## Specimens examined
 

@@ -22,13 +22,11 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Resiniferous trees. Leaves with 9–11 alternate leaflets, elliptic or ovate or oblong, with acuminate apex, with rounded or obtuse base, glabrous, 4.5–5.5 × 2.5 cm. Rachis 8–10 cm. Petiolules 4 mm. Numerous parallel lateral veins, generally extending to the marginal vein, clearly visible on both surfaces. Limb with translucent dots. One marginal gland near the petiolule, one apical gland at the apex of the main vein, below.
 
-Arbres résinfères. Feuilles à 9-11 folioles alternes, elliptiques ou ovées ou oblongues, à sommet acuminé, à base arrondie ou obtuse, glabres, de 4,5-5,5 × 2,5 cm. Rachis de 8-10 cm. Pétio-lules 4 mm. Nombreuses nervures latérales parallèles, généra-lement tracées jusqu'à la nervure marginale, bien visibles sur les 2 faces. Limbe à points translucides. Une glande marginale près du pétioule, une glande apicale à l'extrémité de la nervure principale, en dessous.
+Axillary racemes, 8–10 cm long, tawny-hairy. Flowers distichous. Large hairy bracts, 7 mm, rapidly caducous. Pedicels 5–7 mm, hairy, articulated at the base. Bracteoles 2, lanceolate acute, 2 mm. Flowers white. Sepals 4; 3 oblong lanceolate, hairy on both surfaces, 7 × 2.5 mm, the 4th obtuse, 5 mm long. Petal 1, minute in the bud, but developed in the open flower, elliptic, clawed, glabrous, caducous. Stamens 10, alternately long and short. Ovary shortly stipitate, inserted at the base of the receptacle, hairy on the margins. (5–) 6 (–7) ovules.
 
-Grappes axillaires, longues de 8-10 cm, velues fauve. Fleurs distiques. Grandes bractées velues, de 7 mm, rapidement caduques. Pédicelles de 5-7 mm, velus, articulés à la base. Bractéoles 2, lancéolées aiguës, de 2 mm. Fleurs blanches. Sépales 4; 3 oblongs lancéolés, velus sur les 2 faces, de 7 × 2,5 mm, le 4° obtus, long de 5 mm. Pétale 1, minuscule dans le bouton, mais développé dans la fleur épanouie, elliptique, onguiculé, glabre, caduc. Étamines 10, alternativement longues et courtes. Ovaire cour- tement stipité, inséré au fond du réceptacle, velu sur les marges. (5-) 6 (-7) ovules.
-
-Gousses oblongues lancéolées, plates, terminées par une longue pointe, brièvement stipitées, glabres, lisses, s'ouvrant en 2 valves minces, coriaces, sans nervures saillantes, de 7-10 × 2,5-4 cm. Graines 1-2, oblongues, épaisses.
+Legumes oblong lanceolate, flat, terminated by a long point, shortly stipitate, glabrous, smooth, opening into 2 thin, coriaceous valves, without prominent veins, 7–10 × 2.5–4 cm. Seeds 1–2, oblong, thick.
 
 ## Vernacular names
 
@@ -42,11 +40,9 @@ Le Testu 2189, Gabon (P)
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Large tree with tall, straight, cylindrical trunk furnished with thick buttresses, with rounded crests, or base simply thickened. Bark smooth, superficially fissured vertically, with fibrous section, ochre. When incised it slowly exudes a small quantity of black and fragrant resin. Wood brown with coppery reflections, half-hard and half-heavy.
 
-Grand arbre à tronc élevé, droit, cylindrique muni de contreforts épais, à crêtes arrondies, ou base simplement épaissie. Écorce lisse, superficiellement fendillée verticalement, à tranche fibreuse, ocre. Entaillée elle exsude lentement une petite quantité de résine noire et parfumée. Bois brun à reflets cuivrés, mi dur et mi lourd.
-
-Cet arbre exclusivement gabonais ressemble au Sindora africana, mais les aires sont distinctes; ce dernier est exclusivement côtier, le Ghéombi se trouve à l'intérieur du Gabon. De Saint-Aubin indique qu'il est parfois très abondant dans la forêt primitive des Monts de Cristal et des Monts Tandous. Ailleurs il est disséminé.
+This tree exclusively Gabonese resembles Sindora africana, but the ranges are distinct; the latter is exclusively coastal, the Ghéombi is found in the interior of Gabon. De Saint-Aubin indicates that it is sometimes very abundant in the primary forest of the Cristal Mountains and the Tandous Mountains. Elsewhere it is scattered.
 
 ## Specimens examined
 

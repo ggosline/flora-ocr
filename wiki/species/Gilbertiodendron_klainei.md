@@ -21,15 +21,13 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Leonard (Pl. 55, p. 233)
 
-Léonard (Pl. 55, p. 233)
+Trees. Leaves 5–9 jugate. Rachis 10 to 40 cm. Stipules lanceolate, acute, velutinous, 2.5–3 cm long. Leaflets lanceolate, with cuspidate, acute apex, rounded or acute base, 6 to 17 cm long by 4 cm wide, glabrous above, finely puberulent below.
 
-Arbres. Feuilles 5-9 juguées. Rachis de 10 à 40 cm. Stipules lancéolées, aiguës, veloutées, longues de 2,5-3 cm. Folioles lancéolées, à sommet cuspidé, aigu, à base arrondie ou aiguë, de 6 à 17 cm de longueur sur 4 cm de largeur, glabres dessus, finement pubérulentes dessous.
+Terminal and axillary panicles velutinous brown, strongly ramified. Pedicels 10–22 mm. Bracts 8 mm, tardily caducous. Bracteoles 1 cm, ovate, thick, brown velutinous externally. Sepals 5, lanceolate, glabrous, 4.5–5 mm long. One large petal with bilobed blade 1.4 cm wide and 1.2 cm long, with claw 6 mm. Fertile stamens 3; 2–3 staminodes. Ovary subsessile pubescent on the margins.
 
-Panicules terminales et axillaires veloutées brunes, fortement ramiﬁées. Pédicelles de 10-22 mm. Bractées de 8 mm, tardivement caduques. Bractéoles de 1 cm, ovées, épaisses, brunes veloutées extérieurement. Sépales 5, lancéolés, glabres, de 4,5-5 mm de longueur. Un grand pétale à lame bilobée large de 1,4 cm et long de 1,2 cm, à onglet de 6 mm. Étamines fertiles 3; 2-3 staminodes. Ovaire subsessile velu sur les marges.
-
-Gousse oblongue, arrondie à la base, tronquée au sommet, aplatie, ligneuse, glabre, jusqu'à  $ 25 \times 8-9 $ cm, marquée de 3-4 côtes longitudinales très saillantes, et de rides transversales.
+Pod oblong, rounded at base, truncate at apex, flattened, woody, glabrous, up to 25 × 8–9 cm, marked with 3–4 very prominent longitudinal ribs, and transverse wrinkles.
 
 ## Type
 
@@ -37,11 +35,9 @@ Klaine 2936, Libreville (P)
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Large tree, with straight, cylindrical bole, without buttresses. Bark smooth or scaly on large trees. Heartwood fibrous, yellowish. Wood brown, medium-heavy.
 
-Grand arbre, à fût droit, cylindrique, sans contreforts. Écorce lisse ou écailleuse chez les gros arbres. Tranche fibreuse, jaunâtre. Bois brun, mi lourd.
-
-Se présente au Gabon en bouquets de quelques pieds, en terrain frais (de Saint-Aubin).
+Found in Gabon in clusters of a few trees, in fresh ground (according to Saint-Aubin).
 
 ## Vernacular names
 

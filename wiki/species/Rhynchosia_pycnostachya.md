@@ -17,21 +17,15 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Herbe grimpante, robuste ; rameaux glabres. Feuille glabre : folioles à limbe obovalelosangique, à acumen atteignant 15–22 mm de longueur . Inflorescence en pseudoracèmes parfois ramifiés, denses et ± unilatéraux ; rachis robuste, densément poilu à poils courts et blancs ou roux. Fleur : pédicelle 9–14 mm ; calice densément pileux, y compris quelques poils avec une base vésiculeuse, lobes du calice obtus, le supérieur 15–18 × 4–6 mm, très élargi et à peine bilobé au sommet ; corolle jaune, étendard obovale, limbe 13 × 12 mm, courtement auriculé, à onglet de 2 mm, ailes 13 × 3 mm, carène à limbe de 12 mm de longueur, à onglet de 5 mm ; étamines 16 mm. Gousse couverte d’un velours de poils jaunes. Graine subglobuleuse, bleu foncé , brillante.
+Climbing herb, robust; branches glabrous. Leaf glabrous: leaflets with obovate-rhombic blade, with acumen reaching 15–22 mm in length. Inflorescence in pseudoracemes sometimes branched, dense and ± unilateral; rachis robust, densely hairy with short and white or reddish hairs. Flower: pedicel 9–14 mm; calyx densely pilose, including some hairs with a vesiculate base, calyx lobes obtuse, the upper one 15–18 × 4–6 mm, very much enlarged and scarcely bilobed at the apex; corolla yellow, standard obovate, blade 13 × 12 mm, shortly auriculate, with claw of 2 mm, wings 13 × 3 mm, keel with blade 12 mm in length, with claw of 5 mm; stamens 16 mm. Pod covered with a velvet of yellow hairs. Seed subglobose, dark blue, glossy.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Afrique de l’Ouest à centrale, Guinée équatoriale (Bioko) et République démocratique du Congo ; à rechercher au Gabon
+West to central Africa, Equatorial Guinea (Bioko) and Democratic Republic of the Congo; to be sought in Gabon
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-galeries forestières, stations humides, bords de marécages ; à 0–720 m d’altitude. Usage : L’espèce à plusieurs usages médicinaux, est une ornementale potentielle. Bi : Burkill (1995), De la Estrella et al. (2010), Hauman (1954c). B liographie
+Forest galleries, humid stations, marsh edges; at 0–720 m altitude. Use: The species has several medicinal uses, is a potential ornamental. Bi: Burkill (1995), De la Estrella et al. (2010), Hauman (1954c). Bibliography
 
 ## Notes
 

@@ -17,29 +17,19 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Liane , tige atteignant 30 m de longueur, jusqu’à 20 cm de diamètre ; rameaux grêles, striés et couverts de poils urticants roux. Stipules caduques, lancéolées, petites. Feuille : pétiole 10–14 cm, peu poilu ; rachis comparable, 3–4 cm, poilu ; stipelles filiformes, 1–4 mm ; folioles parcheminées, pétiolule 6–8 mm, velu, la terminale à limbe subrhomboïdal, les latérales très asymétriques, ± ovales, 8–16 × 7–12 cm, base subcordée, sommet obtus, poils rares dessus, poils lâches, courts, apprimés, gris-argenté dessous. Inflorescence en grappe avec de nombreuses fleurs ; pédoncule 25–40 cm , velu, noueux. Fleur : pédicelle 0,5–2 cm, velu ; calice campanulé, à l’extérieur couvert de poils courts, blanchâtres, persistants et de soies plus lon -
-
-gues, rares, rousses, urticantes et ± caduques, tube ± 1 cm de longueur, à dents ± triangulaires, la supérieure 3 mm de longueur, les inférieurs ± 1 cm de longueur ; corolle jaune ou blanche teinté de vert , étendard ± 5 cm de longueur, ailes ± 8 cm de longueur, pubescentes à la base, carène 8,5–9 cm de longueur, aigüe. Gousse oblongue, 5–20 × 3–4 cm, atténuée à la base, sommet à mucron oblique, à 2 ou 3 graines, coriace, à bords ondulés, à poils urticants roux . Graine ± 2 cm de diamètre, ± 0,5 cm d’épaisseur ; hile couvrant 3 / la longueur de la graine. 5
+Liane, stem reaching 30 m in length, up to 20 cm in diameter; slender branchlets, striated and covered with rusty stinging hairs. Stipules caducous, lanceolate, small. Leaf: petiole 10–14 cm, slightly hairy; rachis comparable, 3–4 cm, hairy; stipels filiform, 1–4 mm; leaflets coriaceous, petiolule 6–8 mm, hairy, the terminal one with subrhomboidal lamina, the lateral ones very asymmetric, ± oval, 8–16 × 7–12 cm, base subcordate, apex obtuse, hairs rare above, loose, short, appressed hairs, silvery-grey below. Inflorescence in a raceme with numerous flowers; peduncle 25–40 cm, hairy, knotted. Flower: pedicel 0.5–2 cm, hairy; calyx campanulate, externally covered with short, whitish, persistent hairs and longer, rare, rusty, stinging setae and ± caducous, tube ± 1 cm in length, with ± triangular teeth, the upper one 3 mm in length, the lower ones ± 1 cm in length; corolla yellow or white tinged with green, standard ± 5 cm in length, wings ± 8 cm in length, pubescent at the base, keel 8.5–9 cm in length, acute. Pod oblong, 5–20 × 3–4 cm, attenuate at the base, apex with an oblique mucro, with 2 or 3 seeds, coriaceous, with undulate margins, with rusty stinging hairs. Seed ± 2 cm in diameter, ± 0.5 cm in thickness; hilum covering 3/5 the length of the seed.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-de la Sierra Leone au Cameroun, au Gabon, à la République centrafricaine et à la Répu blique démocratique du Congo ; au Gabon, connue de la Ngounié
+from Sierra Leone to Cameroon, Gabon, Central African Republic and Democratic Republic of Congo; in Gabon, known from the Ngounié
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-bords des ruisseaux, lisières des forêts humides, savanes et terrains périodiquement inondés ; au Gabon à 600 m d’altitude, ailleurs jusqu’à 1250 m
+stream banks, edges of humid forests, savannas and periodically flooded lands; in Gabon at 600 m altitude, elsewhere up to 1250 m
 
 ## Source note
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Les variétés du complexe de Mucuna poggei ont été élevées au niveau d’espèces (Moura & Lewis 2014). Le vrai M. poggei , avec des nervures sur la face inférieure des folioles densément poilues avec des poils longs et stipelles de 5–6 mm de longueur, se trouve en Angola, les deux Congo, le Kenya, l’Ouganda, la Tanzanie et la Zambie. Usage : Plante colorante d’importance locale
+The varieties of the Mucuna poggei complex have been elevated to species level (Moura & Lewis 2014). The true M. poggei, with veins on the lower surface of leaflets densely hairy with long hairs and stipels of 5–6 mm in length, is found in Angola, the two Congos, Kenya, Uganda, Tanzania and Zambia. Use: Locally important dye plant
 
 ## Vernacular names
 

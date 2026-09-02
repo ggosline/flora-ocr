@@ -17,15 +17,11 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Large trees. Leaves glabrous with 4-10 alternate leaflets. Rachis 10-15 cm. Leaflets oblong or elliptic, rounded or emarginate at apex, cuneiform or obtuse at base, presenting translucent dots, 7-11 cm long, 3-5 cm wide. Lateral nerves 6-10 pairs, forming with intermediate parallel venules and transverse veinlets a finely prominent reticulum above and below which joins a marginal nerve. Petiolules ± twisted.
 
-Grands arbres. Feuilles glabres à 4-10 folioles alternes. Rachis de 10-15 cm. Folioles oblongues ou elliptiques, arrondies ou émarginées au sommet, cunéiformes ou obtuses à la base, présentant des points translucides, longues de 7-11 cm, larges de 3-5 cm. Nervures latérales 6-10 paires, formant avec des nervilles parallèles intermédiaires et des veinules transversales un réseau finement saillant dessus et dessous qui se joint à une nervure marginale. Pétiolules ± tordus.
+Glabrous panicles of very short racemes, where very small flowers (5-6 mm) are crowded against one another, sub-sessile. A large bract and 2 bracteoles cover the bud. The flowers upon falling leave very marked scars. Calyx tubular; 4 lobes whitish-green, oblong, 3 mm in length, imbricate in the bud, glabrous externally, finely tomentose internally. Petals 0. Stamens fused at base into a half-column partially enveloping the ovary. Ovary stipitate, glabrous, with 2-3 ovules.
 
-Panicules glabres de très courtes grappes, où se pressent les unes contre les autres de très petites fleurs (de 5-6 mm) sub-
-
-sessiles. Une grande bractée et 2 bractéoles recouvrent le bouton. Les fleurs en tombant laissent des cicatrices très marquées. Calice tubulaire; 4 lobes blanc verdâtre, oblongs, de 3 mm de longueur, imbriqués dans le bouton, glabres extérieurement, finement duveteux intérieurement. Pétales o. Étamines soudées à la base en une demi-colonne enveloppant partiellement l'ovaire. Ovaire stipité, glabre, à 2-3 ovules.
-
-Gousses indéhiscentes, papyracées, réticulées, de couleur jaune clair, oblongues, environ  $ 14 \times 4.5 $ cm. Pédoncules grêles, longs de  $ 1.5-2 $ cm.  $ 1-2 $ graines plates, de  $ 1.5-2 $ cm de diamètre, vers le milieu du fruit.
+Pods indehiscent, papyraceous, reticulate, pale yellow in colour, oblong, approximately 14 × 4.5 cm. Pedicels slender, 1.5-2 cm long. 1-2 flat seeds, 1.5-2 cm in diameter, toward the middle of the fruit.
 
 ## Type
 
@@ -33,11 +29,9 @@ Zenker 2611, Cameroun (BR,P)
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Large tree, capable of attaining a large diameter. Trunk cylindric, straight, regular, furnished at the base with slight buttresses. Bark greyish, finely fissured superficially, thin in cross-section. When incised it exudes over time a gelatinous translucent gum. Wood dark reddish-brown, very hard.
 
-Grand arbre, pouvant atteindre un gros diamètre. Fût cylindrique, droit, régulier, muni à la base de contreforts peu importants. Écorce grisâtre, finement craquelée superficiellement, de tranche mince. Entaillée elle exsude à la longue une gomme gélatineuse translucide. Bois brun-rouge foncé, très dur.
-
-Espèce de forêt primitive, répandue de la Côte d'Ivoire à l'Oubangui et au Mayombé. Elle existe dans tout le Gabon. En général elle est peu commune, souvent rare et mal connue des prospecteurs.
+Species of primary forest, distributed from Ivory Coast to Ubangi and Mayombé. It exists throughout Gabon. In general it is uncommon, often rare and poorly known to prospectors.
 
 ## Vernacular names
 

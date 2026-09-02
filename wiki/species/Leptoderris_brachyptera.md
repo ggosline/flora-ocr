@@ -17,31 +17,23 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Leptoderris goetzei (Harms) Dunn, Bull. Misc. Inform. Kew 1910 : 389 (1910), syn. nov . Leptoderris velutina Dunn, Bull. Misc. Inform. Kew 1914 : 246 (1914), syn. nov . Leptoderris gilletii De Wild., Bull. Jard. Bot. État Bruxelles 7 : 232 (1920), syn. nov . Leptoderris laurentii De Wild., Bull. Jard. Bot. État Bruxelles 7 : 235 (1920), syn. nov . Large climbing vine or lianescent shrub; branchlets, stipules, petioles, rachis, stipels and petiolules velutinous or tomentose to puberulent. Stipules ± persistent, ovate-triangular to deltoid, 3–14 × 3–6 mm. Leaf: petiole cylindric, 5–17 cm long; rachis 3–15 cm; stipels narrowly triangular to filiform, (1–)3–8 mm long; leaflets (5–)7(–9), petiolule 4–9 mm, lamina obovate-elliptic, (2.5–)10–15(–22) × (1–)3–9(–11) cm, rounded to subcordate at base, acuminate to obtuse to emarginate at apex, acumen 5–10 mm long, sometimes bearing a fragile mucro of (1–)3–4 mm, coriaceous, sparsely velutinous and quickly glabrescent above, more persistently hairy on midvein and sometimes on lateral nerves, velutinous to tomentose below, with (5–)6 or 7(–8) pairs of lateral nerves, tertiary nerves very prominent, the surface in the areoles often finely white-papillose. Inflorescences axillary and terminal, reaching at least 30 cm long, densely flowered, tomentose; bracts and bracteoles caducous, ovate-triangular, (1–)1.5–2 mm long. Flower: pedicel 1–1.5 mm; calyx ± tubular, 4–5 mm long, with silvery hairs, appressed or tomentose outside, with appressed hairs inside, lobes 1 mm long; corolla 13–15 mm long, white, sometimes with red spots at base, petals ciliolate at apex, standard elliptic, 10 × 7 mm, with claw 3 mm, wings
 
-Leptoderris goetzei (Harms) Dunn, Bull. Misc. Inform. Kew 1910 : 389 (1910), syn. nov . Leptoderris velutina Dunn, Bull. Misc. Inform. Kew 1914 : 246 (1914), syn. nov . Leptoderris gilletii De Wild., Bull. Jard. Bot. État Bruxelles 7 : 232 (1920), syn. nov . Leptoderris laurentii De Wild., Bull. Jard. Bot. État Bruxelles 7 : 235 (1920), syn. nov . Grande liane ou arbuste lianescent ; ramilles, stipules, pétioles, rachis, stipelles et pétiolules veloutés ou tomenteux à pubérulents. Stipules ± persistantes , ovales-triangulaires à deltoïdes, 3–14 × 3–6 mm . Feuille : pétiole cylindrique, 5–17 cm de longueur ; rachis 3–15 cm ; stipelles étroitement triangulaires à filiformes, (1–)3–8 mm de longueur ; folioles (5–)7(–9) , à pétio lule de 4–9 mm, limbe obovale-elliptique, (2,5–)10–15(–22) × (1–)3–9(–11) cm, arrondi à subcordé à la base, acuminé à obtus à émarginé au sommet, acumen 5–10 mm de longueur, parfois muni d’un mucron fragile de (1–)3–4 mm, coriace, éparsement velouté et rapidement glabrescent dessus, plus longtemps pileux sur la médiane et parfois sur les nervures latérales, velouté à tomenteuse dessous, à (5–)6 ou 7(–8) paires de nervures latérales, nervures tertiaires très proéminentes, la surface dans les mailles souvent finement blanche-papil leuse . Inflorescences axillaires et terminales, atteignant au moins 30 cm de longueur, densé ment fleuries, tomenteuses ; bractées et bractéoles caduques, ovales-triangulaires, (1–)1,5–2 mm de longueur . Fleur : pédicelle 1–1,5 mm ; calice ± tubuleux, 4–5 mm de longueur , à poils argentés, apprimés ou tomenteux à l’extérieur, à poils apprimés à l’intérieur, lobes 1 mm de longueur ; corolle 13–15 mm de longueur, blanche, parfois avec des taches rouges à la base, à pétales ciliolés au sommet , étendard elliptique, 10 × 7 mm, à onglet de 3 mm, ailes
+Flower, corolla removed and calyx open. – 4. Standard. – 5. Wing. – 6. Keel. – 7. Pistil. – 8. Same, longitudinal section. – 9. Pod. Drawing by M. Smith, reproduced from Dunn (1915a).
 
-Fleur, corolle enlevé et calice ouvert. – 4. Étendard. – 5. Aile. – 6. Carène. – 7. Pistil. – 8. Idem, coupe longitudinal. – 9. Gousse. Dessin par M. Smith, reproduit à partir de Dunn (1915a).
-
-± aussi longues que l’étendard, nettement plus courtes que la carène, elliptiques, à onglet de 3–4 mm, carène ± droite, à onglet de 4 mm ; étamines aussi longues que la carène, anthères ± 1 mm de longueur ; pistil à poils apprimés, ovaire à 2 ou 3 ovules. Gousse elliptique-oblongue, 2,5–6,5 × 1,5–2,5 cm, à 1 graine, à aile de 1–2 mm de large , à poils ± épars, apprimés.
+± as long as the standard, distinctly shorter than the keel, elliptic, with claw 3–4 mm, keel ± straight, with claw 4 mm; stamens as long as the keel, anthers ± 1 mm long; pistil with appressed hairs, ovary with 2 or 3 ovules. Pod elliptic-oblong, 2.5–6.5 × 1.5–2.5 cm, 1-seeded, with wing 1–2 mm wide, with ± sparse, appressed hairs.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-depuis Afrique de l’Ouest jusqu’à l’Afrique de l’Est et à l’Angola ; au Gabon, connue de toutes les provinces, sauf de l’Ogooué-Maritime
+from West Africa to East Africa and Angola; in Gabon, known from all provinces except Ogooué-Maritime
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-forêt primaire et secondarisée de terre ferme et marécageuse, bords de rivières ; au Gabon jusqu’à 500 m d’altitude, ailleurs jusqu’à 800 m
+primary and secondarized terra firme and swampy forest, river banks; in Gabon up to 500 m altitude, elsewhere up to 800 m
 
 ## Source note
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-voir sous la description du genre. b : Hepper (1958), Sousa (1966), Velayos et al. (2010). ibliographie
+see under the genus description. b: Hepper (1958), Sousa (1966), Velayos et al. (2010). Bibliography
 
 ## Notes
 

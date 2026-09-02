@@ -22,13 +22,11 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Large resiniferous trees. Leaves glabrous with 5–9 alternate leaflets, the upper ones sometimes subopposite. Rachis 6–16 cm; leaflets ovate-oblong lanceolate, somewhat curved, acuminate, cuneiform or obtuse at the base, coriaceous, 4–14 cm long by 2–4 cm wide. Midvein slightly depressed above, prominent below. Secondary veins almost invisible. Petioles short, 3–7 mm.
 
-Grands arbres résinifères. Feuilles glabres à 5-9 folioles alternes, les supérieures parfois subopposées. Rachis de 6-16 cm; folioles ovées-oblongues lancéolées, un peu arquées, acuminées, cunéiformes ou obtuses à la base, coriaces, de 4-14 cm de longueur à 2-4 cm de largeur. Nervure médiane légèrement déprimée dessus, proéminente dessous. Nervures secondaires presque invisibles. Pétioles courts, de 3-7 mm.
+Axillary paniculate racemes of very small white flowers, with russet hairs. Pedicels hairy, approximately 2 mm. Very small caducous bracts and bracteoles. Sepals 5, orbicular, hairy externally, approximately 1.5 mm. Stamens 10, with densely hairy filaments. Ovary densely hairy.
 
-Grappes axillaires paniculées de très petites fleurs blanches, velues rousses. Pédicelles velus d'env. 2 mm. Très petites bractées et bractéoles caduques. Sépales 5, orbiculaires, velus extérieurement, d'env. 1,5 mm. Étamines 10, à filets densément velus. Ovaire densément velu.
-
-Gousse samaroïde, d'environ 8-13 × 2,5-4,3 cm; l'aile légèrement falciforme ayant de 6-10 cm de longueur, marquée de nervilles longitudinales.
+Samara-like pod, approximately 8–13 × 2.5–4.3 cm; the wing slightly falciform having 6–10 cm in length, marked with longitudinal nervules.
 
 ## Type
 
@@ -36,13 +34,9 @@ Mildbraed 4538, Molundu, Cameron (isotype P)
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Large tree capable of reaching a very large diameter. Bole elevated perfectly straight and cylindrical almost to ground level, the base being only slightly thickened. Crown framed by large tortuous branches. Bark vertically fissured, exfoliating in elongate plates. Fibrous section, dark pink. The sapwood when cut exudes a greenish or dark brown resin. Wood copper-red brown, resinous, tender and light, exploited for construction and joinery.
 
-Grand arbre pouvant atteindre un très gros diamètre. Fût élevé parfaitement droit et cylindrique presque jusqu'au sol, le pied étant seulement épaissi. Cime charpentée de grosses branches tortueuses. Écorce craquelée verticalement, s'exfoliant en plaques allongées. Tranche fibreuse, rose foncé. L'aubier entaillé exsude une résine verdâtre ou brun foncé. Bois brun rouge cuivre, résineux, tendre et léger, exploité pour la construction et la menuiserie.
-
-Le Tchitola est un des plus beaux arbres de la forêt gabonaise par son port et son fût parfait, il est disséminé du sud de la Nigé-
-
-ria au Mayombé. Au Cameroun il n'existe que dans l'extrême sud-est. Au Gabon, d'après de St Aubin, il est absent de la région de Libreville, et ne se trouverait qu'à l'est d'une ligne reliant Médoune au lac Fernan Vaz. Son aire s'étend à la forêt du Mayombé au Cabinda, à la forêt de la Lobaye, et au Congo Kinshasa. Dans le sud de la Nigéria, il est signalé de la province d'Ondo (F. W. T. A.).
+The Tchitola is one of the most beautiful trees of the Gabonese forest by its form and its perfect bole; it is scattered from southern Nigeria to the Mayombé. In Cameroon it exists only in the far southeast. In Gabon, according to de St Aubin, it is absent from the Libreville region, and would be found only east of a line connecting Médoune to Lake Fernan Vaz. Its range extends to the Mayombé forest in Cabinda, to the Lobaye forest, and to Congo Kinshasa. In southern Nigeria, it is recorded from Ondo Province (F. W. T. A.).
 
 ## Vernacular names
 

@@ -11,7 +11,7 @@ tags: [species, generated]
 ---
 # *Dicipltera obanensis* S. Moore
 
-**Genus**: [[Dicipltera]]
+**Genus**: [[Dicliptera]]
 **Family**: [[Acanthaceae]]
 **Protologue**: S. Moore, Cat. Pl. Talbot S. Nigeria 90 (1913)
 
@@ -45,6 +45,6 @@ EXPLICATION DE LA PLANCHE XL, fig. 1-8:
 
 ## See also
 
-- [[Dicipltera]]
+- [[Dicliptera]]
 - [[Acanthaceae]]
 - [[vol13]]

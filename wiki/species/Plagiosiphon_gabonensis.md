@@ -22,11 +22,9 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Trees. Leaves paripinnate with 6–9 pairs of opposite, sessile leaflets, approximately 20–35 × 5–12 mm, glabrous, narrowly oblong, with emarginate apex, with obliquely truncate base parallel to the rachis. Posterior auricle slightly auricate. The principal vein prominent on both surfaces, dividing the blade into two substantially equal parts (except at the base). Rachis 8–9 cm, canaliculate, somewhat hairy. Stipules caducous.
 
-Arbres. Feuilles paripennées à 6-9 paires de folioles opposées, sessiles, d'environ 20-35 × 5-12 mm., glabres, étroitement oblongues, à sommet émarginé, à base tronquée obliquement et paralèlement au rachis. Oreillette postérieure un peu auriculée. La nervure principale saillante sur les 2 faces, divise le limbe en deux parties sensiblement égales (sauf à la base). Rachis de 8-9 cm, canaliculé, un peu velu. Stipules caduques.
-
-Inflorescences en petites panicules axillaires et terminales, de 4-6 cm de longueur; axes velus. Bractéoles pétaloïdes, non involucrales, longues de 8-10 mm, larges de 6-8 mm, persistentes. Calice tubulaire; tube de 5 mm de longueur et de 2 mm de diamètre; 4 lobes velus extérieurement, d'environ 6 × 4 mm. Pétales 3, obovés spatulés, onguiculés, glabres, de 8-10 × 4 mm; 2 autres linéaires vestigiaux. Étamines 10, insérées au bord du tube du calice. Ovaire hirsute, au stipe adhérent au tube du calice. Ovules 5-6.
+Inflorescences in small axillary and terminal panicles, 4–6 cm in length; axes hairy. Bracteoles petaloid, not involucral, 8–10 mm long, 6–8 mm wide, persistent. Calyx tubular; tube 5 mm in length and 2 mm in diameter; 4 lobes hairy externally, approximately 6 × 4 mm. Petals 3, obovate-spatulate, unguiculate, glabrous, 8–10 × 4 mm; 2 others vestigial linear. Stamens 10, inserted at the border of the calyx tube. Ovary hirsute, on a stipe adhering to the calyx tube. Ovules 5–6.
 
 ## Type
 

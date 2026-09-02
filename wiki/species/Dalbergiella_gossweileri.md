@@ -17,23 +17,15 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Liane , au moins 20 m de longueur ; ramilles presque glabres. Stipules triangulaires, 3 mm de longueur . Feuille : pétiole 2,5–4 cm ; rachis 4–7 cm, scabre ; folioles en 2 à 4 paires , à pétiolule poilu de 2–5 mm, limbe ovale , 4–9,5 × 2-4,5 cm, base tronquée à arrondie, sommet acuminé , glabre ou presque sur les deux faces ; nervure médiane bien marquée. Inflores cence pendante, 5–9(-13) cm de longueur , à fleurs solitaires ou par 2 en un fascicule, lâche ; pédoncule velouté ; bractées et bractéoles caduques, filiformes, 1–2 mm, poilues. Fleur : pédi-
-
-celle grêle, 3–9 mm, poilu ; calice 5–6 mm de longueur dont 2–3 mm pour les dents aiguës, velouté, vert, strié ; étendard 8–10 mm de diamètre, à onglet de ± 3 mm, blanc à rose pâle avec une tache centrale violacée , ailes 9–10 mm de longueur, carène comme les ailes ; ovaire poilu, à ± 8 ovules. Gousse 12 × 3 cm, à extrémités cunéiformes à arrondies , mucronée au sommet, glabre, mais à sutures pubérulentes, à taches glanduleuses, à 1 graine, à nervation surélevée, provenant de la suture dorsale. Graine aplatie.
+Liana, at least 20 m long; branchlets nearly glabrous. Stipules triangular, 3 mm long. Leaf: petiole 2.5–4 cm; rachis 4–7 cm, scabrous; leaflets in 2 to 4 pairs, with hairy petiolule 2–5 mm, blade ovate, 4–9.5 × 2–4.5 cm, base truncate to rounded, apex acuminate, glabrous or nearly so on both faces; midrib well-marked. Inflorescence pendulous, 5–9(–13) cm long, with flowers solitary or in pairs in a loose fascicle; peduncle velvety; bracts and bracteoles caducous, filiform, 1–2 mm, hairy. Flower: pedicel slender, 3–9 mm, hairy; calyx 5–6 mm long with 2–3 mm for the acute teeth, velvety, green, striate; standard 8–10 mm in diameter, with claw of ± 3 mm, white to pale pink with a violaceous central spot, wings 9–10 mm long, keel like the wings; ovary hairy, with ± 8 ovules. Pod 12 × 3 cm, with cuneiform to rounded extremities, mucronate at apex, glabrous, but with puberulent sutures, glandular-spotted, 1-seeded, with venation raised, arising from the dorsal suture. Seed flattened.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Guinée équatoriale, Gabon et Angola (Cabinda) ; au Gabon, connue de la Ngounié, de l’Ogooué-Ivindo, de l’Ogooué-Lolo, de l’Ogooué-Maritime et du Woleu-Ntem
+Equatorial Guinea, Gabon and Angola (Cabinda); in Gabon, known from Ngounié, Ogooué-Ivindo, Ogooué-Lolo, Ogooué-Maritime and Woleu-Ntem
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-forêt primaire et secondaire, bords des routes ; à 30–600 m d’altitude. b : De la Estrella et al. (2010), Pellegrin (1949). ibliographie
+primary and secondary forest, roadsides; at 30–600 m altitude. b: De la Estrella et al. (2010), Pellegrin (1949). Bibliography
 
 ## Notes
 

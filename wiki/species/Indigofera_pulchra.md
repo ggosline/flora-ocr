@@ -17,23 +17,17 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 I. dupuisii Micheli in T.Durand & De Wild., Bull. Soc. Roy. Bot. Belg. 36 ( Compt. Rend. ) : 55 (1897).
 
-Suffrutex érigé, atteignant 1,5 m de hauteur ; ramilles anguleuses, pubérulentes à poils gris à blanchâtres. Stipules étalées, sétacées, 2–4 mm. Feuilles souvent dimorphes, les supérieures 1- à 3-foliolées, les basales jusqu’à 11-foliolées , rarement toutes 1-foliolée ; pétiole jusqu’à 6 mm ; stipelles absentes ; folioles opposées à subopposées ou parfois alternes, à limbe obo vale à elliptique-ovale, 5–12 × 3–6 mm, mucroné, pubescent sur les 2 faces. Inflorescence en racèmes courts terminaux, parfois subcapités et condensés, dépassant peu les feuilles ; bractées herbacées , vers le bas ressemblant à une feuille simple ou 3-foliolée. Fleur : pédicelle 4–5 mm ; bractéoles situées sous le calice, linéaires ; calice 3–4 mm de longueur en fleur, ± 5 mm en fruit, fendu jusqu’à la base en lobes égaux, couverts de poils rigides, roux-ferrugineux ; corolle égalant ou un peu plus courte que le calice, rouge à orange , étendard mucroné, strigueux à l’extérieur. Gousse oblongue , 2,5–4 × 1,5 × 1 mm, à (1–)2 ou 3 graines, strigueuse. Graine anguleuse-arrondie, ± 2 × 1,5 × 1,5 mm, brun-roux.
+Erect suffrutex, reaching 1.5 m in height; ramules angular, puberulent with grey to whitish hairs. Stipules spreading, setaceous, 2–4 mm. Leaves often dimorphous, the upper ones 1- to 3-foliolate, the basal ones up to 11-foliolate, rarely all 1-foliolate; petiole up to 6 mm; stipels absent; leaflets opposite to subopposite or sometimes alternate, with obovate to elliptic-ovate blade, 5–12 × 3–6 mm, mucronate, pubescent on both faces. Inflorescence in short terminal racemes, sometimes subcapitate and condensed, scarcely exceeding the leaves; bracts herbaceous, toward the base resembling a simple or 3-foliolate leaf. Flower: pedicel 4–5 mm; bracteoles situated under the calyx, linear; calyx 3–4 mm in length in flower, ± 5 mm in fruit, cleft to the base into equal lobes, covered with rigid hairs, rust-ferruginous; corolla equalling or slightly shorter than the calyx, red to orange, standard mucronate, strigulose externally. Pod oblong, 2.5–4 × 1.5 × 1 mm, with (1–)2 or 3 seeds, strigulose. Seed angular-rounded, ± 2 × 1.5 × 1.5 mm, rust-brown.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-largement répandue en Afrique tropicale, du Sénégal jusqu’en Éthiopie et au Sud, jusqu’en Angola et la Zambie ; au Gabon, connue de l’Estuaire et de l’Ogooué-Ivindo
+widely distributed in tropical Africa, from Senegal to Ethiopia and southward to Angola and Zambia; in Gabon, known from the Estuary and Ogooué-Ivindo
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-savanes ; au Gabon jusqu’à 200 m d’altitude, ailleurs jusqu’à 900 m. Fleurs et fruits en janvier, juillet et août. b : Cronquist (1954), Gillett (1971a), Hepper (1958), Pellegrin (1949). ibliographie
+savannas; in Gabon up to 200 m altitude, elsewhere up to 900 m. Flowers and fruits in January, July and August. b : Cronquist (1954), Gillett (1971a), Hepper (1958), Pellegrin (1949). Bibliography
 
 ## Notes
 

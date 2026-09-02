@@ -11,7 +11,7 @@ tags: [species, generated]
 ---
 # *Renalmia cincinnati* (K. Schum.) Bak.
 
-**Genus**: [[Renalmia]]
+**Genus**: [[Renealmia]]
 **Family**: [[Zingiberaceae]]
 
 ## Synonyms
@@ -40,6 +40,6 @@ Duparquet : s. n., Mont Bouet. Mgr. Leroy : 1, Dongila. Klaine : 248, 425, 769, 
 
 ## See also
 
-- [[Renalmia]]
+- [[Renealmia]]
 - [[Zingiberaceae]]
 - [[vol09]]

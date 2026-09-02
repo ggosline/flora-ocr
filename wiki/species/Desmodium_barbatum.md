@@ -17,31 +17,23 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-D. barbatum (L.) Benth. subsp. dimorphum (Baker) Laundon in Exell & Fernandez, Consp. fl. Angol. 3 : 225 (1966). Suffrutex plus ou moins ligneux, 30–60 cm de hauteur, à pubescence gris argentée, soyeuse . Stipules étroitement triangulaires, 0,5–1 cm de longueur, légèrement auriculées à la base, à sommet pointu, scarieuses. Feuille : pétiole grêle, 10–20 mm ; stipelles subulées, ± 5 mm de longueur ; foliole une, mais souvent quelques feuilles à 3 folioles , à limbe elliptique à ovale ou parfois suborbiculaire à obovale, base arrondie, sommet arrondi, mucronulé, la terminale 1,5–5 × 0,5–2 cm, souvent plus de 2 fois plus longue que les latérales de 1–3,8 × 0,4–1,3 cm . Inflorescence en pseudoracèmes denses , multiflores, 4–7 × 1,2–2 cm, à poils longs ; bractées caduques, lancéolées, 3–4 mm de longueur, pointues. Fleur : pédicelle grêle, 6–8 mm, cour bé ; calice 4–5 mm de longueur, à poils longs, les 5 lobes ± é gaux, plus longs que le tube ; corolle ± 5 mm de longueur, rouge, rose ou purpurine , étendard largement obovale, ailes et carène obtuses. Gousse avec 2 à 6 articles de 2–3,5 × 2–2,5 mm , légèrement réticulés et à poils uncinés, suture dorsale ± droite, suture ventrale ondulée . Graine obliquement réniforme, ± 1,5 × 1 × 0,5 mm, brune ; hile légèrement excentré.
+D. barbatum (L.) Benth. subsp. dimorphum (Baker) Laundon in Exell & Fernandez, Consp. fl. Angol. 3 : 225 (1966). Subshrub more or less woody, 30–60 cm tall, with silvery-grey, silky pubescence. Stipules narrowly triangular, 0.5–1 cm long, slightly auriculate at base, with acute apex, scarious. Leaf: petiole slender, 10–20 mm; stipels subulate, ± 5 mm long; leaflet one, but often some leaves with 3 leaflets, with elliptic to ovate or sometimes suborbicular to obovate blade, rounded base, rounded apex, mucronulate, the terminal one 1.5–5 × 0.5–2 cm, often more than 2 times longer than the lateral ones of 1–3.8 × 0.4–1.3 cm. Inflorescence in dense pseudoracemes, multiflorous, 4–7 × 1.2–2 cm, with long hairs; bracts caducous, lanceolate, 3–4 mm long, acute. Flower: pedicel slender, 6–8 mm, curved; calyx 4–5 mm long, with long hairs, the 5 lobes ± equal, longer than the tube; corolla ± 5 mm long, red, pink or purple, standard broadly obovate, wings and keel obtuse. Pod with 2 to 6 articles of 2–3.5 × 2–2.5 mm, slightly reticulate and with uncinate hairs, dorsal suture ± straight, ventral suture undulate. Seed obliquely reniform, ± 1.5 × 1 × 0.5 mm, brown; hilum slightly eccentric.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Tropical Africa from Guinea to Ethiopia and Zimbabwe, also in Madagascar; in Gabon, known from Haut-Ogooué, Moyen-Ogooué and Ogooué-Ivindo
 
-Afrique tropicale de la Guinée à l’Éthiopie et le Zimbabwe, aussi à Madagascar ; au Gabon, connue du Haut-Ogooué, du Moyen-Ogooué et de l’Ogooué-Ivindo
-
-Afrique tropicale et Madagascar ; au Gabon, connue du Haut-Ogooué et de l’OgoouéIvindo
+Tropical Africa and Madagascar; in Gabon, known from Haut-Ogooué and Ogooué-Ivindo
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+herbaceous vegetation, burnt annually; in Gabon at 300–630 m altitude, elsewhere, up to 1800 m
 
-végétation herbacée, brûlée annuellement ; au Gabon à 300–630 m d’altitude, ailleurs, jusqu’à 1800 m
-
-savanes boisées, rives, forêts. b : Mackinder et al. (2001), Schubert (1954, 1971). ibliographie
+wooded savannas, riverbanks, forests. b : Mackinder et al. (2001), Schubert (1954, 1971). Bibliography
 
 ## Source note
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Lock (1989) ne reconnaît pas cette variété, la considèrant synonyme de la variété-type. b : Botton & Hallé (1958), Lock (1989), Hepper (1958), Mackinder et al. (2001), van der ibliographie Maesen (2006a), Pellegrin (1949), Schubert (1954, 1971). var. argyreum (Welw. ex Baker) Schubert Bull. Jard. Bot. État Bruxelles 22 : 298 (1952). D. dimorphum Welw. ex Baker var. argyreum (Welw. ex Baker) Schubert, Bull. Jard. Bot. État Bruxelles 22 : 298 (1952). Comme la var. dimorphum , mais à feuilles 1-foliolées, limbe elliptique , nettement argenté-soyeux dessous . Inflorescence parfois à racèmes groupés en panicules ; bractées et calices à poils dorés
+Lock (1989) does not recognize this variety, considering it synonymous with the typical variety. b : Botton & Hallé (1958), Lock (1989), Hepper (1958), Mackinder et al. (2001), van der Bibliography Maesen (2006a), Pellegrin (1949), Schubert (1954, 1971). var. argyreum (Welw. ex Baker) Schubert Bull. Jard. Bot. État Bruxelles 22 : 298 (1952). D. dimorphum Welw. ex Baker var. argyreum (Welw. ex Baker) Schubert, Bull. Jard. Bot. État Bruxelles 22 : 298 (1952). Like var. dimorphum, but with 1-foliolate leaves, elliptic blade, distinctly silvery-silky beneath. Inflorescence sometimes with racemes grouped in panicles; bracts and calyces with golden hairs
 
 ## Notes
 
