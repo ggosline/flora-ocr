@@ -11,17 +11,21 @@ tags: [species, generated]
 ---
 # *Amphibemma cuneatum* Jacques-Félix
 
-**Genus**: [[Amphiblemma]]
+**Genus**: [[Amphibemma]]
 **Family**: [[Melastomataceae]]
 **Protologue**: Adansonia, sér. 2, 13 (4) : 454, tab. 10 (1973)
 
 ## Description
 
-Shrublet with ramified, woody, glabrescent stems, 0.30 m tall; branchlets slender, with short internodes, furfuraceous, with a few slender setae, then precociously glabrous. Leaves with slender petiole, 3 cm long, furfuraceous, sometimes with a few stiff setae; blade lanceolate, up to 1.7 × 8 cm, cuneate on the petiole, with attenuate and obtuse acumen; a few scattered setae on both faces, or glabrous above; 3 nerves, the transverse ones parallel, spaced; margins entire with a few cilia.
+<!-- TODO:translate — source text below, verbatim and untranslated -->
 
-Terminal cymes, uni- or pauciflorous; hypantho-calyx narrowly obconical, 3 × 4 mm, attenuate on the pedicel of 3 mm; setae spreading, glandular, 1 to 1.5 mm long, very scattered; lobes broadly triangular-acute, 1.5–2 × 1.2 mm. Petals pink, 11 mm long, with a few glandular hairs toward the apex. External stamens with anther 5 mm; pedoconnective 5 mm long, thickened toward the lower third, appendage 1.2 mm long, thick, truncate; filament 5 mm. Internal stamens unknown. Ovary deeply included; style 10 to 12 mm.
+Arbrisseau ramié, ligneux, glabrescent, haut de 0,30 m; rameaux grêles, à entrenœuds courts, furfuracés, avec quelques soies grêles, puis précocément glabres. Feuilles à pétiole grêle, long de 3 cm, furfuracé, parfois avec quelques soies hérissées; limbe lancéolé, jusqu'à 1,7 × 8 cm, cunée sur le pétiole, avec acumen atténué et obtus; quelques soies très dispersées sur les 2 faces, ou glabre dessus; 3 nervures, les transversales parallèles, espacées; marges entières avec quelques cils.
 
-Fruit obconical, 5 mm long; ovary reaching the margin of the hypanthium; calyx marcescent and glandular hairs long persistent. — Pl. 32, p. 89.
+Cymes terminales, uni- ou pauci-flores; hypantho-calice étroitement obconique,  $ 3 \times 4 $ mm, atténué sur le pédicelle de  $ 3 $ mm; soies étalées, glanduleuses, longues de  $ 1 $ à  $ 1,5 $ mm, très dispersées; lobes largement
+
+triangulaires-aigus, 1,5-2 × 1,2 mm. Pétales roses, longs de 11 mm, avec quelques poils glanduleux vers le sommet. Étamines externes à anthère de 5 mm; pédoconnectif long de 5 mm, épaissi vers le tiers inférieur, appendice long de 1,2 mm, épais, tronqué; filet 5 mm. Étamines internes non connues. Ovaire profondément inclus; style de 10 à 12 mm.
+
+Fruit obconique, long de 5 mm; ovaire atteignant la marge de l'hypanthe; calice marcescent et poils glanduleux longtemps persistants. — Pl. 32, p. 89.
 
 ## Type
 
@@ -29,7 +33,9 @@ Hallé N. & Villiers J.-F. 4710, Gabon (P.)
 
 ## Discussion
 
-Species allied to A. setosum, distinguished immediately from it by its 3-nerved leaves.
+<!-- TODO:translate — source text below, verbatim and untranslated -->
+
+Espèce apparentée à A. setosum, s'en distingue immédiatement par ses feuilles 3-nerviées.
 
 ## Specimens examined
 
@@ -47,6 +53,6 @@ Hallé N. & Villiers J.-F. 4710, mt Cristal, 6 km S Assok, sous-bois (janv.). Ch
 
 ## See also
 
-- [[Amphiblemma]]
+- [[Amphibemma]]
 - [[Melastomataceae]]
 - [[vol25]]

@@ -11,7 +11,7 @@ tags: [species, generated]
 ---
 # *Heteranthocia guineensis* (Franch.) Robyns.
 
-**Genus**: [[Heteranthoecia]]
+**Genus**: [[Heteranthocia]]
 **Family**: [[Gramineae]]
 
 ## Synonyms
@@ -22,11 +22,13 @@ tags: [species, generated]
 
 ## Description
 
-Culms slender, rooted at the lower nodes, more or less branched and erect up to about thirty centimeters tall. Leaves lanceolate, 12–20 × 2–5 mm, glabrous or slightly pubescent with tuberculate hairs at the base.
+<!-- TODO:translate — source text below, verbatim and untranslated -->
 
-Panicle 2 to 7 cm long, generally with about ten secondary branches, the longest ones, toward the base, about fifteen millimeters. Axis of the racemes terminated by a naked point, approximately 1/2 to 2/3 of a millimeter wide. Spikelets approximately 2 mm, glumes 1 mm or slightly more, lower floret the size of the spikelet, the upper one measuring approximately half.
+Chaumes minces, enracinés aux nœuds inférieurs, plus ou moins ramifiés et dressés jusqu'à une trentaine de centimètres de haut. Feuilles lancéolées, de  $ 12-20 \times 2-5 $ mm, glabres ou légèrement pubescentes à poils tuberculés à la base.
 
-Small plant occurring in dense patches in marshy habitats, devoid of practical interest.
+Panicule de 2 à 7 cm de long, en général une dizaine de branches secondaires, les plus longues, vers le bas, d'une quinzaine de millimètres. Axe des racèmes terminé par une pointe nue, d'environ 1/2 à 2/3 de millimètre de large. Épillets d'environ 2 mm, glumes 1 mm ou un peu plus, fleur inférieure de la taille de l'épillet, la supérieure mesurant environ la moitié.
+
+Petite plante se rencontrant en plages denses dans les stations marécageuses, dépourvue d'intérêt pratique.
 
 ## Specimens examined
 
@@ -116,6 +118,6 @@ II. ANDROPOGONÉES
 
 ## See also
 
-- [[Heteranthoecia]]
+- [[Heteranthocia]]
 - [[Gramineae]]
 - [[vol05]]

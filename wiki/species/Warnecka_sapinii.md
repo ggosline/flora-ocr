@@ -11,7 +11,7 @@ tags: [species, generated]
 ---
 # *Warnecka sapinii* (De Wildeman) Jacques-Félix
 
-**Genus**: [[Warneckea]]
+**Genus**: [[Warnecka]]
 **Family**: [[Melastomataceae]]
 **Protologue**: Adansonia, sér. 2, 18 (2) : 234 (1978); Fl. Cam. 24 : 166, tab. 53, 3-6 (1983)
 
@@ -55,6 +55,6 @@ Le Testu 7704, Liyanga (nov.).
 
 ## See also
 
-- [[Warneckea]]
+- [[Warnecka]]
 - [[Melastomataceae]]
 - [[vol25]]

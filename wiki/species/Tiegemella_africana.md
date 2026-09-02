@@ -11,7 +11,7 @@ tags: [species, generated]
 ---
 # *Tiegemella africana* Pierre.
 
-**Genus**: [[Tieghemella]]
+**Genus**: [[Tiegemella]]
 **Family**: [[Sapotaceae]]
 
 ## Synonyms
@@ -80,6 +80,6 @@ Aubréville : 122, km 18, Libreville (fr. déc.).
 
 ## See also
 
-- [[Tieghemella]]
+- [[Tiegemella]]
 - [[Sapotaceae]]
 - [[vol01]]

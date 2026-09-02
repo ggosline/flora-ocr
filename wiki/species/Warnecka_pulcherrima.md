@@ -11,7 +11,7 @@ tags: [species, generated]
 ---
 # *Warnecka pulcherrima* (Gilg) Jacques-Félix
 
-**Genus**: [[Warneckea]]
+**Genus**: [[Warnecka]]
 **Family**: [[Melastomataceae]]
 **Protologue**: Adansonia, sér. 2, 18 (2) : 232 (1978); Fl. Cam. 24 : 163, tab. 54 (1983)
 
@@ -55,6 +55,6 @@ Hallé N. 3335, Bélinga (nov.). Klaine 109, 587, 3454, Libreville (sept., nov.,
 
 ## See also
 
-- [[Warneckea]]
+- [[Warnecka]]
 - [[Melastomataceae]]
 - [[vol25]]

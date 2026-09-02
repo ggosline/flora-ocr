@@ -11,17 +11,19 @@ tags: [species, generated]
 ---
 # *Amphibemma heterophyllum* Jacques-Félix
 
-**Genus**: [[Amphiblemma]]
+**Genus**: [[Amphibemma]]
 **Family**: [[Melastomataceae]]
 **Protologue**: Adansonia, sér. 2, 13 (4) : 448, tab. 7 (1973)
 
 ## Description
 
-Shrub; stems slender, woody, rounded, finely and densely furfuraceous, then glabrescent; internodes 1.5 cm long. Leaves purplish on the lower face, with filiform setae reaching 1 cm, very sparse on both faces; membranaceous, with serrate margins and long-ciliate; 3 (5) poorly marked nerves, finely furfuraceous on the lower face, the transverse ones lax; very unequal on the same pair; the smaller ones with petiole 0.6 cm, ovate-cordate blade, 2.5 × 6 cm.
+<!-- TODO:translate — source text below, verbatim and untranslated -->
 
-Terminal cymes, umbelliform, 3–4-flowered. Flowers pedicellate, hirsute; pedicel slender, 5 mm long, furfuraceous, plus sometimes a few bristly setae; hypanthium obconical, 5 mm long, furfuraceous or not, bristly, as are the calyx lobes, with long filiform setae reaching 8 mm; calyx lobes narrowly triangular, 3 mm long, finely setaceous at the apex. Corolla pink; petals 10 mm long, bearing, toward the upper part, a few rigid setae, capitate with an oblong gland. External stamens with curved anther 5 mm; pediconnective curved, thickened toward the lower third, 3 mm long, with claviform anterior appendage 1 mm. Internal stamens with anther 3.5 mm; connective with anterior appendage 0.3 mm and obtuse spur 0.2 mm; filament 4 mm.
+Arbrisseau; tiges grêles, ligneuses, arrondies, finement et densément furfuracées, puis glabrescentes; entreneuds longs de 1,5 cm. Feuilles pour-prées à la face inférieure, avec soies filiformes, atteignant 1 cm, très éparses sur les 2 faces; membraneuses, avec marges serretées et longuement ciliées; 3 (5) nervures peu marquées, finement furfuracées à la face inférieure, les transversales lâches; très inégales sur la même paire; les petites avec pétiole de 0,6 cm, limbe ovale-cordé, de  $ 2,5 \times 6 $ cm.
 
-Fruit and seeds not known. — Pl. 29, p. 81.
+Cymes terminales, ombelliformes, 3-4-flores. Fleurs pédicellées, hirsutes; pédicelle grêle, long de 5 mm, furfuracé, plus, parfois, quelques soies hérissées; hypanthe obconique, long de 5 mm, furfuracé ou non, hérissé, ainsi que les lobes du calice, de longues soies filiformes, atteignant 8 mm; lobes du calice étroitement triangulaires, longs de 3 mm, finement sétacés à l'apex. Corolle rose; pétales longs de 10 mm, portant, vers le haut, quelques soies raides, capitées par une glande oblongue. Étamines externes à anthère arquée de 5 mm; pédoconnectif arquée, épaissi vers le tiers inférieur, long de 3 mm, avec appendice antérieur claviforme de 1 mm. Étamines internes à anthère de 3,5 mm; connectif avec appendice antérieur de 0,3 mm, et éperon obtus de 0,2 mm; filet de 4 mm.
+
+Fruit et graines non connus. — Pl. 29, p. 81.
 
 ## Type
 
@@ -43,6 +45,6 @@ Hallé N. & Villiers J.-F. 5105, mt Cristal, pentes mt Méla (fév.).
 
 ## See also
 
-- [[Amphiblemma]]
+- [[Amphibemma]]
 - [[Melastomataceae]]
 - [[vol25]]

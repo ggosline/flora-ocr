@@ -11,7 +11,7 @@ tags: [species, generated]
 ---
 # *Hyperrhenia lecomtei* (Rendle) Stapf.
 
-**Genus**: [[Hyparrhenia]]
+**Genus**: [[Hyperrhenia]]
 **Family**: [[Gramineae]]
 **Protologue**: STAPF, Fl. of Trop. Africa, IX : 361 (1919)
 
@@ -22,13 +22,17 @@ tags: [species, generated]
 
 ## Description
 
-Perennial, up to 1.5 m tall, culms simple, sheaths glabrous except sometimes the lower ones, blades linear, hirsute above the midvein and slightly pubescent on the upper surface, up to 50 cm long and 8 wide.
+<!-- TODO:translate — source text below, verbatim and untranslated -->
 
-Inflorescence in an elongate, narrow panicle. Spatheoles linear-lanceolate, 2.5 to 4.5 cm long, reddish. Peduncles filiform finally as long as or longer than the spatheoles, pubescent with hairs tuberculate at base towards the apex. Racemes at first continuous, then reflexed, red or brownish 10–15 mm long, with 2 awns per pair. Bases of racemes unequal, densely pubescent like the peduncles, with a brown-purplish scarious appendage bidentate approximately 3 mm long at the base of the first fertile spikelet. Articles and pedicels pubescent, approximately 3 mm long. One pair of homogamous spikelets at the base of the lower raceme.
+Pérenne, jusqu'à 1,5 m de haut, chaumes simples, gaines glabres sauf parfois les inférieures, limbes linéaires, hirsutes au-
 
-Fertile spikelet 6 mm long, glabrous. Lower glume bidentate, with broadly rounded margins and 7 nerves; upper glume truncate mucronate. Awn of the fertile floret very fine, 2.5 to 4 cm long. Pedicelled spikelets glabrous, brown-red; lower glume with 5–7 nerves, mucronate or subulate.
+dessus de la nervure et légèrement pubescents sur la face supérieure, jusqu'à 50 cm de long et 8 de large.
 
-Recorded from Cameroon, Congo and Nyasaland, this species occupies, at least in Gabon and in the Niari, skeletal gravelly or stony soils. Forage species of medium value.
+Inflorescence en panicule allongée, étroite. Spathéoles linéaires lancéolées, de 2,5 à 4,5 cm de long, rougeâtres. Pédoncules filiformes finalement aussi longs ou plus longs que les spathéoles, pubescents à poils à base tuberculée vers le sommet. Racèmes d'abord continus, puis réfléchis, rouges ou brunâtres de 10-15 mm de long, avec 2 arêtes par paire. Bases des racèmes inégales, densément pubescents comme les pédoncules, avec un appendice scarieux brun violacé bidenté d'environ 3 mm de long à la base du premier épillet fertile. Articles et pédicelles pubescents, environ 3 mm de long. Une paire d'épillets homogames à la base du racème inférieur.
+
+Épillet fertile de 6 mm de long, glabre. Glume inférieure bidentée, à bords largement arrondis et à 7 nervures; glume supérieure tronquée mucronée. Arête de la fleur fertile très fine, de 2,5 à 4 cm de long. Épilletes pédicellés glabres, brun-rouge; glume inférieure à 5-7 nervures, mucronée ou subulée.
+
+Signalée au Cameroun, Congo et Nyassaland, cette espèce occupe, au Gabon et dans le Niari du moins, les sols squelettiques gravillonnaires ou caillouteux. Espèce fourragère de valeur moyenne.
 
 ## Specimens examined
 
@@ -40,6 +44,6 @@ Koechlin : 4477, Tehibanga.
 
 ## See also
 
-- [[Hyparrhenia]]
+- [[Hyperrhenia]]
 - [[Gramineae]]
 - [[vol05]]

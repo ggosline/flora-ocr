@@ -11,7 +11,7 @@ tags: [species, generated]
 ---
 # *Microsodium punctatum* (L.) Copeland
 
-**Genus**: [[Microsorium]]
+**Genus**: [[Microsodium]]
 **Family**: [[Polypodiaceae]]
 
 ## Synonyms
@@ -23,13 +23,15 @@ tags: [species, generated]
 
 ## Description
 
+<!-- TODO:translate — source text below, verbatim and untranslated -->
+
 — Cop., Univ. Cal. Pub. Bot. 16 : 111 (1929). — Ching, Bull. Fan. Mém. Inst. 4 : 307 (1923). — Tard., Mém. IFAN 28 : 221, pl. 41, f. 3-4 (1953). — Alston, FWTA : 49 (1959).
 
-Rhizome short, thick, bearing black, caducous, peltate scales, formed of cells with broad lumina and thickened walls. Fronds crowded, lanceolate, 30-90 cm long by 20-40 cm broad, dark brown, entire, with acute apex, base gradually tapering toward the petiole widely winged to the base. Texture thin, firm, surfaces glabrous. Midvein very prominent on the lower surface. Lateral veins slightly elevated, reaching the margin; 5-6 rows of fine areoles containing numerous included veinlets. Sori small, irregularly scattered.
+Rhizome court, épais, portant des écailles noires, caduques, peltées, formées de cellules à lumière large, parois épaissies. Frondes rapprochées, lancéolées, longues de 30-90 cm sur 20-40 de large, brun noir, entières, à extrémité aiguë, base progressivement décroissante vers le pétiole largement ailé jusqu'à la base. Texture mince, ferme, surfaces nues. Nervure médiane très proéminente à la face inférieure. Nervures latérales légèrement surélévées, atteignant la marge; 5-6 rangées d'aréoles fines contenant de nombreuses nervilles incluses. Sores petits, irrégulièrement disséminés.
 
-Old World tropics.
+Tropiques de l'ancien monde.
 
-Epiphytic on trunk and branches; on rocks in woodland.
+Epiphyte sur tronc et branches; sur rocs en sous bois.
 
 ## Specimens examined
 
@@ -47,6 +49,6 @@ Griffon du Bellay : 283, sans loc. N. Hallé : 1835, Ayem, SW de Ndjolé. N. Hal
 
 ## See also
 
-- [[Microsorium]]
+- [[Microsodium]]
 - [[Polypodiaceae]]
 - [[vol08]]

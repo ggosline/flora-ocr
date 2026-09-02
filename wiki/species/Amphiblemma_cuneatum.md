@@ -1,0 +1,52 @@
+---
+type: species
+name: Amphiblemma cuneatum
+authority: Jacques-Félix
+genus: Amphiblemma
+family: Melastomataceae
+vol: 25
+pages: 88-90
+source: sources/Melastomataceae_vol25_paddle
+tags: [species, generated]
+---
+# *Amphiblemma cuneatum* Jacques-Félix
+
+**Genus**: [[Amphiblemma]]
+**Family**: [[Melastomataceae]]
+**Protologue**: Adansonia, sér. 2, 13 (4) : 454, tab. 10 (1973)
+
+## Description
+
+Shrublet with ramified, woody, glabrescent stems, 0.30 m tall; branchlets slender, with short internodes, furfuraceous, with a few slender setae, then precociously glabrous. Leaves with slender petiole, 3 cm long, furfuraceous, sometimes with a few stiff setae; blade lanceolate, up to 1.7 × 8 cm, cuneate on the petiole, with attenuate and obtuse acumen; a few scattered setae on both faces, or glabrous above; 3 nerves, the transverse ones parallel, spaced; margins entire with a few cilia.
+
+Terminal cymes, uni- or pauciflorous; hypantho-calyx narrowly obconical, 3 × 4 mm, attenuate on the pedicel of 3 mm; setae spreading, glandular, 1 to 1.5 mm long, very scattered; lobes broadly triangular-acute, 1.5–2 × 1.2 mm. Petals pink, 11 mm long, with a few glandular hairs toward the apex. External stamens with anther 5 mm; pedoconnective 5 mm long, thickened toward the lower third, appendage 1.2 mm long, thick, truncate; filament 5 mm. Internal stamens unknown. Ovary deeply included; style 10 to 12 mm.
+
+Fruit obconical, 5 mm long; ovary reaching the margin of the hypanthium; calyx marcescent and glandular hairs long persistent. — Pl. 32, p. 89.
+
+## Type
+
+Hallé N. & Villiers J.-F. 4710, Gabon (P.)
+
+## Discussion
+
+Species allied to A. setosum, distinguished immediately from it by its 3-nerved leaves.
+
+## Specimens examined
+
+Hallé N. & Villiers J.-F. 4710, mt Cristal, 6 km S Assok, sous-bois (janv.). Chevalier 26907, Ahiémé, moyenne Como (spéc. stérile cité sous réserve, oct.).
+
+## Figures
+
+![Amphibemma cuneatum](../sources/Melastomataceae_vol25_paddle/figures/fig_031_p0089.png)
+
+*PL. 31. — Amphiblemma gosweileri var. humifusum Jacq.-Fél. : 1, aspect général × 2/3; 2, détail de feuille × 2; 3, pétale × 4; 4 & 5, étamines, externe et interne × 8; 6, capsule × 4 (Farron 4858). (Repris d'Adansonia, sér. 2, 13 (4) : tab. 9, 1973).*
+
+## Notes
+
+<!-- TODO:notes -->
+
+## See also
+
+- [[Amphiblemma]]
+- [[Melastomataceae]]
+- [[vol25]]

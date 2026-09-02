@@ -11,7 +11,7 @@ tags: [species, generated]
 ---
 # *Dicipltera verticillata* (Forsk.) C. Christ.
 
-**Genus**: [[Dicliptera]]
+**Genus**: [[Dicipltera]]
 **Family**: [[Acanthaceae]]
 **Protologue**: C. Christensen, Dansk Bot. Ark. 4,3 : II (1922)
 
@@ -23,9 +23,11 @@ tags: [species, generated]
 
 ## Description
 
+<!-- TODO:translate — source text below, verbatim and untranslated -->
+
 ≡ Dianthera verticillata Forsk., Fl. Aeg. Arab. 103, Descr. Pl. 9 (1775).
 
-$ \equiv $ Dicliptera umbellata (Vahl) Juss., Ann. Mus. Paris 9: (1807), — C.B. Clarke, F.T.A. 5: 259 (1900).
+$  \equiv  $ Dicliptera umbellata (Vahl) Juss., Ann. Mus. Paris 9: (1807), — C.B. Clarke, F.T.A. 5: 259 (1900).
 
 1. c.: 259 (1900). — Hutch. et Dalz., F.W.T.A. ed. 1,2: 264 (1931).
 
@@ -35,6 +37,6 @@ $ \equiv $ Dicliptera umbellata (Vahl) Juss., Ann. Mus. Paris 9: (1807), — C.B
 
 ## See also
 
-- [[Dicliptera]]
+- [[Dicipltera]]
 - [[Acanthaceae]]
 - [[vol13]]

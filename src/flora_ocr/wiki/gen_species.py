@@ -42,6 +42,46 @@ from flora_ocr.wiki.gen_genus import (
 
 WIKI_DIR = REPO_ROOT / "wiki"
 
+# Epithets that do not name a species. "Eugenia sp" is a real entry in the
+# source -- an indeterminate collection -- but it is not a taxon that deserves
+# a page, and the same string recurs in several volumes, so the pages would
+# collide. These are recorded on the genus page instead, by the species count.
+NOT_AN_EPITHET = {"sp", "spp", "sp.", "cf", "aff", "el", "le-", "var", "subsp",
+                  "avec", "et", "sans", "pour", "dans"}
+
+# The scan renders the ae/oe ligatures literally, so `Bertiera sphaerica` comes
+# through as `Bertiera sphærica`. Fixed here rather than in NAME_CORRECTIONS:
+# it is a mechanical transliteration, not a judgement about a particular name.
+LIGATURES = str.maketrans({"æ": "ae", "Æ": "Ae", "œ": "oe", "Œ": "Oe"})
+
+
+def canonical_name(name: str) -> str:
+    return name.translate(LIGATURES)
+
+
+# "### 5. Whitfieldia Le-Testui R. Benoist" -- the name parser stops at the
+# internal capital of `Le-Testui` and yields the epithet `le-`, so 24 species
+# named for Le Testu arrived truncated. The heading still holds the whole word.
+HEADING_NAME_RE = re.compile(
+    r"^#{1,6}\s*(?:\d+\s*[.)]\s*)?([A-Z][a-z\-]+)\s+([A-Za-z][A-Za-z\-]{2,})")
+
+
+def epithet_from_heading(text: str) -> str | None:
+    """Recover a truncated epithet from the block's own heading."""
+    m = HEADING_NAME_RE.match(text.lstrip().split("\n")[0])
+    if not m:
+        return None
+    epithet = m.group(2).lower()
+    return epithet if re.fullmatch(r"[a-z][a-z\-]{2,}", epithet) else None
+
+
+def is_taxon(name: str) -> bool:
+    genus, _, epithet = canonical_name(name).partition(" ")
+    if not re.fullmatch(r"[A-Z][a-z\-]{2,}", genus):
+        return False
+    return bool(re.fullmatch(r"[a-z][a-z\-]{2,}", epithet)) \
+        and epithet not in NOT_AN_EPITHET
+
 # Source section labels -> wiki heading, and whether the body is prose that
 # wants translating. Order matters only for readability of the output page.
 SECTIONS: list[tuple[str, str, bool]] = [
@@ -265,7 +305,7 @@ def render(entries: list[tuple[dict, dict]], genus: str) -> str:
     bundle, block = entries[0]
     treatment = bundle["treatment"]
     parsed = parse_block(block.get("text", ""))
-    name = block["canonical"]
+    name = canonical_name(block["canonical"])
     epithet = name.split(" ", 1)[1] if " " in name else ""
     family = resolve_family(block.get("family")) or ""
     authority = re.sub(r"\s*\((?:PL|Pl|pl)\.[^)]*\)", "",
@@ -408,10 +448,17 @@ def main(argv: list[str] | None = None) -> int:
         for block in bundle["blocks"]:
             if block["rank"] != "species":
                 continue
-            if " " not in block["canonical"]:
-                empty += 1
-                continue
-            by_name[block["canonical"]].append((bundle, block))
+            name = canonical_name(block["canonical"])
+            if not is_taxon(name):
+                # a truncated epithet is recoverable from the heading
+                genus_part = name.split(" ")[0]
+                recovered = epithet_from_heading(block.get("text", ""))
+                if recovered and is_taxon(f"{genus_part} {recovered}"):
+                    name = f"{genus_part} {recovered}"
+                else:
+                    empty += 1
+                    continue
+            by_name[name].append((bundle, block))
 
     written = skipped = protected = 0
     for name, entries in sorted(by_name.items()):
@@ -440,7 +487,8 @@ def main(argv: list[str] | None = None) -> int:
     if protected:
         print(f"  protected {protected} hand-written pages (no `generated` tag)")
     if empty:
-        print(f"  skipped {empty} blocks with no binomial")
+        print(f"  skipped {empty} blocks that are not a binomial "
+              f"(indeterminate 'sp', truncations, non-taxon headings)")
     return 0
 
 

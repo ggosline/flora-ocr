@@ -11,7 +11,7 @@ tags: [species, generated]
 ---
 # *Beischmiedia minutiflora* Benth. et Hook. f.
 
-**Genus**: [[Beilschmiedia]]
+**Genus**: [[Beischmiedia]]
 **Family**: [[Lauraceae]]
 
 ## Synonyms
@@ -25,19 +25,23 @@ tags: [species, generated]
 
 ## Description
 
+<!-- TODO:translate — source text below, verbatim and untranslated -->
+
 (pl. XII et II).
 
 — Bentham et Hooker f., Gén. Pl. 3 : 153 (1880).
 
-Shrub or small tree 1 to 8 m; young branches glabrous, brownish-green; buds acuminate, fulvous. Leaves oblong, acuminate (acumen linear reaching 13 mm), concolorous, coriaceous, furnished with 8–10 pairs of arcuate lateral nerves and displaying a network of tertiary and quaternary nerves very visible on both sides. Flowers red (Klaine).
+Arbuste ou petit arbre de 1 à 8 m; jeunes rameaux glabres, marron verdâtre; bourgeons acuminés, fauves. Feuilles oblongues, acuminées (acumen linéaire atteignant 13 mm), concolores, coriaces, munies de 8-10 paires de nervures latérales bouclées et offrant un réseau de nervures tertiaires et quaternaires très visibles des deux côtés. Fleurs rouges (Klaine).
 
-Meissner's type had small flowers 1 mm in diameter, whereas the reference specimen cited by Stapf (Zenker 1695, Bipinde, Cameroon) has flowers almost twice as large, deserving the name minutiflora less. The calyx is glabrous or finely puberulent on the outside, sometimes ciliate at the margin; the filaments of the outer stamens are variable: either twice the length of the anther (Klaine 2776), or equal in length to the anther and as wide as it (Klaine 1581, Zenker 1695), or with short filaments, constricted beneath the anther (Le Testu 8833).
+Le type de Meissner avait de petites fleurs de 1 mm de diamètre, alors que l'échantillon de référence cité par Stapf (Zenker 1695, Bipinde, Cameroun) a les fleurs presque deux fois plus grandes, méritant moins le nom de minutiflora. Le calice est glabre ou finement pubérulent à l'extérieur, parfois cilié au bord; les filets des étamines externes sont variables : soit de longueur double de l'anthère (Klaine 2776), soit de longueur égale à celle de l'anthère et aussi large qu'elle (Klaine 1581, Zenker 1695) soit à filets courts, étranglés sous l'anthère (Le Testu 8833).
 
-These plants were classified into two species whose differences noted in the descriptions and in the examination of the specimens Zenker 1695 and 1063 would be the following:
+Ces plantes ont été classées en deux espèces dont les différences relevées dans les descriptions et dans l’examen des échantillons Zenker 1695 et 1063 seraient les suivantes :
 
-<table><tr><td></td><td>B. minutiflora</td><td>B. fruticosa</td></tr><tr><td>Plant size.....</td><td>not specified</td><td>shrub 1.5 m</td></tr><tr><td>Inflorescence.....</td><td>15 cm</td><td>7–10 cm</td></tr><tr><td>Exterior of calyx .....</td><td>glabrous, ciliate at margin</td><td>very finely puberulent</td></tr><tr><td>Filaments of stamens .....</td><td>very short, as wide as the anther</td><td>very short, narrowed beneath the anther</td></tr><tr><td>Length of tepals.....</td><td>2/3 of perianth</td><td>half of perianth</td></tr></table>
+<table><tr><td></td><td>B. minutiflora</td><td>B. fruticosa</td></tr><tr><td>Taille de la plante.....</td><td>non précisée</td><td>arbuste de 1,5 m</td></tr><tr><td>Inflorescence.....</td><td>15 cm</td><td>7-10 cm</td></tr><tr><td>Extérieur du calice .....</td><td>glabre, cilié au bord</td><td>très finement pubérulent</td></tr><tr><td>Filets des étamines .....</td><td>très courts, aussi larges que l&#x27;anthère</td><td>très courts, rétrécis sous l&#x27;anthère</td></tr><tr><td>Longueur des tépales.....</td><td>2/3 du périanthe</td><td>moitié du périanthe.</td></tr></table>
 
-The leaves, branches and buds are, on the other hand, described without notable differences; Engler remarks that B. fruticosa is related to B. minutiflora but with wider leaves in the middle. The specimen Le Testu 8883 shows a finely puberulent calyx and ciliate at the margin, revealing a disjunction of the characters set in opposition above. In short, the only notable differences reside in the wide or constricted filaments and in the length of the tepals; but the presence of wide and long filaments on plants with very typical leaves such as Klaine 2776 shows that the form of the filament is not a criterion allowing one to separate, into two groups, plants so similar.
+Les feuilles, rameaux et bourgeons sont par contre décrits sans différences notables; Engler remarque que B. fruticosa est voisin de B. minutiflora mais avec feuilles plus larges au milieu. L'échantillon Le Testu 8883 montre un calice finement pubérulent et cilié au bord, révélant une disjonction des caractères mis en opposition plus haut. En somme, les seules différences notables résident dans les filets larges ou étranglés et dans la longueur des
+
+tépales; mais la présence de filets larges et longs sur des plantes à feuilles très typiques comme Klaine 2776 montre que la forme du filet n'est pas un critère permettant de séparer, en deux groupes, des plantes si semblables.
 
 ## Type
 
@@ -45,9 +49,11 @@ Mann, sans numéro, Gaboon River (1859-63); échantillon de référence cité pa
 
 ## Discussion
 
-Type of B. fruticosa: Staudt 403, understory of primary forests, between 50 m and 500 m altitude at Lolodorf, Cameroon; reference specimen cited by Stapf: Zenker 1063, Bipinde, Cameroon (P).
+<!-- TODO:translate — source text below, verbatim and untranslated -->
 
-Gabon, Cameroon.
+Type de B. fruticosa : Staudt 403, sous-bois de forêts primitives, entre 50 m et 500 m d'altitude à Lolodorf, Cameroun; échantillon de référence cité par Stapf : Zenker 1063, Bipinde, Cameroun (P).
+
+Gabon, Cameroun.
 
 ## Specimens examined
 
@@ -65,6 +71,6 @@ Klaine : 210, 231, 286, 432, 757, 1581, 1603, 2776, environs de Libreville. Le T
 
 ## See also
 
-- [[Beilschmiedia]]
+- [[Beischmiedia]]
 - [[Lauraceae]]
 - [[vol10]]

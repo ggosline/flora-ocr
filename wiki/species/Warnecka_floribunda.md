@@ -11,7 +11,7 @@ tags: [species, generated]
 ---
 # *Warnecka floribunda* Jacques-Félix
 
-**Genus**: [[Warneckea]]
+**Genus**: [[Warnecka]]
 **Family**: [[Melastomataceae]]
 **Protologue**: Adansonia, sér. 2, 19 (3) : 264, tab. 4 (1980)
 
@@ -45,6 +45,6 @@ Le Testu 7710, Liyanga, S Latoursville, fleurs bleu violacé (nov.).
 
 ## See also
 
-- [[Warneckea]]
+- [[Warnecka]]
 - [[Melastomataceae]]
 - [[vol25]]

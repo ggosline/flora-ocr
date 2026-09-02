@@ -11,7 +11,7 @@ tags: [species, generated]
 ---
 # *Hyperrhenia dissoluta* (Nees) C. E. Hubb.
 
-**Genus**: [[Hyparrhenia]]
+**Genus**: [[Hyperrhenia]]
 **Family**: [[Gramineae]]
 
 ## Synonyms
@@ -26,7 +26,9 @@ tags: [species, generated]
 
 ## Description
 
-Species recorded in almost all tropical Africa, as well as in South Africa, Madagascar and America, but not yet in Gabon. It is however frequent in the sandy soils of the coastal region of Pointe-Noire and should probably be found further North under analogous conditions, perhaps also in sandy soils around Franceville.
+<!-- TODO:translate — source text below, verbatim and untranslated -->
+
+Espèce signalée dans presque toute l'Afrique tropicale, ainsi qu'en Afrique du Sud, à Madagascar et en Amérique, mais pas encore au Gabon. Elle est cependant fréquente dans les sols sableux de la région côtière de Pointe-Noire et doit probablement se rencontrer plus au Nord dans des conditions analogues, peut-être aussi sur des sols sableux autour de Franceville.
 
 ## Notes
 
@@ -34,6 +36,6 @@ Species recorded in almost all tropical Africa, as well as in South Africa, Mada
 
 ## See also
 
-- [[Hyparrhenia]]
+- [[Hyperrhenia]]
 - [[Gramineae]]
 - [[vol05]]

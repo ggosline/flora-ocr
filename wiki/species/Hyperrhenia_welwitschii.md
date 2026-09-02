@@ -11,7 +11,7 @@ tags: [species, generated]
 ---
 # *Hyperrhenia welwitschii* (Rendle) Stapf.
 
-**Genus**: [[Hyparrhenia]]
+**Genus**: [[Hyperrhenia]]
 **Family**: [[Gramineae]]
 **Protologue**: STAPF, Fl. of Trop. Af. IX : 356 (1919)
 
@@ -22,9 +22,11 @@ tags: [species, generated]
 
 ## Description
 
-Reported in Guinea, Cameroon, Angola, Belgian Congo and in the Niari where it occupies sandy alluvium. Probably should exist in the savannas of the Nyanga. Of mediocre forage value.
+<!-- TODO:translate — source text below, verbatim and untranslated -->
 
-Vernacular names (after Walker and Sillans): Etsubu (Mindumu); Tubi (Bapunu)?
+Signalée en Guinée, au Cameroun, en Angola, au Congo Belge et dans le Niari où elle occupe des alluvions sableuses. Doit probablement exister dans les savanes de la Nyanga. Intérêt fourrager médiocre.
+
+Noms vernaculaires (d’après Walker et Sillans) : Etsubu (Mindumu); Tubi (Bapunu)?
 
 ## Notes
 
@@ -32,6 +34,6 @@ Vernacular names (after Walker and Sillans): Etsubu (Mindumu); Tubi (Bapunu)?
 
 ## See also
 
-- [[Hyparrhenia]]
+- [[Hyperrhenia]]
 - [[Gramineae]]
 - [[vol05]]

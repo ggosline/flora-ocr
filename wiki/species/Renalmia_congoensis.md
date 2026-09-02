@@ -11,7 +11,7 @@ tags: [species, generated]
 ---
 # *Renalmia congoensis* Gagnep.
 
-**Genus**: [[Renealmia]]
+**Genus**: [[Renalmia]]
 **Family**: [[Zingiberaceae]]
 
 ## Description
@@ -52,6 +52,6 @@ Le Testu : 1882, Tchibanga; 5084, Sainte Croix des Eshiras; 7677, Micouma, régi
 
 ## See also
 
-- [[Renealmia]]
+- [[Renalmia]]
 - [[Zingiberaceae]]
 - [[vol09]]

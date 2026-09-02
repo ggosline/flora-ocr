@@ -11,7 +11,7 @@ tags: [species, generated]
 ---
 # *Maranthochloa holostachya* (Bak.) Hutch.
 
-**Genus**: [[Marantochloa]]
+**Genus**: [[Maranthochloa]]
 **Family**: [[Marantaceae]]
 
 ## Synonyms
@@ -24,11 +24,13 @@ tags: [species, generated]
 
 ## Description
 
+<!-- TODO:translate — source text below, verbatim and untranslated -->
+
 — F.W.T.A. 2:338 (1936).
 
-Rhizomatous herbs erect, growing in tufts, unbranched, mono or rarely biphyllous, with stems c. 50 cm tall, the base surrounded by imbricate aphyllous sheaths. Leaves with blades reaching 30 × 12 cm, narrowly lanceolate, abruptly acuminate at the apex, rounded to subcordate at the base. Lower surface violaceous and more or less pubescent on the central nerve. Callus swollen, 5 to 10 mm long, petiole, including the sheath, of variable length, up to 20 cm long and more, often less.
+Herbes rhizomateuses dressées, poussant en toulfes, non ramifiées, mono ou rarement biphyelles, à tiges d'env. 50 cm de haut, la base entourée de gaines aphylls imbriquées. Feuilles à limbes pouvant atteindre  $ 30 \times 12 $ cm, étroitement lancéolés, brusquement acuminés au sommet, arrondis à subcordés à la base. Face inférieure violacée et plus ou moins pubescente sur la nervure centrale. Callus renflé, de 5 à 10 mm de long, pétiole, y compris la gaine, de longueur variable, jusqu'à 20 cm de long et plus, souvent moins.
 
-Inflorescence terminal, on a peduncle reaching 10-15 mm long, shortly spiciform or, more often, paniculate. Branches with 1 to 3 internodes of c. 8 mm long. Bracts persistent, 15 × 4 mm, each enclosing two biflorous cymes; common peduncle 10-12 to 15 mm, longest pedicel 4 mm. Sepals scarious, white corolla 6-7 mm long, staminodes yellow, ovary pubescent. Fruit white pearly, 6 mm in diameter, calyx persistent.
+Inflorescence terminale, sur un pédoncule pouvant atteindre 10-15 mm de long, courtemment spiciforme ou, plus souvent, paniculée. Ramifications à 1 à 3 entre-nœuds de ± 8 mm de long. Bractées persistantes, de 15 × 4 mm. renfermant chacune deux cymes biflores; pédoncule commun de 10-12 à 15 mm, pédicelle le plus long de 4 mm. Sépales scarieux, corolle blanche de 6-7 mm de long, staminodes jaunes, ovaire pubescent. Fruit blanc nacré, de 6 mm de diamètre, calice persistant.
 
 ## Type
 
@@ -36,13 +38,15 @@ Mann 1645, Gabon (K, P)
 
 ## Discussion
 
-Certain specimens (Le Testu 1395) present intermediate characters between those cited in the Pflanzenreich under the names Clinogyne monophylla and Cl. holostachya; the synonymy between the two species therefore appears admissible.
+<!-- TODO:translate — source text below, verbatim and untranslated -->
 
-The specimens of Cl. trichomyle K. Schum. cited in the Pflanzenreich were communicated to us by the Herbarium of Hamburg. The differences with Cl. holostachya are poorly marked: the length of the inflorescence is indeed very variable in this latter species; the pubescence of the base of the leaf sheaths is indeed very distinct in Cl. trichomyle, but is likewise found, more or less abundantly in most specimens of Cl. holostachya. More abundant and more complete material would be indispensable in order to be able to pronounce with certainty on the value of these two species.
+Certains échantillons (Le Testu 1395) présentent des caractères intermédiaires entre ceux cités dans le Pflanzenreich sous les noms de Clinogyne monophylla et de Cl. holostachya; la synonymie entre les deux espèces paraît donc admissible.
 
-Cl. holostachya was collected in the Congo ex-Belgian, in Gabon, in Cameroon and in Nigeria. It is a plant of the understory, which seeks illuminated stations.
+Les échantillons de Cl. trichomyle K. Schum. cités dans le Pflanzenreich nous ont été communiqués par l'Herbarium de Hambourg. Les différences avec M. holostachya sont peu marquées : la longueur de l'inflorescence est en effet très variable chez cette dernière espèce ; la pubescence de la base des gaines foliaires est effectivement très nette chez Cl. trichomyle, mais se retrouve également, plus ou moins abondante chez la plupart des échantillons de M. holostachya. Un matériel plus abondant et plus complet serait indispensable afin de pouvoir se prononcer de façon certaine sur la valeur de ces deux espèces.
 
-Vernacular names (after Walker and Sillans): Ozolombumba (Mpongwé, Galoa, Nkomi, Orungu); Mindubi-bagisi, Mulubi-bagisi (Eshira, Bavarama); Dundubi-mbumba, Dundubidu-bagisi (Bavungu, Bapunu); Mosodo-a-kadongé (Mitsogo); Mopèmba-pèmba (Bavové).
+M. holostachya a été récolté au Congo ex-belge, au Gabon, au Cameroun et au Nigeria. C'est une plante du sous-bois, qui recherche les stations éclairées.
+
+Noms vernaculaires (d'après Walker et Sillans) : Ozolombumba (Mpongwé, Galoa, Nkomi, Orungu) ; Mindubi-bagisi, Mulubi-bagisi (Eshira, Bavarama) ; Dundubi-mbumba, Dundubidu-bagisi (Bavungu, Bapunu) ; Mosodo-a-kadongé (Mitsogo) ; Mopèmba-pèmba (Bavové).
 
 ## Specimens examined
 
@@ -58,6 +62,6 @@ N. Hallé : 2270, Abanga, Monts de Cristal.
 
 ## See also
 
-- [[Marantochloa]]
+- [[Maranthochloa]]
 - [[Marantaceae]]
 - [[vol09]]

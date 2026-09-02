@@ -11,23 +11,25 @@ tags: [species, generated]
 ---
 # *Manikara fouilloyana* Aubréville et Pellegrin.
 
-**Genus**: [[Manilkara]]
+**Genus**: [[Manikara]]
 **Family**: [[Sapotaceae]]
 **Protologue**: Bull. Soc. Bot. Fr. 104 et fig.: 278 (1957)
 
 ## Description
 
-Large tree. Leaves oblong obovate, with obtuse, acuminate apex, cuneiform base; 12–15 cm long, 5–6 cm wide, tomentose felted grey or reddish below, coriaceous. Midvein very prominent beneath. Numerous lateral nerves very fine, scarcely visible above, invisible below beneath the felt of shuttle-like hairs. Petiole 1.5–2 cm long.
+<!-- TODO:translate — source text below, verbatim and untranslated -->
 
-Flowers fasciculate axillary. Pedicels 2–3 cm long, ferruginous tomentose. Sepals oblong, obtuse, 5 mm long, pubescent externally, glabrous internally. Corolla 6 mm long: lobes 3.5 mm, tube 2 mm; appendages 4 mm; tube very thick at the level of the fusion of stamens and staminodes. Stamens 6; 2.5 mm long. Staminodes ribbon-like lacinate at their apex. Ovary tomentose with 11–13 uniovulate locules, prolonged by a glabrous style approximately 7 mm long.
+Grand arbre. Feuilles oblongues obovées, à sommet obtus, acuminé, à base cunéiforme; de 12-15 cm de long, 5-6 cm large, tomenteuses feutrées gris ou rougeât e en dessous, coriaces. Nervure médiane très saillante dessous. Nombreuses nervures, latérales très fines, à peine visibles en dessus, invisibles en dessous sous le feutrage des poils en navette. Pétiole 1,5-2 cm long.
 
-Type of the species: Le Testu 6424 Hte-Ngounié, Poungui Essouma.
+Fleurs fasciculées axillaires. Pédicelles 2-3 cm long, tomentaux ferrugineux. Sépales oblongs, obtus, 5 mm long, pubescents extérieurement, glabres intérieurement. Corolle 6 mm long : lobes 3,5 mm, tube 2 mm; appendices 4 mm; tube très épais au niveau de la soudure des étamines et des staminodes. Étamines 6; 2,5 mm long. Staminodes en rubans laciniés à leur extrémité. Ovaire tomentaux à 11-13 loges uniovulées, prolongé d'un style glabre de 7 mm long environ.
 
-This species is distinguished from closely related species, in particular from M. lacera by the form of its leaves and especially by the larger flowers, borne on stouter pedicels. The ribbon-like staminodes, lacinate at the apex are also characteristic.
+Type de l'espèce : Le Testu 6424 Hte-Ngounié, Poungui Essouma.
 
-It is a large tree of the primary forest, and not a ripicole species. The bole is straight, cylindrical, the crown very well developed. From both the standpoint of tree form and ecology, it is the Gabonese homologue of Manilkara sylvestris Aubr. et Pellegrin from the primary forest of Côte d'Ivoire, which has smaller leaves and flowers, and especially staminodes distinctly bifurcate (drawing in F.F.C.I. 2nd ed. III: 123).
+Cette espèce se distingue des espèces voisines, notamment du M. lacera par la forme de ses feuilles et surtout par les fleurs plus grandes, portées par des pédicelles plus forts. Les staminodes en rubans, laciniés à l'extrémité sont également caractéristiques.
 
-In Gabon the species appears common in the Cristal Mountains. Its range extends to Cameroon (Douala) and almost to the south of the Guineo-Congolian forest in the territory of the Central African Republic (Bangou forest).
+C'est un grand arbre de la forêt primaire, et non pas une espèce ripicole. Le fût est droit, cylindrique, la cime très développe. Au double point de vue port de l'arbre et écologie, il est l'homologue gabonais du Manilkara sylvestris Aubr. et Pellegrin de la forêt primaire de la Côte d'Ivoire, qui a des feuilles et des fleurs plus petites, et surtout des staminodes nettement bifurqués (dessin dans F.F.C.I. 2e éd. III : 123).
+
+Au Gabon l'espèce semble commune dans les Monts de Cristal. Son aire s'étend au Cameroun (Douala) et presque jusqu'au sud de la forêt guinéo-congolaise sur le territoire de la République Centrafricaine (forêt de Bangou).
 
 ## Specimens examined
 
@@ -39,6 +41,6 @@ Le Testu : 6424, Poungui Essouma (fl. mars); 6452, Iména (Dijabi, fl. mars); 72
 
 ## See also
 
-- [[Manilkara]]
+- [[Manikara]]
 - [[Sapotaceae]]
 - [[vol01]]

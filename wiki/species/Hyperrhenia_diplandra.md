@@ -11,7 +11,7 @@ tags: [species, generated]
 ---
 # *Hyperrhenia diplandra* (Hack.) Stapf. (f. p. 183).
 
-**Genus**: [[Hyparrhenia]]
+**Genus**: [[Hyperrhenia]]
 **Family**: [[Gramineae]]
 
 ## Synonyms
@@ -20,23 +20,27 @@ tags: [species, generated]
 
 ## Description
 
-Perennial plant, of highly variable size, 1 to 3 m tall and more. Dense tufts of robust stems. Leaves generally glabrous except around the ligule, with linear elongated blade, up to 60 × 1 cm and more.
+<!-- TODO:translate — source text below, verbatim and untranslated -->
 
-Inflorescence in large narrow panicle, lax. Spatholes lanceolate, 2.5 to 3.5 cm long, generally tinged with purple. Peduncles approximately 8 mm long, more or less silky towards the apex. Racemes initially contiguous, then typically refracted, 10 to 20 mm long, 6 to 8 awns per pair; bases of racemes subequal, flattened, the longest not reaching 2 mm, pubescent on the inner face. Articles of the rachis and pedicels linear thin, pubescent, approximately 2 and 3 mm long. Two pairs of homogamous spikelets forming a tight involucre at the base of each raceme.
+Plante pérenne, de taille très variable, de 1 à 3 m de haut et plus. Toufles denses de tiges robustes. Feuilles généralement glabres sauf autour de la ligule, à limbe linéaire allongé, jusqu'à 60 × 1 cm et plus.
 
-Sessile spikelets 5 to 6 mm long, glabrous or more or less pubescent; lower glume with 9 nerves, rounded on the back, bicarinate towards the apex. Awn of the fertile floret 2.5 to 4 cm long, rusty pubescent. Pedicellate spikelets of the same length, generally glabrous and tinged with rust; lower glume with numerous nerves (up to 13), bicarinate and sometimes shortly subulate.
+Inflorescence en grande panicule étroite, lâche. Spathéoles lancéolées, de 2,5 à 3,5 cm de long, généralement teintées de pourpre. Pédoncules d'environ 8 mm de long, plus ou moins soyeux vers le sommet. Racèmes d'abord contigus, puis typiquement réfractés, de 10 à 20 mm de long, 6 à 8 arêtes par paire; bases des racèmes subégales, aplaties, la plus longue n'atteignant pas 2 mm, pubescentes sur la face interne. Articles du rachis et pédicelles linéaires minces, pubescents, d'environ 2 et 3 mm de long. Deux paires d'épillets homogames formant un involucre serré à la base de chaque racème.
 
-Homogamous spikelets similar to the pedicellate ones, but somewhat larger and always awnless.
+Épillets sessiles de 5 à 6 mm de long, glabres ou plus ou moins pubescents; glume inférieure à 9 nervures, arrondie sur le dos, bicarénée vers le sommet. Arête de la fleur fertile de 2,5 à 4 cm de long, pubescente rousse. Épillets pédicellés de même longueur, généralement glabres et teintés de roux; glume inférieure à nombreuses nervures (jusqu'à 13), bicarénée et parfois courtement subulée.
 
-Species widely distributed from Guinea to East Africa and Angola. In southern Congo and Gabon, it occupies considerable areas in almost pure stand. It is a very polymorphic species depending on the type of habitat in which it grows. The importance of the inflorescence, the length of the spatholes and peduncles and even that of the racemes is thus highly variable.
+Épillets homogames semblables aux pédicellés, mais un peu plus grands et toujours mutiques.
 
-Good forage plant to be used in the state of young regrowth. Maintains fairly good productivity during the dry season.
+Espèce largement répandue de la Guinée à l'Afrique Orientale et à l'Angola. Dans le sud du Congo et du Gabon, elle occupe des superficies considérables en peuplement presque pur. C'est une espèce très polymorphe en fonction du type de station dans laquelle elle croît. L'importance de l'inflorescence, la longueur des spathéoles et des pédoncules et même celle des racèmes est ainsi très variable.
+
+Bonne plante fourragère à utiliser à l'état de repousses jeunes. Garde une assez bonne productivité pendant la saison sèche.
 
 ## Vernacular names
 
 Grand-toubi (Bapounou, d'après Guillemet); Ditsotsou (Bapounou, Walker); Mbaba (Echira, Walker) et, d'après Walker et Sillans : Nosso (Loango); Ésosi
 
 ## Discussion
+
+<!-- TODO:translate — source text below, verbatim and untranslated -->
 
 (Mitsogo, Ivéa); Lisoso (Bavili, Badouma); Lésoso (Banzabi); Disotsu (Éshira, Bavarama); Digingi (Bavungu, Bapunu).
 
@@ -60,6 +64,6 @@ Koechlin : observations faites dans les environs de Libreville et les savanes du
 
 ## See also
 
-- [[Hyparrhenia]]
+- [[Hyperrhenia]]
 - [[Gramineae]]
 - [[vol05]]

@@ -11,7 +11,7 @@ tags: [species, generated]
 ---
 # *Pyrosiia lanceolata* (L.) Farwell
 
-**Genus**: [[Pyrrosia]]
+**Genus**: [[Pyrosiia]]
 **Family**: [[Polypodiaceae]]
 
 ## Synonyms
@@ -41,6 +41,6 @@ N. Hallé; 12/8, Bélinga, N. de Makokou.
 
 ## See also
 
-- [[Pyrrosia]]
+- [[Pyrosiia]]
 - [[Polypodiaceae]]
 - [[vol08]]

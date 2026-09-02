@@ -22,9 +22,11 @@ tags: [species, generated]
 
 ## Description
 
+<!-- TODO:translate — source text below, verbatim and untranslated -->
+
 — Warburg. Notizbl. König bot. Gart. Mus. Berl. : 99 (1815).
 
-Tall tree reaching 35 m, with ± pyramidal crown, with straight bole 20-80 cm in diameter, with exfoliating rhytidome; bark 5-12 mm thick, with white-pinkish section. Branches round, thick, glabrous. Leaves with petiole 10-12 mm; blade 15-25 cm long by 6-8 cm wide, subcoriaceous, with acute base, with sub-rounded apex, abruptly acuminate; 7-9 (10) pairs of secondary veins. Inflorescences 8-10 cm in racemes or panicles whose yellowish branches, tomentose to glabrescent, are terminated by umbels with involucre splitting circularly very early and leaving small discs 4-6 mm in diameter; flowers without bracts in small umbels of 20-30 flowers grouped on the discs; perianth cupuliform 3-4-partite; male flowers with 3-5 anthers on a column; the female flowers grouped by 20-30 likewise. Infructescences 12 cm of which 4-6 cm for the main peduncle, the pedicels of each fruit reaching 2 cm; fruits ellipsoid with accresent perigone at the base, reaching 3.5-4.5 cm long by 2.5-3 cm wide, yellow in color at maturity; thick pericarp surrounding the black and glossy seed 22-28 mm long by 12-13 mm wide, furnished with a red laciniate aril.
+Arbre élevé atteignant 35 m, à cime ± pyramidale, à fût droit de 20-80 cm de diamètre, à rhytidome se desquamant; écorce de 5-12 mm d'épaisseur, à coupe blanc-rosé. Rameaux ronds, épais, glabres. Feuilles à pétiole de 10-12 mm; limbe de 15-25 cm de long sur 6-8 cm de large, subcoriace, à base aiguë, à sommet sub-arrondi, brusquement accuminé; 7-9 (10) paires de nervures secondaires. Inflorescences de 8-10 cm en grappes ou panicules dont les rameaux jaunatres, tomenteux à glabrescents sont terminés par des ombelles avec involucre se découpant circulairement très tôt et laissant de petits disques de 4-6 mm de diamètre; fleurs sans bractées en petites ombelles de 20-30 fleurs groupées sur les disques; périanthe cupuliforme 3-4-partit; fleurs mâles à 3-5 anthères sur une colonne; les fleurs femelles groupées par 20-30 également. Infrutescences de 12 cm dont 4-6 cm pour le pédoncule principal, les pédicelles de chaque fruit atteignant 2 cm; fruits ellipsoïdes avec périgone accrescent à la base, atteignant 3,5-4,5 cm de long sur 2,5-3 cm de large, de couleur jaune à maturité; péricarpe épais entourant la graine noire et brillante longue de 22-28 mm sur 12-13 mm de large, munie d'un arille lacinié rouge.
 
 ## Vernacular names
 
@@ -36,19 +38,21 @@ Preuss fr. (B) Cameroun
 
 ## Discussion
 
-Staudt 649 (B) in Cameroon.
+<!-- TODO:translate — source text below, verbatim and untranslated -->
 
-Type of C. Klainei: Klaine 1746 (P) Libreville, Gabon.
+Staudt 649 (B) ở Cameroun.
 
-— C. cuneatum: Zenker 2109 (P) Bipinde, Cameroon.
+Type de C. Klainei : Klaine 1746 (P) Libreville, Gabon.
 
-— C. multiflorum: Staudt 649 (B) Yaoundé, Cameroon.
+— C. cuneatum : Zenker 2109 (P) Bipinde, Cameroun.
 
-The geographical range of this tree extends over former Belgian Congo, Gabon, Cameroon, Southern Nigeria, and Oubangui. It is a species of the ombrophilous forests of terra firme. Chevalier reports it as common in the vicinity of Libreville. From 1902 onwards, it was noted that the seeds are edible and contain a fatty substance whose odor is that of cocoa butter (Heckel, Rev. cult. colon. 12 : 132).
+— C. multiflorum : Staudt 649 (B) Yaoundé, Cameroun.
 
-Vernacular names recorded: Ekoune according to Fleury, Heitz, Gauchotte, in the Libreville region; Nzanbalonga according to Le Testu, Bayaka dialect in Mayombe. According to Walker and Sillans (work cited: 306) one may add: Ekun, Ekune, Ekuna-
+L'aire géographique de cet arbre s'étend sur le Congo ex-belge, le Gabon, le Cameroun, la Nigeria du Sud, l'Oubangui. C'est une essence des forêts ombrophiles de terre ferme. Chevalier la donne commune aux environs de Libreville. Dès 1902, on signalait que les graines sont alimentaires et contiennent une substance grasse dont l'odeur est celle du beurre de cacao (Heckel, Rev. cult. colon. 12 : 132).
 
-Nnom-éteng (Fang); Akuna, Akunela (Bakélé); Kumbi-suku (Bavarama, Eshira); Kombisoko (Ivéa); Kombitsoko (Mitsogo); Okombitsoko (Apindji); Nzangalomba (Loango, Bapunu); Ditombé (Béséki); Mosuguba (Mindumu); Ngombu (Bavungu) and Ekélebwé (Benga).
+Noms vernaculaires signalés : Ekoune d'après Fleury, Heitz, Gauchotte, dans la région de Libreville; Nzanbalonga d'après Le Testu, dialecte Bayaka dans le Mayombe. D'après Walker et Sillans (ouvrage cité : 306) on peut ajouter : Ekun, Ekune, Ekuna-
+
+Nnom-éteng (Fang); Akuna, Akunela (Bakélé); Kumbi-suku (Bavarama, Eshira); Kombisoko (Ivéa); Kombitsoko (Mitsogo); Okombitsoko (Apindji); Nzangalomba (Loango, Bapunu); Ditombé (Béséki); Mosuguba (Mindumu); Ngombu (Bavungu) et Ekélebwé (Benga).
 
 ## Specimens examined
 

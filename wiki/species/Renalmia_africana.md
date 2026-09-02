@@ -11,7 +11,7 @@ tags: [species, generated]
 ---
 # *Renalmia africana* (K. Schum.) Benth.
 
-**Genus**: [[Renealmia]]
+**Genus**: [[Renalmia]]
 **Family**: [[Zingiberaceae]]
 
 ## Synonyms
@@ -50,6 +50,6 @@ N. Hallé et G. Cours : 5959, Ovala (jachères forestières), près d'Étélé.
 
 ## See also
 
-- [[Renealmia]]
+- [[Renalmia]]
 - [[Zingiberaceae]]
 - [[vol09]]

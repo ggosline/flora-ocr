@@ -11,25 +11,27 @@ tags: [species, generated]
 ---
 # *Acoa lehmbachii* Engler
 
-**Genus**: [[Acioa]]
+**Genus**: [[Acoa]]
 **Family**: [[Scytopetalaceae]]
 **Protologue**: Bot. Jahrb. 26 : 379 (1899); Pflanzenw. Afr. 3 (1) : 311, tab. 200, fig. A-D (1915); DE WILD., BJBB 7 : 201 (1920)
 
 ## Description
 
+<!-- TODO:translate — source text below, verbatim and untranslated -->
+
 Pflanzenw. Afr. 3 (1) : 311, tab. 200, fig. A-D (1915); DE WILD., BJBB 7 : 201 (1920).
 
-— A. rudatisii Engl. ex De Wild., BJBB 7:215 (1920), "rudatisi"; Engl., Pflanzenw. Afr. 3 (1):311 (1915); Keay, FWTA, ed. 2, 1 (2):433 (1958); Keay, Onochie & Stanfield, Nig. Trees 1:322 (1960), syn. nov. See note 1 below.
+— A. rudatisii Engl. ex De Wild., BJBB 7:215 (1920), «rudatisi»; Engl., Pflanzenw. Afr. 3 (1):311 (1915); Keay, FWTA, ed. 2, 1 (2):433 (1958); Keay, Onochie & Stanfield, Nig. Trees 1:322 (1960), syn. nov. Voir note 1 ci-après.
 
-— A. gilletii De Wild., BJBB 7 : 199 (1920), p.p., as to specimen Bates 855 only. See note 2 below.
+— A. gilletii De Wild., BJBB 7 : 199 (1920), p.p., quoad specimen Bates 855 tantum. Voir note 2 ci-après.
 
-— A. scabrifolia auct. non HUA : KEAY, FWTA, ed. 2, 1 (2) : 433 (1958), p.p., as to specimen Lehmbach 115 only.
+— A. scabrifolia auct. non HUA : KEAY, FWTA, ed. 2, 1 (2) : 433 (1958), p.p., quoad specimen Lehmbach 115 tantum.
 
-Small tree (height 20 m, diameter 30 cm), sometimes branched from the base; bark hard, reddish in section; branches curved. Young shoots apparently covered with whitish aranose tomentum. Branches lenticellate. Young branches, stipules and petioles furnished with golden-brown to golden pubescence. Stipules linear, somewhat falcate, 5–8 mm. Petioles 3–6 mm. Blade elliptic-oblong, 3–7 × 7–17 cm, sometimes elliptic (5(–7.5) × 10(–15) cm); base acute or obtuse; apex acute, narrowly and briefly acuminate, or apex obtuse with small acumen; midvein pubescent then glabrescent above, pubescent to hispidulous below; lateral veins 5–7(–9) pairs, sparsely hispidulous then glabrescent below; blade sometimes slightly scabrous above, glabrous below; generally no clearly visible circular glands beneath the blade, sometimes 2 glands at the extreme base and beneath the acumen; sometimes pathological leaf blisters 2 mm in diameter on the blades.
+Petit arbre (hauteur 20 m, diamètre 30 cm), parfois ramifié dès la base; écorce dure, à section rougeâtre; rameaux courbés. Jeunes pousses couvertes, semble-t-il, d'un tomentum aranéeux blanchâtre. Rameaux lenticellés. Jeunes rameaux, stipules et pétioles garnis d'une pubescence brun doré à dorée. Stipules linéaires, un peu falciformes, 5-8 mm. Pétioles 3-6 mm. Limbe elliptique-oblong, 3-7 × 7-17 cm, parfois elliptique (5(-7,5) × 10(-15) cm); base aiguë ou obtuse ; sommet aigu assez étroitement et brievement acuminé ou sommet obtus avec petit acumen; nervure médiane pubescente puis glabrescente dessus, pubescente à hispidule dessous ; nervures latérales 5-7(-9) paires, éparsement hispidules puis glabrescentes dessous; limbe parfois légèrement scabre dessus, glabre dessous; en général pas de glandes circulaires nettement visibles sous le limbe, parfois 2 glandes à l'extrême base et sous l'acumen; parfois cloques foliaires pathologiques de 2 mm de diamètre, sur les limbes.
 
-Inflorescences racemose or cymose, terminal and axillary, with short axis, 3–5 cm, densely flowered, 1(2) times branched; peduncle, axis, bracts hispidulous; peduncle subnull with bracts deeply tricuspid lacinate. Bracts lanceolate to broadly acute apex, 3(–5) mm; portion of pedicels below the articulation 5–8(–15) mm, bearing almost at apex 2 subopposite bracteoles, very rarely alternate, the terminal articulate portion of the pedicel subnull, equal or sometimes exceeding the apex of the upper bracteole; bracteoles ovate-triangular, 1–1.5 mm, palmatifid to palmatipartite with 5–7 glands substituted to long-stipitate, 0–1 mm high. Pedicel of the flower articulated 3–6 mm. Receptacle 12–18 mm, gibbous at the base, glabrous; sepals 6–8 mm, glabrous externally; petals oblong-subrectangular with broadly acute to rounded base, 6–10 mm high; androecium 25–30(–60) mm, 15–20 filaments.
+Inflorescences racémeuses ou cymeuses, terminales et axillaires, à axe court, 3-5 cm, densément fleuri, 1(2) fois ramifié; pédoncule, axe, bractées hispidules; pédoncule subnul avec bractées profondément tricuspides laciniées. Bractées lancéolées à sommet largement aigu, 3(-5) mm; portion des pédicelles sous l'articulation 5-8(-15) mm, portant presque au sommet 2 bractéoles subopposées, très rarement alternes, la portion terminale articulée du pédicelle subnulle, égale ou parfois dépassant le sommet de la bractéole supérieure; bractéoles ovales-triangulaires, 1-1,5 mm, palmatifides à palmatipartites avec 5-7 glandes substitées à longuement stipitées, hautes de 0-1 mm. Pédicelle de la fleur désarticulée 3-6 mm. Réceptacle 12-18 mm, gibbeux à la base, glabre; sépales 6-8 mm, glabres extérieurement; pétales oblongs-subrectangulaires avec base largement aiguë à arrondie, hauts de 6-10 mm; androcée 25-30(-60) mm, 15-20 filets.
 
-Drupe ovoid flattened, 20–40 × 25–45 × 35–60 mm (in vivo), with obtuse or acute apex, golden-green then golden-brown, tomentose with abundant hispidulous to hispid hairs (1.5–2 mm); pulp white around a stone reaching 25 × 30 × 55 mm; endocarp hard but very thin with yellowish hairs internally; seed surrounded by whitish hairs fixed on a thin yellow tegument; cotyledons white (lignified and with central cavity in sicco); possible presence of a second aborted carpel. — P.L. 12, p. 43.
+Drupe ovoïde aplatie, 20-40 × 25-45 × 35-60 mm (in vivo), à pointe obtuse ou aiguë, vert doré puis brun doré, tomenteuse avec poils hispidules à hispides (1,5-2 mm) abondants; pulpe blanche autour d'un noyau atteignant 25 × 30 × 55 mm; endocarpe dur mais très mince avec poils jaunâtres intérieurement; graine entourée de poils blanchâtres fixés sur un mince légument jaune; cotylédons blancs (lignifiés et avec cavité centrale in sicco); présence éventuelle d'un second carpelle avorté. — P.L. 12, p. 43.
 
 ## Type
 
@@ -37,13 +39,17 @@ Lehmbach 115, Cameroun (holo-, B!)
 
 ## Discussion
 
-1) DE WILDEMAN not having been able to compare Acioa rudatisii Engl. ex De Wild. (l.c. : 215) with A. lehmbachii Engl. (l.c. : 201), it seems that — based only on the diagnosis of this second species — HUTCHINSON & DALZIEL (FWTA, ed. 1, 1 (2) : 320, 1928) and then KEAY (l.c. : 433, but here with doubt) placed Acioa lehmbachii Engl. in synonymy with A. scabrifolia Hua. Now the type specimen Lehmbach 115 of A. lehmbachii Engl. has been represented in the Berlin herbarium since 1899; the conspecificity with this of the syntypes Rudatis 30 and Deistel 651 of Acioa rudatisii Engl. ex De Wild. is beyond doubt since the differences invoked by Engler and De WILDEMAN (racemes in Acioa lehmbachii Engl., cymose, poorly branched inflorescences in A. rudatisii Engl. ex De Wild.) are not valid, the same types of inflorescence (poorly branched cymose) being found on careful observation in these 2 species, particularly on specimen Lehmbach 115. It should be noted in passing that the syntype Deistel 651, seen by DE WILDEMAN, was designated by him (l.c. : 216), by HUTCHINSON & DALZIEL (l.c. : 320) and then by KEAY (l.c. : 433) as Deistel 654, the figures 51 possibly being indeed interpreted, but in error, as 54 on certain labels in the Berlin herbarium; it may also be noted that specimen Deistel 651 was originally identified at Berlin as Acioa lehmbachii. Specimens Lehmbach 115 and Deistel 651 come from Buea and, collected 7 years apart, both present — secondary particularity of this species — pathological leaf blisters.
+<!-- TODO:translate — source text below, verbatim and untranslated -->
 
-2) De Wildeman (l.c. : 199) classified specimen Bates 855 among Acioa gilletii De Wild. The two species seem fairly close morphologically if not geographically. In A. gilletii De Wild., the blade is oblong with glands at the base below, the midvein glabrous above, the raceme always simple, the bracts glabrous bordered with subsessile glands, the pedicels elongate furnished toward the middle with 2 subdigitate bracts with 3(–5) long-stipitate glands, all characters which lead to bringing the specimen in question much closer to Acioa lehmbachii Engl.
+1) DE WILDEMAN n'ayant pu comparer Acioa rudatisii Engl. ex De Wild. (I.c. : 215) à A. lehmbachii Engl. (I.c. : 201), il semble que — d'après la diagnose seulement de cette seconde espèce — HUTCHINSON & DALZIEL (FWTA, ed. 1, 1 (2) : 320, 1928) puis KEAY (I.c. : 433, mais ici avec doute) aient placé Acioa lehmbachii Engl. en synonymie avec A. scabrifolia Hua. Or l'échantillon-type Lehmbach 115 d'A. lehmbachii Engl. est toujours représenté, depuis 1899, à l'herbier de Berlin; la conspecificité avec celui-ci des syntypes Rudatis 30 et Deistel 651 d'Acioa rudatisii Engl. ex De Wild. ne fait aucun doute car les différences invoquées par Engler et De WILDEMAN (racèmes chez Acioa lehmbachii Engl., inflorescences cymeuses, peu ramiﬁées, chez A. rudatisii Engl. ex De Wild.) ne sont pas valables, les mêmes types d'inflorescence (cymeuse peu ramiﬁée) se retrouvent par observation attentive chez ces 2 espèces, en particulier sur l'échantillon Lehmbach 115. Il faut noter au passage que le syntype Deistel 651, vu par DE WILDEMAN, a été désigné par lui (I.c. : 216), par HUTCHINSON & DALZIEL (I.c. : 320) puis par KEAY (I.c. : 433) comme Deistel 654, les chiffres 51 pouvant être effectivement interprétés, mais par erreur, comme 54 sur certaines étiquettes de l'herbier de Berlin; on peut relever aussi que l'échantillon Deistel 651 était à Berlin déjà identifié à l'origine comme Acioa lehmbachii. Les échantillons Lehmbach 115 et Deistel 651 proviennent de Buea et, récoltés à 7 ans d'intervalle, présentent tous deux — particularité secondaire de cette espèce — des cloques foliaires pathologiques.
 
-3) Acioa letestui R. Let. is distinguished from A. lehmbachii Engl. by its leaf with glabrous midvein and furnished with (3)–4–5 pairs of lateral veins, the undersurface of the blade ornamented with well-visible glands, the inflorescence as a raceme, the bracts often furnished with glands, the bracteoles less deeply divided, and finally by the globose drupe.
+2) De Wildeman (I.c. : 199) a rangé l'échantillon Bates 855 parmi Acioa gilletii De Wild. Les deux espèces paraissent assez proches morphologiquement sinon géographiquement. Chez A. gilletii De Wild., le limbe est oblong avec glandes à la base dessous, la nervure médiane glabre dessus, le racème toujours simple, les bractées glabres bordées de glandes subsessiles, les pédicelles allongés garnis vers le milieu de 2 bractées subdigitées avec 3(-5) glandes longuement stipitées, tous caractères qui amènent à rapprocher beaucoup plus l'échantillon en cause d'Acioa lembachii Engl.
 
-Acioa lehmbachii Engl. is known only from SE Nigeria (Ikom, Calabar) and from neighboring regions (Akwaya, Mamfe, Kumba, Buea) of Cameroon; in this territory, it has nevertheless been found again in the region of the Dja loop (see Acioa letestui R. Let. on this subject). This species is encountered in forest regrowth; a collection near Akwaya mentions it in a forest valley with Erythrophleum suaveolens, Maranthes kerstingii, etc.
+3) Acioa letestui R. Let. se distingue d'A. lehmbachii Engl. par sa feuille à nervure médiane glabre et pourvue de (3)-4-5 paires de nervures latérales, le dessous du limbe orné de glandes bien visibles, l'inflorescence en racème, les bractées souvent pourvues de glandes, les bractéoles moins profondément divisées, enfin par la drupe globuleuse.
+
+Acioa lehmbachii Engl. n'est connue que dans le SE du Nigeria (Ikom, Calabar) et dans les régions voisines (Akwaya, Mamfe, Kumba, Buea) du Cameroun; dans ce territoire, elle a cependant été retrouvée dans la région de la boucle du Dja (voir à ce sujet Acioa letestui R. Let.). Cette
+
+espèce se rencontre dans les recrus forestiers; une récolte près d'Akwaya la mentionne dans un vallon forestier à Erythrophleum suaveolens, Maranthes kerstingii, etc.
 
 ## Specimens examined
 
@@ -65,6 +71,6 @@ Bates 855, Bitye, 50 km ENE Sangmélima (fl.) (BM et photo, P); 1375, 1395, ibid
 
 ## See also
 
-- [[Acioa]]
+- [[Acoa]]
 - [[Scytopetalaceae]]
 - [[vol24]]

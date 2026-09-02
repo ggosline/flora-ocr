@@ -11,17 +11,21 @@ tags: [species, generated]
 ---
 # *Amphibemma molle* Hooker f.
 
-**Genus**: [[Amphiblemma]]
+**Genus**: [[Amphibemma]]
 **Family**: [[Melastomataceae]]
 **Protologue**: FTA 2 : 456 (1871); JACQ.-FÉL., Fl. Cam. 24 : 95, tab. 30 (1983)
 
 ## Description
 
-Subshrubby subherbaceous plant, branched, erect up to 0.80 m, hirsute, often reddish; branchlets slender, subangular then rounded, with 2 interfoliary warts on each node. Leaves with slender petioles, 3 to 7 cm long, velutinous hirsute; blade ovate, 4–6 × 8–10 cm, rounded to moderately cordate at the base, acute to obscurely acuminate; pubescent above, subhirsute below; 5 veins, the transverse ones parallel, ± obscured by the indumentum; margins obscurely dentate-ciliate.
+<!-- TODO:translate — source text below, verbatim and untranslated -->
 
-Terminal cymes, long persistent and apparently lateral through sympodial overtopping; solitary, pedunculate, reaching up to 25 cm and bearing about fifty flowers arranged in two series on a densely velutinous rachis. Flowers briefly pedicellate, velutinous; hypantho-calyx covered with setae and capitate hairs, ovate-campanulate, 4 to 5 mm long; lobes triangular-obtuse, 3 mm long, provided with a subapical linear-subulate appendage, hirsute, reaching 6–8 mm and exceeding the corolla in bud. Corolla pink or white; petals oblong, 3.5 × 5 mm, apex setaceous plus several other capitate hairs. External stamens with anther 4 mm; podoconnective slightly curved, prolonged anteriorly in an obtuse-emarginate appendage and marked posteriorly with a poorly visible spur; filament 5 mm. Internal stamens with anther 2.5 mm, connective provided with a thick anterior appendage, bilobed, contiguous or adherent to the anther, and with a well-evident spur; filament 4 mm. Ovary entirely adherent over the lower third of its height, then by partitions up to the middle, upper portion free, crateriform, cylindraceous, formed by the membranous epigynous crown, veined, with thin margin, ciliate with capitate hairs; placentas stipitate by a membranous blade; style linear rather thick, 4 mm long.
+Arbrisseau subherbacé, ramifié, dressé jusqu'à 0,80 m, hirsute, souvent rougeâtre; rameaux grêles, subangulaires puis arrondis, avec 2 ver-
 
-Fruit campanulate, 8 mm long; locules accrescent at the angle of the crown; the latter long-projecting, pentagonal-reduplicate, with rectillinear or undulate margin; valvate dehiscence. Seeds obovoid, 0.5 mm long, papillose; testa dilated laterally and at the apex. — Pl. 27, p. 77.
+rues interfoliaires sur chaque nœud. Feuilles à pétiole grêle, long de 3 à 7 cm, velutineux hirsute; limbe ovale, 4-6 × 8-10 cm, arrondi à médiocrement cordé à la base, aigu à obscurément acuminé; pubescent au-dessus, subhirsute en-dessous; 5 nervures, les transversales parallèles, ± masquées par l'indument; marges obscurément dentées-ciliées.
+
+Cymes terminales, longtemps persistantes et apparemment latérales par dépassement sympodial; solitaires, pédonculées, pouvant atteindre 25 cm et porter une cinquantaine de fleurs bisériées sur un rachis densément velutineux. Fleurs brièvement pédicellées, velutineuses; hypantho-calice couvert de soies et de poils capités, ovo-campanulé, long de 4 à 5 mm; lobes triangulaires-obtus, longs de 3 mm, pourvus d'un appendice subapical linéaire-subulé, hirsute, atteignant 6-8 mm et dépassant la corolle dans le bouton. Corolle rose ou blanche; pétales oblongs, 3,5 × 5 mm, apex sétacé plus quelques autres poils capités. Étamines externes à anthère de 4 mm; pédoconnectif peu arqué, prolongé en avant d'un appendice obtus-émarginé et marqué en arrière d'un éperon peu visible; filet de 5 mm. Étamines internes à anthère de 2,5 mm, connectif pourvu d'un appendice frontal épais, bilobé, contigu ou adhérent à l'anthère, et d'un éperon bien évident; filet de 4 mm. Ovaire entièrement adhérent sur le tiers de sa hauteur, puis par des cloisons jusqu'à la moitié, partie supérieure libre, cratéﬁrme, cylindracée, formée par la couronne épigyne membraneuse, nerviée, à marge mince, ciliée de poils capités; placentas stipités par une lame membraneuse; style linéaire plutôt épais, long de 4 mm.
+
+Fruit campanulé, long de 8 mm; loges accrescentes dans l'angle de la couronne; celle-ci longuement saillante, pentagonale-rédupliquée, à marge rectiligne ou ondulée; déhiscence valvaire. Graines obovoïdes, longues de 0,5 mm, papilleuses; tégument dilaté latéralement et au sommet. — Pl. 27, p. 77.
 
 ## Type
 
@@ -29,7 +33,9 @@ Mann 1681 b, Gabon (holo-, K)
 
 ## Discussion
 
-A very distinctive species in the genus. Range limited to the western part of Gabon and Cameroon. Forest habitat; humus on rocks, stream margins, small clearings, etc.
+<!-- TODO:translate — source text below, verbatim and untranslated -->
+
+Espèce très distincte dans le genre. Aire limitée à la partie occidentale du Gabon et du Cameroun. Habitat forestier; terreau sur rochers, bords de ruisseaux, petites clairières, etc.
 
 ## Specimens examined
 
@@ -61,6 +67,6 @@ Mann 1681 b, mt Cristal (juil.), K.
 
 ## See also
 
-- [[Amphiblemma]]
+- [[Amphibemma]]
 - [[Melastomataceae]]
 - [[vol25]]

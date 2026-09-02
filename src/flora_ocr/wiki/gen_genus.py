@@ -323,6 +323,65 @@ def patch_page(text: str, section: list[str]) -> str | None:
     return updated if updated != text else None
 
 
+def render_stub(genus: str, entries: list[tuple[dict, dict]]) -> str:
+    """A genus page built from its species alone.
+
+    Some genus headings are never segmented -- Uvaria, Anthonotha, Artabotrys
+    and 74 others have species blocks but no genus block, so 165 species pages
+    pointed at a genus that did not exist. The species carry enough to build a
+    real index page: family, the species themselves, and which treatments they
+    came from. There is no diagnosis, and the page says so rather than
+    implying one was not worth writing.
+    """
+    family = resolve_family(entries[0][1].get("family")) or ""
+    species = [(b, bundle["treatment"]) for bundle, b in entries]
+
+    fm = ["---", "type: genus", f"name: {genus}"]
+    if family:
+        fm.append(f"family: {family}")
+    fm.append(f"species_in_region: {len(species)}")
+    vols = sorted({str(t.get("vol")) for _, t in species})
+    fm.append("treatments:")
+    for vol in vols:
+        fm.append(f"  - vol: {vol}")
+    fm.append("tags: [genus, generated, stub]")
+    fm.append("---")
+
+    body = ["", f"# *{genus}*", ""]
+    if family:
+        body.append(f"**Family**: [[{family}]]")
+    body.append("")
+    body.append("## Diagnosis")
+    body.append("")
+    body.append("*No genus description was segmented from the source. This page "
+                "is built from the species treatments below.*")
+    body.append("")
+    body.append("## Species in region")
+    body.append("")
+    body.append("| Species | Vol | Pages |")
+    body.append("|---------|-----|-------|")
+    for block, treatment in sorted(species, key=lambda x: x[0]["canonical"]):
+        name = block["canonical"]
+        epithet = name.split(" ", 1)[1] if " " in name else name
+        body.append(
+            f'| [[{name.replace(" ", "_")}\\|*{genus[0]}. {epithet}*]] '
+            f'| {treatment.get("vol")} '
+            f'| {block.get("page_start")}–{block.get("page_end")} |')
+    body.append("")
+    body.append("## Notes")
+    body.append("")
+    body.append("<!-- TODO:notes -->")
+    body.append("")
+    body.append("## See also")
+    body.append("")
+    if family:
+        body.append(f"- [[{family}]]")
+    for vol in vols:
+        body.append(f"- [[vol{vol.zfill(2)}]]")
+    body.append("")
+    return "\n".join(fm) + "\n".join(body)
+
+
 def main(argv: list[str] | None = None) -> int:
     ap = argparse.ArgumentParser(description=__doc__,
                                  formatter_class=argparse.RawDescriptionHelpFormatter)
@@ -332,6 +391,9 @@ def main(argv: list[str] | None = None) -> int:
     ap.add_argument("--out", default=str(WIKI_DIR / "genera"))
     ap.add_argument("--force", action="store_true",
                     help="overwrite existing pages (they are usually better)")
+    ap.add_argument("--stubs", action="store_true",
+                    help="build pages for genera that have species blocks but "
+                         "no genus block of their own")
     ap.add_argument("--patch-keyed", action="store_true",
                     help="only insert/refresh the 'keyed but not treated' "
                          "section on existing pages, leaving all other content "
@@ -365,6 +427,37 @@ def main(argv: list[str] | None = None) -> int:
             by_genus[name].append((bundle, block))
 
     out_dir = Path(args.out)
+
+    if args.stubs:
+        by_species: dict[str, list] = defaultdict(list)
+        for bundle in bundles:
+            for block in bundle["blocks"]:
+                if block["rank"] != "species":
+                    continue
+                raw = block.get("genus")
+                if not raw or raw in NOT_A_TAXON:
+                    continue
+                # the link map catches corruptions the species blocks carry
+                # that NAME_CORRECTIONS does not, e.g. Warnecka -> Warneckea
+                from flora_ocr.wiki.fix_links import LINK_CORRECTIONS
+                fixed = NAME_CORRECTIONS.get(raw, LINK_CORRECTIONS.get(raw, raw))
+                by_species[fixed].append((bundle, block))
+
+        written = skipped = 0
+        for genus, entries in sorted(by_species.items()):
+            if genus in by_genus or (out_dir / f"{genus}.md").exists():
+                skipped += 1
+                continue
+            page = render_stub(genus, entries)
+            if args.dry_run:
+                print(f"  would write {genus}.md ({len(entries)} species)")
+            else:
+                out_dir.mkdir(parents=True, exist_ok=True)
+                (out_dir / f"{genus}.md").write_text(page, encoding="utf-8")
+            written += 1
+        verb = "would write" if args.dry_run else "wrote"
+        print(f"{verb} {written} genus stubs, skipped {skipped} that already exist")
+        return 0
 
     if args.patch_keyed:
         patched = unchanged = missing = 0

@@ -11,19 +11,23 @@ tags: [species, generated]
 ---
 # *Acoa bellayana* Baillon
 
-**Genus**: [[Acioa]]
+**Genus**: [[Acoa]]
 **Family**: [[Scytopetalaceae]]
 **Protologue**: Adansonia, ser. 1, 7 : 224 (1867); ENGL., Bot. Jahrb. 26 : 380 (1899); Pflanzenw. Afr. 3 (1) : 311 (1915); DE WILD., BJBB 7 : 199 (1920); HAUM., FCB 3 : 50 (1952)
 
 ## Description
 
+<!-- TODO:translate — source text below, verbatim and untranslated -->
+
 Pflanzenw. Afr. 3 (1) : 311 (1915); DE WILD., BJBB 7 : 199 (1920); HAUM., FCB 3 : 50 (1952). — Griffonia bellayana OLIV., FTA 2 : 371 (1871), p.p., quoad specimen gabonicum.
 
-Shrub of a few metres in height, ± sarmentose. Very young leafy shoots covered with dense golden-yellow hispid pubescence. Young branches, stipules, petioles, midvein above and below likewise hispid, lateral veins and blade below sparsely hispid. Stipules linear, 6–8 mm, ± long-persistent. Petiole 3–4 mm. Blade elliptic-oblong, 4–7 × 10–18 cm; base generally broadly obtuse and subcordate, sometimes narrowly obtuse; apex broadly acute, with a fairly narrow small acumen; lateral veins 6–8(–10) pairs; often 2 circular glands, rarely more, remote from the midvein beneath the blade; rarely a few small circular glands beneath the acumen.
+Arbuste de quelques mètres de hauteur ± sarmenteux. Très jeunes pousses feuillées couvertes d'une dense pubescence hispide jaune doré. Jeunes rameaux, stipules, pétioles, nervure médiane dessus et dessous également hispides, nervures latérales et limbe dessous éparsement hispides. Stipules linéaires, 6-8 mm ± longuement persistantes. Pétiole 3-4 mm. Limbe elliptique-oblong, 4-7 × 10-18 cm; base généralement largement
 
-Racemes solitary terminal and especially axillary subter­minal and abundant, very rarely geminate, 5–10 cm; axis sparsely hispidulous then glabrescent. Floral bracts lanceolate, 4–5 mm long, sparsely pubescent externally towards the apex and margins, reflexed; portion of the pedicels below the articulation slender, 10–15(–22) mm, glabrous and furnished, often with 2 opposite terminal bracteoles, often with 2 alternate bracteoles, the articulated terminal portion of the pedicel rarely extending beyond the apex of the upper bracteole; bracteoles 3–5-palmatipartite with median tooth more clearly triangular, the narrow segments forming the stipe (1–2 mm) of a terminal elongate gland. Pedicel of the articulated flower 2–4 mm. Receptacle glabrous, 8–12 mm, tubular with gibbous swelling at the base. Floral bud globose, slightly apiculate; sepals 6 mm, glabrous as regards the parts exposed externally in the bud; petals white, broadly obovate ± quadrangular with subcordate base, 6–8 mm tall; androecium 25–30 mm, approximately 30 filaments.
+obtuse et subcordée, parfois étroitement obtuse; sommet largement aigu, petit acumen assez étroit; nervures latérales 6-8(-10) paires; souvent 2 glandes circulaires, rarement plus, à l'écart de la nervure médiane sous le limbe; rarement quelques petites glandes circulaires sous l'acumen.
 
-Drupes ovoid-elongate pointed, 25 × 25 × 50 mm (in sicco), with tomentellate golden-brown surface with scattered hispidulous hairs. — PL. 2, p. 15.
+Racèmes solitaires terminaux et surtout axillaires subterminaux et abondants, très rarement géminés, 5-10 cm; axe éparsement hispiduleux puis glabrescent. Bractées florales lancéolées, longues de 4-5 mm, éparsement pubescentes extérieurement vers le sommet et les marges, réfléchies; portion des pédicelles sous l'articulation gréle, (10-15(-22) mm, glabre et garnie, souvent de 2 bractéoles opposées terminales, souvent de 2 bractéoles alternes, la portion terminale articulée du pédicelle se prolongeant rarement au-delà du sommet de la bractéole supérieure; bractéoles 3-5-palmatipartites avec dent médiane plus nettement triangulaire, les segments étroits formant le stipe (1-2 mm) d'une glande allongée terminale. Pédicelle de la fleur désarticulée 2-4 mm. Réceptacle glabre, 8-12 mm, tubuleux avec renflement gibbeux à la base. Bouton floral globuleux, légèrement apiculé; sépales 6 mm, glabres en ce qui concerne les parties exposées à l'extérieur dans le bouton; pétales blancs, largement obovales ± quadrangulaires avec base subcordée, hauts de 6-8 mm; androcée (25-30 mm, environ 30 filets.
+
+Drupes ovoïdes-allongées pointues,  $ 25 \times 25 \times 50 $ mm (in sicco), à surface tomentelleuse brun doré avec poils hispidules épars. — PL. 2, p. 15.
 
 ## Type
 
@@ -31,11 +35,13 @@ Griffon du Bellay 7, 602, Gabon (holo-, P!)
 
 ## Discussion
 
-1) Acioa hirsuta A. Chev. ex De Wild., known only from the 2 specimens Chevalier 19738 and 19818 (and Aubréville 2794?), contiguous in the Cavally basin in Côte d'Ivoire, is certainly very close to Acioa bellayana Baill. and differs from it only by palmatilobe bracteoles (and not palmatipartite), receptacles of 20–25 mm (and not 12–15 mm), sepals of 8 mm (and not 6 mm), an androecium of 35–45 mm (and not 25–30 mm) bearing approximately 20 filaments (and not approximately 30).
+<!-- TODO:translate — source text below, verbatim and untranslated -->
 
-2) Acioa bellayana Baill. is certainly very close to Acioa campestris Engl. and on several occasions these two species have been confused. The permanent hispid pubescence of the former (whereas in the latter an analogous pubescence would disappear very rapidly) is perhaps only the principal provisional argument for differentiating them here, alongside other quantitative characters appearing more secondary.
+1) Acioa hirsuta A. Chev. ex De Wild., connue seulement par les 2 échantillons Chevalier 19738 et 19818 (et Aubréville 2794?), contigus dans le bassin du Cavally en Côte d'Ivoire, est certainement très proche d'Acioa bellayana Baill. et ne s'en distingue que par des bractéoles palmatilobées (et non palmatipartites), des réceptacles de 20-25 mm (et non 12-15 mm), des sépales de 8 mm (et non 6 mm), un androcée de 35-45 mm (et non 25-30 mm) portant environ 20 filets (et non 30 environ).
 
-Acioa bellayana Baill. occurs in Cameroon, in Gabon and is recorded in Lower Zaïre. Its presence in Angola, mentioned by ENGLER (l.c. : 311) and by HAUMAN (l.c. : 51), is not confirmed by MENDES (Consp. Fl. Angol. 4 : 19, 1970) and results only from confusions of material used by OLIVER (l.c. : 371) to describe Griffonia bellayana Oliv.
+2) Acioa bellayana Baill. est certainement fort proche d'Acioa campestris Engl. et à plusieurs reprises ces deux espèces ont été confondues. La pubescence hispide permanente de la première (alors que chez la seconde une pubescence analogue disparaîtrait très rapidement) n'est peut-être que l'argument principal provisoire pour les différenciers ici, à côté d'autres caractères quantitatifs paraissant plus secondaires.
+
+Acioa bellayana Baill. existe au Cameroun, au Gabon et est signalée au Bas-Zaïre. Sa présence en Angola, mentionnée par ENGLER (l.c. : 311) et par HAUMAN (l.c. : 51), n'est pas confirmée par MENDES (Consp. Fl. Angol. 4 : 19, 1970) et ne résulte que des confusions de matériel utilisé par OLIVER (l.c. : 371) pour décrire Griffonia bellayana Oliv.
 
 ## Vernacular names
 
@@ -69,6 +75,6 @@ Soyaux 123, Loango près Bango (fl., sept.) (photo exs. K in P).
 
 ## See also
 
-- [[Acioa]]
+- [[Acoa]]
 - [[Scytopetalaceae]]
 - [[vol24]]
