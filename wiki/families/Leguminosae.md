@@ -159,30 +159,30 @@ Now a clade **within** Caesalpinioideae rather than a subfamily beside it.
 
 ### Vol 49 (2016) — Papilionoideae · 66 genera, 284 species
 
-| Genus | Spp | | Genus | Spp | | Genus | Spp |
-|-------|----|---|-------|----|---|-------|----|
-| [[Millettia]] | 38 | | [[Dalbergia]] | 27 | | [[Indigofera]] | 17 |
-| [[Vigna]] | 16 | | [[Crotalaria]] | 15 | | [[Baphia]] | 14 |
-| [[Desmodium]] | 13 | | [[Leptoderris]] | 11 | | [[Eriosema]] | 10 |
-| [[Tephrosia]] | 7 | | [[Aeschynomene]] | 6 | | [[Rhynchosia]] | 6 |
-| [[Angylocalyx]] | 5 | | [[Erythrina]] | 5 | | [[Aganope]] | 4 |
-| [[Craibia]] | 4 | | [[Mucuna]] | 4 | | [[Ormocarpum]] | 4 |
-| [[Abrus]] | 3 | | [[Amphimas]] | 3 | | [[Centrosema]] | 3 |
-| [[Microcharis]] | 3 | | [[Pterocarpus]] | 3 | | [[Schefflerodendron]] | 3 |
-| [[Sesbania]] | 3 | | [[Stylosanthes]] | 3 | | [[Airyantha]] | 2 |
-| [[Alysicarpus]] | 2 | | [[Camoensia]] | 2 | | [[Canavalia]] | 2 |
-| [[Clitoria]] | 2 | | [[Dalbergiella]] | 2 | | [[Kotschya]] | 2 |
-| [[Leucomphalos]] | 2 | | [[Macroptilium]] | 2 | | [[Macrotyloma]] | 2 |
-| [[Platysepalum]] | 2 | | [[Pseudarthria]] | 2 | | [[Psophocarpus]] | 2 |
-| [[Teramnus]] | 2 | | [[Andira]] | 1 | | [[Arachis]] | 1 |
-| [[Baphiopsis]] | 1 | | [[Bobgunnia]] | 1 | | [[Cajanus]] | 1 |
-| [[Calopogonium]] | 1 | | [[Cyclocarpa]] | 1 | | [[Dalhousiea]] | 1 |
-| [[Dewevrea]] | 1 | | [[Dioclea]] | 1 | | [[Dolichos]] | 1 |
-| [[Galactia]] | 1 | | [[Haplormosia]] | 1 | | [[Hylodesmum]] | 1 |
-| [[Leptospron]] | 1 | | [[Lonchocarpus]] | 1 | | [[Machaerium]] | 1 |
-| [[Myroxylon]] | 1 | | [[Neonotonia]] | 1 | | [[Neustanthus]] | 1 |
-| [[Ostryocarpus]] | 1 | | [[Physostigma]] | 1 | | [[Sphenostylis]] | 1 |
-| [[Uraria]] | 1 | | [[Xanthocercis]] | 1 | | [[Zornia]] | 1 |
+| Genus            | Spp |     | Genus            | Spp |     | Genus                 | Spp |
+| ---------------- | --- | --- | ---------------- | --- | --- | --------------------- | --- |
+| [[Millettia]]    | 38  |     | [[Dalbergia]]    | 27  |     | [[Indigofera]]        | 17  |
+| [[Vigna]]        | 16  |     | [[Crotalaria]]   | 15  |     | [[Baphia]]            | 14  |
+| [[Desmodium]]    | 13  |     | [[Leptoderris]]  | 11  |     | [[Eriosema]]          | 10  |
+| [[Tephrosia]]    | 7   |     | [[Aeschynomene]] | 6   |     | [[Rhynchosia]]        | 6   |
+| [[Angylocalyx]]  | 5   |     | [[Erythrina]]    | 5   |     | [[Aganope]]           | 4   |
+| [[Craibia]]      | 4   |     | [[Mucuna]]       | 4   |     | [[Ormocarpum]]        | 4   |
+| [[Abrus]]        | 3   |     | [[Amphimas]]     | 3   |     | [[Centrosema]]        | 3   |
+| [[Microcharis]]  | 3   |     | [[Pterocarpus]]  | 3   |     | [[Schefflerodendron]] | 3   |
+| [[Sesbania]]     | 3   |     | [[Stylosanthes]] | 3   |     | [[Airyantha]]         | 2   |
+| [[Alysicarpus]]  | 2   |     | [[Camoensia]]    | 2   |     | [[Canavalia]]         | 2   |
+| [[Clitoria]]     | 2   |     | [[Dalbergiella]] | 2   |     | [[Kotschya]]          | 2   |
+| [[Leucomphalos]] | 2   |     | [[Macroptilium]] | 2   |     | [[Macrotyloma]]       | 2   |
+| [[Platysepalum]] | 2   |     | [[Pseudarthria]] | 2   |     | [[Psophocarpus]]      | 2   |
+| [[Teramnus]]     | 2   |     | [[Andira]]       | 1   |     | [[Arachis]]           | 1   |
+| [[Baphiopsis]]   | 1   |     | [[Bobgunnia]]    | 1   |     | [[Cajanus]]           | 1   |
+| [[Calopogonium]] | 1   |     | [[Cyclocarpa]]   | 1   |     | [[Dalhousiea]]        | 1   |
+| [[Dewevrea]]     | 1   |     | [[Dioclea]]      | 1   |     | [[Dolichos]]          | 1   |
+| [[Galactia]]     | 1   |     | [[Haplormosia]]  | 1   |     | [[Hylodesmum]]        | 1   |
+| [[Leptospron]]   | 1   |     | [[Lonchocarpus]] | 1   |     | [[Machaerium]]        | 1   |
+| [[Myroxylon]]    | 1   |     | [[Neonotonia]]   | 1   |     | [[Neustanthus]]       | 1   |
+| [[Ostryocarpus]] | 1   |     | [[Physostigma]]  | 1   |     | [[Sphenostylis]]      | 1   |
+| [[Uraria]]       | 1   |     | [[Xanthocercis]] | 1   |     | [[Zornia]]            | 1   |
 
 *(A "Leguminosae" entry segmented as a genus in this volume is the family heading,
 not a taxon, and is excluded.)*
