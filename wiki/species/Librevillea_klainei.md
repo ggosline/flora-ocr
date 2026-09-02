@@ -7,6 +7,9 @@ family: Leguminosae
 vol: 15
 pages: 284-287
 source: sources/Leguminosae_vol15_paddle
+countries: [Gabon]
+in_region: true
+habit: "tree"
 tags: [species, generated]
 ---
 # *Librevillea klainei* (Pierre ex Harms) Hoyle
@@ -79,7 +82,7 @@ Walker : 10, Saint-Martin (fl. mai).
 
 ![Librevillea klainei](../sources/Leguminosae_vol15_paddle/figures/fig_071_p0286.png)
 
-*PL. LXXI. — Librevillea Klainei (Pierre ex Harms) Hoyle : 1, rameau florifère × 2 /3; 2, détail de la nervation; 3, fleur × 6; 4, jeune fruit × 2 /3.*
+*PL. LXXI. — Librevillea Klainei (Pierre ex Harms) Hoyle : 1, flowering branch × 2 /3; 2, detail of venation; 3, flower × 6; 4, young fruit × 2 /3.*
 
 ## Notes
 

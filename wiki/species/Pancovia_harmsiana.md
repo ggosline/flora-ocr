@@ -7,6 +7,9 @@ family: Sapindaceae
 vol: 23
 pages: 118-120
 source: sources/Sapindaceae_vol23_paddle
+countries: [Cameroon, Central African Republic, Cote d'Ivoire, Democratic Republic of the Congo, Gabon, Nigeria, Togo]
+in_region: true
+habit: "tree"
 tags: [species, generated]
 ---
 # *Pancovia harmsiana* Gilg

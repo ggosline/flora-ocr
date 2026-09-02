@@ -7,6 +7,7 @@ family: Rubiaceae
 vol: 17
 pages: 163-166
 source: sources/Rubiaceae_vol17_paddle
+habit: "tree"
 tags: [species, generated]
 ---
 # *Aulacocalyx le-* Testui (Pellegr.) E. Petit
@@ -37,7 +38,7 @@ This rare species was rediscovered in the Congolese Mayombe and in Lower Congo (
 
 ![Aulacocalyx le-](../sources/Rubiaceae_vol17_paddle/figures/fig_036_p0165.png)
 
-*PL. 36. — Aulacocalyx Talbotii (Wernh.) Keay (Le Testu 8756, fl.; Hédin 23 avr. 1928, fr.) : 1, fragment florifère × 0,75; 2, fleur épanouie; 3, fleur en coupe; 4, ovaire en coupe; 4′, un placenta en coupe perpendiculare à l'axe de symétrie; 5, fruit. — Au. Le-Testui (Pellegr.) E. Petit (Le Testu 2833) : 6, inflorescence; 7 et 8, aspects de la fleur; 9, coupe de la fleur; 10, étamine de profil et de face; 11, coupe de l'ovaire; 11′, coupe longitudinale submédiane des deux loges de l'ovaire.*
+*PL. 36. — Aulacocalyx Talbotii (Wernh.) Keay (Le Testu 8756, fl.; Hédin 23 apr. 1928, fr.) : 1, flowering fragment × 0.75; 2, open flower; 3, flower in section; 4, ovary in section; 4′, a placenta in section perpendicular to the axis of symmetry; 5, fruit. — Au. Le-Testui (Pellegr.) E. Petit (Le Testu 2833) : 6, inflorescence; 7 et 8, aspects of the flower; 9, section of the flower; 10, stamen in profile and front view; 11, section of the ovary; 11′, longitudinal submedian section of the two locules of the ovary.*
 
 ## Notes
 

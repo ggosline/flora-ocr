@@ -7,6 +7,11 @@ family: Apocynaceae
 vol: 59
 pages: 99-102
 source: sources/Apocynaceae_vol59_liteparse
+countries: [Gabon]
+in_region: true
+habit: "shrub"
+habitat: [secondary forest]
+altitude_m: "225–580"
 tags: [species, generated]
 ---
 # *Hunteria macrosiphon* Omino Planche 41 ; Figure 6(A, B)

@@ -7,6 +7,8 @@ family: Melastomataceae
 vol: 25
 pages: 112-115
 source: sources/Melastomataceae_vol25_paddle
+countries: [Angola, Democratic Republic of the Congo, Sierra Leone]
+in_region: true
 tags: [species, generated]
 ---
 # *Dinophora spenneroides* Bentham
@@ -87,7 +89,7 @@ CLÉ DES GENRES
 
 ![Dinophora spenneroides](../sources/Melastomataceae_vol25_paddle/figures/fig_041_p0111.png)
 
-*PL. 41. — Dinophora spenneroides Benth. : 1, sommité fleurie × 2/3; 2, fleur × 4; 3 & 4, étamines × 4; 5, fruit × 4; 6, jeune fruit en coupe × 4; 7, graine × 20 (Jacques-Félix 4909).*
+*PL. 41. — Dinophora spenneroides Benth. : 1, flowering apex × 2/3; 2, flower × 4; 3 & 4, stamens × 4; 5, fruit × 4; 6, young fruit in section × 4; 7, seed × 20 (Jacques-Félix 4909).*
 
 ## Notes
 

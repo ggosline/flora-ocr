@@ -7,6 +7,9 @@ family: Orchidaceae
 vol: 37
 pages: 217-221
 source: sources/Orchidaceae_vol37_paddle
+countries: [Angola, Burundi, Cameroon, Central African Republic, Cote d'Ivoire, Democratic Republic of the Congo, Equatorial Guinea, Gabon, Ghana, Guinea, Kenya, Liberia, Malawi, Mozambique, Nigeria, Rwanda, Sao Tome and Principe, Sierra Leone, Sudan, Tanzania, Togo, Uganda, Zambia, Zimbabwe]
+in_region: true
+habitat: [riverine]
 tags: [species, generated]
 ---
 # *Rhipidoglossum rutilum* (Rchb.f.) Schltr.

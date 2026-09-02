@@ -7,6 +7,7 @@ family: Aspleniaceae
 vol: 08
 pages: 131-132
 source: sources/Aspleniaceae_vol08_paddle
+habit: "herb"
 tags: [species, generated]
 ---
 # *Asplenium hallei* Tard. n. sp.

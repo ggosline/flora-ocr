@@ -7,6 +7,9 @@ family: Rubiaceae
 vol: 17
 pages: 314-317
 source: sources/Rubiaceae_vol17_paddle
+countries: [Cameroon, Central African Republic, Gabon, Nigeria]
+in_region: true
+habit: "shrub"
 tags: [species, generated]
 ---
 # *Tricalysia oligoneura* K. Schum.
@@ -16,17 +19,13 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+K. Schumann, Bot. Jahrb. 23 : 448 (1897, published 1896).
 
-K. Schumann, Bot. Jahrb. 23 : 448 (1897, paru en 1896).
+Small shrub 1.50 to 3 m tall. Young branches finely pubescent. Stipules pubescent with acumen tapered for 2–4 mm. Petiole pubescent 4–10 mm long. Blade olivaceous when dry, rather thin, glabrous on both surfaces, elliptic, 7–16 × 3–6.5 cm; base briefly cuneate sometimes subobtuse; apex acuminate. Midvein poorly pubescent beneath; 6–7 pairs of secondary veins. Intersecondaries with subtransverse tendency in arrangement. Small pilose domatia at the nerve axils.
 
-Petit arbuste de 1,50 à 3 m de hauteur. Jeunes rameaux finement pubescents. Stipules pubescentes à acumen effilé long de 2-4 mm. Pétiole pubescent long de 4-10 mm. Limbe olivacé à sec, plutôt mince, glabre sur les deux faces, elliptique, de 7-16 × 3-6,5 cm; base brièvement cunéiforme parfois subobtuse; sommet acuminé. Médiane pauvrement pubescente dessous; 6-7 paires de nervures secondaires. Intersecondaires à disposition de tendance subtransverse. Petites domaties pileuses aux aisselles nervaires.
+Inflorescences many-flowered, axillary, in contracted cymes; axes pilose reaching 2–4 mm including the pedicels. Bracteoles connate, cupuliform, pilose. Calyx pubescent with cupuliform limb 1 mm in height, with (4) 5 (6) subulate lobes 0.2–0.5 mm long. Corolla 4–6-merous slightly pubescent externally, with elliptic apiculate lobes, 3–4 × 1–2 mm; throat poorly pilose. Anther glabrous slightly apiculate, 2–4 mm long, inserted at the lower third; filament glabrous, 1–2 mm long. Style glabrous bilobed. Ovary with 2 locules, biovulate.
 
-Inflorescences pluriflores, axillaires, en cymes contractées; axes pileux atteignant 2-4 mm avec les pédicelles. Bractéoles connées cupuliformes pileuses. Calice pubescent à limbe cupuliforme sur 1 mm de hauteur, à (4) 5 (6) lobes subulés longs de 0,2-0,5 mm. Corolle 4-6-mère un peu pubescent extérieurement, à lobes elliptiques apiculés, de 3-4 × 1-2 mm; gorge pauvrement pileuse. Anthère glabre un peu apiculée, longue de 2-4 mm, fixée
-
-au tiers inférieur; filet glabre, long de 1-2 mm. Style glabre bilobé. Ovaire à 2 loges biovulées.
-
-Fruit rouge orangé à maturité, globuleux, atteignant 5-7 mm de diamètre sur le vif, un peu pubescent. (1) 3-4 graines par fruit, longues de 3-4 mm.
+Fruit red-orange at maturity, globose, reaching 5–7 mm diameter on the fresh specimen, slightly pubescent. (1) 3–4 seeds per fruit, 3–4 mm long.
 
 ## Type
 
@@ -34,9 +33,7 @@ Zenker 738 (K et P!), Yaoundé, Cameroun
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Nigeria, Cameroun, Gabon, Centrafrique.
+Nigeria, Cameroon, Gabon, Central African Republic.
 
 ## Vernacular names
 
@@ -64,7 +61,7 @@ Type et seul matériel connu : Le Testu 9455 (P, isotype BM), Binoc près Minvou
 
 ![Tricalysia oligoneura](../sources/Rubiaceae_vol17_paddle/figures/fig_076_p0315.png)
 
-*PL. 74. — Tricalysia potamogala N. Hallé (Le Testu 9455) : 1, rameau florifère × 0,75; 2, fragment d'inflorescence montrant le calice et deux étages de cupules bractéales; 3, anthère haute de 5 mm; 4, coupe transversale d'anthère; 5, sommet du style; 6, disque de 1,5 mm de diam.; 7, coupe d'ovaire; 8, deux placentas vus de face. — Tr. oligoneura K. Schum. (Zenker 738 sauf 9) : 9, rameau fructifère × 0,75 (N. H. et G. C. 5995); 10, fragment de cyme; 11, anthère haute de 4 mm; 12, coupe transversale d'anthère; 13, disque; 14, coupe d'ovaire; 15, placenta recto et verso.*
+*PL. 74. — Tricalysia potamogala N. Hallé (Le Testu 9455) : 1, flowering branch × 0.75; 2, fragment of inflorescence showing the calyx and two rows of bracteolar cupules; 3, anther 5 mm high; 4, transverse section of anther; 5, apex of style; 6, disk 1.5 mm diam.; 7, section of ovary; 8, two placentas seen from the front. — Tr. oligoneura K. Schum. (Zenker 738 except 9) : 9, fruiting branch × 0.75 (N. H. and G. C. 5995); 10, fragment of cyme; 11, anther 4 mm high; 12, transverse section of anther; 13, disk; 14, section of ovary; 15, placenta front and back.*
 
 ## Notes
 

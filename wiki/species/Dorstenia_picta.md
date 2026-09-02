@@ -7,6 +7,10 @@ family: Moraceae
 vol: 26
 pages: 46-47
 source: sources/Moraceae_vol26_paddle
+countries: [Cameroon, Gabon, Nigeria]
+in_region: true
+habit: "herb"
+altitude_m: "400"
 tags: [species, generated]
 ---
 # *Dorstenia picta* Bureau
@@ -58,7 +62,7 @@ Trilles 13 bis, Cristal Mountains.
 
 ![Dorstenia picta](../sources/Moraceae_vol26_paddle/figures/fig_012_p0048.png)
 
-*PL. 12. – Dorstenia picta Bur.: 1, 2, aspect général; 3, feuille et stipules; 4, 4', inflo. (1, Bos 4371, Cameroun; 2, Le Testu 2215; 3, De Wilde J.J.F.E. & al. 1715, Cameroun; 4, 4', Leeuwenberg 9703, Cameroun).*
+*PL. 12. – Dorstenia picta Bur.: 1, 2, general aspect; 3, leaf and stipules; 4, 4', infl. (1, Bos 4371, Cameroon; 2, Le Testu 2215; 3, De Wilde J.J.F.E. & al. 1715, Cameroon; 4, 4', Leeuwenberg 9703, Cameroon).*
 
 ## Notes
 

@@ -7,6 +7,13 @@ family: Leguminosae
 vol: 49
 pages: 331-333
 source: sources/Millettiaspeciesfabaceae_vol49_liteparse
+countries: [Cameroon, Democratic Republic of the Congo, Equatorial Guinea, Gabon, Republic of the Congo]
+in_region: true
+subdivisions:
+  Gabon: [Estuaire, Ngounié, Nyanga, Ogooué-Ivindo, Ogooué-Lolo, Woleu-Ntem]
+habit: "tree"
+habitat: [secondary forest]
+altitude_m: "10–650"
 tags: [species, generated]
 ---
 # *Pterocarpus soyauxii* Taub. Planche 109

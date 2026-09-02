@@ -7,6 +7,10 @@ family: Orchidaceae
 vol: 36
 pages: 201-203
 source: sources/Orchidaceae_vol36_paddle
+countries: [Cameroon, Cote d'Ivoire, Equatorial Guinea, Gabon, Ghana, Guinea, Liberia, Nigeria, Sierra Leone]
+in_region: true
+habit: "herb"
+habitat: [savanna, coastal, rocky ground]
 tags: [species, generated]
 ---
 # *Bulbophyllum pumilum* (Sw.) Lindl.

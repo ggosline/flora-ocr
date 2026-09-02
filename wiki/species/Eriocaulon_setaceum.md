@@ -7,6 +7,12 @@ family: Eriocaulaceae
 vol: 48
 pages: 14-15
 source: sources/Eriocaulaceae_vol48_liteparse
+countries: [Gabon, Senegal, Sudan]
+in_region: true
+subdivisions:
+  Gabon: [Haut-Ogooué, Ngounié, Ogooué-Maritime]
+habit: "herb"
+altitude_m: "100"
 tags: [species, generated]
 ---
 # *Eriocaulon setaceum* L. Planche 1

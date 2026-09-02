@@ -7,6 +7,13 @@ family: Urticaceae
 vol: 51
 pages: 80-82
 source: sources/Urticaceae_vol51_liteparse
+countries: [Cameroon, Central African Republic, Gabon, Nigeria]
+in_region: true
+subdivisions:
+  Gabon: [Estuaire, Ogooué-Ivindo, Woleu-Ntem]
+habit: "liana"
+habitat: [secondary forest, primary forest]
+altitude_m: "500–900"
 tags: [species, generated]
 ---
 # *Urera cordifolia* Engl. Planche 30
@@ -17,31 +24,23 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Bot. Jahrb. Syst. 33(1) : 121 (1902). Liane ligneuse robuste ; tige longue munie de racines adventives, grimpant à 8–10 m de hauteur, pendante en longues courbes, dioïque , ou très rarement monoïque, les plus âgées à section pentagonale ou étoilée, jusqu’à env. 3 cm de diamètre , sur les cinq crêtes on trouve cinq ou souvent dix lignes de protubérances brun sombre à pourpre sombre, d’abord grêles et coniques, fendues au sommet et atteignant jusqu’à 5 mm de longueur, pubérulentes et par fois munies de poils urticants apicaux, elles s’élargissent ensuite longitudinalement, devenant plus sombres en couleur, comprimées latéralement et les extrémités fendues en davantage de pointes, le centre des tiges âgées à moelle poreuse, orange à brun marron, entourée de cinq faisceaux lignifiés périphériques formés d’un tissu conducteur lignifié pâle, généralement avec un parenchyme entre les faisceaux ; jeunes branches pubérulentes à finement pubescentes ; écorce rougeâtre ou brun rougeâtre, tendre ; cystolithes ponctiformes ou un peu allongés. Stipules tôt caduques, étroitement triangulaires à lancéolées, ± latéralement soudées et à sommet bifide, pubérulentes à pubescentes extérieurement. Feuille : pétioles généralement insérés sur les branches entre deux lignes d’appendice, 2–12(–36) cm, pubérulent, souvent munis avec des protubérances aplaties ou des petits globules résinoïdes ; limbe suborbiculaire, elliptique, oblong ou ovale, 9–22(–40) × 7–13(–30) cm, base arrondie, subcordée à cordée, mais rare ment très profondément, à sommet acuminé sur ± 1,5 cm, marge crénée à indistinctement den tée ou entière, au moins dans la moitié inférieure, faiblement coriace, face supérieure glabre, couverte de cystolithes denses ou de rares poils urticants, face inférieure ± pubescente ; paire basale de nervures latérales atteignant les 4 / supérieurs du limbe et émettant 6 à 8 nervures 5 secondaires vers la marge, nervures latérales supérieures en 3 paires, nervation tertiaire sca lariforme ou réticulée. Inflorescences : la mâle naissant au voisinage des feuilles, 8–16(–22) × 5–12 cm ; pédoncule atteignant 5 cm ; glomérules avec 6 à 12 fleurs ; la femelle naissant en position comparable, mais aussi sur le vieux bois près des cicatrices foliaires, jusqu’à 6–7 × ± 3 cm, courtement pédonculées. Fleur mâle 5-mère ; pédicelle 1,5–2 mm, atteignant ± 1,5 mm de diamètre ; tépales pubérulents, chacun souvent avec un poil urticant. Fleur femelle subsessile ou à pédicelle atteignant ± 1,5 mm, entourée par une touffe de poils urticants ; ovaire ellipsoïde, ± 1,5 mm de longueur ; stigmate pénicillé, entouré du tiers jusqu’aux trois quarts par le périanthe tubuleux, cilié et à quatre dents apicales indistinctes. Fruit 1,5–2 mm de lon gueur, jaunâtre, entouré entièrement ou sur les deux tiers de sa longueur par le périanthe rouge.
+Bot. Jahrb. Syst. 33(1) : 121 (1902). Robust woody liane; stem long, furnished with adventitious roots, climbing to 8–10 m in height, hanging in long curves, dioecious, or very rarely monoecious, the oldest with pentagonal or stellate section, up to c. 3 cm in diameter, on the five ridges there are five or often ten rows of dark brown to dark purple protuberances, at first slender and conical, split at the apex and reaching up to 5 mm in length, puberulent and sometimes furnished with apical stinging hairs, they subsequently widen longitudinally, becoming darker in colour, compressed laterally and the split ends becoming more pointed, the centre of old stems with porous pith, orange to brown-maroon, surrounded by five lignified peripheral vascular bundles formed of pale lignified conductive tissue, generally with parenchyma between the bundles; young branches puberulent to finely pubescent; bark reddish or reddish-brown, tender; cystoliths punctiform or somewhat elongate. Stipules early caducous, narrowly triangular to lanceolate, ± laterally fused and with bifid apex, puberulent to pubescent on the outside. Leaf: petioles generally inserted on the branches between two rows of appendages, 2–12(–36) cm, puberulent, often furnished with flattened protuberances or small resinoid globules; blade suborbicular, elliptic, oblong or ovate, 9–22(–40) × 7–13(–30) cm, base rounded, subcordate to cordate, but very rarely very deeply so, apex acuminate over c. 1.5 cm, margin crenate to indistinctly dentate or entire, at least in the lower half, weakly coriaceous, upper surface glabrous, covered with dense cystoliths or rare stinging hairs, lower surface ± pubescent; basal pair of lateral veins reaching the upper 4/5 of the blade and emitting 6 to 8 secondary veins towards the margin, upper lateral veins in 3 pairs, tertiary venation scalariform or reticulate. Inflorescences: the male arising near the leaves, 8–16(–22) × 5–12 cm; peduncle reaching 5 cm; glomerules with 6 to 12 flowers; the female arising in comparable position, but also on old wood near leaf scars, up to 6–7 × c. 3 cm, shortly pedunculate. Male flower 5-merous; pedicel 1.5–2 mm, reaching c. 1.5 mm in diameter; tepals puberulent, each often with a stinging hair. Female flower subsessile or with pedicel reaching c. 1.5 mm, surrounded by a tuft of stinging hairs; ovary ellipsoid, c. 1.5 mm in length; stigma penicillate, surrounded from one-third to three-quarters by the tubular perianth, ciliate and with four indistinct apical teeth. Fruit 1.5–2 mm in length, yellowish, surrounded entirely or for two-thirds of its length by the red perianth.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-du sud du Nigéria au Cameroun et à la République Centrafricaine, au sud jusqu’au Gabon où l’espèce est connue de l’Estuaire, de l’Ogooué-Ivindo et du Woleu-Ntem
+from southern Nigeria to Cameroon and the Central African Republic, south to Gabon where the species is known from Estuaire, Ogooué-Ivindo and Woleu-Ntem
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+primary forest, but particularly in secondary forest (Musanga cecropioides forest), forest edges, roadsides and riverbanks in forest zone, forested inselbergs; in Gabon at 500–900 m, elsewhere up to 1400 m
 
-forêt primaire, mais particulièrement en forêt secondaire (forêt à Musanga cecropioides ), lisières forestières, bords des routes et des rivières en zone forestière, inselbergs forestiers ; au Gabon à 500–900 m, ailleurs jusqu’à 1400 m
+74 Ib FRIIS Letouzey 7371; 7–11: Letouzey 7371). Drawing by Hélène Lamourdedieu, Muséum national d'Histoire naturelle, Paris (©), reproduced with permission from Letouzey (1968).
 
-74 Ib FRIIS Letouzey 7371 ; 7–11 : Letouzey 7371 ). Dessin de H é l è ne Lamourdedieu, Muséum national d’Histoire naturelle, Paris (©), reproduit avec permission à partir de Letouzey (1968).
-
-Urera 75 Usage : Les feuilles sont consommées en soupe et comme légume cuit mucilagineux. La fibre de l’écorce est utilisée pour faire des cordes et des lignes de pêche. Il existe de nombreux usages médicinaux locaux du jus de feuilles, des décoctions de feuilles et des feuilles séchées en poudre, par exemple pour traiter la dysenterie, la nevralgie, la surdité et d’autres affections de l’oreille, les diarrhées accompagnées de saignements, les douleurs de poitrine, l’impuissance masculine et les furoncles, comme aphrodisiaque et laxatif et comme composant de poison de flèche. Les petits fruits rouges sont utilisés comme appât dans les pièges à oiseaux.
+Urera 75 Uses: The leaves are consumed in soup and as cooked mucilaginous vegetable. The fibre of the bark is used to make ropes and fishing lines. There are many local medicinal uses of leaf juice, leaf decoctions and dried powdered leaves, for example to treat dysentery, neuralgia, deafness and other ear ailments, diarrhoea accompanied by bleeding, chest pains, male impotence and boils, as an aphrodisiac and laxative and as a component of arrow poison. The small red fruits are used as bait in bird traps.
 
 ## Source note
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Cette espèce est très proche d’ U. gabonensis . U. cordifolia semblent surtout présente dans la par tie nord de l’aire de distribution commune aux deux espèces et près de la limite nord de la zone forestière, alors que U. gabonensis est surtout présente à l’intérieur de la zone forestière. En voir davantage sous U. gabonensis . Les protubérances, selon une observation de terrain du Cameroun, sont souvent associées à la présence de fourmis vivant sur la liane ; de chaque côté de la base du pétiole, une protubérance pectinée, masquant l’entrée d’une petite cavité où vivent des acariens, est visitée par les fourmis pour le miellat. B : Bosch (2004c), Keay (1958), Lebrun & Stork (2010), Letouzey (1967, 1968). i B liographie
+This species is very close to U. gabonensis. U. cordifolia appears to be mostly present in the northern part of the area of distribution common to both species and near the northern limit of the forest zone, whereas U. gabonensis is mostly present within the forest zone. See more under U. gabonensis. The protuberances, according to field observation from Cameroon, are often associated with the presence of ants living on the liane; on each side of the base of the petiole, a pectinate protuberance, concealing the entrance to a small cavity where mites live, is visited by ants for honeydew. B: Bosch (2004c), Keay (1958), Lebrun & Stork (2010), Letouzey (1967, 1968). Bibliography
 
 ## Notes
 

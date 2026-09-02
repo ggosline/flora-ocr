@@ -7,6 +7,13 @@ family: Rhizophoraceae
 vol: 47
 pages: 99-101
 source: sources/Rhizophoraceae_vol47_liteparse
+countries: [Central African Republic, Gabon]
+in_region: true
+subdivisions:
+  Gabon: [Estuaire]
+habit: "tree"
+habitat: [swamp forest, primary forest]
+altitude_m: "2300"
 tags: [species, generated]
 ---
 # *Cassipourea gummiflua* Tul. Planche 29.3, 32

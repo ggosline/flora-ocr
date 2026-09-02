@@ -7,6 +7,9 @@ family: Orchidaceae
 vol: 36
 pages: 199-201
 source: sources/Orchidaceae_vol36_paddle
+countries: [Cameroon, Central African Republic, Cote d'Ivoire, Gabon, Ghana, Liberia, Nigeria, Uganda]
+in_region: true
+habitat: [savanna, rocky ground]
 tags: [species, generated]
 ---
 # *Bulbophyllum oxychilum* Schltr.

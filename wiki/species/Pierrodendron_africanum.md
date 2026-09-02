@@ -5,16 +5,15 @@ authority: (Hook. f.) Little
 genus: Pierrodendron
 family: Simaroubaceae
 synonyms: [Mannia africana Hook. f., Pierrodendron grandifolium Engl.]
-countries: [Nigeria, Gabon, Angola]
 range_note: "Southern Nigeria to Angola and the Congo"
-countries_incomplete: true
-in_region: true
-habit: small tree
 treatments:
   - vol: 3
     year: 1962
     pages: "45–46"
     source: sources/Simaroubaceae_vol3_paddle
+countries: [Angola, Gabon, Nigeria]
+in_region: true
+habit: "tree"
 tags: [species]
 ---
 

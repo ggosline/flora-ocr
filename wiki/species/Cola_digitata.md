@@ -7,6 +7,7 @@ family: Sterculiaceae
 vol: 02
 pages: 103-108
 source: sources/Sterculiaceae_vol02_paddle
+habit: "tree"
 tags: [species, generated]
 ---
 # *Cola digitata* Masters.

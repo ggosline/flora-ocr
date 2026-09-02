@@ -7,6 +7,13 @@ family: Phyllanthaceae
 vol: 43
 pages: 38-38
 source: sources/Phyllanthaceae_vol43_liteparse
+countries: [Cameroon, Central African Republic, Cote d'Ivoire, Gabon, Nigeria]
+in_region: true
+subdivisions:
+  Gabon: [Ngounié, Woleu-Ntem]
+habit: "tree"
+habitat: [secondary forest]
+altitude_m: "500"
 tags: [species, generated]
 ---
 # *Keayodendron bridelioides* Leandri Planche 10

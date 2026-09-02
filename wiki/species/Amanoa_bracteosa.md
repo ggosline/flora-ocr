@@ -7,6 +7,13 @@ family: Phyllanthaceae
 vol: 43
 pages: 11-13
 source: sources/Phyllanthaceae_vol43_liteparse
+countries: [Angola, Cameroon, Democratic Republic of the Congo, Gabon, Guinea]
+in_region: true
+subdivisions:
+  Gabon: [Estuaire, Moyen-Ogooué, Nyanga, Ogooué-Maritime]
+habit: "tree"
+habitat: [swamp forest]
+altitude_m: "0–500"
 tags: [species, generated]
 ---
 # *Amanoa bracteosa* Planch. Planche 1

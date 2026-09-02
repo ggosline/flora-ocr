@@ -7,6 +7,9 @@ family: Connaraceae
 vol: 33
 pages: 77-79
 source: sources/Connaraceae_vol33_paddle
+countries: [Gabon]
+in_region: true
+habit: "liana"
 tags: [species, generated]
 ---
 # *Connarus gabonensis* Lemmens
@@ -52,7 +55,7 @@ Breteler & de Wilde 494, type, 15 km au N. du km 10 Lalara-Makokou, riv. Okano, 
 
 ![Connarus gabonensis](../sources/Connaraceae_vol33_paddle/figures/fig_029_p0078.png)
 
-*PL. 22. – Connarus gabonensis Lemmens : 1, rameau avec feuille × 2/3 ; 2, follicule, vue ventrale × 1 ; 3, détail de l'intérieur d'un follicule × 24. (1-3. Breteler & de Wilde 494). – Repris de AUWP 89 (6).*
+*PL. 22. – Connarus gabonensis Lemmens : 1, branch with leaf × 2/3 ; 2, follicle, ventral view × 1 ; 3, detail of interior of a follicle × 24. (1-3. Breteler & de Wilde 494). – Reproduced from AUWP 89 (6).*
 
 ## Notes
 

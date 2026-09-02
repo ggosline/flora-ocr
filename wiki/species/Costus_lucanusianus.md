@@ -5,13 +5,9 @@ authority: J. Braun et K. Schum.
 genus: Costus
 family: Zingiberaceae
 family_current: Costaceae
-countries: [Gabon]
 range_note: "widespread in forest regions of western and central Africa"
-countries_incomplete: true
-in_region: true
-habit: robust rhizomatous herb to 3 m
-habitat: [forest understorey]
 treatments: [{vol: 9, pages: "85–87", source: sources/Zingiberaceae_vol9_paddle}]
+habit: "herb"
 tags: [species]
 ---
 # *Costus lucanusianus* J. Braun et K. Schum.

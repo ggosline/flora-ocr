@@ -7,6 +7,8 @@ family: Leguminosae
 vol: 31
 pages: 159-162
 source: sources/Leguminosae_vol31_paddle
+countries: [Gabon]
+in_region: true
 tags: [species, generated]
 ---
 # *Albizia chinensis* (Osbeck) Merrill

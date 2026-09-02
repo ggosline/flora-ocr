@@ -7,6 +7,10 @@ family: Menyanthaceae
 vol: 40
 pages: 52-53
 source: sources/Menyanthaceae_vol40_liteparse
+countries: [Gabon, Senegal, Tanzania]
+in_region: true
+habit: "herb"
+altitude_m: "1700"
 tags: [species, generated]
 ---
 # *Nymphoides indica* (L.) Kuntze subsp. occidentalis A.Raynal Planche 12

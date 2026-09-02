@@ -7,6 +7,9 @@ family: Nectaropetalaceae
 vol: 21
 pages: 22-24
 source: sources/Nectaropetalaceae_vol21_paddle
+countries: [Gabon]
+in_region: true
+habit: "tree"
 tags: [species, generated]
 ---
 # *Pinacopodium congolense* (S. Moore) Exell & Mendonça
@@ -49,7 +52,7 @@ Le Testu 5197, Haute Ngounyé, Mouila (fl., janv.); 5207, (fl., fév.); 5857, Sa
 
 ![Pinacopodium congolense](../sources/Nectaropetalaceae_vol21_paddle/figures/fig_004_p0023.png)
 
-*PL. 4. — Acridocarpus smeathmannii (DC.) Guill. & Perr. (Meikl2 991); 1, fleur × 2; 2 calice vu de dessous × 2; 3, centre de la fleur, étamines de devant enlevées × 2. — Pinacopodium congolense (S. Moore) Exell & Mendonça : 4, rameau florifère × 2/3 (Franzini 1); 5, fleur × 4; 6, centre de la fleur, étamines de devant enlevées × 4 (5-6, Le Testu 7693); 7, fruit × 3. — Hugonia macrophylla Oliv. : 8, feuille × 2/3 (N. Hallé 3261); 9, rameau florifère × 2/3 (Le Testu 1648); 10, calice × 2 (N. Hallé 3261).*
+*PL. 4. — Acridocarpus smeathmannii (DC.) Guill. & Perr. (Meikl2 991); 1, flower × 2; 2 calyx seen from below × 2; 3, center of flower, front stamens removed × 2. — Pinacopodium congolense (S. Moore) Exell & Mendonça : 4, flowering branch × 2/3 (Franzini 1); 5, flower × 4; 6, center of flower, front stamens removed × 4 (5-6, Le Testu 7693); 7, fruit × 3. — Hugonia macrophylla Oliv. : 8, leaf × 2/3 (N. Hallé 3261); 9, flowering branch × 2/3 (Le Testu 1648); 10, calyx × 2 (N. Hallé 3261).*
 
 ## Notes
 

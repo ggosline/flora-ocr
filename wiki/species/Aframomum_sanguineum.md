@@ -4,12 +4,9 @@ name: Aframomum sanguineum
 authority: (K. Schum.) K. Schum.
 genus: Aframomum
 family: Zingiberaceae
-countries: [Gabon]
 range_note: "Across tropical Africa from the east coast to Guinea and Congo."
-in_region: true
-habit: rhizomatous herb
-habitat: [fallow, open forest understorey]
 treatments: [{vol: 9, pages: "56", source: sources/Zingiberaceae_vol9_paddle}]
+habit: "herb"
 tags: [species]
 ---
 # *Aframomum sanguineum* (K. Schum.) K. Schum.

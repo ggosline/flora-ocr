@@ -7,6 +7,9 @@ family: Melastomataceae
 vol: 25
 pages: 42-43
 source: sources/Melastomataceae_vol25_paddle
+countries: [Angola, Democratic Republic of the Congo, Gabon]
+in_region: true
+habit: "tree"
 tags: [species, generated]
 ---
 # *Dichaetanthera strigosa* (Cogniaux) Jacques-Félix
@@ -43,7 +46,7 @@ Breteler 6781, Moyabi, 23 km de Moanda, galerie forestière humide, « arbuste d
 
 ![Dichaetanthera strigosa](../sources/Melastomataceae_vol25_paddle/figures/fig_013_p0041.png)
 
-*PL. 13. — Dichaetanthera strigosa (Cogn.) Jacq.-Fél. : 1, 1', sommités feuillée et fleurie × 0.5; 2, bractéole × 3; 3, bouton floral × 1; 4, fleur entière × 1; 5, pétale × 1; 6, coupe transv. de l'ovaire dans sa partie moyenne × 2; 7, style × 2; 8, étamine × 1,5; 9, graine × 10 (1, Chevalier 27582, 1'-9, Chevalier 27255).*
+*PL. 13. — Dichaetanthera strigosa (Cogn.) Jacq.-Fél. : 1, 1', leafy and flowering summits × 0.5; 2, bracteole × 3; 3, floral bud × 1; 4, entire flower × 1; 5, petal × 1; 6, transverse section of the ovary in its middle part × 2; 7, style × 2; 8, stamen × 1,5; 9, seed × 10 (1, Chevalier 27582, 1'-9, Chevalier 27255).*
 
 ## Notes
 

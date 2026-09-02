@@ -7,6 +7,12 @@ family: Pontederiaceae
 vol: 40
 pages: 66-69
 source: sources/Pontederiaceae_vol40_liteparse
+countries: [Gabon]
+in_region: true
+subdivisions:
+  Gabon: [Woleu-Ntem]
+habit: "herb"
+altitude_m: "500"
 tags: [species, generated]
 ---
 # *Heteranthera callifolia* Rchb. ex Kunth

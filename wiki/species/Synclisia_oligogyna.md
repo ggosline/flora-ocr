@@ -5,19 +5,17 @@ authority: Breteler
 genus: Synclisia
 family: Menispermaceae
 synonyms: []
-habit: liana
-habitat: [secondary forest]
-altitude_m: "560"
 endemic_to_gabon: true
 type_locality_gabon: true
-countries: [Gabon]
-subdivisions:
-  Gabon: [Woleu-Ntem]
-in_region: true
 treatments:
   - vol: 60
     pages: "68–70"
     source: sources/Menispermaceae_vol60_liteparse
+countries: [Gabon]
+in_region: true
+subdivisions:
+  Gabon: [Woleu-Ntem]
+habit: "liana"
 tags: [species, novelty, endemic, type-locality-gabon]
 ---
 

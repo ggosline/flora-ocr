@@ -7,6 +7,10 @@ family: Annonaceae
 vol: 16
 pages: 0-0
 source: sources/Annonaceae_vol16_mineru
+countries: [Angola, Central African Republic, Democratic Republic of the Congo, Gabon, Liberia, Senegal, Sudan]
+in_region: true
+habit: "liana"
+habitat: [savanna]
 tags: [species, generated]
 ---
 # *Uvaria scabrida* Oliver
@@ -24,15 +28,13 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+— Engler et Diels in Engler, Monogr. Afr. Pflanzenf. 6: 14 (1901). — Pellegrin, Bull. Soc. Bot. Fr., Mém. 31: 61 (1949). — Boutique, Fl. Congo Belge 2: 284 (1951). — Exell et Mendonca Consp. Fl. Angol. 2, 1, Add.: 13 (1954). — Keay, FWTA, ed. 2, 1, 1: 38 (1954). — Paiva, Mem. Soc. Brot. 19: 17 (1966).
 
-— Engler et Diels in Engler,Monogr.Afr. Pflanzenf. 6:14(19oI).—Pellegrin,Bull.Soc.Bot.Fr.,Mém.31:61 (1949).- Boutique,Fl.Congo Belge 2 :284 (1951).- Exell et Mendonca Consp. Fl. Angol. 2,1,Add. : 13 (1954).- Keay,FWTA,ed.2,1,1 : 38 (1954).- Paiva,Mem.Soc.Brot.19 :17 (1966).
+Twining liana reaching 20 m in height, or small sarmentose bushy shrub, very much branched from the base, 2–4 m tall, with whitish-grey bark; branchlets glabrescents, ramules densely pubescent-stellate rusty. Leaves with very short petiole, 2–3 mm long, pubescent-ferruginous; blade papyraceous, elliptic-oblong to elliptic-obovate, 6–18 (23) cm long, 2.5–9 (10) cm wide, rounded to subcordate at base, attenuate-obtuse to attenuate-acute or shortly and obtusely acuminate at apex; upper surface greyish-green, scabrous, sparsely pubescent with simple, short and rigid hairs, with median and lateral nerves densely pubescent rusty; lower surface densely pubescent-stellate rusty, with prominent nerves. 9–16 pairs of lateral nerves, joined in arches 3–4 mm from margin.
 
-Liane volubile atteignant 2o m de hauteur,ou petit arbuste sarmenteux buissonnant, tres rameux â partir de la souche, haut de 2-4 m,a écorce gris blanchatre; rameaux glabrescents, ramilles densément pubescentes-étoilées rousses.Feuilles ä pétiole tres court,2-3 mm de longueur,pubescent-ferrugineux; limbe papyracé, elliptique-oblong a elliptique-obové,long de 6-18 (23) cm de long,large de 2,5-9 (1o) cm,arrondi a subcordé á la base, atténué-obtus äatténué-aigu ou courtement et obtusément acumine au sommet;face supérieure vert grisatre, scabre,éparsement pubescente ä poils simples,courts et raides,ä nervures médiane et latérales densément pubescentes rousses; face inférieure densé- ment pubescente-étoilée rousse,a nervures proéminentes.9-16 paires de nervures latérales,réunies en arceaux â 3-4 mm de la marge.
+Flowers yellowish-green, solitary or geminate, extra-axillary to suboppositefoliate; pedicel 1–2.5 cm long, pubescent-stellate rusty. Bracteole ovate, 1–1.5 cm long, 0.7–1 cm wide, completely enveloping the very young bud, caducous, pubescent-rusty. Floral bud conical. Sepals completely connate but distinct in bud, free at anthesis, broadly ovate, 1.5–2 cm long, 0.7–1.3 cm wide, pubescent-stellate rusty on the outside, grey on the inside. Petals thicker than sepals, ovate to ovate-elliptic, attenuate at apex, with well-visible median nerve, outer ones 1.8–3 cm long, 1.3–2 cm wide, inner ones slightly shorter, 1.5–2.5 cm long, 1.2–1.9 cm wide. Stamens numerous, 9–10 seriate, linear, 1.5–2 mm long, with extrorse thecae, capitate connectives. Carpels 45–70, 2.5 mm long, ovaries oblong, pubescent-stellate with long hairs, stigmas elliptic, thick, pubescent-stellate. 6 ovules biseriate.
 
-Fleurs jaune-verdatre,solitaires ou géminées,extra-axillaires a suboppositifoliees;pédicelle long de I-2,5 cm,pubescent-étoilé roux. Bractéole ovee, longue de 1-1,5 cm, large de o,7-1 cm, enveloppant totalement le tres jeune bouton,caduque,pubescente-rousse.Bouton foral conique.Sépales entierement soudes mais distincts dans le bouton, libres a l'anthese, largement ovés, longs de 1, 5-2 cm, larges de o,7-1,3 cm, pubescents-stelés roux ä l'extérieur,gris a l'intérieur. Pétales plus épais que les sépales, ovés ä ovés-elliptiques,atténués au sommet,ä nervure médiane bien visible, les externes longs de 1,8-3 cm, larges de 1,3-2 cm, les internes un peu plus courts,longs de 1,5-2,5 cm, larges de 1,2-1,9 cm.Etamines nombreuses 9-1o sériees, linéaires,longues de 1,5-2 mm,a theques extrorses,connectifs capites. Carpelles 45-70,longs de 2,5 mm,ovaires oblongs,pubescents-étoilés ä longspoils, stigmateselliptiques, épais, pubescents-étoiles. 6 ovules biséries.
-
-Fruits globuleux,de 4-6 cm de diamétre, ä pédicelle de 2-4 cm de longueur et 6 mm de diametre,pubescent-stellé roux;méricarpes sessiles, étroitement contigus, obovoides, longs de 1,5-2 cm, larges de 1-1,3 cm,atténués a la base,arrondis au sommet, verruqueux, tomenteux-roux á poils étoilés.Graines 4-6,± triangulaires a subréniformes,aplaties, longues de 8-12 mm,larges de 4-6 mm,ä testa mince,tres finement ondulé.
+Fruits globose, 4–6 cm in diameter, with pedicel 2–4 cm long and 6 mm in diameter, pubescent-stellate rusty; mericarps sessile, narrowly contiguous, obovoid, 1.5–2 cm long, 1–1.3 cm wide, attenuate at base, rounded at apex, verrucose, tomentose-rusty with stellate hairs. Seeds 4–6, ± triangular to subreniform, flattened, 8–12 mm long, 4–6 mm wide, with thin testa, very finely undulate.
 
 ## Type
 
@@ -42,51 +44,49 @@ Klaine s.n.,s.loc., Gabon (holotype B!)
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Liana or shrub of dense humid forest, forest galleries, or clearings, widely distributed from Liberia to the Central African Republic and Angola.
 
-Liane ou arbuste de foret dense humide,galeries forestieres, ou clairieres,largement répandu du Liberia en République centrafricaine et en Angola.
+4. HEXALOBUS DC.
 
-4.HEXALOBUS DC.
+Mém. Soc. Phys. Genève 5: 212 (1832). — Engler, Monogr. Afr. Pflanzenf. 6: 55 (1901). — R.E. Fries in Engler et Prantl, Nat. Pflanzenf., ed. 2, 17a, 2: 74 (1959).
 
-Mém.Soc.Phys.Geneve 5:2I2 (1832).-Engler,Monogr.Afr.Pflanzenf.6:55 (1901).- R.E. Fries in Engler et Prantl, Nat. Pflanzenf.,ed.2,17a,2 :74 (1959).
+Trees or shrubs with simple-haired indumentum. Floral buds ovoid-conical. Flowers axillary or supra-axillary, solitary or 2–3-fasciculate, sessile or shortly pedicellate. Bracteoles 2 or more, caducous. Sepals 3, valvate, free, entirely covering the petals in bud, densely pubescent. Petals 6, in two subequal whorls, with imbricate-crumpled prefloration, plicate transversely in bud, spreading at anthesis, linear-oblong to linear-lanceolate, connate at base into a short tube. Stamens numerous, linear, filaments short, thecae extrorse, connectives capitate. Carpels 3–10, ovaries cylindric, stigmas well developed, subsessile, bilobed. Receptacle flat or convex. Ovules numerous, biseriate.
 
-Arbres ou arbustes á indument de poils simples.Boutons floraux ovoides-coniques. Fleurs ,axillaires ou supra-axillaires, solitaires ou 2-3-fasciculées, sessiles ou courtement pédicellées. Bractéoles 2 ou plusieurs,caduques. Sépales 3,valvaires, libres, recouvrant entierement les pétales dans le bouton,densément pubescents.Pétales 6,en deux verticilles subégaux,â préfloraison imbriquée-chiffonnée, plissés transversalement dans le bouton, étalés a l'anthese, linéaires-oblongs á linéaires-lancéolés,soudes a la base en un tube court.Etamines nombreuses, linéaires, filets courts, theques extrorses, connectifs capités. Carpelles 3-10,ovaires cylindriques,stigmates bien développés,subsessiles, bilobés.Réceptacle plan ou convexe.Ovules nombreux biséries.
+Fruits with indehiscent mericarps, ovoid-oblong to obovoid-oblong, not or very slightly constricted between seeds. Seeds numerous, biseriate, horizontal; aril absent.
 
-Fruits ä méricarpes indehiscents,ovoides-oblongs ä obovoidesoblongs,non ou tres légerement contractés entre les graines. Graines nombreuses,bisériées,horizontales;arille absent.
+Type species: H. monopetalus (A. Rich.) Engler et Diels (= Uoaria monopetala A. Rich.) = H. senegalensis A.DC. nom. illeg.
 
-Espece type : H.monopetalus (A. Rich.) Engler et Diels (= Uoaria monopetala A. Rich.) = H.senegalensis A.DC. nom. illeg.
+Very homogeneous African genus comprising 5 species, of forest or savanna.
 
-Genre africain tres homogene,comprenant 5 especes,de forét ou de savane.
+Hexalobus are most often considered to belong to the tribe Unoneae, with valvate petals; sometimes they are described with two whorls, sometimes a single whorl of petals. In reality these differences of opinion arise from the fact that they are different in the open flower and in the young bud. Connate at the base and spreading in the flower, they can then be interpreted as being on a single whorl; but in the bud they are clearly on two whorls and partially overlap. We shall therefore adopt Fries' classification which places Hexalobus among the Uoarieae.
 
-Les Hexalobus sont le plus souvent considérés comme appartenant ä la tribu des Unoneae,ä préfloraison des pétales valvaire; tantot ils sont décrits avec deux cycles, tantot un seul cycle de pétales.En réalité ces divergences de point de vue viennent du fait qu'ils sont différents dans la fleur épanouie et dans le jeune bouton. Soudés â la base et étalés dans la fleur,ils peuvent alors étre interprétés comme étant sur un seul cycle;mais dans le bouton ils sont nettement sur deux cycles et se chevauchent partiellement. Nous adopterons donc la classification de Fries qui range les Hexalobus parmi les Uoarieae.
+KEY TO SPECIES
 
-CLE DE ESPECES
+1. Leaves obtuse, rounded to subcordate at base, 7.5–20 cm long, 3–8 cm wide; lateral nerves 12–17 pairs; petals 2.5–8.5 cm long, 0.5–1.5 cm wide; carpels 7–10; mericarps oblong, 8–9 cm long, 4–5 cm wide, very slightly wrinkled, tomentellous to glabrous.............1. H. crispiflorus
 
-I. Feuilles obtuses,arrondies á subcordées á la base,longues de 7,5-20 cm, larges de 3-8 cm; nervures latérales I2-17 paireε; pélales longs de 2,5-8,5 cm, larges de o,5-1,5 cm;carpelles 7-10; méricarpes oblongs,longs de 8-9 cm,larges de 4-5 cm, tres légé- rement rides,tomentelleux ä glabres.............I.H.crispiflorus
+1'. Leaves cuneiform at base, 5–8.5 cm long, 2–3.5 cm wide; lateral nerves 8–11 pairs; petals 4–4.5 cm long, 0.5 cm wide; carpels 3–4; mericarps obovoid-oblong, 4–4.5 cm long, 2–2.5 cm wide, verrucose, densely tomentose.............2. H. salicifolius
 
-I'.Feuilles cunéiformes a la base,longues de 5-8,5 cm, larges de 2-3,5 cm; nervures latérales 8-II paires; petales longs de 4-4,5 cm,larges de o,5 cm;carpelles 3-4;méricarpes obovoidesoblongs,longs de 4-4,5 cm,larges de 2 2,5 cm,verruqueux,densément tomenteux.... ....2.H.salicifolius
+1. Hexalobus crispiflorus A. Richard (PL. 14, p. 85)
 
-1.Hexalobus crispiflorus A. Richard (PL. 14, p. 85)
+Sagra, Fl. Cub. 1: 43 (1845). — De Wild. et Th. Durand, Ann. Mus. Congo Belge, Bot., ser. 2, 1, 2: 1 (1900). — Pellegrin, Bull. Soc. Bot. Fr. 95: 140 (1949). — Boutique, Fl. Congo Belge 2: 372 (1951). — Keay, F.W.T.A., ed. 2, 1: 47 (1954). — Tisserant et Sillans, Not. Syst. 15, 3: 331 (1958). — Aubréville, F.F.C.I., ed. 2, 1: 128, tab. 35 (1959). — Keay, Onochie et Stanfield, Nigerian trees 1: 48 (1960). — Walker et Sillans, Enc. Biol. 56: 66 (1961). — De Saint Aubin, La forêt du Gabon: 152 (1963). — Paiva, Mem. Soc. Brot. 19: 53 (1966).
 
-Sagra,Fl.Cub.I :43(1845).- De Wild.et Th.Durand,Ann.Mus.Congo Belge,Bot.,ser.2,1,2 :1 (19oo).— Pellegrin,Bull. Soc.Bot.Fr.95 :140 (1949).- Boutique,Fl. Congo Belge 2 :372 (1951).— Keay,F.W.T.A., ed.2,I :47(1954).— Tisserant et Sillans,Not.Syst.15,3 :331 (1958).- Aubréville,F.F.C.I.,ed.2,I:128,tab.35(1959).- Keay,Onochie et Stanfield,Nigerian trees I:48 (196o).- Walker et Sillans,Enc.Biol.56 : 66 (1961).- De Saint Aubin,La foret du Gabon :I52 (1963).- Paiva, Mem.Soc.Brot.19:53 (1966).
+= Hexalobus grandiflorus Benth., Trans. Linn. Soc. Lond. 23: 468, tab. 49 (1862). — Engler et Diels, Monogr. Afr. Pflanzenf. 6: 57 (1901).
 
-= Hexalobus grandiflorus Benth., Trans.Linn. Soc.Lond. 23 :468,tab.49 (1862).— Engler et Diels,Monogr.Afr.Pflanzenf.6 :57 (1901).
+= Hexalobus lujae De Wild., Bull. Jard. Bot. État Brux. 4: 389 (1914).
 
-= Hexalobus lujae De Wild.,Bull. Jard. Bot. Etat Brux. 4 : 389 (1914).
+= Hexalobus mbula Exell, Journ. of Bot. 70, Suppl. Polypet.: 206 (1932). — Exell et Mendonca, Consp. Fl. Angol. 1, 1: 16 (1937). — R.E. Fries in Engl. et Prantl, Nat. Pflanzenf., ed. 2, 17a, 2: 75 (1959).
 
-= Hexalobus mbula Exell, Journ.of Bot.7o, Suppl.Polypet.: 2o6 (1932).- Exell et Mendonca,Consp.Fl.Angol.1,I :16 (1937).— R.E.Fries in Engl.et Prantl,Nat.Pflanzenf.,ed. 2,17a,2 :75 (1959).
+Tree reaching 30 m in height and 1 m in diameter; bole remarkably fluted from the base over more than half its height, sinuous, giving it the appearance of a bundle of small columns. Rhytidome brown, fissured longitudinally, scaling off in fine elongated pellicles. Inner bark tender, yellowish, turning rapidly to orange; wood white at the periphery, yellowish towards the heartwood. Ramules pubescent to glabrous. Leaves with petiole 3–6 mm long, pubescent to glabrous; blade subcoriaceous, elliptic to ovate-lanceolate, 7.5–20 cm long, 3–8 cm wide, obtuse, rounded to subcordate at base, ± long-acuminate at apex; upper surface glabrous, with median nerve ± pubescent, lower surface pubescent-appressed to glabrous, with median nerve ± pubescent, lower surface with ± visible reticulum. Median nerve impressed above, prominent below; lateral nerves 12–17 pairs, oblique-ascending; reticulum not very visible.
 
-Arbre atteignant 3o m de hauteur et I m de diamétre;fut remarquablement cannelé des la base sur plus de la moitié de sa hauteur,sinueux, lui donnant I'aspect d'un faisceau de colonnettes.Rhytidome brun,fissuré longitudinalement,se desquammant en fines pellicules allongées. Ecorce tendre, jaunätre, virant rapidement â 'orange; bois blanc á la périphérie, jaunätre vers le coeur.Ramilles pubescentes ä glabres. Feuilles á pétiole long de 3-6 mm,pubescent ä glabre; limbe subcoriace,elliptique a ové-lancéolé,long de 7,5-2o cm,large de 3-8 cm,obtus,arrondi â subcordé ä la base,± longuement acuminé au sommet;face supérieure glabre,á nervure médiane ± pubescente, face infé- rieure glabre,ä nervure médiane ± pubescente,face inférieure pubescente-apprimée aglabre. Nervuremédiane imprimée au-dessus, proeminente en dessous; nervures latérales I2-17 paires, obliques ascendantes;réticulum peu visible.
+Flowers solitary or 2–3-fasciculate, axillary; pedicel thick, 4–13 mm long, densely pubescent rusty, furnished towards the base with two opposite bracteoles, connate at base, broadly ovate to subcircular, 2 mm in diameter, densely pubescent, caducous. Sepals ovate to ovate-elliptic, 0.8–2 cm long, 0.6–1.5 cm wide, reflexed at anthesis, tomentose rusty on the outside, tomentellous on the inside. Petals straw-yellow, narrowly oblong, crisped on the margins, 2.5–8.5 cm long, 0.4–1.5 cm wide, connate into a tube at base, tomentellous on both faces. Stamens very numerous, linear, 3–4 mm long, filaments short, connectives capitate. Carpels 7–10, 4–5 mm long, ovaries oblong, pubescent-tomentose, stigmas with 2 dilated and reflexed lobes. Ovules numerous, biseriate.
 
-Fleurssolitairesou 2-3-fasciculées, axillaires; pédicelle épais,long de 4-13 mm,densément pubescent roux,muni, vers la base,de deux bractéoles opposées,soudées a la base, largement ovées ä subcirculaires,de 2 mm de diamétre,densément pubescentes, caduques. Sépales ovés a ovés-elliptiques, longs de o,8-2 cm,larges de o,6-1,5 cm,réfléchis a l'anthese, tomenteux roux á l'extérieur, tomentelleux â l'intérieur.Pétales jaune paille, étroitement oblongs,crispés sur les bords, longs de 2,5-8,5 cm, larges de o,4-1,5 cm,soudés en un tube a la base, tomentelleux sur les deux faces.Etamines tres nombreuses, linéaires, longues de 3-4 mm, filets courts,connectifs capites. Carpelles 7-1o, longs de 4-5 mm,ovaires oblongs,pubescents-tomenteux,stigmates a 2 lobes dilatés et réfléchis.Ovules nombreux,biséries.
+Fruits with very thick pedicel, 1–2 cm long, 7–8 mm in diameter, glabrescent; mericarps subsessile, oblong, 8–9 cm long, 4–5 cm wide, rounded at both ends; pericarp mucilaginous at maturity, drying subsequently, very slightly wrinkled, tomentellous ferruginous to glabrous externally. Seeds ellipsoid-flattened, 3–4 cm long, 1.5–2 cm wide.
 
-Fruits á pédicelle tres épais,long de I-2 cm,de 7-8 mm de diametre,glabrescent;méricarpes subsessiles,oblongs,longs de 8-9 cm,larges de 4-5 cm,arrondis aux deux extrémites; péricarpe mucilagineux ä maturité,se désséchant ensuite,tres légerement ridé,tomentelleux ferrugineux á glabre extérieurement.Graines ellpsoides-aplaties, longues de 3-4 cm, larges de 1,5-2 cm.
+Type: Heudelot 865, in herb. Richard, near the running waters of Fouta-Djalon, Senegal, fl. April (holotype P!).
 
-Type :Heudelot 865,in herb.Richard,pres des eaux vives du Fouta-Djalon, Sénégal, fl.avril (holotype P!).
+Species of dense humid forest and forest galleries, found throughout Gabon. Widely distributed in tropical Africa, from Senegal to the south of the Anglo-Egyptian Sudan and southwards to Angola.
 
-Espéce de forét dense humide et de galeries forestieres,que l'on rencontre dans tout le Gabon.Largement répandue en Afrique tropicale,du Sénégal au sud du Soudan anglo-égyptien et jusqu'en Angola vers le sud.
-
-Les fleurs sont tres odorantes. Les Africains mangent la pulpe du fruit.Le bois est tres facile a travailler;il est utilisé pour la fabrication des pagaies et des crosses de fusil.
+The flowers are very fragrant. Africans eat the fruit pulp. The wood is very easy to work; it is used for the manufacture of paddles and rifle stocks.
 
 ## Specimens examined
 

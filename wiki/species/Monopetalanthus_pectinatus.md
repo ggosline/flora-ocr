@@ -7,6 +7,8 @@ family: Leguminosae
 vol: 15
 pages: 311-311
 source: sources/Leguminosae_vol15_paddle
+countries: [Sierra Leone]
+in_region: false
 tags: [species, generated]
 ---
 # *Monopetalanthus pectinatus* A. Chev.
@@ -37,7 +39,7 @@ Le Testu : 6069, Comi Mavaco, Haute-Ngounié (fl. sept.).
 
 ![Monopetalanthus pectinatus](../sources/Leguminosae_vol15_paddle/figures/fig_079_p0312.png)
 
-*PL. LXXIX. — Monopetalanthus pectinatus Chevalier : 1, feuille et inflorescence × 2/3; 2, bourgeons floraux × 2/3; 3, détail d'une foliole; 4, fleur × 4; 5, grand pétale × 4; 6, petit pétale × 4. — Monopetalanthus microphyllus Harms : 7, feuille et inflorescence × 2/3; 8, détail d'une foliole; 9, fleur × 4; 10, coupe de la fleur × 5; 11, pétale × 4; 12, jeune fruit × 2/3; — Monopetalanthus Hedinii (Chev.) Pellegrin [13, feuille × 2/3; 14, détail d'une foliole; 15, fruit × 2/3.*
+*PL. LXXIX. — Monopetalanthus pectinatus Chevalier : 1, leaf and inflorescence × 2/3; 2, flower buds × 2/3; 3, detail of a leaflet; 4, flower × 4; 5, large petal × 4; 6, small petal × 4. — Monopetalanthus microphyllus Harms : 7, leaf and inflorescence × 2/3; 8, detail of a leaflet; 9, flower × 4; 10, section of the flower × 5; 11, petal × 4; 12, young fruit × 2/3; — Monopetalanthus Hedinii (Chev.) Pellegrin [13, leaf × 2/3; 14, detail of a leaflet; 15, fruit × 2/3.*
 
 ## Notes
 

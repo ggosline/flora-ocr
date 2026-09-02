@@ -7,6 +7,7 @@ family: Rubiaceae
 vol: 17
 pages: 226-227
 source: sources/Rubiaceae_vol17_paddle
+habit: "shrub"
 tags: [species, generated]
 ---
 # *Gardenia jovis-tonantis* (Welw.) Hiern

@@ -7,6 +7,9 @@ family: Rubiaceae
 vol: 12
 pages: 260-261
 source: sources/Rubiaceae_vol12_paddle
+countries: [Cameroon, Gabon]
+in_region: true
+habit: "tree"
 tags: [species, generated]
 ---
 # *Pauridiantha callicarpoides* (Hiern) Brem.
@@ -55,7 +58,7 @@ A. Walker: 1938, Saint-Martin, Upper Ngounyé (fl. and fr. March).
 
 ![Pauridiantha callicarpoides](../sources/Rubiaceae_vol12_paddle/figures/fig_067_p0259.png)
 
-*PL. 52. — Pauridiantha callicarpoides (Hiern) Bremek. (N. Hallé 3571): 1, rameau florifère × 3/4; 2, bouton; 3, fleur épanouie; 4, coupe de fleur brévistyle; 5 et 5', anthère de 1,9 mm; 6, disque vu par-dessus, 2,1 mm de diam.; 7, quatre coupes successives d'un même ovaire; 8, coupe de fleur longistyle (Le Testu 7522); 9, graine (N. Hallé 1132).*
+*PL. 52. — Pauridiantha callicarpoides (Hiern) Bremek. (N. Hallé 3571): 1, flowering branch × 3/4; 2, bud; 3, open flower; 4, section of brevistyle flower; 5 and 5', anther of 1,9 mm; 6, disk seen from above, 2,1 mm in diam.; 7, four successive sections of the same ovary; 8, section of longistyle flower (Le Testu 7522); 9, seed (N. Hallé 1132).*
 
 ## Notes
 

@@ -43,7 +43,7 @@ Spikelets with a single fertile flower and sometimes two rudimentary neuter flow
 
 ![Phragmites mauritianus](../sources/Gramineae_vol05_paddle/figures/fig_040_p0241.png)
 
-*PL. XXXIX. —Phragmites mauritianus Kunth. (A. Chev. 27757) : 1, fragment de chaume, feuilles et inflorescence; 2, détail d'un fragment d'inflorescence; 3, épillet, long. totale env. 12 mm; 4, détail d'une fleur.*
+*PL. XXXIX. —Phragmites mauritianus Kunth. (A. Chev. 27757) : 1, culm fragment, leaves and inflorescence; 2, detail of an inflorescence fragment; 3, spikelet, total length approx. 12 mm; 4, detail of a flower.*
 
 ## Notes
 

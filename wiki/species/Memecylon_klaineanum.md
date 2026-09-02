@@ -7,6 +7,9 @@ family: Melastomataceae
 vol: 25
 pages: 126-128
 source: sources/Melastomataceae_vol25_paddle
+countries: [Gabon]
+in_region: true
+habit: "tree"
 tags: [species, generated]
 ---
 # *Memecylon klaineanum* Jacques-Félix

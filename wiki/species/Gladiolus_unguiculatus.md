@@ -7,6 +7,10 @@ family: Iridaceae
 vol: 38
 pages: 40-40
 source: sources/Iridaceae_vol38_liteparse
+countries: [Angola, Benin, Burkina Faso, Cameroon, Central African Republic, Chad, Cote d'Ivoire, Democratic Republic of the Congo, Gabon, Ghana, Guinea, Guinea-Bissau, Malawi, Mali, Mozambique, Nigeria, Senegal, Sierra Leone, Sudan, Tanzania, Togo, Zambia, Zimbabwe]
+in_region: true
+habit: "herb"
+altitude_m: "2200"
 tags: [species, generated]
 ---
 # *Gladiolus unguiculatus* Bak.

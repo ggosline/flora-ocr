@@ -7,6 +7,9 @@ family: Combretaceae
 vol: 35
 pages: 97-99
 source: sources/Combretaceae_vol35_paddle
+countries: [Cote d'Ivoire, Gabon]
+in_region: true
+habit: "tree"
 tags: [species, generated]
 ---
 # *Pteleopsis hylodendron* Mildbraed
@@ -49,7 +52,7 @@ Wilks MINK A 119, Minkebé,  $ 1^{\circ}30' $N- $ 12^{\circ}48' $E (st.), WAG.
 
 ![Pteleopsis hylodendron](../sources/Combretaceae_vol35_paddle/figures/fig_027_p0098.png)
 
-*PL. 27. – Pteleopsis hylodendron Mildbr. : A, rameau fructifère × 1/2 ; B, rameau florifère × 1/2 ; C, fleur × 6 ; D, fruit × 1,5 (A, D, Letouzey 4397 ; B, C, Bates 1714). – Dessins de M. ALLARD reproduits avec l'autorisation du Département des Spermatophytes et Ptéridophytes du Jardin Botanique National de MEISE (Belgique).*
+*PL. 27. – Pteleopsis hylodendron Mildbr. : A, fruiting branch × 1/2 ; B, flowering branch × 1/2 ; C, flower × 6 ; D, fruit × 1.5 (A, D, Letouzey 4397 ; B, C, Bates 1714). – Drawings by M. ALLARD reproduced with authorization from the Department of Spermatophytes and Pteridophytes of the National Botanical Garden of MEISE (Belgium).*
 
 ## Notes
 

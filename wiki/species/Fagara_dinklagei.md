@@ -5,10 +5,9 @@ authority: Engl.
 genus: Fagara
 family: Rutaceae
 synonyms: []
+treatments: [{vol: 6, pages: "44–48", source: sources/Rutaceae_vol6_paddle}]
 countries: [Cameroon, Gabon]
 in_region: true
-habit: woody plant
-treatments: [{vol: 6, pages: "44–48", source: sources/Rutaceae_vol6_paddle}]
 tags: [species]
 ---
 

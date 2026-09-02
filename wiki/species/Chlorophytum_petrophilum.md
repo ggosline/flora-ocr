@@ -7,6 +7,12 @@ family: Anthericaceae
 vol: 41
 pages: 12-12
 source: sources/Anthericaceae_vol41_liteparse
+countries: [Cameroon, Gabon, Nigeria]
+in_region: true
+subdivisions:
+  Gabon: [Estuaire]
+habitat: [primary forest, riverine]
+altitude_m: "100–460"
 tags: [species, generated]
 ---
 # *Chlorophytum petrophilum* K.Krause

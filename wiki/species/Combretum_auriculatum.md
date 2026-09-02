@@ -7,6 +7,10 @@ family: Combretaceae
 vol: 35
 pages: 17-19
 source: sources/Combretaceae_vol35_paddle
+countries: [Angola, Cameroon, Gabon]
+in_region: true
+habit: "liana"
+habitat: [riverine]
 tags: [species, generated]
 ---
 # *Combretum auriculatum* Engler & Diels
@@ -51,7 +55,7 @@ Le Testu 7005, Lastoursville, 0°50'S-12°43'E (fr., Mars), BM, P.
 
 ![Combretum auriculatum](../sources/Combretaceae_vol35_paddle/figures/fig_003_p0020.png)
 
-*PL. 3. – Combretum auriculatum Engler & Diels : A, rameau × 1/2 ; B, feuille, face inférieure × 1/2 ; C, inflorescence × 1/2 ; D, fleur × 5 ; E, fleur, coupe × 5 ; F, fruit × 1 ; G, fruit, vue apicale (A, C, Zenker & Staudt 710 ; B, D, E, J. Louis 13842 ; F, G, Mildbraed 4095). – Dessins de M. ALLARD reproduits avec l'autorisation du Département des Spermatophytes et Pteridophytes du Jardin Botanique National de MEISE (Belgique).*
+*PL. 3. – Combretum auriculatum Engler & Diels : A, branch × 1/2 ; B, leaf, lower surface × 1/2 ; C, inflorescence × 1/2 ; D, flower × 5 ; E, flower, section × 5 ; F, fruit × 1 ; G, fruit, apical view (A, C, Zenker & Staudt 710 ; B, D, E, J. Louis 13842 ; F, G, Mildbraed 4095). – Drawings by M. ALLARD reproduced with the permission of the Department of Spermatophytes and Pteridophytes of the National Botanic Garden of MEISE (Belgium).*
 
 ## Notes
 

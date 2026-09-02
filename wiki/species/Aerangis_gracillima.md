@@ -7,6 +7,8 @@ family: Orchidaceae
 vol: 37
 pages: 187-187
 source: sources/Orchidaceae_vol37_paddle
+countries: [Cameroon, Gabon]
+in_region: true
 tags: [species, generated]
 ---
 # *Aerangis gracillima* (Kraenzl.) Arends & Stewart

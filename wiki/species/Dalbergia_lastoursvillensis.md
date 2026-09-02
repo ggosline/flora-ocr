@@ -7,6 +7,10 @@ family: Leguminosae
 vol: 49
 pages: 133-135
 source: sources/Millettiaspeciesfabaceae_vol49_liteparse
+countries: [Gabon]
+in_region: true
+subdivisions:
+  Gabon: [Ngounié, Ogooué-Lolo]
 tags: [species, generated]
 ---
 # *Dalbergia lastoursvillensis* Pellegr.

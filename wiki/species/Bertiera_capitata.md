@@ -7,6 +7,11 @@ family: Rubiaceae
 vol: 17
 pages: 66-68
 source: sources/Rubiaceae_vol17_paddle
+countries: [Cameroon, Gabon, Uganda]
+in_region: true
+habit: "shrub"
+habitat: [secondary forest]
+altitude_m: "950"
 tags: [species, generated]
 ---
 # *Bertiera capitata* De Wildeman
@@ -41,7 +46,7 @@ N. Hallé 1037, Makokou (fr. fév.); 3015, 3052, 3275, Bélinga (fl. fr. nov.). 
 
 ![Bertiera capitata](../sources/Rubiaceae_vol17_paddle/figures/fig_014_p0067.png)
 
-*PL. 14. — Bertiera capitata De Wildeman (1-3, 11, N. Hallé 3052; 4-9, Le Testu 7557) : 1, stipule; 2, jeune inflorescence; 3, inflorescence × 0,75; 4, bouton × 15; 5, fleur en coupe; 6, étamine; 7, disque; 8, coupe transversale de la massue stigmatique; 9, coupe de l'ovaire; 10, infrutescence × 0,75 (N. Hallé 1037); 11, graine × 16.*
+*PL. 14. — Bertiera capitata De Wildeman (1-3, 11, N. Hallé 3052; 4-9, Le Testu 7557) : 1, stipule; 2, young inflorescence; 3, inflorescence × 0,75; 4, bud × 15; 5, flower in section; 6, stamen; 7, disk; 8, transverse section of the stigmatic club; 9, section of the ovary; 10, infrutescence × 0,75 (N. Hallé 1037); 11, seed × 16.*
 
 ## Notes
 

@@ -7,14 +7,15 @@ family: Octoknemaceae
 synonyms:
   - O. winkleri Engl.
   - O. aruwimiensis Milbr.
-habit: tree
-habitat: [riverine forest, forest gallery in savanna]
-countries: [Cameroon, Gabon, Nigeria]
-in_region: true
 treatments:
   - vol: 20
     pages: "189–192"
     source: sources/Olacaceae_vol20_paddle
+countries: [Cameroon, Democratic Republic of the Congo, Gabon]
+in_region: true
+subdivisions:
+  Gabon: [Ogooué-Ivindo, Ogooué-Lolo]
+habit: "tree"
 tags: [species]
 ---
 

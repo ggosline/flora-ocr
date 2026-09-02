@@ -7,6 +7,11 @@ family: Arecaceae
 vol: 53
 pages: 60-60
 source: sources/Arecaceae_vol53_liteparse
+countries: [Angola, Democratic Republic of the Congo, Gabon]
+in_region: true
+subdivisions:
+  Gabon: [Ogooué-Ivindo]
+altitude_m: "450"
 tags: [species, generated]
 ---
 # *Raphia laurentii* De Wild. Planche 21, Figure 4F

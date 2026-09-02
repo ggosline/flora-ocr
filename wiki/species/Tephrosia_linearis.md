@@ -7,6 +7,12 @@ family: Leguminosae
 vol: 49
 pages: 359-361
 source: sources/Millettiaspeciesfabaceae_vol49_liteparse
+countries: [Angola, Gabon, Senegal, Tanzania]
+in_region: true
+subdivisions:
+  Gabon: [Moyen-Ogooué, Nyanga, Ogooué-Ivindo, Ogooué-Maritime]
+habit: "herb"
+altitude_m: "0–200"
 tags: [species, generated]
 ---
 # *Tephrosia linearis* (Willd.) Pers.

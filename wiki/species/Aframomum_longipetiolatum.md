@@ -4,10 +4,8 @@ name: Aframomum longipetiolatum
 authority: J. Koech.
 genus: Aframomum
 family: Zingiberaceae
-countries: [Gabon]
-in_region: true
-habit: rhizomatous herb
 treatments: [{vol: 9, pages: "50", source: sources/Zingiberaceae_vol9_paddle}]
+habit: "herb"
 tags: [species, endemic]
 ---
 # *Aframomum longipetiolatum* J. Koech.

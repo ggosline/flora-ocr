@@ -7,6 +7,7 @@ family: Gramineae
 vol: 05
 pages: 252-253
 source: sources/Gramineae_vol05_paddle
+habit: "herb"
 tags: [species, generated]
 ---
 # *Sporobolus virginicus* (L.) Kunth.
@@ -25,13 +26,11 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Perennial herb with long stolons producing fascicles of erect glabrous stems with numerous nodes, reaching about thirty cm tall. Internodes alternately long and short, so that the leaves appear opposite. Sheaths more or less compressed, glabrous or pubescent at the opening; blades linear subulate, rolled, stiff and prickly, up to about ten centimetres long, glabrous or more or less pubescent on the dorsal surface, margins scabrous.
 
-Herbe pérenne longuement stolonifère émettant des fascicules de tiges dressées glabres, à nombreux nœuds, atteignant une trentaine de cm de haut. Entrenœuds alternativement longs et courts, de sorte que les feuilles apparaissent opposées. Gaines plus ou moins comprimées, glabres ou pubescentes à l'ouverture; limbes linéaires subulés, enroulés, raides et piquants, jusqu'à une dizaine de centimètres de long, glabres ou plus ou moins pubescents ausses, marges scabres.
+Spiciform cylindrical compact panicles, 2 to 8 cm long; branches short, pedicels very short; spikelets of pale colour, 2 to 3 mm long; glumes lanceolate acuminate, the lower one reaching one-half or 4/5 of the length of the upper one, the latter as long as the lemma or slightly longer, and like it with 1 nerve. Palea shorter. Seed with thin pericarp.
 
-Panicules spiciformes cylindriques compactes, de 2 à 8 cm de long; branches courtes, pédicelles très courts; épilets de teinte claire, de 2 à 3 mm de long; glumes lancéolées acuminées, l'inférieure atteignant la moitié ou les 4/5 de la longueur de la supérieure, celle-ci aussi longue que la lemma, ou un peu plus, et comme elle à 1 nervure. Paléa plus courte. Graine à péricarpe mince.
-
-Espèce banale sur les côtes d'Afrique, des Indes, de l'Australie et de l'Amérique.
+Common species on the coasts of Africa, India, Australia and America.
 
 ## Specimens examined
 

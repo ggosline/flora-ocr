@@ -7,6 +7,10 @@ family: Begoniaceae
 vol: 39
 pages: 58-61
 source: sources/Begoniaceae_vol39_liteparse
+countries: [Cameroon, Cote d'Ivoire, Democratic Republic of the Congo, Gabon, Ghana]
+in_region: true
+habitat: [rocky ground]
+altitude_m: "100–950"
 tags: [species, generated]
 ---
 # *Begonia mildbraedii* Gilg Planche 27

@@ -7,6 +7,13 @@ family: Cyperaceae
 vol: 44
 pages: 128-128
 source: sources/Cyperaceae_vol44_liteparse
+countries: [Gabon]
+in_region: true
+subdivisions:
+  Gabon: [Estuaire]
+habit: "herb"
+habitat: [mangrove]
+altitude_m: "1700"
 tags: [species, generated]
 ---
 # *Eleocharis atropurpurea* (Retz.) Presl Planche 80

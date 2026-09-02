@@ -7,6 +7,12 @@ family: Cyperaceae
 vol: 44
 pages: 172-173
 source: sources/Cyperaceae_vol44_liteparse
+countries: [Cameroon, Gabon]
+in_region: true
+subdivisions:
+  Gabon: [Estuaire, Ngounié, Nyanga, Woleu-Ntem]
+habit: "herb"
+altitude_m: "0–500"
 tags: [species, generated]
 ---
 # *Mapania macrantha* (Boeckeler) H.Pfeiff. Figure 16b

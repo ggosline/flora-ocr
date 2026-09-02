@@ -7,6 +7,9 @@ family: Orchidaceae
 vol: 37
 pages: 173-175
 source: sources/Orchidaceae_vol37_paddle
+countries: [Cameroon, Cote d'Ivoire, Gabon, Ghana, Liberia, Nigeria, Sao Tome and Principe, Sierra Leone]
+in_region: true
+habitat: [secondary forest]
 tags: [species, generated]
 ---
 # *Listrostachys pertusa* (Lindl.) Rchb.f.

@@ -7,6 +7,8 @@ family: Orchidaceae
 vol: 37
 pages: 129-129
 source: sources/Orchidaceae_vol37_paddle
+countries: [Cameroon, Gabon]
+in_region: true
 tags: [species, generated]
 ---
 # *Eggelingia gabonensis* P.J. Cribb & Laan.

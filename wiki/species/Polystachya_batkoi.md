@@ -7,6 +7,8 @@ family: Orchidaceae
 vol: 37
 pages: 63-65
 source: sources/Orchidaceae_vol37_paddle
+countries: [Democratic Republic of the Congo, Gabon]
+in_region: true
 tags: [species, generated]
 ---
 # *Polystachya batkoi* Szlach. & Olsz.

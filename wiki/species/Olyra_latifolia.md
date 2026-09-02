@@ -7,6 +7,7 @@ family: Gramineae
 vol: 05
 pages: 280-282
 source: sources/Gramineae_vol05_paddle
+habit: "herb"
 tags: [species, generated]
 ---
 # *Olyra latifolia* L.
@@ -65,7 +66,7 @@ Descoings : 6547, Franceville.
 
 ![Olyra latifolia](../sources/Gramineae_vol05_paddle/figures/fig_047_p0279.png)
 
-*PL. XLVI. — Olyra latifolia L. (Hédin 805) : 1, feuilles; 2, détail de la nervation; 3, inflorescence; 4, détail d'un fragment d'inflorescence avec épillet fertile et épilets mâles; 5, détail d'un épillet mâle (longueur de l'épillet femelle : 2 à 2,5 cm avec l'arête).*
+*PL. XLVI. — Olyra latifolia L. (Hédin 805) : 1, leaves; 2, venation detail; 3, inflorescence; 4, detail of an inflorescence fragment with fertile spikelet and male spikelets; 5, detail of a male spikelet (female spikelet length: 2 to 2.5 cm with the awn).*
 
 ## Notes
 

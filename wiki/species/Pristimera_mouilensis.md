@@ -7,6 +7,9 @@ family: Celastraceae
 vol: 29
 pages: 207-211
 source: sources/Celastraceae_vol29_paddle
+countries: [Cameroon]
+in_region: true
+habit: "liana"
 tags: [species, generated]
 ---
 # *Pristimera mouilensis* (Hallé) Hallé

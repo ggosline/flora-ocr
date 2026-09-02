@@ -5,11 +5,10 @@ authority: (Guill. et Perr.) Engl.
 genus: Fagara
 family: Rutaceae
 synonyms: []
-countries: [Gabon, Central African Republic, Senegal]
 range_note: "West and Central tropical Africa."
-in_region: true
-habit: shrub or tree
 treatments: [{vol: 6, pages: "37–40", source: sources/Rutaceae_vol6_paddle}]
+countries: [Gabon]
+in_region: true
 tags: [species]
 ---
 

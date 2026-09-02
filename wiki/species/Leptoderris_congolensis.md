@@ -7,6 +7,13 @@ family: Leguminosae
 vol: 49
 pages: 229-229
 source: sources/Millettiaspeciesfabaceae_vol49_liteparse
+countries: [Angola, Cameroon, Central African Republic, Democratic Republic of the Congo, Gabon, Republic of the Congo]
+in_region: true
+subdivisions:
+  Gabon: [Haut-Ogooué, Moyen-Ogooué, Nyanga, Ogooué-Ivindo, Ogooué-Lolo]
+habit: "liana"
+habitat: [secondary forest]
+altitude_m: "400"
 tags: [species, generated]
 ---
 # *Leptoderris congolensis* (De Wild.) Dunn

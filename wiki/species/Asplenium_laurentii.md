@@ -7,6 +7,8 @@ family: Aspleniaceae
 vol: 08
 pages: 134-135
 source: sources/Aspleniaceae_vol08_paddle
+countries: [Cameroon]
+in_region: true
 tags: [species, generated]
 ---
 # *Asplenium laurentii* Bommer

@@ -7,6 +7,12 @@ family: Begoniaceae
 vol: 39
 pages: 36-38
 source: sources/Begoniaceae_vol39_liteparse
+countries: [Gabon]
+in_region: true
+subdivisions:
+  Gabon: [Ogooué-Maritime]
+habitat: [primary forest, rocky ground]
+altitude_m: "600–800"
 tags: [species, generated]
 ---
 # *Begonia sosefiana* J.J. de Wilde & Valk. Planche 14

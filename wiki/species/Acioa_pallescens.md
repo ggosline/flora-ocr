@@ -7,6 +7,9 @@ family: Scytopetalaceae
 vol: 24
 pages: 54-57
 source: sources/Chrysobalanaceae_vol24_paddle
+countries: [Angola, Cameroon, Central African Republic, Democratic Republic of the Congo, Nigeria]
+in_region: true
+habit: "tree"
 tags: [species, generated]
 ---
 # *Acioa pallescens* Baillon
@@ -75,7 +78,7 @@ Villiers J.-F. 252, 277, Mondah near Libreville (fl., Sept.).
 
 ![Acioa pallescens](../sources/Chrysobalanaceae_vol24_paddle/figures/fig_016_p0055.png)
 
-*PL. 16. — Acioa pallescens Baill.: 1, rameau avec fleurs × 2/3; 2, stipules × 2; 3, portion d'axe infl. avec bractées et bractéoles × 4; 4, bractéoles × 4; 5, bouton floral × 2; 6, fleur (pét. excl.) × 3/2. (Le Testu 7508).*
+*PL. 16. — Acioa pallescens Baill.: 1, branch with flowers × 2/3; 2, stipules × 2; 3, portion of infl. axis with bracts and bracteoles × 4; 4, bracteoles × 4; 5, flower bud × 2; 6, flower (pet. excl.) × 3/2. (Le Testu 7508).*
 
 ## Notes
 

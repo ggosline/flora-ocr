@@ -7,6 +7,7 @@ family: Apocynaceae
 vol: 59
 pages: 54-57
 source: sources/Apocynaceae_vol59_liteparse
+habit: "liana"
 tags: [species, generated]
 ---
 # *Baissea leonensis* Benth. Planche 20 ; Figure 3(A-C)

@@ -7,6 +7,12 @@ family: Phyllanthaceae
 vol: 43
 pages: 20-21
 source: sources/Phyllanthaceae_vol43_liteparse
+countries: [Cameroon, Democratic Republic of the Congo, Gabon, Republic of the Congo, Sierra Leone]
+in_region: true
+subdivisions:
+  Gabon: [Estuaire, Moyen-Ogooué, Ngounié, Ogooué-Maritime]
+habit: "tree"
+altitude_m: "0–300"
 tags: [species, generated]
 ---
 # *Bridelia grandis* Pierre ex Hutch. Planche 3(E,F)

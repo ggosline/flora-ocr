@@ -7,6 +7,8 @@ family: Connaraceae
 vol: 33
 pages: 101-103
 source: sources/Connaraceae_vol33_paddle
+countries: [Angola, Central African Republic, Democratic Republic of the Congo, Guinea]
+in_region: true
 tags: [species, generated]
 ---
 # *Manotes expansa* Solander ex Planchon

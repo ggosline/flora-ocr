@@ -7,6 +7,9 @@ family: Acanthaceae
 vol: 13
 pages: 126-128
 source: sources/Acanthaceae_vol13_paddle
+countries: [Angola, Gabon, Republic of the Congo]
+in_region: true
+habit: "herb"
 tags: [species, generated]
 ---
 # *Staurogyne le-* Testuana R. Benoist
@@ -21,15 +24,13 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 ≡ Ebermaiera Le-Testuana (Benoist) Benoist, in Pellegrin, Mém. Soc. Linn. Norm., N. S. Bot. 1 (3) : 44 (1928).
 
-Herbe vivace (?), dressée ou couchée-ascendante, atteignant environ 20 cm de hauteur, à tige cylindrique pubescente. Pétiole de 2 cm. Limbe des feuilles ovale, entier, obtus au sommet, acuminé à la base, de  $ 6 \times 3 $ cm, poilu sur les deux faces.
+Perennial herb (?), erect or decumbent-ascending, reaching approximately 20 cm in height, with cylindrical pubescent stem. Petiole 2 cm. Leaf blade ovate, entire, obtuse at apex, acuminate at base, $ 6 \times 3 $ cm, hairy on both surfaces.
 
-Inflorescences en épis axillaires et terminaux, jusqu'à 8 cm de long; bractées linéaires de  $ 10 \times 1.5 $ mm; bractéoles apprimées au calice et parfaitement semblables aux sépales linéaires-lancéolés; le sépale supérieur et les deux sépales inférieurs sont plus larges que les sépales latéraux de  $ 10 \times 0.5 $ mm de long. Corolle longue de  $ 10 $ mm, blanche, pubescente en dehors, à tube infundibuliforme; limbe à cinq lobes ronds, sub-égaux. Étamines insérées à la moitié inférieure du tube.
+Inflorescences in axillary and terminal spikes, up to 8 cm long; bracts linear, $ 10 \times 1.5 $ mm; bracteoles appressed to calyx and perfectly similar to linear-lanceolate sepals; the upper sepal and the two lower sepals are broader than the lateral sepals, $ 10 \times 0.5 $ mm long. Corolla 10 mm long, white, pubescent outside, with infundibuliform tube; limb with five rounded, subequal lobes. Stamens inserted at the lower half of the tube.
 
-Capsule un peu pubescente, d'environ 6 mm de long et 2,3 mm de large; 12 graines rugueuses, à hile très marqué, d'environ 1 mm de diamètre.
+Capsule slightly pubescent, approximately 6 mm long and 2.3 mm wide; 12 rugose seeds, with very prominent hilum, approximately 1 mm in diameter.
 
 ## Type
 
@@ -37,11 +38,9 @@ Thollon 1098, Niari, 4056 Djoué, et Le Testu 1018 (P, syntypes!)
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+1–7: Staurogyne Le-Testuana R. Benoist. 8–16: Staurogyne alboviolacea R. Benoist.
 
-1-7: Staurogyne Le-Testuana R. Benoist. 8-16: Staurogyne alboviolacea R. Benoist.
-
-Cabinda (Gossweiler 7869, type de St. congoensis, BM!), Gabon, Congo-Brazzavifle.
+Cabinda (Gossweiler 7869, type of St. congoensis, BM!), Gabon, Congo-Brazzaville.
 
 ## Specimens examined
 

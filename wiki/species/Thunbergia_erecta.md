@@ -7,6 +7,8 @@ family: Acanthaceae
 vol: 13
 pages: 62-64
 source: sources/Acanthaceae_vol13_paddle
+countries: [Cameroon, Gabon, Ghana, Guinea, Liberia, Nigeria, Sierra Leone]
+in_region: true
 tags: [species, generated]
 ---
 # *Thunbergia erecta* (Benth.) T. Anders.
@@ -17,15 +19,13 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 in Pellegrin, Mém. Soc. Linn. Norm., N.S., sect. Bot., 1 (3) : 44 (1928). — Bremekamp, Verh. Kon. nederl. Akad. Wetensch., Afd. Naturk. 2° ser., 50 (4) : 37 (1955). — Chittenden, R.H.S. Dict. 4 : 2105, 2106 (1956). — G. Mangenot, Ie. Pl. Afric. IFAN t. 96 (1957). — Walker et Sillans, Pl. Ut. Gabon : 43 (1961). — Heine, F.W.T.A., ed. 2, 2 : 402, fig. 298 (1963). — F.N. Hepper, The Nigerian Field 29 : 147, fig. p. 148 (1964).
 
-≡ Meyenia erecta Benth., Fl. nigrit. :4 76 (1849). — Planchon, Fl. d. Serres 11, t. 1093 (1856). Lemaire, Ill. Hortic. 3, t. 99 (1856). — W.J. Hooker, Bot. Mag. 83, t. 5013 (1857). — Carrière, Rév. Hort. 35 : 251, c. ic. 1863).
+≡ Meyenia erecta Benth., Fl. nigrit. :476 (1849). — Planchon, Fl. d. Serres 11, t. 1093 (1856). Lemaire, Ill. Hortic. 3, t. 99 (1856). — W.J. Hooker, Bot. Mag. 83, t. 5013 (1857). — Carrière, Rév. Hort. 35 : 251, c. ic. 1863).
 
-Arbuste buissonnant, dressé, à peine sarmenteux mais non lianescent, atteignant 2,5 m, à jeunes tiges un peu quadrangulaires ± anguleuses, glabres, à nœuds un peu pubescents. Pétioles de 2-3 mm; çà et là sur les angles de la tige à l'insertion des pétioles des émergences ressemblant à des tubercules. Limbes glabres, ovales, de 2-11 × 0,7-5 cm., à base cunéiforme ou arrondie, à sommet avec un acumen non mucroné, à marges anguleuses; dans les plus grandes feuilles 1-2 grandes dents (2-5 mm) ± obtuses, par côté. Nervures secondaires 3-5 paires.
+Bushy shrub, erect, scarcely sarmentose but not climbing, reaching 2.5 m, with young stems somewhat quadrangular ± angular, glabrous, with nodes somewhat pubescent. Petioles 2–3 mm; here and there on the angles of the stem at the insertion of the petioles with emergences resembling tubercles. Blades glabrous, ovate, 2–11 × 0.7–5 cm, with cuneate or rounded base, with apex bearing a non-mucronate acumen, with angular margins; on the larger leaves 1–2 large teeth (2–5 mm) ± obtuse, per side. Secondary veins 3–5 pairs.
 
-Fleurs solitaires, axillaires, à pédicelles de 5-6 cm; bractéoles ovales membraneuses et transparentes, blanches, obtuses de  $ 2 \times 1.5 $ cm. Lobes du calice  $ 12 $, inégaux, linéaires, ne dépassant pas  $ 2 $ mm de longueur à l'anthèse. Tube de la corolle jaune, de  $ 4.5 $ cm; lobes bleu violacé ou violets, rarement blancs (var. alba Hort.) longs de  $ 2 $ cm. Étamines postérieures de  $ 17 $ mm, étamines antérieures de  $ 8-10 $ mm; anthères et autres caractères floraux comme chez le Th. affinis.
+Flowers solitary, axillary, with pedicels 5–6 cm; bracteoles ovate, membranous and transparent, white, obtuse, 2 × 1.5 cm. Calyx lobes 12, unequal, linear, not exceeding 2 mm in length at anthesis. Corolla tube yellow, 4.5 cm; lobes blue-violet or violet, rarely white (var. alba Hort.), 2 cm long. Posterior stamens 17 mm, anterior stamens 8–10 mm; anthers and other floral characters as in Th. affinis.
 
 ## Type
 
@@ -33,13 +33,11 @@ Vogel 14, 83, Cape Coast Castle, Ghana (K, syntypes)
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Portuguese Guinea, Guinea, Sierra Leone, Liberia, Ghana, southern Nigeria, Cameroon.
 
-Guinée portugaise, Guinée, Sierra-Leone, Liberia, Ghana, Nigeria du Sud, Cameroun.
+Ornamental and horticultural plant, frequently cultivated or escaped from cultivation. It is most probably not indigenous to Gabon.
 
-Plante ornamentale et horticole, fréquemment cultivée ou échappée des cultures. Elle n'est fort probablement pas indigène au Gabon.
-
-Les exemplaires à fleurs blanches ont des pédicelles beaucoup plus courts que chez les exemplaires typiques de Th. erecta; les organes de leur appareil reproducteur sont, en général, nettement plus petits que chez cette dernière espèce, tandis que les caractères de l'appareil végétatif des plantes gabonaises considérées ici comme appartenant à la « var. alba Hort. » de Th. erecta se rapprochent tout particulièrement de ceux de Th. affinis. Il ne semble pas impossible que le rang taxinomique de la « var. alba Hort. » de Th. erecta soit sous-estimé.
+Specimens with white flowers have much shorter pedicels than in typical specimens of Th. erecta; the organs of their reproductive apparatus are, in general, distinctly smaller than in the latter species, whereas the characters of the vegetative apparatus of the Gabonese plants considered here as belonging to the "var. alba Hort." of Th. erecta are particularly close to those of Th. affinis. It does not seem impossible that the taxonomic rank of the "var. alba Hort." of Th. erecta is underestimated.
 
 ## Specimens examined
 

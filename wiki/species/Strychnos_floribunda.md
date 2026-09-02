@@ -16,23 +16,19 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 in ENGLER, Bot. Jahrb. 17 : 566 (1893). — FTA 4 (1) : 527. — FWTA ed. 2, 2 : 44, p.p. (excl. syn. S. togoensis Gilg & Busse; Thomas 5032, Kersting 691, Dunlap 168, Mildbraed 10521, 10527 et Chipp 574). — LEEUWENBERG, l.c. : 120. fig. 14, carte 18.
 
 — S. moloneyi Bak., Kew Bull. : 97 (1895); FTA 4 (1) : 527. — FWTA ed. 1, 2 : 24, p.p. (excl. syn. S. togoensis Gilg & Busse, S. chrysophylla Bak.; Johnston 98, Dunlap 168, Kersting 691, Talbot 157 et Linder 1242).
 
 — S. littoralis A. CHEV. ex HUTCH. & DALZ., FWTA ed 1, 2:24.—Kew Bull.: 334 (1937), p.p. (excl. Mildbraed 10521 et 10527). — (A. CHEVALIER, Expl. Bot. Afr. Occ. Fr. 1:443 (1920), nom. nud.). — A. CHEVALIER, Rev. Bot. Appl. 27:370, pl. 19 A (1947).
 
-Arbuste grimpant ou liane atteignant jusqu'à 30 m de hauteur et une longueur de 10-30 m ou plus; tige de 4-13 cm de diamètre; écorce brun foncé, lenticellée, lisse, mince; bois jaune; rameaux brun très foncé ou plus pâle et avec épiderme caduc, lenticellés, cylindriques, non sillonnés à l'état sec; petits rameaux glabres ou exceptionnellement à pubescence fine, rarement lenticellés, souvent un peu sillonnés à l'état sec; vriles solitaires.
+Climbing shrub or liane reaching up to 30 m in height and 10–30 m or more in length; stem 4–13 cm in diameter; bark dark brown, lenticellate, smooth, thin; wood yellow; branches very dark brown or paler and with deciduous epidermis, lenticellate, cylindric, not sulcate when dry; branchlets glabrous or exceptionally with fine pubescence, rarely lenticellate, often slightly sulcate when dry; tendrils solitary.
 
-Feuilles à pétiole glabre, de 2-9 mm de longueur; limbe coriace ou subcorriace, également sur le vif, plus mince dans les feuilles exposées à l'ombre, de forme et de grandeur très variables, elliptique, étroitement elliptique, étroitement ové ou moins souvent ové, de 4-10 (-12) × 1,5-5 (-6) cm, acuminé ou, à l'ombre, souvent caudé au sommet, cuné, arrondi ou rarement subcordé à la base, glabre sur les deux faces; 1-2 paires de nervures secondaires courbées le long de la marge; nervation tertiaire peu distincte, souvent un peu préminente en dessous.
+Leaves with petiole glabrous, 2–9 mm long; blade coriaceous or subcoriaceous, equally when fresh, thinner in leaves exposed to shade, of very variable shape and size, elliptic, narrowly elliptic, narrowly ovate or less often ovate, 4–10 (–12) × 1.5–5 (–6) cm, acuminate or, in shade, often caudate at apex, cuneate, rounded or rarely subcordate at base, glabrous on both faces; 1–2 pairs of secondary veins curved along the margin; tertiary venation indistinct, often somewhat prominent below.
 
-Inflorescences axillaires et exceptionnellement aussi terminales, lâches ou contractées, de 1-4,5 × 1-3 cm, pauciflores; pédoncule, rameaux et pédi-celles minces, à pubescence papilleuse et fine ou glabres. Fleurs (4-) 5-mères. Sépales verts ou verdâtes, soudés jusqu'au quart de leur hauteur, triangulaires, ovés ou étroitement triangulaires, de 0,8-1,5 × (0,3-) 0,6-0,8 (-1,2) mm, aigus, ou parfois subaigus, finement ciliés, glabres sur les deux faces ou à l'extérieur garnie d'une pubescence papilleuse et fine. Corolle, dans le bouton mûr, de 4,5-6 mm de longueur, blanche ou blanc verdâtre, glabre ou à pubescence papilleuse et fine à l'extérieur, surtout sur la partie supérieure du tube, à l'intérieur souvent désément pileuse, mais glabre au sommet des lobes et à la base du tube; tube 0,7-1,5 (-2) fois plus long que les lobes, de 2-3,3 mm de longueur; lobes étroitement triangulaires, de 1,5-3 × 1-1,6 mm, aigus, étalés ou recourbés. Étamines exsertes, insérées
+Inflorescences axillary and exceptionally also terminal, loose or contracted, 1–4.5 × 1–3 cm, pauciflorous; peduncle, branches and pedicels slender, with papillate and fine pubescence or glabrous. Flowers (4–)5-merous. Sepals green or greenish, connate to one-quarter of their height, triangular, ovate or narrowly triangular, 0.8–1.5 × (0.3–)0.6–0.8 (–1.2) mm, acute, or sometimes subacute, finely ciliate, glabrous on both faces or on the exterior furnished with papillate and fine pubescence. Corolla, in mature bud, 4.5–6 mm long, white or whitish-green, glabrous or with papillate and fine pubescence on the exterior, especially on the upper part of the tube, on the interior often softly pilose, but glabrous at the apex of the lobes and at the base of the tube; tube 0.7–1.5 (–2) times longer than the lobes, 2–3.3 mm long; lobes narrowly triangular, 1.5–3 × 1–1.6 mm, acute, spreading or recurved. Stamens exserted, inserted at the throat of the corolla, with glabrous filament, 1–1.5 (–2) times longer than the anther; anther oblong, glabrous. Pistil glabrous, 3.2–6 (–7) mm long; ovary globose or ovoid to nearly conical, 2-locular; style slender, 2–4.5 mm long; stigma small, capitate or barely bilobed (in a single inflorescence); 6–10 ovules per locule.
 
-à la gorge de la corolle, à filet glabre, 1-1,5 (-2) fois plus long que l'anthère; anthère oblongue, glabre. Pistil glabre, de 3,2-6 (-7) mm de longueur; ovaire globuleux ou ovoïde à presque conique, à 2 loges; style mince, long de 2-4,5 mm; stigmate petit, capité ou à peine bilobé (dans une seule inflorescence); 6-10 ovules par loge.
-
-Fruits orangés, non mûrs, verts ou glauques, parfois lenticellés, petits, tendres, ellipsoïdes, de  $ 14-17 \times 12-14 \times 12-14 $ mm, contenant une graine, obliquement pédicellés, parfois brièvement stipités dans le calice, à peau lisse; paroi mince,  $ \pm 0,3 $ mm d'épaisseur; pulpe jaune pâle. Graine un peu aplatie, ellipsoïdes, de  $ 8-13 \times 7-10 \times 5-7 $ mm, à pubescence dense, lisse; testa mince, collant à la pulpe. Pl. 28, 6-11, p. 135.
+Fruits orange when unripe, green or glaucous, sometimes lenticellate, small, tender, ellipsoid, $ 14–17 \times 12–14 \times 12–14 $ mm, containing one seed, obliquely pedicellate, sometimes briefly stipitate in the calyx, with smooth skin; wall thin, $ \pm 0.3 $ mm thick; pulp pale yellow. Seed slightly flattened, ellipsoid, $ 8–13 \times 7–10 \times 5–7 $ mm, with dense pubescence, smooth; testa thin, adhering to the pulp. Pl. 28, 6–11, p. 135.
 
 ## Type
 
@@ -40,9 +36,7 @@ Schweinfurth 3558, Kapili, Pays de Monbuttu, Province orientale, Congo-Kinshasa 
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Afrique occidentale et équatoriale. Forêts denses ou secondaires; souvent sur les rives de rivières. Altitude : 0-800 m.
+West and equatorial Africa. Dense or secondary forests; often on river banks. Altitude: 0–800 m.
 
 ## Specimens examined
 
@@ -52,19 +46,17 @@ Hallé N. & Le Thomas 538, Bélinga (fr. non mûrs, août).
 
 ## Source note
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Strychnos floribunda is very close to S. dale. The two species may be distinguished as follows:
 
-Strychnos floribunda est très voisin de S. dale. Les deux espèces peuvent être distinguées comme suit
+Leaves with reticulate venation on both faces or only below, generally larger than in the following species; mature bud and pistil 4–4.5 mm long ..... S. dale.
 
-Feuilles à nervation réticulée sur les deux faces ou seulement en dessous, généralement plus grandes que dans l'espèce suivante; bouton mûr et pistil de 4-4,5 mm de longueur ..... S. dale.
-
-Feuilles à nervation non ou à peine préminente en dessous et non ainsi en dessus; bouton mûr et pistil de (4,5-) 5-6 mm de longueur..... S. floribunda
+Leaves with venation not or scarcely prominent below and not thus above; mature bud and pistil (4.5–)5–6 mm long ..... S. floribunda
 
 ## Figures
 
 ![Strychnos floribunda](../sources/Loganiaceae_vol19_paddle/figures/fig_028_p0137.png)
 
-*PL. 28. — Strychnos dale De Wild. : 1, rameau × ½; 2, fleur × 2 ½; 3, portion de la corolle avec étamines × 2 ½; 4, pistil × 3 ½; 5, fruit × ½ (1-4 : Le Testu 9301; 5 : Leeuwenberg 6813). — Strychnos floribunda Gilg : 6, rameau × ½; 7, fleur × 3; 5, portion de la corolle avec étamines × 3; 9, pistil × 3; 10, fruit × ½; 11, graine × ½ (6-9 et 10 : d'après Leeuwenberg 4506 et 7381; 11 : d'après De Wilde J. c. s. 3441; tous éch. Côté d'Ivoire, WAG).*
+*PL. 28. — Strychnos dale De Wild. : 1, branch × ½; 2, flower × 2 ½; 3, portion of the corolla with stamens × 2 ½; 4, pistil × 3 ½; 5, fruit × ½ (1-4 : Le Testu 9301; 5 : Leeuwenberg 6813). — Strychnos floribunda Gilg : 6, branch × ½; 7, flower × 3; 8, portion of the corolla with stamens × 3; 9, pistil × 3; 10, fruit × ½; 11, seed × ½ (6-9 and 10 : after Leeuwenberg 4506 and 7381; 11 : after De Wilde J. c. s. 3441; all specimens Ivory Coast, WAG).*
 
 ## Notes
 

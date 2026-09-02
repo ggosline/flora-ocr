@@ -7,6 +7,13 @@ family: Cucurbitaceae
 vol: 57
 pages: 103-105
 source: sources/Cucurbitaceae_vol57_paddle
+countries: [Cameroon, Central African Republic, Equatorial Guinea, Gabon, Liberia, Nigeria, Republic of the Congo]
+in_region: true
+subdivisions:
+  Gabon: [Estuaire, Ngounié, Ogooué-Ivindo, Ogooué-Maritime, Woleu-Ntem]
+habit: "herb"
+habitat: [gallery forest, secondary forest]
+altitude_m: "0–775"
 tags: [species, generated]
 ---
 # *Ruthalicia longipes* (Hook.f.) C.Jeffrey

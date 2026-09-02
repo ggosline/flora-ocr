@@ -7,6 +7,13 @@ family: Oleaceae
 vol: 51
 pages: 15-17
 source: sources/Oleaceae_vol51_liteparse
+countries: [Gabon]
+in_region: true
+subdivisions:
+  Gabon: [Estuaire, Woleu-Ntem]
+habit: "liana"
+habitat: [secondary forest]
+altitude_m: "300"
 tags: [species, generated]
 ---
 # *Jasminum nardydorum* Breteler Planche 4

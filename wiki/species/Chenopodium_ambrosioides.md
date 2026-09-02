@@ -5,12 +5,11 @@ authority: L.
 genus: Chenopodium
 family: Chenopodiaceae
 synonyms: []
-countries: [Gabon]
 range_note: "Cosmopolitan tropical weed."
-countries_incomplete: true
-in_region: true
-habit: aromatic herb
 treatments: [{vol: 7, pages: "18–21", source: sources/Chenopodiaceae_vol7_paddle}]
+countries: [Gabon]
+in_region: true
+habit: "herb"
 tags: [species]
 ---
 

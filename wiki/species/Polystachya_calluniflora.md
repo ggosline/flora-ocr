@@ -7,6 +7,8 @@ family: Orchidaceae
 vol: 37
 pages: 65-65
 source: sources/Orchidaceae_vol37_paddle
+countries: [Cameroon, Equatorial Guinea, Gabon, Nigeria, Rwanda, Uganda]
+in_region: true
 tags: [species, generated]
 ---
 # *Polystachya calluniflora* Kraenzl.
@@ -39,7 +41,7 @@ Hallé 1247, Bélinga, N of Makokou (fl. Feb.), P!.
 
 ![Polystachya calluniflora](../sources/Orchidaceae_vol37_paddle/figures/fig_022_p0066.png)
 
-*PL. 129. – Polystachya calluniflora Kraenzl. : A, fleur et bractée florale ; B, labelle ; C, sépale latéral ; D, pétale ; E, sépale dorsal. – Polystachya polychaete Kraenzl. : F, fleur ; G, bractée florale ; H, labelle ; I, sépale dorsal ; J, pétale ; K, sépale latéral (A-E, Deistel 75, P ; F-K, Preuss 881, HBG).*
+*PL. 129. – Polystachya calluniflora Kraenzl.: A, flower and floral bract; B, labellum; C, lateral sepal; D, petal; E, dorsal sepal. – Polystachya polychaete Kraenzl.: F, flower; G, floral bract; H, labellum; I, dorsal sepal; J, petal; K, lateral sepal (A-E, Deistel 75, P; F-K, Preuss 881, HBG).*
 
 ![Polystachya calluniflora](../sources/Orchidaceae_vol37_paddle/figures/fig_138_p0252.png)
 

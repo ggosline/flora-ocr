@@ -7,6 +7,10 @@ family: Marantaceae
 vol: 09
 pages: 106-106
 source: sources/Marantaceae_vol09_paddle
+countries: [Angola, Cameroon, Equatorial Guinea, Gabon]
+in_region: true
+habit: "herb"
+habitat: [secondary forest]
 tags: [species, generated]
 ---
 # *Hypselodelphys poggeana* (K. Schum.) M.-Redh.

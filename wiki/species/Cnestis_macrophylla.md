@@ -7,6 +7,9 @@ family: Connaraceae
 vol: 33
 pages: 59-63
 source: sources/Connaraceae_vol33_paddle
+countries: [Cameroon, Gabon, Nigeria]
+in_region: true
+habit: "liana"
 tags: [species, generated]
 ---
 # *Cnestis macrophylla* Gilg ex Schellenberg
@@ -57,7 +60,7 @@ Leroy (Mgr) s.n., Ogooué (fr., -), P.
 
 ![Cnestis macrophylla](../sources/Connaraceae_vol33_paddle/figures/fig_022_p0060.png)
 
-*PL. 16. – Cnestis macrophylla Gilg ex Schellenberg : 1, feuille sur son rameau montrant la face inférieure des folioles × 2/3 ; 2, foliole, face supérieure × 2/3 ; 3, infrutescences × 1. (1-2. Gentry & Pilz 32759 ; 3. Mgr. Leroy s.n.). – Repris de AUWP 89 (6).*
+*PL. 16. – Cnestis macrophylla Gilg ex Schellenberg : 1, leaf on its branch showing the lower surface of the leaflets × 2/3 ; 2, leaflet, upper surface × 2/3 ; 3, infructescences × 1. (1-2. Gentry & Pilz 32759 ; 3. Mgr. Leroy s.n.). – Reprinted from AUWP 89 (6).*
 
 ## Notes
 

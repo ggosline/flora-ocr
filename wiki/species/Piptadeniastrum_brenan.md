@@ -6,6 +6,8 @@ family: Leguminosae
 vol: 31
 pages: 60-64
 source: sources/Leguminosae_vol31_paddle
+countries: [Angola, Senegal, Sudan, Uganda]
+in_region: true
 tags: [species, generated]
 ---
 # *Piptadeniastrum brenan*
@@ -82,7 +84,7 @@ Normand DN 197, Haute Ngounié, rive droite S confluent Ikoï (fr., sept.).
 
 ![Piptadeniastrum brenan](../sources/Leguminosae_vol31_paddle/figures/fig_026_p0062.png)
 
-*PL. 14. – Piptadeniastrum africanum (Hook.f.) : Brenan : 1, aspect général × 1 ; 2, rachis, coupe transversale × 20 ; 3, 4, foliole × 12 ; 5, bractéole × 30 ; 6, bouton floral × 12 ; 7, fleur × 12 ; 8, fleur, coupe longitudinale × 12 ; 9, pétale × 20 ; 10, anthère × 30 ; 11, pistil × 20 ; 12, 12', fruit × 1 ; 13, 14, graine × 1. (1-3, 7-11, Le Testu 2080 ; 4-6, Annet 452 (Cameroun) ; 12, 13, Villiers J.-F. 312 (Cameroun) ; 13, 15, Hédin 600 (Cameroun)).*
+*PL. 14. – Piptadeniastrum africanum (Hook.f.) : Brenan : 1, general appearance × 1 ; 2, rachis, transverse section × 20 ; 3, 4, leaflet × 12 ; 5, bracteole × 30 ; 6, floral bud × 12 ; 7, flower × 12 ; 8, flower, longitudinal section × 12 ; 9, petal × 20 ; 10, anther × 30 ; 11, pistil × 20 ; 12, 12', fruit × 1 ; 13, 14, seed × 1. (1-3, 7-11, Le Testu 2080 ; 4-6, Annet 452 (Cameroon) ; 12, 13, Villiers J.-F. 312 (Cameroon) ; 13, 15, Hédin 600 (Cameroon)).*
 
 ## Notes
 

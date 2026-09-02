@@ -7,6 +7,9 @@ family: Celastraceae
 vol: 29
 pages: 238-239
 source: sources/Celastraceae_vol29_paddle
+countries: [Angola, Cameroon, Central African Republic, Democratic Republic of the Congo, Gabon, Nigeria]
+in_region: true
+habit: "liana"
 tags: [species, generated]
 ---
 # *Loeseneriella apiculata* (Welwistch ex Oliver) Hallé ex Wilczek

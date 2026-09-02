@@ -7,6 +7,8 @@ family: Orchidaceae
 vol: 37
 pages: 189-191
 source: sources/Orchidaceae_vol37_paddle
+countries: [Cameroon, Cote d'Ivoire, Gabon, Ghana, Guinea, Liberia, Nigeria, Senegal, Sierra Leone, Togo]
+in_region: true
 tags: [species, generated]
 ---
 # *Aerangis biloba* (Lindl.) Schltr.

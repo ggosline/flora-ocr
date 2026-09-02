@@ -7,6 +7,9 @@ family: Moraceae
 vol: 26
 pages: 233-235
 source: sources/Moraceae_vol26_paddle
+countries: [Cameroon, Gabon]
+in_region: true
+habit: "liana"
 tags: [species, generated]
 ---
 # *Ficus abcondita* C.C. Berg

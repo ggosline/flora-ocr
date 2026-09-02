@@ -7,6 +7,8 @@ family: Aspleniaceae
 vol: 08
 pages: 144-145
 source: sources/Aspleniaceae_vol08_paddle
+countries: [Cameroon, Guinea]
+in_region: true
 tags: [species, generated]
 ---
 # *Asplenium jaundeense* Hieronymus (P.L. XXII)
@@ -42,7 +44,7 @@ Le Testu : 8962, Oyem; 9238, Woleu-Ntem.
 
 ![Asplenium jaundeense](../sources/Aspleniaceae_vol08_paddle/figures/fig_025_p0137.png)
 
-*PL. XXII. — Asplenium Geppii Carr. (Chevalier 26938) : 1, aspect général × 1/2. Asplenium Buettneri Hier. (Le Testu 8646) : 2, aspect général × 1/2; 3, une penne × 1; 4, écaille × 12. — Asplenium jaundeense Hier. (Le Testu 9238); 5, aspect général × 1/2; 6, écaille × 12.*
+*PL. XXII. — Asplenium Geppii Carr. (Chevalier 26938) : 1, general aspect × 1/2. Asplenium Buettneri Hier. (Le Testu 8646) : 2, general aspect × 1/2; 3, a pinna × 1; 4, scale × 12. — Asplenium jaundeense Hier. (Le Testu 9238); 5, general aspect × 1/2; 6, scale × 12.*
 
 ## Notes
 

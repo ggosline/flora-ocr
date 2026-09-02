@@ -7,6 +7,11 @@ family: Aizoaceae
 vol: 42
 pages: 11-12
 source: sources/Aizoaceae_vol42_liteparse
+countries: [Gabon]
+in_region: true
+habit: "herb"
+habitat: [mangrove]
+altitude_m: "1–5"
 tags: [species, generated]
 ---
 # *Sesuvium portulacastrum* (L.) L. Planche 1
@@ -17,29 +22,21 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Herbe rampante , pérenne, 5–30 cm de hauteur, glabre, charnue ; tiges radicantes, rouges . Feuilles opposées ; limbe oblancéolé à oblong, 15–60 × 2–12 mm, vert à rouge-pourpre, plano-convexe, rétréci à la base en un pétiole embrassant la tige, sommet obtus. Fleur : pédicelle 4–20 mm ; tépales 7–12 mm de longueur, les lobes inégaux, triangulaires , 4–7 mm de longueur, avec une pointe de 1,5 mm juste en dessous du sommet , face interne rose, rouge ou pourpre ; étamines nombreuses, 3–5 mm de longueur, anthères rosepourpre ; ovaire à (2–)3(–4) carpelles, globuleux, 2–3 mm de longueur ; styles (2–)3(–4), 2–3 mm, blancs. Fruit à couvercle conique , 4–5 mm de diamètre. Graines lisses.
+Creeping herb, perennial, 5–30 cm tall, glabrous, fleshy; stems rooting, red. Leaves opposite; blade oblanceolate to oblong, 15–60 × 2–12 mm, green to red-purple, plano-convex, narrowed at the base into a petiole clasping the stem, apex obtuse. Flower: pedicel 4–20 mm; tepals 7–12 mm long, the lobes unequal, triangular, 4–7 mm long, with a point 1.5 mm just below the apex, inner surface pink, red or purple; stamens numerous, 3–5 mm long, anthers rose-purple; ovary of (2–)3(–4) carpels, globose, 2–3 mm long; styles (2–)3(–4), 2–3 mm, white. Fruit with conical operculum, 4–5 mm in diameter. Seeds smooth.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-espèce des côtes des régions tropicales et subtropicales ; au Gabon, commune le long de la côte
+species of the coasts of tropical and subtropical regions; in Gabon, common along the coast
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-sur les plages, dunes et mangroves ; au Gabon à 1–5 m d’altitude, ailleurs parfois jusqu’à 200 m. Usage : Les feuilles sont consommées comme légume. Les plantes ont été utilisées pour prévenir l’érosion des dunes
+on beaches, dunes and mangroves; in Gabon at 1–5 m altitude, elsewhere sometimes up to 200 m. Uses: The leaves are consumed as a vegetable. The plants have been used to prevent dune erosion
 
 ## Vernacular names
 
 pourpier de mer, pourpier maritime (Fr.) ; cenicilla, samphire, seaside purselane (Angl.) ; beldroega da praia (Port.). Bi : Gonçalves (1978), Hutchinson & Dalziel (1954), Jansen (2004), Jeffrey B liographie (1961). 3
 
 ## Discussion
-
-<!-- TODO:translate — source text below, verbatim and untranslated -->
 
 , .1306059.45848 3 3
 

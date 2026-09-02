@@ -7,6 +7,9 @@ family: Loganiaceae
 vol: 19
 pages: 124-151
 source: sources/Loganiaceae_vol19_paddle
+countries: [Cameroon]
+in_region: true
+habit: "tree"
 tags: [species, generated]
 ---
 # *Strychnos zenkeri* Gilg ex Baker
@@ -17,17 +20,13 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Shrub or small tree reaching a height of 15 m; branches pale grey-brown, without lenticels; branchlets often furnished at the apex with 2 lines finely pubescent below the stipular line.
 
-Arbuste ou petit arbre atteignant une hauteur de 15 m; rameaux gris-brun pâle, non lenticellés; petits rameaux garnis souvent au sommet de 2 lignes finement pubescentes en dessous de la ligne stipulaire.
+Leaves with short petiole, glabrous, 2-3 mm in length; blade coriaceous, elliptic or narrowly elliptic, $ 4-14 \times 1.5-5 $ cm, distinctly acuminate at apex, cuneate at base, glabrous on both faces; 2 pairs of secondary veins curved along the margin, the first being less prominent; tertiary venation indistinctly reticulate below.
 
-Feuilles à pétiole court, glabre, de 2-3 mm de longueur; limbe coriace, elliptique ou étroitement elliptique, de  $ 4-14 \times 1,5-5 $ cm, nettement acuminé au sommet, cuné à la base, glabre sur les deux faces; 2 paires de nervures
+Inflorescences axillary, several grouped together, contracted, ca. 1 cm in length; peduncle, branches and pedicels very short, somewhat pubescent. Flowers subfasciculate, 5-merous. Sepals connate to about one-third of their height, broadly ovate to suborbicular, $ 2 \times 2-2.2 $ mm, obtuse or rounded, ciliate, $ \pm $ glabrous externally, internally with fine pubescence at the base. Corolla, in mature bud, 6.5 mm in length, white (?), glabrous externally, internally with a ring resembling a brush of white hairs, at the level of the base of the lobes; tube 3.3 mm in length; lobes narrowly triangular, $ 3.2 \times 1.5 $ mm, acute, spreading. Stamens slightly exserted, inserted at the throat of the corolla, with glabrous filament, ca. 0.5 times longer than the anther; anther oblong, glabrous. Pistil hairy-pubescent in the middle, 5.6 mm in length; ovary broadly ovoid, $ 1.6 \times 1.5 $ mm, glabrous, 2-locular; style 4 mm in length; stigma capitate; 14 ovules per locule.
 
-secondaires courbées le long de la marge, la première étant moins marquée; nervation tertiaire indistinctement réticulée en dessous.
-
-Inflorescences axillaires, plusieurs groupées ensemble, contractées, d'env. 1 cm de longueur; pédoncule, rameaux et pédicelles très courts, un peu pubescents. Fleurs subfasciculées, 5-mères. Sépales soudés jusqu'au tiers de leur hauteur environ, largement ovées à suborbiculaires, de  $ 2 \times 2-2,2 $ mm, obtus ou arrondis, ciliés,  $ \pm $ glabres à l'extérieur, à l'intérieur avec fine pubescence à la base. Corolle, dans le bouton mûr, de 6,5 mm de longueur, blanche (?), glabre à l'extérieur, à l'intérieur avec un anneau ressemblant à une brosse de poils blancs, au niveau de la base des lobes; tube de 3,3 mm de longueur; lobes étroitement triangulaires, de  $ 3,2 \times 1,5 $ mm, aigus, étalés. Étamines un peu exsertes, insérées à la gorge de la corolle, à filet glabre, env. 0,5 fois plus long que l'anthère; anthère oblongue, glabre. Pistil pileux-pubescent au milieu, de 5,6 mm de longueur; ovaire largement ovoide, de  $ 1,6 \times 1,5 $ mm, glabre, à 2 loges; style de 4 mm de longueur; stigmate capité; 14 ovules par loge.
-
-Fruits presque globuleux, blancs (?), d'env. 2 cm de diamètre et contenant 2 graines; paroi mince, d'env. 1 mm d'épaisseur. Graines aplaties, obliquement elliptiques, plano-convexes, de  $ 15 \times 13 \times 5 $ mm, avec un hile élevé du côté convexe, assez rugueux. Pl. 39, 6-11, p. 146.
+Fruits almost globose, white (?), ca. 2 cm in diameter and containing 2 seeds; wall thin, ca. 1 mm in thickness. Seeds flattened, obliquely elliptic, plano-convex, $ 15 \times 13 \times 5 $ mm, with a hilum elevated on the convex side, rather rugose. Pl. 39, 6-11, p. 146.
 
 ## Type
 
@@ -35,9 +34,7 @@ Zenker 2436, Cameroun
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Récolté seulement 3 fois : une fois au Cameroun en fleurs et deux fois au Congo-Kinshasa, dont une fois avec fruits mûrs.
+Collected only 3 times: once in Cameroon in flower and twice in Congo-Kinshasa, including once with ripe fruits.
 
 ## Specimens examined
 
@@ -53,7 +50,7 @@ PL. 33. — Strychnos johnsonii Hutch. & M. B. Moss : 1, rameau × ½; 2, rameau
 
 ![Strychnos zenkeri](../sources/Loganiaceae_vol19_paddle/figures/fig_039_p0148.png)
 
-*PL. 39. — Strychnos staudtii Gilg : 1, rameau × 1/2; 2, fleur × 3; 3, dissection de la fleur × 3; 4, pistil × 3; 5, graine × 1/2 (1-5 : Breteler c. s. 2575). — Strychnos zenkeri Gilg ex. Bak. : 6, rameau × 1/2; 7, fleur × 4; 8, dissection de la fleur × 4; 9, pistil × 4; 10, fruit × 1/2; 11, graine × 1/2 (6-9 : Zenker 2436; 10-11 : d'après Pierlot 2373, Congo-Kinshasa, BR, WAG).*
+*PL. 39. — Strychnos staudtii Gilg : 1, branch × 1/2; 2, flower × 3; 3, flower dissection × 3; 4, pistil × 3; 5, seed × 1/2 (1-5 : Breteler c. s. 2575). — Strychnos zenkeri Gilg ex. Bak. : 6, branch × 1/2; 7, flower × 4; 8, flower dissection × 4; 9, pistil × 4; 10, fruit × 1/2; 11, seed × 1/2 (6-9 : Zenker 2436; 10-11 : after Pierlot 2373, Congo-Kinshasa, BR, WAG).*
 
 ## Notes
 

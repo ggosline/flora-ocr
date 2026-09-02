@@ -7,6 +7,9 @@ family: Orchidaceae
 vol: 36
 pages: 45-45
 source: sources/Orchidaceae_vol36_paddle
+countries: [Angola, Burundi, Cameroon, Central African Republic, Cote d'Ivoire, Gabon, Ghana, Guinea, Liberia, Nigeria, Senegal, Sierra Leone, Sudan, Tanzania, Uganda, Zambia]
+in_region: true
+habitat: [savanna]
 tags: [species, generated]
 ---
 # *Habenaria genuflexa* Rendle
@@ -57,7 +60,7 @@ Thollon 163, 195, 4069 & 4070, Libreville (fl., Dec.), P! ; s.n., s.loc., BR!, P
 
 ![Habenaria genuflexa](../sources/Orchidaceae_vol36_paddle/figures/fig_017_p0047.png)
 
-*PL. 17. – Habenaria genuflexa Rendle: A, éperon, ovaire, pédicelle et bractée ; B, labelle ; C, sépale dorsal ; D, pétale ; E, sépale latéral ; F, gynostème, vue latérale ; G, partie centrale du gynostème, vue antérieure (A-G, Koechlin 4715, P).*
+*PL. 17. – Habenaria genuflexa Rendle: A, spur, ovary, pedicel and bract ; B, labellum ; C, dorsal sepal ; D, petal ; E, lateral sepal ; F, gynosteme, lateral view ; G, central part of the gynosteme, front view (A-G, Koechlin 4715, P).*
 
 ## Notes
 

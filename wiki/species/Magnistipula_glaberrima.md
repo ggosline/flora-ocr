@@ -7,6 +7,9 @@ family: Scytopetalaceae
 vol: 24
 pages: 89-90
 source: sources/Chrysobalanaceae_vol24_paddle
+countries: [Cameroon, Gabon]
+in_region: true
+habit: "tree"
 tags: [species, generated]
 ---
 # *Magnistipula glaberrima* Engler
@@ -51,7 +54,7 @@ Le Testu 6026, Moucouna, 35 km NE Mouila (fl., août).
 
 ![Magnistipula glaberrima](../sources/Chrysobalanaceae_vol24_paddle/figures/fig_026_p0091.png)
 
-*PL. 26.—Magnistipula glaberrima Engl.: 1, rameau avec fleurs × 2/3; 2, 2′, stipules et glandes foliaires × 1; 3, bouton floral × 4; 4, fleur (pét. excl.) × 4; 5, fleur ouverte × 5. (1, 3-5, Le Testu 6026; 2-2′, Letouzey 9094).*
+*PL. 26.—Magnistipula glaberrima Engl.: 1, branch with flowers × 2/3; 2, 2′, stipules and foliar glands × 1; 3, floral bud × 4; 4, flower (pet. excl.) × 4; 5, open flower × 5. (1, 3-5, Le Testu 6026; 2-2′, Letouzey 9094).*
 
 ## Notes
 

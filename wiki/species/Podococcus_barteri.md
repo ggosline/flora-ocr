@@ -7,6 +7,11 @@ family: Arecaceae
 vol: 53
 pages: 54-55
 source: sources/Arecaceae_vol53_liteparse
+countries: [Angola, Cameroon, Democratic Republic of the Congo, Equatorial Guinea, Gabon, Nigeria, Republic of the Congo]
+in_region: true
+subdivisions:
+  Gabon: [Estuaire, Moyen-Ogooué, Ngounié, Nyanga, Woleu-Ntem]
+altitude_m: "500"
 tags: [species, generated]
 ---
 # *Podococcus barteri* G.Mann & H.Wendl. Planche 18, Figure 5G,H

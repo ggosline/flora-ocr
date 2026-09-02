@@ -7,6 +7,9 @@ family: Orchidaceae
 vol: 36
 pages: 50-51
 source: sources/Orchidaceae_vol36_paddle
+countries: [Angola, Cameroon, Central African Republic, Cote d'Ivoire, Gabon, Ghana, Guinea, Liberia, Malawi, Mozambique, Nigeria, Sierra Leone, Tanzania, Uganda, Zimbabwe]
+in_region: true
+habitat: [riverine, evergreen forest]
 tags: [species, generated]
 ---
 # *Podandriella macrandra* (Lindl.) Szlach. & Olsz.
@@ -41,7 +44,7 @@ The specimen Thollon 1084, "Gabon. Congo", "Niari Region, from Brazzaville to Co
 
 ![Podandriella macrandra](../sources/Orchidaceae_vol36_paddle/figures/fig_019_p0050.png)
 
-*PL. 19. – Structure du gynostème du genre Podandriella Rolfe: A, partie inférieure, vue latérale ; B, idem, vue antérieure ; C, rostelle et stigma étalés, vue antérieure (A-C, ex SzLACHETKO & RUTKOWSKI 2000).*
+*PL. 19. – Structure of the gynosteme of the genus Podandriella Rolfe: A, lower part, lateral view ; B, same, anterior view ; C, rostellum and stigma spread out, anterior view (A-C, ex SzLACHETKO & RUTKOWSKI 2000).*
 
 ## Notes
 

@@ -7,6 +7,9 @@ family: Icacinaceae
 vol: 20
 pages: 44-46
 source: sources/Icacinaceae_vol20_paddle
+countries: [Gabon, Liberia]
+in_region: true
+habit: "shrub"
 tags: [species, generated]
 ---
 # *Desmostachys vogelii* (Miers) Stapf

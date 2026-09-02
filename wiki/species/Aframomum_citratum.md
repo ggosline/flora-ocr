@@ -4,10 +4,8 @@ name: Aframomum citratum
 authority: (Pereira ex Oliv. et Hanb.) K. Schum.
 genus: Aframomum
 family: Zingiberaceae
-countries: [Guinea, Nigeria, Cameroon, Gabon]
-in_region: true
-habit: rhizomatous herb
 treatments: [{vol: 9, pages: "44–46", source: sources/Zingiberaceae_vol9_paddle}]
+habit: "herb"
 tags: [species]
 ---
 # *Aframomum citratum* (Pereira ex Oliv. et Hanb.) K. Schum.

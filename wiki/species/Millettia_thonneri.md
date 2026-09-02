@@ -7,6 +7,13 @@ family: Leguminosae
 vol: 49
 pages: 299-300
 source: sources/Millettiaspeciesfabaceae_vol49_liteparse
+countries: [Democratic Republic of the Congo, Gabon]
+in_region: true
+subdivisions:
+  Gabon: [Ogooué-Maritime]
+habit: "tree"
+habitat: [riverine]
+altitude_m: "430"
 tags: [species, generated]
 ---
 # *Millettia thonneri* De Wild. Planche 95.5,6 & 96.6–10

@@ -7,6 +7,8 @@ family: Pteridophytes
 vol: 08
 pages: 19-22
 source: sources/Salviniaceae_vol08_paddle
+countries: [Angola, Democratic Republic of the Congo, Guinea]
+in_region: true
 tags: [species, generated]
 ---
 # *Selaginella myosorus* (Sw.) Alston
@@ -22,13 +24,9 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 — Alston, J. Bot. 72 : 64 (1932); Mém. IFAN 50 : 29 (1957); FWTA : 15 (1959).
 
-Rhizophores de 30 cm de long sur 0,75 mm de diamètre, extra-axillaires, straminés ou chamois sur le sec, glabres, abruptement défléchis. Rhizophores ventraux, représentés parfois par une courte papille. Tiges principales non articulées, grimpantes et plus ou moins enroulées de droite à gauche. Contour de l'ensemble des ramifications latérales oblong-lancéolé; ramifications latérales pennées, ayant environ 12 cm de long sur 4 de large, à feuilles latérales espacées sur l'axe principal et imbriquées sur les ramifications ultimes; ramifications ultimes ayant environ 2 cm de long sur 7 de large (feuilles incluses). Feuilles homomorphes sur la tige principale, hétéromorphes ailleurs. Feuilles de la tige principale longues d'environ 3 mm, espacées d'environ 1 cm ovales, subulées, aiguës ou acuminées, subentières, avec deux larges auricules aiguës à la base. Feuilles latérales des branches principales inéquilatérales, le côté supérieur semi-lancéolé, arrondi à la base. Feuilles latérales des ramifications ultimes de 3 cm de long sur 1 cm de large, légèrement falciformes, mucronées-acuminées au sommet, inéquilatérales, la moitié supérieure linéaire-oblongue, arrondie à la base, la supérieure légèrement oblongue-linéaire,
-
-tronquée à la base, subentière. Nervure médiane surélevée à la face supérieure, n'atteignant pas tout à fait le sommet. Marges avec 1-3 rangs de cellules allongées. Feuilles axillaires ovales, aiguës, denticulées, avec ou sans courtes auricules. Feuilles médianes ovales-lancéolées, à limbe de 1 mm de long environ, denticulées, acuminées, longuement aristées, l'arête ayant environ la moitié de la longueur du limbe. Strobile solitaire à l'extrémité des branches ultimes, ayant généralement environ 1 cm de long sur 2 mm de diamètre. Sporophylles homomorphes (sauf ceux à mégasporanges, qui sont légèrement plus larges), ovales-deltoïdes, longuement acuminés-aristés, serrulés, articulés. Mégaspores de très grande taille, ayant environ 0,7 mm de diamètre, fortement réticulées, à réseau gris blanc sur une surface plus foncée. Microspores de 35-40 μ de diamètre, avec une marque triradiée s'étendant jusqu'à la marge, la surface adaxiale finement verruqueuse, l'abaxiale rugueuse, l'anneau lisse, de 5-7 μ d'épaisseur.
+Rhizophores 30 cm long by 0.75 mm in diameter, extra-axillary, straw-coloured or tan when dry, glabrous, abruptly deflexed. Ventral rhizophores, sometimes represented by a short papilla. Main stems not articulate, climbing and more or less coiled from right to left. Outline of the whole lateral branching oblong-lanceolate; lateral branches pinnate, approximately 12 cm long by 4 cm wide, with lateral leaves spaced on the main axis and imbricate on the ultimate branchlets; ultimate branchlets approximately 2 cm long by 7 mm wide (leaves included). Leaves homomorphic on the main stem, heteromorphic elsewhere. Leaves of the main stem approximately 3 mm long, spaced about 1 cm apart, oval, subulate, acute or acuminate, subentire, with two broad acute auricles at the base. Lateral leaves of the main branches inequilateral, the upper side semi-lanceolate, rounded at the base. Lateral leaves of the ultimate branchlets 3 cm long by 1 cm wide, slightly falcate, mucronate-acuminate at the apex, inequilateral, the upper half linear-oblong, rounded at the base, the lower half slightly oblong-linear, truncate at the base, subentire. Midvein raised on the upper surface, not quite reaching the apex. Margins with 1-3 rows of elongate cells. Axillary leaves oval, acute, denticulate, with or without short auricles. Median leaves oval-lanceolate, with a lamina approximately 1 mm long, denticulate, acuminate, long-aristate, the awn approximately half the length of the lamina. Strobilus solitary at the apex of the ultimate branches, generally approximately 1 cm long by 2 mm in diameter. Sporophylls homomorphic (except those with megasporangia, which are slightly wider), oval-deltoid, long acuminate-aristate, serrulate, articulate. Megaspores very large, approximately 0.7 mm in diameter, strongly reticulate, with a greyish-white network on a darker surface. Microspores 35–40 μ in diameter, with a triradiate mark extending to the margin, the adaxial surface finely verrucose, the abaxial surface rugose, the annulus smooth, 5–7 μ thick.
 
 ## Type
 
@@ -36,9 +34,7 @@ Afzelius, Sierra-Leone
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-De la Guinée ex-française au Congo ex-belge et en Angola. Xérohéliophile, en lisière forestière arbustive.
+From former French Guinea to former Belgian Congo and in Angola. Xerophilous and heliophilous, in shrubby forest margin.
 
 ## Specimens examined
 

@@ -7,6 +7,12 @@ family: Arecaceae
 vol: 53
 pages: 31-32
 source: sources/Arecaceae_vol53_liteparse
+countries: [Angola, Benin, Democratic Republic of the Congo, Gabon, Ghana, Guinea, Guinea-Bissau, Republic of the Congo, Togo]
+in_region: true
+subdivisions:
+  Gabon: [Ogooué-Maritime]
+habit: "tree"
+altitude_m: "100"
 tags: [species, generated]
 ---
 # *Hyphaene guineensis* Schumach. & Thonn. Figure 1A-D

@@ -5,16 +5,15 @@ authority: Engl.
 genus: Nothospondias
 family: Simaroubaceae
 synonyms: [Nothospondias Talbotii S. Moore]
-countries: [Côte d'Ivoire, Gabon]
 range_note: "Côte d’Ivoire to Gabon and Mayombe"
-countries_incomplete: true
-in_region: true
-habit: tree
 treatments:
   - vol: 3
     year: 1962
     pages: "52–54"
     source: sources/Simaroubaceae_vol3_paddle
+countries: [Gabon]
+in_region: true
+habit: "tree"
 tags: [species]
 ---
 

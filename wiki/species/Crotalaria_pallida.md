@@ -7,6 +7,10 @@ family: Leguminosae
 vol: 49
 pages: 101-103
 source: sources/Millettiaspeciesfabaceae_vol49_liteparse
+countries: [Gabon]
+in_region: true
+habit: "herb"
+altitude_m: "0–1500"
 tags: [species, generated]
 ---
 # *Crotalaria pallida* Aiton var. pallida Planche 31

@@ -7,6 +7,9 @@ family: Sterculiaceae
 vol: 02
 pages: 15-17
 source: sources/Sterculiaceae_vol02_paddle
+countries: [Guinea]
+in_region: false
+habit: "tree"
 tags: [species, generated]
 ---
 # *Sterculia tragacantha* Lindley.
@@ -20,21 +23,17 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 $  = \text{St. obovata R. Br.}  $
 
-, réf. orig. — K. SCHUM., Engl. Monogr. Afr. Pfl. V, Sterc.: 102 (1900). — HUTCH. et DALZ. F.W.T.A.: 251 (1928). — PELLEGR., Mém. Soc. Bot. Sterc. Gab.: 30 (1950-1951). — F.W.T.A., 2° éd. I : 321 (1958). — AUBR. F.F.C.I., 2° éd. II : 272 (1959).
+, original reference — K. SCHUM., Engl. Monogr. Afr. Pfl. V, Sterc.: 102 (1900). — HUTCH. et DALZ. F.W.T.A.: 251 (1928). — PELLEGR., Mém. Soc. Bot. Sterc. Gab.: 30 (1950-1951). — F.W.T.A., 2nd ed. I : 321 (1958). — AUBR. F.F.C.I., 2nd ed. II : 272 (1959).
 
-Arbre petit ou grand, pouvant atteindre 0,75 m de diam. et 25 m de haut (Aubréville) ou même 35 m (Fleury). Stipules caduques. Feuilles simples, entières, plus ou moins groupées sur les jeunes extrémités brunes pubescentes des rameaux. Pétiole cylindrique de 0,5 à 5,5 cm de long, à pubescence roussâtre. Limbe obové de 9-19 cm de long, sur 5-12 cm de large, à base arrondie, à sommet largement arrondi avec un court acumen; poils étoilés en duvet serré sur la face inférieure et très clairsemés sur la face
+Small to large tree, reaching 0.75 m diameter and 25 m tall (Aubréville) or even 35 m (Fleury). Stipules caducous. Leaves simple, entire, more or less grouped on young brown pubescent branch tips. Petiole cylindric 0.5 to 5.5 cm long, with reddish-brown pubescence. Blade obovate 9–19 cm long, by 5–12 cm wide, with rounded base, apex broadly rounded with a short acumen; stellate hairs in dense tomentum on the lower face and very scattered on the upper face; 3–5 basal palmate nerves, 4–7 pairs pinnate along the midvein.
 
-supérieure; 3-5 nervures palmées basilaires, 4-7 paires pennées le long de la médiane.
+Inflorescences generally pendulous, axillary to leaves or caducous bracts, grouped on young pubescent branch tips. The inflorescence is an elongate raceme reaching 9–16 cm, with tawny ochraceus pubescence, with more or less sinuous rachis, with numerous acute ovate bracteoles, hairy, rapidly caducous, protective in young inflorescence; the peduncle 1.5 to 6 cm long develops before rachis elongation; the lateral branches are numerous small, often dense racemes, 10 to 30 mm long. Flower more or less pinkish-red or brownish, 3–5 mm diameter, with slender hairy pedicel reaching 4–8 mm long, articulate in its upper third. Perianth composed of a calyx densely pubescent externally, with tube taller than wide and pilose in its upper internal part, with 5 narrow, arched lobes united and adhering apically. Flower ♂ with capitate androecium 2–4 mm long, with glabrous slender column. Flower ♀ with gynoecium 3–5 mm tall, with globose hairy ovary, with 5 carpels each containing 5–8 ovules. Style hairy, stigmas adhering to each other, glabrous. Base of ovary surrounded by a crown of 10 sessile stamens.
 
-Inflorescences généralement pendantes, axillées par des feuilles ou des bractées caduques, groupées sur les jeunes extrémités pubescentes des rameaux. L'inflorescence est une grappe allongée atteignant 9-16 cm, à pubescence fauve ochracé, à rachis plus ou moins sinueux, à nombreuses bractéoles ovées aiguës, velues, rapidement caduques, protectrices dans la jeune inflorescence; le pédoncule de 1,5 à 6 cm de long se développe avant l'élongation du rachis; les ramifications latérales sont de petites grappes nombreuses, souvent serrées, de 10 à 30 mm de long. Fleur d'un rouge plus ou moins rosé ou brunâtre, de 3-5 mm diam., à pédicelle velu grêle atteignant 4-8 mm de long, articulé en son tiers supérieur. Périanthe composé d'un calice densément pubescent à l'extérieur, à tube plus haut que large et poilu dans sa partie supérieure interne, à 5 lobes étroits, arqués et réunis adhérents apicalement. Fleur ♂ à androcée capité de 2-4 mm de long, à colonne glabre et grêle. Fleur ♀ à gynécée de 3-5 mm de haut, à ovaire globuleux velu, à 5 carpelles contenant chacun 5-8 ovules. Style velu, stigmates adhérents entre eux, glabres. Base de l'ovaire entourée d'une couronne de 10 étamines sessiles.
+Fruit composed of 5 or fewer than 5 navicular follicles 6 to 7 cm long by 2.5–3 cm wide, pedicellate for nearly 1 cm, bright red at maturity and persistent after dehiscence, puberulent externally, pubescent internally, containing 5 or 6 ellipsoid seeds 15 mm long, with thin black integument, with narrow hilum.
 
-Fruit composé de 5 ou moins de 5 follicules naviculaires de 6 à 7 cm de long sur 2,5-3 cm de large, pédonculés sur près d'un cm, rouge vif à maturité et persistants après déhiscence, pubérulents extérieurement, pubescents intérieurement, contenant 5 ou 6 graines ellipsoïdes de 15 mm de long, à légument noir mince, à hile étroit.
-
-Cette espèce commune est largement répandue en Afrique Tropicale Occidentale entre la Guinée, le Soudan, l'Oubangui-Chari et jusqu'en Angola. Cet arbre aime la lumière et se rencontre dans la végétation dégradée secondaire. De croissance rapide, son bois blanc-grisâtre est très tendre.
+This common species is widely distributed in Tropical West Africa between Guinea, Sudan, Oubangui-Chari and as far as Angola. This tree loves light and is found in degraded secondary vegetation. Of rapid growth, its whitish-greyish wood is very tender.
 
 ## Vernacular names
 
@@ -44,19 +43,17 @@ Ezelfouk, Ezelfou (Fang); Mondundu, Gesongo-songo (Mitsogho); Mundundu (Bapounou
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Utilisation. L'écorce est très fibreuse, celle des jeunes rameaux peut servir à faire des liens. Jeunes feuilles probablement comestibles. Jeunes pousses et décoction des fibres de l'écorce signalées comme vermifuges en Guinée Fse. La gomme adragante exudée par les blessures de l'écorce ou des fruits est sans valeur commerciale, elle a été trouvé dans de la gomme arabique falsifiée.
+Uses. The bark is very fibrous; that of young branches can be used to make ties. Young leaves probably edible. Young shoots and decoction of bark fibres reported as vermifuges in French Guinea. The gum arabic exuded by wounds of the bark or fruits is of no commercial value; it has been found in adulterated gum arabic.
 
 ## Figures
 
 ![Sterculia tragacantha](../sources/Sterculiaceae_vol02_paddle/figures/fig_001_p0007.png)
 
-*PL. I. — Fleurs ouvertes en long : 1, Sterculia tragacantha ♂. — 2, Eribroma oblonga ♂. — 3, Pterygota bequaertii ♂. — 4, Tarrietia densiflora ♂. — 5, Chlamydocolachlamydanta ♂. — 6, Cola acuminata ♂. — 7, Cola (Neocourtenia) mahoundensis ♂. — 8, Octolobus heteromerus ♂. — 9, Triplochiton scleroxylon. — 10, Theobroma cacao. — 11, Scaphopetalum blackii. — 12, Byttneria grossedenticulata. — 13, Nesogordonia fouassieri. — 14, Leptonychia lasiogyne. — 15, Waltheria indica.*
+*PL. I. — Flowers opened lengthwise : 1, Sterculia tragacantha ♂. — 2, Eribroma oblonga ♂. — 3, Pterygota bequaertii ♂. — 4, Tarrietia densiflora ♂. — 5, Chlamydocolachlamydanta ♂. — 6, Cola acuminata ♂. — 7, Cola (Neocourtenia) mahoundensis ♂. — 8, Octolobus heteromerus ♂. — 9, Triplochiton scleroxylon. — 10, Theobroma cacao. — 11, Scaphopetalum blackii. — 12, Byttneria grossedenticulata. — 13, Nesogordonia fouassieri. — 14, Leptonychia lasiogyne. — 15, Waltheria indica.*
 
 ![Sterculia tragacantha](../sources/Sterculiaceae_vol02_paddle/figures/fig_003_p0019.png)
 
-*PL. III. — 1, Sterculia bequaerti De Wild., feuille et inflorescences; 2, follicule long de 9 cm; 3; fleur ♂; 4, bractée. — 5, Sterculia tragacantha Lindl., feuille et inflorescences; 6, bractée; 7, fleur ♀; 8, gynécée (Tisserant 1733, Oubangui); 9, autre forme de gynécée (Aubréville 752, Cameroun); 10, stigmates vus par dessus; 11, graine longue de 13 mm, vue latérale et coupe longitudinale (hile en bas).*
+*PL. III. — 1, Sterculia bequaerti De Wild., leaf and inflorescences; 2, follicle 9 cm long; 3; male flower; 4, bract. — 5, Sterculia tragacantha Lindl., leaf and inflorescences; 6, bract; 7, female flower; 8, gynoecium (Tisserant 1733, Oubangui); 9, another form of gynoecium (Aubréville 752, Cameroun); 10, stigmas viewed from above; 11, seed 13 mm long, viewed laterally and longitudinal section (hilum below).*
 
 ## Notes
 

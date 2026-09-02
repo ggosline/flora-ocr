@@ -41,7 +41,7 @@ Chevalier : 20150, Libreville; 2116, Cap Lopez. N. Hallé : 1550, Port-Gentil, f
 
 ![Lygodium microphyllum](../sources/Schizaeaceae_vol08_paddle/figures/fig_011_p0053.png)
 
-*PL. VIII. — Lygodium microphyllum (Cav.) R. Br. (Letouzey 1566) : 1, pennes fertiles × 2/3; 2, pennes stériles × 2/3; 3, articulation des pennes × 3; 4, sores × 4; — Lygodium Smithianum Pr. (Le Testu 1542) : 5, pennes stériles × 2/3; 6, détail de nervation × 4; 7, pennes fertiles × 2/3; 8, articulation de la penne × 3; 9, sores × 4.*
+*PL. VIII. — Lygodium microphyllum (Cav.) R. Br. (Letouzey 1566) : 1, fertile pinnae × 2/3; 2, sterile pinnae × 2/3; 3, articulation of the pinnae × 3; 4, sori × 4; — Lygodium Smithianum Pr. (Le Testu 1542) : 5, sterile pinnae × 2/3; 6, detail of venation × 4; 7, fertile pinnae × 2/3; 8, articulation of the pinna × 3; 9, sori × 4.*
 
 ## Notes
 

@@ -5,11 +5,10 @@ authority: Hemsl.
 genus: Gouania
 family: Rhamnaceae
 synonyms: []
-countries: [Nigeria, Cameroon, Equatorial Guinea, Gabon, Angola]
-countries_incomplete: true
-in_region: true
-habit: liana
 treatments: [{vol: 4, pages: "70–74", source: sources/Rhamnaceae_vol4_paddle}]
+countries: [Angola, Gabon, Nigeria]
+in_region: true
+habit: "liana"
 tags: [species]
 ---
 

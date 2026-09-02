@@ -7,6 +7,7 @@ family: Vitaceae
 vol: 14
 pages: 98-100
 source: sources/Vitaceae_vol14_paddle
+habit: "herb"
 tags: [species, generated]
 ---
 # *Cissus barbeyana* De Wild. et Th. Dur.
@@ -40,7 +41,7 @@ Klaine : 92, sans indication du lieu de récolte (août); 514 bis, Libreville (f
 
 ![Cissus barbeyana](../sources/Vitaceae_vol14_paddle/figures/fig_008_p0099.png)
 
-*PL. III. — Cissus Barbeyana de Wild. et Th. Dur.: 1, aspect général, × 7; 2, domaties à la face inférieure du limbe; 3, stipule, × 6; 4, fleur, × 5; 5, graine vue de profil à gauche et par la face ventrale, × 2,5. — Cissus Gossweileri Exell et Mendonça: 6, aspect général, × 5; 7, détail du bord du limbe; 8, stipule, × 6; 9, fleur, × 6; 10, étamine vue de profil et de face, × 20.*
+*PL. III. — Cissus Barbeyana de Wild. et Th. Dur.: 1, general appearance, × 7; 2, domatia on the lower surface of the blade; 3, stipule, × 6; 4, flower, × 5; 5, seed viewed in profile on the left and by the ventral surface, × 2,5. — Cissus Gossweileri Exell et Mendonça: 6, general appearance, × 5; 7, detail of the blade margin; 8, stipule, × 6; 9, flower, × 6; 10, stamen viewed in profile and from the front, × 20.*
 
 ## Notes
 

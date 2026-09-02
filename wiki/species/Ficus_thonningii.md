@@ -7,6 +7,9 @@ family: Moraceae
 vol: 26
 pages: 164-168
 source: sources/Moraceae_vol26_paddle
+countries: [Angola, Cameroon, Democratic Republic of the Congo, Equatorial Guinea, Gabon, Mozambique, Nigeria, Sao Tome and Principe, Sudan, Tanzania, Togo, Uganda, Zambia, Zimbabwe]
+in_region: true
+habitat: [savanna]
 tags: [species, generated]
 ---
 # *Ficus thonningii* Blume
@@ -139,7 +142,7 @@ Chevalier 4390, Libreville (stér.). Duparquet s.n., s. loc. (stér.). Fleury in
 
 ![Ficus thonningii](../sources/Moraceae_vol26_paddle/figures/fig_046_p0166.png)
 
-*PL. 45. – Ficus thonningii Bl.: 1-4, rameaux avec feuilles et figues × 1 (1, Leeuwenberg 7550, Cameroun; 2, De Wilde W.c.s. 3280, Cameroun; 3, Tisserant 1910, Centrafrique; 4, Breteler 323, Cameroun).*
+*PL. 45. – Ficus thonningii Bl.: 1-4, branches with leaves and figs × 1 (1, Leeuwenberg 7550, Cameroon; 2, De Wilde W.c.s. 3280, Cameroon; 3, Tisserant 1910, Central African Republic; 4, Breteler 323, Cameroon).*
 
 ## Notes
 

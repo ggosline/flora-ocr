@@ -7,6 +7,8 @@ family: Brassicaceae
 vol: 30
 pages: 13-17
 source: sources/Capparidaceae_vol30_paddle
+countries: [Angola, Cameroon, Central African Republic, Democratic Republic of the Congo, Gabon]
+in_region: true
 tags: [species, generated]
 ---
 # *Buchholzia tholloniana* Hua
@@ -65,7 +67,7 @@ Mayombe Bayaka (II.) BIM, K, P ; S.N., Massagna (II., Sept.), BIM. Pobéguin 35,
 
 ![Buchholzia tholloniana](../sources/Capparidaceae_vol30_paddle/figures/fig_002_p0014.png)
 
-*PL. 1. – Buchholzia tholloniana Hua : 1, rameau feuillé avec inflorescence × 1/3 ; 2, fruit ouvert montrant les graines × 1/3 ; 3, ovaire en coupe transversale × 8 ; 4-6, fleurs à divers stades de développement × 2 (Hallé & Le Thomas 349).*
+*PL. 1. – Buchholzia tholloniana Hua : 1, leafy branch with inflorescence × 1/3 ; 2, open fruit showing seeds × 1/3 ; 3, ovary in transverse section × 8 ; 4-6, flowers at various stages of development × 2 (Hallé & Le Thomas 349).*
 
 ## Notes
 

@@ -7,6 +7,9 @@ family: Icacinaceae
 vol: 20
 pages: 88-90
 source: sources/Icacinaceae_vol20_paddle
+countries: [Cameroon]
+in_region: true
+habit: "liana"
 tags: [species, generated]
 ---
 # *Pyrenacantha cordicula* Villiers, nom. nov.
@@ -38,11 +41,11 @@ This species is recorded from Cameroon without indicating the specimens collecte
 
 ![Pyrenacantha cordicula](../sources/Icacinaceae_vol20_paddle/figures/fig_021_p0089.png)
 
-*PL. 21. — Pyrenacanthal ongirostrata Villiers : 1, feuilles, inflorescence ♀ et infrutescences × 2/3; 2, détail du limbe × 2; 3, fleur ♀ × 8; 4, diagramme de la fleur ♀; 5, pétale face ext. × 7, coupe de l'ovaire × 8; 8, fruit × 1; 9, coupe trans. du fruit × 1,5. (1-9, Hallé N. & Villiers J.-F. 4968).*
+*PL. 21. — Pyrenacanthal ongirostrata Villiers : 1, leaves, ♀ inflorescence and infructescences × 2/3; 2, detail of the limb × 2; 3, ♀ flower × 8; 4, diagram of the ♀ flower; 5, petal outer surface × 7, ovary section × 8; 8, fruit × 1; 9, transverse section of the fruit × 1.5. (1-9, Hallé N. & Villiers J.-F. 4968).*
 
 ![Pyrenacantha cordicula](../sources/Icacinaceae_vol20_paddle/figures/fig_022_p0091.png)
 
-*PL. 22. — Pyrenacantha cordicula Villiers : 1, feuilles et inflo. ♂ × ½; 2, détail du limbe; 3, 3', bractée × 34; 4, bouton floral × 11; 5, fleur ♂ × 9; 6, diagramme floral; 7, pétale face ext. × 13; 8, 8', 8", étamine × 26, 5. (1-8", Leeuwenberg 2084).*
+*PL. 22. — Pyrenacantha cordicula Villiers : 1, leaves and male inflorescence × ½; 2, detail of limb; 3, 3', bract × 34; 4, floral bud × 11; 5, male flower × 9; 6, floral diagram; 7, petal external face × 13; 8, 8', 8", stamen × 26, 5. (1-8", Leeuwenberg 2084).*
 
 ## Notes
 

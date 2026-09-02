@@ -5,10 +5,9 @@ authority: (Sw.) Engl.
 genus: Afraegle
 family: Rutaceae
 synonyms: [Balsamocitrus gabonensis]
+treatments: [{vol: 6, pages: "103–106", source: sources/Rutaceae_vol6_paddle}]
 countries: [Gabon]
 in_region: true
-habit: woody plant
-treatments: [{vol: 6, pages: "103–106", source: sources/Rutaceae_vol6_paddle}]
 tags: [species, taxonomically-uncertain]
 ---
 

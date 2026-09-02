@@ -7,6 +7,11 @@ family: Convolvulaceae
 vol: 46
 pages: 35-39
 source: sources/Convolvulaceae_vol46_liteparse
+countries: [Gabon]
+in_region: true
+habit: "herb"
+habitat: [savanna]
+altitude_m: "1900"
 tags: [species, generated]
 ---
 # *Ipomoea blepharophylla* Hallier f. Planche 13

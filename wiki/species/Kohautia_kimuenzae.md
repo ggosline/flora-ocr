@@ -7,6 +7,9 @@ family: Rubiaceae
 vol: 12
 pages: 94-96
 source: sources/Rubiaceae_vol12_paddle
+countries: [Gabon, Rwanda]
+in_region: true
+habit: "herb"
 tags: [species, generated]
 ---
 # *Kohautia kimuenzae* (De Wild.) Brem.
@@ -43,7 +46,7 @@ Le Testu: 8081, savannas of Rwanda (= Moanda) (fl. May). Thollon: 103, Francevil
 
 ![Kohautia kimuenzae](../sources/Rubiaceae_vol12_paddle/figures/fig_021_p0095.png)
 
-*PL. 15. — Kohautia kimuenzae (De Wild.) Bremek. (Thollon 103, sauf 1 et 2) : 1, base de plante avec ses racines (A. Chev. 27424); 2, sommet florifère (Le Testu 8081); 3, entrenceud inférieur; 4, nœud; 5, fleur; 6 et 6', bouton et sa coupe; 7 et 7', sommet fructifère et fruit. — K. coccinea Royle (Hepper 1119, Nigeria) : 8, graine de 0,5 mm, profil et dessous.*
+*PL. 15. — Kohautia kimuenzae (De Wild.) Bremek. (Thollon 103, except 1 and 2) : 1, base of plant with its roots (A. Chev. 27424); 2, flowering apex (Le Testu 8081); 3, lower internode; 4, node; 5, flower; 6 and 6', bud and its section; 7 and 7', fruiting apex and fruit. — K. coccinea Royle (Hepper 1119, Nigeria) : 8, seed of 0,5 mm, profile and lower surface.*
 
 ## Notes
 

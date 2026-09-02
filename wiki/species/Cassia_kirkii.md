@@ -7,6 +7,7 @@ family: Leguminosae
 vol: 15
 pages: 54-55
 source: sources/Leguminosae_vol15_paddle
+habit: "herb"
 tags: [species, generated]
 ---
 # *Cassia kirkii* Oliver (P.L. 8, p. 55)

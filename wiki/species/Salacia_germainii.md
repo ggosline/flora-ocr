@@ -7,6 +7,8 @@ family: Celastraceae
 vol: 29
 pages: 109-112
 source: sources/Celastraceae_vol29_paddle
+countries: [Gabon]
+in_region: true
 tags: [species, generated]
 ---
 # *Salacia germainii* Wilczek

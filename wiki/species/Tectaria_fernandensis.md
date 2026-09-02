@@ -7,6 +7,7 @@ family: Aspidiaceae
 vol: 08
 pages: 182-184
 source: sources/Aspidiaceae_vol08_paddle
+habitat: [rocky ground]
 tags: [species, generated]
 ---
 # *Tectaria fernandensis* (Bak.) C. Christensen
@@ -21,11 +22,9 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 — C. Chr., Ind., Suppl. 3 : 179 (1934). — Tard., Mém. IFAN 28 : 148, pl. 28, f. 1 (1953). — Alston, FWTA : 74 (1959).
 
-Rhizome court, dressé, à frondes en touffes, pétiole long de 45-55 cm, straminé-grisàtre ou rougeâtre, canaliculé, portant, à l'extrême base, de larges écailles brun clair, lancéolées, échancrées à la base, plus foncées au centre. Limbe de 45-60 cm sur 20-30 de large, bipenné, portant des bourgeons à la face inférieure ou sur les deux faces. Pennes espacées de 7-8 cm, les inférieures longuement pétiolées, deltoïdes, ayant 15-20 cm de long sur 12-14, plus développées basiscopiquement. Pinnules profondément pinnatifides, à extrémité aiguë, presque toutes reliées entre elles par le rachis largement ailé, séparées les unes des autres par moins de leur largeur. Penne terminale deltoïde, profondément lobée, à lobes aigus, eux-mêmes lobés. Texture subcoriace. Surface inférieure portant une courte pilosité ainsi que la marge des sinus. Nervilles formant des aréoles généralement sans nervilles incluses; aréoles costales allongées. Sores à l'extrémité d'une nerville, généralement indusières.
+Rhizome short, erect, with fronds in tufts, petiole 45-55 cm long, straw-coloured or greyish-reddish, channeled, bearing at the extreme base large pale brown scales, lanceolate, emarginate at the base, darker at the centre. Lamina 45-60 cm by 20-30 cm wide, bipinnate, bearing buds on the lower surface or on both surfaces. Pinnae spaced 7-8 cm apart, the lower ones long-petiolulate, deltoid, 15-20 cm long by 12-14 cm, more developed basiscopic. Pinnules deeply pinnatifid, with acute apex, almost all connected to each other by the broadly winged rachis, separated from each other by less than their width. Terminal pinna deltoid, deeply lobed, with acute lobes, themselves lobed. Texture subcoriaceous. Lower surface bearing short piloseness as well as the margin of the sinuses. Veins forming areoles generally without included veinlets; costal areoles elongate. Sori at the apex of a veinlet, generally indusiate.
 
 ## Type
 
@@ -33,9 +32,7 @@ Henderson 461, Fernando-Po (K). Guinée, Côté-d'Ivoire, Libéria, Ghana, Togo,
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Forêt sur sol rocheux.
+Forest on rocky soil.
 
 ## Specimens examined
 

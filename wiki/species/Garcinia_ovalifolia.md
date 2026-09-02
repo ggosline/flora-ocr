@@ -7,6 +7,13 @@ family: Clusiaceae
 vol: 45
 pages: 33-34
 source: sources/Clusiaceae_vol45_liteparse
+countries: [Angola, Cameroon, Central African Republic, Democratic Republic of the Congo, Gabon, Guinea, Republic of the Congo, Sudan]
+in_region: true
+subdivisions:
+  Gabon: [Ogooué-Ivindo]
+habit: "tree"
+habitat: [primary forest]
+altitude_m: "500"
 tags: [species, generated]
 ---
 # *Garcinia ovalifolia* Oliv.

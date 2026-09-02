@@ -7,6 +7,8 @@ family: Orchidaceae
 vol: 36
 pages: 135-137
 source: sources/Orchidaceae_vol36_paddle
+countries: [Cameroon, Central African Republic, Cote d'Ivoire, Gabon, Liberia, Nigeria, Sierra Leone]
+in_region: true
 tags: [species, generated]
 ---
 # *Bulbophyllum barbigerum* Lindl.

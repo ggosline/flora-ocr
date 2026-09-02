@@ -7,6 +7,9 @@ family: Erythroxylaceae
 vol: 21
 pages: 54-55
 source: sources/Erythroxylaceae_vol21_paddle
+countries: [Democratic Republic of the Congo, Guinea]
+in_region: true
+habit: "tree"
 tags: [species, generated]
 ---
 # *Erythroxylum mannii* Oliver

@@ -7,6 +7,8 @@ family: Ixonanthaceae
 vol: 21
 pages: 62-65
 source: sources/Ixonanthaceae_vol21_paddle
+countries: [Democratic Republic of the Congo, Gabon]
+in_region: true
 tags: [species, generated]
 ---
 # *Ochthocosmus congolensis* De Wildeman & Th. Durand

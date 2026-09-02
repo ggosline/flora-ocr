@@ -7,6 +7,11 @@ family: Clusiaceae
 vol: 45
 pages: 24-25
 source: sources/Clusiaceae_vol45_liteparse
+countries: [Angola, Cameroon, Central African Republic, Cote d'Ivoire, Democratic Republic of the Congo, Gabon, Ghana, Liberia, Nigeria, Republic of the Congo, Sierra Leone]
+in_region: true
+habit: "tree"
+habitat: [gallery forest, swamp forest, secondary forest, riverine]
+altitude_m: "800"
 tags: [species, generated]
 ---
 # *Garcinia epunctata* Stapf

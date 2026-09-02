@@ -7,6 +7,13 @@ family: Convolvulaceae
 vol: 46
 pages: 47-49
 source: sources/Convolvulaceae_vol46_liteparse
+countries: [Cameroon, Gabon, Nigeria, Sierra Leone]
+in_region: true
+subdivisions:
+  Gabon: [Ogooué-Ivindo]
+habit: "herb"
+habitat: [riverine]
+altitude_m: "640"
 tags: [species, generated]
 ---
 # *Lepistemon parviflorum* Pilg. ex Büsgen Planche 20

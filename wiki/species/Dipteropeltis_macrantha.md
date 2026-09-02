@@ -7,6 +7,13 @@ family: Convolvulaceae
 vol: 46
 pages: 27-27
 source: sources/Convolvulaceae_vol46_liteparse
+countries: [Gabon]
+in_region: true
+subdivisions:
+  Gabon: [Estuaire, Moyen-Ogooué, Woleu-Ntem]
+habit: "liana"
+habitat: [secondary forest]
+altitude_m: "0–600"
 tags: [species, generated]
 ---
 # *Dipteropeltis macrantha* Breteler Planche 8

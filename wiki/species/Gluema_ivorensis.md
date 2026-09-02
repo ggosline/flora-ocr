@@ -5,17 +5,13 @@ authority: Aubrev. & Pellegr.
 genus: Gluema
 family: Sapotaceae
 synonyms: []
-habit: tree
-habitat: [river margins, humid forest]
-altitude_m: ""
-countries: [Côte d'Ivoire, Gabon]
-subdivisions:
-  Gabon: [Estuaire]
-in_region: true
 treatments:
   - vol: 1
     pages: "75-78"
     source: sources/Sapotaceae_vol01_paddle
+countries: [Cote d'Ivoire, Gabon]
+in_region: true
+habit: "tree"
 tags: [species]
 ---
 

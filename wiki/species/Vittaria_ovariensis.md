@@ -7,6 +7,8 @@ family: Vittariaceae
 vol: 08
 pages: 102-103
 source: sources/Vittariaceae_vol08_paddle
+countries: [Equatorial Guinea, Ghana, Liberia, Nigeria]
+in_region: true
 tags: [species, generated]
 ---
 # *Vittaria ovariensis* Fée (P.l. XXV p. 163)
@@ -21,11 +23,9 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 — Fée 3e mém.: 21 t. 3 f. 2 (1851-52). — Tard. Mém. IFAN 28 : 204, pl. 40 3-4 (1953). — Alston FWTA : 35 (1959).
 
-Rhizome courtement rampant, à frondes rapprochées, portant des écailles étroitement deltoïdes, très longuement et étroitement effilées, formées de cellules à parois épaisses, noires, lumière incolore. Limbe long de 15-20 cm, sur 0,3 de large, linéaire, coriace, progressivement rétréci à la base sur un court pétiole brun clair, à extrémité aiguë. Limbe enroulé sur le sec; nervure médiane peu apparente. Sores marginaux, profondément enfoncés. Paraphyses cyathiformes, à ouverture dilatée. Spores ovales, lisses.
+Rhizome shortly creeping, with fronds closely set, bearing narrowly deltoid scales, very elongate and narrowly tapering, formed of cells with thick walls, black, colourless in transmitted light. Frond 15–20 cm long, 0.3 cm wide, linear, coriaceous, gradually narrowed at the base on a short pale brown petiole, acute at the apex. Frond enrolled when dry; midvein scarcely apparent. Sori marginal, deeply sunken. Paraphyses cyathiform, with dilated opening. Spores ovate, smooth.
 
 ## Type
 
@@ -33,9 +33,7 @@ Palisot de Beauvois, royaume d'Oware (S Nigeria), in herb. Bory (P)
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Libéria, Ghana, Nigeria, Ile du Prince, San-Thomé, Annon-bon.
+Liberia, Ghana, Nigeria, Prince Island, São Thomé, Annobón.
 
 ## Specimens examined
 

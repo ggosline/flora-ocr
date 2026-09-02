@@ -7,6 +7,8 @@ family: Acanthaceae
 vol: 13
 pages: 104-107
 source: sources/Acanthaceae_vol13_paddle
+countries: [Angola, Cameroon, Cote d'Ivoire, Equatorial Guinea, Gabon, Ghana, Liberia, Nigeria, Sierra Leone, Uganda]
+in_region: true
 tags: [species, generated]
 ---
 # *Stenandriopsis guineensis* (Nees) R. Benoist
@@ -21,15 +23,13 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 ≡ Crossandra guineensis Nees, DC. Prodr. 11 : 281 (1847). — Hooker, Bot. Mag. 104, t. 6346 (1878). — C. B. Clarke, F.T.A. 5 : 117 (1899). — Pellegrin, Mém. Soc. Linn. Normandie, N. S., sect. Bot. 1 (3) : 45 (1928). — Milne-Redhead, Bull. Misc. Inform. Kew 1935, 281, 282, fig. 2 (1935).
 
-Plante assez gracile, dressée ou ascendante, à tige un peu ligneuse à la base, très variable suivant les conditions écologiques, de 30-40 cm de hauteur, pubescente-poilue, surtout sur les parties nouvelles. Pétiole de (0,5) 1-2 cm. Limbe des feuilles ovale-elliptique ou obovale, de 8-13 × 3,5-5 (8) cm; marges des plus grandes feuilles sinuées-ondulées; base toujours arrondie, rarement un peu cordée; sommet arrondi ou acuminé, mais dans ce dernier cas avec une extrémité très obtuse. 5-7 paires de nervures latérales, ça et là le réseau des nervures est blanc dessus d'où l'aspect panaché des feuilles; face inférieure rouge-pourpre.
+Rather gracile plant, erect or ascending, with stem somewhat woody at the base, highly variable according to ecological conditions, 30-40 cm in height, pubescent-hairy, especially on new parts. Petiole (0.5) 1-2 cm. Leaf blade ovate-elliptic or obovate, 8-13 × 3.5-5 (8) cm; margins of the largest leaves sinuate-undulate; base always rounded, rarely somewhat cordate; apex rounded or acuminate, but in the latter case with a very obtuse extremity. 5-7 pairs of lateral veins, here and there the vein network is white above giving the leaves a variegated appearance; lower surface red-purple.
 
-Inflorescences terminales, en forme d'épi, de 3-15 cm de long; bractées lancéolées, acuminées, jusqu'à 2 cm de long et 5 cm de large, à pointe longuement acidulaire, faiblement dentées; il y a en général 1-3 dents par côté, 4-6 chez les grands spécimens bien développés; les dents dépassent rarement 1 mm de longueur. Bractéoles étroitement lancéolées, d'environ 10 × 1-1,5 mm. Calice de 6 mm, à sépales ressemblant aux bractéoles, blanc à l'état vivant; sépale postérieur de 5 mm de long, à une nervure, entier, à pointe aciculaire. Corolle lilas pâle ou blanche, à tube de 9 mm de long; lobes de 4,5 cm de long, obovales. Anthères incluses, uniloculaires à poils le long du connectif. Style glabre, à quelques poils à la base.
+Terminal inflorescences, spike-shaped, 3-15 cm long; bracts lanceolate, acuminate, up to 2 cm long and 5 cm wide, with a long acicular point, weakly dentate; generally there are 1-3 teeth per side, 4-6 in large well-developed specimens; the teeth rarely exceed 1 mm in length. Bracteoles narrowly lanceolate, approximately 10 × 1-1.5 mm. Calyx 6 mm, with sepals resembling the bracteoles, white in living state; posterior sepal 5 mm long, with one vein, entire, with an acicular point. Corolla pale lilac or white, with tube 9 mm long; lobes 4.5 cm long, obovate. Anthers included, unilocular with hairs along the connective. Style glabrous, with a few hairs at the base.
 
-Capsule de 12-13 mm, lancéolée, à 4 graines, glabres. Graines tuberculées-papilleuses.
+Capsule 12-13 mm, lanceolate, with 4 glabrous seeds. Seeds tuberculate-papillose.
 
 ## Type
 
@@ -37,27 +37,23 @@ Guinea, sans indication du collecteur ni de la date, herb. Hooker (K, holotype!)
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Sierra Leone, Liberia, Côte d'Ivoire, Ghana, Nigeria, Cameroon, Fernando Po, Gabon, Cabinda, Congo, Uganda.
 
-Sierra-Leone, Liberia, Côte-d'Ivoire, Ghana, Nigeria, Cameroun, Fernando-Po, Gabon, Cabinda, Congo, Uganda.
+Hallé: 761, La Nkoulounga (fl. 15 July 1959); 1278, Bélinga (fl. 22 Feb. 1961), viviparus specimen; 1347, Mboundou (fl. 27 Feb. 1961); 2112, Matadi, 10 km SW of Lambaréné (fl. 30 May 1963), fl. very pale violet, buds erect, pale green erect spike, mud, waterlogged ground, under shaded woodland, cylindrical green pubescent stem 5 mm diam.; 2302, near Abanga river, C.E.F.A. Work site (fl. and fr. 6 June 1963) fl. very pale violaceous, thick cylindrical stem.
 
-Hallé : 761, La Nkoulounga( fr. 15 juil. 1959); 1278, Bélinga (fl. 22 fév. 1961), spécimen vivipare; 1347, Mboundou (fl. 27 fév. 1961); 2112, Matadi, 10 km SW de Lambaréné (fl. 30 mai 1963), fl. violet très pâle, boutons dressés, épi vert pâle dressé, boue, terrain détrempé, sous bois ombragé, tige cylindrique verte pubescente de 5 mm de diam.; 2302, près rivière
+Hallé and Cours: 5921, Ovala env. of Etéké (fl. 16 May 1963), very humid shaded valley, around 900 m, erect 0.75 m, thick fleshy stem 9 mm diam. at mid-height, erect spike, flowers pale violet with white tube, the 2 upper petals smaller with a violet spot toward the base, in the bud all petals are folded toward the upper part; 6080, Moumba, env. of Etéké, between 750 and 800 m, (fl. 19 May 1963), erect 0.20 m, dark green leaves, clear spike, light violet corolla spreading.
 
-Abanga, Chantier C.E.F.A. (fl. et fr. 6 juin 1963) fl. violacé très pâle, tige cylindrique épaisse.
+Klaine: 876, Libreville (fl. 8 Apr. 1891); 2198, Libreville (fl. 24 Apr. 1901). Mgr Le Roy: Ogooué (1894-95).
 
-Hallé et Cours : 5921, Ovala env. d'Etéké (fl. 16 mai 1963), vallon ombragé très humide, vers 900 m., dressée 0,75 m, tige épaisse charnue de 9 mm de diam. à mi-hauteur, épi dressé, fleurs violet pâle à tube blanc, les 2 pétales supérieures plus petits avec une tache violette vers la base, dans le bouton tous les pétales sont repliés vers la partie supérieure; 6080, Moumba, env. d'Etéké, entre 750 et 800 m, (fl. 19 mai 1963), dressée de 0,20 m, feuilles vert foncé, épi clair, corolle violet clair étalée.
+Le Testu: 5419, between Bayoucou and Itava (fl. 5 May 1925); 5878, Dondo, Icobé (fl. 31 Mar. 1926); 7110, Lastoursville (fl. 28 Mar. 1929), succulent; 7271 bis, Lastoursville (fl. and fr. Apr. 1929).
 
-Klaine : 876, Libreville (fl. 8 avr. 1891); 2198, Libreville (fl. 24 avr. 1901). Mgr Le Roy : Ogooué (1894-95).
+Thollon: 81, NDjolé (1895), in woodland in rocks near water; 855, Ogooué (fl. July 1887); 4054, Djavé (fl. Apr. 1891), river banks in woodland.
 
-Le Testu : 5419, entre Bayoucou et Itava (fl. 5 mai 1925); 5878, Dondo, Icobé (fl. 31 mars 1926); 7110, Lastoursville (fl. 28 mars 1929), succulente; 7271 bis, Lastoursville (fl. et fr. avr. 1929).
+Walker: 51, Sainte-Anne de Fernan-Vaz (fl. Oct. 1946).
 
-Thollon : 81, NDjolé (1895), sous bois dans les roches près de l'eau; 855, Ogooué (fl. juill. 1887); 4054, Djavé (fl. avr. 1891), berges des rivières sous bois.
+EXPLANATION OF PLATE XXI, fig. 1-13:
 
-Walker : 51, Sainte-Anne de Fernan-Vaz (fl. oct. 1946).
-
-EXPLICATION DE LA PLANCHE XXI, fig. 1-13:
-
-1, sommité florifère; 2, partie de l'infrutescence; 3, grande feuille de la région inférieure de la plante, de  $ 13 \times 6 $ cm; 4, bractée de  $ 15 $ mm de long et calice à segments de  $ 5 \times 5 $,  $ 9 $ mm de long;  $ 4' $, bractéole de  $ 9.5 $ mm de long;  $ 5 $, bractée  $ 15 \times 4 $ mm; 6, bractée de  $ 23 \times 7 $ mm; 7, corolle de  $ 30 $ mm de long; 8, bouton floral avec bractée de  $ 33 \times 7 $ mm de long; 9, face antérieure du bouton floral; 10, coupe de la corolle montrant l'androcée avec loges des anthères de  $ 2 $ mm de long; 11, pollen de  $ 45 \mu $ de longueur d'axe polaire; 12, pistil (ovaire  $ 2.5 $ mm de haut, style  $ 15 $ mm de long); 11', stigmate; 12, fruit de  $ 9 $ mm de long; 13, graine de  $ 2.7 \times 3 $ mm. — 1, Le Testu 5878; 2, 6, 12, 13, N. Hallé 761; 3, N. Hallé 1278; 4, N. Hallé 2302; 5, N. Hallé 2112; 7-11, d'après des dessins de N. Hallé in vivo.
+1, flowering apex; 2, part of the fruitfructescence; 3, large leaf from the lower region of the plant, 13 × 6 cm; 4, bract 15 mm long and calyx with segments 5 × 5, 9 mm long; 4', bracteole 9.5 mm long; 5, bract 15 × 4 mm; 6, bract 23 × 7 mm; 7, corolla 30 mm long; 8, floral bud with bract 33 × 7 mm long; 9, anterior face of floral bud; 10, section of corolla showing the androecium with anther locules 2 mm long; 11, pollen 45 μ in polar axis length; 12, pistil (ovary 2.5 mm high, style 15 mm long); 11', stigma; 12, fruit 9 mm long; 13, seed 2.7 × 3 mm. — 1, Le Testu 5878; 2, 6, 12, 13, N. Hallé 761; 3, N. Hallé 1278; 4, N. Hallé 2302; 5, N. Hallé 2112; 7-11, from drawings by N. Hallé in vivo.
 
 ## Figures
 

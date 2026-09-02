@@ -7,6 +7,12 @@ family: Cyperaceae
 vol: 44
 pages: 34-36
 source: sources/Cyperaceae_vol44_liteparse
+countries: [Angola, Gabon, Kenya, Senegal, Zimbabwe]
+in_region: true
+subdivisions:
+  Gabon: [Nyanga, Ogooué-Ivindo]
+habit: "herb"
+altitude_m: "100–150"
 tags: [species, generated]
 ---
 # *Bulbostylis scabricaulis* Cherm. Planche 17

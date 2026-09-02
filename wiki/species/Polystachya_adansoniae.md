@@ -7,6 +7,9 @@ family: Orchidaceae
 vol: 37
 pages: 62-63
 source: sources/Orchidaceae_vol37_paddle
+countries: [Angola, Burundi, Cameroon, Cote d'Ivoire, Democratic Republic of the Congo, Equatorial Guinea, Gabon, Guinea, Kenya, Liberia, Malawi, Nigeria, Rwanda, Sierra Leone, Tanzania, Uganda, Zambia, Zimbabwe]
+in_region: true
+habitat: [savanna, secondary forest]
 tags: [species, generated]
 ---
 # *Polystachya adansoniae* Rchb.f.

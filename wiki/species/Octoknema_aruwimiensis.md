@@ -5,12 +5,7 @@ authority: Mildbr.
 genus: Octoknema
 family: Octoknemaceae
 family_current: Erythropalaceae
-habit: tree
-habitat: [seasonally inundated swamp forest, river banks]
-altitude_m: "300-1000"
 conservation_status: "LC"
-countries: [Cameroon, Central African Republic, Democratic Republic of the Congo, Gabon, Republic of the Congo]
-in_region: true
 treatments:
   - kind: article
     citation: "Gosline G. & Malécot V. (2011). A monograph of Octoknema (Octoknemaceae — Olacaceae s.l.). Kew Bulletin 66: 367–404."
@@ -18,6 +13,9 @@ treatments:
     pages: "377–381"
     doi: 10.1007/s12225-011-9293-9
     source: sources/articles/kew_bulletin_2011_octoknema/pymupdf
+countries: [Cameroon, Central African Republic, Gabon]
+in_region: true
+habit: "tree"
 tags: [species, post-flora]
 ---
 

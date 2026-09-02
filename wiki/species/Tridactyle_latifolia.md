@@ -7,6 +7,8 @@ family: Orchidaceae
 vol: 37
 pages: 165-167
 source: sources/Orchidaceae_vol37_paddle
+countries: [Gabon]
+in_region: true
 tags: [species, generated]
 ---
 # *Tridactyle latifolia* Summerh.
@@ -17,31 +19,25 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Tige 22-40 cm. Feuilles 5-6, 9,5-13,5 × 1,7-2,5 cm, étroitement elliptiques-oblongues, inégalement bilobées. Inflorescence lâche, 5-11,5 cm, < 20-flore. Fleurs petites, résupinées, jaunes. Sépale dorsal oblong-lancéolé à oblong-elliptique. Pétales ligulés-lancéolés à étroitement lancéolés, falciformes. Sépales latéraux obliquement oblongs-lancéolés. Labelle 3,8-6 × 9 mm, auriculé à la base, trilobé ; lobe médian étroitement triangulaire, aigu ; lobes latéraux linéaires-lancéolés, aigus, irrégulièrement fimbriés le long des marges. Éperon 10-14 mm, étroitement cylindrique, incurvé. - Pl. 182, p. 395.
+Stem 22–40 cm. Leaves 5–6, 9.5–13.5 × 1.7–2.5 cm, narrowly elliptic-oblong, unequally bilobed. Inflorescence lax, 5–11.5 cm, < 20-flowered. Flowers small, resupinate, yellow. Dorsal sepal oblong-lanceolate to oblong-elliptic. Petals ligulate-lanceolate to narrowly lanceolate, falcate. Lateral sepals obliquely oblong-lanceolate. Labellum 3.8–6 × 9 mm, auriculate at base, trilobed; median lobe narrowly triangular, acute; lateral lobes linear-lanceolate, acute, irregularly fimbriate along the margins. Spur 10–14 mm, narrowly cylindric, incurved. – Pl. 182, p. 395.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-endémique au Gabon ?
+endemic to Gabon?
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+alt. unknown. Epiphytic
 
-alt. inconnue. Épiphyte
+MATERIAL STUDIED (Map 83):
 
-MATÉRIEL ÉTUDIÉ (Carte 83) :
-
-Le Testu 5785, Haute Ngounyé, bord de l'Inghamba près Kembélé (fl. Nov.), K!, P!.
+Le Testu 5785, Haute Ngounyé, edge of the Inghamba near Kembélé (fl. Nov.), K!, P!.
 
 ## Figures
 
 ![Tridactyle latifolia](../sources/Orchidaceae_vol37_paddle/figures/fig_076_p0166.png)
 
-*PL. 182. – Tridactyle latifolia Summerh.: A, partie de l'axe de l'inflorescence ; B, labelle et éperon ; C, labelle ; D, sépale latéral ; E, pétale ; F, sépale dorsal ; G, feuille (A-G, Le Testu, 5785, P).*
+*PL. 182. – Tridactyle latifolia Summerh.: A, part of the inflorescence axis ; B, labellum and spur ; C, labellum ; D, lateral sepal ; E, petal ; F, dorsal sepal ; G, leaf (A-G, Le Testu, 5785, P).*
 
 ![Tridactyle latifolia](../sources/Orchidaceae_vol37_paddle/figures/fig_163_p0258.png)
 

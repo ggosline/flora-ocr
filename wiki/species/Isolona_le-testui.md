@@ -7,13 +7,14 @@ family: Annonaceae
 vol: 16
 pages: 0-0
 source: sources/Annonaceae_vol16_mineru
+habit: "tree"
 tags: [species, generated]
 ---
 # *Isolona le-* Testui Pellegrin
 
 **Genus**: [[Isolona]]
 **Family**: [[Annonaceae]]
-**Protologue**: Bull.Mus.Nat.Hist.Nat.Paris 26 :657(192o)；Bull. Soc.Bot.Fr.94 :387 (1947)
+**Protologue**: Bull.Mus.Nat.Hist.Nat.Paris 26 :657(192o);Bull. Soc.Bot.Fr.94 :387 (1947)
 
 ## Description
 

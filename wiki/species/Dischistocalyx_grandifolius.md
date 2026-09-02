@@ -7,6 +7,7 @@ family: Acanthaceae
 vol: 13
 pages: 27-31
 source: sources/Acanthaceae_vol13_paddle
+habit: "epiphyte"
 tags: [species, generated]
 ---
 # *Dischistocalyx grandifolius* C. B. Clarke

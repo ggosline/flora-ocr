@@ -7,6 +7,13 @@ family: Scrophulariaceae
 vol: 48
 pages: 145-147
 source: sources/Scrophulariaceae_vol48_liteparse
+countries: [Cameroon, Gabon, Republic of the Congo]
+in_region: true
+subdivisions:
+  Gabon: [Estuaire, Ogooué-Ivindo, Ogooué-Lolo]
+habit: "herb"
+habitat: [swamp forest, evergreen forest]
+altitude_m: "300–400"
 tags: [species, generated]
 ---
 # *Torenia silvicola* A.Raynal Planche 49, 55(E–G)
@@ -17,23 +24,17 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Herbe pérenne ; tige rampante à ascendante ou prostrée, 5–18(–40) cm de longueur, glabre. Feuille : pétiole 6–10 mm ; limbe largement ovale , 15–40 × 13–30 mm, acuminé , à marge avec 8 à 10 dents, coriace, face supérieure vert foncé, face inférieure vert pâle . Inflorescence : bractées semblables aux feuilles végétatives, chaque bractée au nœud avec une fleur. Fleur : pédicelle 6–10 mm ; calice distinctement ailé, tube 8 mm de longueur, lobes 4 mm de longueur, obtus, glabres ; corolle blanche ou blanche à nervures rose blanchâtre, tube 8–9 mm de longueur, lèvre supérieure entière, 5–6 mm de longueur, blanche, lèvre inférieure trilobée, 5–6 mm de longueur, blanc rosâtre avec une tache jaune centrale ; étamines abaxiale 6 mm de longueur, aux filets genouillées en forme de Z , base des filets et appendices rouges, les adaxiales 2 mm de longueur, anthères aux thèques inégales ; ovaire 2,5 mm de longueur ; style 7–8 mm. Fruit ovoïde , 11 × 3 mm.
+Perennial herb; stem creeping to ascending or prostrate, 5–18(–40) cm long, glabrous. Leaf: petiole 6–10 mm; blade broadly ovate, 15–40 × 13–30 mm, acuminate, margin with 8 to 10 teeth, coriaceous, upper surface dark green, lower surface pale green. Inflorescence: bracts similar to vegetative leaves, each bract at the node with one flower. Flower: pedicel 6–10 mm; calyx distinctly winged, tube 8 mm long, lobes 4 mm long, obtuse, glabrous; corolla white or white with whitish-pink veins, tube 8–9 mm long, upper lip entire, 5–6 mm long, white, lower lip trilobed, 5–6 mm long, whitish-pink with a central yellow spot; abaxial stamens 6 mm long, filaments geniculate Z-shaped, base of filaments and appendages red, adaxial ones 2 mm long, anthers with unequal thecae; ovary 2.5 mm long; style 7–8 mm. Fruit ovoid, 11 × 3 mm.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Cameroun, Gabon et République du Congo ; au Gabon, observée dans l’Estuaire, l’Ogooué-Ivindo et l’Ogooué-Lolo
+Cameroon, Gabon and Republic of the Congo; in Gabon, observed in Estuaire, Ogooué-Ivindo and Ogooué-Lolo
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+rainforest, near rivers and streams, on rocks in streams, swamp forests; in Gabon, at 300–400 m altitude, in Cameroon, up to 600 m. B: Fischer (1992, 1995), Fischer et al. (2013). Bibliography
 
-forêt ombrophile, près des rivières et ruisseaux, sur rochers dans les ruisseaux, forêts marécageuses ; au Gabon, à 300–400 m d’altitude, au Cameroun, jusqu’à 600 m. B : Fischer (1992, 1995), Fischer et al. (2013). ibliographie
-
-Corolle. – D. Corolle ouverte et étalée. – E. Étamine adaxiale. – F. Étamine abaxiale. (A–F : Le Testu 8320 ). Dessin par E. Fischer (©).
+Corolla. – D. Corolla open and spread. – E. Adaxial stamen. – F. Abaxial stamen. (A–F: Le Testu 8320). Drawing by E. Fischer (©).
 
 ## Notes
 

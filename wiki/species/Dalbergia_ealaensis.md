@@ -7,6 +7,12 @@ family: Leguminosae
 vol: 49
 pages: 122-123
 source: sources/Millettiaspeciesfabaceae_vol49_liteparse
+countries: [Angola, Cameroon, Central African Republic, Democratic Republic of the Congo, Gabon, Republic of the Congo]
+in_region: true
+subdivisions:
+  Gabon: [Estuaire, Haut-Ogooué, Woleu-Ntem]
+habit: "liana"
+altitude_m: "700"
 tags: [species, generated]
 ---
 # *Dalbergia ealaensis* De Wild.

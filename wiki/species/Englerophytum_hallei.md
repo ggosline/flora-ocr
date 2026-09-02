@@ -5,17 +5,13 @@ authority: Aubrev. & Pellegr.
 genus: Englerophytum
 family: Sapotaceae
 synonyms: []
-habit: tree
-habitat: [humid forest]
-altitude_m: ""
-countries: [Gabon]
-subdivisions:
-  Gabon: [Estuaire]
-in_region: true
 treatments:
   - vol: 1
     pages: "91-92"
     source: sources/Sapotaceae_vol01_paddle
+countries: [Gabon]
+in_region: true
+habit: "tree"
 tags: [species]
 ---
 

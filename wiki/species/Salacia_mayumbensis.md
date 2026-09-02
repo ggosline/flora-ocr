@@ -7,6 +7,9 @@ family: Celastraceae
 vol: 29
 pages: 79-82
 source: sources/Celastraceae_vol29_paddle
+countries: [Angola, Cameroon, Democratic Republic of the Congo, Gabon]
+in_region: true
+habit: "shrub"
 tags: [species, generated]
 ---
 # *Salacia mayumbensis* Exell & Mendonça

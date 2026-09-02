@@ -7,6 +7,10 @@ family: Santalaceae
 vol: 21
 pages: 67-68
 source: sources/Santalaceae_vol21_paddle
+countries: [Democratic Republic of the Congo, Gabon, Liberia, Republic of the Congo]
+in_region: true
+habit: "herb"
+habitat: [savanna]
 tags: [species, generated]
 ---
 # *Thesium filipes* A. W. Hill
@@ -17,15 +21,13 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 — BAKER & HILL, in TH. DYER, FTA 6 (1) : 423 (1911). — ROBYNS & LAWALRÉE, Fl. Congo b. et R. U. 1 : 297, fig. 2 (1948).
 
-Herbe vivace, brun noirâtre à l'état sec, glabre; rhizome dressé et ligneux, émettant des touffes de tiges; tiges atteignant  $ 40-75 \times 0,2-0,25 $ cm, grêles, dressées, subligneuses à la base, simples, ramifiées seulement dans la partie supérieure florifère, subarrondies, striées. Feuilles de  $ 1,25-1,5 $ mm, éparses, apprimées, ovales-lancéolées, aiguës.
+Perennial herb, dark brownish when dry, glabrous; rhizome erect and woody, emitting tufts of stems; stems reaching 40–75 × 0.2–0.25 cm, slender, erect, subwoody at the base, simple, branched only in the upper flowering part, subrounded, striated. Leaves of 1.25–1.5 mm, scattered, appressed, ovate-lanceolate, acute.
 
-Epis atteignant 10-25 cm, strobilacés à allongés filiformes. Fleurs latérales sessiles à l'aisselle d'une bractée de 1,5 mm, ovale, ↓ carénée, aiguë, à bords ↓ membraneux-fimbriés; 2 bractéoles lancéolées-acuminées, à peu près aussi longues que la bractée sous-tendante et à bords ↓ membraneux-fimbriés. Tube réceptaculaire de 0,5 mm. Tépales 4, rarement 5, de 2-3 mm, linéaires, aigues, cucullés et marges légèrement infléchies et ciliées, séparées extérieurement à la base par de petites dents. Etamines insérées à la base des tépales, à filets de 1-1,2 mm; anthères de 0,5-0,75 mm, attachées dorsalement aux tépales par une touffe de poils. Style de 2-2,5 mm à stigmate capité.
+Spikes reaching 10–25 cm, strobilose to elongate filiform. Lateral flowers sessile at the axil of a bract of 1.5 mm, ovate, keeled, acute, with borders membranous-fimbriate; 2 bracteoles lanceolate-acuminate, approximately as long as the subtending bract and with membranous-fimbriate borders. Receptacular tube of 0.5 mm. Tepals 4, rarely 5, of 2–3 mm, linear, acute, cucullate with margins slightly inflexed and ciliate, separated externally at the base by small teeth. Stamens inserted at the base of the tepals, with filaments of 1–1.2 mm; anthers of 0.5–0.75 mm, attached dorsally to the tepals by a tuft of hairs. Style of 2–2.5 mm with capitate stigma.
 
-Akènes de 1,5-2 mm de diamètre, sphériques, généralement à 8 côtes longitudinales ± ramifiées. FIG. 15, p. 66.
+Achenes of 1.5–2 mm in diameter, spherical, generally with 8 more or less branched longitudinal ribs. FIG. 15, p. 66.
 
 ## Type
 
@@ -33,11 +35,9 @@ Schlechter 12810, Zaire (holo-, BR!)
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Damp and open places in savanna, especially on sand. This species was known until now only from Zaïre (Lower Congo and Kasai); it also occurs in the People's Republic of the Congo and in Gabon.
 
-Endroits humides et découverts en savane, surtout sur sable. Cette espèce n'était connue jusqu'ici que du Zaïre (Bas-Congo et Kasaï); elle existe aussi dans la République populaire du Congo et au Gabon.
-
-Thesium libericum Hepper & Keay du Liberia ne diffère pas spécifiquement de T. flipes, mais pourrait en être une forme à dents intertépalais plus longues.
+Thesium libericum Hepper & Keay from Liberia does not differ specifically from T. flipes, but could be a form with longer intertepal teeth.
 
 ## Specimens examined
 
@@ -47,7 +47,7 @@ Dybowski 167, Cap Lopez (fl. transformées en galles, févr.).
 
 ![Thesium filipes](../sources/Santalaceae_vol21_paddle/figures/fig_015_p0068.png)
 
-*Fig. 15.— Thesium filipes A. W. Hill : A, fleur × 10; B, fleur étalée, vue externe × 10; C, fleur étalée, vue interne × 10; D, fruit × 5. (Lebrun 140). — Del. J.-M. LERINCKX (d'après J. Lebrun 140, Zaïre).*
+*Fig. 15.— Thesium filipes A. W. Hill : A, flower × 10; B, flower spread, external view × 10; C, flower spread, internal view × 10; D, fruit × 5. (Lebrun 140). — Del. J.-M. LERINCKX (after J. Lebrun 140, Zaire).*
 
 ## Notes
 

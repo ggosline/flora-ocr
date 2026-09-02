@@ -7,6 +7,13 @@ family: Leguminosae
 vol: 49
 pages: 150-153
 source: sources/Millettiaspeciesfabaceae_vol49_liteparse
+countries: [Angola, Benin, Cameroon, Central African Republic, Cote d'Ivoire, Democratic Republic of the Congo, Equatorial Guinea, Gabon, Ghana, Guinea, Guinea-Bissau, Liberia, Nigeria, Republic of the Congo, Senegal, Sierra Leone, Togo]
+in_region: true
+subdivisions:
+  Gabon: [Haut-Ogooué]
+habit: "liana"
+habitat: [rocky ground]
+altitude_m: "0–800"
 tags: [species, generated]
 ---
 # *Dalbergia saxatilis* Hook.f. Planche 48

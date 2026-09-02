@@ -7,6 +7,9 @@ family: Annonaceae
 vol: 16
 pages: 0-0
 source: sources/Annonaceae_vol16_mineru
+countries: [Gabon, Republic of the Congo]
+in_region: true
+habit: "shrub"
 tags: [species, generated]
 ---
 # *Uvaria klaineana* Engler et Diels
@@ -21,15 +24,13 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 6 : 24,tab.4B (19o1); Pellegrin,Bull. Soc.Bot.Fr.,Mém.31 : 6o (1949).
 
-Liane ou arbuste sarmenteux formant d'épais buissons, et pouvant étre assez élevé. Rameaux glabres, ramilles tomenteuses ä poils étoiles courts et blonds. Feuilles á pétiole long de 2-5 mm,tomenteux;limbe subcoriace,vert foncé et brillant au-dessus,elliptique-oblong á oblong,long de 2-9 cm,large de 1-3 cm,atténué-obtus au sommet,obtus ä arrondi á la base; face supérieure glabre, face inférieure densément tomenteuse blondc, couvcrtc d'un cpais fcutrage de poils étoilés courls. Nervure médiane imprimée au-dessus, saillante en dessous; nervures latérales 7-I2 paires ascendantes,peu visibles.
+Climbing plant or sarmentose shrub forming thick bushes, and capable of being quite tall. Branchlets glabrous, ramilli tomentose with short, blond, stellate hairs. Leaves with petiole 2–5 mm long, tomentose; blade subcoriaceous, dark green and shiny above, elliptic-oblong to oblong, 2–9 cm long, 1–3 cm wide, attenuate-obtuse at apex, obtuse to rounded at base; upper face glabrous, lower face densely tomentose blond, covered with a thick felt of short stellate hairs. Midvein impressed above, prominent below; lateral veins 7–12 pairs, ascending, scarcely visible.
 
-Fleurs jaunatres, solitaires,extra-axillaires, a pedicelle long de 5-8 mm, tomenteux, muni vers la base d'une bractée largement ovée,pétiolee,longue de 4,5-5 mm,large de 3,5-4 mm, pubescente sur les deux faces. Calice a sépales distincts dans le bouton; sépales largement ovés á suborbiculaires, longs de 4 mm environ, larges de 5-6 mm,soudés á la base, tomenteux ä l'extérieur,glabres ä I'intérieur. Pétales subégaux, ovés-oblongs,arrondis au sommet, longs de 1,5 cm environ,larges de 1-1,2 cm, soyeux blonds á poils étoilés tres courts a l'extérieur,pubérulents â glabres a l'inté- rieur,les internes courtement onguiculés. Etamines 6-7 sériées, cunéiformes, longues de 2-2,5 mm, a filets courts, theques lineaires extrorses,connectifs tronqués au-dessus des antheres. Réceptacle courtement cylindrique,épais,de 3 mm de hauteur et 4 mm de largeur. Carpelles tres nombreux (1oo environ),oblongs,longs de 2 mm,pubescents a poils courts, stigmates épais, sessiles, hirsutes. Io-12 ovules biseries.
+Flowers yellowish, solitary, extra-axillary, on a pedicel 5–8 mm long, tomentose, bearing a broadly ovate, petiolate bract near the base, 4.5–5 mm long, 3.5–4 mm wide, pubescent on both faces. Calyx with distinct sepals in bud; sepals broadly ovate to suborbicular, approximately 4 mm long, 5–6 mm wide, united at base, tomentose outside, glabrous inside. Petals subequal, ovate-oblong, rounded at apex, approximately 1.5 cm long, 1–1.2 cm wide, silky blonde with very short stellate hairs outside, puberulent to glabrous inside, the inner ones shortly clawed. Stamens 6–7-seriate, cuneiform, 2–2.5 mm long, with short filaments, thecae linear extrorse, connectives truncate above the anthers. Receptacle shortly cylindrical, thick, 3 mm high and 4 mm wide. Carpels very numerous (approximately 100), oblong, 2 mm long, pubescent with short hairs, stigmas thick, sessile, hirsute. 10–12 ovules biseriate.
 
-Fruits á pédicelle long de 6-8 mm;réceptacle de I cm de largeur et 4 mm de hauteur; méricarpes nombreux (3o ou plus), ovoides-subglobuleux, longs de 1,2-1,8 cm, larges de o,8-1,5 cm, finement verruculeux, tomenteux ä poils tres courts; stipe latéral, long de 2,5-4 cm. Graines 8-1o brisériées,ellptiques-oblongues, aplaties,longues de 7-9 mm,larges de 4-5 mm,a testa brun, rugueux, finement ridé-fossulé.
+Fruits with pedicel 6–8 mm long; receptacle 1 cm wide and 4 mm high; mericarps numerous (30 or more), ovoid-subglobose, 1.2–1.8 cm long, 0.8–1.5 cm wide, finely verrucose, tomentose with very short hairs; lateral stipe, 2.5–4 cm long. Seeds 8–10 biseriate, elliptic-oblong, flattened, 7–9 mm long, 4–5 mm wide, with brown testa, rugose, finely ridged-foveolate.
 
 ## Type
 
@@ -37,9 +38,7 @@ Klaine 235,ex herb.Pierre,Libreville,Gabon (P!)
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Liane de foret dense humide dont P'aire de répartition est limitée au Gabon et au Congo-Brazzaville.
+Climbing plant of humid dense forest whose range is limited to Gabon and Congo-Brazzaville.
 
 ## Specimens examined
 

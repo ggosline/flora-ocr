@@ -7,6 +7,7 @@ family: Rubiaceae
 vol: 17
 pages: 200-201
 source: sources/Rubiaceae_vol17_paddle
+habit: "shrub"
 tags: [species, generated]
 ---
 # *Oxyanthus setosus* Keay (P.L. 45, p. 197)

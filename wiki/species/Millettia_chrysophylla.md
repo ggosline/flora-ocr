@@ -7,6 +7,13 @@ family: Leguminosae
 vol: 49
 pages: 280-281
 source: sources/Millettiaspeciesfabaceae_vol49_liteparse
+countries: [Angola, Central African Republic, Democratic Republic of the Congo, Gabon, Guinea]
+in_region: true
+subdivisions:
+  Gabon: [Estuaire, Haut-Ogooué, Ogooué-Lolo]
+habit: "liana"
+habitat: [secondary forest]
+altitude_m: "300–500"
 tags: [species, generated]
 ---
 # *Millettia chrysophylla* Dunn

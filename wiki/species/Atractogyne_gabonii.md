@@ -7,6 +7,8 @@ family: Rubiaceae
 vol: 17
 pages: 183-186
 source: sources/Rubiaceae_vol17_paddle
+countries: [Cameroon]
+in_region: true
 tags: [species, generated]
 ---
 # *Atractogyne gabonii* Pierre
@@ -63,7 +65,7 @@ Bobi, Bobesam (Fang); Lepêto (Benzabi); Tsèndjèndjè (Bakota); Miolo (Echira)
 
 ![Atractogyne gabonii](../sources/Rubiaceae_vol17_paddle/figures/fig_042_p0185.png)
 
-*PL. 41. — Atractogyne gabonii Pierre (fl. N. Hallé 3166; fr. N. H. 1575 et 1907) : 1, inflorescence × 1,5; 2, corolle vue de face; 3, anthère de 6 mm; 4, coupe transversale de l'anthère; 5, coupe de la fleur ♂; 6, id. fl. ♀; 7, autre vue du stigmate de la fl. ♀; 8, coupe de l'ovaire, diam. 2 mm; 9, 9 et 11, fruit vert et détails en coupes; 10 et 11, deux types de fruits mûrs × 1; 12, coupe transversale du fruit mûr; 13, détail de 12 montrant deux graines décalées dans la loge, de part et d'autre des insertions placentaires; 14, graine de 2,4 mm; 15, embryon de 0,8 mm. — A. bracteata (Wernh.) Hutch. et Dalz. (F. Hallé 244) : 16, fruit mûr × 0,75; 17, graine de 2,5 mm; 18, embryon de 1,7 mm.*
+*PL. 41. — Atractogyne gabonii Pierre (fl. N. Hallé 3166; fr. N. H. 1575 et 1907) : 1, inflorescence × 1.5; 2, corolla viewed from front; 3, anther of 6 mm; 4, transverse section of anther; 5, section of ♂ flower; 6, id. ♀ fl.; 7, other view of stigma of ♀ fl.; 8, section of ovary, diam. 2 mm; 9, 9 and 11, green fruit and details in sections; 10 and 11, two types of mature fruits × 1; 12, transverse section of mature fruit; 13, detail of 12 showing two seeds offset in the locule, on either side of placental insertions; 14, seed of 2.4 mm; 15, embryo of 0.8 mm. — A. bracteata (Wernh.) Hutch. et Dalz. (F. Hallé 244) : 16, mature fruit × 0.75; 17, seed of 2.5 mm; 18, embryo of 1.7 mm.*
 
 ## Notes
 

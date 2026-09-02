@@ -7,6 +7,13 @@ family: Leguminosae
 vol: 49
 pages: 60-62
 source: sources/Millettiaspeciesfabaceae_vol49_liteparse
+countries: [Angola, Cameroon, Democratic Republic of the Congo, Gabon, Nigeria, Republic of the Congo]
+in_region: true
+subdivisions:
+  Gabon: [Haut-Ogooué, Ngounié, Nyanga]
+habit: "tree"
+habitat: [secondary forest, coastal]
+altitude_m: "600"
 tags: [species, generated]
 ---
 # *Baphia leptostemma* Baill. Planche 16

@@ -17,13 +17,11 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Vine 3-4 m high covered with hispid hairs. Leaves penninerved, opposite; stipules absent; petiole channelled, 7-11 mm long. Blade orbicular to oblong-elliptic, rounded to subcordate at base, attenuate to acuminate at apex, 7-15 × 4-10 cm. Secondary veins ascending, prominent on the lower face as are the veinlets.
 
-Liane haute de 3-4 m couverte de poils hispides. Feuilles penninervées, opposées; stipules absentes; pétiole canaliculé long de 7-11 mm. Limbe orbiculaire à oblong-elliptique, arrondi à subcordé à la base, atténué à acuminé au sommet, 7-15 × 4-10 cm. Nervures secondaires ascendantes, saillantes à la face inférieure ainsi que les nervilles.
+Terminal and axillary inflorescences, pubescent, formed of partial inflorescences subumbelliform grouped in panicles. Bracts pubescent, lanceolate, 2-3 mm long; bracteoles pubescent, smaller, situated at the lower 1/3 of the pedicel, the latter reaching 2 cm in length. Sepals pubescent, oblong, rounded at apex, 2-3 mm long. Petals yellow, glabrous, entire or fimbriate, 8-10 mm long. Stamens glabrous, 6-7 mm long. Ovary pubescent, approximately 1 mm long; styles 3, of which 1 shorter, glabrous, curved, 4-6 mm long; stigmas 3, directed inward.
 
-Inflorescences terminales et axillaires, pubescentes, formées d'inflorescences partielles subombelliformes groupées en panicules. Bractées pubescentes, lancéolées, longues de 2-3 mm; bractéoles pubescentes, plus petites, situées au 1/3 inférieur du pédicelle, celui-ci atteignant 2 cm de longueur. Sépales pubescents, oblongs, arrondis au sommet, longs de 2-3 mm. Pétales jaunes, glabres, entiers ou fimbriés, longs de 8-10 mm. Etamines glabres longues de 6-7 mm. Ovaire pubescent, long d'environ 1 mm; styles 3, dont 1 plus court, glabres, courbés, longs de 4-6 mm; stigmates 3, tournés vers l'intérieur.
-
-Fruit composé de 3 samares membraneuses de 5-6 mm de diamètre, à aile dorsale longue de 2,5-4 cm. Pl. 2, p. 13.
+Fruit composed of 3 membranous samaras 5-6 mm in diameter, with dorsal wing 2.5-4 cm long. Pl. 2, p. 13.
 
 ## Type
 
@@ -37,7 +35,7 @@ Klaine 327 (fr., fév.); 1228 (fl., oct.), env. de Libreville. Le Testu 7764, Po
 
 ![Triaspis letestuana](../sources/Malpighiaceae_vol21_paddle/figures/fig_002_p0015.png)
 
-*PL. 2. — Triaspis letestuana Launert (Le Testu 7764): 1, feuilles et inflorescences × 2/3; 2, détail de la feuille, face inférieure × 2; 3, détail de la feuille, face supérieure × 2; 4, bouton × 3; 5, fleur épanouie × 3; 6, centre de la fleur × 3.*
+*PL. 2. — Triaspis letestuana Launert (Le Testu 7764): 1, leaves and inflorescences × 2/3; 2, detail of the leaf, lower surface × 2; 3, detail of the leaf, upper surface × 2; 4, bud × 3; 5, open flower × 3; 6, center of the flower × 3.*
 
 ## Notes
 

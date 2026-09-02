@@ -7,6 +7,12 @@ family: Leguminosae
 vol: 49
 pages: 176-176
 source: sources/Millettiaspeciesfabaceae_vol49_liteparse
+countries: [Gabon]
+in_region: true
+subdivisions:
+  Gabon: [Estuaire, Moyen-Ogooué, Nyanga, Ogooué-Maritime]
+habit: "herb"
+altitude_m: "5–335"
 tags: [species, generated]
 ---
 # *Desmodium triflorum* (L.) DC. Planche 57

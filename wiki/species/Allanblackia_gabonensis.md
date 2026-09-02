@@ -7,6 +7,13 @@ family: Clusiaceae
 vol: 45
 pages: 13-14
 source: sources/Clusiaceae_vol45_liteparse
+countries: [Cameroon, Gabon]
+in_region: true
+subdivisions:
+  Gabon: [Ngounié, Woleu-Ntem]
+habit: "tree"
+habitat: [primary forest]
+altitude_m: "500–1000"
 tags: [species, generated]
 ---
 # *Allanblackia gabonensis* (Pellegr.) Bamps

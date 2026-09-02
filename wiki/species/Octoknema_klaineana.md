@@ -4,14 +4,13 @@ name: Octoknema klaineana
 authority: Pierre
 genus: Octoknema
 family: Octoknemaceae
-habit: tree or shrub
-altitude_m: "12"
-countries: [Gabon]
-in_region: true
 treatments:
   - vol: 20
     pages: "186–189"
     source: sources/Olacaceae_vol20_paddle
+countries: [Gabon]
+in_region: true
+habit: "tree"
 tags: [species]
 ---
 

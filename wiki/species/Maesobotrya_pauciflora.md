@@ -7,6 +7,13 @@ family: Phyllanthaceae
 vol: 43
 pages: 50-53
 source: sources/Phyllanthaceae_vol43_liteparse
+countries: [Cameroon, Democratic Republic of the Congo, Equatorial Guinea, Gabon]
+in_region: true
+subdivisions:
+  Gabon: [Nyanga]
+habit: "shrub"
+habitat: [secondary forest]
+altitude_m: "350–600"
 tags: [species, generated]
 ---
 # *Maesobotrya pauciflora* Pax Planche 15

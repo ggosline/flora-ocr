@@ -7,6 +7,12 @@ family: Cucurbitaceae
 vol: 57
 pages: 54-57
 source: sources/Cucurbitaceae_vol57_paddle
+countries: [Angola, Democratic Republic of the Congo, Gabon, Republic of the Congo]
+in_region: true
+subdivisions:
+  Gabon: [Estuaire]
+habit: "herb"
+altitude_m: "10–900"
 tags: [species, generated]
 ---
 # *Coccinia heterophylla* (Hook.f.) Holstein

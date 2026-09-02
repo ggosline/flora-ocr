@@ -7,6 +7,9 @@ family: Marantaceae
 vol: 09
 pages: 105-106
 source: sources/Marantaceae_vol09_paddle
+countries: [Cameroon, Gabon]
+in_region: true
+habit: "herb"
 tags: [species, generated]
 ---
 # *Hypselodelphys zenkeriana* (K. Schum.) M.-Redh.

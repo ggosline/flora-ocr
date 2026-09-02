@@ -7,6 +7,12 @@ family: Cyperaceae
 vol: 44
 pages: 100-101
 source: sources/Cyperaceae_vol44_liteparse
+countries: [Gabon]
+in_region: true
+subdivisions:
+  Gabon: [Haut-Ogooué, Ogooué-Maritime, Woleu-Ntem]
+habit: "herb"
+altitude_m: "2600"
 tags: [species, generated]
 ---
 # *Cyperus sesquiflorus* (Torr.) Mattf. & Kük. subsp. sesquiflorus

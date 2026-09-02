@@ -7,6 +7,8 @@ family: Aspleniaceae
 vol: 08
 pages: 136-138
 source: sources/Aspleniaceae_vol08_paddle
+countries: [Equatorial Guinea, Guinea]
+in_region: true
 tags: [species, generated]
 ---
 # *Asplenium barteri* Hooker

@@ -7,6 +7,9 @@ family: Eriocaulaceae
 vol: 48
 pages: 11-12
 source: sources/Eriocaulaceae_vol48_liteparse
+countries: [Chad, Gabon, Senegal, Tanzania]
+in_region: true
+habit: "herb"
 tags: [species, generated]
 ---
 # *Eriocaulon cinereum* R.Br.

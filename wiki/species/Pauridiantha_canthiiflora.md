@@ -7,6 +7,7 @@ family: Rubiaceae
 vol: 12
 pages: 241-243
 source: sources/Rubiaceae_vol12_paddle
+habit: "shrub"
 tags: [species, generated]
 ---
 # *Pauridiantha canthiiflora* Hook. f. (Fig. 7)

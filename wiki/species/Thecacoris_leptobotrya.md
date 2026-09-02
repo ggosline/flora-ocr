@@ -7,6 +7,13 @@ family: Phyllanthaceae
 vol: 43
 pages: 86-88
 source: sources/Phyllanthaceae_vol43_liteparse
+countries: [Cameroon, Democratic Republic of the Congo, Gabon, Nigeria]
+in_region: true
+subdivisions:
+  Gabon: [Ogooué-Maritime]
+habit: "shrub"
+habitat: [secondary forest]
+altitude_m: "0–600"
 tags: [species, generated]
 ---
 # *Thecacoris leptobotrya* (Müll.Arg.) Brenan Planche 27
@@ -17,23 +24,17 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Arbuste de 1–5(–8) m de hauteur ; ramilles pubérulentes à tomenteuses, parfois éparse ment, glabrescentes. Stipules caduques, étroitement triangulaires, 2–6(–7) mm de lon gueur , à poils apprimés sur la face extérieure. Feuille : pétiole (1–)2–5(–11) mm ; limbe obovale–elliptique, (4–)12–20(–27) × (1,5–)4–10(–13) cm, arrondi à cunéé à la base, acuminé sur 0,5–1,5(–2) cm au sommet, glabre ou à quelques poils épars sur la médiane dessous ; nervures latérales 7–12(–15) paires. Inflorescence et infrutescence dressées , quelquefois géminées ou fasciculées, pubérulentes à presque glabres, les mâles 3–12 cm de longueur, les femelles 5–12 cm et jusqu’à 16 cm de longueur en fruit ; bractées 1–1,5 mm de longueur. Fleur mâle : pédicelle ± 1 mm ; sépales glabres ou avec quelques poils sur la marge ; pétales absents ; étamines 5, ± 1,5 mm de longueur, glabres ; lobes du disque éparsement pileux ; pistillode obconique, plus court que les sépales, glabre. Fleur femelle : pédicelle plus long que la bractée, 1–1,5 mm, pubérulent ; sépales 5, ovalestriangulaires, ± 1 mm de longueur, ciliés au sommet ; pétales absents ; disque annulaire, ciliolé ; ovaire 1–1,5 mm de longueur, glabre. Fruit pendant, 5–6 × 7–9 mm , verdâtre à brunâtre, glabre. Graines largement ovoïdes à globuleuses, 2,5–3 mm de diamètre, brunfoncé, luisantes.
+Shrub 1–5(–8) m tall; branchlets puberulent to tomentose, sometimes sparsely, glabrescent. Stipules caducous, narrowly triangular, 2–6(–7) mm long, with appressed hairs on the outer surface. Leaf: petiole (1–)2–5(–11) mm; blade obovate–elliptic, (4–)12–20(–27) × (1.5–)4–10(–13) cm, rounded to cuneate at base, acuminate over 0.5–1.5(–2) cm at apex, glabrous or with a few scattered hairs on the midvein beneath; lateral nerves 7–12(–15) pairs. Inflorescence and infructescence erect, sometimes geminate or fasciculate, puberulent to almost glabrous, the male ones 3–12 cm long, the female ones 5–12 cm and up to 16 cm long in fruit; bracts 1–1.5 mm long. Male flower: pedicel ± 1 mm; sepals glabrous or with a few hairs on the margin; petals absent; stamens 5, ± 1.5 mm long, glabrous; disk lobes sparsely pilose; pistillode obconic, shorter than the sepals, glabrous. Female flower: pedicel longer than the bract, 1–1.5 mm, puberulent; sepals 5, ovate-triangular, ± 1 mm long, ciliate at apex; petals absent; disk annular, ciliolate; ovary 1–1.5 mm long, glabrous. Fruit pendulous, 5–6 × 7–9 mm, greenish to brownish, glabrous. Seeds broadly ovoid to globose, 2.5–3 mm in diameter, dark brown, shiny.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-du sud du Nigeria au Cameroun, le Gabon, jusqu’au nord-ouest de la Répu blique Démocratique du Congo ; au Gabon, récoltée dans la plupart des provinces, sauf l’Ogooué-Maritime
+from southern Nigeria to Cameroon, Gabon, to northwestern Democratic Republic of the Congo; in Gabon, collected in most provinces, except Ogooué-Maritime
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+primary and secondarized forest; in Gabon, at 0–600 m altitude. b: Breteler (2011a), Keay (1958) and Léonard (1995a). Bibliography
 
-forêt primaire et secondarisée ; au Gabon, à 0–600 m d’altitude. b : Breteler (2011a), Keay (1958) et Léonard (1995a). ibliographie
-
-Breteler & Jongkind 10546 ; B : Breteler et al . 13202 ; C, D : Breteler & Jongkind 10380 ; F ‒ G : J.J. de Wilde et al . 11465 ). Dessin par H. de Vries, NCB Naturalis (section NHN) ©.
+Breteler & Jongkind 10546; B: Breteler et al. 13202; C, D: Breteler & Jongkind 10380; F ‒ G: J.J. de Wilde et al. 11465). Drawing by H. de Vries, NCB Naturalis (section NHN) ©.
 
 ## Notes
 

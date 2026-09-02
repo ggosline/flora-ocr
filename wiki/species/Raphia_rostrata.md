@@ -7,6 +7,11 @@ family: Arecaceae
 vol: 53
 pages: 62-64
 source: sources/Arecaceae_vol53_liteparse
+countries: [Angola, Cameroon, Gabon]
+in_region: true
+subdivisions:
+  Gabon: [Woleu-Ntem]
+altitude_m: "500"
 tags: [species, generated]
 ---
 # *Raphia rostrata* Burret Figure 4G

@@ -6,6 +6,11 @@ genus: Clerodendrum
 vol: 58
 pages: 29-29
 source: sources/Labiataeulmaceaeverbenaceae_vol58_liteparse
+countries: [Cameroon, Democratic Republic of the Congo, Equatorial Guinea, Gabon, Nigeria, Republic of the Congo]
+in_region: true
+subdivisions:
+  Gabon: [Estuaire, Ogooué-Ivindo]
+altitude_m: "50"
 tags: [species, generated]
 ---
 # *Clerodendrum bipindense* Gürke Figure 1(C)

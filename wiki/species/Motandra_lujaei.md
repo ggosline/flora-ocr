@@ -7,6 +7,12 @@ family: Apocynaceae
 vol: 59
 pages: 165-167
 source: sources/Apocynaceae_vol59_liteparse
+countries: [Angola, Gabon, Guinea, Uganda]
+in_region: true
+subdivisions:
+  Gabon: [Nyanga, Ogooué-Ivindo]
+habit: "liana"
+habitat: [gallery forest, secondary forest, rocky ground]
 tags: [species, generated]
 ---
 # *Motandra lujaei* De Wild. & T.Durand Planche 75

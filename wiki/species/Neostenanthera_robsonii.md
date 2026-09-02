@@ -7,6 +7,9 @@ family: Annonaceae
 vol: 16
 pages: 0-0
 source: sources/Annonaceae_vol16_mineru
+countries: [Gabon]
+in_region: true
+habit: "tree"
 tags: [species, generated]
 ---
 # *Neostenanthera robsonii* Le Thomas, sp. nov. (P1. 36,p. 195 et fig. 1)

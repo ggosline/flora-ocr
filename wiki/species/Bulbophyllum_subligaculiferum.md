@@ -7,6 +7,9 @@ family: Orchidaceae
 vol: 36
 pages: 147-149
 source: sources/Orchidaceae_vol36_paddle
+countries: [Gabon]
+in_region: true
+habitat: [primary forest]
 tags: [species, generated]
 ---
 # *Bulbophyllum subligaculiferum* J.J. Verm.

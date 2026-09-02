@@ -7,6 +7,7 @@ family: Leguminosae
 vol: 31
 pages: 113-116
 source: sources/Leguminosae_vol31_paddle
+habit: "tree"
 tags: [species, generated]
 ---
 # *Calpocalyx ngouniensis* Pellegrin
@@ -39,7 +40,7 @@ Le Testu 5513, Boudyanguila (fl., sept.) Moungazi 246, Belinga (fl.).
 
 ![Calpocalyx ngouniensis](../sources/Leguminosae_vol31_paddle/figures/fig_042_p0114.png)
 
-*PL. 30. – Calpocalyx ngouniensis Pellegr.: 1, aspect général × 1; 2, pétiole, sommet × 3; 3, base limbe. face supérieure × 2; 4, foliole, nervation face inférieure, détail × 2; 5, bractéole × 8; 6, bouton floral × 12; 7, fleur × 8; 8, fleur, coupe longitudinal × 12; 9, anthère × 30; 10, ovaire × 30. (1-3, 5, Letouzey 4147 (Cameroun); 4, 6-10, Bos 4140, Cameroun)).*
+*PL. 30. – Calpocalyx ngouniensis Pellegr.: 1, general aspect × 1; 2, petiole, apex × 3; 3, base blade. upper surface × 2; 4, leaflet, venation lower surface, detail × 2; 5, bracteole × 8; 6, floral bud × 12; 7, flower × 8; 8, flower, longitudinal section × 12; 9, anther × 30; 10, ovary × 30. (1-3, 5, Letouzey 4147 (Cameroon); 4, 6-10, Bos 4140, Cameroon)).*
 
 ## Notes
 

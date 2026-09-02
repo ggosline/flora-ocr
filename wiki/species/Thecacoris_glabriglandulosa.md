@@ -7,6 +7,13 @@ family: Phyllanthaceae
 vol: 43
 pages: 84-85
 source: sources/Phyllanthaceae_vol43_liteparse
+countries: [Democratic Republic of the Congo, Gabon]
+in_region: true
+subdivisions:
+  Gabon: [Ogooué-Lolo, Ogooué-Maritime]
+habit: "shrub"
+habitat: [secondary forest]
+altitude_m: "300–500"
 tags: [species, generated]
 ---
 # *Thecacoris glabriglandulosa* (J.Léonard) J.Léonard
@@ -17,23 +24,15 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-, ‘glabroglandulosa’. Arbuste de 0,5–1,5 m de hauteur ; ramilles pubescentes-pubérulentes. Stipules ovaleselliptiques, 4–8 × 1–3 mm, pubescentes extérieurement. Feuille : pétiole 2–7 mm, pubes cent-pubérulent ; limbe obovale-elliptique, 6–20 × 2,5–7 cm, cunéé à arrondi à la base, acuminé sur 0,5–1,5 cm et souvent mucronulé au sommet, luisant à mat dessus, ± glauque dessous, glabre ou à quelques poils épars sur la médiane dessous ; nervures latérales 8–12 paires. Inflorescence solitaire ou géminée, en épi ou racème simple , pubescente, les mâles 2–6 cm de longueur, les femelles 6–9 cm de longueur et dressées en fruit ; bractées mâles 1–1,5 mm de longueur, les femelles 2–2,5 mm de longueur en fruit, pubérulentes et ciliées. Fleur mâle (1–)1,5–2,5 mm de diamètre ; pédicelle 0–2 mm, pubérulent ; sépales
-
-5, légèrement soudés à la base, largement ovales, ± 1 × 1 mm, glabres ou parfois ciliolés au sommet ; pétales présents ou non, petits ; étamines ± 1,5 mm de longueur, glabres ; lobes du disque glabres ; pistillode obconique, ± 0,5 mm de longueur, glabre. Fleur femelle inconnue ; pédicelle fructifère 6–10 mm, pubérulent ; sépales fructifères 1,5–2 mm de longueur, ciliolés ; disque glabre. Fruit pendant, ± 6 × 7–8 mm, brunâtre, glabre. Graines ± 4 × 3 mm.
+, 'glabroglandulosa'. Shrub 0.5–1.5 m tall; branchlets pubescent-puberulent. Stipules ovate-elliptic, 4–8 × 1–3 mm, pubescent externally. Leaf: petiole 2–7 mm, pubescent-puberulent; lamina obovate-elliptic, 6–20 × 2.5–7 cm, cuneate to rounded at base, acuminate over 0.5–1.5 cm and often mucronu­late at apex, shining to matt above, ± glaucous below, glabrous or with a few scattered hairs on the midvein below; lateral nerves 8–12 pairs. Inflorescence solitary or geminate, in simple spike or raceme, pubescent, the male ones 2–6 cm long, the female ones 6–9 cm long and erect in fruit; male bracts 1–1.5 mm long, female ones 2–2.5 mm long in fruit, puberulent and ciliate. Male flower (1–)1.5–2.5 mm in diameter; pedicel 0–2 mm, puberulent; sepals 5, slightly connate at base, broadly ovate, ± 1 × 1 mm, glabrous or sometimes ciliolate at apex; petals present or absent, small; stamens ± 1.5 mm long, glabrous; disc lobes glabrous; pistillode obconic, ± 0.5 mm long, glabrous. Female flower unknown; fruiting pedicel 6–10 mm, puberulent; fruiting sepals 1.5–2 mm long, ciliolate; disc glabrous. Fruit pendulous, ± 6 × 7–8 mm, brownish, glabrous. Seeds ± 4 × 3 mm.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Gabon et la République Démocratique du Congo ; au Gabon, connue de deux récoltes, une de l’Ogooué-Lolo, l’autre de l’Ogooué-Maritime
+Gabon and the Democratic Republic of the Congo; in Gabon, known from two collections, one from Ogooué-Lolo, the other from Ogooué-Maritime
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-forêt primaire et secondarisée ; au Gabon, à 300–500 m d’altitude. b : Léonard (1995a). ibliographie
+primary and secondarized forest; in Gabon, at 300–500 m altitude. b: Léonard (1995a). ibliography
 
 ## Notes
 

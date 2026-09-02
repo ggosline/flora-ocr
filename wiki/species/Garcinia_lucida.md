@@ -7,6 +7,11 @@ family: Clusiaceae
 vol: 45
 pages: 29-30
 source: sources/Clusiaceae_vol45_liteparse
+countries: [Cameroon, Gabon, Republic of the Congo]
+in_region: true
+habit: "liana"
+habitat: [secondary forest, primary forest]
+altitude_m: "70–675"
 tags: [species, generated]
 ---
 # *Garcinia lucida* Vesque

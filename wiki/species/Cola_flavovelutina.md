@@ -7,6 +7,7 @@ family: Sterculiaceae
 vol: 02
 pages: 74-75
 source: sources/Sterculiaceae_vol02_paddle
+habit: "shrub"
 tags: [species, generated]
 ---
 # *Cola flavovelutina* K. Schumann.

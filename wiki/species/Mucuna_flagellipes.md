@@ -7,6 +7,12 @@ family: Leguminosae
 vol: 49
 pages: 301-301
 source: sources/Millettiaspeciesfabaceae_vol49_liteparse
+countries: [Angola, Gabon, Uganda]
+in_region: true
+subdivisions:
+  Gabon: [Estuaire, Moyen-Ogooué, Ngounié, Nyanga, Ogooué-Ivindo, Ogooué-Lolo, Woleu-Ntem]
+habitat: [secondary forest]
+altitude_m: "0–500"
 tags: [species, generated]
 ---
 # *Mucuna flagellipes* Hook.f.

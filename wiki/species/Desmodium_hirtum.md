@@ -7,6 +7,13 @@ family: Leguminosae
 vol: 49
 pages: 170-170
 source: sources/Millettiaspeciesfabaceae_vol49_liteparse
+countries: [Gabon]
+in_region: true
+subdivisions:
+  Gabon: [Ogooué-Ivindo]
+habit: "herb"
+habitat: [savanna]
+altitude_m: "1900"
 tags: [species, generated]
 ---
 # *Desmodium hirtum* Guill. & Perr. Planche 55.5

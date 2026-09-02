@@ -7,6 +7,13 @@ family: Gentianaceae
 vol: 54
 pages: 81-81
 source: sources/Gentianaceae_vol54_liteparse
+countries: [Equatorial Guinea, Gabon]
+in_region: true
+subdivisions:
+  Gabon: [Ogooué-Ivindo, Woleu-Ntem]
+habit: "herb"
+habitat: [rocky ground]
+altitude_m: "750"
 tags: [species, generated]
 ---
 # *Oreonesion testui* A.Raynal Planche 27, Figure 7(C)

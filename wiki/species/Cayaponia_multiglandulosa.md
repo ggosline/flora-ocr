@@ -7,6 +7,12 @@ family: Cucurbitaceae
 vol: 57
 pages: 48-49
 source: sources/Cucurbitaceae_vol57_paddle
+countries: [Democratic Republic of the Congo, Gabon, Senegal]
+in_region: true
+subdivisions:
+  Gabon: [Haut-Ogooué, Ogooué-Lolo]
+habit: "herb"
+altitude_m: "500"
 tags: [species, generated]
 ---
 # *Cayaponia multiglandulosa* R.Fern., Bol. Soc. Brot., sér. 2, 33 : 194 (1959).

@@ -51,7 +51,7 @@ Descoings : 6570, région de Franceville.
 
 ![Centotheca lappacea](../sources/Gramineae_vol05_paddle/figures/fig_036_p0217.png)
 
-*PL. XXXV. — Centotheca lappacea Desv. (Thollon 715) : 1, inflorescence; 2, base de la plante et feuilles; 3, détail de la nervation; 4, épillet, vue latérale (longueur de l'épillet : 5 mm). — C. mucronata (Poir.) O. Ktze. (Griffon du Bellay s. n.) : 5, inflorescence; 6, fragment de chaume et feuilles (longueur de la feuille : 11 cm); 7, détail de la nervation; 8, épillet; 9, détail d'une glumelle inférieure (épillet : 1 cm de long; glumelle inférieure : 2,7 mm).*
+*PL. XXXV. — Centotheca lappacea Desv. (Thollon 715) : 1, inflorescence; 2, base of the plant and leaves; 3, detail of venation; 4, spikelet, lateral view (spikelet length: 5 mm). — C. mucronata (Poir.) O. Ktze. (Griffon du Bellay s. n.) : 5, inflorescence; 6, culm fragment and leaves (leaf length: 11 cm); 7, detail of venation; 8, spikelet; 9, detail of a lower lemma (spikelet: 1 cm long; lower lemma: 2.7 mm).*
 
 ## Notes
 

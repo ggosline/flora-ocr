@@ -7,6 +7,11 @@ family: Burmanniaceae
 vol: 41
 pages: 20-22
 source: sources/Burmanniaceae_vol41_liteparse
+countries: [Gabon, Madagascar]
+in_region: true
+habit: "herb"
+habitat: [mangrove, savanna, rocky ground]
+altitude_m: "750"
 tags: [species, generated]
 ---
 # *Burmannia madagascariensis* Baker Planche 2

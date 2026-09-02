@@ -5,18 +5,15 @@ authority: Exell & Mendonça
 genus: Dialytheca
 family: Menispermaceae
 synonyms: []
-habit: liana
-habitat: [secondary forest]
-altitude_m: "± 150"
-countries: [Angola, Gabon]
-subdivisions:
-  Angola: [Cabinda]
-  Gabon: [Nyanga]
-in_region: true
 treatments:
   - vol: 60
     pages: "44"
     source: sources/Menispermaceae_vol60_liteparse
+countries: [Angola, Gabon]
+in_region: true
+subdivisions:
+  Gabon: [Nyanga]
+habit: "liana"
 tags: [species]
 ---
 

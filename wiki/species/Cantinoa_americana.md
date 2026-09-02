@@ -6,6 +6,12 @@ genus: Cantinoa
 vol: 58
 pages: 22-24
 source: sources/Labiataeulmaceaeverbenaceae_vol58_liteparse
+countries: [Cameroon, Central African Republic, Democratic Republic of the Congo, Gabon, Nigeria, Republic of the Congo]
+in_region: true
+subdivisions:
+  Gabon: [Ngounié, Ogooué-Maritime]
+habit: "herb"
+altitude_m: "600–1200"
 tags: [species, generated]
 ---
 # *Cantinoa americana* (Aubl.) Harley & J.F.B.Pastore Planche 4 ; Figure 1(B)

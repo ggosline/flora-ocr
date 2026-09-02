@@ -7,6 +7,10 @@ family: Begoniaceae
 vol: 39
 pages: 72-74
 source: sources/Begoniaceae_vol39_liteparse
+countries: [Cameroon, Democratic Republic of the Congo, Equatorial Guinea, Gabon, Rwanda, Sao Tome and Principe, Uganda]
+in_region: true
+habit: "epiphyte"
+altitude_m: "500"
 tags: [species, generated]
 ---
 # *Begonia ampla* Hook.f. Planche 34

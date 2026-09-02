@@ -7,6 +7,8 @@ family: Apocynaceae
 vol: 59
 pages: 269-269
 source: sources/Apocynaceae_vol59_liteparse
+habitat: [savanna]
+altitude_m: "125"
 tags: [species, generated]
 ---
 # *Voacanga lachenaudii* Jongkind, spec. nov.
@@ -16,8 +18,6 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 Differs from the closely related V. psilocalyx by the spreading calyx lobes and the comparatively wide corolla mouth (mouth about as wide as the lobes versus clearly narrower than the width of the lobes).
 
 ## Type
@@ -26,9 +26,7 @@ Lachenaud, Akouangou, Nguema Ekomo & Kaparidi 2395 *DERQ1JRXQLp1:GH1DQJKDHQWUH0R
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-galerie forestière en savane ; à ± 125 m d’altitude
+forest gallery in savanna; at ± 125 m altitude
 
 ## Notes
 

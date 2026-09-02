@@ -7,6 +7,10 @@ family: Moraceae
 vol: 26
 pages: 60-61
 source: sources/Moraceae_vol26_paddle
+countries: [Cameroon, Gabon, Nigeria]
+in_region: true
+habitat: [riverine]
+altitude_m: "800"
 tags: [species, generated]
 ---
 # *Dorstenia ciliata* Engler
@@ -46,7 +50,7 @@ Thollon 409, Mayombe.
 
 ![Dorstenia ciliata](../sources/Moraceae_vol26_paddle/figures/fig_017_p0062.png)
 
-*PL. 16. – Dorstenia ciliata Engl.: 1, partie sup. de la tige; 2, inflo. (Leeuwenberg & Berg 9616, Cameroun).*
+*PL. 16. – Dorstenia ciliata Engl.: 1, upper part of the stem; 2, infl. (Leeuwenberg & Berg 9616, Cameroon).*
 
 ## Notes
 

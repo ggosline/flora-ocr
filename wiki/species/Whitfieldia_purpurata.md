@@ -6,6 +6,7 @@ family: Acanthaceae
 vol: 13
 pages: 38-39
 source: sources/Acanthaceae_vol13_paddle
+habit: "shrub"
 tags: [species, generated]
 ---
 # *Whitfieldia purpurata*
@@ -15,25 +16,19 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 (R. Benoist) Heine, comb. nov.
 
 ≡ Pounguia purpurata R. Benoist, Bull. Soc. Bot. Fr. 85 : 679 (1938). — Bremekamp, Verh. Kon. Nederl. Akad. Wetensch., Afd. Natuurk., 2° ser., 50 (4) : 3-4 (1955). — Bhoj Raj, Grana Palynol. 3 (1) : 25, 90-101, t. 22, fig. 5, 6 (1961).
 
-Arbuste (ou probablement petite liane) à tiges subcylindriques, glabres. Pétioles de 7-10 mm. Limbes des feuilles elliptiques acuminés, avec un acumen allongé, de 7-10 × 40-52 mm, entières. 5-6 paires de nervures latérales.
+Shrub (or probably small vine) with subcylindric, glabrous stems. Petioles 7-10 mm. Leaf blades elliptic acuminate, with an elongate acumen, 7-10 × 40-52 mm, entire. 5-6 pairs of lateral veins.
 
-Fleurs en racèmes (axillaires?), jusqu'à 5 cm de long; bractées subulées, de 2 × 0,5 mm; pédicelles 4-8 mm; bractéoles ovales, un peu acuminées, glabres, de 20 × 17 mm. Sépales de 16-17 × 4 mm, libres à la base, acuminées, glabres. Corolle longue de 32 mm, violet-pourpre, striée le long des nervures, à partie inférieure subcylindrique-infundibuliforme; lobes lancéolés, de 9 × 5,5 mm. Étamines didynamics à filets les plus longs de 22 mm, et
+Flowers in racemes (axillary?), up to 5 cm long; bracts subulate, 2 × 0.5 mm; pedicels 4-8 mm; bracteoles ovate, somewhat acuminate, glabrous, 20 × 17 mm. Sepals 16-17 × 4 mm, free at the base, acuminate, glabrous. Corolla 32 mm long, violet-purple, striate along the veins, lower portion subcylindric-infundibuliform; lobes lanceolate, 9 × 5.5 mm. Stamens didynamous with longest filaments 22 mm, and short filaments 20 mm. Anthers fusiform, elongate, approximately 5 mm long, with pubescent connective. Ovary glabrous, ellipsoid, 1.5 mm high, disc 2 mm high, 25.5 mm long. Fruit unknown.
 
-filets courts de 20 mm. Anthères fusiformes, allongées, d'environ 5 mm de long, à connectif pubescent. Ovaire glabre, ellipsoïde, haut de 1,5 mm, disque haut de 2 mm, long de 25,5mm. Fruit inconnu.
-
-Le type est le seul matériel connu de cette espèce.
+The type is the only known material of this species.
 
 ## Source note
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Il n'est pas impossible qu'il ne s'agisse tout simplement d'une forme à bractéoles et fleurs très grandes, à corolle entièrement glabre à l'intérieur, du W. Brazzac (voir p.42)
+It is not impossible that this is simply a form with very large bracteoles and flowers, with corolla entirely glabrous inside, of W. Brazzac (see p. 42)
 
 ## Specimens examined
 

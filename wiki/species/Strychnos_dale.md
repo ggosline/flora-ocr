@@ -7,6 +7,9 @@ family: Loganiaceae
 vol: 19
 pages: 77-78
 source: sources/Loganiaceae_vol19_paddle
+countries: [Angola, Cameroon, Gabon]
+in_region: true
+habit: "liana"
 tags: [species, generated]
 ---
 # *Strychnos dale* De Wildeman
@@ -17,15 +20,13 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Large liana 10-40 m tall and 30-100 m long; stem 5-15 cm in diameter.
 
-Grande liane de 10-40 m de hauteur et de 30-100 m de longueur; tige de 5-15 cm de diamètre.
+Leaves with elliptic or narrowly elliptic blade, (5-) 8-17 × (2-) 4-9 cm, acuminate or ± apiculate at apex, cuneate or rounded at base; tertiary venation distinct, prominent on both faces, especially below.
 
-Feuilles à limbe elliptique ou étroitement elliptique, de (5-) 8-17 × (2-) 4-9 cm, acuminé ou ± apiculé au sommet, cuné ou arrondi à la base; nervation tertiaire distincte, proéminente sur les deux faces, surtout en dessous.
+Corolla, in mature bud, (3.8-) 4-4.5 mm long; tube 1-1.5 times longer than lobes, 2-3 mm wide; lobes 1.5-2.5 × 0.8-1.2 mm. Pistil (3.8-) 4-4.5 mm long; ovary 1-1.5 × 0.8-0.9 mm; style 2-3.5 mm long.
 
-Corolle, dans le bouton mûr, de  $ (3,8-) $ 4-4,5 mm de longueur; tube 1-1,5 fois plus long que les lobes, de 2-3 mm de largeur; lobes de 1,5-2,5 × 0,8-1,2 mm. Pistil de  $ (3,8-) $ 4-4,5 mm de longueur; ovaire de 1-1,5 × 0,8-0,9 mm; style de 2-3,5 mm de longueur.
-
-Fruits un peu plus grands que chez S. floribunda, de 20-22 × 15 mm à maturité (non vus). Pour les autres caractères voir S. floribunda. Pl. 28, 1-5, p. 135.
+Fruits somewhat larger than in S. floribunda, 20-22 × 15 mm at maturity (not seen). For other characters see S. floribunda. Pl. 28, 1-5, p. 135.
 
 ## Type
 
@@ -33,9 +34,7 @@ Mortehan 1062, Dundusana, Territoire de Bumba, Équateur, Congo-Kinshasa (holoty
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Cameroun, Gabon, Congo-Kinshasa, Angola. Forêts denses ou secondaires. Altitude 0-750 m.
+Cameroon, Gabon, Congo-Kinshasa, Angola. Dense or secondary forests. Altitude 0-750 m.
 
 ## Specimens examined
 
@@ -55,7 +54,7 @@ Klaine 3205, environs Libreville (fl.) BR, IFAN, K, P; 3364, eod. loc. (fl. aoû
 
 ![Strychnos dale](../sources/Loganiaceae_vol19_paddle/figures/fig_028_p0137.png)
 
-*PL. 28. — Strychnos dale De Wild. : 1, rameau × ½; 2, fleur × 2 ½; 3, portion de la corolle avec étamines × 2 ½; 4, pistil × 3 ½; 5, fruit × ½ (1-4 : Le Testu 9301; 5 : Leeuwenberg 6813). — Strychnos floribunda Gilg : 6, rameau × ½; 7, fleur × 3; 5, portion de la corolle avec étamines × 3; 9, pistil × 3; 10, fruit × ½; 11, graine × ½ (6-9 et 10 : d'après Leeuwenberg 4506 et 7381; 11 : d'après De Wilde J. c. s. 3441; tous éch. Côté d'Ivoire, WAG).*
+*PL. 28. — Strychnos dale De Wild. : 1, branch × ½; 2, flower × 2 ½; 3, portion of the corolla with stamens × 2 ½; 4, pistil × 3 ½; 5, fruit × ½ (1-4 : Le Testu 9301; 5 : Leeuwenberg 6813). — Strychnos floribunda Gilg : 6, branch × ½; 7, flower × 3; 8, portion of the corolla with stamens × 3; 9, pistil × 3; 10, fruit × ½; 11, seed × ½ (6-9 and 10 : after Leeuwenberg 4506 and 7381; 11 : after De Wilde J. c. s. 3441; all specimens Ivory Coast, WAG).*
 
 ## Notes
 

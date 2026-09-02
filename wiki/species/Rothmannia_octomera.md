@@ -7,6 +7,9 @@ family: Rubiaceae
 vol: 17
 pages: 238-239
 source: sources/Rubiaceae_vol17_paddle
+countries: [Angola, Cameroon, Central African Republic, Gabon, Nigeria]
+in_region: true
+habit: "shrub"
 tags: [species, generated]
 ---
 # *Rothmannia octomera* (Hook.) Fagerl.
@@ -48,7 +51,7 @@ Le Testu 5086, between Guidouma and Sainte-Croix (fl. Nov.); 5086 bis (BM!), May
 
 ![Rothmannia octomera](../sources/Rubiaceae_vol17_paddle/figures/fig_056_p0237.png)
 
-*PL. 55. — Rothmannia octomera (Hook.) Fagerl. (fl. Le Testu 9369 et 8479; fr. N. Hallé et A. Le Thomas 312) : 1, bouton × 1; 2 et 3, fleurs épanouies × 1; 4, anthère longue de 27 mm; 5, coupe transversale de l'anthère ouverte; 6, intérieur du calice montrant le disque déprimé; 7, coupe de l'ovaire; 8, fruit plein × 0,8; 9, masse placentaire contenant les graines immatures, recto et verso; 10, graine × 2; 11, embryon × 2,5; 12, débris du squelette floral apparaissant à la base d'un vieux fruit après décrépitude.*
+*PL. 55. — Rothmannia octomera (Hook.) Fagerl. (fl. Le Testu 9369 and 8479; fr. N. Hallé and A. Le Thomas 312) : 1, bud × 1; 2 and 3, expanded flowers × 1; 4, anther 27 mm long; 5, transverse section of the open anther; 6, interior of the calyx showing the depressed disk; 7, section of the ovary; 8, full fruit × 0,8; 9, placental mass containing immature seeds, recto and verso; 10, seed × 2; 11, embryo × 2,5; 12, debris of the floral skeleton appearing at the base of an old fruit after decay.*
 
 ## Notes
 

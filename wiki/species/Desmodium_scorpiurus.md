@@ -7,6 +7,12 @@ family: Leguminosae
 vol: 49
 pages: 174-175
 source: sources/Millettiaspeciesfabaceae_vol49_liteparse
+countries: [Gabon]
+in_region: true
+subdivisions:
+  Gabon: [Moyen-Ogooué]
+habit: "herb"
+altitude_m: "30"
 tags: [species, generated]
 ---
 # *Desmodium scorpiurus* (Sw.) Desv.

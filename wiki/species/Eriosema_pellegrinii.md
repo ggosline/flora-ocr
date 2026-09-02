@@ -7,6 +7,13 @@ family: Leguminosae
 vol: 49
 pages: 190-191
 source: sources/Millettiaspeciesfabaceae_vol49_liteparse
+countries: [Angola, Benin, Burkina Faso, Central African Republic, Cote d'Ivoire, Democratic Republic of the Congo, Gabon, Ghana, Mali, Niger, Republic of the Congo]
+in_region: true
+subdivisions:
+  Gabon: [Haut-Ogooué]
+habit: "herb"
+habitat: [savanna]
+altitude_m: "600"
 tags: [species, generated]
 ---
 # *Eriosema pellegrinii* Tisser.

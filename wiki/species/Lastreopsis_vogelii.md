@@ -7,6 +7,9 @@ family: Aspidiaceae
 vol: 08
 pages: 174-176
 source: sources/Aspidiaceae_vol08_paddle
+countries: [Guinea, Nigeria]
+in_region: true
+habit: "herb"
 tags: [species, generated]
 ---
 # *Lastreopsis vogelii* (Hk.) Tindale

@@ -7,6 +7,12 @@ family: Verbenaceae
 vol: 58
 pages: 140-142
 source: sources/Verbenaceae_vol58_liteparse
+countries: [Angola, Central African Republic, Democratic Republic of the Congo, Equatorial Guinea, Gabon, Nigeria, Republic of the Congo, Sudan]
+in_region: true
+subdivisions:
+  Gabon: [Estuaire, Moyen-Ogooué, Ngounié, Nyanga, Ogooué-Ivindo, Ogooué-Lolo, Ogooué-Maritime]
+habit: "shrub"
+altitude_m: "0–500"
 tags: [species, generated]
 ---
 # *Lippia multiflora* Moldenke Planche 38

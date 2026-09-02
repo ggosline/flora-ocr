@@ -7,6 +7,9 @@ family: Loganiaceae
 vol: 19
 pages: 115-117
 source: sources/Loganiaceae_vol19_paddle
+countries: [Cameroon, Gabon]
+in_region: true
+habit: "tree"
 tags: [species, generated]
 ---
 # *Strychnos staudtii* Gilg
@@ -17,19 +20,15 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+— FTA 4 (1) : 528. — FWTA ed. 1, 2 : 24. — FWTA ed. 2, 2 : 43. — LEEUWENBERG, l. c. : 251, fig. 41, phot. 5, map 39.
 
-— FTA 4 (1) : 528. — FWTA ed. 1, 2 : 24. — FWTA ed. 2, 2 : 43. — LEEUWENBERG, l. c. : 251, fig. 41, phot. 5, carte 39.
+Tree 7.50-20 m tall; trunk somewhat angular, reaching up to 40-60 cm in diameter; bark very thin, greyish-brown, with large lenticels; wood hard, very pale yellowish-brown; twigs pale grey to pale brown, without lenticels; small twigs generally furnished with fine pubescence below the stipular line, otherwise glabrous.
 
-Arbre de 7,50-20 m de hauteur; tronc un peu cannelé, atteignant jusqu'à 40-60 cm de diamètre; écorce très mince, grise-brune, à grandes lenticelles; bois, dur, jaunâtre-brun très pâle; rameaux gris pâle à brun pâle, non lenticelles; petits rameaux généralement garnis d'une fine pubescence en dessous de la ligne stipulaire, pour le reste glabres.
+Leaves with petiole glabrous or with a few small hairs, 3-8 mm long; blade papyraceous when fresh, coriaceous when dry, elliptic or narrowly elliptic, (8-)10-20.5 × (3-)4-8.5 cm, often shortly acuminate at the apex, cuneate or rounded at the base, glabrous on both surfaces; two pairs of secondary nerves curved along the margin, the first being poorly marked and subpromarginal; main nerves impressed above, prominent below; tertiary venation indistinctly reticulate.
 
-Feuilles à pétiole glabre ou avec quelques petits poils, de 3-8 mm de longueur; limbe papyracé sur le vif, coriace à l'état sec, elliptique ou étroitement elliptique, de (8-) 10-20,5 × (3-) 4-8,5 cm, souvent brièvement
+Inflorescences axillary, fairly contracted, pauciflorous, 1.5-3 × 1.5-2.5 cm; peduncle, branches and pedicels with short pubescence over their entire surface. Flowers (4-)5-merous. Sepals whitish-green, fused over one-third of their height, broadly ovate to suborbicular, 1.5-3 × 1.5-2.2 mm, obtuse or rounded, finely ciliate, with fine pubescence on the exterior, with some glandular hairs at the base on the interior. Corolla, in the mature bud, 8-11 mm long, whitish-green on the exterior, white on the interior, becoming pale yellow, with fine pubescence on the exterior, especially on the tube, on the interior with two rings of white hairs resembling coarse ones, one at the middle of the tube and the other on a narrow crown situated at the throat; annular crown 0.5-1 mm high, entire or with 5 very short lobes opposite the corolla lobes; tube 1-1.4 times longer than the lobes, 4-6.5 mm long; lobes narrowly triangular, 4-5 × 1.5-2.5 mm, acute, spreading. Stamens exserted, inserted at the corolla throat, with short filament, c. 0.4-1 times longer than the anther; anther oblong, usually shortly bearded at the base. Pistil glabrous, pale green, 8.5-10 mm long; ovary ovoid or broadly ovoid, 2-2.5 × 1.5-2 mm, 2-locular; style 6-8 mm long, fairly slender; stigma white, small, capitate; 20-30 ovules per locule.
 
-acuminé au sommet, cuné ou arrondi à la base, glabre sur les deux faces; deux paires de nervures secondaires courbées le long de la marge, la première étant peu marquée et submarginale; nervures principales imprimées en dessus, proéminentes en dessous; nervation tertiaire indistinctement réticulée.
-
-Inflorescences axillaires, assez contractées, pauciflores, de 1,5-3 × 1,5-2,5 cm; pédoncule, rameaux et pédicelles à pubescence courte sur toute leur surface. Fleurs (4- ) 5-mères. Sépales blanc verdâtre, soudés sur le tiers de leur hauteur, largement ovés à suborbiculaires, de 1,5-3 × 1,5-2,2 mm, obtus ou arrondis, finement ciliés, à pubérulence fine à l'extérieur, avec quelques poils glanduleux à la base à l'intérieur. Corolle, dans le bouton mûr, de 8-11 mm de longueur, à l'extérieur blanc verdâtre, à l'intérieur blanche, devenant jaune pâle, à l'extérieur avec pubérulence fine, surtout sur le tube, à l'intérieur avec deux anneaux de poils blancs semblables à des grosses, l'un au milieu du tube et l'autre sur une couronne étroite située à la gorge; couronne annulaire de 0,5-1 mm de hauteur, entière ou avec 5 très courts lobes opposés aux lobes de la corolle; tube 1-1,4 fois plus long que les lobes, de 4-6,5 mm de longueur; lobes étroitement triangulaires, de 4-5 × 1,5-2,5 mm, aigus, étalés. Étamines exsertes, insérées à la gorge de la corolle, à filet court, env. 0,4-1 fois plus long que l'anthère; anthère oblongue, généralement brièvement barbue à la base. Pistil glabre, vert pâle, de 8,5-10 mm de longueur; ovaire ovoïde ou largement ovoïde, de 2-2,5 × 1,5-2 mm, à 2 loges; style de 6-8 mm de longueur, assez mince; stigmate blanc, petit, capité; 20-30 ovules par loge.
-
-Fruits blancs, petits, subglobuleux, de 22-37 × 20-35 mm et contenant au moins une graine, paroi mince, de 1-1,5 mm d'épaisseur à l'état desséché. Graine aplatie, presque elliptique, de 20-23 × 15-17 × 7 mm, assez rugueuse, à pubescence très courte et scabre; testa épais. Pl. 39, 1-5, p. 146.
+Fruits white, small, subglobose, 22-37 × 20-35 mm and containing at least one seed, wall thin, 1-1.5 mm thick in the dried state. Seed flattened, almost elliptic, 20-23 × 15-17 × 7 mm, fairly rugose, with very short and scabrous pubescence; testa thick. Pl. 39, 1-5, p. 146.
 
 ## Type
 
@@ -37,9 +36,7 @@ Staudt 616, Cameroun
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Cameroun, Gabon. Forêts denses; souvent sur rives de rivières. Altitude 0-400 m.
+Cameroon, Gabon. Dense forests; often on river banks. Altitude 0-400 m.
 
 ## Specimens examined
 
@@ -61,11 +58,10 @@ Le Testu 6093, Haute Ngounyé, Boucimbi (fl., sept.) P, WAG; 7563, région de La
 
 ## Source note
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Strychnos staudtii is very close to S. zenkeri in appearance, leaves, inflorescences, exterior of flowers, fruits and seeds. The two species differ clearly by the following characters:
 
-Strychnos staudtii est très voisin de S. zenkeri par l'aspect, les feuilles, les inflorescences, l'extérieur des fleurs, les fruits et les graines. Les deux espèces différent nettement par les caractères suivants
-
-Corolle avec deux anneaux de poils à l'intérieur; pistil glabre..... S. staudtii. Corolle avec un anneau de poils seulement à la gorge; pistil pileux-pubescent .....
+Corolla with two rings of hairs on the interior; pistil glabrous..... S. staudtii.
+Corolla with only one ring of hairs at the throat; pistil hairy-pubescent .....
 
 ..... S. zenkeri.
 
@@ -73,7 +69,7 @@ Corolle avec deux anneaux de poils à l'intérieur; pistil glabre..... S. staudt
 
 ![Strychnos staudtii](../sources/Loganiaceae_vol19_paddle/figures/fig_039_p0148.png)
 
-*PL. 39. — Strychnos staudtii Gilg : 1, rameau × 1/2; 2, fleur × 3; 3, dissection de la fleur × 3; 4, pistil × 3; 5, graine × 1/2 (1-5 : Breteler c. s. 2575). — Strychnos zenkeri Gilg ex. Bak. : 6, rameau × 1/2; 7, fleur × 4; 8, dissection de la fleur × 4; 9, pistil × 4; 10, fruit × 1/2; 11, graine × 1/2 (6-9 : Zenker 2436; 10-11 : d'après Pierlot 2373, Congo-Kinshasa, BR, WAG).*
+*PL. 39. — Strychnos staudtii Gilg : 1, branch × 1/2; 2, flower × 3; 3, flower dissection × 3; 4, pistil × 3; 5, seed × 1/2 (1-5 : Breteler c. s. 2575). — Strychnos zenkeri Gilg ex. Bak. : 6, branch × 1/2; 7, flower × 4; 8, flower dissection × 4; 9, pistil × 4; 10, fruit × 1/2; 11, seed × 1/2 (6-9 : Zenker 2436; 10-11 : after Pierlot 2373, Congo-Kinshasa, BR, WAG).*
 
 ## Notes
 

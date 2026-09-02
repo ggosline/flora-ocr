@@ -7,6 +7,12 @@ family: Commelinaceae
 vol: 55
 pages: 57-59
 source: sources/Commelinaceae_vol55_liteparse
+countries: [Cameroon, Cote d'Ivoire, Equatorial Guinea, Gabon, Ghana, Guinea, Liberia, Nigeria, Sao Tome and Principe, Sierra Leone, Togo]
+in_region: true
+subdivisions:
+  Gabon: [Estuaire, Ogooué-Ivindo, Woleu-Ntem]
+habit: "herb"
+altitude_m: "600"
 tags: [species, generated]
 ---
 # *Palisota bracteosa* C.B.Clarke

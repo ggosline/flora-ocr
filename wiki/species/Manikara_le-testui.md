@@ -35,7 +35,7 @@ Remarkable species, but very imperfectly known from a single specimen of Le Test
 
 ![Manikara le-](../sources/Sapotaceae_vol01_paddle/figures/fig_004_p0033.png)
 
-*PL. I. — Manilkara Le-Testui Aubr. et Pellegr. : 1, rameau florifère × 2/3; 2, feuille × 1/2; 3, corolle (fleur jeune) × 3; 4, fragment de corolle × 5; 5, anthère × 5; 6, pistil × 5. — Manilkara Fouilloyana Aubr. et Pellegr. : 7, feuille × 2/3; 8, fragment de corolle × 5; 9, pistil × 5.*
+*PL. I. — Manilkara Le-Testui Aubr. et Pellegr. : 1, flowering branch × 2/3; 2, leaf × 1/2; 3, corolla (young flower) × 3; 4, fragment of corolla × 5; 5, anther × 5; 6, pistil × 5. — Manilkara Fouilloyana Aubr. et Pellegr. : 7, leaf × 2/3; 8, fragment of corolla × 5; 9, pistil × 5.*
 
 ## Notes
 

@@ -7,6 +7,11 @@ family: Leguminosae
 vol: 49
 pages: 294-296
 source: sources/Millettiaspeciesfabaceae_vol49_liteparse
+countries: [Cameroon, Gabon, Nigeria]
+in_region: true
+habit: "tree"
+habitat: [secondary forest]
+altitude_m: "50–140"
 tags: [species, generated]
 ---
 # *Millettia aboensis* (Hook.f.) Baker Planche 94

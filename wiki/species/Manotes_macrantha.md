@@ -7,6 +7,8 @@ family: Connaraceae
 vol: 33
 pages: 104-105
 source: sources/Connaraceae_vol33_paddle
+countries: [Cote d'Ivoire, Gabon, Liberia]
+in_region: true
 tags: [species, generated]
 ---
 # *Manotes macrantha* (Gilg) Schellenberg
@@ -59,7 +61,7 @@ Thomas 6507, between Guidouma and Mimongo (y. fr., Jul.), MO, WAG.
 
 ![Manotes macrantha](../sources/Connaraceae_vol33_paddle/figures/fig_037_p0106.png)
 
-*PL. 31. – Manotes macrantha (Gilg) Schellenberg : 1, jeune rameau florifère × 2/3 ; 2, foliole × 2/3 ; 3, foliole, détail (voir « × » sur 2) × 4 ; 4, fleur × 4 ; 5, fleur, vue partielle montrant l'androgynophore, les étamines et les carpelles chez une fleur brévistylée × 4 ; 6, pétale montrant 2 lobes latéraux × 4 ; 7, jeune rameau fructifère × 2/3 ; 8, fruit × 2. (1, 4-6. de Wilde 3624 ; 2, 3. Leeuwenberg 4909 ; 7, 8. Bos 1888). – Repris de AUWP 89 (6).*
+*PL. 31. – Manotes macrantha (Gilg) Schellenberg : 1, young flowering branch × 2/3 ; 2, leaflet × 2/3 ; 3, leaflet, detail (see « × » on 2) × 4 ; 4, flower × 4 ; 5, flower, partial view showing the androgynophore, stamens and carpels in a short-styled flower × 4 ; 6, petal showing 2 lateral lobes × 4 ; 7, young fruiting branch × 2/3 ; 8, fruit × 2. (1, 4-6. de Wilde 3624 ; 2, 3. Leeuwenberg 4909 ; 7, 8. Bos 1888). – Reprinted from AUWP 89 (6).*
 
 ## Notes
 

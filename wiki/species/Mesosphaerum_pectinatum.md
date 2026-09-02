@@ -6,6 +6,12 @@ genus: Mesosphaerum
 vol: 58
 pages: 76-78
 source: sources/Labiataeulmaceaeverbenaceae_vol58_liteparse
+countries: [Angola, Central African Republic, Democratic Republic of the Congo, Equatorial Guinea, Gabon, Republic of the Congo]
+in_region: true
+subdivisions:
+  Gabon: [Estuaire]
+habit: "herb"
+altitude_m: "0–100"
 tags: [species, generated]
 ---
 # *Mesosphaerum pectinatum* (L.) Kuntze Planche 18

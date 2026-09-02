@@ -7,6 +7,9 @@ family: Lauraceae
 vol: 10
 pages: 48-48
 source: sources/Lauraceae_vol10_paddle
+countries: [Cameroon]
+in_region: true
+habit: "tree"
 tags: [species, generated]
 ---
 # *Beilschmiedia cinnamomea* (Stapf) Rob. et Wilcz..

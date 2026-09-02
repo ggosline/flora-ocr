@@ -7,6 +7,9 @@ family: Acanthaceae
 vol: 13
 pages: 22-26
 source: sources/Acanthaceae_vol13_paddle
+countries: [Cameroon, Guinea, Republic of the Congo]
+in_region: true
+habit: "shrub"
 tags: [species, generated]
 ---
 # *Dischistocalyx hirsutus* C. B. Clarke

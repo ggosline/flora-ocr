@@ -7,6 +7,7 @@ family: Acanthaceae
 vol: 13
 pages: 236-239
 source: sources/Acanthaceae_vol13_paddle
+habit: "herb"
 tags: [species, generated]
 ---
 # *Hypoestes potamophila* Heine, sp. nov.

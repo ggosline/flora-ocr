@@ -7,6 +7,9 @@ family: Opiliaceae
 vol: 20
 pages: 182-183
 source: sources/Opiliaceae_vol20_paddle
+countries: [Cameroon]
+in_region: true
+habit: "liana"
 tags: [species, generated]
 ---
 # *Rhopalopilia altescandens* Engler
@@ -39,7 +42,7 @@ Mildbraed 4425, env. de Moloundou, 15°15' W, 2°50' N (fl., févr.).
 
 ![Rhopalopilia altescandens](../sources/Opiliaceae_vol20_paddle/figures/fig_040_p0181.png)
 
-*PL. 40. — Rhopalopilia altescandens Engl.: 1, rameau feuillé et inflorescences × 2/3; 2, coupe du pétiole; 3, base du limbe; 4, sommet du limbe; 5, rachis inflorescentiel × 5; 6, bractée × 5; 7, fleur × 8; 8a, coupe de la fleur au niveau des pétales et 8b coupe de la fleur entre les pétales × 8; 9, pétale face int. × 17; 10, coupe d'un pétale × 17; 11, étamine × 20. (Mildbraed 4425).*
+*PL. 40. — Rhopalopilia altescandens Engl.: 1, leafy branch and inflorescences × 2/3; 2, section of petiole; 3, base of blade; 4, apex of blade; 5, inflorescence rachis × 5; 6, bract × 5; 7, flower × 8; 8a, section of flower at the level of petals and 8b section of flower between petals × 8; 9, petal inner surface × 17; 10, section of petal × 17; 11, stamen × 20. (Mildbraed 4425).*
 
 ## Notes
 

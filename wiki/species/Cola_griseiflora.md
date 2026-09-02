@@ -7,6 +7,7 @@ family: Sterculiaceae
 vol: 02
 pages: 78-80
 source: sources/Sterculiaceae_vol02_paddle
+habit: "tree"
 tags: [species, generated]
 ---
 # *Cola griseiflora* De Wildeman.

@@ -7,6 +7,12 @@ family: Passifloraceae
 vol: 46
 pages: 77-78
 source: sources/Passifloraceae_vol46_liteparse
+countries: [Central African Republic, Democratic Republic of the Congo, Gabon, Republic of the Congo, Tanzania, Uganda]
+in_region: true
+subdivisions:
+  Gabon: [Haut-Ogooué, Ogooué-Ivindo]
+habit: "tree"
+altitude_m: "400"
 tags: [species, generated]
 ---
 # *Barteria dewevrei* De Wild. & T.Durand Planche 32(9)

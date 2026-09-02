@@ -7,6 +7,7 @@ family: Acanthaceae
 vol: 13
 pages: 120-122
 source: sources/Acanthaceae_vol13_paddle
+habit: "shrub"
 tags: [species, generated]
 ---
 # *Sclerochiton vogelli* (Nees) T. Anders.
@@ -23,17 +24,13 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 ≡ Isacanthus Vogelii Nees, in DC. Prodr. II : 279 (1847).
 
-Arbuste presque glabre à tiges dressées rondes. Grandeur des feuilles assez variable, suivant les conditions écologiques semble-t-il, chez les échantillons gabonais. Pétioles de 2-4 mm. Limbe des feuilles obovale-lancéolé, de 10-11 × 3 — 3,5 cm longuement acuminé à la base, cuspide, à écumen arrondi de 8-10 mm. 7-8 paires de nervures latérales.
+Shrub almost glabrous with erect, rounded stems. Leaf size rather variable, apparently depending on ecological conditions in the Gabonese specimens. Petioles 2–4 mm. Leaf blade obovate-lanceolate, 10–11 × 3–3.5 cm, long-acuminate at the base, cuspidate, with a rounded acumen 8–10 mm. 7–8 pairs of lateral veins.
 
-Fleurs terminales et axillaires sessiles en épis très condensés 1-4-flores. Rachis de l'inflorescence de 3-5 mm environ, pubescent; bractées lancéolées de 5 × 15 mm, fortement striées; bractéoles très semblables mais plus grandes, de 1 × 3 mm. Calice de 22-
+Flowers terminal and axillary, sessile in very condensed 1–4-flowered spikes. Inflorescence rachis approximately 3–5 mm, pubescent; bracts lanceolate 5 × 15 mm, strongly striated; bracteoles very similar but larger, 1 × 3 mm. Calyx 22–25 mm long, with 5 lanceolate, unequal segments; posterior segment 28 × 4 mm; lateral segments 24 × 3.5 mm; anterior segments 28 × 2.5–3 mm; the dimensions of the segments are rather variable, especially through accrescence during fruiting. Corolla 26–28 mm, blue or bluish, glabrous on the outside, very shortly hairy on the inside; tube 1 cm long and 2.5–3 mm in diameter, with a ring of short hairs positioned 6 mm above the base; limb unilabiate approximately 15 mm long; lobes equal, rounded. Stamens 17 mm; filaments 6 mm, glabrous, inserted at the narrowed throat of the corolla; anthers cordate-sagittate, 3 mm long, hairy at the base. Ovary ellipsoid 5 × 1.5–2 mm; style glabrous 16 mm; stigma slightly curved.
 
-25 mm de long, à 5 segments lancéolés, inégaux; segment postérieur 28 × 4 mm; segments latéraux, 24 × 3,5 mm; segments antérieurs 28 × 2,5-3 mm; les dimensions des segments sont assez variables, surtout par accrescence lors de la fructification. Corolle de 26-28 mm, bleue ou bleuâtre, glabre à l'extérieur, très courtement poilue à l'intérieur; tube de 1 cm de long et 2,5-3 mm de diamètre, à anneau de poils courts situé 6 mm au dessus de la base; limbe unilabé d'environ 15 mm de long; lobes égaux, arrondis. Étamines de 17 mm; filets de 6 mm, glabres, insérées à la gorge rétrécie de la corolle; anthères cordées sagitées, de 3 mm de long, poilues à la base. Ovaire ellipsoïde de 5 × 1,5-2 mm; style glabre de 16 mm; stigmate légèrement courbé.
-
-Fruit glabre fusiforme, de  $ 18 \times 4-5 $ mm. Des deux ovules par loge, fréquemment l'inférieur seulement produit une graine. Graine aplatie, de  $ 4,5 \times 3,5 \times 0,7 $ mm à ornamentation verruculeuse disposée concentriquement.
+Fruit glabrous, fusiform, 18 × 4–5 mm. Of two ovules per locule, frequently only the lower one produces a seed. Seed flattened, 4.5 × 3.5 × 0.7 mm, with verrucose ornamentation arranged concentrically.
 
 ## Type
 

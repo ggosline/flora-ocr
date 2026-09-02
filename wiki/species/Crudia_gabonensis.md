@@ -7,6 +7,7 @@ family: Leguminosae
 vol: 15
 pages: 155-157
 source: sources/Leguminosae_vol15_paddle
+habit: "tree"
 tags: [species, generated]
 ---
 # *Crudia gabonensis* Pierre ex Harms
@@ -43,7 +44,7 @@ Klaine : 56, 2289 (fl. juil.), 3067 (fl. sept.), 3083 (fl. sept.), Libreville.
 
 ![Crudia gabonensis](../sources/Leguminosae_vol15_paddle/figures/fig_034_p0154.png)
 
-*PL. XXXIV. — Crudia gabonensis Pierre : 1, feuille et inflorescence × 2/3; 2, stipules. — Crudia Klainei Pierre : 3, feuille et inflorescence × 2/3; 4, pétiolule; 5, stipules × 1,5; 6, fleur × 3; 7, détails d'insertion de l'ovaire; 8, fruit × 1/2. 2, 4, 5, 6, 7, 8, d'après F.F.C.I.*
+*PL. XXXIV. — Crudia gabonensis Pierre : 1, leaf and inflorescence × 2/3; 2, stipules. — Crudia Klainei Pierre : 3, leaf and inflorescence × 2/3; 4, petiolule; 5, stipules × 1,5; 6, flower × 3; 7, details of ovary insertion; 8, fruit × 1/2. 2, 4, 5, 6, 7, 8, after F.F.C.I.*
 
 ## Notes
 

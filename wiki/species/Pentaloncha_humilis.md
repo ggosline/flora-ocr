@@ -43,7 +43,7 @@ G. Mann: 1734, 1° lat. N (fl. and fr. July).
 
 ![Pentaloncha humilis](../sources/Rubiaceae_vol12_paddle/figures/fig_031_p0131.png)
 
-*PL. 25. — Placentation des Mussaendées (II Urophyllinae) : 1, Pentaloncha humilis (fruit); 2, Pauridiantha floribunda (fleur); 3, P. efferata (fl.) 4, 4' et 5, P. viridiflora (fl.) 6, P. Dewevrei (fl.) 7, P. callicarpoides (fl.) 8, P. rubens (coupe, fl.) 9, Commitheca Liebrechtsiana (fl.) 10, Poeciloralyx setiflorus (fl.) 11, Poe. Schumannii (fr.) 12, Poe. crystallinus (fl.) 13, Poe. stipulosus (fl.) 14, Stelecantha makakana (fr.) l'insertion est en U (pointillé); 15, St. cauliflora (fl.)*
+*PL. 25. — Placentation of the Mussaendeeae (II Urophyllinae) : 1, Pentaloncha humilis (fruit); 2, Pauridiantha floribunda (flower); 3, P. efferata (fl.) 4, 4' and 5, P. viridiflora (fl.) 6, P. Dewevrei (fl.) 7, P. callicarpoides (fl.) 8, P. rubens (section, fl.) 9, Commitheca Liebrechtsiana (fl.) 10, Poeciloralyx setiflorus (fl.) 11, Poe. Schumannii (fr.) 12, Poe. crystallinus (fl.) 13, Poe. stipulosus (fl.) 14, Stelecantha makakana (fr.) insertion is in U (dotted); 15, St. cauliflora (fl.)*
 
 ![Pentaloncha humilis](../sources/Rubiaceae_vol12_paddle/figures/fig_038_p0155.png)
 
@@ -51,7 +51,7 @@ G. Mann: 1734, 1° lat. N (fl. and fr. July).
 
 ![Pentaloncha humilis](../sources/Rubiaceae_vol12_paddle/figures/fig_059_p0229.png)
 
-*PL. 48. — Pentaloncha humilis Hook. f. (N. Hallé 2405) : 1, extrémité fructifère; 2, sommet du bouton; 3, préfloraison; 4, fleur; 5, corolle vue par-dessus; 6, coupe de la fleur; 7, étamine; 8, coupe de l'ovaire; 9, fruit; 10, graine. — Voir aussi pl. 31 fig. 2 p. 153.*
+*PL. 48. — Pentaloncha humilis Hook. f. (N. Hallé 2405) : 1, fertile apex; 2, bud apex; 3, prefloration; 4, flower; 5, corolla seen from above; 6, flower section; 7, stamen; 8, ovary section; 9, fruit; 10, seed. — See also pl. 31 fig. 2 p. 153.*
 
 ## Notes
 

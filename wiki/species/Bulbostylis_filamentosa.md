@@ -7,6 +7,12 @@ family: Cyperaceae
 vol: 44
 pages: 24-25
 source: sources/Cyperaceae_vol44_liteparse
+countries: [Gabon, Senegal, Sudan]
+in_region: true
+subdivisions:
+  Gabon: [Haut-Ogooué]
+habit: "herb"
+altitude_m: "400–700"
 tags: [species, generated]
 ---
 # *Bulbostylis filamentosa* (Vahl) C.B.Clarke Planche 10

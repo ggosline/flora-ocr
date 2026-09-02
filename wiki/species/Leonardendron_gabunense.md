@@ -7,6 +7,8 @@ family: Leguminosae
 vol: 15
 pages: 245-248
 source: sources/Leguminosae_vol15_paddle
+countries: [Gabon]
+in_region: true
 tags: [species, generated]
 ---
 # *Leonardendron gabunense* (Léonard) Aubr.
@@ -45,7 +47,7 @@ Le Testu : 7808, Roungassa (fl. déc.); 9089, Koulamoutou (ou Oyem?) (fl. déc.)
 
 ![Leonardendron gabunense](../sources/Leguminosae_vol15_paddle/figures/fig_059_p0246.png)
 
-*PL. LIX. — Leonarddron gabunense (Léonard) Aubr. : 1, feuille; 2, inflorescence; 2', bractées; 3, fleur; 4, détail de la corolle; 5, ovaire et style.*
+*PL. LIX. — Leonarddron gabunense (Léonard) Aubr. : 1, leaf; 2, inflorescence; 2', bracts; 3, flower; 4, detail of the corolla; 5, ovary and style.*
 
 ## Notes
 

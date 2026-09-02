@@ -7,6 +7,8 @@ family: Celastraceae
 vol: 29
 pages: 263-265
 source: sources/Celastraceae_vol29_paddle
+countries: [Angola, Cameroon, Central African Republic, Cote d'Ivoire, Democratic Republic of the Congo, Gabon, Ghana, Sierra Leone, Uganda]
+in_region: true
 tags: [species, generated]
 ---
 # *Bequaertia mucronata* (Exell) Wilczek

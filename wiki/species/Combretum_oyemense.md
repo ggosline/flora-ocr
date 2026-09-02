@@ -7,6 +7,9 @@ family: Combretaceae
 vol: 35
 pages: 72-73
 source: sources/Combretaceae_vol35_paddle
+countries: [Cameroon, Gabon, Sierra Leone]
+in_region: true
+habit: "liana"
 tags: [species, generated]
 ---
 # *Combretum oyemense* Exell

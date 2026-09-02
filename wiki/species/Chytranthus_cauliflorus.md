@@ -7,6 +7,9 @@ family: Sapindaceae
 vol: 23
 pages: 94-96
 source: sources/Sapindaceae_vol23_paddle
+countries: [Cameroon, Cote d'Ivoire, Gabon, Ghana, Liberia, Nigeria]
+in_region: true
+habit: "shrub"
 tags: [species, generated]
 ---
 # *Chytranthus cauliflorus* (Hutchinson & Dalziel) Wickens

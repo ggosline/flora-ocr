@@ -7,6 +7,10 @@ family: Meliaceae
 vol: 47
 pages: 22-23
 source: sources/Meliaceae_vol47_liteparse
+countries: [Cameroon, Democratic Republic of the Congo, Gabon, Senegal]
+in_region: true
+habit: "tree"
+altitude_m: "2600"
 tags: [species, generated]
 ---
 # *Ekebergia capensis* Sparrm. Planche 2

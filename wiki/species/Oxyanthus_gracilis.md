@@ -7,6 +7,9 @@ family: Rubiaceae
 vol: 17
 pages: 203-204
 source: sources/Rubiaceae_vol17_paddle
+countries: [Cameroon, Nigeria]
+in_region: true
+habit: "shrub"
 tags: [species, generated]
 ---
 # *Oxyanthus gracilis* Hiern (P.L. 46, p. 203)

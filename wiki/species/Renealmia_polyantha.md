@@ -5,11 +5,10 @@ authority: K. Schum.
 genus: Renealmia
 family: Zingiberaceae
 synonyms: []
+treatments: [{vol: 9, pages: "26–27", source: sources/Zingiberaceae_vol9_paddle}]
 countries: [Cameroon, Gabon]
 in_region: true
-habit: rhizomatous herb
-habitat: [humid forest understorey]
-treatments: [{vol: 9, pages: "26–27", source: sources/Zingiberaceae_vol9_paddle}]
+habit: "herb"
 tags: [species]
 ---
 

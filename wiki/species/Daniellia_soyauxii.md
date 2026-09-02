@@ -7,6 +7,9 @@ family: Leguminosae
 vol: 15
 pages: 167-168
 source: sources/Leguminosae_vol15_paddle
+countries: [Gabon]
+in_region: true
+habit: "tree"
 tags: [species, generated]
 ---
 # *Daniellia soyauxii* (Harms) Rolfe

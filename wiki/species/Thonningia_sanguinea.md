@@ -7,6 +7,10 @@ family: Balanophoraceae
 vol: 40
 pages: 14-15
 source: sources/Balanophoraceae_vol40_liteparse
+countries: [Gabon, Senegal, Zambia]
+in_region: true
+habit: "herb"
+altitude_m: "750"
 tags: [species, generated]
 ---
 # *Thonningia sanguinea* Vahl Planche 2
@@ -17,29 +21,21 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-T. sessilis Lecomte, J. Bot. (Morot) 10 : 234 (1896). T. angolensis Hemsl., Bull. Misc. Inform. 1911 : 151 (1911). T. dubia Hemsl., Bull. Misc. Inform. 1911 : 152 (1911). T. elegans Hemsl., Bull. Misc. Inform. 1911 : 152 (1911). T. ugandensis Hemsl., Bull. Misc. Inform. 1911 : 152 (1911). Herbe à tubercules allongés, de 4–7 mm de diamètre, renflés jusqu’à 16 mm au contact des racines de la plante hôte, velus. Feuilles couvrant le pédoncule et l’inflorescence, triangulaires-lancéolées, aiguës , 12–30 x 5–11 mm, rigides et piquantes, carénées. Inflorescence issues de bourgeons sur le tubercule ; pédoncule jusqu’à 15 cm de hauteur, la partie terminale florifère renflée, hémisphérique à ovoïde, 2 – 4 cm de diamètre (jusqu’à 5,5 cm en fruit), rouge sang ; bractées réduites ou absentes. Fleurs mâles 8–16 mm de longueur ; tépales linéaires, aigus, environ 3 mm de longueur, roses à rouge-rose, parfois jaunes à la base ; étamines formant un synandre lancéolé de 5–6 mm de longueur et crème. Fleurs femelles 3–4 mm de longueur ; périanthe 1–1,5 mm de longueur ; style filiforme, 2–3 mm de longueur. Infrutescence rouge sombre à cramoisie ; akènes ovoïdescylindriques, environ 1,5 x 1 mm. Graines ellipsoïdes, crème.
+T. sessilis Lecomte, J. Bot. (Morot) 10 : 234 (1896). T. angolensis Hemsl., Bull. Misc. Inform. 1911 : 151 (1911). T. dubia Hemsl., Bull. Misc. Inform. 1911 : 152 (1911). T. elegans Hemsl., Bull. Misc. Inform. 1911 : 152 (1911). T. ugandensis Hemsl., Bull. Misc. Inform. 1911 : 152 (1911). Herb with elongate tubers, 4–7 mm in diameter, swollen up to 16 mm in contact with roots of the host plant, hirsute. Leaves covering the peduncle and inflorescence, triangular-lanceolate, acute, 12–30 x 5–11 mm, rigid and prickly, keeled. Inflorescence arising from buds on the tuber; peduncle up to 15 cm tall, the terminal flower-bearing part swollen, hemispherical to ovoid, 2–4 cm in diameter (up to 5.5 cm in fruit), blood-red; bracts reduced or absent. Male flowers 8–16 mm long; tepals linear, acute, approximately 3 mm long, pink to rose-pink, sometimes yellow at the base; stamens forming a lanceolate synandrium 5–6 mm long and cream-coloured. Female flowers 3–4 mm long; perianth 1–1.5 mm long; style filiform, 2–3 mm long. Infructescence dark red to crimson; achenes ovoid-cylindric, approximately 1.5 x 1 mm. Seeds ellipsoid, cream-coloured.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-dans les régions humides du Sénégal jusqu’à l’Ethiopie à l’est et la Zambie au sud ; commune au Gabon
+In humid regions from Senegal to Ethiopia in the east and Zambia in the south; common in Gabon
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-en forêts denses humides primaires et secondaires, galeries forestières, savanes et plantations ; au Gabon jusqu’à 750 m d’altitude, ailleurs jusqu’à 1500 m. Holoparasite sur racines des arbres de plusieurs familles comme les Apocynaceae ( Funtumia africana ), Euphorbiaceae ( Bridelia micrantha ) , Leguminosae ( Baphia nitida, Pentaclethra eetveldiana ), Moraceae ( Antiaris africana, Myrianthus arboreus ), mais aussi dans des plantations d’arbres à caoutchouc ( Hevea ), de palmiers à l’huile et de cacaoyers. Fleurit toute l’année. Usage : Les tubercules ont été utilisés comme aromatisant dans des soupes. Les capitules, les tubercules et même la plante entière, ont été appliqués comme médicament pour des différentes affections comme des vers intestinaux, maux de gorge, maladies de la peau, affections buccales, dysenterie, rhumatismes et hémorroïdes (Bourobou, comm. pers.). Les Batéké piquent les genoux des petits enfants avec les capitules épineux pour qu’ils ne rampent plus et qu’ainsi ils apprennent plus vite à marcher ; une utilisation similaire où les capitules sont attachés à leurs jambes, est rapportée du Ghana et de la Côte d’Ivoire
+In primary and secondary dense humid forests, forest galleries, savannas and plantations; in Gabon up to 750 m altitude, elsewhere up to 1500 m. Holoparasite on roots of trees of several families such as Apocynaceae ( Funtumia africana ), Euphorbiaceae ( Bridelia micrantha ), Leguminosae ( Baphia nitida, Pentaclethra eetveldiana ), Moraceae ( Antiaris africana, Myrianthus arboreus ), but also in plantations of rubber trees ( Hevea ), oil palms and cacao. Flowers year-round. Uses: The tubers have been used as a flavouring in soups. The capitula, tubers and even the entire plant have been applied as medicine for various ailments such as intestinal worms, sore throat, skin diseases, oral affections, dysentery, rheumatism and haemorrhoids (Bourobou, pers. comm.). The Batéké prick the knees of small children with the prickly capitula so that they no longer crawl and thus learn to walk more quickly; a similar use in which the capitula are attached to their legs is reported from Ghana and Côte d'Ivoire
 
 ## Vernacular names
 
 eyeta ngomba (Mitsogho), ezila-zi.ntyé (Galoa, Mpongwè, Nkomi, Orungu), gyatsi-gya-tandu (Ngowé), gyatsi-gi-gu-tsi, ngumba (Bavarama, Éshira), ngomba (Apindji, Bavové, Ivéa, Mitsogho, Simba), ngôm-metèc (Fang), nguma-a-tsyé (Mindumu), ngumba (Bapunu, Bavungu). B : Burkill (1985), Hansen (1986, 1991), Staner (1948), Stannard (2006). i B liographie
 
 ## Discussion
-
-<!-- TODO:translate — source text below, verbatim and untranslated -->
 
 9 9
 

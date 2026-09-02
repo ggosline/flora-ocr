@@ -7,6 +7,12 @@ family: Cyperaceae
 vol: 44
 pages: 214-215
 source: sources/Cyperaceae_vol44_liteparse
+countries: [Cote d'Ivoire, Democratic Republic of the Congo, Gabon, Ghana, Nigeria, Uganda, Zambia]
+in_region: true
+subdivisions:
+  Gabon: [Ogooué-Ivindo]
+habit: "herb"
+altitude_m: "400–500"
 tags: [species, generated]
 ---
 # *Scleria iostephana* Nelmes Planche 132
@@ -17,23 +23,17 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Perennial herb, robust; stem bases swollen, forming an irregular knotty mass or more rarely aligned; stem 60–150 cm × 2–4 mm (5–8 mm at the base), almost glabrous below, hairy and usually scabrous above. Leaf: sheath pubescent, with scabrous angles; collar thickened and densely clothed with whitish or dark reddish-brown hairs; blade flat, the largest 30–60 cm × 5–8 mm, usually scabrous on the margin and nerves, often ± pubescent towards the base. Inflorescence formed of a terminal panicle and 2–3 lateral ones, each 3–7 × 1.5–4 cm, regularly spaced along the stem; peduncle at most 3 cm, erect, solitary in the upper leaf sheaths. Male spikelet 4–5 mm long, with glumes straw-yellow with reddish-brown wings, hairy especially on the margin. Female spikelet 5–7 mm long, with glumes straw-yellow or greenish on and near the central nerve, otherwise dark reddish-brown, hairy on the margin and central nerve. Achene ovoid or ellipsoid, 3–3.5 × 2.5–2.8 mm, smooth, greyish-white or whitish below, violet to dark bluish-black above (rarely almost uniformly coloured); hypogynium with 3 distinct lobes with folded margins, yellowish-brown or light reddish-brown.
 
-Herbe vivace , robuste ; bases des tiges renflées, formant une masse noueuse irrégulière ou plus rarement alignées ; tige 60–150 cm × 2–4 mm (5–8 mm à la base), presque glabre en bas, poilue et habituellement scabre en haut. Feuille : gaine pubescente, à angles scabres ; collet épaissi et densément garni de poils blanchâtres ou brun rougeâtre foncé ; limbe plan, les plus grands de 30–60 cm × 5–8 mm, habituellement scabre sur la marge et les nervures, souvent ± pubescent vers la base. Inflorescence formée d’une panicule terminale et de 2–3 latérales , chacune 3–7 × 1,5–4 cm, espacées régulièrement le long de la tige ; pédoncule de 3 cm au plus, dressé, solitaire dans les gaines foliaires supérieures. Épillet mâle long de 4–5 mm , à glumes jaune paille avec des ailes brun rougeâtre, poilues surtout sur la marge. Épillet femelle long de 5–7 mm, à glumes jaune paille ou verdâtres sur et près de la nervure centrale, sinon brun rougeâtre foncé, poilues sur la marge et la nervure centrale. Akène ovoïde ou ellipsoïde, 3–3,5 × 2,5–2,8 mm, lisse , blanc grisâtre ou blanchâtre en bas, violet à bleu noirâtre au-dessus (rarement presque uniformément coloré) ; hypogynium avec 3 lobes distincts à marges repliées, brun jaunâtre ou brun rougeâtre clair.
-
-a b Jarr 2276 , Sierra Leone).
+a b Jarr 2276, Sierra Leone).
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Côte d’Ivoire, Ghana, Nigeria, Gabon, République Démocratique du Congo, plus répandue en Afrique de l’Est de l’Ouganda à la Zambie ; rare au Gabon, trouvée dans la Réserve de la Lopé (Ogooué-Ivindo)
+Ivory Coast, Ghana, Nigeria, Gabon, Democratic Republic of the Congo, more widespread in East Africa from Uganda to Zambia; rare in Gabon, found in the Lopé Reserve (Ogooué-Ivindo)
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-en forêt ou en bordure des forêts près des marécages ou des rivières ; au Gabon, à 400–500 m d’altitude, jusqu’à 1200 m en Afrique de l’Est. Note taxonomique : se reconnaît par son port dressé et son akène violet dans sa partie supérieure. Elle est proche de S. boivinii qui est une plante grimpante, donc avec un port très différent. b : Haines & Lye (1983), Hoenselaar et al. (2010), Hooper & Napper (1972), ibliographie Robinson (1966)
+in forest or at forest margins near swamps or rivers; in Gabon, at 400–500 m altitude, up to 1200 m in East Africa. Taxonomic note: recognized by its erect habit and its violet achene in the upper part. It is close to S. boivinii which is a climbing plant, thus with a very different habit. b: Haines & Lye (1983), Hoenselaar et al. (2010), Hooper & Napper (1972), ibliography Robinson (1966)
 
 ## Notes
 

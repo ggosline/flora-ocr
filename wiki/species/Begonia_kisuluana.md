@@ -7,6 +7,10 @@ family: Begoniaceae
 vol: 39
 pages: 96-98
 source: sources/Begoniaceae_vol39_liteparse
+countries: [Angola, Cameroon, Democratic Republic of the Congo, Gabon, Nigeria, Uganda]
+in_region: true
+habit: "epiphyte"
+altitude_m: "150"
 tags: [species, generated]
 ---
 # *Begonia kisuluana* Büttner Planche 44

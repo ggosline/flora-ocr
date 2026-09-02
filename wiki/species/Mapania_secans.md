@@ -7,6 +7,13 @@ family: Cyperaceae
 vol: 44
 pages: 183-184
 source: sources/Cyperaceae_vol44_liteparse
+countries: [Cameroon, Gabon]
+in_region: true
+subdivisions:
+  Gabon: [Estuaire, Ogooué-Lolo, Ogooué-Maritime, Woleu-Ntem]
+habit: "herb"
+habitat: [swamp forest]
+altitude_m: "0–700"
 tags: [species, generated]
 ---
 # *Mapania secans* K.Schum. Planche 115, Figure 20b

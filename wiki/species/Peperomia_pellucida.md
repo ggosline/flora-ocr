@@ -7,6 +7,13 @@ family: Piperaceae
 vol: 50
 pages: 73-73
 source: sources/Piperaceae_vol50_liteparse
+countries: [Gabon]
+in_region: true
+subdivisions:
+  Gabon: [Estuaire, Moyen-Ogooué, Ngounié, Nyanga, Ogooué-Ivindo, Woleu-Ntem]
+habit: "herb"
+habitat: [swamp forest]
+altitude_m: "10–500"
 tags: [species, generated]
 ---
 # *Peperomia pellucida* (L.) Kunth Planche 26.1

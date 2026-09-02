@@ -7,6 +7,9 @@ family: Moraceae
 vol: 26
 pages: 261-265
 source: sources/Moraceae_vol26_paddle
+countries: [Gabon]
+in_region: true
+habit: "tree"
 tags: [species, generated]
 ---
 # *Myrianthus cuneifolius* (Engler) Engler
@@ -61,7 +64,7 @@ Mann 1051, Gabon River or "lat. 1° N" (fl., Sept.); 1819, Kongui River (fl., Se
 
 ![Myrianthus cuneifolius](../sources/Moraceae_vol26_paddle/figures/fig_082_p0262.png)
 
-*PL. 81. - Myrianthus cuneifolius (Engl.) Engl.: a, rameau feuillé avec inflorescence staminée; b, feuille; c, inflorescence pistillée et fleur; d, infrutescence; e, pétale fleur staminée; f, pubescence tige; g, pubescence feuille (a, f, Hallé N. 866 bis; b, g, Mann 1051; c, Mann 1819; d, Klaine 191; e, Klaine 63).*
+*PL. 81. - Myrianthus cuneifolius (Engl.) Engl.: a, leafy branch with staminate inflorescence; b, leaf; c, pistillate inflorescence and flower; d, infructescence; e, petal staminate flower; f, stem pubescence; g, leaf pubescence (a, f, Hallé N. 866 bis; b, g, Mann 1051; c, Mann 1819; d, Klaine 191; e, Klaine 63).*
 
 ## Notes
 

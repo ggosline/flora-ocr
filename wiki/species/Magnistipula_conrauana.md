@@ -7,6 +7,9 @@ family: Scytopetalaceae
 vol: 24
 pages: 81-84
 source: sources/Chrysobalanaceae_vol24_paddle
+countries: [Cameroon]
+in_region: true
+habit: "shrub"
 tags: [species, generated]
 ---
 # *Magnistipula conrauana* Engler
@@ -61,7 +64,7 @@ Rieth 1093 SRFCam, Bagnіou près Bangangté (fl., janv.).
 
 ![Magnistipula conrauana](../sources/Chrysobalanaceae_vol24_paddle/figures/fig_023_p0083.png)
 
-*PL. 23. — Magnistipula conrauana Engl. : 1, rameau avec fleurs × 2/3; 2, bractée × 4; 3, 3', glandes foliaires × 1; 4, fleur × 2; 5, fleur en coupe × 3; 6, fruit coupé × 1. (1-2, 4-5, Letouzey 11241; 3-3', Jacques-Félix 2911; 6, CNAD 1688).*
+*PL. 23. — Magnistipula conrauana Engl. : 1, branch with flowers × 2/3; 2, bract × 4; 3, 3', foliar glands × 1; 4, flower × 2; 5, flower in section × 3; 6, sectioned fruit × 1. (1-2, 4-5, Letouzey 11241; 3-3', Jacques-Félix 2911; 6, CNAD 1688).*
 
 ## Notes
 

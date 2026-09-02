@@ -7,6 +7,13 @@ family: Anacardiaceae
 vol: 50
 pages: 16-17
 source: sources/Anacardiaceae_vol50_liteparse
+countries: [Cameroon, Equatorial Guinea, Gabon, Nigeria]
+in_region: true
+subdivisions:
+  Gabon: [Estuaire, Ogooué-Maritime, Woleu-Ntem]
+habit: "tree"
+habitat: [mangrove, secondary forest]
+altitude_m: "0–760"
 tags: [species, generated]
 ---
 # *Lannea glabrescens* Engl. Planche 4

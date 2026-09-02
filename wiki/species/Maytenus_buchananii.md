@@ -7,6 +7,8 @@ family: Celastraceae
 vol: 22
 pages: 13-16
 source: sources/Celastraceae_vol22_paddle
+countries: [Cote d'Ivoire, Mozambique]
+in_region: false
 tags: [species, generated]
 ---
 # *Maytenus buchananii* (Loesener) Wilczek
@@ -51,7 +53,7 @@ Hallé N. & Le Thomas 248, Boué (fr., juill.).
 
 ![Maytenus buchananii](../sources/Celastraceae_vol22_paddle/figures/fig_003_p0015.png)
 
-*PL. 3. — Maytenus buchananii (Loes.) Wilczeck : 1, feuilles et infrutescences × 2/3; 2, détail de la nervation × 1,2; 3, détail d'une inflorescence × 3; 4, bractée × 24; 5, sépale × 12; 6, pétale × 8; 7, détail d'un pétale × 20; 8, anthère × 18; 9, pistil × 6,6; 10, graine × 3; 11, coupe long. d'une graine × 4 (1, 2, 10, 11, Hallé N. & Le Thomas 248; 3-9, Hepper 1754).*
+*PL. 3. — Maytenus buchananii (Loes.) Wilczeck : 1, leaves and infructescences × 2/3; 2, detail of venation × 1.2; 3, detail of an inflorescence × 3; 4, bract × 24; 5, sepal × 12; 6, petal × 8; 7, detail of petal × 20; 8, anther × 18; 9, pistil × 6.6; 10, seed × 3; 11, longitudinal section of seed × 4 (1, 2, 10, 11, Hallé N. & Le Thomas 248; 3-9, Hepper 1754).*
 
 ## Notes
 

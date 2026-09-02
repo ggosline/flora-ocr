@@ -7,6 +7,9 @@ family: Zingiberaceae
 vol: 09
 pages: 34-35
 source: sources/Zingiberaceae_vol09_paddle
+countries: [Togo]
+in_region: false
+habit: "herb"
 tags: [species, generated]
 ---
 # *Renalmia macrocolea* K. Schum.

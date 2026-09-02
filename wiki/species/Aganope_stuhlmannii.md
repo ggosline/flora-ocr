@@ -7,6 +7,11 @@ family: Leguminosae
 vol: 49
 pages: 34-34
 source: sources/Millettiaspeciesfabaceae_vol49_liteparse
+countries: [Gabon, Kenya, Nigeria, Senegal, Zimbabwe]
+in_region: true
+habit: "tree"
+habitat: [secondary forest]
+altitude_m: "50–600"
 tags: [species, generated]
 ---
 # *Aganope stuhlmannii* (Taub.) Adema

@@ -7,6 +7,10 @@ family: Ochnaceae
 vol: 48
 pages: 34-35
 source: sources/Ochnaceae_vol48_liteparse
+countries: [Angola, Cameroon, Central African Republic, Cote d'Ivoire, Democratic Republic of the Congo, Equatorial Guinea, Gabon, Ghana, Guinea, Liberia, Nigeria, Republic of the Congo]
+in_region: true
+habitat: [gallery forest, secondary forest, coastal]
+altitude_m: "30–850"
 tags: [species, generated]
 ---
 # *Campylospermum calanthum* (Gilg) Farron Planche 5

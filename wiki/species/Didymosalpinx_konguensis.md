@@ -7,6 +7,9 @@ family: Rubiaceae
 vol: 17
 pages: 262-264
 source: sources/Rubiaceae_vol17_paddle
+countries: [Cameroon, Guinea]
+in_region: true
+habit: "shrub"
 tags: [species, generated]
 ---
 # *Didymosalpinx konguensis* (Hiern) Keay
@@ -43,7 +46,7 @@ N. Hallé 757, La Nkoulounga (fr. juill.)
 
 ![Didymosalpinx konguensis](../sources/Rubiaceae_vol17_paddle/figures/fig_062_p0263.png)
 
-*PL. 61. — Didymosalpinx konguensis (Hiern) Keay (N. Hallé 757, sauf 2) : 1 et 1', nœuds stipulés × 1; 2, fleur × 0,75 (Mann 1784); 3, fruit mù × 1; 4, masse placentaire contenant 8 graines × 2/3; 5, graine × 1,5. — D. lanciloba (S. Moore) Keay (N. Hallé 3459, sauf 13); 6, nœud à 3 épines × 1; 7, rameau florifère × 1; 8, demi-corolle et style; 9, lobe de la corolle à plat; 10, anthère recto et verso × 4; 11, coupe transversale de l'anthère ouverte; 12, fruit monosperme × 1; 13, fruit à plusieurs graines (N. Hallé et A. Le Thomas 523); 14, coupe de la graine montrant l'embryon.*
+*PL. 61. — Didymosalpinx konguensis (Hiern) Keay (N. Hallé 757, except 2) : 1 and 1', stipulate nodes × 1; 2, flower × 0.75 (Mann 1784); 3, mature fruit × 1; 4, placental mass containing 8 seeds × 2/3; 5, seed × 1.5. — D. lanciloba (S. Moore) Keay (N. Hallé 3459, except 13); 6, node with 3 spines × 1; 7, flowering branch × 1; 8, half-corolla and style; 9, corolla lobe flat; 10, anther front and back × 4; 11, transverse section of open anther; 12, monospermic fruit × 1; 13, fruit with several seeds (N. Hallé and A. Le Thomas 523); 14, section of seed showing embryo.*
 
 ## Notes
 

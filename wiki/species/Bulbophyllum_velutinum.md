@@ -7,6 +7,9 @@ family: Orchidaceae
 vol: 36
 pages: 171-173
 source: sources/Orchidaceae_vol36_paddle
+countries: [Cameroon, Cote d'Ivoire, Equatorial Guinea, Gabon, Ghana, Liberia, Nigeria, Sao Tome and Principe, Sierra Leone]
+in_region: true
+habitat: [mangrove, savanna, coastal]
 tags: [species, generated]
 ---
 # *Bulbophyllum velutinum* (Lindl.) Rchb.f.
@@ -99,7 +102,7 @@ KEY TO GROUP 3: species with bifoliate pseudobulbs
 
 ![Bulbophyllum velutinum](../sources/Orchidaceae_vol36_paddle/figures/fig_089_p0174.png)
 
-*PL. 84. – Bulbophyllum velutinum (Lindl.) Rchb.f.: A-C, vue générale ; D, E, partie de l'inflorescence ; F, fleur ; G, pièces florales ; H, labelle ; I, labelle et gynostème en position naturelle, vue latérale ; J, région apicale du gynostème, vue de dessous (A-J, ex VERMEULEN, 1987).*
+*PL. 84. – Bulbophyllum velutinum (Lindl.) Rchb.f.: A-C, general view ; D, E, part of inflorescence ; F, flower ; G, floral parts ; H, labellum ; I, labellum and gynostemium in natural position, lateral view ; J, apical region of gynostemium, view from below (A-J, ex VERMEULEN, 1987).*
 
 ## Notes
 

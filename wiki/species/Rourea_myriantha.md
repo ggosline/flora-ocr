@@ -7,6 +7,8 @@ family: Connaraceae
 vol: 33
 pages: 127-129
 source: sources/Connaraceae_vol33_paddle
+countries: [Angola, Democratic Republic of the Congo, Nigeria]
+in_region: true
 tags: [species, generated]
 ---
 # *Rourea myriantha* Baillon
@@ -89,7 +91,7 @@ Soyaux 70, type de Rourea soyauxii, Sibange farm (fl., Mars), K, P, Z ; 262, typ
 
 ![Rourea myriantha](../sources/Connaraceae_vol33_paddle/figures/fig_045_p0126.png)
 
-*PL. 39. – Rourea myriantha Baillon : 1, jeune rameau florifère × 2/3 ; sommet de folioles : 2, 4, vus de dessus, 3, vu de dessous × 6 ; 5, fleur × 4 ; 6, fleur, vue partielle montrant des étamines et des carpelles d'une fleur longistylée × 6 ; 7, fruit × 2/3 ; 8, graine avec sarcotesta (partie foncée) × 2 ; 9, cotylédon, face int. avec radicule ventrale × 2. (1. de Wilde 8071 ; 2-3. Letouzey 12045 ; 4. Zenker 2933 ; 5-6. de Wilde & al. 511 ; 7. Farron 4607 ; 8-9. Zenker 2933). – Repris de AUWP 89 (6).*
+*PL. 39. – Rourea myriantha Baillon : 1, young flowering branch × 2/3 ; leaflet apex : 2, 4, viewed from above, 3, viewed from below × 6 ; 5, flower × 4 ; 6, flower, partial view showing stamens and carpels of a long-styled flower × 6 ; 7, fruit × 2/3 ; 8, seed with sarcotesta (dark part) × 2 ; 9, cotyledon, internal surface with ventral radicle × 2. (1. de Wilde 8071 ; 2-3. Letouzey 12045 ; 4. Zenker 2933 ; 5-6. de Wilde & al. 511 ; 7. Farron 4607 ; 8-9. Zenker 2933). – Taken from AUWP 89 (6).*
 
 ## Notes
 

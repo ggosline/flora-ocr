@@ -7,6 +7,12 @@ family: Cyperaceae
 vol: 44
 pages: 49-50
 source: sources/Cyperaceae_vol44_liteparse
+countries: [Gabon, Senegal]
+in_region: true
+subdivisions:
+  Gabon: [Ngounié]
+habit: "herb"
+altitude_m: "0–100"
 tags: [species, generated]
 ---
 # *Cyperus congensis* C.B.Clarke Planche 24

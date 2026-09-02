@@ -7,6 +7,8 @@ family: Icacinaceae
 vol: 20
 pages: 81-84
 source: sources/Icacinaceae_vol20_paddle
+countries: [Angola, Democratic Republic of the Congo, Nigeria]
+in_region: true
 tags: [species, generated]
 ---
 # *Pyrenacantha staudtii* (Engler) Engler
@@ -59,7 +61,7 @@ Breteler 6403, Moanda, km 6 route de Franceville (fl. ♂, sept.). Le Testu 9546
 
 ![Pyrenacantha staudtii](../sources/Icacinaceae_vol20_paddle/figures/fig_019_p0083.png)
 
-*PL. 19. — Pyrenacantha staudtii Engl. : 1, feuilles et inflorescence ♂ × 2/3; 2, hydathode; 3, fleur ♂ × 11; 4, coupe de la fleur ♂ × 11; 5, diagramme de la fleur ♂; 6, pétale × 14; 7, 7′, étamine × 9,6; 8, feuilles, inflorescence ♀ et fruits × 2/3; 9, fleur ♀ × 9,7; 10, coupe longitudinale de la fleur ♀ × 9,7; 11, ovaire × 16; 12, coupe de l'ovaire × 16; 13, face interne de l'endocarpe. (1-13, Le Testu 9546).*
+*PL. 19. — Pyrenacantha staudtii Engl. : 1, leaves and ♂ inflorescence × 2/3; 2, hydathode; 3, ♂ flower × 11; 4, section of ♂ flower × 11; 5, diagram of ♂ flower; 6, petal × 14; 7, 7′, stamen × 9,6; 8, leaves, ♀ inflorescence and fruits × 2/3; 9, ♀ flower × 9,7; 10, longitudinal section of ♀ flower × 9,7; 11, ovary × 16; 12, section of ovary × 16; 13, inner surface of the endocarp. (1-13, Le Testu 9546).*
 
 ## Notes
 

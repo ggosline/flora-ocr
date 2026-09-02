@@ -7,6 +7,9 @@ family: Celastraceae
 vol: 29
 pages: 125-126
 source: sources/Celastraceae_vol29_paddle
+countries: [Cameroon, Democratic Republic of the Congo, Gabon, Ghana, Liberia, Nigeria, Sierra Leone]
+in_region: true
+habit: "liana"
 tags: [species, generated]
 ---
 # *Salacia tuberculata* Blakelock

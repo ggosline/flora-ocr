@@ -7,6 +7,10 @@ family: Convolvulaceae
 vol: 46
 pages: 41-43
 source: sources/Convolvulaceae_vol46_liteparse
+countries: [Gabon]
+in_region: true
+habit: "herb"
+altitude_m: "700"
 tags: [species, generated]
 ---
 # *Ipomoea involucrata* P. Beauv. Planche 16

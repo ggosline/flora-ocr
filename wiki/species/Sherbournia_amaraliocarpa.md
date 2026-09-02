@@ -7,6 +7,8 @@ family: Rubiaceae
 vol: 17
 pages: 140-141
 source: sources/Rubiaceae_vol17_paddle
+countries: [Gabon]
+in_region: true
 tags: [species, generated]
 ---
 # *Sherbournia amaraliocarpa* (Wernh.) Hepper
@@ -24,15 +26,11 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Vine with glabrous internodes. Stipules moderately pubescent, elliptic 10–15 × 4–6 mm. Petioles moderately pubescent or glabrous 6–20 mm. Blade subcoriaceous brown-rust-coloured, glabrous above, sparsely micropubérulent to glabrescent below, elliptic often quite broadly 10–19 × 6–12 cm, with acute to rounded base, with brief acute acumen. (6) 8–11 pairs of secondary nervures ± glabrescent below. Tertiary nervures evident.
 
-Liane à entrenœuds glabres. Stipules médiocrement pubescentes, elliptiques de 10-15 × 4-6 mm. Pétioles médiocrement pubescents ou glabres de 6-20 mm. Limbe subcoriace brun roussâtre, glabre dessus, micropubérulent de façon éparse à glabrescent dessous, elliptique souvent assez largement de 10-19 × 6-12 cm, à base aiguë à arrondie, à bref acumen aigu. (6) 8-11 paires de nervures secondaires ± glabrescentes dessous. Nervures tertiaires apparentes.
+Inflorescences 3–6-flowered moderately clothed with tawny hairs, with peduncle 1–3 mm, with pedicels 5–12 mm. Calyx clothed with dense and very fine silky golden ochraceus pubérulence, with subtruncate cupule or with teeth ± briefly aciculate-acute. Corolla with tube approximately 2.5 × 1.5 cm, with fine golden pubescence, bright yellow in life spotted with points and purplish blotches on the interior. Anthers glabrous $ 10 \times 2 $ mm. Ovary furrowed.
 
-Inflorescences 3-6-flores médiocrement vêtues de poils fauves, à pédoncule de 1-3 mm, à pédicelles de 5-12 mm. Calice vêtue d'une dense et très fine pubérulence soyeuse doré ochracé, à cupule subtronquée ou à dents ± brièvement apiculées aiguës. Corolle à tube d'env. 2,5 × 1,5 cm, à fine pubescence dorée, sur
-
-le vif jaune clair ponctué de points et taches pourprées à l'intérieur. Anthères glabres de  $ 10 \times 2 $ mm. Ovaire sillonné.
-
-Fruit elipsoïde à très fine, pubérulence, atteignant 15-25 mm de diam., à 10 côtes ± saillantes.
+Fruit ellipsoid with very fine pubérulence, reaching 15–25 mm in diam., with 10 ribs ± prominent.
 
 ## Type
 
@@ -40,11 +38,9 @@ Talbot 3021 (BM!), Eket, S Nigeria
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+This species is related to Sh. hapalophylla, Sh. streptocaulon and Sh. curviipes.
 
-Cette espèce est affiné de Sh. hapalophylla, Sh. streptocaulon et Sh. curviipes.
-
-Muni (Tessmann 141 HBG!), Gabon et Congo (Evrard 3651 et 5116, Befale; C. Donis 2158, Luki).
+Muni (Tessmann 141 HBG!), Gabon and Congo (Evrard 3651 and 5116, Befale; C. Donis 2158, Luki).
 
 ## Specimens examined
 

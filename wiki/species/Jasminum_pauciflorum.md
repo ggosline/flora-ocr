@@ -7,6 +7,13 @@ family: Oleaceae
 vol: 51
 pages: 17-17
 source: sources/Oleaceae_vol51_liteparse
+countries: [Angola, Gabon, Guinea-Bissau, Kenya, Mozambique]
+in_region: true
+subdivisions:
+  Gabon: [Estuaire, Ogooué-Ivindo]
+habit: "liana"
+habitat: [secondary forest]
+altitude_m: "700"
 tags: [species, generated]
 ---
 # *Jasminum pauciflorum* Benth. Planche 5

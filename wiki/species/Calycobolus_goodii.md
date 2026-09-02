@@ -7,6 +7,13 @@ family: Convolvulaceae
 vol: 46
 pages: 24-25
 source: sources/Convolvulaceae_vol46_liteparse
+countries: [Angola, Gabon]
+in_region: true
+subdivisions:
+  Gabon: [Ogooué-Lolo]
+habit: "liana"
+habitat: [secondary forest]
+altitude_m: "300–700"
 tags: [species, generated]
 ---
 # *Calycobolus goodii* Heine

@@ -7,6 +7,13 @@ family: Leguminosae
 vol: 49
 pages: 284-285
 source: sources/Millettiaspeciesfabaceae_vol49_liteparse
+countries: [Angola, Gabon]
+in_region: true
+subdivisions:
+  Gabon: [Nyanga, Ogooué-Ivindo, Ogooué-Maritime]
+habit: "liana"
+habitat: [gallery forest]
+altitude_m: "200–500"
 tags: [species, generated]
 ---
 # *Millettia lecomtei* Dunn

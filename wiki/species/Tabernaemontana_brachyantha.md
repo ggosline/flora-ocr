@@ -7,6 +7,7 @@ family: Apocynaceae
 vol: 59
 pages: 238-240
 source: sources/Apocynaceae_vol59_liteparse
+habit: "tree"
 tags: [species, generated]
 ---
 # *Tabernaemontana brachyantha* Stapf Planche 110 ; Figure 12(D)
@@ -17,13 +18,9 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Tree reaching 20 m in height; bark furnished with large lenticels; wood soft, straw-colored; branchlets glabrous. Leaves of one pair equal or unequal, the smallest up to one-third the length of the other; petiole 5–25 mm; ochrea well visible; limb broadly to narrowly elliptic, 1.5–2 times as long as wide, 8–12 × 5–7 cm, cuneate and rounded at the base or even decurrent on the petiole, rounded or apiculate at the apex, coriaceous, even when fresh, glabrous on both faces; secondary nerves 8 to 15 pairs, rather straight at the base and generally fairly steeply curved toward the top near the margin. Inflorescence erect, 8–10 × 1–3 cm, sometimes branched but rather condensed, never dense to numerous.
 
-Arbre atteignant 20 m de hauteur ; écorce munie de grandes lenticelles ; bois tendre, de couleur paille ; rameaux glabres. Feuilles G¶XQHSDLUHpJDOHVRXLQpJDOHVODSOXVSHWLWHMXVTX¶j un tiers de la longueur de l’autre ; pétiole de 5–25 mm ; ochréa bien visible ; limbe largement à pWURLWHPHQWHOOLSWLTXH±IRLVDXVVLORQJTXHODUJHGH±±î±FPFXQppjDUURQGL à la base ou même décurrent sur le pétiole, arrondi ou apiculé au sommet, coriace , même sur le frais, glabre sur les deux faces ; nervures secondaires 8 à 15 paires , plutôt droites à la base HWJpQpUDOHPHQWDVVH]EUXVTXHPHQWFRXUEpHVYHUVOHKDXWSUqVGXERUG ,QÀRUHVFHQFH dressée , GH±î±FPjIRLVUDPL¿pHSOXW{WFRQGHQVpHPDLVMDPDLVGHQVHjQRPEUHXVHV
-
-Fruit, un des méricarpes enlevé (× ½). – 6. Idem, section longitudinale (× ½). – 7. Graine (× 1½). (1-6 : Leeuwenberg 9205 ; 7 : Leeuwenberg 9626 ). Dessin par Elisabeth Riemers-Gerhardt, Naturalis Biodiversity Center (©), reproduit à partir de Leeuwenberg (1991).
-
-ÀHXUV pédoncule de 7–23 cm, assez robuste . Fleur parfumée : pédicelle de 8–15 mm ; lobes du calice épais, de 4,5–8 × 4–6 mm, glabres, avec 3 à 5 rangées denses de 3 à 10 petits collétères rapprochés basalement au milieu ; corolle à tube vert pâle et lobes blancs, bouton PU j WXEH HQ IRUPH GH IW HW WrWH ODUJHPHQW RYRwGH IRLV OD ORQJXHXU GX ERXWRQ SUHVTXHJODEUHjO¶H[Wpulhxu tube long de 12–18 mm, pentagonal, surtout à la base UHQÀp à l’insertion des étamines et large de 6–7 mm, tordu de 0,1 tour sur toute la longueur , à OREHV±IRLVDXVVLORQJVTXHOHWXEH±IRLVDXVVLORQJVTXHODUJHVGH±î± mm ; étamines à peine incluses, insérées à mi-hauteur du tube, anthère sessile, longue de 7–9 mm ; pistil long de 10–12 mm, glabre. Fruit : méricarpes distincts, subglobuleux déprimés à transversalement oblongs-ellipsoïdaux, de 4–5 × 5,5–8 × 4–6 cm, vert pâle , avec une ligne de déhiscence dentelée (non vue ouvert), à nombreuses graines ; exocarpe 5–15 mm d’épaisseur. Graine de 12 × 6 × 4 mm, à stries longitudinales, papilleuse. Distribution 1LJpULD&DPHURXQ*XLQpHpTXDWRULDOH*DERQHWO¶RXHVWGHOD5pSXEOLTXHGpPRFUDWLTXH GX&RQJRDX*DERQ(VWXDLUH1JRXQLp2JRRXp/ROR2JRRXp0DULWLPHHW:ROHX1WHP Écologie IRUrWSULPDLUHHWVHFRQGDLUHDX*DERQMXVTX¶jPG¶DOWLWXGHSDVGHVWDWLRQVSOXVpOHYpHV ailleurs. B : Beentje (2021), Huber (1963), Leeuwenberg (1991). IBLIOGRAPHIE
+Flowers: peduncle 7–23 cm, fairly robust. Flower fragrant: pedicel 8–15 mm; calyx lobes thick, 4.5–8 × 4–6 mm, glabrous, with 3 to 5 dense rows of 3 to 10 small colleter basally in the middle; corolla with pale green tube and white lobes, bud red, tube in the form of ft and head broadly ovoid, 1.5 times the length of the bud, nearly glabrous on the exterior, tube 12–18 mm long, pentagonal, especially at the base, reflexed at the insertion of the stamens and 6–7 mm wide, twisted 0.1 turn over the entire length, the lobes 2–2.5 times as long as the tube, 3–4 times as long as wide, 5–7 × 1–2 mm; stamens scarcely included, inserted at mid-height of the tube, anther sessile, 7–9 mm long; pistil 10–12 mm long, glabrous. Fruit: mericarps distinct, subglobose depressed to transversally oblong-ellipsoidal, 4–5 × 5.5–8 × 4–6 cm, pale green, with a line of denticulate dehiscence (not seen open), with numerous seeds; exocarp 5–15 mm thick. Seed 12 × 6 × 4 mm, with longitudinal striations, papillose. Distribution: Nigeria, Cameroon, Equatorial Guinea, Gabon and the west of the Democratic Republic of the Congo to Gabon. Estuary, Ngounié, Ogooué, Lolo, Ogooué-Maritime and Woleu-Ntem. Ecology: Primary and secondary forest in Gabon up to m of altitude, no higher stations elsewhere. B: Beentje (2021), Huber (1963), Leeuwenberg (1991). BIBLIOGRAPHY
 
 ## Notes
 

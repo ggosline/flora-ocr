@@ -7,6 +7,11 @@ family: Putranjivaceae
 vol: 57
 pages: 128-130
 source: sources/Putranjivaceae_vol57_paddle
+countries: [Cameroon, Democratic Republic of the Congo, Equatorial Guinea, Gabon, Uganda]
+in_region: true
+subdivisions:
+  Gabon: [Estuaire, Ngounié, Ogooué-Ivindo, Ogooué-Lolo, Woleu-Ntem]
+habit: "shrub"
 tags: [species, generated]
 ---
 # *Drypetes bipindensis* (Pax) Hutch.

@@ -7,6 +7,9 @@ family: Leguminosae
 vol: 15
 pages: 118-119
 source: sources/Leguminosae_vol15_paddle
+countries: [Cameroon, Gabon]
+in_region: true
+habit: "tree"
 tags: [species, generated]
 ---
 # *Afzelia bella* Harms var. bella

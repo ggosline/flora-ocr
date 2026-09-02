@@ -7,6 +7,13 @@ family: Phyllanthaceae
 vol: 43
 pages: 34-36
 source: sources/Phyllanthaceae_vol43_liteparse
+countries: [Angola, Cameroon, Central African Republic, Equatorial Guinea, Gabon, Mozambique, Senegal]
+in_region: true
+subdivisions:
+  Gabon: [Haut-Ogooué, Ngounié, Nyanga]
+habit: "tree"
+habitat: [savanna]
+altitude_m: "100–600"
 tags: [species, generated]
 ---
 # *Hymenocardia acida* Tul. Planche 9(F-H)

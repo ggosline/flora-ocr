@@ -7,6 +7,9 @@ family: Sapindaceae
 vol: 23
 pages: 135-136
 source: sources/Sapindaceae_vol23_paddle
+countries: [Central African Republic, Gabon]
+in_region: true
+habit: "tree"
 tags: [species, generated]
 ---
 # *Placodiscus opacus* Radlkofer
@@ -46,7 +49,7 @@ Le Testu 1627, Tchibanga, Mayombe bayaka (fl. blanches, sept.).
 
 ![Placodiscus opacus](../sources/Sapindaceae_vol23_paddle/figures/fig_033_p0137.png)
 
-*PL. 32. — Placodiscus opacus Radlk. (Le Testu 9170) : 1, portion de feuille et inflorescence, limbe de 2° paire 11 × 3,5 cm; 1', cymule, moignons; 2, bouton, diamètre 2 mm; 2', pilosité du bouton, 0,1 mm; 2", coupe du bouton; 3, 3', fleur vue générale et coupe, diamètre 3,5 mm; 4, diagramme. — Placodiscus turbinatus Radlk. (Mann s.n.) : 5, portion de feuille, limbe 3° paire 15,5 × 4,8 cm; 6, inflorescence 8 cm; 6', cymules, moignons; 7, bouton, diamètre 2 mm; 7', pilosité du bouton, poils sériés glanduleux 0,4 mm; 8, bouton, diamètre 2,5 mm; 8', coupe du bouton; 9, coupe du pistillode.*
+*PL. 32. — Placodiscus opacus Radlk. (Le Testu 9170) : 1, portion of leaf and inflorescence, blade of 2nd pair 11 × 3,5 cm; 1', cymule, stubs; 2, bud, diameter 2 mm; 2', hairiness of bud, 0,1 mm; 2", section of bud; 3, 3', flower general view and section, diameter 3,5 mm; 4, diagram. — Placodiscus turbinatus Radlk. (Mann s.n.) : 5, portion of leaf, blade 3rd pair 15,5 × 4,8 cm; 6, inflorescence 8 cm; 6', cymules, stubs; 7, bud, diameter 2 mm; 7', hairiness of bud, seriated glandular hairs 0,4 mm; 8, bud, diameter 2,5 mm; 8', section of bud; 9, section of pistillode.*
 
 ## Notes
 

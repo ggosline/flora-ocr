@@ -7,6 +7,7 @@ family: Myrtaceae
 vol: 11
 pages: 31-32
 source: sources/Myrtaceae_vol11_paddle
+habit: "tree"
 tags: [species, generated]
 ---
 # *Eugenia luschnathiana* Klotsch ex Berg

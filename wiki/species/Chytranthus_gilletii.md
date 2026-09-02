@@ -7,6 +7,9 @@ family: Sapindaceae
 vol: 23
 pages: 91-94
 source: sources/Sapindaceae_vol23_paddle
+countries: [Nigeria]
+in_region: true
+habit: "tree"
 tags: [species, generated]
 ---
 # *Chytranthus gilletii* De Wildeman
@@ -63,7 +66,7 @@ Le Testu 8460, Koulamotou (fl., oct.); 8517, 8517 bis, Lastoursville (fl., nov.)
 
 ![Chytranthus gilletii](../sources/Sapindaceae_vol23_paddle/figures/fig_018_p0093.png)
 
-*PL. 18. — Chyranthus gilletii De Wild. : 1, base de pétiole × 0,75; 2, inflorescence × 1; 34, fleur ♂ et ♀ longues de 8 mm; 5, id. en coupe; 6, 7, pétales longes de 6,5 et 5 mm; 8, disque de 3 mm; 9, étamine de 6 mm; 10, anthère recto, verso longueur 2 mm, et coupe; 11, manchon de jeunes fruits, largeur 3,5 cm; 12, jeune fruit de face, 25 mm; 13, fruit très mûre, face et profil, diam. 5 cm; 14, graine de 17 mm, profil et face, avec détail, 3 × 2,5 mm, du tégument à sec (N. Hallé 3265, 1, 2, 3, 7, 8, 9; N. Hallé 1075, 4, 5, 6, 10, 11, 12; N. Hallé 4242, 13, 14).*
+*PL. 18. — Chyranthus gilletii De Wild. : 1, base of petiole × 0,75; 2, inflorescence × 1; 34, male and female flower 8 mm long; 5, id. in section; 6, 7, petals 6,5 and 5 mm long; 8, disk 3 mm; 9, stamen 6 mm; 10, anther recto, verso length 2 mm, and section; 11, cluster of young fruits, width 3,5 cm; 12, young fruit from face, 25 mm; 13, very ripe fruit, face and profile, diam. 5 cm; 14, seed 17 mm, profile and face, with detail, 3 × 2,5 mm, of dry tegument (N. Hallé 3265, 1, 2, 3, 7, 8, 9; N. Hallé 1075, 4, 5, 6, 10, 11, 12; N. Hallé 4242, 13, 14).*
 
 ## Notes
 

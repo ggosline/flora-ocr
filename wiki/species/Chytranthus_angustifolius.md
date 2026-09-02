@@ -7,6 +7,9 @@ family: Sapindaceae
 vol: 23
 pages: 102-104
 source: sources/Sapindaceae_vol23_paddle
+countries: [Cote d'Ivoire]
+in_region: false
+habit: "shrub"
 tags: [species, generated]
 ---
 # *Chytranthus angustifolius* Exell $ ^{1} $

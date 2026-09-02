@@ -7,6 +7,10 @@ family: Begoniaceae
 vol: 39
 pages: 80-82
 source: sources/Begoniaceae_vol39_liteparse
+countries: [Cameroon, Equatorial Guinea, Gabon]
+in_region: true
+habit: "epiphyte"
+altitude_m: "1020"
 tags: [species, generated]
 ---
 # *Begonia capillipes* Gilg Planche 37

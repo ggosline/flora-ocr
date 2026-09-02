@@ -7,6 +7,10 @@ family: Annonaceae
 vol: 16
 pages: 0-0
 source: sources/Annonaceae_vol16_mineru
+countries: [Angola, Central African Republic, Sierra Leone]
+in_region: true
+habit: "liana"
+habitat: [riverine]
 tags: [species, generated]
 ---
 # *Uvaria angolensis* Welwitsch ex Oliver
@@ -24,15 +28,13 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+- Engler et Diels in Engler, Monogr. Afr. Pflanzenf. 6: 17, tab. 3 C (1901). - Exell et Mendonga, Consp. Fl. Angol. 1, I: 13 (1937). - Boutique, Fl. Congo Belge 2: 295 (1951). - Robson in Exell et Wild, Fl. Zamb. 1, I: 107 (1960). - Paiva, Mem. Soc. Brot. 19: 15 (1966).
 
-- Engler et Diels in Engler,Monogr.Afr.Pflanzenf.6: 17,tab. 3 C (19o1).- Exell et Mendonga,Consp. Fl. Angol. 1,I : 13 (1937). -Boutique,Fl. Congo Belge 2 :295 (1951).- Robson in Exell et Wild, Fl.Zamb.1,I:1o7 (196o).-Paiva,Mem.Soc.Brot.19:15 (1966).
+Liane or shrub reaching 6 m in height; branchlets ± densely pubescent, ferruginous, with simple and stellate hairs, becoming glabrescent to glabrous. Leaves with petiole 3-10 mm long, tomentellous to glabrescent; blade subcoriaceous, elliptic-oblong to obovate-oblong, 4-13 (17) cm long, 2.5-6 (7) cm wide, attenuate to shortly acuminate at apex, rounded to subcordate at base, glabrous above except on the midvein, sparsely to densely pubescent, with simple or fasciculate hairs, on the lower surface, especially on the nerves. Lateral veins 6-12 pairs, oblique, ascending, impressed above, very prominent below.
 
-Liane ou arbuste atteignant 6 m de hauteur; ramilles ± densément pubescentes,ferrugineuses,a poils simples et étoilés, devenant glabrescentes á glabres. Feuilles ä pétiole long de 3- 10 mm,tomentelleux á glabrescent; limbe subcoriace,elliptiqueoblong a obové-oblong,long de 4-13 (17) cm,large de 2,5-6 (7) cm, atténué â courtement acuminé au sommet,arrondi ä subcordé âla base,glabre au-dessus, sauf sur la nervure médiane,éparsement a densément pubescente,ä poils simples ou fasciculés,ä la face infé- rieure,surtout sur les nervures.Nervures latérales 6-12 paires,obliques,ascendantes, imprimees au-dessus, tres saillantes en dessous.
+Flowers yellow, extra-axillary to suboppositefoliate, solitary or in condensed 2-3-flowered cymes, very shortly pedunculate (approximately 2 mm); pedicel short, 4-6 mm long, puberulent-reddish. Bracteoles semi-amplexicaul, suborbicular, 2-3 mm long, 4-5 mm wide, tomentous on both faces. Sepals connate into a cupule in bud, opening tardily into three ± irregular lobes, broadly ovate, 5-9 mm long, 4-7 mm wide, tomentous on both faces. Petals subequal, ovate to obovate, 12-20 mm long, 8-11 mm wide, obtuse to subrounded at apex, attenuate-unguiculate at base, tomentellous on both faces. Stamens numerous, 5-seriate, sessile, linear, 3-5 mm long, with lateral thecae, connectives erect above the anthers, ovate, rounded to subacute. Carpels numerous, 4-5 mm long, ovaries oblong, pubescent, stigmas involute. 8-16 ovules biseriate. Receptacle plane.
 
-Fleurs jaunes,extra-axillaires á suboppositifoliees, solitaires, ou en cymes condensées 2-3 flores,tres courtement pédonculees (2 mm environ);pédicelle court, long de 4-6 mm,pubescentroux.Bractéoles semi-amplexicaules,suborbiculaires,longues de 2-3 mm,larges de 4-5 mm, tomenteuses sur les deux faces. Sépales soudes en cupule dans le bouton, s'ouvrant tardivement en trois lobes ± irréguliers,largement oves, longs de 5-9 mm, larges de 4-7 mm, tomenteux sur les deux faces. Pétales subégaux,ovés a obovés,longs de I2-2o mm,larges de 8-1I mm,obtus ä subarrondis au sommet,atténués-onguiculés ä la base,tomentelleux sur les deux faces.Etamines nombreuses,5-sériees, sessiles, linéaires, longues de 3-5 mm,a theques latérales, connectifs dresses audessus des antheres, oves,arrondis a subaigus. Carpelles nombreux, longs de 4-5 mm,ovaires oblongs,pubescents,stigmates involutés. 8-16 ovules biséries. Réceptacle plan.
-
-Fruits á pédicelle long de 7-1o mm,tomentelleux;méricarpes ± 20,cylindriques,longs de 1,3-4 cm,larges de 6-2o mm,apiculés au sommet, tomenteux-roux, a peine étranglés entre les graines; stipes sublatéraux, longs de 8-12 mm,tomenteux-roux.Graines 6-16 biseriees,ellipsoides-oblongues,de ± I cm de longueur a maturité,ä testa brillant brun-noiratre.
+Fruits with pedicel 7-10 mm long, tomentellous; mericarps ± 20, cylindric, 1.3-4 cm long, 6-20 mm wide, apiculate at apex, tomentous-reddish, scarcely constricted between the seeds; substipitate, lateral, 8-12 mm long, tomentous-reddish. Seeds 6-16 biseriate, ellipsoid-oblong, ± 1 cm in length at maturity, with brilliant dark-brown testa.
 
 ## Type
 
@@ -40,15 +42,13 @@ Welwitsch 754, Pungo Andongo,Barrancos de Catete,Angola (holotype LISU;isotypes 
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+We very willingly agree with the opinion of Paiva who accepts only a single species without infraspecific subdivision, taking into account the extreme variation in form and leaf indumentum.
 
-Nous nous rallions tres volontiers ä l'opinion de Paiva qui n'accepte qu'une seule espece sans coupure infra-spécifique, tenant compte de l'extréme variation de la forme et de l'indument foliaires.
+U. angolensis is extremely close to U. Johannis Exell, present in Cabinda, which would perhaps be only a simple variety with short staminal connective.
 
-U.angolensis est extrémement voisine de U.Johannis Exell, présente au Cabinda,qui ne serait peut-étre qu'une simple variété a connectif staminal court.
+Species of forest galleries, humid dense forest and riparian forests.
 
-Espece de galeries forestieres,de forét dense humide et de forets rivulaires.
-
-Tres largement répandue en Afrique,de la Sierra Leone â la République centrafricaine,et jusqu'en Rhodésie du Nord.
+Very widely distributed in Africa, from Sierra Leone to the Central African Republic, and as far as Northern Rhodesia.
 
 ## Specimens examined
 

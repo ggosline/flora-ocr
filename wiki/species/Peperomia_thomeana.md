@@ -7,6 +7,12 @@ family: Piperaceae
 vol: 50
 pages: 74-74
 source: sources/Piperaceae_vol50_liteparse
+countries: [Cameroon, Equatorial Guinea, Gabon, Madagascar, Sao Tome and Principe, Tanzania]
+in_region: true
+subdivisions:
+  Gabon: [Estuaire]
+habit: "herb"
+altitude_m: "490"
 tags: [species, generated]
 ---
 # *Peperomia thomeana* C.DC. Planche 26.2

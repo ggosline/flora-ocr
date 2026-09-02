@@ -7,6 +7,10 @@ family: Lauraceae
 vol: 10
 pages: 54-58
 source: sources/Lauraceae_vol10_paddle
+countries: [Cameroon, Gabon]
+in_region: true
+habit: "tree"
+altitude_m: "50"
 tags: [species, generated]
 ---
 # *Beischmiedia minutiflora* Benth. et Hook. f.
@@ -57,7 +61,7 @@ Klaine : 210, 231, 286, 432, 757, 1581, 1603, 2776, environs de Libreville. Le T
 
 ![Beischmiedia minutiflora](../sources/Lauraceae_vol10_paddle/figures/fig_013_p0055.png)
 
-*PL. XII. — Beilschmiedia minutiflora Benth. et Hooker f.: 1, rameau florifère, feuille de 20 cm; 1', autre feuille de 15 cm; 2, inflorescence de 10 cm; 3, fleur de 2 mm de diam.; 3', coupe; 4, pistil (Zenker 1695); 5, autre fleur de 1,5 mm de diam.; 5', coupe, anthères fermées; 6, pistil (Zenker 1063); 7, bractée (Le Testu 5869).*
+*PL. XII. — Beilschmiedia minutiflora Benth. et Hooker f.: 1, flowering branch, leaf 20 cm; 1', another leaf 15 cm; 2, inflorescence 10 cm; 3, flower 2 mm diam.; 3', section; 4, pistil (Zenker 1695); 5, another flower 1,5 mm diam.; 5', section, anthers closed; 6, pistil (Zenker 1063); 7, bract (Le Testu 5869).*
 
 ## Notes
 

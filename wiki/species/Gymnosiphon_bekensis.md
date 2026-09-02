@@ -7,6 +7,12 @@ family: Burmanniaceae
 vol: 41
 pages: 24-26
 source: sources/Burmanniaceae_vol41_liteparse
+countries: [Cameroon, Central African Republic, Gabon]
+in_region: true
+subdivisions:
+  Gabon: [Ogooué-Ivindo]
+habit: "herb"
+altitude_m: "700"
 tags: [species, generated]
 ---
 # *Gymnosiphon bekensis* Letouzey Planche 4

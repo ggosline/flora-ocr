@@ -7,6 +7,7 @@ family: Rubiaceae
 vol: 17
 pages: 320-325
 source: sources/Rubiaceae_vol17_paddle
+habit: "shrub"
 tags: [species, generated]
 ---
 # *Tricalysia obstetrix* N. Hallé, sp. nov.
@@ -16,17 +17,13 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Shrub 5–6 m tall; young internodes thinly pubescent. Stipules about 1–2.5 mm, attenuate, densely pubescent. Petiole glabrescens 4.2 mm long, channelled. Lamina subcoriaceous glabrous brown when dry, elliptic 6–13 × 2–5 cm, acute at base, shortly and obtusely acuminate at apex, margin ± revolute. Costa sulcate above. Lateral nerves 7–8 pairs. Domatia ciliate. Inflorescences axillary contracted sessile 3–6-flowered. Bracteoles connate naviculate pubescent. Calyx about 2 mm tubulous densely pubescent within, 5-lobed, lobes digitate acute erect subequal, 1.8–2.5 mm long. Ovary 2-locular, locules biovulate. Fruit green with 3 seeds.
 
-Frutex 5-6 m altus; internodia nova tenuiter pubescentia. Stipulae proper 1-2,5 mm tenuata, dense pubescentes. Petiolus glabrescens 4,2 mm longus, canaliculatus. Lamina subcoriacea glabra in sicco fusca, elliptica 6-13 × 2-5 cm, basi acuta, apice breviter et obtuse acuminata, margine ± revoluta. Costa supra sulcata. Nervi laterales 7-8 jugi. Domatia ciliata. Inflorescentiae axillares contracta sessiles 3-6 florae. Bractea connatae naviculiformes pubescentes. Calyx propter 2 mm tubulosus intus dense pubescens, 5-lobatus, lohis digitatis aculis erectis subequalibus, 1,8-2,5 mm longi. Ovarium 2-loculare, loculis biovulatus. Fructus viridis seminibus 3.
+Small tree 5–6 m tall with greyish rhytidome. Juvenile internodes with very fine appressed pubescence; nodes and stipules somewhat more densely pubescent. Stipules attenuate for 1–2.5 mm. Petiole glabrescens 4–9 mm, with well-defined channel. Blade glabrous subcoriaceous, brown when dry, elliptic 6–13 × 2–5 cm; base acute; acumen short and obtuse. Margin ± bordered. Midvein impressed as a groove above, with sparse pubescence rapidly caducous below. 7–8 pairs of secondary nerves. Small domatia with ciliate ostiole.
 
-Petit arbre de 5-6 m de hauteur à rhytidome grisâtre. Entrenœuds juvéniles à très fine pubescence apprimée; nœuds et stipule
+Inflorescence axillary contracted sessile 3–6-flowered. Bracteoles very finely pubescent externally, densely pubescent internally, slightly imbricate, connate-naviculate with rostrate apices. Calyx finely pubescent, almost glabrous towards the base, densely pubescent within, tubulous for about 2 mm in height, (4) 5 (6)-lobed, with digitate acute erect lobes, subequal or somewhat unequal 1.8 to 2.5 mm in length. Corolla and androecium unknown. Disk glabrous 1 mm in diameter. Ovary ± glabrous with 2 biovulate locules. Ovules juxtaposed in the middle of the elliptic peltate-pendulous placenta.
 
-un peu plus désément pubescents. Stipules effilées sur 1-2,5 mm Pétiole glabrescent de 4-9 mm, à canal bien distinct. Limbe glabre subocriace, brun à sec, elliptique de 6-13 × 2-5 cm; base aiguë; acumen court et obtus. Marge ± rebordée. Médiamé imprimée en sillon dessus, à rare pubescence rapidement caduque dessous. 7-8 paires de nervures secondaires. Petites domaties à ostiole ciliée.
-
-Inflorescence axillaire contractée sessile 3-6-flore. Bractéoles très finement pubescentes extérieurement, densément pubescentes à l'intérieur, un peu emboîtées, connées-naviculiformes à extrémités rostrées. Calice finement pubescent, presque glabre vers la base, densément pubescent à l'intérieur, tubuleux sur près de 2 mm de hauteur, (4) 5 (6)-lobé, à lobes digités aigus érigés, subégaux ou un peu inégaux de 1,8 à 2,5 mm de longueur. Corolle et androcée non connus. Disque glabre de 1 mm de diamètre. Ovaire ± glabre à 2 loges biovulées. Ovules juxtaposés au milieu du placenta elliptique pelté-pendant.
-
-Fruit vert de 4-5 mm de diamètre contenant ± 3 graines.
+Green fruit 4–5 mm in diameter containing ± 3 seeds.
 
 ## Type
 
@@ -34,13 +31,11 @@ N. Hallé et A. Le Thomas 182 (P), Bélinga entre 800 et 900 m d'altitude (fr. v
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 21. Tricalysia (?) sp. A (P.L. 76, p. 321)
 
-Sous-arbrisseau de 0,20-1 m de hauteur, à rameaux horizontaux. Jeunes entrençéuds velus. Pétiole très réduit. Limbe grisâtre et d'aspect terne à sec, glabre, elliptique à étroitement obové; base obtuse ou subcordée. Médiane un peu pubescente dessous sulquée ± glabrescente dessus. 5-8 paires de nervures secondaires ascendantes. Domaties axillaires nulles ou pauvrement pileuses.
+Undershrub 0.20–1 m tall, with horizontal branches. Young internodes pilose. Petiole very reduced. Blade greyish and dull in appearance when dry, glabrous, elliptic to narrowly obovate; base obtuse or subcordate. Midvein somewhat pubescent below sulcate ± glabrescens above. 5–8 pairs of ascending secondary nerves. Axillary domatia absent or poorly pilose.
 
-Fleurs solitaires axillaires, sessiles. Calice pubescent à cupule haute de 1-1,5 mm, à 4 dents subulées de 1-2,5 mm. Corolle fusi-forme aiguë et longue de 7 mm dans le bouton, glabre au niveau du tube et vers la base, finement pubescente extérieurement au niveau des lobes.
+Flowers solitary axillary, sessile. Calyx pubescent with cup 1–1.5 mm high, with 4 subulate teeth 1–2.5 mm. Corolla fusiform acute and 7 mm long in bud, glabrous at the level of the tube and towards the base, finely pubescent externally at the level of the lobes.
 
 ## Specimens examined
 
@@ -70,11 +65,11 @@ N. Hallé et G. Cours 5999 et 6116, environs de Moumba, vers 750-800 m d'altitud
 
 ![Tricalysia obstetrix](../sources/Rubiaceae_vol17_paddle/figures/fig_077_p0319.png)
 
-*PL. 75. — Tricalysia obstetrix N. Hallé (N. H. et L. T. 182) : 1, rameau fructifère × 0,75; 2, stipule; 3, portion d'inflorescence; 4, calice; 5, détail du calice en coupe; 6, coupe de l'ovaire; 7, détails de placentation, pédoncule placentaire en coupe à droite; 8, fruit × 4. — T. idiura N. Hallé (N. H. 5133); 9, rameau feuillé × 0,75; 10, inflorescence avec des boutons; 11, corolle; 12, coupe de l'ovaire.*
+*PL. 75. — Tricalysia obstetrix N. Hallé (N. H. and L. T. 182) : 1, fruiting branch × 0.75; 2, stipule; 3, portion of inflorescence; 4, calyx; 5, detail of calyx in section; 6, section of ovary; 7, details of placentation, placental pedicel in section on right; 8, fruit × 4. — T. idiura N. Hallé (N. H. 5133); 9, leafy branch × 0.75; 10, inflorescence with buds; 11, corolla; 12, section of ovary.*
 
 ![Tricalysia obstetrix](../sources/Rubiaceae_vol17_paddle/figures/fig_078_p0323.png)
 
-*PL. 76. — Tricalysia sp. A (N. Hallé 2311) : 1, fragment florifère × 0,75; 2, stipule × 6; 3, bouton × 6. — Tricalysia sp. B (N. Hallé 3350 et 1238, fr.) : 4, rameau feuillé × 0,75; 5, détail des domaties foliaires; 6, l'acumen mucroné de la feuille; 7, détail d'inflorescence juvénile × 6; 8, fruit × 6. — Tricalysia sp. C (N. Hallé et G. Cours 5999) : 9, rameau fructifère × 0,75; 10, stipule × 6; 11, fruit × 6; 12, coupe transversale du fruit × 6.*
+*PL. 76. — Tricalysia sp. A (N. Hallé 2311) : 1, flowering fragment × 0.75; 2, stipule × 6; 3, bud × 6. — Tricalysia sp. B (N. Hallé 3350 and 1238, fr.) : 4, leafy branch × 0.75; 5, detail of foliar domatia; 6, the mucronate acumen of the leaf; 7, detail of juvenile inflorescence × 6; 8, fruit × 6. — Tricalysia sp. C (N. Hallé and G. Cours 5999) : 9, fruiting branch × 0.75; 10, stipule × 6; 11, fruit × 6; 12, transverse section of fruit × 6.*
 
 ## Notes
 

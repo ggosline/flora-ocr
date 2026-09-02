@@ -7,6 +7,13 @@ family: Leguminosae
 vol: 49
 pages: 380-381
 source: sources/Millettiaspeciesfabaceae_vol49_liteparse
+countries: [Angola, Gabon, Senegal, Sudan, Zambia]
+in_region: true
+subdivisions:
+  Gabon: [Haut-Ogooué]
+habit: "herb"
+habitat: [savanna]
+altitude_m: "500–700"
 tags: [species, generated]
 ---
 # *Vigna pubigera* Baker var. pubigera

@@ -7,6 +7,12 @@ family: Phyllanthaceae
 vol: 43
 pages: 70-71
 source: sources/Phyllanthaceae_vol43_liteparse
+countries: [Gabon, Mozambique]
+in_region: true
+subdivisions:
+  Gabon: [Ngounié, Nyanga, Ogooué-Ivindo, Ogooué-Maritime]
+habit: "liana"
+altitude_m: "0–300"
 tags: [species, generated]
 ---
 # *Phyllanthus polyspermus* Schumach. Planche 22

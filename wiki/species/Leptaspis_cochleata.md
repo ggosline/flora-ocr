@@ -34,7 +34,7 @@ XIV. OLYRÉES
 
 ![Leptaspis cochleata](../sources/Gramineae_vol05_paddle/figures/fig_046_p0277.png)
 
-*PL. XLV. — Leptaspis cochleata Thwaites (A. Chev. 20738) : 1, feuilles et inflorescence; 2, détail de la nervation des feuilles; 3, épillet mâle et jeune épillet femelle (longueur de l'épillet mâle, 3 mm); 4, épillet femelle (longueur 5 mm env.); 5, le même vu de profil.*
+*PL. XLV. — Leptaspis cochleata Thwaites (A. Chev. 20738) : 1, leaves and inflorescence; 2, detail of leaf venation; 3, male spikelet and young female spikelet (male spikelet length, 3 mm); 4, female spikelet (length approximately 5 mm); 5, the same viewed in profile.*
 
 ## Notes
 

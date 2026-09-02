@@ -7,6 +7,9 @@ family: Acanthaceae
 vol: 13
 pages: 13-16
 source: sources/Acanthaceae_vol13_paddle
+countries: [Cameroon, Cote d'Ivoire, Gabon, Mali, Senegal, Sierra Leone, Sudan]
+in_region: true
+habit: "herb"
 tags: [species, generated]
 ---
 # *Ruellia praetemissa* Schweinf. ex Lindau

@@ -7,6 +7,8 @@ family: Orchidaceae
 vol: 36
 pages: 155-159
 source: sources/Orchidaceae_vol36_paddle
+countries: [Cameroon, Equatorial Guinea, Nigeria]
+in_region: true
 tags: [species, generated]
 ---
 # *Bulbophyllum fuerstenbergianum* (De Wild.) De Wild.
@@ -45,7 +47,7 @@ PL. 76. – Bulbophyllum imbricatum Lindl.: A, general view; B, flower and bract
 
 ![Bulbophyllum fuerstenbergianum](../sources/Orchidaceae_vol36_paddle/figures/fig_080_p0157.png)
 
-*PL. 75. – Bulbophyllum fuerstenbergianum (De Wild.) De Wild.: A, vue générale ; B, fleur; C, pièces florales ; D, labelle ; E, labelle et gynostème en position naturelle, vue latérale ; F, gynostème (A-F, ex VERMEULEN, 1987).*
+*PL. 75. – Bulbophyllum fuerstenbergianum (De Wild.) De Wild.: A, general view; B, flower; C, floral parts; D, labellum; E, labellum and gynostemium in natural position, lateral view; F, gynostemium (A-F, ex VERMEULEN, 1987).*
 
 ![Bulbophyllum fuerstenbergianum](../sources/Orchidaceae_vol36_paddle/figures/fig_081_p0158.png)
 

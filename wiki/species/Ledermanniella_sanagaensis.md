@@ -7,6 +7,10 @@ family: Podostemaceae
 vol: 51
 pages: 45-47
 source: sources/Podostemaceae_vol51_liteparse
+countries: [Cameroon, Gabon]
+in_region: true
+subdivisions:
+  Gabon: [Estuaire]
 tags: [species, generated]
 ---
 # *Ledermanniella sanagaensis* C.Cusset Planche 19(5–7)

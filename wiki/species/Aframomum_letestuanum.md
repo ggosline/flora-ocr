@@ -4,11 +4,8 @@ name: Aframomum letestuanum
 authority: Gagnep.
 genus: Aframomum
 family: Zingiberaceae
-countries: [Gabon]
-in_region: true
-habit: rhizomatous herb
-habitat: [forest]
 treatments: [{vol: 9, pages: "54–56", source: sources/Zingiberaceae_vol9_paddle}]
+habit: "herb"
 tags: [species, endemic]
 ---
 # *Aframomum letestuanum* Gagnep.

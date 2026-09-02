@@ -7,6 +7,11 @@ family: Putranjivaceae
 vol: 57
 pages: 140-142
 source: sources/Putranjivaceae_vol57_paddle
+countries: [Benin, Cameroon, Central African Republic, Cote d'Ivoire, Democratic Republic of the Congo, Equatorial Guinea, Gabon, Ghana, Guinea, Guinea-Bissau, Liberia, Nigeria, Republic of the Congo, Senegal, Sierra Leone]
+in_region: true
+subdivisions:
+  Gabon: [Estuaire, Ngounié, Ogooué-Ivindo, Ogooué-Maritime]
+habit: "shrub"
 tags: [species, generated]
 ---
 # *Drypetes gilgiana* (Pax) Pax & K.Hoffm.

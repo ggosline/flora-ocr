@@ -7,6 +7,9 @@ family: Orchidaceae
 vol: 36
 pages: 100-101
 source: sources/Orchidaceae_vol36_paddle
+countries: [Angola, Benin, Burkina Faso, Cameroon, Central African Republic, Chad, Cote d'Ivoire, Equatorial Guinea, Ghana, Guinea, Guinea-Bissau, Madagascar, Malawi, Nigeria, Sao Tome and Principe, Senegal, Sierra Leone, Tanzania, Togo, Uganda, Zambia, Zimbabwe]
+in_region: true
+habitat: [riverine]
 tags: [species, generated]
 ---
 # *Nervilia bicarinata* (Blume) Schltr.

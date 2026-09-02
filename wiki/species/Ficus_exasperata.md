@@ -7,6 +7,8 @@ family: Moraceae
 vol: 26
 pages: 127-130
 source: sources/Moraceae_vol26_paddle
+countries: [Angola, Cote d'Ivoire, Equatorial Guinea, Ghana, Mozambique, Sao Tome and Principe, Senegal, Zimbabwe]
+in_region: true
 tags: [species, generated]
 ---
 # *Ficus exasperata* Vahl
@@ -69,7 +71,7 @@ Pobéguin 128, Ogooué-Ngounié (stér.); 174, Ogooué, plantation Butet (stér.
 
 ![Ficus exasperata](../sources/Moraceae_vol26_paddle/figures/fig_035_p0128.png)
 
-*PL. 34. - Ficus exasperata Vahl : 1, 2 et 4, rameau avec feuilles et figues × 1 ; 3, figue × 5/2 ; 5, fleur à galle (1, Tisserant 1483, Centrafrique ; 2, 3, Tisserant 1384, Centrafrique ; 4, Breteler 1048, Cameroun ; 5, Leeuwenberg & Berg 9742, Cameroun).*
+*PL. 34. - Ficus exasperata Vahl : 1, 2 and 4, branch with leaves and figs × 1 ; 3, fig × 5/2 ; 5, gall flower (1, Tisserant 1483, Central African Republic ; 2, 3, Tisserant 1384, Central African Republic ; 4, Breteler 1048, Cameroon ; 5, Leeuwenberg & Berg 9742, Cameroon).*
 
 ## Notes
 

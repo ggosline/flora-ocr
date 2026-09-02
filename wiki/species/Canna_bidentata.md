@@ -5,13 +5,9 @@ authority: Bertoloni
 genus: Canna
 family: Cannaceae
 synonyms: [Canna indica var. orientalis]
-countries: [Gabon]
 range_note: "American origin; subspontaneous in tropical Africa."
-countries_incomplete: true
-in_region: true
-habit: erect rhizomatous herb
-habitat: [village margins]
 treatments: [{vol: 9, pages: "91–93", source: sources/Cannaceae_vol9_paddle}]
+habit: "herb"
 tags: [species, introduced, naturalized]
 ---
 

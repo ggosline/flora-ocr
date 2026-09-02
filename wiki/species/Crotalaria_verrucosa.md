@@ -7,6 +7,12 @@ family: Leguminosae
 vol: 49
 pages: 106-106
 source: sources/Millettiaspeciesfabaceae_vol49_liteparse
+countries: [Gabon]
+in_region: true
+subdivisions:
+  Gabon: [Estuaire]
+habit: "herb"
+altitude_m: "0–1200"
 tags: [species, generated]
 ---
 # *Crotalaria verrucosa* L.

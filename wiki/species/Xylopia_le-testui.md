@@ -7,49 +7,48 @@ family: Annonaceae
 vol: 16
 pages: 0-0
 source: sources/Annonaceae_vol16_mineru
+countries: [Cameroon, Cote d'Ivoire, Gabon]
+in_region: true
+habit: "tree"
 tags: [species, generated]
 ---
 # *Xylopia le-* Testui Pellegrin
 
 **Genus**: [[Xylopia]]
 **Family**: [[Annonaceae]]
-**Protologue**: Bull.Mus.Paris :658 (192o)；Fl.Mayombe I :1o (1924);Bull.Soc.Bot.Fr., Mém.31 :7o(I949)，pro parte.— R.E.Fries in Engler et Prantl,Nat. Pflanzenfam.,ed.2,17 a,2 :112 (1959)
+**Protologue**: Bull.Mus.Paris :658 (192o);Fl.Mayombe I :1o (1924);Bull.Soc.Bot.Fr., Mém.31 :7o(I949),pro parte.— R.E.Fries in Engler et Prantl,Nat. Pflanzenfam.,ed.2,17 a,2 :112 (1959)
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Bull.Mus.Paris :658 (1920);Fl.Mayombe I :10 (1924);Bull.Soc.Bot.Fr., Mém.31 :70(1949),pro parte.— R.E.Fries in Engler et Prantl,Nat. Pflanzenfam.,ed.2,17 a,2 :112 (1959).
 
-Bull.Mus.Paris :658 (192o)；Fl.Mayombe I :1o (1924);Bull.Soc.Bot.Fr., Mém.31 :7o(I949)，pro parte.— R.E.Fries in Engler et Prantl,Nat. Pflanzenfam.,ed.2,17 a,2 :112 (1959).
+Tree approximately 25 m tall, with brown bark, ridged longitudinally;branches briefly pubescent-rusty, marked with a zigzag line from one petiole to another, corresponding to the impression of the limb base on the following internode in the juvenile stage;branchlets velvety brown. Leaf bud lanceolate acute, 1-4 cm long, enclosed in a coriaceous scale. Leaves subsessile, with petiole 1-2 mm long, brown-rusty pubescent;limb coriaceous, ovate-lanceolate, (4.5)8-10.5 cm long, (1.5)2-2.5 cm wide, rounded to subcordate at base, attenuate-acute at apex;upper face glabrous, slightly shiny, lower face scattered with short appressed hairs. Lateral veins 8-12 pairs, ascending, prominent beneath;veinlets scarcely visible.
 
-Arbre de 25 m de hauteur environ,a écorce brune,ridée longitudinalement；rameaux brievement pubescents-roux, marqués d'une ligne en zigzag d'un petiole ä 'autre, correspondant a l'impression de la base du limbe sur l'entre-neud suivant dans le stade juvénile；ramilles veloutées brunes.Bourgeon foliaire lancéolé aigu, long de 1-4 cm,encapuchonné dans une écaille coriace.Feuilles subsessiles,ä pétiole long de 1-2 mm,pubescent brun-roux；limbe coriace,ové-lanceolé, long de (4,5)8-1o,5 cm, large de (1,5)2-2,5 cm,arrondi ä subcordé a la base, atténué-aigu au sommet；face supérieure glabre,légerement brillante, face inférieure clairsemée de poils apprimés courts. Nervures laté- rales 8-12 paires,ascendantes, saillantes en dessous； nervilles peu visibles.
+Flowers yellowish, erect, axillary, solitary or most often in fascicles of few-flowered cymes, numerous at the branch extremities where the internodes are very short. Peduncle 5-6 mm long, pedicel 2-5 mm long, rusty pubescent.
 
-Fleurs jaunätres,dressées,axillaires, solitaires ou le plus souvent en fascicules de cymes pauciflores,nombreux ^ 'extré- mité des rameaux ou les entrenceuds sont tres courts.Pédoncule long de 5-6 mm，pédicelle long de 2-5 mm，pubescents roux.
+Bracts broadly ovate to suborbicular, 5-8 mm in diameter, densely pubescent on exterior, glabrous on interior. Floral buds lanceolate. Sepals triangular-ovate, 5-6 mm long, 3.5-4 mm wide, acute at apex, connate at base, concave, brown-rusty tomentose on exterior, glabrous on interior. Outer petals thick, lanceolate, 13-20 mm long, approximately 4 mm wide, attenuate at base, golden yellow tomentose on exterior except at base and on inner margins, glabrous and red on interior and at external base; inner petals of similar form, scarcely shorter and narrower, slightly carinate, attenuate at base, blond tomentose-silky on upper 2/3 of exterior, at apex and on inner midline, and bearing on inner margins, just above the base, two small tufts of longer hairs. Staminodes ± cuneiform-oblong, approximately 2 mm long, the outer ones broader. Stamens linear, approximately 2 mm long, the outermost inserted at the same level as the carpels, the inner ones inserted on the raised edge of the staminal receptacle, constituting with the inner staminodes a urceolate structure that conceals the base of the carpels. Carpels 10-12, 4-5 mm long, ovaries oblong, 1 mm long pubescent, styles linear, flexuous, 3-4 mm long, pubescent with long rare hairs forming a small tuft at apex. Ovules biseriate 6.
 
-Bractées largement ovées ä suborbiculaires,de 5-8 mm de diamétre,densément pubescentes á l'extérieur,glabres á l'intérieur. Boutons floraux lanceolés. Sépales triangulaires-oves, longs de 5-6 mm, larges de 3,5-4 mm,aigus au sommet, soudés a la base, concaves,tomenteux brun-roux ä l'extérieur,glabres á l'intérieur. Pétales externes épais, lancéolés, longs de 13-2o mm,larges de 4 mm environ,amincis á la base,tomenteux jaune doré ä l'exté- rieur,sauf a la base, et sur les bords internes,glabres et rouges a 'intérieur et á la base externe; pétales internes de méme forme, ä peine plus courts et plus étroits,légerement carénés,amincis ä la base, tomenteux-soyeux blonds sur les /3 supérieurs externes, au sommet et sur la ligne médiane internes,et munis sur les bords internes, juste au-dessus de la base, de deux petites touffes de poils plus longs.Staminodes ± cuneiformes-oblongs，longs de 2 mm environ, les externes plus larges.Etamines linéaires, longues de 2 mm environ, les plus externes insérées au méme niveau que les carpelles, les internes insérées sur le bord relevé du réceptacle staminal, constituant avec les staminodes internes une urcéole qui cache la base des carpelles. Carpelles Io-12， longs de 4-5 mm,ovaires oblongs,longs de I mm pubescents,styles linéaires,flexueux, longs de 3-4 mm, pubescents á poils longs et rares formant une petite touffe au sommet.Ovules bisériés 6.
-
-Fruits inconnus.
+Fruits unknown.
 
 ## Type
 
-Le Testu I76o,Tono-Sangama，Mayombe Bayaka,Gabon (holotype P!)
+Le Testu I76o,Tono-Sangama,Mayombe Bayaka,Gabon (holotype P!)
 
 Le Testu 6o46, Moumba, Haute Ngounyé (holotype P!)
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Species of humid dense forest, rare, whose typical variety is still known only from Gabon.
 
-Espéce de foret dense humide,rare,dont la varieté type n'est encore connue qu'au Gabon.
+Tree 25-35 m tall and 30-40 cm in diameter; trunk straight, furnished with very small buttresses spread at the base; bark 0.5 cm thick, with rosy beige cross-section; wood yellow very hard and heavy. Small elevated crown little spreading. Young branches thick, zigzag, densely hirsute brown-rusty. Leaf bud enclosed in a densely hairy scale. Leaves of similar form to those of the typical variety but with midvein ± pubescent on upper face, especially toward the base, and densely covered with long appressed golden brown hairs on lower face. Pubescence of bracts, sepals, and petals denser and longer:
 
-Arbre de 25-35 m de hauteur et 3o-4o cm de diamétre; fut droit,muni de tres petits contreforts étalés a la base;écorce de o,5 cm d'épaisseur,a tranche beige rosé;bois jaune tres dur et lourd. Petite cime élevée peu étalée.Jeunes rameaux épais, en zigzag,densément hirsutes brun roux.Bourgeon foliaire encapuchonné dans une écaille densément velue.Feuilles de méme forme que dans la variété type mais á nervure médiane ± pubescente ä la face supérieure,surtout vers la base,et densement couverte de longs poils apprimés brun doré ä la face inférieure.Pubescence des bractées,sépales,et pétales plus dense et plus longue:
+Fruits with thick pedicel, 0.5 cm long;mericarps 5-6, sessile, obovoid, 2 cm long, 1.2-1.5 cm wide, brown pubescent. Seeds biseriate horizontal.
 
-Fruits ä pédicelle épais, long de o,5 cm；méricarpes 5-6, sessiles,obovoides,longs de 2 cm，larges de 1,2-1,5 cm，pubescents bruns.Graines bisériees horizontales.
+Widespread in Gabon and Congo-Kinshasa, this variety seems scarcely more frequent than the typical variety.
 
-Répandue au Gabon et Congo-Kinshasa，cette variété ne semble guere plus fréquente que la varieté type.
+It is very closely related to X. villosa Chipp, widespread from Ivory Coast to Cameroon, by leaf form, dense inflorescences, and floral structure. On the material we have examined, we nevertheless notice a rather marked difference in the morphology of the young branches. In the species villosa, they are indeed rather slender, straight, hirsute with golden blond hairs; in the species Le-Testui, they are very thick, zigzag, marked with a line running from one petiole to another, corresponding to traces of contact of the limb margins on the following internode in the bud; the pubescence is brown and very dense in the variety longepilosa. The leaf bud of X. Le-Testui is also remarkable for its dimensions (2-3 cm × 1.3-1.5 cm), broadly ovoid, very densely hairy brown in the variety longepilosa; in X. villosa, it is lanceolate, silky blond. The branches of X. villosa seem moreover always furnished with small whitish lenticels, and the leaves are less distinctly enlarged at the base and not subcordate.
 
-Elle est tres affine de X. oillosa Chipp,répandue de Coted'Ivoire au Cameroun, par la forme des feuilles,les inflorescences denses,et la structure florale. Sur le matériel que nous avons examiné,on remarque cependant une différence assez marquée dans la morphologie des jeunes rameaux. Dans l'espece pillosa, ils sont en effet plutot greles,droits,hirsutes ä poils blond doré; dans l'espece Le-Testui, ils sont tres épais,en zigzag，marqués d'une ligne allant d'un pétiole â l'autre,correspondant aux traces du contact des bords du limbe sur l'entreneud suivant dans le bouton; la pubescence est brune et tres dense dans la varieté longepilosa.Le bourgeon foliaire de X. Le-Testui est également remarquable par ses dimensions (2-3 cm × 1,3-1,5 cm),largement ovoide,tres densément velu brun dans la variété longepilosa; chez X. villosa, il est lancéolé,soyeux blond.Les rameaux de X. pillosa semblent d'autre part toujours munis de petits lenticelles blanchatres,et les feuilles sont moins nettement élargies ä la base et non subcordées.
-
-Ces principales différences d'ordre végétatif,nous conduisent a conserver l'espece Le-Testui, malgré ses grandes affinités avec X. pillosa.
+These principal differences of a vegetative nature lead us to maintain the species Le-Testui, despite its close affinities with X. villosa.
 
 ## Vernacular names
 
@@ -59,7 +58,7 @@ Endong (Fang)
 
 ## Specimens examined
 
-Le Testu 176o, type (fl. aout)； 5975,Mimongo (fl., juill.).
+Le Testu 176o, type (fl. aout); 5975,Mimongo (fl., juill.).
 
 var. longepilosa Le Thomas, var. nov. (fig. Io et 11, pl. 33).
 

@@ -7,6 +7,7 @@ family: Connaraceae
 vol: 33
 pages: 41-43
 source: sources/Connaraceae_vol33_paddle
+countries_incomplete: true
 tags: [species, generated]
 ---
 # *Agelaea poggeana* Gilg
@@ -65,11 +66,11 @@ Reitsma 1363, 40 km au S.O. de Doussala (j. fr., Août), WAG ; 2626, Réserve de
 
 ![Agelaea poggeana](../sources/Connaraceae_vol33_paddle/figures/fig_016_p0042.png)
 
-*PL. 10. - Agelaea poggeana Gilg : 1, jeune rameau flori- et fructifère × 2/3 ; 2, fleur × 8 ; 3, follicules, l'un montrant sa graine × 2/3 ; 4, follicule vu de dessus montrant une graine × 2 ; 5, graine montrant son sarcotesta (partie foncée) entourant le hile × 2. (1. Gilbert 14515 ; Tisserant 569 ; 3-5 Arends & al. 659). - Repris de AUWP 89 (6).*
+*PL. 10. - Agelaea poggeana Gilg : 1, young flowering and fruiting branch × 2/3 ; 2, flower × 8 ; 3, follicles, one showing its seed × 2/3 ; 4, follicle viewed from above showing a seed × 2 ; 5, seed showing its sarcotesta (dark part) surrounding the hilum × 2. (1. Gilbert 14515 ; Tisserant 569 ; 3-5 Arends & al. 659). - Reprinted from AUWP 89 (6).*
 
 ![Agelaea poggeana](../sources/Connaraceae_vol33_paddle/figures/fig_017_p0044.png)
 
-*PL. 11. – Variation de la foliole terminale : 1, 2, Agelaea poggeana ; 3-5, A. rubiginosa. – Repris de AUWP 89 (6).*
+*PL. 11. – Variation of the terminal leaflet : 1, 2, Agelaea poggeana ; 3-5, A. rubiginosa. – Taken from AUWP 89 (6).*
 
 ## Notes
 

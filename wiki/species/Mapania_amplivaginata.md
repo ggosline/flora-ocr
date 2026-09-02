@@ -7,6 +7,12 @@ family: Cyperaceae
 vol: 44
 pages: 167-168
 source: sources/Cyperaceae_vol44_liteparse
+countries: [Angola, Cameroon, Gabon, Nigeria]
+in_region: true
+subdivisions:
+  Gabon: [Estuaire, Moyen-Ogooué, Ngounié, Nyanga, Ogooué-Maritime, Woleu-Ntem]
+habit: "herb"
+altitude_m: "40–600"
 tags: [species, generated]
 ---
 # *Mapania amplivaginata* K.Schum. Planche 109, Figure 14b

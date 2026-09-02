@@ -7,6 +7,12 @@ family: Leguminosae
 vol: 49
 pages: 99-99
 source: sources/Millettiaspeciesfabaceae_vol49_liteparse
+countries: [Gabon, Guinea]
+in_region: true
+subdivisions:
+  Gabon: [Estuaire, Haut-Ogooué, Ngounié, Nyanga, Ogooué-Ivindo, Ogooué-Maritime]
+habit: "herb"
+altitude_m: "30–130"
 tags: [species, generated]
 ---
 # *Crotalaria ochroleuca* G.Don Planche 30

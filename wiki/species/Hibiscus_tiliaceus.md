@@ -7,6 +7,12 @@ family: Malvaceae
 vol: 45
 pages: 79-79
 source: sources/Malvaceae_vol45_liteparse
+countries: [Gabon]
+in_region: true
+subdivisions:
+  Gabon: [Estuaire, Nyanga, Ogooué-Maritime]
+habit: "shrub"
+habitat: [mangrove, coastal]
 tags: [species, generated]
 ---
 # *Hibiscus tiliaceus* L. Planche 22

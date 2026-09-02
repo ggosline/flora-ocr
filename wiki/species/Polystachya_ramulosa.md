@@ -7,6 +7,9 @@ family: Orchidaceae
 vol: 37
 pages: 57-59
 source: sources/Orchidaceae_vol37_paddle
+countries: [Cameroon, Central African Republic, Cote d'Ivoire, Democratic Republic of the Congo, Equatorial Guinea, Gabon, Ghana, Liberia, Nigeria, Sierra Leone, Tanzania, Uganda]
+in_region: true
+habitat: [swamp forest]
 tags: [species, generated]
 ---
 # *Polystachya ramulosa* Lindl.
@@ -39,7 +42,7 @@ Le Testu 5434, Upper Ngounyé, Iméno Toumbidi (fl. May), BR! ; 5775, between Wa
 
 ![Polystachya ramulosa](../sources/Orchidaceae_vol37_paddle/figures/fig_019_p0058.png)
 
-*PL. 126. – Polystachya ramulosa Lindl. : A, fleur ; B, labelle ; C, sépale dorsal ; D, pétale ; E, sépale latéral ; F, feuille (A-F, Le Testu 5912, P).*
+*PL. 126. – Polystachya ramulosa Lindl.: A, flower; B, labellum; C, dorsal sepal; D, petal; E, lateral sepal; F, leaf (A-F, Le Testu 5912, P).*
 
 ![Polystachya ramulosa](../sources/Orchidaceae_vol37_paddle/figures/fig_136_p0251.png)
 

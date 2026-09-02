@@ -7,6 +7,8 @@ family: Sapindaceae
 vol: 23
 pages: 66-68
 source: sources/Sapindaceae_vol23_paddle
+countries: [Cameroon, Gabon]
+in_region: true
 tags: [species, generated]
 ---
 # *Deinbollia pycnophylla* Gilg ex Radlkofer

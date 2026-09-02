@@ -7,6 +7,9 @@ family: Acanthaceae
 vol: 13
 pages: 154-157
 source: sources/Acanthaceae_vol13_paddle
+countries: [Gabon, Republic of the Congo]
+in_region: true
+habit: "tree"
 tags: [species, generated]
 ---
 # *Thomandersia butayei* De Wild.
@@ -17,27 +20,23 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+, ser. 3, 3: 272 (1910). — T. et H. Dur., Syll. Fl. Cong., : 426 (1909). — De Wild., Pl. Bequaert., 4: 28 (1926). — Heine, l. c. 233, t. XIII, 15-26, et fig. 4 (1966).
 
-, sér. 3, 3 : 272 (1910). — T. et H. Dur., Syll. Fl. Cong., : 426 (1909). — De Wild., Pl. Bequaert., 4: 28 (1926). — Heine, l. c. 233, t. XIII, 15-26, et fig. 4 (1966).
+Shrub or small tree 0.5-5 cm tall, with shortly tomentose branchlets becoming glabrous, with shining brownish bark; upper branchlets pseudo-dichotomous. Leaves in ± unequal pairs. Petiole generally not exceeding 1.3 cm long, but capable of reaching 2 cm, shortly tomentose. Blade oval-elliptic, rounded-cuneiform at the base, acuminate at the apex, with an obtuse and emarginate acumen, 2-10 cm long and 1.2-4.5 cm wide, subcoriaceous, rather dull on both faces, glabrous on the upper face except on the nerves, sparsely hairy on the lower face, especially on the nerves and in the axils of the secondary nerves (acarodomatia very developed), with 3-4 pairs of
 
-Arbrisseau ou arbuste de 0,5-5 cm de haut, à rameaux courtement tomenteux, devenant glabres, à écorce brunâtre luisante; rameaux supérieurs pseudo-dichotomes. Feuilles en paires ± inégales. Pétiole ne dépassant généralement pas 1,3 cm de long, mais pouvant atteindre 2 cm, courtement tomenteux. Limbe ovale-elliptique, arrondi-cunéiforme à la base, acuminé au sommet, à acumen obtus et émarginé, de 2-10 cm de long et 1,2-4,5 cm de large, subcoriace, assez mat sur les 2 faces, glabre à la face supérieure sauf sur les nervures, éparsement velu à la face inférieure, surtout sur les nervures et à l'aisselle des nervures secondaires (acarodomaties très développées), à 3-4 paires de
+Plate XXX
 
-Planche XXX
+lateral nerves strongly anastomosed and depressed on the upper face.
 
-nervures latérales fortement anastomosées et en dépression à la face supérieure.
+Terminal racemes, 5-10 cm long; peduncles approximately 1-2.7 cm long; bracts approximately 1 mm long; pedicels approximately 2 mm long, tomentose. Flowers opposite, dense. Calyx approximately 2 mm long and 5 mm diam., ciliate on the margins, provided with a glandular swelling. Corolla pale pink (Pobéguin 59238), mauve, yellowish or yellow (Le Testu 981); tube 6-8 mm long reddish-brown when dry, subglabrous on the outside; lower lip with non-striate lobes, strongly hairy. Staminal filaments glabrous, with free portion 3.5-4 mm long; anthers with locules 1 mm long, glabrous; staminode approximately 2 mm long, glabrous, inserted 1.5 mm above the base of the corolla. Ovary conical-ovoid, 1.5 mm long and 0.9 mm diam., glabrous; style 6.5 mm long, glabrous; stigma cylindric.
 
-Racèmes terminaux, de 5-10 cm de long; pédoncules d'environ 1-2,7 cm de long; bractées d'environ 1 mm de long; pédicelles d'environ 2 mm de long, tomentaux. Fleurs opposées, denses. Calice d'environ 2 mm de long et 5 mm de diam., cilié sur les bords, muni d'une bosse glandulaire. Corolle blanc rosé (Pobéguin 59238), mauve, jaunâtre ou jaune (Le Testu 981); tube de 6-8 mm de long brun rougeâtre à l'état sec, subglabrescent à l'extérieur; lèvre inférieure à lobes non striés, fortement velue. Filets staminaux glabres, à partie libre de 3,5-4 mm de long; anthères à loges de 1 mm de long, glabres; staminode d'environ 2 mm de long, glabre, inséré à 1,5 mm au-dessus de la base de la corolle. Ovaire conique-ovoïde, de 1,5 mm de long et 0,9 mm de diam., glabre; style de 6,5 mm de long, glabre; stigmate cylindrique.
-
-Capsules coniques-ovoïdes, d'environ 9 mm de long et 6 mm de diam., glabres, brun foncé à l'état sec, entourées par le calice accrescent atteignant 5 mm de diam., à parois d'environ 0,5 mm d'épaisseur. Graines d'environ 3 mm de diam.; testa brun très clair, couvert d'écalles triangulaires-lancéolées, irrégulièrement dentelées et donnant à la graine l'aspect d'un cône de sapin.
+Capsules conical-ovoid, approximately 9 mm long and 6 mm diam., glabrous, dark brown when dry, surrounded by the accrescent calyx reaching 5 mm diam., with walls approximately 0.5 mm thick. Seeds approximately 3 mm diam.; testa very pale brown, covered with triangular-lanceolate scales, irregularly denticulate and giving the seed the appearance of a fir cone.
 
 ## Type
 
 R. Butaye, in herb. J. Gillet 1480, entre Kisantu et Kwango, Congo-Léopoldville (BR, holotype!)
 
 ## Discussion
-
-<!-- TODO:translate — source text below, verbatim and untranslated -->
 
 Gabon, Congo-Brazzaville, Congo-Léopoldville.
 

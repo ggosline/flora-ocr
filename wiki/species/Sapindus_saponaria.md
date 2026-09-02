@@ -7,6 +7,7 @@ family: Sapindaceae
 vol: 23
 pages: 60-62
 source: sources/Sapindaceae_vol23_paddle
+habit: "tree"
 tags: [species, generated]
 ---
 # *Sapindus saponaria* Linné

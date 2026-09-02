@@ -7,6 +7,8 @@ family: Orchidaceae
 vol: 37
 pages: 195-197
 source: sources/Orchidaceae_vol37_paddle
+countries: [Gabon]
+in_region: true
 tags: [species, generated]
 ---
 # *Chamaeangis gabonensis* Summerh.

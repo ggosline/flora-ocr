@@ -7,6 +7,9 @@ family: Sapindaceae
 vol: 23
 pages: 30-31
 source: sources/Sapindaceae_vol23_paddle
+countries: [Cameroon, Nigeria]
+in_region: true
+habit: "shrub"
 tags: [species, generated]
 ---
 # *Allophylus megaphyllus* Hutchinson & Dalziel

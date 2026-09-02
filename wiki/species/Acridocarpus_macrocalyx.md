@@ -7,6 +7,10 @@ family: Malpighiaceae
 vol: 21
 pages: 8-8
 source: sources/Malpighiaceae_vol21_paddle
+countries: [Democratic Republic of the Congo, Guinea, Togo]
+in_region: true
+habit: "liana"
+habitat: [riverine]
 tags: [species, generated]
 ---
 # *Acridocarpus macrocalyx* Engler
@@ -39,7 +43,7 @@ Klaine 2049, environs de Libreville (bout., déc.). Le Testu 6364, Mbigou (fl., 
 
 ![Acridocarpus macrocalyx](../sources/Malpighiaceae_vol21_paddle/figures/fig_001_p0009.png)
 
-*PL. 1. — Acridocarpus macrocalyx Engl.: 1, feuille, face inférieure × 2/3 (Bates 1816); 2, fleur épanouie × 2; 3, étamine × 3; 4, étamine de profil × 3 (2-4, Le Testu 8592); 5, samares × 2/3 (E. Annet s. n., Cameroun). — A. longifolius (G. Don) Hook. f.: 6, feuille et inflorescence × 2/3 (Chevalier 26783); 7, bouton × 2; 8, samare × 2/3 (Griffon du Bellay 79); 9, samare de la forme brevialatus Wilczek × 2/3 (Le Testu 5046).*
+*PL. 1. — Acridocarpus macrocalyx Engl.: 1, leaf, lower surface × 2/3 (Bates 1816); 2, open flower × 2; 3, stamen × 3; 4, stamen in profile × 3 (2-4, Le Testu 8592); 5, samaras × 2/3 (E. Annet s. n., Cameroon). — A. longifolius (G. Don) Hook. f.: 6, leaf and inflorescence × 2/3 (Chevalier 26783); 7, bud × 2; 8, samara × 2/3 (Griffon du Bellay 79); 9, samara of the brevialatus form Wilczek × 2/3 (Le Testu 5046).*
 
 ## Notes
 

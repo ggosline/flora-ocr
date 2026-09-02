@@ -7,6 +7,7 @@ family: Rubiaceae
 vol: 12
 pages: 197-198
 source: sources/Rubiaceae_vol12_paddle
+habitat: [riverine]
 tags: [species, generated]
 ---
 # *Sabicea congensis* Wernh.
@@ -39,7 +40,7 @@ N. Hallé : 1428, 2565, 2567, Makokou, bord de l'Ivindo (fl. mars; fl. et fr. oc
 
 ![Sabicea congensis](../sources/Rubiaceae_vol12_paddle/figures/fig_052_p0199.png)
 
-*PL. 41. — Sabicea congensis Wernh. (N. Hallé 1428) : 1, tige florifère × 3/4; 2, bouton; 3, fleur; 4, coupe de la fleur; 5, un pétale à plat; 6, anthère. — S. longepetiolata De Wild. : 7, tige florifère × 3/4; 8, bouton longistyle; 9, fleur brévi-style; 10, poil de la gorge de la corolle (0,7 mm); 11, anthère; 12, coupe de l'ovaire; 13, fruit mùr (8, 10, 11 et 12, N. Hallé 1954; 7, 9 et 13, N. H. 1954 bis).*
+*PL. 41. — Sabicea congensis Wernh. (N. Hallé 1428) : 1, flowering stem × 3/4; 2, bud; 3, flower; 4, section of flower; 5, a petal flattened; 6, anther. — S. longepetiolata De Wild. : 7, flowering stem × 3/4; 8, long-styled bud; 9, short-styled flower; 10, hair of corolla throat (0.7 mm); 11, anther; 12, section of ovary; 13, mature fruit (8, 10, 11 and 12, N. Hallé 1954; 7, 9 and 13, N. H. 1954 bis).*
 
 ## Notes
 

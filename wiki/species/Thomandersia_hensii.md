@@ -7,6 +7,8 @@ family: Acanthaceae
 vol: 13
 pages: 148-152
 source: sources/Acanthaceae_vol13_paddle
+countries: [Angola, Cameroon, Central African Republic, Gabon, Nigeria]
+in_region: true
 tags: [species, generated]
 ---
 # *Thomandersia hensii* De Wild. et Th. Dur.
@@ -22,19 +24,15 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 Ann. Mus. Congo, sér. 1, 1 : 153 « 133 », t. LXXVII (jan. 1901), sér. 3, 1 : 179 (déc. 1901); De Wild., Miss. Laurent 179 (1905); Ann. Mus. Congo, sér. V, 1 : 313 (1906), 2 : 200 (1907). — Heine, l.c. : 221 (1966) = Scytanthus laurifolius T. Anders. ex Benth., in G. Bentham et J. D. Hooker, Gen. Pl. 2 : 1093 (1876), pro minore parte descriptionis (specimina non
 
 citata). — Bentham., in Hook. Ic. Pl. 13: 8, t. 1209 (1877), excl. Mann 2207, et s. n., Gaboon river.
 
-Arbuste ou petit arbre de 1 à 4 et jusqu'à 15 m de hauteur; rameaux jeunes velus, devenant rapidement glabres; rameaux supérieurs ± dichotomes; pétioles de 1,2-2,5 cm de long; limbe ovale-elliptique, de 6-11 cm de long et 2,5-4,5 cm de large, cunéi-forme à la base, brusquement et étroitement acuminé au sommet, à acumen de 6-8 mm de long et environ 1,5 mm de large; les deux feuilles d'une paire égales ou subégales, coriaces, luisantes sur la face supérieure, plus pâles sur la face inférieure; 4-5 paires de nervures latérales.
+Shrub or small tree 1 to 4 and up to 15 m in height; young branchlets velutinous, becoming glabrous relatively quickly; upper branchlets ± dichotomous; petioles 1.2–2.5 cm long; blade ovate-elliptic, 6–11 cm long and 2.5–4.5 cm wide, cuneate at the base, abruptly and narrowly acuminate at the apex, with acumen 6–8 mm long and approximately 1.5 mm wide; the two leaves of a pair equal or subequal, coriaceous, shining on the upper surface, paler on the lower surface; 4–5 pairs of lateral veins.
 
-Inflorescences en racèmes terminaux ou subterminaux, de 10-15 cm de long; rachis atteignant 3 mm de diamètre, assez épais et rigide, dressé, jamais penché ni courbé; bractées de 1 mm de long; pédicelles subnuls, atteignant parfois 2,5 mm de long. Fleurs ± opposées, verticillées ou éparses, assez denses surtout vers le sommet, donnant à l'inflorescence un aspect subpyramidal. Boutons jaunâtres, lavés d'un peu de violet surtout vers le sommet; calice d'environ 2 mm de long, violacé ou pourpre, finement pubescent et assez densément cilié-pubescent aux bords, muni d'une bosse glandulaire, à lobes d'environ 1 mm de long. Corolle de 16-20 mm de long, blanche ou très légèrement rose-pourpre, beaucoup plus épaisse et coriace que chez Th. laurifolia; tube d'environ 8 mm de long, très courtement pubescent à l'extérieur et finement poilu à l'intérieur; lèvre supérieure d'environ 4 mm de long; lèvre inférieure d'environ 6 mm de long sur 11-17 mm de large, à lobes un peu crispés ou irrégulièrement émargines et se recouvrant les uns les autres. Filets staminaux à partie soudée couverte de poils glandulaires capités incolores, à partie
+Inflorescences in terminal or subterminal racemes, 10–15 cm long; rachis reaching 3 mm in diameter, rather thick and rigid, erect, never pendant or curved; bracts 1 mm long; pedicels subnull, sometimes reaching 2.5 mm long. Flowers ± opposite, whorled or scattered, rather dense especially towards the apex, giving the inflorescence a subpyramidal aspect. Buds yellowish, washed with a little violet especially towards the apex; calyx approximately 2 mm long, violaceous or purple, finely pubescent and rather densely ciliate-pubescent at the margins, provided with a glandular bump, with lobes approximately 1 mm long. Corolla 16–20 mm long, white or very slightly rose-purple, much thicker and coriaceous than in Th. laurifolia; tube approximately 8 mm long, very shortly pubescent on the exterior and finely pilose on the interior; upper lip approximately 4 mm long; lower lip approximately 6 mm long by 11–17 mm wide, with lobes somewhat crisped or irregularly emarginate and overlapping one another. Filaments with the fused part covered with colourless capitate glandular hairs, with the free part, glabrous or weakly papillose approximately 5 mm long in the anterior stamens and 4 mm in the posterior ones. Anthers yellow, locules 1.2 long; staminode approximately 1 mm long, inserted 4 mm from the base of the corolla. Ovary ellipsoid, 2 mm high, glabrous; style 10 mm long.
 
-libre, glabre ou faiblement papilleuse d'environ 5 mm de long chez les étanines antérieures et 4 mm chez les postérieures. Anthères jaunes, loges de 1,2 de long; staminode d'environ 1 mm de long, inséré à 4 mm de la base de la corolle. Ovaire ellipsoïde, de 2 mm de haut, glabre; style de 10 mm de long.
-
-Fruit subglobuleux ou ellipsoïde, d'environ 13 × 10 × 7 mm, glabre, entouré par le calice accrescent atteignant 5,5 mm de diam.; graines à test écailleux; écailles triangulaires-lancéolées, très finement et irrégulièrement disposées, donnant à la graine l'aspect d'un cône de sapin, brun clair ou ferrugineuses à maturité.
+Fruit subglobose or ellipsoid, approximately 13 × 10 × 7 mm, glabrous, surrounded by the accrescent calyx reaching 5.5 mm in diam.; seeds with scaly testa; scales triangular-lanceolate, very finely and irregularly arranged, giving the seed the appearance of a fir cone, light brown or ferruginous at maturity.
 
 ## Type
 
@@ -42,9 +40,7 @@ Dewèvre 683, Coquilhatville, Congo-Léopoldville (BR, holotype!)
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Nigeria, Cameroun, Gabon, République Centrafricaine, Congo Brazzaville, Angola (Maiombe), Congo-Léopoldville.
+Nigeria, Cameroon, Gabon, Central African Republic, Congo Brazzaville, Angola (Maiombe), Congo-Léopoldville.
 
 ## Specimens examined
 

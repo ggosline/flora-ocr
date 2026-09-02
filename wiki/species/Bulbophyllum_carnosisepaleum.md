@@ -7,6 +7,8 @@ family: Orchidaceae
 vol: 36
 pages: 191-191
 source: sources/Orchidaceae_vol36_paddle
+countries: [Cameroon, Cote d'Ivoire, Gabon, Uganda]
+in_region: true
 tags: [species, generated]
 ---
 # *Bulbophyllum carnosisepaleum* J.J. Verm.
@@ -37,7 +39,7 @@ Arends et al. 329, Waka, forest exploitation trail, near the locality "la Falais
 
 ![Bulbophyllum carnosisepaleum](../sources/Orchidaceae_vol36_paddle/figures/fig_099_p0192.png)
 
-*PL. 94. – Bulbophyllum carnosisepaleum J. J. Verm.: A, vue générale ; B, partie apicale de l'inflorescence ; C, pièces florales ; D, labelle ; E, labelle et gynostème en position naturelle, vue latérale ; F, anthère ; G, pollinies (A-G, ex VERMEULEN, 1987).*
+*PL. 94. – Bulbophyllum carnosisepaleum J. J. Verm.: A, general view ; B, apical part of the inflorescence ; C, floral parts ; D, labellum ; E, labellum and gynostemium in natural position, lateral view ; F, anther ; G, pollinia (A-G, ex VERMEULEN, 1987).*
 
 ## Notes
 

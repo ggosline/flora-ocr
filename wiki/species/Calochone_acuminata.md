@@ -7,6 +7,9 @@ family: Rubiaceae
 vol: 17
 pages: 215-218
 source: sources/Rubiaceae_vol17_paddle
+countries: [Angola]
+in_region: true
+habit: "liana"
 tags: [species, generated]
 ---
 # *Calochone acuminata* Keay
@@ -41,7 +44,7 @@ Le Testu 6344 (P ex BM), Ngondo (fl. oct.); 9400, Oyem (fl. nov., Ce spécimen a
 
 ![Calochone acuminata](../sources/Rubiaceae_vol17_paddle/figures/fig_050_p0217.png)
 
-*PL. 49. — Calochone acuminata Keay (fl. N. Hallé 4818; fr. Hédin 1918; 4 et 10, Le Testu 9400) : 1, rameau florifère × 0,75; 2, bouton en vue apicale; 3, bouton en coupe; 4, calice et base du style; 5, corolle épanouie de face; 6, nervation d'un lobe de corolle; 7, anthère in vivo avant déhiscence × 3,5; 8, coupe transversale d'anthère après dispersion du pollen, × 15; 9, coupe d'ovaire in vivo × 5; 10, coupe d'ovaire après réhydratation; 11, fruit mùr à sec × 0,75; 12, graine × 2.*
+*PL. 49. — Calochone acuminata Keay (fl. N. Hallé 4818; fr. Hédin 1918; 4 and 10, Le Testu 9400) : 1, flowering branch × 0,75; 2, bud in apical view; 3, bud in section; 4, calyx and base of style; 5, open corolla face-on; 6, venation of a corolla lobe; 7, anther in vivo before dehiscence × 3,5; 8, transverse section of anther after pollen dispersal, × 15; 9, ovary section in vivo × 5; 10, ovary section after rehydration; 11, mature fruit when dry × 0,75; 12, seed × 2.*
 
 ## Notes
 

@@ -7,6 +7,7 @@ family: Grammitidaceae
 vol: 08
 pages: 199-201
 source: sources/Grammitidaceae_vol08_paddle
+habit: "herb"
 tags: [species, generated]
 ---
 # *Ctenopteris villosissima* (Hk.) Harley

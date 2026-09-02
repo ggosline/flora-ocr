@@ -7,6 +7,8 @@ family: Combretaceae
 vol: 35
 pages: 19-23
 source: sources/Combretaceae_vol35_paddle
+countries: [Angola, Ghana, Nigeria]
+in_region: true
 tags: [species, generated]
 ---
 # *Combretum bracteatum* (Lawson) Engler & Diels
@@ -85,7 +87,7 @@ Wieringa & Nzabi 1685, 12 km au NNE de Koumameyong, 0°19'N-11°53'E (fr., Oct.)
 
 ![Combretum bracteatum](../sources/Combretaceae_vol35_paddle/figures/fig_004_p0022.png)
 
-*PL. 4. – Combretum bracteatum (Lawson) Engler & Diels : A, rameau florifère × 1/2 ; B, fleur × 1 ; C, fleur en coupe longitudinale × 1 ; D, fruit × 1 (A, C, Letouzey 12394 ; D, E, Letoutzey 11126). – Dessins de M. ALLARD reproduits avec l'autorisation du Département des Spermatophytes et Pteridophytes du Jardin Botanique National de MEISE (Belgique).*
+*PL. 4. – Combretum bracteatum (Lawson) Engler & Diels : A, flowering branch × 1/2 ; B, flower × 1 ; C, flower in longitudinal section × 1 ; D, fruit × 1 (A, C, Letouzey 12394 ; D, E, Letoutzey 11126). – Drawings by M. ALLARD reproduced with permission of the Department of Spermatophytes and Pteridophytes of the National Botanical Garden of MEISE (Belgium).*
 
 ## Notes
 

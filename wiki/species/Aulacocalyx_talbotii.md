@@ -7,6 +7,9 @@ family: Rubiaceae
 vol: 17
 pages: 162-163
 source: sources/Rubiaceae_vol17_paddle
+countries: [Cameroon, Gabon, Nigeria]
+in_region: true
+habit: "shrub"
 tags: [species, generated]
 ---
 # *Aulacocalyx talbotii* (Wernh.) Keay

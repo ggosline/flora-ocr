@@ -7,6 +7,9 @@ family: Celastraceae
 vol: 29
 pages: 260-261
 source: sources/Celastraceae_vol29_paddle
+countries: [Angola, Cameroon, Central African Republic, Democratic Republic of the Congo, Gabon, Ghana, Guinea, Liberia, Nigeria, Sierra Leone]
+in_region: true
+habit: "liana"
 tags: [species, generated]
 ---
 # *Hippocratea myriantha* Oliver

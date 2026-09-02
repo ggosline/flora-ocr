@@ -7,6 +7,10 @@ family: Leguminosae
 vol: 15
 pages: 121-123
 source: sources/Leguminosae_vol15_paddle
+countries: [Cameroon, Gabon]
+in_region: true
+habit: "tree"
+habitat: [primary forest]
 tags: [species, generated]
 ---
 # *Guibourtia tessmannii* (Harms)

@@ -6,6 +6,12 @@ genus: Achyrospermum
 vol: 58
 pages: 15-18
 source: sources/Labiataeulmaceaeverbenaceae_vol58_liteparse
+countries: [Cameroon, Central African Republic, Cote d'Ivoire, Equatorial Guinea, Gabon]
+in_region: true
+subdivisions:
+  Gabon: [Estuaire, Ogooué-Ivindo]
+habit: "herb"
+altitude_m: "150"
 tags: [species, generated]
 ---
 # *Achyrospermum tisserantii* Letouzey Planche 1

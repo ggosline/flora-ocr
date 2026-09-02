@@ -7,6 +7,12 @@ family: Leguminosae
 vol: 49
 pages: 49-49
 source: sources/Millettiaspeciesfabaceae_vol49_liteparse
+countries: [Cameroon, Gabon, Nigeria]
+in_region: true
+subdivisions:
+  Gabon: [Ngounié, Nyanga, Ogooué-Ivindo, Ogooué-Lolo, Woleu-Ntem]
+habit: "tree"
+altitude_m: "0–740"
 tags: [species, generated]
 ---
 # *Angylocalyx talbotii* Baker f. ex Hutch. & Dalziel Planche 11.10–12

@@ -7,6 +7,12 @@ family: Cyperaceae
 vol: 44
 pages: 15-16
 source: sources/Cyperaceae_vol44_liteparse
+countries: [Gabon, Mali, Sierra Leone]
+in_region: true
+subdivisions:
+  Gabon: [Ogooué-Ivindo]
+habit: "herb"
+altitude_m: "100–200"
 tags: [species, generated]
 ---
 # *Ascolepis capensis* (Kunth) Ridl. Planche 3

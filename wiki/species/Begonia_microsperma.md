@@ -7,6 +7,9 @@ family: Begoniaceae
 vol: 39
 pages: 26-29
 source: sources/Begoniaceae_vol39_liteparse
+countries: [Cameroon, Gabon]
+in_region: true
+habitat: [primary forest]
 tags: [species, generated]
 ---
 # *Begonia microsperma* Warb.

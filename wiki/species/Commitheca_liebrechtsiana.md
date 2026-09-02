@@ -7,6 +7,9 @@ family: Rubiaceae
 vol: 12
 pages: 262-265
 source: sources/Rubiaceae_vol12_paddle
+countries: [Cameroon, Gabon]
+in_region: true
+habit: "tree"
 tags: [species, generated]
 ---
 # *Commitheca liebrechtsiana* (De Wild. et Dur.) Brem.
@@ -52,11 +55,11 @@ N. Hallé : 1864, env. d'Ayem, 10 km SW de Ndjolé (fl. et fr. v. avr.).
 
 ![Commitheca liebrechtsiana](../sources/Rubiaceae_vol12_paddle/figures/fig_068_p0263.png)
 
-*PL. 53. — Commitheca Liebrechtsiana (De Wild. et Dur.) Bremek. (N. Hallé 1864) : 1, rameau florifère; 2, domaties; 3, stipule; 4 et 5, boutons; 6, fleur épanouie; 7, coupe de fleur longistyle; 8, anthère avant la déhiscence; 9, id. après déhiscence; 10, disque; 11, coupe d'ovaire; 12, fruit; 13, graine (A. Chevalier 5048).*
+*PL. 53. — Commitheca Liebrechtsiana (De Wild. et Dur.) Bremek. (N. Hallé 1864) : 1, flowering branch; 2, domatia; 3, stipule; 4 and 5, buds; 6, expanded flower; 7, section of longistyle flower; 8, anther before dehiscence; 9, id. after dehiscence; 10, disk; 11, section of ovary; 12, fruit; 13, seed (A. Chevalier 5048).*
 
 ![Commitheca liebrechtsiana](../sources/Rubiaceae_vol12_paddle/figures/fig_069_p0264.png)
 
-*FIG. 10. — Commitheca Letestuana N. Hallé (Le Testu 6349) : 1, feuille × 3/4; 2, stipule; 3, bouton; 4, fleur brévystyle épanouie; 5, détail de la corolle en coupe dans le plan de l'étamine; 6, anthère de 0,9 mm; 7, disque de 1,8 mm de diam. et style de type court; 8, coupe de l'ovaire.*
+*FIG. 10. — Commitheca Letestuana N. Hallé (Le Testu 6349) : 1, leaf × 3/4; 2, stipule; 3, bud; 4, brevistyle flower open; 5, detail of the corolla in section in the plane of the stamen; 6, anther of 0.9 mm; 7, disk of 1.8 mm diam. and short type style; 8, section of the ovary.*
 
 ## Notes
 

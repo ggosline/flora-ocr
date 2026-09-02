@@ -10,17 +10,15 @@ synonyms:
   - "Ximenia americana L. var. oxyprena Chiov."
   - "Ximenia laurina Del."
   - "Ximenia rogersii Burtt-Davy"
-habit: shrub
-habitat: [seashore, savanna, low vegetation, lateritic soils, bowal, riverbanks]
-altitude_m: "to 1400"
-countries: [Angola, Cameroon, Gabon, Senegal, Uganda]
-subdivisions:
-  Gabon: [Estuaire, Ogooué-Maritime]
-in_region: true
 treatments:
   - vol: 20
     pages: "108–112"
     source: sources/Olacaceae_vol20_paddle
+countries: [Angola, Gabon, Senegal, Uganda]
+in_region: true
+subdivisions:
+  Gabon: [Estuaire, Ogooué-Maritime]
+habit: "shrub"
 tags: [species]
 ---
 

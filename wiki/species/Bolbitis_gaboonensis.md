@@ -7,6 +7,8 @@ family: Lomariopsidaceae
 vol: 08
 pages: 190-192
 source: sources/Lomariopsidaceae_vol08_paddle
+countries: [Angola, Cameroon, Nigeria]
+in_region: true
 tags: [species, generated]
 ---
 # *Bolbitis gaboonensis* (Hk.) Alston (P.L. XXX)
@@ -48,7 +50,7 @@ Mgr Leroy : sans n., Ogooué. Mann : 1049, Gaboon riv. Le Testu : 1543, Kwango, 
 
 ![Bolbitis gaboonensis](../sources/Lomariopsidaceae_vol08_paddle/figures/fig_033_p0191.png)
 
-*PL. XXX. — Bolbitis gaboonensis (Hk.) Alston (Letouzey 3289) : 1, fronde stérile, forme entière × 1/3; 2, extrémité du limbe et bourgeon × 1/2; 3, forme partiellement lobée × 1/3; 4, fronde fertile × 1/3; 5, forme partiellement pennée (B. Laurentii) × 1/3; 6, nervation × 2.*
+*PL. XXX. — Bolbitis gaboonensis (Hk.) Alston (Letouzey 3289) : 1, sterile frond, entire form × 1/3; 2, apex of blade and bud × 1/2; 3, partially lobed form × 1/3; 4, fertile frond × 1/3; 5, partially pinnate form (B. Laurentii) × 1/3; 6, venation × 2.*
 
 ## Notes
 

@@ -7,6 +7,9 @@ family: Lauraceae
 vol: 10
 pages: 60-62
 source: sources/Lauraceae_vol10_paddle
+countries: [Cameroon]
+in_region: true
+habit: "tree"
 tags: [species, generated]
 ---
 # *Beilschmiedia klainei* Rob. et Wilcz.
@@ -40,7 +43,7 @@ Klaine : 321 (fl. juin) ; 356 (fr. août) ; 436 bis ; 542 ; 973 (fl. juin) ; 107
 
 ![Beilschmiedia klainei](../sources/Lauraceae_vol10_paddle/figures/fig_015_p0061.png)
 
-*PL. XIV. — 1 à 5, Beilschmiedia Klainei Rob. et Wilcz.: 1, rameau avec feuille de 25 cm (Klaine 2276, type); 2, inflorescence de 13 cm; 3, bractée de 2 mm; 4, fleur de 4 mm de diam.; 4', coupe (Klaine 9623); 5, fruit de 5 cm (Klaine 1202 bis). — 6 à 9, B. Dinklagei (Engl.) Rob. et Wilcz.: 6, rameau florifère, feuille de 8 cm; 7, bractée de 2 mm (Le Testu 8748); 8, fleur de 2 mm de diam.; 8', sa coupe (Le T. 2038); 9, fruit (d'après Engler).*
+*PL. XIV. — 1 to 5, Beilschmiedia Klainei Rob. et Wilcz.: 1, branch with leaf 25 cm (Klaine 2276, type); 2, inflorescence 13 cm; 3, bract 2 mm; 4, flower 4 mm diam.; 4', section (Klaine 9623); 5, fruit 5 cm (Klaine 1202 bis). — 6 to 9, B. Dinklagei (Engl.) Rob. et Wilcz.: 6, flowering branch, leaf 8 cm; 7, bract 2 mm (Le Testu 8748); 8, flower 2 mm diam.; 8', its section (Le T. 2038); 9, fruit (after Engler).*
 
 ## Notes
 

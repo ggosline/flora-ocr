@@ -7,6 +7,9 @@ family: Leguminosae
 vol: 15
 pages: 299-303
 source: sources/Leguminosae_vol15_paddle
+countries: [Cameroon, Gabon]
+in_region: true
+habit: "tree"
 tags: [species, generated]
 ---
 # *Tetraberlinia polyphylla* (Harms) Léonard
@@ -61,11 +64,11 @@ de Saint-Aubin : 670, Ngounié (fr. mars); 1966 = 11402, 1945 = 11394, Makokou (
 
 ![Tetraberlinia polyphylla](../sources/Leguminosae_vol15_paddle/figures/fig_076_p0300.png)
 
-*PL. LXXVI. — Tetraberlinia polyphylla (Harms) Léonard : 1, rameau florifère × 2/3; 2, bractée × 2; 3, fleur × 2; 4, deux sépales × 2; 5, deux petits pétales × 4; 6, 6', grand pétale face et dos; 7, détail de la base des filets; 8, pistil × 2.*
+*PL. LXXVI. — Tetraberlinia polyphylla (Harms) Léonard : 1, flowering branch × 2/3; 2, bract × 2; 3, flower × 2; 4, two sepals × 2; 5, two small petals × 4; 6, 6', large petal front and back; 7, detail of the base of the filaments; 8, pistil × 2.*
 
 ![Tetraberlinia polyphylla](../sources/Leguminosae_vol15_paddle/figures/fig_077_p0302.png)
 
-*PL. LXXVII. — Tetraberlinia Moreliana Aubr. : 1, feuille × 2 /3; 2, stipule × 2 /3; 3, fleur × 2; 4, 5, 6, 3 sépales × 4; 7, grand pétale dos et face × 2; 8, 9, pétales × 6; 10, autre pétale de profil et de face × 6; 11, jeune fruit × 2 /3; 12, valve enroulée × 2 /3.*
+*PL. LXXVII. — Tetraberlinia Moreliana Aubr. : 1, leaf × 2 /3; 2, stipule × 2 /3; 3, flower × 2; 4, 5, 6, 3 sepals × 4; 7, large petal back and front × 2; 8, 9, petals × 6; 10, other petal in profile and front view × 6; 11, young fruit × 2 /3; 12, rolled valve × 2 /3.*
 
 ## Notes
 

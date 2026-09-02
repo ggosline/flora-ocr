@@ -7,6 +7,8 @@ family: Orchidaceae
 vol: 36
 pages: 195-197
 source: sources/Orchidaceae_vol36_paddle
+countries: [Angola, Cameroon, Equatorial Guinea, Gabon, Guinea, Kenya, Madagascar, Malawi, Sao Tome and Principe, Tanzania, Zambia, Zimbabwe]
+in_region: true
 tags: [species, generated]
 ---
 # *Bulbophyllum intertextum* Lindl.

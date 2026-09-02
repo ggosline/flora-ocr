@@ -7,6 +7,13 @@ family: Hypericaceae
 vol: 42
 pages: 40-42
 source: sources/Hypericaceae_vol42_liteparse
+countries: [Cameroon, Democratic Republic of the Congo, Equatorial Guinea, Gabon, Ghana, Guinea-Bissau, Nigeria]
+in_region: true
+subdivisions:
+  Gabon: [Moyen-Ogooué, Nyanga, Ogooué-Ivindo, Ogooué-Maritime]
+habit: "tree"
+habitat: [savanna, secondary forest]
+altitude_m: "350"
 tags: [species, generated]
 ---
 # *Vismia guineensis* (L.) Choisy Planche 11
@@ -17,23 +24,15 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Arbuste à petit arbre jusqu’à 15 m de hauteur ; rameaux gris brun, tomenteux-ferrugineux à l’état jeune, à touffes de poils roux à la base des ramifications. Feuille : pétiole 2–10 mm, pubescent ; limbe étroitement elliptique ou elliptique à ovale, 4–14 × 2–4,5 cm, cunéé à obtus à la base , atténué-acuminé au sommet, papyracé, dessus glabre ou éparsement pubescent, dessous pubescent à poils étoilés (sub)sessiles et à nombreuses ponctuations glanduleuses noires ; nervure médiane canaliculée dessus, les latérales 7–12 paires. Inflorescence axillaire ou apparemment terminale sur des jeunes rameaux latéraux ; cymes sessiles , multiflores, plus courtes que les feuilles axillantes . Fleur : pédicelle 6–12 mm, pubescent ; sépales ovales, 3–4 × 1–1,5 mm, vert grisâtre, pubescents extérieurement, pubescents à glabrescents et à ponctuations glanduleuses intérieurement ;
-
-pétales dressés, oblongs, 5–6 × 1,5–2,5 mm, jaune verdâtre, glabres extérieurement, à lignes glanduleuses rouges intérieurement ; phalanges staminales à nombreuses étamines , 5 mm de longueur, longuement pubescentes sur la face externe, anthères ovoïdes, 0,3 mm de longueur ; ovaire glabre, ponctué de glandes noires, à 2 séries de 5–7 ovules par loge ; styles 3 mm de longueur, glabres, stigmates capités. Fruit ovoïde à subglobuleux, 4–8 mm de diamètre, blanc à grisâtre ou verdâtre , à lignes de ponctuations glanduleuses rouges ou brunes. Graine ± anguleuse, 2 × 1 mm, sans glandes noires.
+Shrub to small tree up to 15 m tall; branches grey-brown, tomentose-ferruginous when young, with tufts of russet hairs at the base of branchings. Leaf: petiole 2–10 mm, pubescent; lamina narrowly elliptic or elliptic to ovate, 4–14 × 2–4.5 cm, cuneate to obtuse at base, attenuate-acuminate at apex, papyraceous, upper surface glabrous or sparsely pubescent, lower surface pubescent with (sub)sessile stellate hairs and numerous black glandular punctations; midvein channelled above, lateral nerves 7–12 pairs. Inflorescence axillary or apparently terminal on young lateral branches; cymes sessile, multiflorous, shorter than the subtending leaves. Flower: pedicel 6–12 mm, pubescent; sepals ovate, 3–4 × 1–1.5 mm, greyish-green, pubescent externally, pubescent to glabrescent and with glandular punctations internally; petals erect, oblong, 5–6 × 1.5–2.5 mm, yellowish-green, glabrous externally, with red glandular lines internally; stamen fascicles with numerous stamens, 5 mm long, densely pubescent on external face, anthers ovoid, 0.3 mm long; ovary glabrous, punctate with black glands, with 2 series of 5–7 ovules per locule; styles 3 mm long, glabrous, stigmas capitate. Fruit ovoid to subglobose, 4–8 mm diameter, white to greyish or greenish, with lines of red or brown glandular punctations. Seed ± angular, 2 × 1 mm, without black glands.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-de la Guinée Bissau jusqu’au Ghana, au Nigeria, au Cameroun, à la Guinée Équatoriale, au Gabon et à la République Démocratique du Congo ; au Gabon, rencontrée dans les provinces du Moyen-Ogooué, de l’Ogooué-Ivindo, de l’Ogooué-Maritime et de la Nyanga
+from Guinea-Bissau to Ghana, Nigeria, Cameroon, Equatorial Guinea, Gabon and Democratic Republic of the Congo; in Gabon, encountered in the provinces of Moyen-Ogooué, Ogooué-Ivindo, Ogooué-Maritime and Nyanga
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-forêt secondarisée, lisières, savane boisée, endroits perturbés, parfois en stations marécageuses, sur sol latéritique ou sableux ; au Gabon jusqu’à 350 m d’altitude, ailleurs jusqu’à 650 m. Usage : Les troncs sont utilisés comme montants des cabanes, mais le bois n’est pas dur. La sève est utilisée contre les démangeaisons, d’autres maladies de la peau et la fièvre. Une infusion des jeunes feuilles sert de laxatif et, en combinaison avec Aframomum melegueta (Roscoe) K.Schum. (Zingiberaceae), contre des inflammations de la gorge. B : Bamps (1966, 1969, 1970), Burkill (1994), Milne-Redhead (1953). i B liographie
+secondarized forest, forest edges, wooded savanna, disturbed places, sometimes in swampy stations, on lateritic or sandy soil; in Gabon up to 350 m altitude, elsewhere up to 650 m. Uses: The trunks are used as posts for huts, but the wood is not hard. The sap is used against itching, other skin diseases and fever. An infusion of young leaves serves as a laxative and, in combination with Aframomum melegueta (Roscoe) K.Schum. (Zingiberaceae), against throat inflammations. B: Bamps (1966, 1969, 1970), Burkill (1994), Milne-Redhead (1953). Bibliography
 
 ## Notes
 

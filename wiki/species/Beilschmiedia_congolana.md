@@ -7,6 +7,9 @@ family: Lauraceae
 vol: 10
 pages: 38-38
 source: sources/Lauraceae_vol10_paddle
+countries: [Cameroon, Democratic Republic of the Congo, Gabon]
+in_region: true
+habit: "tree"
 tags: [species, generated]
 ---
 # *Beilschmiedia congolana* Rob. et Wilcz..
@@ -40,7 +43,7 @@ Ces deux plantes ont été rapprochées du type par leurs feuilles très caract�
 
 ![Beilschmiedia congolana](../sources/Lauraceae_vol10_paddle/figures/fig_006_p0037.png)
 
-*PL. V. — 1 à 4, Beilschmiedia congolana Rob. et Wilcz.: 1, rameau florifère, feuille de 19 cm; 2, bractée de 5 mm; 3, fleur de 2 mm de diam.; 3', coupe; 3", ovaire (Jean Louis 3761, type); 4, fruit de 3 cm (Tisserant 1418). — 5 à 7, Beilschmiedia fulva Rob. et Wilcz.: 5, rameau avec feuilles de 8 cm et rachis d'inflorescences (Michelson 889); 6, fleur; 6', coupe de diam. 1,8 mm; 6', pistil; 7, fruit (contour d'après description).*
+*PL. V. — 1 to 4, Beilschmiedia congolana Rob. et Wilcz.: 1, flowering branch, leaf 19 cm; 2, bract 5 mm; 3, flower 2 mm diam.; 3', section; 3", ovary (Jean Louis 3761, type); 4, fruit 3 cm (Tisserant 1418). — 5 to 7, Beilschmiedia fulva Rob. et Wilcz.: 5, branch with leaves 8 cm and inflorescence rachis (Michelson 889); 6, flower; 6', section diam. 1.8 mm; 6', pistil; 7, fruit (contour after description).*
 
 ## Notes
 

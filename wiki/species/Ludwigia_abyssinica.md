@@ -5,18 +5,16 @@ authority: A.Rich.
 genus: Ludwigia
 family: Onagraceae
 synonyms: [Jussiaea abyssinica (A.Rich.) Dandy & Brenan]
-countries: [Senegal, Guinea, Gabon, Democratic Republic of the Congo, Sudan, Ethiopia, Angola, Zambia, Mozambique, South Africa, Madagascar]
-subdivisions:
-  Gabon: [Estuaire, Ngounié, Woleu-Ntem]
-in_region: true
-habit: herb, sometimes woody at base
-habitat: [marshes, stream margins, pond margins, rocky riverbeds, drains, forest regrowth]
-altitude_m: "200–250 in Gabon; to 2300 elsewhere"
 treatments:
   - vol: 52
     year: 2018
     pages: "31"
     source: sources/Onagraceae_vol52_liteparse
+countries: [Angola, Gabon, Guinea, Madagascar, Mozambique, Senegal, Sudan, Zambia]
+in_region: true
+subdivisions:
+  Gabon: [Estuaire, Ngounié, Woleu-Ntem]
+habit: "herb"
 tags: [species]
 ---
 

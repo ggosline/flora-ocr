@@ -11,16 +11,15 @@ synonyms:
   - name: C. koutiense
     authority: A. CHEV.
     citation: Etud. Fl. Afr. Centr.: 306 (1913), nom. nud.
-countries: [Gabon, Senegal, Gambia, Guinea, Sierra Leone, Liberia, Ivory Coast, Ghana, Togo, Benin, Nigeria, Cameroon, Central African Republic, Sudan, Angola]
-in_region: true
-habit: bulbous herb
-habitat: [swampy zones, river margins, disturbed or secondary vegetation, cocoa and banana plantations, littoral forest, Biafran forest]
 treatments:
   - vol: 28
     pages: "33–34"
     source: sources/Amaryllidaceae_vol28_paddle
+countries: [Angola, Gabon, Gambia, Sudan]
+in_region: true
+subdivisions:
+  Gabon: [Ogooué-Ivindo]
 tags: [species]
-countries_incomplete: true
 ---
 
 # *Crinum purpurascens* Herbert

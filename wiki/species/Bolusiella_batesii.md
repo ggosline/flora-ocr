@@ -7,6 +7,8 @@ family: Orchidaceae
 vol: 37
 pages: 121-121
 source: sources/Orchidaceae_vol37_paddle
+countries: [Cameroon, Cote d'Ivoire, Equatorial Guinea, Gabon, Ghana]
+in_region: true
 tags: [species, generated]
 ---
 # *Bolusiella batesii* (Rolfe) Schltr.

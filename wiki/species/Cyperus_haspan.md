@@ -7,6 +7,12 @@ family: Cyperaceae
 vol: 44
 pages: 107-108
 source: sources/Cyperaceae_vol44_liteparse
+countries: [Gabon]
+in_region: true
+subdivisions:
+  Gabon: [Estuaire, Moyen-Ogooué, Nyanga, Ogooué-Ivindo, Ogooué-Lolo, Ogooué-Maritime, Woleu-Ntem]
+habit: "herb"
+altitude_m: "0–700"
 tags: [species, generated]
 ---
 # *Cyperus haspan* L. Planche 66

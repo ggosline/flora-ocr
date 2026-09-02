@@ -48,7 +48,7 @@ Chevalier 26758, entre Libreville et Sibang (fl., fëvr.). Klaine 1617, 2666, en
 
 ![Epithema tenue](../sources/Gesneriaceae_vol27_paddle/figures/fig_001_p0012.png)
 
-*PL. 1. – Epithema tenue C.B. Cl. : aspect général × 0,5 (Letouzey 7722, Cameroun). (Repris de la Flore du Cameroun 27 : tab. 1, 1984).*
+*PL. 1. – Epithema tenue C.B. Cl. : general appearance × 0.5 (Letouzey 7722, Cameroon). (Taken from the Flora of Cameroon 27 : tab. 1, 1984).*
 
 ## Notes
 

@@ -7,6 +7,9 @@ family: Moraceae
 vol: 26
 pages: 168-171
 source: sources/Moraceae_vol26_paddle
+countries: [Angola, Cameroon, Central African Republic, Cote d'Ivoire, Democratic Republic of the Congo, Gabon, Nigeria, Sao Tome and Principe, Sierra Leone]
+in_region: true
+habit: "tree"
 tags: [species, generated]
 ---
 # *Ficus kamerunensis* Mildbraed & Burret
@@ -53,7 +56,7 @@ Michaloud 512, Makokou (fig., juin).
 
 ![Ficus kamerunensis](../sources/Moraceae_vol26_paddle/figures/fig_047_p0170.png)
 
-*PL. 46. – Ficus kamerunensis Mildbr. & Burret : rameaux avec figues × 1 (Breteler 1605, Cameroun).*
+*PL. 46. – Ficus kamerunensis Mildbr. & Burret : branches with figs × 1 (Breteler 1605, Cameroon).*
 
 ## Notes
 

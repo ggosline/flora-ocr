@@ -7,6 +7,11 @@ family: Putranjivaceae
 vol: 57
 pages: 128-128
 source: sources/Putranjivaceae_vol57_paddle
+countries: [Cameroon, Central African Republic, Gabon, Republic of the Congo]
+in_region: true
+subdivisions:
+  Gabon: [Ogooué-Lolo]
+habit: "tree"
 tags: [species, generated]
 ---
 # *Drypetes bakembei* D.J.Harris & Wortley

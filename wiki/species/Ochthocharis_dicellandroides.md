@@ -7,6 +7,7 @@ family: Melastomataceae
 vol: 25
 pages: 110-112
 source: sources/Melastomataceae_vol25_paddle
+habit: "shrub"
 tags: [species, generated]
 ---
 # *Ochthocharis dicellandroides* (Gilg) C. Hansen & Wickens
@@ -41,7 +42,7 @@ Farron 7384, Omboué-Setté Cama, marigots (juin), BAS. Hallé N. 3408, 3903, 41
 
 ![Ochthocharis dicellandroides](../sources/Melastomataceae_vol25_paddle/figures/fig_040_p0109.png)
 
-*PL. 40. — Ochthocharis dicellandroides (Gilg) G. Hansen & Wickens : 1, sommité fleurie × 2/3; 2, fleur × 3; 3, pétale × 3; 4, étamines, interne et externe × 4; 5 & 6, fruit, entier et coupé × 4; 7, graine × 20 (Jacques-Félix 4481).*
+*PL. 40. — Ochthocharis dicellandroides (Gilg) G. Hansen & Wickens : 1, flowering apex × 2/3; 2, flower × 3; 3, petal × 3; 4, stamens, internal and external × 4; 5 & 6, fruit, whole and sectioned × 4; 7, seed × 20 (Jacques-Félix 4481).*
 
 ## Notes
 

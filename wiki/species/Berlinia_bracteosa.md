@@ -7,6 +7,8 @@ family: Leguminosae
 vol: 15
 pages: 267-269
 source: sources/Leguminosae_vol15_paddle
+countries: [Gabon, Nigeria]
+in_region: true
 tags: [species, generated]
 ---
 # *Berlinia bracteosa* Bentham
@@ -59,7 +61,7 @@ Le Testu : 1031, Tchibanga (fl. mai); 7138, Lastoursville (fl. avr.).
 
 ![Berlinia bracteosa](../sources/Leguminosae_vol15_paddle/figures/fig_065_p0268.png)
 
-*PL. LXV. — Berlinia bracteosa Bentham : 1, feuille × 2 /3; 2, inflorescence × 1 /3.*
+*PL. LXV. — Berlinia bracteosa Bentham : 1, leaf × 2 /3; 2, inflorescence × 1 /3.*
 
 ## Notes
 

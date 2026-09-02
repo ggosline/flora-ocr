@@ -7,6 +7,13 @@ family: Ochnaceae
 vol: 48
 pages: 34-34
 source: sources/Ochnaceae_vol48_liteparse
+countries: [Equatorial Guinea, Gabon]
+in_region: true
+subdivisions:
+  Gabon: [Woleu-Ntem]
+habit: "shrub"
+habitat: [secondary forest]
+altitude_m: "475–600"
 tags: [species, generated]
 ---
 # *Campylospermum auriculatum* Biss.

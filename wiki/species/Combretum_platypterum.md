@@ -7,6 +7,8 @@ family: Combretaceae
 vol: 35
 pages: 78-80
 source: sources/Combretaceae_vol35_paddle
+countries: [Angola, Guinea, Sudan]
+in_region: true
 tags: [species, generated]
 ---
 # *Combretum platypterum* (Welwitsch) Hutchinson & Dalziel

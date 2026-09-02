@@ -5,20 +5,15 @@ authority: (Jacq.) P.H.Raven
 genus: Ludwigia
 family: Onagraceae
 synonyms: [Jussiaea suffruticosa L.]
-countries: [Nigeria, Gabon]
-subdivisions:
-  Gabon: [Estuaire, Ngounié, Nyanga, Ogooué-Ivindo, Ogooué-Maritime]
 range_note: Pantropical and widespread across tropical Africa to Madagascar.
-countries_incomplete: true
-in_region: true
-habit: annual or perennial herb, sometimes woody at base
-habitat: [wet grassland, river margins, lake margins, marshes, sandy soil]
-altitude_m: "30–100 in Gabon; to 2200 elsewhere"
 treatments:
   - vol: 52
     year: 2018
     pages: "38–39"
     source: sources/Onagraceae_vol52_liteparse
+countries: [Madagascar]
+in_region: false
+habit: "herb"
 tags: [species]
 ---
 

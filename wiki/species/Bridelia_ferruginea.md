@@ -7,6 +7,13 @@ family: Phyllanthaceae
 vol: 43
 pages: 20-20
 source: sources/Phyllanthaceae_vol43_liteparse
+countries: [Angola, Cameroon, Central African Republic, Democratic Republic of the Congo, Gabon, Guinea, Mali, Republic of the Congo]
+in_region: true
+subdivisions:
+  Gabon: [Estuaire, Ngounié, Ogooué-Ivindo, Ogooué-Lolo, Ogooué-Maritime]
+habit: "tree"
+habitat: [savanna]
+altitude_m: "0–800"
 tags: [species, generated]
 ---
 # *Bridelia ferruginea* Benth . Planche 3(C,D)

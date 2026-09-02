@@ -7,6 +7,9 @@ family: Leguminosae
 vol: 15
 pages: 46-50
 source: sources/Leguminosae_vol15_paddle
+countries: [Gabon, Sierra Leone]
+in_region: true
+habit: "tree"
 tags: [species, generated]
 ---
 # *Distemonanthus benthamianus* Baillon (P.L. 6, p. 45)
@@ -61,7 +64,7 @@ Le Testu : 1161, Dabilila (fl. sept.); 6097 Poungwé (fl. sept.); 7379, Lastours
 
 ![Distemonanthus benthamianus](../sources/Leguminosae_vol15_paddle/figures/fig_006_p0047.png)
 
-*PL. VI. — Distemonanthus Benthamianus Baill. : 1, feuille et inflorescence × 2 /3; 2, fleur × 2; 3, pétales × 2; 4 et 4', anthères; 5, ovaire; 6, fruit × 2 /3.*
+*PL. VI. — Distemonanthus Benthamianus Baill. : 1, leaf and inflorescence × 2/3; 2, flower × 2; 3, petals × 2; 4 and 4', anthers; 5, ovary; 6, fruit × 2/3.*
 
 ## Notes
 

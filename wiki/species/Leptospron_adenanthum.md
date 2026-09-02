@@ -7,6 +7,10 @@ family: Leguminosae
 vol: 49
 pages: 237-239
 source: sources/Millettiaspeciesfabaceae_vol49_liteparse
+countries: [Gabon]
+in_region: true
+habit: "herb"
+altitude_m: "4"
 tags: [species, generated]
 ---
 # *Leptospron adenanthum* (G.F.Mey.) A.Delgado Planche 78

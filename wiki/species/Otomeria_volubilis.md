@@ -7,6 +7,9 @@ family: Rubiaceae
 vol: 12
 pages: 120-123
 source: sources/Rubiaceae_vol12_paddle
+countries: [Cameroon, Central African Republic, Gabon, Nigeria, Uganda]
+in_region: true
+habit: "liana"
 tags: [species, generated]
 ---
 # *Otomeria volubilis* (K. Schum.) Verdc.

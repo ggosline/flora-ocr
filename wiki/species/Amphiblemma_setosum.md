@@ -7,6 +7,7 @@ family: Melastomataceae
 vol: 25
 pages: 86-87
 source: sources/Melastomataceae_vol25_paddle
+habit: "shrub"
 tags: [species, generated]
 ---
 # *Amphiblemma setosum* Hooker f.

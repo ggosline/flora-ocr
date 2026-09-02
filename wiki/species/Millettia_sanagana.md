@@ -7,6 +7,13 @@ family: Leguminosae
 vol: 49
 pages: 292-292
 source: sources/Millettiaspeciesfabaceae_vol49_liteparse
+countries: [Cameroon, Central African Republic, Gabon, Guinea, Liberia, Sierra Leone]
+in_region: true
+subdivisions:
+  Gabon: [Ogooué-Ivindo, Ogooué-Lolo, Woleu-Ntem]
+habit: "tree"
+habitat: [savanna, coastal]
+altitude_m: "0–750"
 tags: [species, generated]
 ---
 # *Millettia sanagana* Harms

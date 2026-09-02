@@ -7,6 +7,12 @@ family: Cyperaceae
 vol: 44
 pages: 150-150
 source: sources/Cyperaceae_vol44_liteparse
+countries: [Cameroon, Cote d'Ivoire, Democratic Republic of the Congo, Gabon, Ghana, Nigeria, Sierra Leone, Togo, Uganda]
+in_region: true
+subdivisions:
+  Gabon: [Ogooué-Ivindo]
+habit: "herb"
+altitude_m: "150"
 tags: [species, generated]
 ---
 # *Fimbristylis scabrida* Schumach. & Thonning Planche 98

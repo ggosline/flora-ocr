@@ -7,6 +7,13 @@ family: Commelinaceae
 vol: 55
 pages: 76-76
 source: sources/Commelinaceae_vol55_liteparse
+countries: [Angola, Burundi, Cameroon, Central African Republic, Democratic Republic of the Congo, Equatorial Guinea, Gabon, Republic of the Congo, Sudan, Tanzania, Uganda]
+in_region: true
+subdivisions:
+  Gabon: [Estuaire, Haut-Ogooué, Ngounié, Ogooué-Ivindo, Ogooué-Lolo, Ogooué-Maritime]
+habit: "herb"
+habitat: [secondary forest]
+altitude_m: "950"
 tags: [species, generated]
 ---
 # *Palisota schweinfurthii* C.B.Clarke Planche 23, Figure 5(F, H)

@@ -7,6 +7,9 @@ family: Icacinaceae
 vol: 20
 pages: 49-50
 source: sources/Icacinaceae_vol20_paddle
+countries: [Cameroon, Gabon]
+in_region: true
+habit: "liana"
 tags: [species, generated]
 ---
 # *Desmostachys brevipes* (Engler) Sleumer
@@ -47,7 +50,7 @@ Hallé N. & Villiers J.-F. 5279, 0°33' N, 10°8' E, S riv. Sanga (fl., févr.).
 
 ![Desmostachys brevipes](../sources/Icacinaceae_vol20_paddle/figures/fig_011_p0051.png)
 
-*PL. 11. — Desmostachys brevipes (Engl.) Engl. : 1, feuilles et inflorescences × 2/3; 2, coupe du rachis; 3, 3', pétale × 5,5. — D. oblongifolia (Engl.) Villiers : 4, feuilles et inflorescences × 1/2; 5, détail du limbe; 6, base du limbe × 2; 7, bouton floral × 3,5; 8, fleur × 5; 9, coupe de la fleur × 5; 10, calice × 9; 11, pétale × 7; 12, étamine × 6; 13, ovaire × 6. (1-3, Zenker 3086; 4-13, Zenker 1221).*
+*PL. 11. — Desmostachys brevipes (Engl.) Engl. : 1, leaves and inflorescences × 2/3; 2, cross-section of rachis; 3, 3', petal × 5.5. — D. oblongifolia (Engl.) Villiers : 4, leaves and inflorescences × 1/2; 5, detail of limb; 6, base of limb × 2; 7, floral bud × 3.5; 8, flower × 5; 9, flower cross-section × 5; 10, calyx × 9; 11, petal × 7; 12, stamen × 6; 13, ovary × 6. (1-3, Zenker 3086; 4-13, Zenker 1221).*
 
 ## Notes
 

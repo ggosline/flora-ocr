@@ -7,6 +7,12 @@ family: Cucurbitaceae
 vol: 57
 pages: 105-107
 source: sources/Cucurbitaceae_vol57_paddle
+countries: [Gabon, Sierra Leone, Uganda]
+in_region: true
+subdivisions:
+  Gabon: [Estuaire, Ngounié, Woleu-Ntem]
+habit: "liana"
+altitude_m: "30–500"
 tags: [species, generated]
 ---
 # *Telfairia occidentalis* Hook.f.
@@ -16,29 +22,21 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 in Oliv., Fl. trop. Afr. 2: 524 (1871).
 
-Planche 35(1-5); Figure 6(C, D)
+Plate 35(1-5); Figure 6(C, D)
 
-Herbe grimpante ou liane; tige glabre ou pubescente. Vrilles robustes, à branches inégales. Feuille 3- ou 5-foliolées; pétiole robuste, long de 2–8 cm; folioles oblongues à elliptiques, atténuées et nervées à la base, acuminées au sommet, ±glabres avec des petits poils sur les nervures, la médiane de 8–15 × 3–7 cm, les latérales plus petites. Inflorescence: probractée longue de 4–8 mm; la mâle à pédoncule de 10–15 cm; bractées longues de 2,5–8 mm, sub-cucullées. Fleur mâle: pédicelle 1–3 cm; réceptacle cupuliforme, ±hémisphérique, de 4–5 × 6–8 mm, à 10 nervures; sépales elliptiques-ovales, de 4–5 × 1,5 mm, crénelés ou serrés; pétales elliptiques-ovales, de 15–20 × 8 mm, renflés, les nervures terminant en une pointe papilleuse longue de 2–4 mm, toute la face interne couverte de poils glanduleux; étanmines 3 à 5, cohérentes par les anthères, filet 3 mm, anthère à loges ±droites, à connectif large et épais, hérissé de poils glanduleux. Fleur femelle: pédicelle 3–5 cm; ovaire allongé, à 10 côtes; style en une colonne courte, à stigmates cordiformes. Fruit ovoïde à ellipsoïdal, de 40–60 × 16–25 cm (jusqu'à 90 × 50 en culture), jaune verdâtre, glabre, à 10 côtes bien saillantes formant presque des ailes larges de 2–3 cm. Graine subréniforme, épaisse, de 3,3-3,7 × 1–1,2 cm.
+Climbing herb or liana; stem glabrous or pubescent. Tendrils robust, with unequal branches. Leaf 3- or 5-foliolate; petiole robust, 2–8 cm long; leaflets oblong to elliptic, attenuate and nerved at the base, acuminate at the apex, ±glabrous with small hairs on the nerves, the median one 8–15 × 3–7 cm, the lateral ones smaller. Inflorescence: probract 4–8 mm long; the male one with a peduncle 10–15 cm; bracts 2.5–8 mm long, sub-cucullate. Male flower: pedicel 1–3 cm; receptacle cupuliform, ±hemispherical, 4–5 × 6–8 mm, with 10 nerves; sepals elliptic-ovate, 4–5 × 1.5 mm, crenate or serrate; petals elliptic-ovate, 15–20 × 8 mm, inflated, the nerves terminating in a papillose point 2–4 mm long, the entire inner face covered with glandular hairs; stamens 3 to 5, coherent by the anthers, filament 3 mm, anther with ±straight locules, with broad and thick connective, hirsute with glandular hairs. Female flower: pedicel 3–5 cm; ovary elongate, with 10 ribs; style in a short column, with cordate stigmas. Fruit ovoid to ellipsoidal, 40–60 × 16–25 cm (up to 90 × 50 in cultivation), yellowish-green, glabrous, with 10 well-prominent ribs forming almost wings 2–3 cm wide. Seed subreniform, thick, 3.3–3.7 × 1–1.2 cm.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-de la Sierra Leone à l'Ouganda ; au Gabon : Estuaire, Ngounié et Woleu-Ntem
+from Sierra Leone to Uganda; in Gabon: Estuaire, Ngounié and Woleu-Ntem
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+humid forests, forest edges; in Gabon at 30–500 m altitude, elsewhere up to 1500 m
 
-forêts humide, lisières; au Gabon à 30–500 m d'altitude, ailleurs jusqu'à 1500 m
-
-Usage : Les graines d'une agréable saveur d'amande sont mangées cuites ou moulues en farine pour les soupes. Les graines immatures sont cuites, grillées ou fermentées pendant plusieurs jours et consommées sous forme de bouillie. La farine crue présente de meilleures propriétés d'absorption d'eau et de graisse que l'huile, d'où son usage dans les produits de boulangerie. Les graines ont une teneur en huile très élevée et sont utilisées pour faire une huile de cuisson. Les feuilles et jeunes pousses sont cuites dans la potasse. Les jeunes pousses, mesurant jusqu'à 50 cm de longueur, sont utilisées dans les ragoûts et comme accompagnement. La pulpe de fruit, y compris les jeunes graines, est parfois transformée en
-
-marmelade. Les femmes enceintes et les patients souffrant d'anémie, utilisent le jus des feuilles comme tonique pour renforcer le sang.
+Uses: The seeds with an agreeable almond flavour are eaten cooked or ground into flour for soups. Immature seeds are cooked, roasted or fermented for several days and consumed as porridge. Raw flour has better water and fat absorption properties than oil, hence its use in bakery products. The seeds have a very high oil content and are used to make cooking oil. The leaves and young shoots are cooked in potash. The young shoots, measuring up to 50 cm in length, are used in stews and as a side dish. The fruit pulp, including young seeds, is sometimes made into marmalade. Pregnant women and patients suffering from anaemia use the juice of the leaves as a tonic to strengthen the blood.
 
 ## Vernacular names
 
@@ -46,9 +44,7 @@ citrouille à huile, courge cannelée (fr.); fluted gourd, fluted pumpkin, oyste
 
 ## Source note
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Raponda-Walker & Sillans (1961) mentionnent la présence de T. pedata (Sm.) Hook. au Gabon, connu surtout de l'Afrique de l'Est, mais selon la description et l'illustration il s'agit de T. occidentalis
+Raponda-Walker & Sillans (1961) mention the presence of T. pedata (Sm.) Hook. in Gabon, known mainly from East Africa, but according to the description and illustration it is T. occidentalis
 
 ## Bibliography
 

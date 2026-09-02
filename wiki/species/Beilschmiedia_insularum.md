@@ -7,6 +7,9 @@ family: Lauraceae
 vol: 10
 pages: 41-43
 source: sources/Lauraceae_vol10_paddle
+countries: [Nigeria]
+in_region: true
+habit: "shrub"
 tags: [species, generated]
 ---
 # *Beilschmiedia insularum* Rob. et Wilcz..
@@ -40,7 +43,7 @@ N. Hallé : 656, Nkoulounga (fl. juin).
 
 ![Beilschmiedia insularum](../sources/Lauraceae_vol10_paddle/figures/fig_008_p0042.png)
 
-*PL. VII. — 1 à 4, Beilschmiedia insularum Rob. et Wilcz.: 1, rameau florifère, feuille de 19 cm; 1', bractée de 3 mm. (Jean Louis 8559, type); 2, fleur de 2 mm de diam.; 2', coupe; 3, pistil. (N. Hallé 656); 4, fruit (contour d'après description). — 5 à 8, B. versicolor Kosterm.: 5, rameau florifère, feuille de 12 cm; 5', bractée de 6 mm; 6, bouton floral; 6', fleur en coupe, diam. 2 mm; 7, pistil (Le Testu 8796); 8, fruit de 3,5 cm (contour d'après description).*
+*PL. VII. — 1 to 4, Beilschmiedia insularum Rob. et Wilcz.: 1, flowering branch, leaf of 19 cm; 1', bract of 3 mm. (Jean Louis 8559, type); 2, flower of 2 mm diam.; 2', section; 3, pistil. (N. Hallé 656); 4, fruit (outline according to description). — 5 to 8, B. versicolor Kosterm.: 5, flowering branch, leaf of 12 cm; 5', bract of 6 mm; 6, flower bud; 6', flower in section, diam. 2 mm; 7, pistil (Le Testu 8796); 8, fruit of 3.5 cm (outline according to description).*
 
 ## Notes
 

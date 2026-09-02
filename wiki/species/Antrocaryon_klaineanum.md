@@ -7,6 +7,13 @@ family: Anacardiaceae
 vol: 50
 pages: 11-11
 source: sources/Anacardiaceae_vol50_liteparse
+countries: [Angola, Cameroon, Democratic Republic of the Congo, Equatorial Guinea, Gabon, Nigeria, Republic of the Congo]
+in_region: true
+subdivisions:
+  Gabon: [Moyen-Ogooué]
+habit: "tree"
+habitat: [secondary forest]
+altitude_m: "400"
 tags: [species, generated]
 ---
 # *Antrocaryon klaineanum* Pierre Planche 1

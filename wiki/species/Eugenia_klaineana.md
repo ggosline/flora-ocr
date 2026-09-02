@@ -7,6 +7,9 @@ family: Myrtaceae
 vol: 11
 pages: 23-24
 source: sources/Myrtaceae_vol11_paddle
+countries: [Angola, Gabon]
+in_region: true
+habit: "tree"
 tags: [species, generated]
 ---
 # *Eugenia klaineana* (Pierre) Engl.

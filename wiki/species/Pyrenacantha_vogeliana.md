@@ -7,6 +7,9 @@ family: Icacinaceae
 vol: 20
 pages: 78-80
 source: sources/Icacinaceae_vol20_paddle
+countries: [Liberia, Tanzania]
+in_region: false
+habit: "liana"
 tags: [species, generated]
 ---
 # *Pyrenacantha vogeliana* Baillon
@@ -49,7 +52,7 @@ Klaine 858, 1803, Libreville (fr., févr.-mars).
 
 ![Pyrenacantha vogeliana](../sources/Icacinaceae_vol20_paddle/figures/fig_018_p0079.png)
 
-*PL. 18. — Pyrenacantha vogeliana Baill. : 1, feuilles et inflorescence ♂ × 0,4; 2, base du limbe; 3, sommet du limbe; 4, hydathode; 5, poil; 6, fleur ♂ × 12; 7, coupe de la fleur ♂ × 12; 8, 8', pétale × 12; 9, étamine × 33; 10, fruit × 1; 11, face int. de l'endocarpe. — P. acuminata Engl. : 12, feuilles et inflorescences ♂ × 1/2; 13, hydathode; 14, fleur ♂ × 14; 15, coupe de la fleur ♂ × 14; 16, 16', pétale × 20; 17, 17', étamine × 22; 18, fleur ♀ × 9; 19, coupe de la fleur ♂ × 9; 20, 20, 21, coupe de l'ovaire × 18; 22, fruit × 1; 23, face int. de l'endocarpe. (1-5, Chevalier 15373; 6-9, Le Testu 4010; 10-11, Bernardi 8128; 12-17', Klaine 2149; 18-21, Tisserant 1223; 22-23, Klaine 1874).*
+*PL. 18. — Pyrenacantha vogeliana Baill. : 1, leaves and male inflorescence × 0,4; 2, base of limb; 3, apex of limb; 4, hydathode; 5, hair; 6, male flower × 12; 7, section of male flower × 12; 8, 8', petal × 12; 9, stamen × 33; 10, fruit × 1; 11, internal surface of the endocarp. — P. acuminata Engl. : 12, leaves and male inflorescences × 1/2; 13, hydathode; 14, male flower × 14; 15, section of male flower × 14; 16, 16', petal × 20; 17, 17', stamen × 22; 18, female flower × 9; 19, section of male flower × 9; 20, 20, 21, section of ovary × 18; 22, fruit × 1; 23, internal surface of the endocarp. (1-5, Chevalier 15373; 6-9, Le Testu 4010; 10-11, Bernardi 8128; 12-17', Klaine 2149; 18-21, Tisserant 1223; 22-23, Klaine 1874).*
 
 ## Notes
 

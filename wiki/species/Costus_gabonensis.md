@@ -5,10 +5,12 @@ authority: J. Koechlin
 genus: Costus
 family: Zingiberaceae
 family_current: Costaceae
+treatments: [{vol: 9, pages: "84–85", source: sources/Zingiberaceae_vol9_paddle}]
 countries: [Gabon]
 in_region: true
-habit: rhizomatous herb to 2 m
-treatments: [{vol: 9, pages: "84–85", source: sources/Zingiberaceae_vol9_paddle}]
+subdivisions:
+  Gabon: [Nyanga]
+habit: "herb"
 tags: [species, endemic]
 ---
 # *Costus gabonensis* J. Koechlin

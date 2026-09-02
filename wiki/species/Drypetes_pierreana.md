@@ -7,6 +7,11 @@ family: Putranjivaceae
 vol: 57
 pages: 154-157
 source: sources/Putranjivaceae_vol57_paddle
+countries: [Cameroon, Gabon, Nigeria]
+in_region: true
+subdivisions:
+  Gabon: [Estuaire, Moyen-Ogooué, Ngounié, Nyanga, Ogooué-Ivindo, Ogooué-Lolo, Ogooué-Maritime, Woleu-Ntem]
+habit: "tree"
 tags: [species, generated]
 ---
 # *Drypetes pierreana* Hutch., Fl. trop. Afr. 6(1): 686 (1912).

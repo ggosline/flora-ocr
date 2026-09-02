@@ -7,6 +7,7 @@ family: Apocynaceae
 vol: 59
 pages: 196-198
 source: sources/Apocynaceae_vol59_liteparse
+habit: "liana"
 tags: [species, generated]
 ---
 # *Pleiocarpa pycnantha* (K.Schum.) Stapf Planche 91 ; Figure 9(E, F)

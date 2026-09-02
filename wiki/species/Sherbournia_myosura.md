@@ -7,6 +7,8 @@ family: Rubiaceae
 vol: 17
 pages: 134-140
 source: sources/Rubiaceae_vol17_paddle
+countries: [Gabon]
+in_region: true
 tags: [species, generated]
 ---
 # *Sherbournia myosura* N. Hallé, sp. nov.
@@ -16,17 +18,13 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 (PL. 29, p. 133)
 
-Scandens internodiis valde hirsutis. Stipulæ maximæ 26-45 × 15-25 mm, obtusæ, rubescentes, pilosæque. Folia hirsuta petiolata basi cordata late elliptica venis secundarius 8-11-jugis. Inflorescentiae hirsutæ 10-16-floræ in glomerulo subsessili bracteolata instructæ. Calyx hirsutus purpureus cupuliformis paulum laxatus. Corolla oblonga verisimiliter lutea. Antheræ duobus lineis pilosis ornate. Ovarium haud sulcatum. Valde affinis Sh. kiliotrichae N. Hallé sed habitu majore, lamina superne ± pilosa, stipulus inter congeneros maximis, inflorescentiis copiosioribus differt.
+Climbing with internodes strongly hirsute. Stipules very large 26-45 × 15-25 mm, obtuse, reddish, and pilose. Leaves hirsute petiolate cordate at base broadly elliptic with 8-11 pairs of secondary veins. Inflorescences hirsute 10-16-flowered in a subsessile glomerule furnished with bracteoles. Calyx hirsute purple cupuliform slightly lax. Corolla oblong presumably yellow. Anthers ornamented with two pilose lines. Ovary not sulcate. Highly similar to Sh. kiliotrichae N. Hallé but differing in larger habit, lamina somewhat pilose above, stipules among congeners the largest, and more abundant inflorescences.
 
-Liane à tiges hirsutes, à entrenœuds de 15-22 cm de longueur pour 3-5 mm de diam. Stipules très développées de 26-45 × 15-25 mm, elliptiques obtuses ou largement arrondies, rougeâtres à sec, médiocrement pileuses. Pétiole fortement hirsute de 6-13 mm. Limbe un peu gaufré, brun dessus, roux-rougeâtre dessous, largement elliptique de 12-19 × 8-12 cm, à
+Liane with hirsute stems, with internodes 15-22 cm long for 3-5 mm diam. Stipules very well developed 26-45 × 15-25 mm, elliptic obtuse or broadly rounded, reddish when dry, moderately pilose. Petiole strongly hirsute 6-13 mm. Lamina somewhat goffered, brown above, reddish-rust below, broadly elliptic 12-19 × 8-12 cm, with cordate or rounded base, with short and subobtuse apex. Upper face either glabrous, including the median furrow, or furnished with scattered long hairs; lower face loosely hairy with the principal veins hirsute. 8-11 pairs of secondary veins; tertiary network only apparent on the lower face.
 
-base arrondie ou cordée, à sommet court et subobtus. Face supérieure soit glabre, y compris le sillon médian, soit garnie de longs poils épars; face inférieure velue de façon lâche avec les nervures principales hirsutes. 8-11 paires de nervures secondaires; réseau tertiaire seul apparent à la face inférieure.
-
-Inflorescences hirsutes de 10-16 fleurs serrées en glomérule subsessile à pédoncule de 0-2 mm, à petites bractées aiguës de 2-4 mm. Pédicelles de 1-5 mm portant à leur sommet une paire de préfeuilles connées en cupule. Calice hirsute à poils roux doré; partie infère de 3 × 2 mm; cupule haute de 6-7 mm, cylindrique ou faiblement évasée, large de 7-8 mm; 5 (6) lobes triangulaires aiguës ou subobtus longs d'env. 2-3 mm, larges à la base de 2-3 mm; le limbe calycinal est rouge incarnat foncé à sec comme chez l'espèce précédente. Corolle brièvement aiguë dans le bouton. Corolle probablement jaune (« fleurs variées du jaune au rouge ») d'après Le Testu), à tube de 15-20 × 8 mm, à 5 lobes suborbiculaires apiculés de 4-6 mm, à forte pubescence dorée à sec. Anthères de 8 × 2 mm, à 2 lignes latérales pubescentes. Style à colonne glabre de 11 mm, à stigmate fusiforme sillonné de 7 × 2 mm; disque charnu cupuliforme de 3 mm de diam. Ovaire à 2 loges multiovulées. Fruit inconnu.
+Inflorescences hirsute with 10-16 flowers crowded in a subsessile glomerule with a peduncle of 0-2 mm, with small acute bracts 2-4 mm. Pedicels 1-5 mm bearing at their apex a pair of connate prefolioles in a cupule. Calyx hirsute with golden-rust hairs; lower portion 3 × 2 mm; cupule 6-7 mm high, cylindric or slightly flared, 7-8 mm wide; 5 (6) triangular acute or subobtuse lobes approximately 2-3 mm long, 2-3 mm wide at the base; the calycine limb is dark incarnate-red when dry as in the preceding species. Corolla briefly acute in bud. Corolla presumably yellow ("flowers varied from yellow to red" after Le Testu), with tube 15-20 × 8 mm, with 5 suborbicular apiculate lobes 4-6 mm, with strong golden pubescence when dry. Anthers 8 × 2 mm, with 2 lateral pubescent lines. Style with glabrous column 11 mm, with fusiform furrowed stigma 7 × 2 mm; fleshy cupuliform disc 3 mm diam. Ovary with 2 multilocular locules. Fruit unknown.
 
 ## Type
 
@@ -34,9 +32,7 @@ G. Le Testu 7914 (P), du Gabon, 16 fév. 1930
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Espèce connue seulement du Gabon. « Liane Queue-de-rat ».
+Species known only from Gabon. "Rat-tail Liane".
 
 ## Specimens examined
 
@@ -90,7 +86,7 @@ N. Hallé : 1416, Makokou (fr. juv. mars); 3309, 3625, Bélinga (fr. mùr nov., 
 
 ![Sherbournia myosura](../sources/Rubiaceae_vol17_paddle/figures/fig_030_p0139.png)
 
-*PL. 30. — Sherbournia hapalophylla (Wernh.) Hepper var. Henrihuana N. Hallé (fl. N. H. 3625; fr. N. H. 3309); 1, rameau florifère × 1; 2, stipule × 1,5 (N. H. 1416); 3, coupe de la corolée dans le jeune bouton; 4, coupe de bouton montrant la corolée, l'androcée et le stigmate; 5, coupe de la fleur × 1,5; 6, étamine immature in vivo × 4,5; 7, stigmate dans le bouton × 4; 8, disque de fleur nouée × 2,5 (N. H. 1416); 9, coupe du calice au-dessous des loges de l'ovaire; 10, coupe de l'ovaire au tiers supérieur des loges; 11, id. au tiers inférieur; 12, fruit mür in vivo × 1; 13, id. en coupe; 14, graine × 11. — Var. hapalophylla (Le Testu 7858); 15, bouton × 1; 16, coupe transversale de l'anthère. — Sh. amaraliocarpa (Wernh.) Hepper (Klaine 1734); 17, fruit × 1; 18, embryon d'après un croquis de Pierre × 15.*
+*PL. 30. — Sherbournia hapalophylla (Wernh.) Hepper var. Henrihuana N. Hallé (fl. N. H. 3625; fr. N. H. 3309); 1, flowering branch × 1; 2, stipule × 1.5 (N. H. 1416); 3, section of corolla in young bud; 4, section of bud showing corolla, androecium and stigma; 5, section of flower × 1.5; 6, immature stamen in vivo × 4.5; 7, stigma in bud × 4; 8, disk of nodding flower × 2.5 (N. H. 1416); 9, section of calyx below the locules of ovary; 10, section of ovary at upper third of locules; 11, id. at lower third; 12, ripe fruit in vivo × 1; 13, id. in section; 14, seed × 11. — Var. hapalophylla (Le Testu 7858); 15, bud × 1; 16, transverse section of anther. — Sh. amaraliocarpa (Wernh.) Hepper (Klaine 1734); 17, fruit × 1; 18, embryo after drawing by Pierre × 15.*
 
 ## Notes
 

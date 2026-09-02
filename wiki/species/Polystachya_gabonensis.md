@@ -7,6 +7,8 @@ family: Orchidaceae
 vol: 37
 pages: 49-51
 source: sources/Orchidaceae_vol37_paddle
+countries: [Gabon]
+in_region: true
 tags: [species, generated]
 ---
 # *Polystachya gabonensis* Summerh.
@@ -39,7 +41,7 @@ Le Testu 8971, on rock at Salem to Elelem (fl. Jan.), P!; 9084, Akoum Mdomgou, n
 
 ![Polystachya gabonensis](../sources/Orchidaceae_vol37_paddle/figures/fig_015_p0050.png)
 
-*PL. 122. – Polystachya dolichophylla Schltr. : A, fleur ; B, labelle ; C, sépale dorsal ; D, pétale ; E, sépale latéral. – Polystachya gabonensis Summerh. : F, fleur et bractée florale ; G, labelle ; H, sépale dorsal ; I, pétale ; J, sépale latéral ; K, feuille (A-E, Simon 14, HBG ; F-K, Le Testu 8971, P).*
+*PL. 122. – Polystachya dolichophylla Schltr.: A, flower; B, labellum; C, dorsal sepal; D, petal; E, lateral sepal. – Polystachya gabonensis Summerh.: F, flower and floral bract; G, labellum; H, dorsal sepal; I, petal; J, lateral sepal; K, leaf (A-E, Simon 14, HBG; F-K, Le Testu 8971, P).*
 
 ## Notes
 

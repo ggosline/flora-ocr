@@ -7,6 +7,9 @@ family: Orchidaceae
 vol: 36
 pages: 163-163
 source: sources/Orchidaceae_vol36_paddle
+countries: [Cameroon, Cote d'Ivoire, Gabon]
+in_region: true
+altitude_m: "25–30"
 tags: [species, generated]
 ---
 # *Bulbophyllum purpureorhachis* (De Wild.) Schltr.

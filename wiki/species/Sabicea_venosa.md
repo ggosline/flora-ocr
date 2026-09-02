@@ -7,6 +7,7 @@ family: Rubiaceae
 vol: 12
 pages: 198-200
 source: sources/Rubiaceae_vol12_paddle
+habit: "liana"
 tags: [species, generated]
 ---
 # *Sabicea venosa* Bentham
@@ -35,7 +36,7 @@ Dinklage : 440 (HBG), Lambaréné. N. Hallé et G. Cours : 6059, Moumba (fl. mai
 
 ![Sabicea venosa](../sources/Rubiaceae_vol12_paddle/figures/fig_002_p0020.png)
 
-*Fig. 1. — Ornementation microscopique du légument de la graine : I, Stipularia africana (cf. F. Hallé 68); 2, Sabicea venosa (cf. F. H. 154); Pseudosabicea Mildbraedii var. Jacfelicis (N. Hallé 1143).*
+*Fig. 1. — Microscopic ornamentation of the seed coat : I, Stipularia africana (cf. F. Hallé 68); 2, Sabicea venosa (cf. F. H. 154); Pseudosabicea Mildbraedii var. Jacfelicis (N. Hallé 1143).*
 
 ## Notes
 

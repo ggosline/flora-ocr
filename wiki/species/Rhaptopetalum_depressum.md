@@ -7,6 +7,10 @@ family: Scytopetalaceae
 vol: 24
 pages: 176-178
 source: sources/Scytopetalaceae_vol24_paddle
+countries: [Cameroon]
+in_region: true
+habit: "shrub"
+altitude_m: "1200"
 tags: [species, generated]
 ---
 # *Rhaptopetalum depressum* R. Letouzey
@@ -45,7 +49,7 @@ Letouzey 12743, près Mebande, 20 km SE Lolodorf, alt. 950 m (fl., janv.) (BR, P
 
 ![Rhaptopetalum depressum](../sources/Scytopetalaceae_vol24_paddle/figures/fig_049_p0177.png)
 
-*PL. 49. — Rhaptopetalum depressum R. Let. : 1, rameau feuillé × 2/3; 2, inflorescences × 2/3; 3, bouton floral × 10/3; 4, coupe long. fl. × 20/3; 5, très jeune fruit × 10/3. (Letouzey 12743). (Repris d'Adansonia 17 (2) : tab. 4, 1977).*
+*PL. 49. — Rhaptopetalum depressum R. Let. : 1, leafy branch × 2/3; 2, inflorescences × 2/3; 3, floral bud × 10/3; 4, long. section fl. × 20/3; 5, very young fruit × 10/3. (Letouzey 12743). (Taken from Adansonia 17 (2) : tab. 4, 1977).*
 
 ## Notes
 

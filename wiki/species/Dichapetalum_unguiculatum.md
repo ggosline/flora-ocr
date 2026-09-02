@@ -7,6 +7,8 @@ family: Dichapetalaceae
 vol: 32
 pages: 188-191
 source: sources/Dichapetalaceae_vol32_paddle
+countries: [Angola, Cameroon, Democratic Republic of the Congo, Gabon, Nigeria]
+in_region: true
 tags: [species, generated]
 ---
 # *Dichapetalum unguiculatum* Engler
@@ -79,7 +81,7 @@ Thomas & Wilks 6545, between Mouila and Yéno (j. fr., July).
 
 ![Dichapetalum unguiculatum](../sources/Dichapetalaceae_vol32_paddle/figures/fig_057_p0190.png)
 
-*PL. 56 – Dichapetalum unguiculatum Engler : 1, rameau florifère × 0,8 ; 2, inflorescence, détail × 5 ; 3, fleur, détail × 5 ; 4, pétale, vue interne × 10 ; 5, pistil et staminodes, × 10 ; 6, fruit 3-sperme × 0,8 ; 7, fruit 1-sperme × 0,8 (1, J.J. de Wilde 8201 ; Breteler 6758 ; 6, 7, J.J. de Wilde 8383). – Repris de MLW 82 (8) : 72 (1982).*
+*PL. 56 – Dichapetalum unguiculatum Engler : 1, flowering branch × 0,8 ; 2, inflorescence, detail × 5 ; 3, flower, detail × 5 ; 4, petal, internal view × 10 ; 5, pistil and staminodes, × 10 ; 6, 3-seeded fruit × 0,8 ; 7, 1-seeded fruit × 0,8 (1, J.J. de Wilde 8201 ; Breteler 6758 ; 6, 7, J.J. de Wilde 8383). – Taken from MLW 82 (8) : 72 (1982).*
 
 ## Notes
 

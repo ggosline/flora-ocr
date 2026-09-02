@@ -7,6 +7,10 @@ family: Leguminosae
 vol: 49
 pages: 27-28
 source: sources/Millettiaspeciesfabaceae_vol49_liteparse
+countries: [Cameroon, Central African Republic, Democratic Republic of the Congo, Gabon]
+in_region: true
+habit: "shrub"
+altitude_m: "0–1600"
 tags: [species, generated]
 ---
 # *Aeschynomene elaphroxylon* (Guill. & Perr.) Taub.

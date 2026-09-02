@@ -7,6 +7,13 @@ family: Cyperaceae
 vol: 44
 pages: 132-133
 source: sources/Cyperaceae_vol44_liteparse
+countries: [Gabon]
+in_region: true
+subdivisions:
+  Gabon: [Estuaire, Ogooué-Maritime]
+habit: "herb"
+habitat: [mangrove]
+altitude_m: "1130"
 tags: [species, generated]
 ---
 # *Eleocharis geniculata* (L.) Roem. & Schult. Planche 83

@@ -7,6 +7,8 @@ family: Aspleniaceae
 vol: 08
 pages: 129-131
 source: sources/Aspleniaceae_vol08_paddle
+countries: [Cameroon, Equatorial Guinea, Gabon, Ghana, Guinea, Liberia, Madagascar, Uganda]
+in_region: true
 tags: [species, generated]
 ---
 # *Asplenium variabile* Hooker

@@ -7,6 +7,13 @@ family: Commelinaceae
 vol: 55
 pages: 26-26
 source: sources/Commelinaceae_vol55_liteparse
+countries: [Benin, Cameroon, Democratic Republic of the Congo, Gabon, Ghana, Liberia, Nigeria, Republic of the Congo, Sierra Leone, Togo]
+in_region: true
+subdivisions:
+  Gabon: [Ogooué-Ivindo, Ogooué-Maritime, Woleu-Ntem]
+habit: "herb"
+habitat: [secondary forest, rocky ground]
+altitude_m: "680"
 tags: [species, generated]
 ---
 # *Commelina acutispatha* De Wild.

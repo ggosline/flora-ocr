@@ -7,6 +7,11 @@ family: Brassicaceae
 vol: 30
 pages: 53-56
 source: sources/Capparidaceae_vol30_paddle
+countries: [Cameroon, Gabon, Nigeria]
+in_region: true
+habit: "tree"
+habitat: [rocky ground]
+altitude_m: "620"
 tags: [species, generated]
 ---
 # *Ritchiea macrantha* Pax & Gilg
@@ -45,7 +50,7 @@ De Wilde, Arends & al. 36, Monts de Cristal, km 7 de la piste de Tchimbélé à 
 
 ![Ritchiea macrantha](../sources/Capparidaceae_vol30_paddle/figures/fig_007_p0054.png)
 
-*PL. 6. – Ritchiea macrantha Gilg & Bened.: 1, pétales × 1; 2, anthères × 1; 3, diagramme floral; 4, ovaire et portion de gynophore × 4; 5, ovaire en coupe transversale × 4; 6, rameau avec inflorescence × 1/3; 7, bases des folioles et pétioules × 1 (Letouzey 12287).*
+*PL. 6. – Ritchiea macrantha Gilg & Bened.: 1, petals × 1; 2, anthers × 1; 3, floral diagram; 4, ovary and portion of gynophore × 4; 5, ovary in transverse section × 4; 6, branch with inflorescence × 1/3; 7, bases of leaflets and petioles × 1 (Letouzey 12287).*
 
 ## Notes
 

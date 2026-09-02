@@ -7,6 +7,11 @@ family: Putranjivaceae
 vol: 57
 pages: 163-163
 source: sources/Putranjivaceae_vol57_paddle
+countries: [Cameroon, Central African Republic, Equatorial Guinea, Gabon, Nigeria, Republic of the Congo]
+in_region: true
+subdivisions:
+  Gabon: [Estuaire, Ngounié, Ogooué-Ivindo, Ogooué-Lolo, Ogooué-Maritime, Woleu-Ntem]
+habit: "tree"
 tags: [species, generated]
 ---
 # *Drypetes stipularis* (Müll.Arg.) Hutch.

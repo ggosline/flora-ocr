@@ -7,6 +7,8 @@ family: Moraceae
 vol: 26
 pages: 241-245
 source: sources/Moraceae_vol26_paddle
+countries: [Cameroon, Democratic Republic of the Congo, Gabon, Uganda]
+in_region: true
 tags: [species, generated]
 ---
 # *Ficus densistipula* De Wildeman
@@ -51,7 +53,7 @@ Hallé N. 3893, Bélinga, mines de fer (fig., juin). Michaloud 509, 510, 517, 54
 
 ![Ficus densistipula](../sources/Moraceae_vol26_paddle/figures/fig_074_p0242.png)
 
-*PL. 73. – Ficus densitipula De Wild.: 1, rameau avec feuilles × 3/4; 2, figue × 1 (Michaloud 517).*
+*PL. 73. – Ficus densitipula De Wild.: 1, branch with leaves × 3/4; 2, fig × 1 (Michaloud 517).*
 
 ## Notes
 

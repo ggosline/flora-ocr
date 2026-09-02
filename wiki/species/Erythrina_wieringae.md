@@ -7,6 +7,13 @@ family: Leguminosae
 vol: 49
 pages: 202-202
 source: sources/Millettiaspeciesfabaceae_vol49_liteparse
+countries: [Gabon]
+in_region: true
+subdivisions:
+  Gabon: [Ogooué-Ivindo]
+habit: "tree"
+habitat: [secondary forest]
+altitude_m: "500"
 tags: [species, generated]
 ---
 # *Erythrina wieringae* Maesen Planche 65.1–10

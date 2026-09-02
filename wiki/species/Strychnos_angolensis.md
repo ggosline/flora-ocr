@@ -7,6 +7,8 @@ family: Loganiaceae
 vol: 19
 pages: 59-62
 source: sources/Loganiaceae_vol19_paddle
+countries: [Nigeria]
+in_region: true
 tags: [species, generated]
 ---
 # *Strychnos angolensis* Gilg
@@ -15,8 +17,6 @@ tags: [species, generated]
 **Family**: [[Loganiaceae]]
 
 ## Description
-
-<!-- TODO:translate — source text below, verbatim and untranslated -->
 
 in ENGLER, Bot. Jahrb. 17 : 571 (1893). — FTA 4 (1) : 522. — DUVIGNEAUD, Lejeunia 11: 67 (1947). — E. A. BRUCE, Kew Bull. : 157 (1956). — FTEA, Loganiacea : 29. — FWTA ed. 2, 2 : 43. — LEEUWENBERG, 1. c. : 57, fig. 4, carte 3. — SANDBERG. LUNELL & RYRBERG, 1. c. : 84 (1969).
 
@@ -46,15 +46,13 @@ in ENGLER, Bot. Jahrb. 17 : 571 (1893). — FTA 4 (1) : 522. — DUVIGNEAUD, Lej
 
 — S. angolensis var. tisseranti DUVIGN., l. c. : 70.
 
-Arbuste grimpant ou liane, atteignant une hauteur de 3-30 m, ou petit arbre subsarmenteux de 5-12 m de hauteur; tige ou tronc de 4-20 cm de
+Climbing shrub or liana, reaching a height of 3–30 m, or small subsarmentose tree of 5–12 m tall; stem or trunk 4–20 cm in diameter; bark smooth, thin, pale brown, lacking or sparingly lenticellate; branches not lenticellate; small branchlets ochraceous-pubescent, cylindrical, not furrowed; tendrils solitary.
 
-diamètre; écorce lisse, mince, brun pâle, pas ou peu lenticellée; rameaux non lenticellés; petits rameaux ochracés-pubescents, cylindriques, non sillonnés; vrilles solitaires.
+Leaves with petiole ochraceous-pubescent, generally transversely rugose when dry, 1–5 (–6) mm long; lamina papyraceous to coriaceous, of highly variable form and size, broadly ovate, elliptic, narrowly elliptic or narrowly ovate, 2–7 (–10) × 1–4 (–5) cm, generally obtuse and apiculate, but often acute, sometimes obtusely acuminate or emarginate at the apex, rounded, cuneate or sometimes subcordate at the base, glabrous or ochraceous-pubescent beneath on the principal veins and above on the midvein near the base; one or two pairs of secondary veins curved along the margin; tertiary venation scarcely distinct above, prominent beneath.
 
-Feuilles à pétiole ochracé-pubescent, généralement transversalement rugueux à l'état sec, de 1-5 (-6) mm de longueur; limbe papyracé à coriace, de forme et de grandeur très variables, largement ové, elliptique, étroitement elliptique ou étroitement ové, de 2-7 (-10) × 1-4 (-5) cm, généralement obtus et apiculé, mais souvent aigu, parfois obtusément acuminé ou émarginé au sommet, arrondi, cuné ou parfois subcordé à la base, glabre ou ochracé-pubescent en dessous sur les nervures principales et en dessus sur la nervure médiane près de la base; une ou deux paires de nervures secondaires courbées le long de la marge; nervation tertiaire peu distincte en dessus, proéminente en dessous.
+Inflorescences axillary and sometimes also terminal, solitary, lax, few-flowered, sometimes transformed into galls rosette-shaped; peduncle and branches slender, ochraceous-pubescent like the very short pedicels. Flowers 4–5-merous within the same inflorescence. Sepals pale green, united for one third of their height, broadly ovate, 0.5–1.2 × 0.5–1 mm, acute or obtuse, glabrous on both sides, ciliate. Corolla, in mature bud, 2–2.5 mm long, white or yellow, subrotate, glabrous or finely papillose-pubescent externally, internally densely pilose at the base of the lobes, or sometimes over the entire surface of the lobes; tube shorter than the calyx; lobes ovate to triangular, 2.7–4.5 times longer than the tube, spreading. Stamens scarcely exserted, inserted at the corolla throat, filament about as long as the anther; anther glabrous. Pistil glabrous, 1.2–1.6 mm long; ovary globose or broadly ovoid, 0.8–1.2 × 0.6–0.9 mm, two-locular; style short or very short; stigma capitate; 4–6 ovules per locule.
 
-Inflorescences axillaires et parfois aussi terminales, solitaires, lâches, pauciflores, parfois transformées en gailes en forme de roses; pédoncule et rameaux minces, ochracés-pubescents comme les très courts pédicelles. Fleurs 4-5-mères dans une même inflorescence. Sépales vert pâle, soudés sur le tiers de leur hauteur, largement ovés, de 0,5-1,2 × 0,5-1 mm, aigués ou obtus, glabres des deux côtés, ciliés. Corolle, dans le bouton mûr, longue de 2-2,5 mm, blanche ou jaune, subrotacée, glabre ou finement papilleuse-pubescente à l'extérieur, à l'intérieur densément pileuse à la base des lobes, ou parfois sur toute la surface des lobes; tube plus court que le calice; lobes ovés à triangulaires, 2,7-4,5 fois plus longs que le tube, étalés. Étamines à peine exsertes, insérées à la gorge de la corolle, à filet environ aussi long que l'anthère; anthère glabre. Pistil glabre, de 1,2-1,6 mm de longueur; ovaire globuleux ou largement ovoïde, de 0,8-1,2 × 0,6-0,9 mm, à deux loges; style court ou très court; stigmate capité; 4-6 ovules par loge.
-
-Fruits orangés ou rouges, petits, ellipsoïdes ou globuleux, de  $ 12 \times 12 - 22 \times 18 $ mm, avec une seule graine lisse, glabre, subréniforme. Pl. 16, 1-7, p. 125.
+Fruits orange or red, small, ellipsoid or globose, 12 × 12–22 × 18 mm, with a single smooth, glabrous, subreniform seed. Pl. 16, 1–7, p. 125.
 
 ## Type
 
@@ -62,9 +60,7 @@ Welwitsch 6020, Pungo Andongo, Cuanza Norte, Angola (holotype : B, non vu, détr
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Nigeria, Afrique équatoriale et orientale. Bords de rivières en forêts et en galeries. Altitude 0-1 500 m.
+Nigeria, equatorial and eastern Africa. River margins in forests and gallery forests. Altitude 0–1,500 m.
 
 ## Specimens examined
 
@@ -96,7 +92,7 @@ Klaine 1540, Libreville (fl., mai) P (holotype de S. cinnabarina var. klaineana,
 
 ![Strychnos angolensis](../sources/Loganiaceae_vol19_paddle/figures/fig_016_p0127.png)
 
-*PL. 16. — Strychnos angolensis Gilg : 1 et 2, rameaux × ½; 3, fl. × 5; 4, corolle p. p. avec ét. × 5; 5, fr. × ½; 6, gr. × ½; 7, feuilles × ½. (1-4 : d'après Welwitsch 6020 Angola, LISU; 5-6 : Breteler 1879, WAG; 7 : d'après Schlieben 1932, Tanzanie, LISC, Z Welwitsch 4776 et 6020, Angola, LISU). — Strychnos malacoclados C. H. Wright : 8 et 9, rameaux × ½; 10, fl. × 5; 11, corolle p. p. avec ét. × 5; 12, fr. (généralement plus grand) × ½; 13, feuilles × ½. (8-11 : Bates 502; 12 : d'après De Wilde J. c.s. 3613, Côte d'Ivoire, WAG; 13 : Bates 502, Zenker 4571 et d'après Vigne 2515, Ghana, FHO).*
+*PL. 16. — Strychnos angolensis Gilg : 1 and 2, branches × ½; 3, fl. × 5; 4, corolla p. p. with st. × 5; 5, fr. × ½; 6, seed × ½; 7, leaves × ½. (1-4 : according to Welwitsch 6020 Angola, LISU; 5-6 : Breteler 1879, WAG; 7 : according to Schlieben 1932, Tanzania, LISC, Z Welwitsch 4776 and 6020, Angola, LISU). — Strychnos malacoclados C. H. Wright : 8 and 9, branches × ½; 10, fl. × 5; 11, corolla p. p. with st. × 5; 12, fr. (generally larger) × ½; 13, leaves × ½. (8-11 : Bates 502; 12 : according to De Wilde J. c.s. 3613, Ivory Coast, WAG; 13 : Bates 502, Zenker 4571 and according to Vigne 2515, Ghana, FHO).*
 
 ## Notes
 

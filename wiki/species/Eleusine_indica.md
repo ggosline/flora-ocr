@@ -7,6 +7,7 @@ family: Gramineae
 vol: 05
 pages: 233-234
 source: sources/Gramineae_vol05_paddle
+habit: "herb"
 tags: [species, generated]
 ---
 # *Eleusine indica* (L.) Gaertn. (f. p. 233).

@@ -7,6 +7,11 @@ family: Apocynaceae
 vol: 59
 pages: 81-85
 source: sources/Apocynaceae_vol59_liteparse
+countries: [Cameroon, Cote d'Ivoire, Gabon, Guinea, Nigeria, Republic of the Congo]
+in_region: true
+habit: "liana"
+habitat: [secondary forest, primary forest]
+altitude_m: "40–90"
 tags: [species, generated]
 ---
 # *Dictyophleba setosa* B.de Hoogh Planche 32 ; Figure 4(G)

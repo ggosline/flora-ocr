@@ -7,6 +7,8 @@ family: Moraceae
 vol: 26
 pages: 213-218
 source: sources/Moraceae_vol26_paddle
+countries: [Angola, Cameroon, Democratic Republic of the Congo, Gabon, Madagascar, Mozambique, Senegal, Uganda]
+in_region: true
 tags: [species, generated]
 ---
 # *Ficus umbellata* Vahl
@@ -83,11 +85,11 @@ Pollinisateur : Agaon bekiliensis bispinosum Wiebes (Sénégal) ; voir aussi F. 
 
 ![Ficus umbellata](../sources/Moraceae_vol26_paddle/figures/fig_063_p0214.png)
 
-*PL. 62. - Ficus umbellata Vahl: 1, rameau avec feuilles × 2/3; 2, figue cauliflore × 1 (Berg 159, Congo).*
+*PL. 62. - Ficus umbellata Vahl: 1, branch with leaves × 2/3; 2, cauliflorous fig × 1 (Berg 159, Congo).*
 
 ![Ficus umbellata](../sources/Moraceae_vol26_paddle/figures/fig_064_p0216.png)
 
-*PL. 63. - Ficus polita Vahl : 1, rameau avec feuilles × 1 ; 2, figues cauliflores × 1 (Tisserant, Centrafrique).*
+*PL. 63. - Ficus polita Vahl : 1, branch with leaves × 1 ; 2, cauliflorous figs × 1 (Tisserant, Central African Republic).*
 
 ## Notes
 

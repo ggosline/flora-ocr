@@ -7,6 +7,13 @@ family: Phyllanthaceae
 vol: 43
 pages: 58-60
 source: sources/Phyllanthaceae_vol43_liteparse
+countries: [Cameroon, Democratic Republic of the Congo, Equatorial Guinea, Gabon, Republic of the Congo]
+in_region: true
+subdivisions:
+  Gabon: [Haut-Ogooué, Nyanga]
+habit: "tree"
+habitat: [secondary forest]
+altitude_m: "0–300"
 tags: [species, generated]
 ---
 # *Pentabrachion reticulatum* Müll.Arg. Planche 18

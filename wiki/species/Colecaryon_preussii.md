@@ -7,6 +7,10 @@ family: Myristicaceae
 vol: 10
 pages: 96-99
 source: sources/Myristicaceae_vol10_paddle
+countries: [Cameroon, Democratic Republic of the Congo, Gabon, Nigeria]
+in_region: true
+habit: "tree"
+habitat: [evergreen forest]
 tags: [species, generated]
 ---
 # *Colecaryon preussii* Warb.
@@ -56,7 +60,7 @@ Klaine 318 (fl. déc.); 693 (fl. ♂ déc.); 960 = 17/6 (fl. ♀ janv.); 1186 (f
 
 ![Colecaryon preussii](../sources/Myristicaceae_vol10_paddle/figures/fig_025_p0097.png)
 
-*PL. XXIV. — Caelocaryon Preussii Warb. 1, feuille de 18 cm (J. Louis 2451); 2, inflorescence ♂ de 12 cm (Klaine 2116); 2', infl. ♀ de 8 cm (Klaine 960); 3, ombelle ♂ dans l'involucre clos; 3', involucre ouvert; 3", involucre tombé (Le Testu 7819); 4, ombelle ♂; 4', ombelle ♀; 5',fl. ♂ en coupe; 5',fl. ♀ en coupe, ovaire glabre; 6, fl. ♂ vue dessus; 6', fl. ♀; 6", poils du pédoncule et de l'involucre (0,1 à 0,2 mm) (7819 Le Testu ♂; 960 Klaine ♀); 7, portion d'infrutescence; 8, graine coupée; 9', embryon de 3,5 mm (Klaine 960); 9, arille (Tisserant 1271).*
+*PL. XXIV. — Caelocaryon Preussii Warb. 1, leaf of 18 cm (J. Louis 2451); 2, inflorescence ♂ of 12 cm (Klaine 2116); 2', infl. ♀ of 8 cm (Klaine 960); 3, umbel ♂ in the closed involucre; 3', open involucre; 3", fallen involucre (Le Testu 7819); 4, umbel ♂; 4', umbel ♀; 5', fl. ♂ in section; 5', fl. ♀ in section, glabrous ovary; 6, fl. ♂ seen from above; 6', fl. ♀; 6", hairs of the pedicel and involucre (0.1 to 0.2 mm) (7819 Le Testu ♂; 960 Klaine ♀); 7, portion of infructescence; 8, seed cut; 9', embryo of 3.5 mm (Klaine 960); 9, aril (Tisserant 1271).*
 
 ## Notes
 

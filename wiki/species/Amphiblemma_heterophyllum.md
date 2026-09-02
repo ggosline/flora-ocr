@@ -7,6 +7,7 @@ family: Melastomataceae
 vol: 25
 pages: 84-86
 source: sources/Melastomataceae_vol25_paddle
+habit: "shrub"
 tags: [species, generated]
 ---
 # *Amphiblemma heterophyllum* Jacques-Félix
@@ -35,7 +36,7 @@ Hallé N. & Villiers J.-F. 5105, mt Cristal, pentes mt Méla (fév.).
 
 ![Amphibemma heterophyllum](../sources/Melastomataceae_vol25_paddle/figures/fig_030_p0085.png)
 
-*PL. 30. — Amphiblemma setosum Hook. f. : 1, sommité fleurie × 2/3; 2, hypantho-calice × 4; 3, jeune fruit coupé × 4; 4 & 4', étamine interne × 4 et détail des appendices; 5, étamine externe × 4 (Le Testu 5041).*
+*PL. 30. — Amphiblemma setosum Hook. f. : 1, flowering summit × 2/3; 2, hypantho-calyx × 4; 3, young fruit sectioned × 4; 4 & 4', internal stamen × 4 and detail of appendages; 5, external stamen × 4 (Le Testu 5041).*
 
 ## Notes
 

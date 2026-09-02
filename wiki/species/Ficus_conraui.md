@@ -7,6 +7,8 @@ family: Moraceae
 vol: 26
 pages: 225-227
 source: sources/Moraceae_vol26_paddle
+countries: [Cameroon, Cote d'Ivoire, Democratic Republic of the Congo, Gabon, Nigeria, Sierra Leone, Uganda]
+in_region: true
 tags: [species, generated]
 ---
 # *Ficus conraui* Warburg
@@ -51,7 +53,7 @@ Hladik 2670, Mpassa, 10 km S Makokou (fig., mars). Michaloud 482, Makokou (fig.,
 
 ![Ficus conraui](../sources/Moraceae_vol26_paddle/figures/fig_067_p0226.png)
 
-*PL. 66. - Ficus conraui Warb.: rameau avec figues × 1 (Le Testu 4752).*
+*PL. 66. - Ficus conraui Warb.: branch with figs × 1 (Le Testu 4752).*
 
 ## Notes
 

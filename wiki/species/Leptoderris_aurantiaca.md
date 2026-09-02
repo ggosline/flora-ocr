@@ -7,6 +7,13 @@ family: Leguminosae
 vol: 49
 pages: 227-227
 source: sources/Millettiaspeciesfabaceae_vol49_liteparse
+countries: [Cameroon, Equatorial Guinea, Gabon, Nigeria]
+in_region: true
+subdivisions:
+  Gabon: [Estuaire]
+habit: "liana"
+habitat: [secondary forest]
+altitude_m: "0–150"
 tags: [species, generated]
 ---
 # *Leptoderris aurantiaca* Dunn

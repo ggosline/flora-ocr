@@ -7,6 +7,13 @@ family: Apocynaceae
 vol: 59
 pages: 47-49
 source: sources/Apocynaceae_vol59_liteparse
+countries: [Cameroon, Gabon, Ghana, Nigeria, Sierra Leone]
+in_region: true
+subdivisions:
+  Gabon: [Ogooué-Lolo]
+habit: "liana"
+habitat: [secondary forest]
+altitude_m: "300"
 tags: [species, generated]
 ---
 # *Baissea calophylla* (K.Schum.) Stapf Planche 17(2, 3)

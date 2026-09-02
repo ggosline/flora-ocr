@@ -7,17 +7,16 @@ family: Flagellariaceae
 synonyms:
   - Flagellaria indica sensu Engl.
   - Flagellaria indica L. var. guineensis (Schumach.) Engl.
-countries: [Gabon]
 range_note: "all tropical African coasts; particularly abundant in Natal"
-in_region: true
-habit: climbing herb
-habitat: [forest riverbanks]
 treatments:
   - vol: 28
     year: 1986
     authors: [Villiers J.-F.]
     pages: "56–58"
     source: sources/Flagellariaceae_vol28_paddle
+countries: [Gabon]
+in_region: true
+habit: "herb"
 tags: [species]
 ---
 

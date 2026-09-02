@@ -7,6 +7,12 @@ family: Arecaceae
 vol: 53
 pages: 65-65
 source: sources/Arecaceae_vol53_liteparse
+countries: [Cameroon, Gabon]
+in_region: true
+subdivisions:
+  Gabon: [Ngounié, Ogooué-Ivindo, Ogooué-Maritime, Woleu-Ntem]
+habitat: [coastal]
+altitude_m: "350"
 tags: [species, generated]
 ---
 # *Raphia zamiana* Mogue, Sonké & Couvreur Planche 23

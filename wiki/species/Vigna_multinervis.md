@@ -7,6 +7,13 @@ family: Leguminosae
 vol: 49
 pages: 378-378
 source: sources/Millettiaspeciesfabaceae_vol49_liteparse
+countries: [Angola, Gabon, Guinea, Sudan, Uganda, Zambia]
+in_region: true
+subdivisions:
+  Gabon: [Haut-Ogooué, Nyanga, Ogooué-Ivindo]
+habit: "herb"
+habitat: [savanna, rocky ground]
+altitude_m: "100–650"
 tags: [species, generated]
 ---
 # *Vigna multinervis* Hutch. & Dalziel

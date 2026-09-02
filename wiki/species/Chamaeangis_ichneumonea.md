@@ -7,6 +7,8 @@ family: Orchidaceae
 vol: 37
 pages: 197-197
 source: sources/Orchidaceae_vol37_paddle
+countries: [Cameroon, Gabon, Ghana, Liberia, Nigeria, Sierra Leone]
+in_region: true
 tags: [species, generated]
 ---
 # *Chamaeangis ichneumonea* (Lindl.) Schltr.

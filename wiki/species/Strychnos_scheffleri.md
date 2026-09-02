@@ -16,8 +16,6 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 (Notizbl. Bot. Gart. Berlin 3 : 84 (1900), nom. nud. — FTA 4 (1) : 537, nom. nud.). — GILG & BUSSE in ENGLER, Bot. Jahrb. 36 : 94 (1905). — E. A. BRUCE, Kew Bull. : 153 (1956). — FTEA, Loganiaceae : 31, fig. 5, 4-7, p. p., excl. Procter 385. — LEEUWENBERG, 1. c. : 232, fig. 38, carte 37.
 
 — S. subaquatica DE WILD., Bull. Jard. Bot. Brux. 5 : 43 (1915). — DUVIGNEAUD, Bull. Soc. Roy. Bot. Belg. 85 : 32, fig. 11 (1952).
@@ -28,15 +26,13 @@ tags: [species, generated]
 
 — S. scheffleri var. expansa E. A. Bruce, Kew Bull. : 153 (1956). — FTEA, Loganiacea : 31.
 
-Plante grimpante ou grande liane atteignant une hauteur de 30 m et une longueur de 50 m, volubile à l'état juvénile; tige de 3-15 cm de diamètre; écorce gris-brun pâle à brun foncé, à grandes lenticelles; bois jaunâtre pâle; rameaux lenticellés; petits rameaux généralement sillonnés, même à l'état frais, glabres ou parfois à pubescence éparse, non lenticellés; vrilles par paires.
+Climbing plant or large liana reaching a height of 30 m and a length of 50 m, volubile in the juvenile state; stem 3-15 cm in diameter; bark pale greyish-brown to dark brown, with large lenticels; wood pale yellowish; branchlets lenticellate; small branchlets generally furrowed, even in the fresh state, glabrous or sometimes with sparse pubescence, not lenticellate; tendrils in pairs.
 
-Feuilles à pétiole glabre ou parfois pubescent, de 2-8 mm de longueur; limbe coriace ou subcoriace, même à l'état frais, à l'ombre plus mince, étroitement ové, elliptique ou étroitement elliptique (et pour les feuilles situées sur l'axe principal et sur la base des rameaux parfois ové), de 4,5-10 (-14) × 1,7-4 (-6,5) cm, acuminé à caudé au sommet, cuné, arrondi ou, pour les feuilles ovées, parfois subcordé à la base, glabre sur les deux faces ou parfois en dessous pubescent sur les nervures; une paire de nervures secondaires courbées le long de la marge et une deuxième paire moins distincte et submarginale; nervation tertiaire réticulée, proéminente en dessous et souvent également en dessus.
+Leaves with petiole glabrous or sometimes pubescent, 2-8 mm in length; lamina coriaceous or subcoriaceous, even in the fresh state, thinner in shade, narrowly ovate, elliptic or narrowly elliptic (and for leaves situated on the main axis and at the base of the branchlets sometimes ovate), 4.5-10 (-14) × 1.7-4 (-6.5) cm, acuminate to caudate at the apex, cuneate, rounded or, for ovate leaves, sometimes subcordate at the base, glabrous on both surfaces or sometimes pubescent below on the veins; one pair of secondary veins curved along the margin and a second pair less distinct and submargi­nal; tertiary venation reticulate, prominent below and often also above.
 
-Inflorescences axillaires, généralement assez lâches, de 1-6 × 1-4 cm, pauci- à multiflores; pédoncule, rameaux et pédicelles brun-pubescents à poils parfois sériés. Fleurs 5-mères. Sépales verts, soudés sur environ un quart de leur hauteur, orbiculaires ou presque, de 1,3-1,7 mm de longueur, arrondis ou parfois obtus, ciliés, glabres ou à pubescence éparse à l'extérieur, à l'intérieur glabres ou avec quelques petits poils près de la base. Corolle dans le bouton mûr de 7-9,5 mm de longueur, blanche ou crème, à l'extérieur glabre ou exceptionnellement avec quelques poils, à l'intérieur densément pileuse dans le tube mais avec base glabre; tube 0,6-1,3 fois plus long que les lobes, de 3-4,5 mm de longueur; lobes oblongs, de 3-5,5 × 1-1,5 mm, aigus, recourbés (sauf pour les jeunes fleurs). Étamines bien
+Inflorescences axillary, generally rather lax, 1-6 × 1-4 cm, pauciflorous to multiflorous; peduncle, branches and pedicels brown-pubescent with hairs sometimes in series. Flowers 5-merous. Sepals green, united for about one quarter of their height, orbicular or nearly so, 1.3-1.7 mm in length, rounded or sometimes obtuse, ciliate, glabrous or with sparse pubescence outside, glabrous inside or with a few small hairs near the base. Corolla in the mature bud 7-9.5 mm in length, white or cream, glabrous outside or exceptionally with a few hairs, densely pilose inside in the tube but with glabrous base; tube 0.6-1.3 times longer than the lobes, 3-4.5 mm in length; lobes oblong, 3-5.5 × 1-1.5 mm, acute, reflexed (except for young flowers). Stamens well exserted, inserted at the throat of the corolla, with glabrous filament, 1-2 times longer than the anther; anther oblong, provided or not with a few pilose hairs at the base. Pistil hirtellous-pilose, 6-9 mm in length; ovary ovoid, 2-2.5 × 1-1.5 mm, glabrous at the base, 2-locular; style 4-7 mm in length, glabrous at the apex; stigma cup-shaped; 15-25 ovules per locule.
 
-exsertes, insérées à la gorge de la corolle, à filet glabre, 1-2 fois plus long que l'anthère; anthère oblongue, pourvue ou non de quelques poils pileux à la base. Pistil hirto-pileux, de 6-9 mm de longueur; ovaire ovoïde, de 2-2,5 × 1-1,5 mm, glabre à la base, à 2 loges; style de 4-7 mm de longueur, glabre au sommet; stigmate en forme de soucoupe; 15-25 ovules par loge.
-
-Fruits jaunes ou orangés, petits, globuleux, de 3-6 cm de diamètre et contenant environ 6-15 graines; paroi assez mince, d'env. 2 mm d'épaisseur; pulpe jaune ou orangée. Graines obliquement elliptiques, aplaties, de  $ 15-18 \times 10^{-13} \times 3-5 $ mm, souvent courbées, rugueuses, finement et densément scabres; testa épais. Pl. 37, p. 144.
+Fruits yellow or orange, small, globose, 3-6 cm in diameter and containing approximately 6-15 seeds; wall rather thin, approximately 2 mm thick; pulp yellow or orange. Seeds obliquely elliptic, flattened, 15-18 × 10-13 × 3-5 mm, often curved, rugose, finely and densely scabrous; testa thick. Pl. 37, p. 144.
 
 ## Type
 
@@ -44,23 +40,21 @@ Scheffler 78, Derema, E Monte Usambara, Tanzanie (lectotype : E, isotypes : A, B
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Equatorial and eastern Africa. Dense or secondary forests; often on river banks or in gallery forests. Altitude 0-1100 m.
 
-Afrique équatoriale et orientale. Forêts denses ou secondaires; souvent sur rives de rivières, ou galeries. Altitude 0-1 100 m.
+Bates 1746, Bitye, near Dja, 60 km ENE Sangmélima (fl.) FHO, K, P, PRE.
 
-Bates 1746, Bitye, près du Dja, 60 km ENE Sangmélima (fl.) FHO, K, P, PRE.
+Breteler 1393, 43 km NW Bertoua (stér.) WAG, YA; 1509, Yokadouma, 6 km on road to Moloundou (buds, June) K, P, WAG, YA; 1915, Mont Fébé, 3 km NW Yaoundé (stér.) WAG, YA; 2780, near Garoua Sambé, 25 km NW Batouri (buds, Apr.) BR, K, P, WAG, YA.
 
-Breteler 1393, 43 km NW Bertoua (stér.) WAG, YA; 1509, Yokadouma, 6 km sur route de Moloundou (boutons, juin) K, P, WAG, YA; 1915, Mont Fébé, 3 km NW Yaoundé (stér.) WAG, YA; 2780, près Garoua Sambé, 25 km NW Batouri (boutons, avr.) BR, K, P, WAG, YA.
+Breteler, De Wilde J. & Leeuwenberg 2231, Mont Fébé, 3 km NW Yaoundé (stér.) K, P, S, WAG; 2293, near Nkolbisson, 7 km W Yaoundé (stér.) K, P, WAG, YA; 2295, eod. loc. (stér.) WAG; 2444, 24 km NE Bertoua, on road to Bétaré Oya (faded fl., Jan.) BR, K, P, WAG.
 
-Breteler, De Wilde J. & Leeuwenberg 2231, Mont Fébé, 3 km NW Yaoundé (stér.) K, P, S, WAG; 2293, près Nkolbisson, 7 km W Yaoundé (stér.) K, P, WAG, YA; 2295, eod. loc. (stér.) WAG; 2444, 24 km NE Bertoua, sur route de Bétaré Oya (fl. fanées, janv.) BR, K, P, WAG.
+De Wilde W. 2658 A, left bank of the Sanaga, near Nachtigal (buds, June) WAG, YA · 2658 B. eod. loc. (immature fr., June) WAG.
 
-De Wilde W. 2658 A, rive gauche de la Sanaga, près Nachtigal (boutons, juin) WAG, YA · 2658 B. eod. loc. (fr. non mûrs, juin) WAG.
+Leeuwenberg 6239, 6 km S Yokadouma (immature fr., July) P, WAG, YA; 7346, near Gounté, km 27 road Bertoua-Bétaré Oya (stér.) P, WAG, YA; 7452, Nanga Eboko, 25 km on road to Bertoua (stér.) P, WAG, YA; 7759, Mari Falls, 8 km N Bétaré Oya (stér.) P, WAG, YA.
 
-Leeuwenberg 6239, 6 km S Yokadouma (fr. non mûrs, juill.) P, WAG, YA; 7346, près Gounté, km 27 route Bertoua-Bétaré Oya (stér.) P, WAG, YA; 7452, Nanga Eboko, 25 km sur route de Bertoua (stér.) P, WAG, YA; 7759, chutes du Mari, 8 km N Bétaré Oya (stér.) P, WAG, YA.
+Letouzey 5181, 5 km E Gribi, km 28 road Yokadouma-Batouri (fl., May); 9995, Rock Ako Akas, 25 km SE Ebolowa (immature fr., Feb.).
 
-Letouzey 5181, 5 km E Gribi, km 28 route Yokadouma-Batouri (fl., mai); 9995, Rocherd'Ako Akas, 25 km SE Ebolowa (fr. non mûrs, févr.).
-
-Mildbraed 5363, Dja, région de Lomie (fl., mai) HBG.
+Mildbraed 5363, Dja, Lomie region (fl., May) HBG.
 
 ## Specimens examined
 
@@ -74,7 +68,7 @@ Le Testu 8691, région de Lastoursville, Koulamoutou (fl., janv.).
 
 ![Strychnos scheffleri](../sources/Loganiaceae_vol19_paddle/figures/fig_037_p0146.png)
 
-*PL. 37. — Strychnos scheffleri Gilg : 1, rameau × 1/2; 2, fleur × 3 1/2; 3, dissection de la corolle avec étamines × 3 1/2; 4, pistil × 3 1/2 (1-4 : d'après Louis 6204, Congo-Kinshasa, BR, MO).*
+*PL. 37. — Strychnos scheffleri Gilg : 1, branch × 1/2; 2, flower × 3 1/2; 3, dissection of the corolla with stamens × 3 1/2; 4, pistil × 3 1/2 (1-4 : after Louis 6204, Congo-Kinshasa, BR, MO).*
 
 ## Notes
 

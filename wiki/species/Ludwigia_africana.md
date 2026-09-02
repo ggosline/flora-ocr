@@ -5,18 +5,16 @@ authority: (Brenan) H.Hara
 genus: Ludwigia
 family: Onagraceae
 synonyms: [Jussiaea africana Brenan]
-countries: [Guinea, Sierra Leone, Liberia, Benin, Cameroon, Equatorial Guinea, Gabon, Central African Republic, Republic of the Congo, Democratic Republic of the Congo]
-subdivisions:
-  Gabon: [Estuaire, Haut-Ogooué, Nyanga, Woleu-Ntem]
-in_region: true
-habit: herb, sometimes scrambling
-habitat: [sunny marshes, flooded forest, marsh grassland, stream margins]
-altitude_m: "to 730 in Gabon; to 1500 elsewhere"
 treatments:
   - vol: 52
     year: 2018
     pages: "33–35"
     source: sources/Onagraceae_vol52_liteparse
+countries: [Democratic Republic of the Congo, Gabon, Guinea]
+in_region: true
+subdivisions:
+  Gabon: [Estuaire, Haut-Ogooué, Nyanga, Woleu-Ntem]
+habit: "herb"
 tags: [species]
 ---
 

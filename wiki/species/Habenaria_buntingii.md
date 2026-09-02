@@ -7,6 +7,9 @@ family: Orchidaceae
 vol: 36
 pages: 43-45
 source: sources/Orchidaceae_vol36_paddle
+countries: [Central African Republic, Cote d'Ivoire, Gabon, Ghana, Liberia, Nigeria, Sierra Leone]
+in_region: true
+habitat: [savanna, evergreen forest]
 tags: [species, generated]
 ---
 # *Habenaria buntingii* Rendle

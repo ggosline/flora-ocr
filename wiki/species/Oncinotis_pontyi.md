@@ -7,6 +7,7 @@ family: Apocynaceae
 vol: 59
 pages: 179-180
 source: sources/Apocynaceae_vol59_liteparse
+habit: "liana"
 tags: [species, generated]
 ---
 # *Oncinotis pontyi* Dubard Planche 78(4), 83

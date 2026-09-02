@@ -7,6 +7,7 @@ family: Apocynaceae
 vol: 59
 pages: 247-249
 source: sources/Apocynaceae_vol59_liteparse
+habit: "shrub"
 tags: [species, generated]
 ---
 # *Tabernaemontana inconspicua* Stapf Planche 115 ; Figure 13(C)
@@ -17,13 +18,7 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Arbuste atteignant 3 m de hauteur ; rameaux glabres. Feuilles d’une paire égales ou inéJDOHVSpWLROHGH±PPJODEUHRFKUpDpODUJLHQVWLSXOHVLQWUDSpWLRODLUHVOLPEHHOOLSWLTXH RXpWURLWHPHQWHOOLSWLTXH±IRLVDXVVLORQJTXHODUJHGH±î±FPFXQppjOD EDVHRXGpFXUUHQWVXUOHSpWLROHDFXPLQpjFDXGpDXVRPPHW¿QHPHQWFRULDFHVXUOHIUDLV PHPEUDQHX[VXUOHVHFJODEUHVXUOHVGHX[IDFHVRXSDUIRLVSXEHVFHQWRX¿QHPHQWSDSLOOHX[ dessous ; nervures secondaires 4 à 15 paires , courbées, nervation tertiaire peu visible. ,QÀR rescence GH±î±FPSOXW{WOkFKHDYHFjÀHXUVSpGRQFXOHJUrOH de 10–20(–40)
-
-Hladik 2688 ; 5-8 : Bos 6408 ). Dessin par Yuen Fang Tan, Naturalis Biodiversity Center (©), reproduit à partir de Leeuwenberg (1991).
-
-mm EUDFWpHVVpSDORwGHVSHUVLVWDQWHV Fleur : pédicelle de 3–14 mm ; calice à lobes à l’intéULHXUDYHFjFROOpWqUHVVLWXpVDXPLOLHXSUqVGHODEDVHFRUROOHMDXQHSkOHHWRXFUqPH¿QH ERXWRQPUIRUPDQWXQHWrWHRYRwGHUHODWLYHPHQWODUJH±IRLVODORQJXHXUGXERXWRQ jVRPPHWDLJXJODEUHRXSDUWLHOOHPHQWSDSLOOHX[VXUOHVGHX[IDFHVjWXEHVXEF\OLQGULTXH 3–7,5 fois la longueur du calice, de 9–15 × 1,2–2,5 mm , non ou peu élargi au niveau des anthères, non tordu jOREHVLQÀpFKLVGH±IRLVODORQJXHXUGXWXEH±IRLVDXVVL ORQJVTXHODUJHVGH±î±PPpWDPLQHVLQVpUpHVj±GHODORQJXHXUGXWXEH¿OHW de 0,3–0,7 mm, anthère longue de 3–4 mm dont le sommet à 1–5 mm sous la gorge ; pistil long de 3,5–6 mm, glabre dont le sommet se trouve à 1,5 mm en dessous à 0,5 mm au-dessus de la base des anthères. Fruit pendant, à méricarpes séparés, obliquement ovoïdes à ellipsoïdaux, de 25–55 × 15–40 × 7–27 mm , non recourbés, indéhiscents, orange , non tachetés, subcordés à arrondis à la base, avec 2 ailes latérales et 1 aile adaxiale large de 2–5 mm, avec 4 à 20 graines ; exocarpe mince ; arille blanc. Graine de 6–9 × 4–4,5 × 3–3,5 mm, papilleuse et striée longitudinalement. Distribution &DPHURXQ*XLQpHpTXDWRULDOH*DERQ5pSXEOLTXHGX&RQJR5pSXEOLTXHGpPRFUDWLTXH GX&RQJRHW$QJRODDX*DERQ(VWXDLUH1JRXQLp1\DQJD2JRRXp,YLQGR2JRRXp0DULWLPH Écologie VRXVERLV GH OD IRUrW SULPDLUH HW VHFRQGDLUH DX *DERQ MXVTX¶j P G¶DOWLWXGH DLOOHXUV MXVTX¶jP B : Beentje (2021), Leeuwenberg (1991). IBLIOGRAPHIE
+Shrub reaching 3 m in height; branches glabrous. Leaves with one pair equal or unequal, petiolule 6–8 mm glabrous, ochreate, enlarged at the base or decurrent on the petiole, limb elliptic or narrowly elliptic, 2–4 times as long as wide, 5–11 × 2–4 cm, cunate at the base or decurrent on the petiole, acuminate to caudate at the apex, finely coriaceous when fresh, membranaceous when dry, glabrous on both faces or sometimes pubescent or finely papillose below; secondary nerves 4 to 15 pairs, curved, tertiary venation scarcely visible. Inflorescence 6–12 × 3–8 cm, rather lax with 3–6 flowers, peduncle slender, 10–20(–40) mm, bracteate, sepals persistent. Flower: pedicel 3–14 mm; calyx with lobes inside with 2 collateral glands situated in the middle near the base, corolla pale yellow and or cream, fine bud forming a relatively broad ovoid head, 3–4 times the length of the bud, at the apex acute, glabrous or partially papillose on both faces, tube subcylindric, 3–7.5 times the length of the calyx, 9–15 × 1.2–2.5 mm, not or barely enlarged at the level of the anthers, not twisted, lobes inflexed, 1–2 times the length of the tube, 2–4 times as long as wide, 5–10 × 2–4 mm, stamens inserted at 1–1.5 of the length of the tube, filament 0.3–0.7 mm, anther 3–4 mm long with the apex 1–5 mm below the throat; pistil 3.5–6 mm long, glabrous with the apex found at 1.5 mm below to 0.5 mm above the base of the anthers. Fruit pendent, with separated mericarps, obliquely ovoid to ellipsoidal, 25–55 × 15–40 × 7–27 mm, not curved, indehiscent, orange, not spotted, subcordate to rounded at the base, with 2 lateral wings and 1 adaxial wing 2–5 mm wide, with 4 to 20 seeds; exocarp thin; aril white. Seed 6–9 × 4–4.5 × 3–3.5 mm, papillose and longitudinally striated. Distribution: Cameroon, Equatorial Guinea, Gabon, Republic of the Congo, Democratic Republic of the Congo and Angola; in Gabon, Estuaire, Ngounié, Nyanga, Ogooué, Ivindo, Ogooué-Maritime. Ecology: understory of primary and secondary forest in Gabon, up to 800 m altitude; elsewhere up to 900 m. B: Beentje (2021), Leeuwenberg (1991). BIBLIOGRAPHY
 
 ## Notes
 

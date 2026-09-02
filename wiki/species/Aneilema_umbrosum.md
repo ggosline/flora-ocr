@@ -7,6 +7,13 @@ family: Commelinaceae
 vol: 55
 pages: 20-22
 source: sources/Commelinaceae_vol55_liteparse
+countries: [Benin, Cameroon, Central African Republic, Cote d'Ivoire, Democratic Republic of the Congo, Equatorial Guinea, Gabon, Ghana, Liberia, Nigeria, Republic of the Congo, Senegal, Sierra Leone, Sudan, Tanzania, Togo, Uganda]
+in_region: true
+subdivisions:
+  Gabon: [Haut-Ogooué, Ngounié, Nyanga, Ogooué-Ivindo, Ogooué-Lolo, Woleu-Ntem]
+habit: "herb"
+habitat: [swamp forest, evergreen forest]
+altitude_m: "750"
 tags: [species, generated]
 ---
 # *Aneilema umbrosum* (Vahl) Kunth subsp. umbrosum Planche 4, Figure 1(E, F)

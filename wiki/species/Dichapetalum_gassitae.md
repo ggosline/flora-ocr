@@ -7,6 +7,9 @@ family: Dichapetalaceae
 vol: 32
 pages: 94-95
 source: sources/Dichapetalaceae_vol32_paddle
+countries: [Gabon]
+in_region: true
+habit: "liana"
 tags: [species, generated]
 ---
 # *Dichapetalum gassitae* Breteler
@@ -53,7 +56,7 @@ Il est difficile de préciser la position de D. gassitae ; parmi les autres esp�
 
 ![Dichapetalum gassitae](../sources/Dichapetalaceae_vol32_paddle/figures/fig_024_p0096.png)
 
-*PL. 23. – Dichapetalum gassitae Breteler : 1, jeune rameau florifère × 0,5 ; base foliaire : 2, vue de dessus et 3, en coupe longitudinale × 1 ; 4, la même, vue de dessous × 2 ; 5, fleur × 4 ; 6, fleur, détail × 4 (1-6, A.M. Louis, Breteler & de Bruijn 761). – Repris de AUWP 86 (3) : 36 (1979).*
+*PL. 23. – Dichapetalum gassitae Breteler : 1, young flowering branch × 0,5 ; leaf base : 2, view from above and 3, in longitudinal section × 1 ; 4, same, view from below × 2 ; 5, flower × 4 ; 6, flower, detail × 4 (1-6, A.M. Louis, Breteler & de Bruijn 761). – Reproduced from AUWP 86 (3) : 36 (1979).*
 
 ## Notes
 

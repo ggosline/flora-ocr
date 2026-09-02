@@ -15,8 +15,6 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 66.1 Tristachya thollonii Franch.
 
 Fl. Gab.: 265; FWTA: 413; FTEA: 424; Fl. Zamb. 10(3): 207; Gram. Cam.: 362.
@@ -85,11 +83,11 @@ Alers (Lopé) 15, 03.05.1986, c. 0°07'S-11°37'E, Réserve de la Lopé. van Ber
 
 ![Tristachya nees](../sources/Gramineae_vol5bis_paddle/figures/fig_019_p0066.png)
 
-*Pl. 19. - Trichopteryx marungensis Chiov. : 1, aspect de la plante ; 2, épillet ; 3, lemma supérieure. - Autorisation de reproduction : cf. Remerciements p. 68.*
+*Pl. 19. - Trichopteryx marungensis Chiov. : 1, plant habit ; 2, spikelet ; 3, upper lemma. - Reproduction authorization : cf. Acknowledgements p. 68.*
 
 ![Tristachya nees](../sources/Gramineae_vol5bis_paddle/figures/fig_020_p0068.png)
 
-*Pl. 20. - Urochloa villosa (Lamk) Q. Nguyen : 1, aspect de la plante ; 2, épillets ; 3, lemma supérieure ; 4, lemma et paléa supérieure. - Urochloa comata (A. Rich.) Sosef : 5, aspect de la plante ; 6, épillet ; 7, lemma supérieure ; 8, lemma et paléa supérieure. - Autorisation de reproduction : cf. Remerciements p. 68.*
+*Pl. 20. - Urochloa villosa (Lamk) Q. Nguyen : 1, plant habit ; 2, spikelets ; 3, upper lemma ; 4, upper lemma and palea. - Urochloa comata (A. Rich.) Sosef : 5, plant habit ; 6, spikelet ; 7, upper lemma ; 8, upper lemma and palea. - Reproduction authorization : cf. Acknowledgements p. 68.*
 
 ## Notes
 

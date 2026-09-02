@@ -7,6 +7,7 @@ family: Leguminosae
 vol: 15
 pages: 126-127
 source: sources/Leguminosae_vol15_paddle
+habit: "tree"
 tags: [species, generated]
 ---
 # *Guibourtia arnoldiana* (De Wild. et Dur.)

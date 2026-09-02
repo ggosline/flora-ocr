@@ -7,6 +7,8 @@ family: Orchidaceae
 vol: 37
 pages: 57-57
 source: sources/Orchidaceae_vol37_paddle
+countries: [Cameroon, Cote d'Ivoire, Guinea, Guinea-Bissau, Liberia, Sierra Leone]
+in_region: true
 tags: [species, generated]
 ---
 # *Polystachya puberula* Lindl.

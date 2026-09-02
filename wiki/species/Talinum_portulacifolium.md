@@ -5,12 +5,11 @@ authority: (Forsk.) Asch. ex Schweinf.
 genus: Talinum
 family: Portulacaceae
 synonyms: [Orygia portulacifolia, Talinum cuneifolium]
-countries: [Gabon]
 range_note: "Intertropical and southern Africa, Arabia and India."
-countries_incomplete: true
-in_region: true
-habit: perennial herb
 treatments: [{vol: 7, pages: "69–72", source: sources/Portulacaceae_vol7_paddle}]
+countries: [Gabon]
+in_region: true
+habit: "herb"
 tags: [species]
 ---
 

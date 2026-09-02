@@ -7,6 +7,9 @@ family: Rubiaceae
 vol: 12
 pages: 140-141
 source: sources/Rubiaceae_vol12_paddle
+countries: [Cameroon, Central African Republic, Democratic Republic of the Congo, Gabon]
+in_region: true
+habit: "shrub"
 tags: [species, generated]
 ---
 # *Pseudomussaenda stenocarpa* (Hiern) Petit (P.L. 27)
@@ -45,11 +48,11 @@ G. Le Testu : 8945, Mbélé, Djoua (fl. oct.); 9068, Mimvoul (fl. et fr. avril).
 
 ![Pseudomussaenda stenocarpa](../sources/Rubiaceae_vol12_paddle/figures/fig_030_p0129.png)
 
-*PL. 24. — Placentation des Mussaendées (1 Mussaendinae) : 1, Heinsia crinita (fleur); 2, Pseudomussaenda stenocarpa (bout.); 2 a et b, id. (fr.); 3, Mussaenda isertiana (j. fr.); 3 a, M. erythrophylla (fl.); 4, Stipularia africana (bout.); 5, Sabicea efulenensis (fl.); 6, S. pilosa (bout.); 7, S. fulva (fl.); 8, S. carbunica (fl.); 9, S. longepeitiolata (fl.); 10, Pseudosabica aurifodinae (bout.); 11, Ps. proselyla (fr.); 12, Ps. mitisphaera (fr.); 13, Ps. floribunda (j. fr.); 14, Ps. Mildbraedii (j. fr.); 15, Ecpoma Hiernianum (fr.).*
+*PL. 24. — Placentation of Mussaendeae (1 Mussaendinae) : 1, Heinsia crinita (flower); 2, Pseudomussaenda stenocarpa (bud); 2 a et b, id. (fruit); 3, Mussaenda isertiana (young fruit); 3 a, M. erythrophylla (fl.); 4, Stipularia africana (bud); 5, Sabicea efulenensis (fl.); 6, S. pilosa (bud); 7, S. fulva (fl.); 8, S. carbunica (fl.); 9, S. longepeitiolata (fl.); 10, Pseudosabica aurifodinae (bud); 11, Ps. proselyla (fruit); 12, Ps. mitisphaera (fruit); 13, Ps. floribunda (young fruit); 14, Ps. Mildbraedii (young fruit); 15, Ecpoma Hiernianum (fruit).*
 
 ![Pseudomussaenda stenocarpa](../sources/Rubiaceae_vol12_paddle/figures/fig_033_p0139.png)
 
-*PL. 27. — Pseudomussaenda stenocarpa (Hiern) Petit : 1, rameau florifère × 3/4; 2, coupe du bouton longistyle; 3, préfloraison (j. bout.); 4, étamine; 5, stigmate; 6, infrutescence; 7, coupe transversale du fruit; 8, deux graines, hile en bas, et une vue par dessus. — 1 à 3, N. Hallé 1429; 4 et 5, Le Testu 9068 (longistyle); 6 à 8, A. Chevalier 10923.*
+*PL. 27. — Pseudomussaenda stenocarpa (Hiern) Petit : 1, flowering branch × 3/4; 2, section of longistyle bud; 3, prefloration (young bud); 4, stamen; 5, stigma; 6, infructescence; 7, transverse section of fruit; 8, two seeds, hilum below, and one view from above. — 1 to 3, N. Hallé 1429; 4 and 5, Le Testu 9068 (longistyle); 6 to 8, A. Chevalier 10923.*
 
 ## Notes
 

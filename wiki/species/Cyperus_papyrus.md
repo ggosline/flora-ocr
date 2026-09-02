@@ -7,6 +7,12 @@ family: Cyperaceae
 vol: 44
 pages: 69-70
 source: sources/Cyperaceae_vol44_liteparse
+countries: [Gabon]
+in_region: true
+subdivisions:
+  Gabon: [Moyen-Ogooué, Nyanga, Ogooué-Maritime]
+habit: "herb"
+altitude_m: "100"
 tags: [species, generated]
 ---
 # *Cyperus papyrus* L. Planche 41

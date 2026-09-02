@@ -6,6 +6,12 @@ genus: Ocimum
 vol: 58
 pages: 79-81
 source: sources/Labiataeulmaceaeverbenaceae_vol58_liteparse
+countries: [Angola, Cameroon, Central African Republic, Democratic Republic of the Congo, Equatorial Guinea, Gabon, Nigeria, Republic of the Congo]
+in_region: true
+subdivisions:
+  Gabon: [Estuaire, Ngounié, Ogooué-Ivindo]
+habit: "herb"
+altitude_m: "0–150"
 tags: [species, generated]
 ---
 # *Ocimum americanum* L. Planche 19(3-7)

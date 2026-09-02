@@ -7,6 +7,13 @@ family: Convolvulaceae
 vol: 46
 pages: 19-21
 source: sources/Convolvulaceae_vol46_liteparse
+countries: [Democratic Republic of the Congo, Gabon, Republic of the Congo, Senegal]
+in_region: true
+subdivisions:
+  Gabon: [Moyen-Ogooué, Ogooué-Lolo, Woleu-Ntem]
+habit: "liana"
+habitat: [secondary forest]
+altitude_m: "300–500"
 tags: [species, generated]
 ---
 # *Calycobolus africanus* (G.Don) Heine Planche 6

@@ -7,6 +7,12 @@ family: Scrophulariaceae
 vol: 48
 pages: 113-115
 source: sources/Scrophulariaceae_vol48_liteparse
+countries: [Angola, Benin, Burundi, Cameroon, Central African Republic, Chad, Cote d'Ivoire, Democratic Republic of the Congo, Gabon, Ghana, Guinea, Kenya, Malawi, Nigeria, Republic of the Congo, Sierra Leone, Sudan, Tanzania, Togo, Uganda, Zambia, Zimbabwe]
+in_region: true
+subdivisions:
+  Gabon: [Haut-Ogooué, Ngounié, Nyanga, Ogooué-Ivindo]
+habit: "herb"
+altitude_m: "2500"
 tags: [species, generated]
 ---
 # *Cycnium adonense* E.Mey. ex Benth. subsp. camporum (Engl.) O.Hansen

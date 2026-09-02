@@ -7,6 +7,9 @@ family: Sapindaceae
 vol: 23
 pages: 134-134
 source: sources/Sapindaceae_vol23_paddle
+countries: [Cameroon, Central African Republic, Democratic Republic of the Congo]
+in_region: true
+habit: "tree"
 tags: [species, generated]
 ---
 # *Placodiscus augustifolius* Radlkofer

@@ -7,6 +7,12 @@ family: Leguminosae
 vol: 49
 pages: 325-328
 source: sources/Millettiaspeciesfabaceae_vol49_liteparse
+countries: [Angola, Cameroon, Gabon, Sudan]
+in_region: true
+subdivisions:
+  Gabon: [Estuaire, Nyanga, Ogooué-Maritime, Woleu-Ntem]
+habit: "herb"
+altitude_m: "50"
 tags: [species, generated]
 ---
 # *Psophocarpus scandens* (Endl.) Verdc. Planche 107

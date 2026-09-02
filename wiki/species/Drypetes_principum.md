@@ -7,6 +7,11 @@ family: Putranjivaceae
 vol: 57
 pages: 157-160
 source: sources/Putranjivaceae_vol57_paddle
+countries: [Cameroon, Cote d'Ivoire, Equatorial Guinea, Gabon, Ghana, Guinea, Liberia, Nigeria, Sao Tome and Principe, Sierra Leone]
+in_region: true
+subdivisions:
+  Gabon: [Ogooué-Ivindo]
+habit: "tree"
 tags: [species, generated]
 ---
 # *Drypetes principum* (Müll.Arg.) Hutch.

@@ -7,6 +7,10 @@ family: Rubiaceae
 vol: 17
 pages: 53-54
 source: sources/Rubiaceae_vol17_paddle
+countries: [Cameroon, Democratic Republic of the Congo, Gabon]
+in_region: true
+habit: "shrub"
+altitude_m: "950"
 tags: [species, generated]
 ---
 # *Bertiera lloraria* N. Hallé

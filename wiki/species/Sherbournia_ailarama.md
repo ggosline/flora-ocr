@@ -7,6 +7,8 @@ family: Rubiaceae
 vol: 17
 pages: 148-154
 source: sources/Rubiaceae_vol17_paddle
+countries: [Angola, Cameroon, Central African Republic, Gabon, Ghana, Sierra Leone]
+in_region: true
 tags: [species, generated]
 ---
 # *Sherbournia ailarama* N. Hallé, sp. nov.
@@ -16,17 +18,15 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 (PL. 33, p. 147)
 
-Scandens, volubilis, internodiis glabrescentibus. Stipulæ ellipticae 9-15 mm longæ subobtusæ. Petiolus puberulus. Lamina ctro-olivacea papyracea elliptica basi cuneata, apice arcuato-acuminata, utraque pagina glabra; nervi laterales 7-8 (9) jugi subtus apresso-pilosi. Flores flavi plerumque solitarii, basi calycis squamula basilari, lata amplexicauli 6-9 mm longa muniti. Fructus 10-costatus, lamina calycis tenui persistente, tubo puberulo paulum laxato, lobis foliaceis fere glabris oblongo-ellipticis attenuatis 21-30 mm longis ad basin vix vel haud imbricatis. Aff. Sh. bignoniﬂore (Welw.) Hua var. Brazzei (Hua) N. Hallé sed fructu 10-costato calyce conspicuo valde differt; aff. etiam Sh. Zenkeri Hua sed pubescentia minima, nervis arcuatis maxime 9 differt.
+Climbing, voluble, internodes glabrescent. Stipules elliptic 9-15 mm long subobtuse. Petiole puberulous. Blade ctro-olivaceous papyraceous elliptic cuneate at base, arcuate-acuminate at apex, both surfaces glabrous; lateral nerves 7-8 (9) pairs appressed-pilose beneath. Flowers yellow mostly solitary, at base of calyx with a basal squamule, broad amplexicaul 6-9 mm long. Fruit 10-ribbed, calyx limb thin persistent, tube puberulous slightly lax, lobes foliaceous nearly glabrous oblong-elliptic attenuate 21-30 mm long at base scarcely or not imbricate. Aff. Sh. bignoniflore (Welw.) Hua var. Brazzei (Hua) N. Hallé but differs by 10-ribbed fruit with conspicuous calyx; aff. also Sh. Zenkeri Hua but differs by minimal pubescence, arcuate nerves at most 9.
 
-Liane volubile dépassant 6 m de hauteur. Entrencéurs juvé-niles pubescents puis rapidement glabrescents, à épiderme gris ochracé caduc par desquamation. Stipules pubescentes, elliptiques de 9-16 × 4-7 mm, vert-olive ou ± rougeâtres in vivo. Pétioles de 6-16 (20) mm, finement pubescents. Limbe mince, olivâtre à sec, glabre sur les deux faces, elliptique de 10-19 × 3-7 cm, à base aiguë ± longuement atténuée; sommet à acumen souvent arqué. Nervure médiane à fine pubescence apprimée à la face inférieure ainsi que les (6) 7-8 (9) paires de nervures secondaires; pubescence marginale médiocre; fin réseau moyennement apparent à la face inférieure.
+Climbing liane exceeding 6 m in height. Juvenile internodes pubescent then rapidly glabrescent, with grey ochraceous epidermis deciduous by exfoliation. Stipules pubescent, elliptic 9-16 × 4-7 mm, olive-green or ± reddish in vivo. Petioles 6-16 (20) mm, finely pubescent. Blade thin, olivaceous when dry, glabrous on both surfaces, elliptic 10-19 × 3-7 cm, with acute base ± long attenuate; apex with often arcuate acumen. Midvein with fine appressed pubescence on the lower surface as well as the (6) 7-8 (9) pairs of secondary nerves; marginal pubescence moderate; fine reticulum moderately apparent on the lower surface.
 
-Fleurs solitaires, rarement par 2; pédoncule court; pédicelle variable atteignant parfois 5-6 mm; base du calice entourée par une large écaille foliacée amplexicaule longue de 6-10 mm, biapiculée. Bouton très aigu. Calice à limbe mince, à tube légèrement évasé, haut de 5-10 mm, finement pubescent extérieurement, densément pubescent à l'intérieur, à 5 lobes verts parfois bordés de rouge à pubescence rare, atténués ou oblongs lancéolés de 21-30 × 5-8 mm, semi-érigés arqués. Corolle jaune d'or; tube de 35 × 1/4 mm, pourpré à l'intérieur; 5 lobes aigu. de 18 × 1/4 mm. Style de 16 mm dont la massue de 15 × 4 mm. Disque haut de 1 mm et de 4 mm de diamètre.
+Flowers solitary, rarely 2; pedicel short; pedicel variable sometimes reaching 5-6 mm; base of calyx surrounded by a broad foliaceous amplexicaul scale 6-10 mm long, biapiculate. Bud very acute. Calyx with thin limb, tube slightly flared, 5-10 mm high, finely pubescent externally, densely pubescent internally, with 5 green lobes sometimes red-edged with sparse pubescence, attenuate or oblong lanceolate 21-30 × 5-8 mm, semi-erect arcuate. Corolla golden yellow; tube 35 × 1/4 mm, purplish inside; 5 acute lobes 18 × 1/4 mm. Style 16 mm with club 15 × 4 mm. Disc 1 mm high and 4 mm in diameter.
 
-Fruit elliptique orné de 10 côtes saillantes, jaune orangé à maturité, de 20-28 mm de diamètre sur le vif, à épiderme très finement pubescent de façon lâche. Deux loges à très nombreuses graines brun rougeâtre, ovées comprimées, de 1,5-2 mm, à testa orné de 5-6 rides ± sinueuses.
+Fruit elliptic adorned with 10 prominent ribs, orange-yellow at maturity, 20-28 mm in diameter in the fresh state, with very finely loosely pubescent epidermis. Two locules with very numerous reddish-brown seeds, ovate compressed, 1.5-2 mm, with testa ornamented with 5-6 ± sinuous ridges.
 
 ## Type
 
@@ -82,19 +82,17 @@ G. Le Testu 7645, Lastoursville (fl. nov.); cet échantillon mérite une place i
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Cette espèce assez variable a une large répartition dans les régions forestières guinéo-congolaises. Il semble que dans la partie occidentale de son aire, de la Sierra Leone au Ghana, elle ne soit pas toujours facile à distinguer du Sh. calycina (G. Don) Hua. La délimitation morphologique est peut-être moins nette encore avec certains spécimens de Sh. Brazzaei (Cameroun, Gabon, Centrafrique, Congo et Angola), dont certains caractères sont variables comme la base du limbe cunée ou non.
+This rather variable species has a wide distribution in the Guineo-Congolian forest regions. It appears that in the western part of its range, from Sierra Leone to Ghana, it is not always easy to distinguish from Sh. calycina (G. Don) Hua. The morphological delimitation is perhaps even less clear with certain specimens of Sh. Brazzaei (Cameroon, Gabon, Central African Republic, Congo and Angola), of which certain characters are variable such as the blade base cuneate or not.
 
 ## Figures
 
 ![Sherbournia ailarama](../sources/Rubiaceae_vol17_paddle/figures/fig_033_p0149.png)
 
-*PL. 33. — Sherbournia ailarama N. H. (N. H. 4496) : 1, rameau flor. × 0,75; 2, stipule; 3, bouton floral; 4, coupe de fleur; 5, nervation d'un sépale; 6, anthère de 14 mm; 7, coupe transversale de l'anthère; 8, détail du sommet du stigmate réhydraté; 9, disque de 3,8 mm de diam.; 10, coupe de l'ovaire réhydraté, diam. 5 mm; 11, fruit mùr; 12, coupe du fruit mùr sur le vif; 13, graine de 2 mm.*
+*PL. 33. — Sherbournia ailarama N. H. (N. H. 4496) : 1, flowering branch × 0.75; 2, stipule; 3, flower bud; 4, flower section; 5, venation of a sepal; 6, anther of 14 mm; 7, transverse section of the anther; 8, detail of the apex of the rehydrated stigma; 9, disc of 3.8 mm diam.; 10, section of the rehydrated ovary, diam. 5 mm; 11, mature fruit; 12, section of mature fruit fresh; 13, seed of 2 mm.*
 
 ![Sherbournia ailarama](../sources/Rubiaceae_vol17_paddle/figures/fig_034_p0153.png)
 
-*PL. 34. — Sherbournia bignoniiflora (Welw.) Hua (Le Testu 1193); 1, boutons × 1; 2, fleur × 1. — Sh. buccularia N. Hallé (fl. N. H. 4301; fr. N. H. 824) : 3, rameau florifère × 1; 4, stipule longue de 16 mm; 5, sépale; 6, coupe de la corolle; 7, anthère longue de 11 mm; 8, style et disque × 2; 9, rameau fructifère; 10, et 11, coupes du fruit × 1; 12, graine × 10.*
+*PL. 34. — Sherbournia bignoniiflora (Welw.) Hua (Le Testu 1193); 1, buds × 1; 2, flower × 1. — Sh. buccularia N. Hallé (fl. N. H. 4301; fr. N. H. 824) : 3, flowering branch × 1; 4, stipule 16 mm long; 5, sepal; 6, section of the corolla; 7, anther 11 mm long; 8, style and disc × 2; 9, fruiting branch; 10, and 11, fruit sections × 1; 12, seed × 10.*
 
 ## Notes
 

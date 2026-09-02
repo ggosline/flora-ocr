@@ -7,6 +7,10 @@ family: Cyperaceae
 vol: 44
 pages: 180-181
 source: sources/Cyperaceae_vol44_liteparse
+countries: [Cameroon, Gabon]
+in_region: true
+habit: "herb"
+habitat: [secondary forest]
 tags: [species, generated]
 ---
 # *Mapania raynaliana* D.A.Simpson Planche 114

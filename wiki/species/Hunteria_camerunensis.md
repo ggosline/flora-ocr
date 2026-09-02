@@ -7,6 +7,11 @@ family: Apocynaceae
 vol: 59
 pages: 96-96
 source: sources/Apocynaceae_vol59_liteparse
+countries: [Cameroon, Gabon]
+in_region: true
+subdivisions:
+  Gabon: [Ogooué-Ivindo, Ogooué-Lolo, Woleu-Ntem]
+habit: "shrub"
 tags: [species, generated]
 ---
 # *Hunteria camerunensis* K.Schum. ex Hallier f. Planche 38

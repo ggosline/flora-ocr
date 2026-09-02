@@ -7,6 +7,13 @@ family: Ochnaceae
 vol: 48
 pages: 70-71
 source: sources/Ochnaceae_vol48_liteparse
+countries: [Cameroon, Cote d'Ivoire, Democratic Republic of the Congo, Equatorial Guinea, Gabon, Ghana, Guinea, Liberia, Republic of the Congo, Sao Tome and Principe, Sierra Leone, Uganda]
+in_region: true
+subdivisions:
+  Gabon: [Estuaire, Moyen-Ogooué, Ogooué-Ivindo]
+habit: "tree"
+habitat: [secondary forest, rocky ground]
+altitude_m: "50–300"
 tags: [species, generated]
 ---
 # *Idertia morsonii* (Hutch. & Dalz.) Farron, Bull. Soc. Bot. Suisse ( Ber. Schweiz. Bot.

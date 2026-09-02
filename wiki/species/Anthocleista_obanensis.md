@@ -7,6 +7,9 @@ family: Loganiaceae
 vol: 19
 pages: 12-13
 source: sources/Loganiaceae_vol19_paddle
+countries: [Cameroon, Gabon, Nigeria]
+in_region: true
+habit: "liana"
 tags: [species, generated]
 ---
 # *Anthocleista obanensis* Wernham
@@ -48,7 +51,7 @@ Hallé N. 2239, Abanga (fr. non mûrs, juin). Hallé N. & Le Thomas 79 et 688, B
 
 ![Anthocleista obanensis](../sources/Loganiaceae_vol19_paddle/figures/fig_005_p0022.png)
 
-*PL. 5. — Anthocleista obanensis Wernham : 1, rameau; 2, inflorescence; 3 à 5, boutons; 6, fleur; 7, calice avec pistil; 8 et 9, fruits non mûrs; 10, fruit; 11 et 12, feuilles. (1-12 × ½). (1 : d'après Onochie FHI 34272, K et Talbot 305, Z; 2-4 : d'après Keay FHI 28049, K; 5-6 : d'après Talbot 305, Z; 8, 12 : d'après Talbot 3025, K, tous éch. Nigeria; 7-9 : d'après Dubois 118; 10 : d'après Pierlot 1915; 11 : d'après A. Léonard 2469, tous éch. Congo-Kinshasa, BR).*
+*PL. 5. — Anthocleista obanensis Wernham : 1, branch; 2, inflorescence; 3 to 5, buds; 6, flower; 7, calyx with pistil; 8 and 9, unripe fruits; 10, fruit; 11 and 12, leaves. (1-12 × ½). (1 : after Onochie FHI 34272, K and Talbot 305, Z; 2-4 : after Keay FHI 28049, K; 5-6 : after Talbot 305, Z; 8, 12 : after Talbot 3025, K, all specimens Nigeria; 7-9 : after Dubois 118; 10 : after Pierlot 1915; 11 : after A. Léonard 2469, all specimens Congo-Kinshasa, BR).*
 
 ## Notes
 

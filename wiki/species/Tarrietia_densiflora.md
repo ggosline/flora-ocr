@@ -7,6 +7,7 @@ family: Sterculiaceae
 vol: 02
 pages: 30-34
 source: sources/Sterculiaceae_vol02_paddle
+habit: "tree"
 tags: [species, generated]
 ---
 # *Tarrietia densiflora* (Pellegr.) Aubr. et Normand.
@@ -21,25 +22,21 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Ogoué
 
-0goué
-
-réf. orig.; Sterc. Gab., Mém. S.B.Fr. : 44 (1950-1951). — AUBR. et NORM., Bull. S.B.Fr. 104 : 495 (1958),
+ref. orig.; Sterc. Gab., Mém. S.B.Fr.: 44 (1950-1951). — AUBR. et NORM., Bull. S.B.Fr. 104: 495 (1958),
 
 descr. lat. — Kosterm. Madj. I; Reinw. 4: 533 (1959). — F.F.C.I., 2° ed. II: 298 (1959).
 
-Grand arbre dépassant 20 m de haut et 40 cm de diamètre. Jeunes extrémités brunes pubérulentes (poils stellés). Stipules aiguës de 6-12 mm, rapidement caduques. Pétioles de 3-45 cm de long, glabre dans les feuilles âgées. Feuilles entières ou 2-7 digitilobées, jamais digiti-composées, de 10-45 cm de long, sur 5-30 cm de large, glabres dessus, revêtues dessous de petits poils écailleux uniformes non contigus. Sommet du limbe ou des lobes acuminés aigus, base plus ou moins largement obtuse. Nervures secondaires 10-20 de chaque côté de la médiane.
+Large tree exceeding 20 m in height and 40 cm in diameter. Young shoots brown, puberulent (stellate hairs). Stipules acute, 6–12 mm, rapidly caducous. Petioles 3–45 cm long, glabrous in mature leaves. Leaves entire or 2–7 digitilobate, never digiticomposite, 10–45 cm long, 5–30 cm wide, glabrous above, clothed beneath with small, uniform, scaly hairs not contiguous. Apex of blade or lobes acute and acuminate, base more or less broadly obtuse. Secondary veins 10–20 on each side of the midrib.
 
-Inflorescences axillaires en grappes de fascicules ou en grappes paniculées étroites et plus ou moins denses, d'env. 8-11 cm de long, fauves pubérulentes. Bractéoles caduques de 6-10 mm de long sur 3 mm de large. Pédicelles grêles de 6-10 mm. Bouton floral atteignant 6 mm de long. Calice atteignant 6-9 mm de long, à 4 ou 5 lobes aussi longs ou un peu plus courts que le tube qui est vêtu de poils stellés bruns à l'extérieur, et quasi glabre à l'intérieur. Fleur ♂ à disque charnu glabre; androphore étroit de près de 1 mm de long; couronne staminale petite de 4-5 étanines égales. Fleur ♀ à ovaire pubescent 5 carpellé, de moins de 2 mm de diamètre, séparé du disque par une couronne de 5 anthères et surmonté par 5 petits stigmates adhérents entre eux.
+Inflorescences axillary in racemes of fascicles or in narrow and more or less dense paniculate racemes, approximately 8–11 cm long, fulvous-puberulent. Bracteoles caducous, 6–10 mm long by 3 mm wide. Pedicels slender, 6–10 mm. Floral bud reaching 6 mm long. Calyx reaching 6–9 mm long, with 4 or 5 lobes as long as or somewhat shorter than the tube, which is clothed with brown stellate hairs externally and nearly glabrous internally. Male flower with a glabrous fleshy disk; androphore narrow, nearly 1 mm long; small staminodial corona of 4–5 equal stamens. Female flower with pubescent 5-carpellate ovary, less than 2 mm in diameter, separated from the disk by a corona of 5 anthers and topped by 5 small stigmas adnate to each other.
 
-Fruit non connu.
+Fruit unknown.
 
-Type de l'espèce : Rabourdin s.n., du Gabon (P.).
+Type of the species: Rabourdin s.n., from Gabon (P.).
 
-Ce Tarrietia croît en sol silico-argileux dans les régions basses et humides (Joly). Le bois, assez dense, a une structure semblable à celle du Niangon (Normand). Deux qualités, sensiblement différentes par leur densité, paraissent correspondre aux appellations d'Ogoué-mâle ou d'Ogoué-femelle. La valeur botanique de ces deux types reste à préciser. Le Niangon (T. utilis Sprague), bien connu de la Sierra Leone au Ghana, a des feuilles souvent digitées-composées jamais digitilobées; le revêtement de poils
-
-écailleux de la face inférieure du limbe est différent; sa graine comestible a une saveur de noisette.
+This Tarrietia grows in silico-argillaceous soil in low and humid regions (Joly). The wood, fairly dense, has a structure similar to that of Niangon (Normand). Two qualities, appreciably different in their density, appear to correspond to the designations of Ogoué-male or Ogoué-female. The botanical value of these two types remains to be clarified. Niangon (T. utilis Sprague), well known from Sierra Leone to Ghana, has leaves often digitately composite, never digitilobate; the covering of scaly hairs on the lower surface of the blade is different; its edible seed has a hazelnut flavor.
 
 ## Vernacular names
 
@@ -91,11 +88,11 @@ Fruit composé d'un grand nombre de follicules insérés autour d'un réceptacle
 
 ![Tarrietia densiflora](../sources/Sterculiaceae_vol02_paddle/figures/fig_001_p0007.png)
 
-*PL. I. — Fleurs ouvertes en long : 1, Sterculia tragacantha ♂. — 2, Eribroma oblonga ♂. — 3, Pterygota bequaertii ♂. — 4, Tarrietia densiflora ♂. — 5, Chlamydocolachlamydanta ♂. — 6, Cola acuminata ♂. — 7, Cola (Neocourtenia) mahoundensis ♂. — 8, Octolobus heteromerus ♂. — 9, Triplochiton scleroxylon. — 10, Theobroma cacao. — 11, Scaphopetalum blackii. — 12, Byttneria grossedenticulata. — 13, Nesogordonia fouassieri. — 14, Leptonychia lasiogyne. — 15, Waltheria indica.*
+*PL. I. — Flowers opened lengthwise : 1, Sterculia tragacantha ♂. — 2, Eribroma oblonga ♂. — 3, Pterygota bequaertii ♂. — 4, Tarrietia densiflora ♂. — 5, Chlamydocolachlamydanta ♂. — 6, Cola acuminata ♂. — 7, Cola (Neocourtenia) mahoundensis ♂. — 8, Octolobus heteromerus ♂. — 9, Triplochiton scleroxylon. — 10, Theobroma cacao. — 11, Scaphopetalum blackii. — 12, Byttneria grossedenticulata. — 13, Nesogordonia fouassieri. — 14, Leptonychia lasiogyne. — 15, Waltheria indica.*
 
 ![Tarrietia densiflora](../sources/Sterculiaceae_vol02_paddle/figures/fig_006_p0031.png)
 
-*PL. VI. — Tarrietia densiflora (Pellegr.) Aubr. et Norm. : 1, 2 et 3, types de feuilles; 4, poil du dessous du limbe (diam. 1/4 de mm); 5, rameau florifère (x 2/3); 6, bractéole inflorescentielle protectrice des jeunes fascicules floraux (long. 10 mm); 7, bouton floral; 8, androcée dans le fond du calice en coupe; 9, couronne staminale vue par dessus; 10, fleur ♀; 11, gynécée dans le fond du calice en coupe; 12, vue apicale du gynécée.*
+*PL. VI. — Tarrietia densiflora (Pellegr.) Aubr. et Norm. : 1, 2 and 3, leaf types; 4, hair from the underside of the limb (diam. 1/4 mm); 5, flowering branch (x 2/3); 6, inflorescence bract protecting young flower fascicles (length 10 mm); 7, flower bud; 8, androecium in the base of the calyx in section; 9, staminal crown viewed from above; 10, ♀ flower; 11, gynoecium in the base of the calyx in section; 12, apical view of the gynoecium.*
 
 ## Notes
 

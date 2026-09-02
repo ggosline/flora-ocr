@@ -7,6 +7,8 @@ family: Rubiaceae
 vol: 12
 pages: 188-190
 source: sources/Rubiaceae_vol12_paddle
+countries: [Sierra Leone]
+in_region: false
 tags: [species, generated]
 ---
 # *Sabicea calycina* Benth. (Fig. 5, 1-3)
@@ -49,7 +51,7 @@ R. P. Klaine : 2684 (fl. et j. fr. janv.), 2808 (fr. fév.), 2847 (fr. mars), 29
 
 ![Sabicea calycina](../sources/Rubiaceae_vol12_paddle/figures/fig_049_p0188.png)
 
-*Fig. 5.— Sabicea calycina Benth. (N. Hallé 1722): 1, inflorescence, et 2, infrutescence, gr. nat.; 3, fruit immature.— S. capitellata Benth. (N. Hallé 1102): 4, inflorescence × 3/2; 5, diagramme de l'inflorescence; 6, diagramme d'une autre inflorescence (Jacques-Félix 2550).*
+*Fig. 5.— Sabicea calycina Benth. (N. Hallé 1722): 1, inflorescence, and 2, infructescence, nat. size; 3, immature fruit.— S. capitellata Benth. (N. Hallé 1102): 4, inflorescence × 3/2; 5, diagram of the inflorescence; 6, diagram of another inflorescence (Jacques-Félix 2550).*
 
 ## Notes
 

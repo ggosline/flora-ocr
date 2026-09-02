@@ -7,6 +7,12 @@ family: Alismataceae
 vol: 38
 pages: 10-10
 source: sources/Alismataceae_vol38_liteparse
+countries: [Angola, Cameroon, Central African Republic, Chad, Democratic Republic of the Congo, Gabon, Mali, Niger, Nigeria, Senegal, Sudan, Tanzania, Zambia]
+in_region: true
+subdivisions:
+  Gabon: [Ogooué-Ivindo, Woleu-Ntem]
+habit: "herb"
+altitude_m: "1500"
 tags: [species, generated]
 ---
 # *Ranalisma humile* (Kunth) Hutch.

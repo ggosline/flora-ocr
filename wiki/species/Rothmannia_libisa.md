@@ -7,6 +7,7 @@ family: Rubiaceae
 vol: 17
 pages: 251-252
 source: sources/Rubiaceae_vol17_paddle
+habit: "shrub"
 tags: [species, generated]
 ---
 # *Rothmannia libisa* N. Hallé, sp. nov.

@@ -7,6 +7,7 @@ family: Melastomataceae
 vol: 25
 pages: 58-60
 source: sources/Melastomataceae_vol25_paddle
+habit: "herb"
 tags: [species, generated]
 ---
 # *Gravesia gabonensis* Jacques-Félix
@@ -41,7 +42,7 @@ Hallé N. & Le Thomas 376, Mékambo, forêt humide entre rivières Djaddié et L
 
 ![Gravesia gabonensis](../sources/Melastomataceae_vol25_paddle/figures/fig_020_p0059.png)
 
-*PL. 20. — Gravesia gabonensis Jacq.-Fél. : 1, plante entière × 2/3; 2, pétale × 6; 3, étamines × 6; 4, style × 6; 5, capsule × 4; 6, placentas × ± 6; 7, graine × 32 (Hallé N. & Le Thomas 376). (Repris d'Adansonia, sér. 2, 13 (4) : tab. 1, 1973).*
+*PL. 20. — Gravesia gabonensis Jacq.-Fél. : 1, entire plant × 2/3; 2, petal × 6; 3, stamens × 6; 4, style × 6; 5, capsule × 4; 6, placentas × ± 6; 7, seed × 32 (Hallé N. & Le Thomas 376). (Taken from Adansonia, ser. 2, 13 (4) : tab. 1, 1973).*
 
 ## Notes
 

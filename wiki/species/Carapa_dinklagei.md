@@ -7,6 +7,12 @@ family: Meliaceae
 vol: 47
 pages: 17-18
 source: sources/Meliaceae_vol47_liteparse
+countries: [Cameroon, Equatorial Guinea, Gabon, Nigeria]
+in_region: true
+subdivisions:
+  Gabon: [Estuaire]
+habit: "tree"
+altitude_m: "500"
 tags: [species, generated]
 ---
 # *Carapa dinklagei* Harms

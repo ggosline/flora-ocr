@@ -7,6 +7,12 @@ family: Cyperaceae
 vol: 44
 pages: 80-81
 source: sources/Cyperaceae_vol44_liteparse
+countries: [Gabon]
+in_region: true
+subdivisions:
+  Gabon: [Ogooué-Ivindo, Ogooué-Maritime]
+habit: "herb"
+altitude_m: "500"
 tags: [species, generated]
 ---
 # *Cyperus tisserantii* Cherm. Figure 5a

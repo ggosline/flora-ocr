@@ -7,6 +7,12 @@ family: Cyperaceae
 vol: 44
 pages: 60-62
 source: sources/Cyperaceae_vol44_liteparse
+countries: [Gabon]
+in_region: true
+subdivisions:
+  Gabon: [Ogooué-Ivindo]
+habit: "herb"
+altitude_m: "0–1200"
 tags: [species, generated]
 ---
 # *Cyperus imbricatus* Retz. Planche 34

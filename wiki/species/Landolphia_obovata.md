@@ -7,6 +7,7 @@ family: Apocynaceae
 vol: 59
 pages: 143-145
 source: sources/Apocynaceae_vol59_liteparse
+habit: "liana"
 tags: [species, generated]
 ---
 # *Landolphia obovata* O.Lachenaud & Jongkind Planche 62

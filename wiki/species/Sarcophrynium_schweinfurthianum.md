@@ -8,6 +8,9 @@ vol: 09
 pages: 152-153
 source: sources/Marantaceae_vol09_paddle
 also_in_vols: [09]
+countries: [Cameroon, Central African Republic, Democratic Republic of the Congo, Gabon, Sudan, Uganda]
+in_region: true
+habit: "herb"
 tags: [species, generated]
 ---
 # *Sarcophrynium schweinfurthianum* (O. Ktze.) M.-Redh.

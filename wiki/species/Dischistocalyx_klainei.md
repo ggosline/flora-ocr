@@ -7,6 +7,7 @@ family: Acanthaceae
 vol: 13
 pages: 26-27
 source: sources/Acanthaceae_vol13_paddle
+habit: "herb"
 tags: [species, generated]
 ---
 # *Dischistocalyx klainei* R. Benoist

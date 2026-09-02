@@ -7,6 +7,9 @@ family: Orchidaceae
 vol: 37
 pages: 183-185
 source: sources/Orchidaceae_vol37_paddle
+countries: [Gabon]
+in_region: true
+habitat: [mangrove]
 tags: [species, generated]
 ---
 # *Dinklageella villiersii* Szlach. & Olsz.

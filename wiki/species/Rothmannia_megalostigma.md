@@ -7,6 +7,9 @@ family: Rubiaceae
 vol: 17
 pages: 244-246
 source: sources/Rubiaceae_vol17_paddle
+countries: [Cameroon, Central African Republic, Cote d'Ivoire, Gabon, Ghana, Liberia, Mali, Nigeria, Sierra Leone]
+in_region: true
+habit: "tree"
 tags: [species, generated]
 ---
 # *Rothmannia megalostigma* (Wernh.) Keay
@@ -45,7 +48,7 @@ Le Testu 8147, Lastoursville (fl. juin); 8716, Bangoussou, région de Lastoursvi
 
 ![Rothmannia megalostigma](../sources/Rubiaceae_vol17_paddle/figures/fig_058_p0247.png)
 
-*PL. 57. — Rothmannia megalostigma (Wernh.) Keay (fl. Le Testu 8147; fr. Guigonis 2562) : I, sommet de la feuille; 2, fleur × 0,75; 3, coupe transversale de l'anthère; 4, fruit × 0,75; 5, graine de 10 mm. — R. Lujae (De Wild.) Keay (fl. Le Testu 7691; fr. N. Hallé 1144) : 6, sommet de la feuille; 7, sommet du bouton; 8, fleur × 0,75; 9, coupe transversale de l'anthère; 10, fruit × 0,6; 11, détail de coupe transversale du fruit; 12, graine de 9 mm (Breteler 913).*
+*PL. 57. — Rothmannia megalostigma (Wernh.) Keay (fl. Le Testu 8147; fr. Guigonis 2562) : 1, apex of leaf; 2, flower × 0.75; 3, transverse section of anther; 4, fruit × 0.75; 5, seed of 10 mm. — R. Lujae (De Wild.) Keay (fl. Le Testu 7691; fr. N. Hallé 1144) : 6, apex of leaf; 7, apex of bud; 8, flower × 0.75; 9, transverse section of anther; 10, fruit × 0.6; 11, detail of transverse section of fruit; 12, seed of 9 mm (Breteler 913).*
 
 ## Notes
 

@@ -7,6 +7,8 @@ family: Connaraceae
 vol: 33
 pages: 115-117
 source: sources/Connaraceae_vol33_paddle
+countries_incomplete: true
+habit: "liana"
 tags: [species, generated]
 ---
 # *Rourea cassioides* Hiern
@@ -53,7 +55,7 @@ Breteler & al. 9896, près de Lastoursville (st., Avr.), WAG. Florence 2018, 10 
 
 ![Rourea cassioides](../sources/Connaraceae_vol33_paddle/figures/fig_040_p0116.png)
 
-*PL. 34. – Rourea cassioides Hiern : 1, jeune rameau florifère × 2/3 ; 2, 4, folioles, nervation de la face inf. × 2 : 3 ; 5, 6, jeune rameau fructifère, un fruit montrant une graine × 2/3 ; 7, graine, partie du testa retirée pour voir les cotylédons × 2 ; 8, 9, cotylédons avec radicule apicale × 4. (1. Breteler 1284 ; 2-4. Le Testu 4645 ; 5. Compère 1160 ; W. de Wilde 2637). – Repris de AUWP 89 (6).*
+*PL. 34. – Rourea cassioides Hiern : 1, young flowering branch × 2/3 ; 2, 4, leaflets, venation of lower surface × 2 : 3 ; 5, 6, young fruiting branch, a fruit showing a seed × 2/3 ; 7, seed, part of testa removed to see the cotyledons × 2 ; 8, 9, cotyledons with apical radicle × 4. (1. Breteler 1284 ; 2-4. Le Testu 4645 ; 5. Compère 1160 ; W. de Wilde 2637). – Reprinted from AUWP 89 (6).*
 
 ## Notes
 

@@ -7,6 +7,8 @@ family: Leguminosae
 vol: 31
 pages: 45-48
 source: sources/Leguminosae_vol31_paddle
+countries: [Cote d'Ivoire]
+in_region: false
 tags: [species, generated]
 ---
 # *Cylicodiscus gabunensis* Harms
@@ -59,7 +61,7 @@ Florence 245, 1479, M'Passa, 10 km S Makokou. Hladik 1880 part A, plateau de M'P
 
 ![Cylicodiscus gabunensis](../sources/Leguminosae_vol31_paddle/figures/fig_021_p0046.png)
 
-*PL. 10. – Cylicodiscus gabunensis Harms: 1, rameau fleuri × 1; 2, pétiole, sommet × 7; 3, foliole, détail nervation face inférieure × 3; 4, bouton floral × 14; 5, fleur × 14; 6, fleur, coupe longitudinale × 14; 7, bractéole × 16; 8, anthère × 30; 9, pistil et disque × 20; 10, fruit × 0,4; 11, exocarpe, détail × 10; 12, graine × 0,6 (1, s.c., s.n.; 2-4, Le Testu 5202; 5-9, Le Testu 8980; 10, 11, Jacques-Félix 4766 (Cameroun); 12, Thollon 200).*
+*PL. 10. – Cylicodiscus gabunensis Harms: 1, flowering branch × 1; 2, petiole, apex × 7; 3, leaflet, detail of venation lower surface × 3; 4, floral bud × 14; 5, flower × 14; 6, flower, longitudinal section × 14; 7, bracteole × 16; 8, anther × 30; 9, pistil and disk × 20; 10, fruit × 0,4; 11, exocarp, detail × 10; 12, seed × 0,6 (1, s.c., s.n.; 2-4, Le Testu 5202; 5-9, Le Testu 8980; 10, 11, Jacques-Félix 4766 (Cameroon); 12, Thollon 200).*
 
 ## Notes
 

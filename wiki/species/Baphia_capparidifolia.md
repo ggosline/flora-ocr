@@ -7,6 +7,13 @@ family: Leguminosae
 vol: 49
 pages: 55-55
 source: sources/Millettiaspeciesfabaceae_vol49_liteparse
+countries: [Gabon, Guinea, Madagascar]
+in_region: true
+subdivisions:
+  Gabon: [Ogooué-Ivindo, Woleu-Ntem]
+habit: "liana"
+habitat: [secondary forest]
+altitude_m: "400–800"
 tags: [species, generated]
 ---
 # *Baphia capparidifolia* Baker

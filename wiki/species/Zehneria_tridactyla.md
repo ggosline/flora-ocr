@@ -7,6 +7,12 @@ family: Cucurbitaceae
 vol: 57
 pages: 113-114
 source: sources/Cucurbitaceae_vol57_paddle
+countries: [Gabon, Madagascar, Senegal]
+in_region: true
+subdivisions:
+  Gabon: [Ngounié, Nyanga]
+habit: "herb"
+altitude_m: "120"
 tags: [species, generated]
 ---
 # *Zehneria tridactyla* (Hook.f.) R.Fern. & A.Fern.
@@ -17,31 +23,23 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Planche 36(6-9)
+Plate 36(6-9)
 
 Zehneria thwaitesii auct., non (Schweinf.) C.Jeffrey, Kew Bull. 15(3): 371 (1962).
 
-Herbe monoïque ; tige ramifée, finement anguleuse. Vrilles grêles. Feuille : pétiole filiforme, 2–4 cm, courtement velu ; limbe triangulaire-hasté, souvent profondément 3-lobé, long et large de 4–7 cm (souvent en peu plus long que large), acuminé au sommet, membraneux. Inflorescence : la mâle à fleurs solitaires ou fasciculées, la femelle à fleurs solitaires. Fleur mâle : pédicelle capillaire, 1–2 cm ; réceptacle étroitement campanulée, 2 mm de longueur et de largeur ; sépales triangulaires-subulés, longs de 0,7–1 mm ; pétales ovales-oblongs, blancs ; étimaines bithèques, à filet de 0,5 mm, anthère ovoïde, à loges droites, bordées de poils ; pistillode glanduliforme, globuleux. Fleur femelle : pédicelle grêle, 1,5–2 cm, glabre ; ovaire fusiforme ; style 1 mm, épais, glabre. Fruit fusiforme, de 2–3 × 0,8–1 cm, à pédicelle de 0,5–4 cm. Graine de contour ovale-oblong, aplatie, de 3,5 × 2 mm, jaune clair, à marges peu distinctes.
+Monoecious herb; stem branched, finely angular. Tendrils slender. Leaf: petiole filiform, 2–4 cm, shortly pubescent; blade triangular-hastate, often deeply 3-lobed, 4–7 cm long and wide (often somewhat longer than wide), acuminate at apex, membranous. Inflorescence: male with solitary or fasciculate flowers, female with solitary flowers. Male flower: pedicel capillary, 1–2 cm; receptacle narrowly campanulate, 2 mm in length and width; sepals triangular-subulate, 0.7–1 mm long; petals oval-oblong, white; stamens bithecate, filament 0.5 mm, anther ovoid, with straight locules, bordered by hairs; pistillode glanduliferous, globose. Female flower: pedicel slender, 1.5–2 cm, glabrous; ovary fusiform; style 1 mm, thick, glabrous. Fruit fusiform, 2–3 × 0.8–1 cm, with pedicel 0.5–4 cm. Seed with oval-oblong outline, flattened, 3.5 × 2 mm, pale yellow, with poorly defined margins.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Afrique tropicale, du Sénégal jusqu'à Madagascar et aux Comores; au Gabon: Ngounié et Nyanga
+Tropical Africa, from Senegal to Madagascar and the Comoros; in Gabon: Ngounié and Nyanga
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-savanes, galeries forestières, marais, roselières; au Gabon jusqu'à 120 m d'altitude, ailleurs jusqu'à 2000 m
+savannas, forest galleries, marshes, reed beds; in Gabon up to 120 m altitude, elsewhere up to 2000 m
 
 ## Source note
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Dans le passé, cette espèce était traitée comme synonyme de Z. thwaitesii (Schweinf.) C.Jeffrey, même si Hooker l'avait déjà séparée. Les données phylogénétiques ainsi que la morphologie des fruits et des feuilles montrent clairement qu'elle est distincte de ce taxon asiatique (Bräuchler et al. (2016))
+In the past, this species was treated as a synonym of Z. thwaitesii (Schweinf.) C.Jeffrey, even though Hooker had already separated it. Phylogenetic data as well as the morphology of fruits and leaves clearly show that it is distinct from this Asian taxon (Bräuchler et al. (2016))
 
 ## Bibliography
 

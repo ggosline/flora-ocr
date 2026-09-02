@@ -7,6 +7,8 @@ family: Leguminosae
 vol: 31
 pages: 77-84
 source: sources/Leguminosae_vol31_paddle
+countries: [Gabon, Senegal, Tanzania]
+in_region: true
 tags: [species, generated]
 ---
 # *Entada gigas* (Linné) Fawcett & Rendle
@@ -107,11 +109,11 @@ Germination épigée avec cotylédons restant dans le testa. Plantule glabre, à
 
 ![Entada gigas](../sources/Leguminosae_vol31_paddle/figures/fig_031_p0078.png)
 
-*PL. 19. – Entada gigas (L.) Fawcett & Rendle: 1, aspect général × 0,8; 2, foliole, détail nervation × 4; 3, bouton floral × 13; 4, fleur × 13; 5, fleur, coupe longitudinal × 13; 6, pétale × 20; 7, anthère × 30; 8, pistil × 20. (1, 2-8, Letouzey 4862 (Cameroun); 1, Letouzey 8187 (Cameroun)). – E. pursaetha DC.: 9, feuille × 0,8; 10, foliole, détail nervation × 4; 11, inflorescence, détail × 4. (9, 10, Leeuwenberg 5774 (Cameroun); 9, 11, Mbenkum 307 (Cameroun)).*
+*PL. 19. – Entada gigas (L.) Fawcett & Rendle: 1, general aspect × 0,8; 2, leaflet, detail venation × 4; 3, floral bud × 13; 4, flower × 13; 5, flower, longitudinal section × 13; 6, petal × 20; 7, anther × 30; 8, pistil × 20. (1, 2-8, Letouzey 4862 (Cameroon); 1, Letouzey 8187 (Cameroon)). – E. pursaetha DC.: 9, leaf × 0,8; 10, leaflet, detail venation × 4; 11, inflorescence, detail × 4. (9, 10, Leeuwenberg 5774 (Cameroon); 9, 11, Mbenkum 307 (Cameroon)).*
 
 ![Entada gigas](../sources/Leguminosae_vol31_paddle/figures/fig_032_p0080.png)
 
-*PL. 20. – Entada pursaetha DC.: 1, fruit × 0,6; 2, 3, graine × 1. (1, Hallé N. & Le Thomas 246; 2, Berhaut 5978 (Sénégal); 3, Schweinfurth 3378 (Zaïre ?)). – E. gigas (L.) Fawcett & Rendle: 4, fruit × 0,6. (Berhaut 6764 (Sénégal)).*
+*PL. 20. – Entada pursaetha DC.: 1, fruit × 0,6; 2, 3, seed × 1. (1, Hallé N. & Le Thomas 246; 2, Berhaut 5978 (Senegal); 3, Schweinfurth 3378 (Zaire ?)). – E. gigas (L.) Fawcett & Rendle: 4, fruit × 0,6. (Berhaut 6764 (Senegal)).*
 
 ## Notes
 

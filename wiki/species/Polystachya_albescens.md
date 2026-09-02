@@ -7,6 +7,9 @@ family: Orchidaceae
 vol: 37
 pages: 33-34
 source: sources/Orchidaceae_vol37_paddle
+countries: [Angola, Cameroon, Equatorial Guinea, Gabon, Malawi, Nigeria, Sao Tome and Principe, Tanzania, Zambia, Zimbabwe]
+in_region: true
+habitat: [primary forest]
 tags: [species, generated]
 ---
 # *Polystachya albescens* Ridl.

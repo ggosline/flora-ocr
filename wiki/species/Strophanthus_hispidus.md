@@ -7,6 +7,7 @@ family: Apocynaceae
 vol: 59
 pages: 225-228
 source: sources/Apocynaceae_vol59_liteparse
+habit: "liana"
 tags: [species, generated]
 ---
 # *Strophanthus hispidus* DC. Planche 104
@@ -16,15 +17,13 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Bull. Sci. Soc. Philom. Paris Scrambling shrub reaching 5 m in height or liane reaching 100 m in length; exudate clear, reddish or white; duplications hispid. Leaf: petiole 1–5 mm; limb oval, elliptic or obovate, up to 18 cm, rounded or subcordate at base, acuminate at apex, hispid; secondary veins (4)6 to 11 pairs, straight or curved, forming an angle of 30–60° with the midrib. Inflorescence: lax or condensed, hispid, with 1–8 flowers; bracts 6–40 × 1–12 mm. Flower: pedicel 5–32 mm; calyx with unequal lobes, the outer ones much broader, 13–35 × 1–10 mm, hispid; corolla with tube white becoming orange, 11–22 mm long and widening at 54–66% of its length into an upper cupuliform part, 5–7 mm wide at the throat, finely hispid, crowned with finely lobulate lobes, long
 
-Bull. Sci. Soc. Philom. Paris Arbuste sarmenteux atteignant 5 m de hauteur ou liane atteignant 100 m de longueur ; exsudat clair, rougeâtre ou blanc ; UDPL¿FDWLRQVKLVSLGHV . Feuille : pétiole de 1–5 mm ; limbe ovale jHOOLSWLTXHRXRERYDOHMXVTX¶jîFPDUURQGLRXVXEFRUGpjODEDVHDFXPLQpDXVRP met, hispide ; nervures secondaires (4)6 à 11 paires, droites ou courbées, formant un angle GH±DYHFODPpGLDQH ,QÀRUHVFHQFH OkFKHRXFRQGHQVpHKLVSLGHDYHFjÀHXUV bractées de 6–40 × 1–12 mm. Fleur : pédicelle de 5–32 mm ; calice à lobes inégaux, les extérieurs beaucoup plus larges , de 13–35 × 1–10 mm, hispides ; corolle à tube blanc devenant orange, long de 11–22 mm et s’élargissant à 54–66 % de sa longueur en une partie supérieure FXSXOLIRUPHODUJHGH±PPjODJRUJH¿QHPHQWKLVSLGHFRXURQQHjOREHVOLJXOpVORQJV
+central section raised × — Seed × —. Body of seed × Leeuwenberg 11579; 3, 4: Beentje 1549; 5–7: Leeuwenberg 12030). Drawing by Juliet Williamson, Naturalis Biodiversity Center (©), reproduced from Beentje (1982).
 
-VHFWLRQFHQWUDOHHQOHYpHîҀ±*UDLQHîҀ±&RUSVGHODJUDLQHî Leeuwenberg 11579 ; 3, 4 : Beentje 1549 ; 5-7 : Leeuwenberg 12030 ). Dessin par Juliet Williamson, Naturalis Biodiversity Center (©), reproduit à partir de Beentje (1982).
+appendices partially cut × —. Same, section longitudinal of corolla, only with base of lobes × —. Follicles, central section raised × — Seed × Leeuwenberg 11918; 5, 6: Leeuwenberg 2699). Drawing by Juliet Williamson and Henk Beentje, Naturalis Biodiversity Center (©), reproduced from Beentje (1982).
 
-DSSHQGLFHVSDUWLHOOHPHQWFRXSpVî±,GHPFRXSHORQJLWXGLQDOHFRUROOHXQLTXHPHQWDYHFEDVHGHV OREHVî±)ROOLFXOHVHFWLRQFHQWUDOHHQOHYpHîҀ±*UDLQHîҀ Leeuwenberg 11918 ; 5, 6 : Leeuwenberg 2699 ). Dessin par Juliet Williamson et Henk Beentje, Naturalis Biodiversity Center (©), reproduit à partir de Beentje (1982).
-
-de 1–3 mm, jaunes à taches rouges ou violettes, charnus, lobes de la corolle ovales, de 3–10 × ±PPFUqPHGHYHQDQWRUDQJHjWDFKHVURXJHkWUHVjO¶LQWpULHXUVHUpWUpFLVVDQWEUXVTXHPHQW en queues pendantes, de 14,5–21,5 cm × 1 mm , jaunes ou verdâtres ; étamines incluses , anthère longue de 3,6–5 mm ; style de 7–12 mm. Fruit : IROOLFXOHVGLYHUJHDQWj± de 24–48 × 1,3–1,8 cm, attenués et se terminant en un gros bouton ; exocarpe épais et dur, VXOTXpKLVSLGHDXGpEXWSXLVOHQWLFHOOp Graine de 10–18 × 2–3 mm, pubescente ; bec glabre sur 8–34 mm et portant un coma sur 20–43 mm de sa longueur ; coma dressé à étalé, long de 42–85 mm. Distribution GX6pQpJDOjO¶2XJDQGDHWjO¶$QJRODDX*DERQ(VWXDLUH0R\HQ2JRRXp2JRRXp Ivindo, Ogooué-Lolo et Woleu-Ntem. Écologie IRUrWSULPDLUHHWVHFRQGDLUHDX*DERQMXVTX¶jPG¶DOWLWXGHDLOOHXUVj±P Usage : Les plantes sont cultivées pour les graines destinées à l’exportation vers l’Europe en vue d’un XVDJHPpGLFDO/HODWH[HWOHVJUDLQHVpWDLHQWMDGLVXWLOLVpVVXUWRXWSRXUOHSRLVRQGHÀqFKH8QHGpFRFWLRQ de racines, de feuilles ou de tige s’utilise en externe pour traiter les maladies de peau et en interne pour traiter par exemple, les parasites.
+1–3 mm, yellow with red or purple spots, fleshy, corolla lobes oval, 3–10 × 2–8 mm, cream becoming orange with red spots, being retracted abruptly into pendulous tails, 14.5–21.5 cm × 1 mm, yellow or greenish; stamens included, anther 3.6–5 mm long; style 7–12 mm. Fruit: follicles divergent at 45–90° of 24–48 × 1.3–1.8 cm, attenuate and terminating in a thick button; exocarp thick and hard, sulcate, hispid at first then lenticellate. Seed 10–18 × 2–3 mm, pubescent; beak glabrous for 8–34 mm and bearing a coma for 20–43 mm of its length; coma erect to spreading, 42–85 mm long. Distribution: from Senegal to Uganda and to Angola, in Gabon. Estuary, Moyen-Ogooué, Haut-Ogooué, Ivindo, Ogooué-Lolo and Woleu-Ntem. Ecology: primary and secondary forest in Gabon, up to 800 m altitude, elsewhere 100–500 m. Use: The plants are cultivated for seeds intended for export to Europe for medicinal use. Latex and seeds were formerly used, especially as arrow poison. A decoction of roots, leaves or stem is used externally to treat skin diseases and internally to treat, for example, parasites.
 
 ## Vernacular names
 

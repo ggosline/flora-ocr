@@ -7,6 +7,12 @@ family: Lobeliaceae
 vol: 40
 pages: 43-43
 source: sources/Lobeliaceae_vol40_liteparse
+countries: [Cameroon, Equatorial Guinea, Gabon, Nigeria]
+in_region: true
+subdivisions:
+  Gabon: [Estuaire, Ngounié]
+habit: "herb"
+altitude_m: "800"
 tags: [species, generated]
 ---
 # *Dielsantha galeopsoides* (Engl. & Diels) E.Wimm.

@@ -7,6 +7,9 @@ family: Melastomataceae
 vol: 25
 pages: 150-152
 source: sources/Melastomataceae_vol25_paddle
+countries: [Cameroon, Cote d'Ivoire, Democratic Republic of the Congo, Nigeria]
+in_region: true
+habit: "tree"
 tags: [species, generated]
 ---
 # *Warnecka pulcherrima* (Gilg) Jacques-Félix
@@ -17,17 +20,13 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 Adansonia, sér. 2, 18 (2) : 232 (1978); Fl. Cam. 24 : 163, tab. 54 (1983). — Memecylon pulcherrimum GILG, Mon. Afr. 2, Melast. : 41 (1898).
 
-Arbre jusqu'à 15 m de hauteur et tronc de 0,30 m de diamètre; rameaux robustes, arrondis. Feuilles amples, subcoriaces, brillantes sur les 2 faces; pétiole de 2 à 4 mm, épais, arrondi; limbe ± blancé, 9-12 × 20-32 cm, étroitement arrondi ou cordé sur le pétiole; progressivement acuminé,
+Tree up to 15 m tall with trunk 0.30 m in diameter; branches robust, rounded. Leaves ample, subcoriaceous, shiny on both faces; petiole 2 to 4 mm, thick, rounded; blade ± whitened, 9–12 × 20–32 cm, narrowly rounded or cordate at the petiole; gradually acuminate, acumen acute; with 5 to 7 nerves, the 3 principal ones prominent on both faces, especially below, the principal convergent ones suprabasal only, slightly arched towards the apex with the transversals very oblique; the additional ones finer, arched from the base, the submarginal ones evanescent before the apex; reticulation likewise clearly visible.
 
-acumen aigu; de 5 à 7 nervures, les 3 principales saillantes sur les 2 faces, surtout dessous, les convergentes principales suprabasales, seulement coarquées vers le sommet avec les transversales très obliques; les additionnelles plus fines, coarquées dès la base, les submarginales évanescentes avant le sommet; réticulation également bien visibles.
+From 6 to 12 fascicled cymes at the leaf axils, and especially on the polyandrous nodes of old wood; up to 4 cm in total length; peduncles 2 to 3 cm, often very compressed, bearing directly an umbel of 9–15 flowers, or else 3 to 5 branches of 5 to 6 mm, totalling 20 to 30 flowers; bracts caducous. Flowers with pedicel 5 to 7 mm; hypantho-calyx cupulate-campanulate, 4 × 4 mm; calyx lobes triangular-acute, with thin margin, imbricate in the bud. Corolla conical in the bud; petals elliptic-unguiculate, 2.6 × 4 mm, claw short, distinct, fleshy. Stamens 4 mm long; anther 2.2 × 1.5 mm, thecae straight; connective conical-acute, moderately saddle-shaped by the oblong gland; epigynous chamber with thick wall, grooved, scars of the petals and stamens well marked; style 5.5 mm; ovarian locule without prominent antiplacental projection, 12-ovulate.
 
-De 6 à 12 cymes fasciculées aux aisselles foliaires, et surtout sur les nœuds polycarpiques du vieux bois; jusqu'à 4 cm de longueur totale; stips de 2 à 3 cm, souvent très comprimés, portant directement une ombellure 9-15-flore, ou bien de 3 à 5 rameaux de 5 à 6 mm, totalisant de 20 à 30 fleurs; bractées caduques. Fleurs à pédicelle de 5 à 7 mm; hypantho-calice cupulo-campanulé, 4 × 4 mm; lobes du calice triangulaires-aigus, à marge mince, imbriqués dans le bouton. Corolle conique dans le bouton; pétales elliptiques-onguiculés, 2,6 × 4 mm, onglet court, net, charnu. Étamines longues de 4 mm; anthère 2,2 × 1,5 mm, thèques droites; connectif conique-aigu, modérément ensellé par la glande oblongue; chambre épigyne à paroi épaisse, cannelée, cicatrices des pétales et étamines bien marquées; style 5,5 mm; loge ovarienne sans saillile antiplacentaire, 12-ovulée.
-
-Fruit ellipsoïde,  $ 8 \times 10 $ mm. — Pl. 54, p. 151.
+Fruit ellipsoid, 8 × 10 mm. — Pl. 54, p. 151.
 
 ## Type
 
@@ -35,9 +34,7 @@ Soyaux 309, Gabon (holo-, B, delet.; iso-, K, P!)
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Se distingue de W. memecyloides (BENTH.) JAC.-FÉL., de la Côte d'Ivoire au Nigeria, par un plus grand développement, par ses feuilles normalement blancées et étroitement cordées, par ses cymes fasciculées sur le vieux bois. C'est une espèce forestière du Cameroun au Zaïre occidental.
+Distinguished from W. memecyloides (BENTH.) JAC.-FÉL., from Côte d'Ivoire to Nigeria, by greater development, by its normally whitened and narrowly cordate leaves, by its fascicled cymes on old wood. It is a forest species from Cameroon to western Zaïre.
 
 ## Specimens examined
 
@@ -47,7 +44,7 @@ Hallé N. 3335, Bélinga (nov.). Klaine 109, 587, 3454, Libreville (sept., nov.,
 
 ![Warnecka pulcherrima](../sources/Melastomataceae_vol25_paddle/figures/fig_053_p0151.png)
 
-*PL. 53. — Warneckea lecomteana Jacq.-Fél. : 1, rameau fleuri × 2/3; 2, bouton floral × 6; 3, coupe de la fleur × 6; 4, chambre épigyne × 6; 5, pétale × 6; 6, étamine × 12; 7, fruit × 3 (Lecomte A. 78). (Repris d'Adansonia, sér. 2, 19 (3) : tab. 1, 1980).*
+*PL. 53. — Warneckea lecomteana Jacq.-Fél. : 1, flowering branch × 2/3; 2, floral bud × 6; 3, section of the flower × 6; 4, epigyn chamber × 6; 5, petal × 6; 6, stamen × 12; 7, fruit × 3 (Lecomte A. 78). (Taken from Adansonia, ser. 2, 19 (3) : tab. 1, 1980).*
 
 ## Notes
 

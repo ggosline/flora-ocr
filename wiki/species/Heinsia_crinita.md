@@ -7,6 +7,9 @@ family: Rubiaceae
 vol: 12
 pages: 134-138
 source: sources/Rubiaceae_vol12_paddle
+countries: [Central African Republic, Democratic Republic of the Congo]
+in_region: true
+habit: "shrub"
 tags: [species, generated]
 ---
 # *Heinsia crinita* (Afz.) G. Tayl. (P.L. 26)
@@ -114,15 +117,15 @@ A. Chevalier 10994, confluent de l'Oubangui et du Congo (P)
 
 ![Heinsia crinita](../sources/Rubiaceae_vol12_paddle/figures/fig_003_p0021.png)
 
-*Fig. 2. — Ornementation microscopique du légument de la graine (suite) : 1, Mussaenda tristigmatica (cf. F. Hallé 231); 2, Heinsia crinita (cf. F. H. 258); 3, Pauridiantha hiertella (cf. F. H. 233).*
+*Fig. 2. — Microscopic ornamentation of the seed coat (continued) : 1, Mussaenda tristigmatica (cf. F. Hallé 231); 2, Heinsia crinita (cf. F. H. 258); 3, Pauridiantha hiertella (cf. F. H. 233).*
 
 ![Heinsia crinita](../sources/Rubiaceae_vol12_paddle/figures/fig_030_p0129.png)
 
-*PL. 24. — Placentation des Mussaendées (1 Mussaendinae) : 1, Heinsia crinita (fleur); 2, Pseudomussaenda stenocarpa (bout.); 2 a et b, id. (fr.); 3, Mussaenda isertiana (j. fr.); 3 a, M. erythrophylla (fl.); 4, Stipularia africana (bout.); 5, Sabicea efulenensis (fl.); 6, S. pilosa (bout.); 7, S. fulva (fl.); 8, S. carbunica (fl.); 9, S. longepeitiolata (fl.); 10, Pseudosabica aurifodinae (bout.); 11, Ps. proselyla (fr.); 12, Ps. mitisphaera (fr.); 13, Ps. floribunda (j. fr.); 14, Ps. Mildbraedii (j. fr.); 15, Ecpoma Hiernianum (fr.).*
+*PL. 24. — Placentation of Mussaendeae (1 Mussaendinae) : 1, Heinsia crinita (flower); 2, Pseudomussaenda stenocarpa (bud); 2 a et b, id. (fruit); 3, Mussaenda isertiana (young fruit); 3 a, M. erythrophylla (fl.); 4, Stipularia africana (bud); 5, Sabicea efulenensis (fl.); 6, S. pilosa (bud); 7, S. fulva (fl.); 8, S. carbunica (fl.); 9, S. longepeitiolata (fl.); 10, Pseudosabica aurifodinae (bud); 11, Ps. proselyla (fruit); 12, Ps. mitisphaera (fruit); 13, Ps. floribunda (young fruit); 14, Ps. Mildbraedii (young fruit); 15, Ecpoma Hiernianum (fruit).*
 
 ![Heinsia crinita](../sources/Rubiaceae_vol12_paddle/figures/fig_032_p0135.png)
 
-*PL. 26. — Heinsia crinita (Afz.) G. Taylor : 1, rameau florifère × 3/4 (N. Hallé 1956); 2, stipules (N. H. 2187); 3, fleur; 4, coupe longitudinale de la fleur; 5, anthère; 6, coupe de l'ovaire; 7, stigmate d'un bouton; 8, fruit; 9, autre fruit (N. H. et G. C. 6057); 10, graine (Klaine 1504); — 3, 5, 7 et 8, N. H. 2792; 4, et 6, F. Hallé 172.*
+*PL. 26. — Heinsia crinita (Afz.) G. Taylor : 1, floriferous branch × 3/4 (N. Hallé 1956); 2, stipules (N. H. 2187); 3, flower; 4, longitudinal section of flower; 5, anther; 6, section of ovary; 7, stigma of a bud; 8, fruit; 9, another fruit (N. H. and G. C. 6057); 10, seed (Klaine 1504); — 3, 5, 7 and 8, N. H. 2792; 4, and 6, F. Hallé 172.*
 
 ## Notes
 

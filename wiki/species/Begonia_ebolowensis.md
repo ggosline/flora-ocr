@@ -7,6 +7,11 @@ family: Begoniaceae
 vol: 39
 pages: 82-84
 source: sources/Begoniaceae_vol39_liteparse
+countries: [Cameroon, Democratic Republic of the Congo, Equatorial Guinea, Gabon]
+in_region: true
+habit: "epiphyte"
+habitat: [riverine]
+altitude_m: "700"
 tags: [species, generated]
 ---
 # *Begonia ebolowensis* Engl. Planche 38

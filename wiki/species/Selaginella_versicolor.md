@@ -7,6 +7,8 @@ family: Pteridophytes
 vol: 08
 pages: 25-26
 source: sources/Salviniaceae_vol08_paddle
+countries: [Angola, Sudan]
+in_region: true
 tags: [species, generated]
 ---
 # *Selaginella versicolor* Spring
@@ -20,13 +22,9 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 — Spring, Bull. Acad. Brux. 10 : 143 (1843); FWTA : 16 (1959). — Alston, Mém. IFAN 50 : 34 (1957); FWTA : 16 (1959).
 
-Rhizophores courts, filiformes, confinés à la base de la tige. Présence de soboles prenant naissance horizontalement à la base de la tige, à petites feuilles. Tiges principales dressées, atteignant 35 cm de haut sur 2 mm de diamètre, pâles. Ramifications glabres, divergeant de 60°. Partie rameuse à contour ovale-elliptique, bi-tripennée. Présence de soboles. Feuilles hétéromorphes, excepté à l'extrême base de la tige dressée. Feuilles latérales décroissantes et distantes vers la base de la tige principale. Feuilles de la tige contiguës à la partie supérieure de la tige principale et imbriquées sur les ramifications, plus foncées à la face supérieure, inéquilatérales, ayant au plus 4 mm de long sur 2 de large, obtuses, la moitié supérieure semi-oblongue-lancéolée, arrondie à la base, subentière, lâchement serrulée vers la base et le sommet. Moitié inférieure oblongue, entière, excepté quelques serrulations vers la base et le sommet, arrondie ou tronquée à la base. Marge blanche souvent nette, consistant en deux ou plusieurs rangées de cellules allongées. Costa formé de cellules épaissies en spirale, s'arrêtant près du sommet. 2 fausses nervures présentes,
-
-une de chaque côté du costa, formées de cellules allongées, mais non épaissies. Feuilles axillaires ovales-elliptiques, ayant  $ 2/3 $ à  $ 3/4 $ de la longueur des feuilles latérales, subentières. Feuilles médianes espacées sur la tige principale, imbriquées sur les ramifications, obovales-elliptiques, denticulées, abruptement aristées, avec une arête moitié aussi longue que le limbe. Strobiles solitaires au sommet des tiges principales, des rameaux latéraux et des ramules, longs d'environ  $ 0,75 $ cm sur  $ 1 $ mm de large. Sporophylles homorophes, deltoïdes, à angles arrondis à la base, régulièrement serrulés, aiguis, carénés. Mégaspores couleur crème, ayant environ  $ 270 $  $ \mu $ de diamètre, avec un réticulum à mailles lâches sur la face distale. Marque triradiée ailée. Microspores oranges en masse, subtriangulaires avec une marque triradiée atteignant la marge, ayant  $ 15-20 $  $ \mu $ de diamètre, avec des processus coniques, courts, sur la face distale.
+Rhizophores short, filiform, confined to the base of the stem. Presence of stolons arising horizontally at the base of the stem, with small leaves. Main stems erect, reaching 35 cm high by 2 mm in diameter, pale. Branches glabrous, diverging at 60°. Branched portion with oval-elliptic outline, bi-tripinnate. Presence of stolons. Leaves heteromorphous, except at the very base of the erect stem. Lateral leaves decreasing and distant toward the base of the main stem. Leaves of the stem contiguous at the upper part of the main stem and imbricate on the branches, darker on the upper surface, inequilateral, at most 4 mm long by 2 mm wide, obtuse, the upper half semi-oblong-lanceolate, rounded at the base, subentire, loosely serrulate toward the base and apex. Lower half oblong, entire, except for a few serrulations toward the base and apex, rounded or truncate at the base. Margin white often distinct, consisting of two or more rows of elongate cells. Costa formed of cells thickened in a spiral pattern, ending near the apex. 2 false veins present, one on each side of the costa, formed of elongate cells, but not thickened. Axillary leaves oval-elliptic, having 2/3 to 3/4 of the length of the lateral leaves, subentire. Median leaves spaced on the main stem, imbricate on the branches, obovate-elliptic, denticulate, abruptly aristate, with an awn half as long as the limb. Strobili solitary at the apex of the main stems, lateral branches and branchlets, approximately 0.75 cm long by 1 mm wide. Sporophylls homomorphous, deltoid, with angles rounded at the base, regularly serrulate, acute, keeled. Megaspores cream-coloured, approximately 270 μ in diameter, with a loose reticulum on the distal face. Triradiate winged mark. Microspores orange in mass, subtriangular with a triradiate mark reaching the margin, having 15–20 μ in diameter, with short conical processes on the distal face.
 
 ## Type
 
@@ -34,9 +32,7 @@ Heudelot, Sénégambie (P)
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Du Soudan en Angola.
+From Sudan to Angola.
 
 ## Specimens examined
 

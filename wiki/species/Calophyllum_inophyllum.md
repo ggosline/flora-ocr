@@ -7,6 +7,11 @@ family: Clusiaceae
 vol: 45
 pages: 15-17
 source: sources/Clusiaceae_vol45_liteparse
+countries: [Gabon, Madagascar]
+in_region: true
+habit: "tree"
+habitat: [coastal, rocky ground]
+altitude_m: "200"
 tags: [species, generated]
 ---
 # *Calophyllum inophyllum* L. Planche 2

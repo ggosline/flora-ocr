@@ -7,6 +7,13 @@ family: Anacardiaceae
 vol: 50
 pages: 22-24
 source: sources/Anacardiaceae_vol50_liteparse
+countries: [Angola, Cameroon, Democratic Republic of the Congo, Equatorial Guinea, Gabon, Malawi, Nigeria, Republic of the Congo, Senegal, Uganda]
+in_region: true
+subdivisions:
+  Gabon: [Haut-Ogooué, Ogooué-Ivindo]
+habit: "tree"
+habitat: [swamp forest, secondary forest]
+altitude_m: "100–700"
 tags: [species, generated]
 ---
 # *Pseudospondias microcarpa* (A.Rich.) Engl. Planche 6

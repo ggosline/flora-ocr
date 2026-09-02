@@ -7,6 +7,8 @@ family: Rubiaceae
 vol: 12
 pages: 215-220
 source: sources/Rubiaceae_vol12_paddle
+countries: [Gabon]
+in_region: true
 tags: [species, generated]
 ---
 # *Pseudosabicea proselyta* N. Hallé (P.L. 45)
@@ -61,7 +63,7 @@ Le Testu : 9198, Angoun, entre Ogooué et Cameroun (fl. juillet).
 
 ![Pseudosabicea proselyta](../sources/Rubiaceae_vol12_paddle/figures/fig_056_p0217.png)
 
-*PL. 45. — Pseudosabicea proselyta N. Hallé (N. H. 748, 1955 et 2022) : 1, nœud florifère × 3/4; 2, coupe de tige, gr. nat.; 3, bouton; 4, glandes intersépalais; 5, préfloraison; 6, coupe de fleur; 7, poils de la gorge; 8, anthère; 9, stigmate; 10, disque; 11, coupe d'ovaire; 12, infrutescence à maturité; 13 et 14, coupes de fruits mûres; 15, graines mûres juxtaposées vues par-dessus; 16, profil de la graine.*
+*PL. 45. — Pseudosabicea proselyta N. Hallé (N. H. 748, 1955 et 2022) : 1, flowering node × 3/4; 2, stem section, nat. size; 3, bud; 4, intersepalar glands; 5, prefloration; 6, flower section; 7, throat hairs; 8, anther; 9, stigma; 10, disc; 11, ovary section; 12, fruitescence at maturity; 13 and 14, sections of mature fruits; 15, mature seeds juxtaposed seen from above; 16, seed profile.*
 
 ![Pseudosabicea proselyta](../sources/Rubiaceae_vol12_paddle/figures/fig_057_p0219.png)
 

@@ -7,6 +7,11 @@ family: Putranjivaceae
 vol: 57
 pages: 163-165
 source: sources/Putranjivaceae_vol57_paddle
+countries: [Cameroon, Central African Republic, Gabon]
+in_region: true
+subdivisions:
+  Gabon: [Estuaire, Ngounié, Nyanga, Ogooué-Ivindo, Ogooué-Maritime, Woleu-Ntem]
+habit: "tree"
 tags: [species, generated]
 ---
 # *Drypetes umbricola* D.J.Harris & Quintanar Novon 29: 17, fig. 1, 2 (2021).

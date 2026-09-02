@@ -7,6 +7,9 @@ family: Sapotaceae
 vol: 01
 pages: 109-113
 source: sources/Sapotaceae_vol01_paddle
+countries: [Gabon, Liberia, Sierra Leone]
+in_region: true
+habit: "tree"
 tags: [species, generated]
 ---
 # *Afrosersalisia afzeli* (Engl.) Aubr.

@@ -7,6 +7,9 @@ family: Sapindaceae
 vol: 23
 pages: 176-178
 source: sources/Sapindaceae_vol23_paddle
+countries: [Cameroon, Central African Republic, Gabon, Mali]
+in_region: true
+habit: "tree"
 tags: [species, generated]
 ---
 # *Eriocelum kerstingii* Gilg ex Engler

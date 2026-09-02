@@ -7,6 +7,10 @@ family: Meliaceae
 vol: 47
 pages: 65-67
 source: sources/Meliaceae_vol47_liteparse
+countries: [Angola, Cameroon, Cote d'Ivoire, Democratic Republic of the Congo, Equatorial Guinea, Gabon, Ghana, Nigeria, Republic of the Congo, Uganda]
+in_region: true
+habit: "tree"
+altitude_m: "450"
 tags: [species, generated]
 ---
 # *Trichilia prieureana* A.Juss. subsp. vermoesenii J.J.de Wilde Planche 20
@@ -17,29 +21,21 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Meded. Landbouwhogeschool Wageningen 68(2) : 139 (1968). T. prieureana var. vermoesenii Pellegr., Not. Syst. (Paris) 9(1) :18 (1940), nom illeg. Tree 10–30 m tall; trunk tortuous, often fluted and with buttresses at the base, 20–40(–100) cm in diameter; heartwood yellowish-brown, fibrous, weakly aromatic. Leaf: petiole 1.5–8.5(–18) cm; rachis (1–)4–15(–19) cm; petiolules (2–)4–8(–10) mm, the terminal ones 5–14(–30) mm; leaflets (3–)7–9(–11), opposite to subopposite, narrowly obovate to obovate or ovate, 3–18(–37) × 2–7(–13) cm, cuneate and often asymmetric at the base, acuminate at the apex, entirely glabrous, brown or brownish-green when dried. Inflorescence axillary, in short panicles or ramiflorous, sometimes fasciculate in groups of 2–10, 2–15 cm long; bracts caducous. Functionally male flower: pedicel up to 2 mm; bracteoles 1 or 2, sometimes absent, caducous; receptacle 0.4–1.7 mm long; calyx 1–1.5 × 2–3 mm, shortly pubescent on the outside; petals narrowly obovate, 4.5–6.5 × 1.5–2 mm, puberulent on both faces; staminal corona entirely fused, 3.5–5 mm long, puberulent on the outside, villous on the inside, anthers ovate, 0.6–1 × 0.3–0.7 mm, inserted at the apex of the staminal tube; disk cupuliform, glabrous, up to 0.5 mm tall; pistillode filiform, 3.5–5 mm long, puberulent. Functionally female flower similar; ovary well developed, obovoid to subglobose, 1–2 mm in diameter, glabrous, 2(–3)-locular; style 1.5–2 mm, puberulent, stigma capitate. Fruit subglobose, 1.5–2.5 cm in diameter, glabrous, dehiscent into 2(–3) valves. Seed 10–17 × 7–12 mm, with brownish, dark, shiny testa, the ⅓ or ¼ modified into fleshy red-orange sarcotesta.
 
-Meded. Landbouwhogeschool Wageningen 68(2) : 139 (1968). T. prieureana var. vermoesenii Pellegr., Not. Syst. (Paris) 9(1) :18 (1940), nom illeg. Arbre de 10–30 m de hauteur ; tronc tortueux, souvent cannelé et empattements à la base, 20–40(–100) cm de diamètre ; tranche brun jaunâtre, fibreuse, faiblement odorante. Feuille : pétiole 1,5–8,5(–18) cm ; rachis (1–)4–15(–19) cm ; pétiolules (2–)4–8(–10) mm, les terminaux 5–14(–30) mm ; folioles (3–)7–9(–11), opposées à subopposées, étroi tement obovales à obovale ou ovales, 3–18(–37) × 2–7(–13) cm, cunéiformes et sou vent asymétriques à la base, acuminées au sommet, entièrement glabres , brunes ou brun verdâtre au séchage. Inflorescence axillaire, en courtes panicules ou ramiflores, parfois fasciculée par 2–10, 2–15 cm de longueur ; bractées caduques. Fleur fonctionnellement mâle : pédicelle jusqu’à 2 mm ; bractéoles 1 ou 2, parfois absents, caduques ; réceptacle 0,4–1,7 mm de longueur ; calice 1–1,5 × 2–3 mm, courtement pubescent à l’extérieur ; pétales étroitement obovales, 4,5–6,5 × 1,5–2 mm, pubérulents sur les 2 faces ; couronne staminale entièrement soudée, 3,5–5 mm de longueur, pubérulente à l’extérieur, velue à l’intérieur, anthères ovales, 0,6–1 × 0,3–0,7 mm, insérées au sommet du tube staminal ; disque cupuliforme, glabre , jusqu’à 0,5 mm de hauteur ; pistillode filiforme, 3,5–5 mm de longueur, pubérulent. Fleur fonctionnellement femelle similaire ; ovaire bien dévelop pé, obovoïde à subglobuleux, 1–2 mm de diamètre, glabre, 2(–3)-loculaire ; style 1,5–2 mm, pubérulent, stigmate capité. Fruit subglobuleux, 1,5–2,5 cm de diamètre, glabre, déhiscent en 2(–3) valves . Graine 10–17 × 7–12 mm, à testa brunâtre, foncé, luisant, le ⅓ ou ¼ modifié en sarcotesta charnu rouge-orange.
-
-Fleur ♂ épanouie et en bouton (× 2). – D. Tube staminal et gynécée d’une fleur ♀, face interne (× 6). – E. Dito, fleur fonctionnellement ♂ (× 6). – F. Tube staminal, face externe d’une fleur ♂ (× 6). – G. Dito, partie supérieure, anthères enlevées (× 6). – K. Fruit, section transversale (× 1). – M. Rameau fructifère (× 0,5). – N. Graine (× 1). – P. Cotylédons (× 1). – R. Graine, section transversale (× 1). – S. Nervure médiane d’une foliole, section transversale (× 10). (A, C, S : Liben 2754 ; B, D : Lebrun 4606 ; E–G : Mildbraed 4471 ; K–R : Leeuwenberg 5056 ). Dessin par Ike Zewald, Naturalis Biodiversity Center, Leiden (©).
+Male flower open and in bud (× 2). – D. Staminal tube and gynoecium of a female flower, inner face (× 6). – E. Ditto, functionally male flower (× 6). – F. Staminal tube, outer face of a male flower (× 6). – G. Ditto, upper part, anthers removed (× 6). – K. Fruit, transverse section (× 1). – M. Fruiting twig (× 0.5). – N. Seed (× 1). – P. Cotyledons (× 1). – R. Seed, transverse section (× 1). – S. Midvein of a leaflet, transverse section (× 10). (A, C, S : Liben 2754 ; B, D : Lebrun 4606 ; E–G : Mildbraed 4471 ; K–R : Leeuwenberg 5056 ). Drawing by Ike Zewald, Naturalis Biodiversity Center, Leiden (©).
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Côte d’Ivoire, Ghana, Nigéria, Cameroun, Guinée Équatoriale, Gabon, Ré publique du Congo, République Démocratique du Congo, Angola (Cabinda) et Ouganda ; au Gabon, assez commun
+Côte d'Ivoire, Ghana, Nigeria, Cameroon, Equatorial Guinea, Gabon, Republic of the Congo, Democratic Republic of the Congo, Angola (Cabinda) and Uganda; in Gabon, fairly common
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-forêt dense humide, forêt semi-caducifoliée ; au Gabon, jusqu’à 450 m d’alti tude, ailleurs jusqu’à 1200 m
+dense humid forest, semi-deciduous forest; in Gabon, up to 450 m altitude, elsewhere up to 1200 m
 
 ## Uses
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Le bois convient pour la construction lourde et légère, les traverses de chemin de fer, la parqueterie lourde et légère, la menuiserie, le mobilier, l’ébénisterie, etc. Il est également utilisé comme bois de feu et pour la production de charbon de bois. L’écorce sert à soigner différentes maladies, comme les maladies vénériennes, la fièvre, la toux, la constipation, l’empoisonnement et les ascites, et sert aussi comme aphrodisiaque. Les arbres ont été employés comme essence d’ombrage et comme support pour les plants de vanille. Note taxonomique : Espèce divisée en trois sous-espèces. Au Gabon, on ne trouve que la sous-espèce vermoesenii qui est surtout présente en forêt dense humide, tandis que la sous-espèce type est limitée aux savanes périforestières de l’Afrique de l’Ouest. La sousespèce orientalis J.J.de Wilde se trouve plus à l’Est. B : Lemmens (2008d), Staner & Gilbert (1958), Styles & White (1991), de ibliographie Wilde (1968)
+The wood is suitable for heavy and light construction, railway sleepers, heavy and light parquetry, joinery, furniture, cabinetmaking, etc. It is also used as firewood and for charcoal production. The bark is used to treat various diseases, such as venereal diseases, fever, cough, constipation, poisoning and ascites, and is also used as an aphrodisiac. The trees have been used as shade trees and as support for vanilla plants. Taxonomic note: Species divided into three subspecies. In Gabon, only the subspecies vermoesenii is found, which is mainly present in dense humid forest, whereas the typical subspecies is restricted to the periforest savanas of West Africa. The subspecies orientalis J.J.de Wilde is found further to the East. Bibliography: Lemmens (2008d), Staner & Gilbert (1958), Styles & White (1991), de Wilde (1968)
 
 ## Notes
 

@@ -7,6 +7,8 @@ family: Cannabaceae
 vol: 22
 pages: 58-61
 source: sources/Cannabaceae_vol22_paddle
+countries: [Gabon]
+in_region: true
 tags: [species, generated]
 ---
 # *Cannabis sativa* Linné
@@ -62,7 +64,7 @@ Thollon 432, Gabon-Ogooué (fl. ♀); 717, Ndjolé (fr., janv.).
 
 ![Cannabis sativa](../sources/Cannabaceae_vol22_paddle/figures/fig_018_p0059.png)
 
-*PL. 14. — Cannabis sativa L.: 1, feuilles et inflorescence ♂ × 2/3; 2, détail du limbe × 3; 3, stipule × 10; 4, détail inflorescence ♂ × 2,3; 5, fleur ♂ × 6,5; 6, coupe fleur ♂ × 6,5; 7, diagramme floral ♂; 8, pétale × 6; 9, étamine × 7; 10, inflorescence ♀ × 2/3; 11, 11', bractées × 1; 12, fleur ♀ × 6,5; 13, diagramme floral ♀; 14, sépale × 7,3; 15, pistil × 6; 16, détail du stigmate × 4; 17, fruit × 4,5; 18, coupe schématique du fruit (1-9, Thollon 717; 10-18, Griffon du Bellay 133).*
+*PL. 14. — Cannabis sativa L.: 1, leaves and inflorescence ♂ × 2/3; 2, detail of limb × 3; 3, stipule × 10; 4, detail inflorescence ♂ × 2,3; 5, flower ♂ × 6,5; 6, section flower ♂ × 6,5; 7, floral diagram ♂; 8, petal × 6; 9, stamen × 7; 10, inflorescence ♀ × 2/3; 11, 11', bracts × 1; 12, flower ♀ × 6,5; 13, floral diagram ♀; 14, sepal × 7,3; 15, pistil × 6; 16, detail of stigma × 4; 17, fruit × 4,5; 18, schematic section of fruit (1-9, Thollon 717; 10-18, Griffon du Bellay 133).*
 
 ## Notes
 

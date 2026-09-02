@@ -7,6 +7,9 @@ family: Leguminosae
 vol: 31
 pages: 155-156
 source: sources/Leguminosae_vol31_paddle
+countries: [Gabon]
+in_region: true
+habit: "tree"
 tags: [species, generated]
 ---
 # *Albizia lebbekoides* (A.P. De Candolle) Bentham

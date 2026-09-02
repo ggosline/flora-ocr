@@ -7,6 +7,7 @@ family: Apocynaceae
 vol: 59
 pages: 88-90
 source: sources/Apocynaceae_vol59_liteparse
+habit: "tree"
 tags: [species, generated]
 ---
 # *Funtumia africana* (Benth.) Stapf Planche 35 ; Figure 5(C-E)

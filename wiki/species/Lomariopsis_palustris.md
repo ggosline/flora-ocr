@@ -7,6 +7,8 @@ family: Lomariopsidaceae
 vol: 08
 pages: 185-188
 source: sources/Lomariopsidaceae_vol08_paddle
+countries: [Angola, Guinea]
+in_region: true
 tags: [species, generated]
 ---
 # *Lomariopsis palustris* (Hk.) Mett. ex Kühn
@@ -66,7 +68,7 @@ Pobéguin : 43, 44 Dikoudou, Nyanga.
 
 ![Lomariopsis palustris](../sources/Lomariopsidaceae_vol08_paddle/figures/fig_032_p0187.png)
 
-*PL. XXIX. — Lomariopsis palustris (Hk.) Mett. (Pobéguin 18) : 1, aspect général × 2 /3; 2, détail de fronde stérile × 1. — L. Rossii Holttum (Letouzey 228) : 3, fronde stérile × 2 /3. — L. hederacea Alston (N. Hallé 1096) : 4, aspect général × 1 /3; — L. congoensis Alston (esp. voisine de Centrafrique, Tisserant 1107), 5, une penne × 1 /2. — L. guineensis (Und.) Alston (Le Testu 1675) : 6, une penne × 1 /2.*
+*PL. XXIX. — Lomariopsis palustris (Hk.) Mett. (Pobéguin 18) : 1, general appearance × 2 /3; 2, detail of sterile frond × 1. — L. Rossii Holttum (Letouzey 228) : 3, sterile frond × 2 /3. — L. hederacea Alston (N. Hallé 1096) : 4, general appearance × 1 /3; — L. congoensis Alston (species close to Central African Republic, Tisserant 1107), 5, a pinna × 1 /2. — L. guineensis (Und.) Alston (Le Testu 1675) : 6, a pinna × 1 /2.*
 
 ## Notes
 

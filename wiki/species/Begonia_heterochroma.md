@@ -7,6 +7,10 @@ family: Begoniaceae
 vol: 39
 pages: 23-26
 source: sources/Begoniaceae_vol39_liteparse
+countries: [Cameroon, Gabon]
+in_region: true
+habitat: [secondary forest]
+altitude_m: "80–360"
 tags: [species, generated]
 ---
 # *Begonia heterochroma* Sosef

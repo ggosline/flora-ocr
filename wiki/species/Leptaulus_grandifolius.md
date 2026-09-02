@@ -7,6 +7,9 @@ family: Icacinaceae
 vol: 20
 pages: 59-61
 source: sources/Icacinaceae_vol20_paddle
+countries: [Cameroon]
+in_region: true
+habit: "shrub"
 tags: [species, generated]
 ---
 # *Leptaulus grandifolius* Engl.

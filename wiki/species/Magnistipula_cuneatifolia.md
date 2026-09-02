@@ -7,6 +7,9 @@ family: Scytopetalaceae
 vol: 24
 pages: 84-86
 source: sources/Chrysobalanaceae_vol24_paddle
+countries: [Cameroon, Gabon]
+in_region: true
+habit: "tree"
 tags: [species, generated]
 ---
 # *Magnistipula cuneatifolia* Hauman
@@ -43,7 +46,7 @@ Le Testu 9376, Nzec, 35 km WNW Mitzic (fl., nov.).
 
 ![Magnistipula cuneatifolia](../sources/Chrysobalanaceae_vol24_paddle/figures/fig_024_p0085.png)
 
-*PL. 24. — Magnistipula cuneatifolia Haum.: 1, rameau avec fleurs × 2/3; 2, glandes foliaires × 2; 3, bractée × 2; 4, fleur (pét. excl.) × 2; 5, fleur en coupe × 3. (Le Testu 9376).*
+*PL. 24. — Magnistipula cuneatifolia Haum.: 1, branch with flowers × 2/3; 2, foliar glands × 2; 3, bract × 2; 4, flower (petals excl.) × 2; 5, flower in section × 3. (Le Testu 9376).*
 
 ## Notes
 

@@ -7,6 +7,7 @@ family: Loganiaceae
 vol: 19
 pages: 40-44
 source: sources/Loganiaceae_vol19_paddle
+habitat: [savanna]
 tags: [species, generated]
 ---
 # *Nuxia congesta* R. Brown ex Fres.
@@ -85,7 +86,7 @@ PL. 13. — Nuxia congesta R. Br. ex Fresen. : 1 à 5, 7, 8 et 11 à 14, feuille
 
 ![Nuxia congesta](../sources/Loganiaceae_vol19_paddle/figures/fig_012_p0042.png)
 
-*PL. 12. — Nuxia congesta R. Br. ex Fresen. : 1, rameau × 1/2; 2, fleur × 5; 3, int. du calice × 4; 4, dissect. de la partie caduque de la corolle × 6; 5, ext. d'une portion de la corolle × 6; 6, pistil avec base persistante de la corolle × 5; 7, fruit × 4; 8, fruit sans calice × 4; 9, sect. long. du fruit × 4; 10, graine × 12; 11, dissect. de la graine avec embryon × 12; 12, portion du testa × 60; 13, deux côtés de l'embryon. (1-2, 4-6 : Breteler c. s. MC 164, WAG; 3, 7-13 : d'après Greenway 7619, Tanzanie, EA).*
+*PL. 12. — Nuxia congesta R. Br. ex Fresen.: 1, branch × 1/2; 2, flower × 5; 3, int. of calyx × 4; 4, dissect. of the deciduous part of corolla × 6; 5, ext. of a portion of corolla × 6; 6, pistil with persistent base of corolla × 5; 7, fruit × 4; 8, fruit without calyx × 4; 9, long. sect. of fruit × 4; 10, seed × 12; 11, dissect. of seed with embryo × 12; 12, portion of testa × 60; 13, two sides of embryo. (1-2, 4-6: Breteler c. s. MC 164, WAG; 3, 7-13: after Greenway 7619, Tanzania, EA).*
 
 ![Nuxia congesta](../sources/Loganiaceae_vol19_paddle/figures/fig_013_p0043.png)
 

@@ -5,19 +5,14 @@ authority: (G.Don) Exell
 genus: Ludwigia
 family: Onagraceae
 synonyms: [Jussiaea linifolia Vahl, Jussiaea hyssopifolia G.Don, Ludwigia micrantha (Kuntze) H.Hara]
-countries: [Senegal, Cape Verde, Gabon, Sudan, Democratic Republic of the Congo, Malaysia, Australia]
-subdivisions:
-  Gabon: [Estuaire, Haut-Ogooué, Ogooué-Lolo, Ogooué-Maritime, Ngounié, Nyanga]
-countries_incomplete: true
-in_region: true
-habit: erect herb or shrub
-habitat: [wet ground, marshy savanna hollows, grassland, marshes, sandbanks]
-altitude_m: "5–390 in Gabon; to 500 elsewhere"
 treatments:
   - vol: 52
     year: 2018
     pages: "37–38"
     source: sources/Onagraceae_vol52_liteparse
+countries: [Democratic Republic of the Congo, Gabon, Senegal, Sudan]
+in_region: true
+habit: "shrub"
 tags: [species]
 ---
 

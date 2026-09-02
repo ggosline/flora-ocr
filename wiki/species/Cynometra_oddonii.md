@@ -7,6 +7,7 @@ family: Leguminosae
 vol: 15
 pages: 73-75
 source: sources/Leguminosae_vol15_paddle
+habit: "tree"
 tags: [species, generated]
 ---
 # *Cynometra oddonii* De Wild.

@@ -7,6 +7,13 @@ family: Scrophulariaceae
 vol: 48
 pages: 123-123
 source: sources/Scrophulariaceae_vol48_liteparse
+countries: [Gabon, Kenya, Madagascar, Tanzania]
+in_region: true
+subdivisions:
+  Gabon: [Estuaire, Ogooué-Maritime]
+habit: "herb"
+habitat: [coastal, evergreen forest]
+altitude_m: "5–130"
 tags: [species, generated]
 ---
 # *Lindernia rotundifolia* (L.) Alston Planche 38, 54(G–H)

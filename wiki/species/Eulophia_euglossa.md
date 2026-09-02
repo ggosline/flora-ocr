@@ -7,6 +7,9 @@ family: Orchidaceae
 vol: 37
 pages: 95-97
 source: sources/Orchidaceae_vol37_paddle
+countries: [Cameroon, Central African Republic, Cote d'Ivoire, Democratic Republic of the Congo, Gabon, Ghana, Liberia, Nigeria, Sierra Leone, Togo, Uganda]
+in_region: true
+habitat: [gallery forest, savanna, secondary forest, rocky ground]
 tags: [species, generated]
 ---
 # *Eulophia euglossa* (Rchb.f.) Rchb.f. ex Batem.
@@ -45,7 +48,7 @@ Le Testu 8690, Haute Ogooué, Mogonzo (fl. Jan.), BM!, BR!; 8954, Woleu-Ntem (fl
 
 ![Eulophia euglossa](../sources/Orchidaceae_vol37_paddle/figures/fig_038_p0096.png)
 
-*PL. 144. – Eulophia euglossa (Rchb.f.) Rchb.f. ex Batem.: A, labelle et éperon, vue latérale; B, labelle et éperon étalés; C, labelle étalé, vue latérale; D, sépale latéral; E, pétale; F, sépale dorsal; G, gynostème, vue de face (A-B, D-G, Letouzey 11453, P; C, Asonganyi 243, P).*
+*PL. 144. – Eulophia euglossa (Rchb.f.) Rchb.f. ex Batem.: A, labellum and spur, lateral view; B, labellum and spur spread out; C, labellum spread out, lateral view; D, lateral sepal; E, petal; F, dorsal sepal; G, gynostème, frontal view (A-B, D-G, Letouzey 11453, P; C, Asonganyi 243, P).*
 
 ## Notes
 

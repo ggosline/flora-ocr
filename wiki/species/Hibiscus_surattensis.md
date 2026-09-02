@@ -7,6 +7,12 @@ family: Malvaceae
 vol: 45
 pages: 76-79
 source: sources/Malvaceae_vol45_liteparse
+countries: [Angola, Gabon, Senegal, Sudan]
+in_region: true
+subdivisions:
+  Gabon: [Estuaire, Ngounié, Nyanga, Ogooué-Ivindo, Ogooué-Maritime, Woleu-Ntem]
+habit: "herb"
+altitude_m: "90–200"
 tags: [species, generated]
 ---
 # *Hibiscus surattensis* L. Planche 21

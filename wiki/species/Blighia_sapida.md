@@ -7,6 +7,7 @@ family: Sapindaceae
 vol: 23
 pages: 184-185
 source: sources/Sapindaceae_vol23_paddle
+habit: "tree"
 tags: [species, generated]
 ---
 # *Blighia sapida* Koenig

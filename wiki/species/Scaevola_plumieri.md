@@ -7,6 +7,11 @@ family: Goodeniaceae
 vol: 38
 pages: 18-18
 source: sources/Goodeniaceae_vol38_liteparse
+countries: [Gabon, Madagascar]
+in_region: true
+subdivisions:
+  Gabon: [Nyanga, Ogooué-Maritime]
+habit: "shrub"
 tags: [species, generated]
 ---
 # *Scaevola plumieri* (L.) Vahl

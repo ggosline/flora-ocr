@@ -7,6 +7,13 @@ family: Scrophulariaceae
 vol: 48
 pages: 125-125
 source: sources/Scrophulariaceae_vol48_liteparse
+countries: [Angola, Burundi, Gabon, Kenya, Madagascar, Malawi, Sudan, Tanzania, Zambia, Zimbabwe]
+in_region: true
+subdivisions:
+  Gabon: [Estuaire, Ogooué-Ivindo]
+habit: "herb"
+habitat: [rocky ground]
+altitude_m: "100–300"
 tags: [species, generated]
 ---
 # *Micrargeria filiformis* (Schum. & Thonn.) Hutch. & Dalziel Planche 39

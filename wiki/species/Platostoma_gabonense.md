@@ -6,6 +6,12 @@ genus: Platostoma
 vol: 58
 pages: 87-88
 source: sources/Labiataeulmaceaeverbenaceae_vol58_liteparse
+countries: [Cameroon, Gabon, Ghana, Nigeria, Tanzania]
+in_region: true
+subdivisions:
+  Gabon: [Moyen-Ogooué, Ogooué-Maritime]
+habit: "herb"
+altitude_m: "0–200"
 tags: [species, generated]
 ---
 # *Platostoma gabonense* A.J.Paton Planche 21(1, 2)

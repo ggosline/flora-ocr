@@ -7,6 +7,7 @@ family: Rubiaceae
 vol: 12
 pages: 90-92
 source: sources/Rubiaceae_vol12_paddle
+habit: "herb"
 tags: [species, generated]
 ---
 # *Virectaria herbacoursi* N. Hallé sp. nov.
@@ -16,19 +17,17 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Herb nearly glabrous. Stipules bifid, refracted, pilose. Petioles puberulous. Lamina rather small, nearly glabrous. Inflorescences nearly glabrous. Flower glabrous. Calyx lobes 5, subulate, short, each with a single subapical erect hair. Corolla glabrous white 5-lobed. Disk conical bipartite. Hemicapsule 1.9–2.5 mm long. Allied to V. multiflora (Sm.) Brem., but differs substantially.
 
-Herba fere glabra. Stipulae bifidae refractae pilosae. Petiola puberula. Lamina potius parva quasi glabra. Inflorescentiae fere glabrae. Flos glaber. Lobica lycis 5, subulatis, breves, singulo pilo subapicali erecto. Corolla glabra alba 5-lobata. Discus conicus bipartitus. Hemicapsula 1,9-2,5 mm longa. Affinis V. multiflora (Sm.) Brem., sed plurimum differt.
+Herb stiff ± prostrate and ascending, reaching 60 cm, with stem violet above the base which is green. Internodes cylindrical glabrous except for two supra-axillary lines moderately pubescent, reaching up to 10–11 cm long. Stipules bifid refracted ciliate-pilose. Petioles pilose above and laterally, 2–5 mm long. Blade green, glabrous on both surfaces between the veins, elliptic to narrowly obovate, 10–40 × 3–14 mm; base acute apex briefly acute or obtuse. Main veins ± pubescent to glabrous; 5–6 pairs of secondary veins.
 
-Herbe raide ± couchée et redressée, atteignant 60 cm, à tige violette au-dessus de la base qui est verte. Entrencéurs cylindriques glabre à part deux lignes supra-axillaires médiocrement pubescentes, atteignant jusqu'à 10-11 cm de long. Stipules bifides réfractées ciliées-pileuses. Pétioles pileux dessus et latéralement, longs de 2-5 mm. Limbe vert, glabre sur les deux faces entre les nervures, elliptique à étroitement obové, de 10-40 × 3-1/4 mm; base aiguë sommet brièvement aigu ou obtus. Nervures principales ± pubescentes à glabres; 5-6 paires de nervures secondaires.
+Inflorescences multiflorous terminal on the main and secondary branches, accrescent cymose at the end of flowering, presenting at their base a single pair of reduced leafy bracts. Flowers glabrous. Calyx violaceous with 5 subulate lobes 1–1.5 mm, each bearing a subapical erect hair. Corolla glabrous white
 
-Inflorescences multiflores terminales sur les rameaux principaux et secondaires, accrescentes cymeuses en fin de floraison, présentant à leur base une seule paire foliaire réduite. Fleurs glabres. Calice violacé à 5 lobes subulés de 1-1,5 mm, portant chacun un poil subapical dressé. Corolle glabre blanche de
+PL. 14. — Virectaria herbacoursi N. Hallé (N. H. et G. C. 6177): 1, flowering plant; 2, stipules; 3, bud; 4, open flower; 5, apex of a sepal; 6 and 6', infrutescence and full fruit; 7, seed; 8 and 8', two valves of a fruit after dehiscence. — V. petrophila Mildbraed (Mildbr. 5543): 9, young bud.
 
-PL. 14. — Virectaria herbacoursi N. Hallé (N. H. et G. C. 6177) : 1, pied florifère; 2, stipules; 3, bouton; 4, fleur épanouie; 5, sommet d'un sépale; 6 et 6', infrutescence et fruit plein; 7, graine; 8 et 8', deux valves d'un fruit après déhiscence. — V. petrophila Mildbraed (Mildbr. 5543) : 9, jeune bouton.
+10–15 mm long, with 5 lobes erect violet at the apex. 5 stamens with filament 2/3 white and the upper third violet. Anther violaceous 1.5 mm; pollen green. Disk with two lobes acute divergent at the apex of the young fruit. Two many-ovuled locules.
 
-10-15 mm de long, à 5 lobes dressés violets à l'apex. 5 étamines à filet aux 2/3 blanc et le tiers supérieur violet. Anthère violacée de 1,5 mm; pollen vert. Disque à deux lobes aigus divergents au sommet du jeune fruit. Deux loges multioulées.
-
-Infrutescence accrescente à 3 ramifications principales longues de 1 à 3 cm et souvent bifides au niveau de la première fleur; 4-12 fruits par branche. Une seule valve persistante par fruit, longue de 1,9-2,5 mm. Graines brunes anguleuses verruculeuses de 0,5-0,6 mm.
+Infrutescence accrescent with 3 main ramifications 1 to 3 cm long and often bifid at the level of the first flower; 4–12 fruits per branch. A single persistent valve per fruit, 1.9–2.5 mm long. Seeds brown angular verrucose 0.5–0.6 mm.
 
 ## Type
 
@@ -36,17 +35,13 @@ N. Hallé et G. Cours 6177 (P), petite savane à carapace latéritique entre Mbi
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Other Gabonese material:
 
-Autre matériel gabonais :
-
-Le Testu : 5291, champ de latérite dit Coumou-Mangoundou (fl. avr.). La localité de cet échantillon est très probablement la même que celle du type, nous la situons approximativement à quelque km au NE de Makan-gonio sur la route de Mbigou.
+Le Testu: 5291, laterite field called Coumou-Mangoundou (fl. Apr.). The locality of this specimen is very probably the same as that of the type, we situate it approximately some km NE of Makangonio on the road to Mbigou.
 
 ## Source note
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Une espèce restée inédite, Virecta petrophila de Mildbraed (Wiss. Erg. Deut. Zentr. Afr. Exp. 1910-1911, 2, 1922, nomen), existe au Sud Cameroun. Très voisine de V. herbacoursi, elle en diffère par son ovaire pubescent, ses lobes calycinaux biciliés et par sa corolle un peu pubescente (Pl. 14, 9); même type d'habitat (Mildbraed 5543, 30 km W de Sangmelima. HBG)
+An unpublished species, Virecta petrophila of Mildbraed (Wiss. Erg. Deut. Zentr. Afr. Exp. 1910–1911, 2, 1922, nomen), exists in South Cameroon. Very close to V. herbacoursi, it differs by its pubescent ovary, its biciliate calyx lobes and by its somewhat pubescent corolla (Pl. 14, 9); same type of habitat (Mildbraed 5543, 30 km W of Sangmelima. HBG)
 
 ## Figures
 

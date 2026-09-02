@@ -5,10 +5,10 @@ authority: Pellegr.
 genus: Costus
 family: Zingiberaceae
 family_current: Costaceae
+treatments: [{vol: 9, pages: "72–73", source: sources/Zingiberaceae_vol9_paddle}]
 countries: [Gabon]
 in_region: true
-habit: rhizomatous herb to 1.5 m or more
-treatments: [{vol: 9, pages: "72–73", source: sources/Zingiberaceae_vol9_paddle}]
+habit: "herb"
 tags: [species, endemic]
 ---
 # *Costus maboumiensis* Pellegr.

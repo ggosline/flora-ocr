@@ -7,6 +7,12 @@ family: Cyperaceae
 vol: 44
 pages: 74-76
 source: sources/Cyperaceae_vol44_liteparse
+countries: [Gabon]
+in_region: true
+subdivisions:
+  Gabon: [Estuaire, Haut-Ogooué, Moyen-Ogooué, Ogooué-Ivindo, Ogooué-Lolo, Ogooué-Maritime, Woleu-Ntem]
+habit: "herb"
+altitude_m: "1200"
 tags: [species, generated]
 ---
 # *Cyperus sphacelatus* Rottb. Planche 45

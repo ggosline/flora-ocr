@@ -7,6 +7,12 @@ family: Solanaceae
 vol: 55
 pages: 134-137
 source: sources/Solanaceae_vol55_liteparse
+countries: [Gabon]
+in_region: true
+subdivisions:
+  Gabon: [Woleu-Ntem]
+habit: "tree"
+altitude_m: "600"
 tags: [species, generated]
 ---
 # *Solanum wrightii* Benth. Planche 44
@@ -17,25 +23,17 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Tree up to 10 m tall, prickly or unarmed; branches spreading to erect, cylindric, sparsely pubescent to glabrescent with erect stellate hairs and long rigid simple hairs, unarmed or with a few straight prickles. Leaf: petiole 4–9 cm, sparsely pubescent, with hairs stiffening with age, unarmed or sparsely prickly; blade elliptic, 20–50 × 10–30 cm, cordate to truncate at base, acute at apex, margin entire or toothed to deeply lobed, with up to 4 broadly triangular lobes per side, acute at apex, unarmed or sometimes bearing a few small prickles, concolorous, sparsely pubescent with simple hairs above, densely pubescent with stipitate stellate hairs below. Inflorescence lateral or oppositifoliate, 7–10 cm long, simple, with 10 to 50 heterostylous flowers (andromonoecious plants); peduncle 1–2.5 cm; axes sparsely pubescent, unarmed. Flower 5-merous; pedicel 1.3–2.2 cm, pubescent with stellate hairs and glandular papillae, unarmed; calyx 1–2.5 cm long, densely pubescent, unarmed, with 5 prominent protuberances toward the base, with narrowly triangular lobes, 1–2 cm long, caudate at apex; corolla pentagonal to substellate, 5.5–8 cm in diameter, bright purple and fading with age, divided to the third, with spreading, triangular to broadly triangular lobes, 2–2.5 × 2–2.5 cm, densely pubescent with stellate hairs and papillose on the outside; stamens equal to slightly unequal, filament glabrous, anther 1.4–1.6 cm long; ovary puberulent with small glandular hairs; style 2–2.2 cm, strongly curved, with glandular hairs at the base. Fruit spheric, often slightly depressed, 5–8 cm in diameter, yellow-green at maturity, with more than 100 seeds; pericarp coriaceous to woody; protuberances of the fruiting calyx enlarged. Seed reniform, 3–3.5 × 3 mm, dark brown.
 
-Arbre jusqu’à 10 m de hauteur , aiguillonné ou inerme ; rameaux étalés à dressés, cylindriques, éparsement pubescents à glabrescents à poils étoilés porrigés et à longs poils simples rigides , inermes ou avec quelques aiguillons droits. Feuille : pétiole 4–9 cm, éparse ment pubescent, à poils rigidifiés avec l’âge, inerme ou éparsement aiguillonné ; limbe ellip tique, 20–50 × 10–30 cm, cordé à tronqué à la base, aigu au sommet, marge entière ou dentée à profondément lobée, avec jusqu’à 4 lobes largement triangulaires par côté, aigus au sommet, inerme ou portant parfois quelques petits aiguillons, concolore, éparsement pubescent à poils simples dessus, densément pubescent à poils étoilés stipités dessous . Inflorescence latérale ou oppositifoliée, 7–10 cm de longueur, simple, avec 10 à 50 fleurs hétérostylées (plantes andromonoïques) ; pédoncule 1–2,5 cm ; axes éparsement pubescents, inermes. Fleur 5-mère ; pédicelle 1,3–2,2 cm, pubescent à poils étoilés et papilles glanduleuses , inerme ; calice 1–2,5 cm de longueur, densément pubescent, inerme, avec 5 protubérances saillantes vers la base , à lobes étroitement triangulaires, 1–2 cm de longueur, caudés au sommet ; corolle pentago nale à subétoilée, 5,5–8 cm de diamètre, pourpre vif et décolorée avec l’âge, divisée jusqu’au tiers, à lobes étalés, triangulaires à largement triangulaires, 2–2,5 × 2–2,5 cm, densément pubescents à poils étoilés et papilleux à l’extérieur ; étamines égales à légèrement inégales, filet glabre, anthère 1,4–1,6 cm de longueur ; ovaire pubérulent à petits poils glanduleux ; style 2–2,2 cm, fortement recourbé, à poils glanduleux à la base. Fruit sphérique, souvent légèrement déprimé, 5–8 cm de diamètre , vert-jaune à maturité, avec plus de 100 graines ; pé-
-
-Lucy T. Smith (©), reproduit avec permission à partir de Vorontsova & Knapp (2016).
-
-ricarpe coriace à ligneux ; protubérances du calice fructifère élargies . Graine réniforme, 3–3,5 × 3 mm, brun sombre.
+Lucy T. Smith (©), reproduced with permission from Vorontsova & Knapp (2016).
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-communément planté dans les régions tropicales, mais originaire de la façade est des Andes boliviennes ; au Gabon, connu d’une seule récolte du Woleu-Ntem
+commonly planted in tropical regions, but native to the eastern face of the Bolivian Andes; in Gabon, known from a single collection from Woleu-Ntem
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-vraisemblablement non naturalisé à grande échelle, mais sa présence ponctuelle dans certaines zones forestières d’Afrique tropicale semble indiquer que l’espèce pourrait être localement en voie de naturalisation ; au Gabon à ± 600 m d’altitude, ailleurs à 0–1700 m. Usage : S. wrightii est planté comme arbre d’ornement et d’ombrage dans les jardins privés et publics
+apparently not naturalized on a large scale, but its sporadic presence in certain forest areas of tropical Africa suggests that the species could be locally in the process of naturalization; in Gabon at ± 600 m altitude, elsewhere at 0–1700 m. Uses: S. wrightii is planted as an ornamental and shade tree in private and public gardens
 
 ## Vernacular names
 

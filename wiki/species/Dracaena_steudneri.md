@@ -7,6 +7,7 @@ family: Dracaenaceae
 vol: 54
 pages: 62-62
 source: sources/Dracaenaceae_vol54_liteparse
+habit: "tree"
 tags: [species, generated]
 ---
 # *Dracaena steudneri* Engl.

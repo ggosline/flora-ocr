@@ -5,11 +5,10 @@ authority: (Mart.) St-Hil.
 genus: Alternanthera
 family: Amaranthaceae
 synonyms: [Bucholzia maritima, Telanthera maritima]
-countries: [Gabon, Brazil]
-in_region: true
-habit: coastal herb
-habitat: [seashore]
 treatments: [{vol: 7, pages: "44–46", source: sources/Amaranthaceae_vol7_paddle}]
+countries: [Gabon]
+in_region: true
+habit: "herb"
 tags: [species]
 ---
 

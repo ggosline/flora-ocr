@@ -7,6 +7,9 @@ family: Orchidaceae
 vol: 36
 pages: 21-22
 source: sources/Orchidaceae_vol36_paddle
+countries: [Cameroon, Central African Republic, Gabon, Guinea, Liberia, Nigeria, Sierra Leone]
+in_region: true
+habitat: [primary forest, riverine]
 tags: [species, generated]
 ---
 # *Brachycorythis macrantha* (Lindl.) Summerh.
@@ -47,7 +50,7 @@ Le Testu 5880, Haute Ngounyé, Doudou (fl., Mar.), BM! BR! P! and 8777, id., Lé
 
 ![Brachycorythis macrantha](../sources/Orchidaceae_vol36_paddle/figures/fig_004_p0022.png)
 
-*PL. 4. – Brachycorythis macrantha (Lindl.) Summerh.: A, fleur avec section longitudinale de l'éperon ; B, sépale dorsal en vue latérale ; C, id. étalé ; D, sépale latéral ; E, pétale ; F, gynostème, vue de face (A-F, Le Testu 5880, P).*
+*PL. 4. – Brachycorythis macrantha (Lindl.) Summerh.: A, flower with longitudinal section of the spur ; B, dorsal sepal in lateral view ; C, id. spread out ; D, lateral sepal ; E, petal ; F, gynosteme, front view (A-F, Le Testu 5880, P).*
 
 ![Brachycorythis macrantha](../sources/Orchidaceae_vol36_paddle/figures/fig_113_p0218.png)
 

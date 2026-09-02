@@ -17,15 +17,13 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+P1.32.- Xylopia Mildbraedii Diels: 1, leaf and floral bud × 2/3 (Mildbread 6055); 2, flower × 2/3; 3, 4, external and internal petals × 4.5; 5, flower, petals and stamens removed × 3; 6, stamen × 8; 7, external and internal staminodes × 8; 8, carpel and ovary section × 4 (Le Testu 8742). — X. phloiodora Mildbr.: 9, floriferous branch × 2/3; 10, 11, external and internal petals × 1.5; 12, flower, petals and stamens removed × 3; 13, stamen × 8; 14, external and internal staminodes × 8; 15, carpel and ovary section × 8; 16, fruit × 2/3 (Letouzey 5057).
 
-P1.32.- Xylopia Mildbraedii Diels:1,feuille et bouton floral × 2/3 (Mildbread 6055);2,fleur × 2/3;3,4,pétales externe et interne × 4,5;5,fleur,petales et étamines enleves × 3;6,étamine X 8;7,staminodes externe et interne × 8; 8,carpellc et coupe de Povaire × 4(Le Testu 8742).-X.phloiodora Mildbr.: 9,rameau florifere × 2/3;10,11,pétales externe et internc × 1,5;12,fleur, pétales et étamines enleves × 3;13,étamine × 8;14,staminodes externe et interne X 8;15,carpelle et coupe de 'ovaire × 8;I6,fruit × 2/3 (Letouzey 5057).
+Tree (?). Bark grey, covered with numerous white lenticels; young branchlets appressed-pubescent, reddish-brown. Leaves with petiole 4–5 mm long, appressed-pubescent; blade papyraceous, oblong, 9.5–12–17 cm long, 3–4–5.5 cm wide, subobtuse at base, long-acuminate at apex (acumen = 1–1.5 cm); upper surface glabrous, lower surface appressed-pubescent. Midvein impressed and pubescent above, prominent below. Lateral veins 10–15 pairs, united in arches near the margin; reticulation visible on lower surface.
 
-Arbre (?). Ecorce grise, couverte de nombreux lenticelles blancs;jeunes ramilles pubescentes-apprimées rousses. Feuilles ä pétiole long de 4-5 mm,pubescent-apprimé; limbe papyracé, oblong, long de (9,5)12-17 cm,large de (3)4-5,5 cm, subaigu a la base, longuement acuminé au sommet (acumen = 1-1,5 cm); face supérieure glabre, face inférieure apprimée-pubescente. Nervure médiane imprimée et pubescente au-dessus, saillante en dessous. Nervures latérales Io-15 paires, réunies en arceaux pres de la marge;réticulation visible ä la face inférieure.
+Flowers solitary, axillary, with pedicel 4–5 mm long, densely reddish-brown pubescent. Bracteoles 3, ovate, 3–5 mm long, 3–4 mm wide, appressed-pubescent externally. Sepals triangular-acute, 5–7 mm long, 4–5 mm wide, pubescent externally. Petals linear, the external ones 6–7 cm long, 3–4 mm wide and 6 mm at the enlarged oval base, appressed-silky externally, puberulent internally; the internal ones 4.5–6 cm long, 2 mm wide and 6 mm at the enlarged, rounded base, very thick, clawed, appressed-silky externally, more densely so at base, puberulent internally, base furnished with a tuft of long hairs, glabrous on the claw. External and internal staminodes cuneiform, approximately 2 mm long. Stamens linear, 2–2.5 mm long, slender, filaments short, connectives enlarged-capitate, inserted on a flat receptacle, not surrounding the ovaries. Carpels 10–13, 7–8 mm long, ovaries ovoid-oblong, 1–1.5 mm long, villous, styles filamentous, 6–7 mm long, hirsute, agglutinated to one another. Ovules 8, uniseriate.
 
-Fleurs solitaires,axillaires,ä pédicelle long de 4-5 mm, densément pubescent roux. Bractéoles 3,ovées, longues de 3-5 mm, larges de 3-4 mm,pubescentes-apprimées extérieurement. Sépales triangulaires-aigus,longs de 5-7 mm,larges de 4-5 mm,pubescents á l'extérieur.Pétales linéaires,les externes longs de 6-7 cm, larges de 3-4 mm,et 6 mm a la base élargieovale,pubescents-soyeux á I'extérieur,pubérulents a l'intérieur; les internes,longs de 4,5-6 cm,larges de 2 mm et 6 mm a la base élargie, arrondie, tres épaisse, onguiculée, pubescents-soyeux ä 'extérieur,plus densément á la base,pubérulents á l'intérieur, a base munie d'une touffe de longs poils,glabres sur Ponglet. Staminodes externes et internes cunéiformes,longs de 2 mm environ.Etamines linéaires, longues de 2-2,5 mm,gréles,filets courts, connectifs élargis-capités, insérees sur un receptacle plan, n'entourant pas les ovaires. Carpelles Io-13, longs de 7-8 mm, ovaires ovoides-oblongs,longs de 1-1,5 mm,velus,styles filamenteux, longs de 6-7 mm, hirsutes, agglutinés les uns aux autres. 8 ovules uniséries.
-
-Fruits inconnus.
+Fruits unknown.
 
 ## Type
 
@@ -33,9 +31,7 @@ Mildbraed 6o55,pres de Beson,45 km E de Kribi (fl.) (holotype B; isotype HBG!)
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Espéce camerouno-gabonaise, voisine de X.acutiflora (Dunal) A.Rich.,distincte par ses feuilles oblongues,longuement acuminées,apprimées-pubescentes au-dessous, ses fleurs plus longues et surtout le réceptacle plan, non relevé autour des ovaires.
+Cameroonian-Gabonese species, related to X. acutiflora (Dunal) A.Rich., distinct by its oblong leaves, long-acuminate, appressed-pubescent below, its longer flowers and especially the flat receptacle, not raised around the ovaries.
 
 ## Vernacular names
 

@@ -7,6 +7,10 @@ family: Leguminosae
 vol: 49
 pages: 283-284
 source: sources/Millettiaspeciesfabaceae_vol49_liteparse
+countries: [Gabon]
+in_region: true
+subdivisions:
+  Gabon: [Estuaire, Ogooué-Lolo, Ogooué-Maritime]
 tags: [species, generated]
 ---
 # *Millettia klainei* Dunn

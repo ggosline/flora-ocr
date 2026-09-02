@@ -7,6 +7,10 @@ family: Leguminosae
 vol: 49
 pages: 305-306
 source: sources/Millettiaspeciesfabaceae_vol49_liteparse
+countries: [Gabon]
+in_region: true
+habit: "tree"
+altitude_m: "600"
 tags: [species, generated]
 ---
 # *Myroxylon balsamum* (L.) Harms Planche 98

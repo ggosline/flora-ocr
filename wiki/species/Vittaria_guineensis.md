@@ -7,6 +7,8 @@ family: Vittariaceae
 vol: 08
 pages: 101-102
 source: sources/Vittariaceae_vol08_paddle
+countries: [Angola, Cameroon, Guinea, Sao Tome and Principe]
+in_region: true
 tags: [species, generated]
 ---
 # *Vittaria guineensis* Desvaux
@@ -21,11 +23,9 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 — Desv., Mag. Ges. Naturf. Freude Berlin. 5 : 325 (1811). — Tard., Mém. IFAN 28 : 202, pl. 40, f. 1-2 (1953). — Alston, FWTA : 35 (1959).
 
-Rhizome courtement rampant, à écailles lancéolées, très aiguës, se terminant en une pointe unicellulaire, aiguë, formée de cellules à parois épaisses, noires, plus foncées au centre, lumière incolore, parois transversales des cellules formant de fausses épines. Fronde linéaire-lancéolée, atteignant 60 cm de longueur sur 0,6-1 cm de largeur, pétiolées, à pétiole long de 2-5 cm, noirâtre à la base. Extrémité du limbe aiguë, mucronée, à hydathode terminale. Nervure médiane apparente dans le bas de la fronde aplatie, plus ou moins triangulaire, non apparente au sommet. Nervures latérales peu apparentes, sauf sur la plante jeune. Sores marginaux, immergés. Paraphyses rousses, articulées, terminées par une cellule épaissie.
+Rhizome shortly creeping, with lanceolate scales, very acute, terminating in a sharp unicellular point, formed of cells with thick walls, black, darker at the centre, colourless lumen, transverse walls of the cells forming false spines. Frond linear-lanceolate, reaching 60 cm in length by 0.6-1 cm in width, petiolate, with petiole 2-5 cm long, blackish at the base. Apex of the lamina acute, mucronate, with terminal hydathode. Midvein apparent in the lower part of the frond flattened, more or less triangular, not apparent at the apex. Lateral veins scarcely apparent, except on the young plant. Sori marginal, immersed. Paraphyses rusty, articulate, terminated by a thickened cell.
 
 ## Type
 
@@ -33,9 +33,7 @@ Palisot de Beauvois, Afrique occidentale, in herb. Desv. (P)
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-De Guinée au Cameroun et en Angola. Ile du Prince et San-Thomé.
+From Guinea to Cameroon and Angola. Prince Island and São Tomé.
 
 ## Specimens examined
 

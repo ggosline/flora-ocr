@@ -7,6 +7,12 @@ family: Nymphaeaceae
 vol: 40
 pages: 60-61
 source: sources/Nymphaeaceae_vol40_liteparse
+countries: [Gabon]
+in_region: true
+subdivisions:
+  Gabon: [Ogooué-Lolo, Ogooué-Maritime]
+habit: "herb"
+altitude_m: "400"
 tags: [species, generated]
 ---
 # *Nymphaea nouchali* Burm.f. var. caerulea (Savigny) Verdc. Planche 14 (1-7)

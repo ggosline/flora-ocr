@@ -7,6 +7,11 @@ family: Podostemaceae
 vol: 51
 pages: 38-41
 source: sources/Podostemaceae_vol51_liteparse
+countries: [Gabon]
+in_region: true
+subdivisions:
+  Gabon: [Woleu-Ntem]
+altitude_m: "600"
 tags: [species, generated]
 ---
 # *Ledermanniella boloensis* C.Cusset Planche 15

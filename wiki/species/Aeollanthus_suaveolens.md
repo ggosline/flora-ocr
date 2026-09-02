@@ -6,6 +6,12 @@ genus: Aeollanthus
 vol: 58
 pages: 18-20
 source: sources/Labiataeulmaceaeverbenaceae_vol58_liteparse
+countries: [Cameroon, Central African Republic, Equatorial Guinea, Gabon, Nigeria]
+in_region: true
+subdivisions:
+  Gabon: [Haut-Ogooué, Woleu-Ntem]
+habit: "herb"
+altitude_m: "580"
 tags: [species, generated]
 ---
 # *Aeollanthus suaveolens* Mart. ex Spreng. Planche 2

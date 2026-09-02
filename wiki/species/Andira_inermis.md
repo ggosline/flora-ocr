@@ -7,6 +7,11 @@ family: Leguminosae
 vol: 49
 pages: 43-45
 source: sources/Millettiaspeciesfabaceae_vol49_liteparse
+countries: [Cameroon, Gabon, Gambia]
+in_region: true
+habit: "tree"
+habitat: [savanna, riverine]
+altitude_m: "1200"
 tags: [species, generated]
 ---
 # *Andira inermis* (Wright) DC. subsp. inermis Planche 10

@@ -7,6 +7,7 @@ family: Myrtaceae
 vol: 11
 pages: 10-12
 source: sources/Myrtaceae_vol11_paddle
+habit: "tree"
 tags: [species, generated]
 ---
 # *Syzygium staudtii* (Engl.) Mildbr.
@@ -22,19 +23,17 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 Mildbr., Wissenschaft. Ergebn. Deutsch. Zentr. Afr. Exp. (1910-1911) : 188 (1922). — Keay, Kew Bull. 1953 : 288; F.W.T.A. 2 ed. 1 : 240 (1954). — Aubréville F.F.C. d'I. ed. 2,3 : 86 (1959). — Pellegr., Mém. Soc. Linn. Norm. 24 : 119 (1924). — Walker et Sillans, Pl. Ut. Gab. 312 (1961). — Syzygium guineense (Wild.) DC. var. Staudtii Engl. t.c. : 582 (1913).
 
-Arbre glabre de 20 m de haut, atteignant quelquefois 1 m de diamètre. Fût tortueux et cannelé. Écorce écailleuse, de tranche grisâtre rosée. Jeunes rameaux grêles, quadrangulaires, brun pâle. Feuilles pétiolées, obovées, cunéiformes ou aiguës à la base, courtement acuminées au sommet, longues de 4-7 (9) cm, larges de 1,5-4 cm. Pétiole grêle, de 6-10 mm de long.
+Glabrous tree 20 m tall, sometimes reaching 1 m in diameter. Trunk tortuous and grooved. Bark scaly, greyish-pink on section. Young branchlets slender, quadrangular, pale brown. Leaves petiolate, obovate, cuneate or acute at the base, shortly acuminate at the apex, 4–7 (9) cm long, 1.5–4 cm wide. Petiole slender, 6–10 mm long.
 
-Panicules terminales, multiflores, à ramifications quadrangulaires. Boutons floraux petits, de 2-3 mm de diamètre. Sépales arrondis, très petits. Filets de 3-5 mm de long. Fruit globuleux, de presque 1 cm de diamètre, couronné par une marge annulaire portant les restes des sépales.
+Terminal panicles, many-flowered, with quadrangular branches. Flower buds small, 2–3 mm in diameter. Sepals rounded, very small. Filaments 3–5 mm long. Fruit globose, almost 1 cm in diameter, crowned by an annular margin bearing the remains of the sepals.
 
-Type de l'espèce : Staudt 491 (Cameroun).
+Type of the species: Staudt 491 (Cameroon).
 
-Espèce proche de S. guineense, le plus souvent assez distincte par les caractères mentionnés dans la clé. Les feuilles peuvent être longuement ou courtemment acuminées; les feuilles du type, comme celles du S. marounzense Pellegr., sont courtemment acuminées; les feuilles du S. montanum Aubrév. sont décrites comme longuement acuminées.
+Species close to S. guineense, most often quite distinct by the characters mentioned in the key. The leaves may be long or shortly acuminate; the leaves of the type, like those of S. marounzense Pellegr., are shortly acuminate; the leaves of S. montanum Aubrév. are described as long-acuminate.
 
-Espèce montagnarde distribuée du Congo oriental jusqu'en Afrique occidentale : Côté-d'Ivoire, Guinée, Libéria, Cameroun. Descend parfois à des altitudes plus basses.
+Montane species distributed from eastern Congo to West Africa: Côte-d'Ivoire, Guinea, Liberia, Cameroon. Sometimes descends to lower altitudes.
 
 ## Specimens examined
 
@@ -44,11 +43,11 @@ Le Testu : 2064, région de la Nyanga, Marounza (fl. mai, type de S. marounzense
 
 ![Syzygium staudtii](../sources/Myrtaceae_vol11_paddle/figures/fig_001_p0011.png)
 
-*PL.I. — Syzygium Gillettii De Wildeman (Le Testu 9637): I, inflorescence et feuilles (× 1/2); 2, bouton (× 2); 3, section transversale de la tige (× 1).*
+*PL.I. — Syzygium Gillettii De Wildeman (Le Testu 9637): 1, inflorescence and leaves (× 1/2); 2, bud (× 2); 3, transverse section of the stem (× 1).*
 
 ![Syzygium staudtii](../sources/Myrtaceae_vol11_paddle/figures/fig_002_p0013.png)
 
-*PL. II. — Syzygium congolense Vermoesen ex Amshoff : 1, fleurs et feuilles (× 1/2); 2, bouton (× 4); 3, fleur (× 2); 4, fruit (× 2); 5, section transversale de la tige (× 2). 1, 3, 5, Le Testu 8877; 2, Evrard 3900 (P); 4, Léonard 1962 (P). — Syzygium staudtii (Engl.) Mildbraed : 6, bouton (× 4); 7, fleur (× 2); 8, fruit (× 2); 9, section transversale de la tige (× 2); 10, feuille (× 1/2). 6, 7, 10, Le Testu 7302 (P); 8 et 9, A. Léonard 3139 (P).*
+*PL. II. — Syzygium congolense Vermoesen ex Amshoff : 1, flowers and leaves (× 1/2); 2, bud (× 4); 3, flower (× 2); 4, fruit (× 2); 5, transverse section of the stem (× 2). 1, 3, 5, Le Testu 8877; 2, Evrard 3900 (P); 4, Léonard 1962 (P). — Syzygium staudtii (Engl.) Mildbraed : 6, bud (× 4); 7, flower (× 2); 8, fruit (× 2); 9, transverse section of the stem (× 2); 10, leaf (× 1/2). 6, 7, 10, Le Testu 7302 (P); 8 et 9, A. Léonard 3139 (P).*
 
 ## Notes
 

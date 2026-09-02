@@ -7,6 +7,8 @@ family: Dichapetalaceae
 vol: 32
 pages: 87-91
 source: sources/Dichapetalaceae_vol32_paddle
+countries: [Angola, Democratic Republic of the Congo, Gabon, Kenya, Nigeria]
+in_region: true
 tags: [species, generated]
 ---
 # *Dichapetalum fructuosum* Hiern
@@ -57,7 +59,7 @@ Breteler 6918, 60 km au S.S.O. de Moanda (stér., Oct.). Le Testu 9526, Oyem (fl
 
 ![Dichapetalum fructuosum](../sources/Dichapetalaceae_vol32_paddle/figures/fig_022_p0090.png)
 
-*PL. 21. – Dichapetalum fructuosum Hiern : 1, rameau florifère × 0,8 ; 2, jeune rameau, indumentum × 2,5 ; 3, bouton floral × 5 ; 4, 5, fleur × 10 ; 6, fleur, détail × 7,5 ; 7, fruit 2-sperme × 2,5 (1-4, 6, Troupin 4046 ; Magogo & Glover 179 ; 7, Oddon in Gillet 3569). – Repris de MLW 78 (10) : 79 (1978).*
+*PL. 21. – Dichapetalum fructuosum Hiern : 1, flowering branch × 0.8 ; 2, young branch, indumentum × 2.5 ; 3, floral bud × 5 ; 4, 5, flower × 10 ; 6, flower, detail × 7.5 ; 7, 2-seeded fruit × 2.5 (1-4, 6, Troupin 4046 ; Magogo & Glover 179 ; 7, Oddon in Gillet 3569). – Taken from MLW 78 (10) : 79 (1978).*
 
 ## Notes
 

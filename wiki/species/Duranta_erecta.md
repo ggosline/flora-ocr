@@ -7,6 +7,12 @@ family: Verbenaceae
 vol: 58
 pages: 134-136
 source: sources/Verbenaceae_vol58_liteparse
+countries: [Angola, Central African Republic, Gabon, Sao Tome and Principe]
+in_region: true
+subdivisions:
+  Gabon: [Ogooué-Lolo]
+habit: "tree"
+altitude_m: "250"
 tags: [species, generated]
 ---
 # *Duranta erecta* L. Planche 36

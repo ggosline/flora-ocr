@@ -7,6 +7,9 @@ family: Leguminosae
 vol: 31
 pages: 84-86
 source: sources/Leguminosae_vol31_paddle
+countries: [Angola, Cameroon, Democratic Republic of the Congo, Senegal]
+in_region: true
+habitat: [rocky ground]
 tags: [species, generated]
 ---
 # *Entada mannii* (Oliver) Tisserant

@@ -7,6 +7,11 @@ family: Begoniaceae
 vol: 39
 pages: 18-18
 source: sources/Begoniaceae_vol39_liteparse
+countries: [Angola, Guinea]
+in_region: true
+habit: "herb"
+habitat: [riverine]
+altitude_m: "1000"
 tags: [species, generated]
 ---
 # *Begonia macrocarpa* Warb.

@@ -7,6 +7,9 @@ family: Leguminosae
 vol: 15
 pages: 139-141
 source: sources/Leguminosae_vol15_paddle
+countries: [Gabon, Nigeria]
+in_region: true
+habit: "tree"
 tags: [species, generated]
 ---
 # *Detarium macrocarpum* Harms
@@ -47,7 +50,7 @@ Aubréville : 57, Kango. Lecomte : 6, Fernan Vaz.
 
 ![Detarium macrocarpum](../sources/Leguminosae_vol15_paddle/figures/fig_031_p0140.png)
 
-*PL. XXXI. — Detarium microcarpum Guill. et Perr.: 1, rameau florifère × 2/3; 2, fleur × 4. — Detarium macrocarpum Harms: 3, feuille × 2/3; 4, inflorescence × 2/3; 5, fleur × 4; 6, fruit × 2/3.*
+*PL. XXXI. — Detarium microcarpum Guill. et Perr.: 1, flowering branch × 2/3; 2, flower × 4. — Detarium macrocarpum Harms: 3, leaf × 2/3; 4, inflorescence × 2/3; 5, flower × 4; 6, fruit × 2/3.*
 
 ## Notes
 

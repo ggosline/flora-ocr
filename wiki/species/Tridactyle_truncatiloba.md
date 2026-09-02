@@ -7,6 +7,8 @@ family: Orchidaceae
 vol: 37
 pages: 169-171
 source: sources/Orchidaceae_vol37_paddle
+countries: [Gabon]
+in_region: true
 tags: [species, generated]
 ---
 # *Tridactyle truncatiloba* Summerh.
@@ -17,39 +19,33 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 – TYPE: Le Testu 5778 & 5784, Gabon, syn – K!, isosyn – P! (Summerhayes, 1948). – FCAM 3: 710 (2001).
 
-Tige 20-43 cm. Feuilles 6-8, 14-21 x 1,2-3 cm, ligulées à elliptiques-ligulées, inégalement bilobées. Inflorescence lâche, 8-18 cm, 6-9-flore. Fleurs plutôt grandes pour le genre, résupinées, blanches. Sépale dorsal. Pétales linéaires-lancéolés, falciformes. Sépales latéraux obliquement lancéolés à lancéolés-ovés. Labelle 20 x 15 mm, auriculé à la base, nettement trilobé ; auricules obliquement rhombiformes, brièvement bifides ; lobe médian lancéolé ou étroitement triangulaire ; lobes latéraux rubanés ou ligulés, tronqués au sommet et irrégulièrement denticulés sur les marges. Éperon 35-45 mm, filiforme. - Pl. 185, p. 401.
+Stem 20-43 cm. Leaves 6-8, 14-21 × 1.2-3 cm, ligulate to elliptic-ligulate, unequally bilobed. Inflorescence lax, 8-18 cm, 6-9-flowered. Flowers rather large for the genus, resupinate, white. Dorsal sepal. Petals linear-lanceolate, falcate. Lateral sepals obliquely lanceolate to lanceolate-ovate. Lip 20 × 15 mm, auriculate at the base, clearly trilobed; auricles obliquely rhombiform, briefly bifid; median lobe lanceolate or narrowly triangular; lateral lobes ribbon-like or ligulate, truncate at the apex and irregularly denticulate on the margins. Spur 35-45 mm, filiform. - Pl. 185, p. 401.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-actuellement connue que du Gabon
+currently known only from Gabon
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+alt. unknown. Epiphytic
 
-alt. inconnue. Épiphyte
+MATERIAL STUDIED (Map 85):
 
-MATÉRIEL ÉTUDIÉ (Carte 85) :
+Arends, Louis & De Wilde 526, approximately 40 km E of Mouila, on the road to Yéno, 1° 40' S, 11° 20' E. (fl. Nov.), WAG!.
 
-Arends, Louis & De Wilde 526, environ 40 km E de Mouila, sur la route de Yéno, 1° 40' S, 11° 20' E. (fl. Nov.), WAG!.
+Le Testu 5778, Haute Ngounyé, Noumbo (fl. Nov.), K!, P!; 5784, Kembélé (fl. Nov.), K!, P!.
 
-Le Testu 5778, Haute Ngounyé, Noumbo (fl. Nov.), K!, P! ; 5784, Kembélé (fl. Nov.), K!, P!.
-
-Wieringa 338, Tchimbélé, près du barrage, sur arbre mort, ± 10° 24' E, 0° 37' N, épiphyte (fl. Janv.), WAG!.
+Wieringa 338, Tchimbélé, near the dam, on dead tree, ± 10° 24' E, 0° 37' N, epiphytic (fl. Jan.), WAG!.
 
 II. LISTROSTACHYINAE Szlach.
 
-Fragm. Flor. Gebot., Suppl. 3 : 92 (1995).
+Fragm. Flor. Gebot., Suppl. 3: 92 (1995).
 
-Rostellum court, massif, charnu, dressé. Tegula double, lamellée à filiforme, courte. Viscidie unique, généralement aussi grande ou plus grande que la tegula, lamellée. Rostellum tronqué à fourchu après retrait du pollinarium. Pollinies 2, fendues ou porées.
+Rostellum short, massive, fleshy, erect. Tegula double, lamellose to filiform, short. Viscidium single, generally as large or larger than the tegula, lamellose. Rostellum truncate to forked after withdrawal of the pollinium. Pollinia 2, split or porate.
 
-Petite sous-tribu comprenant 5 genres dont un seul présent au Gabon.
+Small subtribe comprising 5 genera, only one of which is present in Gabon.
 
 ## Figures
 

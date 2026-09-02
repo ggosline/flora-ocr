@@ -7,6 +7,12 @@ family: Cyperaceae
 vol: 44
 pages: 22-23
 source: sources/Cyperaceae_vol44_liteparse
+countries: [Angola, Gabon, Senegal, Tanzania]
+in_region: true
+subdivisions:
+  Gabon: [Woleu-Ntem]
+habit: "herb"
+altitude_m: "500"
 tags: [species, generated]
 ---
 # *Bulbostylis coleotricha* (A.Rich.) C.B.Clarke Planche 8

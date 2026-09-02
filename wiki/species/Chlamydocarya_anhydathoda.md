@@ -7,6 +7,9 @@ family: Icacinaceae
 vol: 20
 pages: 92-94
 source: sources/Icacinaceae_vol20_paddle
+countries: [Gabon]
+in_region: true
+habit: "liana"
 tags: [species, generated]
 ---
 # *Chlamydocarya anhydathoda* Villiers
@@ -51,7 +54,7 @@ Trilles 100, entre Mondah et Como (fr., juill.).
 
 ![Chlamydocarya anhydathoda](../sources/Icacinaceae_vol20_paddle/figures/fig_023_p0093.png)
 
-*PL. 23. — Chlamydocarya anhydathoda Villiers : 1, feuilles, inflorescence ♀ et infrutescence × ½; 2, détail de la nervation × 0,7; 3, fleur ♂ × 7; 4, coupe de la fleur ♂ × 7; 5, pétale × 20; 6, fleur ♀ × 2,5; 7, coupe de la fleur ♀ × 2,5; 8, diagramme de la fleur ♀; 9, ovaire × 2,5; 10, coupe de l'ovaire × 15; 11, fruit × 0,8; 12, coupe longitudinale du fruit × 0,8; 13, face interne de l'endocarpe. (1-2, Klaine 1571 et 3497; 3-5, Klaine 1889 bis; 6-13, Trilles 100).*
+*PL. 23. — Chlamydocarya anhydathoda Villiers : 1, leaves, ♀ inflorescence and infructescence × ½; 2, venation detail × 0,7; 3, ♂ flower × 7; 4, section of ♂ flower × 7; 5, petal × 20; 6, ♀ flower × 2,5; 7, section of ♀ flower × 2,5; 8, diagram of ♀ flower; 9, ovary × 2,5; 10, section of ovary × 15; 11, fruit × 0,8; 12, longitudinal section of fruit × 0,8; 13, internal surface of endocarp. (1-2, Klaine 1571 et 3497; 3-5, Klaine 1889 bis; 6-13, Trilles 100).*
 
 ## Notes
 

@@ -7,6 +7,9 @@ family: Linaceae
 vol: 21
 pages: 32-34
 source: sources/Linaceae_vol21_paddle
+countries: [Angola, Cameroon, Democratic Republic of the Congo, Gabon, Ghana, Sierra Leone]
+in_region: true
+habit: "liana"
 tags: [species, generated]
 ---
 # *Hugonia villosa* Engler

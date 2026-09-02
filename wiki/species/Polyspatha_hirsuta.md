@@ -7,6 +7,12 @@ family: Commelinaceae
 vol: 55
 pages: 85-85
 source: sources/Commelinaceae_vol55_liteparse
+countries: [Angola, Benin, Cameroon, Cote d'Ivoire, Equatorial Guinea, Gabon, Ghana, Guinea, Liberia, Nigeria, Sierra Leone, Sudan, Tanzania, Togo, Uganda]
+in_region: true
+subdivisions:
+  Gabon: [Ogooué-Ivindo, Ogooué-Maritime, Woleu-Ntem]
+habit: "herb"
+altitude_m: "590"
 tags: [species, generated]
 ---
 # *Polyspatha hirsuta* Mildbr.

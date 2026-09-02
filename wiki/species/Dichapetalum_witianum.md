@@ -7,6 +7,9 @@ family: Dichapetalaceae
 vol: 32
 pages: 191-194
 source: sources/Dichapetalaceae_vol32_paddle
+countries: [Cameroon, Gabon]
+in_region: true
+habit: "liana"
 tags: [species, generated]
 ---
 # *Dichapetalum witianum* Breteler
@@ -55,7 +58,7 @@ Louis, A.M. & al. 1212, 20 km au S.E. de Sindara (fr., Déc.); 1377, 32 km au S.
 
 ![Dichapetalum witianum](../sources/Dichapetalaceae_vol32_paddle/figures/fig_058_p0192.png)
 
-*PL. 57 – Dichapetalum witanum Breteler : 1, rameau florifère × 0,8 ; 2, pétiole avec pustules × 5 ; 3, stipule avec pustules, vue interne × 7 ; 4, inflorescence, détail × 2,5 ; 5, bractée avec pustules × 15 ; 6, fleur × 5 ; 7, fleur, détail × 5 ; 8, pistil × 10 ; 9, staminode, vue externe × 20 (1, J.J. de Wilde 8179 ; 2-9, Breteler & J.J. de Wilde 774). – Repris de MLW 82 (8) : 80 (1982).*
+*PL. 57 – Dichapetalum witanum Breteler : 1, flowering branch × 0.8 ; 2, petiole with pustules × 5 ; 3, stipule with pustules, internal view × 7 ; 4, inflorescence, detail × 2.5 ; 5, bract with pustules × 15 ; 6, flower × 5 ; 7, flower, detail × 5 ; 8, pistil × 10 ; 9, staminode, external view × 20 (1, J.J. de Wilde 8179 ; 2-9, Breteler & J.J. de Wilde 774). – Reprinted from MLW 82 (8) : 80 (1982).*
 
 ## Notes
 

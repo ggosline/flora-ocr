@@ -7,6 +7,12 @@ family: Leguminosae
 vol: 49
 pages: 376-376
 source: sources/Millettiaspeciesfabaceae_vol49_liteparse
+countries: [Burkina Faso, Gabon, Ghana, Tanzania, Uganda, Zambia]
+in_region: true
+subdivisions:
+  Gabon: [Haut-Ogooué]
+habit: "herb"
+altitude_m: "420"
 tags: [species, generated]
 ---
 # *Vigna laurentii* De Wild.

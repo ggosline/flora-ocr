@@ -7,6 +7,8 @@ family: Acanthaceae
 vol: 13
 pages: 191-194
 source: sources/Acanthaceae_vol13_paddle
+countries: [Cameroon, Central African Republic, Gabon, Uganda]
+in_region: true
 tags: [species, generated]
 ---
 # *Anisotes macrophyllus* (Lindau) Heine, comb. nov.

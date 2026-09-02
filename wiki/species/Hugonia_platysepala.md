@@ -7,6 +7,10 @@ family: Linaceae
 vol: 21
 pages: 27-28
 source: sources/Linaceae_vol21_paddle
+countries: [Angola, Democratic Republic of the Congo, Guinea, Uganda]
+in_region: true
+habit: "liana"
+habitat: [riverine]
 tags: [species, generated]
 ---
 # *Hugonia platysepala* Welwitsch ex Oliver
@@ -43,7 +47,7 @@ Hallé N. & Le Thomas A. 494, 536, Bélinga, mines de fer. Klaine 3434, environs
 
 ![Hugonia platysepala](../sources/Linaceae_vol21_paddle/figures/fig_005_p0029.png)
 
-*PL. 5. — Hugonia platysepala Welw. ex Oliv. (Le Testu 5488) : 1, détail d'un rameau × 2/3; 2, fleur épanouie × 1,5; 3, calice × 2; 4, pétale face dorsale × 1,5. — H. batesii De Wild. (Le Testu 6442) : 5, rameau florifère × 2/3; 6, bouton × 2; 7, fleur × 2; 8, gynécée × 3.*
+*PL. 5. — Hugonia platysepala Welw. ex Oliv. (Le Testu 5488) : 1, detail of a branch × 2/3; 2, open flower × 1,5; 3, calyx × 2; 4, petal dorsal surface × 1,5. — H. batesii De Wild. (Le Testu 6442) : 5, flowering branch × 2/3; 6, bud × 2; 7, flower × 2; 8, gynoecium × 3.*
 
 ## Notes
 

@@ -7,6 +7,9 @@ family: Sapindaceae
 vol: 23
 pages: 164-165
 source: sources/Sapindaceae_vol23_paddle
+countries: [Central African Republic, Democratic Republic of the Congo, Gabon]
+in_region: true
+habit: "tree"
 tags: [species, generated]
 ---
 # *Laccodiscus pseudostipularis* Radlkofer

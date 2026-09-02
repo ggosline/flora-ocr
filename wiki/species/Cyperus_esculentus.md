@@ -7,6 +7,12 @@ family: Cyperaceae
 vol: 44
 pages: 59-60
 source: sources/Cyperaceae_vol44_liteparse
+countries: [Gabon]
+in_region: true
+subdivisions:
+  Gabon: [Ogooué-Ivindo, Ogooué-Maritime]
+habit: "herb"
+altitude_m: "0–800"
 tags: [species, generated]
 ---
 # *Cyperus esculentus* L. Planche 33

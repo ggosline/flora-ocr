@@ -7,6 +7,7 @@ family: Adiantaceae
 vol: 08
 pages: 105-105
 source: sources/Adiantaceae_vol08_paddle
+habit: "herb"
 tags: [species, generated]
 ---
 # *Ceratopteris cornuta* (Beauv.) Leprieur
@@ -41,7 +42,7 @@ Griffon du Bellay : 6, sans loc. N. Hallé : 1537, Port-Gentil; 1801, Ayem, 10 k
 
 ![Ceratopteris cornuta](../sources/Adiantaceae_vol08_paddle/figures/fig_019_p0111.png)
 
-*PL. XVI. — Pellaea Holstii Hier. (Le Testu 2197) : 1, aspect général × 1/2; 2, fragment de fronde fertile × 8. — Pellaea Goudotii (Kze) C. Chr. (Le Testu 8633) : 3, aspect général × 1/2. — Ceratopteris cornuta (Beauv.) Lepr. : 4 et 5 aspect général × 1/2; 6 et 7, fragment de fronde fertile × 6.*
+*PL. XVI. — Pellaea Holstii Hier. (Le Testu 2197) : 1, general aspect × 1/2; 2, fragment of fertile frond × 8. — Pellaea Goudotii (Kze) C. Chr. (Le Testu 8633) : 3, general aspect × 1/2. — Ceratopteris cornuta (Beauv.) Lepr. : 4 et 5 general aspect × 1/2; 6 et 7, fragment of fertile frond × 6.*
 
 ## Notes
 

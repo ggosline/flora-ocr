@@ -7,6 +7,7 @@ family: Myristicaceae
 vol: 10
 pages: 89-93
 source: sources/Myristicaceae_vol10_paddle
+habit: "tree"
 tags: [species, generated]
 ---
 # *Pycnanthus angolensis* (Welw.) Exell.
@@ -95,11 +96,11 @@ Muséum de Paris ne possède rien pouvant être rapproché de ce type. Par contr
 
 ![Pycnanthus angolensis](../sources/Myristicaceae_vol10_paddle/figures/fig_023_p0088.png)
 
-*PL. XXII. — Pycnanthus angolensis (Welw.) Exell. : 1, feuille de 21 cm (Chevalier 26501); 2, inflorescence ♂ de 8 cm (Le Testu); 2', capitale ♂, diam. 3 mm; 2', poil du pédoncule, 1 mm; 3, fl. ♂ de 1,2 mm avec l'androcée; 3', coupe; 3", androcée jeune, encore inclus et coupe (Chevalier 33056); 4, capitale ♀, diam. 3-4 mm; 4', fl. ♀ de 1 mm; 4", coupe; 5, pistil (Klaine 306 bis); 6, jeune infrutescence (Chevalier 33636); 7, portion d'infrutescence; fr. de 36 mm; 8, graine de 22 mm; (Chevalier 22441); 9', coupe de graine; 8", embryon de 0,5 mm (d'après Pierre).*
+*PL. XXII. — Pycnanthus angolensis (Welw.) Exell. : 1, leaf of 21 cm (Chevalier 26501); 2, ♂ inflorescence of 8 cm (Le Testu); 2', ♂ capitulum, diam. 3 mm; 2', hair of the peduncle, 1 mm; 3, fl. ♂ of 1.2 mm with the androecium; 3', section; 3", young androecium, still enclosed and section (Chevalier 33056); 4, ♀ capitulum, diam. 3-4 mm; 4', fl. ♀ of 1 mm; 4", section; 5, pistil (Klaine 306 bis); 6, young infructescence (Chevalier 33636); 7, portion of infructescence; fr. of 36 mm; 8, seed of 22 mm; (Chevalier 22441); 9', section of seed; 8", embryo of 0.5 mm (after Pierre).*
 
 ![Pycnanthus angolensis](../sources/Myristicaceae_vol10_paddle/figures/fig_024_p0092.png)
 
-*PL. XXIII. — 1 à 6, Scyphoephalium ochocoa Warb.: 1, feuille de 21 cm; 1', sommité fleurie ∂; 1", poils de 0,1 à 1 mm (Soyaux 301, type); 2,2', fl. ♀; 3,3', 3", la même, ouverte, en coupe et pistil séparé (Heitz 28), les fleurs ont 5 mm avec le pédoncule; 4,4', fl. ♂, 8 mm avec pédoncule et sa coupe; 5, androcée; 5', sa coupe (Le Testu 7544); 6, fruit, diam. 32 mm; 6', sa coupe (Klaine 291); 6", embryon de 1 mm (d'après Pierre). — 7, Sc. Mannii Warb., feuille de 18 cm et fl. ♂ (Mann 2290, type).*
+*PL. XXIII. — 1 to 6, Scyphoephalium ochocoa Warb.: 1, leaf of 21 cm; 1', flowering apex ∂; 1", hairs of 0.1 to 1 mm (Soyaux 301, type); 2,2', fl. ♀; 3,3', 3", the same, open, in section and pistil separated (Heitz 28), the flowers are 5 mm with the pedicel; 4,4', fl. ♂, 8 mm with pedicel and its section; 5, androecium; 5', its section (Le Testu 7544); 6, fruit, diam. 32 mm; 6', its section (Klaine 291); 6", embryo of 1 mm (after Pierre). — 7, Sc. Mannii Warb., leaf of 18 cm and fl. ♂ (Mann 2290, type).*
 
 ## Notes
 

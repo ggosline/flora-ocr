@@ -7,6 +7,9 @@ family: Melastomataceae
 vol: 25
 pages: 124-126
 source: sources/Melastomataceae_vol25_paddle
+countries: [Central African Republic, Gabon]
+in_region: true
+habit: "tree"
 tags: [species, generated]
 ---
 # *Memecylon myrianthum* Gilg

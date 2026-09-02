@@ -7,17 +7,15 @@ family: Dilleniaceae
 section: Akara
 synonyms:
   - "Tetracera fragrans De Wild. & T.Durand, Ann. Mus. Congo Belge, Bot. 1: 55 (1899)"
-habit: liana
-habitat: [fallow, regrowth, degraded forest, savanna]
-altitude_m: "240–600 (Gabon); to 1100 elsewhere"
-countries: [Angola, Democratic Republic of the Congo, Gabon, Republic of the Congo]
-subdivisions:
-  Gabon: [Haut-Ogooué, Ogooué-Maritime]
-in_region: true
 treatments:
   - vol: 60
     pages: "16–18"
     source: sources/Dilleniaceae_vol60_liteparse
+countries: [Angola, Democratic Republic of the Congo, Gabon, Republic of the Congo]
+in_region: true
+subdivisions:
+  Gabon: [Haut-Ogooué, Ogooué-Maritime]
+habit: "liana"
 tags: [species]
 ---
 

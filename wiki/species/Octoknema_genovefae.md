@@ -4,13 +4,13 @@ name: Octoknema genovefae
 authority: Villiers
 genus: Octoknema
 family: Octoknemaceae
-habit: shrub
-countries: [Cameroon, Equatorial Guinea]
-in_region: true
 treatments:
   - vol: 20
     pages: "184–186"
     source: sources/Olacaceae_vol20_paddle
+countries: [Cameroon, Gabon, Republic of the Congo]
+in_region: true
+habit: "shrub"
 tags: [species]
 ---
 

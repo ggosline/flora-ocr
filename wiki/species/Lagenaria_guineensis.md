@@ -7,6 +7,12 @@ family: Cucurbitaceae
 vol: 57
 pages: 74-74
 source: sources/Cucurbitaceae_vol57_paddle
+countries: [Cameroon, Cote d'Ivoire, Democratic Republic of the Congo, Gabon, Ghana, Liberia, Sierra Leone]
+in_region: true
+subdivisions:
+  Gabon: [Woleu-Ntem]
+habit: "herb"
+altitude_m: "500"
 tags: [species, generated]
 ---
 # *Lagenaria guineensis* (G.Don) C.Jeffrey

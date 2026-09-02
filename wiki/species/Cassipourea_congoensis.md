@@ -7,6 +7,13 @@ family: Rhizophoraceae
 vol: 47
 pages: 97-99
 source: sources/Rhizophoraceae_vol47_liteparse
+countries: [Cameroon, Central African Republic, Democratic Republic of the Congo, Gabon, Senegal]
+in_region: true
+subdivisions:
+  Gabon: [Haut-Ogooué, Ogooué-Ivindo, Ogooué-Lolo, Woleu-Ntem]
+habit: "liana"
+habitat: [primary forest]
+altitude_m: "200–600"
 tags: [species, generated]
 ---
 # *Cassipourea congoensis* DC. Planche 29.2

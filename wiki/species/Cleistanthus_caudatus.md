@@ -7,6 +7,12 @@ family: Phyllanthaceae
 vol: 43
 pages: 25-28
 source: sources/Phyllanthaceae_vol43_liteparse
+countries: [Cameroon, Central African Republic, Democratic Republic of the Congo, Gabon]
+in_region: true
+subdivisions:
+  Gabon: [Estuaire, Moyen-Ogooué, Ngounié, Ogooué-Ivindo, Ogooué-Lolo, Woleu-Ntem]
+habitat: [secondary forest, primary forest]
+altitude_m: "0–500"
 tags: [species, generated]
 ---
 # *Cleistanthus caudatus* Pax Planche 6

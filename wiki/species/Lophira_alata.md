@@ -7,6 +7,13 @@ family: Ochnaceae
 vol: 48
 pages: 71-73
 source: sources/Ochnaceae_vol48_liteparse
+countries: [Central African Republic, Democratic Republic of the Congo, Gabon, Ghana, Guinea-Bissau, Nigeria, Republic of the Congo]
+in_region: true
+subdivisions:
+  Gabon: [Haut-Ogooué, Nyanga, Ogooué-Lolo]
+habit: "tree"
+habitat: [gallery forest]
+altitude_m: "600"
 tags: [species, generated]
 ---
 # *Lophira alata* Banks ex C.F.Gaertn. Planche 19

@@ -5,11 +5,10 @@ authority: Gagnep.
 genus: Renealmia
 family: Zingiberaceae
 synonyms: []
-countries: [Cameroon, Gabon, Republic of the Congo]
-in_region: true
-habit: rhizomatous herb
-habitat: [humid forest understorey]
 treatments: [{vol: 9, pages: "28–30", source: sources/Zingiberaceae_vol9_paddle}]
+countries: [Cameroon, Gabon]
+in_region: true
+habit: "herb"
 tags: [species]
 ---
 

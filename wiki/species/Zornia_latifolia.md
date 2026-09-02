@@ -7,6 +7,11 @@ family: Leguminosae
 vol: 49
 pages: 391-394
 source: sources/Millettiaspeciesfabaceae_vol49_liteparse
+countries: [Democratic Republic of the Congo, Gabon, Sierra Leone]
+in_region: true
+habit: "herb"
+habitat: [coastal]
+altitude_m: "5–640"
 tags: [species, generated]
 ---
 # *Zornia latifolia* Sm. var. latifolia Planche 132

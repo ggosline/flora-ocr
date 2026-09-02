@@ -7,6 +7,12 @@ family: Cyperaceae
 vol: 44
 pages: 52-52
 source: sources/Cyperaceae_vol44_liteparse
+countries: [Gabon]
+in_region: true
+subdivisions:
+  Gabon: [Nyanga, Ogooué-Maritime]
+habit: "herb"
+altitude_m: "0–200"
 tags: [species, generated]
 ---
 # *Cyperus cuspidatus* Kunth Planche 26

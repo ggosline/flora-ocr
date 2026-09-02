@@ -7,6 +7,9 @@ family: Orchidaceae
 vol: 37
 pages: 237-239
 source: sources/Orchidaceae_vol37_paddle
+countries: [Cameroon, Central African Republic, Cote d'Ivoire, Democratic Republic of the Congo, Equatorial Guinea, Gabon, Ghana, Guinea, Liberia, Nigeria, Tanzania, Uganda]
+in_region: true
+habitat: [rocky ground]
 tags: [species, generated]
 ---
 # *Angraecum chevalieri* Summerh.
@@ -39,7 +42,7 @@ J. M. & B. Reitsma & Louis 1799, inselberg, approximately 28 km ESE of Médouneu
 
 ![Angraecum chevalieri](../sources/Orchidaceae_vol37_paddle/figures/fig_116_p0236.png)
 
-*PL. 222. – Angraecum angustipetalum Rendle : A, D, vue générale ; B, fleur, tépales enlevés ; C, labelle étalé ; E, feuille ; F, fleur et bractée. – Angraecum chevalieri Summerh. : G, fleur et bractée ; H, labelle étalé ; I, sépale dorsal ; J, pétale ; K, sépale latéral ; L, feuilles (A-C, ex TalbOT, 1913, modifié ; D-F, Annet 415, P ; G-L, Chevalier 21690, P).*
+*PL. 222. – Angraecum angustipetalum Rendle : A, D, general view ; B, flower, tepals removed ; C, lip spread out ; E, leaf ; F, flower and bract. – Angraecum chevalieri Summerh. : G, flower and bract ; H, lip spread out ; I, dorsal sepal ; J, petal ; K, lateral sepal ; L, leaves (A-C, ex TalbOT, 1913, modified ; D-F, Annet 415, P ; G-L, Chevalier 21690, P).*
 
 ![Angraecum chevalieri](../sources/Orchidaceae_vol37_paddle/figures/fig_117_p0238.png)
 

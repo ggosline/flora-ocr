@@ -7,6 +7,13 @@ family: Leguminosae
 vol: 49
 pages: 49-50
 source: sources/Millettiaspeciesfabaceae_vol49_liteparse
+countries: [Cameroon, Democratic Republic of the Congo, Gabon]
+in_region: true
+subdivisions:
+  Gabon: [Haut-Ogooué, Moyen-Ogooué, Ngounié, Nyanga, Ogooué-Ivindo]
+habit: "shrub"
+habitat: [gallery forest]
+altitude_m: "80–330"
 tags: [species, generated]
 ---
 # *Angylocalyx vermeulenii* De Wild.

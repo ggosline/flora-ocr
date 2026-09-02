@@ -7,6 +7,12 @@ family: Leguminosae
 vol: 49
 pages: 193-193
 source: sources/Millettiaspeciesfabaceae_vol49_liteparse
+countries: [Benin, Democratic Republic of the Congo, Gabon, Ghana, Nigeria, Republic of the Congo, Sudan, Togo]
+in_region: true
+subdivisions:
+  Gabon: [Ngounié]
+habit: "herb"
+altitude_m: "450"
 tags: [species, generated]
 ---
 # *Eriosema pulcherrimum* Taub. Planche 63

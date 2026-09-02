@@ -7,6 +7,9 @@ family: Annonaceae
 vol: 16
 pages: 0-0
 source: sources/Annonaceae_vol16_mineru
+countries: [Angola, Cameroon, Central African Republic, Democratic Republic of the Congo, Gabon, Republic of the Congo, Sierra Leone]
+in_region: true
+habit: "tree"
 tags: [species, generated]
 ---
 # *Cleistopholis glauca* Pierre ex Engler et Diels

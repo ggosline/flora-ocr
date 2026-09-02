@@ -7,6 +7,8 @@ family: Orchidaceae
 vol: 37
 pages: 36-37
 source: sources/Orchidaceae_vol37_paddle
+countries: [Cameroon, Democratic Republic of the Congo, Equatorial Guinea, Gabon]
+in_region: true
 tags: [species, generated]
 ---
 # *Polystachya fractiflexa* Summerh.

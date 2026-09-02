@@ -7,6 +7,12 @@ family: Rhizophoraceae
 vol: 47
 pages: 103-105
 source: sources/Rhizophoraceae_vol47_liteparse
+countries: [Gabon, Republic of the Congo]
+in_region: true
+subdivisions:
+  Gabon: [Estuaire]
+habit: "tree"
+habitat: [mangrove, secondary forest]
 tags: [species, generated]
 ---
 # *Cassipourea plumosa* (Oliv.) Alston Planche 30.2

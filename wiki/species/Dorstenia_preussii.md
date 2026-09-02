@@ -7,6 +7,10 @@ family: Moraceae
 vol: 26
 pages: 97-101
 source: sources/Moraceae_vol26_paddle
+countries: [Cameroon, Gabon, Nigeria, Sierra Leone]
+in_region: true
+habit: "herb"
+altitude_m: "150"
 tags: [species, generated]
 ---
 # *Dorstenia preussii* Engler
@@ -43,7 +47,7 @@ Hallé N. & Villiers J.-F. 4993, rocher Bangwè (fl., fév.).
 
 ![Dorstenia preussii](../sources/Moraceae_vol26_paddle/figures/fig_029_p0100.png)
 
-*PL. 28. – Dorstenia preussii Engl.: 1, 1', port; 2, 2', inflo.; 3, endocarpe (Keay FHI 37046, Nigeria).*
+*PL. 28. – Dorstenia preussii Engl.: 1, 1', habit; 2, 2', inflorescence; 3, endocarp (Keay FHI 37046, Nigeria).*
 
 ## Notes
 

@@ -7,6 +7,7 @@ family: Acanthaceae
 vol: 13
 pages: 103-104
 source: sources/Acanthaceae_vol13_paddle
+habit: "shrub"
 tags: [species, generated]
 ---
 # *Stenandriopsis gabonica* (R. Benoist) Heine, comb. nov.
@@ -20,25 +21,21 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 Crossandra gabonica R. Benoist, Bull. Soc. Bot. France 74 : 671, (janv. 1928), et in F. Pellegrin, Mém. Soc. Linn. Normand., N. S., sect. Bot. I (3) : 46 (déc. 1928).
 
-Arbuste à jeunes tiges couvertes de poils rouge-brunâtres, puis glabrescentes. Pétioles de 1-3,5 (4) cm. Limbe des feuilles lancéolé-obovale, de 6-18 × 2-6,5 cm, très aigu vers le base et acuminé au sommet, couvert au dessous de poils rouge-brunâtre dispersés; 10-13 paires de nervures parallèles.
+Shrub with young stems covered in reddish-brown hairs, later glabrescent. Petioles 1–3.5 (4) cm. Leaf blade lanceolate-obovate, 6–18 × 2–6.5 cm, very acute toward the base and acuminate at the apex, covered beneath with scattered reddish-brown hairs; 10–13 pairs of parallel veins.
 
-Inflorescences terminales, jusqu'à 10 cm de longueur, en forme d'épi, ressemblant beaucoup aux inflorescences des genres Rungia et Lankesteria; bractées ovales ou largement elliptiques
+Terminal inflorescences, up to 10 cm in length, spike-like in form, resembling greatly the inflorescences of the genera Rungia and Lankesteria; bracts ovate or broadly elliptic, 15–21 × 7–11 mm; bracteoles lanceolate, acuminate, 2.5 × 1 mm; shorter than the calyx. Sepals subequal, lanceolate, acuminate and furnished with a spine 0.5–1 mm long, 5–6 × 1 mm. Corolla white, with cylindrical tube 3 cm long, with ovate, rounded lobes, 10–15 × 7–13 mm. Stamens included; anthers unilocular. Ovary glabrous; two ovules in each locule; style glabrous.
 
-de 15-21 × 7-11 mm; bractéoles lancéolées, acuminées, de 2,5 × 1 mm; plus courtes que le calice. Sépales subégaux, lancéolés, acuminés et munis d'une pointe épineuse longue de 0,5-1 mm, 5-6 × 1 mm. Corolle blanche, à tube cylindrique long de 3 cm, à lobes ovales, arrondis, de 10-15 × 7-13 mm. Étamines incluses; anthères uniloculaires. Ovaire glabre; deux ovules dans chaque loge; style glabre.
+Capsule glabrous, 14 mm long, with 4 tuberculate-squamose seeds.
 
-Capsule glabre, longue de 14 mm, à 4 graines tuberculeuses-squameuses.
+Le Testu: 1754, Ndenga (fl. 22 May 1914), woody Acanthaceae with white flowers, 1 m; s. n., Swgana (fl. and fr. 20 May 1914), white flowers (P, syntypes of Cr. gabonica).
 
-Le Testu : 1754, Ndenga (fl. 22 mai 1914), Acanthacée ligneuse à fleurs blanches, 1 m; s. n., Swgana (fl. et fr. 20 mai 1914), fleurs blanches (P, syntypes de Cr. gabonica).
+(Gossweiler 7728, Portuguese Maiombe, Pôtigami forest, in shady situations along rivulets on the River N'Zanza.)
 
-(Gossweiler 7728, Maiombe portugais, Pôtigami forest, in shady situations along rivulets on the River N'Zanza.)
+EXPLANATION OF PLATE XXII, fig. 1–10:
 
-EXPLICATION DE LA PLANCHE XXII, fig. 1-10:
-
-1, sommité florifère; 2, bractée de 20 mm de long; 3, bractéole de 4,4 mm de long; 4, segments du calice d'env. 5,1 à 5,5 mm de long; 5, fleur longue au total de 48 mm, tube de 39 mm; 6, détail de la corolle ouverte à l'endroit de l'androcée; 7, anthère à loges de 2,5 mm de long; 8, pistil (ovaire 2,8 mm de haut, style avec stigmate 38,2 mm de long); 9, fruit de 14 mm de long; 10, graine de 3 mm de diamètre. — 1, Le Testu 1754; 2-10, Thollon 4051.
+1, flowering branch apex; 2, bract 20 mm long; 3, bracteole 4.4 mm long; 4, calyx segments approximately 5.1 to 5.5 mm long; 5, flower 48 mm long overall, tube 39 mm; 6, detail of the corolla opened at the site of the androecium; 7, anther with locules 2.5 mm long; 8, pistil (ovary 2.8 mm high, style with stigma 38.2 mm long); 9, fruit 14 mm long; 10, seed 3 mm in diameter. — 1, Le Testu 1754; 2–10, Thollon 4051.
 
 ## Figures
 

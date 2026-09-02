@@ -7,6 +7,13 @@ family: Leguminosae
 vol: 49
 pages: 342-344
 source: sources/Millettiaspeciesfabaceae_vol49_liteparse
+countries: [Angola, Cameroon, Democratic Republic of the Congo, Gabon]
+in_region: true
+subdivisions:
+  Gabon: [Haut-Ogooué, Woleu-Ntem]
+habit: "tree"
+habitat: [secondary forest, primary forest, riverine]
+altitude_m: "200–400"
 tags: [species, generated]
 ---
 # *Schefflerodendron adenopetalum* (Taub.) Harms Planche 114

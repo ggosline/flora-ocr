@@ -7,6 +7,10 @@ family: Phyllanthaceae
 vol: 43
 pages: 22-24
 source: sources/Phyllanthaceae_vol43_liteparse
+countries: [Gabon]
+in_region: true
+habit: "tree"
+altitude_m: "400–600"
 tags: [species, generated]
 ---
 # *Bridelia wilksii* Breteler Planche 4

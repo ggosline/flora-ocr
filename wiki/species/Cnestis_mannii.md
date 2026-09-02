@@ -7,6 +7,8 @@ family: Connaraceae
 vol: 33
 pages: 63-64
 source: sources/Connaraceae_vol33_paddle
+countries: [Angola, Cameroon, Democratic Republic of the Congo, Gabon, Nigeria]
+in_region: true
 tags: [species, generated]
 ---
 # *Cnestis mannii* (Baker) Schellenberg
@@ -67,7 +69,7 @@ Büttner 166, Sibange farm, près de Libreville (fl., Sept.), P. Floret, Louis &
 
 ![Cnestis mannii](../sources/Connaraceae_vol33_paddle/figures/fig_023_p0062.png)
 
-*PL. 17. – Cnestis mannii (Baker) Schellenberg: 1, rameaux avec inflorescences × 2/3; 2, 4, folioles, face inférieure × 2/3 (2, = forme « C. pseudoracemosa »); 5, fleur, vue partielle × 8; 6, 7, follicules × 1; 8. graine × 1. (1. Onyeachusim & Latilo 54021; 2. Le Testu 8378; 3, 6, 8. de Wilde & al. 253; 4. de Wilde & al. 549; 5. Vanderyst 25787). – Repris de AUWP 89 (6).*
+*PL. 17. – Cnestis mannii (Baker) Schellenberg: 1, branches with inflorescences × 2/3; 2, 4, leaflets, lower surface × 2/3 (2, = form « C. pseudoracemosa »); 5, flower, partial view × 8; 6, 7, follicles × 1; 8. seed × 1. (1. Onyeachusim & Latilo 54021; 2. Le Testu 8378; 3, 6, 8. de Wilde & al. 253; 4. de Wilde & al. 549; 5. Vanderyst 25787). – Taken from AUWP 89 (6).*
 
 ## Notes
 

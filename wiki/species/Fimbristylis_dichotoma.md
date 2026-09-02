@@ -7,6 +7,12 @@ family: Cyperaceae
 vol: 44
 pages: 142-144
 source: sources/Cyperaceae_vol44_liteparse
+countries: [Gabon]
+in_region: true
+subdivisions:
+  Gabon: [Estuaire, Haut-Ogooué, Moyen-Ogooué, Ngounié, Nyanga, Ogooué-Ivindo, Ogooué-Maritime, Woleu-Ntem]
+habit: "herb"
+altitude_m: "650"
 tags: [species, generated]
 ---
 # *Fimbristylis dichotoma* (L.) Vahl Planche 91, Figure 11a

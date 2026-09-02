@@ -7,6 +7,7 @@ family: Leguminosae
 vol: 15
 pages: 83-85
 source: sources/Leguminosae_vol15_paddle
+habit: "shrub"
 tags: [species, generated]
 ---
 # *Leonardoxa africana* (Baill.)
@@ -48,7 +49,7 @@ Le Testu : 8888, Mambanza (fl. sept.); 8995, Assok-Ngoum (fl. mars); 9079, Oyem 
 
 ![Leonardoxa africana](../sources/Leguminosae_vol15_paddle/figures/fig_016_p0084.png)
 
-*PL. XVI. — Leonardo a africana (Baill.) Aubr. : 1, feuille × 2 /3; 2, inflorescence × × 2 /3; 3, fleur × 2; 4, pétale; 5, coupe de la fleur × 2; 6, fruit × 1 /2.*
+*PL. XVI. — Leonardo a africana (Baill.) Aubr. : 1, leaf × 2 /3; 2, inflorescence × × 2 /3; 3, flower × 2; 4, petal; 5, section of the flower × 2; 6, fruit × 1 /2.*
 
 ## Notes
 

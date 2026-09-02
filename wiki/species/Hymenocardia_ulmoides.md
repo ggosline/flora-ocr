@@ -7,6 +7,12 @@ family: Phyllanthaceae
 vol: 43
 pages: 36-37
 source: sources/Phyllanthaceae_vol43_liteparse
+countries: [Angola, Cameroon, Central African Republic, Gabon, Republic of the Congo, Tanzania]
+in_region: true
+subdivisions:
+  Gabon: [Haut-Ogooué, Ogooué-Ivindo, Woleu-Ntem]
+habit: "tree"
+altitude_m: "400–900"
 tags: [species, generated]
 ---
 # *Hymenocardia ulmoides* Oliv. Planche 9(A-E)

@@ -7,6 +7,9 @@ family: Leguminosae
 vol: 15
 pages: 87-88
 source: sources/Leguminosae_vol15_paddle
+countries: [Cameroon, Cote d'Ivoire, Gabon, Liberia, Sierra Leone]
+in_region: true
+habit: "tree"
 tags: [species, generated]
 ---
 # *Plagiosiphon emarginatus* (Hutch. et Dalz.) Léonard

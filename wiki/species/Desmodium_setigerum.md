@@ -7,6 +7,12 @@ family: Leguminosae
 vol: 49
 pages: 175-175
 source: sources/Millettiaspeciesfabaceae_vol49_liteparse
+countries: [Gabon]
+in_region: true
+subdivisions:
+  Gabon: [Haut-Ogooué]
+habit: "herb"
+altitude_m: "300"
 tags: [species, generated]
 ---
 # *Desmodium setigerum* (E.Mey.) Benth. ex Harv. Planche 55.6

@@ -7,6 +7,11 @@ family: Putranjivaceae
 vol: 57
 pages: 138-140
 source: sources/Putranjivaceae_vol57_paddle
+countries: [Angola, Cameroon, Gabon, Republic of the Congo]
+in_region: true
+subdivisions:
+  Gabon: [Estuaire, Ngounié, Ogooué-Ivindo, Ogooué-Lolo, Ogooué-Maritime]
+habit: "tree"
 tags: [species, generated]
 ---
 # *Drypetes gabonensis* Pierre ex Hutch.

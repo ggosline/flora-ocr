@@ -7,6 +7,13 @@ family: Leguminosae
 vol: 49
 pages: 382-382
 source: sources/Millettiaspeciesfabaceae_vol49_liteparse
+countries: [Angola, Gabon, Madagascar, Mozambique, Senegal, Zambia, Zimbabwe]
+in_region: true
+subdivisions:
+  Gabon: [Nyanga]
+habit: "herb"
+habitat: [rocky ground]
+altitude_m: "160"
 tags: [species, generated]
 ---
 # *Vigna reticulata* Hook.f.

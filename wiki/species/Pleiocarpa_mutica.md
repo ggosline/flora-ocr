@@ -7,6 +7,13 @@ family: Apocynaceae
 vol: 59
 pages: 194-196
 source: sources/Apocynaceae_vol59_liteparse
+countries: [Gabon, Sierra Leone]
+in_region: true
+subdivisions:
+  Gabon: [Estuaire, Woleu-Ntem]
+habit: "tree"
+habitat: [secondary forest]
+altitude_m: "500"
 tags: [species, generated]
 ---
 # *Pleiocarpa mutica* Benth. Planche 90

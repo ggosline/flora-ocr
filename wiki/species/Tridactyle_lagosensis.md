@@ -7,6 +7,9 @@ family: Orchidaceae
 vol: 37
 pages: 163-165
 source: sources/Orchidaceae_vol37_paddle
+countries: [Cameroon, Gabon, Nigeria]
+in_region: true
+altitude_m: "15"
 tags: [species, generated]
 ---
 # *Tridactyle lagosensis* (Rolfe) Schltr.
@@ -17,23 +20,17 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+PL. 181. – Tridactyle lagosensis (Rolfe) Schltr.: A, flower; B, labellum and spur; C, dorsal sepal; D, petal; E, lateral sepal; F, leaf (A–F, Letouzey 13703, P).
 
-PL. 181. – Tridactyle lagosensis (Rolfe) Schltr.: A, fleur ; B, labelle et éperon ; C, sépale dorsal ; D, pétale ; E, sépale latéral ; F, feuille (A-F, Letouzey 13703, P).
-
-Tige < 35 cm. Feuilles 4-7,5 x 0,4-0,9 cm, linéaires-lancéolées ou étroitement ligulées, très inégalement bilobées. Inflorescence raccourcie, < 0,6 cm, 3-4-flore. Fleurs petites, résupinées, blanches. Sépale dor-sal elliptique-ové, obtus ou arrondi. Pétales obliquement oblongs à étroitement ligulés. Sépales latéraux obliquement ovés, aigus. Labelle 4,3-7 x 2-3 mm, nettement trilobé ; lobe médian étroitement triangulaire ou lancéolé, obtus ; lobes latéraux linéaires, aigus, falciformes diver-gents. Éperon < 6 mm, plus court que le labelle, genouillé près du milieu. – Pl. 181, p. 393.
+Stem < 35 cm. Leaves 4–7.5 × 0.4–0.9 cm, linear-lanceolate or narrowly ligulate, very unequally bilobed. Inflorescence shortened, < 0.6 cm, 3–4-flowered. Flowers small, resupinate, white. Dorsal sepal elliptic-ovate, obtuse or rounded. Petals obliquely oblong to narrowly ligulate. Lateral sepals obliquely ovate, acute. Labellum 4.3–7 × 2–3 mm, distinctly trilobed; median lobe narrowly triangular or lanceolate, obtuse; lateral lobes linear, acute, falcate divergent. Spur < 6 mm, shorter than the labellum, geniculate near the middle. – Pl. 181, p. 393.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Nigeria, Cameroun, Gabon
+Nigeria, Cameroon, Gabon
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-alt. inconnue. Épiphyte sur tronc à 15 m de hauteur, sur grosse branche à 30 m de hauteur, observée sur Gilbertiodendron lewevrei
+alt. unknown. Epiphyte on trunk at 15 m height, on large branch at 30 m height, observed on Gilbertiodendron lewevrei
 
 ## Specimens examined
 

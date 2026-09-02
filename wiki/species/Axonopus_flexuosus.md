@@ -7,6 +7,7 @@ family: Gramineae
 vol: 05
 pages: 39-40
 source: sources/Gramineae_vol05_paddle
+habit: "herb"
 tags: [species, generated]
 ---
 # *Axonopus flexuosus* (Peter) Hubb.
@@ -36,7 +37,7 @@ Descoings : 6529, région de Franceville.
 
 ![Axonopus flexuosus](../sources/Gramineae_vol05_paddle/figures/fig_006_p0035.png)
 
-*PL. V. — Axonopus flexuosus (Peter) Hubb. (Chev. 27488) : 1, aspect de la plante; 2, détail d'un racème; 3, épillet long de 3,5 mm env., vu du côté de la glume supérieure; 4, fleur fertile et glume supérieure. — Brachiaria brizantha (Hochst.) Stapf (A. Chev. 5364) : 5, fragment de chaume et feuilles; 6, inflorescence; 7, fragment de racème et épillet, vu de profil (longueur de l'épillet 5 mm env.); 8, fleur fertile.*
+*PL. V. — Axonopus flexuosus (Peter) Hubb. (Chev. 27488) : 1, aspect of the plant; 2, detail of a raceme; 3, spikelet 3.5 mm long approx., viewed from the side of the upper glume; 4, fertile flower and upper glume. — Brachiaria brizantha (Hochst.) Stapf (A. Chev. 5364) : 5, fragment of culm and leaves; 6, inflorescence; 7, fragment of raceme and spikelet, viewed in profile (length of spikelet 5 mm approx.); 8, fertile flower.*
 
 ## Notes
 

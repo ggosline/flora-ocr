@@ -7,6 +7,13 @@ family: Passifloraceae
 vol: 46
 pages: 75-76
 source: sources/Passifloraceae_vol46_liteparse
+countries: [Angola, Cameroon, Central African Republic, Gabon]
+in_region: true
+subdivisions:
+  Gabon: [Ogooué-Lolo]
+habit: "herb"
+habitat: [swamp forest]
+altitude_m: "300"
 tags: [species, generated]
 ---
 # *Adenia staudtii* Harms Planche 25.4, 30

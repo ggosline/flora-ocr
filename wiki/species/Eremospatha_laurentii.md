@@ -7,6 +7,12 @@ family: Arecaceae
 vol: 53
 pages: 25-27
 source: sources/Arecaceae_vol53_liteparse
+countries: [Cameroon, Democratic Republic of the Congo, Equatorial Guinea, Gabon, Liberia, Nigeria, Sierra Leone]
+in_region: true
+subdivisions:
+  Gabon: [Estuaire, Nyanga, Woleu-Ntem]
+habit: "liana"
+altitude_m: "500"
 tags: [species, generated]
 ---
 # *Eremospatha laurentii* De Wild. Planche 8, Figure 2A,B

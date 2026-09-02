@@ -7,6 +7,7 @@ family: Lauraceae
 vol: 10
 pages: 63-65
 source: sources/Lauraceae_vol10_paddle
+habit: "tree"
 tags: [species, generated]
 ---
 # *Beilschmiedia pellegrini* (1) R. Fouilloy et N. Hallé.

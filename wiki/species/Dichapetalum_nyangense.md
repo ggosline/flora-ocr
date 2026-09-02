@@ -7,6 +7,9 @@ family: Dichapetalaceae
 vol: 32
 pages: 143-146
 source: sources/Dichapetalaceae_vol32_paddle
+countries: [Gabon]
+in_region: true
+habit: "liana"
 tags: [species, generated]
 ---
 # *Dichapetalum nyangense* Pellegrin
@@ -53,7 +56,7 @@ L'analyse de l'unique spécimen de cette espèce fait penser à une origine hybr
 
 ![Dichapetalum nyangense](../sources/Dichapetalaceae_vol32_paddle/figures/fig_041_p0144.png)
 
-*PL. 40 – Dichapetalum nyangense Pellegrin : 1, portion de pousse orthotrope portant un jeune rameau florifère × 0,8 ; 2, stipules × 2,5 ; 3, fleur 2,5 (1-3, Le Testu 2121). – Repris de MLW 81 (10) : 52 (1981).*
+*PL. 40 – Dichapetalum nyangense Pellegrin : 1, portion of orthotropic shoot bearing a young flowering branch × 0,8 ; 2, stipules × 2,5 ; 3, flower × 2,5 (1-3, Le Testu 2121). – Taken from MLW 81 (10) : 52 (1981).*
 
 ## Notes
 

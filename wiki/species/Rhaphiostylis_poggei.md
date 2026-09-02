@@ -7,6 +7,9 @@ family: Icacinaceae
 vol: 20
 pages: 38-38
 source: sources/Icacinaceae_vol20_paddle
+countries: [Democratic Republic of the Congo]
+in_region: true
+habit: "shrub"
 tags: [species, generated]
 ---
 # *Rhaphiostylis poggei* Engler

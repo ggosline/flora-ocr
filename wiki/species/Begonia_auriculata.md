@@ -7,6 +7,10 @@ family: Begoniaceae
 vol: 39
 pages: 13-16
 source: sources/Begoniaceae_vol39_liteparse
+countries: [Gabon]
+in_region: true
+habit: "herb"
+habitat: [riverine]
 tags: [species, generated]
 ---
 # *Begonia auriculata* Hook.f.

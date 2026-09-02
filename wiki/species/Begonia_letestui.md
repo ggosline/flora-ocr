@@ -7,6 +7,10 @@ family: Begoniaceae
 vol: 39
 pages: 100-102
 source: sources/Begoniaceae_vol39_liteparse
+countries: [Gabon]
+in_region: true
+habit: "epiphyte"
+altitude_m: "400"
 tags: [species, generated]
 ---
 # *Begonia letestui* J.J. de Wilde Planche 46

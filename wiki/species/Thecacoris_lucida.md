@@ -7,6 +7,13 @@ family: Phyllanthaceae
 vol: 43
 pages: 88-88
 source: sources/Phyllanthaceae_vol43_liteparse
+countries: [Angola, Gabon, Uganda]
+in_region: true
+subdivisions:
+  Gabon: [Haut-Ogooué, Ngounié, Nyanga, Ogooué-Ivindo, Ogooué-Lolo]
+habit: "shrub"
+habitat: [secondary forest]
+altitude_m: "0–600"
 tags: [species, generated]
 ---
 # *Thecacoris lucida* (Pax) Hutch. Planche 28
@@ -16,21 +23,15 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-in Dyer, Fl. trop. Afr. 6(1) : 660 (1912). Arbuste de 1–3 m de hauteur ; ramilles pubescentes, glabrescentes. Stipules étroitement triangulaires à subulées, 2–7(–10) × 1–2 mm, pubescentes sur la face externe, caduques. Feuille : pétiole 2–6(–10) mm, pubescent ; limbe obovale-elliptique, (3–)10–19 × (2– )4–7(–8,5) cm, cunéiforme à arrondi à la base, acuminé sur (0,5–)1,5–2,5(–3,5) cm et souvent mucronulé au sommet, luisant , au moins dessous, glabre ou avec quelques poils épars sur la médiane dessous ; nervures latérales 8–12(–14) paires, grêles, proéminentes dessus . Inflorescence ± dressée , non ramifiée , jaunâtre, pubescente, les mâles 1,5–4 cm de longueur, les femelles (1,5–)3–5 cm de longueur et jusqu’à 11 cm en fruit ; bractées triangulaires, ± 1 mm de longueur, pubescentes. Fleur mâle 2 mm de diamètre ; pédicelle 1,5–2 mm, pubescent ; sépales ovales-elliptiques, 1 × 0,5 mm, pubescents sur la face ex terne ; pétales 0–2, minuscules ou 0,5–1 mm de longueur, à quelques poils ; étamines ± 2 mm de longueur, glabres ; glandes du disque pileuses au sommet ; pistillode ± obconique, ± 3-apiculé, pubescent. Fleur femelle : pédicelle 1–2 mm, mais 3–10 mm en fruit, pubes cent ; sépales ± triangulaires, 1,5 × 1 mm, pubescents à l’extérieur ; pétales ± comme chez les fleurs mâles ; disque crénelé, pileux ; ovaire 1–1,5 mm de diamètre, pubescent , sur tout vers le sommet. Fruit 5–6 × 7–9 mm, brunâtre, en général pileux vers le sommet . Graines subglobuleuses, 2,5–3,5 mm de diamètre, noires.
+in Dyer, Fl. trop. Afr. 6(1) : 660 (1912). Shrub 1–3 m tall; branchlets pubescent, glabrescent. Stipules narrowly triangular to subulate, 2–7(–10) × 1–2 mm, pubescent on the outer face, caducous. Leaf: petiole 2–6(–10) mm, pubescent; lamina obovate-elliptic, (3–)10–19 × (2–)4–7(–8.5) cm, cuneiform to rounded at the base, acuminate over (0.5–)1.5–2.5(–3.5) cm and often mucronate at the apex, shining, at least below, glabrous or with a few scattered hairs on the midvein below; lateral veins 8–12(–14) pairs, slender, prominent above. Inflorescence ± erect, unbranched, yellowish, pubescent, the male ones 1.5–4 cm long, the female ones (1.5–)3–5 cm long and up to 11 cm in fruit; bracts triangular, ± 1 mm long, pubescent. Male flower 2 mm in diameter; pedicel 1.5–2 mm, pubescent; sepals ovate-elliptic, 1 × 0.5 mm, pubescent on the outer face; petals 0–2, minute or 0.5–1 mm long, with a few hairs; stamens ± 2 mm long, glabrous; disk glands pilose at the apex; pistillode ± obconic, ± 3-apiculate, pubescent. Female flower: pedicel 1–2 mm, but 3–10 mm in fruit, pubescent; sepals ± triangular, 1.5 × 1 mm, pubescent without; petals ± as in the male flowers; disk crenulate, pilose; ovary 1–1.5 mm in diameter, pubescent, especially toward the apex. Fruit 5–6 × 7–9 mm, brownish, generally pilose toward the apex. Seeds subglobose, 2.5–3.5 mm in diameter, black.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Gabon, République du Congo, République Démocratique du Congo, Ou ganda et Angola (Cabinda) ; au Gabon, récoltée dans les provinces du Haut-Ogooué, de la Ngounié, de la Nyanga, de l’Ogooué-Ivindo et de l’Ogooué-Lolo
+Gabon, Republic of Congo, Democratic Republic of Congo, Uganda and Angola (Cabinda); in Gabon, collected in the provinces of Haut-Ogooué, Ngounié, Nyanga, Ogooué-Ivindo and Ogooué-Lolo
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-forêt primaire et secondarisée ; au Gabon, à 0–600 m d’altitude, ailleurs jusqu’à 1300 m. b : Léonard (1995a), Smith (1987). ibliographie
+primary and secondarized forest; in Gabon, at 0–600 m altitude, elsewhere up to 1300 m. b : Léonard (1995a), Smith (1987). Bibliography
 
 ## Notes
 

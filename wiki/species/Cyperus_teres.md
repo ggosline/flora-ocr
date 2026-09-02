@@ -7,6 +7,12 @@ family: Cyperaceae
 vol: 44
 pages: 101-102
 source: sources/Cyperaceae_vol44_liteparse
+countries: [Democratic Republic of the Congo, Gabon]
+in_region: true
+subdivisions:
+  Gabon: [Nyanga, Ogooué-Ivindo]
+habit: "herb"
+altitude_m: "0–600"
 tags: [species, generated]
 ---
 # *Cyperus teres* (C.B.Clarke) Lye Figure 7b

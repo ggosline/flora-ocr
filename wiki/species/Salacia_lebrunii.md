@@ -7,6 +7,9 @@ family: Celastraceae
 vol: 29
 pages: 136-137
 source: sources/Celastraceae_vol29_paddle
+countries: [Cameroon, Democratic Republic of the Congo, Gabon]
+in_region: true
+habit: "liana"
 tags: [species, generated]
 ---
 # *Salacia lebrunii* Wilczek

@@ -7,6 +7,8 @@ family: Orchidaceae
 vol: 37
 pages: 35-36
 source: sources/Orchidaceae_vol37_paddle
+countries: [Burundi, Cameroon, Democratic Republic of the Congo, Equatorial Guinea, Gabon, Rwanda, Uganda]
+in_region: true
 tags: [species, generated]
 ---
 # *Polystachya caloglossa* Rchb.f.
@@ -37,7 +39,7 @@ MATERIAL STUDIED (Map 48): Hallé 3516, Bélinga (fl. Dec.), P!; 3575, Bélinga 
 
 ![Polystachya caloglossa](../sources/Orchidaceae_vol37_paddle/figures/fig_009_p0036.png)
 
-*PL. 116. – Polystachya bifida Lindl.: A, fleur ; B, labelle ; C, sépale latéral ; D, pétale ; E, sépale dorsal ; F, feuille. – Polystachya caloglossa Rchb.f.: G, fleur H, labelle ; I, sépale dorsal ; J, pétale ; K, sépale latéral ; L, partie du rachis (A-F, Hallé 3697, P ; G-K, Farron 7128, P ; L, Hallé 3516, P).*
+*PL. 116. – Polystachya bifida Lindl.: A, flower ; B, lip ; C, lateral sepal ; D, petal ; E, dorsal sepal ; F, leaf. – Polystachya caloglossa Rchb.f.: G, flower H, lip ; I, dorsal sepal ; J, petal ; K, lateral sepal ; L, part of rachis (A-F, Hallé 3697, P ; G-K, Farron 7128, P ; L, Hallé 3516, P).*
 
 ## Notes
 

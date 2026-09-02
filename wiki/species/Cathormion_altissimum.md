@@ -7,6 +7,9 @@ family: Leguminosae
 vol: 31
 pages: 167-172
 source: sources/Leguminosae_vol31_paddle
+countries: [Cameroon, Senegal, Zambia]
+in_region: true
+habitat: [riverine]
 tags: [species, generated]
 ---
 # *Cathormion altissimum* (Hooker f.) Hutchinson & Dandy
@@ -67,7 +70,7 @@ Fleury in Chevalier 26542, env. Adouma, sur l'Orimbo, affluent Ogooué. Florence
 
 ![Cathormion altissimum](../sources/Leguminosae_vol31_paddle/figures/fig_052_p0168.png)
 
-*PL. 40. – Cathormion altissimum (Hook.f.) Hutch & Dandy: 1, aspect général × 1; 2, pétiole, détail × 6; 2, rachis, détail × 6; 4, penne, sommet × 6; 5, bouton floral × 8; 6, fleur basale × 8; 6', fleur coupe longitudinale × 8; 7, fleur sommitale × 8; 8, pistil × 12; 9, fruit × 1; 10, graine × 6. (1, 3, 5-10, Fotius 2596 (Cameroun); 2, 4, De Wilde 2677 (Cameroun)).*
+*PL. 40. – Cathormion altissimum (Hook.f.) Hutch & Dandy: 1, general aspect × 1; 2, petiole, detail × 6; 2, rachis, detail × 6; 4, pinna, apex × 6; 5, flower bud × 8; 6, basal flower × 8; 6', flower longitudinal section × 8; 7, apical flower × 8; 8, pistil × 12; 9, fruit × 1; 10, seed × 6. (1, 3, 5-10, Fotius 2596 (Cameroon); 2, 4, De Wilde 2677 (Cameroon)).*
 
 ## Notes
 

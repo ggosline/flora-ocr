@@ -7,20 +7,17 @@ parent_species: Ludwigia adscendens
 genus: Ludwigia
 family: Onagraceae
 synonyms: [Jussiaea stolonifera Guill. & Perr., Jussiaea repens var. diffusa (Forssk.) Brenan, Ludwigia stolonifera (Guill. & Perr.) P.H.Raven]
-countries: [Gabon]
-subdivisions:
-  Gabon: [Ogooué-Maritime]
 range_note: Nearly throughout continental Africa from north of the Sahara to South Africa and Madagascar, and from Arabia to Iraq.
-countries_incomplete: true
-in_region: true
-habit: perennial terrestrial or aquatic herb
-habitat: [marshes, ponds, lakes, floodplains, river margins]
-altitude_m: "low altitude in Gabon; to 1900 elsewhere"
 treatments:
   - vol: 52
     year: 2018
     pages: "31–33"
     source: sources/Onagraceae_vol52_liteparse
+countries: [Gabon, Madagascar]
+in_region: true
+subdivisions:
+  Gabon: [Ogooué-Maritime]
+habit: "herb"
 tags: [species]
 ---
 

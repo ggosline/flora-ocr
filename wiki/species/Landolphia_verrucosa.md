@@ -7,6 +7,7 @@ family: Apocynaceae
 vol: 59
 pages: 156-159
 source: sources/Apocynaceae_vol59_liteparse
+habit: "liana"
 tags: [species, generated]
 ---
 # *Landolphia verrucosa* Jongkind & O.Lachenaud Planche 71 ; Figure 8(E)

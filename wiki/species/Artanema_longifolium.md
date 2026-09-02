@@ -7,6 +7,12 @@ family: Scrophulariaceae
 vol: 48
 pages: 101-103
 source: sources/Scrophulariaceae_vol48_liteparse
+countries: [Cameroon, Central African Republic, Cote d'Ivoire, Democratic Republic of the Congo, Gabon, Ghana, Nigeria, Republic of the Congo, Tanzania, Togo, Uganda]
+in_region: true
+subdivisions:
+  Gabon: [Moyen-Ogooué, Ogooué-Maritime]
+habit: "herb"
+altitude_m: "100"
 tags: [species, generated]
 ---
 # *Artanema longifolium* (L.) Vatke var. longifolium Planche 29, 55(H–K)

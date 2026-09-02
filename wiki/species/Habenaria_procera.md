@@ -7,6 +7,9 @@ family: Orchidaceae
 vol: 36
 pages: 37-39
 source: sources/Orchidaceae_vol36_paddle
+countries: [Cameroon, Central African Republic, Equatorial Guinea, Gabon, Sao Tome and Principe, Sierra Leone, Uganda]
+in_region: true
+habitat: [savanna, coastal, evergreen forest, rocky ground]
 tags: [species, generated]
 ---
 # *Habenaria procera* (Sw.) Lindl.
@@ -73,7 +76,7 @@ Villiers 10, Riv. Maliba (fl., Mar.), P! ; 79, Riv. Mdibé (fl., Apr.), P!.
 
 ![Habenaria procera](../sources/Orchidaceae_vol36_paddle/figures/fig_012_p0038.png)
 
-*PL. 12. – Habenaria procera (Sw.) Lindl.: A, éperon, ovaire, pédicelle et bractée ; B, labelle ; C, sépale dorsal ; D, pétale ; E, sépale latéral ; F, gynostème, vue latérale ; G, labelle (A-F- Zenker & Staudt 503, P ; G, Hallé & Villiers 5662, P).*
+*PL. 12. – Habenaria procera (Sw.) Lindl.: A, spur, ovary, pedicel and bract; B, labellum; C, dorsal sepal; D, petal; E, lateral sepal; F, gynostemium, lateral view; G, labellum (A-F- Zenker & Staudt 503, P; G, Hallé & Villiers 5662, P).*
 
 ![Habenaria procera](../sources/Orchidaceae_vol36_paddle/figures/fig_116_p0218.png)
 

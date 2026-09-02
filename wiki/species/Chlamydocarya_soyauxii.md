@@ -7,6 +7,9 @@ family: Icacinaceae
 vol: 20
 pages: 94-97
 source: sources/Icacinaceae_vol20_paddle
+countries: [Gabon]
+in_region: true
+habit: "liana"
 tags: [species, generated]
 ---
 # *Chlamydocarya soyauxii* Engler
@@ -41,7 +44,7 @@ Klaine 1285, 1469, 6522, Libreville (fl. ♂, fl. ♀, fr., juin). Soyaux 202, S
 
 ![Chlamydocarya soyauxii](../sources/Icacinaceae_vol20_paddle/figures/fig_024_p0095.png)
 
-*PL. 24. — Chlamydocarya soyauxii Engl.: 1, inflorescence × 0,8; 2, fleur ♂ × 6,5; 3, coupe de la fleur ♂ × 6,5; 4, diagramme de la fleur ♂; 5, 5', pétale × 12; 6, 6', étamine × 6,5; 7, fleur ♀ × 10; 8, coupe de la fleur ♀ × 10; 9, diagramme de la fleur ♀; 10, staminode × 22,5; 11, ovaire × 13; 12, infrutescence × 1½; 13, fruit × 0,9; 14, coupe du fruit × 0,9; 15, 15', face interne de l'endocarpe. (1, Klaine 3102, 2-6', Klaine 1285; 7-15', Klaine 1469).*
+*PL. 24. — Chlamydocarya soyauxii Engl.: 1, inflorescence × 0,8; 2, ♂ flower × 6,5; 3, section of ♂ flower × 6,5; 4, diagram of ♂ flower; 5, 5', petal × 12; 6, 6', stamen × 6,5; 7, ♀ flower × 10; 8, section of ♀ flower × 10; 9, diagram of ♀ flower; 10, staminode × 22,5; 11, ovary × 13; 12, infructescence × 1½; 13, fruit × 0,9; 14, section of fruit × 0,9; 15, 15', internal surface of endocarp. (1, Klaine 3102, 2-6', Klaine 1285; 7-15', Klaine 1469).*
 
 ## Notes
 

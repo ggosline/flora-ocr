@@ -7,6 +7,11 @@ family: Leguminosae
 vol: 49
 pages: 141-143
 source: sources/Millettiaspeciesfabaceae_vol49_liteparse
+countries: [Angola, Democratic Republic of the Congo, Equatorial Guinea, Gabon, Republic of the Congo]
+in_region: true
+habit: "liana"
+habitat: [savanna]
+altitude_m: "400–480"
 tags: [species, generated]
 ---
 # *Dalbergia micheliana* De Wild. Planche 45

@@ -7,6 +7,12 @@ family: Boraginaceae
 vol: 57
 pages: 25-27
 source: sources/Boraginaceae_vol57_paddle
+countries: [Benin, Burkina Faso, Cameroon, Cote d'Ivoire, Democratic Republic of the Congo, Equatorial Guinea, Gabon, Ghana, Guinea, Kenya, Liberia, Madagascar, Mali, Niger, Nigeria, Republic of the Congo, Sao Tome and Principe, Senegal, Sierra Leone, Sudan, Tanzania, Togo, Zambia]
+in_region: true
+subdivisions:
+  Gabon: [Moyen-Ogooué, Ngounié, Nyanga, Ogooué-Maritime]
+habit: "herb"
+altitude_m: "80"
 tags: [species, generated]
 ---
 # *Heliotropium indicum* L.

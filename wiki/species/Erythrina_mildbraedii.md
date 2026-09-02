@@ -7,6 +7,13 @@ family: Leguminosae
 vol: 49
 pages: 197-199
 source: sources/Millettiaspeciesfabaceae_vol49_liteparse
+countries: [Cameroon, Cote d'Ivoire, Democratic Republic of the Congo, Gabon, Ghana, Guinea, Liberia, Sierra Leone, Togo, Uganda]
+in_region: true
+subdivisions:
+  Gabon: [Estuaire, Ogooué-Maritime]
+habit: "tree"
+habitat: [secondary forest]
+altitude_m: "70–600"
 tags: [species, generated]
 ---
 # *Erythrina mildbraedii* Harms

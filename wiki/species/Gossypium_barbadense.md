@@ -7,6 +7,12 @@ family: Malvaceae
 vol: 45
 pages: 60-62
 source: sources/Malvaceae_vol45_liteparse
+countries: [Gabon]
+in_region: true
+subdivisions:
+  Gabon: [Ogooué-Ivindo]
+habit: "shrub"
+altitude_m: "2000"
 tags: [species, generated]
 ---
 # *Gossypium barbadense* L. Planche 15

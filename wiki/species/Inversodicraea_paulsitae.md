@@ -7,6 +7,11 @@ family: Podostemaceae
 vol: 51
 pages: 35-35
 source: sources/Podostemaceae_vol51_liteparse
+countries: [Gabon, Republic of the Congo]
+in_region: true
+subdivisions:
+  Gabon: [Ngounié]
+altitude_m: "350–700"
 tags: [species, generated]
 ---
 # *Inversodicraea paulsitae* (C.Cusset) Cheek Planche 12

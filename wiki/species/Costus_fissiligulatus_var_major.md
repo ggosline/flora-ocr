@@ -7,10 +7,9 @@ family: Zingiberaceae
 family_current: Costaceae
 infraspecific_rank: var
 parent_species: Costus fissiligulatus
+treatments: [{vol: 9, pages: "82", source: sources/Zingiberaceae_vol9_paddle}]
 countries: [Gabon]
 in_region: true
-habit: slender rhizomatous herb
-treatments: [{vol: 9, pages: "82", source: sources/Zingiberaceae_vol9_paddle}]
 tags: [species, endemic]
 ---
 # *Costus fissiligulatus* var. *major* Gagnep.

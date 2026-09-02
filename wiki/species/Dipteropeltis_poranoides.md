@@ -7,6 +7,11 @@ family: Convolvulaceae
 vol: 46
 pages: 27-29
 source: sources/Convolvulaceae_vol46_liteparse
+countries: [Angola, Cameroon, Central African Republic, Democratic Republic of the Congo, Equatorial Guinea, Gabon, Republic of the Congo]
+in_region: true
+habit: "liana"
+habitat: [secondary forest]
+altitude_m: "600"
 tags: [species, generated]
 ---
 # *Dipteropeltis poranoides* Hallier f. Planche 9

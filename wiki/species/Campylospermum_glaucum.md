@@ -7,6 +7,11 @@ family: Ochnaceae
 vol: 48
 pages: 53-55
 source: sources/Ochnaceae_vol48_liteparse
+countries: [Cameroon, Central African Republic, Equatorial Guinea, Gabon, Nigeria, Republic of the Congo]
+in_region: true
+habit: "tree"
+habitat: [swamp forest, secondary forest, riverine]
+altitude_m: "50–650"
 tags: [species, generated]
 ---
 # *Campylospermum glaucum* (Tiegh.) Farron Planche 14

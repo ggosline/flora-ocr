@@ -7,6 +7,9 @@ family: Orchidaceae
 vol: 36
 pages: 45-49
 source: sources/Orchidaceae_vol36_paddle
+countries: [Gabon, Kenya, Malawi, Sudan, Tanzania, Zambia, Zimbabwe]
+in_region: true
+habitat: [swamp forest]
 tags: [species, generated]
 ---
 # *Habenaria schimperiana* A.Rich.

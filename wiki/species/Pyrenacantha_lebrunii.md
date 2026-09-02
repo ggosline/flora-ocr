@@ -7,6 +7,9 @@ family: Icacinaceae
 vol: 20
 pages: 86-87
 source: sources/Icacinaceae_vol20_paddle
+countries: [Cameroon, Democratic Republic of the Congo]
+in_region: true
+habit: "liana"
 tags: [species, generated]
 ---
 # *Pyrenacantha lebrunii* Boutique

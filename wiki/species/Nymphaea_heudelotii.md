@@ -7,6 +7,13 @@ family: Nymphaeaceae
 vol: 40
 pages: 55-56
 source: sources/Nymphaeaceae_vol40_liteparse
+countries: [Angola, Gabon, Senegal]
+in_region: true
+subdivisions:
+  Gabon: [Nyanga, Ogooué-Ivindo]
+habit: "herb"
+habitat: [swamp forest, savanna]
+altitude_m: "200"
 tags: [species, generated]
 ---
 # *Nymphaea heudelotii* Planch. Planche 13

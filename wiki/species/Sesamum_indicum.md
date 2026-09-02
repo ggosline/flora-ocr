@@ -7,6 +7,11 @@ family: Pedaliaceae
 vol: 42
 pages: 62-64
 source: sources/Pedaliaceae_vol42_liteparse
+countries: [Angola, Gabon, Guinea, Kenya, Mali, Mozambique, Tanzania]
+in_region: true
+subdivisions:
+  Gabon: [Ogooué-Lolo]
+habit: "herb"
 tags: [species, generated]
 ---
 # *Sesamum indicum* L. Planche 16
@@ -17,23 +22,17 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Herbe annuelle, 25−190 cm de hauteur ; tige dressée, simple ou ramifiée, obtusément quadrangulaire, sillonnée, pubescente à glabrescente, glanduleuse. Feuilles opposées ou alternes, très variables, hétéromorphes , finement pubescentes et glanduleuses, glabrescentes ; les inférieures à pétiole de 3−11 cm , limbe ovale ou ovale-lancéolé, 3-lobé, 3-partite ou 3-foliolé , 4–20 × 2–10 cm, arrondi ou obtus à la base, aigu à l’apex, marge souvent dentée-serrée ; feuilles supérieures à pétiole de 0,5–3 cm, limbe oblong-lancéolé à étroitement lancéolé, généralement entier, de 0,5–2,5 cm de largeur, étroitement cunéiforme à la base. Fleur : calice persistant, lobes oblongs, pubescents, 2–5 mm de longueur ; corolle 1,5–3,3 cm de longueur, blanche, rose ou mauve-violet avec des taches plus foncées ; filaments glabres, anthères 2–3 mm de longueur ; ovaire légèrement comprimé, 1–1,5 mm de longueur, arrondi au sommet, pileux. Fruit : capsule étroitement oblongue en vue latérale, légèrement comprimée, profondément 4-sillonnée, 1,5–4 × 0,6–1 cm, arrondie à la base et au sommet, glanduleuse et pubescente, bec aigu et 2–4 mm de longueur . Graines unisériées, non ailées , 2–3 × 1,5 mm, blanches à brunes ou noires, parfois rougeâtres ou jaunâtres ; testa lisse ou rarement légèrement veiné.
+Annual herb, 25−190 cm in height; stem erect, simple or branched, obtusely quadrangular, furrowed, pubescent to glabrescent, glandular. Leaves opposite or alternate, highly variable, heteromorphic, finely pubescent and glandular, glabrescent; the lower ones with petiole 3−11 cm, blade ovate or ovate-lanceolate, 3-lobed, 3-partite or 3-foliolate, 4–20 × 2–10 cm, rounded or obtuse at the base, acute at the apex, margin often dentate-serrate; upper leaves with petiole 0.5–3 cm, blade oblong-lanceolate to narrowly lanceolate, generally entire, 0.5–2.5 cm in width, narrowly cuneiform at the base. Flower: calyx persistent, lobes oblong, pubescent, 2–5 mm in length; corolla 1.5–3.3 cm in length, white, pink or mauve-violet with darker spots; filaments glabrous, anthers 2–3 mm in length; ovary slightly compressed, 1–1.5 mm in length, rounded at the apex, pilose. Fruit: capsule narrowly oblong in lateral view, slightly compressed, deeply 4-furrowed, 1.5–4 × 0.6–1 cm, rounded at the base and apex, glandular and pubescent, beak acute and 2–4 mm in length. Seeds uniseriate, not winged, 2–3 × 1.5 mm, white to brown or black, sometimes reddish or yellowish; testa smooth or rarely slightly veined.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+indigenous to the Indian subcontinent; in Africa widely distributed from Guinea and Mali east to Ethiopia, Kenya and Tanzania and south to Angola
 
-indigène au souscontinent Indien ; en Afrique largement répandue de la Guinée et Mali jusqu’en Éthiopie, Kenya et la Tanzanie à l’est et au sud jusqu’en Angola
-
-<!-- caption: Planche 16. Sesamum indicum : 1. Rameau florifère (× ½). – 2. Feuille basale (× ½). – 3. Feuille basale 3-lobée (× ½). – 4. Feuille, détail de la face inférieure (× 6), a : glande mucilagineuse (× 48). – 5. Corolle ouverte (× ½). – 6. Corolle, section longitudinale (× ½). – 7. Anthère, vue fron- tale (× 3). – 8. Anthère, vue latérale (× 3). – 9. Gynécée et calice (un sépale enlevé) (× 1½). – 10, 11. Stigmate (× 5). – 12. Ovaire, section transversale (× 12). – 13. Fruit mûr (× ¾). – 14. Fruit, détail de la surface (× 24). – 15. Graine blanche, vue frontale (×4). – 16. Graine blanche vue latérale (× 4½). – 17. Graine brune, vue frontale (× 4½). – 18. Graine brune, vue latérale (× 4). – 19. Plan- tule (× 1). (1–4 : Seegeler 1956 ; 5–12 : Seegeler 1958 ; 13, 14 : Westphal 7494 ; 15, 16 : Seegeler 1510 ; 17, 18 : Seegeler 1053 ; 19 : Westphal 755 ) . Dessin par Juliet M. Beentje-Williamson (©), reproduit avec permission. --> et Mozambique ; l’espèce est plantée dans des régions tropicales et subtropicales, et se naturalise facilement ; au Gabon rare, connue seulement des Plateaux Batéké et du nord de Lastoursville (Ogooué-Lolo).
+<!-- caption: Plate 16. Sesamum indicum: 1. Flowering branch (× ½). – 2. Basal leaf (× ½). – 3. 3-lobed basal leaf (× ½). – 4. Leaf, detail of the lower surface (× 6), a: mucilagenous gland (× 48). – 5. Open corolla (× ½). – 6. Corolla, longitudinal section (× ½). – 7. Anther, frontal view (× 3). – 8. Anther, lateral view (× 3). – 9. Gynoecium and calyx (one sepal removed) (× 1½). – 10, 11. Stigma (× 5). – 12. Ovary, transverse section (× 12). – 13. Mature fruit (× ¾). – 14. Fruit, detail of the surface (× 24). – 15. White seed, frontal view (×4). – 16. White seed, lateral view (× 4½). – 17. Brown seed, frontal view (× 4½). – 18. Brown seed, lateral view (× 4). – 19. Seedling (× 1). (1–4: Seegeler 1956; 5–12: Seegeler 1958; 13, 14: Westphal 7494; 15, 16: Seegeler 1510; 17, 18: Seegeler 1053; 19: Westphal 755). Drawing by Juliet M. Beentje-Williamson (©), reproduced with permission. --> and Mozambique; the species is cultivated in tropical and subtropical regions, and naturalizes readily; in Gabon rare, known only from the Batéké Plateaus and north of Lastoursville (Ogooué-Lolo).
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-champs cultivés ; cultivée jusqu’à 1500(–1800) m d’altitude. Usage : La graine oléagineuse a une grande valeur alimentaire et peut être utilisée en boulangerie
+cultivated fields; cultivated up to 1500(–1800) m in altitude. Use: The oleaginous seed has great nutritional value and can be used in baking
 
 ## Vernacular names
 

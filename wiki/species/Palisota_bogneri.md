@@ -7,6 +7,12 @@ family: Commelinaceae
 vol: 55
 pages: 56-57
 source: sources/Commelinaceae_vol55_liteparse
+countries: [Gabon, Republic of the Congo]
+in_region: true
+subdivisions:
+  Gabon: [Nyanga, Ogooué-Lolo, Ogooué-Maritime]
+habit: "herb"
+altitude_m: "530"
 tags: [species, generated]
 ---
 # *Palisota bogneri* Brenan Planche 15, Figure 3(K, L)

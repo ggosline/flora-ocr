@@ -7,6 +7,7 @@ family: Gramineae
 vol: 05
 pages: 168-171
 source: sources/Gramineae_vol05_paddle
+habit: "herb"
 tags: [species, generated]
 ---
 # *Andropogon pseudapricus* Stapf.
@@ -54,7 +55,7 @@ Descoings : 6533
 
 ![Andropogon pseudapricus](../sources/Gramineae_vol05_paddle/figures/fig_029_p0179.png)
 
-*PL. XXVIII. — Cymbopogon densiflorus (Steud.) Stapf (Steudel s.n.): 1, partie de l'inflorescence; 2, détail d'une partie d'inflorescence (longueur des spathéoles ± 12 mm); 3, détail d'une paire d'épillets sessile vu par la face ventrale (longueur de l'épillet sessile : 3 mm). — Andropogon schirensis Hochst. (Dalziel, 906a): 4, une paire de racèmes; 5, épillet sessile vu par la face dorsale (longueur de l'épillet : 4,5 mm); 6, une paire d'épillets, épillet sessile vu par la face ventrale. — Andropogon pseudapricus Stapf (Adam, 7877): 7, partie de l'inflorescence.*
+*PL. XXVIII. — Cymbopogon densiflorus (Steud.) Stapf (Steudel s.n.): 1, part of inflorescence; 2, detail of a part of inflorescence (length of spatheoles ± 12 mm); 3, detail of a pair of sessile spikelets seen from the ventral face (length of sessile spikelet: 3 mm). — Andropogon schirensis Hochst. (Dalziel, 906a): 4, a pair of racemes; 5, sessile spikelet seen from the dorsal face (length of spikelet: 4.5 mm); 6, a pair of spikelets, sessile spikelet seen from the ventral face. — Andropogon pseudapricus Stapf (Adam, 7877): 7, part of inflorescence.*
 
 ## Notes
 

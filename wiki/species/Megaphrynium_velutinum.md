@@ -7,6 +7,9 @@ family: Marantaceae
 vol: 09
 pages: 160-161
 source: sources/Marantaceae_vol09_paddle
+countries: [Cameroon, Cote d'Ivoire, Gabon]
+in_region: true
+habit: "herb"
 tags: [species, generated]
 ---
 # *Megaphrynium velutinum* (Bak.)

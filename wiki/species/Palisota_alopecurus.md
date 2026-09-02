@@ -7,6 +7,13 @@ family: Commelinaceae
 vol: 55
 pages: 52-52
 source: sources/Commelinaceae_vol55_liteparse
+countries: [Cameroon, Democratic Republic of the Congo, Gabon]
+in_region: true
+subdivisions:
+  Gabon: [Estuaire, Ngounié, Nyanga]
+habit: "herb"
+habitat: [secondary forest]
+altitude_m: "750"
 tags: [species, generated]
 ---
 # *Palisota alopecurus* Pellegr. Planche 13

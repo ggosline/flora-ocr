@@ -39,7 +39,7 @@ N. Halle : 1800, Ayem, SW de Ndjole. N. Hallé et G. Cours : 5867, route de Léb
 
 ![Cyclosorus striatus](../sources/Thelypteridaceae_vol08_paddle/figures/fig_027_p0159.png)
 
-*PL. XXIV.—Cyclosorus afer (Christ) Ching (Annet): 1, aspect général × 1 /6; 2, base de penne × 2 /3; 3, nervation et sores × 3. — Cyclosorus dentatus (Forsk.) Ching (Letouzey 204); 4, nervation et sore × 3; 5, sore × 9. — Cyclosorus striatus (Schum.) Cop. (Nicklès): 6, aspect général × 1 /6; 7, base de penne × 2 /3; 8, nervation et sore × 3.*
+*PL. XXIV.—Cyclosorus afer (Christ) Ching (Annet): 1, general appearance × 1 /6; 2, base of pinna × 2 /3; 3, venation and sori × 3. — Cyclosorus dentatus (Forsk.) Ching (Letouzey 204); 4, venation and sorus × 3; 5, sorus × 9. — Cyclosorus striatus (Schum.) Cop. (Nicklès): 6, general appearance × 1 /6; 7, base of pinna × 2 /3; 8, venation and sorus × 3.*
 
 ## Notes
 

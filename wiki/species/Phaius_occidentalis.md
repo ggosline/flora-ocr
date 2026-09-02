@@ -7,6 +7,8 @@ family: Orchidaceae
 vol: 36
 pages: 115-117
 source: sources/Orchidaceae_vol36_paddle
+countries: [Angola, Gabon, Malawi, Tanzania, Uganda, Zambia, Zimbabwe]
+in_region: true
 tags: [species, generated]
 ---
 # *Phaius occidentalis* Schltr.

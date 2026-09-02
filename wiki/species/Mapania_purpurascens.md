@@ -7,6 +7,12 @@ family: Cyperaceae
 vol: 44
 pages: 177-178
 source: sources/Cyperaceae_vol44_liteparse
+countries: [Angola, Cameroon, Cote d'Ivoire, Democratic Republic of the Congo, Equatorial Guinea, Gabon, Liberia, Nigeria, Republic of the Congo, Sierra Leone]
+in_region: true
+subdivisions:
+  Gabon: [Estuaire, Haut-Ogooué, Moyen-Ogooué, Ngounié, Nyanga, Ogooué-Ivindo, Ogooué-Lolo, Ogooué-Maritime, Woleu-Ntem]
+habit: "herb"
+altitude_m: "600"
 tags: [species, generated]
 ---
 # *Mapania purpurascens* (Cherm.) Lye Planche 112

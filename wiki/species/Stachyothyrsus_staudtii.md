@@ -7,6 +7,8 @@ family: Leguminosae
 vol: 15
 pages: 337-340
 source: sources/Leguminosae_vol15_paddle
+habit: "tree"
+habitat: [primary forest]
 tags: [species, generated]
 ---
 # *Stachyothyrsus staudtii* Harms
@@ -39,7 +41,7 @@ Le Testu : 2222, Sindara (fl. août); 5475, Mouila (fl. sept.); 7528, 8478, Last
 
 ![Stachyothyrus staudtii](../sources/Leguminosae_vol15_paddle/figures/fig_087_p0338.png)
 
-*PL. LXXXVI. — Stachyothyrus Staudtii Harms : 1, feuille × 1/3; 2, foliole × 2/3; 3, détail de la nervation; 4, partie d'une inflorescence × 2/3; 5, bouton × 6; 6, coupe du bouton × 6; 7, petite étanine × 6; 8, grande étanine × 6; 9, jeune fruit × 2/3.*
+*PL. LXXXVI. — Stachyothyrus Staudtii Harms : 1, leaf × 1/3; 2, leaflet × 2/3; 3, detail of venation; 4, part of an inflorescence × 2/3; 5, bud × 6; 6, section of the bud × 6; 7, small stamen × 6; 8, large stamen × 6; 9, young fruit × 2/3.*
 
 ## Notes
 

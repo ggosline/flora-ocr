@@ -7,6 +7,7 @@ family: Apocynaceae
 vol: 59
 pages: 58-60
 source: sources/Apocynaceae_vol59_liteparse
+habit: "liana"
 tags: [species, generated]
 ---
 # *Baissea subrufa* Stapf Planche 22

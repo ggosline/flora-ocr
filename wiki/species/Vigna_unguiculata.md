@@ -7,6 +7,12 @@ family: Leguminosae
 vol: 49
 pages: 384-387
 source: sources/Millettiaspeciesfabaceae_vol49_liteparse
+countries: [Angola, Cameroon, Gabon, Kenya, Sao Tome and Principe]
+in_region: true
+subdivisions:
+  Gabon: [Ogooué-Ivindo]
+habit: "herb"
+altitude_m: "2500"
 tags: [species, generated]
 ---
 # *Vigna unguiculata* (L.) Walp. subsp. unguiculata var. unguiculata

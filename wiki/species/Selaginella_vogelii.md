@@ -7,6 +7,8 @@ family: Pteridophytes
 vol: 08
 pages: 24-25
 source: sources/Salviniaceae_vol08_paddle
+countries: [Angola, Guinea]
+in_region: true
 tags: [species, generated]
 ---
 # *Selaginella vogelii* Spring
@@ -20,13 +22,9 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 — Spring, Mém. Acad. Belg. 24 : 170 (1850). — Alston, Mém. IFAN 50 : 33 (1957); FWTA : 15 (1959).
 
-Rhizophores limités à la partie basale, couchée, de la tige, ayant jusqu'à 3 cm de long, finement pubescents, straminé foncé, ventraux, la plupart à angle droit avec le rhizome. Rhizome rampant avec des tiges dressées, espacées de 2 cm environ, roses, subtétragonales, feuillées, atteignant 25 cm de long quelquefois dichotomes. Tiges principales dressées atteignant 50 cm de long, plus courtes que le rhizome, ayant jusqu'à 3 mm de diamètre, généralement roses sur le sec, arrondies, subglabres, s'enracinant parfois au sommet. Ramifications pubescentes, faisant un angle de 45°. Partie rameuse à contour triangulaire ou deltoïde, tripennée, la paire basale de rameaux subopposée. Feuilles homormopes sur la partie simple de la tige principale. Feuilles de la tige principale distantes, souvent espacées de plus de 1 cm, symétriques, ovales-deltoïdes, légèrement auriculées à la base, lacérées-dentées. Feuilles latérales espacées d'environ leur largeur, ayant au plus 3,5 mm de long sur 1,25 de large, souvent enroulées sur le sec, obtuses. Moitié supérieure de la feuille semi-ovale, entière, moitié inférieure étroitement oblongue, serrulée à la base. Costa n'atteignant pas le sommet. Feuilles axillaires aussi longues que les latérales, entières, elliptiques, obtuses. Feuilles médianes espacées sur la tige principale et quelquefois subopposées, régulièrement atténuées et imbriquées sur les ramifications ultimes, ovales, falciformes, ciliolées sur la face interne, entières sur la face externe, acuminées, non aristées, face externe longuement décurrente. Strobiles solitaires à l'extrémité des ramules, ayant environ 0,5 cm de long sur 1,75 mm de diamètre, d'un vert plus pâle que celui des feuilles. Sporophylles homorophes, ovales-deltoïdes, acuminés, aigus, avec deux courtes auricules qua-drangulaires à la base, lâchement ciliolés. Mégaspores couleur
-
-crème, densément recouvertes d'ornementations aplaties, recourbées, ayant environ 270 μ de diamètre. Microspores subtriangulaires, de 35-40 μ, à marque triradiée s'étendant jusqu'à la marge, portant des papilles mousses en bâtonnet.
+Rhizophores limited to the basal, decumbent part of the stem, up to 3 cm long, finely pubescent, dark straw-colored, ventral, most at right angles to the rhizome. Rhizome creeping with erect stems, spaced about 2 cm apart, pink, subtetragonal, leafy, reaching 25 cm long sometimes dichotomous. Main stems erect reaching 50 cm long, shorter than the rhizome, up to 3 mm in diameter, generally pink when dry, rounded, subglabrous, sometimes rooting at the apex. Branches pubescent, at a 45° angle. Branched part with triangular or deltoid outline, tripinnate, the basal pair of branches subopposite. Leaves homomorphic on the simple part of the main stem. Leaves of the main stem distant, often spaced more than 1 cm apart, symmetric, oval-deltoid, slightly auriculate at the base, lacerate-dentate. Lateral leaves spaced about their width apart, at most 3.5 mm long by 1.25 wide, often rolled when dry, obtuse. Upper half of leaf semi-ovate, entire, lower half narrowly oblong, serrulate at the base. Costa not reaching the apex. Axillary leaves as long as the lateral ones, entire, elliptic, obtuse. Median leaves spaced on the main stem and sometimes subopposite, regularly attenuate and imbricate on the ultimate branches, ovate, falcate, ciliolate on the inner face, entire on the outer face, acuminate, not aristate, outer face long-decurrent. Strobili solitary at the apex of the branchlets, about 0.5 cm long by 1.75 mm in diameter, a paler green than the leaves. Sporophylls homomorphic, oval-deltoid, acuminate, acute, with two short quadrangular auricles at the base, loosely ciliolate. Megaspores cream-colored, densely covered with flattened, curved ornamentations, about 270 μ in diameter. Microspores subtriangular, 35–40 μ, with a triradiate mark extending to the margin, bearing blunt rod-like papillae.
 
 ## Type
 
@@ -34,9 +32,7 @@ Vogel, Fernando-Po (K)
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-De Guinée en Angola.
+From Guinea to Angola.
 
 ## Specimens examined
 

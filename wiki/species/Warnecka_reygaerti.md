@@ -7,6 +7,9 @@ family: Melastomataceae
 vol: 25
 pages: 162-164
 source: sources/Melastomataceae_vol25_paddle
+countries: [Angola, Cameroon, Democratic Republic of the Congo, Gabon]
+in_region: true
+habit: "shrub"
 tags: [species, generated]
 ---
 # *Warnecka reygaerti* (de Wildeman) Jacques-Félix
@@ -17,19 +20,13 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Adansonia, ser. 2, 18 (2): 234 (1978); Fl. Cam. 24: 170 (1983). — Memecylon reygaertii DE WILD., Bull. Jard. Bot., Brux. 4: 425 (1914).
 
-Adansonia, sér. 2, 18 (2) : 234 (1978); Fl. Cam. 24 : 170 (1983). — Memecylon reygaertii DE WILD., Bull. Jard. Bot., Brux. 4 : 425 (1914).
+Shrub 1.50 m tall; branches robust, subangular then rounded. Leaves large, glossy on the upper face; petiole 3–5 mm; lamina broadly elliptic acuminate, 5–8 × 10–17 cm, broadly cuneate at the base, acumen approximately 1 cm long; veins impressed above, prominent below; the main suprabasal convergent veins not sinuous; the additional veins clearly visible below, sinuous 1 mm from the margin; ± 10 main transverse veins very prominent below, often divided and supplemented by relatively dense reticulate intercalary veins, finely prominent on both faces.
 
-Arbuste de 1,50 m; rameaux robustes, subangulaires puis arrondis. Feuilles grandes, brillantes sur la face supérieure; pétiole de 3 à 5 mm; limbe largement elliptique acuminé, 5-8 × 10-17 cm, largement en coin à la base, acumen long de 1 cm environ; nervures imprimées dessus, saillantes dessous; les convergentes principales suprabasales, non sinuées; les additionnelles bien visibles dessous, sinuées à 1 mm de la marge; ± 10 transversales principales très saillantes dessous, souvent divisées et compléées de nervures intercalaires réticulées, relativement denses, finement saillantes sur les 2 faces.
+Axillary cymes, branched but compact and globular, 1.5 cm long; bracts triangular, 1 mm long, tardily caducous. Flowers with pedicel 2–4 mm; hypantho-calyx cupulate-patellate, 3 × 2 mm; calyx lobes triangular to semi-ovate. Petals transversely elliptic, 3.5 × 2.5 mm. Stamens with anther 1.8–2 × 1 mm, thecae convex; connective conical, saddled by a gland occupying more than half the length; filament 2 mm. Epigynous chamber spreading, with thick wall; style 4 mm. Ovary 6-ovulate.
 
-Cymes axillaires, ramifiées mais compactes et globuleuses, longues de
-
-MELASTOMATACE
-
-1,5 cm; bractées triangulaires, longues de 1 mm, tardivement caduques. Fleurs à pédicelle de 2 à 4 mm; hypantho-calice cupulo-patellé, 3 × 2 mm; lobes du calice triangulaires à semi-ovales. Pétales transversalement elliptiques, 3,5 × 2,5 mm. Étamines à anthère de 1,8-2 × 1 mm, thèques convexes; connectif conique, ensellé par une glande occupant plus de la moitié de la longueur; filet 2 mm. Chambre épigyne étalée, à paroi épaisse; style 4 mm. Ovaire 6-ovulé.
-
-Fruit globuleux, 10-15 mm de diamètre.
+Fruit globular, 10–15 mm in diameter.
 
 ## Type
 
@@ -37,9 +34,7 @@ Reygaert 1311, Zaïre (holo-, BR!)
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Se reconnaît à ses cymes compactes de fleurs relativement grosses et ses fruits globuleux. Les spécimens stériles peuvent être confondus avec W. membranifolia, mais les feuilles sont généralement plus grandes, lisses (sans sclérites), les rameaux plus épais et précocement arrondis. Espèce des forêts du Cameroun, du Zaïre, du Gabon et du Cabinda.
+Recognized by its compact cymes of relatively large flowers and its globular fruits. Sterile specimens may be confused with W. membranifolia, but the leaves are generally larger, smooth (without sclerites), the branches thicker and early rounded. Species of the forests of Cameroon, Zaïre, Gabon and Cabinda.
 
 ## Specimens examined
 

@@ -7,6 +7,13 @@ family: Cyperaceae
 vol: 44
 pages: 86-87
 source: sources/Cyperaceae_vol44_liteparse
+countries: [Gabon, Madagascar]
+in_region: true
+subdivisions:
+  Gabon: [Ogooué-Maritime, Woleu-Ntem]
+habit: "herb"
+habitat: [rocky ground]
+altitude_m: "900"
 tags: [species, generated]
 ---
 # *Cyperus aromaticus* (Ridl.) Mattf. & Kük. Planche 51

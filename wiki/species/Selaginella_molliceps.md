@@ -20,13 +20,9 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 — Spring, Mém. Acad. Belgique 24; 257 (1850). — Alston, Mém. IFAN 50: 43 (1957); FWTA: 17 (1959).
 
-Rhizophores localisés au tiers inférieur de la tige, atteignant 4 cm de long, glabres, straminé-vert pâle, généralement abruptement défléchis. Tiges principales subdressées, atteignant 18 cm de haut sur 2 mm de diamètre, straminé-jaune pâle, à extrémité souvent plus foncée sur le sec, charnues et pourpre sur le frais. Rameaux glabres, divergeant de 60°. Partie rameuse bi-tripennée, deltoïde oblongue. Feuilles entièrement hétéromorphes. Feuilles latérales assez rapprochées sur les tiges principales, espacées, au plus, de deux largeurs de feuille, subcontiguës sur les rameaux, inéquilatérales, longues d'environ 2,75 mm sur 1,25 mm de large, obtuses, à moitié supérieure semi-ovale à semi-ovale oblongue, arrondie, avec quelques cils à la base, entière ou finement serrulée au sommet; moitié inférieure étroitement oblongue, subentière, légèrement élargie à la base. Marge avec 1-2 rangs de cellules allongées. Feuilles axillaires lancéolées, à dents espacées, longues d'environ 2 mm. Feuilles médianes se recouvrant sur la tige principale, imbriquées sur les rameaux, ovales-elliptiques à elliptiques-lancéolées, denticulées, ou quelquefois ciliolées sur la face interne, acuminées-aristées, l'arête ayant 1/4 à 1/3 de la longueur du limbe. Strobiles à l'extrémité des rameaux ultimes, longs d'environ 1/2 cm sur 2,5 mm de large. Sporophylles dimorphes : sporophylles dorsaux étroitement oblongs, verts, obtus, distinctement serrulés ou finement ciliolés vers la base de la marge supérieure; carène ciliolée; sporophylls ventraux hyalins, ovale-lancéolés, acuminés aristés, courtement ciliolés. Mégaspores de 270 μ de diamètre, grises ou jaune soufre pâle, réticulées,
-
-avec une marque triradiée. Microspores vermillon en masse, de 40 μ de diamètre, finement papilleuses.
+Rhizophores localized to the lower third of the stem, reaching 4 cm long, glabrous, pale straw-green, generally abruptly deflexed. Main stems subdecumbent, reaching 18 cm high by 2 mm in diameter, pale straw-yellow, apex often darker when dry, fleshy and purple when fresh. Branches glabrous, diverging at 60°. Branched portion bi-tripinnate, oblong-deltoid. Leaves entirely heteromorphic. Lateral leaves fairly close together on the main stems, spaced at most by two leaf-widths, subcontiguous on the branches, inequilateral, about 2.75 mm long by 1.25 mm wide, obtuse, upper half semi-ovate to semi-oblong-ovate, rounded, with a few cilia at the base, entire or finely serrulate at the apex; lower half narrowly oblong, subentire, slightly widened at the base. Margin with 1–2 rows of elongate cells. Axillary leaves lanceolate, with spaced teeth, about 2 mm long. Median leaves overlapping on the main stem, imbricate on the branches, ovate-elliptic to elliptic-lanceolate, denticulate, or sometimes ciliolate on the inner face, acuminate-aristate, the awn 1/4 to 1/3 the length of the limb. Strobili at the tip of the ultimate branches, about 0.5 cm long by 2.5 mm wide. Sporophylls dimorphic: dorsal sporophylls narrowly oblong, green, obtuse, distinctly serrulate or finely ciliolate toward the base of the upper margin; keel ciliolate; ventral sporophylls hyaline, ovate-lanceolate, acuminate-aristate, shortly ciliolate. Megaspores 270 μ in diameter, grey or pale sulphur-yellow, reticulate, with a triradiate mark. Microspores vermilion en masse, 40 μ in diameter, finely papillose.
 
 ## Type
 
@@ -46,15 +42,13 @@ Rhizophores localisés au tiers de la tige, longs de 2 cm au plus, glabres, stra
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+ORDER III. PSILOTALES
 
-ORDRE III. PSILOTALES
+A single family: PSILOTACEAE.
 
-Unc scule famille : PsiLotACEAE.
+Very primitive ferns, with limited geographical distribution, sole present representative of a fossil group known since the Devonian. Sporophyte formed of a dichotomous underground part, absorbing, which does not bear true roots and an aerial, chlorophyllous part, with dichotomous divisions, bearing small lateral appendages, oval and rigid in Psilotum, wide and flattened in Tmesipteris. Sporangium borne by bifurcate appendages that embrace its base, with walls formed of several rows of cells, divided into 3 in Psilotum, or 2 in Tmesipteris. Gametophyte cylindric, dichotomous, bearing rhizoids and containing an endophytic fungus.
 
-Fougères très primitives, à distribution géographique limitée, seul représentant actuel d'un groupe fossile connu dès le Dévonien. Sporophyte formé d'une partie souterraine dichotome, absorbante, qui ne porte pas de véritables racines et d'une partie aérienne, chlorophyllienne, à divisions dichotomes, portant des appendices latéraux de petite taille, ovales et rigides chez Psilotum, larges et aplatis chez Tmesipteris. Sporange porté par des appendices bifurqués qui embrassent sa base, à parois formées de plusieurs rangées de cellules, divisé en 3 chez Psilotum, ou 2 chez Tmesipteris. Gamétophyte cylindrique, dichotome, portant des rhizoïdes et contenant un champignon endophyte.
-
-2 genres : Psilotum (2 espèces), Tmesipteris (1 espèce). Un seul, Psilotum, en Afrique.
+2 genera: Psilotum (2 species), Tmesipteris (1 species). Only one, Psilotum, in Africa.
 
 ## Notes
 

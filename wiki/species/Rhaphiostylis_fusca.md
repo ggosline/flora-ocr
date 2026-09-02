@@ -7,6 +7,9 @@ family: Icacinaceae
 vol: 20
 pages: 38-39
 source: sources/Icacinaceae_vol20_paddle
+countries: [Gabon]
+in_region: true
+habit: "liana"
 tags: [species, generated]
 ---
 # *Rhaphiostylis fusca* (Pierre) Pierre
@@ -45,7 +48,7 @@ Hallé N. & Villiers J.-F. 4504, route de Kinguélé, km 5 (fr., janv.).
 
 ![Rhaphiostylis fusca](../sources/Icacinaceae_vol20_paddle/figures/fig_009_p0041.png)
 
-*PL. 9. — Rhaphiostylis fusca (Pierre) Pierre : 1, feuille × 2/3; 2, bouton floral × 4,5; 3, fleur × 4,3; 4, coupe longit. de la fleur × 4,3; 5,5', sépale × 6,5; 6,6', pétale × 4,5; 7,7', étamine × 4,5; 8,8', ovaire × 4,5; 9,9', 9", fruit × 1; 10, coupe du fruit × 1,2; 11, graine × 1. — R. ferruginea Engl. : 12, fleur × 4; 13, coupe de la fleur × 4; 14, diagramme floral; 15, pétale × 4; 16, étamine × 4,5; 17, ovaire × 4,5. (1-11, Klaine 158; 12-17, Le Testu 1551).*
+*PL. 9. — Rhaphiostylis fusca (Pierre) Pierre : 1, leaf × 2/3; 2, floral bud × 4,5; 3, flower × 4,3; 4, long. section of the flower × 4,3; 5,5', sepal × 6,5; 6,6', petal × 4,5; 7,7', stamen × 4,5; 8,8', ovary × 4,5; 9,9', 9", fruit × 1; 10, section of the fruit × 1,2; 11, seed × 1. — R. ferruginea Engl. : 12, flower × 4; 13, section of the flower × 4; 14, floral diagram; 15, petal × 4; 16, stamen × 4,5; 17, ovary × 4,5. (1-11, Klaine 158; 12-17, Le Testu 1551).*
 
 ## Notes
 

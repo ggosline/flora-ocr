@@ -7,6 +7,9 @@ family: Begoniaceae
 vol: 39
 pages: 42-42
 source: sources/Begoniaceae_vol39_liteparse
+countries: [Gabon]
+in_region: true
+altitude_m: "300–600"
 tags: [species, generated]
 ---
 # *Begonia aggeloptera* N.Hallé Planche 16

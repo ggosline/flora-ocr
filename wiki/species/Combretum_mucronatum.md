@@ -7,6 +7,9 @@ family: Combretaceae
 vol: 35
 pages: 65-66
 source: sources/Combretaceae_vol35_paddle
+countries: [Gabon, Gambia, Sudan, Uganda]
+in_region: true
+habitat: [savanna, evergreen forest]
 tags: [species, generated]
 ---
 # *Combretum mucronatum* Thonning ex Schumacher

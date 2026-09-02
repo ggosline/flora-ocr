@@ -7,6 +7,7 @@ family: Gramineae
 vol: 05
 pages: 238-239
 source: sources/Gramineae_vol05_paddle
+habit: "herb"
 tags: [species, generated]
 ---
 # *Thysanolaena maxima* O. Kuntze.
@@ -22,15 +23,13 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Perennial herb that can exceed 3 m in height; leaves numerous with overlapping sheaths, bearded on the back at the junction with the blade. Ligule truncate, 1 to 1.5 mm long, blade lanceolate to oblong-lanceolate, contracted at the base, gradually acuminate at the apex, up to about sixty centimetres long and 5 wide.
 
-Herbe pérenne pouvant dépasser 3 m de haut; feuilles nombreuses à gaines imbriquées, barbues sur le dos à la jonction avec le limbe. Ligule tronquée de 1 à 1,5 mm de long, limbe lancéolé à oblong lancéolé, contracté à la base, graduellement acuminé au sommet, jusqu'à environ une soixantaine de centimètres de long et 5 de large.
+Panicle lax, up to 60 cm long and 30 wide, pedicels 1 mm, spikelets 1.5 to 2 mm long, glumes ovate to elliptic, 1/2 to 1 mm long. Sterile lemma lanceolate to elliptic ciliolate on the margins or glabrous; fertile lemmas ovate, about 1.5 mm long, bordered by erect white hairs and often tuberculate at the base. Paleas linear to oblong, 2/3 mm to 1 mm long.
 
-Panicule lâche, jusqu'à 60 cm de long et 30 de large, pédicelles de 1 mm, épilets de 1,5 à 2 mm de long, glumes ovales à elliptiques, de 1/2 à 1 mm de long. Lemma stérile lancéolée à elliptique ciliolée sur les bords ou glabre; lemmas fertiles ovales, d'environ 1,5 mm de long, bordées de poils blancs dressés et souvent tuberculés à la base. Palées linéaires à oblongues, de 2/3 mm à 1 mm de long.
+Species collected in Gambia, Ubangi, Chad, Tanganyika and the Belgian Congo. Recorded from Gabon. Also widely distributed in the Indo-Malayan region.
 
-Espèce récoltée en Gambie, Oubangui, Tchad, Tanganyika et au Congo Belge. Signalée au Gabon. Largement répandue également dans la région Indo-malaise.
-
-VII. ARUNDINÉES
+VII. ARUNDININEAE
 
 ## Notes
 

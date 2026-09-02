@@ -7,6 +7,7 @@ family: Rubiaceae
 vol: 12
 pages: 46-50
 source: sources/Rubiaceae_vol12_paddle
+habit: "tree"
 tags: [species, generated]
 ---
 # *Nauclea diderrichii* (De Wild.) Merr.
@@ -78,7 +79,7 @@ R. P. Trilles : 161 et s. n°., Bata (fr. sept. 1899).
 
 ![Nauclea diderrichii](../sources/Rubiaceae_vol12_paddle/figures/fig_009_p0047.png)
 
-*PL. 5. — Nauclea Diderrichii (De Wild.) Merr. (Le Testu 9247 et Klaine 1600); 1, stipule; 2, inflorescence; 3, infrutescence juvénile; 4, feuille et pédoncule d'infrutescence; 5, syncarpe mùr; 6, graine. — Nauclea Pobeguini (Hua) Petit (N. Hallé 1610); 7, stipule; 8, inflorescence; 9, fruit mùr; 10, id. en coupe; 11, graine.*
+*PL. 5. — Nauclea Diderrichii (De Wild.) Merr. (Le Testu 9247 and Klaine 1600); 1, stipule; 2, inflorescence; 3, juvenile infructescence; 4, leaf and infructescence peduncle; 5, mature syncarp; 6, seed. — Nauclea Pobeguini (Hua) Petit (N. Hallé 1610); 7, stipule; 8, inflorescence; 9, mature fruit; 10, id. in section; 11, seed.*
 
 ## Notes
 

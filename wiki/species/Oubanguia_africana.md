@@ -7,6 +7,8 @@ family: Scytopetalaceae
 vol: 24
 pages: 154-158
 source: sources/Scytopetalaceae_vol24_paddle
+countries: [Cameroon, Central African Republic, Democratic Republic of the Congo, Equatorial Guinea, Gabon]
+in_region: true
 tags: [species, generated]
 ---
 # *Oubanguia africana* Baillon
@@ -95,7 +97,7 @@ Thollon 32 (et 32 bis; cf. LETOUZEY, Adansonia, ser. 2, 1 (2) : 113, 1961) (type
 
 ![Oubanguia africana](../sources/Scytopetalaceae_vol24_paddle/figures/fig_043_p0157.png)
 
-*PL. 43. — Oubanguia africana Baill. : 1, rameau avec fleurs × 2/3; 2, marge feuille × 20/3; 3, feuille denticulée × 2/3; 4, marge feuille × 20/3; 5, jeune rameau, feuille, cataphylles × 4/3; 6, bouton floral × 12/3; 7, fleur × 12/3; 8, coupe long. calice et gynécée × 12/3; 9, coupe transv. ovaire × 18/3; 10, fruits × 4/3. (1-2, Hladik 2301; 3-4, Breteler 1622; 5. Letouzey 4600: 6-9, Mpom 333: 10, Hladik 1365).*
+*PL. 43. — Oubanguia africana Baill. : 1, branch with flowers × 2/3; 2, leaf margin × 20/3; 3, dentate leaf × 2/3; 4, leaf margin × 20/3; 5, young branch, leaf, cataphylls × 4/3; 6, floral bud × 12/3; 7, flower × 12/3; 8, long. section calyx and gynoecium × 12/3; 9, transv. section ovary × 18/3; 10, fruits × 4/3. (1-2, Hladik 2301; 3-4, Breteler 1622; 5. Letouzey 4600: 6-9, Mpom 333: 10, Hladik 1365).*
 
 ## Notes
 

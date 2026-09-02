@@ -101,11 +101,11 @@ Alers & Blom (Lopé) 110, 16.07.1986, c. 0°07'S-11°37'E, Réserve de la Lopé.
 
 ![Schizachyrium nees](../sources/Gramineae_vol5bis_paddle/figures/fig_016_p0058.png)
 
-*Pl. 16. - Sacciolepis chevalieri Stapf : 1, aspect de la plante ; 2, épillet ; 3, fleur supérieure. - Sorghastrum bipennatum (Hack.) Pilg. : 4, aspect de la plante ; 5, 6, épilles ; 7, lemma supérieure. - Autorisation de reproduction : cf. Remerciements p. 68.*
+*Pl. 16. - Sacciolepis chevalieri Stapf : 1, aspect of the plant ; 2, spikelet ; 3, upper flower. - Sorghastrum bipennatum (Hack.) Pilg. : 4, aspect of the plant ; 5, 6, spikelets ; 7, upper lemma. - Reproduction authorization: cf. Acknowledgments p. 68.*
 
 ![Schizachyrium nees](../sources/Gramineae_vol5bis_paddle/figures/fig_017_p0060.png)
 
-*Pl. 17. - Schizachyrium brevifolium (Sw.) Büse : 1, aspect de la plante ; 2, 3, paires d'épilets ; 4, lemma supérieure. - Schizachyrium maclaudii (Jacq.-Fél.) S.T. Blake : 5, aspect de la plante ; 6, 7, paires d'épilets ; 8, lemma supérieure. - Autorisation de reproduction : cf. Remerciements p. 68.*
+*Pl. 17. - Schizachyrium brevifolium (Sw.) Büse : 1, aspect of the plant ; 2, 3, pairs of spikelets ; 4, upper lemma. - Schizachyrium maclaudii (Jacq.-Fél.) S.T. Blake : 5, aspect of the plant ; 6, 7, pairs of spikelets ; 8, upper lemma. - Reproduction authorization: cf. Acknowledgments p. 68.*
 
 ## Notes
 

@@ -7,6 +7,8 @@ family: Dichapetalaceae
 vol: 32
 pages: 185-188
 source: sources/Dichapetalaceae_vol32_paddle
+countries: [Angola, Cameroon, Democratic Republic of the Congo, Gabon, Nigeria]
+in_region: true
 tags: [species, generated]
 ---
 # *Dichapetalum umbellatum* Chodat
@@ -53,7 +55,7 @@ Breteler 6862, 60 km au S.S.O. de Moanda (bout. fl., Oct.); 6930 (fr., Nov.); 69
 
 ![Dichapetalum umbellatum](../sources/Dichapetalaceae_vol32_paddle/figures/fig_056_p0186.png)
 
-*PL. 55 – Dichapetalum umbellatum Chodat : 1, rameau fructifère × 0,5 ; 2, stipule, vue externe × 5 ; 3, inflorescence × 0,5 ; 4, fleur × 4 ; pétale, 5, vue interne et 6, vue externe × 10 ; 7, pistil × 10 ; 8, 9, staminodes, vue externe × 20 ; 10, fruit × 0,5 (1, 2, 10, Breteler 6930 ; 3, 9, Breteler 6933 ; 4-8, Le Testu 7714). – Repris de MLW 82 (8) : 68 (1982).*
+*PL. 55 – Dichapetalum umbellatum Chodat : 1, fruiting branch × 0,5 ; 2, stipule, external view × 5 ; 3, inflorescence × 0,5 ; 4, flower × 4 ; petal, 5, internal view and 6, external view × 10 ; 7, pistil × 10 ; 8, 9, staminodes, external view × 20 ; 10, fruit × 0,5 (1, 2, 10, Breteler 6930 ; 3, 9, Breteler 6933 ; 4-8, Le Testu 7714). – Taken from MLW 82 (8) : 68 (1982).*
 
 ## Notes
 

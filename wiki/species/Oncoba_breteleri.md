@@ -7,6 +7,9 @@ family: Flacourtiaceae
 vol: 34
 pages: 58-59
 source: sources/Flacourtiaceae_vol34_paddle
+countries: [Gabon]
+in_region: true
+habit: "shrub"
 tags: [species, generated]
 ---
 # *Oncoba breteleri* Hul, sp. nov.
@@ -52,7 +55,7 @@ Wieringa & Haegens 2535, Ogooué-Maritime, Gamba, env. 4 km E de l'aéroport, 2�
 
 ![Oncoba breteleri](../sources/Flacourtiaceae_vol34_paddle/figures/fig_017_p0060.png)
 
-*PL. 17. – Oncoba breteleri Hul : 1, rameau, portant des fleurs et de très jeunes fruits ; 2, fleur ; 3, sépale ; 4, pétale ; 5, étanine externe ; 6, étanine interne ; 7, pistil ; 8, coupe transversale de l'ovaire ; 9, fruits ; 10, graine. (1-8 et 10. Wieringa 2535 ; 9. Wieringa & al. 2927).*
+*PL. 17. – Oncoba breteleri Hul : 1, branch, bearing flowers and very young fruits ; 2, flower ; 3, sepal ; 4, petal ; 5, external stamen ; 6, internal stamen ; 7, pistil ; 8, transverse section of the ovary ; 9, fruits ; 10, seed. (1-8 and 10. Wieringa 2535 ; 9. Wieringa & al. 2927).*
 
 ## Notes
 

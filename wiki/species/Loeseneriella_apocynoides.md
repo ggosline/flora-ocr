@@ -7,6 +7,9 @@ family: Celastraceae
 vol: 29
 pages: 249-253
 source: sources/Celastraceae_vol29_paddle
+countries: [Angola, Cameroon, Central African Republic, Cote d'Ivoire, Gabon, Liberia, Sierra Leone]
+in_region: true
+habitat: [riverine, rocky ground]
 tags: [species, generated]
 ---
 # *Loeseneriella apocynoides* (Welwitsch ex Oliver)

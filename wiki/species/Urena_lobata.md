@@ -7,6 +7,10 @@ family: Malvaceae
 vol: 45
 pages: 91-93
 source: sources/Malvaceae_vol45_liteparse
+countries: [Gabon]
+in_region: true
+habit: "herb"
+altitude_m: "0–2500"
 tags: [species, generated]
 ---
 # *Urena lobata* L. var. lobata Planche 28
@@ -17,21 +21,15 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Herbe robuste de 0,5 ‒ 3 m de hauteur en culture, jusqu’à 5 m de hauteur et peu ramifiée ; tige glabrescente ou densément étoilé-tomenteuse. Stipules linéaires, 3 ‒ 4 mm, laineuses. Feuille : pétiole 1 ‒ 5( ‒ 11) cm ; limbe suborbiculaire ou obovale à étroitement ovale, de presque entier à denté jusqu’à 3 ‒ 5-partite , 3,5 ‒ 10 cm de diamètre, légèrement cordé à la base, tomenteux à poils étoilés, blanchâtre dessous ; nervures principales en général 3 , nectaire à la base de la nervure médiane, 2 ‒ 3 mm de longueur. Fleur solitaire, axillaire ou en fascicules ; pédicelle 3 ‒ 8 mm ; calicule 6 ‒ 8 mm de longueur, campanulé, nettement 5-lobé à lobes linéaires, étoilé-poilu ; calice 5 ‒ 6 mm de longueur ; pétales 20 × 10 mm, roses, violets ou pourpres ; tube staminal légèrement plus court que la corolle, environ 18 mm de longueur. Fruit 8 ‒ 10 mm de diamètre, méricarpes 4 ‒ 7 × 3 ‒ 4 mm. Graines ± trigones, 3 mm de longueur, à surface légèrement rugueuse, brunâtres ; hile gris blanchâtre ; chalaze blanche avec centre noir .
+Robust herb 0.5–3 m tall in cultivation, up to 5 m tall and sparsely branched; stem glabrescenct or densely stellate-tomentose. Stipules linear, 3–4 mm, woolly. Leaf: petiole 1–5(–11) cm; blade suborbicular or obovate to narrowly ovate, from almost entire to dentate to 3–5-partite, 3.5–10 cm in diameter, slightly cordate at base, tomentose with stellate hairs, whitish beneath; principal veins usually 3, nectary at base of midvein, 2–3 mm long. Flower solitary, axillary or in fascicles; pedicel 3–8 mm; epicalyx 6–8 mm long, campanulate, distinctly 5-lobed with linear lobes, stellate-pilose; calyx 5–6 mm long; petals 20 × 10 mm, pink, violet or purple; staminal tube slightly shorter than corolla, approximately 18 mm long. Fruit 8–10 mm in diameter, mericarps 4–7 × 3–4 mm. Seeds ± trigonous, 3 mm long, surface slightly wrinkled, brownish; hilum greyish white; chalaza white with dark centre.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-espèce des régions tropicales et subtropicales ; au Gabon, commune et présente dans toutes les provinces
+Species of tropical and subtropical regions; in Gabon, common and present in all provinces.
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-espèce anthropophile, sur sols humides, en jachères, parfois en savanes ; à 0 ‒ 2500 m d’altitude. Fleurs et fruits toute l’année ; les fleurs s’ouvrent seulement le matin. Usage : La plante est parfois en culture pour la fibre des tiges, qui sont utilisées pour amarrer les feuilles sur les toitures. Les fleurs mucilagineuses ont des vertus pectorales et les feuilles et les racines émollientes sont utilisées en bains ou cataplasmes. L’écorce ou les racines macérées sont utilisées contre la diarrhée
+Anthropophilous species, on humid soils, in fallows, sometimes in savannas; 0–2500 m altitude. Flowers and fruits year-round; flowers open only in the morning. Uses: The plant is sometimes cultivated for the fiber of the stems, which are used to tie leaves on roofs. The mucilaginous flowers have pectoral properties and the leaves and softening roots are used in baths or poultices. The bark or macerated roots are used against diarrhea.
 
 ## Vernacular names
 
@@ -39,9 +37,7 @@ jute de Madagascar, paka (en culture) (fr.) ; aramina, Congo jute, urena (angl.)
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-, Berhaut (1979), Escobin & Widodo (2003), i B liographie Exell & Meeuse (1961), Hauman (1963), Raponda-Walker & Sillans (1961), Verdcourt (2009).
+Berhaut (1979), Escobin & Widodo (2003), Bibliography Exell & Meeuse (1961), Hauman (1963), Raponda-Walker & Sillans (1961), Verdcourt (2009).
 
 ## Notes
 

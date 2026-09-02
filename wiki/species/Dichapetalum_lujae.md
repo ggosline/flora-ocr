@@ -7,6 +7,10 @@ family: Dichapetalaceae
 vol: 32
 pages: 121-125
 source: sources/Dichapetalaceae_vol32_paddle
+countries: [Cameroon, Democratic Republic of the Congo, Gabon]
+in_region: true
+habit: "liana"
+habitat: [riverine]
 tags: [species, generated]
 ---
 # *Dichapetalum lujae* De Wildeman & Th. Durand
@@ -107,7 +111,7 @@ Louis & al. 1144, 35 km au S.E. de Ndendé (bout. fl., Déc.); 1157 (bout.fl., f
 
 ![Dichapetalum lujae](../sources/Dichapetalaceae_vol32_paddle/figures/fig_034_p0124.png)
 
-*PL. 33. – Dichapetalum lujae De Wildemann & Th. Durand var. lujae : 1, rameau florifère × 0,8 : 2, fleur × 5 ; 3, fleur, détail × 5 ; 4, pistil × 5 ; 5, fruit 2-sperme × 0,8 ; 6, fruit 1-sperme × 0,8 (1-5, Descoings 5525 ; 6, Gossweiler 13956). – D. lujae var. gillardini (Hauman) Breteler (7, Vanderyst 9524). – Repris de MLW 79 (16) : (1979). – D. lujae var. letestui (Pellegrin) Breteler : 8, fleur, détail × 5 (8, Le Testu 2004). – Repris de MLW 79 (16) : 69 (1979).*
+*PL. 33. – Dichapetalum lujae De Wildemann & Th. Durand var. lujae : 1, flowering branch × 0,8 : 2, flower × 5 ; 3, flower, detail × 5 ; 4, pistil × 5 ; 5, fruit 2-seeded × 0,8 ; 6, fruit 1-seeded × 0,8 (1-5, Descoings 5525 ; 6, Gossweiler 13956). – D. lujae var. gillardini (Hauman) Breteler (7, Vanderyst 9524). – Reprinted from MLW 79 (16) : (1979). – D. lujae var. letestui (Pellegrin) Breteler : 8, flower, detail × 5 (8, Le Testu 2004). – Reprinted from MLW 79 (16) : 69 (1979).*
 
 ## Notes
 

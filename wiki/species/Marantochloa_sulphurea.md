@@ -7,6 +7,7 @@ family: Marantaceae
 vol: 09
 pages: 121-122
 source: sources/Marantaceae_vol09_paddle
+habit: "herb"
 tags: [species, generated]
 ---
 # *Marantochloa sulphurea* (Bak.) J. Koech. comb. nov.

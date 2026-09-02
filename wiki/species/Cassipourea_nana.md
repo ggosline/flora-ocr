@@ -7,6 +7,11 @@ family: Rhizophoraceae
 vol: 47
 pages: 101-103
 source: sources/Rhizophoraceae_vol47_liteparse
+countries: [Gabon]
+in_region: true
+habit: "herb"
+habitat: [primary forest]
+altitude_m: "200"
 tags: [species, generated]
 ---
 # *Cassipourea nana* Breteler Planche 30.3, 33

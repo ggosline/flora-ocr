@@ -7,6 +7,9 @@ family: Apocynaceae
 vol: 59
 pages: 99-99
 source: sources/Apocynaceae_vol59_liteparse
+habit: "tree"
+habitat: [evergreen forest, rocky ground]
+altitude_m: "34–327"
 tags: [species, generated]
 ---
 # *Hunteria maasiorum* Jongkind & E.Bidault Planche 40

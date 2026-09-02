@@ -7,6 +7,12 @@ family: Scrophulariaceae
 vol: 48
 pages: 121-123
 source: sources/Scrophulariaceae_vol48_liteparse
+countries: [Burundi, Chad, Democratic Republic of the Congo, Gabon, Ghana, Kenya, Madagascar, Malawi, Mali, Mozambique, Nigeria, Rwanda, Senegal, Sudan, Tanzania, Uganda, Zambia, Zimbabwe]
+in_region: true
+subdivisions:
+  Gabon: [Ogooué-Ivindo]
+habit: "herb"
+altitude_m: "2000"
 tags: [species, generated]
 ---
 # *Lindernia parviflora* (Roxb.) Haines Planche 37

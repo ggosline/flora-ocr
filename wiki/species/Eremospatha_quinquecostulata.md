@@ -7,6 +7,12 @@ family: Arecaceae
 vol: 53
 pages: 27-29
 source: sources/Arecaceae_vol53_liteparse
+countries: [Cameroon, Gabon, Nigeria]
+in_region: true
+subdivisions:
+  Gabon: [Estuaire, Ogooué-Lolo]
+habit: "liana"
+altitude_m: "500"
 tags: [species, generated]
 ---
 # *Eremospatha quinquecostulata* Beccari Figure 2H

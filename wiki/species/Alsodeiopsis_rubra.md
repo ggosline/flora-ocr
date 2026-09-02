@@ -7,6 +7,9 @@ family: Icacinaceae
 vol: 20
 pages: 21-22
 source: sources/Icacinaceae_vol20_paddle
+countries: [Cameroon, Equatorial Guinea, Gabon]
+in_region: true
+habit: "shrub"
 tags: [species, generated]
 ---
 # *Alsodeiopsis rubra* Engler
@@ -39,7 +42,7 @@ De Wilde W. 1271, 50 km NW Ešeka, rive de la Kèle (fl., fr., nov.). Zenker s.n
 
 ![Alsodeiopsis rubra](../sources/Icacinaceae_vol20_paddle/figures/fig_005_p0023.png)
 
-*PL. 5. — Alsodeiopsis rubra Engl.: 1, feuilles et inflorescence × 0,7. — A. weissenborniana Braun & K. Schum.: 2, feuilles et inflorescences × 1; 3, détail de la face sup. du limbe × 10; 4, détail de la face inf. du limbe × 10; 5, sommet du limbe × 1,5; 6, bouton floral × 4; 7, pétale × 2,15: 8, étamine × 9; 9, fruit × 1,4. (1, Zenker 2231; 2-9, Hallé N. 2276).*
+*PL. 5. — Alsodeiopsis rubra Engl.: 1, leaves and inflorescence × 0,7. — A. weissenborniana Braun & K. Schum.: 2, leaves and inflorescences × 1; 3, detail of upper surface of limb × 10; 4, detail of lower surface of limb × 10; 5, apex of limb × 1,5; 6, floral bud × 4; 7, petal × 2,15: 8, stamen × 9; 9, fruit × 1,4. (1, Zenker 2231; 2-9, Hallé N. 2276).*
 
 ## Notes
 

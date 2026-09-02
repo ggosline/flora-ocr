@@ -7,6 +7,13 @@ family: Phyllanthaceae
 vol: 43
 pages: 28-30
 source: sources/Phyllanthaceae_vol43_liteparse
+countries: [Gabon]
+in_region: true
+subdivisions:
+  Gabon: [Estuaire, Ngounié, Ogooué-Lolo, Ogooué-Maritime, Woleu-Ntem]
+habit: "tree"
+habitat: [secondary forest]
+altitude_m: "0–600"
 tags: [species, generated]
 ---
 # *Cleistanthus gabonensis* Hutch. Planche 7

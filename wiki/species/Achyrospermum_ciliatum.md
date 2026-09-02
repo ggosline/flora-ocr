@@ -6,6 +6,12 @@ genus: Achyrospermum
 vol: 58
 pages: 14-14
 source: sources/Labiataeulmaceaeverbenaceae_vol58_liteparse
+countries: [Cameroon, Democratic Republic of the Congo, Gabon, Republic of the Congo]
+in_region: true
+subdivisions:
+  Gabon: [Moyen-Ogooué, Ogooué-Ivindo, Ogooué-Lolo, Ogooué-Maritime, Woleu-Ntem]
+habit: "herb"
+altitude_m: "900"
 tags: [species, generated]
 ---
 # *Achyrospermum ciliatum* Gürke

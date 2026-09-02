@@ -7,6 +7,8 @@ family: Acanthaceae
 vol: 13
 pages: 223-226
 source: sources/Acanthaceae_vol13_paddle
+countries: [Cameroon, Central African Republic, Equatorial Guinea, Gabon, Nigeria, Republic of the Congo]
+in_region: true
 tags: [species, generated]
 ---
 # *Justicia laxa* T. Anders.

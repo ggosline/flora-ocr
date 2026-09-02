@@ -7,6 +7,9 @@ family: Rubiaceae
 vol: 17
 pages: 8-23
 source: sources/Rubiaceae_vol17_paddle
+countries: [Cameroon, Gabon, Guinea, Nigeria]
+in_region: true
+habit: "herb"
 tags: [species, generated]
 ---
 # *Argostemma africanum* K. Schum.

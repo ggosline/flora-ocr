@@ -7,6 +7,10 @@ family: Commelinaceae
 vol: 55
 pages: 85-87
 source: sources/Commelinaceae_vol55_liteparse
+countries: [Cameroon, Cote d'Ivoire, Democratic Republic of the Congo, Gabon, Republic of the Congo, Sudan, Uganda]
+in_region: true
+habit: "herb"
+altitude_m: "700"
 tags: [species, generated]
 ---
 # *Polyspatha oligospatha* Faden Planche 26, Figure 6(F)

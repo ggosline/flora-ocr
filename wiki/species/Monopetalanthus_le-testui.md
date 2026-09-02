@@ -7,6 +7,9 @@ family: Leguminosae
 vol: 15
 pages: 315-317
 source: sources/Leguminosae_vol15_paddle
+countries: [Cameroon, Gabon, Guinea]
+in_region: true
+habit: "tree"
 tags: [species, generated]
 ---
 # *Monopetalanthus le-* Testui Pellegrin
@@ -49,7 +52,7 @@ Estasse : 571, Mondah. Gauchotte : 1768, Ikoy. Le Testu : 9090, Amvéné, Woleu-
 
 ![Monopetalanthus le-](../sources/Leguminosae_vol15_paddle/figures/fig_080_p0316.png)
 
-*PL. LXXX, — Monopetalanthus Pellegrini Chevalier : 1, feuille et inflorescence × 1; 2, détail d'une foliole; 3, fleur × 4; 4, pétale × 4; 5, étamines × 4; 6, ovaire × 4. — Monopetalanthus Le-Testui Pellegrin : 7, feuille et inflorescence; 8, détail d'une foliole; 9, fleur × 6; 10, pétale × 6; 11, sépale × 6, 12, ovaire × 6; 13, fruit × 1.*
+*PL. LXXX, — Monopetalanthus Pellegrini Chevalier : 1, leaf and inflorescence × 1; 2, detail of a leaflet; 3, flower × 4; 4, petal × 4; 5, stamens × 4; 6, ovary × 4. — Monopetalanthus Le-Testui Pellegrin : 7, leaf and inflorescence; 8, detail of a leaflet; 9, flower × 6; 10, petal × 6; 11, sepal × 6, 12, ovary × 6; 13, fruit × 1.*
 
 ## Notes
 

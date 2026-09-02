@@ -11,15 +11,15 @@ synonyms:
   - name: Curculigo gallabatensis
     authority: Schweinf. ex Baker
     citation: Trans. Linn. Soc. London, ser. 2, 1: 266 (1878)
-countries: [Gabon, Ghana]
-in_region: true
-habit: herb
 treatments:
   - vol: 28
     pages: "50–52"
     source: sources/Hypoxidaceae_vol28_paddle
+countries: [Gabon, Ghana]
+in_region: true
+subdivisions:
+  Gabon: [Nyanga]
 tags: [species]
-countries_incomplete: true
 ---
 
 # *Curculigo pilosa* (Schumacher & Thonning) Engler

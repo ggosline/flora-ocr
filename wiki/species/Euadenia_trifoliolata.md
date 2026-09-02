@@ -7,6 +7,9 @@ family: Brassicaceae
 vol: 30
 pages: 39-42
 source: sources/Capparidaceae_vol30_paddle
+countries: [Benin, Cameroon, Gabon, Guinea, Nigeria, Togo]
+in_region: true
+habitat: [rocky ground]
 tags: [species, generated]
 ---
 # *Euadenia trifoliolata* (Vahl ex Thonner) Oliver

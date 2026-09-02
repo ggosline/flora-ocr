@@ -7,6 +7,9 @@ family: Rubiaceae
 vol: 17
 pages: 42-44
 source: sources/Rubiaceae_vol17_paddle
+countries: [Cameroon, Central African Republic, Gabon]
+in_region: true
+habit: "shrub"
 tags: [species, generated]
 ---
 # *Bertiera ethiopica* Hiern (P.L. 8, p. 41)
@@ -46,7 +49,7 @@ Thollon 342, Ndjolé (fl. Dec.).
 
 ![Bertiera ethiopica](../sources/Rubiaceae_vol17_paddle/figures/fig_008_p0043.png)
 
-*PL. 8. — Bertiera aethiopica Hiern (1-5, N. Hallé 2728; 6-7, N.H. 2831); 1, inflorescence avec des fruits immatures × 0,75; 2, fleur × 5; 3, calice et gynécée en coupe; 4 et 4¹, étamine; 5, style; 6, fruit à sec × 2; 7, graine × 15. — B. bracteolata Hiern (10-13, Klaine 2546; 9, 14, 15, Soyaux 75); 8, jeune infrutescence × 0,75 N. H. 4900); 9, nœud et stipule; 10, fleur × 5; 11, calice, gynécée en coupe et style; 12, 12¹, étamine; 13, disque; 14, fruit à sec × 2; 15, graine × 15.*
+*PL. 8. — Bertiera aethiopica Hiern (1-5, N. Hallé 2728; 6-7, N.H. 2831); 1, inflorescence with immature fruits × 0.75; 2, flower × 5; 3, calyx and gynoecium in section; 4 and 4¹, stamen; 5, style; 6, dry fruit × 2; 7, seed × 15. — B. bracteolata Hiern (10-13, Klaine 2546; 9, 14, 15, Soyaux 75); 8, young infructescence × 0.75 N. H. 4900); 9, node and stipule; 10, flower × 5; 11, calyx, gynoecium in section and style; 12, 12¹, stamen; 13, disk; 14, dry fruit × 2; 15, seed × 15.*
 
 ## Notes
 

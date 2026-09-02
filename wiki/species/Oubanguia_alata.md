@@ -7,6 +7,9 @@ family: Scytopetalaceae
 vol: 24
 pages: 158-161
 source: sources/Scytopetalaceae_vol24_paddle
+countries: [Cameroon, Gabon, Nigeria]
+in_region: true
+habit: "tree"
 tags: [species, generated]
 ---
 # *Oubanguia alata* Baker fil.
@@ -53,7 +56,7 @@ Bernard & Corbet 1056 SRF, Ezanga, 30 km S Lambaréné (stér., mars). Bernard &
 
 ![Oubanguia alata](../sources/Scytopetalaceae_vol24_paddle/figures/fig_044_p0159.png)
 
-*PL. 44. — Oubanguia laurifolia (Pierre ex De Wild.) V. Tiegh. : 1, rameau feuille × 4/9; 2, capsule × 1; 3, bouton floral × 6. — Oubanguia alata Bak. f.; 4, rameau avec fleurs × 4/9; 5, capsule × 2/3; 6, détail rameau × 2; 7, détail rameau × 2/3; 8, autre forme de rameau et de feuille × 4/9. (1, Klaine 2042; 2, croquis Pierre et Klaine 2042; 3, Klaine 404; 4, Onochie FHI 34801, Nigeria; 5, Nigerian Trees; 6, Letouzey 14630; 7, Letouzey 15042; 8, Letouzey 12545).*
+*PL. 44. — Oubanguia laurifolia (Pierre ex De Wild.) V. Tiegh. : 1, leafy branch × 4/9; 2, capsule × 1; 3, floral bud × 6. — Oubanguia alata Bak. f.; 4, branch with flowers × 4/9; 5, capsule × 2/3; 6, branch detail × 2; 7, branch detail × 2/3; 8, another form of branch and leaf × 4/9. (1, Klaine 2042; 2, sketch Pierre and Klaine 2042; 3, Klaine 404; 4, Onochie FHI 34801, Nigeria; 5, Nigerian Trees; 6, Letouzey 14630; 7, Letouzey 15042; 8, Letouzey 12545).*
 
 ## Notes
 

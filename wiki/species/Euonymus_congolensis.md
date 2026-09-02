@@ -7,6 +7,9 @@ family: Celastraceae
 vol: 22
 pages: 7-8
 source: sources/Celastraceae_vol22_paddle
+countries: [Democratic Republic of the Congo, Gabon]
+in_region: true
+habit: "liana"
 tags: [species, generated]
 ---
 # *Euonymus congolensis* R. Wilczek
@@ -39,7 +42,7 @@ Le Testu 7094, Lastourville (fl., fr., mars). Thollon 805, Ogooué (fl., fr., ju
 
 ![Euonymus congolensis](../sources/Celastraceae_vol22_paddle/figures/fig_001_p0009.png)
 
-*PL. 1. — Euonymus congolensis R. Wilczek : 1, feuilles et inflorescence × 2/3; 2, détail d'un nœud × 3; 3, coupe transv. d'un rameau × 3; 4, détail de la nervation × 3; 5, fleur × 5,5; 6, coupe long. de la fleur × 6,5; 7, diagramme floral; 8, pétale × 8; 9, fleur après l'anthèse × 6,5; 10, anthère × 15; 11, fruit × 2,5; 12, graine × 7 (1-12, Le Testu 7094).*
+*PL. 1. — Euonymus congolensis R. Wilczek : 1, leaves and inflorescence × 2/3; 2, detail of a node × 3; 3, transverse section of a branch × 3; 4, detail of venation × 3; 5, flower × 5,5; 6, longitudinal section of the flower × 6,5; 7, floral diagram; 8, petal × 8; 9, flower after anthesis × 6,5; 10, anther × 15; 11, fruit × 2,5; 12, seed × 7 (1-12, Le Testu 7094).*
 
 ## Notes
 

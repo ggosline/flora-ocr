@@ -7,6 +7,12 @@ family: Cyperaceae
 vol: 44
 pages: 146-146
 source: sources/Cyperaceae_vol44_liteparse
+countries: [Democratic Republic of the Congo, Gabon, Uganda]
+in_region: true
+subdivisions:
+  Gabon: [Haut-Ogooué, Ngounié]
+habit: "herb"
+altitude_m: "500"
 tags: [species, generated]
 ---
 # *Fimbristylis gabonica* Cherm. Planche 94

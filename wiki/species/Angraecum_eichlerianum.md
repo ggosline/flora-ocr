@@ -7,6 +7,9 @@ family: Orchidaceae
 vol: 37
 pages: 241-245
 source: sources/Orchidaceae_vol37_paddle
+countries: [Cameroon, Gabon]
+in_region: true
+habitat: [riverine]
 tags: [species, generated]
 ---
 # *Angraecum eichlerianum* Kraenzl.

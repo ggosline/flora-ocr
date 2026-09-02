@@ -7,6 +7,12 @@ family: Leguminosae
 vol: 49
 pages: 84-86
 source: sources/Millettiaspeciesfabaceae_vol49_liteparse
+countries: [Gabon]
+in_region: true
+subdivisions:
+  Gabon: [Ogooué-Ivindo]
+habit: "herb"
+altitude_m: "200"
 tags: [species, generated]
 ---
 # *Clitoria falcata* Lam. Planche 25.1–3

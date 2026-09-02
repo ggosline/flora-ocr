@@ -7,6 +7,13 @@ family: Meliaceae
 vol: 47
 pages: 27-29
 source: sources/Meliaceae_vol47_liteparse
+countries: [Angola, Cameroon, Cote d'Ivoire, Democratic Republic of the Congo, Equatorial Guinea, Gabon, Ghana, Guinea, Liberia, Nigeria, Republic of the Congo]
+in_region: true
+subdivisions:
+  Gabon: [Ogooué-Ivindo, Ogooué-Lolo, Woleu-Ntem]
+habit: "tree"
+habitat: [evergreen forest]
+altitude_m: "500"
 tags: [species, generated]
 ---
 # *Entandrophragma candollei* Harms. Planches 3(G–I), 6(D, E), 7(G, H)

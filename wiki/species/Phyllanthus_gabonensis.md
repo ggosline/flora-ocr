@@ -7,6 +7,12 @@ family: Phyllanthaceae
 vol: 43
 pages: 64-64
 source: sources/Phyllanthaceae_vol43_liteparse
+countries: [Equatorial Guinea, Gabon]
+in_region: true
+subdivisions:
+  Gabon: [Estuaire, Nyanga]
+habit: "herb"
+altitude_m: "0–5"
 tags: [species, generated]
 ---
 # *Phyllanthus gabonensis* Jean F.Brunel Planche 20

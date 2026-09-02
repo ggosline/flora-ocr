@@ -7,6 +7,10 @@ family: Leguminosae
 vol: 15
 pages: 160-161
 source: sources/Leguminosae_vol15_paddle
+countries: [Cameroon, Gabon]
+in_region: true
+habit: "tree"
+habitat: [primary forest]
 tags: [species, generated]
 ---
 # *Tessmannia africana* Harms
@@ -51,7 +55,7 @@ Le Testu : 6312, Dicouca (fl. oct.); 7476, Tsanda (fl. oct.); 9391, Ebé (fl. no
 
 ![Tessmannia africana](../sources/Leguminosae_vol15_paddle/figures/fig_036_p0162.png)
 
-*PL. XXXVI. — Tessmannia africana Harms : 1, rameau florifère × 2 /3; 2, détail de nervation; 3, fleur × 2; 4, verrucosite des sépales; 5, fleur développée, ovaire enlevé × 3; 6, fruit × 2 /3. — Tessmannia Lescrauwaetii (De Wild.) Harms : 7, feuille × 2 /3; 8, détail de nervation; 9, verrucosité des sépales.*
+*PL. XXXVI. — Tessmannia africana Harms : 1, flowering branch × 2 /3; 2, detail of venation; 3, flower × 2; 4, verrucosity of the sepals; 5, developed flower, ovary removed × 3; 6, fruit × 2 /3. — Tessmannia Lescrauwaetii (De Wild.) Harms : 7, leaf × 2 /3; 8, detail of venation; 9, verrucosity of the sepals.*
 
 ## Notes
 

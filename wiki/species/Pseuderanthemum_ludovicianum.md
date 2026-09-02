@@ -7,6 +7,9 @@ family: Acanthaceae
 vol: 13
 pages: 172-174
 source: sources/Acanthaceae_vol13_paddle
+countries: [Angola, Kenya, Liberia]
+in_region: true
+habit: "shrub"
 tags: [species, generated]
 ---
 # *Pseuderanthemum ludovicianum* (Büttn.) Lindau

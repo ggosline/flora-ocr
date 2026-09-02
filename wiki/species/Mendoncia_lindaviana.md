@@ -7,6 +7,8 @@ family: Acanthaceae
 vol: 13
 pages: 70-72
 source: sources/Acanthaceae_vol13_paddle
+countries: [Cameroon, Gabon, Republic of the Congo]
+in_region: true
 tags: [species, generated]
 ---
 # *Mendoncia lindaviana* (Gilg) R. Benoist

@@ -7,6 +7,9 @@ family: Begoniaceae
 vol: 39
 pages: 23-23
 source: sources/Begoniaceae_vol39_liteparse
+countries: [Gabon]
+in_region: true
+altitude_m: "150–760"
 tags: [species, generated]
 ---
 # *Begonia atroglandulosa* Sosef subsp. atroglandulosa Planche 6

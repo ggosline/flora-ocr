@@ -7,6 +7,7 @@ family: Melastomataceae
 vol: 25
 pages: 122-124
 source: sources/Melastomataceae_vol25_paddle
+habit: "tree"
 tags: [species, generated]
 ---
 # *Memecylon germainii* A. & R. Fernandes
@@ -39,7 +40,7 @@ Le Testu 9599, Bilo (juin); 9633, Evorombil (juil.).
 
 ![Memecylon germainii](../sources/Melastomataceae_vol25_paddle/figures/fig_043_p0123.png)
 
-*PL. 43. — Memecylon germainii A. & R. Fernandes : 1 & 2, rameau feuillé et nœuds défeuillés florifères × 2/3; 3, bouton floral × 6; 4, pétale × 12; 5, étanines, face et profil × 12; 6, coupe de la fleur × 12; 7 fruit × 2 (Breteler 1623).*
+*PL. 43. — Memecylon germainii A. & R. Fernandes : 1 & 2, leafy branch and defoliated flowering nodes × 2/3; 3, floral bud × 6; 4, petal × 12; 5, stamens, face and profile × 12; 6, flower section × 12; 7 fruit × 2 (Breteler 1623).*
 
 ## Notes
 

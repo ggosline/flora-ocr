@@ -7,6 +7,9 @@ family: Lomariopsidaceae
 vol: 08
 pages: 188-188
 source: sources/Lomariopsidaceae_vol08_paddle
+countries: [Cameroon, Nigeria]
+in_region: true
+habitat: [evergreen forest]
 tags: [species, generated]
 ---
 # *Lomariopsis rossii* Holttum (P.l. XXIX)

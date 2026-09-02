@@ -7,6 +7,10 @@ family: Burmanniaceae
 vol: 41
 pages: 22-24
 source: sources/Burmanniaceae_vol41_liteparse
+countries: [Angola, Cameroon, Democratic Republic of the Congo, Gabon, Ghana, Liberia, Nigeria]
+in_region: true
+habit: "herb"
+altitude_m: "460"
 tags: [species, generated]
 ---
 # *Campylosiphon congestus* (C.H.Wright) Merckx ex Maas Planche 3

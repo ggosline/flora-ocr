@@ -53,14 +53,15 @@ synonyms:
   - name: H. radcliffei
     authority: Rendle
     citation: Journ. Linn. Soc. 37: 223 (1905)
-countries: [Gabon, Angola, Congo, Democratic Republic of the Congo, Cameroon, Uganda, Sierra Leone]
-in_region: true
-habitat: [humid forest, riverine vegetation, semi-deciduous forest, primary forest, secondary and degraded vegetation]
-altitude_m: "below 700, up to 1300 on Mount Cameroon"
 treatments:
   - vol: 28
     pages: "25–28"
     source: sources/Amaryllidaceae_vol28_paddle
+countries: [Angola, Gabon, Sierra Leone, Uganda]
+in_region: true
+subdivisions:
+  Gabon: [Ngounié, Nyanga]
+habit: "herb"
 tags: [species]
 ---
 

@@ -7,6 +7,13 @@ family: Meliaceae
 vol: 47
 pages: 41-43
 source: sources/Meliaceae_vol47_liteparse
+countries: [Cameroon, Cote d'Ivoire, Equatorial Guinea, Gabon, Ghana, Nigeria]
+in_region: true
+subdivisions:
+  Gabon: [Estuaire, Ngounié, Ogooué-Ivindo, Ogooué-Lolo, Woleu-Ntem]
+habit: "tree"
+habitat: [secondary forest]
+altitude_m: "500"
 tags: [species, generated]
 ---
 # *Khaya ivorensis* A.Chev. Planche 10F

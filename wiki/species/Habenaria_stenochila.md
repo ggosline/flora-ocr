@@ -7,6 +7,9 @@ family: Orchidaceae
 vol: 36
 pages: 39-40
 source: sources/Orchidaceae_vol36_paddle
+countries: [Cameroon, Central African Republic, Sao Tome and Principe]
+in_region: true
+habitat: [mangrove, riverine]
 tags: [species, generated]
 ---
 # *Habenaria stenochila* Lindl.
@@ -37,7 +40,7 @@ Reitsma J. M. & B. 2739, 6 km NE of Malibé, 0°35' N, 9°26' E (fl., Dec.), WAG
 
 ![Habenaria stenochila](../sources/Orchidaceae_vol36_paddle/figures/fig_013_p0040.png)
 
-*PL. 13. – Habenaria stenochila Lindl.: A, éperon, ovaire, pédicelle et bractée ; B, labelle ; C, sépale latéral ; D, pétale ; E, sépale dorsal ; F, gynostème, vue latérale ; G, gynostème étalé, vue antérieure (A-G, Tisserant 1972, P).*
+*PL. 13. – Habenaria stenochila Lindl.: A, spur, ovary, pedicel and bract; B, labellum; C, lateral sepal; D, petal; E, dorsal sepal; F, gynostemium, lateral view; G, gynostemium spread, anterior view (A-G, Tisserant 1972, P).*
 
 ## Notes
 

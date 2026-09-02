@@ -7,6 +7,10 @@ family: Annonaceae
 vol: 16
 pages: 0-0
 source: sources/Annonaceae_vol16_mineru
+countries: [Cameroon, Democratic Republic of the Congo, Gabon, Sierra Leone]
+in_region: true
+habit: "liana"
+habitat: [secondary forest]
 tags: [species, generated]
 ---
 # *Uvaria comperei* Le Thomas
@@ -21,15 +25,13 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+pro parte, non Engler et Diels, Notizbl. Bot. Gart. Berlin 2: 296 (1899).
 
-pro parte,non Engler et Diels,Notizbl.Bot.Gart.Berlin 2 : 296 (1899).
+Liana with blackish bark; branches glabrous, branchlets tomentellose to puberulent. Leaves with petiole 4–6 mm long, tomentellose; blade papyraceous, oblong, 6–17 cm long, 3–6.5 cm wide, rounded at the base, obtuse to attenuate-acuminate at the apex; upper surface sparsely puberulent with simple and stellate hairs on young leaves and on the nerves of adult leaves, lower surface puberulent with very fine, short, simple or stellate hairs. Lateral nerves 9–13 pairs, oblique, united in arches near the margin, prominent beneath.
 
-Liane á écorce noiratre;rameaux glabres,ramilles tomentelleuses a pubérulentes.Feuilles a pétiole long de 4-6 mm,tomentelleux;limbe papyracé,oblong,long de 6-17 cm,large de 3- 6,5 cm,arrondi a la base obtus a atténue-acuminé au sommet; face supérieure éparsement pubérulente â poils simples et étoilés sur les feuilles jeunes et sur les nervures des feuilles adultes, face inférieure pubérulente ä poils tres fins,courts,simples ou étoilés. Nervures latérales 9-13 paires,obliques, réunies en arceaux pres de la marge,saillantes en dessous.
+Flowers yellowish, solitary, extra-axillary, with pedicel 0.6–1.1 cm long. Bud globose with distinct sepals. Sepals small, broadly ovate, 2–3 mm long, 3–4 mm wide, connate at the base, reddish-tomentose on the outside. Petals subequal, ovate-oblong, 0.7–1.4 cm long, 6–10 mm wide, obtuse at the apex, tomentellose on the outside, the outer ones with margins often revolute, the inner ones very shortly unguiculate. Stamens very numerous, oblong, approximately 1.5 mm long, with lateral thecae, connectives flattened-dilated above the anthers, puberulent. Carpels numerous, closely packed against each other, approximately 3.5 mm long, ovaries ovoid-oblong, pubescent, stigmas hirsute. 14–16 ovules in two series.
 
-Fleurs jaunatres, solitaires, extra-axillaires, a pedicelle long de o,6-1,1 cm. Bouton globuleux a sépales distincts. Sépales petits, largement ovés,longs de 2-3 mm, larges de 3-4 mm,soudés â la base, tomenteux roux á l'extérieur.Pétales subégaux,ovesoblongs,longs de o,7-1,4 cm,larges de 6-1o mm, obtus au sommet, tomentelleux á l'extérieur, les externes ä marges souvent révolutées,les internes tres courtement onguiculés.Etamines tres nombreuses,oblongues,longues de 1,5 mm environ,a theques latérales,connectifs élargis-aplatis au-dessus des antheres,pubé- rulents. Carpelles nombreux, serrés les uns contre les autres, longs de 3,5 mm environ,ovaires ovoides-oblongs,pubescents, .stigmates hirsutes. 14-16 ovules biséries.
-
-Fruits á pédicelle long de 1,1-1,6 cm, pubérulent;méricarpes nombreux (3o-4o),courtement ellipsoides, lisses, vert jaune sur le frais,brun noiratre sur le sec et légerement contractés entre les graines,apiculés au sommet,pubérulents â glabrescents, longs de 1-1,5 cm, larges de o,7-o,9 cm; stipe latéral, gréle, long de 1,7-2,2 cm.Graines Io-14, bisériees,ellipsoides-aplaties, longues de 7-8 mm,larges de 4-4,5 mm,a testa brun mat, finement alveolé.
+Fruits with pedicel 1.1–1.6 cm long, puberulent; mericarps numerous (30–40), shortly ellipsoid, smooth, yellow-green when fresh, dark brown when dry and slightly constricted between the seeds, apiculate at the apex, puberulent to glabrescent, 1–1.5 cm long, 0.7–0.9 cm wide; lateral stipe, slender, 1.7–2.2 cm long. Seeds 10–14, in two series, ellipsoid-flattened, 7–8 mm long, 4–4.5 mm wide, with dull brown testa, finely alveolate.
 
 ## Type
 
@@ -41,33 +43,31 @@ Baumann 527, Misahohe,Republique du Togo
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Species of secondary forest in Gabon and Congo-Kinshasa.
 
-Espece de foret secondaire au Gabon et Congo-Kinshasa.
+Forest margins, small clearings, cohabiting with Uvaria Baumannii Engl. et Diels.
 
-Lisieres,petites clairieres,cohabitant avec Uoaria Baumannii Engl. et Diels.
+U. heterotricha is easily identifiable by its special indument and its large terminal flowers, with inner petals larger. Species known only from Gabon.
 
-U.heterotricha est facilement identifiable par son indument spécial et ses grandes fleurs terminales,a pétales internes plus grands.Espéce connue seulement du Gabon.
+Chevalier 27099, Mboro on the Ramboué (fl., Oct.).
 
-Chevalier 27o99,Mboro sur le Ramboué (fl.,oct.).
+Le Testu 5082, between Guidoum and Sainte Croix, Haute Ngounyé (fl., Nov.); 8572, Divinda, Lastoursville region (fl., Dec.); 8610, Ramba, Lastoursville region (fl., Dec.); 9012, Bitam, region between Ogooué and Cameroon (fl., Mar.); 9481, type (fl., Feb.).
 
-Le Testu 5o82,entre Guidoum et Sainte Croix, Haute Ngounyé (fl., nov.); 8572,Divinda,région de Lastoursville (fl.,dec.);86io,Ramba,région de Lastoursville (fl.,déc.);9oI2,Bitam,région entre Ogooué et Cameroun (fl.,mars); 9481,type (fl.,févr.).
+11. Uvaria Baumannii Engler et Diels (Pl. 9, p. 63)
 
-I1. Uvaria Baumannii Engler et Diels (PL. 9, p. 63)
+Notizbl. Bot. Gart. Berlin 2: 294 (1899); in Engler, Monogr. Afr. Pflanzenf. 6: 21, tab. 7 C (1901).—Pellegrin, Bull. Soc. Bot. Fr., Mém. 31: 61 (1901).—Keay, FWTA, ed. 2, 1, 1: 36 (1954).
 
-Notizbl.Bot.Gart.Berlin 2:294 (1899);in Engler,Monogr.Afr. Pflanzenf.6 :21,tab.7 C(19o1).- Pellegrin,Bull.Soc.Bot.Fr.,Mém.31 :61(1901).-Keay,FWTA,ed.2,1,1 : 36 (1954).
+= Uvaria verrucosa Engl. et Diels, Notizbl. Bot. Gart. Berlin 2: 294 (1899); in Engler, Monogr. Afr. Pflanzenf. 6: 21 (1901), non Schef., Ann. Jard. Buitenz. 2: 3 (1885).
 
-= Uvaria verrucosa Engl.et Diels,Notizbl.Bot.Gart.Berlin 2 : 294 (1899); in Engler, Monogr. Afr.Pflanzenf.6 :2I (19o1),non Schef.,Ann. Jard. Buitenz.2 :3 (1885).
+= Uvaria Engleriana Exell, Journ. Bot. 73, Suppl. polypet.: 4 (1935).—Boutique, Fl. Congo Belge 2: 286 (1951).
 
-= Uvaria Engleriana Exell, Journ. Bot. 73, Suppl. polypet.: 4 (1935).- Boutique,Fl. Congo Belge 2 : 286 (1951).
+Bushy liana or shrub reaching 10 m in height and 6 cm in diameter; branches glabrous, branchlets densely pubescent-stellate, fawn-coloured. Leaves with petiole 2–4 mm long, fawn-coloured pubescent-stellate; blade papyraceous to subcoriaceous, lanceolate-oblong, oblong, to oblong-obovate, 4.5–16 (19) cm long, 2–5.5 (6.5) cm wide, ± long-acuminate at the apex, rounded to subcordate at the base; upper surface dark green, glabrous except on the nerves, lower surface densely pubescent-stellate with two strata of hairs: the lower one covering the blade with small light grey stellate hairs, the upper one more sparse, with large reddish stellate hairs. Lateral nerves 17–25 pairs, prominent beneath.
 
-Liane buissonnante ou arbuste atteignant Io m de hauteur et 6 cm de diametre; rameaux glabres,ramilles densément pubescentes-stellées fauves.Feuilles a pétiole long de 2-4 mm,pubescentstellé fauve;limbe papyracé ä subcoriace,lancéolé-oblong, oblong,a oblong-obové, long de 4,5-16 (19) cm,large de 2-5,5 (6,5)cm,± longuement acuminé au sommet,arrondi á subcordé a la base; face supérieure vert foncé, glabre sauf sur les nervures, face inférieure densément pubescente-stellée ä deux strates de poils :l'inférieure couvrant le limbe de petits poils étoilés gris clair,la supérieure plus éparse,ä grands poils étoilés roux. Nervures latérales 17-25 paires,saillantes au dessous.
+Flowers yellowish, solitary, extra-axillary or terminal, with pedicel 1–1.5 cm long, reddish pubescent-stellate. Floral bud globose with sepals connate into a cupuliform calyx, separating at anthesis into three broadly ovate lobes, 8–10 mm long and of equal width, connate at the base for approximately 3 mm in height, covered on the outer face with a felt of small light blonde stellate hairs and an upper stratum of larger reddish stellate hairs, on the inner face with a simple felt of light blonde hairs. Petals light blonde tomentellose on both faces, the outer ones oblong, rounded at the apex, 12–20 mm in length, 9–15 mm in width, the inner ones broadly ovate, of equal length, 10–18 mm wide, unguiculate at the base. Stamens numerous, 10-seriate, subsessile, linear, 2–2.5 mm long, with lateral thecae, connectives rounded above the anthers and puberulent. Carpels very numerous, 5.5 mm long, ovaries oblong, densely pubescent-stellate, reddish, styles obconic and stigmas involute, pubescent with long hairs. 6–12 ovules in two series.
 
-Fleurs jaunatres, solitaires,extra-axillaires ou terminales, â pédicelle long de 1-1,5 cm,pubescent-stellé roux. Bouton foral globuleux ä sépales soudés en un calice cupuliforme, se séparant a l'anthese en trois lobes largement ovés,longs de 8-10 mm,et de méme largeur,soudés á la base sur 3 mm de hauteur environ,couverts ä la face externe d'un feutrage de petits poils étoilés gris blond et d'une strate supérieure de plus grands poils étoiles roux,ä la face interne d'un simple feutrage de poils gris blond. Pétales tomenteux gris blond sur les deux faces, les externes oblongs,arrondis au sommet,de I2-2o mm de longueur,9-15 mm de largeur,les internes largement ovés,de méme longueur, larges de Io-18 mm,onguiculés ä la base.Etamines nombreuses Io-sériées,subsessiles,linéaires, longues de 2-2,5 mm, ä théques latérales,connectifs arrondis au-dessus des antheres et pubérulents. Carpelles tres nombreux,longs de 5,5 mm,ovaires oblongs,densément pubescents-stellés roux, styles obconiques et stigmates involutés,pubescents â longs poils. 6-12 ovules biseries.
+Fruits with pedicel 2–2.5 cm long. Fruiting receptacle subglobose, 1.5–3 cm in diameter; mericarps very numerous, orange at maturity, subglobose, 6–10 mm in diameter, verrucose-muricate, reddish tomentellose-stellate; lateral stiped, 3–4 cm long, tomentellose. Seeds 4–6, in two series, subreniform, 8–10 mm long, 4–5 mm wide, with smooth, glossy, light brown testa.
 
-Fruits ä pédicelle long de 2-2,5 cm. Réceptacle fructifére subglobuleux,de 1,5-3 cm de diametre;méricarpes tres nombreux, orangés á maturité,subglobuleux,de 6-1o mm de diamétre, verruqueux-muriques, tomenteux-stellésroux; stipes lateraux, longs de 3-4 cm,tomenteux. Graines 4-6,bisériees,subréniformes,longues de 8-1o mm,larges de 4-5 mm, a testa lisse,brillant, brun clair.
-
-Liane de foret dense humide et de galeries forestieres, largement répandue en Afrique,de la Sierra Leone au Congo-Kinshasa.
+Liana of dense humid forest and forest galleries, widely distributed in Africa, from Sierra Leone to Congo-Kinshasa.
 
 ## Specimens examined
 

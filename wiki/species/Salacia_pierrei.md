@@ -7,6 +7,9 @@ family: Celastraceae
 vol: 29
 pages: 131-133
 source: sources/Celastraceae_vol29_paddle
+countries: [Gabon]
+in_region: true
+habitat: [riverine]
 tags: [species, generated]
 ---
 # *Salacia pierrei* Hallé, sp. nov.

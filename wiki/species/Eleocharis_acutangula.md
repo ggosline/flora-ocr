@@ -7,6 +7,12 @@ family: Cyperaceae
 vol: 44
 pages: 127-128
 source: sources/Cyperaceae_vol44_liteparse
+countries: [Gabon]
+in_region: true
+subdivisions:
+  Gabon: [Ngounié, Nyanga]
+habit: "herb"
+altitude_m: "100–120"
 tags: [species, generated]
 ---
 # *Eleocharis acutangula* (Roxb.) Schult. Planche 79

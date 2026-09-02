@@ -7,6 +7,10 @@ family: Convolvulaceae
 vol: 46
 pages: 18-19
 source: sources/Convolvulaceae_vol46_liteparse
+countries: [Angola, Cameroon, Democratic Republic of the Congo, Gabon, Republic of the Congo, Tanzania]
+in_region: true
+habitat: [gallery forest]
+altitude_m: "0–600"
 tags: [species, generated]
 ---
 # *Calycobolus acuminatus* (Pilg.) Heine Planche 5

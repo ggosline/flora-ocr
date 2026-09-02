@@ -7,6 +7,9 @@ family: Marantaceae
 vol: 09
 pages: 156-158
 source: sources/Marantaceae_vol09_paddle
+countries: [Cameroon, Central African Republic, Democratic Republic of the Congo, Gabon]
+in_region: true
+habit: "herb"
 tags: [species, generated]
 ---
 # *Megaphrynium trichogynum* J. Koechlin sp. nov.

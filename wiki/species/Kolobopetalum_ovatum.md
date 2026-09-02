@@ -5,17 +5,15 @@ authority: Stapf
 genus: Kolobopetalum
 family: Menispermaceae
 synonyms: []
-habit: liana
-habitat: [secondary forest, gallery forest]
-altitude_m: "up to 530 (Gabon); up to 750 elsewhere"
-countries: [Central African Republic, Côte d'Ivoire, Democratic Republic of the Congo, Gabon, Ghana, Guinea, Liberia, Nigeria, Republic of the Congo, Sierra Leone]
-subdivisions:
-  Gabon: [Estuaire, Haut-Ogooué, Ogooué-Ivindo]
-in_region: true
 treatments:
   - vol: 60
     pages: "53"
     source: sources/Menispermaceae_vol60_liteparse
+countries: [Cote d'Ivoire, Democratic Republic of the Congo, Gabon, Ghana, Guinea, Liberia, Nigeria, Republic of the Congo, Sierra Leone]
+in_region: true
+subdivisions:
+  Gabon: [Estuaire, Haut-Ogooué, Ogooué-Ivindo]
+habit: "liana"
 tags: [species]
 ---
 

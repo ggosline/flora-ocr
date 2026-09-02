@@ -7,6 +7,8 @@ family: Leguminosae
 vol: 31
 pages: 34-37
 source: sources/Leguminosae_vol31_paddle
+countries: [Cameroon, Cote d'Ivoire, Democratic Republic of the Congo, Gabon, Zambia]
+in_region: true
 tags: [species, generated]
 ---
 # *Parkia filicoidea* Welwitsch ex Oliver
@@ -71,7 +73,7 @@ Au Gabon, 15 genres sont recensés.
 
 ![Parkia filicoidea](../sources/Leguminosae_vol31_paddle/figures/fig_017_p0036.png)
 
-*PL. 6. – Parkia filicoidea Welw. ex Oliv.: 1, feuille × 2/3; 2, 3, pétiole, base × 2,5; 4, rachis, coupe schématique × 12; 5, foliole, face supérieure × 4; 6, bractée × 7; 7, fleur × 7; 8, fleur × 7; 9, corolle, face externe × 7; 10, pistil × 7; 11, fruit × 2,3; 12, graine × 2. (1, 2, 4, 5, Letouzey & Villiers J.-F. 10401; 3, 6-10, Tisserant 721 (Centrafrique); 11, 12, Tisserant 1705 (Centrafrique)).*
+*PL. 6. – Parkia filicoidea Welw. ex Oliv.: 1, leaf × 2/3; 2, 3, petiole, base × 2.5; 4, rachis, schematic section × 12; 5, leaflet, upper surface × 4; 6, bract × 7; 7, flower × 7; 8, flower × 7; 9, corolla, external surface × 7; 10, pistil × 7; 11, fruit × 2.3; 12, seed × 2. (1, 2, 4, 5, Letouzey & Villiers J.-F. 10401; 3, 6-10, Tisserant 721 (Central African Republic); 11, 12, Tisserant 1705 (Central African Republic)).*
 
 ## Notes
 

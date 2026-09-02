@@ -7,6 +7,9 @@ family: Scytopetalaceae
 vol: 24
 pages: 38-42
 source: sources/Chrysobalanaceae_vol24_paddle
+countries: [Cameroon, Gabon, Republic of the Congo]
+in_region: true
+habit: "tree"
 tags: [species, generated]
 ---
 # *Acioa johnstonei* Hoyle
@@ -65,7 +68,7 @@ Klaine 1890 (fl. et fr., juill. et sept.-oct.); 2981, 3538 (fl., juill.), Librev
 
 ![Acioa johnstonei](../sources/Chrysobalanaceae_vol24_paddle/figures/fig_010_p0039.png)
 
-*PL. 10. — Acioa johnstonei Hoyle : 1, rameau avec fleurs × 2/3; 2, stipule × 4; 3, portion d'axe infi. × 4; 4, ramification infi. × 2; 5, bractéoles × 4; 6, fleur (pét. excl.) × 3/2. (Hepper & Charter 1927).*
+*PL. 10. — Acioa johnstonei Hoyle : 1, branch with flowers × 2/3; 2, stipule × 4; 3, portion of lower axis × 4; 4, inflorescence branching × 2; 5, bracteoles × 4; 6, flower (petals excl.) × 3/2. (Hepper & Charter 1927).*
 
 ## Notes
 

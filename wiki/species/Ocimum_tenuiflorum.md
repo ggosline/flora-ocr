@@ -6,6 +6,12 @@ genus: Ocimum
 vol: 58
 pages: 82-84
 source: sources/Labiataeulmaceaeverbenaceae_vol58_liteparse
+countries: [Gabon]
+in_region: true
+subdivisions:
+  Gabon: [Ogooué-Maritime]
+habit: "herb"
+altitude_m: "20–100"
 tags: [species, generated]
 ---
 # *Ocimum tenuiflorum* L. Planche 20

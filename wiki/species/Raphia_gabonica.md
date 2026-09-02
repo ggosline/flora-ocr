@@ -7,6 +7,11 @@ family: Arecaceae
 vol: 53
 pages: 56-58
 source: sources/Arecaceae_vol53_liteparse
+countries: [Gabon]
+in_region: true
+subdivisions:
+  Gabon: [Ngounié]
+altitude_m: "250"
 tags: [species, generated]
 ---
 # *Raphia gabonica* Mogue, Sonké & Couvreur Planche 19

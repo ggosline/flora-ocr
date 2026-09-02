@@ -16,9 +16,7 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-in Engl., Pflanzenr. IV.147.XV : 12 (1922). Cette espèce est mal connue. La description princeps avait été fondée sur un spécimen à fleurs mâles, récolté à Attogondama dans « Neu-Kamerun, Munigebiet », maintenant territoire gabonais (nord de la province de l’Estuaire), mais le spécimen a été détruit à Berlin. Parmi le matériel de Thecacoris , il n’y a pas une seule récolte du Gabon ni des pays limitrophes qui possède des petites feuilles lancéolées comme mentionnés par les auteurs. En ce qui concerne les autres caractères, comme les petites stipules et l’absence de pétales, T . lancifolia est très proche de T . leptobotrya .
+in Engl., Pflanzenr. IV.147.XV : 12 (1922). This species is poorly known. The original description had been based on a specimen with male flowers, collected at Attogondama in "Neu-Kamerun, Munigebiet", now Gabonese territory (north of the Estuaire province), but the specimen was destroyed in Berlin. Among the material of Thecacoris, there is not a single collection from Gabon or neighbouring countries that possesses small lanceolate leaves as mentioned by the authors. With regard to other characters, such as small stipules and the absence of petals, T. lancifolia is very close to T. leptobotrya.
 
 ## Notes
 

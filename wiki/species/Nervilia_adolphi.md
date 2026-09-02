@@ -7,6 +7,9 @@ family: Orchidaceae
 vol: 36
 pages: 99-100
 source: sources/Orchidaceae_vol36_paddle
+countries: [Cote d'Ivoire, Equatorial Guinea, Ghana, Malawi, Mozambique, Nigeria, Rwanda, Tanzania, Uganda, Zambia, Zimbabwe]
+in_region: true
+habitat: [riverine]
 tags: [species, generated]
 ---
 # *Nervilia adolphi* Schltr.

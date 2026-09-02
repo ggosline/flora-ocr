@@ -7,6 +7,9 @@ family: Moraceae
 vol: 26
 pages: 245-247
 source: sources/Moraceae_vol26_paddle
+countries: [Cameroon, Democratic Republic of the Congo, Gabon]
+in_region: true
+habit: "tree"
 tags: [species, generated]
 ---
 # *Ficus subcostata* De Wildeman
@@ -43,7 +46,7 @@ Hijman & Weerdenburg 386, 388, 389, 391, 400, 9-10 km SW Makokou (fig., déc., o
 
 ![Ficus subcostata](../sources/Moraceae_vol26_paddle/figures/fig_075_p0244.png)
 
-*PL. 74. – Ficus subcostata De Wild.: 1, feuille × 1; 2, rameau avec feuilles et figues × 1 (1, Sita 3244, Congo; 2, Letouzey 4870, Cameroun).*
+*PL. 74. – Ficus subcostata De Wild.: 1, leaf × 1; 2, branch with leaves and figs × 1 (1, Sita 3244, Congo; 2, Letouzey 4870, Cameroon).*
 
 ## Notes
 

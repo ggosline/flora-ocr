@@ -7,6 +7,13 @@ family: Leguminosae
 vol: 49
 pages: 62-63
 source: sources/Millettiaspeciesfabaceae_vol49_liteparse
+countries: [Cameroon, Democratic Republic of the Congo, Gabon, Nigeria]
+in_region: true
+subdivisions:
+  Gabon: [Estuaire, Nyanga, Ogooué-Maritime]
+habit: "liana"
+habitat: [secondary forest]
+altitude_m: "30–500"
 tags: [species, generated]
 ---
 # *Baphia maxima* Baker

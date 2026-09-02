@@ -7,6 +7,9 @@ family: Dichapetalaceae
 vol: 32
 pages: 115-118
 source: sources/Dichapetalaceae_vol32_paddle
+countries: [Angola, Cameroon, Gabon]
+in_region: true
+habit: "liana"
 tags: [species, generated]
 ---
 # *Dichapetalum integripetalum* Engler

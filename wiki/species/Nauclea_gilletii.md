@@ -7,6 +7,7 @@ family: Rubiaceae
 vol: 12
 pages: 53-57
 source: sources/Rubiaceae_vol12_paddle
+habit: "tree"
 tags: [species, generated]
 ---
 # *Nauclea gilletii* (De Wild.) Merr. (P.L. 6)

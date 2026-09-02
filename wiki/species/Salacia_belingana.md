@@ -7,6 +7,8 @@ family: Celastraceae
 vol: 29
 pages: 151-151
 source: sources/Celastraceae_vol29_paddle
+countries: [Gabon]
+in_region: true
 tags: [species, generated]
 ---
 # *Salacia belingana* Hallé, sp. nov.

@@ -7,6 +7,12 @@ family: Leguminosae
 vol: 49
 pages: 191-193
 source: sources/Millettiaspeciesfabaceae_vol49_liteparse
+countries: [Gabon, Mozambique, Senegal]
+in_region: true
+subdivisions:
+  Gabon: [Haut-Ogooué, Nyanga]
+habitat: [savanna]
+altitude_m: "90–150"
 tags: [species, generated]
 ---
 # *Eriosema psoraleoides* (Lam.) G.Don Planche 62

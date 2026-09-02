@@ -8,6 +8,7 @@ vol: 44
 pages: 159-159
 source: sources/Cyperaceae_vol44_liteparse
 also_in_vols: [44]
+habit: "herb"
 tags: [species, generated]
 ---
 # *Lipocarpha filiformis* ( Thery 7 , Ogooué-Maritime, Gabon).

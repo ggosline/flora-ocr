@@ -7,6 +7,12 @@ family: Passifloraceae
 vol: 46
 pages: 91-91
 source: sources/Passifloraceae_vol46_liteparse
+countries: [Angola, Cameroon, Democratic Republic of the Congo, Gabon]
+in_region: true
+subdivisions:
+  Gabon: [Estuaire, Moyen-Ogooué, Nyanga, Ogooué-Maritime]
+habit: "tree"
+altitude_m: "100"
 tags: [species, generated]
 ---
 # *Paropsiopsis decandra* (Baill.) Sleumer Planche 36

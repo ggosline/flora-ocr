@@ -7,12 +7,11 @@ parent_species: Achyranthes aspera
 genus: Achyranthes
 family: Amaranthaceae
 synonyms: [Achyranthes porphyrostachya, Achyranthes argentea var. borbonica]
-countries: [Gabon, India]
 range_note: "Tropical Asia and Africa; probably introduced from India."
-in_region: true
-habit: subshrub or climber
-habitat: [humid forest understorey, riverbanks, streambanks]
 treatments: [{vol: 7, pages: "40–41", source: sources/Amaranthaceae_vol7_paddle}]
+countries: [Gabon]
+in_region: true
+habit: "liana"
 tags: [species, introduced]
 ---
 

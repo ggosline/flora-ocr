@@ -7,6 +7,9 @@ family: Celastraceae
 vol: 29
 pages: 82-86
 source: sources/Celastraceae_vol29_paddle
+countries: [Cameroon, Democratic Republic of the Congo, Gabon, Nigeria]
+in_region: true
+habit: "shrub"
 tags: [species, generated]
 ---
 # *Salacia loloensis* Loesener

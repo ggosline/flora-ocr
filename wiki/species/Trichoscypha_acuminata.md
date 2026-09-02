@@ -7,6 +7,11 @@ family: Anacardiaceae
 vol: 50
 pages: 37-37
 source: sources/Anacardiaceae_vol50_liteparse
+countries: [Angola, Cameroon, Central African Republic, Democratic Republic of the Congo, Equatorial Guinea, Gabon, Nigeria, Republic of the Congo]
+in_region: true
+habit: "tree"
+habitat: [secondary forest]
+altitude_m: "800"
 tags: [species, generated]
 ---
 # *Trichoscypha acuminata* Engl. Planche 13
@@ -17,21 +22,15 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Arbre atteignant 20 m de hauteur ; tronc jusqu’à 45 cm de diamètre, bosselé , peu ou non rami fié ; ramilles et pétioles, rachis et pétiolules à poils tomentelleux, souvent mélangés à des poils ± hispides. Feuilles en général en touffes terminales, jusqu’à 1,5 m de longueur ; folioles 15 à 35(–45 ?) , alternes à (sub)opposées, à pétiolule de 5–10(–15) mm, à limbe oblong-elliptique ou parfois lancéolé, (6–)15–20(–28) × (2–)3–7(–10) cm, ± arrondi à la base, acuminé sur 1–2(–3) cm au sommet, généralement glabre ou parfois à petits poils sur la médiane imprimée dessus, ± glabre dessous, avec (9–)12 à 18 paires de nervures latérales. Inflorescence naissant sur le tronc en dessous de 4 m de hauteur , la mâle jusqu’à 30 cm de longueur, la femelle en général plus courte, tomentelleuse à pubescente ; bractées caduques, très distinctes , 1,5–3,5 × 1–2 cm. Fleur 4-mère. Fleur mâle : pédicelle 1–3,5 mm, pubescent ; calice courtement lobé, ± 1 mm de longueur, pubescent à glabre ; pétales imbriqués , étalés à réfléchis, ovales, 3–4 mm de longueur, glabres ; étamines 2,5–4,5 mm de longueur, glabres ou parfois à quelques poils sur les anthères ; disque lobulé-ondulé. Fleur femelle : pédicelle 2–3 mm, pubescent ; calice comme chez la fleur mâle ; pétales imbriqués, réfléchis, 2–3,5 mm de longueur, glabres ; staminodes 1–2,5 mm de longueur ; disque à peine visible, glabre ; ovaire 2–2,5 mm de longueur, velouté ; stigmates 3(–4), sessiles. Fruit subellipsoïde, jusqu’à 6 × 3,5 cm, pubérulent à courtement velouté, parfois partiellement glabrescent, rouge foncé à maturité.
+Tree reaching 20 m in height; trunk up to 45 cm in diameter, knobby, little or not branched; branchlets and petioles, rachis and petiolules with tomentellous hairs, often mixed with ± hispid hairs. Leaves generally in terminal tufts, up to 1.5 m in length; leaflets 15 to 35(–45?), alternate to (sub)opposite, with petiolule 5–10(–15) mm, with oblong-elliptic or sometimes lanceolate blade, (6–)15–20(–28) × (2–)3–7(–10) cm, ± rounded at base, acuminate for 1–2(–3) cm at apex, generally glabrous or sometimes with small hairs on the impressed midvein above, ± glabrous below, with (9–)12 to 18 pairs of lateral nerves. Inflorescence arising on the trunk below 4 m in height, the male up to 30 cm in length, the female generally shorter, tomentellous to pubescent; bracts caducous, very distinct, 1.5–3.5 × 1–2 cm. Flower 4-merous. Male flower: pedicel 1–3.5 mm, pubescent; calyx shortly lobed, ± 1 mm in length, pubescent to glabrous; petals imbricate, spreading to reflexed, ovate, 3–4 mm in length, glabrous; stamens 2.5–4.5 mm in length, glabrous or sometimes with a few hairs on the anthers; disk lobulate-undulate. Female flower: pedicel 2–3 mm, pubescent; calyx as in the male flower; petals imbricate, reflexed, 2–3.5 mm in length, glabrous; staminodes 1–2.5 mm in length; disk scarcely visible, glabrous; ovary 2–2.5 mm in length, velvety; stigmas 3(–4), sessile. Fruit subellipsoid, up to 6 × 3.5 cm, puberulent to shortly velvety, sometimes partially glabrescent, dark red at maturity.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Nigéria, Cameroun, République centrafricaine, Guinée équatoriale (Rio Muni), Gabon, République du Congo, République démocratique du Congo et Angola (Cabinda) ; au Gabon, connu de toutes les provinces
+Nigeria, Cameroon, Central African Republic, Equatorial Guinea (Rio Muni), Gabon, Republic of the Congo, Democratic Republic of the Congo and Angola (Cabinda); in Gabon, known from all provinces
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-forêt primaire et secondarisée, sempervirente et semi-décidue ; au Gabon et ailleurs, jusqu’à 800 m d’altitude. Usage : Les fruits sont comestibles. L’écorce est utilisée dans la médecine traditionnelle
+primary and secondarized evergreen and semi-deciduous forest; in Gabon and elsewhere, up to 800 m in altitude. Uses: The fruits are edible. The bark is used in traditional medicine
 
 ## Vernacular names
 

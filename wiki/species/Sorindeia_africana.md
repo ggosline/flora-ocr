@@ -7,6 +7,12 @@ family: Anacardiaceae
 vol: 50
 pages: 25-27
 source: sources/Anacardiaceae_vol50_liteparse
+countries: [Angola, Cameroon, Central African Republic, Democratic Republic of the Congo, Gabon, Nigeria, Republic of the Congo]
+in_region: true
+subdivisions:
+  Gabon: [Moyen-Ogooué]
+habitat: [secondary forest]
+altitude_m: "100–800"
 tags: [species, generated]
 ---
 # *Sorindeia africana* (Engl.) Van der Veken Planche 7, 11(A)
@@ -17,25 +23,15 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-S. le-testui Pellegr., Bull. Mus. Hist. Nat. (Paris) 28 : 313 (1922). S. tchibangensis Pellegr. Bull. Mus. Hist. Nat. (Paris) 28 : 314 (1922). S. lastoursvillensis Pellegr., Bull. Soc. Bot. France 102 : 330 (1956). S. befalensis Van der Veken, Bull. Jard. Bot. État Bruxelles 29 : 243 (1959). S. multifoliolata Van der Veken, Bull. Jard. Bot. État Bruxelles 29 : 248 (1959). S. multifoliolata Van der Veken var. watsaensis Van der Veken, Bull. Jard. Bot. État Bruxelles 29 : 250 (1959). S. africana (Engl.) Van der Veken var. lastoursvillensis (Pellegr.) Van der Veken, Fl. Congo belge & Ruanda-Urundi 9 : 93 (1960). Arbuste ou arbre atteignant 33 m de hauteur, caducifolié ou non ; tronc jusqu’à 40 cm de diamètre ; ramilles et axes foliaires glabres ou distinctement pubescents à poils bruns. Feuille : folioles (1–)7 à 13(–19), pétiolule 2–10 mm, à limbe de taille très variable, oblong-elliptique, (5–)10–20(–28) × (2–)4–6(–10) cm, arrondi à cunéé et parfois asymétrique à la base, acuminé sur 0,5–1,5(–2) cm au sommet, papyracé à coriace, ± glabre à distinctement pubescent ; nervures latérales en (10–)11 à 14(–16) paires, nervure oblique généralement distincte. Inflo rescence jusqu’à 50 cm de longueur, pubescente à pubérulente, l’indument aussi présent
-
-Sorindeia 19 Drupe (× 2). (1, 2, 4 : Gilbert 9553 ; 3 : Lemaire 403 ; 5 : Gilbert 9746 ). Dessin par J.M. Lerinckx, Jardin botanique Meise (©).
-
-20 Frans J. BRETELER sur le pédicelle, sur le calice et souvent aussi sur les pétales . Fleur mâle : pédicelle 2,5–3,5 mm de longueur, articulé au milieu ou plus bas ; calice 1 mm de longueur, à lobes deltoïdes ; pétales valvaires, ovés-elliptiques, 2,5–3 × 1,5 mm ; étamines 9 à 16, 2–3 mm de longueur, glabres. Fleur femelle : pédicelle 1,5–5 mm ; calice semblable à celui de la fleur mâle, 1,5 mm de longueur ; pétales semblables à ceux de la fleur mâle ; staminodes 5 à 9, 1 mm de longueur, glabres ; pistil 2 mm de longueur, glabre à pubérulent. Fruit ± globuleux, jusqu’à 20 × 16 × 14 mm, jaune à orange à maturité, glabre à pubérulent.
+S. le-testui Pellegr., Bull. Mus. Hist. Nat. (Paris) 28 : 313 (1922). S. tchibangensis Pellegr. Bull. Mus. Hist. Nat. (Paris) 28 : 314 (1922). S. lastoursvillensis Pellegr., Bull. Soc. Bot. France 102 : 330 (1956). S. befalensis Van der Veken, Bull. Jard. Bot. État Bruxelles 29 : 243 (1959). S. multifoliolata Van der Veken, Bull. Jard. Bot. État Bruxelles 29 : 248 (1959). S. multifoliolata Van der Veken var. watsaensis Van der Veken, Bull. Jard. Bot. État Bruxelles 29 : 250 (1959). S. africana (Engl.) Van der Veken var. lastoursvillensis (Pellegr.) Van der Veken, Fl. Congo belge & Ruanda-Urundi 9 : 93 (1960). Shrub or tree reaching 33 m in height, deciduous or not; trunk up to 40 cm in diameter; branchlets and leaf axes glabrous or distinctly pubescent with brown hairs. Leaf: leaflets (1–)7 to 13(–19), petiolule 2–10 mm, with blade of highly variable size, oblong-elliptic, (5–)10–20(–28) × (2–)4–6(–10) cm, rounded to cuneate and sometimes asymmetric at the base, acuminate for 0.5–1.5(–2) cm at the apex, papyraceous to coriaceous, ± glabrous to distinctly pubescent; lateral veins in (10–)11 to 14(–16) pairs, oblique vein generally distinct. Inflorescence up to 50 cm in length, pubescent to puberulent, the indumentum also present on the pedicel, on the calyx and often also on the petals. Male flower: pedicel 2.5–3.5 mm in length, articulate at the middle or lower; calyx 1 mm in length, with deltoid lobes; petals valvate, ovate-elliptic, 2.5–3 × 1.5 mm; stamens 9 to 16, 2–3 mm in length, glabrous. Female flower: pedicel 1.5–5 mm; calyx similar to that of the male flower, 1.5 mm in length; petals similar to those of the male flower; staminodes 5 to 9, 1 mm in length, glabrous; pistil 2 mm in length, glabrous to puberulent. Fruit ± globose, up to 20 × 16 × 14 mm, yellow to orange at maturity, glabrous to puberulent.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Nigéria, Cameroun, République centrafricaine, Gabon, République du Congo, République démocratique du Congo et Angola ; au Gabon, connu de toutes les provinces, sauf du Moyen-Ogooué
+Nigeria, Cameroon, Central African Republic, Gabon, Republic of the Congo, Democratic Republic of the Congo and Angola; in Gabon, known from all provinces except Moyen-Ogooué.
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-forêt primaire et secondarisée ; au Gabon à 100–800 m d’altitude, ailleurs jusqu’à 1500 m. B : Breteler (2003), Keay (1958), Van der Veken (1960a). i B liographie
+Primary and secondarized forest; in Gabon at 100–800 m in altitude, elsewhere up to 1500 m. B: Breteler (2003), Keay (1958), Van der Veken (1960a). Bibliography
 
 ## Notes
 

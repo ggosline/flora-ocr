@@ -7,6 +7,7 @@ family: Leguminosae
 vol: 15
 pages: 191-193
 source: sources/Leguminosae_vol15_paddle
+habit: "tree"
 tags: [species, generated]
 ---
 # *Isomacrolobium isopetalum* (Harms) Aubr. et Pellegr.

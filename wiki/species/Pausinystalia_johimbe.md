@@ -7,6 +7,9 @@ family: Rubiaceae
 vol: 12
 pages: 70-72
 source: sources/Rubiaceae_vol12_paddle
+countries: [Cameroon, Gabon, Nigeria]
+in_region: true
+habit: "tree"
 tags: [species, generated]
 ---
 # *Pausinystalia johimbe* (K. Schum.)

@@ -7,6 +7,11 @@ family: Apocynaceae
 vol: 59
 pages: 185-188
 source: sources/Apocynaceae_vol59_liteparse
+countries: [Cameroon, Gabon, Guinea]
+in_region: true
+habit: "shrub"
+habitat: [primary forest, rocky ground]
+altitude_m: "200–660"
 tags: [species, generated]
 ---
 # *Petchia africana* Leeuwenb. Planche 86 ; Figure 9(C)

@@ -7,6 +7,9 @@ family: Leguminosae
 vol: 15
 pages: 42-44
 source: sources/Leguminosae_vol15_paddle
+countries: [Cameroon, Gabon]
+in_region: true
+habit: "tree"
 tags: [species, generated]
 ---
 # *Dialium bipindense* Harms (P.L. 4, p. 39)
@@ -44,7 +47,7 @@ Fleury : 26532, 26562, sur l'Orimbo affluent de l'Ogooué (vieux fr. juil.). Kla
 
 ![Dialium bipindense](../sources/Leguminosae_vol15_paddle/figures/fig_004_p0041.png)
 
-*PL. IV. — Dialium Zenkeri Harms : 1, feuille × 2/3; 2, inflorescence × 2/3; 3, fleur × 4; 4, fleur (2 sépales enlevées); 5, fruit × 2/3. — Dialium bipindense Harms : 6, feuille × 2/3; 7, inflorescence × 2/3; 8, fleur × 4; 9, rameau fructifère × 2/3.*
+*PL. IV. — Dialium Zenkeri Harms : 1, leaf × 2/3; 2, inflorescence × 2/3; 3, flower × 4; 4, flower (2 sepals removed); 5, fruit × 2/3. — Dialium bipindense Harms : 6, leaf × 2/3; 7, inflorescence × 2/3; 8, flower × 4; 9, fruiting branch × 2/3.*
 
 ## Notes
 

@@ -7,6 +7,10 @@ family: Marantaceae
 vol: 09
 pages: 126-130
 source: sources/Marantaceae_vol09_paddle
+countries: [Angola]
+in_region: true
+habit: "herb"
+habitat: [savanna]
 tags: [species, generated]
 ---
 # *Marantochloa leucantha* (K. Sch.) M.-Redh.
@@ -62,7 +66,7 @@ Le Testu : 7074, Lastoursville.
 
 ![Marantochloa leucantha](../sources/Marantaceae_vol09_paddle/figures/fig_029_p0125.png)
 
-*PL. XXVI. — Marantochloa filipes (Benth.) Hutch. (Maclaud s. n.) : 1, feuilles et infrutescences ; 2, couronne staminale, hauteur 6 mm env., d'après un dessin original de Gagnepain) ; 3, fruit (diam. 6 mm environ). — Marantochloa leucantha (K. Schum.) M.-Redh. (Letouzey 3324) : 4, infrutescence ; 5, fruit (diam. 8-9 mm). — Marantochloa congensis (K. Schum.) Léon. et Mullenders (Le Testu 1682) : 6, feuilles et inflorescence ; 7, détail du pétiole.*
+*PL. XXVI. — Marantochloa filipes (Benth.) Hutch. (Maclaud s. n.) : 1, leaves and infructescences ; 2, staminal crown, height 6 mm approx., after an original drawing by Gagnepain) ; 3, fruit (diam. 6 mm approximately). — Marantochloa leucantha (K. Schum.) M.-Redh. (Letouzey 3324) : 4, infructescence ; 5, fruit (diam. 8-9 mm). — Marantochloa congensis (K. Schum.) Léon. et Mullenders (Le Testu 1682) : 6, leaves and inflorescence ; 7, detail of petiole.*
 
 ## Notes
 

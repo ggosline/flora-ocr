@@ -7,6 +7,13 @@ family: Anacardiaceae
 vol: 50
 pages: 30-30
 source: sources/Anacardiaceae_vol50_liteparse
+countries: [Equatorial Guinea, Gabon]
+in_region: true
+subdivisions:
+  Gabon: [Estuaire, Woleu-Ntem]
+habit: "tree"
+habitat: [secondary forest]
+altitude_m: "500"
 tags: [species, generated]
 ---
 # *Sorindeia oxyandra* Bourobou & Breteler Planche 10, 11(E), 12(E)
@@ -17,21 +24,15 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Arbre atteignant 10 m de hauteur ; ramilles pubérulentes, glabrescentes. Feuille jusqu’à 73 cm de longueur ; pétiole et rachis éparsement pubérulents, respectivement 12–14 et 45–60 cm ; folioles jusqu’à 18, alternes , à pétiolule de 4–6 mm, étroitement ridé dessus, glabre à éparsement pubérulent, à limbe étroitement oblong-lancéolé , 10–19 × 3–4 cm, arrondi à cunéé à la base, finement acuminé sur 1–2 cm au sommet, papyracé, glabre, à nervure médiane et les 12–40 paires de latérales légèrement proéminentes dessus, plus distinctes dessous, nervure oblique indistincte . Inflorescence née sur le tronc , subsessile, jusqu’à 14 cm de longueur, glabre . Fleur mâle : pédicelle 3 mm, glabre ou à quelques petits poils, partie basale 2,5 mm, la supérieure 0,5 mm ; calice glabre ou à très peu de poils, à lobes triangulaires de 1 mm de longueur ; pétales ± dressés, valvaires, elliptiques, 5 × 2 mm, glabres ; étamines 15 à 18, 2,3–3,5 mm de longueur, anthères 2–2,5 mm de longueur, finement pointues . Fleur femelle : pédicelle jusqu’à 6 mm, glabre, à articulation juste en dessous du calice ; calice comme chez la fleur mâle ; corolle comme chez la fleur mâle, mais 4–4,5 × 1,5 mm ; staminodes 10 à 12, 1,5 mm de longueur, glabres ; ovaire 2,5 mm de longueur, glabre ; style plus stigmate 1–1,5 mm. Fruit subellipsoïdal, latéralement comprimé, 1,5–2 × 0,8–1,3 cm, jaune, glabre.
+Tree reaching 10 m in height; branchlets puberulent, glabrescent. Leaf up to 73 cm in length; petiole and rachis sparsely puberulent, respectively 12–14 and 45–60 cm; leaflets up to 18, alternate, with petiolule 4–6 mm, narrowly ridged above, glabrous to sparsely puberulent, with narrowly oblong-lanceolate lamina, 10–19 × 3–4 cm, rounded to cuneate at the base, finely acuminate over 1–2 cm at the apex, papyraceous, glabrous, with midrib and 12–40 pairs of lateral nerves slightly prominent above, more distinct below, oblique nerve indistinct. Inflorescence arising from the trunk, subsessile, up to 14 cm in length, glabrous. Male flower: pedicel 3 mm, glabrous or with a few small hairs, basal part 2.5 mm, upper part 0.5 mm; calyx glabrous or with very few hairs, with triangular lobes 1 mm in length; petals ± erect, valvate, elliptic, 5 × 2 mm, glabrous; stamens 15 to 18, 2.3–3.5 mm in length, anthers 2–2.5 mm in length, finely pointed. Female flower: pedicel up to 6 mm, glabrous, with articulation just below the calyx; calyx as in male flower; corolla as in male flower, but 4–4.5 × 1.5 mm; staminodes 10 to 12, 1.5 mm in length, glabrous; ovary 2.5 mm in length, glabrous; style plus stigma 1–1.5 mm. Fruit subellipsoidal, laterally compressed, 1.5–2 × 0.8–1.3 cm, yellow, glabrous.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Guinée équatoriale (Rio Muni) et Gabon d’où l’espèce est connue de l’Estuaire et du Woleu-Ntem
+Equatorial Guinea (Rio Muni) and Gabon where the species is known from Estuaire and Woleu-Ntem
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-forêt primaire et secondarisée ; au Gabon jusqu’à 500 m d’altitude, au Rio Muni jusqu’à 1000 m. Bi : Bourobou-Bourobou & Breteler (1999), Breteler (2003). B liographie
+primary and secondarized forest; in Gabon up to 500 m altitude, in Rio Muni up to 1000 m. Bibliography: Bourobou-Bourobou & Breteler (1999), Breteler (2003). Bibliography
 
 ## Notes
 

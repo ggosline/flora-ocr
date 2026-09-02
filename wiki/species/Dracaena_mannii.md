@@ -7,6 +7,13 @@ family: Dracaenaceae
 vol: 54
 pages: 41-43
 source: sources/Dracaenaceae_vol54_liteparse
+countries: [Angola, Benin, Cameroon, Central African Republic, Democratic Republic of the Congo, Equatorial Guinea, Gabon, Nigeria, Republic of the Congo]
+in_region: true
+subdivisions:
+  Gabon: [Moyen-Ogooué, Ogooué-Ivindo, Ogooué-Lolo, Ogooué-Maritime, Woleu-Ntem]
+habit: "tree"
+habitat: [primary forest]
+altitude_m: "0–900"
 tags: [species, generated]
 ---
 # *Dracaena mannii* Baker Figure 3(A, B)

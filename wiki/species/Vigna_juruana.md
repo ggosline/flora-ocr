@@ -7,6 +7,13 @@ family: Leguminosae
 vol: 49
 pages: 374-376
 source: sources/Millettiaspeciesfabaceae_vol49_liteparse
+countries: [Cameroon, Democratic Republic of the Congo, Gabon, Nigeria, Sierra Leone]
+in_region: true
+subdivisions:
+  Gabon: [Ogooué-Ivindo, Ogooué-Maritime]
+habit: "herb"
+habitat: [riverine]
+altitude_m: "630"
 tags: [species, generated]
 ---
 # *Vigna juruana* (Harms) Verdc. Planche 126

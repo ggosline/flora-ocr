@@ -7,6 +7,9 @@ family: Celastraceae
 vol: 29
 pages: 21-24
 source: sources/Celastraceae_vol29_paddle
+countries: [Angola, Central African Republic, Cote d'Ivoire, Democratic Republic of the Congo, Ghana]
+in_region: true
+habitat: [rocky ground]
 tags: [species, generated]
 ---
 # *Salacighia letestuana* (Pellegrin) Blakelock

@@ -7,6 +7,13 @@ family: Commelinaceae
 vol: 55
 pages: 50-52
 source: sources/Commelinaceae_vol55_liteparse
+countries: [Gabon]
+in_region: true
+subdivisions:
+  Gabon: [Moyen-Ogooué, Ngounié, Ogooué-Ivindo, Ogooué-Lolo]
+habit: "herb"
+habitat: [primary forest]
+altitude_m: "116"
 tags: [species, generated]
 ---
 # *Palisota alboanthera* Burg & E.Bidault Planche 12, Figure 3(H, I)

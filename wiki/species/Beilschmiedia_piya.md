@@ -7,6 +7,9 @@ family: Lauraceae
 vol: 10
 pages: 67-72
 source: sources/Lauraceae_vol10_paddle
+countries: [Cameroon, Democratic Republic of the Congo]
+in_region: true
+habit: "tree"
 tags: [species, generated]
 ---
 # *Beilschmiedia piya* A. Chev..
@@ -82,11 +85,11 @@ Remarque : la tribu des Cinnamomées de Nees avait une compréhension différent
 
 ![Beilschmiedia piya](../sources/Lauraceae_vol10_paddle/figures/fig_018_p0068.png)
 
-*PL. XVII. — Beilschmiedia piya Chev. : 1, rameau florifère, grande feuille de 20 cm ; 1', feuille et fruit de 33 mm ; 1", autre feuille de 15 cm ; 2, bractée de 5 mm ; 3, fragment de cyme ; 4, fleur de 2 mm de diam. ; 4', androcée jeune ; 4", coupe de la fleur ; 5, étamine du 1er cycle, fleur passée, face interne ; 5', profil ; 5", face externe ; 6, fruit ; 6', coupe (N. Hallé 1501 sauf : 1", Tisserant 2058, type, et 5,5',5", Le Testu 3312 ; 4 et 4' in vivo d'après N. Hallé).*
+*PL. XVII. — Beilschmiedia piya Chev. : 1, flowering branch, large leaf of 20 cm ; 1', leaf and fruit of 33 mm ; 1", another leaf of 15 cm ; 2, bract of 5 mm ; 3, fragment of cyme ; 4, flower of 2 mm diam. ; 4', young androecium ; 4", section of the flower ; 5, stamen of the 1st cycle, past flower, internal surface ; 5', profile ; 5", external surface ; 6, fruit ; 6', section (N. Hallé 1501 except : 1", Tisserant 2058, type, et 5,5',5", Le Testu 3312 ; 4 et 4' in vivo after N. Hallé).*
 
 ![Beilschmiedia piya](../sources/Lauraceae_vol10_paddle/figures/fig_019_p0070.png)
 
-*PL. XVIII. — Beilschmiedia (?) calcitranthera R. Fouilloy (Le Testu 6015) : 1, rameau florifère avec feuille de 15 cm; 2, fragment de cyme; 3, bractée de 3 mm; 4, fleur, diam. 2 mm; 5, coupe; 6, très jeune fruit; 7, coupe du précédent.*
+*PL. XVIII. — Beilschmiedia (?) calcitranthera R. Fouilloy (Le Testu 6015) : 1, flowering branch with leaf of 15 cm; 2, fragment of cyme; 3, bract of 3 mm; 4, flower, diam. 2 mm; 5, section; 6, very young fruit; 7, section of the preceding.*
 
 ## Notes
 

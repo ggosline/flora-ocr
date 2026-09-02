@@ -7,6 +7,12 @@ family: Leguminosae
 vol: 49
 pages: 78-80
 source: sources/Millettiaspeciesfabaceae_vol49_liteparse
+countries: [Gabon]
+in_region: true
+subdivisions:
+  Gabon: [Estuaire, Nyanga, Ogooué-Maritime]
+habit: "herb"
+altitude_m: "0–10"
 tags: [species, generated]
 ---
 # *Canavalia rosea* (Sw.) DC. Planche 23.6–12

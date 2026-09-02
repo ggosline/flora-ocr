@@ -7,6 +7,7 @@ family: Gramineae
 vol: 05
 pages: 88-91
 source: sources/Gramineae_vol05_paddle
+habit: "herb"
 tags: [species, generated]
 ---
 # *Setaria sphacelata* (Schum.) Stapf et Hubb.
@@ -28,15 +29,11 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Perennial herb up to 2 m tall, rhizomatous; culms geniculate at the base, with the lower internodes more or less flattened. Sheaths generally glabrous, those at the base flattened and keeled, persistent and becoming fibrous. Ligule short, densely ciliate. Blades linear and elongate, 3 to 12 mm wide and reaching over 30 cm long, generally glabrous, or pubescent above the ligule.
 
-Herbe pérenné jusqu'à 2 m de haut, rhizomateuse; chaumes géniculés à la base, avec les entrenœuds inférieurs plus ou moins aplatis. Gaines généralement glabres, celles de la base aplaties et carénées, persistantes et se réduisant en fibres. Ligule courte,
+Inflorescence in a false cylindrical spike, 6 to 25 cm long or more and 6 to 8 mm in diameter (bristles not included), most often tawny in color, sometimes red. Spikelets sessile, solitary or in pairs or threes. Involucres of 6 to 10 hairs, rigid, scabrous, 4 to 6 mm long. Spikelets elliptic-oblong, 2 to 3 mm long, more or less tinged with purple. Glumes thin, subobtuse, measuring up to half the length of the spikelet, the lower with 3 nerves, the upper with 5 nerves. Lower flower male, lemmas as long as the spikelet, apiculate, the lemma with 5 nerves. Upper flower obliquely apiculate, white or more or less tinged with violet, lemmas transversely wrinkled.
 
-densément ciliée. Limbes linéaires allongés, de 3 à 12 mm de large et pouvant dépasser 30 cm de long, généralement glabres, ou pubescents au-dessus de la ligule.
-
-Inflorescence en faux épi cylindrique, de 6 à 25 cm de long ou plus et de 6 à 8 mm de diamètre (soies non comprises), de couleur fauve le plus souvent, parfois rouge. Épillets sessiles, solitaires ou par 2 ou 3. Involucres de 6 à 10 poils, rigides, scabres, de 4 à 6 mm de long. Épillets elliptiques oblonges, de 2 à 3 mm de long, plus ou moins teintés de pourpre. Glumes minces, subobtuses, mesurant jusqu'à la moitié de la longueur de l'épillet, l'inférieure à 3 nervures, la supérieure à 5 nervures. Fleur inférieure mâle, glumelles aussi longues que l'épillet, apiculées, la lemma à 5 nervures. Fleur supérieure obliquement apiculée, blanche ou plus ou moins teintée de violet, glumelles transversalement rugueuses.
-
-Espèce très répandue dans toute l'Afrique tropicale mais rarement en peuplements importants. Bonne espèce fourragère parfois cultivée.
+Species very widespread throughout tropical Africa but rarely in substantial stands. Good forage species sometimes cultivated.
 
 ## Specimens examined
 

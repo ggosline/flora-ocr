@@ -7,6 +7,13 @@ family: Clusiaceae
 vol: 45
 pages: 14-14
 source: sources/Clusiaceae_vol45_liteparse
+countries: [Angola, Cameroon, Democratic Republic of the Congo, Gabon]
+in_region: true
+subdivisions:
+  Gabon: [Ogooué-Maritime]
+habit: "tree"
+habitat: [primary forest]
+altitude_m: "30"
 tags: [species, generated]
 ---
 # *Allanblackia staneriana* Exell & Mendonça Planche 1(6,7)

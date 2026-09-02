@@ -5,18 +5,15 @@ authority: Engl.
 genus: Kolobopetalum
 family: Menispermaceae
 synonyms: []
-habit: liana
-habitat: [secondary forest]
-altitude_m: "10–600 (Gabon); up to 1000 elsewhere"
-countries: [Angola, Benin, Cameroon, Central African Republic, Equatorial Guinea (Rio Muni), Gabon, Ghana, Nigeria, Republic of the Congo]
-subdivisions:
-  Angola: [Cabinda]
-  Gabon: [Estuaire, Ogooué-Lolo, Woleu-Ntem]
-in_region: true
 treatments:
   - vol: 60
     pages: "51"
     source: sources/Menispermaceae_vol60_liteparse
+countries: [Angola, Benin, Cameroon, Central African Republic, Equatorial Guinea, Gabon, Ghana, Nigeria, Republic of the Congo]
+in_region: true
+subdivisions:
+  Gabon: [Estuaire, Ogooué-Lolo, Woleu-Ntem]
+habit: "liana"
 tags: [species]
 ---
 

@@ -7,6 +7,9 @@ family: Moraceae
 vol: 26
 pages: 41-46
 source: sources/Moraceae_vol26_paddle
+countries: [Cameroon, Cote d'Ivoire, Gabon, Liberia, Nigeria, Sierra Leone]
+in_region: true
+altitude_m: "1000"
 tags: [species, generated]
 ---
 # *Dorstenia turbinata* Engler
@@ -63,7 +66,7 @@ Le Testu 2141, Ocouzna (fl., oct.); 2149, pays Itsogho, Mapoungui (fl., oct.); 2
 
 ![Dorstenia turbinata](../sources/Moraceae_vol26_paddle/figures/fig_011_p0044.png)
 
-*PL. 11. – Dorstenia turbinata Engl.: 1, ramille; 2, feuille; 3, stipules; 4, inflo.; 5, fleurs staminées; 6, fleur pistillée (1, Leeuwenberg 9138, Cameroun; 2, Le Testu 2181; 3, 5, 6, Le Testu 5577; 4, 4, Le Testu 2141; 5-6, Leeuwenberg 8753, Cameroun).*
+*PL. 11. – Dorstenia turbinata Engl.: 1, branchlet; 2, leaf; 3, stipules; 4, infl.; 5, staminate flowers; 6, pistillate flower (1, Leeuwenberg 9138, Cameroon; 2, Le Testu 2181; 3, 5, 6, Le Testu 5577; 4, 4, Le Testu 2141; 5-6, Leeuwenberg 8753, Cameroon).*
 
 ## Notes
 

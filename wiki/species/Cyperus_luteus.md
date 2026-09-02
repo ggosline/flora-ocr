@@ -7,6 +7,12 @@ family: Cyperaceae
 vol: 44
 pages: 65-66
 source: sources/Cyperaceae_vol44_liteparse
+countries: [Gabon, Madagascar]
+in_region: true
+subdivisions:
+  Gabon: [Ogooué-Maritime]
+habit: "herb"
+altitude_m: "0–2200"
 tags: [species, generated]
 ---
 # *Cyperus luteus* Boeckeler Planche 37

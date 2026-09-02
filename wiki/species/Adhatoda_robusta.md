@@ -7,6 +7,9 @@ family: Acanthaceae
 vol: 13
 pages: 181-182
 source: sources/Acanthaceae_vol13_paddle
+countries: [Cameroon, Cote d'Ivoire, Equatorial Guinea, Nigeria, Togo]
+in_region: true
+habit: "tree"
 tags: [species, generated]
 ---
 # *Adhatoda robusta* C. B. Clarke

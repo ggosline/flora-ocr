@@ -7,6 +7,9 @@ family: Rubiaceae
 vol: 17
 pages: 68-70
 source: sources/Rubiaceae_vol17_paddle
+countries: [Cameroon, Gabon, Uganda]
+in_region: true
+habit: "shrub"
 tags: [species, generated]
 ---
 # *Bertiera globiceps* K. Schum.
@@ -47,7 +50,7 @@ Thollon 1271, Loango (j. bout. oct.).
 
 ![Bertiera globiceps](../sources/Rubiaceae_vol17_paddle/figures/fig_015_p0069.png)
 
-*PL. 15. — Bertiera globiceps K. Schum.: 1, inflorescence × 0,75 (N. H. 3218); 2, stipule (N. H. 3822); 21, id. (N. H. 689); 3, fleur × 5 (S. F. 1173, Cam.); 4, 5, 6, étamine, style et disque (Staudt 128); 7, infrutescence (N. H. 3822); 71, id. (N. H. 689), chez la var. bityensis (Wernh.) N. Hallé; 8, graine × 13 (N. H. 2604). — B. sphaerica N. Hallé (N. H. 4744): 9, vieille inflorescence × 0,75; 10, stipules; 11, fruit; 12, graine × 13.*
+*PL. 15. — Bertiera globiceps K. Schum.: 1, inflorescence × 0,75 (N. H. 3218); 2, stipule (N. H. 3822); 21, id. (N. H. 689); 3, flower × 5 (S. F. 1173, Cam.); 4, 5, 6, stamen, style and disk (Staudt 128); 7, infrutescence (N. H. 3822); 71, id. (N. H. 689), in var. bityensis (Wernh.) N. Hallé; 8, seed × 13 (N. H. 2604). — B. sphaerica N. Hallé (N. H. 4744): 9, old inflorescence × 0,75; 10, stipules; 11, fruit; 12, seed × 13.*
 
 ## Notes
 

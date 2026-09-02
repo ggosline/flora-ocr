@@ -7,6 +7,9 @@ family: Sapindaceae
 vol: 23
 pages: 122-123
 source: sources/Sapindaceae_vol23_paddle
+countries: [Democratic Republic of the Congo]
+in_region: true
+habit: "tree"
 tags: [species, generated]
 ---
 # *Pancovia floribunda* Pellegrin
@@ -37,7 +40,7 @@ Chevalier 26963, Agonenzorck, haut Komo (fl., oct.); 26964, eod. loc. (fr., oct.
 
 ![Pancovia floribunda](../sources/Sapindaceae_vol23_paddle/figures/fig_028_p0121.png)
 
-*PL. 28. — Pancovia pedicellaris Radlk. Gilg (Staudt 596) : 1, foliole 2° paire, 14 × 5,2 cm et inflorescence; 2, cymules; 3, fleur ♀; 4, 4′, pétale, 4 mm, face interne et coupe. — Pancovia bijuga Willd. (Aubréville 154) : 5, foliole 2° paire, 16 × 6 cm; 5′, inflorescences 1,5 cm; 6, fleur; 7, 7′, pétale, 6 mm, face interne et coupe intéressant les ligules. — Pancovia floribunda Pellegrin (Le Testu 204) : 8, foliole 3° paire, 18 × 5,2 cm; 9, inflorescence sur vieux bois, 16 cm; 9′, cymule; 10, disque et androcée; 11, 11′, pétales, 5 mm, face interne et coupe intéressant les ligules; 12, 12′, ligules de pétales (12, sans excroissance).*
+*PL. 28. — Pancovia pedicellaris Radlk. Gilg (Staudt 596) : 1, leaflet 2nd pair, 14 × 5.2 cm and inflorescence; 2, cymules; 3, flower ♀; 4, 4′, petal, 4 mm, internal surface and section. — Pancovia bijuga Willd. (Aubréville 154) : 5, leaflet 2nd pair, 16 × 6 cm; 5′, inflorescences 1.5 cm; 6, flower; 7, 7′, petal, 6 mm, internal surface and section showing the ligules. — Pancovia floribunda Pellegrin (Le Testu 204) : 8, leaflet 3rd pair, 18 × 5.2 cm; 9, inflorescence on old wood, 16 cm; 9′, cymule; 10, disk and androecium; 11, 11′, petals, 5 mm, internal surface and section showing the ligules; 12, 12′, ligules of petals (12, without protuberance).*
 
 ## Notes
 

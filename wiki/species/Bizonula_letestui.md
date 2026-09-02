@@ -7,6 +7,9 @@ family: Sapindaceae
 vol: 23
 pages: 147-152
 source: sources/Sapindaceae_vol23_paddle
+countries: [Madagascar]
+in_region: false
+habit: "tree"
 tags: [species, generated]
 ---
 # *Bizonula letestui* Pellegrin
@@ -98,7 +101,7 @@ Represented by 5 genera in Africa, this tribe comprises on the other hand 35 in 
 
 ![Bizonula letestui](../sources/Sapindaceae_vol23_paddle/figures/fig_035_p0149.png)
 
-*PL. 34. — Bizonula letestui Pellegrin (Le Testu 1659) : 1, foliole face supérieure; 1', folioles face inférieure; 1", extrémité d'une foliole face inférieure; 1", poils étoilés 0,5 mm; 2, rameau florifère, 4 cm; 3, fleur 12 mm et sa coupe; 4, 4', pétale 3 mm, faces interne, externe et coupe; 5, disque; 6, étamine, face interne et externe. — Zanha golungensis Hiern (7-7', Le Testu 4598; 7"-8", Tisserant 2104; 9-12', Chevalier 23797) : 7, sommet de rameau fertile à inflorescence mâle; 7, schéma des cymes; 7", sommet d'une cyme; 8, 8', fleur épanouie, coupe d'un bouton ♂ et disque; 9, 9', feuille, foliole 8 cm et infrutescence, baie 20 mm; 10, coupe d'une baie; 11, nervation du légument séminal; 12, 12', embryons.*
+*PL. 34. — Bizonula letestui Pellegrin (Le Testu 1659) : 1, leaflet upper surface; 1', leaflets lower surface; 1", tip of a leaflet lower surface; 1", stellate hairs 0.5 mm; 2, flowering branch, 4 cm; 3, flower 12 mm and its section; 4, 4', petal 3 mm, internal, external and section faces; 5, disc; 6, stamen, internal and external face. — Zanha golungensis Hiern (7-7', Le Testu 4598; 7"-8", Tisserant 2104; 9-12', Chevalier 23797) : 7, apex of fertile branch with male inflorescence; 7, diagram of cymes; 7", apex of a cyme; 8, 8', expanded flower, section of a ♂ bud and disc; 9, 9', leaf, leaflet 8 cm and fruit-bearing inflorescence, berry 20 mm; 10, section of a berry; 11, venation of the seed coat; 12, 12', embryos.*
 
 ## Notes
 

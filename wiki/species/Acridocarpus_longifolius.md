@@ -7,6 +7,9 @@ family: Malpighiaceae
 vol: 21
 pages: 8-11
 source: sources/Malpighiaceae_vol21_paddle
+countries: [Democratic Republic of the Congo, Gabon]
+in_region: true
+habitat: [riverine]
 tags: [species, generated]
 ---
 # *Acridocarpus longifolius* (G. Don) Hooker fil.

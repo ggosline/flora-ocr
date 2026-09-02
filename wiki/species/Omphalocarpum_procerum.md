@@ -8,18 +8,14 @@ synonyms:
   - O. pierreanum Engl.
   - O. congoense Pierre ex Engl.
   - O. laurentii De Wild.
-habit: tree
-habitat: [humid forest]
-altitude_m: ""
-countries: [Gabon, Ghana]
-subdivisions:
-  Gabon: [Nyanga]
 range_note: "Congo Basin"
-in_region: true
 treatments:
   - vol: 1
     pages: "80-82"
     source: sources/Sapotaceae_vol01_paddle
+countries: [Gabon, Guinea]
+in_region: true
+habit: "tree"
 tags: [species]
 ---
 

@@ -7,6 +7,9 @@ family: Zingiberaceae
 vol: 09
 pages: 30-31
 source: sources/Zingiberaceae_vol09_paddle
+countries: [Cameroon, Gabon]
+in_region: true
+habit: "herb"
 tags: [species, generated]
 ---
 # *Renalmia cabraei* De Wild. et Th. Dur.

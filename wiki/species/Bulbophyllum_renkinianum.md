@@ -7,6 +7,9 @@ family: Orchidaceae
 vol: 36
 pages: 163-165
 source: sources/Orchidaceae_vol36_paddle
+countries: [Gabon]
+in_region: true
+habitat: [secondary forest]
 tags: [species, generated]
 ---
 # *Bulbophyllum renkinianum* (Laurent) De Wild.
@@ -45,7 +48,7 @@ Le Testu 5772, falls of the Mboumi at Mbigou (fl., Nov.), BR!, P!; 5772a, old vi
 
 ![Bulbophyllum renkinianum](../sources/Orchidaceae_vol36_paddle/figures/fig_085_p0166.png)
 
-*PL. 80. – Bulbophyllum renkinianum (Laurent) De Wild.: A, vue générale ; B, fleur ; C, pièces florales ; D, labelle ; E, labelle et gynostème en position naturelle, vue latérale ; F, anthère ; G, pollinies (A-G, ex VERMEULEN, 1987).*
+*PL. 80. – Bulbophyllum renkinianum (Laurent) De Wild.: A, general view ; B, flower ; C, floral parts ; D, labellum ; E, labellum and gynostemium in natural position, lateral view ; F, anther ; G, pollinia (A-G, ex VERMEULEN, 1987).*
 
 ## Notes
 

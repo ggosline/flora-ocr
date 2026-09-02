@@ -7,6 +7,10 @@ family: Loganiaceae
 vol: 19
 pages: 10-11
 source: sources/Loganiaceae_vol19_paddle
+countries: [Angola, Cameroon, Nigeria, Zambia]
+in_region: true
+habit: "tree"
+habitat: [riverine]
 tags: [species, generated]
 ---
 # *Anthocleista liebrechtsiana* De Wild. & Th. Dur.
@@ -63,7 +67,7 @@ Hallé N. & Le Thomas 567, Bélinga (fl., août).
 
 ![Anthocleista liebrechtsiana](../sources/Loganiaceae_vol19_paddle/figures/fig_004_p0021.png)
 
-*PL. 4. — Anthocleista liebrechtsiana De Wild. et Th. Dur. : 1, rameau; 2 et 3, jeunes boutons; 4, bouton entrouvert; 5, fleur; 6, fruit. (1-6 × ½). (1-3 : d'après Lebrun 1672; 4-5 : d'après Leemans 219; 6 : d'après J. Léonard 675; tous éch. Congo-Kinshasa. BR).*
+*PL. 4. — Anthocleista liebrechtsiana De Wild. et Th. Dur. : 1, branch; 2 and 3, young buds; 4, partially open bud; 5, flower; 6, fruit. (1-6 × ½). (1-3 : after Lebrun 1672; 4-5 : after Leemans 219; 6 : after J. Léonard 675; all from Congo-Kinshasa. BR).*
 
 ## Notes
 

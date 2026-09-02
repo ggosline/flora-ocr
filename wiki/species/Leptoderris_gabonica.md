@@ -7,6 +7,11 @@ family: Leguminosae
 vol: 49
 pages: 230-232
 source: sources/Millettiaspeciesfabaceae_vol49_liteparse
+countries: [Gabon]
+in_region: true
+subdivisions:
+  Gabon: [Estuaire]
+habitat: [secondary forest]
 tags: [species, generated]
 ---
 # *Leptoderris gabonica* Breteler, sp. nov. Planche 75

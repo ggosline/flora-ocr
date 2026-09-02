@@ -7,6 +7,11 @@ family: Ochnaceae
 vol: 48
 pages: 87-89
 source: sources/Ochnaceae_vol48_liteparse
+countries: [Angola, Cameroon, Central African Republic, Democratic Republic of the Congo, Gabon, Republic of the Congo, Zambia]
+in_region: true
+habit: "tree"
+habitat: [secondary forest]
+altitude_m: "600"
 tags: [species, generated]
 ---
 # *Rhabdophyllum welwitschii* Tiegh. Planche 25

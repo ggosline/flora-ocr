@@ -7,6 +7,13 @@ family: Passifloraceae
 vol: 46
 pages: 87-89
 source: sources/Passifloraceae_vol46_liteparse
+countries: [Angola, Cameroon, Democratic Republic of the Congo, Gabon, Ghana, Uganda]
+in_region: true
+subdivisions:
+  Gabon: [Nyanga, Ogooué-Lolo]
+habit: "tree"
+habitat: [gallery forest, secondary forest]
+altitude_m: "100–300"
 tags: [species, generated]
 ---
 # *Paropsia guineensis* Oliv. Planche 35

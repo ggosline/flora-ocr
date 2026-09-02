@@ -7,6 +7,10 @@ family: Begoniaceae
 vol: 39
 pages: 84-86
 source: sources/Begoniaceae_vol39_liteparse
+countries: [Cameroon, Equatorial Guinea, Gabon]
+in_region: true
+habit: "epiphyte"
+altitude_m: "0–700"
 tags: [species, generated]
 ---
 # *Begonia elaeagnifolia* Hook.f. Planche 39

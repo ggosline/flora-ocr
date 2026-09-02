@@ -7,6 +7,11 @@ family: Putranjivaceae
 vol: 57
 pages: 134-135
 source: sources/Putranjivaceae_vol57_paddle
+countries: [Angola, Cameroon, Cote d'Ivoire, Democratic Republic of the Congo, Equatorial Guinea, Gabon, Ghana, Guinea, Liberia, Nigeria, Republic of the Congo]
+in_region: true
+subdivisions:
+  Gabon: [Haut-Ogooué, Ngounié, Ogooué-Ivindo, Ogooué-Lolo, Woleu-Ntem]
+habit: "tree"
 tags: [species, generated]
 ---
 # *Drypetes chevalieri* Beille

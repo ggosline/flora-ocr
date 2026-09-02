@@ -7,6 +7,8 @@ family: Orchidaceae
 vol: 37
 pages: 24-27
 source: sources/Orchidaceae_vol37_paddle
+countries: [Burundi, Cameroon, Cote d'Ivoire, Democratic Republic of the Congo, Equatorial Guinea, Gabon, Kenya, Madagascar, Malawi, Mozambique, Rwanda, Tanzania, Uganda, Zimbabwe]
+in_region: true
 tags: [species, generated]
 ---
 # *Polystachya testuana* Summerh.
@@ -74,7 +76,7 @@ Le Testu 5407, Mtoumi Falls at Mbigou (fl. Apr.), P!; 6467, Haute Ngounyé, Boum
 
 ![Polystachya testuana](../sources/Orchidaceae_vol37_paddle/figures/fig_005_p0026.png)
 
-*PL. 112. – Polystachya testuana Summerh. : A, fleur et bractée florale ; B, labelle ; C, sépale dorsal ; D, pétale ; E, sépale latéral. – Polystachya cultriformis (Thouars) Spreng. : F, fleur ; G, labelle ; H, sépale dorsal, face abaxiale ; I, pétale ; J, sépale latéral, face abaxiale (A-E, Le Testu 5706, P ; F-J, Le Testu 6467, P).*
+*PL. 112. – Polystachya testuana Summerh. : A, flower and floral bract ; B, lip ; C, dorsal sepal ; D, petal ; E, lateral sepal. – Polystachya cultriformis (Thouars) Spreng. : F, flower ; G, lip ; H, dorsal sepal, abaxial surface ; I, petal ; J, lateral sepal, abaxial surface (A-E, Le Testu 5706, P ; F-J, Le Testu 6467, P).*
 
 ![Polystachya testuana](../sources/Orchidaceae_vol37_paddle/figures/fig_124_p0248.png)
 

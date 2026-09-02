@@ -7,6 +7,12 @@ family: Cyperaceae
 vol: 44
 pages: 109-110
 source: sources/Cyperaceae_vol44_liteparse
+countries: [Gabon]
+in_region: true
+subdivisions:
+  Gabon: [Haut-Ogooué, Ngounié, Nyanga, Ogooué-Ivindo, Ogooué-Maritime]
+habit: "herb"
+altitude_m: "100–600"
 tags: [species, generated]
 ---
 # *Cyperus mapanioides* C.B.Clarke Planche 68

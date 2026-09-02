@@ -7,6 +7,13 @@ family: Dracaenaceae
 vol: 54
 pages: 63-65
 source: sources/Dracaenaceae_vol54_liteparse
+countries: [Cameroon, Central African Republic, Democratic Republic of the Congo, Equatorial Guinea, Gabon, Nigeria, Republic of the Congo]
+in_region: true
+subdivisions:
+  Gabon: [Estuaire, Ogooué-Ivindo, Ogooué-Maritime, Woleu-Ntem]
+habit: "herb"
+habitat: [coastal, rocky ground]
+altitude_m: "0–25"
 tags: [species, generated]
 ---
 # *Sansevieria aubrytiana* Carrière

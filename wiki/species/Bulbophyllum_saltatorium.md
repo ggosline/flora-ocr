@@ -7,6 +7,9 @@ family: Orchidaceae
 vol: 36
 pages: 143-145
 source: sources/Orchidaceae_vol36_paddle
+countries: [Angola, Cameroon, Cote d'Ivoire, Equatorial Guinea, Gabon, Ghana, Liberia, Nigeria, Sierra Leone]
+in_region: true
+habitat: [primary forest]
 tags: [species, generated]
 ---
 # *Bulbophyllum saltatorium* Lindl.
@@ -57,7 +60,7 @@ already collected in Gabon, its flowers are larger than those of the typical var
 
 ![Bulbophyllum saltatorium](../sources/Orchidaceae_vol36_paddle/figures/fig_074_p0146.png)
 
-*PL. 69. – Bulbophyllum saltatorium Lindl. var. calamarium (Lindl.) J.J.Verm.: A, vue générale ; B, fleur ; C, pièces florales ; D, labelle ; E, labelle et gynostème en position naturelle, vue latérale ; F, anthère ; G, pollinies (A-G, ex VERMEULEN, 1987).*
+*PL. 69. – Bulbophyllum saltatorium Lindl. var. calamarium (Lindl.) J.J.Verm.: A, general view ; B, flower ; C, floral parts ; D, lip ; E, lip and gynosteme in natural position, lateral view ; F, anther ; G, pollinia (A-G, ex VERMEULEN, 1987).*
 
 ## Notes
 

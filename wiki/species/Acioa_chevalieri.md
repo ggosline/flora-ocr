@@ -7,6 +7,10 @@ family: Scytopetalaceae
 vol: 24
 pages: 21-24
 source: sources/Chrysobalanaceae_vol24_paddle
+countries: [Gabon]
+in_region: true
+habit: "tree"
+habitat: [riverine]
 tags: [species, generated]
 ---
 # *Acioa chevalieri* De Wildeman
@@ -47,7 +51,7 @@ Dybowsky 118, lac Awounga (Avanga? 50 km WSW Lambaréné) (fl., fr., août). Fle
 
 ![Acioa chevalieri](../sources/Chrysobalanaceae_vol24_paddle/figures/fig_004_p0023.png)
 
-*PL. 4. — Acioa chevalieri De Wild.: 1, rameau avec fleurs × 2/3; 2, acumen fol. dessous × 2/3; 3, stipule × 3; 4 et 4', portion d'axe infl. avec bractées et face ext. bractée × 4; 5, ramification infl. × 1; 6, bractéoles × 4; 7, bouton fl. × 2; 8, fleur (pét. excl.) × 3/2. (Chevalier 26665).*
+*PL. 4. — Acioa chevalieri De Wild.: 1, branch with flowers × 2/3; 2, leaf acumen below × 2/3; 3, stipule × 3; 4 and 4', portion of infl. axis with bracts and outer surface of bract × 4; 5, infl. branching × 1; 6, bracteoles × 4; 7, flower bud × 2; 8, flower (petals excl.) × 3/2. (Chevalier 26665).*
 
 ## Notes
 

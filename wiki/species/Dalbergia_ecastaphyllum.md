@@ -7,6 +7,10 @@ family: Leguminosae
 vol: 49
 pages: 123-125
 source: sources/Millettiaspeciesfabaceae_vol49_liteparse
+countries: [Angola, Benin, Cameroon, Cote d'Ivoire, Democratic Republic of the Congo, Equatorial Guinea, Gabon, Ghana, Guinea, Guinea-Bissau, Liberia, Nigeria, Republic of the Congo, Sao Tome and Principe, Senegal, Sierra Leone, Togo]
+in_region: true
+habit: "liana"
+habitat: [mangrove]
 tags: [species, generated]
 ---
 # *Dalbergia ecastaphyllum* (L.) Taub. Planche 37

@@ -7,6 +7,9 @@ family: Connaraceae
 vol: 33
 pages: 135-139
 source: sources/Connaraceae_vol33_paddle
+countries: [Angola, Guinea-Bissau, Kenya, Mozambique]
+in_region: true
+habitat: [riverine]
 tags: [species, generated]
 ---
 # *Rourea thomsonii* (Baker) Jongkind

@@ -53,7 +53,7 @@ Klaine 44, Libreville.
 
 ![Albizia lebbeck](../sources/Leguminosae_vol31_paddle/figures/fig_050_p0158.png)
 
-*PL. 38. – Albizia lebbeck (L.) Benth.: 1, aspect général × 4/5; 2, foliole, face inférieure, détail × 3.5; 3, pétiole, base × 2.5; 4, rachis, sommet × 2.5; 5, fleur basale × 4; 6, fleur sommitale × 4; 7, fruit × 4/5; 8, graine × 2.5. (Chevalier 23425 (Dahomey)).*
+*PL. 38. – Albizia lebbeck (L.) Benth.: 1, general aspect × 4/5; 2, leaflet, lower surface, detail × 3.5; 3, petiole, base × 2.5; 4, rachis, apex × 2.5; 5, basal flower × 4; 6, apical flower × 4; 7, fruit × 4/5; 8, seed × 2.5. (Chevalier 23425 (Dahomey)).*
 
 ## Notes
 

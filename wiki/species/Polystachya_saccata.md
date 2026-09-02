@@ -7,6 +7,9 @@ family: Orchidaceae
 vol: 37
 pages: 19-21
 source: sources/Orchidaceae_vol37_paddle
+countries: [Gabon, Guinea, Guinea-Bissau, Nigeria]
+in_region: true
+habitat: [savanna]
 tags: [species, generated]
 ---
 # *Polystachya saccata* (Finet) Rolfe
@@ -37,7 +40,7 @@ Leroy s.n., s.loc. (fl. Août), P!
 
 ![Polystachya saccata](../sources/Orchidaceae_vol37_paddle/figures/fig_002_p0018.png)
 
-*PL. 109. – Polystachya saccata (Finet) Rolfe : A, fleur et bractée florale ; B, C, labelle ; D, sépale dorsal ; E, pétale ; F, sépale latéral. – Polystachya pobeguinii (Finet) Rolfe : G, fleur et bractée florale ; H, labelle ; I, sépale dorsal ; J, pétale ; K, sépale latéral (A-F, Sanford 6296, P ; G-K, Letouzey 10000, P).*
+*PL. 109. – Polystachya saccata (Finet) Rolfe : A, flower and floral bract ; B, C, labellum ; D, dorsal sepal ; E, petal ; F, lateral sepal. – Polystachya pobeguinii (Finet) Rolfe : G, flower and floral bract ; H, labellum ; I, dorsal sepal ; J, petal ; K, lateral sepal (A-F, Sanford 6296, P ; G-K, Letouzey 10000, P).*
 
 ![Polystachya saccata](../sources/Orchidaceae_vol37_paddle/figures/fig_003_p0020.png)
 

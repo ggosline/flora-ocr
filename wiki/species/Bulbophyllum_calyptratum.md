@@ -7,6 +7,9 @@ family: Orchidaceae
 vol: 36
 pages: 149-151
 source: sources/Orchidaceae_vol36_paddle
+countries: [Cameroon, Equatorial Guinea, Gabon, Guinea]
+in_region: true
+habitat: [mangrove, secondary forest, evergreen forest]
 tags: [species, generated]
 ---
 # *Bulbophyllum calyptratum* Kraenzl.

@@ -7,6 +7,12 @@ family: Phyllanthaceae
 vol: 43
 pages: 72-73
 source: sources/Phyllanthaceae_vol43_liteparse
+countries: [Gabon]
+in_region: true
+subdivisions:
+  Gabon: [Estuaire, Ngounié, Ogooué-Ivindo, Ogooué-Lolo, Ogooué-Maritime, Woleu-Ntem]
+habit: "herb"
+altitude_m: "0–650"
 tags: [species, generated]
 ---
 # *Phyllanthus urinaria* L.

@@ -7,6 +7,9 @@ family: Rubiaceae
 vol: 12
 pages: 104-106
 source: sources/Rubiaceae_vol12_paddle
+countries: [Democratic Republic of the Congo, Gabon, Senegal]
+in_region: true
+habit: "herb"
 tags: [species, generated]
 ---
 # *Oldenlandia capensis* L. f. var. pleiosepala Bremek.
@@ -50,7 +53,7 @@ J. Anton-Smith : 273, Booué (fl. et j. fr. août), avec dét. erronée : O. lan
 
 ![Oldenlandia capensis](../sources/Rubiaceae_vol12_paddle/figures/fig_023_p0105.png)
 
-*PL. 17. — 1, Oldenlandia capensis L. f. var. pleiosepala Brem., rameau (Anton-Smith 273). — 2, O. affinis (R. et S.) DC., rameau et graine (Davies 249). — 3, O. corymbosa L., infrutescence et fleur (Thollon 410). — 4, O. lancifolia (Sch.) DC., rameau, fleur en coupe et graine (N. Hallé 1988). — 5, O. herbacea (L.) Roxb. fruits et graine (Dybowski 82). — 6, O. goreensis (DC.) Summ. var. trichocaula Bremek. infrutescence, fruit et graine (A. Chev. 4322).*
+*PL. 17. — 1, Oldenlandia capensis L. f. var. pleiosepala Brem., branch (Anton-Smith 273). — 2, O. affinis (R. et S.) DC., branch and seed (Davies 249). — 3, O. corymbosa L., infructescence and flower (Thollon 410). — 4, O. lancifolia (Sch.) DC., branch, flower in section and seed (N. Hallé 1988). — 5, O. herbacea (L.) Roxb. fruits and seed (Dybowski 82). — 6, O. goreensis (DC.) Summ. var. trichocaula Bremek. infructescence, fruit and seed (A. Chev. 4322).*
 
 ## Notes
 

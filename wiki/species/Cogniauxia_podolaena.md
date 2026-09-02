@@ -7,6 +7,13 @@ family: Cucurbitaceae
 vol: 57
 pages: 57-60
 source: sources/Cucurbitaceae_vol57_paddle
+countries: [Angola, Cameroon, Democratic Republic of the Congo, Gabon]
+in_region: true
+subdivisions:
+  Gabon: [Estuaire, Haut-Ogooué, Ngounié, Ogooué-Ivindo, Ogooué-Lolo, Ogooué-Maritime, Woleu-Ntem]
+habit: "herb"
+habitat: [riverine]
+altitude_m: "0–600"
 tags: [species, generated]
 ---
 # *Cogniauxia podolaena* Baill.

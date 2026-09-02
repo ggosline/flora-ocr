@@ -7,6 +7,12 @@ family: Commelinaceae
 vol: 55
 pages: 40-41
 source: sources/Commelinaceae_vol55_liteparse
+countries: [Cameroon, Equatorial Guinea, Gabon, Nigeria]
+in_region: true
+subdivisions:
+  Gabon: [Estuaire, Ngounié, Ogooué-Ivindo, Woleu-Ntem]
+habit: "herb"
+altitude_m: "500"
 tags: [species, generated]
 ---
 # *Floscopa mannii* C.B.Clarke Figure 3(A, B)

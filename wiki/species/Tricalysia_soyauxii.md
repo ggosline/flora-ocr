@@ -7,6 +7,9 @@ family: Rubiaceae
 vol: 17
 pages: 304-308
 source: sources/Rubiaceae_vol17_paddle
+countries: [Cameroon, Gabon]
+in_region: true
+habit: "shrub"
 tags: [species, generated]
 ---
 # *Tricalysia soyauxii* K. Schum.
@@ -17,15 +20,13 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 a. — var. Soyauxii
 
-Arbuste de 2-9 m de hauteur à appareil végétatif glabre. Stipules à partie élargie haute de 1-1,5 mm, à rostre aigu de 0,5-1 mm. Pétiole de 4-9 mm. Limbe chartacé roussâtre d'aspect terne de 9-17 × 3-5 (7) cm, à base aiguë, à sommet acuminé. 5-7 (8) paires de nervures secondaires; intersecondaires peu apparentes ou indistinctes. Petites domaties à ostiole pauvrement ciliée.
+Shrub 2–9 m tall with glabrous vegetative apparatus. Stipules with enlarged portion 1–1.5 mm high, with acute rostrum 0.5–1 mm. Petiole 4–9 mm. Blade chartaceous, reddish-brown, dull in appearance, 9–17 × 3–5 (7) cm, acute at base, acuminate at apex. 5–7 (8) pairs of secondary nerves; intersecondary nerves scarcely apparent or indistinct. Small domatia with poorly ciliate ostiole.
 
-Inflorescences axillaires sur rameaux juvéniles ou âgés, en cymules pauciflores parfois groupées en glomérules pluriflores. Petits axes et cupules bractéales pubérulents, les segments d'axes atteignant 0,5 à 2 mm de longueur. Calice cupuliforme médiocrement pubérulent ou presque glabre, à limbe tronqué presque indistinctement denticulé haut de 1 mm environ. Corolle blanche à tube de 3 × 1 mm à 4-5 lobes aigus et glabres extérieurement dans le bouton, pubescents vers la gorge à la face supérieure. 5 étamines à filet long de 1 mm; anthère glabre de 3 mm, à connectif apiculé, insérée au-dessous du tiers inférieur. Style de 4-5 mm, glabre, à 2 lobes linéaires de 2 mm. 2 loges; (2) 3 ovules par loge.
+Inflorescences axillary on juvenile or older branchlets, in pauciflorous cymules sometimes grouped into pluriflorous glomerules. Small axes and bracteolar cupules puberulent, the axis segments reaching 0.5 to 2 mm in length. Calyx cupuliform, moderately puberulent or nearly glabrous, with limb truncate, almost indistinctly denticulate, about 1 mm high. Corolla white, with tube 3 × 1 mm with 4–5 acute lobes, glabrous externally in bud, pubescent toward the throat on the upper face. 5 stamens with filament 1 mm long; anther glabrous, 3 mm, with apiculate connective, inserted below the lower third. Style 4–5 mm, glabrous, with 2 linear lobes 2 mm. 2 locules; (2) 3 ovules per locule.
 
-Fruit globuleux orangé puis rouge à maturité, de 5-8 mm de diamètre, à paroi de moins de 1 mm d'épaisseur, à pédoncule non accrescent. 3-4 graines dans un fruit, noires, à testa finement chagriné, longues de 3,5 mm, convexes sur la face opposée au hile. Ce dernier prolongé en cicatrice linéaire, longue de 3 mm.
+Fruit globose, orange then red at maturity, 5–8 mm in diameter, with wall less than 1 mm thick, with non-accrescent pedicel. 3–4 seeds per fruit, black, with finely wrinkled testa, 3.5 mm long, convex on the face opposite the hilum. The latter extended into a linear scar, 3 mm long.
 
 ## Type
 
@@ -41,45 +42,43 @@ Walker I (P), bords de la Tsimba, Saint-Martin (fr. déc. 1938), « Café sauvag
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Cameroon (Bates 1718 and 1085 BM!, Bitya) and Gabon.
 
-Cameroun (Bates 1718 et 1085 BM!, Bitya) et Gabon.
+OTHER MATERIAL STUDIED:
 
-AUTRE MATÉRIEL ÉTUDIÉ :
+F. Fleury 26412, between Lake Ayem and Nkogo on the Ogooué (fr. Aug.), in forest, height 1.50 m.
 
-F. Fleury 26412, entre le lac Ayem et Nkogo sur l'Ogooué (fr. août), dans la forêt, hauteur 1,50 m.
-
-N. Hallé 776, La Bokoué, Ekouk (fl. juill.); 2142, 2284, Haut-Abanga (fl. juin).
+N. Hallé 776, La Bokoué, Ekouk (fl. July); 2142, 2284, Haut-Abanga (fl. June).
 
 c. — var. pedunculosa N. Hallé, var. nov.
 
 Antheræ glabræ; stylus puberulus; locula 2-ovulata; corolla (4) 6-mera; calyx truncatus; cymæ pauci vel plurifloræ floribus pedunculatis.
 
-Arbrisseau de 1 à 3 m de hauteur et 1 cm de diamètre. Diffère de la variété précédente par ses anthères tout à fait glabres et de la var. Soyauxii par ses fleurs portées par des pédoncules atteignant 3-5 mm sous l'ultime cupule bractéale qui protège l'ovaire. Les loges sont 2-ovulées, la corolle est souvent 6-mère.
+Shrublet 1 to 3 m tall and 1 cm in diameter. Differs from the preceding variety by its anthers entirely glabrous and from var. Soyauxii by its flowers borne on pedicels reaching 3–5 mm below the ultimate bracteolar cupule that protects the ovary. The locules are 2-ovulate, the corolla is often 6-merous.
 
-AUTRE MATÉRIEL ÉTUDIÉ :
+OTHER MATERIAL STUDIED:
 
-N. Hallé 1300, Oyem sur Ivindo (fr. fév.); 1403, Makokou (fr. mars); 2762, 2968, 3012, 3442, 3456, 3541, 3875, 4017, 4198, Bélinga (fl. juin, juill. et déc.; fr. oct.-déc.).
+N. Hallé 1300, Oyem on Ivindo (fr. Feb.); 1403, Makokou (fr. Mar.); 2762, 2968, 3012, 3442, 3456, 3541, 3875, 4017, 4198, Bélinga (fl. June, July and Dec.; fr. Oct.–Dec.).
 
-N. Hallé et J.-F. Villiers 5172, mont Mvélakéné W de Méla (fr. fév.). G. Le Testu 9221, Haut-Ntem (fl. août) (P ex BM).
+N. Hallé and J.-F. Villiers 5172, Mont Mvélakéné W of Méla (fr. Feb.). G. Le Testu 9221, Haut-Ntem (fl. Aug.) (P ex BM).
 
 d. — var. yangambiensis N. Hallé, var. nov.
 
 Antheræ glabræ; stylus glaber; locula 2 vel 3-ovulata; corolla 6-mera; calyx denticulatus; cymæ pluriflora floribus pedunculatis.
 
-Petit arbre atteignant 10 cm de diamètre, différent de la variété précédente par son style tout à fait glabre, atteignant 12 mm de longueur, par son calice à limbe plus profond, d'env. 2 mm, et plus distinctement denticulé; pétiole un peu plus long atteignant 8-17 mm.
+Small tree reaching 10 cm in diameter, different from the preceding variety by its style entirely glabrous, reaching 12 mm in length, by its calyx with deeper limb, ca. 2 mm, and more distinctly denticulate; petiole somewhat longer, reaching 8–17 mm.
 
-Variété inconnue au Gabon.
+Variety unknown from Gabon.
 
 e. — var. Walkeriana N. Hallé, var. nov.
 
 Folia obovata, subcordata, subsessilia; calyx truncatus cupulatus 1 mm altus. Fructus subsessilis, glaber, bracteolis basalibus cupuliformibus puberulis munitus.
 
-Rameaux grêles; entrenœuds glabres; stipules réduits; pétiole de 1-2 mm. Feuilles subsessiles d'aspect terne, ochracégrisâtre à sec, longuement obovées, de 12-16 × 4,5-5 cm; base subcordée assez étroite; sommet étroitement acuminé. 7-9 paires de nervures secondaires. Nervures intersecondaires à peu près indistinctes. Pas de domaties axillaires.
+Branchlets slender; internodes glabrous; stipules reduced; petiole 1–2 mm. Leaves subsessile, dull in appearance, ochraceous-grayish when dry, elongate obovate, 12–16 × 4.5–5 cm; base subcordate rather narrow; apex narrowly acuminate. 7–9 pairs of secondary nerves. Intersecondary nerves approximately indistinct. No axillary domatia.
 
-Fruits globuleux glabres de 4-6 mm de diamètre à sec, subsessiles, avec des bractéoles basales cupuliformes pubérulentes. Cupule calycinale persistante cylindrique tronquée, profonde de 1 mm. 3 graines dans un fruit, longues de 5 mm, à face convexe opposée au hile, typiques de l'espèce.
+Fruits globose, glabrous, 4–6 mm in diameter when dry, subsessile, with basal cupuliform puberulent bracteoles. Persistent calycine cupule cylindric truncate, 1 mm deep. 3 seeds per fruit, 5 mm long, with convex face opposite the hilum, typical of the species.
 
-Cette variété en l'absence de la corolle et de l'androcée peut cependant être au moins provisoirement rapprochée du Tricalysia Soyauxii var. pilosula.
+This variety, in the absence of the corolla and androecium, may nonetheless be provisionally associated with Tricalysia Soyauxii var. pilosula.
 
 ## Specimens examined
 
@@ -101,7 +100,7 @@ Diffère de la var. Soyauxii par ses feuilles plus longues, par ses anthères un
 
 ![Tricalysia soyauxii](../sources/Rubiaceae_vol17_paddle/figures/fig_073_p0305.png)
 
-*PL. 71. — Tricalysia Soyauxii K. Schum (Soyaux 69) : 1, rameau florifère × 0,75 (Le Testu 7770); 2, fleur × 5; 3, coupe de la fleur; 4, étamine; 5, style; 6, coupe de l'ovaire; 7 et 8, placentas 2 ou 3-ovulés. — Variété Walkeriana N. Hallé (Walker 1) : 9, base du limbe. — Variété pilosula N. Hallé : 10, bouton (N. H. 776); 11, étamine, et 12, pistil (N. H. 1838). — Variété pedunculosa N. Hallé (N. H. 3188) : 13, inflorescences; 14, étamine; 15, jeune style; 16, fruits (N. H. 3456).*
+*PL. 71. — Tricalysia Soyauxii K. Schum (Soyaux 69) : 1, flowering branch × 0,75 (Le Testu 7770); 2, flower × 5; 3, section of flower; 4, stamen; 5, style; 6, section of ovary; 7 and 8, placentae 2 or 3-ovulate. — Variety Walkeriana N. Hallé (Walker 1) : 9, base of limb. — Variety pilosula N. Hallé : 10, bud (N. H. 776); 11, stamen, and 12, pistil (N. H. 1838). — Variety pedunculosa N. Hallé (N. H. 3188) : 13, inflorescences; 14, stamen; 15, young style; 16, fruits (N. H. 3456).*
 
 ## Notes
 

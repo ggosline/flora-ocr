@@ -7,6 +7,9 @@ family: Melastomataceae
 vol: 25
 pages: 10-10
 source: sources/Melastomataceae_vol25_paddle
+countries: [Angola, Guinea, Tanzania]
+in_region: true
+habit: "herb"
 tags: [species, generated]
 ---
 # *Guyonia ciliata* Hooker f.
@@ -39,7 +42,7 @@ Hallé N. 1979 bis, SW de Ndjolé, lit rocheux d'un ruisseau en forêt (mai). Le
 
 ![Guyonia ciliata](../sources/Melastomataceae_vol25_paddle/figures/fig_001_p0009.png)
 
-*PL. 1. — Guyonia ciliata Hook. f. : 1, aspect général × 2/3; 2, fleur moins les pétales × 4; 3, pétale × 6; 4 & 5, étamines, externe et interne × 8; 6, capsule × 4; 7, graine × 20 (Jacques-Félix 179).*
+*PL. 1. — Guyonia ciliata Hook. f. : 1, general aspect × 2/3; 2, flower minus the petals × 4; 3, petal × 6; 4 & 5, stamens, external and internal × 8; 6, capsule × 4; 7, seed × 20 (Jacques-Félix 179).*
 
 ## Notes
 

@@ -7,6 +7,8 @@ family: Lomariopsidaceae
 vol: 08
 pages: 193-194
 source: sources/Lomariopsidaceae_vol08_paddle
+countries: [Angola, Guinea, Madagascar, Uganda]
+in_region: true
 tags: [species, generated]
 ---
 # *Bolbitis auriculata* (Lam.) Alston

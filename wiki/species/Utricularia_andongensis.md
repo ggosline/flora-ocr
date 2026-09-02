@@ -7,6 +7,12 @@ family: Lentibulariaceae
 vol: 54
 pages: 96-96
 source: sources/Lentibulariaceae_vol54_liteparse
+countries: [Angola, Cameroon, Central African Republic, Gabon, Guinea, Liberia, Nigeria, Sierra Leone, Sudan, Tanzania, Uganda, Zambia]
+in_region: true
+subdivisions:
+  Gabon: [Estuaire, Moyen-Ogooué, Ngounié, Ogooué-Ivindo, Ogooué-Maritime, Woleu-Ntem]
+habit: "herb"
+altitude_m: "1800"
 tags: [species, generated]
 ---
 # *Utricularia andongensis* Welw. ex Hiern Planche 31 ; Figure 10(A-C)
@@ -17,21 +23,15 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Cat. afr. pl. 1(4) : 787 (1900). U. tortilis Welw. ex Oliv. var. andongensis (Welw. ex Hiern) Kamieński., Bot. Jahrb. Syst. 33 : 104 (1902). Herbe terrestre ; rhizoïdes et stolons capillaires peu nombreux à la base de la hampe florale. Feuilles 3 à 6, en rosette basale et présentes à l’anthèse, linéaires, jusqu’à 60 ×1,5–5 mm, 3-nervées à plurinervées . Utricules peu nombreux, courtement stipités, globuleux, 0,8–1,1 mm de longueur, glanduleux ; orifice basilaire, à lèvre supérieure munie de 2 appendices subulés. Inflorescence dressée ou rarement volubile, 2–20 cm de longueur, avec 1 à 8 fleurs ; pédoncule glabre ; bractées basifixes, ovales, 1,5–2 mm de longueur, acuminées au sommet, 1- à 3-nervées, au moins 4 fois aussi larges que les bractéoles . Fleur : bractéoles insérées à la base du pédicelle, très étroitement elliptiques-ovales, plus courtes que les bractées ; pédicelle dressé ou ascendant, 1 à 3 fois aussi long que le calice, étroitement ailé ; calice à lobes largement ovales, 1,5–2,5 mm de longueur à l’anthèse, devenant plus longs et relativement plus larges à maturité ; corolle 4–10 mm de longueur , jaune, à lèvre supérieure étroitement oblongue, arrondie, tronquée ou émarginée au sommet, l’inférieure orbiculaire, entière, émarginée ou obscurément 3-crénelée au sommet, palais à peine saillant, obscurément muni de 2 bosses, éperon conique-subulé, aigu, courbé. Fruit largement oblong, comprimé dorsiventralement, plus petit que le calice, déhiscent par une fente longitudinale abaxiale aux bords épaissis dans la moitié supérieure, à graines peu nombreuses. Graine ovoïde, verruqueuse , 0,4–0,6 mm de longueur ; testa plutôt lâche et subéreux, à cellules irrégulières, plus longues que larges.
+Cat. afr. pl. 1(4) : 787 (1900). U. tortilis Welw. ex Oliv. var. andongensis (Welw. ex Hiern) Kamieński., Bot. Jahrb. Syst. 33 : 104 (1902). Terrestrial herb; rhizoids and capillary stolons few at the base of the floral scape. Leaves 3 to 6, in basal rosette and present at anthesis, linear, up to 60 × 1.5–5 mm, 3-nerved to plurinerved. Utricles few, shortly stipitate, globose, 0.8–1.1 mm long, glandular; basal orifice, with upper lip bearing 2 subulate appendages. Inflorescence erect or rarely voluble, 2–20 cm long, with 1 to 8 flowers; peduncle glabrous; bracts basifixed, ovate, 1.5–2 mm long, acuminate at apex, 1- to 3-nerved, at least 4 times as wide as the bracteoles. Flower: bracteoles inserted at base of pedicel, very narrowly elliptic-ovate, shorter than the bracts; pedicel erect or ascending, 1 to 3 times as long as the calyx, narrowly winged; calyx with lobes broadly ovate, 1.5–2.5 mm long at anthesis, becoming longer and relatively wider at maturity; corolla 4–10 mm long, yellow, with upper lip narrowly oblong, rounded, truncate or emarginate at apex, the lower orbicular, entire, emarginate or obscurely 3-crenate at apex, palate scarcely prominent, obscurely bearing 2 gibbosities, spur conical-subulate, acute, curved. Fruit broadly oblong, dorsiventrally compressed, smaller than the calyx, dehiscent by a longitudinal abaxial slit with thickened margins in the upper half, with few seeds. Seed ovoid, verrucose, 0.4–0.6 mm long; testa rather loose and subereous, with irregular cells, longer than wide.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Guinée, Sierra Leone, Libéria, Nigéria, Cameroun, Gabon, République centrafricaine, Sudan, Ouganda, Tanzanie, Zambie, Angola ; au Gabon, observé dans l’Estuaire, le Moyen-Ogooué, la Ngounié, l’Ogooué-Maritime, l’Ogooué-Ivindo et le Woleu-Ntem
+Guinea, Sierra Leone, Liberia, Nigeria, Cameroon, Gabon, Central African Republic, Sudan, Uganda, Tanzania, Zambia, Angola; in Gabon, observed in the Estuaire, the Moyen-Ogooué, the Ngounié, the Ogooué-Maritime, the Ogooué-Ivindo and the Woleu-Ntem.
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-marais, prairies humides, mares et rochers moussus humides ; au Gabon de (5–)30–630(–758) m d’altitude, en Afrique de l’Est jusqu’à 1800 m. B : Taylor (1964, 1972, 1989), Vande weghe et al. (2016). i B liographie
+Marshes, wet grasslands, ponds and wet mossy rocks; in Gabon from (5–)30–630(–758) m altitude, in East Africa up to 1800 m. B: Taylor (1964, 1972, 1989), Vande weghe et al. (2016). Bibliography
 
 ## Notes
 

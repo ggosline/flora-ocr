@@ -7,6 +7,9 @@ family: Combretaceae
 vol: 35
 pages: 75-76
 source: sources/Combretaceae_vol35_paddle
+countries: [Angola, Cameroon, Central African Republic, Gabon, Ghana]
+in_region: true
+habit: "liana"
 tags: [species, generated]
 ---
 # *Combretum paradoxum* Welwitsch ex Lawson
@@ -53,7 +56,7 @@ van der Maesen & de Bruijn 5811, 21 km SW of Lastoursville (fl., Nov.), LBV, WAG
 
 ![Combretum paradoxum](../sources/Combretaceae_vol35_paddle/figures/fig_020_p0074.png)
 
-*PL. 20. – Combretum paradoxum Welw. ex Lawson : A. rameau fructifère × 1/2 ; B. fleur × 8 ; C. fleur, coupe longitudinale ; D. fruit, coupe transversale (A, D, Breteler 1668 ; B, C, J. Louis 1288). – Dessins de N.G. LONGWA reproduits avec l'autorisation du Département des Spermatophytes et Ptéridophytes du Jardin Botanique National de MEISE (Belgique).*
+*PL. 20. – Combretum paradoxum Welw. ex Lawson : A. fruiting branch × 1/2 ; B. flower × 8 ; C. flower, longitudinal section ; D. fruit, transverse section (A, D, Breteler 1668 ; B, C, J. Louis 1288). – Drawings by N.G. LONGWA reproduced with the permission of the Department of Spermatophytes and Pteridophytes of the National Botanical Garden of MEISE (Belgium).*
 
 ## Notes
 

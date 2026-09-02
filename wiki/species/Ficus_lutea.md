@@ -7,6 +7,8 @@ family: Moraceae
 vol: 26
 pages: 196-201
 source: sources/Moraceae_vol26_paddle
+countries: [Angola, Cote d'Ivoire, Democratic Republic of the Congo, Equatorial Guinea, Guinea, Kenya, Madagascar, Nigeria, Sao Tome and Principe, Senegal]
+in_region: true
 tags: [species, generated]
 ---
 # *Ficus lutea* Vahl
@@ -119,7 +121,7 @@ Le troisième sous-groupe est représenté au Gabon par F. ovata. Il est tout à
 
 ![Ficus lutea](../sources/Moraceae_vol26_paddle/figures/fig_058_p0198.png)
 
-*PL. 57. - Ficus lutea Vahl : 1, rameau avec feuilles et figues × 1/3 ; 2, fleur à graine ; 3, fleur staminée (Raynal J. & A. 12292, Cameroun).*
+*PL. 57. - Ficus lutea Vahl : 1, branch with leaves and figs × 1/3 ; 2, seeded flower ; 3, staminate flower (Raynal J. & A. 12292, Cameroon).*
 
 ## Notes
 

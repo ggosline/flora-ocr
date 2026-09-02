@@ -7,6 +7,7 @@ family: Apocynaceae
 vol: 59
 pages: 145-147
 source: sources/Apocynaceae_vol59_liteparse
+habit: "liana"
 tags: [species, generated]
 ---
 # *Landolphia owariensis* P.Beauv. Planche 63

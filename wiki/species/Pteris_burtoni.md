@@ -7,6 +7,8 @@ family: Adiantaceae
 vol: 08
 pages: 116-117
 source: sources/Adiantaceae_vol08_paddle
+countries: [Angola, Equatorial Guinea, Guinea, Nigeria]
+in_region: true
 tags: [species, generated]
 ---
 # *Pteris burtoni* Baker (P.L. XVIII)

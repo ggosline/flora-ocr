@@ -7,6 +7,12 @@ family: Urticaceae
 vol: 51
 pages: 62-64
 source: sources/Urticaceae_vol51_liteparse
+countries: [Cameroon, Democratic Republic of the Congo, Equatorial Guinea, Gabon, Guinea, Malawi, Nigeria, Republic of the Congo, Tanzania]
+in_region: true
+subdivisions:
+  Gabon: [Ngounié, Nyanga, Ogooué-Ivindo]
+habit: "herb"
+altitude_m: "650–700"
 tags: [species, generated]
 ---
 # *Elatostema paivaeanum* Wedd. Planche 25

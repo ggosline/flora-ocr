@@ -6,6 +6,7 @@ family: Rubiaceae
 vol: 12
 pages: 256-257
 source: sources/Rubiaceae_vol12_paddle
+habit: "shrub"
 tags: [species, generated]
 ---
 # *Pauridiantha verticillata*

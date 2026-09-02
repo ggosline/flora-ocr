@@ -6,6 +6,11 @@ genus: Clerodendrum
 vol: 58
 pages: 43-44
 source: sources/Labiataeulmaceaeverbenaceae_vol58_liteparse
+countries: [Angola, Burundi, Cameroon, Central African Republic, Democratic Republic of the Congo, Equatorial Guinea, Gabon, Nigeria, Republic of the Congo]
+in_region: true
+habit: "liana"
+habitat: [swamp forest]
+altitude_m: "5–600"
 tags: [species, generated]
 ---
 # *Clerodendrum splendens* G.Don Figure 3(E, F)

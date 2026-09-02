@@ -7,6 +7,13 @@ family: Scrophulariaceae
 vol: 48
 pages: 139-141
 source: sources/Scrophulariaceae_vol48_liteparse
+countries: [Gabon]
+in_region: true
+subdivisions:
+  Gabon: [Ngounié]
+habit: "herb"
+habitat: [evergreen forest]
+altitude_m: "580"
 tags: [species, generated]
 ---
 # *Torenia daubyi* Eb.Fisch. & O.Lachenaud Planche 46
@@ -17,23 +24,15 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Phytotaxa 125(1) : 42 (2013). Herbe pérenne ; tige rampante à ascendante ou prostrée, 20–28(–30) cm de longueur, glabre. Feuille : pétiole 7–15 mm ; limbe largement ovale, 20–28 × 20–25 mm, acuminé au sommet , marge à 7 ou 8 dents, herbacé, face supérieure et inférieure concolores . Inflorescence : bractées semblables aux feuilles végétatives, chaque bractée au nœud avec une fleur. Fleur : pédicelle 15 mm, s’allongeant en fruit jusqu’à 25 mm ; calice distinctement ailé, tube 7–8 mm de longueur, lobes 3–4 mm de longueur, dis-
-
-tinctement acuminés, glabres ; corolle 13 mm de longueur, rose et blanche, tube 8–9 mm de longueur, lèvre supérieure échancrée, 3(–4) × 3–3,5 mm, rose et blanche, lèvre inférieure 3-lobée, 5 mm de longueur, blanc rosâtre ; étamines aux filets avec un appendice claviforme de 1,8–2 mm de longueur, les adaxiales 2 mm de longueur, anthères égales, 1,5–1,8 mm de longueur, les abaxiales 4–5 mm de longueur ; ovaire 2 mm de longueur ; style 7 mm. Fruit inconnu.
+Phytotaxa 125(1) : 42 (2013). Perennial herb; stem creeping to ascending or prostrate, 20–28(–30) cm in length, glabrous. Leaf: petiole 7–15 mm; blade broadly ovate, 20–28 × 20–25 mm, acuminate at apex, margin with 7 or 8 teeth, herbaceous, upper and lower surfaces concolorous. Inflorescence: bracts similar to vegetative leaves, each bract at the node with one flower. Flower: pedicel 15 mm, elongating in fruit to 25 mm; calyx distinctly winged, tube 7–8 mm in length, lobes 3–4 mm in length, distinctly acuminate, glabrous; corolla 13 mm in length, pink and white, tube 8–9 mm in length, upper lip emarginate, 3(–4) × 3–3.5 mm, pink and white, lower lip 3-lobed, 5 mm in length, whitish pink; stamens with filaments bearing a claviform appendage 1.8–2 mm in length, the adaxial ones 2 mm in length, anthers equal, 1.5–1.8 mm in length, the abaxial ones 4–5 mm in length; ovary 2 mm in length; style 7 mm. Fruit unknown.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-espèce endémique du Gabon, connue jusqu’à présent seulement par le type récolté dans la Ngounié (Parc National de Waka)
+endemic species of Gabon, known hitherto only from the type collected in Ngounié (Waka National Park)
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-forêt ombrophile dense de terre ferme près d’un ruisseau ; à 580 m d’altitude. B : Fischer & Lachenaud (2013). ibliographie
+dense rainforest on terra firme near a stream; at 580 m altitude. B: Fischer & Lachenaud (2013). Bibliography
 
 ## Notes
 

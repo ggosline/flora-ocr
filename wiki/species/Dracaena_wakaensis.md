@@ -7,6 +7,13 @@ family: Dracaenaceae
 vol: 54
 pages: 57-59
 source: sources/Dracaenaceae_vol54_liteparse
+countries: [Gabon]
+in_region: true
+subdivisions:
+  Gabon: [Ngounié]
+habit: "shrub"
+habitat: [secondary forest]
+altitude_m: "700–950"
 tags: [species, generated]
 ---
 # *Dracaena wakaensis* Damen & Quiroz Planche 21, Figure 5(C)

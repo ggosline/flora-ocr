@@ -7,6 +7,9 @@ family: Scytopetalaceae
 vol: 24
 pages: 52-54
 source: sources/Chrysobalanaceae_vol24_paddle
+countries: [Cameroon, Equatorial Guinea]
+in_region: true
+habit: "liana"
 tags: [species, generated]
 ---
 # *Acioa mannii* (Oliver) Engler
@@ -45,7 +48,7 @@ Babute 9, Bay Manya, 15 km SW Kumba (fl., févr.) (FHO). Maitland 467, près Bue
 
 ![Acioa mannii](../sources/Chrysobalanaceae_vol24_paddle/figures/fig_015_p0053.png)
 
-*PL. 15. — Acioa mannii (Oliv.) Engl.: 1, rameau avec fleurs × 2/3; 2, stipules × 2; 3, portion d'axe infl. × 4; 4, ramification infl. × 2; 5, bractéoles × 4; 6, fleur (pét. excl.) × 3/2. (1, Mann 1427, Macias Nguema (ex-Fernando Po); 2-5, Maitland 467; 6, Staudt 513).*
+*PL. 15. — Acioa mannii (Oliv.) Engl.: 1, branch with flowers × 2/3; 2, stipules × 2; 3, portion of infl. axis × 4; 4, infl. ramification × 2; 5, bracteoles × 4; 6, flower (pet. excl.) × 3/2. (1, Mann 1427, Macias Nguema (ex-Fernando Po); 2-5, Maitland 467; 6, Staudt 513).*
 
 ## Notes
 

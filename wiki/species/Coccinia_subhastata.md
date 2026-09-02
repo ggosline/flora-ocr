@@ -7,6 +7,13 @@ family: Cucurbitaceae
 vol: 57
 pages: 54-54
 source: sources/Cucurbitaceae_vol57_paddle
+countries: [Angola, Gabon, Guinea, Mozambique, Uganda, Zimbabwe]
+in_region: true
+subdivisions:
+  Gabon: [Haut-Ogooué, Nyanga, Ogooué-Lolo]
+habit: "herb"
+habitat: [riverine]
+altitude_m: "500"
 tags: [species, generated]
 ---
 # *Coccinia subhastata* Keraudren, Fl. Cam. 6: 131 (1967).

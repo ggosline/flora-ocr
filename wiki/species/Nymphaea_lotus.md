@@ -7,6 +7,11 @@ family: Nymphaeaceae
 vol: 40
 pages: 56-58
 source: sources/Nymphaeaceae_vol40_liteparse
+countries: [Angola, Gabon, Madagascar, Senegal]
+in_region: true
+subdivisions:
+  Gabon: [Estuaire, Ogooué-Ivindo, Ogooué-Maritime, Woleu-Ntem]
+habit: "herb"
 tags: [species, generated]
 ---
 # *Nymphaea lotus* L.

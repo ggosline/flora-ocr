@@ -7,6 +7,10 @@ family: Passifloraceae
 vol: 46
 pages: 65-67
 source: sources/Passifloraceae_vol46_liteparse
+countries: [Gabon, Guinea, Sudan]
+in_region: true
+habitat: [savanna]
+altitude_m: "900"
 tags: [species, generated]
 ---
 # *Adenia cissampeloides* (Planch. ex Hook.) Harms Planche 25.3

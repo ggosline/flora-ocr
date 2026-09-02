@@ -7,6 +7,9 @@ family: Moraceae
 vol: 26
 pages: 204-207
 source: sources/Moraceae_vol26_paddle
+countries: [Angola, Cameroon, Democratic Republic of the Congo, Equatorial Guinea, Gabon, Gambia, Madagascar, Tanzania, Togo, Zambia]
+in_region: true
+altitude_m: "15"
 tags: [species, generated]
 ---
 # *Ficus ottoniifolia* (Miquel) Miquel
@@ -77,7 +80,7 @@ Fleury in Chevalier 33665, près Libreville (fig., mai). Griffon du Bellay 202, 
 
 ![Ficus ottoniifolia](../sources/Moraceae_vol26_paddle/figures/fig_060_p0206.png)
 
-*PL. 59. – Ficus ottoniifolia (Miq.) Miq.: 1, rameau avec feuilles et figues × 1; 2, figues cauliflores × 1 (1, Tisserant 589, Centrafrique; 2, Hallé F. 1680, Congo).*
+*PL. 59. – Ficus ottoniifolia (Miq.) Miq.: 1, branch with leaves and figs × 1; 2, cauliflorous figs × 1 (1, Tisserant 589, Central African Republic; 2, Hallé F. 1680, Congo).*
 
 ## Notes
 

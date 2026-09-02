@@ -29,7 +29,7 @@ tags: [species, generated]
 
 ![Ficus lingua](../sources/Moraceae_vol26_paddle/figures/fig_048_p0172.png)
 
-*PL. 47. - Ficus lingua Warb. ex De Wild. & Dur.: 1, rameaux avec feuilles × 1; 2, rameaux avec feuilles et figues × 1; 3, figue × 9/2; 4, figue vue de dessous × 9/2; 5, ostiole (1, Hallé N. 3302; 2-5, De Wilde W.c.s. 2225, Cameroun).*
+*PL. 47. - Ficus lingua Warb. ex De Wild. & Dur.: 1, branches with leaves × 1; 2, branches with leaves and figs × 1; 3, fig × 9/2; 4, fig seen from below × 9/2; 5, ostiole (1, Hallé N. 3302; 2-5, De Wilde W.c.s. 2225, Cameroon).*
 
 ## Notes
 

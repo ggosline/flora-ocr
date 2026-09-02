@@ -7,6 +7,9 @@ family: Orchidaceae
 vol: 37
 pages: 206-207
 source: sources/Orchidaceae_vol37_paddle
+countries: [Angola, Cameroon, Central African Republic, Cote d'Ivoire, Democratic Republic of the Congo, Equatorial Guinea, Gabon, Ghana, Guinea, Liberia, Nigeria, Sierra Leone, Togo, Uganda]
+in_region: true
+habitat: [secondary forest]
 tags: [species, generated]
 ---
 # *Diaphananthe pellucida* (Lindl.) Schltr.
@@ -41,7 +44,7 @@ Hallé 1476, Makokou, above the Ivindo (fl. Mar.), P! ; 1502, Makokou, near the 
 
 ![Diaphananthe pellucida](../sources/Orchidaceae_vol37_paddle/figures/fig_099_p0206.png)
 
-*PL. 205. – Diaphananthe pellucida (Lindl.) Schltr. : A, éperon, ovaire, pédicelle, bractée florale et axe de l'inflorescence ; B, labelle étalé ; C, callus du labelle, vue latérale ; D, sépale dorsal ; E, pétale ; F, sépale latéral ; G, extrémité foliaire (A-G, Hallé 1476, P).*
+*PL. 205. – Diaphananthe pellucida (Lindl.) Schltr. : A, spur, ovary, pedicel, floral bract and inflorescence axis ; B, labellum spread ; C, callus of the labellum, lateral view ; D, dorsal sepal ; E, petal ; F, lateral sepal ; G, foliar tip (A-G, Hallé 1476, P).*
 
 ![Diaphananthe pellucida](../sources/Orchidaceae_vol37_paddle/figures/fig_173_p0260.png)
 

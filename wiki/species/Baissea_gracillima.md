@@ -7,6 +7,11 @@ family: Apocynaceae
 vol: 59
 pages: 52-54
 source: sources/Apocynaceae_vol59_liteparse
+countries: [Angola, Cameroon, Central African Republic, Democratic Republic of the Congo, Equatorial Guinea, Gabon, Guinea, Nigeria, Republic of the Congo]
+in_region: true
+habit: "liana"
+habitat: [secondary forest]
+altitude_m: "500"
 tags: [species, generated]
 ---
 # *Baissea gracillima* (K.Schum.) Hua Planche 19 ; Figure 2(G, H)

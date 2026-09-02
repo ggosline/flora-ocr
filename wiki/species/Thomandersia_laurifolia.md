@@ -7,6 +7,7 @@ family: Acanthaceae
 vol: 13
 pages: 146-148
 source: sources/Acanthaceae_vol13_paddle
+habit: "shrub"
 tags: [species, generated]
 ---
 # *Thomandersia laurifolia* (T. Anders. ex Benth.) H. Baill.
@@ -17,17 +18,15 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 , pro parte. — Heine, F.W.T.A. ed. 2,2 : 423 (1963), pro FHI 32168 tantum; Bull. Jard. Bot. Brux. 36 : 215, t XII, 1-12 et fig. 3 (1966).
 
 ≠ Scytanthus laurifolius T. Anders. ex Benth., in G. Bentham et J.D. Hooker, Gen. Pl. 2 : 1039 (1876), pro maiore parte descriptionis. — Bentham, in Hook. Ic. Pl. 13:8, t. 1209 (1877), quoad specimina Mann 2207 et s. n., Gaboon river.
 
-Arbrisseau de 1-2 (-?) m de haut, entièrement glabre. Pétiole de 1-4 cm de long; limbe des feuilles ovales-elliptique, brusquement et étroitement acuminé au sommet; acumen atteignant 11 mm de long et 5 mm environ de large; limbe ± cunéiforme et arrondi à la base, coriace, luisant sur la face supérieure, plus pâlc sur la face inférieure, à 4-5 nervures latérales; feuilles de 4-15 (20) × 3,5-7,5 (8) cm, celles d'une même paire assez inégales, petites feuilles souvent orbiculaire.
+Shrub 1-2 (-?) m tall, entirely glabrous. Petiole 1-4 cm long; leaf blade oval-elliptic, abruptly and narrowly acuminate at the apex; acumen reaching 11 mm long and approximately 5 mm wide; blade ± cuneate and rounded at the base, coriaceous, shiny on the upper surface, paler on the lower surface, with 4-5 lateral veins; leaves 4-15 (20) × 3.5-7.5 (8) cm, those of the same pair rather unequal, small leaves often orbicular.
 
-Inflorescences terminales ou subterminales en racèmes simples atteignant 25 cm de long; rachis grèle, souple et fréquemment un peu incliné ou courbé; pédicelle long de 1-3 mm, jusqu'à 5 mm dans le fruit. Fleurs alternes, rarement opposées ou par 3; bractées subulées, longues de 1 mm; bractéoles minuscules; calice campanulé, vert, glabre finement cilié aux bords, muni d'une bosse à la partie inférieure, long d'environ 3 mm, à 5 lobes triangulaires-aigus, d'environ 1 mm, calice après la floraison 2,5 à 3,5 mm de diamètre : boutons vert-violacé; corolle jaune-verdâtre, de 1/4 mm de long, à tube entièrement glabre, long d'environ 8 mm; lobe postérieur de la corolle courtement bilobé; antérieur courtement trilobé; lobes longs d'environ 5 mm, larges de 6,5 mm. Étamines presque incluses; anthères verdâtres, loges un peu inégales, la plus longue atteignant environ 1,9 mm. Style grêle, glabre d'environ 6,5 mm.
+Inflorescences terminal or subterminal in simple racemes reaching 25 cm long; rachis slender, flexible and frequently somewhat inclined or curved; pedicel 1-3 mm long, up to 5 mm in fruit. Flowers alternate, rarely opposite or in threes; bracts subulate, 1 mm long; bracteoles minute; calyx campanulate, green, glabrous finely ciliate at the margins, with a gibbosity at the lower part, approximately 3 mm long, with 5 triangular-acute lobes, approximately 1 mm, calyx after flowering 2.5 to 3.5 mm in diameter: buds greenish-violet; corolla yellow-greenish, 1/4 mm long, with tube entirely glabrous, approximately 8 mm long; posterior lobe of corolla shortly bilobed; anterior shortly trilobed; lobes approximately 5 mm long, 6.5 mm wide. Stamens almost included; anthers greenish, locules somewhat unequal, the longest reaching approximately 1.9 mm. Style slender, glabrous approximately 6.5 mm.
 
-Capsule allongée, ovale, acuminée au sommet, se lignifiant; paroi atteignant au maximum 1 mm d'épaisseur; d'environ 15 mm de long sur 10 mm de large et 6 mm d'épaisseur. Graines 2 dans chaque loge; test verruequeux, noir à maturité; graine 5 × 4 × 3 mm.
+Capsule elongate, oval, acuminate at the apex, becoming woody; wall reaching at maximum 1 mm thick; approximately 15 mm long by 10 mm wide and 6 mm thick. Seeds 2 in each locule; testa verrucose, black at maturity; seed 5 × 4 × 3 mm.
 
 ## Type
 

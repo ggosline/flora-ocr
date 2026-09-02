@@ -8,16 +8,13 @@ synonyms:
   - Dumoria africana A. Chev.
   - Mimusops Vazii Pierre msc.
   - Lecomtedoxa Vazii Dubard
-habit: tree
-habitat: [primary humid forest]
-altitude_m: ""
-countries: [Cameroon]
-in_region: true
-countries_incomplete: true  # source gives localities but no country/province list; needs review
 treatments:
   - vol: 1
     pages: "50-54"
     source: sources/Sapotaceae_vol01_paddle
+countries: [Cameroon, Gabon]
+in_region: true
+habit: "tree"
 tags: [species]
 ---
 keep going with sap

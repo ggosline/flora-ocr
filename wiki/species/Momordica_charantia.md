@@ -7,6 +7,12 @@ family: Cucurbitaceae
 vol: 57
 pages: 86-88
 source: sources/Cucurbitaceae_vol57_paddle
+countries: [Gabon, Guinea]
+in_region: true
+subdivisions:
+  Gabon: [Estuaire, Moyen-Ogooué, Ngounié, Nyanga, Ogooué-Maritime]
+habit: "herb"
+altitude_m: "5–370"
 tags: [species, generated]
 ---
 # *Momordica charantia* L.

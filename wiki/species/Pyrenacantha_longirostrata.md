@@ -7,6 +7,8 @@ family: Icacinaceae
 vol: 20
 pages: 87-88
 source: sources/Icacinaceae_vol20_paddle
+countries: [Cameroon, Gabon]
+in_region: true
 tags: [species, generated]
 ---
 # *Pyrenacantha longirostrata* Villiers

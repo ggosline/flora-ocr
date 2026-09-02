@@ -7,6 +7,12 @@ family: Cucurbitaceae
 vol: 57
 pages: 61-63
 source: sources/Cucurbitaceae_vol57_paddle
+countries: [Burundi, Cameroon, Democratic Republic of the Congo, Gabon, Sierra Leone, Tanzania]
+in_region: true
+subdivisions:
+  Gabon: [Estuaire, Ngounié, Nyanga]
+habitat: [rocky ground]
+altitude_m: "13–155"
 tags: [species, generated]
 ---
 # *Cucumis afrotropicus* H.Schaef., spec. nov.

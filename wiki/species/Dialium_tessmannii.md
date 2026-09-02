@@ -7,6 +7,9 @@ family: Leguminosae
 vol: 15
 pages: 36-38
 source: sources/Leguminosae_vol15_paddle
+countries: [Cameroon, Gabon]
+in_region: true
+habit: "tree"
 tags: [species, generated]
 ---
 # *Dialium tessmannii* Harms (P.L. 3, p. 35)
@@ -51,7 +54,7 @@ de Saint-Aubin : 2052, km 18 Est de Libreville (fr. mars). Le Testu : 5820, Ogou
 
 ![Dialium tessmannii](../sources/Leguminosae_vol15_paddle/figures/fig_003_p0037.png)
 
-*PL. III. — Dialium Tessmannii Harms : 1, inflorescence et feuille × 2/3; 2, autre type de foliole × 2/3; 3, fleur × 3; 4, type de pétale × 3; 5, étamine × 4; 6, fruit × 2/3.*
+*PL. III. — Dialium Tessmannii Harms : 1, inflorescence and leaf × 2/3; 2, another type of leaflet × 2/3; 3, flower × 3; 4, type of petal × 3; 5, stamen × 4; 6, fruit × 2/3.*
 
 ## Notes
 

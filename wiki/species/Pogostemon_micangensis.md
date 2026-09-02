@@ -6,6 +6,13 @@ genus: Pogostemon
 vol: 58
 pages: 88-93
 source: sources/Labiataeulmaceaeverbenaceae_vol58_liteparse
+countries: [Angola, Cameroon, Cote d'Ivoire, Democratic Republic of the Congo, Gabon, Ghana, Guinea, Kenya, Nigeria, Senegal, Tanzania, Togo]
+in_region: true
+subdivisions:
+  Gabon: [Estuaire, Ogooué-Ivindo, Ogooué-Maritime, Woleu-Ntem]
+habit: "herb"
+habitat: [coastal]
+altitude_m: "500"
 tags: [species, generated]
 ---
 # *Pogostemon micangensis* G.Taylor Figure 4(F)

@@ -43,7 +43,7 @@ Thollon : 6, 7 et 707, Libreville; 72, Franceville; 677, Old Calabar. Guillemet 
 
 ![Digitaria horizontalis](../sources/Gramineae_vol05_paddle/figures/fig_008_p0051.png)
 
-*PL. VII. — Digitaria horizontalis Willd. (Thollon 6) : 1, chaume, feuilles et inflorescence; 2, détail d'un fragment de racème; 3, épillet, vu du côté de la glume inférieure (longueur de l'épillet : 2 mm env.); 4, épillet, vu du côté de la glume supérieure; 5, fleur fertile. — D. polybotrya Stapf (Chev. 26. 786) : 6, chaume, feuilles et inflorescence; 7, détail d'un fragment de racème; 8, épillet, vu du côté de la glume supérieure, long de 1,5 mm env.; 9, épillet, vu du côté de la glume inférieure; 10, fleur fertile.*
+*PL. VII. — Digitaria horizontalis Willd. (Thollon 6) : 1, culm, leaves and inflorescence; 2, detail of a raceme fragment; 3, spikelet, viewed from the side of the lower glume (spikelet length: 2 mm approx.); 4, spikelet, viewed from the side of the upper glume; 5, fertile flower. — D. polybotrya Stapf (Chev. 26. 786) : 6, culm, leaves and inflorescence; 7, detail of a raceme fragment; 8, spikelet, viewed from the side of the upper glume, 1.5 mm long approx.; 9, spikelet, viewed from the side of the lower glume; 10, fertile flower.*
 
 ## Notes
 

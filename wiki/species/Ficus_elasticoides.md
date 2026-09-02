@@ -7,6 +7,9 @@ family: Moraceae
 vol: 26
 pages: 191-193
 source: sources/Moraceae_vol26_paddle
+countries: [Angola, Cameroon, Central African Republic, Cote d'Ivoire, Democratic Republic of the Congo, Gabon, Guinea-Bissau]
+in_region: true
+habit: "tree"
 tags: [species, generated]
 ---
 # *Ficus elasticoides* De Wildeman
@@ -43,7 +46,7 @@ Michaloud 536, Makokou (stér.); 1022, 80 km sur route Makokou-Mekambo (stér.).
 
 ![Ficus elasticoides](../sources/Moraceae_vol26_paddle/figures/fig_056_p0192.png)
 
-*PL. 55. – Ficus elasticoides De Wild.: rameau avec feuilles et figues × 1 (Tisserant 534, Centrafrique).*
+*PL. 55. – Ficus elasticoides De Wild.: branch with leaves and figs × 1 (Tisserant 534, Central African Republic).*
 
 ## Notes
 

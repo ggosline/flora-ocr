@@ -7,6 +7,7 @@ family: Thymeleaceae
 vol: 11
 pages: 74-75
 source: sources/Thymeleaceae_vol11_paddle
+habit: "shrub"
 tags: [species, generated]
 ---
 # *Dicranolepis baertsiana* De Wild. et Dur. (P.L. XII)

@@ -7,6 +7,12 @@ family: Malvaceae
 vol: 45
 pages: 55-55
 source: sources/Malvaceae_vol45_liteparse
+countries: [Cameroon, Democratic Republic of the Congo, Gabon, Senegal, Uganda]
+in_region: true
+subdivisions:
+  Gabon: [Woleu-Ntem]
+habit: "herb"
+altitude_m: "0–350"
 tags: [species, generated]
 ---
 # *Abelmoschus caillei* (A.Chev.) Stevels Planche 13(4-7)

@@ -7,6 +7,7 @@ family: Leguminosae
 vol: 15
 pages: 255-256
 source: sources/Leguminosae_vol15_paddle
+habit: "tree"
 tags: [species, generated]
 ---
 # *Didelotia minutiflora* (A. Chev.) Léonard
@@ -37,7 +38,7 @@ Oldeman and Normand expressed doubts about the habit information given by Walker
 
 ![Didelotia minutiflora](../sources/Leguminosae_vol15_paddle/figures/fig_062_p0258.png)
 
-*PL. LXII. — Toubaouate brevipaniculata (Léonard) Aubr. et Pellegr. : I, rameau florifère × 2/3; I', détail de la base d'un rameau; 2, foliole × 2; 3, bractées à la base d'un jeune rameau × 2/3; 4, fleur × 6; 5, pistil × 4; 6, fruit × 2/3. — Didelotia minutiflora (Chevalier) Léonard; 7, rameau florifère × 2/3; 8, foliole × 2; 9, bractée × 8; 10, pistil × 4.*
+*PL. LXII. — Toubaouate brevipaniculata (Léonard) Aubr. et Pellegr. : 1, flowering branch × 2/3; 1', detail of the base of a branch; 2, leaflet × 2; 3, bracts at the base of a young branch × 2/3; 4, flower × 6; 5, pistil × 4; 6, fruit × 2/3. — Didelotia minutiflora (Chevalier) Léonard; 7, flowering branch × 2/3; 8, leaflet × 2; 9, bract × 8; 10, pistil × 4.*
 
 ## Notes
 

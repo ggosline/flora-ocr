@@ -7,6 +7,7 @@ family: Lauraceae
 vol: 10
 pages: 79-79
 source: sources/Lauraceae_vol10_paddle
+habit: "shrub"
 tags: [species, generated]
 ---
 # *Laurus nobilis* L.

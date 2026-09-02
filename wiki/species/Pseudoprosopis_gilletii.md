@@ -7,6 +7,9 @@ family: Leguminosae
 vol: 31
 pages: 71-74
 source: sources/Leguminosae_vol31_paddle
+countries: [Democratic Republic of the Congo, Gabon]
+in_region: true
+habit: "liana"
 tags: [species, generated]
 ---
 # *Pseudoprosopis gilletii* (De Wildeman) Villiers
@@ -71,7 +74,7 @@ Louis A.M., Breteler & de Bruijn 687, région des Abeilles, entre 30 et 40 km SE
 
 ![Pseudoprosopis gilletii](../sources/Leguminosae_vol31_paddle/figures/fig_029_p0072.png)
 
-*PL. 17. – Pseudoprosopis gilletii (De Wild.) Villiers : 1, aspect général × 0,5 ; 2, pétiole, coupe schématique ; 3, axe penne, coupe schématique ; 4, foliole × 1,6 ; 5, foliole, détail nervation face inférieure × 2 ; 6, axe inflorescence, détail × 3 ; 7, 7', bractéole × 13,3 ; 8, bouton floral × 5 ; 9, fleur × 5 ; 10, calice, détail × 12 ; 11, pétale, face externe × 8 ; 12, anthère × 25 ; 13, fruit × 0,67. (1-12, Le Testu 5724 ; 13, Hladik 1966). – Repris de BJBB 53 (3-4) : 419 (1983).*
+*PL. 17. – Pseudoprosopis gilletii (De Wild.) Villiers : 1, general aspect × 0.5 ; 2, petiole, schematic section ; 3, pinnate axis, schematic section ; 4, leaflet × 1.6 ; 5, leaflet, detail venation lower surface × 2 ; 6, inflorescence axis, detail × 3 ; 7, 7', bracteole × 13.3 ; 8, floral bud × 5 ; 9, flower × 5 ; 10, calyx, detail × 12 ; 11, petal, outer face × 8 ; 12, anther × 25 ; 13, fruit × 0.67. (1-12, Le Testu 5724 ; 13, Hladik 1966). – Taken from BJBB 53 (3-4) : 419 (1983).*
 
 ## Notes
 

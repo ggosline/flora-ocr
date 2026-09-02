@@ -7,6 +7,10 @@ family: Burmanniaceae
 vol: 41
 pages: 26-26
 source: sources/Burmanniaceae_vol41_liteparse
+countries: [Gabon]
+in_region: true
+habit: "herb"
+altitude_m: "600"
 tags: [species, generated]
 ---
 # *Gymnosiphon constrictus* Maas & H.Maas Planche 5

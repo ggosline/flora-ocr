@@ -7,6 +7,8 @@ family: Rubiaceae
 vol: 12
 pages: 212-215
 source: sources/Rubiaceae_vol12_paddle
+countries: [Gabon]
+in_region: true
 tags: [species, generated]
 ---
 # *Pseudosabicea mitisphaera* N. Hallé (P.L. 44)
@@ -47,7 +49,7 @@ Lecomte: D6, Loukambo river, left bank tributary of the Kouilou downstream from 
 
 ![Pseudosabicea mitisphaera](../sources/Rubiaceae_vol12_paddle/figures/fig_055_p0213.png)
 
-*PL. 44. — Pseudosabicea mitisphaera N. Hallé (N. H. 1974 bis et 2001): 1, inflorescence × 3/4; 2, bouton vu par-dessus; 3, bouton en coupe; 4, corolle vue par-dessus; 5, poil de la gorge; 6, anthère; 7 et 7', style et stigmate; 8, coupe du fruit juvénile; 9, infrutescence à maturité; 10 et 11, coupes du fruit mùr; 12, graine.*
+*PL. 44. — Pseudosabicea mitisphaera N. Hallé (N. H. 1974 bis and 2001): 1, inflorescence × 3/4; 2, bud viewed from above; 3, bud section; 4, corolla viewed from above; 5, hair of the throat; 6, anther; 7 and 7', style and stigma; 8, juvenile fruit section; 9, infrutescence at maturity; 10 and 11, sections of ripe fruit; 12, seed.*
 
 ## Notes
 

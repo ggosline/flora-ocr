@@ -7,6 +7,8 @@ family: Annonaceae
 vol: 16
 pages: 0-0
 source: sources/Annonaceae_vol16_mineru
+countries: [Angola, Cameroon, Central African Republic, Cote d'Ivoire, Guinea, Madagascar, Senegal, Sierra Leone, Sudan]
+in_region: true
 tags: [species, generated]
 ---
 # *Annona senegalensis* Persoon

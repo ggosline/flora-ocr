@@ -7,6 +7,9 @@ family: Leguminosae
 vol: 15
 pages: 63-65
 source: sources/Leguminosae_vol15_paddle
+countries: [Gabon]
+in_region: true
+habit: "tree"
 tags: [species, generated]
 ---
 # *Gilletiodendron kisantuense* (Verm. apud De Wild.)
@@ -49,7 +52,7 @@ Lecomte : A 112, Kitali; bord du Rembo N'Komi, Fernan Vaz (fl.). Le Testu : 1519
 
 ![Gilletiodendron kisantuense](../sources/Leguminosae_vol15_paddle/figures/fig_010_p0062.png)
 
-*PL. X. — Gilletiodendron Pierreanum (Harms) Léonard : 1, feuilles et inflorescence × 1; 2, fleur × 4; 3, coupe de la fleur × 4; 4, valve du fruit après déhiscence × 1. — Gilletiodendron Mildbraedii (Harms) Vermoesen : 5, feuille et inflorescence × 1; 6, fruit × 1. — Gilletiodendron kisantuense (Vermoesen) Léonard : 7, feuille et inflorescence × 1; 8, étamine.*
+*PL. X. — Gilletiodendron Pierreanum (Harms) Léonard : 1, leaves and inflorescence × 1; 2, flower × 4; 3, section of the flower × 4; 4, fruit valve after dehiscence × 1. — Gilletiodendron Mildbraedii (Harms) Vermoesen : 5, leaf and inflorescence × 1; 6, fruit × 1. — Gilletiodendron kisantuense (Vermoesen) Léonard : 7, leaf and inflorescence × 1; 8, stamen.*
 
 ## Notes
 

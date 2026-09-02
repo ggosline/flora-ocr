@@ -5,11 +5,8 @@ authority: Pierre
 genus: Aucoumea
 family: Burseraceae
 synonyms: []
-countries: [Equatorial Guinea, Gabon, Republic of the Congo]
-in_region: true
-habit: large tree
-habitat: [old secondary forest, forest margins, abandoned clearings]
 treatments: [{vol: 3, year: 1962, pages: "59–65", source: sources/Burseraceae_vol3_paddle}]
+habit: "tree"
 tags: [species]
 ---
 

@@ -7,6 +7,9 @@ family: Moraceae
 vol: 26
 pages: 254-259
 source: sources/Moraceae_vol26_paddle
+countries: [Angola, Guinea, Sudan, Tanzania, Uganda]
+in_region: true
+habit: "tree"
 tags: [species, generated]
 ---
 # *Myrianthus arboreus* Palisot de Beauvois
@@ -51,11 +54,11 @@ M. preussii a une aire disjointe. Les plus petites aires s'étendent du SE Niger
 
 ![Myrianthus arboreus](../sources/Moraceae_vol26_paddle/figures/fig_079_p0256.png)
 
-*PL. 78. – Myrianthus arboreus P.B.: a, plantule; b, feuille; c, inflorescence staminée; d, «glande» sur feuille de plantule; e, indumentum foliaire (a, d, Breteler 1592, Cameroun; b, e Delvaux 619, Zaïre; c, Welwitsch 2590, Angola).*
+*PL. 78. – Myrianthus arboreus P.B.: a, seedling; b, leaf; c, staminate inflorescence; d, "gland" on seedling leaf; e, foliar indumentum (a, d, Breteler 1592, Cameroon; b, e Delvaux 619, Zaire; c, Welwitsch 2590, Angola).*
 
 ![Myrianthus arboreus](../sources/Moraceae_vol26_paddle/figures/fig_080_p0258.png)
 
-*PL. 79. - Myrianthus arboreus P.B.: a, rameau feuillé avec inflorescence pistillée; b, indumentum caulinaire (Welwitsch 2590, Angola).*
+*PL. 79. - Myrianthus arboreus P.B.: a, leafy branch with pistillate inflorescence; b, cauline indumentum (Welwitsch 2590, Angola).*
 
 ## Notes
 

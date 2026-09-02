@@ -7,6 +7,9 @@ family: Combretaceae
 vol: 35
 pages: 93-95
 source: sources/Combretaceae_vol35_paddle
+countries_incomplete: true
+habit: "tree"
+habitat: [mangrove, coastal]
 tags: [species, generated]
 ---
 # *Laguncularia racemosa* (Linne) Gaertner

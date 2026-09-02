@@ -7,6 +7,9 @@ family: Annonaceae
 vol: 16
 pages: 0-0
 source: sources/Annonaceae_vol16_mineru
+countries: [Angola, Cameroon, Gabon, Ghana, Sierra Leone]
+in_region: true
+habitat: [coastal]
 tags: [species, generated]
 ---
 # *Toussaintia hallei* Le Thomas
@@ -17,13 +20,11 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Vine reaching 10-15 m in height and 3.5 cm in diameter. Branches glabrous with grey bark, branchlets tomentose rusty. Internodes 1-3 cm long. Leaves with petiole 4-7 mm long, channelled above, slightly contorted, puberulent; lamina subcoriaceous, elliptic-oblong, 5-14 cm long, 3.5-5 cm wide, rounded at the base, attenuate to shortly acuminate at the apex; upper surface greyish-green, glabrous, with impressed midvein and scarcely visible venation, lower surface ± russet, pubescent with short hairs, with prominent midvein. Lateral veins 7-10 pairs, obliquely ascending; reticulum very dense, scarcely visible to the naked eye, giving the appearance of translucent dots in transmitted light.
 
-Liane atteignant Io-15 m de hauteur,et 3,5 cm de diametre. Rameaux glabres a écorce grise,ramilles tomenteuses rousses. Entreneuds longs de 1-3 cm. Feuilles a pétiole long de 4-7 mm, canaliculé au-dessus,légerement contorté,pubérulent; limbe subcoriace,elliptique-oblong,long de 5-14 cm, large de 3,5-5 cm, arrondi ä la base,atténué ä courtement acuminé au sommet;face supérieure vert grisätre,glabre,ä nervure médiane imprimée et nervation peu visible,face inférieure ± roussätre,pubescente ä poils courts,a nervure médiane proéminente.Nervures latérales 7-10 paires, obliques ascendantes; reticulum tres dense, peu visible ä Poeil nu, donnant en transparence l'impression de points translucides.
+Inflorescences axillary, in biflorous cymes, uniflorous by abortion. Flowers with jasmine scent, very attractive, turned towards the light. Floral bud ovoid-oblong, obtuse at the apex, very slightly angular at the junction of the sepals, 7-13 mm long, 5-7 mm wide, densely rusty tomentose. Pedicel c. 2 mm long, tomentose; first prophyll subpedicellate, elliptic-oblong, 10-12 mm long, 5 mm wide, tomentose on the lower surface, mucronate at the apex; pedicel 10-17 mm long, tomentose; bracts elliptic, 5-9 mm long, 4-7 mm wide, tomentose below. Sepals reflexed, thin, green, ovate-oblong, 10-18 mm long, 5-7 mm wide, tomentose on the outside. Petals 9-10, imbricate in two or three whorls, ± irregular, the innermost arranged variably, simulating a third whorl, but probably supernumerary, yellowish-green on the outside, white and longitudinally red-veined in the median part on the inside, oblong to obovate-oblong, rounded at the apex, 15-30 mm long, 5-9 mm wide, puberulent on the outside. Androgynophore cylindric, 6.5-8 mm long, 4-6 mm wide. Stamens numerous, yellowish, oblong, c. 1 mm long, filaments very short, thecae linear extrorse, connectives flattened-truncate above the anthers. Carpels 20-22, ovate-oblong, adjoining one another, 4 mm long, ovaries hairy, dark brownish-black, stigmas sessile, short, bilobed, greenish. Ovules 14-18 in two series.
 
-Inflorescences axillaires,en cymes biflores, uniflores par avortement. Fleurs ä odeur de jasmin,tres attractives,tournées vers la lumiere. Bouton floral ovoide-oblong, obtus au sommet, tres légerement anguleux a la jonction des sépales, long de 7-13 mm, large de 5-7 mm,densément tomenteux roux. Pédoncule long de 2 mm environ, tomenteux; premiere prefeuille subpedicellee, elliptique-oblongue, longue de 1o-I2 mm,large de 5 mm, tomenteuse á la face inférieure,mucronee au sommet pédicelle long de 10-17 mm, tomenteux;bractees elliptiques, longues de 5-9 mm, larges de 4-7 mm, tomenteuses en dessous. Sépales réflechis, minces, verts, ovés-oblongs,longs de 1o-18 mm,larges de 5-7 mm, tomenteux á l'extérieur. Petales 9-lo, imbriques en deux-trois cycles,± irreguliers,les plus internes disposés de facon variable, simulant un 3e cycle,mais probablement surnuméraires,jaune verdatre ä l'extérieur,blancs et veinés de rouge longitudinalement dans la partie médiane a l'intérieur,oblongs a oboves-oblongs, arrondis au sommet, longs de 15-3o mm, larges de 5-9 mm, pubé- rulents a l'extérieur. Androgynophore cylindrique, long de 6,5- 8 mm,large de 4-6 mm.Etamines nombreuses,jaunatres,oblongues,longues de I mm environ, filets tres courts, theques lineaires extrorses, connectifs aplatis-tronqués au-dessus des antheres. Carpelles 2o-22, ovés-oblongs, accolés les uns aux autres, longs de 4 mm,ovaires velus,brun noiratre,stigmates sessiles,courts, bilobes,verdatres. Ovules 14-18 biséries.
-
-Fruit inconnu.
+Fruit unknown.
 
 ## Type
 
@@ -35,45 +36,41 @@ Dewevre 823 a, Lykolela, Congo-Kinshasa (BR!)
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Gabonese species known only from the type. It is a large vine growing on old trunks, in forest, in open places. The flowers, which open late in the morning, are particularly beautiful, but very fragile and ephemeral.
 
-Espéce gabonaise connue seulement par le type. C'est une grande liane croissant sur les vieux troncs,en foret,dans les endroits clairs.Les fleurs,épanouies en fin de matinée,sont particulierement belles,mais tres fragiles et éphémeres.
+Very close to T. congolensis Boutique in its vegetative apparatus, but differs by the form of the buds, the thin sepals and the number of petals variable and greater.
 
-Tres voisine de T. congolensis Boutique, par 'appareil végé- tatif,elle en différe par la forme des boutons,les sépales minces et le nombre des pétales variable et plus grand.
+2. BALONGA Le Thomas
 
-2.BALONGA Le Thomas
+Adansonia, ser. 2, 8, 1: 106, tab. 1 (1968).
 
-Adansonia,ser.2,8,1:1o6,tab.1 (1968).
+Shrub (?) with indumentum of simple and fasciculate hairs. Flowers solitary, extra-axillary. Sepals 3, imbricate. Petals 6, rigid, in two whorls, broadly ovate, the inner ones slightly larger than the outer, with imbricate prefloration, at least for the inner ones. Receptacle elongate, broadly cylindric. Stamens very numerous, sessile; anthers linear, opening laterally; connectives truncate above the thecae. Carpels numerous; ovaries oblong, pubescent, styles obpyramidal. Ovules 1-2, lateral.
 
-Arbuste (?) a indument de poils simples et fasciculés. Fleurs , solitaires,extra-axillaires. Sépales 3, imbriques.Pétales 6, rigides, en deux verticilles,largement ovés,les internes un peu plus grands que les externes,a prefloraison imbriquee, au moins pour les internes.Réceptacle allongé, largement cylindrique.Etamines tres nombreuses,sessiles;antheres linéaires,dehiscentes latéralement; connectifs tronqués au-dessus des theques. Carpelles nombreux; ovaires oblongs,pubescents, styles obpyramidaux. Ovules 1-2, lateraux.
+Fruits pedicellate; mericarps long-stipitate, ellipsoid to subglobose, displaced laterally relative to the stipe. Seeds 1-2, ellipsoid, with axis perpendicular to subperpendicular to that of the stipe; testa smooth.
 
-Fruits pédicellées;méricarpes longuement stipités,ellipsoides â subglobuleux, déportés lateralement par rapport au stipe. Graines 1-2, ellipsoides,ä axe perpendiculaire ä subperpendiculaire a celui du stipe; testa lisse.
+Type species: B. Buchholzii (Engl. et Diels) Le Thomas.
 
-Espéce type:B.Buchholzii (Engl. et Diels) Le Thomas.
+Monotypic African genus, sole representative in Africa of the Uvarieae with imbricate sepals. This character associated with that of the elongate receptacle and the mericarps with very peculiar structure clearly distinguishes it from Uparia to which it might appear similar at first sight.
 
-Genre monospécifique africain,seul représentant en Afrique des Uvarieae â sépales imbriqués. Ce caractere associé ä celui du réceptacle allongé et des méricarpes á structure tres particuliere l'éloigne nettement des Uparia auxquels il peut faire penser ä premiere vue.
+It is with the genus Afroguatteria Boutique, represented by two species in Angola and Congo-Kinshasa, that it presents the most affinities among African genera.
 
-C'est avec le genre Afroguatteria Boutique, représenté par deux especes en Angola et au Congo-Kinshasa,qu'il présente le plus d'affnités parmi les genres africains.
+1. Balonga Buchholzii (Engler et Diels) Le Thomas (PL. 4, p. 35)
 
-1.Balonga Buchholzii(Engler et Diels)Le Thomas (PL. 4, p. 35)
+Adansonia, ser. 2, 8, 1: 108, tab. 1 (1968).
 
-Adansonia,ser.2,8,I : Io8,tab.1 (1968).
+= Uvaria Buchholzii Engl. et Diels, Notizbl. Bot. Gart., Berlin 2: 295 (1899); in Engler, Monogr. Afr. Pflanzenf. 6: 20, tab. 6 B (1901). – Diels in Engler, Bot. Jahrb.: 435 (1915).
 
-= Uvaria Buchholzii Engl.et Diels,Notizbl.Bot.Gart.,Berlin 2: 295 (1899); in Engler,Monogr.Afr.Pflanzenf.6 :2o,tab.6 B (19o1).- Diels in Engler,Bot.Jahrb.:435 (1915).
+Shrub (?); bark pale grey. Branches rectilinear; branchlets ± pubescent, covered with rusty hairs in dense and very short fascicles, becoming glabrous rapidly. Internodes 1-5 cm long. Leaves with petiole 5-9 mm long, channelled above, glabrous; lamina papyraceous, obovate-oblong, 10-24 cm long, 3.5-9 cm wide, narrowed towards the obtuse to subrounded base, ± abruptly acuminate at the apex; upper surface glabrous, lower surface thinly scattered with short, simple and fasciculate hairs. Lateral veins 10-14 pairs, forming an acute angle with the midvein, anastomosing in arcs 5-6 mm from the margin, impressed on the upper surface, very prominent on the lower surface.
 
-Arbuste (?); écorce gris clair. Rameaux rectilignes; ramilles ± pubescentes,couvertes de poils roux en fascicules denses et tres courts,devenant rapidement glabres.Entrenoeuds longs de 1-5 cm.Feuilles ä pétiole long de 5-9 mm,canaliculé au-dessus, glabre; limbe papyracé,obové-oblong, long de Io-24 cm,large de 3,5-9 cm,rétréci vers la base obtuse á subarrondie,± brusquement acuminé au sommet;face supérieure glabre,face inférieure clairsemée de poils courts, simples et fasciculés.Nervures latérales I0-14 paires, formant un angle aigu avec la nervure médiane, s'anastomosant en arceaux a 5-6 mm de la marge,imprimées ä la face supérieure,tres saillantes á la face inférieure.
+Flower solitary, supra-axillary. Pedicel 2.5 cm long, with very short pubescence, provided towards the lower half with a minute bract (1 mm) and at its apex, below the calyx, with an orbicular, amplexicaul bracteole, 6 mm in diameter. Sepals suborbicular, overlapping at the base, 6.5 mm in diameter, covered with very short hairs on the outside. Outer petals, probably imbricate in the bud, ovate-oblong, 1.5 cm long, 1 cm wide, with thin, revolute margins; inner petals imbricate, slightly larger than the outer ones, 2 cm long, 1.4 cm wide, obovate and shortly unguiculate at the base. Receptacle elongate, broadly cylindric, 1 cm long, 0.7 cm wide. Stamens numerous, over the entire height of the receptacle, sessile, oblong, 1-1.25 mm long, thecae lateral, connectives truncate above the anthers. Carpels numerous, closely pressed against one another, inserted at the apex of the receptacle, c. 3 mm long, ovaries ovoid-oblong, 2 mm long, pubescent; style obpyramidal. Ovules 1 (2), attached laterally towards the base of the ovary locule.
 
-Fleur solitaire,supra-axillaire. Pedicelle long de 2,5 cm, ä pubescence tres courte,muni vers la moitié inférieure d'une bractée minuscule (1 mm) et á son sommet,sous le calice,d'une bractéole orbiculaire,amplexicaule,de 6 mm de diamétre.Sépales suborbiculaires, recouvrants a la base, de 6,5 mm de diamétre, couverts de poils tres courts a l'exterieur. Pétales externes, probablement imbriqués dans le bouton,ovés-oblongs,longs de 1,5 cm,larges de I cm, a bords minces, révolutés; pétales internes imbriqués, legerement plus grands que les externes, longs de 2 cm,larges de 1,4 cm,obovés et courtement onguiculés a la base. Receptacle allongé, largement cylindrique, long de 1 cm, large de 0,7 cm. Etamines nombreuses, sur toute la hauteur du réceptacle, sessiles,oblongues,longues de 1-1,25 mm,theques latérales, connectifs tronques au-dessus des antheres. Carpelles nombreux serrés les uns contre les autres,insérés au sommet du réceptacle, longs de 3 mm environ,ovaires ovoides-oblongs,longs de 2 mm, pubescents; style obpyramidal.Ovules 1 (2),attachés latéralement vers la base de la loge ovarienne.
+Fruit with pedicel 2.5-2.7 cm long, enlarged at the apex; mericarps 30-40, long-stipitate, ellipsoid (1 seed) to subglobose flattened (2 seeds), 1.5 cm long, 0.8-1.4 cm wide; pericarp ornamented with two longitudinal ribs, starting from the stipe, diverging obliquely to the other lateral end of the mericarp, to terminate in a V on the style trace, opposite the attachment of the stipe; stipe 2.5 cm long, attached laterally to the mericarp, perpendicular to the axis of the seed. Seeds, most often 1, rarely paired, ellipsoid, c. 1 cm long, 0.6-0.7 cm wide, flattened laterally when paired; testa pale brown, smooth.
 
-Fruit ä pédicelle long de 2,5-2,7 cm,élargi au sommet; méricarpes 3o-4o, longuement stipités,ellipsoides (1 graine)a subglobuleux aplatis (2 graines),longs de 1,5 cm, larges de o,8- 1,4 cm;pericarpe orné de deux cotes longitudinales,partant du stipe,s'évasant obliquement jusqu'a l'autre extrémité latérale du méricarpe,pour venir se terminer en V sur la trace du style,en face de 'attache du stipe; stipe, long de 2,5 cm,attaché latérale-
+Species of littoral forest of Cameroon-Gabon.
 
-ment au mericarpe, perpendiculairement a P'axe de la graine. Graines,le plus souvent 1,rarement géminées, ellipsoides,longues de I cm environ, larges de o,6-o,7 cm,aplaties latéralement lorsqu'elles sont géminées; testa brun clair, lisse.
+Species very close to U. platyphylla Boutique by its large leaves, subcordate at the base, very sparsely pubescent with stellate hairs, its flowers with cupuliform calyx in the bud, splitting into 3 thin, ± irregular lobes; the mericarps of U. platyphylla are by contrast very different: the stipe is 1.5 cm long, the pericarp smooth, tomentose, not echinulate; the flowers moreover possess a pedicel 1.5-2 cm long, and the stamens have lateral thecae and a thick quadrangular connective.
 
-Espéce de foret littorale camerouno-gabonaise.
-
-Espéce tres affine de U. platyphylla Boutique par ses feuilles, grandes, subcordées a la base,tres éparsement pubescentesétoilées,ses fleurs ä calice cupuliforme dans le bouton,se déchirant en 3 lobes minces,± irréguliers; les méricarpes d'U.platyphylla sont par contre bien différents :le stipe est long de 1,5 cm,le péricarpe lisse, tomenteux,non échinulé; les fleurs possedent en outre un pédicelle long de 1,5-2 cm,et les étamines ont des theques latérales et un connectif quadrangulaire épais.
-
-Sierra Leone,Ghana,Gabon,et Congo-Kinshasa,cn forét dense humide.
+Sierra Leone, Ghana, Gabon, and Congo-Kinshasa, in dense humid forest.
 
 ## Specimens examined
 

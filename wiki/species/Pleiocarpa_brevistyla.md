@@ -7,6 +7,8 @@ family: Apocynaceae
 vol: 59
 pages: 191-194
 source: sources/Apocynaceae_vol59_liteparse
+habit: "shrub"
+altitude_m: "50"
 tags: [species, generated]
 ---
 # *Pleiocarpa brevistyla* Omino Planche 89

@@ -7,6 +7,12 @@ family: Clusiaceae
 vol: 45
 pages: 31-33
 source: sources/Clusiaceae_vol45_liteparse
+countries: [Gabon]
+in_region: true
+subdivisions:
+  Gabon: [Ngounié, Ogooué-Ivindo]
+habit: "tree"
+altitude_m: "650"
 tags: [species, generated]
 ---
 # *Garcinia obliqua* Sosef & Dauby Planche 6

@@ -7,6 +7,13 @@ family: Piperaceae
 vol: 50
 pages: 69-71
 source: sources/Piperaceae_vol50_liteparse
+countries: [Cameroon, Gabon]
+in_region: true
+subdivisions:
+  Gabon: [Estuaire, Ogooué-Ivindo, Ogooué-Maritime]
+habit: "herb"
+habitat: [riverine, coastal, rocky ground]
+altitude_m: "10–610"
 tags: [species, generated]
 ---
 # *Peperomia abyssinica* Miq. Planche 25.2

@@ -7,6 +7,9 @@ family: Leguminosae
 vol: 15
 pages: 44-46
 source: sources/Leguminosae_vol15_paddle
+countries: [Guinea]
+in_region: false
+habit: "tree"
 tags: [species, generated]
 ---
 # *Dialium dinklagei* Harms

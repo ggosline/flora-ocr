@@ -7,6 +7,9 @@ family: Celastraceae
 vol: 29
 pages: 151-153
 source: sources/Celastraceae_vol29_paddle
+countries: [Angola, Cameroon, Central African Republic, Democratic Republic of the Congo, Gabon, Mozambique, Nigeria, Zambia]
+in_region: true
+habit: "liana"
 tags: [species, generated]
 ---
 # *Salacia pynaertii* De Wildeman

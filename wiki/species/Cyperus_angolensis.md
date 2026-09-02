@@ -7,6 +7,13 @@ family: Cyperaceae
 vol: 44
 pages: 46-47
 source: sources/Cyperaceae_vol44_liteparse
+countries: [Gabon]
+in_region: true
+subdivisions:
+  Gabon: [Haut-Ogooué, Ngounié, Nyanga, Ogooué-Maritime]
+habit: "herb"
+habitat: [savanna, rocky ground]
+altitude_m: "0–500"
 tags: [species, generated]
 ---
 # *Cyperus angolensis* Boeckeler Planche 21

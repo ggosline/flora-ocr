@@ -7,6 +7,12 @@ family: Scrophulariaceae
 vol: 48
 pages: 115-117
 source: sources/Scrophulariaceae_vol48_liteparse
+countries: [Burkina Faso, Cameroon, Central African Republic, Chad, Cote d'Ivoire, Democratic Republic of the Congo, Gabon, Guinea, Guinea-Bissau, Mali, Nigeria, Senegal, Tanzania]
+in_region: true
+subdivisions:
+  Gabon: [Ogooué-Ivindo]
+habit: "herb"
+altitude_m: "100"
 tags: [species, generated]
 ---
 # *Limnophila barteri* Skan Planche 34

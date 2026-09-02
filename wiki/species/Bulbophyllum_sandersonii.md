@@ -7,6 +7,9 @@ family: Orchidaceae
 vol: 36
 pages: 165-167
 source: sources/Orchidaceae_vol36_paddle
+countries: [Cameroon, Gabon, Kenya, Malawi, Mozambique, Tanzania, Uganda, Zambia, Zimbabwe]
+in_region: true
+habitat: [secondary forest]
 tags: [species, generated]
 ---
 # *Bulbophyllum sandersonii* (Hook.f.) Rchb.f.

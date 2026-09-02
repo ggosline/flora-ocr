@@ -7,6 +7,9 @@ family: Annonaceae
 vol: 16
 pages: 0-0
 source: sources/Annonaceae_vol16_mineru
+countries: [Angola, Cote d'Ivoire, Gabon]
+in_region: true
+habit: "liana"
 tags: [species, generated]
 ---
 # *Popowia klainii* Pierre ex Engler et Diels

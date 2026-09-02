@@ -7,6 +7,13 @@ family: Leguminosae
 vol: 49
 pages: 188-189
 source: sources/Millettiaspeciesfabaceae_vol49_liteparse
+countries: [Angola, Gabon, Guinea]
+in_region: true
+subdivisions:
+  Gabon: [Ogooué-Ivindo]
+habit: "herb"
+habitat: [savanna]
+altitude_m: "100"
 tags: [species, generated]
 ---
 # *Eriosema griseum* Baker var. griseum

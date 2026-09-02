@@ -7,6 +7,8 @@ family: Orchidaceae
 vol: 37
 pages: 157-159
 source: sources/Orchidaceae_vol37_paddle
+countries: [Cameroon, Central African Republic, Cote d'Ivoire, Democratic Republic of the Congo, Equatorial Guinea, Gabon, Kenya, Liberia, Malawi, Mozambique, Nigeria, Rwanda, Sierra Leone, Sudan, Tanzania, Uganda, Zambia, Zimbabwe]
+in_region: true
 tags: [species, generated]
 ---
 # *Tridactyle anthomaniaca* (Rchb.f.) Summerh.
@@ -16,8 +18,6 @@ tags: [species, generated]
 **Protologue**: Kew Bull. 2: 284 (1948); FTWA: 274 (1968); WILLIAMSON, Orchid. S. Centr. Afr.: 202 (1977); LA CROIX & al., Malwi Orchid. 1: 134 (1983); CRIBB, FTEA, Orchid. 3: 609 (1989); LA CROIX & al., Orchid. Malawi: 288 (1991); FAC 2: 529 (1992); FCAM 3: 704 (2001)
 
 ## Description
-
-<!-- TODO:translate — source text below, verbatim and untranslated -->
 
 – Angraecum wittmackii Kraenzl., Mitt. Deutsch. Schutzgeb. 2: 158 (1889).
 
@@ -31,31 +31,25 @@ tags: [species, generated]
 
 – Tridactyle trachyrhiza (Schltr.) Schltr., Reih. Bot. Centralbl. 36: 147 (1918).
 
-– Tridactyle trachyrhiza (Schltr.) Schltr., Beih. Bot. Centralbl. 36 : 147 (1918).
+– Tridactyle trachyrhiza (Schltr.) Schltr., Beih. Bot. Centralbl. 36: 147 (1918).
 
-Tige < 200 cm. Feuilles nombreuses, 3,7-11 × 0,6-1,9 cm, linéaires, oblongues-obovales à étroitement elliptiques-oblongues, inégalement bilobées. Inflorescence < 1 cm, 2-4-flore. Fleurs petites, résupinées, vert clair, vertes, beige rosé, beige-abricot, devenant brunâtres. Sépale dorsal oblong ou elliptique. Pétales linéaires-lancéolés, falciformes. Sépales latéraux obliquement oblongs-lancéolés. Labelle 3-6 × 1-2 mm, auriculé
-
-PL. 178. – Tridactyle anthomaniaca (Rchb.f.) Summerh.: A, B, labelle et éperon ; C, D, labelle étalé ; E, sépale dorsal ; F, pétale ; G, sépale latéral ; H-K, feuilles. – Tridactyle crassifolia Summerh.: L, labelle et éperon ; M, labelle étalé ; N, feuille ; O, sépale latéral ; P, pétale ; Q, sépale dorsal (A, E-H, Le Testu 4314, P ; B-C, I, Tisserant 1333b, P ; D, Tisserant 423, P ; J, Sanford 5704, P ; K, Sanford 5491, P ; L-Q, Le Testu 5173, P).
-
-à la base, entier ou faiblement trilobé ; lobe médian ové-triangulaire ; lobes latéraux bidentés si présents. Éperon 6-16 mm, filiforme, légèrement renflé dans la moitié apicale, obtus. – Pl. 178, p. 387.
+Stem < 200 cm. Leaves numerous, 3.7-11 × 0.6-1.9 cm, linear, oblong-obovate to narrowly elliptic-oblong, unequally bilobed. Inflorescence < 1 cm, 2-4-flowered. Flowers small, resupinate, pale green, green, rosy beige, beige-apricot, becoming brownish. Dorsal sepal oblong or elliptic. Petals linear-lanceolate, falcate. Lateral sepals obliquely oblong-lanceolate. Labellum 3-6 × 1-2 mm, auriculate at the base, entire or weakly trilobed; median lobe ovate-triangular; lateral lobes bidentate if present. Spur 6-16 mm, filiform, slightly swollen in the apical half, obtuse. – Pl. 178, p. 387.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Sierra Leone, Liberia, Côte d'Ivoire, Nigeria, Cameroon, Equatorial Guinea, Gabon, Congo, Central African Republic, Zaïre, Rwanda, Sudan, Uganda, Kenya, Tanzania, Zambia, Malawi, Zimbabwe, Mozambique
 
-Sierra Leone, Liberia, Côte d'Ivoire, Nigeria, Cameroun, Guinée équatoriale, Gabon, Congo, République centrafricaine, Zaïre, Rwanda, Soudan, Ouganda, Kenya, Tanzanie, Zambie, Malawi, Zimbabwe, Mozambique
+ECOLOGY alt. 0-2,000 m. Epiphytic on branches, often above water, on lichen-covered exposed trees in ravines, forest edge by the sea, swampy mangrove, observed on Kleinedoxa gabonensis, Guibourtia demeusei, Scorodophlaeus zenkeri, coffee plant, cacao and guava. Tolerant of exposure.
 
-ÉCOLOGIE alt. 0-2 000 m. Épiphyte sur branche, souvent au-dessus de l'eau, sur arbre exposé couvert de lichens en ravin, lisière forestière en bord de mer, mangrove marécageuse, observée sur Kleinedoxa gabonensis, Guibourtia demeusei, Scorodophlaeus zenkeri, caféier, cacaoyer et goyave. Tolérante à l'exposition.
+MATERIAL EXAMINED (Map 80):
 
-MATÉRIEL ÉTUDIÉ (Carte 80) :
+Bos, Van der Laan & Nzabi 10738, Babiel-Sud, Okoumé road km 5, 1° 02' N, 13° 10' E (fl. July), WAG!.
 
-Bos, Van der Laan & Nzabi 10738, Babiel-Sud, route d'Okoumé km 5, 1° 02' N, 13° 10' E (fl. Juil.), WAG!.
+Descoings 6444, Ngounyé valley, Ndendé region, Dolla plain, Lébamba road (fl. Dec.), P!.
 
-Descoings 6444, vallée de la Ngounyé, région de la Ndendé, plaine de la Dolla, route de Lébamba (fl. Déc.), P!.
+De Wilde, Arends & de Bruijn 8995, Doudou Mountains, approximately 60 km along the exploitation trail towards the WNW from Doussala, 2° 12' S, 10° 11' E (fl. Nov.), WAG!.
 
-De Wilde, Arends & de Bruijn 8995, Monts Doudou, environ 60 km le long de la piste d’exploitation vers le ONO à partir de Doussala, 2º 12' S, 10º 11' E (fl. Nov.), WAG!.
-
-Hallé 926, 8 km N de Libreville (fl. Janv.), P!.
+Hallé 926, 8 km N of Libreville (fl. Jan.), P!.
 
 ## Figures
 

@@ -7,6 +7,9 @@ family: Zingiberaceae
 vol: 09
 pages: 80-82
 source: sources/Zingiberaceae_vol09_paddle
+countries: [Cameroon, Gabon]
+in_region: true
+habit: "herb"
 tags: [species, generated]
 ---
 # *Costus fissiligatus* Gagnepain

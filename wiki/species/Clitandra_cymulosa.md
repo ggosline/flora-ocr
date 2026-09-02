@@ -7,6 +7,7 @@ family: Apocynaceae
 vol: 59
 pages: 69-69
 source: sources/Apocynaceae_vol59_liteparse
+habit: "liana"
 tags: [species, generated]
 ---
 # *Clitandra cymulosa* Benth. Planche 26 ; Figure 4(B, C)

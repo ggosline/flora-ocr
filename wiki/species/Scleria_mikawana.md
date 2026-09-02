@@ -7,6 +7,12 @@ family: Cyperaceae
 vol: 44
 pages: 221-222
 source: sources/Cyperaceae_vol44_liteparse
+countries: [Angola, Burundi, Cote d'Ivoire, Democratic Republic of the Congo, Gabon, Senegal, Sierra Leone, Uganda, Zambia]
+in_region: true
+subdivisions:
+  Gabon: [Ngounié]
+habit: "herb"
+altitude_m: "1140"
 tags: [species, generated]
 ---
 # *Scleria mikawana* Makino Planche 138
@@ -17,21 +23,15 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Bot. Mag. (Tokyo) 27 : 57 (1913). Herbe robuste, annuelle , en touffe lâche ou dense, plutôt raide, avec d’épaisses racines brunes ; tige 50–100 cm × 2–3 mm, triangulaire, glabre. Feuille : gaines foliaires inférieures violacées, sans limbe, les supérieures plus verdâtres, avec un limbe de 20 cm au plus × 4–7 mm , presque glabres. Inflorescence composée d’une panicule terminale et de 2–3 latérales espacées ; pédoncules robustes et dressés, ne dépassant généralement pas beaucoup de la gaine ; panicules 2–5 × 1–2 cm, beaucoup plus courtes que les bractées foliacées. Épillet mâle long de (3–)4–5(–6) mm , sur un pédoncule de 5–14 mm ; glumes jaune paille avec la nervure centrale verte. Akène globuleux à ovale, d’environ 2,5 (hypogynium compris) × 2 mm , blanc à beige, avec des lacunes assez régulières oblongues à elliptiques disposées en lignes longitudinales, à la loupe, les parois entre les lacunes apparaissent finement poilues et garnies de nombreuses minuscules glandes souvent brunâtres ; hypogynium formé d’un anneau très étroit et de 3 lobes blancs distincts .
+Bot. Mag. (Tokyo) 27 : 57 (1913). Robust herb, annual, in loose or dense tufts, rather stiff, with thick brown roots; stem 50–100 cm × 2–3 mm, triangular, glabrous. Leaf: lower leaf sheaths violaceous, without blade, the upper ones more greenish, with a blade up to 20 cm × 4–7 mm, almost glabrous. Inflorescence composed of a terminal panicle and 2–3 lateral ones spaced apart; peduncles robust and erect, generally not extending much beyond the sheath; panicles 2–5 × 1–2 cm, much shorter than the foliaceous bracts. Male spikelet (3–)4–5(–6) mm long, on a peduncle of 5–14 mm; glumes straw-yellow with the central nerve green. Achene globose to ovate, approximately 2.5 (hypogynium included) × 2 mm, white to beige, with fairly regular oblong to elliptic lacunae arranged in longitudinal rows; under magnification, the walls between the lacunae appear finely hairy and furnished with numerous tiny glands often brownish; hypogynium formed of a very narrow ring and 3 distinct white lobes.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Sénégal, Sierra Leone, Côte d’Ivoire, Gabon, République Démocratique du Congo, Angola, Burundi, Ouganda et Zambie, plus répandue en Asie tropicale et vers le nord, jusqu’au Japon ; très rare au Gabon, trouvée seulement à Ste Croix des É chiras, dans la Ngounié
+Senegal, Sierra Leone, Côte d'Ivoire, Gabon, Democratic Republic of the Congo, Angola, Burundi, Uganda and Zambia, more widespread in tropical Asia and towards the north, as far as Japan; very rare in Gabon, found only at Sainte Croix des Échiras, in the Ngounié
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-zones herbeuses marécageuses ; au Gabon, près du niveau de la mer, jusqu’à 1140 m d’altitude en Afrique de l’Est. Note taxonomique : se reconnaît à son port annuel et à ses akènes globuleux glanduleux. b : Haines & Lye (1983), Hoenselaar et al. (2010), Hooper & Napper (1972), ibliographie Robinson (1966)
+marshy herbaceous zones; in Gabon, near sea level, up to 1140 m altitude in East Africa. Taxonomic note: recognized by its annual habit and its globose glandular achenes. Bibliography: Haines & Lye (1983), Hoenselaar et al. (2010), Hooper & Napper (1972), Robinson (1966)
 
 ## Notes
 

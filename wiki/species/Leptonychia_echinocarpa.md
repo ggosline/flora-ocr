@@ -7,6 +7,7 @@ family: Sterculiaceae
 vol: 02
 pages: 132-135
 source: sources/Sterculiaceae_vol02_paddle
+habit: "liana"
 tags: [species, generated]
 ---
 # *Leptonychia echinocarpa* K. Schum.

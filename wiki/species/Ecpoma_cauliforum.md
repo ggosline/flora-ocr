@@ -59,7 +59,7 @@ G. Mann : 918, Gaboon River.
 
 ![Ecpoma cauliforum](../sources/Rubiaceae_vol12_paddle/figures/fig_058_p0225.png)
 
-*PL. 47. — Ecpoma Hiernianum (Wernh.) N. et F. Hallé : 1, feuille × 2/3; 2, stipules × 1; 3, poil d'entrenœud, 1,5 mm; 4, inflorescence (N. Hallé 2389); 5, bouton (Le Testu 1427); 6, corolle d'un jeune bouton; 7, fleur de 21 mm; 8, poils de la gorge de la corolle; 9, anthère, 2,2 mm, 10, stigmate de fleur longistyle; 11, coupe de l'ovaire; 12, fruit de 12 mm de diam.; 13, id. en coupe; 14, graine (1 à 3 et 8, N. Hallé 841; 6, 7 et 9 à 14, N. H. 2218).*
+*PL. 47. — Ecpoma Hiernianum (Wernh.) N. et F. Hallé : 1, leaf × 2/3; 2, stipules × 1; 3, hair of internode, 1.5 mm; 4, inflorescence (N. Hallé 2389); 5, bud (Le Testu 1427); 6, corolla of a young bud; 7, flower of 21 mm; 8, throat hairs of corolla; 9, anther, 2.2 mm, 10, stigma of long-styled flower; 11, ovary section; 12, fruit of 12 mm diam.; 13, id. in section; 14, seed (1 to 3 and 8, N. Hallé 841; 6, 7 and 9 to 14, N. H. 2218).*
 
 ## Notes
 

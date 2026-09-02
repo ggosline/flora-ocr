@@ -5,11 +5,11 @@ authority: (Lamk.) Walt.
 genus: Hilleria
 family: Phytolaccaceae
 synonyms: [Rivina latifolia, Mohlana nemoralis, Mohlana guineensis]
-countries: [Gabon, Madagascar]
 range_note: "Introduced from tropical America into tropical Africa, Madagascar and Réunion."
-in_region: true
-habit: perennial herb or subshrub
 treatments: [{vol: 7, pages: "59–61", source: sources/Phytolaccaceae_vol7_paddle}]
+countries: [Gabon, Madagascar]
+in_region: true
+habit: "herb"
 tags: [species, introduced]
 ---
 

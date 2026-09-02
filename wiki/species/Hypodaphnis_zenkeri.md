@@ -7,6 +7,9 @@ family: Lauraceae
 vol: 10
 pages: 74-75
 source: sources/Lauraceae_vol10_paddle
+countries: [Cameroon, Gabon, Nigeria]
+in_region: true
+habit: "tree"
 tags: [species, generated]
 ---
 # *Hypodaphnis zenkeri* (Engl.) Stapf.

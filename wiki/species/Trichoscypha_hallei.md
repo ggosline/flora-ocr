@@ -7,6 +7,13 @@ family: Anacardiaceae
 vol: 50
 pages: 43-43
 source: sources/Anacardiaceae_vol50_liteparse
+countries: [Cameroon, Gabon]
+in_region: true
+subdivisions:
+  Gabon: [Ogooué-Ivindo]
+habit: "tree"
+habitat: [secondary forest]
+altitude_m: "500"
 tags: [species, generated]
 ---
 # *Trichoscypha hallei* Breteler Planche 21(D)
@@ -17,21 +24,15 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Adansonia , sér. 3, 26(1) : 111 (2004). Arbuste à petit arbre de 3–6 m de hauteur ; ramilles pubescentes. Feuille : pétiole et rachis pubescents ; folioles 15 à 17, pétiolule 5–10 mm, pubescent, à limbe oblong-elliptique, 11–30 × 3,5–7(–8) cm, arrondi à la base, caudé-acuminé sur (1–)1,5–2(–2,5) cm au sommet, glabre dessus sauf pour la nervure médiane imprimée pubescente, éparsement pubescent et à petits points bruns dessous ; nervures latérales en 17 à 27 paires, parallèles. Inflorescence pani culée, lâche, subterminale ou axillaire, pubescente ; la mâle jusqu’à 60 cm de longueur, la femelle beaucoup plus courte ; bractées plus courtes que le groupement floral axillé. Fleur mâle 4-mère ; pédicelle ≤ 1 mm, pubescent ; calice ± 1 mm de longueur, pubescent ; pétales valvaires , légèrement étalés, ovales, 1,5 × 1,2 mm, sans veines distinctes, jaunes, extérieurement pubescents à poils apprimés, marge papilleuse ; étamines plus courtes que les pétales, courbées vers l’intérieur, glabres ; disque ± carré, 1 × 1 mm, glabre , avec un petit pistillode poilu au milieu. Fleur femelle inconnue. Fruit globuleux à ellipsoïde, 2–2,5 × 1,8–2,2 cm, rouge foncé à maturité, velouté.
+Adansonia , ser. 3, 26(1) : 111 (2004). Shrub to small tree 3–6 m tall; branchlets pubescent. Leaf: petiole and rachis pubescent; leaflets 15 to 17, petiolule 5–10 mm, pubescent, with oblong-elliptic limb, 11–30 × 3.5–7(–8) cm, rounded at the base, caudate-acuminate over (1–)1.5–2(–2.5) cm at the apex, glabrous above except for the impressed midvein pubescent, sparsely pubescent and with small brown dots beneath; lateral veins in 17 to 27 pairs, parallel. Inflorescence paniculate, lax, subter­minal or axillary, pubescent; the male up to 60 cm long, the female much shorter; bracts shorter than the axillary floral cluster. Male flower 4-merous; pedicel ≤ 1 mm, pubescent; calyx ± 1 mm long, pubescent; petals valvate, slightly spreading, oval, 1.5 × 1.2 mm, without distinct veins, yellow, pubescent externally with appressed hairs, margin papillose; stamens shorter than the petals, curved inward, glabrous; disk ± square, 1 × 1 mm, glabrous, with a small hairy pistillode in the middle. Female flower unknown. Fruit globose to ellipsoid, 2–2.5 × 1.8–2.2 cm, dark red at maturity, velvety.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Cameroun et Gabon, au Gabon, connu d’une seule récolte de l’Ogooué-Ivindo
+Cameroon and Gabon, in Gabon, known from a single collection from the Ogooué-Ivindo
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-forêt primaire et secondarisée ; au Gabon à jusqu’à 500 m d’altitude, ailleurs jusqu’à 900 m. B : Breteler (2004). i B liographie
+primary and secondarized forest; in Gabon up to 500 m altitude, elsewhere up to 900 m. B: Breteler (2004). Bibliography
 
 ## Notes
 

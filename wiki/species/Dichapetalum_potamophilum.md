@@ -7,6 +7,10 @@ family: Dichapetalaceae
 vol: 32
 pages: 158-159
 source: sources/Dichapetalaceae_vol32_paddle
+countries: [Cameroon, Gabon]
+in_region: true
+habit: "liana"
+habitat: [riverine]
 tags: [species, generated]
 ---
 # *Dichapetalum potamophilum* Breteler
@@ -51,7 +55,7 @@ Breteler 7623, 7 km au S.O. de Makokou (stér., Nov.); 7643, (j. fr., Nov.). Bre
 
 ![Dichapetalum potamophilum](../sources/Dichapetalaceae_vol32_paddle/figures/fig_046_p0160.png)
 
-*PL. 45 – Dichapetalum potamophilum Breteler : 1, jeune rameau portant des fruits immâturées × 0,66 ; 2, fleur × 8 ; 3, pistil × 8 (A.M. Louis, Breteler & de Bruijn 588 ; 2, 3, Breteler & J.J. de Wilde 604). Repris de AUWP 86 (3) : 40 (1986).*
+*PL. 45 – Dichapetalum potamophilum Breteler : 1, young branch bearing immature fruits × 0.66 ; 2, flower × 8 ; 3, pistil × 8 (A.M. Louis, Breteler & de Bruijn 588 ; 2, 3, Breteler & J.J. de Wilde 604). Reprinted from AUWP 86 (3) : 40 (1986).*
 
 ## Notes
 

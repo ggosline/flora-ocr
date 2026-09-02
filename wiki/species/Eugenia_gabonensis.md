@@ -7,6 +7,8 @@ family: Myrtaceae
 vol: 11
 pages: 23-23
 source: sources/Myrtaceae_vol11_paddle
+countries: [Cote d'Ivoire, Democratic Republic of the Congo, Gabon]
+in_region: true
 tags: [species, generated]
 ---
 # *Eugenia gabonensis* Amsh.

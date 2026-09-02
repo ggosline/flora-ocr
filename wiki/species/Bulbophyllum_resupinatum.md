@@ -7,6 +7,9 @@ family: Orchidaceae
 vol: 36
 pages: 187-189
 source: sources/Orchidaceae_vol36_paddle
+countries: [Cameroon, Cote d'Ivoire, Gabon, Ghana, Liberia, Nigeria, Sierra Leone]
+in_region: true
+habitat: [mangrove]
 tags: [species, generated]
 ---
 # *Bulbophyllum resupinatum* Ridl.

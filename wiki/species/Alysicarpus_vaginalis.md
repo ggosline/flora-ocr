@@ -7,6 +7,12 @@ family: Leguminosae
 vol: 49
 pages: 37-39
 source: sources/Millettiaspeciesfabaceae_vol49_liteparse
+countries: [Gabon]
+in_region: true
+subdivisions:
+  Gabon: [Estuaire, Nyanga, Ogooué-Ivindo]
+habitat: [rocky ground]
+altitude_m: "100–200"
 tags: [species, generated]
 ---
 # *Alysicarpus vaginalis* (L.) DC. Planche 8.1–8

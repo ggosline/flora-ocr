@@ -4,16 +4,15 @@ name: Pandanus candelabrum
 authority: Palisot de Beauvois
 genus: Pandanus
 family: Pandanaceae
-countries: [Nigeria, Cameroon]
-in_region: true
-habit: tree
-habitat: [wet ground, swampy ground]
 treatments:
   - vol: 28
     year: 1986
     authors: [Huynh K.-L.]
     pages: "18–20"
     source: sources/Pandanaceae_vol28_paddle
+countries: [Cameroon, Gabon, Nigeria]
+in_region: true
+habit: "tree"
 tags: [species]
 ---
 

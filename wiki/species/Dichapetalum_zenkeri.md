@@ -7,6 +7,8 @@ family: Dichapetalaceae
 vol: 32
 pages: 194-197
 source: sources/Dichapetalaceae_vol32_paddle
+countries: [Angola, Cameroon, Democratic Republic of the Congo, Equatorial Guinea, Gabon, Kenya, Nigeria, Tanzania]
+in_region: true
 tags: [species, generated]
 ---
 # *Dichapetalum zenkeri* Engler
@@ -73,7 +75,7 @@ de Wilde & al. 909, km 58 Ntoum-Cocobeach (fl., March).
 
 ![Dichapetalum zenkeri](../sources/Dichapetalaceae_vol32_paddle/figures/fig_060_p0196.png)
 
-*PL. 58 – Dichapetalum zenkeri Engler : 1, rameau florifère × 0,8 ; 2, grande feuille, face inférieure × 0,8 ; 3, fleur × 10 ; 4, fleur, détail × 15 ; 5, 6, fruit 1-sperme × 0,8 (1, Zenker 3710 ; 2, Le Testu 7615 ; 3, 4, Zenker & Staudt 243 ; 5, 6, Bos 5454). – Repris de MLW 82 (8) : 84 (1982).*
+*PL. 58 – Dichapetalum zenkeri Engler : 1, flowering branch × 0.8 ; 2, large leaf, lower surface × 0.8 ; 3, flower × 10 ; 4, flower, detail × 15 ; 5, 6, one-seeded fruit × 0.8 (1, Zenker 3710 ; 2, Le Testu 7615 ; 3, 4, Zenker & Staudt 243 ; 5, 6, Bos 5454). – Reprinted from MLW 82 (8) : 84 (1982).*
 
 ## Notes
 

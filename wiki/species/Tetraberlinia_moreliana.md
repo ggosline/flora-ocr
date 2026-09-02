@@ -7,6 +7,10 @@ family: Leguminosae
 vol: 15
 pages: 303-305
 source: sources/Leguminosae_vol15_paddle
+countries: [Gabon]
+in_region: true
+habit: "tree"
+habitat: [coastal]
 tags: [species, generated]
 ---
 # *Tetraberlinia moreliana* Aubréville, sp. nov. $ ^{1} $

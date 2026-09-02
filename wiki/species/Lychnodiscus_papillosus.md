@@ -7,6 +7,9 @@ family: Sapindaceae
 vol: 23
 pages: 171-172
 source: sources/Sapindaceae_vol23_paddle
+countries: [Cameroon, Central African Republic, Chad, Ghana]
+in_region: true
+habit: "tree"
 tags: [species, generated]
 ---
 # *Lychnodiscus papillosus* Radlkofer
@@ -44,7 +47,7 @@ This species has been recorded from Ghana, Central African Republic and Chad. It
 
 ![Lychnodiscus papillosus](../sources/Sapindaceae_vol23_paddle/figures/fig_044_p0173.png)
 
-*PL. 39. — Lychnodiscus reticulatus Radlk. (1-3", Mann 1422; 4-4", FHI 19806 du Nigéria) : 1, inflorescence terminale et portion de feuille, limbe 2° paire 15,5 × 5,5 cm; 1', cymules; 2, bouton et 1/2 coupe, diamètre 2 mm; 3, fleur, diamètre 6 mm; 3', sa coupe; 3', pétale interne, 1,5 mm; 3" externe vu de 3/4; 4, hampe fructifère terminale, 10 cm; 4', cymules; 4", jeune 95 du de dessus. — Lychnodiscus papillosus Radlk. (5-6", Chevalier 11002 bis; 7-8, Thellon 95 du Congo) : 5, portion de feuille, limbe 3° paire 14 × 5 cm; 5', inflorescence terminale, rameau 10 cm; 5", papilles 0,2 mm; 6, fleur 3 et coupe; 6", 6", anthères faces externe et interne; 7, 7', 7", pétale faces externe, interne et coupe; 8, inflorescence ♀; 8', rameau avec cymules; 9, coupe de jeune fruit.*
+*PL. 39. — Lychnodiscus reticulatus Radlk. (1-3", Mann 1422; 4-4", FHI 19806 from Nigeria) : 1, terminal inflorescence and portion of leaf, blade 2nd pair 15.5 × 5.5 cm; 1', cymules; 2, bud and 1/2 section, 2 mm diameter; 3, flower, 6 mm diameter; 3', its section; 3', internal petal, 1.5 mm; 3" external viewed from 3/4; 4, terminal fruiting peduncle, 10 cm; 4', cymules; 4", young 95 from above. — Lychnodiscus papillosus Radlk. (5-6", Chevalier 11002 bis; 7-8, Thellon 95 from Congo) : 5, portion of leaf, blade 3rd pair 14 × 5 cm; 5', terminal inflorescence, branch 10 cm; 5", papillae 0.2 mm; 6, flower 3 and section; 6", 6", anthers external and internal surfaces; 7, 7', 7", petal external, internal and section surfaces; 8, ♀ inflorescence; 8', branch with cymules; 9, section of young fruit.*
 
 ## Notes
 

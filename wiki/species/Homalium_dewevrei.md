@@ -7,6 +7,9 @@ family: Flacourtiaceae
 vol: 34
 pages: 75-77
 source: sources/Flacourtiaceae_vol34_paddle
+countries: [Cameroon, Democratic Republic of the Congo, Gabon, Ghana]
+in_region: true
+habitat: [swamp forest]
 tags: [species, generated]
 ---
 # *Homalium dewevrei* De Wild. & T. Durand
@@ -51,7 +54,7 @@ Hallé 2781, Bélinga, 24/10/1964, bout. fl. (P) ; 2809, l. c., 26/10/1964, fl. 
 
 ![Homalium dewevrei](../sources/Flacourtiaceae_vol34_paddle/figures/fig_023_p0076.png)
 
-*PL. 23. – Homalium dewevrei De Wild. & T. Durand : 1, rameau florifère ; 2, fleur ; 3, fruit. (1-3. Hallé 2889). – H. letestui Pellegr. : 4, rameau florifère ; 5, fleur ; 6, fruit. (4 et 5. Le Testu 1765 ; 6. Le Testu 1275).*
+*PL. 23. – Homalium dewevrei De Wild. & T. Durand : 1, flowering branch ; 2, flower ; 3, fruit. (1-3. Hallé 2889). – H. letestui Pellegr. : 4, flowering branch ; 5, flower ; 6, fruit. (4 et 5. Le Testu 1765 ; 6. Le Testu 1275).*
 
 ## Notes
 

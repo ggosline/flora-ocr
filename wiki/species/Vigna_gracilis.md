@@ -7,6 +7,11 @@ family: Leguminosae
 vol: 49
 pages: 373-374
 source: sources/Millettiaspeciesfabaceae_vol49_liteparse
+countries: [Angola, Democratic Republic of the Congo, Gabon, Senegal, Uganda]
+in_region: true
+habit: "herb"
+habitat: [mangrove]
+altitude_m: "400"
 tags: [species, generated]
 ---
 # *Vigna gracilis* (Guill. & Perr.) Hook.f.

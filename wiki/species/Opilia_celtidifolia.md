@@ -7,6 +7,9 @@ family: Opiliaceae
 vol: 20
 pages: 171-174
 source: sources/Opiliaceae_vol20_paddle
+countries: [Angola, Cameroon, Democratic Republic of the Congo, Senegal, Sudan]
+in_region: true
+habitat: [savanna]
 tags: [species, generated]
 ---
 # *Opilia celtidifolia* (Guillemin & Perrottet) Endlicher
@@ -67,7 +70,7 @@ Hallé N. 4145, Bélinga (fr., juin).
 
 ![Opilia celtidifolia](../sources/Opiliaceae_vol20_paddle/figures/fig_037_p0173.png)
 
-*PL. 37. — Opilia celtidifolia (Guill. & Perr.) Endl. : 1, feuilles, inflorescence et fruits × 0,7; 2, fleur × 4; 3, coupe de la fleur × 4; 4, pétale × 8; 5, ovaire et disque × 23; 6, coupe trans. du fruit × 15. — Opilia congolana Pierre : 7, feuilles et inflorescence × 1½; 8, fleur × 5; 9, coupe de la fleur × 5; 10, pétale × 7; 11, 11′, étamine × 5,5; 12, ovaire et disque × 5,4; 13, fruit × 1; 14, coupe trans. du fruit × 1. (1, 6, Hallé N. 4145; 1, 2-5, Breteler 9463; 7-14, Klaine 354).*
+*PL. 37. — Opilia celtidifolia (Guill. & Perr.) Endl. : 1, leaves, inflorescence and fruits × 0.7; 2, flower × 4; 3, section of the flower × 4; 4, petal × 8; 5, ovary and disk × 23; 6, transverse section of the fruit × 15. — Opilia congolana Pierre : 7, leaves and inflorescence × 1½; 8, flower × 5; 9, section of the flower × 5; 10, petal × 7; 11, 11′, stamen × 5.5; 12, ovary and disk × 5.4; 13, fruit × 1; 14, transverse section of the fruit × 1. (1, 6, Hallé N. 4145; 1, 2-5, Breteler 9463; 7-14, Klaine 354).*
 
 ## Notes
 

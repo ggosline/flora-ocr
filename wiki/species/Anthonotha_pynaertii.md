@@ -7,6 +7,9 @@ family: Leguminosae
 vol: 15
 pages: 209-211
 source: sources/Leguminosae_vol15_paddle
+countries: [Angola, Gabon]
+in_region: true
+habit: "tree"
 tags: [species, generated]
 ---
 # *Anthonotha pynaertii* (De Wild.) Exell et Hillcoat
@@ -45,7 +48,7 @@ Le Testu : 1737, Tchibanga (fl. mai); 8759, Koulamoutou (fl. avr.); 9564, Oyem (
 
 ![Anthonotha pynaertii](../sources/Leguminosae_vol15_paddle/figures/fig_051_p0210.png)
 
-*PL. LI. — Anthonotha Pynaertii (De Wild.) Exell et Hillcoat : 1, feuilles et inflo-rescences × 2 /3; 2, foliole, face inférieure × 2 /3; 3, fleur × 4; 4, corolle développée et androcée × 4; 5, ovaire × 4.*
+*PL. LI. — Anthonotha Pynaertii (De Wild.) Exell et Hillcoat : 1, leaves and inflorescences × 2 /3; 2, leaflet, lower surface × 2 /3; 3, flower × 4; 4, developed corolla and androecium × 4; 5, ovary × 4.*
 
 ## Notes
 

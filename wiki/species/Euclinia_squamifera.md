@@ -7,6 +7,9 @@ family: Rubiaceae
 vol: 17
 pages: 207-210
 source: sources/Rubiaceae_vol17_paddle
+countries: [Angola, Cameroon, Gabon]
+in_region: true
+habit: "shrub"
 tags: [species, generated]
 ---
 # *Euclinia squamifera* (Good) Keay
@@ -45,7 +48,7 @@ N. Hallé 1229, 3609, Bélinga (fr. fév. et déc.).
 
 ![Euclinia squamifera](../sources/Rubiaceae_vol17_paddle/figures/fig_048_p0209.png)
 
-*PL. 47. — Euclinia squamifera (Good) Keay : 1, fleur hexamère × 1 (Zenker 4367); 2, fleur 8-mère (Thollon 1244); 3, rameau fructifère × 1 (N. Hallé 3609, in vivo); 4, id. (N. H. 1229, in sicco); 5, et 6, coupes du fruit, et 7, embryon de 3 mm (N. H. 3609). — E. longiflora Salisb. : 8, bouton, et 9, fleur (F. Hallé); 10, les deux extrémités de l'anthère; 11, coupe transversale de l'anthère montrant les masses charnues « placentoïdes » après dispersion du pollen (A. Chevalier 21406); 12, massue stigmatique; 13, coupe à mi-longueur du style d'une fleur tétramère (A. Chev. 21406); 14, fruit × 0,75 (Jacques-Félix 3037).*
+*PL. 47. — Euclinia squamifera (Good) Keay : 1, hexamerous flower × 1 (Zenker 4367); 2, 8-merous flower (Thollon 1244); 3, fruiting branch × 1 (N. Hallé 3609, in vivo); 4, id. (N. H. 1229, in sicco); 5, and 6, sections of fruit, and 7, embryo of 3 mm (N. H. 3609). — E. longiflora Salisb. : 8, bud, and 9, flower (F. Hallé); 10, the two extremities of the anther; 11, transverse section of anther showing fleshy "placentoid" masses after pollen dispersal (A. Chevalier 21406); 12, stigmatic club; 13, section at mid-length of the style of a tetramerous flower (A. Chev. 21406); 14, fruit × 0.75 (Jacques-Félix 3037).*
 
 ## Notes
 

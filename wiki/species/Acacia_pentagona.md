@@ -7,6 +7,9 @@ family: Leguminosae
 vol: 31
 pages: 131-133
 source: sources/Leguminosae_vol31_paddle
+countries: [Angola, Guinea, Mozambique, Sierra Leone, Sudan]
+in_region: true
+habitat: [swamp forest, secondary forest]
 tags: [species, generated]
 ---
 # *Acacia pentagona* (Schumacher) Hooker F.

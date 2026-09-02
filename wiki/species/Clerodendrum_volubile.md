@@ -6,6 +6,12 @@ genus: Clerodendrum
 vol: 58
 pages: 45-47
 source: sources/Labiataeulmaceaeverbenaceae_vol58_liteparse
+countries: [Angola, Cameroon, Central African Republic, Democratic Republic of the Congo, Equatorial Guinea, Gabon, Guinea, Nigeria, Republic of the Congo, Senegal, Tanzania]
+in_region: true
+subdivisions:
+  Gabon: [Nyanga, Ogooué-Maritime, Woleu-Ntem]
+habit: "shrub"
+altitude_m: "600"
 tags: [species, generated]
 ---
 # *Clerodendrum volubile* P.Beauv.

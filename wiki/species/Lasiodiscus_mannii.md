@@ -5,11 +5,10 @@ authority: Hook. f. ex Hemsl.
 genus: Lasiodiscus
 family: Rhamnaceae
 synonyms: []
-countries: [Nigeria, Cameroon, Equatorial Guinea, Gabon]
-countries_incomplete: true
-in_region: true
-habit: shrub or small tree
 treatments: [{vol: 4, pages: "65–70", source: sources/Rhamnaceae_vol4_paddle}]
+countries: [Cameroon, Equatorial Guinea, Gabon, Guinea, Nigeria]
+in_region: true
+habit: "tree"
 tags: [species]
 ---
 

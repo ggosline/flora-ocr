@@ -7,6 +7,9 @@ family: Marantaceae
 vol: 09
 pages: 131-132
 source: sources/Marantaceae_vol09_paddle
+countries: [Cameroon, Democratic Republic of the Congo, Gabon, Nigeria]
+in_region: true
+habit: "herb"
 tags: [species, generated]
 ---
 # *Marantochloa cordifolia* (K. Schum.)
@@ -40,7 +43,7 @@ Humid understory, waterside.
 
 ![Marantochloa cordifolia](../sources/Marantaceae_vol09_paddle/figures/fig_030_p0129.png)
 
-*PL. XXVII. — Marantochloa cordifolia (K. Schum.) J. Koechlin (Klaine 3547): 1, base de la feuille (face supérieure) et inflorescence; 2, couronne staminale, hauteur env. 8 mm, d'après un dessin original de Gagnepain. — Marantochloa purpurea (Ridl.) M.-Redh. (A. Chev. 21012): 3, feuille (face supérieure) et inflorescence; 4, fruit (longueur env. 7 mm); 5, graine avec son arille, longueur de l'ensemble 5 mm.*
+*PL. XXVII. — Marantochloa cordifolia (K. Schum.) J. Koechlin (Klaine 3547): 1, base of leaf (upper surface) and inflorescence; 2, staminal crown, height approx. 8 mm, after an original drawing by Gagnepain. — Marantochloa purpurea (Ridl.) M.-Redh. (A. Chev. 21012): 3, leaf (upper surface) and inflorescence; 4, fruit (length approx. 7 mm); 5, seed with its aril, total length 5 mm.*
 
 ## Notes
 

@@ -7,6 +7,13 @@ family: Ulmaceae
 vol: 58
 pages: 127-129
 source: sources/Ulmaceae_vol58_liteparse
+countries: [Cameroon, Central African Republic, Democratic Republic of the Congo, Equatorial Guinea, Gabon, Republic of the Congo]
+in_region: true
+subdivisions:
+  Gabon: [Nyanga]
+habit: "tree"
+habitat: [secondary forest]
+altitude_m: "50–700"
 tags: [species, generated]
 ---
 # *Celtis tessmannii* Rendle Planche 34

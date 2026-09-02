@@ -7,6 +7,13 @@ family: Leguminosae
 vol: 49
 pages: 293-294
 source: sources/Millettiaspeciesfabaceae_vol49_liteparse
+countries: [Cameroon, Equatorial Guinea, Gabon, Guinea]
+in_region: true
+subdivisions:
+  Gabon: [Haut-Ogooué]
+habit: "tree"
+habitat: [secondary forest]
+altitude_m: "490"
 tags: [species, generated]
 ---
 # *Millettia zechiana* Harms

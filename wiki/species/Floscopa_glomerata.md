@@ -7,6 +7,12 @@ family: Commelinaceae
 vol: 55
 pages: 38-40
 source: sources/Commelinaceae_vol55_liteparse
+countries: [Angola, Benin, Burkina Faso, Burundi, Cameroon, Central African Republic, Cote d'Ivoire, Democratic Republic of the Congo, Equatorial Guinea, Gabon, Gambia, Ghana, Guinea, Guinea-Bissau, Kenya, Liberia, Madagascar, Malawi, Mali, Mozambique, Nigeria, Republic of the Congo, Rwanda, Sao Tome and Principe, Senegal, Sierra Leone, Sudan, Tanzania, Togo, Uganda, Zambia, Zimbabwe]
+in_region: true
+subdivisions:
+  Gabon: [Woleu-Ntem]
+habit: "herb"
+altitude_m: "485"
 tags: [species, generated]
 ---
 # *Floscopa glomerata* (Willd. ex Schult. & Schult.f.) Hassk. Planche 8

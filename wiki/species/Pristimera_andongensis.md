@@ -7,6 +7,8 @@ family: Celastraceae
 vol: 29
 pages: 211-217
 source: sources/Celastraceae_vol29_paddle
+countries: [Angola, Cameroon, Central African Republic, Democratic Republic of the Congo, Gabon, Mozambique, Tanzania, Uganda, Zimbabwe]
+in_region: true
 tags: [species, generated]
 ---
 # *Pristimera andongensis* (Welwitsch ex Oliver) Hallé

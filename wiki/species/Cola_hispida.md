@@ -7,6 +7,9 @@ family: Sterculiaceae
 vol: 02
 pages: 61-62
 source: sources/Sterculiaceae_vol02_paddle
+countries: [Nigeria]
+in_region: true
+habit: "tree"
 tags: [species, generated]
 ---
 # *Cola hispida* Brenan et Keay.

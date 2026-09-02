@@ -7,6 +7,12 @@ family: Commelinaceae
 vol: 55
 pages: 70-71
 source: sources/Commelinaceae_vol55_liteparse
+countries: [Angola, Burundi, Cameroon, Central African Republic, Democratic Republic of the Congo, Equatorial Guinea, Gabon, Nigeria, Republic of the Congo, Sudan, Tanzania, Uganda]
+in_region: true
+subdivisions:
+  Gabon: [Estuaire, Haut-Ogooué, Nyanga, Ogooué-Ivindo, Woleu-Ntem]
+habit: "herb"
+altitude_m: "950"
 tags: [species, generated]
 ---
 # *Palisota mannii* C.B.Clarke subsp. mannii Figure 5(A, B)

@@ -7,6 +7,10 @@ family: Leguminosae
 vol: 15
 pages: 179-181
 source: sources/Leguminosae_vol15_paddle
+countries: [Guinea]
+in_region: false
+habit: "tree"
+habitat: [riverine]
 tags: [species, generated]
 ---
 # *Baikiaea robynsii* Ghesquière

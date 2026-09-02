@@ -7,6 +7,9 @@ family: Rubiaceae
 vol: 17
 pages: 121-122
 source: sources/Rubiaceae_vol17_paddle
+countries: [Angola, Cameroon, Central African Republic, Equatorial Guinea, Gabon, Nigeria, Sao Tome and Principe]
+in_region: true
+habit: "tree"
 tags: [species, generated]
 ---
 # *Porterandia cladantha* (K. Schum.) Keay
@@ -64,7 +67,7 @@ J.-F. Villiers 99, riv. Maliba, cap Estérias (j. fr. juin).
 
 ![Porterandia cladantha](../sources/Rubiaceae_vol17_paddle/figures/fig_027_p0123.png)
 
-*PL. 27. — Porterandia cladantha (K. Schum.) Keay (fl. F. H. I. 31235 et Aubréville 36; fr. Groulez 554) : 1, rameau florifère × 0,75; 2, préfloraison; 3, corolle en coupe partielle; 4, anthère longue de 7 mm; 5, coupe transversale de l'anthère vidée; 6, style long de 15 mm; 7, disque de 3 mm de diam.; 8, coupe haute, moyenne et basse des placentas dans la fleur (N. Hallé 3602); 9, rameau fructifère vu à sec × 1; 10, coupe transversale du fruit × 2; 11, graine longue de 1,1 mm. — P. nalaensis (De Wild.) Keay (N. Hallé 3538) : 12, fruit à sec × 1.*
+*PL. 27. — Porterandia cladantha (K. Schum.) Keay (fl. F. H. I. 31235 and Aubréville 36; fr. Groulez 554) : 1, flowering branch × 0.75; 2, prefloration; 3, corolla in partial section; 4, anther 7 mm long; 5, transverse section of the empty anther; 6, style 15 mm long; 7, disk 3 mm in diam.; 8, high, middle and low section of the placentas in the flower (N. Hallé 3602); 9, fruiting branch seen dry × 1; 10, transverse section of fruit × 2; 11, seed 1.1 mm long. — P. nalaensis (De Wild.) Keay (N. Hallé 3538) : 12, dry fruit × 1.*
 
 ## Notes
 

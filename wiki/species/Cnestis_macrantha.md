@@ -7,6 +7,9 @@ family: Connaraceae
 vol: 33
 pages: 57-59
 source: sources/Connaraceae_vol33_paddle
+countries: [Cameroon, Gabon, Nigeria]
+in_region: true
+habit: "liana"
 tags: [species, generated]
 ---
 # *Cnestis macrantha* Baillon
@@ -53,7 +56,7 @@ Breteler & Lemmens 8344, Env. de Libreville, Forêt de la Mondah (st, Oct.), WAG
 
 ![Cnestis macrantha](../sources/Connaraceae_vol33_paddle/figures/fig_021_p0058.png)
 
-*PL. 15. – Cnestis macrantha Baillon : 1, rameau florifère × 2/3 ; 2, fleur × 6 ; 3, fleur, vue partielle montrant étamines et carpelles × 6 ; 4, sépale, face interne × 8 ; 5, pétale, face externe × 8 ; 6, follicules × 1. (1-4. Binuyo 45402 ; 5. Duparquet 53 ; 6. D. Thomas 3326). – Repris de AUWP 89 (6).*
+*PL. 15. – Cnestis macrantha Baillon : 1, flowering branch × 2/3 ; 2, flower × 6 ; 3, flower, partial view showing stamens and carpels × 6 ; 4, sepal, internal face × 8 ; 5, petal, external face × 8 ; 6, follicles × 1. (1-4. Binuyo 45402 ; 5. Duparquet 53 ; 6. D. Thomas 3326). – Reprinted from AUWP 89 (6).*
 
 ## Notes
 

@@ -7,6 +7,9 @@ family: Ixonanthaceae
 vol: 21
 pages: 60-61
 source: sources/Ixonanthaceae_vol21_paddle
+countries: [Cameroon, Gabon]
+in_region: true
+habit: "tree"
 tags: [species, generated]
 ---
 # *Ochthocosmus calothyrus* (Mildbraed) Hutchinson & Dalziel

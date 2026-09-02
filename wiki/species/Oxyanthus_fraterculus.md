@@ -7,6 +7,9 @@ family: Rubiaceae
 vol: 17
 pages: 192-195
 source: sources/Rubiaceae_vol17_paddle
+countries: [Angola, Gabon]
+in_region: true
+habitat: [savanna]
 tags: [species, generated]
 ---
 # *Oxyanthus fraterculus* N. Hallé, sp. nov.
@@ -60,7 +63,7 @@ Le Testu 1640, Moussitou, forêt du Mayombe Bayaka (fl. oct.).
 
 ![Oxyanthus fraterculus](../sources/Rubiaceae_vol17_paddle/figures/fig_044_p0193.png)
 
-*PL. 43. — Oxyanthus Schumannianus De Wild. et Dur. (Le Testu 1640, sauf 3, Koechlin 2848, et 7 à 9, A. Chev. 11085) : 1, nœud florifère × 0,70; 2, bouton grossi; 3, sommet de la corolle épanouie; 4, étamine; 5, sommet du style; 6, coupe de l'ovaire; 7, infrutescence; 8, fruit × 1; 9, graine × 3.*
+*PL. 43. — Oxyanthus Schumannianus De Wild. et Dur. (Le Testu 1640, except 3, Koechlin 2848, and 7 to 9, A. Chev. 11085) : 1, flowering node × 0.70; 2, enlarged bud; 3, apex of expanded corolla; 4, stamen; 5, apex of style; 6, ovary section; 7, infrutescence; 8, fruit × 1; 9, seed × 3.*
 
 ## Notes
 

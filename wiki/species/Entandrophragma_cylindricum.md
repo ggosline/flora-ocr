@@ -7,6 +7,13 @@ family: Meliaceae
 vol: 47
 pages: 31-33
 source: sources/Meliaceae_vol47_liteparse
+countries: [Angola, Cameroon, Central African Republic, Cote d'Ivoire, Democratic Republic of the Congo, Equatorial Guinea, Gabon, Ghana, Guinea, Liberia, Nigeria, Republic of the Congo, Sierra Leone, Uganda]
+in_region: true
+subdivisions:
+  Gabon: [Ngounié, Ogooué-Ivindo, Woleu-Ntem]
+habit: "tree"
+habitat: [secondary forest, evergreen forest]
+altitude_m: "550"
 tags: [species, generated]
 ---
 # *Entandrophragma cylindricum* (Sprague) Sprague Planche 3(M–O), 7(A-F)

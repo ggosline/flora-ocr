@@ -7,6 +7,11 @@ family: Malvaceae
 vol: 45
 pages: 71-73
 source: sources/Malvaceae_vol45_liteparse
+countries: [Angola, Gabon, Zambia]
+in_region: true
+subdivisions:
+  Gabon: [Ogooué-Ivindo]
+altitude_m: "200"
 tags: [species, generated]
 ---
 # *Hibiscus rostellatus* Guill. & Perr.

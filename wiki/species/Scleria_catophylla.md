@@ -7,6 +7,12 @@ family: Cyperaceae
 vol: 44
 pages: 210-211
 source: sources/Cyperaceae_vol44_liteparse
+countries: [Angola, Gabon, Senegal, Uganda]
+in_region: true
+subdivisions:
+  Gabon: [Estuaire, Moyen-Ogooué, Ngounié, Nyanga, Ogooué-Ivindo, Ogooué-Maritime, Woleu-Ntem]
+habit: "herb"
+altitude_m: "0–760"
 tags: [species, generated]
 ---
 # *Scleria catophylla* C.B.Clarke Planche 130
@@ -17,21 +23,15 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-in Durand & Schinz, Consp. fl. afric. 5 : 670 (1895). S. hirtella Boeckeler var. aterrima Ridl., Trans. Linn. Soc. London, Bot. 2 : 166 (1884). S. aterrima (Ridl.) Napper, Kew Bull. 25 : 445 (1971). Herbe vivace, à tiges solitaires, bien espacées, à stolons un peu charnus, épais de 1–3 mm, descendant d’abord obliquement et remontant ensuite pour former de nouvelles plantes 5–10 cm plus loin, leurs extrémités couvertes d’écailles fibreuses brun rougeâtre ; tige 35–75 cm × 1–2 mm, triangulaire, densément poilue. Feuilles nombreuses (5–10), la plupart basales ou dans la moitié inférieure ; gaine à marge densément garnie de poils courts ; ligule formée d’une rangée dense de poils courts ; limbe 10–50 cm × 3–5 mm, fortement caréné dessous, souvent à taches violettes, densément garni de poils blancs de 0,5–1,5 mm. Inflorescence en « épi » lâche , long de 10–18 cm avec 8–14 glomérules sessiles, pendants , 4–6 × 8–10 mm, composés de nombreux épillets bisexués très serrés. Épillet : glumes longues de 3–5 mm, brun rougeâtre à noirâtres , les externes finissant en une longue arête densément garnie de poils souvent presque noirâtres, poils sous l’arête souvent blancs ou brun rougeâtre, une des glumes inférieures sous-tendant une fleur femelle, glumes centrales stériles, glumes supérieures nombreuses, petites et minces, sous-tendant chacune une fleur mâle. Akène de contour obovale, presque sphérique en haut, triangulaire en bas, 1,2–1,7 × 1–1,2 mm, lisse , blanc ; hypogynium long de 0,2–0,3 mm.
+in Durand & Schinz, Consp. fl. afric. 5 : 670 (1895). S. hirtella Boeckeler var. aterrima Ridl., Trans. Linn. Soc. London, Bot. 2 : 166 (1884). S. aterrima (Ridl.) Napper, Kew Bull. 25 : 445 (1971). Perennial herb, with solitary stems, well spaced, with somewhat fleshy stolons, 1–3 mm thick, descending first obliquely and then ascending to form new plants 5–10 cm further on, their extremities covered with reddish-brown fibrous scales; stem 35–75 cm × 1–2 mm, triangular, densely hairy. Leaves numerous (5–10), mostly basal or in the lower half; sheath with margin densely furnished with short hairs; ligule formed of a dense row of short hairs; blade 10–50 cm × 3–5 mm, strongly keeled beneath, often with violet spots, densely furnished with white hairs 0.5–1.5 mm. Inflorescence in a loose "spike", 10–18 cm long with 8–14 sessile, pendulous glomérules, 4–6 × 8–10 mm, composed of numerous very crowded bisexual spikelets. Spikelet: glumes 3–5 mm long, reddish-brown to blackish, the outer ones terminating in a long awn densely furnished with often almost blackish hairs, hairs beneath the awn often white or reddish-brown, one of the lower glumes subtending a female flower, central glumes sterile, upper glumes numerous, small and thin, each subtending a male flower. Achene of obovate outline, almost spherical at the top, triangular at the bottom, 1.2–1.7 × 1–1.2 mm, smooth, white; hypogynium 0.2–0.3 mm long.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-largement répandue en Afrique tropicale, du Sénégal à l’Angola, et de l’Ouganda au Natal, aussi en Amérique tropicale ; répandue au Gabon, trouvée dans l’Estuaire, le Moyen-Ogooué, la Ngounié, la Nyanga, l’Ogooué-Ivindo, l’Ogooué-Maritime et le Woleu-Ntem (17 récoltes)
+widely distributed in tropical Africa, from Senegal to Angola, and from Uganda to Natal, also in tropical America; distributed in Gabon, found in the Estuaire, the Moyen-Ogooué, the Ngounié, the Nyanga, the Ogooué-Ivindo, the Ogooué-Maritime and the Woleu-Ntem (17 collections)
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-prairies saisonnièrement humides ou inondées, souvent près des marais ; au Gabon, à 0–760 m d’altitude, jusqu’à 1150 m en Afrique de l’Est. Note taxonomique : ressemble à S. distans avec laquelle elle pousse quelquefois, mais elle s’en distingue facilement par ses stolons et ses nombreuses feuilles basales. b : Haines & Lye (1983), Hoenselaar et al. (2010), Hooper & Napper (1972), ibliographie Robinson (1966)
+seasonally humid or flooded grasslands, often near marshes; in Gabon, at 0–760 m altitude, up to 1150 m in East Africa. Taxonomic note: resembles S. distans with which it sometimes grows, but it is easily distinguished from it by its stolons and numerous basal leaves. b : Haines & Lye (1983), Hoenselaar et al. (2010), Hooper & Napper (1972), Bibliography Robinson (1966)
 
 a b
 

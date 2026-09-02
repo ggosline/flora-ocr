@@ -5,18 +5,15 @@ authority: (Hook.f.) Exell & Mendonça
 genus: Jateorhiza
 family: Menispermaceae
 synonyms: []
-habit: twining herb
-habitat: [secondary forest, swamp forest, forest edge]
-altitude_m: "10–750 (Gabon); up to 800 elsewhere"
-countries: [Angola, Cameroon, Democratic Republic of the Congo, Equatorial Guinea, Gabon, Nigeria, Republic of the Congo]
-subdivisions:
-  Angola: [Cabinda]
-  Gabon: [Estuaire, Moyen-Ogooué, Ngounié, Nyanga, Ogooué-Ivindo, Ogooué-Lolo, Ogooué-Maritime, Woleu-Ntem]
-in_region: true
 treatments:
   - vol: 60
     pages: "49–50"
     source: sources/Menispermaceae_vol60_liteparse
+countries: [Angola, Gabon, Nigeria]
+in_region: true
+subdivisions:
+  Gabon: [Haut-Ogooué]
+habit: "herb"
 tags: [species, herb]
 ---
 

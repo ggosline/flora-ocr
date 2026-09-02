@@ -7,6 +7,9 @@ family: Sapindaceae
 vol: 23
 pages: 77-80
 source: sources/Sapindaceae_vol23_paddle
+countries: [Cameroon, Central African Republic, Cote d'Ivoire, Democratic Republic of the Congo, Gabon, Ghana, Guinea, Madagascar, Senegal, Togo]
+in_region: true
+habit: "tree"
 tags: [species, generated]
 ---
 # *Aphania senegalensis* (Jussieu) Radlkofer

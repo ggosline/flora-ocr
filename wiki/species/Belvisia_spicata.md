@@ -55,7 +55,7 @@ Approximately 40 species, mostly Asiatic.
 
 ![Belvisia spicata](../sources/Polypodiaceae_vol08_paddle/figures/fig_035_p0209.png)
 
-*PL. XXXII. — Belvisia spicata (L.f.) Mirb. (Le Testu 8872) : 1, aspect général × 1 /3. — Drynaria Laurentii (Christ) Hier. (Fleury 26372 herb. Chev.) 2, aspect général × 1 /4; 3, écaille du rhizome × 6. — Phymatodes scolopendria (Burm.) Ching (Pobéguin 10) : 4, aspect général × 1 /3. — Pyrrosia Mechowii (Hier.) Alston (Klein 38) : 5, aspect général × 1 /2.*
+*PL. XXXII. — Belvisia spicata (L.f.) Mirb. (Le Testu 8872) : 1, general aspect × 1/3. — Drynaria Laurentii (Christ) Hier. (Fleury 26372 herb. Chev.) 2, general aspect × 1/4; 3, scale of rhizome × 6. — Phymatodes scolopendria (Burm.) Ching (Pobéguin 10) : 4, general aspect × 1/3. — Pyrrosia Mechowii (Hier.) Alston (Klein 38) : 5, general aspect × 1/2.*
 
 ## Notes
 

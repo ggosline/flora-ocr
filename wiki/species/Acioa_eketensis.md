@@ -7,6 +7,7 @@ family: Scytopetalaceae
 vol: 24
 pages: 30-32
 source: sources/Chrysobalanaceae_vol24_paddle
+habit: "tree"
 tags: [species, generated]
 ---
 # *Acioa eketensis* De Wildeman
@@ -39,7 +40,7 @@ Chevalier 27127, haut Ramboué (fl., oct.).
 
 ![Acioa eketensis](../sources/Chrysobalanaceae_vol24_paddle/figures/fig_007_p0031.png)
 
-*PL. 7. — Acioa eketensis De Wild. : 1, rameau avec fleurs × 2/3; 2, stipules × 2; 3, feuille dessus × 2/3; 4, portion d'axe infl. × 4; 5, ramification infl. × 2; 6, bractéoles × 4; 7, fleur (pét. excl.) × 3/2. (1-2, 4-7, Chevalier 27127; 3, Talbot s.n., Nigeria).*
+*PL. 7. — Acioa eketensis De Wild. : 1, branch with flowers × 2/3; 2, stipules × 2; 3, leaf upper surface × 2/3; 4, portion of infl. axis × 4; 5, infl. branching × 2; 6, bracteoles × 4; 7, flower (pet. excl.) × 3/2. (1-2, 4-7, Chevalier 27127; 3, Talbot s.n., Nigeria).*
 
 ## Notes
 

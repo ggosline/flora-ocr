@@ -7,6 +7,13 @@ family: Anacardiaceae
 vol: 50
 pages: 45-47
 source: sources/Anacardiaceae_vol50_liteparse
+countries: [Cameroon, Equatorial Guinea, Gabon, Ghana, Liberia, Nigeria, Republic of the Congo]
+in_region: true
+subdivisions:
+  Gabon: [Haut-Ogooué, Ogooué-Lolo]
+habit: "liana"
+habitat: [secondary forest]
+altitude_m: "300"
 tags: [species, generated]
 ---
 # *Trichoscypha mannii* Hook.f. Planche 17
@@ -17,31 +24,19 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-in Benth. & Hook.f., Gen. pl. 1 : 423 (1862). T. turbinata Lecomte, Bull. Soc. Bot. France 52 : 658 (1906). T. soyauxii Engl. & Brehmer, Bot. Jahrb. Syst. 54 : 319 (1917). T. gambana Jongkind, Bull. Jard. Bot. Nat. Belg. 63 : 224 (1994). Arbuste à arbre atteignant 6(–15) m de hauteur, ou parfois liane jusqu’à 25 m de hauteur ; tronc parfois jusqu’à 15 cm de diamètre. Feuille jusqu’à 1 m de longueur, à indument hispide, pubescent ou tomenteux sur pétiole et rachis ; pétiole (1–)4–10(–13) cm, ± plan sur le dessus ; folioles jusqu’à 35, les proximales parfois très proches du rameau, pétiolules (1–)2–5(–8) mm, à limbe ovale-elliptique à oblong-lancéolé, jusqu’à 13 fois plus long que large, (8–)12–20(–27) × (1–)3–8(–12) cm, en général à acumen étroit de 0,5–3 cm, en général papyracé et hispide ou parfois pubescent ou tomenteux, à nervures latérales parallèles, en 10–15(–18) paires . Inflorescence (sub)terminale à axillaire, plus courte que les feuilles ,
-
-Trichoscypha 39 Wessels, Naturalis Biodiversity Center (©).
-
-40 Frans J. BRETELER hispide ou à poils plus mous. Fleur mâle : pédicelle 1,5–2,5 mm, éparsement pubérulent ; calice 1–1,5 mm de longueur, à moitié lobé, glabre à éparsement pubérulent ; pétales légèrement imbriqués, dressés à réfléchis, elliptiques, (2,5–)3–3,5 mm de longueur, glabres ; étamines ± 6 mm de longueur, anthère 1–1,5 mm de longueur ; disque hispide . Fleur femelle : pédicelle 1–1,5 mm, éparsement pubérulent ; calice un peu plus grand que chez la fleur mâle ; pétales légèrement imbriqués, dressés à étalés, 2,5–3 × 1–1,5 mm, glabres ; staminodes plus courts que les pétales ; disque hispide ; pistil ± aussi long que les pétales, ovaire ± 2 mm de longueur, velouté ; stigmates 4, courtement (≤ 0,5 mm) stipités. Fruit subovoïde à ellipsoïdal, (2–)3–3,5(–4) × 1–1,5 cm, muni d’un bec distinct , rouge foncé à maturité, ± densément à éparsement poilu.
+in Benth. & Hook.f., Gen. pl. 1 : 423 (1862). T. turbinata Lecomte, Bull. Soc. Bot. France 52 : 658 (1906). T. soyauxii Engl. & Brehmer, Bot. Jahrb. Syst. 54 : 319 (1917). T. gambana Jongkind, Bull. Jard. Bot. Nat. Belg. 63 : 224 (1994). Shrub to tree reaching 6(–15) m tall, or sometimes a liane up to 25 m tall; trunk sometimes up to 15 cm in diameter. Leaf up to 1 m long, with hispid, pubescent or tomentose indumentum on petiole and rachis; petiole (1–)4–10(–13) cm, ± flattened above; leaflets up to 35, the proximal ones sometimes very close to the branch, petiolules (1–)2–5(–8) mm, with oval-elliptic to oblong-lanceolate blade, up to 13 times longer than wide, (8–)12–20(–27) × (1–)3–8(–12) cm, generally with narrow acumen 0.5–3 cm, generally papyraceous and hispid or sometimes pubescent or tomentose, with parallel lateral veins, in 10–15(–18) pairs. Inflorescence (sub)terminal to axillary, shorter than the leaves, hispid or with softer hairs. Male flower: pedicel 1.5–2.5 mm, sparsely puberulent; calyx 1–1.5 mm long, half-lobed, glabrous to sparsely puberulent; petals slightly imbricate, erect to reflexed, elliptic, (2.5–)3–3.5 mm long, glabrous; stamens ± 6 mm long, anther 1–1.5 mm long; disk hispid. Female flower: pedicel 1–1.5 mm, sparsely puberulent; calyx slightly larger than in male flower; petals slightly imbricate, erect to spreading, 2.5–3 × 1–1.5 mm, glabrous; staminodes shorter than petals; disk hispid; pistil ± as long as petals, ovary ± 2 mm long, velvety; stigmas 4, shortly (≤ 0.5 mm) stipitate. Fruit subovoid to ellipsoid, (2–)3–3.5(–4) × 1–1.5 cm, provided with a distinct beak, dark red at maturity, ± densely to sparsely hairy.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-du Libéria au Ghana et à l’Est de Nigéria, au Cameroun, à la Guinée équatoriale (Rio Muni), au Gabon et à la République du Congo ; au Gabon, connu de toutes les provinces, sauf du HautOgooué et de l’Ogooué-Lolo
+from Liberia to Ghana and eastern Nigeria, Cameroon, Equatorial Guinea (Rio Muni), Gabon and Republic of the Congo; in Gabon, known from all provinces except Haut-Ogooué and Ogooué-Lolo
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-forêt primaire et secondarisée ; au Gabon et ailleurs à jusqu’à 300 m d’altitude
+primary and secondarized forest; in Gabon and elsewhere up to 300 m altitude
 
 ## Source note
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-La grande variabilité des folioles est illustrée par Breteler (2004, fig. 9). B : Breteler (2001, 2004). i B liographie
+The great variability of leaflets is illustrated by Breteler (2004, fig. 9). B : Breteler (2001, 2004). Bibliography
 
 ## Notes
 

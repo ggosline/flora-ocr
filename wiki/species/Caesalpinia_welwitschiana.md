@@ -7,6 +7,10 @@ family: Leguminosae
 vol: 15
 pages: 333-337
 source: sources/Leguminosae_vol15_paddle
+countries: [Angola, Cameroon, Central African Republic, Gabon]
+in_region: true
+habit: "liana"
+habitat: [coastal]
 tags: [species, generated]
 ---
 # *Caesalpinia welwitschiana* (Oliv.)
@@ -85,7 +89,7 @@ Tchoanga, Ntsonge (Mpongoué); Kola (Fang)
 
 ![Caesalpinia welwitschiana](../sources/Leguminosae_vol15_paddle/figures/fig_086_p0334.png)
 
-*PL. LXXXV. — Caesalpinia bonduc (L.) Roxb. : 1, feuille × 2 /3; 2, inflorescence × 2 /3; 3, fleur × 4; 4, coupe de la fleur × 4; 5, bractée × 4; 6, sépale × 4; 7, pétale, face interne ; 8, autre pétale, face interne; 9, étanine; 10, fruits × 2 /3.*
+*PL. LXXXV. — Caesalpinia bonduc (L.) Roxb. : 1, leaf × 2 /3; 2, inflorescence × 2 /3; 3, flower × 4; 4, section of the flower × 4; 5, bract × 4; 6, sepal × 4; 7, petal, internal surface ; 8, other petal, internal surface; 9, stamen; 10, fruits × 2 /3.*
 
 ## Notes
 

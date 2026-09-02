@@ -7,6 +7,7 @@ family: Gramineae
 vol: 05
 pages: 210-212
 source: sources/Gramineae_vol05_paddle
+habit: "herb"
 tags: [species, generated]
 ---
 # *Puelia ciliata* Franch.
@@ -44,7 +45,7 @@ Chevalier : 26889, Ahiémé, sur la Hte-Komo; 27049, Aledjo, sur le Ramboué.
 
 ![Puelia ciliata](../sources/Gramineae_vol05_paddle/figures/fig_034_p0211.png)
 
-*PL. XXXIII.—Puelia ciliata Franch. (Chev. 27049) : 1, extrémité du chaume, feuilles et inflorescence; 2, détail de la nervation des feuilles; 3, épillet (longueur : 10 à 11 mm); 4, fleur mâle (androcée et paléa vue par la face ventrale, longueur de la paléa : 8,5 mm); 5, fragment de rhizome.*
+*PL. XXXIII.—Puelia ciliata Franch. (Chev. 27049) : 1, apex of culm, leaves and inflorescence; 2, detail of venation of leaves; 3, spikelet (length: 10 to 11 mm); 4, male flower (androecium and palea seen from the ventral face, length of palea: 8.5 mm); 5, fragment of rhizome.*
 
 ## Notes
 

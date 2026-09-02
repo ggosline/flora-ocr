@@ -7,6 +7,13 @@ family: Rhizophoraceae
 vol: 47
 pages: 103-103
 source: sources/Rhizophoraceae_vol47_liteparse
+countries: [Cameroon, Gabon]
+in_region: true
+subdivisions:
+  Gabon: [Ogooué-Lolo]
+habit: "tree"
+habitat: [evergreen forest]
+altitude_m: "300"
 tags: [species, generated]
 ---
 # *Cassipourea ndambiana* Breteler Planche 30.5, 34

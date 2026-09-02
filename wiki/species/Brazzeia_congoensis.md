@@ -7,6 +7,9 @@ family: Scytopetalaceae
 vol: 24
 pages: 145-148
 source: sources/Scytopetalaceae_vol24_paddle
+countries: [Cameroon, Central African Republic, Democratic Republic of the Congo, Gabon]
+in_region: true
+habitat: [savanna]
 tags: [species, generated]
 ---
 # *Brazzeia congoensis* Baillon
@@ -89,7 +92,7 @@ Hladik 1837, R. Ivindo, Makokou (fr. nov.).
 
 ![Brazzeia congoensis](../sources/Scytopetalaceae_vol24_paddle/figures/fig_041_p0147.png)
 
-*PL. 41. — Brazzeia congoensis Baill.: 1, rameau feuillé × 2/3; 2, infl. avec boutons floraux × 2/3; 3, bouton floral × 2; 4, fragment corolle et androcée × 2; 5, jeune fruit × 2; 6, coupe transv. jeune fr. × 4; 7, fruit × 1. (1-6, Letouzey 2014; 7, Letouzey 2823). (Repris d'Adansonia 1 (2) : tab. 5, 1961).*
+*PL. 41. — Brazzeia congoensis Baill.: 1, leafy branch × 2/3; 2, infl. with floral buds × 2/3; 3, floral bud × 2; 4, fragment corolla and androecium × 2; 5, young fruit × 2; 6, transv. section young fr. × 4; 7, fruit × 1. (1-6, Letouzey 2014; 7, Letouzey 2823). (Reprinted from Adansonia 1 (2) : tab. 5, 1961).*
 
 ## Notes
 

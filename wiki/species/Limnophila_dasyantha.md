@@ -7,6 +7,12 @@ family: Scrophulariaceae
 vol: 48
 pages: 117-119
 source: sources/Scrophulariaceae_vol48_liteparse
+countries: [Angola, Cameroon, Democratic Republic of the Congo, Gabon, Guinea, Guinea-Bissau, Senegal, Sierra Leone, Zambia]
+in_region: true
+subdivisions:
+  Gabon: [Ngounié]
+habit: "herb"
+altitude_m: "1200"
 tags: [species, generated]
 ---
 # *Limnophila dasyantha* (Engl. & Gilg) Skan Planche 35

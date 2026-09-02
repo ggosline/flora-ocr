@@ -7,6 +7,9 @@ family: Dichapetalaceae
 vol: 32
 pages: 174-177
 source: sources/Dichapetalaceae_vol32_paddle
+countries: [Cameroon, Gabon]
+in_region: true
+habit: "liana"
 tags: [species, generated]
 ---
 # *Dichapetalum tetrastachyum* Breteler
@@ -55,7 +58,7 @@ Breteler 7628, type (fl., j. fr., Nov.). Breteler & de Wilde 185, 15 km au N.E. 
 
 ![Dichapetalum tetrastachyum](../sources/Dichapetalaceae_vol32_paddle/figures/fig_052_p0176.png)
 
-*PL. 51 – Dichapetalum tetrastachyum Breteler : 1, rameau florifère × 0,5 ; 2, grande feuille × 0,5 : 3, jeune rameau, stipules, détail × 1,5 ; 4, jeune inflorescence × 1,5 ; 5, fleur × 7,5 ; 6, fleur, détail × 7,5 ; 7, étamine entre 2 pétales × 7,5 ; 8, fruit × 1 (1, 3, Caballé 257 ; 2, 4, 7, Breteler 7628 ; 8, Leeuwenberg 9909). – Repris de MLW 82 (8) : 44 (1982).*
+*PL. 51 – Dichapetalum tetrastachyum Breteler : 1, flowering branch × 0,5 ; 2, large leaf × 0,5 : 3, young branch, stipules, detail × 1,5 ; 4, young inflorescence × 1,5 ; 5, flower × 7,5 ; 6, flower, detail × 7,5 ; 7, stamen between 2 petals × 7,5 ; 8, fruit × 1 (1, 3, Caballé 257 ; 2, 4, 7, Breteler 7628 ; 8, Leeuwenberg 9909). – Reprinted from MLW 82 (8) : 44 (1982).*
 
 ## Notes
 

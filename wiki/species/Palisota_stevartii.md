@@ -7,6 +7,12 @@ family: Commelinaceae
 vol: 55
 pages: 76-79
 source: sources/Commelinaceae_vol55_liteparse
+countries: [Gabon]
+in_region: true
+subdivisions:
+  Gabon: [Ogooué-Lolo]
+habit: "herb"
+altitude_m: "705"
 tags: [species, generated]
 ---
 # *Palisota stevartii* Burg & E.Bidault Planche 24, Figure 5(L, M)

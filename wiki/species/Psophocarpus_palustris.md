@@ -7,6 +7,12 @@ family: Leguminosae
 vol: 49
 pages: 325-325
 source: sources/Millettiaspeciesfabaceae_vol49_liteparse
+countries: [Cameroon, Gabon, Senegal]
+in_region: true
+subdivisions:
+  Gabon: [Estuaire, Woleu-Ntem]
+habit: "herb"
+altitude_m: "600"
 tags: [species, generated]
 ---
 # *Psophocarpus palustris* Desv. Planche 106

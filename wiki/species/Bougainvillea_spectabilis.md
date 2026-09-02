@@ -5,10 +5,9 @@ authority: Willd.
 genus: Bougainvillea
 family: Nyctaginaceae
 synonyms: []
-countries: [Gabon, Brazil]
-in_region: true
-habit: ornamental climbing shrub
 treatments: [{vol: 7, pages: "53–54", source: sources/Nyctaginaceae_vol7_paddle}]
+countries_incomplete: true
+habit: "shrub"
 tags: [species, introduced, cultivated]
 ---
 

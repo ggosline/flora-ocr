@@ -6,17 +6,15 @@ genus: Anisocycla
 family: Menispermaceae
 synonyms:
   - "Glossopholis jollyana Pierre, Bull. Soc. Linn. Paris n.s. 1: 84 (1898)"
-habit: shrub
-habitat: [streamside understorey, terra firma forest understorey]
-altitude_m: "up to 650"
-countries: [Cameroon, Democratic Republic of the Congo, Equatorial Guinea (Rio Muni), Gabon]
-subdivisions:
-  Gabon: [Estuaire, Ngounié, Nyanga]
-in_region: true
 treatments:
   - vol: 60
     pages: "37"
     source: sources/Menispermaceae_vol60_liteparse
+countries: [Cameroon, Equatorial Guinea, Gabon]
+in_region: true
+subdivisions:
+  Gabon: [Estuaire, Ngounié, Nyanga]
+habit: "shrub"
 tags: [species, shrub]
 ---
 

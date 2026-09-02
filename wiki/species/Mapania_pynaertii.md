@@ -7,6 +7,13 @@ family: Cyperaceae
 vol: 44
 pages: 179-180
 source: sources/Cyperaceae_vol44_liteparse
+countries: [Cameroon, Gabon]
+in_region: true
+subdivisions:
+  Gabon: [Ngounié, Nyanga, Ogooué-Ivindo, Ogooué-Maritime, Woleu-Ntem]
+habit: "herb"
+habitat: [swamp forest]
+altitude_m: "300–600"
 tags: [species, generated]
 ---
 # *Mapania pynaertii* De Wild. Planche 113(1-4), Figure 19b

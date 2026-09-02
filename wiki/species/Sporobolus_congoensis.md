@@ -7,6 +7,7 @@ family: Gramineae
 vol: 05
 pages: 253-253
 source: sources/Gramineae_vol05_paddle
+habit: "herb"
 tags: [species, generated]
 ---
 # *Sporobolus congoensis* Franch.
@@ -17,13 +18,11 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Perennial herb, culms glabrous with persistent sheaths at the base. Leaves pubescent with tuberculate hairs at the base, aligned along the nerves and margins. Blade linear, spreading, 6 to 7 mm wide and reaching about twenty centimetres long.
 
-Herbe pérenne, chaumes glabres à gaines persistantes à la base. Feuilles pubescentes à poils tuberculés à la base, alignés le long des nervures et des marges. Limbe linéaire étalé, de 6 à 7 mm de large et atteignant une vingtaine de centimètres de long.
+Pyramidal panicle 20 to 25 cm tall with branches whorled by 6 or 7, initially erect then horizontal. Spikelets grouped in unilateral racemes at the branch tips, shortly pedicellate, greyish-green, ovate-lanceolate, obtuse, 2 to 3 mm long. Lower glume making 1/3 the length of the spikelet; upper glume and lemmas similar, ovate, obtuse.
 
-Panicule pyramidale de 20 à 25 cm de haut à branches verticillées par 6 ou 7, d'abord dressées puis horizontales. Épillets groupés en racèmes unilatéraux à l'extrémité des branches, courtement pédicellés, gris-verdâtre, ovale-lancéolés, obtus, de 2 à 3 mm de long. Glume inférieure faisant 1/3 de la longueur de l'épillet; glume supérieure et glumelles semblables, ovales, obtuses.
-
-Espèce de savane sur sols sableux signalée jusqu'ici unique-ment au Congo et au Gabon.
+Savanna species on sandy soils recorded so far only in Congo and Gabon.
 
 ## Specimens examined
 
@@ -33,7 +32,7 @@ Trochain : 9134, Franceville.
 
 ![Sporobolus congoensis](../sources/Gramineae_vol05_paddle/figures/fig_042_p0249.png)
 
-*PL. XLI. — Leersia hexandra Sw. (A. Chev. 21969) : 1, chaume, feuilles et inflorescence; 2, épillet long de 3 mm env.). — Sporobolus congoensis Franch. (Trochain 9134) : 3, aspect de la plante; 4, épillet, vu du côté de la glume inférieure; 5, épillet vu de profil, long de 2,5 à 3 mm.*
+*PL. XLI. — Leersia hexandra Sw. (A. Chev. 21969) : 1, culm, leaves and inflorescence; 2, spikelet approximately 3 mm long.). — Sporobolus congoensis Franch. (Trochain 9134) : 3, plant aspect; 4, spikelet, viewed from the lower glume side; 5, spikelet viewed in profile, 2.5 to 3 mm long.*
 
 ## Notes
 

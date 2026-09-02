@@ -5,14 +5,16 @@ authority: (Pellegr.) Aubr. et Pellegr.
 genus: Iridosma
 family: Simaroubaceae
 synonyms: [Mannia Le-Testui Pellegr.]
-countries: [Gabon]
-in_region: true
-habit: tree
 treatments:
   - vol: 3
     year: 1962
     pages: "49–51"
     source: sources/Simaroubaceae_vol3_paddle
+countries: [Gabon]
+in_region: true
+subdivisions:
+  Gabon: [Ngounié]
+habit: "tree"
 tags: [species]
 ---
 

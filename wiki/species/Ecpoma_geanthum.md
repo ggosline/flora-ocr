@@ -7,6 +7,7 @@ family: Rubiaceae
 vol: 12
 pages: 223-224
 source: sources/Rubiaceae_vol12_paddle
+habit: "shrub"
 tags: [species, generated]
 ---
 # *Ecpoma geanthum* (Hiern) N. Hallé

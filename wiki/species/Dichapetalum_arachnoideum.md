@@ -7,6 +7,9 @@ family: Dichapetalaceae
 vol: 32
 pages: 50-53
 source: sources/Dichapetalaceae_vol32_paddle
+countries: [Cameroon, Democratic Republic of the Congo, Gabon]
+in_region: true
+habit: "liana"
 tags: [species, generated]
 ---
 # *Dichapetalum arachnoideum* Breteler
@@ -51,7 +54,7 @@ Breteler 6251, km 23 Moanda-Franceville (stér., Sept.); 6772 (stér., Oct.); 69
 
 ![Dichapetalum arachnoideum](../sources/Dichapetalaceae_vol32_paddle/figures/fig_009_p0052.png)
 
-*PL. 8. – Dichapetalum arachnoideum Breteler : 1, rameau florifère × 0,5 ; 2, 3, feuilles × 0,5 ; 4, indumentum foliaire arachnoide, détail × 1,5 ; 5, nervure I, coupe transversale × 3 ; 6, feuille, sommet, face supérieure × 1,5 ; 7, inflorescence × 1 ; 8, fleur à l'ouverture × 6 ; 9, fleur épanouie × 6 ; 10, pistil et staminodes × 6 ; 11-13, fruits 1-3-spermes × 1,5 (1, 7, Carrington 109 ; 2, 8-10, Klaine 1310 ; 3, 5, Carrington 141 ; 4, Pobeguin 91 ; 6, Breteler 6251 ; 11-13, Carlier 141 bis). – Repris de MLW 73 (13) : 61 (1973).*
+*PL. 8. – Dichapetalum arachnoideum Breteler : 1, flowering branch × 0.5 ; 2, 3, leaves × 0.5 ; 4, arachnoid foliar indumentum, detail × 1.5 ; 5, vein I, transverse section × 3 ; 6, leaf, apex, upper surface × 1.5 ; 7, inflorescence × 1 ; 8, flower at opening × 6 ; 9, open flower × 6 ; 10, pistil and staminodes × 6 ; 11-13, fruits 1-3-seeded × 1.5 (1, 7, Carrington 109 ; 2, 8-10, Klaine 1310 ; 3, 5, Carrington 141 ; 4, Pobeguin 91 ; 6, Breteler 6251 ; 11-13, Carlier 141 bis). – Reprinted from MLW 73 (13) : 61 (1973).*
 
 ## Notes
 

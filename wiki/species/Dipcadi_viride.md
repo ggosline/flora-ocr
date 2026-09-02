@@ -7,6 +7,10 @@ family: Hyacinthaceae
 vol: 40
 pages: 27-28
 source: sources/Hyacinthaceae_vol40_liteparse
+countries: [Gabon]
+in_region: true
+habitat: [rocky ground]
+altitude_m: "700"
 tags: [species, generated]
 ---
 # *Dipcadi viride* (L.) Moench.

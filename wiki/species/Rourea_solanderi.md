@@ -7,6 +7,8 @@ family: Connaraceae
 vol: 33
 pages: 133-135
 source: sources/Connaraceae_vol33_paddle
+countries_incomplete: true
+habitat: [coastal]
 tags: [species, generated]
 ---
 # *Rourea solanderi* Baker
@@ -81,7 +83,7 @@ Soyaux 249, Sibange Farm (fl., Mars), P.
 
 ![Rourea solanderi](../sources/Connaraceae_vol33_paddle/figures/fig_048_p0134.png)
 
-*PL. 42. – Rourea solanderi Baker : 1, rameau florifère × 2/3 ; 2, foliole, vue partielle × 2/3 ; 3, boutons floraux × 2 ; 4, fleur × 4 ; 5, étamines × 6 ; 6, carpelles de fleur longistylée × 6 ; 7, follicules × 2/3 ; 8, follicules ouverts × 2/3 ; 9, follicule et graine, section longitudinale montrant les cotylédons × 2/3 ; 10, graine × 2/3 ; 11, cotylédon, face int. avec radicule ventrale × 2/3. (1-2. Leeuwenberg 4024; 3-6. Oldeman 174; 7, 9. de Koning 4579; 8, 10-11. Bos 3089). – Repris de AUWP 89 (6).*
+*PL. 42. – Rourea solanderi Baker : 1, flowering branch × 2/3 ; 2, leaflet, partial view × 2/3 ; 3, floral buds × 2 ; 4, flower × 4 ; 5, stamens × 6 ; 6, carpels of long-styled flower × 6 ; 7, follicles × 2/3 ; 8, open follicles × 2/3 ; 9, follicle and seed, longitudinal section showing cotyledons × 2/3 ; 10, seed × 2/3 ; 11, cotyledon, inner surface with ventral radicle × 2/3. (1-2. Leeuwenberg 4024; 3-6. Oldeman 174; 7, 9. de Koning 4579; 8, 10-11. Bos 3089). – Reprinted from AUWP 89 (6).*
 
 ## Notes
 

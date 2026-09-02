@@ -6,6 +6,7 @@ family: Flacourtiaceae
 vol: 34
 pages: 38-39
 source: sources/Flacourtiaceae_vol34_paddle
+habit: "shrub"
 tags: [species, generated]
 ---
 # *Poggea gurk*

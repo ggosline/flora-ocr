@@ -7,6 +7,8 @@ family: Aspleniaceae
 vol: 08
 pages: 141-142
 source: sources/Aspleniaceae_vol08_paddle
+countries: [Guinea]
+in_region: false
 tags: [species, generated]
 ---
 # *Asplenium hemitomum* Hieronymus (P.L. XXIII)

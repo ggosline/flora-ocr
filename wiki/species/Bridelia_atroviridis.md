@@ -7,6 +7,13 @@ family: Phyllanthaceae
 vol: 43
 pages: 18-20
 source: sources/Phyllanthaceae_vol43_liteparse
+countries: [Angola, Central African Republic, Democratic Republic of the Congo, Gabon, Kenya, Sierra Leone, Sudan, Tanzania, Uganda, Zimbabwe]
+in_region: true
+subdivisions:
+  Gabon: [Estuaire, Ngounié, Ogooué-Ivindo, Ogooué-Lolo, Ogooué-Maritime]
+habit: "tree"
+habitat: [secondary forest]
+altitude_m: "0–500"
 tags: [species, generated]
 ---
 # *Bridelia atroviridis* Müll.Arg. Planche 3(A,B)

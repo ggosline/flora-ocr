@@ -7,6 +7,9 @@ family: Lentibulariaceae
 vol: 54
 pages: 121-125
 source: sources/Lentibulariaceae_vol54_liteparse
+countries: [Angola, Benin, Burkina Faso, Burundi, Cameroon, Central African Republic, Chad, Cote d'Ivoire, Democratic Republic of the Congo, Gabon, Gambia, Ghana, Guinea-Bissau, Kenya, Madagascar, Malawi, Mali, Mozambique, Niger, Nigeria, Rwanda, Senegal, Sierra Leone, Sudan, Tanzania, Togo, Uganda, Zambia, Zimbabwe]
+in_region: true
+habit: "herb"
 tags: [species, generated]
 ---
 # *Utricularia stellaris* L.f. Planche 43, Figure 14(E)
@@ -17,29 +20,23 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-U. inflexa Forssk. var. stellaris (L.f.) P.Taylor., Mitt. Bot. Staatssamml. München 4 : 96 (1961). Herbe aquatique ; stolons cylindriques, atteignant 1 m ou plus et 2,5 mm d’épaisseur, lisses, glabres, à entre-nœuds de 5–20 mm. Feuilles très nombreuses, digitées-divisées en 3 à 6 divisions primaires, la base à auricules ± profondément divisées en segments filiformes et ciliés ; divisions primaires à contour ± étroitement elliptique-ovale, 1–6 cm de longueur, pennées; rachis filiforme à ± renflé, atteignant 2 mm d’épaisseur ; pennes plusieurs fois bifurquées pseudodichotomiquement ; divisions ultimes capillaires, finement sétuleuses. Flotteurs verticillés à subverticillés par 5 à 7 dans la moitié supérieure de la hampe florale, renflés, ellipsoïdaux, 0,5–2 cm de longueur, 2 à 4 fois aussi longs que larges, portant au sommet quelques segments foliaires réduits . Utricules nombreux, situés latéralement près de la base des divisions foliaires ultimes et pénultièmes, courtement stipités, largement ovoïdes, 1–3 mm de longueur ; orifice latéral à lèvre supérieure nue ou pourvue de 2 poils courts simples ou éparsement ramifiés, à lèvre inférieure nue ou pourvue de quelques poils courts, simples. Inflorescence latérale, dressée, 3–30 cm de longueur, avec 2 à 16 fleurs ; pédoncule filiforme, droit, lisse, glabre ; fleurs ± rapprochées à l’anthèse mais rachis s’allongeant à maturité ; bractées basifixes, largement ovales, 2–3 mm de longueur . Fleur : bractéoles absentes ; pédicelle filiforme, dressé ou étalé, 1,5–5 mm à l’anthèse, réfléchi à recourbé, allongé et épaissi à maturité ; calice à lobes subégaux, largement ovales, ± 3 mm de longueur à l’anthèse, atteignant 5 mm de longueur et réfléchis à maturité , le supérieur arrondi au sommet, l’inférieur tronqué ou émarginé au sommet ; corolle 7–10 mm de longueur, jaune, marquée de lignes rougeâtres sur le palais , ± densément couverte à l’extérieur de poils glanduleux, lèvre supérieure largement ovale, tronquée ou émarginée, 1,5 à 2 fois aussi longue que le lobe supérieur du calice, lèvre inférieure orbiculaire ou largement elliptique, tronquée, émarginée ou 3-crénelée au sommet, palais saillant pourvu de 2 bosses, éperon cylindrique, égalant ± la lèvre inférieure. Fruit globuleux, ± 5 mm de diamètre, circumscissile, surmonté du style ± allongé, à nombreuses graines. Graine prismatique, avec 4 à 6 angles étroitement ailés, ± 2 à 3 fois aussi larges que longues ; testa à cellules distinctes, allongées, ± 0,1 mm de longueur.
+U. inflexa Forssk. var. stellaris (L.f.) P.Taylor., Mitt. Bot. Staatssamml. München 4 : 96 (1961). Aquatic herb; stolons cylindrical, reaching 1 m or more and 2.5 mm thick, smooth, glabrous, with internodes 5–20 mm. Leaves very numerous, digitately divided into 3 to 6 primary divisions, the base with ± deeply divided auricles into filiform and ciliate segments; primary divisions with ± narrowly elliptic-ovate outline, 1–6 cm long, pinnate; rachis filiform to ± swollen, reaching 2 mm thick; pinnae several times pseudodichotomously bifurcate; ultimate divisions capillary, finely setulose. Floats whorled to subwhorled, 5 to 7 in the upper half of the floral scape, swollen, ellipsoid, 0.5–2 cm long, 2 to 4 times as long as wide, bearing at the apex a few reduced foliar segments. Utricles numerous, situated laterally near the base of the ultimate and penultimate foliar divisions, shortly stipitate, broadly ovoid, 1–3 mm long; lateral orifice with upper lip naked or bearing 2 short simple or sparsely branched hairs, with lower lip naked or bearing a few short simple hairs. Inflorescence lateral, erect, 3–30 cm long, with 2 to 16 flowers; peduncle filiform, straight, smooth, glabrous; flowers ± crowded at anthesis but rachis elongating at maturity; bracts basifixed, broadly ovate, 2–3 mm long. Flower: bracteoles absent; pedicel filiform, erect or spreading, 1.5–5 mm at anthesis, reflexed to curved, elongated and thickened at maturity; calyx with subequal lobes, broadly ovate, ± 3 mm long at anthesis, reaching 5 mm long and reflexed at maturity, the upper one rounded at the apex, the lower one truncate or emarginate at the apex; corolla 7–10 mm long, yellow, marked with reddish lines on the palate, ± densely covered externally with glandular hairs, upper lip broadly ovate, truncate or emarginate, 1.5 to 2 times as long as the upper calyx lobe, lower lip orbicular or broadly elliptic, truncate, emarginate or 3-crenate at the apex, palate prominent with 2 bosses, spur cylindrical, ± equalling the lower lip. Fruit globose, ± 5 mm diameter, circumscissile, topped by the ± elongated style, with numerous seeds. Seed prismatic, with 4 to 6 narrowly winged angles, ± 2 to 3 times as wide as long; testa with distinct, elongated cells, ± 0.1 mm long.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Égypte, Mauritanie, Sénégal, Gambie, Mali, Guinée-Bissau, Sierra Leone, Côte d’Ivoire, Burkina-Faso, Ghana, Togo, Bénin, Niger, Nigéria, Cameroun, Tchad, République centrafricaine, Gabon, République démocratique du Congo, Rwanda, Burundi, Soudan, Somalie, Éthiopie, Ouganda, Kenya,
+Egypt, Mauritania, Senegal, Gambia, Mali, Guinea-Bissau, Sierra Leone, Ivory Coast, Burkina Faso, Ghana, Togo, Benin, Niger, Nigeria, Cameroon, Chad, Central African Republic, Gabon, Democratic Republic of the Congo, Rwanda, Burundi, Sudan, Somalia, Ethiopia, Uganda, Kenya,
 
 A B C D E
 
-Botanic Gardens, Kew (©), reproduit avec permission à partir de Taylor (1989).
+Botanic Gardens, Kew (©), reproduced with permission from Taylor (1989).
 
 A B C D E
 
-Tanzanie, Zambie, Mozambique, Malawi, Zimbabwe, Angola, Botswana, Namibie, Afrique du Sud (Cap, Transvaal, Natal, Lesotho), Madagascar, Île Maurice et Comores ; aussi en Inde, au Sri Lanka, au Viet nam et en Australie ; au Gabon, observé dans le Moyen-Ogooué.
+Tanzania, Zambia, Mozambique, Malawi, Zimbabwe, Angola, Botswana, Namibia, South Africa (Cape, Transvaal, Natal, Lesotho), Madagascar, Mauritius and Comoros; also in India, Sri Lanka, Vietnam and Australia; in Gabon, observed in the Middle-Ogooué.
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-eaux stagnantes ou à courant lent dans les lacs, les marais et les rivières ; au Gabon à basse altitude, en Afrique de l’Est surtout entre 0 et 1700 m. B : Taylor (1964, 1972, 1989). i B liographie
+Stagnant or slow-flowing waters in lakes, marshes and rivers; in Gabon at low altitude, in East Africa mainly between 0 and 1700 m. B : Taylor (1964, 1972, 1989). Bibliography
 
 ## Notes
 

@@ -7,6 +7,11 @@ family: Podostemaceae
 vol: 51
 pages: 41-41
 source: sources/Podostemaceae_vol51_liteparse
+countries: [Gabon]
+in_region: true
+subdivisions:
+  Gabon: [Estuaire, Ngounié, Nyanga]
+altitude_m: "100–300"
 tags: [species, generated]
 ---
 # *Ledermanniella letestui* (Pellegrin) C.Cusset Planche 16

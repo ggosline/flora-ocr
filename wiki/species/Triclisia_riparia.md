@@ -5,17 +5,15 @@ authority: Troupin
 genus: Triclisia
 family: Menispermaceae
 synonyms: []
-habit: liana
-habitat: [riverine forest]
-altitude_m: "up to 300 (Gabon); up to 450 elsewhere"
-countries: [Cameroon, Central African Republic, Democratic Republic of the Congo, Gabon]
-subdivisions:
-  Gabon: [Ngounié, Woleu-Ntem]
-in_region: true
 treatments:
   - vol: 60
     pages: "88"
     source: sources/Menispermaceae_vol60_liteparse
+countries: [Cameroon, Democratic Republic of the Congo, Gabon]
+in_region: true
+subdivisions:
+  Gabon: [Ngounié, Woleu-Ntem]
+habit: "liana"
 tags: [species]
 ---
 

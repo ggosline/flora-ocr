@@ -7,6 +7,8 @@ family: Aspidiaceae
 vol: 08
 pages: 166-168
 source: sources/Aspidiaceae_vol08_paddle
+countries: [Ghana, Guinea, Sierra Leone]
+in_region: false
 tags: [species, generated]
 ---
 # *Ctenitis lanigera* (Kühn) Tardieu

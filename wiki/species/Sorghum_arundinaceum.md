@@ -25,17 +25,15 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+STAPF, Flora of Trop. Africa, LX : 114 (117). — RENDLE, Cat. Afr. Pl. Welw., II : 150 (1899). — WILLD. Sp. Pl. IV : 906 (1797). — HACK. D. C. Monogr. Phan. VI : 503. — DUR. et SCHINZ, Et. Fl. Congo : 318 (1924). STAPF, DYER, Fl. Cap. VII : 346 (1900). — DESV. Opusc. : 69 (1831).
 
-STAPF, Flora of Trop. Africa, LX : 114 (117). — RENDLE, Cat. Afr. Pl. Welw., II : 150 (1899). — WILLD. Sp. Pl. IV : 906 (1797). — HACK. D. C. Monogr. Phan. VI : 503. — DUR. et SCHINZ, Et. Fl. Congo : 318 (1924). STAPF, DYER, FI. Cap. VII : 346 (1900). — DESV. Opusc. : 69 (1831).
+Annual grass ¹, reaching 4 m tall. Culms glabrous, waxy; leaf sheaths glabrous, silky pubescent at the nodes. Ligules scarious, approximately 2 mm long. Blades linear, up to 60 cm long or more.
 
-Herbe annuelle ¹, atteignant 4 m de haut. Chaumes glabres, cireux; gaines folaires glabres, pubescentes soyeuses aux nœuds. Ligules scarieuses, environ 2 mm de long. Limbes linéaires pouvant dépasser 60 cm de long.
+Panicle erect, reaching 50 cm long. Branches more or less flexuous, simple for the first few centimetres, then branched here and there, pubescent toward the base. Racemes bearing 2 to 5 pairs of spikelets, articles thin, approximately 4 mm long, densely ciliate with tawny hairs. Pedicels similar. Sessile spikelets 3 to 7 mm long and 2 to 3.5 mm wide, often dark at maturity. Lower glume with approximately 13 nerves, two-keeled and spinulose-ciliate in the upper half, appressed-pubescent tawny, at least when young. Upper glume pubescent, with 7 nerves, keel scabrous toward the apex. Lower lemma approximately 5 mm long, the upper one bidentate or entire, up to 3 mm long, awn, if present, reaching up to 1 cm. Pedicelled spikelet linear, male or reduced to the glumes, 5 to 8 mm long. Lower glume with 11 nerves, the upper one with 5 nerves.
 
-Panicule dressée, atteignant 50 cm de long. Branches plus ou moins flexueuses, simples sur les premiers centimètres, puis ramiﬁées de place en place, pubescentes vers la base. Racèmes comportant 2 à 5 paires d'épilets, articles minces, d'environ 4 mm de long, densément ciliés de fauve. Pédicelles semblables. Épilets sessiles de 3 à 7 mm de long et de 2 à 3,5 mm de large, souvent noirs à maturité. Glume inférieure avec environ 13 nervures, bicarénée et ciliée épineuse dans la moitié supérieure, apprimée-pubescente fauve, au moins à l'état jeune. Glume supérieure pubescente, à 7 nervures, carène scabre vers le sommet. Lemma inférieure d'environ 5 mm de long, la supérieure bidentée ou entière, jusqu'à 3 mm de long, arête, si présente, pouvant atteindre 1 cm. Épilett pédicellé linéaire, mâle ou réduit aux glumes, dc 5 à 8 mm de long. Glume inférieure à 11 nervures, la supérieure à 5 nervures.
+(1) In cultivation at Loudima (Republic of the Congo), S. arundinaceum nevertheless produced shoots from the base year after year. The species would therefore be perennial in certain cases.
 
-(1) En culture à Loudima (rép. du Congo), S. arundinaceum rejetait cependant de souche d'une année à l'autre. L'espèce serait donc pérenne dans certains cas.
-
-L'espèce paraît largement répandue dans toute l'Afrique intertropicale. Au Gabon, on la trouve dans des terrains assez riches et frais, terrasses alluviales, jachères forestières, bords de routes en forêt, etc...
+The species appears to be widely distributed throughout the intertropical Africa. In Gabon, it is found in fairly rich and moist soils, alluvial terraces, fallow forest areas, forest roadsides, etc...
 
 ## Vernacular names
 
@@ -43,9 +41,7 @@ Nondo (Mpongwé); Kobo (Bapounou); et (d'après Walker et Sillans) : Nondo (Mpon
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-C'est une bonne plante fourragère, bien appétée, susceptible de fournir un gros tonnage de matières vertes mais qu'il conviendra cependant de donner avec modération aux animaux, du moins lorsqu'elle est très jeune.
+It is a good forage plant, well palatable, capable of providing a large tonnage of green matter but which should nevertheless be given with moderation to animals, at least when it is very young.
 
 ## Specimens examined
 

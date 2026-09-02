@@ -73,7 +73,7 @@ Thollon 59, Ndjolé (fl. déc.), var. congolana. G. Touzet 133, Nkoulounga (fl. 
 
 ![Aidia micrantha](../sources/Rubiaceae_vol17_paddle/figures/fig_037_p0169.png)
 
-*PL. 37. — Aidia micrantha (K. Schum.) F. Withe (1 à 3, N. H. 2005; 4, 5, N. H. 3558; 6 à 9, N. H. 1622) : 1, rameau florifère × 0,6; 2, stipule; 3, bouton × 2,5; 4, anthère; 5, stigmate dans le bouton, profil et coupe; 6, coupe de la fleur × 3; 7, coupe de jeune fruit; 8, placentation du fruit; 9, inflorescence avec fruits immatures. — Var. Zenkeri (S. Moore) Petit (N. H. 4494) : 10, bouton × 2,5; — Var. congolana (De Wild. et Dur.) Petit (Le Testu 7782) : 11, bouton × 2,5.*
+*PL. 37. — Aidia micrantha (K. Schum.) F. Withe (1 to 3, N. H. 2005; 4, 5, N. H. 3558; 6 to 9, N. H. 1622) : 1, flowering branch × 0.6; 2, stipule; 3, bud × 2.5; 4, anther; 5, stigma in the bud, profile and section; 6, section of the flower × 3; 7, section of young fruit; 8, placentation of the fruit; 9, inflorescence with immature fruits. — Var. Zenkeri (S. Moore) Petit (N. H. 4494) : 10, bud × 2.5; — Var. congolana (De Wild. et Dur.) Petit (Le Testu 7782) : 11, bud × 2.5.*
 
 ## Notes
 

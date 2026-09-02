@@ -7,6 +7,12 @@ family: Leguminosae
 vol: 49
 pages: 341-341
 source: sources/Millettiaspeciesfabaceae_vol49_liteparse
+countries: [Cameroon, Democratic Republic of the Congo, Equatorial Guinea, Gabon]
+in_region: true
+subdivisions:
+  Gabon: [Estuaire, Moyen-Ogooué, Ngounié, Ogooué-Ivindo, Ogooué-Lolo, Woleu-Ntem]
+habit: "herb"
+habitat: [secondary forest, evergreen forest]
 tags: [species, generated]
 ---
 # *Rhynchosia preussii* (Harms) Taub. ex Harms

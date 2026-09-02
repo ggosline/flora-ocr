@@ -7,6 +7,12 @@ family: Leguminosae
 vol: 49
 pages: 170-172
 source: sources/Millettiaspeciesfabaceae_vol49_liteparse
+countries: [Cameroon, Gabon, Guinea, Madagascar]
+in_region: true
+subdivisions:
+  Gabon: [Estuaire]
+habit: "herb"
+altitude_m: "1100"
 tags: [species, generated]
 ---
 # *Desmodium incanum* (Sw.) DC. Planche 55.1–4

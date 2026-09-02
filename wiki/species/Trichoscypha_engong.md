@@ -7,6 +7,13 @@ family: Anacardiaceae
 vol: 50
 pages: 41-43
 source: sources/Anacardiaceae_vol50_liteparse
+countries: [Cameroon, Equatorial Guinea, Gabon]
+in_region: true
+subdivisions:
+  Gabon: [Estuaire, Ogooué-Ivindo, Woleu-Ntem]
+habit: "tree"
+habitat: [secondary forest]
+altitude_m: "500"
 tags: [species, generated]
 ---
 # *Trichoscypha engong* Engl. & Brehmer Planche 21(C)
@@ -17,27 +24,19 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Arbre à grand houppier, atteignant au moins 35 m de hauteur ; tronc au moins jusqu’à 1 m de diamètre . Feuilles groupées à l’extrémités des rameaux , jusqu’à 75 cm de longueur ; folioles jusqu’à 25, pétiolules 3–10 mm, limbe ovale-elliptique à oblong ou rarement obovale, (11–)16–20(–40) × 6–9(–11) cm, arrondi à la base, acuminé sur 1–2 cm au sommet, glabre dessus, sauf pour la nervure médiane imprimée à poils courts, éparsement pubérulent dessous, plus densément sur la médiane et les (11–)13 à 20 paires de nervures latérales. Inflorescence naissant sur les grosses branches , bien en dessous des feuilles, plus rarement sur la partie supérieure du tronc, à poils ferrugineux ; bractées > 1 cm de longueur. Fleur mâle : pédicelle 1–2,5 mm ; calice poilu, à lobes de 0,5 mm de longueur ; pétales étroitement elliptiques, 2,5–3 × 1 mm, roses ; étamines 3–3,5 mm de longueur ; disque circulaire, glabre . Fleur femelle : plus grande que la fleur mâle, sessile à courtement pédicellée ; pétales 2,5–3,5 × 1 mm ; ovaire globuleux, subglabre ; stigmates 3 ou 4, subsessiles. Fruit ± 4 cm de longueur, rose à rouge à maturité, glabre.
+Tree with large crown, reaching at least 35 m in height; trunk at least up to 1 m in diameter. Leaves grouped at the apex of branchlets, up to 75 cm in length; leaflets up to 25, petiolules 3–10 mm, blade ovate-elliptic to oblong or rarely obovate, (11–)16–20(–40) × 6–9(–11) cm, rounded at the base, acuminate for 1–2 cm at the apex, glabrous above except for the impressed midvein with short hairs, sparsely puberulent below, more densely so on the midvein and the (11–)13 to 20 pairs of lateral veins. Inflorescence arising on the large branches, well below the leaves, more rarely on the upper part of the trunk, with ferruginous hairs; bracts > 1 cm in length. Male flower: pedicel 1–2.5 mm; calyx hairy, with lobes 0.5 mm in length; petals narrowly elliptic, 2.5–3 × 1 mm, pink; stamens 3–3.5 mm in length; disk circular, glabrous. Female flower: larger than the male flower, sessile to shortly pedicellate; petals 2.5–3.5 × 1 mm; ovary globose, subglabrous; stigmas 3 or 4, subsessile. Fruit ± 4 cm in length, pink to red at maturity, glabrous.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Cameroun, Guinée équatoriale (Rio Muni) et Gabon ; au Gabon, connu de l’Estuaire, de l’Ogooué-Ivindo et du Woleu-Ntem
+Cameroon, Equatorial Guinea (Rio Muni) and Gabon; in Gabon, known from Estuaire, Ogooué-Ivindo and Woleu-Ntem
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-forêt primaire et secondarisée ; au Gabon à jusqu’à 500 m d’altitude, ailleurs jusqu’à 800 m
+Primary and secondarized forest; in Gabon up to 500 m in altitude, elsewhere up to 800 m
 
 ## Uses
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Le fruit est comestible
+The fruit is edible
 
 ## Vernacular names
 
@@ -45,11 +44,9 @@ Engong (nom pilote)
 
 ## Source note
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+The description of the flowers is given after the protologue of Engler & Brehmer (1917). B: Breteler (2004), Wilks & Issembé (2000). Bibliography
 
-La description des fleurs est donnée d’après le protologue d’Engler & Brehmer (1917). B : Breteler (2004), Wilks & Issembé (2000). i B liographie
-
-Trichoscypha 35 Poils étoilés. – 8. Bouton floral. – 9. Infrutescence. – 10. Fruit. – 11. Détail de la pilosité du fruit. (1–11 : van der Maesen et al. 5837 ). Dessin par Hans de Vries, Jardin botanique Meise (©).
+Trichoscypha 35 Stellate hairs. – 8. Flower bud. – 9. Infrutescence. – 10. Fruit. – 11. Detail of the pubescence of the fruit. (1–11: van der Maesen et al. 5837). Drawing by Hans de Vries, Meise Botanic Garden (©).
 
 36 Frans J. BRETELER
 

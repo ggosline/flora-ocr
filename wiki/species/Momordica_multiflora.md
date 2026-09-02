@@ -7,6 +7,13 @@ family: Cucurbitaceae
 vol: 57
 pages: 95-97
 source: sources/Cucurbitaceae_vol57_paddle
+countries: [Cote d'Ivoire, Gabon, Uganda]
+in_region: true
+subdivisions:
+  Gabon: [Ogooué-Ivindo, Ogooué-Lolo, Ogooué-Maritime]
+habit: "herb"
+habitat: [secondary forest, evergreen forest]
+altitude_m: "50–500"
 tags: [species, generated]
 ---
 # *Momordica multiflora* Hook.f.

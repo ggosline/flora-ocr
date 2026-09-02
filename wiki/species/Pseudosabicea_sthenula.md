@@ -7,6 +7,8 @@ family: Rubiaceae
 vol: 12
 pages: 210-212
 source: sources/Rubiaceae_vol12_paddle
+habit: "herb"
+habitat: [riverine]
 tags: [species, generated]
 ---
 # *Pseudosabicea sthenula* N. Hallé sp. nov. (P.L. 43).

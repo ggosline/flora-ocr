@@ -7,6 +7,9 @@ family: Orchidaceae
 vol: 36
 pages: 161-161
 source: sources/Orchidaceae_vol36_paddle
+countries: [Cameroon, Central African Republic, Cote d'Ivoire, Equatorial Guinea, Gabon, Ghana, Liberia, Nigeria]
+in_region: true
+habitat: [mangrove, evergreen forest]
 tags: [species, generated]
 ---
 # *Bulbophyllum magnibracteatum* Summerh.
@@ -37,7 +40,7 @@ Lecomte s.n., Batanga on the Rambo, N'Komi, P!
 
 ![Bulbophyllum magnibracteatum](../sources/Orchidaceae_vol36_paddle/figures/fig_082_p0160.png)
 
-*PL. 77. – Bulbophyllum magnibracteatum Summerh.: A, B, vue générale ; C, fleur ; D, pièces florales ; E, labelle ; F, labelle et gynostème en position naturelle, vue latérale ; G, anthère (A-G, ex VERMEULEN, 1987).*
+*PL. 77. – Bulbophyllum magnibracteatum Summerh.: A, B, general view; C, flower; D, floral parts; E, labellum; F, labellum and gynostemium in natural position, lateral view; G, anther (A-G, ex VERMEULEN, 1987).*
 
 ![Bulbophyllum magnibracteatum](../sources/Orchidaceae_vol36_paddle/figures/fig_139_p0224.png)
 

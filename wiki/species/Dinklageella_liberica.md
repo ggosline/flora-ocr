@@ -7,6 +7,8 @@ family: Orchidaceae
 vol: 37
 pages: 181-183
 source: sources/Orchidaceae_vol37_paddle
+countries: [Cameroon, Cote d'Ivoire, Democratic Republic of the Congo, Equatorial Guinea, Gabon, Liberia, Nigeria]
+in_region: true
 tags: [species, generated]
 ---
 # *Dinklageella liberica* Mansf.

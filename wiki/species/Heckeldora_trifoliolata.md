@@ -7,6 +7,13 @@ family: Meliaceae
 vol: 47
 pages: 37-39
 source: sources/Meliaceae_vol47_liteparse
+countries: [Gabon]
+in_region: true
+subdivisions:
+  Gabon: [Estuaire, Ngounié, Nyanga, Ogooué-Maritime]
+habit: "shrub"
+habitat: [rocky ground]
+altitude_m: "350"
 tags: [species, generated]
 ---
 # *Heckeldora trifoliolata* J.J.de Wilde Planche 9

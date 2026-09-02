@@ -7,6 +7,12 @@ family: Scrophulariaceae
 vol: 48
 pages: 111-112
 source: sources/Scrophulariaceae_vol48_liteparse
+countries: [Cameroon, Democratic Republic of the Congo, Gabon]
+in_region: true
+subdivisions:
+  Gabon: [Haut-Ogooué]
+habit: "herb"
+altitude_m: "640"
 tags: [species, generated]
 ---
 # *Buchnera paucidentata* Engl. ex Skan Planche 56(D–E)

@@ -7,6 +7,13 @@ family: Leguminosae
 vol: 49
 pages: 166-168
 source: sources/Millettiaspeciesfabaceae_vol49_liteparse
+countries: [Gabon]
+in_region: true
+subdivisions:
+  Gabon: [Estuaire, Haut-Ogooué, Moyen-Ogooué, Ngounié, Nyanga, Ogooué-Ivindo, Ogooué-Maritime, Woleu-Ntem]
+habit: "herb"
+habitat: [rocky ground]
+altitude_m: "5–620"
 tags: [species, generated]
 ---
 # *Desmodium adscendens* (Sw.) DC. var. adscendens Planche 54

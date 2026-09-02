@@ -7,6 +7,10 @@ family: Begoniaceae
 vol: 39
 pages: 74-80
 source: sources/Begoniaceae_vol39_liteparse
+countries: [Angola, Burundi, Cameroon, Equatorial Guinea, Gabon, Nigeria, Rwanda, Tanzania]
+in_region: true
+habit: "epiphyte"
+altitude_m: "470–2250"
 tags: [species, generated]
 ---
 # *Begonia poculifera* Hook.f. var. poculifera Planche 35

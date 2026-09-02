@@ -73,7 +73,7 @@ Thollon s.n., Gabon-Congo (fl., fr.).
 
 ![Bixa orellana](../sources/Bixaceae_vol22_paddle/figures/fig_019_p0063.png)
 
-*PL. 15. — Bixa orellana L. : 1, rameau feuillé et fleurs × 2/3; 2, détail d'un rameau jeune × 3; 3, poil pelté; 4, bouton floral × 1,5; 5, diagramme floral; 6, pétale × 1,2; 7, anthère × 4,5; 8, pistil × 4,5; 9, fruit × 0,8; 10, graine × 4,5 (Hallé N. & Le Thomas 208).*
+*PL. 15. — Bixa orellana L. : 1, leafy branch and flowers × 2/3; 2, detail of a young branch × 3; 3, peltate hair; 4, flower bud × 1,5; 5, floral diagram; 6, petal × 1,2; 7, anther × 4,5; 8, pistil × 4,5; 9, fruit × 0,8; 10, seed × 4,5 (Hallé N. & Le Thomas 208).*
 
 ## Notes
 

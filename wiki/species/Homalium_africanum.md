@@ -7,6 +7,8 @@ family: Flacourtiaceae
 vol: 34
 pages: 70-73
 source: sources/Flacourtiaceae_vol34_paddle
+countries_incomplete: true
+habitat: [swamp forest]
 tags: [species, generated]
 ---
 # *Homalium africanum* (Hook. f.) Benth.
@@ -97,7 +99,7 @@ Walker s. n., St Martin, bord des fleuves, sept. 1938, fl. (P).
 
 ![Homalium africanum](../sources/Flacourtiaceae_vol34_paddle/figures/fig_021_p0072.png)
 
-*PL. 21. – Homalium africanum (Hook. f.) Benth. : 1, rameau florifère ; 2, fleur ; 3, stipule ; 4, autre rameau, feuilles sans stipules (souvent caduques) ; 5, fruit, détail du pistil ; 6, coupe longitudinale de l'ovaire. (1 et 2. Le Testu 9621 ; 3. Makany 2154 ; 4-6. Le Testu 7370).*
+*PL. 21. – Homalium africanum (Hook. f.) Benth. : 1, flowering branch ; 2, flower ; 3, stipule ; 4, another branch, leaves without stipules (often caducous) ; 5, fruit, detail of the pistil ; 6, longitudinal section of the ovary. (1 and 2. Le Testu 9621 ; 3. Makany 2154 ; 4-6. Le Testu 7370).*
 
 ## Notes
 

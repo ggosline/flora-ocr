@@ -7,6 +7,7 @@ family: Pteridophytes
 vol: 08
 pages: 13-14
 source: sources/Salviniaceae_vol08_paddle
+habit: "epiphyte"
 tags: [species, generated]
 ---
 # *Lycopodium phlegmaria* Linné

@@ -7,6 +7,8 @@ family: Orchidaceae
 vol: 36
 pages: 113-115
 source: sources/Orchidaceae_vol36_paddle
+countries: [Gabon]
+in_region: true
 tags: [species, generated]
 ---
 # *Phaius mannii* Rchb.f.

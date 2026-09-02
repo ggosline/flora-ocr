@@ -7,6 +7,13 @@ family: Cyperaceae
 vol: 44
 pages: 171-172
 source: sources/Cyperaceae_vol44_liteparse
+countries: [Cameroon, Equatorial Guinea, Gabon]
+in_region: true
+subdivisions:
+  Gabon: [Moyen-Ogooué, Ngounié, Nyanga, Ogooué-Ivindo, Ogooué-Maritime, Woleu-Ntem]
+habit: "herb"
+habitat: [rocky ground]
+altitude_m: "100–700"
 tags: [species, generated]
 ---
 # *Mapania lancifolia* (C.B.Clarke) Lye Planche 110(1-2), Figure 16a

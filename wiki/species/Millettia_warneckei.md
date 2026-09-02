@@ -7,6 +7,10 @@ family: Leguminosae
 vol: 49
 pages: 286-287
 source: sources/Millettiaspeciesfabaceae_vol49_liteparse
+countries: [Cameroon, Equatorial Guinea, Gabon, Guinea, Nigeria]
+in_region: true
+habit: "tree"
+altitude_m: "240–450"
 tags: [species, generated]
 ---
 # *Millettia warneckei* Harms var. warneckei

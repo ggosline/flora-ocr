@@ -7,6 +7,8 @@ family: Orchidaceae
 vol: 37
 pages: 187-189
 source: sources/Orchidaceae_vol37_paddle
+countries: [Cameroon, Democratic Republic of the Congo, Gabon, Ghana]
+in_region: true
 tags: [species, generated]
 ---
 # *Aerangis arachnopus* (Rchb.f.) Schltr.
@@ -51,7 +53,7 @@ Le Testu 5137, Haute Ngounyé, Monila (fl. Dec.), P! ; 5799 & 5812, Haute Ngouny
 
 ![Aerangis arachnopus](../sources/Orchidaceae_vol37_paddle/figures/fig_089_p0190.png)
 
-*PL. 195. – Aerangis arachnopus (Rchb.f.) Schltr. : A, labelle, éperon, pédicelle, ovaire et bractée florale ; B, labelle ; C, pétale ; D, sépale latéral ; E, sépale dorsal ; F, gynostème, vue latérale, anthère enlevée ; G, feuille ; H, extrémité foliaire ; I, fleur, vue de face (A-G, Le Testu 5137, P. ; H-I, ex STEWART, 1979, modifié).*
+*PL. 195. – Aerangis arachnopus (Rchb.f.) Schltr. : A, labellum, spur, pedicel, ovary and floral bract ; B, labellum ; C, petal ; D, lateral sepal ; E, dorsal sepal ; F, gynosteme, lateral view, anther removed ; G, leaf ; H, leaf tip ; I, flower, front view (A-G, Le Testu 5137, P. ; H-I, ex STEWART, 1979, modified).*
 
 ## Notes
 

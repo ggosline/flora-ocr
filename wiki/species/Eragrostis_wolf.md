@@ -73,7 +73,7 @@ Alers & Blom (Lopé) 154, 31.07.1986, c. 0°07'S-11°37'E, Réserve de la Lopé 
 
 ![Eragrostis wolf](../sources/Gramineae_vol5bis_paddle/figures/fig_006_p0030.png)
 
-*Pl. 6. - Eragrostis ciliaris (L.) R. Br. : 1, aspect de la plante ; 2, épillet. - Hyparrhenia cyanescens (Stapf) Stapf : 3, aspect de la plante ; 4, paire de racèmes ; 5, 6, triade d'épillets ; 7, lemma supérieure. - Autorisation de reproduction : cf. Remerciements p. 68.*
+*Pl. 6. - Eragrostis ciliaris (L.) R. Br. : 1, plant habit ; 2, spikelet. - Hyparrhenia cyanescens (Stapf) Stapf : 3, plant habit ; 4, pair of racemes ; 5, 6, triad of spikelets ; 7, upper lemma. - Reproduction authorization : cf. Acknowledgements p. 68.*
 
 ## Notes
 

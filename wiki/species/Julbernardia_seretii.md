@@ -6,6 +6,9 @@ family: Leguminosae
 vol: 15
 pages: 293-295
 source: sources/Leguminosae_vol15_paddle
+countries: [Cameroon, Gabon, Nigeria]
+in_region: true
+habit: "tree"
 tags: [species, generated]
 ---
 # *Julbernardia seretii*
@@ -55,7 +58,7 @@ N. Hallé et Le Thomas : 683, 684, 685, Bélinga (j. fr. juil.). Le Testu : 7487
 
 ![Julbernardia seretii](../sources/Leguminosae_vol15_paddle/figures/fig_074_p0294.png)
 
-*PL. LXXIV. — Julbernardia Brieyi (De Wild.) Troupin; 1, rameau × 2/3; 2, fleur × 2, 7; 3, 4, sépales × 3; 5, grand pétale × 3; 6, 7, types de petits pétales × 3; 8, fruit × 2/3. — Julbernardia Seretii (De Wild.) Troupin : 9, rameau florifère × 2/3; 10, fleur × 2, 7; 11, 12, 13, sépales × 3; 14, type de petit pétale.*
+*PL. LXXIV. — Julbernardia Brieyi (De Wild.) Troupin; 1, branch × 2/3; 2, flower × 2, 7; 3, 4, sepals × 3; 5, large petal × 3; 6, 7, types of small petals × 3; 8, fruit × 2/3. — Julbernardia Seretii (De Wild.) Troupin : 9, flowering branch × 2/3; 10, flower × 2, 7; 11, 12, 13, sepals × 3; 14, type of small petal.*
 
 ## Notes
 

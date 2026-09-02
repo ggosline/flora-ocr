@@ -7,6 +7,7 @@ family: Vitaceae
 vol: 14
 pages: 115-117
 source: sources/Vitaceae_vol14_paddle
+habit: "herb"
 tags: [species, generated]
 ---
 # *Cyphostemma ukerewense* (Gilg) Descoings var. gabonicum Descoings

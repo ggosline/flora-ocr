@@ -5,12 +5,9 @@ authority: L.
 genus: Tribulus
 family: Zygophyllaceae
 synonyms: []
-countries: [Ghana]
 range_note: "Pantropical and warm-temperate; Gabon occurrence unconfirmed"
-in_region: false
-habit: prostrate herb
-habitat: [sandy xeric ground, gravelly xeric ground, ruderal sites]
 treatments: [{vol: 6, year: 1963, pages: "110–111", source: sources/Zygophyllaceae_vol6_paddle}]
+habit: "herb"
 tags: [species]
 ---
 

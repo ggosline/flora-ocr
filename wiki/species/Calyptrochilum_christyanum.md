@@ -7,6 +7,11 @@ family: Orchidaceae
 vol: 37
 pages: 175-179
 source: sources/Orchidaceae_vol37_paddle
+countries: [Angola, Cameroon, Central African Republic, Cote d'Ivoire, Democratic Republic of the Congo, Gabon, Gambia, Ghana, Guinea, Guinea-Bissau, Kenya, Liberia, Malawi, Mali, Mozambique, Nigeria, Rwanda, Senegal, Sierra Leone, Sudan, Tanzania, Togo, Uganda, Zambia, Zimbabwe]
+in_region: true
+habit: "herb"
+habitat: [savanna, secondary forest]
+altitude_m: "35"
 tags: [species, generated]
 ---
 # *Calyptrochilum christyanum* (Rchb.f.) Summerh.
@@ -83,11 +88,11 @@ J. M. & B. Reitsma 1727, Chantier CEB, approximately 45 km SW of Doussala, 2° 3
 
 ![Calyptrochilum christyanum](../sources/Orchidaceae_vol37_paddle/figures/fig_082_p0177.png)
 
-*PL. 188. – Structure du gynostème du genre Calyptrochilum Kraenzl. : A, vue de face ; B, vue de face, anthère enlevée ; C, reste du rostelle, vue de face ; D, vue latérale ; E, anthère ; F-H, pollinaire, vues diverses ; I, J, pollinies (A-J, ex SZLACHETKO, 2003).*
+*PL. 188. – Structure of the gynostemium of the genus Calyptrochilum Kraenzl. : A, frontal view ; B, frontal view, anther removed ; C, remainder of rostellum, frontal view ; D, lateral view ; E, anther ; F-H, pollinaria, various views ; I, J, pollinia (A-J, ex SZLACHETKO, 2003).*
 
 ![Calyptrochilum christyanum](../sources/Orchidaceae_vol37_paddle/figures/fig_083_p0178.png)
 
-*PL. 189. – Calyptrochilum christyanum (Rchb. f.) Summerh. : A, éperon, labelle, gynostème, ovaire, pédicelle et bractée florale ; B, F, H, labelle ; C, sépale dorsal ; D, pétale ; E, sépale latéral ; G, I, éperon ; J, vue générale (A-E, Sita 729, P ; F, G, Hallé 2104, P ; H, I, Pobeguin 214, P).*
+*PL. 189. – Calyptrochilum christyanum (Rchb. f.) Summerh. : A, spur, labellum, gynosteme, ovary, pedicel and floral bract ; B, F, H, labellum ; C, dorsal sepal ; D, petal ; E, lateral sepal ; G, I, spur ; J, general view (A-E, Sita 729, P ; F, G, Hallé 2104, P ; H, I, Pobeguin 214, P).*
 
 ![Calyptrochilum christyanum](../sources/Orchidaceae_vol37_paddle/figures/fig_166_p0259.png)
 

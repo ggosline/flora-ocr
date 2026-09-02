@@ -7,6 +7,13 @@ family: Cyperaceae
 vol: 44
 pages: 135-136
 source: sources/Cyperaceae_vol44_liteparse
+countries: [Gabon]
+in_region: true
+subdivisions:
+  Gabon: [Haut-Ogooué]
+habit: "herb"
+habitat: [savanna]
+altitude_m: "1500"
 tags: [species, generated]
 ---
 # *Eleocharis retroflexa* (Poir.) Urban Planche 86

@@ -7,6 +7,12 @@ family: Leguminosae
 vol: 49
 pages: 21-23
 source: sources/Millettiaspeciesfabaceae_vol49_liteparse
+countries: [Gabon]
+in_region: true
+subdivisions:
+  Gabon: [Estuaire, Haut-Ogooué, Moyen-Ogooué, Ogooué-Maritime, Woleu-Ntem]
+habit: "herb"
+altitude_m: "0–580"
 tags: [species, generated]
 ---
 # *Abrus precatorius* L. Planche 2

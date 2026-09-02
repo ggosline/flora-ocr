@@ -7,6 +7,7 @@ family: Polygonaceae
 vol: 07
 pages: 13-14
 source: sources/Polygonaceae_vol07_paddle
+habit: "herb"
 tags: [species, generated]
 ---
 # *Polygonum lanigerum* R. Br. var. africanum Meisn.

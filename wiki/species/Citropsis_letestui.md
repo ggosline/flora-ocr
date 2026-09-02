@@ -5,10 +5,9 @@ authority: Pellegr.
 genus: Citropsis
 family: Rutaceae
 synonyms: []
+treatments: [{vol: 6, pages: "99–100", source: sources/Rutaceae_vol6_paddle}]
 countries: [Gabon]
 in_region: true
-habit: woody plant
-treatments: [{vol: 6, pages: "99–100", source: sources/Rutaceae_vol6_paddle}]
 tags: [species, endemic]
 ---
 

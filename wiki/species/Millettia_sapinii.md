@@ -7,6 +7,13 @@ family: Leguminosae
 vol: 49
 pages: 285-286
 source: sources/Millettiaspeciesfabaceae_vol49_liteparse
+countries: [Democratic Republic of the Congo, Gabon, Republic of the Congo]
+in_region: true
+subdivisions:
+  Gabon: [Haut-Ogooué, Ogooué-Ivindo, Ogooué-Lolo]
+habit: "liana"
+habitat: [savanna]
+altitude_m: "300–500"
 tags: [species, generated]
 ---
 # *Millettia sapinii* De Wild. var. sapinii

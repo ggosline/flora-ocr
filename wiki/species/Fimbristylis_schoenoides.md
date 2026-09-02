@@ -7,6 +7,11 @@ family: Cyperaceae
 vol: 44
 pages: 150-152
 source: sources/Cyperaceae_vol44_liteparse
+countries: [Gabon]
+in_region: true
+subdivisions:
+  Gabon: [Estuaire, Ogooué-Ivindo, Ogooué-Maritime]
+habit: "herb"
 tags: [species, generated]
 ---
 # *Fimbristylis schoenoides* (Retz.) Vahl Planche 99

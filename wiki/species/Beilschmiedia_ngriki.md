@@ -7,6 +7,9 @@ family: Lauraceae
 vol: 10
 pages: 38-40
 source: sources/Lauraceae_vol10_paddle
+countries: [Cameroon, Gabon]
+in_region: true
+habit: "tree"
 tags: [species, generated]
 ---
 # *Beilschmiedia ngriki* Chevalier.
@@ -38,7 +41,7 @@ Le Testu : 9191, Oyem (fl. juillet) ; 9605, Oyem (fl. juin).
 
 ![Beilschmiedia ngriki](../sources/Lauraceae_vol10_paddle/figures/fig_007_p0039.png)
 
-*PL. VI. — 1 à 4, Beilschmiedia Corbisieri (Rob.) Rob. et Wilcz. (Klaine 2283, type de B. megaphylla) : 1, rameau florifère avec feuille de 24 cm; 2, bractées de 4 mm; 3, fleur de 3 mm de diam.; 3′, coupe; 3″, ovaire; 4, fruit. — 5 à 8, B. ngriki Chev. (Chevalier 7034, type) : 5, rameau florifère, feuille de 18 cm; 6, bractées de 4 mm; 7, fleur de 2 mm de diam.; 7′, coupe; 7″, ovaire; 8, fruit de 3 cm.*
+*PL. VI. — 1 to 4, Beilschmiedia Corbisieri (Rob.) Rob. et Wilcz. (Klaine 2283, type of B. megaphylla) : 1, flowering branch with leaf of 24 cm; 2, bracts of 4 mm; 3, flower of 3 mm diam.; 3′, section; 3″, ovary; 4, fruit. — 5 to 8, B. ngriki Chev. (Chevalier 7034, type) : 5, flowering branch, leaf of 18 cm; 6, bracts of 4 mm; 7, flower of 2 mm diam.; 7′, section; 7″, ovary; 8, fruit of 3 cm.*
 
 ## Notes
 

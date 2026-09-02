@@ -43,7 +43,7 @@ Le Testu 2192, Ngounié, près chutes de la Waka (nov.); 5710, 5722, Ngounié, r
 
 ![Dicellandra glanduligera](../sources/Melastomataceae_vol25_paddle/figures/fig_037_p0101.png)
 
-*PL. 37. — Dicellandra glanduligera (Pellegr.) Jacq.-Fél. : 1, plante entière × 2/3; 2, fleur × 6; 3, jeune fruit en coupe partielle × 6; 4, étamine × 6; 5, fruit × 6 (Le Testu 2192). (Repris d'Adansonia. sér. 2. 14 (1) : tab. 8, 1974)*
+*PL. 37. — Dicellandra glanduligera (Pellegr.) Jacq.-Fél. : 1, entire plant × 2/3; 2, flower × 6; 3, young fruit in partial section × 6; 4, stamen × 6; 5, fruit × 6 (Le Testu 2192). (Reproduced from Adansonia. sér. 2. 14 (1) : tab. 8, 1974)*
 
 ## Notes
 

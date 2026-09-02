@@ -7,6 +7,13 @@ family: Leguminosae
 vol: 49
 pages: 344-347
 source: sources/Millettiaspeciesfabaceae_vol49_liteparse
+countries: [Democratic Republic of the Congo, Gabon, Tanzania]
+in_region: true
+subdivisions:
+  Gabon: [Woleu-Ntem]
+habit: "tree"
+habitat: [swamp forest, primary forest]
+altitude_m: "1050"
 tags: [species, generated]
 ---
 # *Schefflerodendron usambarense* Harms Planche 116

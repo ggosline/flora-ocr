@@ -7,6 +7,12 @@ family: Verbenaceae
 vol: 58
 pages: 137-138
 source: sources/Verbenaceae_vol58_liteparse
+countries: [Angola, Central African Republic, Gabon, Nigeria]
+in_region: true
+subdivisions:
+  Gabon: [Nyanga]
+habit: "tree"
+altitude_m: "300"
 tags: [species, generated]
 ---
 # *Lantana trifolia* L.

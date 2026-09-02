@@ -5,20 +5,17 @@ authority: L.
 genus: Ceratophyllum
 family: Ceratophyllaceae
 synonyms: []
-countries: [Gabon]
-subdivisions:
-  Gabon: [Estuaire, Ogooué-Ivindo, Ogooué-Lolo, Nyanga]
 range_note: Cosmopolitan and known throughout Africa.
-countries_incomplete: true
-in_region: true
-habit: submerged aquatic herb
-habitat: [freshwater lakes, rivers, streams, marshes, estuarine water]
-altitude_m: "60–500 in Gabon; 3–1600 elsewhere"
 treatments:
   - vol: 52
     year: 2018
     pages: "10–12"
     source: sources/Ceratophyllaceae_vol52_liteparse
+countries: [Gabon]
+in_region: true
+subdivisions:
+  Gabon: [Estuaire, Nyanga, Ogooué-Ivindo, Ogooué-Lolo]
+habit: "herb"
 tags: [species]
 ---
 

@@ -7,6 +7,11 @@ family: Passifloraceae
 vol: 46
 pages: 80-82
 source: sources/Passifloraceae_vol46_liteparse
+countries: [Angola, Benin, Gabon]
+in_region: true
+habit: "tree"
+habitat: [mangrove, coastal]
+altitude_m: "650"
 tags: [species, generated]
 ---
 # *Barteria nigritana* Hook.f.

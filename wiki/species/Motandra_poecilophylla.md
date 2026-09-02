@@ -7,6 +7,7 @@ family: Apocynaceae
 vol: 59
 pages: 167-170
 source: sources/Apocynaceae_vol59_liteparse
+habit: "liana"
 tags: [species, generated]
 ---
 # *Motandra poecilophylla* Wernham Planche 77 ; Figure 8(H, I)

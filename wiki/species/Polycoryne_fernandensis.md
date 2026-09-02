@@ -7,6 +7,9 @@ family: Rubiaceae
 vol: 17
 pages: 212-215
 source: sources/Rubiaceae_vol17_paddle
+countries: [Angola, Guinea, Togo]
+in_region: true
+habit: "liana"
 tags: [species, generated]
 ---
 # *Polycoryne fernandensis* (Hiern) Keay
@@ -54,7 +57,7 @@ G. Le Testu 1702, Mayombe Bayaka, Tchibanga (fl. March); 1923, gallery of the Ny
 
 ![Polycoryne fernandensis](../sources/Rubiaceae_vol17_paddle/figures/fig_049_p0213.png)
 
-*PL. 48. — Polycoryne fernandensis (Hiern) Keay (fl. Le Testu 7938 et, 4 et 8, Klaine 1380; fr. Fleury 26187) : 1, feuille × 2/3; 2, stipules × 2; 3, bouton × 1,5; 4, autre bouton; 5, inflorescence × 2/3; 6, fleur × 1,5; 7 et 8, calice × 3; 9, étan-mine × 5; 10, coupe transversale de l'anthère; 11, style × 4; 12, fruit × 2/3; 13, graine × 1,5. — Preussiodora sulfurea (K. Schum.) Keay (Preuss 1836, sauf 19) : 14, stipules × 2; 15, sommet du pétiole × 4; 16, fleur × 1,2; 17, pétale × 1,5; 18, sépale × 1,5; 19, autre sépale (Lecomte E 66).*
+*PL. 48. — Polycoryne fernandensis (Hiern) Keay (fl. Le Testu 7938 et, 4 and 8, Klaine 1380; fr. Fleury 26187) : 1, leaf × 2/3; 2, stipules × 2; 3, bud × 1,5; 4, another bud; 5, inflorescence × 2/3; 6, flower × 1,5; 7 and 8, calyx × 3; 9, stamen × 5; 10, transverse section of anther; 11, style × 4; 12, fruit × 2/3; 13, seed × 1,5. — Preussiodora sulfurea (K. Schum.) Keay (Preuss 1836, except 19) : 14, stipules × 2; 15, petiole apex × 4; 16, flower × 1,2; 17, petal × 1,5; 18, sepal × 1,5; 19, another sepal (Lecomte E 66).*
 
 ## Notes
 

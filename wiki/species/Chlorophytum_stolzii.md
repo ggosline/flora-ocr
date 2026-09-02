@@ -7,6 +7,11 @@ family: Anthericaceae
 vol: 41
 pages: 15-17
 source: sources/Anthericaceae_vol41_liteparse
+countries: [Angola, Burundi, Democratic Republic of the Congo, Gabon, Malawi, Mozambique, Tanzania, Zambia]
+in_region: true
+subdivisions:
+  Gabon: [Haut-Ogooué]
+altitude_m: "400"
 tags: [species, generated]
 ---
 # *Chlorophytum stolzii* (K.Krause) Kativu

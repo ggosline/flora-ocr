@@ -19,13 +19,12 @@ synonyms:
   - C. boehmii Bak.
   - C. lituratum (Reichenb.) Ravenna
   - C. toxicarium A. Chev.
-countries: [Gabon]
-in_region: true
-habit: bulbous herb
 treatments:
   - vol: 28
     pages: "38–39"
     source: sources/Amaryllidaceae_vol28_paddle
+countries: [Gabon, Guinea]
+in_region: true
 tags: [species]
 ---
 

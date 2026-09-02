@@ -7,6 +7,9 @@ family: Celastraceae
 vol: 29
 pages: 129-131
 source: sources/Celastraceae_vol29_paddle
+countries: [Cameroon, Gabon]
+in_region: true
+habit: "liana"
 tags: [species, generated]
 ---
 # *Salacia adolfi-fridericii* Loesener ex Harms

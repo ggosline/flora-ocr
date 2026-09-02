@@ -7,6 +7,12 @@ family: Leguminosae
 vol: 49
 pages: 97-99
 source: sources/Millettiaspeciesfabaceae_vol49_liteparse
+countries: [Gabon]
+in_region: true
+subdivisions:
+  Gabon: [Nyanga]
+habit: "herb"
+altitude_m: "100"
 tags: [species, generated]
 ---
 # *Crotalaria goreensis* Guill. & Perr. Planche 29.9–11

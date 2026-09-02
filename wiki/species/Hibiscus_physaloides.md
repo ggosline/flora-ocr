@@ -7,6 +7,13 @@ family: Malvaceae
 vol: 45
 pages: 70-71
 source: sources/Malvaceae_vol45_liteparse
+countries: [Angola, Gabon, Madagascar, Senegal, Uganda, Zimbabwe]
+in_region: true
+subdivisions:
+  Gabon: [Ngounié, Nyanga, Ogooué-Ivindo, Ogooué-Maritime]
+habit: "herb"
+habitat: [swamp forest]
+altitude_m: "0–200"
 tags: [species, generated]
 ---
 # *Hibiscus physaloides* Guill. & Perr. Planche 19

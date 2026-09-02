@@ -8,19 +8,14 @@ synonyms:
   - Bassa Djawe de Lanessan
   - Baillonella Djawe Pierre msc.
   - Mimusops Djave (Laness.) Engl.
-habit: tree
-habitat: [primary humid forest]
-altitude_m: ""
-countries: [Angola, Cameroon, Kouilou, southern Nigeria]
-subdivisions:
-  Angola: [Cabinda]
 range_note: "Mayombe"
-in_region: true
-countries_incomplete: true  # source gives localities but no country/province list; needs review
 treatments:
   - vol: 1
     pages: "55-61"
     source: sources/Sapotaceae_vol01_paddle
+countries: [Angola, Cameroon, Gabon, Nigeria]
+in_region: true
+habit: "tree"
 tags: [species]
 ---
 

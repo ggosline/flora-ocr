@@ -7,6 +7,8 @@ family: Connaraceae
 vol: 33
 pages: 37-41
 source: sources/Connaraceae_vol33_paddle
+countries: [Equatorial Guinea, Madagascar, Sao Tome and Principe]
+in_region: true
 tags: [species, generated]
 ---
 # *Agelaea pentagyna* (Lamarck) Baillon
@@ -85,11 +87,11 @@ We believe that A. pentagyna forms a complex of numerous microspecies or forms a
 
 ![Agelaea pentagyna](../sources/Connaraceae_vol33_paddle/figures/fig_014_p0038.png)
 
-*PL. 8. – Agelaea pentagyna (Lamarck) Baillon : 9 formes différentes de la foliole terminale (aucune de ces formes ne prévaut dans la région Cameroun-Gabon, contrairement aux autres régions de l'Afrique et à Madagascar où une ou deux de ces formes paraissent plus représentées que les autres). – Repris de AUWP 89 (6).*
+*PL. 8. – Agelaea pentagyna (Lamarck) Baillon : 9 different forms of the terminal leaflet (none of these forms prevails in the Cameroon-Gabon region, contrary to other regions of Africa and Madagascar where one or two of these forms appear more represented than the others). – Reprinted from AUWP 89 (6).*
 
 ![Agelaea pentagyna](../sources/Connaraceae_vol33_paddle/figures/fig_015_p0040.png)
 
-*PL. 9. – Agelaea pentagyna (Lamarck) Baillon : 1, rameau florifère × 2/3 ; 2, 3, feuilles × 2/3 ; 4, sépales × 8 ; 5, fruit × 2 ; 6, follicule, section longitudinale montrant un cotylédon et la radicule apicale × 2 ; 7, graine montrant le sarcotesta et le hile × 2. (1. Hart 448 ; de Kruif 127 ; 3, da Silva 2266 ; 4, van Veldhuizen 762 ; 5-7, Bos 3534). – Repris de AUWP 89 (6).*
+*PL. 9. – Agelaea pentagyna (Lamarck) Baillon : 1, floriferous branch × 2/3 ; 2, 3, leaves × 2/3 ; 4, sepals × 8 ; 5, fruit × 2 ; 6, follicle, longitudinal section showing a cotyledon and apical radicle × 2 ; 7, seed showing sarcotesta and hilum × 2. (1. Hart 448 ; de Kruif 127 ; 3, da Silva 2266 ; 4, van Veldhuizen 762 ; 5-7, Bos 3534). – Reprinted from AUWP 89 (6).*
 
 ## Notes
 

@@ -7,6 +7,11 @@ family: Begoniaceae
 vol: 39
 pages: 13-13
 source: sources/Begoniaceae_vol39_liteparse
+countries: [Gabon]
+in_region: true
+habit: "herb"
+habitat: [rocky ground]
+altitude_m: "350"
 tags: [species, generated]
 ---
 # *Begonia aspleniifolia* Hook.f. ex A.DC. Planche 2

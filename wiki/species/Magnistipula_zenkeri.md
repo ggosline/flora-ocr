@@ -7,6 +7,8 @@ family: Scytopetalaceae
 vol: 24
 pages: 95-99
 source: sources/Chrysobalanaceae_vol24_paddle
+countries: [Cameroon, Cote d'Ivoire, Equatorial Guinea, Gabon, Liberia, Sierra Leone]
+in_region: true
 tags: [species, generated]
 ---
 # *Magnistipula zenkeri* Engler
@@ -77,7 +79,7 @@ edou (yaoundé); endumde (fang)
 
 ![Magnistipula zenkeri](../sources/Chrysobalanaceae_vol24_paddle/figures/fig_028_p0097.png)
 
-*PL. 28. — Magnistipula zenkeri Engl. : 1, rameau avec fleurs × 2/3; 2, glandes foliaires × 2/3; 3, 4, stipules 1<sup>re</sup> et 5<sup>e</sup> feuilles × 1; 5, stipules exceptionnelles × 2/3; 6, fragment de jeune inflorescence × 2; 7, fleur entrouverte × 1; 8, fleur ouverte × 3/2. (1, 3-4, De Wilde 2270; 2, Letouzey 11235; 5, Zenker 4525; 6-8, Le Testu 9441).*
+*PL. 28. — Magnistipula zenkeri Engl. : 1, branch with flowers × 2/3; 2, foliar glands × 2/3; 3, 4, stipules 1st and 5th leaves × 1; 5, exceptional stipules × 2/3; 6, fragment of young inflorescence × 2; 7, half-open flower × 1; 8, open flower × 3/2. (1, 3-4, De Wilde 2270; 2, Letouzey 11235; 5, Zenker 4525; 6-8, Le Testu 9441).*
 
 ## Notes
 

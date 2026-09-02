@@ -7,6 +7,7 @@ family: Apocynaceae
 vol: 59
 pages: 111-111
 source: sources/Apocynaceae_vol59_liteparse
+habit: "liana"
 tags: [species, generated]
 ---
 # *Landolphia angustisepala* Pichon Planche 45(1-6)

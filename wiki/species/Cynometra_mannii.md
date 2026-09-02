@@ -7,6 +7,10 @@ family: Leguminosae
 vol: 15
 pages: 70-71
 source: sources/Leguminosae_vol15_paddle
+countries: [Gabon, Nigeria, Sao Tome and Principe]
+in_region: true
+habit: "tree"
+habitat: [mangrove, riverine]
 tags: [species, generated]
 ---
 # *Cynometra mannii* Oliver

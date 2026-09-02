@@ -7,6 +7,11 @@ family: Convolvulaceae
 vol: 46
 pages: 29-31
 source: sources/Convolvulaceae_vol46_liteparse
+countries: [Gabon]
+in_region: true
+subdivisions:
+  Gabon: [Estuaire, Moyen-Ogooué, Nyanga, Ogooué-Ivindo]
+altitude_m: "1800"
 tags: [species, generated]
 ---
 # *Hewittia malabarica* (L.) Suresh Planche 10

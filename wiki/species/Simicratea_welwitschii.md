@@ -7,6 +7,9 @@ family: Celastraceae
 vol: 29
 pages: 183-184
 source: sources/Celastraceae_vol29_paddle
+countries: [Angola, Guinea, Tanzania, Togo]
+in_region: true
+habit: "liana"
 tags: [species, generated]
 ---
 # *Simicratea welwitschii* (Oliver) Hallé
@@ -17,19 +20,17 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-rếf. supra.
+ref. supra.
 
 EXELL & MENDONÇA, CFA 2 (1): 15 (1954); IRVINE, WPG.: 456 (1961).
 
 - Simirestis welwitschii (OLIV.) HALLÉ, Monogr. Hippocr. Afr. occid., Thèse : 59 (1958); Bull. Mus. natn. Hist. nat., 2° sér., 30 (5) : 465 (1958); Bull. IFAN, sér. A, 21 (3) : tab. 51 (1959); Pollen & Spores 2 (1) : 8 (1960); Mém. IFAN 64 : 64 (1962); WILCZEK, FCB 9 : 160 (1960).
 
-Liane dépassant 5-10 m de hauteur. Parties vertes souvent nigres-centes au séchage mais restant parfois vert olive. Pétiole de 6-12(15) mm, canaliculé. Limbe chartacé, concolore, ovale, de 5-12(16)×2-9 cm ; base aiguë ou arrondie ; sommet brièvement acuminé ; marges entières ou médiocrement crénelées dans le tiers supérieur. Nervures secondaires 4-7 paires.
+Liane exceeding 5–10 m in height. Green parts often blackish when dry but sometimes remaining olive green. Petiole 6–12(15) mm, channeled. Blade chartaceous, concolorous, ovate, 5–12(16) × 2–9 cm; base acute or rounded; apex shortly acuminate; margins entire or moderately crenate in the upper third. Secondary veins 4–7 pairs.
 
-Inflorescences glabres en cymes à pédoncule long de 1-3,5 cm, parfois groupées en panicules. Bractées aiguës persistantes de 0,5-1,5 mm. Pédicelle grêle de 2-5(7). Bouton brièvement ové de 1,8-2,5 mm de diamètre. Fleurs vertes ou jaune vert clair de 4-7 mm de diamètre. Sépales inégaux semi-circulaires entiers ou paucidenticulés, larges de 1,5 mm. Pétales sessiles ovés, arrondis au sommet, imbriqués à la base, de 2-2,5 × 1,5-2 mm. Disque vert cupuliforme dans le bouton puis étalé, circulaire, à surface très finement grenue, de 1,5-2 mm de diamètre, au centre un étroit androgynophore dressé haut de 1-1,5 mm. Filets longs de 2 mm ; anthère transversalement elliptique. Ovaire à base trilobée ; style atténué à stigmate à peine trilobulé.
+Inflorescences glabrous in cymes with peduncle 1–3.5 cm long, sometimes grouped into panicles. Bracts acute persistent 0.5–1.5 mm. Pedicel slender 2–5(7) mm. Bud shortly ovoid 1.8–2.5 mm in diameter. Flowers green or pale yellow-green 4–7 mm in diameter. Sepals unequal semicircular entire or few-denticulate, 1.5 mm wide. Petals sessile ovate, rounded at apex, imbricate at base, 2–2.5 × 1.5–2 mm. Disk green cupuliform in bud then spreading, circular, with very finely granular surface, 1.5–2 mm in diameter, at center a narrow erect androgynophore 1–1.5 mm tall. Filaments 2 mm long; anther transversely elliptic. Ovary with trilobed base; style attenuate to barely trilobulate stigma.
 
-Méricarpes oblongs plutôt étroits et minces à sommet variable aigu ou non. Base des valves avec à la base de la face interne une cicatrice de déhiscence haute de 1,5-2,5 mm. Graines 2 par méricarpe, ailées, de 4-5,5 × 1,2-1,5 cm, à légument épaissi autour de l'embryon, en haut de l'aile et sur la nervure marginale ; la couleur est jaune ocracé pâle ou grise, non rousse. - Pl. 52, p. 179.
+Mericarps oblong rather narrow and thin with variable apex acute or not. Base of valves with at the base of the inner face a dehiscence scar 1.5–2.5 mm tall. Seeds 2 per mericarp, winged, 4–5.5 × 1.2–1.5 cm, with thickened integument around the embryo, at the top of the wing and on the marginal vein; the color is pale ochraceous yellow or grey, not rust-colored. — Pl. 52, p. 179.
 
 ## Type
 
@@ -37,9 +38,7 @@ Welwitsch 1322, Angola, Golungo Alto (holo-, BM!; iso-, BR! K! P!)
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-De la Guinée au Congo (Sita 1719, 3793) et à l'Angola, du Togo (Jansen 2657) à la Tanzanie (Dar-es-Salam). Liane de forêt capable de se maintenir dans la végétation dégradée buissonnante.
+From Guinea to Congo (Sita 1719, 3793) and to Angola, from Togo (Jansen 2657) to Tanzania (Dar-es-Salaam). Forest liane capable of persisting in degraded bushy vegetation.
 
 ## Specimens examined
 

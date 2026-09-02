@@ -7,6 +7,9 @@ family: Orchidaceae
 vol: 36
 pages: 179-179
 source: sources/Orchidaceae_vol36_paddle
+countries: [Angola, Cameroon, Central African Republic, Cote d'Ivoire, Gabon, Guinea, Nigeria, Sierra Leone]
+in_region: true
+altitude_m: "2"
 tags: [species, generated]
 ---
 # *Bulbophyllum fuscum* Lindl.
@@ -37,7 +40,7 @@ Bos, van der Laan & Nzabi s.n., Babiel-Sud, route d'Okoumé km 1, 1°3' N, 13°1
 
 ![Bulbophyllum fuscum](../sources/Orchidaceae_vol36_paddle/figures/fig_093_p0181.png)
 
-*PL. 88. – Bulbophyllum fuscum Lindl.: A, vue générale ; B, partie de l'inflorescence ; C, pièces florales ; D, labelle ; E, F, labelle et gynostème en position naturelle, vue latérale (A-F, ex VERMEULEN, 1987).*
+*PL. 88. – Bulbophyllum fuscum Lindl.: A, general view ; B, part of inflorescence ; C, floral parts ; D, labellum ; E, F, labellum and gynostemium in natural position, lateral view (A-F, ex VERMEULEN, 1987).*
 
 ## Notes
 

@@ -7,6 +7,13 @@ family: Solanaceae
 vol: 55
 pages: 130-132
 source: sources/Solanaceae_vol55_liteparse
+countries: [Gabon]
+in_region: true
+subdivisions:
+  Gabon: [Estuaire, Haut-Ogooué, Ngounié, Ogooué-Ivindo, Ogooué-Lolo, Woleu-Ntem]
+habit: "liana"
+habitat: [swamp forest]
+altitude_m: "800"
 tags: [species, generated]
 ---
 # *Solanum terminale* Forssk. Planche 42, Figure 7(F, G)
@@ -17,29 +24,19 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-S. plousianthemum Dammer subsp. holtzii (Dammer) Bitter, Bot. Jahrb. Syst. 54 : 467 (1917). S. terminale Forssk. subsp. inconstans (C.H.Wright) Heine, Kew Bull. 14 : 247 (1960). S. terminale Forssk. subsp. sanaganum (Bitter) Heine, Kew Bull. 14 : 248 (1960). S. terminale Forssk. subsp. welwitschii (C.H.Wright) Heine, Kew Bull. 14 : 248 (1960). Arbuste ou liane grimpant jusque dans la canopée , inerme ; rameaux cylindriques, glabres à densément pubescents, à poils simples et/ou dendritiques , rapidement glabrescents. Feuille : pétiole (0,5–)2–7(–11) cm, éparsement à densément pubescent ; limbe elliptique, (1,5–)4–16 × 1–8 cm, aigu à tronqué, rarement cordé à la base, aigu à acuminé au sommet, à marge entière,
-
-concolore, glabre à éparsement pubérulent dessus, glabre à densément pubescent dessous. Inflorescence terminale, 1–20(+) cm de longueur, très ramifiée, parfois spiciforme, avec 5 à 100 fleurs bisexuées ; pédoncule jusqu’à 10 cm ; axes glabres ou éparsement pubérulents. Fleur 5-mère ; pédicelle 0,5–1 cm, glabre ou éparsement pubérulent ; calice à tube long de 1–1,5 mm, glabre ou pubescent, à lobes triangulaires, 1–2 mm de longueur, acuminés au som met ; corolle étoilée, 1–2,5 cm de diamètre, lilas à blanche, divisée presque jusqu’à la base, à lobes étalés à réfléchis, étroitement triangulaires, 5–9 × 2–2,5 mm, densément pubescents à poils simples, parfois teintés de pourpre à l’extérieur ; étamines égales, filet glabre, an thères faiblement à fortement conniventes , 3–5 × 1–2 mm de longueur ; ovaire glabre, par fois hispide ; style 8–10 mm, glabre. Fruit sphérique à fusiforme, 5–7 mm de diamètre, rouge vif à maturité, avec 2 à 20 graines. Graine réniforme, 1,5–2,5 × 1–2 mm, rouge-brun ; testa à projections filamenteuses donnant un aspect pubescent .
+S. plousianthemum Dammer subsp. holtzii (Dammer) Bitter, Bot. Jahrb. Syst. 54 : 467 (1917). S. terminale Forssk. subsp. inconstans (C.H.Wright) Heine, Kew Bull. 14 : 247 (1960). S. terminale Forssk. subsp. sanaganum (Bitter) Heine, Kew Bull. 14 : 248 (1960). S. terminale Forssk. subsp. welwitschii (C.H.Wright) Heine, Kew Bull. 14 : 248 (1960). Shrub or climbing liana reaching into the canopy, unarmed; branches cylindrical, glabrous to densely pubescent, with simple and/or dendritic hairs, rapidly glabrescent. Leaf: petiole (0.5–)2–7(–11) cm, sparsely to densely pubescent; blade elliptic, (1.5–)4–16 × 1–8 cm, acute to truncate, rarely cordate at base, acute to acuminate at apex, with entire margin, concolorous, glabrous to sparsely puberulent above, glabrous to densely pubescent below. Inflorescence terminal, 1–20(+) cm in length, much-branched, sometimes spiciform, with 5 to 100 bisexual flowers; peduncle up to 10 cm; axes glabrous or sparsely puberulent. Flower 5-merous; pedicel 0.5–1 cm, glabrous or sparsely puberulent; calyx with tube 1–1.5 mm long, glabrous or pubescent, with triangular lobes, 1–2 mm in length, acuminate at apex; corolla stellate, 1–2.5 cm in diameter, lilac to white, divided almost to the base, with lobes spreading to reflexed, narrowly triangular, 5–9 × 2–2.5 mm, densely pubescent with simple hairs, sometimes tinged purple on the outside; stamens equal, filament glabrous, anthers weakly to strongly connivate, 3–5 × 1–2 mm in length; ovary glabrous, sometimes hispid; style 8–10 mm, glabrous. Fruit spherical to fusiform, 5–7 mm in diameter, bright red at maturity, with 2 to 20 seeds. Seed reniform, 1.5–2.5 × 1–2 mm, reddish-brown; testa with filamentous projections giving a pubescent appearance.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-largement distribué dans presque toute l’Afrique subsaharienne (hors Botswana et Nami bie) ; au Gabon, connu de l’Estuaire, du Haut-Ogooué, de la Ngounié, de l’Ogooué-Ivindo, de l’OgoouéLolo et du Woleu-Ntem
+widely distributed throughout almost all of sub-Saharan Africa (except Botswana and Namibia); in Gabon, known from Estuaire, Haut-Ogooué, Ngounié, Ogooué-Ivindo, Ogooué-Lolo and Woleu-Ntem
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-dans une grande variété d’habitats forestiers – forêts marécageuses, forêts humides ou scléro phylles – et savanes ; au Gabon du niveau de la mer à 800 m d’altitude, ailleurs jusqu’à 3300 m. Usage : Les fruits sont toxiques et ont fait office de poison. Les feuilles sont consommées comme condi ment et sont utilisées en médecine traditionnelle pour provoquer les avortements et déclencher les accouchements. Les décoctions de racines servent de purgatif léger et de stimulant
+in a wide variety of forest habitats – swamp forests, humid or sclerophyllous forests – and savannas; in Gabon from sea level to 800 m altitude, elsewhere up to 3300 m. Uses: The fruits are toxic and have served as a poison. The leaves are consumed as a condiment and are used in traditional medicine to induce abortion and to trigger childbirth. Root decoctions serve as a mild purgative and stimulant
 
 ## Source note
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-S. terminale est l’une des espèces indigènes de Solanum les plus répandues en Afrique continentale. Elle a souvent été divisée en trois entités distinctes, S. nakurense , S. terminale s.s. et S. welwitschii sur la base des caractères inflorescentiels. La large distribution géographique et la variabilité morpholo gique de cette espèce ont donné lieu à des hypothèses taxonomiques contradictoires : Bitter (1917, 1922) a reconnu 20 espèces et 23 taxa infraspécifiques, tandis que Heine (1960, 1963) a regroupé l’ensemble des entités décrites au sein d’une seule espèce comprenant trois taxa infraspécifiques (voir synonymes ci-dessus). Nous suivrons ici la plus récente révision taxonomique mondiale du groupe (Knapp & Vorontsova 2016) ; les auteurs ont conclu que les distinctions morphologiques utilisées pour différencier les taxa historiques représentaient un continuum. Des études morphologiques et moléculaires des populations de S. terminale permettraient de trancher définitivement sur le statut de cette espèce. Les individus de savane sont généralement plus petits et plus buissonnants que ceux des lisières et de l’intérieur des forêts. B : Bikandu et al. (2020), Bosch (2008c), Heine (1963), Knapp & Vorontsova (2016). i B liographie
+S. terminale is one of the most widespread indigenous Solanum species in continental Africa. It has often been divided into three distinct entities, S. nakurense, S. terminale s.s. and S. welwitschii on the basis of inflorescence characters. The wide geographical distribution and morphological variability of this species have given rise to contradictory taxonomic hypotheses: Bitter (1917, 1922) recognized 20 species and 23 infraspecific taxa, while Heine (1960, 1963) grouped all described entities within a single species comprising three infraspecific taxa (see synonyms above). We follow here the most recent worldwide taxonomic revision of the group (Knapp & Vorontsova 2016); the authors concluded that the morphological distinctions used to differentiate the historical taxa represented a continuum. Morphological and molecular studies of S. terminale populations would make it possible to definitively resolve the status of this species. Savanna individuals are generally smaller and more shrubby than those from forest edges and forest interior. B: Bikandu et al. (2020), Bosch (2008c), Heine (1963), Knapp & Vorontsova (2016). Bibliography
 
 ## Notes
 

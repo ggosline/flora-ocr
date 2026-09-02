@@ -7,6 +7,12 @@ family: Cyperaceae
 vol: 44
 pages: 43-44
 source: sources/Cyperaceae_vol44_liteparse
+countries: [Gabon, Madagascar]
+in_region: true
+subdivisions:
+  Gabon: [Haut-Ogooué, Woleu-Ntem]
+habit: "herb"
+altitude_m: "400–600"
 tags: [species, generated]
 ---
 # *Cyperus pectinatus* Vahl Planche 19

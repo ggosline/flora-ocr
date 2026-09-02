@@ -7,6 +7,9 @@ family: Scytopetalaceae
 vol: 24
 pages: 170-172
 source: sources/Scytopetalaceae_vol24_paddle
+countries: [Cameroon]
+in_region: true
+habit: "shrub"
 tags: [species, generated]
 ---
 # *Rhaptopetalum breteleri* R. Letouzey
@@ -45,7 +48,7 @@ Breteler 2754, Zilly près Nguéléméndouka, 50 km NW Abong Mbang (fl., j. fr.)
 
 ![Rhaptopetalum breteleri](../sources/Scytopetalaceae_vol24_paddle/figures/fig_047_p0173.png)
 
-*PL. 47. — Rhaptopetalum breteleri R. Let. : 1, rameau avec feuille et innov. supra-axill. × 4/9; 2, extrém. rameau × 2/3; 3, massif de cataphylles supra-axill. × 2; 4, autre type de feuille × 1/3; 5, inflorescences × 2/3; 6, bouton floral × 10/3; 7, coupe long. fl. × 20/3; 8, jeune fruit × 10/3; 9, coupe péricarpe × 10. (Breteler 2754). (Repris d'Adansonia 17 (2) : tab. 3, 1977).*
+*PL. 47. — Rhaptopetalum breteleri R. Let. : 1, branch with leaf and supra-axill. innov. × 4/9; 2, branch tip × 2/3; 3, mass of supra-axill. cataphylls × 2; 4, other type of leaf × 1/3; 5, inflorescences × 2/3; 6, floral bud × 10/3; 7, long. section fl. × 20/3; 8, young fruit × 10/3; 9, pericarp section × 10. (Breteler 2754). (Reprinted from Adansonia 17 (2) : tab. 3, 1977).*
 
 ## Notes
 

@@ -7,6 +7,9 @@ family: Loganiaceae
 vol: 19
 pages: 118-120
 source: sources/Loganiaceae_vol19_paddle
+countries: [Cameroon, Gabon]
+in_region: true
+habit: "liana"
 tags: [species, generated]
 ---
 # *Strychnos tchibangensis* Pellegrin
@@ -17,17 +20,13 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Climbing shrub or liana; stem 5 cm in diameter or more; bark dark brown, with large lenticels; wood cream-coloured; branches without lenticels, cylindrical; small branches with scattered pubescence to ± glabrous (even on a single branch), somewhat furrowed when dry; tendrils solitary.
 
-Arbuste grimpant ou liane; tige de 5 cm de diamètre ou plus; écorce brun foncé, à grandes lenticelles; bois crème; rameaux non lenticelles, cylindriques; petits rameaux avec pubescence éparse à ± glabre (même pour un seul rameau), un peu sillonnés à l'état sec; vrilles solitaires.
+Leaves with petiole furnished with scattered pubescence, 3–7 mm in length; blade subcoriaceous or papyraceous, even on fresh specimens, elliptic, narrowly elliptic or narrowly ovate (and, for leaves situated on the main axis and at the base of branches, often ovate), 3–10 (–12) × 1.4 (–6.5) cm, acuminate to caudate at the apex, cuneate or rounded at the base, glabrous on both faces or sometimes with a few hairs below at the base; 2–3 pairs of secondary veins curved along the margin, the first one being faintly marked and submarginai; tertiary venation reticulate, indistinct.
 
-Feuilles à pétiole garni d'une pubescence éparse, de 3-7 mm de longueur; limbe subcoriace ou papyracé, même sur échantillons frais, elliptique, étroitement elliptique ou étroitement ové (et, pour les feuilles situées sur l'axe principal et à la base des rameaux, souvent ové), de 3-10 (-12) × 1,4 (-6,5) cm, acuminé à caudé au sommet, cuné ou arrondi à la base, glabre sur les deux faces ou parfois avec quelques poils en dessous à la base; 2-3 paires de nervures secondaires courbées le long de la marge, la première
+Inflorescences terminal, lax at the base, contracted in the final branchings, multiflorous, 3–5.5 × 2–4.5 cm; peduncle and branches pubescent like the very short pedicels. Flowers 5-merous. Sepals pale green, connate for one-quarter to one-third of their height, broadly ovate, 1.2–1.5 × 1.2–1.4 mm, acute, ciliate, with fine pubescence, especially at the base on the outside, inside glabrous. Corolla, in the mature bud, 4.5 mm in length, white or greenish, on the outside with short pubescence, on the inside white-penicillate at the throat; tube 1.6 times longer than the lobes, 2.8 mm in length; lobes 1.7 × 1–1.1 mm, acute, suberect. Stamens included, inserted at two-thirds of the base of the corolla, with very short filament, glabrous; anther narrowly triangular, bearded at the base. Pistil glabrous, 2.5–3 mm in length; ovary globose, 1 mm in length, 2-locular; style 1.5 mm in length; stigma capitate, reaching 0.5 mm in length; 18–30 ovules per locule.
 
-étant peu marquée et submarginale; nervation tertiaire réticulée, indistincte.
-
-Inflorescences terminales, lâches à la base, contractées dans les dernières ramifications, multiflores, de 3-5,5 × 2-4,5 cm; pédoncule et rameaux pubescents comme les très courts pédicelles. Fleurs 5-mères. Sépales vert pâle, soudés sur un quart à un tiers de leur hauteur, largement ovés, de 1,2-1,5 × 1,2-1,4 mm, aigus, ciliés, à pubescence fine, surtout à la base à l'extérieur, à l'intérieur glabres. Corolle, dans le bouton mûr, de 4,5 mm de longueur, blanche ou verdâtre, à l'extérieur avec pubescence courte, à l'intérieur blanche-pénicillée à la gorge; tube 1,6 fois plus long que les lobes, de 2,8 mm de longueur; lobes de 1,7 × 1-1,1 mm, aigus, subérigés. Étamines incluses, insérées aux deux-tiers de la base de la corolle, à filet très court, glabre; anthère étroitement triangulaire, barbues à la base. Pistil glabre, de 2,5-3 mm de longueur; ovaire globuleux, de 1 mm de longueur, à 2 loges; style de 1,5 mm de longueur; stigmate capité, atteignant 0,5 mm de longueur; 18-30 ovules par loge.
-
-Fruits orangés, non mûrs vert pâle ou glauques, petits, tendres, ellipsoïdes, de  $ 19 \times 13-14 $ mm, mucronés et contenant 1-2 graines; paroi mince. Graine un peu aplatie, ellipsoïde, de  $ 11-12 \times 9-10 \times 7 $ mm, glabre, lisse, souvent un peu déprimée d'un côté; testa mince, collant à la pulpe. Pl. 36, 5-9, p. 143.
+Fruits orange, immature pale green or glaucous, small, tender, ellipsoid, 19 × 13–14 mm, mucronate and containing 1–2 seeds; wall thin. Seed somewhat flattened, ellipsoid, 11–12 × 9–10 × 7 mm, glabrous, smooth, often somewhat depressed on one side; testa thin, adhering to the pulp. Pl. 36, 5–9, p. 143.
 
 ## Type
 
@@ -35,13 +34,11 @@ Le Testu 1175, Gabon
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Cameroon, Gabon, Congo-Kinshasa. River banks in forests. Altitude 0–600 m.
 
-Cameroun, Gabon, Congo-Kinshasa. Rives de rivières en forêts. Altitude 0-600 m.
+Breteler 1430, left bank of the Sanaga, Ebaka, 58 km NW Bertoua (fl., May) BR, K, P, WAG, YA; 1695, 5 km NE Doumé (fl., immature fr., July) K, P, WAG, YA; 1780, bank of the Nyong, 40 km SE Yaoundé (immature fr., August) P, WAG, YA; 2802, 40 km SW Batouri, bank of the Doumé, near Bimbia (fl., April) WAG = Letouzey 4759 bis, P, WAG, YA.
 
-Breteler 1430, rive gauche de la Sanaga, Ebaka, 58 km NW Bertoua (fl., mai) BR, K, P, WAG, YA; 1695, 5 km NE Doumé (fl., fr. non mûrs, juill.) K, P, WAG, YA; 1780, rive du Nyong, 40 km SE Yaoundé (fr. non mûrs, août) P, WAG, YA; 2802, 40 km SW Batouri, rive de la Doumé, près Bimbia (fl., avr.) WAG = Letouzey 4759 bis, P, WAG, YA.
-
-Letouzey 3773, rives du Dja, entre rivière Meu et Edjuné (fr. non mûrs, avr.) P, WAG, YA; 4759 bis = Breteler 2802.
+Letouzey 3773, banks of the Dja, between Meu River and Edjuné (immature fr., April) P, WAG, YA; 4759 bis = Breteler 2802.
 
 ## Specimens examined
 
@@ -49,15 +46,13 @@ Le Testu 1175, Ganda (fl., oct.) P (lectotype), B, IFAN, K, P (isotypes); 1909, 
 
 ## Source note
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Lorsque S. tchibangensis est en fruits, cette espèce ressemble à S. urceolata, laquelle a souvent de petites barbes aux aisselles de la deuxième paire de nervures secondaires en dessous, ainsi que des inflorescences paniculées et des graines rugueuses
+When S. tchibangensis is in fruit, this species resembles S. urceolata, which often has small beards at the axils of the second pair of secondary veins below, as well as paniculate inflorescences and rugose seeds.
 
 ## Figures
 
 ![Strychnos tchibangensis](../sources/Loganiaceae_vol19_paddle/figures/fig_036_p0145.png)
 
-*PL. 36. — Strychnos retinervis Leeuwenberg : 1, rameau × ½; 2, fleur × 3; 3, dissection de la fleur × 3; 4, pistil × 3 (1-4 : Le Testu 7943). — Strychnos tchibangensis Pellegr. : 5, rameau × ½; 6, fleur × 5; 7, dissection de la fleur × 5; 8, pistil × 5; 9, fruit × ½ (6-8 : Breteler 1430; 9 : d'après Louis 16186, Congo-Kinshasa, BR).*
+*PL. 36. — Strychnos retinervis Leeuwenberg : 1, branch × ½; 2, flower × 3; 3, dissection of the flower × 3; 4, pistil × 3 (1-4 : Le Testu 7943). — Strychnos tchibangensis Pellegr. : 5, branch × ½; 6, flower × 5; 7, dissection of the flower × 5; 8, pistil × 5; 9, fruit × ½ (6-8 : Breteler 1430; 9 : after Louis 16186, Congo-Kinshasa, BR).*
 
 ## Notes
 

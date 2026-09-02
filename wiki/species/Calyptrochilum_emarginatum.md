@@ -7,6 +7,10 @@ family: Orchidaceae
 vol: 37
 pages: 179-181
 source: sources/Orchidaceae_vol37_paddle
+countries: [Angola, Cameroon, Central African Republic, Cote d'Ivoire, Democratic Republic of the Congo, Gabon, Ghana, Guinea, Liberia, Nigeria, Sierra Leone]
+in_region: true
+habitat: [mangrove, gallery forest, swamp forest, rocky ground]
+altitude_m: "25"
 tags: [species, generated]
 ---
 # *Calyptrochilum emarginatum* (Afzel. ex Sw.) Schltr.

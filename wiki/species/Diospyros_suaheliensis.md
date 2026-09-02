@@ -7,17 +7,14 @@ family: Ebenaceae
 status: spec. nov.
 type_specimen: "Kenya, Coast Province, Lamu District, Witu Forest, 16 m, 17 Nov 1988, male bud and male flowers, Robertson & Luke 5528 (holotype: MO; isotypes: EA, K, US, WAG)"
 synonyms: []
-habit: tree or shrub
-habitat: [coastal forest, lowland riverine forest]
-altitude_m: "0-250"
-countries: [Kenya, Mozambique, Tanzania]
-in_region: false
 treatments:
   - kind: article
     year: 2025
     citation: "Mestre Serra E., Puglisi C., Linan A.G., Meeprom N., Rakouth H.N., Schmidt H.H. & Lowry II P.P. (2025). A taxonomic revision of the continental African material previously included in Diospyros ferrea (Ebenaceae). Plant Ecology and Evolution."
     pages: "1-18"
     source: sources/articles/plecevo_article_140561_en_1/liteparse
+countries: [Kenya, Mozambique, Tanzania]
+in_region: false
 tags: [species, novelty]
 ---
 

@@ -7,6 +7,13 @@ family: Leguminosae
 vol: 49
 pages: 336-339
 source: sources/Millettiaspeciesfabaceae_vol49_liteparse
+countries: [Gabon, Nigeria]
+in_region: true
+subdivisions:
+  Gabon: [Estuaire]
+habit: "herb"
+habitat: [savanna]
+altitude_m: "1800"
 tags: [species, generated]
 ---
 # *Rhynchosia hirta* (Andrews) Meikle & Verdc. Planche 112

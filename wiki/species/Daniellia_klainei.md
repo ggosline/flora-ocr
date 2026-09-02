@@ -7,6 +7,10 @@ family: Leguminosae
 vol: 15
 pages: 169-171
 source: sources/Leguminosae_vol15_paddle
+countries: [Gabon]
+in_region: true
+habit: "tree"
+habitat: [secondary forest]
 tags: [species, generated]
 ---
 # *Daniellia klainei* Pierre ex A. Chev.

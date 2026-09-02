@@ -7,6 +7,9 @@ family: Acanthaceae
 vol: 13
 pages: 86-88
 source: sources/Acanthaceae_vol13_paddle
+countries: [Cameroon, Gabon, Republic of the Congo]
+in_region: true
+habitat: [secondary forest]
 tags: [species, generated]
 ---
 # *Brillantaisia soyauxii* Lindau

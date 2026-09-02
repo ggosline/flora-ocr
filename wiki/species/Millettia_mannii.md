@@ -7,6 +7,13 @@ family: Leguminosae
 vol: 49
 pages: 298-299
 source: sources/Millettiaspeciesfabaceae_vol49_liteparse
+countries: [Cameroon, Equatorial Guinea, Gabon, Republic of the Congo]
+in_region: true
+subdivisions:
+  Gabon: [Estuaire, Haut-Ogooué, Moyen-Ogooué, Ngounié, Ogooué-Ivindo, Ogooué-Lolo, Woleu-Ntem]
+habit: "tree"
+habitat: [secondary forest, coastal]
+altitude_m: "0–700"
 tags: [species, generated]
 ---
 # *Millettia mannii* Baker Planche 95.3,4 & 96.1–5

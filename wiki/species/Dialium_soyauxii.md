@@ -7,6 +7,7 @@ family: Leguminosae
 vol: 15
 pages: 40-42
 source: sources/Leguminosae_vol15_paddle
+habit: "tree"
 tags: [species, generated]
 ---
 # *Dialium soyauxii* Harms

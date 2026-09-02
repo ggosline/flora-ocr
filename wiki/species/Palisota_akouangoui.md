@@ -7,6 +7,11 @@ family: Commelinaceae
 vol: 55
 pages: 48-50
 source: sources/Commelinaceae_vol55_liteparse
+countries: [Cameroon, Equatorial Guinea, Gabon, Republic of the Congo]
+in_region: true
+subdivisions:
+  Gabon: [Estuaire, Moyen-Ogooué, Ngounié, Nyanga, Ogooué-Lolo, Ogooué-Maritime, Woleu-Ntem]
+habit: "herb"
 tags: [species, generated]
 ---
 # *Palisota akouangoui* E.Bidault & Burg Planche 11, Figure 3(C, D)

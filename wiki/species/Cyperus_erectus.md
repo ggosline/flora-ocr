@@ -7,6 +7,12 @@ family: Cyperaceae
 vol: 44
 pages: 91-92
 source: sources/Cyperaceae_vol44_liteparse
+countries: [Democratic Republic of the Congo, Gabon]
+in_region: true
+subdivisions:
+  Gabon: [Estuaire, Moyen-Ogooué, Ngounié, Nyanga, Ogooué-Ivindo, Ogooué-Maritime, Woleu-Ntem]
+habit: "herb"
+altitude_m: "0–500"
 tags: [species, generated]
 ---
 # *Cyperus erectus* (Schumach. & Thonn.) Mattf. & Kük. subsp. erectus Planche 54

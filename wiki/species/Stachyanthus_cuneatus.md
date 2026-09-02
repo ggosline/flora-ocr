@@ -7,6 +7,7 @@ family: Icacinaceae
 vol: 20
 pages: 71-71
 source: sources/Icacinaceae_vol20_paddle
+habit: "liana"
 tags: [species, generated]
 ---
 # *Stachyanthus cuneatus* Sleumer
@@ -17,13 +18,11 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Liane with young flowering branches brown, glabrous, the youngest pubescent-appressed to weakly hirsute. Petiole hirsute ferruginous, 1.5–2 cm long. Blade glabrous on the upper surface, pubescent-appressed on the lower surface, more densely toward the midvein, oblong, 10–14 × 4.5–5.5 cm; base attenuate, apex subabruptly acuminate subacute. Midvein slightly prominent above and prominent hirsute below. Secondary veins 8 pairs, subparallel to each other, weakly prominent below. Veinlets weakly pubescent.
 
-Liane à jeunes rameaux florifères bruns, glabres, les plus jeunes pubescents-apprimés à faiblement hirsutes. Pétiole hirsute ferrugineux, long de 1,5-2 cm. Limbe glabre à la face supérieure, pubescent-apprimé à la face inférieure, plus désément vers la nervure médiane, oblong, 10-14 × 4,55,5 cm; base atténuée, sommet subabruptement acuminé subaigu. Nervure médiane peu saillante dessus et saillante hirsute dessous. Nervures secondaires 8 paires, subparallèles entre elles, faiblement saillantes dessous. Nerv villes faiblement pubescentes.
+Inflorescence in a lax spike on old wood of defoliate branches. Rachis pubescent 10–14 cm long. Pedicel absent. Calyx campanulate glabrous with 5 very short teeth. Petals 5 glabrous, weakly fleshy, oblong, weakly acute at the apex. Stamens 5 with filiform blackish filament. Anther oblong with sagittate base. Ovary rudimentary conical, pubescent, producing a very short style, surrounded at the base by 5 glands. Flower ♀ unknown.
 
-Inflorescence en épi lâche sur le vieux bois des rameaux défeuillés. Rachis pubescent long de 10-14 cm. Pédicelle absent. Calice campanule glabre à 5 dents très courtes. Pétales 5 glabres, faiblement charnus, oblongs, faiblement aigus au sommet. Étamines 5 à filet filiforme noirâtre. Anthère oblongue à base sagittée. Ovaire rudimentaire conique, pubescent, produisant un très court style, entouré à la base de 5 glandes. Fleur ♀ inconnue.
-
-Fruit inconnu.
+Fruit unknown.
 
 ## Type
 
@@ -31,9 +30,7 @@ Ledermann 6437, Lom, Cameroun, fl. ♂, déc. 1909 (B, delet.)
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Cette espèce n'est connue que par le type aujourd'hui disparu.
+This species is known only from the type specimen, now lost.
 
 ## Notes
 

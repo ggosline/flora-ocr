@@ -7,6 +7,9 @@ family: Dichapetalaceae
 vol: 32
 pages: 166-169
 source: sources/Dichapetalaceae_vol32_paddle
+countries: [Gabon]
+in_region: true
+habit: "liana"
 tags: [species, generated]
 ---
 # *Dichapetalum ruficeps* Breteler
@@ -57,7 +60,7 @@ Breteler 7695, route Ndendé-Malinga (stér., Mai). Le Testu 5090, type (fl. j. 
 
 ![Dichapetalum ruficeps](../sources/Dichapetalaceae_vol32_paddle/figures/fig_049_p0168.png)
 
-*PL. 48 – Dichapetalum ruficeps Breteler : 1, portion de rameau lenticellé × 1 ; 2, jeune rameau florifère × 0,5 ; 3, feuille, face inférieure × 0,5 ; stipule, 4, face interne et 5, face externe × 4 ; 6, stipule, marge × 15 ; 7, inflorescence, détail × 3 ; 8, fleur, détail ; 9, pétale, face interne × 5 ; 10, staminodes, vue interne × 12 ; 11, pistil, × 10 ; 12, jeune fruit × 2 (1-12, Le Testu 5090). – Repris de MLW 82 (8) : 17 (1982).*
+*PL. 48 – Dichapetalum ruficeps Breteler : 1, portion of lenticelled branch × 1 ; 2, young flowering branch × 0.5 ; 3, leaf, lower surface × 0.5 ; stipule, 4, internal surface and 5, external surface × 4 ; 6, stipule, margin × 15 ; 7, inflorescence, detail × 3 ; 8, flower, detail ; 9, petal, internal surface × 5 ; 10, staminodes, internal view × 12 ; 11, pistil, × 10 ; 12, young fruit × 2 (1-12, Le Testu 5090). – Reprinted from MLW 82 (8) : 17 (1982).*
 
 ## Notes
 

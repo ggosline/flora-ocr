@@ -7,6 +7,9 @@ family: Marantaceae
 vol: 09
 pages: 108-110
 source: sources/Marantaceae_vol09_paddle
+countries: [Angola, Cameroon, Gabon, Guinea, Uganda]
+in_region: true
+habit: "herb"
 tags: [species, generated]
 ---
 # *Hypselodelphys scandens* Louis et Mullend.
@@ -50,7 +53,7 @@ Klaine : 159, Libreville.
 
 ![Hypselodelphys scandens](../sources/Marantaceae_vol09_paddle/figures/fig_026_p0107.png)
 
-*PL. XXIII. — Hypselodelphys Poggeana (K. Schum.) M.-Redh. (J. de Brazza 199): 1, feuilles; 2, schéma montrant la base de la face inféville; 3, partie de l'inflorescence; 4, couronne staminale (gr. nat., d'après un dessin original de Gagnepain); 5, fruit. — Hypselodelphys Zenkeriana (K. Schum.) M.-Redh. (Zenker 1233); 6, inflorescence. — Hypselodelphys violacea (Ridl.) M.-Redh.; 7 et 8, schéma montrant l'implantation de la pubescence sur la face inf. des feuilles par rapport à la nervure médiane (d'après Léonard et Mull.); 9, fruit. — Hypselodelphys scandens Louis et Mullenders: 10 et 11, schéma montrant l'implantation de la pubescence sur la face inf. des feuilles par rapport à la nervure centrale (d'après Léonard et Mull.); 12, fruit.*
+*PL. XXIII. — Hypselodelphys Poggeana (K. Schum.) M.-Redh. (J. de Brazza 199): 1, leaves; 2, diagram showing the base of the lower surface of the leaf; 3, part of the inflorescence; 4, staminial crown (nat. size, after an original drawing by Gagnepain); 5, fruit. — Hypselodelphys Zenkeriana (K. Schum.) M.-Redh. (Zenker 1233); 6, inflorescence. — Hypselodelphys violacea (Ridl.) M.-Redh.; 7 and 8, diagram showing the distribution of pubescence on the lower surface of the leaves in relation to the midrib (after Léonard and Mull.); 9, fruit. — Hypselodelphys scandens Louis and Mullenders: 10 and 11, diagram showing the distribution of pubescence on the lower surface of the leaves in relation to the central vein (after Léonard and Mull.); 12, fruit.*
 
 ## Notes
 

@@ -7,6 +7,11 @@ family: Apocynaceae
 vol: 59
 pages: 273-273
 source: sources/Apocynaceae_vol59_liteparse
+countries: [Gabon]
+in_region: true
+habit: "tree"
+habitat: [savanna]
+altitude_m: "400–550"
 tags: [species, generated]
 ---
 # *Voacanga thouarsii* Roem. & Schult. Planche 126 ; Figure 16(A-C)
@@ -17,15 +22,11 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Arbre DWWHLJQDQWPGHKDXWHXUPDLVJpQpUDOHPHQWSOXVSHWLWWURQFMXVTX¶jFPGHGLD mètre ; rameaux à latex abondant. Feuille glabre ; pétiole de 8–25 mm, ochréa bien visible ; limbe généralement étroitement obovale, de 6–25 × 2–9 cm, obtus à arrondi au sommet , souvent fortement coriace ; nervures secondaires 12 à 20 paires, souvent discrètes sur le frais. ,QÀRUHVFHQFH DVVH]OkFKHSDXFLÀRUHSpGRQFXOHGH±FP Fleur parfumée ; pédicelle de 8–15 mm ; calice charnu, enserrant le tube de la corolle et tombant avec elle, à tube 2,5–4 fois aussi long que les lobes , long de 10–16 mm, à plusieurs rangées irrégulières de collétères internes, à lobes de 3–10 × 4–10 mm ; corolle jaune pâle, vert pâle ou blanchâtre, à tube subF\OLQGULTXHDXVVLORQJTXHOHFDOLFHRXOpJqUHPHQWSOXVORQJORQJGH±PP fortement tordu , plus large autour de l’ovaire, y atteignant 5–8 mm de largeur, rétréci au-dessus, à lobes largement obcordés, 1,2–1,5 fois aussi larges que longs , de 19–30 × 28–43 mm, avec une SDUWLHEDVDOHGH±î±PPSXLVEUXVTXHPHQWpODUJLVpPDUJLQpDXVRPPHWIRUPDQWXQH Wrwhsuhvtxhfrqltxhgdqvoherxwrqpwdplqhvh[VHUWHVVXU±PPDSSDUHPPHQWSOXVGDQV OHVVSpFLPHQVVpFKpVDQWKqUHORQJXHGH±PPSLVWLODXVVLORQJTXHOHWXEHGHODFRUROOH Fruit à carpelles libres , subglobuleux , de 4–10 cm de diamètre, verts, également à maturité ; paroi de 5–15 mm d’épaisseur. Graine REOLTXHPHQWRYRwGHRXHOOLSVRwGDOHORQJXHGH± mm, densément papilleuse, légèrement et entièrement sillonnée, à arille orange. Distribution Upsdqgxhq$IULTXHWURSLFDOH\FRPSULV0DGDJDVFDUDX*DERQ+DXW2JRRXp2JRRXp Lolo et Woleu-Ntem ; vu aussi (sans échantillon) dans la Ngounié.
+Tree with conspicuous branching of high elevation, but generally smaller trunk up to cm in diameter; branches with abundant latex. Leaf glabrous; petiole 8–25 mm, ochrea well visible; limb generally narrowly obovate, 6–25 × 2–9 cm, obtuse to rounded at apex, often strongly coriaceous; secondary nerves 12 to 20 pairs, often discrete on fresh material. Inflorescence rather lax, pauciflorous; peduncle of ± cm. Fragrant flower; pedicel 8–15 mm; calyx fleshy, enclosing the corolla tube and falling with it, tube 2.5–4 times as long as the lobes, 10–16 mm long, with several irregular rows of internal colleters, lobes 3–10 × 4–10 mm; corolla pale yellow, pale green or whitish, tube subcylindrical, as long as the calyx or slightly longer, ± mm long, strongly twisted, wider around the ovary, reaching 5–8 mm width there, narrowed above, lobes broadly obcordate, 1.2–1.5 times as wide as long, 19–30 × 28–43 mm, with a basal part of ± × ± mm then abruptly widened, margined at apex forming an almost conical protrusion at the bud; stamens exserted on ± mm, apparently more so in dried specimens; anther ± mm long; pistil as long as the corolla tube. Fruit with free carpels, subglobose, 4–10 cm in diameter, green, equally at maturity; wall 5–15 mm thick. Seed obliquely ovoid or ellipsoid, ± mm long, densely papillose, lightly and entirely furrowed, with orange aril. Distribution Widespread in tropical Africa, including Madagascar, Gabon, Haut-Ogooué, Ogooué-Lolo and Woleu-Ntem; also seen (without specimen) in Ngounié.
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-lieux humides, marécages ou berges de ruisseau en forêt ou en savane ; au Gabon à 400-550 PG¶DOWLWXGHDLOOHXUVMXVTX¶jP Usage &RPPHFKH] V. africana
+Damp places, swamps or stream banks in forest or savanna; in Gabon at 400–550 m altitude, elsewhere up to m. Usage As in v. africana
 
 ## Vernacular names
 
@@ -33,9 +34,7 @@ voacanga de Thouars (fr.) ; wild frangipani (angl.)
 
 ## Source note
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Peut-être plus commun et plus répandu au Gabon, mais peu récolté, car poussant dans les marécages. B /HHXZHQEHUJ6FKPHO]HUG IBLIOGRAPHIE
+Perhaps more common and more widespread in Gabon, but little collected, as it grows in swamps. B. Leeuwneberg, Schmeltzer d. BIBLIOGRAPHY
 
 ## Notes
 

@@ -7,6 +7,12 @@ family: Dracaenaceae
 vol: 54
 pages: 59-61
 source: sources/Dracaenaceae_vol54_liteparse
+countries: [Central African Republic, Gabon, Republic of the Congo]
+in_region: true
+subdivisions:
+  Gabon: [Haut-Ogooué]
+habit: "tree"
+altitude_m: "400–620"
 tags: [species, generated]
 ---
 # *Dracaena waltersiae* Damen

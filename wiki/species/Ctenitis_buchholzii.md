@@ -44,7 +44,7 @@ Pobéguin : 56, 57, Nyanga.
 
 ![Ctenitis buchholzii](../sources/Aspidiaceae_vol08_paddle/figures/fig_028_p0169.png)
 
-*PL. XXV. — Ctenitis pilosissima (J. Sm.) Alston (N. Hallé 1927) : 1, aspect général × 1/3; 2, détail × 3. — Vittaria ovariensis Fée (Duparquet) : 3, aspect général × 2/3; 4, coupe du limbe × 6. — Pyrrosia Mechowii (Hier.) Alst. (Klein 38) : 5, aspect général × 2/3; 6, poils stelles.*
+*PL. XXV. — Ctenitis pilosissima (J. Sm.) Alston (N. Hallé 1927) : 1, general appearance × 1/3; 2, detail × 3. — Vittaria ovariensis Fée (Duparquet) : 3, general appearance × 2/3; 4, section of the limb × 6. — Pyrrosia Mechowii (Hier.) Alst. (Klein 38) : 5, general appearance × 2/3; 6, stellar hairs.*
 
 ## Notes
 

@@ -5,11 +5,9 @@ authority: (K. Schum.) Bak.
 genus: Renealmia
 family: Zingiberaceae
 synonyms: [Ethanium cincinnatum]
-countries: [Côte d'Ivoire, Cameroon, Gabon, Republic of the Congo]
-in_region: true
-habit: rhizomatous herb
-habitat: [humid forest understorey]
 treatments: [{vol: 9, pages: "25–26", source: sources/Zingiberaceae_vol9_paddle}]
+countries: [Cameroon, Gabon]
+in_region: true
 tags: [species]
 ---
 

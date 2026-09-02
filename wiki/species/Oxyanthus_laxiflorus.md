@@ -7,6 +7,9 @@ family: Rubiaceae
 vol: 17
 pages: 202-203
 source: sources/Rubiaceae_vol17_paddle
+countries: [Cameroon, Gabon, Nigeria]
+in_region: true
+habit: "shrub"
 tags: [species, generated]
 ---
 # *Oxyanthus laxiflorus* K. Schum. (P.L. 46, p. 203)
@@ -43,7 +46,7 @@ N. Hallé 2667, Makokou (fl. oct.). N. Hallé et G. Cours 5964, Ovala (fl. mai).
 
 ![Oxyanthus laxiflorus](../sources/Rubiaceae_vol17_paddle/figures/fig_047_p0205.png)
 
-*PL. 46. — Oxyanthus laxiflorus K. Schum.: 1, inflorescence × 0,70 (Le Testu 8628); 2, infrutescence (N. Hallé 4832). — O. subpunctatus (Hiern) Keay (Thollon 1272): 3, rameau fructifère × 0,70; 4, stipule; 5, domaties foliaires; 6, graine de 8 mm. — O. gracilis Hiern: 7, rameau florifère × 0,70 (Lecomte C 27-28); 8, stipule; 9, aisselles nervaires; 10, fruit × 1,5 (N. H. 3520).*
+*PL. 46. — Oxyanthus laxiflorus K. Schum.: 1, inflorescence × 0.70 (Le Testu 8628); 2, fruitescence (N. Hallé 4832). — O. subpunctatus (Hiern) Keay (Thollon 1272): 3, fruiting branch × 0.70; 4, stipule; 5, foliar domatia; 6, seed of 8 mm. — O. gracilis Hiern: 7, flowering branch × 0.70 (Lecomte C 27-28); 8, stipule; 9, nervular axils; 10, fruit × 1.5 (N. H. 3520).*
 
 ## Notes
 

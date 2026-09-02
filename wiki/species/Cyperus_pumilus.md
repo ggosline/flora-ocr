@@ -7,6 +7,13 @@ family: Cyperaceae
 vol: 44
 pages: 122-123
 source: sources/Cyperaceae_vol44_liteparse
+countries: [Gabon]
+in_region: true
+subdivisions:
+  Gabon: [Ogooué-Maritime]
+habit: "herb"
+habitat: [swamp forest]
+altitude_m: "0–100"
 tags: [species, generated]
 ---
 # *Cyperus pumilus* L. var. patens (Vahl) Kük. Planche 77

@@ -7,6 +7,9 @@ family: Melastomataceae
 vol: 25
 pages: 118-120
 source: sources/Melastomataceae_vol25_paddle
+countries: [Cameroon, Nigeria]
+in_region: true
+habitat: [riverine]
 tags: [species, generated]
 ---
 # *Memecylon lateriflorum* (G. Don) Bremekamp
@@ -51,7 +54,7 @@ Le Testu 8222, Mbigou (mai).
 
 ![Memecylon lateriflorum](../sources/Melastomataceae_vol25_paddle/figures/fig_042_p0119.png)
 
-*PL. 42. — Memecylon lateriflorum (G. Don) Brem.: 1, rameau fleuri × 2/3; 2, fleur avant l'anthèse × 4; 3, fleur en coupe × 4; 4, pétale × 8; 5, étamine × 8 (Le Testu 8222).*
+*PL. 42. — Memecylon lateriflorum (G. Don) Brem.: 1, flowering branch × 2/3; 2, flower before anthesis × 4; 3, flower in section × 4; 4, petal × 8; 5, stamen × 8 (Le Testu 8222).*
 
 ## Notes
 

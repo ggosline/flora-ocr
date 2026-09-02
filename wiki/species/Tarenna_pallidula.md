@@ -7,6 +7,9 @@ family: Rubiaceae
 vol: 17
 pages: 96-98
 source: sources/Rubiaceae_vol17_paddle
+countries: [Angola, Cameroon, Gabon, Guinea, Nigeria]
+in_region: true
+habit: "shrub"
 tags: [species, generated]
 ---
 # *Tarenna pallidula* Hiern (P. 21, p. 97)
@@ -23,15 +26,11 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Shrub 0.5–4 m tall, with slender, glabrous, cylindrical or moderately quadrangular branchlets. Stipules convex, nigrescent, apiculate, 3–5 mm long. Petiole 5–15 mm long. Blade olivaceous to brown when dry, entirely glabrous, 7–16 × 2.5–7 cm, acute at base, with a distinct acumen 10–15 mm long. 6–8 (9) pairs of secondary nerves (4–6 pairs in var. oligoneura); midrib in fine depression above; reticulation rather distinct on both surfaces of blade.
 
-Arbrisseau de 0,5 à 4 m de hauteur, à rameaux grêles, glabres, cylindriques ou médiocrement quadrangulaires. Stipules bombées, nigrescentes, apiculées, longues de 3-5 mm. Pétiole de 5-15 mm de longueur. Limbe olivacé à brun à sec, entièrement glabre, de 7-16 × 2,5-7 cm, à base aiguë, à acumen distinct long de 10-15 mm. 6-8 (9) paires de nervures secondaires (4-6 paires dans la variété oligoneura); médiane en fine dépression sur le dessus; réticule assez distinct sur les deux faces du limbe.
+Flowers white or pale yellowish-green, grouped in inflorescences 4–10 cm wide; inflorescence axes glabrous except the upper ones which are ± puberulent laterally; pedicels 2–4 (5) mm, puberulent. Calyx glabrous with 5 short, imbricate, subacute to truncate lobes, ca. 0.5 mm long. Corolla glabrous with ± pubescent throat; tube 3–5 mm; lobes 4–6 × 2–3 mm. Style 10–20 mm, moderately pubescent toward the middle portion hidden. Placentas 3–7 ovulate (5–7 in Staudt go!).
 
-Fleurs blanches ou vert-jaune pâle groupées en inflorescences de 4-10 cm de largeur; axes inflorescentiels glabres sauf les supérieurs qui sont ± pubérulents latéralement; pédicelles de 2-4 (5) mm, pubérulents. Calice glabre à 5 courts lobes imbriqués subaigus à tronqués, longs d'env. 0,5 mm. Corolle glabre à gorge ± pubescente; tube de 3-5 mm; lobes de 4-6 × 2-3 mm. Style de
-
-10-20 mm, médiocrement pubescent vers la partie médiane cachée. Placentas 3-7 ovulés (5-7 chez Staudt go!).
-
-Fruits jaunes puis rouges dépassant 8 mm de diam., brunâtre, finement ridé et bôsselé à sec de façon à mouler les graines. 8 graines par fruit; radicule basilaire.
+Fruits yellow then red, exceeding 8 mm diam., brownish, finely wrinkled and pitted when dry so as to mold the seeds. 8 seeds per fruit; radicle basal.
 
 ## Type
 
@@ -39,13 +38,11 @@ Mann, cité ci-dessous (K!, isotype P!)
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+This species is ± related to the following one because of the variability of certain forms sometimes doubtful. The typical forms being by contrast well distinct, it seems to us premature to conclude conspecificity.
 
-Cette espèce est  $ \pm $ voisine de la suivante du fait de la variabilité de certaines formes parfois douteuses. Les formes typiques étant par contre bien distinctes, il nous semble prématuré de conclure à la conspecificité.
+Certain specimens show an impoverishment in the number of secondary nerves, their spacing being greater. One can reserve for these plants the name of variety $\underline{\text{oligoneura}}$ (K. Schum.) N. Hallé stat. nov. (Staudt 90 and 165, syntypes P!), bas. $\underline{\text{Chomelia oligoneura}}$ K. Schum.
 
-Certains spécimens présentent un appauvrissement du nombre de nervures secondaires, leur espacement étant plus grand. On peut réserver à ces plantes le nom de variété  $ \underline{\text{oligoneura}} $ (K. Schum.) N. Hallé stat. nov. (Staudt 90 et 165, syntypes P!), bas.  $ \underline{\text{Chomelia oligoneura}} $ K. Schum.
-
-Nigeria, Cameroun, Guinée Esp. (Dinklage 1212, Bata), Gabon, Congo et Angola.
+Nigeria, Cameroon, Spanish Guinea (Dinklage 1212, Bata), Gabon, Congo and Angola.
 
 ## Specimens examined
 

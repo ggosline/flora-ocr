@@ -7,6 +7,7 @@ family: Sapotaceae
 vol: 01
 pages: 134-135
 source: sources/Sapotaceae_vol01_paddle
+habit: "tree"
 tags: [species, generated]
 ---
 # *Gambeya lacourtiana* (De Wild.) Aubr. et Pellegr.

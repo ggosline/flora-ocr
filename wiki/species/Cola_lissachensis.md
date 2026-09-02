@@ -7,6 +7,7 @@ family: Sterculiaceae
 vol: 02
 pages: 94-95
 source: sources/Sterculiaceae_vol02_paddle
+habit: "tree"
 tags: [species, generated]
 ---
 # *Cola lissachensis* Pellegrin.
@@ -35,7 +36,7 @@ Le Testu : 8561 et s. n., environs de Koulamotou (fl. déc. janv.). N. Hallé : 
 
 ![Cola lissachensis](../sources/Sterculiaceae_vol02_paddle/figures/fig_018_p0099.png)
 
-*PL. XVIII. — Inflorescences et fleurs de Cola du sous-genre Cheirocola : 1 à 5, Cola crispiflora K. Schum. (Klaine 127) : inflorescence, bouton de profil et en vue apicale, fleur épanouie, androcée, coupe de la couronne à anthères hautes de 1 mm, et gynandrocée haut de 2,5 mm. — 6 à 9, Cola lepidota K. Schum. (Brenan 9444 et Letouzey 1974) : inflorescence, fleur épanouie, gynandrocée haut de 7 mm, androcée et coupe de la couronne à anthères hautes de 1 mm. — 10 à 13, Cola pachycarpa K. Schum. (Le Testu 2156) : inflorescence, fleur épanouie, gynandrocée haut de 7 mm, androcée et coupe de la couronne à anthères hautes de 3 mm. — 14 et 15, Cola tsandensis Pellegr. (Le T. 7473) : inflorescence et coupe de la couronne à anthères hautes de 3 mm. — 16 et 17, Cola lissachensis (Le T. s. n.) : inflorescence, androcée, et coupe de la couronne à anthères hautes de 1,2 mm. — L'échelle se rapporte aux inflorescences.*
+*PL. XVIII. — Inflorescences and flowers of Cola of the subgenus Cheirocola : 1 à 5, Cola crispiflora K. Schum. (Klaine 127) : inflorescence, bud in profile and in apical view, expanded flower, androecium, section of the crown with anthers 1 mm high, and gyandroecium 2.5 mm high. — 6 à 9, Cola lepidota K. Schum. (Brenan 9444 et Letouzey 1974) : inflorescence, expanded flower, gyandroecium 7 mm high, androecium and section of the crown with anthers 1 mm high. — 10 à 13, Cola pachycarpa K. Schum. (Le Testu 2156) : inflorescence, expanded flower, gyandroecium 7 mm high, androecium and section of the crown with anthers 3 mm high. — 14 et 15, Cola tsandensis Pellegr. (Le T. 7473) : inflorescence and section of the crown with anthers 3 mm high. — 16 et 17, Cola lissachensis (Le T. s. n.) : inflorescence, androecium, and section of the crown with anthers 1.2 mm high. — The scale applies to the inflorescences.*
 
 ## Notes
 

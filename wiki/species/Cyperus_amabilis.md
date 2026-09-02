@@ -7,6 +7,12 @@ family: Cyperaceae
 vol: 44
 pages: 44-46
 source: sources/Cyperaceae_vol44_liteparse
+countries: [Gabon]
+in_region: true
+subdivisions:
+  Gabon: [Haut-Ogooué, Ngounié, Ogooué-Ivindo, Ogooué-Maritime]
+habit: "herb"
+altitude_m: "0–400"
 tags: [species, generated]
 ---
 # *Cyperus amabilis* Vahl Planche 20

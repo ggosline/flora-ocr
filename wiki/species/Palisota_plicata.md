@@ -7,6 +7,12 @@ family: Commelinaceae
 vol: 55
 pages: 71-74
 source: sources/Commelinaceae_vol55_liteparse
+countries: [Cameroon, Equatorial Guinea, Gabon]
+in_region: true
+subdivisions:
+  Gabon: [Estuaire, Ngounié]
+habit: "herb"
+altitude_m: "550"
 tags: [species, generated]
 ---
 # *Palisota plicata* E.Bidault & Burg Planche 21, Figure 5(C-E)

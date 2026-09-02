@@ -7,6 +7,9 @@ family: Rubiaceae
 vol: 12
 pages: 144-144
 source: sources/Rubiaceae_vol12_paddle
+countries: [Cameroon]
+in_region: true
+habit: "liana"
 tags: [species, generated]
 ---
 # *Mussaenda nannanii* Wernhan (P.L. 28)

@@ -7,6 +7,13 @@ family: Leguminosae
 vol: 49
 pages: 264-265
 source: sources/Millettiaspeciesfabaceae_vol49_liteparse
+countries: [Angola, Cameroon, Central African Republic, Equatorial Guinea, Gabon, Republic of the Congo]
+in_region: true
+subdivisions:
+  Gabon: [Estuaire, Haut-Ogooué, Moyen-Ogooué, Nyanga, Ogooué-Ivindo]
+habit: "liana"
+habitat: [secondary forest]
+altitude_m: "10–500"
 tags: [species, generated]
 ---
 # *Millettia soyauxii* Taub.

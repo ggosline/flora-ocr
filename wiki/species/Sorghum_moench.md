@@ -15,8 +15,6 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 59.1 Sorghum arundinaceum (Willd.) Stapf
 
 Fl. Gab.: 144, Pl. 24 ; FACB 1 : 92, Pl. 7 ; FWTA : 467 ; FTEA : 727, fig. 168 ; Gram. Cam. : 402, Pl. 89 ; Poac. CI. : 480, 481 ; Gram. CB. : 277. – Sorghum aethiopicum (Hack.) Stapf – FWTA : 467. – S. lanceolatum Stapf – FWTA : 467. – S. vogelianum (Piper) Stapf – FWTA : 467.

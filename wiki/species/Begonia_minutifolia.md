@@ -7,6 +7,10 @@ family: Begoniaceae
 vol: 39
 pages: 18-20
 source: sources/Begoniaceae_vol39_liteparse
+countries: [Gabon]
+in_region: true
+habit: "herb"
+altitude_m: "500"
 tags: [species, generated]
 ---
 # *Begonia minutifolia* N.Hallé

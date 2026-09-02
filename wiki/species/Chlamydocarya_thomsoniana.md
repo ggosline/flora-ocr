@@ -7,6 +7,9 @@ family: Icacinaceae
 vol: 20
 pages: 97-98
 source: sources/Icacinaceae_vol20_paddle
+countries: [Democratic Republic of the Congo, Sierra Leone]
+in_region: true
+habit: "liana"
 tags: [species, generated]
 ---
 # *Chlamydocarya thomsoniana* Baillon
@@ -45,7 +48,7 @@ Le Testu 1038, Tchibanga (fl. ♀, fr., juin).
 
 ![Chlamydocarya thomsoniana](../sources/Icacinaceae_vol20_paddle/figures/fig_025_p0099.png)
 
-*PL. 25. — Chlamydocarya thomsoniana Baill.: 1, feuilles, inflorescence ♀ et infrutescence × ½; 2, hydathode; 3, fleur ♀ × 10; 4, coupe de la fleur ♀ × 10; 5, diagramme de la fleur ♀; 6, pétale × 10; 7, staminode × 18; 8, pistil × 13; 9, coupe longit. du pistil × 18,5; 10, fruit × 0,7; 11, coupe du fruit × 0,7; 12, face int. de l'endocarpe. (1-12, Le Testu 1038).*
+*PL. 25. — Chlamydocarya thomsoniana Baill.: 1, leaves, ♀ inflorescence and infructescence × ½; 2, hydathode; 3, ♀ flower × 10; 4, section of ♀ flower × 10; 5, diagram of ♀ flower; 6, petal × 10; 7, staminode × 18; 8, pistil × 13; 9, longit. section of pistil × 18,5; 10, fruit × 0,7; 11, section of fruit × 0,7; 12, inner surface of endocarp. (1-12, Le Testu 1038).*
 
 ## Notes
 

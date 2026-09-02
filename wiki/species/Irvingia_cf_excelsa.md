@@ -5,14 +5,12 @@ authority: Mildbr.
 genus: Irvingia
 family: Irvingiaceae
 synonyms: []
-countries: [Cameroon, Gabon]
-in_region: true
-habit: large tree
 treatments:
   - vol: 3
     year: 1962
     pages: "27–28"
     source: sources/Irvingiaceae_vol3_paddle
+habit: "tree"
 tags: [species, uncertain]
 ---
 

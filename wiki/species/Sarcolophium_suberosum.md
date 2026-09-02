@@ -6,17 +6,15 @@ genus: Sarcolophium
 family: Menispermaceae
 synonyms:
   - "Kolobopetalum suberosum Diels, in Engl. Pflanzenr. IV.94: 163 (1910)"
-habit: liana
-habitat: [secondary forest]
-altitude_m: "70–650"
-countries: [Cameroon, Gabon]
-subdivisions:
-  Gabon: [Estuaire, Moyen-Ogooué, Ngounié, Ogooué-Ivindo, Ogooué-Lolo, Woleu-Ntem]
-in_region: true
 treatments:
   - vol: 60
     pages: "65–66"
     source: sources/Menispermaceae_vol60_liteparse
+countries: [Cameroon, Gabon]
+in_region: true
+subdivisions:
+  Gabon: [Haut-Ogooué, Nyanga, Ogooué-Maritime]
+habit: "liana"
 tags: [species]
 ---
 

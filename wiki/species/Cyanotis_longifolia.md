@@ -7,6 +7,13 @@ family: Commelinaceae
 vol: 55
 pages: 33-36
 source: sources/Commelinaceae_vol55_liteparse
+countries: [Angola, Benin, Burkina Faso, Burundi, Cameroon, Central African Republic, Cote d'Ivoire, Democratic Republic of the Congo, Equatorial Guinea, Gabon, Gambia, Ghana, Guinea, Guinea-Bissau, Kenya, Liberia, Malawi, Mali, Mozambique, Nigeria, Republic of the Congo, Rwanda, Senegal, Sierra Leone, Sudan, Tanzania, Togo, Uganda, Zambia, Zimbabwe]
+in_region: true
+subdivisions:
+  Gabon: [Haut-Ogooué]
+habit: "herb"
+habitat: [rocky ground]
+altitude_m: "600"
 tags: [species, generated]
 ---
 # *Cyanotis longifolia* Benth. var. gracilis (Schnell) Schnell Planche 7, Figure 2(C, D)

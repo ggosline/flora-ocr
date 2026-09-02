@@ -7,6 +7,13 @@ family: Phyllanthaceae
 vol: 43
 pages: 76-78
 source: sources/Phyllanthaceae_vol43_liteparse
+countries: [Cameroon, Gabon, Republic of the Congo]
+in_region: true
+subdivisions:
+  Gabon: [Estuaire, Moyen-Ogooué, Ogooué-Maritime]
+habit: "tree"
+habitat: [secondary forest]
+altitude_m: "600"
 tags: [species, generated]
 ---
 # *Protomegabaria macrophylla* Hutch. Planche 24(A–J)

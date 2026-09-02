@@ -5,19 +5,16 @@ authority: "(A.DC.) E.Mestre, Meeprom, H.N.Rakouth & Lowry"
 genus: Diospyros
 family: Ebenaceae
 synonyms: ["Maba smeathmannii A.DC.", "Maba vacciniifolia Benth.", "Maba secundiora Hutch."]
-habit: shrub or tree
-habitat: [river bank, stream bank, swamp]
-altitude_m: "0-500, rarely to 1250"
-countries: [Cameroon, Central African Republic, Côte d'Ivoire, Democratic Republic of the Congo, Gabon, Ghana, Guinea, Guinea-Bissau, Mali, Nigeria, Senegal, Sierra Leone, São Tomé and Príncipe]
-subdivisions:
-  Gabon: [Estuaire]
-in_region: true
 treatments:
   - kind: article
     year: 2025
     citation: "Mestre Serra E., Puglisi C., Linan A.G., Meeprom N., Rakouth H.N., Schmidt H.H. & Lowry II P.P. (2025). A taxonomic revision of the continental African material previously included in Diospyros ferrea (Ebenaceae). Plant Ecology and Evolution."
     pages: "1-18"
     source: sources/articles/plecevo_article_140561_en_1/liteparse
+countries: [Senegal]
+in_region: false
+subdivisions:
+  Gabon: [Estuaire]
 tags: [species]
 ---
 

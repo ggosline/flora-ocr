@@ -7,6 +7,9 @@ family: Scytopetalaceae
 vol: 24
 pages: 101-102
 source: sources/Chrysobalanaceae_vol24_paddle
+countries: [Cameroon, Cote d'Ivoire, Ghana, Liberia, Sierra Leone]
+in_region: true
+habit: "tree"
 tags: [species, generated]
 ---
 # *Maranthes aubrevillei* (Pellegrin) Prance
@@ -56,7 +59,7 @@ Mildbraed 5794, entre Ebolowa et Nkomakak (= Akom II) (stér., juill.) (HBG).
 
 ![Maranthes aubrevillei](../sources/Chrysobalanaceae_vol24_paddle/figures/fig_029_p0103.png)
 
-*PL. 29. — Maranthes aubrevillei (Pellegr.) Prance : 1, feuille × 2/3; 2, stipules × 3/2; 3, base feuille × 3/2; 4, acumen × 5/2; 5, jeune infl. × 3/2; 6, inflorescence × 2/3; 7, bouton floral × 2; 8, fleur (pét. excl.) × 2; 9, pétale × 3. (1, 3-4, Mildbraed 5734; 2, 6, Chevalier 22355, Côté d'Ivoire; 5, Leeuwenberg 4562, Côté d'Ivoire; 7-9, Aubréville 2051, Côté d'Ivoire).*
+*PL. 29. — Maranthes aubrevillei (Pellegr.) Prance : 1, leaf × 2/3; 2, stipules × 3/2; 3, leaf base × 3/2; 4, acumen × 5/2; 5, young infl. × 3/2; 6, inflorescence × 2/3; 7, flower bud × 2; 8, flower (pet. excl.) × 2; 9, petal × 3. (1, 3-4, Mildbraed 5734; 2, 6, Chevalier 22355, Ivory Coast; 5, Leeuwenberg 4562, Ivory Coast; 7-9, Aubréville 2051, Ivory Coast).*
 
 ## Notes
 

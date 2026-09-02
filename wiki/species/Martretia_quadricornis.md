@@ -7,6 +7,13 @@ family: Phyllanthaceae
 vol: 43
 pages: 56-56
 source: sources/Phyllanthaceae_vol43_liteparse
+countries: [Cameroon, Central African Republic, Democratic Republic of the Congo, Gabon, Nigeria, Republic of the Congo, Sierra Leone]
+in_region: true
+subdivisions:
+  Gabon: [Moyen-Ogooué, Ogooué-Ivindo, Ogooué-Lolo, Ogooué-Maritime]
+habit: "tree"
+habitat: [swamp forest]
+altitude_m: "0–300"
 tags: [species, generated]
 ---
 # *Martretia quadricornis* Beille Planche 17

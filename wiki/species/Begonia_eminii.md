@@ -7,6 +7,10 @@ family: Begoniaceae
 vol: 39
 pages: 86-88
 source: sources/Begoniaceae_vol39_liteparse
+countries: [Angola, Burundi, Cameroon, Central African Republic, Democratic Republic of the Congo, Equatorial Guinea, Gabon, Kenya, Nigeria, Sudan, Tanzania, Uganda]
+in_region: true
+habitat: [riverine]
+altitude_m: "300"
 tags: [species, generated]
 ---
 # *Begonia eminii* Warb. Planche 40

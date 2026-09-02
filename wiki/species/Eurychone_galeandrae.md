@@ -7,6 +7,9 @@ family: Orchidaceae
 vol: 37
 pages: 131-131
 source: sources/Orchidaceae_vol37_paddle
+countries: [Angola, Central African Republic, Democratic Republic of the Congo, Gabon]
+in_region: true
+habitat: [savanna]
 tags: [species, generated]
 ---
 # *Eurychone galeandrae* (Rchb.f.) Schltr.

@@ -7,6 +7,13 @@ family: Clusiaceae
 vol: 45
 pages: 37-38
 source: sources/Clusiaceae_vol45_liteparse
+countries: [Cameroon, Cote d'Ivoire, Democratic Republic of the Congo, Equatorial Guinea, Gabon, Ghana, Nigeria, Republic of the Congo, Sierra Leone]
+in_region: true
+subdivisions:
+  Gabon: [Moyen-Ogooué, Ngounié, Nyanga, Ogooué-Ivindo, Ogooué-Lolo, Ogooué-Maritime, Woleu-Ntem]
+habit: "tree"
+habitat: [secondary forest, primary forest, riverine]
+altitude_m: "830"
 tags: [species, generated]
 ---
 # *Garcinia quadrifaria* (Oliv.) Pierre var. quadrifaria

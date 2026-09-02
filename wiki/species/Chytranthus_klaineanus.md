@@ -7,6 +7,7 @@ family: Sapindaceae
 vol: 23
 pages: 101-102
 source: sources/Sapindaceae_vol23_paddle
+habit: "shrub"
 tags: [species, generated]
 ---
 # *Chytranthus klaineanus* Radlkofer
@@ -44,7 +45,7 @@ Farron 4377, Mudongo, 25 km W Sibiti, Congo; petit arbuste de 3 m, jeunes bouton
 
 ![Chytranthus klaineanus](../sources/Sapindaceae_vol23_paddle/figures/fig_022_p0103.png)
 
-*PL. 22. — Chytranthus klaineanus Radlk. (Klaine 1320) : 1, feuille × 0,5; 2, inflorescence × 1; 3, bouton, hauteur 7 mm; 4, fleur, hauteur totale 11 mm; 5, pétale long de 8 mm et coupe axiale; 6, étamine dans le bouton, anthère de 1,3 mm; 7, disque de 1,1 mm; 8, coupe montrant la position du disque par rapport au gynécée; 9, gynécée avorté, poils de 0,8 mm; 10, jeune infrutescence × 1; 11, fruit et sa coupe × 1,1; 12, graine × 1,1.*
+*PL. 22. — Chytranthus klaineanus Radlk. (Klaine 1320) : 1, leaf × 0,5; 2, inflorescence × 1; 3, bud, height 7 mm; 4, flower, total height 11 mm; 5, petal 8 mm long and axial section; 6, stamen in bud, anther 1,3 mm; 7, disc 1,1 mm; 8, section showing the position of disc relative to gynoecium; 9, aborted gynoecium, hairs 0,8 mm; 10, young fruiting inflorescence × 1; 11, fruit and its section × 1,1; 12, seed × 1,1.*
 
 ## Notes
 

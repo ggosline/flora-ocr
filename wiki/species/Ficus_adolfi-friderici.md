@@ -7,6 +7,9 @@ family: Moraceae
 vol: 26
 pages: 185-187
 source: sources/Moraceae_vol26_paddle
+countries: [Cameroon, Democratic Republic of the Congo, Equatorial Guinea, Gabon, Nigeria]
+in_region: true
+habit: "tree"
 tags: [species, generated]
 ---
 # *Ficus adolfi-friderici* Mildbread
@@ -43,7 +46,7 @@ Michaloud 176 bis, Makokou (fig., mars).
 
 ![Ficus adolfi-friderici](../sources/Moraceae_vol26_paddle/figures/fig_053_p0186.png)
 
-*PL. 52. – Ficus adolfi-friderici Mildbr.: rameau avec feuilles et figues × 1 (Van Meer 968, Nigeria).*
+*PL. 52. – Ficus adolfi-friderici Mildbr.: branch with leaves and figs × 1 (Van Meer 968, Nigeria).*
 
 ## Notes
 

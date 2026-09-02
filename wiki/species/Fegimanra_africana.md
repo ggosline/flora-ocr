@@ -7,6 +7,13 @@ family: Anacardiaceae
 vol: 50
 pages: 14-16
 source: sources/Anacardiaceae_vol50_liteparse
+countries: [Gabon, Republic of the Congo]
+in_region: true
+subdivisions:
+  Gabon: [Estuaire, Nyanga, Ogooué-Maritime]
+habit: "tree"
+habitat: [mangrove, savanna, coastal]
+altitude_m: "0–5"
 tags: [species, generated]
 ---
 # *Fegimanra africana* (Oliv.) Pierre Planche 3

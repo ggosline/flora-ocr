@@ -6,6 +6,12 @@ genus: Coleus
 vol: 58
 pages: 59-59
 source: sources/Labiataeulmaceaeverbenaceae_vol58_liteparse
+countries: [Cameroon, Central African Republic, Democratic Republic of the Congo, Equatorial Guinea, Gabon, Madagascar, Sudan]
+in_region: true
+subdivisions:
+  Gabon: [Ngounié, Ogooué-Ivindo]
+habit: "shrub"
+altitude_m: "500–900"
 tags: [species, generated]
 ---
 # *Coleus melleri* (Baker) A.J.Paton

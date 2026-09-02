@@ -7,6 +7,9 @@ family: Dichapetalaceae
 vol: 32
 pages: 159-163
 source: sources/Dichapetalaceae_vol32_paddle
+countries: [Cameroon, Gabon]
+in_region: true
+habit: "liana"
 tags: [species, generated]
 ---
 # *Dichapetalum pulchrum* Breteler
@@ -57,7 +60,7 @@ Breteler & de Wilde 100, type (fl., j. fr., Août) ; 299, 3 km au S.E. d’Asok 
 
 ![Dichapetalum pulchrum](../sources/Dichapetalaceae_vol32_paddle/figures/fig_047_p0162.png)
 
-*PL. 46 – Dichapetalum pulchrum Breteler : 1, jeune rameau feuillé avec stipules × 0,5 ; 2. aisselle. jeune inflorescence et stipules × 1 ; 3, stipule × 1 ; 4, jeune rameau, coupe transversale × 2 ; 5, inflorescence × 1 ; 6, fleur × 3 ; 7, fleur, détail × 4 ; 8, infrutescence, fruit 1-sperme et fleurs sèches × 0,5 ; 9, fruit 2-sperme × 1 (1, 3, Bos & Breteler 7296 ; 2, 4-7, Breteler & J.J. de Wilde 100 ; 8, 9, Breteler & J.J. de Wilde 299). – Repris de MLW 81 (10) : 87 (1981).*
+*PL. 46 – Dichapetalum pulchrum Breteler : 1, young leafy branch with stipules × 0.5 ; 2. axil, young inflorescence and stipules × 1 ; 3, stipule × 1 ; 4, young branch, transverse section × 2 ; 5, inflorescence × 1 ; 6, flower × 3 ; 7, flower, detail × 4 ; 8, fruitescence, 1-seeded fruit and dry flowers × 0.5 ; 9, 2-seeded fruit × 1 (1, 3, Bos & Breteler 7296 ; 2, 4-7, Breteler & J.J. de Wilde 100 ; 8, 9, Breteler & J.J. de Wilde 299). – Reprinted from MLW 81 (10) : 87 (1981).*
 
 ## Notes
 

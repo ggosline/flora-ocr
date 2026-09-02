@@ -7,6 +7,13 @@ family: Cyperaceae
 vol: 44
 pages: 81-83
 source: sources/Cyperaceae_vol44_liteparse
+countries: [Gabon]
+in_region: true
+subdivisions:
+  Gabon: [Estuaire]
+habit: "herb"
+habitat: [evergreen forest]
+altitude_m: "600"
 tags: [species, generated]
 ---
 # *Cyperus zollingeri* Steud. Planche 49

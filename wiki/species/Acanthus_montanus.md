@@ -7,6 +7,8 @@ family: Acanthaceae
 vol: 13
 pages: 114-117
 source: sources/Acanthaceae_vol13_paddle
+countries: [Angola, Cameroon, Nigeria, Sao Tome and Principe]
+in_region: true
 tags: [species, generated]
 ---
 # *Acanthus montanus* (Nees) T. Anders.

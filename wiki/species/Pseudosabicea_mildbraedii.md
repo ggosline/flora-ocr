@@ -7,6 +7,9 @@ family: Rubiaceae
 vol: 12
 pages: 206-210
 source: sources/Rubiaceae_vol12_paddle
+countries: [Cameroon, Gabon]
+in_region: true
+habitat: [riverine]
 tags: [species, generated]
 ---
 # *Pseudosabicea mildbraedii* (Wernh.) N. Hallé
@@ -69,7 +72,7 @@ This riparian variety also exists in Cameroon (Letouzey 3876, and NE Gabon borde
 
 ![Pseudosabicea mildbraedii](../sources/Rubiaceae_vol12_paddle/figures/fig_054_p0209.png)
 
-*PL. 43. — Pseudosabicaea Mildbraedii (Wernh.) N. Hallé; 1, rameau florifère × 3/4; 2, bouton brévistyle; 3, inflorescence; 4, coupe de la fleur longistyle; 5, étamine; 6, face externe d'un lobe stigmatique; 7, coupe de l'ovaire; 8, rameau fructifère; 9, fruit mùr; 10, graine (1, N. Hallé 1896; 2 à 10, N. H. 1661 et 1662). — Ps. sthenula N. Hallé (N. H. 1339) : 11, extrémité florifère; 12, système stipulaire à plat; 13, coupe de la fleur; 14, anthère; 15, ovaire en coupe; 16, fruit encore vert.*
+*PL. 43. — Pseudosabicaea Mildbraedii (Wernh.) N. Hallé; 1, flowering branch × 3/4; 2, brevistyle bud; 3, inflorescence; 4, longistyle flower section; 5, stamen; 6, external face of a stigmatic lobe; 7, ovary section; 8, fruiting branch; 9, ripe fruit; 10, seed (1, N. Hallé 1896; 2 to 10, N. H. 1661 and 1662). — Ps. sthenula N. Hallé (N. H. 1339) : 11, flowering extremity; 12, stipular system flattened; 13, flower section; 14, anther; 15, ovary section; 16, fruit still green.*
 
 ## Notes
 

@@ -7,6 +7,8 @@ family: Orchidaceae
 vol: 37
 pages: 34-35
 source: sources/Orchidaceae_vol37_paddle
+countries: [Cameroon, Democratic Republic of the Congo, Equatorial Guinea, Gabon, Nigeria, Rwanda, Sao Tome and Principe]
+in_region: true
 tags: [species, generated]
 ---
 # *Polystachya bifida* Lindl.
@@ -39,7 +41,7 @@ Le Testu 5411, Chutes de la Mtoumi at Mbigou (fl. Apr.), P!.
 
 ![Polystachya bifida](../sources/Orchidaceae_vol37_paddle/figures/fig_009_p0036.png)
 
-*PL. 116. – Polystachya bifida Lindl.: A, fleur ; B, labelle ; C, sépale latéral ; D, pétale ; E, sépale dorsal ; F, feuille. – Polystachya caloglossa Rchb.f.: G, fleur H, labelle ; I, sépale dorsal ; J, pétale ; K, sépale latéral ; L, partie du rachis (A-F, Hallé 3697, P ; G-K, Farron 7128, P ; L, Hallé 3516, P).*
+*PL. 116. – Polystachya bifida Lindl.: A, flower ; B, lip ; C, lateral sepal ; D, petal ; E, dorsal sepal ; F, leaf. – Polystachya caloglossa Rchb.f.: G, flower H, lip ; I, dorsal sepal ; J, petal ; K, lateral sepal ; L, part of rachis (A-F, Hallé 3697, P ; G-K, Farron 7128, P ; L, Hallé 3516, P).*
 
 ![Polystachya bifida](../sources/Orchidaceae_vol37_paddle/figures/fig_128_p0249.png)
 

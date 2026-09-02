@@ -7,6 +7,11 @@ family: Phyllanthaceae
 vol: 43
 pages: 67-68
 source: sources/Phyllanthaceae_vol43_liteparse
+countries: [Angola, Burundi, Cameroon, Central African Republic, Democratic Republic of the Congo, Equatorial Guinea, Gabon, Republic of the Congo, Rwanda, Sierra Leone, Zambia]
+in_region: true
+habit: "herb"
+habitat: [savanna]
+altitude_m: "0–1000"
 tags: [species, generated]
 ---
 # *Phyllanthus odontadenius* Müll.Arg.

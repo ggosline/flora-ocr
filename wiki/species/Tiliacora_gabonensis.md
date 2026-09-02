@@ -5,18 +5,16 @@ authority: Troupin
 genus: Tiliacora
 family: Menispermaceae
 synonyms: []
-habit: liana
-habitat: [primary forest, savanna forest islet, inselberg]
-altitude_m: "20–840"
 endemic_to_gabon: true
-countries: [Gabon]
-subdivisions:
-  Gabon: [Moyen-Ogooué, Ngounié, Nyanga, Ogooué-Ivindo, Ogooué-Lolo, Woleu-Ntem]
-in_region: true
 treatments:
   - vol: 60
     pages: "76"
     source: sources/Menispermaceae_vol60_liteparse
+countries: [Gabon]
+in_region: true
+subdivisions:
+  Gabon: [Moyen-Ogooué, Ngounié, Nyanga, Ogooué-Ivindo, Ogooué-Lolo, Woleu-Ntem]
+habit: "liana"
 tags: [species, endemic]
 ---
 

@@ -7,6 +7,9 @@ family: Dichapetalaceae
 vol: 32
 pages: 97-101
 source: sources/Dichapetalaceae_vol32_paddle
+countries: [Democratic Republic of the Congo, Gabon]
+in_region: true
+habit: "liana"
 tags: [species, generated]
 ---
 # *Dichapetalum gilletii* De Wildemann
@@ -53,7 +56,7 @@ Breteler 6818, km 6 Moanda-Bakoumba (stér., Oct.).
 
 ![Dichapetalum gilletii](../sources/Dichapetalaceae_vol32_paddle/figures/fig_026_p0100.png)
 
-*PL. 25. – Dichapetalum gilletii De Wildemann : 1, jeune rameau florifère × 0,5 ; 2, feuille, face inférieure × 0,5 ; 3, indumentum foliaire, détail × 2 ; 4, inflorescence avec portion de pédoncule × 3 ; 5, fleur (pétales et étamines en partie supprimés) × 4 ; 6, pétale, face externe × 6 ; 7, fruit × 0,5 ; 8, indumentum du fruit, détail × 3 (1, Bequaert 844 ; 2, 3, 7, 8, Gillet 2092 ; 4-6, Bequaert 7181). – Repris de MLW 79 (16) : 15 (1979).*
+*PL. 25. – Dichapetalum gilletii De Wildemann : 1, young floriferous branch × 0,5 ; 2, leaf, lower surface × 0,5 ; 3, foliar indumentum, detail × 2 ; 4, inflorescence with portion of peduncle × 3 ; 5, flower (petals and stamens partly removed) × 4 ; 6, petal, external surface × 6 ; 7, fruit × 0,5 ; 8, indumentum of fruit, detail × 3 (1, Bequaert 844 ; 2, 3, 7, 8, Gillet 2092 ; 4-6, Bequaert 7181). – Reprinted from MLW 79 (16) : 15 (1979).*
 
 ## Notes
 

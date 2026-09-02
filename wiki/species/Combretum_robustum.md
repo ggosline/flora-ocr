@@ -7,6 +7,9 @@ family: Combretaceae
 vol: 35
 pages: 87-88
 source: sources/Combretaceae_vol35_paddle
+countries: [Central African Republic, Gabon]
+in_region: true
+habit: "liana"
 tags: [species, generated]
 ---
 # *Combretum robustum* Jongkind
@@ -47,7 +50,7 @@ de Wilde & Jongkind 9600, 35 km, NO de Doussala, 2°15'S-10°25'E (fl., Mars), B
 
 ![Combretum robustum](../sources/Combretaceae_vol35_paddle/figures/fig_023_p0086.png)
 
-*PL. 23. – Combretum robustum Jongkind : 1, rameau florifère ; 2, fleur, entière et coupe longitudinale (1, 2, de Wilde & Jongkind 9600). – Combretum mortehanii de Wildeman & Exell : 3, rameau ; 4, fruits 5, fleur, vue de dessus et profil (3, 4, Breteler & Jongkind 107005 ; 5, Tissérant 2332). – Combretum oudenhovenii Jongkind : 6, fleur entière et coupe longitudinale (6, Breteler & al. 9650). – Dessins originaux de Joanne Davies (Department of plant Taxonomy, Agricultural University, WAGENINGEN (Pays-Bas)).*
+*PL. 23. – Combretum robustum Jongkind : 1, flowering branch ; 2, flower, entire and longitudinal section (1, 2, de Wilde & Jongkind 9600). – Combretum mortehanii de Wildeman & Exell : 3, branch ; 4, fruits 5, flower, view from above and profile (3, 4, Breteler & Jongkind 107005 ; 5, Tissérant 2332). – Combretum oudenhovenii Jongkind : 6, entire flower and longitudinal section (6, Breteler & al. 9650). – Original drawings by Joanne Davies (Department of plant Taxonomy, Agricultural University, WAGENINGEN (Netherlands)).*
 
 ## Notes
 

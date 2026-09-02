@@ -7,6 +7,7 @@ family: Icacinaceae
 vol: 20
 pages: 22-25
 source: sources/Icacinaceae_vol20_paddle
+habit: "shrub"
 tags: [species, generated]
 ---
 # *Alsodeiopsis weissenborniana* J. Braun & K. Schumann

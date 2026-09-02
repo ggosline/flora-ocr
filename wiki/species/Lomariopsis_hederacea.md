@@ -7,6 +7,8 @@ family: Lomariopsidaceae
 vol: 08
 pages: 188-189
 source: sources/Lomariopsidaceae_vol08_paddle
+countries: [Angola, Cameroon]
+in_region: true
 tags: [species, generated]
 ---
 # *Lomariopsis hederacea* Alston (P.L. XXIX)

@@ -7,6 +7,8 @@ family: Orchidaceae
 vol: 36
 pages: 151-153
 source: sources/Orchidaceae_vol36_paddle
+countries: [Gabon]
+in_region: true
 tags: [species, generated]
 ---
 # *Bulbophyllum carnosilabium* Summerh.
@@ -41,7 +43,7 @@ Le Testu 5515, Pays Ihogko, entre Soudyanguéla et Noumbo (fl., Sept.), P! ; 592
 
 ![Bulbophyllum carnosilabium](../sources/Orchidaceae_vol36_paddle/figures/fig_078_p0154.png)
 
-*PL. 73. – Bulbophyllum carnosilabium Summerh.: A, vue générale ; B, fleur ; C, pièces florales ; D, labelle ; E, gynostème et labelle en position naturelle, vue latérale ; F, anthère ; G, pollinies (A-G, ex VERMEULEN, 1987).*
+*PL. 73. – Bulbophyllum carnosilabium Summerh.: A, general view ; B, flower ; C, floral parts ; D, lip ; E, gynostemium and lip in natural position, lateral view ; F, anther ; G, pollinia (A-G, ex VERMEULEN, 1987).*
 
 ## Notes
 

@@ -7,6 +7,7 @@ family: Bignoniaceae
 vol: 27
 pages: 17-18
 source: sources/Gesneriaceae_vol27_paddle
+habit: "herb"
 tags: [species, generated]
 ---
 # *Acanthonema diandrum* (Engler) B.L. Burtt

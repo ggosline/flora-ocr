@@ -7,6 +7,9 @@ family: Malpighiaceae
 vol: 21
 pages: 7-8
 source: sources/Malpighiaceae_vol21_paddle
+countries: [Cameroon]
+in_region: true
+habit: "liana"
 tags: [species, generated]
 ---
 # *Acridocarpus camerounensis* Niedenzu

@@ -7,6 +7,13 @@ family: Cucurbitaceae
 vol: 57
 pages: 76-79
 source: sources/Cucurbitaceae_vol57_paddle
+countries: [Gabon]
+in_region: true
+subdivisions:
+  Gabon: [Moyen-Ogooué, Ogooué-Ivindo]
+habit: "herb"
+habitat: [savanna]
+altitude_m: "10–350"
 tags: [species, generated]
 ---
 # *Luffa aegyptiaca* Mill.

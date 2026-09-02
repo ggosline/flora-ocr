@@ -7,6 +7,13 @@ family: Phyllanthaceae
 vol: 43
 pages: 104-106
 source: sources/Phyllanthaceae_vol43_liteparse
+countries: [Angola, Cameroon, Central African Republic, Democratic Republic of the Congo, Gabon, Guinea, Mali, Nigeria, Republic of the Congo, Sao Tome and Principe, Senegal]
+in_region: true
+subdivisions:
+  Gabon: [Haut-Ogooué]
+habit: "tree"
+habitat: [gallery forest, savanna]
+altitude_m: "300–400"
 tags: [species, generated]
 ---
 # *Uapaca togoensis* Pax Planche 35, 36A
@@ -17,25 +24,17 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Tree up to 20 m tall; trunk up to 40 cm in diameter, with stilt roots up to ± 1 m tall; branchlets puberulent to glabrescent, the indument often longer around the base of the petioles. Stipules absent or very small, early caducous, narrowly triangular, 0.5–2 mm long, pubescent. Leaf: petiole cylindrical, 2–6 cm, glabrous to sparsely pubescent and glabrescent; blade obovate-elliptic, (9–)11–18(–21) × 5–9(–12) cm, rounded to cuneate at the base, obtuse to truncate-retuse at the apex, coriaceous, with scattered hairs beneath, especially on the midvein, glabrescent; lateral veins 6–9 pairs. Inflorescence: peduncle 5–22 mm, glabrous, the female shorter than the male; involucral bracts 10, concave, up to 9 × 6 mm, glabrous or with a few marginal hairs. Male flower: calyx gamosepalous, 0.5–1.5 mm long, with lobes 0.2–1 mm long, pubescent; petals absent; stamens 5, 1–1.5(–2) mm long, filaments glabrous, anthers 0.5 mm long, pilose. Female flower: calyx gamosepalous, undulate, densely pilose on the outside; ovary ellipsoid, 4 mm long, tomentose or rarely nearly glabrous or very quickly glabrescent. Fruit with peduncle 5–20 mm, ± ellipsoid, ± 2.5 × 2 cm, rugose, lenticellate, glabrous to sparsely pilose; fruiting calyx most often densely pilose.
 
-Arbre jusqu’à 20 m de hauteur ; tronc jusqu’à 40 cm de diamètre, à racines-échasses jusqu’à ± 1 m de hauteur ; ramilles pubérulentes à glabrescentes, l’indument souvent plus long autour de la base des pétioles. Stipules absentes ou très petites , tôt caduques, étroitement triangulaires , 0,5–2 mm de longueur , pubescentes . Feuille : pétiole cylin drique, 2–6 cm, glabre à éparsement pubescent et glabrescent ; limbe obovale-elliptique, (9–)11–18(–21) × 5–9 (12) cm, arrondi à cunéé à la base, obtus à tronqué-rétus au som met, coriace, à poils clairsemés dessous, surtout sur la médiane, glabrescent ; nervures la térales 6–9 paires. Inflorescence : pédoncule 5–22 mm, glabre, la femelle plus courte que la mâle ; bractées involucrales 10, concaves, jusqu’à 9 × 6 mm, glabres ou avec quelques poils marginaux. Fleur mâle : calice gamosépale, 0,5–1,5 mm de longueur, à lobes de 0,2–1 mm de longueur, pubescent ; pétales absents ; étamines 5, de 1–1,5(–2) mm de longueur, filets glabres, anthères 0,5 mm de longueur, pileuses. Fleur femelle : calice ga mosépale, ondulé, densément pileux à l’extérieur ; ovaire ellipsoïde, 4 mm de longueur, tomenteux ou rarement presque glabre ou très rapidement glabrescent. Fruit à pédoncule
-
-Fleur mâle, un sépale et une étamine enlevés (× 12). ‒ D. Pistillode (× 12). ‒ E. Inflorescence femelle (× 4). ‒ F. Fruit (× 1.5). ‒ G. Détail de la surface du fruit (× 24). ‒ H. Fruit en coupe trans versale schématique (× 1.5). (A ‒ D : Chipp 725 ; E : Yates 24 ; F ‒ H : Dalziel 356 ). Dessin par E. Margaret Stones ©, reproduit avec permission à partir de Keay (1958).
-
-de 5–20 mm, ± ellipsoïde, ± 2,5 × 2 cm, rugueux, lenticellé, glabre à éparsement pileux ; calice fructifère le plus souvent densément pileux.
+Male flower, one sepal and one stamen removed (× 12). ‒ D. Pistillode (× 12). ‒ E. Female inflorescence (× 4). ‒ F. Fruit (× 1.5). ‒ G. Detail of the fruit surface (× 24). ‒ H. Fruit in schematic transverse section (× 1.5). (A ‒ D: Chipp 725; E: Yates 24; F ‒ H: Dalziel 356). Drawing by E. Margaret Stones ©, reproduced with permission from Keay (1958).
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-du Sénégal, du Mali et de la Guinée au Nigeria, au Cameroun et à la Ré publique Centrafricaine vers l’est, et du Gabon, de la République du Congo, de la Ré publique Démocratique du Congo et de l’Angola au sud ; aussi connue de Sao Tomé et Principe ; au Gabon, seulement récoltée dans le Haut-Ogooué
+from Senegal, Mali and Guinea to Nigeria, Cameroon and the Central African Republic eastward, and from Gabon, Republic of the Congo, Democratic Republic of the Congo and Angola southward; also known from São Tomé and Príncipe; in Gabon, only collected in the Haut-Ogooué
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-forêt de galerie, savane anthropogène ; au Gabon, à 300–400 m d’altitude. b : Breteler (2012a, b), De Wildeman (1936), Keay (1958), Pax & Hoffmann ibliographie (1922)
+gallery forest, anthropogenic savanna; in Gabon, at 300–400 m altitude. b: Breteler (2012a, b), De Wildeman (1936), Keay (1958), Pax & Hoffmann Bibliography (1922)
 
 ## Notes
 

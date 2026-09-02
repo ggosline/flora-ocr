@@ -6,6 +6,13 @@ genus: Coleus
 vol: 58
 pages: 55-56
 source: sources/Labiataeulmaceaeverbenaceae_vol58_liteparse
+countries: [Angola, Cameroon, Central African Republic, Democratic Republic of the Congo, Gabon, Nigeria, Republic of the Congo]
+in_region: true
+subdivisions:
+  Gabon: [Ogooué-Ivindo]
+habit: "herb"
+habitat: [savanna]
+altitude_m: "100"
 tags: [species, generated]
 ---
 # *Coleus guerkei* (Briq.) A.J.Paton

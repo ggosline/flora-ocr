@@ -7,6 +7,10 @@ family: Centroplacaceae
 vol: 57
 pages: 39-42
 source: sources/Centroplacaceae_vol57_paddle
+countries: [Cameroon, Equatorial Guinea, Gabon, Republic of the Congo]
+in_region: true
+habit: "tree"
+altitude_m: "15–800"
 tags: [species, generated]
 ---
 # *Centroplacus glaucinus* Pierre

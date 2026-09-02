@@ -7,6 +7,13 @@ family: Leguminosae
 vol: 49
 pages: 37-37
 source: sources/Millettiaspeciesfabaceae_vol49_liteparse
+countries: [Gabon, Madagascar]
+in_region: true
+subdivisions:
+  Gabon: [Ngounié]
+habit: "herb"
+habitat: [rocky ground]
+altitude_m: "170"
 tags: [species, generated]
 ---
 # *Alysicarpus rugosus* (Willd.) DC.

@@ -7,6 +7,10 @@ family: Rubiaceae
 vol: 17
 pages: 78-79
 source: sources/Rubiaceae_vol17_paddle
+countries: [Gabon, Nigeria]
+in_region: true
+habit: "shrub"
+habitat: [riverine]
 tags: [species, generated]
 ---
 # *Leptactina leopoldi-* II Büttner

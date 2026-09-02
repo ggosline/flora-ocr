@@ -5,12 +5,9 @@ authority: (L.) Bl.
 genus: Cyathula
 family: Amaranthaceae
 synonyms: [Achyranthes prostrata, Cyathula geminata]
-countries: [Gabon, India]
 range_note: "Tropical Africa, Asia and America."
-in_region: true
-habit: herb
-habitat: [humid forest understorey, cultivated ground]
 treatments: [{vol: 7, pages: "33–37", source: sources/Amaranthaceae_vol7_paddle}]
+habit: "herb"
 tags: [species]
 ---
 

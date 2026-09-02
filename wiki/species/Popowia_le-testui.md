@@ -7,6 +7,10 @@ family: Annonaceae
 vol: 16
 pages: 0-0
 source: sources/Annonaceae_vol16_mineru
+countries: [Cameroon, Central African Republic, Gabon]
+in_region: true
+habit: "liana"
+habitat: [savanna]
 tags: [species, generated]
 ---
 # *Popowia le-* Testui Pellegrin
@@ -25,7 +29,7 @@ Fruits unknown.
 
 ## Type
 
-Le Testu 9o28,entre Ogooué et Cameroun,bords de la Kyé a Méyo, Gabon (holotype P!；isotype BM!)
+Le Testu 9o28,entre Ogooué et Cameroun,bords de la Kyé a Méyo, Gabon (holotype P!;isotype BM!)
 
 ## Discussion
 
@@ -35,7 +39,7 @@ In dense humid forest, in forest galleries, wooded ravines in savanna, in Camero
 
 ## Specimens examined
 
-Le Testu 9o2I,Bitam, région entre Ogooué et Cameroun (fl.，mars)； 9028, type (fl.,mars).
+Le Testu 9o2I,Bitam, région entre Ogooué et Cameroun (fl.,mars); 9028, type (fl.,mars).
 
 ## Notes
 

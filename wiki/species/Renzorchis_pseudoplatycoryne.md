@@ -7,6 +7,8 @@ family: Orchidaceae
 vol: 36
 pages: 51-55
 source: sources/Orchidaceae_vol36_paddle
+countries: [Gabon]
+in_region: true
 tags: [species, generated]
 ---
 # *Renzorchis pseudoplatycoryne* Szlach. & Olsz.
@@ -41,11 +43,11 @@ Thollon s.n, s.loc., P!.
 
 ![Renzorchis pseudoplatycoryne](../sources/Orchidaceae_vol36_paddle/figures/fig_021_p0053.png)
 
-*PL. 21. – Structure du gynostème du genre Renzorchis Szlach. & Olsz. : A, vue latérale ; B, vue antérieure, étalé ; C, région apicale du rostellophore et de l'anthérophore ; D, vue antérieure (A-D, ex Szlachetko & Rutkowski, 2000).*
+*PL. 21. – Structure of the gynostème of the genus Renzorchis Szlach. & Olsz. : A, lateral view ; B, anterior view, spread ; C, apical region of the rostellophore and of the antherophore ; D, anterior view (A-D, ex Szlachetko & Rutkowski, 2000).*
 
 ![Renzorchis pseudoplatycoryne](../sources/Orchidaceae_vol36_paddle/figures/fig_022_p0054.png)
 
-*PL. 22. – Renzorchis pseudoplatycoryne Szlach. & Olsz.: A, vue générale ; B, feuille ; C, bractée, éperon, ovaire et pédicelle ; D, sépale dorsal ; E, pétale ; F, sépale latéral ; G, labelle (A-G, ex Szlachetko & Olszewski, 1998).*
+*PL. 22. – Renzorchis pseudoplatycoryne Szlach. & Olsz.: A, general view ; B, leaf ; C, bract, spur, ovary and pedicel ; D, dorsal sepal ; E, petal ; F, lateral sepal ; G, lip (A-G, ex Szlachetko & Olszewski, 1998).*
 
 ## Notes
 

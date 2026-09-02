@@ -7,6 +7,9 @@ family: Orchidaceae
 vol: 37
 pages: 47-48
 source: sources/Orchidaceae_vol37_paddle
+countries: [Cameroon, Equatorial Guinea, Gabon]
+in_region: true
+altitude_m: "650–700"
 tags: [species, generated]
 ---
 # *Polystachya superposita* Rchb.f.

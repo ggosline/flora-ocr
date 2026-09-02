@@ -7,6 +7,7 @@ family: Melastomataceae
 vol: 25
 pages: 130-131
 source: sources/Melastomataceae_vol25_paddle
+habit: "tree"
 tags: [species, generated]
 ---
 # *Memecylon viride* Hutchinson & Dalziel
@@ -47,7 +48,7 @@ Ces espèces sont davantage inféodées au milieu forestier humide que les préc
 
 ![Memecylon viride](../sources/Melastomataceae_vol25_paddle/figures/fig_046_p0129.png)
 
-*PL. 46.—Memecylon viride Hutch. & Dalz.: 1, rameau fleuri × 2/3; 2, cyme × 3; 3, étamine × 11; 4, fruit × 3 (1-3, De Wilde J.J.F.E. 3827; 4, Adam 16230). (Repris d'Adansonia, sèr 2, 18 (4) : tab. 3, 1979)*
+*PL. 46.—Memecylon viride Hutch. & Dalz.: 1, flowering branch × 2/3; 2, cyme × 3; 3, stamen × 11; 4, fruit × 3 (1-3, De Wilde J.J.F.E. 3827; 4, Adam 16230). (Reprinted from Adansonia, ser. 2, 18 (4) : tab. 3, 1979)*
 
 ## Notes
 

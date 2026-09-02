@@ -7,6 +7,12 @@ family: Ochnaceae
 vol: 48
 pages: 55-56
 source: sources/Ochnaceae_vol48_liteparse
+countries: [Cameroon, Equatorial Guinea, Gabon]
+in_region: true
+subdivisions:
+  Gabon: [Ogooué-Ivindo]
+habitat: [riverine, rocky ground]
+altitude_m: "80–120"
 tags: [species, generated]
 ---
 # *Campylospermum glomeratum* (Tiegh.) Biss.

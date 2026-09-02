@@ -7,6 +7,8 @@ family: Opiliaceae
 vol: 20
 pages: 180-182
 source: sources/Opiliaceae_vol20_paddle
+countries: [Angola, Democratic Republic of the Congo, Gabon]
+in_region: true
 tags: [species, generated]
 ---
 # *Rhopalopilia marquesii* (Engler) Engler

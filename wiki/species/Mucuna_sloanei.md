@@ -7,6 +7,11 @@ family: Leguminosae
 vol: 49
 pages: 304-304
 source: sources/Millettiaspeciesfabaceae_vol49_liteparse
+countries: [Gabon]
+in_region: true
+subdivisions:
+  Gabon: [Ngounié, Nyanga, Ogooué-Maritime]
+altitude_m: "700"
 tags: [species, generated]
 ---
 # *Mucuna sloanei* Fawc. & Rendle Planche 97.10–12

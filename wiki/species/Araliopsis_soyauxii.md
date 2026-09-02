@@ -5,10 +5,10 @@ authority: Engl.
 genus: Araliopsis
 family: Rutaceae
 synonyms: []
-countries: [Nigeria, Gabon]
-in_region: true
-habit: tree
 treatments: [{vol: 6, pages: "69–71", source: sources/Rutaceae_vol6_paddle}]
+countries: [Gabon, Nigeria]
+in_region: true
+habit: "tree"
 tags: [species]
 ---
 

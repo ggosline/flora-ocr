@@ -7,6 +7,12 @@ family: Campanulaceae
 vol: 40
 pages: 18-19
 source: sources/Campanulaceae_vol40_liteparse
+countries: [Cameroon, Democratic Republic of the Congo, Gabon, Madagascar]
+in_region: true
+subdivisions:
+  Gabon: [Haut-Ogooué, Moyen-Ogooué, Ogooué-Ivindo, Ogooué-Maritime]
+habit: "herb"
+altitude_m: "100–640"
 tags: [species, generated]
 ---
 # *Wahlenbergia perrottetii* (A.DC.) Thulin Planche 3
@@ -17,21 +23,15 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Herbe annuelle dressée , 0,2–0,6(–1) m de hauteur ; tige hirsute à la base. Feuilles alternes ; limbe étroitement elliptique à lancéolé, 18–57 × 5–16 mm, cunéé à la base, sommet ± obtus et mucronulé, marges épaisses et ondulées-crénulées, au moins les feuilles inférieures hirsutes ; nervures principale et latérales proéminentes à la face inférieure. Fleurs en panicule lâche ; pédicelle atteignant 25 mm, glabre ou hirsute ; hypanthium obconique, 5-nervé, glabre ou hirsute ; calice à 5 lobes, 0,7–1,6 mm de longueur ; corolle blanche à bleue, 1,8–3 mm de longueur, s’ouvrant presque jusqu’à la base en 5 lobes linéaires-lancéolés , glabres ou avec quelques poils à l’extérieur ; filets des étamines à base dilatée, ciliée, anthères 0,6–0,9 mm de longueur ; ovaire 2-loculaire , semi-infère ; style aussi long que la corolle, souvent bleu, poilu en dessous, subcapité et à 2 lobes stigmatiques très courts au sommet . Fruit 5-nervé, glabre ou hirsute, à 2 valves, de ± 1 mm de longueur. Graines elliptiques à extrémités aiguës, triangulaires à section transversale, 0,5–0,6 mm de longueur, presque lisses.
+Annual herb erect, 0.2–0.6(–1) m tall; stem hirsute at the base. Leaves alternate; blade narrowly elliptic to lanceolate, 18–57 × 5–16 mm, cuneate at the base, apex ± obtuse and mucronulate, margins thick and undulate-crenulate, at least the lower leaves hirsute; principal and lateral veins prominent on the lower surface. Flowers in lax panicle; pedicel reaching 25 mm, glabrous or hirsute; hypanthium obconic, 5-nerved, glabrous or hirsute; calyx with 5 lobes, 0.7–1.6 mm long; corolla white to blue, 1.8–3 mm long, opening almost to the base into 5 linear-lanceolate lobes, glabrous or with a few hairs on the outside; filaments of stamens with dilated base, ciliate, anthers 0.6–0.9 mm long; ovary 2-locular, semi-inferior; style as long as the corolla, often blue, hairy below, subcapitate and with 2 very short stigmatic lobes at the apex. Fruit 5-nerved, glabrous or hirsute, with 2 valves, ± 1 mm long. Seeds elliptic with acute ends, triangular in cross section, 0.5–0.6 mm long, almost smooth.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-très répandue en Afrique tropicale incluant le Cameroun, le Congo (Brazzaville), la République Démocratique du Congo et le Gabon, ainsi qu’à Madagascar, les Iles Comores et l’Amérique du Sud ; au Gabon principalement dans les provinces du Haut-Ogooué, Moyen-Ogooué, Ogooué-Ivindo et Ogooué-Maritime
+very widespread in tropical Africa including Cameroon, Congo (Brazzaville), Democratic Republic of the Congo and Gabon, as well as in Madagascar, the Comoros Islands and South America; in Gabon mainly in the provinces of Haut-Ogooué, Moyen-Ogooué, Ogooué-Ivindo and Ogooué-Maritime
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-savanes arborées, souvent en bordure de route ou milieux dégradés ; à 100–640 m d’altitude. B : Thulin (1975, 1977). i B liographie
+wooded savannas, often along roadsides or degraded habitats; at 100–640 m altitude. B: Thulin (1975, 1977). Bibliography
 
 7 7 7 3 9 7 9 9 9
 

@@ -7,6 +7,10 @@ family: Orchidaceae
 vol: 37
 pages: 201-206
 source: sources/Orchidaceae_vol37_paddle
+countries: [Angola, Cameroon, Central African Republic, Cote d'Ivoire, Democratic Republic of the Congo, Equatorial Guinea, Gabon, Ghana, Guinea, Guinea-Bissau, Liberia, Nigeria, Rwanda, Sierra Leone, Togo, Uganda]
+in_region: true
+habitat: [mangrove, primary forest]
+altitude_m: "5–20"
 tags: [species, generated]
 ---
 # *Diaphananthe bidens* (Sw.) Schltr.

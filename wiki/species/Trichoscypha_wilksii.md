@@ -7,6 +7,11 @@ family: Anacardiaceae
 vol: 50
 pages: 53-57
 source: sources/Anacardiaceae_vol50_liteparse
+countries: [Gabon]
+in_region: true
+subdivisions:
+  Gabon: [Estuaire]
+altitude_m: "0–50"
 tags: [species, generated]
 ---
 # *Trichoscypha wilksii* Breteler, spec. nov. Planche 20
@@ -16,9 +21,7 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Trichoscyphae oliveri Engl. similis disco florum masculorum piloso et perspicue exposito, ab ea differt indumento tomentoso in pagina inferiore foliorum et indumento hispido haud adpresso in disco.
+Trichoscyphae oliveri Engl. similar to it in the pilose and clearly exposed disc of male flowers, differs from it in the tomentose indumentum on the lower surface of the leaves and the hispid non-appressed indumentum on the disc.
 
 ## Type
 
@@ -26,27 +29,21 @@ GABON, Estuaire, Nyonyie, forêt exploitée, 11 juillet 1990, Wilks 2167 (holo- 
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-endémique du Gabon, connu d’une seule récolte de l’Estuaire
+endemic to Gabon, known from a single collection from Estuaire
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-forêt exploitée sur sable ; à 0–50 m d’altitude
+exploited forest on sand; at 0–50 m altitude
 
 ## Source note
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+This new species is dedicated to the great botanist of the Gabonese forest, Christopher Morris Wilks, born in London on 13 July 1947 and died in Libreville on 2 November 2008, principal author of the excellent Practical Guide to the Identification of Trees of Equatorial Guinea (continental region) (Wilks & Issembé 2000)
 
-Cette espèce nouvelle est dédiée au grand botaniste de la forêt gabonaise, Christopher Morris Wilks, né à Londres le 13 juillet 1947 et mort à Libreville le 2 novembre 2008, auteur principal de l’excellent Guide pratique de l’Identification des Arbres de la Guinée Équatoriale (région continentale) (Wilks & Issembé 2000)
+Trichoscypha 47 Male flower. – 6. Male flower with bract and bracteoles. (1–6: Wilks 2167). Drawing by Hans de Vries, Meise Botanical Garden (©).
 
-Trichoscypha 47 Fleur mâle. – 6. Fleur mâle avec bractée et bractéoles. (1–6 : Wilks 2167 ). Dessin par Hans de Vries, Jardin botanique Meise (©).
+48 Frans J. BRETELER A. T. arborea. – B. T. bijuga. – C. T. engong. – D. T. hallei. – E. T. imbricata. – F. T. laxiflora. – G. T. lucens. (A1: van der Burg 766; A2: J.J. de Wilde 311; B1: Stoop-van de Kasteele 210; B2: Beentje 889; C1: Mildbraed 5391; C2: Wilks 3519; D: N. Hallé 2822; E1: Breteler et al. 14477; E2: Breteler et al. 14491; F1: Bos 4981; F2: van Andel et al. 3959; G1: de Koning 3909; G2: Beentje 875). Drawing by Hans de Vries, Meise Botanical Garden (©).
 
-48 Frans J. BRETELER A. T. arborea .– B. T. bijuga . – C. T. engong . – D. T. hallei . – E. T. imbricata . – F. T. laxiflora . – G. T. lucens. (A1 : van der Burg 766 ; A2 : J.J. de Wilde 311 ; B1 : Stoop-van de Kasteele 210 ; B2 : Beentje 889 ; C1 : Mildbraed 5391 ; C2 : Wilks 3519 ; D : N. Hallé 2822 ; E1 : Breteler et al. 14477 ; E2 : Breteler et al. 14491 ; F1 : Bos 4981 ; F2 : van Andel et al. 3959 ; G1 : de Koning 3909 ; G2 : Beentje 875 ). Dessin par Hans de Vries, Jardin botanique Meise (©).
-
-Trichoscypha 49 LIKOX 56 ; B2 : van Andel et al. 3890 ; C1 : Leeuwenberg 5213 ; C2 : van Andel et al. 4262 ; D1 : Breteler et al. 14501 ; D2, Reygaert 94 ). Dessin par Hans de Vries, Jardin botanique Meise (©).
+Trichoscypha 49 LIKOX 56; B2: van Andel et al. 3890; C1: Leeuwenberg 5213; C2: van Andel et al. 4262; D1: Breteler et al. 14501; D2: Reygaert 94). Drawing by Hans de Vries, Meise Botanical Garden (©).
 
 50 Frans J. BRETELER
 

@@ -7,6 +7,9 @@ family: Orchidaceae
 vol: 36
 pages: 73-75
 source: sources/Orchidaceae_vol36_paddle
+countries: [Cameroon, Cote d'Ivoire, Gabon, Liberia, Sao Tome and Principe, Tanzania]
+in_region: true
+habitat: [evergreen forest]
 tags: [species, generated]
 ---
 # *Hetaeria heterosepala* (Rchb.f.) Summerh.
@@ -39,11 +42,11 @@ Reitsma J. M. & B., Breteler & Louis 1088, Chantier CEB, Monts Doudou, 20 km WSW
 
 ![Hetaeria heterosepala](../sources/Orchidaceae_vol36_paddle/figures/fig_031_p0074.png)
 
-*PL. 31. – Structure du gynostème du genre Hetaeria Blume: A, B, vue de la base ; C, vue de dessus ; D, vue latérale (A-D, ex Szlachetko & Rutkowski, 2000).*
+*PL. 31. – Structure of the gynostemium of genus Hetaeria Blume: A, B, view of base ; C, view from above ; D, lateral view (A-D, ex Szlachetko & Rutkowski, 2000).*
 
 ![Hetaeria heterosepala](../sources/Orchidaceae_vol36_paddle/figures/fig_032_p0075.png)
 
-*PL. 32. - Hetaeria heterosepala (Rchb.f.) Summerh.: A, fleur et bractée ; B, sépale dorsal ; C, pétale ; D, sépale latéral ; E, labelle, vue latérale ; F, labelle vu de dessus (A-F, Breteler 2029, P).*
+*PL. 32. - Hetaeria heterosepala (Rchb.f.) Summerh.: A, flower and bract ; B, dorsal sepal ; C, petal ; D, lateral sepal ; E, labellum, lateral view ; F, labellum seen from above (A-F, Breteler 2029, P).*
 
 ![Hetaeria heterosepala](../sources/Orchidaceae_vol36_paddle/figures/fig_123_p0220.png)
 

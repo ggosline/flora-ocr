@@ -7,6 +7,9 @@ family: Rubiaceae
 vol: 17
 pages: 40-42
 source: sources/Rubiaceae_vol17_paddle
+countries: [Cameroon, Gabon, Guinea]
+in_region: true
+habit: "liana"
 tags: [species, generated]
 ---
 # *Bertiera bracteolata* Hiern (P.L. 8, p. 41)
@@ -41,7 +44,7 @@ H. Soyaux 75, Sibang (fr. May).
 
 ![Bertiera bracteolata](../sources/Rubiaceae_vol17_paddle/figures/fig_007_p0041.png)
 
-*PL. 7. — Bertiera bicarpelata (K. Schum.) N. Hallé (N.H. 1384; 1, N.H. 1448; 3 et 12, Letouzey 3105 et 4309) : 1 et 11, deux pieds de 0,90 et 0,45 m; 2 et 3, stipules; 4, feuille × 0,7; 5, calice et bractée de 5 mm; 6, corolle; 7, style; 8, 9, 9', fruit mùr, profil et coupes; 10, placenta d'environ 2 mm, dans le fruit; 11, graine; 12, étamine. — Planche tirée de Adansonia III : 298 (1963).*
+*PL. 7. — Bertiera bicarpelata (K. Schum.) N. Hallé (N.H. 1384; 1, N.H. 1448; 3 and 12, Letouzey 3105 and 4309) : 1 and 11, two individuals of 0,90 and 0,45 m; 2 and 3, stipules; 4, leaf × 0,7; 5, calyx and bract of 5 mm; 6, corolla; 7, style; 8, 9, 9', mature fruit, profile and sections; 10, placenta of approximately 2 mm, within the fruit; 11, seed; 12, stamen. — Plate taken from Adansonia III : 298 (1963).*
 
 ## Notes
 

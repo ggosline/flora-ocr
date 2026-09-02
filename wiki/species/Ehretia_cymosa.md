@@ -7,6 +7,13 @@ family: Boraginaceae
 vol: 57
 pages: 18-20
 source: sources/Boraginaceae_vol57_paddle
+countries: [Gabon, Kenya, Madagascar, Mozambique, Sierra Leone, Zimbabwe]
+in_region: true
+subdivisions:
+  Gabon: [Estuaire, Moyen-Ogooué, Ngounié, Nyanga, Ogooué-Ivindo, Ogooué-Lolo, Ogooué-Maritime, Woleu-Ntem]
+habit: "tree"
+habitat: [swamp forest]
+altitude_m: "0–600"
 tags: [species, generated]
 ---
 # *Ehretia cymosa* Thonn.

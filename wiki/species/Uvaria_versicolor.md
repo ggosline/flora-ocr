@@ -7,6 +7,9 @@ family: Annonaceae
 vol: 16
 pages: 0-0
 source: sources/Annonaceae_vol16_mineru
+countries: [Angola, Cameroon, Gabon, Republic of the Congo]
+in_region: true
+habit: "shrub"
 tags: [species, generated]
 ---
 # *Uvaria versicolor* Pierre ex Engler et Diels (P1. 5, p. 47)
@@ -22,17 +25,13 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Engler, Monogr. Afr. Pflanzenf. 6: 16 (1901).—Pellegrin, Bull. Soc. Bot. Fr., Mem. 31: 59 (1949).—Boutique, Fl. Congo Belge 2: 296 (1951).—Paiva, Mem. Soc. Brot. 19: 14 (1966).
 
-Engler,Monogr.Afr.Pflanzenf.6 :16 (19o1).—Pellegrin,Bull. Soc.Bot.Fr., Mem.31 :59 (1949).- Boutique,Fl.Congo Belge 2 :296 (1951).— Paiva,Mem.Soc.Brot.19 :14(1966).
+Shrub with twining branches 3–4 m tall, with glabrous branches, branchlets pubescent-stellate rusty. Leaves with petiole 3–6 mm long, pubescent to glabrous; blade coriaceous, ovate, ovate-elliptic to elliptic-oblong, ± wrinkled, attenuate to acuminate at the apex, rounded to subcordate at the base, 5–13 cm long, 2.5–6.5 cm wide, glabrous on both surfaces, green on the upper surface, brown-rusty on the lower surface. Lateral veins 7–10 pairs, impressed above, prominent below.
 
-Arbuste sarmenteux de 3-4 m de hauteur, a rameaux glabres, ramilles pubérulentes-étoilées rousses.Feuilles ä pétiole de 3- 6 mm de longueur,pubérulent ä glabre; limbe coriace,ové,ové- elliptique,ä elliptique-oblong,± gaufré,atténué ä acuminé au sommet,arrondi á subcordé a la base, long de 5-13 cm, large de 2,5-6,5 cm,glabre sur les deux faces, vert ä la face supérieure, brun-roux á la face inférieure. Nervures latérales 7-Io paires, imprimées au-dessus, saillantes en dessous.
+Flowers extra-axillary to suboppositive-leaved, in contracted 2–4-flowered cymes, subsessile or with peduncle not exceeding 5 mm long. Pedicel very short, 2–5 mm long, pubescent stellate ferrugineous. Bracteoles suborbicular, 2–4 mm in diameter, pubescent rusty on the outside. Bud globose with calyx fused into a subspherical cup, tearing at anthesis into three ovate-triangular-acute lobes, 6–8 mm long, 5–7 mm wide, pubescent tawny on the outside, verrucose and pubescent on the inside. Petals subequal, elliptic-oblong, 10–15 mm long, 5–8 mm wide, pubescent grayish-blond on the outside, verrucose and glabrescent on the inside. Stamens numerous, 8-seriate, sessile, linear, 3 mm long, with lateral thecae, connectives oblong-subquadrangular, laterally compressed, truncate at the apex and pubescent. Carpels oblong, quadrangular, 3 mm long, rusty-tomentose-stellate, stigmas sessile, obpyramidal. 20–30 ovules biseriate. Receptacle plane.
 
-Fleurs extra-axillaires á suboppositifoliées,en cymes contractées 2-4-flores,subsessiles ou ä pedoncule ne dépassant pas 5 mm de longueur.Pédicelle tres court, long de 2-5 mm,pubescentstellé ferrugineux.Bractéoles suborbiculaires,de 2-4 mm de diamétre,pubescentes rousses ä l'extérieur.Bouton globuleux ä calice soudé en cupule subsphérique,se déchirant á l'anthése en trois lobes oves-triangulaires-aigus, longs de 6-8 mm, larges de 5-7 mm,pubescents fauves á l'extérieur,verruculeux et pubérulents á l'intérieur. Pétales subégaux, elliptiques-oblongs,longs de 10-15 mm,larges de 5-8 mm, pubescents blond gris a l'extérieur, verruculeux et glabrescents á 'interieur.Etamines nombreuses, 8-sériées, sessiles, linéaires,longues de 3 mm, ä theques latérales, connectifs oblongs-subquadrangulaires, comprimés latéralement, tronques au sommet et pubérulents. Carpelles oblongs,quadrangulaires,longs de 3 mm,tomenteux-stellés roux,stigmates sessiles,obpyramidaux.2o-3o ovules bisériés.Réceptacle plan.
-
-Fruits á pédicelle épais, long de 5-1o mm,tomentelleux;
-
-méricarpes 14-16,cylindriques, longs de 1,5-4,5 cm, larges de 0,8-1,2 cm, tomentelleux-roux, tres légerement étranglés entre les graines; stipes sublatéraux, longs de o,5-o,8 cm, tomenteux-roux. Graines I6-18,bisériées,oblongues,longues de I cm,larges de 5 mm,ä testa lisse,brillant,brun clair.
+Fruits with thick pedicel, 5–10 mm long, tomentellous; mericarps 14–16, cylindric, 1.5–4.5 cm long, 0.8–1.2 cm wide, rusty-tomentellous, very slightly constricted between the seeds; substipites lateral, 0.5–0.8 cm long, rusty-tomentose. Seeds 16–18, biseriate, oblong, 1 cm long, 5 mm wide, with smooth testa, shiny, light brown.
 
 ## Type
 
@@ -40,11 +39,9 @@ Klaine 68o,environs de Libreville, Gabon (lectotype P!)
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Species very close to U. chamae P. Beauv., absent from the Cameroon-Congolian forest massif to which U. versicolor belongs. The venation of the leaves of U. chamae is plane on the upper surface, the stamens shorter with flattened connectives, the floral pedicels 5–18 mm long and the bracts 4–8 mm in diameter.
 
-Espéce tres affine de U.chamae P.Beauv.,absente du massif forestier camerouno-congolais auquel appartient U. versicolor. La nervation des feuilles d'U.chamae est plane a la face supérieure, les étamines plus courtes ä connectifs aplatis,les pédicelles floraux longs de 5-18 mm et les bractées ont un diamétre de 4-8 mm.
-
-Répandue en foret dense humide, surtout le long de la cote, au Cameroun, au Gabon, Cabinda,Congo-Brazzaville, Congo-Kinshasa et Angola.
+Widespread in dense humid forest, especially along the coast, in Cameroon, Gabon, Cabinda, Congo-Brazzaville, Congo-Kinshasa and Angola.
 
 ## Specimens examined
 

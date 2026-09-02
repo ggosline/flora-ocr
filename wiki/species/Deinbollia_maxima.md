@@ -7,6 +7,7 @@ family: Sapindaceae
 vol: 23
 pages: 68-68
 source: sources/Sapindaceae_vol23_paddle
+habit: "tree"
 tags: [species, generated]
 ---
 # *Deinbollia maxima* Gilg
@@ -28,7 +29,7 @@ Afzelius s.n., Sierra Leone (holo-, B)
 
 ![Deinbollia maxima](../sources/Sapindaceae_vol23_paddle/figures/fig_013_p0069.png)
 
-*PL. 13. — Deinbollia rambaensis Pellegrin (Le Testu 8608) : 1, folioles supérieures 24 cm; 2, inflorescence; 3, bouton à l'anthèse, pédicelle 2,5 mm; 4, coupe de fleur; 5, pistillode; 6, anthère face interne; 7, 7, 7", pétale faces interne et externe, poils 0,5 mm. — Deinbollia maxima Gilg (Le Testu 2301) : 8, avant dernière foliole 27 cm; 9, 9', inflorescence et cymule; 10, 10', bouton vue externe et coupe, hauteur 2 mm sans pédicelle; 11, 11', pétales dans le bouton; 12, 12', pétales de fleur épanouie; 13, 13', fruit vue générale et coupe, largeur 15 mm; 14, embryon, coupe (13-14, Klaine 2359).*
+*PL. 13. — Deinbollia rambaensis Pellegrin (Le Testu 8608) : 1, upper leaflets 24 cm; 2, inflorescence; 3, bud at anthesis, pedicel 2,5 mm; 4, section of flower; 5, pistillode; 6, anther inner surface; 7, 7, 7", petal inner and outer surfaces, hairs 0,5 mm. — Deinbollia maxima Gilg (Le Testu 2301) : 8, penultimate leaflet 27 cm; 9, 9', inflorescence and cymule; 10, 10', bud external view and section, height 2 mm without pedicel; 11, 11', petals in the bud; 12, 12', petals of open flower; 13, 13', fruit general view and section, width 15 mm; 14, embryo, section (13-14, Klaine 2359).*
 
 ## Notes
 

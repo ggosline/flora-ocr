@@ -7,6 +7,9 @@ family: Orchidaceae
 vol: 36
 pages: 95-98
 source: sources/Orchidaceae_vol36_paddle
+countries: [Angola, Cameroon, Central African Republic, Cote d'Ivoire, Gabon, Ghana, Sierra Leone, Tanzania, Uganda]
+in_region: true
+habitat: [gallery forest, swamp forest]
 tags: [species, generated]
 ---
 # *Vanilla imperialis* Kraenzl.
@@ -17,27 +20,21 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 – Vanilla lujae De Wild., Belg. Col. 10 : 28 (1904).
 
 – Vanilla imperialis Kraenzl. var. congolensis De Wild., Rev. Hist. Nat. ApFig. 2 : 188 (1921).
 
 – Vanilla grandiflora Lindl. var. lujae (De Wild.) Geerinck, Bull. Soc. Roy. Bot. Belg. 107:58, fig. 1-3 (1974).
 
-Feuilles pétiolées, 8-28 × 3,5-12 cm, largement elliptiques-oblongues à ovées, ou obovées, apiculées à acuminées, vert-bleuâtre mat à vert foncé. Inflorescence non ramifiée 4-15 cm, (5)15-50-flore. Fleurs jaunes ou crème, labelle fortement taché de rose foncé à pourpre surtout vers le sommet de la face interne. Sépale dorsal oblong-lancéolé, aigu ; sépales latéraux obliquement elliptiques à obovés-oblongs. Pétales oblancéolés-obovés, subaigus, avec une médiane épaissie. Labelle étroitement infundibiliforme vers la base, forme générale cunéiforme, assez charnu, fortement ondulé à l'avant des marges, non nettement trilobé, partie inférieure couverte de poils denses ramifiés, courts, centre muni d'une touffe dense de poils fins, charnus, ± en forme de bouteille, avec des papilles le long de la médiane du lobe médian, triangulaire aigu ; les latéraux étant arrondis. – Pl. 45, p. 94.
+Leaves petiolate, 8-28 × 3.5-12 cm, broadly elliptic-oblong to ovate, or obovate, apiculate to acuminate, bluish-green dull to dark green. Inflorescence unbranched 4-15 cm, (5)15-50-flowered. Flowers yellow or cream, labellum strongly spotted with dark pink to purple especially towards the apex of the inner surface. Dorsal sepal oblong-lanceolate, acute; lateral sepals obliquely elliptic to obovate-oblong. Petals oblanceolate-obovate, subacute, with a thickened midvein. Labellum narrowly infundibuliform towards the base, general form cuneate, fairly fleshy, strongly undulate at the anterior margins, not clearly three-lobed, lower part covered with dense branched short hairs, centre provided with a dense tuft of fine fleshy hairs, ± bottle-shaped, with papillae along the midvein of the median lobe, triangular acute; the lateral ones being rounded. – Pl. 45, p. 94.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Sierra Leone, Côte d'Ivoire, Ghana, Cameroun, Gabon, Centrafrique, Congo (Brazzaville), Congo (Kinshasa), Angola, Ouganda, Tanzania
+Sierra Leone, Côte d'Ivoire, Ghana, Cameroun, Gabon, Centrafrique, Congo (Brazzaville), Congo (Kinshasa), Angola, Uganda, Tanzania
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-alt. 650-1200 m. Liane montant au-dessus de la voûte forestière ainsi que sur tronc ombragé, en forêt-galerie ; en marécage boisé à Raphia et à Pandanus
+alt. 650-1200 m. Vine climbing above the forest canopy as well as on shaded trunk, in gallery forest; in wooded swamp with Raphia and Pandanus
 
 ## Specimens examined
 
@@ -57,11 +54,11 @@ Voile absent. Feuilles suborbiculaires, pliées, convolutées. Inflorescence ter
 
 ![Vanilla imperialis](../sources/Orchidaceae_vol36_paddle/figures/fig_050_p0097.png)
 
-*PL. 45. – Vanilla imperialis Kraenzl.: A, labelle étalé ; B, sépale dorsal ; C, pétale ; D, sépale latéral; E, feuille (A-E. Sita 3397, P).*
+*PL. 45. – Vanilla imperialis Kraenzl.: A, labellum spread out ; B, dorsal sepal ; C, petal ; D, lateral sepal; E, leaf (A-E. Sita 3397, P).*
 
 ![Vanilla imperialis](../sources/Orchidaceae_vol36_paddle/figures/fig_051_p0098.png)
 
-*PL. 46. – Structure du gynostème du genre Nervilia Comm.: A, vue latérale ; B, vue antérieure ; C, anthère vue latérale ; D, anthère, vue de la base ; E, vue latérale ; F, vue antérieure ; G, anthère, vue latérale ; H, anthère, vue de la base ; I, reste du rostelle (A-I, ex SZLACHETKO & RUTKOWSKI, 2000).*
+*PL. 46. – Structure of the gynostemium of the genus Nervilia Comm.: A, lateral view ; B, anterior view ; C, anther lateral view ; D, anther, view of base ; E, lateral view ; F, anterior view ; G, anther, lateral view ; H, anther, view of base ; I, remainder of rostellum (A-I, ex SZLACHETKO & RUTKOWSKI, 2000).*
 
 ## Notes
 

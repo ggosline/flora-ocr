@@ -7,6 +7,8 @@ family: Sapindaceae
 vol: 23
 pages: 64-66
 source: sources/Sapindaceae_vol23_paddle
+countries: [Angola, Cameroon, Central African Republic, Cote d'Ivoire, Democratic Republic of the Congo, Equatorial Guinea, Gabon, Nigeria, Senegal, Togo]
+in_region: true
 tags: [species, generated]
 ---
 # *Deinbollia insignis* Hooker fil.

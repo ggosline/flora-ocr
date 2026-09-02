@@ -7,6 +7,7 @@ family: Orchidaceae
 vol: 37
 pages: 29-31
 source: sources/Orchidaceae_vol37_paddle
+countries_incomplete: true
 tags: [species, generated]
 ---
 # *Polystachya kubalae* Szlach. & Olsz.
@@ -35,7 +36,7 @@ Le Testu 5924, Piti-Masango (fl. Apr.), P!
 
 ![Polystachya kubalae](../sources/Orchidaceae_vol37_paddle/figures/fig_007_p0030.png)
 
-*PL. 114. – Polystachya galeata (Sw.) Rchb.f. : A, fleur et bractée florale ; B, labelle ; C, sépale dor-sal ; D, pétale ; E, sépale latéral. – Polystachya kubalae Szlach. & Olsz. : F, fleur ; G, labelle ; H, sépale dorsal ; I, pétale ; J, sépale latéral (A-E, Letouzey 10210, P ; F-J, Le Testu 5924, P).*
+*PL. 114. – Polystachya galeata (Sw.) Rchb.f. : A, flower and floral bract ; B, lip ; C, dorsal sepal ; D, petal ; E, lateral sepal. – Polystachya kubalae Szlach. & Olsz. : F, flower ; G, lip ; H, dorsal sepal ; I, petal ; J, lateral sepal (A-E, Letouzey 10210, P ; F-J, Le Testu 5924, P).*
 
 ## Notes
 

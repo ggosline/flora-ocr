@@ -37,7 +37,7 @@ N. Hallé : 2415, Abanga, monts de Cristal.
 
 ![Lastreopsis efulensis](../sources/Aspidiaceae_vol08_paddle/figures/fig_030_p0177.png)
 
-*PL. XXVII. — Lastreopsis efulensis (Bak.) Tard. (N. Hallé 2415) : 1, penne × 1/2; 2, pinnule, face inférieure × 3; 3, id. face sup.; 4, un poil × 16. — L. Vogelii (Hk.) Ching (N. Hallé 2251) : 5, pennes × 1/2; 6, pinnule, face inférieure × 3; 7, poil glanduleux × 16. — L. davalliaformis (Tard.) Tard. (Nicklès) : 8, pennes × 1/2; 9, première pinnule, face inférieure × 3; 10, poil pluricellulaire × 16.*
+*PL. XXVII. — Lastreopsis efulensis (Bak.) Tard. (N. Hallé 2415) : 1, pinna × 1/2; 2, pinnule, lower surface × 3; 3, id. upper surface; 4, a hair × 16. — L. Vogelii (Hk.) Ching (N. Hallé 2251) : 5, pinnae × 1/2; 6, pinnule, lower surface × 3; 7, glandular hair × 16. — L. davalliaformis (Tard.) Tard. (Nicklès) : 8, pinnae × 1/2; 9, first pinnule, lower surface × 3; 10, multicellular hair × 16.*
 
 ## Notes
 

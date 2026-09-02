@@ -7,6 +7,7 @@ family: Flacourtiaceae
 vol: 34
 pages: 55-58
 source: sources/Flacourtiaceae_vol34_paddle
+countries_incomplete: true
 tags: [species, generated]
 ---
 # *Oncoba dentata* Oliv.
@@ -91,7 +92,7 @@ De Wilde & Jongkind 9318, 4 km WSW Doussala, env. 130 m alt., 13/3/1988, fr. (WA
 
 ![Oncoba dentata](../sources/Flacourtiaceae_vol34_paddle/figures/fig_016_p0056.png)
 
-*PL. 16. – Oncoba dentata Oliv. : 1, rameau fructifère ; 2, inflorescence ; 3, fleur ; 4, sépale ; 5, pétale ; 6, étamine ; 7, pistil ; 8, coupe transversale de l'ovaire. (1. Hallé & Villiers 5518 ; 2-8. Breterler, Lemmens & Nzabi 8124). – O. echinata Oliv. : 9, bout de rameau florifère ; 10, fleur ; 11, sépale ; 12, pétale ; 13, étamine ; 14, pistil ; 15, coupe transversale de l'ovaire ; 16, fruit. (9-15. Dinklage 2840 ; 16. Le Testu 7712).*
+*PL. 16. – Oncoba dentata Oliv. : 1, fruiting branch ; 2, inflorescence ; 3, flower ; 4, sepal ; 5, petal ; 6, stamen ; 7, pistil ; 8, transverse section of the ovary. (1. Hallé & Villiers 5518 ; 2-8. Breterler, Lemmens & Nzabi 8124). – O. echinata Oliv. : 9, end of flowering branch ; 10, flower ; 11, sepal ; 12, petal ; 13, stamen ; 14, pistil ; 15, transverse section of the ovary ; 16, fruit. (9-15. Dinklage 2840 ; 16. Le Testu 7712).*
 
 ## Notes
 

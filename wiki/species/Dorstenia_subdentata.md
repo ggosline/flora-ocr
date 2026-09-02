@@ -7,6 +7,9 @@ family: Moraceae
 vol: 26
 pages: 47-49
 source: sources/Moraceae_vol26_paddle
+countries: [Gabon]
+in_region: true
+habit: "herb"
 tags: [species, generated]
 ---
 # *Dorstenia subdentata* M. Hijman & C.C. Berg
@@ -39,7 +42,7 @@ Descoings 6517, vallée de la Nyanga, galerie forestière de la Douli, 100 km S 
 
 ![Dorstenia subdentata](../sources/Moraceae_vol26_paddle/figures/fig_013_p0050.png)
 
-*PL. 13. – Dorstenia subdentata Hijman & C.C. Berg: 1, port; 2, inflo. (Descoings 6517).*
+*PL. 13. – Dorstenia subdentata Hijman & C.C. Berg: 1, habit; 2, infl. (Descoings 6517).*
 
 ## Notes
 

@@ -7,6 +7,9 @@ family: Scytopetalaceae
 vol: 24
 pages: 26-30
 source: sources/Chrysobalanaceae_vol24_paddle
+countries: [Cameroon, Democratic Republic of the Congo, Nigeria, Sierra Leone]
+in_region: true
+habitat: [evergreen forest]
 tags: [species, generated]
 ---
 # *Acioa dewevrei* De Wildeman & Th. Durand
@@ -79,7 +82,7 @@ Letouzey 4917, près Banga, 65 km SE Batouri (fr., avr.) (P, WAG).
 
 ![Acioa dewevrei](../sources/Chrysobalanaceae_vol24_paddle/figures/fig_006_p0029.png)
 
-*PL. 6. — Acioa dewevrei De Wild. & Th. Dur. : 1, rameau avec fleurs × 2/3; 2, stipules × 2; 3, feuille dessous × 2/3; 4, portion d'axe infl. × 4; 5, bractéoles × 4; 6, bouton floral × 2; 7, fleur (pét. excl.) × 3/2; 8, jeune fruit × 2/3. (1, 3-7, Bouquet 2114, Congo; 2, Tisserant 2429, Centrafrique; 8, Letouzey 4917).*
+*PL. 6. — Acioa dewevrei De Wild. & Th. Dur. : 1, branch with flowers × 2/3; 2, stipules × 2; 3, leaf below × 2/3; 4, portion of infl. axis × 4; 5, bracteoles × 4; 6, floral bud × 2; 7, flower (pet. excl.) × 3/2; 8, young fruit × 2/3. (1, 3-7, Bouquet 2114, Congo; 2, Tisserant 2429, Central African Republic; 8, Letouzey 4917).*
 
 ## Notes
 

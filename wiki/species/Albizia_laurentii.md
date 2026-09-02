@@ -7,6 +7,9 @@ family: Leguminosae
 vol: 31
 pages: 138-141
 source: sources/Leguminosae_vol31_paddle
+countries: [Cameroon, Democratic Republic of the Congo]
+in_region: true
+habit: "tree"
 tags: [species, generated]
 ---
 # *Albizia laurentii* De Wildeman

@@ -7,6 +7,7 @@ family: Leguminosae
 vol: 15
 pages: 205-207
 source: sources/Leguminosae_vol15_paddle
+habit: "tree"
 tags: [species, generated]
 ---
 # *Anthonotha trunciflora* (Harms) Léonard

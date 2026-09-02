@@ -7,6 +7,8 @@ family: Connaraceae
 vol: 33
 pages: 125-127
 source: sources/Connaraceae_vol33_paddle
+countries: [Madagascar]
+in_region: false
 tags: [species, generated]
 ---
 # *Rourea minor* (Gaertner) Alston
@@ -75,7 +77,7 @@ Reitsma & al. 3339, 50 km S.O. de Doussala (j. fr., Avr.), WAG ; 3484, ≈ 25 km
 
 ![Rourea minor](../sources/Connaraceae_vol33_paddle/figures/fig_044_p0124.png)
 
-*PL. 38. – Rourea minor (Gaertner) Alston : 1, jeune rameau florifère × 2/3 ; 2, feuille à folioles étroites × 2/3 ; 3, grande foliole acuminée × 2/3 ; 4, foliole à apex court × 2/3 ; 5, jeune infrutescence avec calice acrescent × 2/3 ; 6, fruits déhiscents suivant une suture ventrale × 2/3 ; 7, fruits à déhiscence circumscissile à la base et suivant une suture ventrale × 2/3 ; 8, fruits à déhiscence uniquement circumscissile à la base × 2/3. (1. Hart 330; 2. Rakotosou 16029; 3. Zenker 535; 4. Torre & Pereira 12464; 5. Bos 4940; 6. Bosser 7528; 7. Espirito Santo 2647; 8. Jans 760). – Repris de AUWP 89 (6).*
+*PL. 38. – Rourea minor (Gaertner) Alston : 1, young flowering branch × 2/3 ; 2, leaf with narrow leaflets × 2/3 ; 3, large acuminate leaflet × 2/3 ; 4, leaflet with short apex × 2/3 ; 5, young fruiting branch with accrescent calyx × 2/3 ; 6, fruits dehiscent along a ventral suture × 2/3 ; 7, fruits with circumscissile dehiscence at the base and along a ventral suture × 2/3 ; 8, fruits with dehiscence only circumscissile at the base × 2/3. (1. Hart 330; 2. Rakotosou 16029; 3. Zenker 535; 4. Torre & Pereira 12464; 5. Bos 4940; 6. Bosser 7528; 7. Espirito Santo 2647; 8. Jans 760). – Taken from AUWP 89 (6).*
 
 ## Notes
 

@@ -7,6 +7,10 @@ family: Sapindaceae
 vol: 23
 pages: 42-44
 source: sources/Sapindaceae_vol23_paddle
+countries: [Cameroon, Tanzania]
+in_region: true
+habit: "tree"
+altitude_m: "2000"
 tags: [species, generated]
 ---
 # *Allophylus bullatus* Radlkofer

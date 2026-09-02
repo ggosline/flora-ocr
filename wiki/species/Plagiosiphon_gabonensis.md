@@ -7,6 +7,7 @@ family: Leguminosae
 vol: 15
 pages: 88-89
 source: sources/Leguminosae_vol15_paddle
+habit: "tree"
 tags: [species, generated]
 ---
 # *Plagiosiphon gabonensis* (A. Chev.) Léonard

@@ -7,6 +7,12 @@ family: Commelinaceae
 vol: 55
 pages: 27-29
 source: sources/Commelinaceae_vol55_liteparse
+countries: [Benin, Cameroon, Central African Republic, Cote d'Ivoire, Democratic Republic of the Congo, Equatorial Guinea, Gabon, Ghana, Guinea, Guinea-Bissau, Liberia, Nigeria, Republic of the Congo, Sao Tome and Principe, Sierra Leone, Togo, Uganda]
+in_region: true
+subdivisions:
+  Gabon: [Estuaire, Moyen-Ogooué, Nyanga, Ogooué-Lolo, Ogooué-Maritime, Woleu-Ntem]
+habit: "herb"
+altitude_m: "500"
 tags: [species, generated]
 ---
 # *Commelina congesta* C.B.Clarke Figure 2(E, F)

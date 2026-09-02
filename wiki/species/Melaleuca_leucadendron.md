@@ -7,6 +7,7 @@ family: Myrtaceae
 vol: 11
 pages: 34-35
 source: sources/Myrtaceae_vol11_paddle
+habit: "tree"
 tags: [species, generated]
 ---
 # *Melaleuca leucadendron* L.

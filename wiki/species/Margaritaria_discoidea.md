@@ -7,6 +7,11 @@ family: Phyllanthaceae
 vol: 43
 pages: 53-55
 source: sources/Phyllanthaceae_vol43_liteparse
+countries: [Gabon]
+in_region: true
+habit: "tree"
+habitat: [secondary forest]
+altitude_m: "560"
 tags: [species, generated]
 ---
 # *Margaritaria discoidea* (Baill.) G.L.Webster Planche 16

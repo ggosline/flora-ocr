@@ -7,6 +7,9 @@ family: Melastomataceae
 vol: 25
 pages: 30-32
 source: sources/Melastomataceae_vol25_paddle
+countries: [Cameroon, Democratic Republic of the Congo, Gabon]
+in_region: true
+habit: "herb"
 tags: [species, generated]
 ---
 # *Heterotis buettneriana* (Cogniaux ex Buettner) Jacques-Félix
@@ -43,7 +46,7 @@ Descoings 6571, Franceville, recrû forestier. Gilles 377, 437, Libreville (mai,
 
 ![Heterotis buettneriana](../sources/Melastomataceae_vol25_paddle/figures/fig_008_p0029.png)
 
-*PL. 8. — Heterotis buettneriana (Cogn. ex Buet.) Jac.-Fél. : 1, aspect général × 2/3; 2, bouton floral × 4; 3, étamine × 2; 3', détail de l'appendice × 2; 4 & 5, émergence intersépalaire et sépale × 8; 6, graine × 30 (1-3', Descoings 6571; 4-6, Le Testu 1318).*
+*PL. 8. — Heterotis buettneriana (Cogn. ex Buet.) Jac.-Fél. : 1, general appearance × 2/3; 2, floral bud × 4; 3, stamen × 2; 3', detail of appendage × 2; 4 & 5, intersepal emergence and sepal × 8; 6, seed × 30 (1-3', Descoings 6571; 4-6, Le Testu 1318).*
 
 ## Notes
 

@@ -7,6 +7,11 @@ family: Cyperaceae
 vol: 44
 pages: 144-144
 source: sources/Cyperaceae_vol44_liteparse
+countries: [Gabon, Mali, Sierra Leone]
+in_region: true
+subdivisions:
+  Gabon: [Ogooué-Ivindo]
+habit: "herb"
 tags: [species, generated]
 ---
 # *Fimbristylis dipsacea* (Rottb.) C.B.Clarke Planche 92

@@ -7,6 +7,10 @@ family: Clusiaceae
 vol: 45
 pages: 38-40
 source: sources/Clusiaceae_vol45_liteparse
+countries: [Angola, Cameroon, Central African Republic, Democratic Republic of the Congo, Gabon, Guinea, Malawi, Tanzania, Zambia]
+in_region: true
+habitat: [secondary forest, riverine]
+altitude_m: "750"
 tags: [species, generated]
 ---
 # *Garcinia smeathmannii* (Planch. & Triana) Oliv. Planche 8

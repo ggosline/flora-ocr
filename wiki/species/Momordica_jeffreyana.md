@@ -7,6 +7,13 @@ family: Cucurbitaceae
 vol: 57
 pages: 95-95
 source: sources/Cucurbitaceae_vol57_paddle
+countries: [Cameroon, Democratic Republic of the Congo, Gabon, Republic of the Congo, Uganda]
+in_region: true
+subdivisions:
+  Gabon: [Woleu-Ntem]
+habit: "herb"
+habitat: [riverine]
+altitude_m: "535"
 tags: [species, generated]
 ---
 # *Momordica jeffreyana* Keraudren

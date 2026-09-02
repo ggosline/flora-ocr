@@ -7,6 +7,13 @@ family: Anacardiaceae
 vol: 50
 pages: 22-22
 source: sources/Anacardiaceae_vol50_liteparse
+countries: [Angola, Cameroon, Democratic Republic of the Congo, Gabon, Nigeria]
+in_region: true
+subdivisions:
+  Gabon: [Estuaire, Moyen-Ogooué, Nyanga, Ogooué-Ivindo, Ogooué-Lolo]
+habit: "tree"
+habitat: [secondary forest]
+altitude_m: "350"
 tags: [species, generated]
 ---
 # *Pseudospondias longifolia* Engl.

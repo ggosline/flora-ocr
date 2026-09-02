@@ -7,6 +7,11 @@ family: Putranjivaceae
 vol: 57
 pages: 142-145
 source: sources/Putranjivaceae_vol57_paddle
+countries: [Angola, Cameroon, Central African Republic, Democratic Republic of the Congo, Equatorial Guinea, Gabon, Nigeria, Republic of the Congo]
+in_region: true
+subdivisions:
+  Gabon: [Estuaire, Ngounié, Ogooué-Ivindo, Ogooué-Lolo, Ogooué-Maritime, Woleu-Ntem]
+habit: "tree"
 tags: [species, generated]
 ---
 # *Drypetes gossweileri* S.Moore

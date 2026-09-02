@@ -7,6 +7,9 @@ family: Dichapetalaceae
 vol: 32
 pages: 44-47
 source: sources/Dichapetalaceae_vol32_paddle
+countries: [Cameroon, Gabon]
+in_region: true
+habit: "liana"
 tags: [species, generated]
 ---
 # *Dichapetalum altescandens* Engler
@@ -53,7 +56,7 @@ Le Testu 7183, Lastoursville (fl., Avril); 7215 (fl., Avril); 7863 (fr., Janv.).
 
 ![Dichapetalum altescandens](../sources/Dichapetalaceae_vol32_paddle/figures/fig_007_p0046.png)
 
-*PL. 6. – Dichapetalum altescandens Engler : 1, rameau florifère × 0,5 ; 2, aisselle avec stipules × 0,5 ; 3, feuille, face inférieure × 0,5 ; 4, inflorescence, vue partielle × 4 ; 5, fleur × 4 ; 6, pistil et staminodes × 4 ; 7, fruit × 0,5 ; 8, fruit avec sutures × 0,5 ; 9, paroi du fruit, coupe transversale, détail × 2,5 ; 10, surface du fruit, détail × 1,5 (1, 5, 6, Hallé 1959 ; 2, 4, Bos 6660 ; 3, 8, Bos 5042 ; 7, 10, Bos 3631 ; 9, Bos 4834). – Repris de MLW 73 (13) : 52 (1973).*
+*PL. 6. – Dichapetalum altescandens Engler : 1, flowering branch × 0.5 ; 2, axil with stipules × 0.5 ; 3, leaf, lower surface × 0.5 ; 4, inflorescence, partial view × 4 ; 5, flower × 4 ; 6, pistil and staminodes × 4 ; 7, fruit × 0.5 ; 8, fruit with sutures × 0.5 ; 9, fruit wall, transverse section, detail × 2.5 ; 10, fruit surface, detail × 1.5 (1, 5, 6, Hallé 1959 ; 2, 4, Bos 6660 ; 3, 8, Bos 5042 ; 7, 10, Bos 3631 ; 9, Bos 4834). – Reprinted from MLW 73 (13) : 52 (1973).*
 
 ## Notes
 

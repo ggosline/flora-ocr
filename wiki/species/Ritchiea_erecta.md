@@ -7,6 +7,9 @@ family: Brassicaceae
 vol: 30
 pages: 56-61
 source: sources/Capparidaceae_vol30_paddle
+countries: [Cameroon, Equatorial Guinea, Gabon, Guinea, Nigeria]
+in_region: true
+habitat: [coastal, rocky ground]
 tags: [species, generated]
 ---
 # *Ritchiea erecta* Vogel ex Hooker
@@ -67,7 +70,7 @@ Klaine 1167, environs de Libreville (st., ?), K, P. Mann 1736, Sierra del Crysta
 
 ![Ritchiea erecta](../sources/Capparidaceae_vol30_paddle/figures/fig_008_p0058.png)
 
-*PL. 7. – Ritchiea erecta Hook. f.: 1, plante avec rameau feuillé et inflorescence apicale × 1/3; 2, fruit avec pédoncule et portion de tige × 1/3; 3, pédoncule avec cicatrices régulières des fleurs caduques; 4, feuille simple, potion de tige × 1/3; 5, ovaire et portion de gynophore × 4; 6, ovaire en coupe transversale × 4; 7, pétales × 1 (1, De Wilde J. 7871 A; 2, 4, Leeuwenberg 9895; 3, 5, 6, Walker s.n., Gabon; 7, De Wilde W.c.s. 3713).*
+*PL. 7. – Ritchiea erecta Hook. f.: 1, plant with leafy branch and apical inflorescence × 1/3; 2, fruit with peduncle and portion of stem × 1/3; 3, peduncle with regular scars of caducous flowers; 4, simple leaf, portion of stem × 1/3; 5, ovary and portion of gynophore × 4; 6, ovary in transverse section × 4; 7, petals × 1 (1, De Wilde J. 7871 A; 2, 4, Leeuwenberg 9895; 3, 5, 6, Walker s.n., Gabon; 7, De Wilde W.c.s. 3713).*
 
 ## Notes
 

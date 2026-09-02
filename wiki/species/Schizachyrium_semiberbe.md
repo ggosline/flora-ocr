@@ -33,7 +33,7 @@ It always grows on sandy, permeable, very poor soils and presumably presents lit
 
 ![Schizachyrium semiberbe](../sources/Gramineae_vol05_paddle/figures/fig_027_p0161.png)
 
-*PL. XXVI. — Schizachyrium platyphyllum (Franch.) Stapf (Le Testu 1343) : 1, chaume feuillé; 2, fragment d'inflorescence; 3, fragment de racème, épillets sessiles vus par la face ventrale; 4, fragment de racème, épillets pédicellés, et épillets sessiles en vue latérale. — S. thollonii (Franch.) Stapf (Chevalier 27585) : 5, fragment de touffe; 6, fragment de racème, épillets sessiles vus par la face ventrale.*
+*PL. XXVI. — Schizachyrium platyphyllum (Franch.) Stapf (Le Testu 1343) : 1, leafy culm; 2, fragment of inflorescence; 3, fragment of raceme, sessile spikelets seen from the ventral face; 4, fragment of raceme, pedicelled spikelets, and sessile spikelets in lateral view. — S. thollonii (Franch.) Stapf (Chevalier 27585) : 5, fragment of tuft; 6, fragment of raceme, sessile spikelets seen from the ventral face.*
 
 ## Notes
 

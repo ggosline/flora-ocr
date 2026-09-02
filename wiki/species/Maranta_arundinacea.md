@@ -7,6 +7,7 @@ family: Marantaceae
 vol: 09
 pages: 115-116
 source: sources/Marantaceae_vol09_paddle
+habit: "herb"
 tags: [species, generated]
 ---
 # *Maranta arundinacea* L.
@@ -37,7 +38,7 @@ Le Testu : 963, Libreville ; 5064, Guidouma, cultivé.
 
 ![Maranta arundinacea](../sources/Marantaceae_vol09_paddle/figures/fig_031_p0135.png)
 
-*PL. XXVIII. — Ataenidia conferta (Benth.) M.-Redh.: 1, aspect de la plante, réduite au 1/6; 2, détail de l'inflorescence; 3, fleurs et pédicelles floraux, longueur de la fleur env. 12 mm; 4, couronne staminale, grandeur nature, d'après un dessin original de Gagnepain; 5, diagramme de l'inflorescence; 6, graine avec son arille, vue de face et de profil (longueur de la graine, avec l'arille : 6 mm env.) (échantillon cultivé dans les serres du Muséum). — Maranta arundinacea L. (Leprieur, s. n.): 7, aspect général de la plante.*
+*PL. XXVIII. — Ataenidia conferta (Benth.) M.-Redh.: 1, aspect of plant, reduced to 1/6; 2, detail of inflorescence; 3, flowers and floral pedicels, flower length approx. 12 mm; 4, staminal crown, natural size, after an original drawing by Gagnepain; 5, diagram of inflorescence; 6, seed with its aril, seen from front and in profile (length of seed with aril: 6 mm approx.) (specimen cultivated in the greenhouses of the Museum). — Maranta arundinacea L. (Leprieur, s. n.): 7, general aspect of plant.*
 
 ## Notes
 

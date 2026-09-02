@@ -7,6 +7,12 @@ family: Cyperaceae
 vol: 44
 pages: 225-226
 source: sources/Cyperaceae_vol44_liteparse
+countries: [Democratic Republic of the Congo, Gabon]
+in_region: true
+subdivisions:
+  Gabon: [Estuaire, Haut-Ogooué, Nyanga, Ogooué-Ivindo, Ogooué-Maritime, Woleu-Ntem]
+habit: "herb"
+altitude_m: "0–500"
 tags: [species, generated]
 ---
 # *Scleria verrucosa* Willd. Planche 141, Figure 29b
@@ -17,23 +23,17 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Herbe robuste, vivace, à rhizome rampant épais ; tige 80–200 cm × 3–10 mm, glabre ou scabre. Feuille : gaine à ailes vertes scabres et coupantes ; collet pourvu d’une languette triangulaire à marge épaissie glabre ou ciliée, souvent pubescente sur les 2 faces ; limbe jusqu’à 60 cm de long et 1–3 cm de large , plié, glabre ou poilu, scabre sur la marge et les nervures, souvent pubescent près de la base. Inflorescence formée d’une panicule terminale et de 3–5 latérales , toutes sous-tendues par des bractées foliacées ; pédoncule solitaire, dressé, scabre ou finement poilu. Épillet mâle long de 4–4,5 mm , à glumes brun rougeâtre et habituellement finement poilues près de l’obscure nervure centrale. Épillet femelle long de 5–8 mm , à glumes brun rougeâtre ou jaune paille avec de nombreuses stries ou taches brun rougeâtre et généralement glabres sauf à la marge, tombant avec l’akène. Akène largement ovoïde à subglobuleux, d’environ 3 mm (base du style et hypogynium exclus) × 2,5–3,5 mm, ± densément verruqueux, avec des poils rougeâtres sur les verrues , blanchâtre à jaunâtre ; base du style persistant en un appendice brun rougeâtre foncé ; hypogynium cupuliforme , long d’environ 2 mm et légèrement plus large que l’akène , brun jaunâtre, ridé, à marge bordée de poils blanchâtres ou légèrement rougeâtres.
+Robust herb, perennial, with thick creeping rhizome; stem 80–200 cm × 3–10 mm, glabrous or scabrous. Leaf: sheath with green scabrous and cutting wings; collar bearing a triangular ligule with thickened margin glabrous or ciliate, often pubescent on both faces; blade up to 60 cm long and 1–3 cm wide, folded, glabrous or hairy, scabrous on the margin and nerves, often pubescent near the base. Inflorescence formed of a terminal panicle and 3–5 lateral ones, all subtended by foliaceous bracts; peduncle solitary, erect, scabrous or finely hairy. Male spikelet 4–4.5 mm long, with reddish-brown glumes and usually finely hairy near the obscure central nerve. Female spikelet 5–8 mm long, with reddish-brown or straw-yellow glumes with numerous reddish-brown striae or spots and generally glabrous except at the margin, falling with the achene. Achene broadly ovoid to subglobose, approximately 3 mm (excluding the base of the style and hypogynium) × 2.5–3.5 mm, ± densely verrucose, with reddish hairs on the warts, whitish to yellowish; base of style persistent as a dark reddish-brown appendage; hypogynium cupuliform, approximately 2 mm long and slightly wider than the achene, yellowish-brown, wrinkled, with margin bordered by whitish or slightly reddish hairs.
 
 Ngounié, Gabon).
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-largement répandue en Afrique tropicale occidentale et du Gabon à la République Démocratique du Congo ; au Gabon, assez répandue et trouvée dans l’Estuaire, le Haut-Ogooué, la Nyanga, l’Ogooué-Ivindo, l’Ogooué-Maritime et le Woleu-Ntem (8 récoltes)
+widely distributed in tropical West Africa and from Gabon to the Democratic Republic of the Congo; in Gabon, fairly widespread and found in Estuaire, Haut-Ogooué, Nyanga, Ogooué-Ivindo, Ogooué-Maritime and Woleu-Ntem (8 collections)
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-forêt marécageuse ou en bordure des rivières en forêt, occasionnellement le long des ruisseaux et des rivières en dehors des forêts ; au Gabon, à 0–500 m d’altitude, jusqu’à 1140 m en Afrique de l’Est. Note taxonomique : très proche de S. racemosa, en diffère principalement par les akènes verruqueux avec des touffes de poils sur les verrues. La plupart des spécimens de S. verrucosa sont aussi moins robustes et avec un akène plus petit que S. racemosa. b : Haines & Lye (1983), Hoenselaar et al. (2010), Hooper & Napper (1972), ibliographie Piérart (1953)
+swampy forest or along river margins in forest, occasionally along streams and rivers outside forests; in Gabon, at 0–500 m altitude, up to 1140 m in East Africa. Taxonomic note: very close to S. racemosa, differs mainly by the verrucose achenes with tufts of hairs on the warts. Most specimens of S. verrucosa are also less robust and with a smaller achene than S. racemosa. Bibliography: Haines & Lye (1983), Hoenselaar et al. (2010), Hooper & Napper (1972), Piérart (1953)
 
 ## Notes
 

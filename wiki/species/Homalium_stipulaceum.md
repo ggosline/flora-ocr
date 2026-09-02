@@ -7,6 +7,7 @@ family: Flacourtiaceae
 vol: 34
 pages: 69-70
 source: sources/Flacourtiaceae_vol34_paddle
+countries_incomplete: true
 tags: [species, generated]
 ---
 # *Homalium stipulaceum* Welw. ex Mast.

@@ -7,6 +7,13 @@ family: Leguminosae
 vol: 49
 pages: 24-24
 source: sources/Millettiaspeciesfabaceae_vol49_liteparse
+countries: [Gabon]
+in_region: true
+subdivisions:
+  Gabon: [Estuaire, Ngounié, Ogooué-Ivindo]
+habit: "shrub"
+habitat: [riverine]
+altitude_m: "10–190"
 tags: [species, generated]
 ---
 # *Aeschynomene americana* L. Planche 3

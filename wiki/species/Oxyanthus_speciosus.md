@@ -7,6 +7,7 @@ family: Rubiaceae
 vol: 17
 pages: 198-200
 source: sources/Rubiaceae_vol17_paddle
+habit: "shrub"
 tags: [species, generated]
 ---
 # *Oxyanthus speciosus* DC.
@@ -53,7 +54,7 @@ Le Testu : 1244, Dilalou, forêt du Mayombe (fl. nov.); 7058, 8127, Lastoursvill
 
 ![Oxyanthus speciosus](../sources/Rubiaceae_vol17_paddle/figures/fig_046_p0199.png)
 
-*PL. 45.— Oxyanthus speciosus DC. (N. Hallé 3540 sauf 3, 10 et 11) : I, rameau florifère × 0,75; 2, système stipulaire × 2; 3, inflorescence juvénile × 2 (Klaine 2400); 4, sommet du bouton; 5, corolle épanouie; 6, anthère × 9; 6′, anthère en coupe transversale; 7, masse stigmatique; 8, et 9, coupes du calice et de l'ovaire (diam. 22 mm); 10, infrutescence (N. H. et A. Le T. 620); 11, graine × 4,5 (Breteler 997). — 0. setosus Keay (A. Chevalier 26968) : 12, inflorescence × 0,6. — 0. pallidus Hiern (Le Testu 7901) : 13, inflorescence × 0,6.*
+*PL. 45.— Oxyanthus speciosus DC. (N. Hallé 3540 except 3, 10 and 11) : 1, flowering branch × 0.75; 2, stipular system × 2; 3, juvenile inflorescence × 2 (Klaine 2400); 4, bud apex; 5, open corolla; 6, anther × 9; 6′, anther in transverse section; 7, stigmatic mass; 8, and 9, sections of calyx and ovary (diam. 22 mm); 10, fruitescence (N. H. and A. Le T. 620); 11, seed × 4.5 (Breteler 997). — O. setosus Keay (A. Chevalier 26968) : 12, inflorescence × 0.6. — O. pallidus Hiern (Le Testu 7901) : 13, inflorescence × 0.6.*
 
 ## Notes
 

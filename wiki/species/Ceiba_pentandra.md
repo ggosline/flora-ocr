@@ -7,6 +7,7 @@ family: Bombacaceae
 vol: 22
 pages: 38-43
 source: sources/Bombacaceae_vol22_paddle
+habitat: [primary forest]
 tags: [species, generated]
 ---
 # *Ceiba pentandra* (Linné) Gaertner
@@ -125,11 +126,11 @@ BOMBACACE
 
 ![Ceiba pentandra](../sources/Bombacaceae_vol22_paddle/figures/fig_013_p0037.png)
 
-*PL. 9. — Fruits et graines de Bombacaceae : 1, capsule de Ceiba pentandra (L.) Gaertn. × 2/3; 2, capsule de Rhodognaphalon brevicuspe (Sprague) Roberta × 2/3; 3, capsule de Bombax buonopozense P.B. × 2/3; 4, graine de Ceiba pentandra (L.) Gaertn. × 3; 5, graine de Rhodognaphalon lukayense (De Wild. et Th. Dur.) A. Robyns × 1,5; 6, graine de Rhodognaphalon brevicuspe (Sprague) Roberta × 1,8; 7, graine de Bombax buonopozense P.B. × 3; 8, graine de Pachira aquatica Aubl. × 1,3 (1-4, Chevalier 23112; 2, 6, Bernardi 8388; 3, 7, Vuillet 733; 5, Chevalier 26984; 8, 9, Chevalier 26983).*
+*PL. 9. — Fruits and seeds of Bombacaceae : 1, capsule of Ceiba pentandra (L.) Gaertn. × 2/3; 2, capsule of Rhodognaphalon brevicuspe (Sprague) Roberta × 2/3; 3, capsule of Bombax buonopozense P.B. × 2/3; 4, seed of Ceiba pentandra (L.) Gaertn. × 3; 5, seed of Rhodognaphalon lukayense (De Wild. and Th. Dur.) A. Robyns × 1,5; 6, seed of Rhodognaphalon brevicuspe (Sprague) Roberta × 1,8; 7, seed of Bombax buonopozense P.B. × 3; 8, seed of Pachira aquatica Aubl. × 1,3 (1-4, Chevalier 23112; 2, 6, Bernardi 8388; 3, 7, Vuillet 733; 5, Chevalier 26984; 8, 9, Chevalier 26983).*
 
 ![Ceiba pentandra](../sources/Bombacaceae_vol22_paddle/figures/fig_014_p0039.png)
 
-*PL. 10. — Ceiba pentandra (L.) Gaertn. : 1, feuilles × 2/3; 2, stipule × 1,8; 3, coupe schématique du pétiolule, 4, détail de la nervation × 1; 5, inflorescence × 2/3; 6, fleur × 1; 7, sépales × 2,7; 8, pétale face ext. × 1,5; 9, colonne staminale × 1; 10, 11, anthère × 8,5; 12, style × 1,5 (1-4, Hédin s.n. et 364; 5-8, 9, 12, Tisserant 538; 10-11, Latilo FHI 34404).*
+*PL. 10. — Ceiba pentandra (L.) Gaertn. : 1, leaves × 2/3; 2, stipule × 1,8; 3, schematic section of the petiolule, 4, detail of venation × 1; 5, inflorescence × 2/3; 6, flower × 1; 7, sepals × 2,7; 8, petal external face × 1,5; 9, staminal column × 1; 10, 11, anther × 8,5; 12, style × 1,5 (1-4, Hédin s.n. et 364; 5-8, 9, 12, Tisserant 538; 10-11, Latilo FHI 34404).*
 
 ## Notes
 

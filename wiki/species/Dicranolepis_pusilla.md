@@ -7,6 +7,7 @@ family: Thymeleaceae
 vol: 11
 pages: 84-86
 source: sources/Thymeleaceae_vol11_paddle
+habit: "shrub"
 tags: [species, generated]
 ---
 # *Dicranolepis pusilla* G. Aym. (P.L. XII)
@@ -37,7 +38,7 @@ Le Testu : 81/2, Lastoursville (f., fl., fr., juin).
 
 ![Dicranolepis pusilla](../sources/Thymeleaceae_vol11_paddle/figures/fig_012_p0085.png)
 
-*PL. XII.—Dicranolepis pusilla G. Aym. (Le Testu 8142) : 1, rameau florifère (× 2/3); 2, fragment de feuille (× 2); 3, fleur épanouie (× 3); 4, fruit mùr (× 1). —Dicranolepis Baertsiana, De Wild. et Dur. (Le Testu 5108); 5, rameau florifère (× 2/3); 6, fruit (× 1).*
+*PL. XII.—Dicranolepis pusilla G. Aym. (Le Testu 8142) : 1, flowering branch (× 2/3); 2, fragment of leaf (× 2); 3, open flower (× 3); 4, ripe fruit (× 1). —Dicranolepis Baertsiana, De Wild. et Dur. (Le Testu 5108); 5, flowering branch (× 2/3); 6, fruit (× 1).*
 
 ## Notes
 

@@ -7,6 +7,9 @@ family: Connaraceae
 vol: 33
 pages: 34-37
 source: sources/Connaraceae_vol33_paddle
+countries: [Cameroon, Democratic Republic of the Congo, Gabon, Nigeria, Senegal]
+in_region: true
+habit: "liana"
 tags: [species, generated]
 ---
 # *Agelaea paradoxa* Gilg

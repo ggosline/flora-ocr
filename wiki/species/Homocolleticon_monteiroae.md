@@ -7,6 +7,9 @@ family: Orchidaceae
 vol: 37
 pages: 135-135
 source: sources/Orchidaceae_vol37_paddle
+countries: [Angola, Cameroon, Central African Republic, Democratic Republic of the Congo, Equatorial Guinea, Gabon, Ghana, Liberia, Nigeria, Sao Tome and Principe, Sierra Leone, Uganda]
+in_region: true
+habitat: [riverine]
 tags: [species, generated]
 ---
 # *Homocolleticon monteiroae* (Rchb.f.) Szlach. & Olsz.

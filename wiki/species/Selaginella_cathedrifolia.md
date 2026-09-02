@@ -7,6 +7,8 @@ family: Pteridophytes
 vol: 08
 pages: 29-30
 source: sources/Salviniaceae_vol08_paddle
+countries: [Angola]
+in_region: true
 tags: [species, generated]
 ---
 # *Selaginella cathedrifolia* Spring
@@ -20,11 +22,9 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 — Spring, Mém. Acad. Belg. 24 : 112 (1850). — Alston, Mém. IFAN 50 : 36 (1957); FWTA : 16 (1959).
 
-Tiges s'enracinant sur toute leur longueur, à rhizophores ventraux prenant naissance à angle droit des axes des rameaux. Rhizophores filiformes, glabres, atteignant 2,5 cm de long. Tiges principales couchées, ayant environ 12 cm de long sur 0,5 mm de diamètre, blanc verdâtre, anguleuses. Rameaux glabres, divergeant de 60°. Partie rameuse bipennée, à contour irrégulièrement oblong, souvent ramifiée dès la base, à branches latérales plus longues que la tige principale. Feuilles toutes hétéromorphes. Feuilles latérales imbriquées ou séparées de leur largeur, inéquilatérales, atteignant 2 mm de long sur 1,5 mm de large, fortement ciliées du côté adaxial, à extrémité serrulée. Moitié inférieure semi oblongue-lancéolée, subentière, subtronquée à la base. Marge sans cellules allongées excepté à la base du côté supérieur qui en présente 3 rangées. Costa peu apparent; fausses nervures absentes. Face supérieure vert brillant, face inférieure vert pâle. Feuilles axillaires légèrement inéquilatérales, ayant environ 3/4 de la longueur des feuilles latérales, plus étroites et plus aiguës, ciliées d'un côté à la base. Feuilles médianes imbriquées, obliquement ovales, cordées du côté externe à la base, serrulées, acuminées. Marge avec 2-3 rangées de cellules allongées. Strobiles solitaires au sommet des ramules latérales et ultimes, atteignant 8 mm de long sur 1,5 mm de diamètre, tétragonaux. Sporophylles homororphes, elliptique-lancéolés, acuminés, serrulés, carénés. Mégaspores jaune pâle, de 200 μ de diamètre, à réseau peu marqué sur la surface abaxiale. Microspores vermillon en masse, de 20-25 μ de diamètre, à marque triradiée s'étendant à la marge; surface abaxiale papilleuse.
+Stems rooting along their entire length, with ventral rhizophores arising at right angles from the axes of the branches. Rhizophores filiform, glabrous, reaching 2.5 cm long. Main stems decumbent, approximately 12 cm long by 0.5 mm in diameter, whitish-green, angular. Branches glabrous, diverging at 60°. Branched portion bipinnate, with an irregularly oblong outline, often branched from the base, with lateral branches longer than the main stem. Leaves all heteromorphic. Lateral leaves imbricate or separated by their width, inequilateral, reaching 2 mm long by 1.5 mm wide, strongly ciliate on the adaxial side, with serrulate apex. Lower half semi oblong-lanceolate, subentire, subtruncate at the base. Margin without elongate cells except at the base on the upper side, which bears 3 rows of them. Costa inconspicuous; false veins absent. Upper surface bright green, lower surface pale green. Axillary leaves slightly inequilateral, approximately 3/4 the length of the lateral leaves, narrower and more acute, ciliate on one side at the base. Median leaves imbricate, obliquely ovate, cordate on the outer side at the base, serrulate, acuminate. Margin with 2–3 rows of elongate cells. Strobili solitary at the apex of lateral and ultimate branchlets, reaching 8 mm long by 1.5 mm in diameter, tetragonal. Sporophylls homomorphic, elliptic-lanceolate, acuminate, serrulate, keeled. Megaspores pale yellow, 200 μ in diameter, with faint reticulation on the abaxial surface. Microspores vermillion en masse, 20–25 μ in diameter, with triradiate mark extending to the margin; abaxial surface papillose.
 
 ## Type
 
@@ -32,11 +32,9 @@ Curror, file du Prince (BM, isotypes B, P)
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Western Africa, southward to Angola.
 
-Afrique occidentale, au Sud jusqu'en Angola.
-
-Près des rivières, et forêt humide.
+Near rivers, and humid forest.
 
 ## Specimens examined
 

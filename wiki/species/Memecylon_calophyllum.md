@@ -7,6 +7,7 @@ family: Melastomataceae
 vol: 25
 pages: 131-132
 source: sources/Melastomataceae_vol25_paddle
+habit: "tree"
 tags: [species, generated]
 ---
 # *Memecylon calophyllum* Gilg

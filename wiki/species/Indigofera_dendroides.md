@@ -7,6 +7,13 @@ family: Leguminosae
 vol: 49
 pages: 213-215
 source: sources/Millettiaspeciesfabaceae_vol49_liteparse
+countries: [Angola, Gabon, Senegal]
+in_region: true
+subdivisions:
+  Gabon: [Haut-Ogooué, Ogooué-Ivindo]
+habit: "herb"
+habitat: [rocky ground]
+altitude_m: "450"
 tags: [species, generated]
 ---
 # *Indigofera dendroides* Jacq. Planche 70

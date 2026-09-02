@@ -6,6 +6,10 @@ family: Leguminosae
 vol: 15
 pages: 261-265
 source: sources/Leguminosae_vol15_paddle
+countries: [Gabon]
+in_region: true
+habit: "tree"
+habitat: [primary forest]
 tags: [species, generated]
 ---
 # *Oddoniodendron micranthum*
@@ -69,11 +73,11 @@ Nkaga (Fang)
 
 ![Oddoniodendron micranthum](../sources/Leguminosae_vol15_paddle/figures/fig_063_p0260.png)
 
-*PL. LXIII. — Oddoniodendron micranthum (Harms) Bak. f. : 1, feuille × 2/3; 2, détail de la nervation; 3, inflorescence × 2/3; 4, fleur × 3; 5, pétale vu de l'intérieur × 3; 6, pistil × 4.*
+*PL. LXIII. — Oddoniodendron micranthum (Harms) Bak. f. : 1, leaf × 2/3; 2, detail of the venation; 3, inflorescence × 2/3; 4, flower × 3; 5, petal seen from the interior × 3; 6, pistil × 4.*
 
 ![Oddoniodendron micranthum](../sources/Leguminosae_vol15_paddle/figures/fig_064_p0262.png)
 
-*PL. LXIV. — Oddoniodendron Normandii Aubr. : 1, feuille × 2/3; 2, détail de la nervation; 3, inflorescence × 2/3; 4, fleur × 3; 5, pétale vu de l'intérieur × 3; 6, pistil × 4; 7, fruit × 2/3.*
+*PL. LXIV. — Oddoniodendron Normandii Aubr. : 1, leaf × 2/3; 2, detail of the venation; 3, inflorescence × 2/3; 4, flower × 3; 5, petal seen from the interior × 3; 6, pistil × 4; 7, fruit × 2/3.*
 
 ## Notes
 

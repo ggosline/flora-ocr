@@ -7,6 +7,13 @@ family: Cyperaceae
 vol: 44
 pages: 186-186
 source: sources/Cyperaceae_vol44_liteparse
+countries: [Gabon]
+in_region: true
+subdivisions:
+  Gabon: [Ngounié, Ogooué-Ivindo, Ogooué-Lolo, Ogooué-Maritime]
+habit: "herb"
+habitat: [secondary forest]
+altitude_m: "100–400"
 tags: [species, generated]
 ---
 # *Mapania sylvatica* Aubl. subsp. gabonica (Cherm.) D.A.Simpson Planche 116

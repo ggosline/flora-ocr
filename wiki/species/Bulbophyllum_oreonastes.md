@@ -7,6 +7,9 @@ family: Orchidaceae
 vol: 36
 pages: 183-185
 source: sources/Orchidaceae_vol36_paddle
+countries: [Cameroon, Central African Republic, Equatorial Guinea, Gabon, Guinea]
+in_region: true
+habitat: [savanna]
 tags: [species, generated]
 ---
 # *Bulbophyllum oreonastes* Rchb.f.

@@ -7,6 +7,13 @@ family: Crassulaceae
 vol: 41
 pages: 36-37
 source: sources/Crassulaceae_vol41_liteparse
+countries: [Gabon, Guinea, Kenya]
+in_region: true
+subdivisions:
+  Gabon: [Haut-Ogooué, Ngounié, Woleu-Ntem]
+habit: "herb"
+habitat: [rocky ground]
+altitude_m: "500"
 tags: [species, generated]
 ---
 # *Kalanchoe crenata* (Andrews) Haw. ssp. crenata Planche 8

@@ -7,6 +7,13 @@ family: Ochnaceae
 vol: 48
 pages: 47-49
 source: sources/Ochnaceae_vol48_liteparse
+countries: [Cameroon, Central African Republic, Democratic Republic of the Congo, Gabon, Guinea-Bissau, Republic of the Congo]
+in_region: true
+subdivisions:
+  Gabon: [Ogooué-Ivindo, Woleu-Ntem]
+habit: "tree"
+habitat: [gallery forest, swamp forest, savanna, secondary forest, coastal]
+altitude_m: "15–2200"
 tags: [species, generated]
 ---
 # *Campylospermum monticola* (Gilg) Cheek, Pl. Mount Cameroon, Conserv. Checklist :

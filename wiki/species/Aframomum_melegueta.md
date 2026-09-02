@@ -4,11 +4,8 @@ name: Aframomum melegueta
 authority: (Rosc.) K. Schum.
 genus: Aframomum
 family: Zingiberaceae
-countries: [Sierra Leone, Cameroon, Gabon, Equatorial Guinea, Republic of the Congo, Democratic Republic of the Congo]
-in_region: true
-habit: rhizomatous herb
-habitat: [forest understorey]
 treatments: [{vol: 9, pages: "60–62", source: sources/Zingiberaceae_vol9_paddle}]
+habit: "herb"
 tags: [species]
 ---
 # *Aframomum melegueta* (Rosc.) K. Schum.

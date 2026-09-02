@@ -7,6 +7,7 @@ family: Acanthaceae
 vol: 13
 pages: 46-47
 source: sources/Acanthaceae_vol13_paddle
+habit: "shrub"
 tags: [species, generated]
 ---
 # *Whitfieldia le-* Testui R. Benoist
@@ -17,13 +18,11 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+et in F. Pellegrin, Mém. Soc. Linn. Normandie, N. S., sect. Bot., 1 (3): 45, 1, 3 (1928).
 
-et in F. Pellegrin, Mém. Soc. Linn. Normandie, N. S., sect. Bot., 1 (3) : 45, 1, 3 (1928).
+Shrub reaching 2 m in height; stems glabrous, cylindrical. Leaves petiolate, lanceolate or oblong, attenuate and very acute at the base, acuminate at the apex, 10–20 cm long, 3.5–6 cm wide.
 
-Arbuste atteignant 2 m de hauteur; anneaux glabres, cylindriques. Feuilles pétiolées, lancéolées ou oblongues, atténuées et très aiguës à la base, acuminées au sommet, longues de 10-20 cm, larges de 3,5-6 cm.
-
-Fleurs en panicules terminaux; axes d'inflorescence, bractéoles et sépales densément pubescents-glanduleux. Bractéoles oblongues, obtuses, longues de 8 mm, larges de 3,5 mm. Sépales égaux, libres jusqu'à la base, oblongs-lancéolés, obtus, rétrécis à la base, de  $ 1\frac{1}{4} \times 4,5 $ mm. Corolle jaune avec des stries pourpres, fortement courbée, longue de 18-20 mm à tube brièvement cylindrique puis très élargi au-dessus, pourvu au-dessus de la base d'un anneau de poils; lobes oblongs, subégaux, égalant la partie tubuleuse de la corolle; les deux postérieurs sont plus longuement soudés que les autres. Étamines insérées au niveau de l'anneau de poils; filets glabres; connectif velu entre les loges de l'anthère. Pollen sphérique, lisse. Ovaire glabre à stigmate presque capité (d'après R. Benoist).
+Flowers in terminal panicles; inflorescence axes, bracteoles and sepals densely pubescent-glandular. Bracteoles oblong, obtuse, 8 mm long, 3.5 mm wide. Sepals equal, free to the base, oblong-lanceolate, obtuse, narrowed at the base, $ 1\frac{1}{4} \times 4.5 $ mm. Corolla yellow with purple striae, strongly curved, 18–20 mm long with a shortly cylindrical tube then very much enlarged above, provided above the base with a ring of hairs; lobes oblong, subequal, equalling the tubular portion of the corolla; the two posterior ones more extensively connate than the others. Stamens inserted at the level of the hair ring; filaments glabrous; connective hairy between the anther locules. Pollen spherical, smooth. Ovary glabrous with an almost capitate stigma (according to R. Benoist).
 
 ## Type
 
@@ -31,17 +30,13 @@ Le Testu 2066 (P., holotype!), Gabon, Yaouri, 30 mai 1915, seul matériel connu
 
 ## Source note
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+This species is very close to Whitfieldia Preussii (Lindau) C. B. Clarke (F.T.A. 5: 67, 1899) = Stylarthropus Preussii Lindau (Bot. Jahrb. 20: 12, 1894), from Cameroon; it differs however in some details: inflorescences more condensed and with few lateral branches, bracteoles nearly glabrous, flowers with a pedicel of 6 mm; pedicel 2–3 mm long, calyx silky-pubescent with distinctly rounded segments, corolla finely pubescent on the inside, hairs 1.5 mm long on the internal ring of the tube, etc.
 
-Cette espèce est très voisine du Whitfieldia Preussii (Lindau) C. B. Clarke (F.T.A. 5 : 67, 1899) = Stylarthropus Preussii Lindau (Bot. Jahrb
+Given the insufficiency of material to judge the individual variability of plants described under these two names W. Preussii and W. Le-Testui, it seems more prudent to refrain from a taxonomic change. Studies based on more abundant and complete material might perhaps allow the Gabonese species to be placed at the infraspecific rank of W. Preussii.
 
-20 : 12, 1894), du Cameroun; elle en diffère cependant par quelques détails : inflorescences plus condensées et à rameaux latéraux peu nombreux, bractéoles presque glabres, fleurs à pédoncule de 6 mm; pédicelle de 2-3 mm de long, calice soyeux-pubescent à segments nettement arrondis, corolle finement pubescente à l'intérieur, poils de 1,5 mm de long sur l'anneau interne du tube, etc...
+EXPLANATION OF PLATE VIII, figs. 8–14:
 
-Vu l'insuffisance du matériel pour juger de la variabilité individuelle des plantes décrites sous ces deux noms de W. Preussii et W. Le-Testui, il semble plus prudent de s'abstenir d'un changement taxinomique. Des études fondées sur un matériel plus abondant et complet, permettraient peut-être de placer l'espèce gabonaise au rang infraspécifique de W. Preussii.
-
-EXPLICATION DE LA PLANCHE VIII, fig. 8-14:
-
-8, rameau florifère; 9, bractéole : à gauche, face abaxiale; à droite, face adaxiale de 6, × 2,5 mm; 10, calice à sépales de 10,5-11 × 2-3 mm; 11, sommet d'un sépale; 12, corolle ouverte de 22 mm de long; 13, face dorsale d'une anthère; 13', idem, face ventrale de 3-3,25 mm; 14, pistil avec disque de 0,15 mm, ovaire de 1,50 mm de haut, et style de 18,5 mm de long. — 8-14, Le Testu 2066.
+8, flowering branch; 9, bracteole: on the left, abaxial surface; on the right, adaxial surface 6, × 2.5 mm; 10, calyx with sepals 10.5–11 × 2–3 mm; 11, apex of a sepal; 12, open corolla 22 mm long; 13, dorsal surface of an anther; 13', likewise, ventral surface 3–3.25 mm; 14, pistil with disc 0.15 mm, ovary 1.50 mm high, and style 18.5 mm long. — 8–14, Le Testu 2066.
 
 ## Notes
 

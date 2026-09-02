@@ -7,6 +7,9 @@ family: Flacourtiaceae
 vol: 34
 pages: 16-17
 source: sources/Flacourtiaceae_vol34_paddle
+countries: [Cameroon, Gabon]
+in_region: true
+habit: "shrub"
 tags: [species, generated]
 ---
 # *Trichostephanus acuminatus* Gilg
@@ -17,19 +20,15 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+in ENGL., PWA 3 (2) : 574 (1921) ; HALLÉ & DE WILDE, Adansonia, sér. 2, 18 (2) : 167 (1978) ; BRETELER, BJBB 60 : 146, in clavi (1990). TYPE : Zenker 1764, Cameroon (lecto- et isolecto-).
 
-in ENGL., PWA 3 (2) : 574 (1921) ; HALLÉ & DE WILDE, Adansonia, sér. 2, 18 (2) : 167 (1978) ; BRETELER, BJBB 60 : 146, in clavi (1990). TYPE : Zenker 1764, Cameroun (lecto- et isolecto-).
+Shrub 2-6-(10) m tall.
 
-Arbuste de 2-6-(10) m de haut.
+Leaves with linear ascending stipules, slightly pubescent, 3-20 × 0.5-1.5 mm ; petiole glabrescent, 2-4-(6) mm long ; blade elliptic-ovate to obovate, 6-15-(20) × 2-9 cm, glabrous, chartaceous, cuneate at base, acuminate at apex ; secondary veins 5-7 pairs.
 
-Feuilles à stipules linéaires ascendantes, légèrement pubescentes, 3-20 × 0,5-1,5 mm ; pétiole glabrescent, de 2-4-(6) mm de long ; limbe elliptique-ovale à obovale, 6-15-(20) × 2-9 cm, glabre, chartacé, cunéi-forme à la base, acuminé au sommet ; nervures secondaires 5-7 paires.
+Inflorescences in unipare or bipare cymes whose structural peculiarities were studied by N. HALLÉ (cf. HALLÉ & DE WILDE, 1978) ; floral buds enveloped in large bracts (or bracteolar prophylls 7-10 mm long) ; pedicel 15-25 mm long, articulate at the lower third of the length, puberulent. Male flowers white ; sepals elliptic, 5-10 × 3-9 mm, glabrescent, subacute at apex ; stamens numerous (15-20) ; filaments pubescent on the inner face and connate to each other in the lower third, forming a tube ; anthers subglobose ; intrastaminal crown of hairy staminodes ; abortive ovary pubescent. Female flowers white ; sepals glabrescent, 7-12 × 5-10 mm, elliptic ; aborted androecium reduced, with its crown of hairy staminodes always present ; pistil densely pubescent ; ovary with 4 multiovulate placentas ; styles (3)-4, pubescent, robust, accrescent ; stigmas echiniform, densely papilliferous.
 
-Inflorescences en cymes unipares ou bipares dont les particularités structurales ont été étudiées par N. HALLÉ (cf. HALLÉ & DE WILDE, 1978) ; boutons floraux enveloppés dans de grandes bractées (ou préfeuilles bractéales de 7-10 mm de long) ; pédicelle long de 15-25 mm,
-
-articulés au tiers inférieur de la longueur, pubérulents. Fleurs ♂ blanches ; sépales elliptiques, 5-10 × 3-9 mm, glabrescents, subaigus au sommet ; étamines nombreuses (15-20) ; filets pubescents sur la face interne et soudés entre eux dans le tiers inférieur, formant un tube ; anthères subglobuleuses ; couronne intrastaminale de staminodes velus ; ovaire abortif pubescent. Fleurs ♀ blanches ; sépales glabrescents, 7-12 × 5-10 mm, elliptiques ; androcée avorté réduit, avec sa couronne de staminodes velus toujours présente ; pistil densément pubescent ; ovaire à 4 placentas multiovulés ; styles (3)-4, pubescents, robustes, accrescents ; stigmates échiniformes, densément papillifères.
-
-Fruits juvéniles pubescents, 18 × 9 mm, avec les styles de 2-3 mm de long. - Pl. 3, 1-6, p. 15.
+Juvenile fruits pubescent, 18 × 9 mm, with styles 2-3 mm long. - Pl. 3, 1-6, p. 15.
 
 ## Type
 
@@ -37,15 +36,11 @@ Zenker 1764, Cameroun, (holo-, B, delet. ; lecto-, P!, cf. HALLÉ & DE WILDE 197
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Cameroun, Gabon
+Cameroon, Gabon
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-en sous-bois fermé des forêts denses
+in dense closed understory forests
 
 ## Specimens examined
 
@@ -57,7 +52,7 @@ Le Testu 7679, Lastoursville, reçu le 18/4/1932, bout. fl. (P) ; 8466, l. c., R
 
 ![Trichostephanus acuminatus](../sources/Flacourtiaceae_vol34_paddle/figures/fig_003_p0018.png)
 
-*PL. 3. – Trichostephanus acuminatus Gilg : 1, rameau avec fleurs et jeunes fruits ; 2, fleur ♂ ; 3, détail du réceptacle d'une fleur ♂, avec étamines et couronne de staminodes ; 4, pistil d'un bouton floral ♀ ; 5, pistil d'une fleur ♀ adulte ; 6, coupe transversale de l'ovaire. (1-3. Le Testu 7679 ; 4. Le Testu 8466 ; 5-6. De Wilde 8000). – T. gabonensis Breteler : 7, rameau ; 8, fleur ♀ ; 9, id., détail du pistil ; 10, fruit. (7-10. De Wilde & Jongkind 9541).*
+*PL. 3. – Trichostephanus acuminatus Gilg : 1, branch with flowers and young fruits ; 2, ♂ flower ; 3, detail of receptacle of ♂ flower, with stamens and crown of staminodes ; 4, pistil of ♀ floral bud ; 5, pistil of adult ♀ flower ; 6, transverse section of ovary. (1-3. Le Testu 7679 ; 4. Le Testu 8466 ; 5-6. De Wilde 8000). – T. gabonensis Breteler : 7, branch ; 8, ♀ flower ; 9, id., detail of pistil ; 10, fruit. (7-10. De Wilde & Jongkind 9541).*
 
 ## Notes
 

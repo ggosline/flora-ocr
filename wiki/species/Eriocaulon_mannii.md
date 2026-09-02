@@ -7,6 +7,11 @@ family: Eriocaulaceae
 vol: 48
 pages: 12-13
 source: sources/Eriocaulaceae_vol48_liteparse
+countries: [Equatorial Guinea, Gabon]
+in_region: true
+habit: "herb"
+habitat: [rocky ground]
+altitude_m: "600"
 tags: [species, generated]
 ---
 # *Eriocaulon mannii* N.E.Br.

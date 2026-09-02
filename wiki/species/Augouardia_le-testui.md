@@ -7,6 +7,9 @@ family: Leguminosae
 vol: 15
 pages: 183-185
 source: sources/Leguminosae_vol15_paddle
+countries: [Gabon]
+in_region: true
+habit: "tree"
 tags: [species, generated]
 ---
 # *Augouardia le-* Testui Pellegrin
@@ -37,7 +40,7 @@ Aubréville : 150, Nzilé (fl. juin). Le Testu : 2228, Sindara ; 2295, Sindara (
 
 ![Augouardia le-](../sources/Leguminosae_vol15_paddle/figures/fig_042_p0184.png)
 
-*PL. XLII. — Augouardia Le Testui Pellegrin : 1, feuille et inflorescence × 2/3; 2, foliole d'une autre feuille × 2/3; 3, détail de la nervation; 4, fleur × 4; 5, coupe.*
+*PL. XLII. — Augouardia Le Testui Pellegrin : 1, leaf and inflorescence × 2/3; 2, leaflet of another leaf × 2/3; 3, venation detail; 4, flower × 4; 5, section.*
 
 ## Notes
 

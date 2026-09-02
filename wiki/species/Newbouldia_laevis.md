@@ -7,6 +7,8 @@ family: Bignoniaceae
 vol: 27
 pages: 40-43
 source: sources/Bignoniaceae_vol27_paddle
+countries: [Cameroon, Gabon, Guinea, Senegal, Sierra Leone]
+in_region: true
 tags: [species, generated]
 ---
 # *Newbouldia laevis* (Palisot de Beauvois) Seemann ex Bureau
@@ -81,7 +83,7 @@ Walker s.n., St-Martin (fl., oct.) (P).
 
 ![Newbouldia laevis](../sources/Bignoniaceae_vol27_paddle/figures/fig_008_p0042.png)
 
-*PL. 8. – Newbouldia laevis (P.B.) Seem.: 1, feuille et inflorescence × 0,6; 2, 2', foliole × 0,5; 3, limbe face inférieure; 4, fleur × 0,6; 5, lobe de la corolle, détail de la face externe; 6, corolle face interne × 0,6; 7, pistil et disque × 2; 8, fruit × 0,3; 9, graine × 1 (1, 4-6, Raynal J. & A., Cameroun; 2, Latilo & Daramola 28967, Nigeria; 2, Zenker 1594, Cameroun; 3, 8-9, Hédin 7, Cameroun; 7, Letouzey 9661, Cameroun). (Repris de la Flore du Cameroun 27: tab. 12, 1984).*
+*PL. 8. – Newbouldia laevis (P.B.) Seem.: 1, leaf and inflorescence × 0.6; 2, 2', leaflet × 0.5; 3, limb lower surface; 4, flower × 0.6; 5, corolla lobe, detail of external surface; 6, corolla internal surface × 0.6; 7, pistil and disk × 2; 8, fruit × 0.3; 9, seed × 1 (1, 4-6, Raynal J. & A., Cameroon; 2, Latilo & Daramola 28967, Nigeria; 2, Zenker 1594, Cameroon; 3, 8-9, Hédin 7, Cameroon; 7, Letouzey 9661, Cameroon). (Reprinted from Flora of Cameroon 27: tab. 12, 1984).*
 
 ## Notes
 

@@ -7,6 +7,8 @@ family: Moraceae
 vol: 26
 pages: 250-253
 source: sources/Moraceae_vol26_paddle
+countries: [Cameroon, Democratic Republic of the Congo, Sierra Leone, Uganda, Zambia]
+in_region: true
 tags: [species, generated]
 ---
 # *Ficus barteri* Sprague
@@ -55,7 +57,7 @@ Slootweg & Missler 3, 10 km SW Makokou, riv. Ivindo (stér.).
 
 ![Ficus barteri](../sources/Moraceae_vol26_paddle/figures/fig_078_p0252.png)
 
-*PL. 77. – Ficus barteri Sprague : 1, rameau avec feuilles et figues × 1 ; 2, fleur à galle ; 3, fleur à graine ; 4, fruit ; 5, fruit avec recouvrement mucilagineux ; 6, fleur staminée (Tisserant 2404, Centrafrique).*
+*PL. 77. – Ficus barteri Sprague : 1, branch with leaves and figs × 1 ; 2, gall flower ; 3, seed-bearing flower ; 4, fruit ; 5, fruit with mucilaginous coating ; 6, staminate flower (Tisserant 2404, Central African Republic).*
 
 ## Notes
 

@@ -7,6 +7,9 @@ family: Dichapetalaceae
 vol: 32
 pages: 112-115
 source: sources/Dichapetalaceae_vol32_paddle
+countries: [Angola, Cameroon, Democratic Republic of the Congo, Gabon]
+in_region: true
+habit: "liana"
 tags: [species, generated]
 ---
 # *Dichapetalum insigne* Engler
@@ -71,7 +74,7 @@ Reitsma & al. 936, Oveng (fl., Mai); 1017, 65 km au S.O. de Doussala (fl., Mai)
 
 ![Dichapetalum insigne](../sources/Dichapetalaceae_vol32_paddle/figures/fig_031_p0114.png)
 
-*PL. 30. – Dichapetalum insigne Engler: 1, rameau feuillé et stipules × 0,5; 2, 3, inflorescence (en 3, pubescence figurée seulement à droite) × 3; 4, fleur × 6; 5, fleur, détail × 6; 6, pistil × 18; 7, staminode × 12 (1, Bos 7135; 2-7, J.J. de Wilde 8241). – Repris de MLW 79 (16): (1979).*
+*PL. 30. – Dichapetalum insigne Engler: 1, leafy branch and stipules × 0.5; 2, 3, inflorescence (in 3, pubescence shown only on right) × 3; 4, flower × 6; 5, flower, detail × 6; 6, pistil × 18; 7, staminode × 12 (1, Bos 7135; 2-7, J.J. de Wilde 8241). – Reprinted from MLW 79 (16): (1979).*
 
 ## Notes
 

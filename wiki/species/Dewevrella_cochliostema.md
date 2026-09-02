@@ -7,6 +7,10 @@ family: Apocynaceae
 vol: 59
 pages: 77-77
 source: sources/Apocynaceae_vol59_liteparse
+countries: [Gabon]
+in_region: true
+habit: "liana"
+altitude_m: "400–440"
 tags: [species, generated]
 ---
 # *Dewevrella cochliostema* De Wild. Planche 30

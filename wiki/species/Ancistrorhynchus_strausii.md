@@ -7,6 +7,9 @@ family: Orchidaceae
 vol: 37
 pages: 117-117
 source: sources/Orchidaceae_vol37_paddle
+countries: [Cameroon, Cote d'Ivoire, Democratic Republic of the Congo, Gabon, Nigeria]
+in_region: true
+habitat: [primary forest]
 tags: [species, generated]
 ---
 # *Ancistrorhynchus strausii* (Schltr.) Schltr.
@@ -39,7 +42,7 @@ Hallé & Villiers 5383, Monts de Cristal, 12 km SW Kinguélé Falls (fl. Feb.), 
 
 ![Ancistrorhynchus strausii](../sources/Orchidaceae_vol37_paddle/figures/fig_049_p0119.png)
 
-*PL. 155. – Ancistrorhynchus strausii (Schltr.) Schltr.: A, fleur ; B, labelle et éperon ; C, labelle étalé ; D, sépale latéral ; E, pétale ; F, sépale dorsal ; G, feuille et extrémité foliaire ; H, vue générale (A-G, Hallé & Villiers 5383, P ; H, ex ADAM, 1982, modifié).*
+*PL. 155. – Ancistrorhynchus strausii (Schltr.) Schltr.: A, flower ; B, labellum and spur ; C, labellum spread ; D, lateral sepal ; E, petal ; F, dorsal sepal ; G, leaf and leaf end ; H, general view (A-G, Hallé & Villiers 5383, P ; H, ex ADAM, 1982, modified).*
 
 ## Notes
 

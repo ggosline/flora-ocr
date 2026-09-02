@@ -7,6 +7,7 @@ family: Apocynaceae
 vol: 59
 pages: 137-140
 source: sources/Apocynaceae_vol59_liteparse
+habit: "liana"
 tags: [species, generated]
 ---
 # *Landolphia mannii* Dyer ex Dewèvre Planche 59

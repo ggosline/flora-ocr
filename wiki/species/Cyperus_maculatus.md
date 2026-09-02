@@ -7,6 +7,12 @@ family: Cyperaceae
 vol: 44
 pages: 66-67
 source: sources/Cyperaceae_vol44_liteparse
+countries: [Gabon]
+in_region: true
+subdivisions:
+  Gabon: [Moyen-Ogooué, Ogooué-Ivindo, Ogooué-Lolo]
+habit: "herb"
+altitude_m: "400"
 tags: [species, generated]
 ---
 # *Cyperus maculatus* Boeckeler Planche 38

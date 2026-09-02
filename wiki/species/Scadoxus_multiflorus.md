@@ -28,16 +28,15 @@ synonyms:
   - H. lynesii Stapf
   - H. otaviensis Dinter
   - H. sacculus Phillips
-countries: [Gabon, Senegal, Sierra Leone, Ghana, Somalia, Yemen, South Africa]
-in_region: true
 infraspecific_rank: subsp
 parent_species: Scadoxus multiflorus
-habit: herb
-altitude_m: variable
 treatments:
   - vol: 28
     pages: "28–32"
     source: sources/Amaryllidaceae_vol28_paddle
+countries: [Cameroon, Gabon, Ghana, Senegal, Sierra Leone]
+in_region: true
+habit: "herb"
 tags: [species]
 ---
 

@@ -7,6 +7,8 @@ family: Aspleniaceae
 vol: 08
 pages: 140-141
 source: sources/Aspleniaceae_vol08_paddle
+countries: [Cameroon, Cote d'Ivoire, Gabon, Ghana, Guinea, Sierra Leone]
+in_region: true
 tags: [species, generated]
 ---
 # *Asplenium diplazisorum* Hieronymus

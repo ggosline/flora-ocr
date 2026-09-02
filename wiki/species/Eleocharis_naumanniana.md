@@ -7,6 +7,12 @@ family: Cyperaceae
 vol: 44
 pages: 134-135
 source: sources/Cyperaceae_vol44_liteparse
+countries: [Central African Republic, Cote d'Ivoire, Democratic Republic of the Congo, Gabon, Ghana, Guinea-Bissau, Liberia, Nigeria, Senegal, Sierra Leone]
+in_region: true
+subdivisions:
+  Gabon: [Moyen-Ogooué, Ngounié, Woleu-Ntem]
+habit: "herb"
+altitude_m: "0–600"
 tags: [species, generated]
 ---
 # *Eleocharis naumanniana* Boeckeler Planche 85

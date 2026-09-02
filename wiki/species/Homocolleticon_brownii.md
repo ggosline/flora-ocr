@@ -7,6 +7,9 @@ family: Orchidaceae
 vol: 37
 pages: 133-135
 source: sources/Orchidaceae_vol37_paddle
+countries: [Central African Republic, Democratic Republic of the Congo, Gabon, Malawi, Sierra Leone, Tanzania, Uganda]
+in_region: true
+habitat: [evergreen forest]
 tags: [species, generated]
 ---
 # *Homocolleticon brownii* (Rolfe) Szlach. & Olsz.
@@ -41,7 +44,7 @@ Hallé 3401, Djouala (fl. Déc.), P!.
 
 ![Homocolleticon brownii](../sources/Orchidaceae_vol37_paddle/figures/fig_058_p0134.png)
 
-*PL. 164. – Structure du gynostème du genre *Homocolleticon* (Summerh.) Szlach. & Olsz. : A, vue latérale ; B, vue de face ; C, vue de face, anthère enlevée ; D, anthère ; E, pollinies, vue diverses ; F-H, viscidie et tegula, vues diverses (A-H, ex SZLACHETKO & al., 2003).*
+*PL. 164. – Structure of the gynosteme of the genus *Homocolleticon* (Summerh.) Szlach. & Olsz. : A, lateral view ; B, front view ; C, front view, anther removed ; D, anther ; E, pollinia, various views ; F-H, viscidium and tegula, various views (A-H, ex SZLACHETKO & al., 2003).*
 
 ## Notes
 

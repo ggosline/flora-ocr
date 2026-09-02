@@ -7,6 +7,9 @@ family: Orchidaceae
 vol: 37
 pages: 101-103
 source: sources/Orchidaceae_vol37_paddle
+countries: [Angola, Burundi, Cameroon, Central African Republic, Democratic Republic of the Congo, Equatorial Guinea, Gabon, Ghana, Guinea, Guinea-Bissau, Kenya, Liberia, Malawi, Mozambique, Nigeria, Rwanda, Senegal, Sudan, Tanzania, Togo, Uganda, Zambia, Zimbabwe]
+in_region: true
+habitat: [savanna, coastal]
 tags: [species, generated]
 ---
 # *Eulophia milnei* Rchb.f.

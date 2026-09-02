@@ -7,6 +7,8 @@ family: Celastraceae
 vol: 29
 pages: 241-245
 source: sources/Celastraceae_vol29_paddle
+countries: [Angola, Burundi, Cameroon, Central African Republic, Gabon, Kenya, Madagascar, Malawi, Tanzania, Zambia, Zimbabwe]
+in_region: true
 tags: [species, generated]
 ---
 # *Loeseneriella crenata* (Klotzsch) Wilczek ex Hallé, comb. nov.

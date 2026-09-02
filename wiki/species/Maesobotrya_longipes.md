@@ -7,6 +7,13 @@ family: Phyllanthaceae
 vol: 43
 pages: 48-50
 source: sources/Phyllanthaceae_vol43_liteparse
+countries: [Cameroon, Central African Republic, Democratic Republic of the Congo, Gabon]
+in_region: true
+subdivisions:
+  Gabon: [Estuaire, Moyen-Ogooué, Ogooué-Maritime, Woleu-Ntem]
+habit: "shrub"
+habitat: [secondary forest]
+altitude_m: "0–550"
 tags: [species, generated]
 ---
 # *Maesobotrya longipes* Hutch. Planche 13

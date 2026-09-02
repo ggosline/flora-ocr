@@ -7,6 +7,9 @@ family: Leguminosae
 vol: 15
 pages: 71-73
 source: sources/Leguminosae_vol15_paddle
+countries: [Gabon]
+in_region: true
+habit: "tree"
 tags: [species, generated]
 ---
 # *Cynometra schlechteri* Harms
@@ -41,7 +44,7 @@ Le Testu : 9243, bords du Ngom, affluent du Ntem, Bilo (fl. et fr. août).
 
 ![Cynometra schlechteri](../sources/Leguminosae_vol15_paddle/figures/fig_011_p0072.png)
 
-*PL. XI. — Cynometra sanagaensis Aubr.: 1, feuille et inflorescence × 1; 2, fleur × 10/3; 3, coupe de la fleur × 10/3; 4, fruit × 1. — Cynometra Mannii Oliver: 5, feuille et inflorescence × 1; 6, fleur × 10/3; 7, coupe de la fleur × 10/3; 8, fruits et bourgeons × 1. — Cynometra Le Testui (Pellegrin) Léonard: 9, feuille et inflorescence × 1. — Cynometra Schlechteri Harms: 10, feuille × 1; 11, fruit × 1.*
+*PL. XI. — Cynometra sanagaensis Aubr.: 1, leaf and inflorescence × 1; 2, flower × 10/3; 3, section of the flower × 10/3; 4, fruit × 1. — Cynometra Mannii Oliver: 5, leaf and inflorescence × 1; 6, flower × 10/3; 7, section of the flower × 10/3; 8, fruits and buds × 1. — Cynometra Le Testui (Pellegrin) Léonard: 9, leaf and inflorescence × 1. — Cynometra Schlechteri Harms: 10, leaf × 1; 11, fruit × 1.*
 
 ## Notes
 

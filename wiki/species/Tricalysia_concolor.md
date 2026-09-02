@@ -7,6 +7,9 @@ family: Rubiaceae
 vol: 17
 pages: 285-290
 source: sources/Rubiaceae_vol17_paddle
+countries: [Cameroon, Central African Republic, Cote d'Ivoire, Ghana, Liberia, Nigeria, Sierra Leone, Uganda]
+in_region: true
+habit: "shrub"
 tags: [species, generated]
 ---
 # *Tricalysia concolor* N. Hallé, sp. nov.
@@ -20,37 +23,33 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Aff. T. discoloris Brenan but differing in glabrous apexes, long-vaginately stipulate, truncate stipules, not acuminate, glabrous petioles, broader, nearly coriaceous leaves, uniovulate placentae, and larger fruit 8–10 mm in diameter, white, hollow, 2-seeded, with non-ruminate albumen.
 
-Aff. T. discoloris Brenan sed summitatibus glabris stipulis longe vaginatis truncatis, haud acuminatis, petiolis glabris, foliis latioribus fere coriaceis, placentis uniovulatis, fructu majore 8-10 mm in diam., albo, cavo, 2-seminato, albumine haud ruminato, differt.
+Shrub glabrous. Buds waxy. Stipules tubular 3 mm long, truncate. Blade 13–23 × 6–10 cm, base shortly acute, apex ± acuminate. Midvein slightly prominent above. Lateral nerves 9–15 pairs, cross-venules subtransverse, slightly prominent below, inconspicuous above. Inflorescences congested-cymose, multiflorous, glabrous. Flowers white, subsessile, pentamerous, glabrous. Sepals ciliolate. Corolla glabrous but villous-bearded in throat. Anthers 2.5 × 0.8 mm, apiculate, glabrous. Style glabrous, bilobed. Ovary bilocular; placenta peltate, ovule solitary, semi-immersed in center. Fruit glabrous, peduncle accrescent, calyx lobes persistent, 2-locular, with thin septum. Seed in each locule 1, circa 5 × 4 × 3 mm.
 
-Frutex glaber. Gemmæ cerosæ. Stipulæ tubulosæ 3 mm longae, truncateæ. Lamina 13-23 × 6-10 cm, basi breviter acuta, apice ± acuminata. Costa superne prominula. Nervi laterales 9-15 jugi, venuli subtransversi subtus 6ix prominuli,
+Small tree 10 m tall with entirely glabrous apexes. Stipules tubular circa 3 mm, truncate, lacking acumen. Petiole glabrous 8–13 mm with plane margins of the channel. Blade subcoriaceous brown-russet subconcolorous, glabrous, elliptic 13–23 × 6–10 cm; base shortly acute; apex with acute acumen 5–15 mm long. Midvein slightly prominent on upper surface; 9–15 pairs of secondary nerves; intersecondary nerves subtransverse; fine network slightly distinct below, absent on upper surface. Nerve axils glabrous.
 
-superne inconspicui. Inflorescentiae congesto-cymosæ multifloris glabris. Flores albi subsessiles pentameri glabri. Sepala ciliolata. Corolla glabra sed fauce villoso-barbata. Anthæ 2,5 × 0,8 mm, apiculatæ, glabræ. Stylus glaber bilobatus. Ovarium biloculatum; placenta peltata, ovulo unico in centro semi-immerso. Fructus glaber, pedunculo accrescenti, lobis calycis perstantibus, 2-loculatus, septo tenui. Semen in quoque loculo 1, circ. 5 × 4 × 3 mm.
+Inflorescences inserted 5–6 mm above axils, solitary opposite, contracted cymose, 40-flowered or more, glabrous, provided at base with broad scales; bracts deltoid exceeding 2 mm. Flowers subsessile, white, pentamerous, circa 7 mm in diameter. Calyx glabrous with lobes 1–1.5 mm, ovate ciliolate, connate in a tube 0.3 mm tall. Corolla with glabrous tube 6–7 × 1.5 mm; lobes 4 × 1.5 mm, glabrous except at throat which is densely clothed with soft hairs. Stamens glabrous, exsert, anther medifix 2.5 × 0.8 mm, acuminate for 0.3 mm, cleft below insertion between the 2 thecae, filament glabrous 2 mm. Style glabrous 9 mm, bilobed for 2 mm. Disc a glabrous cushion. Ovary moderately turbinate containing two locules. Each placenta elliptic, peltate somewhat above midpoint, with a solitary ovule embedded in its center.
 
-Petit arbre de 10 m de hauteur à extrémités entièrement glabres. Stipules tubuleuses sur env. 3 mm, tronquées, dépourvues d'acumen. Pétiole glabre de 8-13 mm à marges du canal planes. Limbe subcoriace brun-roux subconcolor, glabre, elliptique de 13-23 × 6-10 cm; base brièvement aiguë; sommet avec un acumen aigu long de 5-15 mm. Médiane légèrement proéminente à la face supérieure; 9-15 paires de nervures secondaires; nervures intersecondaires subtransverses; fin réseau peu distinct dessous, nul à la face supérieure. Aisselles nervaires glabres.
+Fruit glabrous with accrescent peduncle 4–6 mm long, white, soft fleshy, 8–10 mm wide by 10 mm tall, crowned by persistent, connivent calyx lobes forming an apicule. Locules hollow, each with a subcircular seed circa 5 × 4 × 3 mm, surrounded by placental tissue, with thin brownish integument, with non-ruminate albumen, with embryo 3 mm, curved with radicle directed toward base of fruit.
 
-Inflorescences insérées 5-6 mm au-dessus des aisselles, solitaires opposées, contractées cymeuses, 40-flores ou plus, glabres, munies à la base de larges écailles; bractées deltoïdes dépassant 2 mm. Fleurs subsessiles, blanches, pentamères, d'env. 7 mm de diamètre. Calice glabre à lobes de 1-1,5 mm, ovés ciliolés, connés en un tube de 0,3 mm de hauteur. Corolle à tube glabre de 6-7 × 1,5 mm; lobes de 4 × 1,5 mm, glabre sauf à la gorge qui est densément revêtue de poils mous. Étamines glabres, exsertes, à anthère médifix de 2,5 × 0,8 mm, acuminée sur 0,3 mm, fendue sous l'insertion entre les 2 thèques, à filet glabre de 2 mm. Style glabre de 9 mm, bilobé sur 2 mm. Disque en coussinet glabre. Ovaire médiocrement turbiné contenant deux loges. Chaque placenta elliptique, pelté un peu au-dessus du milieu, avec un ovule unique enchâssé en son centre.
+Type and only known material: N. Hallé and A. Le Thomas 119, Bélinga, Gabon, alt. circa 800 m, dense forest, on edge of a recent Somifer worksite road (fl. and fr. 21 July 1968).
 
-Fruit glabre à pédoncule acrescent long de 4-6 mm, blanc, charnu mou, de 8-10 mm de largeur sur 10 mm de hauteur, couronné par les lobes persistants du calice reserrés en apicule. Loges creuses, chacune avec une graine subcirculaire d'environ  $ 5 \times 4 \times 3 $ mm, cernée de tissu placentaire, à légument brunâtre mince, à albumen non ruminé, à embryon de 3 mm, courbé et à radicule dirigée vers la base du fruit.
-
-Type et seul matériel connu : N. Hallé et A. Le Thomas 119, Bélinga, Gabon, alt. vers 800 m, forêt dense, en bordure d'une route récente du chantier Somifer (fl. et fr. 21 juil. 1968).
-
-Cette espèce est remarquable tant par son affinité pour les Tr. macrophylla et discolor que par la qualité de ses caractères distinctifs, le plus intéressant étant la monospermie des loges.
+This species is remarkable both for its affinity to Tr. macrophylla and discolor and for the quality of its distinctive characters, the most interesting being the monospermy of the locules.
 
 3. Tricalysia Elliotii (K. Schum.) Hutch. et Dalz. (PL. 66, p. 287)
 
-— Tricalysia coffeoides Good, J. Bot. supp.: 18 (1926). Type Gossweiler 6698 (BM!). Ce nom est signalé comme un synonyme probable.
+— Tricalysia coffeoides Good, J. Bot. supp.: 18 (1926). Type Gossweiler 6698 (BM!). This name is noted as a probable synonym.
 
-Arbuste à jeunes extrémités presque complètement glabres. Stipules glabres, laminées sur 2 mm, subulées sur 3-6 mm. Pétiole glabrescent de 6-11 mm. Limbe ± olivâtre subconcolore, glabre, elliptique de 13-20 × 5-9 cm; base brièvement aiguë, sommet acuminé-rostré. Médiamé plane à la face supérieure. 6-9 paires de nervures secondaires; nervures intersecondaires médiocrement subtransverses; fin réseau à peu près indistinct. Aisselles nervaires pileuses.
+Shrub with young apexes almost completely glabrous. Stipules glabrous, laminate for 2 mm, subulate for 3–6 mm. Petiole glabrescent 6–11 mm. Blade ± olivaceous subconcolorous, glabrous, elliptic 13–20 × 5–9 cm; base shortly acute, apex acuminate-rostrate. Midvein plane on upper surface. 6–9 pairs of secondary nerves; intersecondary nerves moderately subtransverse; fine network roughly indistinct. Nerve axils pilose.
 
-Inflorescences 5-8 flores solitaires axillaires, contractées cymeuses, un peu pubescentes, à 1 ou 2 paires de bractées principales développées en petites feuilles à limbe lancéolé long de 5-15 mm et plus; autres bractées deltoïdes ± ciliolées. Fleurs subsesiles blanches, 5-6 mères de 15-25 mm de diamètre. Calice médio-clement pubescent à lobes subulés de 1-3 mm à cupule de 2-4 mm de hauteur, munie de glandes à la base du côté interne. Corolle à tube glabre, de 10-14 mm, à 5-6 lobes de 9-12 × 2-3,5 mm, un peu pubescents au sommet et à la base autour de la gorge. Étamines à anthère glabre ou pauvrement pileuse de 5-6,5 × 0,4-0,7 mm, à acumen aigu, submédifie à filet glabre de 4-7 mm
+Inflorescences 5–8 flowered, solitary axillary, contracted cymose, somewhat pubescent, with 1 or 2 pairs of principal bracts developed into small leaves with lanceolate blade 5–15 mm long and more; other bracts deltoid ± ciliolate. Flowers subsessile, white, 5–6-merous, 15–25 mm in diameter. Calyx moderately pubescent with subulate lobes 1–3 mm, cupule 2–4 mm tall, furnished with glands at base on inner side. Corolla with glabrous tube 10–14 mm, with 5–6 lobes 9–12 × 2–3.5 mm, somewhat pubescent at apex and at base around the throat. Stamens with anther glabrous or poorly pilose 5–6.5 × 0.4–0.7 mm, with acute acumen, submedifixed with glabrous filament 4–7 mm
 
-PL. 66. — Tricalysia Elliotii (K. Schum.) Hutch. et D. (Bates 1752; 8, Tisserant 2499; 9, Chandler 1846): 1, feuille et inflorescence × 0,6; 2, fleur; 3, coupe du calice; 4, étamine; 5, style; 6, coupe de l'ovaire; 7, placentation; 8, fruit; 9, coupe du fruit. — T. Lecomteana Pierre ex Pellegrin (Le Testu 1435): 10, inflorescence × 0,6; 11, fleur; 12, calice en coupe; 13, étamine; 14, style; 15, coupe de l'ovaire; 16, placentation.
+PL. 66. — Tricalysia Elliotii (K. Schum.) Hutch. et D. (Bates 1752; 8, Tisserant 2499; 9, Chandler 1846): 1, leaf and inflorescence × 0.6; 2, flower; 3, calyx section; 4, stamen; 5, style; 6, ovary section; 7, placentation; 8, fruit; 9, fruit section. — T. Lecomteana Pierre ex Pellegrin (Le Testu 1435): 10, inflorescence × 0.6; 11, flower; 12, calyx in section; 13, stamen; 14, style; 15, ovary section; 16, placentation.
 
-entièrement exsert. Style tout à fait glabre, long jusqu'à 23 mm avec des lobes grêles de 5 mm. Disque en coussinet glabre. Ovaire pubescent à glabre, biloculaire. Placenta pelté à 5-9 ovules juxtaposés.
+entirely exsert. Style entirely glabrous, up to 23 mm long with slender lobes 5 mm. Disc a glabrous cushion. Ovary pubescent to glabrous, bilocular. Placenta peltate with 5–9 juxtaposed ovules.
 
-Fruit glabre ou glabrescent, globuleux, de 6-15 mm de diamètre, à limbe calycinal persistant, à paroi épaisse de près de 3 mm (Chandler 1846 et Tisserant 2499); 2 loges creuses à face interne jaunâtre. Graines non vues.
+Fruit glabrous or glabrescent, globose, 6–15 mm in diameter, with persistent calyx limb, wall nearly 3 mm thick (Chandler 1846 and Tisserant 2499); 2 hollow locules with yellowish inner surface. Seeds not seen.
 
 ## Type
 
@@ -58,9 +57,7 @@ Scott Elliot 4937 (K!) de Sierra Léone
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Sierra Leone, Liberia (Adam 20962), Côte d'Ivoire, Ghana, Nigeria, Cameroun (Bates 1752), Centrafrique et Uganda (Chander 1846, P ex K).
+Sierra Leone, Liberia (Adam 20962), Côte d'Ivoire, Ghana, Nigeria, Cameroon (Bates 1752), Central African Republic and Uganda (Chandler 1846, P ex K).
 
 ## Specimens examined
 
@@ -70,7 +67,7 @@ Le Testu 7245, Lastoursville (fl. avr.).
 
 ![Tricalysia concolor](../sources/Rubiaceae_vol17_paddle/figures/fig_067_p0287.png)
 
-*PL. 65. — Tricalysia concolor (N. Hallé et A. Le Thomas 119) : I, feuille × 0,6; 2, insertion d'inflorescence vue au stade juvénile et stipule; 3 et 4, fleur; 5, étamine; 6, style; 7, coupe de l'ovaire; 8, placenta pelté uniovulé recto et verso; 9, infrutescence × 0,6; 10, coupe du fruit à sec; 11, graine. — T. macrophylla K. Schum. (Klaine 2521; 20, 21, Klaine 2640) : 12, feuille × 0,6; 13, jeune inflorescence et stipule; 14 et 15, fleur; 16, étamine; 17, style; 18, ovaire en coupe; 19, placentation; 20, infrutescence × 0,6; 21, graine × 2,5.*
+*PL. 65. — Tricalysia concolor (N. Hallé et A. Le Thomas 119) : I, leaf × 0.6; 2, inflorescence insertion viewed at juvenile stage and stipule; 3 and 4, flower; 5, stamen; 6, style; 7, ovary section; 8, peltate uniovulate placenta recto and verso; 9, infructescence × 0.6; 10, section of dry fruit; 11, seed. — T. macrophylla K. Schum. (Klaine 2521; 20, 21, Klaine 2640) : 12, leaf × 0.6; 13, young inflorescence and stipule; 14 and 15, flower; 16, stamen; 17, style; 18, ovary in section; 19, placentation; 20, infructescence × 0.6; 21, seed × 2.5.*
 
 ![Tricalysia concolor](../sources/Rubiaceae_vol17_paddle/figures/fig_068_p0289.png)
 

@@ -7,6 +7,10 @@ family: Scytopetalaceae
 vol: 24
 pages: 70-73
 source: sources/Chrysobalanaceae_vol24_paddle
+countries: [Cameroon, Gabon, Sierra Leone]
+in_region: true
+habit: "tree"
+habitat: [mangrove, riverine, coastal]
 tags: [species, generated]
 ---
 # *Licania elaeosperma* (Mildbraed) Prance & F. White
@@ -69,7 +73,7 @@ Pomeroy 217, R. Okana, 15 km E Mitzic (fl., août).
 
 ![Licania elaeosperma](../sources/Chrysobalanaceae_vol24_paddle/figures/fig_020_p0071.png)
 
-*PL. 20. — Licania elaeosperma (Mildbr.) Prance & F. White : 1, rameau avec fleurs × 4/9; 2, base de jeune feuille × 2; 3, fragment d'inflorescence × 3; 4, bouton floral × 8; 5, fleur × 6; 6, fruit × 2/3; 7, coupe long. du fruit × 2/3. (1, 3-5, Letouzey 601; 2, Letouzey 4299; 6-7, Letouzey 11505).*
+*PL. 20. — Licania elaeosperma (Mildbr.) Prance & F. White : 1, branch with flowers × 4/9; 2, base of young leaf × 2; 3, inflorescence fragment × 3; 4, flower bud × 8; 5, flower × 6; 6, fruit × 2/3; 7, long. sect. of fruit × 2/3. (1, 3-5, Letouzey 601; 2, Letouzey 4299; 6-7, Letouzey 11505).*
 
 ## Notes
 

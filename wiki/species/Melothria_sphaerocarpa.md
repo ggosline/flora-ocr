@@ -7,6 +7,13 @@ family: Cucurbitaceae
 vol: 57
 pages: 80-82
 source: sources/Cucurbitaceae_vol57_paddle
+countries: [Angola, Gabon, Guinea-Bissau, Sudan, Uganda]
+in_region: true
+subdivisions:
+  Gabon: [Estuaire, Ngounié, Nyanga, Woleu-Ntem]
+habit: "herb"
+habitat: [savanna]
+altitude_m: "670"
 tags: [species, generated]
 ---
 # *Melothria sphaerocarpa* (Cogn.) H.Schaef. & S.S.Renner

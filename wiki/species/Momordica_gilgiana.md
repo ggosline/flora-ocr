@@ -7,6 +7,13 @@ family: Cucurbitaceae
 vol: 57
 pages: 93-95
 source: sources/Cucurbitaceae_vol57_paddle
+countries: [Cameroon, Democratic Republic of the Congo, Equatorial Guinea, Gabon]
+in_region: true
+subdivisions:
+  Gabon: [Haut-Ogooué]
+habit: "herb"
+habitat: [swamp forest, secondary forest, primary forest]
+altitude_m: "450–700"
 tags: [species, generated]
 ---
 # *Momordica gilgiana* Cogn.

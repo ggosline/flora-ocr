@@ -7,6 +7,12 @@ family: Leguminosae
 vol: 49
 pages: 355-357
 source: sources/Millettiaspeciesfabaceae_vol49_liteparse
+countries: [Gabon]
+in_region: true
+subdivisions:
+  Gabon: [Haut-Ogooué, Ogooué-Ivindo, Ogooué-Lolo]
+habit: "herb"
+altitude_m: "275–500"
 tags: [species, generated]
 ---
 # *Stylosanthes guianensis* (Aubl.) Sw.

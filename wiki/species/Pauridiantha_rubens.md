@@ -7,6 +7,9 @@ family: Rubiaceae
 vol: 12
 pages: 252-254
 source: sources/Rubiaceae_vol12_paddle
+countries: [Cameroon, Central African Republic, Gabon]
+in_region: true
+habit: "shrub"
 tags: [species, generated]
 ---
 # *Pauridiantha rubens* (Benth.) Bremek.

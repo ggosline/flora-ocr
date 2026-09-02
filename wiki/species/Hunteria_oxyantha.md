@@ -7,6 +7,7 @@ family: Apocynaceae
 vol: 59
 pages: 102-102
 source: sources/Apocynaceae_vol59_liteparse
+habit: "tree"
 tags: [species, generated]
 ---
 # *Hunteria oxyantha* Omino Planche 42 ; Figure 6(D, E)

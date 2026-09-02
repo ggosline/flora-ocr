@@ -7,6 +7,10 @@ family: Begoniaceae
 vol: 39
 pages: 32-34
 source: sources/Begoniaceae_vol39_liteparse
+countries: [Cameroon, Gabon, Nigeria]
+in_region: true
+habitat: [primary forest, rocky ground]
+altitude_m: "560–1250"
 tags: [species, generated]
 ---
 # *Begonia scapigera* Hook.f. subsp. scapigera

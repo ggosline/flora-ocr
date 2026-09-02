@@ -7,6 +7,13 @@ family: Arecaceae
 vol: 53
 pages: 20-22
 source: sources/Arecaceae_vol53_liteparse
+countries: [Cameroon, Democratic Republic of the Congo, Equatorial Guinea, Gabon]
+in_region: true
+subdivisions:
+  Gabon: [Estuaire, Ogooué-Maritime]
+habit: "liana"
+habitat: [savanna]
+altitude_m: "5–50"
 tags: [species, generated]
 ---
 # *Eremospatha cuspidata* (G.Mann & H.Wendl.) H.Wendl. Planche 5, Figure 2C,D

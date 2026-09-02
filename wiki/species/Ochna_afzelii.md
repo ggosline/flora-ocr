@@ -7,6 +7,12 @@ family: Ochnaceae
 vol: 48
 pages: 76-77
 source: sources/Ochnaceae_vol48_liteparse
+countries: [Angola, Gabon, Guinea, Sudan, Tanzania, Uganda, Zambia]
+in_region: true
+subdivisions:
+  Gabon: [Haut-Ogooué, Ogooué-Ivindo, Ogooué-Lolo]
+habitat: [savanna, secondary forest]
+altitude_m: "300–700"
 tags: [species, generated]
 ---
 # *Ochna afzelii* R.Br. ex Oliv. Planche 20

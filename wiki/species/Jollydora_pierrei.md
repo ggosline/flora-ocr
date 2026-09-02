@@ -7,6 +7,9 @@ family: Connaraceae
 vol: 33
 pages: 97-98
 source: sources/Connaraceae_vol33_paddle
+countries: [Gabon]
+in_region: true
+habit: "tree"
 tags: [species, generated]
 ---
 # *Jollydora pierrei* Gilg

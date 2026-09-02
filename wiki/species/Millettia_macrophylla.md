@@ -7,6 +7,11 @@ family: Leguminosae
 vol: 49
 pages: 296-298
 source: sources/Millettiaspeciesfabaceae_vol49_liteparse
+countries: [Cameroon, Equatorial Guinea, Gabon, Nigeria]
+in_region: true
+habit: "tree"
+habitat: [mangrove, secondary forest]
+altitude_m: "20–1100"
 tags: [species, generated]
 ---
 # *Millettia macrophylla* Benth. Planche 95.1,2

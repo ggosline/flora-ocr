@@ -7,6 +7,13 @@ family: Leguminosae
 vol: 49
 pages: 176-178
 source: sources/Millettiaspeciesfabaceae_vol49_liteparse
+countries: [Gabon, Madagascar]
+in_region: true
+subdivisions:
+  Gabon: [Ngounié, Nyanga, Ogooué-Ivindo, Ogooué-Maritime]
+habit: "herb"
+habitat: [savanna]
+altitude_m: "250"
 tags: [species, generated]
 ---
 # *Desmodium velutinum* (Willd.) DC.

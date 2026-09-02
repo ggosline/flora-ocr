@@ -7,6 +7,7 @@ family: Gramineae
 vol: 05
 pages: 255-256
 source: sources/Gramineae_vol05_paddle
+habit: "herb"
 tags: [species, generated]
 ---
 # *Sporobolus molleri* Hack.
@@ -17,15 +18,13 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Small annual herb, approximately fifty centimetres tall; leaves glabrous, sheaths compressed at the base, blades linear, spread or folded, 15–20 × 0.3–0.4 cm.
 
-Petite herbe annuelle, d'une cinquantaine de centimètres de haut environ; feuilles glabres, gaines comprimées à la base, limbes linéaires, étalés ou repliés de  $ 15-20 \times 0,3-0,4 $ cm.
+Inflorescence formed of numerous small unilateral short dense racemes, loosely arranged along a common axis 10 to 20 cm long or more, more or less ascending and finally sub-horizontal. Spikelets subsessile, longly acuminate, 1.5 to 2 mm long. Glumes hyaline, the lower one very short, measuring approximately 1/4 or 1/5 of the spikelet, obtuse; the upper one almost as long as the spikelet, acute. Lemma longly acuminate, membranous, veins indistinct. Palea of the same texture, somewhat shorter.
 
-Inflorescence formée de nombreux petits racèmes unilatéraux courts, denses, disposés de façon lâche le long d'un axe commun de 10 à 20 cm de long ou plus, plus ou moins ascendants et finalement sub-horizontaux. Épillets subsessiles, longuement acuminés, de 1,5 à 2 mm de long. Glumes hyalines, l'inférieure très courte, mesurant environ 1/4 ou 1/5 de l'épillet, obtuse; la supérieure presque aussi longue que l'épillet, aiguë. Lemma longuement acuminée, membraneuse, nervures indistinctes. Palée de même texture, un peu plus courte.
+Known from Cameroon, Ubangi, East Africa, Rhodesia, and Congo.
 
-Connué du Cameroun, de l'Oubangui, de l'Est africain, de la Rhodésie et du Congo.
-
-Petite plante rudérale, non appétée par les bovins.
+Small ruderal plant, not grazed by cattle.
 
 ## Specimens examined
 

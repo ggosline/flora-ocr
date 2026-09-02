@@ -7,6 +7,10 @@ family: Rubiaceae
 vol: 12
 pages: 175-179
 source: sources/Rubiaceae_vol12_paddle
+countries: [Gabon]
+in_region: true
+habit: "liana"
+habitat: [coastal]
 tags: [species, generated]
 ---
 # *Sabicea duparquetiana* Baillon ex Wernh.

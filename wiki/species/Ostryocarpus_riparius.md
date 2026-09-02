@@ -7,6 +7,13 @@ family: Leguminosae
 vol: 49
 pages: 315-315
 source: sources/Millettiaspeciesfabaceae_vol49_liteparse
+countries: [Democratic Republic of the Congo, Gabon, Guinea]
+in_region: true
+subdivisions:
+  Gabon: [Estuaire, Ogooué-Maritime]
+habit: "liana"
+habitat: [mangrove, savanna]
+altitude_m: "0–200"
 tags: [species, generated]
 ---
 # *Ostryocarpus riparius* Hook.f. Planche 102

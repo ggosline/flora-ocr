@@ -7,6 +7,12 @@ family: Convolvulaceae
 vol: 46
 pages: 51-51
 source: sources/Convolvulaceae_vol46_liteparse
+countries: [Gabon, Madagascar]
+in_region: true
+subdivisions:
+  Gabon: [Moyen-Ogooué, Ogooué-Ivindo]
+habit: "herb"
+altitude_m: "500"
 tags: [species, generated]
 ---
 # *Merremia hederacea* (Burm.f.) Hallier f. Planche 21

@@ -7,6 +7,9 @@ family: Icacinaceae
 vol: 20
 pages: 84-86
 source: sources/Icacinaceae_vol20_paddle
+countries: [Gabon, Uganda]
+in_region: true
+altitude_m: "1000"
 tags: [species, generated]
 ---
 # *Pyrenacantha sylvestris* S. Moore
@@ -39,7 +42,7 @@ Hallé N. 3598, Bélinga (fr., déc.). Hallé N. & Le Thomas 700, Bélinga (fr.,
 
 ![Pyrenacantha sylvestris](../sources/Icacinaceae_vol20_paddle/figures/fig_020_p0085.png)
 
-*PL. 20. — Pyrenacantha sylvestris S. Moore : 1, feuilles et infrutescences × 1; 2, sommet du limbe; 3, hydathode; 4, détail du limbe; 5, fleur ♂ × 11; 6, coupe de la fleur ♂ × 11; 7, pétale × 3; 8, 8', 8", étamine × 33; 9, fleur ♀ × 15; 10, coupe de la fleur ♀ × 15; 11, 11', 11", pétale × 13; 12, ovaire × 22; 13, coupe de l'ovaire × 22; 14, fruit × 4,5; 15, face interne de l'endocarpe. (1-4, 14-15, Hallé N. 3598; 5-8, Le Testu 1251; 9-13, Louis 13676).*
+*PL. 20. — Pyrenacantha sylvestris S. Moore : 1, leaves and infructescences × 1; 2, apex of the limb; 3, hydathode; 4, detail of the limb; 5, flower ♂ × 11; 6, section of the flower ♂ × 11; 7, petal × 3; 8, 8', 8", stamen × 33; 9, flower ♀ × 15; 10, section of the flower ♀ × 15; 11, 11', 11", petal × 13; 12, ovary × 22; 13, section of the ovary × 22; 14, fruit × 4,5; 15, internal face of the endocarp. (1-4, 14-15, Hallé N. 3598; 5-8, Le Testu 1251; 9-13, Louis 13676).*
 
 ## Notes
 

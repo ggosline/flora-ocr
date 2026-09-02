@@ -7,6 +7,9 @@ family: Leguminosae
 vol: 31
 pages: 141-147
 source: sources/Leguminosae_vol31_paddle
+countries: [Cameroon, Gabon]
+in_region: true
+habit: "tree"
 tags: [species, generated]
 ---
 # *Albizia zygia* (De Candolle) J.F. Macbride
@@ -71,7 +74,7 @@ Trois variétés sont reconnues : la variété typique, la variété mpwapwensis
 
 ![Albizia zygia](../sources/Leguminosae_vol31_paddle/figures/fig_047_p0142.png)
 
-*PL. 35. – Albizia zygia (DC.) J.F. Macbr.: 1, aspect général × 1; 2, penne, sommet × 2,5; 3,4, foliole terminale × 5; 5, bractéole × 20; 6, bouton floral × 8; 7, fleur basale × 8; 8, anthère × 30; 9, pistil × 12; 10, fleur sommitale × 8; 11, fruit × 1; 12, exocarpe, détail × 2,5; 13, graine × 2,5. (1-3, 5-10, Le Testu 2477 (Centrafrique); 4, Chevalier 16277 (Côte d'Ivoire); 11-12, Bouquet 2138 (Congo); 13, Latilo & Daramola FHI 34476, (Nigeria)).*
+*PL. 35. – Albizia zygia (DC.) J.F. Macbr.: 1, general aspect × 1; 2, pinna, apex × 2.5; 3,4, terminal leaflet × 5; 5, bracteole × 20; 6, flower bud × 8; 7, basal flower × 8; 8, anther × 30; 9, pistil × 12; 10, apical flower × 8; 11, fruit × 1; 12, exocarp, detail × 2.5; 13, seed × 2.5. (1-3, 5-10, Le Testu 2477 (Central African Republic); 4, Chevalier 16277 (Ivory Coast); 11-12, Bouquet 2138 (Congo); 13, Latilo & Daramola FHI 34476, (Nigeria)).*
 
 ![Albizia zygia](../sources/Leguminosae_vol31_paddle/figures/fig_048_p0146.png)
 

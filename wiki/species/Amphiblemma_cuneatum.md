@@ -39,7 +39,7 @@ Hallé N. & Villiers J.-F. 4710, mt Cristal, 6 km S Assok, sous-bois (janv.). Ch
 
 ![Amphibemma cuneatum](../sources/Melastomataceae_vol25_paddle/figures/fig_031_p0089.png)
 
-*PL. 31. — Amphiblemma gosweileri var. humifusum Jacq.-Fél. : 1, aspect général × 2/3; 2, détail de feuille × 2; 3, pétale × 4; 4 & 5, étamines, externe et interne × 8; 6, capsule × 4 (Farron 4858). (Repris d'Adansonia, sér. 2, 13 (4) : tab. 9, 1973).*
+*PL. 31. — Amphiblemma gosweileri var. humifusum Jacq.-Fél. : 1, general aspect × 2/3; 2, leaf detail × 2; 3, petal × 4; 4 & 5, stamens, external and internal × 8; 6, capsule × 4 (Farron 4858). (Reprinted from Adansonia, sér. 2, 13 (4) : tab. 9, 1973).*
 
 ## Notes
 

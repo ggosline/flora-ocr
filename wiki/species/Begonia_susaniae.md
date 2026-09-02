@@ -7,6 +7,10 @@ family: Begoniaceae
 vol: 39
 pages: 63-66
 source: sources/Begoniaceae_vol39_liteparse
+countries: [Cameroon, Gabon]
+in_region: true
+habitat: [secondary forest, primary forest]
+altitude_m: "250–900"
 tags: [species, generated]
 ---
 # *Begonia susaniae* Sosef

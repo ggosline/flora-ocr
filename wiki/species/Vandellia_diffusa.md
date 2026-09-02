@@ -7,6 +7,12 @@ family: Scrophulariaceae
 vol: 48
 pages: 149-151
 source: sources/Scrophulariaceae_vol48_liteparse
+countries: [Burkina Faso, Cameroon, Central African Republic, Cote d'Ivoire, Democratic Republic of the Congo, Equatorial Guinea, Gabon, Ghana, Kenya, Liberia, Madagascar, Nigeria, Republic of the Congo, Sao Tome and Principe, Senegal, Sierra Leone, Tanzania, Togo, Uganda]
+in_region: true
+subdivisions:
+  Gabon: [Estuaire, Moyen-Ogooué, Ngounié, Nyanga, Ogooué-Ivindo, Ogooué-Lolo, Ogooué-Maritime, Woleu-Ntem]
+habit: "herb"
+altitude_m: "0–620"
 tags: [species, generated]
 ---
 # *Vandellia diffusa* L. Planche 51, 54(E–F)
@@ -17,29 +23,21 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Lindernia diffusa (L.) Wettst. in Engl. & Prantl, Nat. Pflanzenfam . 4(3B) : 80 (1891). Herbe annuelle ; tige prostrée à ascendante, à ramifications nombreuses (paraclades), jusqu’à 20 cm de longueur, glabre ou pubescente. Feuille : pétiole 0–3 mm ; limbe ovale à orbiculaire, 10–25 × 8–15 mm, obtus au sommet, marge obtusément crénelée, glabre ou pubescente. Inflorescence lâche, chaque nœud florifère portant 2 fleurs. Fleur : pédicelle 3–4 mm ; calice 6–7 mm de longueur, lobes 2–3 mm de longueur, glabres ou pubescents ; corolle blanc-crème avec des petites taches violacées , tube 4 mm de longueur, lèvre supérieure bipartite et 3 mm de longueur, lèvre inférieure tripartite et 3 mm de longueur ; étamines antérieures (abaxiales) à filets de 3 mm, filets des étamines postérieures (adaxiales) 1 mm ; ovaire ovoïde, 1 mm de longueur ; style 5 mm. Fruit 8–10(–12) mm de longueur, dépassant le calice d’un tiers de sa longueur .
+Lindernia diffusa (L.) Wettst. in Engl. & Prantl, Nat. Pflanzenfam. 4(3B): 80 (1891). Annual herb; stem prostrate to ascending, with numerous ramifications (paraclade), up to 20 cm long, glabrous or pubescent. Leaf: petiole 0–3 mm; blade ovate to orbicular, 10–25 × 8–15 mm, obtuse at apex, margin obtusely crenate, glabrous or pubescent. Inflorescence lax, each floriferous node bearing 2 flowers. Flower: pedicel 3–4 mm; calyx 6–7 mm long, lobes 2–3 mm long, glabrous or pubescent; corolla cream-white with small violaceous spots, tube 4 mm long, upper lip bipartite and 3 mm long, lower lip tripartite and 3 mm long; anterior (abaxial) stamens with filaments 3 mm, filaments of posterior (adaxial) stamens 1 mm; ovary ovoid, 1 mm long; style 5 mm. Fruit 8–10(–12) mm long, exceeding the calyx by one-third of its length.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Sénégal, Sierra Leone, Liberia, Côte d’Ivoire, Burkina Faso, Ghana, Togo, Nigéria, Cameroun, Guinée équatoriale (Annobon, Bioko), Sao Tomé-et-Principe, Gabon, République centrafricaine, République du Congo, République démocratique du Congo, Ouganda, Kenya, Tanzanie et Madagascar ; aussi en Amérique centrale et Amérique du Sud ; au Gabon, observée dans l’Estuaire, le Moyen-Ogooué, la Ngounié, la Nyanga, l’Ogooué-Ivindo, l’Ogooué-Lolo, l’Ogooué-Maritime et le Woleu-Ntem
+Senegal, Sierra Leone, Liberia, Côte d'Ivoire, Burkina Faso, Ghana, Togo, Nigeria, Cameroon, Equatorial Guinea (Annobon, Bioko), São Tomé and Príncipe, Gabon, Central African Republic, Republic of the Congo, Democratic Republic of the Congo, Uganda, Kenya, Tanzania and Madagascar; also in Central America and South America; in Gabon, observed in Estuaire, Moyen-Ogooué, Ngounié, Nyanga, Ogooué-Ivindo, Ogooué-Lolo, Ogooué-Maritime and Woleu-Ntem
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-forêts ombrophiles et galeries forestières, endroits fréquentés, palmeraie, sentiers, clairières, mauvaise herbe des champs ; au Gabon, à 0–620 m d’altitude, en Afrique de l’Est, jusqu’à 1250 m
+Ombrophilous forests and forest galleries, frequented places, palm grove, trails, clearings, field weed; in Gabon, at 0–620 m altitude, in East Africa, up to 1250 m
 
 ## Vernacular names
 
 spreading false pimpernel (angl.). B : Fischer (1992, 1995, 1999), Fischer et al. (2013), Ghazanfar et al. (2008), ibliographie Hepper (1963)
 
 ## Discussion
-
-<!-- TODO:translate — source text below, verbatim and untranslated -->
 
 Fischer (©).
 

@@ -7,6 +7,7 @@ family: Apocynaceae
 vol: 59
 pages: 191-191
 source: sources/Apocynaceae_vol59_liteparse
+habit: "tree"
 tags: [species, generated]
 ---
 # *Pleiocarpa bicarpellata* Stapf Planche 88

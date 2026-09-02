@@ -7,6 +7,9 @@ family: Melastomataceae
 vol: 25
 pages: 71-72
 source: sources/Melastomataceae_vol25_paddle
+countries: [Gabon, Guinea]
+in_region: true
+habit: "shrub"
 tags: [species, generated]
 ---
 # *Calvoa monticola* A. Chevalier ex Hutchinson & Dalziel

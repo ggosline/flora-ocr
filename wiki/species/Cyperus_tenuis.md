@@ -7,6 +7,12 @@ family: Cyperaceae
 vol: 44
 pages: 78-80
 source: sources/Cyperaceae_vol44_liteparse
+countries: [Chad, Gabon, Senegal]
+in_region: true
+subdivisions:
+  Gabon: [Estuaire, Ogooué-Ivindo, Ogooué-Maritime, Woleu-Ntem]
+habit: "herb"
+altitude_m: "1750"
 tags: [species, generated]
 ---
 # *Cyperus tenuis* Sw. Figure 4b

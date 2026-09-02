@@ -7,6 +7,11 @@ family: Apocynaceae
 vol: 59
 pages: 129-132
 source: sources/Apocynaceae_vol59_liteparse
+countries: [Gabon]
+in_region: true
+habit: "liana"
+habitat: [gallery forest, secondary forest]
+altitude_m: "30–600"
 tags: [species, generated]
 ---
 # *Landolphia landolphioides* (Hallier f.) A.Chev. Planche 55

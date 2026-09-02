@@ -7,6 +7,7 @@ family: Leguminosae
 vol: 15
 pages: 55-55
 source: sources/Leguminosae_vol15_paddle
+habit: "shrub"
 tags: [species, generated]
 ---
 # *Cassia alata* L. (P.L. 8, p. 55)
@@ -45,7 +46,7 @@ Mann : 1000, Gaboon River.
 
 ![Cassia alata](../sources/Leguminosae_vol15_paddle/figures/fig_008_p0056.png)
 
-*PL. VIII. — Cassia hirsuta L. : 1, foliole; 1', fruit × 2 /3. — Cassia mimosoides L. 2, feuille et fruit × 2 /3. — Cassia occidentalis L. : 3, feuille, 3', fruit × 2 /3. — Cassia obtusifolia L. : 4, foliole; 4', fruit × 2 /3. — Cassia Kirkii Oliv. : 5, feuille et fruit × 2 /3, et foliole × 2. — Cassia alata L. : 6, foliole; 6', fruit et sa coupe transversale × 2 /3.*
+*PL. VIII. — Cassia hirsuta L. : 1, leaflet; 1', fruit × 2/3. — Cassia mimosoides L. 2, leaf and fruit × 2/3. — Cassia occidentalis L. : 3, leaf, 3', fruit × 2/3. — Cassia obtusifolia L. : 4, leaflet; 4', fruit × 2/3. — Cassia Kirkii Oliv. : 5, leaf and fruit × 2/3, and leaflet × 2. — Cassia alata L. : 6, leaflet; 6', fruit and its transverse section × 2/3.*
 
 ## Notes
 

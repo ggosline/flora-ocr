@@ -7,6 +7,8 @@ family: Aspleniaceae
 vol: 08
 pages: 142-144
 source: sources/Aspleniaceae_vol08_paddle
+countries: [Cameroon, Cote d'Ivoire, Ghana, Guinea, Liberia, Sierra Leone, Togo]
+in_region: true
 tags: [species, generated]
 ---
 # *Asplenium megalura* Hieronymus (P.L. XXIII)

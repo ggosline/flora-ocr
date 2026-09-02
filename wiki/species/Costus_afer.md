@@ -6,12 +6,11 @@ genus: Costus
 family: Zingiberaceae
 family_current: Costaceae
 synonyms: [Costus obliterans K. Schum., Costus anomocalyx K. Schum., Costus dubius K. Schum., Costus insularis A. Chev.]
-countries: [Sierra Leone, Côte d'Ivoire, Gabon]
 range_note: "common through forest regions of tropical Africa"
-in_region: true
-habit: robust rhizomatous herb to 3 m
-habitat: [forest understorey]
 treatments: [{vol: 9, pages: "86–88", source: sources/Zingiberaceae_vol9_paddle}]
+countries: [Gabon, Sierra Leone]
+in_region: true
+habit: "herb"
 tags: [species]
 ---
 # *Costus afer* Ker Gawl.

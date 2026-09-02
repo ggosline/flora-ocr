@@ -7,6 +7,13 @@ family: Cyperaceae
 vol: 44
 pages: 185-186
 source: sources/Cyperaceae_vol44_liteparse
+countries: [Angola, Cameroon, Democratic Republic of the Congo, Gabon]
+in_region: true
+subdivisions:
+  Gabon: [Estuaire, Moyen-Ogooué, Ngounié, Nyanga, Ogooué-Maritime, Woleu-Ntem]
+habit: "herb"
+habitat: [secondary forest]
+altitude_m: "50–700"
 tags: [species, generated]
 ---
 # *Mapania soyauxii* (Boeckeler) H.Pfeiff. Figure 21a

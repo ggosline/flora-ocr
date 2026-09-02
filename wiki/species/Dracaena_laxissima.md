@@ -7,6 +7,13 @@ family: Dracaenaceae
 vol: 54
 pages: 39-41
 source: sources/Dracaenaceae_vol54_liteparse
+countries: [Burundi, Cameroon, Central African Republic, Democratic Republic of the Congo, Equatorial Guinea, Gabon, Kenya, Malawi, Mozambique, Nigeria, Republic of the Congo, Rwanda, Sao Tome and Principe, Sudan, Tanzania, Uganda, Zambia]
+in_region: true
+subdivisions:
+  Gabon: [Estuaire, Moyen-Ogooué, Ngounié, Ogooué-Ivindo, Ogooué-Lolo, Ogooué-Maritime, Woleu-Ntem]
+habit: "shrub"
+habitat: [mangrove]
+altitude_m: "0–900"
 tags: [species, generated]
 ---
 # *Dracaena laxissima* Engl. Planche 14

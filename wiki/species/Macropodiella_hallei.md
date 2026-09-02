@@ -7,6 +7,10 @@ family: Podostemaceae
 vol: 51
 pages: 49-49
 source: sources/Podostemaceae_vol51_liteparse
+countries: [Gabon]
+in_region: true
+subdivisions:
+  Gabon: [Ogooué-Ivindo]
 tags: [species, generated]
 ---
 # *Macropodiella hallei* C.Cusset Planche 21

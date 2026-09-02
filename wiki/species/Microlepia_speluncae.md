@@ -34,7 +34,7 @@ N. Hallé : 1206, Makokou; 1315, Massar, région de Makokou. Pobéguin : 58, Moa
 
 ![Microlepia speluncae](../sources/Dennstaedtiaceae_vol08_paddle/figures/fig_014_p0075.png)
 
-*PL. XI. — Arthropteris Palisoti (Desv.) Alston (Düsen) : 1, aspect général × 1/2; 2, une penne × 1. — Microlepia speluncae (L.) Moore (Letouzey 3600); 3, une penne × 2/3; 4, un lobe, face inférieure × 3; 5, sore × 9; — Davallia chaerophylloides (Poir.) Steud. (N. Hallé 927); 6, une penne × 2/3; 7, une pinnule × 3; 8, un sore × 6. — Humata repens (L. f.) Diels (Staudt 311) : 9, un lobe avec nervation et sores × 4.*
+*PL. XI. — Arthropteris Palisoti (Desv.) Alston (Düsen) : 1, general aspect × 1/2; 2, a pinna × 1. — Microlepia speluncae (L.) Moore (Letouzey 3600); 3, a pinna × 2/3; 4, a lobe, lower surface × 3; 5, sorus × 9; — Davallia chaerophylloides (Poir.) Steud. (N. Hallé 927); 6, a pinna × 2/3; 7, a pinnule × 3; 8, a sorus × 6. — Humata repens (L. f.) Diels (Staudt 311) : 9, a lobe with venation and sori × 4.*
 
 ## Notes
 

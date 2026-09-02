@@ -7,17 +7,15 @@ family: Ebenaceae
 status: spec. nov.
 type_specimen: "Cameroon, South Province, Mvila Division, about 30 km on the road from Ebolowa to Minkok and then about 2 km west along a forest exploitation track, 620 m altitude, fl. male, 6 Jul 1975, J.J.F.E. de Wilde 8273 (holotype: K; isotypes: WA, G)"
 synonyms: []
-habit: tree
-habitat: [evergreen forest, mature forest on heavy clay, secondary forest after exploitation]
-altitude_m: "50-620"
-countries: [Cameroon]
-in_region: true
 treatments:
   - kind: article
     year: 2009
     citation: "Gosline G. (2009). Diospyros korupensis sp. nov. and Diospyros onanae sp. nov. (Ebenaceae) from Cameroon. Nordic Journal of Botany: 355-358."
     pages: "355-358"
     source: sources/articles/nordic_journal_of_botany_2009_gosline_diospyros_korupensis_sp_nov_and_diospyros_onanae_sp_nov_ebenaceae_from/liteparse
+countries: [Cameroon]
+in_region: true
+habit: "tree"
 tags: [species, novelty]
 ---
 

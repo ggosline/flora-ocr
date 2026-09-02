@@ -7,6 +7,8 @@ family: Orchidaceae
 vol: 37
 pages: 235-237
 source: sources/Orchidaceae_vol37_paddle
+countries: [Cameroon, Democratic Republic of the Congo, Gabon, Ghana, Nigeria]
+in_region: true
 tags: [species, generated]
 ---
 # *Angraecum angustipetalum* Rendle
@@ -45,7 +47,7 @@ Inflorescence 1-4-flowered. Peduncle prominent, generally much longer than the i
 
 ![Angraecum angustipetalum](../sources/Orchidaceae_vol37_paddle/figures/fig_116_p0236.png)
 
-*PL. 222. – Angraecum angustipetalum Rendle : A, D, vue générale ; B, fleur, tépales enlevés ; C, labelle étalé ; E, feuille ; F, fleur et bractée. – Angraecum chevalieri Summerh. : G, fleur et bractée ; H, labelle étalé ; I, sépale dorsal ; J, pétale ; K, sépale latéral ; L, feuilles (A-C, ex TalbOT, 1913, modifié ; D-F, Annet 415, P ; G-L, Chevalier 21690, P).*
+*PL. 222. – Angraecum angustipetalum Rendle : A, D, general view ; B, flower, tepals removed ; C, lip spread out ; E, leaf ; F, flower and bract. – Angraecum chevalieri Summerh. : G, flower and bract ; H, lip spread out ; I, dorsal sepal ; J, petal ; K, lateral sepal ; L, leaves (A-C, ex TalbOT, 1913, modified ; D-F, Annet 415, P ; G-L, Chevalier 21690, P).*
 
 ## Notes
 

@@ -7,6 +7,9 @@ family: Leguminosae
 vol: 15
 pages: 233-235
 source: sources/Leguminosae_vol15_paddle
+countries: [Gabon]
+in_region: true
+habit: "tree"
 tags: [species, generated]
 ---
 # *Gilbertiodendron klainei* (Pierre ex Pellegr.)

@@ -7,6 +7,9 @@ family: Annonaceae
 vol: 16
 pages: 0-0
 source: sources/Annonaceae_vol16_mineru
+countries: [Cameroon, Central African Republic, Gabon]
+in_region: true
+habit: "liana"
 tags: [species, generated]
 ---
 # *Artabotrys rufus* De Wildeman

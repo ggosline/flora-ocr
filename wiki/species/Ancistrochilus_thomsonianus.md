@@ -7,6 +7,8 @@ family: Orchidaceae
 vol: 36
 pages: 107-109
 source: sources/Orchidaceae_vol36_paddle
+countries: [Cameroon, Central African Republic, Equatorial Guinea, Gabon, Nigeria]
+in_region: true
 tags: [species, generated]
 ---
 # *Ancistrochilus thomsonianus* (Rchb.f.) Rolfe

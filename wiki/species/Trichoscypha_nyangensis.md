@@ -7,6 +7,13 @@ family: Anacardiaceae
 vol: 50
 pages: 47-47
 source: sources/Anacardiaceae_vol50_liteparse
+countries: [Gabon]
+in_region: true
+subdivisions:
+  Gabon: [Nyanga]
+habit: "tree"
+habitat: [secondary forest]
+altitude_m: "200–300"
 tags: [species, generated]
 ---
 # *Trichoscypha nyangensis* Pellegr. Planche 18
@@ -17,27 +24,19 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Arbre de ± 12 m de hauteur ; rameaux, pétioles, rachis et pétiolules à indument pubérulent, apprimé, plus éparsement sur les folioles dessous. Feuille : pétiole ± 15 cm, profondément canaliculé dessus, à bords minces et réfléchis ; folioles 15 à 21, opposées à subopposées, pétiolule 8–10 mm, à limbe oblong-lancéolé, 12–18(–20) × 3,5–6(–7) cm, arrondie à la base, sommet acuminé sur 5–10 mm, coriace, à nervure médiane imprimée et glabre dessus , proéminente dessous, nervures latérales en 14 à 18 paires , indistinctes dessus, proéminentes dessous. Inflorescence jusqu’à 30 cm de longueur, à pilosité roussâtre. Fleurs (4–)5-mères, pourpres. Fleur mâle : pédicelle 4–5 mm, velu ; calice courtement lobé, 2,5–3 mm de longueur, velu à l’extérieur ; pétales oblongs, ± 5 mm de longueur, épais, velu à l’extérieur, cucullés au sommet ; disque velu ; étamines plus courtes que les pétales, glabres ou à quelques poils sur les anthères longues de ± 3–3,5 mm , plus longues que les filets. Fleur femelle : pédicelle 5–6 mm ; calice et corolle semblables à ceux de la fleur mâle ; staminodes nettement plus courts que les pétales ; pistil ± 3 mm de longueur, velu ; stigmates 3, subsessiles . Fruit inconnu.
+Tree of ± 12 m in height; branches, petioles, rachis and petiolules with puberulent, appressed indumentum, more sparsely on the leaflets beneath. Leaf: petiole ± 15 cm, deeply channelled above, with thin and reflexed margins; leaflets 15 to 21, opposite to subopposite, petiolule 8–10 mm, with oblong-lanceolate lamina, 12–18(–20) × 3.5–6(–7) cm, rounded at the base, apex acuminate over 5–10 mm, coriaceous, with midvein impressed and glabrous above, prominent beneath, lateral veins in 14 to 18 pairs, indistinct above, prominent beneath. Inflorescence up to 30 cm in length, with reddish-brown pubescence. Flowers (4–)5-merous, purple. Male flower: pedicel 4–5 mm, hairy; calyx shortly lobed, 2.5–3 mm in length, hairy on the outside; petals oblong, ± 5 mm in length, thick, hairy on the outside, cucullate at the apex; disk hairy; stamens shorter than the petals, glabrous or with some hairs on the anthers ± 3–3.5 mm long, longer than the filaments. Female flower: pedicel 5–6 mm; calyx and corolla similar to those of the male flower; staminodes distinctly shorter than the petals; pistil ± 3 mm in length, hairy; stigmas 3, subsessile. Fruit unknown.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-endémique du Gabon, seulement connu de la Nyanga où il n’a été récolté qu’une fois en 1915
+endemic to Gabon, known only from Nyanga where it was collected only once in 1915
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-forêt primaire ou secondarisée ; à environ 200–300 m d’altitude
+primary or secondarized forest; at approximately 200–300 m altitude
 
 ## Source note
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Le matériel original est composé de feuilles, des inflorescences mâles et femelles, et accompagné d’une observation du récolteur disant : « polygames ou dioïque ( ?) je crois plutôt polygames ». La deuxième collection citée comme T. nyangensis dans Check-list des Plantes Vasculaires du Gabon (Sosef et al. 2006) n’appartient pas à cette espèce. Elle reste indéterminée. B : Breteler (2004). i B liographie
+The original material consists of leaves, male and female inflorescences, and is accompanied by an observation of the collector stating: "polygamous or dioecious (?) I believe rather polygamous". The second collection cited as T. nyangensis in Check-list of Vascular Plants of Gabon (Sosef et al. 2006) does not belong to this species. It remains undetermined. B: Breteler (2004). Bibliography
 
 ## Notes
 

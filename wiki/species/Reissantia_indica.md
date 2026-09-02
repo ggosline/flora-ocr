@@ -7,6 +7,8 @@ family: Celastraceae
 vol: 29
 pages: 192-196
 source: sources/Celastraceae_vol29_paddle
+countries: [Angola, Cameroon, Equatorial Guinea, Gabon, Guinea, Senegal, Uganda]
+in_region: true
 tags: [species, generated]
 ---
 # *Reissantia indica* (Willdenow) Hallé

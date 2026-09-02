@@ -7,6 +7,12 @@ family: Leguminosae
 vol: 49
 pages: 359-359
 source: sources/Millettiaspeciesfabaceae_vol49_liteparse
+countries: [Angola, Gabon, Guinea, Sudan, Tanzania]
+in_region: true
+subdivisions:
+  Gabon: [Moyen-Ogooué, Nyanga, Ogooué-Ivindo]
+habit: "herb"
+altitude_m: "100–800"
 tags: [species, generated]
 ---
 # *Tephrosia elegans* Schumach. Planche 121

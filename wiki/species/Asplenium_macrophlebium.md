@@ -7,6 +7,8 @@ family: Aspleniaceae
 vol: 08
 pages: 138-139
 source: sources/Aspleniaceae_vol08_paddle
+countries: [Cameroon, Guinea]
+in_region: true
 tags: [species, generated]
 ---
 # *Asplenium macrophlebium* Baker

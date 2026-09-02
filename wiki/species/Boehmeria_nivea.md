@@ -7,6 +7,13 @@ family: Urticaceae
 vol: 51
 pages: 58-59
 source: sources/Urticaceae_vol51_liteparse
+countries: [Cameroon, Gabon]
+in_region: true
+subdivisions:
+  Gabon: [Estuaire, Ngounié]
+habit: "tree"
+habitat: [evergreen forest]
+altitude_m: "70–1700"
 tags: [species, generated]
 ---
 # *Boehmeria nivea* (L.) Gaudich.

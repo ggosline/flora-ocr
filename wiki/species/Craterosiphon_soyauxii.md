@@ -7,6 +7,7 @@ family: Thymeleaceae
 vol: 11
 pages: 60-62
 source: sources/Thymeleaceae_vol11_paddle
+habit: "shrub"
 tags: [species, generated]
 ---
 # *Craterosiphon soyauxii* H.H.W. Pears.
@@ -37,7 +38,7 @@ Le Testu : 9626, Evorombil, région d'Oyem (f., fl., juil.). Soyaux : 263, Siban
 
 ![Craterosiphon soyauxii](../sources/Thymeleaceae_vol11_paddle/figures/fig_008_p0061.png)
 
-*PL. VIII. — Craterosiphon Soyauxii H.H.W. Pears. : 1, rameau florifère (× 2/3); 2, fragment de rameau (× 3); 3, fleur ouverte (× 3); 4, disque hypogyne (× 8); 5, fruit (× 2/3); 6, graine de face et de profil, (× 2/3). — 1 à 4, Le Testu 9626; 5 et 6, Soyaux 263, type.*
+*PL. VIII. — Craterosiphon Soyauxii H.H.W. Pears. : 1, flowering branch (× 2/3); 2, branch fragment (× 3); 3, open flower (× 3); 4, hypogynous disk (× 8); 5, fruit (× 2/3); 6, seed in front and profile view, (× 2/3). — 1 to 4, Le Testu 9626; 5 and 6, Soyaux 263, type.*
 
 ## Notes
 

@@ -5,11 +5,10 @@ authority: Hook. f.
 genus: Impatiens
 family: Balsaminaceae
 synonyms: []
-countries: [Cameroon, Equatorial Guinea, Gabon, Uganda]
-countries_incomplete: true
-in_region: true
-habit: herb
 treatments: [{vol: 4, pages: "35–36", source: sources/Balsaminaceae_vol4_paddle}]
+countries: [Guinea, Uganda]
+in_region: false
+habit: "herb"
 tags: [species]
 ---
 

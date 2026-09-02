@@ -7,6 +7,9 @@ family: Combretaceae
 vol: 35
 pages: 71-72
 source: sources/Combretaceae_vol35_paddle
+countries: [Gabon]
+in_region: true
+habit: "liana"
 tags: [species, generated]
 ---
 # *Combretum oudenhovenii* Jongkind
@@ -57,7 +60,7 @@ Wieringa 1070, item (fl., Mai), LBV, WAG ; 1226, id. (fl., Juil.), LBV, WAG. Wie
 
 ![Combretum oudenhovenii](../sources/Combretaceae_vol35_paddle/figures/fig_002_p0018.png)
 
-*PL. 2. – Combretum oudenhovenii Jongkind : A1, petite feuille ; A2, grande feuille ; A3, écaille. – C. echinense Jongkind : B1, feuille ; B2, écaille. – C. adrianii Jongkind : D1, feuille ; C2, écaille. – C. esteriense Jongkind : C1, feuille ; D2, écaille. – C. ndjoleense Jongkind : E1, feuille ; E2, écaille. – Dessins de C.C.H. JongKIND Department of plant Taxonomy. Agricultural University. WAGENINGEN (Pays-Bas).*
+*PL. 2. – Combretum oudenhovenii Jongkind : A1, small leaf ; A2, large leaf ; A3, scale. – C. echinense Jongkind : B1, leaf ; B2, scale. – C. adrianii Jongkind : D1, leaf ; C2, scale. – C. esteriense Jongkind : C1, leaf ; D2, scale. – C. ndjoleense Jongkind : E1, leaf ; E2, scale. – Drawings by C.C.H. JongKIND Department of plant Taxonomy. Agricultural University. WAGENINGEN (Netherlands).*
 
 ![Combretum oudenhovenii](../sources/Combretaceae_vol35_paddle/figures/fig_011_p0044.png)
 
@@ -71,7 +74,7 @@ PL. 11 – Combretum oudenhovenii Jongkind : A, fleur. – C. echirense Jongkind
 
 ![Combretum oudenhovenii](../sources/Combretaceae_vol35_paddle/figures/fig_023_p0086.png)
 
-*PL. 23. – Combretum robustum Jongkind : 1, rameau florifère ; 2, fleur, entière et coupe longitudinale (1, 2, de Wilde & Jongkind 9600). – Combretum mortehanii de Wildeman & Exell : 3, rameau ; 4, fruits 5, fleur, vue de dessus et profil (3, 4, Breteler & Jongkind 107005 ; 5, Tissérant 2332). – Combretum oudenhovenii Jongkind : 6, fleur entière et coupe longitudinale (6, Breteler & al. 9650). – Dessins originaux de Joanne Davies (Department of plant Taxonomy, Agricultural University, WAGENINGEN (Pays-Bas)).*
+*PL. 23. – Combretum robustum Jongkind : 1, flowering branch ; 2, flower, entire and longitudinal section (1, 2, de Wilde & Jongkind 9600). – Combretum mortehanii de Wildeman & Exell : 3, branch ; 4, fruits 5, flower, view from above and profile (3, 4, Breteler & Jongkind 107005 ; 5, Tissérant 2332). – Combretum oudenhovenii Jongkind : 6, entire flower and longitudinal section (6, Breteler & al. 9650). – Original drawings by Joanne Davies (Department of plant Taxonomy, Agricultural University, WAGENINGEN (Netherlands)).*
 
 ## Notes
 

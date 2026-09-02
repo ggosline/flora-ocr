@@ -7,6 +7,7 @@ family: Melastomataceae
 vol: 25
 pages: 160-160
 source: sources/Melastomataceae_vol25_paddle
+habit: "tree"
 tags: [species, generated]
 ---
 # *Warneckea floribunda* Jacques-Félix
@@ -17,13 +18,11 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Small tree; branchlets rounded. Leaves slightly coriaceous, dark green and shiny above, pale green and dull below; petiole slender, 5–8 mm long; lamina elliptic, 4.5 × 9 cm, narrowly cuneate on the petiole; acumen indistinct, obtuse; veins impressed above, prominent below, the main convergent ones arched with the 5–8 main transverse veins; the additional ones fine, submarginai and arched; reticulum finely prominent below.
 
-Petit arbre; rameaux arrondis. Feuilles peu coriaces, vert foncé et brillantes dessus, vert pâle et ternes dessous; pétiole grêle, long de 5 à 8 mm; limbe elliptique, 4,5 × 9 cm, en coin étroit sur le pétiole; acumen peu précis, obtus; nervures imprimées dessus, saillantes dessous, les convergentes principales coarquées avec les 5-8 transversales principales; les additionnelles fines, submarginales et coarquées; réticulum finement saillant dessous.
+Cymes fascicled in groups of 8–12 on the nodes of old wood, 3 cm long, with a stipe of 8–10 mm, then 1–2 tiers of short branchlets bearing flowers with long pedicels; bracts long-persistent, scarious, 1–1.5 mm long. Flower with pedicel 12–18 mm; floral bud 4 × 4.5 mm, corolla conical, well-exserted; hypanthium cupulate-patelliforrn, calyx lobes incised to the base, triangular-obtuse, 2 × 1 mm. Petals thick, semi-oval, 2.5 × 3.5 mm, obscurely clawed. Anthers 1.3 × 1.2 mm, thecae somewhat convex; connective short, divergent especially at the base, strongly saddle-shaped by the gland which occupies two-thirds of the length; filament 1.5 mm. Epigynous chamber smooth; style 4 mm. Ovary with 2 more or less complete septa, 8-ovulate.
 
-Cymes fasciculées par 8-12 sur les nœuds du vieux bois, longues de 3 cm, avec un stipe de 8-10 mm, puis 1-2 étages de rameaux courts portant les fleurs longuement pédicélées; bractées longuement persistantes, scarièuses, longues de 1-1,5 mm. Fleur à pédicelle de 12-18 mm; bouton floral de 4 × 4,5 mm, corolle conique, bien dégagée; hypanthe cupulo-patellé, lobes du calice incisés jusqu'à la base, triangulaires-obtus, 2 × 1 mm. Pétales épais, semi-ovales, 2,5 × 3,5 mm, obscurément onguiculés. Anthères 1,3 × 1,2 mm, thèques un peu convexes; connectif court, divergent surtout à la base, très ensellé par la glande qui occupe les 2/3 de la longueur; filet 1,5 mm. Chambre épigyne lisse; style 4 mm. Ovaire avec 2 cloisons plus ou moins complètes, 8-ovulé.
-
-Fruit non connu. — Pl. 58, p. 159.
+Fruit unknown. — Pl. 58, p. 159.
 
 ## Type
 
@@ -31,9 +30,7 @@ Le Testu 7710, Gabon (P)
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Cette espèce est manifestement proche de W. sapinii DE WILD.; et a été récoltée dans la même région. Cependant, nous l'en avons distinguée, par ses différents organes plus grands, et par une conformation staminale différente. La question est à étudier sur place.
+This species is manifestly close to W. sapinii DE WILD.; and was collected in the same region. Nevertheless, we have distinguished it from the latter by its various organs being larger, and by a different staminai configuration. The question requires study in the field.
 
 ## Specimens examined
 

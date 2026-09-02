@@ -7,6 +7,8 @@ family: Dichapetalaceae
 vol: 32
 pages: 53-57
 source: sources/Dichapetalaceae_vol32_paddle
+countries: [Angola, Cameroon, Democratic Republic of the Congo, Equatorial Guinea, Gabon, Zambia]
+in_region: true
 tags: [species, generated]
 ---
 # *Dichapetalum bangii* (F. Didrichsen) Engler
@@ -81,7 +83,7 @@ Le Testu 9099, Médoumou (fl., May); 9390, Malène (fl., Nov.).
 
 ![Dichapetalum bangii](../sources/Dichapetalaceae_vol32_paddle/figures/fig_010_p0056.png)
 
-*PL. 9. – Dichapetalum bangii (F. Didrichsen) Engler : 1, rameau florifère × 0,5 ; 2, stipule supérieure × 2 ; 3, stipule inférieure × 2 ; 4, feuille, face inférieure × 0,5 ; 5, indumentum foliaire, détail × 2 ; 6, fleur × 5 ; 7, pistil et staminodes × 5 ; 8, staminode × 10 ; 9, fruit 2-sperme × 1 ; 10, fruit 1-sperme × 1 ; 11, fruit 3-sperme vu de dessus × 1 ; 12, graine × 1 (1, 6-8, Zenker 1384 ; 2-5, Le Testu 9099 ; 9, W. de Wilde 2856 ; 10, Bos 5365 ; 11, 12, N. Hallé 1945). – Repris de MLW 73 (13) : 70 (1973).*
+*PL. 9. – Dichapetalum bangii (F. Didrichsen) Engler : 1, flowering branch × 0,5 ; 2, upper stipule × 2 ; 3, lower stipule × 2 ; 4, leaf, lower surface × 0,5 ; 5, leaf indumentum, detail × 2 ; 6, flower × 5 ; 7, pistil and staminodes × 5 ; 8, staminode × 10 ; 9, 2-seeded fruit × 1 ; 10, 1-seeded fruit × 1 ; 11, 3-seeded fruit seen from above × 1 ; 12, seed × 1 (1, 6-8, Zenker 1384 ; 2-5, Le Testu 9099 ; 9, W. de Wilde 2856 ; 10, Bos 5365 ; 11, 12, N. Hallé 1945). – Taken from MLW 73 (13) : 70 (1973).*
 
 ## Notes
 

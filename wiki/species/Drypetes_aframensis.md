@@ -7,6 +7,11 @@ family: Putranjivaceae
 vol: 57
 pages: 121-123
 source: sources/Putranjivaceae_vol57_paddle
+countries: [Cameroon, Cote d'Ivoire, Democratic Republic of the Congo, Gabon, Ghana, Nigeria]
+in_region: true
+subdivisions:
+  Gabon: [Estuaire, Ogooué-Maritime]
+habit: "tree"
 tags: [species, generated]
 ---
 # *Drypetes aframensis* Hutch.

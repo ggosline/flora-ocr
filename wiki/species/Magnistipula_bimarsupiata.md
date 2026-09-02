@@ -7,6 +7,9 @@ family: Scytopetalaceae
 vol: 24
 pages: 75-76
 source: sources/Chrysobalanaceae_vol24_paddle
+countries: [Cameroon, Gabon]
+in_region: true
+habit: "tree"
 tags: [species, generated]
 ---
 # *Magnistipula bimarsupiata* R. Letouzey
@@ -49,7 +52,7 @@ Bernard 507 SRF, Equata (= Ekwata), 80 km NE Port Gentil (fl.). Quint RICC 163 S
 
 ![Magnistipula bimarsupiata](../sources/Chrysobalanaceae_vol24_paddle/figures/fig_021_p0077.png)
 
-*PL. 21. — Magnistipula bimarsupiata R. Let. : 1, rameau avec fleurs et galle × 2/3; 2, rameau avec galle × 2/3; 3, glandes foliaires × 2/3; 4, 5, base du limbe × 3/2; 6, fleur ouverte (pét. excl.) × 5. (1, 6, Bernard 507 SRF; 2, 3, RICC 3; 4, 5, Quint RICC 163 SRF). (Repris d'Adansonia 16 (2) : tab. 1, 1976).*
+*PL. 21. — Magnistipula bimarsupiata R. Let. : 1, branch with flowers and gall × 2/3; 2, branch with gall × 2/3; 3, foliar glands × 2/3; 4, 5, base of the limb × 3/2; 6, open flower (pet. excl.) × 5. (1, 6, Bernard 507 SRF; 2, 3, RICC 3; 4, 5, Quint RICC 163 SRF). (Taken from Adansonia 16 (2) : tab. 1, 1976).*
 
 ## Notes
 

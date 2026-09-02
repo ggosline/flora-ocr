@@ -5,11 +5,8 @@ authority: (L.) Link
 genus: Alternanthera
 family: Amaranthaceae
 synonyms: []
-countries: [Gabon]
-countries_incomplete: true
-in_region: true
-habit: prostrate herb
 treatments: [{vol: 7, pages: "43–44", source: sources/Amaranthaceae_vol7_paddle}]
+habit: "herb"
 tags: [species]
 ---
 

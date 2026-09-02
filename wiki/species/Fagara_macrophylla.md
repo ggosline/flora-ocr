@@ -5,11 +5,11 @@ authority: (Oliv.) Engl.
 genus: Fagara
 family: Rutaceae
 synonyms: [Zanthoxylum macrophyllum, Fagara gabonensis, Fagara gilletii, Fagara macrophylla var. preussii]
-countries: [Gabon, Cameroon, Nigeria, Democratic Republic of the Congo, Angola]
 range_note: "Widespread in tropical West and Central Africa, east to Sudan."
-in_region: true
-habit: tree
 treatments: [{vol: 6, pages: "21–26", source: sources/Rutaceae_vol6_paddle}]
+countries: [Angola, Sudan]
+in_region: true
+habit: "tree"
 tags: [species]
 ---
 

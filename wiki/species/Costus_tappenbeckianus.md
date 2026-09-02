@@ -6,11 +6,10 @@ genus: Costus
 family: Zingiberaceae
 family_current: Costaceae
 synonyms: [Costus radicans Gagnep., Costus pauciflorus K. Schum.]
+treatments: [{vol: 9, pages: "74–76", source: sources/Zingiberaceae_vol9_paddle}]
 countries: [Cameroon, Gabon]
 in_region: true
-habit: small rhizomatous herb
-habitat: [humid forest understorey]
-treatments: [{vol: 9, pages: "74–76", source: sources/Zingiberaceae_vol9_paddle}]
+habit: "herb"
 tags: [species]
 ---
 # *Costus tappenbeckianus* J. Braun et K. Schum.

@@ -7,6 +7,8 @@ family: Rubiaceae
 vol: 17
 pages: 79-82
 source: sources/Rubiaceae_vol17_paddle
+countries: [Cameroon, Gabon]
+in_region: true
 tags: [species, generated]
 ---
 # *Leptactina baudoni* De Wild.
@@ -54,7 +56,7 @@ R. P. Klaine s. n., 317, 521 a, 1705, 1722, 1772, 1790, 2250, env. de Libreville
 
 ![Leptactina baudoni](../sources/Rubiaceae_vol17_paddle/figures/fig_017_p0081.png)
 
-*PL. .17 — Leptactina Leopoldi-II (N. Hallé 3556; 2, 8, N.H. 1232; 10, Koechlin 2984) : 1, extrémité florifère × 0,75; 2, stipule; 3, calice et ovaire en coupe × 1,5; 4, sépale × 1,5; 5, coupe de la fleur au niveau de l'andocée; 6, étamine × 2,8; 7, ovules sur placentas, recto et verso; 8, infrutescence × 0,75; 9, coupe du fruit; 10, graine × 6; — L. latifolia K. Schum. (N. H. 934) : 11, fruit × 1; 12, coupe du fruit; 13, graine × 6.*
+*PL. .17 — Leptactina Leopoldi-II (N. Hallé 3556; 2, 8, N.H. 1232; 10, Koechlin 2984) : 1, flowering end × 0.75; 2, stipule; 3, calyx and ovary in section × 1.5; 4, sepal × 1.5; 5, section of the flower at the level of the androecium; 6, stamen × 2.8; 7, ovules on placentas, front and back; 8, infructescence × 0.75; 9, section of the fruit; 10, seed × 6; — L. latifolia K. Schum. (N. H. 934) : 11, fruit × 1; 12, section of the fruit; 13, seed × 6.*
 
 ## Notes
 

@@ -7,6 +7,9 @@ family: Sapindaceae
 vol: 23
 pages: 140-142
 source: sources/Sapindaceae_vol23_paddle
+countries: [Gabon]
+in_region: true
+habit: "shrub"
 tags: [species, generated]
 ---
 # *Crossonephelis unijugatus* (Pellegrin) Leenhouts
@@ -39,7 +42,7 @@ Le Testu 1865, 1866, Mayombe bayaka, Tchibanga (fl. ♀, fl. ♂, nov.).
 
 ![Crossonephelis unijugatus](../sources/Sapindaceae_vol23_paddle/figures/fig_034_p0141.png)
 
-*PL. 33. — Lecaniodiscus cupanioides Planch. (1-3", Zenker 4890; 4-5', Rowlan s.n.; 6, 6', Letouzey 4818) : 1, portion de feuille, grande foliole 6 × 14 cm et grappe ♀; 1', cymule unifloire; 2, fleur nouée 8 mm; 2', coupe de fleur ♀; 3, staminode 2,5 mm; 3', stigmate tilobé; 3', coupe transversale d'ovaire; 4, grappe ♂ 5 cm; 4', cymule bifloire; 5, bouton fleur ♂; 5', coupe transversale de pistillode; 6, grappe de fruits; 6', coupe longitudinale de fruit 2 cm. — Crossonephelis unijugatus (Aubr. & Pellegrin) Leenhouts (7-7', Le Testu 1866; 8, 8", Le Testu 1865); 7, feuille et inflorescence, foliole 17 × 6,5 cm; 7', bouton et fleur ♂, diamètre du disque 1,5 mm; 8, fleur ♀; 8', 8", coupes transversale et longitudinale d'ovaire.*
+*PL. 33. — Lecaniodiscus cupanioides Planch. (1-3", Zenker 4890; 4-5', Rowlan s.n.; 6, 6', Letouzey 4818) : 1, portion of leaf, large leaflet 6 × 14 cm and ♀ raceme; 1', uniflorous cymule; 2, knotted flower 8 mm; 2', section of ♀ flower; 3, staminode 2.5 mm; 3', trilobate stigma; 3', transverse section of ovary; 4, ♂ raceme 5 cm; 4', biflorous cymule; 5, ♂ flower bud; 5', transverse section of pistillode; 6, fruit raceme; 6', longitudinal section of fruit 2 cm. — Crossonephelis unijugatus (Aubr. & Pellegrin) Leenhouts (7-7', Le Testu 1866; 8, 8", Le Testu 1865); 7, leaf and inflorescence, leaflet 17 × 6.5 cm; 7', bud and ♂ flower, disc diameter 1.5 mm; 8, ♀ flower; 8', 8", transverse and longitudinal sections of ovary.*
 
 ## Notes
 

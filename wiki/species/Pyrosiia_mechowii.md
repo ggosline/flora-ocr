@@ -7,6 +7,8 @@ family: Polypodiaceae
 vol: 08
 pages: 208-208
 source: sources/Polypodiaceae_vol08_paddle
+countries: [Angola, Guinea]
+in_region: true
 tags: [species, generated]
 ---
 # *Pyrosiia mechowii* (Hier.) Alston

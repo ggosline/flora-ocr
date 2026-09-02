@@ -7,6 +7,9 @@ family: Marantaceae
 vol: 09
 pages: 130-131
 source: sources/Marantaceae_vol09_paddle
+countries: [Cameroon, Cote d'Ivoire, Gabon, Nigeria, Uganda]
+in_region: true
+habit: "herb"
 tags: [species, generated]
 ---
 # *Marantochloa mannii* (Benth.) M.-Redh.
@@ -50,7 +53,7 @@ Leroy : s. n., Ogooué. Le Testu : 1349, Nganda, Nyanga ; 1007 bis, forêt du Ma
 
 ![Marantochloa mannii](../sources/Marantaceae_vol09_paddle/figures/fig_028_p0119.png)
 
-*PL. XXV. — Marantochloa holostachya (Bak.) Hutch (Le Testu 8761) : 1, schéma de l'ensemble de la plante, réduit à 1/6 ; 2, base de la feuille (face supérieure) et inflorescence. — Marantochloa mannii (Benth.) M.-Redh. (Le Testu 2540) : 3, feuille (face inférieure) et partie d'inflorescence. — Marantochloa cuspidata (Roscoe) M.-Redh. (Maclaud 138) : 4, inflorescence ; 5, couronne staminale (hauteur environ 8 mm, d'après un dessin original de Gagnepain).*
+*PL. XXV. — Marantochloa holostachya (Bak.) Hutch (Le Testu 8761) : 1, diagram of the whole plant, reduced to 1/6 ; 2, base of the leaf (upper surface) and inflorescence. — Marantochloa mannii (Benth.) M.-Redh. (Le Testu 2540) : 3, leaf (lower surface) and part of inflorescence. — Marantochloa cuspidata (Roscoe) M.-Redh. (Maclaud 138) : 4, inflorescence ; 5, staminial crown (height approximately 8 mm, after an original drawing by Gagnepain).*
 
 ## Notes
 

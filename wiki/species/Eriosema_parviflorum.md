@@ -7,6 +7,13 @@ family: Leguminosae
 vol: 49
 pages: 190-190
 source: sources/Millettiaspeciesfabaceae_vol49_liteparse
+countries: [Central African Republic, Gabon, Nigeria, Sierra Leone]
+in_region: true
+subdivisions:
+  Gabon: [Estuaire, Haut-Ogooué, Moyen-Ogooué, Ngounié, Nyanga, Ogooué-Ivindo, Woleu-Ntem]
+habit: "herb"
+habitat: [savanna]
+altitude_m: "750"
 tags: [species, generated]
 ---
 # *Eriosema parviflorum* E.Mey. subsp. parviflorum

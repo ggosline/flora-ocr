@@ -7,6 +7,13 @@ family: Leguminosae
 vol: 49
 pages: 220-220
 source: sources/Millettiaspeciesfabaceae_vol49_liteparse
+countries: [Angola, Democratic Republic of the Congo, Gabon, Nigeria, Republic of the Congo, Zambia]
+in_region: true
+subdivisions:
+  Gabon: [Haut-Ogooué, Moyen-Ogooué, Nyanga]
+habit: "herb"
+habitat: [gallery forest]
+altitude_m: "130–430"
 tags: [species, generated]
 ---
 # *Indigofera paracapitata* J.B.Gillett

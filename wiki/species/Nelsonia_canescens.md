@@ -7,6 +7,7 @@ family: Acanthaceae
 vol: 13
 pages: 160-163
 source: sources/Acanthaceae_vol13_paddle
+habit: "herb"
 tags: [species, generated]
 ---
 # *Nelsonia canescens* (Lam.) Sprengel

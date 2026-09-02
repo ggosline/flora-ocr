@@ -7,6 +7,11 @@ family: Sapindaceae
 vol: 23
 pages: 81-84
 source: sources/Sapindaceae_vol23_paddle
+countries: [Angola, Benin, Nigeria]
+in_region: true
+habit: "tree"
+habitat: [evergreen forest]
+altitude_m: "700"
 tags: [species, generated]
 ---
 # *Radlkofera calodendron* Gilg
@@ -50,7 +55,7 @@ Le Testu 7604, Lastoursville (fl., nov.).
 
 ![Radlkofera calodendron](../sources/Sapindaceae_vol23_paddle/figures/fig_016_p0083.png)
 
-*PL. 16. — Radlkofera calodendron Gilg : 1, pied florifère, hauteur env. 10 m; 2, foliole × 0,5; 3, jeune inflorescence × 1; 4, fleur ♂ épanouie, diam. 7,5 mm; 5, coupe longitudinale non diamétrale de la fleur; 6, disque de 3,2 mm avec les insertions des pétales et des étanines; 7, deux pétales face interne, un pétale face externe, longueur 6 mm; 8, étanine de 8 mm; 9, anthère recto et verso, longueur de 2 mm; 10, ovaire avorté en coupe, 1 mm de diam. sans les poils; 11, vieille inflorescence × 2/3; 12, fruit immature à sec (1-10, N. Hallé 3172; 11, Jean Louis 11322; 12, Jean Louis 2362).*
+*PL. 16. — Radlkofera calodendron Gilg : 1, flowering plant, height approx. 10 m; 2, leaflet × 0.5; 3, young inflorescence × 1; 4, flower ♂ open, diam. 7.5 mm; 5, longitudinal non-diametral section of the flower; 6, disk of 3.2 mm with the insertions of the petals and stamens; 7, two petals inner face, one petal outer face, length 6 mm; 8, stamen of 8 mm; 9, anther recto and verso, length of 2 mm; 10, aborted ovary in section, 1 mm diam. without the hairs; 11, old inflorescence × 2/3; 12, immature dry fruit (1-10, N. Hallé 3172; 11, Jean Louis 11322; 12, Jean Louis 2362).*
 
 ## Notes
 

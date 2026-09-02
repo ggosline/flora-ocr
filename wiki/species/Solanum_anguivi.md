@@ -7,6 +7,12 @@ family: Solanaceae
 vol: 55
 pages: 120-122
 source: sources/Solanaceae_vol55_liteparse
+countries: [Gabon, Madagascar]
+in_region: true
+subdivisions:
+  Gabon: [Moyen-Ogooué, Ngounié, Woleu-Ntem]
+habit: "shrub"
+altitude_m: "100–200"
 tags: [species, generated]
 ---
 # *Solanum anguivi* Lam. Planche 37, Figure 7(J)
@@ -17,31 +23,23 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+S. indicum L. subsp. distichum (Schumach. & Thonn.) Bitter, Repert. Spec. Nov. Regni Veg., Beih. 16 : 13 (1923). S. indicum L. var. immunitum Bitter, Repert. Spec. Nov. Regni Veg., Beih. 16 : 14 (1923). S. indicum L. var. modicearmatum Bitter, Repert. Spec. Nov. Regni Veg., Beih. 16 : 16 (1923). S. indicum L. var. grandemunitum Bitter, Repert. Spec. Nov. Regni Veg., Beih. 16 : 17 (1923). Shrub, up to 2 m tall, prickly or unarmed; branches erect to spreading, cylindric, moderately to densely pubescent with sessile or stipitate spreading stellate hairs, armed with straight to curved prickles. Leaf: petiole 1–5 cm, moderately to densely pubescent, with 0 to 4 prickles; blade ovate to elliptic, (5–)11–25 × 5–17 cm, cuneate to rounded at base, acute to acuminate at apex, margin moderately lobed, with 5 broadly triangular lobes per side, rounded to acute at apex, bearing 0 to 8 prickles on each surface, discolorous, sparsely to densely pubescent with sessile or stipitate stellate hairs. Inflorescence lateral or terminal, 2.5–6 cm long, simple or branched once, with 5 to
 
-S. indicum L. subsp. distichum (Schumach. & Thonn.) Bitter, Repert. Spec. Nov. Regni Veg., Beih. 16 : 13 (1923). S. indicum L. var. immunitum Bitter, Repert. Spec. Nov. Regni Veg., Beih. 16 : 14 (1923). S. indicum L. var. modicearmatum Bitter, Repert. Spec. Nov. Regni Veg., Beih. 16 : 16 (1923). S. indicum L. var. grandemunitum Bitter, Repert. Spec. Nov. Regni Veg., Beih. 16 : 17 (1923). Arbuste , jusqu’à 2 m de hauteur, aiguillonné ou inerme ; rameaux dressés à étalés, cylin driques, modérément à densément pubescents à poils étoilés porrigés sessiles ou stipités, armés d’aiguillons droits à courbes . Feuille : pétiole 1–5 cm, modérément à densément pubescent, muni de 0 à 4 aiguillons ; limbe ovale à elliptique, (5–)11–25 × 5–17 cm, cunéé à arrondi à la base, aigu à acuminé au sommet, marge modérément lobée, avec 5 lobes largement triangulaires par côté, arrondis à aigus au sommet, portant 0 à 8 aiguillons sur chaque face, discolore, éparsement à densément pubescent à poils étoilés sessiles ou stipités. Inflo rescence latérale ou terminale, 2,5–6 cm de longueur, simple ou ramifiée une fois, avec 5 à
+Lucy T. Smith (©), reproduced with permission from Vorontsova & Knapp (2016).
 
-Lucy T. Smith (©), reproduit avec permission à partir de Vorontsova & Knapp (2016).
-
-22 fleurs toutes bisexuées ; pédoncule 2–20 mm ; axes modérément à densément pubescents, inermes. Fleur 5-mère ; pédicelle 0,5–1,2 cm, modérément à densément pubescent à poils étoilés, muni de 0 à 5 aiguillons ; calice 3–5 mm de longueur, densément pubescent, muni de 0 à 4 aiguillons, à lobes triangulaires à ovales, 1–2 mm de longueur, aigus au sommet ; corolle étoilée, 0,8–1,5 cm de diamètre, blanche à mauve pâle, divisée jusqu’aux deux tiers, à lobes étalés, triangulaires, 3–6 × 2–3 mm, modérément à densément pubescents dessous ; étamines égales, filet glabre, anthère 3,5–5 mm de longueur ; ovaire pubérulent à petits poils glanduleux ; style 6–8 mm, pubescent à poils étoilés. Fruit sphérique, 6–9 mm de diamètre, orange à rouge vif à maturité, avec ± 10 à 20 graines . Graine réniforme, 1,8–2,5 × 1,8–2,5 mm, jaune pâle à orange-brun.
+22 flowers all bisexual; peduncle 2–20 mm; axes moderately to densely pubescent, unarmed. Flower 5-merous; pedicel 0.5–1.2 cm, moderately to densely pubescent with stellate hairs, with 0 to 5 prickles; calyx 3–5 mm long, densely pubescent, with 0 to 4 prickles, with triangular to ovate lobes, 1–2 mm long, acute at apex; corolla stellate, 0.8–1.5 cm in diameter, white to pale mauve, divided to two-thirds, with spreading triangular lobes, 3–6 × 2–3 mm, moderately to densely pubescent below; stamens equal, filament glabrous, anther 3.5–5 mm long; ovary puberulent with small glandular hairs; style 6–8 mm, pubescent with stellate hairs. Fruit spherical, 6–9 mm in diameter, orange to bright red at maturity, with ± 10 to 20 seeds. Seed reniform, 1.8–2.5 × 1.8–2.5 mm, pale yellow to orange-brown.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-fréquent dans toute l’Afrique sub-saharienne (hors région sud de l’Afrique du Sud) et Ma dagascar ; au Gabon, connu du Moyen-Ogooué, de la Ngounié et du Woleu-Ntem
+Frequent throughout sub-Saharan Africa (excluding southern region of South Africa) and Madagascar; in Gabon, known from Moyen-Ogooué, Ngounié and Woleu-Ntem.
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-dans une grande diversité d’habitats, des forêts et lisières de forêts aux clairières, savanes et habitats fortement perturbés (cultures abandonnées, bords de route), en plaine comme en zone montagneuse ; au Gabon à 100–200 m d’altitude, ailleurs jusqu’à 2200(–3000) m. Usage : Les fruits immatures de S. anguivi sont consommés comme apéritif ou pour accompagner des plats traditionnels. Ils sont utilisés, frais ou moulus, pour traiter l’hypertension artérielle. Occasionnelle ment, S. anguivi peut servir de plante ornementale dans les jardins privés
+In a great diversity of habitats, from forests and forest margins to clearings, savannas and heavily disturbed habitats (abandoned fields, roadsides), in plains as in mountainous zones; in Gabon at 100–200 m altitude, elsewhere up to 2200(–3000) m. Uses: Immature fruits of S. anguivi are consumed as an appetizer or to accompany traditional dishes. They are used, fresh or ground, to treat hypertension. Occasionally, S. anguivi can serve as an ornamental plant in private gardens.
 
 ## Source note
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Cette espèce combine une importante variabilité morphologique à une très large zone de réparti tion et sa circonscription a fait l’objet d’hypothèses contradictoires (voir Vorontsova & Knapp 2016 pour la liste complète). Elle a longtemps été connue sous le nom de ‘ Solanum indicum L.’, dans les Flores afri caines (Heine 1963), un nom utilisé également pour désigner l’espèce asiatique S. violaceum Ortega ainsi que d’autres taxons morphologiquement semblables et qui a depuis été rejeté (Hepper 1978). Des ana lyses comparatives et phylogénétiques ont également montré que S. anguivi et S. violaceum forment deux entités distinctes (Aubriot et al. 2016, 2018, Vorontsova et al. 2013). S. anguivi est l’espèce progénitrice de l’aubergine africaine, S. aethiopicum , qui est cultivée dans toute l’Afrique tropicale (cf. ci-dessus). Bi : Heine (1963), Schippers (2000), Vorontsova & Knapp (2016). B liographie
+This species combines significant morphological variability with a very wide distribution range and its circumscription has been the subject of contradictory hypotheses (see Vorontsova & Knapp 2016 for the complete list). It was long known under the name 'Solanum indicum L.' in African Floras (Heine 1963), a name also used to designate the Asian species S. violaceum Ortega as well as other morphologically similar taxa and which has since been rejected (Hepper 1978). Comparative and phylogenetic analyses have also shown that S. anguivi and S. violaceum form two distinct entities (Aubriot et al. 2016, 2018, Vorontsova et al. 2013). S. anguivi is the progenitor species of the African eggplant, S. aethiopicum, which is cultivated throughout tropical Africa (cf. above). Bibliography: Heine (1963), Schippers (2000), Vorontsova & Knapp (2016).
 
 ## Notes
 

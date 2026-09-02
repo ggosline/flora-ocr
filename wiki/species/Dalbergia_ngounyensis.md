@@ -7,6 +7,11 @@ family: Leguminosae
 vol: 49
 pages: 145-146
 source: sources/Millettiaspeciesfabaceae_vol49_liteparse
+countries: [Gabon]
+in_region: true
+subdivisions:
+  Gabon: [Ngounié, Ogooué-Maritime]
+habit: "liana"
 tags: [species, generated]
 ---
 # *Dalbergia ngounyensis* Pellegr.

@@ -7,6 +7,11 @@ family: Dracaenaceae
 vol: 54
 pages: 49-49
 source: sources/Dracaenaceae_vol54_liteparse
+countries: [Benin, Cameroon, Cote d'Ivoire, Gabon, Gambia, Ghana, Guinea, Guinea-Bissau, Liberia, Nigeria, Senegal, Sierra Leone, Togo]
+in_region: true
+habit: "tree"
+habitat: [savanna]
+altitude_m: "0–1600"
 tags: [species, generated]
 ---
 # *Dracaena perrottetii* Baker Planche 17, Figure 4(B, C)

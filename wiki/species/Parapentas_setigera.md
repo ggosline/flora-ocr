@@ -7,6 +7,9 @@ family: Rubiaceae
 vol: 12
 pages: 110-112
 source: sources/Rubiaceae_vol12_paddle
+countries: [Gabon]
+in_region: true
+habit: "herb"
 tags: [species, generated]
 ---
 # *Parapentas setigera* (Hiern) Verde.

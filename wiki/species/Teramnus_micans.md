@@ -7,6 +7,11 @@ family: Leguminosae
 vol: 49
 pages: 368-368
 source: sources/Millettiaspeciesfabaceae_vol49_liteparse
+countries: [Angola, Cameroon, Democratic Republic of the Congo, Gabon, Zambia]
+in_region: true
+habit: "herb"
+habitat: [gallery forest]
+altitude_m: "100–1750"
 tags: [species, generated]
 ---
 # *Teramnus micans* (Welw. ex Baker) Baker f.

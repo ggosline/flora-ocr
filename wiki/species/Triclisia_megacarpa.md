@@ -5,18 +5,16 @@ authority: Breteler
 genus: Triclisia
 family: Menispermaceae
 synonyms: []
-habit: liana
-habitat: [primary forest, degraded forest]
-altitude_m: "up to 880 (Gabon); up to 300 elsewhere"
 type_locality_gabon: true
-countries: [Cameroon, Gabon, Guinea, Nigeria]
-subdivisions:
-  Gabon: [Ngounié, Ogooué-Ivindo]
-in_region: true
 treatments:
   - vol: 60
     pages: "88"
     source: sources/Menispermaceae_vol60_liteparse
+countries: [Cameroon, Gabon, Guinea, Nigeria]
+in_region: true
+subdivisions:
+  Gabon: [Ngounié, Ogooué-Ivindo]
+habit: "liana"
 tags: [species, novelty, type-locality-gabon]
 ---
 

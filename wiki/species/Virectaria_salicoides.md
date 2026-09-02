@@ -21,17 +21,15 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 — Verdc., Bull. J. B. Brux. 23 : 49 (1953).
 
-Arbuscule dressé dépassant 25 cm de hauteur. Jeunes entre-nœuds pubescents sur deux lignes verticales au-dessus des aisselles; entrenœuds ligneux atteignant 2-5,5 cm de long. Stipules seulement pubescentes à la base, longues de 4-7 mm, atténuées-aiguës en un ou deux sommets, souvent courbées extérieurement. Pétiole de 1-3 mm, pubescent seulement sur les marges. Limbe étroitement lauriforme de 3-6(g) × 0,5-0,9 cm, à extrémités atténuées-aiguës. Nervure médiane glabre au moins vers la base sur les deux faces. 3-6(7) paires de nervures secondaires très ascendantes et médiocrement pubescentes.
+Erect shrublet exceeding 25 cm in height. Young internodes pubescent on two vertical lines above the leaf axils; woody internodes reaching 2–5.5 cm long. Stipules pubescent only at the base, 4–7 mm long, attenuate-acute at one or two apices, often curved outwardly. Petiole 1–3 mm, pubescent only on the margins. Blade narrowly laurel-shaped, 3–6(9) × 0.5–0.9 cm, with attenuate-acute extremities. Midrib glabrous at least towards the base on both surfaces. 3–6(7) pairs of secondary veins very ascending and moderately pubescent.
 
-Inflorescences terminales subcontractées à 6-15 fleurs entourées de quelques feuilles (au moins une grande paire). Calice pubescent sous les intervalles des lobes et vers le haut des lobes qui sont un peu inégaux, étroits et un peu spatulés, longs de 4-6 mm. Corolle longue de 22-25 mm, pubescente. 4-6 étamines; anthères de 2-2,5 mm de long. Disque cylindrique tronqué.
+Inflorescences terminal, subcontracted, with 6–15 flowers surrounded by a few leaves (at least one large pair). Calyx pubescent under the intervals between the lobes and towards the upper part of the lobes, which are somewhat unequal, narrow and somewhat spatulate, 4–6 mm long. Corolla 22–25 mm long, pubescent. 4–6 stamens; anthers 2–2.5 mm long. Disk cylindrical, truncate.
 
-Fruit non connu.
+Fruit unknown.
 
-Espèce endémique des Monts de Cristal, connue seulement par les spécimens types : G. L. Bates : 527 (type K, isotype P, BM), Mfoa, sur bancs rocheux de la rivière Mbei (fl. oct. 1897).
+Species endemic to the Crystal Mountains, known only from the type specimens: G. L. Bates : 527 (type K, isotype P, BM), Mfoa, on rocky banks of the Mbei River (fl. Oct. 1897).
 
 ## Notes
 

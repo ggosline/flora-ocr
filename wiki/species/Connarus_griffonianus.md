@@ -7,6 +7,10 @@ family: Connaraceae
 vol: 33
 pages: 79-86
 source: sources/Connaraceae_vol33_paddle
+countries: [Angola, Burundi, Cameroon, Central African Republic, Democratic Republic of the Congo, Kenya, Nigeria, Tanzania]
+in_region: true
+habitat: [savanna]
+altitude_m: "000"
 tags: [species, generated]
 ---
 # *Connarus griffonianus* Baillon
@@ -141,11 +145,11 @@ Graine obovoïde, 12-17 × 6-8 × 4-6 mm, sarcotesta long de 5-9 mm enveloppamt 
 
 ![Connarus griffonianus](../sources/Connaraceae_vol33_paddle/figures/fig_030_p0080.png)
 
-*PL. 23. – Connarus griffonianus Baillon : 1, rameau avec feuille × 2/3 ; 2, jeune rameau avec inflorescences × 2/3 ; 3, foliole, détail de la face inf. × 10 ; 4, fleur × 6 ; 5, fleur, vue partielle montrant les étamines et le pistil × 6 ; 6, étamines : fertile, rudimentaire × 12 ; 7, follicule × 1 ; 8, follicule, détail de la face interne × 20 ; 9, graine × 1 ; 10, graine, coupe longitudinal × 1. (1-6. Breteler & de Wilde 625 ; 7-10. Devred 2531). – Repris de AUWP 89 (6).*
+*PL. 23. – Connarus griffonianus Baillon : 1, branch with leaf × 2/3 ; 2, young branch with inflorescences × 2/3 ; 3, leaflet, detail of lower surface × 10 ; 4, flower × 6 ; 5, flower, partial view showing stamens and pistil × 6 ; 6, stamens : fertile, rudimentary × 12 ; 7, follicle × 1 ; 8, follicle, detail of internal surface × 20 ; 9, seed × 1 ; 10, seed, longitudinal section × 1. (1-6. Breteler & de Wilde 625 ; 7-10. Devred 2531). – Reproduced from AUWP 89 (6).*
 
 ![Connarus griffonianus](../sources/Connaraceae_vol33_paddle/figures/fig_031_p0084.png)
 
-*PL. 24. – Connarus longistipitatus Gilg (non récolté au Gabon) : 1, rameau florifère × 2/3 ; 2, foliole × 2/3 ; 3, foliole, détail de la face inf. × 6 ; 4, fleur × 6 ; 5, fleur, vue partielle montrant les étamines et le pistil × 6 ; 6, étamines : courte, longue × 12 ; 7, follicule × 1 ; 8, follicule, détail de la face interne × 20 ; 9, graine × 1 ; 10, graine, coupe longitudinale × 1. (1-3. Eggeling 1470; 4-6. Léonard 2429; 7-10. Katende 1417). – Repris de AUWP 89 (6).*
+*PL. 24. – Connarus longistipitatus Gilg (not collected in Gabon) : 1, flowering branch × 2/3 ; 2, leaflet × 2/3 ; 3, leaflet, detail of lower surface × 6 ; 4, flower × 6 ; 5, flower, partial view showing stamens and pistil × 6 ; 6, stamens : short, long × 12 ; 7, follicle × 1 ; 8, follicle, detail of internal surface × 20 ; 9, seed × 1 ; 10, seed, longitudinal section × 1. (1-3. Eggeling 1470; 4-6. Léonard 2429; 7-10. Katende 1417). – Reprinted from AUWP 89 (6).*
 
 ## Notes
 

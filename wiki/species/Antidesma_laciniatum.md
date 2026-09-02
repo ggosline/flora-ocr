@@ -7,6 +7,11 @@ family: Phyllanthaceae
 vol: 43
 pages: 14-14
 source: sources/Phyllanthaceae_vol43_liteparse
+countries: [Angola, Central African Republic, Democratic Republic of the Congo, Gabon, Liberia]
+in_region: true
+habit: "tree"
+habitat: [secondary forest]
+altitude_m: "0–650"
 tags: [species, generated]
 ---
 # *Antidesma laciniatum* Müll.Arg.

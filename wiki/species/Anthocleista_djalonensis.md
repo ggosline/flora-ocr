@@ -7,6 +7,10 @@ family: Loganiaceae
 vol: 19
 pages: 8-9
 source: sources/Loganiaceae_vol19_paddle
+countries: [Cameroon]
+in_region: true
+habit: "tree"
+habitat: [savanna]
 tags: [species, generated]
 ---
 # *Anthocleista djalonensis* A. Chevalier
@@ -43,11 +47,11 @@ Aubréville 166, P, WAG. Breteler 2883, km 6 route Bertoua-Deng Deng (fl., mai) 
 
 ![Anthocleista djalonensis](../sources/Loganiaceae_vol19_paddle/figures/fig_001_p0018.png)
 
-*PL. 1. — Anthocleista djalonensis A. Chev. : 1, rameau; 2, portion de rameau; 3 et 4, jeunes boutons; 5, bouton mûr; 6, fleur; 7, portion de l'intérieur de la corolle; 8, calice avec pistil; 9, pistil; 10, fruit; 11, section transversale du fruit. (1-6, 8, 10-11, × ½; 7, × 1; 9, × 2). (1-2 : d'après 3315; 3-7, 10 : d'après 3316; 8, 9, 11 : d'après 3285; tous éch. Leeuwenberg Côté d'Ivoire, WAG).*
+*PL. 1. — Anthocleista djalonensis A. Chev. : 1, branch; 2, portion of branch; 3 et 4, young buds; 5, mature bud; 6, flower; 7, portion of the interior of the corolla; 8, calyx with pistil; 9, pistil; 10, fruit; 11, transverse section of fruit. (1-6, 8, 10-11, × ½; 7, × 1; 9, × 2). (1-2 : after 3315; 3-7, 10 : after 3316; 8, 9, 11 : after 3285; all scale Leeuwenberg Côté d'Ivoire, WAG).*
 
 ![Anthocleista djalonensis](../sources/Loganiaceae_vol19_paddle/figures/fig_002_p0019.png)
 
-*PL. 2. — Anthocleista djalonensis A. Chev. : 1 à 5, feuilles × 1/4; 6 à 8, anthères, 3 côtés × 2; 9, sect. long. de l'ovaire × 4; 10, sect. transv. de l'ovaire × 4; 11, ovule × 40; 12, graine × 4; 13, sect. long. de la graine × 4; 14, embryon × 12; 15, int. du sépale avec poils glanduleux × 4; 16, bractées avec poils glanduleux à l'int. × 4; 17, poils glanduleux × 20. (1, 4 : d'après 3167; 2, 3, 5 : d'après 3315; 6-8,10, 15-17 : d'après 3316; 9, 11-14 : d'après 3285; tous éch. Leeuwenberg Côté d'Ivoire, WAG).*
+*PL. 2. — Anthocleista djalonensis A. Chev. : 1 to 5, leaves × 1/4; 6 to 8, anthers, 3 sides × 2; 9, long. sect. of the ovary × 4; 10, transv. sect. of the ovary × 4; 11, ovule × 40; 12, seed × 4; 13, long. sect. of the seed × 4; 14, embryo × 12; 15, interior of the sepal with glandular hairs × 4; 16, bracts with glandular hairs on the interior × 4; 17, glandular hairs × 20. (1, 4: after 3167; 2, 3, 5: after 3315; 6-8, 10, 15-17: after 3316; 9, 11-14: after 3285; all specimens Leeuwenberg Ivory Coast, WAG).*
 
 ## Notes
 

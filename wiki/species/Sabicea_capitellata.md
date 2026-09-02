@@ -7,6 +7,10 @@ family: Rubiaceae
 vol: 12
 pages: 190-192
 source: sources/Rubiaceae_vol12_paddle
+countries: [Gabon, Nigeria]
+in_region: true
+habit: "liana"
+habitat: [savanna]
 tags: [species, generated]
 ---
 # *Sabicea capitellata* Benth. (Fig. 5)

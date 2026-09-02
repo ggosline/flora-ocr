@@ -7,6 +7,7 @@ family: Leeaceae
 vol: 14
 pages: 118-122
 source: sources/Leeaceae_vol14_paddle
+habit: "shrub"
 tags: [species, generated]
 ---
 # *Leea guineensis* G. Don

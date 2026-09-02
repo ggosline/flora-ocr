@@ -7,12 +7,8 @@ parent_species: Maesopsis eminii
 genus: Maesopsis
 family: Rhamnaceae
 synonyms: [Karlea berchemioides Pierre, Maesopsis berchemioides (Pierre) A. Chev.]
-countries: [Liberia, Gabon, Central African Republic, Democratic Republic of the Congo]
-countries_incomplete: true
-in_region: true
-habit: tree
-habitat: [secondary bush, savanna margins]
 treatments: [{vol: 4, pages: "53–57", source: sources/Rhamnaceae_vol4_paddle}]
+habit: "tree"
 tags: [species]
 ---
 

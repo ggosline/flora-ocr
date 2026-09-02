@@ -7,6 +7,9 @@ family: Flacourtiaceae
 vol: 34
 pages: 55-55
 source: sources/Flacourtiaceae_vol34_paddle
+countries: [Cote d'Ivoire, Gabon, Ghana, Guinea, Liberia, Nigeria, Sierra Leone]
+in_region: true
+habit: "tree"
 tags: [species, generated]
 ---
 # *Oncoba echinata* Oliv.

@@ -7,6 +7,8 @@ family: Rubiaceae
 vol: 12
 pages: 151-154
 source: sources/Rubiaceae_vol12_paddle
+countries: [Nigeria]
+in_region: true
 tags: [species, generated]
 ---
 # *Mussaenda polita* Hiern (P.L. 30)

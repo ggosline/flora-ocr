@@ -7,6 +7,13 @@ family: Convolvulaceae
 vol: 46
 pages: 59-59
 source: sources/Convolvulaceae_vol46_liteparse
+countries: [Angola, Cameroon, Central African Republic, Democratic Republic of the Congo, Gabon, Nigeria, Republic of the Congo]
+in_region: true
+subdivisions:
+  Gabon: [Estuaire, Ogooué-Ivindo, Ogooué-Lolo]
+habit: "liana"
+habitat: [secondary forest]
+altitude_m: "550"
 tags: [species, generated]
 ---
 # *Neuropeltis velutina* Hallier f.

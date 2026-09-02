@@ -7,6 +7,7 @@ family: Apocynaceae
 vol: 59
 pages: 121-121
 source: sources/Apocynaceae_vol59_liteparse
+habit: "liana"
 tags: [species, generated]
 ---
 # *Landolphia dewevrei* Stapf Planche 45(7-19) ; Figure 6(H)

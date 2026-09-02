@@ -7,6 +7,9 @@ family: Begoniaceae
 vol: 39
 pages: 10-13
 source: sources/Begoniaceae_vol39_liteparse
+countries: [Gabon, Sao Tome and Principe]
+in_region: true
+altitude_m: "850"
 tags: [species, generated]
 ---
 # *Begonia thomeana* C.DC. Planche 1

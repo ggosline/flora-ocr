@@ -7,6 +7,8 @@ family: Rubiaceae
 vol: 17
 pages: 269-270
 source: sources/Rubiaceae_vol17_paddle
+habit: "shrub"
+habitat: [rocky ground]
 tags: [species, generated]
 ---
 # *Pouchetia baumanniana* Büttner

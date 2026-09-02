@@ -7,6 +7,13 @@ family: Leguminosae
 vol: 49
 pages: 181-181
 source: sources/Millettiaspeciesfabaceae_vol49_liteparse
+countries: [Angola, Democratic Republic of the Congo, Gabon, Liberia]
+in_region: true
+subdivisions:
+  Gabon: [Moyen-Ogooué, Ngounié, Nyanga, Ogooué-Ivindo, Ogooué-Lolo]
+habit: "liana"
+habitat: [savanna]
+altitude_m: "5–100"
 tags: [species, generated]
 ---
 # *Dioclea hexandra* (Ralph) Mabb. Planche 59

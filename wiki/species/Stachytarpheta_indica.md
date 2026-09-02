@@ -7,6 +7,12 @@ family: Verbenaceae
 vol: 58
 pages: 144-146
 source: sources/Verbenaceae_vol58_liteparse
+countries: [Gabon]
+in_region: true
+subdivisions:
+  Gabon: [Estuaire]
+habit: "herb"
+altitude_m: "100"
 tags: [species, generated]
 ---
 # *Stachytarpheta indica* (L.) Vahl Planche 39(9-14)
@@ -17,31 +23,23 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Herbe annuelle, parfois subsucculente, de 0,1–1,20 m de hauteur ; tige glabre, non ramifiée ou ramifiée, creuse. Feuille : pétiole de 2–10 mm, glabre à éparsement poilu ; limbe oblong à ovale, de 2–13 × 0,3–6 cm, atténué à la base, aigu au sommet, bord crénelée, à poils épars principalement sur les nervures des deux faces. Inflorescence : épi allongé, long de 4–35 cm, glabre ; rachis profondément creusé ; bractées elliptiques à étroitement elliptiques-ovales, de 5–5,5 × 1–1,5 mm, parfois obscurément striées, acuminées au sommet. Fleur : calice long de 4–6 mm, apex semblant bifide de l’extérieur, les deux dents centrales étant très réduites ; corolle bleu foncé à bleu clair, mauve ou lavande, à tube et gorge souvent blancs, tube long de 5–7 mm, lobes orbiculaires, de 2,5–3 × 2,5–3 mm, arrondis ; style de 5–6 mm, juste exsert. Fruit obloïde, de 3,5 × 1,5 mm, nervures longitudinales vers la base, strié en réseau et légère ment rostré à l’apex, brun pâle devenant noir.
+Annual herb, sometimes subsucculent, 0.1–1.20 m tall; stem glabrous, unbranched or branched, hollow. Leaf: petiole 2–10 mm, glabrous to sparsely hairy; blade oblong to ovate, 2–13 × 0.3–6 cm, attenuate at base, acute at apex, margin crenate, with scattered hairs mainly on the veins of both surfaces. Inflorescence: spike elongate, 4–35 cm long, glabrous; rachis deeply grooved; bracts elliptic to narrowly elliptic-ovate, 5–5.5 × 1–1.5 mm, sometimes obscurely striate, acuminate at apex. Flower: calyx 4–6 mm long, apex appearing bifid from outside, the two central teeth being very reduced; corolla dark blue to light blue, mauve or lavender, with tube and throat often white, tube 5–7 mm long, lobes orbicular, 2.5–3 × 2.5–3 mm, rounded; style 5–6 mm, just exsert. Fruit obloid, 3.5 × 1.5 mm, longitudinal veins towards base, reticulate-striate and slightly rostrate at apex, pale brown becoming black.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-originaire de l’Amérique du Sud et introduit en Afrique tropicale, peut être aussi ailleurs (voir les Notes) ; au Gabon : Estuaire
+Native to South America and introduced into tropical Africa, possibly also elsewhere (see Notes); in Gabon: Estuaire
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-pousse le long des rivières habitées et des pâturages saisonniers inondés ; au Gabon à ± 100 m d’altitude, ailleurs à 0–1500 m
+Grows along inhabited rivers and seasonal inundated pastures; in Gabon at ± 100 m altitude, elsewhere at 0–1500 m
 
 ## Source note
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+This taxon is traditionally known in Africa as Stachytarpheta indica. Atkins (2004) stated that African specimens attributed to this species constitute two distinct taxa. She believed that part of the African material was S. angustifolia (Mill.) Vahl., which was introduced from South America and is now naturalized in many African countries (absent from Gabon), and
 
-Ce taxon est traditionnellement connu en Afrique sous le nom de Stachytarpheta indica . Atkins (2004) a déclaré que les spécimens africains attribués à cette espèce constituent deux taxons distincts. Elle pensait qu’une partie du matériel africain était S . angustifolia (Mill.) Vahl., qui a été introduit de l’Amérique du Sud et est maintenant naturalisé dans de nombreux pays africains (absent du Gabon), et
+Lye 1186; 2, 4-8: Deighton 4291; 3: Scott Elliot 4162; 9-14: Deighton 4173). Drawing by Deborah Lambkin (1, 3; ©), and by Margaret Stone (2, 4-14; ©), reproduced with permission from Fernandes (2005) and Huber et al. (1963).
 
-Lye 1186 ; 2, 4-8 : Deighton 4291 ; 3 : Scott Elliot 4162 ; 9-14 : Deighton 4173 ). Dessin par Deborah Lambkin (1, 3 ; ©), et par Margaret Stone (2, 4-14 ; ©), reproduit avec permission à partir de Fernandes (2005) et Huber et al. (1963).
-
-un second taxon qui pourrait être soit une introduction précoce de S . angustifolia qui a depuis développé une morphologie différente, soit un hybride entre S . angustifolia et S . jamaicensis . Cependant, Fernandes (2006) traite l’ensemble du complexe comme une seule espèce et regarde S . angustifolia comme synonyme de S . indica . Hammel & Grayum (2011) ont proposé le nom S . friedrichsthalii Hayek pour le taxon sans nom de Atkins, en se fondant sur leur étude des espèces de l’Amérique centrale. Ils ont également identifié l’espèce comme étant présente en Afrique et qu’elle est morphologiquement similaire au taxon sans nom de Atkins. Compte tenu de la confusion taxonomique dans ce complexe particulier, qui ne peut être résolue sans une étude systématique moléculaire supplémentaire, le nom traditionnel pour ce taxon est conservé ici. B : Atkins (2004), Hammel & Grayum (2011), Huber et al. (1963) . i B liographie
+a second taxon which could be either an early introduction of S. angustifolia which has since developed different morphology, or a hybrid between S. angustifolia and S. jamaicensis. However, Fernandes (2006) treats the entire complex as a single species and regards S. angustifolia as a synonym of S. indica. Hammel & Grayum (2011) proposed the name S. friedrichsthalii Hayek for Atkins' unnamed taxon, based on their study of Central American species. They also identified the species as being present in Africa and that it is morphologically similar to Atkins' unnamed taxon. Given the taxonomic confusion in this particular complex, which cannot be resolved without further molecular systematic study, the traditional name for this taxon is retained here. B: Atkins (2004), Hammel & Grayum (2011), Huber et al. (1963). Bibliography
 
 ## Notes
 

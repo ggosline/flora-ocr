@@ -7,6 +7,9 @@ family: Combretaceae
 vol: 35
 pages: 88-89
 source: sources/Combretaceae_vol35_paddle
+countries: [Cameroon, Central African Republic, Democratic Republic of the Congo, Gabon]
+in_region: true
+habit: "liana"
 tags: [species, generated]
 ---
 # *Combretum scandens* Liben

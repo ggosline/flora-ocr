@@ -7,6 +7,13 @@ family: Leguminosae
 vol: 49
 pages: 193-195
 source: sources/Millettiaspeciesfabaceae_vol49_liteparse
+countries: [Angola, Benin, Burundi, Cameroon, Central African Republic, Cote d'Ivoire, Democratic Republic of the Congo, Gabon, Guinea, Kenya, Malawi, Mozambique, Nigeria, Republic of the Congo, Rwanda, Tanzania, Uganda, Zambia, Zimbabwe]
+in_region: true
+subdivisions:
+  Gabon: [Haut-Ogooué, Ogooué-Ivindo]
+habit: "herb"
+habitat: [savanna]
+altitude_m: "400–500"
 tags: [species, generated]
 ---
 # *Eriosema shirense* Baker f. var. shirense

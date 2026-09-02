@@ -7,6 +7,9 @@ family: Moraceae
 vol: 26
 pages: 130-134
 source: sources/Moraceae_vol26_paddle
+countries: [Angola, Cameroon, Equatorial Guinea, Gabon, Senegal, Sudan, Tanzania, Uganda, Zambia]
+in_region: true
+habitat: [savanna, riverine]
 tags: [species, generated]
 ---
 # *Ficus asperifolia* Miquel
@@ -103,7 +106,7 @@ The structure of the staminate flowers is not entirely clear. The stamens are en
 
 ![Ficus asperifolia](../sources/Moraceae_vol26_paddle/figures/fig_036_p0132.png)
 
-*PL. 35. – Ficus asperifolia Miq.: 1, rameau avec feuilles et figues × 1; 2, figue × 1,5; 3-6, feuilles diverses × 1; 7, feuille et figue (1, Letouzey 7610, Cameroun; 2, Raynal J. & A. 9996, Cameroun; 3, Jacques-Félix 2411, Cameroun; 4, Letouzey 3821, Cameroun; 5, Letouzey 3420, Cameroun; 6, De Wilde W.c.s. 1876, Cameroun; 7, Letouzey 11365, Cameroun).*
+*PL. 35. – Ficus asperifolia Miq.: 1, branch with leaves and figs × 1; 2, fig × 1.5; 3-6, various leaves × 1; 7, leaf and fig (1, Letouzey 7610, Cameroon; 2, Raynal J. & A. 9996, Cameroon; 3, Jacques-Félix 2411, Cameroon; 4, Letouzey 3821, Cameroon; 5, Letouzey 3420, Cameroon; 6, De Wilde W.c.s. 1876, Cameroon; 7, Letouzey 11365, Cameroon).*
 
 ## Notes
 

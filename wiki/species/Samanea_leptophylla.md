@@ -7,6 +7,8 @@ family: Leguminosae
 vol: 31
 pages: 162-165
 source: sources/Leguminosae_vol31_paddle
+countries: [Cameroon, Democratic Republic of the Congo, Gabon, Zambia]
+in_region: true
 tags: [species, generated]
 ---
 # *Samanea leptophylla* (Harms) Brenan & Brummitt
@@ -71,7 +73,7 @@ m'sinder, musinda (Bapunu)
 
 ![Samanea leptophylla](../sources/Leguminosae_vol31_paddle/figures/fig_051_p0164.png)
 
-*PL. 39. – Samanea leptophylla (Harms) Brenan & Brummitt : 1, aspect général × 1 ; 2, rachis, sommet × 5 ; 3, penne, sommet × 12 ; 4, foliole, face inférieure × 20 ; 5, bractéole × 20 ; 6, fleur basale × 8 ; 7, fleur base, coupe longitudinale × 8 ; 8, anthère × 12 ; 9, pistil × 12 ; 10, fleur sommitale × 8 ; 11, pistil × 12, 12, fruit × 1 ; 13, graine × 5. (1, 4-11, Koechlin 277 (Congo) ; 2, 3, 12, 13, Letouzey 3866 (Cameroun)).*
+*PL. 39. – Samanea leptophylla (Harms) Brenan & Brummitt : 1, general aspect × 1 ; 2, rachis, apex × 5 ; 3, pinna, apex × 12 ; 4, leaflet, lower surface × 20 ; 5, bracteole × 20 ; 6, basal flower × 8 ; 7, basal flower, longitudinal section × 8 ; 8, anther × 12 ; 9, pistil × 12 ; 10, apical flower × 8 ; 11, pistil × 12, 12, fruit × 1 ; 13, seed × 5. (1, 4-11, Koechlin 277 (Congo) ; 2, 3, 12, 13, Letouzey 3866 (Cameroon)).*
 
 ## Notes
 

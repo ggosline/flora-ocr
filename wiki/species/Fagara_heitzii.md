@@ -5,10 +5,10 @@ authority: Aubrév. et Pellegr.
 genus: Fagara
 family: Rutaceae
 synonyms: []
+treatments: [{vol: 6, pages: "30–34", source: sources/Rutaceae_vol6_paddle}]
 countries: [Cameroon, Gabon]
 in_region: true
-habit: large tree
-treatments: [{vol: 6, pages: "30–34", source: sources/Rutaceae_vol6_paddle}]
+habit: "tree"
 tags: [species]
 ---
 

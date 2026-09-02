@@ -7,6 +7,7 @@ family: Gramineae
 vol: 05
 pages: 159-160
 source: sources/Gramineae_vol05_paddle
+habit: "herb"
 tags: [species, generated]
 ---
 # *Schizachyrium platphyllum* (Franch.) Stapf.

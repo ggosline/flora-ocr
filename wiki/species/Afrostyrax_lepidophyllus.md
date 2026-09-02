@@ -5,16 +5,13 @@ authority: Mildbr.
 genus: Afrostyrax
 family: Huaceae
 synonyms: []
-habit: tree
-habitat: [humid dense forest]
-altitude_m: "to 1000"
-countries: [Cameroon, Central African Republic, Democratic Republic of the Congo, Equatorial Guinea, Ghana, Republic of the Congo]
-in_region: true
-countries_incomplete: true  # source gives localities but no country/province list; needs review
 treatments:
   - vol: 38
     pages: "28-29"
     source: sources/Huaceae_vol38_liteparse
+countries: [Cameroon, Central African Republic, Democratic Republic of the Congo, Equatorial Guinea, Gabon, Ghana]
+in_region: true
+habit: "tree"
 tags: [species]
 ---
 

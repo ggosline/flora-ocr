@@ -7,6 +7,12 @@ family: Scrophulariaceae
 vol: 48
 pages: 127-127
 source: sources/Scrophulariaceae_vol48_liteparse
+countries: [Gabon, Guinea, Madagascar]
+in_region: true
+subdivisions:
+  Gabon: [Estuaire, Moyen-Ogooué, Nyanga, Ogooué-Maritime]
+habit: "herb"
+altitude_m: "2–10"
 tags: [species, generated]
 ---
 # *Rhamphicarpa fistulosa* (Hochst.) Benth. Planche 40

@@ -7,6 +7,13 @@ family: Solanaceae
 vol: 55
 pages: 114-116
 source: sources/Solanaceae_vol55_liteparse
+countries: [Gabon]
+in_region: true
+subdivisions:
+  Gabon: [Estuaire, Woleu-Ntem]
+habit: "shrub"
+habitat: [secondary forest]
+altitude_m: "400–540"
 tags: [species, generated]
 ---
 # *Solanum aculeatissimum* Jacq. Planche 34, Figure 7H
@@ -17,23 +24,15 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Arbuste faiblement ramifié, jusqu’à 2 m de hauteur, aiguillonné ; rameaux dressés ou étalés, cylindriques, pubescents, rarement glabrescents, à poils simples glanduleux ou non, armés d’aiguillons droits et grêles. Feuille : pétiole 3–9 cm, pubescent, muni de 5 à 25 aiguillons ; limbe largement ovale à rhomboïdal, 4–18 × 3–16 cm, tronqué à subcordé à la base, aigu au sommet, à marge modérément lobée, avec 2 à 3 lobes triangulaires par côté, généralement dentés, aigus au sommet, portant de nombreux aiguillons sur chaque face , concolore, pubescent à poils simples glanduleux ou non, dessous à poils étoilés porrigés et/ou multangulés . Inflorescence latérale, 1–3 cm de longueur, non ramifiée, avec 2 à 7 fleurs hétérostylées et les plantes andromonoïques ; pédoncule 0–8 mm ; axes pubescents, armés de nombreux aiguillons. Fleur 5-mère ; pédicelle 0,9–2,2 cm, densément pubescent, muni de 0 à 10 ai guillons ; calice 6,5–9 mm de longueur, pubescent, éparsement aiguillonné, à lobes étroite ment triangulaires, 5–6,5 mm de longueur, souvent caudés au sommet ; corolle étoilée, 1,3–3 cm de diamètre, blanche, divisée jusqu’aux trois quarts, à lobes étalés à réfléchis, étroitement triangulaires, 9–10 × 2,5–4 mm, pubescents dessous ; étamines égales, filet glabre, anthère
-
-6–7,5 mm de longueur ; ovaire pubérulent à poils glanduleux ; style 6–7 mm, glabre. Fruit sphérique, 2–3 cm de diamètre, jaune clair à maturité , avec plus de 100 graines. Graine circulaire à subréniforme, 2–3 mm de diamètre, jaunâtre.
+Weakly branched shrub, up to 2 m tall, prickly; branches erect or spreading, cylindrical, pubescent, rarely glabrescent, with simple glandular or non-glandular hairs, armed with straight and slender prickles. Leaf: petiole 3–9 cm, pubescent, bearing 5 to 25 prickles; blade broadly ovate to rhomboidal, 4–18 × 3–16 cm, truncate to subcordate at base, acute at apex, with moderately lobed margin, with 2 to 3 triangular lobes per side, generally dentate, acute at apex, bearing numerous prickles on each face, concolorous, pubescent with simple glandular or non-glandular hairs, beneath with porrigiid and/or multangulate stellate hairs. Inflorescence lateral, 1–3 cm long, unbranched, with 2 to 7 heterostylous flowers and plants andromonoecious; peduncle 0–8 mm; axes pubescent, armed with numerous prickles. Flower 5-merous; pedicel 0.9–2.2 cm, densely pubescent, bearing 0 to 10 prickles; calyx 6.5–9 mm long, pubescent, sparsely prickly, with narrowly triangular lobes, 5–6.5 mm long, often caudate at apex; corolla stellate, 1.3–3 cm diameter, white, divided to three-quarters, with spreading to reflexed, narrowly triangular lobes, 9–10 × 2.5–4 mm, pubescent beneath; stamens equal, filament glabrous, anther 6–7.5 mm long; ovary puberulent with glandular hairs; style 6–7 mm, glabrous. Fruit spherical, 2–3 cm diameter, pale yellow at maturity, with more than 100 seeds. Seed circular to subreniform, 2–3 mm diameter, yellowish.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-introduit et naturalisé dans toute l’Afrique subsaharienne, très probablement originaire du sud-est du Brésil ; seulement trois récoltes pour le Gabon qui proviennent de l’Estuaire et du Woleu-Ntem
+introduced and naturalized throughout sub-Saharan Africa, very probably originating from southeastern Brazil; only three collections for Gabon which come from Estuaire and Woleu-Ntem
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-adventice commune dans les habitats secondarisés, en particulier dans les régions forestières d’altitude, plus rarement au niveau de la mer ; au Gabon à 400–540 m d’altitude, ailleurs jusqu’à 2400 m. Usage : Les parties aériennes et souterraines des plantes sont utilisées dans la médecine traditionnelle et en sorcellerie, du fait de leur toxicité. Les fruits sont utilisés extérieurement pour traiter les maux de tête, les infections cutanées et les verrues ; ils sont macérés et ingérés pour soigner la constipation, déclencher l’accouchement et servent de collyre. L’extrait de racine est utilisé comme purgatif ; sous forme de décoction ou de macérat, la racine sert à traiter les douleurs dorsales, l’impuissance masculine et les morsures de serpent
+common adventive in secondarized habitats, particularly in altitude forest regions, more rarely at sea level; in Gabon at 400–540 m altitude, elsewhere up to 2400 m. Uses: The aerial and underground parts of plants are used in traditional medicine and in sorcery, due to their toxicity. The fruits are used externally to treat headaches, skin infections and warts; they are macerated and ingested to treat constipation, induce childbirth and serve as an eye wash. Root extract is used as a purgative; in the form of decoction or macerate, the root is used to treat back pain, male impotence and snakebites
 
 ## Vernacular names
 
@@ -41,9 +40,7 @@ pomme d’amour (fr.) ; cockroach berry, devil’s apple, love apple, soda-apple
 
 ## Source note
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-S. aculeatissimum est souvent confondu avec S. viarum Dunal, une espèce qui appartient au même clade (Levin et al. 2005) et qui est elle aussi, originaire du Nouveau Monde et naturalisée dans l’ensemble des régions tropicales de l’Ancien Monde. Ils peuvent être différenciés par (1) la morphologie des lobes du calice, les lobes étant étroitement triangulaires à caudés chez S. aculeatissimum alors qu’ils sont large ment triangulaires chez S. viarum , (2) le type de pubescence, les rameaux de S. aculeatissimum présentant une pubescence moins uniforme avec des poils glanduleux plus grands que ceux des rameaux de S. viarum , et (3) la morphologie des aiguillons, ceux-ci étant droits et de taille variable chez S. aculeatissimum , tandis qu’il sont souvent courbes et de taille relativement comparable chez S. viarum . S. aculeatissimum est plus commune en Afrique, tandis que S. viarum s’observe surtout en Asie tropicale. B : Heine (1963), Nicholson (2008), Raponda-Walker & Sillans (1961), Vorontsova & i B liographie Knapp (2016)
+S. aculeatissimum is often confused with S. viarum Dunal, a species that belongs to the same clade (Levin et al. 2005) and which is also, originating from the New World and naturalized throughout the tropical regions of the Old World. They can be differentiated by (1) the morphology of the calyx lobes, the lobes being narrowly triangular to caudate in S. aculeatissimum whereas they are broadly triangular in S. viarum, (2) the type of pubescence, the branches of S. aculeatissimum presenting less uniform pubescence with larger glandular hairs than those of the branches of S. viarum, and (3) the morphology of the prickles, these being straight and of variable size in S. aculeatissimum, whereas they are often curved and of relatively comparable size in S. viarum. S. aculeatissimum is more common in Africa, whereas S. viarum is observed mainly in tropical Asia. B: Heine (1963), Nicholson (2008), Raponda-Walker & Sillans (1961), Vorontsova & Bibliography Knapp (2016)
 
 ## Notes
 

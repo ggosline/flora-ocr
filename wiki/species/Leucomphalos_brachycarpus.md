@@ -7,6 +7,13 @@ family: Leguminosae
 vol: 49
 pages: 239-241
 source: sources/Millettiaspeciesfabaceae_vol49_liteparse
+countries: [Cameroon, Central African Republic, Democratic Republic of the Congo, Gabon, Republic of the Congo]
+in_region: true
+subdivisions:
+  Gabon: [Estuaire, Ogooué-Ivindo, Ogooué-Lolo]
+habit: "liana"
+habitat: [secondary forest]
+altitude_m: "5–600"
 tags: [species, generated]
 ---
 # *Leucomphalos brachycarpus* (Harms) Breteler Planche 79

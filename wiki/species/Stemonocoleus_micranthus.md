@@ -7,6 +7,10 @@ family: Leguminosae
 vol: 15
 pages: 181-183
 source: sources/Leguminosae_vol15_paddle
+countries: [Cote d'Ivoire, Gabon]
+in_region: true
+habit: "tree"
+habitat: [primary forest]
 tags: [species, generated]
 ---
 # *Stemonocoleus micranthus* Harms Ahianana
@@ -45,7 +49,7 @@ Durand : 1464 Sanga, S.W. Tchibanga. Le Testu : 7968 Lastoursville (fl. mars); 8
 
 ![Stemonocoleus micranthus](../sources/Leguminosae_vol15_paddle/figures/fig_041_p0180.png)
 
-*PL. XLI. — Stemonocoleus micranthus Harms : 1, rameau florifère × 2/3; 2, détail d'un rameau floral avec ses cicatrices × 4; 3, bractée × 4; 4, fleur vue de face, un sépale enlevé × 6 (d'après F.F.C.I.); 5, fruit × 2/3.*
+*PL. XLI. — Stemonocoleus micranthus Harms : 1, flowering branch × 2/3; 2, detail of a floral branch with its scars × 4; 3, bract × 4; 4, flower viewed from the front, one sepal removed × 6 (after F.F.C.I.); 5, fruit × 2/3.*
 
 ## Notes
 

@@ -7,6 +7,12 @@ family: Arecaceae
 vol: 53
 pages: 41-43
 source: sources/Arecaceae_vol53_liteparse
+countries: [Angola, Cameroon, Central African Republic, Democratic Republic of the Congo, Equatorial Guinea, Gabon, Nigeria, Republic of the Congo]
+in_region: true
+subdivisions:
+  Gabon: [Ngounié, Nyanga, Ogooué-Ivindo]
+habit: "liana"
+altitude_m: "500"
 tags: [species, generated]
 ---
 # *Laccosperma robustum* (Burret) J.Dransf. Planche 12, Figure 3A-C

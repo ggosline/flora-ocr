@@ -7,6 +7,10 @@ family: Rubiaceae
 vol: 12
 pages: 50-53
 source: sources/Rubiaceae_vol12_paddle
+countries: [Cote d'Ivoire, Democratic Republic of the Congo, Nigeria]
+in_region: true
+habit: "tree"
+habitat: [riverine]
 tags: [species, generated]
 ---
 # *Nauclea vanderguchtii* (De Wild.) Petit (P.L. 6)
@@ -46,7 +50,7 @@ G. Le Testu : 1884, Tchibanga (fr. nov.); 8308, Guyenzé, env. de Lastoursville 
 
 ![Nauclea vanderguchtii](../sources/Rubiaceae_vol12_paddle/figures/fig_010_p0051.png)
 
-*PL. 6. — Nauclea Vanderguchtii (De Wild.) Petit (N. Hallé 3191 et Le Testu 1884) : 1, stipule; 2, entrenceud myrmécodome et jeune inflorescence de 45 mm de diam.; 3, fruit de 6 cm de diam.; 4, graine de 2,8 mm. — N. Gilletii (De Wild.) Merr. (Le Testu 8097) : 5, stipule; 6, infrutescence juvénile.*
+*PL. 6. — Nauclea Vanderguchtii (De Wild.) Petit (N. Hallé 3191 and Le Testu 1884) : 1, stipule; 2, internode myrmecodome and young inflorescence 45 mm in diam.; 3, fruit 6 cm in diam.; 4, seed 2.8 mm. — N. Gilletii (De Wild.) Merr. (Le Testu 8097) : 5, stipule; 6, juvenile infructescence.*
 
 ## Notes
 

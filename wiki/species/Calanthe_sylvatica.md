@@ -7,6 +7,9 @@ family: Orchidaceae
 vol: 36
 pages: 109-111
 source: sources/Orchidaceae_vol36_paddle
+countries: [Angola, Burundi, Cameroon, Equatorial Guinea, Gabon, Guinea, Kenya, Madagascar, Malawi, Mozambique, Nigeria, Rwanda, Sao Tome and Principe, Sierra Leone, Tanzania, Uganda, Zambia, Zimbabwe]
+in_region: true
+habitat: [riverine]
 tags: [species, generated]
 ---
 # *Calanthe sylvatica* (Thouars) Lindl.

@@ -5,10 +5,10 @@ authority: Engl.
 genus: Fagara
 family: Rutaceae
 synonyms: [Fagara iturensis, Fagara inaequalis, Fagara obliquefoliolata, Fagara melanorhachis]
-countries: [Cameroon, Equatorial Guinea, Gabon, Democratic Republic of the Congo]
-in_region: true
-habit: tree
 treatments: [{vol: 6, pages: "26–30", source: sources/Rutaceae_vol6_paddle}]
+countries: [Cameroon, Equatorial Guinea, Gabon]
+in_region: true
+habit: "tree"
 tags: [species]
 ---
 

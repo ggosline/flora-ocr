@@ -7,6 +7,8 @@ family: Leguminosae
 vol: 31
 pages: 165-167
 source: sources/Leguminosae_vol31_paddle
+countries: [Gabon]
+in_region: true
 tags: [species, generated]
 ---
 # *Samanea saman* (Jacquin) Merrill

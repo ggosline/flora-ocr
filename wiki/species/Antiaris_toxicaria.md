@@ -7,6 +7,8 @@ family: Moraceae
 vol: 26
 pages: 112-116
 source: sources/Moraceae_vol26_paddle
+countries: [Cameroon, Gabon]
+in_region: true
 tags: [species, generated]
 ---
 # *Antiaris toxicaria* Leschenault
@@ -47,7 +49,7 @@ A. toxicaria subsp. welwitschii can be subdivided into var. welwitschii, var. af
 
 ![Antiaris toxicaria](../sources/Moraceae_vol26_paddle/figures/fig_033_p0114.png)
 
-*PL. 32. - Antiaris toxicaria Lesch. ssp. welwitschii (Engl.) C.C. Berg var. welwitschii: 1, rameau feuillé avec inflorescences staminées; 2, rameau feuillé avec inflorescences pistillées; 3, rameau avec infrutescences (1, Flamigni 10490, Zaïre; 2, Toka 26, Zaïre; 3, Devred 762, Zaïre).*
+*PL. 32. - Antiaris toxicaria Lesch. ssp. welwitschii (Engl.) C.C. Berg var. welwitschii: 1, leafy branch with staminate inflorescences; 2, leafy branch with pistillate inflorescences; 3, branch with fruit structures (1, Flamigni 10490, Zaïre; 2, Toka 26, Zaïre; 3, Devred 762, Zaïre).*
 
 ## Notes
 

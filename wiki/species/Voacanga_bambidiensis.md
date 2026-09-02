@@ -7,6 +7,7 @@ family: Apocynaceae
 vol: 59
 pages: 263-265
 source: sources/Apocynaceae_vol59_liteparse
+altitude_m: "300–450"
 tags: [species, generated]
 ---
 # *Voacanga bambidiensis* Jongkind, spec. nov. Figure 15(A, B)
@@ -16,8 +17,6 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 Diagnosis : Differs from all other African Voacanga spp. by the absence of colleters on the inside of the calyx.
 
 ## Type
@@ -26,17 +25,13 @@ Texier & Akouangou 118 :$**DERQ2JRRXp/ROR&(%)RUHVW&RQFHVVLRQQRUWKZHVWRI%DPELGL¶
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-forêt ; à 300-450 m d’altitude
+forest; at 300-450 m altitude
 
 ## Source note
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Other specimen studied (paratype) : van der Maesen, Louis & de Bruijn 5532 *DERQ2JRRXp/ROR&KDQWLHU6%/NP(RI/DVWRXUVYLOOH5DLOZD\EULGJHQRYÀ
 
-Autre spécimen étudié (paratype) : van der Maesen , Louis & de Bruijn 5532 *DERQ2JRRXp/ROR&KDQWLHU6%/NP(RI/DVWRXUVYLOOH5DLOZD\EULGJHQRYÀ
-
-A B D C E F G Fleur et bouton. – Voacanga micrantha '7LJHÀRULIqUH(,QÀRUHVFHQFH± Voacanga lanceolata : F, *,QÀRUHVFHQFH3KRWRVSDU1LFRODV7H[LHU$%QRUGHVWGH/DVWRXUVYLOOH*DERQ(KRDUQ%LGDXOW &0DERXQLp*DERQ-HDQ3LHUUH9DQGHZHJKH'(31/RDQJR*DERQ9LQFHQW'URLVVDUW) 0EDP0LQNRP&DPHURXQ*5pVHUYHG¶(ER&DPHURXQ
+A B D C E F G Flower and bud. – Voacanga micrantha '7LJHÀRULIqUH(,QÀRUHVFHQFH± Voacanga lanceolata : F, *,QÀRUHVFHQFH Photos by Nicolas Texier A B northeast of Lastoursville, Gabon, E hoarfrost Bidault, C Mabounié, Gabon, Jean-Pierre Vandeweghe D E P N Loango, Gabon, Vincent Droissart, F Mbam Minkom, Cameroon, G Reserve d'Ebo, Cameroon
 
 ## Notes
 

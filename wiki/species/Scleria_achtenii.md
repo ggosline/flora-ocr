@@ -7,6 +7,12 @@ family: Cyperaceae
 vol: 44
 pages: 206-207
 source: sources/Cyperaceae_vol44_liteparse
+countries: [Gabon]
+in_region: true
+subdivisions:
+  Gabon: [Haut-Ogooué, Nyanga, Ogooué-Ivindo, Ogooué-Maritime]
+habit: "herb"
+altitude_m: "1180"
 tags: [species, generated]
 ---
 # *Scleria achtenii* De Wild. Planche 128
@@ -21,7 +27,7 @@ Perennial herb, with rhizome 5 and + cm × 3–6 mm, woody, reddish and often br
 
 ## Distribution
 
-widely distributed in tropical Africa, also in Natal; rare in Gabon, found only in Upper Ogooué, Nyanga, Ogooué-Ivindo and Ogooué-Maritime (5 collections)
+widely distributed in tropical Africa, also in Natal; rare in Gabon, found only in Haut-Ogooué, Nyanga, Ogooué-Ivindo and Ogooué-Maritime (5 collections)
 
 ## Ecology
 

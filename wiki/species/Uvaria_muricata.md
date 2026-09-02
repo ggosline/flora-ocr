@@ -7,6 +7,8 @@ family: Annonaceae
 vol: 16
 pages: 0-0
 source: sources/Annonaceae_vol16_mineru
+countries: [Gabon, Republic of the Congo]
+in_region: true
 tags: [species, generated]
 ---
 # *Uvaria muricata* Pierre ex Engler et Diels
@@ -17,17 +19,15 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Engler, Monogr. Afr. Pflanzenf. 6: 23 (1901). — Pellegrin, Bull. Soc. Bot. Fr. Mem. 31: 59 (1949). — Tisserant, Bull. Soc. Bot. Fr. 103: 468 (1956). — Tisserant et Sillans, Not. Syst. 15, 3: 336 (1958).
 
-Engler,Monogr.Afr.Pflanzenf.6 :23(19o1).- Pellegrin,Bull. Soc.Bot.Fr. Mem.31 :59 (1949).- Tisserant,Bull.Soc.Bot.Fr.1o3:468 (1956).— Tisserant et Sillans, Not.Syst.15,3 :336 (1958).
+In the broad sense, this species occupies all of central Africa, where it is represented by three varieties. Tisserant had already recognized the variety yalingensis (fig. 2 to 9, pl. 5) in the Central African Republic, distinct in its mericarps; rediscovered in Cameroon, it appears to be specific to drier regions. Uoaria suaveolens Louis ex Boutique appears to us to be assignable to this species as a simple variety present in Gabon together with the variety muricata.
 
-Au sens large, cette espece occupe toute I'Afrique centrale, ou elle est représentée par trois variétés. Tisserant avait déja reconnu la variété yalingensis (fig. 2 á 9,pl. 5) en République centrafricaine, distincte par les méricarpes; retrouvée au Cameroun, elle semble spécifique des régions plus seches. Uoaria suaveolens Louis ex Boutique nous parait devoir étre rattaché â cette espéce comme simple variété présente au Gabon avec la varieté muricata.
+Liane reaching 8 cm in diameter; branchlets glabrous, ramilles pubescent with reddish-brown stellate hairs to glabrescent. Leaves with petiole 5-15 mm long, pubescent to glabrescent; blade papyraceous to subcoriaceous, elliptic to elliptic-oblong, 5-19 cm long, 2.5-9.5 cm wide, attenuate to ± longly acuminate at the apex, rounded to subcordate at the base in vars. muricata and yalingensis, cuneiform to subrounded in var. suaveolens; upper face entirely glabrous (var. suaveolens), with midvein pubescent-stellate (vars. muricata and yalingensis), lower face glabrescent, ± pubescent along the midvein, lateral veins 14-17 pairs, obliquely ascending, plane above, prominent below. Veinlet network scarcely visible.
 
-Liane atteignant 8 cm de diametre; rameaux glabres, ramilles pubescentes á poils étoilés brun roux á glabrescentes.Feuilles ä pétiole long de 5-15 mm,pubescent ä glabrescent; limbe papyracé á subcoriace,elliptique ä elliptique-oblong,long de 5-19 cm, large de 2,5-9,5 cm,atténué a ± longuement acuminé au sommet, arrondi a subcordé a la base dans les var. muricata et yalingensis, cunéiforme a subarrondi dans la var. suaveolens ; face supérieure entierement glabre (var.suaveolens),a nervure médiane pubescenteétoilée (var. muricata et yalingensis),face inférieure glabrescente,± pubescente le long de la nervure médiane,nervures latérales 14-17 paires, obliques ascendantes,planes au-dessus, saillantes en dessous.Réseau de nervilles peu visible.
+Flowers yellow, solitary, extra-axillary to suboppositi­folious, with slender pedicel, 10-22 mm long, puberulent to ± pubescent. Floral bud subglobose with well-distinct sepals. Sepals broadly triangular-ovate to semi-orbicular, 3-5 mm long, 4-7 mm wide, fused at the base over 1.5-2 mm in height, tomentellous with short stellate hairs on both faces. Petals subequal, broadly ovate to suborbicular, 1.2-1.5 cm long, 1.2-1.6 cm wide, tomentellous-stellate on the outside, glabrous on the inside, the inner ones clawed at the base. Receptacle discoid ± thick, 2-4 mm. Stamens numerous, subsessile, oblong to ± cuneiform, 2-2.5 mm long, with lateral linear thecae, connective thick, widened-truncate above the anthers, slightly extended at the dorsal part, finely puberulent. Carpels 20-25, 3.5-4.5 mm long, inserted in a central depression of the receptacle; ovaries ovoid, pubescent-stellate, styles obconic thick, pubescent, stigmas involute.
 
-Fleurs jaunes, solitaires, extra-axillaires a suboppositifoliees, a pédicelle gréle,long de Io-22 mm,pubérulent á ± pubescent. Bouton floral subglobuleux a sépales bien distincts. Sépales largement triangulaires-ovés a semi-orbiculaires, longs de 3-5 mm, larges de 4-7 mm,soudés á la base sur 1,5-2 mm de hauteur, tomentelleux ä poils étoiles courts sur les deux faces.Pétales subégaux, largement oves a suborbiculaires, longs de 1,2-1,5 cm, larges de 1,2-1,6 cm, tomentelleux-étoilés ä l'extérieur, glabres a l'intérieur,les internes onguiculés a la base.Réceptacle discoidal 士 épais,2-4 mm.Etamines nombreuses, subsessiles, oblongues a ± cunéiformes,longues de 2-2,5 mm, a theques linéaires latérales, connectif épais,élargi-tronqué au-dessus des antheres,légerement prolongé á la partie dorsale, finement pubérulent. Carpelles 20-25,longs de 3,5-4,5 mm, inseres dans une dépression centrale du réceptacle;ovaires ovoides, pubescents-étoilés, styles obconiques épais,pubescents,stigmates involutes.
-
-Fruits ä pédicelle long de 2-4 cm;méricarpes orangés, 20-25, globuleux a subglobuleux,de 1o-18 mm de diamétre, ä péricarpe ligneux,profondément échinulé (var.muricata), finement échinulé et tomentelleux-étoilés (var. yalingensis et suaveolens); stipe médian,long de 13-2o mm.Réceptacle fructifére discoidal,± épais, de 2,5-7 mm de hauteur,Io-18 mm de diamétre.Graines 4-8, oblongues-aplaties,longues de Io mm environ,larges de 5-6 mm, ä testa brun ponctué.
+Fruits with pedicel 2-4 cm long; mericarps orange, 20-25, globose to subglobose, 10-18 mm in diameter, with woody pericarp, deeply echinulate (var. muricata), finely echinulate and tomentellous-stellate (vars. yalingensis and suaveolens); median stipe, 13-20 mm long. Fructiferous receptacle discoid, ± thick, 2.5-7 mm in height, 10-18 mm in diameter. Seeds 4-8, oblong-flattened, approximately 10 mm long, 5-6 mm wide, with brown punctate testa.
 
 var. muricata (fig. 1, pl. 7).
 
@@ -39,9 +39,7 @@ Louis I2529, Yangambi, Congo (BR!)
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Cette variété se distingue par ses feuilles arrondies a subcordées a la base et ses méricarpes profondément échinulés, ä stipes longs de 2,5-3 cm.
+This variety is distinguished by its leaves rounded to subcordate at the base and its mericarps deeply echinulate, with stipes 2.5-3 cm long.
 
 Gabon, Congo-Brazzaville.
 

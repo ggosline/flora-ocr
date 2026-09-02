@@ -7,6 +7,10 @@ family: Celastraceae
 vol: 29
 pages: 91-96
 source: sources/Celastraceae_vol29_paddle
+countries: [Cameroon, Central African Republic, Cote d'Ivoire, Democratic Republic of the Congo, Equatorial Guinea, Gabon, Ghana, Guinea, Liberia, Senegal, Sierra Leone]
+in_region: true
+habit: "liana"
+habitat: [swamp forest, secondary forest]
 tags: [species, generated]
 ---
 # *Salacia debilis* (G. Don) Walpers

@@ -5,13 +5,6 @@ authority: Malécot & Gosline
 genus: Octoknema
 family: Octoknemaceae
 family_current: Erythropalaceae
-habit: shrub or small tree
-habitat: [primary forest, secondary forest]
-altitude_m: "500–600"
-subdivisions:
-  Gabon: [Ngounié]
-countries: [Gabon, Republic of the Congo]
-in_region: true
 treatments:
   - kind: article
     citation: "Gosline G. & Malécot V. (2011). A monograph of Octoknema (Octoknemaceae — Olacaceae s.l.). Kew Bulletin 66: 367–404."
@@ -19,6 +12,11 @@ treatments:
     pages: "388–391"
     doi: 10.1007/s12225-011-9293-9
     source: sources/articles/kew_bulletin_2011_octoknema/pymupdf
+countries: [Gabon]
+in_region: true
+subdivisions:
+  Gabon: [Ngounié]
+habit: "tree"
 tags: [species, post-flora]
 ---
 

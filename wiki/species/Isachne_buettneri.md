@@ -7,6 +7,7 @@ family: Gramineae
 vol: 05
 pages: 111-113
 source: sources/Gramineae_vol05_paddle
+habit: "herb"
 tags: [species, generated]
 ---
 # *Isachne buettneri* Hack. (f. p. 113).

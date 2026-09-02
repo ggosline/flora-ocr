@@ -7,6 +7,13 @@ family: Meliaceae
 vol: 47
 pages: 61-63
 source: sources/Meliaceae_vol47_liteparse
+countries: [Angola, Democratic Republic of the Congo, Gabon, Republic of the Congo]
+in_region: true
+subdivisions:
+  Gabon: [Moyen-Ogooué, Ngounié, Nyanga, Ogooué-Ivindo, Ogooué-Lolo]
+habit: "tree"
+habitat: [gallery forest]
+altitude_m: "500"
 tags: [species, generated]
 ---
 # *Trichilia gilletii* De Wild. Planche 18
@@ -17,31 +24,19 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Arbre moyen, 5–35 m de hauteur ; tronc cylindrique, jusqu’à 60 cm de diamètre ; tranche rose à brun pâle, légèrement odorante. Feuille : pétiole 4–12 cm ; rachis (1–)3–12(–16) cm ; pétiolules (5–)7–13(–15) mm, ceux des folioles terminales (8–)13–25 mm ; folioles (3–)7–9(11), opposées ou subopposées, étroitement elliptiques à obovales ou ovales, (5,5–)7–19(–21) × (2–)3–8 cm, cunéiformes à obtuses à la base, acuminées au sommet,
-
-N–R : J. Louis 4084 ). Dessin par Ike Zewald, Naturalis Biodiversity Center, Leiden (©).
-
-glabrescentes, finement ponctuées de points et tirets translucides , la nervure médiane quelquefois carénée à la face supérieure. Inflorescence axillaire à supra-axillaire ou pseu do-terminale, (4–)5,5–15(–21) cm de longueur, à fleurs parfumées ; bractées rapidement caduques. Fleur fonctionnellement mâle : pédicelle 1–2,5(–4) mm ; bractéoles caduques ; réceptacle 1–1,5(–2) mm de longueur ; calice profondément 5-lobé, 2–3 × 3,5–5 mm, pubé rulent à l’extérieur ; pétales étroitement rectangulaires à obovales, (6,5–)7,5–10 × 1,5–3 mm, jaune pâle et pubérulents à l’extérieur ; couronne staminale (4,5–)5,5–8 mm de lon gueur, y inclus les anthères, à filets densément velus à l’intérieur dans leur partie libre, le reste glabre, anthères mucronulées au sommet, 1,4–2,3 × 0,4–0,7 mm ; pistillode filiforme, 4–7 mm de longueur, légèrement pubescent-strigueux. Fleur fonctionnellement femelle similaire mais avec anthérodes ; ovaire bien développé, 2-loculaire, globuleux, superficielle ment 6-côtelée, 1,5–2 mm de diamètre, densément couvert de poils soyeux ; style 3–4 mm, velu surtout à la base, stigmate capité. Fruit globuleux à réniforme, 1,5–2 cm de diamètre, à stipe de 5–11 mm, pubérulent, déhiscent par 2 valves . Graine 15–20 × 10–13 mm, à testa brun foncé et modifié presque entièrement en sarcotesta rouge-orange.
+Medium tree, 5–35 m tall; trunk cylindrical, up to 60 cm diameter; cross-section pale pink to pale brown, slightly fragrant. Leaf: petiole 4–12 cm; rachis (1–)3–12(–16) cm; petiolules (5–)7–13(–15) mm, those of terminal leaflets (8–)13–25 mm; leaflets (3–)7–9(11), opposite or subopposite, narrowly elliptic to obovate or ovate, (5.5–)7–19(–21) × (2–)3–8 cm, cuneate to obtuse at base, acuminate at apex, glabrescent, finely punctate with translucent dots and dashes, the midvein sometimes carinate on upper surface. Inflorescence axillary to supra-axillary or pseudo-terminal, (4–)5.5–15(–21) cm long, with fragrant flowers; bracts soon caducous. Functionally male flower: pedicel 1–2.5(–4) mm; bracteoles caducous; receptacle 1–1.5(–2) mm long; calyx deeply 5-lobed, 2–3 × 3.5–5 mm, puberulent outside; petals narrowly rectangular to obovate, (6.5–)7.5–10 × 1.5–3 mm, pale yellow and puberulent outside; stamen crown (4.5–)5.5–8 mm long, including anthers, with filaments densely villous inside in their free part, remainder glabrous, anthers mucronate at apex, 1.4–2.3 × 0.4–0.7 mm; pistillode filiform, 4–7 mm long, slightly pubescent-strigulose. Functionally female flower similar but with antheridia; ovary well developed, 2-locular, globose, superficially 6-costate, 1.5–2 mm diameter, densely covered with silky hairs; style 3–4 mm, villous especially at base, stigma capitate. Fruit globose to reniform, 1.5–2 cm diameter, with stipe 5–11 mm, puberulent, dehiscent by 2 valves. Seed 15–20 × 10–13 mm, with dark brown testa modified almost entirely into red-orange sarcotesta.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Gabon, République du Congo, Angola (Cabinda) et République Démocra tique du Congo ; au Gabon, assez rare, connue du Moyen-Ogooué, de la Ngounié, de la Nyanga, de l’Ogooué-Ivindo et de l’Ogooué-Lolo
+Gabon, Republic of the Congo, Angola (Cabinda) and Democratic Republic of the Congo; in Gabon, rather rare, known from Moyen-Ogooué, Ngounié, Nyanga, Ogooué-Ivindo and Ogooué-Lolo
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-forêt dense humide ou semi-caducifoliée, primaire ou secondaire, galerie fo restière ; au Gabon, jusqu’à 500 m d’altitude, ailleurs jusqu’à 500 m
+dense humid or semi-deciduous forest, primary or secondary, gallery forest; in Gabon, up to 500 m altitude, elsewhere up to 500 m
 
 ## Uses
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-L’écorce est utilisée comme antipyrétique et comme purgatif. L’huile de ses graines est un émétique. B : Lemmens (2008c), Staner & Gilbert (1958), de Wilde (1968). ibliographie
+The bark is used as an antipyretic and as a purgative. The oil of its seeds is an emetic. B: Lemmens (2008c), Staner & Gilbert (1958), de Wilde (1968). Bibliography
 
 ## Notes
 

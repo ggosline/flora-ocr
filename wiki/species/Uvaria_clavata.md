@@ -7,6 +7,9 @@ family: Annonaceae
 vol: 16
 pages: 0-0
 source: sources/Annonaceae_vol16_mineru
+countries: [Gabon]
+in_region: true
+habit: "liana"
 tags: [species, generated]
 ---
 # *Uvaria clavata* Pierre ex Engler et Diels
@@ -17,15 +20,13 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Engler, Monogr. Afr. Pflanzenf. 6: 21 (1901). – Pellegrin, Bull. Soc. Bot. Fr., Mem. 31: 59 (1949).
 
-Engler,Monogr.Afr. Pflanzenf.6 : 2I (19oI).- Pellgrin,Bull. Soc.Bot.Fr., Mem.31:59 (1949).
+High liane, exceeding 8 m in height; branches glabrous, branchlets puberulent-stellate rusty. Leaves with thick petiole, 4–7 mm long, glabrescent; blade coriaceous, oblong to oblong-obovate, 9–21 cm long, 4–8.5 cm wide, acuminate at the apex, rounded to subcordate at the base, glabrous on both surfaces. Midvein impressed above, very prominent below; lateral veins 10–13 pairs, spaced 1.5–2 cm apart, very prominent on the lower surface.
 
-Liane élevee, dépassant 8 m de hauteur; rameaux glabres, ramilles pubérulentes-étoilées rousses. Feuilles â pétiole épais, long de 4-7 mm,glabrescent; limbe coriace, oblong á oblongobové,long de 9-2I cm,large de 4-8,5 cm,acuminé au sommet, arrondi â subcordé á la base,glabre sur les deux faces.Nervure médiane imprimée au-dessus, tres saillante en dessous;nervures latérales Io-13 paires,espacées de 1,5-2 cm, tres saillantes â la face inférieure.
+Flowers yellowish, pendulous, solitary, opposite the leaves, with pedicel approximately 1.5 cm long, puberulent-stellate rusty. Bracteoles ovate-lanceolate, approximately 1.5 mm long. Calyx with lobes distinct in bud, very rapidly caducous; sepals broadly ovate, 6 mm long, 5 mm wide, united at the base, puberulent-stellate on the outside. Petals subequal, 2–2.5 cm long, obtuse at the apex; the outer ones broadly ovate, rounded at the base, 1.5–1.8 cm wide, puberulent on both surfaces; the inner ones narrower, elliptic, shortly unguiculate at the base, puberulent-stellate with short hairs on the outside and inner apex, pubescent with long simple whitish hairs on the inner center. Stamens numerous, 10–12-seriate, 2.5 mm long, with very short filaments, thecae linear lateral, connectives thick, truncate above the anthers and puberulent. Carpels 30–35, oblong, 4.5 mm long, hairy, stigmas involute. 6–7 ovules in two series. Receptacle hemispherical, 3 mm high.
 
-Fleurs jaunatres,pendantes,solitaires,oppositifoliées,a pédicelle long de 1,5 cm environ, pubescent-stellé roux,Bractéoles ovées-lancéolées,longues de 1,5 mm environ. Calice a lobes distincts dans le bouton, tres rapidement caduc; sépales largement ovés,longs de 6 mm,larges de 5 mm,soudés a la base,pubérulentsstellés á l'extérieur. Pétales subégaux, longs de 2-2,5 cm,obtus au sommet; les externes largement ovés,arrondis ä la base, larges de 1,5-1,8 cm,pubérulents sur les deux faces, les internes plus étroits,elliptiques,courtement onguiculés â la base,pubé- rulents-stellés á poils courts ^ l'extérieur et au sommet interne, pubescents á longs poils simples blanchatres au centre interne. Etamines nombreuses Io-12-sériées, longues de 2,5 mm,á filets tres courts,theques linéaires latérales,connectifs épais,tronqués au-dessus des antheres et pubérulents. Carpelles 3o-35,oblongs, longs de 4,5 mm,velus,stigmates involutés. 6-7 ovules biséries. Réceptacle hémisphérique,haut de 3 mm.
-
-Fruits orangés,ä pédicelle long de 2 cm et épais de 6 mm. Réceptacle fructifere de 8-9 mm de diametre,haut de 9 mm environ; méricarpes 15 environ,cylindriques ä globuleux,± trigones, aplatis latéralement, longs de 1,5-4 cm,larges de 1,5-2 cm, légerement étranglés entre les graines,ornés longitudinalement de 2-3 cotes fines, glabres et rugueux; stipes latéraux, longs de 1,5- 3 cm.Pulpe sucrée entourant les graines. Graines 2-7, bisériees, oblongues,aplaties,longues de 1,3-1,5 cm,larges de o,8 cm environ, a testa brun rugueux.
+Fruits orange, with pedicel 2 cm long and 6 mm thick. Fruiting receptacle 8–9 mm in diameter, approximately 9 mm high; mericarps approximately 15, cylindric to globose, ± trigonous, flattened laterally, 1.5–4 cm long, 1.5–2 cm wide, slightly constricted between the seeds, ornamented longitudinally with 2–3 fine ribs, glabrous and rugose; lateral stipites, 1.5–3 cm long. Pulp sweet surrounding the seeds. Seeds 2–7, in two series, oblong, flattened, 1.3–1.5 cm long, approximately 0.8 cm wide, with brown rugose testa.
 
 ## Type
 
@@ -33,11 +34,9 @@ Klaine 8o7,environs de Libreville (holotype P!)
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Plant known only from Gabon, in dense humid forest. Approaches U. Dinklagei Engl. et Diels very closely, a West African species, in the rather peculiar form of its fruits, but differs from it by its leaves rounded to cordate at the base, whereas they are cuneiform in U. Dinklagei.
 
-Plante connue seulement du Gabon,en forét dense humide. Se rapproche beaucoup d'U. Dinklagei Engl. et Diels,espece d'Afrique occidentale,par la forme assez particuliere de ses fruits, mais en différe par ses feuilles arrondies ä cordées á la base,alors qu'elles sont cunéiformes chez U.Dinklagei.
-
-Le calice d'U.clavata a été décrit par Engler et Diels comme étant cupuliforme dans le bouton;le matériel de référence ne porte que des fleurs épanouies,dont les restes du calice caduc ont été interprétés comme de tres petits sépales soudés.L'examen de nouveau matériel,heureusement en boutons,nous a permis de constater que les sépales sont tres nettement distincts dans le bouton,et atteignent des dimensions doubles de celles indiquées dans la description originale.
+The calyx of U. clavata was described by Engler and Diels as cupuliform in bud; the reference material bears only open flowers, of which the remains of the caducous calyx were interpreted as very small united sepals. Examination of new material, fortunately in bud, has permitted us to ascertain that the sepals are very clearly distinct in bud, and attain dimensions double those indicated in the original description.
 
 ## Specimens examined
 

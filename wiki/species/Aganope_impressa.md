@@ -7,6 +7,13 @@ family: Leguminosae
 vol: 49
 pages: 33-33
 source: sources/Millettiaspeciesfabaceae_vol49_liteparse
+countries: [Cameroon, Democratic Republic of the Congo, Gabon, Nigeria, Republic of the Congo]
+in_region: true
+subdivisions:
+  Gabon: [Ngounié, Ogooué-Ivindo, Ogooué-Lolo, Woleu-Ntem]
+habit: "tree"
+habitat: [swamp forest, savanna]
+altitude_m: "200–600"
 tags: [species, generated]
 ---
 # *Aganope impressa* (Dunn) Polhill

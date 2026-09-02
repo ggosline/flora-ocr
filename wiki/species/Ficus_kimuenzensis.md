@@ -7,6 +7,9 @@ family: Moraceae
 vol: 26
 pages: 211-213
 source: sources/Moraceae_vol26_paddle
+countries: [Angola, Nigeria]
+in_region: true
+habit: "shrub"
 tags: [species, generated]
 ---
 # *Ficus kimuenzensis* Warburg $ ^{1} $
@@ -45,7 +48,7 @@ Hallé N. 2036, 10 km SW Ndjolé (stér.); 3805, Bélinga (stér.). Michaloud 23
 
 ![Ficus kimuenzensis](../sources/Moraceae_vol26_paddle/figures/fig_062_p0212.png)
 
-*PL. 61. - Ficus kimuenzensis Warb.: 1, rameau avec feuilles × 1; 2, figue cauliflore × 1 (1, Hallé N. 3805; 2, Bos 4802, Cameroun).*
+*PL. 61. - Ficus kimuenzensis Warb.: 1, branch with leaves × 1; 2, cauliflorous fig × 1 (1, Hallé N. 3805; 2, Bos 4802, Cameroon).*
 
 ## Notes
 

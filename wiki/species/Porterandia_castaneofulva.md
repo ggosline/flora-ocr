@@ -7,6 +7,7 @@ family: Rubiaceae
 vol: 17
 pages: 125-126
 source: sources/Rubiaceae_vol17_paddle
+habit: "liana"
 tags: [species, generated]
 ---
 # *Porterandia castaneofulva* (S. Moore) Keay
@@ -42,7 +43,7 @@ G. Le Testu 1632, Tchibanga, Mayombe Bayaka forest (fl. Sept.). Thollon 1321, Ma
 
 ![Porterandia castaneofulva](../sources/Rubiaceae_vol17_paddle/figures/fig_028_p0127.png)
 
-*PL. 28. — Porterandia castaneofulva (Moore) Keay (fl. Thollon 1321; fr. Gossweiler 621) : 1, rameau florifère × 1; 2, fleur épanouie × 1; 3, corolle de profil; 4, anthère × 5; 5, coupe transversale de l'anthère, ouverte et vidée; 6, style × 2; 7, coupe du disque; 8, rameau fructifère × 0,75; 9, graine immature, env. 2 mm. — P. annulata (K. Schum.) Keay (fl. Le Testu 9355; fr. Jolly 26 et Klaine 2544) : 10, rameau florifère × 0,8; 11, coupe transversale de l'anthère; 12, coupe du disque; 13, fruit, × 1; 14, coupe transversale du fruit sec; 15, graine de 2 mm; 16, embryon (d'après Pierre) de 1,5 mm.*
+*PL. 28. — Porterandia castaneofulva (Moore) Keay (fl. Thollon 1321; fr. Gossweiler 621) : 1, flowering branch × 1; 2, open flower × 1; 3, corolla in profile; 4, anther × 5; 5, transverse section of the anther, open and empty; 6, style × 2; 7, section of the disk; 8, fruiting branch × 0.75; 9, immature seed, ca. 2 mm. — P. annulata (K. Schum.) Keay (fl. Le Testu 9355; fr. Jolly 26 and Klaine 2544) : 10, flowering branch × 0.8; 11, transverse section of the anther; 12, section of the disk; 13, fruit, × 1; 14, transverse section of the dry fruit; 15, seed 2 mm; 16, embryo (after Pierre) 1.5 mm.*
 
 ## Notes
 

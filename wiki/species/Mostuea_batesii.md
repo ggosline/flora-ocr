@@ -7,6 +7,9 @@ family: Loganiaceae
 vol: 19
 pages: 29-30
 source: sources/Loganiaceae_vol19_paddle
+countries: [Cameroon, Gabon]
+in_region: true
+habit: "shrub"
 tags: [species, generated]
 ---
 # *Mostuea batesii* Baker

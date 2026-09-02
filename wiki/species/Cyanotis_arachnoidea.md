@@ -7,6 +7,12 @@ family: Commelinaceae
 vol: 55
 pages: 33-33
 source: sources/Commelinaceae_vol55_liteparse
+countries: [Angola, Cameroon, Cote d'Ivoire, Democratic Republic of the Congo, Gabon, Ghana, Kenya, Liberia, Nigeria, Tanzania, Uganda, Zimbabwe]
+in_region: true
+subdivisions:
+  Gabon: [Ogooué-Ivindo, Woleu-Ntem]
+habit: "herb"
+altitude_m: "750"
 tags: [species, generated]
 ---
 # *Cyanotis arachnoidea* C.B.Clarke

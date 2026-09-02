@@ -7,6 +7,10 @@ family: Leguminosae
 vol: 31
 pages: 100-103
 source: sources/Leguminosae_vol31_paddle
+countries: [Angola, Cameroon, Gabon, Nigeria]
+in_region: true
+habit: "tree"
+habitat: [coastal]
 tags: [species, generated]
 ---
 # *Calpocalyx dinklagei* Harms
@@ -61,11 +65,11 @@ fira, ofira (Fang) ; minsi (Boulou)
 
 ![Calpocalyx dinklagei](../sources/Leguminosae_vol31_paddle/figures/fig_037_p0102.png)
 
-*PL. 25. – Calpocalyx dinklagei Harms : 1, aspect général × 1 ; 2, foliole, détail nervation, face inférieure × 3 ; 3, pétiole, sommet × 3 ; 4, 5, 6, bractée × 6 ; 7, bractéole × 8 ; 8, bouton floral × 12 ; 9, fleur × 8. (1, Letouzey 4573 (Cameroun) ; 2, 3, De Wilde 1993, (Cameroun) ; 4-8, Le Testu 8545).*
+*PL. 25. – Calpocalyx dinklagei Harms : 1, general aspect × 1 ; 2, leaflet, detail of venation, lower surface × 3 ; 3, petiole, apex × 3 ; 4, 5, 6, bract × 6 ; 7, bractlet × 8 ; 8, floral bud × 12 ; 9, flower × 8. (1, Letouzey 4573 (Cameroon) ; 2, 3, De Wilde 1993, (Cameroon) ; 4-8, Le Testu 8545).*
 
 ![Calpocalyx dinklagei](../sources/Leguminosae_vol31_paddle/figures/fig_040_p0110.png)
 
-*PL. 28. – Calpocalyx dinklagei Harms: 1, fruit × 0,5; 2, 3, 4, graine × 0,5. (1, Letouzey 14635 (Cameroun); 3-4, Letouzey 9331 (Cameroun). – C. heitzii Pellegr.: 5, fruit × 0,5; 6, coupe schématique du fruit. (Letouzey 9131 bis (Cameroun)). – C. klainei Pierre ex Harms: 7, fruit × 0,5; 8, coupe schématique du fruit. (Villiers J.-F. 291).*
+*PL. 28. – Calpocalyx dinklagei Harms: 1, fruit × 0.5; 2, 3, 4, seed × 0.5. (1, Letouzey 14635 (Cameroon); 3-4, Letouzey 9331 (Cameroon). – C. heitzii Pellegr.: 5, fruit × 0.5; 6, schematic section of fruit. (Letouzey 9131 bis (Cameroon)). – C. klainei Pierre ex Harms: 7, fruit × 0.5; 8, schematic section of fruit. (Villiers J.-F. 291).*
 
 ## Notes
 

@@ -7,6 +7,9 @@ family: Bombacaceae
 vol: 22
 pages: 46-48
 source: sources/Bombacaceae_vol22_paddle
+countries: [Democratic Republic of the Congo, Gabon]
+in_region: true
+habit: "herb"
 tags: [species, generated]
 ---
 # *Rhodognaphalon lukayense* (De Wildeman & Th. Durand) A. Robyns
@@ -43,11 +46,11 @@ Chevalier 26984, plantation Stéphane, sur la Bokoué (fr., oct.).
 
 ![Rhodognaphalon lukayense](../sources/Bombacaceae_vol22_paddle/figures/fig_013_p0037.png)
 
-*PL. 9. — Fruits et graines de Bombacaceae : 1, capsule de Ceiba pentandra (L.) Gaertn. × 2/3; 2, capsule de Rhodognaphalon brevicuspe (Sprague) Roberta × 2/3; 3, capsule de Bombax buonopozense P.B. × 2/3; 4, graine de Ceiba pentandra (L.) Gaertn. × 3; 5, graine de Rhodognaphalon lukayense (De Wild. et Th. Dur.) A. Robyns × 1,5; 6, graine de Rhodognaphalon brevicuspe (Sprague) Roberta × 1,8; 7, graine de Bombax buonopozense P.B. × 3; 8, graine de Pachira aquatica Aubl. × 1,3 (1-4, Chevalier 23112; 2, 6, Bernardi 8388; 3, 7, Vuillet 733; 5, Chevalier 26984; 8, 9, Chevalier 26983).*
+*PL. 9. — Fruits and seeds of Bombacaceae : 1, capsule of Ceiba pentandra (L.) Gaertn. × 2/3; 2, capsule of Rhodognaphalon brevicuspe (Sprague) Roberta × 2/3; 3, capsule of Bombax buonopozense P.B. × 2/3; 4, seed of Ceiba pentandra (L.) Gaertn. × 3; 5, seed of Rhodognaphalon lukayense (De Wild. and Th. Dur.) A. Robyns × 1,5; 6, seed of Rhodognaphalon brevicuspe (Sprague) Roberta × 1,8; 7, seed of Bombax buonopozense P.B. × 3; 8, seed of Pachira aquatica Aubl. × 1,3 (1-4, Chevalier 23112; 2, 6, Bernardi 8388; 3, 7, Vuillet 733; 5, Chevalier 26984; 8, 9, Chevalier 26983).*
 
 ![Rhodognaphalon lukayense](../sources/Bombacaceae_vol22_paddle/figures/fig_016_p0047.png)
 
-*PL. 12. — Rhodognaphalon lukayense (De Wild. & Th. Dur.) A. Robyns : 1, feuilles et fleur × 2/3; 2, stipule × 3,5; 3, coupe schématique du pétiolule; 4, détail de la nervation × 1; 5, acumen × 2,5; 6, détail réceptacle × 1,4; 7, colonne staminale × 1; 8, coupe schématique du style (1-8, Sita 1108).*
+*PL. 12. — Rhodognaphalon lukayense (De Wild. & Th. Dur.) A. Robyns: 1, leaves and flower × 2/3; 2, stipule × 3,5; 3, schematic section of petiolule; 4, detail of venation × 1; 5, acumen × 2,5; 6, detail receptacle × 1,4; 7, staminal column × 1; 8, schematic section of style (1-8, Sita 1108).*
 
 ## Notes
 

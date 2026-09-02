@@ -7,6 +7,13 @@ family: Passifloraceae
 vol: 46
 pages: 73-75
 source: sources/Passifloraceae_vol46_liteparse
+countries: [Cameroon, Central African Republic, Democratic Republic of the Congo, Gabon, Republic of the Congo]
+in_region: true
+subdivisions:
+  Gabon: [Haut-Ogooué, Ngounié, Ogooué-Lolo, Woleu-Ntem]
+habit: "herb"
+habitat: [swamp forest]
+altitude_m: "1000"
 tags: [species, generated]
 ---
 # *Adenia poggei* (Engl.) Engl. Planche 25.7

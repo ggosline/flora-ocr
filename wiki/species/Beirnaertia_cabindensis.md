@@ -7,18 +7,15 @@ family: Menispermaceae
 synonyms:
   - "Tiliacora cabindensis Exell & Mendonça, J. Bot. 73, Suppl. Polypet., Addenda: 7 (1935)"
   - "Beirnaertia yangambiensis Louis ex Troupin, Bull. Jard. Bot. État Bruxelles 19: 420 (1949)"
-habit: liana
-habitat: [dense humid forest, gallery forest]
-altitude_m: "70–420 (Gabon); up to 600 elsewhere"
-countries: [Angola, Central African Republic, Democratic Republic of the Congo, Gabon, Republic of the Congo]
-subdivisions:
-  Angola: [Cabinda]
-  Gabon: [Haut-Ogooué, Moyen-Ogooué, Ngounié]
-in_region: true
 treatments:
   - vol: 60
     pages: "37–38"
     source: sources/Menispermaceae_vol60_liteparse
+countries: [Angola, Central African Republic, Democratic Republic of the Congo, Gabon, Republic of the Congo]
+in_region: true
+subdivisions:
+  Gabon: [Haut-Ogooué, Moyen-Ogooué, Ngounié]
+habit: "liana"
 tags: [species]
 ---
 

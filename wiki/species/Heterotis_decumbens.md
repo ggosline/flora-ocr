@@ -7,6 +7,8 @@ family: Melastomataceae
 vol: 25
 pages: 28-30
 source: sources/Melastomataceae_vol25_paddle
+habit: "herb"
+habitat: [coastal]
 tags: [species, generated]
 ---
 # *Heterotis decumbens* (Palisot de Beauvois) Jacques-Félix

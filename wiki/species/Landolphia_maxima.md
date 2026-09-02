@@ -7,6 +7,11 @@ family: Apocynaceae
 vol: 59
 pages: 140-143
 source: sources/Apocynaceae_vol59_liteparse
+countries: [Equatorial Guinea, Gabon]
+in_region: true
+habit: "liana"
+habitat: [secondary forest]
+altitude_m: "680"
 tags: [species, generated]
 ---
 # *Landolphia maxima* (K.Schum. ex Hallier f.) Pichon Planche 60

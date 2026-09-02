@@ -7,6 +7,9 @@ family: Aspleniaceae
 vol: 08
 pages: 146-147
 source: sources/Aspleniaceae_vol08_paddle
+countries: [Guinea]
+in_region: false
+habitat: [rocky ground]
 tags: [species, generated]
 ---
 # *Asplenium brausei* Hieronymus

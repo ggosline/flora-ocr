@@ -7,6 +7,8 @@ family: Orchidaceae
 vol: 36
 pages: 77-78
 source: sources/Orchidaceae_vol36_paddle
+countries: [Cameroon, Gabon, Nigeria]
+in_region: true
 tags: [species, generated]
 ---
 # *Hetaeria tetraptera* (Rchb.f.) Summerh.
@@ -47,7 +49,7 @@ Monotypic subtribe.
 
 ![Hetaeria tetraptera](../sources/Orchidaceae_vol36_paddle/figures/fig_034_p0078.png)
 
-*PL. 34. – Hetaeria tetraptera (Rchb.f.) Summerh.: A, fleur et bractée ; B, labelle vu de dessus ; C, sépale dorsal ; D, pétale ; E, sépale latéral ; F, feuille (A-F, Bos 4950, P).*
+*PL. 34. – Hetaeria tetraptera (Rchb.f.) Summerh.: A, flower and bract ; B, lip viewed from above ; C, dorsal sepal ; D, petal ; E, lateral sepal ; F, leaf (A-F, Bos 4950, P).*
 
 ![Hetaeria tetraptera](../sources/Orchidaceae_vol36_paddle/figures/fig_124_p0220.png)
 

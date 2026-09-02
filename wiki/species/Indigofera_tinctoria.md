@@ -7,6 +7,12 @@ family: Leguminosae
 vol: 49
 pages: 222-222
 source: sources/Millettiaspeciesfabaceae_vol49_liteparse
+countries: [Democratic Republic of the Congo, Gabon, Madagascar, Republic of the Congo]
+in_region: true
+subdivisions:
+  Gabon: [Estuaire]
+habit: "herb"
+altitude_m: "1250"
 tags: [species, generated]
 ---
 # *Indigofera tinctoria* L.

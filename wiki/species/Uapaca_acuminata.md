@@ -7,6 +7,13 @@ family: Phyllanthaceae
 vol: 43
 pages: 94-96
 source: sources/Phyllanthaceae_vol43_liteparse
+countries: [Angola, Cameroon, Democratic Republic of the Congo, Equatorial Guinea, Gabon, Republic of the Congo]
+in_region: true
+subdivisions:
+  Gabon: [Haut-Ogooué, Moyen-Ogooué, Ogooué-Lolo]
+habit: "tree"
+habitat: [secondary forest]
+altitude_m: "0–500"
 tags: [species, generated]
 ---
 # *Uapaca acuminata* (Hutch.) Pax & K.Hoffm. Planche 30A
@@ -17,23 +24,17 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-in Engl., Pflanzenr. IV.147.XV : 308 (1922). U . heudelotii Baill. var. acuminata Hutch. in Dyer, Fl. trop. Afr. 6(1) : 636 (1912). Arbre jusqu’à 35 m de hauteur au moins ; tronc jusqu’à 80 cm de diamètre, à racineséchasses en arceaux, jusqu’à 4 m de hauteur ; ramilles glabres ou avec quelques poils à l’aisselle des feuilles. Stipules absentes ou rarement minuscules (≤ 0,5 mm). Feuille : pétiole canaliculé dessus, 1–3(–5) cm, glabre ; limbe obovale-elliptique, (5–)8–10(–14) × (2,5–)3–5,5 cm, cunéé à la base, en général acuminé sur ≤ 0,5 cm au sommet (feuilles d’un individu jeune jusqu’à 25 × 8 cm à acumen ≤ 1,5 cm de longueur), papyracée à ± coriace, glabre ; nervures latérales (5–)6–9(–10) paires . Inflorescence ≤ 10 mm de dia mètre, à pédoncule de 5–15 mm ; bractées de l’involucre 6, concaves, 3–7 × 1,5–5 mm, glabres. Fleur mâle : calice 1–1,5 mm de longueur, glabre ; pétales oblancéolés, 0,5–1 × 0,2 mm, glabres ou avec quelques poils ; étamines 4–6, 1,5–2 mm de longueur, glabres, anthères ± 0,3 mm de longueur ; pistillode cyathiforme, ± 1 mm de longueur, glabre. Fleur femelle : calice 1 mm de longueur, glabre ; ovaire ellipsoïde, 4–5 mm de longueur, glabre ; stigmates 2 à 3 fois bifurqués. Fruit à pédoncule de 10–13 mm, ± ellipsoïde, 2–2,5 × 1,8–2 cm, verdâtre à jaunâtre, glabre , à 3 pyrènes.
+in Engl., Pflanzenr. IV.147.XV : 308 (1922). U . heudelotii Baill. var. acuminata Hutch. in Dyer, Fl. trop. Afr. 6(1) : 636 (1912). Tree up to 35 m tall at least; trunk up to 80 cm in diameter, with buttress roots in arches, up to 4 m tall; branchlets glabrous or with a few hairs at the leaf axils. Stipules absent or rarely minute (≤ 0.5 mm). Leaf: petiole canaliculate above, 1–3(–5) cm, glabrous; lamina obovate-elliptic, (5–)8–10(–14) × (2.5–)3–5.5 cm, cuneate at base, generally acuminate over ≤ 0.5 cm at apex (leaves of a young individual up to 25 × 8 cm with acumen ≤ 1.5 cm long), papyraceous to ± coriaceous, glabrous; lateral veins (5–)6–9(–10) pairs. Inflorescence ≤ 10 mm in diameter, with peduncle 5–15 mm; involucral bracts 6, concave, 3–7 × 1.5–5 mm, glabrous. Male flower: calyx 1–1.5 mm long, glabrous; petals oblanceolate, 0.5–1 × 0.2 mm, glabrous or with a few hairs; stamens 4–6, 1.5–2 mm long, glabrous, anthers ± 0.3 mm long; pistillode cyathiform, ± 1 mm long, glabrous. Female flower: calyx 1 mm long, glabrous; ovary ellipsoid, 4–5 mm long, glabrous; stigmas 2 to 3 times bifurcate. Fruit with peduncle 10–13 mm, ± ellipsoid, 2–2.5 × 1.8–2 cm, greenish to yellowish, glabrous, with 3 pyrenes.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Cameroun, Guinée Équatoriale, Gabon, République du Congo, Angola (Cabinda) et République Démocratique du Congo ; au Gabon, absente du Haut-Ogooué, du Moyen-Ogooué et de l’Ogooué-Lolo
+Cameroon, Equatorial Guinea, Gabon, Republic of the Congo, Angola (Cabinda) and Democratic Republic of the Congo; in Gabon, absent from Haut-Ogooué, Moyen-Ogooué and Ogooué-Lolo
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+primary and secondarized terra firme forest; in Gabon, at 0–500 m altitude
 
-forêt primaire et secondarisée de terre ferme ; au Gabon, à 0–500 m d’altitude
-
-b : Breteler (2012a, b), De Wildeman (1936), Keay (1958), Pax & Hoffmann ibliographie (1922).
+b : Breteler (2012a, b), De Wildeman (1936), Keay (1958), Pax & Hoffmann Bibliography (1922).
 
 ## Notes
 

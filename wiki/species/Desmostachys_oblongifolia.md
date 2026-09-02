@@ -7,6 +7,10 @@ family: Icacinaceae
 vol: 20
 pages: 50-52
 source: sources/Icacinaceae_vol20_paddle
+countries: [Cameroon, Democratic Republic of the Congo]
+in_region: true
+habit: "shrub"
+habitat: [swamp forest]
 tags: [species, generated]
 ---
 # *Desmostachys oblongifolia* (Engler) Villiers, comb. nov.

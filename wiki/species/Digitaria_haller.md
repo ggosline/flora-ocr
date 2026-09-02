@@ -99,7 +99,7 @@ Fl. Gab. : 53, Pl. 8 ; FACB 2 : 144 ; FWTA : 439 ; Fl. Zamb. 10(3) : 57 ; Gram. 
 
 ![Digitaria haller](../sources/Gramineae_vol5bis_paddle/figures/fig_005_p0026.png)
 
-*Pl. 5. - Echinochloa colona (L.) Link : 1, aspect de la plante ; 2, 3, épillet ; 4, 5, lemma supérieure. - Echinochloa pyramidalis (Lank) Hitchc. & Chase : 6, aspect de la plante ; 7, épillet ; 8, lemma supérieure. - Autorisation de reproduction : cf. Remerciements p. 68.*
+*Pl. 5. - Echinochloa colona (L.) Link : 1, plant habit ; 2, 3, spikelet ; 4, 5, upper lemma. - Echinochloa pyramidalis (Lank) Hitchc. & Chase : 6, plant habit ; 7, spikelet ; 8, upper lemma. - Reproduction authorization : cf. Acknowledgements p. 68.*
 
 ## Notes
 

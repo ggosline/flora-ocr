@@ -50,7 +50,7 @@ Wieringa 974, 19.05.1990, 0°17'N-9°30'E, Owendo, near Saracuda, industrial zon
 
 ![Anthephora schreb](../sources/Gramineae_vol5bis_paddle/figures/fig_002_p0020.png)
 
-*Pl. 2. - Cenchrus biflorus Roxb. : 1, aspect de la plante ; 2, glomérule ; 3, épillet ; 4, lemma supérieure. - Chloris pilosa K. Schum. : 5, aspect de la plante ; 6, partie du racème ; 7, épillet ; 8, épillet sans les glumes. - Autorisation de reproduction : cf. Remerciements p. 68.*
+*Pl. 2. - Cenchrus biflorus Roxb. : 1, plant habit ; 2, glomerule ; 3, spikelet ; 4, upper lemma. - Chloris pilosa K. Schum. : 5, plant habit ; 6, part of the raceme ; 7, spikelet ; 8, spikelet without the glumes. - Reproduction authorization : cf. Acknowledgements p. 68.*
 
 ## Notes
 

@@ -7,6 +7,12 @@ family: Cyperaceae
 vol: 44
 pages: 190-191
 source: sources/Cyperaceae_vol44_liteparse
+countries: [Angola, Cameroon, Democratic Republic of the Congo, Gabon, Madagascar, Malawi, Mozambique, Zambia, Zimbabwe]
+in_region: true
+subdivisions:
+  Gabon: [Moyen-Ogooué, Ogooué-Ivindo, Ogooué-Maritime]
+habit: "herb"
+altitude_m: "0–100"
 tags: [species, generated]
 ---
 # *Rhynchospora brownii* Roem. & Schult. Planche 118, Figure 21b

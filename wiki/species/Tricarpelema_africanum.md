@@ -7,6 +7,13 @@ family: Commelinaceae
 vol: 55
 pages: 92-95
 source: sources/Commelinaceae_vol55_liteparse
+countries: [Cameroon, Equatorial Guinea, Gabon]
+in_region: true
+subdivisions:
+  Gabon: [Woleu-Ntem]
+habit: "herb"
+habitat: [rocky ground]
+altitude_m: "760"
 tags: [species, generated]
 ---
 # *Tricarpelema africanum* Faden Planche 28
@@ -17,29 +24,21 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Novon 17(2): 160 (2007). Decumbent herb; stem with basal internodes hidden by overlapping sheaths, flowering stems ascending. Leaves distichous below the flowering stem; sheath with glandular pubescence; blade narrowly elliptic-oblong, 4–11.5 × 1–1.5 cm, base rounded to amplexicaul, moderately succulent, with glandular pubescence. Inflorescence in a terminal thyrse, sometimes axillary, very lax, compound or rarely simple, the terminal thyrse with up to 7 elongated and branched cincinni reaching up to 15 cm in length, sometimes with up to 6 reduced thyrses in the axil of bracts situated below the terminal thyrse; bracteoles persistent. Flowers 7–9 mm wide; pedicel 2.3–8 mm, usually with scattered glandular pubescence, sometimes glabrous; sepals oblong-elliptic, 2.5–4.1 × 1.2–4 mm, with scattered glandular pubescence, greenish-violet; petals without claw, subequal, narrowly elliptic to ovate-elliptic or ovate, 3–6 × 1.2–4 mm, strongly reflexed after anthesis, lilac to pink; stamens: the 3 upper ones all fertile, or the median one without anther, with filament 1–3 mm, with obdeltate to obovate anthers, with yellow pollen, the 3 lower ones with filament 2–5 mm, with broadly elliptic to ovate anthers, with white pollen; ovary 0.8–1.5 mm in length, glabrous, locules with 4 or 5 ovules; style 1.7–4 mm. Fruit oblongoid-ellipsoid, 3.5–6 × 2–3 mm, shortly stipitate; locules with 3 to 5 seeds. Seed ovoid to cubic or trapezoidal, 0.75–0.8 × 1–1.25 mm; testa grey-brown, wrinkled.
 
-Novon 17(2) : 160 (2007). Herbe décombante ; tige à entrenœuds basaux cachés par les gaines chevauchantes, tiges florifères ascendantes. Feuilles distiques sous la tige florifère ; gaine à pubescence glandu leuse ; limbe étroitement elliptique-oblong , 4‒11,5 × 1‒1,5 cm , base arrondie à amplexicaule , modérément succulent , à pubescence glanduleuse. Inflorescence en un thyrse terminal, parfois axillaire, très lâche , composé ou rarement simple, le thyrse terminal avec jusqu’à 7 cincinni allongés et ramifiés atteignant jusqu’à 15 cm de longueur , parfois avec jusqu’à 6 thyrses réduits à l’aisselle de bractées situées sous le thyrse terminal ; bractéoles persistantes. Fleurs 7‒9 mm de largeur ; pédicelle 2,3‒8 mm, généralement à pubescence glanduleuse éparse, quelquefois glabre ; s épales oblongs-elliptiques, 2,5‒4,1 × 1,2‒4 mm, à pubescence glanduleuse éparse, violet verdâtre ; pétales sans onglet, subégaux, étroitement elliptiques à ovales-elliptiques ou ovales, 3‒6 × 1,2‒4 mm, fortement réfléchis après l’anthèse , lilas à roses ; étamines : les 3 supérieures toutes fertiles , ou la médiane sans anthère , à filet de 1‒3 mm, à anthères obdeltées à obovales, à pollen jaune , les 3 inférieures à filet de 2‒5 mm, à an thères largement elliptiques à ovales, à pollen blanc ; ovaire 0,8‒1,5 mm de longueur, glabre, loges à 4 ou 5 ovules ; style 1,7‒4 mm. Fruit oblongoïde-ellipsoïdal, 3,5‒6 × 2‒3 mm, cour tement stipité ; loges avec 3 à 5 graines. Graine ovoïde à cubique ou trapézoïdale, 0,75‒0,8 × 1‒1,25 mm ; testa gris-brun, ridé.
-
-Esono 3586 , échantillon herbier Faden 2005/002 ). Dessin par Alice Tangerini, Smithsonian Institution (©), reproduit avec permission à partir de Faden (2007c).
+Esono 3586, herbarium specimen Faden 2005/002). Drawing by Alice Tangerini, Smithsonian Institution (©), reproduced with permission from Faden (2007c).
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-sud-est du Cameroun, Guinée équatoriale (Río Muni) et nord du Gabon ; au Gabon exclusivement dans le Woleu-Ntem
+southeastern Cameroon, Equatorial Guinea (Río Muni) and northern Gabon; in Gabon exclusively in Woleu-Ntem
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-inselbergs en forêt, du plein soleil à l’ombre, sol peu profond, dalles rocheuses et falaises, lisières de végétation plus haute, moins fréquent dans les stations ombragées et humides ; au Gabon de 500 à 760 m d’altitude, ailleurs de 650 à 700 m. Floraison en janvier et octobre au Gabon
+inselbergs in forest, from full sun to shade, shallow soil, rocky slabs and cliffs, margins of higher vegetation, less frequent in shaded and humid stations; in Gabon from 500 to 760 m altitude, elsewhere from 650 to 700 m. Flowering in January and October in Gabon
 
 ## Source note
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-En dehors du Gabon des fleurs bleues, mauves, violet pâle ou blanches ont également été obser vées. Bien que les caractéristiques de réproduction placent cette espèce dans ce genre principalement asiatique, sa morphologie végétative et son écologie très distinctes ont conduit à la placer dans un sousgenre à part, subgen. Keatingia Faden. Son placement générique n’a pas encore été confirmé par des études moléculaires en raison d’un manque de matériel des espèces asiatiques. Bi : Cabezas et al. (2014), Faden (2007), Parmentier et al. (2001), Sosef et al. (2006). B liographie
+Outside of Gabon blue, mauve, pale violet or white flowers have also been observed. Although reproductive characteristics place this species in this principally Asian genus, its very distinctive vegetative morphology and ecology led to its placement in a separate subgenus, subgen. Keatingia Faden. Its generic placement has not yet been confirmed by molecular studies due to lack of material of Asian species. Bi: Cabezas et al. (2014), Faden (2007), Parmentier et al. (2001), Sosef et al. (2006). Bibliography
 
 ## Notes
 

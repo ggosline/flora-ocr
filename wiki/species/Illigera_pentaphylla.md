@@ -7,6 +7,9 @@ family: Hernandiaceae
 vol: 38
 pages: 23-23
 source: sources/Hernandiaceae_vol38_liteparse
+countries: [Angola, Cameroon, Central African Republic, Democratic Republic of the Congo, Equatorial Guinea, Gabon, Ghana, Guinea, Uganda]
+in_region: true
+habitat: [gallery forest, riverine]
 tags: [species, generated]
 ---
 # *Illigera pentaphylla* Welw.

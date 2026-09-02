@@ -7,6 +7,9 @@ family: Rubiaceae
 vol: 17
 pages: 266-269
 source: sources/Rubiaceae_vol17_paddle
+countries: [Cote d'Ivoire, Ghana, Guinea, Liberia, Nigeria, Senegal, Sierra Leone, Sudan, Togo]
+in_region: true
+habit: "shrub"
 tags: [species, generated]
 ---
 # *Pouchetia africana* A. Rich. in DC. var. equatorialis N. Hallé, var. nov.
@@ -44,7 +47,7 @@ N. Hallé 3458, Bélinga, versant Ouest de la Grande Crête Sud : 1. fr. déc.);
 
 ![Pouchetia africana](../sources/Rubiaceae_vol17_paddle/figures/fig_063_p0267.png)
 
-*PL. 62. — Pouchetia africana A. Rich. ex DC. var. equatorialis N. Hallé (1, 3, 5 à 7, 9, 10, 12 à 15, N. H. 3458; 2, 4, 8, 11, N. H. 4007) : 1, port d'un pied de 6 m; 2, stipule; 3, extrémité de l'axe orthogrope; 4, nœud florifère × 0,6; 5, bouton; 6, 7, fleur de face et de profil × 5; 8 et 9, variation de la corolle; 10, étamine; 11, jeune style; 12, calice et ovaire en coupe; 13, fruit mùr × 1; 14, coupe d'un fruit à 3 graines dont 2 avortées; 15, graine, profil et coupe × 2.*
+*PL. 62. — Pouchetia africana A. Rich. ex DC. var. equatorialis N. Hallé (1, 3, 5 to 7, 9, 10, 12 to 15, N. H. 3458; 2, 4, 8, 11, N. H. 4007) : 1, habit of a tree 6 m; 2, stipule; 3, end of the orthograde axis; 4, flowering node × 0.6; 5, bud; 6, 7, flower front view and profile × 5; 8 and 9, corolla variation; 10, stamen; 11, young style; 12, calyx and ovary in section; 13, mature fruit × 1; 14, section of a fruit with 3 seeds 2 of which aborted; 15, seed, profile and section × 2.*
 
 ## Notes
 

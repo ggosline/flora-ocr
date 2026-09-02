@@ -7,6 +7,11 @@ family: Moraceae
 vol: 26
 pages: 83-91
 source: sources/Moraceae_vol26_paddle
+countries: [Cameroon, Democratic Republic of the Congo, Equatorial Guinea, Gabon]
+in_region: true
+habit: "herb"
+habitat: [riverine, coastal]
+altitude_m: "150"
 tags: [species, generated]
 ---
 # *Dorstenia poinsetiifolia* Engler

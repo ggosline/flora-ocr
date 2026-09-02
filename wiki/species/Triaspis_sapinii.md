@@ -7,6 +7,9 @@ family: Malpighiaceae
 vol: 21
 pages: 13-17
 source: sources/Malpighiaceae_vol21_paddle
+countries: [Cameroon, Democratic Republic of the Congo, Gabon, Tanzania, Uganda]
+in_region: true
+habit: "liana"
 tags: [species, generated]
 ---
 # *Triaspis sapinii* De Wildeman
@@ -17,19 +20,15 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 et : 290 (1919). — NIEDENZU, Pflanzenr. Malpighiaceae : 44 (1928). — WILCZEK, Fl. Congo belge 7 : 221 (1958).
 
 — T. bukombensis DE WILD., l. c. : 61 (1915) et : 289 (1919). — NIEDENZU, l. c. : 52 (1928).
 
-Lianes à rameaux glabres. Feuilles opposées, penninerves; stipules glabres, persistantes, triangulaires, longues de 1-3 mm; pétiole glabre; limbe glabre à l'état adulte, ové-oblong, arrondi à subcordé à la base, aigu à acuminé au sommet, 5-13 × 2,5-8 cm. Nervures secondaires ascendantes, à peine saillantes, nervilles peu distinctes.
+Lianes with glabrous branchlets. Leaves opposite, penninerved; stipules glabrous, persistent, triangular, 1–3 mm long; petiole glabrous; blade glabrous when mature, ovate-oblong, rounded to subcordate at base, acute to acuminate at apex, 5–13 × 2.5–8 cm. Secondary veins ascending, scarcely prominent, veinlets indistinct.
 
-Inflorescences terminales et axillaires, pubescentes à glabrescentes, formées d'inflorescences partielles subombelliformes, groupées en pani-
+Inflorescences terminal and axillary, pubescent to glabrescent, composed of partial subumbelliform inflorescences, grouped into panicles; bracts reaching 3 mm long; bracteoles pubescent, persistent, lanceolate, situated approximately in the lower third of the pedicel. Pedicel pubescent, 2–3.5 mm long. Sepals oblong-ovate, pubescent, approximately 2 mm long. Petals glabrous ± clawed, with fimbriate limb, 5–10 mm long. Stamens glabrous, 7–9 mm. Ovary pubescent, approximately 1 mm long; styles 3, 6–8 mm long, one smaller than the two others, stigmas in lateral position toward the interior, glabrous.
 
-cules; bractées atteignant 3 mm de longueur; bractéoles pubescentes, persistantes, lancéolées, situées environ au tiers inférieur du pédicelle. Pédicelle pubescent, long de 2-3,5 mm. Sépales oblongs-ovés, pubescents, longs d'environ 2 mm. Pétales glabres ± onguiculés, à limbe fimbrié, long de 5-10 mm. Étamines glabres, de 7-9 mm. Ovaire pubescent, long d'environ 1 mm; styles 3, longs de 6-8 mm dont un plus petit que les deux autres, stigmates en position latérale vers l'intérieur, glabres.
-
-Fruit composé de 3 samares orbiculaires, membraneuses, à aile dorsale longue de 1-1,4 cm. PL. 3, 11-14, p. 17.
+Fruit composed of 3 orbicular, membranous samaras, with dorsal wing 1–1.4 cm long. PL. 3, 11–14, p. 17.
 
 ## Type
 
@@ -39,11 +38,9 @@ Goetze 610, Tanzanie (B, delet.); Zimmermann 856, Tanzanie (néotype, BM!; ison�
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Forests and old plantations of Gabon and Zaïre.
 
-Forêts et vieilles plantations du Gabon et du Zaïre.
-
-Forêts ombrophiles, forêts sèches denses, galeries forestières, savanes arborées. Uganda, Tanzanie, Zaïre et Cameroun. À rechercher au Gabon.
+Ombrophilous forests, dense dry forests, forest galleries, wooded savannas. Uganda, Tanzania, Zaïre and Cameroon. To be sought in Gabon.
 
 ## Specimens examined
 
@@ -85,7 +82,7 @@ Fruit sec composé de 3 (2 ou 1 par avortement) carpelles, semblables à des ak�
 
 ![Triaspis sapinii](../sources/Malpighiaceae_vol21_paddle/figures/fig_003_p0019.png)
 
-*PL. 3. — Flabellaria paniculata Cav. : 1, détail d'un rameau florifère × 2/3; 2, détail de la feuille face inférieure × 4; 3, détail de l'inflorescence × 2 (1-3, Klaine 779); 4, bouton × 3 (Klaine 1451); 5, fleur épanouie × 3 (Klaine 779); 6, samare × 2/3 (Klaine 1165). — Heteropteris leona (Cav.) Exell : 7, feuille × 2/3; 8, bouton × 3; 9, fleur épanouie × 3 (7-9, Le Testu, 9631); 10, samare × 2/3 (Klaine 3338). — Triaspis sapinii De Wild.: 11, détail d'un rameau florifère × 2/3 (Le Testu 5464); 12 bouton × 3; 13, fleur épanouie × 3 (12-13, Le Testu 1545); 14, samare × 2/3 (Le Testu 5464).*
+*PL. 3. — Flabellaria paniculata Cav. : 1, detail of a flowering branch × 2/3; 2, detail of leaf lower surface × 4; 3, detail of inflorescence × 2 (1-3, Klaine 779); 4, bud × 3 (Klaine 1451); 5, open flower × 3 (Klaine 779); 6, samara × 2/3 (Klaine 1165). — Heteropteris leona (Cav.) Exell : 7, leaf × 2/3; 8, bud × 3; 9, open flower × 3 (7-9, Le Testu, 9631); 10, samara × 2/3 (Klaine 3338). — Triaspis sapinii De Wild.: 11, detail of a flowering branch × 2/3 (Le Testu 5464); 12 bud × 3; 13, open flower × 3 (12-13, Le Testu 1545); 14, samara × 2/3 (Le Testu 5464).*
 
 ## Notes
 

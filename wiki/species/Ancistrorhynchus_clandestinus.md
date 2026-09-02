@@ -7,6 +7,9 @@ family: Orchidaceae
 vol: 37
 pages: 111-112
 source: sources/Orchidaceae_vol37_paddle
+countries: [Cameroon, Central African Republic, Cote d'Ivoire, Democratic Republic of the Congo, Gabon, Ghana, Liberia, Nigeria, Sierra Leone, Togo, Uganda]
+in_region: true
+habitat: [evergreen forest]
 tags: [species, generated]
 ---
 # *Ancistrorhynchus clandestinus* (Lindl.) Schltr.
@@ -51,7 +54,7 @@ Le Testu 5159, Lake Bandoungou, Haute Ngounyé (fl. Dec.), P!.
 
 ![Ancistrorhynchus clandestinus](../sources/Orchidaceae_vol37_paddle/figures/fig_045_p0112.png)
 
-*PL. 151. – Ancistrorhynchus clandestinus (Lindl.) Schltr. : A, fleur et bractée ; B, labelle et éperon ; C, sépale latéral ; D, pétale ; E, sépale dorsal (A-E, Leeuwenberg 5480, P).*
+*PL. 151. – Ancistrorhynchus clandestinus (Lindl.) Schltr. : A, flower and bract ; B, labellum and spur ; C, lateral sepal ; D, petal ; E, dorsal sepal (A-E, Leeuwenberg 5480, P).*
 
 ## Notes
 

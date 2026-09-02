@@ -7,6 +7,13 @@ family: Leguminosae
 vol: 49
 pages: 201-202
 source: sources/Millettiaspeciesfabaceae_vol49_liteparse
+countries: [Burkina Faso, Cameroon, Cote d'Ivoire, Equatorial Guinea, Gabon, Ghana, Nigeria]
+in_region: true
+subdivisions:
+  Gabon: [Estuaire, Ogooué-Ivindo]
+habit: "tree"
+habitat: [secondary forest, riverine, coastal]
+altitude_m: "200"
 tags: [species, generated]
 ---
 # *Erythrina vogelii* Hook.f.

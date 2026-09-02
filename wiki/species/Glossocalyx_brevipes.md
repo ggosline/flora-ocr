@@ -7,6 +7,7 @@ family: Monimiaceae
 vol: 10
 pages: 111-113
 source: sources/Monimiaceae_vol10_paddle
+habit: "tree"
 tags: [species, generated]
 ---
 # *Glossocalyx brevipes* Benth.

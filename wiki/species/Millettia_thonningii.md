@@ -7,6 +7,13 @@ family: Leguminosae
 vol: 49
 pages: 292-293
 source: sources/Millettiaspeciesfabaceae_vol49_liteparse
+countries: [Angola, Gabon, Sierra Leone]
+in_region: true
+subdivisions:
+  Gabon: [Nyanga]
+habit: "tree"
+habitat: [savanna]
+altitude_m: "100"
 tags: [species, generated]
 ---
 # *Millettia thonningii* (Schumach. & Thonn.) Baker

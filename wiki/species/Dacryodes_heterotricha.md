@@ -5,10 +5,12 @@ authority: (Pellegr.) Lam
 genus: Dacryodes
 family: Burseraceae
 synonyms: [Pachylobus heterotricha Pellegr., Pachylobus ferrugineus A. Chev. ex Pellegr.]
-countries: [Gabon, Republic of the Congo]
-in_region: true
-habit: large tree
 treatments: [{vol: 3, pages: "77–78", source: sources/Burseraceae_vol3_paddle}]
+countries: [Gabon]
+in_region: true
+subdivisions:
+  Gabon: [Nyanga]
+habit: "tree"
 tags: [species]
 ---
 

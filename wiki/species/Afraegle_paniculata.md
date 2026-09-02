@@ -5,11 +5,11 @@ authority: (Schum.) Engl.
 genus: Afraegle
 family: Rutaceae
 synonyms: [Citrus paniculata, Aegle barteri, Limonia warneckei, Balsamocitrus paniculata]
-countries: [Ghana, Nigeria]
 range_note: "Humid-forest region of West Africa; not certainly known east of Nigeria."
-in_region: true
-habit: shrub or small tree
 treatments: [{vol: 6, pages: "106–109", source: sources/Rutaceae_vol6_paddle}]
+countries: [Gabon, Nigeria]
+in_region: true
+habit: "tree"
 tags: [species, occurrence-doubtful]
 ---
 

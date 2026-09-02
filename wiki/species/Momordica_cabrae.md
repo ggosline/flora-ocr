@@ -7,6 +7,13 @@ family: Cucurbitaceae
 vol: 57
 pages: 83-86
 source: sources/Cucurbitaceae_vol57_paddle
+countries: [Angola, Benin, Cameroon, Central African Republic, Cote d'Ivoire, Democratic Republic of the Congo, Gabon, Ghana, Liberia, Nigeria, Republic of the Congo]
+in_region: true
+subdivisions:
+  Gabon: [Estuaire, Haut-Ogooué, Ngounié, Ogooué-Lolo]
+habit: "liana"
+habitat: [secondary forest]
+altitude_m: "10–500"
 tags: [species, generated]
 ---
 # *Momordica cabrae* (Cogn.) C.Jeffrey

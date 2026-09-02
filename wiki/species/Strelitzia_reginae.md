@@ -5,10 +5,9 @@ authority: Banks
 genus: Strelitzia
 family: Strelitziaceae
 synonyms: []
-countries: [Gabon, South Africa]
-in_region: true
-habit: rhizomatous perennial herb
 treatments: [{vol: 9, pages: "16–17", source: sources/Strelitziaceae_vol9_paddle}]
+countries: [Gabon]
+in_region: true
 tags: [species, introduced, cultivated]
 ---
 

@@ -7,6 +7,12 @@ family: Cyperaceae
 vol: 44
 pages: 29-31
 source: sources/Cyperaceae_vol44_liteparse
+countries: [Angola, Central African Republic, Gabon, Liberia, Zambia]
+in_region: true
+subdivisions:
+  Gabon: [Estuaire, Haut-Ogooué, Moyen-Ogooué, Ngounié, Nyanga, Ogooué-Ivindo, Ogooué-Lolo]
+habit: "herb"
+altitude_m: "0–600"
 tags: [species, generated]
 ---
 # *Bulbostylis laniceps* (K.Schum.) C.B.Clarke ex Durand & Schinz Planche 13

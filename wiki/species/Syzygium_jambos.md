@@ -22,9 +22,7 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Jambosier, Pommier-rose. S. jambos est, selon Walker et Sillans, introduit au Gabon depuis de longues années, et s'y répand de lui-même.
+Jambosier, Rose-apple. S. jambos is, according to Walker and Sillans, introduced to Gabon for many years, and spreads there on its own.
 
 ## Notes
 

@@ -7,6 +7,12 @@ family: Leguminosae
 vol: 49
 pages: 163-164
 source: sources/Millettiaspeciesfabaceae_vol49_liteparse
+countries: [Angola, Cameroon, Democratic Republic of the Congo, Equatorial Guinea, Gabon, Republic of the Congo]
+in_region: true
+subdivisions:
+  Gabon: [Estuaire, Moyen-Ogooué, Ngounié, Ogooué-Ivindo, Ogooué-Lolo, Ogooué-Maritime, Woleu-Ntem]
+habit: "liana"
+altitude_m: "100–925"
 tags: [species, generated]
 ---
 # *Dalhousiea africana* S.Moore. Planche 53

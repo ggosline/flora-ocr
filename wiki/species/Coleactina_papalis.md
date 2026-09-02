@@ -7,6 +7,7 @@ family: Rubiaceae
 vol: 17
 pages: 86-88
 source: sources/Rubiaceae_vol17_paddle
+habit: "shrub"
 tags: [species, generated]
 ---
 # *Coleactina papalis* N. Hallé
@@ -28,7 +29,7 @@ G. Le Testu 8356, Moughimba, SW de Koulamotou, approximativement à midistance d
 
 ![Coleactina papalis](../sources/Rubiaceae_vol17_paddle/figures/fig_019_p0087.png)
 
-*PL. 49. — Coleactina papalis N. Hallé (Le Testu 8356) : 1, feuille (× 0,66); 2, stipule; 3, base de la face interne d'une stipule; 4, nœud florifère après ablation d'une stipule; 5, détail du calcule enveloppant la base du calice; 6, détail du calice; 7, étamine; 8, pollen vu latéralement; 9, id. en coupe optique équatoriale; 9 et 10, coupes de l'ovaire; 11 et 111, deux vues du placenta portant les ovules × 7; 12, style.*
+*PL. 49. — Coleactina papalis N. Hallé (Le Testu 8356) : 1, leaf (× 0,66); 2, stipule; 3, base of the internal face of a stipule; 4, flowering node after removal of a stipule; 5, detail of the calyculus enveloping the base of the calyx; 6, detail of the calyx; 7, stamen; 8, pollen seen laterally; 9, id. in optical equatorial section; 9 and 10, ovary sections; 11 and 111, two views of the placenta bearing the ovules × 7; 12, style.*
 
 ## Notes
 

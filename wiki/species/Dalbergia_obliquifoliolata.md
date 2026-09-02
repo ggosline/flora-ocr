@@ -7,6 +7,10 @@ family: Leguminosae
 vol: 49
 pages: 146-147
 source: sources/Millettiaspeciesfabaceae_vol49_liteparse
+countries: [Gabon]
+in_region: true
+habitat: [primary forest]
+altitude_m: "200"
 tags: [species, generated]
 ---
 # *Dalbergia obliquifoliolata* O.Lachenaud, sp. nov. Planche 47

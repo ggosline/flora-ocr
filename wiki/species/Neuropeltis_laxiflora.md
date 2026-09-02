@@ -7,6 +7,12 @@ family: Convolvulaceae
 vol: 46
 pages: 57-59
 source: sources/Convolvulaceae_vol46_liteparse
+countries: [Cameroon, Gabon]
+in_region: true
+subdivisions:
+  Gabon: [Estuaire, Ngounié, Ogooué-Lolo]
+habitat: [secondary forest]
+altitude_m: "660"
 tags: [species, generated]
 ---
 # *Neuropeltis laxiflora* Lejoly & Lisowski

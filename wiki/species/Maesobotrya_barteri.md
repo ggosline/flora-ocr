@@ -7,6 +7,13 @@ family: Phyllanthaceae
 vol: 43
 pages: 41-42
 source: sources/Phyllanthaceae_vol43_liteparse
+countries: [Angola, Cameroon, Democratic Republic of the Congo, Gabon, Nigeria, Republic of the Congo, Sierra Leone]
+in_region: true
+subdivisions:
+  Gabon: [Estuaire, Moyen-Ogooué, Ngounié, Nyanga, Ogooué-Ivindo, Ogooué-Maritime]
+habit: "tree"
+habitat: [secondary forest]
+altitude_m: "0–500"
 tags: [species, generated]
 ---
 # *Maesobotrya barteri* (Baill.) Hutch.

@@ -7,6 +7,8 @@ family: Acanthaceae
 vol: 13
 pages: 81-85
 source: sources/Acanthaceae_vol13_paddle
+countries: [Cameroon, Cote d'Ivoire, Gabon, Liberia, Nigeria]
+in_region: true
 tags: [species, generated]
 ---
 # *Physacanthus batanganus* (J. Braun et K. Schum.) Lindau

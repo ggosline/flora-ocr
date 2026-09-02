@@ -7,6 +7,11 @@ family: Iridaceae
 vol: 38
 pages: 38-40
 source: sources/Iridaceae_vol38_liteparse
+countries: [Cameroon, Cote d'Ivoire, Gabon, Nigeria]
+in_region: true
+habit: "herb"
+habitat: [rocky ground]
+altitude_m: "1000"
 tags: [species, generated]
 ---
 # *Gladiolus mirus* Vaupel

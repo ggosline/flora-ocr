@@ -7,6 +7,11 @@ family: Phyllanthaceae
 vol: 43
 pages: 14-15
 source: sources/Phyllanthaceae_vol43_liteparse
+countries: [Gabon]
+in_region: true
+habit: "tree"
+habitat: [swamp forest, savanna]
+altitude_m: "0–600"
 tags: [species, generated]
 ---
 # *Antidesma venosum* E.Mey. ex Tul.

@@ -7,6 +7,9 @@ family: Rubiaceae
 vol: 12
 pages: 66-68
 source: sources/Rubiaceae_vol12_paddle
+countries: [Cameroon, Gabon]
+in_region: true
+habit: "tree"
 tags: [species, generated]
 ---
 # *Corynanthe mayumbensis* (R. Good) N. Hallé comb. nov.
@@ -52,11 +55,11 @@ A. P. Thomson : 24, Billagone, N. Gabon (fr. sept.), déterminé à tort comme C
 
 ![Corynanthe mayumbensis](../sources/Rubiaceae_vol12_paddle/figures/fig_014_p0065.png)
 
-*PL. 8.—Rubiacée à alcaloïdes : Corynanthe mayumbensis (Good) N. Hallé (N. H. 1606) : I, inflorescence en boutons; 2, fruits pleins immatures; 3, jeunes infrutescences.*
+*PL. 8.—Rubiaceae with alkaloids : Corynanthe mayumbensis (Good) N. Hallé (N. H. 1606) : 1, inflorescence in buds; 2, full immature fruits; 3, young infructescences.*
 
 ![Corynanthe mayumbensis](../sources/Rubiaceae_vol12_paddle/figures/fig_015_p0067.png)
 
-*PL. 9. — Corynanthe mayumbensis (Good) N. Hallé (Le Testu 5886 fl., et N. Hallé 1606 bout. et fr.): 1, inflorescence; 2, bouton; 3, coupe transversale du bouton; 4, fleur épanouie; 5, fruit; 6, graine. — C. pachyceras K. Schum. (Le Testu 9096 fl., et Foury 4 fr.): 2', 4', 5', et 6'. — C. paniculata Welw. (Welwitsch 1508 fl., Toussaint 2194 bout., et Lecomte A 12, fr.): 2", 4", 5" et 6".*
+*PL. 9. — Corynanthe mayumbensis (Good) N. Hallé (Le Testu 5886 fl., and N. Hallé 1606 bud and fr.): 1, inflorescence; 2, bud; 3, transverse section of the bud; 4, open flower; 5, fruit; 6, seed. — C. pachyceras K. Schum. (Le Testu 9096 fl., and Foury 4 fr.): 2', 4', 5', and 6'. — C. paniculata Welw. (Welwitsch 1508 fl., Toussaint 2194 bud, and Lecomte A 12, fr.): 2", 4", 5" and 6".*
 
 ## Notes
 

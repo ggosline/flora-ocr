@@ -7,6 +7,12 @@ family: Anthericaceae
 vol: 41
 pages: 12-15
 source: sources/Anthericaceae_vol41_liteparse
+countries: [Cameroon, Cote d'Ivoire, Democratic Republic of the Congo, Gabon, Nigeria, Sierra Leone, Uganda]
+in_region: true
+subdivisions:
+  Gabon: [Estuaire, Haut-Ogooué, Ngounié, Nyanga, Ogooué-Ivindo, Ogooué-Lolo, Ogooué-Maritime, Woleu-Ntem]
+habitat: [secondary forest, primary forest]
+altitude_m: "130–900"
 tags: [species, generated]
 ---
 # *Chlorophytum sparsiflorum* Baker var. sparsiflorum

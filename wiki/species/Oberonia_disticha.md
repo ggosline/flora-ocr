@@ -7,6 +7,9 @@ family: Orchidaceae
 vol: 36
 pages: 131-133
 source: sources/Orchidaceae_vol36_paddle
+countries: [Cameroon, Gabon, Ghana, Guinea, Kenya, Madagascar, Malawi, Mozambique, Sao Tome and Principe, Tanzania, Uganda, Zimbabwe]
+in_region: true
+habitat: [primary forest, evergreen forest]
 tags: [species, generated]
 ---
 # *Oberonia disticha* (Lam.) Schltr.
@@ -63,11 +66,11 @@ An important subtribe comprising about thirty genera in the majority Oceanian, o
 
 ![Oberonia disticha](../sources/Orchidaceae_vol36_paddle/figures/fig_067_p0132.png)
 
-*PL. 62. – Structure du gynostème du genre Oberonia Lindl: A, vue latérale ; B, vue de dessus ; C, rostelle ; D, pollinies, aspects divers (A-D, ex SzLACHETKO & MARGOŃSKA, 2001).*
+*PL. 62. – Structure of the gynosteme of the genus Oberonia Lindl: A, lateral view ; B, view from above ; C, rostellum ; D, pollinia, various aspects (A-D, after SZLACHETKO & MARGOŃSKA, 2001).*
 
 ![Oberonia disticha](../sources/Orchidaceae_vol36_paddle/figures/fig_068_p0134.png)
 
-*PL. 63. – Oberonia disticha (Lam.) Schltr.: A, vue générale ; B, fleur et bractée ; C, labelle étalé ; D, labelle en position naturelle, vue latérale ; E, sépale dorsal ; F, pétale ; G, sépale latéral (A-B, ex GEERINCK, 1984 modifié ; C-G, Le Testu 5920, P).*
+*PL. 63. – Oberonia disticha (Lam.) Schltr.: A, general view ; B, flower and bract ; C, lip spread out ; D, lip in natural position, lateral view ; E, dorsal sepal ; F, petal ; G, lateral sepal (A-B, ex GEERINCK, 1984 modified ; C-G, Le Testu 5920, P).*
 
 ![Oberonia disticha](../sources/Orchidaceae_vol36_paddle/figures/fig_133_p0223.png)
 

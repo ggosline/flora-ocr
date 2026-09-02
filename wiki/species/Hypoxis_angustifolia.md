@@ -11,16 +11,13 @@ synonyms:
   - name: H. luzuloides
     authority: Robyns & Tournay
     citation: BJBB 25: 254 (1955)
-countries: [Gabon]
-in_region: true
-habit: herb
-altitude_m: "up to 2500"
 treatments:
   - vol: 28
     pages: "48–50"
     source: sources/Hypoxidaceae_vol28_paddle
+countries: [Gabon]
+in_region: true
 tags: [species]
-countries_incomplete: true
 ---
 
 # *Hypoxis angustifolia* Lamarck

@@ -6,6 +6,12 @@ genus: Coleus
 vol: 58
 pages: 49-51
 source: sources/Labiataeulmaceaeverbenaceae_vol58_liteparse
+countries: [Cameroon, Democratic Republic of the Congo, Gabon, Madagascar, Nigeria, Republic of the Congo]
+in_region: true
+subdivisions:
+  Gabon: [Nyanga, Ogooué-Ivindo, Ogooué-Maritime]
+habit: "herb"
+altitude_m: "30–630"
 tags: [species, generated]
 ---
 # *Coleus bojeri* Benth. Planche 10

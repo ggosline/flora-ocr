@@ -5,12 +5,10 @@ authority: L.
 genus: Portulaca
 family: Portulacaceae
 synonyms: []
-countries: [Gabon]
 range_note: "Cosmopolitan warm-temperate and tropical ruderal."
-countries_incomplete: true
-in_region: true
-habit: annual succulent herb
 treatments: [{vol: 7, pages: "67–69", source: sources/Portulacaceae_vol7_paddle}]
+countries: [Gabon]
+in_region: true
 tags: [species]
 ---
 

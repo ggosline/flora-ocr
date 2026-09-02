@@ -7,6 +7,7 @@ family: Vitaceae
 vol: 14
 pages: 83-85
 source: sources/Vitaceae_vol14_paddle
+habit: "liana"
 tags: [species, generated]
 ---
 # *Cissus aralioides* (Welw. ex Baker) Planchon
@@ -53,7 +54,7 @@ Le Testu : 2019, Tchibanga, région de la Nyanga (fl. févr.).
 
 ![Cissus aralioides](../sources/Vitaceae_vol14_paddle/figures/fig_007_p0079.png)
 
-*PL. II. — Cayratia debilis (Bak.) Suessenguth : 1, aspect général, × 1/2; 2, détail du bord de la feuille, face inférieure; 3, fleur, × 10; 4, fruit, × 3; 5, 5', 5", graine vue par la face dorsale, par la face ventrale, de profil, × 6. — Cissus aralioides (Welw. ex Bak.) Planchon : 6, aspect général, × 1/2; 7, détail du bord du limbe; 8, stipule, × 8; 9, fleur, × 6; 10, fruit, × 1,5; 11, graine, à gauche de profil, à droite vue par la face ventrale, × 1,5.*
+*PL. II. — Cayratia debilis (Bak.) Suessenguth : 1, general appearance, × 1/2; 2, detail of the leaf margin, lower surface; 3, flower, × 10; 4, fruit, × 3; 5, 5', 5", seed viewed by the dorsal surface, by the ventral surface, in profile, × 6. — Cissus aralioides (Welw. ex Bak.) Planchon : 6, general appearance, × 1/2; 7, detail of the blade margin; 8, stipule, × 8; 9, flower, × 6; 10, fruit, × 1,5; 11, seed, left in profile, right viewed by the ventral surface, × 1,5.*
 
 ## Notes
 

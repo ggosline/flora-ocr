@@ -7,6 +7,9 @@ family: Rubiaceae
 vol: 17
 pages: 284-285
 source: sources/Rubiaceae_vol17_paddle
+countries: [Cameroon, Cote d'Ivoire, Gabon, Nigeria, Togo]
+in_region: true
+habit: "tree"
 tags: [species, generated]
 ---
 # *Tricalysia macrophylla* K. Schum.
@@ -17,13 +20,11 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Tree 15 to 30 m tall, reaching 1 m in diameter. Trunk irregular with grooves and buttresses; subereous bark tender; wood orange rather tender (Letouzey). Internodes nearly glabrous. Stipules with fine appressed pubescence, 6–10 mm long, widened at the base to approximately 1.5 mm, filiform above. Petiole 6–9 mm, moderately pubescent at juvenile stage only, with margins of the channel spread flat. Blade concolorous gray-olivaceous, glabrous (but at juvenile stage finely pubescent-olivaceous on both surfaces), elliptic to oblong, (9) 14–23 × 4–8 cm; base shortly cuneate; apex attenuate lanceolate to subacuminate. Midvein glabrescent; 8–11 pairs of secondary veins; intersecondaries subtransverse along the midvein; fine reticulum apparent on both surfaces of the blade. Nerve axils loosely pubescent.
 
-Arbre de 15 à 30 m de hauteur, atteignant 1 m de diamètre. Tronc irrégulier à cannelures et contreforts; écorce subéreuse tendre; bois orangé assez tendre (Letouzey). Entrenœuds à peu près glabres. Stipules à fine pubescence apprimée, longues de 6-10 mm, élargies à la base sur environ 1,5 mm, filiformes au-dessus. Pétiole de 6-9 mm, médiocrement pubescent au stade juvénile seulement, à marges du canal étalées à plat. Limbe concolore gris olivâtre, glabre (mais au stade juvénile finement pubescent-olivacé sur les deux faces), elliptique à oblong, de (9) 14-23 × 4-8 cm; base brièvement cunéiforme; sommet atténué lancéolé à subacuminé. Médiamé glabrescente; 8-11 paires de nervures secondaires; intersecondaires subtransverses le long de la médiane; fin réseau apparent sur les deux faces du limbe. Aisselles nervaires pubescentes de façon lâche.
+Inflorescences in small racemes of solitary or paired coaxial axillary cymes, 10-flowered or more, branched from the base, 10–15 mm long; short axes puberulent and small narrowly acute bracts approximately 2 mm. Pedicel approximately 1 mm. Calyx moderately puberulent with 5 lobes approximately 1 mm, connate at the base for less than one quarter of a millimeter, ovate with attenuate ribs and ciliolate, with inner surface entirely glabrous. Corolla with glabrous tube 3 mm, with 5 lobes overlapping to the left, glabrous beyond the throat which is densely villous in a very conspicuous manner. 5 stamens erect above the throat, with submedifixed anther 2–3 × 0.3 mm, with long acumen, with thecae moderately pilose (in the bud), with glabrous filament 2–2.5 mm. Style 5–7 mm, with 2 narrow lobes reaching 3 mm. Fleshy disc 1.5 mm in diameter. 2 rounded placentas with subcentral insertion bearing (6) 8–16 ovules in 2 to 4 transverse rows.
 
-Inflorescences en petites grappes de cymes axillaires solitaires ou par deux coaxiales, 10-flores ou plus, ramifiées depuis la base, longues de 10-15 mm; courts axes pubérulents et petites bractées étroitement aiguës d'env. 2 mm. Pédicelle d'env. 1 mm. Calice médiocrement pubérulent à 5 lobes d'env. 1 mm, connés à la base sur moins d'un quart de millimètre, ovés à côtes amincis et ciliolés, à face interne tout à fait glabre. Corolle à tube glabre de 3 mm, à 5 lobes recouvrant à gauche, glabres au-delà de la gorge qui est densément velue de façon très apparente. 5 étamines dressées au-dessus de la gorge, à anthère submédifixe de 2-3 × 0,3 mm, à acumen long, à thèques médiocrement pileuses (dans le bouton), à filet glabre de 2-2,5 mm. Style de 5-7 mm, à 2 lobes étroits atteignant 3 mm. Disque charnu de 1,5 mm de diam. 2 placentas arrondis à insertion subcentrale portant (6) 8-16 ovules sur 2 à 4 rangées transversales.
-
-Fruits globuleux, de 5 mm de diamètre à sec, glabres, à lobes calycinaux persistantes reserrés en apicule. Péricarpe mince. Jusqu'à une trentaine de graines anguleuses brun noirâtre de 2,5 mm.
+Fruits globose, 5 mm in diameter when dry, glabrous, with persistent calycinal lobes squeezed into an apicule. Pericarp thin. Up to about thirty angular dark brown seeds 2.5 mm.
 
 ## Type
 
@@ -31,11 +32,9 @@ Zenker 1569 (P), Bipinde, Cameroun (fl. 15 oct. 1897)
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Côte d'Ivoire, Togo, Nigeria, Cameroon and Gabon.
 
-Côté d'Ivoire, Togo, Nigeria, Cameroun et Gabon.
-
-Cette espèce de forêt atteint les plus grandes dimensions rencontrées dans le genre.
+This forest species attains the largest dimensions encountered in the genus.
 
 ## Specimens examined
 

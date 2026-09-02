@@ -5,14 +5,14 @@ authority: Engl.
 genus: Klainedoxa
 family: Irvingiaceae
 synonyms: []
-countries: [Cameroon, Gabon, Democratic Republic of the Congo]
-in_region: true
-habit: tree
 treatments:
   - vol: 3
     year: 1962
     pages: "22"
     source: sources/Irvingiaceae_vol3_paddle
+countries: [Cameroon, Gabon]
+in_region: true
+habit: "tree"
 tags: [species]
 ---
 

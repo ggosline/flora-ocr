@@ -7,6 +7,13 @@ family: Convolvulaceae
 vol: 46
 pages: 21-23
 source: sources/Convolvulaceae_vol46_liteparse
+countries: [Angola, Cameroon, Democratic Republic of the Congo, Gabon, Republic of the Congo, Tanzania]
+in_region: true
+subdivisions:
+  Gabon: [Moyen-Ogooué, Nyanga]
+habit: "liana"
+habitat: [secondary forest]
+altitude_m: "0–600"
 tags: [species, generated]
 ---
 # *Calycobolus campanulatus* (K.Schum. ex Peter) Heine Planche 7, Fig. 1A

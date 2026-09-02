@@ -7,6 +7,10 @@ family: Arecaceae
 vol: 53
 pages: 43-45
 source: sources/Arecaceae_vol53_liteparse
+countries: [Cameroon, Democratic Republic of the Congo, Equatorial Guinea, Gabon, Nigeria, Republic of the Congo, Senegal]
+in_region: true
+subdivisions:
+  Gabon: [Haut-Ogooué, Nyanga, Ogooué-Ivindo, Ogooué-Maritime]
 tags: [species, generated]
 ---
 # *Laccosperma secundiflorum* (P.Beauv.) Küntze Planche 13

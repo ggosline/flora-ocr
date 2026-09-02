@@ -5,12 +5,11 @@ authority: De Wild. et Th. Dur.
 genus: Renealmia
 family: Zingiberaceae
 synonyms: [Renealmia erythroneura]
-countries: [Cameroon, Democratic Republic of the Congo]
 range_note: "Presence in Gabon considered probable in Vol. 9."
-in_region: true
-habit: rhizomatous herb
-habitat: [forest understorey]
 treatments: [{vol: 9, pages: "30–31", source: sources/Zingiberaceae_vol9_paddle}]
+countries: [Cameroon, Gabon]
+in_region: true
+habit: "herb"
 tags: [species, occurrence-unconfirmed]
 ---
 

@@ -7,6 +7,9 @@ family: Acanthaceae
 vol: 13
 pages: 170-172
 source: sources/Acanthaceae_vol13_paddle
+countries: [Equatorial Guinea]
+in_region: true
+habit: "shrub"
 tags: [species, generated]
 ---
 # *Pseuderanthemum tunicatum* (Afz.) Milne-Redh.

@@ -7,6 +7,7 @@ family: Gramineae
 vol: 05
 pages: 203-204
 source: sources/Gramineae_vol05_paddle
+habit: "herb"
 tags: [species, generated]
 ---
 # *Guaduella foliosa* Pilg.
@@ -33,7 +34,7 @@ Le Testu : 1941, Tchibanga.
 
 ![Guaduella foliosa](../sources/Gramineae_vol05_paddle/figures/fig_032_p0205.png)
 
-*PL. XXXI. — Guaduella foliosa Pilg. (Le Testu 1941) : 1, aspect de la plante avec chaume stérile feuillé et chaume fertile; 2, épillet long de 20 à 25 mm; 3, détail d'une fleur avec ses glumelles; 4, détail d'une fleur dépouillée de ses glumelles.*
+*PL. XXXI. — Guaduella foliosa Pilg. (Le Testu 1941) : 1, aspect of plant with sterile leafy culm and fertile culm; 2, spikelet 20 to 25 mm long; 3, detail of a flower with its glumes; 4, detail of a flower stripped of its glumes.*
 
 ## Notes
 

@@ -7,6 +7,12 @@ family: Anthericaceae
 vol: 41
 pages: 10-11
 source: sources/Anthericaceae_vol41_liteparse
+countries: [Angola, Cameroon, Democratic Republic of the Congo, Gabon, Guinea]
+in_region: true
+subdivisions:
+  Gabon: [Ogooué-Ivindo, Woleu-Ntem]
+habitat: [secondary forest]
+altitude_m: "350"
 tags: [species, generated]
 ---
 # *Chlorophytum filipendulum* Baker

@@ -7,6 +7,12 @@ family: Leguminosae
 vol: 49
 pages: 24-27
 source: sources/Millettiaspeciesfabaceae_vol49_liteparse
+countries: [Gabon, Madagascar]
+in_region: true
+subdivisions:
+  Gabon: [Ngounié, Nyanga]
+habit: "shrub"
+altitude_m: "0–400"
 tags: [species, generated]
 ---
 # *Aeschynomene cristata* Vatke Planche 4

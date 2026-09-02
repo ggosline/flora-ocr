@@ -7,6 +7,12 @@ family: Leguminosae
 vol: 49
 pages: 379-380
 source: sources/Millettiaspeciesfabaceae_vol49_liteparse
+countries: [Gabon, Nigeria]
+in_region: true
+subdivisions:
+  Gabon: [Estuaire, Haut-Ogooué]
+habit: "herb"
+altitude_m: "400"
 tags: [species, generated]
 ---
 # *Vigna oblongifolia* A.Rich. var. oblongifolia

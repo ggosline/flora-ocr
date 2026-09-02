@@ -6,6 +6,12 @@ genus: Leonotis
 vol: 58
 pages: 73-75
 source: sources/Labiataeulmaceaeverbenaceae_vol58_liteparse
+countries: [Angola, Cameroon, Central African Republic, Democratic Republic of the Congo, Equatorial Guinea, Gabon, Madagascar, Nigeria, Republic of the Congo, Sao Tome and Principe]
+in_region: true
+subdivisions:
+  Gabon: [Estuaire, Ogooué-Ivindo]
+habit: "herb"
+altitude_m: "0–500"
 tags: [species, generated]
 ---
 # *Leonotis nepetifolia* (L.) R.Br. var. nepetifolia

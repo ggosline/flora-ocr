@@ -7,6 +7,7 @@ family: Melastomataceae
 vol: 25
 pages: 62-64
 source: sources/Melastomataceae_vol25_paddle
+habit: "herb"
 tags: [species, generated]
 ---
 # *Calvoa hirsuta* Hooker f.
@@ -45,7 +46,7 @@ Le Testu 5229 (fév.); 5994, 6544 (juil.); haute Ngounié.
 
 ![Calvoa hirsuta](../sources/Melastomataceae_vol25_paddle/figures/fig_021_p0063.png)
 
-*PL. 21. Calvoa hirsuta Hook. f. : 1, aspect général × 2/3; 2, coupe de la fleur × 6; 3, pétale × 4; 4. étamines × 8; 5 & 6, capsule entière et coupée × 6; 7, graine × 20 (Hallé N. & Cours 6064).*
+*PL. 21. Calvoa hirsuta Hook. f. : 1, general aspect × 2/3; 2, flower section × 6; 3, petal × 4; 4. stamens × 8; 5 & 6, entire and sectioned capsule × 6; 7, seed × 20 (Hallé N. & Cours 6064).*
 
 ## Notes
 

@@ -7,6 +7,7 @@ family: Rubiaceae
 vol: 12
 pages: 82-84
 source: sources/Rubiaceae_vol12_paddle
+habit: "herb"
 tags: [species, generated]
 ---
 # *Virectaria procumbens* (Sm.) Brem.
@@ -21,33 +22,29 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Prostrate or ± creeping herb 10-40(60) cm long, branched, with sparse or moderate pubescence. Internodes variable, reaching 10-15(30) cm at most, sometimes rooting. Stipules 2-3 mm, simple, narrow, pubescent. Petiole pubescent 2-10(16) mm. Blade sparsely pilose on both surfaces, very unequal in size, ovate, ca. 1.5-5(7) × 0.8-3.7 cm; base cuneate; apex subacute. Midvein pubescent above and below. 4-8 pairs of secondary veins.
 
-Herbe couchée ou ± rampante de 10-40(60) cm de long, ramifiée, à pubescence rase ou médiocre. Entrenœuds variables
+Inflorescences terminal, subcontracted, surrounded by leaves, generally one large and one small pair. Ca. 4-12 flowers. Calyx lobes generally 4, slightly unequal, spatulate, 1-2.5 × 0.5-1 mm, ciliate, green. Corolla 5-8 mm long, white, slightly pinkish or pale lilac, with 4(-6) lobes bearing stiff hairs. Disk cylindrical, truncate at apex, pink.
 
-atteignant 10-15(30) cm au maximum, parfois radicifères. Stipules de 2-3 mm, simples, étroites, pubescentes. Pétiole pubescent de 2-10(16) mm. Limbe pileux de façon éparse sur les deux faces, de taille très inégale, ové, d'env. 1,5-5(7) × 0,8-3,7 cm; base cunéiforme; sommet subaigu. Nervure médiane pubescente dessus et dessous. 4-8 paires de nervures secondaires.
+Infructescence somewhat accrescent. Young fruit green, clothed with stiff hairs 1 mm or less long, with sepals curved outward. Mature fruit with a single persistent valve, 3-3.5 mm long; the lateral margins of this valve curve back, meeting in the middle of the inner surface. Seeds prismatic, 0.5 mm when dry, suddenly projected to 50 cm by capsule dehiscence (after F. Hallé). Germination obtained in 12 days (F. H.).
 
-Inflorescences terminales subcontractées, entourées de feuilles, généralement une grande et une petite paire. Env. 4-12 fleurs. Lobes calycinaux généralement 4, un peu inégaux, spatulés, de 1-2,5 × 0,5-1 mm, ciliés, verts. Corolle longue de 5-8 mm, blanche, un peu rosée ou lilas pâle, à 4(-6) lobes portant des poils raides. Disque cylindrique tronqué au sommet, rose.
+Type (?) not seen, probably from Sierra Leone.
 
-Infrutescence divisée un peu accrescente. Jeune fruit vert vêtue de poils raides longs de 1 mm ou moins, à sépales courbés vers l'extérieur. Fruit mùr à une seule valve persistante, longue de 3-3,5 mm; les marges latérales de cette valve se recourbent en s'affrontant au milieu de la face interne. Graines prismatiques de 0,5 mm à sec, brusquement projetées à 50 cm par la déhiscence de la capsule (d'après F. Hallé). Germination obtenue en 12 jours (F. H.).
+From southern Senegal to Cabinda, western Congo and Central African Republic.
 
-Type (?) non vu, probablement de Sierra-Leone.
+Damp places, ± shaded, stream or river banks, sometimes on rocks.
 
-Du Sud Sénégal jusqu'au Cabinda, Congo occidental et Centrafrique.
+F. Fleury: 26499, plantations of Ossaingué, Lake Fernan-Vaz (old fr. Sept.).
 
-Lieux humides,  $ \pm $ ombragés, bords de sentiers ou de rivières, parfois sur rochers.
+N. Hallé: 623 bis, Nkoulounga (fr. June); 1432, Makokou (fl. fr. March); 2226, Abanga (fl. fr. June); 3053, Bélinga, 1000 m alt. (fl. fr. Nov.).
 
-F. Fleury : 26499, plantations d'Ossaingué, lac de Fernan-Vaz (vieux fr. sept.).
-
-N. Hallé : 623 bis, Nkoulounga (fr. juin); 1432, Makokou (fl. fr. mars); 2226, Abanga (fl. fr. juin); 3053, Bélinga, 1000 m alt. (fl. fr. nov.).
-
-N. Hallé et G. Cours : 5943, Ovala, 900 m alt. (fl. fr. mai).
+N. Hallé and G. Cours: 5943, Ovala, 900 m alt. (fl. fr. May).
 
 ## Figures
 
 ![Virectaria procumbens](../sources/Rubiaceae_vol12_paddle/figures/fig_019_p0087.png)
 
-*PL. 13. — Virectaria procumbens (Sm.) Bremek. (N. H. et G. C. 5943) : 1, vieille infructescence × 3; 2, stipule; 3, fruit plein; 4, graine vue du côté de la fossette du hile, et profil. — V. belingana N. Hallé (N. H. 2799) : 5, rameau florifère; 6, stipule; 7, inflorescence; 8, bouton; 9, anthère; 10, vieille infrutescence × 3.*
+*PL. 13. — Virectaria procumbens (Sm.) Bremek. (N. H. et G. C. 5943) : 1, old infructescence × 3; 2, stipule; 3, full fruit; 4, seed seen from the hilum pit side, and profile. — V. belingana N. Hallé (N. H. 2799) : 5, flowering branch; 6, stipule; 7, inflorescence; 8, bud; 9, anther; 10, old infructescence × 3.*
 
 ## Notes
 

@@ -7,6 +7,7 @@ family: Moraceae
 vol: 26
 pages: 25-27
 source: sources/Moraceae_vol26_paddle
+habit: "tree"
 tags: [species, generated]
 ---
 # *Artocarpus altilis* (Parkinson) Fosberg
@@ -31,7 +32,7 @@ Infructescences ellipsoid to globose, 15–30 cm in diameter, covered by conical
 
 ![Artocarpus altilis](../sources/Moraceae_vol26_paddle/figures/fig_006_p0026.png)
 
-*PL. 6. - Artocarpus altilis (Parkinson) Fosberg: 1, feuille et inflo. ♂ (1, Leeuwenberg 3824, Côté d'Ivoire). - A. heterophyllus Lam.: 2, rameau feuillé; 3, feuille; 4, inflo. ♂; 5, coupe schéma. inflo. ♂ (2, de la Savinière 322, Célèbes; 3, Merrill 415, Philippines; 4-5, Chevalier 12040, Guinée).*
+*PL. 6. - Artocarpus altilis (Parkinson) Fosberg: 1, leaf and ♂ inflo. (1, Leeuwenberg 3824, Côte d'Ivoire). - A. heterophyllus Lam.: 2, leafy branch; 3, leaf; 4, ♂ inflo.; 5, schematic section ♂ inflo. (2, de la Savinière 322, Celebes; 3, Merrill 415, Philippines; 4-5, Chevalier 12040, Guinea).*
 
 ## Notes
 

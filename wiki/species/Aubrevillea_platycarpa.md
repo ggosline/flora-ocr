@@ -7,6 +7,9 @@ family: Leguminosae
 vol: 31
 pages: 39-41
 source: sources/Leguminosae_vol31_paddle
+countries: [Cote d'Ivoire, Democratic Republic of the Congo, Ghana, Nigeria]
+in_region: true
+habit: "tree"
 tags: [species, generated]
 ---
 # *Aubrevillea platycarpa* Pellegrin
@@ -49,11 +52,11 @@ Hallé N. & Le Thomas 114, Bélinga. Ollone s.n., km 18 route Libreville-Kango (
 
 ![Aubrevillea platycarpa](../sources/Leguminosae_vol31_paddle/figures/fig_018_p0038.png)
 
-*PL. 7. — Aubrevillea platycarpa Pellegr.: 1, feuille × 2/; 2, pétiole, coupe schématique × 8; 3, 4, 5, 6, folioles × 2; 7, détail nervation, face inférieure × 4. (1, 7, Letouzey 14616 (Cameroun); 2, 6, Letouzey 1868 (Cameroun); 3, Aubreville 1802 (Côte d'Ivoire); 4, Normand s.n. (Congo).*
+*PL. 7. — Aubrevillea platycarpa Pellegr.: 1, leaf × 2/; 2, petiole, schematic section × 8; 3, 4, 5, 6, leaflets × 2; 7, detail of venation, lower surface × 4. (1, 7, Letouzey 14616 (Cameroon); 2, 6, Letouzey 1868 (Cameroon); 3, Aubreville 1802 (Ivory Coast); 4, Normand s.n. (Congo).*
 
 ![Aubrevillea platycarpa](../sources/Leguminosae_vol31_paddle/figures/fig_019_p0040.png)
 
-*PL. 8. – Aubrevillea platycarpa Pellegr.: 1, fruit × 1; 2, graine × 3. (Aubreville 980 (Côte d'Ivoire)). – Fillaeopsis discophora Harms: 3, fruit × 4/5; 4, graine × 4/5. (1, Le Testu 5201; 4, Leontovitch 201 (Zaïre)).*
+*PL. 8. – Aubrevillea platycarpa Pellegr.: 1, fruit × 1; 2, seed × 3. (Aubreville 980 (Ivory Coast)). – Fillaeopsis discophora Harms: 3, fruit × 4/5; 4, seed × 4/5. (1, Le Testu 5201; 4, Leontovitch 201 (Zaire)).*
 
 ## Notes
 

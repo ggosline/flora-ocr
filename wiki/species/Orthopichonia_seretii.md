@@ -7,6 +7,7 @@ family: Apocynaceae
 vol: 59
 pages: 182-185
 source: sources/Apocynaceae_vol59_liteparse
+habit: "liana"
 tags: [species, generated]
 ---
 # *Orthopichonia seretii* (De Wild.) Vonk Planche 85(5, 6)

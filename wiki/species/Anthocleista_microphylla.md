@@ -7,6 +7,9 @@ family: Loganiaceae
 vol: 19
 pages: 11-12
 source: sources/Loganiaceae_vol19_paddle
+countries: [Cameroon, Equatorial Guinea, Nigeria, Sao Tome and Principe]
+in_region: true
+habit: "liana"
 tags: [species, generated]
 ---
 # *Anthocleista microphylla* Wernham

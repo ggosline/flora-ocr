@@ -7,6 +7,12 @@ family: Cucurbitaceae
 vol: 57
 pages: 98-101
 source: sources/Cucurbitaceae_vol57_paddle
+countries: [Angola, Gabon, Ghana, Mozambique]
+in_region: true
+subdivisions:
+  Gabon: [Ogooué-Ivindo]
+habit: "herb"
+altitude_m: "900"
 tags: [species, generated]
 ---
 # *Peponium vogelii* (Hook.f.) Engl.

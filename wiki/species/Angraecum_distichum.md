@@ -7,6 +7,9 @@ family: Orchidaceae
 vol: 37
 pages: 231-233
 source: sources/Orchidaceae_vol37_paddle
+countries: [Angola, Benin, Cameroon, Central African Republic, Cote d'Ivoire, Democratic Republic of the Congo, Gabon, Ghana, Guinea, Liberia, Mozambique, Nigeria, Rwanda, Sao Tome and Principe, Uganda]
+in_region: true
+habitat: [mangrove, swamp forest]
 tags: [species, generated]
 ---
 # *Angraecum distichum* Lindl.
@@ -55,7 +58,7 @@ Villiers 103 & 167, Riv. Maliba, on rock (st. July), P!.
 
 ![Angraecum distichum](../sources/Orchidaceae_vol37_paddle/figures/fig_114_p0232.png)
 
-*PL. 220. – Angraecum distichum Lindl.: A, fleur et bractée; B, labelle et éperon, position naturelle; C, labelle et éperon, vue de dessus; D, labelle et éperon étalés; E, labelle étalé; F, sépale dorsal; G, pétale; H, sépale latéral; I, vue générale (A-H, Letouzey 9404, P.; I, ex ADAM, 1982, modifié).*
+*PL. 220. – Angraecum distichum Lindl.: A, flower and bract; B, lip and spur, natural position; C, lip and spur, view from above; D, lip and spur spread out; E, lip spread out; F, dorsal sepal; G, petal; H, lateral sepal; I, general view (A-H, Letouzey 9404, P.; I, ex ADAM, 1982, modified).*
 
 ![Angraecum distichum](../sources/Orchidaceae_vol37_paddle/figures/fig_178_p0262.png)
 

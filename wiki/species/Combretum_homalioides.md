@@ -7,6 +7,9 @@ family: Combretaceae
 vol: 35
 pages: 50-51
 source: sources/Combretaceae_vol35_paddle
+countries: [Angola, Cote d'Ivoire, Gabon, Kenya, Tanzania]
+in_region: true
+habit: "liana"
 tags: [species, generated]
 ---
 # *Combretum homalioides* Hutchinson & Dalziel

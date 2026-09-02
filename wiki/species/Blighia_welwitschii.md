@@ -7,6 +7,8 @@ family: Sapindaceae
 vol: 23
 pages: 185-188
 source: sources/Sapindaceae_vol23_paddle
+countries: [Angola, Cameroon, Central African Republic, Chad, Cote d'Ivoire, Democratic Republic of the Congo, Gabon, Liberia, Sierra Leone]
+in_region: true
 tags: [species, generated]
 ---
 # *Blighia welwitschii* (Hiern) Radlkofer
@@ -68,11 +70,11 @@ Le Testu 1666, Massanga, Mayombe Bayaka (fr., nov.); 1773, Mayumba, région de l
 
 ![Blighia welwitschii](../sources/Sapindaceae_vol23_paddle/figures/fig_048_p0185.png)
 
-*Fig. 3. — Blighia welwitschii (Hiern) Radlk., d'après des croquis coloriés relevés sur matériel frais par N. Hallé : 1, 2, fruit rouge coupé en long, 80 mm, et ouvert, graine noire, arille jaune, (N. Hallé & A. Le Thomas 294); 3, coupe transversale immature, orange, 60 mm; 4, 4', graine verte, arille jaune, faces externe et interne (côté hile); 5, embryon coupé dans le plan cotylédonaire, radicule verte.*
+*Fig. 3. — Blighia welwitschii (Hiern) Radlk., from colored sketches taken from fresh material by N. Hallé : 1, 2, red fruit cut lengthwise, 80 mm, and open, black seed, yellow aril, (N. Hallé & A. Le Thomas 294); 3, transverse section immature, orange, 60 mm; 4, 4', green seed, yellow aril, external and internal faces (hilum side); 5, embryo cut in the cotyledonary plane, green radicle.*
 
 ![Blighia welwitschii](../sources/Sapindaceae_vol23_paddle/figures/fig_049_p0187.png)
 
-*PL. 43. — Blighia welwitschii Radlk. (1-4, Le Testu 7496; 5-7', Aubréville 1112) : 1, feuille et grappe, foliole 15 cm; 2, 2', 2", fleur jeune, nouée et coupe; 3, 3', 3", pétale, face interne, externe et coupe; 4, ovaire; 5, fruit sec 6 cm; 6, coupe du fruit; 7, 7', graine sèche, profil, hile. — Blighia unijugata Bak. (8-12, Aubréville 504; 13-15', Letouzey 4524) : 8, feuille et grappe, foliole 10 cm; 8', coupes du pétiole du rachis et du limbe; 9, 9', fleur ouverte et coupe; 10, 10', pétale, vue dessus, interne et coupe; 11, disque ; 12, étamine face externe; 13, fruit, infrutescence 7 cm; 14, coupe d'un loge; 15, 15', graine, hile et profil.*
+*PL. 43. — Blighia welwitschii Radlk. (1-4, Le Testu 7496; 5-7', Aubréville 1112) : 1, leaf and raceme, leaflet 15 cm; 2, 2', 2", young flower, knotted and section; 3, 3', 3", petal, internal face, external and section; 4, ovary; 5, dry fruit 6 cm; 6, fruit section; 7, 7', dry seed, profile, hilum. — Blighia unijugata Bak. (8-12, Aubréville 504; 13-15', Letouzey 4524) : 8, leaf and raceme, leaflet 10 cm; 8', sections of petiole of rachis and blade; 9, 9', open flower and section; 10, 10', petal, upper view, internal and section; 11, disk ; 12, stamen external face; 13, fruit, infrutescence 7 cm; 14, section of a locule; 15, 15', seed, hilum and profile.*
 
 ## Notes
 

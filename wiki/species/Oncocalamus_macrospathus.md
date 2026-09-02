@@ -7,6 +7,12 @@ family: Arecaceae
 vol: 53
 pages: 46-46
 source: sources/Arecaceae_vol53_liteparse
+countries: [Angola, Cameroon, Democratic Republic of the Congo, Equatorial Guinea, Gabon, Republic of the Congo]
+in_region: true
+subdivisions:
+  Gabon: [Estuaire, Moyen-Ogooué, Ngounié, Nyanga, Woleu-Ntem]
+habit: "liana"
+altitude_m: "500"
 tags: [species, generated]
 ---
 # *Oncocalamus macrospathus* Burret Planche 14, Figure 3D-H

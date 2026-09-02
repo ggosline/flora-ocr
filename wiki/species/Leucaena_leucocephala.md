@@ -77,11 +77,11 @@ Prodr. Fl. Ind. Or.: 271 (1834); BRENAN, Kew Bull. 12: 357 (1958); FTEA, Legum. 
 
 ![Leucaena leucocephala](../sources/Leguminosae_vol31_paddle/figures/fig_043_p0118.png)
 
-*PL. 31. – Leucaena leucocephala (Lam.) De Wit : 1, aspect général × 0,8 ; 2, nœuds × 5 ; 3, pétiole, sommet × 5 ; 4, foliole × 6 ; 5, fleur × 8 ; 6, pétale × 13 ; 7, anthère × 20 ; 8, pistil × 13 ; 9, infrutescence × 0,75 ; 10, graine × 5. (1, 2, 4, Meikle 1429 (Nigeria) ; 3, 5-8, Adam 211 (Sénégal) ; 9, s. col. s.n. (Nigeria) ; 10, Thomas 5901 (Sierra Leone)).*
+*PL. 31. – Leucaena leucocephala (Lam.) De Wit : 1, general aspect × 0.8 ; 2, nodes × 5 ; 3, petiole, apex × 5 ; 4, leaflet × 6 ; 5, flower × 8 ; 6, petal × 13 ; 7, anther × 20 ; 8, pistil × 13 ; 9, infructescence × 0.75 ; 10, seed × 5. (1, 2, 4, Meikle 1429 (Nigeria) ; 3, 5-8, Adam 211 (Senegal) ; 9, s. col. s.n. (Nigeria) ; 10, Thomas 5901 (Sierra Leone)).*
 
 ![Leucaena leucocephala](../sources/Leguminosae_vol31_paddle/figures/fig_044_p0122.png)
 
-*PL. 32. – Dichrostachys cinera (L.) Wight & Arn. ssp. platycarpa (Welw. ex Bull) Brenan & Brummitt, var. platycarpa : 1, 1', aspect général × 1 ; 2, stipules × 4 ; 2', idem × 3 ; 3, pétiole, coupe transversale × 20, 4, rachis, détail × 8 ; 5, foliole, face inférieure × 12 ; 6, bractéole × 12 ; 7, bouton floral × 12 ; 8, fleur basale × 12 ; 9, fleur sommitale × 12 ; 10, anthère × 30 ; 11, pistil × 12 ; 12, fruits × 1 ; 13, graine × 8. (1,2, De Wilde 3123, (Cameroun); 1', 2', 8-11, Toutain 1539 (Haute Volta); 3, 4, 13, Audru 5494 (Côte d'Ivoire); 5, 12, Audru 3727 (Sénégal); 6, 7, Fotius 1556 (Tchad)).*
+*PL. 32. – Dichrostachys cinera (L.) Wight & Arn. ssp. platycarpa (Welw. ex Bull) Brenan & Brummitt, var. platycarpa : 1, 1', general aspect × 1 ; 2, stipules × 4 ; 2', idem × 3 ; 3, petiole, transverse section × 20, 4, rachis, detail × 8 ; 5, leaflet, lower surface × 12 ; 6, bracteole × 12 ; 7, floral bud × 12 ; 8, basal flower × 12 ; 9, apical flower × 12 ; 10, anther × 30 ; 11, pistil × 12 ; 12, fruits × 1 ; 13, seed × 8. (1,2, De Wilde 3123, (Cameroon); 1', 2', 8-11, Toutain 1539 (Upper Volta); 3, 4, 13, Audru 5494 (Côte d'Ivoire); 5, 12, Audru 3727 (Senegal); 6, 7, Fotius 1556 (Chad)).*
 
 ## Notes
 

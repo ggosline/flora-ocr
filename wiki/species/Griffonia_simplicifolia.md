@@ -7,6 +7,7 @@ family: Leguminosae
 vol: 15
 pages: 22-22
 source: sources/Leguminosae_vol15_paddle
+habit: "liana"
 tags: [species, generated]
 ---
 # *Griffonia simplicifolia* (Vahl ex DC.) Baillon

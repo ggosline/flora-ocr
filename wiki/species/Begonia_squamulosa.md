@@ -7,6 +7,10 @@ family: Begoniaceae
 vol: 39
 pages: 110-112
 source: sources/Begoniaceae_vol39_liteparse
+countries: [Democratic Republic of the Congo, Equatorial Guinea, Gabon]
+in_region: true
+habit: "epiphyte"
+altitude_m: "850"
 tags: [species, generated]
 ---
 # *Begonia squamulosa* Hook.f. Planche 51

@@ -7,6 +7,13 @@ family: Leguminosae
 vol: 49
 pages: 290-290
 source: sources/Millettiaspeciesfabaceae_vol49_liteparse
+countries: [Angola, Cameroon, Democratic Republic of the Congo, Gabon, Nigeria, Republic of the Congo]
+in_region: true
+subdivisions:
+  Gabon: [Nyanga, Ogooué-Lolo, Ogooué-Maritime]
+habit: "tree"
+habitat: [mangrove, evergreen forest]
+altitude_m: "100–250"
 tags: [species, generated]
 ---
 # *Millettia drastica* Welw. ex Baker Planche 93

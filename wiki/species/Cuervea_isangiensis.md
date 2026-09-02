@@ -7,6 +7,9 @@ family: Celastraceae
 vol: 29
 pages: 226-227
 source: sources/Celastraceae_vol29_paddle
+countries: [Cameroon, Central African Republic, Democratic Republic of the Congo, Gabon]
+in_region: true
+habit: "liana"
 tags: [species, generated]
 ---
 # *Cuervea isangiensis* (De Wildeman) Hallé

@@ -7,6 +7,10 @@ family: Loganiaceae
 vol: 19
 pages: 14-16
 source: sources/Loganiaceae_vol19_paddle
+countries: [Nigeria]
+in_region: true
+habit: "tree"
+habitat: [savanna]
 tags: [species, generated]
 ---
 # *Anthocleista schweinfurthii* Gilg
@@ -86,7 +90,7 @@ K, isotypes: BREM, GOET, P, Z).
 
 ![Anthocleista schweinfurthii](../sources/Loganiaceae_vol19_paddle/figures/fig_006_p0023.png)
 
-*PL. 6. — Anthocleista schweinfurthii Gilg : 1, rameau; 2 et 3, jeunes boutons; 4, bouton mûr; 5, fleur; 6, fruit. (1-6, × ½). (1-3, 5 : d'après Schmitz 3332, Congo-Kinshasa, BR; 4 : d'après Tisserant 1934, République centrafricaine; 6 : d'après Louis 3100, Congo-Kinshasa, BR).*
+*PL. 6. — Anthocleista schweinfurthii Gilg : 1, branch; 2 and 3, young buds; 4, mature bud; 5, flower; 6, fruit. (1-6, × ½). (1-3, 5 : after Schmitz 3332, Congo-Kinshasa, BR; 4 : after Tisserant 1934, Central African Republic; 6 : after Louis 3100, Congo-Kinshasa, BR).*
 
 ## Notes
 

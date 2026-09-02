@@ -7,6 +7,7 @@ family: Apocynaceae
 vol: 59
 pages: 159-159
 source: sources/Apocynaceae_vol59_liteparse
+habit: "liana"
 tags: [species, generated]
 ---
 # *Landolphia violacea* (K.Schum. ex Hallier f.) Pichon Planche 72

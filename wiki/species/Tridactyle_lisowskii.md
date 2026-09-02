@@ -7,6 +7,8 @@ family: Orchidaceae
 vol: 37
 pages: 167-169
 source: sources/Orchidaceae_vol37_paddle
+countries: [Cameroon, Democratic Republic of the Congo, Gabon]
+in_region: true
 tags: [species, generated]
 ---
 # *Tridactyle lisowskii* (Szlach.) Szlach. & Olsz.
@@ -17,27 +19,21 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+– BASIONYM: Tridactyle scottellii (Rendle) Schltr. ssp. lisowskii Szlach., Fragm. Flor. Geobot. 39(2): 547 (1994). – TYPE: Lisowski B-6741, Cameroon, holo-UGDA-DLSZ!.
 
-– BASIONYME : Tridactyle scottellii (Rendle) Schltr. ssp. lisowskii Szlach., Fragm. Flor. Geobot. 39(2) : 547 (1994). – TYPE : Lisowski B-6741, Cameroun, holo-UGDA-DLSZ!.
-
-Tige 17-110 cm. Feuilles 3-9, < 11,5 × 1,2 cm, linéaires, inégalement bilobées. Inflorescence assez lâche, 3-5 cm, 6-12-flore. Fleurs petites, résupinées, entièrement orange rosâtre, orange clair ou jaunes. Sépale dorsal ové-lancéolé à ové-triangulaire. Pétales linéaires-lancéolés à oblongs, ciliés le long des marges. Sépales latéraux obliquement lancéolés. Labelle 4-6 mm, brièvement auriculé à la base, nettement trilobé ; lobe médian triangulaire, aigu, cilié le long des marges ; lobes latéraux largement falciformes divergents, presque filiformes, aigus, entiers ou avec 1 ou 2 dents chacun, ciliés le long des marges. Éperon 10,5-12 mm, droit, aigu. - Pl. 183, p. 397.
+Stem 17–110 cm. Leaves 3–9, < 11.5 × 1.2 cm, linear, unequally bilobed. Inflorescence rather lax, 3–5 cm, 6–12-flowered. Flowers small, resupinate, entirely pinkish-orange, light orange or yellow. Dorsal sepal ovate-lanceolate to ovate-triangular. Petals linear-lanceolate to oblong, ciliate along the margins. Lateral sepals obliquely lanceolate. Lip 4–6 mm, shortly auriculate at the base, distinctly trilobed; median lobe triangular, acute, ciliate along the margins; lateral lobes broadly falcate divergent, almost filiform, acute, entire or with 1 or 2 teeth each, ciliate along the margins. Spur 10.5–12 mm, straight, acute. - Pl. 183, p. 397.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Cameroon, Gabon, Zaire
 
-Cameroun, Gabon, Zaïre
-
-PL. 183. – Tridactyle lisowskii (Szlach.) Szlach. & Olsz. : A,partie basale de la fleur incluant éperon, ovaire, pédicelle, bractée florale et une partie de l'axe de l'inflorescence ; B, labelle étalé ; C, auricule basal du labelle ; D, sépale dorsal ; E, pétale ; F, sépale latéral ; G, gaines foliaires ; H, extrémités foliaires (A-H, Dang 764, P).
+PL. 183. – Tridactyle lisowskii (Szlach.) Szlach. & Olsz.: A, basal part of the flower including spur, ovary, pedicel, floral bract and part of the inflorescence axis; B, lip spread out; C, basal auricle of the lip; D, dorsal sepal; E, petal; F, lateral sepal; G, leaf sheaths; H, leaf tips (A–H, Dang 764, P).
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+alt. 750–1 070 m. Lithophyte on granitic rock, dense cushion on exposed rock face
 
-alt. 750-1 070 m. Lithophyte sur rocher granitique, coussin dense sur face exposée de rocher
-
-MATÉRIEL ÉTUDIÉ (Carte 84) :
+MATERIAL STUDIED (Map 84):
 
 Hallé 2846, Bélinga (fr. Oct.), P!.
 

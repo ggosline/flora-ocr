@@ -7,6 +7,11 @@ family: Putranjivaceae
 vol: 57
 pages: 123-126
 source: sources/Putranjivaceae_vol57_paddle
+countries: [Cameroon, Equatorial Guinea, Gabon]
+in_region: true
+subdivisions:
+  Gabon: [Estuaire, Moyen-Ogooué, Ngounié, Nyanga, Ogooué-Ivindo, Ogooué-Lolo, Ogooué-Maritime, Woleu-Ntem]
+habit: "tree"
 tags: [species, generated]
 ---
 # *Drypetes arborescens* (Oliv.) Hutch.

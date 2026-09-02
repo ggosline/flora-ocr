@@ -7,6 +7,8 @@ family: Rubiaceae
 vol: 17
 pages: 109-110
 source: sources/Rubiaceae_vol17_paddle
+habit: "shrub"
+habitat: [rocky ground]
 tags: [species, generated]
 ---
 # *Tarena jolinonii* N. Hallé, sp. nov.
@@ -16,17 +18,13 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Shrub glabrous, drying nearly black, branches strongly quadrangular. Stipules gigantic lanceolate chartaceous. Leaves petiolate; lamina concolor elliptic acuminate; base often dissymmetric; domatia rare small pilose. Nerves 6–8 pairs, both surfaces subprominent. Inflorescence corymbiform ± puberulous, bracts ciliate. Calyx 5-lobed, lobes rounded subtruncate ciliate 1 mm long, 1.5 mm wide. Corolla glabrous, throat pubescent, tube short, 5-lobed, lobes oblong. Anthers linear 6.5 mm long. Style elongate above the middle furnished with exsert hairs, stigmatic clavate crested. Placentae 2 hemispherical peltate 12–15 ovulate. Strongly aff. T. funebre (Bremek.) N. Hallé but with stipules among Tarennas most remarkable, placentae multiovulate sufficiently distinct.
 
-Frutex glaber, sicc. fere niger, ramis valde quadrangulatis. Stipulæ giganteæ lanceolatae chartaceæ. Folia petiolata; lamina concolor elliptica acuminata; basis sape dissymmetrica; domatæ rære parve pilosæ. Nervi 6-8 jugi, Ṛtraque pagina subprominentes. Inflorescentia corymbiformis ± puberula, bracteis ciliatis. Calyx 5-lobatus, lobis rotundatis subtruncatis ciliatis 1 mm longis, 1,5 mm latis. Corolla glabra, faucus pubescens, tubo brevis, 5-lobata, lobis oblongis. Anthæ lineares 6,5 mm longæ. Stylus elongatus supra medium pilis exsertis munitus, clava stigmalica cristata. Placentæ 2 hemisphærisæ peltæ 12-15 ovulate. Valde aff. T. funebri (Bremek.) N. Hallé sed stipulis inter Tarennas maxime insignibus, placentis multiovulatis satis distincta.
+This remarkable species is dedicated to M. J.-Cl. Jolinon, head of the Technical Service at the Phanerogam Laboratory of the Paris Museum and successor of M. R. Willmann.
 
-Cette remarquable espèce est dédiée à M. J.-Cl. Jolinon, chef du Service technique au Laboratoire de Phanérogamie du Muséum de Paris et successeur de M. R. Willmann.
+Tree 6–7 m tall, with internodes glabrous quadrangular with very acute subwinged edges. Stipules very developed, laminate 16–35 × 9–17 mm, lanceolate, glabrous, striped longitudinally with veinlets. The herbarium specimen is uniformly brownish or even nigrescent. Petiole glabrous 10–12 mm, with a lippy channel. Blade glabrous elliptic 13–25 × 3.5–10 cm, with base ± acute frequently dissymmetric, with acumen 1–2 cm. 6–8 pairs of secondary nerves long-arched; fine reticulation somewhat distinct on both surfaces. Axillary domatia few in number, aperturate, ciliate.
 
-Arbre de 6-7 m de hauteur, à entrenceuds glabres quadrangulaires à arêtes très aiguës subailées. Stipules très développées, laminées de 16-35 × 9-17 mm, lancéolées, glabres, striées en long de veinules. L'herbier est uniformément brunâtre ou même nigrescent. Pétiole glabre de 10-12 mm, à canal lippu. Limbe glabre elliptique de 13-25 × 3,5-10 cm, à base ± aiguë fréquemment dissymétrique, à acumen de 1-2 cm. 6-8 paires de nervures secondaires longuement arquées; fin réticule un peu distinct sur les deux faces. Domaties axillaires peu nombreuses, aperturées, ciliées.
-
-Inflorescences terminales dressées corymbiformes larges de 7-9 cm, à pédoncules principaux longs de 1-4 cm, à axes médiocrement pubérulents, à bractées aiguës d'env. 2 mm, faiblement ciliées. Sommet du bouton brunâtre. Pédicelles de 2-3 mm, presque glabres. Fleurs jaune verdâtre très odorantes. Calice vert, glabre, court, à 5 lobes contortés subtronqués de 1 mm, plus larges que longs, à marge ciliolée. Corolle pentamère contortée entièrement glabre, sauf la gorge dont l'ouverture laisse apparaître un anneau de poils blanchâtres; tube court de 2-3 mm, vert pâle; lobes de 5-6 × 2 mm. Anthères linéaires de 6,5 × 0,5 mm, à connectif saillant sur 1 mm au sommet, à échancrure basale
-
-de 0,3 mm sous le point d'attache; filet de près de 1 mm. Style long de 12-14 mm, à pilosité supramédiane exserte, à massue stigmatique étroite et ornée de fines crêtes. Ovaire à 2 loges. Placenta hémisphérique pelté de 0,9 mm de diam., à 12-15 ovules enchâssés. Fruit globuleux de 8 mm de diam.; env. 25 graines noires de 1,5-2 mm.
+Terminal erect inflorescences corymbiform 7–9 cm wide, with main peduncles 1–4 cm long, with axes moderately puberulent, with acute bracts ca. 2 mm, weakly ciliate. Apex of bud brownish. Pedicels 2–3 mm, nearly glabrous. Flowers yellowish-green very fragrant. Calyx green, glabrous, short, with 5 contorted subtruncate lobes 1 mm, wider than long, with ciliolate margin. Corolla pentamerous contorted entirely glabrous, except the throat whose opening reveals a ring of whitish hairs; tube short 2–3 mm, pale green; lobes 5–6 × 2 mm. Anthers linear 6.5 × 0.5 mm, with connective prominent for 1 mm at apex, with basal notch of 0.3 mm below the point of attachment; filament nearly 1 mm. Style 12–14 mm long, with supramedian exsert pilosity, with narrow stigmatic clavate and ornamented with fine crests. Ovary with 2 locules. Hemispherical peltate placenta 0.9 mm diam., with 12–15 ovules embedded. Globose fruit 8 mm diam.; ca. 25 black seeds 1.5–2 mm.
 
 ## Type
 
@@ -34,13 +32,11 @@ A. Walker « 12391 », Nengé-Ngozo sur la Ngounié, région de Sindara, arbre �
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Small tree bushy on the edge of climax forest on rocky alpomb.
 
-Petit arbre rameux en lisière de forêt culminale sur alpomb rocheux.
+Other Gabonese material:
 
-Autre matériel gabonais :
-
-N. Hallé et J.-F. Villiers 4963, Efout, rocher Fané, 11 km Est de Médouneu (fl. et vieux fr. fév.).
+N. Hallé and J.-F. Villiers 4963, Efout, Fané rock, 11 km East of Médouneu (fl. and old fr. Feb.).
 
 ## Notes
 

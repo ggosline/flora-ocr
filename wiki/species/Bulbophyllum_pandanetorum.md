@@ -7,6 +7,8 @@ family: Orchidaceae
 vol: 36
 pages: 185-187
 source: sources/Orchidaceae_vol36_paddle
+countries: [Gabon]
+in_region: true
 tags: [species, generated]
 ---
 # *Bulbophyllum pandanetorum* Summerh.
@@ -35,7 +37,7 @@ Le Testu 5527, Wano, affl. of the Ngounyé, at the crossing of the Kembélé-Lub
 
 ![Bulbophyllum pandanetorum](../sources/Orchidaceae_vol36_paddle/figures/fig_096_p0186.png)
 
-*PL. 91. – Bulbophyllum pandanetorum Summerh.: A, vue générale ; B, fleur et bractée ; C, pièces florales ; D, labelle ; E, labelle et gynostème, vue latérale (A-E, ex VERMEULEN, 1987).*
+*PL. 91. – Bulbophyllum pandanetorum Summerh.: A, general view ; B, flower and bract ; C, floral parts ; D, labellum ; E, labellum and gynostemium, lateral view (A-E, ex VERMEULEN, 1987).*
 
 ![Bulbophyllum pandanetorum](../sources/Orchidaceae_vol36_paddle/figures/fig_146_p0226.png)
 

@@ -7,6 +7,12 @@ family: Meliaceae
 vol: 47
 pages: 29-31
 source: sources/Meliaceae_vol47_liteparse
+countries: [Democratic Republic of the Congo, Equatorial Guinea, Gabon, Republic of the Congo]
+in_region: true
+subdivisions:
+  Gabon: [Estuaire, Ngounié, Ogooué-Ivindo, Ogooué-Maritime, Woleu-Ntem]
+habit: "tree"
+altitude_m: "600"
 tags: [species, generated]
 ---
 # *Entandrophragma congoense* (De Wild.) A.Chev. Planche 3(D–F)

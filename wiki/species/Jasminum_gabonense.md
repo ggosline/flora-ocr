@@ -7,6 +7,13 @@ family: Oleaceae
 vol: 51
 pages: 12-12
 source: sources/Oleaceae_vol51_liteparse
+countries: [Democratic Republic of the Congo, Gabon, Republic of the Congo]
+in_region: true
+subdivisions:
+  Gabon: [Ngounié]
+habit: "liana"
+habitat: [savanna, secondary forest, coastal]
+altitude_m: "700"
 tags: [species, generated]
 ---
 # *Jasminum gabonense* Pierre, nomen (voir Notes) .

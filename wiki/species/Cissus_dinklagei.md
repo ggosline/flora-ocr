@@ -7,6 +7,7 @@ family: Vitaceae
 vol: 14
 pages: 85-87
 source: sources/Vitaceae_vol14_paddle
+habit: "liana"
 tags: [species, generated]
 ---
 # *Cissus dinklagei* Gilg et Brandt

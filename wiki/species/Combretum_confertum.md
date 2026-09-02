@@ -7,6 +7,9 @@ family: Combretaceae
 vol: 35
 pages: 33-35
 source: sources/Combretaceae_vol35_paddle
+countries: [Angola, Cameroon, Equatorial Guinea, Gabon, Nigeria]
+in_region: true
+habit: "liana"
 tags: [species, generated]
 ---
 # *Combretum confertum* (Bentham) Lawson

@@ -7,6 +7,9 @@ family: Flacourtiaceae
 vol: 34
 pages: 53-55
 source: sources/Flacourtiaceae_vol34_paddle
+countries: [Gabon]
+in_region: true
+habit: "shrub"
 tags: [species, generated]
 ---
 # *Oncoba ngounyensis* (PELLEGR.) HUL, comb. nov.
@@ -50,7 +53,7 @@ McPherson 15232, Moyen-Ogooué, SW Lambaréné, près du lac Ezanga, 1°0'S-10°
 
 ![Oncoba ngounyensis](../sources/Flacourtiaceae_vol34_paddle/figures/fig_015_p0054.png)
 
-*PL. 15. – Oncoba ngounyensis (Pellegr.) Hul : 1, rameau florifère ; 2, inflorescence ; 3, détail des glandes en forme de « trompette » à la base des pédicelles ; 4, bouton floral ; 5, sépale ; 6, pétale ; 7, étamines et pistil ; 8, détail du pistil ; 9, fruits ; 10, détail des glandes en « trompette » à la base des pédoncules ; 11, graine. (1-8. Le Testu 2235 ; 9-11. Breteler 10874).*
+*PL. 15. – Oncoba ngounyensis (Pellegr.) Hul : 1, flowering branch ; 2, inflorescence ; 3, detail of the glands shaped like "trumpet" at the base of the pedicels ; 4, floral bud ; 5, sepal ; 6, petal ; 7, stamens and pistil ; 8, detail of the pistil ; 9, fruits ; 10, detail of the glands shaped like "trumpet" at the base of the peduncles ; 11, seed. (1-8. Le Testu 2235 ; 9-11. Breteler 10874).*
 
 ## Notes
 

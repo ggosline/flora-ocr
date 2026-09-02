@@ -7,6 +7,13 @@ family: Phyllanthaceae
 vol: 43
 pages: 44-46
 source: sources/Phyllanthaceae_vol43_liteparse
+countries: [Cameroon, Democratic Republic of the Congo, Gabon, Nigeria, Republic of the Congo, Zambia]
+in_region: true
+subdivisions:
+  Gabon: [Estuaire, Haut-Ogooué, Ogooué-Ivindo, Ogooué-Maritime]
+habit: "tree"
+habitat: [gallery forest, secondary forest]
+altitude_m: "0–750"
 tags: [species, generated]
 ---
 # *Maesobotrya floribunda* Benth.

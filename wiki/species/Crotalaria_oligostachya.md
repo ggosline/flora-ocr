@@ -7,6 +7,13 @@ family: Leguminosae
 vol: 49
 pages: 99-101
 source: sources/Millettiaspeciesfabaceae_vol49_liteparse
+countries: [Angola, Democratic Republic of the Congo, Gabon]
+in_region: true
+subdivisions:
+  Gabon: [Ngounié]
+habit: "herb"
+habitat: [gallery forest, savanna]
+altitude_m: "175"
 tags: [species, generated]
 ---
 # *Crotalaria oligostachya* Baker

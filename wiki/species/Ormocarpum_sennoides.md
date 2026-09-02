@@ -7,6 +7,12 @@ family: Leguminosae
 vol: 49
 pages: 312-313
 source: sources/Millettiaspeciesfabaceae_vol49_liteparse
+countries: [Gabon]
+in_region: true
+subdivisions:
+  Gabon: [Estuaire, Ngounié, Ogooué-Ivindo]
+habit: "shrub"
+altitude_m: "1500"
 tags: [species, generated]
 ---
 # *Ormocarpum sennoides* (Willd.) DC. subsp. hispidum (Willd.) Brenan & J.Léonard

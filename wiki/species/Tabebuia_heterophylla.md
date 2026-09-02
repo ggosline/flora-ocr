@@ -7,6 +7,7 @@ family: Bignoniaceae
 vol: 27
 pages: 55-56
 source: sources/Bignoniaceae_vol27_paddle
+habit: "tree"
 tags: [species, generated]
 ---
 # *Tabebuia heterophylla* (A. P. De Candolle) Britton
@@ -17,19 +18,17 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 - Raputia heterophylla DC., Prodr. 1: 734 (1824).
 
 - Tabebuia pallida (LINDL.) Miers sensu SANDWITH, Fl. Trinidad and Tobago 2: 324 (1954); GENTRY, Flora of Panama, Annals Miss. Bot. Garden 60 (3): 950 (1973); non Bignonia pallida LINDL.
 
-Arbuste ou petit arbre. Feuilles 1-5 foliolées, folioles elliptiques à elliptiques oblongues, obtuses, basalement arrondies, chartacées, à glandes circulaires saillantes.
+Shrub or small tree. Leaves 1–5-foliolate, leaflets elliptic to elliptic-oblong, obtuse, rounded at base, chartaceous, with prominent circular glands.
 
-Inflorescence en panicule terminale pauciflore, souvent réduite à 1 ou 2 fleurs. Fleur à calice cupulaire, bilabié, à glandes circulaires saillantes. Corolle rosâtre-lavande à presque blanche, gorge jaune à l'anthèse, devenant blanche, tubulaire infundibuliforme. Étamines didynames ; thèques divariquées. Ovaire avec glandes circulaires saillantes ; ovules bisériés dans chaque loge.
+Inflorescence a terminal pauciflorous panicle, often reduced to 1 or 2 flowers. Flower with cupular, bilabiate calyx, with prominent circular glands. Corolla pinkish-lavender to almost white, throat yellow at anthesis, becoming white, tubular-funnelform. Stamens didynamous; anther-cells divaricate. Ovary with prominent circular glands; ovules biseriate in each locule.
 
-Capsule linéaire cylindrique, atténuée aux deux extrémités, longue de 7-15 cm, à glandes circulaires saillantes ; calice persistant. Graines biaillées, longues de 7-9 mm, larges de 2-3 mm ; ailes hyalines membraneuses, nettement démarquées du corps de la graine.
+Capsule linear-cylindric, attenuate at both ends, 7–15 cm long, with prominent circular glands; calyx persistent. Seeds two-winged, 7–9 mm long, 2–3 mm wide; wings hyaline membranous, clearly delimited from the seed body.
 
-Originaire des Indes Occidentales, largement cultivée dans les régions tropicales pour ses fleurs voyantes.
+Native to the West Indies, widely cultivated in tropical regions for its showy flowers.
 
 ## Specimens examined
 

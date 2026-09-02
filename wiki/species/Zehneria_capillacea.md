@@ -7,6 +7,13 @@ family: Cucurbitaceae
 vol: 57
 pages: 109-109
 source: sources/Cucurbitaceae_vol57_paddle
+countries: [Angola, Cameroon, Democratic Republic of the Congo, Gabon, Ghana, Sierra Leone, Uganda]
+in_region: true
+subdivisions:
+  Gabon: [Estuaire, Nyanga, Ogooué-Maritime, Woleu-Ntem]
+habit: "herb"
+habitat: [primary forest]
+altitude_m: "0–500"
 tags: [species, generated]
 ---
 # *Zehneria capillacea* (Schumach.) C.Jeffrey
@@ -17,31 +24,25 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Planche 36(10-12)
+Plate 36(10-12)
 
 Melothria capillacea (Schumach.) Cogn. in DC., Monogr. phan. 3: 600 (1881).
 
 Neoachmandra capillacea (Schumach.) W.J.de Wilde & Duyfjes, Gard. Bull. Sing. 61 : 209 (2009).
 
-Herbe monoïque. Vrilles capillaires. Feuille: pétiole filiforme, 1–2 cm; limbe simple ou parfois 3-lobé, de contour largement triangulaire-deltoïde, de 3–7 × 3–7 cm, tronqué à la base, à lobes latéraux divergents. Inflorescence: la mâle à fleurs solitaires, la femelle à fleurs solitaires. Fleur mâle : pédicelle grêle, 1–2 cm ; réceptacle cupuliforme, de 1 × 1,5 mm ; sépales triangulaires, très courts ; pétales largement triangulaires, de 1,5 × 1 mm, jaune pâle ou blanchâtres ; étamines 3, anthères droites, obloïdes, longues de 1 mm ; pistillode globuleux. Fleur femelle : pédicelle jusqu'à 6 cm ; ovaire obovoïde ; style épais, en colonne, entouré à la base par 3 grosses glandes nectarifères formant un anneau. Fruit à pédicelle de 2–6 cm, globuleux, de 6–9 mm de diamètre, glabre, rouge pâle. Graine de contour oblong, de 3,5 × 1,7 × 1,0 mm, gris cendré.
+Monoecious herb. Tendrils capillary. Leaf: petiole filiform, 1–2 cm; blade simple or sometimes 3-lobed, broadly triangular-deltoid in outline, 3–7 × 3–7 cm, truncate at base, with divergent lateral lobes. Inflorescence: male with solitary flowers, female with solitary flowers. Male flower: pedicel slender, 1–2 cm; receptacle cupuliform, 1 × 1.5 mm; sepals triangular, very short; petals broadly triangular, 1.5 × 1 mm, pale yellow or whitish; stamens 3, anthers erect, oblong, 1 mm long; pistillode globose. Female flower: pedicel up to 6 cm; ovary obovoid; style thick, columnar, surrounded at base by 3 large nectariferous glands forming a ring. Fruit with pedicel 2–6 cm, globose, 6–9 mm in diameter, glabrous, pale red. Seed oblong in outline, 3.5 × 1.7 × 1.0 mm, ash-grey.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Sierra Leone, Ghana, Cameroun, Gabon, République démocratique du Congo, Angola et Ouganda ; au Gabon : Estuaire, Nyanga, Ogooué-Maritime et Woleu-Ntem
+Sierra Leone, Ghana, Cameroon, Gabon, Democratic Republic of the Congo, Angola and Uganda; in Gabon: Estuaire, Nyanga, Ogooué-Maritime and Woleu-Ntem
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+forest clearings in primary forest, river banks, wooded savannas; in Gabon at 0–500 m elevation, elsewhere up to 2500 m
 
-trouées en forêt primaire, berges de rivières, savanes boisées ; au Gabon à 0–500 m d'altitude, ailleurs jusqu'à 2500 m
+Use: The leaves are used in decoction against pimples.
 
-Usage: Les feuilles sont utilisées en décoction contre les boutons.
-
-BIBLIOGRAPHIÉ : Dwivedi et al. (2018), Jeffrey (1967), Keraudren (1967), Keraudren-Aymonin (1975).
+BIBLIOGRAPHY: Dwivedi et al. (2018), Jeffrey (1967), Keraudren (1967), Keraudren-Aymonin (1975).
 
 ## Figures
 

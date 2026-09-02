@@ -7,6 +7,10 @@ family: Bignoniaceae
 vol: 27
 pages: 14-17
 source: sources/Gesneriaceae_vol27_paddle
+countries: [Cameroon]
+in_region: true
+habit: "herb"
+habitat: [rocky ground]
 tags: [species, generated]
 ---
 # *Acanthonema strigosum* Hooker f.
@@ -43,7 +47,7 @@ Hallé N. 2219, 2381, 2427, Abanga, chantier CEFA (fl., juin).
 
 ![Acanthonema strigosum](../sources/Gesneriaceae_vol27_paddle/figures/fig_002_p0016.png)
 
-*PL. 2. – Acanthonema strigosum Hook.f.: 1, aspect général × 0,6; 2, inflorescence × 1; 3, fleur × 2; 4, étamine × 4; 5, pistil et disque × 7; 6, coupe transversale de l'ovaire × 7 (Raynal J. & A. 10478, Cameroun). (Repris de la Flore du Cameroun 27: tab. 5, 1984).*
+*PL. 2. – Acanthonema strigosum Hook.f.: 1, general aspect × 0,6; 2, inflorescence × 1; 3, flower × 2; 4, stamen × 4; 5, pistil and disk × 7; 6, transverse section of ovary × 7 (Raynal J. & A. 10478, Cameroon). (Reprinted from Flora of Cameroon 27: tab. 5, 1984).*
 
 ## Notes
 

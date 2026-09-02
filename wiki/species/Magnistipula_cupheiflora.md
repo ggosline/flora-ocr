@@ -7,6 +7,9 @@ family: Scytopetalaceae
 vol: 24
 pages: 86-89
 source: sources/Chrysobalanaceae_vol24_paddle
+countries: [Cameroon, Cote d'Ivoire, Gabon, Sierra Leone]
+in_region: true
+habit: "shrub"
 tags: [species, generated]
 ---
 # *Magnistipula cupheiflora* Mildbraed
@@ -43,7 +46,7 @@ Bernard & Durand 1371 SRF, Ndjolé (fl., juill.). Le Testu 5472, Guidouma, 50 km
 
 ![Magnistipula cupheiflora](../sources/Chrysobalanaceae_vol24_paddle/figures/fig_025_p0087.png)
 
-*PL. 25. — Magnistipula cupheiflora Mildbr. : 1, rameau avec fleurs × 2/3; 2, stipules × 4; 3, 4, glandes foliaires × 3/2; 5, bouton floral × 4; 6, fleur (pét. excl.) × 4; 7, fleur ouverte × 5. (1, 5-7, Letouzey 4418; 2-4, Breteler 2619).*
+*PL. 25. — Magnistipula cupheiflora Mildbr. : 1, branch with flowers × 2/3; 2, stipules × 4; 3, 4, foliar glands × 3/2; 5, floral bud × 4; 6, flower (pet. excl.) × 4; 7, open flower × 5. (1, 5-7, Letouzey 4418; 2-4, Breteler 2619).*
 
 ## Notes
 

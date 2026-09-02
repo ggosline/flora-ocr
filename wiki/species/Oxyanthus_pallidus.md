@@ -7,6 +7,9 @@ family: Rubiaceae
 vol: 17
 pages: 201-202
 source: sources/Rubiaceae_vol17_paddle
+countries: [Angola, Central African Republic, Liberia, Sierra Leone]
+in_region: true
+habit: "shrub"
 tags: [species, generated]
 ---
 # *Oxyanthus pallidus* Hiern (P.L. 45, p. 197)

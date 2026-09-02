@@ -7,6 +7,9 @@ family: Rubiaceae
 vol: 17
 pages: 224-226
 source: sources/Rubiaceae_vol17_paddle
+countries: [Angola, Cameroon, Central African Republic, Cote d'Ivoire, Gabon, Ghana, Liberia, Nigeria, Uganda]
+in_region: true
+habit: "tree"
 tags: [species, generated]
 ---
 # *Gardenia vogelli* Hook. f. ex Planch.
@@ -43,7 +46,7 @@ N. Halle 2656, 15 km SW of Makokou (fl. Oct.) (duplicates at Kew). Le Testu 1978
 
 ![Gardenia vogelli](../sources/Rubiaceae_vol17_paddle/figures/fig_053_p0225.png)
 
-*PL. 52. — Gardenia Vogelii Hook. f. (fl. Le Testu 6098 et 9333; fr. de Néré 1790) : 1, rameau florifère avec un fruit juvénique × 0,75; 2, système stipulaire; 3, sommet du bouton; 4, sommet d'un calice; 5, étiamine longue de 15 mm; 6, coupe transversale d'anthère; 7, coupe de réceptacle (a et b, niveaux des coupes transversales correspondantes de l'ovaire tétramère); 8, coupe d'un ovaire trimère; 9, fruit; 10, graine réhydratée de 4 mm. — G. Jovis-tonantis Hiern (fl. Le Testu 1149; fr. A. Chevalier 5978 B) : 11, feuille; 12, corolle × 0,75; 13, calice; 14, fruit × 0,8.*
+*PL. 52. — Gardenia Vogelii Hook. f. (fl. Le Testu 6098 and 9333; fr. de Néré 1790) : 1, flowering branch with a juvenile fruit × 0,75; 2, stipular system; 3, apex of bud; 4, apex of a calyx; 5, long stamen of 15 mm; 6, transverse section of anther; 7, section of receptacle (a and b, levels of corresponding transverse sections of the tetramerous ovary); 8, section of a trimerous ovary; 9, fruit; 10, rehydrated seed of 4 mm. — G. Jovis-tonantis Hiern (fl. Le Testu 1149; fr. A. Chevalier 5978 B) : 11, leaf; 12, corolla × 0,75; 13, calyx; 14, fruit × 0,8.*
 
 ## Notes
 

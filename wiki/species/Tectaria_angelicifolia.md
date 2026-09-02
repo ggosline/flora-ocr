@@ -26,15 +26,11 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 — Cop., Phil. Journ. Sc., bot.: 410 (1907). — Tard., Mém. IFAN 28 : 143, t. 27, f. 1-2 (1953).
 
-Rhizome longuement rampant, à frondes espacées, à écailles caduques, lancéolées, à bords entiers. Pétiole mince, luisant, portant quelques très rares écailles à l'extrême base, long de 20-30 cm, straminé, canaliculé. Limbe triangulaire, tripinnatifide, long de 20-25 cm sur autant de large; 3-5 paires de pennes latérales, les inférieures opposées, très longuement pétiolées (pétioilule de 3-5 cm), falciformes, longues de 15-18 cm sur 8-10 de large, très développées basiscopiquement, la première paire de pinnules inférieures longues de 7-8 cm, profondément pinnatifides. Pennes moyennes courtement pétiolées, éloignées des inférieures de 6-7 cm, divisées jusqu'au rachis en segments aigus, ondulés, à extrémité effilée. Absence de bourgeons. Penne terminale deltoïde, profondément lobée, à base très courtement décurrente. Texture membraneuse. Rachis straminé, nu, portant parfois des taches viol
+Rhizome long-creeping, with fronds spaced apart, with caducous, lanceolate scales with entire margins. Petiole slender, shining, bearing a few very rare scales at the extreme base, 20-30 cm long, stramineous, channelled. Blade triangular, tripinnatifid, 20-25 cm long by as much wide; 3-5 pairs of lateral pinnae, the lower ones opposite, very long-petiolate (petiolule 3-5 cm), falcate, 15-18 cm long by 8-10 cm wide, very much developed basiscopic, the first pair of lower pinnules 7-8 cm long, deeply pinnatifid. Middle pinnae short-petiolate, 6-7 cm distant from the lower ones, divided to the rachis into acute, undulate segments with attenuate apex. Absence of buds. Terminal pinna deltoid, deeply lobed, with base very shortly decurrent. Texture membranous. Rachis stramineous, naked, sometimes bearing violaceous spots. Lower surface of blade and veinlets bearing short white hairs, scattered, or glabrous. Upper surface also having short sparse hairs, and longer and thicker ones on the veinlets. Areoles without included veinlets, the costal areoles elongate. Sori generally exindusiate, located at the meeting of two veinlets.
 
-cées. Face inférieure du limbe et nervilles portant de courts poils blancs, disséminés, ou glabres. Face supérieure ayant aussi de courts poils épars, et de plus longs et plus épais sur les nervilles. Aréoles sans nervilles incluses, les aréoles costales allongées. Sores généralement exindusés, situés à la rencontre de deux nervilles.
-
-Du Soudan au Congo, Ouganda, Raphiales.
+From Sudan to Congo, Uganda, Raphiales.
 
 ## Specimens examined
 
@@ -44,7 +40,7 @@ N. Hallé : 2411, Abanga, monts de Cristal. Le Testu : 1107, forêt du Mayombe. 
 
 ![Tectaria angelicifolia](../sources/Aspidiaceae_vol08_paddle/figures/fig_031_p0181.png)
 
-*PL. XXVIII.— Tectaria angelicifolia (Schum.) Cop. (Pobéguin 60) : I, aspect général × 1 /2; 2, détail de nervation et sores × 2. — Tectaria varians (Moore) C. Chr. (Annet 220) : 3, aspect général × 1 /2; 4, détail, nervation et sores × 2.*
+*PL. XXVIII.— Tectaria angelicifolia (Schum.) Cop. (Pobéguin 60) : 1, general aspect × 1/2; 2, detail of venation and sori × 2. — Tectaria varians (Moore) C. Chr. (Annet 220) : 3, general aspect × 1/2; 4, detail, venation and sori × 2.*
 
 ## Notes
 

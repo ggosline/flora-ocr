@@ -7,6 +7,10 @@ family: Begoniaceae
 vol: 39
 pages: 102-104
 source: sources/Begoniaceae_vol39_liteparse
+countries: [Angola, Cameroon, Democratic Republic of the Congo, Equatorial Guinea, Gabon, Nigeria]
+in_region: true
+habit: "epiphyte"
+altitude_m: "1200"
 tags: [species, generated]
 ---
 # *Begonia longipetiolata* Gilg Planche 47

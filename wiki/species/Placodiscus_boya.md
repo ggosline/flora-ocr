@@ -7,6 +7,7 @@ family: Sapindaceae
 vol: 23
 pages: 138-139
 source: sources/Sapindaceae_vol23_paddle
+habit: "tree"
 tags: [species, generated]
 ---
 # *Placodiscus boya* Aubréville & Pellegrin

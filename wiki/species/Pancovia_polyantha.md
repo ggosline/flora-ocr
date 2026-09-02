@@ -7,6 +7,9 @@ family: Sapindaceae
 vol: 23
 pages: 126-126
 source: sources/Sapindaceae_vol23_paddle
+countries: [Cameroon]
+in_region: true
+habit: "shrub"
 tags: [species, generated]
 ---
 # *Pancovia polyantha* Gilg ex Engler

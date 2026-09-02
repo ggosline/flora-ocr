@@ -7,6 +7,9 @@ family: Lindsaeaceae
 vol: 08
 pages: 87-88
 source: sources/Lindsaeaceae_vol08_paddle
+countries: [Ghana, Guinea, Madagascar]
+in_region: false
+habitat: [mangrove]
 tags: [species, generated]
 ---
 # *Schizolegnia ensifolia* (Sw.) Alston

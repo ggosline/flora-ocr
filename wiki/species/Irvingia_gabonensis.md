@@ -5,17 +5,13 @@ authority: (Aubry-Lecomte ex O'Rorke) Baill.
 genus: Irvingia
 family: Irvingiaceae
 synonyms: [Mangifera gabonensis Aubry-Lecomte ex O'Rorke, Irvingia tenuifolia Hook. f., Irvingia barteri Hook. f.]
-countries: [Senegal, Gabon, Angola, Uganda]
 range_note: "Casamance to Angola and Uganda"
-countries_incomplete: true
-in_region: true
-habit: tree
-habitat: [old settlement sites, forest]
 treatments:
   - vol: 3
     year: 1962
     pages: "23–28"
     source: sources/Irvingiaceae_vol3_paddle
+habit: "tree"
 tags: [species]
 ---
 

@@ -7,6 +7,13 @@ family: Cyperaceae
 vol: 44
 pages: 36-37
 source: sources/Cyperaceae_vol44_liteparse
+countries: [Democratic Republic of the Congo, Gabon]
+in_region: true
+subdivisions:
+  Gabon: [Haut-Ogooué]
+habit: "herb"
+habitat: [savanna]
+altitude_m: "380–600"
 tags: [species, generated]
 ---
 # *Bulbostylis vanderystii* Cherm. Planche 18

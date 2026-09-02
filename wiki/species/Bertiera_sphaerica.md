@@ -7,6 +7,8 @@ family: Rubiaceae
 vol: 17
 pages: 70-72
 source: sources/Rubiaceae_vol17_paddle
+habit: "shrub"
+altitude_m: "900"
 tags: [species, generated]
 ---
 # *Bertiera sphaerica* N. Hallé, sp. nov.

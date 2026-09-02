@@ -7,6 +7,7 @@ family: Leguminosae
 vol: 15
 pages: 171-172
 source: sources/Leguminosae_vol15_paddle
+habit: "tree"
 tags: [species, generated]
 ---
 # *Daniellia ogea* (Harms) Rolfe ex Holl.
@@ -45,7 +46,7 @@ Le Testu : 9578, Mvan (fl. mai).
 
 ![Daniellia ogea](../sources/Leguminosae_vol15_paddle/figures/fig_038_p0170.png)
 
-*PL. XXXVIII. — Daniellia Pynaertii De Wild. : 1, folioles × 2 /3; 2, fruit × 2 /3. — Daniellia ogea (Harms) Rolfe ex Holl. : 3, foliole × 2 /3; 4, stipules; 5, fleur × 2; 6, pétales × 2; 7, ovaire × 2. — Daniellia Klainei Pierre ex. A. Chev. : 8, feuille × 2 /3; 9, fruit × 2 /3.*
+*PL. XXXVIII. — Daniellia Pynaertii De Wild. : 1, leaflets × 2 /3; 2, fruit × 2 /3. — Daniellia ogea (Harms) Rolfe ex Holl. : 3, leaflet × 2 /3; 4, stipules; 5, flower × 2; 6, petals × 2; 7, ovary × 2. — Daniellia Klainei Pierre ex. A. Chev. : 8, leaf × 2 /3; 9, fruit × 2 /3.*
 
 ## Notes
 

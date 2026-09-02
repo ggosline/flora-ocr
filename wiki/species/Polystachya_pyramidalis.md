@@ -7,6 +7,8 @@ family: Orchidaceae
 vol: 37
 pages: 41-43
 source: sources/Orchidaceae_vol37_paddle
+countries: [Cameroon, Gabon, Nigeria]
+in_region: true
 tags: [species, generated]
 ---
 # *Polystachya pyramidalis* Lindl.
@@ -41,7 +43,7 @@ Pescatore s.n., s.loc., P!.
 
 ![Polystachya pyramidalis](../sources/Orchidaceae_vol37_paddle/figures/fig_012_p0042.png)
 
-*PL. 119. – Polystachya pyramidalis Lindl.: A, fleur; B-D, labelle, vues diverses; E, F, sépale latéral, vues diverses; G, pétale; H, sépale dorsal (A-C, E-H, Zenker 4695, HBG; D, Pescatore s.n., P).*
+*PL. 119. – Polystachya pyramidalis Lindl.: A, flower; B-D, lip, various views; E, F, lateral sepal, various views; G, petal; H, dorsal sepal (A-C, E-H, Zenker 4695, HBG; D, Pescatore s.n., P).*
 
 ## Notes
 

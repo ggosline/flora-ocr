@@ -7,6 +7,9 @@ family: Moraceae
 vol: 26
 pages: 259-261
 source: sources/Moraceae_vol26_paddle
+countries: [Gabon, Sao Tome and Principe, Senegal]
+in_region: true
+habit: "tree"
 tags: [species, generated]
 ---
 # *Myrianthus serratus* (Trécul) Bentham & Hooker
@@ -41,7 +44,7 @@ The range of M. serratus extends from Senegal to Lower Congo. The species is als
 
 ![Myrianthus serratus](../sources/Moraceae_vol26_paddle/figures/fig_081_p0260.png)
 
-*PL. 80. - Myrianthus preussii Engl. ssp. preussii: a, inflorescence staminée; b; feuille et infrutescences (a, Letouzey 12513, Cameroun; b, Letouzey 13588, Cameroun).*
+*PL. 80. - Myrianthus preussii Engl. ssp. preussii: a, staminate inflorescence; b; leaf and infructescences (a, Letouzey 12513, Cameroon; b, Letouzey 13588, Cameroon).*
 
 ## Notes
 

@@ -7,6 +7,10 @@ family: Rubiaceae
 vol: 17
 pages: 74-75
 source: sources/Rubiaceae_vol17_paddle
+countries: [Cameroon, Gabon]
+in_region: true
+habit: "shrub"
+habitat: [coastal]
 tags: [species, generated]
 ---
 # *Leptactina mannii* Hook. f.

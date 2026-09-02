@@ -27,7 +27,7 @@ This species is represented in Cameroon and Gabon by two subspecies which are di
 
 ![Chrysobalanus icaco](../sources/Chrysobalanaceae_vol24_paddle/figures/fig_019_p0065.png)
 
-*PL. 19. — Chrysobalanus icaco L. subsp. icaco : 1, rameau avec fleurs × 2/3; 2, feuille dessous × 2/3; 3, coupe long. fl. × 20/3; 4, autre type de feuille × 2/3; 5, fruit × 2/3; 6, autre type de feuille × 2/3; 7, base feuille dessous × 2; 8, autre type de fruit × 1. — Chrysobalanus icaco subsp. atacorensis (A. Chev.) F. White : 9, feuille × 2/3; 10, coupe long. fl. × 20/3. (1, Preuss 1267; 2, Krause 10716; 3, Letouzey 9245; 4-5, Letouzey 9265; 6-8, Letouzey 14922; 9-10, Letouzey 4624).*
+*PL. 19. — Chrysobalanus icaco L. subsp. icaco : 1, branch with flowers × 2/3; 2, leaf lower surface × 2/3; 3, long. section fl. × 20/3; 4, another type of leaf × 2/3; 5, fruit × 2/3; 6, another type of leaf × 2/3; 7, leaf base lower surface × 2; 8, another type of fruit × 1. — Chrysobalanus icaco subsp. atacorensis (A. Chev.) F. White : 9, leaf × 2/3; 10, long. section fl. × 20/3. (1, Preuss 1267; 2, Krause 10716; 3, Letouzey 9245; 4-5, Letouzey 9265; 6-8, Letouzey 14922; 9-10, Letouzey 4624).*
 
 ## Notes
 

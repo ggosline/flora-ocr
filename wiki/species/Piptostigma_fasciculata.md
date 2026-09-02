@@ -7,6 +7,9 @@ family: Annonaceae
 vol: 16
 pages: 0-0
 source: sources/Annonaceae_vol16_mineru
+countries: [Angola, Cameroon, Cote d'Ivoire, Gabon, Ghana]
+in_region: true
+habit: "tree"
 tags: [species, generated]
 ---
 # *Piptostigma fasciculata* (De Wild.) Boutique

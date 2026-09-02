@@ -7,6 +7,13 @@ family: Cucurbitaceae
 vol: 57
 pages: 97-98
 source: sources/Cucurbitaceae_vol57_paddle
+countries: [Angola, Cameroon, Democratic Republic of the Congo, Gabon]
+in_region: true
+subdivisions:
+  Gabon: [Estuaire, Ngounié, Ogooué-Ivindo, Ogooué-Lolo, Ogooué-Maritime]
+habit: "herb"
+habitat: [swamp forest, secondary forest]
+altitude_m: "30–600"
 tags: [species, generated]
 ---
 # *Momordica parvifolia* Cogn.

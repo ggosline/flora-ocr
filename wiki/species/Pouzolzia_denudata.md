@@ -7,6 +7,13 @@ family: Urticaceae
 vol: 51
 pages: 73-74
 source: sources/Urticaceae_vol51_liteparse
+countries: [Angola, Cameroon, Central African Republic, Cote d'Ivoire, Democratic Republic of the Congo, Equatorial Guinea, Gabon, Ghana, Nigeria, Republic of the Congo, Uganda]
+in_region: true
+subdivisions:
+  Gabon: [Ogooué-Ivindo, Woleu-Ntem]
+habit: "shrub"
+habitat: [secondary forest]
+altitude_m: "0–1000"
 tags: [species, generated]
 ---
 # *Pouzolzia denudata* De Wild. & T.Durand

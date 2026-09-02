@@ -7,6 +7,10 @@ family: Podostemaceae
 vol: 51
 pages: 29-29
 source: sources/Podostemaceae_vol51_liteparse
+countries: [Cameroon, Gabon]
+in_region: true
+subdivisions:
+  Gabon: [Ngounié]
 tags: [species, generated]
 ---
 # *Inversodicraea boumiensis* (C.Cusset) Cheek Planche 9

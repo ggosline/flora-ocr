@@ -7,6 +7,8 @@ family: Orchidaceae
 vol: 37
 pages: 19-19
 source: sources/Orchidaceae_vol37_paddle
+countries: [Cameroon, Cote d'Ivoire, Gabon, Guinea, Liberia, Sierra Leone]
+in_region: true
 tags: [species, generated]
 ---
 # *Polystachya pobeguinii* (Finet) Rolfe
@@ -35,7 +37,7 @@ J. M. & B. Reitsma 574, along the beach between Libreville and Santa Clara, 0° 
 
 ![Polystachya pobeguinii](../sources/Orchidaceae_vol37_paddle/figures/fig_002_p0018.png)
 
-*PL. 109. – Polystachya saccata (Finet) Rolfe : A, fleur et bractée florale ; B, C, labelle ; D, sépale dorsal ; E, pétale ; F, sépale latéral. – Polystachya pobeguinii (Finet) Rolfe : G, fleur et bractée florale ; H, labelle ; I, sépale dorsal ; J, pétale ; K, sépale latéral (A-F, Sanford 6296, P ; G-K, Letouzey 10000, P).*
+*PL. 109. – Polystachya saccata (Finet) Rolfe : A, flower and floral bract ; B, C, labellum ; D, dorsal sepal ; E, petal ; F, lateral sepal. – Polystachya pobeguinii (Finet) Rolfe : G, flower and floral bract ; H, labellum ; I, dorsal sepal ; J, petal ; K, lateral sepal (A-F, Sanford 6296, P ; G-K, Letouzey 10000, P).*
 
 ![Polystachya pobeguinii](../sources/Orchidaceae_vol37_paddle/figures/fig_122_p0248.png)
 

@@ -7,6 +7,12 @@ family: Ulmaceae
 vol: 58
 pages: 124-126
 source: sources/Ulmaceae_vol58_liteparse
+countries: [Angola, Cameroon, Central African Republic, Democratic Republic of the Congo, Equatorial Guinea, Gabon, Nigeria, Sao Tome and Principe]
+in_region: true
+subdivisions:
+  Gabon: [Moyen-Ogooué, Ogooué-Maritime]
+habit: "tree"
+altitude_m: "75"
 tags: [species, generated]
 ---
 # *Celtis gomphophylla* Baker Planche 33

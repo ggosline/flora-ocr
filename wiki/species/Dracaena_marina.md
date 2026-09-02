@@ -7,6 +7,13 @@ family: Dracaenaceae
 vol: 54
 pages: 43-45
 source: sources/Dracaenaceae_vol54_liteparse
+countries: [Angola, Benin, Cameroon, Democratic Republic of the Congo, Gabon, Nigeria, Republic of the Congo]
+in_region: true
+subdivisions:
+  Gabon: [Estuaire, Moyen-Ogooué, Nyanga, Ogooué-Maritime]
+habit: "tree"
+habitat: [mangrove]
+altitude_m: "0–200"
 tags: [species, generated]
 ---
 # *Dracaena marina* Bos ex Damen Planche 15, Figure 3(C–E)

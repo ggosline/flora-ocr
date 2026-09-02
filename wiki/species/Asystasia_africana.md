@@ -7,6 +7,8 @@ family: Acanthaceae
 vol: 13
 pages: 143-145
 source: sources/Acanthaceae_vol13_paddle
+countries: [Angola, Gabon]
+in_region: true
 tags: [species, generated]
 ---
 # *Asystasia africana* (S. Moore) C. B. Clarke

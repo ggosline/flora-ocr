@@ -7,6 +7,12 @@ family: Cyperaceae
 vol: 44
 pages: 104-105
 source: sources/Cyperaceae_vol44_liteparse
+countries: [Gabon, Madagascar]
+in_region: true
+subdivisions:
+  Gabon: [Nyanga, Ogooué-Maritime]
+habit: "herb"
+altitude_m: "0–200"
 tags: [species, generated]
 ---
 # *Cyperus denudatus* L.f. Planche 63

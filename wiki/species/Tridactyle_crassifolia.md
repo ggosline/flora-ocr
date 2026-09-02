@@ -7,6 +7,8 @@ family: Orchidaceae
 vol: 37
 pages: 162-163
 source: sources/Orchidaceae_vol37_paddle
+countries: [Cameroon, Central African Republic, Democratic Republic of the Congo, Gabon, Ghana]
+in_region: true
 tags: [species, generated]
 ---
 # *Tridactyle crassifolia* Summerh.
@@ -17,27 +19,19 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Tiges < 40 cm, pendantes. Feuilles 3-8 × 0,6-0,8 cm, linéaires-ligulées, très inégalement bilobées. Inflorescence raccourcie, 1-3-flore. Fleurs très petites, résupinées, jaunes. Sépale dorsal ovale à oblong-lancéolé. Pétales obliquement oblongs-lancéolés. Sépales latéraux obliquement oblongs-ovés. Labelle 3,7-5,6 × 1-1,8 mm, auriculé à la
-
-base, lancéolé ou étroitement triangulaire. Éperon 10-15 mm, droit, dilaté vers le sommet, obtus. - Pl. 178, p. 387.
+Stems < 40 cm, pendulous. Leaves 3–8 × 0.6–0.8 cm, linear-ligulate, very unequally bilobed. Inflorescence shortened, 1–3-flowered. Flowers very small, resupinate, yellow. Dorsal sepal ovate to oblong-lanceolate. Petals obliquely oblong-lanceolate. Lateral sepals obliquely oblong-ovate. Lip 3.7–5.6 × 1–1.8 mm, auriculate at the base, lanceolate or narrowly triangular. Spur 10–15 mm, straight, dilated toward the apex, obtuse. – Pl. 178, p. 387.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Ghana, Cameroun, Gabon, République centrafricaine, Zaïre
+Ghana, Cameroon, Gabon, Central African Republic, Zaïre
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+alt. unknown. Epiphytic in tall forest
 
-alt. inconnue. Épiphyte en forêt haute
+MATERIAL STUDIED (Map 82):
 
-MATÉRIEL ÉTUDIÉ (Carte 82) :
-
-Le Testu 5173, Haute Ngounyé, Mouyamba (fl. Janv.), P!.
+Le Testu 5173, Haute Ngounyé, Mouyamba (fl. Jan.), P!.
 
 ## Figures
 

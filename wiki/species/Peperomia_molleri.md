@@ -7,6 +7,12 @@ family: Piperaceae
 vol: 50
 pages: 71-73
 source: sources/Piperaceae_vol50_liteparse
+countries: [Gabon, Madagascar]
+in_region: true
+subdivisions:
+  Gabon: [Estuaire, Ngounié, Ogooué-Ivindo, Woleu-Ntem]
+habit: "herb"
+altitude_m: "300–950"
 tags: [species, generated]
 ---
 # *Peperomia molleri* C.DC. subsp. molleri Planche 25.1

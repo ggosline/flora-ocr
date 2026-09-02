@@ -7,6 +7,11 @@ family: Leguminosae
 vol: 49
 pages: 29-29
 source: sources/Millettiaspeciesfabaceae_vol49_liteparse
+countries: [Gabon]
+in_region: true
+subdivisions:
+  Gabon: [Ogooué-Maritime]
+altitude_m: "1150"
 tags: [species, generated]
 ---
 # *Aeschynomene sensitiva* Sw.

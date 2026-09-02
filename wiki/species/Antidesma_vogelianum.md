@@ -7,6 +7,11 @@ family: Phyllanthaceae
 vol: 43
 pages: 15-17
 source: sources/Phyllanthaceae_vol43_liteparse
+countries: [Angola, Gabon, Nigeria, Sudan, Tanzania, Uganda, Zimbabwe]
+in_region: true
+habit: "tree"
+habitat: [secondary forest]
+altitude_m: "0–600"
 tags: [species, generated]
 ---
 # *Antidesma vogelianum* Müll.Arg. Planche 2

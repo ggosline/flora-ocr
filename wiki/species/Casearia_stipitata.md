@@ -7,6 +7,9 @@ family: Flacourtiaceae
 vol: 34
 pages: 22-23
 source: sources/Flacourtiaceae_vol34_paddle
+countries: [Cameroon, Cote d'Ivoire, Democratic Republic of the Congo, Gabon, Nigeria]
+in_region: true
+habit: "tree"
 tags: [species, generated]
 ---
 # *Casearia stipitata* Mast.
@@ -48,7 +51,7 @@ Guillery 1198 SRF, Oguémoué, 20/11/1953, fr. (P). Hallé & Le Thomas 313, Mék
 
 ![Casearia stipitata](../sources/Flacourtiaceae_vol34_paddle/figures/fig_005_p0024.png)
 
-*PL. 5. – Casearia stipitata Mast. : 1, rameau fructifère ; 2, groupe de fleurs fasciculées, portées par un pédoncule épais ; 3, fleur ; 4, étamines alternant avec les lobes du disque velus, leur partie inférieure étant soudée : 5, pistil ; 6, coupe transversale de l'ovaire. (1. Hallé & Le Thomas 313 ; 2. Letouzey & Villiers 10396 ; 3-6. Leeuwenberg 9884). – C. barteri Mast. : 7, rameau florifère, boutons floraux ; 8, fleur ; 9, pistil ; 10, coupe transversale de l'ovaire ; 11, fruit ; 12, un autre fuit, ouvert en 3 valves ; 13, graine. (7. Chevalier 26432 ; 8-10. Klaine 906 ; 11. Klaine 290 ; 12-13. Klaine 279).*
+*PL. 5. – Casearia stipitata Mast. : 1, fruiting branch ; 2, group of fascicled flowers, borne by a thick peduncle ; 3, flower ; 4, stamens alternating with hairy disc lobes, their lower part being fused : 5, pistil ; 6, transverse section of the ovary. (1. Hallé & Le Thomas 313 ; 2. Letouzey & Villiers 10396 ; 3-6. Leeuwenberg 9884). – C. barteri Mast. : 7, flowering branch, floral buds ; 8, flower ; 9, pistil ; 10, transverse section of the ovary ; 11, fruit ; 12, another fruit, opening in 3 valves ; 13, seed. (7. Chevalier 26432 ; 8-10. Klaine 906 ; 11. Klaine 290 ; 12-13. Klaine 279).*
 
 ## Notes
 

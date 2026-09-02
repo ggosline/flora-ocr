@@ -7,6 +7,13 @@ family: Buxaceae
 vol: 57
 pages: 32-34
 source: sources/Buxaceae_vol57_paddle
+countries: [Benin, Democratic Republic of the Congo, Gabon, Ghana, Sierra Leone]
+in_region: true
+subdivisions:
+  Gabon: [Nyanga]
+habit: "tree"
+habitat: [gallery forest, secondary forest]
+altitude_m: "120–200"
 tags: [species, generated]
 ---
 # *Buxus acutata* Friis

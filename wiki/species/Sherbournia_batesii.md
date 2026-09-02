@@ -7,6 +7,9 @@ family: Rubiaceae
 vol: 17
 pages: 146-148
 source: sources/Rubiaceae_vol17_paddle
+countries: [Angola, Cameroon, Gabon]
+in_region: true
+habit: "liana"
 tags: [species, generated]
 ---
 # *Sherbournia batesii* (Wernh.) Hepper
@@ -21,17 +24,13 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 (PL. 32, p. 145)
 
-Liane à entrenœuds longs de 3-6 cm; extrémités grêles à dense et fine pubescence apprimée dorée ou ochracée. Stipules pubescentes lancéolées de 9-18 (22) × 4-5 (9) mm, rapidement caduques. Pétiole pubescent long de 5-13 mm. Limbe olivacé ou gris brun entièrement glabre dessus, à fine pubescence apprimée dessous, elliptique lancéolé de 6-10 × 2-5 cm, à base obtuse ou arrondie, parfois subaiguë, parfois dissymétrique; sommet ± atté-nué aigu. 9-11 paires de nervures secondaires plus longuement ascendantes vers le sommet du limbe, à pubescence apprimée; nervures tertiaires nombreuses et apparentes; marges ciliolées.
+Liane with internodes 3-6 cm long; slender extremities with dense and fine appressed golden or ochraceous pubescence. Stipules pubescent, lanceolate, 9-18 (22) × 4-5 (9) mm, rapidly caducous. Petiole pubescent, 5-13 mm long. Lamina olivaceous or greyish-brown, entirely glabrous above, with fine appressed pubescence below, elliptic-lanceolate, 6-10 × 2-5 cm, with obtuse or rounded base, sometimes subacute, sometimes asymmetric; apex ± attenuate acute. 9-11 pairs of secondary veins more prominently ascending towards the lamina apex, with appressed pubescence; tertiary veins numerous and prominent; margins ciliolate.
 
-Inflorescences axillaires uniflores, très rarement à une ou deux fleurs latérales supplémentaires plus tardives; pédoncule de 1-2 mm; pédicelle de 1-4 mm. Bractées d'env. 3 mm, ovées apiculées, pubescentes, ⊥ brunes. Calice vert à tube de 5-7 × 4,5-6 mm, pubescent sur les deux faces, à 5 lobes veinulés et pubescentes extérieurement, glabres du côté interne, lancéolés de 6-14 × 3-5 mm, imbriqués contortés vers la base. Corolle blanche et pubescente extérieurement, à tube de 2-3 cm de longueur, rose violacé à l'intérieur jusqu'au niveau de la couronne interne de poils blancs qui obstrue l'accès au disque; 5 lobes ovés obtus de 6-10 × 5-7 mm, piquetés de rose à face supérieure pubérulente. Anthères de 8-9 × 1,5 mm, à thèques multilocellées à petites cloisons transversales, blanches à pollen blanc, à sommet lancéolé et à base subémarginée, à insertion située au tiers inférieur. Style à colonne glabre d'env. 15 mm, à massue fusiforme sillonnée de 9-10 × 2 mm. Disque de 1 mm de hauteur et 2,5 mm de diam. Ovaire pubescent à 10 sillons, long de 4-5 mm, large de 3 mm, à 2 loges.
+Inflorescences axillary uniflorous, very rarely with one or two additional lateral flowers developing later; peduncle 1-2 mm; pedicel 1-4 mm. Bracts ca. 3 mm, ovate apiculate, pubescent, brown. Calyx green with tube 5-7 × 4.5-6 mm, pubescent on both faces, with 5 veinulose lobes pubescent externally, glabrous on the inner side, lanceolate, 6-14 × 3-5 mm, imbricate contorted towards the base. Corolla white and pubescent externally, with tube 2-3 cm long, rose-violet inside to the level of the inner crown of white hairs that obstructs access to the disk; 5 ovate obtuse lobes, 6-10 × 5-7 mm, dotted with rose on the upper face which is puberulent. Anthers 8-9 × 1.5 mm, with multilocellate thecae with small transverse septa, white with white pollen, with lanceolate apex and subemarginate base, insertion located at the lower third. Style with glabrous column ca. 15 mm, with fusiform furrowed clavate stigma 9-10 × 2 mm. Disk 1 mm high and 2.5 mm diam. Ovary pubescent with 10 furrows, 4-5 mm long, 3 mm wide, with 2 locules.
 
-Fruit orangé de 2,5-4 × 1,3-2 cm et à côtes ± faiblement saillantes à maturité; graines brun roux ovoïdes lenticulaires de
-
-2,5 mm, faiblement ornées de sillons sinueux, enrobées d'une pulpe aqueuse acidulée.
+Fruit orange, 2.5-4 × 1.3-2 cm with ribs ± weakly prominent at maturity; seeds reddish-brown ovoid lenticular, 2.5 mm, weakly ornamented with sinuous furrows, enveloped in an aqueous acidulous pulp.
 
 ## Type
 
@@ -39,11 +38,9 @@ Bates 971 (BM!), Cameroun (la localité est Bitye, avec doute). Autre spécimen 
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Anthers with multilocellate thecae with small transverse septa are known in various families either at the generic rank (Annon. Xylopia; Loranth. Phragmanthera; Rub. Dictyandra cf. p. 86) or, as in the present case at the specific rank (Stercul. Nesogordonia perpulchra N. Hallé, Flore du Gabon 2, p. 149, 1961; Rub. Tricalysia anomalura N. Hallé, cf. p. 294; Calycosiphonia macrochlamys (K. Schum.) J.-F. Leroy).
 
-Des anthères à thèques multilocellées à petites cloisons transversales sont connues chez diverses familles soit au rang générique (Annon. Xylopia; Loranth. Phragmanthera; Rub. Dictyandra cf. p. 86) soit, comme dans le cas présent au rang spécifique (Stercul. Nesogordonia perpulchra N. Hallé, Flore du Gabon 2, p. 149, 1961; Rub. Tricalysia anomalura N. Hallé, cf. p. 294; Calycosiphonia macrochlamys (K. Schum.) J.-F. Leroy).
-
-Cameroun, Gabon, Cabinda (Gossweiler 7692) et Congo (de Thysville, Compère 1645, à Yangambi, R. Germain 964 BR!). Un spécimen du Kivu, Christiensen 1821, est extrêmement proche du Sh. Batesii, mais les thèques polliniques ne sont pas multi-locellées.
+Cameroon, Gabon, Cabinda (Gossweiler 7692) and Congo (from Thysville, Compère 1645, to Yangambi, R. Germain 964 BR!). A specimen from Kivu, Christiensen 1821, is extremely close to Sh. Batesii, but the pollen sacs are not multilocellate.
 
 ## Specimens examined
 
@@ -55,7 +52,7 @@ G. Le Testu 7929, Tsamba, région de Lastoursville (fl. fév.); 8728, Binanga, m
 
 ![Sherbournia batesii](../sources/Rubiaceae_vol17_paddle/figures/fig_032_p0147.png)
 
-*PL. 32. — Sherbournia Batesii (Wernh.) Hepper (fl. N. Hallé 2287 sauf 9; fr. N. H. 2719 sauf 10) : 1, rameau florifère × 0,75; 2, stipule de tige principale vigoureuse; 3, corolle de face; 4, diagramme floral; 5, coupe de la fleur × 2; 6, anthère in vivo, avant déhiscence × 5; 6, détail de l'anthère ouverte à sec; 7, coupe du stigmate; 8, coupe de l'ovaire, diam. 3 mm; 9, fruit juvénile (Le Testu 8728) : 10, fruit mùr (N. H. 4204) 10', autre fruit mùr; 11, coupe du précédent, 19 mm. de diam. : 12, coupe du sommet du fruit, diamètre du tube 7 mm; 13, graine longue de 2,5 mm.*
+*PL. 32. — Sherbournia Batesii (Wernh.) Hepper (fl. N. Hallé 2287 except 9; fr. N. H. 2719 except 10) : 1, flowering branch × 0,75; 2, stipule of vigorous main stem; 3, corolla front view; 4, floral diagram; 5, flower section × 2; 6, anther in vivo, before dehiscence × 5; 6, detail of anther open when dry; 7, section of stigma; 8, section of ovary, diam. 3 mm; 9, juvenile fruit (Le Testu 8728) : 10, ripe fruit (N. H. 4204) 10', other ripe fruit; 11, section of preceding, 19 mm diam. : 12, section of fruit apex, tube diameter 7 mm; 13, seed 2,5 mm long.*
 
 ## Notes
 

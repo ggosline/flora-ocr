@@ -7,6 +7,12 @@ family: Commelinaceae
 vol: 55
 pages: 59-61
 source: sources/Commelinaceae_vol55_liteparse
+countries: [Equatorial Guinea, Gabon]
+in_region: true
+subdivisions:
+  Gabon: [Estuaire, Woleu-Ntem]
+habit: "herb"
+altitude_m: "40–555"
 tags: [species, generated]
 ---
 # *Palisota cristalensis* E.Bidault & Burg Planche 16, Figure 4(A, B)

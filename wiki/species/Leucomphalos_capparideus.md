@@ -7,6 +7,13 @@ family: Leguminosae
 vol: 49
 pages: 241-241
 source: sources/Millettiaspeciesfabaceae_vol49_liteparse
+countries: [Cameroon, Equatorial Guinea, Gabon, Nigeria]
+in_region: true
+subdivisions:
+  Gabon: [Estuaire, Moyen-Ogooué, Ngounié, Ogooué-Ivindo, Woleu-Ntem]
+habit: "liana"
+habitat: [secondary forest]
+altitude_m: "15–760"
 tags: [species, generated]
 ---
 # *Leucomphalos capparideus* Benth. ex Planch. Planche 80

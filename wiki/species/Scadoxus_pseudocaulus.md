@@ -11,13 +11,13 @@ synonyms:
   - name: Haemanthus pseudocaulus subsp. prorumpens
     authority: Bjørnstad & Friis
     citation: Norw. Journ. Bot. 19: 221 (1972)
-countries: [Nigeria, Gabon]
-in_region: true
-habit: herb
 treatments:
   - vol: 28
     pages: "28"
     source: sources/Amaryllidaceae_vol28_paddle
+countries: [Gabon, Nigeria]
+in_region: true
+habit: "herb"
 tags: [species]
 ---
 

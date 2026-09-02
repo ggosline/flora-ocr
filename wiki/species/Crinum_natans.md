@@ -4,15 +4,12 @@ name: Crinum natans
 authority: Baker
 genus: Crinum
 family: Amaryllidaceae
-countries: [Guinea, Sierra Leone, Ivory Coast, Ghana, Cameroon, Equatorial Guinea, Gabon, Republic of the Congo, Democratic Republic of the Congo]
-in_region: true
-habit: aquatic herb
-habitat: [running water, sandy or rocky soil, littoral forest, biafran forest, congolese forest]
-altitude_m: "0–650"
 treatments:
   - vol: 28
     pages: "34–36"
     source: sources/Amaryllidaceae_vol28_paddle
+countries: [Cameroon, Democratic Republic of the Congo, Gabon, Guinea]
+in_region: true
 tags: [species]
 ---
 

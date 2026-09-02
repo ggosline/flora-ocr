@@ -7,6 +7,13 @@ family: Leguminosae
 vol: 49
 pages: 178-180
 source: sources/Millettiaspeciesfabaceae_vol49_liteparse
+countries: [Cameroon, Central African Republic, Democratic Republic of the Congo, Gabon, Republic of the Congo]
+in_region: true
+subdivisions:
+  Gabon: [Ogooué-Ivindo]
+habit: "liana"
+habitat: [gallery forest, swamp forest, secondary forest]
+altitude_m: "385–500"
 tags: [species, generated]
 ---
 # *Dewevrea bilabiata* M.Micheli Planche 58

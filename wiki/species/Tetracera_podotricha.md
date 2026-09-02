@@ -8,18 +8,14 @@ section: Tetracera
 synonyms:
   - "Tetracera alnifolia Willd. var. demeusei De Wild. & T.Durand, Bull. Soc. Roy. Bot. Belg. 39: 53 (1900)"
   - "Tetracera alnifolia Willd. var. podotricha (Gilg) Staner, Bull. Jard. Bot. État Bruxelles 15: 304 (1939)"
-habit: liana
-habitat: [primary forest, secondary forest, terra firma forest, flooded forest, forest edge, inselberg, gap colonist]
-altitude_m: "5–780 (Gabon); 0–700 elsewhere"
 vernacular: [liane à eau (fr.), liane du voyageur (fr.)]
-countries: [Angola (Cabinda and north), Cameroon, Central African Republic, Democratic Republic of the Congo, Equatorial Guinea (Río Muni), Gabon, Republic of the Congo, São Tomé and Príncipe]
-subdivisions:
-  Gabon: [all provinces]
-in_region: true
 treatments:
   - vol: 60
     pages: "15–16"
     source: sources/Dilleniaceae_vol60_liteparse
+countries: [Angola, Cameroon, Central African Republic, Democratic Republic of the Congo, Equatorial Guinea, Gabon, Sao Tome and Principe]
+in_region: true
+habit: "liana"
 tags: [species]
 ---
 

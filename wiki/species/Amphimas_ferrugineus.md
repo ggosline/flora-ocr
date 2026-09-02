@@ -8,6 +8,9 @@ vol: 15
 pages: 32-34
 source: sources/Leguminosae_vol15_paddle
 also_in_vols: [49]
+countries: [Gabon]
+in_region: true
+habit: "tree"
 tags: [species, generated]
 ---
 # *Amphimas ferrugineus* Pierre ex Pellegr.
@@ -64,7 +67,7 @@ Itsogho, vallée de l'Icobé (fl. nov.); 7397, Lastoursville (fl. juin).
 
 ![Amphimas ferrugineus](../sources/Leguminosae_vol15_paddle/figures/fig_002_p0031.png)
 
-*PL. II. — Amphimas ferrugineus Pierre ex Pellegrin : 1, folioles × 2 /3; 2, inflorescence × 2 /3; 3, coupe de la fleur × 6; 4, calice × 6; 5, pétale × 6; 6, ovaire × 6; 7, fruit × 2 /3; 8, fruit ouvert × 2 /3.*
+*PL. II. — Amphimas ferrugineus Pierre ex Pellegrin : 1, leaflets × 2 /3; 2, inflorescence × 2 /3; 3, section of the flower × 6; 4, calyx × 6; 5, petal × 6; 6, ovary × 6; 7, fruit × 2 /3; 8, fruit open × 2 /3.*
 
 ## Also treated in vol 49
 

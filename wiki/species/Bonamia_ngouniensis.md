@@ -7,6 +7,11 @@ family: Convolvulaceae
 vol: 46
 pages: 13-17
 source: sources/Convolvulaceae_vol46_liteparse
+countries: [Gabon]
+in_region: true
+subdivisions:
+  Gabon: [Ngounié]
+altitude_m: "780"
 tags: [species, generated]
 ---
 # *Bonamia ngouniensis* Breteler, sp. nov. Planche 3

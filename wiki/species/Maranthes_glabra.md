@@ -7,6 +7,10 @@ family: Scytopetalaceae
 vol: 24
 pages: 110-114
 source: sources/Chrysobalanaceae_vol24_paddle
+countries: [Angola, Cameroon, Central African Republic, Democratic Republic of the Congo, Equatorial Guinea, Gabon, Sierra Leone]
+in_region: true
+habitat: [swamp forest, coastal]
+altitude_m: "850"
 tags: [species, generated]
 ---
 # *Maranthes glabra* (Oliver) Prance
@@ -109,7 +113,7 @@ In Congo it intervenes (root powder) in the treatment of chronic mange and alope
 
 ![Maranthes glabra](../sources/Chrysobalanaceae_vol24_paddle/figures/fig_032_p0111.png)
 
-*PL. 32. — Maranthes glabra (Oliv.) Prance : 1, rameau avec j. fleurs × 1/3; 2, pétiole × 5/3; 3, autre type de feuille × 2/3; 4, bouton floral × 8/3; 5, autre type de bouton floral × 8/3; 6, pétale × 3; 7, fruits × 2/3. (1, Letouzey 14515; 2, 5-6, Bos 5202; 3-4, Klaine 2801; 7, Bos 5590).*
+*PL. 32. — Maranthes glabra (Oliv.) Prance : 1, branch with young flowers × 1/3; 2, petiole × 5/3; 3, other type of leaf × 2/3; 4, floral bud × 8/3; 5, other type of floral bud × 8/3; 6, petal × 3; 7, fruits × 2/3. (1, Letouzey 14515; 2, 5-6, Bos 5202; 3-4, Klaine 2801; 7, Bos 5590).*
 
 ## Notes
 

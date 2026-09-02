@@ -7,6 +7,9 @@ family: Myrtaceae
 vol: 11
 pages: 14-15
 source: sources/Myrtaceae_vol11_paddle
+countries: [Uganda]
+in_region: false
+habit: "tree"
 tags: [species, generated]
 ---
 # *Syzygium congolense* Verm. ex Amsh.
@@ -17,9 +20,7 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Arbre glabre. Rameaux arrondis, avec cependant deux lignes décurrentes à partir du pétiole. Feuilles pétiolées, obovées ou oblancéolées, longuement cunéiformes à la base, arrondies et courtement acuminées au sommet, longues de 8-12 cm; larges de 3-5 cm. Pétioles grêle, d'environ 1 cm de long. Panicules terminales, multiflores, à ramifications quadrangulaires, rigides. Boutons floraux obconiques de 5 mm de long et 2-3 mm de diamètre. Sépales bien développés, d'environ 1 mm de long, arrondis, persistants sur le fruit. Filets de 6 mm de long. Fruit globuleux, d'environ 1 cm de diamètre (in sicco), couronné par les sépales persistants.
+Glabrous tree. Branches rounded, however with two decurrent lines arising from the petiole. Leaves petiolate, obovate or oblanceolate, long cuneate at the base, rounded and shortly acuminate at the apex, 8-12 cm long; 3-5 cm wide. Petioles slender, about 1 cm long. Terminal panicles, multiflorous, with quadrangular, rigid branches. Floral buds obconic, 5 mm long and 2-3 mm in diameter. Sepals well developed, about 1 mm long, rounded, persistent on the fruit. Filaments 6 mm long. Fruit globose, about 1 cm in diameter (in sicco), crowned by the persistent sepals.
 
 ## Type
 
@@ -27,21 +28,19 @@ Claessens 540 (BR), Congo
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Species related to S. Staudtii, distinct and remarkable especially for its developed sepals.
 
-Espèce voisine de S. Staudtii, distincte et remarquable surtout par ses sépales développés.
+Congo, Uganda, Oubangui-Chari. Humid forests.
 
-Congo, Uganda, Oubangui-Chari. Forêts humides.
+Gabonese specimens studied:
 
-Spécimens gabonais étudiés :
-
-Le Testu : 5730, Idemba, Haute-Nyounyé (fl. nov.); 8877, Makokou (fl. sept.).
+Le Testu: 5730, Idemba, Haute-Nyounyé (fl. Nov.); 8877, Makokou (fl. Sept.).
 
 ## Figures
 
 ![Syzygium congolense](../sources/Myrtaceae_vol11_paddle/figures/fig_002_p0013.png)
 
-*PL. II. — Syzygium congolense Vermoesen ex Amshoff : 1, fleurs et feuilles (× 1/2); 2, bouton (× 4); 3, fleur (× 2); 4, fruit (× 2); 5, section transversale de la tige (× 2). 1, 3, 5, Le Testu 8877; 2, Evrard 3900 (P); 4, Léonard 1962 (P). — Syzygium staudtii (Engl.) Mildbraed : 6, bouton (× 4); 7, fleur (× 2); 8, fruit (× 2); 9, section transversale de la tige (× 2); 10, feuille (× 1/2). 6, 7, 10, Le Testu 7302 (P); 8 et 9, A. Léonard 3139 (P).*
+*PL. II. — Syzygium congolense Vermoesen ex Amshoff : 1, flowers and leaves (× 1/2); 2, bud (× 4); 3, flower (× 2); 4, fruit (× 2); 5, transverse section of the stem (× 2). 1, 3, 5, Le Testu 8877; 2, Evrard 3900 (P); 4, Léonard 1962 (P). — Syzygium staudtii (Engl.) Mildbraed : 6, bud (× 4); 7, flower (× 2); 8, fruit (× 2); 9, transverse section of the stem (× 2); 10, leaf (× 1/2). 6, 7, 10, Le Testu 7302 (P); 8 et 9, A. Léonard 3139 (P).*
 
 ## Notes
 

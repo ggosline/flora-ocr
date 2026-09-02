@@ -7,6 +7,9 @@ family: Rubiaceae
 vol: 17
 pages: 52-53
 source: sources/Rubiaceae_vol17_paddle
+countries: [Angola, Cameroon, Gabon, Guinea]
+in_region: true
+habit: "shrub"
 tags: [species, generated]
 ---
 # *Bertiera equatorialis* N. Hallé

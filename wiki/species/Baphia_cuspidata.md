@@ -7,6 +7,13 @@ family: Leguminosae
 vol: 49
 pages: 55-57
 source: sources/Millettiaspeciesfabaceae_vol49_liteparse
+countries: [Cameroon, Equatorial Guinea, Gabon]
+in_region: true
+subdivisions:
+  Gabon: [Ngounié, Ogooué-Maritime]
+habit: "liana"
+habitat: [secondary forest]
+altitude_m: "300–500"
 tags: [species, generated]
 ---
 # *Baphia cuspidata* Taub.

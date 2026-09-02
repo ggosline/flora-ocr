@@ -7,6 +7,9 @@ family: Dichapetalaceae
 vol: 32
 pages: 177-180
 source: sources/Dichapetalaceae_vol32_paddle
+countries: [Angola, Democratic Republic of the Congo, Gabon]
+in_region: true
+habit: "liana"
 tags: [species, generated]
 ---
 # *Dichapetalum thollonii* Pellegrin
@@ -63,7 +66,7 @@ Leeuwenberg 11402, eod. loc. (fl., j. fr., Nov.); Le Testu 7066, Lastoursville (
 
 ![Dichapetalum thollonii](../sources/Dichapetalaceae_vol32_paddle/figures/fig_053_p0178.png)
 
-*PL. 52 – Dichapetalum thollonii Pellegrin : 1, rameau florifère × 0,5 ; 2, stipules × 4 ; 3, aisselle foliaire, bourgeon et stipules × 4 ; 4, inflorescence, détail × 3 ; 5, fleur × 3 ; 6, fleur, détail × 6 ; pétale et étamine, 7, vue interne et 8, vue externe × 4,5 ; 9, fruit × 0,5 ; 10, indumentum du fruit, détail × 15 (1-8, Bouquet 1972 ; 9, Farron 5120 A ; 10, Sita 2582). – Repris de MLW 82 (8) : 48 (1982).*
+*PL. 52 – Dichapetalum thollonii Pellegrin : 1, flowering branch × 0,5 ; 2, stipules × 4 ; 3, leaf axil, bud and stipules × 4 ; 4, inflorescence, detail × 3 ; 5, flower × 3 ; 6, flower, detail × 6 ; petal and stamen, 7, inner view and 8, outer view × 4,5 ; 9, fruit × 0,5 ; 10, fruit indumentum, detail × 15 (1-8, Bouquet 1972 ; 9, Farron 5120 A ; 10, Sita 2582). – Reprinted from MLW 82 (8) : 48 (1982).*
 
 ## Notes
 

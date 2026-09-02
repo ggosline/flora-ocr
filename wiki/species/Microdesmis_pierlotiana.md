@@ -7,6 +7,9 @@ family: Pandaceae
 vol: 22
 pages: 24-25
 source: sources/Pandaceae_vol22_paddle
+countries: [Cameroon, Democratic Republic of the Congo, Gabon]
+in_region: true
+habit: "tree"
 tags: [species, generated]
 ---
 # *Microdesmis pierlotiana* J. Léonard

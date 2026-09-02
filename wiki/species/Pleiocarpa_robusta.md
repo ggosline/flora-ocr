@@ -7,6 +7,9 @@ family: Apocynaceae
 vol: 59
 pages: 198-198
 source: sources/Apocynaceae_vol59_liteparse
+habit: "shrub"
+habitat: [evergreen forest]
+altitude_m: "250–500"
 tags: [species, generated]
 ---
 # *Pleiocarpa robusta* O.Lachenaud Planche 92

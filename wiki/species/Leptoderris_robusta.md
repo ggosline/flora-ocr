@@ -7,6 +7,11 @@ family: Leguminosae
 vol: 49
 pages: 235-235
 source: sources/Millettiaspeciesfabaceae_vol49_liteparse
+countries: [Gabon]
+in_region: true
+subdivisions:
+  Gabon: [Ogooué-Lolo]
+altitude_m: "300"
 tags: [species, generated]
 ---
 # *Leptoderris robusta* Breteler sp. nov. Planche 77

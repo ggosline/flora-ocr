@@ -7,6 +7,9 @@ family: Moraceae
 vol: 26
 pages: 91-95
 source: sources/Moraceae_vol26_paddle
+countries: [Cameroon, Democratic Republic of the Congo, Gabon]
+in_region: true
+habit: "herb"
 tags: [species, generated]
 ---
 # *Dorstenia dinklagei* Engler
@@ -45,11 +48,11 @@ KEY TO THE VARIETIES
 
 ![Dorstenia dinklagei](../sources/Moraceae_vol26_paddle/figures/fig_026_p0094.png)
 
-*PL. 25. - Dorstenia dinklagei Engl. var. dinklagei: 1, 2, port; 3, partie sup. de la tige; 4, inflo.; 5, infrutescence (1, 4, Dinklage 792, Cameroun; 2, 3, Bos 3696, Cameroun; 5, Bos 5310, Cameroun). - var. reducta (De Wild.) Hijman; 6, inflo. (Hijman & Weerdenburg 414).*
+*PL. 25. - Dorstenia dinklagei Engl. var. dinklagei: 1, 2, habit; 3, upper part of stem; 4, inflorescence; 5, infructescence (1, 4, Dinklage 792, Cameroon; 2, 3, Bos 3696, Cameroon; 5, Bos 5310, Cameroon). - var. reducta (De Wild.) Hijman; 6, inflorescence (Hijman & Weerdenburg 414).*
 
 ![Dorstenia dinklagei](../sources/Moraceae_vol26_paddle/figures/fig_027_p0096.png)
 
-*PL. 26. - Dorstenia dinklagei Engl. var. brieyi (De Wild.) Hijman : 1, sommet de tige ; 2, inflo. (Sita 408, Congo).*
+*PL. 26. - Dorstenia dinklagei Engl. var. brieyi (De Wild.) Hijman : 1, stem apex ; 2, inflorescence (Sita 408, Congo).*
 
 ## Notes
 

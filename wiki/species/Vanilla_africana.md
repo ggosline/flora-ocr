@@ -7,6 +7,10 @@ family: Orchidaceae
 vol: 36
 pages: 87-91
 source: sources/Orchidaceae_vol36_paddle
+countries: [Cameroon, Cote d'Ivoire, Equatorial Guinea, Gabon, Ghana, Guinea, Liberia, Nigeria, Sao Tome and Principe, Sierra Leone]
+in_region: true
+subdivisions:
+  Gabon: [Woleu-Ntem]
 tags: [species, generated]
 ---
 # *Vanilla africana* Lindl.
@@ -17,87 +21,80 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Feuilles pétiolées, 8-17,5 × 1,5-6,5 cm, oblongues-elliptiques à linéaires-lancéolées. Inflorescence 2,5-8 cm, simple ou ramifiée à la base, en général axillaire, 12-40-flore. Fleurs blanches, crème ou jaune clair pâle, labelle marqué de rose-mauve à pourpre. Sépale dorsal oblong-obové à linéaire-lancéolé ; sépales latéraux obliquement ovés à oblongs-oblancéolés. Pétales oblongs-elliptiques à base falciforme ou obliquement et largement obovés, avec une côte épaissie le long de la
-
-médiane sur la face externe. Labelle largement conique vers la base en position naturelle, assez mince, nettement trilobé, côte épaissie tout le long de la médiane à la face supérieure ; lobe médian obové à oblong-elliptique, aigu à acuminé, avec une touffe centrale de lamelles ± rares, dentées, fragiles. – Pl. 40, p. 85.
+Petiolate leaves, 8–17.5 × 1.5–6.5 cm, oblong-elliptic to linear-lanceolate. Inflorescence 2.5–8 cm, simple or branched at the base, generally axillary, 12–40-flowered. Flowers white, cream or pale light yellow, labellum marked with rose-mauve to purple. Dorsal sepal oblong-obovate to linear-lanceolate; lateral sepals obliquely ovate to oblong-oblanceolate. Petals oblong-elliptic with falcate base or obliquely and broadly obovate, with a thickened rib along the midline on the outer surface. Labellum broadly conical towards the base in natural position, rather thin, distinctly trilobed, thickened rib running along the midline on the upper surface; median lobe obovate to oblong-elliptic, acute to acuminate, with a central tuft of ± sparse, dentate, fragile lamellae. – Pl. 40, p. 85.
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+alt. 0–900 m. Secondary or undisturbed forest, sometimes inundated at least in part during the rainy season, in dense shrubland on flamboyant or in plantation.
 
-alt. 0-900 m. Forêt secondaire ou non, parfois inondée au moins en partie en saison des pluies, en buisson dense sur flamboyant ou en plantation
+Three subspecies are recognized, two of which are known from Gabon. The 3rd (subsp. cucullata) is endemic to Cameroon.
 
-On distingue 3 sous-espèces dont 2 sont connues au Gabon. La  $ 3^{\circ} $ (subsp. cucullata) est endémique du Cameroun.
+KEY TO THE SUBSPECIES
 
-CLÉ DES SOUS-ESPÈCES
+1. Inflorescence branched at the base ..... subsp. ramosa
+1'. Inflorescence not branched.
 
-1. Inflorescence ramifiée à la base ..... subsp. ramosa 1'. Inflorescence non ramifiée.
+2. Median lobe of labellum obovate-elliptic, without thickening along the lower half of the midline ..... subsp. africana
 
-2. Lobe médian du labelle obové-elliptique, sans épaississement le long de la moitié inférieure de la médiane ..... subsp. africana
-
-2'. Lobe médian du labelle oblong-elliptique, avec une côte très épaisse le long de la moitié inférieure de la médiane ..... subsp. cucullata
+2'. Median lobe of labellum oblong-elliptic, with a very thick rib along the lower half of the midline ..... subsp. cucullata
 
 a. subsp. africana
 
-FCAM 1 : 285 (1998). [=Vanilla crenulata Rolfe, J. Linn. Soc., Bot. 32 : 477 (1896) ; FTWA :206].
+FCAM 1 : 285 (1998). [=Vanilla crenulata Rolfe, J. Linn. Soc., Bot. 32 : 477 (1896) ; FTWA : 206].
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Guinea, Sierra Leone, Liberia, Côte d'Ivoire, Ghana, Nigeria, Cameroon, Gabon, Congo (Brazzaville and Kinshasa), Equatorial Guinea, Príncipe.
 
-Guinée, Sierra Leone, Liberia, Côte d'Ivoire, Ghana, Nigeria, Cameroun, Gabon, Congo (Brazzaville et Kinshasa), Guinée équatoriale, Principe
+MATERIAL EXAMINED (Map 13):
 
-MATÉRIEL ÉTUDIÉ (Carte 13) :
+Aubréville s.n., s.loc., (fl., Dec.), P!.
 
-Aubréville s.n., s.loc., (fl., Déc.), P!.
+Bos, van der Laan & Nzabi s.n., a few km E of Chantier Leroy, Abanga forest, forest station along an elephant trail on an old forest trail, 0°50' N, 11°00' E, WAG (in hort. 85-230), non vidi.
 
-Bos, van der Laan & Nzabi s.n., quelques km E du Chantier Leroy, forêt d’Abanga, station forestière le long d’une piste d’éléphants sur une ancienne piste forestière, 0°50’ N, 11°00’ E, WAG (in hort. 85-230), non vidi.
+Breteler 669, km 6 from Lastoursville to Koula Moutou, near the Ogooué, 12°39' E, 0°51' S (fl., Sept.), WAG!.
 
-Breteler 669, km 6 de Lastoursville à Koula Moutou, près de l'Ogooué, 12°39' E, 0°51' S (fl., Sept.), WAG!.
-
-Chevalier 26848, plantations d'Assoukou, sur la Komo. près du port de Kango (st., Août), P!.
+Chevalier 26848, Assoukou plantations, on the Komo, near Kango port (st., Aug.), P!.
 
 Duparquet s.n., s.loc., P!
 
-Florence 1365, Bélinga, 6 km au S du camp (st., Juin.), P!.
+Florence 1365, Bélinga, 6 km S of camp (st., June), P!.
 
-Hallé 1948, Ayem, 10 km SO de Ndjolé, route à 9 km du Chantier (st., Avr.), P!.
+Hallé 1948, Ayem, 10 km SW of Ndjolé, road at 9 km from Chantier (st., Apr.), P!.
 
-Klaine 776, environs de Libreville (fl., Déc.), P!.
+Klaine 776, environs of Libreville (fl., Dec.), P!.
 
-Leroy s.n., s.loc., (st., Déc.), P!
+Leroy s.n., s.loc., (st., Dec.), P!
 
-Le Testu 1413, forêt du Mayombe, Mongonyanga (fl., Oct.), P!
+Le Testu 1413, Mayombe forest, Mongonyanga (fl., Oct.), P!
 
-Louis s.n., autour de forêt du Camp Waka, 32 km SE de Sindara, WAG in hort. (83-694), non vidi (det. ?) ; s.n., env. de Mimongo, WAG in hort. (83-643), non vidi.
+Louis s.n., around Camp Waka forest, 32 km SE of Sindara, WAG in hort. (83-694), non vidi (det.?) ; s.n., env. of Mimongo, WAG in hort. (83-643), non vidi.
 
-Louis, Breteler & de Bruijn 834, le long de la piste entre Kongo Boumba et Ayem (fl., Nov.), WAG!, LBV.
+Louis, Breteler & de Bruijn 834, along the trail between Kongo Boumba and Ayem (fl., Nov.), WAG!, LBV.
 
-Thollon 160, Libreville (fl., Déc.), P!.
+Thollon 160, Libreville (fl., Dec.), P!.
 
 b. subsp. ramosa (Rolfe) Szlach. & Olsz.
 
-FCAM 1 : 286 (1998). [= V. ramosa Rolfe, J. Linn. Soc. 32 : 457 (1896)]. - TYPE : Barter 2134, Nigeria, lecto-K! (Geerinck 1984). - FTWA : 205 (1968).
+FCAM 1 : 286 (1998). [= V. ramosa Rolfe, J. Linn. Soc. 32 : 457 (1896)]. - TYPE: Barter 2134, Nigeria, lecto-K! (Geerinck 1984). - FTWA: 205 (1968).
 
-MATÉRIEL ÉTUDIÉ (Carte 14) :
+MATERIAL EXAMINED (Map 14):
 
-Griffon de Bellay 90 & 334, s. l., (st., Avr. à Nov.), P!.
+Griffon de Bellay 90 & 334, s. l., (st., Apr. to Nov.), P!.
 
-Klaine 189, s.loc., P ; 303 ; env. de Libreville (st., Avr.), P!.
+Klaine 189, s.loc., P ; 303 ; env. of Libreville (st., Apr.), P!.
 
-Le Testu 7723, Haut Ogooué, Saca Micanda (fl., Déc.), BM!, BR!, P! ; 9015, Woleu-Ntem, Bitam (fl., Mars), P!.
+Le Testu 7723, Haut Ogooué, Saca Micanda (fl., Dec.), BM!, BR!, P! ; 9015, Woleu-Ntem, Bitam (fl., Mar.), P!.
 
-Pierre 21, Monts de Cristal, vers la Riv. Udjémé (st., Mai), P!.
+Pierre 21, Monts de Cristal, towards Riv. Udjémé (st., May), P!.
 
-Thollon 322, Ogooué (fl., Avr.), P!.
+Thollon 322, Ogooué (fl., Apr.), P!.
 
 ## Figures
 
 ![Vanilla africana](../sources/Orchidaceae_vol36_paddle/figures/fig_040_p0088.png)
 
-*PL. 40. – Vanilla africana Lindl. subsp. ramosa (Rolfe) Szlach. & Olsz.: A, labelle et gynostème, vue latérale ; B, labelle étalé. – subsp. africana: C, labelle étalé (A-B, Le Testu 7723, P ; C, s.c., s.n., [Déc. 1959]).*
+*PL. 40. – Vanilla africana Lindl. subsp. ramosa (Rolfe) Szlach. & Olsz.: A, labellum and gynosteme, lateral view ; B, labellum spread out. – subsp. africana: C, labellum spread out (A-B, Le Testu 7723, P ; C, s.c., s.n., [Dec. 1959]).*
 
 ![Vanilla africana](../sources/Orchidaceae_vol36_paddle/figures/fig_041_p0090.png)
 

@@ -7,6 +7,9 @@ family: Orchidaceae
 vol: 37
 pages: 200-201
 source: sources/Orchidaceae_vol37_paddle
+countries: [Burundi, Cameroon, Central African Republic, Cote d'Ivoire, Democratic Republic of the Congo, Equatorial Guinea, Gabon, Ghana, Guinea, Kenya, Liberia, Nigeria, Rwanda, Sierra Leone, Tanzania, Togo, Uganda]
+in_region: true
+habitat: [riverine]
 tags: [species, generated]
 ---
 # *Chamaeangis vesicata* (Lindl.) Schltr.

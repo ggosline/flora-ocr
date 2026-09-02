@@ -7,6 +7,7 @@ family: Leguminosae
 vol: 15
 pages: 318-319
 source: sources/Leguminosae_vol15_paddle
+habit: "tree"
 tags: [species, generated]
 ---
 # *Monopetalanthus longiracemosus* A. Chev.
@@ -55,7 +56,7 @@ Walker : s. n., St Martin.
 
 ![Monopetalanthus longiracemosus](../sources/Leguminosae_vol15_paddle/figures/fig_082_p0320.png)
 
-*PL. LXXXI. — Monopetalanthus coriaceus, Aubr. : 1, rameau florifère × 2 /3; 2, foliole × 1, 5; 3, bourgeon en voie de développement × 2 /3; 4, fruit × 2 /3. — Monopetalanthus longiracemosus Chevalier : 5, rameau florifère × 2 /3; 6, foliole × 1, 5; 7, fruit × 2 /3.*
+*PL. LXXXI. — Monopetalanthus coriaceus, Aubr. : 1, flowering branch × 2 /3; 2, leaflet × 1, 5; 3, bud in development × 2 /3; 4, fruit × 2 /3. — Monopetalanthus longiracemosus Chevalier : 5, flowering branch × 2 /3; 6, leaflet × 1, 5; 7, fruit × 2 /3.*
 
 ## Notes
 

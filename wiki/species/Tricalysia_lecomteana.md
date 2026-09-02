@@ -7,6 +7,7 @@ family: Rubiaceae
 vol: 17
 pages: 290-291
 source: sources/Rubiaceae_vol17_paddle
+habit: "tree"
 tags: [species, generated]
 ---
 # *Tricalysia lecomteana* Pierre ex Pellegr.
@@ -17,13 +18,9 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Small tree 7 to 8 m tall, with glabrous stems. Stipules tubulous for 2 mm, tapered for 5-6 mm. Petiole 6-10 mm glabrous except for the petiolar margins furnished with a few appressed hairs. Blade glabrous reddish-brown subdiscolorous, elliptic to oblong 12-18 × 5-8 cm; base acute; apex acuminate rostrate. 7-10 pairs of secondary nerves. Intersecondary nerves moderately subtransverse, somewhat apparent on both faces of the blade. Nerve axils pilose.
 
-Petit arbre de 7 à 8 m de hauteur, à tiges glabres. Stipules tubuleuses sur 2 mm, effilées sur 5-6 mm. Pétiole de 6-10 mm glabre sauf les marges pétiolaires munies de quelques poils apprimés. Limbe glabre roussâtre subdiscolore, elliptique à oblong de 12-18 × 5-8 cm; base aiguë; sommet acuminé rostré. 7-10 paires de nervures secondaires. Nervures intersecondaires médiocrement subtransverses, un peu apparentes sur les deux faces du limbe. Aisselles nervaires pileuses.
-
-Inflorescences brièvement cymeuses, axillaires, 3-5-flores, pédonculées sur 1 mm à axes glabres. Bractées inférieures à limbe linéaire atteignant 2-3 mm, les supérieures deltoïdes connées en calcules glabres extérieurement, pubescents à l'intérieur. Pédicelles longs de 1-3 mm. Calice glabre à limbe cupuliforme sur
-
-3-4 mm de hauteur, souvent fendu d'un côté, muni de glandes sur la face interne, à 6 dents de 1 mm subulées, ciliolées vers l'apex. Corolle blanche à tube grêle long de 12 mm, à 6 lobes de 16 × 2,5 mm ciliolés au sommet, à gorge pubescente vers la base des lobes. Anthères de 7-8 × 0,5 mm, apiculées, submédifixes, glabres; filet dressé de 8-10 mm. Style glabre, atteignant 25 mm, à 2 lobes filiformes de 3 mm. Ovaire à 2 loges; placentas peltés à 5-8 ovules. Fruit inconnu.
+Inflorescences briefly cymose, axillary, 3-5-flowered, pedunculate for 1 mm with glabrous axes. Lower bracts with linear blade reaching 2-3 mm, the upper ones deltoid connate into calyces glabrous externally, pubescent internally. Pedicels 1-3 mm long. Calyx glabrous with cupuliform limb 3-4 mm tall, often split on one side, furnished with glands on the inner face, with 6 teeth 1 mm subulate, ciliolate toward the apex. Corolla white with slender tube 12 mm long, with 6 lobes 16 × 2.5 mm ciliolate at the apex, throat pubescent toward the base of the lobes. Anthers 7-8 × 0.5 mm, apiculate, submedifixed, glabrous; filament erect 8-10 mm. Style glabrous, reaching 25 mm, with 2 filiform lobes 3 mm. Ovary with 2 locules; peltate placentas with 5-8 ovules. Fruit unknown.
 
 ## Type
 
@@ -31,13 +28,11 @@ Le Testu 1435 (P), Massanga, près de Tchibanga, forêt du Mayombe (fl. 26 oct. 
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+This species is very close to the preceding one; it differs from it by various characters whose variability is unknown.
 
-Cette espèce est très voisine de la précédente; elle s'en distingue par divers caractères dont on ignore la variabilité.
+Only other known material, Congo:
 
-Seul autre matériel connu, Congo :
-
-Lecomte : s.n., Niounvoux, Mayombe (bout. oct. 1893).
+Lecomte: s.n., Niounvoux, Mayombe (bot. Oct. 1893).
 
 ## Notes
 

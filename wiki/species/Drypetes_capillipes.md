@@ -7,6 +7,11 @@ family: Putranjivaceae
 vol: 57
 pages: 130-133
 source: sources/Putranjivaceae_vol57_paddle
+countries: [Angola, Cameroon, Central African Republic, Equatorial Guinea, Gabon, Nigeria, Republic of the Congo]
+in_region: true
+subdivisions:
+  Gabon: [Estuaire, Ngounié, Nyanga, Ogooué-Ivindo]
+habit: "tree"
 tags: [species, generated]
 ---
 # *Drypetes capillipes* (Pax) Pax & K.Hoffm.

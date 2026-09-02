@@ -7,6 +7,11 @@ family: Arecaceae
 vol: 53
 pages: 62-62
 source: sources/Arecaceae_vol53_liteparse
+countries: [Cameroon, Democratic Republic of the Congo, Equatorial Guinea, Gabon]
+in_region: true
+subdivisions:
+  Gabon: [Estuaire, Moyen-Ogooué, Nyanga, Woleu-Ntem]
+altitude_m: "500"
 tags: [species, generated]
 ---
 # *Raphia regalis* Becc. Planche 22, Figure 4H

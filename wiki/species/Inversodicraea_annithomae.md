@@ -7,6 +7,11 @@ family: Podostemaceae
 vol: 51
 pages: 27-29
 source: sources/Podostemaceae_vol51_liteparse
+countries: [Gabon]
+in_region: true
+subdivisions:
+  Gabon: [Ogooué-Ivindo]
+altitude_m: "150"
 tags: [species, generated]
 ---
 # *Inversodicraea annithomae* (C.Cusset) Rutish. & Thiv Planche 8

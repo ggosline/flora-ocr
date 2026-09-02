@@ -7,6 +7,9 @@ family: Leguminosae
 vol: 15
 pages: 75-77
 source: sources/Leguminosae_vol15_paddle
+countries: [Gabon]
+in_region: true
+habit: "tree"
 tags: [species, generated]
 ---
 # *Cynometra luja* De Wild.
@@ -39,7 +42,7 @@ Le Testu : 5135, Mouila (fl. déc.); 5811, les Echiras (fr. fév.).
 
 ![Cynometra luja](../sources/Leguminosae_vol15_paddle/figures/fig_013_p0076.png)
 
-*PL. XIII. — Cynometra Lujae De Wildemann : 1, feuilles × 2 /3; 2, détail de foliole; 3, inflorescence; 4, fleur × 4; 5, coupe de la fleur × 4. — Cynometra Hankei Harms : 6, feuilles × 2 /3; 7, détail de foliole : 8, inflorescence × 1 /3; 9, fruit × 2 /3.*
+*PL. XIII. — Cynometra Lujae De Wildemann : 1, leaves × 2 /3; 2, detail of leaflet; 3, inflorescence; 4, flower × 4; 5, section of the flower × 4. — Cynometra Hankei Harms : 6, leaves × 2 /3; 7, detail of leaflet : 8, inflorescence × 1 /3; 9, fruit × 2 /3.*
 
 ## Notes
 

@@ -7,6 +7,9 @@ family: Orchidaceae
 vol: 37
 pages: 89-91
 source: sources/Orchidaceae_vol37_paddle
+countries: [Angola, Cameroon, Democratic Republic of the Congo, Equatorial Guinea, Gabon, Nigeria]
+in_region: true
+habitat: [mangrove, swamp forest]
 tags: [species, generated]
 ---
 # *Eulophia boulawongo* (Rchb.f.) J. Raynal

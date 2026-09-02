@@ -7,6 +7,8 @@ family: Orchidaceae
 vol: 37
 pages: 82-83
 source: sources/Orchidaceae_vol37_paddle
+countries: [Burundi, Cameroon, Central African Republic, Cote d'Ivoire, Democratic Republic of the Congo, Equatorial Guinea, Gabon, Ghana, Guinea, Guinea-Bissau, Liberia, Nigeria, Senegal, Sierra Leone, Tanzania, Togo, Uganda, Zambia]
+in_region: true
 tags: [species, generated]
 ---
 # *Graphorkis lurida* (Sw.) O.Kuntze
@@ -41,7 +43,7 @@ Wieringa 303, Tchimbélé, 10° 24' E, 0° 37' N (fl. December), WAG!.
 
 ![Graphorkis lurida](../sources/Orchidaceae_vol37_paddle/figures/fig_033_p0086.png)
 
-*PL. 139. – Graphorkis lurida (Sw.) O. Kuntze: A, labelle, éperon, gynostème, pédicelle et ovaire, vue latérale ; B, labelle et éperon étalés ; C, sépale dorsal ; D, pétale ; E, sépale latéral (A-E, Mynard. s.n., HBG).*
+*PL. 139. – Graphorkis lurida (Sw.) O. Kuntze: A, labellum, spur, gynostemium, pedicel and ovary, lateral view ; B, labellum and spur spread ; C, dorsal sepal ; D, petal ; E, lateral sepal (A-E, Mynard. s.n., HBG).*
 
 ![Graphorkis lurida](../sources/Orchidaceae_vol37_paddle/figures/fig_144_p0253.png)
 

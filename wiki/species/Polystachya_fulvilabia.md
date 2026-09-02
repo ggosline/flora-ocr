@@ -7,6 +7,8 @@ family: Orchidaceae
 vol: 37
 pages: 27-29
 source: sources/Orchidaceae_vol37_paddle
+countries: [Cameroon, Democratic Republic of the Congo, Gabon, Uganda]
+in_region: true
 tags: [species, generated]
 ---
 # *Polystachya fulvilabia* Schltr.
@@ -35,7 +37,7 @@ Le Testu 8982 près de Woleu-Nteu (Févr. 1933), (K - Cribb, . comm. Pers.).
 
 ![Polystachya fulvilabia](../sources/Orchidaceae_vol37_paddle/figures/fig_006_p0028.png)
 
-*PL. 113. – Polystachya fulvilabia Schltr. : A, fleur ; B, labelle ; C, sépale dorsal ; D, pétale ; E, sépale latéral (A-E, ex SCHLECHTER, 1932).*
+*PL. 113. – Polystachya fulvilabia Schltr. : A, flower ; B, lip ; C, dorsal sepal ; D, petal ; E, lateral sepal (A-E, ex SCHLECHTER, 1932).*
 
 ## Notes
 

@@ -7,6 +7,7 @@ family: Melastomataceae
 vol: 25
 pages: 136-138
 source: sources/Melastomataceae_vol25_paddle
+habit: "shrub"
 tags: [species, generated]
 ---
 # *Memecylon nodosum* (Engler) Gilg ex Engler
@@ -37,7 +38,7 @@ Chevalier 27052, Aledjo sur riv. Ramboué. Hallé N. 1850, à 10 km SW Ndjolé, 
 
 ![Memecylon nodosum](../sources/Melastomataceae_vol25_paddle/figures/fig_048_p0137.png)
 
-*PL. 48. — Memecylon aequidianum Jacq.-Fél. : 1, rameau fleuri × 2/3; 2, nœud fructifère × 2/3; 3, coupe de fleur (corolle, étamines enlevées) × 6; 4, étamine × 12; 5, pétale × 6 (1, 3-5, Klaine 2605; 2, Klaine 90). (Repris d'Adansonia, sér. 2, 18 (4) : tab. 10, 1979).*
+*PL. 48. — Memecylon aequidianum Jacq.-Fél. : 1, flowering branch × 2/3; 2, fruiting node × 2/3; 3, flower section (corolla, stamens removed) × 6; 4, stamen × 12; 5, petal × 6 (1, 3-5, Klaine 2605; 2, Klaine 90). (Reprinted from Adansonia, ser. 2, 18 (4) : tab. 10, 1979).*
 
 ## Notes
 

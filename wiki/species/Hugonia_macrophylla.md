@@ -7,6 +7,9 @@ family: Linaceae
 vol: 21
 pages: 30-32
 source: sources/Linaceae_vol21_paddle
+countries: [Cameroon, Democratic Republic of the Congo, Gabon, Nigeria]
+in_region: true
+habit: "liana"
 tags: [species, generated]
 ---
 # *Hugonia macrophylla* Oliver

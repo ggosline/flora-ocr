@@ -7,6 +7,9 @@ family: Dichapetalaceae
 vol: 32
 pages: 72-75
 source: sources/Dichapetalaceae_vol32_paddle
+countries: [Cameroon, Cote d'Ivoire, Democratic Republic of the Congo, Equatorial Guinea, Gabon, Liberia, Nigeria]
+in_region: true
+habit: "liana"
 tags: [species, generated]
 ---
 # *Dichapetalum choristilum* Engler
@@ -82,7 +85,7 @@ De Wilde & al. 519, type (fl., Fév.). Louis & al. 1002, 20 km à l'Est de Mimon
 
 ![Dichapetalum choristilum](../sources/Dichapetalaceae_vol32_paddle/figures/fig_017_p0074.png)
 
-*PL. 16 – Dichapetalum choristilum Engler : 1, rameau florifère × 0,5 ; 2, jeune rameau, base foliaire et stipules, détail × 1 ; 3, fleur × 6 ; 4, fleur, étamines, pistil et staminodes, détail × 6 ; 5, pétale et étamine, face interne × 6 ; 6, 7, fruits 1-sperme × 0,5 ; 8, détail de la paroi du fruit mûr, état frais × 3 ; 9, idem, état sec × 3 ; 10, idem, mais jeune fruit sec × 3 (ex = exocarpe, en = endocarpe, h = poil) ; 11, plantule × 0,5 (1, Bos 3740 ; 2, Breteler 5755 ; 3-5, Leeuwenberg 5595 ; 6, 10, Bolela 624 ; 7, Bos 4971 ; 9, Hallé 3119 ; 11, Breteler 6228). – Repris de MLW 78 (10) : 12 (1978).*
+*PL. 16 – Dichapetalum choristilum Engler : 1, flowering branch × 0,5 ; 2, young branch, leaf base and stipules, detail × 1 ; 3, flower × 6 ; 4, flower, stamens, pistil and staminodes, detail × 6 ; 5, petal and stamen, internal surface × 6 ; 6, 7, 1-sperm fruits × 0,5 ; 8, detail of the wall of the ripe fruit, fresh state × 3 ; 9, idem, dry state × 3 ; 10, idem, but young dry fruit × 3 (ex = exocarp, en = endocarp, h = hair) ; 11, seedling × 0,5 (1, Bos 3740 ; 2, Breteler 5755 ; 3-5, Leeuwenberg 5595 ; 6, 10, Bolela 624 ; 7, Bos 4971 ; 9, Hallé 3119 ; 11, Breteler 6228). – Reprinted from MLW 78 (10) : 12 (1978).*
 
 ## Notes
 

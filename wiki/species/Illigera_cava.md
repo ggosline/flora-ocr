@@ -7,6 +7,9 @@ family: Hernandiaceae
 vol: 38
 pages: 21-23
 source: sources/Hernandiaceae_vol38_liteparse
+countries: [Gabon]
+in_region: true
+altitude_m: "200–700"
 tags: [species, generated]
 ---
 # *Illigera cava* Breteler & Wieringa Planche 4 : A–J

@@ -7,6 +7,7 @@ family: Thymeleaceae
 vol: 11
 pages: 72-74
 source: sources/Thymeleaceae_vol11_paddle
+habit: "tree"
 tags: [species, generated]
 ---
 # *Dicranolepis pulcherrima* Gilg

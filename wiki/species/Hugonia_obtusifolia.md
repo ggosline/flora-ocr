@@ -7,6 +7,8 @@ family: Linaceae
 vol: 21
 pages: 28-30
 source: sources/Linaceae_vol21_paddle
+countries: [Cameroon, Democratic Republic of the Congo, Gabon, Nigeria]
+in_region: true
 tags: [species, generated]
 ---
 # *Hugonia obtusifolia* C. H. Wright
@@ -39,7 +41,7 @@ Hallé N. 2649, Makokou (fr., oct.). Hallé N. & Le Thomas 446, 572, Bélinga, m
 
 ![Hugonia obtusifolia](../sources/Linaceae_vol21_paddle/figures/fig_006_p0031.png)
 
-*PL. 6. — Hugonia obtusifolia C. H. Wright : 1, rameau florifère × 2/3 (Savorgnan de Brazza 508); 2, boutons × 2; 3, fleur épanouie (2-3, Le Testu 7148); 4, fruit × 2/3 (Chevalier 27693).*
+*PL. 6. — Hugonia obtusifolia C. H. Wright : 1, flowering branch × 2/3 (Savorgnan de Brazza 508); 2, buds × 2; 3, open flower (2-3, Le Testu 7148); 4, fruit × 2/3 (Chevalier 27693).*
 
 ## Notes
 

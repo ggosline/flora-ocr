@@ -7,6 +7,9 @@ family: Zingiberaceae
 vol: 09
 pages: 28-30
 source: sources/Zingiberaceae_vol09_paddle
+countries: [Cameroon, Gabon]
+in_region: true
+habit: "herb"
 tags: [species, generated]
 ---
 # *Renalmia congoensis* Gagnep.
@@ -40,7 +43,7 @@ Le Testu : 1882, Tchibanga; 5084, Sainte Croix des Eshiras; 7677, Micouma, régi
 
 ![Renalmia congoensis](../sources/Zingiberaceae_vol09_paddle/figures/fig_007_p0029.png)
 
-*PL. V. — Renedmia congoensis Gagnep. (Le Testu 1882): 1, inflorescence (gr. nat.); 2, détail d'une partie d'infrutescence. — Renedmia africana Benth. (Le Testu 8931): 3, base d'une feuille; 4, détail de la nervation de la face inférieure d'une feuille; 5, portion d'infrutescence (gr. nat.); 6, détail d'une portion d'infrutescence.*
+*PL. V. — Renedmia congoensis Gagnep. (Le Testu 1882): 1, inflorescence (nat. size); 2, detail of a part of infructescence. — Renedmia africana Benth. (Le Testu 8931): 3, base of a leaf; 4, detail of venation of the lower surface of a leaf; 5, portion of infructescence (nat. size); 6, detail of a portion of infructescence.*
 
 ## Notes
 

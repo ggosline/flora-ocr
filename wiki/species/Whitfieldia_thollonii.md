@@ -7,6 +7,8 @@ family: Acanthaceae
 vol: 13
 pages: 41-46
 source: sources/Acanthaceae_vol13_paddle
+countries: [Gabon]
+in_region: true
 tags: [species, generated]
 ---
 # *Whitfieldia thollonii* (Baill.) R. Benoist
@@ -21,21 +23,19 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Faisant suite à la description de W. Le-Testui, une discussion de l'auteur présente le W. Thollonii; cette combinaison nouvelle a été omise dans l'Index de Kew.
+Following the description of W. Le-Testui, a discussion by the author presents W. Thollonii; this new combination was omitted from the Kew Index.
 
 ≡ Stylarthropus Tholloni Baill., Bull. Soc. Linn. Paris 2 : 823 (1890).
 
 (Thollon 210), excl. Stylarthropus Brazzei Baill., Bull. Soc. Linn. Paris 2823 (1890), et Brazza 165. = Whitfieldia Gilletii De Wild., Ann. Mus. Congo. Bot., sér. V, 1: 316 (1906), et 2: 201 (1907). — Th. et H. Durand, Syll. Fl. Cong.: 421 (1909).
 
-Herbe ou arbuste entièrement glabre, à tiges subanguleuses, un peu articulées aux nœuds. Pétioles de 6-8 mm. Limbe des feuilles elliptique-entier de  $ 15-19 \times 5-7 $ cm, à acumen allongé de  $ 1,5-2 $ cm. 7-9 paires de nervures latérales.
+Herb or shrub entirely glabrous, with subangular stems, somewhat articulate at the nodes. Petioles 6–8 mm. Leaf blade elliptic-entire, 15–19 × 5–7 cm, with an elongate acumen 1.5–2 cm. 7–9 pairs of lateral veins.
 
-Fleurs en racèmes terminaux et axillaires, longs de 10-15 cm, assez denses. Bractées linéaires-lancéolées, atteignant 1 cm de long, larges de 2 mm, souvent moins; pédicelles de 2-6 (8) mm et ne s'allongeant pas après la floraison; bractéoles largement ovales de 9 × 7 mm, avec, à la partie supérieure, un acumen triangulaire très marqué, ne s'agrandissant pas après la floraison. Sépales brunâtres, lancéolés, de 8-10 × 6-8 mm, arrondis au sommet et couverts de toutes petites glandes blanches. Corolle glabre en dessus, de 19-24 mm de long, jaune, abondamment rayée de brun pourpre le long des nervures, infundibuliforme, à tube de 16 mm; lobes ovales, longs de 8 mm, larges à la base de 6 mm; intérieur de la corolle pubescent. Étamines didynamics; filets des longues étamines 14 mm, des courtes 11 mm; ils sont insérés au niveau d'un anneau de poils très denses et feutrés, à 4 mm en dessus de la base de la corolle. Anthères longues de 3 mm, un peu soudées à la base, à connectif pubescent. Ovaire subglobuleux, de 1,5 mm de diamètre; style de 24 mm, courbé, pubescent, à stigmate subglobuleux.
+Flowers in terminal and axillary racemes, 10–15 cm long, rather dense. Bracts linear-lanceolate, reaching 1 cm long, 2 mm wide, often less; pedicels 2–6 (8) mm and not elongating after flowering; bracteoles broadly ovate, 9 × 7 mm, with a very marked triangular acumen at the upper part, not enlarging after flowering. Sepals brownish, lanceolate, 8–10 × 6–8 mm, rounded at the apex and covered with tiny white glands. Corolla glabrous above, 19–24 mm long, yellow, abundantly streaked with dark purple along the veins, infundibuliform, with a tube 16 mm; lobes ovate, 8 mm long, 6 mm wide at the base; interior of corolla pubescent. Stamens didynamous; filaments of the long stamens 14 mm, of the short ones 11 mm; they are inserted at the level of a ring of very dense, felted hairs, 4 mm above the base of the corolla. Anthers 3 mm long, somewhat fused at the base, with pubescent connective. Ovary subglobose, 1.5 mm in diameter; style 24 mm, curved, pubescent, with a subglobose stigma.
 
-Fruit glabre, de  $ 18 \times 6 $ mm. Graines mûres non vues.
+Fruit glabrous, 18 × 6 mm. Ripe seeds not seen.
 
-Type Thollon : 210, env. de Brazzaville (P, holotype!).
+Type Thollon: 210, environs of Brazzaville (P, holotype!).
 
 ## Specimens examined
 
@@ -49,9 +49,7 @@ EXPLICATION DE LA PLANCHE VII, fig. 1-9:
 
 ## Source note
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-1. — Whitfieldia Brazzae (cf. n. 2) (Baill.) C. B. Clarke, F.T.A. 5: 67 (1899), p. p., excel. syn. Stylarthropus Thollonii Bail., Bull. Soc. Linn. Paris 2: 283 (1890), et spécimen Thollon 210; ≡ Stylarthropus Brazzei (sic) Baill., I. c. (1890); Lindau, in Engler et Prantl., Nat. Pflanzenfam. IV 3 B: 306 (1895); = Stylarthropus tenuiflora Baill., I. c. (1890); Lindau, I. c., (1895); = Whitfieldia sylvatica de Wild., Ann. Mus. Congo, Bot., Sér., V, 1: 317 (1906); Th. et H. Durand, Syll. Fl. Cong. (= Bull. J. B. Brux. 2: 422 (1909)
+1. — Whitfieldia Brazzae (cf. n. 2) (Baill.) C. B. Clarke, F.T.A. 5: 67 (1899), p. p., excl. syn. Stylarthropus Thollonii Bail., Bull. Soc. Linn. Paris 2: 283 (1890), et specimen Thollon 210; ≡ Stylarthropus Brazzei (sic) Baill., I. c. (1890); Lindau, in Engler et Prantl., Nat. Pflanzenfam. IV 3 B: 306 (1895); = Stylarthropus tenuiflora Baill., I. c. (1890); Lindau, I. c., (1895); = Whitfieldia sylvatica de Wild., Ann. Mus. Congo, Bot., Sér., V, 1: 317 (1906); Th. et H. Durand, Syll. Fl. Cong. (= Bull. J. B. Brux. 2: 422 (1909)
 
 ## Type
 
@@ -59,15 +57,13 @@ J. de Brazza 165, bois d'osika, Congo-Brazzaville (P, holotype!)
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+This species is very close to the preceding one with which it was confused until the present revision. E. De Wildeman, not knowing the original materials of Stylarthropus Thollonii and Brazzae of H. Baillon, described them anew under the names Whitfieldia Gilletii and sylvatica. He recognized perfectly the distinctive characters of these two species: Whitfieldia sylvatica "differs especially by its ovate and not elliptic bracteoles, by its corolla glabrous inside the tube. There is certainly a difference in the color of the flowers, for in the dry state those of W. sylvatica are of a uniform brownish yellow, the veins standing out clearly in the form of lines, while those of W. Gilletii are distinctly purplish spotted." Besides these characters, one must also note the entirely glabrous style and the length of the corolla: 19–22 mm in W. Thollonii, and up to 31 mm in W. Brazzae. This species is represented, in the herbaria consulted, only from the Congo; its presence in Gabon is very likely.
 
-Cette espèce est très voisine de la précédente avec laquelle elle fut confondue jusqu'à la présente révision. E. De Wildeman, ne connaissant pas les matériaux originaux des Stylarthropus Thollonii et Brazzae de H. Baillon, les décrivit à nouveau sous les noms de Whitfeldia Gilletii et sylvatica. Il reconnut parfaitement les caractères distinctifs de ces deux espèces : Whitfeldia sylvatica « se différencie... surtout par ses bractéoles ovales et non elliptiques, par sa corolle glabre à l'intérieur du tube. Il y a certainement une différence dans la couleur des fleurs, car à l'état sec celles du W. sylvatica sont d'un jaune brunâtre uniforme, les nervures se détachant nettement sous forme de lignes, tandis que celles du W. Gilletii sont violacées nettement tachetées ». Outre ces caractères, il faut encore noter le style entièrement glabre et la longueur de la corolle : 19-22 mm chez W. Thollonii, et jusqu'à 31 mm chez W. Brazzae. Cette espèce n'est représentée, dans les herbiers consultés, que du Congo; sa présence au Gabon est fort vraisemblable.
+2. H. Baillon and C. B. Clarke wrote the epithet "Brazzei", which corresponds to the genitive of "Brazzeus". A latinization of the name of Savorgnan de Brazza in this manner is a violation of the rules of Latin grammar; E. De Wildeman had already made an effort to correct it, as Whitfieldia Brazzaei (Ann. Mus. Congo. Bot. Sér. V, 1: 316, 1906). "Brazzaeus" is in any case less incorrect than "Brazzeus". In agreement with recommendation 73 C of the International Code of Botanical Nomenclature (ed. Montreal, 1961; see also the epithet of Andropogon Brazzae Franchet: J. Koechlin, Flore du Gabon 5: 156, 1962) the epithet is corrected here to Brazzae.
 
-2. H. Baillon et C. B. Clarke ont écrit l'épitète « Brazzei », ce qui correspond au génétif de « Brazzeus ». Une latinisation du nom de Savorgnan de Brazza de cette manière, est une violation des règles de la grammaire latine; E. De Wildeman avait déjà fait un effort pour la corriger, en Whitfielia Brazzaei (Ann. Mus. Congo. Bot. Sér. V, 1: 316, 1906). « Brazzaeus » est en tous cas moins incorrect que « Brazzeus ». En accord avec la recommandation 73 C du Code international de la Nomenclature botanique (éd. Montréal, 1961; voir aussi l'épitète de l'Andropogon Brazzae Franchet : J. Koechlin, Flore du Gabon 5: 156, 1962) l'épitète est rectifiée ici en Brazzae.
+EXPLANATION OF PLATE VII, figs. 10–17:
 
-EXPLICATION DE LA PLANCHE VII, fig. 10-17:
-
-10, rameau florifère; 11, type de feuille à bords ondulés; 12, bractéole de 20 × 10 mm; 13, calice de 11,5 mm de long; 14, corolle ouverte de 30 mm de long; 15, face dorsale d'une anthère étalée; 15', idem, face ventrale de 3 mm de long; 16, pistil (ovaire 3 mm de haut, style 26 mm de long); 17, fruit de 30 mm de long; 18, graine de 6,5 × 7 mm. — 10, 12, 13, 15, 16, Pobéguin 239; 11, Thollon s. n., Congo ou Gabon (?) ; 17, 18, A. Chevalier 27642.
+10, flowering twig; 11, typical leaf with undulate margins; 12, bracteole 20 × 10 mm; 13, calyx 11.5 mm long; 14, open corolla 30 mm long; 15, dorsal face of a flattened anther; 15', idem, ventral face 3 mm long; 16, pistil (ovary 3 mm high, style 26 mm long); 17, fruit 30 mm long; 18, seed 6.5 × 7 mm. — 10, 12, 13, 15, 16, Pobéguin 239; 11, Thollon s. n., Congo or Gabon (?); 17, 18, A. Chevalier 27642.
 
 ## Figures
 

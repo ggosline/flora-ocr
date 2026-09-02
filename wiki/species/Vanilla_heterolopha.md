@@ -7,6 +7,8 @@ family: Orchidaceae
 vol: 36
 pages: 93-95
 source: sources/Orchidaceae_vol36_paddle
+countries: [Gabon]
+in_region: true
 tags: [species, generated]
 ---
 # *Vanilla heterolopha* Summerh.
@@ -17,25 +19,19 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Feuilles pétiolées, 7,5-12 × 1,4-2,7 cm, oblongues-elliptiques, un peu asymétriques apiculées. Inflorescence de 1,5-2,5 cm, 20-35-flore, non ramifiée. Sépale dorsal obtus oblong-elliptique ; sépales latéraux légèrement plus courts et plus larges que le dorsal. Pétales obliquement oblongs-elliptiques, subobtus, veine médiane épaissie face externe. Labelle à base conique, nettement trilobé (si étalé) : lobe médian cuné, tronqué, callus crépu le long de la médiane presque depuis la base à près du sommet, les latéraux ± triangulaires, arrondis au sommet, ondulés le long des marges, soudés à la partie columnaire près de leur sommet. Pl. 44, p. 93.
+Petiolate leaves, 7.5–12 × 1.4–2.7 cm, oblong-elliptic, slightly asymmetric apiculate. Inflorescence 1.5–2.5 cm, 20–35-flowered, unbranched. Dorsal sepal obtuse oblong-elliptic; lateral sepals slightly shorter and broader than the dorsal. Petals obliquely oblong-elliptic, subobtuse, midvein thickened on external face. Labellum with conical base, distinctly trilobed (when spread): median lobe cuneate, truncate, callus crisped along the midline almost from the base to near the apex, lateral lobes ± triangular, rounded at apex, undulate along the margins, fused to the column near their apex. Pl. 44, p. 93.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-endémique (?) du Gabon
+endemic (?) to Gabon
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+forest
 
-forêt
+* Nature and collection sites reported differently by error in FCAM
 
-* Nature et lieux de dépôt signalés différemment par erreur dans FCAM
-
-MATÉRIEL ÉTUDIÉ (Carte 15) : Dybowski 80, Riv. Rembo près de Marungo, P!. Griffon de Bellay 125, N'demmbo, P!. Le Testu 7494 bis, Haut Ogooué, Lastoursville, (fl., Nov.), P!.
+MATERIAL EXAMINED (Map 15): Dybowski 80, Riv. Rembo near Marungo, P!. Griffon de Bellay 125, N'demmbo, P!. Le Testu 7494 bis, Haut-Ogooué, Lastoursville, (fl., Nov.), P!.
 
 ## Figures
 

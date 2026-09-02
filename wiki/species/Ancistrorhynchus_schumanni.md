@@ -7,6 +7,8 @@ family: Orchidaceae
 vol: 37
 pages: 115-117
 source: sources/Orchidaceae_vol37_paddle
+countries: [Cameroon, Democratic Republic of the Congo, Nigeria]
+in_region: true
 tags: [species, generated]
 ---
 # *Ancistrorhynchus schumanni* (Kraenzl.) Summerh.

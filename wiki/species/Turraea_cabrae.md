@@ -7,6 +7,13 @@ family: Meliaceae
 vol: 47
 pages: 75-77
 source: sources/Meliaceae_vol47_liteparse
+countries: [Democratic Republic of the Congo, Gabon, Republic of the Congo]
+in_region: true
+subdivisions:
+  Gabon: [Ngounié, Nyanga, Ogooué-Ivindo, Ogooué-Lolo, Woleu-Ntem]
+habit: "shrub"
+habitat: [secondary forest]
+altitude_m: "300–1000"
 tags: [species, generated]
 ---
 # *Turraea cabrae* De Wild. & T.Durand Planche 25
@@ -17,25 +24,15 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Arbuste , 0,8–3 m de hauteur ; rameaux pubescents, tardivement glabres. Feuille : pétiole 0,3–0,5 cm ; limbe très variable en formes et dimensions, étroitement elliptique ou rectan gulaire à obovale ou ovale, 2–15 × 1,5–5,5 cm, entier ou souvent 2–4-lobé au sommet , à base cunéiforme ou obtuse, à sommet acuminé ou aigu, papyracé , glabrescent. Inflo rescence axillaire ou (en courtes branches latérales) terminale, fasciculée, 4–10-flores ; pédoncule (2–)4–5(–9) mm , pubérulent ; bractées étroitement triangulaires, 1,5–2,5 × 0,5–1 mm, pubescentes. Fleur : pédicelle grêle, 20–27 mm, glabre ; calice 2–2,5 × 3–3,5
-
-Fruit (× 1). – H. Dito, section transversale (× 2). (A–D : Cabra 83 ; E : Flamigni 120 ; F : Toussaint 546 ; G, H : Wagemans 512 ). Dessin par J.M. Lerinckx, reproduit avec permission du Jardin botanique national de la Belgique (©) à partir de Staner & Gilbert (1958).
-
-mm, à 5 dents aiguës, pubérulent surtout au bord ; pétales 5, linéaires à étroitement obo vales, allongés-spatulés vers le sommet, 30–38 × 2–3,5 mm, jaune pâle à blanchâtres, glabres ; tube staminal 23–30(–35) mm de longueur , glabre, dédoublé au sommet, la partie extérieure formant une gouttière annulaire au-dessous des 10 anthères , anthères exsertes ou rarement presque incluses, insérées souvent presque horizontalement au sommet de la partie intérieure par un court filet en forme de crochet, à connectif api culé ou avec un appendice en forme de petite cuillère jusqu’à 1 mm de longueur ; ovaire ovoïde, environ 1 mm de diamètre, 5(–6)-loculaire, glabre ; style 30–35 mm, glabre, stigmate soutenu par le réceptaculum pollinis de 1,5 mm de diamètre. Fruit obovoïde, bosselé, 10–15 mm de longueur, orangé, déhiscent par 5(–6) valves coriaces. Graines 2 par loge, 5 × 3–4 mm, avec un arille orange.
+Shrub, 0.8–3 m tall; branchlets pubescent, tardily glabrous. Leaf: petiole 0.3–0.5 cm; blade highly variable in shape and size, narrowly elliptic or rectangular to obovate or ovate, 2–15 × 1.5–5.5 cm, entire or often 2–4-lobed at apex, base cuneate or obtuse, apex acuminate or acute, papyraceous, glabrescent. Inflorescence axillary or (on short lateral branches) terminal, fasciculate, 4–10-flowered; peduncle (2–)4–5(–9) mm, puberulent; bracts narrowly triangular, 1.5–2.5 × 0.5–1 mm, pubescent. Flower: pedicel slender, 20–27 mm, glabrous; calyx 2–2.5 × 3–3.5 mm, with 5 acute teeth, puberulent especially on the margin; petals 5, linear to narrowly obovate, elongate-spatulate toward the apex, 30–38 × 2–3.5 mm, pale yellow to whitish, glabrous; staminal tube 23–30(–35) mm long, glabrous, split at apex, the outer portion forming an annular groove below the 10 anthers, anthers exserted or rarely almost included, often inserted nearly horizontally at the apex of the inner portion by a short hook-shaped filament, with apiculate connective or with an appendage resembling a small spoon up to 1 mm long; ovary ovoid, about 1 mm in diameter, 5(–6)-locular, glabrous; style 30–35 mm, glabrous, stigma supported by the receptaculum pollinis 1.5 mm in diameter. Fruit obovoid, bumpy, 10–15 mm long, orange, dehiscent by 5(–6) coriaceous valves. Seeds 2 per locule, 5 × 3–4 mm, with an orange aril.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Gabon, République du Congo et République Démocratique du Congo ; au Gabon, connue de la Ngounié, de la Nyanga, de l’Ogooué-Ivindo, de l’Ogooué-Lolo et du Woleu-Ntem
+Gabon, Republic of the Congo and Democratic Republic of the Congo; in Gabon, known from Ngounié, Nyanga, Ogooué-Ivindo, Ogooué-Lolo and Woleu-Ntem
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-lisières forestières en forêt primaire et secondaire ; au Gabon et ailleurs à 300–1000 m d’altitude. B : Staner (1941), Staner & Gilbert (1958). ibliographie
+Forest margins in primary and secondary forest; in Gabon and elsewhere at 300–1000 m altitude. B: Staner (1941), Staner & Gilbert (1958). Bibliography
 
 ## Notes
 

@@ -5,11 +5,12 @@ authority: De Wild. et Th. Dur.
 genus: Costus
 family: Zingiberaceae
 family_current: Costaceae
+treatments: [{vol: 9, pages: "82–84", source: sources/Zingiberaceae_vol9_paddle}]
 countries: [Democratic Republic of the Congo, Gabon]
 in_region: true
-habit: robust rhizomatous herb to 3 m
-habitat: [light forest understorey]
-treatments: [{vol: 9, pages: "82–84", source: sources/Zingiberaceae_vol9_paddle}]
+subdivisions:
+  Gabon: [Nyanga]
+habit: "herb"
 tags: [species]
 ---
 # *Costus dewevrei* De Wild. et Th. Dur.

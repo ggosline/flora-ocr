@@ -7,6 +7,9 @@ family: Sapindaceae
 vol: 23
 pages: 98-101
 source: sources/Sapindaceae_vol23_paddle
+countries: [Cameroon, Central African Republic, Gabon]
+in_region: true
+habit: "shrub"
 tags: [species, generated]
 ---
 # *Chytranthus mortehanii* (De Wildeman) De Voldere ex Hauman
@@ -47,7 +50,7 @@ Hallé N. & Le Thomas 99, Bélinga, alt. 850 m (fr., juil.). Le Testu 8760, Koul
 
 ![Chytranthus mortehanii](../sources/Sapindaceae_vol23_paddle/figures/fig_021_p0099.png)
 
-*PL. 21.— Chytranthus mortehanii (De Wild.) De Voldere ex Hauman : 1, sommet de rachis foliaire et foliole × 0,5; 2, base pétiolaire × 0,5; 3, inflorescence × 0,5; 4, bouton, diamètre 6 mm; 5, fleur × 4; 6, pétale, long 5 mm; 7, disque de 2 mm; 8, 9, étamine dans le bouton, recto et verso, anhère de 1,4 mm; 10, pistil, environ 3,5 mm; 11, pistil avorté de fleur ♂, 0,8 mm; 12, fruit × 0,75; 13, id. en coupe; 14, graine de 21 mm, profil et face (1-3 et 11, Le Testu 8760; 4-10, Breteler 2030; 12-14, N. Hallé et A. Le Thomas 99).*
+*PL. 21.— Chytranthus mortehanii (De Wild.) De Voldere ex Hauman : 1, apex of foliar rachis and leaflet × 0.5; 2, petiolar base × 0.5; 3, inflorescence × 0.5; 4, bud, diameter 6 mm; 5, flower × 4; 6, petal, length 5 mm; 7, disc of 2 mm; 8, 9, stamen in the bud, recto and verso, anther of 1.4 mm; 10, pistil, approximately 3.5 mm; 11, aborted pistil of ♂ flower, 0.8 mm; 12, fruit × 0.75; 13, id. in section; 14, seed of 21 mm, profile and face (1-3 and 11, Le Testu 8760; 4-10, Breteler 2030; 12-14, N. Hallé and A. Le Thomas 99).*
 
 ## Notes
 

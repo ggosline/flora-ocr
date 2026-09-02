@@ -7,6 +7,8 @@ family: Dichapetalaceae
 vol: 32
 pages: 38-41
 source: sources/Dichapetalaceae_vol32_paddle
+countries: [Democratic Republic of the Congo, Equatorial Guinea, Gabon]
+in_region: true
 tags: [species, generated]
 ---
 # *Dichapetalum acuminatum* De Wildeman
@@ -63,7 +65,7 @@ Le Testu 2030, Région de la Nyanga (fl., Mars) ; 6450, Iméno (fl., Mars) ; 878
 
 ![Dichapetalum acuminatum](../sources/Dichapetalaceae_vol32_paddle/figures/fig_005_p0040.png)
 
-*PL. 4. – Dichapetalum acuminatum De Wild.: 1, rameau florifère × 0,8; 2, feuille × 0,8; 3, base foliaire × 2,5; 4, détail de la nervure I × 2,5; 5, aisselle avec stipules × 5; 6, fleur à l'ouverture × 10; 7-8, fleurs épanouies × 10; 9, pistil avec des staminodes × 10; 10, fruit × 0,8; 11, détail de la paroi du fruit × 10 (1, 4, 5, Bamps 608; 2, Le Testu 8785; 3, Tessmann 894; 6, J. Louis 6339; 7, 9, Thonner 150; 8, Le Testu 2030; 10, 11, J. Louis 11190). – Repris de MLW 73 (13): 39 (1973).*
+*PL. 4. – Dichapetalum acuminatum De Wild.: 1, flowering branch × 0,8; 2, leaf × 0,8; 3, leafy base × 2,5; 4, detail of vein I × 2,5; 5, axil with stipules × 5; 6, flower at opening × 10; 7-8, open flowers × 10; 9, pistil with staminodes × 10; 10, fruit × 0,8; 11, detail of fruit wall × 10 (1, 4, 5, Bamps 608; 2, Le Testu 8785; 3, Tessmann 894; 6, J. Louis 6339; 7, 9, Thonner 150; 8, Le Testu 2030; 10, 11, J. Louis 11190). – Taken from MLW 73 (13): 39 (1973).*
 
 ## Notes
 

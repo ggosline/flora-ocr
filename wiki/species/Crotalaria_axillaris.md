@@ -7,6 +7,12 @@ family: Leguminosae
 vol: 49
 pages: 92-93
 source: sources/Millettiaspeciesfabaceae_vol49_liteparse
+countries: [Angola, Gabon, Ghana, Malawi, Mozambique]
+in_region: true
+subdivisions:
+  Gabon: [Ogooué-Ivindo]
+habit: "shrub"
+altitude_m: "200"
 tags: [species, generated]
 ---
 # *Crotalaria axillaris* Aiton Planche 27

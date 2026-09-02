@@ -7,6 +7,9 @@ family: Rubiaceae
 vol: 17
 pages: 108-109
 source: sources/Rubiaceae_vol17_paddle
+countries: [Gabon]
+in_region: true
+habit: "shrub"
 tags: [species, generated]
 ---
 # *Tarenna precidantenna* N. Hallé
@@ -22,13 +25,11 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Small shrub with cylindrical glabrous branchlets; stipules 2-5 mm, with very acute apex, glabrous. Petiole 5-25 mm, with margins of the channel applied toward the lower side and furnished with a line of indistinct hairs. Blade elliptic, rarely nigrescent when dry, 8-21 × 2-9 cm, with acute asymmetric or symmetric base. 8-11 pairs of secondary veins. Domatia axillary, moderately pubescent along the midvein only.
 
-Pétit arbustc à rameaux cylindriques glabres; stipules de 2-5 mm, à sommet très aigu, glabres. Pétiole de 5-25 mm, à marges du canal appliquées vers le dessous et garnies d'une ligne de poils peu distincts. Limbe elliptique, rarement nigrescent à sec, de 8-21 × 2-9 cm, à base aiguë dissymétrique ou non. 8-11 paires de nervures secondaires. Domaties axillaires médiocrement pubescentes le long de la médiane seulement.
+Inflorescences loose paniculate, multiflorous; axes glabrous or somewhat pubescent. Pedicels 6-14 mm. Calyx lobes tapered, 4-5 mm long, very finely pubescent. Corolla tube glabrous, 10-13 mm long; lobes 10-12 × 2 mm, with acute apiculate apex. Anthers 2-3 mm, basifixed; filament nearly twice as long as the anther. Style approximately 3 cm long, glabrous, with short, subcapitate club 1-1.5 × 0.7 mm. Ovary 1.5-2 × 1.2 mm. Placentas triovulate.
 
-Inflorescences paniculées lâches, multiflores; axes glabres ou un peu pubescents. Pédicelles de 6-14 mm. Lobes du calice effilés, longs de 4-5 mm, très finement pubescents. Tube de la corolle glabre, long de 10-13 mm; lobes de 10-12 × 2 mm, à apex apiculé aigu. Anthères de 2-3 mm, basifixes; filet près de deux fois plus long que l'anthère. Style d'env. 3 cm de longueur, glabre, à massue brève, subcapitée de 1-1,5 × 0,7 mm. Ovaire de 1,5-2 × 1,2 mm. Placentas triovulés.
-
-Fruit dépassant 10 mm de diam.
+Fruit exceeding 10 mm in diameter.
 
 ## Type
 
@@ -36,9 +37,7 @@ Dewèvre 1080 (BR!). Voisine de T. bipindensis, cette espèce nous paraît cepen
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Gabon, Moyen-Congo (Bouquet 919) et cuvette congolaise jusqu'à Yangambi (J. Louis 4122).
+Gabon, Middle Congo (Bouquet 919) and Congo basin up to Yangambi (J. Louis 4122).
 
 ## Specimens examined
 

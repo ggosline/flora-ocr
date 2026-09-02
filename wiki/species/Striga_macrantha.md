@@ -7,6 +7,12 @@ family: Scrophulariaceae
 vol: 48
 pages: 137-137
 source: sources/Scrophulariaceae_vol48_liteparse
+countries: [Angola, Cameroon, Central African Republic, Chad, Democratic Republic of the Congo, Gabon, Guinea, Guinea-Bissau, Liberia, Mali, Nigeria, Senegal, Sierra Leone, Sudan, Zambia]
+in_region: true
+subdivisions:
+  Gabon: [Ngounié]
+habit: "herb"
+altitude_m: "260"
 tags: [species, generated]
 ---
 # *Striga macrantha* (Benth.) Benth. Planche 43(C–E)
@@ -16,21 +22,15 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-in DC., Prodr. 10 : 503 (1846). Herbe pérenne, 50–100(–150) cm de hauteur, densément rugueuse par des poils raides et courbés ; tige dressée, quadrangulaire, simple ou peu ramifiée, rameaux surtout en dessous de l’inflorescence. Feuilles opposées, sessiles ; limbe étroitement triangulaireovale à ovale, (20–)50–100 × 3–12(–15) mm, acuminé au sommet, à marge irrégulièrement dentée . Inflorescence en épi très dense, subcapité . Fleur sessile ou subsessile ; bractéoles triangulaires-ovales 4–7 × 1,2–1,8 mm ; calice à 10 crêtes (nervures) , 7–8,5 mm de longueur, dents triangulaires, 3 mm de longueur, aiguës ; corolle blanche, à gorge jaune, tube 10–15(–20) mm de longueur, courbé près du limbe , lèvre supérieure émarginée, lèvre inférieure tripartite, à lobes arrondis de 6–9 mm de longueur. Fruit ovoïde, 6–8 × 2,5–4 mm.
+in DC., Prodr. 10 : 503 (1846). Perennial herb, 50–100(–150) cm tall, densely rough with stiff and curved hairs; stem erect, quadrangular, simple or little branched, branches mainly below the inflorescence. Leaves opposite, sessile; blade narrowly triangular-oval to oval, (20–)50–100 × 3–12(–15) mm, acuminate at apex, with irregularly dentate margin. Inflorescence in very dense, subcapitate spike. Flower sessile or subsessile; bracteoles triangular-oval 4–7 × 1.2–1.8 mm; calyx with 10 ridges (nerves), 7–8.5 mm long, teeth triangular, 3 mm long, acute; corolla white, with yellow throat, tube 10–15(–20) mm long, curved near the limb, upper lip emarginate, lower lip tripartite, with rounded lobes 6–9 mm long. Fruit ovoid, 6–8 × 2.5–4 mm.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Sénégal, Guinée-Bissau, Guinée-Conakry, Liberia, Sierra Leone, Mali, Tchad, Nigéria, Cameroun, République centrafricaine, Gabon, République démocratique du Congo, Soudan, Zambie et Angola ; au Gabon, observée dans la Ngounié
+Senegal, Guinea-Bissau, Guinea-Conakry, Liberia, Sierra Leone, Mali, Chad, Nigeria, Cameroon, Central African Republic, Gabon, Democratic Republic of the Congo, Sudan, Zambia and Angola; in Gabon, observed in the Ngounié
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-savanes ; au Gabon, à 260 m d’altitude, en République démocratique du Congo (Katanga), jusqu’à 1200 m. Note taxonomique : Signalée ici pour la première fois au Gabon. B : Mielcarek (1996), Mohamed et al. (2001), Musselman & Hepper (1986), ibliographie Philcox (1990)
+savannas; in Gabon, at 260 m elevation, in the Democratic Republic of the Congo (Katanga), up to 1200 m. Taxonomic note: Recorded here for the first time in Gabon. B: Mielcarek (1996), Mohamed et al. (2001), Musselman & Hepper (1986), Bibliography Philcox (1990)
 
 ## Notes
 

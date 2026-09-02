@@ -7,6 +7,8 @@ family: Combretaceae
 vol: 35
 pages: 60-61
 source: sources/Combretaceae_vol35_paddle
+countries: [Cameroon, Gabon, Nigeria]
+in_region: true
 tags: [species, generated]
 ---
 # *Combretum mannii* Engler & Diels

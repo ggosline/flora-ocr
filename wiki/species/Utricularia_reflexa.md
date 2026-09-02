@@ -7,6 +7,12 @@ family: Lentibulariaceae
 vol: 54
 pages: 115-117
 source: sources/Lentibulariaceae_vol54_liteparse
+countries: [Angola, Burundi, Cameroon, Cote d'Ivoire, Democratic Republic of the Congo, Gabon, Ghana, Kenya, Madagascar, Malawi, Mali, Mozambique, Nigeria, Senegal, Sierra Leone, Sudan, Tanzania, Togo, Uganda, Zambia, Zimbabwe]
+in_region: true
+subdivisions:
+  Gabon: [Ngounié, Nyanga]
+habit: "herb"
+altitude_m: "125"
 tags: [species, generated]
 ---
 # *Utricularia reflexa* Oliv. Planche 40, Figure 13
@@ -17,23 +23,15 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Herbe aquatique , glabre ou ± densément munie de poils simples ou étoilés sur les stolons, parties inférieures des feuilles, pédoncules et utricules ; stolons filiformes à relativement épais et charnus, atteignant 50 cm ou plus de longueur et 0,3–3 mm d’épaisseur ; entre-nœuds de 2–10(–15) mm ; rhizoïdes absents mais parfois 2 ou 3 à la base de la hampe florale, capillaires, 3–5 mm de longueur. Feuilles très nombreuses, digitées-divisées jusqu’à leur base en 2 à 5 divisions primaires, celles-ci à contour ovale, 3–30 mm de longueur, plusieurs fois bifurquées pseudodichotomiquement ; divisions ultimes capillaires, sétuleuses. Flotteurs renflés ab sents . Utricules insérés à l’aisselle des divisions primaires et des dichotomies ultérieures , très variables en nombre et en dimensions, courtement stipités, ovoïdes, 1–6 mm de longueur ; orifice latéral, à lèvre supérieure pourvue de 2 poils simples à abondamment ramifiés, à lèvre inférieure nue ou pourvue de courts poils simples. Inflorescence latérale, dressée à rarement volubile, 1,5–18 cm de longueur, avec l à 3(–4) fleurs ; pédoncule filiforme ; fleurs espacées, les inférieures parfois très proches de la base du pédoncule ; bractées basifixes, carrées ou or biculaires, 1–3 mm de longueur, entourant ± la base du pédicelle. Fleur : bractéoles absentes ; pédicelle filiforme, dressé à l’anthèse, fortement réfléchi ou recourbé à maturité, 2–35 mm ; calice à lobes subégaux, largement ovales, 1–2 mm de longueur, arrondis ou obtus au sommet, à peine accrescents ; corolle 3–15 mm de longueur, jaune pâle à très foncé, avec des nervures brunes ou rougeâtres , ± densément couverte à l’extérieur de poils courts très fins, rarement glabre, lèvre supérieure largement ovale à orbiculaire, 1,5–3 fois plus longue que le lobe supérieur du calice, tronquée ou arrondie et entière ou émarginée au sommet, lèvre inférieure orbiculaire à subréniforme, ± émarginée ou bilobée au sommet, palais saillant et pourvu de 2 bosses, éperon cylindrique égalant ± la lèvre inférieure. Fruit globuleux, 3–4 mm de largeur, souvent étroitement ailé sur les angles. Graine à testa réticulé, à cellules distinctes, isodiamétrales ou ± allongées .
-
-Taylor 9236 ; 5 : Matton 1 ; 6, 7 : Milne-Redhead & Taylor 9210a ; 8 : Milne-Redhead & Taylor 10882 ; 9, 10, 13, 14 : Milne-Redhead & Taylor 8066a ; 12, 16 : Schmitz 3923 ; 15 : Hepper 1626 ; 17 : Thorold 2009 ; 18, 19 : Milne-Redhead & Taylor 9236a ). Dessin par P. Taylor, Royal Botanic Gardens, Kew (©), reproduit avec permission à partir de Taylor (1989).
+Aquatic herb, glabrous or ± densely furnished with simple or stellate hairs on the stolons, lower parts of leaves, peduncles and utricles; stolons filiform to relatively thick and fleshy, reaching 50 cm or more in length and 0.3–3 mm in thickness; internodes 2–10(–15) mm; rhizoids absent but occasionally 2 or 3 at the base of the flowering scape, capillary, 3–5 mm in length. Leaves very numerous, digitately divided to their base into 2 to 5 primary divisions, these with oval outline, 3–30 mm in length, several times bifurcated pseudodichotomously; ultimate divisions capillary, setulous. Floats absent. Utricles inserted at the axil of the primary divisions and subsequent dichotomies, highly variable in number and size, shortly stipitate, ovoid, 1–6 mm in length; lateral orifice, with upper lip provided with 2 simple to abundantly branched hairs, with lower lip naked or provided with short simple hairs. Inflorescence lateral, erect to rarely volubile, 1.5–18 cm in length, with 1 to 3(–4) flowers; peduncle filiform; flowers spaced, the lower ones sometimes very close to the base of the peduncle; bracts basifixed, square or orbicular, 1–3 mm in length, surrounding ± the base of the pedicel. Flower: bracteoles absent; pedicel filiform, erect at anthesis, strongly reflexed or curved at maturity, 2–35 mm; calyx with subequal lobes, broadly oval, 1–2 mm in length, rounded or obtuse at the apex, scarcely accrescent; corolla 3–15 mm in length, pale yellow to very dark, with brown or reddish veins, ± densely covered on the outside with short very fine hairs, rarely glabrous, upper lip broadly oval to orbicular, 1.5–3 times longer than the upper lobe of the calyx, truncate or rounded and entire or emarginate at the apex, lower lip orbicular to subreniform, ± emarginate or bilobed at the apex, palate prominent and provided with 2 bosses, spur cylindric equalling ± the lower lip. Fruit globular, 3–4 mm in width, often narrowly winged on the angles. Seed with reticulate testa, with distinct cells, isodimetral or ± elongate.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Sénégal, Mali, Sierra Leone, Côte d’Ivoire, Ghana, Togo, Nigéria, Cameroun, Gabon, Ré publique démocratique du Congo, Burundi, Soudan, Éthiopie, Ouganda, Kenya, Tanzanie, Zambie, Mo zambique, Malawi, Zimbabwe, Angola, Namibie, Afrique du Sud (Transvaal et Natal) et Madagascar ; aussi en Inde (Madhya Pradesh) ; au Gabon, observé dans la Ngounié et la Nyanga
+Senegal, Mali, Sierra Leone, Côte d'Ivoire, Ghana, Togo, Nigeria, Cameroon, Gabon, Democratic Republic of the Congo, Burundi, Sudan, Ethiopia, Uganda, Kenya, Tanzania, Zambia, Mozambique, Malawi, Zimbabwe, Angola, Namibia, South Africa (Transvaal and Natal) and Madagascar; also in India (Madhya Pradesh); in Gabon, observed in the Ngounié and Nyanga
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-eaux stagnantes ou à courant lent dans les mares et les marais ; au Gabon jusqu’à 125 m d’altitude, en Afrique de l’Ouest et de l’Est surtout entre 0 et 2400 m. B : Taylor (1964, 1972, 1989). i B liographie
+stagnant or slow-flowing waters in pools and marshes; in Gabon up to 125 m altitude, in West and East Africa mainly between 0 and 2400 m. B: Taylor (1964, 1972, 1989). Bibliography
 
 ## Notes
 

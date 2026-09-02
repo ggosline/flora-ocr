@@ -7,6 +7,12 @@ family: Dracaenaceae
 vol: 54
 pages: 31-34
 source: sources/Dracaenaceae_vol54_liteparse
+countries: [Benin, Cameroon, Central African Republic, Cote d'Ivoire, Democratic Republic of the Congo, Gabon, Ghana, Guinea, Nigeria, Republic of the Congo, Togo]
+in_region: true
+subdivisions:
+  Gabon: [Ogooué-Ivindo, Ogooué-Lolo, Woleu-Ntem]
+habit: "shrub"
+altitude_m: "200–700"
 tags: [species, generated]
 ---
 # *Dracaena congoensis* Hua Planche 10

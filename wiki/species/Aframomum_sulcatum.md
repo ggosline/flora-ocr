@@ -4,11 +4,8 @@ name: Aframomum sulcatum
 authority: (Oliv. et Hanb.) K. Schum.
 genus: Aframomum
 family: Zingiberaceae
-countries: [Gabon]
-countries_incomplete: true
-in_region: true
-habit: rhizomatous herb
 treatments: [{vol: 9, pages: "62–63", source: sources/Zingiberaceae_vol9_paddle}]
+habit: "herb"
 tags: [species]
 ---
 # *Aframomum sulcatum* (Oliv. et Hanb.) K. Schum.

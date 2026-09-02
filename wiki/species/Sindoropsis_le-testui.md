@@ -7,6 +7,10 @@ family: Leguminosae
 vol: 15
 pages: 172-175
 source: sources/Leguminosae_vol15_paddle
+countries: [Gabon]
+in_region: true
+habit: "tree"
+habitat: [primary forest, coastal]
 tags: [species, generated]
 ---
 # *Sindoropsis le-* Testui (Pellegr.) Léonard
@@ -22,13 +26,11 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Resiniferous trees. Leaves with 9–11 alternate leaflets, elliptic or ovate or oblong, with acuminate apex, with rounded or obtuse base, glabrous, 4.5–5.5 × 2.5 cm. Rachis 8–10 cm. Petiolules 4 mm. Numerous parallel lateral nerves, generally extending to the marginal nerve, clearly visible on both surfaces. Lamina with translucent dots. One marginal gland near the petiole, one apical gland at the end of the main nerve, below.
 
-Arbres résinfères. Feuilles à 9-11 folioles alternes, elliptiques ou ovées ou oblongues, à sommet acuminé, à base arrondie ou obtuse, glabres, de 4,5-5,5 × 2,5 cm. Rachis de 8-10 cm. Pétio-lules 4 mm. Nombreuses nervures latérales parallèles, généra-lement tracées jusqu'à la nervure marginale, bien visibles sur les 2 faces. Limbe à points translucides. Une glande marginale près du pétioule, une glande apicale à l'extrémité de la nervure principale, en dessous.
+Axillary racemes, 8–10 cm long, faun-hairy. Flowers distichous. Large hairy bracts, 7 mm, quickly caducous. Pedicels 5–7 mm, hairy, articulate at the base. Bracteoles 2, lanceolate acute, 2 mm. Flowers white. Sepals 4; 3 oblong lanceolate, hairy on both surfaces, 7 × 2.5 mm, the 4th obtuse, 5 mm long. Petal 1, minute in the bud, but developed in the open flower, elliptic, unguiculate, glabrous, caducous. Stamens 10, alternately long and short. Ovary shortly stipitate, inserted at the base of the receptacle, hairy on the margins. (5–) 6 (–7) ovules.
 
-Grappes axillaires, longues de 8-10 cm, velues fauve. Fleurs distiques. Grandes bractées velues, de 7 mm, rapidement caduques. Pédicelles de 5-7 mm, velus, articulés à la base. Bractéoles 2, lancéolées aiguës, de 2 mm. Fleurs blanches. Sépales 4; 3 oblongs lancéolés, velus sur les 2 faces, de 7 × 2,5 mm, le 4° obtus, long de 5 mm. Pétale 1, minuscule dans le bouton, mais développé dans la fleur épanouie, elliptique, onguiculé, glabre, caduc. Étamines 10, alternativement longues et courtes. Ovaire cour- tement stipité, inséré au fond du réceptacle, velu sur les marges. (5-) 6 (-7) ovules.
-
-Gousses oblongues lancéolées, plates, terminées par une longue pointe, brièvement stipitées, glabres, lisses, s'ouvrant en 2 valves minces, coriaces, sans nervures saillantes, de 7-10 × 2,5-4 cm. Graines 1-2, oblongues, épaisses.
+Legumes oblong lanceolate, flat, terminated by a long point, briefly stipitate, glabrous, smooth, opening in 2 thin, coriaceous valves, without prominent nerves, 7–10 × 2.5–4 cm. Seeds 1–2, oblong, thick.
 
 ## Vernacular names
 
@@ -42,11 +44,9 @@ Le Testu 2189, Gabon (P)
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Large tree with tall, straight, cylindrical trunk furnished with thick buttresses, with rounded ridges, or base simply thickened. Bark smooth, superficially fissured vertically, with fibrous fracture, ochre. When cut it slowly exudes a small quantity of black fragrant resin. Wood brown with copper reflections, half-hard and half-heavy.
 
-Grand arbre à tronc élevé, droit, cylindrique muni de contreforts épais, à crêtes arrondies, ou base simplement épaissie. Écorce lisse, superficiellement fendillée verticalement, à tranche fibreuse, ocre. Entaillée elle exsude lentement une petite quantité de résine noire et parfumée. Bois brun à reflets cuivrés, mi dur et mi lourd.
-
-Cet arbre exclusivement gabonais ressemble au Sindora africana, mais les aires sont distinctes; ce dernier est exclusivement côtier, le Ghéombi se trouve à l'intérieur du Gabon. De Saint-Aubin indique qu'il est parfois très abondant dans la forêt primitive des Monts de Cristal et des Monts Tandous. Ailleurs il est disséminé.
+This tree exclusively Gabonese resembles Sindora africana, but their ranges are distinct; the latter is exclusively coastal, the Ghéombi is found in the interior of Gabon. De Saint-Aubin indicates that it is sometimes very abundant in the primary forest of the Crystal Mountains and the Tandou Mountains. Elsewhere it is scattered.
 
 ## Specimens examined
 
@@ -56,7 +56,7 @@ Chevalier : 34818, Sindara (fr. mars). de Saint-Aubin : 1983, haut Remboué (j. 
 
 ![Sindoropsis le-](../sources/Leguminosae_vol15_paddle/figures/fig_039_p0174.png)
 
-*PL. XXXIX. — Sindoropsis Le Testui (Pellegrin) Léonard : 1, feuille × 2/3; 2, glande à l'extrémité de la foliole; 3, bourgeons floraux × 2/3; 4, inflorescence × 2/3; 5, fleur × 2; 6, sépales (face ext.) × 4; 7, pétale × 4; 8, coupe de la fleur × 2; 9, fruit × 2/3.*
+*PL. XXXIX. — Sindoropsis Le Testui (Pellegrin) Léonard : 1, leaf × 2/3; 2, gland at the tip of the leaflet; 3, floral buds × 2/3; 4, inflorescence × 2/3; 5, flower × 2; 6, sepals (outer surface) × 4; 7, petal × 4; 8, section of the flower × 2; 9, fruit × 2/3.*
 
 ## Notes
 

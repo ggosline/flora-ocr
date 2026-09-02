@@ -7,6 +7,8 @@ family: Celastraceae
 vol: 29
 pages: 253-255
 source: sources/Celastraceae_vol29_paddle
+countries: [Cameroon, Cote d'Ivoire, Gabon, Ghana, Liberia, Nigeria, Sierra Leone]
+in_region: true
 tags: [species, generated]
 ---
 # *Loeseneriella iotricha* (Loesener) Hallé

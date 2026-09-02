@@ -7,6 +7,7 @@ family: Amaranthaceae
 vol: 07
 pages: 31-32
 source: sources/Amaranthaceae_vol07_paddle
+habit: "herb"
 tags: [species, generated]
 ---
 # *Amaranthus hybridus* L.

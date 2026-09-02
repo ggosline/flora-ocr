@@ -7,6 +7,13 @@ family: Piperaceae
 vol: 50
 pages: 71-71
 source: sources/Piperaceae_vol50_liteparse
+countries: [Gabon, Madagascar]
+in_region: true
+subdivisions:
+  Gabon: [Estuaire, Ngounié, Nyanga, Ogooué-Ivindo, Ogooué-Lolo, Ogooué-Maritime, Woleu-Ntem]
+habit: "herb"
+habitat: [riverine]
+altitude_m: "125–790"
 tags: [species, generated]
 ---
 # *Peperomia bangroana* C.DC. Planche 26.3

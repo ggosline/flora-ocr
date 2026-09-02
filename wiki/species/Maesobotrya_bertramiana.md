@@ -7,6 +7,13 @@ family: Phyllanthaceae
 vol: 43
 pages: 42-44
 source: sources/Phyllanthaceae_vol43_liteparse
+countries: [Cameroon, Democratic Republic of the Congo, Gabon, Republic of the Congo]
+in_region: true
+subdivisions:
+  Gabon: [Ngounié, Nyanga, Ogooué-Ivindo, Ogooué-Lolo, Ogooué-Maritime]
+habit: "tree"
+habitat: [secondary forest]
+altitude_m: "0–650"
 tags: [species, generated]
 ---
 # *Maesobotrya bertramiana* Büttner Planche 11

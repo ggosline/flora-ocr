@@ -7,6 +7,12 @@ family: Cyperaceae
 vol: 44
 pages: 146-148
 source: sources/Cyperaceae_vol44_liteparse
+countries: [Gabon]
+in_region: true
+subdivisions:
+  Gabon: [Estuaire, Moyen-Ogooué, Nyanga, Ogooué-Ivindo, Ogooué-Maritime]
+habit: "herb"
+altitude_m: "0–300"
 tags: [species, generated]
 ---
 # *Fimbristylis littoralis* Gaudich. Planche 95, Figure 11b

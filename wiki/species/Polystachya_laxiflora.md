@@ -7,6 +7,10 @@ family: Orchidaceae
 vol: 37
 pages: 37-39
 source: sources/Orchidaceae_vol37_paddle
+countries: [Cameroon, Cote d'Ivoire, Democratic Republic of the Congo, Equatorial Guinea, Gabon, Ghana, Guinea, Liberia, Nigeria, Sierra Leone, Zambia]
+in_region: true
+habitat: [savanna, rocky ground]
+altitude_m: "20"
 tags: [species, generated]
 ---
 # *Polystachya laxiflora* Lindl.

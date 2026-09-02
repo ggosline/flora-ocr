@@ -7,6 +7,12 @@ family: Orchidaceae
 vol: 36
 pages: 22-23
 source: sources/Orchidaceae_vol36_paddle
+countries: [Angola, Gabon, Madagascar, Tanzania]
+in_region: true
+subdivisions:
+  Gabon: [Haut-Ogooué]
+habit: "herb"
+habitat: [savanna]
 tags: [species, generated]
 ---
 # *Brachycorythis pleistophylla* Rchb.f.
@@ -57,7 +63,7 @@ It is distinguished from the typical variety by its lip broader than long and it
 
 ![Brachycorythis pleistophylla](../sources/Orchidaceae_vol36_paddle/figures/fig_005_p0024.png)
 
-*PL. 5. – Brachycorythis pleistophylla Rchb.f. var. leopoldii (Kraenzl.) Geerinck: A, fleur (et bractée), sépales et pétales supprimés ; B, labelle étalé ; C, sépale latéral ; D, pétale ; E, sépale dorsal (A-E, Le Testu 1665, P).*
+*PL. 5. – Brachycorythis pleistophylla Rchb.f. var. leopoldii (Kraenzl.) Geerinck: A, flower (and bract), sepals and petals removed ; B, labellum spread ; C, lateral sepal ; D, petal ; E, dorsal sepal (A-E, Le Testu 1665, P).*
 
 ## Notes
 

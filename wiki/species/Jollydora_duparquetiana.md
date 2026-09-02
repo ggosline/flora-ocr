@@ -7,6 +7,8 @@ family: Connaraceae
 vol: 33
 pages: 93-97
 source: sources/Connaraceae_vol33_paddle
+countries: [Angola, Nigeria]
+in_region: true
 tags: [species, generated]
 ---
 # *Jollydora duparquetiana* (Baillon) Pierre

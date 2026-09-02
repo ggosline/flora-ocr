@@ -7,6 +7,7 @@ family: Gramineae
 vol: 05
 pages: 83-86
 source: sources/Gramineae_vol05_paddle
+habit: "herb"
 tags: [species, generated]
 ---
 # *Setaria megaphylla* (Steud.) Durand et Schinz.
@@ -26,17 +27,13 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Robust perennial herb, reaching several meters in height, culms exceeding 1 cm in diameter at the base. Leaves with striated sheaths, more or less persistent at the base and pubescent, with tubercle-based hairs at the base. Ciliate ligule, linear-lanceolate blades, gradually attenuated at both ends, up to 1 m long and 8 or 9 cm wide, generally glabrous, strongly plicate.
 
-Herbe pérenne très robuste, atteignant plusieurs mètres de haut, chaumes dépassant 1 cm de diamètre à la base. Feuilles à gaines striées, plus ou moins persistantes à la base et pubescentes, à poils tuberculés à la base. Ligule ciliée, limbes linéaires-lancéolés, progressivement atténués aux deux extrémités, jusqu'à 1 m de long et 8 ou 9 cm de large, généralement glabres, fortement plissés.
+Inflorescence elongated, in a narrow panicle reaching approximately 60 cm long and 15 cm in diameter, branches spaced at the base, then progressively closer together; secondary branches solitary or more or less fasciculate, the lower ones reaching up to about twenty cm long; tertiary branchlets of a few centimeters bearing either spikelets directly or small racemes of 2 to 5 spikelets.
 
-Inflorescence allongée, en panicule étroite atteignant env. 60 cm de long et 15 cm de diamètre, ramifications espacées
+Spikelets oblong-lanceolate, 3 mm long, lower glume obtuse, with 3 nerves, half as long as the spikelet, the upper one with 5 nerves, somewhat shorter than the spikelet. Lower floret sterile, lemma with 5 nerves, elliptic, acuminate, palea often reduced. Upper floret oblong, acuminate, brown at maturity, glumels coriaceous, smooth or scarcely rugose.
 
-à la base, puis de plus en plus rapprochées; branches secondaires solitaires ou plus ou moins fasciculées, les inférieures pouvant atteindre une vingtaine de cm de long; ramifications tertiaires de quelques centimètres portant soit directement des épillets, soit des petites racèmes de 2 à 5 épillets.
-
-Épillets oblongs lancéolés, de 3 mm de long, glume inférieure obtuse, à 3 nervures, moitié aussi longue que l'épillet, la supérieure à 5 nervures, un peu moins longue que l'épillet. Fleur inférieure neutre, lemma à 5 nervures, elliptique, acuminée, paléa souvent réduite. Fleur supérieure oblongue, acuminée, brune à maturité, glumelles coriaces, lisses ou à peine rugueuses.
-
-Herbe fréquente en forêt, dans les jachères, en lisière ou sur le bord des routes où elle forme parfois des peuplements denses. Peu ou pas appétée par les bovins. Banale dans toutes les zones forestières humides de l'Afrique tropicale.
+Herb frequent in forest, in fallows, at forest edges or along roadsides where it sometimes forms dense stands. Little or not grazed by cattle. Common in all humid forest zones of tropical Africa.
 
 ## Vernacular names
 
@@ -44,9 +41,7 @@ Digangani (Eshira); Digangaye (Masango); Ekoc (Fang); Ekoko-koko (Mitsogo); Igog
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Noms relevés par Walker et Sillans : Igogo (Mpongwé, Galoa); Igogozo (Nkomi, Orungu); Ekoc (Fang); Ekolo-koko (Mitsogo); Ikokwé (Benga); Ekokolo (Ivéa); Kokolo (Apindji); Kokolo-kokolo (Bavové); Kokilani, Ngokulani, Djokunó (Béséki); Linguku (Baduma); Anguku, Legogo (Mindumu); Kisósó (Bavili); Digangéni (Echira, Bavarama, Bavungu, Bapunu); Digangaya (Masango, Ngové); Digangayu (Balumbu); Légagétsa (Banzabi); Kanganyi (Loango); Nkaènka (Bakélé); Nkombé-kombé (Bakota).
+Names recorded by Walker and Sillans: Igogo (Mpongwé, Galoa); Igogozo (Nkomi, Orungu); Ekoc (Fang); Ekolo-koko (Mitsogo); Ikokwé (Benga); Ekokolo (Ivéa); Kokolo (Apindji); Kokolo-kokolo (Bavové); Kokilani, Ngokulani, Djokunó (Béséki); Linguku (Baduma); Anguku, Legogo (Mindumu); Kisósó (Bavili); Digangéni (Echira, Bavarama, Bavungu, Bapunu); Digangaya (Masango, Ngové); Digangayu (Balumbu); Légagétsa (Banzabi); Kanganyi (Loango); Nkaènka (Bakélé); Nkombé-kombé (Bakota).
 
 ## Specimens examined
 
@@ -82,7 +77,7 @@ Une étude plus générale serait nécessaire pour déterminer la délimitation 
 
 ![Setaria megaphylla](../sources/Gramineae_vol05_paddle/figures/fig_014_p0085.png)
 
-*PL. XIII. — Setaria megaphylla (Steud.) Dur. et Schinz. (Dybowski, 130) : 1, partie d'inflorescence et feuille; 2, détail d'un fragment d'inflorescence; 3, épillet vu de profil, long de 2,5 à 3 mm sans la soie; 4, épillet, vu du côté de la glume inférieure; 5, fleur fertile, dos de la lemma.*
+*PL. XIII. — Setaria megaphylla (Steud.) Dur. et Schinz. (Dybowski, 130) : 1, part of inflorescence and leaf; 2, detail of a fragment of inflorescence; 3, spikelet seen in profile, 2,5 to 3 mm long without the bristle; 4, spikelet, seen from the side of the lower glume; 5, fertile flower, back of the lemma.*
 
 ## Notes
 

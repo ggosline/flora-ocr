@@ -7,6 +7,7 @@ family: Bignoniaceae
 vol: 27
 pages: 51-53
 source: sources/Bignoniaceae_vol27_paddle
+habit: "tree"
 tags: [species, generated]
 ---
 # *Jacaranda mimosifolia* D. Don

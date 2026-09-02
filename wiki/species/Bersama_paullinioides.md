@@ -5,11 +5,10 @@ authority: (Planch.) Baker
 genus: Bersama
 family: Melianthaceae
 synonyms: [Natalia paullinioides Planch.]
-countries: [Sierra Leone, Gabon]
-countries_incomplete: true
-in_region: true
-habit: small tree
 treatments: [{vol: 4, pages: "8–9", source: sources/Melianthaceae_vol4_paddle}]
+countries: [Gabon]
+in_region: true
+habit: "tree"
 tags: [species]
 ---
 

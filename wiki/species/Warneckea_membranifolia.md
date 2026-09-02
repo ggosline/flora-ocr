@@ -7,6 +7,9 @@ family: Melastomataceae
 vol: 25
 pages: 160-162
 source: sources/Melastomataceae_vol25_paddle
+countries: [Cote d'Ivoire, Democratic Republic of the Congo]
+in_region: true
+habit: "shrub"
 tags: [species, generated]
 ---
 # *Warneckea membranifolia* (Hooker f.) Jacques-Félix
@@ -17,17 +20,13 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Adansonia, ser. 2, 18 (2): 232 (1978); Fl. Cam. 24: 172 (1983). — Memecylon membranifolium Hook. f., FTA 2: 462 (1871).
 
-Adansonia, sér. 2, 18 (2) : 232 (1978); Fl. Cam. 24 : 172 (1983). — Memecylon membranifolium Hook. f., FTA 2 : 462 (1871).
+Shrub 2 to 3 m, sometimes sarmentose; branchlets ± 4-angular. Leaves varying from membranaceous to subcoriaceous, discolorous, glossy and dark above, pale and dull beneath; petiole 2 to 4 mm; blade elliptic-acuminate, from 4–5 × 8–12 cm to 7 × 18 cm, cuneate on the petiole; acumen 0.5 to 1 cm, oblong, obtuse and often mucronate; primary veins impressed above, salient beneath; the convergent ones at an acute angle at the base with the median vein, the additional ones barely visible, arcuate; the transverse ones slightly oblique, finely salient on both faces; the intercalary ones parallel and reticulate, more visible above (when dry).
 
-Arbuste de 2 à 3 m, parfois sarmenteux; rameaux ± 4-angulaires. Feuilles variant de membraneuses à subcoriaces, discolores, brillantes et
+One to 2 axillary glomerules, sessile or on a stipe of 2 mm; no more than 0.5 cm total length, grouping 2 to 6 flowers; bracts 1 to 2 mm, long-persistent. Flower sessile or with a pedicel of 2 mm; style often salient beyond the floral bud; hypanthium-calyx cupulate-campanulate, 2.5 × 2.5 mm; calyx lobes triangular-obtuse, 1.5 × 1 mm, fleshy. Petals elliptic, 2 × 2.5 mm, claw not well defined. Stamens with anther 1 × 0.5 mm, thecae short; connective conical, moderately saddle-shaped, elliptic gland; filament 3 mm; style 4 mm; ovary locule 6-ovulate.
 
-foncées dessus, pâles et ternes dessous; pétiole de 2 à 4 mm; limbe elliptique-acuminé, de 4-5 × 8-12 cm à 7 × 18 cm, cunéé sur le pétiole; acumen 0,5 à 1 cm, oblong, obtus et souvent mucronulé; nervures principales imprimées dessus, saillantes dessous; les convergentes en angle aigu à la base avec la médiane, les additionnelles peu visibles, coarquées; les transversales peu obliques, finement saillantes sur les 2 faces; les intercalaires parallèles et réticulées, plus visibles dessus (sur le sec).
-
-De 1 à 2 glomérules axillaires, sessiles ou sur stipe de 2 mm; pas plus de 0,5 cm de longueur totale, groupant de 2 à 6 fleurs; bractées de 1 à 2 mm, longtemps persistantes. Fleur sessile ou avec pédicelle de 2 mm; style souvent saillant hors du bouton floral; hypantho-calice cupulo-campanulé, 2,5 × 2,5 mm; lobes du calice triangulaires-obtus, 1,5 × 1 mm, charnus. Pétales elliptiques, 2 × 2,5 mm, onglet peu précis. Étamines à anthère de 1 × 0,5 mm, thèques courtes; connectif conique, modérément ensellé, glande elliptique; filet 3 mm; style 4 mm; loge ovarienne 6-ovulée.
-
-Fruit elipsoide à subglobuleux ou pyriforme, jusqu'à 10 × 15 mm.
+Fruit ellipsoid to subglobose or pyriform, up to 10 × 15 mm.
 
 ## Type
 
@@ -35,9 +34,7 @@ Mann 191, Fernando Po; Mann 8, Cameroun (iso-, P!)
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Espèce assez imprécise, variable quant aux dimensions et à la texture des feuilles; on la reconnaît à ses floraisons discrètes et ses fruits ellipsoïdes. Répandue en forêt, de la Côte d'Ivoire au Zaïre. KLAINE la cite comme étant une liane.
+Rather imprecise species, variable as to the dimensions and texture of the leaves; it is recognized by its discreet flowering and ellipsoid fruits. Widespread in forest, from Côte d'Ivoire to Zaïre. KLAINE cites it as being a liana.
 
 ## Specimens examined
 
@@ -47,7 +44,7 @@ Klaine 6 (mars); 3493 (mai), Libreville
 
 ![Warneckea membranifolia](../sources/Melastomataceae_vol25_paddle/figures/fig_058_p0161.png)
 
-*PL. 58. — Warneckea floribunda Jacq.-Fél. : 1 & 2, rameau feuillé et cymes sur rameau âgé × 2/3; 3, bouton floral × 6; 4, coupe de la fleur × 6; 5, étamine × 12; 6, pétale × 6 (Le Testu 7710). (Repris d'Adansonia, sér. 2, 19 (3) : tab. 4, 1980).*
+*PL. 58. — Warneckea floribunda Jacq.-Fél. : 1 & 2, leafy branch and cymes on old branch × 2/3; 3, floral bud × 6; 4, section of flower × 6; 5, stamen × 12; 6, petal × 6 (Le Testu 7710). (Reprinted from Adansonia, sér. 2, 19 (3) : tab. 4, 1980).*
 
 ## Notes
 

@@ -7,6 +7,9 @@ family: Zingiberaceae
 vol: 09
 pages: 57-58
 source: sources/Zingiberaceae_vol09_paddle
+countries: [Angola, Central African Republic, Equatorial Guinea, Guinea]
+in_region: true
+habit: "herb"
 tags: [species, generated]
 ---
 # *Aframomum danielli* (Hook. f.) K. Schum.

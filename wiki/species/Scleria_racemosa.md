@@ -7,6 +7,13 @@ family: Cyperaceae
 vol: 44
 pages: 223-224
 source: sources/Cyperaceae_vol44_liteparse
+countries: [Democratic Republic of the Congo, Gabon, Madagascar, Mozambique, Sudan, Zambia, Zimbabwe]
+in_region: true
+subdivisions:
+  Gabon: [Estuaire, Haut-Ogooué, Ogooué-Lolo]
+habit: "herb"
+habitat: [swamp forest]
+altitude_m: "0–500"
 tags: [species, generated]
 ---
 # *Scleria racemosa* Poir. subsp. racemosa Planche 140
@@ -16,23 +23,15 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-in Lam., Encycl. 7 : 6 (1806). Herbe vivace, très robuste, avec un rhizome épais de 4–6 mm, formé à partir de stolons courts ; tige habituellement 1–3 m × 3–8 mm, glabre ou scabre. Feuille : gaine à ailes vertes, à marge scabre ; collet à languette triangulaire épaissie à la marge, souvent pubescente sur les 2 faces ; limbe jusqu’à 60 cm de long et 1–3 cm de large , plié, scabre sur la marge et les nervures. Inflorescence limitée à la partie supérieure de la plante, formée d’une panicule terminale et de 3–6 latérales , toutes sous-tendues par des bractées foliacées ; pédoncules solitaires dans chaque gaine, dressés, pubescent. Épillet mâle long de 5–6 mm , à glumes jaune paille striées de brun rougeâtre et pubescentes. Épillet femelle long de 7–9 mm , à glumes jaune paille ou brun pâle striées de brun rougeâtre foncé et finement poilues surtout sur la marge et près de la nervure centrale. Akène largement ellipsoïde à subglobuleux, 4–5 mm (style et hypogynium exclus) × 3,5–5 mm, lisse, glabre , blanc teinté de brun rosé, sommet souvent conique–arrondi ; base du style quelque peu épaissie, persistant en un appendice brun rougeâtre foncé de forme cylindrique ou conique délimité par une rainure, mais parfois caduc et laissant une fossette ; hypogynium cupuliforme , brun jaunâtre en haut et brun rougeâtre foncé dessous, 3–4
-
-× 4–5 mm, lisse ou ridé, glabre, de texture liégeuse et enveloppant la partie inférieure de l’akène, la marge à rebord densément garni de nombreux poils blanchâtres , brun rougeâtre ou jaunes.
+in Lam., Encycl. 7 : 6 (1806). Perennial herb, very robust, with a thick rhizome 4–6 mm, formed from short stolons; stem usually 1–3 m × 3–8 mm, glabrous or scabrous. Leaf: sheath with green wings, scabrous-margined; collar with thickened triangular ligule, often pubescent on both faces; blade up to 60 cm long and 1–3 cm wide, folded, scabrous on margin and veins. Inflorescence limited to the upper part of the plant, formed of a terminal panicle and 3–6 lateral ones, all subtended by foliaceous bracts; peduncles solitary in each sheath, erect, pubescent. Male spikelet 5–6 mm long, with straw-yellow glumes striped reddish-brown and pubescent. Female spikelet 7–9 mm long, with straw-yellow or pale brown glumes striped dark reddish-brown and finely hairy especially on margin and near central nerve. Achene broadly ellipsoid to subglobose, 4–5 mm (style and hypogynium excluded) × 3.5–5 mm, smooth, glabrous, white tinged rosy-brown, apex often conical-rounded; base of style somewhat thickened, persisting as a dark reddish-brown appendage of cylindrical or conical form delimited by a groove, but sometimes deciduous and leaving a pit; hypogynium cupuliform, yellowish-brown above and dark reddish-brown below, 3–4 × 4–5 mm, smooth or wrinkled, glabrous, corky in texture and enveloping the lower part of the achene, the margin with rim densely furnished with numerous whitish, reddish-brown or yellowish hairs.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Madagascar et Afrique de l’Est, depuis l’Éthiopie et le Soudan jusqu’au Zimbabwe, la Zambie et le Mozambique ; aussi la République Démocratique du Congo et le Gabon ; remplacée en Afrique de l’Ouest par la subsp. depressa (C.B.Clarke) J.Raynal ; rare au Gabon, trouvée dans l’Estuaire, le Haut-Ogooué et l’Ogooué-Lolo (3 récoltes)
+Madagascar and East Africa, from Ethiopia and Sudan to Zimbabwe, Zambia and Mozambique; also Democratic Republic of the Congo and Gabon; replaced in West Africa by subsp. depressa (C.B.Clarke) J.Raynal; rare in Gabon, found in Estuaire, Haut-Ogooué and Ogooué-Lolo (3 collections)
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-forêt marécageuse et près des ruisseaux, en terrain toujours humide et habituellement partiellement ombragé, les tiges poussant souvent à travers les branches des buissons ; au Gabon, à 0–500 m d’altitude, jusqu’à 1200 m en Afrique de l’Est
+swamp forest and near streams, in permanently wet terrain and usually partially shaded, stems often growing through branches of bushes; in Gabon, at 0–500 m altitude, up to 1200 m in East Africa
 
 ## Vernacular names
 

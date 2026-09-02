@@ -7,6 +7,10 @@ family: Apocynaceae
 vol: 59
 pages: 57-57
 source: sources/Apocynaceae_vol59_liteparse
+countries: [Gabon]
+in_region: true
+habit: "liana"
+altitude_m: "100"
 tags: [species, generated]
 ---
 # *Baissea ochrantha* K.Schum. ex Stapf

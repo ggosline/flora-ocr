@@ -7,6 +7,10 @@ family: Scytopetalaceae
 vol: 24
 pages: 178-180
 source: sources/Scytopetalaceae_vol24_paddle
+countries: [Cameroon, Democratic Republic of the Congo, Equatorial Guinea, Gabon]
+in_region: true
+habit: "shrub"
+habitat: [swamp forest]
 tags: [species, generated]
 ---
 # *Rhaptopetalum pachyphyllum* (Gürke) Engler
@@ -51,11 +55,11 @@ Le Testu 8979, Bindjima, 30 km S Oyem (fl., janv.); 9442, Acourenzork (Akoulazor
 
 ![Rhaptopetalum pachyphyllum](../sources/Scytopetalaceae_vol24_paddle/figures/fig_050_p0179.png)
 
-*PL. 50. — Rhaptopetalum pachyphyllum (Gürke) Engl. (Cameroun) : 1, rameu avec fleurs × 4/9; 2, bouton floral × 10/3; 3, coupe long. fl. × 20/3; 4, rameau avec fruits × 2/3; 5, dessous limbe × 16/3. (1-3, 5, Binuyo & Daramola FHI 35577; 4, Letouzey 15158).*
+*PL. 50. — Rhaptopetalum pachyphyllum (Gürke) Engl. (Cameroon) : 1, branch with flowers × 4/9; 2, floral bud × 10/3; 3, long. section fl. × 20/3; 4, branch with fruits × 2/3; 5, lower side of limb × 16/3. (1-3, 5, Binuyo & Daramola FHI 35577; 4, Letouzey 15158).*
 
 ![Rhaptopetalum pachyphyllum](../sources/Scytopetalaceae_vol24_paddle/figures/fig_051_p0181.png)
 
-*PL. 51. — Rhaptopetalum pachyphyllum (Gürke) Engler (Gabon) : 1, rameau feuillé × 2/3; 2, j. infl. × 2/3; 3, calice et gynécée × 4/3; 4, fragment corolle et androcée × 4/3. (Le Testu 8979). (Repris d'Adansonia 1 (1) : tab. 3, 1961).*
+*PL. 51. — Rhaptopetalum pachyphyllum (Gürke) Engler (Gabon) : 1, leafy branch × 2/3; 2, y. infl. × 2/3; 3, calyx and gynoecium × 4/3; 4, corolla fragment and androecium × 4/3. (Le Testu 8979). (Reprinted from Adansonia 1 (1) : tab. 3, 1961).*
 
 ## Notes
 

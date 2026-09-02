@@ -5,11 +5,10 @@ authority: L.
 genus: Achyranthes
 family: Amaranthaceae
 synonyms: []
-countries: [Gabon]
 range_note: "Throughout Africa; typical variety to be sought in Gabon."
-in_region: true
-habit: perennial herb or climber
 treatments: [{vol: 7, pages: "37–40", source: sources/Amaranthaceae_vol7_paddle}]
+countries: [Gabon]
+in_region: true
 tags: [species, occurrence-unconfirmed]
 ---
 

@@ -7,6 +7,9 @@ family: Flacourtiaceae
 vol: 34
 pages: 42-43
 source: sources/Flacourtiaceae_vol34_paddle
+countries: [Angola, Cameroon, Central African Republic, Democratic Republic of the Congo, Gabon]
+in_region: true
+habit: "tree"
 tags: [species, generated]
 ---
 # *Buchnerodendron speciosum* Gürk
@@ -49,7 +52,7 @@ Le Testu 1663, Mayombe bayaka, 1910-1912, j. fr. (P).
 
 ![Buchnerodendron speciosum](../sources/Flacourtiaceae_vol34_paddle/figures/fig_011_p0044.png)
 
-*Pl. 11 – Buchnerodendron speciosum Gürk : 1, feuille, stipules ; 2, boutons floraux ; 3, fleur ; 4, sépale, face externe ; 5, pétale, face interne ; 6, étamines, disposées en 2 rangs, les internes libres et les externes plus grandes et souduées ; 7, vue de face des étamines externes ; 8, étamine interne ; 9, pistil ; 10, fruit. (1. Le Testu 1668 ; 2-9. Le Testu 4590 ; 10. Le Testu 1668).*
+*Pl. 11 – Buchnerodendron speciosum Gürk : 1, leaf, stipules ; 2, floral buds ; 3, flower ; 4, sepal, outer surface ; 5, petal, inner surface ; 6, stamens, arranged in 2 rows, the inner ones free and the outer ones larger and fused ; 7, front view of the outer stamens ; 8, inner stamen ; 9, pistil ; 10, fruit. (1. Le Testu 1668 ; 2-9. Le Testu 4590 ; 10. Le Testu 1668).*
 
 ## Notes
 

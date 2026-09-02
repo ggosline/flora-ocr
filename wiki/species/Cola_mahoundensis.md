@@ -7,6 +7,7 @@ family: Sterculiaceae
 vol: 02
 pages: 62-68
 source: sources/Sterculiaceae_vol02_paddle
+habit: "shrub"
 tags: [species, generated]
 ---
 # *Cola mahoundensis* Pellegrin.
@@ -83,7 +84,7 @@ SOUS-GENRE IV. PSEUDOBICHEA N. Hallé.
 
 ![Cola mahoundensis](../sources/Sterculiaceae_vol02_paddle/figures/fig_011_p0067.png)
 
-*PL. XI. — Cola (s.-g. Alticola) altissima Engl.: 1, feuille; 2, stipule longue de 10 mm; 3, poil du dessous du jeune limbe foliaire, de 0,5 mm de diam.; 4, sommet d'un jeune rameau en pleine croissance; 5, jeunes boutons floraux (Zenker 2907); 6, bouton; 7, fleurs ♀ (Tisserant 2358); 8, fleur ♂; 9 et 10, détails de l'androcée, la couronne mesure 8 mm de diam.*
+*PL. XI. — Cola (s.-g. Alticola) altissima Engl.: 1, leaf; 2, stipule 10 mm long; 3, hair from the lower surface of the young leaf blade, 0,5 mm diam.; 4, apex of a young branch in full growth; 5, young flower buds (Zenker 2907); 6, bud; 7, female flowers (Tisserant 2358); 8, male flower; 9 and 10, details of the androceum, the crown measures 8 mm diam.*
 
 ## Notes
 

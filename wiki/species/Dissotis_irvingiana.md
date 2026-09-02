@@ -7,6 +7,10 @@ family: Melastomataceae
 vol: 25
 pages: 12-14
 source: sources/Melastomataceae_vol25_paddle
+countries: [Gabon]
+in_region: true
+habit: "herb"
+habitat: [rocky ground]
 tags: [species, generated]
 ---
 # *Dissotis irvingiana* Hooker
@@ -39,7 +43,7 @@ Le Testu 8968, rocher Salem près d'Elelem, région d'Oyem; 9118, rocher de Coss
 
 ![Dissotis irvingiana](../sources/Melastomataceae_vol25_paddle/figures/fig_002_p0013.png)
 
-*PL. 2. — Dissotis irvingiana Hook.: 1, aspect général × 2/3; 2, lobe du calice × 4; 3, émergence intersépalaire × 4; 4, bractée × 4; 5, étamine de chacun des verticilles × 6; 6, capsule × 2; 7, graine × 20 (1-5, Le Testu 9118; 6-7, Le Testu 8968).*
+*PL. 2. — Dissotis irvingiana Hook.: 1, general appearance × 2/3; 2, calyx lobe × 4; 3, intersepal emergence × 4; 4, bract × 4; 5, stamen from each of the whorls × 6; 6, capsule × 2; 7, seed × 20 (1-5, Le Testu 9118; 6-7, Le Testu 8968).*
 
 ## Notes
 

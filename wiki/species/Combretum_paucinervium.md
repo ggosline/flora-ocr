@@ -7,6 +7,9 @@ family: Combretaceae
 vol: 35
 pages: 76-77
 source: sources/Combretaceae_vol35_paddle
+countries: [Gabon]
+in_region: true
+habit: "liana"
 tags: [species, generated]
 ---
 # *Combretum paucinervium* Engler & Diels

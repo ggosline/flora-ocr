@@ -17,11 +17,9 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+, and in CAILLIAUD, Voyage à Méroë 4 : 343 (1827). — DE CANDOLLE, Prod. 9 : 17 (1845). — FTA 4 (1) : 532. — BULLOCK & BRUCE, KEW BULL. : 46 (1938), p. p. (excl. syn. S. unguacha var. retusa Chiov., S. lokua A. Rich. and the other syn. cited by LEEUWENBERG for S. madagascariensis Poir.). — A. CHEVALIER, Rev. Bot. Appl. 27 : 360, pl. 15 (1947), p. p. (excl. syn. from preceding literature). — AUBRÉVILLE, Fl. For. Soud.-Guin : 440, pl. 96, 5-7 (1950), p. p. (excl. syn. S. burtoni Bak.). — BRUCE & LEWIS. 1. c. : 270. — FTEA, Loganiaceæ : 25, p. p. only subsp. innocua Del. — FWTA ed. 2, 2 : 496. — LEEUWENBERG, l.c. : 138, fig. 20, phot. 3, map 21. — S. unguacha A. Rich., Voy. Abyss. Bot. Atlas : t. 73 (1847); Tent. Fl. Abyss. 2 : 52 (1851). — FTA 4 (1) : 534.
 
-, et in CAILLIAUD, Voyage à Méroë 4 : 343 (1827). — DE CANDOLLE, Prod. 9 : 17 (1845). — FTA 4 (1) : 532. — BULLOCK & BRUCE, KEW BULL. : 46 (1938), p. p. (excl. syn. S. unguacha var. retusa Chiov., S. lokua A. Rich. et les autres syn. cités par LEEUWENBERG pour S. madagascariensis Poir.). — A. CHEVALIER, Rev. Bot. Appl. 27 : 360, pl. 15 (1947), p. p. (excl. syn. de la littérat. préc.). — AUBRÉVILLE, Fl. For. Soud.-Guin : 440, pl. 96, 5-7 (1950), p. p. (excl. syn. S. burtoni Bak.). — BRUCE & LEWIS. 1. c. : 270. — FTEA, Loganiaceæ : 25, p. p. seulement subsp. innocua Del. — FWTA ed. 2, 2 : 496. — LEEUWENBERG, l.c. : 138, fig. 20, phot. 3, carte 21. — S. unguacha A. Rich., Voy. Abyss. Bot. Atlas : t. 73 (1847); Tent. Fl. Abyss. 2 : 52 (1851). — FTA 4 (1) : 534.
-
-— S. innocua var. pubescens SOLERED. in ENGLER, Bot. Jahrb. 17 : 556 (1893). — comme var. de subsp. innocua, BRUCE & LEWIS, l. c. : 271. — FTEA, Loganiaceae : 26. — FWTA, ed. 2, 2 : 41.
+— S. innocua var. pubescens SOLERED. in ENGLER, Bot. Jahrb. 17 : 556 (1893). — as var. of subsp. innocua, BRUCE & LEWIS, l. c. : 271. — FTEA, Loganiaceae : 26. — FWTA, ed. 2, 2 : 41.
 
 — S. unguacha var. pubescens (SOLERED.) GILG in ENGLER, Bot. Jahrb. 17 : 565 (1893).
 
@@ -29,15 +27,13 @@ tags: [species, generated]
 
 — S. alnifolia BAK., Kew Bull.: 150 (1895). — FTA 4 (1): 532.
 
-Arbuste ou petit arbre souvent très ramifié, atteignant une hauteur de 2-12 (-18) m, à feuilles caduques; tronc de 7-40 cm de diamètre; écorce gris pâle ou parfois gris-brun foncé, lisse, un peu farineuse, se détachant en petites écailles arrondies ou carrées près de la base du tronc; bois dur, jaunâtre; rameaux gris-brun pâle, farineux ou non, lenticellés ou non, non sillonnés, cylindriques; petits rameaux glabres ou pubescents, si lenticellés moins abondamment que les rameaux.
+Shrub or small tree often much-branched, reaching a height of 2–12 (–18) m, with deciduous leaves; trunk 7–40 cm in diameter; bark pale grey or sometimes dark greyish-brown, smooth, somewhat farinose, peeling off in small rounded or square scales near the base of the trunk; wood hard, yellowish; branches pale greyish-brown, farinose or not, lenticellate or not, not furrowed, cylindrical; small branchlets glabrous or pubescent, if lenticellate less abundantly than the branches.
 
-Feuilles à pétiole souvent court, glabre ou pubescent, de 2-7 mm de longueur; limbe opaque, glauque et généralement à nervation réticulée et vert pâle sur les deux faces, coriace ou papyracé, elliptique, étroitement elliptique, obové, ou étroitement obové, de (2-) 4-10 (-20) × (1-) 2-7 (-13,5) cm, arrondi ou, pour les feuilles de rejets, aigu au sommet, cuné ou moins souvent arrondi à la base, glabre ou pubescent sur les deux faces; 1-2 paires de nervures secondaires courbées le long de la marge; nervation tertiaire réticulée et nettement proéminente sur les deux faces.
+Leaves with petiole often short, glabrous or pubescent, 2–7 mm long; blade opaque, glaucous and generally with reticulate venation and pale green on both surfaces, coriaceous or papyraceous, elliptic, narrowly elliptic, obovate, or narrowly obovate, (2–) 4–10 (–20) × (1–) 2–7 (–13.5) cm, rounded or, for leaves of shoots, acute at apex, cuneate or less often rounded at base, glabrous or pubescent on both surfaces; 1–2 pairs of secondary veins curved along the margin; tertiary venation reticulate and clearly prominent on both surfaces.
 
-Inflorescences axillaires ou ramiflores, habituellement plusieurs groupées ensemble, très courtes et presque fasciculées, de 1-1,5 × 1-1,5 cm, pauciflores; pédoncule, rameaux et pédicelles courts ou très courts, pubescents ou presque glabres. Fleurs 4-mères. Sépales vert pâle, libres, ovés, largement ovés ou suborbiculaires, de 1,7-3,5 × 1,5-2,5 mm, arrondis, ciliés, glabres ou pubescents à l'extérieur, glabres à l'intérieur. Corolle, dans le bouton mûr, de (6-) 6,5-9 (-10,5) mm de longueur, crème ou jaune verdâtre, glabre à l'extérieur, à l'intérieur garnie à la gorge, à la base des lobes, d'un anneau ressemblant à une brosse de poils blancs laineux; tube ± cylindrique, 1-1,7 fois plus long que les lobes, de (3-) 3,5-5,5 (-6) mm de longueur; lobes épais, étroitement triangulaires, de 3-4(-4,5) × 1,3-2 (-2,3) mm, aigus, ou subaigus, étalés. Étamines à peine exsertes, insérées à la gorge de la corolle, à filet extrêmement court, glabre; anthère oblongue, glabre. Pistil hirto-pileux au milieu, long de (4)-5-7,5 mm; ovaire étroitement ovoïde ou oblong, de 1,5-3 × 1-1,5 mm, hirto-pileux au sommet, pour le reste glabre, à deux loges; style épais, de (2-) 3-4,5 mm de longueur, à la base poilu comme le sommet de l'ovaire; stigmate capité; (14)-18-30 ovules par loge.
+Inflorescences axillary or ramiflorous, usually several grouped together, very short and almost fascicled, 1–1.5 × 1–1.5 cm, few-flowered; peduncle, branches and pedicels short or very short, pubescent or almost glabrous. Flowers 4-merous. Sepals pale green, free, ovate, broadly ovate or suborbicular, 1.7–3.5 × 1.5–2.5 mm, rounded, ciliate, glabrous or pubescent outside, glabrous inside. Corolla, in mature bud, (6–) 6.5–9 (–10.5) mm long, cream or yellowish-green, glabrous outside, inside furnished at the throat, at the base of the lobes, with a ring-like brush of woolly white hairs; tube ± cylindric, 1–1.7 times longer than the lobes, (3–) 3.5–5.5 (–6) mm long; lobes thick, narrowly triangular, 3–4 (–4.5) × 1.3–2 (–2.3) mm, acute or subacute, spreading. Stamens scarcely exserted, inserted at the throat of the corolla, filament extremely short, glabrous; anther oblong, glabrous. Pistil hirsute-pilose in the middle, (4)–5–7.5 mm long; ovary narrowly ovoid or oblong, 1.5–3 × 1–1.5 mm, hirsute-pilose at apex, glabrous elsewhere, two-locular; style thick, (2–) 3–4.5 mm long, at base hairy like the apex of the ovary; stigma capitate; (14)–18–30 ovules per locule.
 
-Fruits orangés ou jaunes, presque mûrs vert bleuâtre, grands, globuleux,
-
-de (2-5)- 4-7,5 (-9,5) cm de diamètre et contenant (3-) 8-50 graines; paroi épaisse, de 2,5-5 (-6) mm d'épaisseur, cassante pour les fruits mûrs, dure et non cassante à la main lorsque les fruits sont presque mûrs ou desséchés; pulpe orangée, comestible. Graines aplaties ou non, souvent ± plano-convexes, obliquement ovées, elliptiques ou tétraédriques, habituellement irrégulièrement courbées, de 17-21 × 13-20 × 5-8 mm, à poils épais, très courts et érigés assez rugueux. Pl. 32, p. 139.
+Fruits orange or yellow, bluish-green when almost ripe, large, globular, (2–5)–4–7.5 (–9.5) cm in diameter and containing (3–) 8–50 seeds; wall thick, 2.5–5 (–6) mm thick, brittle when fruits are ripe, hard and not brittle in the hand when fruits are almost ripe or desiccated; pulp orange, edible. Seeds flattened or not, often ± plano-convex, obliquely ovate, elliptic or tetrahedral, usually irregularly curved, 17–21 × 13–20 × 5–8 mm, with thick, very short and erect hairs rather rough. Pl. 32, p. 139.
 
 ## Type
 
@@ -45,25 +41,23 @@ Cailliaud s. n., Quamamyl, Ethiopie (non vu, apparemment non conservé); Schimpe
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Tropical Africa. Savannas. Altitude 0–1600 m.
 
-Afrique tropicale. Savanes. Altitude 0-1600 m.
+De Wilde W. 4765, 5 km NE Ndigou, 65 km E Ngaoundéré (fr. almost ripe, Dec.) WAG. Jacques-Félix 3809, between Guidder and Garoua (fl., June).
 
-De Wilde W. 4765, 5 km NE Ndigou, 65 km E Ngaoundéré (fr. presque mûr, déc.) WAG. Jacques-Félix 3809, entre Guidder et Garoua (fl., juin).
+Leeuwenberg 7482, 24 km N Mbé, km 104 Ngaoundéré-Garoua road (fl., fr., Jan.) P, WAG, YA; 7511, 9 km W Mokolo, on Mogodé road (fr., Jan.) P, WAG, YA; 7551, km 5, same road (sterile) P, WAG, YA; 7586, km 20 Garoua-Roumsiki road (fr., Jan.) P, WAG, YA; 7611, km 122 Garoua-Ngaoundéré road, NW angle Bénoué Reserve (fr., Jan.) P, WAG, YA.
 
-Leeuwenberg 7482, 24 km N Mbé, km 104 route Ngaoundéré-Garoua (fl., fr., janv.) P, WAG, YA; 7511, 9 km W Mokolo, sur route de Mogodé (fr., janv.) P, WAG, YA; 7551, km 5, même route (stér.) P, WAG, YA; 7586, km 20 route Garoua-Roumsiki (fr., janv.) P, WAG, YA; 7611, km 122 route Garoua-Ngaoundéré, angle NW Réserve Bénoué (fr., janv.) P, WAG, YA.
+Raynal J. & A. 13143, Sigari, 16 km SSW Poli (fr. unripe, Jan.).
 
-Raynal J. & A. 13143, Sigari, 16 km SSW Poli (fr. non mũr, janv.).
+S.R.F. Cam. 4416, Garoua (faded fl., May) P, YA.
 
-S.R.F. Cam. 4416, Garoua (fl. fanées, mai) P, YA.
-
-Vaillant 61 bis, Maroua (fr. non murs, mai); 178, Mokolo (fr. non murs, févr.).
+Vaillant 61 bis, Maroua (fr. unripe, May); 178, Mokolo (fr. unripe, Feb.).
 
 ## Figures
 
 ![Strychnos innocua](../sources/Loganiaceae_vol19_paddle/figures/fig_032_p0141.png)
 
-*PL. 32. — Strychnos innocua Del.: 1, rameau × ½; 2, fleur × 4; 3, dissection de la corolle × 5; 4, pistil × 7; 5 et 6, fruits × ½; 7, tranche desséchée du fruit presque mûr no. 5 × ½; 8, tranche, conservée en alcool, du fruit presque mûr no. 6 × ½; 9, graines × 1; 10 et 11, feuilles de rejets × ½; 12, feuille de petit rameau × ½ (1-4, 7-9 et 5-6 : Leeuwenberg 7482 et 7586; 10-12 : d'après Leeuwenberg 4400, Haute Volta, WAG).*
+*PL. 32. — Strychnos innocua Del.: 1, branch × ½; 2, flower × 4; 3, dissection of corolla × 5; 4, pistil × 7; 5 and 6, fruits × ½; 7, dried slice of almost ripe fruit no. 5 × ½; 8, slice, preserved in alcohol, of almost ripe fruit no. 6 × ½; 9, seeds × 1; 10 and 11, leaves of shoots × ½; 12, leaf of small branch × ½ (1-4, 7-9 and 5-6 : Leeuwenberg 7482 and 7586; 10-12 : after Leeuwenberg 4400, Upper Volta, WAG).*
 
 ## Notes
 

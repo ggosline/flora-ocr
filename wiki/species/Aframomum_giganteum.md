@@ -4,11 +4,8 @@ name: Aframomum giganteum
 authority: (Oliv. et Hanb.) K. Schum.
 genus: Aframomum
 family: Zingiberaceae
-countries: [Gabon]
-countries_incomplete: true
-in_region: true
-habit: giant rhizomatous herb
 treatments: [{vol: 9, pages: "50–53", source: sources/Zingiberaceae_vol9_paddle}]
+habit: "herb"
 tags: [species]
 ---
 # *Aframomum giganteum* (Oliv. et Hanb.) K. Schum.

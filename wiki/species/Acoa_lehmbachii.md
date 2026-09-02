@@ -7,6 +7,9 @@ family: Scytopetalaceae
 vol: 24
 pages: 42-46
 source: sources/Chrysobalanaceae_vol24_paddle
+countries: [Cameroon, Nigeria]
+in_region: true
+habit: "tree"
 tags: [species, generated]
 ---
 # *Acoa lehmbachii* Engler
@@ -53,11 +56,11 @@ Bates 855, Bitye, 50 km ENE Sangmélima (fl.) (BM et photo, P); 1375, 1395, ibid
 
 ![Acoa lehmbachii](../sources/Chrysobalanaceae_vol24_paddle/figures/fig_011_p0043.png)
 
-*PL. 11. — Acioa lævis Pierre ex De Wild. : 1, rameau avec fleurs × 2/3; 2, stipules × 2; 3, portion d'axe infl. × 4; 4, bractéoles × 4; 5, fleur (pét. excl.) × 3/2. (Klaine 3538).*
+*PL. 11. — Acioa lævis Pierre ex De Wild. : 1, branch with flowers × 2/3; 2, stipules × 2; 3, portion of infl. axis × 4; 4, bracteoles × 4; 5, flower (petals excl.) × 3/2. (Klaine 3538).*
 
 ![Acoa lehmbachii](../sources/Chrysobalanaceae_vol24_paddle/figures/fig_012_p0045.png)
 
-*PL. 12. — Acioa lehmbachii Engl. : 1, rameau avec fleurs (et 1 feuille cloquée) × 2/3; 2, stipules × 2; 3, dessous feuille × 2; 4, portion d'axe infl. × 4; 5, bractéoles × 4; 6, fleur × 3/2. (1, 3, 6, Deistel 651; 2, 4-5, Letouzey 13563).*
+*PL. 12. — Acioa lehmbachii Engl.: 1, branch with flowers (and 1 blistered leaf) × 2/3; 2, stipules × 2; 3, underside leaf × 2; 4, portion of infl. axis × 4; 5, bracteoles × 4; 6, flower × 3/2. (1, 3, 6, Deistel 651; 2, 4-5, Letouzey 13563).*
 
 ## Notes
 

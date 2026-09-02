@@ -7,6 +7,11 @@ family: Oxalidaceae
 vol: 38
 pages: 46-46
 source: sources/Oxalidaceae_vol38_liteparse
+countries: [Angola, Cameroon, Democratic Republic of the Congo, Gabon, Ghana, Nigeria]
+in_region: true
+subdivisions:
+  Gabon: [Estuaire, Moyen-Ogooué, Ngounié, Nyanga, Ogooué-Ivindo]
+habitat: [riverine]
 tags: [species, generated]
 ---
 # *Biophytum zenkeri* Guillaumin

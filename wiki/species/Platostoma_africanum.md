@@ -6,6 +6,12 @@ genus: Platostoma
 vol: 58
 pages: 85-87
 source: sources/Labiataeulmaceaeverbenaceae_vol58_liteparse
+countries: [Angola, Cameroon, Central African Republic, Democratic Republic of the Congo, Equatorial Guinea, Gabon, Nigeria, Republic of the Congo, Sao Tome and Principe]
+in_region: true
+subdivisions:
+  Gabon: [Estuaire, Haut-Ogooué, Moyen-Ogooué, Ngounié, Nyanga, Ogooué-Ivindo, Ogooué-Maritime, Woleu-Ntem]
+habit: "herb"
+altitude_m: "0–800"
 tags: [species, generated]
 ---
 # *Platostoma africanum* P.Beauv . Planche 21(3)

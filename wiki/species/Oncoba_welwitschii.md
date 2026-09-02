@@ -7,6 +7,8 @@ family: Flacourtiaceae
 vol: 34
 pages: 49-53
 source: sources/Flacourtiaceae_vol34_paddle
+countries: [Angola, Cameroon, Democratic Republic of the Congo, Equatorial Guinea, Gabon, Malawi, Mozambique, Nigeria, Tanzania]
+in_region: true
 tags: [species, generated]
 ---
 # *Oncoba welwitschii* Oliv.
@@ -81,7 +83,7 @@ De Wilde & al. 422, 15 km Mimong-Mbigou, env. 480 m alt., 7/2/1983, fr. (WAG).
 
 ![Oncoba welwitschii](../sources/Flacourtiaceae_vol34_paddle/figures/fig_014_p0052.png)
 
-*PL. 14. – Oncoba welwitschii Oliv. : 1, rameau florifère ; 2, fleur ¥ ; 3, sépale ; 4, pétale ; 5, étamine ; 6, pistil ; 7, coupe transversale de l'ovaire ; 8, fruits ; 9, graine. (1. Hallé 2720 ; 2-7. Le Testu 7193 ; 8 et 9. McPherson 16103).*
+*PL. 14. – Oncoba welwitschii Oliv. : 1, flowering branch ; 2, flower ¥ ; 3, sepal ; 4, petal ; 5, stamen ; 6, pistil ; 7, transverse section of the ovary ; 8, fruits ; 9, seed. (1. Hallé 2720 ; 2-7. Le Testu 7193 ; 8 et 9. McPherson 16103).*
 
 ## Notes
 

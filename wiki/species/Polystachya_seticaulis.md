@@ -7,6 +7,8 @@ family: Orchidaceae
 vol: 37
 pages: 71-73
 source: sources/Orchidaceae_vol37_paddle
+countries: [Cameroon, Cote d'Ivoire, Democratic Republic of the Congo, Gabon, Nigeria]
+in_region: true
 tags: [species, generated]
 ---
 # *Polystachya seticaulis* Rendle

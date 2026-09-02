@@ -7,6 +7,9 @@ family: Acanthaceae
 vol: 13
 pages: 242-245
 source: sources/Acanthaceae_vol13_paddle
+countries: [Gabon]
+in_region: true
+habit: "herb"
 tags: [species, generated]
 ---
 # *Brachystephanus mannii* C. B. Clarke

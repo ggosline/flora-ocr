@@ -7,6 +7,10 @@ family: Scytopetalaceae
 vol: 24
 pages: 46-50
 source: sources/Chrysobalanaceae_vol24_paddle
+countries: [Cameroon, Equatorial Guinea, Gabon, Ghana, Guinea, Nigeria, Sierra Leone]
+in_region: true
+habit: "tree"
+habitat: [savanna]
 tags: [species, generated]
 ---
 # *Acioa letestui* R. Letouzey
@@ -61,7 +65,7 @@ Le Testu 6537, Mbigou (fl., juill.) (BM, BR, P); 9352, La Lara, 30 km S Mitzic (
 
 ![Acioa letestui](../sources/Chrysobalanaceae_vol24_paddle/figures/fig_013_p0047.png)
 
-*PL. 13. — Acioa letestui R. Let. : 1, rameau avec fleurs × 2/3; 2, stipules × 4; 3, feuille dessous × 2/3; 4, bractée × 6; 5, bractéoles × 8; 6, fleur (pét. excl.) × 3/2; 7, rameau avec jeunes fruits × 1; 8, fruit × 1. (1, 3-6, 8, Le Testu 9352; 2, Letouzey 5626; 7, De Wilde 1919). (Repris d'Adansonia 16 (2) : tab. 5, 1976).*
+*PL. 13. — Acioa letestui R. Let. : 1, branch with flowers × 2/3; 2, stipules × 4; 3, leaf below × 2/3; 4, bract × 6; 5, bracteoles × 8; 6, flower (pet. excl.) × 3/2; 7, branch with young fruits × 1; 8, fruit × 1. (1, 3-6, 8, Le Testu 9352; 2, Letouzey 5626; 7, De Wilde 1919). (Taken from Adansonia 16 (2) : tab. 5, 1976).*
 
 ## Notes
 

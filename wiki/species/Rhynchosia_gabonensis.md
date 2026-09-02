@@ -7,6 +7,13 @@ family: Leguminosae
 vol: 49
 pages: 336-336
 source: sources/Millettiaspeciesfabaceae_vol49_liteparse
+countries: [Gabon]
+in_region: true
+subdivisions:
+  Gabon: [Estuaire, Woleu-Ntem]
+habit: "herb"
+habitat: [evergreen forest]
+altitude_m: "500–600"
 tags: [species, generated]
 ---
 # *Rhynchosia gabonensis* Jongkind Planche 111

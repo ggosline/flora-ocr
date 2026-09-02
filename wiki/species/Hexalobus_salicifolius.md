@@ -7,6 +7,9 @@ family: Annonaceae
 vol: 16
 pages: 0-0
 source: sources/Annonaceae_vol16_mineru
+countries: [Cameroon, Cote d'Ivoire]
+in_region: true
+habit: "tree"
 tags: [species, generated]
 ---
 # *Hexalobus salicifolius* Engler

@@ -7,6 +7,9 @@ family: Moraceae
 vol: 26
 pages: 176-179
 source: sources/Moraceae_vol26_paddle
+countries: [Angola, Cameroon, Gabon, Kenya, Nigeria, Senegal, Sudan, Uganda, Zambia]
+in_region: true
+habitat: [savanna]
 tags: [species, generated]
 ---
 # *Ficus natalensis* Hochstetter
@@ -89,7 +92,7 @@ Hladik 1923, Makokou, île de l'Éléphant (fig., janv.); 2320, 2545, 2546, Mpas
 
 ![Ficus natalensis](../sources/Moraceae_vol26_paddle/figures/fig_050_p0178.png)
 
-*PL. 49. – Ficus natalensis Hochst.: rameaux avec feuilles et figues × 2/3 (Letouzey 10082, Cameroun).*
+*PL. 49. – Ficus natalensis Hochst.: branches with leaves and figs × 2/3 (Letouzey 10082, Cameroon).*
 
 ## Notes
 

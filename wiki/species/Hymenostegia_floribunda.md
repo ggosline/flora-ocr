@@ -7,6 +7,10 @@ family: Leguminosae
 vol: 15
 pages: 102-102
 source: sources/Leguminosae_vol15_paddle
+countries: [Gabon]
+in_region: true
+habit: "tree"
+habitat: [swamp forest, riverine]
 tags: [species, generated]
 ---
 # *Hymenostegia floribunda* (Benth.) Harms
@@ -43,7 +47,7 @@ Morel: 12, Nkan, sur la Noya; 43 réserve de la Mondah (fl. juill.).
 
 ![Hymenostegia floribunda](../sources/Leguminosae_vol15_paddle/figures/fig_020_p0100.png)
 
-*PL. XX. — Hymenostegia floribunda (Benth.) Harms : 1, rameau fructifère × 2 /3; 2, folioles × 2 /3; 3, inflorescence × 2 /3. — Hymenostegia Normandii Pellegrin : 4, rameau florifère × 2 /3; 5, fleur × 2; 6, coupe de la fleur × 4.*
+*PL. XX. — Hymenostegia floribunda (Benth.) Harms : 1, fruiting branch × 2 /3; 2, leaflets × 2 /3; 3, inflorescence × 2 /3. — Hymenostegia Normandii Pellegrin : 4, flowering branch × 2 /3; 5, flower × 2; 6, section of the flower × 4.*
 
 ## Notes
 

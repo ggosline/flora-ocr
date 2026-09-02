@@ -7,6 +7,11 @@ family: Dipterocarpaceae
 vol: 41
 pages: 44-45
 source: sources/Dipterocarpaceae_vol41_liteparse
+countries: [Equatorial Guinea, Gabon]
+in_region: true
+habit: "tree"
+habitat: [mangrove]
+altitude_m: "400"
 tags: [species, generated]
 ---
 # *Trillesanthus excelsus* Pierre Planche 10
@@ -17,29 +22,21 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-tab. Herb. L. Pierre, del. E. Delpy 5/1901. Marquesia excelsa (Pierre) R.E.Fr., Bot. Jahrb. Syst. 51 : 351 (1914). Schoutenia excelsa Pierre, in sched. Actinophora excelsa Pierre, in sched. Arbre jusqu’à 50 m de hauteur ; tronc jusqu’à 90 cm de diamètre, cannelé, contreforts jusqu’à 6 m de hauteur ; écorce à écailles minces, rouge-brun, à fibres jaunes ; jeunes rameaux pubérulents. Feuilles : pétiole 7–15 mm, éparsement pubérulent ; limbe herbacé, fragile, elliptique-lancéolé à étroitement ové, 5,5–15(–20) × 2,5–6(–7) cm, base obtuse à légèrement cordée, sommet acuminé , brillant au dessus, dessous glabre mais avec des glandes sphériques minuscules ; 7–10 paires de nervures secondaires. Fleurs : pédicelle 2–3 mm ; calice à lobes circulaires, 1–1,5 mm de diamètre ; pétales oblongs, 5–6 × 1,5–2 mm, blancs à vert jaunâtre ; androgynophore anguleux, ± 1 mm de hauteur ; étamines 35–50, glabres, filet 2–5,5 mm, anthère 0,2 mm de longueur ; ovaire largement ellipsoïde à globuleux, ± 1 mm de largeur, sommet pointu ; style 1,5–2 mm. Fruit à pédicelle jusqu’à 5 mm de longueur, globuleux à ovoïde, 5–7 mm de diamètre, densément pubescent, vert pâle à vert jaunâtre, sommet pointu avec style persistant de 4–7 mm ; ailes oblongues, 2 – 3,5 cm × 5 – 10 mm, soudées à la base sur 3 – 8 mm , finement pubérulentes.
+tab. Herb. L. Pierre, del. E. Delpy 5/1901. Marquesia excelsa (Pierre) R.E.Fr., Bot. Jahrb. Syst. 51 : 351 (1914). Schoutenia excelsa Pierre, in sched. Actinophora excelsa Pierre, in sched. Tree up to 50 m in height; trunk up to 90 cm in diameter, fluted, buttresses up to 6 m in height; bark with thin scales, red-brown, with yellow fibres; young branchlets puberulent. Leaves: petiole 7–15 mm, sparsely puberulent; blade herbaceous, fragile, elliptic-lanceolate to narrowly ovate, 5.5–15(–20) × 2.5–6(–7) cm, base obtuse to slightly cordate, apex acuminate, glossy above, glabrous beneath but with minute spherical glands; 7–10 pairs of secondary nerves. Flowers: pedicel 2–3 mm; calyx with circular lobes, 1–1.5 mm in diameter; petals oblong, 5–6 × 1.5–2 mm, white to yellowish green; androgynophore angular, ± 1 mm in height; stamens 35–50, glabrous, filament 2–5.5 mm, anther 0.2 mm in length; ovary broadly ellipsoid to globose, ± 1 mm in width, apex pointed; style 1.5–2 mm. Fruit with pedicel up to 5 mm in length, globose to ovoid, 5–7 mm in diameter, densely pubescent, pale green to yellowish green, apex pointed with persistent style 4–7 mm; wings oblong, 2–3.5 cm × 5–10 mm, fused at base for 3–8 mm, finely puberulent.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Guinée Équatoriale et Gabon où l’espèce est subendémique car largement distribuée ; cependant, assez rare bien que localement commun
+Equatorial Guinea and Gabon where the species is subenedmic as it is widely distributed; however, rather rare although locally common
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-forêts primaires et secondaires, parfois comme espèce dominante, sur sol bien drainé, sur terrain plat ou sur pentes, le long des marais et ruisseaux, aussi en arrière-man groves ; jusqu’à 400 m d’altitude. Usage : bien qu’aucun usage n’ait été mentionné dans la littérature, le bois est apparem ment d’une bonne qualité, dur et lourd, brun-rouge, à grain fin
+primary and secondary forests, sometimes as a dominant species, on well-drained soil, on flat terrain or on slopes, along marshes and streams, also in mangrove hinterland; up to 400 m in altitude. Uses: although no uses have been mentioned in the literature, the wood is apparently of good quality, hard and heavy, red-brown, with fine grain
 
 ## Vernacular names
 
 n’tana (nom pilote, Fang), okip 2 (région de Nyanga), faux okip, pseudo okip (région de l’Estuaire). Note taxonomique : Cette espèce était jusqu’à récemment connue comme Marquesia ex 3 celsa (Pierre) R.E.Fr. La découverte du nom valide et correct, bien que plus ancien Trille santhus excelsus Pierre a rendu nécessaire un changement nomenclatural. b : De Saint Aubin (1963), Fries (1914), Sosef (2010), Wilks & Issembé ibliographie (2000)
 
 ## Discussion
-
-<!-- TODO:translate — source text below, verbatim and untranslated -->
 
 3
 

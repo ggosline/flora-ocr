@@ -7,6 +7,7 @@ family: Rubiaceae
 vol: 12
 pages: 101-102
 source: sources/Rubiaceae_vol12_paddle
+habit: "herb"
 tags: [species, generated]
 ---
 # *Oldenlandia corymbosa* L.

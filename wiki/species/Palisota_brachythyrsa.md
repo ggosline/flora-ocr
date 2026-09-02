@@ -7,6 +7,12 @@ family: Commelinaceae
 vol: 55
 pages: 57-57
 source: sources/Commelinaceae_vol55_liteparse
+countries: [Cameroon, Central African Republic, Democratic Republic of the Congo, Gabon, Republic of the Congo]
+in_region: true
+subdivisions:
+  Gabon: [Estuaire, Haut-Ogooué, Nyanga, Ogooué-Ivindo]
+habit: "herb"
+altitude_m: "970"
 tags: [species, generated]
 ---
 # *Palisota brachythyrsa* Mildbr. Figure 3(J)

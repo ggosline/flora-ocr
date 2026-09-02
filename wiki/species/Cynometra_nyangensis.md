@@ -7,6 +7,7 @@ family: Leguminosae
 vol: 15
 pages: 73-73
 source: sources/Leguminosae_vol15_paddle
+habit: "tree"
 tags: [species, generated]
 ---
 # *Cynometra nyangensis* Pellegrin
@@ -37,7 +38,7 @@ Le Testu : 2125, Galerie de la Nyanga (fl. nov.).
 
 ![Cynometra nyangensis](../sources/Leguminosae_vol15_paddle/figures/fig_012_p0074.png)
 
-*PL. XII. — Cynometra nyangensis Pellegrin : 1, feuilles et inflorescence × 1; 2, stipule; 3, fleur × 4; 4, coupe de la fleur × 4; — Cynometra Oddonii De Wildeman : 5, feuille et inflorescence × 1.*
+*PL. XII. — Cynometra nyangensis Pellegrin : 1, leaves and inflorescence × 1; 2, stipule; 3, flower × 4; 4, section of the flower × 4; — Cynometra Oddonii De Wildeman : 5, leaf and inflorescence × 1.*
 
 ## Notes
 

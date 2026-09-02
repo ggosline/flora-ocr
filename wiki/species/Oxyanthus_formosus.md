@@ -7,6 +7,9 @@ family: Rubiaceae
 vol: 17
 pages: 190-192
 source: sources/Rubiaceae_vol17_paddle
+countries: [Guinea, Sudan]
+in_region: false
+habit: "shrub"
 tags: [species, generated]
 ---
 # *Oxyanthus formosus* Hook. f. ex Planch.
@@ -48,7 +51,7 @@ N. Hallé 1489, 6 km NE de Makokou (fr. mars); 3292, Bélinga (fr. nov.). Klaine
 
 ![Oxyanthus formosus](../sources/Rubiaceae_vol17_paddle/figures/fig_043_p0191.png)
 
-*PL. 42. — Oxyanthus formosus Hook. f. ex Planch. (fl. Klaine 2792; fr. N. Hallé 1489) : 1, rameau florifère × 0,35; 2, stipule; 3, détail du bouton × 3,5; 4, anthère × 6; 5, infrutescence vue sur le vif × 0,5; 6, coupe du fruit vert × 1; 7, graine × 3; 8, embryon × 9. — 0. fraterculus N. Hallé (N. H. et L. T. 556) : 9, infrutescence × 0,5; 10, stipule; 11, détail du calice × 3.*
+*PL. 42. — Oxyanthus formosus Hook. f. ex Planch. (fl. Klaine 2792; fr. N. Hallé 1489) : 1, flowering branch × 0.35; 2, stipule; 3, detail of bud × 3.5; 4, anther × 6; 5, fruiting inflorescence viewed fresh × 0.5; 6, section of green fruit × 1; 7, seed × 3; 8, embryo × 9. — O. fraterculus N. Hallé (N. H. et L. T. 556) : 9, fruiting inflorescence × 0.5; 10, stipule; 11, detail of calyx × 3.*
 
 ## Notes
 

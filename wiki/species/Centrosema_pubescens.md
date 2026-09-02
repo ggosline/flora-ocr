@@ -7,6 +7,12 @@ family: Leguminosae
 vol: 49
 pages: 81-83
 source: sources/Millettiaspeciesfabaceae_vol49_liteparse
+countries: [Gabon]
+in_region: true
+subdivisions:
+  Gabon: [Estuaire, Haut-Ogooué, Moyen-Ogooué, Ogooué-Ivindo, Ogooué-Lolo, Ogooué-Maritime]
+habit: "herb"
+altitude_m: "575"
 tags: [species, generated]
 ---
 # *Centrosema pubescens* Benth. Planche 24.7–9

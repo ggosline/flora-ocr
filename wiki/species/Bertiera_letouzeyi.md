@@ -7,6 +7,10 @@ family: Rubiaceae
 vol: 17
 pages: 54-56
 source: sources/Rubiaceae_vol17_paddle
+countries: [Cameroon, Central African Republic, Democratic Republic of the Congo, Gabon]
+in_region: true
+habit: "shrub"
+habitat: [savanna]
 tags: [species, generated]
 ---
 # *Bertiera letouzeyi* N. Hallé
@@ -49,7 +53,7 @@ N. Hallé et A. Le Thomas 307, Zadindoué, route de Mékambo.
 
 ![Bertiera letouzeyi](../sources/Rubiaceae_vol17_paddle/figures/fig_011_p0055.png)
 
-*PL. 11. — Bertiera loraria N. Hallé : 1, feuille (N. H. 1288); 2, inflorescence (Pobeguin 144) et 2¹, ud. (Mildbraed 4339); 3, détail d'inflorescence (N. H. 1088); 4, bouton et 5, étamine (Pob. 144); 6 et 7, fruit mùr sur le vif × 1,5 (N. H. 1088). — B. Letouzeyi N. Hallé : 8, feuille et 9, détail du réticule (Letouzey 4835); 10, inflorescence; 11, bouton et 12, étamine (Letouzey 4612); 13, style (Letouzey 4787); 14, infrutescence immature et 15, graine × 11 (Tisserant 1060). — Planche tirée de Adansonia III : 301 (1963).*
+*PL. 11. — Bertiera loraria N. Hallé : 1, leaf (N. H. 1288); 2, inflorescence (Pobeguin 144) and 2¹, ed. (Mildbraed 4339); 3, detail of inflorescence (N. H. 1088); 4, bud and 5, stamen (Pob. 144); 6 and 7, mature fruit from life × 1.5 (N. H. 1088). — B. Letouzeyi N. Hallé : 8, leaf and 9, detail of reticulation (Letouzey 4835); 10, inflorescence; 11, bud and 12, stamen (Letouzey 4612); 13, style (Letouzey 4787); 14, immature infructescence and 15, seed × 11 (Tisserant 1060). — Plate taken from Adansonia III : 301 (1963).*
 
 ## Notes
 

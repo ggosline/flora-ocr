@@ -7,6 +7,13 @@ family: Leguminosae
 vol: 49
 pages: 60-60
 source: sources/Millettiaspeciesfabaceae_vol49_liteparse
+countries: [Cameroon, Gabon, Nigeria]
+in_region: true
+subdivisions:
+  Gabon: [Moyen-Ogooué, Ogooué-Ivindo, Ogooué-Lolo, Woleu-Ntem]
+habit: "tree"
+habitat: [secondary forest]
+altitude_m: "450–500"
 tags: [species, generated]
 ---
 # *Baphia leptobotrys* Harms

@@ -28,15 +28,13 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Perennial plant with numerous nodes and creeping base; leaf sheaths keeled-compressed, glabrous, ligules ciliate; blades initially folded then spreading, linear, with contracted base and rounded apex, 2 to 15 × 0.4 to 0.9 cm long.
 
-Plante pérenne à nombreux nœuds et à base rampante; gaines foliaires carénées-compressées, glabres, ligules ciliées; limbes d'abord pliés puis étalés, linéaires, à base contractée et sommet arrondi, de 2 à 15 × 0,4 à 0,9 cm de long.
+One to three false terminal and subterminal spikes, 2.5 to 8 cm long. Common axis linear, flattened on the back, marked with transverse lines at the level of nodes, grooved with cavities on the anterior face, 3 to 7 mm wide and approximately 3 mm thick. Lateral racemes with 1 or 3 spikelets, completely sunken in the cavities of the axis or nearly so; rachis triquetrous, pointed at the apex.
 
-Un à trois faux épis terminaux et subterminaux, de 2,5 à 8 cm de long. Axe commun linéaire, aplati sur le dos, marqué de lignes transversales au niveau des nœuds, creusé de loges sur la face antérieure, de 3 à 7 mm de large et environ 3 mm d'épaisseur. Racèmes latéraux à 1 ou 3 épillets, complètement enfoncés dans les loges de l'axe ou presque; rachis triquètre, pointu à l'extrémité.
+Glumes dissimilar, the lower one scale-like and 1 to 2 mm long, the upper one naviculate, with 7 nerves. Lower floret male, lemma with 7 or 9 nerves; palea slightly shorter. Upper floret lanceolate, lemma with 5 nerves.
 
-Glumes dissemblables, l'inférieure écailleuse et de 1 à 2 mm de long, la supérieure naviculaire, à 7 nervures. Fleur inférieure mâle, lemma à 7 ou 9 nervures; paléa un peu plus courte. Fleur supérieure lancéolée, lemma à 5 nervures.
-
-Signalée en Afrique Occidentale, au Congo et au Gabon ainsi qu'en Afrique du Sud. Appelée « St. Augustine Grass » en Amérique, c'est une excellente herbe de pâturage et de pelouse.
+Recorded in West Africa, in Congo and Gabon as well as in South Africa. Called "St. Augustine Grass" in America, it is an excellent pasture and lawn grass.
 
 ## Specimens examined
 

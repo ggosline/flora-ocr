@@ -7,6 +7,9 @@ family: Brassicaceae
 vol: 30
 pages: 42-45
 source: sources/Capparidaceae_vol30_paddle
+countries: [Cameroon, Democratic Republic of the Congo, Gabon, Uganda]
+in_region: true
+habitat: [evergreen forest]
 tags: [species, generated]
 ---
 # *Euadenia alimensis* Hua
@@ -53,7 +56,7 @@ Klaine 1370, 2044, 2701, 2868, 2876, environs de Libreville (fl., janv., fév., 
 
 ![Euadenia alimensis](../sources/Capparidaceae_vol30_paddle/figures/fig_005_p0044.png)
 
-*PL. 4. – Euadenia alimensis Hua : 1, rameau feuillé avec une inflorescence × 1/3 ; 2, bractée florale × 1 ; 3, appendice staminodial avec un filet d'étamine stérile soudé à la base × 2 ; 4, appendice staminodial, forme normale × 2 ; 5, ovaire en section transversale × 8 ; 6, ovaire en vue latérale × 4 ; 7, appendice staminodial, pistil et étamines × 2 ; 8, pétale supérieur × 1/2 ; 9, pétale latérale × 1/2 ; 10, feuille × 1/6 ; 11, portion supérieure de l'axe d'un racème avec deux jeunes fruits × 1/3 ; 12, fruit × 1/3 (1, 3-6, 8, 9, 11, 12, Klaine 2044 ; 2, Klaine 2867 ; 7, Klaine 1370 ; 10, Walter s.n.).*
+*PL. 4. – Euadenia alimensis Hua : 1, leafy branch with an inflorescence × 1/3 ; 2, floral bract × 1 ; 3, staminodial appendage with a sterile stamen filament fused at the base × 2 ; 4, staminodial appendage, normal form × 2 ; 5, ovary in transverse section × 8 ; 6, ovary in lateral view × 4 ; 7, staminodial appendage, pistil and stamens × 2 ; 8, upper petal × 1/2 ; 9, lateral petal × 1/2 ; 10, leaf × 1/6 ; 11, upper portion of the axis of a raceme with two young fruits × 1/3 ; 12, fruit × 1/3 (1, 3-6, 8, 9, 11, 12, Klaine 2044 ; 2, Klaine 2867 ; 7, Klaine 1370 ; 10, Walter s.n.).*
 
 ## Notes
 

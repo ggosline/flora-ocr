@@ -7,6 +7,9 @@ family: Orchidaceae
 vol: 37
 pages: 51-53
 source: sources/Orchidaceae_vol37_paddle
+countries: [Angola, Burundi, Cameroon, Central African Republic, Cote d'Ivoire, Democratic Republic of the Congo, Ghana, Kenya, Malawi, Mozambique, Nigeria, Rwanda, Tanzania, Togo, Uganda, Zambia, Zimbabwe]
+in_region: true
+habitat: [savanna, riverine]
 tags: [species, generated]
 ---
 # *Polystachya modesta* Rchb.f.
@@ -39,7 +42,7 @@ Florence 1719, Boka-Boka, 15 km W. of Mékambo, intraforest savanna of Mt. Bengo
 
 ![Polystachya modesta](../sources/Orchidaceae_vol37_paddle/figures/fig_016_p0052.png)
 
-*PL. 123. – Polystachya modesta Rchb.f. : A, fleur ; B, labelle ; C, sépale dorsal ; D, pétale ; E, sépale latéral. – Polystachya mukandaensis De Wild. : F, fleur ; G, labelle ; H, section longitudinale du labelle ; I, sépale dorsal ; J, pétale ; K, sépale latéral ; L, extrémité foliaire (A-E, Tisserant 1622, P ; F-L, Tisserant 2653, P).*
+*PL. 123. – Polystachya modesta Rchb.f.: A, flower; B, labellum; C, dorsal sepal; D, petal; E, lateral sepal. – Polystachya mukandaensis De Wild.: F, flower; G, labellum; H, longitudinal section of labellum; I, dorsal sepal; J, petal; K, lateral sepal; L, leaf extremity (A-E, Tisserant 1622, P; F-L, Tisserant 2653, P).*
 
 ![Polystachya modesta](../sources/Orchidaceae_vol37_paddle/figures/fig_134_p0251.png)
 

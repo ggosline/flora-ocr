@@ -7,6 +7,10 @@ family: Moraceae
 vol: 26
 pages: 155-161
 source: sources/Moraceae_vol26_paddle
+countries: [Cameroon, Democratic Republic of the Congo, Gabon, Madagascar, Senegal, Tanzania, Uganda]
+in_region: true
+habitat: [savanna]
+altitude_m: "1100"
 tags: [species, generated]
 ---
 # *Ficus trichopoda* Baker
@@ -73,11 +77,11 @@ sessiles ou pédicellées jusqu'à 1,5 mm, périanthe avec 3 tépales ± inégau
 
 ![Ficus trichopoda](../sources/Moraceae_vol26_paddle/figures/fig_043_p0156.png)
 
-*PL. 42. – Ficus trichopoda Bak.: 1, rameau avec feuille et figue × 1; 2, figue × 2 (Tisserant 3338, Centrafrique).*
+*PL. 42. – Ficus trichopoda Bak.: 1, branch with leaf and fig × 1; 2, fig × 2 (Tisserant 3338, Central African Republic).*
 
 ![Ficus trichopoda](../sources/Moraceae_vol26_paddle/figures/fig_044_p0158.png)
 
-*PL. 43. – Ficus jansii Boutique : 1, feuille × 3/4 ; 2, rameau avec figues × 3/4 ; 3, rameau avec feuille et figues × 3/4 (1-2, Jacques-Félix 2968, Cameroun ; 3, De Wilde W.c.s. 2595, Cameroun).*
+*PL. 43. – Ficus jansii Boutique : 1, leaf × 3/4 ; 2, branch with figs × 3/4 ; 3, branch with leaf and figs × 3/4 (1-2, Jacques-Félix 2968, Cameroon ; 3, De Wilde W.c.s. 2595, Cameroon).*
 
 ## Notes
 

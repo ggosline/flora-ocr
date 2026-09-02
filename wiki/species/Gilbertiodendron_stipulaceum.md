@@ -7,6 +7,7 @@ family: Leguminosae
 vol: 15
 pages: 237-239
 source: sources/Leguminosae_vol15_paddle
+habit: "tree"
 tags: [species, generated]
 ---
 # *Gilbertiodendron stipulaceum* (Bentham)

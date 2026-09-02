@@ -7,6 +7,13 @@ family: Leguminosae
 vol: 49
 pages: 129-130
 source: sources/Millettiaspeciesfabaceae_vol49_liteparse
+countries: [Angola, Cameroon, Central African Republic, Democratic Republic of the Congo, Gabon, Guinea, Guinea-Bissau, Nigeria, Republic of the Congo, Senegal, Sierra Leone, Togo]
+in_region: true
+subdivisions:
+  Gabon: [Moyen-Ogooué, Ogooué-Ivindo, Woleu-Ntem]
+habit: "liana"
+habitat: [rocky ground]
+altitude_m: "100–285"
 tags: [species, generated]
 ---
 # *Dalbergia gilletii* De Wild. Planche 39

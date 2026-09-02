@@ -7,6 +7,10 @@ family: Ctenolophonaceae
 vol: 21
 pages: 46-47
 source: sources/Ctenolophonaceae_vol21_paddle
+countries: [Gabon, Nigeria]
+in_region: true
+habit: "tree"
+habitat: [riverine]
 tags: [species, generated]
 ---
 # *Ctenolophon englerianus* Mildbraed

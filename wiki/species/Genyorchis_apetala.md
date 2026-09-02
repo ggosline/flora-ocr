@@ -7,6 +7,9 @@ family: Orchidaceae
 vol: 36
 pages: 211-212
 source: sources/Orchidaceae_vol36_paddle
+countries: [Cameroon, Cote d'Ivoire, Equatorial Guinea, Gabon, Ghana, Nigeria, Sao Tome and Principe, Sierra Leone, Uganda]
+in_region: true
+habitat: [mangrove, swamp forest, savanna, evergreen forest]
 tags: [species, generated]
 ---
 # *Genyorchis apetala* (Lindl.) J.J.Verm.
@@ -41,7 +44,7 @@ Wieringa 538, Woleu-Ntem, dist. Minkébé, 90 km N of Makokou, Nsya valley, rive
 
 ![Genyorchis apetala](../sources/Orchidaceae_vol36_paddle/figures/fig_110_p0212.png)
 
-*PL. 105. – Genyorchis apetala (Lindl.) J. J. Verm.: A, vue générale ; B, fleur et bractée ; C, D, labelle ; E, sépale latéral ; F, sépale dorsal ; G, gynostème et pétale, vue latérale (A-G, Schlechter 12737, P).*
+*PL. 105. – Genyorchis apetala (Lindl.) J. J. Verm.: A, general view ; B, flower and bract ; C, D, labellum ; E, lateral sepal ; F, dorsal sepal ; G, gynostemium and petal, lateral view (A-G, Schlechter 12737, P).*
 
 ![Genyorchis apetala](../sources/Orchidaceae_vol36_paddle/figures/fig_152_p0227.png)
 

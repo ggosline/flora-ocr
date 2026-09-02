@@ -7,6 +7,9 @@ family: Melastomataceae
 vol: 25
 pages: 131-131
 source: sources/Melastomataceae_vol25_paddle
+countries: [Gabon, Guinea]
+in_region: true
+habit: "shrub"
 tags: [species, generated]
 ---
 # *Memecylon afzelli* G. Don

@@ -15,8 +15,6 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 68.1 Vetiveria zizanioides (L.) Nash
 
 Fl. Gab.: 148; FACB 1: 99; FWTA: 470; Gram. Cam.: 408; Gram. CB.: 276.

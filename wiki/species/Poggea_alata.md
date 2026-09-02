@@ -7,6 +7,8 @@ family: Flacourtiaceae
 vol: 34
 pages: 39-41
 source: sources/Flacourtiaceae_vol34_paddle
+countries: [Angola, Cameroon, Democratic Republic of the Congo, Gabon, Guinea]
+in_region: true
 tags: [species, generated]
 ---
 # *Poggea alata* Gürk

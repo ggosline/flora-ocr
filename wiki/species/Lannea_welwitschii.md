@@ -7,6 +7,11 @@ family: Anacardiaceae
 vol: 50
 pages: 17-19
 source: sources/Anacardiaceae_vol50_liteparse
+countries: [Angola, Cameroon, Central African Republic, Cote d'Ivoire, Democratic Republic of the Congo, Equatorial Guinea, Gabon, Ghana, Liberia, Nigeria, Republic of the Congo, Sao Tome and Principe, Uganda]
+in_region: true
+habit: "tree"
+habitat: [secondary forest]
+altitude_m: "0–620"
 tags: [species, generated]
 ---
 # *Lannea welwitschii* (Hiern) Engl.

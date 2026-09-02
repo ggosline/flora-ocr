@@ -7,6 +7,8 @@ family: Melastomataceae
 vol: 25
 pages: 78-82
 source: sources/Melastomataceae_vol25_paddle
+countries: [Cameroon, Gabon]
+in_region: true
 tags: [species, generated]
 ---
 # *Amphiblemma molle* Hooker f.
@@ -49,11 +51,11 @@ Mann 1681 b, mt Cristal (juil.), K.
 
 ![Amphibemma molle](../sources/Melastomataceae_vol25_paddle/figures/fig_027_p0079.png)
 
-*PL. 27. — Amphiblemma molle Hook. f. : 1, aspect général × 2/3; 2, détail d'un nœud × 2; 3, pétale × 4; 4 & 5, étamines, externe et internes × 6; 6 & 7, jeune fruit, entier et coupé × 4; 8, capsule × 4; 9, graine × 20 (Jacques-Félix 2457). (Repris d'Adansonia, sér. 2, 13 (4) : tab. 3, 1973).*
+*PL. 27. — Amphiblemma molle Hook. f. : 1, general aspect × 2/3; 2, detail of a node × 2; 3, petal × 4; 4 & 5, stamens, external and internal × 6; 6 & 7, young fruit, whole and sectioned × 4; 8, capsule × 4; 9, seed × 20 (Jacques-Félix 2457). (Reprinted from Adansonia, ser. 2, 13 (4) : tab. 3, 1973).*
 
 ![Amphibemma molle](../sources/Melastomataceae_vol25_paddle/figures/fig_028_p0081.png)
 
-*PL. 28. — Amphiblemma ciliatum Cogn.: 1, cyme terminale et feuilles × 2/3; 2 & 3, étamines, interne et externe × 3; 4, capsule × 3 (Jacques-Félix 4537). — Amphiblemma soyauxii Cogn.: 5, tige et cymes latérales × 2/3: 6 & 7, étamines, externe et interne × 3 (Jacques-Félix 9186).*
+*PL. 28. — Amphiblemma ciliatum Cogn.: 1, terminal cyme and leaves × 2/3; 2 & 3, stamens, internal and external × 3; 4, capsule × 3 (Jacques-Félix 4537). — Amphiblemma soyauxii Cogn.: 5, stem and lateral cymes × 2/3: 6 & 7, stamens, external and internal × 3 (Jacques-Félix 9186).*
 
 ## Notes
 

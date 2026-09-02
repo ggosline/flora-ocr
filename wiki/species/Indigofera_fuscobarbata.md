@@ -7,6 +7,11 @@ family: Leguminosae
 vol: 49
 pages: 215-216
 source: sources/Millettiaspeciesfabaceae_vol49_liteparse
+countries: [Angola, Cameroon, Democratic Republic of the Congo, Gabon, Malawi, Nigeria, Tanzania, Zambia]
+in_region: true
+habit: "herb"
+habitat: [savanna]
+altitude_m: "1200–1800"
 tags: [species, generated]
 ---
 # *Indigofera fuscobarbata* Schrire

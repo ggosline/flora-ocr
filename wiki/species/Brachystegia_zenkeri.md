@@ -7,6 +7,9 @@ family: Leguminosae
 vol: 15
 pages: 281-284
 source: sources/Leguminosae_vol15_paddle
+countries: [Cameroon, Gabon]
+in_region: true
+habit: "tree"
 tags: [species, generated]
 ---
 # *Brachystegia zenkeri* Harms
@@ -49,7 +52,7 @@ de Saint-Aubin : 1982, haut Ramboué.
 
 ![Brachystegia zenkeri](../sources/Leguminosae_vol15_paddle/figures/fig_070_p0282.png)
 
-*PL. LXX. — Brachystegia cynometroides Harms : 1, feuille × 1; 2, fleur × 4; 3, 3', tépales × 8; 4, coupe de la fleur × 4; 5, fruit × 1/3. — Brachystegia Zenkeri Harms : 6, feuille × 1; 7, valve du fruit après déhiscence × 1/3.*
+*PL. LXX. — Brachystegia cynometroides Harms : 1, leaf × 1; 2, flower × 4; 3, 3', tepals × 8; 4, section of the flower × 4; 5, fruit × 1/3. — Brachystegia Zenkeri Harms : 6, leaf × 1; 7, valve of the fruit after dehiscence × 1/3.*
 
 ## Notes
 

@@ -7,6 +7,12 @@ family: Passifloraceae
 vol: 46
 pages: 87-87
 source: sources/Passifloraceae_vol46_liteparse
+countries: [Angola, Cameroon, Gabon, Republic of the Congo]
+in_region: true
+subdivisions:
+  Gabon: [Moyen-Ogooué, Ogooué-Ivindo, Woleu-Ntem]
+habit: "tree"
+altitude_m: "110–620"
 tags: [species, generated]
 ---
 # *Paropsia grewioides* Welw. ex Mast. var. grewioides

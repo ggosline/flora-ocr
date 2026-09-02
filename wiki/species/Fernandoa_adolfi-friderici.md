@@ -7,6 +7,8 @@ family: Bignoniaceae
 vol: 27
 pages: 25-29
 source: sources/Bignoniaceae_vol27_paddle
+countries: [Cameroon, Central African Republic, Democratic Republic of the Congo, Gabon]
+in_region: true
 tags: [species, generated]
 ---
 # *Fernandoa adolfi-friderici* (Gilg & Mildbraed) Heine
@@ -47,7 +49,7 @@ Gentry 33711, station de M'Passa, Makokou (fl., juill.) (MO, P).
 
 ![Fernandoa adolfi-friderici](../sources/Bignoniaceae_vol27_paddle/figures/fig_003_p0026.png)
 
-*PL. 3. – Fernandoa adolfi-friderici (Gilg & Mildbr.) Heine : 1, feuille × 0,7 ; 2, détail face inférieure du limbe × 2 ; 3, corolle face interne × 1 ; 4, pistil et disque × 2 ; 5, fruit × 0,3 ; 6, moelle × 1 ; 7, graine × 1 (1, 2, 5-7, Tisserand 2383, Centrafrique ; 2, 3-4, Letouzey 3410, Cameroun). (Repris de la Flore du Cameroun 27 : tab. 7, 1984.)*
+*PL. 3. – Fernandoa adolfi-friderici (Gilg & Mildbr.) Heine : 1, leaf × 0.7 ; 2, detail lower surface of the blade × 2 ; 3, corolla internal surface × 1 ; 4, pistil and disk × 2 ; 5, fruit × 0.3 ; 6, pith × 1 ; 7, seed × 1 (1, 2, 5-7, Tisserand 2383, Central African Republic ; 2, 3-4, Letouzey 3410, Cameroon). (Taken from the Flora of Cameroon 27 : tab. 7, 1984.)*
 
 ## Notes
 

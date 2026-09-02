@@ -5,10 +5,10 @@ authority: Sonn.
 genus: Ravenala
 family: Strelitziaceae
 synonyms: [Urania speciosa, Urania ravenala, Heliconia ravenala]
+treatments: [{vol: 9, pages: "15–16", source: sources/Strelitziaceae_vol9_paddle}]
 countries: [Gabon, Madagascar]
 in_region: true
-habit: tree-like herb
-treatments: [{vol: 9, pages: "15–16", source: sources/Strelitziaceae_vol9_paddle}]
+habit: "tree"
 tags: [species, introduced, cultivated]
 ---
 

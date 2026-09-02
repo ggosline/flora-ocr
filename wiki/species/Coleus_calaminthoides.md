@@ -6,6 +6,13 @@ genus: Coleus
 vol: 58
 pages: 51-53
 source: sources/Labiataeulmaceaeverbenaceae_vol58_liteparse
+countries: [Cameroon, Equatorial Guinea, Gabon, Republic of the Congo]
+in_region: true
+subdivisions:
+  Gabon: [Estuaire, Nyanga, Ogooué-Maritime]
+habit: "herb"
+habitat: [coastal]
+altitude_m: "0–100"
 tags: [species, generated]
 ---
 # *Coleus calaminthoides* (Baker) A.J.Paton Planche 11

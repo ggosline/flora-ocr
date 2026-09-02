@@ -7,6 +7,8 @@ family: Celastraceae
 vol: 29
 pages: 166-172
 source: sources/Celastraceae_vol29_paddle
+countries: [Angola, Cameroon, Central African Republic, Democratic Republic of the Congo, Gabon, Ghana, Guinea, Liberia, Niger, Nigeria, Sierra Leone, Togo, Zambia]
+in_region: true
 tags: [species, generated]
 ---
 # *Salacia chlorantha* Oliver
@@ -111,7 +113,7 @@ Latilo & Oguntayo FHI 70554, Oban For. Res., Osomba, Calabar-Mamfe road, 9.3.197
 
 ![Salacia chlorantha](../sources/Celastraceae_vol29_paddle/figures/fig_047_p0170.png)
 
-*PL. 48. – Salacia owabiensis Hoyle: 1, bouton; 2, fleur, diam. 7,8 mm; 3, calice par dessous, 5,5 × 3 mm; 4, pétale long de 4 mm; 5, 6, disques, diam. 1,7 mm; 7, 8, anthères; 9, 10, loges d'ovaires (1-7, 10, Villiers J.-F. 672; 8, 9, Keay & Meikle 25661, Nigeria). – S. talbotii Bak.f. : 11-13, bouton; 14, fleur longue de 9 mm; 15, 16, disque, diam. 4 mm; 17, 18, étamine; 19, style haut de 3 mm; 20, loge d'ovaire; 21, fruit, env. 10 × 5,5 mm (11, 20, Van Meer 1715; 21, Latilo & Ogun-tayo FHI 70554, Nigeria).*
+*PL. 48. – Salacia owabiensis Hoyle: 1, bud; 2, flower, diam. 7.8 mm; 3, calyx from below, 5.5 × 3 mm; 4, petal 4 mm long; 5, 6, discs, diam. 1.7 mm; 7, 8, anthers; 9, 10, ovary chambers (1-7, 10, Villiers J.-F. 672; 8, 9, Keay & Meikle 25661, Nigeria). – S. talbotii Bak.f. : 11-13, bud; 14, flower 9 mm long; 15, 16, disc, diam. 4 mm; 17, 18, stamen; 19, style 3 mm long; 20, ovary chamber; 21, fruit, ca. 10 × 5.5 mm (11, 20, Van Meer 1715; 21, Latilo & Ogun-tayo FHI 70554, Nigeria).*
 
 ## Notes
 

@@ -7,6 +7,9 @@ family: Acanthaceae
 vol: 13
 pages: 98-101
 source: sources/Acanthaceae_vol13_paddle
+countries: [Cameroon, Central African Republic, Cote d'Ivoire, Ghana, Liberia, Nigeria, Sierra Leone, Sudan, Uganda]
+in_region: true
+habit: "tree"
 tags: [species, generated]
 ---
 # *Lankesteria elegans* (P. Beauv.) T. Anders.

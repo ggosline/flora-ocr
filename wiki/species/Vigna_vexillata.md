@@ -7,6 +7,12 @@ family: Leguminosae
 vol: 49
 pages: 387-387
 source: sources/Millettiaspeciesfabaceae_vol49_liteparse
+countries: [Gabon]
+in_region: true
+subdivisions:
+  Gabon: [Nyanga]
+habit: "herb"
+altitude_m: "120"
 tags: [species, generated]
 ---
 # *Vigna vexillata* (L.) A.Rich. var. vexillata Planche 130

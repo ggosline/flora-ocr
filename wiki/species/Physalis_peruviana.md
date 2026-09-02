@@ -7,6 +7,12 @@ family: Solanaceae
 vol: 55
 pages: 109-109
 source: sources/Solanaceae_vol55_liteparse
+countries: [Gabon]
+in_region: true
+subdivisions:
+  Gabon: [Haut-Ogooué]
+habit: "herb"
+altitude_m: "420"
 tags: [species, generated]
 ---
 # *Physalis peruviana* L. Planche 32(1-9), Figure 7(C)

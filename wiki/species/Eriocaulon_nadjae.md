@@ -7,6 +7,13 @@ family: Eriocaulaceae
 vol: 48
 pages: 13-14
 source: sources/Eriocaulaceae_vol48_liteparse
+countries: [Equatorial Guinea, Gabon]
+in_region: true
+subdivisions:
+  Gabon: [Estuaire, Ngounié, Ogooué-Maritime]
+habit: "herb"
+habitat: [coastal]
+altitude_m: "500"
 tags: [species, generated]
 ---
 # *Eriocaulon nadjae* S.M.Phillips

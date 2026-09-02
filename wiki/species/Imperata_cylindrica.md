@@ -49,7 +49,7 @@ Dybowski : 696, sur la Kémo (cité par Franchet).
 
 ![Imperata cylindrica](../sources/Gramineae_vol05_paddle/figures/fig_024_p0143.png)
 
-*PL. XXIII. — Imperata cylindrica Beauv. (Chevalier 43641) : 1, base de la plante; 2, inflorescence; 3, détail d'une partie de l'inflorescence; 4, épillet et son involucre de soies (épillet avec les soies de 1,2 cm de long). — Chrysopogon aciculatus (Retz) Trin. (Chevalier 16090, 26790) : 5, base de la plante; 6, inflorescence; 7, détail d'une triade d'épillet (12 mm de long, y compris le callus).*
+*PL. XXIII. — Imperata cylindrica Beauv. (Chevalier 43641) : 1, base of the plant; 2, inflorescence; 3, detail of a part of the inflorescence; 4, spikelet and its involucre of setae (spikelet with the setae of 1.2 cm long). — Chrysopogon aciculatus (Retz) Trin. (Chevalier 16090, 26790) : 5, base of the plant; 6, inflorescence; 7, detail of a triad of spikelet (12 mm long, including the callus).*
 
 ## Notes
 

@@ -7,6 +7,8 @@ family: Scytopetalaceae
 vol: 24
 pages: 180-184
 source: sources/Scytopetalaceae_vol24_paddle
+countries: [Cameroon, Democratic Republic of the Congo]
+in_region: true
 tags: [species, generated]
 ---
 # *Rhaptopetalum roseum* (Gürke) Engler
@@ -45,7 +47,7 @@ One may wonder whether this species from the low mountains of eastern Zaïre rea
 
 ![Rhaptopetalum roseum](../sources/Scytopetalaceae_vol24_paddle/figures/fig_052_p0183.png)
 
-*PL. 52. — Rhaptopetalum roseum (Gürke) Engl.: 1, rameau avec fleurs × 4/9; 2, coupe long. fl. × 20/3; 3, rameau avec fruits × 2/3. (1, Troupin 4442, Zaïre; 2-3, Léonard 4941, Zaïre).*
+*PL. 52. — Rhaptopetalum roseum (Gürke) Engl.: 1, branch with flowers × 4/9; 2, long. sect. fl. × 20/3; 3, branch with fruits × 2/3. (1, Troupin 4442, Zaïre; 2-3, Léonard 4941, Zaïre).*
 
 ## Notes
 

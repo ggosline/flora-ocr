@@ -7,6 +7,8 @@ family: Leguminosae
 vol: 31
 pages: 126-129
 source: sources/Leguminosae_vol31_paddle
+countries: [Guinea, Sierra Leone, Uganda]
+in_region: false
 tags: [species, generated]
 ---
 # *Acacia kamerunensis* Gandoger

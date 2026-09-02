@@ -37,7 +37,7 @@ Le Testu : 1357, Sela, région de la Dikoudou, basse Nyanga (fl août), ce numé
 
 ![Calochone redingii](../sources/Rubiaceae_vol17_paddle/figures/fig_051_p0219.png)
 
-*PL. 50. — Calochone Redingii (De Wild.) Keay (Le Testu 1357, sauf 2, A. Bouquet 449) : 1, extrémité florifère × 0,70; 2, stipule; 3, bouton grossi; 4, sommet de la corolle; 5, nervation d'un lobe de la corolle; 6, étamine; 7, détail du stigmate et calice en coupe; 8, coupe de l'ovaire analysé sur herbier réhydraté.*
+*PL. 50. — Calochone Redingii (De Wild.) Keay (Le Testu 1357, except 2, A. Bouquet 449) : 1, flowering extremity × 0,70; 2, stipule; 3, enlarged bud; 4, apex of corolla; 5, venation of a corolla lobe; 6, stamen; 7, detail of stigma and calyx in section; 8, section of ovary analyzed on rehydrated herbarium specimen.*
 
 ## Notes
 

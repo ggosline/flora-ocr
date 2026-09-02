@@ -7,6 +7,10 @@ family: Sapindaceae
 vol: 23
 pages: 56-57
 source: sources/Sapindaceae_vol23_paddle
+countries: [Cameroon, Central African Republic, Gabon]
+in_region: true
+habit: "tree"
+altitude_m: "800"
 tags: [species, generated]
 ---
 # *Allophylus schweinfurthii* Gilg
@@ -45,7 +49,7 @@ Klaine 3179, Libreville (arbe 8-9 m, fl., bouton 1,5 mm, déc.). Le Testu 1934, 
 
 ![Allophylus schweinfurthii](../sources/Sapindaceae_vol23_paddle/figures/fig_003_p0035.png)
 
-*PL. 3. — Allophylus schweinfurthii Gilg (1-5", Schweinfurth 3696; 6, Letouzey 5205 bis) : 1, feuille et inflorescence, limbe 13 cm; 1', coupe du pétiole, diamètre 1,8 mm; 2, cymule et bouton 2 mm; 3, 3", sépales supérieur, inférieur et latéral; 4, 4", pétale, faces interne externe et profil; 4", pétale, fleur nouée, 5, 5", étamine, face externe, interne et profil; 6, fruit 5 mm. — Allophylus hallaei Fouilloy (7-11', N. Hallé & J.-F. Villiers 4391; 8', 12, 13, N.H. & J.-F. V. 4823) : 7, feuille et inflorescence, limbe 15 cm; 7', coupe du pétiole, 1 mm; 8, cymule et bouton 1,5 mm; 8', cymule fructifère, moignons 6 mm; 9, sépales supérieur et inférieur; 10, 10', pétale, face interne et profil; 12, embryon; 13, fruit, 13 mm.*
+*PL. 3. — Allophylus schweinfurthii Gilg (1-5", Schweinfurth 3696; 6, Letouzey 5205 bis) : 1, leaf and inflorescence, blade 13 cm; 1', section of petiole, diameter 1.8 mm; 2, cymule and bud 2 mm; 3, 3", upper, lower and lateral sepals; 4, 4", petal, internal and external faces and profile; 4", petal, nodding flower, 5, 5", stamen, external, internal face and profile; 6, fruit 5 mm. — Allophylus hallaei Fouilloy (7-11', N. Hallé & J.-F. Villiers 4391; 8', 12, 13, N.H. & J.-F. V. 4823) : 7, leaf and inflorescence, blade 15 cm; 7', section of petiole, 1 mm; 8, cymule and bud 1.5 mm; 8', fruiting cymule, stubs 6 mm; 9, upper and lower sepals; 10, 10', petal, internal face and profile; 12, embryo; 13, fruit, 13 mm.*
 
 ## Notes
 

@@ -7,6 +7,9 @@ family: Orchidaceae
 vol: 36
 pages: 91-93
 source: sources/Orchidaceae_vol36_paddle
+countries: [Gabon, Sao Tome and Principe]
+in_region: true
+habitat: [secondary forest]
 tags: [species, generated]
 ---
 # *Vanilla grandifolia* Lindl.
@@ -17,29 +20,23 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Feuilles pétiolées, 8-25 × 5-20 cm, largement elliptiques-ovées à subarrondies, apiculées. Inflorescence 5-12 cm, 5-20-flore. Fleurs jaunâtres à labelle violet ou veiné de pourpre. Sépale dorsal à marge révolu- tée, blancéolé à oblong-obové, aigu ; sépales latéraux obliquement obovés à largement blancéolés, subobtus. Pétales obliquement oblongs-obvés, aigus, avec une saillie longitudinale le long de la face externe de la médiane. Labelle conique vers la base, cunéiforme (si étalé), vaguement trilobé, très épais, charnu, à sommet court aigu triangulaire, à marges ondulées à l'avant ; callus érodé le long de la médiane en direction du sommet depuis une touffe centrale de lamelles charnues et dentées ; ce callus est particulièrement élargi et ailé au-dessous du sommet. – Pl. 42, p. 89.
+Petiolate leaves, 8-25 × 5-20 cm, broadly elliptic-ovate to subrounded, apiculate. Inflorescence 5-12 cm, 5-20-flowered. Flowers yellowish with violet or purple-veined lip. Dorsal sepal with revolute margin, lanceolate to oblong-obovate, acute; lateral sepals obliquely obovate to broadly lanceolate, subobtuse. Petals obliquely oblong-obovate, acute, with a longitudinal ridge along the outer face of the midvein. Lip conical toward the base, cuneiform (when spread), vaguely trilobed, very thick, fleshy, with short acute triangular apex, with undulate margins anteriorly; callus eroded along the midvein toward the apex from a central tuft of fleshy and toothed lamellae; this callus is particularly enlarged and winged below the apex. – Pl. 42, p. 89.
 
 ## Distribution
-
-<!-- TODO:translate — source text below, verbatim and untranslated -->
 
 Principe, Congo (Kinshasa), Gabon
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+secondary forest
 
-forêt secondaire
+MATERIAL STUDIED (Map 14):
 
-MATÉRIEL ÉTUDIÉ (Carte 14) :
+Arends s.n., Doussala, cult. WAG (84-279), non vidi – determination uncertain.
 
-Arends s.n., Doussala, cult. WAG (84-279), non vidi – détermination incertaine.
+Breteler 6826, km 11 trail Moanda-Bakoumba, approx. 1°36' S, 13°09' E (fr. Oct.), WAG!.
 
-Breteler 6826, km 11 piste de Moanda-Bakoumba. env. 1°36' S, 13°09' E (fr. Oct.), WAG!.
-
-Le Testu 6077, entre Nduigui et Wano (fl., Sept.), BM!, BR! ; 8445, Moucombo, région de Lastoursville (fl., Sept.), P! ; 9308, circonscription du Woleu-Ntem, Oajem (fl., Oct.), BM!, BR!, P!.
+Le Testu 6077, between Nduigui and Wano (fl., Sept.), BM!, BR!; 8445, Moucombo, region of Lastoursville (fl., Sept.), P!; 9308, administrative division of Woleu-Ntem, Oajem (fl., Oct.), BM!, BR!, P!.
 
 ## Figures
 
@@ -47,7 +44,7 @@ Le Testu 6077, entre Nduigui et Wano (fl., Sept.), BM!, BR! ; 8445, Moucombo, r�
 
 ![Vanilla grandifolia](../sources/Orchidaceae_vol36_paddle/figures/fig_047_p0092.png)
 
-*PL. 42. – Vanilla grandifolia Lindl.: A, labelle étalé ; B, sépale latéral ; C, pétale ; D, sépale dorsal ; E, feuille (A-E, Le Testu 8445, P).*
+*PL. 42. – Vanilla grandifolia Lindl.: A, spread lip ; B, lateral sepal ; C, petal ; D, dorsal sepal ; E, leaf (A-E, Le Testu 8445, P).*
 
 ## Notes
 

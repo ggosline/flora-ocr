@@ -7,6 +7,9 @@ family: Brassicaceae
 vol: 30
 pages: 21-26
 source: sources/Capparidaceae_vol30_paddle
+countries: [Angola, Gabon, Senegal]
+in_region: true
+habitat: [coastal]
 tags: [species, generated]
 ---
 # *Cleome rutidosperma* De Candolle
@@ -81,7 +84,7 @@ Hallé 2926, Gabon, s.l. (fl. & fr. sept.), P.
 
 ![Cleome rutidosperma](../sources/Capparidaceae_vol30_paddle/figures/fig_003_p0022.png)
 
-*PL. 2. – Cleome rutidosperma DC.: 1, port général de la plante × 1/3; 2, fleur × 2; 3, pétales, à gauche, le pétale supérieur × 4; 4, graine × 8 (Dybowsky s.n.).*
+*PL. 2. – Cleome rutidosperma DC.: 1, general habit of the plant × 1/3; 2, flower × 2; 3, petals, on the left, the upper petal × 4; 4, seed × 8 (Dybowsky s.n.).*
 
 ## Notes
 

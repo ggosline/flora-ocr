@@ -7,6 +7,12 @@ family: Convolvulaceae
 vol: 46
 pages: 54-55
 source: sources/Convolvulaceae_vol46_liteparse
+countries: [Angola, Cameroon, Central African Republic, Cote d'Ivoire, Democratic Republic of the Congo, Equatorial Guinea, Gabon, Ghana, Liberia, Nigeria, Republic of the Congo, Sierra Leone]
+in_region: true
+subdivisions:
+  Gabon: [Estuaire, Haut-Ogooué]
+habit: "liana"
+altitude_m: "650"
 tags: [species, generated]
 ---
 # *Neuropeltis acuminata* (P.Beauv.) Benth. Planche 23

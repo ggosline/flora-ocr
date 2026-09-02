@@ -7,6 +7,13 @@ family: Clusiaceae
 vol: 45
 pages: 30-31
 source: sources/Clusiaceae_vol45_liteparse
+countries: [Cameroon, Equatorial Guinea, Gabon, Nigeria]
+in_region: true
+subdivisions:
+  Gabon: [Nyanga, Ogooué-Maritime]
+habit: "tree"
+habitat: [secondary forest]
+altitude_m: "700"
 tags: [species, generated]
 ---
 # *Garcinia mannii* Oliv.

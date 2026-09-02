@@ -7,6 +7,9 @@ family: Dichapetalaceae
 vol: 32
 pages: 129-132
 source: sources/Dichapetalaceae_vol32_paddle
+countries: [Cameroon, Gabon]
+in_region: true
+habit: "liana"
 tags: [species, generated]
 ---
 # *Dichapetalum melanocladum* Breteler
@@ -71,7 +74,7 @@ By their vegetative characters, specimens of D. melanocladum can easily be confu
 
 ![Dichapetalum melanocladum](../sources/Dichapetalaceae_vol32_paddle/figures/fig_036_p0130.png)
 
-*PL. 35. – Dichapetalum melanocladum Breteler : 1, rameau portant des boutons floraux × 0,5 ; 2, rameau latéral à petites feuilles d'une pousse orthotrope × 0,5 ; 3, aisselle foliaire, stipules et jeune inflorescence × 3 ; 4, inflorescence bifurquée × 3 ; 5, inflorescence 4-ramifiée × 3 ; 6, fleur × 9 ; 7, fleur, détail × 9 ; 8, pétale et étamine, vue externe × 9 ; 9, fruit (1, Breteler 5792 ; 2, Bos & Breteler 7234 ; 3-5, Breteler 6998 ; J.J. de Wilde 8136). – Repris de MLW 81 (10) : 25 (1981).*
+*PL. 35. – Dichapetalum melanocladum Breteler : 1, branch bearing flower buds × 0.5 ; 2, lateral branch with small leaves from an orthotropic shoot × 0.5 ; 3, leaf axil, stipules and young inflorescence × 3 ; 4, bifurcate inflorescence × 3 ; 5, 4-branched inflorescence × 3 ; 6, flower × 9 ; 7, flower, detail × 9 ; 8, petal and stamen, external view × 9 ; 9, fruit (1, Breteler 5792 ; 2, Bos & Breteler 7234 ; 3-5, Breteler 6998 ; J.J. de Wilde 8136). – Reprinted from MLW 81 (10) : 25 (1981).*
 
 ## Notes
 

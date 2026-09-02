@@ -7,6 +7,7 @@ family: Gramineae
 vol: 05
 pages: 204-208
 source: sources/Gramineae_vol05_paddle
+habit: "herb"
 tags: [species, generated]
 ---
 # *Guaduella marantifolia* Franch.
@@ -57,7 +58,7 @@ Thollon : 51, 159, Ndjolé.
 
 ![Guaduella marantifolia](../sources/Gramineae_vol05_paddle/figures/fig_033_p0207.png)
 
-*PL. XXXII. — Guaduella marantifolia Franch. (Thollon 716) : 1, feuilles et inflorescence; 2, détail de la nervation des feuilles; 3, épillet long de 35 à 40 mm; 4, détail d'une fleur munie de ses glumelles; 5, détail d'une fleur, dépouillée de ses glumelles. — G. marantifolia var. brevifolia Franch. (Thollon 51) : 6, aspect de la plante; 7, épillet long d'env. 30 mm.*
+*PL. XXXII. — Guaduella marantifolia Franch. (Thollon 716) : 1, leaves and inflorescence; 2, detail of venation of leaves; 3, spikelet 35 to 40 mm long; 4, detail of a flower furnished with its glumes; 5, detail of a flower, stripped of its glumes. — G. marantifolia var. brevifolia Franch. (Thollon 51) : 6, aspect of plant; 7, spikelet approx. 30 mm long.*
 
 ## Notes
 

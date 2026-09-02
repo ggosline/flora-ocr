@@ -7,6 +7,13 @@ family: Leguminosae
 vol: 49
 pages: 57-59
 source: sources/Millettiaspeciesfabaceae_vol49_liteparse
+countries: [Angola, Cameroon, Equatorial Guinea, Gabon, Republic of the Congo]
+in_region: true
+subdivisions:
+  Gabon: [Estuaire, Moyen-Ogooué, Ogooué-Ivindo, Ogooué-Maritime, Woleu-Ntem]
+habit: "tree"
+habitat: [secondary forest]
+altitude_m: "50–500"
 tags: [species, generated]
 ---
 # *Baphia hylophila* Harms

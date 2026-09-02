@@ -7,6 +7,7 @@ family: Sterculiaceae
 vol: 02
 pages: 108-109
 source: sources/Sterculiaceae_vol02_paddle
+habit: "tree"
 tags: [species, generated]
 ---
 # *Octolobus heteromerus* K. Schum.
@@ -43,11 +44,11 @@ N. Hallé : 1449, Makokou.
 
 ![Octolobus heteromerus](../sources/Sterculiaceae_vol02_paddle/figures/fig_001_p0007.png)
 
-*PL. I. — Fleurs ouvertes en long : 1, Sterculia tragacantha ♂. — 2, Eribroma oblonga ♂. — 3, Pterygota bequaertii ♂. — 4, Tarrietia densiflora ♂. — 5, Chlamydocolachlamydanta ♂. — 6, Cola acuminata ♂. — 7, Cola (Neocourtenia) mahoundensis ♂. — 8, Octolobus heteromerus ♂. — 9, Triplochiton scleroxylon. — 10, Theobroma cacao. — 11, Scaphopetalum blackii. — 12, Byttneria grossedenticulata. — 13, Nesogordonia fouassieri. — 14, Leptonychia lasiogyne. — 15, Waltheria indica.*
+*PL. I. — Flowers opened lengthwise : 1, Sterculia tragacantha ♂. — 2, Eribroma oblonga ♂. — 3, Pterygota bequaertii ♂. — 4, Tarrietia densiflora ♂. — 5, Chlamydocolachlamydanta ♂. — 6, Cola acuminata ♂. — 7, Cola (Neocourtenia) mahoundensis ♂. — 8, Octolobus heteromerus ♂. — 9, Triplochiton scleroxylon. — 10, Theobroma cacao. — 11, Scaphopetalum blackii. — 12, Byttneria grossedenticulata. — 13, Nesogordonia fouassieri. — 14, Leptonychia lasiogyne. — 15, Waltheria indica.*
 
 ![Octolobus heteromerus](../sources/Sterculiaceae_vol02_paddle/figures/fig_020_p0111.png)
 
-*PL. XX. — 1 à 11, Octolobus spectabilis Welw.: 1 et 2, types de feuilles; 3 et 4, extrémités stipulées; 5 et 6, types de boutons floraux; 7, fleur ♂ épanouie; 8, androcée à anthères hautes de 3 mm; 9, gynandrocée; 10, fruit avec le pédoncule fendu en long; 11, graine; (1 et 3, Le Testu 8505; 2, 4, 5 et 7, Le T. 6072; 6, Le T. 1845; 8 et 9, Welwitsch 1202; 10 et 11, Tisserant 2427). — 12 à 16, Octolobus heteromerus K. Schum. (Le Testu 9491): 12, extrémité stipulée; 13 bouton; 14; fleur ♀ épanouie; 15, androcée à anthères hautes de 3 mm; 16, gynandrocée.*
+*PL. XX. — 1 à 11, Octolobus spectabilis Welw.: 1 et 2, types of leaves; 3 et 4, stipulated extremities; 5 et 6, types of floral buds; 7, expanded ♂ flower; 8, androecium with anthers 3 mm high; 9, gyandroecium; 10, fruit with the pedicel split lengthwise; 11, seed; (1 et 3, Le Testu 8505; 2, 4, 5 et 7, Le T. 6072; 6, Le T. 1845; 8 et 9, Welwitsch 1202; 10 et 11, Tisserant 2427). — 12 à 16, Octolobus heteromerus K. Schum. (Le Testu 9491): 12, stipulated extremity; 13 bud; 14; expanded ♀ flower; 15, androecium with anthers 3 mm high; 16, gyandroecium.*
 
 ## Notes
 

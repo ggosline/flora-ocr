@@ -7,6 +7,12 @@ family: Thismiaceae
 vol: 41
 pages: 68-69
 source: sources/Thismiaceae_vol41_liteparse
+countries: [Cameroon, Gabon]
+in_region: true
+subdivisions:
+  Gabon: [Ngounié]
+habit: "herb"
+altitude_m: "500"
 tags: [species, generated]
 ---
 # *Afrothismia saingei* T.Franke Planche 15

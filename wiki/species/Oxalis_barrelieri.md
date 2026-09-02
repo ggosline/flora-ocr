@@ -7,6 +7,11 @@ family: Oxalidaceae
 vol: 38
 pages: 47-48
 source: sources/Oxalidaceae_vol38_liteparse
+countries: [Cameroon, Cote d'Ivoire, Democratic Republic of the Congo, Gabon, Ghana, Kenya, Tanzania, Uganda]
+in_region: true
+subdivisions:
+  Gabon: [Estuaire, Woleu-Ntem]
+habit: "herb"
 tags: [species, generated]
 ---
 # *Oxalis barrelieri* L.

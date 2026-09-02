@@ -7,6 +7,10 @@ family: Apocynaceae
 vol: 59
 pages: 163-163
 source: sources/Apocynaceae_vol59_liteparse
+countries: [Gabon]
+in_region: true
+habit: "tree"
+altitude_m: "575–850"
 tags: [species, generated]
 ---
 # *Malouetia mildbraedii* (Gilg & Stapf) J.Ploeg Planche 74

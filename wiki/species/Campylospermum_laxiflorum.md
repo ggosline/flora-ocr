@@ -7,6 +7,10 @@ family: Ochnaceae
 vol: 48
 pages: 59-61
 source: sources/Ochnaceae_vol48_liteparse
+countries: [Angola, Democratic Republic of the Congo, Gabon, Ghana, Nigeria, Senegal]
+in_region: true
+habitat: [secondary forest, riverine]
+altitude_m: "1000"
 tags: [species, generated]
 ---
 # *Campylospermum laxiflorum* (De Wild. & T.Durand) Tiegh. Planche 16

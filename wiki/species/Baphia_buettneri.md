@@ -7,6 +7,13 @@ family: Leguminosae
 vol: 49
 pages: 54-55
 source: sources/Millettiaspeciesfabaceae_vol49_liteparse
+countries: [Gabon]
+in_region: true
+subdivisions:
+  Gabon: [Estuaire, Ogooué-Ivindo, Woleu-Ntem]
+habit: "tree"
+habitat: [secondary forest]
+altitude_m: "0–500"
 tags: [species, generated]
 ---
 # *Baphia buettneri* Harms

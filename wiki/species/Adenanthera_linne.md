@@ -6,6 +6,7 @@ family: Leguminosae
 vol: 31
 pages: 64-67
 source: sources/Leguminosae_vol31_paddle
+habit: "tree"
 tags: [species, generated]
 ---
 # *Adenanthera linne*
@@ -60,7 +61,7 @@ Griffon du Bellay 146, s.l. (fr.).
 
 ![Adenanthera linne](../sources/Leguminosae_vol31_paddle/figures/fig_027_p0066.png)
 
-*PL. 15. – Adenanthera pavonina L.: 1, aspect général × 0,8 ; 2, anthère × 30 ; 3, 4, fruit × 1 ; 5, graine × 5. (Letouzey 10138 (Cameroun)).*
+*PL. 15. – Adenanthera pavonina L.: 1, general aspect × 0,8 ; 2, anther × 30 ; 3, 4, fruit × 1 ; 5, seed × 5. (Letouzey 10138 (Cameroon)).*
 
 ## Notes
 

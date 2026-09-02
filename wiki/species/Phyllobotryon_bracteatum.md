@@ -7,6 +7,9 @@ family: Flacourtiaceae
 vol: 34
 pages: 29-30
 source: sources/Flacourtiaceae_vol34_paddle
+countries: [Gabon]
+in_region: true
+habit: "shrub"
 tags: [species, generated]
 ---
 # *Phyllobotryon bracteatum* (Lecomte) Hul

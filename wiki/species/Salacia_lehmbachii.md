@@ -7,6 +7,9 @@ family: Celastraceae
 vol: 29
 pages: 72-78
 source: sources/Celastraceae_vol29_paddle
+countries: [Cameroon, Gabon, Guinea, Liberia]
+in_region: true
+habit: "liana"
 tags: [species, generated]
 ---
 # *Salacia lehmbachii* Loesener

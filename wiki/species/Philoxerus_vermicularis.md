@@ -5,13 +5,9 @@ authority: (L.) P. Beauv.
 genus: Philoxerus
 family: Amaranthaceae
 synonyms: [Iresine vermicularis, Philoxerus vermiculatus]
-countries: [Gabon]
 range_note: "Pantropical coastal species."
-countries_incomplete: true
-in_region: true
-habit: succulent coastal herb
-habitat: [seashore]
 treatments: [{vol: 7, pages: "46–49", source: sources/Amaranthaceae_vol7_paddle}]
+habit: "herb"
 tags: [species]
 ---
 

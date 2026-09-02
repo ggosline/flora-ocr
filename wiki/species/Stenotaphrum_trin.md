@@ -16,8 +16,6 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 61.1 Stenotaphrum secundatum (Walt.) Kuntze
 
 Fl. Gab.: 28, Pl. 4 ; FACB 2 : 122 ; FWTA : 435 ; Fl. Zamb. 10(3) : 113 ; Gram. Cam. : 300, Pl. 65 ; Poac. CI. : 346, 347 ; Gram. CB. : 207.

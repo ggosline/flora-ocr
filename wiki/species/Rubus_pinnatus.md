@@ -8,6 +8,11 @@ vol: 41
 pages: 57-58
 source: sources/Rosaceae_vol41_liteparse
 also_in_vols: [41]
+countries: [Benin, Equatorial Guinea, Gabon, Sao Tome and Principe, Togo]
+in_region: true
+habit: "shrub"
+habitat: [secondary forest]
+altitude_m: "3000"
 tags: [species, generated]
 ---
 # *Rubus pinnatus* Willd. var. afrotropicus (Engl.) Gust. Planche 13 (1-4)

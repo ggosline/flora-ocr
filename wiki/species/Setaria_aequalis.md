@@ -22,17 +22,13 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Culms slender, branched, glabrous or pubescent with tuberculate hairs. Leaf sheaths compressed-keeled, at least at the base, pubescent at least at the level of the nodes. Blades lanceolate, attenuated at both ends, up to 15 × 2 cm and slightly longitudinally plicate.
 
-Chaumes minces, ramifiés glabres ou pubescents à poils tuberculés. Gaines foliaires compressées-carénées, au moins à la base,
+Inflorescence paniculate, approximately as long as the leaves. Branches racemose, bearing up to about twenty spikelets, or toward the base some short secondary racemes.
 
-pubescentes au moins au niveau des nœuds. Limbes lancéolés, atténués aux deux extrémités, jusqu'à  $ 15 \times 2 $ cm et légèrement plissés longitudinalement.
+Spikelets approximately 2.5 mm long; lower glume orbicular, hyaline, making 1/4 of the spikelet length, with 3 more or less visible nerves. Upper glume as long as the spikelet, with 5 or sometimes 7 nerves. Lower floret neuter; lemma similar to the upper glume, flattened on the back; palea much shorter. Upper floret white or pale brown; lemma transversely rugose and papillose at the apex.
 
-Inflorescence paniculée, à peu près aussi longue que les feuilles. Branches racémeuses portant jusqu'à une vingtaine d'épillets, ou vers la base quelques courts racèmes secondaires.
-
-Épillets d'environ 2,5 mm de long; glume inférieure orbiculaire, hyaline, faisant 1/4 de la longueur de l'épillet, avec 3 nervures plus ou moins visibles. Glume supérieure aussi longue que l'épillet, avec 5 ou parfois 7 nervures. Fleur inférieure neutre; lemma semblable à la glume supérieure, aplatie sur le dos; paléa beaucoup plus courte. Fleur supérieure blanche ou brun-pâle; lemma transversalement rugueuse et papilleuse au sommet.
-
-Connue de l'Afrique orientale, du Congo et de l'Angola, c'est une herbe qui vit dans des endroits ombragés, valeur fourragère sans doute médiocre.
+Known from East Africa, Congo, and Angola, it is an herb that lives in shaded places, with doubtless mediocre forage value.
 
 ## Specimens examined
 

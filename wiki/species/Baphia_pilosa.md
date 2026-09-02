@@ -7,6 +7,13 @@ family: Leguminosae
 vol: 49
 pages: 63-65
 source: sources/Millettiaspeciesfabaceae_vol49_liteparse
+countries: [Angola, Cameroon, Democratic Republic of the Congo, Gabon, Republic of the Congo]
+in_region: true
+subdivisions:
+  Gabon: [Woleu-Ntem]
+habit: "liana"
+habitat: [secondary forest]
+altitude_m: "30–400"
 tags: [species, generated]
 ---
 # *Baphia pilosa* Baill.

@@ -7,6 +7,13 @@ family: Apocynaceae
 vol: 59
 pages: 271-273
 source: sources/Apocynaceae_vol59_liteparse
+countries: [Cameroon, Gabon, Nigeria]
+in_region: true
+subdivisions:
+  Gabon: [Estuaire]
+habit: "tree"
+habitat: [secondary forest]
+altitude_m: "100"
 tags: [species, generated]
 ---
 # *Voacanga psilocalyx* Pierre ex Stapf Planche 125
@@ -17,23 +24,17 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Fl. trop. Afr. 4(l) : 159 (1902). Voacanga zenkeri Stapf, Fl. trop. Afr. 4(l) : 159 (1902). Arbuste ou petit arbre atteignant 3 m de hauteur ; rameaux glabres. Feuille glabre ; pétiole GH±PPOLPEHpWURLWHPHQWHOOLSWLTXHjpWURLWHPHQWHOOLSWLTXHRERYDOHGH±î± cm, de forme et de taille très variables, même sur la même plante, longuement atténué à la base, acuminé au sommet ; nervures secondaires 5 à 14 paires. ,QÀRUHVFHQFH : pédoncule de 3,5–20 cm ; bractées atteignant environ la taille du calice. Fleur : pédicelle de 5–20 mm ; calice long de 11,5–17 mm, à tube avec une ceinture de collétères internes, à lobes dressés , REORQJV±IRLVDXVVLORQJVTXHOHWXEHODUJHVGH±PPFRUROOHEODQFKHj tube long de 12–18 mm , nettement tordu , rétréci progressivement vers la gorge, à lobes ± étalés et incurvés vers l’apex, oblongs à ovales-oblongs, de 10–16 × 3–5 mm , avec une distance de 1–2 mm entre la gorge et la base des lobes, IRUPDQWGDQVOHERXWRQXQHWrWHHOOLSVRwGDOHRX DOORQJpHFRQLTXHpWURLWHpWDPLQHVLQVpUpHVDXGHVVXVGXPLOLHXDQWKqUHORQJXHGH±PP pistil long de 8–11 mm. Fruit jFDUSHOOHVOLEUHVREOLTXHPHQWRYRwGHVRXHOOLSVRwGDX[ORQJGH ± 3 cm (en état sec), à bec court.
+Fl. trop. Afr. 4(1): 159 (1902). Voacanga zenkeri Stapf, Fl. trop. Afr. 4(1): 159 (1902). Shrub or small tree reaching 3 m in height; branches glabrous. Leaf glabrous; petiole 0.5–2 cm, narrowly elliptic to narrowly elliptic-obovate, of very variable form and size, even on the same plant, long-attenuate at base, acuminate at apex; secondary veins 5 to 14 pairs. Inflorescence: peduncle 3.5–20 cm; bracts reaching approximately the size of the calyx. Flower: pedicel 5–20 mm; calyx 11.5–17 mm long, with tube bearing a ring of internal colleters, with erect, oblong lobes 1–2 times as long as the tube, 2–5 mm wide; corolla white; tube 12–18 mm long, distinctly twisted, gradually narrowed towards the throat, with lobes ± spreading and incurved towards the apex, oblong to ovate-oblong, 10–16 × 3–5 mm, with a distance of 1–2 mm between the throat and the base of the lobes, forming in the bud an ellipsoid or elongate-conical head; stamens inserted above the middle; anther 3–4 mm long; pistil 8–11 mm long. Fruit: carpels free, obliquely ovoid or ellipsoid, 2–3 cm long (in dry state), with short beak.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-sud-est du Nigéria, Cameroun et Gabon ; au Gabon : Estuaire
+south-east Nigeria, Cameroon and Gabon; in Gabon: Estuaire
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+understory of primary and secondary forest; in Gabon, below 100 m altitude. Notes. Additional field work is necessary to confirm that V. psilocalyx and V. zenkeri represent the same species. The form of the corolla lobes overall is more slender towards the northern part of the range (Cameroon and Nigeria). Several specimens cited in Leeuwenberg's revision (1985) under V. psilocalyx represent here newly described species, V. bidaultii and V. wieringae, or else V. micrantha. Bibliography: Leeuwenberg (1985), Pichon (1948). BIBLIOGRAPHY
 
-sous-bois de forêt primaire et secondaire ; au Gabon, en-dessous de 100 m d’altitude. Notes 'HVWUDYDX[GHWHUUDLQVXSSOpPHQWDLUHVVRQWQpFHVVDLUHVSRXUFRQ¿UPHUTXH V. psilocalyx et V. zenkeri représentent bien la même espèce. La forme des lobes de la corolle de l’ensemble est plus élancée vers la partie nord de l’aire de répartition (Cameroun et Nigéria). Plusieurs spécimens cités dans la révision de Leeuwenberg (1985) sous V . psilocalyx représentent ici des espèces nouvellement décrites, V. bidaultii et V. wieringae , ou bien V. micrantha. B : Leeuwenberg (1985), Pichon (1948). IBLIOGRAPHIE
-
-Juliet Williamson, Naturalis Biodiversity Center (©), reproduit à partir de Leeuwenberg (1985).
+Juliet Williamson, Naturalis Biodiversity Center (©), reproduced from Leeuwenberg (1985).
 
 ## Notes
 

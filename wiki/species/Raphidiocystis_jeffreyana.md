@@ -7,6 +7,13 @@ family: Cucurbitaceae
 vol: 57
 pages: 101-103
 source: sources/Cucurbitaceae_vol57_paddle
+countries: [Angola, Burundi, Cameroon, Democratic Republic of the Congo, Gabon, Republic of the Congo, Uganda]
+in_region: true
+subdivisions:
+  Gabon: [Moyen-Ogooué, Woleu-Ntem]
+habit: "herb"
+habitat: [secondary forest, riverine, evergreen forest]
+altitude_m: "40–900"
 tags: [species, generated]
 ---
 # *Raphidiocystis jeffreyana* R.Fern. & A.Fern.

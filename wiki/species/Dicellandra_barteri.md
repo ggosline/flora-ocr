@@ -27,11 +27,11 @@ tags: [species, generated]
 
 ![Dicellandra barteri](../sources/Melastomataceae_vol25_paddle/figures/fig_035_p0097.png)
 
-*PL. 35. — Dicellandra barteri var. magnifica (Mildbr.) Jacq.-Fél. : base de tige, feuille et panicule de cymes × 2/3 (Louis 15792). (Repris d'Adansonia, sér. 2, 14 (1) : tab. 6, 1974).*
+*PL. 35. — Dicellandra barteri var. magnifica (Mildbr.) Jacq.-Fél. : base of stem, leaf and panicle of cymes × 2/3 (Louis 15792). (Reprinted from Adansonia, sér. 2, 14 (1) : tab. 6, 1974).*
 
 ![Dicellandra barteri](../sources/Melastomataceae_vol25_paddle/figures/fig_036_p0099.png)
 
-*PL. 36. — Dicellandra barteri var. escherichii (Gilg) Jacq.-Fél. : sommité fleurie × 2/3; étamines × 6 (Hallé N. 2206). (Repris d'Adansonia, sér. 2, 14 (1) : tab. 7, 1974).*
+*PL. 36. — Dicellandra barteri var. escherichii (Gilg) Jacq.-Fél. : flowering top × 2/3; stamens × 6 (Hallé N. 2206). (Reproduced from Adansonia, sér. 2, 14 (1) : tab. 7, 1974).*
 
 ## Notes
 

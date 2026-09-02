@@ -7,6 +7,13 @@ family: Leguminosae
 vol: 49
 pages: 54-54
 source: sources/Millettiaspeciesfabaceae_vol49_liteparse
+countries: [Cameroon, Democratic Republic of the Congo, Gabon]
+in_region: true
+subdivisions:
+  Gabon: [Ngounié, Ogooué-Ivindo, Ogooué-Lolo, Woleu-Ntem]
+habit: "tree"
+habitat: [secondary forest, primary forest]
+altitude_m: "0–700"
 tags: [species, generated]
 ---
 # *Baphia acuminata* De Wild. Planche 14

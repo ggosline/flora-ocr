@@ -7,6 +7,13 @@ family: Anacardiaceae
 vol: 50
 pages: 41-41
 source: sources/Anacardiaceae_vol50_liteparse
+countries: [Gabon]
+in_region: true
+subdivisions:
+  Gabon: [Ogooué-Lolo]
+habit: "tree"
+habitat: [secondary forest]
+altitude_m: "300–400"
 tags: [species, generated]
 ---
 # *Trichoscypha debruijnii* Breteler Planche 15
@@ -17,21 +24,15 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Adansonia, sér. 3, 26(1) : 109 (2004). Arbre de 5 m de hauteur ; tronc 3–5 cm de diamètre ; ramilles tomenteuses à poils étoilés . Feuille jusqu’à 80 cm de longueur ; pétiole et rachis subcylindriques, poilus comme les ramilles ; folioles 27, opposées à alternes, pétiolules (6–)7–10 mm, limbe obliquement elliptique à lancéolé , (8–)14–20 × 4–5 cm, très asymétrique à la base , cunéé sur le côté proximal, arrondi à obtus sur le côté distal, caudé-acuminé sur 2–2,5 cm au sommet, éparsement pubescent à poils étoilés sur la médiane imprimée dessus, à poils étoilés denses dessous ; nervures latérales en 16 à 20 paires, légèrement proéminentes dessous. Inflorescence naissant sur le tronc à 1,8 m de hauteur, ± 30 cm de longueur (en fruit), à poils courts bruns et ± simples. Fleur mâle inconnue. Fleur femelle (d’après débris dans l’infrutescence) : pédicelle 1 mm, pubescent ; calice 1,5 mm de longueur, pubérulent à l’extérieur, lobes ± 0,5 mm de longueur ; pétales étroitement imbriqués, réfléchis, ovales-oblongues, ± 2,5 mm de longueur, à petits poils apprimés ; staminodes 1 mm de longueur ; disque concave, éparsement poilu ; ovaire tomentelleux ; stigmates sessiles. Fruit ovoïde-ellipsoïdal, 3,5–5 × 2,5–3,5 cm, rouge, velouté à poils simples ; pulpe rouge. Graine ellipsoïdale, comprimée latéralement, 3,2 × 1,8 × 1,5 cm.
+Adansonia, ser. 3, 26(1): 109 (2004). Tree 5 m tall; trunk 3–5 cm diameter; branchlets tomentose with stellate hairs. Leaf up to 80 cm long; petiole and rachis subcylindric, hairy as the branchlets; leaflets 27, opposite to alternate, petiolules (6–)7–10 mm, blade obliquely elliptic to lanceolate, (8–)14–20 × 4–5 cm, very asymmetric at the base, cuneate on the proximal side, rounded to obtuse on the distal side, caudate-acuminate for 2–2.5 cm at the apex, sparsely pubescent with stellate hairs on the impressed midvein above, with dense stellate hairs below; lateral nerves in 16 to 20 pairs, slightly prominent below. Inflorescence arising on the trunk at 1.8 m height, ± 30 cm long (in fruit), with short brown and ± simple hairs. Male flower unknown. Female flower (according to debris in the fruiting inflorescence): pedicel 1 mm, pubescent; calyx 1.5 mm long, puberulent on the outside, lobes ± 0.5 mm long; petals narrowly imbricate, reflexed, ovate-oblong, ± 2.5 mm long, with small appressed hairs; staminodes 1 mm long; disc concave, sparsely hairy; ovary tomentellous; stigmas sessile. Fruit ovoid-ellipsoidal, 3.5–5 × 2.5–3.5 cm, red, velvety with simple hairs; pulp red. Seed ellipsoidal, laterally compressed, 3.2 × 1.8 × 1.5 cm.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-endémique du Gabon, connu d’une seule récolte de l’Ogooué-Lolo
+endemic to Gabon, known from a single collection from Ogooué-Lolo
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-forêt primaire ou secondarisée ; à 300–400 m d’altitude. B : Breteler (2004). i B liographie
+primary or secondarized forest; at 300–400 m altitude. B: Breteler (2004). Bibliography
 
 ## Notes
 

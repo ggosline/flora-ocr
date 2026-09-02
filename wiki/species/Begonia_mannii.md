@@ -7,6 +7,10 @@ family: Begoniaceae
 vol: 39
 pages: 106-108
 source: sources/Begoniaceae_vol39_liteparse
+countries: [Cameroon, Cote d'Ivoire, Equatorial Guinea, Gabon, Ghana, Guinea, Liberia, Nigeria, Sierra Leone]
+in_region: true
+habit: "epiphyte"
+altitude_m: "1200"
 tags: [species, generated]
 ---
 # *Begonia mannii* Hook. Planche 49

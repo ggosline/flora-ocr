@@ -7,6 +7,7 @@ family: Melastomataceae
 vol: 25
 pages: 154-156
 source: sources/Melastomataceae_vol25_paddle
+habit: "shrub"
 tags: [species, generated]
 ---
 # *Warneckea cauliflora* Jacques-Félix
@@ -17,13 +18,11 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Shrub 1 to 2 m tall; branches robust, 4 mm in diameter in the still leafy part, distinctly 4-angular-winged. Leaves ample, subsessile, subcoriaceous; petiole robust, 1–3 mm; blade elliptic to ovate-elliptic, up to 11 × 28 cm, broadly rounded, then narrowly cordate at the petiole, obscurely acuminate at the apex; nerves impressed above, strongly prominent below; the main convergent ones distinctly supra-basal, curved toward the apex only; 1 to 2 pairs of additional curved veins, the submarginalpair evanescent before the apex; 6–8 main transverse veins; intercalary veins loosely reticulate.
 
-Arbuste de 1 à 2 m; rameaux robustes, 4 mm de diamètre dans la partie encore feuillée, nettement 4-angulaires-ailés. Feuilles amples, subsessiles, subcoriaces; pétiole robuste, de 1-3 mm; limbe elliptique à ovale elliptique, jusqu'à 11 × 28 cm, largement arrondi, puis étroitement cordé sur le pétiole, obscurément acuminé au sommet; nervures imprimées dessus, fortement saillantes dessous; les convergentes principales nettement supra-basales, coarquées seulement vers le sommet; 1 à 2 paires additionnelles coarquées, la paire submarginale évanescente avant le sommet; 6-8 transversales principales; intercalaires lâchement réticulées.
+Cymes fascicled by 12–15 on the nodes of old wood, 3–4 cm long, stipites 5–10 mm long; 2 to 3 times branched, branches 5–8 mm; scarious bracts, 1–2 mm long, long persistent. Flower with robust pedicel, 10–12 mm; floral bud ellipsoid, 4.5 × 6 mm, corolla conical, equal to half the height; hypantho-calyx campanulate, 5 × 4 mm; calyx sinuate, or lobes very obtuse, 3 × 1 mm, imbricate. Petals fleshy, longitudinally wrinkled (by contact with stamens in the bud), oblong-triangular to elliptic, base truncate without claw, apex triangular obtuse, 3 × 4.5 mm. Anthers 1.8 × 1.2 mm, with convex thecae; connective conical obtuse, slightly saddled by the gland equal to one third or half the length; filament 1.7 mm. Epigynous chamber grooved; style 4–5 mm. Ovary 2-locular, 6–8 ovulate.
 
-Cymes fasciculées par 12-15 sur les nœuds du vieux bois, longues de 3-4 cm, stipes longs de 5-10 mm; de 2 à 3 fois ramiﬁées, rameaux de 5-8 mm; bractées scarieuses, longues de 1-2 mm, longtemps persistantes. Fleur à pédicelle robuste, de 10-12 mm; bouton floral ellipsoïde, de 4,5 × 6 mm, corolle conique, égale à la demi-hauteur; hypantho-calice campanulé, de 5 × 4 mm; calice sinué, ou lobes très obtus, 3 × 1 mm, imbriqués. Pétales charnus, plissés longitudinalement (par contact avec les étamines dans le bouton), oblongo-triangulaires à elliptiques, base tronquée sans onglet, sommet triangulaire obtus, de 3 × 4,5 mm. Anthères de 1,8 × 1,2 mm, à thèques convexes; connectif conique obtus, peu ensellé par la glande égale au tiers ou à la demi-longueur; ﬁlet 1,7 mm. Chambre épigyne cannelée; style 4-5 mm. Ovaire 2-loculaire, 6-8 ovulé.
-
-Fruit non connu. Pl. 56, p. 155.
+Fruit unknown. Pl. 56, p. 155.
 
 ## Type
 
@@ -31,9 +30,7 @@ Le Testu 7776, Gabon (P)
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Se reconnaît des autres espèces cauliflores à ses jeunes rameaux nettement 4-ailés. Existe également au Congo.
+Distinguishable from other cauliflorous species by its young branches distinctly 4-winged. Also occurs in the Congo.
 
 ## Specimens examined
 

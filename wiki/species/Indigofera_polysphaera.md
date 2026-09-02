@@ -7,6 +7,13 @@ family: Leguminosae
 vol: 49
 pages: 220-220
 source: sources/Millettiaspeciesfabaceae_vol49_liteparse
+countries: [Angola, Cote d'Ivoire, Gabon, Tanzania, Uganda, Zambia]
+in_region: true
+subdivisions:
+  Gabon: [Estuaire]
+habit: "herb"
+habitat: [savanna]
+altitude_m: "1800"
 tags: [species, generated]
 ---
 # *Indigofera polysphaera* Baker

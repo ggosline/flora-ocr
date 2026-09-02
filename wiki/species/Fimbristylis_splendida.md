@@ -7,6 +7,12 @@ family: Cyperaceae
 vol: 44
 pages: 152-153
 source: sources/Cyperaceae_vol44_liteparse
+countries: [Democratic Republic of the Congo, Gabon, Republic of the Congo]
+in_region: true
+subdivisions:
+  Gabon: [Haut-Ogooué]
+habit: "herb"
+altitude_m: "400"
 tags: [species, generated]
 ---
 # *Fimbristylis splendida* C.B.Clarke Figure 12a

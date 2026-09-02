@@ -7,6 +7,10 @@ family: Connaraceae
 vol: 33
 pages: 111-113
 source: sources/Connaraceae_vol33_paddle
+countries: [Angola, Cameroon, Gabon, Nigeria]
+in_region: true
+habit: "shrub"
+habitat: [evergreen forest]
 tags: [species, generated]
 ---
 # *Rourea calophylla* (Gilg ex Schellenberg) Jongkind
@@ -68,7 +72,7 @@ Wilks MINK S 24, Minkébé (st., Mars), WAG.
 
 ![Rourea calophylla](../sources/Connaraceae_vol33_paddle/figures/fig_038_p0112.png)
 
-*PL. 32. – Rourea calophylla (Gilg ex Schellenberg) Jongkind : 1, jeune rameau florifère × 2/3 ; 2, fleur × 4 ; 3, étamines et carpelles d'une fleur brévistylée × 6 ; 4, fruit × 1 ; 5, graine × 1 ; 6, cotylédon, face int. avec radicule ventrale × 1 ; 7, idem, face ext. × 1. (1. Zenker 1963; 2-3. Binuyo & Daramola FHI 35095; Reitsma & al. 1472). – Repris de AUWP 89 (6).*
+*PL. 32. – Rourea calophylla (Gilg ex Schellenberg) Jongkind : 1, young flowering branch × 2/3 ; 2, flower × 4 ; 3, stamens and carpels of a short-styled flower × 6 ; 4, fruit × 1 ; 5, seed × 1 ; 6, cotyledon, inner surface with ventral radicle × 1 ; 7, idem, outer surface × 1. (1. Zenker 1963; 2-3. Binuyo & Daramola FHI 35095; Reitsma & al. 1472). – Reprinted from AUWP 89 (6).*
 
 ## Notes
 

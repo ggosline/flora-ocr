@@ -7,6 +7,9 @@ family: Connaraceae
 vol: 33
 pages: 103-104
 source: sources/Connaraceae_vol33_paddle
+countries: [Angola, Democratic Republic of the Congo, Nigeria]
+in_region: true
+habit: "shrub"
 tags: [species, generated]
 ---
 # *Manotes griffoniana* Baillon

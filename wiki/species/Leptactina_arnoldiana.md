@@ -7,6 +7,11 @@ family: Rubiaceae
 vol: 17
 pages: 75-78
 source: sources/Rubiaceae_vol17_paddle
+countries: [Cameroon, Gabon]
+in_region: true
+habit: "shrub"
+habitat: [coastal]
+altitude_m: "1000"
 tags: [species, generated]
 ---
 # *Leptactina arnoldiana* De Wild.
@@ -51,7 +56,7 @@ Thollon 130, Ndjolé (fl. janv.).
 
 ![Leptactina arnoldiana](../sources/Rubiaceae_vol17_paddle/figures/fig_016_p0077.png)
 
-*PL. 16. — Leptactina Arnoldiana De Wild. (1, 11, 14, 16-19, N. Hallé 1433; 2, 4, 7, 10, 13, N. H. 887; 3, 4, 6, 8, 9, 12, 15, N. H. 2690); 1, feuille et stipule, 0,75; 2, stipule mise à plat; 3, inflorescence × 0,75; 4, diagramme de l'inflorescence; 5, coupe de la corolle en bouton; 6, corolle; 7, poils de l'intérieur du calice; 8, étamine × 3; 9, coupe de l'anthère; 10, coupe de l'ovaire; 11, coupe du fruit; 12, placenta vu par la face interne; 13, stigmate; 14, fruit × 0,75; 15, les graines sur le placenta; 16, graine × 8; 17, détail du légumine séminal × 50; 18, coupe de la graine; 19, embryon × 12.*
+*PL. 16. — Leptactina Arnoldiana De Wild. (1, 11, 14, 16-19, N. Hallé 1433; 2, 4, 7, 10, 13, N. H. 887; 3, 4, 6, 8, 9, 12, 15, N. H. 2690); 1, leaf and stipule, 0.75; 2, stipule laid flat; 3, inflorescence × 0.75; 4, diagram of the inflorescence; 5, section of the corolla in bud; 6, corolla; 7, hairs of the interior of the calyx; 8, stamen × 3; 9, section of the anther; 10, section of the ovary; 11, section of the fruit; 12, placenta seen from the inner surface; 13, stigma; 14, fruit × 0.75; 15, the seeds on the placenta; 16, seed × 8; 17, detail of the seminal legume × 50; 18, section of the seed; 19, embryo × 12.*
 
 ## Notes
 

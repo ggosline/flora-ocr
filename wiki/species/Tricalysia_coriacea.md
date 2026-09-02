@@ -7,6 +7,9 @@ family: Rubiaceae
 vol: 17
 pages: 302-303
 source: sources/Rubiaceae_vol17_paddle
+countries: [Cameroon, Central African Republic, Cote d'Ivoire, Gabon, Ghana, Guinea, Liberia, Nigeria, Sierra Leone]
+in_region: true
+habit: "shrub"
 tags: [species, generated]
 ---
 # *Tricalysia coriacea* (Benth.) Hiern
@@ -22,15 +25,13 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+— Tricalysia petiolata De Wild. Ann. Mus. Congo sér. 5, 1 : 202 (1904), is probably a synonym.
 
-— Tricalysia petiolata De Wild. Ann. Mus. Congo sér. 5, 1 : 202 (1904), est probablement synonyme.
+Shrub 1 to 4 m, glabrous. Stipules broad for 1–1.5 mm, abruptly subulate for 1–3 (4) mm. Petiole 5–9 mm, narrowly sulcate-canaliculate. Blade glabrous, coriaceous or subcoriaceous, reddish-brown or olive-brown when dry, elliptic, 8–16 × 4–6.5 cm; base rounded or ± acute; apex obtuse or briefly subacuminate; margin somewhat marginate. 6–9 pairs of secondary nerves; reticulation moderately apparent beneath, indistinct above. Domatia either reduced, pilose and rare, or absent.
 
-Arbuste de 1 à 4 m, glabre. Stipules larges sur 1-1,5 mm, brusquement subulées sur 1-3 (4) mm. Pétiole de 5-9 mm, étroitement sulqué-canaliculé. Limbe glabre, coriace ou subcoriace, brun roux ou brun olivacé à sec, elliptique, de 8-16 × 4-6,5 cm; base arrondie ou ± aiguë; sommet obtus ou brièvement subacuminé; marge un peu rebordé. 6-9 paires de nervures secondaires; réseau médiocrement apparent dessous, indistinct dessus. Domaties soit réduites, pileuses et rares, soit nulles.
+Inflorescences axillary 3–12-flowered very contracted, reddish-brown when dry, sessile, with imbricate bracteolar cupules, truncate, pubescent within, glabrous without. Bud acute with twisted prefloration. Calyx with cupuliform flared truncate limb, 2–3 mm high, glabrous externally. Corolla white with tube of 4 × 2 mm, with 5–8 ± lanceolate lobes of 5 × 2 mm. Throat hirsute. Anthers of 3 × 0.5 mm, attached towards the lower third, with acuminate connective; filament approximately 1 mm. Style 7 mm, ± hirsute in its upper third exsert, bilobed for 1 (2) mm. Ovary with 2 locules. Axile placenta pendulous bearing 3–6 (8) ovules.
 
-Inflorescences axillaires 3-12-flores très contractées, brun rougeâtre à sec, sessiles, à cupules bractéales emboîtées, tronquées, pubescentes intérieurement, glabres extérieurement. Bouton aigu à préfloraison tordue. Calice à limbe cupuliforme évasé tronqué, haut de 2-3 mm, glabre extérieurement. Corolle blanche à tube de  $ 4 \times 2 $ mm, à 5-8 lobes ± lancéolés de  $ 5 \times 2 $ mm. Gorge velue. Anthères de  $ 3 \times 0.5 $ mm, fixées vers le tiers inférieur, à connectif acuminé; filet d'environ 1 mm. Style de 7 mm, ± hirsute dans son tiers supérieur exsert, bilobé sur 1 (2) mm. Ovaire à 2 loges. Placenta axile pendant portant 3-6 (8) ovules.
-
-Fruit globuleux, sessile, de 6 mm de diamètre, rouge à maturité, à sommet cupulifère, à paroi de 1 mm d'épaisseur ou moins, contenant 2-3 (-?) graines. Graines ± anguleuses de 3,5-4 mm, à testa brun noirâtre, à hile formant un long et mince sillon.
+Fruit globose, sessile, 6 mm in diameter, red at maturity, with cupuliform apex, with wall 1 mm thick or less, containing 2–3 (-?) seeds. Seeds ± angular 3.5–4 mm, with blackish-brown testa, with hilum forming a long and thin slit.
 
 ## Type
 
@@ -38,9 +39,7 @@ T. Vogel 172 (K!), Grand-Bassa, Liberia
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Guinée, Sierra Leone, Liberia, Côte d'Ivoire, Ghana, Nigeria, Cameroun, Gabon, Centrafrique et Congo.
+Guinea, Sierra Leone, Liberia, Ivory Coast, Ghana, Nigeria, Cameroon, Gabon, Central African Republic and Congo.
 
 ## Specimens examined
 

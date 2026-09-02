@@ -7,6 +7,9 @@ family: Icacinaceae
 vol: 20
 pages: 80-81
 source: sources/Icacinaceae_vol20_paddle
+countries: [Democratic Republic of the Congo, Sierra Leone]
+in_region: true
+habit: "liana"
 tags: [species, generated]
 ---
 # *Pyrenacantha acuminata* Engler

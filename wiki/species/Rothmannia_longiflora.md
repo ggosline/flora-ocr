@@ -7,6 +7,9 @@ family: Rubiaceae
 vol: 17
 pages: 239-242
 source: sources/Rubiaceae_vol17_paddle
+countries: [Angola, Guinea, Zambia]
+in_region: true
+habit: "tree"
 tags: [species, generated]
 ---
 # *Rothmannia longiflora* Salisb.
@@ -56,7 +59,7 @@ Thollon go, Franceville (fl. janv.), d'autres échantillons provenant de Brazzav
 
 ![Rothmannia longiflora](../sources/Rubiaceae_vol17_paddle/figures/fig_057_p0241.png)
 
-*PL. 56. — Rothmannia longiflora Salisb. (Le Testu 8509) : 1, bouton × 0,6; 2, calice; 3, corolle × 0,6; 4, étamine (Thollon 90); 5, coupe de l'anthère; 6, style (Thollon 90); 7, style à lèvres stigmatiques plus brèves; 8, fruit un peu réduit; 9, graine × 2,5; 10, embryon × 3. — R. Jollyana N. Hallé (Jolly 5) : 11, calice × 2. — R. mayumbensis (Good) Keay : 12, détail de la face inférieure du limbe.*
+*PL. 56. — Rothmannia longiflora Salisb. (Le Testu 8509) : 1, bud × 0.6; 2, calyx; 3, corolla × 0.6; 4, stamen (Thollon 90); 5, section of anther; 6, style (Thollon 90); 7, style with shorter stigmatic lips; 8, fruit somewhat reduced; 9, seed × 2.5; 10, embryo × 3. — R. Jollyana N. Hallé (Jolly 5) : 11, calyx × 2. — R. mayumbensis (Good) Keay : 12, detail of lower surface of limb.*
 
 ## Notes
 

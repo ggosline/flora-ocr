@@ -7,6 +7,11 @@ family: Ochnaceae
 vol: 48
 pages: 91-91
 source: sources/Ochnaceae_vol48_liteparse
+countries: [Angola, Gabon, Madagascar, Mozambique, Senegal, Sudan, Tanzania]
+in_region: true
+habit: "herb"
+habitat: [savanna]
+altitude_m: "650"
 tags: [species, generated]
 ---
 # *Sauvagesia erecta* L. subsp. erecta Planche 26(1–6)

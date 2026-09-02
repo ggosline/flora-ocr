@@ -7,6 +7,13 @@ family: Leguminosae
 vol: 49
 pages: 218-220
 source: sources/Millettiaspeciesfabaceae_vol49_liteparse
+countries: [Angola, Cameroon, Democratic Republic of the Congo, Gabon, Kenya, Tanzania]
+in_region: true
+subdivisions:
+  Gabon: [Haut-Ogooué, Moyen-Ogooué, Nyanga, Ogooué-Ivindo]
+habit: "herb"
+habitat: [riverine]
+altitude_m: "50–400"
 tags: [species, generated]
 ---
 # *Indigofera paniculata* Vahl ex Pers. subsp. paniculata Planche 72

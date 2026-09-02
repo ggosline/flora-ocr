@@ -7,6 +7,9 @@ family: Orchidaceae
 vol: 36
 pages: 189-191
 source: sources/Orchidaceae_vol36_paddle
+countries: [Gabon]
+in_region: true
+habitat: [primary forest]
 tags: [species, generated]
 ---
 # *Bulbophyllum capituliforme* Rolfe
@@ -33,7 +36,7 @@ MATERIAL STUDIED (Map 35): Hallé 2843, Bélinga, forest margin, airstrip (fl., 
 
 ![Bulbophyllum capituliforme](../sources/Orchidaceae_vol36_paddle/figures/fig_098_p0190.png)
 
-*PL. 93. – Bulbophyllum capituliforme Rolfe: A, B, vue générale ; C, fleur ; D, pièces florales ; E, labelle ; F, labelle et gynostème, vue latérale ; G, anthère ; H, pollinies (A-H, ex VERMEULEN, 1987).*
+*PL. 93. – Bulbophyllum capituliforme Rolfe: A, B, general view ; C, flower ; D, floral parts ; E, labellum ; F, labellum and gynostemium, lateral view ; G, anther ; H, pollinia (A-H, ex VERMEULEN, 1987).*
 
 ![Bulbophyllum capituliforme](../sources/Orchidaceae_vol36_paddle/figures/fig_147_p0226.png)
 

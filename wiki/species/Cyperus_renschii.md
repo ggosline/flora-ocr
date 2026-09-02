@@ -7,6 +7,13 @@ family: Cyperaceae
 vol: 44
 pages: 110-111
 source: sources/Cyperaceae_vol44_liteparse
+countries: [Gabon]
+in_region: true
+subdivisions:
+  Gabon: [Ngounié, Ogooué-Ivindo, Ogooué-Lolo, Ogooué-Maritime, Woleu-Ntem]
+habit: "herb"
+habitat: [swamp forest]
+altitude_m: "0–500"
 tags: [species, generated]
 ---
 # *Cyperus renschii* Boeckeler Planche 69

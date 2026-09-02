@@ -7,6 +7,8 @@ family: Leguminosae
 vol: 31
 pages: 97-99
 source: sources/Leguminosae_vol31_paddle
+countries: [Benin, Cameroon, Cote d'Ivoire, Gabon, Nigeria]
+in_region: true
 tags: [species, generated]
 ---
 # *Schrankia leptocarpa* De Candolle
@@ -39,7 +41,7 @@ Chevalier 26741, introduite au jardin d’essai de Libreville (fl., fr., sept.).
 
 ![Schrankia leptocarpa](../sources/Leguminosae_vol31_paddle/figures/fig_036_p0098.png)
 
-*PL. 24. – Schrankia leptocarpa Willd.: 1, feuille × 1,5; 2, tige, détail × 8; 3, foliole × 5; 4, infrutes-cence × 1,5; 5, fruit, détail × 5; 6, graine × 13. (1, 2, 3, Debeaux 149 (Dahomey); 4, 5, Le Testu 58 (Dahomey); 6, Chevalier 26741).*
+*PL. 24. – Schrankia leptocarpa Willd.: 1, leaf × 1,5; 2, stem, detail × 8; 3, leaflet × 5; 4, infructescence × 1,5; 5, fruit, detail × 5; 6, seed × 13. (1, 2, 3, Debeaux 149 (Dahomey); 4, 5, Le Testu 58 (Dahomey); 6, Chevalier 26741).*
 
 ## Notes
 

@@ -7,6 +7,9 @@ family: Leguminosae
 vol: 15
 pages: 131-132
 source: sources/Leguminosae_vol15_paddle
+countries: [Cameroon, Gabon, Guinea, Nigeria]
+in_region: true
+habitat: [mangrove]
 tags: [species, generated]
 ---
 # *Oxystigma mannii* (Baill.) Harms

@@ -7,6 +7,7 @@ family: Gramineae
 vol: 05
 pages: 172-174
 source: sources/Gramineae_vol05_paddle
+habit: "herb"
 tags: [species, generated]
 ---
 # *Andropogon gabonensis* Stapf.
@@ -51,7 +52,7 @@ Koechlin : 5924, Libreville.
 
 ![Andropogon gabonensis](../sources/Gramineae_vol05_paddle/figures/fig_028_p0173.png)
 
-*PL. XXVII. — Andropogon gabonensis Stapf (Guillemet 23) : 1, fragment de chaume, gaine et base du limbe; 2, extrémité du limbe foliaire; 3, base de la plante; 4, partie d'inflorescence; 5, fragment de racème, épilets pédicellés vus par la face ventrale; 6, fragment de racème épilets sessiles vus par la face ventrale (épilets sessiles de 5 mm de long).*
+*PL. XXVII. — Andropogon gabonensis Stapf (Guillemet 23) : 1, fragment of culm, sheath and base of blade; 2, apex of leaf blade; 3, base of plant; 4, part of inflorescence; 5, fragment of raceme, pedicelled spikelets seen from the ventral face; 6, fragment of raceme, sessile spikelets seen from the ventral face (sessile spikelets 5 mm long).*
 
 ## Notes
 

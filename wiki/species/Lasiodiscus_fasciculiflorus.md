@@ -5,10 +5,10 @@ authority: Engl.
 genus: Lasiodiscus
 family: Rhamnaceae
 synonyms: []
+treatments: [{vol: 4, pages: "62–64", source: sources/Rhamnaceae_vol4_paddle}]
 countries: [Cameroon, Gabon]
 in_region: true
-habit: shrub or small tree
-treatments: [{vol: 4, pages: "62–64", source: sources/Rhamnaceae_vol4_paddle}]
+habit: "tree"
 tags: [species]
 ---
 

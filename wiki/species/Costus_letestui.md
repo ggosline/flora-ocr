@@ -5,10 +5,10 @@ authority: Pellegr.
 genus: Costus
 family: Zingiberaceae
 family_current: Costaceae
+treatments: [{vol: 9, pages: "77–78", source: sources/Zingiberaceae_vol9_paddle}]
 countries: [Cameroon, Gabon]
 in_region: true
-habit: slender herb, sometimes epiphytic
-treatments: [{vol: 9, pages: "77–78", source: sources/Zingiberaceae_vol9_paddle}]
+habit: "herb"
 tags: [species]
 ---
 # *Costus letestui* Pellegr.

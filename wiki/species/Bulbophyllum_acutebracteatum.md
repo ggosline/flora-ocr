@@ -7,6 +7,8 @@ family: Orchidaceae
 vol: 36
 pages: 173-175
 source: sources/Orchidaceae_vol36_paddle
+countries: [Cameroon, Equatorial Guinea, Gabon, Liberia, Sierra Leone]
+in_region: true
 tags: [species, generated]
 ---
 # *Bulbophyllum acutebracteatum* De Wild.
@@ -55,7 +57,7 @@ Wieringa 677, Woleu-Ntem, 1 km SE of Tchimbélé, 10°25' E, 0°36' N, (fl., Mar
 
 ![Bulbophyllum acutebracteatum](../sources/Orchidaceae_vol36_paddle/figures/fig_090_p0176.png)
 
-*PL. 85. – Bulbophyllum acutebracteatum De Wild. var. acutebracteatum A, vue générale ; B, partie de l'inflorescence ; C, pièces florales ; D, labelle ; E, labelle et gynostème en position naturelle, vue latérale ; F, anthère ; G, pollinies (A-G, ex VERMEULEN, 1987).*
+*PL. 85. – Bulbophyllum acutebracteatum De Wild. var. acutebracteatum A, general view ; B, part of inflorescence ; C, floral parts ; D, labellum ; E, labellum and gynostemium in natural position, lateral view ; F, anther ; G, pollinia (A-G, ex VERMEULEN, 1987).*
 
 ## Notes
 

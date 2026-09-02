@@ -7,6 +7,12 @@ family: Urticaceae
 vol: 51
 pages: 66-69
 source: sources/Urticaceae_vol51_liteparse
+countries: [Angola, Cameroon, Central African Republic, Democratic Republic of the Congo, Equatorial Guinea, Gabon, Kenya, Republic of the Congo, Sierra Leone, Sudan, Tanzania, Uganda, Zimbabwe]
+in_region: true
+subdivisions:
+  Gabon: [Estuaire, Moyen-Ogooué, Ngounié, Nyanga, Ogooué-Ivindo, Ogooué-Lolo, Ogooué-Maritime, Woleu-Ntem]
+habitat: [secondary forest, riverine]
+altitude_m: "5–640"
 tags: [species, generated]
 ---
 # *Laportea ovalifolia* (Schumach. & Thonn.) Chew Planche 26

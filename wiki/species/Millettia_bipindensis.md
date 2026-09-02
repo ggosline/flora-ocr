@@ -7,6 +7,13 @@ family: Leguminosae
 vol: 49
 pages: 279-280
 source: sources/Millettiaspeciesfabaceae_vol49_liteparse
+countries: [Cameroon, Democratic Republic of the Congo, Gabon, Nigeria]
+in_region: true
+subdivisions:
+  Gabon: [Ogooué-Ivindo, Woleu-Ntem]
+habit: "liana"
+habitat: [swamp forest, primary forest]
+altitude_m: "430"
 tags: [species, generated]
 ---
 # *Millettia bipindensis* Harms

@@ -7,6 +7,7 @@ family: Gramineae
 vol: 05
 pages: 139-140
 source: sources/Gramineae_vol05_paddle
+habit: "herb"
 tags: [species, generated]
 ---
 # *Rytachne rotthoelliodes* Desv. (f. p. 131).

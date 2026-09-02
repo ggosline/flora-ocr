@@ -7,6 +7,9 @@ family: Combretaceae
 vol: 35
 pages: 53-55
 source: sources/Combretaceae_vol35_paddle
+countries: [Gabon]
+in_region: true
+habit: "liana"
 tags: [species, generated]
 ---
 # *Combretum inflatum* Jongkind

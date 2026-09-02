@@ -7,6 +7,9 @@ family: Dichapetalaceae
 vol: 32
 pages: 132-133
 source: sources/Dichapetalaceae_vol32_paddle
+countries: [Cameroon, Gabon]
+in_region: true
+habit: "liana"
 tags: [species, generated]
 ---
 # *Dichapetalum minutiflorum* Engler & Ruhland
@@ -57,7 +60,7 @@ Breteler 5694, 50 km au S.E. de Lambaréné (fl., Sept.); 6510, km 23 Moanda-Bak
 
 ![Dichapetalum minutiflorum](../sources/Dichapetalaceae_vol32_paddle/figures/fig_037_p0134.png)
 
-*PL. 36. – Dichapetalum minutiflorum Engler & Ruhland : 1, grande feuille, face inférieure × 0,8 ; 2, extrémité de jeune rameau × 0,8 ; 3, dichasium 3-flore sur rameau lenticellé × 5 : 4, dichasium 7-flore (certaines fleurs en bouton) × 5 ; 5, portion de rameau avec pousse latérale aphyle nodoïde portant un dichasium 7-flore âgé et un jeune dichasium 5-flore (boutons) × 5 ; 6, fleur, détail × 10 ; 7, pétale, étamine et 2 staminodes × 10 (1, Bos 4514 ; 2, Bos 4810 ; 3, 4, 6, 7, Bos & Breteler 3113 ; 5, Bos 3377). – Repris de MLW 81 (10) : 29 (1981).*
+*PL. 36. – Dichapetalum minutiflorum Engler & Ruhland : 1, large leaf, lower surface × 0.8 ; 2, tip of young branch × 0.8 ; 3, 3-flowered dichasium on lenticellate branch × 5 : 4, 7-flowered dichasium (some flowers in bud) × 5 ; 5, portion of branch with leafless nodose lateral shoot bearing an old 7-flowered dichasium and a young 5-flowered dichasium (buds) × 5 ; 6, flower, detail × 10 ; 7, petal, stamen and 2 staminodes × 10 (1, Bos 4514 ; 2, Bos 4810 ; 3, 4, 6, 7, Bos & Breteler 3113 ; 5, Bos 3377). – Reproduced from MLW 81 (10) : 29 (1981).*
 
 ## Notes
 

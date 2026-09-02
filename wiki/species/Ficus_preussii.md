@@ -7,6 +7,10 @@ family: Moraceae
 vol: 26
 pages: 232-233
 source: sources/Moraceae_vol26_paddle
+countries: [Cameroon, Democratic Republic of the Congo, Gabon, Nigeria, Uganda]
+in_region: true
+habit: "tree"
+habitat: [riverine, evergreen forest]
 tags: [species, generated]
 ---
 # *Ficus preussii* Warburg
@@ -43,7 +47,7 @@ Le Testu 7124, région de Lastoursville (fig., nov.). Michaloud 38, Makokou (st�
 
 ![Ficus preussii](../sources/Moraceae_vol26_paddle/figures/fig_070_p0234.png)
 
-*PL. 69. – Ficus preussii Warb.: rameau avec feuilles et figues × 1 (Leeuwenberg 9892, Cameroun).*
+*PL. 69. – Ficus preussii Warb.: branch with leaves and figs × 1 (Leeuwenberg 9892, Cameroon).*
 
 ## Notes
 

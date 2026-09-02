@@ -7,6 +7,8 @@ family: Sapindaceae
 vol: 23
 pages: 96-98
 source: sources/Sapindaceae_vol23_paddle
+countries: [Angola, Democratic Republic of the Congo, Sierra Leone]
+in_region: true
 tags: [species, generated]
 ---
 # *Chytranthus carneus* Radlkofer
@@ -68,7 +70,7 @@ Walker s.n., St Martin (j. fr., déc.).
 
 ![Chytranthus carneus](../sources/Sapindaceae_vol23_paddle/figures/fig_020_p0097.png)
 
-*PL. 20. — Chytranthus carneus Radlk. : 1, pied fourchu à la base, hauteur 6 m; 2, apex du rachis foliaire × 1; 3, fragment d'inflorescence × 1,3; 4, fleur × 3,4; 5, pétale long de 9 mm; 6, disque de 4 mm; 7, étamine de 11 mm; 8, anthère recto et verso longue de 2,3 mm; 9, coupe médiane d'anthère ouverte; 10, ovaire avorté; 11, jeunes fruits sur vieilles cymes très prolifiques; 12, fruit très mûr, diamètre 7 cm; 13, graine profil et face (1-10, 12, N. Hallé 3165; 11, Walker 28-12-38; 13, N. Hallé 7-7-56, Côté d'Ivoire).*
+*PL. 20. — Chytranthus carneus Radlk. : 1, stem forked at the base, height 6 m; 2, apex of the leaf rachis × 1; 3, inflorescence fragment × 1,3; 4, flower × 3,4; 5, petal 9 mm long; 6, disk 4 mm; 7, stamen 11 mm; 8, anther front and back 2,3 mm long; 9, median section of opened anther; 10, aborted ovary; 11, young fruits on old very proliferous cymes; 12, very ripe fruit, diameter 7 cm; 13, seed profile and face (1-10, 12, N. Hallé 3165; 11, Walker 28-12-38; 13, N. Hallé 7-7-56, Ivory Coast).*
 
 ## Notes
 

@@ -7,6 +7,9 @@ family: Annonaceae
 vol: 16
 pages: 0-0
 source: sources/Annonaceae_vol16_mineru
+countries: [Angola, Cameroon, Cote d'Ivoire, Gabon, Ghana, Guinea, Liberia, Nigeria]
+in_region: true
+habit: "tree"
 tags: [species, generated]
 ---
 # *Polyceratocarpus parviflorus* (Engler et Diels) Ghesquiere

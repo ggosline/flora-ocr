@@ -33,7 +33,7 @@ Le Testu : 2193, haute Waka, pays Itsogho (fl. nov.).
 
 ![Eurypetalum batesii](../sources/Leguminosae_vol15_paddle/figures/fig_023_p0110.png)
 
-*PL. XXIII. — Eurypetalum unijugum Harms : 1, rameau florifère × 2/3; 2, fleur sans son pétale × 3; 3, pétale × 2; 4, détail de la base des filets. — E. Tessmannii Harms : 5, feuille × 2/3. — E. Batesii Bak. f. : 6, rameau florifère × 2/3; 7, fleur × 3; 8, pétale × 2; 9, étamine × 4; 10, pistil × 3; 11, coupe de la fleur.*
+*PL. XXIII. — Eurypetalum unijugum Harms : 1, flowering branch × 2/3; 2, flower without its petal × 3; 3, petal × 2; 4, detail of the base of the filaments. — E. Tessmannii Harms : 5, leaf × 2/3. — E. Batesii Bak. f. : 6, flowering branch × 2/3; 7, flower × 3; 8, petal × 2; 9, stamen × 4; 10, pistil × 3; 11, section of the flower.*
 
 ## Notes
 

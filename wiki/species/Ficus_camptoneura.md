@@ -7,6 +7,10 @@ family: Moraceae
 vol: 26
 pages: 227-231
 source: sources/Moraceae_vol26_paddle
+countries: [Cameroon, Equatorial Guinea, Gabon, Nigeria]
+in_region: true
+habit: "tree"
+habitat: [riverine, evergreen forest]
 tags: [species, generated]
 ---
 # *Ficus camptoneura* Mildbread $ ^{1} $
@@ -47,7 +51,7 @@ Hallé N. & Villiers J.-F. 4319, riv. Komo, près Mbel (fig., janv.). Klaine 287
 
 ![Ficus camptoneura](../sources/Moraceae_vol26_paddle/figures/fig_068_p0228.png)
 
-*PL. 67. – Ficus camptoneura Mildbr.: 1, feuille × 1; 2, rameau avec feuilles et figues × 1 (1, Leeuwenberg 5633, Cameroun; 2, Hallé N. & Villiers J.-F. 4319).*
+*PL. 67. – Ficus camptoneura Mildbr.: 1, leaf × 1; 2, branch with leaves and figs × 1 (1, Leeuwenberg 5633, Cameroon; 2, Hallé N. & Villiers J.-F. 4319).*
 
 ## Notes
 

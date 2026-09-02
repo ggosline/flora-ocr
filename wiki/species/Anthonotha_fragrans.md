@@ -6,6 +6,9 @@ family: Leguminosae
 vol: 15
 pages: 207-209
 source: sources/Leguminosae_vol15_paddle
+countries: [Gabon, Guinea, Sierra Leone]
+in_region: true
+habit: "tree"
 tags: [species, generated]
 ---
 # *Anthonotha fragrans*
@@ -49,7 +52,7 @@ Gauchotte et Guillery : 1225, lac Ogamoué.
 
 ![Anthonotha fragrans](../sources/Leguminosae_vol15_paddle/figures/fig_050_p0208.png)
 
-*PL. L. — Anthonotha fragrans (Bak. f.) Exell et Hillcoat : I, feuille × 1/2; 2, foliole face inférieure × 1/2; 3, inflorescence × 2/3; 4, fleur; 5, fragment du réceptacle, face interne; 6, diagramme; 7, fruit × 2/3.*
+*PL. L. — Anthonotha fragrans (Bak. f.) Exell et Hillcoat : 1, leaf × 1/2; 2, leaflet lower surface × 1/2; 3, inflorescence × 2/3; 4, flower; 5, fragment of the receptacle, inner surface; 6, diagram; 7, fruit × 2/3.*
 
 ## Notes
 

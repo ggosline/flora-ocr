@@ -7,6 +7,8 @@ family: Acanthaceae
 vol: 13
 pages: 91-94
 source: sources/Acanthaceae_vol13_paddle
+countries: [Cameroon, Equatorial Guinea, Gabon, Guinea]
+in_region: true
 tags: [species, generated]
 ---
 # *Brillantaisia verruculosa* Lindau

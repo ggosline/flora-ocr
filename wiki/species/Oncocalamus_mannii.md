@@ -7,6 +7,12 @@ family: Arecaceae
 vol: 53
 pages: 46-49
 source: sources/Arecaceae_vol53_liteparse
+countries: [Cameroon, Equatorial Guinea, Gabon, Republic of the Congo]
+in_region: true
+subdivisions:
+  Gabon: [Estuaire, Ogooué-Ivindo]
+habit: "liana"
+altitude_m: "30"
 tags: [species, generated]
 ---
 # *Oncocalamus mannii* (H.Wendl.) H.Wendl. Planche 15

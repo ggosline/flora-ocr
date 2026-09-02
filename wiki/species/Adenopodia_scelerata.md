@@ -7,6 +7,10 @@ family: Leguminosae
 vol: 31
 pages: 86-89
 source: sources/Leguminosae_vol31_paddle
+countries: [Angola, Cote d'Ivoire, Democratic Republic of the Congo]
+in_region: true
+habit: "liana"
+habitat: [rocky ground]
 tags: [species, generated]
 ---
 # *Adenopodia scelerata* (A. Chevalier) Brenan
@@ -51,7 +55,7 @@ Hladik 2091 part A, M'Passa, vieille route, Makokou (fl., avr.).
 
 ![Adenopodia scelerata](../sources/Leguminosae_vol31_paddle/figures/fig_033_p0088.png)
 
-*PL. 21. – Adenopodia scelerata (A. Chev.): Brenan, 1, aspect général × 1; 2, pétiole, détail × 4; 3, sommet rachis × 8; 4, foliole × 6; 5, bouton floral × 20; 6, fleur × 12; 7, anthère × 30; 8, pistil × 20; 9, fruit × 1; 10, graine × 8. (1-3, 5-8, Hladik 2091; 4, Breteler 2635 (Cameroun); 9-10, Letouzey 8376 bis (Cameroun)).*
+*PL. 21. – Adenopodia scelerata (A. Chev.): Brenan, 1, general aspect × 1; 2, petiole, detail × 4; 3, apex of rachis × 8; 4, leaflet × 6; 5, floral bud × 20; 6, flower × 12; 7, anther × 30; 8, pistil × 20; 9, fruit × 1; 10, seed × 8. (1-3, 5-8, Hladik 2091; 4, Breteler 2635 (Cameroon); 9-10, Letouzey 8376 bis (Cameroon)).*
 
 ## Notes
 

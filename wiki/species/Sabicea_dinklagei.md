@@ -7,6 +7,8 @@ family: Rubiaceae
 vol: 12
 pages: 171-174
 source: sources/Rubiaceae_vol12_paddle
+countries: [Cameroon, Central African Republic, Gabon, Guinea]
+in_region: true
 tags: [species, generated]
 ---
 # *Sabicea dinklagei* K. Schum..

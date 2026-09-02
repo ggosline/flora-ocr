@@ -7,6 +7,7 @@ family: Acanthaceae
 vol: 13
 pages: 53-54
 source: sources/Acanthaceae_vol13_paddle
+habit: "herb"
 tags: [species, generated]
 ---
 # *Phaulopsis silvestris* (Lindau) Lindau

@@ -7,6 +7,9 @@ family: Acanthaceae
 vol: 13
 pages: 79-81
 source: sources/Acanthaceae_vol13_paddle
+countries: [Gabon]
+in_region: true
+habit: "herb"
 tags: [species, generated]
 ---
 # *Physacanthus nematosiphon* (Lindau)

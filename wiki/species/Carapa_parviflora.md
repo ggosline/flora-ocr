@@ -7,6 +7,10 @@ family: Meliaceae
 vol: 47
 pages: 19-22
 source: sources/Meliaceae_vol47_liteparse
+countries: [Cameroon, Central African Republic, Democratic Republic of the Congo, Equatorial Guinea, Gabon, Nigeria, Republic of the Congo]
+in_region: true
+habit: "tree"
+altitude_m: "770"
 tags: [species, generated]
 ---
 # *Carapa parviflora* Harms ex Engl. Planche 1

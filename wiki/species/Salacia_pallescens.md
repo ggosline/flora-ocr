@@ -7,6 +7,9 @@ family: Celastraceae
 vol: 29
 pages: 86-87
 source: sources/Celastraceae_vol29_paddle
+countries: [Cameroon, Cote d'Ivoire, Democratic Republic of the Congo, Gabon, Ghana, Guinea, Nigeria, Zimbabwe]
+in_region: true
+habit: "shrub"
 tags: [species, generated]
 ---
 # *Salacia pallescens* Oliver

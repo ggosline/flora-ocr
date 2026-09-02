@@ -7,6 +7,8 @@ family: Combretaceae
 vol: 35
 pages: 103-106
 source: sources/Combretaceae_vol35_paddle
+countries: [Cameroon, Equatorial Guinea, Gabon]
+in_region: true
 tags: [species, generated]
 ---
 # *Strephonema sericeum* Hooker f.
@@ -17,97 +19,91 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+JONGKIND, Review of the genus Strephonema. Ann. Miss. Bot. Gard. 82(4) : 540 (1995). TYPE : Equatorial Guinea, Rio Muni (fl.) Mann 1753 (holo-K ; iso-P).
 
-JONGKIND, Review of the genus Strephonema. Ann. Miss. Bot. Gard. 82(4) : 540 (1995). TYPE : Guinée Équatoriale, Rio Muni (fl.) Mann 1753 (holo-K ; iso-P).
+– S. polybotryum MILDBRAED Engl. Bot. Jahrb. 51 : 356 (1914) ; LIBEN, Fl. Cam. : 25 : 6 (1983). TYPE : Cameroon, 22 km E. of Ebolowa (fl.) Mildbraed 5645 (Lectotypified by C.C.H. Jongkind, l.c. (1995)) holo- B, delet. ; lecto- HBG ; iso- BR (fragments)
 
-– S. polybotryum MILDBRAED Engl. Bot. Jahrb. 51 : 356 (1914) ; LIBEN, Fl. Cam. : 25 : 6 (1983). TYPE : Cameroun, 22 km E. d'Ebolowa (fl.) Mildbraed 5645 (Lectotypifié par C.C.H. Jongkind, l.c. (1995)) holo- B, delet. ; lecto- HBG ; iso- BR (fragments)
+- S. klaineana PIERRE, nomen mss. on a drawing fixed to the specimen Klaine 288, P.
 
-- S. klaineana PIERRE, nomen mss. sur un dessin fixé au spécimen Klaine 288, P.
+Tree, height ≤ 45 m, diameter ≤ 350 cm, often with 5 or 6 buttresses 1 m high. Bark brown-red, without exudate, thickness ≤ 10 mm.
 
-Arbre, hauteur ≤ 45 m, diamètre ≤ 350 cm, souvent avec 5 ou 6 contreforts hauts de 1 m. Écorce brun-rouge, sans exudat, épaisseur ≤ 10 mm.
+Leaves: petiole ≤ 2 cm; blade elliptic to oblong-obovate, 5.5–25 × 2–9 cm, papyraceous to coriaceous, glabrous or on the underside in places with appressed bifid hairs, margin often reflexed, with or without glands. Young leaves reddish entirely covered with appressed bifid hairs; major lateral veins 5–17 pairs, sometimes scarcely visible; apex acuminate to long-acuminate (Pl. 28, A, p. 98).
 
-Feuilles : pétiole ≤ 2 cm ; limbe elliptique à oblong-obové, 5,5-25 × 2-9 cm, papyracé à coriace, glabre ou dessous, par place, des poils apprimés bifides, marge souvent réfléchie, avec ou sans glandes. Jeunes feuilles rougeâtres entièrement couvertes de poils bifides apprimés ; grandes nervures latérales 5-17 paires, parfois peu visibles ; sommet acuminé à longuement acuminé (Pl. 28, A, p. 98).
+Inflorescences branched; rachis ≤ 5 cm, appressed pubescence; bracts 3 mm long, often early caducous (Pl. 30, C, p. 101).
 
-Inflorescences ramifiées ; rachis ≤ 5 cm, pubescence apprimée ; bractées longues de 3 mm, souvent tôt caduques (Pl. 30, C, p. 101).
+Flowers, pedicel 2–10 mm. Receptacle, height 3–5 mm, width 4–5 mm, pubescent. Petals obovate, 3–4 × 2–3 mm, ciliate with large hairs along the margin, elsewhere glabrous, white. Stamens exsert 45 mm; filaments white; anthers yellow 0.5–1 mm long, septate or not. Style exsert 7 mm, whitish green (Pl. 30, D, p. 101).
 
-Fleurs, pédicelle 2-10 mm. Réceptacle, hauteur 3-5 mm, largeur 4-5 mm, pubescent. Pétales obovés, 3-4 × 2-3 mm, ciliés de grands poils le long de la marge, ailleurs glabre, blanc. Étamines exsertes de 45 mm ; filets blancs ; anthères jaunes longues de 0,5-1 mm, cloisonnées ou non. Style exsert de 7 mm, verdâtre blanc (Pl. 30, D, p. 101).
+Fruit diameter 7 cm, irregular, spherical, verrucose, brown.
 
-Fruit diamètre 7 cm, irrégulier, sphérique, verruqueux, brun.
+PL. 30 – Strephonema mannii Hook. f. : A, flowering branch × 1/2 ; B, flower, longitudinal section × 3. – Strephonema sericeum Hook. f. : C, flowering branch ; D, flower × 6 (A, Letouzey 14936 ; B, Le Testu 9024 ; C, D, Mildbraed 5645). – Drawings by M. ALLARD reproduced with the permission of the Department of Spermatophytes and Pteridophytes of the National Botanical Garden of MEISE (Belgium).
 
-PL. 30 – Strephonema mannii Hook. f. : A, rameau florifère × 1/2 ; B, fleur, coupe longitudinale × 3. – Strephonema sericeum Hook. f. : C, rameau florifère ; D, fleur × 6 (A, Letouzey 14936 ; B, Le Testu 9024 ; C, D, Mildbraed 5645). – Dessins de M. ALLARD reproduits avec l'autorisation du Département des Spermatophytes et Ptéridophytes du Jardin Botanique National de MEISE (Belgique).
-
-Strephonema sericeum varie beaucoup par l'indument de l'inflorescence et des fleurs et par la forme des feuilles. Mais les tentatives visant à distinguer des taxons fondés sur ces variations ont échoué.
+Strephonema sericeum varies greatly in the indumentum of the inflorescence and flowers and in the form of the leaves. However, attempts to distinguish taxa based on these variations have failed.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-au Cameroun, en Guinée Équatoriale, au Gabon et au Congo (Kinshasa)
+in Cameroon, Equatorial Guinea, Gabon and Congo (Kinshasa)
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Forêts denses humides, altitude ≤ 600 m
+Dense humid forests, altitude ≤ 600 m
 
 Bernard SRF 267, Sibang (fl., sep.), P.
 
-Breteler & Jongkind 10620, 30 km E.NE de Lastoursville, 0°40'S-13°00'E (st.), WAG.
+Breteler & Jongkind 10620, 30 km E.NE of Lastoursville, 0°40'S-13°00'E (st.), WAG.
 
-Breteler & al. 11502, environs de riv. Rabi-Kounga (st.), WAG ; 11552, (st., chant. de bois), WAG.
+Breteler & al. 11502, vicinity of riv. Rabi-Kounga (st.), WAG ; 11552, (st., timber plot), WAG.
 
-De Saint Aubin s.n., 18 km E de Libreville (fl., Août) P ; SRF 1939, P 24 km SE de Coco-beach, 0°45'N-9°20'E (st. Août), P.
+De Saint Aubin s.n., 18 km E of Libreville (fl., Aug.) P ; SRF 1939, P 24 km SE of Coco-beach, 0°45'N-9°20'E (st. Aug.), P.
 
-Klaine 53, près de Libreville (fl., Juil.), BR, K, MO, P, Z; 165 (fl., Août), HBG, WAG, 258, (fl., Juil.), BR, E, K, P; 288, (fl., Juil.), BM, BR, E, K, P; 329, (fl.), BR, HBG, K, P; 533, (fl., fr., Juil.), P; 1009, (fl., Juil.), P; 1305, (fl., Août), BR, P; 1915, (fl.), P, WAG; 2649, (st.), P; 2967, (fl., Juil.), E, K, P; 2987, (fl., Juil.), BM, K, P.
+Klaine 53, near Libreville (fl., July), BR, K, MO, P, Z; 165 (fl., Aug.), HBG, WAG, 258, (fl., July), BR, E, K, P; 288, (fl., July), BM, BR, E, K, P; 329, (fl.), BR, HBG, K, P; 533, (fl., fr., July), P; 1009, (fl., July), P; 1305, (fl., Aug.), BR, P; 1915, (fl.), P, WAG; 2649, (st.), P; 2967, (fl., July), E, K, P; 2987, (fl., July), BM, K, P.
 
-Lachiver SRF 1099, UFO Noyah (st. Avr.), P.
+Lachiver SRF 1099, UFO Noyah (st. Apr.), P.
 
-Le Testu 5095, Pagha, 1°34'S-10°42'E (fl., Nov.), BM, BR, MO, P, WAG ; 5570, Bandi (fl., Oct.), BM, BR, P ; 6522, Benguémamba, 2°09'S-12°18'E (fl., Juin), BM, BR, P ; 6538, Ndenga, 1°55'S-11°47'E (fl., Juil.), BM, BR, MO, P, WAG ; 7731, Sacamicanda, 1°02'S-12°45'E (fl., Déc.), K, MO, P ; 8052, Minguembé, 1°45'S-12°27'E (fl., Avr.), BM, BR, MO, P, WAG ; 8054, (fl., Avr.), BM, BR, P, WAG ; 8056, Banguidjoumi, 1°35'S-12°33'E (fl., Avr.), BM, BR, P, WAG ; 8222, Moucwala, 1°24'S-12°14'E (fl., Août), BM, BR, P, WAG ; 8808, Ngango, 1°36'S-2°25'E (fl., Mai), BM, BR, K, P ; 9585, Ngwa, 0°59'N-11°20'E (fl., Mai), BM, BR, P, HBG, WAG.
+Le Testu 5095, Pagha, 1°34'S-10°42'E (fl., Nov.), BM, BR, MO, P, WAG ; 5570, Bandi (fl., Oct.), BM, BR, P ; 6522, Benguémamba, 2°09'S-12°18'E (fl., June), BM, BR, P ; 6538, Ndenga, 1°55'S-11°47'E (fl., July), BM, BR, MO, P, WAG ; 7731, Sacamicanda, 1°02'S-12°45'E (fl., Dec.), K, MO, P ; 8052, Minguembé, 1°45'S-12°27'E (fl., Apr.), BM, BR, MO, P, WAG ; 8054, (fl., Apr.), BM, BR, P, WAG ; 8056, Banguidjoumi, 1°35'S-12°33'E (fl., Apr.), BM, BR, P, WAG ; 8222, Moucwala, 1°24'S-12°14'E (fl., Aug.), BM, BR, P, WAG ; 8808, Ngango, 1°36'S-2°25'E (fl., May), BM, BR, K, P ; 9585, Ngwa, 0°59'N-11°20'E (fl., May), BM, BR, P, HBG, WAG.
 
-Morel SRF 58, bassin de l'Akia, affluent du Rio Muni (st.), P.
+Morel SRF 58, basin of the Akia, tributary of Rio Muni (st.), P.
 
 Reitsma CO-12-14, Atem-Ayong (st.), WAG ; CO1511, (st.), WAG.
 
-Reitsma & Reitsma 1965, Mts. Doudou, 30 km SO de Doussala, 2°32'S-10°29'E (fr., juv. Feb.), MA, MO, WAG.
+Reitsma & Reitsma 1965, Mts. Doudou, 30 km SW of Doussala, 2°32'S-10°29'E (fr., juv. Feb.), MA, MO, WAG.
 
-Soyaux 110, Sibange (fl., Août), K, P, Z.
+Soyaux 110, Sibange (fl., Aug.), K, P, Z.
 
-Wieringa & Nzabi 1046, au N de Rabi-Kounga, 1°47'S-9°50'E (fl., Mai), LBV, WAG.
+Wieringa & Nzabi 1046, N of Rabi-Kounga, 1°47'S-9°50'E (fl., May), LBV, WAG.
 
 6. TERMINALIA LINNE, nom. cons.
 
-Svst. Nat., ed. 12, 2 : 674 ; Mant. 21, 128. (Oct. 1767). LIBEN, Fl. Cam. 25 : 66 (1983).
+Syst. Nat., ed. 12, 2 : 674 ; Mant. 21, 128. (Oct. 1767). LIBEN, Fl. Cam. 25 : 66 (1983).
 
-Arbres ou arbustes.
+Trees or shrubs.
 
-Feuilles alternes.
+Leaves alternate.
 
-Inflorescences en épis ou en racèmes spiciformes.
+Inflorescences in spikes or spiciform racemes.
 
-Fleurs bisexuées et mâles sur la même inflorescence, les fleurs mâles occupant la région somitale. Fleurs 5 mères. Pétales absents. Étamines, 10. Disque présent.
+Flowers bisexual and male on the same inflorescence, the male flowers occupying the apical region. Flowers 5-merous. Petals absent. Stamens, 10. Disk present.
 
-Fruit sec ou succulent, ailé ou non.
+Fruit dry or succulent, winged or not.
 
-Genre estimé à 100-200 espèces, dont une seule est naturelle au Gabon.
+Genus estimated at 100–200 species, of which only one is native to Gabon.
 
-CLÉ DES ESPÈCES
+KEY TO SPECIES
 
-1. Fruit à 2 ailes
+1. Fruit with 2 wings
 
-2. Fruit plus large que long .....4.T.superba
+2. Fruit wider than long .....4.T.superba
 
-2'. Fruit plus long que large .....2. T. ivorensis
+2'. Fruit longer than wide .....2. T. ivorensis
 
-3. Fruit muni de deux crêtes ..... I T. catappa
+3. Fruit provided with two ridges ..... I T. catappa
 
-3'. Fruit sans crête .....3. T. mantaly
+3'. Fruit without ridge .....3. T. mantaly
 
 ## Figures
 
 ![Strephonema sericeum](../sources/Combretaceae_vol35_paddle/figures/fig_030_p0101.png)
 
-*PL. 28. – Strephonema sericeum Hook. f. : A, feuilles. – Strephonema mannii Hook. f. : B, inflorescence avec boutons floraux et une fleur ouverte ; C, inflorescence à maturité. Photos C.C.H. JONGKIND – Department of Plant Taxonomy – Agricultural University. WAGENINGEN (Pays-Bas).*
+*PL. 28. – Strephonema sericeum Hook. f. : A, leaves. – Strephonema mannii Hook. f. : B, inflorescence with flower buds and an open flower ; C, inflorescence at maturity. Photos C.C.H. JONGKIND – Department of Plant Taxonomy – Agricultural University. WAGENINGEN (Netherlands).*
 
 ![Strephonema sericeum](../sources/Combretaceae_vol35_paddle/figures/fig_034_p0104.png)
 

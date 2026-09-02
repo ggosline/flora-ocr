@@ -7,6 +7,13 @@ family: Leguminosae
 vol: 49
 pages: 376-378
 source: sources/Millettiaspeciesfabaceae_vol49_liteparse
+countries: [Gabon]
+in_region: true
+subdivisions:
+  Gabon: [Estuaire, Nyanga, Ogooué-Maritime, Woleu-Ntem]
+habit: "herb"
+habitat: [swamp forest, coastal]
+altitude_m: "0–500"
 tags: [species, generated]
 ---
 # *Vigna luteola* (Jacq.) Benth. Planche 127

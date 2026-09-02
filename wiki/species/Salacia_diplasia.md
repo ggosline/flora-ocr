@@ -7,6 +7,9 @@ family: Celastraceae
 vol: 29
 pages: 104-107
 source: sources/Celastraceae_vol29_paddle
+countries: [Cameroon]
+in_region: true
+habit: "shrub"
 tags: [species, generated]
 ---
 # *Salacia diplasia* Hallé, sp. nov.

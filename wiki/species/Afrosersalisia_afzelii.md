@@ -11,17 +11,13 @@ synonyms:
   - Sersalisia micrantha (Hutch. & Dalz.) Aubr. & Pellegr.
   - Afrosersalisia micrantha (Hutch. & Dalz.) A. Chev.
   - Pouteria akuedo Baehni
-habit: tree
-habitat: [humid lowlands, river margins, lagoons]
-altitude_m: ""
-countries: [Côte d'Ivoire, Gabon, Liberia, Sierra Leone]
-subdivisions:
-  Gabon: [Estuaire, Ogooué-Maritime]
-in_region: true
 treatments:
   - vol: 1
     pages: "109-112"
     source: sources/Sapotaceae_vol01_paddle
+countries: [Gabon, Liberia, Sierra Leone]
+in_region: true
+habit: "tree"
 tags: [species]
 ---
 

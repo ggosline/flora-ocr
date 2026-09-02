@@ -7,6 +7,9 @@ family: Leguminosae
 vol: 15
 pages: 123-125
 source: sources/Leguminosae_vol15_paddle
+countries: [Gabon]
+in_region: true
+habit: "tree"
 tags: [species, generated]
 ---
 # *Guibourtia pellegriniana* Léonard Kévazingo
@@ -43,7 +46,7 @@ Aubréville : 113, estuaire du Gabon (fr. sept.). Heitz : 21, Libreville. Lecomt
 
 ![Guibourtia pellegriniana](../sources/Leguminosae_vol15_paddle/figures/fig_027_p0124.png)
 
-*PL. XXVII. — Guibourtia Demeusei (Harms) Léonard : 1, rameau florifère × 2 /3; 2, bouton × 4; 3, fleur × 3; 4, pistil × 4; 5, infrutescense × 2 /3.*
+*PL. XXVII. — Guibourtia Demeusei (Harms) Léonard : 1, flowering branch × 2/3; 2, bud × 4; 3, flower × 3; 4, pistil × 4; 5, infructescence × 2/3.*
 
 ## Notes
 

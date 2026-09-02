@@ -7,6 +7,11 @@ family: Leguminosae
 vol: 49
 pages: 116-117
 source: sources/Millettiaspeciesfabaceae_vol49_liteparse
+countries: [Gabon]
+in_region: true
+subdivisions:
+  Gabon: [Ogooué-Ivindo]
+altitude_m: "120–150"
 tags: [species, generated]
 ---
 # *Dalbergia adiantifolia* O.Lachenaud, sp. nov. Planche 35

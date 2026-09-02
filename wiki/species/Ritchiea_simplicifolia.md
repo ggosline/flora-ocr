@@ -7,6 +7,8 @@ family: Brassicaceae
 vol: 30
 pages: 61-65
 source: sources/Capparidaceae_vol30_paddle
+countries: [Cameroon, Gabon]
+in_region: true
 tags: [species, generated]
 ---
 # *Ritchiea simplicifolia* Oliver

@@ -6,6 +6,13 @@ genus: Clerodendrum
 vol: 58
 pages: 35-35
 source: sources/Labiataeulmaceaeverbenaceae_vol58_liteparse
+countries: [Angola, Democratic Republic of the Congo, Equatorial Guinea, Gabon, Republic of the Congo]
+in_region: true
+subdivisions:
+  Gabon: [Estuaire, Haut-Ogooué, Ngounié, Nyanga, Ogooué-Ivindo, Ogooué-Lolo, Ogooué-Maritime, Woleu-Ntem]
+habit: "shrub"
+habitat: [savanna]
+altitude_m: "5–900"
 tags: [species, generated]
 ---
 # *Clerodendrum fuscum* Gürke Figure 2(C, D)

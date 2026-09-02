@@ -7,6 +7,11 @@ family: Arecaceae
 vol: 53
 pages: 52-54
 source: sources/Arecaceae_vol53_liteparse
+countries: [Gabon, Republic of the Congo]
+in_region: true
+subdivisions:
+  Gabon: [Estuaire, Moyen-Ogooué, Ngounié, Nyanga, Ogooué-Ivindo, Ogooué-Maritime]
+altitude_m: "650"
 tags: [species, generated]
 ---
 # *Podococcus acaulis* Hua Planche 17, Figure 5D-F

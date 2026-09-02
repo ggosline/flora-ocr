@@ -7,6 +7,13 @@ family: Cyperaceae
 vol: 44
 pages: 11-12
 source: sources/Cyperaceae_vol44_liteparse
+countries: [Democratic Republic of the Congo, Gabon]
+in_region: true
+subdivisions:
+  Gabon: [Woleu-Ntem]
+habit: "herb"
+habitat: [rocky ground]
+altitude_m: "500–850"
 tags: [species, generated]
 ---
 # *Actinoschoenus filiformis* Benth. Planche 1, Figure 1a

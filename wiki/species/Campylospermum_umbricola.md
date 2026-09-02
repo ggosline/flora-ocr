@@ -7,6 +7,11 @@ family: Ochnaceae
 vol: 48
 pages: 68-68
 source: sources/Ochnaceae_vol48_liteparse
+countries: [Cameroon, Gabon]
+in_region: true
+habit: "tree"
+habitat: [coastal]
+altitude_m: "430–500"
 tags: [species, generated]
 ---
 # *Campylospermum umbricola* (Tiegh.) Farron

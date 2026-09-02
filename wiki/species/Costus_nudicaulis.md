@@ -5,10 +5,10 @@ authority: Bak.
 genus: Costus
 family: Zingiberaceae
 family_current: Costaceae
-countries: [Gabon, Republic of the Congo]
-in_region: true
-habit: epiphytic herb
 treatments: [{vol: 9, pages: "78–80", source: sources/Zingiberaceae_vol9_paddle}]
+countries: [Gabon]
+in_region: true
+habit: "herb"
 tags: [species]
 ---
 # *Costus nudicaulis* Bak.

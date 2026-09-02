@@ -7,6 +7,12 @@ family: Leguminosae
 vol: 49
 pages: 211-211
 source: sources/Millettiaspeciesfabaceae_vol49_liteparse
+countries: [Angola, Gabon, Senegal, Sudan, Zimbabwe]
+in_region: true
+subdivisions:
+  Gabon: [Haut-Ogooué, Ngounié, Nyanga, Ogooué-Maritime]
+habit: "herb"
+altitude_m: "250"
 tags: [species, generated]
 ---
 # *Indigofera capitata* Kotschy Planche 69

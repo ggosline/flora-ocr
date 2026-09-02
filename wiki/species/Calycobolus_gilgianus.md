@@ -7,6 +7,13 @@ family: Convolvulaceae
 vol: 46
 pages: 23-24
 source: sources/Convolvulaceae_vol46_liteparse
+countries: [Cameroon, Central African Republic, Democratic Republic of the Congo, Gabon, Nigeria, Republic of the Congo]
+in_region: true
+subdivisions:
+  Gabon: [Moyen-Ogooué, Ogooué-Lolo]
+habit: "liana"
+habitat: [secondary forest]
+altitude_m: "700"
 tags: [species, generated]
 ---
 # *Calycobolus gilgianus* (Pilg.) Heine

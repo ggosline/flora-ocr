@@ -7,6 +7,9 @@ family: Rubiaceae
 vol: 17
 pages: 89-92
 source: sources/Rubiaceae_vol17_paddle
+countries: [Angola, Guinea, Uganda]
+in_region: true
+habit: "shrub"
 tags: [species, generated]
 ---
 # *Dictyandra arborescens* Welw. ex Hook. f.
@@ -39,7 +42,7 @@ N. Hallé 3596, Bélinga (fl. déc.); 4931, Efout, Est de Médouneu (fr. fév.).
 
 ![Dictyandra arborescens](../sources/Rubiaceae_vol17_paddle/figures/fig_020_p0091.png)
 
-*PL. 20. — Dictyandra arborescens Welw. ex Hook. f. (N. Hallé 3596) : 1, feuille; 2, stipule; 3, inflorescence × 0,6; 4, coupe du bouton; 5, fleur × 1; 6, sépale; 7, étamine × 4; 8, coupe de la fleur; 9, coupe de l'ovaire; 10, placenta recto et verso × 9; 11, fruit à sec × 2; 12, graine profil et coupe × 6,5. — D. involucrata (Hook. f.) Hiern (N. Hallé 3214; 17, N. H. 3417) : 13, stipule; 14, fleur × 1; 15, sépale × 3; 16, étamine; 17, fruit à sec × 2.*
+*PL. 20. — Dictyandra arborescens Welw. ex Hook. f. (N. Hallé 3596) : 1, leaf; 2, stipule; 3, inflorescence × 0,6; 4, section of the bud; 5, flower × 1; 6, sepal; 7, stamen × 4; 8, section of the flower; 9, section of the ovary; 10, placenta front and back × 9; 11, dry fruit × 2; 12, seed profile and section × 6,5. — D. involucrata (Hook. f.) Hiern (N. Hallé 3214; 17, N. H. 3417) : 13, stipule; 14, flower × 1; 15, sepal × 3; 16, stamen; 17, dry fruit × 2.*
 
 ## Notes
 

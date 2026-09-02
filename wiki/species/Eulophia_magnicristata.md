@@ -7,6 +7,8 @@ family: Orchidaceae
 vol: 37
 pages: 101-101
 source: sources/Orchidaceae_vol37_paddle
+countries: [Central African Republic, Gabon]
+in_region: true
 tags: [species, generated]
 ---
 # *Eulophia magnicristata* Szlach. & Olsz.
@@ -37,7 +39,7 @@ Wieringa 928, Tchimbélé, ruderal zone near the gendarmerie post, alt. ± 580 m
 
 ![Eulophia magnicristata](../sources/Orchidaceae_vol37_paddle/figures/fig_040_p0100.png)
 
-*PL. 146. – Eulophia magnicristata Szlach. & Olsz. : A, labelle et éperon, vue latérale ; B, labelle étalé ; C, sépale dorsal ; D, pétale ; E, sépale latéral ; F, bractée florale ; G, anthère, vue de face (A-G, Tisserant 243, 2558, P).*
+*PL. 146. – Eulophia magnicristata Szlach. & Olsz. : A, labellum and spur, lateral view ; B, labellum spread out ; C, dorsal sepal ; D, petal ; E, lateral sepal ; F, floral bract ; G, anther, frontal view (A-G, Tisserant 243, 2558, P).*
 
 ## Notes
 

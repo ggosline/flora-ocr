@@ -7,6 +7,11 @@ family: Putranjivaceae
 vol: 57
 pages: 154-154
 source: sources/Putranjivaceae_vol57_paddle
+countries: [Angola, Cameroon, Central African Republic, Democratic Republic of the Congo, Equatorial Guinea, Gabon, Nigeria, Republic of the Congo]
+in_region: true
+subdivisions:
+  Gabon: [Ngounié, Nyanga, Ogooué-Ivindo, Ogooué-Lolo]
+habit: "tree"
 tags: [species, generated]
 ---
 # *Drypetes paxii* Hutch.

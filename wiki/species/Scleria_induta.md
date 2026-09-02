@@ -7,6 +7,10 @@ family: Cyperaceae
 vol: 44
 pages: 212-214
 source: sources/Cyperaceae_vol44_liteparse
+countries: [Angola, Democratic Republic of the Congo, Gabon, Zambia]
+in_region: true
+habit: "herb"
+altitude_m: "1350"
 tags: [species, generated]
 ---
 # *Scleria induta* Turrill
@@ -17,23 +21,17 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Robust, perennial herb in tufts; swollen bases of stems often tightly clustered on a robust woody rhizome and forming a knotty mass; stem 40–90 cm × 2–3 mm (6–9 mm at base), triangular, glabrous. Leaves numerous, the basal ones reduced to sheaths; blade 15–35 cm × 2–6 mm, rather stiff, glabrous or pubescent beneath. Inflorescence with 2–5 lateral panicles each arising from a node and scarcely exceeding the sheaths, the largest 7–10 × 2–3 cm; peduncles rigid, triangular, hairy and scabrous; rachis densely
 
-Herbe robuste, vivace , en touffe ; bases renflées des tiges souvent serrées sur un robuste rhizome ligneux et formant une masse noueuse ; tige 40–90 cm × 2–3 mm (6–9 mm à la base), triangulaire, glabre. Feuilles nombreuses, les basales réduites aux gaines ; limbe 15–35 cm × 2–6 mm, plutôt raide, glabre ou pubescent dessous. Inflorescence à 2–5 panicules latérales issues chacune d’un nœud et dépassant peu des gaines, la plus grande de 7–10 × 2–3 cm ; pédoncules rigides, triangulaires, poilus et scabres ; rachis densément
-
-Base de la plante. – C. Orifice de la gaine de la Orifice d’une gaine foliaire montrant la tige en feuille basale et section d’une tige. – D. Partie de section. – C. Partie de l’inflorescence. – D. Groupe l’inflorescence. – E, F. Épillet bisexué. – G. Fruit. d’épillets. – E. Épillet mâle. – F. Épillet femelle. – Dessin original par Richard W. Haines ©. G. Fruit avec hypogynium trilobé. Dessin original par Richard W. Haines ©. poilu. Épillet mâle 8–10 × 1 mm environ, la plupart sessiles, étalé à maturité, à glumes nombreuses, les centrales à 3 staminodes, longues de 5–8 mm et les sommitales à 3 étamines, longues de 3–4 mm. Épillet femelle long de 10–14 mm , à glumes longues de 10–14 mm, lancéolées, brun rougeâtre à noir, nervure centrale verte, sommet aigu. Akène ovoïde à elliptique, 4–4,8 (hypogynium compris) × de 2–3 mm , lisse, gris pâle à brun violet pâle, brillant, glabre ; hypogynium long de 1–2 mm , blanc et spongieux à l’état frais, devenant jaunâtre ou brun en séchant, sans lobes .
+Base of plant. – C. Opening of the sheath of the Opening of a leaf sheath showing the stem in basal leaf and section of a stem. – D. Part of section. – C. Part of the inflorescence. – D. Group inflorescence. – E, F. Bisexual spikelet. – G. Fruit. of spikelets. – E. Male spikelet. – F. Female spikelet. – Original drawing by Richard W. Haines ©. G. Fruit with trilobed hypogynium. Original drawing by Richard W. Haines ©. hairy. Male spikelet approximately 8–10 × 1 mm, most sessile, spreading at maturity, with numerous glumes, the central ones with 3 staminodes, 5–8 mm long and the apical ones with 3 stamens, 3–4 mm long. Female spikelet 10–14 mm long, with glumes 10–14 mm long, lanceolate, reddish-brown to black, central nerve green, apex acute. Achene ovoid to elliptic, 4–4.8 (hypogynium included) × 2–3 mm, smooth, pale grey to pale violet-brown, shiny, glabrous; hypogynium 1–2 mm long, white and spongy when fresh, becoming yellowish or brown when dry, without lobes.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-connu seulement de la Zambie, la République Démocratique du Congo et l’Angola ; la présence au Gabon est à confirmer car le seul spécimen ( Bradley et al. 1051 ) n’a pas été examiné par les auteurs
+known only from Zambia, Democratic Republic of the Congo, and Angola; the presence in Gabon is to be confirmed as the sole specimen (Bradley et al. 1051) was not examined by the authors
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-terrains boisés ; en Afrique, jusqu’à 1350 m d’altitude. b : Haines & Lye (1983), Piérart (1953), Robinson (1966). ibliographie
+wooded areas; in Africa, up to 1350 m altitude. b: Haines & Lye (1983), Piérart (1953), Robinson (1966). ibliography
 
 ## Notes
 

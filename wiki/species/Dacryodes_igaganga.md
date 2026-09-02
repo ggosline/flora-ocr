@@ -5,10 +5,12 @@ authority: Aubr. et Pellegr.
 genus: Dacryodes
 family: Burseraceae
 synonyms: []
+treatments: [{vol: 3, pages: "88–90", source: sources/Burseraceae_vol3_paddle}]
 countries: [Gabon]
 in_region: true
-habit: large tree
-treatments: [{vol: 3, pages: "88–90", source: sources/Burseraceae_vol3_paddle}]
+subdivisions:
+  Gabon: [Ngounié]
+habit: "tree"
 tags: [species]
 ---
 

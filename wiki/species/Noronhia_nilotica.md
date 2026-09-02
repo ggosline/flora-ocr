@@ -7,6 +7,13 @@ family: Oleaceae
 vol: 51
 pages: 23-23
 source: sources/Oleaceae_vol51_liteparse
+countries: [Gabon, Kenya, Senegal, Tanzania, Zambia]
+in_region: true
+subdivisions:
+  Gabon: [Nyanga, Ogooué-Ivindo]
+habit: "tree"
+habitat: [savanna]
+altitude_m: "200"
 tags: [species, generated]
 ---
 # *Noronhia nilotica* (Oliv.) Hong-Wa & Besnard

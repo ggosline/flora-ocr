@@ -7,6 +7,12 @@ family: Eriocaulaceae
 vol: 48
 pages: 17-19
 source: sources/Eriocaulaceae_vol48_liteparse
+countries: [Angola, Gabon, Mozambique, Tanzania, Uganda, Zambia]
+in_region: true
+subdivisions:
+  Gabon: [Estuaire, Haut-Ogooué, Moyen-Ogooué, Ngounié, Nyanga, Ogooué-Ivindo, Ogooué-Maritime]
+habit: "herb"
+altitude_m: "540"
 tags: [species, generated]
 ---
 # *Mesanthemum erici-rosenii* R.E.Fr., Wiss. Erg. Schwed. Rhodesia-Kongo-Exp.

@@ -7,6 +7,10 @@ family: Scytopetalaceae
 vol: 24
 pages: 18-21
 source: sources/Chrysobalanaceae_vol24_paddle
+countries: [Angola, Cameroon, Gabon, Nigeria]
+in_region: true
+habit: "tree"
+habitat: [swamp forest]
 tags: [species, generated]
 ---
 # *Acioa campestris* Engler
@@ -79,7 +83,7 @@ mbangéfa (apindji); divala (bavungu); mumbundu (eshira); éfian (fang)
 
 ![Acioa campestris](../sources/Chrysobalanaceae_vol24_paddle/figures/fig_003_p0019.png)
 
-*PL. 3. — Acioa campestris Engl.: 1, rameau avec fleurs × 2/3; 2, feuille courte et large × 2/3; 3, feuille longue et étroite × 2/3; 4, stipule × 2; 5, bractée × 4; 6, bractéoles × 4; 7, fleur (pét. excl.) × 3/2. (1, Soyaux 362; 2, Soyaux 111; 3-4, Klaine 12; 5-7, Le Testu 9363).*
+*PL. 3. — Acioa campestris Engl.: 1, branch with flowers × 2/3; 2, short and broad leaf × 2/3; 3, long and narrow leaf × 2/3; 4, stipule × 2; 5, bract × 4; 6, bracteoles × 4; 7, flower (pet. excl.) × 3/2. (1, Soyaux 362; 2, Soyaux 111; 3-4, Klaine 12; 5-7, Le Testu 9363).*
 
 ## Notes
 

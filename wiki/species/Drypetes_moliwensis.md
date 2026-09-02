@@ -7,6 +7,11 @@ family: Putranjivaceae
 vol: 57
 pages: 150-152
 source: sources/Putranjivaceae_vol57_paddle
+countries: [Cameroon, Equatorial Guinea, Gabon]
+in_region: true
+subdivisions:
+  Gabon: [Estuaire, Ogooué-Ivindo, Ogooué-Lolo]
+habit: "tree"
 tags: [species, generated]
 ---
 # *Drypetes moliwensis* Cheek & Radcl.-Sm.

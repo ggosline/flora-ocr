@@ -7,6 +7,9 @@ family: Rubiaceae
 vol: 17
 pages: 48-49
 source: sources/Rubiaceae_vol17_paddle
+countries: [Angola, Cameroon, Gabon]
+in_region: true
+habit: "shrub"
 tags: [species, generated]
 ---
 # *Bertiera batesii* Wernham (P.L. 9, p. 45)

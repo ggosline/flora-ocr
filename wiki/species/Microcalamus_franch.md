@@ -53,7 +53,7 @@ Breteler, Jongkind, Wieringa & Moussavou 9476, 24.03.1990, 1°55'S-9°50'E, Rabi
 
 ![Microcalamus franch](../sources/Gramineae_vol5bis_paddle/figures/fig_010_p0042.png)
 
-*Pl. 10. - Mnesithea granularis (L.) Koning & Sosef : 1, aspect de la plante ; 2, inflorescence ; 3, 4, paire d'épillets et entre-nœud. - Mnesithea afraurita (Stapf) Koning & Sosef : 5, inflorescence, 6, racème ; 7, 8, partie du racème. - Autorisation de reproduction : cf. Remerciements p. 68.*
+*Pl. 10. - Mnesithea granularis (L.) Koning & Sosef : 1, aspect of the plant ; 2, inflorescence ; 3, 4, pair of spikelets and internode. - Mnesithea afraurita (Stapf) Koning & Sosef : 5, inflorescence, 6, raceme ; 7, 8, part of the raceme. - Reproduction authorization: cf. Acknowledgments p. 68.*
 
 ## Notes
 

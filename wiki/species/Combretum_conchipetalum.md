@@ -7,6 +7,9 @@ family: Combretaceae
 vol: 35
 pages: 32-33
 source: sources/Combretaceae_vol35_paddle
+countries: [Gabon, Guinea-Bissau]
+in_region: true
+altitude_m: "470"
 tags: [species, generated]
 ---
 # *Combretum conchipetalum* Engler & Diels
@@ -71,7 +74,7 @@ Wilks MINK E 108 (st.) et 148 (st.), Minkébé, 1°30'N-12°48'E (st.), tous deu
 
 ![Combretum conchipetalum](../sources/Combretaceae_vol35_paddle/figures/fig_008_p0034.png)
 
-*PL. 8. – Combretum cuspidatum Planchon ex Bentham : A, feuille face inf. × 1 ; B, fleur × 10 ; C, fruit, profil × 2 ; D, fruit, coupe transversale (A-D, J. Louis 3991). – Combretum conchipetalum Engler & Diels (= C. afzelii Engler & Diels) : E, feuille, face inf. × 1 ; F, fleur × 10 ; G, fruit, profil × 2 ; H, fruit, coupe transversale (E-H, J. Louis 7518). – Dessins de L. LIBEN reproduits avec l'autorisation du Département des Spermatophytes et Pteridophytes du Jardin Botanique National de MEISE (Belgique).*
+*PL. 8. – Combretum cuspidatum Planchon ex Bentham : A, leaf lower surface × 1 ; B, flower × 10 ; C, fruit, profile × 2 ; D, fruit, transverse section (A-D, J. Louis 3991). – Combretum conchipetalum Engler & Diels (= C. afzelii Engler & Diels) : E, leaf, lower surface × 1 ; F, flower × 10 ; G, fruit, profile × 2 ; H, fruit, transverse section (E-H, J. Louis 7518). – Drawings by L. LIBEN reproduced with permission from the Department of Spermatophytes and Pteridophytes of the National Botanical Garden of MEISE (Belgium).*
 
 ## Notes
 

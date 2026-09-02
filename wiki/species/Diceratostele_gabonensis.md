@@ -7,6 +7,9 @@ family: Orchidaceae
 vol: 36
 pages: 81-85
 source: sources/Orchidaceae_vol36_paddle
+countries: [Cameroon, Cote d'Ivoire, Gabon, Liberia]
+in_region: true
+habitat: [secondary forest, riverine]
 tags: [species, generated]
 ---
 # *Diceratostele gabonensis* Summerh.
@@ -75,7 +78,7 @@ Subtribe of 5 genera: only Vanilla Miller, pantropical, exists in Africa.
 
 ![Diceratostele gabonensis](../sources/Orchidaceae_vol36_paddle/figures/fig_037_p0082.png)
 
-*PL. 37. – Structure du gynostème du genre Diceratostele Summerh.: A, vue de la base ; B, anthère vue de la base ; C, vue postérieure ; D, vue latérale (A-D, ex SZLACHETKO & RUTKOWSKI, 2000).*
+*PL. 37. – Structure of the gynosteme of the genus Diceratostele Summerh.: A, view of the base ; B, anther seen from the base ; C, posterior view ; D, lateral view (A-D, ex SZLACHETKO & RUTKOWSKI, 2000).*
 
 ![Diceratostele gabonensis](../sources/Orchidaceae_vol36_paddle/figures/fig_038_p0084.png)
 

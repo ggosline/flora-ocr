@@ -7,6 +7,9 @@ family: Sapindaceae
 vol: 23
 pages: 145-145
 source: sources/Sapindaceae_vol23_paddle
+countries: [Angola, Central African Republic, Cote d'Ivoire, Democratic Republic of the Congo, Equatorial Guinea, Guinea, Kenya, Nigeria, Senegal, Togo]
+in_region: true
+habit: "tree"
 tags: [species, generated]
 ---
 # *Lecaniodiscus cupanoides* Planchon

@@ -7,6 +7,12 @@ family: Leguminosae
 vol: 49
 pages: 243-244
 source: sources/Millettiaspeciesfabaceae_vol49_liteparse
+countries: [Angola, Gabon, Guinea, Mozambique, Senegal, Zimbabwe]
+in_region: true
+subdivisions:
+  Gabon: [Estuaire, Nyanga, Ogooué-Ivindo, Ogooué-Maritime]
+habit: "tree"
+habitat: [coastal]
 tags: [species, generated]
 ---
 # *Lonchocarpus sericeus* (Poir.) Kunth Planche 81

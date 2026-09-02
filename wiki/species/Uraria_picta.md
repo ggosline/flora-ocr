@@ -7,6 +7,12 @@ family: Leguminosae
 vol: 49
 pages: 369-369
 source: sources/Millettiaspeciesfabaceae_vol49_liteparse
+countries: [Gabon]
+in_region: true
+subdivisions:
+  Gabon: [Estuaire, Haut-Ogooué, Moyen-Ogooué, Ngounié, Nyanga, Ogooué-Ivindo, Ogooué-Maritime]
+habit: "herb"
+altitude_m: "5–350"
 tags: [species, generated]
 ---
 # *Uraria picta* (Jacq.) DC. Planche 125

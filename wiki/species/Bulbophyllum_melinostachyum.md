@@ -7,6 +7,9 @@ family: Orchidaceae
 vol: 36
 pages: 179-183
 source: sources/Orchidaceae_vol36_paddle
+countries: [Cameroon, Cote d'Ivoire, Equatorial Guinea, Gabon, Malawi, Mozambique, Nigeria, Sierra Leone, Tanzania, Uganda, Zambia, Zimbabwe]
+in_region: true
+habitat: [secondary forest]
 tags: [species, generated]
 ---
 # *Bulbophyllum melinostachyum* Schltr.

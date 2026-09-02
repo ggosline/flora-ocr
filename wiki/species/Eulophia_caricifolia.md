@@ -7,6 +7,9 @@ family: Orchidaceae
 vol: 37
 pages: 93-94
 source: sources/Orchidaceae_vol37_paddle
+countries: [Angola, Burundi, Cameroon, Central African Republic, Cote d'Ivoire, Democratic Republic of the Congo, Equatorial Guinea, Gabon, Ghana, Guinea, Liberia, Nigeria, Rwanda, Sierra Leone, Tanzania, Uganda, Zambia]
+in_region: true
+habitat: [savanna]
 tags: [species, generated]
 ---
 # *Eulophia caricifolia* (Rchb.f.) Summerh.
@@ -49,7 +52,7 @@ Thollon 23, Cape Lopez (fl. Dec.), P!; s.n., s.loc., BR!, P!.
 
 ![Eulophia caricifolia](../sources/Orchidaceae_vol37_paddle/figures/fig_037_p0092.png)
 
-*PL. 143. – Eulophia caricifolia (Rchb.f.) Summerh. : A, labelle et éperon, vue latérale ; B, labelle étalé ; C, sépale dorsal ; D, pétale ; E, sépale latéral. – Eulophia cucullata (Afzel. ex Sw.) Steud. : F, labelle, éperon, gynostème, pédicelle et ovaire, vue latérale ; G, anthère, vue latérale ; H, labelle étalé ; I, sépale latéral ; J, pétale ; K, sépale dorsal (A-E, Thollon s.n., P ; F-K, Baum 370, HBG).*
+*PL. 143. – Eulophia caricifolia (Rchb.f.) Summerh. : A, labellum and spur, lateral view ; B, labellum spread out ; C, dorsal sepal ; D, petal ; E, lateral sepal. – Eulophia cucullata (Afzel. ex Sw.) Steud. : F, labellum, spur, gynostème, pedicel and ovary, lateral view ; G, anther, lateral view ; H, labellum spread out ; I, lateral sepal ; J, petal ; K, dorsal sepal (A-E, Thollon s.n., P ; F-K, Baum 370, HBG).*
 
 ![Eulophia caricifolia](../sources/Orchidaceae_vol37_paddle/figures/fig_147_p0254.png)
 

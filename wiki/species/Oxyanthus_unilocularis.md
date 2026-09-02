@@ -7,6 +7,9 @@ family: Rubiaceae
 vol: 17
 pages: 195-198
 source: sources/Rubiaceae_vol17_paddle
+countries: [Angola, Guinea, Uganda]
+in_region: true
+habit: "shrub"
 tags: [species, generated]
 ---
 # *Oxyanthus unilocularis* Hiern
@@ -52,7 +55,7 @@ Walker s. n., Saint-Martin (fl. Nov.).
 
 ![Oxyanthus unilocularis](../sources/Rubiaceae_vol17_paddle/figures/fig_045_p0197.png)
 
-*PL. 44. — Oxyanthus unilocularis Hiern (N. Hallé 1983 et 2116; fr. Koechlin 2720); 1, inflorescence × 0,75; 2 à 5, détail du bouton avec coupes; 6, corolle épanouie × 1,5; 7, un lobe à plat × 1,5; 8 et 9, anthère × 9; 10, massue et sommet du style × 9; 11, calice; 12, coupe de l'ovaire; 13, fruit × 1,5; 14, graine × 3.*
+*PL. 44. — Oxyanthus unilocularis Hiern (N. Hallé 1983 and 2116; fr. Koechlin 2720); 1, inflorescence × 0.75; 2 to 5, bud detail with sections; 6, expanded corolla × 1.5; 7, a lobe flattened × 1.5; 8 and 9, anther × 9; 10, club and apex of style × 9; 11, calyx; 12, ovary section; 13, fruit × 1.5; 14, seed × 3.*
 
 ## Notes
 

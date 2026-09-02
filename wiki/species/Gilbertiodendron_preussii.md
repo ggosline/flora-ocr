@@ -7,6 +7,9 @@ family: Leguminosae
 vol: 15
 pages: 232-233
 source: sources/Leguminosae_vol15_paddle
+countries: [Cameroon, Gabon, Sierra Leone]
+in_region: true
+habit: "tree"
 tags: [species, generated]
 ---
 # *Gilbertiodendron preussii* (Harms) Léonard

@@ -7,6 +7,7 @@ family: Pentadiplandraceae
 vol: 20
 pages: 166-170
 source: sources/Pentadiplandraceae_vol20_paddle
+habit: "herb"
 tags: [species, generated]
 ---
 # *Pentadiplandra brazzeana* Baillon
@@ -29,7 +30,7 @@ tags: [species, generated]
 
 ![Pentadiplandra brazzeana](../sources/Pentadiplandraceae_vol20_paddle/figures/fig_036_p0167.png)
 
-*PL. 36. — Pentadiplandra brazzeana Baill. : 1, feuilles et inflorescences × 0,2; 2, fleur × 1; 3, coupe longit. de la fleur × 1; 4, diagramme floral; 5, sépale × 10; 6, pétale × 1,5; 7, coupe d'un pétale × 1,5; 8, étamine × 4,5; 9, ovaire et gynophore × 11; 10, coupe du fruit × 2/3; 12, graine × 1,5; 13, coupe de la graine × 1,5; 14, amande × 1,5. (1-10, Le Testu 9039; 10-14, Hallé N. 2694).*
+*PL. 36. — Pentadiplandra brazzeana Baill. : 1, leaves and inflorescences × 0.2; 2, flower × 1; 3, longitudinal section of the flower × 1; 4, floral diagram; 5, sepal × 10; 6, petal × 1.5; 7, section of a petal × 1.5; 8, stamen × 4.5; 9, ovary and gynophore × 11; 10, section of the fruit × 2/3; 12, seed × 1.5; 13, section of the seed × 1.5; 14, kernel × 1.5. (1-10, Le Testu 9039; 10-14, Hallé N. 2694).*
 
 ## Notes
 

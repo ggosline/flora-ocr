@@ -7,6 +7,13 @@ family: Urticaceae
 vol: 51
 pages: 70-72
 source: sources/Urticaceae_vol51_liteparse
+countries: [Cameroon, Cote d'Ivoire, Democratic Republic of the Congo, Equatorial Guinea, Gabon, Guinea, Liberia, Nigeria, Rwanda, Uganda]
+in_region: true
+subdivisions:
+  Gabon: [Ngounié, Nyanga, Ogooué-Ivindo, Woleu-Ntem]
+habit: "herb"
+habitat: [rocky ground]
+altitude_m: "50–800"
 tags: [species, generated]
 ---
 # *Pilea sublucens* Wedd. Planche 27

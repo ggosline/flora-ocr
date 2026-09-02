@@ -7,6 +7,11 @@ family: Arecaceae
 vol: 53
 pages: 29-31
 source: sources/Arecaceae_vol53_liteparse
+countries: [Angola, Cameroon, Central African Republic, Equatorial Guinea, Gabon, Nigeria]
+in_region: true
+subdivisions:
+  Gabon: [Estuaire, Nyanga, Ogooué-Ivindo, Ogooué-Lolo]
+habit: "liana"
 tags: [species, generated]
 ---
 # *Eremospatha wendlandiana* Dammer ex Beccari Planche 10, Figure 2E,F

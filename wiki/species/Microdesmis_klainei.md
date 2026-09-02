@@ -7,6 +7,9 @@ family: Pandaceae
 vol: 22
 pages: 21-24
 source: sources/Pandaceae_vol22_paddle
+countries: [Cameroon, Gabon]
+in_region: true
+habit: "shrub"
 tags: [species, generated]
 ---
 # *Microdesmis klainei* J. Léonard
@@ -51,7 +54,7 @@ Villiers J.-F. 101, forêt de la Mondah (fl. ♂, juin); 189, Nzeng Bour, forêt
 
 ![Microdesmis klainei](../sources/Pandaceae_vol22_paddle/figures/fig_005_p0023.png)
 
-*PL. 5. — Microdesmis klainei J. Léonard : 1, feuille × 2/3; 2, détail d'un nœud × 5; 3, 3', sommet du limbe; 5, bouton floral × 6; 6, fleur ♂ × 4; 7, coupe long. d'une fleur ♂ × 4; 8, pétale face ext. × 6; 9, étamine × 13,5; 10, pistillode × 10; 11, fleur ♀ × 7,5; 12, coupe long. d'une fleur ♀ × 7,5; 13, diagramme d'une fleur ♀; 14, pistil × 11; 15, fruit × 1,5; 16, coupe transv. du fruit × 1,5; 17, endocarpe × 2 (1-3', 11-17, Klaine 1178; 5-10, Klaine 729).*
+*PL. 5. — Microdesmis klainei J. Léonard : 1, leaf × 2/3; 2, detail of a node × 5; 3, 3', apex of limb; 5, floral bud × 6; 6, ♂ flower × 4; 7, long. section of a ♂ flower × 4; 8, petal outer surface × 6; 9, stamen × 13,5; 10, pistillode × 10; 11, ♀ flower × 7,5; 12, long. section of a ♀ flower × 7,5; 13, diagram of a ♀ flower; 14, pistil × 11; 15, fruit × 1,5; 16, transv. section of fruit × 1,5; 17, endocarp × 2 (1-3', 11-17, Klaine 1178; 5-10, Klaine 729).*
 
 ## Notes
 

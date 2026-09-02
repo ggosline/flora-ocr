@@ -7,6 +7,13 @@ family: Leguminosae
 vol: 49
 pages: 285-285
 source: sources/Millettiaspeciesfabaceae_vol49_liteparse
+countries: [Cameroon, Democratic Republic of the Congo, Gabon]
+in_region: true
+subdivisions:
+  Gabon: [Ogooué-Maritime]
+habit: "liana"
+habitat: [coastal]
+altitude_m: "2"
 tags: [species, generated]
 ---
 # *Millettia melanocarpa* (Hauman) Adomou, comb. et stat. nov .

@@ -7,6 +7,11 @@ family: Typhaceae
 vol: 40
 pages: 72-73
 source: sources/Typhaceae_vol40_liteparse
+countries: [Gabon]
+in_region: true
+subdivisions:
+  Gabon: [Ogooué-Maritime]
+altitude_m: "2250"
 tags: [species, generated]
 ---
 # *Typha domingensis* (Pers.) Steud. Planche 17
@@ -17,21 +22,15 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Plante de 1,5–5 m de hauteur. Feuille : gaîne atténuée au sommet, non auriculée, marge membraneuse, tachetée de pourpre à l’intérieur ; limbe linéaire, jusqu’à 2 m de longueur, 8–13 mm de largeur, plan-convexe, glauque à vert dessus mais tachetée de pourpre à la base, vert en dessous. Inflorescence mâle séparée de la femelle par un entrenœud nu de 1 – 3( – 5,5) cm de longueur ; épi mâle 17–34(–40) x 0,9–1,5 cm ; épi femelle 18– 25(–40) x 1,4–2,0(–2,2) cm. Fleurs : les mâles à bractéoles fourchues ou laciniées au sommet , rouge brun, filets blancs, anthères 2,5–3,5 mm de longueur, connectif globuleux et foncé ; les femelles solitaires, à quelques bractéoles et nombreuses soies de 5–8 mm de longueur, stigmate linéaire, plus long que les soies ; fleurs stériles fréquentes. Fruit ± 1 mm de longueur.
+Plant 1.5–5 m tall. Leaf: sheath attenuated at apex, not auriculate, membranous margin, spotted with purple inside; blade linear, up to 2 m long, 8–13 mm wide, plane-convex, glaucous to green above but spotted with purple at base, green below. Male inflorescence separated from the female by a naked internode 1–3(–5.5) cm long; male spike 17–34(–40) × 0.9–1.5 cm; female spike 18–25(–40) × 1.4–2.0(–2.2) cm. Flowers: the male ones with bracteoles forked or laciniate at apex, red-brown, white filaments, anthers 2.5–3.5 mm long, connective globose and dark; the female ones solitary, with a few bracteoles and numerous bristles 5–8 mm long, stigma linear, longer than the bristles; sterile flowers frequent. Fruit ± 1 mm long.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-pantropicale ; au Gabon connue seulement de l’Ogooué-Maritime (PortGentil, Île de Mandji) et probablement présente aussi dans le Fernan-Vaz (voir sous Note taxonomique)
+pantropical; in Gabon known only from Ogooué-Maritime (Port-Gentil, Mandji Island) and probably also present in Fernan-Vaz (see under Taxonomic note)
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-marais, bords des lacs et des rivières, dans des eaux douces ou saumâtres atteignant une profondeur de 2 m, souvent dans des endroits perturbés et sur sols de texture fine où elle peut se développer en grandes masses nocives ; en Afrique jusqu’à 2250 m d’altitude. Usage : Les feuilles servent de liens pour des usages divers ; celles-ci pourraient être utilisées pour la production de papier et pour le calfeutrage des tonneaux, canoës, etc. Les soies de l’inflorescence femelle servent à garnir les coussins, et comme matière inflammable. Les rhizomes sont vénéneux. La moelle est considérée comme une délicatesse sucrée. Les plantes sont efficaces dans l’épuration des eaux usées
+marshes, lake and river margins, in fresh or brackish waters reaching a depth of 2 m, often in disturbed places and on fine-textured soils where it can develop in large harmful masses; in Africa up to 2250 m altitude. Uses: The leaves serve as ties for various purposes; these could be used for paper production and for caulking barrels, canoes, etc. The bristles of the female inflorescence are used to stuff cushions and as inflammable material. The rhizomes are poisonous. The pith is considered a sweet delicacy. The plants are effective in wastewater purification.
 
 ## Vernacular names
 

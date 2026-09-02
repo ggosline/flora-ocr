@@ -7,6 +7,13 @@ family: Cyperaceae
 vol: 44
 pages: 220-221
 source: sources/Cyperaceae_vol44_liteparse
+countries: [Gabon]
+in_region: true
+subdivisions:
+  Gabon: [Ogooué-Ivindo]
+habit: "herb"
+habitat: [rocky ground]
+altitude_m: "1500"
 tags: [species, generated]
 ---
 # *Scleria melanotricha* A.Rich. Planche 137, Figure 28a
@@ -17,23 +24,17 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-S. melanotricha A.Rich. var. grata (Nelmes) Lye, Nordic J. Bot. 3 : 243 (1983). Herbe annuelle , grêle ; tige 10–50 cm × 1 mm environ, poilue. Feuilles basales et caulinaires ; gaine et ligule pubescentes ; limbe 5–20 cm × 1–2 mm , poilu. Inflorescence en « épi », rarement courtement ramifiée dans la partie inférieure, longue de 3–20 cm, avec 5–15 glomérules subsessiles pendants et parfois réduits à un seul épillet. Épillet long de 3–5 mm ; glumes jaune paille à brun rougeâtre, habituellement densément garnies de poils blancs ou noirâtres, se terminant par une arête longue de 1,5–3 mm. Akène sur un pédoncule triangulaire, ovoïde à presque globuleux, 1–1,5 × 0,8–1 mm , gris à noirâtre, fortement tuberculé , mais apparaissant transversalement ridé à cause des tubercules pluricellulaires allongés transversalement ; hypogynium plus pâle que l’akène.
+S. melanotricha A.Rich. var. grata (Nelmes) Lye, Nordic J. Bot. 3 : 243 (1983). Annual herb, slender; stem 10–50 cm × 1 mm approximately, hairy. Basal and cauline leaves; sheath and ligule pubescent; blade 5–20 cm × 1–2 mm, hairy. Inflorescence spicate, rarely shortly branched in the lower part, 3–20 cm long, with 5–15 subsessile, pendulous glomérules and sometimes reduced to a single spikelet. Spikelet 3–5 mm long; glumes straw-yellow to reddish-brown, usually densely clothed with white or blackish hairs, terminating in an awn 1.5–3 mm long. Achene on a triangular pedicel, ovoid to almost globose, 1–1.5 × 0.8–1 mm, grey to blackish, strongly tuberculate, but appearing transversely ridged due to pluricellular tubercles elongated transversely; hypogynium paler than the achene.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-répandu en Afrique tropicale ; très rare au Gabon, trouvée seulement à Bélinga et à Boka-Boka, dans l’Ogooué-Ivindo
+widespread in tropical Africa; very rare in Gabon, found only at Bélinga and Boka-Boka, in Ogooué-Ivindo
 
 a b
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-lieux saisonnièrement humides sur sol superficiel, souvent en zones de suintement sur les dômes rocheux ; au Gabon, probablement à une altitude de 400–800 m, jusqu’à 1500 m en Afrique de l’Est. b : Haines & Lye (1983), Hoenselaar et al. (2010), Hooper & Napper (1972), ibliographie Lye (1997), Piérart (1953), Robinson (1966)
+seasonally humid places on shallow soil, often in seepage zones on rocky domes; in Gabon, probably at an altitude of 400–800 m, up to 1500 m in East Africa. b: Haines & Lye (1983), Hoenselaar et al. (2010), Hooper & Napper (1972), Bibliography Lye (1997), Piérart (1953), Robinson (1966)
 
 ## Notes
 

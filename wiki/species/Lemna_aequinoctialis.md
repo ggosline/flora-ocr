@@ -7,6 +7,11 @@ family: Lemnaceae
 vol: 41
 pages: 48-51
 source: sources/Lemnaceae_vol41_liteparse
+countries: [Gabon]
+in_region: true
+subdivisions:
+  Gabon: [Ogooué-Ivindo, Ogooué-Maritime]
+altitude_m: "500"
 tags: [species, generated]
 ---
 # *Lemna aequinoctialis* Welw. Planche 11

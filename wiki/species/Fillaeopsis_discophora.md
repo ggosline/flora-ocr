@@ -7,6 +7,8 @@ family: Leguminosae
 vol: 31
 pages: 41-44
 source: sources/Leguminosae_vol31_paddle
+countries: [Angola, Democratic Republic of the Congo, Nigeria]
+in_region: true
 tags: [species, generated]
 ---
 # *Fillaeopsis discophora* Harms
@@ -75,11 +77,11 @@ nieuk (commercial) ; abit, enoumnousse, nieuk (Fang) ; difyoru (Eshina)
 
 ![Fillaeopsis discophora](../sources/Leguminosae_vol31_paddle/figures/fig_019_p0040.png)
 
-*PL. 8. – Aubrevillea platycarpa Pellegr.: 1, fruit × 1; 2, graine × 3. (Aubreville 980 (Côte d'Ivoire)). – Fillaeopsis discophora Harms: 3, fruit × 4/5; 4, graine × 4/5. (1, Le Testu 5201; 4, Leontovitch 201 (Zaïre)).*
+*PL. 8. – Aubrevillea platycarpa Pellegr.: 1, fruit × 1; 2, seed × 3. (Aubreville 980 (Ivory Coast)). – Fillaeopsis discophora Harms: 3, fruit × 4/5; 4, seed × 4/5. (1, Le Testu 5201; 4, Leontovitch 201 (Zaire)).*
 
 ![Fillaeopsis discophora](../sources/Leguminosae_vol31_paddle/figures/fig_020_p0042.png)
 
-*PL. 9. – Fillaeopsis discophora Harms : 1, feuille × 1 ; 2, foliole, détail nervation face supérieure × 3 ; 3, idem face inférieure × 3 ; 4, inflorescence × 2/3 5, bractée × 10 ; 6, bouton floral × 12 ; 7, fleur × 10 ; 8, fleur, coupe longitudinal × 10 ; 9, pétale, face externe × 14 ; 10, anthère × 20 ; 11, pistil et disque × 12. (1-3, Le Testu 5201 et Morel 35 ; 4-8, 10, Le Testu 7896 ; 9, 11, Zenker 1577 (Cameroun)).*
+*PL. 9. – Fillaeopsis discophora Harms : 1, leaf × 1 ; 2, leaflet, detail venation upper surface × 3 ; 3, idem lower surface × 3 ; 4, inflorescence × 2/3 5, bract × 10 ; 6, floral bud × 12 ; 7, flower × 10 ; 8, flower, longitudinal section × 10 ; 9, petal, external surface × 14 ; 10, anther × 20 ; 11, pistil and disk × 12. (1-3, Le Testu 5201 and Morel 35 ; 4-8, 10, Le Testu 7896 ; 9, 11, Zenker 1577 (Cameroon)).*
 
 ## Notes
 

@@ -7,6 +7,9 @@ family: Linaceae
 vol: 21
 pages: 36-38
 source: sources/Linaceae_vol21_paddle
+countries: [Cameroon, Gabon]
+in_region: true
+habit: "liana"
 tags: [species, generated]
 ---
 # *Hugonia gabunensis* Engler

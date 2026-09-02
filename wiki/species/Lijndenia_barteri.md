@@ -7,6 +7,10 @@ family: Melastomataceae
 vol: 25
 pages: 143-144
 source: sources/Melastomataceae_vol25_paddle
+countries: [Democratic Republic of the Congo, Gabon, Mozambique, Senegal]
+in_region: true
+habit: "tree"
+habitat: [evergreen forest]
 tags: [species, generated]
 ---
 # *Lijndenia barteri* (Hooker f.) Bremer
@@ -47,7 +51,7 @@ Klaine 3263, Libreville (mars).
 
 ![Lijndenia barteri](../sources/Melastomataceae_vol25_paddle/figures/fig_051_p0145.png)
 
-*PL. 51. — Lijndenia barteri (Hook. f.) Bremer : 1 & 2, aspect général × 2/3; 3, fragment de cyme : bractées et bouton floral × 6; 4, fruit × 3; 5, coupe de la fleur × 12; 6, étamine × 12; 7 & 8, pétale, dos et face × 12 (de Néré 531).*
+*PL. 51. — Lijndenia barteri (Hook. f.) Bremer : 1 & 2, general aspect × 2/3; 3, fragment of cyme : bracts and floral bud × 6; 4, fruit × 3; 5, section of flower × 12; 6, stamen × 12; 7 & 8, petal, back and front × 12 (de Néré 531).*
 
 ## Notes
 

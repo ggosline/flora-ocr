@@ -7,6 +7,9 @@ family: Pandaceae
 vol: 22
 pages: 30-33
 source: sources/Pandaceae_vol22_paddle
+countries: [Cameroon, Gabon]
+in_region: true
+habit: "shrub"
 tags: [species, generated]
 ---
 # *Microdesmis camerunensis* J. Léonard
@@ -49,7 +52,7 @@ Walker s.n., Saint Martin (fl. ♂, juill).
 
 ![Microdesmis camerunensis](../sources/Pandaceae_vol22_paddle/figures/fig_007_p0031.png)
 
-*PL. 7. — Microdesmis camerunensis J. Léonard : 1, rameau feuillé × 2/3; 2, stipule × 10; 3, bouton floral × 4,8; 4, fleur ♂ × 4; 5, diagramme d'une fleur ♂; 6, calice × 10; 7, pétale face int. × 11; 8, 8', étamine × 28; 9, pistillode × 14; 10, fleur ♀ × 6,5; 11, pistil × 4; 12 fruit × 2,5; 13, coupe transv. du fruit × 2,8; 14, 15, endocarpe × 2,2 (1-2, 9-15, Zenker 1960; 3-8, Zenker 4840).*
+*PL. 7. — Microdesmis camerunensis J. Léonard : 1, leafy branch × 2/3; 2, stipule × 10; 3, flower bud × 4,8; 4, ♂ flower × 4; 5, diagram of a ♂ flower; 6, calyx × 10; 7, petal inner face × 11; 8, 8', stamen × 28; 9, pistillode × 14; 10, ♀ flower × 6,5; 11, pistil × 4; 12 fruit × 2,5; 13, transverse section of fruit × 2,8; 14, 15, endocarp × 2,2 (1-2, 9-15, Zenker 1960; 3-8, Zenker 4840).*
 
 ## Notes
 

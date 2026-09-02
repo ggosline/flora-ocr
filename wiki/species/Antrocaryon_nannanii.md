@@ -7,6 +7,13 @@ family: Anacardiaceae
 vol: 50
 pages: 11-14
 source: sources/Anacardiaceae_vol50_liteparse
+countries: [Democratic Republic of the Congo, Gabon]
+in_region: true
+subdivisions:
+  Gabon: [Ogooué-Ivindo, Ogooué-Lolo]
+habit: "tree"
+habitat: [secondary forest]
+altitude_m: "300"
 tags: [species, generated]
 ---
 # *Antrocaryon nannanii* De Wild. Planche 2

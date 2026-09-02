@@ -7,6 +7,9 @@ family: Putranjivaceae
 vol: 57
 pages: 149-150
 source: sources/Putranjivaceae_vol57_paddle
+countries: [Cameroon, Equatorial Guinea, Gabon]
+in_region: true
+habit: "tree"
 tags: [species, generated]
 ---
 # *Drypetes magnistipula* (Pax) Hutch.

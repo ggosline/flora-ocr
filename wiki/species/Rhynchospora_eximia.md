@@ -7,6 +7,12 @@ family: Cyperaceae
 vol: 44
 pages: 193-195
 source: sources/Cyperaceae_vol44_liteparse
+countries: [Central African Republic, Gabon, Malawi, Senegal]
+in_region: true
+subdivisions:
+  Gabon: [Ogooué-Ivindo, Ogooué-Maritime]
+habit: "herb"
+altitude_m: "0–200"
 tags: [species, generated]
 ---
 # *Rhynchospora eximia* (Nees) Boeckeler Planche 121, Figure 22a

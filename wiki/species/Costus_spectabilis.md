@@ -6,12 +6,9 @@ genus: Costus
 family: Zingiberaceae
 family_current: Costaceae
 synonyms: [Cadalvena spectabilis Fenzl, Kaempferia spectabilis (Fenzl) Benth. et Hook. f.]
-countries: [Senegal, Gabon]
 range_note: "humid and subhumid tropical Africa from Senegal to the east coast"
-in_region: true
-habit: acaulescent rhizomatous herb
-habitat: [savanna]
 treatments: [{vol: 9, pages: "67–69", source: sources/Zingiberaceae_vol9_paddle}]
+habit: "herb"
 tags: [species]
 ---
 # *Costus spectabilis* (Fenzl) K. Schum.

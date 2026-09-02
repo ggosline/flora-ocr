@@ -7,6 +7,8 @@ family: Rubiaceae
 vol: 12
 pages: 168-171
 source: sources/Rubiaceae_vol12_paddle
+countries: [Cameroon, Cote d'Ivoire, Gabon]
+in_region: true
 tags: [species, generated]
 ---
 # *Sabicea pilosa* Hiern (P.L. 34)

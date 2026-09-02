@@ -7,6 +7,7 @@ family: Acanthaceae
 vol: 13
 pages: 57-60
 source: sources/Acanthaceae_vol13_paddle
+habit: "liana"
 tags: [species, generated]
 ---
 # *Pseudocalyx aurantiacus* R. Benoist

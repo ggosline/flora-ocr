@@ -7,6 +7,9 @@ family: Apocynaceae
 vol: 59
 pages: 30-31
 source: sources/Apocynaceae_vol59_liteparse
+countries: [Gabon]
+in_region: true
+habit: "shrub"
 tags: [species, generated]
 ---
 # *Allamanda cathartica* L. Figure 1(B, C)

@@ -7,6 +7,12 @@ family: Lentibulariaceae
 vol: 54
 pages: 125-129
 source: sources/Lentibulariaceae_vol54_liteparse
+countries: [Angola, Burundi, Cameroon, Central African Republic, Cote d'Ivoire, Democratic Republic of the Congo, Gabon, Ghana, Guinea, Guinea-Bissau, Kenya, Liberia, Madagascar, Malawi, Mali, Mozambique, Nigeria, Republic of the Congo, Senegal, Sierra Leone, Sudan, Tanzania, Togo, Uganda, Zambia, Zimbabwe]
+in_region: true
+subdivisions:
+  Gabon: [Estuaire, Haut-Ogooué, Moyen-Ogooué, Ngounié, Nyanga, Ogooué-Ivindo, Ogooué-Maritime]
+habit: "herb"
+altitude_m: "5–540"
 tags: [species, generated]
 ---
 # *Utricularia subulata* L. Planche 45, Figure 17(A–D)
@@ -17,29 +23,23 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Terrestrial herb; rhizoids and capillary stolons few at the base of the flowering scape. Leaves linear, 1–2 × 0.05 cm, 1-nerved. Utricles very numerous, globose to ovoid, 0.2–0.5 mm in length, with stipe distinctly shorter; lateral orifice oblique, with upper lip furnished with 2 branched appendices. Inflorescence erect, reaching 25 cm in length,
 
-Herbe terrestre ; rhizoïdes et stolons capillaires peu nombreux à la base de la hampe florale. Feuilles linéaires, 1–2 × 0,05 cm, 1-nervées . Utricules très nombreux, globuleux à ovoïdes, 0,2–0,5 mm de longueur, à stipe nettement plus court ; orifice latéral oblique, à lèvre supé rieure munie de 2 appendices ramifiés. Inflorescence dressée, atteignant 25 cm de longueur,
+Base of the plant showing the leaves, stolons, utricles, base of the peduncle and the seed envelope which remained attached (× 8). – 6. Half of a utricular appendix (× 60). – 7. Bract (× 24). – 8. Bracteole (× 24). – 9, 10. Flowers, lateral view (× 10). – 11. Calyx (× 12). – 12. Upper lip of the corolla (× 12). – 13. Corolla of a cleistogamous flower (× 48). – 14. Stamen (× 24). – 15. Gynoecium (× 24). – 16. Dehiscent fruit and calyx, ventral view (× 12). – 17, 18: Seeds (× 100), lateral view. – 19: Seed, ventral view (× 140). – 20. Glochidium of the seed (× 500). (1-3, 6: Wrigley & Melville 641; 4: Melville & Hooker 396; 5: Hepper 1477; 7, 8, 19: Allen s.n.; 9, 12: Taylor 18104; 10: Raynal 16843; 11, 16: Grey-Wilson 4441; 13: Taylor 18013; 14, 15, 17: Taylor 18100; 18: Jonsson 800; 20: Lind 475). Drawing by P. Taylor, Royal Botanic Gardens, Kew (©), reproduced with permission from Taylor (1989).
 
-Base de la plante montrant les feuilles, stolons, utricules, la base du pédoncule et l’enveloppe de la graine qui est restée attachée (× 8). – 6. Moitié d’un appendice utriculaire (× 60). – 7. Bractée (× 24). – 8. Brac téole (× 24). – 9, 10. Fleurs, vue latérale (× 10). – 11. Calice (× 12). – 12. Lèvre supérieure de la corolle (× 12). – 13. Corolle d’une fleur cleistogame (× 48). – 14. Étamine (× 24). – 15. Gynécée (× 24). – 16. Fruit déhiscent et calice, vue ventrale (× 12). – 17, 18 : Graines (× 100), vue latérale. – 19 : Graine, vue ventrale (× 140). – 20. Glochidie de la graine (× 500). (1-3, 6 : Wrigley & Melville 641 ; 4 : Melville & Hooker 396 ; 5 : Hepper 1477 ; 7, 8, 19 : Allen s.n. ; 9, 12 : Taylor 18104 ; 10 : Raynal 16843 ; 11, 16 : Grey-Wilson 4441 ; 13 : Taylor 18013 ; 14, 15, 17 : Taylor 18100 ; 18 : Jonsson 800 ; 20 : Lind 475 ). Dessin par P. Taylor, Royal Botanic Gardens, Kew (©), reproduit avec permission à partir de Taylor (1989).
-
-Utricule, vue dorsale (× 60). – 7. Utricule, vue latérale (× 60). – 8, 9. Écailles in situ (× 24). – 10. Écaille (× 48). – 11. Bractée (× 8). – 12–14. Fleur, vue de derrière (× 8). – 15, 16. Fleur, vue de face (× 8). – 17. Fleur, vue latérale (× 8). – 18. Fleur cleistogame, vue latérale (× 8). – 19. Calice (× 16). – 20. Étamine (× 24). – 21. Fruit avec calice, vue latérale (× 16). – 22. Fruit, vue ventrale (× 12). – 23. Fruit d’une fleur cleistogame, vue ventrale (× 16) – 24. Graine (× 90). (1 : Adams 93 ; 2 : Miller 2254 ; 3 : Jordan 1066 ; 4, 6, 7 : Milne-Redhead & Taylor 9490a ; 5 : Kerr 14338 ; 8, 9 : Jacobs 5494 ; 10, 12 : Lavarack 3042 ; 11, 17 : Milne-Redhead & Taylor 7779a ; 13 : Taylor 13064 ; 14, 15 : Baldwin 13002 ; 16, 19, 20 : Taylor 13008 ; 18, 22 : Milne-Redhead & Taylor 7779b ; 21, 23 : Taylor 15157 ; 24 : Melville & Hooker 253 ). Dessin par P. Taylor, Royal Botanic Gardens, Kew (©), reproduit avec permission à partir de Taylor (1989).
+Utricle, dorsal view (× 60). – 7. Utricle, lateral view (× 60). – 8, 9. Scales in situ (× 24). – 10. Scale (× 48). – 11. Bract (× 8). – 12–14. Flower, view from behind (× 8). – 15, 16. Flower, front view (× 8). – 17. Flower, lateral view (× 8). – 18. Cleistogamous flower, lateral view (× 8). – 19. Calyx (× 16). – 20. Stamen (× 24). – 21. Fruit with calyx, lateral view (× 16). – 22. Fruit, ventral view (× 12). – 23. Fruit of a cleistogamous flower, ventral view (× 16) – 24. Seed (× 90). (1: Adams 93; 2: Miller 2254; 3: Jordan 1066; 4, 6, 7: Milne-Redhead & Taylor 9490a; 5: Kerr 14338; 8, 9: Jacobs 5494; 10, 12: Lavarack 3042; 11, 17: Milne-Redhead & Taylor 7779a; 13: Taylor 13064; 14, 15: Baldwin 13002; 16, 19, 20: Taylor 13008; 18, 22: Milne-Redhead & Taylor 7779b; 21, 23: Taylor 15157; 24: Melville & Hooker 253). Drawing by P. Taylor, Royal Botanic Gardens, Kew (©), reproduced with permission from Taylor (1989).
 
 B A C D
 
-1- à multiflore ; pédoncule capillaire, lisse dans le haut, finement papilleux dans le bas ; rachis flexueux ou en zigzag , muni des écailles (bractées stériles) ; entre-nœuds floraux un peu plus longs que les pédicelles ; bractées peltées, orbiculaires, 0,75–1 mm de longueur, enserrant la base des pédicelles . Fleur : bractéoles absentes ; pédicelle ascendant, capillaire, 2–10 mm ; calice à lobes subégaux, largement ovales, ±1 mm de longueur à l’anthèse, un peu accrescents, obtus à tronqués au sommet, obscurément 5-nervés ; corolle 6–10 mm de longueur, parfois réduite jusqu’à 2 mm dans les fleurs cléistogames, jaune , lèvre supérieure largement ovale, 2 à 3 fois aussi longue que le lobe supérieur du calice, arrondie au sommet, lèvre inférieure orbiculaire, profondément 3-lobée , palais saillant, à 2 bosses, éperon subulé, parallèle à la lèvre inférieure et presque de même longueur ou, dans les fleurs cléistogames, très réduit et sacciforme. Fruit globuleux, 1–1,5 mm de longueur, déhiscent par une petite ouverture ovale abaxial, à nombreuses graines. Graine ovoïde, 0,20–0,24 mm de longueur, striée longitudinalement.
+1- to multiflorous; peduncle capillary, smooth at the top, finely papillous at the base; rachis flexuous or zigzag, furnished with scales (sterile bracts); floral internodes somewhat longer than the pedicels; peltate bracts, orbicular, 0.75–1 mm in length, enclosing the base of the pedicels. Flower: bracteoles absent; pedicel ascending, capillary, 2–10 mm; calyx with subequal lobes, broadly ovate, ±1 mm in length at anthesis, somewhat accrescent, obtuse to truncate at the apex, obscurely 5-nerved; corolla 6–10 mm in length, sometimes reduced to 2 mm in cleistogamous flowers, yellow, upper lip broadly ovate, 2 to 3 times as long as the upper calyx lobe, rounded at the apex, lower lip orbicular, deeply 3-lobed, palate prominent, with 2 ridges, spur subulate, parallel to the lower lip and almost of the same length or, in cleistogamous flowers, very reduced and saccate. Fruit globose, 1–1.5 mm in length, dehiscent by a small abaxial ovate opening, with numerous seeds. Seed ovoid, 0.20–0.24 mm in length, longitudinally striate.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-subcosmopolite, en Afrique tropicale, Sénégal, Guinée-Bissau, Guinée, Mali, Sierra Leone, Libéria, Côte d’Ivoire, Ghana, Togo, Nigéria, Cameroun, République centrafricaine, Gabon, République du Congo, République démocratique du Congo, Burundi, Soudan, Éthiopie, Ouganda, Kenya, Tanzanie, Zambie, Mozambique, Malawi, Zimbabwe, Angola, Namibie, Botswana et en Afrique du Sud (Transvaal et Natal) et Madagascar ; aussi en Asie tropicale, en Australie, en Amérique (du Canada au Paraguay et à l’Uruguay) et en Europe (Portugal) ; au Gabon, observé dans l’Estuaire, le Haut-Ogooué, le MoyenOgooué, la Ngounié, la Nyanga, l’Ogooué-Ivindo et l’Ogooué-Maritime
+subcosmopolitan, in tropical Africa, Senegal, Guinea-Bissau, Guinea, Mali, Sierra Leone, Liberia, Côte d'Ivoire, Ghana, Togo, Nigeria, Cameroon, Central African Republic, Gabon, Republic of the Congo, Democratic Republic of the Congo, Burundi, Sudan, Ethiopia, Uganda, Kenya, Tanzania, Zambia, Mozambique, Malawi, Zimbabwe, Angola, Namibia, Botswana and in South Africa (Transvaal and Natal) and Madagascar; also in tropical Asia, Australia, America (from Canada to Paraguay and Uruguay) and Europe (Portugal); in Gabon, observed in Estuaire, Haut-Ogooué, Moyen-Ogooué, Ngounié, Nyanga, Ogooué-Ivindo and Ogooué-Maritime
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-savanes marécageuses sur sable du Kalahari, rochers humides, inselbergs ; au Gabon à 5–540 m d’altitude, en Afrique de l’Est entre 0 et 2600 m. B : Taylor (1964, 1972, 1989), Vande weghe et al. (2016). i B liographie
+marshy savannas on Kalahari sand, wet rocks, inselbergs; in Gabon at 5–540 m in altitude, in East Africa between 0 and 2600 m. B: Taylor (1964, 1972, 1989), Vande weghe et al. (2016). Bibliography
 
 ## Notes
 

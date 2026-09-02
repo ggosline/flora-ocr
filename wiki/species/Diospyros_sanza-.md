@@ -7,6 +7,9 @@ family: Ebenaceae
 vol: 18
 pages: 145-149
 source: sources/Ebenaceae_vol18_paddle
+countries: [Gabon, Nigeria, Sierra Leone]
+in_region: true
+habit: "tree"
 tags: [species, generated]
 ---
 # *Diospyros sanza-* Minika A. Chevalier
@@ -69,7 +72,7 @@ De Saint Aubin SRF 1975, 20 km E Libreville (fl. ♂, oct.). Le Testu 1828, Tchi
 
 ![Diospyros sanza-](../sources/Ebenaceae_vol18_paddle/figures/fig_023_p0147.png)
 
-*PL. 23. — Diospyros Sanza-Minika A. Chev.: 1, feuille × 2/3; 2, fragment de feuille (face inf.) × 3; 3, inflor. ♂ × 1; 4, fl. ♂ × 2; 5 et 6, fl. ♂ sectionnée et ét. × 4; 7, inflor. ♀ × 1; 8, j. fl. ♀ × 2; 9 et 10, gyn. et fragment de corolle avec staminodes × 4; 11, fruit × 2/3; 12, gr. × 1. (1-2 : Le Testu 1828; 3-6 : Breteler 2603; 7 : d'après Vigne 2000, Ghana; 8-10 : d'après Chevalier 19436, Côte d'Ivoire; 11 : d'après Martineau 321, Côte d'Ivoire; 12 : d'après Servo. for. 2068, Côte d'Ivoire.)*
+*PL. 23. — Diospyros Sanza-Minika A. Chev.: 1, leaf × 2/3; 2, leaf fragment (lower surface) × 3; 3, ♂ inflorescence × 1; 4, ♂ fl. × 2; 5 et 6, ♂ fl. sectioned and st. × 4; 7, ♀ inflorescence × 1; 8, young ♀ fl. × 2; 9 et 10, gynecium and corolla fragment with staminodes × 4; 11, fruit × 2/3; 12, seed × 1. (1-2 : Le Testu 1828; 3-6 : Breteler 2603; 7 : after Vigne 2000, Ghana; 8-10 : after Chevalier 19436, Ivory Coast; 11 : after Martineau 321, Ivory Coast; 12 : after Servo. for. 2068, Ivory Coast.)*
 
 ## Notes
 

@@ -7,6 +7,10 @@ family: Scytopetalaceae
 vol: 24
 pages: 128-132
 source: sources/Chrysobalanaceae_vol24_paddle
+countries: [Cameroon, Democratic Republic of the Congo, Madagascar, Senegal, Sudan, Tanzania]
+in_region: true
+habit: "tree"
+habitat: [coastal]
 tags: [species, generated]
 ---
 # *Parinari curatellifolia* Planchon ex Bentham
@@ -70,7 +74,7 @@ naude, naudehi (fulfuldé); nahudé (peuhl)
 
 ![Parinari curatellifolia](../sources/Chrysobalanaceae_vol24_paddle/figures/fig_038_p0131.png)
 
-*PL. 38. — Parinari curatellifolia Planch. ex Benth. : 1, rameau feuillé × 2/3; 2, feuille dessous × 4; 3, pétiole × 2; 4, autre type de feuille × 2/3; 5, autre type de feuille × 2/3; 6, inflorescence × 2/3; 7, fleur × 4; 8, infrutescence × 2/3; 9, surface fruit × 8. (1-3, Letouzey 6667; 4, Letouzey 6055; 5-6, SRFCam 4486; 7, Jacques-Félix 3370; 8-9, Letouzey 11693).*
+*PL. 38. — Parinari curatellifolia Planch. ex Benth. : 1, leafy branch × 2/3; 2, leaf underside × 4; 3, petiole × 2; 4, another type of leaf × 2/3; 5, another type of leaf × 2/3; 6, inflorescence × 2/3; 7, flower × 4; 8, fruiting inflorescence × 2/3; 9, fruit surface × 8. (1-3, Letouzey 6667; 4, Letouzey 6055; 5-6, SRFCam 4486; 7, Jacques-Félix 3370; 8-9, Letouzey 11693).*
 
 ## Notes
 

@@ -7,6 +7,10 @@ family: Celastraceae
 vol: 29
 pages: 172-177
 source: sources/Celastraceae_vol29_paddle
+countries: [Cameroon, Central African Republic, Chad, Cote d'Ivoire, Democratic Republic of the Congo, Gabon, Gambia, Ghana, Guinea, Liberia, Malawi, Mozambique, Nigeria, Sao Tome and Principe, Senegal, Sierra Leone, Tanzania]
+in_region: true
+habit: "liana"
+habitat: [riverine]
 tags: [species, generated]
 ---
 # *Salacia pyriformis* (Sabine) Steudel

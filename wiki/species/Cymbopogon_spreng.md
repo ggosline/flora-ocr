@@ -30,7 +30,7 @@ Fl. Gab.: 176, Pl. 28; FACB 1: 148, Pl. 12; FWTA: 482; FTEA: 761; Gram. Cam.: 44
 
 ![Cymbopogon spreng](../sources/Gramineae_vol5bis_paddle/figures/fig_004_p0024.png)
 
-*Pl. 4. - Cynodon dactylon (L.) Pers. : 1, aspect de la plante ; 2, 3, partie du racème ; 4, épillet. - Dactyloctenium aegyptium (L.) Willd. : 5, aspect de la plante ; 6, épillet. - Autorisation de reproduction : cf. Remerciements p. 68.*
+*Pl. 4. - Cynodon dactylon (L.) Pers. : 1, plant habit ; 2, 3, part of the raceme ; 4, spikelet. - Dactyloctenium aegyptium (L.) Willd. : 5, plant habit ; 6, spikelet. - Reproduction authorization : cf. Acknowledgements p. 68.*
 
 ## Notes
 

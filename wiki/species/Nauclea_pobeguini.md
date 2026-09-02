@@ -7,6 +7,7 @@ family: Rubiaceae
 vol: 12
 pages: 44-46
 source: sources/Rubiaceae_vol12_paddle
+habit: "tree"
 tags: [species, generated]
 ---
 # *Nauclea pobeguini* (Hua in Pob. ex Pell.) Merr. ex Petit.
@@ -47,7 +48,7 @@ Sargos : 70 (bois n° 870) « Tumbi » Kouilou inférieur (cité comme Sarcoceph
 
 ![Nauclea pobeguini](../sources/Rubiaceae_vol12_paddle/figures/fig_008_p0045.png)
 
-*PL. 4. — 1, Nauclea Diderrichii (De Wild.) Merr., rameau plagiotrope de jeune pied avec ses stipules (N. Hallé 2035). — 2 et 3, Nauclea Pobeguini (Hua) Petit, inflorescence et port (arbres de la région d'Ayem, au bord d'un lac en avril, saison des hautes eaux).*
+*PL. 4. — 1, Nauclea Diderrichii (De Wild.) Merr., plagiotropic branch of young tree with its stipules (N. Hallé 2035). — 2 and 3, Nauclea Pobeguini (Hua) Petit, inflorescence and habit (trees from the Ayem region, on the edge of a lake in April, high water season).*
 
 ## Notes
 

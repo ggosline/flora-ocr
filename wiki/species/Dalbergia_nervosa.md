@@ -7,6 +7,10 @@ family: Leguminosae
 vol: 49
 pages: 143-145
 source: sources/Millettiaspeciesfabaceae_vol49_liteparse
+countries: [Cameroon, Gabon, Republic of the Congo]
+in_region: true
+habitat: [riverine]
+altitude_m: "500"
 tags: [species, generated]
 ---
 # *Dalbergia nervosa* O.Lachenaud, sp. nov. Planche 46

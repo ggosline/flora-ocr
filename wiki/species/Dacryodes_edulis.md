@@ -5,12 +5,8 @@ authority: (G. Don) Lam
 genus: Dacryodes
 family: Burseraceae
 synonyms: []
-countries: [Nigeria, Cameroon, Gabon, Democratic Republic of the Congo, Uganda, Angola]
-countries_incomplete: true
-in_region: true
-habit: tree
-habitat: [villages, forest]
 treatments: [{vol: 3, pages: "83–86", source: sources/Burseraceae_vol3_paddle}]
+habit: "tree"
 tags: [species]
 ---
 

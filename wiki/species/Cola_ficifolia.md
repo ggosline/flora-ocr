@@ -7,6 +7,7 @@ family: Sterculiaceae
 vol: 02
 pages: 81-84
 source: sources/Sterculiaceae_vol02_paddle
+habit: "tree"
 tags: [species, generated]
 ---
 # *Cola ficifolia* Masters.

@@ -7,6 +7,9 @@ family: Icacinaceae
 vol: 20
 pages: 67-68
 source: sources/Icacinaceae_vol20_paddle
+countries: [Democratic Republic of the Congo, Nigeria]
+in_region: true
+habit: "liana"
 tags: [species, generated]
 ---
 # *Lavigeria macrocarpa* (Oliver) Pierre
@@ -53,7 +56,7 @@ Aubry Lecomte, s. n., Owendo. Chevalier 26818, île Coniquet (fl., sept.). Jolly
 
 ![Lavigeria macrocarpa](../sources/Icacinaceae_vol20_paddle/figures/fig_015_p0069.png)
 
-*PL. 15. — Lavigeria macrocarpa Pierre : 1, feuilles × ½; 2, détail du limbe × 0,45; 3, inflorescence × ½; 4, bractée × 9; 5, fleur × 4,5; 6, coupe de la fleur × 4,5; 7, 7', sépale × 3,8; 8, pétale × 7; 9, étamine × 8; 10, ovaire × 8; 11, fruit × 0,6. (I-2, Le Testu 9451; 3-10 Tisserant 2354; 11, Jolly 153).*
+*PL. 15. — Lavigeria macrocarpa Pierre : 1, leaves × ½; 2, detail of the limb × 0,45; 3, inflorescence × ½; 4, bract × 9; 5, flower × 4,5; 6, section of the flower × 4,5; 7, 7', sepal × 3,8; 8, petal × 7; 9, stamen × 8; 10, ovary × 8; 11, fruit × 0,6. (I-2, Le Testu 9451; 3-10 Tisserant 2354; 11, Jolly 153).*
 
 ## Notes
 

@@ -7,6 +7,12 @@ family: Leguminosae
 vol: 49
 pages: 389-389
 source: sources/Millettiaspeciesfabaceae_vol49_liteparse
+countries: [Gabon]
+in_region: true
+subdivisions:
+  Gabon: [Ogooué-Maritime]
+habit: "tree"
+altitude_m: "30"
 tags: [species, generated]
 ---
 # *Xanthocercis rabiensis* Maesen Planche 131

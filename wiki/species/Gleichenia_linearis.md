@@ -7,6 +7,8 @@ family: Gleicheniaceae
 vol: 08
 pages: 55-56
 source: sources/Gleicheniaceae_vol08_paddle
+countries: [Guinea]
+in_region: false
 tags: [species, generated]
 ---
 # *Gleichenia linearis* (Burm.) Clarke

@@ -7,6 +7,8 @@ family: Combretaceae
 vol: 35
 pages: 45-47
 source: sources/Combretaceae_vol35_paddle
+countries: [Angola, Gabon, Kenya, Tanzania]
+in_region: true
 tags: [species, generated]
 ---
 # *Combretum falcatum* (Welwitsch ex Hiern) Jongkind

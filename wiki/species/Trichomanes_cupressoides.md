@@ -16,15 +16,13 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 — Desv., Mém. Soc. Linn. Paris 6 : 330 (1827). — Tard., Mém. IFAN 28 : 48, pl. 5, f. 7-8. — Alston, FWTA : 31 (1959).
 
 — Trichomanes mandiocanum Raddi, Fl. Bras. 1 : 66, t. 79, f. 2 (1825).
 
 — Trichomanes rigidum Hk. (pp., non Swartz), Syn. Fil.: 86 (1866).
 
-Rhizome dressé, à frondes en touffes Pétiole long de 10-15 cm, non très étroitement ailé au sommet, portant des poils noirs, épars. Fronde deltoïde-ovale, tripennée-quadripinnatifide, longue de 15-20 cm. Pennes courtement pétiolées, faisant un angle droit avec le rachis, les supérieures décurrentes en une aile plus ou moins étroite, espacées d'environ 1 cm, peu obliques, longues d'environ 3 cm. Pinnules longues de 0,5 cm, oblongues-obtuses, régulièrement disséquées jusqu'au rachis de 2° ordre ailé; segments ultimes linéaires, arrondis, souvent enroulés à dessiccation. Texture coriace. Coloration brunâtre sur le sec. Sores généralement 1 par pinnule, situé dans le premier lobe basal antérieur, non immergé, à indusie cylindrique; réceptacle longuement exsert.
+Rhizome erect, with fronds in tufts. Petiole 10-15 cm long, narrowly winged at the apex, bearing scattered black hairs. Frond deltoid-ovate, tripinnate-quadripinnatifid, 15-20 cm long. Pinnae shortly petiolate, at right angles to the rachis, the upper ones decurrent into a more or less narrow wing, spaced approximately 1 cm apart, slightly oblique, approximately 3 cm long. Pinnules 0.5 cm long, oblong-obtuse, regularly dissected to the 2nd order winged rachis; ultimate segments linear, rounded, often rolled at desiccation. Texture coriaceous. Coloration brownish when dry. Sori generally 1 per pinnule, situated in the first anterior basal lobe, not immersed, with a cylindrical indusium; receptacle prominently exsert.
 
 ## Type
 

@@ -7,6 +7,9 @@ family: Connaraceae
 vol: 33
 pages: 75-77
 source: sources/Connaraceae_vol33_paddle
+countries: [Democratic Republic of the Congo, Liberia, Nigeria]
+in_region: true
+habit: "liana"
 tags: [species, generated]
 ---
 # *Connarus congolanus* Schellenberg
@@ -53,7 +56,7 @@ Klaine 36, env. de Libreville (fl., fr., Juin), B, K, P ; 445, id. (fr., -), P ;
 
 ![Connarus congolanus](../sources/Connaraceae_vol33_paddle/figures/fig_028_p0076.png)
 
-*PL. 21. – Connarus congolanus Schellenberg : 1, rameau avec feuille × 2/3 ; 2, foliole, face inférieure × 2/3 ; 3, fleur, vue partielle × 6 ; 4, pistil × 8 ; 5, follicule × 1 ; 6, graine, coupe longitudinal × 1. (1-4. Leeuwenberg 5091 ; 5-6. Stoop v.d. Kasteele 335). – Repris de AUWP 89 (6).*
+*PL. 21. – Connarus congolanus Schellenberg : 1, branch with leaf × 2/3 ; 2, leaflet, lower surface × 2/3 ; 3, flower, partial view × 6 ; 4, pistil × 8 ; 5, follicle × 1 ; 6, seed, longitudinal section × 1. (1-4. Leeuwenberg 5091 ; 5-6. Stoop v.d. Kasteele 335). – Taken from AUWP 89 (6).*
 
 ## Notes
 

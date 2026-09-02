@@ -7,6 +7,12 @@ family: Leguminosae
 vol: 49
 pages: 265-268
 source: sources/Millettiaspeciesfabaceae_vol49_liteparse
+countries: [Gabon]
+in_region: true
+subdivisions:
+  Gabon: [Haut-Ogooué]
+habitat: [secondary forest]
+altitude_m: "450"
 tags: [species, generated]
 ---
 # *Millettia viridiflora* O.Lachenaud, sp. nov. Planche 89

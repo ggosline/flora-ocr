@@ -7,6 +7,13 @@ family: Commelinaceae
 vol: 55
 pages: 37-38
 source: sources/Commelinaceae_vol55_liteparse
+countries: [Benin, Burkina Faso, Burundi, Cameroon, Central African Republic, Cote d'Ivoire, Democratic Republic of the Congo, Equatorial Guinea, Gabon, Gambia, Ghana, Guinea, Guinea-Bissau, Liberia, Nigeria, Republic of the Congo, Rwanda, Senegal, Sierra Leone, Togo, Uganda]
+in_region: true
+subdivisions:
+  Gabon: [Moyen-Ogooué, Ogooué-Ivindo, Woleu-Ntem]
+habit: "herb"
+habitat: [primary forest, riverine]
+altitude_m: "600"
 tags: [species, generated]
 ---
 # *Floscopa africana* (P.Beauv.) C.B.Clarke subsp. africana Figure 2(I, J)

@@ -7,6 +7,9 @@ family: Leguminosae
 vol: 15
 pages: 21-22
 source: sources/Leguminosae_vol15_paddle
+countries: [Cameroon, Equatorial Guinea, Gabon]
+in_region: true
+habit: "liana"
 tags: [species, generated]
 ---
 # *Griffonia physocarpa* Baillon
@@ -59,7 +62,7 @@ Le Testu : 2225, Fougamou (fl. sept.); 7324, Lastoursville (fl. mai); 7530, Last
 
 ![Griffonia physocarpa](../sources/Leguminosae_vol15_paddle/figures/fig_001_p0023.png)
 
-*PL. I. — Griffonia Tessmannii (De Wild.) Comp.: 1, feuille et inflorescence × 2 /3; 2, fleur × 2; 3, pétales et calice × 2; 4, étanines et ovaire × 2. — Griffonia physocarpa Baillon: 5, feuille × 2 /3; 6, fleur × 2; 7, coupe de la fleur × 2; 8, infrutescence × 2 /3; 9, valve du fruit, face interne.*
+*PL. I. — Griffonia Tessmannii (De Wild.) Comp.: 1, leaf and inflorescence × 2 /3; 2, flower × 2; 3, petals and calyx × 2; 4, stamens and ovary × 2. — Griffonia physocarpa Baillon: 5, leaf × 2 /3; 6, flower × 2; 7, section of the flower × 2; 8, infructescence × 2 /3; 9, fruit valve, internal surface.*
 
 ## Notes
 

@@ -21,8 +21,6 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 ed. 2,3 : 84 pl. 281 (1959). — Keay, F.W.T. A., 2 ed., 1 : 240 (1954). = Calyptranthes guineense Willd., Spec. Pl. : 974 (1800).
 
 ## Notes

@@ -7,6 +7,11 @@ family: Leguminosae
 vol: 49
 pages: 381-382
 source: sources/Millettiaspeciesfabaceae_vol49_liteparse
+countries: [Gabon]
+in_region: true
+habit: "herb"
+habitat: [savanna]
+altitude_m: "2000"
 tags: [species, generated]
 ---
 # *Vigna radiata* (L.) Wilczek var. radiata

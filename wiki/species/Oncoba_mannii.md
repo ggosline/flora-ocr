@@ -7,6 +7,9 @@ family: Flacourtiaceae
 vol: 34
 pages: 59-63
 source: sources/Flacourtiaceae_vol34_paddle
+countries: [Angola, Cameroon, Democratic Republic of the Congo, Equatorial Guinea, Gabon, Nigeria]
+in_region: true
+habit: "herb"
 tags: [species, generated]
 ---
 # *Oncoba mannii* Oliv.
@@ -99,7 +102,7 @@ Wieringa 562, Wolen-Ntem, env. 100 km Makokou, 1°29'N-12°48'E, 17/2/1990, bout
 
 ![Oncoba mannii](../sources/Flacourtiaceae_vol34_paddle/figures/fig_018_p0062.png)
 
-*PL. 18. – Oncoba mannii Oliv.: 1, rameau avec de jeunes boutons floraux; 2, fleur; 3, sépale; 4, pétale; 5, étamine; 6, pistil; 7, coupe transversale de l'ovaire; 8, étamine; 9, fruit. (1 et 8. Le Testu 8818; 2-5. Hallé & Normand 856 bis; 6 et 7. Klaine 385; 9. Breteler & Van Raalte 5655).*
+*PL. 18. – Oncoba mannii Oliv.: 1, branch with young flower buds; 2, flower; 3, sepal; 4, petal; 5, stamen; 6, pistil; 7, transverse section of ovary; 8, stamen; 9, fruit. (1 et 8. Le Testu 8818; 2-5. Hallé & Normand 856 bis; 6 et 7. Klaine 385; 9. Breteler & Van Raalte 5655).*
 
 ## Notes
 

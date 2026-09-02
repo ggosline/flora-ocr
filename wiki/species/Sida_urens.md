@@ -7,6 +7,12 @@ family: Malvaceae
 vol: 45
 pages: 89-89
 source: sources/Malvaceae_vol45_liteparse
+countries: [Angola, Gabon, Mozambique, Senegal]
+in_region: true
+subdivisions:
+  Gabon: [Ogooué-Ivindo]
+habit: "shrub"
+altitude_m: "30–1800"
 tags: [species, generated]
 ---
 # *Sida urens* L. Planche 27
@@ -17,21 +23,15 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Herbe vivace ou arbustive, 0,4 ‒ 3 m de hauteur, fortement ramifiée, couverte de poils de 1,5 ‒ 2 mm, aromatique, glutineuse. Stipules filiformes, environ 3 mm, velues, peu persistantes. Feuille : pétiole jusqu’à 5 cm, légèrement poilu ; limbe ovale-cordiforme, jusqu’à 8 × 5 cm, longuement atténué vers le sommet, les deux faces à poils longs et étoilés. Fleurs souvent en glomérule 10 ‒ 20-flores , terminaux sur branches latérales ; pédicelle 1 ‒ 3( ‒ 10) mm ; calice campanulé, 6 mm de longueur, 8 mm en fruit, à lobes étroitement triangulaires, acuminés, membraneux, poilus ; pétales 5 ‒ 8 mm de longueur, jauneorange ou roses ; tube staminal 1,5 mm de longueur, filets libres sur environ la moitié, anthères nombreuses ; ovaire 5-lobé, glabre ; style 3,5 mm, divisé en branches de 2,5 mm. Fruit : méricarpes trigones, s’ouvrant par les parois latérales minces, 2 × 1,5 mm, non apiculés . Graines trigones, brunes.
+Perennial herb or shrub, 0.4–3 m tall, strongly branched, covered with hairs 1.5–2 mm, aromatic, glutinous. Stipules filiform, approximately 3 mm, hairy, scarcely persistent. Leaf: petiole up to 5 cm, slightly hairy; blade ovate-cordate, up to 8 × 5 cm, long-attenuate at the apex, both surfaces with long and stellate hairs. Flowers often in glomerate clusters 10–20-flowered, terminal on lateral branches; pedicel 1–3(–10) mm; calyx campanulate, 6 mm long, 8 mm in fruit, with narrowly triangular, acuminate, membranous, hairy lobes; petals 5–8 mm long, yellow-orange or pink; staminal tube 1.5 mm long, filaments free for approximately the half, anthers numerous; ovary 5-lobed, glabrous; style 3.5 mm, divided into branches 2.5 mm long. Fruit: mericarps trigonous, opening by thin lateral walls, 2 × 1.5 mm, not apiculate. Seeds trigonous, brown.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-espèce pantropicale, en Afrique, du Sénégal à l’Éthiopie, au sud vers l’Angola et le Mozambique ; au Gabon peu commune, connue que de l’Ogooué-Ivindo (Aschouka)
+pantropical species, in Africa, from Senegal to Ethiopia, southward to Angola and Mozambique; in Gabon uncommon, known only from Ogooué-Ivindo (Aschouka)
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-savanes, galeries forestières, jachères, champs, près de villages ; ailleurs à 30 ‒ 1800 m d’altitude. Fleurs et fruits d’août à décembre. Usage : La tige de la plante est utilisée pour ses fibres très fines et résistantes
+savannas, forest galleries, fallows, fields, near villages; elsewhere at 30–1800 m altitude. Flowers and fruits from August to December. Use: The stem of the plant is used for its very fine and resistant fibers
 
 ## Vernacular names
 

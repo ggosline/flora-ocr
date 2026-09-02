@@ -4,14 +4,13 @@ name: Curculigo minor
 authority: E. Guinea
 genus: Curculigo
 family: Hypoxidaceae
-countries: [Equatorial Guinea, Gabon]
-in_region: true
 treatments:
   - vol: 28
     pages: "52–53"
     source: sources/Hypoxidaceae_vol28_paddle
+countries: [Equatorial Guinea, Gabon]
+in_region: true
 tags: [species]
-countries_incomplete: true
 ---
 
 # *Curculigo minor* E. Guinea

@@ -7,6 +7,7 @@ family: Rubiaceae
 vol: 12
 pages: 76-80
 source: sources/Rubiaceae_vol12_paddle
+habit: "tree"
 tags: [species, generated]
 ---
 # *Pausinystalia ituriense* De Wild. (P.L. 10)

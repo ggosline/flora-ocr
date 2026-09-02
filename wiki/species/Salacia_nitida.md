@@ -7,6 +7,8 @@ family: Celastraceae
 vol: 29
 pages: 145-148
 source: sources/Celastraceae_vol29_paddle
+countries: [Cameroon, Cote d'Ivoire, Democratic Republic of the Congo, Gabon, Ghana, Liberia, Nigeria, Sierra Leone]
+in_region: true
 tags: [species, generated]
 ---
 # *Salacia nitida* (Bentham) N.E. Brown

@@ -7,6 +7,8 @@ family: Moraceae
 vol: 26
 pages: 201-204
 source: sources/Moraceae_vol26_paddle
+countries: [Angola, Cameroon, Cote d'Ivoire, Democratic Republic of the Congo, Equatorial Guinea]
+in_region: true
 tags: [species, generated]
 ---
 # *Ficus artocarpoides* Warburg
@@ -59,7 +61,7 @@ Hijman & Weerdenbug 358, 443, 10 km SW Makokou (fig., déc. ou stér.). Michalou
 
 ![Ficus artocarpoides](../sources/Moraceae_vol26_paddle/figures/fig_059_p0202.png)
 
-*PL. 58. - Ficus artocarpoides Warb.: 1, rameau avec feuilles × 1; 2, figues × 1 (Jacques-Félix 3114, Cameroun).*
+*PL. 58. - Ficus artocarpoides Warb.: 1, branch with leaves × 1; 2, figs × 1 (Jacques-Félix 3114, Cameroon).*
 
 ## Notes
 

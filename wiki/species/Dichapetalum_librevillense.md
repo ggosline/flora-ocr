@@ -7,6 +7,8 @@ family: Dichapetalaceae
 vol: 32
 pages: 118-121
 source: sources/Dichapetalaceae_vol32_paddle
+countries: [Cameroon, Central African Republic, Democratic Republic of the Congo, Gabon]
+in_region: true
 tags: [species, generated]
 ---
 # *Dichapetalum librevillense* Pellegrin
@@ -67,7 +69,7 @@ Louis & al. 664, 50 km au S.E. d’Achouka (fl., j.fr., Nov.); 742, 30-40 km au 
 
 ![Dichapetalum librevillense](../sources/Dichapetalaceae_vol32_paddle/figures/fig_033_p0120.png)
 
-*PL. 32. – Dichapetalum librevillense Pellegrin : 1, feuille et stipules × 0,8 ; 2, jeune rameau fleuri × 0,8 ; 3, fleur × 10 ; 4, fleur, détail × 10 ; 5, fruit, indumentum × 20 (1, Breteler 5806 ; 2-4 ; Breteler 6840 ; 5, Klaine 99). – Repris de MLW 79 (16) : 60 (1979).*
+*PL. 32. – Dichapetalum librevillense Pellegrin : 1, leaf and stipules × 0,8 ; 2, young flowering branch × 0,8 ; 3, flower × 10 ; 4, flower, detail × 10 ; 5, fruit, indumentum × 20 (1, Breteler 5806 ; 2-4 ; Breteler 6840 ; 5, Klaine 99). – Reprinted from MLW 79 (16) : 60 (1979).*
 
 ## Notes
 

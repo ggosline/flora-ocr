@@ -6,17 +6,13 @@ genus: Lecomtedoxa
 family: Sapotaceae
 synonyms:
   - Walkeria heitziana A. Chev.
-habit: tree
-habitat: [primary humid forest]
-altitude_m: ""
-countries: [Gabon]
-subdivisions:
-  Gabon: [Estuaire]
-in_region: true
 treatments:
   - vol: 1
     pages: "69-70"
     source: sources/Sapotaceae_vol01_paddle
+countries: [Gabon]
+in_region: true
+habit: "tree"
 tags: [species]
 ---
 

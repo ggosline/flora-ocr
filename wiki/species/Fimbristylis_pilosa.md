@@ -7,6 +7,12 @@ family: Cyperaceae
 vol: 44
 pages: 148-148
 source: sources/Cyperaceae_vol44_liteparse
+countries: [Democratic Republic of the Congo, Gabon]
+in_region: true
+subdivisions:
+  Gabon: [Estuaire, Ogooué-Maritime]
+habit: "herb"
+altitude_m: "1140"
 tags: [species, generated]
 ---
 # *Fimbristylis pilosa* (Poir.) Vahl Planche 96

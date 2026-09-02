@@ -7,6 +7,9 @@ family: Lauraceae
 vol: 10
 pages: 40-41
 source: sources/Lauraceae_vol10_paddle
+countries: [Cameroon, Gabon]
+in_region: true
+habit: "tree"
 tags: [species, generated]
 ---
 # *Beilschmiedia corbisieri* (Rob.) Rob. et Wilcz..

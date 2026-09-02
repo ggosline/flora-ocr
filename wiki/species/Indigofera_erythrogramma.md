@@ -7,6 +7,12 @@ family: Leguminosae
 vol: 49
 pages: 215-215
 source: sources/Millettiaspeciesfabaceae_vol49_liteparse
+countries: [Angola, Democratic Republic of the Congo, Gabon, Republic of the Congo]
+in_region: true
+subdivisions:
+  Gabon: [Haut-Ogooué]
+habit: "herb"
+altitude_m: "500–600"
 tags: [species, generated]
 ---
 # *Indigofera erythrogramma* Welw. ex Baker subsp. erythrogramma

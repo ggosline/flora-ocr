@@ -7,6 +7,13 @@ family: Leguminosae
 vol: 49
 pages: 75-75
 source: sources/Millettiaspeciesfabaceae_vol49_liteparse
+countries: [Angola, Cameroon, Democratic Republic of the Congo, Equatorial Guinea, Gabon, Nigeria]
+in_region: true
+subdivisions:
+  Gabon: [Estuaire, Moyen-Ogooué, Nyanga, Ogooué-Ivindo, Ogooué-Lolo, Ogooué-Maritime]
+habit: "liana"
+habitat: [swamp forest]
+altitude_m: "2–500"
 tags: [species, generated]
 ---
 # *Camoensia brevicalyx* Benth. Planche 22

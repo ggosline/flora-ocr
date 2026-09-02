@@ -7,6 +7,13 @@ family: Ochnaceae
 vol: 48
 pages: 45-47
 source: sources/Ochnaceae_vol48_liteparse
+countries: [Cameroon, Central African Republic, Democratic Republic of the Congo, Gabon, Republic of the Congo]
+in_region: true
+subdivisions:
+  Gabon: [Haut-Ogooué, Ngounié, Ogooué-Ivindo, Ogooué-Maritime, Woleu-Ntem]
+habit: "tree"
+habitat: [secondary forest, primary forest]
+altitude_m: "100–550"
 tags: [species, generated]
 ---
 # *Campylospermum engama* (De Wild.) Farron Planche 10

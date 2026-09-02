@@ -7,6 +7,9 @@ family: Sapindaceae
 vol: 23
 pages: 180-182
 source: sources/Sapindaceae_vol23_paddle
+countries: [Central African Republic, Cote d'Ivoire, Gabon, Nigeria]
+in_region: true
+habit: "tree"
 tags: [species, generated]
 ---
 # *Eriocelum macrocarpum* Gilg ex Radlkofer

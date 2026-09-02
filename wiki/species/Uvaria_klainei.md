@@ -7,6 +7,9 @@ family: Annonaceae
 vol: 16
 pages: 0-0
 source: sources/Annonaceae_vol16_mineru
+countries: [Gabon]
+in_region: true
+habit: "liana"
 tags: [species, generated]
 ---
 # *Uvaria klainei* Pierre ex Engler et Diels
@@ -17,15 +20,13 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Engler, Monogr. Afr. Pflanzenf. 6: 13 (1901). — Pellegrin, Bull. Soc. Bot. Fr., Mem. 31: 61 (1949).
 
-Engler,Monogr.Afr. Pflanzenf.6 :13 (19o1).- Pellegrin,Bull. Soc.Bot. Fr.,Mem.31 : 61 (1949).
+Sarmentose shrub 3–4 m tall, with drooping branches, or liana. Branchlets tomentose-stellate, rusty. Leaves with thick petiole, 8–12 mm long, tomentose-stellate, rusty; blade subcoriaceous, elliptic-oblong, 15–35 cm long, 7–16 cm wide, abruptly acuminate-acute at the apex, cordate at the base; upper face glabrous, lower face densely tomentose-stellate, rusty. Lateral nerves 13–27 pairs, 11–15 mm apart, impressed above, prominent below. Reticulum lax, clearly visible.
 
-Arbuste sarmenteux de 3-4 m de hauteur,ä rameaux retombants,ou liane.Ramilles tomenteuses-étoilées,rousses.Feuilles â pétiole épais,long de 8-12 mm,tomenteux-stellé,roux;limbe subcoriace, elliptique-oblong,long de 15-35 cm, large de 7-16 cm, brusquement acuminé-aigu au sommet,corde á la base; face supérieure glabre, face inférieure densément tomenteuse-stellée, rousse. Nervures latérales 13-27 paires, distantes de I1-15 mm, imprimées au-dessus, saillantes en dessous. Réticulum lache, bien visible.
+Flowers yellow, large, solitary, extra-axillary, on thick pedicel, 3 mm in diameter, 10–12 mm long, tomentose-stellate, rusty. Young bud pyramidal, totally enveloped by the sepals, with very prominent ridges. Sepals broadly deltoid, 10–13 mm long, 15–17 mm wide, connate to mid-height, densely tomentose-rusty on the exterior, grey on the interior. Petals subequal, concave, broadly ovate, rounded at the apex, 2–2.5 cm long, 1.5–2 cm wide, grey-tomentose on both surfaces, the inner ones unguiculate at the base. Stamens very numerous, 10-seriate, linear-oblong, 3–3.5 mm long, subsessile, with narrow linear thecae, extrorse, connectives thick, truncate above the anthers, puberulent. Carpels 15–16, approximately 5 mm long, tomentose-stellate with short hairs, ovaries ovoid-oblong, styles obconic, stigmas involute. Ovules 20, biseriate. Receptacle discoid, thick.
 
-Fleurs jaunes, grandes, solitaires, extra-axillaires,a pédicelle épais,de 3 mm de diamétre,long de Io-I2 mm, tomenteux-stelé,roux. Jeune bouton pyramidal, totalement enveloppé par les sépales, a aretes tres saillantes. Sépales largement deltoides, longs de 1o-13 mm,larges de 15-17 mm,soudés jusqu'a mi-hauteur, densément tomenteux-roux ä l'extérieur,gris á 'intérieur.Pétales subégaux, concaves, largement oves, arrondis au sommet, longs de 2-2,5 cm,larges de 1,5-2 cm,tomenteux gris sur les deux faces, les internes onguiculés a la base. Etamines tres nombreuses, I0-sériées,linéaires-oblongues,longues de 3-3,5 mm,subsessiles, a theques linéaires étroites,extrorses,connectifs épais, tronques au-dessus des antheres,pubérulents. Carpelles 15-16,longs de 5 mm environ,tomenteux-stelles â poils courts,ovaires ovoidesoblongs, styles obconiques, stigmates involutés. Ovules 20, biséries.Réceptacle discoidal épais.
-
-Fruits á pédicelle tres épais,de I cm de diamétre, long de 3-4 cm;réceptacle fructifére épais,de 2-2,5 cm de diametre; méricarpes 4-16, ovoides-subglobuleux,ä suture latérale tres visible,longs de 3-5 cm,larges de 2,5-4 cm,glabres; stipes latéraux, épais,longs de Io-2o mm,larges de 4-8 mm; péricarpe rugueuxverruculeux,épais de 3-4 mm. Graines I2-2o,bisériées,oblongues, comprimées,longues de 1,3-1,9 cm, larges de 6-9 mm,épaisses de 4 mm,ä testa brun, ruguleux-striolé.
+Fruits with very thick pedicel, 1 cm in diameter, 3–4 cm long; fruiting receptacle thick, 2–2.5 cm in diameter; mericarps 4–16, ovoid-subglobose, with very prominent lateral suture, 3–5 cm long, 2.5–4 cm wide, glabrous; lateral stipites, thick, 10–20 mm long, 4–8 mm wide; endocarp rugulose-verruculate, 3–4 mm thick. Seeds 12–20, biseriate, oblong, compressed, 1.3–1.9 cm long, 6–9 mm wide, 4 mm thick, with brown testa, rugulose-striolate.
 
 ## Type
 
@@ -33,9 +34,7 @@ Klaine 3o1,Libreville,Gabon (lectotype P!)
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Espéce connue seulement des environs de Libreville,au Gabon.
+Species known only from the environs of Libreville, Gabon.
 
 ## Specimens examined
 

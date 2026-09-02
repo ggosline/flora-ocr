@@ -7,6 +7,13 @@ family: Phyllanthaceae
 vol: 43
 pages: 30-30
 source: sources/Phyllanthaceae_vol43_liteparse
+countries: [Equatorial Guinea, Gabon]
+in_region: true
+subdivisions:
+  Gabon: [Ogooué-Ivindo, Ogooué-Lolo]
+habit: "tree"
+habitat: [secondary forest]
+altitude_m: "150–300"
 tags: [species, generated]
 ---
 # *Cleistanthus itsoghensis* Pellegr. Planche 8

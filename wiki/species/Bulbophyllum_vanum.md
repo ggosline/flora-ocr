@@ -7,6 +7,8 @@ family: Orchidaceae
 vol: 36
 pages: 205-209
 source: sources/Orchidaceae_vol36_paddle
+countries: [Gabon]
+in_region: true
 tags: [species, generated]
 ---
 # *Bulbophyllum vanum* J.J. Verm.

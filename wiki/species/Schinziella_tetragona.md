@@ -7,6 +7,13 @@ family: Gentianaceae
 vol: 54
 pages: 83-83
 source: sources/Gentianaceae_vol54_liteparse
+countries: [Angola, Burundi, Cameroon, Central African Republic, Democratic Republic of the Congo, Equatorial Guinea, Gabon, Malawi, Mozambique, Republic of the Congo, Tanzania, Zambia]
+in_region: true
+subdivisions:
+  Gabon: [Haut-Ogooué]
+habit: "herb"
+habitat: [savanna]
+altitude_m: "450"
 tags: [species, generated]
 ---
 # *Schinziella tetragona* (Schinz) Gilg Planche 28, Figure 7(D)

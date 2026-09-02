@@ -7,6 +7,7 @@ family: Sterculiaceae
 vol: 02
 pages: 137-143
 source: sources/Sterculiaceae_vol02_paddle
+habit: "tree"
 tags: [species, generated]
 ---
 # *Nesogordonia papaverifera* (A. Chev.) Capur.

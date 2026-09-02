@@ -6,6 +6,10 @@ family: Rubiaceae
 vol: 12
 pages: 251-252
 source: sources/Rubiaceae_vol12_paddle
+countries: [Cameroon, Central African Republic, Gabon]
+in_region: true
+habit: "shrub"
+habitat: [rocky ground]
 tags: [species, generated]
 ---
 # *Pauridiantha dewevrei*

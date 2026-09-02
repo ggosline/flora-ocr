@@ -7,6 +7,10 @@ family: Leguminosae
 vol: 49
 pages: 31-33
 source: sources/Millettiaspeciesfabaceae_vol49_liteparse
+countries: [Cameroon, Central African Republic, Democratic Republic of the Congo, Equatorial Guinea, Gabon, Liberia, Nigeria, Sierra Leone]
+in_region: true
+habit: "shrub"
+altitude_m: "0–500"
 tags: [species, generated]
 ---
 # *Aganope gabonica* (Baill.) Polhill Planche 6

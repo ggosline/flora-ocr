@@ -7,6 +7,9 @@ family: Orchidaceae
 vol: 37
 pages: 105-107
 source: sources/Orchidaceae_vol37_paddle
+countries: [Cameroon, Central African Republic]
+in_region: true
+habitat: [savanna]
 tags: [species, generated]
 ---
 # *Eulophia thollonii* Szlach. & Olsz.
@@ -47,7 +50,7 @@ CLÉ DES GENRES
 
 ![Eulophia thollonii](../sources/Orchidaceae_vol37_paddle/figures/fig_042_p0104.png)
 
-*PL. 148. – Eulophia thollonii Szlach. & Olsz.: A, labelle et éperon, vue latérale ; B, labelle et éperon étalés ; C, sépale dorsal ; D, pétale ; E, sépale latéral (A-E, Thollon s.n., P).*
+*PL. 148. – Eulophia thollonii Szlach. & Olsz.: A, labellum and spur, lateral view ; B, labellum and spur spread out ; C, dorsal sepal ; D, petal ; E, lateral sepal (A-E, Thollon s.n., P).*
 
 ## Notes
 

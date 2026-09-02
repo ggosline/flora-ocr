@@ -7,6 +7,7 @@ family: Apocynaceae
 vol: 59
 pages: 73-73
 source: sources/Apocynaceae_vol59_liteparse
+habit: "liana"
 tags: [species, generated]
 ---
 # *Cyclocotyla congolensis* Stapf Planche 28

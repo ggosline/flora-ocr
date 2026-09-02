@@ -7,6 +7,13 @@ family: Leguminosae
 vol: 49
 pages: 274-276
 source: sources/Millettiaspeciesfabaceae_vol49_liteparse
+countries: [Cameroon, Democratic Republic of the Congo, Equatorial Guinea, Gabon, Republic of the Congo]
+in_region: true
+subdivisions:
+  Gabon: [Haut-Ogooué, Ogooué-Ivindo, Woleu-Ntem]
+habit: "tree"
+habitat: [savanna, secondary forest]
+altitude_m: "950"
 tags: [species, generated]
 ---
 # *Millettia laurentii* De Wild. Planche 91

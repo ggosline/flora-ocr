@@ -7,6 +7,9 @@ family: Loganiaceae
 vol: 19
 pages: 64-66
 source: sources/Loganiaceae_vol19_paddle
+countries: [Cameroon, Central African Republic, Gabon, Nigeria, Uganda]
+in_region: true
+habit: "liana"
 tags: [species, generated]
 ---
 # *Strychnos boonei* De Wildeman
@@ -17,19 +20,15 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 — FTEA, Loganiaceæ : 30. — FWTA ed. 2, 2 : 43. — LEEUWENBERG, 1. c. : 70, fig. 8, carte 6.
 
-Grande liane atteignant une hauteur de 5-20 m ou plus et une longueur de 30-100 m ou plus; tige de 3-10 cm de diamètre ou plus; écorce lisse, brun pâle, mince, souvent indistinctement lenticellée; bois jaune pâle; rameaux non lenticellés, gris-brun pâle; petits rameaux à pubescence éparse et apprimée avec poils sériés surtout en bas de la ligne stipulaire, cylindriques, non sillonnés; vrilles solitaires, aux aiselles de petites bractées.
+Large liana reaching a height of 5–20 m or more and a length of 30–100 m or more; stem 3–10 cm in diameter or more; bark smooth, pale brown, thin, often indistinctly lenticellate; wood pale yellow; branches non-lenticellate, pale greyish-brown; branchlets with sparse, appressed pubescence with hairs seriated especially below the stipular line, cylindrical, not sulcate; tendrils solitary, at the axils of small bracts.
 
-Feuilles avec pétiole à pubescence éparse, de 2-7 mm de longueur; limbe papyracé à subcoriace, également sur le vif, ové, elliptique ou étroitement elliptique, de 3-10 × 1-4,5 cm, acuminé au sommet, cuné ou arrondi
+Leaves with petiole having sparse pubescence, 2–7 mm long; lamina papyraceous to subcoriaceous, equally coloured when fresh, ovate, elliptic or narrowly elliptic, 3–10 × 1–4.5 cm, acuminate at the apex, cuneate or rounded at the base and sometimes subcordate on the leaves situated on the main axis, glabrous above (often with pubescence on the midvein in young leaves), below with sparse pubescence on the main veins, especially at the base; one pair of secondary veins curved along the margin; tertiary venation dense, reticulate.
 
-à la base et parfois subcordé pour les feuilles situées sur l'axe principal, glabre en dessus (souvent avec pubescence sur la nervure médiane chez les jeunes feuilles), en dessous à pubescence éparse sur les nervures principales, surtout à la base; une paire de nervures secondaires courbées le long de la marge; nervation tertiaire dense, réticulée.
+Inflorescences axillary and terminal, solitary, lax, pauciflorous; peduncle, branches and pedicels with appressed pubescence, with hairs often seriated, or subglabrous. Flowers 5-merous, fragrant. Sepals green, united at the base, broadly ovate, or ovate, or nearly triangular, (0.8–) 1–1.5 × 1–1.5 mm, obtuse, acute or less often rounded, finely ciliate, finely puberulent to glabrous outside, glabrous inside. Corolla, in the mature bud, 3–5 times longer than the calyx and (4.2–) 4.5–5 mm long, white or cream (yellow or orange in the bud), indistinctly puberulent to glabrous outside, densely pilose inside except at the glabrous base of the tube (lobes completely pilose inside); tube short, 1.2–2.2 mm long; lobes oblong, 1.4–2 (–2.5) times longer than the tube, 2.7–3.2 × 0.8–1.2 mm, acute, curved back (spreading in young flowers). Stamens well exserted, inserted at the throat of the corolla, with white, glabrous filament, 1.7–2.5 times longer than the anther; anther yellow, becoming black, oblong, glabrous. Pistil pilose, 4.2–4.5 mm long; ovary globose or ovoid, 0.8–1.2 × 0.8–1.2 mm, pilose except at the base generally glabrous, two-celled; style pilose (apex often glabrous), rather slender, 3–4.2 mm long; stigma capitate; 5–9 ovules per cell.
 
-Inflorescences axillaires et terminales, solitaires, lâches, pauciflores; pédoncule, rameaux et pédicelles à pubescence apprimée, à poils souvent sériés, ou subglabres. Fleurs 5-mères, odorantes. Sépales verts, soudés à la base, largement ovés, ou ovés, ou presque triangulaires, de (0,8-) 1-1,5 × 1-1,5 mm, obtus, aigus ou moins souvent arrondis, finement ciliés, finement pubérulents à glabres à l'extérieur, glabres à l'intérieur. Corolle, dans le bouton mûr, 3-5 fois plus longue que le calice et de (4,2-) 4,5-5 mm de longueur, blanche ou crème (dans le bouton jaune ou orangée), à l'extérieur indistinctement pubérente à glabre, à l'intérieur densément pileuse excepté à la base glabre du tube (lobes complètement poilus à l'intérieur); tube court, de 1,2-2,2 mm de longueur; lobes oblongs, 1,4-2 (-2,5) fois plus longes que le tube, de 2,7-3,2 × 0,8-1,2 mm, aigus, recourbés (étalés chez les jeunes fleurs). Étamines bien exsertes, insérées à la gorge de la corolle, à filet blanc, glabre, 1,7-2,5 fois plus long que l'anthère; anthère jaune, devenant noire, oblongue, glabre. Pistil pileux, de 4,2-4,5 mm de longueur; ovaire globuleux ou ovoïde, de 0,8-1,2 × 0,8-1,2 mm, pileux excepté à la base généralement glabre, à deux loges; style pileux (sommet souvent glabre), assez mince, de 3-4,2 mm de longueur; stigmate capité; 5-9 ovules par loge.
-
-Fruits pourpre foncé (selon Charter FHI 38704, Nigeria, FHI, K), petits, tendres, ellipsoïdes ou subglobuleux (?), de 2,5 cm de diamètre, à une graine. Graine ellipsoïde, peu aplatie d'un côté, de  $ 14 \times 7-11 \times 4-9 $ mm; testa non vu, caduc, collant à la pulpe. Pl. 19, 1-6, p. 128.
+Fruits dark purple (according to Charter FHI 38704, Nigeria, FHI, K), small, tender, ellipsoid or subglobose (?), 2.5 cm in diameter, with one seed. Seed ellipsoid, slightly flattened on one side, $ 14 \times 7–11 \times 4–9 $ mm; testa not seen, caducous, adhering to the pulp. Pl. 19, 1–6, p. 128.
 
 ## Type
 
@@ -37,9 +36,7 @@ Boone 83, Nala, Province Orientale, Congo-Kinshasa (lectotype : BR)
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Nigeria, Cameroun, République centrafricaine, Gabon, Congo, Uganda. Forêts, souvent sur les rives de rivières. Altitude 0-1300 m.
+Nigeria, Cameroon, Central African Republic, Gabon, Congo, Uganda. Forests, often on riverbanks. Altitude 0–1300 m.
 
 ## Specimens examined
 
@@ -67,7 +64,7 @@ Hallé N. et Villiers 5234, E Nkan, Monts de Cristal (stér.).
 
 ![Strychnos boonei](../sources/Loganiaceae_vol19_paddle/figures/fig_019_p0130.png)
 
-*PL. 19. — Strychnos boonei De Wild. : 1, rameau × ½; 2, portion du rameau avec vrille × ½; 3, fleur × 5; 4, portion de la corolle avec étamine × 5; 5, pistil × 10; 6, fruit × ½ (1-5 : Breteler 2954; 6 : d'après Gérard 5256, Congo-Kinshasa, BR). — Strychnos gossweileri Exell : 7, fleur × 5; 8, portion de la corolle avec étamines × 5; 9, pistil × 10 (7-9 : d'après Gossweiler 9180, Angola, MO). Aspect, feuilles et graines comme pour S. barteri.*
+*PL. 19. — Strychnos boonei De Wild. : 1, branch × ½; 2, portion of branch with tendril × ½; 3, flower × 5; 4, portion of corolla with stamen × 5; 5, pistil × 10; 6, fruit × ½ (1-5 : Breteler 2954; 6 : after Gérard 5256, Congo-Kinshasa, BR). — Strychnos gossweileri Exell : 7, flower × 5; 8, portion of corolla with stamens × 5; 9, pistil × 10 (7-9 : after Gossweiler 9180, Angola, MO). Aspect, leaves and seeds as for S. barteri.*
 
 ## Notes
 

@@ -7,6 +7,11 @@ family: Arecaceae
 vol: 53
 pages: 22-22
 source: sources/Arecaceae_vol53_liteparse
+countries: [Angola, Burundi, Cameroon, Central African Republic, Democratic Republic of the Congo, Gabon, Republic of the Congo, Tanzania, Uganda]
+in_region: true
+subdivisions:
+  Gabon: [Haut-Ogooué, Ngounié, Ogooué-Ivindo, Woleu-Ntem]
+habit: "liana"
 tags: [species, generated]
 ---
 # *Eremospatha haullevilleana* De Wild. Planche 6

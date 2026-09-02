@@ -7,6 +7,7 @@ family: Apocynaceae
 vol: 59
 pages: 102-105
 source: sources/Apocynaceae_vol59_liteparse
+habit: "tree"
 tags: [species, generated]
 ---
 # *Hunteria umbellata* (K.Schum.) Hallier f. Planche 43 ; Figure 6(F)

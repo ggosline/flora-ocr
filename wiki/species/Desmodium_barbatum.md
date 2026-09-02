@@ -7,6 +7,11 @@ family: Leguminosae
 vol: 49
 pages: 168-169
 source: sources/Millettiaspeciesfabaceae_vol49_liteparse
+countries: [Gabon, Guinea, Madagascar, Zimbabwe]
+in_region: true
+subdivisions:
+  Gabon: [Haut-Ogooué, Moyen-Ogooué, Ogooué-Ivindo]
+altitude_m: "300–630"
 tags: [species, generated]
 ---
 # *Desmodium barbatum* (L.) Benth. var. dimorphum (Baker) Schubert

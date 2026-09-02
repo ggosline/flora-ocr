@@ -7,6 +7,13 @@ family: Leguminosae
 vol: 49
 pages: 149-150
 source: sources/Millettiaspeciesfabaceae_vol49_liteparse
+countries: [Benin, Cameroon, Central African Republic, Cote d'Ivoire, Democratic Republic of the Congo, Equatorial Guinea, Gabon, Guinea, Guinea-Bissau, Liberia, Nigeria, Republic of the Congo, Senegal, Sierra Leone]
+in_region: true
+subdivisions:
+  Gabon: [Haut-Ogooué, Nyanga, Ogooué-Ivindo, Ogooué-Maritime, Woleu-Ntem]
+habit: "liana"
+habitat: [rocky ground]
+altitude_m: "780"
 tags: [species, generated]
 ---
 # *Dalbergia rufa* G.Don

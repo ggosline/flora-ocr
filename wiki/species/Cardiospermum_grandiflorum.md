@@ -7,6 +7,9 @@ family: Sapindaceae
 vol: 23
 pages: 19-20
 source: sources/Sapindaceae_vol23_paddle
+countries: [Angola, Central African Republic, Cote d'Ivoire, Democratic Republic of the Congo, Gabon, Ghana, Guinea, Liberia, Nigeria, Sierra Leone]
+in_region: true
+habit: "shrub"
 tags: [species, generated]
 ---
 # *Cardiospermum grandiflorum* Swartz

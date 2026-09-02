@@ -7,6 +7,9 @@ family: Scytopetalaceae
 vol: 24
 pages: 164-167
 source: sources/Scytopetalaceae_vol24_paddle
+countries: [Cameroon]
+in_region: true
+habit: "shrub"
 tags: [species, generated]
 ---
 # *Pierrina zenkeri* Engler
@@ -63,7 +66,7 @@ Zenker FvK 110, Bipindi (fr.) (LD, WAG); 1119 (voir ci-dessus syntypes), 3737, N
 
 ![Pierrina zenkeri](../sources/Scytopetalaceae_vol24_paddle/figures/fig_045_p0165.png)
 
-*PL. 45. — Pierrina zenkeri Engl. : 1, rameau avec jeune fruit × 2/3; 2, extrémité rameau × 4/3; 3, rameau avec fleurs × 2/3; 4, coupe long. bouton fl. × 8/3; 5, coupe transv. ovaire × 5; 6, rameau avec fruits × 2/3; 7, masse de graines × 8/3; 8, graine × 4/3; 9, graine dénudée × 4/3; 10, coupe transv. gr. × 2. (1-2, Letouzey 14803; 3-5, Bos 5422; 6-10, Fleury 33361).*
+*PL. 45. — Pierrina zenkeri Engl. : 1, branch with young fruit × 2/3; 2, branch tip × 4/3; 3, branch with flowers × 2/3; 4, long. section fl. bud × 8/3; 5, transv. section ovary × 5; 6, branch with fruits × 2/3; 7, mass of seeds × 8/3; 8, seed × 4/3; 9, naked seed × 4/3; 10, transv. section seed × 2. (1-2, Letouzey 14803; 3-5, Bos 5422; 6-10, Fleury 33361).*
 
 ## Notes
 

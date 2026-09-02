@@ -7,6 +7,7 @@ family: Vitaceae
 vol: 14
 pages: 102-103
 source: sources/Vitaceae_vol14_paddle
+habit: "herb"
 tags: [species, generated]
 ---
 # *Cissus gossweileri* Exell et Mendonça

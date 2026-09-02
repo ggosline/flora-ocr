@@ -7,6 +7,9 @@ family: Myrtaceae
 vol: 11
 pages: 25-25
 source: sources/Myrtaceae_vol11_paddle
+countries: [Gabon]
+in_region: true
+habit: "shrub"
 tags: [species, generated]
 ---
 # *Eugenia tholloni* Amsh.

@@ -5,15 +5,14 @@ authority: (Pierre) Engl.
 genus: Odyendyea
 family: Simaroubaceae
 synonyms: [Quassia gabonensis Pierre, Quassia Klaineana Pierre]
-countries: [Cameroon, Gabon]
-in_region: true
-habit: tree
-habitat: [primary forest]
 treatments:
   - vol: 3
     year: 1962
     pages: "39–41"
     source: sources/Simaroubaceae_vol3_paddle
+countries: [Cameroon, Gabon]
+in_region: true
+habit: "tree"
 tags: [species]
 ---
 

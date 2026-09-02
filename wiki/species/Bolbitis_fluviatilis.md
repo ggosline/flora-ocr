@@ -7,6 +7,8 @@ family: Lomariopsidaceae
 vol: 08
 pages: 192-193
 source: sources/Lomariopsidaceae_vol08_paddle
+countries: [Equatorial Guinea, Ghana, Liberia]
+in_region: true
 tags: [species, generated]
 ---
 # *Bolbitis fluviatilis* (Hk.) Ching (P.L. XXXIII)

@@ -7,6 +7,9 @@ family: Dichapetalaceae
 vol: 32
 pages: 212-213
 source: sources/Dichapetalaceae_vol32_paddle
+countries: [Gabon]
+in_region: true
+habit: "tree"
 tags: [species, generated]
 ---
 # *Tapura letestui* Pellegrin
@@ -17,21 +20,19 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Fl. Mayombé 1 in Mém. Soc. Linn. Norm. 26 (2): 59 (1924); HALLÉ & HEINE, Adansonia, sér. 2, 7 (1): 44, 49 (1967); BRETELER, AUWP 86 (3): 64–67 (1986). TYPE: Gabon, Inganga, Le Testu 1742 (holo-, P; iso-, BM, K, WAG).
 
-Fl. Mayombé 1 in Mém. Soc. Linn. Norm. 26 (2) : 59 (1924) ; HALLÉ & HEINE, Adansonia, sér. 2, 7 (1) : 44, 49 (1967) ; BRE-TELER, AUWP 86 (3) : 64-67 (1986). TYPE : Gabon, Inganga, Le Testu 1742 (holo-, P ; iso-, BM, K, WAG).
+Tree with trunk reaching up to 40 cm in diameter. Older branches glabrous or glabrescent. Young branches with short brown subappressed pubescence.
 
-Arbre dont le tronc peut atteindre 40 cm de diamètre. Rameaux âgés glabres ou glabrescents. Jeunes rameaux avec une courte pubescence brune subapprimée.
+Stipules early caducous, ovate-triangular, 2–4 mm long, pubescent like the young branches.
 
-Stipules tôt caduques, ovées-triangulaires, longues de 2-4 mm, pubescentes comme les jeunes rameaux.
+Leaves. Petiole sub- to hemicylindric, furrowed above and (1) 3–5 (7) mm long (but not furrowed and 6–9 mm long when fused to the peduncle), pubescent like the young branches. Blade coriaceous, obovate-elliptic, 2–3 times longer than wide, (6) 7–10 (12) × (2) 3–5 cm; base cuneate; acumen short ≤ 1 cm, rounded at the apex; upper surface glabrous; lower surface with sparse brown, subappressed pubescence on the primary vein and loose, caducous arachnoid whitish indumentum on the blade; primary vein not or scarcely impressed above, somewhat prominent below; secondary veins 6–7 pairs, rather fine and indistinct above, slightly prominent below; margin somewhat revolute; glands generally rare, only below, especially in the basal region.
 
-Feuilles. Pétiole sub- à hémicylindrique, sillonné dessus et long de (1) 3-5 (7) mm (mais non sillonné et long de 6-9 mm, quand il est souqué au pédoncule), pubescent comme les jeunes rameaux. Limbe coriace, obové-elliptique, 2-3 fois plus long que large, (6) 7-10 (12) × (2) 3-5 cm; base cunée; acumen court ≤ 1 cm, arrondi à l'extrémité; face supérieure glabre; face inférieure avec une pubescence brune, éparse, subapprimée sur la nervure I et un indumentum arachnoïde blanchâtre lâche et caduc sur le limbe; nervure I, non ou peu imprimée dessus, un peu proéminence dessous ; nervures II principales, 6-7 paires, assez fines et indistinctes dessus, légèrement proéminentes dessous ; marge un peu révolutée ; glandes en général rares, seulement dessous, surtout dans la région basale.
+Inflorescences subumbelliform to glomeruliform at flowering, without distinct branching, ≤ 10-flowered; short brown subappressed pubescence. Peduncle as long as the petiole and fused to it. Bracts and bracteoles subovate-triangular, concave, ≤ 1 × 1 mm, interior glabrous. Pedicel ≈ 1 mm, upper part ≈ 0.3 mm.
 
-Inflorescences subombelliformes à gloméruliformes à la floraison, sans ramifications distinctes, ≤ 10-flores ; pubescence brune courte et subapprimée. Pédoncule aussi long que le pétiole et soudé à celui-ci. Bractées et bractéoles subovées-triangulaires, concaves, ≤ 1 × 1 mm, intérieur glabre. Pédicelle ≈ 1 mm, partie supérieure ≈ 0,3 mm.
+Flowers 7–8 mm long. Sepals suberect, practically free, subequal, the 2 outer ones somewhat shorter, ovate-oblong, 2.5–3 × 1–1.5 mm; external pubescence appressed, internal surface glabrous. Petals subequal and 7–7.5 mm long, slender, thin, quite fragile, fused to the stamens in a tube 1–2 mm tall; apical portions free, bent, more deeply split near the fertile stamens, the 2 petals situated between the fertile stamens, split for ≤ 1 mm, bicucullate; the 3 narrower petals entire; long internal pubescence on both types of petals, except on the 2.5–3 mm of the apical region. Stamens, 33 fertile and 2 without anthers; fertile stamens ≤ 8 mm long, flattened filaments with long internal hairs, anthers rather flattened, wide and ovate, ≈ 0.5 × 0.7 mm, with divergent thecae; sterile filaments filiform, 5–6 mm long, often curved at the apex and with long hairs. Basal staminode, single (or some fused together), opposite the bicucullate petals, subquadrate to transversely oblong, ≤ 0.3 × 0.7 mm, glabrous. Pistil 3-merous, 5–7 mm long; ovary depressed subspheric, with ± soft and erect velvety hairs; style pubescent terminated by 3 glabrous lobes of ≤ 1.5 mm.
 
-Fleurs longues de 7-8 mm. Sépales subérigés, pratiquement libres, subégaux, les 2 plus externes un peu plus courts, ovés-oblongs, 2,5-3 × 1-1,5 mm ; pubescence externe apprimée, face interne glabre. Pétales, subégaux et longs dc 7-7,5 mm, élancés, minces, assez fragiles, soudés aux étamines en un tube haut de 1-2 mm ; parties apicales libres, coudées, plus profondément fendues près des étamines fertiles, les 2 pétales situés entre les étamines fertiles, fendus sur ≤ 1 mm, bicuculés ; les 3 pétales plus étroits, entiers ; longue pubescence interne sur ces 2 types de pétales, sauf sur les 2,5-3 mm de la région apicale. Étamines, 33 fertiles et 2 sans anthères ; étamines fertiles longues ≤ 8 mm, filets aplatis avec de longs poils internes, anthères assez aplaties, larges et ovées, ≈ 0,5 × 0,7 mm, à thèques divergentes ; filets stériles filiformes, longs de 5-6 mm, souvent courbés au sommet et avec de longs poils. Staminode basal, unique (ou quelques uns soudés), opposé aux pétales bicucullés, subcarré à trans-oblong, ≤ 0,3 × 0,7 mm, glabre. Pistil 3-mère, long de 5-7 mm ; ovaire déprimé subsphérique, avec poils veloutés à ± souples et dressés ; style pubescent terminé par 3 lobes glabres de ≤ 1,5 mm.
-
-Fruits inconnus. – Pl. 64, p. 211.
+Fruits unknown. – Pl. 64, p. 211.
 
 ## Type
 
@@ -39,15 +40,11 @@ Le Testu 1742, Inganga, Gabon
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 Gabon, Congo
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-forêts semi-décidues
+semi-deciduous forests
 
 ## Specimens examined
 
@@ -57,7 +54,7 @@ Le Testu 1742, type (fl., Mai).
 
 ![Tapura letestui](../sources/Dichapetalaceae_vol32_paddle/figures/fig_067_p0214.png)
 
-*PL. 64 – Tapura letestui Pellegrin : 1, rameau florifère × 0,5 ; 2, fleur × 5 ; 3, grand pétale, vue latérale × 5 ; 6, petit pétale, vue latérale × 5 ; 7, pistil × 10 ; 8, pistil (en partie) et staminodes basaux × 10 (1-8, Le Testu 1742). – Repris de AUWP 86 (3) : 65 (1986).*
+*PL. 64 – Tapura letestui Pellegrin : 1, flowering branch × 0.5 ; 2, flower × 5 ; 3, large petal, lateral view × 5 ; 6, small petal, lateral view × 5 ; 7, pistil × 10 ; 8, pistil (in part) and basal staminodes × 10 (1-8, Le Testu 1742). – Taken from AUWP 86 (3) : 65 (1986).*
 
 ## Notes
 

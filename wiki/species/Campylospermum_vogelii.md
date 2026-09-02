@@ -8,6 +8,13 @@ vol: 48
 pages: 35-37
 source: sources/Ochnaceae_vol48_liteparse
 also_in_vols: [48, 48, 48]
+countries: [Cameroon, Central African Republic, Cote d'Ivoire, Democratic Republic of the Congo, Equatorial Guinea, Gabon, Republic of the Congo]
+in_region: true
+subdivisions:
+  Gabon: [Estuaire, Haut-Ogooué, Ngounié, Ogooué-Ivindo, Ogooué-Lolo]
+habit: "tree"
+habitat: [secondary forest]
+altitude_m: "100–700"
 tags: [species, generated]
 ---
 # *Campylospermum vogelii* (Hook.f.) var. costatum (Tiegh.) Farron, Bull. Jard. Bot. État

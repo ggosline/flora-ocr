@@ -7,6 +7,8 @@ family: Orchidaceae
 vol: 37
 pages: 73-75
 source: sources/Orchidaceae_vol37_paddle
+countries: [Cameroon, Democratic Republic of the Congo, Equatorial Guinea, Gabon, Malawi, Tanzania, Uganda, Zambia, Zimbabwe]
+in_region: true
 tags: [species, generated]
 ---
 # *Polystachya stuhlmannii* Kraenzl.
@@ -49,7 +51,7 @@ Stem rush-like or pseudobulbs with a few internodes. Leaves 1–2-plicate. Label
 
 ![Polystachya stuhlmannii](../sources/Orchidaceae_vol37_paddle/figures/fig_027_p0074.png)
 
-*PL. 133. – Polystachya stuhlmannii Kraenzl.: A, fleur; B, C, labelle; D, sépale dorsal; E, pétale; F, sépale latéral; G, feuille (A-B, D-G, Schlechter 12740, P; C, Farron 4423a, P).*
+*PL. 133. – Polystachya stuhlmannii Kraenzl.: A, flower; B, C, labellum; D, dorsal sepal; E, petal; F, lateral sepal; G, leaf (A-B, D-G, Schlechter 12740, P; C, Farron 4423a, P).*
 
 ![Polystachya stuhlmannii](../sources/Orchidaceae_vol37_paddle/figures/fig_141_p0252.png)
 

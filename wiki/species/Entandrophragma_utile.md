@@ -7,6 +7,12 @@ family: Meliaceae
 vol: 47
 pages: 33-35
 source: sources/Meliaceae_vol47_liteparse
+countries: [Angola, Cameroon, Central African Republic, Cote d'Ivoire, Democratic Republic of the Congo, Equatorial Guinea, Gabon, Ghana, Guinea, Liberia, Nigeria, Republic of the Congo, Sierra Leone, Uganda]
+in_region: true
+subdivisions:
+  Gabon: [Estuaire, Ngounié, Nyanga, Ogooué-Ivindo, Ogooué-Maritime]
+habit: "tree"
+altitude_m: "740"
 tags: [species, generated]
 ---
 # *Entandrophragma utile* (Dawe & Sprague) Sprague

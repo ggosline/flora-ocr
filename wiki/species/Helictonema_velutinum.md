@@ -7,6 +7,9 @@ family: Celastraceae
 vol: 29
 pages: 179-181
 source: sources/Celastraceae_vol29_paddle
+countries: [Angola, Central African Republic, Cote d'Ivoire, Guinea, Sao Tome and Principe, Sudan, Uganda]
+in_region: true
+habit: "herb"
 tags: [species, generated]
 ---
 # *Helictonema velutinum* (Afzelius) Pierre ex Hallé

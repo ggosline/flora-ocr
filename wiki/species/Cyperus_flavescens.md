@@ -7,6 +7,12 @@ family: Cyperaceae
 vol: 44
 pages: 116-117
 source: sources/Cyperaceae_vol44_liteparse
+countries: [Gabon]
+in_region: true
+subdivisions:
+  Gabon: [Estuaire, Ogooué-Maritime]
+habit: "herb"
+altitude_m: "0–100"
 tags: [species, generated]
 ---
 # *Cyperus flavescens* L. Planche 72

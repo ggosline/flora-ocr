@@ -7,6 +7,9 @@ family: Leguminosae
 vol: 15
 pages: 297-299
 source: sources/Leguminosae_vol15_paddle
+countries: [Cameroon, Gabon]
+in_region: true
+habit: "tree"
 tags: [species, generated]
 ---
 # *Tetraberlinia bifoliolata* (Harms) Hauman
@@ -52,7 +55,7 @@ Eko (Fang); Mondoungou (Bapounou); Ndala grandes feuilles (Bavoungou); Kogo (Mit
 
 ![Tetraberlinia bifoliolata](../sources/Leguminosae_vol15_paddle/figures/fig_075_p0298.png)
 
-*PL. LXXV. — Tetraberlinia bifoliolata (Harms) Haumann : 1, rameau florifère × 2 /3; 2, bractée × 2; 3, fleur × 2; 4, grand sépale × 2; 5, 5', grand pétale vu de l'extérieur et de l'intérieur; 6, jeune fruit × 2 /3; 7, fruit × 2 /3.*
+*PL. LXXV. — Tetraberlinia bifoliolata (Harms) Haumann : 1, flowering branch × 2 /3; 2, bract × 2; 3, flower × 2; 4, large sepal × 2; 5, 5', large petal viewed from the outside and inside; 6, young fruit × 2 /3; 7, fruit × 2 /3.*
 
 ## Notes
 

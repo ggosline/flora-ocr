@@ -7,6 +7,12 @@ family: Scrophulariaceae
 vol: 48
 pages: 105-105
 source: sources/Scrophulariaceae_vol48_liteparse
+countries: [Angola, Benin, Burkina Faso, Burundi, Cameroon, Central African Republic, Cote d'Ivoire, Democratic Republic of the Congo, Gabon, Kenya, Madagascar, Malawi, Nigeria, Senegal, Sudan, Tanzania, Togo, Zambia]
+in_region: true
+subdivisions:
+  Gabon: [Estuaire, Nyanga, Ogooué-Ivindo, Ogooué-Maritime]
+habit: "herb"
+altitude_m: "0–520"
 tags: [species, generated]
 ---
 # *Bacopa crenata* (P.Beauv.) Hepper Planche 30, 54(A)

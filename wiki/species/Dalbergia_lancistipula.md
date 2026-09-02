@@ -7,6 +7,12 @@ family: Leguminosae
 vol: 49
 pages: 131-133
 source: sources/Millettiaspeciesfabaceae_vol49_liteparse
+countries: [Equatorial Guinea, Gabon]
+in_region: true
+subdivisions:
+  Gabon: [Ogooué-Ivindo]
+habitat: [rocky ground]
+altitude_m: "200"
 tags: [species, generated]
 ---
 # *Dalbergia lancistipula* O.Lachenaud, sp. nov. Planche 41

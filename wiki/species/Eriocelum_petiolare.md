@@ -7,6 +7,9 @@ family: Sapindaceae
 vol: 23
 pages: 182-183
 source: sources/Sapindaceae_vol23_paddle
+countries: [Cameroon, Gabon]
+in_region: true
+habit: "tree"
 tags: [species, generated]
 ---
 # *Eriocelum petiolare* Radlkofer

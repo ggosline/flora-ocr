@@ -8,6 +8,12 @@ vol: 44
 pages: 85-86
 source: sources/Cyperaceae_vol44_liteparse
 also_in_vols: [44, 44]
+countries: [Democratic Republic of the Congo, Gabon, Senegal]
+in_region: true
+subdivisions:
+  Gabon: [Estuaire]
+habit: "herb"
+habitat: [mangrove]
 tags: [species, generated]
 ---
 # *Cyperus densicaespitosus* Mattf. & Kük. var. major Nees in Engl. & Diels, Pflanzenr.

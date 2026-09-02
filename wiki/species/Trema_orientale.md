@@ -7,6 +7,11 @@ family: Ulmaceae
 vol: 58
 pages: 129-131
 source: sources/Ulmaceae_vol58_liteparse
+countries: [Angola, Cameroon, Central African Republic, Democratic Republic of the Congo, Gabon, Nigeria, Republic of the Congo, Sao Tome and Principe]
+in_region: true
+habit: "tree"
+habitat: [riverine]
+altitude_m: "0–690"
 tags: [species, generated]
 ---
 # *Trema orientale* (L.) Blume Planche 35
@@ -17,23 +22,15 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-T. guineense (Schumach. & Thonn.) Ficalho, Pl. uteis Afr. port . : 261 (1884). Arbuste ou arbre , de 2–12(–36) m de hauteur, monoïque ou rarement dioïque ; tronc jusqu’à 40 cm de diamètre ; écorce lisse, grise ou gris-brun ; rameaux pubescents à tomenteux. Stipules caduques, étroitement elliptiques-ovales, longues de 4–7 mm, pubescentes. Feuille : pétiole de 7–15 mm ; limbe étroitement elliptique-ovale à elliptique, de (2–)6–15(–20) × (1,2– )2,2–7,2(–10) cm, cunéé ou arrondi à cordé et ± asymétrique à la base, acuminé, à marge régulièrement et finement serrée , membraneux à subcoriace, glabre à poilu dessus, poilu à tomenteux dessous, scabre, triplinervé ; nervure médiane et secondaires déprimées dessus, saillantes dessous. Inflorescence longue de 5–10 mm à l’anthèse, jusqu’à 25 mm en fruit ; bractées triangulaires, longues de ± 1 mm. Fleur blanche à crème verdâtre, à pédicelle court ou absent ; tépales 5, de 1–2 × 0,5–1 mm, poilus ; anthère jaune pâle ; ovaire long de 1–1,5 mm,
-
-pubescent ; styles de 0,5–1,2 mm, involutés ou divariqués, généralement persistants. Fruit ovoïde à globuleux, de 3–10 × 2–5 mm, glabre, violet ou noir à maturité, faiblement charnu.
+T. guineense (Schumach. & Thonn.) Ficalho, Pl. uteis Afr. port.: 261 (1884). Shrub or tree, 2–12(–36) m tall, monoecious or rarely dioecious; trunk up to 40 cm in diameter; bark smooth, grey or grey-brown; branchlets pubescent to tomentose. Stipules caducous, narrowly elliptic-ovate, 4–7 mm long, pubescent. Leaf: petiole 7–15 mm; lamina narrowly elliptic-ovate to elliptic, (2–)6–15(–20) × (1.2–)2.2–7.2(–10) cm, cuneate or rounded to cordate and ± asymmetrical at base, acuminate, with regular and finely serrate margin, membranous to subcoriaceous, glabrous to pilose above, pilose to tomentose below, scabrous, triplinervate; midvein and secondary veins depressed above, prominent below. Inflorescence 5–10 mm long at anthesis, up to 25 mm in fruit; bracts triangular, ± 1 mm long. Flower white to greenish cream, with short or absent pedicel; tepals 5, 1–2 × 0.5–1 mm, pilose; anther pale yellow; ovary 1–1.5 mm long, pubescent; styles 0.5–1.2 mm, involute or divaricate, usually persistent. Fruit ovoid to globose, 3–10 × 2–5 mm, glabrous, violet or black at maturity, weakly fleshy.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-connu de l’Afrique tropicale et subtropicale, de l’Asie, de l’Australie et du Pacifique ; dans la région : Nigéria, Sao Tomé et Principe, Cameroun, Gabon, République du Congo, République démocratique du Congo, République Centrafricaine et Angola ; au Gabon : connu de toutes les provinces
+known from tropical and subtropical Africa, Asia, Australia and the Pacific; in the region: Nigeria, São Tomé and Príncipe, Cameroon, Gabon, Republic of the Congo, Democratic Republic of the Congo, Central African Republic and Angola; in Gabon: known from all provinces
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-marges des forêts primaires et secondaires de plaine et de montagne, forêts riveraines, souvent en végétation pionnière ; au Gabon à 0–690 m d’altitude, ailleurs jusqu’à 2100 m. Usage : Le bois est largement utilisé comme bois de chauffage et fournit un excellent charbon de bois. L’espèce est souvent préservée ou entretenue comme arbre d’ombrage dans les plantations de café et de cacao. Espèce pionnière, elle convient à la plantation sur des sols pauvres pour reboiser les zones dénudées ou perturbées. Le feuillage sert comme fourrage et il est mangé cuit comme légume. En Asie, le bois est utilisé dans la fabrication de panneaux et de papier. L’écorce est utilisée en décoction comme onguent pour les fractures ou les entorses
+margins of primary and secondary lowland and montane forests, riparian forests, often in pioneer vegetation; in Gabon at 0–690 m elevation, elsewhere up to 2100 m. Uses: The wood is widely used as firewood and provides excellent charcoal. The species is often preserved or maintained as a shade tree in coffee and cocoa plantations. A pioneer species, it is suitable for planting on poor soils to reforest denuded or disturbed areas. The foliage serves as fodder and is eaten cooked as a vegetable. In Asia, the wood is used in the manufacture of panels and paper. The bark is used in decoction as an ointment for fractures or sprains
 
 ## Vernacular names
 

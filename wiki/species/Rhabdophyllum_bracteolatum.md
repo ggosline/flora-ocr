@@ -7,6 +7,13 @@ family: Ochnaceae
 vol: 48
 pages: 85-87
 source: sources/Ochnaceae_vol48_liteparse
+countries: [Angola, Cameroon, Equatorial Guinea, Gabon, Ghana, Republic of the Congo, Sierra Leone]
+in_region: true
+subdivisions:
+  Gabon: [Ngounié, Ogooué-Maritime]
+habit: "tree"
+habitat: [savanna, secondary forest, coastal, rocky ground]
+altitude_m: "0–740"
 tags: [species, generated]
 ---
 # *Rhabdophyllum bracteolatum* (Gilg) Farron, Bull. Jard. Bot. État Bruxelles 35 : 392

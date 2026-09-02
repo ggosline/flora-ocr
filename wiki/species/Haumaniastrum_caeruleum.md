@@ -6,6 +6,12 @@ genus: Haumaniastrum
 vol: 58
 pages: 63-65
 source: sources/Labiataeulmaceaeverbenaceae_vol58_liteparse
+countries: [Angola, Burundi, Cameroon, Central African Republic, Democratic Republic of the Congo, Gabon, Malawi, Nigeria, Republic of the Congo, Zambia, Zimbabwe]
+in_region: true
+subdivisions:
+  Gabon: [Haut-Ogooué]
+habit: "herb"
+altitude_m: "480–630"
 tags: [species, generated]
 ---
 # *Haumaniastrum caeruleum* (Oliv.) P.A.Duvign. & Plancke Planche 13

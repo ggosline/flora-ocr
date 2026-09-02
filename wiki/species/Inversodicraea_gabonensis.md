@@ -7,6 +7,10 @@ family: Podostemaceae
 vol: 51
 pages: 32-32
 source: sources/Podostemaceae_vol51_liteparse
+countries: [Gabon, Republic of the Congo]
+in_region: true
+subdivisions:
+  Gabon: [Ngounié]
 tags: [species, generated]
 ---
 # *Inversodicraea gabonensis* (C.Cusset) Cheek Planche 11(1-3)

@@ -6,6 +6,13 @@ genus: Clerodendrum
 vol: 58
 pages: 27-29
 source: sources/Labiataeulmaceaeverbenaceae_vol58_liteparse
+countries: [Cameroon, Gabon]
+in_region: true
+subdivisions:
+  Gabon: [Estuaire]
+habit: "liana"
+habitat: [mangrove, savanna]
+altitude_m: "5"
 tags: [species, generated]
 ---
 # *Clerodendrum atlanticum* Jongkind

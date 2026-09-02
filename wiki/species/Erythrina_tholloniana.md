@@ -7,6 +7,12 @@ family: Leguminosae
 vol: 49
 pages: 199-201
 source: sources/Millettiaspeciesfabaceae_vol49_liteparse
+countries: [Democratic Republic of the Congo, Equatorial Guinea, Gabon, Republic of the Congo]
+in_region: true
+subdivisions:
+  Gabon: [Ogooué-Ivindo]
+habit: "tree"
+altitude_m: "200"
 tags: [species, generated]
 ---
 # *Erythrina tholloniana* Hua Planche 65.11–13

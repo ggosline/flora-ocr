@@ -7,6 +7,10 @@ family: Annonaceae
 vol: 16
 pages: 0-0
 source: sources/Annonaceae_vol16_mineru
+countries: [Cameroon, Gabon, Republic of the Congo]
+in_region: true
+habit: "tree"
+habitat: [coastal]
 tags: [species, generated]
 ---
 # *Polyceratocarpus microtrichus* (Engl. et Diels) Ghesq. ex Pellegrin

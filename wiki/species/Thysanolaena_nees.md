@@ -15,19 +15,18 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 63.1 Thysanolaena maxima (Roxb.) Kuntze
 
 Fl. Gab.: 236.
 
 $ ^{*} $64. Trichopteryx Nees
 
-1. Épillets glabres à pileuses ; chaumes dressés à ascendants, entre-nœuds recouverts par les gaines ..... T. fruticulosa 1. Épillets pubescentes, sans ou avec des poils raides ; chaumes rampantes ; entre-nœuds apparents au-dessus de les gaines ..... T. marungensis
+1. Spikelets glabrous to pilose; culms erect to ascending, internodes covered by the sheaths ..... T. fruticulosa
+1. Spikelets pubescent, without or with stiff hairs; culms creeping; internodes apparent above the sheaths ..... T. marungensis
 
 $ ^{*} $64.1 Trichopteryx fruticulosa Chiov.
 
-FTEA : 411 ; Fl. Zamb. 10(3) : 214 ; Gram. CB. : 253.
+FTEA: 411; Fl. Zamb. 10(3): 214; Gram. CB.: 253.
 
 ## Specimens examined
 

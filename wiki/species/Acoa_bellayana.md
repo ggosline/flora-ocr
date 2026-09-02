@@ -7,6 +7,9 @@ family: Scytopetalaceae
 vol: 24
 pages: 15-18
 source: sources/Chrysobalanaceae_vol24_paddle
+countries: [Angola, Cameroon, Cote d'Ivoire, Democratic Republic of the Congo, Gabon]
+in_region: true
+habit: "shrub"
 tags: [species, generated]
 ---
 # *Acoa bellayana* Baillon
@@ -61,7 +64,7 @@ Soyaux 123, Loango près Bango (fl., sept.) (photo exs. K in P).
 
 ![Acoa bellayana](../sources/Chrysobalanaceae_vol24_paddle/figures/fig_002_p0017.png)
 
-*PL. 2. — Acioa bellayana Baill.: 1, rameau avec fleurs × 2/3; 2, feuille dessous × 2/3; 3, stipules × 2; 4, portion d'axe infl. avec bractées × 4; 5, bractéoles × 4; 6, fleur (pét. excl.) × 3/2. (Klaine 101).*
+*PL. 2. — Acioa bellayana Baill.: 1, branch with flowers × 2/3; 2, leaf lower surface × 2/3; 3, stipules × 2; 4, portion of inflorescence axis with bracts × 4; 5, bracteoles × 4; 6, flower (petals excl.) × 3/2. (Klaine 101).*
 
 ## Notes
 

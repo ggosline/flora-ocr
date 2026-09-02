@@ -7,6 +7,11 @@ family: Apocynaceae
 vol: 59
 pages: 57-58
 source: sources/Apocynaceae_vol59_liteparse
+countries: [Cameroon, Gabon, Nigeria, Sierra Leone]
+in_region: true
+subdivisions:
+  Gabon: [Ogooué-Lolo]
+habit: "liana"
 tags: [species, generated]
 ---
 # *Baissea odorata* K.Schum. ex Stapf Planche 21 ; Figure 3(D)

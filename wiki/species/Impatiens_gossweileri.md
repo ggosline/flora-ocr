@@ -5,11 +5,10 @@ authority: G. M. Schulze
 genus: Impatiens
 family: Balsaminaceae
 synonyms: []
-countries: [Gabon, Angola]
-in_region: true
-habit: herb
-habitat: [Mayombe wet forest]
 treatments: [{vol: 4, pages: "36–38", source: sources/Balsaminaceae_vol4_paddle}]
+countries: [Angola, Gabon]
+in_region: true
+habit: "herb"
 tags: [species]
 ---
 

@@ -7,6 +7,7 @@ family: Sapindaceae
 vol: 23
 pages: 57-57
 source: sources/Sapindaceae_vol23_paddle
+habit: "shrub"
 tags: [species, generated]
 ---
 # *Allophylus mayimbensis* Pellegrin
@@ -33,7 +34,7 @@ Le Testu 5739, Hte Ngounyé, entre Boutombi et IPoungou (fl., nov.); 7768, Mayim
 
 ![Allophylus mayimbensis](../sources/Sapindaceae_vol23_paddle/figures/fig_011_p0059.png)
 
-*PL. 11. — Allophylus oyemensis Pellegrin (Le Testu 9603) : 1, feuille et inflorescence, limbe 14 cm; 1', coupe du pétiole, diamètre 2 mm; 2, cymule; 2', bouton 2 mm; 3, 3', 3", sépales supérieur, latéral et inférieur; 4, 4', 4", pétale tiré du bouton, face interne, profil, face externe; 5, 5', étanine, faces externe et interne. — Allophylus mayimbensis Pellegrin (Le Testu 7768) : 6, feuille et inflorescence, limbe 21 cm; 6', coupe du pétiole, diamètre 2.5 mm; 7, cymule; 7', bouton 1.5 mm; 8, 8', sépales supérieur et latéral; 9, 9', pétale de fleur épanouie, face interne et profil; 10, étanine, face externe.*
+*PL. 11. — Allophylus oyemensis Pellegrin (Le Testu 9603) : 1, leaf and inflorescence, limb 14 cm; 1', petiole cross-section, diameter 2 mm; 2, cymule; 2', bud 2 mm; 3, 3', 3", upper, lateral and lower sepals; 4, 4', 4", petal from bud, inner surface, profile, outer surface; 5, 5', stamen, outer and inner surfaces. — Allophylus mayimbensis Pellegrin (Le Testu 7768) : 6, leaf and inflorescence, limb 21 cm; 6', petiole cross-section, diameter 2.5 mm; 7, cymule; 7', bud 1.5 mm; 8, 8', upper and lateral sepals; 9, 9', petal of open flower, inner surface and profile; 10, stamen, outer surface.*
 
 ## Notes
 

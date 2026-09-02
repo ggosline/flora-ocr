@@ -7,6 +7,9 @@ family: Melastomataceae
 vol: 25
 pages: 120-121
 source: sources/Melastomataceae_vol25_paddle
+countries: [Gabon]
+in_region: true
+habit: "shrub"
 tags: [species, generated]
 ---
 # *Memecylon mouririoides* Jacques-Félix

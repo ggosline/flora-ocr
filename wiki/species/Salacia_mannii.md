@@ -7,6 +7,8 @@ family: Celastraceae
 vol: 29
 pages: 57-60
 source: sources/Celastraceae_vol29_paddle
+countries: [Cameroon, Democratic Republic of the Congo, Equatorial Guinea, Gabon, Nigeria, Sierra Leone]
+in_region: true
 tags: [species, generated]
 ---
 # *Salacia mannii* Oliver

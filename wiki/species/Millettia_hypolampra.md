@@ -7,6 +7,12 @@ family: Leguminosae
 vol: 49
 pages: 282-282
 source: sources/Millettiaspeciesfabaceae_vol49_liteparse
+countries: [Cameroon, Gabon]
+in_region: true
+subdivisions:
+  Gabon: [Haut-Ogooué, Ogooué-Maritime]
+habit: "liana"
+altitude_m: "10–250"
 tags: [species, generated]
 ---
 # *Millettia hypolampra* Harms

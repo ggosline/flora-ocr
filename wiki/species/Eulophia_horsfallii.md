@@ -7,6 +7,9 @@ family: Orchidaceae
 vol: 37
 pages: 99-101
 source: sources/Orchidaceae_vol37_paddle
+countries: [Angola, Benin, Burundi, Cameroon, Central African Republic, Cote d'Ivoire, Democratic Republic of the Congo, Equatorial Guinea, Gabon, Ghana, Guinea-Bissau, Kenya, Liberia, Malawi, Nigeria, Rwanda, Senegal, Tanzania, Togo, Uganda, Zambia]
+in_region: true
+habitat: [secondary forest, riverine]
 tags: [species, generated]
 ---
 # *Eulophia horsfallii* (Batem.) Summerh.

@@ -7,6 +7,9 @@ family: Moraceae
 vol: 26
 pages: 249-250
 source: sources/Moraceae_vol26_paddle
+countries: [Cameroon, Democratic Republic of the Congo, Gabon]
+in_region: true
+habit: "tree"
 tags: [species, generated]
 ---
 # *Ficus wildemaniana* Warburg ex De Wildeman & Durand
@@ -43,7 +46,7 @@ Hladik 2316, Mpassa, 10 km S Makokou (fig., févr.). Michaloud 114, Makokou (fig
 
 ![Ficus wildemaniana](../sources/Moraceae_vol26_paddle/figures/fig_077_p0248.png)
 
-*PL. 76. – Ficus wildemaniana Warb. ex De Wild. & Dur.: 1, feuille × 2/3; 2, figues × 2/3 (1, Tisserant 691, Centrafrique; 2, Tisserant 2473, Centrafrique).*
+*PL. 76. – Ficus wildemaniana Warb. ex De Wild. & Dur.: 1, leaf × 2/3; 2, figs × 2/3 (1, Tisserant 691, Central African Republic; 2, Tisserant 2473, Central African Republic).*
 
 ## Notes
 

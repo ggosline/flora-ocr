@@ -7,6 +7,8 @@ family: Orchidaceae
 vol: 37
 pages: 131-133
 source: sources/Orchidaceae_vol37_paddle
+countries: [Cote d'Ivoire, Democratic Republic of the Congo, Equatorial Guinea, Gabon, Ghana, Guinea, Liberia, Nigeria, Sierra Leone, Uganda]
+in_region: true
 tags: [species, generated]
 ---
 # *Eurychone rotschildiana* (O'Brien) Schltr.

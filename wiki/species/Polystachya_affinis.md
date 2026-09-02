@@ -7,6 +7,9 @@ family: Orchidaceae
 vol: 37
 pages: 23-24
 source: sources/Orchidaceae_vol37_paddle
+countries: [Angola, Cameroon, Central African Republic, Cote d'Ivoire, Democratic Republic of the Congo, Equatorial Guinea, Gabon, Ghana, Guinea, Liberia, Nigeria, Sao Tome and Principe, Sierra Leone, Togo, Uganda]
+in_region: true
+habitat: [riverine]
 tags: [species, generated]
 ---
 # *Polystachya affinis* Lindl.

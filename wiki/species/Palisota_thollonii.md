@@ -7,6 +7,11 @@ family: Commelinaceae
 vol: 55
 pages: 79-80
 source: sources/Commelinaceae_vol55_liteparse
+countries: [Cameroon, Central African Republic, Gabon, Republic of the Congo]
+in_region: true
+habit: "herb"
+habitat: [secondary forest]
+altitude_m: "1000"
 tags: [species, generated]
 ---
 # *Palisota thollonii* Hua Figure 5(I-K)

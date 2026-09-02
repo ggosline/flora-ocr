@@ -7,6 +7,10 @@ family: Arecaceae
 vol: 53
 pages: 27-27
 source: sources/Arecaceae_vol53_liteparse
+countries: [Gabon]
+in_region: true
+subdivisions:
+  Gabon: [Estuaire, Ngounié, Ogooué-Lolo]
 tags: [species, generated]
 ---
 # *Eremospatha macrocarpa* H.Wendl. Planche 9, Figure 2G

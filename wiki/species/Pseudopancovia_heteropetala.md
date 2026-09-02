@@ -7,6 +7,9 @@ family: Sapindaceae
 vol: 23
 pages: 127-128
 source: sources/Sapindaceae_vol23_paddle
+countries: [Cameroon, Gabon]
+in_region: true
+habit: "shrub"
 tags: [species, generated]
 ---
 # *Pseudopancovia heteropetala* Pellegrin

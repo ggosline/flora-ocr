@@ -7,6 +7,7 @@ family: Moraceae
 vol: 26
 pages: 61-67
 source: sources/Moraceae_vol26_paddle
+habit: "herb"
 tags: [species, generated]
 ---
 # *Dorstenia lujae* De Wildeman
@@ -49,11 +50,11 @@ CLÉ DES VARIÉTÉS
 
 ![Dorstenia lujae](../sources/Moraceae_vol26_paddle/figures/fig_018_p0064.png)
 
-*PL. 17. - Dorstenia lujae De Wild. var. lujae : 1, sommet d'une tige ; 2, feuille ; 3, 4, inflo. (1, Hallé N. 2834 ; 2, Hallé N. 1293 ; 3, Letouzey 10292, Cameroun ; 4, Hallé N. 3227).*
+*PL. 17. - Dorstenia lujae De Wild. var. lujae : 1, summit of a stem ; 2, leaf ; 3, 4, inflorescence (1, Hallé N. 2834 ; 2, Hallé N. 1293 ; 3, Letouzey 10292, Cameroon ; 4, Hallé N. 3227).*
 
 ![Dorstenia lujae](../sources/Moraceae_vol26_paddle/figures/fig_019_p0066.png)
 
-*PL. 18. – Dorstenia lujae De Wild. var. batesii (Rendle) Hijman: 1, partie sup. de la tige; 2, 3, feuilles; 4, inflo. (1, Le Testu 1767; 2, 4, Le Testu 2362; 3, Hallé N. & Cours G. 6009).*
+*PL. 18. – Dorstenia lujae De Wild. var. batesii (Rendle) Hijman: 1, upper part of stem; 2, 3, leaves; 4, inflorescence (1, Le Testu 1767; 2, 4, Le Testu 2362; 3, Hallé N. & Cours G. 6009).*
 
 ## Notes
 

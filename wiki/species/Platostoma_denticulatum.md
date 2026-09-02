@@ -6,6 +6,12 @@ genus: Platostoma
 vol: 58
 pages: 87-87
 source: sources/Labiataeulmaceaeverbenaceae_vol58_liteparse
+countries: [Angola, Burundi, Cameroon, Democratic Republic of the Congo, Gabon, Kenya, Rwanda, Tanzania, Uganda]
+in_region: true
+subdivisions:
+  Gabon: [Ogooué-Ivindo, Ogooué-Maritime, Woleu-Ntem]
+habit: "herb"
+altitude_m: "150–700"
 tags: [species, generated]
 ---
 # *Platostoma denticulatum* Robyns Planche 21(4-6)

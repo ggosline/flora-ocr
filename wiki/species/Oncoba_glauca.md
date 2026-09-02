@@ -7,6 +7,7 @@ family: Flacourtiaceae
 vol: 34
 pages: 47-49
 source: sources/Flacourtiaceae_vol34_paddle
+countries_incomplete: true
 tags: [species, generated]
 ---
 # *Oncoba glauca* (P. Beauv.) Planch.
@@ -106,7 +107,7 @@ Wieringa 341, Tchimbélé, 0°37'N-10°24'E, 2/1/1990, fr. (WAG).
 
 ![Oncoba glauca](../sources/Flacourtiaceae_vol34_paddle/figures/fig_013_p0050.png)
 
-*PL. 13. – Oncoba glauca (P. Beauv.) Planch. : 1, rameau florifère ; 2, sépale ; 3, pétale ; 4, étamine ; 5, pistil ; 6, coupe transversale de l'ovaire ; 7, fruit ; 8, un autre fruit ; 9, graine. (1-2. Chevalier 26156 ; 3-6. Schmith 210 ; 7. Le Testu 1455 ; 8. Breteler 8083 ; 9. Breteler & al. 9536).*
+*PL. 13. – Oncoba glauca (P. Beauv.) Planch. : 1, flowering branch ; 2, sepal ; 3, petal ; 4, stamen ; 5, pistil ; 6, transverse section of the ovary ; 7, fruit ; 8, another fruit ; 9, seed. (1-2. Chevalier 26156 ; 3-6. Schmith 210 ; 7. Le Testu 1455 ; 8. Breteler 8083 ; 9. Breteler & al. 9536).*
 
 ## Notes
 

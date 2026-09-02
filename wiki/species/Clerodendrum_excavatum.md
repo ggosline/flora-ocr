@@ -6,6 +6,12 @@ genus: Clerodendrum
 vol: 58
 pages: 31-32
 source: sources/Labiataeulmaceaeverbenaceae_vol58_liteparse
+countries: [Cameroon, Central African Republic, Democratic Republic of the Congo, Equatorial Guinea, Gabon, Nigeria, Republic of the Congo]
+in_region: true
+subdivisions:
+  Gabon: [Haut-Ogooué, Nyanga, Ogooué-Ivindo, Ogooué-Lolo, Ogooué-Maritime]
+habit: "liana"
+altitude_m: "60–380"
 tags: [species, generated]
 ---
 # *Clerodendrum excavatum* De Wild. Figure 1(E, F)

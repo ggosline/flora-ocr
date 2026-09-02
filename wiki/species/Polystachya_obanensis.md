@@ -7,6 +7,8 @@ family: Orchidaceae
 vol: 37
 pages: 24-24
 source: sources/Orchidaceae_vol37_paddle
+countries: [Cameroon, Cote d'Ivoire, Gabon, Liberia, Nigeria]
+in_region: true
 tags: [species, generated]
 ---
 # *Polystachya obanensis* Rendle

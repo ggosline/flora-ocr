@@ -7,6 +7,12 @@ family: Cyperaceae
 vol: 44
 pages: 96-97
 source: sources/Cyperaceae_vol44_liteparse
+countries: [Gabon, Madagascar]
+in_region: true
+subdivisions:
+  Gabon: [Ogooué-Ivindo, Ogooué-Maritime]
+habit: "herb"
+altitude_m: "0–150"
 tags: [species, generated]
 ---
 # *Cyperus metzii* (Steud.) Mattf. & Kük. Planche 58

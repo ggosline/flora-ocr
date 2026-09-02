@@ -7,6 +7,11 @@ family: Podostemaceae
 vol: 51
 pages: 45-45
 source: sources/Podostemaceae_vol51_liteparse
+countries: [Gabon]
+in_region: true
+subdivisions:
+  Gabon: [Ngounié]
+altitude_m: "50"
 tags: [species, generated]
 ---
 # *Ledermanniella pygmaea* (Pellegrin) C.Cusset Planche 19(1–4)

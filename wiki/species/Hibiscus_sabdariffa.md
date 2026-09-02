@@ -7,6 +7,12 @@ family: Malvaceae
 vol: 45
 pages: 73-74
 source: sources/Malvaceae_vol45_liteparse
+countries: [Gabon]
+in_region: true
+subdivisions:
+  Gabon: [Estuaire]
+habit: "herb"
+altitude_m: "0–1400"
 tags: [species, generated]
 ---
 # *Hibiscus sabdariffa* L.

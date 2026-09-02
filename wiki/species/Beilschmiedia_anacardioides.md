@@ -6,6 +6,7 @@ family: Lauraceae
 vol: 10
 pages: 36-36
 source: sources/Lauraceae_vol10_paddle
+habit: "tree"
 tags: [species, generated]
 ---
 # *Beilschmiedia anacardioides*

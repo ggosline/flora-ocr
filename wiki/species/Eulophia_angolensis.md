@@ -7,6 +7,9 @@ family: Orchidaceae
 vol: 37
 pages: 87-89
 source: sources/Orchidaceae_vol37_paddle
+countries: [Angola, Burkina Faso, Burundi, Cameroon, Central African Republic, Cote d'Ivoire, Democratic Republic of the Congo, Gabon, Gambia, Ghana, Guinea-Bissau, Kenya, Malawi, Nigeria, Rwanda, Senegal, Sierra Leone, Sudan, Tanzania, Togo, Uganda, Zambia]
+in_region: true
+habitat: [savanna]
 tags: [species, generated]
 ---
 # *Eulophia angolensis* (Rchb.f.) Summerh.
@@ -69,7 +72,7 @@ van der Maesen, Louis & de Bruijn 5462, Pointe Denis, 0°20' N, 9°21' E, forest
 
 ![Eulophia angolensis](../sources/Orchidaceae_vol37_paddle/figures/fig_036_p0090.png)
 
-*PL. 142. – Eulophia angolensis (Rchb.f.) Summerh.: A, fleur; B, labelle et éperon, vue latérale; C, labelle et éperon étalés; D, sépale latéral; E, pétale; F, sépale dorsal. – Eulophia boulia-wongo (Rchb.f.) J. Raynal: G, labelle et éperon étalés; H, labelle et éperon, vue latérale; I, sépale dorsal; J, pétale; K, sépale latéral (A, ex CRIBB, 1989; B-F, Thollon s.n., P; G-K, Villiers s.n., P).*
+*PL. 142. – Eulophia angolensis (Rchb.f.) Summerh.: A, flower; B, labellum and spur, lateral view; C, labellum and spur spread out; D, lateral sepal; E, petal; F, dorsal sepal. – Eulophia boulia-wongo (Rchb.f.) J. Raynal: G, labellum and spur spread out; H, labellum and spur, lateral view; I, dorsal sepal; J, petal; K, lateral sepal (A, ex CRIBB, 1989; B-F, Thollon s.n., P; G-K, Villiers s.n., P).*
 
 ## Notes
 

@@ -7,6 +7,10 @@ family: Leguminosae
 vol: 49
 pages: 379-379
 source: sources/Millettiaspeciesfabaceae_vol49_liteparse
+countries: [Angola, Central African Republic, Democratic Republic of the Congo, Gabon, Republic of the Congo, Senegal]
+in_region: true
+habit: "herb"
+altitude_m: "1400"
 tags: [species, generated]
 ---
 # *Vigna nigritia* Hook.f.

@@ -7,6 +7,13 @@ family: Clusiaceae
 vol: 45
 pages: 22-23
 source: sources/Clusiaceae_vol45_liteparse
+countries: [Cameroon, Gabon]
+in_region: true
+subdivisions:
+  Gabon: [Moyen-Ogooué, Ngounié, Nyanga, Ogooué-Ivindo, Ogooué-Lolo, Ogooué-Maritime, Woleu-Ntem]
+habit: "tree"
+habitat: [coastal]
+altitude_m: "1250"
 tags: [species, generated]
 ---
 # *Garcinia conrauana* Engl.

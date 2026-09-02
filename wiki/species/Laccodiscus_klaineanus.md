@@ -7,6 +7,7 @@ family: Sapindaceae
 vol: 23
 pages: 162-162
 source: sources/Sapindaceae_vol23_paddle
+habit: "tree"
 tags: [species, generated]
 ---
 # *Laccodiscus klaineanus* Pierre ex Engler

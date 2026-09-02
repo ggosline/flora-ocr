@@ -7,6 +7,8 @@ family: Dichapetalaceae
 vol: 32
 pages: 41-44
 source: sources/Dichapetalaceae_vol32_paddle
+countries: [Cameroon, Equatorial Guinea, Gabon]
+in_region: true
 tags: [species, generated]
 ---
 # *Dichapetalum affine* (Planchon ex Bentham) Breteler
@@ -61,7 +63,7 @@ Breteler 5720, 50 km au S.E. de Lambaréné (j.fr., Sept.). Klaine 14, environs 
 
 ![Dichapetalum affine](../sources/Dichapetalaceae_vol32_paddle/figures/fig_006_p0042.png)
 
-*PL. 5. – Dichapetalum affine (Planchon ex Bentham) Breteler : 1, rameau florifère × 0,8 ; 2, portion de face inférieure de feuille avec glandes et domaties × 5 ; 3, inflorescence, détail de l'adnation pétiole-pédoncule × 2,5 ; 4, fleur × 5 ; 5, pistil avec des staminodes × 10 ; 6, vue externe d'un pétale et d'une étamine × 10 ; 7, staminode, vue interne × 20 ; 8, fruit × 0,8 (1-7, Leeuwenberg 5631 ; 8, Zenker 2776). – Repris de MLW 73 (13) : 45 (1973).*
+*PL. 5. – Dichapetalum affine (Planchon ex Bentham) Breteler : 1, flowering branch × 0,8 ; 2, portion of lower surface of leaf with glands and domatia × 5 ; 3, inflorescence, detail of petiole-peduncle adnation × 2,5 ; 4, flower × 5 ; 5, pistil with staminodes × 10 ; 6, external view of a petal and a stamen × 10 ; 7, staminode, internal view × 20 ; 8, fruit × 0,8 (1-7, Leeuwenberg 5631 ; 8, Zenker 2776). – Taken from MLW 73 (13) : 45 (1973).*
 
 ## Notes
 

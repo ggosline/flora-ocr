@@ -7,6 +7,8 @@ family: Rubiaceae
 vol: 12
 pages: 148-150
 source: sources/Rubiaceae_vol12_paddle
+countries: [Cote d'Ivoire, Gabon]
+in_region: true
 tags: [species, generated]
 ---
 # *Mussaenda soyauxii* Büttner

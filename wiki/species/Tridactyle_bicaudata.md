@@ -7,6 +7,9 @@ family: Orchidaceae
 vol: 37
 pages: 159-161
 source: sources/Orchidaceae_vol37_paddle
+countries: [Burundi, Cameroon, Central African Republic, Cote d'Ivoire, Democratic Republic of the Congo, Gabon, Ghana, Kenya, Liberia, Malawi, Mozambique, Nigeria, Rwanda, Sierra Leone, Tanzania, Togo, Uganda, Zambia, Zimbabwe]
+in_region: true
+habitat: [secondary forest, riverine]
 tags: [species, generated]
 ---
 # *Tridactyle bicaudata* (Lindl.) Schltr.
@@ -17,11 +20,9 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 – Angraecum fimbriatum Rendle, J. Linn. Soc., Bot. 30 : 387, t. 32 (1895).
 
-– Listrostachvs cirrhosa Kraenzl., Bot. Jahrb. Syst. 33 : 73 (1902).
+– Listrostachys cirrhosa Kraenzl., Bot. Jahrb. Syst. 33 : 73 (1902).
 
 – Listrostachys fimbriata (Rendle) Kraenzl., Bot. Jahrb. Syst. 33 : 74 (1902), in obs.
 
@@ -35,35 +36,31 @@ tags: [species, generated]
 
 – Tridactyle polyschista Mansf., Rep. Sp. Nov. Regni Veg., Beih. 68 : 11, t. 104 (1932).
 
-Tiges < 12-80 cm. Feuilles 9-17,5 × 0,5-1,53 cm, généralement tordues à la base pour se situer dans un même plan, linéaires, inégalement bilobées. Inflorescence axillaire, 3,5-13 cm, 8-25-flore. Fleurs petites à moyennes, résupinées, blanches, roses, jaunes, souvent teintées de vert, parfumées. Sépale dorsal oblong-ové. Pétales oblongs. Sépales latéraux obliquement ovés. Labelle 3-6,5 × 8-11,5 mm, auriculé à la base, trilobé ;
+Stems < 12–80 cm. Leaves 9–17.5 × 0.5–1.53 cm, generally twisted at the base to lie in the same plane, linear, unequally bilobed. Inflorescence axillary, 3.5–13 cm, 8–25-flowered. Flowers small to medium, resupinate, white, pink, yellow, often tinged with green, fragrant. Dorsal sepal oblong-ovate. Petals oblong. Lateral sepals obliquely ovate. Labellum 3–6.5 × 8–11.5 mm, auriculate at the base, trilobed;
 
-PL. 179. – Tridactyle bicaudata (Lindl.) Schltr. : A, partie de l'axe de l'inflorescence ; B, labelle et éperon ; C, labelle étalé ; D, section longitudinale de l'apex du labelle ; E, sépale dorsal ; F, G, pétale ; H, sépale latéral ; I, feuille (A-I, Le Testu 2021, P).
+PL. 179. – Tridactyle bicaudata (Lindl.) Schltr. : A, portion of the inflorescence axis ; B, labellum and spur ; C, labellum spread out ; D, longitudinal section of the apex of the labellum ; E, dorsal sepal ; F, G, petal ; H, lateral sepal ; I, leaf (A–I, Le Testu 2021, P).
 
-lobe médian triangulaire ou étroitement triangulaire, avec un sommet en crochet ; lobes latéraux linéaires, laciniés au sommet. Éperon (7,5-) 10-16 (-28), légèrement renflé dans la moitié apicale, aigu. - Pl. 179, p. 389.
+midlobe triangular or narrowly triangular, with a hooked apex ; lateral lobes linear, laciniate at the apex. Spur (7.5–) 10–16 (–28), slightly swollen in the apical half, acute. - Pl. 179, p. 389.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Sierra Leone, Liberia, Côte d'Ivoire, Togo, Ghana, Nigeria, Cameroon, Gabon, République centrafricaine, Zaire, Rwanda, Burundi, Ethiopia, Ouganda, Kenya, Tanzania, Zambie, Malawi, Zimbabwe, Mozambique, Swaziland, République sudafricaine
+Sierra Leone, Liberia, Côte d'Ivoire, Togo, Ghana, Nigeria, Cameroon, Gabon, Central African Republic, Zaire, Rwanda, Burundi, Ethiopia, Uganda, Kenya, Tanzania, Zambia, Malawi, Zimbabwe, Mozambique, Swaziland, South African Republic
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+alt. 0–2,500 m. Epiphytic in lowland or montane forest and riparian, secondary forest, plantation. Observed on Hagenia abyssinica
 
-alt. 0-2 500 m. Épiphyte en forêt de plaine ou altitude et rivulaire, forêt secondaire, plantation. Observé sur Hagenia abyssinica
+MATERIAL STUDIED (Map 81) :
 
-MATÉRIEL ÉTUDIÉ (Carte 81) :
+Bos, Van der Laan & Nzabi 10798, creek Moka, E of the Mondah river, 0° 39' N, 9° 28' E (fl. Jul.), WAG!.
 
-Bos, Van der Laan & Nzabi 10798, creek Moka, E de la riv. Mondah , 0° 39' N, 9° 28' E (fl. Juil.), WAG!.
+Hallé & Villiers 5549, Pointe Denis (fr. Feb.), P!.
 
-Hallé & Villiers 5549, Pointe Denis (fr. Févr.), P!.
+Le Testu 2021, Zélibanga (fl. Feb.), BM, BR!, P!.
 
-Le Testu 2021, Zélibanga (fl. Fév.r.), BM, BR!, P!.
+Pobeguin s.n., Cape Lopez (ster.), P! (cf. bicaudata).
 
-Pobeguin s.n., Cap Lopez (stér.), P! (cf. bicaudata).
-
-Schlechter 12818, Cap Lopez (fl. Déc), BR!.
+Schlechter 12818, Cape Lopez (fl. Dec.), BR!.
 
 Thollon s.n., Schouka, P!.
 

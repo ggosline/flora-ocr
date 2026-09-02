@@ -7,6 +7,9 @@ family: Rubiaceae
 vol: 17
 pages: 44-46
 source: sources/Rubiaceae_vol17_paddle
+countries: [Kenya, Liberia, Senegal]
+in_region: false
+habit: "shrub"
 tags: [species, generated]
 ---
 # *Bertiera lanx* N. Hallé, sp. nov.

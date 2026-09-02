@@ -7,6 +7,12 @@ family: Leguminosae
 vol: 49
 pages: 186-186
 source: sources/Millettiaspeciesfabaceae_vol49_liteparse
+countries: [Gabon]
+in_region: true
+subdivisions:
+  Gabon: [Haut-Ogooué]
+habit: "herb"
+altitude_m: "400–600"
 tags: [species, generated]
 ---
 # *Eriosema batekense* Maesen & G.M.Walters Planche 61

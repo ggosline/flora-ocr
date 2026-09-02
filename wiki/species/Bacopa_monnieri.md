@@ -7,6 +7,13 @@ family: Scrophulariaceae
 vol: 48
 pages: 106-106
 source: sources/Scrophulariaceae_vol48_liteparse
+countries: [Gabon]
+in_region: true
+subdivisions:
+  Gabon: [Estuaire]
+habit: "herb"
+habitat: [coastal]
+altitude_m: "0–5"
 tags: [species, generated]
 ---
 # *Bacopa monnieri* (L.) Wettst. Planche 54(B)

@@ -7,6 +7,7 @@ family: Gramineae
 vol: 05
 pages: 95-96
 source: sources/Gramineae_vol05_paddle
+habit: "herb"
 tags: [species, generated]
 ---
 # *Pennisetum franchetanum* Stapf et C. Hubb.

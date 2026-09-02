@@ -7,6 +7,8 @@ family: Linaceae
 vol: 21
 pages: 38-40
 source: sources/Linaceae_vol21_paddle
+countries: [Cameroon, Gabon]
+in_region: true
 tags: [species, generated]
 ---
 # *Hugonia micans* Engler
@@ -47,7 +49,7 @@ Le Testu 976, Tchibanga (fl., fév.); 8727, Binanga, région de Lastoursville (f
 
 ![Hugonia micans](../sources/Linaceae_vol21_paddle/figures/fig_009_p0039.png)
 
-*PL. 9. — Hugonia micans Engl.: 1, rameau florifère × 2/3 (Zenker 463); 2, bouton × 2, 3, fleur × 2. — H. spicata Oliv. var. glabrescens Keay: 4, rameau florifère × 2/3; 5, bouton × 2; 6, fleur × 2 (4-6, Le Testu 8729); 7, fruit × 1,5 (N. Hallé & A. Le Thomas 522).*
+*PL. 9. — Hugonia micans Engl.: 1, flowering branch × 2/3 (Zenker 463); 2, bud × 2, 3, flower × 2. — H. spicata Oliv. var. glabrescens Keay: 4, flowering branch × 2/3; 5, bud × 2; 6, flower × 2 (4-6, Le Testu 8729); 7, fruit × 1,5 (N. Hallé & A. Le Thomas 522).*
 
 ## Notes
 

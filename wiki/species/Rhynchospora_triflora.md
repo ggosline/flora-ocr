@@ -7,6 +7,13 @@ family: Cyperaceae
 vol: 44
 pages: 199-200
 source: sources/Cyperaceae_vol44_liteparse
+countries: [Gabon]
+in_region: true
+subdivisions:
+  Gabon: [Ogooué-Ivindo]
+habit: "herb"
+habitat: [savanna]
+altitude_m: "1100"
 tags: [species, generated]
 ---
 # *Rhynchospora triflora* Vahl Figure 23b

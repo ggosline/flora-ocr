@@ -7,6 +7,9 @@ family: Combretaceae
 vol: 35
 pages: 80-81
 source: sources/Combretaceae_vol35_paddle
+countries: [Gabon]
+in_region: true
+habit: "liana"
 tags: [species, generated]
 ---
 # *Combretum polyanthum* Jongkind, sp. nov.
@@ -52,7 +55,7 @@ Wieringa & Hédin 2869, Cap Esterias, Forêt de la Mondah, 030'N-9°22'E (fl., O
 
 ![Combretum polyanthum](../sources/Combretaceae_vol35_paddle/figures/fig_021_p0082.png)
 
-*PL. 21. – Combretum polyanthum Jongkind sp. nov.: a, rameau florifère × 1/2; b, base cordée du limbe, détail × 1; c, inflorescence à boutons fermés, détail × 8; d, fleur × 8; e, écailles florales, détail × 20 (a,b (p.p.), c, d, e, Wieringa et al. 2869; b (p.p.), Breteler et al. 10455). – Dessins originaux de M. SPITTELER – Department of plant Taxonomy. Agricultural University. WAGENINGEN- (Pays-Bas).*
+*PL. 21. – Combretum polyanthum Jongkind sp. nov.: a, flowering branch × 1/2; b, cordate base of the limb, detail × 1; c, inflorescence with closed buds, detail × 8; d, flower × 8; e, floral scales, detail × 20 (a,b (p.p.), c, d, e, Wieringa et al. 2869; b (p.p.), Breteler et al. 10455). – Original drawings by M. SPITTELER – Department of plant Taxonomy. Agricultural University. WAGENINGEN- (Netherlands).*
 
 ## Notes
 

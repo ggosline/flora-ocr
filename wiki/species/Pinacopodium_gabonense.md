@@ -7,6 +7,9 @@ family: Nectaropetalaceae
 vol: 21
 pages: 24-25
 source: sources/Nectaropetalaceae_vol21_paddle
+countries: [Gabon]
+in_region: true
+habit: "tree"
 tags: [species, generated]
 ---
 # *Pinacopodium gabonense* (Cavaco & Normand)

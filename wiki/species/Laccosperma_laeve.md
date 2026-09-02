@@ -7,6 +7,12 @@ family: Arecaceae
 vol: 53
 pages: 34-34
 source: sources/Arecaceae_vol53_liteparse
+countries: [Angola, Cameroon, Cote d'Ivoire, Equatorial Guinea, Gabon, Ghana, Liberia, Republic of the Congo]
+in_region: true
+subdivisions:
+  Gabon: [Estuaire, Nyanga, Ogooué-Ivindo, Ogooué-Lolo, Ogooué-Maritime]
+habit: "liana"
+habitat: [coastal]
 tags: [species, generated]
 ---
 # *Laccosperma laeve* (G.Mann & H.Wendl.) G.Mann & H.Wendl. Planche 11(1–5)

@@ -7,6 +7,12 @@ family: Leguminosae
 vol: 49
 pages: 78-78
 source: sources/Millettiaspeciesfabaceae_vol49_liteparse
+countries: [Gabon]
+in_region: true
+subdivisions:
+  Gabon: [Estuaire, Nyanga, Ogooué-Ivindo]
+habit: "herb"
+altitude_m: "1800"
 tags: [species, generated]
 ---
 # *Canavalia ensiformis* (L.) DC. Planche 23.1–5

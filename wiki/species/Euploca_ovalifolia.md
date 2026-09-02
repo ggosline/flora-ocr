@@ -7,6 +7,12 @@ family: Boraginaceae
 vol: 57
 pages: 21-24
 source: sources/Boraginaceae_vol57_paddle
+countries: [Angola, Benin, Burundi, Cameroon, Chad, Democratic Republic of the Congo, Gabon, Ghana, Kenya, Madagascar, Malawi, Mali, Mozambique, Nigeria, Senegal, Sudan, Tanzania, Zambia, Zimbabwe]
+in_region: true
+subdivisions:
+  Gabon: [Ogooué-Maritime]
+habit: "herb"
+altitude_m: "100"
 tags: [species, generated]
 ---
 # *Euploca ovalifolia* (Forssk.) Diane & Hilger

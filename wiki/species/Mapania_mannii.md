@@ -7,6 +7,12 @@ family: Cyperaceae
 vol: 44
 pages: 173-174
 source: sources/Cyperaceae_vol44_liteparse
+countries: [Cameroon, Democratic Republic of the Congo, Gabon, Republic of the Congo]
+in_region: true
+subdivisions:
+  Gabon: [Estuaire, Moyen-Ogooué, Ngounié, Nyanga, Ogooué-Ivindo, Ogooué-Lolo, Ogooué-Maritime, Woleu-Ntem]
+habit: "herb"
+altitude_m: "700"
 tags: [species, generated]
 ---
 # *Mapania mannii* C.B.Clarke subsp. mannii Figure 17a

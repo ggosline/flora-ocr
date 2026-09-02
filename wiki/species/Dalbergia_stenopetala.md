@@ -7,6 +7,12 @@ family: Leguminosae
 vol: 49
 pages: 155-158
 source: sources/Millettiaspeciesfabaceae_vol49_liteparse
+countries: [Cameroon, Equatorial Guinea, Gabon]
+in_region: true
+subdivisions:
+  Gabon: [Ngounié, Ogooué-Ivindo, Woleu-Ntem]
+habitat: [rocky ground]
+altitude_m: "600"
 tags: [species, generated]
 ---
 # *Dalbergia stenopetala* O.Lachenaud, sp. nov. Planche 50

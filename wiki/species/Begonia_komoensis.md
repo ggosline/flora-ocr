@@ -7,6 +7,10 @@ family: Begoniaceae
 vol: 39
 pages: 98-100
 source: sources/Begoniaceae_vol39_liteparse
+countries: [Equatorial Guinea, Gabon]
+in_region: true
+habit: "epiphyte"
+altitude_m: "950"
 tags: [species, generated]
 ---
 # *Begonia komoensis* Irmsch. Planche 45

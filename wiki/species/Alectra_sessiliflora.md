@@ -7,6 +7,12 @@ family: Scrophulariaceae
 vol: 48
 pages: 100-101
 source: sources/Scrophulariaceae_vol48_liteparse
+countries: [Gabon, Madagascar]
+in_region: true
+subdivisions:
+  Gabon: [Ngounié]
+habit: "herb"
+altitude_m: "640"
 tags: [species, generated]
 ---
 # *Alectra sessiliflora* (Vahl) Kuntze Planche 28, 56(L)

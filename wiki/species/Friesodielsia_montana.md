@@ -7,6 +7,10 @@ family: Annonaceae
 vol: 16
 pages: 0-0
 source: sources/Annonaceae_vol16_mineru
+countries: [Cameroon, Central African Republic, Cote d'Ivoire, Gabon, Nigeria, Sierra Leone]
+in_region: true
+habit: "liana"
+habitat: [riverine]
 tags: [species, generated]
 ---
 # *Friesodielsia montana* (Engl. et Diels) van Steenis

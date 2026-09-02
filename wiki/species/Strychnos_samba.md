@@ -7,6 +7,9 @@ family: Loganiaceae
 vol: 19
 pages: 109-111
 source: sources/Loganiaceae_vol19_paddle
+countries: [Nigeria]
+in_region: true
+habit: "liana"
 tags: [species, generated]
 ---
 # *Strychnos samba* Duvigneaud
@@ -17,19 +20,17 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+et 85 : 28, fig. 10 A (1952), p. p., excl. De Wulf 121. — LEEUWENBERG, l. c. : 230, fig. 21, map 36.
 
-et 85 : 28, fig. 10 A (1952), p. p., excl. De Wulf 121. — LEEUWENBERG, l. c. : 230, fig. 21, carte 36.
+Liane reaching a height of 10 m and a length of 20 m or more; stem 3–5 cm in diameter or more; bark brown, somewhat lenticellate, thin; wood yellow; branchlets non-lenticellate; small branchlets quadrangular, glabrous, somewhat furrowed or not; tendrils in pairs.
 
-Liane atteignant une hauteur de 10 m et une longueur de 20 m ou plus; tige de 3-5 cm de diamètre ou plus; écorce brune, un peu lenticellée, mince; bois jaune; rameaux non lenticellés; petits rameaux quadrangulaires, glabres, un peu sillonnés ou non; vrilles par paires.
+Leaves with petiole glabrous, 5–12 mm long; blade coriaceous or, in shade, subcoriaceous, elliptic or narrowly elliptic, 5–10 (–17) × 2.5–7 (–8.5) cm, apiculate or acuminate at apex, cuneate or rounded at base, glabrous on both surfaces; one pair of secondary veins curved along the margin; main veins impressed above; tertiary venation reticulate and prominent below.
 
-Feuilles à pétiole glabre, de 5-12 mm de longueur; limbe coriace ou, à l'ombre, subcoriace, elliptique ou étroitement elliptique, de 5-10 (-17) × 2,5-7 (-8,5) cm, apiculé ou acuminé au sommet, cuné ou arrondi à la base, glabre sur les deux faces; une paire de nervures secondaires courbées le long de la marge; nervures principales imprimées en dessus; nervation tertiaire réticulée et proéminente en dessous.
+Inflorescences axillary and also terminal, loose or, for the final ramifications, contracted, few- to many-flowered, of very variable size, 3–10 × 2–5 cm; infructescences reaching up to 15 × 10 cm; peduncle and branches slender, with sparse pubescence, with hairs generally in series; pedicels short or very short, glabrous or nearly so. Flowers 5-merous. Sepals pale green, fused to one-third of their height, ovate, 0.6–1 × 0.5–0.8 mm, acute or obtuse, finely ciliate, externally glabrous or with a few hairs, internally glabrous or sometimes with appressed pubescence at the base. Corolla, in the mature bud, 2.2–2.5 mm in
 
-Inflorescences axillaires et également terminales, lâches ou, pour les dernières ramifications, contractées, pauci- à multiflores, de grandeur très variable, de 3-10 × 2-5 cm; infrutescences atteignant jusqu'à 15 × 10 cm; pédoncule et rameaux minces, à pubescence éparse, avec poils généralement sériés; pédicelles courts ou très courts, glabres ou presque. Fleurs 5-mères. Sépales vert pâle, soudés jusqu'au tiers de leur hauteur, ovés, de 0,6-1 × 0,5-0,8 mm, aigus ou obtus, finement ciliés, à l'extérieur glabres ou avec quelques poils, à l'intérieur glabres ou parfois avec pubescence apprimée à la base. Corolle, dans le bouton mûr, de 2,2-2,5 mm de
+length, greenish or pale green, glabrous externally, internally pilose on the lobes, generally only at their base, with cream-colored hairs; tube short, 1 mm long, broad; lobes 1.2–1.5 times longer than the tube, narrowly triangular, 1.2–1.5 × 0.8–1 mm, acute, suberect or spreading. Stamens somewhat exserted, inserted at the corolla throat, with filament glabrous, short, 0.3–0.5 times longer than the anther; anther oblong or triangular, glabrous. Pistil glabrous or with a few small hairs in the middle, 1.3–1.7 mm long; ovary ovoid, 1–1.2 × 0.8–1 mm, 2-locular; style very short, 0.3–0.5 mm long; stigma capitate; 8–9 ovules per locule.
 
-longueur, verdâtre ou vert pâle, glabre à l'extérieur, à l'intérieur pileuse sur les lobes, généralement seulement à leur base, avec poils crèmes; tube court, de 1 mm de longueur, large; lobes 1,2-1,5 fois plus longs que le tube, étroitement triangulaires, de 1,2-1,5 × 0,8-1 mm, aigus, subérigés ou étalés. Étamines un peu exsertes, insérées à la gorge de la corolle, à filet glabre, court, 0,3-0,5 fois plus long que l'anthère; anthère oblongue ou triangulaire, glabre. Pistil glabre ou avec quelques petits poils au milieu, de 1,3-1,7 mm de longueur; ovaire ovoïde, de 1-1,2 × 0,8-1 mm, à 2 loges; style très court, de 0,3-0,5 mm de longueur; stigmate capité; 8-9 ovules par loge.
-
-Fruits vert pâle, petits, tendres, globuleux, de 17-20 mm de diamètre, contenant une graine et à peau lisse; paroi mince. Graine aplatie, obliquement ovée, irrégulièrement courbée, de  $ 14 \times 13 \times 7 $ mm, pubescente, lisse. Pl. 33, 7-12, p. 140.
+Fruits pale green, small, tender, globose, 17–20 mm in diameter, containing one seed and with smooth skin; wall thin. Seed flattened, obliquely ovate, irregularly curved, 14 × 13 × 7 mm, pubescent, smooth. Pl. 33, 7–12, p. 140.
 
 ## Type
 
@@ -37,11 +38,9 @@ Brédo 1091, région de Bambesa, Province Orientale, Congo-Kinshasa (lectotype, 
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Nigeria and Equatorial Africa. Dense and secondary forests, in humid places. Altitudes 0–700 m.
 
-Nigeria et Afrique équatoriale. Forêts denses et secondaires, en lieux humides. Altitudes 0-700 m.
-
-Breteler 2051, 4 km S Nguélémendouka (fr., nov.) BR, K, P, WAG, YA. Leeuwenberg 5675, 6 km E du km 58 route Edéa-Kribi (fl., mai) P, WAG, YA; 6233, 7 km W Yokadouma, sur piste de Lomié (stér.) P, WAG, YA; 6513, 3 km N Lomié (stér.) P, WAG, YA; 7352, 15 km E Dimako, village situé au km 28 route Bertoua-Doumé (stér.) P, WAG, YA; 7873, Kribi, 18 km sur route de Lolodorf (stér.) P, WAG, YA.
+Breteler 2051, 4 km S Nguélémendouka (fr., Nov.) BR, K, P, WAG, YA. Leeuwenberg 5675, 6 km E of km 58 Edéa-Kribi road (fl., May) P, WAG, YA; 6233, 7 km W Yokadouma, on Lomié trail (ster.) P, WAG, YA; 6513, 3 km N Lomié (ster.) P, WAG, YA; 7352, 15 km E Dimako, village situated at km 28 Bertoua-Doumé road (ster.) P, WAG, YA; 7873, Kribi, 18 km on Lolodorf road (ster.) P, WAG, YA.
 
 ## Specimens examined
 

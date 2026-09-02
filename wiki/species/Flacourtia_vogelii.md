@@ -7,6 +7,10 @@ family: Flacourtiaceae
 vol: 34
 pages: 11-13
 source: sources/Flacourtiaceae_vol34_paddle
+countries: [Cameroon, Democratic Republic of the Congo, Gabon, Ghana, Nigeria, Sierra Leone]
+in_region: true
+habit: "tree"
+habitat: [swamp forest]
 tags: [species, generated]
 ---
 # *Flacourtia vogelii* Hook. f.

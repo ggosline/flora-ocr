@@ -7,6 +7,10 @@ family: Apocynaceae
 vol: 59
 pages: 121-123
 source: sources/Apocynaceae_vol59_liteparse
+countries: [Gabon]
+in_region: true
+habitat: [secondary forest]
+altitude_m: "450"
 tags: [species, generated]
 ---
 # *Landolphia dibatai* Jongkind, spec. nov.

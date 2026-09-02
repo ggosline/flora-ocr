@@ -7,6 +7,7 @@ family: Celastraceae
 vol: 29
 pages: 137-137
 source: sources/Celastraceae_vol29_paddle
+habit: "liana"
 tags: [species, generated]
 ---
 # *Salacia annettae* Hallé, sp. nov.
@@ -40,7 +41,7 @@ Hladik 1958, Makokou, île de l'Éléphant, 21.2.1972 (fl., fr.); 2531, Ipassa, 
 
 ![Salacia annettae](../sources/Celastraceae_vol29_paddle/figures/fig_036_p0138.png)
 
-*PL. 37. - Salacia annettae Hallé : 1, rameau florifère ; 2, bouton ; 3, sépale ; : 4, fleur, diam. env. 5,5 mm ; 5, pétale long de 2,3 mm ; 6-8, disque, diam. 1,2 mm ; 9, anthère ; 10, coupe basse de l'ovaire ; 11, fruit mür, diam. 18 mm ; 12, coupe de fruit (Hladik 1958). - S. lebrunii Wilczek : 13, rameau florifère × 1 : 14, bouton ; 15, sépale ; 16, fleur, diam. 4,5 mm ; 17, pétale long de 2,4 mm ; 18-21, disque diam. 0,9 mm ; 22, 23, coupe basse et haute de l'ovaire ; 24, fruit, diam. 15 mm ; 25, coupe de fruit (Hallé N. 3232).*
+*PL. 37. - Salacia annettae Hallé : 1, flowering branch ; 2, bud ; 3, sepal ; : 4, flower, diam. approx. 5.5 mm ; 5, petal 2.3 mm long ; 6-8, disk, diam. 1.2 mm ; 9, anther ; 10, low section of the ovary ; 11, ripe fruit, diam. 18 mm ; 12, section of fruit (Hladik 1958). - S. lebrunii Wilczek : 13, flowering branch × 1 : 14, bud ; 15, sepal ; 16, flower, diam. 4.5 mm ; 17, petal 2.4 mm long ; 18-21, disk diam. 0.9 mm ; 22, 23, low and high section of the ovary ; 24, fruit, diam. 15 mm ; 25, section of fruit (Hallé N. 3232).*
 
 ## Notes
 

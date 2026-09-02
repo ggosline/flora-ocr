@@ -7,6 +7,12 @@ family: Dracaenaceae
 vol: 54
 pages: 27-27
 source: sources/Dracaenaceae_vol54_liteparse
+countries: [Cameroon, Equatorial Guinea, Gabon]
+in_region: true
+subdivisions:
+  Gabon: [Estuaire, Ogooué-Ivindo]
+habit: "shrub"
+altitude_m: "100–340"
 tags: [species, generated]
 ---
 # *Dracaena bushii* Damen Planche 7, Figure 2(B)

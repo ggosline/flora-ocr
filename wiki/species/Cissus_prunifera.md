@@ -33,7 +33,7 @@ N. Hallé : 1713, 10 km SW de Ndjolé, CEFA-Ayem, bord de route sur le sol (fl. 
 
 ![Cissus prunifera](../sources/Vitaceae_vol14_paddle/figures/fig_009_p0111.png)
 
-*PL. IV. — Cissus prunifera Descoings : 1, aspect général, × 1; 2, stipule, × 2; 3, fleur, × 20; 4, graine vue de profil, par la face dorsale, × 1. — Cyphostemma adenocaule (Steud.) Descoings : 5, aspect général, × 1; 6, stipule, × 4; 7, fleur, × 7,5; 8, graine vue de profil, par la face ventrale, × 5.*
+*PL. IV. — Cissus prunifera Descoings : 1, general appearance, × 1; 2, stipule, × 2; 3, flower, × 20; 4, seed viewed in profile, by the dorsal surface, × 1. — Cyphostemma adenocaule (Steud.) Descoings : 5, general appearance, × 1; 6, stipule, × 4; 7, flower, × 7,5; 8, seed viewed in profile, by the ventral surface, × 5.*
 
 ## Notes
 

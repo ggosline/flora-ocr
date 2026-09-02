@@ -7,6 +7,12 @@ family: Passifloraceae
 vol: 46
 pages: 82-82
 source: sources/Passifloraceae_vol46_liteparse
+countries: [Cameroon, Democratic Republic of the Congo, Gabon, Nigeria, Republic of the Congo]
+in_region: true
+subdivisions:
+  Gabon: [Ngounié, Ogooué-Ivindo]
+habit: "tree"
+altitude_m: "550–950"
 tags: [species, generated]
 ---
 # *Barteria solida* Breteler Planche 32(1–8)

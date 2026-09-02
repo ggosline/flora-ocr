@@ -7,6 +7,10 @@ family: Annonaceae
 vol: 16
 pages: 0-0
 source: sources/Annonaceae_vol16_mineru
+countries: [Cameroon, Central African Republic, Gabon, Republic of the Congo]
+in_region: true
+habit: "liana"
+habitat: [evergreen forest, rocky ground]
 tags: [species, generated]
 ---
 # *Artabotrys aurantiacus* Engler et Diels

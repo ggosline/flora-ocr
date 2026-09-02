@@ -7,6 +7,9 @@ family: Orchidaceae
 vol: 37
 pages: 191-191
 source: sources/Orchidaceae_vol37_paddle
+countries: [Angola, Cameroon, Central African Republic, Democratic Republic of the Congo, Equatorial Guinea, Ghana, Tanzania, Uganda]
+in_region: true
+habitat: [primary forest]
 tags: [species, generated]
 ---
 # *Aerangis calantha* (Schltr.) Schltr.
@@ -49,7 +52,7 @@ Breteler & al. 9451a, Rabi, in dense humid forest, near camp, ± 1° 55' S, 9° 
 
 ![Aerangis calantha](../sources/Orchidaceae_vol37_paddle/figures/fig_091_p0193.png)
 
-*PL. 197. – Aerangis calantha (Schltr.) Schltr.: A, éperon, ovaire, pédicelle, bractée florale et partie de l'axe de l'inflorescence ; B, labelle ; C, sépale dorsal ; D, pétale ; E, sépale latéral ; F, détails du reste du rostelle, vue de face, anthère enlevée ; G, reste du rostelle ; H, feuille et extrémité foliaire ; I, vue générale ; J, fleur, vue de face (A-H, Tisserant 1796, P ; I-J, ex STEWART, 1979, modifié).*
+*PL. 197. – Aerangis calantha (Schltr.) Schltr.: A, spur, ovary, pedicel, floral bract and part of the inflorescence axis ; B, labellum ; C, dorsal sepal ; D, petal ; E, lateral sepal ; F, details of the rest of the rostellum, front view, anther removed ; G, rest of rostellum ; H, leaf and leaf tip ; I, general view ; J, flower, front view (A-H, Tisserant 1796, P ; I-J, ex STEWART, 1979, modified).*
 
 ## Notes
 

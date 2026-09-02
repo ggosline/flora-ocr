@@ -7,6 +7,13 @@ family: Clusiaceae
 vol: 45
 pages: 11-13
 source: sources/Clusiaceae_vol45_liteparse
+countries: [Angola, Benin, Cameroon, Central African Republic, Democratic Republic of the Congo, Equatorial Guinea, Gabon, Nigeria, Republic of the Congo]
+in_region: true
+subdivisions:
+  Gabon: [Ogooué-Maritime]
+habit: "tree"
+habitat: [swamp forest, secondary forest, riverine]
+altitude_m: "720"
 tags: [species, generated]
 ---
 # *Allanblackia floribunda* Oliv. Planche 1(1 ‒ 5)

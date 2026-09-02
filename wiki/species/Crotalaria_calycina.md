@@ -7,6 +7,12 @@ family: Leguminosae
 vol: 49
 pages: 93-95
 source: sources/Millettiaspeciesfabaceae_vol49_liteparse
+countries: [Gabon]
+in_region: true
+subdivisions:
+  Gabon: [Estuaire, Moyen-Ogooué, Nyanga, Ogooué-Ivindo]
+habit: "herb"
+altitude_m: "0–150"
 tags: [species, generated]
 ---
 # *Crotalaria calycina* Schrank Planche 28

@@ -7,6 +7,7 @@ family: Cyperaceae
 vol: 44
 pages: 174-175
 source: sources/Cyperaceae_vol44_liteparse
+habit: "herb"
 tags: [species, generated]
 ---
 # *Mapania pallescens* Lye Figure 17b

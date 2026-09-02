@@ -7,6 +7,11 @@ family: Putranjivaceae
 vol: 57
 pages: 152-154
 source: sources/Putranjivaceae_vol57_paddle
+countries: [Angola, Cameroon, Central African Republic, Democratic Republic of the Congo, Equatorial Guinea, Gabon, Republic of the Congo, Rwanda]
+in_region: true
+subdivisions:
+  Gabon: [Estuaire, Ngounié, Nyanga, Ogooué-Ivindo, Woleu-Ntem]
+habit: "tree"
 tags: [species, generated]
 ---
 # *Drypetes occidentalis* (Müll.Arg.) Hutch.

@@ -7,6 +7,9 @@ family: Begoniaceae
 vol: 39
 pages: 58-58
 source: sources/Begoniaceae_vol39_liteparse
+countries: [Cameroon, Gabon]
+in_region: true
+habitat: [primary forest]
 tags: [species, generated]
 ---
 # *Begonia mbangaensis* Sosef Planche 26

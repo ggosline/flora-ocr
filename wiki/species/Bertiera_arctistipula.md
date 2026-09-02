@@ -7,6 +7,7 @@ family: Rubiaceae
 vol: 17
 pages: 62-64
 source: sources/Rubiaceae_vol17_paddle
+habit: "shrub"
 tags: [species, generated]
 ---
 # *Bertiera arctistipula* N. Hallé, sp. nov.

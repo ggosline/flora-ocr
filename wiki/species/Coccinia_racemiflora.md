@@ -7,6 +7,13 @@ family: Cucurbitaceae
 vol: 57
 pages: 57-57
 source: sources/Cucurbitaceae_vol57_paddle
+countries: [Cameroon, Equatorial Guinea, Gabon]
+in_region: true
+subdivisions:
+  Gabon: [Estuaire, Moyen-Ogooué, Ngounié, Ogooué-Maritime, Woleu-Ntem]
+habit: "herb"
+habitat: [secondary forest]
+altitude_m: "0–450"
 tags: [species, generated]
 ---
 # *Coccinia racemiflora* Keraudren

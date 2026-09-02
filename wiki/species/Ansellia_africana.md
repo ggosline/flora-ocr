@@ -7,6 +7,9 @@ family: Orchidaceae
 vol: 37
 pages: 75-77
 source: sources/Orchidaceae_vol37_paddle
+countries: [Burundi, Cameroon, Central African Republic, Cote d'Ivoire, Democratic Republic of the Congo, Equatorial Guinea, Gabon, Ghana, Guinea-Bissau, Kenya, Liberia, Malawi, Mozambique, Nigeria, Rwanda, Sudan, Tanzania, Uganda, Zambia, Zimbabwe]
+in_region: true
+habitat: [savanna]
 tags: [species, generated]
 ---
 # *Ansellia africana* Lindl.

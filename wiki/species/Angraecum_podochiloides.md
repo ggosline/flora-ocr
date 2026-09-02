@@ -7,6 +7,8 @@ family: Orchidaceae
 vol: 37
 pages: 233-233
 source: sources/Orchidaceae_vol37_paddle
+countries: [Cameroon, Cote d'Ivoire, Democratic Republic of the Congo, Gabon, Ghana, Nigeria]
+in_region: true
 tags: [species, generated]
 ---
 # *Angraecum podochiloides* Schltr.
@@ -45,7 +47,7 @@ Hallé & Villiers 5382, Monts de Cristal, 12 km SW Kinguélé Falls (fl. Feb.), 
 
 ![Angraecum podochiloides](../sources/Orchidaceae_vol37_paddle/figures/fig_115_p0234.png)
 
-*PL. 221. – Angraecum podochiloides Schltr. : A, vue générale ; B, feuille ; C, fleur ; D, labelle et éperon, vue latérale ; E, labelle étalé ; F, sépale dorsal ; G, pétale H, sépale latéral ; I, fleur, vue de face (A, ex ADAM, 1932 ; B-H, Hallé & Villiers 5382, P. ; I, ex SCHLECHTER, 1932, modifié).*
+*PL. 221. – Angraecum podochiloides Schltr. : A, general view ; B, leaf ; C, flower ; D, lip and spur, lateral view ; E, lip spread out ; F, dorsal sepal ; G, petal H, lateral sepal ; I, flower, front view (A, ex ADAM, 1932 ; B-H, Hallé & Villiers 5382, P. ; I, ex SCHLECHTER, 1932, modified).*
 
 ## Notes
 

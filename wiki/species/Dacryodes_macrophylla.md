@@ -5,11 +5,9 @@ authority: (Oliv.) Lam
 genus: Dacryodes
 family: Burseraceae
 synonyms: [Canarium macrophyllum Oliv., Pachylobus macrophyllus Engl.]
-countries: [Cameroon, Gabon, Republic of the Congo]
-countries_incomplete: true
-in_region: true
-habit: tree
 treatments: [{vol: 3, pages: "79–81", source: sources/Burseraceae_vol3_paddle}]
+countries: [Gabon]
+in_region: true
 tags: [species]
 ---
 

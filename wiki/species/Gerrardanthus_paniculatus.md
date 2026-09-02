@@ -7,6 +7,11 @@ family: Cucurbitaceae
 vol: 57
 pages: 70-72
 source: sources/Cucurbitaceae_vol57_paddle
+countries: [Angola, Gabon, Ghana]
+in_region: true
+subdivisions:
+  Gabon: [Haut-Ogooué]
+habit: "herb"
 tags: [species, generated]
 ---
 # *Gerrardanthus paniculatus* (Mast.) Cogn.

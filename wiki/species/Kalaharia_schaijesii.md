@@ -6,6 +6,11 @@ genus: Kalaharia
 vol: 58
 pages: 70-71
 source: sources/Labiataeulmaceaeverbenaceae_vol58_liteparse
+countries: [Angola, Democratic Republic of the Congo, Gabon, Republic of the Congo]
+in_region: true
+subdivisions:
+  Gabon: [Haut-Ogooué]
+altitude_m: "700"
 tags: [species, generated]
 ---
 # *Kalaharia schaijesii* Bamps Figure 4(D)

@@ -7,6 +7,13 @@ family: Leguminosae
 vol: 49
 pages: 268-269
 source: sources/Millettiaspeciesfabaceae_vol49_liteparse
+countries: [Cameroon, Democratic Republic of the Congo, Gabon]
+in_region: true
+subdivisions:
+  Gabon: [Ogooué-Ivindo, Ogooué-Maritime]
+habit: "liana"
+habitat: [evergreen forest]
+altitude_m: "0–500"
 tags: [species, generated]
 ---
 # *Millettia duchesnei* De Wild.

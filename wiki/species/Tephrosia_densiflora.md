@@ -7,6 +7,12 @@ family: Leguminosae
 vol: 49
 pages: 358-359
 source: sources/Millettiaspeciesfabaceae_vol49_liteparse
+countries: [Cameroon, Gabon, Guinea]
+in_region: true
+subdivisions:
+  Gabon: [Estuaire]
+habit: "shrub"
+altitude_m: "1200"
 tags: [species, generated]
 ---
 # *Tephrosia densiflora* Hook.f.

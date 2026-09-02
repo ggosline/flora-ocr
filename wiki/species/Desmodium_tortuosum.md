@@ -7,6 +7,13 @@ family: Leguminosae
 vol: 49
 pages: 175-176
 source: sources/Millettiaspeciesfabaceae_vol49_liteparse
+countries: [Gabon]
+in_region: true
+subdivisions:
+  Gabon: [Haut-Ogooué]
+habit: "herb"
+habitat: [secondary forest]
+altitude_m: "440"
 tags: [species, generated]
 ---
 # *Desmodium tortuosum* (Sw.) DC.

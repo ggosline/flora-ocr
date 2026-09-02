@@ -7,6 +7,10 @@ family: Rubiaceae
 vol: 12
 pages: 246-248
 source: sources/Rubiaceae_vol12_paddle
+countries: [Cameroon]
+in_region: true
+habit: "shrub"
+altitude_m: "350–400"
 tags: [species, generated]
 ---
 # *Pauridiantha micrantha* (Hiern) Brem. (Fig. 8)

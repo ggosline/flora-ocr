@@ -7,6 +7,7 @@ family: Apocynaceae
 vol: 59
 pages: 126-127
 source: sources/Apocynaceae_vol59_liteparse
+habit: "liana"
 tags: [species, generated]
 ---
 # *Landolphia glabra* (Pierre ex Stapf) Pichon Planche 51(7-20)

@@ -7,6 +7,7 @@ family: Lauraceae
 vol: 10
 pages: 45-45
 source: sources/Lauraceae_vol10_paddle
+habit: "tree"
 tags: [species, generated]
 ---
 # *Beilschmiedia alata* Rob. et Wilcz..
@@ -36,7 +37,7 @@ Le Testu 8178 (P), Ramba près Lastoursville (fl. juillet).
 
 ![Beilschmiedia alata](../sources/Lauraceae_vol10_paddle/figures/fig_009_p0044.png)
 
-*PL. VIII. — 1 à 3, Beilschmiedia alata Rob. et Wilcz. (Le Testu 8178) : 1, rameau florifère, grande feuille de 20 cm; 1', bractée de 5 mm; 1", détail des nervures, face inférieure; 2, bouton floral; 2', coupe de fleur, diam. 2 mm; 3, pistil. — 4 à 6, Beilschmiedia yangambiensis Rob. et Wilcz. : 4, rameau florifère, grande feuille de 10 cm; 4', bractée de 2 mm; 5, jeune fleur de 2 mm de diam.; 5', coupe de la fleur (Le Testu 8274); 5", coupe de fleur; 6, pistil (Jean Louis 14370).*
+*PL. VIII. — 1 to 3, Beilschmiedia alata Rob. et Wilcz. (Le Testu 8178) : 1, flowering branch, large leaf of 20 cm; 1', bract of 5 mm; 1", detail of veins, lower surface; 2, flower bud; 2', section of flower, diam. 2 mm; 3, pistil. — 4 to 6, Beilschmiedia yangambiensis Rob. et Wilcz. : 4, flowering branch, large leaf of 10 cm; 4', bract of 2 mm; 5, young flower of 2 mm diam.; 5', section of the flower (Le Testu 8274); 5", section of flower; 6, pistil (Jean Louis 14370).*
 
 ## Notes
 

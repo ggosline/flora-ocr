@@ -7,6 +7,9 @@ family: Aspidiaceae
 vol: 08
 pages: 172-173
 source: sources/Aspidiaceae_vol08_paddle
+countries: [Cote d'Ivoire, Equatorial Guinea, Nigeria]
+in_region: true
+habit: "herb"
 tags: [species, generated]
 ---
 # *Lastreopsis subsimilis* (Hk.) Tindale

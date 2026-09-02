@@ -7,6 +7,10 @@ family: Leguminosae
 vol: 15
 pages: 345-348
 source: sources/Leguminosae_vol15_paddle
+countries: [Cameroon, Gabon, Nigeria]
+in_region: true
+habit: "tree"
+habitat: [primary forest]
 tags: [species, generated]
 ---
 # *Pachyelasma tessmannii* (Harms) Harms

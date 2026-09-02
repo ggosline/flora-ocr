@@ -7,6 +7,11 @@ family: Ochnaceae
 vol: 48
 pages: 43-45
 source: sources/Ochnaceae_vol48_liteparse
+countries: [Angola, Cameroon, Central African Republic, Democratic Republic of the Congo, Equatorial Guinea, Gabon, Nigeria, Republic of the Congo]
+in_region: true
+habit: "tree"
+habitat: [secondary forest, riverine]
+altitude_m: "800"
 tags: [species, generated]
 ---
 # *Campylospermum elongatum* (Oliv.) Tiegh. Planche 9

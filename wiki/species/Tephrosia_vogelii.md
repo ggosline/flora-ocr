@@ -7,6 +7,12 @@ family: Leguminosae
 vol: 49
 pages: 364-366
 source: sources/Millettiaspeciesfabaceae_vol49_liteparse
+countries: [Gabon]
+in_region: true
+subdivisions:
+  Gabon: [Estuaire, Haut-Ogooué, Nyanga, Ogooué-Ivindo, Ogooué-Lolo, Ogooué-Maritime]
+habit: "shrub"
+altitude_m: "0–850"
 tags: [species, generated]
 ---
 # *Tephrosia vogelii* Hook.f. Planche 123

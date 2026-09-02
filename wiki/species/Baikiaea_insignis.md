@@ -7,6 +7,10 @@ family: Leguminosae
 vol: 15
 pages: 176-179
 source: sources/Leguminosae_vol15_paddle
+countries: [Angola, Nigeria, Uganda]
+in_region: true
+habit: "tree"
+habitat: [riverine]
 tags: [species, generated]
 ---
 # *Baikiaea insignis* Bentham
@@ -57,7 +61,7 @@ Le Testu : 1380, Pemgnyoundo (fl. sept.); 2117, Tchibanga (fl. sept.); 2288, Sin
 
 ![Baikiaea insignis](../sources/Leguminosae_vol15_paddle/figures/fig_040_p0178.png)
 
-*PL. XL. — Baikiaea insignis Bentham : 1, foliole × 2 /3; 2, grand sépale × 1 /3; 3, moyen sépale × 1 /3; 4, pétale × 1 /3; 5, étamines × 1 /3; 6, ovaire × 1 /3. — Baikiaea Robynsii Ghesquière : 7, feuille × 2 /3; 8, inflorescence × 1 /3; 9, fruit × 2 /3.*
+*PL. XL. — Baikiaea insignis Bentham : 1, leaflet × 2 /3; 2, large sepal × 1 /3; 3, medium sepal × 1 /3; 4, petal × 1 /3; 5, stamens × 1 /3; 6, ovary × 1 /3. — Baikiaea Robynsii Ghesquière : 7, leaf × 2 /3; 8, inflorescence × 1 /3; 9, fruit × 2 /3.*
 
 ## Notes
 

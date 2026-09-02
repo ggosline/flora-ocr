@@ -7,6 +7,13 @@ family: Piperaceae
 vol: 50
 pages: 71-71
 source: sources/Piperaceae_vol50_liteparse
+countries: [Gabon, Madagascar]
+in_region: true
+subdivisions:
+  Gabon: [Ngounié, Ogooué-Ivindo, Woleu-Ntem]
+habit: "herb"
+habitat: [rocky ground]
+altitude_m: "400"
 tags: [species, generated]
 ---
 # *Peperomia fernandopoana* C.DC. var. fernandopoana Planche 25.3

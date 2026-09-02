@@ -7,6 +7,8 @@ family: Moraceae
 vol: 26
 pages: 40-41
 source: sources/Moraceae_vol26_paddle
+countries: [Angola, Cameroon, Equatorial Guinea, Gabon]
+in_region: true
 tags: [species, generated]
 ---
 # *Dorstenia elliptica* Bureau
@@ -56,7 +58,7 @@ Walker s.n., Saint Martin (fl., Sept. ; fr., Dec.)
 
 ![Dorstenia elliptica](../sources/Moraceae_vol26_paddle/figures/fig_010_p0042.png)
 
-*PL. 10. – Dorstenia elliptica Bur.: 1, partie sup. de la tige; 2, 3, inflo. (1, 2, Bouquet 1252, Congo; 3, Leeuwenberg & Berg 9781, Cameroun).*
+*PL. 10. – Dorstenia elliptica Bur.: 1, upper part of the stem; 2, 3, inflorescence (1, 2, Bouquet 1252, Congo; 3, Leeuwenberg & Berg 9781, Cameroon).*
 
 ## Notes
 

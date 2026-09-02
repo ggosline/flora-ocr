@@ -7,6 +7,13 @@ family: Cyperaceae
 vol: 44
 pages: 208-210
 source: sources/Cyperaceae_vol44_liteparse
+countries: [Gabon, Madagascar]
+in_region: true
+subdivisions:
+  Gabon: [Estuaire, Haut-Ogooué, Ngounié, Nyanga, Ogooué-Ivindo, Ogooué-Lolo, Ogooué-Maritime, Woleu-Ntem]
+habit: "tree"
+habitat: [swamp forest]
+altitude_m: "0–760"
 tags: [species, generated]
 ---
 # *Scleria boivinii* Steud. Planche 129

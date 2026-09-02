@@ -7,6 +7,7 @@ family: Leguminosae
 vol: 15
 pages: 220-221
 source: sources/Leguminosae_vol15_paddle
+habit: "tree"
 tags: [species, generated]
 ---
 # *Gilbertiodendron barbulatum* (Pellegrin) Léonard

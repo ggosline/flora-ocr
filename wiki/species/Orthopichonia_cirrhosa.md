@@ -7,6 +7,7 @@ family: Apocynaceae
 vol: 59
 pages: 182-182
 source: sources/Apocynaceae_vol59_liteparse
+habit: "liana"
 tags: [species, generated]
 ---
 # *Orthopichonia cirrhosa* (Radlk.) H.Huber Planche 85(1-4)

@@ -7,6 +7,12 @@ family: Leguminosae
 vol: 49
 pages: 81-81
 source: sources/Millettiaspeciesfabaceae_vol49_liteparse
+countries: [Gabon]
+in_region: true
+subdivisions:
+  Gabon: [Woleu-Ntem]
+habit: "herb"
+altitude_m: "600"
 tags: [species, generated]
 ---
 # *Centrosema plumieri* (Turpin ex Pers.) Benth. Planche 24.1–6

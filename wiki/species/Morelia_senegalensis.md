@@ -7,6 +7,9 @@ family: Rubiaceae
 vol: 17
 pages: 176-182
 source: sources/Rubiaceae_vol17_paddle
+countries: [Gabon]
+in_region: true
+habit: "shrub"
 tags: [species, generated]
 ---
 # *Morelia senegalensis* A. Rich. in DC.
@@ -130,11 +133,11 @@ A. Walker s. n., Saint-Martin (fr. Nov.)
 
 ![Morelia senegalensis](../sources/Rubiaceae_vol17_paddle/figures/fig_040_p0177.png)
 
-*PL. 39. — Morelia senegalensis A. Richard (Le Testu 2087 et N. Hallé 1598) : 1, rameau avec inflorescence en boutons × 1; 2, stipule; 3, fleur épanouie × 4; 4, calice; 5, coupe de la fleur; 6, anthère × 6; 7, coupe de l'ovaire; 8, rameau fructifère; 9, fruit vu à sec × 1,5; 10, coupe du fruit in vivo × 1,5 : 11, graine recto et verso × 3,5 : 12, placenta du fruit recto et verso, montrant la disposition des 4 graines, à gauche la disposition des embryons et à droite la section (au centre) du pédoncule placentaire; 13, embryon × 7.*
+*PL. 39. — Morelia senegalensis A. Richard (Le Testu 2087 and N. Hallé 1598) : 1, branch with inflorescence in buds × 1; 2, stipule; 3, open flower × 4; 4, calyx; 5, flower section; 6, anther × 6; 7, ovary section; 8, fruiting branch; 9, fruit viewed dry × 1,5; 10, fruit section in vivo × 1,5 : 11, seed front and back × 3,5 : 12, fruit placenta front and back, showing the arrangement of 4 seeds, on the left the arrangement of embryos and on the right the section (at center) of the placental peduncle; 13, embryo × 7.*
 
 ![Morelia senegalensis](../sources/Rubiaceae_vol17_paddle/figures/fig_041_p0181.png)
 
-*PL. 40. — Massularia acuminata (G. Don) Bullock ex Hoyle (N. Hallé 3432, sauf 3, 6, 8, 10, Le Testu 7889) : 1, nœud feuillé × 0,8; 2, stipule; 3, vieille inflorescence; 4, jeune inflorescence; 5, trois stades de développement du bouton; 6, fleur; 7, coupe de la fleur; 8, étamine, recto et verso; 9, coupe de l'ovaire; 10, un placenta couvert de ses ovules; 11, massules polliniques; 12, fruit × 0,5; 13, coupe du fruit; 14, graine et sa coupe au niveau de l'embryon.*
+*PL. 40. — Massularia acuminata (G. Don) Bullock ex Hoyle (N. Hallé 3432, except 3, 6, 8, 10, Le Testu 7889) : 1, leafy node × 0,8; 2, stipule; 3, old inflorescence; 4, young inflorescence; 5, three stages of bud development; 6, flower; 7, flower section; 8, stamen, front and back; 9, ovary section; 10, a placenta covered with its ovules; 11, pollen masses; 12, fruit × 0,5; 13, fruit section; 14, seed and its section at the level of the embryo.*
 
 ## Notes
 

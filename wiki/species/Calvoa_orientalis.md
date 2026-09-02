@@ -7,6 +7,7 @@ family: Melastomataceae
 vol: 25
 pages: 68-70
 source: sources/Melastomataceae_vol25_paddle
+habit: "herb"
 tags: [species, generated]
 ---
 # *Calvoa orientalis* Taubert

@@ -7,6 +7,8 @@ family: Leguminosae
 vol: 15
 pages: 69-70
 source: sources/Leguminosae_vol15_paddle
+habit: "tree"
+habitat: [riverine]
 tags: [species, generated]
 ---
 # *Cynomectra le-* Testui (Pellegr.) Léonard

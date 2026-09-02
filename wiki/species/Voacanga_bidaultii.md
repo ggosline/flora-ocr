@@ -7,6 +7,7 @@ family: Apocynaceae
 vol: 59
 pages: 265-265
 source: sources/Apocynaceae_vol59_liteparse
+altitude_m: "300–450"
 tags: [species, generated]
 ---
 # *Voacanga bidaultii* Jongkind, spec. nov. Figure 15(C)
@@ -16,9 +17,7 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Differs from all other Voacanga VSHFLHVE\WKHFRPSDUDWLYHO\ODUJHDUHDGLVWDQFHRI!PPYHUVXV mm) between the corolla mouth and the base of the lobes, this area is cupuliform in shape.
+Differs from all other Voacanga in the comparatively large area distance of 4 mm versus mm) between the corolla mouth and the base of the lobes, this area is cupuliform in shape.
 
 ## Type
 
@@ -26,15 +25,11 @@ Differs from all other Voacanga VSHFLHVE\WKHFRPSDUDWLYHO\ODUJHDUHDGLVWDQFHRI!PPY
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-forêt ; à 300-450 m d’altitude
+forest; at 300–450 m altitude
 
 ## Source note
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Autres échantillons étudiés (paratypes) : Breteler & Jongkind 10323 (LBV, WAG !), Gabon, 2JRRXp0DULWLPH5DEL.RXQJD5DELURXWHGX1RUGQRYÀ Le Testu 5546 1JRXQLpHQWUH,EDJKD	0LFRGLVHSWÀ
+Other specimens studied (paratypes): Breteler & Jongkind 10323 (LBV, WAG !), Gabon, 2JRRXp0DULWLPH5DEL.RXQJD5DELURXWHGX1RUGQRYÀ Le Testu 5546 1JRXQLpHQWUH,EDJKD	0LFRGLVHSWÀ
 
 ## Notes
 

@@ -7,6 +7,9 @@ family: Dichapetalaceae
 vol: 32
 pages: 78-82
 source: sources/Dichapetalaceae_vol32_paddle
+countries: [Angola, Cameroon, Central African Republic, Democratic Republic of the Congo, Gabon, Ghana, Liberia, Nigeria, Tanzania, Zambia]
+in_region: true
+habit: "liana"
 tags: [species, generated]
 ---
 # *Dichapetalum crassifolium* Chodat
@@ -80,7 +83,7 @@ Breteler & de Wilde 143, 10 km à l'Ouest d'Asok (fl., Août). Breteler & Lemmen
 
 ![Dichapetalum crassifolium](../sources/Dichapetalaceae_vol32_paddle/figures/fig_019_p0080.png)
 
-*PL. 18. – Dichapetalum crassifolium Chodat var. crassifolium : 1, rameau florifère à grandes feuilles. inflorescences groupées sur une pousse axillaire aphylle × 0,5 ; 2, rameau florifère à petites feuilles × 0,5 ; 3, base foliaire, dessous avec glandes et domatés pubescentes × 1,5 ; 4, feuille, nervure I proéminente, détail × 1,5 ; 5, fleur × 3 ; 6, fleur à sépales épais × 3 ; 7, fleur, adnation pétales-filets, détail × 6 ; 8, pistil et staminodes × 6 ; 9, fruit 1-sperme avec restes de 2 loges avortées × 1 ; 10, fruit 2-sperme × 1 ; 11, fruit 3-sperme × 1. – D. crassifolium var. integrum (Pierre Breteler : 12, fleur × 6 (1, Mildbraed 3802; 2-4, 7, 8, Mildbraed(?) 2203; 5, Bequaert 2618; 6, Breteler 6967; 9, Germain 4967; 10, Sita 2850; 11, Pierlot 1027; 12, Klaine 1911). – Repris de MLW 78 (10) : 27 (1978).*
+*PL. 18. – Dichapetalum crassifolium Chodat var. crassifolium : 1, flowering branch with large leaves, inflorescences grouped on a leafless axillary shoot × 0,5 ; 2, flowering branch with small leaves × 0,5 ; 3, leaf base, lower side with glands and pubescent domatia × 1,5 ; 4, leaf, vein I prominent, detail × 1,5 ; 5, flower × 3 ; 6, flower with thick sepals × 3 ; 7, flower, adnation of petals-filaments, detail × 6 ; 8, pistil and staminodes × 6 ; 9, one-seeded fruit with remnants of 2 aborted locules × 1 ; 10, two-seeded fruit × 1 ; 11, three-seeded fruit × 1. – D. crassifolium var. integrum (Pierre Breteler : 12, flower × 6 (1, Mildbraed 3802; 2-4, 7, 8, Mildbraed(?) 2203; 5, Bequaert 2618; 6, Breteler 6967; 9, Germain 4967; 10, Sita 2850; 11, Pierlot 1027; 12, Klaine 1911). – Reprinted from MLW 78 (10) : 27 (1978).*
 
 ## Notes
 

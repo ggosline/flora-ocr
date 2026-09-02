@@ -7,6 +7,9 @@ family: Apocynaceae
 vol: 59
 pages: 174-174
 source: sources/Apocynaceae_vol59_liteparse
+habit: "liana"
+habitat: [secondary forest]
+altitude_m: "300"
 tags: [species, generated]
 ---
 # *Oncinotis gabonica* O.Lachenaud Planche 79

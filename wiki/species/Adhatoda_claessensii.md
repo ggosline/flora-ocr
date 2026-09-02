@@ -7,6 +7,9 @@ family: Acanthaceae
 vol: 13
 pages: 177-180
 source: sources/Acanthaceae_vol13_paddle
+countries: [Gabon]
+in_region: true
+habit: "liana"
 tags: [species, generated]
 ---
 # *Adhatoda claessensii* (De Wild.) Heine, comb. nov.

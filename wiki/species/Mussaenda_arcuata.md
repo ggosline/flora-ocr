@@ -7,6 +7,9 @@ family: Rubiaceae
 vol: 12
 pages: 154-156
 source: sources/Rubiaceae_vol12_paddle
+countries: [Gabon, Guinea, Madagascar]
+in_region: true
+altitude_m: "1000"
 tags: [species, generated]
 ---
 # *Mussaenda arcuata* Lam. ex Poiret

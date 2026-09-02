@@ -7,6 +7,13 @@ family: Leguminosae
 vol: 49
 pages: 161-161
 source: sources/Millettiaspeciesfabaceae_vol49_liteparse
+countries: [Angola, Central African Republic, Gabon, Guinea, Sierra Leone]
+in_region: true
+subdivisions:
+  Gabon: [Haut-Ogooué, Nyanga]
+habit: "shrub"
+habitat: [secondary forest, riverine, rocky ground]
+altitude_m: "40–240"
 tags: [species, generated]
 ---
 # *Dalbergiella welwitschii* (Baker) Baker f.

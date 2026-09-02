@@ -7,6 +7,10 @@ family: Rubiaceae
 vol: 17
 pages: 172-175
 source: sources/Rubiaceae_vol17_paddle
+countries: [Angola, Cameroon, Gabon]
+in_region: true
+habit: "tree"
+habitat: [rocky ground]
 tags: [species, generated]
 ---
 # *Aidia rubens* (Hiern) Taylor
@@ -68,11 +72,11 @@ N. Hallé 2315, Haut-Abanga (fl. juin); 3370, Bélinga (fr. v. nov.). G. Le Test
 
 ![Aidia rubens](../sources/Rubiaceae_vol17_paddle/figures/fig_038_p0171.png)
 
-*Fig. 1. — Aidia rubens (Hiern) Taylor (N. Hallé 4530) : 1, vue d'ensemble d'un pied à port d'étrangleur; 2, détail du même; 3, jeune pied moussu croissant sur rocher (N. Hallé 4591).*
+*Fig. 1. — Aidia rubens (Hiern) Taylor (N. Hallé 4530) : 1, overall view of a tree with strangler habit; 2, detail of the same; 3, young mossy tree growing on rock (N. Hallé 4591).*
 
 ![Aidia rubens](../sources/Rubiaceae_vol17_paddle/figures/fig_039_p0173.png)
 
-*PL. 38. — Aidia ochroleuca (K. Schum.) Petit (Le Testu 1871) : 1, inflorescence × 0,6; 2, détail d'inflorescence; 3, fleur × 3; 4, anthère × 6,5; 5, style; 6, placentation; 7, infrutescence × 0,6 (N. H. 3370); 8, graine × 6 (Compère 1681). — A. rubens (Hiern) Taylor (11 à 13 N. H. 5207) : 9, stipules × 2; 10, très jeune bouton couronné par les sépales (A. Chev. 26933); 11, infrutescence × 0,6; 12, jeune fruit; 13, fruit plein × 2.*
+*PL. 38. — Aidia ochroleuca (K. Schum.) Petit (Le Testu 1871) : 1, inflorescence × 0,6; 2, inflorescence detail; 3, flower × 3; 4, anther × 6,5; 5, style; 6, placentation; 7, fruiting inflorescence × 0,6 (N. H. 3370); 8, seed × 6 (Compère 1681). — A. rubens (Hiern) Taylor (11 to 13 N. H. 5207) : 9, stipules × 2; 10, very young bud crowned by the sepals (A. Chev. 26933); 11, fruiting inflorescence × 0,6; 12, young fruit; 13, full fruit × 2.*
 
 ## Notes
 

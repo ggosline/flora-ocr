@@ -7,6 +7,13 @@ family: Convolvulaceae
 vol: 46
 pages: 57-57
 source: sources/Convolvulaceae_vol46_liteparse
+countries: [Angola, Cameroon, Democratic Republic of the Congo, Equatorial Guinea, Gabon]
+in_region: true
+subdivisions:
+  Gabon: [Ogooué-Ivindo, Ogooué-Lolo, Woleu-Ntem]
+habit: "liana"
+habitat: [secondary forest]
+altitude_m: "550"
 tags: [species, generated]
 ---
 # *Neuropeltis incompta* R.D.Good Planche 24

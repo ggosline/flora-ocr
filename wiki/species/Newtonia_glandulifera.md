@@ -7,6 +7,9 @@ family: Leguminosae
 vol: 31
 pages: 55-57
 source: sources/Leguminosae_vol31_paddle
+countries: [Democratic Republic of the Congo, Gabon]
+in_region: true
+habit: "tree"
 tags: [species, generated]
 ---
 # *Newtonia glandulifera* (Pellegrin) Gilbert & Boutique
@@ -51,7 +54,7 @@ Florence 470 part 1, Ipassa, 10 km S Makokou. Le Testu 8051, Moucoundangoy (fl.,
 
 ![Newtonia glandulifera](../sources/Leguminosae_vol31_paddle/figures/fig_024_p0056.png)
 
-*PL. 13. – Newtonia glandulifera (Pellegr.) Gilbert & Bout.: 1, aspect général × 0,5; 2, foliole × 1,5; 3, rameau, détail × 3; 4, 4', rachis, détail × 3; 5, boutons floraux × 6; 6, fleur × 6; 7, fleur, coupe longitudinale × 6; 7', ovule × 36; 8, pétale, face interne × 6; 9, pistil × 12; 10, 11, 12, anthère × 12. (1, 2, 4, 4', Le Testu 8051; 1, 3, 5-12, Le Testu 8823).*
+*PL. 13. – Newtonia glandulifera (Pellegr.) Gilbert & Bout.: 1, general aspect × 0,5; 2, leaflet × 1,5; 3, branch, detail × 3; 4, 4', rachis, detail × 3; 5, floral buds × 6; 6, flower × 6; 7, flower, longitudinal section × 6; 7', ovule × 36; 8, petal, internal face × 6; 9, pistil × 12; 10, 11, 12, anther × 12. (1, 2, 4, 4', Le Testu 8051; 1, 3, 5-12, Le Testu 8823).*
 
 ## Notes
 

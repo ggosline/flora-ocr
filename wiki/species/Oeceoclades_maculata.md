@@ -7,6 +7,9 @@ family: Orchidaceae
 vol: 37
 pages: 79-81
 source: sources/Orchidaceae_vol37_paddle
+countries: [Angola, Burundi, Central African Republic, Cote d'Ivoire, Democratic Republic of the Congo, Gabon, Ghana, Guinea-Bissau, Liberia, Nigeria, Sao Tome and Principe, Senegal, Sierra Leone, Sudan, Tanzania, Togo, Uganda, Zambia, Zimbabwe]
+in_region: true
+habitat: [savanna, rocky ground]
 tags: [species, generated]
 ---
 # *Oeceoclades maculata* (Lindl.) Lindl.
@@ -59,7 +62,7 @@ Hallé & Villiers 4250, Libreville, Sainte Marie mission (fl. Jan.), P!.
 
 ![Oeceoclades maculata](../sources/Orchidaceae_vol37_paddle/figures/fig_031_p0082.png)
 
-*PL. 137. – Oeceoclades maculata (Lindl.) Lindl.: A, labelle et éperon étalés ; B, labelle et éperon, vue latérale ; C, sépale dorsal ; D, pétale ; E, sépale latérale. – Oeceoclades saundersiana (Rchb.f.) Garay & Taylor : F, labelle et éperon étalés ; G, labelle et éperon, vue latérale ; H, pétale ; I, sépale dorsal ; J, sépale latérale (A-E, Tisserant 2075, P ; F-J, Bos 6605, P).*
+*PL. 137. – Oeceoclades maculata (Lindl.) Lindl.: A, labellum and spur spread ; B, labellum and spur, lateral view ; C, dorsal sepal ; D, petal ; E, lateral sepal. – Oeceoclades saundersiana (Rchb.f.) Garay & Taylor : F, labellum and spur spread ; G, labellum and spur, lateral view ; H, petal ; I, dorsal sepal ; J, lateral sepal (A-E, Tisserant 2075, P ; F-J, Bos 6605, P).*
 
 ![Oeceoclades maculata](../sources/Orchidaceae_vol37_paddle/figures/fig_143_p0253.png)
 

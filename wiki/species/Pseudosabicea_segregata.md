@@ -7,6 +7,8 @@ family: Rubiaceae
 vol: 12
 pages: 220-222
 source: sources/Rubiaceae_vol12_paddle
+countries: [Cameroon, Gabon]
+in_region: true
 tags: [species, generated]
 ---
 # *Pseudosabicea segregata* (Hiern) N. Hallé

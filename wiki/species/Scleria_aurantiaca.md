@@ -7,6 +7,12 @@ family: Cyperaceae
 vol: 44
 pages: 207-208
 source: sources/Cyperaceae_vol44_liteparse
+countries: [Gabon]
+in_region: true
+subdivisions:
+  Gabon: [Haut-Ogooué]
+habit: "herb"
+altitude_m: "435"
 tags: [species, generated]
 ---
 # *Scleria aurantiaca* Lye Figure 24b

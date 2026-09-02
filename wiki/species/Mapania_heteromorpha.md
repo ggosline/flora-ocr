@@ -7,6 +7,13 @@ family: Cyperaceae
 vol: 44
 pages: 169-170
 source: sources/Cyperaceae_vol44_liteparse
+countries: [Democratic Republic of the Congo, Gabon, Guinea]
+in_region: true
+subdivisions:
+  Gabon: [Estuaire, Haut-Ogooué, Ngounié, Ogooué-Ivindo, Ogooué-Lolo, Ogooué-Maritime, Woleu-Ntem]
+habit: "herb"
+habitat: [mangrove]
+altitude_m: "0–700"
 tags: [species, generated]
 ---
 # *Mapania heteromorpha* (Nelmes) Lye Planche 110(3-5)

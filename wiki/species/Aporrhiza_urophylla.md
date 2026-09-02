@@ -7,6 +7,9 @@ family: Sapindaceae
 vol: 23
 pages: 160-160
 source: sources/Sapindaceae_vol23_paddle
+countries: [Cameroon, Cote d'Ivoire, Ghana, Liberia, Sierra Leone]
+in_region: true
+habit: "tree"
 tags: [species, generated]
 ---
 # *Aporrhiza urophylla* Gilg

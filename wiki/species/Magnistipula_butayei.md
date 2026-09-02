@@ -25,7 +25,7 @@ Under this name, and the synonymous one of Hirtella butayei (De Wild.) Brenan, T
 
 ![Magnistipula butayei](../sources/Chrysobalanaceae_vol24_paddle/figures/fig_022_p0079.png)
 
-*PL. 22. — Magnistipula butayei ssp. sargosii (Pell.) White : 1, rameau avec feuilles × 2/3; 1′, feuille × 2/3; 2, stipule × 2; 3, bourgeons et écailles × 3; 4, bouton floral × 4; 5, fleur entr'ouverte × 4, 6, pétale × 6; 7, fleur ouverte (pét. excl.) × 6. (1-2, Letouzey 10259; 3, Aubréville 1231, Côté d'Ivoire; 4-7, Sargos 37, Congo).*
+*PL. 22. — Magnistipula butayei ssp. sargosii (Pell.) White : 1, branch with leaves × 2/3; 1′, leaf × 2/3; 2, stipule × 2; 3, buds and scales × 3; 4, floral bud × 4; 5, partially open flower × 4, 6, petal × 6; 7, open flower (petals excl.) × 6. (1-2, Letouzey 10259; 3, Aubréville 1231, Ivory Coast; 4-7, Sargos 37, Congo).*
 
 ## Notes
 

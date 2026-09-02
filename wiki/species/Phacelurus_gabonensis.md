@@ -34,7 +34,7 @@ de Wilde, Sosef & van Nek 10186, 23.01.1991, 0°40'N-10°19'E, Crystal Mts, 1 km
 
 ![Phacelurus gabonensis](../sources/Gramineae_vol5bis_paddle/figures/fig_015_p0054.png)
 
-*Pl. 15. - Rhytachne rottboellioides Desv. : 1, aspect de la plante ; 2, épillet sessile ; 3, pédicelle et entre-nœud ; 4, paire d'épillets et entre-nœud ; - Phacelurus gabonensis (Steud) Clayton : 5, aspect de la plante ; 6, 7, paire d'épillet et entre-nœud. - Autorisation de reproduction : cf. Remerciements p. 68.*
+*Pl. 15. - Rhytachne rottboellioides Desv. : 1, aspect of the plant ; 2, sessile spikelet ; 3, pedicel and internode ; 4, pair of spikelets and internode ; - Phacelurus gabonensis (Steud) Clayton : 5, aspect of the plant ; 6, 7, pair of spikelet and internode. - Reproduction authorization: cf. Acknowledgments p. 68.*
 
 ## Notes
 

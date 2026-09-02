@@ -7,6 +7,11 @@ family: Cyperaceae
 vol: 44
 pages: 148-150
 source: sources/Cyperaceae_vol44_liteparse
+countries: [Gabon]
+in_region: true
+subdivisions:
+  Gabon: [Ogooué-Maritime, Woleu-Ntem]
+altitude_m: "0–500"
 tags: [species, generated]
 ---
 # *Fimbristylis quinquangularis* (Vahl) Kunth Planche 97

@@ -7,6 +7,12 @@ family: Commelinaceae
 vol: 55
 pages: 65-67
 source: sources/Commelinaceae_vol55_liteparse
+countries: [Gabon, Republic of the Congo]
+in_region: true
+subdivisions:
+  Gabon: [Estuaire, Haut-Ogooué]
+habit: "herb"
+altitude_m: "500"
 tags: [species, generated]
 ---
 # *Palisota fadenii* Burg & E.Bidault Planche 19

@@ -6,6 +6,12 @@ genus: Hoslundia
 vol: 58
 pages: 65-67
 source: sources/Labiataeulmaceaeverbenaceae_vol58_liteparse
+countries: [Angola, Cameroon, Central African Republic, Democratic Republic of the Congo, Equatorial Guinea, Gabon, Madagascar, Nigeria, Republic of the Congo]
+in_region: true
+subdivisions:
+  Gabon: [Ogooué-Ivindo, Woleu-Ntem]
+habit: "shrub"
+altitude_m: "500"
 tags: [species, generated]
 ---
 # *Hoslundia opposita* Vahl Planche 14

@@ -7,6 +7,11 @@ family: Putranjivaceae
 vol: 57
 pages: 137-138
 source: sources/Putranjivaceae_vol57_paddle
+countries: [Cameroon, Central African Republic, Equatorial Guinea, Gabon, Republic of the Congo]
+in_region: true
+subdivisions:
+  Gabon: [Estuaire]
+habit: "tree"
 tags: [species, generated]
 ---
 # *Drypetes fallax* Pax & K.Hoffm.

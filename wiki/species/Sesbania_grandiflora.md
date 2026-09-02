@@ -7,6 +7,12 @@ family: Leguminosae
 vol: 49
 pages: 348-348
 source: sources/Millettiaspeciesfabaceae_vol49_liteparse
+countries: [Gabon]
+in_region: true
+subdivisions:
+  Gabon: [Estuaire]
+habit: "tree"
+altitude_m: "800"
 tags: [species, generated]
 ---
 # *Sesbania grandiflora* (L.) Poir.

@@ -7,6 +7,9 @@ family: Lepidobotryaceae
 vol: 21
 pages: 44-45
 source: sources/Lepidobotryaceae_vol21_paddle
+countries: [Cameroon, Central African Republic, Democratic Republic of the Congo, Gabon, Nigeria]
+in_region: true
+habit: "tree"
 tags: [species, generated]
 ---
 # *Lepidobotrys staudtii* Engler
@@ -41,7 +44,7 @@ Le Testu 9331, Mitzic (fl., oct.).
 
 ![Lepidobotrys staudtii](../sources/Lepidobotryaceae_vol21_paddle/figures/fig_010_p0043.png)
 
-*PL. 10. — Lepidobotrys staudtii Engl.: 1, rameau florifère × 1 (Bouquet 691); 2, détail d'un jeune rameau × 2 (Letouzey 3884); 3, centre d'une fleur ♂ disque coupé × 6 (Le Testu 9331); 4, centre d'une fleur ♀ × 6 (Tisserant 2331); 5, fruits × 1,5 (Tisserant 640); 6, graine × 1,5.*
+*PL. 10. — Lepidobotrys staudtii Engl.: 1, flowering branch × 1 (Bouquet 691); 2, detail of a young branch × 2 (Letouzey 3884); 3, center of a ♂ flower disk cut × 6 (Le Testu 9331); 4, center of a ♀ flower × 6 (Tisserant 2331); 5, fruits × 1,5 (Tisserant 640); 6, seed × 1,5.*
 
 ## Notes
 

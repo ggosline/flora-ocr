@@ -7,6 +7,9 @@ family: Rubiaceae
 vol: 17
 pages: 274-276
 source: sources/Rubiaceae_vol17_paddle
+countries: [Cameroon, Gabon]
+in_region: true
+habit: "shrub"
 tags: [species, generated]
 ---
 # *Neorosea testui* N. Hallé, sp. nov.
@@ -56,7 +59,7 @@ Il se pourrait qu'un matériel florifère plus abondant permette d'élever ce ta
 
 ![Neorosea testui](../sources/Rubiaceae_vol17_paddle/figures/fig_064_p0276.png)
 
-*Fig. 2. — Neorosea Testui N. Hallé var. pseudosalacia N. Hallé (N. H. 3448): 1, jeune bouton de 3 mm de diamètre; 2, anthère de jeune bouton, hauteur 2,1 mm, recto et verso; 3, id. en coupe transversale; 4, style de jeune bouton, hauteur 4 mm; 5, fruit mùr × 1; 6, coupe transversale in vivo du fruit mùr, diam. 2 cm; 7, id. schéma montrant l'attache des graines sur les placentas; 8, graine de 11 mm; 9, embryon de 5,2 mm.*
+*Fig. 2. — Neorosea Testui N. Hallé var. pseudosalacia N. Hallé (N. H. 3448): 1, young bud of 3 mm diameter; 2, anther of young bud, height 2.1 mm, front and back; 3, id. in transverse section; 4, style of young bud, height 4 mm; 5, ripe fruit × 1; 6, transverse section in vivo of ripe fruit, diam. 2 cm; 7, id. diagram showing the attachment of seeds on the placentas; 8, seed of 11 mm; 9, embryo of 5.2 mm.*
 
 ## Notes
 

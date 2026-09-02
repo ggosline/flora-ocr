@@ -5,10 +5,10 @@ authority: Pierre ex R. Let.
 genus: Fagara
 family: Rutaceae
 synonyms: []
+treatments: [{vol: 6, pages: "18–21", source: sources/Rutaceae_vol6_paddle}]
 countries: [Gabon]
 in_region: true
-habit: shrub or small tree
-treatments: [{vol: 6, pages: "18–21", source: sources/Rutaceae_vol6_paddle}]
+habit: "tree"
 tags: [species, endemic]
 ---
 

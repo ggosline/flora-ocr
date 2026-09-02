@@ -7,6 +7,9 @@ family: Connaraceae
 vol: 33
 pages: 86-87
 source: sources/Connaraceae_vol33_paddle
+countries: [Angola, Cameroon, Democratic Republic of the Congo, Gabon, Nigeria]
+in_region: true
+habit: "liana"
 tags: [species, generated]
 ---
 # *Connarus staudtii* Gilg
@@ -55,7 +58,7 @@ Klaine 1961, env. de Libreville (Avr.), B, BR, K, P, WAG ; 2228 (fr., Juin), P ;
 
 ![Connarus staudtii](../sources/Connaraceae_vol33_paddle/figures/fig_032_p0088.png)
 
-*PL. 25. – Connarus staudtii Gilg : 1, rameau feuillé × 2/3 ; 2, fleur, vue partielle montrant les étamines et le pistil × 6 ; 3, follicule × 1 ; 4, graine, coupe longitudinale × 1 ; 5, idem sans le testa × 1. (1. Pauwels 6205 ; 2. Claessens 91 ; 3. Talbot 1427 ; 4-5. Klaine 1961). – Repris de AUWP 89 (6).*
+*PL. 25. – Connarus staudtii Gilg : 1, leafy branch × 2/3 ; 2, flower, partial view showing stamens and pistil × 6 ; 3, follicle × 1 ; 4, seed, longitudinal section × 1 ; 5, same without the testa × 1. (1. Pauwels 6205 ; 2. Claessens 91 ; 3. Talbot 1427 ; 4-5. Klaine 1961). – Reprinted from AUWP 89 (6).*
 
 ## Notes
 

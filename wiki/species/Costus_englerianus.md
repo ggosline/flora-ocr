@@ -6,11 +6,10 @@ genus: Costus
 family: Zingiberaceae
 family_current: Costaceae
 synonyms: [Costus unifolius N.E. Br.]
-countries: [Sierra Leone, Cameroon, Gabon]
-in_region: true
-habit: creeping rhizomatous herb
-habitat: [rainforest understorey]
 treatments: [{vol: 9, pages: "68–69", source: sources/Zingiberaceae_vol9_paddle}]
+countries: [Cameroon, Gabon, Sierra Leone]
+in_region: true
+habit: "herb"
 tags: [species]
 ---
 # *Costus englerianus* K. Schum.

@@ -7,6 +7,8 @@ family: Sapindaceae
 vol: 23
 pages: 104-108
 source: sources/Sapindaceae_vol23_paddle
+countries: [Central African Republic, Cote d'Ivoire, Ghana, Nigeria, Sierra Leone]
+in_region: true
 tags: [species, generated]
 ---
 # *Chytranthus atroviolaceus* Baker fil. ex Hutchinson & Dalziel
@@ -51,7 +53,7 @@ Le Testu 8504, Lastoursville (fl., nov.).
 
 ![Chytranthus atroviolaceus](../sources/Sapindaceae_vol23_paddle/figures/fig_024_p0107.png)
 
-*PL. 24. — Chytranthus atroviolaceus Bak. f. ex Hutch. & Dalz. : 1, fragment de feuille × 0,75; 2, base pétioira; 3, bouton × 5,5; 4, fleur ♂, diamètre 6 mm; 5, deux pétales de 11 mm; 6, disque de 3,4 mm; 7, anthère recto, verso, longueur 2 mm, et coupe transversale; 8, étan- mine, 9 mm; 9, coupe d'ovaire avorté, diamètre 0,6 mm; 10, ovaire vue latérale et coupe; 11, fruit à sec × 1 et sa coupe; 12, graine × 1, — (Letouzey 3669; 10 : N. Hallé 515 bis, Adiopodoumé, et 11 : Aké Assi s.n., San Pedro, Côté d'Ivoire).*
+*PL. 24. — Chytranthus atroviolaceus Bak. f. ex Hutch. & Dalz. : 1, leaf fragment × 0,75; 2, petiolar base; 3, bud × 5,5; 4, ♂ flower, diameter 6 mm; 5, two petals of 11 mm; 6, disk of 3,4 mm; 7, anther front, back, length 2 mm, and transverse section; 8, stamen, 9 mm; 9, section of aborted ovary, diameter 0,6 mm; 10, ovary lateral view and section; 11, dry fruit × 1 and its section; 12, seed × 1, — (Letouzey 3669; 10 : N. Hallé 515 bis, Adiopodoumé, et 11 : Aké Assi s.n., San Pedro, Ivory Coast).*
 
 ## Notes
 

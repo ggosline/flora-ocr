@@ -7,6 +7,7 @@ family: Apocynaceae
 vol: 59
 pages: 134-137
 source: sources/Apocynaceae_vol59_liteparse
+habit: "liana"
 tags: [species, generated]
 ---
 # *Landolphia letestui* (Pellegr.) Pichon Planche 58 ; Figure 7(D, E)

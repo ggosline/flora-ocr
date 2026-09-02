@@ -4,10 +4,8 @@ name: Aframomum masuanum
 authority: (De Wild. et Th. Dur.) K. Schum.
 genus: Aframomum
 family: Zingiberaceae
-countries: [Gabon, Democratic Republic of the Congo]
-in_region: true
-habit: rhizomatous herb
 treatments: [{vol: 9, pages: "40–42", source: sources/Zingiberaceae_vol9_paddle}]
+habit: "herb"
 tags: [species]
 ---
 # *Aframomum masuanum* (De Wild. et Th. Dur.) K. Schum.

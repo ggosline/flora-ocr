@@ -7,6 +7,9 @@ family: Sapindaceae
 vol: 23
 pages: 167-168
 source: sources/Sapindaceae_vol23_paddle
+countries: [Cameroon, Democratic Republic of the Congo, Gabon]
+in_region: true
+habit: "tree"
 tags: [species, generated]
 ---
 # *Lychnodiscus grandifolius* Radlkofer
@@ -63,11 +66,11 @@ Grand arbuste à arbre; rameaux à 5-6 cannelures, 8-10 mm de diamètre. Feuille
 
 ![Lychnodiscus grandifolius](../sources/Sapindaceae_vol23_paddle/figures/fig_042_p0167.png)
 
-*Fig. 2. — Lychnodiscus grandifolius Radlk. : 1, 2, graine, 30 mm, face hilaire et profil; 3, embryon, cotylédons superposés, radicule opposée au hile (Letouzey 7365); 4, fruit après déhiscence (Nana Pierre 2738). — Lychnodiscus dananensis Aubr. & Pellegrin : 5, fruit, 25 mm (Aubréville 1227, Côte d'Ivoire); 6, graine, 1 cm; 7, jeune fruit, 15 mm (Tisserant 2572, R.C.A.).*
+*Fig. 2. — Lychnodiscus grandifolius Radlk. : 1, 2, seed, 30 mm, hilum face and profile; 3, embryo, cotyledons superimposed, radicle opposite the hilum (Letouzey 7365); 4, fruit after dehiscence (Nana Pierre 2738). — Lychnodiscus dananensis Aubr. & Pellegrin : 5, fruit, 25 mm (Aubréville 1227, Ivory Coast); 6, seed, 1 cm; 7, young fruit, 15 mm (Tisserant 2572, C.A.R.).*
 
 ![Lychnodiscus grandifolius](../sources/Sapindaceae_vol23_paddle/figures/fig_043_p0169.png)
 
-*PL. 38. — Lychnodiscus grandifolius Radlk. (1-6°, Zenker s.n.; 7, 7', Zenker 3524) : 1, foliole de l'avant dernière paire  $ 23 \times 9 $ cm; 2, inflorescence 30 cm; 2', cymules; 3, bouton et 1/2 coupe large de 3,5 mm; 4, 4', 4", anthère, faces interne, externe et profil; 5, fleur et 1/2 coupe, diamètre 5 mm; 5', poils du calice 0,1 mm; 6, 6', pétale, face externe, profil et coupe; 7, 7', pétale d'un bouton, faces interne et externe. — Laccodiscus ferrugineus Radlk. (8-13, Letouzey 4013; 14-17, Raynal 10390) : 8, foliole 7° paire  $ 20 \times 5 $, 5 cm; 9, inflorescence 46 cm; 9', cymules; 10, préfloraison; 11, bouton et 1/2 coupe, diamètre 3 mm; 12, pétale, face interne et profil; 12", étanime face interne; 13, disque; 14, fruit submature 15 mm; 15, début de déhiscence loculicide; 15', intérieur soyeux d'une loge; 16, 16', graine 12 mm, profil et côté hile; 17, cotylédons.*
+*PL. 38. — Lychnodiscus grandifolius Radlk. (1-6°, Zenker s.n.; 7, 7', Zenker 3524) : 1, leaflet of the penultimate pair $ 23 \times 9 $ cm; 2, inflorescence 30 cm; 2', cymules; 3, bud and 1/2 section 3.5 mm wide; 4, 4', 4", anther, internal, external and profile views; 5, flower and 1/2 section, 5 mm diameter; 5', calyx hairs 0.1 mm; 6, 6', petal, external surface, profile and section; 7, 7', petal of a bud, internal and external surfaces. — Laccodiscus ferrugineus Radlk. (8-13, Letouzey 4013; 14-17, Raynal 10390) : 8, leaflet 7th pair $ 20 \times 5 $, 5 cm; 9, inflorescence 46 cm; 9', cymules; 10, prefloration; 11, bud and 1/2 section, 3 mm diameter; 12, petal, internal surface and profile; 12", stamen internal surface; 13, disk; 14, submature fruit 15 mm; 15, beginning of loculicidal dehiscence; 15', silky interior of a locule; 16, 16', seed 12 mm, profile and hilum side; 17, cotyledons.*
 
 ## Notes
 

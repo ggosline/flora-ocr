@@ -7,6 +7,9 @@ family: Leguminosae
 vol: 31
 pages: 106-107
 source: sources/Leguminosae_vol31_paddle
+countries: [Gabon]
+in_region: true
+habit: "tree"
 tags: [species, generated]
 ---
 # *Calpocalyx brevifolius* Villiers
@@ -41,7 +44,7 @@ Le Testu 1732, Tchibanga (fl., mai).
 
 ![Calpocalyx brevifolius](../sources/Leguminosae_vol31_paddle/figures/fig_039_p0108.png)
 
-*PL. 27. - Calpocalyx brevifolius Villiers : 1, aspect général x 0,5 ; 2, pétiole, sommet x 8,5 ; 3, pétiole, coupe transversale schématique ; 4, axe penne, détail x 8,5 ; 5, limbe face supérieure, détail x 1,5 ; 6, limbe, face inférieure, détail x 1,5 ; 7, 7', bractéole x 17 ; 8, bouton floral x 12,5 ; 9, fleur 6 x 9 ; 10, anthère x 16,5 ; 11, pistil x 4,5. (Le Testu 1732). - Repris du Bull. Mus. natn. Hist. nat., Paris, 4° sér., 6, 1984, sect. B, Adansonia 3 : 303.*
+*PL. 27. - Calpocalyx brevifolius Villiers : 1, general aspect x 0.5 ; 2, petiole, apex x 8.5 ; 3, petiole, schematic transverse section ; 4, pinnate axis, detail x 8.5 ; 5, blade upper surface, detail x 1.5 ; 6, blade, lower surface, detail x 1.5 ; 7, 7', bracteole x 17 ; 8, floral bud x 12.5 ; 9, flower x 9 ; 10, anther x 16.5 ; 11, pistil x 4.5. (Le Testu 1732). - Reprinted from Bull. Mus. natn. Hist. nat., Paris, 4° ser., 6, 1984, sect. B, Adansonia 3 : 303.*
 
 ## Notes
 

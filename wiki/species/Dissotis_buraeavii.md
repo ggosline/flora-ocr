@@ -7,6 +7,9 @@ family: Melastomataceae
 vol: 25
 pages: 20-26
 source: sources/Melastomataceae_vol25_paddle
+countries: [Gabon]
+in_region: true
+habit: "shrub"
 tags: [species, generated]
 ---
 # *Dissotis buraeavii* (Cogniaux) A. & R. Fernandes
@@ -81,7 +84,7 @@ Heliophilous species of fresh soil at moderate altitude, excluded from forest bi
 
 ![Dissotis buraeavii](../sources/Melastomataceae_vol25_paddle/figures/fig_005_p0021.png)
 
-*PL. 5. — Dissotis buraeavii (Cogn.) A. & R. Fern.: 1, aspect général × 2/3; 2, bractée × 4; 3, lobe du calice et émergence intersépalaire × 4; 4, étamines, interne et externe × 6; 5, capsule × 3 (Sita 3088). — Dissotis glaberrima A. & R. Fern.: 6, capsule × 3 (Sita 3092).*
+*PL. 5. — Dissotis buraeavii (Cogn.) A. & R. Fern.: 1, general aspect × 2/3; 2, bract × 4; 3, calyx lobe and intersepal emergence × 4; 4, stamens, internal and external × 6; 5, capsule × 3 (Sita 3088). — Dissotis glaberrima A. & R. Fern.: 6, capsule × 3 (Sita 3092).*
 
 ![Dissotis buraeavii](../sources/Melastomataceae_vol25_paddle/figures/fig_006_p0023.png)
 

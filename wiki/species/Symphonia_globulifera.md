@@ -7,6 +7,11 @@ family: Clusiaceae
 vol: 45
 pages: 48-52
 source: sources/Clusiaceae_vol45_liteparse
+countries: [Angola, Gabon, Guinea-Bissau, Madagascar, Tanzania, Zambia]
+in_region: true
+habit: "tree"
+habitat: [swamp forest, secondary forest]
+altitude_m: "600"
 tags: [species, generated]
 ---
 # *Symphonia globulifera* L.f. Planche 12
@@ -17,25 +22,15 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-S. gabonensis (Vesque) Pierre, Bull. Soc. Linn. Paris 2 : 1228 (1896). S. gabonensis (Vesque) Pierre var. macrantha Hutch. & Dalziel, Fl. W. trop. Afr. 1 : 235 (1927). Arbre jusqu’à 30( ‒ 40) m de hauteur, glabre ; tronc droit, jusqu’à 80( ‒ 100) cm de diamètre, parfois à racines-échasses ou racines aériennes ; écorce lisse à zones rugueuses craquelées, brun foncé à brun rougeâtre ; latex jaune mais rougissant à l’air ; ramifications horizontales ; rameaux brun noirâtre. Feuille : pétiole 5 ‒ 20 mm ; limbe oblong ou elliptique à oblancéolé ou obovale, 5 ‒ 12,5 × 1 ‒ 5 cm, cunéé à la base, effilé à acuminé au sommet, coriace ; nervures latérales nombreuses, proéminentes dessous, parfois lignes glanduleuses foncées visibles, les translucides parallèles aux nervures latérales parfois visibles, réticulation apparente surtout vers le bord du limbe . Inflorescence en cymes
-
-Holmes 1249 ). Dessin par L. Milne-Redhead (©), reproduit avec permission à partir de Robson (1961).
-
-ombelliformes ou corymbiformes, pluriflores. Fleur : pédicelle 0,5 ‒ 2,5 cm, rougeâtre ; sépales suborbiculaires à réniformes, 2 ‒ 5 × 2,5 ‒ 7 mm, la marge glabre ou ciliée ; pétales suborbiculaires, 7 ‒ 17 × 13 ‒ 20 mm, rouges, écarlates à rouge jaunâtre ; disque 1,5 ‒ 4 mm de hauteur, à bord entier ou ondulé ; tube staminal 3,5 ‒ 10 mm de hauteur, à phalanges de 3,5 ‒ 7 mm de longueur, chacune à 3 ‒ 4 anthères linéaires de 2 ‒ 5 mm et disposées sur la face interne, connectif à sommet triangulaire ; ovaire ovoïde ou en tonneau, 2,5 ‒ 4 × 1,5 ‒ 3 mm, à (1 ‒ )2 ‒ 4 ovules par loge ; styles (3 ‒ )5 ‒ 7 mm, épais, les parties libres environ 2 mm. Fruit à 1 ‒ 2( ‒ 3) graines, ovoïde ou ellipsoïde à subglobuleux, 2,5 ‒ 4,5 × 2 ‒ 3,5 cm, verruqueux , rouge devenant brun. Graine ovoïde, 15 ‒ 20 × 10 ‒ 15 mm ; testa mince, marbré.
+S. gabonensis (Vesque) Pierre, Bull. Soc. Linn. Paris 2 : 1228 (1896). S. gabonensis (Vesque) Pierre var. macrantha Hutch. & Dalziel, Fl. W. trop. Afr. 1 : 235 (1927). Tree up to 30(–40) m tall, glabrous; trunk straight, up to 80(–100) cm in diameter, sometimes with stilt roots or aerial roots; bark smooth with cracked rugose zones, dark brown to reddish-brown; latex yellow but reddening in air; branching horizontal; branchlets dark brownish. Leaf: petiole 5–20 mm; blade oblong or elliptic to oblanceolate or obovate, 5–12.5 × 1–5 cm, cuneate at base, tapered to acuminate at apex, coriaceous; lateral nerves numerous, prominent beneath, sometimes with dark glandular lines visible, the translucent ones parallel to lateral nerves sometimes visible, reticulation apparent especially towards the margin of the blade. Inflorescence in umbelliform or corymbiform cymes, pluriflorous. Flower: pedicel 0.5–2.5 cm, reddish; sepals suborbicular to reniform, 2–5 × 2.5–7 mm, margin glabrous or ciliate; petals suborbicular, 7–17 × 13–20 mm, red, scarlet to yellowish-red; disk 1.5–4 mm tall, with entire or undulate margin; staminal tube 3.5–10 mm tall, with phalanges of 3.5–7 mm length, each with 3–4 linear anthers of 2–5 mm and arranged on the inner face, connective with triangular apex; ovary ovoid or barrel-shaped, 2.5–4 × 1.5–3 mm, with (1–)2–4 ovules per locule; styles (3–)5–7 mm, thick, the free parts about 2 mm. Fruit with 1–2(–3) seeds, ovoid or ellipsoid to subglobose, 2.5–4.5 × 2–3.5 cm, verrucose, red becoming brown. Seed ovoid, 15–20 × 10–15 mm; testa thin, marbled.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Amérique tropicale depuis le Mexique jusqu’au Brésil, et en Afrique tropicale depuis la Guinée-Bissau jusqu’en Tanzanie, à l’ouest de la Zambie et en Angola, peut-être aussi à Madagascar ; au Gabon, assez commune dans tout le pays
+Tropical America from Mexico to Brazil, and in tropical Africa from Guinea-Bissau to Tanzania, west of Zambia and in Angola, perhaps also in Madagascar; in Gabon, fairly common throughout the country
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-forêt primaire et secondaire, forêt marécageuse d’eau douce ; au Gabon, jusqu’à 600 m d’altitude, ailleurs jusqu’à 2550 m
+primary and secondary forest, freshwater swamp forest; in Gabon, up to 600 m altitude, elsewhere up to 2550 m
 
 ## Vernacular names
 
@@ -43,9 +38,7 @@ mani, manil de marécage (fr.) ; boarwood, chew stick, hog gum (angl.) ; manil (
 
 ## Uses
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Le bois d’usage courant est employé dans la construction, la parqueterie et la charpente, ainsi que pour les traverses de chemin de fer, la tonnellerie et en emploi traditionnel pour faire des manches d’outils et des pirogues. Il convient pour la fabrication de contreplaqué. Le latex est employé comme colle et pour calfater les embarcations et étanchéifier les calebasses. On l’utilise aussi pour faire des torches et des chandelles. On utilise la gomme en traitement interne pour traiter la blennorragie et comme diurétique. Un tonique préparé à partir de l’écorce est un médicament stomachique, et un extrait de l’écorce est appliqué pour soigner l’onchocercose. Au Gabon, on emploie l’écorce comme émétique pour traiter les maladies des voies respiratoires, et des applications de gomme servent à traiter la gale. En Ouganda, on utilise l’écorce pour traiter la toux chez les enfants. Note taxonomique : Une étude moléculaire (Dick et al., 2003) a signalé une différence entre les populations de l’Amérique et celles de l’Afrique, mais sans support morphologique, il n’est pas souhaitable de diviser l’espèce en deux taxons (sous-espèces par exemple). Bi : Bamps (1970a), Bamps et al. (1978), Dick et al. (2003), Oyen (2008), B liographie Robson (1961)
+The timber is commonly used in building, parquetry and carpentry, as well as for railway sleepers, cooperage and in traditional use for making tool handles and canoes. It is suitable for plywood manufacture. The latex is used as an adhesive and for caulking boats and waterproofing gourds. It is also used for making torches and candles. The gum is used in internal treatment for gonorrhea and as a diuretic. A tonic prepared from the bark is a stomachic medicine, and an extract of the bark is applied to treat onchocerciasis. In Gabon, the bark is used as an emetic to treat respiratory diseases, and gum applications are used to treat scabies. In Uganda, the bark is used to treat cough in children. Taxonomic note: A molecular study (Dick et al., 2003) reported a difference between populations from America and those from Africa, but without morphological support, it is not desirable to divide the species into two taxa (subspecies for example). Bi: Bamps (1970a), Bamps et al. (1978), Dick et al. (2003), Oyen (2008), B liography Robson (1961)
 
 15.358 5 .203- 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3
 

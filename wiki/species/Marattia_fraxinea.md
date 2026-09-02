@@ -7,6 +7,8 @@ family: Pteridophytes
 vol: 08
 pages: 38-45
 source: sources/Salviniaceae_vol08_paddle
+countries: [Guinea]
+in_region: false
 tags: [species, generated]
 ---
 # *Marattia fraxinea* J. Smith

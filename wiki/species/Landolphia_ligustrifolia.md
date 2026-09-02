@@ -7,6 +7,7 @@ family: Apocynaceae
 vol: 59
 pages: 137-137
 source: sources/Apocynaceae_vol59_liteparse
+habit: "liana"
 tags: [species, generated]
 ---
 # *Landolphia ligustrifolia* (Stapf) Pichon Planche 48(7-17) ; Figure 8(A, B)

@@ -69,7 +69,7 @@ Louis 2890, 13.10.1988, 2°01'N-12°20'E, rive droite du Ntem, entre Minvoul et 
 
 ![Mnesithea kunth](../sources/Gramineae_vol5bis_paddle/figures/fig_011_p0044.png)
 
-*Pl. 11. - Monocymbium ceresiiforme (Nees) Stapf : 1, aspect de la plante ; 2, spathéole ; 3, 4, paire d'épillet et entre-nœud ; 5, lemma supérieure. - Oryza barthii A. Chev. : 6, aspect de la plante ; 7, épillet. - Autorisation de reproduction : cf. Remerciements p. 68.*
+*Pl. 11. - Monocymbium ceresiiforme (Nees) Stapf : 1, aspect of the plant ; 2, spathelet ; 3, 4, pair of spikelet and internode ; 5, upper lemma. - Oryza barthii A. Chev. : 6, aspect of the plant ; 7, spikelet. - Reproduction authorization: cf. Acknowledgments p. 68.*
 
 ## Notes
 

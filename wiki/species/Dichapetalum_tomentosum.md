@@ -7,6 +7,8 @@ family: Dichapetalaceae
 vol: 32
 pages: 180-183
 source: sources/Dichapetalaceae_vol32_paddle
+countries: [Cameroon, Democratic Republic of the Congo, Gabon, Nigeria]
+in_region: true
 tags: [species, generated]
 ---
 # *Dichapetalum tomentosum* Engler
@@ -79,7 +81,7 @@ de Wilde & al. 286, 20 km au N.O. d'Asok (fl., j. fr., Janv.).
 
 ![Dichapetalum tomentosum](../sources/Dichapetalaceae_vol32_paddle/figures/fig_054_p0182.png)
 
-*PL. 53 – Dichapetalum tomentosum Engler : 1, rameau florifère × 0,8 ; 2, rameau avec lenticelles, détail × 0,8 ; aisselle foliaire et stipule, 3, vue supérieure et 4, vue inférieure × 0,8 ; 5, fleur × 5 ; 6, fleur, détail × 7,5 ; 7, infrutescence × 0,8 (1, 2, 4, 5, Bos 3269 ; 3, 4, Leeuwenberg 5530 ; 5-7, Breteler 2927). – Repris de MLW 82 (8) : 52 (1982).*
+*PL. 53 – Dichapetalum tomentosum Engler : 1, flowering branch × 0,8 ; 2, branch with lenticels, detail × 0,8 ; leaf axil and stipule, 3, upper view and 4, lower view × 0,8 ; 5, flower × 5 ; 6, flower, detail × 7,5 ; 7, infructescence × 0,8 (1, 2, 4, 5, Bos 3269 ; 3, 4, Leeuwenberg 5530 ; 5-7, Breteler 2927). – Taken from MLW 82 (8) : 52 (1982).*
 
 ## Notes
 

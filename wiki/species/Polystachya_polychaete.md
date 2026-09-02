@@ -7,6 +7,9 @@ family: Orchidaceae
 vol: 37
 pages: 69-71
 source: sources/Orchidaceae_vol37_paddle
+countries: [Cameroon, Cote d'Ivoire, Democratic Republic of the Congo, Equatorial Guinea, Gabon, Ghana, Kenya, Liberia, Nigeria, Rwanda, Sierra Leone, Tanzania, Uganda]
+in_region: true
+habitat: [secondary forest, rocky ground]
 tags: [species, generated]
 ---
 # *Polystachya polychaete* Kraenzl.
@@ -51,7 +54,7 @@ J. M. & B. Reitsma, Breteler & Louis 1006, CEB site, 65 km SSW of Doussala, prim
 
 ![Polystachya polychaete](../sources/Orchidaceae_vol37_paddle/figures/fig_022_p0066.png)
 
-*PL. 129. – Polystachya calluniflora Kraenzl. : A, fleur et bractée florale ; B, labelle ; C, sépale latéral ; D, pétale ; E, sépale dorsal. – Polystachya polychaete Kraenzl. : F, fleur ; G, bractée florale ; H, labelle ; I, sépale dorsal ; J, pétale ; K, sépale latéral (A-E, Deistel 75, P ; F-K, Preuss 881, HBG).*
+*PL. 129. – Polystachya calluniflora Kraenzl.: A, flower and floral bract; B, labellum; C, lateral sepal; D, petal; E, dorsal sepal. – Polystachya polychaete Kraenzl.: F, flower; G, floral bract; H, labellum; I, dorsal sepal; J, petal; K, lateral sepal (A-E, Deistel 75, P; F-K, Preuss 881, HBG).*
 
 ![Polystachya polychaete](../sources/Orchidaceae_vol37_paddle/figures/fig_140_p0252.png)
 

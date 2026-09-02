@@ -7,6 +7,7 @@ family: Acanthaceae
 vol: 13
 pages: 164-168
 source: sources/Acanthaceae_vol13_paddle
+habit: "herb"
 tags: [species, generated]
 ---
 # *Barleria alata* S. Moore

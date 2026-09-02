@@ -4,11 +4,8 @@ name: Aframomum stipulatum
 authority: (Gagnep.) K. Schum.
 genus: Aframomum
 family: Zingiberaceae
-countries: [Senegal, Guinea, Côte d'Ivoire, Gabon, Republic of the Congo, Democratic Republic of the Congo]
-in_region: true
-habit: rhizomatous herb
-habitat: [savanna]
 treatments: [{vol: 9, pages: "47", source: sources/Zingiberaceae_vol9_paddle}]
+habit: "herb"
 tags: [species]
 ---
 # *Aframomum stipulatum* (Gagnep.) K. Schum.

@@ -5,10 +5,10 @@ authority: ""
 genus: Vepris
 family: Rutaceae
 synonyms: []
+treatments: [{vol: 6, pages: "72–76", source: sources/Rutaceae_vol6_paddle}]
 countries: [Gabon]
 in_region: true
-habit: shrub
-treatments: [{vol: 6, pages: "72–76", source: sources/Rutaceae_vol6_paddle}]
+habit: "shrub"
 tags: [species, unidentified]
 ---
 

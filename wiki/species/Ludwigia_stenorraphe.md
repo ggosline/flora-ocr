@@ -7,19 +7,16 @@ parent_species: Ludwigia stenorraphe
 genus: Ludwigia
 family: Onagraceae
 synonyms: [Jussiaea stenorraphe Brenan, Jussiaea suffruticosa var. stenosperma Berhaut]
-countries: [Senegal, Gabon, Sudan, Angola, Zambia]
-subdivisions:
-  Gabon: [Estuaire, Nyanga, Ogooué-Ivindo]
-countries_incomplete: true
-in_region: true
-habit: shrub or herb, woody at base
-habitat: [marsh grassland, floodplains, stream margins, savanna]
-altitude_m: "to 250 in Gabon; to 1200 elsewhere"
 treatments:
   - vol: 52
     year: 2018
     pages: "39–43"
     source: sources/Onagraceae_vol52_liteparse
+countries: [Angola, Gabon, Senegal, Sudan, Zambia]
+in_region: true
+subdivisions:
+  Gabon: [Estuaire, Nyanga, Ogooué-Ivindo]
+habit: "shrub"
 tags: [species]
 ---
 

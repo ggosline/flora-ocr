@@ -7,6 +7,7 @@ family: Gramineae
 vol: 05
 pages: 55-55
 source: sources/Gramineae_vol05_paddle
+habit: "herb"
 tags: [species, generated]
 ---
 # *Echinochloa pyramidalis* (Lam.) Hitch. et Chase

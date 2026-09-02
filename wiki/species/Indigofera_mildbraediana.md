@@ -7,6 +7,9 @@ family: Leguminosae
 vol: 49
 pages: 218-218
 source: sources/Millettiaspeciesfabaceae_vol49_liteparse
+countries: [Angola, Cameroon, Central African Republic, Gabon, Nigeria, Republic of the Congo, Sudan, Tanzania]
+in_region: true
+altitude_m: "100–1200"
 tags: [species, generated]
 ---
 # *Indigofera mildbraediana* J.B.Gillett

@@ -7,6 +7,7 @@ family: Sterculiaceae
 vol: 02
 pages: 20-24
 source: sources/Sterculiaceae_vol02_paddle
+habit: "tree"
 tags: [species, generated]
 ---
 # *Eribroma oblonga* (Mast.) Bodard.
@@ -60,11 +61,11 @@ R. P. Klaine : 498, 2456, env. de Libreville (fl. nov. déc.; fr. août). Le Tes
 
 ![Eribroma oblonga](../sources/Sterculiaceae_vol02_paddle/figures/fig_001_p0007.png)
 
-*PL. I. — Fleurs ouvertes en long : 1, Sterculia tragacantha ♂. — 2, Eribroma oblonga ♂. — 3, Pterygota bequaertii ♂. — 4, Tarrietia densiflora ♂. — 5, Chlamydocolachlamydanta ♂. — 6, Cola acuminata ♂. — 7, Cola (Neocourtenia) mahoundensis ♂. — 8, Octolobus heteromerus ♂. — 9, Triplochiton scleroxylon. — 10, Theobroma cacao. — 11, Scaphopetalum blackii. — 12, Byttneria grossedenticulata. — 13, Nesogordonia fouassieri. — 14, Leptonychia lasiogyne. — 15, Waltheria indica.*
+*PL. I. — Flowers opened lengthwise : 1, Sterculia tragacantha ♂. — 2, Eribroma oblonga ♂. — 3, Pterygota bequaertii ♂. — 4, Tarrietia densiflora ♂. — 5, Chlamydocolachlamydanta ♂. — 6, Cola acuminata ♂. — 7, Cola (Neocourtenia) mahoundensis ♂. — 8, Octolobus heteromerus ♂. — 9, Triplochiton scleroxylon. — 10, Theobroma cacao. — 11, Scaphopetalum blackii. — 12, Byttneria grossedenticulata. — 13, Nesogordonia fouassieri. — 14, Leptonychia lasiogyne. — 15, Waltheria indica.*
 
 ![Eribroma oblonga](../sources/Sterculiaceae_vol02_paddle/figures/fig_004_p0021.png)
 
-*PL. IV. — 1. Sterculia rhinopetala K. Schum., feuille. — 2. Eribroma oblonga (Mast.) Bod., rameau florifère; 3. fleur ♂ épanouie; 4. bouton floral; 5. gynécée (Jacques-Félix 2407 bis, Cameroun); 6. bractées d'une très jeune inflorescence, longues de 3 mm; 7. follicule mùr long de 11,5 cm; 8. graine longue de 21 mm, vue latérale et coupe longitudinale (hile en bas).*
+*PL. IV. — 1. Sterculia rhinopetala K. Schum., leaf. — 2. Eribroma oblonga (Mast.) Bod., flowering branch; 3. open male flower; 4. floral bud; 5. gynoecium (Jacques-Félix 2407 bis, Cameroun); 6. bracts of a very young inflorescence, 3 mm long; 7. ripe follicle 11,5 cm long; 8. seed 21 mm long, viewed laterally and longitudinal section (hilum below).*
 
 ## Notes
 

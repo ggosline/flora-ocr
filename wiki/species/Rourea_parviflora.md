@@ -7,6 +7,7 @@ family: Connaraceae
 vol: 33
 pages: 131-133
 source: sources/Connaraceae_vol33_paddle
+countries_incomplete: true
 tags: [species, generated]
 ---
 # *Rourea parviflora* Gilg
@@ -59,7 +60,7 @@ Many specimens are covered with large flattened and hard hairs, often colored re
 
 ![Rourea parviflora](../sources/Connaraceae_vol33_paddle/figures/fig_047_p0132.png)
 
-*PL. 41. – Rourea parviflora Gilg : 1, jeune rameau florifère × 2/3 ; 2, sommet de foliole × 1 ; 3, fleur × 8 ; 4, étanines × 8 ; 5, carpelles de fleur longistylée × 8 ; 6, jeune rameau fructifère × 2/3 ; 7, follicule montrant une graine × 2/3 ; 8, follicules vides × 2/3 ; 9, graine montrant un sarcotesta × 1 ; 10, graine en coupe longitudinale montrant cotylédons et radicule apicale × 1. (1, 3-5, Zenker 2876 ; 2. Breteler 1649 ; 6. J. Louis 15336 ; 7. J. Louis 2722 ; 8. Léonard 2879 ; 9-10. Breteler 1649). – Repris de AUWP 89 (6).*
+*PL. 41. – Rourea parviflora Gilg : 1, young flowering branch × 2/3 ; 2, apex of leaflet × 1 ; 3, flower × 8 ; 4, stamens × 8 ; 5, carpels of long-styled flower × 8 ; 6, young fruiting branch × 2/3 ; 7, follicle showing a seed × 2/3 ; 8, empty follicles × 2/3 ; 9, seed showing a sarcotesta × 1 ; 10, seed in longitudinal section showing cotyledons and apical radicle × 1. (1, 3-5, Zenker 2876 ; 2. Breteler 1649 ; 6. J. Louis 15336 ; 7. J. Louis 2722 ; 8. Léonard 2879 ; 9-10. Breteler 1649). – Reprinted from AUWP 89 (6).*
 
 ## Notes
 

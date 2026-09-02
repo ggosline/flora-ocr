@@ -7,6 +7,10 @@ family: Begoniaceae
 vol: 39
 pages: 50-50
 source: sources/Begoniaceae_vol39_liteparse
+countries: [Gabon]
+in_region: true
+habitat: [secondary forest]
+altitude_m: "100"
 tags: [species, generated]
 ---
 # *Begonia erectotricha* Sosef

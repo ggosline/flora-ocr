@@ -7,6 +7,8 @@ family: Moraceae
 vol: 26
 pages: 9-11
 source: sources/Moraceae_vol26_paddle
+countries: [Gabon, Guinea-Bissau, Mozambique]
+in_region: true
 tags: [species, generated]
 ---
 # *Milicia excelsa* (Welwitsch) C.C. Berg
@@ -55,7 +57,7 @@ Fleury in Chevalier 26505, 26506, Diobamagola, sur l'Orimba, affluent de l'Ogoou
 
 ![Milicia excelsa](../sources/Moraceae_vol26_paddle/figures/fig_001_p0010.png)
 
-*PL. 1. - Milicia excelsa (Welw.) C.C. Berg.: 1, ramille feuillée avec inflo. pistillées; 2, inflo. staminée; 3, infrutescence; 4, fleur pistillée et bractées; 5, pistil; 6, fleur staminée et bractées; 7, étamine; 8, fruit; 9, endocarpe; 10, graine; 11, embryon (1, Simão 152, Mozambique; 2, Barbosa 2611, Mozambique; 3, Torre & Paiva, Mozambique; 4, 5, Barbosa 2278, Mozambique; 6, 7, Léonard 1049, Zaire; 8, 9, Léonard 1946, Zaire; 10, 11, Simão 654, Mozambique).*
+*PL. 1. - Milicia excelsa (Welw.) C.C. Berg.: 1, leafy twig with pistillate inflorescence; 2, staminate inflorescence; 3, infructescence; 4, pistillate flower and bracts; 5, pistil; 6, staminate flower and bracts; 7, stamen; 8, fruit; 9, endocarp; 10, seed; 11, embryo (1, Simão 152, Mozambique; 2, Barbosa 2611, Mozambique; 3, Torre & Paiva, Mozambique; 4, 5, Barbosa 2278, Mozambique; 6, 7, Léonard 1049, Zaire; 8, 9, Léonard 1946, Zaire; 10, 11, Simão 654, Mozambique).*
 
 ## Notes
 

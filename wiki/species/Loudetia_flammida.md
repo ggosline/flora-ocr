@@ -7,6 +7,7 @@ family: Gramineae
 vol: 05
 pages: 261-264
 source: sources/Gramineae_vol05_paddle
+habit: "herb"
 tags: [species, generated]
 ---
 # *Loudetia flammida* (Trin.) Hubb.
@@ -79,7 +80,7 @@ Ziemziembo (Bapounou)
 
 ![Loudetia flammida](../sources/Gramineae_vol05_paddle/figures/fig_044_p0263.png)
 
-*PL. XLIII. — Loudetia arundinacea (Hochst.) Steud. (Guillemet 12) : 1, inflorescence; 2, épillet, \u de profil, long d'env. 10 mm sans l'arête); 3, fleur fertile.*
+*PL. XLIII. — Loudetia arundinacea (Hochst.) Steud. (Guillemet 12) : 1, inflorescence; 2, spikelet, viewed in profile, approximately 10 mm long without the awn); 3, fertile flower.*
 
 ## Notes
 

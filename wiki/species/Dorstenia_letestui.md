@@ -7,6 +7,10 @@ family: Moraceae
 vol: 26
 pages: 95-97
 source: sources/Moraceae_vol26_paddle
+countries: [Cameroon, Gabon]
+in_region: true
+habit: "herb"
+altitude_m: "900"
 tags: [species, generated]
 ---
 # *Dorstenia letestui* Pellegrin
@@ -45,7 +49,7 @@ Le Testu 2151, pays d'Itsogho, entre Mapoungui et Egnyounga (fl., oct.); 5558, h
 
 ![Dorstenia letestui](../sources/Moraceae_vol26_paddle/figures/fig_028_p0098.png)
 
-*PL. 27. – Dorstenia letestui Pellegr.: 1-2', port; 3, feuilles; 4, stipules; 5, inflo.; 6, fleur pistillée (1, Le Testu 5558; 2, 2', 4-6, Le Testu s.n.; 3, Le Testu 2151).*
+*PL. 27. – Dorstenia letestui Pellegr.: 1-2', habit; 3, leaves; 4, stipules; 5, inflorescence; 6, pistillate flower (1, Le Testu 5558; 2, 2', 4-6, Le Testu s.n.; 3, Le Testu 2151).*
 
 ## Notes
 

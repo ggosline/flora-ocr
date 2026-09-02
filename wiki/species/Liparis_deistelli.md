@@ -7,6 +7,8 @@ family: Orchidaceae
 vol: 36
 pages: 123-124
 source: sources/Orchidaceae_vol36_paddle
+countries: [Cameroon, Gabon, Kenya, Malawi, Tanzania, Uganda, Zambia]
+in_region: true
 tags: [species, generated]
 ---
 # *Liparis deistelli* Schltr.
@@ -35,7 +37,7 @@ alt. 1700-3200 m. Herbaceous terrestrial or epiphytic, in moss and decomposed le
 
 ![Liparis deistelli](../sources/Orchidaceae_vol36_paddle/figures/fig_063_p0124.png)
 
-*PL. 58. – Liparis deistelii Schltr.: A, fleur; B, bractée ; C, labelle ; D, vue générale (A-D, Humbert 8902, P).*
+*PL. 58. – Liparis deistelii Schltr.: A, flower; B, bract ; C, labellum ; D, general view (A-D, Humbert 8902, P).*
 
 ## Notes
 

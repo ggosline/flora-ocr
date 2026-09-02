@@ -7,6 +7,12 @@ family: Solanaceae
 vol: 55
 pages: 110-112
 source: sources/Solanaceae_vol55_liteparse
+countries: [Gabon]
+in_region: true
+subdivisions:
+  Gabon: [Estuaire, Haut-Ogooué, Moyen-Ogooué, Ngounié, Nyanga, Ogooué-Ivindo, Ogooué-Maritime]
+habit: "herb"
+altitude_m: "0–630"
 tags: [species, generated]
 ---
 # *Schwenckia americana* L. Planche 33, Figure 7(D, E)

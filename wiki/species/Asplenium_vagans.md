@@ -40,7 +40,7 @@ Thollon : 1203, forêt du Mayombe (?).
 
 ![Asplenium vagans](../sources/Aspleniaceae_vol08_paddle/figures/fig_024_p0133.png)
 
-*PL. XXI.—Asplenium Hallei Tard. (N. Hallé 6084); 1, aspect général × 2/3; A. varia- bile var. akimense (Adams) Tard. (Ghana, Adams 3289); 2, aspect général 1/2. — A. variabile Hk. (Le Testu 1573): 3, aspect général × 1/2.*
+*PL. XXI.—Asplenium Hallei Tard. (N. Hallé 6084); 1, general aspect × 2/3; A. variabile var. akimense (Adams) Tard. (Ghana, Adams 3289); 2, general aspect 1/2. — A. variabile Hk. (Le Testu 1573): 3, general aspect × 1/2.*
 
 ## Notes
 

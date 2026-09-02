@@ -5,12 +5,11 @@ authority: A. Chev. ex J. Koechlin
 genus: Costus
 family: Zingiberaceae
 family_current: Costaceae
-countries: [Côte d'Ivoire, Gabon, Uganda]
 range_note: "forest regions of western and central Africa east to Uganda"
-in_region: true
-habit: rhizomatous herb to 2 m
-habitat: [forest understorey]
 treatments: [{vol: 9, pages: "70–71", source: sources/Zingiberaceae_vol9_paddle}]
+countries: [Gabon, Uganda]
+in_region: true
+habit: "herb"
 tags: [species]
 ---
 # *Costus albus* A. Chev. ex J. Koechlin

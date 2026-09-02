@@ -7,6 +7,9 @@ family: Loganiaceae
 vol: 19
 pages: 79-81
 source: sources/Loganiaceae_vol19_paddle
+countries: [Cameroon, Gabon, Republic of the Congo]
+in_region: true
+habit: "liana"
 tags: [species, generated]
 ---
 # *Strychnos dolichothyrsa* Gilg ex Onochie & Hepper
@@ -17,19 +20,15 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+, p.p. (excl. Latilo FHI 31811). — FWTA ed. 2, 2 : 41, p.p. (id.). — LEEUWENBERG, l.c. : 113, fig. 16, map 16.
 
-, p.p. (excl. Latilo FHI 31811). — FWTA ed. 2, 2 : 41, p.p. (id.). — LEEUWENBERG, l.c. : 113, fig. 16, carte 16.
+Large liana reaching a height of 40 m and a length of 40–100 m; stem 3–13 cm in diameter; bark dark brown, with large lenticels; wood pale brownish; branchlets non-lenticellate, cylindrical; small branchlets with dense, short, appressed and ochraceous pubescence, glabrescent, cylindrical; tendrils solitary, at the axils of ordinary leaves or small bracts.
 
-Grande liane atteignant une hauteur de 40 m et une longueur de 40-100 m; tige de 3-13 cm de diamètre; écorce brun foncé, à grandes lenticelles; bois brunâtre pâle; rameaux non lenticellés, cylindriques; petits
+Fresh leaves with clove-like odour; petiole with fine pubescence, 4–8 mm long; lamina coriaceous, thinner for leaves developed in shade, elliptic, narrowly elliptic or, on the central axis, often suborbicular, 3.5–14 × 2–6.5 cm, for shade-type leaves up to 16 × 7.5 cm, acuminate at apex, cuneate or rounded at base, with sparse and fine pubescence on both surfaces for young leaves, soon glabrous; 1–2 pairs of secondary veins curved along the margin; margin slightly revolute, especially for thick leaves of sun-exposed type, which are opaque below.
 
-rameaux à pubescence dense, courte, apprimée et ochracée, glabrescents, cylindriques; vrilles solitaires, aux aisselles des feuilles ordinaires ou des petites bractées.
+Inflorescences terminal and sometimes also axillary, lax, multiflorous, ± 9–20 × 5–20 cm; peduncle and branches slender, with short pubescence, as on the very short pedicels. Flowers 5-merous. Sepals pale green, ± half-connate, 0.8–1 × 0.5–0.8 mm, pubescent externally and glabrous internally; lobes triangular, acute and indistinctly ciliate. Corolla, in the mature bud, 2.5–3 × 2 mm, whitish-green or pale green, urceolate, externally furnished with fine pubescence, internally pilose at the base of the lobes; tube 1–1.2 mm long; lobes 1.5–2 times longer than the tube, triangular, 1.5–2 × 1–1.2 mm, acute, somewhat spreading. Stamens barely exsert, inserted at the corolla throat, with filament glabrous or with fine pubescence internally, very short; anther ovate, bearded at the base. Pistil glabrous, 1.4–2 mm long; ovary globose or broadly ovoid, 0.7–1 mm in diameter, 2-locular; style 0.7–1 mm long; stigma capitate; 7–10 ovules per locule.
 
-Feuilles fraîches à odeur de girofle; pétiole à pubescence fine, de 4-8 mm de longueur; limbe coriace, plus mince pour les feuilles développées à l'ombre, elliptique, étroitement elliptique ou, sur l'axe central, souvent suborbiculaire, de 3,5-14 × 2-6,5 cm, pour les feuilles de type d'ombre jusqu'à 16 × 7,5 cm, acuminé au sommet, cuné ou arrondi à la base, à pubescence éparse et fine sur les deux faces pour les jeunes feuilles, bientôt glabres; 1-2 paires de nervures secondaires courbées le long de la marge; marge un peu réfléchie, surtout pour les feuilles épaisses de type ensoleillé, lesquelles sont opaques en dessous.
-
-Inflorescences terminales et parfois aussi axillaires, lâches, multiflores, de ± 9-20 × 5-20 cm; pédoncule et rameaux minces, à pubescence courte, comme sur les pédicelles très courts. Fleurs 5-mères. Sépales vert pâle, ± mi-soudés, de 0,8-1 × 0,5-0,8 mm, pubescents à l'extérieur et glabres à l'intérieur; lobes triangulaires, aigus et indistinctement ciliés. Corolle, dans le bouton mûr, de 2,5-3 × 2 mm, blanc verdâtre ou vert pâle, urcéolée, à l'extérieur garnie d'une fine pubescence, à l'intérieur pileuse à la base des lobes; tube de 1-1,2 mm de longueur; lobes 1,5-2 fois plus longs que le tube, triangulaires, de 1,5-2 × 1-1,2 mm, aigus, un peu étalés. Étamines à peine exsertes, insérées à la gorge de la corolle, à filet glabre ou à pubescence fine à l'intérieur, très court; anthère ovée, barbue à la base. Pistil glabre, de 1,4-2 mm de longueur; ovaire globuleux ou largement ovoide, de 0,7-1 mm de diamètre, à 2 loges; style de 0,7-1 mm de longueur; stigmate capité; 7-10 ovules par loge.
-
-Fruits orangés, assez petits, tendres, ellipsoïdes, de  $ 20-32 \times 20-32 \times 17-26 $ mm, contenant 1-2 graines, lisse; paroi mince. Graines obliquement elliptiques, aplaties, de  $ 15-20 \times 13-15 \times 3-6 $ mm, ± plano-convexe, assez rugueuses, à pubescence dense avec poils très courts et érigés. Pl. 30, 1-5, p. 137.
+Fruits orange, quite small, tender, ellipsoid, $ 20-32 \times 20-32 \times 17-26 $ mm, containing 1–2 seeds, smooth; wall thin. Seeds obliquely elliptic, flattened, $ 15-20 \times 13-15 \times 3-6 $ mm, ± plano-convex, fairly rugose, with dense pubescence of very short and erect hairs. Pl. 30, 1–5, p. 137.
 
 ## Type
 
@@ -37,9 +36,7 @@ Zenker 4943, Cameroun
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Cameroun, Gabon (vraisemblablement), Congo-Brazzaville. Forêts denses ou secondaires; généralement sur les rives de rivières. Altitude 0-800 m.
+Cameroon, Gabon (presumably), Congo-Brazzaville. Dense or secondary forests; generally on riverbanks. Altitude 0–800 m.
 
 ## Specimens examined
 
@@ -59,7 +56,7 @@ Zenker 4943, Bipindi (fl.) K (holotype); BM, BR, COI, FHO, G, GOET, HBG, L, LE, 
 
 ![Strychnos dolichothyrsa](../sources/Loganiaceae_vol19_paddle/figures/fig_030_p0139.png)
 
-*PL. 30. — Strychnos dolichothyrsa : 1, rameau × ½; 2, fleur × 7; 3, dissection de la fleur × 7; 4, pistil × 7; 5, fruit × ½ (1-4 : Leeuwenberg 5439; 5 : De Wilde W. 2755). — Strychnos elaeocarpa Gilg ex Leeuwenberg : 6, rameau × ½; 7, fleur × 3 ½; 8, dissection de la fleur × 3 ½; 9, pistil × 3 ½; 10, fruit × ½ (6-9 et 10 : Leeuwenberg 7005 et 6305).*
+*PL. 30. — Strychnos dolichothyrsa : 1, branch × ½; 2, flower × 7; 3, dissection of flower × 7; 4, pistil × 7; 5, fruit × ½ (1-4 : Leeuwenberg 5439; 5 : De Wilde W. 2755). — Strychnos elaeocarpa Gilg ex Leeuwenberg : 6, branch × ½; 7, flower × 3 ½; 8, dissection of flower × 3 ½; 9, pistil × 3 ½; 10, fruit × ½ (6-9 et 10 : Leeuwenberg 7005 et 6305).*
 
 ## Notes
 

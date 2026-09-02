@@ -7,6 +7,9 @@ family: Rubiaceae
 vol: 12
 pages: 254-256
 source: sources/Rubiaceae_vol12_paddle
+countries: [Cameroon]
+in_region: true
+habit: "shrub"
 tags: [species, generated]
 ---
 # *Pauridiantha efferata* N. Hallé sp. nov. (Fig. 9)

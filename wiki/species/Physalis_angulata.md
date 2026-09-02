@@ -7,6 +7,13 @@ family: Solanaceae
 vol: 55
 pages: 106-109
 source: sources/Solanaceae_vol55_liteparse
+countries: [Gabon]
+in_region: true
+subdivisions:
+  Gabon: [Estuaire, Moyen-Ogooué, Ngounié, Nyanga, Ogooué-Ivindo, Ogooué-Lolo, Ogooué-Maritime]
+habit: "herb"
+habitat: [swamp forest]
+altitude_m: "800"
 tags: [species, generated]
 ---
 # *Physalis angulata* L. Planche 32(10-16), Figure 7(A, B)

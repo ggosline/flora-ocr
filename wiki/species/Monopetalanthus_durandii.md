@@ -7,6 +7,8 @@ family: Leguminosae
 vol: 15
 pages: 314-315
 source: sources/Leguminosae_vol15_paddle
+countries: [Gabon]
+in_region: true
 tags: [species, generated]
 ---
 # *Monopetalanthus durandii* F. Hallé et Normand Andoung de Durand (fig. couverture)

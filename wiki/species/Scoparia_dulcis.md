@@ -7,6 +7,12 @@ family: Scrophulariaceae
 vol: 48
 pages: 127-129
 source: sources/Scrophulariaceae_vol48_liteparse
+countries: [Gabon]
+in_region: true
+subdivisions:
+  Gabon: [Estuaire, Moyen-Ogooué, Ngounié, Nyanga, Ogooué-Ivindo, Ogooué-Lolo, Ogooué-Maritime]
+habit: "herb"
+altitude_m: "500"
 tags: [species, generated]
 ---
 # *Scoparia dulcis* L. Planche 41, 54(L)
@@ -17,25 +23,19 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Perennial herb or suffrutex, reaching 60 cm in height; stem glabrous or pubescent at the nodes. Leaves opposite; blade oblanceolate to narrowly elliptic-ovate, 12–45(–55) × 2–9 mm, obtuse to subacute at the apex, margin obtusely crenate or dentate. Flower: pedicel up to 7 mm; calyx 1.5–2 mm in length, with 4 lobes 1.3–2.3 mm in length;
 
-Herbe vivace ou suffrutex, atteignant 60 cm de hauteur ; tige glabre ou pubescente aux nœuds. Feuilles opposées ; limbe oblancéolé à étroitement elliptique-ovale, 12–45(–55) × 2–9 mm, obtus à subaigu au sommet, marge obtusément crénelée ou dentée. Fleur : pédicelle jusqu’à 7 mm ; calice 1,5–2 mm de longueur, à 4 lobes de 1,3–2,3 mm de longueur ;
+Calyx and gynoecium. (A–G: Fischer 217). Drawing by E. Fischer (©).
 
-Calice et gynécée. (A–G : Fischer 217 ). Dessin par E. Fischer (©).
-
-corolle 2,5–3,5 mm de longueur, blanche, lobes ovales à oblongs ; étamines à filet de 1 mm, anthères 1 mm de longueur ; ovaire 1,5 mm de longueur, glabre ; style 2 mm. Fruit ovoïde, 2–3,5 mm de longueur.
+corolla 2.5–3.5 mm in length, white, lobes ovate to oblong; stamens with filament 1 mm, anthers 1 mm in length; ovary 1.5 mm in length, glabrous; style 2 mm. Fruit ovoid, 2–3.5 mm in length.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-introduite dans la plupart des pays subsahariens, en Asie tropicale et en Australie ; probablement originaire d’Amérique tropicale ; au Gabon, commune et observée dans l’Estuaire, le Moyen-Ogooué, la Ngounié, la Nyanga, l’Ogooué-Ivindo, l’Ogooué-Lolo et l’Ogooué-Maritime
+introduced in most sub-Saharan countries, in tropical Asia and Australia; probably native to tropical America; in Gabon, common and observed in Estuaire, Moyen-Ogooué, Ngounié, Nyanga, Ogooué-Ivindo, Ogooué-Lolo and Ogooué-Maritime
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-endroits rudéraux, cultures, champs, bord des routes et chemins, savanes, souvent sur sol sableux ; au Gabon, jusqu’à 500 m d’altitude, en Afrique de l’Est, jusqu’à 1300 m. Usage : Cette espèce est bien connue comme plante médicinale, utilisée comme diurétique, analgésique et antipyrétique, pour traiter les troubles gastriques tels que la diarrhée et la dysenterie, ainsi que la toux, la bronchite, l’hypertension, etc. ; au Gabon, les feuilles sont fumées comme tabac
+ruderal places, cultivations, fields, roadsides and paths, savannas, often on sandy soil; in Gabon, up to 500 m in altitude, in East Africa, up to 1300 m. Use: This species is well known as a medicinal plant, used as a diuretic, analgesic and antipyretic, for treating gastric disorders such as diarrhoea and dysentery, as well as cough, bronchitis, hypertension, etc.; in Gabon, the leaves are smoked like tobacco
 
 ## Vernacular names
 

@@ -7,6 +7,9 @@ family: Melastomataceae
 vol: 25
 pages: 34-36
 source: sources/Melastomataceae_vol25_paddle
+countries: [Democratic Republic of the Congo, Gabon]
+in_region: true
+habit: "shrub"
 tags: [species, generated]
 ---
 # *Melastomastrum segregatum* (Bentham) A. & R. Fernandes
@@ -55,7 +58,7 @@ Fruit de 18 à 20 mm. Graines  $ 0,7 \times 0,7 $ mm, finement échinulées.—P
 
 ![Melastomastrum segregatum](../sources/Melastomataceae_vol25_paddle/figures/fig_010_p0035.png)
 
-*PL. 10. — Melastomastrum segregatum (Benth.) A. & R. Fern.: 1, sommité × 2/3; 2, série de trois bractées × 2; 3, réceptacle et calice × 4; 4, sommet de l'ovaire × 4; 5, graine × 32 (Jacques-Félix 4538). (Repris Bull. Mus. natn. Hist. nat., Paris, sér. 3, Bot., 17 : tab. 10, 1974).*
+*PL. 10. — Melastomastrum segregatum (Benth.) A. & R. Fern.: 1, apex × 2/3; 2, series of three bracts × 2; 3, receptacle and calyx × 4; 4, apex of the ovary × 4; 5, seed × 32 (Jacques-Félix 4538). (Reprinted Bull. Mus. natn. Hist. nat., Paris, sér. 3, Bot., 17 : tab. 10, 1974).*
 
 ## Notes
 

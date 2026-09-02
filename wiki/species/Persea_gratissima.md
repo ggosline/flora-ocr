@@ -7,6 +7,7 @@ family: Lauraceae
 vol: 10
 pages: 82-85
 source: sources/Lauraceae_vol10_paddle
+habit: "tree"
 tags: [species, generated]
 ---
 # *Persea gratissima* Gaertn..
@@ -44,7 +45,7 @@ Chevalier : 2 148 Libreville (fl. juill.); 26 280, Diabomagola (fl. avr.).
 
 ![Persea gratissima](../sources/Lauraceae_vol10_paddle/figures/fig_022_p0081.png)
 
-*Pl. XXI. — 1 à 6, Persea gratissima Gaert. (Jeffrey 138) : 1, rameau florifère, feuille de 25 cm; 2, fleur de 10 mm de diam.; 2', coupe; 3, étamine du 1er cycle, face interne, 3', face externe; 4, étamine du 3° cycle, face externe; 5, pistil; 6, fruit, un quart enlevé. — 7 à 12, Cinnamomum zeylanicum Nees. (Chevalier 26435) : 7, rameau florifère, feuille de 11 cm; 8, fleur, diam. 4 mm; 8', coupe; 8, étamine du 1er cycle face interne; 9', profil; 9", face externe; 10, 3° cycle, face interne; 10', profil; 10", face externe; 11,11',11", mêmes vues du staminode; 12, fruit et sa coupe.*
+*Pl. XXI. — 1 to 6, Persea gratissima Gaert. (Jeffrey 138) : 1, flowering branch, leaf 25 cm; 2, flower 10 mm diam.; 2', section; 3, stamen of the 1st cycle, internal face, 3', external face; 4, stamen of the 3rd cycle, external face; 5, pistil; 6, fruit, one quarter removed. — 7 to 12, Cinnamomum zeylanicum Nees. (Chevalier 26435) : 7, flowering branch, leaf 11 cm; 8, flower, diam. 4 mm; 8', section; 8, stamen of the 1st cycle internal face; 9', profile; 9", external face; 10, 3rd cycle, internal face; 10', profile; 10", external face; 11,11',11", same views of the staminode; 12, fruit and its section.*
 
 ## Notes
 

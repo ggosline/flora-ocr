@@ -7,6 +7,7 @@ family: Apocynaceae
 vol: 59
 pages: 180-182
 source: sources/Apocynaceae_vol59_liteparse
+habit: "liana"
 tags: [species, generated]
 ---
 # *Orthopichonia barteri* (Stapf) H.Huber Planche 84

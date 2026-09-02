@@ -7,6 +7,12 @@ family: Leguminosae
 vol: 49
 pages: 221-221
 source: sources/Millettiaspeciesfabaceae_vol49_liteparse
+countries: [Angola, Gabon, Mozambique, Senegal, Sudan]
+in_region: true
+subdivisions:
+  Gabon: [Ogooué-Ivindo, Ogooué-Maritime]
+habit: "herb"
+altitude_m: "0–200"
 tags: [species, generated]
 ---
 # *Indigofera simplicifolia* Lam.

@@ -5,16 +5,15 @@ authority: Pierre ex Engl.
 genus: Hannoa
 family: Simaroubaceae
 synonyms: [Hannoa gabonensis Pierre]
-countries: [Guinea, Gabon, Angola, Democratic Republic of the Congo]
 range_note: "Across the Guineo-Congolian forest block to Angola, the Congo Basin and Ubangi"
-in_region: true
-habit: tree
-habitat: [secondary forest]
 treatments:
   - vol: 3
     year: 1962
     pages: "42–44"
     source: sources/Simaroubaceae_vol3_paddle
+countries: [Angola, Gabon, Guinea]
+in_region: true
+habit: "tree"
 tags: [species]
 ---
 

@@ -7,6 +7,12 @@ family: Leguminosae
 vol: 49
 pages: 301-302
 source: sources/Millettiaspeciesfabaceae_vol49_liteparse
+countries: [Cameroon, Central African Republic, Gabon, Sierra Leone]
+in_region: true
+subdivisions:
+  Gabon: [Ngounié]
+habit: "liana"
+altitude_m: "600"
 tags: [species, generated]
 ---
 # *Mucuna occidentalis* (Hepper) T.M.Moura & G.P.Lewis

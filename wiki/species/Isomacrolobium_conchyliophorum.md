@@ -7,6 +7,7 @@ family: Leguminosae
 vol: 15
 pages: 191-191
 source: sources/Leguminosae_vol15_paddle
+habit: "tree"
 tags: [species, generated]
 ---
 # *Isomacrolobium conchyliophorum* (Pellegr.) Aubr. et Pellegr.
@@ -38,7 +39,7 @@ Le Testu : 5740, Ipoungou (fl. nov.); 7680, Micouma (fl. nov.).
 
 ![Isomacrolobium conchyliophorum](../sources/Leguminosae_vol15_paddle/figures/fig_044_p0190.png)
 
-*PL. XLIV. — Isomacrolobium conchyliophorum (Pellegr.) Aubr. et Pellegr. : 1, rameau florifère; 2, foliole; 3, stipules; 4, fleur; 5, pétale; 6, détail du gynécée et de l'androcée.*
+*PL. XLIV. — Isomacrolobium conchyliophorum (Pellegr.) Aubr. et Pellegr. : 1, flowering branch; 2, leaflet; 3, stipules; 4, flower; 5, petal; 6, detail of the gynoecium and androecium.*
 
 ## Notes
 

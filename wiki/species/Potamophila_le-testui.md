@@ -7,6 +7,7 @@ family: Gramineae
 vol: 05
 pages: 245-248
 source: sources/Gramineae_vol05_paddle
+habit: "herb"
 tags: [species, generated]
 ---
 # *Potamophila le-* Testui J. Koechlin $ ^{1} $.
@@ -31,7 +32,7 @@ Le Testu : 8866 (type), Lastoursville; 5719. Mimongo.
 
 ![Potamophila le-](../sources/Gramineae_vol05_paddle/figures/fig_041_p0247.png)
 
-*PL. XL. — Potamophila Le-Testui J. Koechlin (Le Testu, 8866) : 1, base de la plante; 2, partie supérieure de la plante, avec feuilles et inflorescence; 4, détail d'une partie de l'inflorescence (longueur de l'épillet : 9 mm); 5, détail d'un épillet; 6, coupe schématique transversale d'un épillet montrant la conformation et le mode d'imbrication des deux glumes.*
+*PL. XL. — Potamophila Le-Testui J. Koechlin (Le Testu, 8866) : 1, base of the plant; 2, upper part of the plant, with leaves and inflorescence; 4, detail of a part of the inflorescence (spikelet length: 9 mm); 5, detail of a spikelet; 6, schematic transverse section of a spikelet showing the conformation and the mode of imbrication of the two glumes.*
 
 ## Notes
 

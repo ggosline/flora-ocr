@@ -7,6 +7,13 @@ family: Meliaceae
 vol: 47
 pages: 53-54
 source: sources/Meliaceae_vol47_liteparse
+countries: [Angola, Cameroon, Central African Republic, Cote d'Ivoire, Democratic Republic of the Congo, Equatorial Guinea, Gabon, Ghana, Liberia, Nigeria, Republic of the Congo, Sierra Leone, Uganda]
+in_region: true
+subdivisions:
+  Gabon: [Estuaire, Haut-Ogooué, Nyanga, Ogooué-Ivindo, Ogooué-Lolo, Woleu-Ntem]
+habit: "tree"
+habitat: [evergreen forest]
+altitude_m: "480"
 tags: [species, generated]
 ---
 # *Lovoa trichilioides* Harms Planche 14

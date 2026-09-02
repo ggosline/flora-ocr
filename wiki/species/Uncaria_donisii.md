@@ -7,6 +7,7 @@ family: Rubiaceae
 vol: 12
 pages: 29-32
 source: sources/Rubiaceae_vol12_paddle
+habit: "liana"
 tags: [species, generated]
 ---
 # *Uncaria donisii* E. Petit (P.L. 2)
@@ -21,15 +22,11 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Climbing shrub 2 m tall or liana. Rusty hirsute branch tips. Internodes with 4 very prominent ridges, 3–7 cm long and hollow when dry toward the fertile extremities alone known. Axillary hooks curved toward the base, sometimes reduced to an acute spur. Stipules bipartite from the base, ovate-acuminate, 9–12 × 4–6 mm, pubescent, reflexed and early caducous. Petiole 3–6(8) mm, rusty pubescent, bent at the base. Blade elliptic 7–13(14) × 3.5–6(8) cm, rusty when dry, regularly pubescent on both faces; hairs tapered c. 1 mm long, somewhat stiff on the upper face; blade base obtuse (rounded to cordate in the type); apex slightly attenuate with an acumen c. 1 cm. Veins hairy, c. 5–7(8) pairs of secondaries.
 
-Arbrisseau grimpant de 2 m de haut ou liane. Extrémités rousses hirsutes. Entrenceuds à 4 arêtes très saillantes, longs de 3-7 cm et creux à sec vers les extrémités florifères seules connues. Crochets axillaires arqués vers la base, parfois réduits à un ergot aigu. Stipules bipartites depuis la base, ovées-acuminées, de 9-12 × 4-6 mm, pubescentes, réfractées et tôt caduques. Pétiole de 3-6(8) mm, roux pubescent, coudé à la base. Limbe elliptique de 7-13(14) × 3,5-6(8) cm, roux à sec, régulièrement pubescent sur les deux faces; poils effilés longs d'env. 1 mm, un peu raides sur la face supérieure; base du limbe obtuse (arrondie à cordée
+Inflorescences in multiflorous spherical capitula 4–5 cm diam. and arranged in groups of 3–7 c. toward the branch extremities; one of the capitula is terminal, the others axillary with a peduncle 2.5–6 cm long; these peduncles are arranged at right angles, clearly enlarged and compressed toward the base, and rusty pubescent; there is an involucre of stipuloid bracts caducous toward the upper third of these peduncles. The peduncle in terminal position presents 2–3(4) staggered scar levels. Capitulum receptacle ochraceus hirsute c. 4 mm diam. Pedicels c. 2–4 mm, pubescent. Flowers yellow. Ovary oval, rusty hairy, c. 2 mm tall. Calyx tube infundibuliform, 2–3 mm tall, subtruncate, with 5 very short denticles, rusty pubescent. Corolla 14–17 mm long, clothed with beige-ochraceus hairs directed toward the base, with tube narrow for c. 11 mm, with ovate-orbicular lobes c. 2.5 mm, glabrous on the upper face. Anthers 2.5–3 × 0.5 mm, oblong apiculate. Style 20–23 mm including the stigmatic club 5–6 mm long and long attenuate toward the base. Ovary 2-locular; numerous ascending ovules.
 
-chez le type); sommet un peu atténué avec un acumen d'env. 1 cm. Nervures velues, env. 5-7(8) paires de secondaires.
-
-Inflorescences en capitules sphériques multiflores de 4-5 cm de diam. et disposés par 3-7 env. vers l'extrémité des rameaux; l'un des capitules est terminal, les autres sont axillaires avec un pédoncule de 2,5-6 cm de long; ces pédoncules sont disposés à angle droit, nettement élargis et comprimés vers la base, et roux pubescents; il y a un involucre de pièces stipuloïdes caduques vers le tiers supérieur de ces pédoncules. Le pédoncule qui est en position terminale présente 2-3(4) niveaux cicatriciels échelonnés. Réceptacle du capitule ochracé hirsute d'env. 4 mm de diam. Pédicelles de 2-4 mm env., pubescents. Fleurs jaunes. Ovaire ovale, roux velu, haut d'env. 2 mm. Tube du calice infundibulière, haut de 2-3 mm, subtronqué, à 5 denticules très courts, roux pubescents. Corolle longue de 14-17 mm, vêtue de poils beige-ochracé dirigés vers la base, à tube étroit sur env. 11 mm, à lobes ovés-orbiculaires d'env. 2,5 mm, glabres sur la face supérieure. Anthères de 2,5-3 × 0,5 mm, oblongues apiculées. Style de 20-23 mm y compris la massue stigmatique longue de 5-6 mm et longuement atténuée vers la base. Ovaire à 2 loges; nombreux ovules ascendants.
-
-Infrutescence (Wagemans 914, Luki) atteignant 6,5-7 cm de diam. Fruit pubescent fusiforme à 10 arêtes longitudinales, long de 10-13 mm, à pédicelle velu de 12-18 mm et à calice persistant.
+Infructescence (Wagemans 914, Luki) reaching 6.5–7 cm diam. Fruit pubescent fusiform with 10 longitudinal ridges, 10–13 mm long, with hairy pedicel 12–18 mm and persistent calyx.
 
 ## Type
 
@@ -37,9 +34,7 @@ Donis 239, Luki, Congo ex-belge (BR)
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Cette rare espèce a été décrite en 1957 sur des matériaux récoltés en 1948. Or elle avait été, 50 ans auparavant, étudiée au Muséum de Paris par L. Pierre sur les récoltes citées ci-dessous qui datent de 1898. Les notes très détaillées de Pierre étaient restées inédites.
+This rare species was described in 1957 on materials collected in 1948. Yet it had been, 50 years earlier, studied at the Paris Museum by L. Pierre on the collections cited below which date from 1898. Pierre's very detailed notes had remained unpublished.
 
 ## Specimens examined
 

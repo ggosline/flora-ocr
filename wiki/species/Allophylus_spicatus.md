@@ -7,6 +7,8 @@ family: Sapindaceae
 vol: 23
 pages: 32-34
 source: sources/Sapindaceae_vol23_paddle
+countries: [Central African Republic, Cote d'Ivoire, Ghana, Mali, Nigeria, Senegal, Togo]
+in_region: true
 tags: [species, generated]
 ---
 # *Allophylus spicatus* (Poiret) Radlkofer
@@ -48,7 +50,7 @@ Letouzey 6769, réserve Mayo Louti, 10 km W Mokolo (fr., sept.).
 
 ![Allophylus spicatus](../sources/Sapindaceae_vol23_paddle/figures/fig_002_p0033.png)
 
-*PL. 2. — Allophylus spicatus (Poir.) Radlk. (1, 1', Letouzey 6769; 2-4', Chevalier 24315) : 1, rameau florifère (limbe 6 cm); 1', coupe du pétiole diamètre 0,5 mm; 2, fleur ♀ nouée, large de 2 mm; 3, 3', sépales, supérieur, inférieur et latéral; 4', pétale, face interne et profil; 5, étimane. — Allophylus letestui Pellegr. (6, 6', N. Hallé 1697; 7-10, Le Testu 8547); 6, feuille et inflorescence, limbe 21 cm; 6', coupe du pétiole, diamètre 3 mm; 7, cymule et bouton, 2 mm; 8', s'épais, supérieur, inférieur et latéral; 9, pétale interne; 10, disque, androcée et pistilode, fl. ♂. — Allophylus cf. subcoriaceus Bak. (Breteler 1804) : 11, feuille et inflorescence, limbe 8 × 3 cm; 11', coupe du pétiole, 1 mm; 12, cymule et bouton, 1,2 cm; 12', fleur ♀, pétales et sépale supérieur ôté; 13, 13', sépales supérieur et inférieur; 14, 14', pétale, face interne et profil.*
+*PL. 2. — Allophylus spicatus (Poir.) Radlk. (1, 1', Letouzey 6769; 2-4', Chevalier 24315) : 1, flowering branch (limb 6 cm); 1', section of petiole diameter 0,5 mm; 2, set ♀ flower, width 2 mm; 3, 3', sepals, upper, lower and lateral; 4', petal, inner surface and profile; 5, stamen. — Allophylus letestui Pellegr. (6, 6', N. Hallé 1697; 7-10, Le Testu 8547); 6, leaf and inflorescence, limb 21 cm; 6', section of petiole, diameter 3 mm; 7, cymule and bud, 2 mm; 8', sepals, upper, lower and lateral; 9, inner petal; 10, disk, androecium and pistillode, ♂ fl. — Allophylus cf. subcoriaceus Bak. (Breteler 1804) : 11, leaf and inflorescence, limb 8 × 3 cm; 11', section of petiole, 1 mm; 12, cymule and bud, 1,2 cm; 12', ♀ flower, petals and upper sepal removed; 13, 13', upper and lower sepals; 14, 14', petal, inner surface and profile.*
 
 ## Notes
 

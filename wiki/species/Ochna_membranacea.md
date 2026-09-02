@@ -7,6 +7,13 @@ family: Ochnaceae
 vol: 48
 pages: 79-80
 source: sources/Ochnaceae_vol48_liteparse
+countries: [Angola, Cameroon, Central African Republic, Democratic Republic of the Congo, Gabon, Kenya, Sierra Leone, Sudan, Tanzania, Uganda]
+in_region: true
+subdivisions:
+  Gabon: [Nyanga, Ogooué-Ivindo, Woleu-Ntem]
+habit: "shrub"
+habitat: [savanna, secondary forest]
+altitude_m: "100–900"
 tags: [species, generated]
 ---
 # *Ochna membranacea* Oliv.

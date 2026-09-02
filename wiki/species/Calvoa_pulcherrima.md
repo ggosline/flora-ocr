@@ -7,6 +7,9 @@ family: Melastomataceae
 vol: 25
 pages: 70-71
 source: sources/Melastomataceae_vol25_paddle
+countries: [Democratic Republic of the Congo, Gabon]
+in_region: true
+habit: "shrub"
 tags: [species, generated]
 ---
 # *Calvoa pulcherrima* Gilg ex Engler
@@ -55,7 +58,7 @@ Capsule turbinée, pentagonale, couronnée par les lobes émarginés.
 
 ![Calvoa pulcherrima](../sources/Melastomataceae_vol25_paddle/figures/fig_024_p0069.png)
 
-*PL. 24.— Calvoa pulcherrima Gilg ex Engl.: 1, aspect général × 3/3; 2, pétale × 4; 2, pétale × 4; 3, fleur en coupe × 4; 4, étamines × 8; 5, détail d'étamine × 10; 6, jeune fruit × 4; 7 & 8, capsule, en coupe et entière × 4; 9, graine × 20 (Raynal J. & A. 9452 & 9702).*
+*PL. 24.— Calvoa pulcherrima Gilg ex Engl.: 1, general aspect × 3/3; 2, petal × 4; 2, petal × 4; 3, flower in section × 4; 4, stamens × 8; 5, detail of stamen × 10; 6, young fruit × 4; 7 & 8, capsule, in section and entire × 4; 9, seed × 20 (Raynal J. & A. 9452 & 9702).*
 
 ## Notes
 

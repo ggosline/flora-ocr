@@ -7,6 +7,12 @@ family: Scrophulariaceae
 vol: 48
 pages: 139-139
 source: sources/Scrophulariaceae_vol48_liteparse
+countries: [Burundi, Cameroon, Central African Republic, Cote d'Ivoire, Democratic Republic of the Congo, Equatorial Guinea, Gabon, Ghana, Guinea, Guinea-Bissau, Madagascar, Nigeria, Republic of the Congo, Senegal, Sierra Leone, Uganda]
+in_region: true
+subdivisions:
+  Gabon: [Estuaire, Moyen-Ogooué, Nyanga, Ogooué-Maritime]
+habit: "herb"
+altitude_m: "0–160"
 tags: [species, generated]
 ---
 # *Torenia crustacea* (L) Cham. & Schltdl. Planche 45, 55(A–B)
@@ -17,21 +23,15 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Lindernia crustacea (L.) F.Muell., Syst. census Austral. pl . 1 : 97 (1882). Herbe annuelle ; tige prostrée à ascendante, à ramifications nombreuses (paraclades), 8–15 cm de longueur, glabre. Feuille : pétiole atteignant 4–6 mm ; limbe ovale à orbiculaire, 6–15 × 4–9 mm, acuminé au sommet , marge obtusément à étroitement crénelé. Inflorescence lâche, feuillée, chaque nœud florifère portant 2 fleurs. Fleur : pédicelle 8–9 mm ; calice 4 mm de longueur, à ailes indistinctes de moins 1 mm de hauteur, à lobes de 1 mm de longueur ; corolle à tube de 4–5 mm de longueur, lèvre supérieure bilobée à l’apex et 3 mm de longueur, lèvre inférieure tripartite, 3 mm de longueur, corolle blanche avec des taches bleues, lobes à bord bleu, en dessus du lobe médian une tache bleue ; étamines 4, filet des étamines antérieures (abaxiales) 3 mm, géniculé, formant un appendice claviforme couvert de poils glanduleux et de papilles, filet des étamines postérieures (adaxiales) 1 mm ; ovaire globuleux, 1,5 mm de longueur ; style 5 mm. Fruit 9 mm de longueur, légèrement exsert du calice.
+Lindernia crustacea (L.) F.Muell., Syst. census Austral. pl. 1: 97 (1882). Annual herb; stem prostrate to ascending, with numerous branches (paraclades), 8–15 cm long, glabrous. Leaf: petiole reaching 4–6 mm; blade ovate to orbicular, 6–15 × 4–9 mm, acuminate at apex, margin obtusely to narrowly crenate. Inflorescence lax, leafy, each flowering node bearing 2 flowers. Flower: pedicel 8–9 mm; calyx 4 mm long, with indistinct wings less than 1 mm high, lobes 1 mm long; corolla with tube 4–5 mm long, upper lip bilobed at apex and 3 mm long, lower lip tripartite, 3 mm long, corolla white with blue spots, lobes with blue margins, on the upper side of the median lobe a blue spot; stamens 4, filament of anterior (abaxial) stamens 3 mm, geniculate, forming a claviform appendage covered with glandular hairs and papillae, filament of posterior (adaxial) stamens 1 mm; ovary globose, 1.5 mm long; style 5 mm. Fruit 9 mm long, slightly exsert from the calyx.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Sénégal, Guinée-Bissau, Sierra Leone, Côte d’Ivoire, Ghana, Nigéria, Cameroun, Guinée équatoriale (Annobon), Gabon, République Centrafricaine, République du Congo, République démocratique du Congo, Burundi, Ouganda, Madagascar, de l’Inde et Sri Lanka jusqu’en Chine, Japon et Asie du Sud-Est, en Australie, NouvelleGuinée, Micronésie, Polynésie, Amérique centrale et introduite en Amérique du Sud ; au Gabon, observée dans l’Estuaire, le Moyen-Ogooué, la Nyanga et l’Ogooué-Maritime
+Senegal, Guinea-Bissau, Sierra Leone, Côte d'Ivoire, Ghana, Nigeria, Cameroon, Equatorial Guinea (Annobon), Gabon, Central African Republic, Republic of the Congo, Democratic Republic of the Congo, Burundi, Uganda, Madagascar, from India and Sri Lanka to China, Japan and Southeast Asia, in Australia, New Guinea, Micronesia, Polynesia, Central America and introduced to South America; in Gabon, observed in Estuaire, Moyen-Ogooué, Nyanga and Ogooué-Maritime.
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-endroits fréquentés, chemins, jardins, pâturages, pelouses, forêts secondaires, forêts ombrophiles près des habitations, sur sol sablonneux ; au Gabon, à 0–160 m d’altitude, au Burundi, jusqu`à 1000 m
+Frequented places, paths, gardens, pastures, grasslands, secondary forests, rainforests near dwellings, on sandy soil; in Gabon, at 0–160 m altitude, in Burundi, up to 1000 m.
 
 ## Vernacular names
 
@@ -39,9 +39,7 @@ Malaysian false pimpernel (angl.)
 
 ## Uses
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-L’espèce est utilisée surtout en Asie, comme plante médicinale et a donné de bons résultats dans le traitement de l’hépatite, de la dysenterie, de l’aménorrhée et les troubles de la vésicule. C’est une des plantes les plus courantes dans les pharmacies chinoises. B : Fischer (1992, 1995, 1999), Fischer et al. (2013), Ipor (2001), Hepper ibliographie (1963)
+The species is used chiefly in Asia as a medicinal plant and has given good results in the treatment of hepatitis, dysentery, amenorrhea and gallbladder disorders. It is one of the most common plants in Chinese pharmacies. B: Fischer (1992, 1995, 1999), Fischer et al. (2013), Ipor (2001), Hepper (1963).
 
 ## Notes
 

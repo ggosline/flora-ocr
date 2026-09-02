@@ -7,6 +7,10 @@ family: Dichapetalaceae
 vol: 32
 pages: 155-158
 source: sources/Dichapetalaceae_vol32_paddle
+countries: [Gabon]
+in_region: true
+habit: "liana"
+habitat: [evergreen forest]
 tags: [species, generated]
 ---
 # *Dichapetalum pierrei* Pellegrin
@@ -53,7 +57,7 @@ Breteler 7660, Sibang, près de Libreville (fr., Nov.). Breteler & Lemmens 8389,
 
 ![Dichapetalum pierrei](../sources/Dichapetalaceae_vol32_paddle/figures/fig_045_p0156.png)
 
-*PL. 44 – Dichapetalum pierrei Pellegrin : 1, jeune rameau florifère × 0,5 ; 2, grande feuille × 0,5 ; 3, domatie × 4 ; 4, inflorescence × 2 ; 5, fleur × 5 ; 6, fleur, détail × 5 ; 7, fruit 2-sperme × 0,5 ; 8, fruit 1-sperme × 0,5 (1, 3, 4, Le Testu 7308 ; 2, Klaine 2192 ; 5, 6, Le Testu 7248 ; 7, 8, Breteler 7660). – Repris de MLW 81 (10) : 83 (1981).*
+*PL. 44 – Dichapetalum pierrei Pellegrin : 1, young flowering branch × 0.5 ; 2, large leaf × 0.5 ; 3, domatium × 4 ; 4, inflorescence × 2 ; 5, flower × 5 ; 6, flower, detail × 5 ; 7, 2-seeded fruit × 0.5 ; 8, 1-seeded fruit × 0.5 (1, 3, 4, Le Testu 7308 ; 2, Klaine 2192 ; 5, 6, Le Testu 7248 ; 7, 8, Breteler 7660). – Reprinted from MLW 81 (10) : 83 (1981).*
 
 ## Notes
 

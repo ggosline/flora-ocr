@@ -7,6 +7,12 @@ family: Arecaceae
 vol: 53
 pages: 11-13
 source: sources/Arecaceae_vol53_liteparse
+countries: [Gabon]
+in_region: true
+subdivisions:
+  Gabon: [Estuaire, Ogooué-Ivindo, Woleu-Ntem]
+habitat: [swamp forest, riverine]
+altitude_m: "720"
 tags: [species, generated]
 ---
 # *Calamus deerratus* Mann & Wendl. Planche 1, Figure 1E

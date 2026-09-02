@@ -7,6 +7,13 @@ family: Cyperaceae
 vol: 44
 pages: 70-71
 source: sources/Cyperaceae_vol44_liteparse
+countries: [Angola, Gabon, Guinea]
+in_region: true
+subdivisions:
+  Gabon: [Ngounié, Ogooué-Ivindo, Woleu-Ntem]
+habit: "herb"
+habitat: [swamp forest]
+altitude_m: "0–1200"
 tags: [species, generated]
 ---
 # *Cyperus pseudopilosus* (C.B.Clarke) Govaerts & Simpson Planche 42

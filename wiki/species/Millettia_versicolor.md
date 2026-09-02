@@ -7,6 +7,12 @@ family: Leguminosae
 vol: 49
 pages: 277-279
 source: sources/Millettiaspeciesfabaceae_vol49_liteparse
+countries: [Angola, Democratic Republic of the Congo, Gabon, Republic of the Congo]
+in_region: true
+subdivisions:
+  Gabon: [Estuaire]
+habit: "tree"
+altitude_m: "10–460"
 tags: [species, generated]
 ---
 # *Millettia versicolor* Welw. ex Baker

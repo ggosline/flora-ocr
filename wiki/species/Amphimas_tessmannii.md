@@ -7,6 +7,12 @@ family: Leguminosae
 vol: 49
 pages: 41-43
 source: sources/Millettiaspeciesfabaceae_vol49_liteparse
+countries: [Equatorial Guinea, Gabon]
+in_region: true
+subdivisions:
+  Gabon: [Estuaire]
+habit: "tree"
+altitude_m: "150"
 tags: [species, generated]
 ---
 # *Amphimas tessmannii* Harms

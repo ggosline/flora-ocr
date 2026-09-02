@@ -7,6 +7,9 @@ family: Moraceae
 vol: 26
 pages: 182-185
 source: sources/Moraceae_vol26_paddle
+countries: [Democratic Republic of the Congo, Sierra Leone, Uganda]
+in_region: true
+habit: "tree"
 tags: [species, generated]
 ---
 # *Ficus pseudomangifera* Hutchinson
@@ -41,7 +44,7 @@ Hijman & Weerdenburg 390, 444, 10 km SW Makokou (fig., Jan. or ster.). Hladik 27
 
 ![Ficus pseudomangifera](../sources/Moraceae_vol26_paddle/figures/fig_052_p0184.png)
 
-*PL. 51. – Ficus pseudomangifera Hutch.: 1, rameau avec feuilles et figues × 1; 2, rameau avec figues × 1 (1, Letouzey 10081, Cameroun; 2, Letouzey 4509, Cameroun).*
+*PL. 51. – Ficus pseudomangifera Hutch.: 1, branch with leaves and figs × 1; 2, branch with figs × 1 (1, Letouzey 10081, Cameroon; 2, Letouzey 4509, Cameroon).*
 
 ## Notes
 

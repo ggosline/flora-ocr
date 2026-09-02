@@ -7,6 +7,12 @@ family: Arecaceae
 vol: 53
 pages: 15-17
 source: sources/Arecaceae_vol53_liteparse
+countries: [Democratic Republic of the Congo, Gabon, Nigeria, Rwanda, Uganda]
+in_region: true
+subdivisions:
+  Gabon: [Estuaire, Ogooué-Ivindo, Ogooué-Lolo]
+habit: "tree"
+altitude_m: "300"
 tags: [species, generated]
 ---
 # *Elaeis guineensis* Jacq. Planche 3, Figure 1G

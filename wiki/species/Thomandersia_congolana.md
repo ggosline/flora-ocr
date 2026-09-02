@@ -7,6 +7,9 @@ family: Acanthaceae
 vol: 13
 pages: 152-154
 source: sources/Acanthaceae_vol13_paddle
+countries: [Cameroon, Equatorial Guinea, Gabon, Guinea, Republic of the Congo]
+in_region: true
+habit: "shrub"
 tags: [species, generated]
 ---
 # *Thomandersia congolana* De Wild. et Th. Dur.
@@ -17,17 +20,13 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 — De Wildeman et Th. Durand, Ann. Mus. Congo, sér. 1, 1: 147 (127), t. 74 (jan. 1901), sér. 3, 1: 179 (déc. 1901). — R. Benoist, in Pellegrin, Mém. Soc. Linn. Normandie, N. S., Bot. 1 (3): 46 (1928). — Walker et Sillans, Pl. Ut. Gabon 43 (1961). — Heine, l. c. 229, t. XIII, 1-14, et fig. 4 (1966).
 
-Arbuste de 1-4 m de haut, à rameaux légèrement velus, devenant glabres; pétioles de 0,4-1,2 cm de long. Limbe ovale-elliptique, longuement atténué-cunéiforme à la base, brusquement acuminé au sommet, à acumen atteignant 20 mm de long, arrondi et légèrement émarginé, coriace, hisant à la face supérieure, plus pâle à la face inférieure. Limbe de la feuille la plus grande de chaque paire de 5-12 cm de long et 1,8-4 cm de large, glabre sur la face supérieure, à poils épars principalement sur les nervures à la face inférieure; 5-6 paires de nervures latérales. Limbe de la feuille la plus petite de chaque paire de 1,2-3 cm de long et 1-1,7 cm de large, glabre sauf quelques poils épars sur les nervures à la face supérieure.
+Shrub 1-4 m tall, with branchlets slightly villous, becoming glabrous; petioles 0.4-1.2 cm long. Blade ovate-elliptic, long attenuate-cuneate at base, abruptly acuminate at apex, with acumen reaching 20 mm long, rounded and slightly emarginate, coriaceous, shining on upper surface, paler on lower surface. Blade of the larger leaf of each pair 5-12 cm long and 1.8-4 cm wide, glabrous on upper surface, with scattered hairs mainly on the veins on lower surface; 5-6 pairs of lateral veins. Blade of the smaller leaf of each pair 1.2-3 cm long and 1-1.7 cm wide, glabrous except for a few scattered hairs on the veins on upper surface.
 
-Racèmes terminaux et axillaires, spiciformes, de 2,5-5 (12) cm de long; pédoncule de 1,5-4 cm de long; bractées d'environ 1 mm de long; pédicelles de 1-2 mm de long; bractéoles de 0,4 mm de long.
+Terminal and axillary racemes, spiciform, 2.5-5 (12) cm long; peduncle 1.5-4 cm long; bracts about 1 mm long; pedicels 1-2 mm long; bracteoles 0.4 mm long, finely ciliate. Flowers with calyx 2 mm long and 5 mm diam., clothed with short and scattered hairs on outer surface, ciliate at margins, furnished with a glandular boss, lobes about 1 mm long. Corolla orange-brown on outside, yellow on inside; tube about 4 mm long; upper lip inconspicuous, very slightly 2-lobulate; lower lip spreading, lobes striped or spotted with purple on inner surface. Staminal filaments with fused portion furnished with elongate and spreading hairs, free portion 3.5-4 mm long, furnished with short glandular hairs; anthers with locules 1.5 mm long, glabrous; staminode scarcely 0.5 mm long, inserted 1 mm above base of corolla. Ovary conical-ovoid, 1.7 mm long, furnished with disciform trichomes (glandular hairs) ± scattered. Style about 6.7 mm long, glabrous; stigma cylindric.
 
-long, finement ciliées. Fleurs à calice de 2 mm de long et 5 mm de diam., vêtu de poils courts et épars sur la face externe, cilié aux bords, muni d'une bosse glandulaire, à lobes d'environ 1 mm de long. Corolle orange-brun à l'extérieur, jaune à l'intérieur; tube d'environ 4 mm de long; lèvre supérieure peu marquée, très légèrement 2-lobulée; lèvre inférieure étalée, à lobes striés ou tigrés de pourpre à la face interne. Filets staminaux à partie soudée munie de poils allongés et étalés, à partie libre de 3,5-4 mm de long, munie de poils glanduleux courts; anthères à loges de 1,5 mm de long, glabre; staminode d'à peine 0,5 mm de long, inséré à 1 mm au-dessus de la base de la corolle. Ovaire conique-ovoïde, de 1,7 mm de long, muni de trichomes (poils glandulaires) disci-formes ± épars. Style d'environ 6,7 mm de long, glabre; stigmate cylindrique.
-
-Capsule ellipsoïde-ovoïde, de 13-15 mm de long, entourée par le calice accrescent, atteignant 5 mm de diam., à parois d'environ 0,5 mm d'épaisseur. Graines de 6,5 mm de long, 5 mm de large et 2,5 mm d'épaisseur; testa brunâtre couvert sauf au sommet, d'écailles triangulaires-allongées ou lancéolées, irrégulièrement dentelées, donnant à la graine l'aspect d'un cône de sapin.
+Capsule ellipsoid-ovoid, 13-15 mm long, surrounded by the accrescent calyx, reaching 5 mm diam., with walls about 0.5 mm thick. Seeds 6.5 mm long, 5 mm wide and 2.5 mm thick; testa brownish covered except at apex with triangular-elongate or lanceolate scales, irregularly denticulate, giving the seed the appearance of a fir cone.
 
 ## Type
 
@@ -35,9 +34,7 @@ Dewèvre 472, entre Selemba et Léopoldville, fl. et fr. nov. 1895 (BR, lectotyp
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Cameroun, Rio Muni (Guinée espagnole), Gabon, Congo-Brazzaville, Congo-Léopoldville.
+Cameroon, Rio Muni (Spanish Guinea), Gabon, Congo-Brazzaville, Congo-Léopoldville.
 
 ## Specimens examined
 

@@ -7,6 +7,8 @@ family: Moraceae
 vol: 26
 pages: 265-269
 source: sources/Moraceae_vol26_paddle
+countries: [Angola, Democratic Republic of the Congo, Guinea]
+in_region: true
 tags: [species, generated]
 ---
 # *Musanga cecropioides* R. Brown ex Tedlie
@@ -44,15 +46,15 @@ Pobéguin 22, Ogooué river (fl., March). Rosenthal s.n., env. of Lambaréné. S
 
 ![Musanga cecropioides](../sources/Moraceae_vol26_paddle/figures/fig_083_p0264.png)
 
-*PL. 82. - Musanga cecropioides R. Br. ex Tedlie: 1, plantule; 2, jeune feuille avec stipule engaïnante; 3, feuille sinusée; 4, pubescence du limbe, face inférieure (1, Hallé F. 944, Côte d'Ivoire; 2, s. col. s.n.; 3, 4, Pobéguin 1293, Guinée).*
+*PL. 82. - Musanga cecropioides R. Br. ex Tedlie: 1, seedling; 2, young leaf with sheathing stipule; 3, sinuate leaf; 4, pubescence of limb, lower surface (1, Hallé F. 944, Côte d'Ivoire; 2, s. col. s.n.; 3, 4, Pobéguin 1293, Guinea).*
 
 ![Musanga cecropioides](../sources/Moraceae_vol26_paddle/figures/fig_084_p0266.png)
 
-*PL. 83. - Musanga cecropioides R. Br. ex Tedlie : 1, stipule ; 2, inflorescence staminée ; 3, fleur mâle ; 4, bractée ; 5, feuille adulte et inflorescence pistillée ; 6, fleur femelle ; 7, infrutescence (1, Leeuwenberg 6713. Cameroun ; 2-4, Leeuwenberg 5961, Cameroun ; 5, 6, Leeuwenberg 5914, Cameroun ; 7, Robyns 710, Zaire).*
+*PL. 83. - Musanga cecropioides R. Br. ex Tedlie : 1, stipule ; 2, staminate inflorescence ; 3, male flower ; 4, bract ; 5, adult leaf and pistillate inflorescence ; 6, female flower ; 7, infructescence (1, Leeuwenberg 6713. Cameroon ; 2-4, Leeuwenberg 5961, Cameroon ; 5, 6, Leeuwenberg 5914, Cameroon ; 7, Robyns 710, Zaire).*
 
 ![Musanga cecropioides](../sources/Moraceae_vol26_paddle/figures/fig_085_p0268.png)
 
-*PL. 84. – Cecropia peltata L.: 1, feuille et stipule; 2, feuille adulte; 3, pubescence du limbe, face supérieure; 4, pubescence du limbe, face inférieure; 5, inflorescence staminée (1, Richard s.n., Brésil; 2, 3, Splitgerber s.n., Surinam; 4, 5, Cuatrecasas & Willard 26213, Colombie).*
+*PL. 84. – Cecropia peltata L.: 1, leaf and stipule; 2, adult leaf; 3, pubescence of limb, upper surface; 4, pubescence of limb, lower surface; 5, staminate inflorescence (1, Richard s.n., Brazil; 2, 3, Splitgerber s.n., Surinam; 4, 5, Cuatrecasas & Willard 26213, Colombia).*
 
 ## Notes
 

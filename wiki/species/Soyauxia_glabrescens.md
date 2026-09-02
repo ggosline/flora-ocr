@@ -7,6 +7,13 @@ family: Peridiscaceae
 vol: 47
 pages: 85-87
 source: sources/Peridiscaceae_vol47_liteparse
+countries: [Cameroon, Gabon]
+in_region: true
+subdivisions:
+  Gabon: [Estuaire, Nyanga, Ogooué-Maritime]
+habit: "tree"
+habitat: [secondary forest]
+altitude_m: "500"
 tags: [species, generated]
 ---
 # *Soyauxia glabrescens* Engl. Planche 27
@@ -17,29 +24,23 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Arbre de 7–22 m de hauteur ; tronc jusqu’à 30 cm de diamètre ; ramilles, pétioles, dessous des limbes et axes de l’inflorescence à petits poils épars et apprimés, glabres cents. Stipules oblongues-elliptiques , droites ou légèrement falciformes, 3–6 × 1–1,5 mm , ciliolées. Feuille : pétiole 3–7(–12) mm, canaliculé dessus ; limbe obové-elliptique, (9–)11-18(–22) × 3,5–7(–10) cm, arrondi à brièvement cunéé à la base, acuminé sur 0,5–1,5 cm au sommet, ± coriace ; nervures latérales (9–)10–14(–18) paires. Inflores cence racémiforme, jusqu’à 14 cm de longueur ; pédoncule 0,5–1 cm ; bractées ovéeselliptiques, 2–2,5 mm de longueur, à bords ciliés ; bractéoles ± triangulaires, ± 1 mm de longueur, ciliées. Fleur : pédicelle 2–5(–7) mm, glabre ou parfois à poils apprimés ; sépales étalés, largement ovés, 3 × 2,5–4 mm, glabres ou parfois à poils apprimés sur la partie basale , éparsement ciliés ; pétales elliptiques, 5 × 3–4 mm , partiellement pubérulents à l’extérieur, glabres à l’intérieur ; étamines 8–10 mm de longueur , glabres, à anthères d’environ 0,3 mm de longueur ; disque 0,3–0,5 mm de hauteur, lobulé à denti culé, glabre ; ovaire environ 0,5 mm de hauteur, tomentelleux ; styles 4–5 mm , glabres. Fruit oblong, 20–22 × 6–8 mm, glabre sauf le sommet tomentelleux. Graine 16–18 × 5–6 mm, trigone en section transversale, glabre.
+Tree 7–22 m tall; trunk up to 30 cm in diameter; branchlets, petioles, leaf blade undersides and inflorescence axes with scattered, appressed small hairs, otherwise glabrous. Stipules oblong-elliptic, straight or slightly falciform, 3–6 × 1–1.5 mm, ciliolate. Leaf: petiole 3–7(–12) mm, channelled above; blade obovate-elliptic, (9–)11–18(–22) × 3.5–7(–10) cm, rounded to shortly cuneate at base, acuminate over 0.5–1.5 cm at apex, ± coriaceous; lateral nerves (9–)10–14(–18) pairs. Inflorescence racemiform, up to 14 cm long; peduncle 0.5–1 cm; bracts ovate-elliptic, 2–2.5 mm long, with ciliate margins; bracteoles ± triangular, ± 1 mm long, ciliate. Flower: pedicel 2–5(–7) mm, glabrous or sometimes with appressed hairs; sepals spreading, broadly ovate, 3 × 2.5–4 mm, glabrous or sometimes with appressed hairs on basal part, sparsely ciliate; petals elliptic, 5 × 3–4 mm, partially puberulent outside, glabrous inside; stamens 8–10 mm long, glabrous, with anthers approximately 0.3 mm long; disk 0.3–0.5 mm high, lobulate to denticulate, glabrous; ovary approximately 0.5 mm high, tomentellous; styles 4–5 mm, glabrous. Fruit oblong, 20–22 × 6–8 mm, glabrous except tomentellous apex. Seed 16–18 × 5–6 mm, trigonous in cross-section, glabrous.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+subendemicto Gabon where it is known from Estuaire, Nyanga and Ogooué-Maritime; in Cameroon, it was collected on Mount Ngoyang near Lolodorf
 
-subendémique du Gabon où elle est connue de l’Estuaire, de la Nyanga et de l’Ogooué-Maritime ; au Cameroun, elle a été récoltée sur le Mont Ngoyang près de Lolodorf
-
-endémique au Gabon, récoltée une fois dans le Parc National de Loango, province de l’Ogooué-Maritime
+endemic to Gabon, collected once in Loango National Park, Ogooué-Maritime province
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+primary and secondary forest; in Gabon, up to 500 m altitude, in Cameroon, up to 950 m. B: Breteler et al. (submitted). Bibliography Soyauxia spec. (nov. ?) Shrub 6 m tall; trunk up to 10 cm in diameter; branchlets, stipules, petioles, inflorescence axis, and, more sparsely, leaf blade undersides with ± appressed hairs. Stipules narrowly elliptic, 3–4 × 1 mm. Leaf: petiole 2–3 mm, channelled above; blade obovate-elliptic, 6–12.5 × 2.5–4.5 cm, rounded to shortly cuneate at base, acuminate over 0.5–1 cm at apex, glabrous above; lateral nerves 10–15 pairs. Inflorescence 5–6 cm long; peduncle 0.5–1 cm; bracts and bracteoles early caducous, not seen. Flower: pedicel 1–1.5 mm, with small appressed hairs; sepals broadly ovate-elliptic, 4 × 4 mm, entirely pubescent on outer surface; petals, stamens and pistil unknown. Fruit (immature) elongate, approximately 12–16 mm long, with hairy apex
 
-forêt primaire et secondaire ; au Gabon, jusqu’à 500 m d’altitude, au Came roun, jusqu’à 950 m. B : Breteler et al. (soumis). ibliographie Soyauxia spec. (nov. ?) Arbuste de 6 m de hauteur ; tronc jusqu’à 10 cm de diamètre ; ramilles, stipules, pétioles, axe de l’inflorescence, et, plus éparsement, dessous des limbes à poils ± appri més. Stipules étroitement elliptiques, 3–4 × 1 mm . Feuille : pétiole 2–3 mm, canaliculé dessus ; limbe obové-elliptique, 6–12,5 × 2,5–4,5 cm, arrondi à brièvement cunéé à la base, acuminé sur 0,5–1 cm au sommet, glabre dessus ; nervures latérales 10–15 paires. Inflorescence 5–6 cm de longueur ; pédoncule 0,5–1 cm ; bractées et bractéoles tôt ca duques, non vues. Fleur : pédicelle 1–1,5 mm , à petits poils apprimés ; sépales largement ovés-elliptiques, 4 × 4 mm, entièrement pubescents sur la face externe ; pétales, étamines et pistil inconnus. Fruit (immature) allongé, environ 12–16 mm de longueur, à sommet poilu
+primary and secondary forest; at 10 m altitude
 
-forêt primaire et secondaire ; à 10 m d’altitude
+Seed. (A, C-H, J: J.J.F.E. de Wilde & van der Maesen 10990; B: Reistma c.s. 1920; I: Breteler et al. 11497). Drawing by Hans de Vries, Naturalis Biodiversity Center (©).
 
-Graine. (A, C-H, J : J.J.F.E. de Wilde & van der Maesen 10990 ; B : Reistma c.s. 1920 ; I: Breteler et al. 11497 ). Dessin par Hans de Vries, Naturalis Biodiversity Center (©).
-
-Note taxonomique : La seule collection de ce taxon est incomplète et ne permett pas de le décrire proprement comme une espèce nouvelle. Par ses caractères, comme son calice entièrement pubescent à l’extérieur, le spécimen ressemble à Soyauxia talbotii Baker f. de l’Afrique de l’Ouest et du Cameroun. Elle s’en distingue par ses stipules plus petites et les nervures latérales moins nombreuses. B : Breteler et al. (soumis). ibliographie
+Taxonomic note: The only collection of this taxon is incomplete and does not permit its proper description as a new species. By its characters, such as its entirely pubescent calyx on the outside, the specimen resembles Soyauxia talbotii Baker f. from West Africa and Cameroon. It differs from it by its smaller stipules and fewer lateral nerves. B: Breteler et al. (submitted). Bibliography
 
 ## Notes
 

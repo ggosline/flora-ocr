@@ -7,6 +7,9 @@ family: Scytopetalaceae
 vol: 24
 pages: 60-62
 source: sources/Chrysobalanaceae_vol24_paddle
+countries: [Cameroon, Gabon, Nigeria]
+in_region: true
+habit: "tree"
 tags: [species, generated]
 ---
 # *Acoa staudti* Engler
@@ -51,7 +54,7 @@ Hallé N. 842, Ngongolane dans les Monts de Cristal (fl., août). Le Testu 6043,
 
 ![Acoa staudti](../sources/Chrysobalanaceae_vol24_paddle/figures/fig_018_p0061.png)
 
-*PL. 18. — Acioa staudtii Engl. : 1, rameau avec fleurs × 2/3; 2, feuille dessous × 2/3; 3, stipules × 2; 4, 5, portion d'axe infl. et face int. bractée × 4; 6, 7, bractéoles et face interne bractéole × 4; 8, fleur (pét. excl.) × 3/2. (1-2, Le Testu 6043; 3-8, Le Testu 8425).*
+*PL. 18. — Acioa staudtii Engl. : 1, branch with flowers × 2/3; 2, leaf lower surface × 2/3; 3, stipules × 2; 4, 5, portion of inflorescence axis and internal surface of bract × 4; 6, 7, bracteoles and internal surface of bracteole × 4; 8, flower (petals excl.) × 3/2. (1-2, Le Testu 6043; 3-8, Le Testu 8425).*
 
 ## Notes
 

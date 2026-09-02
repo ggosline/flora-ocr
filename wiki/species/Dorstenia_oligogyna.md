@@ -7,6 +7,8 @@ family: Moraceae
 vol: 26
 pages: 32-33
 source: sources/Moraceae_vol26_paddle
+countries: [Gabon]
+in_region: true
 tags: [species, generated]
 ---
 # *Dorstenia oligogyna* (Pellegrin) C.C. Berg
@@ -45,7 +47,7 @@ Le Testu 2234, région de la Ngounyé, Sindara (fl., sept.); 2360, 2360 bis, val
 
 ![Dorstenia oligogyna](../sources/Moraceae_vol26_paddle/figures/fig_007_p0034.png)
 
-*PL. 7. – Dorstenia oligogyna (Pellegr.) C.C. Berg: 1, partie sommitale de la tige; 2, 2', feuille; 3, pétiole, stipules et inflorescences (1, 3, Breteler 5683; 2, Le Testu 5575).*
+*PL. 7. – Dorstenia oligogyna (Pellegr.) C.C. Berg: 1, apical part of the stem; 2, 2', leaf; 3, petiole, stipules and inflorescences (1, 3, Breteler 5683; 2, Le Testu 5575).*
 
 ## Notes
 

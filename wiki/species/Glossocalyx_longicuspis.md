@@ -7,6 +7,9 @@ family: Monimiaceae
 vol: 10
 pages: 109-111
 source: sources/Monimiaceae_vol10_paddle
+countries: [Gabon]
+in_region: true
+habit: "tree"
 tags: [species, generated]
 ---
 # *Glossocalyx longicuspis* Benth.

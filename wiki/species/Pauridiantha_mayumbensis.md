@@ -7,6 +7,9 @@ family: Rubiaceae
 vol: 12
 pages: 248-251
 source: sources/Rubiaceae_vol12_paddle
+countries: [Gabon]
+in_region: true
+habit: "shrub"
 tags: [species, generated]
 ---
 # *Pauridiantha mayumbensis* (R. Good) Brem.

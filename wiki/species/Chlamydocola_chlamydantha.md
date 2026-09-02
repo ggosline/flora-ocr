@@ -7,6 +7,7 @@ family: Sterculiaceae
 vol: 02
 pages: 34-40
 source: sources/Sterculiaceae_vol02_paddle
+habit: "tree"
 tags: [species, generated]
 ---
 # *Chlamydocola chlamydantha* (K. Schum.) Bodard.
@@ -74,7 +75,7 @@ Le Testu : 7665, 9648, env. de Lastoursville (fl. et fr. en nov.).
 
 ![Chlamydocola chlamydantha](../sources/Sterculiaceae_vol02_paddle/figures/fig_007_p0039.png)
 
-*PL. VII. — Chlamydocola lastoursvillensis (Bod. et Pellegr.) N. Hallé : 1, fleur épanouie; 2, même fleur en coupe; 3, bouton; 4, androcée dont trois faisceaux d'antères ont été détachés sur le devant; 5, faisceau de 6 loges polliniques soit 3 anthères; 6, bractée à la même échelle que la fleur et le bouton ci-dessus; 7, feuille entière avec ses stipules; 8, détail de la feuille; 9, fruit séché avec deux follicules détachés sur le devant; 10, graine, coupe longitudinal et coupe transversale. — 1 à 8, Le Testu 7665; 9 et 10, Le T. 9648.*
+*PL. VII. — Chlamydocola lastoursvillensis (Bod. et Pellegr.) N. Hallé : 1, open flower; 2, same flower in section; 3, bud; 4, androecium with three anther bundles detached in front; 5, bundle of 6 pollen sacs, i.e. 3 anthers; 6, bract at the same scale as the flower and bud above; 7, entire leaf with its stipules; 8, detail of the leaf; 9, dried fruit with two follicles detached in front; 10, seed, longitudinal and transverse section. — 1 to 8, Le Testu 7665; 9 and 10, Le T. 9648.*
 
 ## Notes
 

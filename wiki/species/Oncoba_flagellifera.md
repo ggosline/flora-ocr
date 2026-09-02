@@ -7,6 +7,8 @@ family: Flacourtiaceae
 vol: 34
 pages: 63-65
 source: sources/Flacourtiaceae_vol34_paddle
+countries: [Cameroon, Democratic Republic of the Congo, Gabon]
+in_region: true
 tags: [species, generated]
 ---
 # *Oncoba flagellifera* (MILDBR.) HUL, comb. nov.
@@ -72,7 +74,7 @@ Wilks 1387, Ogooué-Ivindo, 29 km N Koumameyon, 0°27'N-11°54'E, 28/2/1987, fr.
 
 ![Oncoba flagellifera](../sources/Flacourtiaceae_vol34_paddle/figures/fig_019_p0064.png)
 
-*PL. 19. Oncoba flagelliflora (Mildbr.) Hul : 1, rameau ; 2, un autre rameau florifère ; 3, bouton floral ; 4, fleur ; 5, sépale ; 6, pétale ; 7, étanine ; 8, pistil ; 9, fruit ; 10, graine. (1-2, 4-8. Le Testu 6027 ; 3. Le Testu 5516 ; 9 et 10. Le Testu 5997).*
+*PL. 19. Oncoba flagelliflora (Mildbr.) Hul : 1, branch ; 2, another flowering branch ; 3, floral bud ; 4, flower ; 5, sepal ; 6, petal ; 7, stamen ; 8, pistil ; 9, fruit ; 10, seed. (1-2, 4-8. Le Testu 6027 ; 3. Le Testu 5516 ; 9 et 10. Le Testu 5997).*
 
 ## Notes
 

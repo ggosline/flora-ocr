@@ -7,6 +7,11 @@ family: Triuridaceae
 vol: 41
 pages: 70-72
 source: sources/Triuridaceae_vol41_liteparse
+countries: [Cameroon, Gabon, Nigeria]
+in_region: true
+subdivisions:
+  Gabon: [Estuaire, Nyanga]
+altitude_m: "300"
 tags: [species, generated]
 ---
 # *Sciaphila ledermannii* Engl. Planche 16

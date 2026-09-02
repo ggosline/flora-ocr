@@ -7,6 +7,8 @@ family: Bignoniaceae
 vol: 27
 pages: 34-40
 source: sources/Bignoniaceae_vol27_paddle
+countries: [Burundi, Cameroon, Democratic Republic of the Congo, Gabon, Ghana, Guinea, Rwanda, Uganda]
+in_region: true
 tags: [species, generated]
 ---
 # *Markhamia tomentosa* (Bentham) K. Schumann ex Engler
@@ -103,7 +105,7 @@ Fruit linéaire, aplati, fortement comprimé perpendiculairement au septum, celu
 
 ![Markhamia tomentosa](../sources/Bignoniaceae_vol27_paddle/figures/fig_006_p0036.png)
 
-*PL. 6. - Markhamia tomentosa (Benth.) K. Schum. ex Engl.: 1, feuille et inflorescence × 0,5; 2, 3, limbe face inférieure; 4, fleur × 0,6; 5, anthère × 4; 6, fruit × 0,5; 7, graine × 1 (1-2, Letouzey 4654, Cameroun; 3, 6-7, Meurillon 998, Cameroun; 4-5, De Wilde W.c.s. 2427, Cameroun). (Repris de la Flore du Cameroun 27: tab. 11, 1984).*
+*PL. 6. - Markhamia tomentosa (Benth.) K. Schum. ex Engl.: 1, leaf and inflorescence × 0.5; 2, 3, limb lower surface; 4, flower × 0.6; 5, anther × 4; 6, fruit × 0.5; 7, seed × 1 (1-2, Letouzey 4654, Cameroon; 3, 6-7, Meurillon 998, Cameroon; 4-5, De Wilde W.c.s. 2427, Cameroon). (Reprinted from Flora of Cameroon 27: tab. 11, 1984).*
 
 ![Markhamia tomentosa](../sources/Bignoniaceae_vol27_paddle/figures/fig_007_p0038.png)
 

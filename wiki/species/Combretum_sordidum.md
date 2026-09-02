@@ -7,6 +7,9 @@ family: Combretaceae
 vol: 35
 pages: 89-92
 source: sources/Combretaceae_vol35_paddle
+countries: [Democratic Republic of the Congo, Gabon, Liberia]
+in_region: true
+habit: "liana"
 tags: [species, generated]
 ---
 # *Combretum sordidum* Exell
@@ -67,7 +70,7 @@ C. sp. aff. demeusei. Gabon: Louis, Breteler et de Bruijn 1345, 32 km SE of Sand
 
 ![Combretum sordidum](../sources/Combretaceae_vol35_paddle/figures/fig_024_p0090.png)
 
-*PL. 24. – Combretum sordidum Exell : A, rameau florifère × 1/2 ; B, fleur × 5 ; C, fleur en coupe longitudinale × 5 ; D, fruits × 1 ; E, fruit en coupe transversale × 1 (A, Leeuwenberg 5757 ; B, C, J. Louis 2426 ; D, E, de Wilde c.s. 1439). – Dessins de N.G. LONGWA reproduits avec l'autorisation du Département des Spermatophytes et Ptéridophytes du Jardin Botanique National de MEISE (Belgique).*
+*PL. 24. – Combretum sordidum Exell : A, flowering branch × 1/2 ; B, flower × 5 ; C, flower in longitudinal section × 5 ; D, fruits × 1 ; E, fruit in transverse section × 1 (A, Leeuwenberg 5757 ; B, C, J. Louis 2426 ; D, E, de Wilde c.s. 1439). – Drawings by N.G. LONGWA reproduced with the permission of the Department of Spermatophytes and Pteridophytes of the National Botanical Garden of MEISE (Belgium).*
 
 ## Notes
 

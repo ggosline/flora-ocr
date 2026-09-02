@@ -7,6 +7,12 @@ family: Cyperaceae
 vol: 44
 pages: 33-34
 source: sources/Cyperaceae_vol44_liteparse
+countries: [Angola, Gabon, Mali, Zimbabwe]
+in_region: true
+subdivisions:
+  Gabon: [Estuaire, Ngounié, Ogooué-Ivindo, Ogooué-Lolo, Ogooué-Maritime, Woleu-Ntem]
+habit: "herb"
+altitude_m: "0–650"
 tags: [species, generated]
 ---
 # *Bulbostylis pusilla* (A.Rich.) C.B.Clarke subsp. yalingensis (Cherm.) R. Haines

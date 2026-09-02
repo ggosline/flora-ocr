@@ -7,6 +7,10 @@ family: Scytopetalaceae
 vol: 24
 pages: 12-15
 source: sources/Chrysobalanaceae_vol24_paddle
+countries: [Cameroon, Democratic Republic of the Congo, Gabon, Ghana, Guinea, Liberia, Sierra Leone]
+in_region: true
+habit: "tree"
+habitat: [mangrove]
 tags: [species, generated]
 ---
 # *Acioa barteri* (Hooker fil. ex Oliver) Engler
@@ -57,7 +61,7 @@ Klaine 3448, R. Mondah, près Libreville (fl., nov.). Trilles 22 (type d'Acioa t
 
 ![Acioa barteri](../sources/Chrysobalanaceae_vol24_paddle/figures/fig_001_p0013.png)
 
-*PL. 1. — Acioa barteri (Hook. f. ex Oliv.) Engl. : 1, rameau avec fleurs × 2/3; 2, stipules × 2; 3, portion d'axe infl. × 4; 4, bractéoles × 4; 5, bouton floral × 2; 6, fleur (pét. excl.) × 3/2. (Klaine 3448).*
+*PL. 1. — Acioa barteri (Hook. f. ex Oliv.) Engl. : 1, branch with flowers × 2/3; 2, stipules × 2; 3, portion of infl. axis × 4; 4, bracteoles × 4; 5, floral bud × 2; 6, flower (pet. excl.) × 3/2. (Klaine 3448).*
 
 ## Notes
 

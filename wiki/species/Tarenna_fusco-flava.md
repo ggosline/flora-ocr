@@ -7,6 +7,9 @@ family: Rubiaceae
 vol: 17
 pages: 100-101
 source: sources/Rubiaceae_vol17_paddle
+countries: [Angola, Cameroon, Cote d'Ivoire, Gabon, Ghana, Liberia, Nigeria, Uganda]
+in_region: true
+habit: "liana"
 tags: [species, generated]
 ---
 # *Tarenna fusco-flava* (K. Schum.) N. Hallé
@@ -26,17 +29,13 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+N. Hallé, Adansonia 7 : 506 (22 Dec. 1967). — J. R. Tennant, Kew Bull. 22, 3 : 437 (1968).
 
-N. Hallé, Adansonia 7 : 506 (22 déc. 1967). — J. R. Tennant, Kew Bull. 22, 3 : 437 (1968).
+Liana reaching 5–20 m in height. Lateral branchlets slender, disposed at right angles. Extremities glabrous. Stipules convex, 2–3 mm long, glabrous, with thinned margins, ± distinctly exceeded by the substipular hairs. Petiole 3–7 mm, glabrous, strongly canaliculate. Blade glabrous, elliptic, 5–9 × 2–4 cm, with symmetrical or asymmetrical base, briefly acute to rounded; apex with a strong acumen often ± spatulate, 10–16 × 2–3 mm. 4–5 pairs of veins forming arches 2–5 mm from the margins; fine venation moderately apparent. A few axillary domatia along the midvein, with moderate pubescence.
 
-Liane atteignant de 5 à 20 m de hauteur. Rameaux latéraux grèles disposés à angle droit. Extrémités glabres. Stipules convexes longues de 2-3 mm, glabres, à marges amincies, ± nettement dépassées par les poils sous stipulaires. Pétiole de 3-7 mm, glabre, fortement canaliculé. Limbe glabre, elliptique de 5-9 × 2-4 cm, à base dissymétrique ou non, brièvement aiguë à arrondie; sommet avec un fort acumen souvent ± spatulé de 10-16 × 2-3 mm. 4-5 paires de nervures formant des arceaux à 2-5 mm des marges; fin réseau médiocrement apparent. Quelques domaties axillaires le long de la médiane, à pilosité médiocre.
+Glabrous terminal inflorescences, corymbiform, with lower branches axilled by often somewhat reduced leaves. Paniculate cymes, pauciflorous or up to 20-flowered. Flowering approximately synchronous. Slender divaricate axes; peduncles of lower elementary cymes reaching 1–3 cm; triangular bracts with glabrous external face, rarely less than 1 mm, with ± ciliate margins. Pedicels (4) 8–22 (30) mm. Calyx c. 3 × 1–1.5 mm, glabrous, very weakly constricted above the ovary, with imbricate rounded ciliolate lobes, as long as or somewhat shorter than wide, scarcely 1 mm. Corolla glabrous, with tube 9–12 mm, with 5 oblong lobes, 7–8 (10) × 2–3 mm. Anthers exsert, 5–7 mm long; apex of connective less than 0.4 mm long (Zenker 1519, Le Testu 8288) or greater than 0.6 mm (Le Testu 5971). Style with a middle zone puberulent.
 
-Inflorescences glabres terminales corymbiformes, à ramifications inférieures axillées par des feuilles souvent un peu réduites. Cymes paniculées pauciflores ou jusqu'à 20-flores. Floraison à peu près synchrone. Axes grêles divariqués; pédoncules des cymes élémentaires inférieures atteignant 1-3 cm; bractées triangulaires à face externe glabre, rarement inférieures à 1 mm, à marges ± ciliées. Pédicelles de (4) 8-22 (30) mm. Calice d'env. 3 × 1-
-
-1,5 mm, glabre, très faiblement étranglé au-dessus de l'ovaire, à lobes imbriqués arrondis ciliolés, aussi longs ou un peu moins longs que larges soit à peine 1 mm. Corolle glabre à tube de 9-12 mm, à 5 lobes oblongs de 7-8 (10) × 2-3 mm. Anthères exsertes longues de 5-7 mm; apex du connectif long de moins de 0,4 mm (Zenker 1519, Le Testu 8288) ou supérieur à 0,6 mm (Le Testu 5971). Style présentant une zone moyenne pubérulente.
-
-Fruit gris-vert de 6-8 mm de diam. devenant ± blanchâtre; le limbe calycinal à lobes resserrés persiste en une protubérance obtuse formant une saillie de 1 mm de hauteur. Graines lisses atteignant 4 mm, 8-12 dans un fruit.
+Fruit greyish-green, 6–8 mm diam., becoming ± whitish; the calycinal limb with constricted lobes persists as an obtuse protuberance forming a projection 1 mm in height. Seeds smooth, reaching 4 mm, 8–12 per fruit.
 
 ## Type
 
@@ -44,9 +43,7 @@ Zenker 1519, Yaunde, Cameroun, fl. 12 août 1897 (isotype P!)
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Liberia, Côte-d'Ivoire, Ghana, Nigeria, Cameroun, Gabon, Congo et Angola; cité de l'Ouganda.
+Liberia, Ivory Coast, Ghana, Nigeria, Cameroon, Gabon, Congo and Angola; cited from Uganda.
 
 ## Specimens examined
 

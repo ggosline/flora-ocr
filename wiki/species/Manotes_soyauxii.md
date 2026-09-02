@@ -7,6 +7,9 @@ family: Connaraceae
 vol: 33
 pages: 105-107
 source: sources/Connaraceae_vol33_paddle
+countries: [Cameroon, Democratic Republic of the Congo, Gabon]
+in_region: true
+habit: "liana"
 tags: [species, generated]
 ---
 # *Manotes soyauxii* Schellenberg

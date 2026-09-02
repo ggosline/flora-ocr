@@ -7,6 +7,9 @@ family: Orchidaceae
 vol: 37
 pages: 21-23
 source: sources/Orchidaceae_vol37_paddle
+countries: [Cameroon, Gabon]
+in_region: true
+habitat: [mangrove]
 tags: [species, generated]
 ---
 # *Polystachya victoriae* Kraenzl.

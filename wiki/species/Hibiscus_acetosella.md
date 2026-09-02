@@ -7,6 +7,10 @@ family: Malvaceae
 vol: 45
 pages: 63-64
 source: sources/Malvaceae_vol45_liteparse
+countries: [Angola, Benin, Cameroon, Cote d'Ivoire, Gabon, Mozambique]
+in_region: true
+habit: "herb"
+altitude_m: "1250"
 tags: [species, generated]
 ---
 # *Hibiscus acetosella* Welw. ex Hiern.

@@ -5,15 +5,14 @@ authority: (Baill.) Baill.
 genus: Quassia
 family: Simaroubaceae
 synonyms: [Simaba africana Baill.]
-countries: [Cameroon, Gabon, Democratic Republic of the Congo, Angola]
-in_region: true
-habit: shrub or subshrub
-habitat: [forest understorey]
 treatments:
   - vol: 3
     year: 1962
     pages: "47–49"
     source: sources/Simaroubaceae_vol3_paddle
+countries: [Angola, Cameroon, Gabon]
+in_region: true
+habit: "shrub"
 tags: [species]
 ---
 

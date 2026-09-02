@@ -7,6 +7,8 @@ family: Lomariopsidaceae
 vol: 08
 pages: 194-195
 source: sources/Lomariopsidaceae_vol08_paddle
+countries: [Angola, Senegal]
+in_region: true
 tags: [species, generated]
 ---
 # *Bolbitis heudelotii* (Bory ex Fée) Alston

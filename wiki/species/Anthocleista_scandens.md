@@ -7,6 +7,9 @@ family: Loganiaceae
 vol: 19
 pages: 13-14
 source: sources/Loganiaceae_vol19_paddle
+countries: [Cameroon, Equatorial Guinea, Sao Tome and Principe]
+in_region: true
+habit: "liana"
 tags: [species, generated]
 ---
 # *Anthocleista scandens* Hooker f.
@@ -45,7 +48,7 @@ Onochie FHI 34852, réserve de Bafut-Ngemba près Bamenda (fr. non mûrs, mars) 
 
 ![Anthocleista scandens](../sources/Loganiaceae_vol19_paddle/figures/fig_003_p0020.png)
 
-*PL. 3. — Anthocleista scandens Hook. f.: 1, rameau; 2, feuille; 3, fruit. (1 : d'après Mann 623, Fernando Po, K; 2 : Onochie FHI 34852, K; 3 : d'après Monod 11997 bis, São Tomé, BM). — Anthocleista laxiflora Bak.: 4, feuille; 5, fruit. (4-5 : d'après Mann 1802, Guinée équatoriale). (1-5, × ½).*
+*PL. 3. — Anthocleista scandens Hook. f.: 1, branch; 2, leaf; 3, fruit. (1 : after Mann 623, Fernando Po, K; 2 : Onochie FHI 34852, K; 3 : after Monod 11997 bis, São Tomé, BM). — Anthocleista laxiflora Bak.: 4, leaf; 5, fruit. (4-5 : after Mann 1802, Equatorial Guinea). (1-5, × ½).*
 
 ## Notes
 

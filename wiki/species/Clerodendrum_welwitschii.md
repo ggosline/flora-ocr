@@ -6,6 +6,13 @@ genus: Clerodendrum
 vol: 58
 pages: 47-48
 source: sources/Labiataeulmaceaeverbenaceae_vol58_liteparse
+countries: [Angola, Cameroon, Central African Republic, Democratic Republic of the Congo, Gabon, Nigeria, Republic of the Congo]
+in_region: true
+subdivisions:
+  Gabon: [Ogooué-Ivindo, Ogooué-Lolo, Woleu-Ntem]
+habit: "liana"
+habitat: [rocky ground]
+altitude_m: "320–900"
 tags: [species, generated]
 ---
 # *Clerodendrum welwitschii* Gürke

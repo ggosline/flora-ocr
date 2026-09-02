@@ -7,6 +7,12 @@ family: Leguminosae
 vol: 49
 pages: 172-174
 source: sources/Millettiaspeciesfabaceae_vol49_liteparse
+countries: [Gabon]
+in_region: true
+subdivisions:
+  Gabon: [Ogooué-Maritime, Woleu-Ntem]
+habitat: [gallery forest]
+altitude_m: "2–550"
 tags: [species, generated]
 ---
 # *Desmodium salicifolium* (Poir.) DC. var. salicifolium Planche 56

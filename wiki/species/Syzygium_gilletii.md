@@ -7,6 +7,7 @@ family: Myrtaceae
 vol: 11
 pages: 12-14
 source: sources/Myrtaceae_vol11_paddle
+habit: "tree"
 tags: [species, generated]
 ---
 # *Syzygium gilletii* De Wild.
@@ -17,23 +18,19 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Small glabrous tree, 7-9 m tall; trunk reaching 15 cm in diameter. Branches robust, quadrangular, hollow. Leaves subsessile, oblong, cordate at base, acuminate or acute at apex, 9-22 cm long and 4-11 cm wide.
 
-Petit arbre glabre, de 7-9 m de haut; le tronc peut atteindre 15 cm de diamètre. Rameaux robustes, quadrangulaires, creux. Feuilles subsessiles, oblongues, cordées à la base, acuminées ou
+Terminal inflorescences, branched, with robust, quadrangular, well-defined branches. Flowers white, large for the subgenus; buds 7-9 mm in diameter. Calyx lobes rounded. Filaments approximately 2 cm long; style somewhat longer. Fruit unknown, but probably globose and approximately 3 cm in diameter.
 
-aiguës au sommet, de 9-22 cm de long et de 4-11 cm de large
+Species very distinct by its flowers and broad leaves, as well as by its cordate leaves at base. Two other allied species, S. Giorgii De Wild., with red flowers and more compact inflorescences, and S. Germainii Amsh., with shortly petiolate leaves and somewhat smaller flowers, are known only from Congo.
 
-Inflorescences terminales, ramifiées, à branches robustes, quadrangulaires, bien distinctes. Fleurs blanches, larges pour le sous-genre; les boutons ont 7-9 mm de diamètre. Lobes du calice arrondis. Filets d'environ 2 cm de long; style un peu plus long. Fruit inconnu, mais probablement globuleux et large d'environ 3 cm de diamètre.
+Type of the species: Gillet s. n., Congo ex-belge.
 
-Espèce très distincte, par ses fleurs et feuilles larges, ainsi que par ses feuilles cordées à la base. Deux autres espèces alliées, S. Giorgii De Wild., à fleurs rouges et à inflorescences plus compactes, et S. Germainii Amsh., à feuilles courtement pétiolées et à fleurs un peu plus petites, ne sont connues que du Congo.
+Congo, Ubangi-Shari, Gabon.
 
-Type de l'espèce : Gillet s. n., Congo ex-belge.
+SPECIMENS STUDIED FOR GABON:
 
-Congo, Oubangui-Chari, Gabon.
-
-EXEMPLAIRES ÉTUDIÉS POUR LE GABON :
-
-Le Testu : 9207, 9637, région entre Ogooué et Cameroun (fl. juillet).
+Le Testu: 9207, 9637, region between Ogooué and Cameroon (fl. July).
 
 ## Notes
 

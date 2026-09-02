@@ -7,6 +7,8 @@ family: Dennstaedtiaceae
 vol: 08
 pages: 82-84
 source: sources/Dennstaedtiaceae_vol08_paddle
+countries: [Cameroon, Central African Republic, Equatorial Guinea]
+in_region: true
 tags: [species, generated]
 ---
 # *Lonchitis tisserantii* Alston et Tardieu

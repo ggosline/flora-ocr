@@ -7,6 +7,11 @@ family: Putranjivaceae
 vol: 57
 pages: 145-146
 source: sources/Putranjivaceae_vol57_paddle
+countries: [Cameroon, Cote d'Ivoire, Equatorial Guinea, Gabon, Liberia, Nigeria]
+in_region: true
+subdivisions:
+  Gabon: [Estuaire, Ngounié, Ogooué-Ivindo, Ogooué-Maritime, Woleu-Ntem]
+habit: "tree"
 tags: [species, generated]
 ---
 # *Drypetes klainei* Pierre ex Pax

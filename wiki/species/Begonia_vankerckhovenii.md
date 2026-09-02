@@ -7,6 +7,10 @@ family: Begoniaceae
 vol: 39
 pages: 66-68
 source: sources/Begoniaceae_vol39_liteparse
+countries: [Democratic Republic of the Congo, Gabon]
+in_region: true
+habitat: [primary forest, rocky ground]
+altitude_m: "500–900"
 tags: [species, generated]
 ---
 # *Begonia vankerckhovenii* De Wild.

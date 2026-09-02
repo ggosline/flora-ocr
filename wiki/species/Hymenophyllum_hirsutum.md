@@ -7,6 +7,7 @@ family: Hymenophyllaceae
 vol: 08
 pages: 63-64
 source: sources/Hymenophyllaceae_vol08_paddle
+habit: "herb"
 tags: [species, generated]
 ---
 # *Hymenophyllum hirsutum* (L.) Swartz

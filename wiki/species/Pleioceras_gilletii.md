@@ -7,6 +7,10 @@ family: Apocynaceae
 vol: 59
 pages: 202-202
 source: sources/Apocynaceae_vol59_liteparse
+countries: [Gabon]
+in_region: true
+habit: "liana"
+altitude_m: "480"
 tags: [species, generated]
 ---
 # *Pleioceras gilletii* Stapf Planche 94 ; Figure 9(H)

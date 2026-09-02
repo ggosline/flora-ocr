@@ -6,6 +6,10 @@ genus: Clerodendrum
 vol: 58
 pages: 43-43
 source: sources/Labiataeulmaceaeverbenaceae_vol58_liteparse
+countries: [Gabon, Ghana, Guinea, Republic of the Congo, Tanzania]
+in_region: true
+habit: "tree"
+altitude_m: "600"
 tags: [species, generated]
 ---
 # *Clerodendrum speciosissimum* Van Geert ex Drapiez

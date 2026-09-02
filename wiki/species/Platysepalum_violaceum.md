@@ -7,6 +7,13 @@ family: Leguminosae
 vol: 49
 pages: 319-321
 source: sources/Millettiaspeciesfabaceae_vol49_liteparse
+countries: [Angola, Cameroon, Democratic Republic of the Congo, Gabon, Nigeria]
+in_region: true
+subdivisions:
+  Gabon: [Estuaire, Nyanga, Ogooué-Lolo, Ogooué-Maritime, Woleu-Ntem]
+habit: "tree"
+habitat: [secondary forest]
+altitude_m: "110–760"
 tags: [species, generated]
 ---
 # *Platysepalum violaceum* Welw. ex Baker var. vanhouttei (De Wild.) Hauman

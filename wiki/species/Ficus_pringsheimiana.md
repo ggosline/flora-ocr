@@ -7,6 +7,10 @@ family: Moraceae
 vol: 26
 pages: 231-232
 source: sources/Moraceae_vol26_paddle
+countries: [Democratic Republic of the Congo, Gabon, Sierra Leone]
+in_region: true
+habitat: [riverine]
+altitude_m: "4"
 tags: [species, generated]
 ---
 # *Ficus pringsheimiana* Braun & K. Schumann
@@ -47,7 +51,7 @@ Breteler & De Wilde J.J.F.E. 152, 9 km W Asok (fig., août). Hladik 2588, Mpassa
 
 ![Ficus pringsheimiana](../sources/Moraceae_vol26_paddle/figures/fig_069_p0230.png)
 
-*PL. 68. – Ficus pringsheimiana Braun & K. Schum.: 1, rameau avec feuilles et figue × 2/3; 2, feuille × 2/3; 3, figue × 3/5 (1, Letouzey 12786, Cameroun; 2, Bos 4976, Cameroun; 3, Letouzey 13043, Cameroun).*
+*PL. 68. – Ficus pringsheimiana Braun & K. Schum.: 1, branch with leaves and fig × 2/3; 2, leaf × 2/3; 3, fig × 3/5 (1, Letouzey 12786, Cameroon; 2, Bos 4976, Cameroon; 3, Letouzey 13043, Cameroon).*
 
 ## Notes
 

@@ -7,17 +7,15 @@ family: Olacaceae
 synonyms:
   - "Strombosiopsis congolensis De Wild. & Th.Dur."
   - "Strombosiopsis tetrandra var. congolensis (De Wild. & Th.Dur.) De Wild. & Th.Dur."
-habit: tree
-habitat: [dense humid forest, inundable forest, gallery forest]
-altitude_m: "to 700"
-countries: [Cameroon, Democratic Republic of the Congo, Gabon, Nigeria]
-subdivisions:
-  Gabon: [Estuaire, Ogooué-Ivindo, Ngounié, Moyen-Ogooué, Haut-Ogooué]
-in_region: true
 treatments:
   - vol: 20
     pages: "154–158"
     source: sources/Olacaceae_vol20_paddle
+countries: [Democratic Republic of the Congo, Gabon, Nigeria]
+in_region: true
+subdivisions:
+  Gabon: [Ngounié]
+habit: "tree"
 tags: [species]
 ---
 

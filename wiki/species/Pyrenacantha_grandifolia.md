@@ -7,6 +7,7 @@ family: Icacinaceae
 vol: 20
 pages: 76-78
 source: sources/Icacinaceae_vol20_paddle
+habit: "liana"
 tags: [species, generated]
 ---
 # *Pyrenacantha grandifolia* Engler

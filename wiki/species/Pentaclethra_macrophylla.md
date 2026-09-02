@@ -7,6 +7,9 @@ family: Leguminosae
 vol: 31
 pages: 22-27
 source: sources/Leguminosae_vol31_paddle
+countries: [Angola, Democratic Republic of the Congo, Guinea, Senegal]
+in_region: true
+habit: "herb"
 tags: [species, generated]
 ---
 # *Pentaclethra macrophylla* Bentham
@@ -78,11 +81,11 @@ Le Testu 1168, Tchibanga (fr., sept.).
 
 ![Pentaclethra macrophylla](../sources/Leguminosae_vol31_paddle/figures/fig_013_p0024.png)
 
-*PL. 2. – Pentaclethra macrophylla Benth.: 1, jeune pousse avec stipules × 2; 2, foliole jeune × 7; 3, feuille × 2/3; 4, pétiole, détail × 3,5; 5, rachis, détail × 2,5; 6, foliole face inférieure, détail × 6; 7, inflorescence × 4/5; 8, bouton floral × 10; 9, fleur × 10; 10, fleur, coupe longitudinale × 10; 11, corolle ouverte × 10; 12, anthère × 30; 13, pistil × 20. (1, 2, Hallé N. & Villiers J.-F. 5606; 3, 6, Espírito Santo 3008 (Guinée Bissau); 4, 5, Louis A.M. 1074; 7-13, Hladik 2039).*
+*PL. 2. – Pentaclethra macrophylla Benth.: 1, young shoot with stipules × 2; 2, young leaflet × 7; 3, leaf × 2/3; 4, petiole, detail × 3,5; 5, rachis, detail × 2,5; 6, leaflet lower surface, detail × 6; 7, inflorescence × 4/5; 8, floral bud × 10; 9, flower × 10; 10, flower, longitudinal section × 10; 11, open corolla × 10; 12, anther × 30; 13, pistil × 20. (1, 2, Hallé N. & Villiers J.-F. 5606; 3, 6, Espírito Santo 3008 (Guinea Bissau); 4, 5, Louis A.M. 1074; 7-13, Hladik 2039).*
 
 ![Pentaclethra macrophylla](../sources/Leguminosae_vol31_paddle/figures/fig_014_p0026.png)
 
-*PL. 3. – Pentaclethra macrophylla Benth.: 1, 2, fruit × 2/3; 3, exocarpe, détail × 4; 4, 5, graine × 1. (1, 3, Le Testu 1168; 2, 5, Jacques-Félix 1132 (Cameroun); 4, Toussaint 192 (Zaïre). – Pentaclethra eetveldeana De Wild. & Th. Dur.: 6, 7, fruit × 1; 8, exocarpe, détail × 4; 9, graine × 1. (6, Aubréville 211 (Congo); 7, 8, Léonard 1026 (Zaïre); 9, Léonard 592 (Zaïre)).*
+*PL. 3. – Pentaclethra macrophylla Benth.: 1, 2, fruit × 2/3; 3, exocarp, detail × 4; 4, 5, seed × 1. (1, 3, Le Testu 1168; 2, 5, Jacques-Félix 1132 (Cameroon); 4, Toussaint 192 (Zaire). – Pentaclethra eetveldeana De Wild. & Th. Dur.: 6, 7, fruit × 1; 8, exocarp, detail × 4; 9, seed × 1. (6, Aubréville 211 (Congo); 7, 8, Léonard 1026 (Zaire); 9, Léonard 592 (Zaire)).*
 
 ## Notes
 

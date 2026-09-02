@@ -7,6 +7,13 @@ family: Cyperaceae
 vol: 44
 pages: 59-59
 source: sources/Cyperaceae_vol44_liteparse
+countries: [Gabon]
+in_region: true
+subdivisions:
+  Gabon: [Ngounié, Nyanga, Ogooué-Maritime]
+habit: "herb"
+habitat: [rocky ground]
+altitude_m: "0–200"
 tags: [species, generated]
 ---
 # *Cyperus dubius* Rottb. Planche 32

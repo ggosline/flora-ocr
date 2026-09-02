@@ -7,6 +7,9 @@ family: Leguminosae
 vol: 15
 pages: 77-81
 source: sources/Leguminosae_vol15_paddle
+countries: [Cameroon, Gabon]
+in_region: true
+habit: "tree"
 tags: [species, generated]
 ---
 # *Scorodophleus zenkeri* Harms
@@ -17,15 +20,11 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Trees with garlic odour. Leaves pinnate with 5–10 pairs of alternate, sessile, oblong leaflets, rounded or obtuse at apex, truncate and unequal at base, the posterior part being the narrowest, glabrous, 20–25 × 8–9 cm. Rachis 8–10 cm, channelled and very slightly winged. Stipules linear.
 
-Arbres à odeur ailliacée. Feuilles pennées à 5-10 paires de folioles alternes, sessiles, oblongues, arrondies ou obtuses au sommet, tronquées et inégales à la base, la partie postérieure
+Inflorescences of white flowers in dense terminal or axillary racemes 5–8 cm long, pubescent. Bracteoles 2, inserted towards the middle of the pedicel, linear-lanceolate, 2–3 mm long, not involucral. Pedicels 6–7 mm. Receptacle subcylindric, narrow, 5–6 mm deep, pubescent. Sepals 4, pubescent, 6 mm long. Petals 5, obovate, subequal, 9–10 mm long, glabrous or nearly so. Ovary with hirsute margin. Ovule 2.
 
-étant la plus étroite, glabres, de 20-25 × 8-9 cm. Rachis de 8-10 cm, canaliculé et très légèrement ailé. Stipules linéaires.
-
-Inflorescences de fleurs blanches en grappes denses terminales ou axillaires de 5-8 cm, pubescentes. Bractéoles 2, insérées vers le milieu du pédicelle, linéaires-lancéolées, 2-3 mm de longueur, non involucrales. Pédicelles 6-7 mm. Réceptacle subcylindrique, étroit, profond de 5-6 mm, pubescent. Sépales 4, pubescents, longs de 6 mm. Pétales 5, obovés, subégaux, de 9-10 mm de longueur, glabres ou presque. Ovaire à marge hirsute. Ovule 2.
-
-Gousse plate et lisse, apiculée. Le bord sutural se termine de chaque côté par une crête (subailé).
+Pod flat and smooth, apiculate. The sutural margin terminates on each side in a ridge (subwinged).
 
 ## Vernacular names
 
@@ -39,11 +38,9 @@ Zenker 2245 (P,BR)
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Medium-sized trees of the dominated storey, rarely exceeding 0.80 m in diameter. Base of trunk slightly fluted. Trunk poorly cylindric. Bark at first smooth then scaly, greyish-yellow in colour. Cross-section approximately 8 mm thick, brittle, yellowish in colour. It exhales a very pronounced and very characteristic garlic odour. Wood yellow, hard, heavy, fine-grained.
 
-Arbres de taille moyenne, de l'étage dominé, dépassant rarement 0,80 m de diamètre. Base du fût légèrement cannelée. Fût peu cylindrique. Écorce d'abord lisse puis écailleuse, de teinte gris jaune. Tranche épaisse de 8 mm environ, cassante, de teinte jaune. Elle exhale une odeur alliacée très prononcée et très caractéristique. Bois jaune, dur, lourd, à grain fin.
-
-Espèce très répandue du Cameroun au Gabon, au Mayombé et au Congo, parfois très abondante dans l'étage dominé de la forêt. Louis en a fait l'espèce caractéristique de la forêt hétérogène de terre ferme qu'il a appelé « forêt à Scorodophlaeus ». Au Gabon elle est rare à l'Ouest, mais devient commune dans le Centre et l'Est. L'écorce et les jeunes feuilles sont employées localement comme condiment.
+Species very widespread from Cameroon to Gabon, to Mayombé and to Congo, sometimes very abundant in the dominated storey of the forest. Louis made it the characteristic species of the heterogeneous upland forest which he called "Scorodophlaeus forest". In Gabon it is rare in the West, but becomes common in the Centre and East. The bark and young leaves are used locally as a condiment.
 
 ## Specimens examined
 
@@ -75,7 +72,7 @@ Genre monotypique camerouno-congolais, très proche de Cynometra.
 
 ![Scorodophleus zenkeri](../sources/Leguminosae_vol15_paddle/figures/fig_014_p0078.png)
 
-*PL. XIV. — Scorodophloeus Zenkeri Harms : 1, feuilles et inflorescence × 2/3; 2, détail de la feuille; 3, fleur × 2; 4, coupe de la fleur × 2; 5, fruit × 2/3.*
+*PL. XIV. — Scorodophloeus Zenkeri Harms : 1, leaves and inflorescence × 2/3; 2, detail of the leaf; 3, flower × 2; 4, section of the flower × 2; 5, fruit × 2/3.*
 
 ## Notes
 

@@ -7,6 +7,11 @@ family: Sapindaceae
 vol: 23
 pages: 49-54
 source: sources/Sapindaceae_vol23_paddle
+countries: [Angola, Cameroon, Central African Republic, Cote d'Ivoire, Democratic Republic of the Congo, Gabon, Ghana, Guinea, Liberia, Nigeria, Senegal, Sierra Leone, Tanzania, Togo]
+in_region: true
+habit: "tree"
+habitat: [primary forest]
+altitude_m: "1800"
 tags: [species, generated]
 ---
 # *Allophylus africanus* Palisot de Beauvois
@@ -161,7 +166,7 @@ Le Testu 1731, Tchibanga (arbre 20 m, diam. 25 cm, fl., mai). Thollon 1131, for�
 
 ![Allophylus africanus](../sources/Sapindaceae_vol23_paddle/figures/fig_010_p0055.png)
 
-*PL. 10. — Allophylus zenkeri Gilg (Zenker 3203) : 1, feuille et inflorescence, limbe 15 cm; 1', domaties; 2, cymules; 3, bouton 1,3 mm; 3', 3", 3", sépales, supérieur, inférieur et latéral, 4, 4", pétale d'un bouton, face interne, profil, face externe; 5, 5', étamine, face externe et interne; 6, disque; 7, 8, 9, pétale, étamine face interne et pistil de fleur épanouie. — Allophylus africanus P. B. fa. acuminatus Robyns (Robyns 346) : 10, feuille et inflorescence, limbe 12 cm; 10', coupe du pétiole, diamètre 1,5 mm; 11, cymules; 12, bouton 1,3 mm; 13, pétale, de fleur épanouie, face interne et profil; 14, étamine.*
+*PL. 10. — Allophylus zenkeri Gilg (Zenker 3203) : 1, leaf and inflorescence, blade 15 cm; 1', domatia; 2, cymules; 3, bud 1,3 mm; 3', 3", 3", sepals, upper, lower and lateral, 4, 4", petal of a bud, internal face, profile, external face; 5, 5', stamen, external and internal face; 6, disk; 7, 8, 9, petal, stamen internal face and pistil of open flower. — Allophylus africanus P. B. fa. acuminatus Robyns (Robyns 346) : 10, leaf and inflorescence, blade 12 cm; 10', section of petiole, diameter 1,5 mm; 11, cymules; 12, bud 1,3 mm; 13, petal, of open flower, internal face and profile; 14, stamen.*
 
 ## Notes
 

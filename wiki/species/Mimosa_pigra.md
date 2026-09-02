@@ -7,6 +7,8 @@ family: Leguminosae
 vol: 31
 pages: 90-93
 source: sources/Leguminosae_vol31_paddle
+countries: [Madagascar]
+in_region: false
 tags: [species, generated]
 ---
 # *Mimosa pigra* Linné
@@ -63,7 +65,7 @@ Fleury in Chevalier 26195, env. Adouma, sur l'Orimbo, affluent de l'Ogooué (fl.
 
 ![Mimosa pigra](../sources/Leguminosae_vol31_paddle/figures/fig_034_p0092.png)
 
-*PL. 22. – Mimosa pigra L.: 1, aspect général × 1; 2, stipule × 4; 3, rachis, détail × 4; 4, foliole, face inférieure × 12; 5, bractéole × 20; 6, fleur × 12; 7, pistil × 20; 8, infrutescence × 1; 9, exocarpe, détail × 6; 10, graine × 3 (1-3, SRFK 4434 (Cameroun); 4, 7, Letouzey 7450 (Cameroun); 5, 6, Audru 3583 (Sénégal); 8, 9, Hédin 226 (Cameroun); 10, Jacques-Félix 1411 (Cameroun).*
+*PL. 22. – Mimosa pigra L.: 1, general aspect × 1; 2, stipule × 4; 3, rachis, detail × 4; 4, leaflet, lower surface × 12; 5, bracteole × 20; 6, flower × 12; 7, pistil × 20; 8, fruiting inflorescence × 1; 9, exocarp, detail × 6; 10, seed × 3 (1-3, SRFK 4434 (Cameroon); 4, 7, Letouzey 7450 (Cameroon); 5, 6, Audru 3583 (Senegal); 8, 9, Hédin 226 (Cameroon); 10, Jacques-Félix 1411 (Cameroon).*
 
 ## Notes
 

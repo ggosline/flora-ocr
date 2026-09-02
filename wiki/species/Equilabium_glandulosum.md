@@ -6,6 +6,12 @@ genus: Equilabium
 vol: 58
 pages: 62-63
 source: sources/Labiataeulmaceaeverbenaceae_vol58_liteparse
+countries: [Cameroon, Central African Republic, Democratic Republic of the Congo, Equatorial Guinea, Gabon, Nigeria]
+in_region: true
+subdivisions:
+  Gabon: [Estuaire]
+habit: "herb"
+altitude_m: "700–1800"
 tags: [species, generated]
 ---
 # *Equilabium glandulosum* (Hook.f.) Mwany. & A.J.Paton Figure 4(B, C)

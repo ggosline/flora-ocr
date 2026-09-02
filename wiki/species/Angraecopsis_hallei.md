@@ -7,6 +7,7 @@ family: Orchidaceae
 vol: 37
 pages: 221-222
 source: sources/Orchidaceae_vol37_paddle
+countries_incomplete: true
 tags: [species, generated]
 ---
 # *Angraecopsis hallei* Szlach. & Olsz.
@@ -35,11 +36,11 @@ Hallé 2600, 6 km NE of Mékambo, Gabon (fl. Oct.), P!.
 
 ![Angraecopsis hallei](../sources/Orchidaceae_vol37_paddle/figures/fig_108_p0222.png)
 
-*PL. 214. – Structure du gynostème du genre Angraecopsis Kraenzl. : A, vue de dessous ; B, vue latérale ; C, reste du rostelle, vue de face ; D, anthère ; E, pollinies (A-E, ex SzLACHETKO, 2003).*
+*PL. 214. – Structure of the gynostème of the genus Angraecopsis Kraenzl. : A, view from below ; B, lateral view ; C, rostellum remnant, front view ; D, anther ; E, pollinia (A-E, ex SzLACHETKO, 2003).*
 
 ![Angraecopsis hallei](../sources/Orchidaceae_vol37_paddle/figures/fig_109_p0223.png)
 
-*PL. 215. – Angraecopsis hallei Szlach. & Olsz. : A, fleur, tépales enlevés ; B, labelle étalé ; C, sépale latéral ; D, sépale dorsal ; E, sépale latéral et pétale ; F, gynostème, vue latérale ; G, gynostème, vue de face ; H, fleur ; I, feuille (A-I, Hallé 2600, P).*
+*PL. 215. – Angraecopsis hallei Szlach. & Olsz. : A, flower, tepals removed ; B, labellum spread ; C, lateral sepal ; D, dorsal sepal ; E, lateral sepal and petal ; F, gynostème, lateral view ; G, gynostème, front view ; H, flower ; I, leaf (A-I, Hallé 2600, P).*
 
 ## Notes
 

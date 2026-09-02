@@ -7,6 +7,11 @@ family: Phyllanthaceae
 vol: 43
 pages: 64-66
 source: sources/Phyllanthaceae_vol43_liteparse
+countries: [Angola, Gabon, Guinea, Malawi, Sudan, Zambia]
+in_region: true
+habit: "liana"
+habitat: [secondary forest]
+altitude_m: "500"
 tags: [species, generated]
 ---
 # *Phyllanthus muellerianus* (O.Ktze) Exell

@@ -7,6 +7,10 @@ family: Begoniaceae
 vol: 39
 pages: 108-110
 source: sources/Begoniaceae_vol39_liteparse
+countries: [Cameroon, Cote d'Ivoire, Democratic Republic of the Congo, Equatorial Guinea, Gabon, Ghana, Guinea, Liberia, Nigeria]
+in_region: true
+habit: "epiphyte"
+altitude_m: "1150"
 tags: [species, generated]
 ---
 # *Begonia polygonoides* Hook.f. Planche 50

@@ -7,6 +7,13 @@ family: Leguminosae
 vol: 49
 pages: 290-292
 source: sources/Millettiaspeciesfabaceae_vol49_liteparse
+countries: [Democratic Republic of the Congo, Gabon]
+in_region: true
+subdivisions:
+  Gabon: [Estuaire, Haut-Ogooué, Ogooué-Ivindo, Ogooué-Maritime]
+habit: "tree"
+habitat: [primary forest, riverine]
+altitude_m: "0–400"
 tags: [species, generated]
 ---
 # *Millettia limbutuensis* De Wild.

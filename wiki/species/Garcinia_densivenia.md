@@ -7,6 +7,13 @@ family: Clusiaceae
 vol: 45
 pages: 23-24
 source: sources/Clusiaceae_vol45_liteparse
+countries: [Cameroon, Equatorial Guinea, Gabon]
+in_region: true
+subdivisions:
+  Gabon: [Ogooué-Ivindo, Ogooué-Lolo]
+habit: "shrub"
+habitat: [secondary forest, riverine, coastal]
+altitude_m: "400"
 tags: [species, generated]
 ---
 # *Garcinia densivenia* Engl.

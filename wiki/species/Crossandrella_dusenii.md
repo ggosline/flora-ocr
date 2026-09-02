@@ -7,6 +7,9 @@ family: Acanthaceae
 vol: 13
 pages: 112-113
 source: sources/Acanthaceae_vol13_paddle
+countries: [Cameroon, Gabon, Nigeria, Uganda]
+in_region: true
+habit: "shrub"
 tags: [species, generated]
 ---
 # *Crossandrella dusenii* (Lindau) S. Moore

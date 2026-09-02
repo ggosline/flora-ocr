@@ -7,6 +7,9 @@ family: Lauraceae
 vol: 10
 pages: 62-63
 source: sources/Lauraceae_vol10_paddle
+countries: [Cameroon, Democratic Republic of the Congo]
+in_region: true
+habit: "tree"
 tags: [species, generated]
 ---
 # *Beilschmiedia gaboonensis* (Meissn.) Benth. et Hook. f.
@@ -48,7 +51,7 @@ Le Testu : 8140 et 8148, Lastoursville (fl. juin-juillet); le feuillage du secon
 
 ![Beilschmiedia gaboonensis](../sources/Lauraceae_vol10_paddle/figures/fig_014_p0057.png)
 
-*PL. XIII. — 1 à 4, Beilschmiedia gaboonensis (Meissn.) Benth. et Hook. (Mann 979, type) : 1, rameau florifère, feuille de 21 cm; 2, bractée de 2 mm; 3, bouton floral de 1 mm de diam.; 4, coupe. — 5 à 8, Beilschmiedia Pierrreana Rob. et Wilcz. (Zenker 3766, type) : 5, rameau florifère, feuille de 17 cm; 5', cyme; 6, bractée de 7 mm; 7, bouton floral de 1 mm de diam.; 8, coupe.*
+*PL. XIII. — 1 to 4, Beilschmiedia gaboonensis (Meissn.) Benth. et Hook. (Mann 979, type) : 1, flowering branch, leaf 21 cm; 2, bract 2 mm; 3, flower bud 1 mm diam.; 4, section. — 5 to 8, Beilschmiedia Pierrreana Rob. et Wilcz. (Zenker 3766, type) : 5, flowering branch, leaf 17 cm; 5', cyme; 6, bract 7 mm; 7, flower bud 1 mm diam.; 8, section.*
 
 ## Notes
 

@@ -7,6 +7,8 @@ family: Dichapetalaceae
 vol: 32
 pages: 146-149
 source: sources/Dichapetalaceae_vol32_paddle
+countries: [Cameroon, Cote d'Ivoire, Equatorial Guinea, Gabon, Ghana, Liberia, Nigeria, Sierra Leone]
+in_region: true
 tags: [species, generated]
 ---
 # *Dichapetalum oblongum* (Hooker fil. ex Bentham) Engler
@@ -59,7 +61,7 @@ Le Testu 2243, Sindara (fl., Nov.). Pobéguin 125, Rivière de la Ngounié (fl.,
 
 ![Dichapetalum oblongum](../sources/Dichapetalaceae_vol32_paddle/figures/fig_042_p0148.png)
 
-*PL. 41 – Dichapetalum oblongum (Hooker fil. ex Bentham) Engler : 1, rameau florifère × 0,8 ; 2, aisselle foliaire, stipule, pétiole et portion du pédoncule × 2,5 ; 3, fleur × 5 ; 4, fleur, détail × 7,5 ; 5, pétale et étanine × 7,5 ; 6, pistil × 7,5 ; 7, rameau fructifère × 0,8 ; 8, indumentum du fruit, détail × 15 ; 9, endocarpe × 0,8 (1, 3-6, Breteler 5928 ; 2, Bos 2529 ; 7-9, Breteler 5330). – Repris de MLW 81 (10) : 57 (1981).*
+*PL. 41 – Dichapetalum oblongum (Hooker fil. ex Bentham) Engler : 1, flowering branch × 0.8 ; 2, leaf axil, stipule, petiole and portion of peduncle × 2.5 ; 3, flower × 5 ; 4, flower, detail × 7.5 ; 5, petal and stamen × 7.5 ; 6, pistil × 7.5 ; 7, fruiting branch × 0.8 ; 8, indumentum of fruit, detail × 15 ; 9, endocarp × 0.8 (1, 3-6, Breteler 5928 ; 2, Bos 2529 ; 7-9, Breteler 5330). – Reprinted from MLW 81 (10) : 57 (1981).*
 
 ## Notes
 

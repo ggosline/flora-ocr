@@ -7,6 +7,7 @@ family: Combretaceae
 vol: 35
 pages: 106-107
 source: sources/Combretaceae_vol35_paddle
+habit: "tree"
 tags: [species, generated]
 ---
 # *Terminalia catappa* LINNÉ
@@ -17,39 +18,35 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+KEAY, FWTA, ed. 2, 1(1): 277 (1954); LIBEN, FZ: 102 (1968); Fl. Cam. 25: 79 (1983). TYPE: Herb. Linné 1222 (LINN).
 
-KEAY, FWTA, ed. 2, 1(1) : 277 (1954) ; LIBEN, FZ : 102 (1968) ; Fl. Cam. 25 : 79 (1983). TYPE : Herb. Linné 1222 (LINN).
+Trees; young branches velvety.
 
-Arbres ; jeunes rameaux veloutés.
+Leaves alternate; petiole ≤ 2.5 cm, velvety; blade obovate, ≤ 25 × ≤ 18 cm; base rounded; apex acute; major lateral nerves 8–11 pairs, some with pouch-like domatia.
 
-Feuilles alternes ; pétiole ≤ 2,5 cm, velouté ; limbe obové, ≤ 25 × ≤ 18 cm ; base arrondie ; sommet aigu ; grandes nervures latérales 8-11 paires, certaines avec des domaties en pochettes.
+Inflorescences axillary, up to ≤ 17 cm long.
 
-Inflorescences axillaires, longues de ≤ 17 cm.
+Flowers 5-merous, sessile, buds rounded to acute. Receptacle puberulent, green: the lower receptacle up to ≤ 1 mm high on male flowers, and up to ≤ 4 mm on bisexual flowers; upper receptacle, diameter 34 mm.
 
-Fleurs 5-mères, sessiles, boutons arrondis à aigus. Réceptacle pubérulent, vert : l'inférieur haut de ≤ 1 mm sur les fleurs mâles, et de ≤ 4 mm sur les fleurs bisexuées ; réceptacle supérieur, diamètre 34 mm.
+Calyx, lobes whitish, triangular, with acute apex. Stamens, length 3 mm; filaments white; anthers 0.7 mm long, yellow. Disk with very pubescent margin. Style 3 mm long.
 
-Calice, lobes blanchâtes, triangulaires, à sommet aigu. Étamines, longueur de 3 mm ; filets blancs ; anthères longues de 0,7 mm, jaunes. Disque à bord très pubescent. Style long de 3 mm.
+Fruit obovate with two crests, ≤ 6 × ≤ 3.5 cm, fleshy, green. – Pl. 31, AD, p. 105.
 
-Fruit obové à deux crêtes, ≤ 6 × ≤ 3,5 cm, charnu, vert. – Pl. 31, AD, p. 105.
-
-RÉPARTITION GÉOGRAFIIQUE : cspècc originaire d’Asie mais introduite sous tous les tropiques (les graines sont comestibles); naturalisée le long de la côte au Gabon.
+GEOGRAPHIC DISTRIBUTION: species native to Asia but introduced throughout the tropics (the seeds are edible); naturalized along the coast in Gabon.
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+sandy beaches
 
-plages de sable
+Breteler et al first
 
-Bretel al première
-
-Breteler, Jongkind et Wieringa 11148, Ndjolé, planté comme arbre ornamental [première récolte à l'intérieur des terres] (fl., fr., Avr.), LBV, WAG. de Wilde & al. 8930, Libreville (plantules), BR, LBV, MA, MO, P, PRE, WAG. Louis 1683, Libreville (fl., fr., Fév.), LBV, WAG.
+Breteler, Jongkind and Wieringa 11148, Ndjolé, planted as ornamental tree [first collection inland] (fl., fr., Apr.), LBV, WAG. de Wilde & al. 8930, Libreville (seedlings), BR, LBV, MA, MO, P, PRE, WAG. Louis 1683, Libreville (fl., fr., Feb.), LBV, WAG.
 
 ## Figures
 
 ![Terminalia catappa](../sources/Combretaceae_vol35_paddle/figures/fig_035_p0108.png)
 
-*PL. 31. – Terminalia catappa L. : A, rameau florifère × 1/4 ; B, bouton × 5 ; C, fleur bisexuée × 5 ; D, fruit × 1/2. – Terminalia mantaly H. Perrier : E, rameau florifère × 1/2 ; F, fleur × 6 ; G, fruit × 1,5 ; H, fruit vu de profil × 1/2 (A, B, J. Louis 2684 ; C, J. Louis 11148 ; D, Dang 457 ; E, RN Madagascar 28 ; F, SF Madagascar 10906 ; G, H, SF Madagascar 6173). – Dessins de M. ALLARD reproduits avec l'autorisation du Département des Spermatophytes et Ptéridophytes du Jardin Botanique National de MEISE (Belgique).*
+*PL. 31. – Terminalia catappa L. : A, flowering branch × 1/4 ; B, bud × 5 ; C, bisexual flower × 5 ; D, fruit × 1/2. – Terminalia mantaly H. Perrier : E, flowering branch × 1/2 ; F, flower × 6 ; G, fruit × 1,5 ; H, fruit seen in profile × 1/2 (A, B, J. Louis 2684 ; C, J. Louis 11148 ; D, Dang 457 ; E, RN Madagascar 28 ; F, SF Madagascar 10906 ; G, H, SF Madagascar 6173). – Drawings by M. ALLARD reproduced with the permission of the Department of Spermatophytes and Pteridophytes of the National Botanic Garden of MEISE (Belgium).*
 
 ## Notes
 

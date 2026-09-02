@@ -7,6 +7,13 @@ family: Leguminosae
 vol: 49
 pages: 232-232
 source: sources/Millettiaspeciesfabaceae_vol49_liteparse
+countries: [Angola, Gabon, Guinea]
+in_region: true
+subdivisions:
+  Gabon: [Nyanga, Ogooué-Maritime, Woleu-Ntem]
+habit: "liana"
+habitat: [secondary forest]
+altitude_m: "0–200"
 tags: [species, generated]
 ---
 # *Leptoderris glabrata* (Welw. ex Baker) Dunn

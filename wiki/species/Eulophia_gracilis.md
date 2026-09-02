@@ -7,6 +7,9 @@ family: Orchidaceae
 vol: 37
 pages: 97-99
 source: sources/Orchidaceae_vol37_paddle
+countries: [Cameroon, Cote d'Ivoire, Democratic Republic of the Congo, Gabon, Liberia]
+in_region: true
+habitat: [savanna, secondary forest, riverine, coastal]
 tags: [species, generated]
 ---
 # *Eulophia gracilis* Lindl.

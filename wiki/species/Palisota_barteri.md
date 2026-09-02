@@ -7,6 +7,11 @@ family: Commelinaceae
 vol: 55
 pages: 54-56
 source: sources/Commelinaceae_vol55_liteparse
+countries: [Benin, Cameroon, Cote d'Ivoire, Democratic Republic of the Congo, Equatorial Guinea, Gabon, Ghana, Liberia, Nigeria, Sierra Leone, Togo]
+in_region: true
+subdivisions:
+  Gabon: [Ngounié, Nyanga, Ogooué-Ivindo, Ogooué-Lolo, Ogooué-Maritime]
+habit: "herb"
 tags: [species, generated]
 ---
 # *Palisota barteri* Hook.f. Planche 14

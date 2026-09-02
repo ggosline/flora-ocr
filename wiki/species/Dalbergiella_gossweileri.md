@@ -7,6 +7,13 @@ family: Leguminosae
 vol: 49
 pages: 160-161
 source: sources/Millettiaspeciesfabaceae_vol49_liteparse
+countries: [Angola, Equatorial Guinea, Gabon]
+in_region: true
+subdivisions:
+  Gabon: [Ngounié, Ogooué-Ivindo, Ogooué-Lolo, Ogooué-Maritime, Woleu-Ntem]
+habit: "liana"
+habitat: [secondary forest]
+altitude_m: "30–600"
 tags: [species, generated]
 ---
 # *Dalbergiella gossweileri* Baker f. Planche 52

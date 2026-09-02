@@ -7,6 +7,10 @@ family: Passifloraceae
 vol: 46
 pages: 93-95
 source: sources/Passifloraceae_vol46_liteparse
+countries: [Gabon]
+in_region: true
+habit: "herb"
+altitude_m: "620"
 tags: [species, generated]
 ---
 # *Passiflora foetida* L. Planche 37

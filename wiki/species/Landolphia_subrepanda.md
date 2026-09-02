@@ -7,6 +7,11 @@ family: Apocynaceae
 vol: 59
 pages: 153-156
 source: sources/Apocynaceae_vol59_liteparse
+countries: [Cameroon, Gabon, Nigeria]
+in_region: true
+subdivisions:
+  Gabon: [Ngounié]
+habit: "liana"
 tags: [species, generated]
 ---
 # *Landolphia subrepanda* (K.Schum.) Pichon Planche 69 ; Figure 7(F)

@@ -7,6 +7,9 @@ family: Leguminosae
 vol: 31
 pages: 129-130
 source: sources/Leguminosae_vol31_paddle
+countries: [Angola, Democratic Republic of the Congo, Gabon]
+in_region: true
+habit: "liana"
 tags: [species, generated]
 ---
 # *Acacia ciliolata* Brenan & Exell

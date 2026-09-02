@@ -7,6 +7,12 @@ family: Urticaceae
 vol: 51
 pages: 59-61
 source: sources/Urticaceae_vol51_liteparse
+countries: [Angola, Gabon, Guinea, Madagascar, Mozambique, Senegal, Sierra Leone, Zimbabwe]
+in_region: true
+subdivisions:
+  Gabon: [Estuaire, Moyen-Ogooué, Ngounié, Nyanga, Ogooué-Ivindo, Ogooué-Lolo, Ogooué-Maritime, Woleu-Ntem]
+habit: "shrub"
+altitude_m: "200–800"
 tags: [species, generated]
 ---
 # *Boehmeria virgata* (G.Forst.) Guill. subsp. macrophylla (Hornem.) Friis & Wilmot-Dear

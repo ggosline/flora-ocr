@@ -41,7 +41,7 @@ Jardin : sans localité précise (échantillon non vu). Descoings : 6565, régio
 
 ![Cyrtococcus chaetophorum](../sources/Gramineae_vol05_paddle/figures/fig_013_p0079.png)
 
-*PL. XII. — Cyrtococcum chaetophorum (Roem. et Schult.) Dandy (Descoings 6565) : 1, sommet du chaume, feuilles et inflorescence; 2, épillet (longueur de l'épillet : 1,5 mm). — Ottochloa Arnottiana (Stapf) Dandy (Walker 5) : 3, inflorescence; 4, fragment de chaume et feuilles; 5, épillet vu du côté de la glume inférieure (longueur de l'épillet : 3 mm env.); 6, épillet vu du côté de la glume supérieure.*
+*PL. XII. — Cyrtococcum chaetophorum (Roem. et Schult.) Dandy (Descoings 6565) : 1, apex of culm, leaves and inflorescence; 2, spikelet (length of spikelet: 1,5 mm). — Ottochloa Arnottiana (Stapf) Dandy (Walker 5) : 3, inflorescence; 4, fragment of culm and leaves; 5, spikelet seen from the side of the lower glume (length of spikelet: 3 mm approx.); 6, spikelet seen from the side of the upper glume.*
 
 ## Notes
 

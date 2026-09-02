@@ -6,6 +6,12 @@ genus: Ocimum
 vol: 58
 pages: 81-82
 source: sources/Labiataeulmaceaeverbenaceae_vol58_liteparse
+countries: [Angola, Cameroon, Democratic Republic of the Congo, Equatorial Guinea, Gabon, Nigeria, Republic of the Congo, Sao Tome and Principe]
+in_region: true
+subdivisions:
+  Gabon: [Estuaire, Haut-Ogooué, Moyen-Ogooué, Ngounié, Nyanga, Ogooué-Ivindo, Ogooué-Maritime, Woleu-Ntem]
+habit: "herb"
+altitude_m: "0–1500"
 tags: [species, generated]
 ---
 # *Ocimum gratissimum* L. var. gratissimum Planche 19(1, 2)

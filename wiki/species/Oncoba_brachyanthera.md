@@ -7,6 +7,9 @@ family: Flacourtiaceae
 vol: 34
 pages: 46-47
 source: sources/Flacourtiaceae_vol34_paddle
+countries: [Cameroon, Cote d'Ivoire, Democratic Republic of the Congo, Gabon, Ghana, Guinea, Liberia, Nigeria, Sierra Leone, Togo]
+in_region: true
+habit: "tree"
 tags: [species, generated]
 ---
 # *Oncoba brachyanthera* Oliv.
@@ -45,7 +48,7 @@ Chevalier 27085, Mboro, sur le Ramboué, 14/10/1912, bout. fl. (P). Louis, Brete
 
 ![Oncoba brachyanthera](../sources/Flacourtiaceae_vol34_paddle/figures/fig_012_p0048.png)
 
-*PL. 12. – Oncoba brachyanthera Oliv. : 1, rameau florifère ; 2, détail du limbe muni de glandes sur sa face inférieure ; 3, rameau muni de longues épines ; 4, bouton floral ; 5 et 6, sépale, faces interne et externe ; 7, pétale, face interne ; 8, étamine ; 9, pistil ; 10, coupe transversale de l'ovaire ; 11, fruit ; 12, graine. (1-8. Thollon 1068 ; 9 et 10. Chevalier 27085 ; 11 et 12. McPherson 16017).*
+*PL. 12. – Oncoba brachyanthera Oliv.: 1, flowering branch; 2, detail of limb bearing glands on its lower surface; 3, branch bearing long spines; 4, floral bud; 5 and 6, sepal, internal and external faces; 7, petal, internal face; 8, stamen; 9, pistil; 10, transverse section of ovary; 11, fruit; 12, seed. (1-8. Thollon 1068; 9 and 10. Chevalier 27085; 11 and 12. McPherson 16017).*
 
 ## Notes
 

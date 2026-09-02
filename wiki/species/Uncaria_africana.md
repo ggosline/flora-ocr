@@ -7,6 +7,7 @@ family: Rubiaceae
 vol: 12
 pages: 32-34
 source: sources/Rubiaceae_vol12_paddle
+habit: "shrub"
 tags: [species, generated]
 ---
 # *Uncaria africana* G. Don (P.L. 2).
@@ -17,23 +18,19 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Sarmentose or ± lianescent shrub reaching 5–6 (15) m tall. Young stems ± quadrangular glabrous; internodes 13–16 cm long on orthotropic unarmed sterile branches, 3–6 cm on plagiotropic spiniferous or floriferous branches. Axillary opposite hooks, equal or unequal, arranged in decussate pairs; hooks directed toward the ground or ± laterally are hook-shaped; toward the apex they are often reduced to ± straight spines; the size as well as the shape of the hooks appears to depend on their orientation. Stipules sometimes ± red, puberulent toward the base, adnate in pairs at the base, ± persistent at nodes of unarmed branches, very early caducous on floriferous branches; those of unarmed branches have two broad acuminate lobes, the others, ca. 1 cm long, have two sublinear attenuate lobes. Stipular scars transverse, straight or somewhat arched. Petiole glabrous 5–10 mm long. All leaves of a plagiotropic branch orient themselves in vivo in the same horizontal plane (F. Hallé). Blade elliptic 6–12 × 2.5–6 cm, reddish-brown when dry and glabrous; base ± obtuse; apex subattenuate with an acumen 3–7 mm long. 4–7 pairs of secondary veins with axillary domatia.
 
-Arbuste sarmentaux ou ± lianescent atteignant 5-6 (15) m de haut. Jeunes tiges ± quadrangulaires glabres; entrenœuds longs de 13-16 cm sur les rameaux inermes stériles orthotropes, de 3-6 cm sur les rameaux spinifères ou florifères plagiotropes. Crochets axillaires opposés, égaux ou inégaux, disposés en paires décussées; les crochets qui sont dirigés vers le sol ou ± latéralement sont en forme d'hameçons; vers le haut ils sont souvent réduits en épines ± droites; la dimension comme la forme des crochets paraît dépendre de leur orientation. Stipules parfois ± rouges, pubérulentes vers la base, souduées par paires à la base, ± persistantes aux nœuds des rameaux inermes, très tôt caduques sur les rameaux florifères; celles des rameaux inermes ont deux larges lobes acuminés, les autres, longues d'env. 1 cm, ont deux lobes sublinéaires atténués. Cicatrices stipulaires transverses, droites ou un peu arquées. Pétiole glabre de 5-10 mm de long. Toutes les feuilles d'un rameau plagiotrope s'orientent in vivo dans un même plan horizontal (F. Hallé). Limbe elliptique de 6-12 × 2,5-6 cm, roussâtre à sec et glabre; base ± obtuse; sommet suatténué avec un acumen de 3-7 mm de long. 4-7 paires de nervures secondaires avec des domaties axillaires.
+Inflorescence a multiflowered spherical capitulum 4–6 cm diam., often solitary terminal; sometimes 3–5 inflorescences in axillary pairs, plus one terminal. Peduncle very short, 1–2 cm in terminal infl., 3–4 cm in axillary. Corollas already apparent in young infl. 1.5 cm diam. Flowers white or yellowish adorned when dry with golden or ochraceous external pubescence. Pedicel 2–3 mm. Ovary fusiform ± swollen, 1.5–2.5 mm long; calyx brown infundibuliform, 2–3 mm tall with 5 short lobes ca. 0.5 mm. Corolla 11–15 mm long; tube narrow for 6–10 mm and clothed with reversed ochraceous hairs; 5 oblong lobes 3–4 mm with internal axial line pubescent, spreading at anthesis. Stamens apiculate ca. 3 × 0.8 mm, apparent in the corolla throat. Style 1.5–2 cm, including the long stigmatic club which is moderately swollen at two levels: the upper swelling is adorned with 2 opposite spots.
 
-Inflorescence en capitale sphérique multiflore de 4-6 cm de diam., souvent terminale solitaire; parfois 3-5 inflorescences en paires axillaires, plus une terminale. Pédoncule très court, 1-2 cm dans les infl. terminales, 3-4 cm dans les axillaires. Corolles déjà apparentes dans les jeunes infl. de 1,5 cm de diam. Fleurs blanches ou jaunâtres ornées à sec d'une pubescence externe dorée ou ochracée. Pédicelle 2-3 mm. Ovaire en fuseau ± renflé, long de 1,5-2,5 mm; calice brun infundibiliforme, haut de 2-3 mm à 5 courts lobes d'env. 0,5 mm. Corolle longue de 11-15 mm; tube étroit sur 6-10 mm et vêtu de poils ochracés renversés; 5 lobes
+Infructescence reaching 10 cm diam. Fruit fusiform 10-ribbed, 15–20 × 4–6 mm, with pedicel 20–25 mm and persistent calyx. Septicidal and ± locucidally dehiscent into 2 bilobed ochraceous valves smooth inside. Seeds brown trigonous 0.4 mm long without the wings, with reticulate testa; two long opposite wings tapered, ribbon-like, silky, 3–4 mm long; one of the two is bifid and inserts near the small funicle 0.2–0.4 mm.
 
-oblongs de 3-4 mm à ligne axiale interne pubescente, évasés à l'anthèse. Étamines apiculées d'env. 3 × 0,8 mm, apparentes dans la gorge de la corolle. Style de 1,5-2 cm, y compris la longue massue stigmatique qui est médiocrement renflée à deux niveaux : le renflement supérieur est orné de 2 taches opposées.
+Type from Don from Sierra Leone (BM).
 
-Infrutescence atteignant 10 cm de diam. Fruit fusiforme 10-cannelé, de 15-20 × 4-6 mm, à pédicelle de 20-25 mm et à calice persistant. Déhiscence septicide et ± localicide en 2 valves bilobées ochracées lisses à l'intérieur. Graines brunes trigones longues de 0,4 mm de long sans les ailes, à tégument réticulé; deux longues ailes opposées effilées, rubanées, soyeuses, de 3-4 mm de long; l'une des deux est bifide et s'insère près du petit funicule de 0,2-0,4 mm.
+and E. Petit (1957). Var. angolensis Welw. ex Havil. groups specimens with calyx 4–6 mm tall, with teeth 1.5–3 mm (Pl. 2); it is known from Gabon only from fragments. In former Belgian Congo, several varieties are distinguished by their different type of myrmecodomatic.
 
-Type de Don provenant de Sierra-Leone (BM).
+Riparian plants or of ± humid forests, in lit-up forest edges.
 
-et E. Petit (1957). La var. angolensis Welw. ex Havil. groupe les spécimens à calice haut de 4-6 mm, à dents de 1,5 -3 mm (Pl. 2); elle n'est connue du Gabon que par des fragments. Au Congo ex-belge, plusieurs variétés se distinguent par leur différent type de myrmécodomaties.
-
-Plantes ripicoles ou de forêts ± humides, dans les lisières éclairées.
-
-Noms : Atsakésé d'après Trilles. Ogoli-walowo (Mpongwé); Ukodi-mwadjobo (Benga); Akogolo, Nlom (Fang); Musumba, Makaba-ma-mhoma (Eshira); Musumba (Bavarama, Bavungu, Bapunu); Musumbi (Balumbu); Mosumba (Ivea); Mongolo-o-tsyélè (Apindji); Mongoo (Mitsogho); Ngombe-a-ngwangasa (Bavili); Kata, Kada (Mindumu); Tsibalangola (Loango); Lengobili, Dengobili, Lengobelondo (Bakélé) : d'après Walker. Noms vulgaires : Liane-hameçon, Liane à crochets.
+Names: Atsakésé after Trilles. Ogoli-walowo (Mpongwé); Ukodi-mwadjobo (Benga); Akogolo, Nlom (Fang); Musumba, Makaba-ma-mhoma (Eshira); Musumba (Bavarama, Bavungu, Bapunu); Musumbi (Balumbu); Mosumba (Ivea); Mongolo-o-tsyélè (Apindji); Mongoo (Mitsogho); Ngombe-a-ngwangasa (Bavili); Kata, Kada (Mindumu); Tsibalangola (Loango); Lengobili, Dengobili, Lengobelondo (Bakélé): after Walker. Vernacular names: Hook-vine, Hook-bearing vine.
 
 ## Specimens examined
 
@@ -57,7 +54,7 @@ R. F. Trilles : )4.
 
 ![Uncaria africana](../sources/Rubiaceae_vol12_paddle/figures/fig_004_p0031.png)
 
-*PL. 2. — Uncaria africana G. Don (N. Hallé 1534 et Le Testu 1138) : 1, rameau armé; 2, domaties foliaires; 3, capitule juvénile; 4, jeune bouton (Dybowski 121); 5, infructescence; 6, et 6', un fruit après dispersion des graines; 7, graine longue de 7 mm. — Id. var. angolensis Havil.: 8, j. bout. (Klaine 324 bis); 9, id. (Tisserant 2294). — Uncaria Donisii Petit : 10, inflorescence (Klaine 324); 11, graine longue de 6 mm (Wagemans 914).*
+*PL. 2. — Uncaria africana G. Don (N. Hallé 1534 and Le Testu 1138) : 1, armed branch; 2, foliar domatia; 3, juvenile capitulum; 4, young bud (Dybowski 121); 5, infructescence; 6, and 6', a fruit after seed dispersal; 7, seed 7 mm long. — Id. var. angolensis Havil.: 8, j. bud. (Klaine 324 bis); 9, id. (Tisserant 2294). — Uncaria Donisii Petit : 10, inflorescence (Klaine 324); 11, seed 6 mm long (Wagemans 914).*
 
 ## Notes
 

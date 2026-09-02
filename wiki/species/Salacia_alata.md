@@ -7,6 +7,11 @@ family: Celastraceae
 vol: 29
 pages: 120-125
 source: sources/Celastraceae_vol29_paddle
+countries: [Angola, Cameroon, Cote d'Ivoire, Democratic Republic of the Congo, Gabon, Ghana, Nigeria]
+in_region: true
+habit: "liana"
+habitat: [riverine]
+altitude_m: "000"
 tags: [species, generated]
 ---
 # *Salacia alata* De Wildeman

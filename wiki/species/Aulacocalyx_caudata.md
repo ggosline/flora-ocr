@@ -7,6 +7,9 @@ family: Rubiaceae
 vol: 17
 pages: 157-159
 source: sources/Rubiaceae_vol17_paddle
+countries: [Cameroon, Equatorial Guinea, Gabon, Nigeria]
+in_region: true
+habit: "shrub"
 tags: [species, generated]
 ---
 # *Aulacocalyx caudata* (Hiern) Keay
@@ -52,7 +55,7 @@ Le Testu 1630, Tchibanga (fl. sept.); 9460, Binoc, entre Minvoul et Oyem (fl. ja
 
 ![Aulacocalyx caudata](../sources/Rubiaceae_vol17_paddle/figures/fig_035_p0161.png)
 
-*PL. 35. — Aulacocalyx caudata (Hiern) Keay (fl. N. Hallé 870; fr. N. H. 3492) : 1, rameau florifère × 0,6; 2, stipule; 3, bouton (Le Testu 9460); 4, corolle de face; 5, coupe de la fleur en long; 6, placenta recto et verso contenant les ovules, diam. 1 mm; 7, coupe de l'ovaire; 8 et 9, fruit; 10 et 11, coupes du fruit; 12, graine longue de 8 mm; 13, embryon long de 6 mm. — Au. jasminiflora Hook. f. : 14, stipules et 15, calice (Mann 1788); 16, fruit immature (Touzet 55). — Au. Lujai De Wild. var. subulata N. Hallé (N. H. et A. L. T. 426 bis) : 17, rameau florifère × 0,75; 18, calice; 19, coupe transversale de l'anthère après déhiscence.*
+*PL. 35. — Aulacocalyx caudata (Hiern) Keay (fl. N. Hallé 870; fr. N. H. 3492) : 1, flowering branch × 0.6; 2, stipule; 3, bud (Le Testu 9460); 4, corolla front view; 5, flower section lengthwise; 6, placenta recto and verso containing the ovules, diam. 1 mm; 7, section of the ovary; 8 and 9, fruit; 10 and 11, fruit sections; 12, seed 8 mm long; 13, embryo 6 mm long. — Au. jasminiflora Hook. f. : 14, stipules and 15, calyx (Mann 1788); 16, immature fruit (Touzet 55). — Au. Lujai De Wild. var. subulata N. Hallé (N. H. et A. L. T. 426 bis) : 17, flowering branch × 0.75; 18, calyx; 19, transverse section of the anther after dehiscence.*
 
 ## Notes
 

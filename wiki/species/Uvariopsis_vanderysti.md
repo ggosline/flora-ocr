@@ -7,6 +7,9 @@ family: Annonaceae
 vol: 16
 pages: 0-0
 source: sources/Annonaceae_vol16_mineru
+countries: [Angola, Gabon, Republic of the Congo]
+in_region: true
+habit: "shrub"
 tags: [species, generated]
 ---
 # *Uvariopsis vanderysti* Robyns et Ghesquiere
@@ -17,13 +20,9 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Shrub monoecious with glabrous branchlets, grey bark, longitudinally striated. Leaves with petiole very robust, 4-5 mm long, glabrous; blade coriaceous, obovate, 20-30 cm long, 6.5-11.5 cm wide, attenuate to subrounded at the base, abruptly acuminate at the apex, glabrous on both surfaces. Midvein impressed above, very prominent below; lateral veins 11-12 pairs, obliquely ascending, joined in arches near the margin, prominent below.
 
-Arbuste monoique a rameaux glabres, écorce grise, striée longitudinalement. Feuills a pétiole tres robuste,long de 4-5 mm, glabre; limbe coriace, obové, long de 2o-3o cm, large de 6,5-
-
-11,5 cm,atténué ä subarrondi â la base,brusquement acuminé au sommet,glabre sur les deux faces. Nervure médiane imprimée au-dessus, tres saillante en dessous;nervures latérales II-I2 paires, obliques ascendantes,réunies en arceaux pres de la marge,saillantes en dessous.
-
-Inflorescences en fascicules pauciflores, naissant sur le tronc ä ras du sol. Boutons floraux globuleux,légerement aplatis. Fleurs ä pédicelle robuste, long de 4-5 cm,glabrescent á glabre,muni ä la base de deux bractées, subréniformes,engainantes,longues de ± 1,5 mm,pubescentes. Sépales,soudes â la base,largement oves,concaves,sub-aigus au sommet,de 7 mm de diametre, eparsement pubescents. Pétales 4, charnus, elliptiques-ovés,aigus, longs de 13 mm,larges de 9 mm,soudes sur 3 mm de hauteur environ, courtement tomentelleux roux ^ l'extérieur. Réceptacle cylindrique. Etamines tres nombreuses, sessiles,longues de o,4- 0,5mm,oblongues;connectifs non développés au-dessus des antheres. Fleurs ♀ a pedicelle épais,rigide, long de Io-2I cm, pubérulent á glabrescent,muni de deux bractées subréniformes, engainantes,longues de 2,5-3 mm,larges de 5-6 mm,pubérulentes,l'une située á la base,l'autre dans le tiers ou le quart infé- rieur.Sépales semiorbiculaires,atteignant Io mm de longueur et I2-13 mm de largeur,concaves,soudés á la base.Petales 4, bruns au-dehors, jaunes en dedans, tres charnus, largement ovés, longs de 1,4-1,5 cm, larges de o,8-1,2 cm,soudes a la base sur 2,5-3 mm de hauteur. Carpelles nombreux, prismatiques, longs de 3 mm environ, tomenteux, stigmates sessiles,noirs sur le sec, a bords enroulés vers 'intérieur. Réceptacle hémisphérique. Nombreux ovules biséries.Fruit inconnu.
+Inflorescences in pauciflorous fascicles, arising on the trunk at ground level. Floral buds globulous, slightly flattened. Flowers with robust pedicel, 4-5 cm long, glabrescent to glabrous, bearing at the base two bracts, subreniform, sheathing, ± 1.5 mm long, pubescent. Sepals, joined at the base, broadly ovate, concave, subacute at the apex, 7 mm in diameter, sparsely pubescent. Petals 4, fleshy, elliptic-ovate, acute, 13 mm long, 9 mm wide, joined for approximately 3 mm in height, shortly reddish-tomentellous on the exterior. Receptacle cylindric. Stamens very numerous, sessile, 0.4-0.5 mm long, oblong; connectives not developed above the anthers. ♀ Flowers with thick pedicel, rigid, 10-21 cm long, puberulent to glabrescent, bearing two subreniform bracts, sheathing, 2.5-3 mm long, 5-6 mm wide, puberulent, one situated at the base, the other in the lower third or quarter. Sepals semiorbicular, reaching 10 mm in length and 12-13 mm in width, concave, joined at the base. Petals 4, brown on the outside, yellow within, very fleshy, broadly ovate, 1.4-1.5 cm long, 0.8-1.2 cm wide, joined at the base for 2.5-3 mm in height. Carpels numerous, prismatic, approximately 3 mm long, tomentose, stigmas sessile, black when dry, with margins rolled inward. Receptacle hemispherical. Numerous biseriate ovules. Fruit unknown.
 
 ## Type
 
@@ -33,13 +32,11 @@ Gossweiler 6138, Pango Tunga, Mayombe,Angola (holotype BM!)
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Very characteristic species with its very fleshy flowers, with thick pedicel, its globulous buds, and the petals joined at the base. It remains still very poorly known: only two collections place it, one in the Kasai, the other in Gabon.
 
-Espéce tres caractéristique avec ses fleurs tres charnues,a pédicelle épais,ses boutons globuleux,et les pétales soudes ä la base.Elle reste encore tres mal connue :deux seules récoltes la situent, l'une au Kasai, l'autre au Gabon.
+Species of understory in dense humid lowland forest, sometimes swampy, whose distribution range is limited to the Mayombe region and Lower Congo, in Gabon, Congo-Brazzaville, Congo-Kinshasa and Angola (Cabinda).
 
-Espéce de sous-bois en forét dense humide de basse altitude, parfois marécageuse,dont l'aire de répartition est limitée ä la région du Mayombe et du Bas-Congo,au Gabon, Congo-Brazzaville,Congo-Kinshasa et Angola (Cabinda).
-
-L'écorce d'un jaune lumineux,possede des proprietés tinctoriales et médicinales.
+The bark of a luminous yellow possesses tinctorial and medicinal properties.
 
 ## Specimens examined
 

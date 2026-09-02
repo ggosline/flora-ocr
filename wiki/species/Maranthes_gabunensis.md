@@ -7,6 +7,8 @@ family: Scytopetalaceae
 vol: 24
 pages: 107-110
 source: sources/Chrysobalanaceae_vol24_paddle
+countries: [Angola, Cameroon, Democratic Republic of the Congo, Gabon, Nigeria]
+in_region: true
 tags: [species, generated]
 ---
 # *Maranthes gabunensis* (Engler) Prance
@@ -89,7 +91,7 @@ Touzet 99, Nkoulounga, 55 km NE Libreville (fl.).
 
 ![Maranthes gabunensis](../sources/Chrysobalanaceae_vol24_paddle/figures/fig_031_p0109.png)
 
-*PL. 31. — Maranthes gabunensis (Engl.) Prance : 1, rameau avec fleur × 1 /3; 2, stipules × 4 /3; 3, pétiole × 4 /3; 4, autre type de feuille × 1 /3; 5, bouton floral × 1; 6, fleur (pét. excl.) × 1; 7, pétale × 1; 8, 9, 10, fruit × 1; 11, coupe transv. fruit × 1. (1, 3, 5-6, Touzet 99; 2, Breteler 5771; 4, Lecomte E 10; 7, Klaine 627; 8-11, Le Testu 1523).*
+*PL. 31. — Maranthes gabunensis (Engl.) Prance : 1, branch with flower × 1 /3; 2, stipules × 4 /3; 3, petiole × 4 /3; 4, other type of leaf × 1 /3; 5, floral bud × 1; 6, flower (petals excl.) × 1; 7, petal × 1; 8, 9, 10, fruit × 1; 11, transverse section fruit × 1. (1, 3, 5-6, Touzet 99; 2, Breteler 5771; 4, Lecomte E 10; 7, Klaine 627; 8-11, Le Testu 1523).*
 
 ## Notes
 

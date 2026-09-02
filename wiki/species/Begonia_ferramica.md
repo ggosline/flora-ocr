@@ -7,6 +7,10 @@ family: Begoniaceae
 vol: 39
 pages: 50-53
 source: sources/Begoniaceae_vol39_liteparse
+countries: [Gabon]
+in_region: true
+habitat: [primary forest]
+altitude_m: "500–1000"
 tags: [species, generated]
 ---
 # *Begonia ferramica* N.Hallé Planche 22

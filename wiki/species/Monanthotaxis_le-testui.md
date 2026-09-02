@@ -7,6 +7,10 @@ family: Annonaceae
 vol: 16
 pages: 0-0
 source: sources/Annonaceae_vol16_mineru
+countries: [Gabon]
+in_region: true
+habit: "liana"
+altitude_m: "900–1000"
 tags: [species, generated]
 ---
 # *Monanthotaxis le-* Testui Pellegrin
@@ -53,9 +57,9 @@ The small white flowers, with very fleshy petals, are very fragile; after their 
 
 17.EXELLIA Boutique
 
-Bull.Jard.Bot.Etat Brux.2I：II7,tab.3(195i)；Fl.Congo Belge 2：360 (1951)；R.E.Fries in Engler et Prantl, Nat. Pflanzenf.,ed.2,17 a,2 : 135 (1959).
+Bull.Jard.Bot.Etat Brux.2I:II7,tab.3(195i);Fl.Congo Belge 2:360 (1951);R.E.Fries in Engler et Prantl, Nat. Pflanzenf.,ed.2,17 a,2 : 135 (1959).
 
-Liane a indument de poils simples.Fleurs ,axillaires ou extra-axillaires, solitaires ou géminées. Boutons subglobuleux. Bractéole 1. Sépales 3，valvaires,beaucoup plus petits que les pétales.Pétales 6,valvaires,charnus,les internes plus petits que les externes et onguiculés.Etamines I2-15,en deux cycles, cuneiformes, filets courts,theques latérales inégales,connectifs élargis et tronqués au-dessus des antheres. Carpelles 3,libres,cylindriques,stigmates sessiles. Ovules nombreux, biseries.
+Liane a indument de poils simples.Fleurs ,axillaires ou extra-axillaires, solitaires ou géminées. Boutons subglobuleux. Bractéole 1. Sépales 3,valvaires,beaucoup plus petits que les pétales.Pétales 6,valvaires,charnus,les internes plus petits que les externes et onguiculés.Etamines I2-15,en deux cycles, cuneiformes, filets courts,theques latérales inégales,connectifs élargis et tronqués au-dessus des antheres. Carpelles 3,libres,cylindriques,stigmates sessiles. Ovules nombreux, biseries.
 
 Fruits a méricarpes sessiles, globuleux, pluriséminés,non articulés entre les graines. Graines nombreuses bisériées.
 

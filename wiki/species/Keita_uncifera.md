@@ -8,13 +8,6 @@ family: Aptandraceae
 family_sensu_lato: Olacaceae
 synonyms:
   - "Anacolosa uncifera J.Louis & Boutique"
-habit: liana
-habitat: [primary swamp forest, periodically inundated forest]
-altitude_m: "to 1000"
-countries: [Democratic Republic of the Congo, Gabon, Republic of the Congo]
-subdivisions:
-  Gabon: [Ogooué-Ivindo]
-in_region: true
 treatments:
   - vol: 20
     pages: "106–108"
@@ -24,6 +17,11 @@ treatments:
     citation: "Cheek M., Molmou D., Gosline G. & Magassouba S. (2024). Keita (Aptandraceae-Olacaceae s.l.), a new genus for African species previously ascribed to Anacolosa. Kew Bulletin 79: 317–332."
     year: 2024
     doi: 10.1007/s12225-024-10172-w
+countries: [Democratic Republic of the Congo, Gabon]
+in_region: true
+subdivisions:
+  Gabon: [Ogooué-Ivindo]
+habit: "liana"
 tags: [species, post-flora]
 ---
 

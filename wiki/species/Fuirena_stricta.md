@@ -7,6 +7,12 @@ family: Cyperaceae
 vol: 44
 pages: 156-157
 source: sources/Cyperaceae_vol44_liteparse
+countries: [Gabon, Madagascar]
+in_region: true
+subdivisions:
+  Gabon: [Ogooué-Ivindo]
+habit: "herb"
+altitude_m: "100–500"
 tags: [species, generated]
 ---
 # *Fuirena stricta* Steud. Planche 102

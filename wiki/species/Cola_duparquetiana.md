@@ -7,6 +7,9 @@ family: Sterculiaceae
 vol: 02
 pages: 84-88
 source: sources/Sterculiaceae_vol02_paddle
+countries: [Gabon]
+in_region: true
+habit: "tree"
 tags: [species, generated]
 ---
 # *Cola duparquetiana* H. Baillon.

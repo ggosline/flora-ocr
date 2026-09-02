@@ -7,6 +7,9 @@ family: Rubiaceae
 vol: 17
 pages: 56-60
 source: sources/Rubiaceae_vol17_paddle
+countries: [Gabon, Sierra Leone]
+in_region: true
+habit: "shrub"
 tags: [species, generated]
 ---
 # *Bertiera racemosa* (G. Don) K. Schum.
@@ -117,7 +120,7 @@ the leaves chopped and cooked with peanuts are consumed by pregnant women (Walke
 
 ![Bertiera racemosa](../sources/Rubiaceae_vol17_paddle/figures/fig_012_p0057.png)
 
-*PL. 12.—Bertiera racemosa (G. Don) K. Schum. var. elephantina N. Hallé (N. Hallé 806) : 1, inflorescence × 0,75; 2, bouton × 3; 3 et 4, fleurs; 5, étamine × 7; 6, style; 7, calice et ovaire en coupe; 8, cyme d'infrutescence; 9, fruit × 2; 10, graine × 13.—B. racemosa (G. Don) K. Schum. var. racemosa : 11, inflorescence × 0,75 et 12, bouton × 3,3; 13, fruit × 2 (N. H. 1106); 14, graine × 13 (N. H. 1506)*
+*PL. 12.—Bertiera racemosa (G. Don) K. Schum. var. elephantina N. Hallé (N. Hallé 806): 1, inflorescence × 0,75; 2, bud × 3; 3 and 4, flowers; 5, stamen × 7; 6, style; 7, calyx and ovary in section; 8, cyme of infrutescence; 9, fruit × 2; 10, seed × 13.—B. racemosa (G. Don) K. Schum. var. racemosa: 11, inflorescence × 0,75 and 12, bud × 3,3; 13, fruit × 2 (N. H. 1106); 14, seed × 13 (N. H. 1506)*
 
 ## Notes
 

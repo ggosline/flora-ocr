@@ -7,6 +7,9 @@ family: Dichapetalaceae
 vol: 32
 pages: 82-86
 source: sources/Dichapetalaceae_vol32_paddle
+countries: [Angola, Cameroon, Cote d'Ivoire, Democratic Republic of the Congo, Gabon]
+in_region: true
+habit: "liana"
 tags: [species, generated]
 ---
 # *Dichapetalum dewevrei* De Wildemann & Th. Durand
@@ -94,7 +97,7 @@ Klaine 210, type (fl., Oct.); 380, environs de Libreville (fl., Août).
 
 ![Dichapetalum dewevrei](../sources/Dichapetalaceae_vol32_paddle/figures/fig_020_p0084.png)
 
-*PL. 19. – Dichapetalum dewevrei De Wildemann & Th. Durand: 1, rameau feuillé × 0,5; 2, jeune rameau, stipules, détail × 0,5.; 3, rameau avec jeunes fruits × 0,5; 4, jeune rameau, jeunes fruits et face inférieure de feuille, détail × 0,5; 5, fleur × 6; 6, fleur, pistil, détail × 6; 7, fruit 2-sperme × 0,5; 8, fruit 1-sperme × 0,5; 9, inforescence 3-flore × 3; 10, fleur, détail (D. dewevrei var. dewevrei: 3, 5, 6, Monteiro c.s. 302; 4, Leeuwenberg 5437; 7, 8, Breteler 6602. – D. dewevrei var. klaineanum (Pellegrin) Breteler: 1, Bos & Breteler 7189; 2, Breteler 6433; 9, 10, Breteler 7413). – Repris de MLW 78 (10): 52 (1978).*
+*PL. 19. – Dichapetalum dewevrei De Wildemann & Th. Durand: 1, leafy branch × 0,5; 2, young branch, stipules, detail × 0,5.; 3, branch with young fruits × 0,5; 4, young branch, young fruits and lower surface of leaf, detail × 0,5; 5, flower × 6; 6, flower, pistil, detail × 6; 7, 2-seeded fruit × 0,5; 8, 1-seeded fruit × 0,5; 9, 3-flowered inflorescence × 3; 10, flower, detail (D. dewevrei var. dewevrei: 3, 5, 6, Monteiro c.s. 302; 4, Leeuwenberg 5437; 7, 8, Breteler 6602. – D. dewevrei var. klaineanum (Pellegrin) Breteler: 1, Bos & Breteler 7189; 2, Breteler 6433; 9, 10, Breteler 7413). – Reprinted from MLW 78 (10): 52 (1978).*
 
 ## Notes
 

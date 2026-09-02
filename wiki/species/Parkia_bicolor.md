@@ -7,6 +7,9 @@ family: Leguminosae
 vol: 31
 pages: 30-34
 source: sources/Leguminosae_vol31_paddle
+countries: [Democratic Republic of the Congo, Guinea]
+in_region: true
+habit: "tree"
 tags: [species, generated]
 ---
 # *Parkia bicolor* A. Chevalier
@@ -73,7 +76,7 @@ INEF s.n., forêt de la Mondah (fl., nov.).
 
 ![Parkia bicolor](../sources/Leguminosae_vol31_paddle/figures/fig_016_p0032.png)
 
-*PL. 5. – Parkia bicolor A. Chev.: 1, feuille, face supérieure × 1; 2, rachis, sommet × 4; 3, rachis, coupe transversale schématique × 12; 4, penne, sommet × 6; 5, foliole, face inférieure × 8; 6, capitule, coupe longitudinale × 2; 7, fleur basale × 8; 8, fleur sommitale × 8; 9, calice × 8; 10, corolle × 8, 11, androcée × 8; 12, pistil × 12; 13, fruit × 2/3; 14, graine × 2. (1-6, Bamps 1611 (Cameroun); 7, 8 J. Louis 2161 (Zaïre), 8'-11, Hédin Ed. 19 (Cameroun); 12, Letouzey 10975 (cameroun); 13, Letouzey 8133 (Cameroun); 14, J. Louis 1502 (Zaïre)).*
+*PL. 5. – Parkia bicolor A. Chev.: 1, leaf, upper surface × 1; 2, rachis, apex × 4; 3, rachis, schematic transverse section × 12; 4, pinna, apex × 6; 5, leaflet, lower surface × 8; 6, capitulum, longitudinal section × 2; 7, basal flower × 8; 8, apical flower × 8; 9, calyx × 8; 10, corolla × 8, 11, androecium × 8; 12, pistil × 12; 13, fruit × 2/3; 14, seed × 2. (1-6, Bamps 1611 (Cameroon); 7, 8 J. Louis 2161 (Zaire), 8'-11, Hédin Ed. 19 (Cameroon); 12, Letouzey 10975 (Cameroon); 13, Letouzey 8133 (Cameroon); 14, J. Louis 1502 (Zaire)).*
 
 ## Notes
 

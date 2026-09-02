@@ -7,6 +7,8 @@ family: Orchidaceae
 vol: 36
 pages: 124-125
 source: sources/Orchidaceae_vol36_paddle
+countries: [Cameroon, Cote d'Ivoire, Gabon, Nigeria, Rwanda, Uganda]
+in_region: true
 tags: [species, generated]
 ---
 # *Liparis epiphytica* Schltr.

@@ -7,6 +7,9 @@ family: Scytopetalaceae
 vol: 24
 pages: 57-60
 source: sources/Chrysobalanaceae_vol24_paddle
+countries: [Gabon]
+in_region: true
+habit: "shrub"
 tags: [species, generated]
 ---
 # *Acioa pierrei* De Wildeman
@@ -43,7 +46,7 @@ Le Testu 1119 (fl., August); 1779, 2114 (fl., September); Tchibanga.
 
 ![Acioa pierrei](../sources/Chrysobalanaceae_vol24_paddle/figures/fig_017_p0059.png)
 
-*PL. 17. — Acioa pierrei De Wild. : 1, rameau avec fleurs × 2/3; 2, stipules × 2; 3, portion d'axe infl. avec bractées × 4; 4, ramification infl. × 2; 5, bractéoles × 4; 6, fleur (pét. excl.) × 3/2. (Klaine 196).*
+*PL. 17. — Acioa pierrei De Wild. : 1, branch with flowers × 2/3; 2, stipules × 2; 3, portion of inflorescence axis with bracts × 4; 4, inflorescence branching × 2; 5, bracteoles × 4; 6, flower (petals excl.) × 3/2. (Klaine 196).*
 
 ## Notes
 

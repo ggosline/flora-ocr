@@ -7,6 +7,8 @@ family: Pteridophytes
 vol: 08
 pages: 27-29
 source: sources/Salviniaceae_vol08_paddle
+countries: [Gabon, Guinea, Uganda]
+in_region: true
 tags: [species, generated]
 ---
 # *Selaginella soyauxii* Hieronymus (P.L. III)
@@ -16,13 +18,9 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 — Hier., in Engler et Prantl, Natur. Pflanzenfam. I (4): 697 (1901).
 
-Rhizophores généralement droits, longs de 5 cm sur 0,5 mm de diamètre, jaune paille, généralement défléchis dans la partie inférieure de la tige. Tiges principales prostrées ou dressées,
-
-longues de 20 cm environ, sur 2,5 mm de diamètre au plus, orangées ou straminées. Rameaux glabres, faisant un angle de 30°. Partie rameuse tripennée, à contour irrégulier. Feuilles hétéromorphes. Feuilles latérales distantes sur la tige principale, espacées d'environ 4 fois leur largeur, contiguës sur les rameaux ultimes, inéquilatérales, longues d'environ 4,5 mm, sur 2 mm de large, subaiguës, la moitié supérieure semi oblongue-lancéolée, à base arrondie et entière, avec quelques dents aiguës au sommet. Moitié inférieure oblongue, subtronquée à la base, entière, excepté quelques dents près du sommet. Marges ne portant pas de rangée de cellules allongées nettes. Costa se terminant avec le sommet en une hydathode avec plusieurs rangées de cellules allongées. Feuilles axillaires elliptiques-ovales, symétriques, à peu près aussi longues que les feuilles latérales, subaiguës. Feuilles médianes imbriquées sur les rameaux, se recouvrant ou espacées et parfois par paires sur les tiges principales, obovales, entières, souvent réfléchies, abruptement et parfois obliquement aristées, avec l'arête atteignant 3/4 de la longueur du limbe, dentée au sommet. Strobiles solitaires au sommet de la tige et des rameaux, longs d'environ 8 mm, sur 3,5 de large. Sporophylles dimorphes : sporophylles dorsaux lancéolés, aigus, serrulés, articulés; sporophylls ventraux deltoïdes, ciliolés-dentés. Mégaspores de 500 μ environ, brunes, portant des verrues larges, blanches. Microspores d'un blanc brunâtre en masse, de 40 μ de diamètre avec la marque triradiée n'atteignant pas la marge, finement verruqueuses.
+Rhizophores generally straight, 5 cm long by 0.5 mm in diameter, straw-yellow, generally deflexed in the lower part of the stem. Main stems prostrate or erect, approximately 20 cm long, at most 2.5 mm in diameter, orange or straw-coloured. Branches glabrous, making an angle of 30°. Branched part tripinnate, with irregular outline. Leaves heteromorphic. Lateral leaves distant on the main stem, spaced approximately 4 times their width, contiguous on the ultimate branchlets, inequilateral, approximately 4.5 mm long, 2 mm wide, subacute, the upper half semi oblongate-lanceolate, with rounded and entire base, with some acute teeth at the apex. Lower half oblong, subtruncate at the base, entire, except for some teeth near the apex. Margins bearing no row of clearly elongate cells. Costa terminating with the apex in a hydathode with several rows of elongate cells. Axillary leaves elliptic-ovate, symmetric, approximately as long as the lateral leaves, subacute. Median leaves imbricate on the branchlets, overlapping or spaced and sometimes in pairs on the main stems, obovate, entire, often reflexed, abruptly and sometimes obliquely aristate, with the awn reaching 3/4 of the length of the limb, dentate at the apex. Strobili solitary at the apex of the stem and branchlets, approximately 8 mm long, 3.5 mm wide. Sporophylls dimorphic: dorsal sporophylls lanceolate, acute, serrulate, articulate; ventral sporophylls deltoid, ciliolate-dentate. Megaspores approximately 500 μ, brown, bearing broad white warts. Microspores brownish-white in mass, 40 μ in diameter with the triradiate mark not reaching the margin, finely verrucose.
 
 ## Type
 
@@ -30,11 +28,9 @@ Soyaux 419, Gabon (Isotype P)
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+West Africa from Guinea to Gabon and east to Uganda.
 
-Afrique occidentale de Guinée au Gabon et en Uganda à l'est.
-
-Rochers ombragés.
+Shaded rocks.
 
 ## Specimens examined
 

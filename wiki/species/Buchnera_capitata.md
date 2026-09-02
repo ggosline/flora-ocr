@@ -7,6 +7,12 @@ family: Scrophulariaceae
 vol: 48
 pages: 109-111
 source: sources/Scrophulariaceae_vol48_liteparse
+countries: [Burundi, Cameroon, Democratic Republic of the Congo, Gabon, Ghana, Guinea, Kenya, Madagascar, Malawi, Mozambique, Nigeria, Republic of the Congo, Rwanda, Tanzania, Uganda, Zambia]
+in_region: true
+subdivisions:
+  Gabon: [Estuaire, Moyen-Ogooué, Ngounié]
+habit: "herb"
+altitude_m: "25–130"
 tags: [species, generated]
 ---
 # *Buchnera capitata* Benth. Planche 32

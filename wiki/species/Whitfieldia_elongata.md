@@ -7,6 +7,8 @@ family: Acanthaceae
 vol: 13
 pages: 36-38
 source: sources/Acanthaceae_vol13_paddle
+countries: [Angola, Cameroon, Central African Republic, Gabon, Nigeria, Sudan]
+in_region: true
 tags: [species, generated]
 ---
 # *Whitfieldia elongata* (P. Beauv.) De Wild. et Dur.
@@ -24,19 +26,17 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-, inel. var. Dewevrei de Wild. et Th. Dur., l. c. — C. B. Clarke, F.T.A. 5 : 66 (1899). —Th. et H. Durand, Syll. Fl. Cong.: 421 (1909). — E. De Wildeman, Bull. Soc. Bot. Belg. 41 (3), t. 29 (1913). —Heine, F.W.T.A., ed. 2, 2 : 398 (1963).
+, incl. var. Dewevrei de Wild. et Th. Dur., l. c. — C. B. Clarke, F.T.A. 5 : 66 (1899). —Th. et H. Durand, Syll. Fl. Cong.: 421 (1909). — E. De Wildeman, Bull. Soc. Bot. Belg. 41 (3), t. 29 (1913). —Heine, F.W.T.A., ed. 2, 2 : 398 (1963).
 
 ≡ Ruellia elongata P. Beauv., Fl. Oware 1 : 45, t. 26 (1806).
 
 ≡ Whitfieldia longifolia var. perglabra (C. B. Clarke) Hutch. et Dalz., F.W. T.A., ed. I, 2:248 (1931).
 
-Arbuste ou rarement liane, grimpant jusqu'à 5-6 m (N. Hallé), avec une tige atteignant 22 mm de diam.; écorce lisse, brun-grisâtre; tiges un peu anguleuses et rétrécies aux nœuds; plante presque glabre sauf les fleurs. Pétioles de 2,5-4 cm. Limbes des feuilles elliptiques, çà et là un peu sinueux de 27 × 8,5 cm, mais plutôt plus petites, aiguës à la base et acuminées au sommet, avec une pointe très allongée; paire de feuilles souvent anisophylles.
+Shrub or rarely a climbing vine, climbing up to 5–6 m (N. Hallé), with a stem reaching 22 mm in diameter; bark smooth, brownish-grey; stems somewhat angular and constricted at the nodes; plant almost glabrous except for the flowers. Petioles 2.5–4 cm. Leaf blades elliptic, here and there slightly sinuous, 27 × 8.5 cm, but generally rather smaller, acute at the base and acuminate at the apex, with a very elongated point; pair of leaves often anisophyllous.
 
-Inflorescences racémeuses, terminales, simples, atteignant 20 cm de long; bractéoles elliptiques, de 16 × 8 mm. Calice de 26 mm, pubescent, corolle blanche, ou blanc verdâtre, à tube cylindrique très étroit, d'environ 40 × 2 mm; lobes elliptiques-lancéolés 2-3 × 0,6-0,8 cm. Étamines un peu pubescentes, didy-names; filets des étamines longues de 7,5 cm; des étamines courtes, 7 cm. Anthères allongées, de 5 mm, à connectif glanduleux. Style presque glabre ou un peu poilu, jusqu'à 9 cm de long; stigmate globuleux, ovaire elliptique.
+Inflorescences racemose, terminal, simple, reaching 20 cm in length; bracteoles elliptic, 16 × 8 mm. Calyx 26 mm, pubescent, corolla white or whitish-green, with a very narrow cylindric tube, approximately 40 × 2 mm; lobes elliptic-lanceolate 2–3 × 0.6–0.8 cm. Stamens somewhat pubescent, didynamous; filaments of the longer stamens 7.5 cm; of the shorter stamens, 7 cm. Anthers elongate, 5 mm, with a glandular connective. Style almost glabrous or slightly hairy, up to 9 cm long; stigma globose, ovary elliptic.
 
-Fruit de 3,5 cm, glabre, acuminé, à partie supérieure de 12 mm de largeur et 5 mm d'épaisseur. Graine orbiculaire aplatie, de 4-5 m de l'argeur et 5 mm d'épaisseur. Graine orbiculaire aplatie, de 7 mm de diam. environ.
+Fruit 3.5 cm, glabrous, acuminate, the upper part 12 mm in width and 5 mm in thickness. Seed orbicular, flattened, 4–5 mm in width and 5 mm in thickness. Seed orbicular, flattened, approximately 7 mm in diameter.
 
 ## Type
 
@@ -44,9 +44,7 @@ Palisot de Beauvois (G, holotype), Benin
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-S Nigeria, Cameroun, Gabon, Oubangui-Chari, Congo, Angola, Soudan oriental, Tanganyika.
+S Nigeria, Cameroon, Gabon, Central African Republic, Congo, Angola, eastern Sudan, Tanganyika.
 
 ## Specimens examined
 

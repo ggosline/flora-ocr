@@ -23,7 +23,7 @@ BASIONYM: Bulbophyllum calamarium Lindl. var. albociliatum Finet, Not. Syst. 1: 
 
 ![Bulbophyllum finetii](../sources/Orchidaceae_vol36_paddle/figures/fig_072_p0142.png)
 
-*PL. 67. – Bulbophyllum finetii Szlach. & Olsz.: A, vue générale ; B, fleur ; C, pièces florales ; D, labelle ; E, labelle et gynostème en position naturelle, vue latérale ; F, anthère ; G, pollinies (A-G, ex VERMEULEN, 1987).*
+*PL. 67. – Bulbophyllum finetii Szlach. & Olsz.: A, general view ; B, flower ; C, floral parts ; D, lip ; E, lip and gynosteme in natural position, lateral view ; F, anther ; G, pollinia (A-G, ex VERMEULEN, 1987).*
 
 ![Bulbophyllum finetii](../sources/Orchidaceae_vol36_paddle/figures/fig_134_p0223.png)
 

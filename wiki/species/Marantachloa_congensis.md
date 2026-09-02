@@ -7,6 +7,9 @@ family: Marantaceae
 vol: 09
 pages: 122-123
 source: sources/Marantaceae_vol09_paddle
+countries: [Cameroon, Central African Republic, Democratic Republic of the Congo, Gabon]
+in_region: true
+habit: "herb"
 tags: [species, generated]
 ---
 # *Marantachloa congensis* (K. Schum.) J. Léon. et Mull. [Pl. XXVI]

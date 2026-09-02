@@ -7,6 +7,8 @@ family: Apocynaceae
 vol: 59
 pages: 271-271
 source: sources/Apocynaceae_vol59_liteparse
+habit: "tree"
+altitude_m: "0–30"
 tags: [species, generated]
 ---
 # *Voacanga micrantha* Pichon Figure 15(D, E)
@@ -17,21 +19,15 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Arbuste ou petit arbre atteignant 3 m de hauteur. Feuille glabre ; pétiole de 1–20 mm ; limbe de 3–12(–17) × 1,5–5,5(–6,5) cm, (longuement) atténué à la base, aigu à acuminé au sommet, coriace ; nervures secondaires 4 à 8 paires , nervation tertiaire discrète. ,QÀRUHVFHQFH pendante ; pédoncule de 1,9–9 cm ; bractées de 2,5–10 × 1,2–5 mm. Fleur : pédicelle de 4–9 mm ; calice vert, à tube long de 3–7 mm, à collétères internes épars, à lobes dressés, de 1,5–3 × 2–3,5 mm , enserrant étroitement le tube de la corolle ; corolle blanche , à tube long de 7,7–11 mm et large de 4,5–5,2 mm, clairement tordu autour du milieu, glabre à l’extérieur, densément poilu au niveau des étamines à l’intérieur, à lobes ± plans et étalés , obovales, de 7–13 × 4–8 mm, HQIRUPHGHWrWHFRQLTXHGDQVOHERXWRQpWDPLQHVMXVWHLQFOXVHVDQWKqUH VHVVLOHORQJXHGHPPGLVTXHKDXWGHPPSLVWLOORQJGH±PPjRYDLUHKDXWGH ± 1 mm, à carpelles connés à la base ; style de ± 3 mm, à tête du pistil long de ± 1,5 mm. Fruit à carpelles libres , obliquement ellipsoïdaux , de 3–4,5 × 2–2,5 cm, aigus, jaunes , lisses, sans crêtes. Distribution HQGpPLTXH GX *DERQ FRQQX GH OD 1\DQJD HW GH O¶2JRRXp0DULWLPH PDLV VXVFHSWLEOH G¶rWUHSUpVHQWGDQVOD]RQHF{WLqUHGHOD5pSXEOLTXHGX&RQJR
+Shrub or small tree reaching 3 m in height. Leaf glabrous; petiole 1–20 mm; blade 3–12(–17) × 1.5–5.5(–6.5) cm, (long-)attenuate at base, acute to acuminate at apex, coriaceous; secondary veins 4 to 8 pairs, tertiary venation discrete. Inflorescence pendulous; peduncle 1.9–9 cm; bracts 2.5–10 × 1.2–5 mm. Flower: pedicel 4–9 mm; calyx green, tube 3–7 mm long, with sparse internal colleters, lobes erect, 1.5–3 × 2–3.5 mm, closely enserring the corolla tube; corolla white, tube 7.7–11 mm long and 4.5–5.2 mm wide, clearly twisted around the middle, glabrous on outside, densely hairy at the level of stamens inside, lobes ± plane and spreading, obovate, 7–13 × 4–8 mm, head-conical in shape at the bud apex; stamens just included, anther sessile, 1.2–1.7 mm long; disk 0.8–1 mm high; pistil 4–5 mm long, ovary 1–1.5 mm high, with carpels connate at base; style ± 3 mm, pistil head ± 1.5 mm long. Fruit with free carpels, obliquely ellipsoid, 3–4.5 × 2–2.5 cm, acute, yellow, smooth, without crests. Distribution endemic to Gabon, known from the Nyanga and Ogooué-Maritime, but likely to be present in the coastal zone of the Republic of the Congo.
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-lisière de forêt et milieux ouverts, souvent sur sol sableux à proximité de la mer ou d’une rivière ; à 0–30 m d’altitude
+Forest edge and open habitats, often on sandy soil near the sea or a river; at 0–30 m altitude.
 
 ## Source note
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Le type de V. micrantha avait été inclus par Leeuwenberg (1985) dans V. bracteata Stapf, alors TXHODSOXSDUWGHVDXWUHVVSpFLPHQVGH V. micrantha \DYDLHQWpWpLGHQWL¿pVFRPPH V. psilocalyx . B : Pichon (1948). IBLIOGRAPHIE
+The type of V. micrantha had been included by Leeuwenberg (1985) in V. bracteata Stapf, whereas most other specimens of V. micrantha had been identified as V. psilocalyx. B: Pichon (1948). BIBLIOGRAPHY
 
 ## Notes
 

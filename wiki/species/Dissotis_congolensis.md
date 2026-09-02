@@ -7,6 +7,9 @@ family: Melastomataceae
 vol: 25
 pages: 18-20
 source: sources/Melastomataceae_vol25_paddle
+countries: [Angola, Gabon, Guinea, Tanzania]
+in_region: true
+habit: "herb"
 tags: [species, generated]
 ---
 # *Dissotis congolensis* (Cogniaux ex Buettner) Jacques-Félix
@@ -43,7 +46,7 @@ Dybowski 92, lagune Ngové, bordure de forêt et de prairie (fév.). Gilles 385,
 
 ![Dissotis congolensis](../sources/Melastomataceae_vol25_paddle/figures/fig_004_p0019.png)
 
-*PL. 4. — Dissotis congolensis (Cogn.) Jacq.-Fél. : 1, aspect général × 2/3; 2, fleur complète × 6; 3, capsule × 3; 4, émergence intersépalaire × 12; 5, étamine × 12; 6, graine × 20; 7, étamine avec pédoconnectif développé × 12 (Hallé 4120.)*
+*PL. 4. — Dissotis congolensis (Cogn.) Jacq.-Fél. : 1, general aspect × 2/3; 2, complete flower × 6; 3, capsule × 3; 4, inter-sepal emergence × 12; 5, stamen × 12; 6, seed × 20; 7, stamen with developed pedoconnective × 12 (Hallé 4120.)*
 
 ## Notes
 

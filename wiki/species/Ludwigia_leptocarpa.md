@@ -5,19 +5,16 @@ authority: (Nutt.) H.Hara
 genus: Ludwigia
 family: Onagraceae
 synonyms: [Jussiaea leptocarpa Nutt., Jussiaea pilosa Kunth, Jussiaea seminuda H.Perrier]
-countries: [Senegal, Gabon, Ethiopia, Angola, South Africa, Madagascar, United States, Peru, Argentina]
-subdivisions:
-  Gabon: [Ogooué-Maritime, Ogooué-Ivindo]
-countries_incomplete: true
-in_region: true
-habit: erect woody-based herb
-habitat: [sandbanks, marsh margins, river margins, wet ground, drains]
-altitude_m: "to 500 in Gabon; to 1300 elsewhere"
 treatments:
   - vol: 52
     year: 2018
     pages: "38"
     source: sources/Onagraceae_vol52_liteparse
+countries: [Gabon, Madagascar]
+in_region: true
+subdivisions:
+  Gabon: [Ogooué-Ivindo, Ogooué-Maritime]
+habit: "herb"
 tags: [species]
 ---
 

@@ -7,6 +7,12 @@ family: Commelinaceae
 vol: 55
 pages: 31-32
 source: sources/Commelinaceae_vol55_liteparse
+countries: [Angola, Cameroon, Cote d'Ivoire, Democratic Republic of the Congo, Equatorial Guinea, Gabon, Liberia, Nigeria]
+in_region: true
+subdivisions:
+  Gabon: [Haut-Ogooué, Moyen-Ogooué, Ngounié, Nyanga, Ogooué-Ivindo, Ogooué-Lolo, Ogooué-Maritime, Woleu-Ntem]
+habit: "herb"
+altitude_m: "950"
 tags: [species, generated]
 ---
 # *Commelina longicapsa* C.B.Clarke Figure 2(K, L)

@@ -7,6 +7,11 @@ family: Cyperaceae
 vol: 44
 pages: 140-142
 source: sources/Cyperaceae_vol44_liteparse
+countries: [Gabon]
+in_region: true
+subdivisions:
+  Gabon: [Estuaire, Ogooué-Maritime]
+habit: "herb"
 tags: [species, generated]
 ---
 # *Fimbristylis cymosa* R.Br. Planche 90

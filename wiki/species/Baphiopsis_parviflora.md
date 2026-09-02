@@ -7,6 +7,13 @@ family: Leguminosae
 vol: 49
 pages: 66-68
 source: sources/Millettiaspeciesfabaceae_vol49_liteparse
+countries: [Angola, Cameroon, Democratic Republic of the Congo, Gabon, Tanzania, Uganda]
+in_region: true
+subdivisions:
+  Gabon: [Estuaire, Moyen-Ogooué, Ogooué-Maritime]
+habit: "tree"
+habitat: [secondary forest]
+altitude_m: "525–600"
 tags: [species, generated]
 ---
 # *Baphiopsis parviflora* Benth. ex Baker Planche 18

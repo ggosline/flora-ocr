@@ -7,6 +7,13 @@ family: Leguminosae
 vol: 49
 pages: 317-318
 source: sources/Millettiaspeciesfabaceae_vol49_liteparse
+countries: [Democratic Republic of the Congo, Gabon, Sierra Leone]
+in_region: true
+subdivisions:
+  Gabon: [Nyanga, Ogooué-Ivindo, Ogooué-Lolo]
+habit: "liana"
+habitat: [riverine]
+altitude_m: "530"
 tags: [species, generated]
 ---
 # *Physostigma venenosum* Balf. Planche 103

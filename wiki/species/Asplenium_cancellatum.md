@@ -7,6 +7,8 @@ family: Aspleniaceae
 vol: 08
 pages: 142-142
 source: sources/Aspleniaceae_vol08_paddle
+countries: [Cameroon, Ghana]
+in_region: true
 tags: [species, generated]
 ---
 # *Asplenium cancellatum* Alston (P.L. XXIII)
@@ -41,7 +43,7 @@ N. Hallé et G. Cours : 5971, piste de Massima à Moumba.
 
 ![Asplenium cancellatum](../sources/Aspleniaceae_vol08_paddle/figures/fig_026_p0143.png)
 
-*PL. XXIII. — Asplenium cancellatum Alston (de Gironcourt 469) : 1, aspect général × 1/2; 2, une penne × 2/3; 3, une écaille × 10; 4, détail de l'écaille × 30. — A. hemitomum Hier. (Nicklès 207) : 5, aspect général × 2/3; 6, une penne × 2/3; 7, une écaille × 10; 8, détail de l'écaille × 30. — A. megalura Hier. (Chevalier 21383) : 9, une penne × 2/3.*
+*PL. XXIII. — Asplenium cancellatum Alston (de Gironcourt 469) : 1, general appearance × 1/2; 2, a pinna × 2/3; 3, a scale × 10; 4, detail of the scale × 30. — A. hemitomum Hier. (Nicklès 207) : 5, general appearance × 2/3; 6, a pinna × 2/3; 7, a scale × 10; 8, detail of the scale × 30. — A. megalura Hier. (Chevalier 21383) : 9, a pinna × 2/3.*
 
 ## Notes
 

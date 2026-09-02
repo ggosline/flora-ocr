@@ -7,6 +7,13 @@ family: Leguminosae
 vol: 49
 pages: 281-282
 source: sources/Millettiaspeciesfabaceae_vol49_liteparse
+countries: [Cameroon, Democratic Republic of the Congo, Equatorial Guinea, Gabon]
+in_region: true
+subdivisions:
+  Gabon: [Ogooué-Lolo, Woleu-Ntem]
+habit: "liana"
+habitat: [secondary forest]
+altitude_m: "140–535"
 tags: [species, generated]
 ---
 # *Millettia harmsiana* De Wild.

@@ -7,6 +7,8 @@ family: Lauraceae
 vol: 10
 pages: 13-15
 source: sources/Lauraceae_vol10_paddle
+countries: [Senegal]
+in_region: false
 tags: [species, generated]
 ---
 # *Cassytha filiformis* L.

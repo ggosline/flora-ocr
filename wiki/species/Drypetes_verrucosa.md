@@ -7,6 +7,11 @@ family: Putranjivaceae
 vol: 57
 pages: 165-168
 source: sources/Putranjivaceae_vol57_paddle
+countries: [Gabon]
+in_region: true
+subdivisions:
+  Gabon: [Estuaire, Moyen-Ogooué, Ngounié, Woleu-Ntem]
+habit: "tree"
 tags: [species, generated]
 ---
 # *Drypetes verrucosa* Hutch.

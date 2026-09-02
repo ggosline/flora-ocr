@@ -7,6 +7,9 @@ family: Orchidaceae
 vol: 36
 pages: 75-77
 source: sources/Orchidaceae_vol36_paddle
+countries: [Cameroon, Gabon]
+in_region: true
+habitat: [evergreen forest]
 tags: [species, generated]
 ---
 # *Hetaeria mannii* (Rchb.f.) Durand & Schinz

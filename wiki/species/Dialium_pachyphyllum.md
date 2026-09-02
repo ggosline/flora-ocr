@@ -7,6 +7,7 @@ family: Leguminosae
 vol: 15
 pages: 38-39
 source: sources/Leguminosae_vol15_paddle
+habit: "tree"
 tags: [species, generated]
 ---
 # *Dialium pachyphyllum* Har
@@ -39,7 +40,7 @@ Zenker 2360, 2388, Cameroun
 
 ![Dialium pachyphyllum](../sources/Leguminosae_vol15_paddle/figures/fig_005_p0043.png)
 
-*PL. V. — Dialium pachyphyllum Harms : 1, rameau florifère × 2 /3; 2, fleur × 4; 3, fruits × 2 /3. — Dialium Dinklagei Harms : 4, feuille × 2 /3; 5, inflorescence × 2 /3; 6, fleur × 4; 7, rameau fructifère × 2 /3.*
+*PL. V. — Dialium pachyphyllum Harms : 1, flowering branch × 2 /3; 2, flower × 4; 3, fruits × 2 /3. — Dialium Dinklagei Harms : 4, leaf × 2 /3; 5, inflorescence × 2 /3; 6, flower × 4; 7, fruiting branch × 2 /3.*
 
 ## Notes
 

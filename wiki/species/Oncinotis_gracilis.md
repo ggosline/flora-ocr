@@ -7,6 +7,10 @@ family: Apocynaceae
 vol: 59
 pages: 176-176
 source: sources/Apocynaceae_vol59_liteparse
+countries: [Gabon]
+in_region: true
+habitat: [secondary forest]
+altitude_m: "600"
 tags: [species, generated]
 ---
 # *Oncinotis gracilis* Stapf Planche 78(2), 81

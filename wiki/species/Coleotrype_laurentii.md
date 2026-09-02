@@ -7,6 +7,12 @@ family: Commelinaceae
 vol: 55
 pages: 23-23
 source: sources/Commelinaceae_vol55_liteparse
+countries: [Angola, Cameroon, Central African Republic, Cote d'Ivoire, Democratic Republic of the Congo, Gabon, Ghana, Nigeria, Republic of the Congo, Tanzania, Uganda]
+in_region: true
+subdivisions:
+  Gabon: [Ogooué-Ivindo, Ogooué-Lolo]
+habit: "herb"
+altitude_m: "300"
 tags: [species, generated]
 ---
 # *Coleotrype laurentii* K.Schum. Planche 5, Figure 1G

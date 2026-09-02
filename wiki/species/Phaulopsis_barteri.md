@@ -7,6 +7,8 @@ family: Acanthaceae
 vol: 13
 pages: 49-50
 source: sources/Acanthaceae_vol13_paddle
+countries: [Equatorial Guinea, Gabon]
+in_region: true
 tags: [species, generated]
 ---
 # *Phaulopsis barteri* (T. Anders.) Lindau

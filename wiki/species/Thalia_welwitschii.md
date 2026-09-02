@@ -7,6 +7,8 @@ family: Marantaceae
 vol: 09
 pages: 141-143
 source: sources/Marantaceae_vol09_paddle
+countries: [Angola, Sudan]
+in_region: true
 tags: [species, generated]
 ---
 # *Thalia welwitschii* Ridl.
@@ -21,13 +23,11 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 — Journ. Bot. 25 : 132 (1887).
 
-Plante atteignant 2 m. de haut avec des pétioles de longueur variable, engainants à la base, callus généralement de 1 à 2 cm de long. Limbe ovale-lancéolé, progressivement acuminé vers le sommet, largement arrondi à subcordé à la base, de taille variable, jusqu'à 50 × 20 cm environ.
+Plant reaching 2 m tall with petioles of variable length, sheathing at the base, callus generally 1 to 2 cm long. Blade ovate-lanceolate, progressively acuminate toward the apex, broadly rounded to subcordate at the base, of variable size, up to approximately 50 × 20 cm.
 
-Panicule ramifiée, lâche, à entre-nœuds des axes florifères d'environ 5 mm de long. Bractées abaxiales violacées, de 15 × 8 mm. Fleurs violettes, pédoncule commun nul, pédicelles de ± 2 mm. Sépales ovales elliptiques, arrondis au sommet, de 2 mm de diamètre. Pétales de 8-10 mm de long, presque entièrement libres. Staminode externe environ deux fois plus long. Staminode en capuchon plus grand que les deux autres du cycle interne, et portant deux longs appendices latéraux. Fruit à calice persistant d'environ 8 mm de long et 4 mm de diamètre. Enveloppe membraneuse, réticulée à sec. Graines lisses, à arille basal bilobé et contourné. Section transversale médiane coupant deux fois l'embryon et deux fois le canal périspermatique.
+Panicle branched, lax, with internodes of the flowering axes approximately 5 mm long. Abaxial bracts violaceous, 15 × 8 mm. Flowers violet, common pedicel absent, pedicels ± 2 mm. Sepals oval elliptic, rounded at the apex, 2 mm in diameter. Petals 8–10 mm long, almost entirely free. External staminode approximately twice as long. Hood-shaped staminode larger than the other two of the inner cycle, and bearing two long lateral appendages. Fruit with persistent calyx approximately 8 mm long and 4 mm in diameter. Membranous envelope, reticulate when dry. Seeds smooth, with bilobed and contorted basal aril. Median transverse section cutting twice the embryo and twice the perispermatic canal.
 
 ## Type
 
@@ -35,15 +35,13 @@ Ridley 6443, Angola
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Species common in West and Central Africa, and as far as Angola, Sudan, Northern Rhodesia.
 
-Espèce commune en Afrique occidentale et centrale, et jusqu'en Angola, au Soudan, en Rhodésie du Nord.
+This species has often been confused with an American species: T. geniculata L. which in fact differs from it by a certain number of floral and inflorescent characters.
 
-Cette espèce a souvent été confondue avec une espèce américaine : T. geniculata L. qui s'en distingue en réalité par un certain nombre de caractères floraux et inflorescentiels.
+The leaves are used for the manufacture of roofing and packaging. The stems would be used in magical practices intended to cause weight loss.
 
-Les feuilles sont utilisées pour la confection de toitures et d'emballages. Les tiges seraient utilisées dans des pratiques magiques destinées à faire maigrir.
-
-Noms vernaculaires (d’après Walker et Sillans) : Ntsogè (Nkomi, Orungu) ; Disosombu (Bapunu).
+Vernacular names (after Walker and Sillans): Ntsogè (Nkomi, Orungu); Disosombu (Bapunu).
 
 ## Specimens examined
 

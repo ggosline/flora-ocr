@@ -7,6 +7,12 @@ family: Dracaenaceae
 vol: 54
 pages: 57-57
 source: sources/Dracaenaceae_vol54_liteparse
+countries: [Angola, Cameroon, Democratic Republic of the Congo, Equatorial Guinea, Gabon, Ghana, Nigeria, Republic of the Congo]
+in_region: true
+subdivisions:
+  Gabon: [Moyen-Ogooué, Ngounié, Nyanga, Ogooué-Ivindo, Ogooué-Lolo, Ogooué-Maritime, Woleu-Ntem]
+habit: "tree"
+altitude_m: "0–1000"
 tags: [species, generated]
 ---
 # *Dracaena viridiflora* Engl. & K.Krause Planche 16(5–9)

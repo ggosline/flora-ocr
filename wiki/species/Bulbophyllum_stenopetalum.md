@@ -7,6 +7,9 @@ family: Orchidaceae
 vol: 36
 pages: 169-171
 source: sources/Orchidaceae_vol36_paddle
+countries: [Cameroon, Cote d'Ivoire, Gabon, Ghana, Liberia, Nigeria]
+in_region: true
+habitat: [secondary forest]
 tags: [species, generated]
 ---
 # *Bulbophyllum stenopetalum* Kraenzl.

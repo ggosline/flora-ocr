@@ -7,6 +7,9 @@ family: Sapindaceae
 vol: 23
 pages: 110-113
 source: sources/Sapindaceae_vol23_paddle
+countries: [Cameroon, Cote d'Ivoire, Equatorial Guinea, Gabon, Nigeria]
+in_region: true
+habitat: [primary forest, evergreen forest]
 tags: [species, generated]
 ---
 # *Chytranthus talbotii* (Baker fil.) Keay
@@ -57,7 +60,7 @@ Klaine 1466, 2500, 3086, Sibang et env. de Libreville (fl., nov.; fr.). Le Testu
 
 ![Chytranthus talbotii](../sources/Sapindaceae_vol23_paddle/figures/fig_026_p0111.png)
 
-*PL. 26. — Chytranthus talbotii (Bak. f.) Keay : 1, pied florifère haut de 10 m; 2, base de pétiole × 2/3; 3, folioles × 2/3; 4, inflorescence × 0,5; 5, bouton long, 3 cm; 6, étamine de jeune bouton ♂, anthère de 1,8 mm; 7, disque de 3 mm et coupe de gynécée dans une fleur ♂, 8, ovaire avorté de fleur ♂, haut de 2,5 mm; 9, fleur ♀ épanouie longue de 35 mm; 10, pétale de la même fleur, 17 mm; 11, étamine de la même fleur, longue de 10 mm; 12, gynécée (id.) long de 17 mm, avec coupe transversale et détail du stigmate; 13, fruit et sa coupe, diam. 9 cm; 14, graine longue de 4,5 cm (I-12, N. Hallé 2998; 13, Hladik 1919; 14, Klaine 1466).*
+*PL. 26. — Chytranthus talbotii (Bak. f.) Keay : 1, flowering tree 10 m tall; 2, base of petiole × 2/3; 3, leaflets × 2/3; 4, inflorescence × 0,5; 5, long bud, 3 cm; 6, stamen of young ♂ bud, anther of 1,8 mm; 7, disk of 3 mm and section of gynoecium in a ♂ flower, 8, aborted ovary of ♂ flower, 2,5 mm tall; 9, open ♀ flower 35 mm long; 10, petal of the same flower, 17 mm; 11, stamen of the same flower, 10 mm long; 12, gynoecium (id.) 17 mm long, with transverse section and detail of stigma; 13, fruit and its section, diam. 9 cm; 14, seed 4,5 cm long (I-12, N. Hallé 2998; 13, Hladik 1919; 14, Klaine 1466).*
 
 ## Notes
 

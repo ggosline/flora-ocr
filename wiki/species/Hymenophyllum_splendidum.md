@@ -7,6 +7,9 @@ family: Hymenophyllaceae
 vol: 08
 pages: 64-64
 source: sources/Hymenophyllaceae_vol08_paddle
+countries: [Cameroon, Democratic Republic of the Congo, Equatorial Guinea]
+in_region: true
+habitat: [evergreen forest]
 tags: [species, generated]
 ---
 # *Hymenophyllum splendidum* van den Bosch (P.L. X)
@@ -43,7 +46,7 @@ Le Testu : 2164, près d'Oconuza, région de la Ngounyé.
 
 ![Hymenophyllum splendidum](../sources/Hymenophyllaceae_vol08_paddle/figures/fig_013_p0067.png)
 
-*PL. X. — Hymenophyllum splendidum v. d. B. (Le Testu 2164) : 1, une penne × 3; 2, sore × 9. — H. hirsutum (L.) Sw. (Le Testu 2171) : 3, une penne × 3; 4, un sore × 9. — H. Kühnii C. Chr. (Le Testu 5262) : 5, une penne × 3; 6, un sore × 9. — Trichomanes erosum Willd. (Nicklès 108) : 7, 8, 9, diverses formes de frondes × 1,5; 10, sore × 4; 11, détail de nervation et cellules × 80. — T. chamaedrys Taton (Nicklès 109) : 12, frondes × 1,5; 13, sore × 4; 14, détail de nervation et cellules × 80. — T. Ballardianum Alston (Annet 296) : 15, frondes × 1,5; 16, sore × 4; 17, détail de nervation et cellules × 80.*
+*PL. X. — Hymenophyllum splendidum v. d. B. (Le Testu 2164) : 1, a pinna × 3; 2, sorus × 9. — H. hirsutum (L.) Sw. (Le Testu 2171) : 3, a pinna × 3; 4, a sorus × 9. — H. Kühnii C. Chr. (Le Testu 5262) : 5, a pinna × 3; 6, a sorus × 9. — Trichomanes erosum Willd. (Nicklès 108) : 7, 8, 9, various forms of fronds × 1,5; 10, sorus × 4; 11, detail of venation and cells × 80. — T. chamaedrys Taton (Nicklès 109) : 12, fronds × 1,5; 13, sorus × 4; 14, detail of venation and cells × 80. — T. Ballardianum Alston (Annet 296) : 15, fronds × 1,5; 16, sorus × 4; 17, detail of venation and cells × 80.*
 
 ## Notes
 

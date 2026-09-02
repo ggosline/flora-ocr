@@ -7,6 +7,9 @@ family: Malpighiaceae
 vol: 21
 pages: 17-18
 source: sources/Malpighiaceae_vol21_paddle
+countries: [Angola, Guinea, Sudan, Tanzania, Uganda]
+in_region: true
+habitat: [riverine]
 tags: [species, generated]
 ---
 # *Flabellaria paniculata* Cavanilles
@@ -55,7 +58,7 @@ Hallé N. & Le Thomas 314, Mékambo (bout., août). Klaine 779, environs de Libr
 
 ![Flabellaria paniculata](../sources/Malpighiaceae_vol21_paddle/figures/fig_003_p0019.png)
 
-*PL. 3. — Flabellaria paniculata Cav. : 1, détail d'un rameau florifère × 2/3; 2, détail de la feuille face inférieure × 4; 3, détail de l'inflorescence × 2 (1-3, Klaine 779); 4, bouton × 3 (Klaine 1451); 5, fleur épanouie × 3 (Klaine 779); 6, samare × 2/3 (Klaine 1165). — Heteropteris leona (Cav.) Exell : 7, feuille × 2/3; 8, bouton × 3; 9, fleur épanouie × 3 (7-9, Le Testu, 9631); 10, samare × 2/3 (Klaine 3338). — Triaspis sapinii De Wild.: 11, détail d'un rameau florifère × 2/3 (Le Testu 5464); 12 bouton × 3; 13, fleur épanouie × 3 (12-13, Le Testu 1545); 14, samare × 2/3 (Le Testu 5464).*
+*PL. 3. — Flabellaria paniculata Cav. : 1, detail of a flowering branch × 2/3; 2, detail of leaf lower surface × 4; 3, detail of inflorescence × 2 (1-3, Klaine 779); 4, bud × 3 (Klaine 1451); 5, open flower × 3 (Klaine 779); 6, samara × 2/3 (Klaine 1165). — Heteropteris leona (Cav.) Exell : 7, leaf × 2/3; 8, bud × 3; 9, open flower × 3 (7-9, Le Testu, 9631); 10, samara × 2/3 (Klaine 3338). — Triaspis sapinii De Wild.: 11, detail of a flowering branch × 2/3 (Le Testu 5464); 12 bud × 3; 13, open flower × 3 (12-13, Le Testu 1545); 14, samara × 2/3 (Le Testu 5464).*
 
 ## Notes
 

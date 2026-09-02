@@ -7,6 +7,8 @@ family: Flacourtiaceae
 vol: 34
 pages: 35-38
 source: sources/Flacourtiaceae_vol34_paddle
+countries: [Angola, Cameroon, Cote d'Ivoire, Democratic Republic of the Congo, Equatorial Guinea, Gabon, Ghana, Liberia, Nigeria, Sierra Leone]
+in_region: true
 tags: [species, generated]
 ---
 # *Scottellia oliv* .
@@ -16,39 +18,37 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 in HOOK., Ic. Pl. 23 : t. 2265 (1893) ; PIERRE, BSLP, n. s., 13 : 110 (1899) ; GILG, EBJ 40 : 445 (1908) ; TISSER. & SILLANS, Bull. Soc. Bot. Fr. 99 : 286 (1953) ; KEAY, in HUTCH. & DALZIEL, FWTA, ed. 2, 1 (1) : 186 (1954) ; BAMPS, FCBR, Spermat., Flacourt. 1 : 9 (1968) ; SLEUMER, Blumea 20 (2) : 275 (1972).
 
-–Dasypetalum PIERRE ex A. CHEV., Vég. Ut. Afr. Trop. Fr. 9, Bois du Gabon : 55 (1917). ESPÈCE-TYPE : D. klaineanum PIERRE ex A. CHEV.
+–Dasypetalum PIERRE ex A. CHEV., Vég. Ut. Afr. Trop. Fr. 9, Bois du Gabon : 55 (1917). TYPE SPECIES : D. klaineanum PIERRE ex A. CHEV.
 
-Arbres ou Arbustes inermes.
+Trees or unarmed shrubs.
 
-Feuilles entières ou ± dentées.
+Leaves entire or ± dentate.
 
-Inflorescences en racèmes groupés en pseudopanicules, axillaires au sommet des rameaux. Fleurs ¥ ; sépales 5, imbriqués ; pétales 5, munis d'une écaille ± velue à la base de leur face interne, imbriqués ; étamine 5 ; ovaire glabre à glabrescent, à 3 placentas pluriovulés ; style court à sommet 3-fide.
+Inflorescences in racemes grouped in pseudopanicles, axillary at the apex of the branches. Flowers ¥ ; sepals 5, imbricate ; petals 5, bearing a ± hairy scale at the base of their inner surface, imbricate ; stamens 5 ; ovary glabrous to glabrescent, with 3 pluriovulate placentae ; style short with 3-fide apex.
 
-Fruits : capsules à 3 valves ; graines peu nombreuses (1-3), arillées.
+Fruits : capsules with 3 valves ; seeds few in number (1–3), arillate.
 
-ESPÈCE-TYPE : S. leonensis OLIV.
+TYPE SPECIES : S. leonensis OLIV.
 
-Genre d’Afrique tropicale occidentale et centrale, comprenant 3 espèces, dont 1 pour la Flore.
+Genus of tropical western and central Africa, comprising 3 species, 1 of which occurs in the Flora.
 
 Scottellia klaineana Pierre
 
 TYPE : Klaine 630, Gabon (lecto-, isolecto-); Klaine 1119, Gabon (syn-).
 
-– S. kamerunensis GILG, EBJ 40 : 447 (1908) ; in ENGL., PWA 3 (2) : 561 (1921). TYPES : Zenker 2646, Cameroun (lecto-, B, delet., cf. SLEUMER 1972 ; P!, choisi ici ; isollecto-, HBG, L, M, W, WU, Z) ; Zenker 3018 et 3031, Cameroun (syn-, B, delet., BR, HBG, L, M, P!, W, WU, Z).
+– S. kamerunensis GILG, EBJ 40 : 447 (1908) ; in ENGL., PWA 3 (2) : 561 (1921). TYPES : Zenker 2646, Cameroon (lecto-, B, delet., cf. SLEUMER 1972 ; P!, chosen here ; isolecto-, HBG, L, M, W, WU, Z) ; Zenker 3018 and 3031, Cameroon (syn-, B, delet., BR, HBG, L, M, P!, W, WU, Z).
 
-– S. mimfiensis GILG, EBJ 40 : 448 (1908). TYPES : Zenker 3052, Cameroun (lecto-, B, delet., cf. SLEUMER 1972 ; P!, choisi ici ; isolecto-, BR, GOET, HBG, M, W, WU, Z) ; Zenker 3064, Cameroun (syn-, GOET, HBG, L, M, P!, W, WU, Z).
+– S. mimfiensis GILG, EBJ 40 : 448 (1908). TYPES : Zenker 3052, Cameroon (lecto-, B, delet., cf. SLEUMER 1972 ; P!, chosen here ; isolecto-, BR, GOET, HBG, M, W, WU, Z) ; Zenker 3064, Cameroon (syn-, GOET, HBG, L, M, P!, W, WU, Z).
 
-– S. coriacea A. CHEV. ex HUTCH., DALZIEL & CHIPP, in HUTCH. & DALZIEL, FWTA 1(1): 160 (1927). TYPES : Chevalier 16231, Côté d'Ivoire (lecto-, cf. SLEUMER 1972, K ; isolecto-, L, P!); Chevalier 22315, Côté d'Ivoire (syn-, P!).
+– S. coriacea A. CHEV. ex HUTCH., DALZIEL & CHIPP, in HUTCH. & DALZIEL, FWTA 1(1): 160 (1927). TYPES : Chevalier 16231, Ivory Coast (lecto-, cf. SLEUMER 1972, K ; isolecto-, L, P!); Chevalier 22315, Ivory Coast (syn-, P!).
 
 –Dasypetalum klaineanum PIERRE ex A. CHEV., Vég. Ut. Afr. Trop. Fr. 9, Bois du Gabon : 55 (1917), nom. inval.
 
-– Scottellia gabonensis PIERRE ex A. CHEV., Vég. Ut. Afr. Trop. Fr. 9, bois du Gabon : 60 (1917), nom. nud.
+– Scottellia gabonensis PIERRE ex A. CHEV., Vég. Ut. Afr. Trop. Fr. 9, Bois du Gabon : 60 (1917), nom. nud.
 
-– S. chevaleri CHIPP, Kew Bull.: 265 (1923). TYPE : Chevalier 16182, Côte d'Ivoire (holo-, K ; iso-, L, P!).
+– S. chevaleri CHIPP, Kew Bull.: 265 (1923). TYPE : Chevalier 16182, Ivory Coast (holo-, K ; iso-, L, P!).
 
 – S. gossweileri EXELL, J. Bot. 70, Suppl. 1 : 217 (1932). TYPE : Gossweiler 7396, Angola (holo-, BM ; iso-, COI, LISJC, LISU).
 
@@ -56,13 +56,13 @@ TYPE : Klaine 630, Gabon (lecto-, isolecto-); Klaine 1119, Gabon (syn-).
 
 – S. klaineana PIERRE var. kamerunensis (GILG) PELLEGR., Mém. Soc. Bot. Fr. : 109 (1952).
 
-Arbre (10-30 m de haut) ; rameaux grisâtres, glabres.
+Tree (10–30 m tall) ; branches greyish, glabrous.
 
-Feuilles à pétiole de 0,5-2 cm de long, glabre ; limbe oblong-obovale à elliptique-obovale, cunée ou arrondi à la base, acuminé au sommet, 5-14 × 2-6 cm, entier à crénelé, coriace, glabre ; nervures secondaires 5-8 paires.
+Leaves with petiole 0.5–2 cm long, glabrous ; blade oblong-obovate to elliptic-obovate, cuneate or rounded at the base, acuminate at the apex, 5–14 × 2–6 cm, entire to crenate, coriaceous, glabrous ; secondary veins 5–8 pairs.
 
-Inflorescences en racèmes groupés en pseudopanicules, axillaires. Fleurs ¥ ; pédicelle de 3-5-(8) mm long, glabre ou ± pubescent ; sépales 5, elliptiques-ovales, 3-4 × 2 mm, ciliés ; pétales 5, oblongs-ovales à elliptiques-obovales, 5 × 2 mm, ciliés et munis d'une écaille densément velue ; étamines 5, à filet de 1,5-2,5 mm de long, glabre ; anthères en fer à cheval, longues de 2-2,5 mm ; ovaire ± côtelé, glabre, à 3 placentas pluriovulés ; style terminé par 3 branches stigmatiques courbées.
+Inflorescences in racemes grouped in pseudopanicles, axillary. Flowers ¥ ; pedicel 3–5–(8) mm long, glabrous or ± pubescent ; sepals 5, elliptic-ovate, 3–4 × 2 mm, ciliate ; petals 5, oblong-ovate to elliptic-obovate, 5 × 2 mm, ciliate and bearing a densely hairy scale ; stamens 5, with filament 1.5–2.5 mm long, glabrous ; anthers horseshoe-shaped, 2–2.5 mm long ; ovary ± ribbed, glabrous, with 3 pluriovulate placentae ; style terminated by 3 curved stigmatic branches.
 
-Fruits : capsules subglobuleuses, petites (6-7 mm de diamètre), à surface grumeleuse ; graines 1-3, anguleuses ou subglobuleuses. - Pl. 9, p. 33.
+Fruits : capsules subglobose, small (6–7 mm in diameter), with grumose surface ; seeds 1–3, angular or subglobose. - Pl. 9, p. 33.
 
 ## Type
 
@@ -70,15 +70,11 @@ Klaine 630, Gabon (lecto-, cf. SLEUMER 1972, P! ; isolecto-, P!) ; Klaine 1119, 
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Sierra Leone, Liberia, Côte d'Ivoire, Ghana, Nigeria, Cameroun, Guinée équatoriale, RCA, Gabon, Congo, Zaïre, Angola
+Sierra Leone, Liberia, Ivory Coast, Ghana, Nigeria, Cameroon, Equatorial Guinea, CAR, Gabon, Congo, Zaire, Angola
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Forêts denses, galeries forestières
+Dense forests, forest galleries
 
 ## Specimens examined
 
@@ -102,7 +98,7 @@ Touzet 123, Nkoulounga, 26/1/1959, fl. (P).
 
 ![Scottellia oliv](../sources/Flacourtiaceae_vol34_paddle/figures/fig_009_p0036.png)
 
-*PL. 9. – Scottelia klaineana Pierre : 1, rameau florifère : 2, fleur ; 3, pétale, face inférieure ; 4, étamine ; 5, coupe transversale de l'ovaire ; 6, fruit ouvert ; 7, graine. (1-5. Klaine 3438 ; 6 et 7. Klaine 3289).*
+*PL. 9. – Scottelia klaineana Pierre : 1, flowering branch : 2, flower ; 3, petal, lower surface ; 4, stamen ; 5, transverse section of the ovary ; 6, open fruit ; 7, seed. (1-5. Klaine 3438 ; 6 et 7. Klaine 3289).*
 
 ## Notes
 

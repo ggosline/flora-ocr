@@ -7,6 +7,9 @@ family: Leguminosae
 vol: 15
 pages: 57-60
 source: sources/Leguminosae_vol15_paddle
+countries: [Angola, Cote d'Ivoire, Nigeria, Uganda]
+in_region: true
+habit: "tree"
 tags: [species, generated]
 ---
 # *Cassia mannii* Oliver (P.L. 9, p. 57)
@@ -53,7 +56,7 @@ Thollon : 151, Ngounié.
 
 ![Cassia mannii](../sources/Leguminosae_vol15_paddle/figures/fig_009_p0058.png)
 
-*PL. IX. — Cassia Mannii Oliver : 1, feuille × 2/3; 2, inflorescence × 2/3; 3, fleur × 1; 4, androcée, vue de profil × 2; 5, anthère × 2; 6, fruit × 1/2; 7, coupe transversale du fruit × 1/2; 8, graine × 4/3.*
+*PL. IX. — Cassia Mannii Oliver : 1, leaf × 2/3; 2, inflorescence × 2/3; 3, flower × 1; 4, androecium, viewed in profile × 2; 5, anther × 2; 6, fruit × 1/2; 7, transverse section of the fruit × 1/2; 8, seed × 4/3.*
 
 ## Notes
 

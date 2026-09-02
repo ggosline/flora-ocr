@@ -7,6 +7,7 @@ family: Gramineae
 vol: 05
 pages: 71-72
 source: sources/Gramineae_vol05_paddle
+habit: "herb"
 tags: [species, generated]
 ---
 # *Panicum congoense* Franch.

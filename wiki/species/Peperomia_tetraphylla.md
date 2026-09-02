@@ -7,6 +7,13 @@ family: Piperaceae
 vol: 50
 pages: 73-74
 source: sources/Piperaceae_vol50_liteparse
+countries: [Gabon]
+in_region: true
+subdivisions:
+  Gabon: [Estuaire]
+habit: "herb"
+habitat: [coastal]
+altitude_m: "100"
 tags: [species, generated]
 ---
 # *Peperomia tetraphylla* (G.Forst.) Hook. & Arn. Planche 26.4

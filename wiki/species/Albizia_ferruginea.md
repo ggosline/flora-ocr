@@ -7,6 +7,8 @@ family: Leguminosae
 vol: 31
 pages: 151-155
 source: sources/Leguminosae_vol31_paddle
+countries: [Angola, Cameroon, Senegal, Uganda]
+in_region: true
 tags: [species, generated]
 ---
 # *Albizia ferruginea* (Guillaumein & Perrottet) Bentham
@@ -58,7 +60,7 @@ Le Testu 7548, Lastoursville (fl., oct.).
 
 ![Albizia ferruginea](../sources/Leguminosae_vol31_paddle/figures/fig_049_p0152.png)
 
-*PL. 37. – Albizia ferruginea (Guill. & Perrot.) Benth. : 1, aspect général × 2/3 ; 2, glande pétiolaire × 2 ; 3, glande du sommet du rachis × 2 ; 4, glandes du sommet de l'axe de la penne × 2 : 5, foliole, face supérieure × 2,5 ; 6, foliole, face inférieure × 2,5 ; 7, bractéole × 5 ; 8, bouton floral × 4 ; 9, fleur basale × 3 ; 10, fleur basale, coupe longitudinale × 4,5 ; 11, anthère × 20 ; 12, pistil × 3 ; 13, fleur sommitale × 3 ; 14, 15, fruit × 0,5 ; 16, exocarpe, détail × 1,5 ; 17, graine × 2. (1, 4, Chevalier 12395 (Guinée); 2, 3, 5-13, Le Testu 7548; 14, 15, Berhaut 5701 (Sénégal); 16, 17, Berhaut 6112, (Sénégal)).*
+*PL. 37. – Albizia ferruginea (Guill. & Perrot.) Benth. : 1, general aspect × 2/3 ; 2, petiolar gland × 2 ; 3, gland at the summit of the rachis × 2 ; 4, glands at the summit of the axis of the pinna × 2 : 5, leaflet, upper surface × 2.5 ; 6, leaflet, lower surface × 2.5 ; 7, bracteole × 5 ; 8, floral bud × 4 ; 9, basal flower × 3 ; 10, basal flower, longitudinal section × 4.5 ; 11, anther × 20 ; 12, pistil × 3 ; 13, apical flower × 3 ; 14, 15, fruit × 0.5 ; 16, exocarp, detail × 1.5 ; 17, seed × 2. (1, 4, Chevalier 12395 (Guinea); 2, 3, 5-13, Le Testu 7548; 14, 15, Berhaut 5701 (Senegal); 16, 17, Berhaut 6112, (Senegal)).*
 
 ## Notes
 

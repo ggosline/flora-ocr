@@ -7,6 +7,9 @@ family: Leguminosae
 vol: 15
 pages: 325-327
 source: sources/Leguminosae_vol15_paddle
+countries: [Cameroon, Gabon, Uganda]
+in_region: true
+habit: "tree"
 tags: [species, generated]
 ---
 # *Baphiopsis parvifolia* Benth. ex Bak.
@@ -39,7 +42,7 @@ Aubréville : 180 Mayumba, dans les fourrés littoraux, sur sable. Hallé et A. 
 
 ![Baphiopsis parvifolia](../sources/Leguminosae_vol15_paddle/figures/fig_083_p0326.png)
 
-*PL. LXXXII. — Baphiopsis parvifolia Bak.: 1, feuilles et inflorescence × 2/3; 2, autre type de feuilles × 2/3; 3, fleur ×; 4, fleur × 4; 5, ovaire × 4; 6, fruit × 2/3, d'après F.T.E.A.*
+*PL. LXXXII. — Baphiopsis parvifolia Bak.: 1, leaves and inflorescence × 2/3; 2, other type of leaves × 2/3; 3, flower ×; 4, flower × 4; 5, ovary × 4; 6, fruit × 2/3, after F.T.E.A.*
 
 ## Notes
 

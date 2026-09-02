@@ -5,11 +5,8 @@ authority: (Engl.) Lam
 genus: Dacryodes
 family: Burseraceae
 synonyms: [Canarium Büttneri Engl., Pachylobus Büttneri (Engl.) Engl.]
-countries: [Equatorial Guinea, Gabon]
-in_region: true
-habit: large tree
-habitat: [old secondary forest]
 treatments: [{vol: 3, pages: "71–74", source: sources/Burseraceae_vol3_paddle}]
+habit: "tree"
 tags: [species]
 ---
 

@@ -7,6 +7,9 @@ family: Linaceae
 vol: 21
 pages: 40-42
 source: sources/Linaceae_vol21_paddle
+countries: [Central African Republic, Democratic Republic of the Congo, Gabon, Nigeria]
+in_region: true
+habit: "liana"
 tags: [species, generated]
 ---
 # *Hugonia spicata* Oliver var. glabrescens Keay

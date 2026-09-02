@@ -5,10 +5,9 @@ authority: N. Hallé
 genus: Impatiens
 family: Balsaminaceae
 synonyms: []
+treatments: [{vol: 4, pages: "26–30", source: sources/Balsaminaceae_vol4_paddle}]
 countries: [Gabon]
 in_region: true
-habit: herb
-treatments: [{vol: 4, pages: "26–30", source: sources/Balsaminaceae_vol4_paddle}]
 tags: [species]
 ---
 

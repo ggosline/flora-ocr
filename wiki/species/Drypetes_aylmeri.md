@@ -7,6 +7,11 @@ family: Putranjivaceae
 vol: 57
 pages: 126-128
 source: sources/Putranjivaceae_vol57_paddle
+countries: [Gabon, Ghana, Guinea, Liberia, Sierra Leone]
+in_region: true
+subdivisions:
+  Gabon: [Estuaire, Ngounié, Nyanga, Ogooué-Ivindo, Ogooué-Lolo, Woleu-Ntem]
+habit: "tree"
 tags: [species, generated]
 ---
 # *Drypetes aylmeri* Hutch. & Dalziel

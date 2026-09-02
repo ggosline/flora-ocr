@@ -7,6 +7,9 @@ family: Rubiaceae
 vol: 12
 pages: 204-206
 source: sources/Rubiaceae_vol12_paddle
+countries: [Cameroon, Gabon]
+in_region: true
+habit: "shrub"
 tags: [species, generated]
 ---
 # *Pseudosabicea batesii* (Wernh.) N. Hallé
@@ -39,7 +42,7 @@ This beautiful plant, the most anisophyllous, together with Ps. sthenula N. Hall
 
 ![Pseudosabicea batesii](../sources/Rubiaceae_vol12_paddle/figures/fig_053_p0205.png)
 
-*PL. 42. — Pseudosabicea Batesii (Wernh.) N. Hallé (N. H. 2125) : 1, feuille et stipules × 2/3; 2, tige florifère; 3, bractée de 7 mm; 4, coupe de la fleur; 5, disque. — Ps. aurifodinae N. Hallé (N. H. 6137) : 6, feuilles et stipules × 2/3; 7, tige florifère; 8, bractée de 4 mm; 9, coupe de la fleur; 10, anthère; 11, disque; 12, coupe de l'ovaire.*
+*PL. 42. — Pseudosabicea Batesii (Wernh.) N. Hallé (N. H. 2125) : 1, leaf and stipules × 2/3; 2, flowering stem; 3, bract of 7 mm; 4, flower section; 5, disk. — Ps. aurifodinae N. Hallé (N. H. 6137) : 6, leaves and stipules × 2/3; 7, flowering stem; 8, bract of 4 mm; 9, flower section; 10, anther; 11, disk; 12, ovary section.*
 
 ## Notes
 

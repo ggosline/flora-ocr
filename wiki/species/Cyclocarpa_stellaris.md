@@ -7,6 +7,12 @@ family: Leguminosae
 vol: 49
 pages: 107-108
 source: sources/Millettiaspeciesfabaceae_vol49_liteparse
+countries: [Burundi, Democratic Republic of the Congo, Gabon, Guinea-Bissau, Malawi, Mozambique]
+in_region: true
+subdivisions:
+  Gabon: [Haut-Ogooué, Ngounié, Nyanga, Ogooué-Maritime]
+habit: "herb"
+altitude_m: "125–640"
 tags: [species, generated]
 ---
 # *Cyclocarpa stellaris* Afzel. ex Baker Planche 33

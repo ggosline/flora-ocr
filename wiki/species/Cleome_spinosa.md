@@ -7,6 +7,10 @@ family: Brassicaceae
 vol: 30
 pages: 33-37
 source: sources/Capparidaceae_vol30_paddle
+countries: [Cameroon, Gabon]
+in_region: true
+habit: "herb"
+habitat: [coastal]
 tags: [species, generated]
 ---
 # *Cleome spinosa* Jacquin
@@ -51,7 +55,7 @@ Hallé 3985, Belinga, Mines de Fer, à Maybout 2, près de l'Ivindo, jardin afri
 
 ![Cleome spinosa](../sources/Capparidaceae_vol30_paddle/figures/fig_004_p0034.png)
 
-*PL. 3. – Cleome spinosa Jacq.: 1, portion de plante montrant des inflorescences avec des fleurs et des fruits × 1/3; 2, fleur juste avant l'anthèse × 1; 3, pétales, à gauche, le pétale supérieur × 1; 4, bractée florale × 2; 5, graine × 8; 6, androgynophore en vue latérale avec une portion du pédicelle (à gauche) et le gynophore (à droite), en hachures, les cicatrices laissées par les sépales les pétales et les étamines × 4; 7, le même vu de dessus × 4 (1, Hallé & Villiers 4807; 2, Raynal 10041; 3, Leeuwenberg 6588; 4-7, Hallé 3985).*
+*PL. 3. – Cleome spinosa Jacq.: 1, portion of plant showing inflorescences with flowers and fruits × 1/3; 2, flower just before anthesis × 1; 3, petals, on the left, the upper petal × 1; 4, floral bract × 2; 5, seed × 8; 6, androgynophore in lateral view with a portion of the pedicel (on the left) and the gynophore (on the right), in hatching, the scars left by the sepals the petals and the stamens × 4; 7, the same viewed from above × 4 (1, Hallé & Villiers 4807; 2, Raynal 10041; 3, Leeuwenberg 6588; 4-7, Hallé 3985).*
 
 ## Notes
 

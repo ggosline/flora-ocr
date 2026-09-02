@@ -7,6 +7,10 @@ family: Leguminosae
 vol: 15
 pages: 22-24
 source: sources/Leguminosae_vol15_paddle
+countries: [Guinea]
+in_region: false
+habit: "liana"
+habitat: [riverine]
 tags: [species, generated]
 ---
 # *Griffonia tessmannii* (De Wild.) Comp.

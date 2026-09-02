@@ -7,6 +7,12 @@ family: Leguminosae
 vol: 49
 pages: 306-308
 source: sources/Millettiaspeciesfabaceae_vol49_liteparse
+countries: [Gabon]
+in_region: true
+subdivisions:
+  Gabon: [Estuaire, Ngounié]
+habitat: [savanna, riverine]
+altitude_m: "150"
 tags: [species, generated]
 ---
 # *Neonotonia wightii* (Wight & Arn.) J.A.Lackey subsp. wightii

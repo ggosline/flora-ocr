@@ -7,6 +7,9 @@ family: Orchidaceae
 vol: 36
 pages: 105-107
 source: sources/Orchidaceae_vol36_paddle
+countries: [Cameroon, Cote d'Ivoire, Gabon, Guinea, Liberia, Nigeria, Sierra Leone, Uganda]
+in_region: true
+habitat: [evergreen forest]
 tags: [species, generated]
 ---
 # *Ancistrochilus rotschildianus* O'Brien
@@ -39,11 +42,11 @@ Arends, Louis & de Wilde 370, Waka, forestry track, near the place called "la Fa
 
 ![Ancistrochilus rotschildianus](../sources/Orchidaceae_vol36_paddle/figures/fig_053_p0106.png)
 
-*PL. 48. – Structure du gynostème du genre Ancistrochilus Rolfe: A, vue antérieure de la région apicale du gynostème ; B, vue latérale ; C, pollinies avec les caudicules sur le rostelle ; D, reste du rostelle ; E, pollinies, aspects divers (A-E, ex SZLACHETKO & MARGOŃSKA, 2001).*
+*PL. 48. – Structure of the gynostemium of the genus Ancistrochilus Rolfe: A, anterior view of the apical region of the gynostemium ; B, lateral view ; C, pollinia with caudicles on the rostellum ; D, remainder of rostellum ; E, pollinia, various aspects (A-E, ex SZLACHETKO & MARGOŃSKA, 2001).*
 
 ![Ancistrochilus rotschildianus](../sources/Orchidaceae_vol36_paddle/figures/fig_054_p0108.png)
 
-*PL. 49. – Ancistrochilus rotschildianus O'Brien: A, gynostème et labelle, vue latérale ; B, labelle étalé ; C, sépale latérale ; D, pétale ; E, sépale dorsal. – A. thomsonianus (Rchb.f.) Rolfe: F, vue générale ; G, fleur ; H, gynostème et labelle, vue latérale ; I, labelle étalé ; J, sépale latérale ; K, pétale ; L, sépale dorsal (A-E, Le Testu 5182, P ; F-G, ex CRiBB, 1984, modifié ; H-L, Manning 85, P)*
+*PL. 49. – Ancistrochilus rotschildianus O'Brien: A, gynostemium and labellum, lateral view ; B, labellum spread ; C, lateral sepal ; D, petal ; E, dorsal sepal. – A. thomsonianus (Rchb.f.) Rolfe: F, general view ; G, flower ; H, gynostemium and labellum, lateral view ; I, labellum spread ; J, lateral sepal ; K, petal ; L, dorsal sepal (A-E, Le Testu 5182, P ; F-G, ex CRiBB, 1984, modified ; H-L, Manning 85, P)*
 
 ![Ancistrochilus rotschildianus](../sources/Orchidaceae_vol36_paddle/figures/fig_128_p0221.png)
 

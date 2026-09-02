@@ -7,6 +7,12 @@ family: Leguminosae
 vol: 49
 pages: 155-155
 source: sources/Millettiaspeciesfabaceae_vol49_liteparse
+countries: [Gabon, Ghana, Republic of the Congo]
+in_region: true
+subdivisions:
+  Gabon: [Ogooué-Ivindo, Ogooué-Lolo]
+habit: "liana"
+altitude_m: "470"
 tags: [species, generated]
 ---
 # *Dalbergia setifera* Hutch. & Dalziel

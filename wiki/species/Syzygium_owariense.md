@@ -7,6 +7,9 @@ family: Myrtaceae
 vol: 11
 pages: 15-15
 source: sources/Myrtaceae_vol11_paddle
+countries: [Cote d'Ivoire, Gabon, Nigeria, Sierra Leone]
+in_region: true
+habit: "tree"
 tags: [species, generated]
 ---
 # *Syzygium owariense* (Beauv.) Benth.
@@ -23,9 +26,7 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Arbre glabre à racines échasses. Rameaux arrondis. Feuilles pétiolées, ovée-lancéolées ou elliptiques, coriaces, longuement acuminées et aiguës au sommet, arrondies, obtuses ou aiguës à la base, longues de 7-17 cm, larges de 4-7 cm. Pétiole grêle, de 4-8 mm long. Inflorescences terminales, courtes, assez denses. Boutons floraux d'environ 3 mm de diamètre. Sépales très petits. Fruit subglobuleux, d'env. 2 cm de diamètre, comestible, pourpre à maturité.
+Tree glabrous with stilt roots. Branchlets rounded. Leaves petiolate, ovate-lanceolate or elliptic, coriaceous, long-acuminate and acute at the apex, rounded, obtuse or acute at the base, 7–17 cm long, 4–7 cm wide. Petiole slender, 4–8 mm long. Inflorescences terminal, short, rather dense. Floral buds approximately 3 mm in diameter. Sepals very small. Fruit subglobose, approximately 2 cm in diameter, edible, purple at maturity.
 
 ## Type
 
@@ -33,13 +34,11 @@ P. de Beauvois, Warri, Nigeria
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Species long confused, particularly by Bentham, with S. guineense (Willd.) DC. until 1954. Indeed, herbarium specimens are often difficult to recognize. It is above all the habit that apparently allows this species to be distinguished from the polymorphic S. guineense.
 
-Espèce longtemps confondue, notamment par Bentham, avec S. guineense (Willd.) DC. jusqu'en 1954. En effet, les spécimens d'herbier sont souvent difficiles à reconnaître. C'est surtout le port, semble-t-il, qui permet de distinguer cette espèce du polymorphe S. guineense.
+Sierra Leone, Côte d'Ivoire, Nigeria, Congo, Northern Rhodesia, Tanganyika. Abundant in marshes.
 
-Sierra-Leone, Côté-d'Ivoire, Nigeria, Congo, Rhodésie du Nord, Tanganyika. Abondant dans les marais.
-
-Cité par Keay pour le Gabon en 1954.
+Cited by Keay for Gabon in 1954.
 
 ## Notes
 

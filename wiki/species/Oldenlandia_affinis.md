@@ -7,6 +7,10 @@ family: Rubiaceae
 vol: 12
 pages: 98-101
 source: sources/Rubiaceae_vol12_paddle
+countries: [Liberia]
+in_region: false
+habit: "herb"
+habitat: [savanna]
 tags: [species, generated]
 ---
 # *Oldenlandia affinis* (R. et S.) DC.

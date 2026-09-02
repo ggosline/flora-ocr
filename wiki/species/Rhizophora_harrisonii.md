@@ -7,6 +7,12 @@ family: Rhizophoraceae
 vol: 47
 pages: 112-113
 source: sources/Rhizophoraceae_vol47_liteparse
+countries: [Angola, Gabon, Senegal]
+in_region: true
+subdivisions:
+  Gabon: [Estuaire, Nyanga, Ogooué-Maritime]
+habit: "tree"
+habitat: [mangrove]
 tags: [species, generated]
 ---
 # *Rhizophora harrisonii* Leechm. Planche 38.1

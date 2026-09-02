@@ -7,6 +7,9 @@ family: Acanthaceae
 vol: 13
 pages: 226-228
 source: sources/Acanthaceae_vol13_paddle
+countries: [Angola, Cameroon, Central African Republic, Cote d'Ivoire, Ghana, Guinea, Liberia, Mozambique, Nigeria, Sierra Leone, Togo]
+in_region: true
+habit: "shrub"
 tags: [species, generated]
 ---
 # *Justicia extensa* T. Anders.

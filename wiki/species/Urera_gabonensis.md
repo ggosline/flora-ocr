@@ -7,6 +7,10 @@ family: Urticaceae
 vol: 51
 pages: 84-85
 source: sources/Urticaceae_vol51_liteparse
+countries: [Cameroon, Gabon]
+in_region: true
+subdivisions:
+  Gabon: [Estuaire, Moyen-Ogooué, Ngounié, Ogooué-Ivindo, Woleu-Ntem]
 tags: [species, generated]
 ---
 # *Urera gabonensis* Pierre ex Friis, sp. nov. Planche 29(1)
@@ -16,9 +20,7 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-U. cordifoliae Engl. valde affinis sed partibus iuvenissimis dense ferrugineo-pubescentibus (nec puberulis), laminis aliis obovatis, id est in dimidio superiore latioribus (nec ovatis, id est in dimidio inferiore latioribus, etiamsi laminis aliis ambabarum specierum suborbicularibus) ad basin rotundatis vel subcordatis (nec plerumque subcordatis) atque acumine laminarum plerumque breviore quam 1 cm (nec plerumque c. 1 cm) differt.
+U. cordifoliae Engl. closely allied but differing in the most juvenile parts densely ferruginous-pubescent (not puberulous), laminae in part obovate, that is broader in the upper half (not ovate, that is broader in the lower half, even if some laminae of both species suborbicular) rounded or subcordate at the base (not mostly subcordate) and with the acumen of the laminae mostly shorter than 1 cm (not mostly c. 1 cm).
 
 ## Type
 
@@ -26,23 +28,17 @@ GABON, environs de Libreville, octobre 1895, Klaine 237 (no. 6408 in Herb. L. (=
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-connu seulement du Cameroun et du Gabon ; au Gabon, assez répandu, connu de l’Estuaire, du Moyen-Ogooué, de la Ngounié, de l’Ogooué-Ivindo et du Woleu-Ntem
+known only from Cameroon and Gabon; in Gabon, fairly widespread, known from Estuaire, Moyen-Ogooué, Ngounié, Ogooué-Ivindo and Woleu-Ntem
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-lisières des forêts secondaires et forêts primaires, ainsi que des inselbergs ; au Gabon, depuis le niveau de la mer jusqu’à 850 m, chevauchant ainsi la zone altitudinale au Cameroun
+margins of secondary and primary forests, as well as inselbergs; in Gabon, from sea level to 850 m, thus overlapping the altitudinal zone in Cameroon
 
 78 Ib FRIIS
 
 ## Source note
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Le nom Urera gabonensis a été utilisé comme nomen nudum sur du matériel d’herbier du Ca meroun et du Gabon étroitement apparenté à Urera cordifolia Engl., mais différent par les caractères indiqués dans la diagnose précitée : jeunes pousses avec une pubescence ferrugineuse dense, un limbe suborbiculaire ou obovale (jusqu’à 20 × 12 cm), avec une base arrondie-émarginée, un sommet arrondi avec un acumen court triangulaire et une marge entière ou rarement crénulée dans la moitié supérieure. Letouzey (1968 : 95–98) décida de ne pas valider le nom Urera gabonensis pour ces spécimens, suggé rant qu’il serait imprudent de le faire dans un genre aussi mal connu qu’ Urera , avec peu de récoltes pour de nombreuses espèces et des inflorescences et des fleurs toujours incomplètement connues. Le présent auteur considère qu’un nom validement publié doit être disponible pour la Flore du Gabon, même si son statut taxonomique ne peut être établi avec certitude. Urera gabonensis peut représenter une espèce distincte ou une sous-espèce d’ U. cordifolia Engl. Elle semble plus commune dans la partie sud de l’aire commune des deux espèces, alors qu’ U. cordifolia semble plus commune dans la partie nord de l’aire, typiquement vers la limite nord des forêts du Cameroun. B : Letouzey (1968). i B liographie
+The name Urera gabonensis was used as a nomen nudum on herbarium material from Cameroon and Gabon closely related to Urera cordifolia Engl., but differing by the characters indicated in the aforementioned diagnosis: young shoots with dense ferruginous pubescence, a suborbicular or obovate lamina (up to 20 × 12 cm), with a rounded-emarginate base, a rounded apex with a short triangular acumen and an entire or rarely crenulate margin in the upper half. Letouzey (1968: 95–98) decided not to validate the name Urera gabonensis for these specimens, suggesting that it would be imprudent to do so in a genus as poorly known as Urera, with few collections for many species and inflorescences and flowers always incompletely known. The present author considers that a validly published name must be available for the Flora of Gabon, even if its taxonomic status cannot be established with certainty. Urera gabonensis may represent a distinct species or a subspecies of U. cordifolia Engl. It seems more common in the southern part of the common range of the two species, whereas U. cordifolia seems more common in the northern part of the range, typically towards the northern limit of the forests of Cameroon. B: Letouzey (1968). Bibliography
 
 ## Notes
 

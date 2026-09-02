@@ -5,18 +5,15 @@ authority: L.
 genus: Ceratophyllum
 family: Ceratophyllaceae
 synonyms: []
-countries: [Cameroon]
 range_note: Cosmopolitan and known throughout Africa; expected but not yet recorded in Gabon.
-countries_incomplete: true
-in_region: true
-habit: submerged aquatic herb
-habitat: [freshwater lakes, rivers, streams, marshes, seasonal alkaline pools]
-altitude_m: "3–1500"
 treatments:
   - vol: 52
     year: 2018
     pages: "12–13"
     source: sources/Ceratophyllaceae_vol52_liteparse
+countries: [Cameroon, Gabon]
+in_region: true
+habit: "herb"
 tags: [species]
 ---
 

@@ -7,6 +7,9 @@ family: Sapindaceae
 vol: 23
 pages: 175-176
 source: sources/Sapindaceae_vol23_paddle
+countries: [Cameroon, Cote d'Ivoire, Gabon, Liberia, Nigeria, Sierra Leone]
+in_region: true
+habit: "tree"
 tags: [species, generated]
 ---
 # *Eriocelum racemosum* Baker

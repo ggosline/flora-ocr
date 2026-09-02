@@ -7,6 +7,13 @@ family: Ochnaceae
 vol: 48
 pages: 62-63
 source: sources/Ochnaceae_vol48_liteparse
+countries: [Gabon]
+in_region: true
+subdivisions:
+  Gabon: [Estuaire, Ogooué-Maritime]
+habit: "shrub"
+habitat: [secondary forest]
+altitude_m: "5–30"
 tags: [species, generated]
 ---
 # *Campylospermum occidentale* Biss.

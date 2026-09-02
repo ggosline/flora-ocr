@@ -7,6 +7,12 @@ family: Cyperaceae
 vol: 44
 pages: 114-115
 source: sources/Cyperaceae_vol44_liteparse
+countries: [Democratic Republic of the Congo, Gabon, Nigeria]
+in_region: true
+subdivisions:
+  Gabon: [Estuaire, Ngounié, Ogooué-Ivindo, Ogooué-Lolo]
+habit: "herb"
+habitat: [rocky ground]
 tags: [species, generated]
 ---
 # *Cyperus cataractarum* (C.B.Clarke) Kük. Figure 8b

@@ -7,6 +7,11 @@ family: Ochnaceae
 vol: 48
 pages: 63-65
 source: sources/Ochnaceae_vol48_liteparse
+countries: [Angola, Cameroon, Central African Republic, Democratic Republic of the Congo, Equatorial Guinea, Gabon, Republic of the Congo, Sao Tome and Principe, Zambia]
+in_region: true
+habit: "tree"
+habitat: [mangrove, swamp forest, secondary forest]
+altitude_m: "550"
 tags: [species, generated]
 ---
 # *Campylospermum strictum* (Tiegh.) Farron, Bull. Jard. Bot. État Bruxelles 35 : 402

@@ -7,6 +7,12 @@ family: Dracaenaceae
 vol: 54
 pages: 45-47
 source: sources/Dracaenaceae_vol54_liteparse
+countries: [Angola, Cameroon, Central African Republic, Democratic Republic of the Congo, Equatorial Guinea, Gabon, Republic of the Congo]
+in_region: true
+subdivisions:
+  Gabon: [Estuaire, Haut-Ogooué, Ngounié, Nyanga, Ogooué-Ivindo, Ogooué-Lolo, Ogooué-Maritime]
+habit: "tree"
+altitude_m: "0–800"
 tags: [species, generated]
 ---
 # *Dracaena nitens* Welw. ex Baker Figure 4(A)

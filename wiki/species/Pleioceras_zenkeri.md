@@ -7,6 +7,7 @@ family: Apocynaceae
 vol: 59
 pages: 202-205
 source: sources/Apocynaceae_vol59_liteparse
+habit: "liana"
 tags: [species, generated]
 ---
 # *Pleioceras zenkeri* Stapf Planche 95

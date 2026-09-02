@@ -7,6 +7,9 @@ family: Rubiaceae
 vol: 17
 pages: 246-248
 source: sources/Rubiaceae_vol17_paddle
+countries: [Angola, Cameroon, Equatorial Guinea, Gabon, Nigeria]
+in_region: true
+habit: "tree"
 tags: [species, generated]
 ---
 # *Rothmannia lujae* (De Wild.) Keay

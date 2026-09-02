@@ -7,6 +7,7 @@ family: Melastomataceae
 vol: 25
 pages: 152-154
 source: sources/Melastomataceae_vol25_paddle
+habit: "tree"
 tags: [species, generated]
 ---
 # *Warneckea macrantha* Jacques-Félix
@@ -17,15 +18,11 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Tree 10-15 m tall; branches robust, rounded. Leaves smooth (no sclerites), subsessile; petiole 1-3 mm; blade broadly ovate to subcircular up to 9 × 14 cm, cordate at the base, obtuse at the apex; veins prominent beneath, the main convergent ones only and weakly coarctate toward the apex, two additional pairs distinctly finer, coarctate with the 4-7 main transverse veins; network dense, prominent on both surfaces, especially beneath.
 
-Arbre de 10-15 m; rameaux robustes, arrondis. Feuilles lisses (pas de sclérites), subsessiles; pétiole de 1-3 mm; limbe largement ovale à subcirculaire jusqu'à  $ 9 \times 14 $ cm, cordé à la base, obtus au sommet; nervures saillantes dessous, les convergentes principales seulement et faiblement coarquées vers le sommet, deux paires additionnelles nettement plus fines,
+Loose cymes, solitary or fasciculate on leafy and leafless nodes, up to 3 cm in total length; stipes slender, compressed, not laterally branched, but often with a small axial internode and bearing 3-7 long-pedicelled flowers; bracts triangular, 2 mm long, tardily caducous. Flower with pedicel 8-12 mm; flower bud 7 mm high, with semi-ovoid corolla; hypantho-calyx campanulate, 6 × 4 mm; calyx lobes incised to the hypanthium, imbricate, approximately 3 × 1.5 mm, the outer ones rounded and somewhat shorter than the inner ones which are triangular obtuse. Petals fleshy, plicate on the inner surface, somewhat navicular, 3 × 6 mm, lanceo-triangular, broad claw. Anthers with convex thecae, 1.5 mm long; connective 1.8 mm long, deeply saddle-shaped, almost reniform from the elongate gland; filament 4 mm. Epigynous chamber shallow, channelled, thickened on the crown of the staminal and petalary whorls; style 7 mm long. Ovary with thick wall, 2-locular, 12-ovulate.
 
-coarquées avec les 4-7 nervures transversales principales; réseau dense, saillant sur les 2 faces, surtout en dessous.
-
-Cymes lâches, solitaires ou fasciculées sur les nœuds feuillés et défeuillés, jusqu'à 3 cm de longueur totale; stipes grêles, comprimés, non ramiés latéralement, mais souvent avec un petit entrenœud axial et portant 3-7 fleurs longuement pédicellées; bractées triangulaires, longues de 2 mm, tardivement caduques. Fleur à pédicelle de 8-12 mm; bouton floral haut de 7 mm, à corolle semi-ovoïde; hypantho-calice campanulé, 6 × 4 mm; lobes du calice incisés jusqu'à l'hypanthe, imbriqués, environ 3 × 1,5 mm, les externes arrondis et un peu plus courts que les internes qui sont triangulaires obtus. Pétales charnus, plissés sur la face interne, un peu naviculaires, de 3 × 6 mm, lancées triangulaires, onglet large. Anthères à thèques convexes, longues de 1,5 mm; connectif long de 1,8 mm, profondément ensellé, presque réniforme par la glande allongée; filet de 4 mm. Chambre épigyne peu profonde, cannelée, épaissie sur la couronne des verticilles staminaux et pétalaires; style long de 7 mm. Ovaire à paroi épaisse, 2-loculaire, 12-ovulé.
-
-Fruit ovo-globuleux, 9 × 8 mm, plus la couronne des lobes du calice. — Pl. 55, p. 153.
+Fruit ovo-globose, 9 × 8 mm, plus the crown of the calyx lobes. — Pl. 55, p. 153.
 
 ## Type
 
@@ -33,11 +30,9 @@ Le Testu 2244, Gabon (P)
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+This species approaches W. pulcherrima. It differs from it by its larger flowers and the different form of the leaves.
 
-Cette espèce se rapproche de W. pulcherrima. Elle s'en distingue par ses fleurs plus grandes et la forme différente des feuilles.
-
-USAGE : fruits servant d'appât pour la pêche (Walker 10).
+USE: fruits serving as bait for fishing (Walker 10).
 
 ## Specimens examined
 
@@ -47,11 +42,11 @@ Le Testu 2244, Sindara, sur la Ngounié (nov.); 5804, Boungounga, forêt inondab
 
 ![Warneckea macrantha](../sources/Melastomataceae_vol25_paddle/figures/fig_054_p0153.png)
 
-*PL. 54. — Warneckea pulcherrima (Gilg) Jacq.-Fél. : 1 & 2, nœuds, feuillé et florifère × 2/3; 3, bouton floral × 3; 4, pétale × 6; 5, chambre épigyne × 6; 6, étamine × 10; 7, coupe de la fleur × 6; 8, fruit × 2 (Le Testu 9563).*
+*PL. 54. — Warneckea pulcherrima (Gilg) Jacq.-Fél. : 1 & 2, nodes, leafy and flowering × 2/3; 3, floral bud × 3; 4, petal × 6; 5, epigyn chamber × 6; 6, stamen × 10; 7, section of the flower × 6; 8, fruit × 2 (Le Testu 9563).*
 
 ![Warneckea macrantha](../sources/Melastomataceae_vol25_paddle/figures/fig_055_p0155.png)
 
-*PL. 55. — Warneckea macrantha Jacq.-Fél. : 1 & 2, rameau feuillé et cymes sur rameau âgé × 2/3; 3, bouton floral × 6; 4, coupe de la fleur × 6; 5, étamine × 12; 6, pétale × 6; 7, fruit × 3 (Le Testu 2244). (Repris d'Adansonia, sér. 2, 19 (3) : tab. 5, 1980).*
+*PL. 55. — Warneckea macrantha Jacq.-Fél. : 1 & 2, leafy branch and cymes on old branch × 2/3; 3, floral bud × 6; 4, section of the flower × 6; 5, stamen × 12; 6, petal × 6; 7, fruit × 3 (Le Testu 2244). (Taken from Adansonia, ser. 2, 19 (3) : tab. 5, 1980).*
 
 ## Notes
 

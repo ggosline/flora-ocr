@@ -7,6 +7,9 @@ family: Celastraceae
 vol: 29
 pages: 177-178
 source: sources/Celastraceae_vol29_paddle
+countries: [Democratic Republic of the Congo, Gabon]
+in_region: true
+habit: "liana"
 tags: [species, generated]
 ---
 # *Salacia klainei* Pierre ex Wilczek

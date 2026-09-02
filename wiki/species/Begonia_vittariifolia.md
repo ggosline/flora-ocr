@@ -7,6 +7,9 @@ family: Begoniaceae
 vol: 39
 pages: 68-68
 source: sources/Begoniaceae_vol39_liteparse
+countries: [Gabon]
+in_region: true
+habitat: [primary forest, rocky ground]
 tags: [species, generated]
 ---
 # *Begonia vittariifolia* N.Hallé Planche 32

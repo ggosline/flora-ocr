@@ -5,17 +5,15 @@ authority: Miers
 genus: Syrrheonema
 family: Menispermaceae
 synonyms: []
-habit: liana
-habitat: [secondary forest]
-altitude_m: "up to 300 (Gabon); up to 500 elsewhere"
-countries: [Cameroon, Democratic Republic of the Congo, Equatorial Guinea, Gabon]
-subdivisions:
-  Gabon: [Estuaire, Ogooué-Ivindo]
-in_region: true
 treatments:
   - vol: 60
     pages: "74"
     source: sources/Menispermaceae_vol60_liteparse
+countries: [Cameroon, Equatorial Guinea, Gabon]
+in_region: true
+subdivisions:
+  Gabon: [Estuaire, Ogooué-Ivindo]
+habit: "liana"
 tags: [species, ethnobotany]
 ---
 

@@ -7,6 +7,12 @@ family: Scrophulariaceae
 vol: 48
 pages: 119-119
 source: sources/Scrophulariaceae_vol48_liteparse
+countries: [Gabon, Mozambique, Senegal, Uganda]
+in_region: true
+subdivisions:
+  Gabon: [Nyanga]
+habit: "herb"
+altitude_m: "1250"
 tags: [species, generated]
 ---
 # *Limnophila indica* (L.) Druce Planche 36

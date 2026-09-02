@@ -7,6 +7,13 @@ family: Leguminosae
 vol: 49
 pages: 227-229
 source: sources/Millettiaspeciesfabaceae_vol49_liteparse
+countries: [Angola, Gabon]
+in_region: true
+subdivisions:
+  Gabon: [Ogooué-Maritime]
+habit: "shrub"
+habitat: [secondary forest]
+altitude_m: "500"
 tags: [species, generated]
 ---
 # *Leptoderris brachyptera* (Benth.) Dunn Planche 74

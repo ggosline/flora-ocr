@@ -7,6 +7,7 @@ family: Rubiaceae
 vol: 12
 pages: 196-197
 source: sources/Rubiaceae_vol12_paddle
+habit: "liana"
 tags: [species, generated]
 ---
 # *Sabicea mollis* K. Schum. ex Wernh.

@@ -219,15 +219,15 @@ van Bergen 473, 26.03.1996, 2°47'S-10°01'E, Gamba, terminal area. Louis 1611, 
 
 ![Ottochloa dandy](../sources/Gramineae_vol5bis_paddle/figures/fig_012_p0048.png)
 
-*Pl. 12. - Panicum nervatum (Franch.) Stapf : 1, aspect de la plante ; 2, épillet ; 3, lemma supérieure. - Panicum phragmitoides Stapf : 4, épilletes ; 5, lemma supérieure. - Panicum degreanum Nees : 6, épilletes ; 7, lemma supérieure. - Autorisation de reproduction : cf. Remerciements p. 68.*
+*Pl. 12. - Panicum nervatum (Franch.) Stapf : 1, aspect of the plant ; 2, spikelet ; 3, upper lemma. - Panicum phragmitoides Stapf : 4, spikelets ; 5, upper lemma. - Panicum degreanum Nees : 6, spikelets ; 7, upper lemma. - Reproduction authorization: cf. Acknowledgments p. 68.*
 
 ![Ottochloa dandy](../sources/Gramineae_vol5bis_paddle/figures/fig_013_p0050.png)
 
-*Pl. 13. - Paspalum conjugatum Berg. : 1, aspect de la plante ; 2, partie du racème. - Paspalum scrobiculatum L. : 3, aspect de la plante ; 4, partie du racème ; 5, épillet. - Autorisation de reproduction : cf. Remerciements p. 68.*
+*Pl. 13. - Paspalum conjugatum Berg. : 1, aspect of the plant ; 2, part of the raceme. - Paspalum scrobiculatum L. : 3, aspect of the plant ; 4, part of the raceme ; 5, spikelet. - Reproduction authorization: cf. Acknowledgments p. 68.*
 
 ![Ottochloa dandy](../sources/Gramineae_vol5bis_paddle/figures/fig_014_p0052.png)
 
-*Pl. 14. - Pennisetum unisetum (Nees) Benth.: 1, aspect de la plante ; 2, glomérule ; 3, 4, épillet. - Pennisetum purpureum K. Schum.: 5, aspect de la plante ; 6, partie du rachis ; 7, glomérule. - Autorisation de reproduction : cf. Remerciements p. 68.*
+*Pl. 14. - Pennisetum unisetum (Nees) Benth.: 1, aspect of the plant ; 2, glomule ; 3, 4, spikelet. - Pennisetum purpureum K. Schum.: 5, aspect of the plant ; 6, part of the rachis ; 7, glomule. - Reproduction authorization: cf. Acknowledgments p. 68.*
 
 ## Notes
 

@@ -7,6 +7,7 @@ family: Sapotaceae
 vol: 01
 pages: 50-55
 source: sources/Sapotaceae_vol01_paddle
+habit: "tree"
 tags: [species, generated]
 ---
 # *Tiegemella africana* Pierre.
@@ -22,31 +23,29 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Very large tree. Leaves grouped at the apex of the branches, exstipulate. Branches glabrous. Terminal buds glutinous. Lamina obovate, rounded at the apex or obtusely acuminate, with cuneiform base briefly decurrent on the petiole, 8–16 cm long, 4–7 cm wide, glabrous. Midvein prominent beneath; 16–18 pairs of secondary veins inconspicuous. Petiole slender, 1.5 to 3.5 cm.
 
-Très grand arbre. Feuilles groupées à l'extrémité des rameaux, non stipulées. Rameaux glabres. Bourgeons terminaux glutineux. Limbe obové, arrondi au sommet ou obtusément acuminé, à base cunéiforme brièvement décurrente sur le pétiole, de 8-16 cm long, de 4-7 cm large, glabre. Nervure médiane saillante dessous; 16-18 paires de nervures secondaires effacées. Pétiole grêle, de 1,5 à 3,5 cm.
+White flowers pedicellate, fascicled 2–3 at the apex of the branches. Sepals ovate, ca. 6 mm long; outer sepals glabrous externally except on the margins, inner sepals tomentose on the external face; all are tomentose internally. Corolla glabrous, 5.5 mm long; tube short 1.5 mm; lobes oblong 4 mm. These lobes are in reality formed of an atrophied filiform petal and two dorsal linear oblong appendages fused to each other for half their length, the filiform petal itself being fused to its dorsal appendages at the level of their fusion. At the apex of the tube are inserted 8 stamens with short filaments (1–1.5 mm long), alternating with staminodes with margins folded inward, longer than the stamens.
 
-Fleurs blanches pédicellées, fasciculées par 2-3 à l'extrémité des rameaux. Sépales ovés, env. 6 mm long; sépales extérieurs glabres extérieurement sauf sur les bords, sépales intérieurs tomenteux sur la face externe; tous sont tomenteux intérieurement. Corolle glabre, longue de 5,5 mm; tube court 1,5 mm; lobes oblongs 4 mm. Ces lobes sont formés en réalité d'un pétale atrophié filiforme et de deux appendices dorsaux linéaires oblongs soudés entre eux sur la moitié de leur longueur, le pétale filiforme étant lui-même soudé sur ses appendices dorsaux au niveau de la soudure de ceux-ci. Au bout du tube sont insérées 8 étamines à courts filets (1-1,5 mm long), alternant avec des staminodes à bords repliés vers l'intérieur, plus longs que les étamines.
+Ovary tomentose, gradually prolonged into a short style. Locules 8, uniovulate.
 
-Ovaire tomenteux, prolongé insensiblement par un court style. Loges 8, uniovulées.
+Large obovoid fruits with shiny yellow-brown surface, ca. 8 cm high and 7 cm in diameter, sometimes larger, borne by thick pedicels, ca. 1.8 cm long. They contain in an egg-yellow pulp 1 to 3 seeds.
 
-Gros fruits ovoïdes à surface luisante brun jaune, env. 8 cm haut et 7 cm de diamètre, parfois plus gros, portés par des pédon-cules épais, longs de 1,8 cm environ. Ils renferment dans une pulpe jaune d'œuf de 1 à 3 graines.
+Large obovoid elongate seeds, flattened laterally, with convex keel, 5–7 × 2.5–3.5 cm, on 2–2.5 cm thick. Scar occupying almost the entire ventral face; 4–4.5 cm long by 2 cm wide, convex in profile; hilum subquadrangular, ca. 1 cm per side. Seed testa very hard and thick; ca. 3 mm thick. Two thick cotyledons.
 
-Grosses graines ovoïdes allongées, aplaties latéralement, à carène bombée, de  $ 5-7 \times 2,5-3,5 $ cm, sur  $ 2-2,5 $ cm d'épaisseur. Cicatrice occupant presque toute la face ventrale;  $ 4-4,5 $ cm long sur  $ 2 $ cm large, bombée de profil; hile subquadrangulaire, env.  $ 1 $ cm de côté. Testa de la graine très dur et épais; env.  $ 3 $ mm d'épaisseur. Deux épais cotylédons.
+Type of the species: no. 3604 Aubry Le Comte. Seeds given to the Museum of Paris in 1853, which served Pierre to establish his diagnosis.
 
-Type de l'espèce : n° 3604 Aubry Le Comte. Graines données au Muséum de Paris en 1853, ayant servi à Pierre pour établir sa diagnose.
+T. africana, or douka, the commercial name under which it is known, is a very large tree, one of the tallest emergents of the Gabonese primary forest. The bole below branch can reach 20 to 30 m long, and the diameter 1.5 m and more. The bole is perfectly straight and cylindrical, buttressed at the base but without true buttresses. The bark is longitudinally fissured; pinkish-violet on the cross-section, 1 to 1.5 cm thick; it exudes a little whitish latex.
 
-Le T. africana, ou douka, nom commercial sous lequel il est connu, est un très grand arbre, un des plus grands émergents de la forêt primaire gabonaise. Le fût sous branche peut atteindre 20 à 30 m de long, et le diamètre 1,5 m et plus. Le fût est parfaitement droit et cylindrique, empatté à la base mais sans contreforts. L'écorce est crevassée longitudinalement; de tranche rose violacé, épaisse de 1 à 1,5 cm; elle exsude un peu de latex blanchâtre.
+Flowering takes place in December–January. The fruits are ripe also in December. From the seed an edible fat can be extracted.
 
-La floraison a lieu en décembre-janvier. Les fruits sont mûrs également en décembre. De la graine on peut extraire une graisse comestible.
+The wood is hard, fairly heavy, pink-brown or dark reddish-brown in colour. It is an excellent wood for multiple uses, especially for veneers, cabinet-making and fine joinery. It is today well known and highly appreciated on European timber markets. It is used like its neighbour from Côte d'Ivoire, the makore. These two woods are immediately separated by origin; one is from Côte d'Ivoire, the other from Gabon and a little from Cameroon; but users confuse them easily and rather call douka the woods of this type that are denser, darker, and less figured. Regarding the characteristics of the wood, see the Douka sheet published by the Tropical Forestry Technical Centre.
 
-Le bois est dur, assez lourd, de couleur brun rose ou brun rouge âtre assez sombre. C'est un excellent bois à usages multiples, surtout pour placages, ébénisterie et belle menuiserie. Il est aujourd'hui bien connu et très apprécié sur les marchés européens des bois. Il est utilisé comme son voisin de la Côte d'Ivoire, le makoré. Ces deux bois se séparent immédiatement par la provenance; l'un est de Côte d'Ivoire, l'autre du Gabon et un peu du Cameroun; mais les utilisateurs les confondent facilement et appellent plutôt douka les bois de ce type plus denses, plus foncés, et moins figurés. Au sujet des caractères du bois, voir la fiche Douka publiée par le Centre Technique Forestier Tropical.
+Gabonese vernacular names: ndouka (bayaka), noungou (Fernan Vaz), anoungou (nkomi), onkolla (fang).
 
-Noms vernaculaires gabonais : ndouka (bayaka), noungou (Fernan Vaz), anoungou (nkomi), onkolla (fang).
+Recognized stations for: Tieghemella africana - Douka ✦ Letestua durissima - Kongofane ⚠ Lecomtedoxa Klaineana - Okalangouma ◉ Lecomtedoxa Nogo - Nogo ●
 
-Stations reconnues de : Tieghemella africana - Douka ✦ Letestua durissima - Kongofane ⚠ Lecomtedoxa Klaineana - Okalangouma ◉ Lecomtedoxa Nogo - Nogo ●
-
-FLORE DU GABON
+FLORA OF GABON
 
 ## Vernacular names
 
@@ -68,7 +67,7 @@ Aubréville : 122, km 18, Libreville (fr. déc.).
 
 ![Tiegemella africana](../sources/Sapotaceae_vol01_paddle/figures/fig_008_p0051.png)
 
-*PL. V. — Tieghemella africana Pierre : 1, rameau florifère; 2, fleur × 4; 3, corolle × 4; 4, fragment de corolle × 6; 5, pistil × 6; 6, graine de face × 2/3; 7, graine, de profil × 2/3; 8, coupe longitudinale × 2/3; 9, coupe transversale × 2/3.*
+*PL. V. — Tieghemella africana Pierre : 1, flowering branch; 2, flower × 4; 3, corolla × 4; 4, fragment of corolla × 6; 5, pistil × 6; 6, seed front view × 2/3; 7, seed, side view × 2/3; 8, longitudinal section × 2/3; 9, transverse section × 2/3.*
 
 ![Tiegemella africana](../sources/Sapotaceae_vol01_paddle/figures/fig_009_p0053.png)
 

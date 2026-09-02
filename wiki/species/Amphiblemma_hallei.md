@@ -39,11 +39,11 @@ Hallé N. 2261, 2416, Abanga chantier, sur pentes rocheuses en forêt, arbuste p
 
 ![Amphibemma hallei](../sources/Melastomataceae_vol25_paddle/figures/fig_032_p0091.png)
 
-*PL. 32. — Amphiblemma cuneatum Jacq.-Fél. : 1, aspect général × 2/3; 2, détails feuilles et rameaux × 2; 3, étamine externe × 8; 4, capsule × 4 (Hallé N. & Villiers J.-F. 4710). (Repris d'Adansonia, sér. 2, 13 (4) : tab. 10, 1973).*
+*PL. 32. — Amphiblemma cuneatum Jacq.-Fél. : 1, general aspect × 2/3; 2, leaf and branch details × 2; 3, external stamen × 8; 4, capsule × 4 (Hallé N. & Villiers J.-F. 4710). (Reprinted from Adansonia, sér. 2, 13 (4) : tab. 10, 1973).*
 
 ![Amphibemma hallei](../sources/Melastomataceae_vol25_paddle/figures/fig_033_p0093.png)
 
-*PL. 33. — Amphibemma hallei Jacq.-Fél. : 1 & 2, aspect général × 2/3; 3, bouton floral × 3; 4, pétale × 4; 5, hypanthe et calice en coupe partielle × 4; 6, étamine de chacun des verticilles × 4; 7 & 8, jeune fruit, entier et coupé × 4; 9, capsule × 4; 10, détail d'un segment de la couronne montrant une soie centripète × 4; 11, graine × 20 (Hallé N. 2261). (Repris d'Adansonia, sér. 2, 13 (4) : tab. 11, 1973).*
+*PL. 33. — Amphibemma hallei Jacq.-Fél. : 1 & 2, general aspect × 2/3; 3, flower bud × 3; 4, petal × 4; 5, hypanthium and calyx in partial section × 4; 6, stamen from each of the whorls × 4; 7 & 8, young fruit, whole and sectioned × 4; 9, capsule × 4; 10, detail of a segment of the crown showing a centripetal bristle × 4; 11, seed × 20 (Hallé N. 2261). (Reprinted from Adansonia, sér. 2, 13 (4) : tab. 11, 1973).*
 
 ## Notes
 

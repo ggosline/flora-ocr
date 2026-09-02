@@ -5,10 +5,10 @@ authority: Ker Gawl.
 genus: Costus
 family: Zingiberaceae
 family_current: Costaceae
-countries: [Sierra Leone, Cameroon, Gabon]
-in_region: true
-habit: robust rhizomatous herb
 treatments: [{vol: 9, pages: "72", source: sources/Zingiberaceae_vol9_paddle}]
+countries: [Cameroon, Gabon, Sierra Leone]
+in_region: true
+habit: "herb"
 tags: [species]
 ---
 # *Costus maculatus* Ker Gawl.

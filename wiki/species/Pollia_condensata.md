@@ -7,6 +7,13 @@ family: Commelinaceae
 vol: 55
 pages: 81-84
 source: sources/Commelinaceae_vol55_liteparse
+countries: [Angola, Benin, Cameroon, Central African Republic, Cote d'Ivoire, Democratic Republic of the Congo, Equatorial Guinea, Gabon, Ghana, Kenya, Liberia, Mozambique, Nigeria, Sao Tome and Principe, Sierra Leone, Sudan, Tanzania, Togo, Uganda]
+in_region: true
+subdivisions:
+  Gabon: [Estuaire, Haut-Ogooué, Ngounié, Nyanga, Ogooué-Ivindo, Ogooué-Lolo, Ogooué-Maritime, Woleu-Ntem]
+habit: "herb"
+habitat: [secondary forest]
+altitude_m: "900"
 tags: [species, generated]
 ---
 # *Pollia condensata* C.B.Clarke Planche 25, Figure 6(A, B)

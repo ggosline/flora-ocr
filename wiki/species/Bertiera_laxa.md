@@ -7,6 +7,9 @@ family: Rubiaceae
 vol: 17
 pages: 46-48
 source: sources/Rubiaceae_vol17_paddle
+countries: [Cameroon, Equatorial Guinea, Gabon, Nigeria]
+in_region: true
+habit: "shrub"
 tags: [species, generated]
 ---
 # *Bertiera laxa* Bentham

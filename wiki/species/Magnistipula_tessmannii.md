@@ -7,6 +7,10 @@ family: Scytopetalaceae
 vol: 24
 pages: 90-95
 source: sources/Chrysobalanaceae_vol24_paddle
+countries: [Angola, Cameroon, Democratic Republic of the Congo, Equatorial Guinea, Gabon, Nigeria]
+in_region: true
+habit: "tree"
+habitat: [evergreen forest]
 tags: [species, generated]
 ---
 # *Magnistipula tessmannii* (Engler) Prance
@@ -59,7 +63,7 @@ Le Testu 1333 (type de Parinari ingangense), 1746 (paratype), Inganga, 20 km E T
 
 ![Magnistipula tessmannii](../sources/Chrysobalanaceae_vol24_paddle/figures/fig_027_p0093.png)
 
-*PL. 27. — Magnistipula tessmannii (Engl.) Prance : 1, rameau avec fleurs × 2/3; 2, glandes pétiolaires × 2; 3, glandes foliaires × 3/2; 4, bouton floral × 2; 5, fleur × 3; 6, pétale × 4; 7, fleur ouverte × 4; 8, fruit × 2/3; 9, coupe transv. du fruit × 2/3. (1, Le Testu 9086; 2-3, Letouzey 9323; 4-7, Le Testu 8790; 8-9, Letouzey 10860).*
+*PL. 27. — Magnistipula tessmannii (Engl.) Prance : 1, branch with flowers × 2/3; 2, petiolar glands × 2; 3, foliar glands × 3/2; 4, floral bud × 2; 5, flower × 3; 6, petal × 4; 7, open flower × 4; 8, fruit × 2/3; 9, transverse section of fruit × 2/3. (1, Le Testu 9086; 2-3, Letouzey 9323; 4-7, Le Testu 8790; 8-9, Letouzey 10860).*
 
 ## Notes
 

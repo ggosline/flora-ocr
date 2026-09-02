@@ -5,11 +5,10 @@ authority: (Pierre) Lam
 genus: Dacryodes
 family: Burseraceae
 synonyms: []
-countries: [Gabon]
-countries_incomplete: true
-in_region: true
-habit: tree
 treatments: [{vol: 3, pages: "81–82", source: sources/Burseraceae_vol3_paddle}]
+countries: [Gabon]
+in_region: true
+habit: "tree"
 tags: [species]
 ---
 

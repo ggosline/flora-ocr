@@ -4,12 +4,12 @@ name: Pandanus parvicentralis
 authority: Huynh
 genus: Pandanus
 family: Pandanaceae
-countries: [Gabon]
-in_region: true
 treatments:
   - vol: 28
     pages: "10–12"
     source: sources/Pandanaceae_vol28_paddle
+countries: [Gabon]
+in_region: true
 tags: [species]
 ---
 

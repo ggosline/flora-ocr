@@ -7,6 +7,13 @@ family: Commelinaceae
 vol: 55
 pages: 68-70
 source: sources/Commelinaceae_vol55_liteparse
+countries: [Gabon]
+in_region: true
+subdivisions:
+  Gabon: [Estuaire]
+habit: "herb"
+habitat: [coastal]
+altitude_m: "20"
 tags: [species, generated]
 ---
 # *Palisota leewhitei* Burg, O.Lachenaud & E.Bidault Planche 20, Figure 4(I, J)

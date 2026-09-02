@@ -7,6 +7,7 @@ family: Myristicaceae
 vol: 10
 pages: 101-105
 source: sources/Myristicaceae_vol10_paddle
+habit: "tree"
 tags: [species, generated]
 ---
 # *Staudtia gabonensis* Warb.
@@ -22,25 +23,19 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 — Warburg, Engl. Jahrb. 33 : 385 (1904).
 
-Arbre de 30-35 m à cime étagée avec branches perpendiculaires au tronc; fût subcylindrique, droit ou un peu sinueux, faiblement cannelé à la base, atteignant 75 cm de diamètre à 2 m du sol; rhytidome clair desquamant par petites plaques comme les platanes; écorce de 5-7 mm d'épaisseur, rose en coupe; l'exsudat rouge sang se coagule. Rameaux de 2-3 mm d'épaisseur à l'extrémité, glabres, cendrés, lisses. Feuilles subcoriaces à pétiole de
+Tree of 30–35 m with tiered crown and branches perpendicular to the trunk; bole subcylindric, straight or slightly sinuous, weakly fluted at the base, reaching 75 cm in diameter at 2 m from the ground; rhytidome pale, desquamating in small plates like plane trees; bark 5–7 mm thick, pink in section; the blood-red exudate coagulates. Twigs 2–3 mm thick at the apex, glabrous, ash-grey, smooth. Leaves subcoriaceous with petiole 5–10 mm long by 1–1.5 mm wide, channelled above; lamina ovate-elliptic 8–16 cm long by 2–5 cm wide, with ± obtuse base and subacuminate apex with 5–10 pairs of secondary nerves scarcely distinct. Male inflorescences in spherules 5–7 mm in diameter, shortly stipitate (2 mm), comprising 20–30 flowers 2 mm long, with trilobed perianth, densely ferruginous pubérulent on the outside; 3 anthers 0.4 mm long on a column of 0.4 mm; female inflorescences grouping 30–40 flowers 1–1.5 mm long, pubérulent like the male flowers, with a tomentose ovary. Fruits ellipsoid, at first ferruginous tomentellous, then glabrous and shining, yellow, with the sutures of the valves prominent. Pericarp 5 mm thick, bright red inside. Seeds 15–25 mm by 10–13 mm with carmine-red aril, slightly incised at the apex. Albumen ruminate.
 
-5-10 mm de long sur 1-1,5 mm de large, canaliculé dessus; limbe ovale-elliptique de 8-16 cm de long sur 2-5 cm de large, à base ± obtuse et sommet subacuminé avec 5-10 paires de nervures secondaires à peine distinctes. Inflorescences mâles en sphéules de 5-7 mm de diamètre brièvement stipités (2 mm) comptant 20-30 fleurs de 2 mm de long, à périanthe trilobé, densément pubérulent ferrugineux à l'extérieur; 3 anthères de 0,4 mm de long sur une colonne de 0,4 mm; inflorescences femelles groupant 30-40 fleurs de 1-1,5 mm de long, pubérulentes comme les fleurs mâles, avec un ovaire tomenteux. Fruits ellipsoïdes, d'abord tomentelleux ferrugineux, puis glabres et luisants, jaunes, avec les sutures des valves en relief. Péricarpe de 5 mm d'épaisseur, rouge vif à l'intérieur. Graines de 15-25 mm sur 10-13 mm avec arille rouge carmin, légèrement découpé au sommet. Albumen ruminé.
+Type of St. gabonensis Warb.: Klaine, May 1899 (unnumbered ex herb. Marseille), Libreville.
 
-Type de St. gabonensis Warb.: Klaine, mai 1899 (sans numéro ex herb. Marseille), Libreville.
+Types of St. stipitata Warb.: Staudt 484 and 751; Rudatis 16 (B) Cameroon.
 
-Types de St. stipitata Warb.: Staudt 484 et 751; Rudatis 16 (B) Cameroun.
+The geographic range of this plant extends over Cameroon, Gabon, and the former Belgian Congo. According to Gilbert and Troupin it is a species of primary forests on well-drained soil and gallery forests.
 
-L'aire géographique de cette plante s'étend sur le Cameroun, le Gabon, le Congo ex-belge. D'après Gilbert et Troupin c'est une espèce des forêts primitives de terre ferme et des forêts-galeries.
+In the herbarium, two vernacular names have been recorded: Mboune by Gauchotte at the Ikoy station and Monghoubi by Le Testu (Bayaka). Here are the names cited by Walker and Sillans: Nyowé (Mpongwé, Nkomi, Orungu); Ogéwéli, Ogowéni (Galoa); Mbôn, Mbôna (Fang); Mugubi (Eshira, Bavungu, Bapunu, Banzabi, Mazangu, Ngowé); Mugubi, Todu (Bavarama, Balumbu); Muguvi (Bavili); Nkubi (Loango); Ogobé (Apindji, Ivéa, Mitsogo, Simba); Ngobyé (Bakélé); Ungubu, Ngakombo (Béséki); Ongubi, Olangi, Mulangu (Mindumu); Mulanga (Baduma); Olanga (Bavové); Bohé (Benga); and Mbasisa (Bakota).
 
-Dans l'herbier, deux noms vernaculaires ont été relevés : Mboune par Gauchotte à la station Ikoy et Monghoubi par Le Testu (Bayaka). Voici les noms cités par Walker et Sillans : Nyowé (Mpongwé, Nkomi, Orungu); Ogéwéli, Ogowéni (Galoa); Mbôn, Mbôna (Fang); Mugubi (Eshira, Bavungu, Bapunu, Banzabi, Mazangu, Ngowé); Mugubi, Todu (Bavarama, Balumbu); Muguvi (Bavili); Nkubi (Loango); Ogobé (Apindji, Ivéa, Mitsogo, Simba); Ngobyé (Bakélé); Ungubu, Ngakombo (Béséki); Ongubi, Olangi, Mulangu (Mindumu); Mulanga (Baduma); Olanga (Bavové); Bohé (Benga) et Mbasisa (Bakota).
-
-L'arbre fournit un bois très dur, jaune d'ocre à brun-rouge-être foncé, résistant bien aux insectes; on en façonne des avirons, des pagaies, des chevrons pour les constructions. La sève rouge est hémostatique. L'écorce et les copeaux sont utilisés en
-
-décoction contre la blennorragie. La substance grasse des graines s'emploie en onction contre la gale.
+The tree yields very hard wood, ochre-yellow to dark reddish-brown, resistant to insects; it is fashioned into oars, paddles, and rafters for constructions. The red sap is hemostatic. The bark and shavings are used in decoction against gonorrhoea. The fatty substance of the seeds is used as an ointment against scabies.
 
 ## Notes
 

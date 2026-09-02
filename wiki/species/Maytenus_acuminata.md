@@ -7,6 +7,8 @@ family: Celastraceae
 vol: 22
 pages: 10-13
 source: sources/Celastraceae_vol22_paddle
+countries: [Cameroon, Democratic Republic of the Congo, Gabon]
+in_region: true
 tags: [species, generated]
 ---
 # *Maytenus acuminata* (Linné fil.) Loesener
@@ -93,7 +95,7 @@ Hallé N. 2888, Bélinga (fl., fr., oct.). Hallé N. & Le Thomas 734, Bélinga (
 
 ![Maytenus acuminata](../sources/Celastraceae_vol22_paddle/figures/fig_002_p0011.png)
 
-*PL. 2. — Maytenus acuminata (L. I.) Loes. : 1, teuilles et inflorescences × 2/3; 2, détail de la tige × 1,2; 3, coupe transv. du rameau × 5; 4, détail de la nervation × 3; 5, fleur × 4; 6, coupe long. de la fleur × 4; 7, diagramme floral; 8, pétale face int. × 5,5; 9, coupe pétale × 5,5; 10, anthère × 20; 11, disque × 7; 12, disque × 7; 12, fruit × 2,5; 13, graine × 2,5 (1-13, Hallé N. 2888).*
+*PL. 2. — Maytenus acuminata (L. I.) Loes. : 1, leaves and inflorescences × 2/3; 2, detail of the stem × 1,2; 3, transv. sect. of the branch × 5; 4, detail of the venation × 3; 5, flower × 4; 6, long. sect. of the flower × 4; 7, floral diagram; 8, petal inner surface × 5,5; 9, petal sect. × 5,5; 10, anther × 20; 11, disk × 7; 12, disk × 7; 12, fruit × 2,5; 13, seed × 2,5 (1-13, Hallé N. 2888).*
 
 ## Notes
 

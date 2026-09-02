@@ -7,6 +7,9 @@ family: Marantaceae
 vol: 09
 pages: 118-120
 source: sources/Marantaceae_vol09_paddle
+countries: [Cameroon, Democratic Republic of the Congo, Gabon, Nigeria]
+in_region: true
+habit: "herb"
 tags: [species, generated]
 ---
 # *Maranthochloa holostachya* (Bak.) Hutch.

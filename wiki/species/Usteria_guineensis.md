@@ -17,17 +17,15 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 — DE CANDOLLE, l.c. — SOLEREDER, l.c. : 36, fig. 19, G-H. — FTA 4 (1) : 517. — FWTA ed. 1, 2 : 25, fig. 187. — LEEUWENBERG, l.c. : 115, fig. 1. — FWTA ed. 2, 2 : 46.
 
-Tige de 1,5-7 cm de diamètre; petits rameaux cylindriques.
+Stem 1.5-7 cm in diameter; small branchlets cylindric.
 
-Feuilles à pétiole parfois pourpré, glabre, de 2-15 mm de longueur; limbe luisant, surtout en dessus, parfois à nervure médiane pourpré en dessous, coriace, même sur échantillons frais, de forme et de grandeur variables, de 2-14,5 × 1,8-9,5 cm, aigu, obtus, arrondi ou exceptionnellement acuminé au sommet, cuné ou arrondi à la base.
+Leaves with petiole sometimes purplish, glabrous, 2-15 mm long; blade shining, especially above, sometimes with midvein purplish beneath, coriaceous, even on fresh specimens, of variable form and size, 2-14.5 × 1.8-9.5 cm, acute, obtuse, rounded or exceptionally acuminate at the apex, cuneate or rounded at the base.
 
-Sépales soudés à la base, entiers; les 3 petits de 0,5-1 mm de longueur, pubérulents à l'extérieur, le grand au moins 0,5 fois plus long que la corolle, de 6-10 × 2-5 mm, tronqué, rétus ou brièvement apiculé au sommet, cuné à la base, pubérulent sur les deux faces. Corolle, dans le bouton mûr, de 11-18 mm de longueur; tube de 9-14 mm de longueur. Étamine à filet glabre, allongé pendant la floraison; anthère glabre.
+Sepals connate at the base, entire; the 3 small ones 0.5-1 mm long, puberulent on the exterior, the large one at least 0.5 times longer than the corolla, 6-10 × 2-5 mm, truncate, retuse or briefly apiculate at the apex, cuneate at the base, puberulent on both surfaces. Corolla, in mature bud, 11-18 mm long; tube 9-14 mm long. Stamen with filament glabrous, elongate during flowering; anther glabrous.
 
-Capsules de 20-58 × 8-14 mm, apiculées au sommet, arrondies à la base, avec deux lignes de déhiscence imprimées. Graines avec aile de 13-20 × 6-15 mm, sans aile de 3-5 × 1,5-3 mm. Pl. 42, p. 151.
+Capsules 20-58 × 8-14 mm, apiculate at the apex, rounded at the base, with two dehiscence lines impressed. Seeds with wing 13-20 × 6-15 mm, without wing 3-5 × 1.5-3 mm. Pl. 42, p. 151.
 
 ## Type
 
@@ -35,21 +33,19 @@ Ibert s.n., « Guinée », sin. loc. (holo-, B, herb. Willdenow, non vu, phot. W
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Forêts secondaires ou bosquets. Altitude 0-500 (-1200) m.
+Secondary forests or thickets. Altitude 0-500 (-1200) m.
 
 Bates 1105, Bitye, 60 km ENE Sangmélima (fl.) BM, BR, MO, Z.
 
-Bos 3337, 5 km SE Kribi, sur route d'Ebolowa (fl., nov.) P, WAG, YA; 7294, 44 km
+Bos 3337, 5 km SE Kribi, on road to Ebolowa (fl., Nov.) P, WAG, YA; 7294, 44 km
 
-S. Kribi sur route de Campo (boutons, fl., août) P, WAG, YA.
+S. Kribi on road to Campo (buds, fl., Aug.) P, WAG, YA.
 
-Mezili 44, Nkono, km 60 route Djoum-Oveng (fl., fr., nov.).
+Mezili 44, Nkono, km 60 road Djoum-Oveng (fl., fr., Nov.).
 
 Preuss 525, sin. loc. (fl.) BM.
 
-Staudt 526, Johann-Albrechtshöhe (= Kumba) (boutons, fl.) COI, S.
+Staudt 526, Johann-Albrechtshöhe (= Kumba) (buds, fl.) COI, S.
 
 Zenker 3557, Bipindi (fl.) BM, BR, E, G, GOET, HBG, K, MO, W, WU.
 
@@ -71,7 +67,7 @@ Trilles 195, près Libreville (fl., oct.); 196, eod. loc. (fl., fr., oct.).
 
 ![Usteria guineensis](../sources/Loganiaceae_vol19_paddle/figures/fig_042_p0153.png)
 
-*PL. 42. — Usteria guineensis Willd.: a, rameau × ½; b, inflorescence × ½; c, sommet du bouton × 4; d, fleur × 2; e, dissection de la corolle × 2; f, étamine × 12; g, calice avec pistil × 4; k, section longitudinale de l'ovaire × 12; m, fruits × ½; n, graine × 2; p, embryon × 4; r, nœud avec poils glanduleux × 3; s, portion du rameau de l'inflorescence, avec poils glanduleux × 6 (a-k, r-s : d'après Leeuwenberg 1744, Côte d'Ivoire, WAG; m-p : d'après Leemans 498. Congo-Kinshasa. BR).*
+*PL. 42. — Usteria guineensis Willd.: a, branch × ½; b, inflorescence × ½; c, apex of bud × 4; d, flower × 2; e, dissection of corolla × 2; f, stamen × 12; g, calyx with pistil × 4; k, longitudinal section of ovary × 12; m, fruits × ½; n, seed × 2; p, embryo × 4; r, node with glandular hairs × 3; s, portion of inflorescence branch, with glandular hairs × 6 (a-k, r-s : after Leeuwenberg 1744, Ivory Coast, WAG; m-p : after Leemans 498. Congo-Kinshasa. BR).*
 
 ## Notes
 

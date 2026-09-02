@@ -7,6 +7,10 @@ family: Leguminosae
 vol: 31
 pages: 103-106
 source: sources/Leguminosae_vol31_paddle
+countries: [Cameroon, Equatorial Guinea, Gabon]
+in_region: true
+habit: "tree"
+habitat: [coastal]
 tags: [species, generated]
 ---
 # *Calpocalyx heitzii* Pellegrin
@@ -53,7 +57,7 @@ Fleury in Chevalier 26859, env. Atsié, près lac Zilé, env. Lambaréné ; 3359
 
 ![Calpocalyx heitzii](../sources/Leguminosae_vol31_paddle/figures/fig_038_p0104.png)
 
-*PL. 26. – Calpocalyx heitzii Pellegr.: 1, aspect général × 0,5 ; 2, pétiole, sommet × 3 ; 3, inflorescence × 1 ; 4, bouton floral × 20. (1-2, Letouzey 9131 (Cameroun); 3-4, Heitz 40). – Calpocalyx klainei Pierre ex Harms: 5, feuille × 1 ; 6, pétiole, sommet × 3. (Heitz 44).*
+*PL. 26. – Calpocalyx heitzii Pellegr.: 1, general aspect × 0,5 ; 2, petiole, apex × 3 ; 3, inflorescence × 1 ; 4, floral bud × 20. (1-2, Letouzey 9131 (Cameroon); 3-4, Heitz 40). – Calpocalyx klainei Pierre ex Harms: 5, leaf × 1 ; 6, petiole, apex × 3. (Heitz 44).*
 
 ## Notes
 

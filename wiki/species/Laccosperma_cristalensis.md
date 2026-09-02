@@ -7,6 +7,10 @@ family: Arecaceae
 vol: 53
 pages: 33-34
 source: sources/Arecaceae_vol53_liteparse
+countries: [Gabon]
+in_region: true
+habit: "liana"
+altitude_m: "500"
 tags: [species, generated]
 ---
 # *Laccosperma cristalensis* Couvreur & Niang.

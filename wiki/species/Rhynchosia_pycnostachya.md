@@ -7,6 +7,11 @@ family: Leguminosae
 vol: 49
 pages: 341-342
 source: sources/Millettiaspeciesfabaceae_vol49_liteparse
+countries: [Democratic Republic of the Congo, Equatorial Guinea, Gabon]
+in_region: true
+habit: "herb"
+habitat: [swamp forest]
+altitude_m: "0–720"
 tags: [species, generated]
 ---
 # *Rhynchosia pycnostachya* (DC.) Meikle

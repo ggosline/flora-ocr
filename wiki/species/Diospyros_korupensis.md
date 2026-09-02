@@ -7,17 +7,15 @@ family: Ebenaceae
 status: spec. nov.
 type_specimen: "Cameroon, Southwest Region, Mundemba, Korup Project Headquarters, 200 m altitude, fl. male, 10 Dec 1994, Thomas D.W. 10285 (holotype: YA; isotypes: K, MO, SCA, WAG, P, BR, G)"
 synonyms: []
-habit: tree
-habitat: [lowland evergreen rainforest, well-drained forest]
-altitude_m: "160-500"
-countries: [Cameroon]
-in_region: true
 treatments:
   - kind: article
     year: 2009
     citation: "Gosline G. (2009). Diospyros korupensis sp. nov. and Diospyros onanae sp. nov. (Ebenaceae) from Cameroon. Nordic Journal of Botany: 355-358."
     pages: "355-358"
     source: sources/articles/nordic_journal_of_botany_2009_gosline_diospyros_korupensis_sp_nov_and_diospyros_onanae_sp_nov_ebenaceae_from/liteparse
+countries: [Cameroon]
+in_region: true
+habit: "tree"
 tags: [species, novelty]
 ---
 

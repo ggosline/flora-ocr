@@ -7,6 +7,9 @@ family: Zingiberaceae
 vol: 09
 pages: 32-34
 source: sources/Zingiberaceae_vol09_paddle
+countries: [Angola, Cameroon, Gabon]
+in_region: true
+habit: "herb"
 tags: [species, generated]
 ---
 # *Renalmia africana* (K. Schum.) Benth.

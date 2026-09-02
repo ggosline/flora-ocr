@@ -7,6 +7,8 @@ family: Orchidaceae
 vol: 37
 pages: 143-145
 source: sources/Orchidaceae_vol37_paddle
+countries_incomplete: true
+habitat: [savanna]
 tags: [species, generated]
 ---
 # *Neprangis bertauxiana* Szlach. & Olsz.

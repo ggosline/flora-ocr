@@ -6,18 +6,15 @@ genus: Leptoterantha
 family: Menispermaceae
 synonyms:
   - "Kolobopetalum mayumbense Exell, J. Bot. 64, Suppl. Polypet.: 13 (1926)"
-habit: liana
-habitat: [primary forest, secondary forest, inselberg]
-altitude_m: "10–635 (Gabon); up to 960 elsewhere"
-countries: [Angola, Central African Republic, Democratic Republic of the Congo, Gabon]
-subdivisions:
-  Angola: [Cabinda]
-  Gabon: [Ogooué-Ivindo, Ogooué-Lolo, Woleu-Ntem]
-in_region: true
 treatments:
   - vol: 60
     pages: "55"
     source: sources/Menispermaceae_vol60_liteparse
+countries: [Angola, Central African Republic, Democratic Republic of the Congo, Gabon]
+in_region: true
+subdivisions:
+  Gabon: [Ogooué-Ivindo, Ogooué-Lolo, Woleu-Ntem]
+habit: "liana"
 tags: [species]
 ---
 

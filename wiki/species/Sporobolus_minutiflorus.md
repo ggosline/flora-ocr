@@ -22,17 +22,15 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Annual species, in tufts approximately 50 cm tall; leaf blades up to 20-25 cm long and 3 mm wide, spread or rolled.
 
-Espèce annuelle, en touffes d'environ 50 cm de haut; limbes foliaires jusqu'à 20-25 cm de long et 3 mm de large, étalés ou enroulés.
+Panicle very lax, up to 30 × 5 to 8 cm with numerous fine and flexuous branches; pedicels capillary, 3 to 6 mm long.
 
-Panicule très lâche, jusqu'à 30 × 5 à 8 cm à nombreuses branches fines et flexueuses; pédicelles capillaires, de 3 à 6 mm de long.
+Spikelets approximately 0.75 mm long, acute lanceolate, pale green; glumes unequal, obtuse, the upper reaching approximately half the length of the spikelet, the lower somewhat shorter.
 
-Épillets d'environ 0,75 mm de long, lancéolés aigus, vert-pâle; glumes inégales, obtuses, la supérieure atteignant à peu près la moitié de l'épillet, l'inférieure un peu plus courte.
+Lemmas oblong lanceolate, grain oblong, truncate measuring half the length of the spikelet.
 
-Glumelles oblongues lancéolées, grain oblong, tronqué mesurant la moitié de la longueur de l'épillet.
-
-Espèce connue du Sénégal au Tchad, ainsi qu'au Congo et au Gabon. Petite espèce de terrain sec, sans intérêt pour l'élevage.
+Species known from Senegal to Chad, as well as in Congo and Gabon. Small species of dry terrain, of no interest for livestock.
 
 ## Specimens examined
 

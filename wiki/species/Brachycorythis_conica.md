@@ -25,7 +25,7 @@ recognize 3 subspecies in South Africa. In Gabon, only the typical subspecies is
 
 ![Brachycorythis conica](../sources/Orchidaceae_vol36_paddle/figures/fig_003_p0020.png)
 
-*PL. 3. – Brachycorythis conica (Summerh.: A, ovaire et éperon ; B, bractée ; C, éperon et labelle étalés ; D, sépale dorsal ; E, pétale ; F, sépale latéral (A-F, Le Testu 5088, P).*
+*PL. 3. – Brachycorythis conica (Summerh.): A, ovary and spur ; B, bract ; C, spur and lip spread ; D, dorsal sepal ; E, petal ; F, lateral sepal (A-F, Le Testu 5088, P).*
 
 ## Notes
 

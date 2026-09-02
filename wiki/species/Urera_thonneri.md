@@ -7,6 +7,12 @@ family: Urticaceae
 vol: 51
 pages: 87-89
 source: sources/Urticaceae_vol51_liteparse
+countries: [Angola, Cameroon, Central African Republic, Democratic Republic of the Congo, Equatorial Guinea, Gabon, Nigeria, Republic of the Congo]
+in_region: true
+subdivisions:
+  Gabon: [Estuaire, Moyen-Ogooué, Ogooué-Ivindo, Ogooué-Lolo, Woleu-Ntem]
+habit: "liana"
+altitude_m: "20–900"
 tags: [species, generated]
 ---
 # *Urera thonneri* De Wild. & T.Durand Planche 33
@@ -17,31 +23,19 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Bull. Soc. Roy. Bot. Belgique 38(1, Comp. Rend.) : 48 (1899). U. dewevrei De Wild. & T.Durand, Bull. Soc. Roy. Bot. Belgique 38(1, Compt. Rend.) : 49 (1899). Liane ligneuse robuste , monoïque , parfois épiphyte, s’élevant rarement au-delà de 6 m de hauteur ; tiges ramifiées, avec des branches courbes et des racines adventives fixées au subs trat, les âgées arrondies , à section rarement un peu anguleuse ; écorce brune à brun purpurin sombre, craquelée sur les vieilles branches ; jeunes tiges et feuilles avec des poils urticants sporadiques, sinon glabrescentes ; cystolithes ponctiformes. Stipules presque entièrement sou dées, caduques, triangulaires-lancéolées, jusqu’à 5–6 mm de longueur, binervées et bifides au sommet, les jeunes extérieurement pubérulentes. Feuille : pétiole (2–) 3–7(–9) cm, avec de nombreux cystolithes, autrement glabre ; limbe elliptique à faiblement obovale, 9–16(–20) × 4–8(–10) cm, base atténuée à obtuse, parfois faiblement émarginée, sommet acuminé, parfois l’acumen jusqu’à 1,6 cm de longueur, marge droite à faiblement ondulée, coriace à charnu, glabrescent sur les deux faces, face supérieure vert sombre brillant, densément couverte de cystolithes, face inférieure vert grisâtre, rigide ; paire basale des nervures latérales arquées distalement vers la marge et atteignant la moitié, rarement les deux tiers supérieurs du limbe, 3 et parfois 4 paires de nervures latérales supérieures atteignant aussi la marge , la médiane et les secondaires proéminentes dessous. Inflorescence paraissant toujours naître aux aisselles défeuillées des vieilles branches, pubérulente ; la mâle à pédoncule de 6–8 cm, pani culiforme ou corymbiforme, jusqu’à 18 × 15–18 cm, à axes dichotomes et divergentes, roses, extrémités à quelques bractées rudimentaires écailleuses et à glomérules de 8 à 12 fleurs ; la femelle à pédoncule de 1–2 cm, en ombelles cymeuses ou condensées en têtes cymeuses, 3–5 cm de diamètre, rouge rosâtre. Fleur mâle 5-mère, à pédicelle atteignant 2 mm ; boutons rougeâtres, ± 1 mm de diamètre, à sommet aplati, souvent avec 1 ou 2(–3) poils urticants éta lés sur chaque tépale. Fleur femelle solitaire sur les ramifications ultimes de l’inflorescence, à pédicelle de 0,2–0,3 mm, entourées de quelques poils urticants, presque aussi longs que la fleur de 0,6–0,8 mm, périanthe tubuleux avec de légères dents marginales, couvrant presque entièrement l’ovaire ; stigmate pénicillé. Infrutescence accrescente jusqu’à 5–6 cm de dia mètre, à pédoncule charnu de 2–3 cm. Fruit ± 3 × 1,5–2 mm, parfois avec de légères crêtes latérales, entouré jusqu’au stigmate par le périanthe jaune, virant au rouge-orange à maturité.
+Bull. Soc. Roy. Bot. Belgique 38(1, Comp. Rend.) : 48 (1899). U. dewevrei De Wild. & T.Durand, Bull. Soc. Roy. Bot. Belgique 38(1, Compt. Rend.) : 49 (1899). Robust woody liane, monoecious, sometimes epiphytic, rarely exceeding 6 m in height; stems branched, with curved branches and adventitious roots attached to the substrate, the older ones rounded, rarely somewhat angular in section; bark brown to dark purplish-brown, fissured on old branches; young stems and leaves with sporadically scattered stinging hairs, otherwise glabrescent; cystoliths punctiform. Stipules almost entirely fused, caducous, triangular-lanceolate, up to 5–6 mm in length, binerved and bifid at the apex, the young ones externally puberulent. Leaf: petiole (2–) 3–7(–9) cm, with numerous cystoliths, otherwise glabrous; blade elliptic to weakly obovate, 9–16(–20) × 4–8(–10) cm, base attenuate to obtuse, sometimes weakly emarginate, apex acuminate, sometimes the acumen up to 1.6 cm in length, margin straight to weakly undulate, coriaceous to fleshy, glabrescent on both faces, upper surface dark green glossy, densely covered with cystoliths, lower surface greyish green, rigid; basal pair of lateral nerves arched distally toward the margin and reaching the midpoint, rarely the upper two-thirds of the blade, 3 and sometimes 4 pairs of upper lateral nerves also reaching the margin, the median and secondaries prominent beneath. Inflorescence always appearing to arise from the leafless axils of old branches, puberulent; the male one with a peduncle of 6–8 cm, paniculate or corymbiform, up to 18 × 15–18 cm, with dichotomous and divergent axes, pink, apices bearing a few rudimentary scaly bracts and glomerate clusters of 8 to 12 flowers; the female one with a peduncle of 1–2 cm, in cymose umbels or condensed into cymose heads, 3–5 cm in diameter, pinkish-red. Male flower 5-merous, with pedicel reaching 2 mm; buds reddish, ± 1 mm in diameter, with flattened apex, often with 1 or 2(–3) stinging hairs spreading on each tepal. Female flower solitary on the ultimate ramifications of the inflorescence, with pedicel of 0.2–0.3 mm, surrounded by a few stinging hairs, almost as long as the flower of 0.6–0.8 mm, perianth tubular with slight marginal teeth, covering almost entirely the ovary; stigma penicillate. Infructescence accrescent up to 5–6 cm in diameter, with fleshy peduncle of 2–3 cm. Fruit ± 3 × 1.5–2 mm, sometimes with slight lateral ridges, surrounded up to the stigma by the yellow perianth, turning red-orange at maturity.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-connu du sud-est du Nigéria, du Cameroun, de la République Centrafricaine, de la Guinée équatoriale (y compris Bioko), du Gabon, de la République du Congo, de la République démocratique
-
-Urera 81
-
-82 Ib FRIIS du Congo et de l’Angola ; au Gabon, connu de l’Estuaire, du Moyen-Ogooué, de l’Ogooué-Ivindo, de l’Ogooué-Lolo et du Woleu-Ntem.
+known from south-eastern Nigeria, Cameroon, Central African Republic, Equatorial Guinea (including Bioko), Gabon, Republic of the Congo, Democratic Republic of the Congo and Angola; in Gabon, known from Estuaire, Moyen-Ogooué, Ogooué-Ivindo, Ogooué-Lolo and Woleu-Ntem.
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-ne semblant pas s’élever aussi haut dans la canopée que U . trinervis , généralement en forêts secondaires ou des lisières forestières, sur des bords de rivière et aux marges des cultures ; au Gabon à 20–900 m, ailleurs jusqu’à 1200 m
+apparently not rising as high in the canopy as U. trinervis, generally in secondary forests or forest margins, on river banks and at the edges of cultivations; in Gabon at 20–900 m, elsewhere up to 1200 m
 
 ## Source note
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Superficiellement comparable à U. trinervis , mais en diffère par le nombre de nervures latérales au-dessus des basales (une paire chez U . trinervis , 2 ou 3(4) chez U. thonneri ) et par ses fleurs mâles 5-mères (4-mères chez U. trinervis ). B : Lebrun & Stork (2010), Letouzey (1968). i B liographie
+Superficially comparable to U. trinervis, but differing in the number of lateral nerves above the basal ones (one pair in U. trinervis, 2 or 3(4) in U. thonneri) and in its 5-merous male flowers (4-merous in U. trinervis). B: Lebrun & Stork (2010), Letouzey (1968). Bibliography
 
 ## Notes
 

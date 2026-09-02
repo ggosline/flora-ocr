@@ -7,6 +7,11 @@ family: Rhizophoraceae
 vol: 47
 pages: 105-107
 source: sources/Rhizophoraceae_vol47_liteparse
+countries: [Gabon]
+in_region: true
+subdivisions:
+  Gabon: [Moyen-Ogooué]
+altitude_m: "450"
 tags: [species, generated]
 ---
 # *Cassipourea pumila* Floret Planche 35

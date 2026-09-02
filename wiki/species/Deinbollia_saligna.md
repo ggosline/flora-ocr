@@ -7,6 +7,9 @@ family: Sapindaceae
 vol: 23
 pages: 75-77
 source: sources/Sapindaceae_vol23_paddle
+countries: [Madagascar, Nigeria]
+in_region: true
+habit: "shrub"
 tags: [species, generated]
 ---
 # *Deinbollia saligna* Keay

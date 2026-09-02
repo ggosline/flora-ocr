@@ -7,6 +7,7 @@ family: Gramineae
 vol: 05
 pages: 183-186
 source: sources/Gramineae_vol05_paddle
+habit: "herb"
 tags: [species, generated]
 ---
 # *Hyperrhenia rufa* (Nees) Stapf.
@@ -59,7 +60,7 @@ Known from Nigeria, Ubangi and Congo; reported from Gabon by Koechlin in the sav
 
 ![Hyperrhenia rufa](../sources/Gramineae_vol05_paddle/figures/fig_030_p0185.png)
 
-*PL. XXIX. — Hyperrhenia rufa (Nees) Stapf (Chevalier 20091) : 1, partie de l'inflo-rescence; 2, détail d'une paire de racèmes; 3, détail d'une paire d'épillets, épillet sessile vu par la face ventrale (épillet sessile : 3,7 mm de long). — Hyperrhenia diplandra (Hack.) Stapf (Chevalier 34619) ; 4, partie de l'inflo-rescence; 5, détail d'une paire de racèmes; 6, détail d'une paire d'épillets, l'épillet sessile vu par la face dorsale (épillet sessile : 6 mm de long avec le callus).*
+*PL. XXIX. — Hyperrhenia rufa (Nees) Stapf (Chevalier 20091) : 1, part of the inflorescence; 2, detail of a pair of racemes; 3, detail of a pair of spikelets, sessile spikelet seen by the ventral surface (sessile spikelet : 3.7 mm long). — Hyperrhenia diplandra (Hack.) Stapf (Chevalier 34619) ; 4, part of the inflorescence; 5, detail of a pair of racemes; 6, detail of a pair of spikelets, the sessile spikelet seen by the dorsal surface (sessile spikelet : 6 mm long with the callus).*
 
 ## Notes
 

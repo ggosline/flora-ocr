@@ -7,6 +7,12 @@ family: Cucurbitaceae
 vol: 57
 pages: 64-65
 source: sources/Cucurbitaceae_vol57_paddle
+countries: [Gabon]
+in_region: true
+subdivisions:
+  Gabon: [Ogooué-Maritime]
+habit: "herb"
+habitat: [riverine, rocky ground]
 tags: [species, generated]
 ---
 # *Cucumis metuliferus* E.Mey. ex Naud.

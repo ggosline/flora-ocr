@@ -7,6 +7,7 @@ family: Gramineae
 vol: 05
 pages: 254-255
 source: sources/Gramineae_vol05_paddle
+habit: "herb"
 tags: [species, generated]
 ---
 # *Sporobolus robustus* Kunth.
@@ -21,17 +22,13 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Perennial herb with very long stolons, forming numerous tufts. Culms erect up to 1 m tall and more, robust. Leaves glabrous, or finely pubescent at the articulation with the sheath. Base of culms covered by imbricate sheaths, at first short, scarious and leafless, then terminated by blades increasingly longer, finally able to exceed 20 cm long, linear, very gradually attenuate to a point at the apex, up to 5 mm wide.
 
-Herbe pérenne très longuement stolonifère, formant des touffes nombreuses. Chaumes dressés jusqu'à 1 m de haut et plus, robustes. Feuilles glabres, ou finement pubescentes à l'articulation avec la gaine. Base des chaumes recouverte par les gaines imbriquées, d'abord courtes, scarieuses et aphylles, puis terminées par des limbes de plus en plus longs pouvant finalement dépasser 20 cm de long, linéaires, très progressivement atténués en pointe vers le sommet, jusqu'à 5 mm de large.
+Inflorescence in an elongate spiciform panicle up to 20 cm long and more and 2 cm in diameter, branches erect. Spikelets borne on pedicels 2 to 3 mm long, pale in colour. Lower glume 2 to 2.5 mm almost as long as the spikelet, 1-nerved, scabrous toward the apex on the keel. Upper glume similar, as long as the spikelet; lemma similar to the upper glume; palea hyaline, somewhat shorter, depressed longitudinally on the back and with 2 very fine nerves.
 
-Inflorescence en panicule spiciforme allongée jusqu'à 20 cm de long et plus et 2 cm de diamètre, branches redressées. Épillets
+Species of coastal regions of western Africa, from the Cape Verde Islands and also recorded in Chad.
 
-portés par des pédicelles de 2 à 3 mm de long, de teinte claire. Glume inférieure de 2 à 2,5 mm presque aussi longue que l'épillet, à 1 nervure, scabre vers le sommet sur la carène. Glume supérieure semblable, aussi longue que l'épillet; lemma semblable à la glume supérieure; paléa hyaline, un peu plus courte, déprimée longitudinalement sur le dos et à 2 nervures très fines.
-
-Espèce des régions côtières de l'Afrique occidentale, des îles du Cap-Vert et signalée également au Tchad.
-
-Noms vernaculaires (d’après Walker et Sillans) : Wyatsa (N’Komi, Orungu); Byatsa (Ngové).
+Vernacular names (after Walker and Sillans): Wyatsa (N'Komi, Orungu); Byatsa (Ngové).
 
 ## Specimens examined
 

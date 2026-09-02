@@ -7,6 +7,9 @@ family: Combretaceae
 vol: 35
 pages: 39-40
 source: sources/Combretaceae_vol35_paddle
+countries: [Cameroon, Gabon]
+in_region: true
+habit: "liana"
 tags: [species, generated]
 ---
 # *Combretum echirense* Jongkind

@@ -7,6 +7,9 @@ family: Leguminosae
 vol: 15
 pages: 113-115
 source: sources/Leguminosae_vol15_paddle
+countries: [Gabon, Nigeria]
+in_region: true
+habit: "tree"
 tags: [species, generated]
 ---
 # *Afzelia pachyloba* Harms

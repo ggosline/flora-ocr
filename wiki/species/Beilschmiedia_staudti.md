@@ -7,6 +7,7 @@ family: Lauraceae
 vol: 10
 pages: 47-48
 source: sources/Lauraceae_vol10_paddle
+habit: "shrub"
 tags: [species, generated]
 ---
 # *Beilschmiedia staudti* Engl..

@@ -7,6 +7,8 @@ family: Orchidaceae
 vol: 36
 pages: 199-199
 source: sources/Orchidaceae_vol36_paddle
+countries: [Cote d'Ivoire, Gabon, Ghana, Liberia, Nigeria, Sierra Leone]
+in_region: true
 tags: [species, generated]
 ---
 # *Bulbophyllum nigritianum* Rendle

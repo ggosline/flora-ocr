@@ -94,7 +94,7 @@ de Wilde & de Wilde-Bakhuizen 11731, 11.12.1996, 1°19'S-10°27'E, Massif de Kou
 
 ![Guaduella franch](../sources/Gramineae_vol5bis_paddle/figures/fig_007_p0032.png)
 
-*Pl. 7. - Imperata cylindrica (L.) Raeusch : 1, aspect de la plante ; 2, rachis ; 3, épillet. - Eriochrysis brachypogon (Stapf) Stapf ; 4, aspect de la plante ; 5, épillet sessile ; 6, entre-nœud et épillet pédicellé. - Autorisation de reproduction : cf. Remerciements p. 68.*
+*Pl. 7. - Imperata cylindrica (L.) Raeusch : 1, plant habit ; 2, rachis ; 3, spikelet. - Eriochrysis brachypogon (Stapf) Stapf ; 4, plant habit ; 5, sessile spikelet ; 6, internode and pedicellate spikelet. - Reproduction authorization : cf. Acknowledgements p. 68.*
 
 ## Notes
 

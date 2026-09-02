@@ -7,6 +7,9 @@ family: Rubiaceae
 vol: 12
 pages: 183-184
 source: sources/Rubiaceae_vol12_paddle
+countries: [Cameroon, Gabon, Nigeria]
+in_region: true
+habit: "liana"
 tags: [species, generated]
 ---
 # *Sabicea efulenensis* (Hutch.) Hepp.
@@ -44,7 +47,7 @@ N. Hallé : 794 bis, Ekouk, la Bokoué (fr. juill.); 1036, Makokou (fr. fév.); 
 
 ![Sabicea efulenensis](../sources/Rubiaceae_vol12_paddle/figures/fig_030_p0129.png)
 
-*PL. 24. — Placentation des Mussaendées (1 Mussaendinae) : 1, Heinsia crinita (fleur); 2, Pseudomussaenda stenocarpa (bout.); 2 a et b, id. (fr.); 3, Mussaenda isertiana (j. fr.); 3 a, M. erythrophylla (fl.); 4, Stipularia africana (bout.); 5, Sabicea efulenensis (fl.); 6, S. pilosa (bout.); 7, S. fulva (fl.); 8, S. carbunica (fl.); 9, S. longepeitiolata (fl.); 10, Pseudosabica aurifodinae (bout.); 11, Ps. proselyla (fr.); 12, Ps. mitisphaera (fr.); 13, Ps. floribunda (j. fr.); 14, Ps. Mildbraedii (j. fr.); 15, Ecpoma Hiernianum (fr.).*
+*PL. 24. — Placentation of Mussaendeae (1 Mussaendinae) : 1, Heinsia crinita (flower); 2, Pseudomussaenda stenocarpa (bud); 2 a et b, id. (fruit); 3, Mussaenda isertiana (young fruit); 3 a, M. erythrophylla (fl.); 4, Stipularia africana (bud); 5, Sabicea efulenensis (fl.); 6, S. pilosa (bud); 7, S. fulva (fl.); 8, S. carbunica (fl.); 9, S. longepeitiolata (fl.); 10, Pseudosabica aurifodinae (bud); 11, Ps. proselyla (fruit); 12, Ps. mitisphaera (fruit); 13, Ps. floribunda (young fruit); 14, Ps. Mildbraedii (young fruit); 15, Ecpoma Hiernianum (fruit).*
 
 ## Notes
 

@@ -7,6 +7,13 @@ family: Convolvulaceae
 vol: 46
 pages: 55-57
 source: sources/Convolvulaceae_vol46_liteparse
+countries: [Cameroon, Central African Republic, Democratic Republic of the Congo, Equatorial Guinea, Gabon, Nigeria]
+in_region: true
+subdivisions:
+  Gabon: [Nyanga, Ogooué-Maritime]
+habit: "liana"
+habitat: [secondary forest]
+altitude_m: "650"
 tags: [species, generated]
 ---
 # *Neuropeltis alnifolia* Lejoly & Lisowski

@@ -8,6 +8,12 @@ vol: 55
 pages: 64-65
 source: sources/Commelinaceae_vol55_liteparse
 also_in_vols: [55]
+countries: [Cameroon, Equatorial Guinea, Gabon]
+in_region: true
+subdivisions:
+  Gabon: [Ogooué-Ivindo]
+habitat: [secondary forest]
+altitude_m: "550"
 tags: [species, generated]
 ---
 # *Palisota hirsuta* (Kongou, Ivindo, Gabon, Texier et al. 2258 ) : C. Tiges à inflorescences et fruits immatures.

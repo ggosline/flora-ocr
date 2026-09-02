@@ -7,6 +7,9 @@ family: Icacinaceae
 vol: 20
 pages: 26-28
 source: sources/Icacinaceae_vol20_paddle
+countries: [Cote d'Ivoire, Gabon]
+in_region: true
+habit: "shrub"
 tags: [species, generated]
 ---
 # *Alsodeiopsis staudtii* Engler

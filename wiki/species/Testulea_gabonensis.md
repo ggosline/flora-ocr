@@ -7,6 +7,13 @@ family: Ochnaceae
 vol: 48
 pages: 93-95
 source: sources/Ochnaceae_vol48_liteparse
+countries: [Cameroon, Equatorial Guinea, Gabon, Republic of the Congo]
+in_region: true
+subdivisions:
+  Gabon: [Haut-Ogooué, Nyanga, Ogooué-Ivindo, Ogooué-Lolo, Woleu-Ntem]
+habit: "tree"
+habitat: [secondary forest]
+altitude_m: "500"
 tags: [species, generated]
 ---
 # *Testulea gabonensis* Pellegr. Planche 27
@@ -17,21 +24,15 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Arbre atteignant 40(–50) m de hauteur ; fût cylindrique, atteignant 100(–120) cm de diamètre, à contreforts raides atteignant 3 m de hauteur, souvent à crêtes horizontales sur les contreforts ; écorce écailleuse, brun jaunâtre à gris jaunâtre ; rameaux à cicatrices foliaires distinctes. Stipules triangulaires, 3–4 mm de longueur. Feuille : pétiole trapu , atteignant 4 mm ; limbe étroitement elliptique-obovale, (10–)20–60 × (2,5–)4–12 cm, arrondi à la base, obtus à acuminé au sommet, à marges légèrement ondulées ; nervure principale noirâtre dans la partie basale , nervures secondaires nombreuses, réticulation bien visible sur les deux faces. Inflorescence atteignant 35 cm de longueur, à fleurs groupées par 3 ou 4. Fleur : pédicelle 1,5–2 cm ; sépales obtus, le plus grand 9–12 mm de longueur ; pétales blancs à roses, oblongs, les 2 plus grands, environ 15 × 6 mm, les 2 plus petits, environ 10 × 3 mm ; étamine 9 mm de longueur ; staminodes 12–13 mm de longueur ; ovaire sur un stipe court ; style arqué, 7–8 mm. Fruit presque circulaire à cordé, aplati, 3–6 cm de diamètre, émarginé au sommet , à paroi mince, vert devenant brun à maturité. Graine cylindrique, 5–7 mm de longueur, à aile elliptique et papyracée de 1–1,5 cm de longueur .
+Tree reaching 40(–50) m in height; trunk cylindrical, reaching 100(–120) cm in diameter, with stiff buttresses reaching 3 m in height, often with horizontal ridges on the buttresses; bark scaly, yellowish-brown to yellowish-gray; branches with distinct leaf scars. Stipules triangular, 3–4 mm in length. Leaf: petiole stout, reaching 4 mm; lamina narrowly elliptic-obovate, (10–)20–60 × (2.5–)4–12 cm, rounded at the base, obtuse to acuminate at the apex, with slightly undulate margins; midvein blackish in the basal part, secondary veins numerous, reticulation clearly visible on both surfaces. Inflorescence reaching 35 cm in length, with flowers grouped by 3 or 4. Flower: pedicel 1.5–2 cm; sepals obtuse, the largest 9–12 mm in length; petals white to pink, oblong, the 2 largest, approximately 15 × 6 mm, the 2 smallest, approximately 10 × 3 mm; stamen 9 mm in length; staminodes 12–13 mm in length; ovary on a short stipe; style arched, 7–8 mm. Fruit almost circular to cordate, flattened, 3–6 cm in diameter, emarginate at the apex, with thin wall, green becoming brown at maturity. Seed cylindrical, 5–7 mm in length, with elliptic and papyraceous wing 1–1.5 cm in length.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-sud du Cameroun, Guinée équatoriale, Gabon et sud-ouest et nord de la République du Congo ; au Gabon, connue du Haut-Ogooué, de la Nyanga, de l’OgoouéIvindo, de l’Ogooué-Lolo et du Woleu-Ntem
+southern Cameroon, Equatorial Guinea, Gabon and southwestern and northern Republic of the Congo; in Gabon, known from Haut-Ogooué, Nyanga, Ogooué-Ivindo, Ogooué-Lolo and Woleu-Ntem
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-forêt primaire ou secondarisée, parfois dans des lieux temporairement inondés, mais aussi sur des crêtes ; au Gabon, jusqu’à 500 m d’altitude. Usage : Le bois est utilisé pour la construction, la menuiserie, la sculpture, le tournage et les placages tranchés. L’écorce est employée en médecine traditionnelle, dans les narines pour traiter les maux de tête et comme aphrodisiaque
+primary or secondarized forest, sometimes in temporarily inundated places, but also on ridges; in Gabon, up to 500 m in altitude. Use: The wood is used for construction, joinery, sculpture, turning and sliced veneers. The bark is used in traditional medicine, in the nostrils to treat headaches and as an aphrodisiac
 
 ## Vernacular names
 

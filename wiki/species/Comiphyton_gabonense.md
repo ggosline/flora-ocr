@@ -7,6 +7,12 @@ family: Rhizophoraceae
 vol: 47
 pages: 111-111
 source: sources/Rhizophoraceae_vol47_liteparse
+countries: [Democratic Republic of the Congo, Gabon]
+in_region: true
+subdivisions:
+  Gabon: [Estuaire, Ngounié, Ogooué-Lolo]
+habit: "tree"
+altitude_m: "80–500"
 tags: [species, generated]
 ---
 # *Comiphyton gabonense* Floret Planche 37

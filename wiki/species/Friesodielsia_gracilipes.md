@@ -7,6 +7,9 @@ family: Annonaceae
 vol: 16
 pages: 0-0
 source: sources/Annonaceae_vol16_mineru
+countries: [Equatorial Guinea]
+in_region: true
+habit: "liana"
 tags: [species, generated]
 ---
 # *Friesodielsia gracilipes* (Benth.) van Steenis

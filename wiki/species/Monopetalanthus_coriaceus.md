@@ -7,6 +7,9 @@ family: Leguminosae
 vol: 15
 pages: 319-322
 source: sources/Leguminosae_vol15_paddle
+countries: [Gabon]
+in_region: true
+habit: "tree"
 tags: [species, generated]
 ---
 # *Monopetalanthus coriaceus* Morel ex Aubréville, sp. nov. $ ^{1} $
@@ -42,7 +45,7 @@ De Saint-Aubin : 1935, 24 km S.-E. Cocobeach (vieux fruits août). Morel : 130, 
 
 ![Monopetalanthus coriaceus](../sources/Leguminosae_vol15_paddle/figures/fig_082_p0320.png)
 
-*PL. LXXXI. — Monopetalanthus coriaceus, Aubr. : 1, rameau florifère × 2 /3; 2, foliole × 1, 5; 3, bourgeon en voie de développement × 2 /3; 4, fruit × 2 /3. — Monopetalanthus longiracemosus Chevalier : 5, rameau florifère × 2 /3; 6, foliole × 1, 5; 7, fruit × 2 /3.*
+*PL. LXXXI. — Monopetalanthus coriaceus, Aubr. : 1, flowering branch × 2 /3; 2, leaflet × 1, 5; 3, bud in development × 2 /3; 4, fruit × 2 /3. — Monopetalanthus longiracemosus Chevalier : 5, flowering branch × 2 /3; 6, leaflet × 1, 5; 7, fruit × 2 /3.*
 
 ## Notes
 

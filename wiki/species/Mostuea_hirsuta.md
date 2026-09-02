@@ -7,6 +7,8 @@ family: Loganiaceae
 vol: 19
 pages: 33-35
 source: sources/Loganiaceae_vol19_paddle
+countries: [Cameroon]
+in_region: true
 tags: [species, generated]
 ---
 # *Mostuea hirsuta* (Benth. & Hook. f.) Baill. ex Bak.
@@ -86,7 +88,7 @@ Walker s.n., Fernan Vaz (young fr.).
 
 ![Mostuea hirsuta](../sources/Loganiaceae_vol19_paddle/figures/fig_011_p0038.png)
 
-*PL. 11. — Mostuea hirsuta (T. Anders.) Baill. ex Bak. : 1 à 3, rameaux × 1½; 4, infl. × 1½; 5 et 6, dissect. fl. × 3; 7, infl. en bouton, avec poils glanduleux (bractées inf. enlevées) × 4½; 8, int. du sépale × 9; 9, petit rameau avec poils glanduleux de la stipule (enlevée) × 9; 10, partie centr. de l'infl. × 4½; 11, fruit × 1; 12 et 13, deux côtés de la graine × 2; 14, sect. long. de la graine avec embryon × 2; 15, portion du testa × 16; (1, 4-15 : d'après Erkem (?) 8 août 1913, Congo-Kinshasa, BR; 2 : d'après Gossweiler 9852, Angola, COI; 3 : d'après Roberty 3443, Guinée, G).*
+*PL. 11. — Mostuea hirsuta (T. Anders.) Baill. ex Bak. : 1 to 3, branches × 1½; 4, infl. × 1½; 5 and 6, dissect. fl. × 3; 7, infl. in bud, with glandular hairs (lower bracts removed) × 4½; 8, int. of sepal × 9; 9, small branch with glandular hairs of stipule (removed) × 9; 10, central part of infl. × 4½; 11, fruit × 1; 12 and 13, two sides of seed × 2; 14, long. sect. of seed with embryo × 2; 15, portion of testa × 16; (1, 4-15 : after Erkem (?) August 8 1913, Congo-Kinshasa, BR; 2 : after Gossweiler 9852, Angola, COI; 3 : after Roberty 3443, Guinea, G).*
 
 ## Notes
 

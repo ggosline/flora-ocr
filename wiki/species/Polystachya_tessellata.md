@@ -7,6 +7,9 @@ family: Orchidaceae
 vol: 37
 pages: 59-62
 source: sources/Orchidaceae_vol37_paddle
+countries: [Angola, Burundi, Cameroon, Central African Republic, Cote d'Ivoire, Democratic Republic of the Congo, Equatorial Guinea, Gabon, Ghana, Guinea, Kenya, Malawi, Mozambique, Nigeria, Rwanda, Sierra Leone, Sudan, Tanzania, Togo, Uganda, Zambia, Zimbabwe]
+in_region: true
+habitat: [mangrove, swamp forest, savanna, rocky ground]
 tags: [species, generated]
 ---
 # *Polystachya tessellata* Lindl.

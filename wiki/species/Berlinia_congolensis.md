@@ -7,6 +7,9 @@ family: Leguminosae
 vol: 15
 pages: 272-273
 source: sources/Leguminosae_vol15_paddle
+countries: [Gabon, Nigeria]
+in_region: true
+habit: "tree"
 tags: [species, generated]
 ---
 # *Berlinia congolensis* (Bak. f.) Keay
@@ -41,7 +44,7 @@ Brazza : 261, bord de l'Ogooué. Klaine : 365, Libreville. Le Testu : 1273, Louk
 
 ![Berlinia congolensis](../sources/Leguminosae_vol15_paddle/figures/fig_067_p0274.png)
 
-*PL. LXVII. — Berlinia congolensis (Baker, f.) Keay : I, feuille et inflorescence × 2/3; 2, grand pétale et pétale rudimentaire × 2/3. — Berlinia Craibiana Baker, f. : 3 et 4, portions d'inflorescence × 2/3.*
+*PL. LXVII. — Berlinia congolensis (Baker, f.) Keay : 1, leaf and inflorescence × 2/3; 2, large petal and rudimentary petal × 2/3. — Berlinia Craibiana Baker, f. : 3 et 4, portions of inflorescence × 2/3.*
 
 ## Notes
 

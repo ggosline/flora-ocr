@@ -7,6 +7,7 @@ family: Bignoniaceae
 vol: 27
 pages: 53-54
 source: sources/Bignoniaceae_vol27_paddle
+habit: "shrub"
 tags: [species, generated]
 ---
 # *Podranea ricasoliana* (Tanfani) Sprague

@@ -7,6 +7,9 @@ family: Annonaceae
 vol: 16
 pages: 0-0
 source: sources/Annonaceae_vol16_mineru
+countries: [Angola, Cameroon, Central African Republic, Democratic Republic of the Congo, Gabon]
+in_region: true
+habitat: [savanna]
 tags: [species, generated]
 ---
 # *Uvaria poggei* Engler et Diels
@@ -17,9 +20,7 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-in Engler,Monogr.Afr.Pflanzenf. 6,tab.7 A(19o1).—Exellet Mendonca,Consp.Fl.Angol.1,I :I2 (1937).- Boutique,Fl.Congo Belge 2 :288 (1951),pro parte.- Paiva,Mem. Soc. Brot.19 :21 (1966).
+in Engler, Monogr. Afr. Pflanzenf. 6, tab. 7 A (1901). — Exell et Mendonca, Consp. Fl. Angol. 1, 1: 12 (1937). — Boutique, Fl. Congo Belge 2: 288 (1951), pro parte. — Paiva, Mem. Soc. Brot. 19: 21 (1966).
 
 ## Type
 
@@ -31,49 +32,45 @@ Mildbread 4715, Molundou, Cameroun (holotype B; isotype HBG!)
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Widespread in the Central African Republic, Congo-Kinshasa and Angola, this species is represented in Gabon only by the variety anisotricha.
 
-Répandue en République centrafricaine,au Congo-Kinshasa et en Angola, cette espece n'est représentée au Gabon que par la varieté anisotricha.
+var. anisotricha Le Thomas (pl. 8, p. 57)
 
-var. anisotrocha Le Thomas (pl. 8, p. 57)
+Adansonia, ser. 2, 8, 2: 247 (1968).
 
-Adansonia, ser. 2,8,2,: 247 (1968).
+= Uvaria Poggei auct.: Boutique, Fl. Congo Belge 2: 288 (1951), quoad specimen Louis 13086, non Engler et Diels.
 
-= Uvaria Poggei auct. : Boutique, Fl. Congo Belge 2 : 288 (1951), quoad specimen Louis I3o86,non Engler et Diels.
+Liane 6–10 cm in diameter, with numerous branches; branchlets tomentose with short, russet-coloured stellate hairs. Leaves with petiole 4–6 mm long, canaliculate, russet-tomentose; lamina papyraceous, elliptic to obovate-elliptic, 7–12 cm long, 3.5–7 cm wide, attenuate-rounded at the base, shortly acuminate at the apex; upper surface of very young leaves tomentose-velvety with very fine stellate hairs, rapidly becoming sparse with remnants of stellate hairs that lose their branches; lower surface densely pubescent with two "strata" of hairs, as in U. Baumanii: the lower "stratum" of fine small stellate hairs, greyish-blonde, entirely covering the lamina, the upper "stratum", sparse, consisting of russet stellate hairs with numerous and larger branches. Lateral veins 18–20 pairs, regular, prominent below.
 
-Liane de 6-1o cm de diametre,a nombreuses branches; ramilles tomenteuses â poils étoilés courts,roux.Feuilles ä pétiole long de 4-6 mm,canaliculé,tomenteux roux;limbe papyracé, elliptique a obové-elliptique,long de 7-12 cm, large de 3,5-7 cm, atténué-arrondi â la base,courtement acuminé au sommet;
+Flowers solitary, extra-axillary, glaucous green becoming pale yellow. Floral bud pyramidal acute, with prominent ridges, pedicel 1–2 cm long. Sepals triangular, thick, 8–10 mm in length and width, covered with russet stellate hairs in tufts on the outside, blonde-tomentose on the inside. Petals subequal, broadly elliptic, rounded at the apex, 17–20 mm long, 10–15 mm wide, tomentose with stellate hairs on the outside, glabrescent on the inside. Stamens oblong, 1.5–2 mm long with lateral thecae, connectives enlarged-truncate above the anthers and puberulent. Carpels numerous, pubescent, with involute stigmas.
 
-face supérieure des tres jeunes feuilles tomenteuse-veloutée ä poils étoilés tres fins,devenant rapidement clairsemée des restes de poils étoilés qui perdent leurs branches; face inférieure densé- ment pubescente ä deux “ strates 》 de poils,comme chez U.Baumanii :la ‘ strate ) inférieure de petits poils étoilés fins,,grisblond,recouvre entierement le limbe,la “ strate ) supérieure, clairsemée,est constituée de poils étoilés roux á nombreuses branches et plus grands. Nervures latérales 18-2o paires,régulieres,saillantes en dessous.
+Fruits unknown.
 
-Fleurs solitaires, extra-axillaires, vert glauque devenant jaune créme.Bouton floral pyramidal aigu, a aretes saillantes, pédicelle long de I-2 cm. Sépales triangulaires,épais,de 8-1o mm de longueur et de largeur, couverts de poils étoiles roux, en touffes, a l'extérieur, tomenteux blonds ä l'intérieur.Pétales subégaux, largement elliptiques,arrondis au sommet, longs de 17-2o mm, larges de Io-15 mm,tomenteux a poils étoilés a l'extérieur, glabrescents a l'intérieur. Etamines oblongues,longues de 1,5-2 mm a theques latérales, connectifs élargis-tronqués audessus des antheres et pubérulents. Carpelles nombreux,pubescents,ä stigmates involutés.
+The fruit of the typical variety is composed of long-stipitate mericarps, subglobose, smooth, tomentellous, mucronate at the apex; the stipe is lateral. Seeds have a finely alveolate testa.
 
-Fruits inconnus.
+By its foliage with dense "bistratified" pubescence, this variety resembles U. Baumanii greatly, but the calyx of this latter species is cupuliform in the bud.
 
-Le fruit de la varieté type est composé de méricarpes longuement stipités,subglobuleux, lisses,tomentelleux,mucronés au sommet;le stipe est latéral. Les graines ont un testa finement alveolé.
+Variety widespread in Gabon and Congo-Kinshasa.
 
-Par son feuillage ä pubescence dense “ bistratifiée ),cette variété ressemble beaucoup á U.Baumannii,mais le calice de cette derniere espéce est cupuliforme dans le bouton.
+It grows in open terrain, at the edge of dense humid forest, in company with U. Baumanii and U. scabrida.
 
-Variété répandue au Gabon et au Congo-Kinshasa.
+18. Uvaria osmontha Diels
 
-Elle croit en terrain découvert,ä la lisiere de la forét dense humide,en compagnie de U.Baumannii et de U.scabrida.
+Bot. Jahrb. 53: 436 (1915).
 
-18.Uvaria osmontha Diels
+= Uvaria scaberrima Exell, Journ. of Bot. 73, Suppl. Polypet.: 3 (1935). — Exell et Mendonca, Conspect. Angol. 1, 1: 11, tab. 1 et 2 (1937). — Paiva, Mem. Soc. Brot. 19: 11 (1966), syn. nov.
 
-Bot.Jahrb.53:436 (1915).
+Sarmentose shrub or liane reaching 4–6 m in height; branches dark brownish-black, branchlets densely covered with russet-coloured stellate hairs, glabrescent. Leaves with petiole 2–3 mm long, densely tomentose-stellate russet; lamina papyraceous to subcoriaceous, elliptic to elliptic-oblong, 4.5–12 cm long, 2–5 cm wide, acute to shortly acuminate at the apex, rounded to slightly cordate at the base; upper surface finely scabrous, sparsely covered with punctiform hairs, interspersed with some longer fasciculate hairs, lower surface densely covered with blonde-russet stellate hairs, obscuring the entire lamina. Midrib impressed above, pubescent with fasciculate hairs, prominent below. Lateral veins 9–12 pairs, little prominent on the lower surface.
 
-= Uvaria scaberrima Exell, Journ.of Bot.73,Suppl. Polypet.:3 (1935).- Exell et Mendonga,Conspect.Angol. I,I :I1,tab.I et 2 (1937).- Paiva, Mem. Soc.Brot.I9 :II (1966),syn. nov.
+Flowers solitary or 2–3 fasciculate, extra-axillary, with pedicel 1–3 cm long, densely pubescent-stellate russet. Bracteoles elliptic, approximately 2 mm long, tomentose-stellate. Floral bud ovoid-subglobose, initially entirely enveloped by the calyx becoming subsequently cupuliform, tearing at anthesis into 3 ovate-orbicular lobes, 1.2–1.5 cm long, 0.8–1 cm wide, covered with russet stellate hairs on the outside. Petals yellowish-green, ovate-oblong to obovate-oblong, subacute, 2.5–3.5 cm long, 1–1.8 cm wide, pubescent-stellate russet on both surfaces, more densely on the outside. Stamens 1–1.25 mm long, oblong with lateral thecae, connectives enlarged-truncate above the anthers, puberulent. Carpels numerous, 3–4 mm long, ovaries oblong densely tomentose-stellate russet, stigmas involute, glabrous. 16–18 ovules in two rows.
 
-Arbuste sarmenteux ou liane atteignant 4-6 m de hauteur; rameaux hrun noiratre,ramilles densément couvertcs dc poils étoilés roux, glabrescentes. Feuilles a pétiole long de 2-3 mm, densément tomenteux-stellé roux; limbe papyracé a subcoriace, elliptique á elliptique-oblong,long de 4,5-12 cm,large de 2-5 cm, aigu á courtement acuminé au sommet,arrondi ä légerement cordé a la base;face supérieure finement scabre,éparsement couverte de poils ponctiformes,entremélés de quelques poils fasciculés plus longs, face inférieure densément couverte de poils étoilés blond roux,cachant tout le limbe.Nervure médiane imprimée au-dessus,pubescente ä poils fasciculés,saillante en dessous. Nervures latérales 9-12 paires, peu proéminentes a la face infé- rieure.
+Fruits with pedicel 2–2.5 cm long, pubescent-russet; mericarps light brown-russet, cylindric, 1.5–3 cm long, 5–12 mm wide, apiculate at the apex, slightly constricted between the seeds, verrucose, tomentose with stellate hairs; lateral stipites, 1–1.5 cm long. Seeds 4–8, in two rows, approximately 7 mm long.
 
-Fleurs solitaires ou 2-3 fasciculées,extra-axillires,a pédicelle long de 1-3 cm,densément pubescent-stellé roux.Bractéoles elliptiques,longues de 2 mm environ, tomenteuses-stellées. Bouton floral ovoide-subglobuleux,d'abord entiérement enveloppé par le calice devenant ensuite cupuliforme,se déchirant á l'anthese en 3 lobes oves-orbiculaires,longs de 1,2-1,5 cm,larges de o,8-1 cm, couverts de poils étoilés roux a l'extérieur. Pétales jaune verdatre, oves-oblongs a oboves-oblongs, subaigus, longs de 2,5-3,5 cm, larges de 1-1,8 cm, pubescents-stellés roux sur les deux faces, plus densément a 'exterieur. Etamines longues de 1-1,25 mm, oblongues á theques latérales, connectifs élargis-tronqués audessus des antheres,pubérulents.Carpelles nombreux, longs de 3-4 mm,ovaires oblongs densément tomenteux-stelles roux, stigmates involutés,glabres.16-18 ovules bisériés.
+The vegetative apparatus of U. Schweinfurthii Engl. et Diels, a bushy shrubby species of savanna and forest galleries, in the Central African Republic, East Africa and Congo-Kinshasa, resembles that of U. osmontha greatly. The indumentum of the lower surface of the leaves is however less dense, the calyx is not cupuliform in the bud but opens normally into three valvate lobes and the stipites of the mericarps are median.
 
-Fruits á pédicelle long de 2-2,5 cm,pubescent-roux;méricarpes brun-roux-clair,cylindriques, longs de 1,5-3 cm, larges de 5-12 mm,apicules au sommet, légerement contractés entre les graines, verruculeux, tomenteux a poils étoilés;stipes laté- raux,longs de 1-1,5 cm. Graines 4-8,bisériees, longues de 7 mm environ.
+The isotype of U. scaberrima Exell (Gossweiler 6311, COI!) which we examined bore only young buds and a single mericarp, but it does not appear to us possible to distinguish this species from U. osmontha.
 
-L'appareil végétatif d'U. Schweinfurthii Engl. et Diels, espece arbustive buissonnante de savane et de galeries forestieres, en République centrafricaine,Afrique orientale et Congo-Kinshasa, ressemble beaucoup ä celui d'U.osmontha.L'indument de la face inférieure des feuilles est cependant moins dense,le calice n'est pas cupuliforme dans le bouton mais s'ouvre normalement en trois lobes valvaires et les stipes des méricarpes sont médians.
-
-L'isotype d'U. scaberrima Exell (Gossweiler 6311, COI!) que nous avons examiné,ne portait que de jeunes boutons et un seul méricarpe,mais il ne nous parait pas possible de distinguer cette espece d'U.osmontha.
-
-Espéce de foret dense humide,au Cameroun,Gabon et en Angola.
+Species of dense humid forest, in Cameroon, Gabon and Angola.
 
 ## Specimens examined
 

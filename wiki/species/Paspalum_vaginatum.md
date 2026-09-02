@@ -7,6 +7,7 @@ family: Gramineae
 vol: 05
 pages: 42-44
 source: sources/Gramineae_vol05_paddle
+habit: "herb"
 tags: [species, generated]
 ---
 # *Paspalum vaginatum* Sw.

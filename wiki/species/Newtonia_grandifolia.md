@@ -7,6 +7,10 @@ family: Leguminosae
 vol: 31
 pages: 59-60
 source: sources/Leguminosae_vol31_paddle
+countries: [Cameroon]
+in_region: true
+habit: "tree"
+habitat: [coastal]
 tags: [species, generated]
 ---
 # *Newtonia grandifolia* J.-F. Villiers
@@ -49,7 +53,7 @@ Fleury in Chevalier 33579 $ ^{1} $, 33583, env. Libreville. INEF s.n., forêt de
 
 ![Newtonia grandifolia](../sources/Leguminosae_vol31_paddle/figures/fig_025_p0059.png)
 
-*FIG. 1. – Newtonia grandifolia J.-F. Villiers : 1, foliole × 2,6 ; 2, stipule × 2,5 ; 3, coupe schématique du pétiole ; 4, coupe schématique du rachis ; 5, coupe schématique de l'axe de la penne. (Fleury in Chevalier 33583). – N. leucocarpa (Harms) Gilbert & Boutique ; 6, foliole × 4,6 ; 7, stipule × 2,2 ; 8, coupe schématique du pétiole ; 9, coupe schématique du rachis ; 10, coupe schématique de l'axe de la penne. (6, 8-10, Fleury in Chevalier 33590 ; 7, Farron 4968 (Congo)).*
+*FIG. 1. – Newtonia grandifolia J.-F. Villiers : 1, leaflet × 2,6 ; 2, stipule × 2,5 ; 3, schematic section of the petiole ; 4, schematic section of the rachis ; 5, schematic section of the pinna axis. (Fleury in Chevalier 33583). – N. leucocarpa (Harms) Gilbert & Boutique ; 6, leaflet × 4,6 ; 7, stipule × 2,2 ; 8, schematic section of the petiole ; 9, schematic section of the rachis ; 10, schematic section of the pinna axis. (6, 8-10, Fleury in Chevalier 33590 ; 7, Farron 4968 (Congo)).*
 
 ## Notes
 

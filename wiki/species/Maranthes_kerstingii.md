@@ -7,6 +7,10 @@ family: Scytopetalaceae
 vol: 24
 pages: 114-118
 source: sources/Chrysobalanaceae_vol24_paddle
+countries: [Cameroon, Central African Republic, Democratic Republic of the Congo, Ghana, Liberia, Nigeria, Togo]
+in_region: true
+habit: "tree"
+habitat: [savanna]
 tags: [species, generated]
 ---
 # *Maranthes kerstingii* (Engler) Prance
@@ -59,7 +63,7 @@ kom (babouté); kanga (baya)
 
 ![Maranthes kerstingii](../sources/Chrysobalanaceae_vol24_paddle/figures/fig_033_p0115.png)
 
-*PL. 33. — Maranthes kerstingii (Engl.) Prance : 1, rameau avec fleurs × 2/3; 2, pétiole × 2; 3, bouton floral × 4/3; 4, coupe long. fl. (pét. excl.) × 8/3; 5, pétale × 8/3; 6, fruit × 4/3. (1-5, Leeuwenberg 7686; 6, Aubréville 778).*
+*PL. 33. — Maranthes kerstingii (Engl.) Prance : 1, branch with flowers × 2/3; 2, petiole × 2; 3, flower bud × 4/3; 4, long. section fl. (pet. excl.) × 8/3; 5, petal × 8/3; 6, fruit × 4/3. (1-5, Leeuwenberg 7686; 6, Aubréville 778).*
 
 ## Notes
 

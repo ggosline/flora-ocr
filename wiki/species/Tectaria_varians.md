@@ -22,13 +22,11 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 — C. Chr., Ind., Suppl. 3 : 186 (1934); emend. Tard., Mém. IFAN 28 : 142, pl. 27, f. 5 (1953). — Alston, FWTA : 73 (1959).
 
-Rhizome rampant, épais, à frondes espacées, pétiole long de 70-90 cm, brun clair ou straminé, nu, canaliculé, sauf à l'extrême base, plus foncée, portant d'étroites écailles brun foncé, concolores, à bords entiers. Límbe de 40-50 cm sur 20-30 de large, penné. Pennes latérales 4-5 paires, alternes, espacées de 4-5 cm, ayant 13-17 cm de long sur 4-5 cm de large, les inférieures très courtemment pétiolées, les supérieures sessiles, à base cunéiforme, extrémité brusquement rétrécie en une pointe longue de 2 cm, à marges entières ou irrégulièrement ondulées. Présence de bourgeon à l'aisselle des pennes latérales. Penne terminale semblable aux latérales, très courtement décurrente, portant parfois, à la base, un lobe aigu, long de 4-5 cm. Texture subcoriace. Coloration généralement brunissante sur le sec. Surfaces nues. Nervilles formant deux ou trois rangées d'aréoles allongées entre les nervures latérales, nervilles incluses. Sores irrégulièrement disséminées, allongés, épars, le plus souvent sans indusie, situés sur le trajet d'une nerville.
+Rhizome creeping, thick, with fronds spaced apart; petiole 70-90 cm long, pale brown or stramineous, naked, canaliculate except at the extreme base, which is darker and bearing narrow dark brown scales, concolorous with entire margins. Lamina 40-50 cm by 20-30 cm wide, pinnate. Lateral pinnae 4-5 pairs, alternate, spaced 4-5 cm apart, 13-17 cm long by 4-5 cm wide, the lower ones very shortly petiolate, the upper ones sessile, with cuneate base and apex abruptly narrowed into a point 2 cm long, with entire or irregularly undulate margins. Presence of a bud at the axil of the lateral pinnae. Terminal pinna similar to the lateral ones, very shortly decurrent, sometimes bearing at the base an acute lobe 4-5 cm long. Texture subcoriaceous. Coloration generally brownish when dry. Surfaces glabrous. Veinlets forming two or three rows of elongate areoles between the lateral veins, veinlets included. Sori irregularly scattered, elongate, sparse, most often without indusium, situated on the course of a veinlet.
 
-Guinée, Côté-d'Ivoire, Ghana, Nigeria, Cameroun, Angola. Sol rocheux, en rain forest. Forêt à Gilbertiodendron Dewewrei.
+Guinea, Ivory Coast, Ghana, Nigeria, Cameroon, Angola. Rocky soil, in rain forest. Forest with Gilbertiodendron Dewewrei.
 
 ## Specimens examined
 
@@ -48,7 +46,7 @@ Le Testu : 1558, Mayombe-Bayaka; sans n., région de Nyanga.
 
 ![Tectaria varians](../sources/Aspidiaceae_vol08_paddle/figures/fig_031_p0181.png)
 
-*PL. XXVIII.— Tectaria angelicifolia (Schum.) Cop. (Pobéguin 60) : I, aspect général × 1 /2; 2, détail de nervation et sores × 2. — Tectaria varians (Moore) C. Chr. (Annet 220) : 3, aspect général × 1 /2; 4, détail, nervation et sores × 2.*
+*PL. XXVIII.— Tectaria angelicifolia (Schum.) Cop. (Pobéguin 60) : 1, general aspect × 1/2; 2, detail of venation and sori × 2. — Tectaria varians (Moore) C. Chr. (Annet 220) : 3, general aspect × 1/2; 4, detail, venation and sori × 2.*
 
 ## Notes
 

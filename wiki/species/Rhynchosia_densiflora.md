@@ -7,6 +7,12 @@ family: Leguminosae
 vol: 49
 pages: 335-336
 source: sources/Millettiaspeciesfabaceae_vol49_liteparse
+countries: [Angola, Gabon, Malawi, Zambia]
+in_region: true
+subdivisions:
+  Gabon: [Estuaire]
+habit: "herb"
+altitude_m: "1350"
 tags: [species, generated]
 ---
 # *Rhynchosia densiflora* (Roth) DC. subsp. debilis (G.Don) Verdc.

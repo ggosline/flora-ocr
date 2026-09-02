@@ -7,6 +7,9 @@ family: Leguminosae
 vol: 49
 pages: 50-52
 source: sources/Millettiaspeciesfabaceae_vol49_liteparse
+countries: [Gabon]
+in_region: true
+habit: "herb"
 tags: [species, generated]
 ---
 # *Arachis hypogaea* L. Planche 13

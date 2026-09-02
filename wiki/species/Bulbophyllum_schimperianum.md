@@ -7,6 +7,9 @@ family: Orchidaceae
 vol: 36
 pages: 203-205
 source: sources/Orchidaceae_vol36_paddle
+countries: [Cameroon, Central African Republic, Gabon, Nigeria, Uganda]
+in_region: true
+habitat: [savanna]
 tags: [species, generated]
 ---
 # *Bulbophyllum schimperianum* Kraenzl.
@@ -47,7 +50,7 @@ de Wilde 215, km 5, road from the hydroelectric station at Asok to the Riv. Tchi
 
 ![Bulbophyllum schimperianum](../sources/Orchidaceae_vol36_paddle/figures/fig_107_p0207.png)
 
-*PL. 102. – Bulbophyllum schimperianum Kraenzl.: A, vue générale ; B, fleur ; C, pièces florales ; D, labelle ; E, labelle et gynostème en position naturelle, vue latérale ; F, anthère ; G, pollinies (A-G, ex VERMEULEN, 1987)*
+*PL. 102. – Bulbophyllum schimperianum Kraenzl.: A, general view ; B, flower ; C, floral parts ; D, labellum ; E, labellum and gynostemium in natural position, lateral view ; F, anther ; G, pollinia (A-G, ex VERMEULEN, 1987)*
 
 ## Notes
 

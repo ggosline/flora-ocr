@@ -7,6 +7,8 @@ family: Moraceae
 vol: 26
 pages: 137-141
 source: sources/Moraceae_vol26_paddle
+countries: [Cameroon, Cote d'Ivoire, Equatorial Guinea, Ghana, Guinea, Kenya, Nigeria, Sao Tome and Principe, Senegal, Uganda, Zambia, Zimbabwe]
+in_region: true
 tags: [species, generated]
 ---
 # *Ficus sur* Forsskål
@@ -107,11 +109,11 @@ Chevalier 26864, près Kango, sur le Komo (fig., oct.). Fleury in Chevalier 2654
 
 ![Ficus sur](../sources/Moraceae_vol26_paddle/figures/fig_038_p0140.png)
 
-*PL. 37. – Ficus sur Forssk.: 1, rameau avec feuilles × 1; 2, figues × 1 (1, Annet 468, Cameroun; 2, Jacques-Félix 4672, Cameroun).*
+*PL. 37. – Ficus sur Forssk.: 1, branch with leaves × 1; 2, figs × 1 (1, Annet 468, Cameroon; 2, Jacques-Félix 4672, Cameroon).*
 
 ![Ficus sur](../sources/Moraceae_vol26_paddle/figures/fig_039_p0142.png)
 
-*PL. 38. - Ficus sur Forssk.: 1, rameau feuillé; 2, rameau avec figues (De Wilde W.c.s. 4139, Cameroun).*
+*PL. 38. - Ficus sur Forssk.: 1, leafy branch; 2, branch with figs (De Wilde W.c.s. 4139, Cameroon).*
 
 ## Notes
 

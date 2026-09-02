@@ -7,6 +7,10 @@ family: Apocynaceae
 vol: 59
 pages: 150-153
 source: sources/Apocynaceae_vol59_liteparse
+countries: [Angola, Cameroon, Democratic Republic of the Congo, Equatorial Guinea, Gabon, Nigeria, Republic of the Congo]
+in_region: true
+habit: "liana"
+habitat: [secondary forest]
 tags: [species, generated]
 ---
 # *Landolphia reticulata* Hallier f. Planche 66

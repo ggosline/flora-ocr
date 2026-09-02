@@ -7,6 +7,10 @@ family: Pontederiaceae
 vol: 40
 pages: 63-64
 source: sources/Pontederiaceae_vol40_liteparse
+countries: [Gabon]
+in_region: true
+habit: "herb"
+altitude_m: "1700"
 tags: [species, generated]
 ---
 # *Eichhornia crassipes* (Mart.) Solms

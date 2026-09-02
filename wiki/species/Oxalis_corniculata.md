@@ -7,6 +7,11 @@ family: Oxalidaceae
 vol: 38
 pages: 48-50
 source: sources/Oxalidaceae_vol38_liteparse
+countries: [Gabon]
+in_region: true
+subdivisions:
+  Gabon: [Ogooué-Ivindo, Woleu-Ntem]
+habit: "herb"
 tags: [species, generated]
 ---
 # *Oxalis corniculata* L. ssp. corniculata var. corniculata

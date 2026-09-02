@@ -7,6 +7,13 @@ family: Phyllanthaceae
 vol: 43
 pages: 32-33
 source: sources/Phyllanthaceae_vol43_liteparse
+countries: [Gabon]
+in_region: true
+subdivisions:
+  Gabon: [Estuaire, Ngounié]
+habit: "tree"
+habitat: [secondary forest]
+altitude_m: "500–700"
 tags: [species, generated]
 ---
 # *Cleistanthus ngounyensis* Pellegr.

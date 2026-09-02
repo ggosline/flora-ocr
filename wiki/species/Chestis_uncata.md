@@ -7,6 +7,9 @@ family: Connaraceae
 vol: 33
 pages: 64-67
 source: sources/Connaraceae_vol33_paddle
+countries: [Gabon]
+in_region: true
+habit: "liana"
 tags: [species, generated]
 ---
 # *Chestis uncata* Lemmens
@@ -54,7 +57,7 @@ Breteler & Lemmens 8304, Nzogomitang, Libreville-Kango (fr., Oct.), LBV, WAG ; 8
 
 ![Chestis uncata](../sources/Connaraceae_vol33_paddle/figures/fig_024_p0066.png)
 
-*PL. 18. – Cnestis uncata Lemmens: 1, feuille sur son rameau × 2/3; 2, fleur, vue partielle × 6; 3, rameau avec fleurs et follicules × 2/3; 4, follicules × 1. (1, 3, 4. Breteler & Lemmens 8340 et 2. 8393). – Repris de AUWP 89 (6).*
+*PL. 18. – Cnestis uncata Lemmens: 1, leaf on its branch × 2/3; 2, flower, partial view × 6; 3, branch with flowers and follicles × 2/3; 4, follicles × 1. (1, 3, 4. Breteler & Lemmens 8340 et 2. 8393). – Reprinted from AUWP 89 (6).*
 
 ## Notes
 

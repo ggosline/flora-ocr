@@ -7,6 +7,12 @@ family: Cyperaceae
 vol: 44
 pages: 212-212
 source: sources/Cyperaceae_vol44_liteparse
+countries: [Democratic Republic of the Congo, Gabon]
+in_region: true
+subdivisions:
+  Gabon: [Ogooué-Ivindo, Woleu-Ntem]
+habit: "herb"
+altitude_m: "300–500"
 tags: [species, generated]
 ---
 # *Scleria goossensii* De Wild. Figure 25b

@@ -7,6 +7,7 @@ family: Leguminosae
 vol: 15
 pages: 205-205
 source: sources/Leguminosae_vol15_paddle
+habit: "tree"
 tags: [species, generated]
 ---
 # *Anthonotha lamprophylla* (Harms) Léonard (P. 49, p. 205)
@@ -39,7 +40,7 @@ Gauchotte : 1151, Oguémoué. Klaine : s. n., Fernan Vaz (fr. et fl. juin). N. H
 
 ![Anthonotha lamprophylla](../sources/Leguminosae_vol15_paddle/figures/fig_049_p0206.png)
 
-*PL. XLIX. — Anthonotha lamprophylla (Harms) Léonard : 1, folioles × 2/3; 2, inflorescence × 2/3; 3, fleur × 2; 4, étamines et pétales × 2; 5, fruit × 2/3.*
+*PL. XLIX. — Anthonotha lamprophylla (Harms) Léonard : 1, leaflets × 2/3; 2, inflorescence × 2/3; 3, flower × 2; 4, stamens and petals × 2; 5, fruit × 2/3.*
 
 ## Notes
 

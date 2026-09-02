@@ -7,6 +7,8 @@ family: Flacourtiaceae
 vol: 34
 pages: 10-11
 source: sources/Flacourtiaceae_vol34_paddle
+countries_incomplete: true
+habit: "herb"
 tags: [species, generated]
 ---
 # *Flacourtia indica* (Burm. f.) Merr.
@@ -61,7 +63,7 @@ Dibata 171, Okala, Libreville, 0°29'N- 9°25'E, 5/6/1987, fl. ♂ (WAG). Hallé
 
 ![Flacourtia indica](../sources/Flacourtiaceae_vol34_paddle/figures/fig_001_p0012.png)
 
-*PL. 1. – Flacourtia indica (Burm. f.) Merr.: 1, rameau avec inflorescences ∅; 2, bouton floral ∅; 3, fleur ∅; 4, rameau avec fruit; 5, détail du fruit; 6, vue supérieure du fruit; 7, graine. (1-3. Dibata 171; 4-7. Hallé & Villiers 4251). – F. vogelii Hook. f.: 8, rameau avec jeunes fruits; 9 et 10, fruits; 11, coupe longitudinale du fruit; 12, coupe transversale du fruit. (8-12. Wilks 480).*
+*PL. 1. – Flacourtia indica (Burm. f.) Merr.: 1, branch with inflorescences ∅; 2, floral bud ∅; 3, flower ∅; 4, branch with fruit; 5, detail of the fruit; 6, upper view of the fruit; 7, seed. (1-3. Dibata 171; 4-7. Hallé & Villiers 4251). – F. vogelii Hook. f.: 8, branch with young fruits; 9 and 10, fruits; 11, longitudinal section of the fruit; 12, transverse section of the fruit. (8-12. Wilks 480).*
 
 ## Notes
 

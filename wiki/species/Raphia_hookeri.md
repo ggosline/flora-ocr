@@ -7,6 +7,11 @@ family: Arecaceae
 vol: 53
 pages: 58-60
 source: sources/Arecaceae_vol53_liteparse
+countries: [Angola, Cameroon, Democratic Republic of the Congo, Equatorial Guinea, Gabon, Gambia, Republic of the Congo]
+in_region: true
+subdivisions:
+  Gabon: [Estuaire, Haut-Ogooué, Moyen-Ogooué, Nyanga]
+altitude_m: "200"
 tags: [species, generated]
 ---
 # *Raphia hookeri* G.Mann & H.Wendl. Planche 20, Figure 4A,B

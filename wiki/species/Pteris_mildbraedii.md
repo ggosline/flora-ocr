@@ -7,6 +7,8 @@ family: Adiantaceae
 vol: 08
 pages: 118-119
 source: sources/Adiantaceae_vol08_paddle
+countries: [Ghana, Guinea, Nigeria]
+in_region: true
 tags: [species, generated]
 ---
 # *Pteris mildbraedii* Hieronymus

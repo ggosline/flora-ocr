@@ -7,6 +7,12 @@ family: Pontederiaceae
 vol: 40
 pages: 64-64
 source: sources/Pontederiaceae_vol40_liteparse
+countries: [Gabon, Gambia, Madagascar, Senegal, Uganda]
+in_region: true
+subdivisions:
+  Gabon: [Ngounié]
+habit: "herb"
+altitude_m: "1500"
 tags: [species, generated]
 ---
 # *Eichhornia natans* (P.Beauv.) Solms Planche 15

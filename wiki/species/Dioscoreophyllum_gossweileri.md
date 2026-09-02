@@ -6,18 +6,15 @@ genus: Dioscoreophyllum
 family: Menispermaceae
 synonyms:
   - "Dioscoreophyllum triandrum Troupin, Bull. Jard. Bot. État Bruxelles 19: 433 (1949)"
-habit: twining herb
-habitat: [primary forest, flooded forest]
-altitude_m: "300–430"
-countries: [Angola, Democratic Republic of the Congo, Gabon, Republic of the Congo]
-subdivisions:
-  Angola: [Cabinda]
-  Gabon: [Haut-Ogooué, Ogooué-Ivindo]
-in_region: true
 treatments:
   - vol: 60
     pages: "44–46"
     source: sources/Menispermaceae_vol60_liteparse
+countries: [Angola, Democratic Republic of the Congo, Gabon, Republic of the Congo]
+in_region: true
+subdivisions:
+  Gabon: [Haut-Ogooué, Ogooué-Ivindo]
+habit: "herb"
 tags: [species, herb]
 ---
 

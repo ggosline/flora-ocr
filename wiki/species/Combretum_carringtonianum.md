@@ -7,6 +7,9 @@ family: Combretaceae
 vol: 35
 pages: 23-24
 source: sources/Combretaceae_vol35_paddle
+countries: [Angola, Gabon]
+in_region: true
+habit: "liana"
 tags: [species, generated]
 ---
 # *Combretum carringtonianum* Exell & Garcia
@@ -59,7 +62,7 @@ Walker s.n, St Martin (fr. et plantules), P.
 
 ![Combretum carringtonianum](../sources/Combretaceae_vol35_paddle/figures/fig_005_p0026.png)
 
-*PL. 5. – Combretum carringtonianum Exell & Garcia : A, rameau florifère × 1/2 ; B, feuille, détail × 1 ; C, fleur × 5 ; D, fleur, coupe longitudinale × 5 ; E, fruit × 1/2 ; F, fruit & graine, coupe transversale ; G, fruit sans la graine, coupe transversale (A, B, Evrard 6206 ; C, D, Germain 5087 ; E-G, Bamps 494). – Dessins de D. LEYNIERS reproduits avec l'autorisation du Département des Spermatophytes et Ptéridophytes du Jardin Botanique National de MEISE (Belgique).*
+*PL. 5. – Combretum carringtonianum Exell & Garcia : A, flowering branch × 1/2 ; B, leaf, detail × 1 ; C, flower × 5 ; D, flower, longitudinal section × 5 ; E, fruit × 1/2 ; F, fruit & seed, transverse section ; G, fruit without the seed, transverse section (A, B, Evrard 6206 ; C, D, Germain 5087 ; E-G, Bamps 494). – Drawings by D. LEYNIERS reproduced with permission of the Department of Spermatophytes and Pteridophytes of the National Botanical Garden of MEISE (Belgium).*
 
 ## Notes
 

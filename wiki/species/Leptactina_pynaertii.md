@@ -7,6 +7,9 @@ family: Rubiaceae
 vol: 17
 pages: 84-85
 source: sources/Rubiaceae_vol17_paddle
+countries: [Cameroon, Central African Republic, Gabon]
+in_region: true
+habit: "shrub"
 tags: [species, generated]
 ---
 # *Leptactina pynaertii* De Wild.

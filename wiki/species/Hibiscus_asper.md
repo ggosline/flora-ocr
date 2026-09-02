@@ -7,6 +7,12 @@ family: Malvaceae
 vol: 45
 pages: 64-66
 source: sources/Malvaceae_vol45_liteparse
+countries: [Angola, Gabon, Madagascar, Senegal]
+in_region: true
+subdivisions:
+  Gabon: [Estuaire, Nyanga, Ogooué-Maritime]
+habit: "herb"
+altitude_m: "0–130"
 tags: [species, generated]
 ---
 # *Hibiscus asper* Hook.f. Planche 16

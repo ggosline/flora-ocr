@@ -5,11 +5,11 @@ authority: (Willd. ex Spr.) Sw. et Kell.
 genus: Citropsis
 family: Rutaceae
 synonyms: [Citrus articulata, Limonia preussii, Citropsis preussii, Limonia mirabilis, Citropsis mirabilis]
-countries: [Cameroon, Gabon, Democratic Republic of the Congo]
 range_note: "Tropical African forest region."
-in_region: true
-habit: spiny shrub or small tree
 treatments: [{vol: 6, pages: "94–97", source: sources/Rutaceae_vol6_paddle}]
+countries: [Cameroon, Gabon]
+in_region: true
+habit: "tree"
 tags: [species]
 ---
 

@@ -7,6 +7,10 @@ family: Leguminosae
 vol: 49
 pages: 247-247
 source: sources/Millettiaspeciesfabaceae_vol49_liteparse
+countries: [Gabon]
+in_region: true
+habit: "herb"
+altitude_m: "1650"
 tags: [species, generated]
 ---
 # *Macroptilium atropurpureum* (Moç. & Sessé ex DC.) Urb. Planche 83.1–7

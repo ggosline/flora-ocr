@@ -7,6 +7,8 @@ family: Orchidaceae
 vol: 36
 pages: 91-91
 source: sources/Orchidaceae_vol36_paddle
+countries: [Gabon]
+in_region: true
 tags: [species, generated]
 ---
 # *Vanilla chalottii* Finet
@@ -17,15 +19,11 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Feuilles pétiolées, 6,5-8 × 0,9-1,1 cm, étroitement lancéolées, charnues. Sépale dorsal membraneux, semi-transparent, elliptique-oblong, subobtus ; sépales latéraux elliptiques-arrondis à elliptiques-ovés, sommet aigu oblique. Pétales falciformes, oblong-lancéolés, aigus, membraneux, médiane épaissie du côté externe. Labelle profondément sacciforme en position naturelle, 3-lobes visibles si étalé : le médian 2 fois plus court que les latéraux et fortement réfléchi au sommet, avec une touffe de poils charnus longs de 3 mm au centre ; lobes latéraux elliptiques-ovés, largement arrondis au sommet, dressés. – Pl. 41, p. 87.
+Petiolate leaves, 6.5-8 × 0.9-1.1 cm, narrowly lanceolate, fleshy. Dorsal sepal membranous, semi-transparent, elliptic-oblong, subobtuse; lateral sepals elliptic-rounded to elliptic-ovate, apex acute oblique. Petals falciform, oblong-lanceolate, acute, membranous, median thickened on the external side. Lip deeply saccate in natural position, 3-lobed visible if spread: the median lobe twice shorter than the lateral ones and strongly reflexed at the apex, with a tuft of fleshy hairs 3 mm long at the centre; lateral lobes elliptic-ovate, broadly rounded at the apex, erect. – Pl. 41, p. 87.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-actuellement connue que par le type du Gabon sans indication stationnelle
+currently known only from the type specimen from Gabon with no locality information
 
 ## Figures
 

@@ -7,6 +7,12 @@ family: Leguminosae
 vol: 49
 pages: 183-185
 source: sources/Millettiaspeciesfabaceae_vol49_liteparse
+countries: [Democratic Republic of the Congo, Gabon]
+in_region: true
+subdivisions:
+  Gabon: [Haut-Ogooué]
+habit: "herb"
+altitude_m: "640"
 tags: [species, generated]
 ---
 # *Dolichos subcapitatus* R.Wilczek var. subcapitatus Planche 60

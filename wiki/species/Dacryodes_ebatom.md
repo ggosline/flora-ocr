@@ -5,11 +5,9 @@ authority: Aubr. et Pellegr.
 genus: Dacryodes
 family: Burseraceae
 synonyms: []
-countries: [Gabon]
-in_region: true
-habit: tree
-habitat: [river margin swamp]
 treatments: [{vol: 3, pages: "91", source: sources/Burseraceae_vol3_paddle}]
+countries_incomplete: true
+habit: "tree"
 tags: [species]
 ---
 

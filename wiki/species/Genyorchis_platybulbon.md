@@ -7,6 +7,8 @@ family: Orchidaceae
 vol: 36
 pages: 212-215
 source: sources/Orchidaceae_vol36_paddle
+countries: [Cameroon, Gabon]
+in_region: true
 tags: [species, generated]
 ---
 # *Genyorchis platybulbon* Schltr.

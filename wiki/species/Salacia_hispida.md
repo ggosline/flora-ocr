@@ -7,6 +7,9 @@ family: Celastraceae
 vol: 29
 pages: 137-139
 source: sources/Celastraceae_vol29_paddle
+countries: [Cameroon, Democratic Republic of the Congo, Gabon, Nigeria]
+in_region: true
+habit: "liana"
 tags: [species, generated]
 ---
 # *Salacia hispida* Blakelock

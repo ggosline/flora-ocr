@@ -5,12 +5,8 @@ authority: Engl.
 genus: Canarium
 family: Burseraceae
 synonyms: [Canarium occidentale A. Chev., Canarium velutinum Guillaumin, Canarium Thollonianum Guillaumin]
-countries: [Guinea-Bissau, Gabon, Ethiopia, Tanzania, Angola]
-countries_incomplete: true
-in_region: true
-habit: large tree
-habitat: [secondary forest]
 treatments: [{vol: 3, pages: "92–95", source: sources/Burseraceae_vol3_paddle}]
+habit: "tree"
 tags: [species]
 ---
 

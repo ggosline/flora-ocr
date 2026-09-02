@@ -5,20 +5,17 @@ authority: Asch.
 genus: Halodule
 family: Cymodoceaceae
 synonyms: [Diplanthera wrightii (Asch.) Asch.]
-countries: [Gabon, São Tomé and Príncipe, Angola]
-subdivisions:
-  Gabon: [Estuaire]
 range_note: Atlantic coasts of America and Africa; the source states an African range from Mali to São Tomé and Angola.
-countries_incomplete: true
-in_region: true
-habit: submerged marine herb
-habitat: [shallow marine water, sandy seabed, muddy seabed, mangroves]
-altitude_m: "sea level; to about 3 m water depth"
 treatments:
   - vol: 52
     year: 2018
     pages: "15–17"
     source: sources/Cymodoceaceae_vol52_liteparse
+countries: [Gabon]
+in_region: true
+subdivisions:
+  Gabon: [Estuaire]
+habit: "herb"
 tags: [species]
 ---
 

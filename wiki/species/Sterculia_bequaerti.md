@@ -7,6 +7,7 @@ family: Sterculiaceae
 vol: 02
 pages: 17-20
 source: sources/Sterculiaceae_vol02_paddle
+habit: "tree"
 tags: [species, generated]
 ---
 # *Sterculia bequaerti* De Wildeman.
@@ -17,31 +18,29 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+ref. orig. — De Wild. Pl. Bequaert. I, 519 (1922). — Pellegr. Sterc. Gabon in Mém. S. B. Fr., 30 (1950-1951).
 
-réf. orig. — De Wild. Pl. Bequaert. I, 519 (1922). — Pellegr. Sterc. Gabon in Mém. S. B. Fr., 30 (1950-1951).
+Large tree reaching 1 m in diam. (Le Testu) and 30 m tall (Bequaert). Stipules caducous. Leaves simple; entire, narrowly clustered on the flowering branch tips. Petiole subcylindric with more or less scattered stellate hairs, 3 to 4.5 cm long. Lamina broadly ovate 11-19 cm long by 8-15 cm wide, with strongly cordate base, broadly obtuse apex with a very short acumen; stellate hairs numerous on the lower surface, scattered or rare on the upper surface; 5 to 9 basal palmate nerves, 8 to 12 pairs pinnate along the midvein.
 
-Grand arbre atteignant 1 m de diam. (Le Testu) et 30 m de haut (Bequaert). Stipules caduques. Feuille simples; entières, étroitement groupées sur les extrémités florifères. Pétiole subcylindrique à poils étoilés plus ou moins clairsemés, de 3 à 4,5 cm de long. Limbe largement ovale de 11-19 cm de long sur 8-15 cm de large, à base fortement cordée, à sommet largement obtus avec un très court acumen; poils étoilés nombreux sur la face inférieure, clairsemés ou rares sur la face supérieure; 5 à 9 nervures palmées basilaires, 8 à 12 paires pennées le long de la médiane.
+Inflorescences axillary with caducous bracts, clustered on the young pubescent and leafy branch tips.
 
-Inflorescences axillées par des bractées caduques, groupées sur les jeunes extrémités pubescentes et feuillues des rameaux.
+The inflorescence is an elongate raceme reaching 9 to 16 cm, with tawny ochraceous pubescence, slightly sinuous rachis, numerous acute ovate bracteoles rapidly caducous, protective in the young inflorescence; the peduncle 1.5 to 3 cm long develops before the elongation of the rachis; numerous slender lateral ramifications 10 to 25 mm long approx. Flower brownish-green tinged with dark purple internally, 2.5 to 6 mm diam., with slender hairy pedicel reaching 5 mm, articulated in its upper third. Perianth composed only of a campanulate calyx, with 5 centrifugal lobes 1 to 3 mm long, hairy externally and internally, with glabrous tube internally. ♂ Flower with capitate androecium 1.5-2 mm long, with glabrous and slender androphore. ♀ Flower with gynoecium 2-2.5 mm long, with globose hairy ovary, 4 (-5?) carpels with few ovules, with glabrous stigmas.
 
-L'inflorescence est une grappe allongée atteignant 9 à 16 cm, à pubescence fauve ochracé, à rachis légèrement sinueux, à nombreuses bractéoles ovées aiguës rapidement caduques, protectrices dans la jeune inflorescence; le pédoncule de 1,5 à 3 cm de long est développé avant l'élongation du rachis; ramifications latérales nombreuses et grêles de 10 à 25 mm de long env. Fleur brun verdâtre teintée de pourpre foncé intérieurement, de 2,5 à 6 mm de diam., à pédicelle velu grêle atteignant 5 mm, articulé en son tiers supérieur. Périant the composé seulement d'un calice campanulé, à 5 lobes œntrifuges de 1 à 3 mm de long, velus extérieurement et intérieurement, à tube glabre intérieurement. Fleur ♂ à androcée capité de 1,5-2 mm de long, à androphore glabre et grêle. Fleur ♀ à gynécée de 2-2,5 mm de long, à ovaire globuleux velu, à 4 (-5?) carpelles pauci-ovulés, à stigmates glabres.
+Fruit composed of 2-4 follicles 6 to 8.5 cm long by 3 to 4.5 cm wide, pedicellate for 10-15 mm approx., with dense brown external pubescence, with velvety pubescent inner surface, 1 to 4 seeds per follicle, elliptic, black and smooth, 16 mm long by 10 mm wide, with narrow hilum, oleaginous.
 
-Fruit composé de 2-4 follicules de 6 à 8,5 de long sur 3 à 4,5 cm de large, pédonculés sur 10-15 mm env., à pubescence externe dense brune, à face interne veloutée pubescente, 1 à 4 graines par follicule, elliptiques, noires et lisses, de 16 mm de long sur 10 mm de large, à hile étroit, oléagineuse.
+Type of the species: J. Bequaert 2384, Penghe, riv. Ituri, Belgian Congo (Bx.).
 
-Type de l'espèce : J. Bequaert 2384, Penghe, riv. Ituri, Congo Belge (Bx.).
+Sterculia bequaerti is close to St. tragacantha, from which it differs by its wider lamina with clearly cordate base, by the greater number of basal palmate nerves; the pubescence is often shorter and the fruits larger.
 
-Le Sterculia bequaerti est voisin du St. tragacantha, il s'en distingue par son limbe plus large et à base nettement cordée, par le plus grand nombre de nervures basilaires palmées; la pubescence est souvent plus courte et les fruits plus gros.
+This species fairly widespread in northern Belgian Congo is otherwise known only from Ubangi-Shari and Gabon.
 
-Cette espèce assez répandue dans le nord du Congo Belge n'est connue par ailleurs que de l'Oubangui-Chari et du Gabon.
-
-Récolte unique au Gabon : Le Testu 1875, Mayombe Bayaka, Tchi-banga (fl. nov.).
+Single collection from Gabon: Le Testu 1875, Mayombe Bayaka, Tchi-banga (fl. Nov.).
 
 ## Figures
 
 ![Sterculia bequaerti](../sources/Sterculiaceae_vol02_paddle/figures/fig_003_p0019.png)
 
-*PL. III. — 1, Sterculia bequaerti De Wild., feuille et inflorescences; 2, follicule long de 9 cm; 3; fleur ♂; 4, bractée. — 5, Sterculia tragacantha Lindl., feuille et inflorescences; 6, bractée; 7, fleur ♀; 8, gynécée (Tisserant 1733, Oubangui); 9, autre forme de gynécée (Aubréville 752, Cameroun); 10, stigmates vus par dessus; 11, graine longue de 13 mm, vue latérale et coupe longitudinale (hile en bas).*
+*PL. III. — 1, Sterculia bequaerti De Wild., leaf and inflorescences; 2, follicle 9 cm long; 3; male flower; 4, bract. — 5, Sterculia tragacantha Lindl., leaf and inflorescences; 6, bract; 7, female flower; 8, gynoecium (Tisserant 1733, Oubangui); 9, another form of gynoecium (Aubréville 752, Cameroun); 10, stigmas viewed from above; 11, seed 13 mm long, viewed laterally and longitudinal section (hilum below).*
 
 ## Notes
 

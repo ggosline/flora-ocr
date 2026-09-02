@@ -7,6 +7,7 @@ family: Leguminosae
 vol: 15
 pages: 81-82
 source: sources/Leguminosae_vol15_paddle
+habit: "tree"
 tags: [species, generated]
 ---
 # *Lebruniodendron leptanthum* (Harms) Léonard
@@ -39,7 +40,7 @@ Le Testu : 7468, région de Lastoursville, détermination douteuse.
 
 ![Lebruniodendron leptanthum](../sources/Leguminosae_vol15_paddle/figures/fig_015_p0080.png)
 
-*PL. XV. — Lebruniodendron leptanthum (Harms) Léonard : 1, rameau florifère × 2 /3; 2, bourgeon écailleux et jeunes pousses; 3, fleur × 6; 4, fleur après la chute des pétales; 5, pistil × 6; 6, jeune gousse × 2 /3.*
+*PL. XV. — Lebruniodendron leptanthum (Harms) Léonard : 1, flowering branch × 2 /3; 2, scaly bud and young shoots; 3, flower × 6; 4, flower after the fall of the petals; 5, pistil × 6; 6, young pod × 2 /3.*
 
 ## Notes
 

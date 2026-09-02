@@ -7,6 +7,8 @@ family: Dichapetalaceae
 vol: 32
 pages: 69-72
 source: sources/Dichapetalaceae_vol32_paddle
+countries: [Angola, Democratic Republic of the Congo, Gabon]
+in_region: true
 tags: [species, generated]
 ---
 # *Dichapetalum chalotii* Pellegrin
@@ -59,7 +61,7 @@ Le Testu 7191, Lastoursville (fl., Avril); 8477 (fl., Oct.).
 
 ![Dichapetalum chalotii](../sources/Dichapetalaceae_vol32_paddle/figures/fig_016_p0070.png)
 
-*PL. 15 – Dichapetalum chalotii Pellegrin : 1, rameau florifère, détail × 1 ; 2, jeune rameau, feuille étroite, stipules, détail × 1 ; 3, fleur × 6 ; 4, fleur, détail montrant sépale, pétale, étanine, pistil et staminodes × 12 ; 5, fruit × 1 (1, 3, 4, Jans 304 ; 2, Le Testu 7191 ; 5, Devred 2862). – Repris de MLW 78 (10) : 5 (1978).*
+*PL. 15 – Dichapetalum chalotii Pellegrin : 1, flowering branch, detail × 1 ; 2, young branch, narrow leaf, stipules, detail × 1 ; 3, flower × 6 ; 4, flower, detail showing sepal, petal, stamen, pistil and staminodes × 12 ; 5, fruit × 1 (1, 3, 4, Jans 304 ; 2, Le Testu 7191 ; 5, Devred 2862). – Reprinted from MLW 78 (10) : 5 (1978).*
 
 ## Notes
 

@@ -7,6 +7,7 @@ family: Rubiaceae
 vol: 12
 pages: 234-235
 source: sources/Rubiaceae_vol12_paddle
+habit: "shrub"
 tags: [species, generated]
 ---
 # *Poecilocalyx crystallinus* N. Hallé sp. nov. (P.L. 49)

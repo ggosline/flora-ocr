@@ -7,6 +7,13 @@ family: Cucurbitaceae
 vol: 57
 pages: 88-90
 source: sources/Cucurbitaceae_vol57_paddle
+countries: [Angola, Gabon, Guinea, Kenya, Sudan, Tanzania]
+in_region: true
+subdivisions:
+  Gabon: [Estuaire, Ngounié, Nyanga, Ogooué-Lolo, Woleu-Ntem]
+habit: "herb"
+habitat: [evergreen forest]
+altitude_m: "30–400"
 tags: [species, generated]
 ---
 # *Momordica cissoides* Planch. ex Benth.

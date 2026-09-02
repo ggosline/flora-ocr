@@ -7,6 +7,12 @@ family: Eriocaulaceae
 vol: 48
 pages: 25-25
 source: sources/Eriocaulaceae_vol48_liteparse
+countries: [Angola, Burundi, Democratic Republic of the Congo, Gabon, Republic of the Congo, Zambia]
+in_region: true
+subdivisions:
+  Gabon: [Haut-Ogooué]
+habit: "herb"
+altitude_m: "500"
 tags: [species, generated]
 ---
 # *Syngonanthus poggeanus* Ruhland
@@ -16,21 +22,15 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-in Engl., Pflanzenr. 13 (IV.30) : 247 (1903). Herbe pérenne, en rosette formant des touffes de feuilles issues d’un rhizome résistant . Feuilles récurvées, linéaires, jusqu’à 10 cm × 1,2–2,5 mm , épaisses, faiblement brillantes , les jeunes généralement densément pileuses avec des poils pointus et glanduleux, les anciennes glabrescentes. Inflorescence : jusqu’à 10 ou + scapes, jusqu’à 40(–60) cm, 3-sillonnés, villosité avec des poils pointus mélangés à de courts poils glanduleux, aussi denses sous le capitule ; gaîne aussi longue ou plus longue que les feuilles, avec les poils glanduleux épars à denses ; capitule blanchâtre, (5,5–) 6–8,5 de largeur , paraissant glabre ; bractées involucrales généralement plus courtes que la largeur du capitule, blanc terne, finement scarieuses, à base coriace jaune pâle, obtuses -lacérées à subaiguës au sommet, les externes oblongues, 1,5–1,8 mm de longueur, glabres, les internes progressivement plus longues, jusqu’à 2,5–3 mm de longueur, avec quelques poils marginaux courts, les centrales linéaires-lancéolées, acuminées, hyalines, à marges ciliées vers la base. Fleur longue de 2–2,2 mm. Fleur femelle : sépales étroitement lancéolés-oblongs, aigus ou obtus-denticulés au sommet, glabres ou à marge courtement ciliée ; pétales pileux sur le dos ; appendices stigmatiques présents . Graine étroitement ellipsoïde, longue de 0,6–0,7 mm, à stries longitudinales blanches.
+in Engl., Pflanzenr. 13 (IV.30) : 247 (1903). Perennial herb, forming rosettes of leaves arising from a persistent rhizome. Leaves recurved, linear, up to 10 cm × 1.2–2.5 mm, thick, weakly lustrous, the young ones generally densely pilose with sharp and glandular hairs, the old ones glabrescent. Inflorescence: up to 10 or more scapes, up to 40(–60) cm, 3-sulcate, villous with sharp hairs mixed with short glandular hairs, equally dense below the capitulum; sheath as long as or longer than the leaves, with sparse to dense glandular hairs; capitulum whitish, (5.5–) 6–8.5 wide, appearing glabrous; involucral bracts generally shorter than the width of the capitulum, dull white, finely scarious, with pale yellow coriaceous base, obtuse-lacerate to subacute at the apex, the outer ones oblong, 1.5–1.8 mm long, glabrous, the inner ones progressively longer, up to 2.5–3 mm long, with some short marginal hairs, the central ones linear-lanceolate, acuminate, hyaline, with margins ciliate toward the base. Flower 2–2.2 mm long. Female flower: sepals narrowly lanceolate-oblong, acute or obtuse-denticulate at the apex, glabrous or with shortly ciliate margin; petals pilose on the back; stigmatic appendages present. Seed narrowly ellipsoid, 0.6–0.7 mm long, with white longitudinal striations.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Angola, Burundi, République du Congo, République démocratique du Congo et Zambie ; au Gabon, connue du Haut-Ogooué
+Angola, Burundi, Republic of the Congo, Democratic Republic of the Congo, and Zambia; in Gabon, known from Haut-Ogooué
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-prairie marécageuse su sol sablonneux ; au Gabon à autour de 500 m d’altitude, ailleurs jusqu’à 1800 m. Notes taxonomiques : Espèce connue actuellement du Gabon par un seul spécimen collecté près de la frontière avec la République du Congo, en limite nord de sa répartition. Il s’agit de l’espèce africaine la plus robuste, à feuilles épaisses, relativement larges et brillantes et des scapes élevés. B : Kimpouni, Lejoly & Lisowski (1992), Phillips (2010). ibliographie
+marshy grassland on sandy soil; in Gabon around 500 m altitude, elsewhere up to 1800 m. Taxonomic notes: Species currently known from Gabon by a single specimen collected near the border with the Republic of the Congo, at the northern limit of its range. This is the most robust African species, with thick, relatively broad and lustrous leaves and tall scapes. B: Kimpouni, Lejoly & Lisowski (1992), Phillips (2010). Bibliography
 
 ## Notes
 

@@ -7,6 +7,9 @@ family: Scytopetalaceae
 vol: 24
 pages: 184-186
 source: sources/Scytopetalaceae_vol24_paddle
+countries: [Cameroon]
+in_region: true
+habit: "tree"
 tags: [species, generated]
 ---
 # *Rhaptopetalum sessilifolium* Engler
@@ -47,7 +50,7 @@ Zenker FvK 70, Mbiave près Bipindi (fl.) (B, WAG); FvK 427, Mimfia près Bipind
 
 ![Rhaptopetalum sessilifolium](../sources/Scytopetalaceae_vol24_paddle/figures/fig_053_p0185.png)
 
-*PL. 53. — Rhabtopetalum sessilifolium Engl.: 1, rameau feuillé × 4/9; 2, rameau avec fleurs × 2/3; 3, bouton floral × 8/3; 4, coupe long. fl. × 20/3; 5, jeune fruit × 10/3; 6, coupe transv. j. fr. × 10/3; 7, fruit × 4/3; 8, coupe transv. graine × 8/3. (1, Zenker 2389; 2-3, Zenker FvK 70; 4-6, Zenker 3933; 7-8, Zenker FvK 427).*
+*PL. 53. — Rhabtopetalum sessilifolium Engl.: 1, leafy branch × 4/9; 2, branch with flowers × 2/3; 3, floral bud × 8/3; 4, long. sect. fl. × 20/3; 5, young fruit × 10/3; 6, transv. sect. y. fr. × 10/3; 7, fruit × 4/3; 8, transv. sect. seed × 8/3. (1, Zenker 2389; 2-3, Zenker FvK 70; 4-6, Zenker 3933; 7-8, Zenker FvK 427).*
 
 ## Notes
 

@@ -7,6 +7,11 @@ family: Arecaceae
 vol: 53
 pages: 69-71
 source: sources/Arecaceae_vol53_liteparse
+countries: [Democratic Republic of the Congo, Gabon]
+in_region: true
+subdivisions:
+  Gabon: [Haut-Ogooué, Ngounié, Ogooué-Lolo]
+altitude_m: "400"
 tags: [species, generated]
 ---
 # *Sclerosperma walkeri* A.Chev. Planche 24(6–11), Figure 5A,B
@@ -17,21 +22,15 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Palmier acaule ou à stipe très court. Feuilles pennées , à limbe profondément bifide au stade juvénile ; gaine jusqu’à 40 cm de longueur ; pétiole 0,6–1(–4) m ; rachis 1,5–2 m ; limbe comprenant (20)25 à 40 folioles subopposées ou alternes, de 37–65 × 1,2–6 cm, foliole api cale profondément bifide, largement rhomboïdale, de 25–33 × 24–35 cm, base asymétrique, face supérieure verte, face inférieure vert argenté ; nervures médianes proéminentes. Inflores cence : pédoncule jusqu’à 20 cm, elliptique en coupe, jusqu’à 2,5 cm de largeur, densément tomenteux ; préfeuille jusqu’à 23 cm de longueur ; bractée pédonculaire jusqu’à 27 cm de longueur ; rachis > 13 cm. Fleur mâle : sépales 6 × 4 mm ; pétales obovales, 11 × 8 mm ; ± 100 étamines. Fruits jusqu’à 30 par infrutescence, sur un rachis de 6–11 cm , largement elliptiques, 4–5 × 3–3,5 cm. Graine globuleuse, 2,1–2,6 × 2,6–2,9 cm.
+Acaulescent or very short-stemmed palm. Leaves pinnate, with blade deeply bifid at juvenile stage; sheath up to 40 cm long; petiole 0.6–1(–4) m; rachis 1.5–2 m; blade comprising (20)25 to 40 subopposite or alternate leaflets, 37–65 × 1.2–6 cm, apical leaflet deeply bifid, broadly rhomboidal, 25–33 × 24–35 cm, base asymmetric, upper surface green, lower surface silvery green; median nerves prominent. Inflorescence: peduncle up to 20 cm, elliptic in cross-section, up to 2.5 cm wide, densely tomentose; prophyll up to 23 cm long; peduncular bract up to 27 cm long; rachis > 13 cm. Male flower: sepals 6 × 4 mm; petals obovate, 11 × 8 mm; ± 100 stamens. Fruits up to 30 per infructescence, on a rachis 6–11 cm long, broadly elliptic, 4–5 × 3–3.5 cm. Seed globose, 2.1–2.6 × 2.6–2.9 cm.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Gabon et la République démocratique du Congo ; au Gabon, présent dans le Ngounié, l’Ogooué-Lolo et le Haut-Ogooué. Statut de conservation : Préoccupation mineure (LC)
+Gabon and the Democratic Republic of the Congo; in Gabon, present in Ngounié, Ogooué-Lolo and Haut-Ogooué. Conservation status: Least Concern (LC)
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-sous-bois de forêts tropicales humides en zones marécageuses, périodiquement inondées ou sur pente de terre ferme, zones secondaires ; au Gabon entre 300 et 400 m d’altitude, ailleurs jusqu’à 450 m
+understory of humid tropical forests in swampy areas, periodically inundated or on well-drained sloping ground, secondary zones; in Gabon between 300 and 400 m altitude, elsewhere up to 450 m
 
 ## Vernacular names
 

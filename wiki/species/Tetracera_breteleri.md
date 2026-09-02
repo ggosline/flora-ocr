@@ -8,17 +8,15 @@ section: Tetracera
 status: spec. nov.
 type_specimen: "Gabon, Ogooué-Lolo, Makande surroundings, c. 65 km SSW of Booué, c. 0°41′S 11°55′E, 3 Feb 1999 (fl.), F.J. Breteler et al. 14904 (holo: WAG [WAG.1578273]; iso: WAG)"
 synonyms: []
-habit: liana
-habitat: [forest edge]
-altitude_m: "200–400"
-countries: [Gabon, Republic of the Congo]
-subdivisions:
-  Gabon: [Ogooué-Lolo]
-in_region: true
 treatments:
   - vol: 60
     pages: "14–15"
     source: sources/Dilleniaceae_vol60_liteparse
+countries: [Gabon, Republic of the Congo]
+in_region: true
+subdivisions:
+  Gabon: [Ogooué-Lolo]
+habit: "liana"
 tags: [species, type-locality-gabon, novelty]
 ---
 

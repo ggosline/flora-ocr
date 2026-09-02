@@ -7,6 +7,10 @@ family: Begoniaceae
 vol: 39
 pages: 47-50
 source: sources/Begoniaceae_vol39_liteparse
+countries: [Gabon]
+in_region: true
+habitat: [primary forest]
+altitude_m: "450–700"
 tags: [species, generated]
 ---
 # *Begonia erectocaulis* Sosef

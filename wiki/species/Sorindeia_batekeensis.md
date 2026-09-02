@@ -7,6 +7,12 @@ family: Anacardiaceae
 vol: 50
 pages: 27-27
 source: sources/Anacardiaceae_vol50_liteparse
+countries: [Gabon, Republic of the Congo]
+in_region: true
+subdivisions:
+  Gabon: [Haut-Ogooué]
+habit: "tree"
+altitude_m: "420"
 tags: [species, generated]
 ---
 # *Sorindeia batekeensis* Lecomte Planche 12(B)
@@ -17,27 +23,19 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Arbre de ± 8 m de hauteur. Feuille jusqu’à 65 cm de longueur ; pétiole et rachis pubérulents ; folioles ±60, pétiolule pubérulent, glabrescent, à limbe oblong, (3–)7–11(–13) × 1,5–2,5(–3) cm, asymétrique et arrondi à la base, acuminé sur ± 1 cm au sommet, glabre sur les deux faces ; nervure médiane proéminente sur les deux faces, nervures latérales en ± 20 paires et parallèles . Inflorescence cauliflore , étroite, 8–18 cm de longueur, éparsement pubérulente. Fleur mâle et fleur femelle complètes inconnues ; partie supérieure du pédicelle et calice glabres en fruit. Fruit (immature) obovoïde, éparsement pubérulent.
+Tree of ± 8 m in height. Leaf up to 65 cm in length; petiole and rachis puberulent; leaflets ±60, petiolule puberulent, glabrescent, with oblong blade, (3–)7–11(–13) × 1.5–2.5(–3) cm, asymmetric and rounded at the base, acuminate over ± 1 cm at the apex, glabrous on both sides; midvein prominent on both sides, lateral veins in ± 20 pairs and parallel. Inflorescence cauliflorous, narrow, 8–18 cm in length, sparsely puberulent. Male flower and complete female flower unknown; upper part of the pedicel and calyx glabrous in fruit. Fruit (immature) obovoid, sparsely puberulent.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Gabon et République du Congo ; au Gabon, seulement connu des Plateaux Batéké dans le Haut Ogooué
+Gabon and Republic of the Congo; in Gabon, known only from the Batéké Plateaus in the Haut-Ogooué
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-bord de rivière ; à 420 m d’altitude
+river bank; at 420 m altitude
 
 ## Source note
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Une espèce pour laquelle notre connaissance est encore très incomplète, en attendant des nouvelles récoltes. B : Breteler (2003). i B liographie
+A species for which our knowledge is still very incomplete, pending new collections. B: Breteler (2003). Bibliography
 
 ## Notes
 

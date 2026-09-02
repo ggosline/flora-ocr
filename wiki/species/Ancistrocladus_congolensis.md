@@ -5,17 +5,14 @@ authority: J.Léonard
 genus: Ancistrocladus
 family: Ancistrocladaceae
 synonyms: []
-habit: liana
-habitat: [riverine forest, terra firma forest, hilltop forest, coastal forest]
-altitude_m: "1–480 (Gabon); to 375 elsewhere"
-countries: [Democratic Republic of the Congo, Gabon, Republic of the Congo]
-subdivisions:
-  Gabon: [Ngounié, Ogooué-Maritime, Ogooué-Ivindo]
-in_region: true
 treatments:
   - vol: 60
     pages: "3–4"
     source: sources/Ancistrocladaceae_vol60_liteparse
+countries: [Gabon, Republic of the Congo]
+in_region: true
+subdivisions:
+  Gabon: [Ngounié, Ogooué-Ivindo, Ogooué-Maritime]
 tags: [species]
 ---
 

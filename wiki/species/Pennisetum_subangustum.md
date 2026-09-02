@@ -7,6 +7,7 @@ family: Gramineae
 vol: 05
 pages: 100-101
 source: sources/Gramineae_vol05_paddle
+habit: "herb"
 tags: [species, generated]
 ---
 # *Pennisetum subangustum* (Schum.) Stapf et C. E. Hubb.

@@ -5,12 +5,10 @@ authority: (Aschers.) Hutch. et Dalz.
 genus: Afrobrunnichia
 family: Polygonaceae
 synonyms: [Brunnichia erecta, Brunnichia africana var. glabra, Brunnichia africana var. erecta, Brunnichia congoensis]
-countries: [Côte d'Ivoire, Gabon, Angola]
-in_region: true
-habit: woody liana
-habitat: [forest edge, gallery forest, montane forest]
-altitude_m: "to 800"
 treatments: [{vol: 7, pages: "5–9", source: sources/Polygonaceae_vol7_paddle}]
+countries: [Angola, Gabon]
+in_region: true
+habit: "liana"
 tags: [species]
 ---
 

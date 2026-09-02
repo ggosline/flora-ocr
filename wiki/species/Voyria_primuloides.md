@@ -7,6 +7,12 @@ family: Gentianaceae
 vol: 54
 pages: 87-87
 source: sources/Gentianaceae_vol54_liteparse
+countries: [Cameroon, Cote d'Ivoire, Democratic Republic of the Congo, Gabon, Ghana, Liberia, Nigeria, Republic of the Congo]
+in_region: true
+subdivisions:
+  Gabon: [Estuaire, Moyen-Ogooué, Ngounié, Nyanga, Ogooué-Ivindo, Ogooué-Lolo, Ogooué-Maritime, Woleu-Ntem]
+habit: "herb"
+altitude_m: "1100"
 tags: [species, generated]
 ---
 # *Voyria primuloides* Baker Planche 29, Figure 7(E–G)
@@ -17,21 +23,15 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Leiphaimos platypetala (Baker) Gilg in Engler & Prantl, Nat. Pflanzenfam. 4(2) : 104 (1895). Leiphaimos primuloides (Baker) Gilg in Engler & Prantl, Nat. Pflanzenfam. 4(2) : 104, fig. 46.S-Y (1895). Herbe 3–10 cm de hauteur ; tige blanche, orange à rose ; racines couvertes de longs poils bruns. Feuille à limbe triangulaire à étroitement triangulaire, 2–6 × 1–3 mm, à sommet aigu à acuminé. Inflorescence à fleur solitaire . Fleur : calice 3–10 mm de longueur, blanc, à tube 1–5 mm de longueur, lobes étroitement triangulaires, 1–6 mm de longueur ; corolle 20–40 mm de longueur, blanche, teintée d’orange vers la base et de jaune pâle à la gorge, à tube renflé au-dessus du milieu, 15–30 mm de longueur, lobes ovales-anguleux, 5–20 mm de longueur, à base rétrécie, à sommet aigu à acuminé ; étamines à filet de ± 0,5 mm, anthère ± 0,5 mm de longueur ; ovaire étroitement ovoïde, orange à jaune ; style ± 10 mm. Fruit jusqu’à 10 × 3 mm. Graine ± 0,2 × 0,1 mm.
+Leiphaimos platypetala (Baker) Gilg in Engler & Prantl, Nat. Pflanzenfam. 4(2) : 104 (1895). Leiphaimos primuloides (Baker) Gilg in Engler & Prantl, Nat. Pflanzenfam. 4(2) : 104, fig. 46.S-Y (1895). Herb 3–10 cm tall; stem white, orange to pink; roots covered with long brown hairs. Leaf with triangular to narrowly triangular blade, 2–6 × 1–3 mm, with acute to acuminate apex. Inflorescence with solitary flower. Flower: calyx 3–10 mm long, white, with tube 1–5 mm long, lobes narrowly triangular, 1–6 mm long; corolla 20–40 mm long, white, tinged with orange towards the base and pale yellow at the throat, with tube inflated above the middle, 15–30 mm long, lobes ovate-angular, 5–20 mm long, with narrowed base, with acute to acuminate apex; stamens with filament ± 0.5 mm, anther ± 0.5 mm long; ovary narrowly ovoid, orange to yellow; style ± 10 mm. Fruit up to 10 × 3 mm. Seed ± 0.2 × 0.1 mm.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Libéria, Côte d’Ivoire, Ghana, Nigéria, Cameroun, Gabon, République du Congo et République démocratique du Congo ; au Gabon très commun (Estuaire, Moyen-Ogooué, Ngounié, Nyanga, Ogooué-Ivindo, Ogooué-Lolo, Ogooué-Maritime et Woleu-Ntem)
+Liberia, Côte d'Ivoire, Ghana, Nigeria, Cameroon, Gabon, Republic of the Congo and Democratic Republic of the Congo; in Gabon very common (Estuaire, Moyen-Ogooué, Ngounié, Nyanga, Ogooué-Ivindo, Ogooué-Lolo, Ogooué-Maritime and Woleu-Ntem)
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-forêts primaires, dans la litière des feuilles en décomposition ; au Gabon, entre 0 et 1020 m d’altitude, ailleurs jusqu’à 1100 m. B : Bouman & Louis (1989), Maas & Ruyters (1986), Raynal (1967a), Taylor (1963), Vande i B liographie weghe et al. (2016)
+primary forests, in the litter of decomposing leaves; in Gabon, between 0 and 1020 m elevation, elsewhere up to 1100 m. B : Bouman & Louis (1989), Maas & Ruyters (1986), Raynal (1967a), Taylor (1963), Vande i B liography weghe et al. (2016)
 
 ## Notes
 

@@ -7,6 +7,9 @@ family: Moraceae
 vol: 26
 pages: 75-77
 source: sources/Moraceae_vol26_paddle
+countries: [Gabon]
+in_region: true
+habit: "herb"
 tags: [species, generated]
 ---
 # *Dorstenia barteri* Bureau

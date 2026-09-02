@@ -7,6 +7,9 @@ family: Rubiaceae
 vol: 12
 pages: 119-120
 source: sources/Rubiaceae_vol12_paddle
+countries: [Angola, Guinea, Sudan, Uganda]
+in_region: true
+habit: "herb"
 tags: [species, generated]
 ---
 # *Otomeria elatior* (A. Rich. ex DC.) Verde.

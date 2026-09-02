@@ -7,6 +7,10 @@ family: Rubiaceae
 vol: 12
 pages: 35-36
 source: sources/Rubiaceae_vol12_paddle
+countries: [Angola, Democratic Republic of the Congo, Gabon, Gambia]
+in_region: true
+habit: "tree"
+habitat: [savanna]
 tags: [species, generated]
 ---
 # *Mitragyna stipulosa* (DC.) O. Ktze

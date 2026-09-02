@@ -7,6 +7,9 @@ family: Orchidaceae
 vol: 36
 pages: 161-163
 source: sources/Orchidaceae_vol36_paddle
+countries: [Angola, Cameroon, Central African Republic, Cote d'Ivoire, Gabon, Ghana, Guinea, Kenya, Liberia, Malawi, Mozambique, Nigeria, Sao Tome and Principe, Sierra Leone, Tanzania, Uganda, Zambia, Zimbabwe]
+in_region: true
+habitat: [riverine]
 tags: [species, generated]
 ---
 # *Bulbophyllum maximum* (Lindl.) Rchb.f.
@@ -55,7 +58,7 @@ Louis, Breteler & de Bruijn 454, near Lara, village of Étoulé, Mitzic-Médoune
 
 ![Bulbophyllum maximum](../sources/Orchidaceae_vol36_paddle/figures/fig_083_p0162.png)
 
-*PL. 78. – Bulbophyllum maximum (Lindl.) Rchb.f.: A, fleur ; B, sépale dorsal ; C, pétale ; D, E, F, G, H, labelle ; I, J, vue générale ; (A-F, Preuss s.n., HBG ; G-J, ex VERMEULEN, 1987).*
+*PL. 78. – Bulbophyllum maximum (Lindl.) Rchb.f.: A, flower ; B, dorsal sepal ; C, petal ; D, E, F, G, H, labellum ; I, J, general view ; (A-F, Preuss s.n., HBG ; G-J, ex VERMEULEN, 1987).*
 
 ## Notes
 

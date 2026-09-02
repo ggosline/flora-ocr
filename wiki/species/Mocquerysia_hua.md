@@ -6,6 +6,9 @@ family: Flacourtiaceae
 vol: 34
 pages: 30-31
 source: sources/Flacourtiaceae_vol34_paddle
+countries: [Angola, Democratic Republic of the Congo, Gabon]
+in_region: true
+habit: "shrub"
 tags: [species, generated]
 ---
 # *Mocquerysia hua*

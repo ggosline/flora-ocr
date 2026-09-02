@@ -7,6 +7,12 @@ family: Oleaceae
 vol: 51
 pages: 20-23
 source: sources/Oleaceae_vol51_liteparse
+countries: [Gabon]
+in_region: true
+subdivisions:
+  Gabon: [Estuaire]
+habit: "tree"
+habitat: [mangrove]
 tags: [species, generated]
 ---
 # *Noronhia mannii* (Soler.) Hong-Wa & Besnard Planche 7

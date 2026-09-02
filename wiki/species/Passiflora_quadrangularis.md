@@ -7,6 +7,8 @@ family: Passifloraceae
 vol: 46
 pages: 95-105
 source: sources/Passifloraceae_vol46_liteparse
+countries: [Gabon]
+in_region: true
 tags: [species, generated]
 ---
 # *Passiflora quadrangularis* L.

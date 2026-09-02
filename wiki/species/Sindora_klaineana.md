@@ -7,6 +7,8 @@ family: Leguminosae
 vol: 15
 pages: 186-189
 source: sources/Leguminosae_vol15_paddle
+habit: "tree"
+habitat: [mangrove]
 tags: [species, generated]
 ---
 # *Sindora klaineana* Pierre ex Pellegr..
@@ -57,7 +59,7 @@ Le Thomas : 4, mangrove, km 18 est de Libreville (fl. et j. fr. juin).
 
 ![Sindora klaineana](../sources/Leguminosae_vol15_paddle/figures/fig_043_p0188.png)
 
-*PL. XLIII. — Sindora Klaineana Pierre ex Pellegrin : I, feuille et inflorescence × 2/3; 2, détail de nervation de la foliole; 3, fleur × 2; 4, pétale × 4; 5, coupe de la fleur × 2; 6, fruit × 2/3.*
+*PL. XLIII. — Sindora Klaineana Pierre ex Pellegrin : 1, leaf and inflorescence × 2/3; 2, venation detail of the leaflet; 3, flower × 2; 4, petal × 4; 5, flower section × 2; 6, fruit × 2/3.*
 
 ## Notes
 

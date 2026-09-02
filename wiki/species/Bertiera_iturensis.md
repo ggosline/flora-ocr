@@ -7,6 +7,10 @@ family: Rubiaceae
 vol: 17
 pages: 61-62
 source: sources/Rubiaceae_vol17_paddle
+countries: [Cameroon, Central African Republic, Gabon]
+in_region: true
+habit: "tree"
+altitude_m: "400–950"
 tags: [species, generated]
 ---
 # *Bertiera iturensis* K. Krause
@@ -47,7 +51,7 @@ N. Hallé 1441, Makokou (fr. mars); 1241, 2744, 2967, 3116, 3212, 3900, Bélinga
 
 ![Bertiera iturensis](../sources/Rubiaceae_vol17_paddle/figures/fig_013_p0065.png)
 
-*PL. 13. — Bertiera iturensis K. Krause (2 à 6, Tisserant 873) : 1, inflorescence. × 0,75 (N. Hallé 2744); 2, bouton × 4,5; 3, étamine; 4, style; 5, calice; 6, fruit immature à sec × 4; 7, infrutescence à maturité × 0,75, et 8, fruit mür sur le vif en coupe (N. H. 1441); 9, graine × 16 (N. H. 3212). — B. aretistipula N. Hallé (N. H. 4660); 10, inflorescence × 0,75; 11, bouton × 4,5. — B. subsessilis Hiern (N. H. 5516) : 12, inflorescence × 0,75; 13, bouton × 4,5; 14, lobe de corolle vue externe; 15, calice et ovaire en coupe; 16, infrutescence mûre; 17, graine × 16.*
+*PL. 13. — Bertiera iturensis K. Krause (2 to 6, Tisserant 873) : 1, inflorescence. × 0,75 (N. Hallé 2744); 2, bud × 4,5; 3, stamen; 4, style; 5, calyx; 6, immature dry fruit × 4; 7, fructescence at maturity × 0,75, and 8, ripe fruit fresh in section (N. H. 1441); 9, seed × 16 (N. H. 3212). — B. aretistipula N. Hallé (N. H. 4660); 10, inflorescence × 0,75; 11, bud × 4,5. — B. subsessilis Hiern (N. H. 5516) : 12, inflorescence × 0,75; 13, bud × 4,5; 14, corolla lobe external view; 15, calyx and ovary in section; 16, ripe fructescence; 17, seed × 16.*
 
 ## Notes
 

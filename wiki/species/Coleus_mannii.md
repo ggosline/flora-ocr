@@ -6,6 +6,13 @@ genus: Coleus
 vol: 58
 pages: 58-59
 source: sources/Labiataeulmaceaeverbenaceae_vol58_liteparse
+countries: [Cameroon, Democratic Republic of the Congo, Equatorial Guinea, Gabon, Nigeria]
+in_region: true
+subdivisions:
+  Gabon: [Estuaire, Ngounié, Ogooué-Ivindo, Woleu-Ntem]
+habit: "herb"
+habitat: [secondary forest]
+altitude_m: "50–900"
 tags: [species, generated]
 ---
 # *Coleus mannii* Hook.f.

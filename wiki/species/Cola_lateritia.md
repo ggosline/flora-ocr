@@ -7,6 +7,7 @@ family: Sterculiaceae
 vol: 02
 pages: 49-52
 source: sources/Sterculiaceae_vol02_paddle
+habit: "tree"
 tags: [species, generated]
 ---
 # *Cola lateritia* K. Schumann.
@@ -53,7 +54,7 @@ Bernard : 803, Cap Esterias (fl. août). Fleury : 26617, près de la lagune de N
 
 ![Cola lateritia](../sources/Sterculiaceae_vol02_paddle/figures/fig_008_p0051.png)
 
-*PL. VIII. — Cola (s.-g. Cola s.s.) lateritia K. Schum.: 1, types variés de feuilles; 2, inflorescences; 3, fleur ♂ (Staudt 510); 4, androcée; 5 et 6, fleurs ♀ (Le Testu 8240 et Klaine 38); 7, gynandrocée; 8, fruit long de 6 cm; 9, graine longue de 24 mm.*
+*PL. VIII. — Cola (s.-g. Cola s.s.) lateritia K. Schum.: 1, varied leaf types; 2, inflorescences; 3, ♂ flower (Staudt 510); 4, androecium; 5 and 6, ♀ flowers (Le Testu 8240 and Klaine 38); 7, gynandroeceium; 8, fruit 6 cm long; 9, seed 24 mm long.*
 
 ## Notes
 

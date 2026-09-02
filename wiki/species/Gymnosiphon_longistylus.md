@@ -7,6 +7,10 @@ family: Burmanniaceae
 vol: 41
 pages: 26-73
 source: sources/Burmanniaceae_vol41_liteparse
+countries: [Cameroon, Cote d'Ivoire, Democratic Republic of the Congo, Gabon, Ghana, Liberia, Nigeria, Sierra Leone]
+in_region: true
+habit: "herb"
+altitude_m: "900"
 tags: [species, generated]
 ---
 # *Gymnosiphon longistylus* (Benth.) Hutch. & Dalziel Planche 6

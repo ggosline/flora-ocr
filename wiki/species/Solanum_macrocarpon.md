@@ -7,6 +7,9 @@ family: Solanaceae
 vol: 55
 pages: 126-128
 source: sources/Solanaceae_vol55_liteparse
+countries: [Gabon]
+in_region: true
+habit: "herb"
 tags: [species, generated]
 ---
 # *Solanum macrocarpon* L.
@@ -17,23 +20,15 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Herbe pérenne, jusqu’à 1 m de hauteur, inerme ; tiges dressées à étalées, cylindriques, subglabres à glabres . Feuille : pétiole 0–2,5 cm, généralement décurrent sur la tige , glabre ; limbe elliptique, 10–35 × 6–20 cm, atténué, parfois cunéé à la base, obtus au sommet, à marge subentière à profondément lobée, souvent doublement lobée , avec 3 à 5 lobes largement
-
-triangulaires par côté, obtus à arrondis au sommet, concolore, glabre. Inflorescence latérale, 3–5 cm de longueur, simple, avec 1 à 10 fleurs hétérostylées ( plantes andromonoïques ) ; pédoncule 0–5 mm ; axes glabres. Fleur 5-mère ; pédicelle 0,6–3 cm, glabre ; calice 6–20 mm de longueur, glabre à éparsement pubescent, à poils étoilés, à lobes triangulaires, 0,4–3 cm de longueur, aigus à longuement acuminés au sommet ; corolle subrotacée , 1,2–5 cm de diamètre, blanche, mauve ou pourpre, divisée jusqu’au tiers, à lobes étalés, largement triangu laires, 0,4–1 × 0,7–2 cm, avec quelques poils au sommet ; étamines égales, filet glabre, anthère 4–7 mm de longueur ; ovaire pubérulent à petits poils glanduleux dans la moitié supérieure ; style 1 cm, à poils simples à la base. Fruit sphérique à subovale, 4–6 cm de diamètre, jauneorange à maturité, parfois blanc à noir chez certains cultivars , avec 50 à 100 graines. Graine réniforme, 2,8–3,8 × 2,2–3,2 mm, jaune pâle.
+Perennial herb, up to 1 m in height, unarmed; stems erect to spreading, cylindrical, subglabrous to glabrous. Leaf: petiole 0–2.5 cm, generally decurrent on the stem, glabrous; blade elliptic, 10–35 × 6–20 cm, attenuate, sometimes cuneate at the base, obtuse at the apex, with margin subentire to deeply lobed, often doubly lobed, with 3 to 5 broadly triangular lobes per side, obtuse to rounded at the apex, concolorous, glabrous. Inflorescence lateral, 3–5 cm in length, simple, with 1 to 10 heterostylous flowers (andromone­cious plants); peduncle 0–5 mm; axes glabrous. Flower 5-merous; pedicel 0.6–3 cm, glabrous; calyx 6–20 mm in length, glabrous to sparsely pubescent, with stellate hairs, with triangular lobes, 0.4–3 cm in length, acute to long-acuminate at the apex; corolla subrotate, 1.2–5 cm in diameter, white, mauve or purple, divided to the third, with lobes spreading, broadly triangular, 0.4–1 × 0.7–2 cm, with a few hairs at the apex; stamens equal, filament glabrous, anther 4–7 mm in length; ovary puberulent to with small glandular hairs in the upper half; style 1 cm, with simple hairs at the base. Fruit spherical to subovate, 4–6 cm in diameter, yellow-orange at maturity, sometimes white to black in certain cultivars, with 50 to 100 seeds. Seed reniform, 2.8–3.8 × 2.2–3.2 mm, pale yellow.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-cultivé dans toute l’Afrique tropicale, particulièrement commun en Afrique de l’Ouest ; au Gabon couramment planté dans les jardins et vendu sur les marchés, parfois échappé ailleurs en Afrique et probablement aussi au Gabon
+Cultivated throughout tropical Africa, particularly common in West Africa; in Gabon commonly planted in gardens and sold in markets, sometimes escaped elsewhere in Africa and probably also in Gabon
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-en culture uniquement et inconnu à l’état sauvage. Usage : Les feuilles et/ou les fruits sont utilisés comme des légumes ; les cultivars les plus glabres sont utilisés pour leurs feuilles, alors que ceux plus pubescents présentent des fruits souvent plus gros et moins amers. Les fruits sont plus communément consommés en Afrique de l’Ouest où ils sont pelés, bouillis et frits pour accompagner la viande ou le poisson. Les parties aériennes et souterraines de la plante ont en outre de nombreux usages thérapeutiques. Les fruits sont utilisés comme laxatif et pour traiter les problèmes cardiaques ; les fleurs et les fruits sont mâchés pour nettoyer les dents. S. macrocarpon sert occasionnellement de plante ornementale
+In cultivation only and unknown in the wild. Use: The leaves and/or fruits are used as vegetables; the most glabrous cultivars are used for their leaves, while those more pubescent present fruits often larger and less bitter. The fruits are more commonly consumed in West Africa where they are peeled, boiled and fried to accompany meat or fish. The aerial and underground parts of the plant have moreover numerous therapeutic uses. The fruits are used as a laxative and to treat heart problems; the flowers and fruits are chewed to clean the teeth. S. macrocarpon occasionally serves as an ornamental plant
 
 ## Vernacular names
 
@@ -41,9 +36,7 @@ anghive, aubergine africaine, aubergine gboma, gboma (fr.) ; African eggplant, g
 
 ## Source note
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-S. dasyphyllum est l’espèce sauvage progénitrice de l’aubergine gboma, S. macrocarpon . Les deux espèces sont sympatriques et interfertiles, mais sont morphologiquement facilement distinguables l’une de l’autre : S. macrocarpon est inerme et quasi glabre alors que S. dasyphyllum est fortement épineuse et pubescente. À maturité, les fruits de S. macrocarpon sont plus grands et morphologiquement plus variés que ceux de S. dasyphyllum . Bi : Aubriot et al. (2018), Bukenya & Bonsu (2004), Bukenya & Carrasco (1999), Page et B liographie al. (2019), Raponda-Walker & Sillans (1961), Schippers (2000), Vorontsova et al. (2013), Vorontsova & Knapp (2016)
+S. dasyphyllum is the wild progenitor species of the gboma eggplant, S. macrocarpon. The two species are sympatric and interfertile, but are morphologically easily distinguishable from each other: S. macrocarpon is unarmed and nearly glabrous while S. dasyphyllum is strongly spiny and pubescent. At maturity, the fruits of S. macrocarpon are larger and morphologically more varied than those of S. dasyphyllum. Bibliography: Aubriot et al. (2018), Bukenya & Bonsu (2004), Bukenya & Carrasco (1999), Page et al. (2019), Raponda-Walker & Sillans (1961), Schippers (2000), Vorontsova et al. (2013), Vorontsova & Knapp (2016)
 
 ## Notes
 

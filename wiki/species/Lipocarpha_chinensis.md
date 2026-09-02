@@ -7,6 +7,12 @@ family: Cyperaceae
 vol: 44
 pages: 159-160
 source: sources/Cyperaceae_vol44_liteparse
+countries: [Gabon]
+in_region: true
+subdivisions:
+  Gabon: [Estuaire, Haut-Ogooué, Moyen-Ogooué, Ogooué-Ivindo, Ogooué-Maritime, Woleu-Ntem]
+habit: "herb"
+altitude_m: "0–600"
 tags: [species, generated]
 ---
 # *Lipocarpha chinensis* (Osbeck) Kern Planche 104, Figure 13a

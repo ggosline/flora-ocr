@@ -7,6 +7,7 @@ family: Gramineae
 vol: 05
 pages: 67-68
 source: sources/Gramineae_vol05_paddle
+habit: "herb"
 tags: [species, generated]
 ---
 # *Panicum brazzavillense* Franch.
@@ -39,7 +40,7 @@ Mann : 1890, île de Corisco (non vu).
 
 ![Panicum brazzavillense](../sources/Gramineae_vol05_paddle/figures/fig_012_p0069.png)
 
-*PL. XI. — Panicum brazzavillense Franch. (G. du Bellay, 265) : 1, fragment de touffe; 2, épillet vu de profil (longueur sans le pédicelle : 1,5 mm env.); 3, fleur fertile. — P. fluvicola Steud (Debeaux 101) : 4, fragment de touffe; 5, épillet vu de profil (longueur de l'épillet 2,2 mm env.); 6, fleur fertile.*
+*PL. XI. — Panicum brazzavillense Franch. (G. du Bellay, 265) : 1, fragment of tuft; 2, spikelet seen in profile (length without the pedicel: 1,5 mm approx.); 3, fertile flower. — P. fluvicola Steud (Debeaux 101) : 4, fragment of tuft; 5, spikelet seen in profile (length of spikelet 2,2 mm approx.); 6, fertile flower.*
 
 ## Notes
 

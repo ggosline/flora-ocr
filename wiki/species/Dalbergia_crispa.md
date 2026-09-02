@@ -7,6 +7,12 @@ family: Leguminosae
 vol: 49
 pages: 121-122
 source: sources/Millettiaspeciesfabaceae_vol49_liteparse
+countries: [Democratic Republic of the Congo, Equatorial Guinea, Gabon, Sierra Leone]
+in_region: true
+subdivisions:
+  Gabon: [Estuaire, Moyen-Ogooué, Nyanga, Ogooué-Ivindo]
+habit: "shrub"
+altitude_m: "30–480"
 tags: [species, generated]
 ---
 # *Dalbergia crispa* Hepper

@@ -7,6 +7,12 @@ family: Passifloraceae
 vol: 46
 pages: 85-87
 source: sources/Passifloraceae_vol46_liteparse
+countries: [Equatorial Guinea, Gabon]
+in_region: true
+subdivisions:
+  Gabon: [Ogooué-Ivindo, Ogooué-Lolo]
+habit: "tree"
+altitude_m: "650"
 tags: [species, generated]
 ---
 # *Paropsia gabonica* Breteler Planche 34

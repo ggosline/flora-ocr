@@ -7,6 +7,7 @@ family: Rubiaceae
 vol: 17
 pages: 204-206
 source: sources/Rubiaceae_vol17_paddle
+habit: "shrub"
 tags: [species, generated]
 ---
 # *Oxyanthus subpunctatus* (Hiern) Keay

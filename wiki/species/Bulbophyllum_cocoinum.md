@@ -7,6 +7,9 @@ family: Orchidaceae
 vol: 36
 pages: 191-193
 source: sources/Orchidaceae_vol36_paddle
+countries: [Angola, Cote d'Ivoire, Gabon, Ghana, Liberia, Sierra Leone, Uganda]
+in_region: true
+habitat: [primary forest]
 tags: [species, generated]
 ---
 # *Bulbophyllum cocoinum* Lindl.
@@ -45,7 +48,7 @@ Wieringa 580, Woleu-Ntem, Minkébé dist., Nsyé valley, 1° 30' N, 12° 48' E (
 
 ![Bulbophyllum cocoinum](../sources/Orchidaceae_vol36_paddle/figures/fig_100_p0194.png)
 
-*PL. 95. – Bulbophyllum cocoinum Lindl.: A, H, vue générale ; B, fleur, sépale latéral et labelle retiré ; C, D, F, labelle ; E, bractée ; G, labelle et gynostème en position naturelle, vue latérale (A-E, Mildbraed 6497, HBG ; F-H, ex VERMEULEN, 1987).*
+*PL. 95. – Bulbophyllum cocoinum Lindl.: A, H, general view ; B, flower, lateral sepal and labellum removed ; C, D, F, labellum ; E, bract ; G, labellum and gynostemium in natural position, lateral view (A-E, Mildbraed 6497, HBG ; F-H, ex VERMEULEN, 1987).*
 
 ![Bulbophyllum cocoinum](../sources/Orchidaceae_vol36_paddle/figures/fig_148_p0226.png)
 

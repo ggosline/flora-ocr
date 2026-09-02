@@ -7,6 +7,8 @@ family: Combretaceae
 vol: 35
 pages: 47-49
 source: sources/Combretaceae_vol35_paddle
+countries: [Gabon, Mozambique, Sierra Leone, Uganda]
+in_region: true
 tags: [species, generated]
 ---
 # *Combretum fuscum* Planchon ex Bentham
@@ -59,7 +61,7 @@ Le Testu 2190, Ghéci, 1°28'S-11°08'E (fl., Nov.), BM, BR, P, (type de C. itso
 
 ![Combretum fuscum](../sources/Combretaceae_vol35_paddle/figures/fig_012_p0048.png)
 
-*PL. 12. – Combretum fuscum Planchon ex Bentham : A, rameau florifère × 1/2 ; B, fleur × 5 ; C, fleur, coupe longitudinale × 5 ; D, fruit × 1 ; E, fruit, coupe transversale × 1. (A-C, Jacques-Félix 2595 ; D, E, Pierlot 3205). – Dessins de N.G. LONGWA reproduits avec l'autorisation du Département des Spermatophytes et Ptéridophytes du Jardin Botanique National de MEISE (Belgique).*
+*PL. 12. – Combretum fuscum Planchon ex Bentham : A, flowering branch × 1/2 ; B, flower × 5 ; C, flower, longitudinal cross-section × 5 ; D, fruit × 1 ; E, fruit, transverse cross-section × 1. (A-C, Jacques-Félix 2595 ; D, E, Pierlot 3205). – Drawings by N.G. LONGWA reproduced with the permission of the Department of Spermatophytes and Pteridophytes of the National Botanic Garden of MEISE (Belgium).*
 
 ## Notes
 

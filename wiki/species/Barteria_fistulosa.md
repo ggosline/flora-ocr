@@ -7,6 +7,10 @@ family: Passifloraceae
 vol: 46
 pages: 78-80
 source: sources/Passifloraceae_vol46_liteparse
+countries: [Angola, Cameroon, Central African Republic, Democratic Republic of the Congo, Equatorial Guinea, Gabon, Nigeria, Republic of the Congo]
+in_region: true
+habit: "tree"
+altitude_m: "900"
 tags: [species, generated]
 ---
 # *Barteria fistulosa* Mast. Planche 31, 32(10)

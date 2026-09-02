@@ -7,6 +7,8 @@ family: Dichapetalaceae
 vol: 32
 pages: 171-174
 source: sources/Dichapetalaceae_vol32_paddle
+countries: [Angola, Cameroon, Cote d'Ivoire, Democratic Republic of the Congo, Gabon, Nigeria, Sudan]
+in_region: true
 tags: [species, generated]
 ---
 # *Dichapetalum staudtii* Engler
@@ -77,7 +79,7 @@ de Wilde & al. 814, Wonga-Wongué Reserve (bout. fl., Feb.); 856 (bout. fl., Feb
 
 ![Dichapetalum staudtii](../sources/Dichapetalaceae_vol32_paddle/figures/fig_051_p0172.png)
 
-*PL. 50 – Dichapetalum staudtii Engler : 1, jeune rameau florifère × 0,8 ; 2, grande feuille × 0,8 ; 3, fleur × 5 ; 4, fleur, détail × 10 ; 5, sépale, vue externe × 10 ; 6, fruit × 2,5 (1, 6, Breteler 6848 ; Breteler 6943 ; 3-5, Breteler 6694). – Repris de MLW 82 (8) : 32 (1982).*
+*PL. 50 – Dichapetalum staudtii Engler : 1, young flowering branch × 0,8 ; 2, large leaf × 0,8 ; 3, flower × 5 ; 4, flower, detail × 10 ; 5, sepal, external view × 10 ; 6, fruit × 2,5 (1, 6, Breteler 6848 ; Breteler 6943 ; 3-5, Breteler 6694). – Reprinted from MLW 82 (8) : 32 (1982).*
 
 ## Notes
 

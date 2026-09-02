@@ -7,6 +7,7 @@ family: Sapindaceae
 vol: 23
 pages: 90-91
 source: sources/Sapindaceae_vol23_paddle
+habit: "shrub"
 tags: [species, generated]
 ---
 # *Chytranthus edulis* Pierre
@@ -67,7 +68,7 @@ Hallé N. 875, km 18 route de Libreville à Kango (fl., août); 877, Méla, Mont
 
 ![Chytranthus edulis](../sources/Sapindaceae_vol23_paddle/figures/fig_017_p0089.png)
 
-*PL. 17. — A : Chytranthus macrophyllus Gilg : 1, fleur ♂ large de 6 mm; 2, anthère env. 2 mm, recto, verso, coupe : 3, étamine longue de 13,5 mm; 4, pétale de 11 mm; 5, jeune pétale; 6, jeune pétale (Mann 1835); 7, disque; 8, coupe de l'ovaire avorté (Zenker 1025; 5 et 7, Letouzey 4087). — B : Chytranthus edulis Pierre : 1, fleur ♀ large de 6 mm; 2, anthère env. 2 mm verso, profil, coupe; 3, pétale de 8 mm; 4, jeune pétale (Klaine 379); 5, ovaire profil et coupe, diamètre 3,7 mm (Klaine 201). — C : Chytranthus mannii Hook. f. : 1, fleur large de 6 mm; 2, anthère env. 2 mm; 3, pétale de 10 mm; 4, jeune pétale; 5, disque; 6, ovaire avorté × 15 (Chevalier 14251, San Thomé).*
+*PL. 17. — A : Chytranthus macrophyllus Gilg : 1, flower ♂ width 6 mm; 2, anther approx. 2 mm, recto, verso, section : 3, stamen length 13.5 mm; 4, petal of 11 mm; 5, young petal; 6, young petal (Mann 1835); 7, disk; 8, section of the aborted ovary (Zenker 1025; 5 and 7, Letouzey 4087). — B : Chytranthus edulis Pierre : 1, flower ♀ width 6 mm; 2, anther approx. 2 mm verso, profile, section; 3, petal of 8 mm; 4, young petal (Klaine 379); 5, ovary profile and section, diameter 3.7 mm (Klaine 201). — C : Chytranthus mannii Hook. f. : 1, flower width 6 mm; 2, anther approx. 2 mm; 3, petal of 10 mm; 4, young petal; 5, disk; 6, aborted ovary × 15 (Chevalier 14251, San Thomé).*
 
 ## Notes
 

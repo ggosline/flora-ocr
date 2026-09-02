@@ -7,6 +7,9 @@ family: Leguminosae
 vol: 15
 pages: 211-213
 source: sources/Leguminosae_vol15_paddle
+countries: [Angola, Guinea]
+in_region: true
+habit: "tree"
 tags: [species, generated]
 ---
 # *Anthonotha macrophylla* P. Beauv.
@@ -66,7 +69,7 @@ Morel : 88, Ntoum-Rogolié, 262, Mondah (fl. oct.).
 
 ![Anthonotha macrophylla](../sources/Leguminosae_vol15_paddle/figures/fig_052_p0212.png)
 
-*PL. LII. — Anthonotha macrophylla P. Beauvois : 1, feuille et inflorescence × 2/3; 2, fleur × 4; 3, corolle développée et androcée × 4; 4, petit pétale × 4; 5, ovaire × 4; 6, fruit.*
+*PL. LII. — Anthonotha macrophylla P. Beauvois : 1, leaf and inflorescence × 2/3; 2, flower × 4; 3, developed corolla and androecium × 4; 4, small petal × 4; 5, ovary × 4; 6, fruit.*
 
 ## Notes
 

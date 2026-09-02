@@ -7,6 +7,9 @@ family: Leguminosae
 vol: 15
 pages: 145-148
 source: sources/Leguminosae_vol15_paddle
+countries: [Angola, Cameroon, Gabon, Nigeria]
+in_region: true
+habit: "tree"
 tags: [species, generated]
 ---
 # *Pterygopodium oxyphyllum* Harms Tchitola

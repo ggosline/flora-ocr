@@ -5,20 +5,17 @@ authority: L.
 genus: Ruppia
 family: Ruppiaceae
 synonyms: [Ruppia rostellata W.D.J.Koch ex Reichenb., Ruppia maritima subsp. rostellata (W.D.J.Koch) Asch. & Graebner]
-countries: [Gabon]
-subdivisions:
-  Gabon: [Ogooué-Maritime]
 range_note: Nearly cosmopolitan and present along African coasts.
-countries_incomplete: true
-in_region: true
-habit: submerged aquatic herb
-habitat: [coastal brackish water, lagoons, inland salt pools]
-altitude_m: "sea level in Gabon; to 800 elsewhere"
 treatments:
   - vol: 52
     year: 2018
     pages: "51–52"
     source: sources/Ruppiaceae_vol52_liteparse
+countries: [Gabon]
+in_region: true
+subdivisions:
+  Gabon: [Ogooué-Maritime]
+habit: "herb"
 tags: [species]
 ---
 

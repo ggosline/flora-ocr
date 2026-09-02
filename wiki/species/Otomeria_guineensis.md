@@ -7,6 +7,9 @@ family: Rubiaceae
 vol: 12
 pages: 114-116
 source: sources/Rubiaceae_vol12_paddle
+countries: [Cameroon, Gabon, Ghana, Liberia, Nigeria]
+in_region: true
+habit: "herb"
 tags: [species, generated]
 ---
 # *Otomeria guineensis* Benth.
@@ -47,7 +50,7 @@ H. Soyaux: 433, Mondah (not seen, cited by Verdecourt).
 
 ![Otomeria guineensis](../sources/Rubiaceae_vol12_paddle/figures/fig_026_p0115.png)
 
-*PL. 20. — Otomeria guineensis Benth. (N. Hallé 1657 de 1 à 8; N. H. 1555, 9 et 10) : 1, sommité florifère; 2, stipule; 3, fragment d'inflorescence; 4, corolle dans le jeune bouton; 5, jeune bouton en coupe; 6, fleur, en coupe partielle; 7, anthère; 8, ovaire noué en coupe; 9, portion d'infrutescence; 10, graine. — O. cameronica (Brem.) Hepper (N. H. 1107) : 11, infrutescence.*
+*PL. 20. — Otomeria guineensis Benth. (N. Hallé 1657 from 1 to 8; N. H. 1555, 9 and 10) : 1, flowering summit; 2, stipule; 3, inflorescence fragment; 4, corolla in the young bud; 5, young bud in section; 6, flower, in partial section; 7, anther; 8, ovary knotted in section; 9, portion of infructescence; 10, seed. — O. cameronica (Brem.) Hepper (N. H. 1107) : 11, infructescence.*
 
 ## Notes
 

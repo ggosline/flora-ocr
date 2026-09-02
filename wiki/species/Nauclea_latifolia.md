@@ -7,6 +7,7 @@ family: Rubiaceae
 vol: 12
 pages: 42-44
 source: sources/Rubiaceae_vol12_paddle
+habit: "liana"
 tags: [species, generated]
 ---
 # *Nauclea latifolia* Smith.

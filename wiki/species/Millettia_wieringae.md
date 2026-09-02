@@ -7,6 +7,13 @@ family: Leguminosae
 vol: 49
 pages: 273-274
 source: sources/Millettiaspeciesfabaceae_vol49_liteparse
+countries: [Gabon]
+in_region: true
+subdivisions:
+  Gabon: [Haut-Ogooué, Ogooué-Ivindo]
+habit: "tree"
+habitat: [savanna, evergreen forest]
+altitude_m: "200–550"
 tags: [species, generated]
 ---
 # *Millettia wieringae* Adomou, sp. nov.

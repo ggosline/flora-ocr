@@ -7,6 +7,8 @@ family: Combretaceae
 vol: 35
 pages: 69-71
 source: sources/Combretaceae_vol35_paddle
+countries_incomplete: true
+habit: "liana"
 tags: [species, generated]
 ---
 # *Combretum ndjoleense* Jongkind
@@ -47,7 +49,7 @@ Breteler & Jongkind 10891, 5-6 km NE de N'djolé, 0°05'N-10°45'E (fl., Avril),
 
 ![Combretum ndjoleense](../sources/Combretaceae_vol35_paddle/figures/fig_019_p0070.png)
 
-*Pl. 19. – Combretum ndjoleense : 1, rameau florifère ; 2, fleur entière ; 3, fleur en coupe longitudinale (1-3, Breteler & Jongkind 10407). – Combretum pecoense : 4, rameau florifère ; 5, fleur vue de profil & en vue plongeante montrant le disque (4, 5, Breteler & Breteler-Klein Breteler 12330). – Dessins de JOANNE DAVIES – Department of plant Taxonomy. Agricultural University. WAGENINGEN (Pays-Bas).*
+*Pl. 19. – Combretum ndjoleense : 1, flowering branch ; 2, entire flower ; 3, flower in longitudinal section (1-3, Breteler & Jongkind 10407). – Combretum pecoense : 4, flowering branch ; 5, flower seen in profile & in overhead view showing the disk (4, 5, Breteler & Breteler-Klein Breteler 12330). – Drawings by JOANNE DAVIES – Department of plant Taxonomy. Agricultural University. WAGENINGEN (Netherlands).*
 
 ## Notes
 

@@ -7,6 +7,8 @@ family: Orchidaceae
 vol: 37
 pages: 225-227
 source: sources/Orchidaceae_vol37_paddle
+countries: [Cameroon, Democratic Republic of the Congo, Gabon]
+in_region: true
 tags: [species, generated]
 ---
 # *Angraecum gabonense* Summerh.

@@ -7,6 +7,11 @@ family: Cucurbitaceae
 vol: 57
 pages: 83-83
 source: sources/Cucurbitaceae_vol57_paddle
+countries: [Gabon]
+in_region: true
+subdivisions:
+  Gabon: [Ogooué-Lolo]
+altitude_m: "250"
 tags: [species, generated]
 ---
 # *Momordica breteleri* H. Schaefer, spec. nov.

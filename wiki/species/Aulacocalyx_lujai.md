@@ -7,6 +7,8 @@ family: Rubiaceae
 vol: 17
 pages: 160-162
 source: sources/Rubiaceae_vol17_paddle
+countries: [Gabon]
+in_region: true
 tags: [species, generated]
 ---
 # *Aulacocalyx lujai* De Wild. (P.L. 35, p. 159)

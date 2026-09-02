@@ -7,6 +7,9 @@ family: Podostemaceae
 vol: 51
 pages: 29-32
 source: sources/Podostemaceae_vol51_liteparse
+countries: [Angola, Cameroon, Central African Republic, Gabon]
+in_region: true
+altitude_m: "150"
 tags: [species, generated]
 ---
 # *Inversodicraea cristata* Engl. Planche 10

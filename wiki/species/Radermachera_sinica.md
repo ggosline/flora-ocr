@@ -7,6 +7,7 @@ family: Bignoniaceae
 vol: 27
 pages: 55-55
 source: sources/Bignoniaceae_vol27_paddle
+habit: "tree"
 tags: [species, generated]
 ---
 # *Radermachera sinica* (Hance) Hemsley

@@ -7,6 +7,7 @@ family: Bignoniaceae
 vol: 27
 pages: 56-57
 source: sources/Bignoniaceae_vol27_paddle
+habit: "tree"
 tags: [species, generated]
 ---
 # *Tecoma stans* (Linné)
@@ -17,31 +18,27 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 Jussieu ex Humboldt, Bonpland & Kunth
 
 - Bignonia stans L., Sp. Pl., ed. 2, 2: 871 (1763).
 
 – Stenolobium stans (L.) SEEM., J. of Bot. 1: 88 (1863).
 
-Arbuste ou petit arbre, occasionnellement haut jusqu'à 10 m et d'un diamètre de 25 cm. Ramilles ± cylindriques, squameuses et irrégulièrement subpubérulentes. Feuilles (chez les plantes camerounaises) composées imparipennées, 3-9 folioles, folioles opposées, dentées, lancéolées, apicalement aiguës à acuminées, basalement cunéiformes, 2,4-15 × 0,8-6 cm, un peu squameuses dessus et dessous, pubérulentes sur la nervure médiane dessus et dessous, souvent pubérulentes dessous à la base des nervures secondaires et parfois sur la surface foliaire, spécialement dans les aisselles des nervures.
+Shrub or small tree, occasionally reaching up to 10 m tall and 25 cm in diameter. Branchlets ± cylindrical, squamose and irregularly subpuberulent. Leaves (in Cameroonian plants) compound imparipinnate, 3–9 leaflets, leaflets opposite, dentate, lanceolate, acutely acuminate apically, cuneiform basally, 2.4–15 × 0.8–6 cm, somewhat squamose on both surfaces and puberulent on the midvein above and below, often puberulent below at the base of secondary veins and sometimes on the leaf surface, especially in the axils of veins.
 
-Inflorescence en grappe terminale ou subterminale avec jusqu'à 20 fleurs, seulement un petit nombre ouvert en même temps, pédicelles et axe de l'inflorescence squameux. Calice allongé-cupulaire, régulièrement 5-denté, dents longues de 1 mm environ et habituellement apicu-
+Inflorescence a terminal or subterminal raceme with up to 20 flowers, only a small number open at the same time, pedicels and inflorescence axis squamose. Calyx elongate-cupular, regularly 5-dentate, teeth about 1 mm long and usually apiculate, ciliate with conspicuously impressed submargin glands. Corolla yellow with 7 reddish lines in the throat, tubular-campanulate above a narrowed base, 3.5–5.8 cm long, 1.2–2.4 cm wide at the tube opening, tube 3–4.3 cm long, lobes 1–1.6 cm long, glabrous except for gland-tipped hairs at the insertion of stamens and twisted hairs in the sinuses and on the ridges of the throat. Stamens didynamous; anther-lobes divaricate, 3.5 mm long, pubescent with multicellular, simple, twisted hairs. Pistil 3.1–3.4 mm long; ovary narrowly cylindric, 3 mm long, 1 mm wide, glandular-squamose; ovules biseriate in each locule. Disk cupular pulvinate, 1 mm long, 1 mm wide.
 
-lées, cilié avec des glandes submarginales visiblement enfoncées. Corolle jaune avec 7 lignes rougeâtres dans la gorge, tubulaire campanulée au-dessus d'une base rétrécie, longue de 3,5-5,8 cm, large de 1,2-2,4 cm à l'ouverture du tube, tube long de 3-4,3 cm, lobes longs de 1-1,6 cm, glabre sauf pour les poils à sommet glanduleux au niveau de l'insertion des étamines et les poils tordus dans les sinus et sur les arêtes de la gorge. Étamines didynamics ; thèques divariquées, longues de 3,5 mm, pubescentes avec des poils multicellulaires, simples, tordus. Pistil long de 3,1-3,4 mm ; ovaire étroitement cylindrique, long de 3 mm, large de 1 mm, glandulaire squameux ; ovules bisériés dans chaque loge. Disque cupulaire pulviné, long de 1 mm, large de 1 mm.
+Capsule linear, attenuate at the extremities, subcylindric when fresh, 7–21 cm long, 5–7 mm wide, lenticellate surface, ± glabrous, sometimes weakly squamose. Seeds 3–5 mm long, 2.4–2.7 cm wide, wings hyaline membranous, sharply demarcated from the seed body. – Pl. 13, p. 55.
 
-Capsule linéaire, effilée aux extrémités, subcylindrique, sur le frais, longue de 7-21 cm, large de 5-7 mm, surface lenticellée, ± glabre, parfois faiblement squameuse. Graines longues de 3-5 mm, larges de 2,4-2,7 cm, ailes hyalines membraneuses, fortement démarquées du corps de la graine. – Pl. 13, p. 55.
+Native to tropical America from the southern United States to northern Argentina. Cultivated in tropical and subtropical regions for its showy flowers and often naturalizing in disturbed areas.
 
-Originaire d'Amérique tropicale depuis le sud des États-Unis jusqu'au nord de l'Argentine. Cultivé dans les régions tropicales et subtropicales pour ses fleurs voyantes et souvent se naturalisant dans des zones perturbées.
-
-Bien qu'aucun échantillon du Gabon n'ait été observé ; il est possible que cette espèce y soit présente ; elle est cultivée au Cameroun proche et ailleurs en Afrique tropicale.
+Although no specimen from Gabon has been observed, it is possible that this species is present there; it is cultivated in nearby Cameroon and elsewhere in tropical Africa.
 
 ## Figures
 
 ![Tecoma stans](../sources/Bignoniaceae_vol27_paddle/figures/fig_013_p0058.png)
 
-*PL. 13. – Tecoma stans (L.) Juss. ex HBK.: 1, rameau fleuri × 0,66; 2, limbe face inférieure; 3, calice × 2; 4, corolle face interne × 1; 5, anthère × 3; 6, pistil et disque × 3; 7, fruit × 0,66; 8, graine × 1 (1-3, 5, 8, Raynal J. & A. 11996 bis, Cameroun; 4, 6, 7, Dang 489, Cameroun). (Repris de la Flore du Cameroun 27: tab. 18, 1984).*
+*PL. 13. – Tecoma stans (L.) Juss. ex HBK.: 1, flowering branch × 0,66; 2, limb lower surface; 3, calyx × 2; 4, corolla inner surface × 1; 5, anther × 3; 6, pistil and disk × 3; 7, fruit × 0,66; 8, seed × 1 (1-3, 5, 8, Raynal J. & A. 11996 bis, Cameroun; 4, 6, 7, Dang 489, Cameroun). (Taken from Flora of Cameroon 27: tab. 18, 1984).*
 
 ## Notes
 

@@ -7,6 +7,7 @@ family: Thymeleaceae
 vol: 11
 pages: 64-66
 source: sources/Thymeleaceae_vol11_paddle
+habit: "shrub"
 tags: [species, generated]
 ---
 # *Craterosiphon pseudoscandens* Domke

@@ -7,6 +7,10 @@ family: Leguminosae
 vol: 49
 pages: 264-264
 source: sources/Millettiaspeciesfabaceae_vol49_liteparse
+countries: [Angola, Democratic Republic of the Congo, Gabon, Republic of the Congo]
+in_region: true
+habit: "shrub"
+altitude_m: "10–200"
 tags: [species, generated]
 ---
 # *Millettia impressa* Harms subsp. impressa

@@ -7,6 +7,7 @@ family: Apocynaceae
 vol: 59
 pages: 132-134
 source: sources/Apocynaceae_vol59_liteparse
+habit: "liana"
 tags: [species, generated]
 ---
 # *Landolphia lecomtei* Dewèvre Planche 56

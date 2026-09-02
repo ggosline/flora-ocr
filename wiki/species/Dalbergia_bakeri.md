@@ -7,6 +7,13 @@ family: Leguminosae
 vol: 49
 pages: 119-121
 source: sources/Millettiaspeciesfabaceae_vol49_liteparse
+countries: [Angola, Democratic Republic of the Congo, Equatorial Guinea, Gabon, Republic of the Congo]
+in_region: true
+subdivisions:
+  Gabon: [Estuaire, Nyanga, Ogooué-Ivindo, Ogooué-Maritime]
+habit: "liana"
+habitat: [savanna, riverine, coastal]
+altitude_m: "0–1000"
 tags: [species, generated]
 ---
 # *Dalbergia bakeri* Welw. ex Baker Planche 36

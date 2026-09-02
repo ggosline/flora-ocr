@@ -7,6 +7,9 @@ family: Rubiaceae
 vol: 17
 pages: 186-188
 source: sources/Rubiaceae_vol17_paddle
+countries: [Cameroon, Cote d'Ivoire, Gabon, Nigeria]
+in_region: true
+habit: "liana"
 tags: [species, generated]
 ---
 # *Atractogyne bracteata* (Wernh.) Hutch. et Dalz.

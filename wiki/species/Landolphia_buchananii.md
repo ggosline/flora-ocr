@@ -7,6 +7,10 @@ family: Apocynaceae
 vol: 59
 pages: 117-117
 source: sources/Apocynaceae_vol59_liteparse
+countries: [Gabon]
+in_region: true
+habit: "liana"
+altitude_m: "500"
 tags: [species, generated]
 ---
 # *Landolphia buchananii* (Hallier f.) Stapf Planche 49

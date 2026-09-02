@@ -7,6 +7,9 @@ family: Melastomataceae
 vol: 25
 pages: 132-133
 source: sources/Melastomataceae_vol25_paddle
+countries: [Cameroon, Central African Republic, Democratic Republic of the Congo]
+in_region: true
+habit: "shrub"
 tags: [species, generated]
 ---
 # *Memecylon laurentii* De Wildeman

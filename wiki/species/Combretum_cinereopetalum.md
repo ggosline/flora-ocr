@@ -7,6 +7,9 @@ family: Combretaceae
 vol: 35
 pages: 24-25
 source: sources/Combretaceae_vol35_paddle
+countries: [Angola, Cameroon, Uganda]
+in_region: true
+habit: "liana"
 tags: [species, generated]
 ---
 # *Combretum cinereopetalum* Engler & Diels
@@ -55,7 +58,7 @@ Walker s.n., St. Martin (fl., fr., Aug.), P.
 
 ![Combretum cinereopetalum](../sources/Combretaceae_vol35_paddle/figures/fig_022_p0084.png)
 
-*PL. 22. – Combretum racemosum Palisot de Beauvois : 1, rameau florifère & fructifère ; 2, fleur entière ; 3, fleur (au-dessus de l'ovaire), coupe longitudinale (1, partie florifère Oldeman 767, partie fructifère de Konig 179 ; 2, 3, Audru 3725). – Combretum cinereopetalum Engler & Diels : 4, fleur (au-dessus de l'ovaire), coupe longitudinale ; 5, fleur entière (4, 5, Reitsma cs. 641). – Dessins originaux de JOANNE DAVIES – Department of plant Taxonomy. Agricultural University. WAGENINGEN (Pays-Bas).*
+*PL. 22. – Combretum racemosum Palisot de Beauvois : 1, flowering and fruiting branch ; 2, entire flower ; 3, flower (above the ovary), longitudinal section (1, flowering part Oldeman 767, fruiting part de Konig 179 ; 2, 3, Audru 3725). – Combretum cinereopetalum Engler & Diels : 4, flower (above the ovary), longitudinal section ; 5, entire flower (4, 5, Reitsma cs. 641). – Original drawings by JOANNE DAVIES – Department of plant Taxonomy. Agricultural University. WAGENINGEN (Netherlands).*
 
 ## Notes
 

@@ -7,6 +7,9 @@ family: Celastraceae
 vol: 29
 pages: 55-57
 source: sources/Celastraceae_vol29_paddle
+countries: [Cameroon, Cote d'Ivoire, Democratic Republic of the Congo, Gabon, Ghana, Guinea]
+in_region: true
+habit: "liana"
 tags: [species, generated]
 ---
 # *Salacia letestui* Pellegrin

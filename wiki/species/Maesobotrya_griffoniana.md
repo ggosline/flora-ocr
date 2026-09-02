@@ -7,6 +7,13 @@ family: Phyllanthaceae
 vol: 43
 pages: 46-47
 source: sources/Phyllanthaceae_vol43_liteparse
+countries: [Cameroon, Equatorial Guinea, Gabon]
+in_region: true
+subdivisions:
+  Gabon: [Estuaire, Moyen-Ogooué, Ngounié, Nyanga, Ogooué-Maritime]
+habit: "tree"
+habitat: [secondary forest]
+altitude_m: "0–600"
 tags: [species, generated]
 ---
 # *Maesobotrya griffoniana* (Baill.) Pierre ex Hutch.

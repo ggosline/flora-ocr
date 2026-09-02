@@ -7,6 +7,8 @@ family: Rubiaceae
 vol: 12
 pages: 144-147
 source: sources/Rubiaceae_vol12_paddle
+countries: [Cameroon, Gabon]
+in_region: true
 tags: [species, generated]
 ---
 # *Mussaenda debeauxii* Werham

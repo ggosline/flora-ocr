@@ -5,20 +5,17 @@ authority: (L.) H.Hara
 genus: Ludwigia
 family: Onagraceae
 synonyms: [Jussiaea erecta L.]
-countries: [Gabon]
-subdivisions:
-  Gabon: [Estuaire, Ogooué-Lolo]
 range_note: Native to Central and South America; introduced widely in Africa, tropical and subtropical Asia, the Pacific and Australia.
-countries_incomplete: true
-in_region: true
-habit: glabrous herb, sometimes woody at base
-habitat: [wet ground, pond margins, river margins, stream margins, coastal sand, mud, wet fallow]
-altitude_m: "to 325 in Gabon; to 1200 elsewhere"
 treatments:
   - vol: 52
     year: 2018
     pages: "35–37"
     source: sources/Onagraceae_vol52_liteparse
+countries: [Gabon]
+in_region: true
+subdivisions:
+  Gabon: [Estuaire, Ogooué-Lolo]
+habit: "herb"
 tags: [species]
 ---
 

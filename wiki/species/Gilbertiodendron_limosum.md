@@ -7,6 +7,8 @@ family: Leguminosae
 vol: 15
 pages: 230-231
 source: sources/Leguminosae_vol15_paddle
+habit: "shrub"
+habitat: [riverine]
 tags: [species, generated]
 ---
 # *Gilbertiodendron limosum* (Pellegrin) Léonard

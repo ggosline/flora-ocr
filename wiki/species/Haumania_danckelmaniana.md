@@ -6,6 +6,9 @@ family: Marantaceae
 vol: 09
 pages: 112-115
 source: sources/Marantaceae_vol09_paddle
+countries: [Cameroon, Gabon, Guinea]
+in_region: true
+habit: "herb"
 tags: [species, generated]
 ---
 # *Haumania danckelmaniana*
@@ -50,7 +53,7 @@ Klaine : 70 et 277, Libreville. Mgr Leroy : 19 et 29, Ogooué. Griffon du Bellay
 
 ![Haumania danckelmaniana](../sources/Marantaceae_vol09_paddle/figures/fig_027_p0113.png)
 
-*PL. XXIV. — Haumania Danckelmaniana (J. Braun. et K. Schum.) M.-Redh. (Letouzey 3983) : 1, feuille et inflorescence ; 2, schéma de la base de la face inf. de la feuille ; 3, bractée ; 4, fleur (hauteur totale d'environ 2 cm) ; 5, couronne staminale, gr. nat. d'après un dessin original de Gagnepain (ainsi que la figure 4) ; 6, fruit (gr. nat.) ; 7, coupe transversale médiane de la graine. — Haumania Liebrechtsiana (De Wild. et Th. Dur.) J. Léonard (Lecomte s. n.) : 8, schéma de la base de la face inf. de la feuille ; 9, bractée ; 10, fruit (gr. nat.) ; 11, coupe transversale médiane de la graine.*
+*PL. XXIV. — Haumania Danckelmaniana (J. Braun. and K. Schum.) M.-Redh. (Letouzey 3983) : 1, leaf and inflorescence ; 2, diagram of the base of the lower surface of the leaf ; 3, bract ; 4, flower (total height of approximately 2 cm) ; 5, staminial crown, nat. size after an original drawing by Gagnepain (as well as figure 4) ; 6, fruit (nat. size) ; 7, median transverse section of the seed. — Haumania Liebrechtsiana (De Wild. and Th. Dur.) J. Léonard (Lecomte s. n.) : 8, diagram of the base of the lower surface of the leaf ; 9, bract ; 10, fruit (nat. size) ; 11, median transverse section of the seed.*
 
 ## Notes
 

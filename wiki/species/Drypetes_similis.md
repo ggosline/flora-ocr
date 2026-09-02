@@ -7,6 +7,11 @@ family: Putranjivaceae
 vol: 57
 pages: 160-161
 source: sources/Putranjivaceae_vol57_paddle
+countries: [Cameroon, Gabon, Nigeria]
+in_region: true
+subdivisions:
+  Gabon: [Estuaire]
+habit: "tree"
 tags: [species, generated]
 ---
 # *Drypetes similis* Hutch.

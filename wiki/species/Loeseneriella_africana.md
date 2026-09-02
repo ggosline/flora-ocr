@@ -7,6 +7,8 @@ family: Celastraceae
 vol: 29
 pages: 255-259
 source: sources/Celastraceae_vol29_paddle
+countries: [Cameroon, Chad, Gabon, Tanzania, Togo, Zambia]
+in_region: true
 tags: [species, generated]
 ---
 # *Loeseneriella africana* (Willdenow) Wilczek ex Hallé

@@ -7,6 +7,8 @@ family: Schizaeaceae
 vol: 08
 pages: 52-54
 source: sources/Schizaeaceae_vol08_paddle
+countries: [Angola, Cote d'Ivoire, Guinea, Nigeria]
+in_region: true
 tags: [species, generated]
 ---
 # *Lygodium smithianum* Presl (P.L. VIII)

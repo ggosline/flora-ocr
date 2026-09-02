@@ -7,6 +7,10 @@ family: Cucurbitaceae
 vol: 57
 pages: 69-70
 source: sources/Cucurbitaceae_vol57_paddle
+countries: [Gabon]
+in_region: true
+habit: "herb"
+altitude_m: "0–3600"
 tags: [species, generated]
 ---
 # *Cucurbita pepo* L.

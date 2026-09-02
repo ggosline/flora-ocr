@@ -7,6 +7,9 @@ family: Orchidaceae
 vol: 36
 pages: 141-143
 source: sources/Orchidaceae_vol36_paddle
+countries: [Cameroon, Cote d'Ivoire, Gabon, Ghana, Nigeria]
+in_region: true
+habitat: [savanna, primary forest]
 tags: [species, generated]
 ---
 # *Bulbophyllum phaeopogon* Schltr.
@@ -41,7 +44,7 @@ Le Testu 5178, Inouta, on the edge of the Ogooué (fl., Jan.), BR!, P!, K; 5595,
 
 ![Bulbophyllum phaeopogon](../sources/Orchidaceae_vol36_paddle/figures/fig_073_p0144.png)
 
-*PL. 68. – Bulbophyllum phaeopogon Schltr.: A, vue générale ; B, fleur ; C, pièces florales ; D, labelle ; E, labelle et gynostème en position naturelle, vue latérale ; F, pollinies ; G, anthère (A-G, ex VERMEULEN, 1987).*
+*PL. 68. – Bulbophyllum phaeopogon Schltr.: A, general view ; B, flower ; C, floral parts ; D, lip ; E, lip and gynosteme in natural position, lateral view ; F, pollinia ; G, anther (A-G, ex VERMEULEN, 1987).*
 
 ![Bulbophyllum phaeopogon](../sources/Orchidaceae_vol36_paddle/figures/fig_135_p0223.png)
 

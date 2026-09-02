@@ -7,6 +7,10 @@ family: Begoniaceae
 vol: 39
 pages: 16-18
 source: sources/Begoniaceae_vol39_liteparse
+countries: [Cameroon, Democratic Republic of the Congo, Equatorial Guinea, Gabon]
+in_region: true
+habit: "herb"
+altitude_m: "950"
 tags: [species, generated]
 ---
 # *Begonia elatostemmoides* Hook.f.

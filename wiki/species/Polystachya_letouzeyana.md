@@ -7,6 +7,10 @@ family: Orchidaceae
 vol: 37
 pages: 31-33
 source: sources/Orchidaceae_vol37_paddle
+countries: [Cameroon, Gabon]
+in_region: true
+habitat: [primary forest]
+altitude_m: "2"
 tags: [species, generated]
 ---
 # *Polystachya letouzeyana* Szlach. & Olsz.

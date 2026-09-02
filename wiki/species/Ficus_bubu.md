@@ -7,6 +7,9 @@ family: Moraceae
 vol: 26
 pages: 218-219
 source: sources/Moraceae_vol26_paddle
+countries: [Angola, Cameroon, Democratic Republic of the Congo, Gabon, Ghana, Malawi, Uganda]
+in_region: true
+habit: "tree"
 tags: [species, generated]
 ---
 # *Ficus bubu* Warburg
@@ -47,7 +50,7 @@ Hijman & Weerdenburg 378, 11 km SW Makokou (stér.); 435, 10 km SW Booué, Petit
 
 ![Ficus bubu](../sources/Moraceae_vol26_paddle/figures/fig_065_p0220.png)
 
-*PL. 64. - Ficus bubu Warb.: 1, rameau avec feuilles × 2/3; 2, figues cauliflores × 1 (Letouzey 12153, Cameroun).*
+*PL. 64. - Ficus bubu Warb.: 1, branch with leaves × 2/3; 2, cauliflorous figs × 1 (Letouzey 12153, Cameroon).*
 
 ## Notes
 

@@ -7,6 +7,8 @@ family: Leguminosae
 vol: 31
 pages: 27-29
 source: sources/Leguminosae_vol31_paddle
+countries: [Cameroon, Democratic Republic of the Congo]
+in_region: true
 tags: [species, generated]
 ---
 # *Pentaclethra eetveldeana* De Wildeman & Th. Durand
@@ -81,7 +83,7 @@ muçamu (Adouma, Banzabi); sēngé (Apindji); musamu (Baduma, Balumbu, Bapunu, M
 
 ![Pentaclethra eetveldeana](../sources/Leguminosae_vol31_paddle/figures/fig_014_p0026.png)
 
-*PL. 3. – Pentaclethra macrophylla Benth.: 1, 2, fruit × 2/3; 3, exocarpe, détail × 4; 4, 5, graine × 1. (1, 3, Le Testu 1168; 2, 5, Jacques-Félix 1132 (Cameroun); 4, Toussaint 192 (Zaïre). – Pentaclethra eetveldeana De Wild. & Th. Dur.: 6, 7, fruit × 1; 8, exocarpe, détail × 4; 9, graine × 1. (6, Aubréville 211 (Congo); 7, 8, Léonard 1026 (Zaïre); 9, Léonard 592 (Zaïre)).*
+*PL. 3. – Pentaclethra macrophylla Benth.: 1, 2, fruit × 2/3; 3, exocarp, detail × 4; 4, 5, seed × 1. (1, 3, Le Testu 1168; 2, 5, Jacques-Félix 1132 (Cameroon); 4, Toussaint 192 (Zaire). – Pentaclethra eetveldeana De Wild. & Th. Dur.: 6, 7, fruit × 1; 8, exocarp, detail × 4; 9, seed × 1. (6, Aubréville 211 (Congo); 7, 8, Léonard 1026 (Zaire); 9, Léonard 592 (Zaire)).*
 
 ![Pentaclethra eetveldeana](../sources/Leguminosae_vol31_paddle/figures/fig_015_p0028.png)
 

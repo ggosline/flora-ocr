@@ -6,6 +6,13 @@ genus: Clerodendrum
 vol: 58
 pages: 38-38
 source: sources/Labiataeulmaceaeverbenaceae_vol58_liteparse
+countries: [Angola, Cameroon, Central African Republic, Democratic Republic of the Congo, Gabon]
+in_region: true
+subdivisions:
+  Gabon: [Haut-Ogooué, Ngounié, Nyanga, Ogooué-Maritime]
+habit: "tree"
+habitat: [rocky ground]
+altitude_m: "290–500"
 tags: [species, generated]
 ---
 # *Clerodendrum poggei* Gürke

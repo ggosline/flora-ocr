@@ -7,6 +7,12 @@ family: Rhizophoraceae
 vol: 47
 pages: 115-125
 source: sources/Rhizophoraceae_vol47_liteparse
+countries: [Angola, Gabon, Senegal]
+in_region: true
+subdivisions:
+  Gabon: [Estuaire, Nyanga, Ogooué-Maritime]
+habit: "tree"
+habitat: [mangrove]
 tags: [species, generated]
 ---
 # *Rhizophora racemosa* G.Mey. Planche 38.2, 39

@@ -4,10 +4,8 @@ name: Aframomum aulacocarpos
 authority: Pellegr. ex J. Koech.
 genus: Aframomum
 family: Zingiberaceae
-countries: [Gabon, Central African Republic]
-in_region: true
-habit: rhizomatous herb
 treatments: [{vol: 9, pages: "46–47", source: sources/Zingiberaceae_vol9_paddle}]
+habit: "herb"
 tags: [species]
 ---
 # *Aframomum aulacocarpos* Pellegr. ex J. Koech.

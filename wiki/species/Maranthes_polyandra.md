@@ -7,6 +7,9 @@ family: Scytopetalaceae
 vol: 24
 pages: 118-121
 source: sources/Chrysobalanaceae_vol24_paddle
+countries: [Angola, Cameroon, Cote d'Ivoire, Democratic Republic of the Congo, Malawi, Mali, Sudan, Tanzania, Zambia]
+in_region: true
+habitat: [savanna]
 tags: [species, generated]
 ---
 # *Maranthes polyandra* (Bentham) Prance
@@ -69,7 +72,7 @@ Letouzey 14056, Saka, 10 km NE Akwaya (fr., juill.).
 
 ![Maranthes polyandra](../sources/Chrysobalanaceae_vol24_paddle/figures/fig_034_p0119.png)
 
-*PL. 34. — Maranthes polyandra Benth. : 1, rameau avec fleurs × 2/3; 2, autre rameau feuillé × 1/3; 3, feuille dessous × 5; 4, pétiole × 4/3; 5, base pétiole × 10/3; 6, bouton floral × 8/3; 7, infrutescence × 2/3. (1, Chevalier 22939, Dahomey; 2-3, 5, 7, Letouzey 14056; 4, FHI 70382, Nigeria; 6, F. Hallé 1253, Côte d'Ivoire).*
+*PL. 34. — Maranthes polyandra Benth. : 1, branch with flowers × 2/3; 2, another leafy branch × 1/3; 3, leaf underside × 5; 4, petiole × 4/3; 5, base petiole × 10/3; 6, flower bud × 8/3; 7, fruit-bearing inflorescence × 2/3. (1, Chevalier 22939, Dahomey; 2-3, 5, 7, Letouzey 14056; 4, FHI 70382, Nigeria; 6, F. Hallé 1253, Ivory Coast).*
 
 ## Notes
 

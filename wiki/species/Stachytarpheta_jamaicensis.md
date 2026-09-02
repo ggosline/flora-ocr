@@ -7,6 +7,12 @@ family: Verbenaceae
 vol: 58
 pages: 146-146
 source: sources/Verbenaceae_vol58_liteparse
+countries: [Angola, Democratic Republic of the Congo, Gabon, Sao Tome and Principe]
+in_region: true
+subdivisions:
+  Gabon: [Moyen-Ogooué]
+habit: "herb"
+altitude_m: "10–90"
 tags: [species, generated]
 ---
 # *Stachytarpheta jamaicensis* (L.) Vahl
@@ -17,21 +23,15 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Herbe de 0,3–1,2 m de hauteur, ligneuse à la base ; tige glabre à ± faiblement poilue à l’état jeune, glabrescente, souvent violacée. Feuille : pétiole jusqu’à ± 1 cm ; limbe elliptique à obovale ou spatulé, de 1,5–11 × 0,8–5,5 cm, arrondi à atténué ou décurrent sur le pétiole, obtus à arrondi ou quelque peu aigu au sommet , bord crénelé-denté, entier à la base, glabre sur les deux faces ou un peu poilu sur les nervures inférieures. Inflorescence grêle, épi long de 14–50 cm, glabre ; axe jusqu’à 4 mm d’épaisseur en fruit ; bractées étroitement elliptiques-ovales, de 5–8 × 2–2,5 mm, acuminées au sommet, striées, scarieuses sur les bords, glabres. Fleur : calice de 5–6 × 2,5 mm, avec 4 dents égales ; corolle bleue ou violet pâle à foncé ou presque blanche, parfois avec un centre blanc, à tube long de 8–11 mm , légèrement incurvé, dépassant de ± 5 mm le calice, à limbe de 8–9 mm de diamètre, lobes longs de ± 3 mm ; style exsert du calice sur 3–4 mm après l’anthèse. Fruit : méricarpes de 4–7 × 1 mm, striés dorsalement ; calice en fruit ± complètement encastré dans les sillons du rachis.
+Herb 0.3–1.2 m tall, woody at base; stem glabrous to ± weakly hairy when young, glabescent, often purplish. Leaf: petiole up to ± 1 cm; blade elliptic to obovate or spatulate, 1.5–11 × 0.8–5.5 cm, rounded to attenuate or decurrent on petiole, obtuse to rounded or somewhat acute at apex, margin crenate-dentate, entire at base, glabrous on both faces or somewhat hairy on lower veins. Inflorescence slender, spike 14–50 cm long, glabrous; axis up to 4 mm thick in fruit; bracts narrowly elliptic-ovate, 5–8 × 2–2.5 mm, acuminate at apex, striate, scarious on margins, glabrous. Flower: calyx 5–6 × 2.5 mm, with 4 equal teeth; corolla blue or pale to dark violet or nearly white, sometimes with white centre, tube 8–11 mm long, slightly incurved, exceeding calyx by ± 5 mm, limb 8–9 mm in diameter, lobes ± 3 mm long; style exserted from calyx by 3–4 mm after anthesis. Fruit: mericarps 4–7 × 1 mm, dorsally striate; calyx in fruit ± completely embedded in rachis grooves.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-originaire de l’Amérique (sub)tropicale et introduite et souvent naturalisée en Afrique (sub) tropicale, y compris Sao Tomé-et-Principe, le Gabon, la République démocratique du Congo et l’Angola ; en Australie, en Asie et dans le Pacifique ; au Gabon : Moyen-Ogooué
+native to (sub)tropical America and introduced and often naturalized in (sub)tropical Africa, including São Tomé and Príncipe, Gabon, Democratic Republic of the Congo and Angola; in Australia, Asia and the Pacific; in Gabon: Moyen-Ogooué
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-plaines inondables, prairies saisonnièrement humides, souvent près des villages ou le long des lisières forestières ; au Gabon à 10–90 m d’altitude, ailleurs jusqu’à 1500 m
+floodplains, seasonally wet grasslands, often near villages or along forest margins; in Gabon at 10–90 m altitude, elsewhere up to 1500 m
 
 ## Vernacular names
 

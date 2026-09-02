@@ -7,6 +7,9 @@ family: Marantaceae
 vol: 09
 pages: 155-156
 source: sources/Marantaceae_vol09_paddle
+countries: [Gabon]
+in_region: true
+habit: "herb"
 tags: [species, generated]
 ---
 # *Megaphrynium gabonense* J. Koechlin sp. nov.

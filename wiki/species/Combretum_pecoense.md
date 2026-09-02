@@ -7,6 +7,8 @@ family: Combretaceae
 vol: 35
 pages: 77-78
 source: sources/Combretaceae_vol35_paddle
+countries: [Angola, Gabon, Nigeria]
+in_region: true
 tags: [species, generated]
 ---
 # *Combretum pecoense* Exell
@@ -57,7 +59,7 @@ McPherson 15703, western boundary of the Lopé-Okando Reserve, 0°25'S–11°30'
 
 ![Combretum pecoense](../sources/Combretaceae_vol35_paddle/figures/fig_019_p0070.png)
 
-*Pl. 19. – Combretum ndjoleense : 1, rameau florifère ; 2, fleur entière ; 3, fleur en coupe longitudinale (1-3, Breteler & Jongkind 10407). – Combretum pecoense : 4, rameau florifère ; 5, fleur vue de profil & en vue plongeante montrant le disque (4, 5, Breteler & Breteler-Klein Breteler 12330). – Dessins de JOANNE DAVIES – Department of plant Taxonomy. Agricultural University. WAGENINGEN (Pays-Bas).*
+*Pl. 19. – Combretum ndjoleense : 1, flowering branch ; 2, entire flower ; 3, flower in longitudinal section (1-3, Breteler & Jongkind 10407). – Combretum pecoense : 4, flowering branch ; 5, flower seen in profile & in overhead view showing the disk (4, 5, Breteler & Breteler-Klein Breteler 12330). – Drawings by JOANNE DAVIES – Department of plant Taxonomy. Agricultural University. WAGENINGEN (Netherlands).*
 
 ## Notes
 

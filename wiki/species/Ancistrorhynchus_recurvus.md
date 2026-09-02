@@ -7,6 +7,8 @@ family: Orchidaceae
 vol: 37
 pages: 113-115
 source: sources/Orchidaceae_vol37_paddle
+countries: [Cameroon, Democratic Republic of the Congo, Gabon, Ghana, Guinea, Liberia, Nigeria, Uganda]
+in_region: true
 tags: [species, generated]
 ---
 # *Ancistrorhynchus recurvus* Finet

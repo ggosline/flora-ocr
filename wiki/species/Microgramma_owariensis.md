@@ -43,7 +43,7 @@ N. Hallé : 1701, 1799, Ayem. N. Hallé et G. Cours : 6033, 6089, Moumba, env. d
 
 ![Microgramma owariensis](../sources/Polypodiaceae_vol08_paddle/figures/fig_036_p0213.png)
 
-*PL. XXXIII. — Bolbitis fluviatilis (Hk.) Ching (Nicklès 92 : 1, aspect général × 1/3; 2, forme simple; 3, nervation × 1,5. — Xiphopteris serrulata (Św.) Klf. (Le Testu 2148) : 3, aspect général × 2; 4, sommet de la fronde fertile × 3; 5, écaille du rhizome × 20. — Microgramma ovariensis (Desv.) Alston (N. Hallé et G. Cours 6089) : 6, aspect général × 2/3.*
+*PL. XXXIII. — Bolbitis fluviatilis (Hk.) Ching (Nicklès 92) : 1, general aspect × 1/3; 2, simple form; 3, venation × 1.5. — Xiphopteris serrulata (Św.) Klf. (Le Testu 2148) : 4, general aspect × 2; 5, apex of fertile frond × 3; 6, scale of rhizome × 20. — Microgramma ovariensis (Desv.) Alston (N. Hallé et G. Cours 6089) : 7, general aspect × 2/3.*
 
 ## Notes
 

@@ -7,6 +7,9 @@ family: Opiliaceae
 vol: 20
 pages: 178-180
 source: sources/Opiliaceae_vol20_paddle
+countries: [Cameroon]
+in_region: true
+habit: "shrub"
 tags: [species, generated]
 ---
 # *Rhopalopilia pallens* Pierre
@@ -47,7 +50,7 @@ Le Testu 7814, Koulamoutou (fl.).
 
 ![Rhopalopilia pallens](../sources/Opiliaceae_vol20_paddle/figures/fig_039_p0179.png)
 
-*PL. 39. — Rhopalopilia pallens Pierre : 1, feuilles et inflorescence × 1; 2, rachis inflorescentiel × 7; 3, bouton floral × 6,5; 4, fleur × 6,5; 5, coupe de la fleur × 6,5; 6, vue sup. de la fleur × 5; 7, pétale × 10; 8, 8', étamine × 17; 9, fruit × 1,5; 10, coupe trans. du fruit × 1. — R. marquesii Engl. : 11, feuilles et inflorescentes × 2/3; 12, rachis inflorescentiel × 2,4; 13, bouton floral × 4,5; 14, fleur × 6; 15, coupe de la fleur × 6; 16, 16', pétale × 9; 17, disque et ovaire × 10; 18, coupe trans. de l'ovaire et du disque. (1-8', Klaine 2218; 9, Klaine 1800; 11-18, Fanshawe 1461).*
+*PL. 39. — Rhopalopilia pallens Pierre : 1, leaves and inflorescence × 1; 2, inflorescent rachis × 7; 3, floral bud × 6,5; 4, flower × 6,5; 5, flower section × 6,5; 6, upper view of flower × 5; 7, petal × 10; 8, 8', stamen × 17; 9, fruit × 1,5; 10, trans. section of fruit × 1. — R. marquesii Engl. : 11, leaves and inflorescences × 2/3; 12, inflorescent rachis × 2,4; 13, floral bud × 4,5; 14, flower × 6; 15, flower section × 6; 16, 16', petal × 9; 17, disk and ovary × 10; 18, trans. section of ovary and disk. (1-8', Klaine 2218; 9, Klaine 1800; 11-18, Fanshawe 1461).*
 
 ## Notes
 

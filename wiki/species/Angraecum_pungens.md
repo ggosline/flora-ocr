@@ -7,6 +7,9 @@ family: Orchidaceae
 vol: 37
 pages: 227-229
 source: sources/Orchidaceae_vol37_paddle
+countries: [Cameroon, Democratic Republic of the Congo, Equatorial Guinea, Nigeria]
+in_region: true
+altitude_m: "30"
 tags: [species, generated]
 ---
 # *Angraecum pungens* Schltr.
@@ -52,7 +55,7 @@ Stem elongated, leafy. Leaves distichous, fleshy, very short, laterally compress
 
 ![Angraecum pungens](../sources/Orchidaceae_vol37_paddle/figures/fig_112_p0228.png)
 
-*PL. 218. – Angraecum pungens Schltr.: A, labelle et éperon étalés ; B, labelle, éperon, ovaire et pédicelle ; C, sépale dorsal ; D, pétale ; E, sépale latéral ; F, feuille (A-F, Letouzey 15172, P).*
+*PL. 218. – Angraecum pungens Schltr.: A, lip and spur spread out ; B, lip, spur, ovary and pedicel ; C, dorsal sepal ; D, petal ; E, lateral sepal ; F, leaf (A-F, Letouzey 15172, P).*
 
 ![Angraecum pungens](../sources/Orchidaceae_vol37_paddle/figures/fig_177_p0261.png)
 

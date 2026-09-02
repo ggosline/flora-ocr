@@ -7,6 +7,8 @@ family: Leguminosae
 vol: 15
 pages: 155-155
 source: sources/Leguminosae_vol15_paddle
+countries: [Cameroon, Cote d'Ivoire, Gabon]
+in_region: true
 tags: [species, generated]
 ---
 # *Crudia klainei* Pierre ex De Wild.

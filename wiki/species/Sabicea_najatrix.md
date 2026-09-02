@@ -7,6 +7,8 @@ family: Rubiaceae
 vol: 12
 pages: 184-187
 source: sources/Rubiaceae_vol12_paddle
+countries: [Gabon]
+in_region: true
 tags: [species, generated]
 ---
 # *Sabicea najatrix* N. Hallé sp. nov. (Fig. 4, 1)
@@ -48,7 +50,7 @@ Thollon : 1296, Mayombe forest (fl. Nov.).
 
 ![Sabicea najatrix](../sources/Rubiaceae_vol12_paddle/figures/fig_048_p0186.png)
 
-*Fig. 4.— 1. Sabicea najatrix N. Hallé, inflorescence × 3/4 (Le Testu 1898). — 2 à 5, Sabicea Dewevrei De Wild. (Jean-Louis 11657): 2, inflorescence × 3/4, 3, diagramme de l'inflorescence; 4, calice gr. nat.; 5, bractéole de 1,5 mm.*
+*Fig. 4.— 1. Sabicea najatrix N. Hallé, inflorescence × 3/4 (Le Testu 1898). — 2 to 5, Sabicea Dewevrei De Wild. (Jean-Louis 11657): 2, inflorescence × 3/4, 3, diagram of the inflorescence; 4, calyx nat. size; 5, bracteole of 1.5 mm.*
 
 ## Notes
 

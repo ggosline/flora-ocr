@@ -7,6 +7,9 @@ family: Moraceae
 vol: 26
 pages: 77-80
 source: sources/Moraceae_vol26_paddle
+countries: [Cameroon, Democratic Republic of the Congo, Gabon]
+in_region: true
+habit: "herb"
 tags: [species, generated]
 ---
 # *Dorstenia yambuyaensis* De Wildeman
@@ -45,7 +48,7 @@ Le Testu 7448, haut Ogooué, Bouzocou (fl., sept.); s.n., haut Ogooué, Nzinganz
 
 ![Dorstenia yambuyaensis](../sources/Moraceae_vol26_paddle/figures/fig_023_p0078.png)
 
-*PL. 22. - Dorstenia yambuaensis De Wild.: 1, sommet de la tige; 2, feuille; 3, détail inflo. (1, 3, Seret 797, Zaïre; 2, Goossens 1584, Zaïre).*
+*PL. 22. - Dorstenia yambuaensis De Wild.: 1, apex of stem; 2, leaf; 3, detail inflorescence (1, 3, Seret 797, Zaire; 2, Goossens 1584, Zaire).*
 
 ## Notes
 

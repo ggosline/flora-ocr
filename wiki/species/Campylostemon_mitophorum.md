@@ -7,6 +7,10 @@ family: Celastraceae
 vol: 29
 pages: 268-272
 source: sources/Celastraceae_vol29_paddle
+countries: [Angola, Cameroon, Central African Republic, Democratic Republic of the Congo, Equatorial Guinea, Gabon, Ghana, Liberia, Nigeria, Sierra Leone, Togo, Uganda]
+in_region: true
+habit: "liana"
+habitat: [savanna, rocky ground]
 tags: [species, generated]
 ---
 # *Campylostemon mitophorum* Loesener

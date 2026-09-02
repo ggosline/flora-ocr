@@ -36,7 +36,7 @@ Chevalier : 26117 (coll. Fleury), Lambaréné, en forêt.
 
 ![Commelinidium mayumbense](../sources/Gramineae_vol05_paddle/figures/fig_002_p0021.png)
 
-*PL. I. — Microcalamus barbinodis Franch. (Thollon, 765) : 1, partie supérieure de la plante et influorescence; 2, détail de la nervation (face inférieure du limbe); 3, épillet, vu de profil; 4, fleur fertile, vue latérale (longueur de l'épillet : 6 mm). — Commelinidium mayumbense (Franch.) Stapf. (Bequaert 1835) : 5, partie supérieure de la plante et inflorescence; 6, détail de la nervation, face inférieure du limbe; 7, épillet, face ventrale; 8, épillet, face dorsale; 9, fleur fertile, face dorsale (longueur de l'épillet : 5,5 mm).*
+*PL. I. — Microcalamus barbinodis Franch. (Thollon, 765) : 1, upper part of the plant and inflorescence; 2, detail of the venation (lower surface of the blade); 3, spikelet, viewed in profile; 4, fertile flower, viewed laterally (length of spikelet: 6 mm). — Commelinidium mayumbense (Franch.) Stapf. (Bequaert 1835) : 5, upper part of the plant and inflorescence; 6, detail of the venation, lower surface of the blade; 7, spikelet, ventral surface; 8, spikelet, dorsal surface; 9, fertile flower, dorsal surface (length of spikelet: 5,5 mm).*
 
 ## Notes
 

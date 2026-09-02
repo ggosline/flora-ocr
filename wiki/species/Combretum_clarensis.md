@@ -7,6 +7,9 @@ family: Combretaceae
 vol: 35
 pages: 27-29
 source: sources/Combretaceae_vol35_paddle
+countries: [Gabon]
+in_region: true
+habit: "liana"
 tags: [species, generated]
 ---
 # *Combretum clarensis* Jongkind sp. nov.
@@ -54,7 +57,7 @@ The sterile collection Breteler & al. 9791, Rabi-Koungasonta (st.), WAG, perhaps
 
 ![Combretum clarensis](../sources/Combretaceae_vol35_paddle/figures/fig_007_p0030.png)
 
-*PL. 7. – Combretum clarensis Jongkind sp. nov. : a. rameau florifère × 1/2 ; b. partie d'inflorescence portant 2 fleurs et des ovaires infères restant après la chute des autres pièces florales × 3 ; c. fleur × 6 (a-c. Reitsma c.s. 1338). – Dessins originaux de Wil Wessel Department of plant Taxonomy. Agricultural University. WAGENINGEN (Pays-Bas) – commandités par l'Association des Flores Tropicales (Paris).*
+*PL. 7. – Combretum clarensis Jongkind sp. nov. : a. flowering branch × 1/2 ; b. part of inflorescence bearing 2 flowers and inferior ovaries remaining after the fall of other floral parts × 3 ; c. flower × 6 (a-c. Reitsma c.s. 1338). – Original drawings by Wil Wessel Department of plant Taxonomy. Agricultural University. WAGENINGEN (Netherlands) – commissioned by the Association of Tropical Floras (Paris).*
 
 ## Notes
 

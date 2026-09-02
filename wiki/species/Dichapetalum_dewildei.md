@@ -7,6 +7,9 @@ family: Dichapetalaceae
 vol: 32
 pages: 86-87
 source: sources/Dichapetalaceae_vol32_paddle
+countries: [Cameroon, Democratic Republic of the Congo, Gabon]
+in_region: true
+habit: "liana"
 tags: [species, generated]
 ---
 # *Dichapetalum dewildei* Breteler
@@ -49,7 +52,7 @@ Ombrophilous forests
 
 ![Dichapetalum dewildei](../sources/Dichapetalaceae_vol32_paddle/figures/fig_021_p0088.png)
 
-*PL. 20. – Dichapetalum dewildei Breteler : 1, rameau florifère × 0,5 ; 2, grande feuille × 0,5 ; 3, fleur × 3 ; 4, fleurs, détail × 6 ; 5, pistil × 6 ; 6, fruit × 0,5 ; 7, fruit, secteur de coupe transversale × 4,5 (a = cotylédon, b = testa, c = endocarpe, d = mésocarpe, e = exocarpe) ; 8, paroi de fruit mûr, détail × 3 (a = endocarpe, b = mésocarpe) ; 9, endocarpe, surface interne, détail × (1-5, De Wilde 8493 ; 6, 8, 9, De Wilde 8269 A ; 7, De Wilde 7751). – Repris de MLW 78 (10) : 57 (1978).*
+*PL. 20. – Dichapetalum dewildei Breteler : 1, flowering branch × 0,5 ; 2, large leaf × 0,5 ; 3, flower × 3 ; 4, flowers, detail × 6 ; 5, pistil × 6 ; 6, fruit × 0,5 ; 7, fruit, transverse section sector × 4,5 (a = cotyledon, b = testa, c = endocarp, d = mesocarp, e = exocarp) ; 8, ripe fruit wall, detail × 3 (a = endocarp, b = mesocarp) ; 9, endocarp, internal surface, detail × (1-5, De Wilde 8493 ; 6, 8, 9, De Wilde 8269 A ; 7, De Wilde 7751). – Taken from MLW 78 (10) : 57 (1978).*
 
 ## Notes
 

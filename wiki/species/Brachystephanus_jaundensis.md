@@ -7,6 +7,9 @@ family: Acanthaceae
 vol: 13
 pages: 240-242
 source: sources/Acanthaceae_vol13_paddle
+countries: [Cameroon, Gabon]
+in_region: true
+habit: "herb"
 tags: [species, generated]
 ---
 # *Brachystephanus jaundensis* Lindau

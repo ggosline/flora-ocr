@@ -7,6 +7,9 @@ family: Leguminosae
 vol: 15
 pages: 341-345
 source: sources/Leguminosae_vol15_paddle
+countries: [Cameroon, Gabon, Sierra Leone]
+in_region: true
+habit: "tree"
 tags: [species, generated]
 ---
 # *Erythrophleum ivorense* A. Chev.
@@ -70,7 +73,7 @@ rescence × 2/3; 3, fleur × 12; 4, coupe de la fleur × 12; 5, ovaire × 12; 6,
 
 ![Erythrophleum ivorense](../sources/Leguminosae_vol15_paddle/figures/fig_089_p0344.png)
 
-*PL. LXXXVIII.— Pachyelasma Tessmannii Harms : 1, feuille × 1/3; 2, fragment d'inflorescence × 2/3; 3, fleur × 5; 4, fragment de fleur ouverte × 5; 5, fruit × 2/3.*
+*PL. LXXXVIII.— Pachyelasma Tessmannii Harms : 1, leaf × 1/3; 2, fragment of inflorescence × 2/3; 3, flower × 5; 4, fragment of open flower × 5; 5, fruit × 2/3.*
 
 ## Notes
 

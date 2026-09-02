@@ -7,6 +7,13 @@ family: Cucurbitaceae
 vol: 57
 pages: 72-74
 source: sources/Cucurbitaceae_vol57_paddle
+countries: [Gabon, Mozambique, Senegal, Tanzania]
+in_region: true
+subdivisions:
+  Gabon: [Estuaire, Haut-Ogooué, Ngounié, Nyanga, Ogooué-Ivindo]
+habit: "herb"
+habitat: [swamp forest]
+altitude_m: "50–450"
 tags: [species, generated]
 ---
 # *Lagenaria angolensis* Naud., Ann. Sci. Nat., Bot., sér. 5, 5: 10 (1886).

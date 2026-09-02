@@ -5,11 +5,8 @@ authority: Schumach. et Thonn.
 genus: Celosia
 family: Amaranthaceae
 synonyms: []
-countries: [Gabon]
-countries_incomplete: true
-in_region: true
-habit: scrambling shrub
 treatments: [{vol: 7, pages: "26–28", source: sources/Amaranthaceae_vol7_paddle}]
+habit: "shrub"
 tags: [species]
 ---
 

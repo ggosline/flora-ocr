@@ -5,11 +5,10 @@ authority: Loes.
 genus: Costus
 family: Zingiberaceae
 family_current: Costaceae
+treatments: [{vol: 9, pages: "76–77", source: sources/Zingiberaceae_vol9_paddle}]
 countries: [Cameroon, Gabon]
 in_region: true
-habit: small rhizomatous herb
-habitat: [forest understorey]
-treatments: [{vol: 9, pages: "76–77", source: sources/Zingiberaceae_vol9_paddle}]
+habit: "herb"
 tags: [species]
 ---
 # *Costus phaeotrichus* Loes.

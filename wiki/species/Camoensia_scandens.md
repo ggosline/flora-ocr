@@ -7,6 +7,12 @@ family: Leguminosae
 vol: 49
 pages: 75-77
 source: sources/Millettiaspeciesfabaceae_vol49_liteparse
+countries: [Angola, Democratic Republic of the Congo, Gabon, Republic of the Congo]
+in_region: true
+subdivisions:
+  Gabon: [Estuaire, Haut-Ogooué]
+habit: "liana"
+altitude_m: "400–500"
 tags: [species, generated]
 ---
 # *Camoensia scandens* (Welw.) J.B.Gillett

@@ -5,10 +5,11 @@ authority: (Pellegr.) Lam
 genus: Dacryodes
 family: Burseraceae
 synonyms: [Pachylobus Le-Testui Pellegr.]
+treatments: [{vol: 3, pages: "86–87", source: sources/Burseraceae_vol3_paddle}]
 countries: [Gabon]
 in_region: true
-habit: tree
-treatments: [{vol: 3, pages: "86–87", source: sources/Burseraceae_vol3_paddle}]
+subdivisions:
+  Gabon: [Ngounié]
 tags: [species]
 ---
 

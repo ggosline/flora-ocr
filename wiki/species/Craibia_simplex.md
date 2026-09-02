@@ -7,6 +7,13 @@ family: Leguminosae
 vol: 49
 pages: 90-90
 source: sources/Millettiaspeciesfabaceae_vol49_liteparse
+countries: [Gabon, Nigeria, Republic of the Congo]
+in_region: true
+subdivisions:
+  Gabon: [Nyanga, Ogooué-Maritime]
+habit: "tree"
+habitat: [coastal]
+altitude_m: "5–10"
 tags: [species, generated]
 ---
 # *Craibia simplex* Dunn

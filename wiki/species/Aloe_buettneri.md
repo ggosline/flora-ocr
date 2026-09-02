@@ -7,6 +7,13 @@ family: Aloaceae
 vol: 47
 pages: 10-11
 source: sources/Aloaceae_vol47_liteparse
+countries: [Angola, Democratic Republic of the Congo, Gabon, Ghana, Mali, Nigeria]
+in_region: true
+subdivisions:
+  Gabon: [Haut-Ogooué, Ogooué-Maritime]
+habit: "herb"
+habitat: [savanna]
+altitude_m: "500"
 tags: [species, generated]
 ---
 # *Aloe buettneri* A.Berger Figure 1

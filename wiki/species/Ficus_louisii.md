@@ -7,6 +7,9 @@ family: Moraceae
 vol: 26
 pages: 187-191
 source: sources/Moraceae_vol26_paddle
+countries: [Cameroon, Cote d'Ivoire, Democratic Republic of the Congo, Gabon, Guinea, Sierra Leone]
+in_region: true
+habit: "tree"
 tags: [species, generated]
 ---
 # *Ficus louisii* Boutique & Léonard
@@ -57,11 +60,11 @@ jusqu'à 1 mm, libres, filet court, anthère longue de 0,5 mm environ. Bractées
 
 ![Ficus louisii](../sources/Moraceae_vol26_paddle/figures/fig_054_p0188.png)
 
-*PL. 53. – Ficus louisii Boutique & Léonard : 1, rameaux avec feuilles et figues × 1 ; 2, figue × 5 ; 3, base de la figue, vue de dessous ; 4, ostiole (Jacques-Félix 1796, Guinée).*
+*PL. 53. – Ficus louisii Boutique & Léonard : 1, branches with leaves and figs × 1 ; 2, fig × 5 ; 3, base of the fig, view from below ; 4, ostiole (Jacques-Félix 1796, Guinea).*
 
 ![Ficus louisii](../sources/Moraceae_vol26_paddle/figures/fig_055_p0190.png)
 
-*PL. 54. - Ficus leonensis Hutch.: 1, rameau avec feuilles et figues × 1; 2, rameau avec feuilles × 1 (Bos 6426, Cameroun).*
+*PL. 54. - Ficus leonensis Hutch.: 1, branch with leaves and figs × 1; 2, branch with leaves × 1 (Bos 6426, Cameroon).*
 
 ## Notes
 

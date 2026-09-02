@@ -7,6 +7,13 @@ family: Leguminosae
 vol: 49
 pages: 86-86
 source: sources/Millettiaspeciesfabaceae_vol49_liteparse
+countries: [Gabon]
+in_region: true
+subdivisions:
+  Gabon: [Estuaire, Moyen-Ogooué]
+habit: "herb"
+habitat: [riverine]
+altitude_m: "1500"
 tags: [species, generated]
 ---
 # *Clitoria ternatea* L. Planche 25.4–9

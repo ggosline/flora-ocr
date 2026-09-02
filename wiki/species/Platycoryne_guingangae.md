@@ -7,6 +7,9 @@ family: Orchidaceae
 vol: 36
 pages: 55-59
 source: sources/Orchidaceae_vol36_paddle
+countries: [Angola, Cameroon, Central African Republic, Gabon, Zambia]
+in_region: true
+habitat: [swamp forest, savanna, coastal]
 tags: [species, generated]
 ---
 # *Platycoryne guingangae* (Rchb.f.) Rolfe

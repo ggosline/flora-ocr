@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "species/Diospyros_moutsambotei.md",
+                "file": "sources/Rhizophoraceae_vol47_liteparse/text.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Diospyros_moutsambotei"
+              "title": "text"
             }
           }
         ]
@@ -55,7 +55,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "medusandra",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -76,7 +76,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -185,34 +186,34 @@
       "bases:Create new base": false
     }
   },
-  "active": "751504066fed907e",
+  "active": "93ee0a81014fd819",
   "lastOpenFiles": [
-    "genera/Diospyros.md",
-    "genera/Afzelia.md",
-    "Afzelia_pachyloba.md",
-    "families/Leguminosae.md",
-    "genera/Monopetalanthus.md",
-    "Monopetalanthus_ledermannii.md",
-    "genera/Gilbertiodendron.md",
-    "genera/Zornia.md",
-    "genera/Zenkerella.md",
-    "genera/Xanthocercis.md",
-    "genera/Uraria.md",
-    "genera/Triplisomeris.md",
-    "genera/Toubaouate.md",
-    "genera/Tetrapleura.md",
-    "genera/Tessmannia.md",
-    "genera/Teramnus.md",
-    "genera/Tephrosia.md",
-    "genera/Swartzia.md",
-    "genera/Stylosanthes.md",
-    "genera/Stemonocoleus.md",
-    "genera/Stachyothyrsus.md",
-    "genera/Sphenostylis.md",
-    "genera/Sindoropsis.md",
-    "genera/Sindora.md",
-    "genera/Sesbania.md",
-    "genera/Scorodophloeus.md",
+    "species/Xylopia_le-testui.md",
+    "species/Whitfieldia_le-testui.md",
+    "species/Warnecka_wildeana.md",
+    "species/Warnecka_sapinii.md",
+    "species/Warnecka_reygaerti.md",
+    "species/Warnecka_pulcherrima.md",
+    "species/Warnecka_floribunda.md",
+    "species/Warnecka_cauliflora.md",
+    "species/Tiegemella_africana.md",
+    "species/Telecantha_cauliflora.md",
+    "species/Tarena_precidantenna.md",
+    "species/Tarena_jolinonii.md",
+    "species/Staurogyne_le-testuana.md",
+    "species/Stachyothyrus_staudtii.md",
+    "species/Sindoropsis_le-testui.md",
+    "species/Scorodophleus_zenkeri.md",
+    "species/Rhapiostylis_beninensis.md",
+    "species/Renalmia_macrocolea.md",
+    "species/Renalmia_congoensis.md",
+    "species/Renalmia_cincinnati.md",
+    "species/Renalmia_cabraei.md",
+    "species/Renalmia_africana.md",
+    "species/Pyrosiia_mechowii.md",
+    "species/Pyrosiia_lanceolata.md",
+    "species/Pseudartabotrys_le-testui.md",
+    "species/Potamophila_le-testui.md",
     "CuLX5GZw/Polygonaceae_vol7_paddle/figures/fig_002_p0015.png",
     "CuLX5GZw/Polygonaceae_vol7_paddle/figures/fig_001_p0009.png",
     "CuLX5GZw/Polygonaceae_vol7_paddle/figures/fig_000_p0002.png",

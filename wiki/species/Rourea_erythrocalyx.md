@@ -7,6 +7,9 @@ family: Connaraceae
 vol: 33
 pages: 123-125
 source: sources/Connaraceae_vol33_paddle
+countries: [Angola, Cameroon, Democratic Republic of the Congo, Gabon]
+in_region: true
+altitude_m: "20"
 tags: [species, generated]
 ---
 # *Rourea erythrocalyx* (Gilg ex Schellenberg) Jongkind
@@ -76,7 +79,7 @@ Van der Maesen & de Bruijn 5821, 1 km E. de Lastoursville (fr., Nov.), LBV, WAG.
 
 ![Rourea erythrocalyx](../sources/Connaraceae_vol33_paddle/figures/fig_043_p0122.png)
 
-*PL. 37. – Rourea erythrocalyx (Gilg ex Schellenberg) Jongkind : 1. feuilles × 2/3 ; 2, jeune rameau florifère × 2/3 ; 3, bouton à l'ouverture × 6 ; 4, fleur × 6 ; 5, jeune fruit × 2 ; 6, follicule vide × 2 ; 7, graine × 2 ; 8, cotylédon, face interne avec radicule dorsale × 2. (1. J. Louis 9536 ; 2-4. Le Testu 7651 ; Gillet 2006 ; 6-8. Reitsma & al. 1488). – Repris de AUWP 89 (6).*
+*PL. 37. – Rourea erythrocalyx (Gilg ex Schellenberg) Jongkind : 1. leaves × 2/3 ; 2, young flowering branch × 2/3 ; 3, bud at opening × 6 ; 4, flower × 6 ; 5, young fruit × 2 ; 6, empty follicle × 2 ; 7, seed × 2 ; 8, cotyledon, internal face with dorsal radicle × 2. (1. J. Louis 9536 ; 2-4. Le Testu 7651 ; Gillet 2006 ; 6-8. Reitsma & al. 1488). – Reproduced from AUWP 89 (6).*
 
 ## Notes
 

@@ -7,6 +7,13 @@ family: Phyllanthaceae
 vol: 43
 pages: 44-44
 source: sources/Phyllanthaceae_vol43_liteparse
+countries: [Democratic Republic of the Congo, Gabon, Republic of the Congo]
+in_region: true
+subdivisions:
+  Gabon: [Estuaire, Moyen-Ogooué, Nyanga, Ogooué-Lolo, Ogooué-Maritime]
+habit: "tree"
+habitat: [secondary forest]
+altitude_m: "200–700"
 tags: [species, generated]
 ---
 # *Maesobotrya cordulata* J.Léonard Planche 12

@@ -7,6 +7,13 @@ family: Leguminosae
 vol: 49
 pages: 287-290
 source: sources/Millettiaspeciesfabaceae_vol49_liteparse
+countries: [Angola, Democratic Republic of the Congo, Gabon, Republic of the Congo]
+in_region: true
+subdivisions:
+  Gabon: [Haut-Ogooué, Ogooué-Lolo]
+habit: "liana"
+habitat: [secondary forest, riverine]
+altitude_m: "260–650"
 tags: [species, generated]
 ---
 # *Millettia theuszii* (Büttner) De Wild. Planche 92

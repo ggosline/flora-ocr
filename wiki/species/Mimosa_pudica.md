@@ -23,7 +23,7 @@ FZ 3 (1): 51 (1970); GILBERT & BOUTIQUE, FCB 3: 229 (1952); KEAY, FWTA, ed. 2, 1
 
 ![Mimosa pudica](../sources/Leguminosae_vol31_paddle/figures/fig_035_p0094.png)
 
-*PL. 23. – Mimosa pudica L. : 1, tige feuillée × 1 ; 2, nœud × 2,5 ; 3, 4, feuilles × 1 ; 5, penne, base × 4 ; 6, 7, 8, folioles, face inférieure × 4 ; 9, 9', bractéole × 20 ; 10, fleur × 14 ; 11, anthère × 30 ; 12, pistil × 20 ; 13, infrutescence × 1,5 ; 14, fruit × 4 ; 15, graine × 8. (1,9-12, Prévost 81 (Côte d'Ivoire) ; 2, 6, 13-15, Raynal J. & A. 9687 (Cameroun) ; 3, 5, 8, Bathelemy 4 (Cameroun) ; 4, 7, Leeuwenberg 6471 (Cameroun)).*
+*PL. 23. – Mimosa pudica L. : 1, leafy stem × 1 ; 2, node × 2,5 ; 3, 4, leaves × 1 ; 5, pinnae, base × 4 ; 6, 7, 8, leaflets, lower surface × 4 ; 9, 9', bracteole × 20 ; 10, flower × 14 ; 11, anther × 30 ; 12, pistil × 20 ; 13, infructescence × 1,5 ; 14, fruit × 4 ; 15, seed × 8. (1,9-12, Prévost 81 (Ivory Coast) ; 2, 6, 13-15, Raynal J. & A. 9687 (Cameroon) ; 3, 5, 8, Bathelemy 4 (Cameroon) ; 4, 7, Leeuwenberg 6471 (Cameroon)).*
 
 ## Notes
 

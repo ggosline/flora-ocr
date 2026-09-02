@@ -7,6 +7,9 @@ family: Dichapetalaceae
 vol: 32
 pages: 59-62
 source: sources/Dichapetalaceae_vol32_paddle
+countries: [Cote d'Ivoire, Democratic Republic of the Congo, Gabon, Ghana, Nigeria]
+in_region: true
+habitat: [gallery forest, coastal, evergreen forest]
 tags: [species, generated]
 ---
 # *Dichapetalum barteri* Engler
@@ -57,7 +60,7 @@ Le Testu 7928, Milède, Région de Lastoursville (fl., Fév.).
 
 ![Dichapetalum barteri](../sources/Dichapetalaceae_vol32_paddle/figures/fig_012_p0060.png)
 
-*PL. 11. – Dichapetalum barteri Engler : 1, rameau florifère × 0,5 ; 2, rameau, détail montrant lenticelles, stipules et dessous de base foliaire × 5 ; 3, fleur × 5 ; 4, pistil avec des staminodes × 10 ; 5, fruit × 0,8 (1, Smith 46 ; 2, Breteler 6173 ; 3, 4, Ujor FHI 15292 ; 5, Andoh 5597). – Repris de MLW 73 (13) : 82 (1973).*
+*PL. 11. – Dichapetalum barteri Engler : 1, flowering branch × 0.5 ; 2, branch, detail showing lenticels, stipules and underside of leaf base × 5 ; 3, flower × 5 ; 4, pistil with staminodes × 10 ; 5, fruit × 0.8 (1, Smith 46 ; 2, Breteler 6173 ; 3, 4, Ujor FHI 15292 ; 5, Andoh 5597). – Taken from MLW 73 (13) : 82 (1973).*
 
 ## Notes
 

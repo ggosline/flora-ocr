@@ -5,10 +5,10 @@ authority: De Wild.
 genus: Fagara
 family: Rutaceae
 synonyms: []
-countries: [Gabon, Democratic Republic of the Congo]
-in_region: true
-habit: climbing shrub or small tree
 treatments: [{vol: 6, pages: "35–37", source: sources/Rutaceae_vol6_paddle}]
+countries: [Democratic Republic of the Congo, Gabon]
+in_region: true
+habit: "tree"
 tags: [species]
 ---
 

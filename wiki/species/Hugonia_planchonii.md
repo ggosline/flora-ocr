@@ -7,6 +7,9 @@ family: Linaceae
 vol: 21
 pages: 34-36
 source: sources/Linaceae_vol21_paddle
+countries: [Cameroon, Democratic Republic of the Congo, Gabon, Senegal]
+in_region: true
+habit: "liana"
 tags: [species, generated]
 ---
 # *Hugonia planchonii* Hooker fil.
@@ -45,7 +48,7 @@ Dybowski 41, Setté Cama (fl., janv.). Klaine 244, Ogooué (fl., fr., avr.); 905
 
 ![Hugonia planchonii](../sources/Linaceae_vol21_paddle/figures/fig_008_p0037.png)
 
-*PL. 8. — Hugonia planchonii Hook. f. (Dybowski 41); 1, rameau florifère × 2/3; 2, boutons × 2. — H. gabunensis Engl. (Soyaux 245) : 3, rameau florifère × 2/3; 4, boutons × 2.*
+*PL. 8. — Hugonia planchonii Hook. f. (Dybowski 41); 1, floriferous branch × 2/3; 2, buds × 2. — H. gabunensis Engl. (Soyaux 245) : 3, floriferous branch × 2/3; 4, buds × 2.*
 
 ## Notes
 

@@ -8,6 +8,7 @@ vol: 44
 pages: 57-58
 source: sources/Cyperaceae_vol44_liteparse
 also_in_vols: [44, 44]
+habit: "herb"
 tags: [species, generated]
 ---
 # *Cyperus distans* L.f. Planche 31

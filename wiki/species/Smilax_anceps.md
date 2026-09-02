@@ -7,6 +7,9 @@ family: Smilacaceae
 vol: 38
 pages: 54-54
 source: sources/Smilacaceae_vol38_liteparse
+countries: [Gabon, Madagascar, Senegal, Sudan]
+in_region: true
+altitude_m: "550"
 tags: [species, generated]
 ---
 # *Smilax anceps* Willd.
@@ -17,21 +20,15 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Liane grimpante ; tige jusqu’à 6 m de longueur, à section ronde ou anguleuse ou même étroitement ailée, épineuse ou parfois lisse ; rameaux souvent en zigzag. Feuilles à pétiole de 0,5–3 cm de longueur, à vrilles jusqu’à 10 cm de longueur ; limbe elliptique ou elliptique-ové à orbiculaire , 4–15(–20) × 1,5–10(–12) cm, souvent brièvement cuspide au sommet, subcordé à subcunéiforme à la base, subcoriace, à 3–5(–7) nervures. Inflorescence en ombelles solitaires, axillaires , sphériques et multiflores ; pédoncule 0,5–2 cm de longueur, à 2 bractéoles amplexicaules. Fleurs à pédicelles de 4–12 mm ; tépales récurvés, linéaires à oblongs, 3–5 × 0,5–1 mm , obtus, blanc verdâtre à brunâtre ou jaunâtre. Fleurs mâles : étamines 6 , égales ou légèrement plus courtes que les tépales. Fleurs femelles à 3 staminodes ; à ovaire obovoïde à ellipsoïde, 2 mm de longueur ; stigmates récurvés, papilleux. Fruit à pédicelle de 0,5–2,5 cm de longueur, globuleux, 8–10 mm de diamètre, pourpre ou noir, à pulpe verdâtre. Graines 1–3, plan-convexes, environ 4 mm de longueur, pourpre grisâtre.
+Climbing vine; stem up to 6 m long, with round or angular or even narrowly winged section, spiny or sometimes smooth; branches often zigzag. Leaves with petiole 0.5–3 cm long, with tendrils up to 10 cm long; lamina elliptic or elliptic-ovate to orbicular, 4–15(–20) × 1.5–10(–12) cm, often shortly cuspidate at apex, subcordate to subcuneate at base, subcoriaceous, with 3–5(–7) nerves. Inflorescence in solitary, axillary umbels, spherical and multiflorous; peduncle 0.5–2 cm long, with 2 amplexicaul bracteoles. Flowers with pedicels 4–12 mm; tepals recurved, linear to oblong, 3–5 × 0.5–1 mm, obtuse, whitish-greenish to brownish or yellowish. Male flowers: stamens 6, equal or slightly shorter than the tepals. Female flowers with 3 staminodes; ovary obovoid to ellipsoid, 2 mm long; stigmas recurved, papillose. Fruit with pedicel 0.5–2.5 cm long, globose, 8–10 mm diameter, purple or black, with greenish pulp. Seeds 1–3, plano-convex, approximately 4 mm long, grayish-purple.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-espèce africaine à large répartition, du Sénégal au Soudan et l’Éthiopie, au sud jusqu’en Afrique du Sud, également à Madagascar et les îles Mascareignes ; commune au Gabon
+African species with wide distribution, from Senegal to Sudan and Ethiopia, south to South Africa, also in Madagascar and the Mascarene Islands; common in Gabon
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-sous-bois, lisière ou coupes forestières, mais également au bord des routes, le long des rivières et lagunes, parfois sur sol de métaux lourds ; au Gabon depuis le niveau de la mer jusqu’à 550 m d’altitude, ailleurs jusqu’à 2400 m. Usage : Les feuilles sont comestibles ; les tubercules représentent une source d’amidon. Les applications médicinales sont nombreuses et très diverses. Au Gabon, on connaît l’application des jeunes pousses pour hâter la délivrance, et une macération de racines contre les maladies vénériennes
+understory, forest edge or logging areas, but also along roadsides, along rivers and lagoons, sometimes on heavy metal soil; in Gabon from sea level to 550 m altitude, elsewhere up to 2400 m. Uses: The leaves are edible; the tubers represent a source of starch. The medicinal applications are numerous and very diverse. In Gabon, the application of young shoots is known to hasten delivery, and a maceration of roots against venereal diseases
 
 ## Vernacular names
 

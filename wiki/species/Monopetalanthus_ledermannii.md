@@ -7,6 +7,10 @@ family: Leguminosae
 vol: 15
 pages: 309-311
 source: sources/Leguminosae_vol15_paddle
+countries: [Cameroon, Gabon, Liberia, Sierra Leone]
+in_region: true
+habit: "tree"
+habitat: [riverine]
 tags: [species, generated]
 ---
 # *Monopetalanthus ledermannii* Harms
@@ -39,7 +43,7 @@ Gauchotte : 1160, Oguémoué (jeunes feuilles oct.)
 
 ![Monopetalanthus ledermannii](../sources/Leguminosae_vol15_paddle/figures/fig_078_p0310.png)
 
-*PL. LVXVIII. — Monopetalanthus Ledermannii Harms : 1, feuille × 2/3. — Monopetalanthus Heitzii Pellegr. : 2, feuille et inflorescence × 2/3; 3, folioles, détails × 2/3; 4, bourgeon en voie de développement × 2/3; 5, fleur × 2; 6 et 7, sépales × 4; 8, fruit × 2/3.*
+*PL. LVXVIII. — Monopetalanthus Ledermannii Harms : 1, leaf × 2/3. — Monopetalanthus Heitzii Pellegr. : 2, leaf and inflorescence × 2/3; 3, leaflets, details × 2/3; 4, bud in development × 2/3; 5, flower × 2; 6 et 7, sepals × 4; 8, fruit × 2/3.*
 
 ## Notes
 

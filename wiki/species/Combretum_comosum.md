@@ -7,6 +7,8 @@ family: Combretaceae
 vol: 35
 pages: 29-32
 source: sources/Combretaceae_vol35_paddle
+countries: [Angola, Guinea, Uganda]
+in_region: true
 tags: [species, generated]
 ---
 # *Combretum comosum* G. Don

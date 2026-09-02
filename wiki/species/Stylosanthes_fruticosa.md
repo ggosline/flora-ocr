@@ -7,6 +7,13 @@ family: Leguminosae
 vol: 49
 pages: 355-355
 source: sources/Millettiaspeciesfabaceae_vol49_liteparse
+countries: [Gabon, Madagascar, Mozambique, Senegal]
+in_region: true
+subdivisions:
+  Gabon: [Ogooué-Ivindo]
+habit: "herb"
+habitat: [savanna]
+altitude_m: "200"
 tags: [species, generated]
 ---
 # *Stylosanthes fruticosa* (Retz) Alston Planche 120

@@ -7,6 +7,7 @@ family: Annonaceae
 vol: 16
 pages: 0-0
 source: sources/Annonaceae_vol16_mineru
+habit: "shrub"
 tags: [species, generated]
 ---
 # *Monanthotaxis congoensis* Baillon

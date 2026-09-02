@@ -7,6 +7,8 @@ family: Adiantaceae
 vol: 08
 pages: 109-110
 source: sources/Adiantaceae_vol08_paddle
+countries: [Democratic Republic of the Congo]
+in_region: true
 tags: [species, generated]
 ---
 # *Pellaea goudotii* (Kze.) C. Christensen (P.L. XVI)

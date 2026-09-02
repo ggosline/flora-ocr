@@ -7,6 +7,9 @@ family: Sapindaceae
 vol: 23
 pages: 176-176
 source: sources/Sapindaceae_vol23_paddle
+countries: [Angola, Cameroon, Democratic Republic of the Congo]
+in_region: true
+habit: "tree"
 tags: [species, generated]
 ---
 # *Eriocelum microspermum* Radlkofer

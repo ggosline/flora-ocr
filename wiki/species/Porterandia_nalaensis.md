@@ -7,6 +7,9 @@ family: Rubiaceae
 vol: 17
 pages: 122-125
 source: sources/Rubiaceae_vol17_paddle
+countries: [Angola, Cameroon, Gabon]
+in_region: true
+habit: "tree"
 tags: [species, generated]
 ---
 # *Porterandia nalaensis* (De Wild.) Keay

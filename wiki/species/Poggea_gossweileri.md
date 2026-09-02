@@ -7,6 +7,9 @@ family: Flacourtiaceae
 vol: 34
 pages: 41-42
 source: sources/Flacourtiaceae_vol34_paddle
+countries: [Angola, Democratic Republic of the Congo, Gabon]
+in_region: true
+habit: "shrub"
 tags: [species, generated]
 ---
 # *Poggea gossweileri* Exell
@@ -49,7 +52,7 @@ Le Testu 1639, Mayombe Bayaka, Midounga, 25/10/1910, bout. fl. (P) ; 2319, l. c.
 
 ![Poggea gossweileri](../sources/Flacourtiaceae_vol34_paddle/figures/fig_010_p0040.png)
 
-*PL. 10. – Poggea gossweileri Exell : 1, rameau florifère, boutons floraux ; 2, fleur ; 3, sépale ; 4, pétale ; 5, étamine ; 6, pistil ; 7, coupe transversale de l'ovaire. (1-7. Le Testu 7505). – P. alata Gürk : 8, rameau florifère ; 9, fleur ; 10, sépale ; 11, pétale ; 12, pistil ; 13, fruit ; 14, graine. (8-12. Breteler 740 ; 13 et 14. Klaine 1929).*
+*PL. 10. – Poggea gossweileri Exell : 1, flowering branch, floral buds ; 2, flower ; 3, sepal ; 4, petal ; 5, stamen ; 6, pistil ; 7, transverse section of the ovary. (1-7. Le Testu 7505). – P. alata Gürk : 8, flowering branch ; 9, flower ; 10, sepal ; 11, petal ; 12, pistil ; 13, fruit ; 14, seed. (8-12. Breteler 740 ; 13 and 14. Klaine 1929).*
 
 ## Notes
 

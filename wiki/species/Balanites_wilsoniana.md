@@ -5,11 +5,10 @@ authority: Dawe et Sprague
 genus: Balanites
 family: Balanitaceae
 synonyms: [Balanites tieghemii A. Chev., Balanites mayumbensis Exell]
-countries: [Côte d'Ivoire, Nigeria, Cameroon, Gabon, Republic of the Congo, Democratic Republic of the Congo, Uganda, Kenya, Angola]
-in_region: true
-habit: large tree
-habitat: [semi-deciduous humid forest]
 treatments: [{vol: 6, year: 1963, pages: "112–116", source: sources/Balanitaceae_vol6_paddle}]
+countries: [Angola, Gabon, Kenya]
+in_region: true
+habit: "tree"
 tags: [species]
 ---
 

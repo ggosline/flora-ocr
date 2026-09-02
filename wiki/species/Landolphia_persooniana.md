@@ -7,6 +7,10 @@ family: Apocynaceae
 vol: 59
 pages: 147-150
 source: sources/Apocynaceae_vol59_liteparse
+countries: [Cameroon, Equatorial Guinea, Gabon]
+in_region: true
+habit: "liana"
+altitude_m: "90–740"
 tags: [species, generated]
 ---
 # *Landolphia persooniana* O.Lachenaud & Jongkind Planche 64

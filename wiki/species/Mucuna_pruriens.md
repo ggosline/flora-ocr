@@ -7,6 +7,12 @@ family: Leguminosae
 vol: 49
 pages: 302-304
 source: sources/Millettiaspeciesfabaceae_vol49_liteparse
+countries: [Gabon]
+in_region: true
+subdivisions:
+  Gabon: [Estuaire, Ngounié]
+habit: "herb"
+altitude_m: "0–800"
 tags: [species, generated]
 ---
 # *Mucuna pruriens* (L.) DC. var. pruriens Planche 97.1–9

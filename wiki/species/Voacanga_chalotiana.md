@@ -7,6 +7,7 @@ family: Apocynaceae
 vol: 59
 pages: 265-267
 source: sources/Apocynaceae_vol59_liteparse
+habit: "tree"
 tags: [species, generated]
 ---
 # *Voacanga chalotiana* Pierre ex Stapf Planche 122
@@ -17,9 +18,7 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Fl. trop. Afr. 4(1) : 158 (1902). Arbre atteignant 35 m de hauteur, entièrement glabre sauf l’intérieur du tube de la corolle ; WURQFMXVTX¶jFPGHGLDPqWUH Feuille Spwlrohgh±PPOLPEHpWURLWHPHQWHOOLSWLTXH de 5,5–21 × 1,5–6,5 cm, aigu à atténué à la base, acuminé au sommet ; nervures secondaires 10 à 25 paires, en « arêtes de poisson ». ,QÀRUHVFHQFH de 10–17 × 6–15 cm ; pédoncule de ±FPEUDFWpHVFDGXTXHVOHVLQIpULHXUHVMXVTX¶jîPPOHVDXWUHVSOXVSHWLWHVDYHF une seule rangée de grands collétères internes près de la base. Fleur : pédicelle de 6–15 mm ; calice long de 5–7,5 mm, avec 4 ou 5 gros collétères par lobe en une seule rangée interne juste au-dessus de la base, les 20 à 25 formant ensemble un anneau presque continu , à OREHVpWURLWHPHQWWULDQJXODLUHVjSUHVTXHREORQJV±IRLVDXVVLORQJVTXHOHWXEH 2,5–3,5 fois aussi longs que larges , de 3–6 × 1,3–2 mm ; corolle blanche ou crème, glabre à l’extéULHXUjWXEHUHQÀpORQJGH±PPEDVHODUJHGH±PPOHSRLQWOHSOXVODUJHGH± mm, contracté à nouveau à la gorge, à pubescence interne formée de poils dirigés vers le bas, à lobes étalés et peu après recourbés, 1,9–3 fois aussi longs que le tube , de 11–18 × 4–6 mm, IRUPDQWHQERXWRQXQHWrWHSUHVTXHFRQLTXHjDSH[pPRXVVppWDPLQHVH[VHUWHVVXU± mm, anthère longue de 3–4 mm ; pistil long de 5–6 mm. Fruit largement transversalement HOOLSWLTXH les carpelles unis sur toute la longueur du fruit , de 2,5–3 × 4,5–6,5 × 2–3 cm, déhiscent transversalement, vert foncé ou jaunes à maturité. Graine REOLTXHPHQWHOOLSVRwGDOH ORQJXHGHPP¿QHPHQWWXEHUFXOpHDULOOHMDXQHYLI Distribution *DERQ5pSXEOLTXHGX&RQJR5pSXEOLTXHGpPRFUDWLTXHGX&RQJRHW$QJRODDX*DERQ Haut-Ogooué (Plateau Batéké). Écologie PRVDwTXHIRUrWVDYDQHDX*DERQjPG¶DOWLWXGHDLOOHXUVMXVTX¶jP
+Fl. trop. Afr. 4(1) : 158 (1902). Tree reaching 35 m in height, entirely glabrous except the interior of the corolla tube; trunk to 60 cm in diameter. Leaf: petiole 0–1 mm; limb narrowly elliptic, 5.5–21 × 1.5–6.5 cm, acute to attenuate at base, acuminate at apex; secondary nerves 10 to 25 pairs, in "fishbone" pattern. Inflorescence 10–17 × 6–15 cm; peduncle ca. 1.5 cm; bracts caducous, the lower ones up to 8 mm, the others smaller, with a single row of large internal colleters near the base. Flower: pedicel 6–15 mm; calyx 5–7.5 mm long, with 4 or 5 large colleters per lobe in a single internal row just above the base, the 20 to 25 together forming an almost continuous ring, with lobes narrowly triangular to almost oblong, 2.5–3.5 times as long as wide, 3–6 × 1.3–2 mm; corolla white or cream, glabrous on the exterior; tube inflated-elongate, 23–30 mm; base 10–11 mm wide; broadest point 12–14 mm, contracted again at the throat, with internal pubescence formed of downward-directed hairs, lobes spreading and soon after recurved, 1.9–3 times as long as the tube, 11–18 × 4–6 mm, forming at the apex an almost conical head with emarginate apex; stamens exserted on 1–2 mm, anther 3–4 mm long; pistil 5–6 mm long. Fruit broadly transversely ellipsoid, carpels united along the entire length of the fruit, 2.5–3 × 4.5–6.5 × 2–3 cm, dehiscent transversely, dark green or yellow at maturity. Seed obliquely ellipsoid, ca. 12 mm long, finely tuberculate; aril bright yellow. Distribution: Gabon, Republic of the Congo, Democratic Republic of the Congo, and Angola; in Gabon, Haut-Ogooué (Plateau Batéké). Ecology: mosaic of forests and savanna; in Gabon, at 600 m altitude, elsewhere up to 900 m.
 
 ## Bibliography
 
@@ -27,9 +26,7 @@ Leeuwenberg (1985)
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-J. Louis 3488 ; 2-6 : Bamps 610 ; 7 : Évrard 2278 ; 8, 9 : J. Louis 4314 ). Dessin par Juliet Williamson, Naturalis Biodiversity Center (©), reproduit à partir de Leeuwenberg (1985).
+J. Louis 3488; 2–6: Bamps 610; 7: Évrard 2278; 8, 9: J. Louis 4314). Drawing by Juliet Williamson, Naturalis Biodiversity Center (©), reproduced from Leeuwenberg (1985).
 
 ## Notes
 

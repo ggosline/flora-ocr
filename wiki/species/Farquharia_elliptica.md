@@ -7,6 +7,7 @@ family: Apocynaceae
 vol: 59
 pages: 85-87
 source: sources/Apocynaceae_vol59_liteparse
+habit: "liana"
 tags: [species, generated]
 ---
 # *Farquharia elliptica* Stapf Planche 34

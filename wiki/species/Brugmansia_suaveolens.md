@@ -7,6 +7,12 @@ family: Solanaceae
 vol: 55
 pages: 98-99
 source: sources/Solanaceae_vol55_liteparse
+countries: [Gabon]
+in_region: true
+subdivisions:
+  Gabon: [Ogooué-Ivindo]
+habit: "tree"
+altitude_m: "500–1800"
 tags: [species, generated]
 ---
 # *Brugmansia suaveolens* (Willd.) Sweet Planche 29

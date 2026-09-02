@@ -6,10 +6,8 @@ genus: Costus
 family: Zingiberaceae
 family_current: Costaceae
 synonyms: [Costus fimbriatus Pellegr.]
-countries: [Equatorial Guinea, Gabon]
-in_region: true
-habit: rhizomatous herb to 1.5 m
 treatments: [{vol: 9, pages: "73–74", source: sources/Zingiberaceae_vol9_paddle}]
+habit: "herb"
 tags: [species]
 ---
 # *Costus ligularis* Bak.

@@ -7,6 +7,8 @@ family: Orchidaceae
 vol: 37
 pages: 215-215
 source: sources/Orchidaceae_vol37_paddle
+countries: [Burundi, Democratic Republic of the Congo, Gabon, Rwanda, Uganda]
+in_region: true
 tags: [species, generated]
 ---
 # *Rhipidoglossum bilobatum* (Summerh.) Szlach. & Olsz.
@@ -37,7 +39,7 @@ Hallé 1681, 10 km SW of Ndjolé, CEFA-Ayem (fl. Apr.), P! ; 3404, Ivindo, N of 
 
 ![Rhipidoglossum bilobatum](../sources/Orchidaceae_vol37_paddle/figures/fig_104_p0214.png)
 
-*PL. 210. – Rhipidoglossum bilobatum (Summerh.) SZLACHETKO & OLSZEWSKI : A, éperon, ovaire, pédicelle, bractée florale et partie de l'axe de l'inflorescence ; B, labelle et éperon ; C, sépale dorsal ; D, pétale ; E, sépale lateral ; F, gynostème, vue latérale ; G, rostelle avec un des pollinaires ; H, feuille ; I, fleur ; J, labelle, éperon et gynostème ; K, vue générale (A-H, Hallé 3404, P. ; I-K, ex KEW HERBARIUM, modifié).*
+*PL. 210. – Rhipidoglossum bilobatum (Summerh.) SZLACHETKO & OLSZEWSKI : A, spur, ovary, pedicel, floral bract and part of the inflorescence axis ; B, labellum and spur ; C, dorsal sepal ; D, petal ; E, lateral sepal ; F, gynostème, lateral view ; G, rostellum with one of the pollinaria ; H, leaf ; I, flower ; J, labellum, spur and gynostème ; K, general view (A-H, Hallé 3404, P. ; I-K, ex KEW HERBARIUM, modified).*
 
 ## Notes
 

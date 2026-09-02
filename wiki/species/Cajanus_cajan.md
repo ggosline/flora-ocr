@@ -7,6 +7,12 @@ family: Leguminosae
 vol: 49
 pages: 71-71
 source: sources/Millettiaspeciesfabaceae_vol49_liteparse
+countries: [Gabon]
+in_region: true
+subdivisions:
+  Gabon: [Estuaire, Ngounié, Ogooué-Maritime]
+habit: "shrub"
+altitude_m: "2400"
 tags: [species, generated]
 ---
 # *Cajanus cajan* (L.) Millsp. Planche 20

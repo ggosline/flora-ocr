@@ -7,6 +7,12 @@ family: Boraginaceae
 vol: 57
 pages: 28-30
 source: sources/Boraginaceae_vol57_paddle
+countries: [Cameroon, Cote d'Ivoire, Equatorial Guinea, Gabon, Liberia]
+in_region: true
+subdivisions:
+  Gabon: [Estuaire]
+habit: "tree"
+altitude_m: "0–400"
 tags: [species, generated]
 ---
 # *Hoplestigma klaineanum* Pierre

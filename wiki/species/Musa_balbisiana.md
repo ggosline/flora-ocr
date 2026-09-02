@@ -5,11 +5,11 @@ authority: Colla
 genus: Musa
 family: Musaceae
 synonyms: []
-countries: [Gabon, India, Myanmar, Philippines]
 range_note: "Native to India, Myanmar and the Philippines; represented in Gabon through cultivated hybrid clones."
-in_region: true
-habit: giant herb
 treatments: [{vol: 9, pages: "11–14", source: sources/Musaceae_vol9_paddle}]
+countries: [Gabon]
+in_region: true
+habit: "herb"
 tags: [species, introduced, cultivated]
 ---
 

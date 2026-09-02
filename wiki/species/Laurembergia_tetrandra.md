@@ -5,20 +5,17 @@ authority: (Schott) Kanitz
 genus: Laurembergia
 family: Haloragaceae
 synonyms: [Laurembergia tetrandra subsp. brachypoda (Hiern) A.Raynal, Laurembergia tetrandra var. numidica (Batt. & Trab. ex Durieu) A.Raynal]
-countries: [Gabon]
-subdivisions:
-  Gabon: [Haut-Ogooué, Moyen-Ogooué, Ngounié, Ogooué-Maritime]
 range_note: Eastern South America and scattered across tropical Africa, Madagascar, Mauritius and coastal Algeria.
-countries_incomplete: true
-in_region: true
-habit: submerged or creeping succulent herb
-habitat: [shallow lakes, ponds, ditches, mudflats, peat bogs, wet grassland]
-altitude_m: "0–400 in Gabon; over 2100 elsewhere"
 treatments:
   - vol: 52
     year: 2018
     pages: "24–27"
     source: sources/Haloragaceae_vol52_liteparse
+countries: [Gabon, Madagascar, Mozambique, Senegal]
+in_region: true
+subdivisions:
+  Gabon: [Estuaire, Haut-Ogooué, Moyen-Ogooué, Ngounié, Nyanga, Ogooué-Maritime]
+habit: "herb"
 tags: [species]
 ---
 

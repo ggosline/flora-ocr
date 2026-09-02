@@ -7,6 +7,11 @@ family: Putranjivaceae
 vol: 57
 pages: 133-134
 source: sources/Putranjivaceae_vol57_paddle
+countries: [Cameroon, Gabon]
+in_region: true
+subdivisions:
+  Gabon: [Ogooué-Ivindo, Ogooué-Lolo, Woleu-Ntem]
+habit: "tree"
 tags: [species, generated]
 ---
 # *Drypetes celastrinea* Pax & K.Hoffm.

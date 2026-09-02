@@ -7,6 +7,13 @@ family: Ochnaceae
 vol: 48
 pages: 41-43
 source: sources/Ochnaceae_vol48_liteparse
+countries: [Angola, Cameroon, Democratic Republic of the Congo, Equatorial Guinea, Gabon, Nigeria, Republic of the Congo]
+in_region: true
+subdivisions:
+  Gabon: [Estuaire, Haut-Ogooué, Moyen-Ogooué, Ogooué-Ivindo, Ogooué-Maritime]
+habit: "tree"
+habitat: [gallery forest, swamp forest, secondary forest]
+altitude_m: "0–450"
 tags: [species, generated]
 ---
 # *Campylospermum dybovskii* Tiegh. Planche 8

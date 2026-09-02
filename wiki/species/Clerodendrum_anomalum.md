@@ -6,6 +6,13 @@ genus: Clerodendrum
 vol: 58
 pages: 27-27
 source: sources/Labiataeulmaceaeverbenaceae_vol58_liteparse
+countries: [Cameroon, Gabon]
+in_region: true
+subdivisions:
+  Gabon: [Ngounié, Ogooué-Lolo, Woleu-Ntem]
+habit: "liana"
+habitat: [secondary forest]
+altitude_m: "500–540"
 tags: [species, generated]
 ---
 # *Clerodendrum anomalum* Letouzey Planche 5

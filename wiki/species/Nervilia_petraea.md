@@ -7,6 +7,8 @@ family: Orchidaceae
 vol: 36
 pages: 101-105
 source: sources/Orchidaceae_vol36_paddle
+countries: [Cameroon, Central African Republic, Cote d'Ivoire, Gabon, Ghana, Kenya, Madagascar, Malawi, Mozambique, Nigeria, Sierra Leone, Tanzania, Uganda, Zambia, Zimbabwe]
+in_region: true
 tags: [species, generated]
 ---
 # *Nervilia petraea* (Afzel. ex Sw.) Summerh.

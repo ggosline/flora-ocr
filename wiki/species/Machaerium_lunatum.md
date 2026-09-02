@@ -7,6 +7,12 @@ family: Leguminosae
 vol: 49
 pages: 245-246
 source: sources/Millettiaspeciesfabaceae_vol49_liteparse
+countries: [Angola, Gabon, Senegal]
+in_region: true
+subdivisions:
+  Gabon: [Estuaire, Ogooué-Maritime]
+habit: "liana"
+habitat: [mangrove, coastal]
 tags: [species, generated]
 ---
 # *Machaerium lunatum* (L.f.) Ducke Planche 82

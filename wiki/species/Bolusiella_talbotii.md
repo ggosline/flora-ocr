@@ -7,6 +7,9 @@ family: Orchidaceae
 vol: 37
 pages: 121-123
 source: sources/Orchidaceae_vol37_paddle
+countries: [Cameroon, Cote d'Ivoire, Equatorial Guinea, Gabon, Ghana, Liberia, Nigeria, Sierra Leone]
+in_region: true
+habitat: [rocky ground]
 tags: [species, generated]
 ---
 # *Bolusiella talbotii* (Rendle) Summerh.
@@ -35,7 +38,7 @@ J. M. & B. Reitsma & Louis 1841, inselberg, approximately 25 km ESE of Médouneu
 
 ![Bolusiella talbotii](../sources/Orchidaceae_vol37_paddle/figures/fig_051_p0122.png)
 
-*PL. 157. – Bolusiella talbotii (Rendle) Summerh. : A, labelle et éperon ; B, sépale dorsal ; C, pétale ; D, sépale latéral ; E, gynostème, vue de face ; F, gynostème, vue latérale (A-F, Villiers 854, P).*
+*PL. 157. – Bolusiella talbotii (Rendle) Summerh. : A, labellum and spur ; B, dorsal sepal ; C, petal ; D, lateral sepal ; E, gynostemium, front view ; F, gynostemium, lateral view (A-F, Villiers 854, P).*
 
 ## Notes
 

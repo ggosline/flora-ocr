@@ -7,6 +7,9 @@ family: Acanthaceae
 vol: 13
 pages: 168-169
 source: sources/Acanthaceae_vol13_paddle
+countries: [Angola, Democratic Republic of the Congo, Nigeria, Uganda]
+in_region: true
+habit: "liana"
 tags: [species, generated]
 ---
 # *Barleria brownii* S. Moore

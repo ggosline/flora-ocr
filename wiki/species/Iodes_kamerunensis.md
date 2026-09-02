@@ -7,6 +7,8 @@ family: Icacinaceae
 vol: 20
 pages: 10-12
 source: sources/Icacinaceae_vol20_paddle
+countries: [Cameroon]
+in_region: true
 tags: [species, generated]
 ---
 # *Iodes kamerunensis* Engler

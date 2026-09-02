@@ -7,6 +7,13 @@ family: Cyperaceae
 vol: 44
 pages: 157-158
 source: sources/Cyperaceae_vol44_liteparse
+countries: [Gabon]
+in_region: true
+subdivisions:
+  Gabon: [Estuaire, Haut-Ogooué, Moyen-Ogooué, Ngounié, Nyanga, Ogooué-Ivindo, Ogooué-Lolo, Ogooué-Maritime, Woleu-Ntem]
+habit: "herb"
+habitat: [mangrove]
+altitude_m: "0–500"
 tags: [species, generated]
 ---
 # *Fuirena umbellata* Rottb. Planche 103

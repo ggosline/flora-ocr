@@ -7,6 +7,7 @@ family: Lauraceae
 vol: 10
 pages: 67-67
 source: sources/Lauraceae_vol10_paddle
+habit: "tree"
 tags: [species, generated]
 ---
 # *Beilschmiedia thollonii* Rob. et Wilcz..

@@ -7,6 +7,9 @@ family: Connaraceae
 vol: 33
 pages: 43-47
 source: sources/Connaraceae_vol33_paddle
+countries: [Sao Tome and Principe]
+in_region: true
+habit: "liana"
 tags: [species, generated]
 ---
 # *Agelaea rubiginosa* Gilg
@@ -63,7 +66,7 @@ Van der Maesen & de Bruijn 5813, 30 km au S.O. de Lastoursville (fr., Nov.), WAG
 
 ![Agelaea rubiginosa](../sources/Connaraceae_vol33_paddle/figures/fig_018_p0046.png)
 
-*PL. 12. - Agelaea rubiginosa Gilg: 1, jeune rameau florifère × 2/3; 2, fleur × 6; 3, fleur, vue partielle montrant la connivence des pétales × 6; 4, étanines et pistil × 6; 5, pistil 5-carpellé × 8; 6, follicules, l'un montrant sa graine × 2/3; 7, follicule montrant une graine × 2/3; 8, graine montrant son sarcotesta (partie foncée) entourant le hile × 2. (1-5. A.M. Louis & al. 499; 6-7, 1211). - Repris de AUWP 89 (6).*
+*PL. 12. - Agelaea rubiginosa Gilg: 1, young flowering branch × 2/3; 2, flower × 6; 3, flower, partial view showing connivent petals × 6; 4, stamens and pistil × 6; 5, 5-carpellate pistil × 8; 6, follicles, one showing its seed × 2/3; 7, follicle showing a seed × 2/3; 8, seed showing its sarcotesta (dark part) surrounding the hilum × 2. (1-5. A.M. Louis & al. 499; 6-7, 1211). - Taken from AUWP 89 (6).*
 
 ## Notes
 

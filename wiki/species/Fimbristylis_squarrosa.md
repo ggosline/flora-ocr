@@ -7,6 +7,12 @@ family: Cyperaceae
 vol: 44
 pages: 153-154
 source: sources/Cyperaceae_vol44_liteparse
+countries: [Gabon]
+in_region: true
+subdivisions:
+  Gabon: [Ogooué-Ivindo, Ogooué-Maritime]
+habit: "herb"
+altitude_m: "0–200"
 tags: [species, generated]
 ---
 # *Fimbristylis squarrosa* Vahl Planche 100

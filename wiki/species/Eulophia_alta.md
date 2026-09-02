@@ -7,6 +7,9 @@ family: Orchidaceae
 vol: 37
 pages: 87-87
 source: sources/Orchidaceae_vol37_paddle
+countries: [Angola, Burundi, Cameroon, Central African Republic, Cote d'Ivoire, Democratic Republic of the Congo, Gabon, Ghana, Guinea, Liberia, Nigeria, Senegal, Sierra Leone, Sudan, Uganda, Zambia, Zimbabwe]
+in_region: true
+habitat: [rocky ground]
 tags: [species, generated]
 ---
 # *Eulophia alta* (L.) Fawc. & Rendle

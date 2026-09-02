@@ -7,6 +7,13 @@ family: Leguminosae
 vol: 49
 pages: 281-281
 source: sources/Millettiaspeciesfabaceae_vol49_liteparse
+countries: [Cote d'Ivoire, Equatorial Guinea, Gabon, Guinea, Liberia, Sierra Leone]
+in_region: true
+subdivisions:
+  Gabon: [Estuaire, Woleu-Ntem]
+habit: "liana"
+habitat: [swamp forest, primary forest, coastal]
+altitude_m: "1325"
 tags: [species, generated]
 ---
 # *Millettia dinklagei* Harms

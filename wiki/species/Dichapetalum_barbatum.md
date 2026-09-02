@@ -7,6 +7,9 @@ family: Dichapetalaceae
 vol: 32
 pages: 57-59
 source: sources/Dichapetalaceae_vol32_paddle
+countries: [Cameroon, Gabon]
+in_region: true
+habit: "liana"
 tags: [species, generated]
 ---
 # *Dichapetalum barbatum* Breteler
@@ -49,7 +52,7 @@ Breteler & de Wilde 823, Cap Estérias (fl., Sept.). Chevalier 27022, Akondjé (
 
 ![Dichapetalum barbatum](../sources/Dichapetalaceae_vol32_paddle/figures/fig_011_p0058.png)
 
-*PL. 10. – Dichapetalum barbatum Breteler: 1, rameau feuillé vu de dessous × 0,5; 2, 3, feuille face supérieure × 0,5; 4, nervure 1, dessus saillant, détail × 0,5; 5, stipule × 1; 6, base folaire et stipule supérieure, détail × 1; 7, inflorescence sans fleurs × 1; 8, fleur × 6; 9, fleur montrant pistil et staminodes × 6 (1, Bos 7087; 2, 4, 6, 8, 9, Bos 4318; 3, 7, N. Hallé 2394; 5, Leeuwenberg 9187). – Repris de MLW 73 (13): 76 (1973).*
+*PL. 10. – Dichapetalum barbatum Breteler: 1, leafy branch viewed from below × 0,5; 2, 3, leaf upper surface × 0,5; 4, nerve 1, upper side prominent, detail × 0,5; 5, stipule × 1; 6, leaf base and upper stipule, detail × 1; 7, inflorescence without flowers × 1; 8, flower × 6; 9, flower showing pistil and staminodes × 6 (1, Bos 7087; 2, 4, 6, 8, 9, Bos 4318; 3, 7, N. Hallé 2394; 5, Leeuwenberg 9187). – Reprinted from MLW 73 (13): 76 (1973).*
 
 ## Notes
 

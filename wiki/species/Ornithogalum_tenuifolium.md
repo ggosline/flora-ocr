@@ -7,6 +7,12 @@ family: Hyacinthaceae
 vol: 40
 pages: 34-37
 source: sources/Hyacinthaceae_vol40_liteparse
+countries: [Gabon]
+in_region: true
+subdivisions:
+  Gabon: [Nyanga]
+habit: "herb"
+altitude_m: "150"
 tags: [species, generated]
 ---
 # *Ornithogalum tenuifolium* F.Delaroche subsp. tenuifolium

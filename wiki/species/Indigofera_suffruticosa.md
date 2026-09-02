@@ -7,6 +7,12 @@ family: Leguminosae
 vol: 49
 pages: 221-222
 source: sources/Millettiaspeciesfabaceae_vol49_liteparse
+countries: [Gabon]
+in_region: true
+subdivisions:
+  Gabon: [Estuaire, Ogooué-Ivindo]
+habit: "shrub"
+altitude_m: "0–1500"
 tags: [species, generated]
 ---
 # *Indigofera suffruticosa* Mill.

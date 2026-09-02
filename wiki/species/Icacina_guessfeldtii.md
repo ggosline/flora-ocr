@@ -7,6 +7,9 @@ family: Icacinaceae
 vol: 20
 pages: 53-54
 source: sources/Icacinaceae_vol20_paddle
+countries: [Angola, Democratic Republic of the Congo, Gabon]
+in_region: true
+habit: "tree"
 tags: [species, generated]
 ---
 # *Icacina guessfeldtii* Ascherson ex Engler

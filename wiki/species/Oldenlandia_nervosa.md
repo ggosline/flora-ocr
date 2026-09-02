@@ -7,6 +7,10 @@ family: Rubiaceae
 vol: 12
 pages: 97-98
 source: sources/Rubiaceae_vol12_paddle
+countries: [Angola, Cameroon, Gabon]
+in_region: true
+habit: "herb"
+habitat: [rocky ground]
 tags: [species, generated]
 ---
 # *Oldenlandia nervosa* Hiern
@@ -51,7 +55,7 @@ Thollon : 351, Ogooué (fl. fr. déc.).
 
 ![Oldenlandia nervosa](../sources/Rubiaceae_vol12_paddle/figures/fig_022_p0099.png)
 
-*PL. 16. — Oldenlandia nervosa Hiern (1, N. Hallé 2097; 2 à 8, N. H. 1660; 9 à 11, Fleury 26160): 1, pied de très petite taille; 2, tige et feuilles; 3, stipule; 4, bouton; 5, coupe de fleur; 6, calice vu par dessus; 7, corolle id.; 8, étamine, profil, face et coupe; 9, portion d'infrutescence; 10 et 10', fruit; 11, graine.*
+*PL. 16. — Oldenlandia nervosa Hiern (1, N. Hallé 2097; 2 to 8, N. H. 1660; 9 to 11, Fleury 26160): 1, plant of very small size; 2, stem and leaves; 3, stipule; 4, bud; 5, section of flower; 6, calyx seen from above; 7, corolla id.; 8, stamen, profile, face and section; 9, portion of infructescence; 10 and 10', fruit; 11, seed.*
 
 ## Notes
 

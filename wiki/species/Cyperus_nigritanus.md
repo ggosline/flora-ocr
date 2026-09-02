@@ -7,6 +7,12 @@ family: Cyperaceae
 vol: 44
 pages: 97-98
 source: sources/Cyperaceae_vol44_liteparse
+countries: [Gabon]
+in_region: true
+subdivisions:
+  Gabon: [Haut-Ogooué]
+habit: "herb"
+altitude_m: "300–350"
 tags: [species, generated]
 ---
 # *Cyperus nigritanus* (C.B.Clarke) Lye

@@ -7,6 +7,11 @@ family: Lentibulariaceae
 vol: 54
 pages: 105-107
 source: sources/Lentibulariaceae_vol54_liteparse
+countries: [Burundi, Cameroon, Cote d'Ivoire, Democratic Republic of the Congo, Gabon, Ghana, Guinea, Guinea-Bissau, Madagascar, Mali, Niger, Nigeria, Republic of the Congo, Senegal, Sierra Leone, Tanzania, Togo, Zambia]
+in_region: true
+subdivisions:
+  Gabon: [Ogooué-Maritime]
+habit: "herb"
 tags: [species, generated]
 ---
 # *Utricularia foliosa* L. Planche 36, Figure 11(A–C)
@@ -17,25 +22,19 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Aquatic herb; stolons robust, flattened, oblong to elliptic in cross-section, reaching several metres in length by 1–3 mm in width, smooth, glabrous, with internodes 2–15 cm; rhizoids absent. Leaves with broadly ovate outline, reaching 15 cm in length, multipinnate, usually dimorphous, some with few divisions and numerous utricles, others with more divisions and few or absent utricles, ultimate divisions capillary, finely setulose. Inflated floats absent. Utricles situated laterally near the base of the penultimate leaf divisions, stipitate, broadly ovoid, 1–2 mm in length; orifice lateral, with upper lip naked or bearing 2 simple or sparsely branched hairs. Inflorescence erect, 7–40 cm in length, with 3 to 20 flowers; peduncle straight, relatively robust, reaching 3 mm in thickness, smooth, glabrous; flowers crowded at the beginning of anthesis but rachis elongating at maturity; bracts basifixed, broadly ovate or orbicular, 2–4 mm in length. Flower: bracteoles absent; pedicel erect, filiform, 4–10 mm, accrescent and curved at maturity; calyx with broadly ovate lobes, connate at the base, subequal, 3–4 mm in length, scarcely accrescent, the upper one subacute at the apex, the lower one 2- or 3-dentate; corolla 8–15 mm in length, yellow, upper lip orbicular, rounded at the apex, ± 2 times as long as the upper calyx lobe, lower lip broadly elliptic to subreniform, entire to emarginate at the apex, larger than the upper, palate very prominent, gibbous, spur narrowly conical, straight, reaching ± two-thirds the length of the lower lip, lower surface of the midvein
 
-Herbe aquatique ; stolons robustes, aplatis , oblongs à elliptiques en coupe transversale, atteignant plusieurs mètres de longueur sur 1–3 mm de largeur, lisses, glabres, à entre-nœuds de 2–15 cm ; rhizoïdes absents. Feuilles à contour largement ovale, atteignant 15 cm de longueur, multiple pennées, habituellement dimorphes, les unes à divisions peu nombreuses et utricules nombreux, les autres à divisions plus nombreuses et utricules peu nombreux ou absents, divisions ultimes capillaires, finement sétuleuses. Flotteurs renflés absents . Utricules situés latéralement près de la base des divisions foliaires pénultièmes , stipités, largement ovoïdes, 1–2 mm de longueur ; orifice latéral, à lèvre supérieure nue ou pourvue de 2 poils simples ou éparsement ramifiés. Inflorescence dressée, 7–40 cm de longueur, avec 3 à 20 fleurs ; pédoncule droit, relativement robuste, atteignant 3 mm d’épaisseur, lisse, glabre ; fleurs rapprochées au début de l’anthèse mais rachis s’allongeant à maturité ; bractées basifixes, largement ovales ou orbiculaires, 2–4 mm de longueur . Fleur : bractéoles absentes ; pédicelle dressé, filiforme, 4–10 mm, accrescent et recourbé à maturité ; calice à lobes largement ovales, connés à la base, subégaux, 3–4 mm de longueur, à peine accrescents, le supérieur subaigu au sommet, l’inférieur 2- ou 3-denté ; corolle 8–15 mm de longueur, jaune , lèvre supérieure orbiculaire, arrondie au sommet, ± 2 fois aussi longue que le lobe supérieur du calice, lèvre inférieure largement elliptique à subréniforme, entière à émarginée au sommet, plus grande que la supérieure, palais très saillant, gibbeux, éperon étroitement conique, droit, atteignant ± les deux tiers de la longueur de la lèvre inférieure, face inférieure de la nervure centrale
+Kew (©), reproduced with permission from Taylor (1989).
 
-Kew (©), reproduit avec permission à partir de Taylor (1989).
-
-portant de chaque côté une plaque elliptique de glandes courtement stipitées. Fruit globuleux, atteignant 8 mm de diamètre, indéhiscent, éparsement et finement glanduleux, avec 4 à 12 graines . Graine lenticulaire, 2–2,5 mm de diamètre, à aile étroite et régulière , 0,2–0,4 mm de largeur ; testa à cellules indistinctes, ± isodiamétrales.
+bearing on each side an elliptic plate of shortly stipitate glands. Fruit globose, reaching 8 mm in diameter, indehiscent, sparsely and finely glandular, with 4 to 12 seeds. Seed lenticular, 2–2.5 mm in diameter, with narrow and regular wing, 0.2–0.4 mm in width; testa with indistinct cells, ± isodiametrical.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Sénégal, Guinée-Bissau, Guinée, Mali, Sierra Leone, Côte d’Ivoire, Niger, Ghana, Togo, Nigéria, Cameroun, Gabon, République du Congo, République démocratique du Congo, Burundi, Éthiopie, Tanzanie, Zambie, Namibie, Botswana, Afrique du Sud (Natal) et Madagascar, aussi en Amérique ( des États-Unis au Paraguay) ; au Gabon, observé dans l’Ogooué-Maritime
+Senegal, Guinea-Bissau, Guinea, Mali, Sierra Leone, Ivory Coast, Niger, Ghana, Togo, Nigeria, Cameroon, Gabon, Republic of the Congo, Democratic Republic of the Congo, Burundi, Ethiopia, Tanzania, Zambia, Namibia, Botswana, South Africa (Natal) and Madagascar, also in America (from the United States to Paraguay); in Gabon, observed in Ogooué-Maritime
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-eaux stagnantes ou à courant lent des lacs, mares et rivières ; au Gabon au niveau de la mer, en Afrique de l’Ouest et de l’Est surtout entre 0 et 1500 m. B : Taylor (1964, 1972, 1989). i B liographie
+stagnant or slow-flowing waters of lakes, ponds and rivers; in Gabon at sea level, in West and East Africa mainly between 0 and 1500 m. B: Taylor (1964, 1972, 1989). Bibliography
 
 ## Notes
 

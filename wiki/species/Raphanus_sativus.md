@@ -7,6 +7,7 @@ family: Brassicaceae
 vol: 30
 pages: 76-77
 source: sources/Brassicaceae_vol30_paddle
+habit: "herb"
 tags: [species, generated]
 ---
 # *Raphanus sativus* Linné

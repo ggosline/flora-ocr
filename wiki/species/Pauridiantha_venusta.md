@@ -7,6 +7,7 @@ family: Rubiaceae
 vol: 12
 pages: 239-241
 source: sources/Rubiaceae_vol12_paddle
+habit: "shrub"
 tags: [species, generated]
 ---
 # *Pauridiantha venusta* N. Hallé sp. nov. (Fig. 6)
@@ -31,7 +32,7 @@ Despite the size and colour of the leaf blades in the herbarium, the species sho
 
 ![Pauridiantha venusta](../sources/Rubiaceae_vol12_paddle/figures/fig_061_p0240.png)
 
-*Fig. 6.— Pauridiantha venusta N. Hallé (N. H. 894): 1, fragment fructifère × 3/4; 2, domatie; 3 stipule; 4, jeune fruit; 5, disque (sur jeune fr.); 6, placenta portant quelques ovules noués; 7, coupe schématique de l'ovaire.*
+*Fig. 6.— Pauridiantha venusta N. Hallé (N. H. 894): 1, fruiting fragment × 3/4; 2, domatium; 3 stipule; 4, young fruit; 5, disk (on young fr.); 6, placenta bearing a few knotted ovules; 7, schematic section of the ovary.*
 
 ## Notes
 

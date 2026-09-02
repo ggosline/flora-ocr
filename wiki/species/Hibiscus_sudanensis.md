@@ -7,6 +7,12 @@ family: Malvaceae
 vol: 45
 pages: 76-76
 source: sources/Malvaceae_vol45_liteparse
+countries: [Cameroon, Central African Republic, Democratic Republic of the Congo, Gabon]
+in_region: true
+subdivisions:
+  Gabon: [Woleu-Ntem]
+habit: "herb"
+altitude_m: "500"
 tags: [species, generated]
 ---
 # *Hibiscus sudanensis* Hochr.

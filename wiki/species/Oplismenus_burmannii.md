@@ -7,6 +7,7 @@ family: Gramineae
 vol: 05
 pages: 60-62
 source: sources/Gramineae_vol05_paddle
+habit: "herb"
 tags: [species, generated]
 ---
 # *Oplismenus burmannii* (Retz.) P. Beauv.
@@ -36,7 +37,7 @@ Thollon : 654, sans localité précise (cet échantillon, ainsi qu'un spécimen 
 
 ![Oplismenus burmannii](../sources/Gramineae_vol05_paddle/figures/fig_010_p0061.png)
 
-*PL. IX. — Oplismenus Burmannii (Retz.) P. Beauv. (Flamigni 122) : 1, chaume, feuilles et inflorescences; 2, détail d'un racème; 3, épillet : longueur 2,5 mm sans les arêtes; 4, fleur fertile. — O. hirtellus (L.) P. Beauv. (Descoings 6584) : 5, port de la plante; 6, détail d'un racème; 7, épillet : longueur 3 mm env. sans les arêtes; 8, fleur fertile.*
+*PL. IX. — Oplismenus Burmannii (Retz.) P. Beauv. (Flamigni 122) : 1, culm, leaves and inflorescences; 2, detail of a raceme; 3, spikelet : length 2,5 mm without the awns; 4, fertile flower. — O. hirtellus (L.) P. Beauv. (Descoings 6584) : 5, habit of the plant; 6, detail of a raceme; 7, spikelet : length 3 mm approx. without the awns; 8, fertile flower.*
 
 ## Notes
 

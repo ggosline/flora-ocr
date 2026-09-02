@@ -7,6 +7,7 @@ family: Dichapetalaceae
 vol: 32
 pages: 152-155
 source: sources/Dichapetalaceae_vol32_paddle
+countries_incomplete: true
 tags: [species, generated]
 ---
 # *Dichapetalum parvifolium* Engler
@@ -55,7 +56,7 @@ Breteler 6513, km 23 Moanda-Bakoumba (stér., Sept.); 6666, km 11 Lastoursville-
 
 ![Dichapetalum parvifolium](../sources/Dichapetalaceae_vol32_paddle/figures/fig_044_p0154.png)
 
-*PL. 43 – Dichapetalum parvifolium Engler : 1, jeune rameau florifère × 0,8 ; 2, stipules × 5 ; 3, grande feuille, face inférieure × 0,8 ; 4, inflorescence avec une fleur ouverte × 5 ; 5, fleur, détail × 10 ; 6, fruit 1-sperme avec une crête × 0,8 ; 7, fruit 1-sperme × 0,8 (1, Le Testu 8794 ; 2, Breteler 6849 ; 3, Le Testu 8006 ; 4, 5, Breteler 5832 ; 6, Leeuwenberg 3998 ; 7, J.J. de Wilde 8135 A). – Repris de MLW 81 (10) : 77 (1981).*
+*PL. 43 – Dichapetalum parvifolium Engler : 1, young flowering branch × 0.8 ; 2, stipules × 5 ; 3, large leaf, lower surface × 0.8 ; 4, inflorescence with an open flower × 5 ; 5, flower, detail × 10 ; 6, 1-seeded fruit with a ridge × 0.8 ; 7, 1-seeded fruit × 0.8 (1, Le Testu 8794 ; 2, Breteler 6849 ; 3, Le Testu 8006 ; 4, 5, Breteler 5832 ; 6, Leeuwenberg 3998 ; 7, J.J. de Wilde 8135 A). – Reprinted from MLW 81 (10) : 77 (1981).*
 
 ## Notes
 

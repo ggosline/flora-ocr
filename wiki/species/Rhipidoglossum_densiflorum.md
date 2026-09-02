@@ -7,6 +7,8 @@ family: Orchidaceae
 vol: 37
 pages: 215-217
 source: sources/Orchidaceae_vol37_paddle
+countries: [Angola, Cameroon, Democratic Republic of the Congo, Gabon, Liberia, Rwanda, Uganda, Zambia]
+in_region: true
 tags: [species, generated]
 ---
 # *Rhipidoglossum densiflorum* Summerh.
@@ -37,7 +39,7 @@ Le Testu 5767, falls of the Mboumi at Mbigou (fl. Nov.), BR!, K, P!.
 
 ![Rhipidoglossum densiflorum](../sources/Orchidaceae_vol37_paddle/figures/fig_105_p0216.png)
 
-*PL. 211. – Rhipidoglossum densiflorum Summerh. : A, fleur, tépales enlevés ; B, labelle ; C, sépale latéral ; D, pétale ; E, sépale dorsal ; F, extrémités foliaires (A-F, Le Testu 5767, P).*
+*PL. 211. – Rhipidoglossum densiflorum Summerh. : A, flower, tepals removed ; B, labellum ; C, lateral sepal ; D, petal ; E, dorsal sepal ; F, leaf apexes (A-F, Le Testu 5767, P).*
 
 ![Rhipidoglossum densiflorum](../sources/Orchidaceae_vol37_paddle/figures/fig_175_p0261.png)
 

@@ -7,6 +7,7 @@ family: Sapindaceae
 vol: 23
 pages: 72-74
 source: sources/Sapindaceae_vol23_paddle
+habit: "shrub"
 tags: [species, generated]
 ---
 # *Deinbollia cuneifolia* Baker
@@ -39,7 +40,7 @@ La récolte Chevalier 20833, Guinée (comparée pour identification avec le type
 
 ![Deinbollia cuneifolia](../sources/Sapindaceae_vol23_paddle/figures/fig_014_p0073.png)
 
-*PL. 14. — Deinbollia cuneifolia Bak. (Chevalier 20823) : 1, dernières folioles, 19 cm; 2, grappe 21 cm; 3, 3', bouton, vue générale et coupe, 3 mm; 4, 4', étamine, faces externe et interne; 5, 5", pétale dans le bouton, faces interne, externe et profil; 6, pétale de fleur épanouie, face interne et coupe; 7, pistil glabre. — Deinbollia grandifolia Hook. f. (8-9', Le Testu 4486; 10-12', De Wilde 3692; 13-15", Chevalier 17619) : 8, avant dernière foliole 28 cm; 9, 9', rameau de 2° ordre, 36 cm, et cymule, bouton de 4 mm; 10, fleur ♀, coupe, sépales 5 mm; 11, pétale, 5 mm; 12, 12', étamine, faces externe et interne; 13, bouton 2,5 mm; 14, disque coupé; 15, 15', pétale, faces interne, externe et profil.*
+*PL. 14. — Deinbollia cuneifolia Bak. (Chevalier 20823) : 1, last leaflets, 19 cm; 2, raceme 21 cm; 3, 3', bud, general view and section, 3 mm; 4, 4', stamen, external and internal faces; 5, 5", petal in the bud, internal, external faces and profile; 6, petal of open flower, internal face and section; 7, glabrous pistil. — Deinbollia grandifolia Hook. f. (8-9', Le Testu 4486; 10-12', De Wilde 3692; 13-15", Chevalier 17619) : 8, penultimate leaflet 28 cm; 9, 9', branch of 2nd order, 36 cm, and cymule, bud of 4 mm; 10, flower ♀, section, sepals 5 mm; 11, petal, 5 mm; 12, 12', stamen, external and internal faces; 13, bud 2,5 mm; 14, disk cut; 15, 15', petal, internal, external faces and profile.*
 
 ## Notes
 

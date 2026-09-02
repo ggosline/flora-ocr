@@ -7,6 +7,11 @@ family: Podostemaceae
 vol: 51
 pages: 38-38
 source: sources/Podostemaceae_vol51_liteparse
+countries: [Angola, Cameroon, Central African Republic, Gabon, Sierra Leone]
+in_region: true
+subdivisions:
+  Gabon: [Ogooué-Ivindo]
+altitude_m: "150"
 tags: [species, generated]
 ---
 # *Ledermanniella aloides* (Engl.) C.Cusset Planche 13(1–4)

@@ -7,6 +7,9 @@ family: Orchidaceae
 vol: 37
 pages: 245-245
 source: sources/Orchidaceae_vol37_paddle
+countries: [Gabon]
+in_region: true
+altitude_m: "1"
 tags: [species, generated]
 ---
 # *Angraecum cribbianum* Szlach. & Olsz.

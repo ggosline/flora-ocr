@@ -7,6 +7,8 @@ family: Adiantaceae
 vol: 08
 pages: 124-126
 source: sources/Adiantaceae_vol08_paddle
+countries: [Cameroon, Gabon, Ghana, Guinea, Mozambique, Nigeria, Sudan, Uganda]
+in_region: true
 tags: [species, generated]
 ---
 # *Afropteris repens* (C. Chr.) Alston (P.L. XX)
@@ -61,7 +63,7 @@ Rhizome court, dressé, ayant environ 2 cm de diamètre, portant des écailles b
 
 ![Afropteris repens](../sources/Adiantaceae_vol08_paddle/figures/fig_023_p0123.png)
 
-*PL. XX.—Afropteris repens (C. Chr.) Alston (Fleury 26 226) : 1, aspect général × 2 /3; 2, une pinnule × 2. —Diplazium Welwitschii (Hk.) Diels. (N. Hallé 2430); 3, une penne × 2 /3; 4, détail de nervation et sores × 2. —Diplazium Sammatii Kühn (Letouzey 3441, Cameroun); 5, aspect général × 1 /2.*
+*PL. XX.—Afropteris repens (C. Chr.) Alston (Fleury 26 226) : 1, general aspect × 2 /3; 2, a pinnule × 2. —Diplazium Welwitschii (Hk.) Diels. (N. Hallé 2430); 3, a pinna × 2 /3; 4, detail of venation and sori × 2. —Diplazium Sammatii Kühn (Letouzey 3441, Cameroon); 5, general aspect × 1 /2.*
 
 ## Notes
 

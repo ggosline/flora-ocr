@@ -7,6 +7,7 @@ family: Melastomataceae
 vol: 25
 pages: 76-77
 source: sources/Melastomataceae_vol25_paddle
+habit: "shrub"
 tags: [species, generated]
 ---
 # *Preussiella gabonensis* Jacques-Félix
@@ -39,7 +40,7 @@ Le Testu 2198, Moubémo, clairière Ivélé (nov.).
 
 ![Preussiella gabonensis](../sources/Melastomataceae_vol25_paddle/figures/fig_026_p0075.png)
 
-*PL. 26. — Preussiella gabonensis Jacq.-Fél. : 1, sommité fleurie × 2/3; 2, hypantho-calice × 4; 3, étamine × 6 (Le Testu 2198). (Repris d'Adansonia, sér. 2, 16 (4) : tab. 3, 1977).*
+*PL. 26. — Preussiella gabonensis Jacq.-Fél. : 1, flowering shoot × 2/3; 2, hypantho-calyx × 4; 3, stamen × 6 (Le Testu 2198). (Reprinted from Adansonia, ser. 2, 16 (4) : tab. 3, 1977).*
 
 ## Notes
 

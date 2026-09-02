@@ -7,6 +7,8 @@ family: Acanthaceae
 vol: 13
 pages: 187-188
 source: sources/Acanthaceae_vol13_paddle
+countries: [Cameroon, Cote d'Ivoire, Gabon, Nigeria]
+in_region: true
 tags: [species, generated]
 ---
 # *Chlamydocardia buettneri* Lindau

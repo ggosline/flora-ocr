@@ -7,6 +7,12 @@ family: Meliaceae
 vol: 47
 pages: 44-47
 source: sources/Meliaceae_vol47_liteparse
+countries: [Cameroon, Gabon]
+in_region: true
+subdivisions:
+  Gabon: [Estuaire, Ogooué-Ivindo, Ogooué-Lolo, Woleu-Ntem]
+habit: "tree"
+altitude_m: "800"
 tags: [species, generated]
 ---
 # *Leplaea cauliflora* E.J.M.Koenen & J.J.de Wilde Planche 11

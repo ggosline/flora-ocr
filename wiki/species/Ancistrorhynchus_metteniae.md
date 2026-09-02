@@ -7,6 +7,9 @@ family: Orchidaceae
 vol: 37
 pages: 113-113
 source: sources/Orchidaceae_vol37_paddle
+countries: [Cameroon, Central African Republic, Democratic Republic of the Congo, Nigeria, Sao Tome and Principe, Sierra Leone, Tanzania, Uganda]
+in_region: true
+habitat: [evergreen forest]
 tags: [species, generated]
 ---
 # *Ancistrorhynchus metteniae* (Kraenzl.) Summerh.

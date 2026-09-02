@@ -7,6 +7,12 @@ family: Leguminosae
 vol: 49
 pages: 353-355
 source: sources/Millettiaspeciesfabaceae_vol49_liteparse
+countries: [Angola, Gabon, Madagascar, Senegal]
+in_region: true
+subdivisions:
+  Gabon: [Estuaire, Haut-Ogooué, Nyanga, Ogooué-Ivindo, Ogooué-Maritime]
+habit: "herb"
+altitude_m: "1–500"
 tags: [species, generated]
 ---
 # *Stylosanthes erecta* P.Beauv. Planche 119

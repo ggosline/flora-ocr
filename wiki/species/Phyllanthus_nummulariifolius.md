@@ -7,6 +7,13 @@ family: Phyllanthaceae
 vol: 43
 pages: 66-67
 source: sources/Phyllanthaceae_vol43_liteparse
+countries: [Gabon, Madagascar]
+in_region: true
+subdivisions:
+  Gabon: [Ogooué-Ivindo, Woleu-Ntem]
+habit: "shrub"
+habitat: [secondary forest]
+altitude_m: "500–600"
 tags: [species, generated]
 ---
 # *Phyllanthus nummulariifolius* Poir.

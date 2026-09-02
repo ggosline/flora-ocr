@@ -7,6 +7,8 @@ family: Connaraceae
 vol: 33
 pages: 49-53
 source: sources/Connaraceae_vol33_paddle
+countries: [Angola, Gabon, Senegal, Tanzania]
+in_region: true
 tags: [species, generated]
 ---
 # *Cnestis corniculata* Lamarck
@@ -119,7 +121,7 @@ Wilks MINK-W-650, Minkébé (fr., Déc), WAG.
 
 ![Cnestis corniculata](../sources/Connaraceae_vol33_paddle/figures/fig_019_p0050.png)
 
-*PL. 13. – Cnestis corniculata Lamarck : 1, 3, feuilles, face inférieure (formes : 1. « C. agelaeoides » ; 2. « C. gabunensis »); 3. « C. pynaertii ») × 2/3; 4, fleur, vue interne partielle (forme « C. lescravaetii ») × 10; 5, fleur, vue externe (forme « C. aurantiaca ») × 6; 6, follicule fermé, vue latérale (forme « C. lescrawaetii ») × 1; 7, follicule ouvert, vue latérale (forme « C. iomalla ») × 1; 8, rameau avec inflorescences (forme « C. lescrawaetii ») × 2/3. (1. Klaine 3508; 2. Monteiro & Murta 133; 3. Pynaert 168; 4. Breteler & Lemmens 8420; 5. Bos 6896; 6. Breyne 2947; 7. Breteler 6404; 8. Breteler & Lemmens 8420). – Repris de AUWP 89 (6).*
+*PL. 13. – Cnestis corniculata Lamarck: 1, 3, leaves, lower surface (forms: 1. "C. agelaeoides"; 2. "C. gabunensis"; 3. "C. pynaertii") × 2/3; 4, flower, partial internal view (form "C. lescravaetii") × 10; 5, flower, external view (form "C. aurantiaca") × 6; 6, closed follicle, lateral view (form "C. lescrawaetii") × 1; 7, open follicle, lateral view (form "C. iomalla") × 1; 8, branch with inflorescences (form "C. lescrawaetii") × 2/3. (1. Klaine 3508; 2. Monteiro & Murta 133; 3. Pynaert 168; 4. Breteler & Lemmens 8420; 5. Bos 6896; 6. Breyne 2947; 7. Breteler 6404; 8. Breteler & Lemmens 8420). – Taken from AUWP 89 (6).*
 
 ## Notes
 

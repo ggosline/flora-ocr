@@ -44,7 +44,7 @@ On 13 December 1954 during an expedition organized in French Guiana by the New Y
 
 ![Allophylus grandifolius](../sources/Sapindaceae_vol23_paddle/figures/fig_006_p0041.png)
 
-*PL. 6. — Allophylus grandifolius (Bak.) Radlk. (1-7, Zenker 1142 a, 1', 2', 5, Zenker 4108) : 1, feuille et inflorescence, limbe de 29 cm; 1', inflorescence; 1", coupe du pétiole, diam. 3 mm; 2', cymules et boutons (larges de 2 mm); 3', sépales inférieur et supérieur; 4, 4', 4", pétale, faces interne externe et profil; 6, disque; 7, fruit. — Allophylus hirtellus (Hook. f.) Radlk. (8-12', Mann 727) : 8, feuille et inflorescence, limbe de 16 cm; 8', coupe du pétiole, diamètre 1,2 mm; 8", domaties; 9, cymule et bouton (1,5 mm); 10, 10', sépales supérieur et inférieur; 11, 11', 11", pétale (face interne, externe et profil); 12, 12', étamines (face externe et profil).*
+*PL. 6. — Allophylus grandifolius (Bak.) Radlk. (1-7, Zenker 1142 a, 1', 2', 5, Zenker 4108) : 1, leaf and inflorescence, blade 29 cm; 1', inflorescence; 1", section of petiole, diam. 3 mm; 2', cymules and buds (2 mm wide); 3', lower and upper sepals; 4, 4', 4", petal, internal external surfaces and profile; 6, disk; 7, fruit. — Allophylus hirtellus (Hook. f.) Radlk. (8-12', Mann 727) : 8, leaf and inflorescence, blade 16 cm; 8', section of petiole, diameter 1.2 mm; 8", domatia; 9, cymule and bud (1.5 mm); 10, 10', upper and lower sepals; 11, 11', 11", petal (internal surface, external and profile); 12, 12', stamens (external surface and profile).*
 
 ## Notes
 

@@ -7,6 +7,11 @@ family: Cyperaceae
 vol: 44
 pages: 50-52
 source: sources/Cyperaceae_vol44_liteparse
+countries: [Gabon]
+in_region: true
+subdivisions:
+  Gabon: [Estuaire, Nyanga, Ogooué-Maritime]
+habit: "herb"
 tags: [species, generated]
 ---
 # *Cyperus crassipes* Vahl Planche 25

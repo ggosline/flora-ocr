@@ -7,6 +7,9 @@ family: Leguminosae
 vol: 49
 pages: 28-28
 source: sources/Millettiaspeciesfabaceae_vol49_liteparse
+countries: [Gabon]
+in_region: true
+altitude_m: "1530"
 tags: [species, generated]
 ---
 # *Aeschynomene indica* L.

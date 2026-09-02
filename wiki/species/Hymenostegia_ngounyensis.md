@@ -7,6 +7,7 @@ family: Leguminosae
 vol: 15
 pages: 102-103
 source: sources/Leguminosae_vol15_paddle
+habit: "tree"
 tags: [species, generated]
 ---
 # *Hymenostegia ngounyensis* Pellegrin
@@ -33,7 +34,7 @@ N. Hallé : 2243, Abanga (fl. juin). Le Testu : 5284, Dibwangui ; 5890, Mimongo 
 
 ![Hymenostegia ngounyensis](../sources/Leguminosae_vol15_paddle/figures/fig_021_p0104.png)
 
-*PL. XXI. — Hymenostegia Klainei Pierre ex Pellegrin : 1, feuille × 2/3; 2, fleur × 2; 3, coupe longitudinale × 2; 4, fruit × 2/3. — Hymenostegia ngounyensis Pellegrin : 5, rameau florifère × 2/3; 6, fleur × 2; 7, coupe longitudinale de la fleur × 2.*
+*PL. XXI. — Hymenostegia Klainei Pierre ex Pellegrin : 1, leaf × 2/3; 2, flower × 2; 3, longitudinal section × 2; 4, fruit × 2/3. — Hymenostegia ngounyensis Pellegrin : 5, flowering branch × 2/3; 6, flower × 2; 7, longitudinal section of the flower × 2.*
 
 ## Notes
 

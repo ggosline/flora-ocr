@@ -7,6 +7,11 @@ family: Leguminosae
 vol: 49
 pages: 153-155
 source: sources/Millettiaspeciesfabaceae_vol49_liteparse
+countries: [Cameroon, Equatorial Guinea, Gabon]
+in_region: true
+subdivisions:
+  Gabon: [Ogooué-Ivindo, Woleu-Ntem]
+habit: "liana"
 tags: [species, generated]
 ---
 # *Dalbergia semiapplanata* O.Lachenaud Planche 49

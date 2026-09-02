@@ -7,6 +7,12 @@ family: Leguminosae
 vol: 49
 pages: 95-97
 source: sources/Millettiaspeciesfabaceae_vol49_liteparse
+countries: [Burundi, Cameroon, Democratic Republic of the Congo, Gabon, Rwanda, Tanzania, Uganda]
+in_region: true
+subdivisions:
+  Gabon: [Estuaire]
+habit: "herb"
+altitude_m: "30"
 tags: [species, generated]
 ---
 # *Crotalaria dewildemaniana* Wilczek subsp. dewildemaniana

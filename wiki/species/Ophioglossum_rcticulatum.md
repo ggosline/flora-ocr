@@ -7,6 +7,8 @@ family: Pteridophytes
 vol: 08
 pages: 36-37
 source: sources/Salviniaceae_vol08_paddle
+countries: [Sudan]
+in_region: false
 tags: [species, generated]
 ---
 # *Ophioglossum rcticulatum* Linné

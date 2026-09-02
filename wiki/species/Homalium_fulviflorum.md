@@ -7,6 +7,9 @@ family: Flacourtiaceae
 vol: 34
 pages: 78-79
 source: sources/Flacourtiaceae_vol34_paddle
+countries: [Gabon, Nigeria]
+in_region: true
+habit: "tree"
 tags: [species, generated]
 ---
 # *Homalium fulviflorum* Sleumer

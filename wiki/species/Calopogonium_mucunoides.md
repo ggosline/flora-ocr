@@ -7,6 +7,13 @@ family: Leguminosae
 vol: 49
 pages: 73-73
 source: sources/Millettiaspeciesfabaceae_vol49_liteparse
+countries: [Gabon]
+in_region: true
+subdivisions:
+  Gabon: [Estuaire, Moyen-Ogooué, Ngounié, Ogooué-Ivindo, Ogooué-Maritime, Woleu-Ntem]
+habit: "herb"
+habitat: [savanna]
+altitude_m: "5–350"
 tags: [species, generated]
 ---
 # *Calopogonium mucunoides* Desv. Planche 21

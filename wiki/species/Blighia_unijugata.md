@@ -7,6 +7,9 @@ family: Sapindaceae
 vol: 23
 pages: 188-189
 source: sources/Sapindaceae_vol23_paddle
+countries: [Angola, Cameroon, Central African Republic, Chad, Cote d'Ivoire, Democratic Republic of the Congo, Gabon, Kenya, Nigeria, Sierra Leone]
+in_region: true
+habit: "tree"
 tags: [species, generated]
 ---
 # *Blighia unijugata* Baker
@@ -42,7 +45,7 @@ Species recognized from Sierra Leone, Ivory Coast to Angola and Kenya, through D
 
 ![Blighia unijugata](../sources/Sapindaceae_vol23_paddle/figures/fig_049_p0187.png)
 
-*PL. 43. — Blighia welwitschii Radlk. (1-4, Le Testu 7496; 5-7', Aubréville 1112) : 1, feuille et grappe, foliole 15 cm; 2, 2', 2", fleur jeune, nouée et coupe; 3, 3', 3", pétale, face interne, externe et coupe; 4, ovaire; 5, fruit sec 6 cm; 6, coupe du fruit; 7, 7', graine sèche, profil, hile. — Blighia unijugata Bak. (8-12, Aubréville 504; 13-15', Letouzey 4524) : 8, feuille et grappe, foliole 10 cm; 8', coupes du pétiole du rachis et du limbe; 9, 9', fleur ouverte et coupe; 10, 10', pétale, vue dessus, interne et coupe; 11, disque ; 12, étamine face externe; 13, fruit, infrutescence 7 cm; 14, coupe d'un loge; 15, 15', graine, hile et profil.*
+*PL. 43. — Blighia welwitschii Radlk. (1-4, Le Testu 7496; 5-7', Aubréville 1112) : 1, leaf and raceme, leaflet 15 cm; 2, 2', 2", young flower, knotted and section; 3, 3', 3", petal, internal face, external and section; 4, ovary; 5, dry fruit 6 cm; 6, fruit section; 7, 7', dry seed, profile, hilum. — Blighia unijugata Bak. (8-12, Aubréville 504; 13-15', Letouzey 4524) : 8, leaf and raceme, leaflet 10 cm; 8', sections of petiole of rachis and blade; 9, 9', open flower and section; 10, 10', petal, upper view, internal and section; 11, disk ; 12, stamen external face; 13, fruit, infrutescence 7 cm; 14, section of a locule; 15, 15', seed, hilum and profile.*
 
 ## Notes
 

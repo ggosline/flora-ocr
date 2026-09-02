@@ -7,6 +7,13 @@ family: Leguminosae
 vol: 49
 pages: 63-63
 source: sources/Millettiaspeciesfabaceae_vol49_liteparse
+countries: [Gabon]
+in_region: true
+subdivisions:
+  Gabon: [Ogooué-Ivindo, Ogooué-Lolo]
+habit: "tree"
+habitat: [secondary forest]
+altitude_m: "300–500"
 tags: [species, generated]
 ---
 # *Baphia megaphylla* Breteler Planche 17

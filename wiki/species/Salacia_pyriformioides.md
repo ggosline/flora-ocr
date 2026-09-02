@@ -7,6 +7,8 @@ family: Celastraceae
 vol: 29
 pages: 60-61
 source: sources/Celastraceae_vol29_paddle
+countries: [Cameroon, Democratic Republic of the Congo, Gabon, Nigeria]
+in_region: true
 tags: [species, generated]
 ---
 # *Salacia pyriformioides* Loesener

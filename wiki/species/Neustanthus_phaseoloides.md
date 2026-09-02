@@ -7,6 +7,13 @@ family: Leguminosae
 vol: 49
 pages: 309-309
 source: sources/Millettiaspeciesfabaceae_vol49_liteparse
+countries: [Gabon]
+in_region: true
+subdivisions:
+  Gabon: [Estuaire, Ngounié, Nyanga, Ogooué-Lolo, Woleu-Ntem]
+habit: "herb"
+habitat: [savanna, secondary forest]
+altitude_m: "0–250"
 tags: [species, generated]
 ---
 # *Neustanthus phaseoloides* (Roxb.) Benth. var. javanica (Benth.) A.N.Egan & B.Pan

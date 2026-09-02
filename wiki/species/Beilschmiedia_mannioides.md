@@ -7,6 +7,9 @@ family: Lauraceae
 vol: 10
 pages: 54-54
 source: sources/Lauraceae_vol10_paddle
+countries: [Guinea]
+in_region: false
+habit: "tree"
 tags: [species, generated]
 ---
 # *Beilschmiedia mannioides* Rob. et Wiez.

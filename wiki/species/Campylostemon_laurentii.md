@@ -7,6 +7,9 @@ family: Celastraceae
 vol: 29
 pages: 273-275
 source: sources/Celastraceae_vol29_paddle
+countries: [Angola, Cameroon, Central African Republic, Cote d'Ivoire, Democratic Republic of the Congo, Gabon, Ghana, Liberia, Nigeria, Tanzania, Uganda]
+in_region: true
+habitat: [riverine, rocky ground]
 tags: [species, generated]
 ---
 # *Campylostemon laurentii* De Wildeman

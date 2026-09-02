@@ -16,8 +16,6 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 (Planchon ex Bentham) Jacques-Félix
 
 — Spathandra fascicularis PLANCHON EX BENTHAM, Niger Fl. : 357 (1859).

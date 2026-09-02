@@ -7,6 +7,9 @@ family: Melastomataceae
 vol: 25
 pages: 56-58
 source: sources/Melastomataceae_vol25_paddle
+countries: [Cameroon, Democratic Republic of the Congo]
+in_region: true
+habit: "shrub"
 tags: [species, generated]
 ---
 # *Tristemma oreophilum* Gilg
@@ -17,13 +20,11 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Shrub reaching 2 m; branches slender, woody, subangular then rounded, glabrescent to sparsely striguilose. Leaves with slender petiole, 0.8 to 2 cm, striguilose; blade narrowly elliptic-lanceolate, or base rounded, 3 × 12 (17) cm; hairs reduced at their base above, glabrescent below or veins striguilose; 3–5 veins prominent below.
 
-Arbrisseau pouvant atteindre 2 m; rameaux grêles, ligneux, subangulaires puis arrondis, glabrescents à éparsement strigilleux. Feuilles à pétiole grêle, 0,8 à 2 cm, strigilleux; limbe étroitement elliptique-lancéolé, ou base arrondie,  $ 3 \times 12 $ (17) cm; poils réduits à leur base dessus, glabrescent dessous ou nervures strigilleuses; 3-5 nervures saillantes dessous.
+Glomérules well differentiated, separated from the last pair of leaves by a robust peduncular internode; axial bracts foliaceous, striguilose, the floral bracts immediately coriaceous, broadly ovate, the outer ones still ± striguilose on the midline, the others entirely glabrous. Flower sessile; hypanthium oblong, 4 × 8 mm, furnished, in the upper half, with 1 to 2 rows of yellowish, robust bristles, without membrane, sometimes the lower row discontinuous and some additional fringes; sepals triangular, ± 2.5 × 3.5 mm, finely ciliate. Petals pink, obovate, 7 × 12 mm. Stamens with anther 4 mm; pedoconnective 0.7 mm, anterior lobes of same length; filament 6.5 mm. Apex of ovary convex, sparsely scabrous to striguilose, peristyle collar slightly prominent, glabrous; style 12 mm.
 
-Glomérules bien différenciés, dégagés de la dernière paire de feuilles par un entrençœud pédonculaire robuste; bractées axiales foliacées, strigilleuses, les bractées florales immédiatement coriaces, largement ovales, les externes encore ± strigilleuses sur la ligne médiane, les autres entièrement gla- bres. Fleur sessile; hypanthe oblong, 4 × 8 mm, pourvu, dans la moitié supérieure, de 1 à 2 rangs de soies jaunâtres, robustes, sans membrane, parfois l'inférieur discontinu et quelques franges supplémentaires; sépales triangulaires, ± 2,5 × 3,5 mm, finement ciliés. Pétales roses, obovales, 7 × 12 mm. Étamines à anthère de 4 mm; pédoconnectif 0,7 mm, lobes antérieurs de même longueur; filet 6,5 mm. Sommet de l'ovaire convexe, éparsement scabre à strigilleux, bourrelet péristyle peu saillant, glabre; style 12 mm.
-
-Fruit ellipsoide,  $ 5 \times 8 $ mm. — Pl. 19, p. 53.
+Fruit ellipsoid, 5 × 8 mm. — Pl. 19, p. 53.
 
 ## Type
 
@@ -31,9 +32,7 @@ Preuss 921, Cameroun (holo-, B, delet ; lecto-, M!; iso-, HBG!)
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Espèce localisée en quelques stations-refuges dispersées du Cameroun au Zaïre.
+Species localized in a few scattered refuge stations from Cameroon to Zaïre.
 
 ## Specimens examined
 

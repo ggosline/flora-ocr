@@ -7,6 +7,13 @@ family: Cyperaceae
 vol: 44
 pages: 76-78
 source: sources/Cyperaceae_vol44_liteparse
+countries: [Gabon]
+in_region: true
+subdivisions:
+  Gabon: [Estuaire, Haut-Ogooué, Nyanga, Ogooué-Ivindo, Ogooué-Maritime]
+habit: "herb"
+habitat: [mangrove]
+altitude_m: "0–400"
 tags: [species, generated]
 ---
 # *Cyperus tenax* Boeckeler Planche 47

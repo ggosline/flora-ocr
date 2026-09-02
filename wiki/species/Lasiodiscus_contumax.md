@@ -5,10 +5,9 @@ authority: N. Hallé
 genus: Lasiodiscus
 family: Rhamnaceae
 synonyms: []
+treatments: [{vol: 4, pages: "64–65", source: sources/Rhamnaceae_vol4_paddle}]
 countries: [Gabon]
 in_region: true
-habit: shrub or small tree
-treatments: [{vol: 4, pages: "64–65", source: sources/Rhamnaceae_vol4_paddle}]
 tags: [species]
 ---
 

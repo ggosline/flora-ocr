@@ -7,6 +7,9 @@ family: Rubiaceae
 vol: 17
 pages: 154-156
 source: sources/Rubiaceae_vol17_paddle
+countries: [Equatorial Guinea]
+in_region: true
+habit: "liana"
 tags: [species, generated]
 ---
 # *Sherbournia buccularia* N. Hallé, sp. nov.
@@ -16,19 +19,15 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 (PL. 34, p. 151)
 
-Scandens, interodis pilosis deinde glabrescentibus. Stipulæ 8-17 mm longæ ± puberule. Petiolus puberulus 8-15 mm longus. Lamina brunnea superne glabra decolora, subtus puberula, elliptica, basi sape cordata, apice subobtusa. Nervi secundarii 8-11 jugi, subtus apresso-pubescentes. Inflorescentiae 1-3-floræ, bracteolis valde caducis. Calyx puberulus, vix tubulosus, lobis pubescentibus late imbricatis suborbiculatis. Corolla 3-4 cm longa 5-lobata. Anthae glabra apiculata submedifixæ; stylus glaber. Ovarium 2-loculatum. Fructus subgloboideus ± costatus. Aff. Sh. bignoniiflorae (Welw.) Hua sed nervis numerosis, tubo calycis subnullo, lobis insignibus, fructus costato differt.
+Scandent, internodes pilose then glabrescent. Stipules 8-17 mm long ± puberulous. Petiole puberulous 8-15 mm long. Lamina brown glabrous above and discolored, puberulous beneath, elliptic, base often cordate, apex subobtuse. Secondary nerves 8-11 pairs, appressed-pubescent beneath. Inflorescences 1-3-flowered, bracteoles very caducous. Calyx puberulous, scarcely tubular, lobes pubescent broadly imbricate suborbicular. Corolla 3-4 cm long 5-lobed. Anthers glabrous apiculate submedifixed; style glabrous. Ovary 2-locular. Fruit subgloboid ± costate. Aff. Sh. bignoniiflorae (Welw.) Hua but differing in numerous nerves, calyx tube nearly absent, lobes conspicuous, fruit costate.
 
-Liane dépassant 5 m de hauteur à jeunes extrémités finement pubescentes ochracées; entrenœuds glabrescents de 7-13 cm de longueur. Stipules elliptiques de 8-17 × 4-8 mm, à axe saillant ± pubescent. Pétioles de 8-15 mm, finement pubescents puis glabrescents. Limbe brun à roux, entièrement glabre et d'aspect terne dessus, à fine et régulière, quoique peu distincte, pubescence apprimée dessous, elliptique souvent large de 9-19 × 4-11 cm, à base obtuse, largement arrondie ou cordée, plus rarement atténuée, légèrement ou non dissymétrique; sommet subacuminé à obtus. 8-11 (14) paires de nervures secondaires vêtues de poils apprimés à la face inférieure.
+Liane exceeding 5 m in height with young extremities finely pubescent ochraceous; internodes glabrescent 7-13 cm in length. Stipules elliptic 8-17 × 4-8 mm, with axis salient ± pubescent. Petioles 8-15 mm, finely pubescent then glabrescent. Blade brown to reddish, entirely glabrous and dull in appearance above, with fine and regular, though scarcely distinct, appressed pubescence beneath, elliptic often 9-19 × 4-11 cm wide, base obtuse, broadly rounded or cordate, more rarely attenuate, slightly or not asymmetric; apex subacuminate to obtuse. 8-11 (14) pairs of secondary nerves clothed with appressed hairs on the lower face.
 
-Inflorescences 1-3-flores; pédoncule de 3-6 mm; pédicelles de 2-5 mm; bractéoles-préfeuilles très rapidement caduques longues d'env. 7 mm, connées. Calice désément ochracé pubescent, à limbe tubuleux sur 1-3 mm, à 5 lobes suborbiculaires de  $ 10^{-19} \times 9-17 $ mm, plus nettement arrondis du côté recouvrant, fortement imbriqués et, recouvrants vers la droite, à sommet tronqué ou ± obtus. Corolle blanche ou jaune avec l'intérieur
+Inflorescences 1-3-flowered; peduncle 3-6 mm; pedicels 2-5 mm; bracteole-stipules very rapidly caducous about 7 mm long, connate. Calyx distinctly ochraceous pubescent, with limb tubular for 1-3 mm, with 5 suborbicular lobes of 10-19 × 9-17 mm, more clearly rounded on the overlapping side, strongly imbricate and overlapping towards the right, apex truncate or ± obtuse. Corolla white or yellow with interior spotted red, with tube 2-3.5 cm in length and 5 suborbicular lobes about 9 mm and overlapping towards the left. Anthers 11 × 2.5 mm, with connective acute at apex, margined and glabrous, insertion situated towards the lower third. Style glabrous and stigma 10 mm, grooved at acute apex. Ovary 3 mm long, 2-locular.
 
-tacheté de rouge, à tube de 2-3,5 cm de longueur et 5 lobes suborbiculaires d'env. 9 mm et recouvrants vers la gauche. Anthères de 11 × 2,5 mm, à connectif aigu au sommet, marginé et glabre, à insertion située vers le tiers inférieur. Style glabre et stigmate de 10 mm, cannelé à sommet aigu. Ovaire de 3 mm de long, à 2 loges.
-
-Fruit brièvement elliptique de 2,5-5 × 2-4 cm, rouge à maturité, à pubescence fine et lâche, ± distinctement orné de 10 côtes méridiennes et couronné par les lobes calycinaux persistants. Pulpe molle acidulée. Graines brun rouge à sublenticulaires de 2 mm, ruguleuses, ornées d'un réseau sinueux.
+Fruit briefly elliptic 2.5-5 × 2-4 cm, red at maturity, with fine and loose pubescence, ± distinctly ornamented with 10 meridian ribs and crowned by persistent calyx lobes. Pulp soft slightly sour. Seeds brown-red to sublenticular 2 mm, rugose, ornamented with a sinuous network.
 
 ## Type
 
@@ -36,13 +35,11 @@ Zenker 301, Bipindi, Cameroun, juin 1913, fl. et fr. (holotype fl. p.). Le catal
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+The name Randia amaralioides K. Schum., mentioned on the label of the type, is to be rejected. The use of this epithet by Hutchinson (F.W.T.A. ed. 1, 2: 79, 1931) was made in an erroneous and confused manner: Soward 650 and Rowland s. n. belong respectively to Sh. calycina and Sh. Millenii; Talbot s. n. could not be found by Keay (Bull. J.B. Brux. 28: 59, 1958).
 
-Le nom de Randia amaralioides K. Schum., mentionné sur l'étiquette du type, est à rejeter. L'emploi de cette épithete par Hutchinson (F.W.T.A. ed. 1, 2 : 79, 1931) a été fait de façon erronée et confuse : Soward 650 et Rowland s. n. appartiennent respectivement à Sh. calycina et Sh. Millenii ; Talbot s. n. n'a pas pu être retrouvé par Keay (Bull. J.B. Brux. 28 : 59, 1958).
+Other Cameroonian specimens: Raynal 10107 and Zenker 3077 (det. Amaralia calycina). The species is also in Rio Muni: G. Tessmann 222 (K!) (fl. Feb.).
 
-Autres spécimens camerounais : Raynal 10107 et Zenker 3077 (dét. Amaralia calycina). L'espèce est aussi au Rio Muni : G. Tessmann 222 (K!) (fl. fév.).
-
-Lisières forestières, galeries dégradées.
+Forest edges, degraded gallery forests.
 
 ## Specimens examined
 

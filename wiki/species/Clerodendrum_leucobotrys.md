@@ -6,6 +6,12 @@ genus: Clerodendrum
 vol: 58
 pages: 35-37
 source: sources/Labiataeulmaceaeverbenaceae_vol58_liteparse
+countries: [Gabon]
+in_region: true
+subdivisions:
+  Gabon: [Woleu-Ntem]
+habit: "shrub"
+altitude_m: "200"
 tags: [species, generated]
 ---
 # *Clerodendrum leucobotrys* Breteler Planche 7

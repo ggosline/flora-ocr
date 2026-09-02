@@ -7,6 +7,12 @@ family: Cyperaceae
 vol: 44
 pages: 92-94
 source: sources/Cyperaceae_vol44_liteparse
+countries: [Cameroon, Equatorial Guinea, Gabon]
+in_region: true
+subdivisions:
+  Gabon: [Woleu-Ntem]
+habit: "herb"
+altitude_m: "500–700"
 tags: [species, generated]
 ---
 # *Cyperus inselbergensis* Lye Figure 6b

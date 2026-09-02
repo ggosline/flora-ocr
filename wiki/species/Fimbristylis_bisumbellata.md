@@ -7,6 +7,10 @@ family: Cyperaceae
 vol: 44
 pages: 139-140
 source: sources/Cyperaceae_vol44_liteparse
+countries: [Gabon]
+in_region: true
+habit: "herb"
+altitude_m: "0–600"
 tags: [species, generated]
 ---
 # *Fimbristylis bisumbellata* (Forssk.) Bubani Planche 88

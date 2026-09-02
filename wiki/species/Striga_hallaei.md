@@ -7,6 +7,12 @@ family: Scrophulariaceae
 vol: 48
 pages: 135-137
 source: sources/Scrophulariaceae_vol48_liteparse
+countries: [Democratic Republic of the Congo, Gabon]
+in_region: true
+subdivisions:
+  Gabon: [Woleu-Ntem]
+habit: "herb"
+altitude_m: "540"
 tags: [species, generated]
 ---
 # *Striga hallaei* A.Raynal Planche 44, 56(K)
@@ -17,23 +23,17 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Perennial herb; stem erect, simple, 30–60 cm in height. Leaves opposite, sessile or subsessile; blade triangular-ovate, 40–70 × 12–30 mm, scabrous, margin irregularly and deeply dentate. Inflorescence in a lax spike; bracts resembling the upper leaves, entire, longer than the calyx. Flower subsessile; bracteoles 2, 1 mm in length, hairy; calyx 6–7 mm in length, 5-nerved, covered with glandular hairs, tube 2 mm in length, lobes subequal, narrowly triangular; corolla large, yellowish-orange, tube narrow at the base, 20–22 mm in length, bent below the apex, densely hairy inside, upper lip obcordate, 12 × 14 mm, lower lip 35–40 mm in length, with 3 subequal lobes, spatulate and rounded; stamens: anther 1, 2 mm in length, obtuse, filaments of the long pair 3.8 mm, of the short pair 2.7 mm. Fruit globose, ± 2.5 mm in diameter.
 
-Herbe pérenne ; tige dressée, simple, 30–60 cm de hauteur. Feuilles opposées, sessiles ou subsessiles ; limbe triangulaire-ovale, 40–70 × 12–30 mm, scabre, marge irrégulièrement et profondément dentée . Inflorescence en épi lâche ; bractées semblables aux feuilles supérieures, entières, plus longues que le calice. Fleur subsessile ; bractéoles 2, 1 mm de longueur, poilu ; calice 6–7 mm de longueur, 5-nervé, couvert de poils glanduleux, tube 2 mm de longueur, lobes subégaux, étroitement triangulaire ; corolle grande, orange jaunâtre, tube étroit à la base, 20–22 mm de longueur , coudé sous le sommet, densément poilu à l’intérieur, lèvre supérieure obcordiforme, 12 × 14 mm, lèvre inférieure 35–40 mm de longueur, à 3 lobes subégaux, spatulés et arrondis ; étamines : anthère 1, 2 mm de longueur, obtus, filets de la paire longue 3,8 mm, de la paire courte 2,7 mm. Fruit globuleux, ± 2,5 mm de diamètre.
-
-Muséum national d’Histoire naturelle, Paris (©), à partir de Raynal (1969).
+National Museum of Natural History, Paris (©), from Raynal (1969).
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Gabon et République démocratique du Congo ; au Gabon, observée dans le Woleu-Ntem (Monts de Cristal)
+Gabon and Democratic Republic of the Congo; in Gabon, observed in the Woleu-Ntem (Cristal Mountains)
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-forêts ombrophiles, bord des rivières en forêt ; au Gabon, à 540 m, en République démocratique du Congo, à 850–1700 m. B : Mielcarek (1996), Mohamed et al. (2001), Raynal (1969). ibliographie
+ombroph ilous forests, river edge in forest; in Gabon, at 540 m, in the Democratic Republic of the Congo, at 850–1700 m. B: Mielcarek (1996), Mohamed et al. (2001), Raynal (1969). ibliography
 
 ## Notes
 

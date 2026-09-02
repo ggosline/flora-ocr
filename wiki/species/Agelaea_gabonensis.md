@@ -7,6 +7,9 @@ family: Connaraceae
 vol: 33
 pages: 33-34
 source: sources/Connaraceae_vol33_paddle
+countries: [Gabon]
+in_region: true
+habit: "liana"
 tags: [species, generated]
 ---
 # *Agelaea gabonensis* Jongkind
@@ -49,7 +52,7 @@ Breteler & al. 9581, 9633, Rabi (st., Mars), WAG. De Wilde & al. 9733 (voir TYPE
 
 ![Agelaea gabonensis](../sources/Connaraceae_vol33_paddle/figures/fig_012_p0032.png)
 
-*PL. 6. – Agelaea gabonensis Jongkind : 1, ramification : feuille dont une foliole vue de dessous × 0,5 ; jeune foliole : 2, vue d'ensemble × 0,5 et 3, détail de la pubescence × 3 ; 4, infrutescences et fruits × 0,5 ; 5, jeune fruit avec restes de pièces florales × 1,5 ; 6, jeune follicule en coupe longitudinale × 3. (1. Breteler & al. 9633 ; 2-3. Breteler & al. 9581 ; 4-6. De Wilde & al. 9733). – Repris de Bull. Jard. Bot. Et. Brux. 61 : 73 (1991).*
+*PL. 6. – Agelaea gabonensis Jongkind : 1, branching : leaf with one leaflet viewed from below × 0.5 ; young leaflet : 2, overall view × 0.5 and 3, detail of pubescence × 3 ; 4, fruiting inflorescences and fruits × 0.5 ; 5, young fruit with remains of floral parts × 1.5 ; 6, young follicle in longitudinal section × 3. (1. Breteler & al. 9633 ; 2-3. Breteler & al. 9581 ; 4-6. De Wilde & al. 9733). – Reprinted from Bull. Jard. Bot. Et. Brux. 61 : 73 (1991).*
 
 ## Notes
 

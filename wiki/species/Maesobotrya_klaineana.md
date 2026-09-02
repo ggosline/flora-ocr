@@ -7,6 +7,11 @@ family: Phyllanthaceae
 vol: 43
 pages: 47-48
 source: sources/Phyllanthaceae_vol43_liteparse
+countries: [Cameroon, Democratic Republic of the Congo, Equatorial Guinea, Gabon, Nigeria, Republic of the Congo]
+in_region: true
+habit: "tree"
+habitat: [secondary forest]
+altitude_m: "0–550"
 tags: [species, generated]
 ---
 # *Maesobotrya klaineana* (Pierre) J.Léonard

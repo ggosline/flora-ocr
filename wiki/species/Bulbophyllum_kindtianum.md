@@ -7,6 +7,9 @@ family: Orchidaceae
 vol: 36
 pages: 139-141
 source: sources/Orchidaceae_vol36_paddle
+countries: [Angola, Cameroon, Central African Republic, Cote d'Ivoire, Equatorial Guinea, Gabon, Ghana, Liberia, Nigeria, Uganda]
+in_region: true
+habitat: [swamp forest, coastal]
 tags: [species, generated]
 ---
 # *Bulbophyllum kindtianum* De Wild., Not. Pl. Ut. et Int. Fl. Congo 2 : 309 (1904).

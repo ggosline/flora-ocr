@@ -7,6 +7,8 @@ family: Dichapetalaceae
 vol: 32
 pages: 203-206
 source: sources/Dichapetalaceae_vol32_paddle
+countries: [Gabon]
+in_region: true
 tags: [species, generated]
 ---
 # *Tapura bouquetiana* N. Hallé & Heine
@@ -17,25 +19,21 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Adansonia, ser. 2, 7 (1), 45 (1967); BRETELER, AUWP 86 (3): 51-53 (1986). TYPE: Gabon, La Lara, Le Testu 9348 (holo-, P; iso-, BR, K, WAG).
 
-Adansonia, sér. 2, 7 (1), 45 (1967); BRETELER, AUWP 86 (3): 51-53 (1986). TYPE : Gabon, La Lara, Le Testu 9348 (holo-, P ; iso-, BR, K, WAG).
+PL. 61 – Tapura bouquetiana N. Hallé & Heine: 1, flowering branchlet; 2, stipule; 3, petiole, pilosity; 4, leaf venation, detail; 5, inflorescence; 6, flower; 7, floral diagram; 8, flower, longitudinal section; 9, external sepal; 10, internal sepal; staminal tube spread, 11, exterior and 12, interior (pilosity partly removed); 13, anther, detail; 14, basal staminode; 15, same, viewed from above; 16, ovary, longitudinal section; 17, style and stigma, detail; 18, young fruit (1-18, Le Testu 6392). For dimensions, see text. – Reprinted from Adansonia, ser. 2, 7 (1): 46 (1986).
 
-PL. 61 – Tapura bouquetiana N. Hallé & Heine : 1, rameau florifère ; 2, stipule ; 3, pétiole, pilosité ; 4, nervation foliaire, détail ; 5, inflorescence ; 6, fleur ; 7, diagramme floral ; 8, fleur, coupe longitudinale ; 9, sépale externe ; 10, sépale interne ; tube staminal étalé, 11, extérieur et 12, intérieur (pilosité en partie supprimée) ; 13, anthère, détail ; 14, staminode basal ; 15, le même, vu de dessus ; 16, ovaire, coupe longitudinale ; 17, style et stigmate, détail ; 18, jeune fruit (1-18, Le Testu 6392). Pour les dimensions, voir texte. – Repris de Adansonia, sér. 2, 7 (1) : 46 (1986).
+Shrub or small tree up to ≤ 10 m tall and ≤ 10 cm in diameter. Older branchlets brown-greyish, glabrous, lenticellate or not. Young branchlets glabrous.
 
-Arbuste ou petit arbre haut de ≤ 10 m et diamètre ≤ 10 cm. Rameaux âgés brun-grisâtre, glabres, lenticellés ou non. Jeunes rameaux glabres.
+Stipules very small, ovate-triangular to transversely oblong, up to ≤ 1.5 mm tall, margins bearing nectariferous glands, apex often bearing sparse stiff hairs.
 
-Stipules très petites, ovées-triangulaires à trans-oblongues, hautes de ≤ 1,5 mm, marges munies de glandes nectarifères, sommet souvent porteur de rares poils raides.
+Leaves. Petiole subcylindric, furrowed or channelled above, (1) 2-6 (10) mm long, glabrous or with short appressed hairs above, then glabrescent. Blade papyraceous obovate-elliptic, 2-3 (3.5) times longer than wide, (3) 5-14 × (1) 2-5 (6) cm, glabrous; base cuneate to rounded; acumen (0.5) 1-2.5 cm long, rounded to slightly subacute at apex; primary vein I and (4) 5-7 pairs of secondary veins II not or slightly prominent above, prominent below, blade slightly corrugated or not between the main lateral veins, margins often slightly revolute; glands present or absent, rare, small, only on lower face, at some distance along the margin.
 
-Feuilles. Pétiole subcylindrique sillonné ou canaliculé dessus, long de (1) 2-6 (10) mm, glabre ou avec des poils apprimés courts dessus, puis glabrescent. Limbe papyracé obové-elliptique, 2-3 (3,5) fois plus long que large, (3) 5-14 × (1) 2-5 (6) cm, glabre ; base cunée à arrondie ; acumen long de (0,5) 1 2,5 cm, arrondi à légèrement subaigu à l'extrémité ; nervure I et les (4) 5-7 paires principales de nervures II non ou peu proéminentes dessus, proéminentes dessous, limbe légèrement gaufré ou non entre les principales nervures latérales, marges souvent un peu révolutées ; glandes présentes ou non, rares, petites, seulement à la face inférieure, à une certaine distance le long de la marge.
+Inflorescences solitary in the axil of a leaf or sometimes grouped on short to normally developed aphyllous axillary shoots; given their rather indistinct ramifications, these are loose subcapituli, ≤ 9-flowered and glabrous. Peduncle slender, (0.2) 1-3.5 (4.5) cm long. Bracts and bracteoles very small, ovate-triangular to transversely oblong, ≤ 1 × 1 mm and often much smaller, glabrous with nectariferous marginal glands. Pedicel ≤ 3 mm, slightly curved or not, lower part ≤ 2 mm, upper part ≤ 1 mm.
 
-Inflorescences solitaires à l'aisselle d'une feuille ou parfois groupées sur des pousses axillaires aphylles très courtes à normalement développées ; vu leurs ramifications assez peu distintes, ce sont des subcapitules lâches, ≤ 9-flores et glabres. Pédoncule grêle, long de (0,2) 1-3,5 (4,5) cm. Bractées et bractéoles très petites, ovées-triangulaires à trans-oblongues, ≤ 1 × 1 mm et souvent beaucoup plus petites, glabres avec des glandes marginales nectarifères. Pédicelle ≤ 3 mm, un peu courbé ou non, partie inférieure ≤ 2 mm, partie supérieure ≤ 1 mm.
+Flowers yellow, 5-6 mm long. Sepals appressed free, very different in size and somewhat less so in shape; the outermost much smaller than the others, suborbicular to broadly ovate, 2-4 × 2-3 mm, concave; the innermost strongly so, glabrous except on the margin bearing fine and sparse cilia. Petals, 5 (1 only large and 4 small), fused to the stamens in a firm tube, 2.5-3 mm tall, their apical regions remaining free; exterior of tube glabrous except at apex; interior pubescent in upper part; free part of large petal cleft for 0.7-1 mm and bicucullate, inner face glabrous except at base, outer face and especially on margin, shortly pubescent; free part of 4 small petals ovate-triangular with sparse pubescence on both faces, the two lateral ones (closest to fertile stamens) sometimes very slightly bicucullate at apex. Stamens 2, fertile; anthers nearly sessile on tube, 1 mm long, with slightly unequal thecae, connective very distinct, muricate, very strongly papillose at base; free part of 5 sterile filaments, subtriangular, bent with dense pubescence. Basal staminode, opposite the large petal, semi-annular or horseshoe-shaped, glabrous, approximately as tall as the ovary, depressed at apex. Pistil, 2-3-merous, 4-5 mm long; ovary, hemispherical and glabrous; style, exsert, flexuose, upper part with sparse pubescence and terminated by 2-3 very short papillose lobes.
 
-Fleurs jaunes, longues de 5-6 mm. Sépales apprimés libres, très différents de taille et un peu moins de forme; le plus externe beaucoup plus petit que les autres, suborbiculaire à largement ové, 2-4 × 2-3 mm, concave; les plus internes fortement ainsi, glabres sauf sur la marge munie de cils fins et épars. Pétales, 5 (1 seul grand et 4 petits), soudés aux étamines en un tube ferme, haut de 2,5-3 mm, leurs régions apicales demeurant libres; extérieur du tube glabre sauf au sommet; intérieur pubescent à la partie supérieure; partie libre du grand pétale fendue sur 0,7-1 mm et bicucullée, face interne glabre sauf à la base, l'externe et surtout sur la marge, courtement pubescente; partie libre des 4 petits pétales ovée-triangulaire avec pubescence éparse sur les deux faces, les deux latéraux (les plus proches des étamines fertiles) parfois très légèrement bicucullés au sommet. Étamines 2, fertiles; anthères presque sessiles sur le tube, longues de 1 mm, avec des thèques légèrement inégales, connectif très distinct, muriculé, très fortement papilleux à la base; partie libre des 5 filets stériles, subtriangulaire, coudée avec pubescence dense. Staminode basal, opposé au grand pétale, semi-annulaire ou en fer à cheval, glabre, à peu près aussi haut que l'ovaire, déprimé au sommet. Pistil, 2-3-mère, long de 4-5 mm;
-
-ovaire, hémisphérique et glabre ; style, exsert, flexueux, partie supérieure avec pubescence éparse et terminée par 2-3 lobes très courts et papilleux.
-
-Fruits (immatures) glabres,  $ 12 \times 6 $ mm, légèrement 3-angulaires. - Pl. 61, p. 201.
+Fruits (immature) glabrous, 12 × 6 mm, slightly 3-angular. - Pl. 61, p. 201.
 
 ## Type
 
@@ -43,15 +41,11 @@ Le Testu 9348, La Lara, Gabon
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 Gabon, Congo
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-forêts ombrophiles sempervirentes et semi-décidues
+evergreen and semi-deciduous rainforests
 
 ## Specimens examined
 

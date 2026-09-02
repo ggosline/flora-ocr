@@ -7,6 +7,7 @@ family: Thymeleaceae
 vol: 11
 pages: 69-72
 source: sources/Thymeleaceae_vol11_paddle
+habit: "tree"
 tags: [species, generated]
 ---
 # *Dicranolepis glandulosa* H.H. W. Pears.
@@ -43,7 +44,7 @@ Dicranolepis glandulosa was collected not far from the borders of Gabon, northwe
 
 ![Dicranolepis glandulosa](../sources/Thymeleaceae_vol11_paddle/figures/fig_009_p0071.png)
 
-*PL. IX. — Dicranolepis polygaloides Gilg ex Pears. (Keay F.H.I. 37396) : 1, rameau florifère (× 2 /3); 2, fleur (× 1,5). — Dicranolepis glandulosa Pears. : 3, rameau florifère (× 2 /3); 4, base du tube de la fleur (× 4); 5, fruit mûr (× 2 /3). — 3 et 4, Jacques-Félix 2523; 5, Letouzey 4128.*
+*PL. IX. — Dicranolepis polygaloides Gilg ex Pears. (Keay F.H.I. 37396) : 1, flowering branch (× 2 /3); 2, flower (× 1,5). — Dicranolepis glandulosa Pears. : 3, flowering branch (× 2 /3); 4, base of the flower tube (× 4); 5, ripe fruit (× 2 /3). — 3 et 4, Jacques-Félix 2523; 5, Letouzey 4128.*
 
 ## Notes
 

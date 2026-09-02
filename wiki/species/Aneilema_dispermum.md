@@ -7,6 +7,8 @@ family: Commelinaceae
 vol: 55
 pages: 20-20
 source: sources/Commelinaceae_vol55_liteparse
+countries: [Cameroon, Gabon]
+in_region: true
 tags: [species, generated]
 ---
 # *Aneilema dispermum* Brenan

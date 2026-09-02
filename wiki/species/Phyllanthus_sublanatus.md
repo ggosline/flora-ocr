@@ -7,6 +7,10 @@ family: Phyllanthaceae
 vol: 43
 pages: 71-72
 source: sources/Phyllanthaceae_vol43_liteparse
+countries: [Gabon, Mali, Nigeria, Sierra Leone]
+in_region: true
+habit: "shrub"
+altitude_m: "100–350"
 tags: [species, generated]
 ---
 # *Phyllanthus sublanatus* Schumach.

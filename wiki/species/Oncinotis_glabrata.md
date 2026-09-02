@@ -7,6 +7,7 @@ family: Apocynaceae
 vol: 59
 pages: 174-176
 source: sources/Apocynaceae_vol59_liteparse
+habit: "liana"
 tags: [species, generated]
 ---
 # *Oncinotis glabrata* (Baill.) Stapf ex Hiern Planche 78(1), 80

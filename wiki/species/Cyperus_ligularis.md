@@ -7,6 +7,12 @@ family: Cyperaceae
 vol: 44
 pages: 62-65
 source: sources/Cyperaceae_vol44_liteparse
+countries: [Gabon]
+in_region: true
+subdivisions:
+  Gabon: [Estuaire, Ogooué-Maritime]
+habit: "herb"
+habitat: [mangrove, coastal]
 tags: [species, generated]
 ---
 # *Cyperus ligularis* L. Planche 36

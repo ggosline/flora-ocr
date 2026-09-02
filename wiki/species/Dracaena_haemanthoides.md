@@ -7,6 +7,12 @@ family: Dracaenaceae
 vol: 54
 pages: 35-39
 source: sources/Dracaenaceae_vol54_liteparse
+countries: [Cameroon, Equatorial Guinea, Gabon]
+in_region: true
+subdivisions:
+  Gabon: [Woleu-Ntem]
+habit: "shrub"
+altitude_m: "25–450"
 tags: [species, generated]
 ---
 # *Dracaena haemanthoides* Bos ex Damen Planche 12

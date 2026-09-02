@@ -7,6 +7,9 @@ family: Aspleniaceae
 vol: 08
 pages: 128-129
 source: sources/Aspleniaceae_vol08_paddle
+countries: [Angola, Cameroon, Cote d'Ivoire, Equatorial Guinea, Gabon, Ghana, Guinea, Liberia]
+in_region: true
+habit: "epiphyte"
 tags: [species, generated]
 ---
 # *Asplenium africanum* Desvaux

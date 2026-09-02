@@ -7,6 +7,9 @@ family: Leguminosae
 vol: 15
 pages: 235-237
 source: sources/Leguminosae_vol15_paddle
+countries: [Gabon]
+in_region: true
+habit: "tree"
 tags: [species, generated]
 ---
 # *Gilbertiodendron grandistipulatum* (De Wild.) Léonard
@@ -44,7 +47,7 @@ Le Testu : 2177, Moundou (Icobé) (fl. nov.), type du M. Le-Testui; 6376, Miting
 
 ![Gilbertiodendron grandistipulatum](../sources/Leguminosae_vol15_paddle/figures/fig_056_p0236.png)
 
-*PL. LVI. — Gilbertodendron stipulaceum (Benth.) Léonard : 1, foliole × 2/3; 2, stipule × 2/3; 3, partie d'inflorescence × 2/3; 4, bractéole × 2/3; 5, calice × 2/3; 6, grand pétale × 2/3; 7, petit pétale × 2/3; 8, étamines et staminodes × 2/3; 9, ovaire × 2/3.*
+*PL. LVI. — Gilbertodendron stipulaceum (Benth.) Léonard : 1, leaflet × 2/3; 2, stipule × 2/3; 3, part of inflorescence × 2/3; 4, bracteole × 2/3; 5, calyx × 2/3; 6, large petal × 2/3; 7, small petal × 2/3; 8, stamens and staminodes × 2/3; 9, ovary × 2/3.*
 
 ## Notes
 

@@ -7,6 +7,7 @@ family: Rubiaceae
 vol: 12
 pages: 171-171
 source: sources/Rubiaceae_vol12_paddle
+habit: "liana"
 tags: [species, generated]
 ---
 # *Sabicea rufa* Wernham

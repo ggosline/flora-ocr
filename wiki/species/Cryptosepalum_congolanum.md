@@ -7,6 +7,7 @@ family: Leguminosae
 vol: 15
 pages: 241-243
 source: sources/Leguminosae_vol15_paddle
+habit: "tree"
 tags: [species, generated]
 ---
 # *Cryptosepalum congolanum* (De Wild.)
@@ -45,7 +46,7 @@ P.L. LVIII. — Cryptosepalum Staudtii Harms : 1, rameau florifère ; 2, paire d
 
 ![Cryptosepalum congolanum](../sources/Leguminosae_vol15_paddle/figures/fig_057_p0240.png)
 
-*PL. LVII. — Cryptosepalum congolanum (De Wild.) Léonard : 1, feuilles et inflorescence × 2/3; 2, base de la feuille; 3, fleur × 4; 4, coupe de la fleur × 4. — Cryptosepalum Pellegrinianum Léonard : 5, feuilles et inflorescence × 2/3; 6, base de la feuille; 7, fleur × 6; 8, pétale × 6; 9, réceptacle et tépales; 10, coupe de la fleur × 6.*
+*PL. LVII. — Cryptosepalum congolanum (De Wild.) Léonard : 1, leaves and inflorescence × 2/3; 2, base of the leaf; 3, flower × 4; 4, section of the flower × 4. — Cryptosepalum Pellegrinianum Léonard : 5, leaves and inflorescence × 2/3; 6, base of the leaf; 7, flower × 6; 8, petal × 6; 9, receptacle and tepals; 10, section of the flower × 6.*
 
 ![Cryptosepalum congolanum](../sources/Leguminosae_vol15_paddle/figures/fig_058_p0242.png)
 

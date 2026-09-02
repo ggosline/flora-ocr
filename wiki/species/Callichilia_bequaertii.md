@@ -7,6 +7,7 @@ family: Apocynaceae
 vol: 59
 pages: 61-63
 source: sources/Apocynaceae_vol59_liteparse
+habit: "shrub"
 tags: [species, generated]
 ---
 # *Callichilia bequaertii* De Wild. Planche 23 ; Figure 3(E)

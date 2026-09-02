@@ -7,6 +7,9 @@ family: Sapindaceae
 vol: 23
 pages: 168-171
 source: sources/Sapindaceae_vol23_paddle
+countries: [Cameroon, Cote d'Ivoire, Gabon, Ghana, Nigeria]
+in_region: true
+habit: "tree"
 tags: [species, generated]
 ---
 # *Lvchnodiscus brevibracteatus* R. Fouilloy, sp. nov.

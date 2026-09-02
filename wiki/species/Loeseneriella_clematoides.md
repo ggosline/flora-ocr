@@ -7,6 +7,9 @@ family: Celastraceae
 vol: 29
 pages: 239-241
 source: sources/Celastraceae_vol29_paddle
+countries: [Angola, Cameroon, Central African Republic, Democratic Republic of the Congo, Gabon, Ghana, Guinea, Liberia, Malawi, Nigeria, Sierra Leone, Uganda]
+in_region: true
+habit: "liana"
 tags: [species, generated]
 ---
 # *Loeseneriella clematoides* (Loesener) Wilczek ex Hallé

@@ -7,6 +7,12 @@ family: Cyperaceae
 vol: 44
 pages: 198-198
 source: sources/Cyperaceae_vol44_liteparse
+countries: [Gabon, Madagascar]
+in_region: true
+subdivisions:
+  Gabon: [Ogooué-Ivindo, Ogooué-Maritime]
+habit: "herb"
+altitude_m: "0–500"
 tags: [species, generated]
 ---
 # *Rhynchospora perrieri* Cherm. Planche 124

@@ -7,6 +7,12 @@ family: Solanaceae
 vol: 55
 pages: 128-130
 source: sources/Solanaceae_vol55_liteparse
+countries: [Cameroon, Central African Republic, Democratic Republic of the Congo, Equatorial Guinea, Gabon, Guinea, Nigeria, Republic of the Congo, Sao Tome and Principe]
+in_region: true
+subdivisions:
+  Gabon: [Ogooué-Lolo]
+habit: "herb"
+altitude_m: "2300"
 tags: [species, generated]
 ---
 # *Solanum scabrum* Mill. Planche 41
@@ -17,25 +23,17 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Annual or perennial herb, erect or climbing, up to 1.5 m tall, unarmed or with spinescent stems with age, indumentum of simple hairs; stems spreading, cylindrical, furrowed or winged, puberulent, rapidly glabrescent. Leaf: petiole 1–5(–8) cm, glabrous or sparsely pubescent; blade ovate to elliptic, 4–15(–20) × 3–10(–16) cm, abruptly acute to truncate at base, rounded to acute at apex, margin entire or more rarely slightly sinuate, concolorous, glabrous or sparsely pubescent. Inflorescence lateral, 1–4 cm long, simple to very branched in some cultivars, with 4 to 10(–30) bisexual flowers; peduncle 1–5(–8) cm; axes glabrous or sparsely pubescent. Flower 5-merous; pedicel 0.4–1 cm, pubescent; calyx with tube 0.9–1.1 mm long, glabrous or sparsely pubescent, with broadly triangular lobes, 0.9–1.5 mm long, rounded at apex; corolla stellate, 0.7–1.2 cm in diameter, white to dark purple, yellow toward centre, divided to the middle, with lobes spreading to reflexed, triangular, 2.5–4 × 1.5–3 mm, densely papillose on the margins; stamens equal, filament glabrous or pubescent, anther 2–3 mm long; ovary glabrous; style exsert, 2.5–5 mm, densely pubescent on the lower half. Fruit spherical, ± flattened, 1–2 cm in diameter, purple-black at maturity, with (20–)100 to 150 seeds; sclerites absent. Seed ovoid, 2–2.8 × 1.5–1.8 mm, yellow-brown or purple.
 
-Herbe annuelle ou pérenne , dressée ou grimpante, jusqu’à 1,5 m de hauteur, inerme ou à tiges spinescentes avec l’âge , pilosité à poils simples ; tiges étalées, cylindriques, sillonnées ou ailées , pubérulentes, rapidement glabrescentes. Feuille : pétiole 1–5(–8) cm, glabre ou éparsement pubescent ; limbe ovale à elliptique, 4–15(–20) × 3–10(–16) cm, abruptement aigu à tronqué à la base, arrondi à aigu au sommet, marge entière ou plus rarement légèrement sinuée , concolore, glabre ou éparsement pubescent. Inflorescence latérale, 1–4 cm de longueur, simple à très ramifiée chez certains cultivars, avec 4 à 10(–30) fleurs bisexuées ; pédoncule 1–5(–8) cm ; axes glabres ou éparsement pubescents. Fleur 5-mère ; pédicelle 0,4–1 cm, pubescent ; calice à tube de 0,9–1,1 mm de longueur, glabre ou éparsement pubes cent, à lobes largement triangulaires, 0,9–1,5 mm de longueur, arrondis au sommet ; corolle étoilée, 0,7–1,2 cm de diamètre, blanche à pourpre foncé, jaune vers le centre, divisée jusqu’à
-
-Infrutescence d’une forme sauvage. – 4. Tige fertile d’une forme cultivée. – 5. Inflorescence d’une forme cultivée. – 6. Fruit d’une forme cultivée. – 7. Graine. Barre d’échelle : 4 cm (1, 4), 1 cm (2), 1,5 cm (3, 6), 7 mm (5) et 2 mm (7). (1-3 : Pilz 2108 ; 4-7 : Nee 16088 ). Dessin par Lucy T. Smith (©), reproduit avec permission à partir de Särkinen et al. (2018).
-
-la moitié, à lobes étalés à réfléchis, triangulaires, 2,5–4 × 1,5–3 mm, densément papilleux sur les bords ; étamines égales, filet glabre ou pubescent, anthère 2–3 mm de longueur ; ovaire glabre ; style exsert, 2,5–5 mm, densément pubescent sur la moitié inférieure. Fruit sphérique, ± aplati, 1–2 cm de diamètre , pourpre-noir à maturité, avec (20–)100 à 150 graines ; sclérites absentes . Graine ovoïde, 2–2,8 × 1,5–1,8 mm , jaune-brun ou pourpre.
+Infructescence of a wild form. – 4. Fertile stem of a cultivated form. – 5. Inflorescence of a cultivated form. – 6. Fruit of a cultivated form. – 7. Seed. Scale bar: 4 cm (1, 4), 1 cm (2), 1.5 cm (3, 6), 7 mm (5) and 2 mm (7). (1-3: Pilz 2108; 4-7: Nee 16088). Drawing by Lucy T. Smith (©), reproduced with permission from Särkinen et al. (2018).
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-natif d’Afrique tropicale, mais introduit et cultivé dans le reste du monde ; en Afrique, de l’ouest, de la Guinée jusqu’au Nigéria, au Cameroun, à Sao Tomé-et-Principe, à la Guinée équatoriale, au Gabon, à la République du Congo, à la République démocratique du Congo et à la République Centrafricaine ; à l’est jusqu’en Érythrée et au sud jusqu’en Afrique du Sud. Au Gabon, connu d’une seule récolte provenant de l’Ogooué-Lolo, mais vraisemblablement plus commun car traditionnellement cultivé (voir les notes ci-dessous)
+native to tropical Africa, but introduced and cultivated in the rest of the world; in Africa, from the west, from Guinea to Nigeria, Cameroon, São Tomé and Príncipe, Equatorial Guinea, Gabon, Republic of the Congo, Democratic Republic of the Congo and Central African Republic; to the east to Eritrea and to the south to South Africa. In Gabon, known from a single collection from Ogooué-Lolo, but presumably more common as it is traditionally cultivated (see notes below).
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-adventice, se retrouvant surtout dans les stations ouvertes (bord des routes et des champs), dans une grande diversité d’habitats (forêts humides, savanes) et souvent cultivée ; en Afrique, du niveau de la mer à 2300 m d’altitude. Usage : Les feuilles et les jeunes pousses de S. scabrum sont cuisinées comme des épinards en accompagnement des plats traditionnels. Les extraits de feuille servent en médecine traditionnelle à traiter la diarrhée, certaines infections oculaires et la jaunisse. En Afrique de l’Est, les fruits sont mâchés pour lutter contre les ulcères et les douleurs abdominales. Enfin, les fruits sont aussi utilisés comme colorant ou comme encre
+weed, found mainly in open habitats (roadsides and field margins), in a wide diversity of habitats (humid forests, savannas) and often cultivated; in Africa, from sea level to 2300 m altitude. Use: The leaves and young shoots of S. scabrum are cooked like spinach as a side dish for traditional meals. Leaf extracts are used in traditional medicine to treat diarrhea, certain eye infections and jaundice. In East Africa, the fruits are chewed to combat ulcers and abdominal pain. Finally, the fruits are also used as a dye or as ink.
 
 ## Vernacular names
 
@@ -43,9 +41,7 @@ morelle noire, morelle scabre (fr.) ; African nightshade, black nightshade, gard
 
 ## Source note
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Cette espèce est notée comme introduite par Sosef et al. (2006) ; en réalité, elle est indigène en Afrique tropicale et présente dans l’ensemble des pays environnants. Le très faible nombre de récoltes pour le Gabon est surprenant. Il tient sûrement au fait que cette espèce majoritairement cultivée et sou vent confondue avec la très courante S. americanum , n’a pas dû susciter l’intérêt des récolteurs. De la même manière, les deux aubergines africaines cultivées, S. aethiopicum et S. macrocarpon , ainsi que leurs deux espèces sauvages progénitrices, S. anguivi et S. dasyphyllum , sont particulièrement sous-re présentées dans les herbiers de référence. B : Edmonds (2012), Heine (1963), Fontem & Schippers (2004), Raponda-Walker & Sillans i B liographie (1961), Särkinen et al. (2018)
+This species is noted as introduced by Sosef et al. (2006); in reality, it is indigenous to tropical Africa and present throughout the surrounding countries. The very low number of collections for Gabon is surprising. It is surely due to the fact that this species, mostly cultivated and often confused with the very common S. americanum, must not have attracted the interest of collectors. In the same way, the two cultivated African eggplants, S. aethiopicum and S. macrocarpon, as well as their two wild progenitor species, S. anguivi and S. dasyphyllum, are particularly underrepresented in reference herbaria. B: Edmonds (2012), Heine (1963), Fontem & Schippers (2004), Raponda-Walker & Sillans Bibliography (1961), Särkinen et al. (2018)
 
 ## Notes
 

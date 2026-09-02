@@ -7,6 +7,9 @@ family: Orchidaceae
 vol: 37
 pages: 241-241
 source: sources/Orchidaceae_vol37_paddle
+countries: [Cameroon, Cote d'Ivoire, Gabon, Ghana, Liberia, Nigeria, Sierra Leone]
+in_region: true
+habitat: [gallery forest, swamp forest]
 tags: [species, generated]
 ---
 # *Angraecum birrimense* Rolfe

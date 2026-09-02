@@ -7,6 +7,12 @@ family: Ochnaceae
 vol: 48
 pages: 80-81
 source: sources/Ochnaceae_vol48_liteparse
+countries: [Angola, Cameroon, Democratic Republic of the Congo, Equatorial Guinea, Gabon, Gambia, Republic of the Congo, Senegal, Sierra Leone, Zambia]
+in_region: true
+subdivisions:
+  Gabon: [Estuaire, Haut-Ogooué, Ogooué-Ivindo, Ogooué-Maritime]
+habitat: [mangrove, savanna, coastal]
+altitude_m: "0–400"
 tags: [species, generated]
 ---
 # *Ochna multiflora* DC.

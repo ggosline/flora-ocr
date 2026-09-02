@@ -7,6 +7,7 @@ family: Apocynaceae
 vol: 59
 pages: 117-120
 source: sources/Apocynaceae_vol59_liteparse
+habit: "liana"
 tags: [species, generated]
 ---
 # *Landolphia congolensis* (Stapf) Pichon Planche 50

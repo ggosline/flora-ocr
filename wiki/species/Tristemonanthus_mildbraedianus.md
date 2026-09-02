@@ -7,6 +7,10 @@ family: Celastraceae
 vol: 29
 pages: 266-267
 source: sources/Celastraceae_vol29_paddle
+countries: [Angola, Cameroon, Democratic Republic of the Congo, Gabon]
+in_region: true
+habit: "liana"
+habitat: [swamp forest]
 tags: [species, generated]
 ---
 # *Tristemonanthus mildbraedianus* Loesener
@@ -16,15 +20,13 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 in MILDBR., Zw. Deutch. Zentr.-Afr.-Exped. 1910-11, 2: 77 (1922), nomen; Fedde Repert 49: 226 (1940), descr., ; HALLÉ, Bull. IFAN sér. A, 21 (3): tab. 75b (1959); Pollen & Spores 2 (1): 8 (1960); WILCZEK, FCB 9: 174 (1960).
 
-Liane glabre à rameaux roux devenant écailleux. Pétiole canaliculé de 5-9(12) mm. Limbe concolore elliptique de 5-12 × 2-6 cm, chartacé ; base aiguë ou subaiguë ; sommet acuminé à subrostré ; marge entière mais parfois faiblement ondulée. Nervures secondaires 5-7 paires longuement arquées ascendantes.
+Glabrous liane with reddish branchlets becoming scaly. Petiole canaliculate 5-9(12) mm. Blade concolorous elliptic 5-12 × 2-6 cm, chartaceous; base acute or subacute; apex acuminate to subrostrate; margin entire but sometimes weakly undulate. Secondary veins 5-7 pairs long arcuate ascending.
 
-Cymes opposées axillaires dichotomes, lâches ou non, parfois disposées en panicules. Pédoncule des cymes long de 1-3(4) cm ; bractées aiguës deltoïdes d'environ 1 mm ; première dichotomie présentant souvent une petite fleur avortée. Pédicelle long de 1,5-4 mm. Boutons globuleux. Fleur de 6-7 mm de diamètre, étalée ou presque au début de l'anthère, blanche ou presque devenant jaune, jaunâtre, rose, orangée ou rouge et jusqu'à écarlate. Sépales courts semi-orbiculaires paucidenticulés. Pétales  $ 3 \times 1-1-5 $ mm, un peu charnus, marginés. Filets arqués embrassants à la base ; anthère 4 locellées. Pistil enfoncé très court ; stigmate à 3 lobules oppositistémones.
+Opposite axillary dichotomous cymes, loose or not, sometimes arranged in panicles. Peduncle of cymes 1-3(4) cm long; bracts acute deltoid c. 1 mm; first dichotomy often bearing a small abortive flower. Pedicel 1.5-4 mm long. Buds globular. Flower 6-7 mm in diameter, spreading or nearly so at the start of anthesis, white or nearly so becoming yellow, yellowish, pink, orange or red and up to scarlet. Sepals short semi-orbicular paucidentate. Petals 3 × 1-1.5 mm, somewhat fleshy, marginate. Filaments arcuate clasping at the base; anther 4-locellate. Pistil sunken very short; stigma with 3 lobules oppositistemonous.
 
-Fruit non connu. – Pl. 74, fig. 15-24, p. 261.
+Fruit unknown. – Pl. 74, fig. 15-24, p. 261.
 
 ## Type
 
@@ -32,9 +34,7 @@ Mildbraed 5321, Cameroun (HBG!); 5361, Cameroun (HBG!); 7775, Cameroun, Mwila, 3
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Cameroun, Gabon, Zaïre et Cabinda (K!). Récolté par LETOUZEY en forêt biafréenne à Césalpiniacées. Forêts marécageuses au Zaïre. Espèce peu fréquente et encore mal connue (fruit et bois).
+Cameroon, Gabon, Zaïre and Cabinda (K!). Collected by LETOUZEY in Biafran forest with Caesalpiniaceae. Swamp forests in Zaïre. Species infrequent and still poorly known (fruit and wood).
 
 ## Specimens examined
 

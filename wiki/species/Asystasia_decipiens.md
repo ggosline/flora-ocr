@@ -7,6 +7,7 @@ family: Acanthaceae
 vol: 13
 pages: 138-140
 source: sources/Acanthaceae_vol13_paddle
+habit: "herb"
 tags: [species, generated]
 ---
 # *Asystasia decipiens* Heine

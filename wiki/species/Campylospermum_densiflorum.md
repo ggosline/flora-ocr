@@ -7,6 +7,12 @@ family: Ochnaceae
 vol: 48
 pages: 37-39
 source: sources/Ochnaceae_vol48_liteparse
+countries: [Angola, Burundi, Cameroon, Central African Republic, Democratic Republic of the Congo, Equatorial Guinea, Gabon, Kenya, Sudan, Tanzania, Uganda, Zambia]
+in_region: true
+subdivisions:
+  Gabon: [Estuaire, Haut-Ogooué]
+habitat: [gallery forest, swamp forest, savanna, secondary forest]
+altitude_m: "100–500"
 tags: [species, generated]
 ---
 # *Campylospermum densiflorum* (De Wild. & T.Durand) Farron

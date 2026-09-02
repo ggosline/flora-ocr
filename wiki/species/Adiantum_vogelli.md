@@ -7,6 +7,8 @@ family: Adiantaceae
 vol: 08
 pages: 112-114
 source: sources/Adiantaceae_vol08_paddle
+countries: [Angola, Cameroon, Equatorial Guinea, Guinea]
+in_region: true
 tags: [species, generated]
 ---
 # *Adiantum vogelli* Mett. ex Keys
@@ -44,7 +46,7 @@ N. Hallé : 1821, 1888, Ayem, SW de Ndjolé. N. Hallé et G. Cours : 6105, Moumb
 
 ![Adiantum vogelli](../sources/Adiantaceae_vol08_paddle/figures/fig_020_p0113.png)
 
-*PL. XVII. — Adiantum soboliferum Wall. (Thollon 1368, Congo) : 1, une penne × 1/5; — Adiantum incisum Forsk. (Thollon, Congo) : 2, aspect général × 2/3; 3, une penne × 3. — Adiantum Vogelii Mett. (de Gironcourt 416) : 4, aspect général × 1/2; 5, une penne × 3.*
+*PL. XVII. — Adiantum soboliferum Wall. (Thollon 1368, Congo) : 1, a pinna × 1/5; — Adiantum incisum Forsk. (Thollon, Congo) : 2, general aspect × 2/3; 3, a pinna × 3. — Adiantum Vogelii Mett. (de Gironcourt 416) : 4, general aspect × 1/2; 5, a pinna × 3.*
 
 ## Notes
 

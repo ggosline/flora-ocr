@@ -7,6 +7,9 @@ family: Leguminosae
 vol: 15
 pages: 329-331
 source: sources/Leguminosae_vol15_paddle
+countries: [Cote d'Ivoire, Gabon]
+in_region: true
+habit: "tree"
 tags: [species, generated]
 ---
 # *Swartzia fistuloides* Harms
@@ -55,7 +58,7 @@ Walker: 8, Mouila (fl. et fr. May).
 
 ![Swartzia fistuloides](../sources/Leguminosae_vol15_paddle/figures/fig_084_p0328.png)
 
-*PL. LXXXIII. — Swartzia fistuloides Harms : 1, folioles et inflorescence × 2 /3; 2, fleur × 4 /3; 3, pétale face externe × 4 /3; 4, étamine; 5, fruit × 2 /3.*
+*PL. LXXXIII. — Swartzia fistuloides Harms : 1, leaflets and inflorescence × 2 /3; 2, flower × 4 /3; 3, petal external surface × 4 /3; 4, stamen; 5, fruit × 2 /3.*
 
 ## Notes
 

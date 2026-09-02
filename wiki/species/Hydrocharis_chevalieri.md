@@ -7,6 +7,12 @@ family: Hydrocharitaceae
 vol: 50
 pages: 60-62
 source: sources/Hydrocharitaceae_vol50_liteparse
+countries: [Benin, Cameroon, Central African Republic, Democratic Republic of the Congo, Gabon, Republic of the Congo]
+in_region: true
+subdivisions:
+  Gabon: [Ngounié, Ogooué-Ivindo, Ogooué-Lolo, Woleu-Ntem]
+habit: "herb"
+altitude_m: "290–425"
 tags: [species, generated]
 ---
 # *Hydrocharis chevalieri* (De Wild.) Dandy Planche 23

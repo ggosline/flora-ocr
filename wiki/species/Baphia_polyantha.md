@@ -7,6 +7,13 @@ family: Leguminosae
 vol: 49
 pages: 65-66
 source: sources/Millettiaspeciesfabaceae_vol49_liteparse
+countries: [Cameroon, Democratic Republic of the Congo, Gabon]
+in_region: true
+subdivisions:
+  Gabon: [Haut-Ogooué, Ngounié, Nyanga, Ogooué-Ivindo, Ogooué-Lolo, Woleu-Ntem]
+habit: "liana"
+habitat: [secondary forest]
+altitude_m: "200–500"
 tags: [species, generated]
 ---
 # *Baphia polyantha* Harms

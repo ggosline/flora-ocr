@@ -7,6 +7,9 @@ family: Rubiaceae
 vol: 17
 pages: 92-93
 source: sources/Rubiaceae_vol17_paddle
+countries: [Central African Republic, Guinea, Sierra Leone]
+in_region: false
+habit: "shrub"
 tags: [species, generated]
 ---
 # *Dictyandra involucrata* (Hook. f.) Hiern

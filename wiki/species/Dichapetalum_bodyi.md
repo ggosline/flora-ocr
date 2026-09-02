@@ -7,6 +7,9 @@ family: Dichapetalaceae
 vol: 32
 pages: 67-69
 source: sources/Dichapetalaceae_vol32_paddle
+countries: [Democratic Republic of the Congo, Gabon]
+in_region: true
+habit: "liana"
 tags: [species, generated]
 ---
 # *Dichapetalum bodyi* De Wildeman
@@ -51,7 +54,7 @@ Le Testu 2081, Mayombe Bayaka (fl., Août); 2106 (fl., Sept.); 6060, Mogoumou (f
 
 ![Dichapetalum bodyi](../sources/Dichapetalaceae_vol32_paddle/figures/fig_015_p0068.png)
 
-*PL. 14. – Dichapetalum bodyi De Wildeman : 1, rameau florifère × 0,8 ; 2, feuille, face inférieure × 0,8 ; 3, base foliaire vue de dessus × 2,5 ; 4, inflorescence × 2,5 ; 5, bouton floral × 10 ; 6, fleur × 5 ; 7, pétale, étamine et staminodes × 10 ; fruit × ; 8, pistil × 10 (1-3, Body s.n. ; 2, 4-8, Lebrun 6637). – Repris de MLW 73 (13) : 96 (1973).*
+*PL. 14. – Dichapetalum bodyi De Wildeman : 1, flowering branch × 0,8 ; 2, leaf, lower surface × 0,8 ; 3, leaf base seen from above × 2,5 ; 4, inflorescence × 2,5 ; 5, floral bud × 10 ; 6, flower × 5 ; 7, petal, stamen and staminodes × 10 ; fruit × ; 8, pistil × 10 (1-3, Body s.n. ; 2, 4-8, Lebrun 6637). – Taken from MLW 73 (13) : 96 (1973).*
 
 ## Notes
 

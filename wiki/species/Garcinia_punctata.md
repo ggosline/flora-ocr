@@ -7,6 +7,11 @@ family: Clusiaceae
 vol: 45
 pages: 35-37
 source: sources/Clusiaceae_vol45_liteparse
+countries: [Angola, Cameroon, Central African Republic, Democratic Republic of the Congo, Equatorial Guinea, Gabon, Nigeria, Republic of the Congo, Zambia]
+in_region: true
+habit: "liana"
+habitat: [primary forest, riverine]
+altitude_m: "900"
 tags: [species, generated]
 ---
 # *Garcinia punctata* Oliv. Planche 7

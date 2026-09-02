@@ -7,6 +7,9 @@ family: Melastomataceae
 vol: 25
 pages: 66-68
 source: sources/Melastomataceae_vol25_paddle
+countries: [Democratic Republic of the Congo, Gabon]
+in_region: true
+habit: "herb"
 tags: [species, generated]
 ---
 # *Calvoa seretii* De Wildeman
@@ -45,7 +48,7 @@ Le Testu 5290, entre Dibouangui et Issala (avr.); 5748, Mouvindou (nov.).
 
 ![Calvoa seretii](../sources/Melastomataceae_vol25_paddle/figures/fig_023_p0067.png)
 
-*PL. 23. — Calvoa seretii De Wild.: 1, plante entière × 2/3; 2, détail de feuille × 3; 3, style × 12; 4 & 5, étamines, interne et externe × 12; 6, hypantho-calice × 6; 7 & 8, capsule entière et coupée × 6; 9, graine × 20 (Le Testu 5290). (Repris Bull. Mus. natn. Hist. nat., Paris, sér. 4, 3, Adansonia, 2 : tab. 4, 1981).*
+*PL. 23. — Calvoa seretii De Wild.: 1, entire plant × 2/3; 2, leaf detail × 3; 3, style × 12; 4 & 5, stamens, internal and external × 12; 6, hypantho-calyx × 6; 7 & 8, entire and sectioned capsule × 6; 9, seed × 20 (Le Testu 5290). (Reprinted Bull. Mus. natn. Hist. nat., Paris, sér. 4, 3, Adansonia, 2 : tab. 4, 1981).*
 
 ## Notes
 

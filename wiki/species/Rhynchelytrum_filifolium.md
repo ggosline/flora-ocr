@@ -7,6 +7,7 @@ family: Gramineae
 vol: 05
 pages: 106-108
 source: sources/Gramineae_vol05_paddle
+habit: "herb"
 tags: [species, generated]
 ---
 # *Rhynchelytrum filifolium* (Franch.) Stapf et Hubb.

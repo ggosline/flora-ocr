@@ -7,6 +7,13 @@ family: Leguminosae
 vol: 49
 pages: 282-283
 source: sources/Millettiaspeciesfabaceae_vol49_liteparse
+countries: [Angola, Benin, Democratic Republic of the Congo, Gabon, Nigeria]
+in_region: true
+subdivisions:
+  Gabon: [Estuaire, Ngounié, Nyanga, Ogooué-Lolo, Ogooué-Maritime]
+habit: "liana"
+habitat: [secondary forest]
+altitude_m: "10–400"
 tags: [species, generated]
 ---
 # *Millettia kennedyi* Hoyle

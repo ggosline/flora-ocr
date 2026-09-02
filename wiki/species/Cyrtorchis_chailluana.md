@@ -7,6 +7,8 @@ family: Orchidaceae
 vol: 37
 pages: 123-125
 source: sources/Orchidaceae_vol37_paddle
+countries: [Burundi, Cameroon, Democratic Republic of the Congo, Gabon, Nigeria, Rwanda, Sierra Leone, Uganda]
+in_region: true
 tags: [species, generated]
 ---
 # *Cyrtorchis chailluana* (Hook.f.) Schltr.
@@ -61,11 +63,11 @@ Walker 34, Ste. Anne du Fernand Vaz (Odimba) (fl. May), P!.
 
 ![Cyrtorchis chailluana](../sources/Orchidaceae_vol37_paddle/figures/fig_052_p0124.png)
 
-*PL. 158. – Détails du rostelle du genre Cyrtorchis Schltr.: A, rostelle, vue de dessous; B, reste du rostelle, vue de face; C, reste du rostelle, vue de dessous; D, pollinies, vues diverses (A-D, ex SZLACHETKO & al., 2003).*
+*PL. 158. – Details of the rostellum of the genus Cyrtorchis Schltr.: A, rostellum, lower surface; B, rostellum remainder, front view; C, rostellum remainder, lower surface; D, pollinia, various views (A-D, ex SZLACHETKO & al., 2003).*
 
 ![Cyrtorchis chailluana](../sources/Orchidaceae_vol37_paddle/figures/fig_053_p0126.png)
 
-*PL. 159. – Cyrtorchis chailluana (Hook.f.) Schltr. : A, fleur et bractée ; B, labelle étalé ; C, sépale latéral ; D, pétale ; E, sépale dorsal (A-E, Villiers 808, P).*
+*PL. 159. – Cyrtorchis chailluana (Hook.f.) Schltr. : A, flower and bract ; B, labellum spread ; C, lateral sepal ; D, petal ; E, dorsal sepal (A-E, Villiers 808, P).*
 
 ![Cyrtorchis chailluana](../sources/Orchidaceae_vol37_paddle/figures/fig_155_p0256.png)
 

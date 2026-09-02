@@ -7,6 +7,13 @@ family: Leguminosae
 vol: 49
 pages: 169-169
 source: sources/Millettiaspeciesfabaceae_vol49_liteparse
+countries: [Gabon]
+in_region: true
+subdivisions:
+  Gabon: [Haut-Ogooué]
+habit: "shrub"
+habitat: [savanna]
+altitude_m: "450"
 tags: [species, generated]
 ---
 # *Desmodium distortum* (Aubl.) J.F.Macbr.

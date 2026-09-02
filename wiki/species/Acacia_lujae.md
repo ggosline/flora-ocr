@@ -7,6 +7,9 @@ family: Leguminosae
 vol: 31
 pages: 130-131
 source: sources/Leguminosae_vol31_paddle
+countries: [Democratic Republic of the Congo, Gabon]
+in_region: true
+habit: "liana"
 tags: [species, generated]
 ---
 # *Acacia lujae* De Wildeman

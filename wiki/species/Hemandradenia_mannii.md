@@ -7,6 +7,8 @@ family: Connaraceae
 vol: 33
 pages: 89-92
 source: sources/Connaraceae_vol33_paddle
+countries: [Cameroon, Central African Republic, Cote d'Ivoire, Democratic Republic of the Congo, Equatorial Guinea, Gabon, Nigeria]
+in_region: true
 tags: [species, generated]
 ---
 # *Hemandradenia mannii* Stapf
@@ -67,7 +69,7 @@ Material from Cameroon and Gabon is slightly aberrant: its fruits are distinctly
 
 ![Hemandradenia mannii](../sources/Connaraceae_vol33_paddle/figures/fig_033_p0090.png)
 
-*PL. 26. – Hemandradenia mannii Stapf: 1, rameau florifère × 2/3; 2, feuille, face inf. × 2/3; 3, idem, base révolutée × 2; 4, nervation, détail × 4; 5, fleur à étimaines exsertes × 4; 6, fleur à pistil exsert × 4; 7, corolle × 4; 8, étimaines et staminodes × 6; 9, grand pistil × 6; 10, fleur avec staminodes et un pistil dominant, détail × 12; 11, fleur avec staminodes et des étimaines dominantes × 6; 12, pistil court × 6; 13, fleur avec staminodes et des étimaines dominantes, détail × 12; 14, jeune rameau fructifère × 2/3; 15, graine × 2/3; 16, graine, coupe transversale × 2; 17, enveloppe de la graine, détail × 10. (1-3, 5, 11-13. Tisserant 316; 2. Léonard 583; 6, 8-10. Germain 7450; 7. Latilo FHI 30960; 14-17. Breteler 6116). – Repris de AUWP 89 (6).*
+*PL. 26. – Hemandradenia mannii Stapf: 1, floriferous branch × 2/3; 2, leaf, lower surface × 2/3; 3, same, base revolute × 2; 4, venation, detail × 4; 5, flower with exserted stamens × 4; 6, flower with exserted pistil × 4; 7, corolla × 4; 8, stamens and staminodes × 6; 9, large pistil × 6; 10, flower with staminodes and one dominating pistil, detail × 12; 11, flower with staminodes and dominating stamens × 6; 12, short pistil × 6; 13, flower with staminodes and dominating stamens, detail × 12; 14, young fructiferous branch × 2/3; 15, seed × 2/3; 16, seed, transverse section × 2; 17, seed coat, detail × 10. (1-3, 5, 11-13. Tisserant 316; 2. Léonard 583; 6, 8-10. Germain 7450; 7. Latilo FHI 30960; 14-17. Breteler 6116). – Reprinted from AUWP 89 (6).*
 
 ## Notes
 

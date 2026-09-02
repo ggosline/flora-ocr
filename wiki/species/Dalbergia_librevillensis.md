@@ -7,6 +7,12 @@ family: Leguminosae
 vol: 49
 pages: 135-137
 source: sources/Millettiaspeciesfabaceae_vol49_liteparse
+countries: [Gabon, Republic of the Congo]
+in_region: true
+subdivisions:
+  Gabon: [Estuaire, Ngounié, Nyanga, Ogooué-Ivindo, Ogooué-Lolo]
+habit: "liana"
+altitude_m: "0–300"
 tags: [species, generated]
 ---
 # *Dalbergia librevillensis* Pellegr. Planche 42

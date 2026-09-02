@@ -7,6 +7,9 @@ family: Orchidaceae
 vol: 36
 pages: 79-81
 source: sources/Orchidaceae_vol36_paddle
+countries: [Cameroon, Central African Republic, Cote d'Ivoire, Equatorial Guinea, Gabon, Ghana, Guinea, Liberia, Nigeria, Sao Tome and Principe, Sierra Leone, Tanzania, Uganda]
+in_region: true
+habitat: [primary forest]
 tags: [species, generated]
 ---
 # *Manniella gustavi* Rchb.f.

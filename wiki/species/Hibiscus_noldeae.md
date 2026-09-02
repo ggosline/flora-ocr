@@ -7,6 +7,12 @@ family: Malvaceae
 vol: 45
 pages: 70-70
 source: sources/Malvaceae_vol45_liteparse
+countries: [Angola, Gabon, Nigeria, Tanzania]
+in_region: true
+subdivisions:
+  Gabon: [Estuaire, Ogooué-Ivindo, Ogooué-Maritime, Woleu-Ntem]
+habit: "herb"
+altitude_m: "720"
 tags: [species, generated]
 ---
 # *Hibiscus noldeae* Baker f.

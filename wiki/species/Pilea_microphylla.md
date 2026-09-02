@@ -7,6 +7,12 @@ family: Urticaceae
 vol: 51
 pages: 70-70
 source: sources/Urticaceae_vol51_liteparse
+countries: [Cameroon, Democratic Republic of the Congo, Gabon, Kenya, Nigeria, Senegal]
+in_region: true
+subdivisions:
+  Gabon: [Ngounié]
+habit: "herb"
+altitude_m: "100"
 tags: [species, generated]
 ---
 # *Pilea microphylla* (L.) Liebm.

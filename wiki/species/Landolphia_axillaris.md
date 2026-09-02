@@ -7,6 +7,10 @@ family: Apocynaceae
 vol: 59
 pages: 113-115
 source: sources/Apocynaceae_vol59_liteparse
+countries: [Gabon, Republic of the Congo]
+in_region: true
+habit: "liana"
+altitude_m: "100–200"
 tags: [species, generated]
 ---
 # *Landolphia axillaris* Pichon Planche 47

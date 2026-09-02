@@ -7,6 +7,13 @@ family: Convolvulaceae
 vol: 46
 pages: 13-13
 source: sources/Convolvulaceae_vol46_liteparse
+countries: [Gabon]
+in_region: true
+subdivisions:
+  Gabon: [Ngounié]
+habit: "liana"
+habitat: [secondary forest]
+altitude_m: "700"
 tags: [species, generated]
 ---
 # *Bonamia gabonensis* Breteler Planche 2

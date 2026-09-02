@@ -7,6 +7,8 @@ family: Orchidaceae
 vol: 37
 pages: 239-241
 source: sources/Orchidaceae_vol37_paddle
+countries: [Cameroon, Gabon, Nigeria]
+in_region: true
 tags: [species, generated]
 ---
 # *Angraecum egertonii* Rendle

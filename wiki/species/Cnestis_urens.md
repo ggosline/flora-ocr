@@ -7,6 +7,8 @@ family: Connaraceae
 vol: 33
 pages: 67-70
 source: sources/Connaraceae_vol33_paddle
+countries: [Central African Republic, Democratic Republic of the Congo, Gabon, Sudan]
+in_region: true
 tags: [species, generated]
 ---
 # *Cnestis urens* Gilg
@@ -63,7 +65,7 @@ Breteler, Lemmens & Nzabi 8095, Mouila-Yéno (–, Sept.), LBV, WAG. Hallé 1940
 
 ![Cnestis urens](../sources/Connaraceae_vol33_paddle/figures/fig_026_p0068.png)
 
-*PL. 19. – Cnestis urens Gilg: 1, rameau florifère × 2/3; 2, rameau feuillé × 2/3; 3, excroissance nodode florifère × 6; 4, follicule × 1. (1. Couteaux 393; 2. Boone 84; 3. Laurent 762; 4. Laurent 1639). – Repris de AUWP 89 (6).*
+*PL. 19. – Cnestis urens Gilg: 1, flowering branch × 2/3; 2, leafy branch × 2/3; 3, nodose flowering outgrowth × 6; 4, follicle × 1. (1. Couteaux 393; 2. Boone 84; 3. Laurent 762; 4. Laurent 1639). – Reprinted from AUWP 89 (6).*
 
 ## Notes
 

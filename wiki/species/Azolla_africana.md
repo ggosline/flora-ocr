@@ -37,7 +37,7 @@ G. Le Testu : 5939, Mouila. G. Loubens : sans n°, Lac Zilé.
 
 ![Azolla africana](../sources/Azollaceae_vol08_paddle/figures/fig_010_p0049.png)
 
-*PL. VII.—Salvinia nymphellula Desv. (Dybowski 133): 1, aspect général × 1; 2, feuilles flottantes et nageantes × 2; — Azolla africana Desv. (Le Testu 5939): 3, aspect général × 1,5; 4, un lobe foliaire × 20; 5, sporanges × 6; 6, macrosporange × 40; 7, microsporanges × 40. — Anisosorus occidentalis (Bak.) C. Chr. (Le Testu 1725): 8, pennes × 2/3; 9, détail de nervation et sores × 2.*
+*PL. VII.—Salvinia nymphellula Desv. (Dybowski 133): 1, general aspect × 1; 2, floating and swimming leaves × 2; — Azolla africana Desv. (Le Testu 5939): 3, general aspect × 1.5; 4, a leaf lobe × 20; 5, sporangia × 6; 6, macrosporangium × 40; 7, microsporangia × 40. — Anisosorus occidentalis (Bak.) C. Chr. (Le Testu 1725): 8, pinnae × 2/3; 9, detail of venation and sori × 2.*
 
 ## Notes
 

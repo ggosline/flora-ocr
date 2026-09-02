@@ -7,6 +7,12 @@ family: Cyperaceae
 vol: 44
 pages: 23-24
 source: sources/Cyperaceae_vol44_liteparse
+countries: [Democratic Republic of the Congo, Gabon, Senegal, Tanzania]
+in_region: true
+subdivisions:
+  Gabon: [Haut-Ogooué, Ogooué-Ivindo, Woleu-Ntem]
+habit: "herb"
+altitude_m: "400–700"
 tags: [species, generated]
 ---
 # *Bulbostylis congolensis* De Wild. Planche 9

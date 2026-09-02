@@ -7,6 +7,11 @@ family: Ochnaceae
 vol: 48
 pages: 67-68
 source: sources/Ochnaceae_vol48_liteparse
+countries: [Cameroon, Central African Republic, Cote d'Ivoire, Equatorial Guinea, Gabon, Ghana, Liberia, Nigeria, Republic of the Congo]
+in_region: true
+habit: "tree"
+habitat: [swamp forest, secondary forest]
+altitude_m: "960"
 tags: [species, generated]
 ---
 # *Campylospermum oliverianum* (Gilg) Farron, Bull. Jard. Bot. État Bruxelles 35 : 400

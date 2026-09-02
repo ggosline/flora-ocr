@@ -7,6 +7,8 @@ family: Linaceae
 vol: 21
 pages: 40-40
 source: sources/Linaceae_vol21_paddle
+countries: [Cameroon, Gabon]
+in_region: true
 tags: [species, generated]
 ---
 # *Hugonia batesii* De Wildeman

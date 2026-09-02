@@ -7,6 +7,12 @@ family: Anthericaceae
 vol: 41
 pages: 10-10
 source: sources/Anthericaceae_vol41_liteparse
+countries: [Cameroon, Democratic Republic of the Congo, Equatorial Guinea, Gabon, Nigeria, Sierra Leone]
+in_region: true
+subdivisions:
+  Gabon: [Estuaire, Ogooué-Ivindo, Woleu-Ntem]
+habitat: [primary forest]
+altitude_m: "30–760"
 tags: [species, generated]
 ---
 # *Chlorophytum alismatifolium* Baker

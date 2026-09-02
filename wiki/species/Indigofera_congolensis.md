@@ -7,6 +7,13 @@ family: Leguminosae
 vol: 49
 pages: 211-213
 source: sources/Millettiaspeciesfabaceae_vol49_liteparse
+countries: [Gabon, Senegal]
+in_region: true
+subdivisions:
+  Gabon: [Haut-Ogooué]
+habit: "herb"
+habitat: [savanna]
+altitude_m: "460–600"
 tags: [species, generated]
 ---
 # *Indigofera congolensis* De Wild. & T.Durand var. congolensis

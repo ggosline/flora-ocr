@@ -7,6 +7,8 @@ family: Brassicaceae
 vol: 30
 pages: 17-18
 source: sources/Capparidaceae_vol30_paddle
+countries: [Gabon, Guinea, Guinea-Bissau]
+in_region: true
 tags: [species, generated]
 ---
 # *Buchholzia coriacea* Engler

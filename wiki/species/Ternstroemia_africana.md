@@ -7,6 +7,13 @@ family: Ternstroemiaceae
 vol: 41
 pages: 64-65
 source: sources/Ternstroemiaceae_vol41_liteparse
+countries: [Angola, Cameroon, Equatorial Guinea, Gabon, Nigeria]
+in_region: true
+subdivisions:
+  Gabon: [Estuaire, Moyen-Ogooué, Ogooué-Maritime]
+habit: "tree"
+habitat: [mangrove, savanna]
+altitude_m: "50"
 tags: [species, generated]
 ---
 # *Ternstroemia africana* Melch. Planche 14
@@ -17,21 +24,15 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Arbre ou arbuste , jusqu’à 6 m de hauteur, glabre ; tiges rougeâtres ou gris rougeâtre, striées longitudinalement sur le sec. Feuille à pétiole de 5–8 mm de longueur ; limbe elliptique à elliptique-obové, (4–)8–11,5 × (1,5–)3–4,5 cm, base étroitement cunée, som met obtus à arrondi ou émarginé, vernissé dessus, marge révolutée, entière , dessous avec glandes noires ; nervure principale noyée au-dessus, nervures secondaires 6 ou 7 paires. Fleur bisexuée ; pédicelle 2–4,5 cm, portant au sommet 2 bractéoles suboppo sées , suborbiculaires, 1–3 × 1–2 mm ; sépales coriaces, suborbiculaires, 6–7,5 × 5,5–6,5 mm, à base arrondie à auriculée, blanc verdâtres ; pétales inégaux , lancéolés à ovés, 6–8,5 × 2,5–3,5 mm, peu connés à la base, blancs à jaune pâle ; étamines 15–28, en une seule série , filets 1–2 mm de longueur, non soudés aux pétales , anthères 3,5–5,5 mm de longueur, à connectif subulé de 0,3–1 mm ; ovaire subglobuleux à largement ovoïde, 2–3 × 2–2,5 mm, 2-loculaire ; style environ 4 mm de longueur, stigmate 2-ponctué. Fruit vert, largement ovoïde, 10–14 × 7–12 mm, sommet apiculé , s’ouvrant en 4 valves irré gulières. Graines 4, attachées au sommet de l’axe du fruit, asymétriques, plus ou moins ellipsoïdes, 9 × 5 mm, à testa rouge .
+Tree or shrub, up to 6 m tall, glabrous; stems reddish or reddish-grey, longitudinally striate when dry. Leaf with petiole 5–8 mm long; blade elliptic to elliptic-obovate, (4–)8–11.5 × (1.5–)3–4.5 cm, base narrowly cuneate, apex obtuse to rounded or emarginate, glossy above, margin revolute, entire, abaxial surface with black glands; midvein impressed above, secondary veins 6 or 7 pairs. Flower bisexual; pedicel 2–4.5 cm, bearing at apex 2 subopposite bracts, suborbicular, 1–3 × 1–2 mm; sepals coriaceous, suborbicular, 6–7.5 × 5.5–6.5 mm, base rounded to auriculate, whitish-green; petals unequal, lanceolate to ovate, 6–8.5 × 2.5–3.5 mm, slightly connate at base, white to pale yellow; stamens 15–28, in a single series, filaments 1–2 mm long, not adnate to petals, anthers 3.5–5.5 mm long, with subulate connective 0.3–1 mm; ovary subglobose to broadly ovoid, 2–3 × 2–2.5 mm, 2-locular; style approximately 4 mm long, stigma 2-punctate. Fruit green, broadly ovoid, 10–14 × 7–12 mm, apex apiculate, dehiscing into 4 irregular valves. Seeds 4, attached at apex of fruit axis, asymmetric, more or less ellipsoid, 9 × 5 mm, with red testa.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-connue du sud-est du Nigéria, du Cameroun, de la Guinée Équatoriale, du Gabon et du nord-ouest de l’Angola ; au Gabon, récoltée dans l’Estuaire, le MoyenOgooué et l’Ogooué-Maritime, probablement absent de l’intérieur du pays
+known from south-eastern Nigeria, Cameroon, Equatorial Guinea, Gabon and north-western Angola; in Gabon, collected in the Estuaire, Moyen-Ogooué and Ogooué-Maritime, probably absent from the interior of the country
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-en forêt de mangrove, lisière forêt-savane, mais aussi en savane, sur sol sa bleux ; jusqu’à 50 m d’altitude. b : Exell & Mendonça (1937), Kobuski (1961). ibliographie 3
+in mangrove forest, forest-savanna edge, but also in savanna, on sandy soil; up to 50 m altitude. b: Exell & Mendonça (1937), Kobuski (1961). Bibliography 3
 
 3
 

@@ -7,6 +7,8 @@ family: Adiantaceae
 vol: 08
 pages: 117-118
 source: sources/Adiantaceae_vol08_paddle
+countries: [Madagascar, Sudan]
+in_region: false
 tags: [species, generated]
 ---
 # *Pteris linearis* Poiret
@@ -44,7 +46,7 @@ Duparquet : sans n., sans loc. Fleury : 26364 in herb. Chev., Nkogo. Griffon du 
 
 ![Pteris linearis](../sources/Adiantaceae_vol08_paddle/figures/fig_022_p0121.png)
 
-*PL. XIX. — Pteris linearis Poir. (Duparquet): 1, aspect général × 1/10; 2, détail de nervation × 2. — Pteris atrovirens Willd. (Le Testu 1578): 3, penne stérile × 2/3; 4, lobes fertiles avec détail de nervation × 2. — Pteris similis Kühn (Staudt 174): 5, une penne × 2/3; 6, détail de nervation × 2.*
+*PL. XIX. — Pteris linearis Poir. (Duparquet): 1, general aspect × 1/10; 2, venation detail × 2. — Pteris atrovirens Willd. (Le Testu 1578): 3, sterile pinna × 2/3; 4, fertile lobes with venation detail × 2. — Pteris similis Kühn (Staudt 174): 5, a pinna × 2/3; 6, venation detail × 2.*
 
 ## Notes
 

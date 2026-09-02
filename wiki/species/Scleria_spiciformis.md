@@ -7,6 +7,13 @@ family: Cyperaceae
 vol: 44
 pages: 224-225
 source: sources/Cyperaceae_vol44_liteparse
+countries: [Cote d'Ivoire, Democratic Republic of the Congo, Gabon, Guinea, Liberia, Sierra Leone]
+in_region: true
+subdivisions:
+  Gabon: [Estuaire]
+habit: "herb"
+habitat: [rocky ground]
+altitude_m: "750"
 tags: [species, generated]
 ---
 # *Scleria spiciformis* Benth. Figure 29a
@@ -16,23 +23,17 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-in Hook., Niger fl. : 556 (1849), ‘ spicaeformis ’ Herbe vivace , en touffe haute de 30–75 cm ; rhizome court, horizontal, épais d’environ 5 mm ; tige 25–60 cm × 2–3 mm (3–6 mm au niveau des gaines), glabre. Feuilles nombreuses ; gaine pubescente, à 3 angles ailés, les supérieures avec des limbes bien développés de 20–30 cm × 3–4 mm , avec des poils raides le long de la marge et des 3 nervures principales. Inflorescence en panicule spiciforme contractée , d’environ 2–3 × 1 cm, habituellement solitaire à l’aisselle de chacune des feuilles supérieures et des bractées involucrales ; rachis poilu, légèrement ailé ; bractée primaire foliacée, longue de 1–2 cm, bractées secondaires filiformes, longues de 1–2 cm. Épillet mâle long de 7–9 mm, ± incurvé , visiblement étalé, composé d’environ 10 glumes ; glume supérieure abritant trois étamines à anthères munies d’un appendice proéminent recouvert de soies. Épillet femelle long de 6–8 mm , composé de 3 glumes plus longues que l’akène, sommet aigu à acuminé et de glumes mâles stériles longues de 2,5–4 mm. Akène ovoïde à ellipsoïde, long de 2–4 mm (disque compris), glabre, strié longitudinalement et verruqueux au sommet ; h ypogynium en forme de cupule courte, mais bien développée, sans lobes .
+in Hook., Niger fl. : 556 (1849), ' spicaeformis ' Perennial herb in dense tufts 30–75 cm tall; rhizome short, horizontal, approximately 5 mm thick; stem 25–60 cm × 2–3 mm (3–6 mm at the level of the sheaths), glabrous. Leaves numerous; sheath pubescent, with 3 winged angles, the upper ones with well-developed blades 20–30 cm × 3–4 mm, with stiff hairs along the margin and the 3 principal nerves. Inflorescence in a contracted spiciform panicle, approximately 2–3 × 1 cm, usually solitary in the axil of each of the upper leaves and involucral bracts; rachis hairy, slightly winged; primary bract foliaceous, 1–2 cm long, secondary bracts filiform, 1–2 cm long. Male spikelet 7–9 mm long, ± curved, evidently spreading, composed of approximately 10 glumes; upper glume bearing three stamens with anthers furnished with a prominent appendage covered with setae. Female spikelet 6–8 mm long, composed of 3 glumes longer than the achene, apex acute to acuminate and sterile male glumes 2.5–4 mm long. Achene ovoid to ellipsoid, 2–4 mm long (including disc), glabrous, longitudinally striated and verrucose at the apex; hypogynium cup-shaped but well developed, without lobes.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Guinée, Sierra Leone, Liberia, Côte d’Ivoire, Gabon et République Démocratique du Congo ; au Gabon, répandue et localement commune, trouvée dans l’Estuaire,
+Guinea, Sierra Leone, Liberia, Côte d'Ivoire, Gabon and Democratic Republic of the Congo; in Gabon, widespread and locally common, found in the Estuaire,
 
 a b
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-marécages, savanes humides, zones herbeuses sur sable et zones de suintement sur les inselbergs et affleurements rocheux ; au Gabon, jusqu’à 750 m d’altitude. Note taxonomique : se reconnaît par ses panicules spiciformes très étroites et denses, ainsi que les épillets mâles incurvés. b : Hooper & Napper (1972), Piérart (1953). ibliographie
+swamps, humid savannas, herbaceous areas on sand and seepage areas on inselbergs and rocky outcrops; in Gabon, up to 750 m altitude. Taxonomic note: recognized by its very narrow and dense spiciform panicles, as well as by the curved male spikelets. b : Hooper & Napper (1972), Piérart (1953). Bibliography
 
 ## Notes
 

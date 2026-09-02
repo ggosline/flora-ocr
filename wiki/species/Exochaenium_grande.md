@@ -7,6 +7,13 @@ family: Gentianaceae
 vol: 54
 pages: 73-73
 source: sources/Gentianaceae_vol54_liteparse
+countries: [Angola, Burundi, Cameroon, Democratic Republic of the Congo, Equatorial Guinea, Gabon, Kenya, Malawi, Mozambique, Nigeria, Rwanda, Tanzania, Uganda, Zambia, Zimbabwe]
+in_region: true
+subdivisions:
+  Gabon: [Nyanga]
+habit: "herb"
+habitat: [rocky ground]
+altitude_m: "2250"
 tags: [species, generated]
 ---
 # *Exochaenium grande* (E.Mey.) Griseb. Planche 24

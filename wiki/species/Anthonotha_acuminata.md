@@ -7,6 +7,9 @@ family: Leguminosae
 vol: 15
 pages: 213-214
 source: sources/Leguminosae_vol15_paddle
+countries: [Gabon]
+in_region: true
+habit: "shrub"
 tags: [species, generated]
 ---
 # *Anthonotha acuminata* (De Wild.) Léonard

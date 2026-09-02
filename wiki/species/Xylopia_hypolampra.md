@@ -7,6 +7,9 @@ family: Annonaceae
 vol: 16
 pages: 0-0
 source: sources/Annonaceae_vol16_mineru
+countries: [Angola, Cameroon, Central African Republic, Gabon, Republic of the Congo]
+in_region: true
+habit: "tree"
 tags: [species, generated]
 ---
 # *Xylopia hypolampra* Mildbraed
@@ -21,17 +24,13 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+- de Saint Aubin, La forêt du Gabon: 151 (1953).— Paiva, Mem. Soc. Brot. 19: 82 (1966).
 
-- de Saint Aubin,La forét du Gabon :151 (1953).— Paiva,Mem. Soc.Brot.19 :82 (1966).
+Tree reaching 30–40 m in height, and rarely exceeding 90 cm in diameter. Trunk elevated, straight and cylindrical, with base furnished with thin and irregular buttresses, rising up to 2 m from the ground. Rhytidome greyish-reddish, exfoliating in thin scales; bark 1.5 cm thick, fragrant, fibrous, fairly hard, orange-coloured. Wood yellow and hard. Crown spreading, very open and light. Branches horizontal, incurved, glabrous; branchlets tomentellous to glabrescent. Leaves with petiole 2–5 mm long, channelled above, pubescent-appressed; limb subcoriaceous, narrowly lanceolate, ± falciform, 4–8.5 cm long, 1.5–2 cm wide, long attenuate-acuminate at the apex, ± cuneiform at the base; upper surface glabrous but with median nerve pubescent, lower surface densely silky, with long appressed hairs. Lateral veins 10–15 pairs, invisible below, scarcely visible above.
 
-Arbre atteignant 3o-4o m de hauteur,et dépassant rarement 90 cm de diamétre. Fut élevé,droit et cylindrique,a base munie de contreforts minces et irréguliers, s'élevant jusqu'a 2 m du sol. Rhytidome gris rougeatre, s'exfoliant en écailles minces;écorce épaisse de 1,5 cm,odorante,fibreuse,assez dure,orangée.Bois jaune et dur. Cime étalée, tres claire et légere.Rameaux horizontaux,incurves,glabres;ramilles tomentelleuses a glabrescentes. Feuilles á pétiole long de 2-5 mm,canaliculé au-dessus,pubescent-apprimé;limbe subcoriace,étroitement lancéolé,± falciforme,long de 4-8,5 cm, large de 1,5-2 cm,longuement atténué- acuminé au sommet,± cuneiforme ä la base;face supérieure glabre,mais ä nervure médiane pubescente,face inférieure densément soyeuse, a longs poils apprimés. Nervures latérales 10-15paires,invisibles en dessous,a peine visibles au-dessus.
+Flowers yellowish-green, axillary, solitary or 2–3 fascicled, subsessile or with pedicel scarcely exceeding 3 mm in length, densely pubescent. Bracteoles 3, very close together, semi-orbicular and amplexicaul, pubescent-appressed on the outside, glabrous on the inside. Sepals triangular-ovate, 2–2.5 mm long, 2 mm wide, pubescent-appressed on the outside, glabrous on the inside. Outer petals narrowly linear, 22–33 mm long, 3–3.5 mm wide, ± channelled, enlarged and concave at the base, silky on the outside, puberulent on the inside except at the base; inner petals somewhat shorter, enlarged, thickened and ± clawed at the base. Outer staminodes oblong, 1.5 mm long, inner staminodes shorter. Stamens linear, about 1.5 mm long, inserted on an extension of the receptacle surrounding the ovaries, filaments 0.5 mm long, connectives ± capitate. Carpels 11–12, 3–4 mm long, ovaries narrowly cylindrical, about 1.5 mm long, sparsely pubescent, styles linear, 2–3 mm long, terminated by a small tuft of hairs and agglutinated to one another. 10–12 ovules biseriate.
 
-Fleurs vert jaunatre,axillaires, solitaires ou 2-3 fasciculées, subsessiles ou a pédicelle ne dépassant guere 3 mm de longueur, densément pubescent.Bractéoles 3,tres rapprochées,semi-orbiculaires et amplexicaules, pubescentes-apprimées a l'extérieur, glabres a l'intérieur. Sépales triangulaires-ovés,longs de 2-2,5 mm, larges de 2 mm,pubescents-apprimés á 'extérieur,glabres a l'intérieur. Pétales externes étroitement linéaires, longs de 22-
-
-33 mm, larges de 3-3,5 mm,± cannelés,élargis et concaves ä la base,soyeux á l'extérieur,pubérulents ä l'intérieur sauf a la base;pétales internes un peu plus courts,élargis,épaissis et ± onguiculés a la base. Staminodes externes oblongs, longs de 1,5 mm,staminodes internes plus courts.Etamines linéaires, longues de 1,5 mm environ,insérées sur un prolongement du réceptacle entourant les ovaires, filets longs de o,5 mm,connectifs ± capités. Carpelles I1-12,longs de 3-4 mm,ovaires étroitement cylindriques, longs de 1,5 mm environ,éparsement pubescents,styles linéaires,longs de 2-3 mm,terminés par une petite toufe de poils et agglutinés les uns aux autres. Io-I2 ovules biseries.
-
-Fruits subsessiles ou tres courtement pédicellés, pédicelle tres épais, long de o,5 cm; mericarpes sessiles, obovoides-oblongs, arrondis au sommet, longs de 2-5 cm, larges de 1,5-3 cm,glabres, s'ouvrant en 2 ou 3 valves qui se retournent vers l'extérieur montrant leur face interne rouge vif.Graines horizontales,bisé- riees,ellipsoides aplaties,brunes,ä arille verdätre,visible sur le frais.
+Fruits subsessile or very shortly pedicelled, pedicel very thick, 0.5 cm long; mericarps sessile, obovoid-oblong, rounded at the apex, 2–5 cm long, 1.5–3 cm wide, glabrous, opening in 2 or 3 valves that bend back outward revealing their inner surface bright red. Seeds horizontal, biseriate, ellipsoid flattened, brown, with greenish aril, visible when fresh.
 
 ## Type
 
@@ -39,25 +38,23 @@ Mildbraed 5183,Lomie, Cameroun,fl.,fr.,mai (lectotype HBG!)
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+The holotype having been destroyed in Berlin, we select as lectotype the isotype present in the Hamburg herbarium.
 
-L'holotype ayant été détruit ä Berlin,nous choisissons comme lectotype, 'isotype présent dans l'herbier de Hambourg.
+Equatorial species, distributed in Cameroon, Central African Republic, Gabon, Cabinda, Congo-Brazzaville and Congo-Kinshasa. Frequent in dense humid forest where it forms part of the dominant canopy layer. Easily recognizable in the forest by the light aspect, very characteristic of the crown.
 
-Espéce équatoriale, répandue au Cameroun, République centrafricaine,Gabon,Cabinda, Congo-Brazzaville et Congo-Kinshasa. Fréquente en forét dense humide ou elle fait partie de l'étage dominant. Facilement reconnaissable en forét par l'aspect léger, tres caractéristique de la cime.
+In Gabon, X. hypolampra is a rare species in the West and Centre, it becomes frequent east of Makokou, where it is not uncommon to find it in true small stands.
 
-Au Gabon,X. hypolampra est une espéce rare dans 'Ouest et le Centre,elle devient fréquente á 'Est de Makokou,ou il n'est pas rare de la trouver en véritables petits peuplements.
+GABONESE AND NEIGHBOURING MATERIAL:
 
-MATERIEL GABONAIS ET LIMITROPHE :
+N. Hallé 3736, Bélinga iron mines (fr., June).
 
-N.Hallé 3736,Bélinga mines de fer (fr., juin).
+N. Hallé and Le Thomas 368, Mékambo; 487, Bélinga iron mines.
 
-N.Hallé et Le Thomas 368,Mékambo;487,Bélinga mines de fer.
+Le Testu 1749, Inganga, Nyanga region (fl., May); 2023, Tchibanga (fl., Feb.); 8094, Mboma, Lastoursville region, gallery in the savannas of Haut-Ogooué (fl., fr., May).
 
-Le Testu 1749,Inganga,région du Nyanga (fl.,mai);2o23,Tchibanga (fl., févr.);8o94,Mboma,région de Lastoursville,galerie dans les savanes du Haut Ogooué (fl.,fr.,mai).
+de Saint Aubin SRF 1972, s.l.; CTFT 2082, Km 40.
 
-de Saint Aubin SRF 1972,s.l.; CTFT 2082,Km 40.
-
-Sargos I4I,941,Kouilou inférieur.
+Sargos 141, 941, Lower Kouilou.
 
 ## Vernacular names
 

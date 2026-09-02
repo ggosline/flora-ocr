@@ -7,6 +7,13 @@ family: Leguminosae
 vol: 49
 pages: 45-46
 source: sources/Millettiaspeciesfabaceae_vol49_liteparse
+countries: [Democratic Republic of the Congo, Gabon, Republic of the Congo]
+in_region: true
+subdivisions:
+  Gabon: [Estuaire, Moyen-Ogooué]
+habit: "tree"
+habitat: [secondary forest]
+altitude_m: "200–300"
 tags: [species, generated]
 ---
 # *Angylocalyx boutiqueanus* L.Touss.

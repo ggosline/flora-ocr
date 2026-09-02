@@ -7,6 +7,9 @@ family: Melastomataceae
 vol: 25
 pages: 133-134
 source: sources/Melastomataceae_vol25_paddle
+countries: [Cameroon]
+in_region: true
+habit: "shrub"
 tags: [species, generated]
 ---
 # *Memecylon zenkeri* Gilg

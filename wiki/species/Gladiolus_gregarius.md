@@ -7,6 +7,10 @@ family: Iridaceae
 vol: 38
 pages: 37-38
 source: sources/Iridaceae_vol38_liteparse
+countries: [Angola, Benin, Burkina Faso, Burundi, Cameroon, Central African Republic, Chad, Cote d'Ivoire, Democratic Republic of the Congo, Gabon, Ghana, Guinea, Guinea-Bissau, Malawi, Mali, Mozambique, Niger, Nigeria, Senegal, Sierra Leone, Sudan, Tanzania, Togo, Uganda, Zambia]
+in_region: true
+habit: "herb"
+altitude_m: "1320"
 tags: [species, generated]
 ---
 # *Gladiolus gregarius* Welw. ex Bak. var. gregarius

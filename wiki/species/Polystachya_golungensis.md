@@ -7,6 +7,9 @@ family: Orchidaceae
 vol: 37
 pages: 51-51
 source: sources/Orchidaceae_vol37_paddle
+countries: [Angola, Cameroon, Central African Republic, Cote d'Ivoire, Democratic Republic of the Congo, Gabon, Kenya, Liberia, Malawi, Mali, Mozambique, Nigeria, Tanzania, Togo, Uganda, Zambia, Zimbabwe]
+in_region: true
+habitat: [savanna, secondary forest, riverine]
 tags: [species, generated]
 ---
 # *Polystachya golungensis* Rchb.f.

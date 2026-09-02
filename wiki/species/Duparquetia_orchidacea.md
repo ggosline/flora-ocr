@@ -7,6 +7,11 @@ family: Leguminosae
 vol: 15
 pages: 50-52
 source: sources/Leguminosae_vol15_paddle
+countries: [Liberia]
+in_region: false
+habit: "liana"
+habitat: [riverine, coastal]
+altitude_m: "8"
 tags: [species, generated]
 ---
 # *Duparquetia orchidacea* Baill. (P. 7, p. 47)
@@ -49,7 +54,7 @@ Chevalier : 26807, Libreville (fl. sept.); 26819, Ile Coniquet; 27031, Acondjo s
 
 ![Duparquetia orchidacea](../sources/Leguminosae_vol15_paddle/figures/fig_007_p0049.png)
 
-*PL. VII. — Duparquetia orchidacea Baill. : 1, feuille × 2 /3; 2, inflorescence × 1,5; 3, bouton; 4, 5, fleur de profil et de face; 6, diagramme floral; 7, deux étamines médianes à anthères soudées; 8, étamine latérale; 9, jeune fruit × 2 /3. — D'après croquis in vivo de N. Hallé.*
+*PL. VII. — Duparquetia orchidacea Baill. : 1, leaf × 2/3; 2, inflorescence × 1.5; 3, bud; 4, 5, flower in profile and in front view; 6, floral diagram; 7, two median stamens with fused anthers; 8, lateral stamen; 9, young fruit × 2/3. — After sketch in vivo by N. Hallé.*
 
 ## Notes
 

@@ -6,17 +6,15 @@ genus: Triclisia
 family: Menispermaceae
 synonyms:
   - "Triclisia gilletii (De Wild.) Staner, Bull. Séances Inst. Roy. Colon. Belge 4: 430 (1933)"
-habit: liana
-habitat: [degraded forest, riverine forest, secondary forest]
-altitude_m: "up to 300 (Gabon); up to 960 elsewhere"
-countries: [Angola, Cameroon, Central African Republic, Democratic Republic of the Congo, Gabon, Republic of the Congo]
-subdivisions:
-  Gabon: [Moyen-Ogooué, Ogooué-Ivindo]
-in_region: true
 treatments:
   - vol: 60
     pages: "83–84"
     source: sources/Menispermaceae_vol60_liteparse
+countries: [Angola, Cameroon, Central African Republic, Gabon, Republic of the Congo]
+in_region: true
+subdivisions:
+  Gabon: [Moyen-Ogooué, Ogooué-Ivindo]
+habit: "liana"
 tags: [species, ethnobotany]
 ---
 

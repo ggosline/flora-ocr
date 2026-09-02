@@ -7,6 +7,9 @@ family: Dennstaedtiaceae
 vol: 08
 pages: 80-81
 source: sources/Dennstaedtiaceae_vol08_paddle
+countries: [Guinea]
+in_region: false
+habitat: [evergreen forest]
 tags: [species, generated]
 ---
 # *Lonchitis currori* (Hook.) Mettenius ex Kühn

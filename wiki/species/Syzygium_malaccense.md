@@ -22,11 +22,9 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Tahitian Apple, Malayan Apple.
 
-Pommier de Tahiti, Pommier de Malaisie.
-
-Cette espèce ainsi que la précédente est souvent cultivée dans les pays tropicaux pour ses fruits comestibles; toutes les deux sont originaires d’Asie tropicale. Aucun exemplaire provenant du Gabon n’a été vu par nous.
+This species, like the preceding one, is often cultivated in tropical countries for its edible fruits; both are native to tropical Asia. We have not seen any specimen from Gabon.
 
 ## Notes
 

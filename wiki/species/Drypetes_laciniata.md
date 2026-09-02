@@ -7,6 +7,11 @@ family: Putranjivaceae
 vol: 57
 pages: 146-149
 source: sources/Putranjivaceae_vol57_paddle
+countries: [Cameroon, Central African Republic, Cote d'Ivoire, Equatorial Guinea, Gabon, Liberia, Republic of the Congo]
+in_region: true
+subdivisions:
+  Gabon: [Estuaire, Haut-Ogooué, Ngounié, Ogooué-Ivindo, Ogooué-Lolo, Woleu-Ntem]
+habit: "tree"
 tags: [species, generated]
 ---
 # *Drypetes laciniata* (Pax) Hutch.

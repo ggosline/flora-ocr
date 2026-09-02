@@ -7,6 +7,9 @@ family: Melastomataceae
 vol: 25
 pages: 38-40
 source: sources/Melastomataceae_vol25_paddle
+countries: [Angola, Democratic Republic of the Congo, Sierra Leone]
+in_region: true
+habit: "tree"
 tags: [species, generated]
 ---
 # *Dichaetanthera africana* (Hooker f.) Jacques-Félix
@@ -41,7 +44,7 @@ Aubréville s.n., région de la Mondah (stér., août). Duparquet s.n., s. loc. 
 
 ![Dichaetanthera africana](../sources/Melastomataceae_vol25_paddle/figures/fig_012_p0039.png)
 
-*PL. 12. — Dichaetanthera africana (Cogn.) Jacq.-Fél. : 1, sommité fleurie × 2/3; 2, bouton floral et bractées × 4; 3, pétale × 4; 4 & 5, étamines, externe et interne × 6; 6, style × 4; 7, jeune fruit × 4; 8 & 9, capsule, entière et coupée × 4; 10, graine × 20 (Zenker 4322).*
+*PL. 12. — Dichaetanthera africana (Cogn.) Jacq.-Fél.: 1, flowering top × 2/3; 2, floral bud and bracts × 4; 3, petal × 4; 4 & 5, stamens, external and internal × 6; 6, style × 4; 7, young fruit × 4; 8 & 9, capsule, entire and sectioned × 4; 10, seed × 20 (Zenker 4322).*
 
 ## Notes
 

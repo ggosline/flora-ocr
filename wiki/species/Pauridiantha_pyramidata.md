@@ -7,6 +7,10 @@ family: Rubiaceae
 vol: 12
 pages: 243-244
 source: sources/Rubiaceae_vol12_paddle
+countries: [Cameroon, Central African Republic, Democratic Republic of the Congo, Gabon]
+in_region: true
+habit: "shrub"
+habitat: [riverine]
 tags: [species, generated]
 ---
 # *Pauridiantha pyramidata* (K. Kr. )Brem. (P.L. 50)
@@ -41,7 +45,7 @@ N. Hallé : 1160, forme brévistyle, et 1161, forme longistyle, 3 km N de Makoko
 
 ![Pauridiantha pyramidata](../sources/Rubiaceae_vol12_paddle/figures/fig_063_p0245.png)
 
-*PL. 50. — Pauridiantha pyramidata (K. Kr.) Brem. (N. Hallé 1160) : 1, rameau florifère × 3/4; 2, stipule; 3, bouton; 4, coupe du bouton brévistyle; 5, corolle; 6, étamine; 7, fleur longistyle (N. H. 1161); 8, poils de la gorge. — P. siderophila N. Hallé : 9, feuille × 3/4; 10, stipule; 11, bouton; 12, fleur; 13, coupe de fleur longistyle; 14, étamine (9 à 14, N. H. 1367); 15, graine (N. H. 2778).*
+*PL. 50. — Pauridiantha pyramidata (K. Kr.) Brem. (N. Hallé 1160) : 1, flowering branch × 3/4; 2, stipule; 3, bud; 4, section of brevistyle bud; 5, corolla; 6, stamen; 7, longistyle flower (N. H. 1161); 8, hairs of the throat. — P. siderophila N. Hallé : 9, leaf × 3/4; 10, stipule; 11, bud; 12, flower; 13, section of longistyle flower; 14, stamen (9 to 14, N. H. 1367); 15, seed (N. H. 2778).*
 
 ## Notes
 

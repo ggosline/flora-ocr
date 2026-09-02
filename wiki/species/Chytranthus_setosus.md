@@ -7,6 +7,9 @@ family: Sapindaceae
 vol: 23
 pages: 108-110
 source: sources/Sapindaceae_vol23_paddle
+countries: [Cameroon, Central African Republic, Cote d'Ivoire, Democratic Republic of the Congo, Gabon, Nigeria]
+in_region: true
+habit: "shrub"
 tags: [species, generated]
 ---
 # *Chytranthus setosus* Radlkofer
@@ -49,7 +52,7 @@ Dinklage 1332, Batanga. Letouzey 2706, entre Béliga et Moyénam près Bertoua (
 
 ![Chytranthus setosus](../sources/Sapindaceae_vol23_paddle/figures/fig_025_p0109.png)
 
-*PL. 25. — Chrysranthus setosus Radlk. : 1, fragment de feuille × 1; 2, inflorescence ♂ × 1; 3, jeune infrutescence ♀ × 1; 4, fleur ♀, diamètre 7,2 mm; 5, pétale de 6 mm; 6, disque de fleur ♀, 3,2 mm; 6', disque de fleur ♂, 2,4 mm; 7, étamine fertile, anthère de 1,5 mm, verso et recto; 8, gynécée long de 8 mm et sa coupe; 9, fruit in sicco × 1, et sa coupe; 10, graine × 1 (Letouzey 5575, 1, 2, 6', 7; Letouzey 2706, 3, 4, 5, 6, 8; Tisserant 1990, 9 et 10).*
+*PL. 25. — Chrysranthus setosus Radlk. : 1, leaf fragment × 1; 2, ♂ inflorescence × 1; 3, young ♀ infructescence × 1; 4, ♀ flower, diameter 7,2 mm; 5, petal of 6 mm; 6, disk of ♀ flower, 3,2 mm; 6', disk of ♂ flower, 2,4 mm; 7, fertile stamen, anther of 1,5 mm, verso and recto; 8, gynoecium 8 mm long and its section; 9, fruit in sicco × 1, and its section; 10, seed × 1 (Letouzey 5575, 1, 2, 6', 7; Letouzey 2706, 3, 4, 5, 6, 8; Tisserant 1990, 9 and 10).*
 
 ## Notes
 

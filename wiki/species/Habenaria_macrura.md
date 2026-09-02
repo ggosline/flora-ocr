@@ -7,6 +7,9 @@ family: Orchidaceae
 vol: 36
 pages: 35-37
 source: sources/Orchidaceae_vol36_paddle
+countries: [Angola, Gabon, Malawi, Nigeria, Tanzania, Zambia, Zimbabwe]
+in_region: true
+habitat: [savanna]
 tags: [species, generated]
 ---
 # *Habenaria macrura* Kraenzl.
@@ -49,7 +52,7 @@ Tige portant sur toute sa longueur des feuilles étalées, lancéolées – à e
 
 ![Habenaria macrura](../sources/Orchidaceae_vol36_paddle/figures/fig_011_p0036.png)
 
-*PL. 11. – Habenaria macrura Kraenzl.: A, éperon, ovaire, pédicelle et bractée ; B, labelle ; C, sépale dorsal ; D, pétale ; E, sépale latéral ; F, G, feuilles ; H, gynostème étalé, vue antérieure (Kassner 2358bis, P).*
+*PL. 11. – Habenaria macrura Kraenzl.: A, spur, ovary, pedicel and bract ; B, lip ; C, dorsal sepal ; D, petal ; E, lateral sepal ; F, G, leaves ; H, column spread, anterior view (Kassner 2358bis, P).*
 
 ## Notes
 

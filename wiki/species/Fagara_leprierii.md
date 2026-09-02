@@ -44,7 +44,7 @@ Le Testu : 8236, Mavanga près Lastoursville (fl. ♂, août).
 
 ![Fagara leprierii](../sources/Rutaceae_vol06_paddle/figures/fig_006_p0039.png)
 
-*PL. VI. — Fagara leprieurii (Guill. et Perr.) Engl.: 1, rameau avec infl. ♀ × 1/3; 2, foliole (face inf. et par transparence) × 2/3 (Le Testu 4759 RCA); 3, bouton fl. ♂ × 7; 4, fl. ♂ (4 pét. enlevés) × 10 (Le Testu 8236); 5, fl. ♀ et 6, calice, disque et gynécée (ovaire sectionné) × 10 (Le Testu 4759 RCA); 7, fr. × 10/3; 8, follicule (coupe axiale) avec graine × 10/3 (Tisserant 86 RCA); 9, embryon × 10/3 (Adam 18089 Casamance).*
+*PL. VI. — Fagara leprieurii (Guill. et Perr.) Engl.: 1, branch with infl. ♀ × 1/3; 2, leaflet (lower surface and by transparency) × 2/3 (Le Testu 4759 RCA); 3, flower bud ♂ × 7; 4, fl. ♂ (4 petals removed) × 10 (Le Testu 8236); 5, fl. ♀ and 6, calyx, disk and gynoecium (ovary sectioned) × 10 (Le Testu 4759 RCA); 7, fr. × 10/3; 8, follicle (axial section) with seed × 10/3 (Tisserant 86 RCA); 9, embryo × 10/3 (Adam 18089 Casamance).*
 
 ## Notes
 

@@ -7,6 +7,9 @@ family: Orchidaceae
 vol: 37
 pages: 103-105
 source: sources/Orchidaceae_vol37_paddle
+countries: [Cameroon, Democratic Republic of the Congo, Kenya, Mozambique, Nigeria, Sudan, Tanzania, Uganda, Zimbabwe]
+in_region: true
+habitat: [savanna, primary forest, rocky ground]
 tags: [species, generated]
 ---
 # *Eulophia stachyodes* Rchb.f.

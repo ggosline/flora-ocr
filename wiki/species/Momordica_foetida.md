@@ -7,6 +7,13 @@ family: Cucurbitaceae
 vol: 57
 pages: 90-93
 source: sources/Cucurbitaceae_vol57_paddle
+countries: [Gabon, Senegal]
+in_region: true
+subdivisions:
+  Gabon: [Estuaire, Ngounié, Ogooué-Ivindo]
+habit: "herb"
+habitat: [riverine, evergreen forest]
+altitude_m: "480"
 tags: [species, generated]
 ---
 # *Momordica foetida* Schumach.

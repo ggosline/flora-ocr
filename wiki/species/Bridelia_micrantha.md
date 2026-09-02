@@ -7,6 +7,13 @@ family: Phyllanthaceae
 vol: 43
 pages: 21-22
 source: sources/Phyllanthaceae_vol43_liteparse
+countries: [Gabon]
+in_region: true
+subdivisions:
+  Gabon: [Estuaire, Ogooué-Ivindo, Woleu-Ntem]
+habit: "tree"
+habitat: [savanna]
+altitude_m: "700"
 tags: [species, generated]
 ---
 # *Bridelia micrantha* (Hochst.) Baill. Planche 3(G,H)

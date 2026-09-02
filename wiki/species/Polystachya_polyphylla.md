@@ -7,6 +7,9 @@ family: Orchidaceae
 vol: 37
 pages: 39-41
 source: sources/Orchidaceae_vol37_paddle
+countries: [Cameroon, Gabon, Sao Tome and Principe]
+in_region: true
+habitat: [rocky ground]
 tags: [species, generated]
 ---
 # *Polystachya polyphylla* Summerh.

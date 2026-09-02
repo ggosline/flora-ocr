@@ -7,6 +7,8 @@ family: Pandaceae
 vol: 22
 pages: 17-20
 source: sources/Pandaceae_vol22_paddle
+countries: [Democratic Republic of the Congo, Liberia]
+in_region: true
 tags: [species, generated]
 ---
 # *Panda oleosa* Pierre
@@ -52,7 +54,7 @@ The whitish-yellow or greyish wood, semi-hard and compact, would be usable in jo
 
 ![Panda oleosa](../sources/Pandaceae_vol22_paddle/figures/fig_004_p0019.png)
 
-*PL. 4. — Panda oleosa Pierre : 1, feuilles × 2/3; 2, détail d'un nœud × 2,5; 3, inflorescences ♀ × 2/3; 4, bractéoles × 12; 5, bouton floral ♂ × 3,5; 6, fleur ♂ × 7,5; 7, détail du calice × 13; 8, pétale × 4; 9, étamine × 12; 10, pistillode × 12; 11, bouton floral ♀ × 4,25; 12, fleur ♀ × 3; 13, pistil × 3,5; 14, fruit × 1/2; 15, coupe transv. du fruit × 2/3 (1, Mildbraed 3989; 2, Voorhoeve & de Wilde 3709; 3-4, Tisserant 77 et Hladik 1801; 5-10, Touzet 154; 11-13, Voorhoeve & de Wilde 3709; 14, Letouzey 3935; 15, Hladik 1589).*
+*PL. 4. — Panda oleosa Pierre : 1, leaves × 2/3; 2, detail of a node × 2,5; 3, ♀ inflorescences × 2/3; 4, bracteoles × 12; 5, ♂ flower bud × 3,5; 6, ♂ flower × 7,5; 7, detail of calyx × 13; 8, petal × 4; 9, stamen × 12; 10, pistillode × 12; 11, ♀ flower bud × 4,25; 12, ♀ flower × 3; 13, pistil × 3,5; 14, fruit × 1/2; 15, transverse section of fruit × 2/3 (1, Mildbraed 3989; 2, Voorhoeve & de Wilde 3709; 3-4, Tisserant 77 and Hladik 1801; 5-10, Touzet 154; 11-13, Voorhoeve & de Wilde 3709; 14, Letouzey 3935; 15, Hladik 1589).*
 
 ## Notes
 

@@ -7,6 +7,9 @@ family: Annonaceae
 vol: 16
 pages: 0-0
 source: sources/Annonaceae_vol16_mineru
+countries: [Gabon]
+in_region: true
+habit: "tree"
 tags: [species, generated]
 ---
 # *Enantia le-* Testui Le Thomas (P1. 56, p. 307)
@@ -27,7 +30,7 @@ Fruit unknown.
 
 ## Type
 
-Le Testu 8432， Ikembélé,région de Lastoursville (holotype P!; isotype BM!)
+Le Testu 8432, Ikembélé,région de Lastoursville (holotype P!; isotype BM!)
 
 ## Discussion
 

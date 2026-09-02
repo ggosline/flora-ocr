@@ -7,6 +7,10 @@ family: Annonaceae
 vol: 16
 pages: 0-0
 source: sources/Annonaceae_vol16_mineru
+countries: [Cameroon, Gabon, Guinea, Nigeria]
+in_region: true
+habit: "tree"
+habitat: [evergreen forest]
 tags: [species, generated]
 ---
 # *Cleistopholis staudtii* Engler et Diels

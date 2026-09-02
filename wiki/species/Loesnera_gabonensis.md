@@ -7,6 +7,10 @@ family: Leguminosae
 vol: 15
 pages: 93-95
 source: sources/Leguminosae_vol15_paddle
+countries: [Gabon]
+in_region: true
+habit: "tree"
+habitat: [swamp forest]
 tags: [species, generated]
 ---
 # *Loesnera gabonensis* Pellegrin

@@ -7,6 +7,7 @@ family: Adiantaceae
 vol: 08
 pages: 106-108
 source: sources/Adiantaceae_vol08_paddle
+habitat: [mangrove]
 tags: [species, generated]
 ---
 # *Acrostichum aureum* Linné
@@ -51,7 +52,7 @@ Thollon : 651, Libreville.
 
 ![Acrostichum aureum](../sources/Adiantaceae_vol08_paddle/figures/fig_018_p0107.png)
 
-*PL. XV.—Pityrogramma calomelanos (L.) Link (N. Hallé et G. Cours 6034): 1, aspect général × 2/3; 2, une penne × 4.—Acrostichum aureum L. (Walker 2): 3, aspect général × 1/3.*
+*PL. XV.—Pityrogramma calomelanos (L.) Link (N. Hallé et G. Cours 6034): 1, general aspect × 2/3; 2, a pinna × 4.—Acrostichum aureum L. (Walker 2): 3, general aspect × 1/3.*
 
 ## Notes
 

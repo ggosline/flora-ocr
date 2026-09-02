@@ -7,6 +7,9 @@ family: Annonaceae
 vol: 16
 pages: 0-0
 source: sources/Annonaceae_vol16_mineru
+countries: [Angola, Cameroon, Central African Republic, Gabon, Republic of the Congo, Sudan, Uganda]
+in_region: true
+habit: "tree"
 tags: [species, generated]
 ---
 # *Monodora angolensis* Welwitsch

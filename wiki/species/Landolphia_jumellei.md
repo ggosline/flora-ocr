@@ -7,6 +7,7 @@ family: Apocynaceae
 vol: 59
 pages: 129-129
 source: sources/Apocynaceae_vol59_liteparse
+habit: "liana"
 tags: [species, generated]
 ---
 # *Landolphia jumellei* (Pierre ex Jum.) Pichon Planche 54

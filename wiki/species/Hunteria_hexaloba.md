@@ -7,6 +7,7 @@ family: Apocynaceae
 vol: 59
 pages: 96-99
 source: sources/Apocynaceae_vol59_liteparse
+habit: "shrub"
 tags: [species, generated]
 ---
 # *Hunteria hexaloba* (Pichon) Omino Planche 39

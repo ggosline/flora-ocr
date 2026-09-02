@@ -7,6 +7,12 @@ family: Oleaceae
 vol: 51
 pages: 10-12
 source: sources/Oleaceae_vol51_liteparse
+countries: [Angola, Cameroon, Democratic Republic of the Congo, Gabon, Republic of the Congo, Senegal, Zambia]
+in_region: true
+subdivisions:
+  Gabon: [Ogooué-Ivindo, Woleu-Ntem]
+habit: "liana"
+altitude_m: "750"
 tags: [species, generated]
 ---
 # *Jasminum dichotomum* Vahl Planche 1

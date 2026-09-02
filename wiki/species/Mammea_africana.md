@@ -7,6 +7,11 @@ family: Clusiaceae
 vol: 45
 pages: 41-43
 source: sources/Clusiaceae_vol45_liteparse
+countries: [Angola, Cameroon, Central African Republic, Cote d'Ivoire, Democratic Republic of the Congo, Equatorial Guinea, Gabon, Ghana, Guinea, Liberia, Nigeria, Republic of the Congo, Sao Tome and Principe, Sierra Leone, Uganda]
+in_region: true
+habit: "tree"
+habitat: [swamp forest, riverine]
+altitude_m: "650"
 tags: [species, generated]
 ---
 # *Mammea africana* Sabine Planche 9

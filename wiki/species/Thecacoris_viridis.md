@@ -7,6 +7,13 @@ family: Phyllanthaceae
 vol: 43
 pages: 92-93
 source: sources/Phyllanthaceae_vol43_liteparse
+countries: [Cameroon, Democratic Republic of the Congo, Equatorial Guinea, Gabon, Nigeria, Republic of the Congo]
+in_region: true
+subdivisions:
+  Gabon: [Haut-Ogooué]
+habit: "shrub"
+habitat: [secondary forest]
+altitude_m: "0–500"
 tags: [species, generated]
 ---
 # *Thecacoris viridis* (Müll.Arg.) Leandri ex G.L.Webster
@@ -17,21 +24,15 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Herbe ou suffrutex, plus rarement arbuste, (0,2)–0,3–0,6(–1) m de hauteur ; tige sou vent prostrée-radicante puis dressée ; ramilles pubérulentes, glabrescentes. Stipules triangulaires, simples ou 2–3(–4)-lobées à la base à laciniées , 1–5(–6) × 0,5–3 mm, pubérulentes. Feuille : pétiole canaliculé dessus, (3–)6–10(–25) mm, pubérulent ; limbe rhombiforme à elliptique ou parfois obovale, 5–18 × 2,5–7(–8,5) cm, aigu à arrondi ou parfois obtus à la base, acuminé sur 0,5–1 cm et souvent mucronulé au sommet, à marge très souvent dentée à ondulée , ± glabre dessus, pubérulent et souvent tôt glabrescent sur la nervure médiane et parfois sur les 5–10 nervures latérales dessous. Inflorescence une à plusieurs fois ramifiée ou parfois simple, pubérulente, les mâles et les femelles jusqu’à 13 cm de longueur. Fleur mâle blanche : pédicelle 0–1 mm ; sépales ± ovales, 1–1,5 mm de longueur, pubescents ; pistillode cyathiforme , glabre. Fleur femelle : pédicelle 1–2(–3) mm ; sépales ovales, 1–1,5 mm de longueur, pubescents ; disque pubescent ; ovaire globuleux, ± pubescent à glabre. Fruit trilobé, 3–5 × 6–8 mm, glabre à éparsement pubérulent. Graines ovoïdes-ellipsoïdes, 2,5–3 × 1,5–2 mm, brunâtres, luisantes.
+Herb or suffrutex, more rarely shrub, (0.2)–0.3–0.6(–1) m in height; stem often prostrate-rooting then erect; branchlets puberulent, glabrescent. Stipules triangular, simple or 2–3(–4)-lobed at the base or laciniate, 1–5(–6) × 0.5–3 mm, puberulent. Leaf: petiole channelled above, (3–)6–10(–25) mm, puberulent; blade rhombiform to elliptic or sometimes obovate, 5–18 × 2.5–7(–8.5) cm, acute to rounded or sometimes obtuse at the base, acuminate for 0.5–1 cm and often mucronate at the apex, margin very often dentate to undulate, ± glabrous above, puberulent and often early glabrescent on the midvein and sometimes on the 5–10 lateral nerves below. Inflorescence branched one to several times or sometimes simple, puberulent, male and female up to 13 cm in length. Male flower white: pedicel 0–1 mm; sepals ± ovate, 1–1.5 mm in length, pubescent; pistillode cyathiform, glabrous. Female flower: pedicel 1–2(–3) mm; sepals ovate, 1–1.5 mm in length, pubescent; disk pubescent; ovary globose, ± pubescent to glabrous. Fruit trilobed, 3–5 × 6–8 mm, glabrous to sparsely puberulent. Seeds ovoid-ellipsoid, 2.5–3 × 1.5–2 mm, brownish, shiny.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Nigeria, Cameroun, Guinée Équatoriale, Gabon, République du Congo et République Démocratique du Congo ; au Gabon, récoltée dans toutes les provinces sauf le Haut-Ogooué
+Nigeria, Cameroon, Equatorial Guinea, Gabon, Republic of the Congo and Democratic Republic of the Congo; in Gabon, collected in all provinces except Haut-Ogooué
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-forêt primaire et secondarisée, souvent sur les bords de rivières ; au Gabon, à 0–500 m d’altitude. Note taxonomique : La subdivision de cette espèce en trois sous-espèces, telle que traitée dans la Flore d’Afrique Centrale (Léonard 1995a), n’est pas retenue ici. b : Breteler (2011a), Léonard (1995a). ibliographie
+primary and secondarized forest, often on river banks; in Gabon, at 0–500 m altitude. Taxonomic note: The subdivision of this species into three subspecies, as treated in the Flora of Central Africa (Léonard 1995a), is not retained here. b: Breteler (2011a), Léonard (1995a). ibliography
 
 ## Notes
 

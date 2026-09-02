@@ -7,6 +7,9 @@ family: Icacinaceae
 vol: 20
 pages: 29-30
 source: sources/Icacinaceae_vol20_paddle
+countries: [Democratic Republic of the Congo, Nigeria]
+in_region: true
+habit: "shrub"
 tags: [species, generated]
 ---
 # *Alsodeiopsis rowlandii* Engler

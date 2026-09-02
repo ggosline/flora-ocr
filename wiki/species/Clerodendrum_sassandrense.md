@@ -6,6 +6,12 @@ genus: Clerodendrum
 vol: 58
 pages: 38-40
 source: sources/Labiataeulmaceaeverbenaceae_vol58_liteparse
+countries: [Cote d'Ivoire, Gabon, Republic of the Congo]
+in_region: true
+subdivisions:
+  Gabon: [Ogooué-Lolo]
+habitat: [secondary forest]
+altitude_m: "275"
 tags: [species, generated]
 ---
 # *Clerodendrum sassandrense* Jongkind Planche 8 ; Figure 2(E-G)

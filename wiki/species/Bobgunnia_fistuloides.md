@@ -7,6 +7,12 @@ family: Leguminosae
 vol: 49
 pages: 68-70
 source: sources/Millettiaspeciesfabaceae_vol49_liteparse
+countries: [Angola, Cameroon, Cote d'Ivoire, Democratic Republic of the Congo, Equatorial Guinea, Gabon, Ghana, Guinea, Nigeria, Republic of the Congo]
+in_region: true
+subdivisions:
+  Gabon: [Nyanga]
+habit: "tree"
+altitude_m: "700"
 tags: [species, generated]
 ---
 # *Bobgunnia fistuloides* (Harms) J.H.Kirkbr. & Wiersema Planche 19

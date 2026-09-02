@@ -7,6 +7,8 @@ family: Icacinaceae
 vol: 20
 pages: 61-62
 source: sources/Icacinaceae_vol20_paddle
+countries: [Angola, Sierra Leone, Tanzania]
+in_region: true
 tags: [species, generated]
 ---
 # *Leptaulus daphnoides* Bentham

@@ -7,6 +7,9 @@ family: Orchidaceae
 vol: 37
 pages: 245-268
 source: sources/Orchidaceae_vol37_paddle
+countries: [Cameroon, Gabon, Ghana, Guinea, Nigeria, Sierra Leone, Togo]
+in_region: true
+habitat: [secondary forest]
 tags: [species, generated]
 ---
 # *Angraecum multinomitatum* Rendle.

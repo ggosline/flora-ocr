@@ -7,6 +7,9 @@ family: Leguminosae
 vol: 31
 pages: 111-113
 source: sources/Leguminosae_vol31_paddle
+countries: [Gabon]
+in_region: true
+habit: "tree"
 tags: [species, generated]
 ---
 # *Calpocalyx letestui* Pellegrin
@@ -39,7 +42,7 @@ Breteler & De Wilde J.J.F.E. 514, 25 km S du km 40 route Lalara-Makokou (fl., se
 
 ![Calpocalyx letestui](../sources/Leguminosae_vol31_paddle/figures/fig_041_p0112.png)
 
-*PL. 29. – Calpocalyx letestui Pellegr.: 1, aspect général × 0,8; 2, pétiole, sommet × 5; 3, foliole, face supérieure, détail × 1; 4, foliole, face inférieure, détail × 2,5; 5, bractéole × 13; 6, bouton floral × 20; 7, fleur × 13. (Breteler & De Wilde 514).*
+*PL. 29. – Calpocalyx letestui Pellegr.: 1, general aspect × 0.8; 2, petiole, apex × 5; 3, leaflet, upper surface, detail × 1; 4, leaflet, lower surface, detail × 2.5; 5, bracteole × 13; 6, flower bud × 20; 7, flower × 13. (Breteler & De Wilde 514).*
 
 ## Notes
 

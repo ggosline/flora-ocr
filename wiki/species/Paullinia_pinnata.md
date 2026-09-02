@@ -7,6 +7,9 @@ family: Sapindaceae
 vol: 23
 pages: 15-18
 source: sources/Sapindaceae_vol23_paddle
+countries: [Cameroon]
+in_region: true
+habit: "shrub"
 tags: [species, generated]
 ---
 # *Paullinia pinnata* Linné

@@ -7,6 +7,11 @@ family: Clusiaceae
 vol: 45
 pages: 44-46
 source: sources/Clusiaceae_vol45_liteparse
+countries: [Democratic Republic of the Congo, Gabon, Guinea, Mali]
+in_region: true
+habit: "tree"
+habitat: [primary forest]
+altitude_m: "500"
 tags: [species, generated]
 ---
 # *Pentadesma butyracea* Sabine Planche 10

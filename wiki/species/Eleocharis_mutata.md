@@ -7,6 +7,13 @@ family: Cyperaceae
 vol: 44
 pages: 133-134
 source: sources/Cyperaceae_vol44_liteparse
+countries: [Gabon]
+in_region: true
+subdivisions:
+  Gabon: [Estuaire, Ogooué-Maritime]
+habit: "herb"
+habitat: [mangrove]
+altitude_m: "1000"
 tags: [species, generated]
 ---
 # *Eleocharis mutata* (L.) Roem. & Schult. Planche 84

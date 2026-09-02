@@ -7,6 +7,12 @@ family: Arecaceae
 vol: 53
 pages: 34-41
 source: sources/Arecaceae_vol53_liteparse
+countries: [Cameroon, Democratic Republic of the Congo, Equatorial Guinea, Gabon, Nigeria, Republic of the Congo]
+in_region: true
+subdivisions:
+  Gabon: [Nyanga, Ogooué-Ivindo, Ogooué-Lolo, Ogooué-Maritime]
+habit: "liana"
+altitude_m: "100"
 tags: [species, generated]
 ---
 # *Laccosperma opacum* (G.Mann & H.Wendl.) Drude Planche 11(6–10)

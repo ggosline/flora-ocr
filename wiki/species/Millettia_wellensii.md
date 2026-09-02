@@ -7,6 +7,12 @@ family: Leguminosae
 vol: 49
 pages: 273-273
 source: sources/Millettiaspeciesfabaceae_vol49_liteparse
+countries: [Cameroon, Democratic Republic of the Congo, Gabon]
+in_region: true
+subdivisions:
+  Gabon: [Moyen-Ogooué, Ogooué-Maritime]
+habit: "liana"
+altitude_m: "50–100"
 tags: [species, generated]
 ---
 # *Millettia wellensii* De Wild.

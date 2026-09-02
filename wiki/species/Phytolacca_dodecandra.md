@@ -5,12 +5,11 @@ authority: L'Hérit.
 genus: Phytolacca
 family: Phytolaccaceae
 synonyms: []
-countries: [Gabon]
 range_note: "Tropical Africa."
-countries_incomplete: true
-in_region: true
-habit: scrambling shrub
 treatments: [{vol: 7, pages: "55–58", source: sources/Phytolaccaceae_vol7_paddle}]
+countries: [Gabon]
+in_region: true
+habit: "shrub"
 tags: [species]
 ---
 

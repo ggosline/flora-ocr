@@ -7,6 +7,12 @@ family: Leguminosae
 vol: 49
 pages: 57-57
 source: sources/Millettiaspeciesfabaceae_vol49_liteparse
+countries: [Gabon]
+in_region: true
+subdivisions:
+  Gabon: [Ogooué-Maritime]
+habit: "tree"
+habitat: [secondary forest]
 tags: [species, generated]
 ---
 # *Baphia cymosa* Breteler Planche 15

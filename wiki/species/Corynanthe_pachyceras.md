@@ -7,6 +7,9 @@ family: Rubiaceae
 vol: 12
 pages: 64-66
 source: sources/Rubiaceae_vol12_paddle
+countries: [Central African Republic, Guinea, Sierra Leone]
+in_region: false
+habit: "tree"
 tags: [species, generated]
 ---
 # *Corynanthe pachyceras* K. Schum.

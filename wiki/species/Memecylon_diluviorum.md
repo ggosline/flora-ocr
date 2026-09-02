@@ -7,6 +7,7 @@ family: Melastomataceae
 vol: 25
 pages: 121-122
 source: sources/Melastomataceae_vol25_paddle
+habit: "tree"
 tags: [species, generated]
 ---
 # *Memecylon diluviorum* Exell

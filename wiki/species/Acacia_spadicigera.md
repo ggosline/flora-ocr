@@ -7,6 +7,9 @@ family: Leguminosae
 vol: 31
 pages: 133-137
 source: sources/Leguminosae_vol31_paddle
+countries: [Gabon]
+in_region: true
+habit: "tree"
 tags: [species, generated]
 ---
 # *Acacia spadicigera* Schlechtendal & Chamisso

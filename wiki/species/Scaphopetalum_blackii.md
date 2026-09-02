@@ -7,6 +7,7 @@ family: Sterculiaceae
 vol: 02
 pages: 121-125
 source: sources/Sterculiaceae_vol02_paddle
+habit: "shrub"
 tags: [species, generated]
 ---
 # *Scaphopetalum blackii* Masters.
@@ -65,7 +66,7 @@ Thollon : 61, Ndjolé (fl. déc.-janv.).
 
 ![Scaphopetalum blackii](../sources/Sterculiaceae_vol02_paddle/figures/fig_001_p0007.png)
 
-*PL. I. — Fleurs ouvertes en long : 1, Sterculia tragacantha ♂. — 2, Eribroma oblonga ♂. — 3, Pterygota bequaertii ♂. — 4, Tarrietia densiflora ♂. — 5, Chlamydocolachlamydanta ♂. — 6, Cola acuminata ♂. — 7, Cola (Neocourtenia) mahoundensis ♂. — 8, Octolobus heteromerus ♂. — 9, Triplochiton scleroxylon. — 10, Theobroma cacao. — 11, Scaphopetalum blackii. — 12, Byttneria grossedenticulata. — 13, Nesogordonia fouassieri. — 14, Leptonychia lasiogyne. — 15, Waltheria indica.*
+*PL. I. — Flowers opened lengthwise : 1, Sterculia tragacantha ♂. — 2, Eribroma oblonga ♂. — 3, Pterygota bequaertii ♂. — 4, Tarrietia densiflora ♂. — 5, Chlamydocolachlamydanta ♂. — 6, Cola acuminata ♂. — 7, Cola (Neocourtenia) mahoundensis ♂. — 8, Octolobus heteromerus ♂. — 9, Triplochiton scleroxylon. — 10, Theobroma cacao. — 11, Scaphopetalum blackii. — 12, Byttneria grossedenticulata. — 13, Nesogordonia fouassieri. — 14, Leptonychia lasiogyne. — 15, Waltheria indica.*
 
 ![Scaphopetalum blackii](../sources/Sterculiaceae_vol02_paddle/figures/fig_023_p0123.png)
 

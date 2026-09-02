@@ -7,6 +7,7 @@ family: Apocynaceae
 vol: 59
 pages: 65-65
 source: sources/Apocynaceae_vol59_liteparse
+habit: "shrub"
 tags: [species, generated]
 ---
 # *Calocrater preussii* K.Schum. Planche 25 ; Figure 3(F-H)

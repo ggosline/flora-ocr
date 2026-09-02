@@ -7,6 +7,9 @@ family: Rubiaceae
 vol: 12
 pages: 257-260
 source: sources/Rubiaceae_vol12_paddle
+countries: [Cameroon, Gabon, Nigeria]
+in_region: true
+habit: "tree"
 tags: [species, generated]
 ---
 # *Pauridiantha floribunda* (K. Sch. et Kr.) Brem.
@@ -65,7 +68,7 @@ R. P. Trilles: 17 (probably Monts de Cristal).
 
 ![Pauridiantha floribunda](../sources/Rubiaceae_vol12_paddle/figures/fig_031_p0131.png)
 
-*PL. 25. — Placentation des Mussaendées (II Urophyllinae) : 1, Pentaloncha humilis (fruit); 2, Pauridiantha floribunda (fleur); 3, P. efferata (fl.) 4, 4' et 5, P. viridiflora (fl.) 6, P. Dewevrei (fl.) 7, P. callicarpoides (fl.) 8, P. rubens (coupe, fl.) 9, Commitheca Liebrechtsiana (fl.) 10, Poeciloralyx setiflorus (fl.) 11, Poe. Schumannii (fr.) 12, Poe. crystallinus (fl.) 13, Poe. stipulosus (fl.) 14, Stelecantha makakana (fr.) l'insertion est en U (pointillé); 15, St. cauliflora (fl.)*
+*PL. 25. — Placentation of the Mussaendeeae (II Urophyllinae) : 1, Pentaloncha humilis (fruit); 2, Pauridiantha floribunda (flower); 3, P. efferata (fl.) 4, 4' and 5, P. viridiflora (fl.) 6, P. Dewevrei (fl.) 7, P. callicarpoides (fl.) 8, P. rubens (section, fl.) 9, Commitheca Liebrechtsiana (fl.) 10, Poeciloralyx setiflorus (fl.) 11, Poe. Schumannii (fr.) 12, Poe. crystallinus (fl.) 13, Poe. stipulosus (fl.) 14, Stelecantha makakana (fr.) insertion is in U (dotted); 15, St. cauliflora (fl.)*
 
 ## Notes
 

@@ -5,16 +5,13 @@ authority: Pierre
 genus: Hua
 family: Huaceae
 synonyms: [Hua parvifolia]
-habit: shrub
-habitat: [humid dense forest]
-altitude_m: "to 420"
-countries: [Cameroon, Democratic Republic of the Congo]
-in_region: true
-countries_incomplete: true  # source gives localities but no country/province list; needs review
 treatments:
   - vol: 38
     pages: "32-33"
     source: sources/Huaceae_vol38_liteparse
+countries: [Cameroon, Democratic Republic of the Congo, Gabon]
+in_region: true
+habit: "shrub"
 tags: [species]
 ---
 

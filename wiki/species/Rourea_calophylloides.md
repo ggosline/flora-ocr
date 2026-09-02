@@ -7,6 +7,9 @@ family: Connaraceae
 vol: 33
 pages: 113-115
 source: sources/Connaraceae_vol33_paddle
+countries: [Gabon]
+in_region: true
+habit: "liana"
 tags: [species, generated]
 ---
 # *Rourea calophylloides* (Schellenberg) Jongkind
@@ -52,7 +55,7 @@ Breteler & Lemmens 8007, km 36 de Mouila à Yéno (fr., Sept.), LBV, WAG. Bretel
 
 ![Rourea calophylloides](../sources/Connaraceae_vol33_paddle/figures/fig_039_p0114.png)
 
-*PL. 33. – Rourea calophylloides (Schellenberg) Jongkind : 1, jeune rameau florifère × 2/3 ; 2, bouton floral, vue partielle montrant les pétales enroulés au sommet × 4 ; 3, fleur, vue partielle montrant les étamines et les carpelles d'une fleur brévistylée × 4 ; 4, jeune rameau avec de jeunes fruits × 2/3 ; 5, jeune follicule, côté ventral × 2/3 ; 6, follicules, l'un montrant une graine × 2 : 3 ; 7, follicules vides × 2/3 ; 8, graine avec sarcotesta (partie inf.) × 2 ; 9, cotylédon, face int. avec radicule ventrale × 2. (1-3. Le Testu 6497 ; 4-5. Breteler & al. 8007 ; 6-9. de Wilde & al. 8953). – Repris de AUWP 89 (6).*
+*PL. 33. – Rourea calophylloides (Schellenberg) Jongkind : 1, young flowering branch × 2/3 ; 2, floral bud, partial view showing petals rolled at apex × 4 ; 3, flower, partial view showing stamens and carpels of a short-styled flower × 4 ; 4, young branch with young fruits × 2/3 ; 5, young follicle, ventral side × 2/3 ; 6, follicles, one showing a seed × 2 : 3 ; 7, empty follicles × 2/3 ; 8, seed with sarcotesta (lower part) × 2 ; 9, cotyledon, inner surface with ventral radicle × 2. (1-3. Le Testu 6497 ; 4-5. Breteler & al. 8007 ; 6-9. de Wilde & al. 8953). – Reprinted from AUWP 89 (6).*
 
 ## Notes
 

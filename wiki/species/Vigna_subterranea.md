@@ -7,6 +7,10 @@ family: Leguminosae
 vol: 49
 pages: 382-384
 source: sources/Millettiaspeciesfabaceae_vol49_liteparse
+countries: [Gabon]
+in_region: true
+habit: "herb"
+altitude_m: "2000"
 tags: [species, generated]
 ---
 # *Vigna subterranea* (L.) Verdc. var. subterranea Planche 128

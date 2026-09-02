@@ -7,6 +7,9 @@ family: Connaraceae
 vol: 33
 pages: 53-57
 source: sources/Connaraceae_vol33_paddle
+countries: [Angola, Democratic Republic of the Congo, Gabon, Gambia, Sudan]
+in_region: true
+habitat: [savanna]
 tags: [species, generated]
 ---
 # *Cnestis ferruginea* Vahl ex De Candolle
@@ -85,7 +88,7 @@ Louis, Breteler & de Bruijn 573, near Achouka (fl., fr., Nov.), WAG; 692, LBV, W
 
 ![Cnestis ferruginea](../sources/Connaraceae_vol33_paddle/figures/fig_020_p0054.png)
 
-*PL. 14. – Cnestis ferruginea Vahl ex De Candolle : 1, rameau florifère × 2/3 ; 2, fleur × 6 ; 3, fleur, vue partielle montrant les carpelles × 6 ; 4, 5, étamines × 24 ; 6, follicules vus de dessus × 1 ; 7, follicules, vue latérale × 2/3 ; 8, graine × 1. (1-5. Leeuwenberg 2397; 6-8. Louis & al. 1186). – Repris de AUWP 89 (6).*
+*PL. 14. – Cnestis ferruginea Vahl ex De Candolle : 1, flowering branch × 2/3 ; 2, flower × 6 ; 3, flower, partial view showing the carpels × 6 ; 4, 5, stamens × 24 ; 6, follicles seen from above × 1 ; 7, follicles, lateral view × 2/3 ; 8, seed × 1. (1-5. Leeuwenberg 2397; 6-8. Louis & al. 1186). – Taken from AUWP 89 (6).*
 
 ## Notes
 

@@ -166,7 +166,7 @@ Fl. Gab.: 168 ; FACB 1 : 134, Pl. 11 ; FWTA : 486, 454 ; FTEA : 779 ; Gram. Cam.
 
 ![Anadelphia hack](../sources/Gramineae_vol5bis_paddle/figures/fig_001_p0018.png)
 
-*Pl. 1 – Andropogon auriculatus Stapf : 1, base de la plante ; 2, inflorescence ; 3, 4, paire d'épilets et entre-nœud. - Andropogon gayanus Kunth var. polycladus (Hack.) Clayton : 5, inflorescences ; 6, 7, paire d'épilets et entre-nœud. - Autorisation de reproduction : cf. Remerciements p. 68.*
+*Pl. 1 – Andropogon auriculatus Stapf : 1, base of the plant ; 2, inflorescence ; 3, 4, pair of spikelets and internode. - Andropogon gayanus Kunth var. polycladus (Hack.) Clayton : 5, inflorescences ; 6, 7, pair of spikelets and internode. - Reproduction authorization: cf. Acknowledgments p. 68.*
 
 ## Notes
 

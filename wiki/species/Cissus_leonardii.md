@@ -7,6 +7,7 @@ family: Vitaceae
 vol: 14
 pages: 97-98
 source: sources/Vitaceae_vol14_paddle
+habit: "liana"
 tags: [species, generated]
 ---
 # *Cissus leonardii* Dewit

@@ -7,6 +7,10 @@ family: Scytopetalaceae
 vol: 24
 pages: 126-128
 source: sources/Chrysobalanaceae_vol24_paddle
+countries: [Cameroon, Central African Republic, Democratic Republic of the Congo, Gabon, Guinea, Mali]
+in_region: true
+habit: "tree"
+habitat: [savanna]
 tags: [species, generated]
 ---
 # *Parinari congensis* F. Didrichsen
@@ -55,7 +59,7 @@ Letouzey 12492, lac Ossa oriental, 8 km WNW Edéa (fl., déc.); 13173, rive de l
 
 ![Parinari congensis](../sources/Chrysobalanaceae_vol24_paddle/figures/fig_037_p0127.png)
 
-*PL. 37. — Parinari congensis F. Didr. : 1, rameau avec fleurs × 2/3; 2, pétiole et stipules × 3; 3, feuille dessous × 4; 4, fleur × 4; 5, fleur en coupe × 5; 6, feuille, j. pl. × 2/3; 7, fruits × 2/3. (1-5, Letouzey 12492; 6, Letouzey 13173; 7, Trochain 11436, Congo).*
+*PL. 37. — Parinari congensis F. Didr. : 1, branch with flowers × 2/3; 2, petiole and stipules × 3; 3, leaf underside × 4; 4, flower × 4; 5, flower in section × 5; 6, leaf, young plant × 2/3; 7, fruits × 2/3. (1-5, Letouzey 12492; 6, Letouzey 13173; 7, Trochain 11436, Congo).*
 
 ## Notes
 

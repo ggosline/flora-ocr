@@ -7,6 +7,10 @@ family: Dichapetalaceae
 vol: 32
 pages: 169-171
 source: sources/Dichapetalaceae_vol32_paddle
+countries: [Democratic Republic of the Congo, Gabon]
+in_region: true
+habit: "shrub"
+habitat: [evergreen forest]
 tags: [species, generated]
 ---
 # *Dichapetalum staminellatum* Breteler
@@ -57,7 +61,7 @@ Breteler & van Raalte 5642, près de Gamba, S.O. du Gabon (stér., Sept.): sous 
 
 ![Dichapetalum staminellatum](../sources/Dichapetalaceae_vol32_paddle/figures/fig_050_p0170.png)
 
-*PL. 49 – Dichapetalum staminellatum Breteler : 1, jeune rameau florifère × 0,8 ; 2, fleur × 17 ; 3, fleur, détail × 17 (1-3, Robin 25). – Repris de MLW 82 (8) : 26 (1982).*
+*PL. 49 – Dichapetalum staminellatum Breteler : 1, young flowering branch × 0,8 ; 2, flower × 17 ; 3, flower, detail × 17 (1-3, Robin 25). – Taken from MLW 82 (8) : 26 (1982).*
 
 ## Notes
 

@@ -44,7 +44,7 @@ Tribu créée par Hubbard et placée au voisinage des Arundinées. Elle s'en dis
 
 ![Eleusine coracana](../sources/Gramineae_vol05_paddle/figures/fig_039_p0235.png)
 
-*PL. XXXVIII. — Eleusine coracana Gaertn. (Chevalier 7530) : 1, inflorescence. — E. indica (L.) Gaertn. (Vuillet 463) : 2, ensemble de la plante; 3, détail d'un épillet (longueur de l'épillet : 5 mm).*
+*PL. XXXVIII. — Eleusine coracana Gaertn. (Chevalier 7530) : 1, inflorescence. — E. indica (L.) Gaertn. (Vuillet 463) : 2, whole plant; 3, detail of a spikelet (spikelet length: 5 mm).*
 
 ## Notes
 

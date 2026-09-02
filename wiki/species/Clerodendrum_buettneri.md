@@ -6,6 +6,13 @@ genus: Clerodendrum
 vol: 58
 pages: 29-30
 source: sources/Labiataeulmaceaeverbenaceae_vol58_liteparse
+countries: [Angola, Cameroon, Equatorial Guinea, Gabon, Nigeria, Republic of the Congo]
+in_region: true
+subdivisions:
+  Gabon: [Estuaire, Moyen-Ogooué, Ngounié, Ogooué-Ivindo, Ogooué-Lolo, Ogooué-Maritime]
+habit: "liana"
+habitat: [mangrove, savanna, coastal]
+altitude_m: "2–400"
 tags: [species, generated]
 ---
 # *Clerodendrum buettneri* Gürke

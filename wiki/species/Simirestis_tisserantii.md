@@ -7,6 +7,8 @@ family: Celastraceae
 vol: 29
 pages: 223-225
 source: sources/Celastraceae_vol29_paddle
+countries: [Cameroon, Central African Republic, Democratic Republic of the Congo, Gabon, Ghana]
+in_region: true
 tags: [species, generated]
 ---
 # *Simirestis tisserantii* Hallé
@@ -17,15 +19,13 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 Bull. Mus. natn. Hist. nat. 30 (5) : 465 (1958) ; Bull. IFAN, sér. A, 21, 3 : tab. 55 (1959) ; Pollen & Spores 2 (1) : 10 (1960) ; Mém. IFAN 64 : 74 (1962) ; Bull. Mus. natn. Hist. nat., Paris, 4e sér., 6 B, Adansonia 1 : 8, tab. 3, fig. 4 (1984).
 
 – Loeseneriella paniculata (VAHL) Wilczek var. nigrescens Wilczek, Bull. Jard. Bot. Bruxelles 26: 406 (1956).
 
-Cette espèce est très voisine de la précédente. Elle se distingue par ses feuilles à peine ou non dentées, par ses nervures secondaires un peu moins nombreuses, 4-6 paires, et un peu plus longuement arquées ascendantes. Elle diffère surtout par ses pédicelles floraux lisses et plus longs de 1,5-4 mm ; par les lobes du calice à la fois très inégaux et réfractés ; par la forme curieuse des petales à l'anthese : le dessus est convexe bossu, la base est convolutée, un ou deux des côtés du sommet sont émarginés et déformés chez au moins 3 des 5 pétales. Enfin le style et les filets sont un peu plus longs, jusqu'à 2 mm, et les ovules sont au nombre de 12-16 par loge. Le disque est semblable à celui de l'espèce précédente.
+This species is very closely related to the preceding one. It is distinguished by its leaves scarcely or not dentate, by its secondary veins somewhat less numerous, 4–6 pairs, and somewhat more strongly ascending-arcuate. It differs especially by its floral pedicels smooth and longer, 1.5–4 mm ; by the calyx lobes both very unequal and refracted ; by the curious form of the petals at anthesis : the upper surface is convex and gibbous, the base is convolute, one or two of the sides of the apex are emarginate and deformed in at least 3 of the 5 petals. Finally the style and filaments are somewhat longer, up to 2 mm, and the ovules are 12–16 per locule. The disk is similar to that of the preceding species.
 
-Fruit à 6 valves ; graine d'environ  $ 5 \times 2 \, cm $ y compris l'aile. - Pl. 64, fig. 9-16, p. 219.
+Fruit with 6 valves ; seed approximately 5 × 2 cm including the wing. — Pl. 64, fig. 9–16, p. 219.
 
 ## Type
 
@@ -33,9 +33,7 @@ Tisserant 1268, Centrafrique (holo-, P!)
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Côte-d’Ivoire, Ghana (?), Gabon, Centrafrique et Zaïre. A rechercher au Cameroun. Espèce rare à distribution très discontinue des forêts guinéo-congolaises.
+Côte-d'Ivoire, Ghana (?), Gabon, Central African Republic and Zaïre. To be searched for in Cameroon. Rare species with very discontinuous distribution in the Guineo-Congolian forests.
 
 ## Specimens examined
 

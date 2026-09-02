@@ -7,6 +7,9 @@ family: Sapindaceae
 vol: 23
 pages: 140-140
 source: sources/Sapindaceae_vol23_paddle
+countries: [Cameroon]
+in_region: true
+habit: "tree"
 tags: [species, generated]
 ---
 # *Crossonephelis africanus* (Radlkofer) Leenhouts

@@ -7,6 +7,12 @@ family: Commelinaceae
 vol: 55
 pages: 67-68
 source: sources/Commelinaceae_vol55_liteparse
+countries: [Cameroon, Equatorial Guinea, Gabon, Republic of the Congo]
+in_region: true
+subdivisions:
+  Gabon: [Haut-Ogooué]
+habit: "herb"
+altitude_m: "960"
 tags: [species, generated]
 ---
 # *Palisota lagopus* Mildbr. Figure 4(F, G)

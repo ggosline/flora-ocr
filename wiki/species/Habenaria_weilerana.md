@@ -7,6 +7,9 @@ family: Orchidaceae
 vol: 36
 pages: 40-41
 source: sources/Orchidaceae_vol36_paddle
+countries: [Cameroon, Gabon, Nigeria]
+in_region: true
+altitude_m: "2"
 tags: [species, generated]
 ---
 # *Habenaria weilerana* Schltr.
@@ -37,7 +40,7 @@ Le Testu 5224, between Mouila and Kembélé (fl., Feb.), P!.
 
 ![Habenaria weilerana](../sources/Orchidaceae_vol36_paddle/figures/fig_014_p0042.png)
 
-*PL. 14. – Habenaria weilerana Schltr.: A, éperon, ovaire, pédicelle et bractée ; B, labelle ; C, sépale dorsal ; D, pétale ; E, sépale latéral ; F, gynostème, vue latérale ; G, vue antérieure de la partie centrale du gynostème étalé (A-G, Synnott 1962, P).*
+*PL. 14. – Habenaria weilerana Schltr.: A, spur, ovary, pedicel and bract ; B, labellum ; C, dorsal sepal ; D, petal ; E, lateral sepal ; F, gynostemium, lateral view ; G, anterior view of the central part of the spread gynostemium (A-G, Synnott 1962, P).*
 
 ## Notes
 

@@ -29,13 +29,12 @@ synonyms:
   - name: Crinum bequaertii
     authority: De Wildeman
     year: 1921
-countries: [Gabon, Guinea, Sierra Leone, Sudan, Uganda, Angola]
-in_region: true
-altitude_m: "0–1900"
 treatments:
   - vol: 28
     pages: "36–38"
     source: sources/Amaryllidaceae_vol28_paddle
+countries: [Angola, Gabon, Guinea, Sudan, Uganda]
+in_region: true
 tags: [species]
 ---
 

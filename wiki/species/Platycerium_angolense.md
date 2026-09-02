@@ -7,6 +7,9 @@ family: Polypodiaceae
 vol: 08
 pages: 202-205
 source: sources/Polypodiaceae_vol08_paddle
+countries: [Gabon, Madagascar]
+in_region: true
+habitat: [savanna]
 tags: [species, generated]
 ---
 # *Platycerium angolense* Welw. ex Hk.

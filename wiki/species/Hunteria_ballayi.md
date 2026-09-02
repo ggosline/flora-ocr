@@ -7,6 +7,7 @@ family: Apocynaceae
 vol: 59
 pages: 93-96
 source: sources/Apocynaceae_vol59_liteparse
+habit: "shrub"
 tags: [species, generated]
 ---
 # *Hunteria ballayi* Hua Planche 37 ; Figure 6(C)

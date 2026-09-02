@@ -6,6 +6,12 @@ genus: Clerodendrum
 vol: 58
 pages: 41-43
 source: sources/Labiataeulmaceaeverbenaceae_vol58_liteparse
+countries: [Angola, Cameroon, Democratic Republic of the Congo, Gabon, Nigeria, Republic of the Congo, Sao Tome and Principe, Zambia]
+in_region: true
+subdivisions:
+  Gabon: [Estuaire, Nyanga, Ogooué-Ivindo, Ogooué-Lolo, Woleu-Ntem]
+habit: "liana"
+altitude_m: "80–675"
 tags: [species, generated]
 ---
 # *Clerodendrum silvanum* Henriq. Figure 3(C, D)

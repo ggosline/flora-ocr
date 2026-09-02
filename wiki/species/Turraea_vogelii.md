@@ -7,6 +7,13 @@ family: Meliaceae
 vol: 47
 pages: 77-78
 source: sources/Meliaceae_vol47_liteparse
+countries: [Angola, Cameroon, Democratic Republic of the Congo, Equatorial Guinea, Gabon, Ghana, Nigeria, Republic of the Congo, Sao Tome and Principe, Uganda]
+in_region: true
+subdivisions:
+  Gabon: [Estuaire, Haut-Ogooué, Moyen-Ogooué, Ngounié, Ogooué-Lolo]
+habit: "liana"
+habitat: [secondary forest]
+altitude_m: "425"
 tags: [species, generated]
 ---
 # *Turraea vogelii* Hook.f. ex Benth.
@@ -16,21 +23,15 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-in Hook., Niger Fl. : 253 (1849). Arbuste sarmenteux, lianescent ou véritable liane, atteignant 20 m de longueur ; rameaux pubescents puis glabres. Feuille : pétiole 0,3–1 cm, pubérulent ; limbe elliptique à étroi tement elliptique, 4–13,5 × 1–6 cm, entier , à base cunéiforme à obtuse, à sommet acu miné ou aigu, coriace , glabre entre les nervures ; nervure primaire pubescente dessus, nervation secondaire pubescente dessous, avec une accumulation de poils à l’aisselle de la nervure primaire. Inflorescence axillaire, ombelliforme, à 5–15 fleurs ; pédoncule (10–)15–40(–70) cm , éparsement pubescent ; bractées triangulaires, 1–1,5 × 0,5–1 mm, pubescentes. Fleur : pédicelle 10–30 mm, pubescent ; calice 3,5–4 × 3–3,5 mm, à 5 ou 6 dents aiguës, très courtement pubérulent ; pétales 5 ou 6, étroitement obovales, spatulés vers le sommet, 15–20 × 3–5 mm, vaguement pubérulents à l’extérieur, blancs ; tube staminal (10–)12–16(–20) mm de longueur , glabre à l’extérieur, velu à l’intérieur, le sommet muni d’appendices filiformes géminés de 2,5–3 mm de longueur, alternant avec les 5 ou 6 anthères exsertes à connectif apiculé ; disque annuaire, 0,5 mm de hauteur, ondulé au bord, glabre ; ovaire ovoïde, 1,5 mm de diamètre, 10–12-loculaire, glabre, ; style filiforme, 18–20 mm, glabre, stigmate et réceptaculum pollinis ellipsoïdes, 5 × 2,5 mm. Fruit obovoïde à subglobuleux, 2,5–3 cm de diamètre, sillonné longitudinalement, vert foncé, s’ouvrant à 10–12 loges à parois internes orange. Graine réniforme, 6 × 4 mm, noire, muni d’un petit arille orange en forme de coussinet.
+in Hook., Niger Fl. : 253 (1849). Sarmentose shrub, lianescent or true liane, reaching 20 m in length; branches pubescent then glabrous. Leaf: petiole 0.3–1 cm, puberulent; blade elliptic to narrowly elliptic, 4–13.5 × 1–6 cm, entire, with cuneiform to obtuse base, acute to acuminate apex, coriaceous, glabrous between the veins; primary vein pubescent above, secondary venation pubescent below, with an accumulation of hairs at the axil of the primary vein. Inflorescence axillary, umbelliform, with 5–15 flowers; peduncle (10–)15–40(–70) cm, sparsely pubescent; bracts triangular, 1–1.5 × 0.5–1 mm, pubescent. Flower: pedicel 10–30 mm, pubescent; calyx 3.5–4 × 3–3.5 mm, with 5 or 6 acute teeth, very shortly puberulent; petals 5 or 6, narrowly obovate, spatulate towards the apex, 15–20 × 3–5 mm, faintly puberulent on the outside, white; staminal tube (10–)12–16(–20) mm long, glabrous on the outside, villous on the inside, the apex furnished with geminate filiform appendages 2.5–3 mm long, alternating with the 5 or 6 exsert anthers with apiculate connective; annular disc, 0.5 mm high, undulate at the margin, glabrous; ovary ovoid, 1.5 mm in diameter, 10–12-locular, glabrous; style filiform, 18–20 mm, glabrous, stigma and pollination receptacle ellipsoid, 5 × 2.5 mm. Fruit obovoid to subglobose, 2.5–3 cm in diameter, longitudinally furrowed, dark green, opening at 10–12 locules with orange inner walls. Seed reniform, 6 × 4 mm, black, furnished with a small orange aril in the form of a cushion.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Ghana, Nigéria, Cameroun, Guinée Équatoriale (y compris Bioko), Sao Tomé et Principé, Gabon, République du Congo, République Démocratique du Congo, Angola et Ouganda ; au Gabon, connue surtout de l’Estuaire, mais aussi observée dans le Haut-Ogooué, la Ngounié, le Moyen-Ogooué et l’Ogooué-Lolo
+Ghana, Nigeria, Cameroon, Equatorial Guinea (including Bioko), São Tomé and Príncipe, Gabon, Republic of the Congo, Democratic Republic of the Congo, Angola and Uganda; in Gabon, known chiefly from Estuaire, but also observed in Haut-Ogooué, Ngounié, Moyen-Ogooué and Ogooué-Lolo
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-lambeaux forestiers primaires et secondaires ; au Gabon, jusqu’à 425 m d’alti tude, ailleurs jusqu’à 1100 m. B : Staner & Gilbert (1958), Styles & White (1991). ibliographie
+Fragments of primary and secondary forest; in Gabon, up to 425 m altitude, elsewhere up to 1100 m. B : Staner & Gilbert (1958), Styles & White (1991). Bibliography
 
 ## Notes
 

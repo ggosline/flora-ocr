@@ -7,6 +7,9 @@ family: Connaraceae
 vol: 33
 pages: 72-75
 source: sources/Connaraceae_vol33_paddle
+countries: [Cameroon, Equatorial Guinea, Sao Tome and Principe, Senegal]
+in_region: true
+habitat: [savanna]
 tags: [species, generated]
 ---
 # *Connarus africanus* Lamarck
@@ -65,7 +68,7 @@ This species has not yet been collected in Gabon but its presence there is very 
 
 ![Connarus africanus](../sources/Connaraceae_vol33_paddle/figures/fig_027_p0074.png)
 
-*PL. 20. – Connarus africanus Lamarck (non récolté au Gabon) : 1, rameau florifère × 2/3 ; 2, fleur, vue partielle × 6 ; 3, follicule vu de dos × 2/3 ; 4, follicule, vue latérale × 1 ; 5, graine, coupe longitudinale × 1. (1. Bos 2574 ; 2. Bos 4896 ; 3-5. van Harten 359). – Repris de AUWP 89 (6).*
+*PL. 20. – Connarus africanus Lamarck (not collected in Gabon) : 1, flowering branch × 2/3 ; 2, flower, partial view × 6 ; 3, follicle seen from the back × 2/3 ; 4, follicle, lateral view × 1 ; 5, seed, longitudinal section × 1. (1. Bos 2574 ; 2. Bos 4896 ; 3-5. van Harten 359). – Taken from AUWP 89 (6).*
 
 ## Notes
 

@@ -7,6 +7,13 @@ family: Cyperaceae
 vol: 44
 pages: 18-19
 source: sources/Cyperaceae_vol44_liteparse
+countries: [Gabon, Senegal, Sudan, Zimbabwe]
+in_region: true
+subdivisions:
+  Gabon: [Nyanga, Ogooué-Maritime, Woleu-Ntem]
+habit: "herb"
+habitat: [rocky ground]
+altitude_m: "500"
 tags: [species, generated]
 ---
 # *Bulbostylis abortiva* (Steud.) C.B.Clarke Planche 4

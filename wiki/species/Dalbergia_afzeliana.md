@@ -7,6 +7,12 @@ family: Leguminosae
 vol: 49
 pages: 117-119
 source: sources/Millettiaspeciesfabaceae_vol49_liteparse
+countries: [Cameroon, Central African Republic, Cote d'Ivoire, Democratic Republic of the Congo, Equatorial Guinea, Gabon, Ghana, Guinea, Guinea-Bissau, Liberia, Nigeria, Republic of the Congo, Senegal, Sierra Leone, Togo]
+in_region: true
+subdivisions:
+  Gabon: [Estuaire, Haut-Ogooué, Moyen-Ogooué, Ogooué-Ivindo, Ogooué-Lolo, Woleu-Ntem]
+habit: "liana"
+altitude_m: "730"
 tags: [species, generated]
 ---
 # *Dalbergia afzeliana* G.Don var. afzeliana

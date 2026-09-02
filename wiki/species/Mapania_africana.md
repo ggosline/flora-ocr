@@ -7,6 +7,13 @@ family: Cyperaceae
 vol: 44
 pages: 164-166
 source: sources/Cyperaceae_vol44_liteparse
+countries: [Angola, Cameroon, Equatorial Guinea, Gabon]
+in_region: true
+subdivisions:
+  Gabon: [Estuaire, Moyen-Ogooué, Ngounié, Ogooué-Maritime]
+habit: "herb"
+habitat: [secondary forest]
+altitude_m: "150–500"
 tags: [species, generated]
 ---
 # *Mapania africana* Boeckeler var. africana Planche 106

@@ -7,6 +7,9 @@ family: Sapindaceae
 vol: 23
 pages: 130-132
 source: sources/Sapindaceae_vol23_paddle
+countries: [Central African Republic, Gabon]
+in_region: true
+habit: "shrub"
 tags: [species, generated]
 ---
 # *Placodiscus caudatus* Pierre ex Radlkofer
@@ -44,7 +47,7 @@ P. pynaertii De Wild. (Bull. Jard. Bot. État Bruxelles 4 : 371, 1914) and P. ri
 
 ![Placodiscus caudatus](../sources/Sapindaceae_vol23_paddle/figures/fig_030_p0131.png)
 
-*PL. 30. — Placodiscus angustifolius Radlk. (Zenker 2600) : 1, portion de feuille, foliole 4° paire 23 × 4,8 cm; 2, inflorescence, 40 cm; 2', cymules, moignons; 3, bouton, diamètre 2 mm; 3', coupe d'un bouton; 3', 3''', anthère, faces externe et interne; 4, calice épanoui, diamètre 4 mm; 4', disque et 2 filets déployés. — Placodiscus caudatus Pierre (5-6', 8', 8', Klaine 401; 6", 7", 7', Klaine 391) : 5, portion de feuille, limbe foliaire 4° paire, 20 × 8,3 cm; 6, inflorescence, 11 cm, sur vieux bois; 6', 6", rachis avec cicatrices de cymules uniflores; 7, bouton, diamètre 1,5 mm; 7', fleur, coupe partielle; 8, 8', fleur et coupe partielle (7', repris de Pierre, in sched.).*
+*PL. 30. — Placodiscus angustifolius Radlk. (Zenker 2600) : 1, portion of leaf, leaflet 4th pair 23 × 4.8 cm; 2, inflorescence, 40 cm; 2', cymules, stubs; 3, bud, diameter 2 mm; 3', section of bud; 3', 3''', anther, external and internal faces; 4, open calyx, diameter 4 mm; 4', disk and 2 deployed filaments. — Placodiscus caudatus Pierre (5-6', 8', 8', Klaine 401; 6", 7", 7', Klaine 391) : 5, portion of leaf, leaf blade 4th pair, 20 × 8.3 cm; 6, inflorescence, 11 cm, on old wood; 6', 6", rachis with scars of uniflorous cymules; 7, bud, diameter 1.5 mm; 7', flower, partial section; 8, 8', flower and partial section (7', reprinted from Pierre, in sched.).*
 
 ## Notes
 

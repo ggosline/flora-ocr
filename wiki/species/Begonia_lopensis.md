@@ -7,6 +7,10 @@ family: Begoniaceae
 vol: 39
 pages: 55-58
 source: sources/Begoniaceae_vol39_liteparse
+countries: [Gabon]
+in_region: true
+habitat: [primary forest, rocky ground]
+altitude_m: "500"
 tags: [species, generated]
 ---
 # *Begonia lopensis* Sosef & M.E.Leal

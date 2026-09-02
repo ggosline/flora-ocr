@@ -7,6 +7,8 @@ family: Celastraceae
 vol: 29
 pages: 165-166
 source: sources/Celastraceae_vol29_paddle
+countries: [Cameroon, Cote d'Ivoire, Democratic Republic of the Congo, Gabon]
+in_region: true
 tags: [species, generated]
 ---
 # *Salacia oliveriana* Loesener

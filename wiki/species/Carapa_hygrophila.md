@@ -7,6 +7,12 @@ family: Meliaceae
 vol: 47
 pages: 18-18
 source: sources/Meliaceae_vol47_liteparse
+countries: [Cameroon, Democratic Republic of the Congo, Gabon]
+in_region: true
+subdivisions:
+  Gabon: [Moyen-Ogooué]
+habit: "tree"
+altitude_m: "700"
 tags: [species, generated]
 ---
 # *Carapa hygrophila* Harms ex Engl.

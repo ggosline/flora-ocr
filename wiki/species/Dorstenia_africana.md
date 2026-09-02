@@ -7,6 +7,9 @@ family: Moraceae
 vol: 26
 pages: 33-40
 source: sources/Moraceae_vol26_paddle
+countries: [Gabon, Guinea, Nigeria, Tanzania]
+in_region: true
+habit: "shrub"
 tags: [species, generated]
 ---
 # *Dorstenia africana* (Baillon) C.C. Berg
@@ -77,11 +80,11 @@ Infrutescences vert sombre, turbinées à subglobuleuses, d'env. 7-8 mm de diam�
 
 ![Dorstenia africana](../sources/Moraceae_vol26_paddle/figures/fig_008_p0036.png)
 
-*PL. 8. – Dorstenia africana (Baill.) C.C. Berg: 1, rameau feuillé et inflorescences; 2, inflo.; 3, infrutescence (1-3, Leeuwenberg & Berg 9792, Cameroun).*
+*PL. 8. – Dorstenia africana (Baill.) C.C. Berg: 1, leafy branch and inflorescences; 2, inflorescence; 3, infructescence (1-3, Leeuwenberg & Berg 9792, Cameroon).*
 
 ![Dorstenia africana](../sources/Moraceae_vol26_paddle/figures/fig_009_p0038.png)
 
-*PL. 9. – Dorstenia kameruniana Engl.: 1, 2, rameau avec inflorescences; 3, 4, feuilles; 5, inflo.; 6, infrutescence (1, 6, Callens 3738, Zaire; 2, 5, Breteler 1296, Cameroun; 3, Le Testu 4188; 4, Sacleux 1709, Tanzanie).*
+*PL. 9. – Dorstenia kameruniana Engl.: 1, 2, branch with inflorescences; 3, 4, leaves; 5, infl.; 6, infructescence (1, 6, Callens 3738, Zaire; 2, 5, Breteler 1296, Cameroon; 3, Le Testu 4188; 4, Sacleux 1709, Tanzania).*
 
 ## Notes
 

@@ -7,6 +7,11 @@ family: Podostemaceae
 vol: 51
 pages: 52-53
 source: sources/Podostemaceae_vol51_liteparse
+countries: [Gabon]
+in_region: true
+subdivisions:
+  Gabon: [Woleu-Ntem]
+altitude_m: "1100"
 tags: [species, generated]
 ---
 # *Tristicha trifaria* (Bory ex Willd.) Spreng. Planche 23
@@ -17,27 +22,19 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-T. alternifolia (Willd.) Thouars ex Spreng., Syst. veg. 1 : 22 (1824). T. dregeana (Prest.) Tul., Ann. Sci. Nat., Bot., ,sér. 3, 11 : 111 (1849). T. australis C.Cusset & G.Cusset, Bull. Mus. natl. Hist. nat., sér. 4, Adansonia 10(2) : 171 (1988). Malacotristicha malayana (J.Dransf. & Whitmore) C.Cusset & G.Cusset, Bull. Mus. natl. Hist. nat., sér. 4, Adansonia 10(2) : 174 (1988). Plante à partie basale thalloïde peu ramifiée ; pousses à tiges de quelques millimètres à ± 5 cm de longueur. Feuille 0,4–0,6 × 0,5 mm, à sommet obtus ou parfois arrondi, devenant un peu plus étroites au sommet des pousses. Fleur : pédicelle 2–4 mm ; tépales 1–2 × 0,5–0,7 mm ; étamine à filet grêle de 2–3 mm, anthère introrse, oblongue, 0,6–0,7 mm de longueur ; ovaire sessile, ovoïde à ellipsoïde, 0,7–1 × 0,6 mm ; stigmates 0,6–0,8 mm de longueur.
+T. alternifolia (Willd.) Thouars ex Spreng., Syst. veg. 1 : 22 (1824). T. dregeana (Prest.) Tul., Ann. Sci. Nat., Bot., sér. 3, 11 : 111 (1849). T. australis C.Cusset & G.Cusset, Bull. Mus. natl. Hist. nat., sér. 4, Adansonia 10(2) : 171 (1988). Malacotristicha malayana (J.Dransf. & Whitmore) C.Cusset & G.Cusset, Bull. Mus. natl. Hist. nat., sér. 4, Adansonia 10(2) : 174 (1988). Plant with a little-branched thallose basal portion; shoots with stems a few millimetres to ± 5 cm in length. Leaf 0.4–0.6 × 0.5 mm, with an obtuse or sometimes rounded apex, becoming slightly narrower at the apex of shoots. Flower: pedicel 2–4 mm; tepals 1–2 × 0.5–0.7 mm; stamen with a slender filament 2–3 mm, anther introrse, oblong, 0.6–0.7 mm in length; ovary sessile, ovoid to ellipsoid, 0.7–1 × 0.6 mm; stigmas 0.6–0.8 mm in length.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Espèce présente sur presque tout le territoire africain, mais aussi en Amérique du Sud, en Asie et en Australie ; au Gabon, rare et connue d’une seule récolte dans la rivière Okano, au nord-est de Lalara (Woleu-Ntem)
+Species present over almost the entire African territory, but also in South America, Asia and Australia; in Gabon, rare and known from a single collection in the Okano River, northeast of Lalara (Woleu-Ntem)
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-au Gabon à ± 400 m d’altitude, ailleurs jusqu’à 1100 m
+in Gabon at ± 400 m elevation, elsewhere up to 1100 m
 
 ## Source note
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Espèce très variable où on avait délimité plusieurs sous-espèces (subsp. trifaria à large distri bution, subsp. pulchella (Wedd.) C.Cusset & G.Cusset, avec une écaille linéaire 2 à 5 fois plus longue que les autres sous la fleur et confinée à l’Afrique et subsp. tlatlayana (Matuda) C.Cusset & G.Cusset, à feuilles linéaires-oblongues et restreinte au Mexique). Quelques formes ont même été décrites comme des espèces dans des genres différents. Ici, nous suivons l’opinion de Cook & Rutishauser (2007) qui reconnaissent une seule espèce polymorphe dans le genre Tristicha. B : Cook & Rutishauser (2007), Cusset (1987b), Cusset & Cusset (1988a, 1988b), Hauman i B liographie (1948a), Taylor (1954)
+Highly variable species in which several subspecies had been delimited (subsp. trifaria with wide distribution, subsp. pulchella (Wedd.) C.Cusset & G.Cusset, with a linear scale 2 to 5 times longer than the others below the flower and confined to Africa and subsp. tlatlayana (Matuda) C.Cusset & G.Cusset, with linear-oblong leaves and restricted to Mexico). Some forms were even described as species in different genera. Here, we follow the opinion of Cook & Rutishauser (2007) who recognize a single polymorphic species in the genus Tristicha. B : Cook & Rutishauser (2007), Cusset (1987b), Cusset & Cusset (1988a, 1988b), Hauman (1948a), Taylor (1954)
 
 46 Jean-Paul GHOGUE
 

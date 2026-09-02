@@ -7,6 +7,11 @@ family: Apocynaceae
 vol: 59
 pages: 40-40
 source: sources/Apocynaceae_vol59_liteparse
+countries: [Angola, Burundi, Gabon, Guinea]
+in_region: true
+subdivisions:
+  Gabon: [Estuaire, Haut-Ogooué, Nyanga, Ogooué-Lolo, Ogooué-Maritime, Woleu-Ntem]
+habit: "liana"
 tags: [species, generated]
 ---
 # *Ancylobothrys scandens* (Schumach.) Pichon Planche 13 ; Figure 2(B)

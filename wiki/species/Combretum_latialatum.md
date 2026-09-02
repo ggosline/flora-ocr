@@ -7,6 +7,9 @@ family: Combretaceae
 vol: 35
 pages: 56-59
 source: sources/Combretaceae_vol35_paddle
+countries: [Angola, Ghana]
+in_region: true
+habit: "liana"
 tags: [species, generated]
 ---
 # *Combretum latialatum* Engler ex Engler & Diels
@@ -69,7 +72,7 @@ Thomas & Wilks 6419, Komi, 1°04'S-10°48'E (fl., fr., Juin), K, MO, WAG.
 
 ![Combretum latialatum](../sources/Combretaceae_vol35_paddle/figures/fig_015_p0058.png)
 
-*PL. 15. – Combretum latialatum Engler & Diels : A, rameau florifère × 1/2 ; B, fleur × 5 ; C, fleur en coupe longitudinale ; D, rameau fructifère × 1/2 ; E, fruit × 1 (A-C, Evrard 3311 ; D, E, Goossens 1606). – Dessins de D. Coppin reproduits avec l'autorisation du Département des Spermatophytes et Pteridophytes du Jardin Botanique National de MEISE (Belgique).*
+*PL. 15. – Combretum latialatum Engler & Diels : A, flowering branch × 1/2 ; B, flower × 5 ; C, flower in longitudinal section ; D, fruiting branch × 1/2 ; E, fruit × 1 (A-C, Evrard 3311 ; D, E, Goossens 1606). – Drawings by D. Coppin reproduced with the permission of the Department of Spermatophytes and Pteridophytes of the National Botanical Garden of MEISE (Belgium).*
 
 ## Notes
 

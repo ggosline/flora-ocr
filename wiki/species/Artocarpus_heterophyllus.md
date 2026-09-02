@@ -7,6 +7,7 @@ family: Moraceae
 vol: 26
 pages: 27-27
 source: sources/Moraceae_vol26_paddle
+habit: "tree"
 tags: [species, generated]
 ---
 # *Artocarpus heterophyllus* Lamarck

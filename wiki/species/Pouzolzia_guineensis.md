@@ -7,6 +7,13 @@ family: Urticaceae
 vol: 51
 pages: 74-76
 source: sources/Urticaceae_vol51_liteparse
+countries: [Angola, Cameroon, Central African Republic, Cote d'Ivoire, Democratic Republic of the Congo, Gabon, Ghana, Liberia, Nigeria, Senegal, Sierra Leone, Tanzania]
+in_region: true
+subdivisions:
+  Gabon: [Estuaire, Ngounié, Ogooué-Ivindo]
+habit: "herb"
+habitat: [savanna, evergreen forest]
+altitude_m: "70–500"
 tags: [species, generated]
 ---
 # *Pouzolzia guineensis* Benth. Planche 28

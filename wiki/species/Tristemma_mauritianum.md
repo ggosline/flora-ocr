@@ -7,6 +7,7 @@ family: Melastomataceae
 vol: 25
 pages: 50-52
 source: sources/Melastomataceae_vol25_paddle
+habit: "shrub"
 tags: [species, generated]
 ---
 # *Tristemma mauritianum* J.-F. Gmelin
@@ -17,13 +18,11 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Perennial herb or shrub; young branches robust, herbaceous, distinctly winged and strigose. Leaves with petiole 2 to 5 cm, flattened-margined, setulose; blade 4–12 × 7–18 cm, ovate-elliptic, rounded or broadly cuneate at base, acute to subacuminate at apex; appressed hairs above, often of 2 forms below: short and hispid on the blade, longer, hispid or appressed, on the veins; 5–7 veins; margins entire to obscurely serrate.
 
-Herbe pluriannuelle ou arbrisseau; jeunes rameaux robustes, herbacés, nettement ailés et strigilleux. Feuilles à pétiole de 2 à 5 cm, aplatimarginé, sétuleux; limbe 4-12 × 7-18 cm, ovale-elliptique, arrondi ou largement en coin à la base, aigu à subacuminé au sommet; poils apprimés dessus, souvent de 2 formes dessous : courts et hérissés sur le limbe plus longs, hérissés ou appliqués, sur les nervures; 5-7 nervures; marges entières à obscurément serretées.
+Glomerules voluminous; outer bracts foliaceous, floral bracts broadly ovate, densely setulose on the uncompressed dorsal parts, equalling two-thirds or three-quarters of the hypanthia. Flower compressed in the glomerule; hypanthium campanulate, ± 6 × 12 mm, bearing 2 to 3 (5) well-spaced membranociliate rings, the upper one generally situated high, with a membrane 2 mm, the underlying ones with progressively narrower membrane, yellowish cilia 1 to 2 mm; sepals triangular, 2.5 × 5 mm, distinctly ciliate. Petals poorly developed, 5 × 9 mm, obtriangu­lar-obovate, ciliate towards the apex, pink, mauve or purple. Stamens with anther 3–4 mm; pedo-connective 0.5 mm, appendages of the same length, oblong, erect; filament ± 4 mm. Ovary with convex apex, scabérulous to strigose; peri-stylar rim obtuse and glabrous, more rarely thin and ciliate.
 
-Glomérules volumineux ; bractées externes foliacées, bractées florales largement ovales, densément sétuleuses sur les parties dorsales non comprimées, égales aux 2/3 ou 3/4 des hypanthes. Fleur comprimée dans le glomérule; hypanthe campanulé, ± 6 × 12 mm, porte 2 à 3 (5) anneaux membranociliés bien espacés, le supérieur généralement situé haut, avec une membrane de 2 mm, les sous-jacents avec une membrane de plus en plus étroite, cils jaunâtres de 1 à 2 mm; sépales triangulaires, 2,5 × 5 mm, nettement ciliés. Pétales peu développés, 5 × 9 mm, obtriangulaires-obovales, ciliés vers le haut, roses, mauves ou pourpres. Étamines à anthère de 3-4 mm; pédo-connectif 0,5 mm, appendices de même longueur, oblongs, dressés; filet ± 4 mm. Ovaire à sommet convexe, scabérulé à strigilleux; bourrelet péri-style obtus et glabre, plus rarement mince et cilié.
-
-Baie jusqu'à  $ 13 \times 20 $ mm, ellipsoïde et souvent déformée par compression. — Pl. 16, p. 47.
+Berry up to 13 × 20 mm, ellipsoid and often deformed by compression. — Pl. 16, p. 47.
 
 ## Type
 
@@ -31,9 +30,7 @@ Commerson, île Maurice (P)
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Espèce guinéo-congolaise avec pénétrations dans les Régions soudanienne et zambézienne, et extension jusqu'aux Mascareignes. C'est l'espèce la plus répandue; est favorisée par les défrichements forestiers; elle présente une large variabilité.
+Guineo-Congolian species with penetrations into the Sudanian and Zambezian Regions, and extension to the Mascarenes. It is the most widespread species; it is favored by forest clearings; it exhibits wide variability.
 
 ## Specimens examined
 
@@ -59,7 +56,7 @@ Sita 626, Franceville, chutes Poubara (fév.).
 
 ![Tristemma mauritianum](../sources/Melastomataceae_vol25_paddle/figures/fig_016_p0049.png)
 
-*PL. 16. — Tristemma mauritianum J.-F. Gmel. : 1, sommité avec deux glomérules × 2/3; 2, face inférieure de feuille montrant le type de l'indument × 2; 3, fruit en coupe iongitudinale × 4; 4, face dorsale d'un sépale × 4; 5, étamines de profil et de face × 6; 6, style × 6 (Jacques-Félix 2263 bis). (Repris du Bull. Mus. natn. Hist. nat., Paris, sér. 3, Bot., 28 : tab. 3, 1976).*
+*PL. 16. — Tristemma mauritianum J.-F. Gmel. : 1, summit with two glomerules × 2/3; 2, lower surface of leaf showing the type of indumentum × 2; 3, fruit in longitudinal section × 4; 4, dorsal face of a sepal × 4; 5, stamens from profile and face × 6; 6, style × 6 (Jacques-Félix 2263 bis). (Taken from Bull. Mus. natn. Hist. nat., Paris, ser. 3, Bot., 28 : tab. 3, 1976).*
 
 ## Notes
 

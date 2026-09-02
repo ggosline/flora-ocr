@@ -6,6 +6,7 @@ family: Leguminosae
 vol: 31
 pages: 70-71
 source: sources/Leguminosae_vol31_paddle
+habit: "liana"
 tags: [species, generated]
 ---
 # *Pseudoprosopis harms*

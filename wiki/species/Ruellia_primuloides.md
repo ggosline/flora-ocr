@@ -7,6 +7,9 @@ family: Acanthaceae
 vol: 13
 pages: 16-17
 source: sources/Acanthaceae_vol13_paddle
+countries: [Cameroon, Cote d'Ivoire, Equatorial Guinea, Ghana, Guinea, Liberia, Nigeria, Sierra Leone, Togo]
+in_region: true
+habit: "shrub"
 tags: [species, generated]
 ---
 # *Ruellia primuloides* (T. Anders. ex Benth.) Heine, comb. nov.

@@ -16,13 +16,11 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 69.1 Vossia cuspidata (Roxb.) Griff.
 
-Fl. Gab.: 120, Pl. 19 ; FACB 1 : 50 ; FWTA : 502, fig. 459 ; FTEA : 832, fig. 193 ; Gram. Cam. : 522, Pl. 115 ; Poac. CI. : 638, 639 ; Gram. CB. : 324, fig. 40.
+Fl. Gab.: 120, Pl. 19 ; FACB 1 : 50 ; FWTA : 502, fig. 459 ; FTEA : 832, fig. 193 ; Gram. Cam. : 522, Pl. 115 ; Poac. Cl. : 638, 639 ; Gram. CB. : 324, fig. 40.
 
-Genre Introduit
+Genus Introduced
 
 $ ^{*} $70. Zoysia Willd.
 
@@ -32,7 +30,7 @@ FWTA : 413 ; FTEA : 392.
 
 70.1a. var. pacifica Goudswaard
 
-- Zoysia tenuifolia auct. non Thiele : Poac. CI. : 220, 221.
+- Zoysia tenuifolia auct. non Thiele : Poac. Cl. : 220, 221.
 
 ## Specimens examined
 

@@ -7,6 +7,9 @@ family: Erythroxylaceae
 vol: 21
 pages: 56-57
 source: sources/Erythroxylaceae_vol21_paddle
+countries: [Cameroon, Gabon]
+in_region: true
+habit: "tree"
 tags: [species, generated]
 ---
 # *Aneulophus africanus* Bentham

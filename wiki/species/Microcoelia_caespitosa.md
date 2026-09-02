@@ -7,6 +7,8 @@ family: Orchidaceae
 vol: 37
 pages: 139-143
 source: sources/Orchidaceae_vol37_paddle
+countries: [Cameroon, Central African Republic, Cote d'Ivoire, Democratic Republic of the Congo, Equatorial Guinea, Gabon, Ghana, Liberia, Nigeria, Sierra Leone, Uganda]
+in_region: true
 tags: [species, generated]
 ---
 # *Microcoelia caespitosa* (Rolfe) Summerh.
@@ -74,7 +76,7 @@ Genus of two species represented in tropical Africa of which one in Gabon.
 
 ![Microcoelia caespitosa](../sources/Orchidaceae_vol37_paddle/figures/fig_062_p0141.png)
 
-*PL. 168. – Microcoelia caespitosa (Rolfe) Summerh. : A, fleur et bractée ; B, labelle ; C, labelle, partie basale de l'éperon avec le sépale latéral ; D, sépale dorsal ; E, pétale ; F, gynostème, vue latérale (A-F, Tisserant 2629, P).*
+*PL. 168. – Microcoelia caespitosa (Rolfe) Summerh. : A, flower and bract ; B, labellum ; C, labellum, basal part of the spur with the lateral sepal ; D, dorsal sepal ; E, petal ; F, gynosteme, lateral view (A-F, Tisserant 2629, P).*
 
 ![Microcoelia caespitosa](../sources/Orchidaceae_vol37_paddle/figures/fig_063_p0142.png)
 

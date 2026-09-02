@@ -7,6 +7,12 @@ family: Commelinaceae
 vol: 55
 pages: 38-38
 source: sources/Commelinaceae_vol55_liteparse
+countries: [Cote d'Ivoire, Equatorial Guinea, Gabon, Guinea, Guinea-Bissau, Liberia, Nigeria, Republic of the Congo, Senegal, Sierra Leone]
+in_region: true
+subdivisions:
+  Gabon: [Ogooué-Maritime]
+habit: "herb"
+altitude_m: "100"
 tags: [species, generated]
 ---
 # *Floscopa aquatica* Hua

@@ -7,6 +7,11 @@ family: Apocynaceae
 vol: 59
 pages: 79-79
 source: sources/Apocynaceae_vol59_liteparse
+countries: [Gabon, Nigeria]
+in_region: true
+subdivisions:
+  Gabon: [Ogooué-Ivindo]
+habit: "liana"
 tags: [species, generated]
 ---
 # *Dictyophleba lucida* (K.Schum.) Pierre

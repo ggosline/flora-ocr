@@ -7,6 +7,11 @@ family: Moraceae
 vol: 26
 pages: 49-60
 source: sources/Moraceae_vol26_paddle
+countries: [Cameroon, Democratic Republic of the Congo, Gabon, Nigeria]
+in_region: true
+habit: "herb"
+habitat: [riverine, coastal]
+altitude_m: "100"
 tags: [species, generated]
 ---
 # *Dorstenia mannii* Hooker f.
@@ -197,13 +202,13 @@ Inflorescences solitaires. Pédoncule long de 10-25 mm. Réceptacle de 7-12 mm d
 
 ![Dorstenia mannii](../sources/Moraceae_vol26_paddle/figures/fig_014_p0054.png)
 
-*PL. 14. – Dorstenia mannii Hook. f. var. mannii (groupe 1): 1, portion de tige; 2, 3, inflorescences; 4, fleur staminée; 5, fleur pistillée (1, 4, 5, Leeuwenberg 6913, Cameroun; 2, Bos 6743, Cameroun; 3, Bos 3773, Cameroun). – var. mannii (groupe 2): 6, inflorescence (Bos 6393, Cameroun). – var. alternans (Engl.) Hijman: 7, partie sup. de la tige; 8, inflo. (7-8, Bos 3851, Cameroun). – var. mungensis (Engl.) Hijman: 9, 9, partie sup. des tiges; 10-12, feuilles (9, 9, Bos 3318, Cameroun; 10, Leeuwenberg 6436, Cameroun; 11, Zenker 984, Cameroun; 12, Bos 5515, Cameroun).*
+*PL. 14. – Dorstenia mannii Hook. f. var. mannii (group 1): 1, stem portion; 2, 3, inflorescences; 4, staminate flower; 5, pistillate flower (1, 4, 5, Leeuwenberg 6913, Cameroon; 2, Bos 6743, Cameroon; 3, Bos 3773, Cameroon). – var. mannii (group 2): 6, inflorescence (Bos 6393, Cameroon). – var. alternans (Engl.) Hijman: 7, upper part of the stem; 8, infl. (7-8, Bos 3851, Cameroon). – var. mungensis (Engl.) Hijman: 9, 9, upper part of the stems; 10-12, leaves (9, 9, Bos 3318, Cameroon; 10, Leeuwenberg 6436, Cameroon; 11, Zenker 984, Cameroon; 12, Bos 5515, Cameroon).*
 
 ![Dorstenia mannii](../sources/Moraceae_vol26_paddle/figures/fig_015_p0058.png)
 
 ![Dorstenia mannii](../sources/Moraceae_vol26_paddle/figures/fig_016_p0058.png)
 
-*PL. 15. - Dorstenia mannii Hook. f. var. stipulata (Rendle) Hijman : 1, partie sup. de la tige ; 2, inflo. (Hallé N. & Villiers J.-F. 4584). - var. humilis (Hijman & C.C. Berg) Hijman : 3, port ; 4, 5, inflo. (3, Bos 6758, Cameroun ; 4, Bos 3410, Cameroun ; 5, Bos 6565, Cameroun).*
+*PL. 15. - Dorstenia mannii Hook. f. var. stipulata (Rendle) Hijman : 1, upper part of the stem ; 2, inflo. (Hallé N. & Villiers J.-F. 4584). - var. humilis (Hijman & C.C. Berg) Hijman : 3, habit ; 4, 5, inflo. (3, Bos 6758, Cameroon ; 4, Bos 3410, Cameroon ; 5, Bos 6565, Cameroon).*
 
 ## Notes
 

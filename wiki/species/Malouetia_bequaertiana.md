@@ -7,6 +7,11 @@ family: Apocynaceae
 vol: 59
 pages: 161-163
 source: sources/Apocynaceae_vol59_liteparse
+countries: [Gabon]
+in_region: true
+habit: "tree"
+habitat: [riverine]
+altitude_m: "100–510"
 tags: [species, generated]
 ---
 # *Malouetia bequaertiana* Woodson Planche 73 ; Figure 8(F, G)

@@ -7,6 +7,12 @@ family: Rhizophoraceae
 vol: 47
 pages: 107-109
 source: sources/Rhizophoraceae_vol47_liteparse
+countries: [Cameroon, Democratic Republic of the Congo, Gabon]
+in_region: true
+subdivisions:
+  Gabon: [Ngounié, Woleu-Ntem]
+habit: "tree"
+altitude_m: "200–600"
 tags: [species, generated]
 ---
 # *Cassipourea schizocalyx* C.H.Wright

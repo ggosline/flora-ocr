@@ -7,6 +7,8 @@ family: Orchidaceae
 vol: 36
 pages: 65-67
 source: sources/Orchidaceae_vol36_paddle
+countries: [Cameroon, Equatorial Guinea, Gabon, Ghana, Liberia, Sierra Leone]
+in_region: true
 tags: [species, generated]
 ---
 # *Cheirostylis divina* (Guinea) Summerh.
@@ -49,7 +51,7 @@ NB. The variety ochyrae Szlach. & Olsz., FCAM 1: 252 (1998). – Lower part of t
 
 ![Cheirostylis divina](../sources/Orchidaceae_vol36_paddle/figures/fig_027_p0066.png)
 
-*PL. 27. – Cheirostylis divina (Guinea) Summerh. var. divina : A, labelle ; B, sépales et pétale. – Ch. lepida (Rchb.f.) Rolfe: C, vue générale ; D, feuille ; E, labelle ; F, sépales et pétale. (A, B, Hallé 2869bis, P ; C, ex GEERINCK, 1984, modifié ; D-F, Schlechter 12845, P).*
+*PL. 27. – Cheirostylis divina (Guinea) Summerh. var. divina : A, labellum ; B, sepals and petal. – Ch. lepida (Rchb.f.) Rolfe: C, general view ; D, leaf ; E, labellum ; F, sepals and petal. (A, B, Hallé 2869bis, P ; C, ex GEERINCK, 1984, modified ; D-F, Schlechter 12845, P).*
 
 ![Cheirostylis divina](../sources/Orchidaceae_vol36_paddle/figures/fig_121_p0220.png)
 

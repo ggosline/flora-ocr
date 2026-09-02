@@ -7,6 +7,7 @@ family: Bignoniaceae
 vol: 27
 pages: 49-51
 source: sources/Bignoniaceae_vol27_paddle
+habit: "tree"
 tags: [species, generated]
 ---
 # *Crescentia cujete* Linné
@@ -33,7 +34,7 @@ Although no collection from Gabon has been seen, it is probable that it occurs t
 
 ![Crescentia cujete](../sources/Bignoniaceae_vol27_paddle/figures/fig_011_p0050.png)
 
-*PL. 11. - Crescentia cujete L.: 1, rameau feuille × 0,33; 2, fruit × 0,33 (1, Sintenis 6546, Porto-Rico; 2, s. col. s.n.). - Pyrostegia venusta (Ker.) Miers: 3, rameau fleuri × 0,66 (Dang 198 $ 367 Cameroun). - Tecomaria capensis (Thunb.) Spach: 4, rameau fleuri × 0,66 (Dang 437, Cameroun). (Repris de la Flore du Cameroun 27: tab. 16, 1984).*
+*PL. 11. - Crescentia cujete L.: 1, leafy branch × 0.33; 2, fruit × 0.33 (1, Sintenis 6546, Puerto-Rico; 2, s. col. s.n.). - Pyrostegia venusta (Ker.) Miers: 3, flowering branch × 0.66 (Dang 198 $ 367 Cameroon). - Tecomaria capensis (Thunb.) Spach: 4, flowering branch × 0.66 (Dang 437, Cameroon). (Taken from Flora of Cameroon 27: tab. 16, 1984).*
 
 ## Notes
 

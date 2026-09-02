@@ -7,6 +7,10 @@ family: Scytopetalaceae
 vol: 24
 pages: 172-176
 source: sources/Scytopetalaceae_vol24_paddle
+countries: [Cameroon, Equatorial Guinea, Gabon, Nigeria]
+in_region: true
+habit: "liana"
+habitat: [coastal, evergreen forest]
 tags: [species, generated]
 ---
 # *Rhaptopetalum coriaceum* Oliver
@@ -53,7 +57,7 @@ Le Testu 8621, Mt. Iboundji, 90 km NNW Mbigou, soit 120 km NE Mouila (fl., déc.
 
 ![Rhaptopetalum coriaceum](../sources/Scytopetalaceae_vol24_paddle/figures/fig_048_p0175.png)
 
-*PL. 48. — Rhaptopetalum coriaceum Oliv. : 1, rameau avec fleurs × 4/9; 2, bouton floral × 10/3; 3, coupe long. fl. × 20/3; 4, rameau avec j. fruits × 8/3; 5, fruit × 2. (1, 3, Letouzey 15015; 2, Mann 1443, Fernando Po; 4, Le Testu 8621; 5, d'après dessin de Pierre, P).*
+*PL. 48. — Rhaptopetalum coriaceum Oliv. : 1, branch with flowers × 4/9; 2, floral bud × 10/3; 3, long. section fl. × 20/3; 4, branch with young fruits × 8/3; 5, fruit × 2. (1, 3, Letouzey 15015; 2, Mann 1443, Fernando Po; 4, Le Testu 8621; 5, after drawing by Pierre, P).*
 
 ## Notes
 

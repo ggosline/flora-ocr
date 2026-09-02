@@ -7,6 +7,9 @@ family: Annonaceae
 vol: 16
 pages: 0-0
 source: sources/Annonaceae_vol16_mineru
+countries: [Angola, Sudan]
+in_region: true
+habit: "tree"
 tags: [species, generated]
 ---
 # *Xylopia parviflora* (A. Rich.) Bentham
@@ -24,15 +27,13 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+,p.p.,cxcl.specim.Mann 914 (fl.). - Oliver,F.T.A.1 :31 (1868),p.p.,—Vallot,Bull. Soc.Bot.Fr.29 : 219 (1882).-- Engler et Diels in Engl.,Monogr. Afr. Pflanzenf.6 :64 (1901),p.p.— Keay,F.W.T.A.,ed.2,I,I :41 (1954).— Tisserant et Sillans,Not. Syst.15 (3):345 (1958).— Aubrévile,F.F.C.I.,ed. 2,I : 138 (1960).- Keay et al.,Nigerian trees I :38 (1960),— Berhaut, Fl. Sénég.,ed. 2 : 249 (1967),non Spruce, Journ. Linn. Soc.Bot. 5 : 6 (1861),nomen.
 
-,p.p.,cxcl.specim.Mann 914 (fl.). - Oliver,F.T.A.1 :31 (1868),p.p.,—Vallot,Bull. Soc.Bot.Fr.29 : 219 (1882).-- Engler et Diels in Engl.,Monogr. Afr. Pflanzenf.6 :64 (1901),p.p.— Keay,F.W.T.A.,ed.2,I,I :4I (1954).— Tisserant et Sillans,Not. Syst.15 (3):345 (1958).— Aubrévile,F.F.C.I.,cd. 2,I : 138 (196o).- Keay et al.,Nigerian trces I :38 (1g6o),— Berhaut, Fl. Sénég.,ed. 2 : 249 (1967),non Spruce, Journ. Linn. Soc.Bot. 5 : 6 (1861),nomen.
+Shrub generally 4-5 m in height, very much branched, with dense and drooping foliage, or small tree reaching 20 m in height and 60 cm in diameter, with a short trunk and numerous branches. Bark brown, fibrous, with orange section. Branchlets glabrous, covered with small lenticels, twigs puberulent. Leaves with petiole 3-6 mm long, puberulent; blade subcoriaceous, ovate, ovate-elliptic to elliptic-oblong, 3-8.5 cm long, 1-3 cm wide, obtuse to rounded at the base, obtuse to attenuate-acuminate at the apex; upper surface glabrous with midrib ± pubescent, lower surface appressed-pubescent. Lateral veins 6-12 pairs, barely visible.
 
-Arbuste généralement de 4-5 m de hauteur, tres rameux, â feuillage touffu et retombant,ou petit arbre atteignant 2o m de hauteur et 6o cm de diamétre,á tronc court,et nombreuses branches.Ecorce brune,fibreuse,ä section orangée.Rameaux glabres, couverts de petites lenticelles,ramilles pubérulentes. Feuilles a pétiole long de 3-6 mm,pubérulent; limbe subcoriace, ové,ové-elliptique a elliptique-oblong,long de 3-8,5 cm,large de 1-3 cm,obtus ä arrondi ä la base, obtus ä atténué-acuminé au sommet; face supérieure glabre ä nervure médiane ± pubescente, face inférieure apprimée-pubescente. Nervures latérales 6-12 paires, peu visibles.
+Flowers yellowish-green, axillary, solitary or 2-3 fascicled, with slender pedicel, 7-15 mm long, puberulent to glabrescen. Bracteoles 2-3, small, ovate, approximately 1 mm long, pubescent-appressed on the outside, glabrous on the inside. Floral buds linear-lanceolate. Sepals green, ovate, 2-3 mm long, 1.5-2 mm wide, acute at the apex, puberulent on the outside. Petals narrowly linear, yellowish-green, red at the base; the outer ones 2-5 cm long, 4-6 mm wide, enlarged at the base, tomentose on the outside, puberulent on the inside but glabrous at the base; the inner ones shorter, 1.5-3.5 cm long, with auriculate base above the claw, tomentose on the outside and on the inside except on the claw. External staminodes cuneiform, 1-1.2 mm long, internal staminodes shorter, 0.6-0.7 mm long. Stamens linear, 1.5 mm long, the innermost inserted on an extension of the receptacle surrounding the ovaries, connectives dilated above the anthers. Carpels 4-6, 6-8 mm long, ovaries oblong, 1-1.2 mm long, rusty pubescent, styles linear, whitish, 6-7 mm long, glabrous, adpressed to one another. 8-10 ovules in two rows.
 
-Fleurs vert jaunatre,axillaires,solitaires ou 2-3 fasciculées, a pédicelle grele, long de 7-l5 mm,pubérulent á glabrescent. Bractéoles 2-3,petites,ovées,longues de I mm environ,pubescentes-apprimées âl'extérieur,glabres äl'intérieur.Boutons floraux linéaires-lancéoles. Sépales verts,oves, longs de 2-3 mm, larges de 1,5-2 mm,aigus au sommet,pubérulents á l'extérieur. Pétales étroitement linéaires,vert jaunatre,rouges ä la base; les externes longs de 2-5 cm,larges de 4-6 mm,élargis a la base, tomenteux ä 'extérieur,pubérulents á l'intérieur mais glabres á la base; les internes plus courts, longs de 1,5-3,5 cm,a base auriculée au-dessus de Ponglet,tomenteux ä l'extérieur et á l'intérieur sauf sur l'onglet. Staminodes externes cunéiformes, longs de 1-1,2 mm,staminodes internes plus courts, longs de o,6-o,7 mm. Etamines linéaires,longues de 1,5 mm,les plus internes insériees sur un prolongement du réceptacle entourant les ovaires,connectifs dilatés au-dessus des antheres.Carpelles 4-6,longs de 6-8 mm, ovaires oblongs,longs de I-1,2 mm,pubescents roux,styles linéaires,blanchatres, longs de 6-7 mm,glabres,accolés les uns aux autres.8-1o ovules biséries.
-
-Fruits á pédicelle long de I-1,5 cm; méricarpes verts, subsessiles, cylindriques-oblongs, longs de 2-4 cm, larges de 1,3- 1,5 cm,obtus au sommet,légerement étranglés entre les graines et ± coteles longitudinalement, dehiscents, rouges a l'intérieur. Graines horizontales, bisériees,ellpsoides-réniformes,longues de 1-1,3 cm,larges de o,6-o,7 cm, vertes.
+Fruits with pedicel 1-1.5 cm long; mericarps green, subsessile, cylindric-oblong, 2-4 cm long, 1.3-1.5 cm wide, obtuse at the apex, slightly constricted between the seeds and ± longitudinally ribbed, dehiscent, red on the inside. Seeds horizontal, in two rows, ellipsoid-reniform, 1-1.3 cm long, 0.6-0.7 cm wide, green.
 
 ## Type
 
@@ -40,17 +41,13 @@ Perrottet 7, Casamance, pres de Maloum, Sénégal (holotype P!)
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Species very closely related to X. katangensis De Wild., whose distribution range is much more limited; it is distinguished from it by the shorter petiole of the leaves, the leaves less acute at the base, the longer pedicel of the flowers, the styles almost twice as long and the mericarps longitudinally ribbed.
 
-Espéce tres afine de X. katangensis De Wild., dont l'aire de répartition est beaucoup plus limitée;elle s'en distingue par le pétiole des feuilles plus court,les feuilles moins aigues a la base, le pédicelle des fleurs plus long, les styles presque deux fois plus longs et les méricarpes cotelés longitudinalement.
+Very widely distributed in Africa, from the Casamance to Anglo-Egyptian Sudan to the east, and southward to Angola and Northern Rhodesia.
 
-Tres largement répandue en Afrique,de la Casamance au
+Rather frequent and abundant along river banks, in forest galleries and on islands.
 
-Soudan anglo-égyptien ä l'est,et vers le sud a 'Angola et ä la Rhodésie du Nord.
-
-Assez fréquente et abondante au bord des rivieres,dans les galeries forestieres et dans les iles.
-
-Le bois dur est employé dans les constructions; les fruits poivres sont comestibles.
+The hard wood is used in construction; the peppery fruits are edible.
 
 ## Vernacular names
 

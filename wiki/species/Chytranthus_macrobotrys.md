@@ -7,6 +7,10 @@ family: Sapindaceae
 vol: 23
 pages: 113-114
 source: sources/Sapindaceae_vol23_paddle
+countries: [Ghana, Nigeria]
+in_region: true
+habit: "shrub"
+habitat: [riverine]
 tags: [species, generated]
 ---
 # *Chytranthus macrobotrys* (Gilg) Exell & Mendonça
@@ -57,7 +61,7 @@ Trilles 22, Monts de Cristal, riv. Udzemé (j. fr.).
 
 ![Chytranthus macrobotrys](../sources/Sapindaceae_vol23_paddle/figures/fig_027_p0115.png)
 
-*PL. 27. — Chytranthus macrobotrys (Gilg) Exell & Mendonça : 1, foliole × 0,75; 2, sommet du rachis foliaire; 3, inflorescence de petite taille × 0,75; 4, bouton, 7 mm de diamètre, 5, bouton de «décoiffé» en vue apicale; 6, fleur de 8 mm de diamètre; 7 à 9, pétale de 8,5 et 7 mm; 8' et 8" variation des appendicules (ligules vues par la face abaxiale); 10, disque, diam. 5,5 mm; 11, étamine de 7 mm; 12, anthère de 2 mm profil et verso (α, détail de la surface du connectif); 13, id. en coupe transversale; 14, coupes d'ovaire avorté, diamètre 0,8 mm; 15, ovaire de fleur ♀, haut de 9 mm et coupe, diamètre 5,5 mm (N. Hallé 3594 : 1, 3, 8, 13; N. H. 3336 : 4, 10; N. H. 3573 : 2, 6, 7, 14; N. H. 4593; 9, 11; N. Hallé & A. Le Thomas 98 : 5, 12; Farron 4917 : 15).*
+*PL. 27. — Chytranthus macrobotrys (Gilg) Exell & Mendonça : 1, leaflet × 0.75; 2, apex of the leaf rachis; 3, inflorescence of small size × 0.75; 4, bud, 7 mm in diameter, 5, bud "uncapped" in apical view; 6, flower 8 mm in diameter; 7 to 9, petal 8.5 and 7 mm; 8' and 8" variation of the appendages (ligules viewed from the abaxial surface); 10, disk, diam. 5.5 mm; 11, stamen 7 mm; 12, anther 2 mm profile and back (α, detail of the connective surface); 13, id. in transverse section; 14, sections of aborted ovary, diameter 0.8 mm; 15, ovary of ♀ flower, height 9 mm and section, diameter 5.5 mm (N. Hallé 3594 : 1, 3, 8, 13; N. H. 3336 : 4, 10; N. H. 3573 : 2, 6, 7, 14; N. H. 4593; 9, 11; N. Hallé & A. Le Thomas 98 : 5, 12; Farron 4917 : 15).*
 
 ## Notes
 

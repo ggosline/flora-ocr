@@ -7,6 +7,11 @@ family: Oxalidaceae
 vol: 38
 pages: 43-44
 source: sources/Oxalidaceae_vol38_liteparse
+countries: [Cameroon, Cote d'Ivoire, Democratic Republic of the Congo, Gabon, Liberia, Nigeria]
+in_region: true
+subdivisions:
+  Gabon: [Nyanga, Ogooué-Ivindo]
+habitat: [riverine]
 tags: [species, generated]
 ---
 # *Biophytum talbotii* (Baker f.) Hutch. & Dalziel

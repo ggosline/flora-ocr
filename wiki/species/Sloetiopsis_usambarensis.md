@@ -7,6 +7,10 @@ family: Moraceae
 vol: 26
 pages: 13-14
 source: sources/Moraceae_vol26_paddle
+countries: [Central African Republic, Gabon, Guinea, Mozambique, Nigeria]
+in_region: true
+habit: "tree"
+habitat: [savanna]
 tags: [species, generated]
 ---
 # *Sloetiopsis usambarensis* Engler
@@ -17,19 +21,15 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+- Neosloetiopsis kamerunensis ENGL., l.c. 51: 426 (1914). TYPE: Mildbraed 4331, Cameroon (holo-, B).
 
-- Neosloetiopsis kamerunensis ENGL., l.c. 51: 426 (1914). TYPE: Mildbraed 4331, Cameroun (holo-, B).
+Shrubs or trees dioecious or sometimes monoecious, reaching 10 m in height; latex white or yellowish. Leafy branches 1-2 mm thick, sparsely to densely puberulent, in part or only with uncinate hairs, the latter often of distinctly different lengths. Lamina (elliptic to) oblong (to lanceolate), generally broader in the middle, asymmetric especially toward the base, (1-)3-16(-23) × (0.5-)1.5-6(-10) cm, chartaceous to subcoriaceous, acuminate to caudate, sometimes subacute; base obtuse to acute; margin entire or sometimes weakly to strongly dentate toward the apex; upper and lower faces glabrous or subglabrous; nerves slightly prominent to plane above, prominent below; (4-)6-9(-13) pairs of secondary nerves, without parallel tertiary nerves. Petiole 2-7 mm long, mostly puberulent (with uncinate hairs). Stipules often subpersistent, 2-8 mm long, generally with ± distinct prominent parallel nerves, sparsely puberulent.
 
-Arbustes ou arbres dioïques ou parfois monoïques, atteignant 10 m de hauteur; latex blanc ou jaunâtre. Rameaux feuillés épais de 1-2 mm, éparsement à densément pubérulents, en partie ou unique-ment avec des poils uncinés, ces derniers étant souvent de longueurs nettement différentes. Limbe (elliptique à) oblong (à lancéolé), générale-ment plus large au milieu, asymétrique surtout vers la base, (1-) 3-16 (-23) × (0,5-) 1,5-6 (-10) cm, chartacé à subcoriace, acuminé à caudé, parfois subaigu ; base obtuse à aiguë ; marge entière ou parfois faiblement à fortement dentée vers l'apex ; faces supérieure et inférieure glabres ou subglabres ; nervures légèrement proéminentes à planes dessus, proéminentes dessous ; (4-) 6-9 (-13) paires de nervures secon-
+Male inflorescences, 0.5-5 cm long (ca. 4 mm in diameter at anthesis), subsessile to pedunculate. Peduncle reaching 1.5 mm in length. Flowers loosely arranged; perianth ca. 1.5 mm high, 4-(6)-fid (to 4-(-6)-partite), membranous, subglabrous; stamens 4 with filaments 2-2.5 mm long and anthers 0.6-0.8 × 0.8-1.0 mm, with small connective; pistillode ca. 0.1 mm high, conical. Bracts attached by the base or most often (sub)peltate and suborbicular, reaching 1 mm in diameter, puberulent and ciliolate.
 
-daires, sans nervures tertiaires parallèles. Pétiole long de 2-7 mm, le plus souvent pubérulent (avec des poils uncinés). Stipules souvent subpersistantes, longues de 2-8 mm, avec généralement des nervures parallèles proéminentes ± distinctes, éparsement pubérulentes.
+Female inflorescences with pubescent peduncle 2-3 mm long. Perianth ca. 1.5 mm high, with pubescent and ciliolate tepals; pistil ca. 1 mm high; style ca. 2 mm long; stigmas 2-8 mm long, puberulent. Bracts oval to reniform and attached by the base or (sub)orbicular and (sub)peltate.
 
-Inflorescences ô, longues de 0,5-5 cm (env. 4 mm de diamètre à l'anthèse), subsessiles à pédonculées. Pédonculée atteignant 1,5 mm de longueur. Fleurs peu serrées ; périanthe haut d'env. 1,5 mm, 4- (6) - fide (à 4- (-6) - parti), membraneux, subglabre ; étamines 4 à filaments longs de 2-2,5 mm et anthères de 0,6-0,8×0,8-1,0 mm, à connectif petit ; pistillode haut de 0,1 mm, conique. Bractées attachées par la base ou le plus souvent (sub) peltées et suborbiculaires, atteignant 1 mm de diamètre, pubérulentes et ciliolées.
-
-Inflorescences ♀ à pédoncule pubérulent long de 2-3 mm. Périan the haut d'env. 1,5 mm, à tépales pubérulents et ciliolés ; pistil haut d'env. 1 mm ; style long d'env. 2 mm ; stigmates longs de 2-8 mm, pubérulents. Bractées ovales à réniformes et attachées par la base ou (sub)orbiculaires et (sub)peltées.
-
-Pédoncule fructifère (inclus le rachis) atteignant 4,5 mm de longueur ; tépales élargis verts. Fruit ellipsoïde, haut d'env. 1 mm ; noyau subglobuleux, d'env. 7 mm de diamètre ; endocarpe noir. Graine d'env. 5 × 5-6 mm, à testa avec un hile petit. - Pl. 2, p. 9.
+Fruiting peduncle (including the rachis) reaching 4.5 mm in length; tepals enlarged, green. Fruit ellipsoid, ca. 1 mm high; stone subglobose, ca. 7 mm in diameter; endocarp black. Seed ca. 5 × 5-6 mm, with testa with a small hilum. - Pl. 2, p. 9.
 
 ## Type
 
@@ -37,9 +37,7 @@ Engler 3263, Tanzanie, Usambara (holo-, B)
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-S. usambarensis a une aire disjointe s'étendant de la Guinée au Mozambique. L'une de ses aires partielles s'étend du SE Nigeria à la partie sud de la Centrafrique en passant par le Gabon. Cette espèce apparaît comme de petits arbres ou arbustes dans les forêts humides (ou parfois dans les forêts en bordure de savane), le long des ruisseaux (ou ruisselets), et comme arbustes ramifiés bas de façon abondante sur les rochers dans le lit des rivières ou sur les rives.
+S. usambarensis has a disjunct range extending from Guinea to Mozambique. One of its partial ranges extends from SE Nigeria to the southern part of Central African Republic passing through Gabon. This species appears as small trees or shrubs in humid forests (or sometimes in forests bordering savanna), along streams (or streamlets), and as abundantly low-branched shrubs on rocks in the river bed or on banks.
 
 ## Specimens examined
 
@@ -49,7 +47,7 @@ Michaloud s.n., Mpassa (stér., oct.).
 
 ![Sloetiopsis usambarensis](../sources/Moraceae_vol26_paddle/figures/fig_002_p0012.png)
 
-*PL. 2. - Sloetiopsis usambarensis Engl.: 1, rameau feuillé avec jeunes inflo. staminées; 2, rameau feuillé avec jeunes infrutescences; 3, fleur staminée et bractée; 4, fleur staminée avec bractée et pistillée; 5, inflo. pistillée; 6, infrutescence; 7, fruit; 8, graine; 9, embryon (1, Simão 336, Mozambique; 2, Gutzwiller 2514, Zaire; 3, De Wilde J.J.F.E. 3542, Côté d'Ivoire; 4, Hill 296, Ghana; 5, Breteler 1865, Cameroun; 6-9, Breteler 1507, Cameroun).*
+*PL. 2. - Sloetiopsis usambarensis Engl.: 1, leafy branch with young staminate inflo.; 2, leafy branch with young fructifications; 3, staminate flower and bract; 4, staminate flower with bract and pistillate flower; 5, pistillate inflo.; 6, fructification; 7, fruit; 8, seed; 9, embryo (1, Simão 336, Mozambique; 2, Gutzwiller 2514, Zaire; 3, De Wilde J.J.F.E. 3542, Ivory Coast; 4, Hill 296, Ghana; 5, Breteler 1865, Cameroon; 6-9, Breteler 1507, Cameroon).*
 
 ## Notes
 

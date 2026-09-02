@@ -7,6 +7,11 @@ family: Convolvulaceae
 vol: 46
 pages: 41-41
 source: sources/Convolvulaceae_vol46_liteparse
+countries: [Gabon]
+in_region: true
+subdivisions:
+  Gabon: [Estuaire, Nyanga, Ogooué-Maritime]
+habit: "herb"
 tags: [species, generated]
 ---
 # *Ipomoea imperati* (Vahl) Griseb. Planche 15

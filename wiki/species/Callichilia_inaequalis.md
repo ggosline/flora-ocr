@@ -7,6 +7,13 @@ family: Apocynaceae
 vol: 59
 pages: 63-63
 source: sources/Apocynaceae_vol59_liteparse
+countries: [Cameroon, Gabon, Nigeria]
+in_region: true
+subdivisions:
+  Gabon: [Estuaire]
+habit: "liana"
+habitat: [secondary forest]
+altitude_m: "0–200"
 tags: [species, generated]
 ---
 # *Callichilia inaequalis* Stapf Planche 24

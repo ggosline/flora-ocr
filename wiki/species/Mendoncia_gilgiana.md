@@ -7,6 +7,8 @@ family: Acanthaceae
 vol: 13
 pages: 72-74
 source: sources/Acanthaceae_vol13_paddle
+countries: [Cameroon, Central African Republic, Gabon, Uganda]
+in_region: true
 tags: [species, generated]
 ---
 # *Mendoncia gilgiana* (Lindau) R. Benoist

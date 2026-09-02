@@ -7,6 +7,8 @@ family: Orchidaceae
 vol: 37
 pages: 233-235
 source: sources/Orchidaceae_vol37_paddle
+countries: [Cameroon, Central African Republic, Gabon]
+in_region: true
 tags: [species, generated]
 ---
 # *Angraecum poppendickianum* Szlach. & Olsz.

@@ -7,6 +7,13 @@ family: Phyllanthaceae
 vol: 43
 pages: 101-103
 source: sources/Phyllanthaceae_vol43_liteparse
+countries: [Gabon]
+in_region: true
+subdivisions:
+  Gabon: [Estuaire]
+habit: "tree"
+habitat: [secondary forest]
+altitude_m: "0–20"
 tags: [species, generated]
 ---
 # *Uapaca niangadoumae* Breteler Planche 34
@@ -17,25 +24,17 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Pl. Ecol. & Evol. 145(1) : 129 (2012). Tree up to 15 m tall; trunk up to 30 cm in diameter, with stilt roots; branchlets puberulent, glabrescent, the indument persisting longer around the bases of the petioles. Stipules absent. Leaf: petiole cylindrical, 3–8(–11) cm, glabrous; blade ± narrowly oblong-elliptic to obovate–elliptic, (12–)18–28(–36) × (4–)6–9(–10) cm, rounded or sometimes ± cuneate at the base, acuminate for 0.5–1.5(–2) cm, coriaceous, glabrous above, puberulent on the midrib and more sparsely below on the lateral veins; lateral veins 7–11 pairs, ± obscure above, prominent below. Inflorescence: peduncle glabrous, the male 13–20 mm, the female 5–8 mm; involucral bracts 8, ± concave, 3–19 × 2–10 mm, thick, glabrous, somewhat smaller in the female inflorescences. Male flower: calyx tubular, 2.5–3 mm long, 5-lobed, glabrous or with some hairs; petals absent; stamens 5, 3.5–4 mm long, anthers ± 0.3 mm long, connective glabrous or with some hairs; pistillode cyathiform, glabrous, ± as long as the calyx. Female flower: calyx obtusely and shortly 5-lobed, ± 1.5 mm long, with appressed hairs outside; ovary ellipsoid, 4–5 mm long, tomentellous; stigmas 3, palmatilobed. Fruit subglobose to ellipsoid, ± 2–2.5 × 2 cm, wrinkled, lenticellate, sparsely pilose, on a peduncle 7–8 mm.
 
-Pl. Ecol. & Evol. 145(1) : 129 (2012). Arbre jusqu’à 15 m de hauteur ; tronc jusqu’à 30 cm de diamètre, à racines-échasses ; ramilles pubérulentes , glabrescentes, l’indument persistant plus longtemps autour des bases des pétioles. Stipules absentes . Feuille : pétiole cylindrique, 3–8(–11) cm, glabre ; limbe ± étroitement oblong-elliptique à obovale–elliptique , (12–)18–28(–36) × (4–)6– 9(–10) cm, arrondi ou parfois ± cunéé à la base, acuminé sur 0,5–1,5(–2) cm , coriace , glabre dessus, pubérulent sur la médiane et plus éparsement en dessous sur les nervures latérales ; nervures latérales 7–11 paires, ± obscures dessus, proéminentes dessous. In florescence : pédoncule glabre, le mâle 13–20 mm, la femelle 5–8 mm ; bractées involu crales 8, ± concaves, 3–19 × 2–10 mm, épaisses, glabres, un peu plus petites dans les in florescences femelles. Fleur mâle : calice tubuleux, 2,5–3 mm de longueur, 5-lobé, glabre ou avec quelques poils ; pétales absents ; étamines 5, 3,5–4 mm de longueur, anthères
-
-Fleur mâle ouverte avec pistillode (P). ‒ I. Fleur femelle. ‒ J. Stigmate. ‒ K. Fruit. ‒ L. Détail de la surface du fruit. (A ‒ H : Bissiengou et al . 823 ; I ‒ L : Bissiengou et al . 826 ). Dessin par H. de Vries, NCB Naturalis (section NHN) ©.
-
-± 0,3 mm de longueur, connectif glabre ou avec quelques poils ; pistilllode cyathiforme, glabre, ± aussi long que le calice. Fleur femelle : calice obtusément et courtement 5-lobé, ± 1,5 mm de longueur, à poils apprimés à l’extérieur ; ovaire ellipsoïde, 4–5 mm de lon gueur, tomentelleux ; stigmates 3, palmatilobés. Fruit subglobuleux à ellipsoïde, ± 2–2,5 × 2 cm, rugueux, lenticellé, éparsement pileux , sur un pédoncule de 7–8 mm.
+Male flower opened with pistillode (P). ‒ I. Female flower. ‒ J. Stigma. ‒ K. Fruit. ‒ L. Detail of the fruit surface. (A ‒ H: Bissiengou et al. 823; I ‒ L: Bissiengou et al. 826). Drawing by H. de Vries, NCB Naturalis (section NHN) ©.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-espèce endémique du Gabon, seulement connue de l’Estuaire (Forêt de la Mondah)
+endemic species of Gabon, known only from the Estuaire (Mondah Forest)
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-forêt primaire et secondarisée, parfois périodiquement inondée ; à 0–20 m d’altitude. b : Breteler (2012a). ibliographie
+primary and secondarized forest, sometimes periodically inundated; at 0–20 m altitude. b: Breteler (2012a). Bibliography
 
 ## Notes
 

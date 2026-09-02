@@ -5,11 +5,10 @@ authority: (K. Schum.) Benth.
 genus: Renealmia
 family: Zingiberaceae
 synonyms: [Ethanium africanum]
-countries: [Cameroon, Equatorial Guinea, Gabon, Republic of the Congo, Angola]
-in_region: true
-habit: rhizomatous herb
-habitat: [forest fallow, forest understorey]
 treatments: [{vol: 9, pages: "32–34", source: sources/Zingiberaceae_vol9_paddle}]
+countries: [Angola, Cameroon, Equatorial Guinea, Gabon]
+in_region: true
+habit: "herb"
 tags: [species]
 ---
 

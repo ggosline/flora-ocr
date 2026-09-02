@@ -7,6 +7,10 @@ family: Dracaenaceae
 vol: 54
 pages: 27-29
 source: sources/Dracaenaceae_vol54_liteparse
+countries: [Angola, Burundi, Cameroon, Central African Republic, Cote d'Ivoire, Democratic Republic of the Congo, Equatorial Guinea, Gabon, Ghana, Guinea, Liberia, Nigeria, Republic of the Congo, Sierra Leone, Tanzania, Zambia]
+in_region: true
+habit: "tree"
+altitude_m: "0–1020"
 tags: [species, generated]
 ---
 # *Dracaena camerooniana* Baker Planche 8

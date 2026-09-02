@@ -7,6 +7,9 @@ family: Celastraceae
 vol: 29
 pages: 52-55
 source: sources/Celastraceae_vol29_paddle
+countries: [Cameroon, Democratic Republic of the Congo, Gabon, Ghana]
+in_region: true
+habitat: [gallery forest]
 tags: [species, generated]
 ---
 # *Salacia preussii* Loesener

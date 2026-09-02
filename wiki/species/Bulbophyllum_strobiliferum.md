@@ -7,6 +7,9 @@ family: Orchidaceae
 vol: 36
 pages: 159-161
 source: sources/Orchidaceae_vol36_paddle
+countries: [Cameroon, Central African Republic, Cote d'Ivoire, Equatorial Guinea, Gabon, Ghana, Liberia, Nigeria, Sao Tome and Principe, Sierra Leone]
+in_region: true
+habitat: [secondary forest, coastal, rocky ground]
 tags: [species, generated]
 ---
 # *Bulbophyllum strobiliferum* Kraenzl., Mitth. deutsch. Schutzgeb. 2 : 155 (1889).

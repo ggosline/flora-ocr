@@ -7,6 +7,13 @@ family: Leguminosae
 vol: 49
 pages: 59-60
 source: sources/Millettiaspeciesfabaceae_vol49_liteparse
+countries: [Cameroon, Central African Republic, Democratic Republic of the Congo, Equatorial Guinea, Gabon, Nigeria, Republic of the Congo]
+in_region: true
+subdivisions:
+  Gabon: [Nyanga, Woleu-Ntem]
+habit: "liana"
+habitat: [secondary forest]
+altitude_m: "500"
 tags: [species, generated]
 ---
 # *Baphia laurifolia* Baill.

@@ -7,6 +7,13 @@ family: Ochnaceae
 vol: 48
 pages: 49-51
 source: sources/Ochnaceae_vol48_liteparse
+countries: [Gabon]
+in_region: true
+subdivisions:
+  Gabon: [Moyen-Ogooué, Ngounié, Nyanga, Ogooué-Maritime]
+habit: "tree"
+habitat: [secondary forest]
+altitude_m: "70–400"
 tags: [species, generated]
 ---
 # *Campylospermum gabonense* Biss.

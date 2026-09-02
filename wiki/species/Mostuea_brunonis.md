@@ -47,7 +47,7 @@ Inflorescences axillary, ramiflorous or terminal, generally with short lateral b
 
 ![Mostuea brunonis](../sources/Loganiaceae_vol19_paddle/figures/fig_010_p0037.png)
 
-*PL. 10. — Mostuea brunonis Didr. var. brunonis forma « M. buchholzii » (Hallé N. 793) : 1 et 2, rameaux florifères; 3 à 5, fleurs; 6, étamines; 7, anthères; 8, pistil; 9, section longitudinale de la fleur; 10, fruit; 11, section longitudinale et 12, section transversale du fruit; 13, graine; 14, rameau stérile; 15, nervure médiane en dessous, avec domaties; 16, diagramme de l'inflorescence; 17, diagramme de la fleur.*
+*PL. 10. — Mostuea brunonis Didr. var. brunonis forma « M. buchholzii » (Hallé N. 793) : 1 et 2, flowering branches; 3 à 5, flowers; 6, stamens; 7, anthers; 8, pistil; 9, longitudinal section of the flower; 10, fruit; 11, longitudinal section and 12, transverse section of fruit; 13, seed; 14, sterile branch; 15, median vein below, with domatia; 16, diagram of inflorescence; 17, diagram of flower.*
 
 ## Notes
 

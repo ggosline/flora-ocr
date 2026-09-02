@@ -7,6 +7,12 @@ family: Arecaceae
 vol: 53
 pages: 49-51
 source: sources/Arecaceae_vol53_liteparse
+countries: [Gabon, Madagascar]
+in_region: true
+subdivisions:
+  Gabon: [Estuaire, Nyanga, Ogooué-Maritime]
+habit: "tree"
+altitude_m: "100"
 tags: [species, generated]
 ---
 # *Phoenix reclinata* Jacq. Planche 16, Figure 1H

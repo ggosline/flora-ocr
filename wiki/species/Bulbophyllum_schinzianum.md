@@ -7,6 +7,9 @@ family: Orchidaceae
 vol: 36
 pages: 145-147
 source: sources/Orchidaceae_vol36_paddle
+countries: [Cameroon, Cote d'Ivoire, Gabon, Liberia, Nigeria]
+in_region: true
+habitat: [primary forest]
 tags: [species, generated]
 ---
 # *Bulbophyllum schinzianum* Kraenzl.
@@ -45,7 +48,7 @@ Louis 2886 – Woleu-Ntem: descent on the Ntem from Eréla, 2°03' N, 12°16' E 
 
 ![Bulbophyllum schinzianum](../sources/Orchidaceae_vol36_paddle/figures/fig_075_p0148.png)
 
-*PL. 70. – Bulbophyllum schinzianum Kraenzl.: A, vue générale ; B, fleur ; C, pièces florales ; D-H, labelle ; I, labelle et gynostème en position naturelle, vue latérale; J, anthère ; K, pollinies (A-K, ex VERMEULEN, 1987).*
+*PL. 70. – Bulbophyllum schinzianum Kraenzl.: A, general view ; B, flower ; C, floral parts ; D-H, lip ; I, lip and gynostemium in natural position, lateral view; J, anther ; K, pollinia (A-K, ex VERMEULEN, 1987).*
 
 ![Bulbophyllum schinzianum](../sources/Orchidaceae_vol36_paddle/figures/fig_136_p0223.png)
 

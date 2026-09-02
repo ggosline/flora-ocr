@@ -7,6 +7,8 @@ family: Acanthaceae
 vol: 13
 pages: 94-96
 source: sources/Acanthaceae_vol13_paddle
+countries: [Cameroon, Gabon, Ghana, Nigeria]
+in_region: true
 tags: [species, generated]
 ---
 # *Brillantaisia vogeliana* (Nees) Benth.

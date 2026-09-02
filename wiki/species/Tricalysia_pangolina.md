@@ -7,6 +7,9 @@ family: Rubiaceae
 vol: 17
 pages: 297-300
 source: sources/Rubiaceae_vol17_paddle
+countries: [Gabon]
+in_region: true
+habit: "shrub"
 tags: [species, generated]
 ---
 # *Tricalysia pangolina* N. Hallé, sp. nov.
@@ -16,17 +19,13 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Shrub with internodes finely and densely ochraceous-pubescent, sometimes swollen with myrmecodomes opening. Stipules about 3–5 mm subulate, pubescent. Blade olivaceous, glabrous above, glabrescent below, 10–24 × 5–8.5 cm, acute at base, acuminate at apex. Midrib puberulous above. Lateral nerves 6–9 pairs. Inflorescences axillary, sometimes geminate, up to 5-flowered. Bracts opposite linear 1–7 mm long. Flowers white, pedicel slender 5–11 mm long, at apex bearing two connate bracts. Calyx denticulate, denticles ciliate 0.5–1 mm long. Corolla pentamerous; lobes pubescent at base. Anthers with marginal locules exceeding the apex of the connective, inserted above the lower quarter. Locules 2; placentae 8–12 ovulate, ovules inserted along a U-shape.
 
-Frutex internodiis tenuiter et dense ochraceo-pubescentibus, interdum inflatis myrmecodomibus aperturatis. Stipule proper 3-5 mm subulate, pubescentes. Lamina olivacea, supra glabra, subtus glabrescens, 10-24 × 5-8.5 cm, basi acuta, apice acuminata. Costa supra puberula. Nervi laterales 6-9 jugi. Inflorescentiae axillares, interdum geminae, usque ad 5-florae. Bractea oppositae lineares 1-7 mm longae. Flores albi, pedicello gracili 5-11 mm longo, apice bracteis duabus connatis munito. Calyx denticulatus, denticulis ciliatis 0.5-1 mm longis. Corolla pentamera; lobi basi pubescentes. Antherae loculis marginalibus apicem connectivi superantibus, super quartam inferiorem partem insertae. Loculi 2; placente 8-12 ovulatae, ovulis secus litteram U insertis.
+Shrub 4 m tall; young stems with dense and fine ochraceous pubescence. Internodes sometimes swollen into myrmecodomes in their lower third, about 5 mm in diameter, with a small opening at the widest level. Stipules 2–3 mm high in the wide part, prolonged by a subulate rostrum 3–5 mm long, pubescent. Petiole finely pubescent 5–10 mm long. Blade olivaceous glabrous above, glabrescent below elliptic 10–24 × 5–8.5 cm; base acute, apex acuminate. Midrib puberulous in a shallow groove above, finely pubescent below. 6–9 pairs of secondary nerves arched, pubescent below. Intersecondary nerves distinctly subparallel and subtransverse. No axillary domatia.
 
-Arbuste de 4 m; jeunes tiges à dense et fine pubescence
+Inflorescences axillary, sometimes 2 coaxial, 1–3–5-flowered, finely pubescent, with peduncle subnull or reaching 1–5 mm; bracts opposite linear 1–7 mm long. Flower white with slender pedicel 5–11 mm, bearing at apex a pair of connate bracteoles. Calyx ± puberulous, with cupule 1–1.5 mm high, with minute ciliolate teeth 0.5–1 mm. Corolla pentamerous glabrous outside, with tube 2–3 mm, with lobes overlapping to the left, attenuate acute in bud, 5–6 × 1.5 mm; throat with white hairs scattered on the base of the lobes. Anther 4–6 × 0.5–0.7 mm, with ± marginal locules exceeding the apex of the connective, inserted toward the lower third or quarter. Pollen short-axed 3 (4)-colpate, subangular-aperturate in polar view; P = 16 μ; E = 20 μ; exine c. 1.6 μ; muri c. 0.8 μ. Style glabrous 5–8 mm, lobed on 2–3 mm. Annular disc glabrous 1 mm in diameter. 2 locules; placentae (2?) 8–12 ovulate; ovules arranged in U-shape.
 
-ochracée. Entrençuds parfois renflés myrmécodomes en leur tiers inférieur, d'un diamètre d'environ 5 mm, avec une petite ouverture au niveau le plus large. Stipules hautes de 2-3 mm dans la partie large, prolongées par un rostre subulé long de 3-5 mm, pubescentes. Pétiole finement pubescent long de 5-10 mm. Limbe olivâtre glabre dessus, glabrescent dessous elliptique de 10-24 × 5-8,5 cm; base aiguë, sommet acuminé. Médiam pubérulente en un faible sillon dessus, finement pubescent dessous. 6-9 paires de nervures secondaires arquées, pubescentes dessous. Intersecondaires distinctement subparallèles et subtransverses. Pas de domaties axillaires.
-
-Inflorescences axillaires, parfois par 2 coaxiales, 1-3-5-flores, finement pubescentes, à pédoncule subnul ou atteignant 1-5 mm; bractées opposées linéaires longues de 1-7 mm. Fleur blanche à pédicelle grêle de 5-11 mm, portant au sommet une paire de bractéoles connées. Calice ± pubérulent, à cupule haute de 1-1,5 mm, à dents minimes ciliolées de 0,5-1 mm. Corolè pentamère glabre à l'extérieur, à tube de 2-3 mm, à lobes recouvrants vers la gauche, atténués aigus dans le bouton, de 5-6 × 1,5 mm; gorge à poils blancs répandus sur la base des lobes. Anthère de 4-6 × 0,5-0,7 mm, à loges ± marginales dépassant le sommet du connectif, insérées vers le tiers ou le quart inférieur. Pollen bréviaxe 3 (4)-colpé, subangulaperturé en vue polaire; P = 16 μ; E = 20 μ; exine d'env. 1,6 μ; mailles d'env. 0,8 μ. Style glabre de 5-8 mm, lobe sur 2-3 mm. Disque annulaire glabre de 1 mm de diamètre. 2 loges; placentas (2?) 8-12 ovulés; ovules disposés en U.
-
-Jeunes fruits globuleux, verts, de 1 cm, à paroi dépassant 1,5 mm d'épaisseur et noire à sec, à pédicelle accrescent de 1,6 mm, au-dessus des bractéoles. Deux loges biovulées.
+Young fruits globose, green, 1 cm, with wall exceeding 1.5 mm thick and black when dry, with accrescent pedicel 1.6 mm, above the bracteoles. Two locules biovulate.
 
 ## Type
 
@@ -34,21 +33,19 @@ Le Testu §372 (P, isotypes BM), Nzoumou, Ouest de Mitzic (fl. nov. 1933)
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Endemic to Gabon.
 
-Endémique gabonaise.
+OTHER MATERIAL EXAMINED:
 
-AUTRE MATÉRIEL ÉTUDIÉ :
+N. Hallé 3339, 3709, Bélinga (green fr. Nov. and June).
 
-N. Hallé 3339, 3709, Bélinga (fr. verts nov. et juin).
-
-Le Testu 6363, Mbigou (fl. oct.).
+Le Testu 6363, Mbigou (fl. Oct.).
 
 ## Figures
 
 ![Tricalysia pangolina](../sources/Rubiaceae_vol17_paddle/figures/fig_071_p0299.png)
 
-*PL. 69. — Tricalysia pangolina N. Hallé (Le Testu 9372; 10, Le T. 6363; 12, N. Hallé 3339): 1, rameau florifère à entrenceud myrmécodome × 0,75; 2, stipule; 3, fragment d'inflorescence; 4, fleur; 5, calice; 6, étamine; 7, style; 8, coupe de la fleur; 9, coupe de l'ovaire; 10 et 11, placentation; 12, jeune fruit × 1.*
+*PL. 69. — Tricalysia pangolina N. Hallé (Le Testu 9372; 10, Le T. 6363; 12, N. Hallé 3339): 1, flowering branch with myrmecophilous internode × 0.75; 2, stipule; 3, inflorescence fragment; 4, flower; 5, calyx; 6, stamen; 7, style; 8, flower section; 9, ovary section; 10 and 11, placentation; 12, young fruit × 1.*
 
 ## Notes
 

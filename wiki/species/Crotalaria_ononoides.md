@@ -7,6 +7,13 @@ family: Leguminosae
 vol: 49
 pages: 101-101
 source: sources/Millettiaspeciesfabaceae_vol49_liteparse
+countries: [Gabon, Madagascar]
+in_region: true
+subdivisions:
+  Gabon: [Haut-Ogooué]
+habit: "herb"
+habitat: [savanna]
+altitude_m: "500"
 tags: [species, generated]
 ---
 # *Crotalaria ononoides* Benth. var. ononoides

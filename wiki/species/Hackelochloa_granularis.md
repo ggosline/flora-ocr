@@ -7,6 +7,7 @@ family: Gramineae
 vol: 05
 pages: 128-130
 source: sources/Gramineae_vol05_paddle
+habit: "herb"
 tags: [species, generated]
 ---
 # *Hackelochloa granularis* (L.) O. Kuntze. (f. p. 135).
@@ -32,7 +33,7 @@ Thollon : 792, Plaines de Lopé, Ogooué.
 
 ![Hackelochloa granularis](../sources/Gramineae_vol05_paddle/figures/fig_023_p0137.png)
 
-*PL. XXII. — Rotboellia exaltata Linn. f. (Guillemet 1) : 1, partie de l'inflorescence; 2, base de la plante, avec racines adventices; 3, partie supérieure d'un racème (longueur d'un épillet sessile : 4 mm). — Hackelochloa granularis O. Ktze. (Vanderyst 5122) : 4, partie de l'inflorescence; 5, feuille; 6, détail de la pubescence des feuilles; 7, détail d'un racème, épilets sessiles vus par la face ventrale; 8, détail d'un racème, épilets pédicellés, épilets sessiles vus latéralement (épillet sessile : 1,7 mm de long).*
+*PL. XXII. — Rotboellia exaltata Linn. f. (Guillemet 1) : 1, part of the inflorescence; 2, base of the plant, with adventitious roots; 3, upper part of a raceme (length of a sessile spikelet : 4 mm). — Hackelochloa granularis O. Ktze. (Vanderyst 5122) : 4, part of the inflorescence; 5, leaf; 6, detail of the pubescence of the leaves; 7, detail of a raceme, sessile spikelets seen by the ventral surface; 8, detail of a raceme, pedicellate spikelets, sessile spikelets seen laterally (sessile spikelet : 1.7 mm long).*
 
 ## Notes
 

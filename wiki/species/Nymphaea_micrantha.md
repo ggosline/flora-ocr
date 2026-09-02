@@ -7,6 +7,12 @@ family: Nymphaeaceae
 vol: 40
 pages: 58-60
 source: sources/Nymphaeaceae_vol40_liteparse
+countries: [Cameroon, Chad, Gabon, Senegal]
+in_region: true
+subdivisions:
+  Gabon: [Ogooué-Maritime]
+habit: "herb"
+altitude_m: "350"
 tags: [species, generated]
 ---
 # *Nymphaea micrantha* Guill. & Perr.

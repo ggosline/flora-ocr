@@ -7,6 +7,11 @@ family: Leguminosae
 vol: 49
 pages: 93-93
 source: sources/Millettiaspeciesfabaceae_vol49_liteparse
+countries: [Cameroon, Gabon, Nigeria]
+in_region: true
+habit: "herb"
+habitat: [savanna]
+altitude_m: "2700"
 tags: [species, generated]
 ---
 # *Crotalaria brevidens* Benth.

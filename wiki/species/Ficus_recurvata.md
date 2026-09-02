@@ -7,6 +7,8 @@ family: Moraceae
 vol: 26
 pages: 161-164
 source: sources/Moraceae_vol26_paddle
+countries: [Angola, Cameroon, Cote d'Ivoire, Democratic Republic of the Congo, Nigeria, Tanzania]
+in_region: true
 tags: [species, generated]
 ---
 # *Ficus recurvata* De Wildeman
@@ -73,7 +75,7 @@ Cet aperçu montre combien sont complexes et confus les types des variations dan
 
 ![Ficus recurvata](../sources/Moraceae_vol26_paddle/figures/fig_045_p0160.png)
 
-*PL. 44. – Ficus recurvata De Wild.: 1, rameau avec feuilles et figues × 2/3; 2, feuille, face inférieure; 3, feuille, face supérieure (Hall J.B. 436, Ghana).*
+*PL. 44. – Ficus recurvata De Wild.: 1, branch with leaves and figs × 2/3; 2, leaf, lower surface; 3, leaf, upper surface (Hall J.B. 436, Ghana).*
 
 ## Notes
 

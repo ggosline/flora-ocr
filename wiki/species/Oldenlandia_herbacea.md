@@ -7,6 +7,7 @@ family: Rubiaceae
 vol: 12
 pages: 103-104
 source: sources/Rubiaceae_vol12_paddle
+habit: "herb"
 tags: [species, generated]
 ---
 # *Oldenlandia herbacea* (L.) Roxb.

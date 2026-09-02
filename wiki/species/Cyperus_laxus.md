@@ -7,6 +7,12 @@ family: Cyperaceae
 vol: 44
 pages: 108-109
 source: sources/Cyperaceae_vol44_liteparse
+countries: [Gabon]
+in_region: true
+subdivisions:
+  Gabon: [Estuaire, Ngounié, Ogooué-Ivindo, Ogooué-Lolo, Ogooué-Maritime, Woleu-Ntem]
+habit: "herb"
+altitude_m: "0–800"
 tags: [species, generated]
 ---
 # *Cyperus laxus* Lam. subsp. buchholzii (Boeckeler) Lye Planche 67

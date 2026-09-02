@@ -7,6 +7,9 @@ family: Orchidaceae
 vol: 37
 pages: 55-57
 source: sources/Orchidaceae_vol37_paddle
+countries: [Angola, Burkina Faso, Cameroon, Central African Republic, Cote d'Ivoire, Democratic Republic of the Congo, Equatorial Guinea, Gabon, Ghana, Nigeria, Rwanda, Tanzania, Uganda]
+in_region: true
+habitat: [secondary forest, primary forest]
 tags: [species, generated]
 ---
 # *Polystachya odorata* Lindl.

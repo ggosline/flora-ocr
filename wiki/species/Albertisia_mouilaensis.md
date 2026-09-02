@@ -5,20 +5,18 @@ authority: Breteler
 genus: Albertisia
 family: Menispermaceae
 synonyms: []
-habit: liana
-habitat: [primary forest, secondary forest]
-altitude_m: "300–550"
 endemic_to_gabon: true
 type_locality_gabon: true
 novelty: spec. nov. (Vol 60)
-countries: [Gabon]
-subdivisions:
-  Gabon: [Ngounié, Woleu-Ntem]
-in_region: true
 treatments:
   - vol: 60
     pages: "31–32"
     source: sources/Menispermaceae_vol60_liteparse
+countries: [Gabon]
+in_region: true
+subdivisions:
+  Gabon: [Ngounié, Woleu-Ntem]
+habit: "liana"
 tags: [species, novelty, type-locality-gabon, endemic]
 ---
 

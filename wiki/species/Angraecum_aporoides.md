@@ -7,6 +7,9 @@ family: Orchidaceae
 vol: 37
 pages: 229-231
 source: sources/Orchidaceae_vol37_paddle
+countries: [Cameroon, Democratic Republic of the Congo, Equatorial Guinea, Gabon, Nigeria, Sao Tome and Principe]
+in_region: true
+habitat: [swamp forest]
 tags: [species, generated]
 ---
 # *Angraecum aporoides* Summerh.

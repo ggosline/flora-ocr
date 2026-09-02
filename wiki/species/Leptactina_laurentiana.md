@@ -7,6 +7,9 @@ family: Rubiaceae
 vol: 17
 pages: 82-84
 source: sources/Rubiaceae_vol17_paddle
+countries: [Cameroon, Gabon]
+in_region: true
+habit: "liana"
 tags: [species, generated]
 ---
 # *Leptactina laurentiana* Dewèvre
@@ -44,7 +47,7 @@ N. Hallé 1224, 2797, Bélinga (fl. fév.; fin de fl. oct.). G. Le Testu 5556, N
 
 ![Leptactina laurentiana](../sources/Rubiaceae_vol17_paddle/figures/fig_018_p0083.png)
 
-*PL. 18. — Leptactina Pynaertii De Wild. (N. Hallé 3640; 8 à 11, N. H. 1434) : 1, rameau florifère × 1; 2, stipule; 3, 3¹, coupes du bouton au niveau de l'androcée et au niveau des pétales; 4, coupe de la fleur; 5, anthère de 9 mm; 6 et 7, coupe haute et coupe basse de l'ovaire; 8, fruit vu sur le vif × 1; 9, fruit vu à sec × 1; 10, coupe du fruit immature; 11, graine × 8. — L. Laurentiana De Wild. : 12, inflorescence × 0,75; (Letouzey 4558); 13, fruit × 1 (Jean-Louis 6892); 14, graine × 8.*
+*PL. 18. — Leptactina Pynaertii De Wild. (N. Hallé 3640; 8 à 11, N. H. 1434) : 1, flowering branch × 1; 2, stipule; 3, 3¹, sections of bud at the level of the androecium and at the level of the petals; 4, section of flower; 5, anther 9 mm; 6 and 7, upper section and lower section of ovary; 8, fruit seen on the living plant × 1; 9, fruit seen dry × 1; 10, section of immature fruit; 11, seed × 8. — L. Laurentiana De Wild. : 12, inflorescence × 0,75; (Letouzey 4558); 13, fruit × 1 (Jean-Louis 6892); 14, seed × 8.*
 
 ## Notes
 

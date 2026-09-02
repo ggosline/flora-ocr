@@ -7,6 +7,12 @@ family: Oleaceae
 vol: 51
 pages: 19-20
 source: sources/Oleaceae_vol51_liteparse
+countries: [Cameroon, Gabon]
+in_region: true
+subdivisions:
+  Gabon: [Estuaire, Ngounié, Ogooué-Lolo]
+habit: "tree"
+altitude_m: "150–800"
 tags: [species, generated]
 ---
 # *Noronhia camptoneura* (Gilg & Schellenb.) Hong-Wa & Besnard

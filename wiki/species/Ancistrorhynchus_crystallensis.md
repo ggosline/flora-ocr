@@ -7,6 +7,8 @@ family: Orchidaceae
 vol: 37
 pages: 112-113
 source: sources/Orchidaceae_vol37_paddle
+countries: [Gabon]
+in_region: true
 tags: [species, generated]
 ---
 # *Ancistrorhynchus crystallensis* Cribb & Laan.

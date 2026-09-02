@@ -7,6 +7,12 @@ family: Verbenaceae
 vol: 58
 pages: 142-143
 source: sources/Verbenaceae_vol58_liteparse
+countries: [Cameroon, Central African Republic, Gabon, Nigeria]
+in_region: true
+subdivisions:
+  Gabon: [Estuaire, Ngounié, Nyanga]
+habit: "shrub"
+altitude_m: "80–170"
 tags: [species, generated]
 ---
 # *Lippia rugosa* A.Chev.

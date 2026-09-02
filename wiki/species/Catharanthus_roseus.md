@@ -7,6 +7,9 @@ family: Apocynaceae
 vol: 59
 pages: 67-67
 source: sources/Apocynaceae_vol59_liteparse
+countries: [Gabon, Madagascar]
+in_region: true
+habit: "herb"
 tags: [species, generated]
 ---
 # *Catharanthus roseus* (L.) G.Don Figure 4(A)

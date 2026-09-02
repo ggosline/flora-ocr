@@ -7,6 +7,9 @@ family: Dichapetalaceae
 vol: 32
 pages: 104-112
 source: sources/Dichapetalaceae_vol32_paddle
+countries: [Angola, Cameroon, Gabon]
+in_region: true
+habit: "liana"
 tags: [species, generated]
 ---
 # *Dichapetalum heudelotii* (Planchon ex Oliver) Baillon
@@ -185,11 +188,11 @@ Pl. 29, p. 107.
 
 ![Dichapetalum heudelotii](../sources/Dichapetalaceae_vol32_paddle/figures/fig_028_p0106.png)
 
-*PL. 27. – Dichapetalum heudelotii (Planchon ex Oliver) Baillon. – variation de la forme et de la taille des feuilles (× 0,5): 1, Breteler 6606; 2, Klaine 1712; 3, Breteler & J.J. de Wilde 363; 4, Bos & Breteler 7243; 5, Leeuwenberg 9156; 6, J.J. de Wilde & Leeuwenberg 3601 A; 7, Den Outer & Versteeg 265; 8, 9, J.J. de Wilde 8227. – Repris de MLW 79 (16): 25 (1979).*
+*PL. 27. – Dichapetalum heudelotii (Planchon ex Oliver) Baillon. – variation in leaf shape and size (× 0.5): 1, Breteler 6606; 2, Klaine 1712; 3, Breteler & J.J. de Wilde 363; 4, Bos & Breteler 7243; 5, Leeuwenberg 9156; 6, J.J. de Wilde & Leeuwenberg 3601 A; 7, Den Outer & Versteeg 265; 8, 9, J.J. de Wilde 8227. – Reprinted from MLW 79 (16): 25 (1979).*
 
 ![Dichapetalum heudelotii](../sources/Dichapetalaceae_vol32_paddle/figures/fig_029_p0108.png)
 
-*PL. 28. – Dichapetalum heudelotii (Planchon ex Oliver) Baillon var. heudelotii: 1, 2, fleurs × 5; 3-6. fruits × 0,8 (1, J.J. de Wilde & Leeuwenberg 3601 A; 2, Breteler 5901; 3, 4, De Koning 404; 5, Leeuwenberg 4230; 6, Bos 3710). – D. heudelotii var. hispidum (Oliver) Breteler: 7, 8, fleurs × 5; 9, 10, fruits × 0,8 (7, Breteler & J.J. de Wilde 721; 8, Breteler & J.J. de Wilde 76; 9, Bos 3153; 10, Breteler 6526). – Repris de MLW 79 (16): 32 (1979).*
+*PL. 28. – Dichapetalum heudelotii (Planchon ex Oliver) Baillon var. heudelotii: 1, 2, flowers × 5; 3-6. fruits × 0.8 (1, J.J. de Wilde & Leeuwenberg 3601 A; 2, Breteler 5901; 3, 4, De Koning 404; 5, Leeuwenberg 4230; 6, Bos 3710). – D. heudelotii var. hispidum (Oliver) Breteler: 7, 8, flowers × 5; 9, 10, fruits × 0.8 (7, Breteler & J.J. de Wilde 721; 8, Breteler & J.J. de Wilde 76; 9, Bos 3153; 10, Breteler 6526). – Reprinted from MLW 79 (16): 32 (1979).*
 
 ![Dichapetalum heudelotii](../sources/Dichapetalaceae_vol32_paddle/figures/fig_030_p0110.png)
 

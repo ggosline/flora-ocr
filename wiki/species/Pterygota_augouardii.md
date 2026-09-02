@@ -7,6 +7,9 @@ family: Sterculiaceae
 vol: 02
 pages: 25-30
 source: sources/Sterculiaceae_vol02_paddle
+countries: [Gabon]
+in_region: true
+habit: "tree"
 tags: [species, generated]
 ---
 # *Pterygota augouardii* Pellegrin.
@@ -65,7 +68,7 @@ Corbet: 1061 S.R.F., L. Ezanga; 860 S.R.F., Bokoué (fl. Sept.). Le Testu: 1863,
 
 ![Pterygota augouardii](../sources/Sterculiaceae_vol02_paddle/figures/fig_005_p0027.png)
 
-*PL. V. — 1, Pterygota augouardii Pellegr., feuille; 2, portion d'inflorescence montrant la collerette cicatricielle laissée par la bractée. — 3, Pterygota bequaertii De Wild., feuille; 4, portion d'inflorescence montrant la cicatrice laissée par la bractée; 5, inflorescence; 6, bouton floral; 7, fleur épanouie; 8, demi-follicule présentant une coupe longitudinale opposée à la suture; 9, graine ailée; 10, coupe longitudinale de la graine (hile en bas).*
+*PL. V. — 1, Pterygota augouardii Pellegr., leaf; 2, portion of inflorescence showing the scar collar left by the bract. — 3, Pterygota bequaertii De Wild., leaf; 4, portion of inflorescence showing the scar left by the bract; 5, inflorescence; 6, flower bud; 7, open flower; 8, half-follicle showing a longitudinal section opposite to the suture; 9, winged seed; 10, longitudinal section of the seed (hilum below).*
 
 ## Notes
 

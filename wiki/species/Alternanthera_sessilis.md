@@ -5,12 +5,9 @@ authority: (L.) R. Br.
 genus: Alternanthera
 family: Amaranthaceae
 synonyms: []
-countries: [Gabon]
 range_note: "Pantropical wet-ground herb."
-countries_incomplete: true
-in_region: true
-habit: creeping herb
 treatments: [{vol: 7, pages: "42–43", source: sources/Amaranthaceae_vol7_paddle}]
+habit: "herb"
 tags: [species]
 ---
 

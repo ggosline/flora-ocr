@@ -7,6 +7,7 @@ family: Sapindaceae
 vol: 23
 pages: 153-154
 source: sources/Sapindaceae_vol23_paddle
+habit: "tree"
 tags: [species, generated]
 ---
 # *Aporrhiza letestui* Pellegrin
@@ -35,7 +36,7 @@ Le Testu 9108, Acam, entre Ogooué et Cameroun (fl., mai); 9508, Oyem entre Ogoo
 
 ![Aporrhiza letestui](../sources/Sapindaceae_vol23_paddle/figures/fig_036_p0155.png)
 
-*PL. 35. — Aporrhiza talbotii Bak. (1-8', Le Testu 5537; 9-16', Touzet 93) : 1, feuille, foliole 16 cm; 2, extrémité de grappe 2,5 cm; 3, 3', 3", bouton, 3,5 mm, coupe et pilosité; 4, fleur ouverte, 8 mm de haut avec pédicelle; 5, 5', pétales d'un bouton 2 mm; 6, 6', pétales de fleur épanouille 5 mm, faces interne, externe et coupe; 7, disque; 8, 8', étamines, faces externe et interne; 9, 9', 9', fruit de face, 18 mm, de profil et une valve ôtée; 10, 10', 10', graine 14 × 8 × 6 mm, face externe, profil, face hilaire; 11, 11', embryon, 13 mm, profil et face externe. — Aporrhiza letestui Pellegrin (Le Testu 9108) : 12, feuille, foliole 18 cm; 12', pilosité de la face inférieure 0,1 mm; 13, 13', bouton large de 3 mm et coupe; 14, 14', pétale du bouton, 2 mm, face externe, coupe et face interne; 15, 15', étamine, face externe et interne; 16, 16', jeune fruit large de 1 cm, face et profil. — Aporrhiza paniculata Radik. (Tisserant 1772) : 17, coupe de fleur, large 3,5 mm; 18, pétale, face externe, 1,8 cm.*
+*PL. 35. — Aporrhiza talbotii Bak. (1-8', Le Testu 5537; 9-16', Touzet 93) : 1, leaf, leaflet 16 cm; 2, tip of raceme 2.5 cm; 3, 3', 3", bud, 3.5 mm, section and pilose; 4, open flower, 8 mm high with pedicel; 5, 5', petals of a 2 mm bud; 6, 6', petals of expanded flower 5 mm, internal, external faces and section; 7, disc; 8, 8', stamens, external and internal faces; 9, 9', 9', fruit front view, 18 mm, profile and one valve removed; 10, 10', 10', seed 14 × 8 × 6 mm, external face, profile, hilar face; 11, 11', embryo, 13 mm, profile and external face. — Aporrhiza letestui Pellegrin (Le Testu 9108) : 12, leaf, leaflet 18 cm; 12', pilose of the lower surface 0.1 mm; 13, 13', bud 3 mm wide and section; 14, 14', petal of the bud, 2 mm, external face, section and internal face; 15, 15', stamen, external and internal face; 16, 16', young fruit 1 cm wide, front and profile. — Aporrhiza paniculata Radik. (Tisserant 1772) : 17, flower section, 3.5 mm wide; 18, petal, external face, 1.8 cm.*
 
 ## Notes
 

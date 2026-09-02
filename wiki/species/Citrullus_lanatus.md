@@ -7,6 +7,10 @@ family: Cucurbitaceae
 vol: 57
 pages: 50-53
 source: sources/Cucurbitaceae_vol57_paddle
+countries: [Gabon]
+in_region: true
+habit: "herb"
+altitude_m: "0–450"
 tags: [species, generated]
 ---
 # *Citrullus lanatus* (Thunb.) Mansf. subsp. lanatus

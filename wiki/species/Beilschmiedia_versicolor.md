@@ -7,6 +7,9 @@ family: Lauraceae
 vol: 10
 pages: 43-45
 source: sources/Lauraceae_vol10_paddle
+countries: [Cameroon, Democratic Republic of the Congo, Gabon]
+in_region: true
+habit: "tree"
 tags: [species, generated]
 ---
 # *Beilschmiedia versicolor* Kosterm..

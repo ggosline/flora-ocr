@@ -7,6 +7,12 @@ family: Cyperaceae
 vol: 44
 pages: 99-100
 source: sources/Cyperaceae_vol44_liteparse
+countries: [Gabon]
+in_region: true
+subdivisions:
+  Gabon: [Estuaire, Ogooué-Maritime]
+habit: "herb"
+altitude_m: "0–100"
 tags: [species, generated]
 ---
 # *Cyperus richardii* Steud. Planche 60

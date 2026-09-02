@@ -7,6 +7,7 @@ family: Apocynaceae
 vol: 59
 pages: 251-254
 source: sources/Apocynaceae_vol59_liteparse
+habit: "liana"
 tags: [species, generated]
 ---
 # *Tabernaemontana psorocarpa* (Pierre ex Stapf) Pichon Planche 118 ; Figure 13(F, G)
@@ -17,21 +18,11 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Notul. Syst. (Paris) 13 : 253 (1948). Gabunia psorocarpa Pierre ex Stapf, Fl. trop. Afr. 4(1) : 137 (1902). Liane grimpante, atteignant 20 m de hauteur ; rameaux glabres. Feuilles d’une paire égales ou parfois nettement inégales (mais de forme similaire), glabres ; pétiole de 3–11 mm ; limbe HOOLSWLTXHjpWURLWHPHQWHOOLSWLTXHGH±±î±FPFXQppjDUURQGLjODEDVHRXGp FXUUHQW VXU OH Spwlroh DFXPLQp DX VRPPHW EHDXFRXS SOXV SkOH WHUQH HW JODXTXH GHVVRXV nervures latérales en 4 à 10 paires, souvent obscures, plus visibles sur les plus grandes feuilles,
-
-ÀRUDOî±3DUWLHGHODFRUROOHFRXSHORQJLWXGLQDOHDYHFpWDPLQHVî±3DUWLHGXFDOLFHHWSLVWLO Leeuwenberg 9370 ; 6, 7 : Leeuwenberg 9659 ). Dessin par Piet Kostense, Naturalis Biodiversity Center (©), reproduit à partir de Leeuwenberg (1991).
-
-nervation tertiaire peu visible. ,QÀRUHVFHQFH DYHF j ÀHXUV Spgrqfxoh GH PP JODEUHEUDFWpHVVTXDPLIRUPHV Fleur à parfum suave ; pédicelle de 5–16 mm ; calice à lobes de 2–4 × 2–3 mm , vert pâle, glabres sur les deux faces, ciliés, sans collétères à l’intérieur ; corolle blanche ou crème, à tube souvent verdâtre, cireuse, bouton mûr long de 12–23 mm, à Wrwhryrwghrxvxejorexohxvhuhodwlyhphqwodujhhwjdsh[REWXVJODEUHRXIDLEOHPHQWSXEHV cente sur les lobes et parfois aussi sur la moitié supérieure du tube à l’extérieur, pubescente RXSRLOXHjO¶LQWpULHXUGHODEDVHGHVOREHVYHUVOHEDVjWXEHVXEF\OLQGULTXH long de 10–15 mm , élargi au niveau des anthères sur 3 – PPUpWUpFLDXGHVVXVV¶pODUJLVVDQWEUXVTXHPHQWj ODJRUJHSDUIRLVWRUGXGH±WRXUDXQLYHDXGHVDQWKqUHVjOREHVREOLTXHVHWpWURLWHPHQW REORQJVIDOFLIRUPHV±IRLVDXVVLORQJVTXHOHWXEH±IRLVDXVVLORQJVTXHODUJHVGH 9–17 × 3–5 mm, légèrement auriculés du côté gauche de la base, partiellement ciliés à la base ; étamines incluses, insérées près de la base du tube, anthère longue de 5–6,5 mm ; pistil long de 4,5–6 mm, glabre ; style de 1–2 mm. Fruit : méricarpes distincts, obliquement ellipsoïdaux , de 55–60 × 20–62 × 10–35 mm, vert glauque pâle , bosselé et à crêtes longitudinales ; exocarpe charnu de 10–12 mm d’épaisseur à maturité. Graine longue de 7–11,5 mm, densément papilleuse et striée longitudinalement. Distribution VXGHVWGX1LJpULD&DPHURXQHW*DERQDX*DERQ(VWXDLUH0R\HQ2JRRXp1JRXQLp 2JRRXp0DULWLPHHW:ROHX1WHP Breteler & de Wilde 478 ; 3-5 : J.J.F.E. de Wilde et al. 23/83 ). Dessin par Yuen Fang Tan, Naturalis Biodiversity Center (©), reproduit à partir de Leeuwenberg (1991).
-
-Écologie VRXVpWDJHGHODIRUrWSULPDLUHHWVHFRQGDLUHDX*DERQMXVTX¶jPG¶DOWLWXGHDLOOHXUV MXVTX¶jP
+Notul. Syst. (Paris) 13 : 253 (1948). Gabunia psorocarpa Pierre ex Stapf, Fl. trop. Afr. 4(1) : 137 (1902). Climbing liane, reaching 20 m in height; branchlets glabrous. Leaves in a single pair, equal or sometimes distinctly unequal (but of similar form), glabrous; petiole 3–11 mm; lamina oblong to narrowly elliptic, 6–21 × 2–9 cm, cuneate to rounded at base or decurrent on petiole, acuminate at apex, much paler and glaucous beneath; lateral veins in 4 to 10 pairs, often obscure, more visible on the larger leaves, tertiary venation scarcely visible. Inflorescence with 2–4 flowers; pedicel 4–8 mm, glabrous; bracts squamiform. Flower with sweet fragrance; pedicel 5–16 mm; calyx with lobes 2–4 × 2–3 mm, pale green, glabrous on both surfaces, ciliate, without colleters within; corolla white or cream, tube often greenish, waxy, mature bud 12–23 mm long, with obovoid or subglobose relatively wide and gaping lobes, glabrous or weakly pubescent on the lobes and sometimes also on the upper half of the tube externally, pubescent or pilose at the interior of the base of the lobes; tube towards the base subcylindrical, long 10–15 mm, enlarged at the level of the anthers over 3–4 mm, retracted above, enlarging abruptly at the throat, sometimes twisted 0.5–1 turn at the level of the anthers; lobes oblique and narrowly oblong, falciform, 1.5–2 times as long as the tube, 0.5–0.7 times as long as wide, 9–17 × 3–5 mm, slightly auricate on the left side of the base, partially ciliate at the base; stamens included, inserted near the base of the tube, anther 5–6.5 mm long; pistil 4.5–6 mm long, glabrous; style 1–2 mm. Fruit: distinct mericarps, obliquely ellipsoid, 55–60 × 20–62 × 10–35 mm, pale glaucous green, bumpy and with longitudinal ridges; exocarp fleshy, 10–12 mm thick at maturity. Seed 7–11.5 mm long, densely papillose and longitudinally striate. Distribution: southeast of Nigeria, Cameroon and Gabon, in Gabon in Estuaire, Moyen-Ogooué, Ngounié, Ogooué-Maritime and Woleu-Ntem. Ecology: understorey of primary and secondary forest in Gabon, up to 650 m altitude; elsewhere up to 800 m.
 
 ## Source note
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Dans la révision de Tabernaemontana (Leeuwenberg 1991), l’aire de distribution de T. psorocarpa PRQWUHXQJUDQGpORLJQHPHQWHQWUHOH*KDQDHWO¶HVWGX1LJpULD,OHVWPDLQWHQDQWFODLUTXHOHV VSpFLPHQVGHO¶RXHVWUHSUpVHQWHQWXQHHVSqFHGLIIpUHQWHDYHFGHVÀHXUVOpJqUHPHQWSOXVJUDQGHVHWGHV fruits lisses et orange. Les fruits de T. psorocarpa WHOVTXHSUpVHQWpVLFLVRQWIRUWHPHQWERVVHOpVHWG¶XQ vert pâle à maturité (Fig. 13G)
+In the revision of Tabernaemontana (Leeuwenberg 1991), the distribution area of T. psorocarpa showed a large gap between Ghana and east of Nigeria. It is now clear that the specimens from the west represent a different species with slightly larger flowers and smooth orange fruits. The fruits of T. psorocarpa as presented here are strongly bumpy and pale green at maturity (Fig. 13G).
 
 ## Bibliography
 

@@ -7,6 +7,9 @@ family: Celastraceae
 vol: 29
 pages: 245-246
 source: sources/Celastraceae_vol29_paddle
+countries: [Cameroon, Gabon]
+in_region: true
+habit: "liana"
 tags: [species, generated]
 ---
 # *Loeseneriella camerunica* (Loesener) Hallé, comb. nov.

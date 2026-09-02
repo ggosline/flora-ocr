@@ -7,6 +7,8 @@ family: Celastraceae
 vol: 29
 pages: 139-141
 source: sources/Celastraceae_vol29_paddle
+countries: [Cameroon, Cote d'Ivoire, Gabon, Ghana, Nigeria]
+in_region: true
 tags: [species, generated]
 ---
 # *Salacia howesii* Hutchinson & Moss

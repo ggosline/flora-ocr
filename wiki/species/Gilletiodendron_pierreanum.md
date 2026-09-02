@@ -7,6 +7,7 @@ family: Leguminosae
 vol: 15
 pages: 61-63
 source: sources/Leguminosae_vol15_paddle
+habit: "tree"
 tags: [species, generated]
 ---
 # *Gilletiodendron pierreanum* (Harms) Léonard

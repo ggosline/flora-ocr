@@ -7,6 +7,10 @@ family: Leguminosae
 vol: 49
 pages: 210-211
 source: sources/Millettiaspeciesfabaceae_vol49_liteparse
+countries: [Gabon, Madagascar]
+in_region: true
+habit: "shrub"
+altitude_m: "300–2700"
 tags: [species, generated]
 ---
 # *Indigofera arrecta* Hochst. ex A.Rich.

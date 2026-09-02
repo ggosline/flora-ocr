@@ -7,6 +7,13 @@ family: Leguminosae
 vol: 49
 pages: 235-237
 source: sources/Millettiaspeciesfabaceae_vol49_liteparse
+countries: [Cameroon, Gabon]
+in_region: true
+subdivisions:
+  Gabon: [Estuaire, Nyanga]
+habit: "liana"
+habitat: [secondary forest]
+altitude_m: "150"
 tags: [species, generated]
 ---
 # *Leptoderris tomentella* Harms

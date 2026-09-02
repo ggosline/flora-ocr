@@ -7,6 +7,13 @@ family: Phyllanthaceae
 vol: 43
 pages: 30-32
 source: sources/Phyllanthaceae_vol43_liteparse
+countries: [Cameroon, Equatorial Guinea, Gabon]
+in_region: true
+subdivisions:
+  Gabon: [Estuaire, Ngounié, Ogooué-Maritime]
+habit: "tree"
+habitat: [secondary forest]
+altitude_m: "0–400"
 tags: [species, generated]
 ---
 # *Cleistanthus letouzeyi* J.Léonard

@@ -96,7 +96,7 @@ Touzet 83, la Nkoulounga (fr., nov.).
 
 ![Anthocleista vogelii](../sources/Loganiaceae_vol19_paddle/figures/fig_007_p0024.png)
 
-*PL. 7. — Anthocleista vogelii Planch. : 1, feuille pétiolée; 2, base de feuille sessile face inférieure; 3, rameau avec bases de feuilles; 4 et 5, rameau avec boutons axillaires se développant; 6, jeune bouton; 7, bouton presque mür; 8, bouton entrouvert; 9, fleur; 10, fruit. (1-10, × ½). (1, 4-5 : Zenker 1965; 2, 6-10 : d'après Ghesquière 4943, Congo-Kinshasa, BR; 3 : d'après Louis 13544, Congo-Kinshasa, BR).*
+*PL. 7. — Anthocleista vogelii Planch. : 1, petiolate leaf; 2, base of sessile leaf lower surface; 3, branch with leaf bases; 4 and 5, branch with developing axillary buds; 6, young bud; 7, nearly mature bud; 8, partially open bud; 9, flower; 10, fruit. (1-10, × ½). (1, 4-5 : Zenker 1965; 2, 6-10 : after Ghesquière 4943, Congo-Kinshasa, BR; 3 : after Louis 13544, Congo-Kinshasa, BR).*
 
 ## Notes
 

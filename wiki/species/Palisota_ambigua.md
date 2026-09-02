@@ -7,6 +7,9 @@ family: Commelinaceae
 vol: 55
 pages: 52-54
 source: sources/Commelinaceae_vol55_liteparse
+countries: [Angola, Cameroon, Central African Republic, Democratic Republic of the Congo, Equatorial Guinea, Gabon, Nigeria, Republic of the Congo]
+in_region: true
+altitude_m: "1020"
 tags: [species, generated]
 ---
 # *Palisota ambigua* (P.Beauv.) C.B.Clarke Figure 3(F, G)

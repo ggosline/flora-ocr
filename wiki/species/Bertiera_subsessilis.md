@@ -7,6 +7,10 @@ family: Rubiaceae
 vol: 17
 pages: 64-66
 source: sources/Rubiaceae_vol17_paddle
+countries: [Cameroon, Gabon, Nigeria]
+in_region: true
+habit: "shrub"
+altitude_m: "1000"
 tags: [species, generated]
 ---
 # *Bertiera subsessilis* Hiern

@@ -7,6 +7,10 @@ family: Apocynaceae
 vol: 59
 pages: 120-121
 source: sources/Apocynaceae_vol59_liteparse
+countries: [Cameroon, Gabon]
+in_region: true
+subdivisions:
+  Gabon: [Woleu-Ntem]
 tags: [species, generated]
 ---
 # *Landolphia coriacea* Jongkind, spec . nov .

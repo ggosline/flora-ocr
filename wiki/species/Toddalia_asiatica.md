@@ -5,12 +5,9 @@ authority: (L.) Lamk.
 genus: Toddalia
 family: Rutaceae
 synonyms: [Toddalia aculeata]
-countries: [Gabon]
 range_note: "The treatment presents the species as widespread beyond Gabon."
-countries_incomplete: true
-in_region: true
-habit: scrambling shrub or liana
 treatments: [{vol: 6, pages: "77–78", source: sources/Rutaceae_vol6_paddle}]
+habit: "liana"
 tags: [species]
 ---
 

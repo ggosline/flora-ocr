@@ -7,6 +7,13 @@ family: Leguminosae
 vol: 49
 pages: 211-211
 source: sources/Millettiaspeciesfabaceae_vol49_liteparse
+countries: [Angola, Democratic Republic of the Congo, Gabon, Tanzania, Uganda]
+in_region: true
+subdivisions:
+  Gabon: [Moyen-Ogooué, Nyanga]
+habit: "herb"
+habitat: [rocky ground]
+altitude_m: "1700"
 tags: [species, generated]
 ---
 # *Indigofera congesta* Welw. ex Baker

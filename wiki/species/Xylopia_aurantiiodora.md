@@ -7,6 +7,9 @@ family: Annonaceae
 vol: 16
 pages: 0-0
 source: sources/Annonaceae_vol16_mineru
+countries: [Cameroon, Central African Republic, Gabon]
+in_region: true
+habit: "tree"
 tags: [species, generated]
 ---
 # *Xylopia aurantiiodora* De Wild. et Th. Dur.
@@ -23,13 +26,11 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 (PL. 27, p. 157)
 
-Cette espece a été mise en synonymie par Pellegrin avec X.Quintasii et rétablie par les auteurs suivants.L'appareil végétatif,la disposition et la forme extérieure des fleurs,les fruits et graines sont tout ä fait semblables,mais les caracteres diffé- rents des pétales en font une bonne espéce.
+This species was placed in synonymy by Pellegrin with X. Quintasii and reinstated by the following authors. The vegetative apparatus, the arrangement and external form of the flowers, the fruits and seeds are entirely similar, but the different characters of the petals make it a good species.
 
-Arbuste ou arbre atteignant 3o m de hauteur.Limbe des feuilles généralement elliptique,moins nettement obové que chez X. Quintasii. Fleurs jaune verdatre. Sépales largement ovés â semi-orbiculaires,longs de 2 mm,larges de 3 mm.Pétales externes linéaires rubanés, nc depassant pas l3 mm de longueur, légerement étranglés au-dessus de la base,arrondis au sommet, tomentelleux â l'extérieur,pubérulents ä 'intérieur,mais glabres ä la base; pétales internes linéaires-cylindriques,longs de 8-9 mm, arrondis au sommet,a lame plus courte que chez X. Quintasii, base élargie, oblongue, presque aussi longue que la lame, concave, munie a son sommet interne d'un appendice pubescent dirigé vers le bas, fermant en partie la cavité,et sur les cotés d'une membrane longitudinale jaunatre. Une rangée de staminodes externes. Etamines insérées sur le réceptacle á peu pres au méme niveau que les carpelles. Carpelles 3-4;ovaires velus;styles lineaires, presque aussi longs que les ovaires, pubérulents au sommet. 2-3 ovules.
+Shrub or tree reaching 30 m in height. Leaf blade generally elliptic, less distinctly obovate than in X. Quintasii. Flowers yellowish-green. Sepals broadly ovate to semi-orbicular, 2 mm long, 3 mm wide. External petals linear ribbon-like, not exceeding 13 mm in length, slightly constricted above the base, rounded at the apex, tomentellous on the outside, puberulent on the inside but glabrous at the base; internal petals linear-cylindric, 8–9 mm long, rounded at the apex, with lamina shorter than in X. Quintasii, base enlarged, oblong, almost as long as the lamina, concave, furnished at its inner apex with a pubescent appendage directed downward, partially closing the cavity, and on the sides with a yellowish longitudinal membrane. One row of external staminodes. Stamens inserted on the receptacle at approximately the same level as the carpels. Carpels 3–4; ovaries hairy; styles linear, almost as long as the ovaries, puberulent at the apex. 2–3 ovules.
 
 ## Type
 
@@ -37,11 +38,9 @@ Dewevre 66o, Coquilhatville,24 janv. I8g6,Congo-Kinshasa (holotype BR!)
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Species of dense humid forest or periodically inundated forest, much less frequent than X. Quintasii. Its distribution area is also much less extensive; it comprises Cameroon, the Central African Republic, and Congo-Kinshasa.
 
-Espéce de forét dense humide ou périodiquement inondée, beaucoup moins frequente que X. Quintasii. Son aire de répartition est aussi beaucoup moins vaste; elle comprend le Cameroun, la République centrafricaine et le Congo-Kinshasa.
-
-Espéce á rechercher au Gabon.
+Species to be searched for in Gabon.
 
 ## Notes
 

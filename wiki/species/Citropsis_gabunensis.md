@@ -5,10 +5,10 @@ authority: (Engl.) Sw. et Kell.
 genus: Citropsis
 family: Rutaceae
 synonyms: [Citriopsis gabonensis, Limonia gabunensis, Limonia lacourtiana, Citropsis zenkeri]
-countries: [Sierra Leone, Liberia, Cameroon, Equatorial Guinea, Gabon, Democratic Republic of the Congo, Angola]
-in_region: true
-habit: spiny shrub
 treatments: [{vol: 6, pages: "97–99", source: sources/Rutaceae_vol6_paddle}]
+countries: [Angola, Cameroon, Democratic Republic of the Congo, Equatorial Guinea, Gabon, Liberia, Sierra Leone]
+in_region: true
+habit: "shrub"
 tags: [species]
 ---
 

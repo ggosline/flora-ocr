@@ -7,6 +7,9 @@ family: Moraceae
 vol: 26
 pages: 134-137
 source: sources/Moraceae_vol26_paddle
+countries: [Angola, Cameroon, Equatorial Guinea, Gabon, Guinea-Bissau, Sao Tome and Principe, Tanzania]
+in_region: true
+habitat: [evergreen forest]
 tags: [species, generated]
 ---
 # *Ficus mucuso* Ficalho
@@ -51,7 +54,7 @@ Fleury in Chevalier 33546, près Libreville (fig., mai). Hijman & Weerdenburg 40
 
 ![Ficus mucuso](../sources/Moraceae_vol26_paddle/figures/fig_037_p0136.png)
 
-*PL. 36. – Ficus mucuso Ficalho : 1, rameau avec feuilles × 1 ; 2, détail du limbe, face inférieure ; 3, rameau avec figue × 1 (1, 2, Polhill 751, Kenya ; 3, Hallé F. 1790, Côte d'Ivoire).*
+*PL. 36. – Ficus mucuso Ficalho : 1, branch with leaves × 1 ; 2, detail of lamina, lower surface ; 3, branch with fig × 1 (1, 2, Polhill 751, Kenya ; 3, Hallé F. 1790, Côte d'Ivoire).*
 
 ## Notes
 

@@ -7,6 +7,9 @@ family: Leguminosae
 vol: 15
 pages: 65-67
 source: sources/Leguminosae_vol15_paddle
+countries: [Cameroon, Equatorial Guinea, Gabon, Nigeria]
+in_region: true
+habit: "tree"
 tags: [species, generated]
 ---
 # *Zenkerella citrina* (Harms) Taubert
@@ -42,7 +45,7 @@ Le Testu : 9185, Oyem (fl. juin) ; 9479, Oyem (fl. fév.)
 
 ![Zenkerella citrina](../sources/Leguminosae_vol15_paddle/figures/fig_061_p0254.png)
 
-*PL. LXI. — Didelotia unifoliolata Léonard : 1, rameau florifère × 2 /3; 2, fleur × 2; 3, fruit × 2 /3. — Didelotia Morelii Aubréville : 4, feuille × 2 /3; 5, foliole gr. nat.; 6, stipule intrapétiolaire. — Zenkerella citrina Taubert : 7, rameau florifère × 2 /3; 8, bractée × 4; 9, fleur × 3.*
+*PL. LXI. — Didelotia unifoliolata Léonard : 1, flowering branch × 2 /3; 2, flower × 2; 3, fruit × 2 /3. — Didelotia Morelii Aubréville : 4, leaf × 2 /3; 5, leaflet nat. size; 6, intrapetiolar stipule. — Zenkerella citrina Taubert : 7, flowering branch × 2 /3; 8, bract × 4; 9, flower × 3.*
 
 ## Notes
 

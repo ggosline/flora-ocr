@@ -7,6 +7,8 @@ family: Pteridophytes
 vol: 08
 pages: 26-27
 source: sources/Salviniaceae_vol08_paddle
+countries: [Cameroon, Cote d'Ivoire, Guinea, Liberia, Nigeria, Sierra Leone]
+in_region: true
 tags: [species, generated]
 ---
 # *Selaginella leoneensis* Hieronymus
@@ -16,13 +18,9 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 — Hier. in Engler et Prantl, Naturl. Pflanzenfam. I (4) : 697 (1901). — Alston, Mém. IFAN 50 : 43 (1957); FWTA : 17 (1959).
 
-Rhizophores localisés au tiers inférieur de la tige, atteignant 4 cm de long, glabres, straminés pâles. Tiges principales dressées, atteignant 25 cm de haut sur 2 mm de diamètre, straminées rosâtre pâle. Rameaux glabres, divergeant à 45°. Partie rameuse tripennée, à contour ovale. Pas de soboles. Feuilles entièrement
-
-hétéromorphes. Feuilles latérales largement espacées sur la tige principale, plus rapprochées sur les branches mais ni contiguës ni imbriquées, inéquilatérales, longues d'environ 2,25 mm, sur 1 mm de large, subaiguës, la moitié supérieure semi-ovale-lancéolée, arrondie et ciliolée à la base, serrulée et cunéiforme au sommet; moitié supérieure oblongue, entière ou serrulée. Marge avec plus d'une rangée de cellules allongées. Feuilles axillaires légèrement inéquilatérales, ovales, denticulées, longues d'environ 2,25 mm. Feuilles médianes espacées sur la tige principale, subcontiguës sur les branches, elliptiques, ciliolées, aristées, à arête mesurant environ les 2/3 de la longueur du limbe. Strobiles à l'extrémité des rameaux ultimes, longs de 2-6 mm sur 2,5 de large. Sporophylles hétéromorphes : sporophylles dorsaux oblonges, verts, subaigus, serrulés au sommet sur la marge inférieure, ciliolés-serrulés sur la marge supérieure, légèrement décurrents à la base; sporophylles ventraux hyalins, ovales-acuminés aristés, fortement ciliés. Mégaspores jaune soufre foncé, trilètes, ayant environ 200 μ de diamètre, lisses. Microspores vermillon (en masse), ayant environ 32 μ de diamètre, avec une marque triradiée atteignant la marge, lisses.
+Rhizophores localized in the lower third of the stem, reaching 4 cm long, glabrous, pale stramineous. Main stems erect, reaching 25 cm tall on 2 mm diameter, pale reddish stramineous. Branches glabrous, diverging at 45°. Branched portion tripinnate, with oval outline. No stolons. Leaves entirely heteromorphic. Lateral leaves widely spaced on the main stem, closer together on the branches but neither contiguous nor imbricate, inequilateral, approximately 2.25 mm long, 1 mm wide, subacute, the upper half semi-oval-lanceolate, rounded and ciliolate at the base, serrulate and cuneiform at the apex; lower half oblong, entire or serrulate. Margin with more than one row of elongated cells. Axillary leaves slightly inequilateral, ovate, denticulate, approximately 2.25 mm long. Median leaves spaced on the main stem, subcontiguous on the branches, elliptic, ciliolate, aristate, with the awn measuring approximately 2/3 of the limb length. Strobili at the tip of the ultimate branches, 2–6 mm long on 2.5 wide. Sporophylls heteromorphic: dorsal sporophylls oblong, green, subacute, serrulate at the apex on the lower margin, ciliolate-serrulate on the upper margin, slightly decurrent at the base; ventral sporophylls hyaline, oval-acuminate aristate, strongly ciliate. Megaspores dark sulfur yellow, trilete, approximately 200 μ in diameter, smooth. Microspores vermilion (in mass), approximately 32 μ in diameter, with a triradiate mark reaching the margin, smooth.
 
 ## Type
 
@@ -30,11 +28,9 @@ Brown 79 (B, isotype P)
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Guinea, Sierra Leone, Liberia, Ivory Coast, Nigeria, Cameroon.
 
-Guinée, Sierra-Leone, Liberia, Côte-d'Ivoire, Nigeria, Cameroun.
-
-Sur boue latérifère.
+On laterite mud.
 
 ## Specimens examined
 

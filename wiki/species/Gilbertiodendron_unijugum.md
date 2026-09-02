@@ -7,6 +7,7 @@ family: Leguminosae
 vol: 15
 pages: 224-227
 source: sources/Leguminosae_vol15_paddle
+habit: "tree"
 tags: [species, generated]
 ---
 # *Gilbertiodendron unijugum* (Pellegrin) Léonard
@@ -73,7 +74,7 @@ The bole is cylindrical, without buttresses. The stands are easily recognized by
 
 ![Gilbertiodendron unijugum](../sources/Leguminosae_vol15_paddle/figures/fig_053_p0226.png)
 
-*PL. LIII. — Gilbertodendron Dewevrei (de Wild.) Léonard : 1, inflorescence et feuille × 2 /3; 2, détail du limbe; 3, oreillette d'une stipule gr. nat.; 4, fleur × 2. — Gilbertodendron ogouense Pellegrin : 5, inflorescence et feuille × 2 /3; 6, fleur × 2; 7, détail des sépales et pétales.*
+*PL. LIII. — Gilbertodendron Dewevrei (de Wild.) Léonard : 1, inflorescence and leaf × 2 /3; 2, detail of the limb; 3, auricle of a stipule nat. size; 4, flower × 2. — Gilbertodendron ogouense Pellegrin : 5, inflorescence and leaf × 2 /3; 6, flower × 2; 7, detail of the sepals and petals.*
 
 ## Notes
 

@@ -7,6 +7,13 @@ family: Clusiaceae
 vol: 45
 pages: 25-25
 source: sources/Clusiaceae_vol45_liteparse
+countries: [Gabon]
+in_region: true
+subdivisions:
+  Gabon: [Moyen-Ogooué, Ngounié, Nyanga]
+habit: "tree"
+habitat: [secondary forest]
+altitude_m: "830"
 tags: [species, generated]
 ---
 # *Garcinia gabonensis* Sosef & Dauby Planche 4

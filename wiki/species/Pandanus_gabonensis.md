@@ -4,16 +4,15 @@ name: Pandanus gabonensis
 authority: Huynh
 genus: Pandanus
 family: Pandanaceae
-countries: [Gabon]
-in_region: true
-habit: tree
-habitat: [riverbank]
 treatments:
   - vol: 28
     year: 1986
     authors: [Huynh K.-L.]
     pages: "13–17"
     source: sources/Pandanaceae_vol28_paddle
+countries: [Gabon]
+in_region: true
+habit: "tree"
 tags: [species, endemic]
 ---
 

@@ -7,6 +7,9 @@ family: Orchidaceae
 vol: 37
 pages: 197-199
 source: sources/Orchidaceae_vol37_paddle
+countries: [Cameroon, Gabon, Nigeria]
+in_region: true
+altitude_m: "40"
 tags: [species, generated]
 ---
 # *Chamaeangis lanceolata* Summerh.
@@ -39,7 +42,7 @@ Leroy 145, s.loc., P!.
 
 ![Chamaeangis lanceolata](../sources/Orchidaceae_vol37_paddle/figures/fig_095_p0200.png)
 
-*PL. 201. – Chamaeangis lanceolata Summerh. : A, labelle, éperon, ovaire, pédicelle, bractée florale et partie de l'axe de l'inflorescence ; B, labelle ; C, sépale dorsal ; D, pétale ; E, sépale latéral ; F, extrémité foliaire. – Chamaeangis odoratissima (Rchb.f.) Schltr. : G, labelle, éperon, gynostème, ovaire, pédicelle, bractée florale et partie de l'axe de l'inflorescence ; H, labelle ; I, sépale latéral ; J, pétale ; K, sépale dorsal ; L, extrémité foliaire (A-F, Letouzey 9159, P ; G-L, Tisserant 1263, P).*
+*PL. 201. – Chamaeangis lanceolata Summerh. : A, labellum, spur, ovary, pedicel, floral bract and part of the inflorescence axis ; B, labellum ; C, dorsal sepal ; D, petal ; E, lateral sepal ; F, foliar tip. – Chamaeangis odoratissima (Rchb.f.) Schltr. : G, labellum, spur, gynostemium, ovary, pedicel, floral bract and part of the inflorescence axis ; H, labellum ; I, lateral sepal ; J, petal ; K, dorsal sepal ; L, foliar tip (A-F, Letouzey 9159, P ; G-L, Tisserant 1263, P).*
 
 ![Chamaeangis lanceolata](../sources/Orchidaceae_vol37_paddle/figures/fig_171_p0260.png)
 

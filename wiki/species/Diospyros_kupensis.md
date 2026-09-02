@@ -7,17 +7,14 @@ family: Ebenaceae
 status: spec. nov.
 type_specimen: "Cameroon, South West Province, Tombel Subdivision, Mt Kupe above Kupe village, Muanezum trail, 900 m alt., 29 Jan 1995, Etuge 1369 (holo: K; iso: BR, MO, P, SCA, WAG, YA)"
 synonyms: []
-habit: treelet
-habitat: [submontane rainforest understorey, steep slopes]
-altitude_m: "700-1250"
-countries: [Cameroon]
-in_region: true
 treatments:
   - kind: article
     year: 1998
     citation: "Gosline G. & Cheek M. (1998). A new species of Diospyros (Ebenaceae) from Southwest Cameroon. Kew Bulletin 53(2): 461-465."
     pages: "461-465"
     source: sources/articles/diospyros_kupensis/liteparse
+countries: [Cameroon]
+in_region: true
 tags: [species, novelty]
 ---
 

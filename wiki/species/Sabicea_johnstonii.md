@@ -7,6 +7,9 @@ family: Rubiaceae
 vol: 12
 pages: 193-194
 source: sources/Rubiaceae_vol12_paddle
+countries: [Nigeria]
+in_region: true
+habit: "liana"
 tags: [species, generated]
 ---
 # *Sabicea johnstonii* K. Schum. ex Wernh.

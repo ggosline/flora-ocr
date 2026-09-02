@@ -5,13 +5,9 @@ authority: H. B. et K.
 genus: Polygonum
 family: Polygonaceae
 synonyms: []
-countries: [Gabon]
 range_note: "Tropical and southern Africa and tropical America."
-countries_incomplete: true
-in_region: true
-habit: herb
-habitat: [lagoon margins, marshes]
 treatments: [{vol: 7, pages: "15–16", source: sources/Polygonaceae_vol7_paddle}]
+habit: "herb"
 tags: [species]
 ---
 

@@ -7,6 +7,7 @@ family: Sapindaceae
 vol: 23
 pages: 142-143
 source: sources/Sapindaceae_vol23_paddle
+habit: "tree"
 tags: [species, generated]
 ---
 # *Melicocca bijuga* Linné

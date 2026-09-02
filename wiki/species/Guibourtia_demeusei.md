@@ -7,6 +7,10 @@ family: Leguminosae
 vol: 15
 pages: 125-126
 source: sources/Leguminosae_vol15_paddle
+countries: [Cameroon, Gabon]
+in_region: true
+habit: "tree"
+habitat: [swamp forest]
 tags: [species, generated]
 ---
 # *Guibourtia demeusei* (Harms) Léonard (P.L. 27, p. 123)

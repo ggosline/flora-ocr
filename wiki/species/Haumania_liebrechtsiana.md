@@ -7,6 +7,9 @@ family: Marantaceae
 vol: 09
 pages: 111-112
 source: sources/Marantaceae_vol09_paddle
+countries: [Gabon]
+in_region: true
+habit: "liana"
 tags: [species, generated]
 ---
 # *Haumania liebrechtsiana* (De Wild. et Th. Dur.)

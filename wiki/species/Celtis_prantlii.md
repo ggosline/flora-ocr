@@ -7,6 +7,12 @@ family: Ulmaceae
 vol: 58
 pages: 126-127
 source: sources/Ulmaceae_vol58_liteparse
+countries: [Angola, Cameroon, Central African Republic, Democratic Republic of the Congo, Equatorial Guinea, Gabon, Nigeria, Republic of the Congo, Sao Tome and Principe]
+in_region: true
+subdivisions:
+  Gabon: [Nyanga]
+habit: "tree"
+altitude_m: "75–200"
 tags: [species, generated]
 ---
 # *Celtis prantlii* Priemer ex Engl.

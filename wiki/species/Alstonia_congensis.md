@@ -7,6 +7,7 @@ family: Apocynaceae
 vol: 59
 pages: 33-35
 source: sources/Apocynaceae_vol59_liteparse
+habit: "tree"
 tags: [species, generated]
 ---
 # *Alstonia congensis* Engl. Planche 10

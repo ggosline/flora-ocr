@@ -7,6 +7,9 @@ family: Melastomataceae
 vol: 25
 pages: 82-84
 source: sources/Melastomataceae_vol25_paddle
+countries: [Angola]
+in_region: true
+habit: "shrub"
 tags: [species, generated]
 ---
 # *Amphiblemma ciliatum* Cogniaux
@@ -39,7 +42,7 @@ Le Testu 5210, haute Ngounié, entre Mouila et Kembélé (fév.). Pobéguin s.n.
 
 ![Amphibemma ciliatum](../sources/Melastomataceae_vol25_paddle/figures/fig_029_p0083.png)
 
-*PL. 29. — Amphiblemma heterophyllum Jacq.-Fél. : 1, aspect général × 2/3; 2, étamine externe × 6; 3, étamine interne × 6; 4, détail de 3 × 12; 5, capsule × 4 (Hallé N. & Villiers J.-F. 5105). (Repris d'Adansonia, sér. 2, 13 (4) : tab. 7, 1973).*
+*PL. 29. — Amphiblemma heterophyllum Jacq.-Fél. : 1, general aspect × 2/3; 2, external stamen × 6; 3, internal stamen × 6; 4, detail of 3 × 12; 5, capsule × 4 (Hallé N. & Villiers J.-F. 5105). (Taken from Adansonia, ser. 2, 13 (4) : tab. 7, 1973).*
 
 ## Notes
 

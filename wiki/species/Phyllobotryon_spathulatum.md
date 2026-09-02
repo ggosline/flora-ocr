@@ -7,6 +7,8 @@ family: Flacourtiaceae
 vol: 34
 pages: 27-29
 source: sources/Flacourtiaceae_vol34_paddle
+countries: [Cameroon, Equatorial Guinea, Gabon, Nigeria]
+in_region: true
 tags: [species, generated]
 ---
 # *Phyllobotryon spathulatum* Muell. Arg.

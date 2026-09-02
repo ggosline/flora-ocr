@@ -7,6 +7,11 @@ family: Gentianaceae
 vol: 54
 pages: 77-79
 source: sources/Gentianaceae_vol54_liteparse
+countries: [Angola, Equatorial Guinea, Gabon, Republic of the Congo]
+in_region: true
+habit: "herb"
+habitat: [coastal]
+altitude_m: "20"
 tags: [species, generated]
 ---
 # *Neurotheca corymbosa* Hua Planche 26(1, 2), Figure 6(D, E)

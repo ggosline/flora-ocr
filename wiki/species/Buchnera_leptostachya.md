@@ -7,6 +7,12 @@ family: Scrophulariaceae
 vol: 48
 pages: 111-111
 source: sources/Scrophulariaceae_vol48_liteparse
+countries: [Cameroon, Gabon, Gambia, Ghana, Guinea-Bissau, Madagascar, Malawi, Mali, Mozambique, Nigeria, Senegal, Sierra Leone, Tanzania, Zambia, Zimbabwe]
+in_region: true
+subdivisions:
+  Gabon: [Nyanga, Ogooué-Maritime]
+habit: "herb"
+altitude_m: "170"
 tags: [species, generated]
 ---
 # *Buchnera leptostachya* Benth. Planche 56(H–I)

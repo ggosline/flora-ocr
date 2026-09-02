@@ -7,6 +7,7 @@ family: Apocynaceae
 vol: 59
 pages: 47-47
 source: sources/Apocynaceae_vol59_liteparse
+habit: "liana"
 tags: [species, generated]
 ---
 # *Baissea baillonii* Hua Planche 16

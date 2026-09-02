@@ -7,6 +7,7 @@ family: Thymeleaceae
 vol: 11
 pages: 75-78
 source: sources/Thymeleaceae_vol11_paddle
+habit: "shrub"
 tags: [species, generated]
 ---
 # *Dicranolepis soyauxii* Engl. (P.L. X)
@@ -47,7 +48,7 @@ L'échantillon Tessmann 174 (K), indiqué de Guinée espagnole se rapporte à ce
 
 ![Dicranolepis soyauxii](../sources/Thymeleaceae_vol11_paddle/figures/fig_010_p0077.png)
 
-*PL. X. — Dicranolepis Soyauxii Engl.: 1, rameau florifère (× 2/3); 2, feuille (× 2/3); 3, fleur ouverte (× 2); 4, fruit jeune (× 2/3). — Dicranolepis pulcherima Gilg; 5, rameau florifère (× 2/3); 6, jeune fruit (× 2/3). — 1 à 3, Le Testu 8758; 4, N. Hallé 714; 5, Le Testu 7922; 6, N. Hallé 2601.*
+*PL. X. — Dicranolepis Soyauxii Engl.: 1, flowering branch (× 2/3); 2, leaf (× 2/3); 3, open flower (× 2); 4, young fruit (× 2/3). — Dicranolepis pulcherima Gilg; 5, flowering branch (× 2/3); 6, young fruit (× 2/3). — 1 to 3, Le Testu 8758; 4, N. Hallé 714; 5, Le Testu 7922; 6, N. Hallé 2601.*
 
 ## Notes
 

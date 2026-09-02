@@ -7,6 +7,12 @@ family: Phyllanthaceae
 vol: 43
 pages: 61-62
 source: sources/Phyllanthaceae_vol43_liteparse
+countries: [Gabon]
+in_region: true
+subdivisions:
+  Gabon: [Estuaire, Ngounié]
+habit: "herb"
+altitude_m: "0–400"
 tags: [species, generated]
 ---
 # *Phyllanthus amarus* Schumach.

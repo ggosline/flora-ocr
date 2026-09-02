@@ -7,6 +7,12 @@ family: Cyperaceae
 vol: 44
 pages: 71-72
 source: sources/Cyperaceae_vol44_liteparse
+countries: [Gabon]
+in_region: true
+subdivisions:
+  Gabon: [Nyanga, Ogooué-Ivindo]
+habit: "herb"
+altitude_m: "0–500"
 tags: [species, generated]
 ---
 # *Cyperus pustulatus* Vahl Planche 43

@@ -7,6 +7,13 @@ family: Solanaceae
 vol: 55
 pages: 101-103
 source: sources/Solanaceae_vol55_liteparse
+countries: [Gabon]
+in_region: true
+subdivisions:
+  Gabon: [Estuaire, Nyanga, Ogooué-Ivindo, Ogooué-Maritime, Woleu-Ntem]
+habit: "shrub"
+habitat: [secondary forest]
+altitude_m: "30–700"
 tags: [species, generated]
 ---
 # *Capsicum frutescens* L. Planche 30

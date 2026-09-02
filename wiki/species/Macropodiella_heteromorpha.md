@@ -7,6 +7,10 @@ family: Podostemaceae
 vol: 51
 pages: 49-52
 source: sources/Podostemaceae_vol51_liteparse
+countries: [Cameroon, Cote d'Ivoire, Gabon, Republic of the Congo]
+in_region: true
+subdivisions:
+  Gabon: [Ngounié, Ogooué-Ivindo]
 tags: [species, generated]
 ---
 # *Macropodiella heteromorpha* (Baillon) C.Cusset Planche 22

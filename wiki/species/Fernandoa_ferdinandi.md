@@ -51,7 +51,7 @@ Le Testu 6334, Moulabounou, haute Ngounié (fl., oct.) (P); 7446, Bounzocou (fl.
 
 ![Fernandoa ferdinandi](../sources/Bignoniaceae_vol27_paddle/figures/fig_004_p0028.png)
 
-*PL. 4. – Fernandoa ferdinandi (Welw.) Milne-Redh.: 1, feuille × 0,6; 2, limbe face supérieure × 4; 3, limbe face inférieure × 4; 4, inflorescence × 0,5; 5, détail du calice × 4; 6, corolle face interne × 0,6; 7, pistil et disque × 2 (1-4, 6, 7, Letouzey 8421, Cameroun; 5, Letouzey 10706, Cameroun). (Repris de la Flore du Cameroun 27 : tab. 8, 1984.)*
+*PL. 4. – Fernandoa ferdinandi (Welw.) Milne-Redh.: 1, leaf × 0,6; 2, limb upper surface × 4; 3, limb lower surface × 4; 4, inflorescence × 0,5; 5, detail of calyx × 4; 6, corolla internal surface × 0,6; 7, pistil and disk × 2 (1-4, 6, 7, Letouzey 8421, Cameroon; 5, Letouzey 10706, Cameroon). (Taken from Flora of Cameroon 27 : tab. 8, 1984.)*
 
 ## Notes
 

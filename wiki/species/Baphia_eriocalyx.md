@@ -7,6 +7,13 @@ family: Leguminosae
 vol: 49
 pages: 57-57
 source: sources/Millettiaspeciesfabaceae_vol49_liteparse
+countries: [Cameroon, Democratic Republic of the Congo, Gabon, Nigeria, Republic of the Congo]
+in_region: true
+subdivisions:
+  Gabon: [Ogooué-Ivindo, Ogooué-Lolo, Woleu-Ntem]
+habit: "liana"
+habitat: [secondary forest]
+altitude_m: "400–500"
 tags: [species, generated]
 ---
 # *Baphia eriocalyx* Harms

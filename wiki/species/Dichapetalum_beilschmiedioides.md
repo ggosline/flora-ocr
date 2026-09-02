@@ -7,6 +7,9 @@ family: Dichapetalaceae
 vol: 32
 pages: 62-63
 source: sources/Dichapetalaceae_vol32_paddle
+countries: [Gabon]
+in_region: true
+habit: "liana"
 tags: [species, generated]
 ---
 # *Dichapetalum beilschmiedioides* Breteler

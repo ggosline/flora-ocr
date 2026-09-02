@@ -7,6 +7,9 @@ family: Orchidaceae
 vol: 37
 pages: 207-209
 source: sources/Orchidaceae_vol37_paddle
+countries: [Gabon]
+in_region: true
+habitat: [savanna]
 tags: [species, generated]
 ---
 # *Plectrelminthus caudatus* (Lindl.) Summerh.
@@ -33,11 +36,11 @@ VARIABILITY: Two varieties can be distinguished in this species according to the
 
 ![Plectrelminthus caudatus](../sources/Orchidaceae_vol37_paddle/figures/fig_100_p0208.png)
 
-*PL. 206. – Structure du gynostème du genre Plectrelminthus Rafin. : A, vue de face, anthère enlevée ; B, vue latérale, anthère enlevée ; C, reste du rostelle ; D, anthère (A-D, ex SzLACHETKO, 2003).*
+*PL. 206. – Structure of the gynostème of the genus Plectrelminthus Rafin. : A, front view, anther removed ; B, lateral view, anther removed ; C, rostellum remnant ; D, anther (A-D, ex SzLACHETKO, 2003).*
 
 ![Plectrelminthus caudatus](../sources/Orchidaceae_vol37_paddle/figures/fig_101_p0210.png)
 
-*PL. 207. – Plectrelminthus caudatus (Lindl.) Summerh. : A, C, D, labelle ; B, détails de la base du labelle ; E, sépale latéral ; F, pétale ; G, sépale dorsal ; H, vue générale ; I, J, extrémités foliaires (A-J, ex SZLACHETKO & OLSZEWSKI, 2001).*
+*PL. 207. – Plectrelminthus caudatus (Lindl.) Summerh. : A, C, D, labellum ; B, details of the base of the labellum ; E, lateral sepal ; F, petal ; G, dorsal sepal ; H, general view ; I, J, leaf apexes (A-J, ex SZLACHETKO & OLSZEWSKI, 2001).*
 
 ![Plectrelminthus caudatus](../sources/Orchidaceae_vol37_paddle/figures/fig_173_p0260.png)
 

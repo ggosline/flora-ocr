@@ -7,6 +7,8 @@ family: Dichapetalaceae
 vol: 32
 pages: 63-67
 source: sources/Dichapetalaceae_vol32_paddle
+countries: [Gabon]
+in_region: true
 tags: [species, generated]
 ---
 # *Dichapetalum bellum* Breteler
@@ -61,7 +63,7 @@ Le Testu 7073, Lastoursville (fl., Mars); 7171 (fl., Avril); 8002, type (fl., Av
 
 ![Dichapetalum bellum](../sources/Dichapetalaceae_vol32_paddle/figures/fig_014_p0066.png)
 
-*PL. 13. – Dichapetalum bellum Breteler : 1, rameau florifère × 0,8 ; 2, fleur × 10 ; 3, pistil et staminodes × 10 ; 4, rameau fructifère × 0,8 (1-3, Le Testu 7073 ; 4, N. Hallé 2972). – Repris de MLW 73 (13) : 89 (1973).*
+*PL. 13. – Dichapetalum bellum Breteler: 1, flowering branch × 0,8; 2, flower × 10; 3, pistil and staminodes × 10; 4, fruiting branch × 0,8 (1-3, Le Testu 7073; 4, N. Hallé 2972). – Taken from MLW 73 (13): 89 (1973).*
 
 ## Notes
 

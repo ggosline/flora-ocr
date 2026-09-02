@@ -6,6 +6,12 @@ genus: Clerodendrum
 vol: 58
 pages: 32-35
 source: sources/Labiataeulmaceaeverbenaceae_vol58_liteparse
+countries: [Angola, Cameroon, Central African Republic, Democratic Republic of the Congo, Equatorial Guinea, Gabon, Nigeria, Republic of the Congo]
+in_region: true
+subdivisions:
+  Gabon: [Ngounié, Ogooué-Ivindo, Woleu-Ntem]
+habit: "liana"
+altitude_m: "550–1000"
 tags: [species, generated]
 ---
 # *Clerodendrum formicarum* Gürke Planche 6 ; Figure 2(A, B)

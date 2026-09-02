@@ -7,6 +7,9 @@ family: Icacinaceae
 vol: 20
 pages: 8-10
 source: sources/Icacinaceae_vol20_paddle
+countries: [Angola, Nigeria]
+in_region: true
+habit: "liana"
 tags: [species, generated]
 ---
 # *Iodes africana* Welwitsch ex Oliver
@@ -43,7 +46,7 @@ Breteler 6661, Lastoursville, km 11 route de Moanda (fl., juin). Klaine 953, 160
 
 ![Iodes africana](../sources/Icacinaceae_vol20_paddle/figures/fig_001_p0009.png)
 
-*PL. 1. — Iodes africana Welw. ex Oliv. : 1, feuilles et inflorescences ♀ × 2/3; 2, bouton floral ♂ × 10; 3, fleur ♂ × 11,5; 4, coupe de la fleur ♂ × 11,5; 5, diagramme floral; 6, 6′, 6″, étamine × 14; 7, fleur ♀ × 10; 8, coupe de la fleur ♀ × 10; 9, fruit × 2; 10, coupe transversale du fruit × 3; 11, graine × 3. (1, 7-8, Klaine 2366; 2-6″, Klaine, 1605; 9-11, Klaine 2366).*
+*PL. 1. — Iodes africana Welw. ex Oliv. : 1, leaves and ♀ inflorescences × 2/3; 2, ♂ floral bud × 10; 3, ♂ flower × 11,5; 4, section of the ♂ flower × 11,5; 5, floral diagram; 6, 6′, 6″, stamen × 14; 7, ♀ flower × 10; 8, section of the ♀ flower × 10; 9, fruit × 2; 10, transverse section of fruit × 3; 11, seed × 3. (1, 7-8, Klaine 2366; 2-6″, Klaine, 1605; 9-11, Klaine 2366).*
 
 ## Notes
 

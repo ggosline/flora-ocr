@@ -7,6 +7,13 @@ family: Malvaceae
 vol: 45
 pages: 66-69
 source: sources/Malvaceae_vol45_liteparse
+countries: [Gabon]
+in_region: true
+subdivisions:
+  Gabon: [Woleu-Ntem]
+habit: "herb"
+habitat: [rocky ground]
+altitude_m: "686"
 tags: [species, generated]
 ---
 # *Hibiscus minkebeensis* Burg, sp. nov. Planche 17

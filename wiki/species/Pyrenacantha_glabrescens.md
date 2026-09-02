@@ -7,6 +7,9 @@ family: Icacinaceae
 vol: 20
 pages: 74-76
 source: sources/Icacinaceae_vol20_paddle
+countries: [Cote d'Ivoire, Gabon]
+in_region: true
+habit: "liana"
 tags: [species, generated]
 ---
 # *Pyrenacantha glabrescens* (Engler) Engler
@@ -47,7 +50,7 @@ Soyaux 302, Sibang (fl. ♂, oct.).
 
 ![Pyrenacantha glabrescens](../sources/Icacinaceae_vol20_paddle/figures/fig_017_p0077.png)
 
-*PL. 17. — Pyrenacantha glabrescens (Engl.) Engl.: 1, feuilles et inflorescences ♂ × 2/3; 2, 2′, 2″, bractée × 14; 3, fleur ♂ × 7; 4, diagramme fleur ♂; 5, 5′, étamine × 5; 6, fleur ♀ × 10; 7, coupe fleur ♀ × 10; 8, pétale × 10; 9, ovaire × 12; 10, poil unciné de l'ovaire; 11, ovules; 12, fruit × 1; 13, coupe du fruit × 1,2; 14, face interne de l'endocarpe. (1-5, Soyaux 302; 6-10, Miège 1798; 11-14, Chevalier 17963).*
+*PL. 17. — Pyrenacantha glabrescens (Engl.) Engl.: 1, leaves and male inflorescences × 2/3; 2, 2′, 2″, bract × 14; 3, male flower × 7; 4, male flower diagram; 5, 5′, stamen × 5; 6, female flower × 10; 7, section of female flower × 10; 8, petal × 10; 9, ovary × 12; 10, hooked hair of the ovary; 11, ovules; 12, fruit × 1; 13, section of fruit × 1,2; 14, internal surface of the endocarp. (1-5, Soyaux 302; 6-10, Miège 1798; 11-14, Chevalier 17963).*
 
 ## Notes
 

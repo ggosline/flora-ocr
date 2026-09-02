@@ -7,6 +7,10 @@ family: Annonaceae
 vol: 16
 pages: 0-0
 source: sources/Annonaceae_vol16_mineru
+countries: [Cameroon, Central African Republic, Gabon, Ghana, Nigeria, Republic of the Congo]
+in_region: true
+habit: "tree"
+habitat: [swamp forest]
 tags: [species, generated]
 ---
 # *Uvariastrum pynaertii* De Wildeman
@@ -17,17 +21,15 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 (PL.52, p. 291)
 
-Ann.Mus.Congo Belge,Bot.,ser.5,3:74,tab.16 (19o9).-Pellegrin,Bull. Soc.Bot.Fr.,Mém.31 :62 (1949).-Boutique,Fl.Congo Belge 2:365 (1951).
+Ann.Mus.Congo Belge,Bot.,ser.5,3:74,tab.16 (1909).-Pellegrin,Bull. Soc.Bot.Fr.,Mém.31:62 (1949).-Boutique,Fl.Congo Belge 2:365 (1951).
 
-Arbre atteignant 2o a 3o m de hauteur et zo-3o cm de diamétre;écorce rugueuse;rameaux et ramilles glabres.Feuilles ä pétiole épais,long de 3-5 mm,canaliculé au-dessus,glabre; limbe coriace,oblong, long de 12-23 cm,large de 4-6,5 cm,atténué a subarrondi á la base,longuement acuminé au sommet;face supérieure glabre et luisante, face inférieure glabre,ä nervure médiane proéminente,pubescente-apprimée.Nervures latérales I2- I4 paires, peu obliques, réunies en arceaux â 5 mm de la marge environ, saillantes sur les deux faces.
+Tree reaching 20 to 30 m in height and 20-30 cm in diameter; bark rugose; branches and branchlets glabrous. Leaves with thick petiole, 3-5 mm long, channeled above, glabrous; limb coriaceous, oblong, 12-23 cm long, 4-6.5 cm wide, attenuate to subrounded at the base, long-acuminate at the apex; upper surface glabrous and shining, lower surface glabrous, with prominent midvein, appressed-pubescent. Lateral veins 12-14 pairs, slightly oblique, joined in arches at approximately 5 mm from the margin, salient on both surfaces.
 
-Fleurs jaunes, solitaires, supra-axillaires,ou en fascicules pauciflores,caulinaires;pédicelle long de 1,5-3 cm,pubérulent, muni ä la base d'une petite bractée ovée-elliptique, longue de 3-4 mm, pubérulente,caduque. Bouton floral ovoide-trigone, long de I cm environ,ä aretes ailées surtout vers le sommet. Sépales largement elliptiques-triangulaires, coriaces, atténuésaigus au sommet,longs de Io-15 mm,larges de 9-13 mm,puberulentsä glabres ä l'extérieur, tomentelleux brun gris sur le bord interne épaissi, large de 1-l,5 mm. Pétales elliptiques-lancéolés a oblongs,aigus au sommet, tomentelleux jaunes sur les deux faces;les externes longs de 2-3,5 cm,larges de 1-1,5 cm,les internes longs de 1,8-2,5 cm,larges de o,8-1,2 cm.Etamines tres nombreuses, oblongues,longues de ± 5 mm,larges de I mm,filets tres courts, theques linéaires extrorses,connectifs rouge groseille,aplatisarrondis au-dessus des antheres,pubérulents. Carpelles 14-16, oblongs longs de 4-5 mm,larges de 1,5-2 mm, ovaires velus,légerement cotelés, stigmates élargis, noiratres. Ovules nombreux, biséries. Réceptacle tronconique.
+Flowers yellow, solitary, supra-axillary, or in pauciflorous fascicles, cauline; pedicel 1.5-3 cm long, puberulent, provided at the base with a small ovate-elliptic bract, 3-4 mm long, puberulent, caducous. Floral bud ovoid-trigonous, approximately 1 cm long, with winged edges especially toward the apex. Sepals broadly elliptic-triangular, coriaceous, attenuate-acute at the apex, 10-15 mm long, 9-13 mm wide, puberulent to glabrous on the outside, brownish-gray tomentellous on the thickened internal margin edge, 1-1.5 mm wide. Petals elliptic-lanceolate to oblong, acute at the apex, tomentellous yellow on both surfaces; the external ones 2-3.5 cm long, 1-1.5 cm wide, the internal ones 1.8-2.5 cm long, 0.8-1.2 cm wide. Stamens very numerous, oblong, approximately 5 mm long, 1 mm wide, filaments very short, anthers linear extrorse, connectives currant red, flattened-rounded above the anthers, puberulent. Carpels 14-16, oblong, 4-5 mm long, 1.5-2 mm wide, ovaries villous, slightly ribbed, stigmas enlarged, blackish. Ovules numerous, biseriate. Receptacle truncconical.
 
-Fruits ä pédicelle long de 1,5-2 cm,épais,glabre;méricarpes cylindriques,longs de 5-8 cm, larges de 2-3 cm,± apiculé au sommet,ä péricarpe cotelé longitudinalement, glabre;stipes trés courts et épais, longs de o,5-o,7 cm. Graines 2o-24,biseriees, aplaties,longues de 2 cm environ,larges de 1 cm.
+Fruits with pedicel 1.5-2 cm long, thick, glabrous; mericarps cylindrical, 5-8 cm long, 2-3 cm wide, ± apiculate at the apex, with longitudinally ribbed pericarp, glabrous; stipes very short and thick, 0.5-0.7 cm long. Seeds 20-24, biseriate, flattened, approximately 2 cm long, 1 cm wide.
 
 ## Type
 
@@ -41,21 +43,19 @@ Le Testu 8458,Koulamotou,région de Lastoursville,Gabon,fl. (holotype P!)
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Species very close to U. Zenkeri Engler et Diels, which appears limited to the biafrian forest of southern Nigeria and Cameroon. Since the only fruiting specimen of U. Zenkeri no longer exists in the Berlin herbarium, it is difficult at present to form a true opinion of the value of these two species. However, in U. Zenkeri one notes the number of carpels much more reduced, 4-6 only, the sepals ovate-lanceolate, reaching 2.5 cm in length, with margins folded outward 2.5-4 mm wide, tomentellous on almost the entire internal surface.
 
-Espéce tres voisine de U. Zenkeri Engler et Diels,qui semble limitée a la forét biafréenne du sud de la Nigeria et du Cameroun. Le seul spécimen fructifere d'U. Zenkeri,n'existant plus dans l'herbier de Berlin,il est difficile pour le moment de se faire une opinion réelle de la valeur de ces deux espéces.On remarque cependant chez U. Zenkeri le nombre des carpelles beaucoup plus reduit,4-6 seulement,les sépalesovés-lancéolés,atteignant 2,5 cm de longueur,ä bords repliés vers l'extérieur larges de 2,5-4 mm, tomentelleux sur presque toute la surface interne.
+U. Pynaertii is a swamp forest species widespread in Gabon and Congo-Kinshasa, and Congo-Brazzaville.
 
-U.Pynaertii est une espéce de foret marécageuse répandue au Gabon et Congo-Kinshasa,et Congo-Brazzaville.
+Since Engler did not designate a holotype after his original diagnosis, we choose as lectotype one of the syntypes, giving preference to the material of Klaine, entirely annotated in the hand of Pierre, who had already recognized a new species; he referred it then to the genus Unona.
 
-Engler n'ayant pas désigné d'holotype apres sa diagnose originale, nous choisissons comme lectotype un des syntypes, en donnant la préférence au matériel de Klaine,entierement annoté de la main de Pierre,qui avait déja reconnu une nouvelle espéce; il la rattachait alors au genre Unona.
+U. Pierreanum resembles greatly U. insculptum (Engl. et Diels) Sprague et Hutch., by its leaves and its flowers with densely tomentose sepals; the lateral veins of U. insculptum are however impressed on the upper surface, the sepals are smaller and much less thick, forming in the bud only a finely winged ridge. The mericarps of these two species are very different: cylindrical narrow and ribbed in U. insculptum.
 
-U.Pierreanum ressemble beaucoup a U. insculptum (Engl. et Diels) Sprague et Hutch., par ses feuilles et ses fleurs á sépales densément tomenteux; les nervures latérales d'U. insculptum sont cependant imprimées â la face supérieure,les sépales sont moins grands et beaucoup moins épais,ne formant dans le bouton qu'une aréte finement ailée. Les méricarpes de ces deux especes sont tres différents :cylindriques étroits et cotelés chez U. insculptum.
+Species of dense humid forest, sometimes in clearings widespread from Ghana to the Central African Republic, and toward the South, to Congo-Brazzaville and Kinshasa.
 
-Espéce de forét dense humide,parfois dans les clairieres répandue du Ghana â la République centrafricaine,et vers le Sud,au Congo-Brazzaville et Kinshasa.
+Species of the understory in dense humid forest, widespread in Cameroon, in the Central African Republic, in Gabon, in Congo-Brazzaville and Kinshasa.
 
-Espéce de sous-bois en forét dense humide,répandue au Cameroun,en République centrafricaine,au Gabon,au Congo-Brazzaville et Kinshasa.
-
-Espéce connue seulement au Gabon,trés voisine de U.Solheidii (De Wild.) Rob.et Ghesq., elle s'en distingue essentiellement par la forme des pétales restant elliptiques,méme dans la fleur épanouie; la position des bractées est en outre toujours basilaire, et les pédicelles floraux sont densément pubescents.
+Species known only from Gabon, very close to U. Solheidii (De Wild.) Rob. et Ghesq., it is essentially distinguished from it by the form of the petals remaining elliptic, even in the open flower; the position of the bracts is moreover always basal, and the floral pedicels are densely pubescent.
 
 ## Specimens examined
 

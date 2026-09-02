@@ -7,6 +7,10 @@ family: Commelinaceae
 vol: 55
 pages: 87-88
 source: sources/Commelinaceae_vol55_liteparse
+countries: [Angola, Benin, Cameroon, Central African Republic, Cote d'Ivoire, Democratic Republic of the Congo, Equatorial Guinea, Gabon, Ghana, Guinea, Liberia, Nigeria, Republic of the Congo, Sierra Leone, Sudan, Tanzania, Togo, Uganda]
+in_region: true
+habit: "herb"
+altitude_m: "890"
 tags: [species, generated]
 ---
 # *Polyspatha paniculata* Benth. Figure 6(C)

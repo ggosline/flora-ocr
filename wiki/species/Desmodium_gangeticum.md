@@ -7,6 +7,12 @@ family: Leguminosae
 vol: 49
 pages: 169-170
 source: sources/Millettiaspeciesfabaceae_vol49_liteparse
+countries: [Gabon]
+in_region: true
+subdivisions:
+  Gabon: [Estuaire, Ogooué-Ivindo]
+habitat: [gallery forest, savanna]
+altitude_m: "1500"
 tags: [species, generated]
 ---
 # *Desmodium gangeticum* (L.) DC. var. gangeticum

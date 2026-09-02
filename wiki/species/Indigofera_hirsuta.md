@@ -7,6 +7,12 @@ family: Leguminosae
 vol: 49
 pages: 216-218
 source: sources/Millettiaspeciesfabaceae_vol49_liteparse
+countries: [Gabon, Madagascar]
+in_region: true
+subdivisions:
+  Gabon: [Estuaire, Haut-Ogooué, Nyanga, Ogooué-Ivindo, Ogooué-Maritime]
+habit: "herb"
+altitude_m: "5–450"
 tags: [species, generated]
 ---
 # *Indigofera hirsuta* L. var. hirsuta Planche 71

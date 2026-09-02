@@ -7,6 +7,12 @@ family: Hydrocharitaceae
 vol: 50
 pages: 63-65
 source: sources/Hydrocharitaceae_vol50_liteparse
+countries: [Angola, Cameroon, Central African Republic, Equatorial Guinea, Gabon, Madagascar, Senegal]
+in_region: true
+subdivisions:
+  Gabon: [Ngounié, Nyanga, Ogooué-Ivindo, Ogooué-Lolo, Woleu-Ntem]
+habitat: [savanna]
+altitude_m: "2040"
 tags: [species, generated]
 ---
 # *Ottelia ulvifolia* (Planch.) Walp. subsp. ulvifolia Planche 24

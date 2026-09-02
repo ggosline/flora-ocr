@@ -7,6 +7,10 @@ family: Begoniaceae
 vol: 39
 pages: 34-36
 source: sources/Begoniaceae_vol39_liteparse
+countries: [Angola, Cameroon, Democratic Republic of the Congo, Gabon]
+in_region: true
+habitat: [secondary forest, primary forest]
+altitude_m: "330–950"
 tags: [species, generated]
 ---
 # *Begonia scutifolia* Hook.f. Planche 13

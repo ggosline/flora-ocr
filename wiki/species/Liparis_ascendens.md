@@ -7,6 +7,8 @@ family: Orchidaceae
 vol: 36
 pages: 121-123
 source: sources/Orchidaceae_vol36_paddle
+countries: [Gabon]
+in_region: true
 tags: [species, generated]
 ---
 # *Liparis ascendens* Cribb
@@ -43,7 +45,7 @@ Hallé & Villiers 500, Bangwé (st., Feb.), P!.
 
 ![Liparis ascendens](../sources/Orchidaceae_vol36_paddle/figures/fig_062_p0122.png)
 
-*PL. 57. – Liparis ascendens Cribb: A, vue générale ; B, fleur ; C, bractée ; D, labelle ; E, rostelle ; F, G, pollinie, aspects divers (A-G, Hallé 2870, P).*
+*PL. 57. – Liparis ascendens Cribb: A, general view ; B, flower ; C, bract ; D, labellum ; E, rostellum ; F, G, pollinia, various aspects (A-G, Hallé 2870, P).*
 
 ![Liparis ascendens](../sources/Orchidaceae_vol36_paddle/figures/fig_131_p0222.png)
 

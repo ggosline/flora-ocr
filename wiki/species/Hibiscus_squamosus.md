@@ -7,6 +7,13 @@ family: Malvaceae
 vol: 45
 pages: 74-76
 source: sources/Malvaceae_vol45_liteparse
+countries: [Cameroon, Central African Republic, Equatorial Guinea, Gabon, Senegal]
+in_region: true
+subdivisions:
+  Gabon: [Ogooué-Ivindo]
+habit: "herb"
+habitat: [savanna]
+altitude_m: "450"
 tags: [species, generated]
 ---
 # *Hibiscus squamosus* Hochr. Planche 20

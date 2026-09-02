@@ -7,6 +7,9 @@ family: Orchidaceae
 vol: 36
 pages: 177-179
 source: sources/Orchidaceae_vol36_paddle
+countries: [Cameroon, Cote d'Ivoire, Gabon, Ghana, Nigeria]
+in_region: true
+habitat: [mangrove]
 tags: [species, generated]
 ---
 # *Bulbophyllum falcipetalum* Lindl.

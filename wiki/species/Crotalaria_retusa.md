@@ -7,6 +7,13 @@ family: Leguminosae
 vol: 49
 pages: 103-104
 source: sources/Millettiaspeciesfabaceae_vol49_liteparse
+countries: [Gabon]
+in_region: true
+subdivisions:
+  Gabon: [Estuaire, Moyen-Ogooué, Ngounié, Nyanga, Ogooué-Ivindo, Woleu-Ntem]
+habit: "herb"
+habitat: [coastal]
+altitude_m: "0–200"
 tags: [species, generated]
 ---
 # *Crotalaria retusa* L. var. retusa

@@ -7,6 +7,9 @@ family: Rubiaceae
 vol: 12
 pages: 72-76
 source: sources/Rubiaceae_vol12_paddle
+countries: [Cameroon, Gabon, Nigeria]
+in_region: true
+habit: "tree"
 tags: [species, generated]
 ---
 # *Pausinstalia macroceras* (K. Schum.)

@@ -7,6 +7,12 @@ family: Leguminosae
 vol: 49
 pages: 279-279
 source: sources/Millettiaspeciesfabaceae_vol49_liteparse
+countries: [Democratic Republic of the Congo, Gabon]
+in_region: true
+subdivisions:
+  Gabon: [Estuaire, Ogooué-Lolo]
+habit: "liana"
+altitude_m: "10–350"
 tags: [species, generated]
 ---
 # *Millettia achtenii* De Wild.

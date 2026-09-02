@@ -5,10 +5,10 @@ authority: (Hiern) Verdoorn
 genus: Diphasia
 family: Rutaceae
 synonyms: [Cranzia angolensis, Toddalia angolensis, Diphasia klaineana]
-countries: [Gabon, Angola]
-in_region: true
-habit: small tree
 treatments: [{vol: 6, pages: "65–68", source: sources/Rutaceae_vol6_paddle}]
+countries: [Angola, Gabon]
+in_region: true
+habit: "tree"
 tags: [species]
 ---
 

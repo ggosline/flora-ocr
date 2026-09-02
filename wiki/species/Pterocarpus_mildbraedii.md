@@ -7,6 +7,13 @@ family: Leguminosae
 vol: 49
 pages: 329-331
 source: sources/Millettiaspeciesfabaceae_vol49_liteparse
+countries: [Cameroon, Equatorial Guinea, Gabon, Republic of the Congo, Senegal, Sierra Leone]
+in_region: true
+subdivisions:
+  Gabon: [Moyen-Ogooué, Ngounié]
+habit: "tree"
+habitat: [riverine]
+altitude_m: "1250"
 tags: [species, generated]
 ---
 # *Pterocarpus mildbraedii* Harms subsp. mildbraedii

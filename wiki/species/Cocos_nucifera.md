@@ -7,6 +7,13 @@ family: Arecaceae
 vol: 53
 pages: 13-15
 source: sources/Arecaceae_vol53_liteparse
+countries: [Gabon]
+in_region: true
+subdivisions:
+  Gabon: [Estuaire, Nyanga, Ogooué-Maritime]
+habit: "tree"
+habitat: [coastal]
+altitude_m: "20"
 tags: [species, generated]
 ---
 # *Cocos nucifera* L. Planche 2

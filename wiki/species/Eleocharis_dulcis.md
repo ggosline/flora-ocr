@@ -7,6 +7,12 @@ family: Cyperaceae
 vol: 44
 pages: 131-132
 source: sources/Cyperaceae_vol44_liteparse
+countries: [Gabon]
+in_region: true
+subdivisions:
+  Gabon: [Ngounié, Ogooué-Maritime]
+habit: "herb"
+altitude_m: "2170"
 tags: [species, generated]
 ---
 # *Eleocharis dulcis* (Burm.f.) Trin. ex Hensch. Planche 82

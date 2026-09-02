@@ -7,6 +7,11 @@ family: Cyperaceae
 vol: 44
 pages: 74-74
 source: sources/Cyperaceae_vol44_liteparse
+countries: [Gabon, Senegal]
+in_region: true
+subdivisions:
+  Gabon: [Estuaire, Ogooué-Ivindo]
+habit: "herb"
 tags: [species, generated]
 ---
 # *Cyperus soyauxii* Boeckeler subsp. soyauxii Figure 3b (page 21)

@@ -7,6 +7,9 @@ family: Leguminosae
 vol: 31
 pages: 172-174
 source: sources/Leguminosae_vol31_paddle
+countries: [Gabon]
+in_region: true
+habit: "tree"
 tags: [species, generated]
 ---
 # *Pithecellobium dulce* (Roxburgh) Bentham
@@ -41,7 +44,7 @@ the aril is edible
 
 ![Pithecellobium dulce](../sources/Leguminosae_vol31_paddle/figures/fig_053_p0176.png)
 
-*PL. 41. – Calliandra surinamensis Benth.: 1, aspect général × 1; 2, foliole × 5; 3, fruit × 1. (1, 2, A.M. Louis 1973; 3, Ony s.n. (Brésil)). – Pithecellobium dulce (Roxb.) Benth.: 4, aspect général × 1; 5, nœud × 3; 6, bractées × 8; 7, bractée de profil × 7; 8, fruit × 2; 9, graine × 4 (4. De Wilde 2627 (Cameroun); 5, Toutain 481 (haute Volta); 6, 7, 8, 9, Dang 215, (Cameroun)).*
+*PL. 41. – Calliandra surinamensis Benth.: 1, general appearance × 1; 2, leaflet × 5; 3, fruit × 1. (1, 2, A.M. Louis 1973; 3, Ony s.n. (Brazil)). – Pithecellobium dulce (Roxb.) Benth.: 4, general appearance × 1; 5, node × 3; 6, bracts × 8; 7, bract in profile × 7; 8, fruit × 2; 9, seed × 4 (4. De Wilde 2627 (Cameroon); 5, Toutain 481 (Upper Volta); 6, 7, 8, 9, Dang 215, (Cameroon)).*
 
 ## Notes
 

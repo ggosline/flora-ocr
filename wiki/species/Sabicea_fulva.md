@@ -7,6 +7,9 @@ family: Rubiaceae
 vol: 12
 pages: 179-182
 source: sources/Rubiaceae_vol12_paddle
+countries: [Cameroon, Gabon]
+in_region: true
+altitude_m: "980"
 tags: [species, generated]
 ---
 # *Sabicea fulva* Wernh.
@@ -57,7 +60,7 @@ Sarmentose. Internodes velutinous, fulvous. Fine and sparse pubescence on the up
 
 ![Sabicea fulva](../sources/Rubiaceae_vol12_paddle/figures/fig_046_p0181.png)
 
-*PL. 37. — Sabicea fulva Wernh. : 1, rameau florifère × 3/4; 2, inflorescence et son diagramme (l, lobe facultatif); 3, fleur en coupe; 4, poil de la gorge (1 mm); 5, anthère; 6, stigmate; 7, coupe de l'ovaire (1 à 7, N. Hallé 1953); 8, fruit mùr; 9, coupe du fruit mùr; 10, graine (8 à 10, N. H. 2756); 11, stipule, et 12, inflorescence (Le Testu 5096); 13, inflorescence (Mildbraed 5424).*
+*PL. 37. — Sabicea fulva Wernh. : 1, flowering branch × 3/4; 2, inflorescence and its diagram (l, optional lobe); 3, flower in section; 4, hair of the throat (1 mm); 5, anther; 6, stigma; 7, section of the ovary (1 to 7, N. Hallé 1953); 8, ripe fruit; 9, section of ripe fruit; 10, seed (8 to 10, N. H. 2756); 11, stipule, and 12, inflorescence (Le Testu 5096); 13, inflorescence (Mildbraed 5424).*
 
 ## Notes
 

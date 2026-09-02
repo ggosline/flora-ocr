@@ -7,6 +7,9 @@ family: Acanthaceae
 vol: 13
 pages: 208-217
 source: sources/Acanthaceae_vol13_paddle
+countries: [Cameroon, Gabon, Nigeria]
+in_region: true
+habit: "herb"
 tags: [species, generated]
 ---
 # *Rungia congoensis* C. B. Clarke

@@ -7,6 +7,12 @@ family: Commelinaceae
 vol: 55
 pages: 29-31
 source: sources/Commelinaceae_vol55_liteparse
+countries: [Gabon]
+in_region: true
+subdivisions:
+  Gabon: [Estuaire, Haut-Ogooué, Nyanga, Ogooué-Ivindo, Ogooué-Maritime, Woleu-Ntem]
+habit: "herb"
+altitude_m: "610"
 tags: [species, generated]
 ---
 # *Commelina diffusa* Burm.f. subsp. diffusa Planche 6, Figure 2(G, H)

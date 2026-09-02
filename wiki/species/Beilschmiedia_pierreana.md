@@ -7,6 +7,7 @@ family: Lauraceae
 vol: 10
 pages: 58-59
 source: sources/Lauraceae_vol10_paddle
+habit: "tree"
 tags: [species, generated]
 ---
 # *Beilschmiedia pierreana* Rob. et Wilcz.

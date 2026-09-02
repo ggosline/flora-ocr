@@ -7,6 +7,9 @@ family: Melastomataceae
 vol: 25
 pages: 16-17
 source: sources/Melastomataceae_vol25_paddle
+countries: [Angola, Democratic Republic of the Congo, Sierra Leone]
+in_region: true
+habit: "shrub"
 tags: [species, generated]
 ---
 # *Dissotis multiflora* (Sm.) Triana
@@ -39,7 +42,7 @@ Breteler 6372, Moanda, sols marécageux (sept.), WAG. Caballé 20, Makokou (avr.
 
 ![Dissotis multiflora](../sources/Melastomataceae_vol25_paddle/figures/fig_003_p0015.png)
 
-*PL. 3. — Dissotis multiflora (Sm.) Triana : 1, feuille et rameau × 2/3; 2, bouton floral × 4; 3, lobe du calice × 6; 4, une émergence de l'hypante × 6; 5, étamines, interne et externe × 4; 6, capsule × 2. — Dissotis hensii Cogn. : 7, feuille et rameau × 2/3; 8, détail de la marge foliaire × 4; 9, bouton floral × 4; 10, lobe du calice × 6; 11, étamines, interne et externe × 4; 12, capsule × 2. — Dissotis brazzae Cogn. : 13, feuille et rameau × 2/3; 14, bouton floral × 4; 15, lobe du calice × 6; 16, une émergence de l'hypante × 6; 17, étamines, externe et interne × 4; 18, capsule × 2.*
+*PL. 3. — Dissotis multiflora (Sm.) Triana : 1, leaf and branch × 2/3; 2, floral bud × 4; 3, calyx lobe × 6; 4, an emergence of the hypanthium × 6; 5, stamens, internal and external × 4; 6, capsule × 2. — Dissotis hensii Cogn. : 7, leaf and branch × 2/3; 8, detail of leaf margin × 4; 9, floral bud × 4; 10, calyx lobe × 6; 11, stamens, internal and external × 4; 12, capsule × 2. — Dissotis brazzae Cogn. : 13, leaf and branch × 2/3; 14, floral bud × 4; 15, calyx lobe × 6; 16, an emergence of the hypanthium × 6; 17, stamens, external and internal × 4; 18, capsule × 2.*
 
 ## Notes
 

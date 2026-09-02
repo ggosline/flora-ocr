@@ -7,6 +7,7 @@ family: Sapotaceae
 vol: 01
 pages: 34-35
 source: sources/Sapotaceae_vol01_paddle
+habit: "tree"
 tags: [species, generated]
 ---
 # *Manikara fouilloyana* Aubréville et Pellegrin.

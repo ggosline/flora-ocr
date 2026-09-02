@@ -7,6 +7,9 @@ family: Opiliaceae
 vol: 20
 pages: 176-178
 source: sources/Opiliaceae_vol20_paddle
+countries: [Gabon]
+in_region: true
+habit: "shrub"
 tags: [species, generated]
 ---
 # *Rhopalopilia hallei* Villiers
@@ -39,7 +42,7 @@ Hallé N. 2060, rivière Bicoudou, près Lebamba (fl., mai).
 
 ![Rhopalopilia hallei](../sources/Opiliaceae_vol20_paddle/figures/fig_038_p0177.png)
 
-*PL. 38. — Rhopalopilia hallei Villiers : 1, feuilles et inflorescences × 1; 2, feuille × 0,75; 3, rachis inflorescentiel; 4, 4', bractée × 30; 5, fleur × 7,5; 6, coupe de la fleur × 6; 7, vue sup. de la fleur × 13; 8, diagramme de la fleur; 9, pétale × 10; 10, étanine × 28; 11, ovaire × 32. (Hallé N. 2060).*
+*PL. 38. — Rhopalopilia hallei Villiers : 1, leaves and inflorescences × 1; 2, leaf × 0,75; 3, inflorescent rachis; 4, 4', bract × 30; 5, flower × 7,5; 6, flower section × 6; 7, upper view of flower × 13; 8, flower diagram; 9, petal × 10; 10, stamen × 28; 11, ovary × 32. (Hallé N. 2060).*
 
 ## Notes
 

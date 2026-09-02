@@ -7,6 +7,11 @@ family: Arecaceae
 vol: 53
 pages: 64-65
 source: sources/Arecaceae_vol53_liteparse
+countries: [Angola, Democratic Republic of the Congo, Gabon]
+in_region: true
+subdivisions:
+  Gabon: [Haut-Ogooué, Ogooué-Lolo]
+altitude_m: "400"
 tags: [species, generated]
 ---
 # *Raphia textilis* Welw. Figure 4C,D

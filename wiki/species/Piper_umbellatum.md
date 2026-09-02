@@ -7,6 +7,12 @@ family: Piperaceae
 vol: 50
 pages: 79-80
 source: sources/Piperaceae_vol50_liteparse
+countries: [Gabon]
+in_region: true
+subdivisions:
+  Gabon: [Estuaire, Haut-Ogooué, Ngounié, Nyanga, Ogooué-Ivindo, Ogooué-Maritime, Woleu-Ntem]
+habit: "shrub"
+altitude_m: "7–1000"
 tags: [species, generated]
 ---
 # *Piper umbellatum* L. Planche 29

@@ -7,6 +7,12 @@ family: Leguminosae
 vol: 49
 pages: 104-106
 source: sources/Millettiaspeciesfabaceae_vol49_liteparse
+countries: [Gabon]
+in_region: true
+subdivisions:
+  Gabon: [Nyanga]
+habit: "herb"
+altitude_m: "60–80"
 tags: [species, generated]
 ---
 # *Crotalaria tchibangensis* Maesen Planche 32

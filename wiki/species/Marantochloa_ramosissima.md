@@ -7,6 +7,9 @@ family: Marantaceae
 vol: 09
 pages: 132-133
 source: sources/Marantaceae_vol09_paddle
+countries: [Cameroon, Gabon, Nigeria]
+in_region: true
+habit: "herb"
 tags: [species, generated]
 ---
 # *Marantochloa ramosissima* (Benth.) Hutch.

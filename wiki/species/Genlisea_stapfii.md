@@ -7,6 +7,12 @@ family: Lentibulariaceae
 vol: 54
 pages: 91-91
 source: sources/Lentibulariaceae_vol54_liteparse
+countries: [Burkina Faso, Cameroon, Central African Republic, Cote d'Ivoire, Gabon, Gambia, Guinea, Guinea-Bissau, Liberia, Mali, Nigeria, Republic of the Congo, Senegal, Sierra Leone]
+in_region: true
+subdivisions:
+  Gabon: [Estuaire, Ogooué-Maritime]
+habit: "herb"
+altitude_m: "5–50"
 tags: [species, generated]
 ---
 # *Genlisea stapfii* A.Chev. Planche 30, Figure 8

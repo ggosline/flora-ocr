@@ -7,6 +7,12 @@ family: Anacardiaceae
 vol: 50
 pages: 39-41
 source: sources/Anacardiaceae_vol50_liteparse
+countries: [Gabon]
+in_region: true
+subdivisions:
+  Gabon: [Ngounié]
+habit: "tree"
+habitat: [secondary forest]
 tags: [species, generated]
 ---
 # *Trichoscypha bracteata* Breteler Planche 14
@@ -17,29 +23,21 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Adansonia, sér. 3, 26(1) : 107 (2004). Arbre moyen ; ramilles pubescentes, à poils apprimés. Feuille : pétiole, rachis et pétiolules pubescents, à poils apprimés ; folioles 7 à 13, alternes à subopposées, pétiolules 3–5 mm, à limbe elliptique à lancéolé, (4–)8–15 × (1,5–)2,5–5 cm, arrondi à cunéé à la base, acuminé sur 1 cm au sommet, glabre dessus, sauf pour la médiane imprimée et les 9 à 12(–14) paires de nervures latérales poilues, pubérulent-apprimé dessous sur la médiane et les nervures latérales, glabre ou presque entre les nervures principales. Inflorescence subterminale, paniculée , as sez compacte, 5 cm de longueur, à bractées denses , au moins jusqu’à l’anthèse, pubescente ; bractées soutenant les groupes de fleurs ± carénées, 5–10 mm de longueur , poilues sur les deux faces. Fleurs 4(–5)-mères. Fleur mâle : pédicelle 2–3 mm, pubescent ; calice 1 mm de longueur, courtement lobé, pubescent à l’extérieur ; pétales étroitement imbriqués , étalés à réfléchis, ovales-elliptiques, ± 2,5 × 2 mm, glabres ; étamines courbées vers l’intérieur, légèrement plus courtes que les pétales, glabres ; disque bien exposé, ± carré , 1,5–2 mm de largeur, irrégulièrement plié, glabre ; pistillode glabre . Fleur femelle et fruit inconnus.
+Adansonia, sér. 3, 26(1) : 107 (2004). Medium tree; branchlets pubescent, with appressed hairs. Leaf: petiole, rachis and petiolules pubescent, with appressed hairs; leaflets 7 to 13, alternate to subopposite, petiolules 3–5 mm, with elliptic to lanceolate blade, (4–)8–15 × (1.5–)2.5–5 cm, rounded to cuneate at base, acuminate for 1 cm at apex, glabrous above except for the impressed midrib and 9 to 12(–14) pairs of pilose lateral veins, puberulent-appressed below on the midrib and lateral veins, glabrous or nearly so between the main veins. Inflorescence subter­minal, paniculate, fairly compact, 5 cm long, with dense bracts, at least until anthesis, pubescent; bracts subtending the groups of flowers ± keeled, 5–10 mm long, pilose on both faces. Flowers 4(–5)-merous. Male flower: pedicel 2–3 mm, pubescent; calyx 1 mm long, shortly lobed, pubescent on the exterior; petals narrowly imbricate, spreading to reflexed, ovate-elliptic, ± 2.5 × 2 mm, glabrous; stamens curved inward, slightly shorter than the petals, glabrous; disk well exposed, ± square, 1.5–2 mm wide, irregularly folded, glabrous; pistillode glabrous. Female flower and fruit unknown.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-endémique du Gabon, connu d’une seule récolte de la Ngounié
+endemic to Gabon, known from a single collection from the Ngounié
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-forêt primaire ou secondarisée ; à ± 100–200 m d’altitude
+primary or secondarized forest; at ± 100–200 m elevation
 
 ## Source note
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+The calyx of the male flower of this species is pilose when young but glabrous or nearly so at flower opening. Bi: Breteler (2004). Bibliography
 
-Le calice de la fleur mâle de cette espèce est poilu à l’état jeune mais glabre ou presque à l’ouverture de la fleur. Bi : Breteler (2004). B liographie
-
-Trichoscypha 33 Fleur, vue du dessous, à calice presque glabre. (1–6 : Walker s.n .). Dessin par Hans de Vries, Jardin botanique Meise (©).
+Trichoscypha 33 Flower, view from below, with calyx nearly glabrous. (1–6 : Walker s.n.). Drawing by Hans de Vries, Meise Botanical Garden (©).
 
 34 Frans J. BRETELER
 

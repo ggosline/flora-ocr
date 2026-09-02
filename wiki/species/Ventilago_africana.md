@@ -5,11 +5,10 @@ authority: Exell
 genus: Ventilago
 family: Rhamnaceae
 synonyms: []
-countries: [Cameroon, Equatorial Guinea, Gabon, Angola]
-countries_incomplete: true
-in_region: true
-habit: liana
 treatments: [{vol: 4, pages: "58–61", source: sources/Rhamnaceae_vol4_paddle}]
+countries: [Gabon]
+in_region: true
+habit: "liana"
 tags: [species]
 ---
 

@@ -7,6 +7,12 @@ family: Cyperaceae
 vol: 44
 pages: 111-114
 source: sources/Cyperaceae_vol44_liteparse
+countries: [Gabon]
+in_region: true
+subdivisions:
+  Gabon: [Ogooué-Maritime, Woleu-Ntem]
+habit: "herb"
+altitude_m: "0–560"
 tags: [species, generated]
 ---
 # *Cyperus surinamensis* Rottb. Planche 70, Figure 8a

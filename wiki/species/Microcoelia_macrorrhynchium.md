@@ -7,6 +7,9 @@ family: Orchidaceae
 vol: 37
 pages: 137-139
 source: sources/Orchidaceae_vol37_paddle
+countries: [Cameroon, Central African Republic, Cote d'Ivoire, Democratic Republic of the Congo, Equatorial Guinea, Gabon, Ghana, Liberia, Nigeria, Uganda, Zambia]
+in_region: true
+habitat: [secondary forest, riverine]
 tags: [species, generated]
 ---
 # *Microcoelia macrorrhynchium* (Schltr.) Summerh.

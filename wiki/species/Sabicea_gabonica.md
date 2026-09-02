@@ -7,6 +7,8 @@ family: Rubiaceae
 vol: 12
 pages: 182-183
 source: sources/Rubiaceae_vol12_paddle
+countries: [Cameroon, Gabon, Nigeria]
+in_region: true
 tags: [species, generated]
 ---
 # *Sabicea gabonica* (Hiern) Hepper

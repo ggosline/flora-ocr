@@ -7,6 +7,7 @@ family: Thymeleaceae
 vol: 11
 pages: 45-48
 source: sources/Thymeleaceae_vol11_paddle
+habit: "tree"
 tags: [species, generated]
 ---
 # *Octolepis casearia* Oliv. (P.L. V)

@@ -7,6 +7,9 @@ family: Olacaceae
 vol: 20
 pages: 106-108
 source: sources/Olacaceae_vol20_paddle
+countries: [Democratic Republic of the Congo, Gabon]
+in_region: true
+habit: "liana"
 tags: [species, generated]
 ---
 # *Anacolosa uncifera* J. Louis & Boutique
@@ -39,7 +42,7 @@ Hallé N. 3174, 3750, 3761, Bélinga, alt. 1 000 m (fr., juin). Le Testu 8293, N
 
 ![Anacolosa uncifera](../sources/Olacaceae_vol20_paddle/figures/fig_027_p0111.png)
 
-*PL. 27. — Anacolosa uncifera Louis & Boutique : 1, rameau feuillé et infrutescence × 0,8; 2, bouton floral × 1,2; 3, fleur × 1,2; 4, coupe de la fleur × 1,2; 5, diagramme floral; 6, pétale × 8; 7, disque; 8, étamine × 1; 9, fruit × 2/3; 10, coupe longitudinale du fruit × 0,9. — Ximenia americana L. : 11, rameau feuillé et inflorescence × 2/3; 12, sommet du limbe × 1,3; 13, bouton floral × 1,5; 14, fleur × 1,6; 15, coupe de la fleur × 1,6; 16, diagramme floral; 17, sépale × 5; 18, pétale × 2; 19, étamine × 3; 20, pistil × 3; 21, fruit × 2/3. (1, 9-10, Hallé N. 3750; 2-9, Le Testu 8293; 11-20, Aubréville 749; 21, Aubréville 127)*
+*PL. 27. — Anacolosa uncifera Louis & Boutique : 1, leafy branch and infructescence × 0.8; 2, floral bud × 1.2; 3, flower × 1.2; 4, flower section × 1.2; 5, floral diagram; 6, petal × 8; 7, disk; 8, stamen × 1; 9, fruit × 2/3; 10, longitudinal section of fruit × 0.9. — Ximenia americana L. : 11, leafy branch and inflorescence × 2/3; 12, blade apex × 1.3; 13, floral bud × 1.5; 14, flower × 1.6; 15, flower section × 1.6; 16, floral diagram; 17, sepal × 5; 18, petal × 2; 19, stamen × 3; 20, pistil × 3; 21, fruit × 2/3. (1, 9-10, Hallé N. 3750; 2-9, Le Testu 8293; 11-20, Aubréville 749; 21, Aubréville 127)*
 
 ## Notes
 

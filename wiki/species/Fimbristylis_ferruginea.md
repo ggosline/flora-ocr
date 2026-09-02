@@ -7,6 +7,12 @@ family: Cyperaceae
 vol: 44
 pages: 144-146
 source: sources/Cyperaceae_vol44_liteparse
+countries: [Gabon]
+in_region: true
+subdivisions:
+  Gabon: [Estuaire, Ogooué-Maritime]
+habit: "herb"
+habitat: [mangrove]
 tags: [species, generated]
 ---
 # *Fimbristylis ferruginea* (L.) Vahl Planche 93

@@ -7,6 +7,9 @@ family: Icacinaceae
 vol: 20
 pages: 28-29
 source: sources/Icacinaceae_vol20_paddle
+countries: [Cameroon]
+in_region: true
+habit: "shrub"
 tags: [species, generated]
 ---
 # *Alsodeiopsis zenkeri* Engler
@@ -57,7 +60,7 @@ Zenker s. n., 152, 4283, Bipindi (fl.); 889, 1122, Bipindi, bord de la Lokundję
 
 ![Alsodeiopsis zenkeri](../sources/Icacinaceae_vol20_paddle/figures/fig_007_p0031.png)
 
-*PL. 7. — Alsodeiopsis zenkeri Engl.: 1, feuilles et inflorescence × 0,73; 2, détail du limbe × 4,8; 3, bouton floral × 3; 4, fruit × 0,8. — A. rowlandii Engl.: 5, feuilles et inflorescence × 0,65; 6, détail du limbe × 4,15; 7, bouton floral × 7,2; 8, pétale × 8,8. — A. poggei Engl.: 9, feuille et inflorescence × 0,7; 10, détail du limbe × 7,1; 11, bouton floral × 3,8; 12, pétale × 5. (1-4, Zenker 1283; 5-8, Rowland s. n.; 9-12, Letouzey 4590).*
+*PL. 7. — Alsodeiopsis zenkeri Engl.: 1, leaves and inflorescence × 0,73; 2, detail of limb × 4,8; 3, flower bud × 3; 4, fruit × 0,8. — A. rowlandii Engl.: 5, leaves and inflorescence × 0,65; 6, detail of limb × 4,15; 7, flower bud × 7,2; 8, petal × 8,8. — A. poggei Engl.: 9, leaf and inflorescence × 0,7; 10, detail of limb × 7,1; 11, flower bud × 3,8; 12, petal × 5. (1-4, Zenker 1283; 5-8, Rowland s. n.; 9-12, Letouzey 4590).*
 
 ## Notes
 

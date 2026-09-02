@@ -7,6 +7,12 @@ family: Cucurbitaceae
 vol: 57
 pages: 74-76
 source: sources/Cucurbitaceae_vol57_paddle
+countries: [Gabon]
+in_region: true
+subdivisions:
+  Gabon: [Estuaire, Haut-Ogooué, Ngounié, Ogooué-Ivindo, Ogooué-Lolo]
+habit: "herb"
+altitude_m: "900"
 tags: [species, generated]
 ---
 # *Lagenaria siceraria* (Molina) Standl.

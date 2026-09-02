@@ -7,6 +7,12 @@ family: Leguminosae
 vol: 49
 pages: 361-363
 source: sources/Millettiaspeciesfabaceae_vol49_liteparse
+countries: [Angola, Gabon, Mozambique, Senegal, Sudan, Tanzania]
+in_region: true
+subdivisions:
+  Gabon: [Estuaire, Haut-Ogooué, Moyen-Ogooué, Ngounié, Nyanga, Ogooué-Maritime]
+habit: "herb"
+altitude_m: "100–630"
 tags: [species, generated]
 ---
 # *Tephrosia nana* Kotschy ex Schweinf.

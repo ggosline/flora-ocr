@@ -7,6 +7,9 @@ family: Melastomataceae
 vol: 25
 pages: 40-42
 source: sources/Melastomataceae_vol25_paddle
+countries: [Uganda]
+in_region: false
+habit: "tree"
 tags: [species, generated]
 ---
 # *Dichaetanthera corymbosa* (Cogniaux) Jacques-Félix

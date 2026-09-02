@@ -7,6 +7,11 @@ family: Ochnaceae
 vol: 48
 pages: 56-57
 source: sources/Ochnaceae_vol48_liteparse
+countries: [Gabon]
+in_region: true
+habit: "tree"
+habitat: [primary forest, rocky ground]
+altitude_m: "80"
 tags: [species, generated]
 ---
 # *Campylospermum klainei* (Tiegh.) Farron

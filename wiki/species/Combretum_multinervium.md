@@ -7,6 +7,9 @@ family: Combretaceae
 vol: 35
 pages: 66-69
 source: sources/Combretaceae_vol35_paddle
+countries: [Cameroon, Gabon, Ghana, Liberia]
+in_region: true
+habit: "liana"
 tags: [species, generated]
 ---
 # *Combretum multinervium* Exell
@@ -55,7 +58,7 @@ M. Allard del.
 
 ![Combretum multinervium](../sources/Combretaceae_vol35_paddle/figures/fig_018_p0068.png)
 
-*PL. 18. – Combretum multinervium Exell ; A, rameau florifère × 1/2 ; B, fleur × 6 ; C, fleur, coupe longitudinale × 6 (A-C, Jacques-Félix 2489). – Dessins de M. ALLARD reproduits avec l'autorisation du Département des Spermatophytes et Ptéridophytes du Jardin Botanique National de MEISE (Belgique).*
+*PL. 18. – Combretum multinervium Exell ; A, flowering branch × 1/2 ; B, flower × 6 ; C, flower, longitudinal section × 6 (A-C, Jacques-Félix 2489). – Drawings by M. ALLARD reproduced with permission from the Department of Spermatophytes and Pteridophytes of the National Botanical Garden of MEISE (Belgium).*
 
 ## Notes
 

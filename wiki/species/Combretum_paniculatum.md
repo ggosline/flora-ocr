@@ -7,6 +7,10 @@ family: Combretaceae
 vol: 35
 pages: 73-75
 source: sources/Combretaceae_vol35_paddle
+countries: [Gambia]
+in_region: false
+habit: "herb"
+habitat: [savanna, riverine, evergreen forest]
 tags: [species, generated]
 ---
 # *Combretum paniculatum* Ventenat

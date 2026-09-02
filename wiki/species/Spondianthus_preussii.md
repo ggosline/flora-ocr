@@ -7,6 +7,13 @@ family: Phyllanthaceae
 vol: 43
 pages: 80-83
 source: sources/Phyllanthaceae_vol43_liteparse
+countries: [Cameroon, Gabon, Liberia, Nigeria]
+in_region: true
+subdivisions:
+  Gabon: [Moyen-Ogooué, Nyanga, Ogooué-Maritime]
+habit: "tree"
+habitat: [swamp forest, riverine]
+altitude_m: "0–100"
 tags: [species, generated]
 ---
 # *Spondianthus preussii* Engl. Planche 26
@@ -17,25 +24,19 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Shrub to tree up to 20 m tall; trunk up to 30 cm in diameter; branches glabrous. Stipules ± triangular, 1–2(–5) mm long, often ciliate. Leaf: petiole (0.5–)2–9 cm, glabrous; blade elliptic to obovate-elliptic, (3.5–)9–20(–25) × (2.5–)5–12(–15) cm, rounded to obtuse or sometimes very slightly cuneate at base, rounded to obtuse at apex, coriaceous, glabrous; lateral veins (4–)6–7(–8) pairs. Inflorescence
 
-Arbuste à arbre jusqu’à 20 m de hauteur ; tronc jusqu’à 30 cm de diamètre ; rameaux glabres . Stipules ± triangulaires, 1–2(–5) mm de longueur, souvent ciliées. Feuille : pé tiole (0,5–)2–9 cm, glabre ; limbe elliptique à obovale-elliptique, (3,5–)9–20(–25) × (2,5–)5–12(–15) cm, arrondi à obtus ou parfois très légèrement cunéé à la base, arrondi à obtus au sommet, coriace , glabre ; nervures latérales (4–)6–7(–8) paires. Inflorescence
+Glands at the base of the lower surface of a leaf. ‒ D. Male inflorescence. ‒ E. Part of a male inflorescence. ‒ F. Male flower viewed from above. ‒ G. Male flower in section. ‒ H. Sepal, inner surface. ‒ I. Petal, inner surface. ‒ J. Stamen. ‒ K. Pistillode. ‒ L. Part of a female inflorescence. ‒ M. Female flower with 2 petals. ‒ N. Female flower with one petal. ‒ O. Fruit. ‒ P. Persistent calyx showing the staminodes and the disc. ‒ Q. Seed. (A, B, O, P: Bourobou et al. 966; C, Q: J. J. de Wilde et al. 9182; D ‒ K: Harris et al. 8414; L ‒ N: Zenker 363). Drawing by H. de Vries, NCB Naturalis (section NHN) ©.
 
-Glandes de la base de la face inférieure d’une feuille. ‒ D. Inflorescence mâle. ‒ E. Partie d’une inflorescence mâle. ‒ F. Fleur mâle vue du dessus. ‒ G. Fleur mâle en coupe. ‒ H. Sépale, face interne. ‒ I. Pétale, face interne. ‒ J. Étamine. ‒ K. Pistillode. ‒ L. Partie d’une inflorescence fe melle. ‒ M. Fleur femelle avec 2 pétales. ‒ N. Fleur femelle avec un pétale. ‒ O. Fruit. ‒ P. Calice persistant montrant les staminodes et le disque. ‒ Q. Graine. (A, B, O, P : Bourobou et al . 966 ; C, Q : J . J . de Wilde et al . 9182 ; D ‒ K : Harris et al . 8414 ; L ‒ N : Zenker 363 ). Dessin par H. de Vries, NCB Naturalis (section NHN) ©.
-
-jusqu’à 25 cm de longueur, pubérulente . Fleur mâle ± sessile ; sépales elliptiques, ± 1,5 × 1 mm, pubérulents sur la face externe ; pétales souvent lobulés au sommet, glabres ; étamines à connectif distinct ; pistillode ± obconique, tronqué au sommet, glabre. Fleur femelle : pédicelle 0–1 mm, jusqu’à 5 mm de longueur en fruit, pubescent ; sépales persistants, ovales, 1–1,5 mm de longueur, pubérulents à l’extérieur, glabres à l’inté rieur ; pétales très caducs , elliptiques, pubérulents à l’extérieur, glabres à l’intérieur ; disque légèrement lobulé ; ovaire 3 mm de longueur, éparsement pubérulent, glabres cent. Fruit globuleux, 18–22 mm de diamètre, glabre, très souvent un peu pustuleux et souvent lenticellé. Graines obovoïdes, légèrement aplaties et ± triangulaires en section transversale, 13 × 9–10 × 5–6 mm.
+up to 25 cm long, puberulent. Male flower ± sessile; sepals elliptic, ± 1.5 × 1 mm, puberulent on the outer surface; petals often lobed at apex, glabrous; stamens with distinct connective; pistillode ± obconic, truncate at apex, glabrous. Female flower: pedicel 0–1 mm, up to 5 mm long in fruit, pubescent; sepals persistent, oval, 1–1.5 mm long, puberulent outside, glabrous inside; petals very caducous, elliptic, puberulent outside, glabrous inside; disc slightly lobed; ovary 3 mm long, sparsely puberulent, glabrous. Fruit globose, 18–22 mm in diameter, glabrous, very often slightly pustulous and often lenticellate. Seeds obovoid, slightly flattened and ± triangular in transverse section, 13 × 9–10 × 5–6 mm.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-du Liberia au Nigeria, Cameroun et Gabon, surtout dans la zone côtière ; au Gabon, connue du Moyen-Ogooué, de l’Ogooué-Maritime et de la Nyanga
+from Liberia to Nigeria, Cameroon and Gabon, mainly in the coastal zone; in Gabon, known from Moyen-Ogooué, Ogooué-Maritime and Nyanga
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-forêt riveraine, forêt marécageuse ; au Gabon, à 0–100 m d’altitude. Usage : Toutes les parties de S. preussii sont extrêmement toxiques, et les usages médi cinaux sont rares. La décoction de feuilles, fortement diluée, se boit parfois pour com battre la fièvre. La décoction d’écorce s’utilise en bains de bouche pour traiter les maux de dents. L’écorce, le jus d’écorce ou les graines réduites en poudre sont utilisés pour tuer des animaux. Le bois dur et lourd s’utilise en construction et pour confectionner des ustensiles
+riparian forest, swamp forest; in Gabon, at 0–100 m altitude. Uses: All parts of S. preussii are extremely toxic, and medicinal uses are rare. A decoction of leaves, strongly diluted, is sometimes drunk to combat fever. A decoction of bark is used in mouth baths to treat toothache. The bark, bark juice or seeds reduced to powder are used to kill animals. The hard and heavy wood is used in construction and for making utensils.
 
 ## Vernacular names
 

@@ -7,6 +7,9 @@ family: Sapindaceae
 vol: 23
 pages: 70-71
 source: sources/Sapindaceae_vol23_paddle
+countries: [Cameroon, Gabon]
+in_region: true
+habit: "tree"
 tags: [species, generated]
 ---
 # *Deinbollia macrantha* Radlkofer

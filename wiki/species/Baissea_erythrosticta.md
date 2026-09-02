@@ -7,6 +7,11 @@ family: Apocynaceae
 vol: 59
 pages: 51-52
 source: sources/Apocynaceae_vol59_liteparse
+countries: [Cameroon, Gabon]
+in_region: true
+subdivisions:
+  Gabon: [Ngounié]
+habit: "liana"
 tags: [species, generated]
 ---
 # *Baissea erythrosticta* K.Schum. ex Stapf Planche 17(4)

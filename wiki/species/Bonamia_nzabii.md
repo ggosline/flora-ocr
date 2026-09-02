@@ -7,6 +7,12 @@ family: Convolvulaceae
 vol: 46
 pages: 17-17
 source: sources/Convolvulaceae_vol46_liteparse
+countries: [Democratic Republic of the Congo, Gabon]
+in_region: true
+subdivisions:
+  Gabon: [Ngounié]
+habit: "liana"
+altitude_m: "300–360"
 tags: [species, generated]
 ---
 # *Bonamia nzabii* Breteler Planche 4

@@ -7,6 +7,7 @@ family: Apocynaceae
 vol: 59
 pages: 111-113
 source: sources/Apocynaceae_vol59_liteparse
+altitude_m: "500–1000"
 tags: [species, generated]
 ---
 # *Landolphia anthonii* Jongkind Planche 46

@@ -7,6 +7,9 @@ family: Orchidaceae
 vol: 37
 pages: 109-111
 source: sources/Orchidaceae_vol37_paddle
+countries: [Cameroon, Central African Republic, Democratic Republic of the Congo, Equatorial Guinea, Gabon, Liberia, Nigeria, Sierra Leone, Togo, Uganda]
+in_region: true
+habitat: [swamp forest, evergreen forest]
 tags: [species, generated]
 ---
 # *Ancistrorhynchus capitatus* (Lindl.) Summerh.
@@ -49,7 +52,7 @@ Wieringa 626, Wolen-Ntem, Minkébé district, Nsya Valley, Gilbertiodendron fore
 
 ![Ancistrorhynchus capitatus](../sources/Orchidaceae_vol37_paddle/figures/fig_044_p0110.png)
 
-*PL. 150. – Ancistrorhynchus capitatus (Lindl.) Summerh.: A, fleur et bractée florale ; B, labelle étalé ; C, sépale dorsal ; D, pétale ; E, sépale latéral ; F, G, extrémités foliaires (A-G, Letouzey 14008, P).*
+*PL. 150. – Ancistrorhynchus capitatus (Lindl.) Summerh.: A, flower and floral bract ; B, labellum spread ; C, dorsal sepal ; D, petal ; E, lateral sepal ; F, G, leaf ends (A-G, Letouzey 14008, P).*
 
 ![Ancistrorhynchus capitatus](../sources/Orchidaceae_vol37_paddle/figures/fig_151_p0255.png)
 

@@ -7,6 +7,12 @@ family: Cyperaceae
 vol: 44
 pages: 47-48
 source: sources/Cyperaceae_vol44_liteparse
+countries: [Gabon]
+in_region: true
+subdivisions:
+  Gabon: [Estuaire, Nyanga, Ogooué-Ivindo, Ogooué-Maritime]
+habit: "herb"
+altitude_m: "0–600"
 tags: [species, generated]
 ---
 # *Cyperus articulatus* L. Planche 22

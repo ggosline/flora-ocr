@@ -7,6 +7,11 @@ family: Passifloraceae
 vol: 46
 pages: 71-73
 source: sources/Passifloraceae_vol46_liteparse
+countries: [Cameroon, Gabon, Ghana, Sierra Leone, Uganda]
+in_region: true
+habit: "herb"
+habitat: [swamp forest]
+altitude_m: "1000"
 tags: [species, generated]
 ---
 # *Adenia mannii* (Mast.) Engl. Planche 25.5, 29

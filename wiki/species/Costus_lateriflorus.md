@@ -5,10 +5,10 @@ authority: Bak.
 genus: Costus
 family: Zingiberaceae
 family_current: Costaceae
-countries: [Equatorial Guinea]
-in_region: true
-habit: scrambling herb
 treatments: [{vol: 9, pages: "78", source: sources/Zingiberaceae_vol9_paddle}]
+countries: [Equatorial Guinea, Gabon]
+in_region: true
+habit: "herb"
 tags: [species]
 ---
 # *Costus lateriflorus* Bak.

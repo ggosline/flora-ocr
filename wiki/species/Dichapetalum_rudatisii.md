@@ -7,6 +7,8 @@ family: Dichapetalaceae
 vol: 32
 pages: 163-166
 source: sources/Dichapetalaceae_vol32_paddle
+countries: [Cameroon, Gabon, Nigeria]
+in_region: true
 tags: [species, generated]
 ---
 # *Dichapetalum rudatisii* Engler
@@ -67,7 +69,7 @@ Les fleurs d'un spécimen, obtenues à partir de graines (Bos 3560) au Conservat
 
 ![Dichapetalum rudatisii](../sources/Dichapetalaceae_vol32_paddle/figures/fig_048_p0164.png)
 
-*PL. 47 – Dichapetalum rudatisii Engler: 1, jeune rameau florifère × 0,8; 2, indumentum de jeune rameau, détail x 35; 3, fleur × 10; 4, fleur, détail × 10; 5, pistil × 10; 6, jeune rameau fructifère × 0,8; 7, indumentum du fruit, détail × 35; 8, endocarpe × 0,8 (1-5, Leeuwenberg 5230; 6-8; Leeuwenberg 5066). – Repris de MLW 82 (8): 10 (1982).*
+*PL. 47 – Dichapetalum rudatisii Engler: 1, young flowering branch × 0.8; 2, indumentum of young branch, detail × 35; 3, flower × 10; 4, flower, detail × 10; 5, pistil × 10; 6, young fruiting branch × 0.8; 7, indumentum of fruit, detail × 35; 8, endocarp × 0.8 (1-5, Leeuwenberg 5230; 6-8; Leeuwenberg 5066). – Reprinted from MLW 82 (8): 10 (1982).*
 
 ## Notes
 

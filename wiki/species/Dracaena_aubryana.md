@@ -7,6 +7,12 @@ family: Dracaenaceae
 vol: 54
 pages: 21-21
 source: sources/Dracaenaceae_vol54_liteparse
+countries: [Angola, Cameroon, Democratic Republic of the Congo, Equatorial Guinea, Gabon, Republic of the Congo, Sao Tome and Principe]
+in_region: true
+subdivisions:
+  Gabon: [Estuaire, Haut-Ogooué, Moyen-Ogooué, Nyanga, Ogooué-Lolo]
+habit: "shrub"
+altitude_m: "0–450"
 tags: [species, generated]
 ---
 # *Dracaena aubryana* Brongn. ex E.Morren Planche 4, Figure 1(D, E)

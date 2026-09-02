@@ -7,6 +7,12 @@ family: Dracaenaceae
 vol: 54
 pages: 45-45
 source: sources/Dracaenaceae_vol54_liteparse
+countries: [Cameroon, Gabon]
+in_region: true
+subdivisions:
+  Gabon: [Ngounié, Ogooué-Maritime, Woleu-Ntem]
+habit: "shrub"
+altitude_m: "0–1020"
 tags: [species, generated]
 ---
 # *Dracaena mokoko* Mwachala & Cheek

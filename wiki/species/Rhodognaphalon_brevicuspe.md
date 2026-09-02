@@ -7,6 +7,8 @@ family: Bombacaceae
 vol: 22
 pages: 43-46
 source: sources/Bombacaceae_vol22_paddle
+countries: [Gabon, Sierra Leone]
+in_region: true
 tags: [species, generated]
 ---
 # *Rhodognaphalon brevicuspe* (Sprague) Robert
@@ -59,11 +61,11 @@ Fleury in Chevalier 26598, Lac Zilé près Atsié. Le Testu 1453, Dabilila (fl.,
 
 ![Rhodognaphalon brevicuspe](../sources/Bombacaceae_vol22_paddle/figures/fig_013_p0037.png)
 
-*PL. 9. — Fruits et graines de Bombacaceae : 1, capsule de Ceiba pentandra (L.) Gaertn. × 2/3; 2, capsule de Rhodognaphalon brevicuspe (Sprague) Roberta × 2/3; 3, capsule de Bombax buonopozense P.B. × 2/3; 4, graine de Ceiba pentandra (L.) Gaertn. × 3; 5, graine de Rhodognaphalon lukayense (De Wild. et Th. Dur.) A. Robyns × 1,5; 6, graine de Rhodognaphalon brevicuspe (Sprague) Roberta × 1,8; 7, graine de Bombax buonopozense P.B. × 3; 8, graine de Pachira aquatica Aubl. × 1,3 (1-4, Chevalier 23112; 2, 6, Bernardi 8388; 3, 7, Vuillet 733; 5, Chevalier 26984; 8, 9, Chevalier 26983).*
+*PL. 9. — Fruits and seeds of Bombacaceae : 1, capsule of Ceiba pentandra (L.) Gaertn. × 2/3; 2, capsule of Rhodognaphalon brevicuspe (Sprague) Roberta × 2/3; 3, capsule of Bombax buonopozense P.B. × 2/3; 4, seed of Ceiba pentandra (L.) Gaertn. × 3; 5, seed of Rhodognaphalon lukayense (De Wild. and Th. Dur.) A. Robyns × 1,5; 6, seed of Rhodognaphalon brevicuspe (Sprague) Roberta × 1,8; 7, seed of Bombax buonopozense P.B. × 3; 8, seed of Pachira aquatica Aubl. × 1,3 (1-4, Chevalier 23112; 2, 6, Bernardi 8388; 3, 7, Vuillet 733; 5, Chevalier 26984; 8, 9, Chevalier 26983).*
 
 ![Rhodognaphalon brevicuspe](../sources/Bombacaceae_vol22_paddle/figures/fig_015_p0045.png)
 
-*PL. 11. — Rhodognaphalon brevicuspe (Sprague) Roberty : 1, feuille × 2/3; 2, stipule × 2; 3, détail de la nervation × 2; 4, inflorescence × 2/3; 5, poil du pédicelle; 6, détail du réceptacle × 1,5; 7, poils du calice; 8, détail du calice face int. × 2; 9, pétale face int. × 1; 10, colonne staminale × 2; anthère × 7; 12, ovaire × 3; 13, style × 2; 14, coupe schématique du style (1-3, Chevalier 26598; 4-24, Le Testu 1849).*
+*PL. 11. — Rhodognaphalon brevicuspe (Sprague) Roberty : 1, leaf × 2/3; 2, stipule × 2; 3, detail of nervation × 2; 4, inflorescence × 2/3; 5, hair of pedicel; 6, detail of receptacle × 1.5; 7, hairs of calyx; 8, detail of calyx inner surface × 2; 9, petal inner surface × 1; 10, stamen column × 2; anther × 7; 12, ovary × 3; 13, style × 2; 14, schematic cross-section of style (1-3, Chevalier 26598; 4-24, Le Testu 1849).*
 
 ## Notes
 

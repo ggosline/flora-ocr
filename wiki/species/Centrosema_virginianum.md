@@ -7,6 +7,9 @@ family: Leguminosae
 vol: 49
 pages: 83-83
 source: sources/Millettiaspeciesfabaceae_vol49_liteparse
+countries: [Gabon]
+in_region: true
+habit: "herb"
 tags: [species, generated]
 ---
 # *Centrosema virginianum* (L.) Benth. Planche 24.10–13

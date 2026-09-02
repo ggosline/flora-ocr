@@ -5,13 +5,6 @@ authority: Malécot & Gosline
 genus: Octoknema
 family: Octoknemaceae
 family_current: Erythropalaceae
-habit: shrub
-habitat: [gallery forest]
-altitude_m: "200"
-subdivisions:
-  Gabon: [Ogooué-Ivindo]
-countries: [Gabon]
-in_region: true
 conservation_status: "VU D2"
 treatments:
   - kind: article
@@ -20,6 +13,11 @@ treatments:
     pages: "397–399"
     doi: 10.1007/s12225-011-9293-9
     source: sources/articles/kew_bulletin_2011_octoknema/pymupdf
+countries: [Gabon]
+in_region: true
+subdivisions:
+  Gabon: [Ogooué-Ivindo]
+habit: "shrub"
 tags: [species, post-flora]
 ---
 

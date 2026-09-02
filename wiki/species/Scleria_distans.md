@@ -7,6 +7,12 @@ family: Cyperaceae
 vol: 44
 pages: 211-212
 source: sources/Cyperaceae_vol44_liteparse
+countries: [Gabon, Madagascar, Nigeria]
+in_region: true
+subdivisions:
+  Gabon: [Estuaire, Ngounié, Ogooué-Ivindo]
+habit: "herb"
+altitude_m: "0–550"
 tags: [species, generated]
 ---
 # *Scleria distans* Poir. Planche 131
@@ -17,23 +23,15 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-in Lam., Encycl. 7 : 4 (1806). S. nutans Kunth, Enum. pl. 2 : 351 (1837). Herbe vivace, grêle, avec un rhizome rampant portant de nombreuses tiges espacées de 2–20 mm ; rhizome de 10 et + cm × 2–4 mm, brun rougeâtre, habituellement densément couvert par des écailles brunâtres ; tige (20–)30–60(–90) cm × 0,5–1,5 mm (3 mm au niveau des gaines), triangulaire, poilue ou presque glabre. Feuilles principalement dans la partie centrale des tiges ; gaines inférieures brunes ou brun rougeâtre pâle, sans limbe, les supérieures vertes avec un limbe ; ligule peu distincte et étroite, en forme de A ; limbe jusqu’à 18 cm × 1–3 mm, à section en W, pubescent. Inflorescence : un « épi » lâche, long de 5–10 cm, composé de 4–9 glomérules ; glomérules sessiles, pendants, 5–6 × 4–10 mm, formés d’épillets bisexués très serrés. Épillet avec une fleur femelle solitaire en bas et des fleurs mâles au-dessus ; glumes longues de 3–6 mm, brun rougeâtre à noirâtres, les extérieures finissant en une longue arête densément garnie de poils brun rougeâtre étalés , les supérieures plus petites et plus minces. Akène de contour obovale, arrondi dessus, triangulaire dessous , 1,4–1,5 × 0,9–1,2 mm, lisse ou rarement avec de petites rides ou des tubercules, blanc ou parfois teinté de violet pâle ; hypogynium long de 0,3–0,6 mm, triangulaire, brun rougeâtre ou brun jaunâtre.
+in Lam., Encycl. 7 : 4 (1806). S. nutans Kunth, Enum. pl. 2 : 351 (1837). Perennial herb, slender, with a creeping rhizome bearing numerous stems spaced 2–20 mm apart; rhizome 10 and + cm × 2–4 mm, reddish-brown, usually densely covered with brownish scales; stem (20–)30–60(–90) cm × 0.5–1.5 mm (3 mm at the level of the sheaths), triangular, pilose or nearly glabrous. Leaves mainly in the central portion of the stems; lower sheaths brown or pale reddish-brown, without a blade, the upper ones green with a blade; ligule indistinct and narrow, A-shaped; blade up to 18 cm × 1–3 mm, W-shaped in cross-section, pubescent. Inflorescence: a loose "spike," 5–10 cm long, composed of 4–9 glomerules; glomerules sessile, pendent, 5–6 × 4–10 mm, formed of very crowded bisexual spikelets. Spikelet with a solitary female flower at the base and male flowers above; glumes 3–6 mm long, reddish-brown to blackish, the outer ones ending in a long awn densely furnished with spreading reddish-brown hairs, the upper ones smaller and thinner. Achene with obovate outline, rounded above, triangular below, 1.4–1.5 × 0.9–1.2 mm, smooth or rarely with small wrinkles or tubercles, white or sometimes tinged with pale violet; hypogynium 0.3–0.6 mm long, triangular, reddish-brown or yellowish-brown.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-largement répandu en Afrique tropicale et australe (mais pas à l’ouest du Nigeria) ; aussi à Madagascar et en Amérique tropicale ; peu répandue au Gabon, trouvée dans l’Estuaire, la Ngounié et l’Ogooué-Ivindo (7 récoltes)
+widely distributed in tropical and southern Africa (but not west of Nigeria); also in Madagascar and tropical America; little spread in Gabon, found in the Estuaire, Ngounié and Ogooué-Ivindo (7 collections)
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-prairies saisonnièrement inondées ; au Gabon, à 0–550 m d’altitude, jusqu’à 2300 m en Afrique de l’Est. Note taxonomique : possède une inflorescence similaire à S. catophylla, mais ses stolons et feuilles basales sont très différents du long rhizome horizontal et des gaines basales non
-
-feuillées de S. distans. Les plantes avec des akènes à petites rides ou des tubercules sont parfois reconnues comme la variété chondrocarpa (Nelmes) Lye. b : Haines & Lye (1983), Hoenselaar et al. (2010), Hooper & Napper (1972), ibliographie Lye (1997), Raynal (1976), Robinson (1966).
+seasonally flooded grasslands; in Gabon, at 0–550 m elevation, up to 2300 m in East Africa. Taxonomic note: possesses an inflorescence similar to S. catophylla, but its stolons and basal leaves are very different from the long horizontal rhizome and non-leafy basal sheaths of S. distans. Plants with achenes bearing small wrinkles or tubercles are sometimes recognized as the variety chondrocarpa (Nelmes) Lye. b : Haines & Lye (1983), Hoenselaar et al. (2010), Hooper & Napper (1972), Bibliography Lye (1997), Raynal (1976), Robinson (1966).
 
 ## Notes
 

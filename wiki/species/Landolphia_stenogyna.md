@@ -7,6 +7,7 @@ family: Apocynaceae
 vol: 59
 pages: 153-153
 source: sources/Apocynaceae_vol59_liteparse
+habit: "liana"
 tags: [species, generated]
 ---
 # *Landolphia stenogyna* Pichon Planche 68

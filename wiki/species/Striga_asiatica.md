@@ -7,6 +7,13 @@ family: Scrophulariaceae
 vol: 48
 pages: 133-135
 source: sources/Scrophulariaceae_vol48_liteparse
+countries: [Gabon]
+in_region: true
+subdivisions:
+  Gabon: [Haut-Ogooué, Nyanga, Ogooué-Maritime]
+habit: "herb"
+habitat: [rocky ground]
+altitude_m: "500"
 tags: [species, generated]
 ---
 # *Striga asiatica* (L.) Kuntze Planche 43(A–B), 56(C)
@@ -17,23 +24,17 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Herbe annuelle, hémiparasite, (5–)10–15(–30) cm de hauteur, densément hispide ; tige quadrangulaire, canaliculée, simple ou peu ramifiée. Feuilles opposées ou parfois alternes dans l’inflorescence, sessiles ; limbe étroitement triangulaire-ovale, 8–16 × 0,5–0,9 mm, à marge entière . Inflorescence en épi lâche. Fleur sessile ou subsessile ; bractéoles < 2 mm de longueur ; calice à 10 crêtes (nervures) , 6 × 2,5 mm, dents 2 mm de longueur, aiguës ; corolle rouge foncé ou rarement jaune , tube 6–9 mm de longueur, très mince, courbé près du limbe, lèvre supérieure émarginée, 1–1,5 mm de longueur, lèvre inférieure tripartite, à lobes de 4 mm de longueur. Fruit ovoïde, 7 × 2 mm.
+Annual herb, hemiparasite, (5–)10–15(–30) cm tall, densely hispid; stem quadrangular, channelled, simple or slightly branched. Leaves opposite or sometimes alternate in the inflorescence, sessile; blade narrowly triangular-ovate, 8–16 × 0.5–0.9 mm, with entire margin. Inflorescence a lax spike. Flower sessile or subsessile; bracteoles < 2 mm long; calyx with 10 crests (nerves), 6 × 2.5 mm, teeth 2 mm long, acute; corolla dark red or rarely yellow, tube 6–9 mm long, very thin, curved near the limb, upper lip emarginate, 1–1.5 mm long, lower lip tripartite, with lobes 4 mm long. Fruit ovoid, 7 × 2 mm.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-espèce paléotropicale, très répandue en Afrique et Asie ; au Gabon, observée dans le Haut-Ogooué, la Nyanga et l’Ogooué-Maritime
+pantropical species, very widespread in Africa and Asia; in Gabon, observed in Haut-Ogooué, Nyanga and Ogooué-Maritime
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+cultivated areas, degraded savannas, rocky slabs, fallows; harmful parasite of rice and maize; in Gabon, up to 500 m altitude, in East Africa, up to 2480 m. Taxonomic note: The taxa of the S. asiatica complex, distinguished by Mohamed et al. (2001), are not accepted here, their distinction seeming artificial to us. In our view, S. lutea and S. hirsuta represent forms of the variable S. asiatica
 
-cultures, savanes dégradées, dalles rocheuses, jachères ; parasite nocif du riz et du maïs ; au Gabon, jusqu’à 500 m d’altitude, en Afrique de l’Est, jusqu’à 2480 m. Note taxonomique : Les taxons du complexe de S. asiatica , distingués par Mohamed et al. (2001), ne sont pas acceptés ici, leur distinction nous semblant artificielle. Selon nous, S. lutea et S. hirsuta représentent des formes de la variable S. asiatica
-
-B : Fischer (2006b), Ghazanfar et al. (2008), Hepper (1963), Mielcarek ibliographie (1996), Mohamed et al. (2001), Philcox (1990).
+B: Fischer (2006b), Ghazanfar et al. (2008), Hepper (1963), Mielcarek bibliography (1996), Mohamed et al. (2001), Philcox (1990).
 
 ## Notes
 

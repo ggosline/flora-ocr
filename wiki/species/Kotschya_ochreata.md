@@ -7,6 +7,12 @@ family: Leguminosae
 vol: 49
 pages: 223-224
 source: sources/Millettiaspeciesfabaceae_vol49_liteparse
+countries: [Angola, Democratic Republic of the Congo, Gabon, Sierra Leone]
+in_region: true
+subdivisions:
+  Gabon: [Haut-Ogooué]
+habit: "shrub"
+altitude_m: "500"
 tags: [species, generated]
 ---
 # *Kotschya ochreata* (Taub.) J.Dewit & Duvign. var. ochreata

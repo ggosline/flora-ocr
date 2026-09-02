@@ -7,6 +7,9 @@ family: Icacinaceae
 vol: 20
 pages: 73-74
 source: sources/Icacinaceae_vol20_paddle
+countries: [Angola, Cote d'Ivoire]
+in_region: true
+habit: "liana"
 tags: [species, generated]
 ---
 # *Pyrenacantha klaineana* Pierre ex Exell & Mendonça
@@ -43,7 +46,7 @@ Hallé N. 2190, Abanga, chantier CEFA (fl. ♂, juin). Klaine 1051, 1299, 1383, 
 
 ![Pyrenacantha klaineana](../sources/Icacinaceae_vol20_paddle/figures/fig_016_p0075.png)
 
-*PL. 16. — Pyrenacantha klaineana Pierre ex Exell & Mendonça : 1, feuilles × 0,3; 2, détail du limbe × 6,6; 3, inflorescence ♂ × 3; 4, fleur ♂ × 10; 4', coupe de la fleur ♂ × 10; 5, pétale × 13; 6, 6', étamine × 16; 7, fleur ♀ × 15; 7', coupe de la fleur ♀ × 15; 8, pétale × 30; 9, ovaire × 14; 10, fruit × 1; 11, face int. de l'endocarpe. (1-6, Le Testu 7276; 7-11 Klaine 1299).*
+*PL. 16. — Pyrenacantha klaineana Pierre ex Exell & Mendonça : 1, leaves × 0.3; 2, detail of the limb × 6.6; 3, inflorescence ♂ × 3; 4, flower ♂ × 10; 4', section of the flower ♂ × 10; 5, petal × 13; 6, 6', stamen × 16; 7, flower ♀ × 15; 7', section of the flower ♀ × 15; 8, petal × 30; 9, ovary × 14; 10, fruit × 1; 11, inner face of the endocarp. (1-6, Le Testu 7276; 7-11 Klaine 1299).*
 
 ## Notes
 

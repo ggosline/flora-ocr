@@ -7,6 +7,7 @@ family: Thymeleaceae
 vol: 11
 pages: 62-64
 source: sources/Thymeleaceae_vol11_paddle
+habit: "liana"
 tags: [species, generated]
 ---
 # *Craterosiphon montanum* Domke

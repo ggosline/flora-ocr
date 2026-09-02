@@ -7,6 +7,9 @@ family: Melastomataceae
 vol: 25
 pages: 156-158
 source: sources/Melastomataceae_vol25_paddle
+countries: [Cameroon]
+in_region: true
+habit: "tree"
 tags: [species, generated]
 ---
 # *Warnecka wildeana* Jacques-Félix
@@ -17,15 +20,13 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Adansonia, ser. 2, 19 (3): 260, tab. 2 (1980); Fl. Cam. 24: 170, tab. 56 (1983).
 
-Adansonia, sér. 2, 19 (3) : 260, tab. 2 (1980); Fl. Cam. 24 : 170, tab. 56 (1983).
+Small tree approximately 8 m tall; branchlets rounded, robust. Leaves smooth, glossy above; petiole 1 cm long; lamina elliptic, up to 9 × 20 cm, cuneate at the petiole, with an acumen 1.5 cm long; 5 nerves impressed above, prominent below, the main convergent ones at 10 mm from the margin in the middle section, supplemented by a pair of submarginal additional nerves, arched; 8–10 main transverse nerves, prominent on both faces, especially below, as well as the tertiary network quite dense.
 
-Petit arbre de 8 m environ ; rameaux arrondis, robustes. Feuilles lisses, brillantes dessus ; pétiole long de 1 cm ; limbe elliptique, jusqu'à  $ 9 \times 20 $ cm, en coin sur le pétiole, à acumen de 1,5 cm ; 5 nervures imprimées dessus, saillantes dessous, les convergentes principales à 10 mm de la marge dans la partie moyenne, complétées d'une paire d'additionnelles submarginales, coarquées ; 8-10 transversales principales, saillantes sur les 2 faces, surtout dessous, ainsi que le réseau tertiaire assez dense.
+Cymes fascicled on the nodes of old wood, subsessile, briefly branched, 1.5 cm long and totalling about twenty flowers; bracts broadly ovate, 1–1.5 mm long, long persistent. Flower with pedicel 5–8 mm; hypantho-calyx cupulo-patelate, approximately 4 × 2 mm; calyx sinuate or lobes shallowly incised. Petals and stamens unknown.
 
-Cymes fasciculées sur les nœuds du vieux bois, subsessiles, brièvement ramiﬁées, longues de 1,5 cm et totalisant une vingtaine de ﬂeurs; bractées largement ovales, longues de 1-1,5 mm, longtemps persistantes. Fleur à pédicelle de 5-8 mm; hypantho-calice cupulo-patellé, d'environ  $ 4 \times 2 $ mm; calice sinué ou lobes peu profondément incisés. Pétales et étamines non connus.
-
-Fruit globuleux de 6 mm de diamètre. — Pl. 57, p. 157.
+Fruit globose, 6 mm in diameter. — Pl. 57, p. 157.
 
 ## Type
 
@@ -33,9 +34,7 @@ De Wilde J.J.F.E. 8686, Cameroun (WAG)
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Espèce de la forêt cameruno-gabonaise, typique par ses fleurs presque glomérulées sur les nœuds du vieux bois.
+Species of the Cameroon–Gabonese forest, typical for its flowers almost glomerate on the nodes of old wood.
 
 ## Specimens examined
 
@@ -45,7 +44,7 @@ Breteler & De Wilde J.J.F.E. 362, NNW Méla, arbuste de 5 m (août), WAG.
 
 ![Warnecka wildeana](../sources/Melastomataceae_vol25_paddle/figures/fig_056_p0157.png)
 
-*PL. 56. — Warneckea cauliflora Jacq.-Fél. : 1 & 2, rameau feuillé et cymes sur rameau âgé × 2/3; 3, bouton floral × 6; 4, coupe de fleur × 6; 5, étamine × 12; 6, pétale × 6 (Le Testu 7776). (Repris d'Adansonia, sér. 2, 19 (3) : tab. 3, 1980).*
+*PL. 56. — Warneckea cauliflora Jacq.-Fél. : 1 & 2, leafy branch and cymes on old branch × 2/3; 3, floral bud × 6; 4, section of flower × 6; 5, stamen × 12; 6, petal × 6 (Le Testu 7776). (Reprinted from Adansonia, sér. 2, 19 (3) : tab. 3, 1980).*
 
 ## Notes
 

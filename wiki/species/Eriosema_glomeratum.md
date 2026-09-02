@@ -7,6 +7,12 @@ family: Leguminosae
 vol: 49
 pages: 186-188
 source: sources/Millettiaspeciesfabaceae_vol49_liteparse
+countries: [Gabon]
+in_region: true
+subdivisions:
+  Gabon: [Estuaire, Moyen-Ogooué, Nyanga, Ogooué-Maritime]
+habitat: [savanna]
+altitude_m: "10–120"
 tags: [species, generated]
 ---
 # *Eriosema glomeratum* (Guill. & Perr.) Hook.f. var. glomeratum

@@ -7,6 +7,10 @@ family: Meliaceae
 vol: 47
 pages: 71-73
 source: sources/Meliaceae_vol47_liteparse
+countries: [Angola, Cameroon, Democratic Republic of the Congo, Gabon, Nigeria, Republic of the Congo]
+in_region: true
+habit: "tree"
+altitude_m: "1020"
 tags: [species, generated]
 ---
 # *Trichilia welwitschii* C.DC. Planche 23
@@ -17,23 +21,17 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-in A.DC. & C.DC, Monogr. phan. 1 : 659 (1878). T. zenkeri Harms, Bot. Jahrb. Syst. 23 : 161 (1896). T. pynaertii De Wild., Ann. Mus. Congo Belge, Bot., sér. 5, 2 : 265 (1908). T. caloneura Pierre ex Pellegr., Not. Syst. (Paris) 2 : 74 (1911). T. oddoni De Wild., Bull. Jard. Bot. État Bruxelles 4(3) : 379 (1914). Arbre de 10–20(–30) m de hauteur ; tronc 15–50 cm de diamètre ; tranche rouille, ex sudant un peu de latex jaunâtre. Feuille : pétiole 6–12(–18) cm, densément pubescent ainsi que le rachis de 7–25(–36) cm ; pétiolules 3–10(–25) mm ; folioles (7–)11–15(–17), opposées à subopposées, étroitement elliptiques à elliptiques ou ovales, (4,5–)7–16(–25) × 2–5(–7,5) cm, cunéiformes ou obtuses à la base, aigues à acuminées ou cuspidées au sommet, glabrescentes dessus sauf la dépression de la nervure principale qui est cour tement pubescente ; nervures latérales 10–20 paires, d’habitude courtement mais très densément pubescentes, brun pâle ou argenté dessous, les poils parfois avec canal central, bruns, glanduleux et mêlés avec de menues sécrétions brunâtres ou noires (microscope !). Inflorescence axillaire ou supra-axillaire, bien ramifiée, 5–20(–30) cm de longueur, à fleurs blanches ou jaunâtres à odeur de lilas. Fleur fonctionnellement mâle : pédicelle 0,5–2 mm ; réceptacle 1–2 mm de longueur, pubescent-velouté ; calice profon dément 5-lobé, 1,5–3 × 4–5 mm, pubescent à l’extérieur ; pétales étroitement rectangu laires, 7–9,5 × 1,7–2,3 mm, pubescents-veloutés à l’extérieur ; couronne staminale 4,5–7 mm de longueur, à partie libre des filets de 2–3 mm, denté, anthères étroitement ovales, 1–2 × 0,5 mm ; pistillode filiforme, 4,5–7,5 mm de longueur, velu. Fleur fonctionnelle ment femelle similaire ; anthères réduites ; ovaire ovoïde, superficiellement 6-sillonné, 1,5–2 mm de diamètre, 2(–3)-loculaire , tomenteux ; style 3–4 mm, stigmate capité. Fruit subglobuleux à obpyriforme, faiblement 2(–3)-lobé, 1–2 cm de diamètre, s’ouvrant par 2 valves, à stipe de 3–9 mm, duveteux. Graine environ 1 × 0,8 cm, à testa brun foncé en majeure partie modifié en un sarcotesta rouge-orange.
+in A.DC. & C.DC, Monogr. phan. 1 : 659 (1878). T. zenkeri Harms, Bot. Jahrb. Syst. 23 : 161 (1896). T. pynaertii De Wild., Ann. Mus. Congo Belge, Bot., sér. 5, 2 : 265 (1908). T. caloneura Pierre ex Pellegr., Not. Syst. (Paris) 2 : 74 (1911). T. oddoni De Wild., Bull. Jard. Bot. État Bruxelles 4(3) : 379 (1914). Tree 10–20(–30) m tall; trunk 15–50 cm in diameter; inner bark rust-colored, exuding somewhat yellowish latex. Leaf: petiole 6–12(–18) cm, densely pubescent as is the rachis of 7–25(–36) cm; petiolules 3–10(–25) mm; leaflets (7–)11–15(–17), opposite to subopposite, narrowly elliptic to elliptic or ovate, (4.5–)7–16(–25) × 2–5(–7.5) cm, cuneate or obtuse at base, acute to acuminate or cuspidate at apex, glabrescent above except the depression of the main vein which is shortly pubescent; lateral veins 10–20 pairs, usually shortly but very densely pubescent, pale brown or silvery below, the hairs sometimes with central channel, brown, glandular and mixed with fine brownish or blackish secretions (microscope!). Inflorescence axillary or supra-axillary, well-branched, 5–20(–30) cm in length, with white or yellowish flowers with lilac scent. Functionally male flower: pedicel 0.5–2 mm; receptacle 1–2 mm in length, pubescent-velvety; calyx deeply 5-lobed, 1.5–3 × 4–5 mm, pubescent externally; petals narrowly rectangular, 7–9.5 × 1.7–2.3 mm, pubescent-velvety externally; staminal crown 4.5–7 mm in length, with free part of filaments 2–3 mm, dentate, anthers narrowly ovate, 1–2 × 0.5 mm; pistillode filiform, 4.5–7.5 mm in length, hairy. Functionally female flower similar; anthers reduced; ovary ovoid, superficially 6-furrowed, 1.5–2 mm in diameter, 2(–3)-locular, tomentose; style 3–4 mm, stigma capitate. Fruit subglobose to obpyriform, weakly 2(–3)-lobed, 1–2 cm in diameter, opening by 2 valves, with stipe 3–9 mm, downy. Seed approximately 1 × 0.8 cm, with testa dark brown largely modified into a red-orange sarcotesta.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Nigeria, Cameroon, Gabon, Angola (Cabinda), Democratic Republic of the Congo, to be sought in Republic of the Congo; in Gabon, fairly common and known from almost all provinces.
 
-Nigéria, Cameroun, Gabon, Angola (Cabinda), République Démocratique du Congo, à rechercher en République du Congo ; au Gabon, assez commune et connue de presque toutes les provinces
-
-Dessin par Ike Zewald, Naturalis Biodiversity Center, Leiden (©).
+Drawing by Ike Zewald, Naturalis Biodiversity Center, Leiden (©).
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-forêt dense humide, forêt semi-caducifoliée, primaire de même que secon daire, parfois marécageuse, et galeries forestières associées ; au Gabon, jusqu’à 1020 m d’altitude, ailleurs jusqu’à 1400 m. B : Pellegrin (1940), Staner & Gilbert (1958), de Wilde (1968). ibliographie
+Dense humid forest, semi-deciduous forest, primary as well as secondary, sometimes swampy, and associated forest galleries; in Gabon, up to 1020 m in altitude, elsewhere up to 1400 m. B: Pellegrin (1940), Staner & Gilbert (1958), de Wilde (1968). Bibliography
 
 ## Notes
 

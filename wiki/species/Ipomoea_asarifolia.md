@@ -7,6 +7,12 @@ family: Convolvulaceae
 vol: 46
 pages: 35-35
 source: sources/Convolvulaceae_vol46_liteparse
+countries: [Gabon]
+in_region: true
+subdivisions:
+  Gabon: [Estuaire]
+habit: "herb"
+altitude_m: "700"
 tags: [species, generated]
 ---
 # *Ipomoea asarifolia* (Desr.) Roem. & Schult. Planche 12

@@ -7,6 +7,9 @@ family: Moraceae
 vol: 26
 pages: 239-241
 source: sources/Moraceae_vol26_paddle
+countries: [Cote d'Ivoire, Democratic Republic of the Congo, Gabon]
+in_region: true
+habit: "tree"
 tags: [species, generated]
 ---
 # *Ficus cyathistipuloides* De Wildeman
@@ -43,7 +46,7 @@ Chevalier 4332, cap Lopez (stér.); 26841, près poste Kango, riv. Komo (stér.)
 
 ![Ficus cyathistipuloides](../sources/Moraceae_vol26_paddle/figures/fig_073_p0240.png)
 
-*PL. 72. – Ficus cyathistipuloides De Wild.: rameaux avec feuilles et figues × 1 (Michaloud 499).*
+*PL. 72. – Ficus cyathistipuloides De Wild.: branches with leaves and figs × 1 (Michaloud 499).*
 
 ## Notes
 

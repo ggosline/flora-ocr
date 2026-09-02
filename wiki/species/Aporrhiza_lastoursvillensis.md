@@ -7,6 +7,7 @@ family: Sapindaceae
 vol: 23
 pages: 154-156
 source: sources/Sapindaceae_vol23_paddle
+habit: "tree"
 tags: [species, generated]
 ---
 # *Aporrhiza lastoursvillensis* Pellegrin

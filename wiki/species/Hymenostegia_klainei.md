@@ -6,6 +6,7 @@ family: Leguminosae
 vol: 15
 pages: 103-107
 source: sources/Leguminosae_vol15_paddle
+habit: "tree"
 tags: [species, generated]
 ---
 # *Hymenostegia klainei*
@@ -60,7 +61,7 @@ Species close to Hymenostegia Pellegrini and neoaubrevillei. Vernacular names: M
 
 ![Hymenostegia klainei](../sources/Leguminosae_vol15_paddle/figures/fig_022_p0106.png)
 
-*PL. XXII. — Hymenostegia Pellegrini (Chevalier) Léonard : 1, rameau avec inflorescence × 1; 2, fleur × 4; 3, coupe de la fleur × 4; 4, bractéole et sépale; 5, fruit × 1. — Hymenostegia mundungu (Pellegrin) Léonard : 6, rameau et inflorescence × 1; 7, fleur × 4; 8, coupe de la fleur × 4. — Hymenostegia neoabrevillei (Pellegrin) Léonard : 9, feuille × 1; 10, fleur × 4; 11, coupe de la fleur × 4. — Planche reprise de Adansonia.*
+*PL. XXII. — Hymenostegia Pellegrini (Chevalier) Léonard : 1, branch with inflorescence × 1; 2, flower × 4; 3, section of the flower × 4; 4, bracteole and sepal; 5, fruit × 1. — Hymenostegia mundungu (Pellegrin) Léonard : 6, branch and inflorescence × 1; 7, flower × 4; 8, section of the flower × 4. — Hymenostegia neoabrevillei (Pellegrin) Léonard : 9, leaf × 1; 10, flower × 4; 11, section of the flower × 4. — Plate reprinted from Adansonia.*
 
 ## Notes
 

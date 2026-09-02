@@ -7,6 +7,9 @@ family: Sapindaceae
 vol: 23
 pages: 191-192
 source: sources/Sapindaceae_vol23_paddle
+countries: [Angola, Cameroon, Central African Republic, Chad, Cote d'Ivoire, Democratic Republic of the Congo, Gabon, Ghana, Nigeria, Senegal, Togo]
+in_region: true
+habit: "tree"
 tags: [species, generated]
 ---
 # *Zanha golungensis* Hiern
@@ -16,15 +19,13 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-l.c. : 128 (1896).
+l.c.: 128 (1896).
 
 — Talisiopsis oliviformis Radlk., in Engl., & Prantl, Nat. Pflanzenfam., ed. 1, Nachtr. 3:208 (1907).
 
-Grand arbre de 20-25 m, rarement arbuste 2-3 m, à entrenœuds de 1-4 cm. Pétiole de 5-7 cm, rachis à 2 sillons dessus, d'environ 20 cm; pétio-lules 2-3 mm; folioles 6-9 × 3-4 cm, à 7-8 arches de nervures secondaires séparées par une nervure plus courte n'atteignant par l'arc des précédentes.
+Large tree 20–25 m, rarely shrub 2–3 m, with internodes 1–4 cm. Petiole 5–7 cm, rachis with 2 grooves above, approximately 20 cm; petiolules 2–3 mm; leaflets 6–9 × 3–4 cm, with 7–8 arches of secondary nerves separated by a shorter nerve not reaching the arc of the preceding ones.
 
-Calice 2-3 mm; pédicelles floraux, 2-3 mm; pédicelles fructifères 6-8 mm. Fruit de  $ 2 \times 1,3 $ cm. PL. 34, 7-12', p. 147.
+Calyx 2–3 mm; floral pedicels 2–3 mm; fruiting pedicels 6–8 mm. Fruit 2 × 1.3 cm. PL. 34, 7–12', p. 147.
 
 ## Type
 
@@ -32,9 +33,7 @@ Welwitsch 4545, Angola (K)
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Aire géographique : Sénégal, Côte d'Ivoire, Ghana, Togo, Nigeria, Cameroun, Tchad, République Centrafricaine, Zaïre, Angola. Non encore récolté au Gabon.
+Geographic range: Senegal, Ivory Coast, Ghana, Togo, Nigeria, Cameroon, Chad, Central African Republic, Zaïre, Angola. Not yet collected in Gabon.
 
 ## Specimens examined
 
@@ -44,15 +43,13 @@ Piot 2 (IEMVPT 21856), Mont Nganha, E Ngaoundéré, alt. 1500 m.
 
 ## Source note
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-CHEVALIER a séparé de Z. golungensis à folioles entières, un Z. vuilletii (Bull. Mus. Hist. Nat. Paris, ser. 5, 2 : 157, 1933) présentant des folioles à 4-5 dents de 1-2 mm de saillie de chaque côté; de plus les fruits seraient très vénéneux (Vuillet) alors qu'ils sont indiqués comestibles pour l'arbre de l'Angola. Le type de Z. vuilletii, Vuillet 2909 (P) a été récolté à Bamako, Koulouba; d'autres échantillons à folioles dentées proviennent du Dahomey et du Tchad. La récolte Letouzey 6936 porte des folioles dentées et pourrait donc être un Z. vuilletii, si cette espèce est vraiment distincte
+CHEVALIER separated from Z. golungensis with entire leaflets a Z. vuilletii (Bull. Mus. Hist. Nat. Paris, ser. 5, 2: 157, 1933) presenting leaflets with 4–5 teeth 1–2 mm in prominence on each side; furthermore the fruits would be very poisonous (Vuillet) whereas they are indicated as edible for the tree from Angola. The type of Z. vuilletii, Vuillet 2909 (P) was collected at Bamako, Koulouba; other specimens with toothed leaflets come from Dahomey and Chad. The collection Letouzey 6936 bears toothed leaflets and could therefore be a Z. vuilletii, if this species is truly distinct.
 
 ## Figures
 
 ![Zanha golungensis](../sources/Sapindaceae_vol23_paddle/figures/fig_035_p0149.png)
 
-*PL. 34. — Bizonula letestui Pellegrin (Le Testu 1659) : 1, foliole face supérieure; 1', folioles face inférieure; 1", extrémité d'une foliole face inférieure; 1", poils étoilés 0,5 mm; 2, rameau florifère, 4 cm; 3, fleur 12 mm et sa coupe; 4, 4', pétale 3 mm, faces interne, externe et coupe; 5, disque; 6, étamine, face interne et externe. — Zanha golungensis Hiern (7-7', Le Testu 4598; 7"-8", Tisserant 2104; 9-12', Chevalier 23797) : 7, sommet de rameau fertile à inflorescence mâle; 7, schéma des cymes; 7", sommet d'une cyme; 8, 8', fleur épanouie, coupe d'un bouton ♂ et disque; 9, 9', feuille, foliole 8 cm et infrutescence, baie 20 mm; 10, coupe d'une baie; 11, nervation du légument séminal; 12, 12', embryons.*
+*PL. 34. — Bizonula letestui Pellegrin (Le Testu 1659) : 1, leaflet upper surface; 1', leaflets lower surface; 1", tip of a leaflet lower surface; 1", stellate hairs 0.5 mm; 2, flowering branch, 4 cm; 3, flower 12 mm and its section; 4, 4', petal 3 mm, internal, external and section faces; 5, disc; 6, stamen, internal and external face. — Zanha golungensis Hiern (7-7', Le Testu 4598; 7"-8", Tisserant 2104; 9-12', Chevalier 23797) : 7, apex of fertile branch with male inflorescence; 7, diagram of cymes; 7", apex of a cyme; 8, 8', expanded flower, section of a ♂ bud and disc; 9, 9', leaf, leaflet 8 cm and fruit-bearing inflorescence, berry 20 mm; 10, section of a berry; 11, venation of the seed coat; 12, 12', embryos.*
 
 ## Notes
 

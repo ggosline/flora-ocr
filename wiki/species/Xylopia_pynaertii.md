@@ -7,6 +7,10 @@ family: Annonaceae
 vol: 16
 pages: 0-0
 source: sources/Annonaceae_vol16_mineru
+countries: [Gabon, Republic of the Congo]
+in_region: true
+habit: "tree"
+habitat: [coastal]
 tags: [species, generated]
 ---
 # *Xylopia pynaertii* ? De Wildeman
@@ -17,15 +21,13 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Ann.Mus.Congo Belge,Bot.,ser. 5,3 :79(1909).- Boutique,Fl. Congo Belge 2:332 (1951).
 
-Ann.Mus.Congo Belge,Bot.,ser. 5,3 :79(19o9).- Boutique,Fl. Congo Belge 2:332 (1951).
+Tree 30-35 m high, with straight bole, reddish-orange bark, smooth; branchlets shortly hirsute, reddish-brown. Leaves with petiole 1-2 mm long, hirsute; blade papyraceous, ovate-elliptic to elliptic, 2-6 cm long, 1-1.5 cm wide, attenuate at apex, attenuate to cuneate at base; upper surface glabrous but with midvein ± pubescent, lower surface densely pubescent reddish-brown. Lateral veins 8-10 pairs, not very prominent.
 
-Arbre de 3o-35 m de hauteur, á fut droit,écorce rougeorangé, glissante; ramilles courtement hirsutes,brun roux.Feuilles ä pétiole long de 1-2 mm, hirsute; limbe papyracé,ové-elliptique ä elliptique, long de 2-6 cm,large de 1-1,5 cm,atténué au sommet, atténué ä cunéiforme ä la base; face supérieure glabre mais ä nervure médiane ± pubescente, face inférieure densément pubescente brun roux. Nervures latérales 8-1o paires,peu visibles.
+Flowers solitary, subsessile, with pedicel 2-3 mm long, pubescent. Sepals triangular-ovate, acute, about 2.5 mm long. Outer petals narrowly linear, 2-2.7 cm long, widened and clawed at base but not thickened, tomentellous outside, puberulent inside but glabrous at base; inner petals shorter, narrowly linear, widened and fleshy above the claw, puberulent on both faces but glabrous at base inside. External staminodes 1.25 mm long, internal staminodes 0.75 mm long. Stamens linear, about 1 mm long, inserted on a prolongation of the receptacle surrounding the ovaries, connectives capitate. Carpels 8-11, about 4 mm long, ovaries narrowly oblong, about 1-1.5 mm long, densely pubescent, styles filiform, 2.5-3 mm long, pubescent at apex. Ovules 6-8, biseriate.
 
-Fleurs solitaires,subsessiles,á pedicelle long de 2-3 mm, pubescent. Sépales triangulaires-ovés,aigus,longs de 2,5 mm environ. Pétales externes étroitement linéaires,longs de 2-2,7 cm, élargis et onguiculés á la base mais non épaissis,tomentelleux a l'extérieur,pubérulents ä l'intérieur mais á base glabre;pétales internes plus courts,étroitement linéaires,élargis et charnus au-dessus de l'onglet, pubérulents sur les deux faces,mais ä base glabre a 'intérieur. Staminodes externes longs de I,25 mm, staminodes internes longs de o,75 mm.Etamines linéaires,longues de I mm environ,insérés sur un prolongement du réceptacle entourant les ovaires, connectifs en tete de clou. Carpelles 8-11, longs de 4 mm environ,ovaires étroitement oblongs,longs de I-1,5mm environ,longuement pubescents,stylesfiliformes, longs de 2,5-3 mm,pubescents au sommet.Ovules 6-8,biséries.
-
-Fruits â pédicelle long de o,3-o,5 cm;méricarpes 4-7,verts, rouges a 'intérieur,subsessiles,obovoides, longs de 1,5-3 cm, larges de 1-1,7 cm,arrondis au sommet,atténués a la base,glabres. Graines 2-6,bisériées,horizontales,ellipsoides,longues de I cm environ, larges de o,6-o,8 cm.
+Fruits with pedicel 0.3-0.5 cm long; mericarps 4-7, green, red inside, subsessile, obovoid, 1.5-3 cm long, 1-1.7 cm wide, rounded at apex, attenuate at base, glabrous. Seeds 2-6, biseriate, horizontal, ellipsoid, about 1 cm long, 0.6-0.8 cm wide.
 
 ## Type
 
@@ -33,11 +35,9 @@ Pynaert 567, Eala, Congo-Kinshasa (holotype BR!)
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+We refer to this Congolese species some incomplete specimens from Gabon, sterile or only in fruit; on each of these specimens, as on those from Congo-Brazzaville, collectors carefully noted the reddish-orange color of the bark, similar to that of Distemonanthus Benthamianus Baillon, and very characteristic of these forest trees. We unfortunately found no confirmation of this bark character on the specimens from Congo-Kinshasa, which would have supported our determination. It should be noted indeed that the Gabonese plants and those from Congo-Brazzaville present a certain difference in pubescence: the branchlets are more shortly hirsute, and the lower face of the leaves more densely pubescent with appressed hairs.
 
-Nous rapportons á cette espéce congolaise quelques spécimens incomplets du Gabon,stériles ou seulement en fruits;sur chacun de ces échantillons,comme sur ceux du Congo-Brazzaville,les collecteurs ont soigneusement noté la couleur rouge-orangé de l'écorce,semblable ä celle du Distemonanthus Benthamianus Baillon,et tres caractéristique de ces arbres de foret.Nous n'avons malheureusement trouvé aucune confirmation de ce caractere de 'écorce sur les spécimens du Congo-Kinshasa, ce qui aurait appuyé notre détermination. Il faut noter en effet que les plantes gabonaises et celles du Congo-Brazzaville présentent une certaine différence dans la pubescence :les ramilles sont plus courtement hirsutes,et la face inférieure des feuilles plus densément pubescente a poils apprimés.
-
-Espéce de forét dense,assez rare,répandue au Gabon dans les régions cotieres et au Mayombe,au Congo-Brazzaville et au Congo-Kinshasa.A rechercher en fleurs au Gabon.
+Species of dense forest, quite rare, distributed in Gabon in the coastal regions and in the Mayombe, in Congo-Brazzaville and in Congo-Kinshasa. To be sought in flower in Gabon.
 
 ## Vernacular names
 

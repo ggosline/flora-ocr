@@ -7,6 +7,13 @@ family: Cyperaceae
 vol: 44
 pages: 178-179
 source: sources/Cyperaceae_vol44_liteparse
+countries: [Gabon]
+in_region: true
+subdivisions:
+  Gabon: [Estuaire, Moyen-Ogooué, Ngounié, Nyanga, Woleu-Ntem]
+habit: "herb"
+habitat: [secondary forest]
+altitude_m: "0–500"
 tags: [species, generated]
 ---
 # *Mapania purpuriceps* (C.B.Clarke) Raynal Figure 19a

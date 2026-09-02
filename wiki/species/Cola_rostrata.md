@@ -7,6 +7,7 @@ family: Sterculiaceae
 vol: 02
 pages: 91-94
 source: sources/Sterculiaceae_vol02_paddle
+habit: "tree"
 tags: [species, generated]
 ---
 # *Cola rostrata* K. Schumann.
@@ -47,7 +48,7 @@ N. Hallé . 1336, 1402, Makokou.
 
 ![Cola rostrata](../sources/Sterculiaceae_vol02_paddle/figures/fig_017_p0093.png)
 
-*PL. XVII. — Fruits séchés de Cola : 1, Cola (Ficicola) duparquetiana H. Baillon (Klaine 117). — 2, Cola (Ficicola) ficifolia Mast. (Jolly 1). — 3 et 4, Cola (Cheirocola) crispiflora K. Schum. (Klaine s. n.), la graine montre vers le haut sa large surface d'insertion placentaire. — 5 et 6, Cola (Cheirocola) rostrata K. Schum. (Le Testu 9022), deux follicules, l'un vu par dessus, l'autre de profil.*
+*PL. XVII. — Dried fruits of Cola : 1, Cola (Ficicola) duparquetiana H. Baillon (Klaine 117). — 2, Cola (Ficicola) ficifolia Mast. (Jolly 1). — 3 et 4, Cola (Cheirocola) crispiflora K. Schum. (Klaine s. n.), the seed shows upward its large placental insertion surface. — 5 et 6, Cola (Cheirocola) rostrata K. Schum. (Le Testu 9022), two follicles, one viewed from above, the other in profile.*
 
 ## Notes
 

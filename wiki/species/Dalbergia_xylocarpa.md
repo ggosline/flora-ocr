@@ -7,6 +7,12 @@ family: Leguminosae
 vol: 49
 pages: 158-160
 source: sources/Millettiaspeciesfabaceae_vol49_liteparse
+countries: [Cameroon, Democratic Republic of the Congo, Equatorial Guinea, Gabon]
+in_region: true
+subdivisions:
+  Gabon: [Estuaire, Moyen-Ogooué, Ngounié, Nyanga, Ogooué-Maritime]
+habit: "liana"
+altitude_m: "0–150"
 tags: [species, generated]
 ---
 # *Dalbergia xylocarpa* O.Lachenaud Planche 51

@@ -7,6 +7,9 @@ family: Leguminosae
 vol: 15
 pages: 271-272
 source: sources/Leguminosae_vol15_paddle
+countries: [Gabon, Sierra Leone]
+in_region: true
+habit: "tree"
 tags: [species, generated]
 ---
 # *Berlinia confusa* Hoyle
@@ -59,7 +62,7 @@ Soyaux : 71, Sibange (fl. mars).
 
 ![Berlinia confusa](../sources/Leguminosae_vol15_paddle/figures/fig_066_p0270.png)
 
-*PL. LXVI. — Berlinia confusa Hoyle : 1, feuille × 1/2; 2, fleur × 2/3; 3, grand pétale × 2/3; 4, ovaire. — Berlinia auriculata Bentham : 5, feuille et inflorescence × 2/3; 6, fleur × 2/3; 7, grand pétale et pétale rudimentaire × 4/3.*
+*PL. LXVI. — Berlinia confusa Hoyle : 1, leaf × 1/2; 2, flower × 2/3; 3, large petal × 2/3; 4, ovary. — Berlinia auriculata Bentham : 5, leaf and inflorescence × 2/3; 6, flower × 2/3; 7, large petal and rudimentary petal × 4/3.*
 
 ## Notes
 

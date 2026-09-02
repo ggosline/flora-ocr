@@ -7,6 +7,13 @@ family: Phyllanthaceae
 vol: 43
 pages: 62-64
 source: sources/Phyllanthaceae_vol43_liteparse
+countries: [Cameroon, Democratic Republic of the Congo, Gabon, Republic of the Congo]
+in_region: true
+subdivisions:
+  Gabon: [Ogooué-Maritime]
+habit: "shrub"
+habitat: [secondary forest]
+altitude_m: "0–600"
 tags: [species, generated]
 ---
 # *Phyllanthus dinklagei* Pax Planche 19

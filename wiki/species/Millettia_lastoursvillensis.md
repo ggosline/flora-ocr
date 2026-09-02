@@ -7,6 +7,13 @@ family: Leguminosae
 vol: 49
 pages: 272-273
 source: sources/Millettiaspeciesfabaceae_vol49_liteparse
+countries: [Gabon, Republic of the Congo]
+in_region: true
+subdivisions:
+  Gabon: [Nyanga, Ogooué-Ivindo, Ogooué-Lolo, Woleu-Ntem]
+habit: "liana"
+habitat: [secondary forest]
+altitude_m: "200–500"
 tags: [species, generated]
 ---
 # *Millettia lastoursvillensis* Pellegr.

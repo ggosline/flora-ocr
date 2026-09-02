@@ -7,6 +7,13 @@ family: Eriocaulaceae
 vol: 48
 pages: 23-25
 source: sources/Eriocaulaceae_vol48_liteparse
+countries: [Gabon, Republic of the Congo]
+in_region: true
+subdivisions:
+  Gabon: [Haut-Ogooué, Ngounié, Ogooué-Maritime]
+habit: "herb"
+habitat: [coastal]
+altitude_m: "10–400"
 tags: [species, generated]
 ---
 # *Syngonanthus ngoweensis* Lecomte Planche 4
@@ -16,21 +23,15 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Bull. Soc. Bot. France 55 : 596 (1909 ‛ 1908’). Herbe pérenne, en rosette naissant d’un rhizome courtement développé. Feuilles nombreuses, lâchement ascendantes ou étalées, linéaires, 2–6 cm × 0,7–1,4 mm , vert terne avec une bande centrale plus claire sur la face inférieure, à pilosité apprimée avec des poils pointus et parfois quelques poils glanduleux, les vieilles feuilles glabrescentes. Inflorescence : jusqu’à environ 10 scapes, 20–30 cm, 3–5-sillonnés , pilosité à poils glanduleux étalés et poils pointus apprimés, les glanduleux denses sous le capitule ; gaîne un peu plus longue ou plus courte que les feuilles, pilosité à poils glanduleux et pointus ; capitule blanc avec une coloration jaunâtre vers le sommet du scape, large de 6–6.3 mm , paraissant glabre ; bractées involucrales généralement plus courtes que la largeur du capitule, aiguës, blanc terne, finement scarieuses avec une partie basale coriace jaune pâle à brune , les externes étroitement ovales, longues de 1,8–2 mm, glabres, progressivement plus longues et plus oblongues vers l’intérieur, les plus internes s’étendant jusqu’à la périphérie du capitule, portant des cils d’environ 0,2 mm et à base tuberculée. Fleur longue de 2,4–2,6 mm. Fleur femelle : sépales étroitement lancéolés-oblongs, aigus, marge courtement ciliée et parfois la ligne médiane avec des poils caducs à base tuberculée ; pétales pileux sur les marges libres et parfois vers le sommet de la face externe ; appendices stigmatiques présents . Graine étroitement ellipsoïde, longue de 0,6 mm, à stries longitudinales blanches.
+Bull. Soc. Bot. France 55 : 596 (1909 ‛ 1908'). Perennial herb, in rosette arising from a shortly developed rhizome. Leaves numerous, loosely ascending or spreading, linear, 2–6 cm × 0.7–1.4 mm, dull green with a lighter central band on the lower surface, with appressed hairs with acute points and sometimes a few glandular hairs, old leaves glabrescent. Inflorescence: up to about 10 scapes, 20–30 cm, 3–5-furrowed, hairs with spreading glandular hairs and acute appressed hairs, the glandular ones dense beneath the capitulum; sheath somewhat longer or shorter than the leaves, with glandular and acute hairs; capitulum white with yellowish coloration towards the apex of the scape, 6–6.3 mm wide, appearing glabrous; involucral bracts generally shorter than the width of the capitulum, acute, dull white, finely scarious with a pale yellow to brown coriaceous basal part, the outer ones narrowly ovate, 1.8–2 mm long, glabrous, progressively longer and more oblong towards the interior, the innermost extending to the periphery of the capitulum, bearing cilia about 0.2 mm and tuberculate at base. Flower 2.4–2.6 mm long. Female flower: sepals narrowly lanceolate-oblong, acute, margin shortly ciliate and sometimes the midline with caducous hairs tuberculate at base; petals hairy on the free margins and sometimes towards the apex of the external surface; stigmatic appendages present. Seed narrowly ellipsoid, 0.6 mm long, with white longitudinal striae.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-République du Congo et Gabon ; au Gabon, connue du Haut-Ogooué, de la Ngounié et de l’Ogooué-Maritime
+Republic of the Congo and Gabon; in Gabon, known from Haut-Ogooué, Ngounié and Ogooué-Maritime
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-bords des étangs ou eaux peu profondes de prairies humides sur sol sablonneux ; au Gabon à 10–400 m d’altitude, ailleurs jusqu’à 500 m. Notes taxonomiques : Une espèce rarement collectée avec une distribution apparemment plutôt localisée. Au Gabon, elle se rencontre depuis la plaine littorale jusqu’aux Plateaux Batéké et sa partie attenante de la République du Congo. Des spécimens plus grands sont difficiles à séparer de S. poggeanus . Les dimensions de l’appareil végétatif et des capitules se recouvrent, mais S. ngoweensis est moins robuste, avec des feuilles plus nombreuses, plus molles et plus étroites. Les bractées involucrales sont aussi plus aiguës que dans S. poggeanus . B : Kimpouni, Lejoly & Lisowski (1994). ibliographie
+edges of ponds or shallow waters of damp grasslands on sandy soil; in Gabon at 10–400 m altitude, elsewhere up to 500 m. Taxonomic notes: A rarely collected species with an apparently rather localized distribution. In Gabon, it is found from the coastal plain to the Batéké Plateaus and its adjacent part of the Republic of the Congo. Larger specimens are difficult to separate from S. poggeanus. The dimensions of the vegetative apparatus and capitula overlap, but S. ngoweensis is less robust, with more numerous, softer and narrower leaves. The involucral bracts are also more acute than in S. poggeanus. B: Kimpouni, Lejoly & Lisowski (1994). Bibliography
 
 ## Notes
 

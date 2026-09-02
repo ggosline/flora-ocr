@@ -7,6 +7,13 @@ family: Anacardiaceae
 vol: 50
 pages: 49-50
 source: sources/Anacardiaceae_vol50_liteparse
+countries: [Cameroon, Equatorial Guinea, Gabon]
+in_region: true
+subdivisions:
+  Gabon: [Estuaire, Moyen-Ogooué, Nyanga, Ogooué-Lolo]
+habit: "tree"
+habitat: [secondary forest]
+altitude_m: "300"
 tags: [species, generated]
 ---
 # *Trichoscypha parviflora* Engl.
@@ -17,23 +24,15 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Arbre atteignant 50 m de hauteur ; tronc au moins 70 cm de diamètre ; ramilles, pétiole, rachis et inflorescence à poils courts, denses, au moins partiellement apprimés. Feuille jusqu’à 30 cm de longueur ; pétiole ± anguleux, 6–10 cm ; rachis 10–18 cm ; folioles 5 à 11, pétiolules 3–10 mm, à limbe étroitement elliptique à lancéolé, 8–15(–17) × 2–4,5 cm, cunéé à arrondi à la base, acuminé sur 0,5–2 cm au sommet, finement pustuleux, luisant et glabre dessus (y inclus la médiane imprimée), éparsement poilu à poils courts, apprimés dessous, parfois plus denses sur la médiane, avec 10 à 14 paires de nervures latérales. Inflorescence terminale, lâche, 20–40 cm de longueur, à cymules de 1 à 6 fleurs, ± séparées. Fleur mâle : pédicelle (0–)1–3 mm, brun, pubérulent ; calice brun, pubérulent, à lobes étalés, deltoïdes, 1 mm de longueur ; pétales à préfloraison imbriquée, réfléchis, largement ovales-elliptiques, 2 × 1,5–2
-
-Trichoscypha 43 mm, jaune verdâtre , glabres ou à quelques poils apprimés à l’extérieur ; étamines ± aussi longues que les pétales, légèrement incurvées ; disque 1,5–3 mm de diamètre, à poils courts, ± apprimés. Fleur femelle : pédicelle (0–)1–2 mm, brun, pubérulent ; calice et pétales comme chez la fleur mâle ; staminodes nettement plus courts que les pétales ; disque 3 mm de diamètre ; ovaire 1,5 mm de longueur ; styles 3, divergents ou parfois étalés, 1 mm, glabres. Fruit (immature) globuleux, ≥ 1 cm de diamètre, finement vélutineux.
+Tree reaching 50 m in height; trunk at least 70 cm in diameter; branchlets, petiole, rachis and inflorescence with short, dense hairs, at least partly appressed. Leaf up to 30 cm in length; petiole ± angular, 6–10 cm; rachis 10–18 cm; leaflets 5 to 11, petiolules 3–10 mm, with narrowly elliptic to lanceolate blade, 8–15(–17) × 2–4.5 cm, cuneate to rounded at the base, acuminate for 0.5–2 cm at the apex, finely pustulate, glossy and glabrous above (including the impressed midvein), sparsely hairy with short, appressed hairs beneath, sometimes denser on the midvein, with 10 to 14 pairs of lateral veins. Inflorescence terminal, lax, 20–40 cm in length, with cymes of 1 to 6 flowers, ± separated. Male flower: pedicel (0–)1–3 mm, brown, puberulent; calyx brown, puberulent, with spreading, deltoid lobes, 1 mm in length; petals with imbricate prefloration, reflexed, broadly ovate-elliptic, 2 × 1.5–2 mm, yellow-greenish, glabrous or with a few appressed hairs on the outside; stamens ± as long as the petals, slightly curved; disc 1.5–3 mm in diameter, with short, ± appressed hairs. Female flower: pedicel (0–)1–2 mm, brown, puberulent; calyx and petals as in the male flower; staminodes distinctly shorter than the petals; disc 3 mm in diameter; ovary 1.5 mm in length; styles 3, divergent or sometimes spreading, 1 mm, glabrous. Fruit (immature) globose, ≥ 1 cm in diameter, finely velvety.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Cameroun, Guinée équatoriale (Rio Muni) et Gabon ; au Gabon, connu de l’Estuaire, du Moyen-Ogooué, de la Nyanga et de l’Ogooué-Lolo
+Cameroon, Equatorial Guinea (Rio Muni) and Gabon; in Gabon, known from the Estuaire, Moyen-Ogooué, Nyanga and Ogooué-Lolo
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-forêt primaire et secondarisée ; au Gabon jusqu’à 300 m d’altitude, ailleurs jusqu’à 1000 m
+primary and secondarized forest; in Gabon up to 300 m in altitude, elsewhere up to 1000 m
 
 ## Vernacular names
 
@@ -41,9 +40,7 @@ engong
 
 ## Source note
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Voir sous T. oliveri. Bi : Breteler (2004). B liographie
+See under T. oliveri. Bi: Breteler (2004). Bibliography
 
 ## Notes
 

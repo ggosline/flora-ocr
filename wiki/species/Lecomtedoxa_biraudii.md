@@ -5,14 +5,12 @@ authority: Aubrev. & Pellegr.
 genus: Lecomtedoxa
 family: Sapotaceae
 synonyms: []
-habit: tree
-habitat: []
-altitude_m: ""
-countries_incomplete: true  # source gives localities but no country/province list; needs review
 treatments:
   - vol: 1
     pages: "70-72"
     source: sources/Sapotaceae_vol01_paddle
+countries: [Gabon]
+in_region: true
 tags: [species]
 ---
 

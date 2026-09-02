@@ -7,6 +7,7 @@ family: Icacinaceae
 vol: 20
 pages: 15-16
 source: sources/Icacinaceae_vol20_paddle
+habit: "liana"
 tags: [species, generated]
 ---
 # *Iodes seretii* (De Wildeman) Boutique

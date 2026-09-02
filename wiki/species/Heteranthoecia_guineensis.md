@@ -108,7 +108,7 @@ II. ANDROPOGONÉES
 
 ![Heteranthocia guineensis](../sources/Gramineae_vol05_paddle/figures/fig_019_p0115.png)
 
-*PL. XVIII. — Heteranthoecia guineensis (Franch.) Robyns (Barter 1348) : 1, aspect de la plante; 2, détail d'un racème avec quelques épillets; 3, épillet long de 2 mm; 4, fleur fertile. — Isachne Buettneri Hack (J. de Brazza 219) : 5, aspect de la plante; 6, épillet : longueur 1 mm env. sans le pédicelle; 7, fleur fertile.*
+*PL. XVIII. — Heteranthoecia guineensis (Franch.) Robyns (Barter 1348) : 1, aspect of the plant; 2, detail of a raceme with some spikelets; 3, spikelet 2 mm long; 4, fertile flower. — Isachne Buettneri Hack (J. de Brazza 219) : 5, aspect of the plant; 6, spikelet : length 1 mm approx. without the pedicel; 7, fertile flower.*
 
 ## Notes
 

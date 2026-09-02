@@ -7,6 +7,12 @@ family: Dracaenaceae
 vol: 54
 pages: 49-51
 source: sources/Dracaenaceae_vol54_liteparse
+countries: [Cameroon, Central African Republic, Democratic Republic of the Congo, Gabon, Republic of the Congo]
+in_region: true
+subdivisions:
+  Gabon: [Estuaire, Ogooué-Ivindo, Woleu-Ntem]
+habit: "shrub"
+altitude_m: "60–650"
 tags: [species, generated]
 ---
 # *Dracaena phanerophlebia* Baker Figure 4(D)

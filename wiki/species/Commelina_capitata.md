@@ -7,6 +7,11 @@ family: Commelinaceae
 vol: 55
 pages: 27-27
 source: sources/Commelinaceae_vol55_liteparse
+countries: [Angola, Benin, Burundi, Cameroon, Central African Republic, Cote d'Ivoire, Democratic Republic of the Congo, Equatorial Guinea, Gabon, Ghana, Guinea, Guinea-Bissau, Liberia, Nigeria, Republic of the Congo, Rwanda, Senegal, Sierra Leone, Uganda]
+in_region: true
+habit: "herb"
+habitat: [swamp forest, secondary forest, evergreen forest]
+altitude_m: "950"
 tags: [species, generated]
 ---
 # *Commelina capitata* Benth. Figure 2(A, B)

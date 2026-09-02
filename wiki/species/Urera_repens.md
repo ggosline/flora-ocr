@@ -7,6 +7,12 @@ family: Urticaceae
 vol: 51
 pages: 85-87
 source: sources/Urticaceae_vol51_liteparse
+countries: [Cameroon, Democratic Republic of the Congo, Equatorial Guinea, Gabon, Nigeria]
+in_region: true
+subdivisions:
+  Gabon: [Estuaire, Nyanga, Ogooué-Ivindo]
+habit: "herb"
+altitude_m: "100–900"
 tags: [species, generated]
 ---
 # *Urera repens* (Wedd.) Rendle Planche 32
@@ -17,31 +23,23 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-in Oliv., Fl. trop. Afr . 6(2.2) : 264 (1917). Laportea ? repens Wedd. in DC., Prodr . 16(1) : 81 (1869). Herbe pérenne, probablement toujours dioïque ; tiges prostrées , rampant sur plusieurs mètres sur le sol de la forêt , faiblement lignifiées, s’enracinant aux entrenœuds par des ra cines adventives, les âgées atteignant ± 5 mm de diamètre ; écorce brunâtre, avec des sillons et des crêtes longitudinales irréguliers, protubérances brunes presque toujours présentes sur les tiges et fréquemment aussi sur les pétioles ou la face inférieure de la nervure médiane du limbe, atteignant 2 mm de longueur, longitudinalement aplaties, pointues, bifides ou avec quelques pointes, chacune souvent avec un poil urticant apical ; cystolithes allongés. Stipules partiellement soudées, elliptiques-ovales, 6–8 × 2–3 mm, acuminées, avec une nervure centrale proéminente. Feuille : pétiole dressé , 9–15 (–30) cm, vert grisâtre pâle à pourpre, presque cylindrique, sillonné sur le sec, pubérulent, avec des petits cystolithes et des goutte lettes de résine brunâtre ; limbe suborbiculaire, généralement jusqu’à 10 cm de diamètre, mais parfois jusqu’à 22 × 18 cm, rarement ovale et jusqu’à 15 × 12 cm, base profondément cordée sur 1–3(–4) cm, sommet obtus, aigu à acuminé, avec un acumen atteignant 1 cm, marge géné ralement crénelée à dents arrondies, rarement subentière, papyracé, face supérieure vert mat, face inférieure vert grisâtre plus clair, avec des nervures purpurines ou brun rougeâtre, très jeunes feuilles couvertes de poils urticants sur le limbe et les nervures de la face inférieure ; nervation avec 1 ou 2 paires de nervures basales symétriques, la paire externe s’arquant vers l’extérieur dans la partie inférieure du limbe profondément cordée et émettant 5 ou 6 nervures latérales vers la marge , la paire interne pouvant atteindre la moitié ou les deux tiers supérieurs du limbe, nervures latérales supérieures en 3 ou 4(–5) paires, réseau tertiaire scalariforme ou réticulée. Inflorescences aux aisselles feuillées ou nues, en corymbe, la mâle ± 5 × 12 cm, en cyme lâche et généralement dichotome, verdâtre à rose brunâtre ; pédoncule dressé, de 5–18 cm , comparable au pétiole ; branches pubérulentes, souvent armées de poils urticants et parfois munies d’un anneau de bractées ciliées situées sous un glomérule de 5 à 10 fleurs mâles ; la femelle en corymbe plutôt dense, jusqu’à ± 5 cm de diamètre, ± réguliè rement dichotome, brun rosâtre ; pédoncule dressé, de 1–5 cm ; branches courtes, charnues, pubérulentes, glomérules terminaux, de 3 à 5 fleurs axillées par des bractées deltoïdes ciliées. Fleur mâle 5-mères, 1,5–2 mm de diamètre ; pédicelle pubérulent, 2–4 mm ; boutons floraux rosâtres ; tépales avec un minuscule structure pectinée apicale et quelques poils urticants éta lés. Fleur femelle ovoïde, ± 1 mm de longueur ; périanthe tubuleux pubérulent, couvrant com plètement l’ovaire, marge ciliée et indistinctement lobée ; stigmate minuscule, papilleux, à peine exsert. Infrutescence compacte, corymbiforme, 5–6 cm de diamètre, à pédoncule dressé,
+in Oliv., Fl. trop. Afr. 6(2.2): 264 (1917). Laportea ? repens Wedd. in DC., Prodr. 16(1): 81 (1869). Perennial herb, probably always dioecious; stems prostrate, creeping over several metres on forest floor, weakly lignified, rooting at the nodes by adventitious roots, older ones reaching ± 5 mm in diameter; bark brownish, with irregular longitudinal grooves and ridges, brownish protuberances almost always present on the stems and frequently also on the petioles or on the lower face of the midvein of the lamina, reaching 2 mm in length, longitudinally flattened, pointed, bifid or with some points, each often with an apical stinging hair; cystoliths elongate. Stipules partially fused, elliptic-ovate, 6–8 × 2–3 mm, acuminate, with a prominent central vein. Leaf: petiole erect, 9–15 (–30) cm, pale greyish-green to purple, almost cylindrical, grooved when dry, puberulent, with small cystoliths and brownish resin droplets; lamina suborbicular, generally up to 10 cm in diameter, but sometimes up to 22 × 18 cm, rarely ovate and up to 15 × 12 cm, base deeply cordate for 1–3(–4) cm, apex obtuse, acute to acuminate, with an acumen reaching 1 cm, margin generally crenate with rounded teeth, rarely subentire, papyraceous, upper surface mat green, lower surface lighter greyish-green, with purplish or reddish-brown veins, very young leaves covered with stinging hairs on the lamina and veins of the lower face; venation with 1 or 2 pairs of symmetric basal veins, the outer pair arching outward in the lower part of the deeply cordate lamina and emitting 5 or 6 lateral veins toward the margin, the inner pair reaching up to half or two-thirds of the upper part of the lamina, upper lateral veins in 3 or 4(–5) pairs, tertiary venation scalariform or reticulate. Inflorescences in leafy or naked axils, in corymb, the male ± 5 × 12 cm, in a loose and generally dichotomous cyme, greenish to brownish-pink; peduncle erect, 5–18 cm, comparable to the petiole; branches puberulent, often armed with stinging hairs and sometimes furnished with a ring of ciliate bracts situated beneath a glomule of 5 to 10 male flowers; the female in rather dense corymb, up to ± 5 cm in diameter, ± regularly dichotomous, brownish-pink; peduncle erect, 1–5 cm; branches short, fleshy, puberulent, terminal glomules, of 3 to 5 flowers axilled by deltoid ciliate bracts. Male flower 5-merous, 1.5–2 mm in diameter; pedicel puberulent, 2–4 mm; floral buds pinkish; tepals with a minute pectinate apical structure and some spreading stinging hairs. Female flower ovoid, ± 1 mm in length; perianth tubular puberulent, completely covering the ovary, margin ciliate and indistinctly lobed; stigma minute, papillose, barely exsert. Infructescence compact, corymbiform, 5–6 cm in diameter, with erect peduncle,
 
 Urera 79
 
-80 Ib FRIIS renflé et charnu, de 4–5(–8) × ± 0,5 cm, vert brillant. Fruit ± 2,5 × 2 × 1 mm, entièrement inclus dans le périanthe jaune-orange à rouge, de ± 3 mm de longueur.
+80 Ib FRIIS swollen and fleshy, 4–5(–8) × ± 0.5 cm, glossy green. Fruit ± 2.5 × 2 × 1 mm, entirely included in the yellow-orange to red perianth, ± 3 mm in length.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Nigéria, Cameroun, Guinée équatoriale, Gabon et République démocratique du Congo ; au Gabon, connu de l’Estuaire, de la Nyanga et de l’Ogooué-Ivindo
+Nigeria, Cameroon, Equatorial Guinea, Gabon and Democratic Republic of the Congo; in Gabon, known from Estuaire, Nyanga and Ogooué-Ivindo
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-généralement sur sol forestier, lorsqu’il y a assez de lumière à travers la canopée et que le sol n’est pas trop humide, souvent le long des sentiers et des routes forestières où elle peut être dominante par taches et peut couvrir des rochers ; au Gabon vers 100–900 m d’altitude, intervalle compris dans sa répartition globale
+generally on forest soil, where there is sufficient light through the canopy and the soil is not too wet, often along forest paths and roads where it can be dominant in patches and can cover rocks; in Gabon toward 100–900 m altitude, range included in its global distribution
 
 ## Source note
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Auparavant, U. repens a été signalé comme s’étendant au bloc de la forêt dense sempervirente de l’Afrique de l’Ouest, mais ces populations sont maintenant rapportées à U. keayi Letouzey. U. repens se distingue d’ U. keayi par son limbe ovale, ses inflorescences en panicules (non en corymbes) et les femelles plus ouvertes au stade fructifère que chez U. repens . Elle est connue depuis le Libéria jusqu’au Ghana. B : Keay (1958), Lebrun & Stork (2010), Letouzey (1967, 1968). i B liographie
+Previously, U. repens was reported as extending to the dense evergreen forest block of West Africa, but these populations are now referred to U. keayi Letouzey. U. repens is distinguished from U. keayi by its ovate lamina, its inflorescences in panicles (not in corymbs) and the females more open at the fruiting stage than in U. repens. It is known from Liberia to Ghana. B: Keay (1958), Lebrun & Stork (2010), Letouzey (1967, 1968). Bibliography
 
 ## Notes
 

@@ -7,6 +7,13 @@ family: Leguminosae
 vol: 49
 pages: 333-334
 source: sources/Millettiaspeciesfabaceae_vol49_liteparse
+countries: [Democratic Republic of the Congo, Equatorial Guinea, Gabon]
+in_region: true
+subdivisions:
+  Gabon: [Estuaire, Ngounié, Ogooué-Lolo]
+habit: "tree"
+habitat: [riverine]
+altitude_m: "500"
 tags: [species, generated]
 ---
 # *Pterocarpus tessmannii* Harms Planche 110

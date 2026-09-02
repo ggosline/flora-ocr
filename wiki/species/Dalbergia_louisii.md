@@ -7,6 +7,12 @@ family: Leguminosae
 vol: 49
 pages: 137-139
 source: sources/Millettiaspeciesfabaceae_vol49_liteparse
+countries: [Cameroon, Democratic Republic of the Congo, Equatorial Guinea, Gabon, Nigeria, Republic of the Congo]
+in_region: true
+subdivisions:
+  Gabon: [Haut-Ogooué, Moyen-Ogooué, Nyanga, Ogooué-Ivindo, Ogooué-Maritime, Woleu-Ntem]
+habit: "shrub"
+altitude_m: "0–430"
 tags: [species, generated]
 ---
 # *Dalbergia louisii* Cronquist Planche 43

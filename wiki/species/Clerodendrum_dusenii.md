@@ -6,6 +6,12 @@ genus: Clerodendrum
 vol: 58
 pages: 30-31
 source: sources/Labiataeulmaceaeverbenaceae_vol58_liteparse
+countries: [Angola, Cameroon, Equatorial Guinea, Gabon, Nigeria, Sao Tome and Principe, Togo]
+in_region: true
+subdivisions:
+  Gabon: [Woleu-Ntem]
+habit: "liana"
+habitat: [mangrove, secondary forest]
 tags: [species, generated]
 ---
 # *Clerodendrum dusenii* Gürke

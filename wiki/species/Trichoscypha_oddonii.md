@@ -7,6 +7,13 @@ family: Anacardiaceae
 vol: 50
 pages: 47-49
 source: sources/Anacardiaceae_vol50_liteparse
+countries: [Angola, Cameroon, Democratic Republic of the Congo, Equatorial Guinea, Gabon, Republic of the Congo]
+in_region: true
+subdivisions:
+  Gabon: [Haut-Ogooué, Moyen-Ogooué]
+habit: "tree"
+habitat: [secondary forest]
+altitude_m: "5–540"
 tags: [species, generated]
 ---
 # *Trichoscypha oddonii* De Wild. Planche 22(A)
@@ -17,29 +24,21 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Trichoscypha 41 Arbre non ou peu branchu , atteignant 26 m de hauteur ; tronc jusqu’à 50 cm de diamètre ; ramilles brunes, pubérulentes, parfois pilosité mélangée de poils longs. Feuilles en touffes au bout du tronc ou des rameaux, jusqu’à 2,5 m de longueur ; pétiole jusqu’à 20 cm ; folioles (33–)41 à 57 , pétiolules 7–20 mm, à limbe lancéolé à oblong, (13–)22–35(–50) × (2,5–)7– 10(–12) cm, obtus à cordé à la base, finement acuminé sur 5–30 mm au sommet, glabre dessus, sauf la nervure médiane pubescente, en général pubescent dessous, avec (10–)15 à 24(–34) paires de nervures latérales. Inflorescence naissant sur le tronc à ≤ 5 m de hauteur , la mâle jusqu’à 30 × 25 cm, la femelle jusqu’à 15 cm de longueur, pubescente ; bractées caduques, 3,5–5 × 2–3,5 cm. Fleur mâle : pédicelle (1–)2,5–3 mm, pubérulent ; calice 1 mm de longueur, à moitié lobé, ± étalé, éparsement pubérulent ; pétales légèrement imbriqués, dressés à étalés, ovales-elliptiques, 2–2,5 mm de longueur, glabres à éparsement pubérulents ; étamines ± aussi longues que les pétales, glabres, à anthères de 0,3–0,5 mm de longueur ; disque ± lobulé, glabre , parfois avec quelques poils raides (au centre) sur le pistillode développé. Fleur femelle : pédicelle (2–)4–8 mm, pubérulent ; calice 1,5 mm de longueur, ± à moitié lobé, éparsement pubérulent ; pétales légèrement imbriqués, ± étalés, ovales-elliptiques, 3–3,5 mm de longueur, glabres à éparsement pubérulents ; staminodes plus courts que les pétales ; disque comme chez la fleur mâle ; pistil un peu plus court que les pétales, velu ; stigmates 3 ou 4, sessiles. Fruit subellipsoïdal, jusqu’à 7 × 4 cm, velu à pubérulent, éparsement ou plus dense, parfois partiellement glabrescent, rouge foncé à maturité.
+Trichoscypha 41 Tree unbranched or scarcely branched, reaching 26 m in height; trunk up to 50 cm in diameter; branchlets brown, puberulent, sometimes with a mixture of long hairs. Leaves in tufts at the apex of the trunk or branches, up to 2.5 m in length; petiole up to 20 cm; leaflets (33–)41 to 57, petiolules 7–20 mm, with lanceolate to oblong blade, (13–)22–35(–50) × (2.5–)7–10(–12) cm, obtuse to cordate at the base, finely acuminate for 5–30 mm at the apex, glabrous above except for the pubescent midvein, generally pubescent below, with (10–)15 to 24(–34) pairs of lateral veins. Inflorescence arising on the trunk at ≤ 5 m in height, the male up to 30 × 25 cm, the female up to 15 cm in length, pubescent; bracts caducous, 3.5–5 × 2–3.5 cm. Male flower: pedicel (1–)2.5–3 mm, puberulent; calyx 1 mm in length, half-lobed, ± patent, sparsely puberulent; petals slightly imbricate, erect to patent, ovate-elliptic, 2–2.5 mm in length, glabrous to sparsely puberulent; stamens ± as long as the petals, glabrous, with anthers 0.3–0.5 mm in length; disk ± lobulate, glabrous, sometimes with a few stiff hairs (at the centre) on the developed pistillode. Female flower: pedicel (2–)4–8 mm, puberulent; calyx 1.5 mm in length, ± half-lobed, sparsely puberulent; petals slightly imbricate, ± patent, ovate-elliptic, 3–3.5 mm in length, glabrous to sparsely puberulent; staminodes shorter than the petals; disk as in the male flower; pistil slightly shorter than the petals, villous; stigmas 3 or 4, sessile. Fruit subellipsoid, up to 7 × 4 cm, villous to puberulent, sparsely or more densely so, sometimes partially glabrescent, dark red at maturity.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Cameroun, Guinée équatoriale (Rio Muni), Gabon, République du Congo, Angola (Cabinda) et l’ouest de la République démocratique du Congo ; au Gabon, connu de toutes les provinces sauf du Haut-Ogooué et du Moyen-Ogooué
+Cameroon, Equatorial Guinea (Rio Muni), Gabon, Republic of the Congo, Angola (Cabinda) and western Democratic Republic of the Congo; in Gabon, known from all provinces except Haut-Ogooué and Moyen-Ogooué
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-forêt primaire et secondarisée ; au Gabon à 5–540 m d’altitude, ailleurs jusqu’à 600 m. Usage : Les fruits comestibles sont très appréciés. Le bois rose à grain très fin se travaille bien
+Primary and secondarized forest; in Gabon at 5–540 m altitude, elsewhere up to 600 m. Use: The edible fruits are highly appreciated. The wood is pink with very fine grain and works well
 
 ## Vernacular names
 
 amvout (voir aussi sous T. acuminata ). B : Breteler (2004), Van der Veken (1960a). i B liographie
 
 ## Discussion
-
-<!-- TODO:translate — source text below, verbatim and untranslated -->
 
 42 Frans J. BRETELER
 

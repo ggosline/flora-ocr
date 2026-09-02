@@ -7,6 +7,10 @@ family: Dichapetalaceae
 vol: 32
 pages: 95-97
 source: sources/Dichapetalaceae_vol32_paddle
+countries: [Gabon]
+in_region: true
+habit: "liana"
+habitat: [evergreen forest]
 tags: [species, generated]
 ---
 # *Dichapetalum geminostellatum* Breteler
@@ -51,7 +55,7 @@ Breteler 7680, 6 km au N.O. de Libreville (stér., Mai). Breteler & de Wilde 2, 
 
 ![Dichapetalum geminostellatum](../sources/Dichapetalaceae_vol32_paddle/figures/fig_025_p0098.png)
 
-*PL. 24 – Dichapetalum geminostellatum Breteler: 1, rameau avec une seule fleur × 0,5; 2, grande feuille × 0,5; 3, jeune rameau, stipules et pétiole × 2; 4, inflorescence sans fleurs × 9; 5, bractée × 9; 6, fleur × 6; 7, fleur, pétale, étanine et staminodes, détail × 12; 8, pistil × 12 (1, 7, 8, Hallé & Villiers 5436; 2, 3, Breteler & J.J. de Wilde 2; 4, 5, Klaine 2161; 6, Breteler & J.J. de Wilde 3). – Repris de MLW 79 (16): 9 (1979).*
+*PL. 24 – Dichapetalum geminostellatum Breteler: 1, branch with a single flower × 0,5; 2, large leaf × 0,5; 3, young branch, stipules and petiole × 2; 4, inflorescence without flowers × 9; 5, bract × 9; 6, flower × 6; 7, flower, petal, stamen and staminodes, detail × 12; 8, pistil × 12 (1, 7, 8, Hallé & Villiers 5436; 2, 3, Breteler & J.J. de Wilde 2; 4, 5, Klaine 2161; 6, Breteler & J.J. de Wilde 3). – Reprinted from MLW 79 (16): 9 (1979).*
 
 ## Notes
 

@@ -5,11 +5,12 @@ authority: Gilg
 genus: Impatiens
 family: Balsaminaceae
 synonyms: [Impatiens bicolor Hook. f., Impatiens dichroa Hook. f. ex Gilg, Impatiens myriantha Gilg]
-countries: [Cameroon, Gabon, Central African Republic, Democratic Republic of the Congo, Uganda]
-in_region: true
-habit: terrestrial or low epiphytic herb
-habitat: [muddy bottoms, stream margins, montane wet places]
 treatments: [{vol: 4, pages: "20–21", source: sources/Balsaminaceae_vol4_paddle}]
+countries: [Cameroon, Gabon, Uganda]
+in_region: true
+subdivisions:
+  Gabon: [Ngounié]
+habit: "herb"
 tags: [species]
 ---
 

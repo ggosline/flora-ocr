@@ -7,6 +7,10 @@ family: Meliaceae
 vol: 47
 pages: 18-19
 source: sources/Meliaceae_vol47_liteparse
+countries: [Cameroon, Gabon, Nigeria]
+in_region: true
+habit: "tree"
+altitude_m: "2450"
 tags: [species, generated]
 ---
 # *Carapa macrantha* Harms

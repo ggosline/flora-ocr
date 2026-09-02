@@ -7,6 +7,10 @@ family: Begoniaceae
 vol: 39
 pages: 20-20
 source: sources/Begoniaceae_vol39_liteparse
+countries: [Angola, Cameroon, Gabon]
+in_region: true
+habit: "herb"
+altitude_m: "800"
 tags: [species, generated]
 ---
 # *Begonia sciaphila* Gilg ex Engl.

@@ -7,6 +7,9 @@ family: Combretaceae
 vol: 35
 pages: 25-27
 source: sources/Combretaceae_vol35_paddle
+countries: [Cameroon, Gabon]
+in_region: true
+habit: "liana"
 tags: [species, generated]
 ---
 # *Combretum cinnabarinum* Engler & Diels

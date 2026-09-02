@@ -7,6 +7,12 @@ family: Cyperaceae
 vol: 44
 pages: 196-198
 source: sources/Cyperaceae_vol44_liteparse
+countries: [Gabon, Madagascar]
+in_region: true
+subdivisions:
+  Gabon: [Estuaire, Ngounié, Nyanga, Ogooué-Maritime]
+habit: "herb"
+altitude_m: "1800"
 tags: [species, generated]
 ---
 # *Rhynchospora holoschoenoides* (Rich.) Herter Planche 123, Figure 23a

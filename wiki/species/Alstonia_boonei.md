@@ -7,6 +7,7 @@ family: Apocynaceae
 vol: 59
 pages: 31-33
 source: sources/Apocynaceae_vol59_liteparse
+habit: "tree"
 tags: [species, generated]
 ---
 # *Alstonia boonei* De Wild. Planche 9 ; Figure 1(D-G)

@@ -7,6 +7,9 @@ family: Leguminosae
 vol: 15
 pages: 127-129
 source: sources/Leguminosae_vol15_paddle
+countries: [Cote d'Ivoire, Gabon]
+in_region: true
+habit: "tree"
 tags: [species, generated]
 ---
 # *Guibourtia ehie* (A. Chev.) Léonard (P.L. 26, p. 121)
@@ -51,11 +54,11 @@ Le Testu : 5097, forêt des Echiras (fl. nov.).
 
 ![Guibourtia ehie](../sources/Leguminosae_vol15_paddle/figures/fig_026_p0122.png)
 
-*PL. XXVI. — Guibourtia Tessmannii (Harms) Léonard : 1, rameau florifère × 2/3; 2, bractée × 3; 3, fleur × 2; 4, sépales vus de l'extérieur × 3; 5, fruits × 2/3. — Guibourtia ehie (Chevalier) Léonard : 6, feuille × 2/3; 7, fruit × 2/3.*
+*PL. XXVI. — Guibourtia Tessmannii (Harms) Léonard : 1, flowering branch × 2/3; 2, bract × 3; 3, flower × 2; 4, sepals seen from the exterior × 3; 5, fruits × 2/3. — Guibourtia ehie (Chevalier) Léonard : 6, leaf × 2/3; 7, fruit × 2/3.*
 
 ![Guibourtia ehie](../sources/Leguminosae_vol15_paddle/figures/fig_028_p0128.png)
 
-*PL. XXVIII. — Guibourtia Arnoldiana (De Wild et Th. Dur.) Léonard : 1, rameau florifère × 2 /3; 2, fleur × 4; 3, coupe; 4, fruit × 2 /3; 5, graine × 2 /3 (3, 4, 5, d'après la Flore du Congo belge). — Guibourtia Pellegriniana Léonard : 6, feuille × 2 /3; 7, infructescence × 2 /3; 8, graine × 2 /3.*
+*PL. XXVIII. — Guibourtia Arnoldiana (De Wild et Th. Dur.) Léonard : 1, flowering branch × 2/3; 2, flower × 4; 3, section; 4, fruit × 2/3; 5, seed × 2/3 (3, 4, 5, after the Flora of Belgian Congo). — Guibourtia Pellegriniana Léonard : 6, leaf × 2/3; 7, infructescence × 2/3; 8, seed × 2/3.*
 
 ## Notes
 

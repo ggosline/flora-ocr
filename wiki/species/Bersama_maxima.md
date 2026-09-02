@@ -5,10 +5,12 @@ authority: Baker
 genus: Bersama
 family: Melianthaceae
 synonyms: []
-countries: [Cameroon, Equatorial Guinea, Gabon, Democratic Republic of the Congo, Angola]
-in_region: true
-habit: tree
 treatments: [{vol: 4, pages: "9–13", source: sources/Melianthaceae_vol4_paddle}]
+countries: [Angola, Cameroon, Gabon]
+in_region: true
+subdivisions:
+  Gabon: [Ngounié]
+habit: "tree"
 tags: [species]
 ---
 

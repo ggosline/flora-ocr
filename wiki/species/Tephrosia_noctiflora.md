@@ -7,6 +7,12 @@ family: Leguminosae
 vol: 49
 pages: 363-364
 source: sources/Millettiaspeciesfabaceae_vol49_liteparse
+countries: [Gabon, Kenya, Liberia, Madagascar, Malawi, Mozambique]
+in_region: true
+subdivisions:
+  Gabon: [Estuaire]
+habit: "herb"
+altitude_m: "1800"
 tags: [species, generated]
 ---
 # *Tephrosia noctiflora* Bojer ex Baker

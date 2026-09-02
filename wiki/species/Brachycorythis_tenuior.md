@@ -7,6 +7,8 @@ family: Orchidaceae
 vol: 36
 pages: 25-29
 source: sources/Orchidaceae_vol36_paddle
+countries: [Angola, Cameroon, Central African Republic, Cote d'Ivoire, Gabon, Guinea, Kenya, Malawi, Nigeria, Sierra Leone, Tanzania, Uganda, Zambia, Zimbabwe]
+in_region: true
 tags: [species, generated]
 ---
 # *Brachycorythis tenuior* Rchb.f.

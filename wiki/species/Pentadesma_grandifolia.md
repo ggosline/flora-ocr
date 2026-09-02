@@ -7,6 +7,13 @@ family: Clusiaceae
 vol: 45
 pages: 46-48
 source: sources/Clusiaceae_vol45_liteparse
+countries: [Cameroon, Democratic Republic of the Congo, Gabon, Nigeria, Rwanda]
+in_region: true
+subdivisions:
+  Gabon: [Estuaire, Haut-Ogooué, Nyanga, Ogooué-Ivindo, Ogooué-Maritime, Woleu-Ntem]
+habit: "tree"
+habitat: [secondary forest, riverine, rocky ground]
+altitude_m: "50–750"
 tags: [species, generated]
 ---
 # *Pentadesma grandifolia* Baker f. Planche 11

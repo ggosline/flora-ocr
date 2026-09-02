@@ -7,6 +7,9 @@ family: Orchidaceae
 vol: 37
 pages: 43-45
 source: sources/Orchidaceae_vol37_paddle
+countries: [Cameroon, Central African Republic, Cote d'Ivoire, Democratic Republic of the Congo, Equatorial Guinea, Gabon, Liberia, Nigeria, Sao Tome and Principe, Sierra Leone]
+in_region: true
+habitat: [mangrove, swamp forest, secondary forest, riverine, rocky ground]
 tags: [species, generated]
 ---
 # *Polystachya rhodoptera* Rchb.f.
@@ -67,7 +70,7 @@ Pseudobulbs placed vertically, narrowly cylindric, superposed, each appearing at
 
 ![Polystachya rhodoptera](../sources/Orchidaceae_vol37_paddle/figures/fig_011_p0040.png)
 
-*PL. 118. – Polystachya paniculata (Sw.) Rolfe : A, fleur et bractée florale ; B, C, labelle ; D, sépale dorsal ; E, pétale ; F, sépale latéral ; G, feuille. – Polystachya rhodoptera Rchb.f. : H, fleur et bractée florale ; I, labelle en position naturelle ; J, labelle étalé ; K, sépale dorsal ; L, pétale ; M, sépale latéral (A-G, Tisserant 375, P ; H-M, Hallé & Villiers 4328, P).*
+*PL. 118. – Polystachya paniculata (Sw.) Rolfe : A, flower and floral bract ; B, C, lip ; D, dorsal sepal ; E, petal ; F, lateral sepal ; G, leaf. – Polystachya rhodoptera Rchb.f. : H, flower and floral bract ; I, lip in natural position ; J, lip spread ; K, dorsal sepal ; L, petal ; M, lateral sepal (A-G, Tisserant 375, P ; H-M, Hallé & Villiers 4328, P).*
 
 ![Polystachya rhodoptera](../sources/Orchidaceae_vol37_paddle/figures/fig_013_p0044.png)
 

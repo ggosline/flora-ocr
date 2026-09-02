@@ -25,17 +25,15 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Aromatic rhizomes, culms up to 2 m tall. Leaf sheaths compressed and even keeled towards the base of the plant. Blade linear, up to 1 m long and 1 cm wide, stiff.
 
-Rhizomes aromatiques, chaumes jusqu'à 2 m de haut. Gaines folaires comprimées et même carénées vers la base de la plante. Limbe linéaire, jusqu'à 1 m de long et 1 cm de large, raide.
+Panicle reaching more than 30 cm long with 6 to 10 whorls of 5 to 20 racemes more or less longly pedunculate, 5 to 7 cm long. Articles of the rachis and pedicels thin, finely ciliate at the apex, as long as or slightly longer than the sessile spikelet; the latter, 2 to 5 mm long, is yellow or more or less tinged with violet. Glumes acuminate, the lower tuberculate on the back, with 5 nerves, the upper spinescent on the keel. Lemma of the lower flower as long as the glumes, acuminate, ciliate with hairs directed downwards; lemmas of the upper flower approximately 3 mm long, narrow, mucronate, glabrous. Pedicellate spikelets smooth or nearly so.
 
-Panicule pouvant dépasser 30 cm de long avec 6 à 10 verticilles de 5 à 20 racèmes plus ou moins longuement pédonculés, de 5 à 7 cm de long. Articles du rachis et pédicelles minces, finement ciliés au sommet, aussi longs ou un peu plus que l'épillet sessile; celui-ci, de 2 à 5 mm de long, est jaune ou plus ou moins teinté de violet. Glumes acuminées, l'inférieure tuberculée sur le dos, à 5 nervures, la supérieure spinescente sur la carène. Glumelle de la fleur inférieure aussi longue que les glumes, acuminée, ciliée avec les poils dirigés vers le bas; glumelles de la fleur supérieure d'environ 3 mm de long, étroites, mucronulées, glabres. Épilets pédicellés lisses ou presque.
+The species is recorded from Brazzaville and from the Belgian Congo. It is cultivated for its aromatic rhizomes, and may also serve to form borders and to stabilize terraces on sloping ground to prevent erosion. It is propagated by division of the rootstock.
 
-L'espèce est signalée à Brazzaville et au Congo ex-belge. Elle est cultivée pour ses rhizomes aromatiques, et peut également servir à constituer des bordures et à fixer des terrasses sur terrains en pente pour prévenir l'érosion. Elle se multiplie par éclats de souche.
+Vernacular names (after Walker and Sillans): Igondjo-nyi-nkango (Mpongwé); Tsègè-yi-étangani (Mindumu).
 
-Noms vernaculaires (d'après Walker et Sillans) : Igondjo-nyi-nkango (Mpongwé); Tsègè-yi-étangani (Mindumu).
-
-Espèce signalée de Libreville par J. Koechlin.
+Species recorded from Libreville by J. Koechlin.
 
 ## Notes
 

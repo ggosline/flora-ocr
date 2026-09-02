@@ -7,6 +7,9 @@ family: Celastraceae
 vol: 29
 pages: 119-120
 source: sources/Celastraceae_vol29_paddle
+countries: [Cameroon, Democratic Republic of the Congo, Gabon]
+in_region: true
+habitat: [rocky ground]
 tags: [species, generated]
 ---
 # *Salacia capitulata* Hallé, sp. nov.

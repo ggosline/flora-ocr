@@ -8,6 +8,10 @@ vol: 57
 pages: 63-64
 source: sources/Cucurbitaceae_vol57_paddle
 also_in_vols: [57]
+countries: [Gabon]
+in_region: true
+habit: "herb"
+altitude_m: "1200"
 tags: [species, generated]
 ---
 # *Cucumis melo* L. subsp. melo

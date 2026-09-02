@@ -7,6 +7,11 @@ family: Leguminosae
 vol: 49
 pages: 322-324
 source: sources/Millettiaspeciesfabaceae_vol49_liteparse
+countries: [Cameroon, Gabon, Madagascar]
+in_region: true
+subdivisions:
+  Gabon: [Haut-Ogooué, Ogooué-Lolo]
+altitude_m: "2000"
 tags: [species, generated]
 ---
 # *Pseudarthria hookeri* Wight & Arn. var. hookeri Planche 105

@@ -7,6 +7,9 @@ family: Rubiaceae
 vol: 12
 pages: 118-119
 source: sources/Rubiaceae_vol12_paddle
+countries: [Nigeria]
+in_region: true
+habit: "shrub"
 tags: [species, generated]
 ---
 # *Otomeria micrantha* K. Schum.

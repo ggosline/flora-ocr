@@ -7,6 +7,9 @@ family: Rubiaceae
 vol: 17
 pages: 264-265
 source: sources/Rubiaceae_vol17_paddle
+countries: [Angola, Cameroon, Central African Republic, Gabon, Uganda]
+in_region: true
+habit: "shrub"
 tags: [species, generated]
 ---
 # *Didymosalpinx lanciloba* (S. Moore) Keay

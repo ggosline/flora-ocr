@@ -7,6 +7,8 @@ family: Scytopetalaceae
 vol: 24
 pages: 193-196
 source: sources/Scytopetalaceae_vol24_paddle
+countries: [Cameroon, Central African Republic, Democratic Republic of the Congo]
+in_region: true
 tags: [species, generated]
 ---
 # *Scytopetalum pierreanum* (De Wildeman) Van Tieghem
@@ -17,23 +19,19 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 Pflanzenw. Afr. 3 (2) : 471 (1921); Letouzey, Adansonia, ser. 2, 1 (1) : 120 (1961); Germain, FCB 10 : 326 (1963).
 
 — Egassea pierreana DE Wild., Ann. Mus. Congo V, Et. Fl. Bas et Moyen-Congo : 32, tab. 18 (1903); Miss. Laurent : 243 (1905) (Scytopetalaceae).
 
 — Oubanguia pierreana (DE WILD.) DE WILD., Miss. Laurent : 150 (1905) (Rhaptopetalaceae).
 
-Absente au Gabon, cette espèce n'est connue au Cameroun que par 2 échantillons; la description suivante se trouve complétée (entre parenthèses) par des observations et descriptions se rapportant à des échantillons congolais et zaïrois.
+Absent from Gabon, this species is known from Cameroon only by 2 specimens; the following description is supplemented (in parentheses) by observations and descriptions relating to Congolese and Zairian specimens.
 
-Arbre souvent difforme et branchu en bordure de rivières, haut de 3-5 m (mais en d'autres sites — forêts périodiquement inondées ou marécageuses — atteignant jusqu'à 30 m de hauteur et 80 cm de diamètre, avec petits contreforts à la base et cime flabellée moyennement feuillée; rhytidome profondément fendillé, brun rougeâtre; écorce fibreuse rose; bois gris rosé). Jeunes rameaux subcylindriques, pétiole 1-2(-3) mm, aplati dessus. Limbe subcoriace, parfois ovale, 4 × 7 cm et surtout elliptique-oblong, 2-3,5 × 5-8 cm; base asymétrique; sommet graduellement acuminé avec acumen de 5 × 10 mm, à apex aigu; marge entière, ondulée, avec minuscules taches glanduleuses non proéminentes; nervure médiane aplatie vers la base, 4-6 paires de nervures latérales principales, bouclées assez loin de la marge mais irrégulières, accompagnées de nervures latérales secondaires moins importantes, toutes nervures latérales peu proéminentes et très ouvertes sur la nervure médiane, sauf les basales plus ascendantes. (En général, limbe obovale elliptique, un peu falciforme, 3-5(-6) × 8-9
+Tree often misshapen and branchy along river margins, 3–5 m tall (but in other sites — periodically flooded or swampy forests — reaching up to 30 m in height and 80 cm in diameter, with small buttresses at the base and moderately leafy flabellate crown; rhytidome deeply fissured, reddish brown; bark fibrous pink; wood greyish pink). Young branchlets subcylindric, petiole 1–2(–3) mm, flattened above. Blade subcoriaceous, sometimes oval, 4 × 7 cm and especially elliptic-oblong, 2–3.5 × 5–8 cm; base asymmetric; apex gradually acuminate with acumen of 5 × 10 mm, with acute apex; margin entire, undulate, with minute non-prominent glandular spots; midvein flattened toward the base, 4–6 pairs of primary lateral veins, looped fairly far from the margin but irregular, accompanied by less important secondary lateral veins, all lateral veins slightly prominent and very open on the midvein, except the basal ones more ascending. (In general, blade obovate-elliptic, somewhat falcate, 3–5(–6) × 8–9(–16) cm; base very asymmetric with proximal side acute and distal side rounded; apex acute or obtuse with acumen of 6 × 15 mm, with acute or obtuse apex, sometimes very gradually tapered; 6–8 pairs of primary lateral veins.)
 
-(-16) cm; base très asymétrique avec côté proximal aigu et côté distal arrondi; sommet aigu ou obtus à acumen de  $ 6 \times 15 $ mm, à apex aigu ou obtus, parfois très progressivement effilé; 6-8 paires de nervures latérales principales.)
+Terminal and axillary subterial racemes, with axis ± zigzag, not exceeding 5(–6) cm in length (and bearing up to 10 flowers), scarcely angulous, glabrous; pedicel (8 mm) reaching 12 mm at the time of fruiting, cylindric. Calyx patelliform, 2.5(–3) mm, denticulate (corolla white with petals of 6–8 mm; stamens yellow; ovary 3 mm, style 3 mm).
 
-Racèmes terminaux et axillaires subterminaux, à axe ± en zig-zag, ne dépassant pas 5(-6) cm de longueur (et portant jusqu'à 10 fleurs), à peine anguleux, glabre; pédicelle (8 mm) atteignant 12 mm au moment de la fructification, cylindrique. Calice patelliforme, 2,5(-3) mm, denticulé (corolle blanche à pétales de 6-8 mm; étamines jaunes; ovaire 3 mm, style 3 mm).
-
-Fruit drupacé, ovoïde, largement obtus-arrondi à la base, pointu au sommet, 10(-12) × 18(-20) mm (à exocarpe rougeâtre devenant brun bleuté piqueté de blanc à maturité); mésocarpe mince laissant apparaître les valves de l'endocarpe (ou mésocarpe charnu à pulpe violette un peu sucrée, de 4 mm environ; endocarpe sclérifié, mince; graine 7 × 10 mm, à légument brun chocolat). — PL. 56, p. 193.
+Drupaceous fruit, ovoid, broadly obtuse-rounded at the base, pointed at the apex, 10(–12) × 18(–20) mm (with reddish exocarp becoming blue-brown dotted with white at maturity); mesocarp thin revealing the valves of the endocarp (or fleshy mesocarp with somewhat sweetish violet pulp, approximately 4 mm; sclerified endocarp, thin; seed 7 × 10 mm, with chocolate brown integument). — PL. 56, p. 193.
 
 ## Type
 
@@ -41,15 +39,13 @@ Dewèvre 666, Zaïre (holo-, BR!; iso-, P!)
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Scytopetalum pierreanum (De Wild.) V. Tiegh. can sometimes be confused with S. klaineanum Pierre ex Engl. but the blade of this latter species is not arched, is symmetric at the base and the apex is quite distinctly caudate-acuminate; the ranges of these two species are distinct from one another and only meet in the Lower Congo region; the first species frequents river margins and hydromorphic forests, whereas the second appears to be a tree of upland forests.
 
-Scytopetalum pierreanum (De Wild.) V. Tiegh. peut être confondue parfois avec S. klaineanum Pierre ex Engl. mais le limbe de cette espèce-ci n'est pas arqué, est symétrique à la base et le sommet est assez nettement caudé-acuminé; les aires de ces deux espèces sont distinctes l'une de l'autre et ne se rejoignent que dans la région du Bas Congo; la première espèce fréquente les bords de rivières et les forêts hydromorphes, alors que la seconde paraît être un arbre de forêts de terre ferme.
+As with Oubanguia africana Baill., confusions can be found among certain collectors regarding the color of the flowers: white (corolla closed or open-recurved) or yellow (clusters of open stamens).
 
-Comme pour Oubanguia africana Baill., des confusions peuvent être relevées chez certains collecteurs quant à la couleur des fleurs : blanches (corolle fermée ou épanouie-retournée) ou jaunes (touffes d'étamines épanouies).
+This species can be considered endemic to the Congo-Zaire basin where it frequents river margins and hydromorphic forests. It is thus known from Cameroon (Ngoko and Sangha), from Central African Republic (Oubangui: Bangui-Kémo), from Congo (Sangha, Oubangui: Impfondo and toward the Congo-Kasaï confluence), finally from Zaire, on the river and its tributaries.
 
-Cette espèce peut être considérée comme endémique du bassin du Congo-Zaïre où elle fréquente les bords de rivières et les forêts hydromorphes. Elle est ainsi connue au Cameroun (Ngoko et Sangha), en Centrafrique (Oubangui : Bangui-Kémo), au Congo (Sangha, Oubangui : Impfondo et vers le confluent Congo-Kasaï), enfin au Zaïre, sur le fleuve et ses affluents.
-
-PROPRIÉTÉ ET USAGE : Bois œuvrable.
+PROPERTIES AND USE: Workable timber.
 
 ## Specimens examined
 
@@ -61,7 +57,7 @@ D. MOLEZ
 
 ![Scytopetalum pierreanum](../sources/Scytopetalaceae_vol24_paddle/figures/fig_056_p0195.png)
 
-*PL. 56. — Scytopetalum pierreanum (De Wild.) V. Tiegh.: 1, rameau avec fleurs et j. fruits × 2/3; 2, rameau avec fruits × 2/3; 3, rameau avec fruit drupacé × 2/3; 4, autre type de feuille × 2/3. (1, Sita 3152, Congo; 2, Letouzey 10592; 3, Thollon 32, Congo; 4, Bouquet 2076, Congo).*
+*PL. 56. — Scytopetalum pierreanum (De Wild.) V. Tiegh.: 1, branch with flowers and young fruits × 2/3; 2, branch with fruits × 2/3; 3, branch with drupaceous fruit × 2/3; 4, another type of leaf × 2/3. (1, Sita 3152, Congo; 2, Letouzey 10592; 3, Thollon 32, Congo; 4, Bouquet 2076, Congo).*
 
 ## Notes
 

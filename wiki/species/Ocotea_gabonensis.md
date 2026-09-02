@@ -7,6 +7,7 @@ family: Lauraceae
 vol: 10
 pages: 77-78
 source: sources/Lauraceae_vol10_paddle
+habit: "tree"
 tags: [species, generated]
 ---
 # *Ocotea gabonensis* R. Fouilloy.

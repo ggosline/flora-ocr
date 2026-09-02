@@ -30,7 +30,7 @@ Klaine : 3271 (type), environs de Libreville (P).
 
 ![Sarcophrynium brachystachys](../sources/Marantaceae_vol09_paddle/figures/fig_034_p0151.png)
 
-*PL. XXXI. — Sarcophrynium Schweinfurthianum (O. Ktze.) M.-Redh. (Letouzey 3273): 1, base de la feuille et inflorescence; 2, base de la plante; 3, pédicelles floraux et bractéoles (bractéoles de ± 1 mm de long); 4, graine (longueur 10-12 mm); 5, coupe transversale médiane de la graine. — Sarcophrynium brachystachys (Benth.) K. Schum. (Jacques-Félix 4917): 6, base de la feuille, face supérieure; 7, inflorescence; 8, couronne staminale, hauteur 7 mm env. (?), d'après un dessin original de Gagnepain; 9, graine de ± 14 mm de long; 10, coupe transversale médiane de la graine.*
+*PL. XXXI. — Sarcophrynium Schweinfurthianum (O. Ktze.) M.-Redh. (Letouzey 3273): 1, base of leaf and inflorescence; 2, base of plant; 3, floral pedicels and bracteoles (bracteoles ± 1 mm long); 4, seed (length 10-12 mm); 5, median transverse section of seed. — Sarcophrynium brachystachys (Benth.) K. Schum. (Jacques-Félix 4917): 6, base of leaf, upper surface; 7, inflorescence; 8, staminal crown, height 7 mm approx. (?), after an original drawing by Gagnepain; 9, seed ± 14 mm long; 10, median transverse section of seed.*
 
 ## Notes
 

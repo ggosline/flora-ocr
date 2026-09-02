@@ -7,6 +7,8 @@ family: Dichapetalaceae
 vol: 32
 pages: 91-94
 source: sources/Dichapetalaceae_vol32_paddle
+countries: [Angola, Cameroon, Gabon, Nigeria]
+in_region: true
 tags: [species, generated]
 ---
 # *Dichapetalum gabonense* Engler
@@ -87,7 +89,7 @@ Feuilles fraîches papyracées, domaties fréquentes à l'aiselle de certaines n
 
 ![Dichapetalum gabonense](../sources/Dichapetalaceae_vol32_paddle/figures/fig_023_p0092.png)
 
-*PL. 22. – Dichapetalum gabonense Engler : 1, rameau florifère × 0,8 ; 2, rameau, coupe transversale × 2,5 ; 3, jeune fleur × 5 ; 4, fleurs à pistil 2-mère × 7,5 ; 5, fleur (sépales et pétales en partie supprimés), staminodes et pistil × 7,5 ; 6, pétale, face externe × 7,5 ; 7, le même, face interne × 7,5 ; 8, fruit × 0,8 ; 9, exocarpe, indumentum, détail × 10 (1, Soyaux 268 ; 2, 3, 5-7, Bos & Breteler 3100 ; 4, Le Testu 9351 ; 8, 9, Bos 3181). – Repris de MLW 79 (16) : 5 (1979).*
+*PL. 22. – Dichapetalum gabonense Engler : 1, flowering branch × 0,8 ; 2, branch, transverse section × 2,5 ; 3, young flower × 5 ; 4, flowers with 2-merous pistil × 7,5 ; 5, flower (sepals and petals partly removed), staminodes and pistil × 7,5 ; 6, petal, external face × 7,5 ; 7, same, internal face × 7,5 ; 8, fruit × 0,8 ; 9, exocarp, indumentum, detail × 10 (1, Soyaux 268 ; 2, 3, 5-7, Bos & Breteler 3100 ; 4, Le Testu 9351 ; 8, 9, Bos 3181). – Reproduced from MLW 79 (16) : 5 (1979).*
 
 ## Notes
 

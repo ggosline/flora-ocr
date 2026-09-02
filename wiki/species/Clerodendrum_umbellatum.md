@@ -6,6 +6,13 @@ genus: Clerodendrum
 vol: 58
 pages: 45-45
 source: sources/Labiataeulmaceaeverbenaceae_vol58_liteparse
+countries: [Cameroon, Central African Republic, Democratic Republic of the Congo, Gabon, Guinea, Nigeria, Republic of the Congo]
+in_region: true
+subdivisions:
+  Gabon: [Haut-Ogooué, Moyen-Ogooué, Ngounié, Nyanga, Ogooué-Ivindo, Woleu-Ntem]
+habit: "liana"
+habitat: [swamp forest]
+altitude_m: "250–600"
 tags: [species, generated]
 ---
 # *Clerodendrum umbellatum* Poir. Planche 9 ; Figure 3(G)

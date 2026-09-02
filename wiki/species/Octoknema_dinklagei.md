@@ -4,13 +4,13 @@ name: Octoknema dinklagei
 authority: Engler
 genus: Octoknema
 family: Octoknemaceae
-habit: small tree
-countries: [Cameroon]
-in_region: true
 treatments:
   - vol: 20
     pages: "189–189"
     source: sources/Olacaceae_vol20_paddle
+countries: [Cameroon]
+in_region: true
+habit: "tree"
 tags: [species]
 ---
 

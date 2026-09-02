@@ -7,11 +7,10 @@ family: Zingiberaceae
 family_current: Costaceae
 infraspecific_rank: var
 parent_species: Costus lucanusianus
-countries: [Cameroon]
 range_note: "presence in Gabon considered probable by Koechlin"
-in_region: true
-habit: robust rhizomatous herb
 treatments: [{vol: 9, pages: "86", source: sources/Zingiberaceae_vol9_paddle}]
+countries: [Cameroon, Gabon]
+in_region: true
 tags: [species, uncertain]
 ---
 # *Costus lucanusianus* var. *major* K. Schum.

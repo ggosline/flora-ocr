@@ -7,6 +7,9 @@ family: Aspidiaceae
 vol: 08
 pages: 173-174
 source: sources/Aspidiaceae_vol08_paddle
+countries: [Equatorial Guinea, Nigeria]
+in_region: true
+habit: "herb"
 tags: [species, generated]
 ---
 # *Lastreopsis nigritiana* (Bak.) Tindale
@@ -49,7 +52,7 @@ Pobéguin : 64, de Nyanga à Dikoudou.
 
 ![Lastreopsis nigritiana](../sources/Aspidiaceae_vol08_paddle/figures/fig_029_p0175.png)
 
-*PL. XXVI. — Ctenitis protensa (Afz.) Ching (Pobéguin 66) : 1, aspect général × 2 / 3; 2, rachis et lobe, face inférieure × 3. — Lastreopsis nigritiana (Bak.) Tindale (N. Hallé 1733); 3, une penne × 2 / 3; 4, rachis et pinnule, face inférieure × 3. — Antrophyum Mannianum Hk. (Le Testu 1670); 5, aspect général × 5; 6, sores × 2.*
+*PL. XXVI. — Ctenitis protensa (Afz.) Ching (Pobéguin 66) : 1, general appearance × 2 / 3; 2, rachis and lobe, lower surface × 3. — Lastreopsis nigritiana (Bak.) Tindale (N. Hallé 1733); 3, a pinna × 2 / 3; 4, rachis and pinnule, lower surface × 3. — Antrophyum Mannianum Hk. (Le Testu 1670); 5, general appearance × 5; 6, sori × 2.*
 
 ## Notes
 

@@ -7,6 +7,7 @@ family: Annonaceae
 vol: 16
 pages: 0-0
 source: sources/Annonaceae_vol16_mineru
+habit: "liana"
 tags: [species, generated]
 ---
 # *Uvaria hispido-costata* Pierre ex Engler et Diels
@@ -17,15 +18,13 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Engler, Monogr. Afr. Pflanzenf. 6: 25 (1901). — Pellegrin, Bull. Soc. Bot. Fr., Mem. 31: 59 (1949).
 
-Engler,Monogr.Afr.Pflanzenf.6 : 25 (19o1).- Pellegrin,Bull. Soc.Bot. Fr., Mem.31:59 (1949).
+Liane. Leaves with petiole 7 mm long; blade elliptic-oblong, rounded at base, abruptly and shortly acuminate at apex, 13 cm long, 5.5 cm wide, glossy on upper surface, glabrous on lower surface except on the midvein which is hispid. Lateral veins 10–12 pairs, very prominent on lower surface, united in arches 2–3 mm from margin; network of veinlets lax, salient beneath.
 
-Liane.Feuilles ä pétiole long de 7 mm; limbe elliptiqueoblong,arrondi ä la base,brusquement et courtement acuminé au sommet, long de 13 cm,large de 5,5 cm, brillant á la face supérieure,glabre â la face inférieure,sauf sur la nervure médiane hispide. Nervures latérales Io-I2 paires, tres proéminentes á la face inférieure, réunies en arceaux a 2-3 mm de la marge; reseau de nervilles lache, saillant en dessous.
+Flowers unknown.
 
-Fleurs inconnues.
-
-Fruits ä pédicelle long de 1,5 cm;méricarpes ovoides-globuleux,longs de 2,3 cm, larges de 1,9 cm, finement verruculeux, tomentelleux fauves; stipe long de 2,2 cm.Graines 6-8 bisériees, oblongues,aplaties,longues de 6-9 mm,larges de 5-6 mm, ä testa brun, rugueux, fossulé;hile déprimé.
+Fruits with pedicel 1.5 cm long; mericarps ovoid-globose, 2.3 cm long, 1.9 cm wide, finely verruculate, fawn-coloured tomentellate; stipe 2.2 cm long. Seeds 6–8 biseriate, oblong, flattened, 6–9 mm long, 5–6 mm wide, with brown, rugose, fossulate testa; hilum depressed.
 
 ## Type
 
@@ -33,9 +32,7 @@ Autran s.n.,ex. herb.Pierre,Libreville, Gabon (P!)
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Espéce tres imparfaitement connue,décrite d'apres une seule feuille et un seul fruit,et non récoltée depuis. Par ses méricarpes et ses graines,U. hispido-costata est tres affine des variétés yalin-gensis et suaveolens d'U. muricata; la nervation et la pubescence de I'unique feuille examinée paraissent cependant tres différentes.
+Species very incompletely known, described from a single leaf and a single fruit, and not collected since. By its mericarps and seeds, U. hispido-costata is very closely related to the yalingensis and suaveolens varieties of U. muricata; the venation and pubescence of the unique leaf examined appear however very different.
 
 ## Notes
 

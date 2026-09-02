@@ -7,6 +7,11 @@ family: Pedaliaceae
 vol: 42
 pages: 64-65
 source: sources/Pedaliaceae_vol42_liteparse
+countries: [Democratic Republic of the Congo, Gabon]
+in_region: true
+habit: "herb"
+habitat: [savanna]
+altitude_m: "130–600"
 tags: [species, generated]
 ---
 # *Sesamum parviflorum* Seidenst.
@@ -16,23 +21,17 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+in Grabow-Seidenst., Mitt. Inst. Allg. Bot. Hamburg 22 : 232 (1988). Annual to perennial herb, 0.75 to 2.0 m tall; stem prostrate or erect, usually branched, often woody at the base. Leaves opposite, sessile or with a short petiole; blade with entire margins, narrowly lanceolate, 3.5–9.0 × 0.4–1.1 cm, obtuse at the base, acute or rounded at the apex. Flowers: upper bracts subulate; pedicel 4.0–6.0 mm, base with two minute extrafloral nectaries in the axil of two filiform bractlets up to 2 mm long; calyx lobes lanceolate, 3–5 mm long; corolla funnel-shaped, 1.8–3.0 cm long including the lower lobe of approximately 10 mm, pink. Fruit narrowly rectangular, 9–13.5 × 3.5–6.0 mm (without beak), with a beak 1.0–2.5 mm long and often curved, flattened in transverse section, bright green, sparsely pilose. Seeds ovoid, 1.5–2.0 × 1.0–1.5 mm, with a double-edged margin, brown or black; testa radially ribbed toward the margin and irregularly sculptured at the centre.
 
-in Grabow-Seidenst., Mitt. Inst. Allg. Bot. Hamburg 22 : 232 (1988). Herbe annuelle à vivace, 0,75 à 2,0 m de hauteur ; tige prostrée ou dressée, habituellement ramifiée, souvent ligneuse à la base. Feuilles opposées, sessiles ou à court pétiole ; limbe à bords entiers, étroitement lancéolé , 3,5–9,0 × 0,4–1,1 cm, obtus à la base, aigu ou arrondi au sommet. Fleurs : bractées supérieures subulées ; pédicelle 4,0–6,0 mm, base avec deux nectaires extrafloraux minuscules à l’aisselle de deux bractéoles filiformes et jusqu’à 2 mm de longueur ; lobes du calice lancéolés, 3–5 mm de longueur ; corolle en forme d’entonnoir, 1,8–3,0 cm de longueur y compris le lobe inférieur d’environ 10 mm, rose. Fruit étroitement rectangulaire, 9 – 13,5 × 3,5 – 6,0 mm (sans bec), à bec de 1,0– 2,5 mm de longueur et souvent courbé , aplati en coupe transversale, vert vif, éparsement poilu. Graines ovoïdes, 1,5–2,0 × 1,0–1,5 mm, avec joint à double tranchant , brun ou noir ; testa radialement côtelé vers la marge et irrégulièrement sculpté au milieu .
-
-<!-- caption: Planche 17. Sesamum radiatum : 1. Rameau florifère (× ⅔). – 2. Feuille basale (× ⅔). – 3. Tige, détail avec nectaires extrafloraux et bractées (× 4). – 4. Limbe, détail face inférieure avec glandes mucilagineuses (× 26). – 5. Poil articulé (× 26). – 6. Corolle ouverte avec étamines (× ⅔). – 7. Fleur, coupe longitudinale (× ⅔). – 8. Gynécée et trois lobes du calice (× 3). – 9. Étamine (× 2). – 10. -->
+<!-- caption: Plate 17. Sesamum radiatum: 1. Flowering branchlet (× ⅔). – 2. Basal leaf (× ⅔). – 3. Stem, detail with extrafloral nectaries and bracts (× 4). – 4. Blade, detail of lower surface with mucilaginous glands (× 26). – 5. Articulate hair (× 26). – 6. Open corolla with stamens (× ⅔). – 7. Flower, longitudinal section (× ⅔). – 8. Gynoecium and three calyx lobes (× 3). – 9. Stamen (× 2). – 10. -->
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Gabon et la République Démocratique du Congo ; au Gabon, connue des savanes de la Réserve de Wonga Wongé, la Réserve de la Lopé, la Réserve de la Moukalaba et des Plateaux Batéké
+Gabon and the Democratic Republic of the Congo; in Gabon, known from the savannas of the Wonga Wongé Reserve, the Lopé Reserve, the Moukalaba Reserve and the Batéké Plateaus
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-savane herbeuse, forêt sèche arbustive et galeries forestières ; à 130–600 m d’altitude
+herbaceous savanna, dry shrubby forest and forest galleries; at 130–600 m altitude
 
 ## Vernacular names
 

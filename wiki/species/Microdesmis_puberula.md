@@ -7,6 +7,8 @@ family: Pandaceae
 vol: 22
 pages: 25-28
 source: sources/Pandaceae_vol22_paddle
+countries: [Nigeria, Uganda]
+in_region: true
 tags: [species, generated]
 ---
 # *Microdesmis puberula* Hooker fil. ex Planchon
@@ -86,7 +88,7 @@ Walker s.n., Saint Martin (fr., déc.).
 
 ![Microdesmis puberula](../sources/Pandaceae_vol22_paddle/figures/fig_006_p0027.png)
 
-*PL. 6. — Microdesmis puberula Hook. f. ex Planch. : 1, feuilles et infl. × 2/3; 2, détail de la nervation; 3, pétale face int. × 10; 4, pistillode × 10; 5, pistil × 20; 6, drupe × 2; 7, 8, endocarpe × 3; 9, graine × 6. — Microdesmis haumaniana J. Léonard : 10, étamine × 20; 11, pistillode × 18; 12, pistil × 24; 13, drupe × 3; 14, 15, endocarpe × 3,5 (1-2, Hallé N. 1312; 3-4, Klaine 50; 5-9, Annet 310; 10-11, Jacques-Félix 2276; 12-15, Chevalier 26124).*
+*PL. 6. — Microdesmis puberula Hook. f. ex Planch. : 1, leaves and infl. × 2/3; 2, detail of venation; 3, petal internal surface × 10; 4, pistillode × 10; 5, pistil × 20; 6, drupe × 2; 7, 8, endocarp × 3; 9, seed × 6. — Microdesmis haumaniana J. Léonard : 10, stamen × 20; 11, pistillode × 18; 12, pistil × 24; 13, drupe × 3; 14, 15, endocarp × 3.5 (1-2, Hallé N. 1312; 3-4, Klaine 50; 5-9, Annet 310; 10-11, Jacques-Félix 2276; 12-15, Chevalier 26124).*
 
 ## Notes
 

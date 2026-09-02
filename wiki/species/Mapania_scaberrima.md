@@ -7,6 +7,11 @@ family: Cyperaceae
 vol: 44
 pages: 181-183
 source: sources/Cyperaceae_vol44_liteparse
+countries: [Cameroon, Gabon]
+in_region: true
+subdivisions:
+  Gabon: [Estuaire, Moyen-Ogooué, Ngounié, Nyanga, Ogooué-Ivindo, Ogooué-Maritime, Woleu-Ntem]
+altitude_m: "0–600"
 tags: [species, generated]
 ---
 # *Mapania scaberrima* (Boeckeler) C.B.Clarke Planche 113(5-8), Figure 20a

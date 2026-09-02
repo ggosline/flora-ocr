@@ -5,16 +5,13 @@ authority: (Engl.) van Tiegh.
 genus: Desbordesia
 family: Irvingiaceae
 synonyms: []
-countries: [Cameroon, Gabon, Republic of the Congo]
 range_note: "Cameroon to Mayombe"
-in_region: true
-habit: tree
-habitat: [humid forest]
 treatments:
   - vol: 3
     year: 1962
     pages: "31–34"
     source: sources/Irvingiaceae_vol3_paddle
+habit: "tree"
 tags: [species]
 ---
 

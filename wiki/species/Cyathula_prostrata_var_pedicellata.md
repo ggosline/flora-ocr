@@ -7,11 +7,10 @@ parent_species: Cyathula prostrata
 genus: Cyathula
 family: Amaranthaceae
 synonyms: [Cyathula pedicellata]
-countries: [Sierra Leone, Gabon, Democratic Republic of the Congo, Uganda, Tanzania]
-in_region: true
-habit: creeping herb
-habitat: [forest]
 treatments: [{vol: 7, pages: "37", source: sources/Amaranthaceae_vol7_paddle}]
+countries: [Democratic Republic of the Congo, Gabon, Sierra Leone, Tanzania, Uganda]
+in_region: true
+habit: "herb"
 tags: [species]
 ---
 

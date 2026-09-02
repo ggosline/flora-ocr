@@ -6,6 +6,12 @@ genus: Achyrospermum
 vol: 58
 pages: 14-15
 source: sources/Labiataeulmaceaeverbenaceae_vol58_liteparse
+countries: [Angola, Cameroon, Equatorial Guinea, Gabon, Guinea, Nigeria, Republic of the Congo, Sao Tome and Principe]
+in_region: true
+subdivisions:
+  Gabon: [Estuaire, Moyen-Ogooué, Ngounié, Ogooué-Ivindo, Ogooué-Maritime]
+habit: "herb"
+altitude_m: "150–900"
 tags: [species, generated]
 ---
 # *Achyrospermum oblongifolium* Baker Figure 1(A)

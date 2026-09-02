@@ -5,20 +5,17 @@ authority: A.Benn.
 genus: Potamogeton
 family: Potamogetonaceae
 synonyms: [Potamogeton bunyonyiensis Denny & Lye]
-countries: [Nigeria, Cameroon, Gabon, Chad, Democratic Republic of the Congo, Rwanda, Burundi]
-subdivisions:
-  Gabon: [Ngounié]
 range_note: Azores and southern Europe through North and tropical Africa to South Africa and Madagascar.
-countries_incomplete: true
-in_region: true
-habit: rhizomatous aquatic herb
-habitat: [flowing fresh water, standing fresh water]
-altitude_m: "165 in Gabon; 0–4250 elsewhere"
 treatments:
   - vol: 52
     year: 2018
     pages: "46–47"
     source: sources/Potamogetonaceae_vol52_liteparse
+countries: [Cameroon, Democratic Republic of the Congo, Gabon, Madagascar, Nigeria]
+in_region: true
+subdivisions:
+  Gabon: [Ngounié, Nyanga]
+habit: "herb"
 tags: [species]
 ---
 

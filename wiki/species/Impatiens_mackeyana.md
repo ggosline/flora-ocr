@@ -5,11 +5,10 @@ authority: Hook. f.
 genus: Impatiens
 family: Balsaminaceae
 synonyms: []
+treatments: [{vol: 4, pages: "25–26", source: sources/Balsaminaceae_vol4_paddle}]
 countries: [Gabon]
 in_region: true
-habit: herb
-habitat: [Monts de Cristal wet forest]
-treatments: [{vol: 4, pages: "25–26", source: sources/Balsaminaceae_vol4_paddle}]
+habit: "herb"
 tags: [species]
 ---
 

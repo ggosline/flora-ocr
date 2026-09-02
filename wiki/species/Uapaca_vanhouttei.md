@@ -7,6 +7,13 @@ family: Phyllanthaceae
 vol: 43
 pages: 106-115
 source: sources/Phyllanthaceae_vol43_liteparse
+countries: [Cameroon, Central African Republic, Democratic Republic of the Congo, Gabon, Nigeria]
+in_region: true
+subdivisions:
+  Gabon: [Ogooué-Maritime]
+habit: "tree"
+habitat: [swamp forest, riverine]
+altitude_m: "0–650"
 tags: [species, generated]
 ---
 # *Uapaca vanhouttei* De Wild. Planche 36(B–E)
@@ -17,23 +24,17 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Arbre jusqu’à 30 m de hauteur ; tronc jusqu’à 50 cm de diamètre, à racines-échasses jusqu’à 5 m de hauteur ; ramilles hispiduleuses ou à poils ± apprimés. Stipules étroi tement triangulaires à linéaires, (4–)5–11 × 0,5–1(–2) mm, ± hispiduleuses . Feuille : pétiole cylindrique, 1–4(–7) cm, hispiduleux ou à poils ± apprimés ; limbe elliptique à obovale-elliptique, (6–)13–20(–25) × (2,5–)4–10 cm, arrondi à légèrement acuminé à la base, en général arrondi à obtus ou parfois courtement ( ≤ 0,5 cm) acuminé ou aigu, rarement rétus au sommet, ± coriace, glabre ou avec quelques poils épars sur la mé diane dessus, hispiduleux ou à poils ± apprimés dessous ; nervures latérales (7–)8–12 paires, ± obscures dessous, proéminentes dessous. Inflorescence : pédoncule 5–28 mm, à quelques petites bractées, un peu hispiduleux ou glabre, le femelle un peu plus court que le mâle ; bractées involucrales 7–9, elliptiques à obovales, de 6–10 × 4–6 mm, glabres. Fleur mâle : calice gamosépale ou à sépales presque libres, 1–1,5 mm de longueur, pu bescent à l’extérieur ; quelques pétales filiformes de ≤ 1 mm de longueur ; étamines 4–6, ± 2,5 mm de longueur, glabres, anthères ± 0,5 mm de longueur ; pistillode cyathiforme, égalant ± calice, pileux. Fleur femelle : calice gamosépale, ± 1 mm de hauteur, à marge ondulée, hispiduleux ; ovaire ovoïde à ellipsoïde, 3–5 mm de longueur, glabre ; stigmates glabres. Fruit à pédoncule de 10–22 mm, subglobuleux, 20–31 × 18–28 mm, jaunâtre, glabre, lisse .
+Tree up to 30 m tall; trunk up to 50 cm in diameter, with stilt roots up to 5 m tall; branchlets hispidulous or with ± appressed hairs. Stipules narrowly triangular to linear, (4–)5–11 × 0.5–1(–2) mm, ± hispidulous. Leaf: petiole cylindric, 1–4(–7) cm, hispidulous or with ± appressed hairs; blade elliptic to obovate-elliptic, (6–)13–20(–25) × (2.5–)4–10 cm, rounded to slightly acuminate at base, generally rounded to obtuse or sometimes shortly (≤ 0.5 cm) acuminate or acute, rarely retuse at apex, ± coriaceous, glabrous or with a few scattered hairs on the midvein above, hispidulous or with ± appressed hairs below; lateral nerves (7–)8–12 pairs, ± obscure below, prominent below. Inflorescence: peduncle 5–28 mm, with a few small bracts, somewhat hispidulous or glabrous, the female one somewhat shorter than the male; involucral bracts 7–9, elliptic to obovate, 6–10 × 4–6 mm, glabrous. Male flower: calyx gamosepalous or with nearly free sepals, 1–1.5 mm long, pubescent on the outside; a few filiform petals ≤ 1 mm long; stamens 4–6, ± 2.5 mm long, glabrous, anthers ± 0.5 mm long; pistillode cyathiform, ± equalling the calyx, pilose. Female flower: calyx gamosepalous, ± 1 mm tall, with undulate margin, hispidulous; ovary ovoid to ellipsoid, 3–5 mm long, glabrous; stigmas glabrous. Fruit with peduncle 10–22 mm, subglobose, 20–31 × 18–28 mm, yellowish, glabrous, smooth.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Nigeria, Cameroun, République Centrafricaine, Gabon et République Dé mocratique du Congo ; au Gabon, bien répandue, mais n’a pas encore été récoltée dans l’Ogooué-Maritime
+Nigeria, Cameroon, Central African Republic, Gabon and Democratic Republic of the Congo; in Gabon, widely distributed, but not yet collected in Ogooué-Maritime.
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Riparian forest, swamp forest; in Gabon, at 0–650 m altitude. Uses: as for U. guineensis
 
-forêt ripicole, forêt marécageuse ; au Gabon, à 0–650 m d’altitude. Usage : comme pour U. guineensis
-
-D : Bissiengou et al . 421 ; E : van Valkenburg et al . 2700 ). Dessin par H. de Vries, NCB Naturalis (section NHN) ©.
+D: Bissiengou et al. 421; E: van Valkenburg et al. 2700). Drawing by H. de Vries, NCB Naturalis (section NHN) ©.
 
 ## Vernacular names
 

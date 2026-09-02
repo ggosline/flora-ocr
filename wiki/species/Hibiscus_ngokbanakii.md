@@ -7,6 +7,13 @@ family: Malvaceae
 vol: 45
 pages: 69-70
 source: sources/Malvaceae_vol45_liteparse
+countries: [Gabon]
+in_region: true
+subdivisions:
+  Gabon: [Woleu-Ntem]
+habit: "herb"
+habitat: [rocky ground]
+altitude_m: "758"
 tags: [species, generated]
 ---
 # *Hibiscus ngokbanakii* Burg, sp. nov. Planche 18

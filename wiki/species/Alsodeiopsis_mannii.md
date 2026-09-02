@@ -7,6 +7,9 @@ family: Icacinaceae
 vol: 20
 pages: 25-26
 source: sources/Icacinaceae_vol20_paddle
+countries: [Cameroon, Gabon]
+in_region: true
+habit: "shrub"
 tags: [species, generated]
 ---
 # *Alsodeiopsis mannii* Oliver
@@ -43,7 +46,7 @@ Chevalier 26958, Agonenzorck, sur le Haut Komo (fl., oct.). Farron 7595, Makokou
 
 ![Alsodeiopsis mannii](../sources/Icacinaceae_vol20_paddle/figures/fig_006_p0027.png)
 
-*PL. 6. — Alsodeiopsis mannii Oliv. : 1, feuilles, inflorescences et infrutescence × 2/3; 2, bouton floral × 5,8; 3, pétale × 7; 4, 4', étamine × 13; 5, fruit × 2,3. — A. staudtii Engl. : 6, feuilles et inflorescence × 0,6; 7, détail de la face inf. du limbe; 8, bouton floral × 3,8; 9, 9', pétale × 6,25; 10, étamine × 1,6. (1, Thollon 88 et Raynal A. & J. 10431; 2-4, Raynal A. & J. 10431; 5, Thollon 88; 6-10, Leeuwenberg 2574).*
+*PL. 6. — Alsodeiopsis mannii Oliv. : 1, leaves, inflorescences and infructescence × 2/3; 2, floral bud × 5.8; 3, petal × 7; 4, 4', stamen × 13; 5, fruit × 2.3. — A. staudtii Engl. : 6, leaves and inflorescence × 0.6; 7, detail of lower surface of blade; 8, floral bud × 3.8; 9, 9', petal × 6.25; 10, stamen × 1.6. (1, Thollon 88 and Raynal A. & J. 10431; 2-4, Raynal A. & J. 10431; 5, Thollon 88; 6-10, Leeuwenberg 2574).*
 
 ## Notes
 

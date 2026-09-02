@@ -7,6 +7,13 @@ family: Cyperaceae
 vol: 44
 pages: 68-69
 source: sources/Cyperaceae_vol44_liteparse
+countries: [Gabon]
+in_region: true
+subdivisions:
+  Gabon: [Haut-Ogooué, Moyen-Ogooué, Ngounié, Ogooué-Ivindo, Ogooué-Maritime]
+habit: "herb"
+habitat: [rocky ground]
+altitude_m: "0–500"
 tags: [species, generated]
 ---
 # *Cyperus niveus* Retz. var. leucocephalus (Kunth) Fosb. Planche 40

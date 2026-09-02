@@ -7,6 +7,10 @@ family: Convolvulaceae
 vol: 46
 pages: 25-25
 source: sources/Convolvulaceae_vol46_liteparse
+countries: [Gabon]
+in_region: true
+subdivisions:
+  Gabon: [Estuaire]
 tags: [species, generated]
 ---
 # *Calycobolus heineanus* Lejoly & Lisowski

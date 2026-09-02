@@ -7,6 +7,10 @@ family: Melastomataceae
 vol: 25
 pages: 32-33
 source: sources/Melastomataceae_vol25_paddle
+countries: [Gabon, Sierra Leone]
+in_region: true
+habit: "herb"
+habitat: [rocky ground]
 tags: [species, generated]
 ---
 # *Heterotis rupicola* (Gilg ex Engler) Jacques-Félix
@@ -45,7 +49,7 @@ Le Testu 5292, clairière latéritique de Mangoundou (avr.).
 
 ![Heterotis rupicola](../sources/Melastomataceae_vol25_paddle/figures/fig_009_p0031.png)
 
-*PL. 9. — Heterotis rupicola (Gilg ex Engl.) Jacq.-Fél. : 1, aspect général × 2/3; 2, feuille × 2; 3, étamines, externe et interne × 6; 4, graine × 20 (Villiers J.-F. 976).*
+*PL. 9. — Heterotis rupicola (Gilg ex Engl.) Jacq.-Fél. : 1, general appearance × 2/3; 2, leaf × 2; 3, stamens, external and internal × 6; 4, seed × 20 (Villiers J.-F. 976).*
 
 ## Notes
 

@@ -7,6 +7,12 @@ family: Leguminosae
 vol: 49
 pages: 373-373
 source: sources/Millettiaspeciesfabaceae_vol49_liteparse
+countries: [Angola, Gabon, Guinea, Mozambique, Uganda]
+in_region: true
+subdivisions:
+  Gabon: [Haut-Ogooué]
+habit: "herb"
+altitude_m: "0–500"
 tags: [species, generated]
 ---
 # *Vigna comosa* Baker subsp. comosa

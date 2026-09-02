@@ -7,6 +7,9 @@ family: Connaraceae
 vol: 33
 pages: 117-123
 source: sources/Connaraceae_vol33_paddle
+countries: [Angola, Ghana, Niger, Nigeria, Tanzania]
+in_region: true
+habit: "shrub"
 tags: [species, generated]
 ---
 # *Rourea coccinea* (Thonning ex Schumacher) Bentham
@@ -135,11 +138,11 @@ in R. coccinea, leaf variation ranges from leaves with 21 small leaflets with em
 
 ![Rourea coccinea](../sources/Connaraceae_vol33_paddle/figures/fig_041_p0118.png)
 
-*PL. 35. – Rourea coccinea (Thonn. ex Schum.) Benth. subsp. coccinea var. coccinea : 1, jeune rameau florifère × 2/3 ; 2, 3, jeunes rameaux fructifères × 2/3 ; 4, graine montrant un testa presque entièrement charnu × 4. (1. Latilo FHI 47131 ; 2, 4. Hiepko & al. 286 ; 3. W. de Wilde 336). – Repris de AUWP 89 (6).*
+*PL. 35. – Rourea coccinea (Thonn. ex Schum.) Benth. subsp. coccinea var. coccinea : 1, young flowering branch × 2/3 ; 2, 3, young fruiting branches × 2/3 ; 4, seed showing a testa almost entirely fleshy × 4. (1. Latilo FHI 47131 ; 2, 4. Hiepko & al. 286 ; 3. W. de Wilde 336). – Reprinted from AUWP 89 (6).*
 
 ![Rourea coccinea](../sources/Connaraceae_vol33_paddle/figures/fig_042_p0120.png)
 
-*PL. 36. – Rourea coccinea (Thonn. ex Schum.) Benth. subsp. coccinea var. viridis (Gilg) Jongkind : 1, jeune rameau florifère × 2/3 ; acumen d'une foliole : 2, dessus, 3, dessous × 8 ; 4, pétales (connivents près de la base) × 12 ; 5, fleur, après retrait des pétales × 8 ; 6, étamines et carpelles × 8 ; 7, infrutescence × 2/3 ; 8, follicule, déhiscence suivant une suture ventrale × 2/3 ; 9, graine avec testa entièrement charnu, en partie endommagé (partie basale retirée accidentellement) × 1 ; 10, graine, un cotylédon en partie enlevé, radicule dorsale × 1 ; 11, coupe transversale de graine montrant le testa charnu × 1. (1-6. Breteler & de Wilde 691 ; 7. Bos 3291 ; 8. Breteler 2935 ; 9-11. Louis 1218). – Repris de AUWP 89 (6).*
+*PL. 36. – Rourea coccinea (Thonn. ex Schum.) Benth. subsp. coccinea var. viridis (Gilg) Jongkind : 1, young flowering branch × 2/3 ; acumen of a leaflet : 2, upper surface, 3, lower surface × 8 ; 4, petals (conniving near the base) × 12 ; 5, flower, after removal of petals × 8 ; 6, stamens and carpels × 8 ; 7, infructescence × 2/3 ; 8, follicle, dehiscence along a ventral suture × 2/3 ; 9, seed with entirely fleshy testa, partly damaged (basal portion accidentally removed) × 1 ; 10, seed, one cotyledon partly removed, dorsal radicle × 1 ; 11, transverse section of seed showing fleshy testa × 1. (1-6. Breteler & de Wilde 691 ; 7. Bos 3291 ; 8. Breteler 2935 ; 9-11. Louis 1218). – Reproduced from AUWP 89 (6).*
 
 ## Notes
 

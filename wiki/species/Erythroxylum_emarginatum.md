@@ -7,6 +7,8 @@ family: Erythroxylaceae
 vol: 21
 pages: 52-54
 source: sources/Erythroxylaceae_vol21_paddle
+countries: [Guinea, Kenya, Tanzania]
+in_region: false
 tags: [species, generated]
 ---
 # *Erythroxylum emarginatum* Thonning
@@ -54,7 +56,7 @@ Le Testu 1688, Tchibanga, Mayombe Bayaka (bout., fév.); 1809, Mayumba (fl., fr.
 
 ![Erythroxylum emarginatum](../sources/Erythroxylaceae_vol21_paddle/figures/fig_012_p0053.png)
 
-*PL. 12. — Erythroxylum emarginatum Thonn. : 1, rameau florifère × 1 (Le Testu 1809); 2, base du pétiole × 2; 3, fleur × 4; 4, pétale face interne × 6; 5, centre de la fleur × 8; 6, gynécée longistyle × 6 (3-6, Letouzey 4343); 7, gynécée brévistyle × 6 (Le Testu 1809); 8, rameau fructifère × 1 (Boivin s.n.); 9, coupe transversale d'un jeune fruit × 16 (Le Testu 1809). — E. mannii Oliv. : 10, rameau florifère × 1 (Le Testu 7820); 11, fleur × 4; 12 pétale face interne × 6; 13, centre de la fleur × 8; 14, gynécée × 6 (11-14, Letouzey 5131); 15, rameau fructifère × 1 (Zenker 3934); 16, coupe transversale d'un jeune fruit × 16 (Letouzey 5131).*
+*PL. 12. — Erythroxylum emarginatum Thonn.: 1, flowering branch × 1 (Le Testu 1809); 2, base of petiole × 2; 3, flower × 4; 4, petal internal face × 6; 5, center of flower × 8; 6, longistyle gynoecium × 6 (3-6, Letouzey 4343); 7, brevistyle gynoecium × 6 (Le Testu 1809); 8, fruiting branch × 1 (Boivin s.n.); 9, transverse section of a young fruit × 16 (Le Testu 1809). — E. mannii Oliv.: 10, flowering branch × 1 (Le Testu 7820); 11, flower × 4; 12 petal internal face × 6; 13, center of flower × 8; 14, gynoecium × 6 (11-14, Letouzey 5131); 15, fruiting branch × 1 (Zenker 3934); 16, transverse section of a young fruit × 16 (Letouzey 5131).*
 
 ## Notes
 

@@ -7,6 +7,9 @@ family: Orchidaceae
 vol: 36
 pages: 197-199
 source: sources/Orchidaceae_vol36_paddle
+countries: [Cameroon, Cote d'Ivoire, Gabon, Liberia, Nigeria]
+in_region: true
+altitude_m: "30"
 tags: [species, generated]
 ---
 # *Bulbophyllum ivorense* Cribb & Perez-Vera
@@ -41,7 +44,7 @@ de Wilde, Arends & de Bruijn 9094, km 53 of the forestry track from Doussala to 
 
 ![Bulbophyllum ivorense](../sources/Orchidaceae_vol36_paddle/figures/fig_103_p0200.png)
 
-*PL. 98. – Bulbophyllum ivorense Cribb & Perez-Vera: A, vue générale ; B, fleur ; C, pièces florales ; D, labelle ; E, labelle et gynostème en position naturelle, vue latérale ; F, anthère ; G, pollinies (A-G, ex VERMEULEN, 1987).*
+*PL. 98. – Bulbophyllum ivorense Cribb & Perez-Vera: A, general view ; B, flower ; C, floral parts ; D, labellum ; E, labellum and gynostemium in natural position, lateral view ; F, anther ; G, pollinia (A-G, ex VERMEULEN, 1987).*
 
 ## Notes
 

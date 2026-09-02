@@ -7,6 +7,10 @@ family: Celastraceae
 vol: 29
 pages: 202-207
 source: sources/Celastraceae_vol29_paddle
+countries: [Angola, Cameroon, Central African Republic, Cote d'Ivoire, Democratic Republic of the Congo, Gabon, Liberia, Senegal, Uganda]
+in_region: true
+habit: "liana"
+habitat: [coastal]
 tags: [species, generated]
 ---
 # *Pristimera paniculata* (Vahl) Hallé

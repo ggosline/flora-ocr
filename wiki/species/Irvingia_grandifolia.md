@@ -5,16 +5,12 @@ authority: (Engl.) Engl.
 genus: Irvingia
 family: Irvingiaceae
 synonyms: [Klainedoxa grandifolia Engl., Irvingella grandifolia (Engl.) Hallier]
-countries: [Cameroon, Gabon, Republic of the Congo, Democratic Republic of the Congo]
-countries_incomplete: true
-in_region: true
-habit: large tree
-habitat: [low wet forest, riverbanks]
 treatments:
   - vol: 3
     year: 1962
     pages: "28–30"
     source: sources/Irvingiaceae_vol3_paddle
+habit: "tree"
 tags: [species]
 ---
 

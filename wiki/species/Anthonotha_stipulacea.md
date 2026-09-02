@@ -7,6 +7,8 @@ family: Leguminosae
 vol: 15
 pages: 202-203
 source: sources/Leguminosae_vol15_paddle
+habit: "shrub"
+habitat: [riverine]
 tags: [species, generated]
 ---
 # *Anthonotha stipulacea* (Benth.) Léonard
@@ -52,7 +54,7 @@ N. Hallé : 778, La Bokoué (fl. juil.).
 
 ![Anthonotha stipulacea](../sources/Leguminosae_vol15_paddle/figures/fig_047_p0200.png)
 
-*PL. XLVII. — Anthonotha stipulacea (Benth.) Léonard : 1, folioles × 2/3; 2, stipule × 2/3; 3, inflorescence × 2/3; 4; fleur × 2; 5, pétales et étamines × 2.*
+*PL. XLVII. — Anthonotha stipulacea (Benth.) Léonard : 1, leaflets × 2/3; 2, stipule × 2/3; 3, inflorescence × 2/3; 4, flower × 2; 5, petals and stamens × 2.*
 
 ## Notes
 

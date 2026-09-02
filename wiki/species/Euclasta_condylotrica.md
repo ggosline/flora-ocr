@@ -7,6 +7,7 @@ family: Gramineae
 vol: 05
 pages: 154-157
 source: sources/Gramineae_vol05_paddle
+habit: "herb"
 tags: [species, generated]
 ---
 # *Euclasta condylotrica* (Hochst.) Stapf.
@@ -43,7 +44,7 @@ L'espèce doit exister également dans les régions de Tchibanga et Ndené.
 
 ![Euclasta condylotrica](../sources/Gramineae_vol05_paddle/figures/fig_026_p0155.png)
 
-*PL. XXV. — Diheteropogon grandiflorus (Hack.) Stapf (Barter 1343) : 1, une paire de racèmes; 2, épillet pédicellé et son pédicelle (longueur de l'épillet : 17 mm); 3, épillet sessile vu par la face ventrale (longueur de l'épillet avec le callus : 12 mm). — Euclasta condylotrica (Hochst.) Stapf (Tisserant 2967) : 4, port de la plante, avec racines adventices; 5, inflorescence; 6, détail d'un racème (épillets pédicellés de 5 mm de long).*
+*PL. XXV. — Diheteropogon grandiflorus (Hack.) Stapf (Barter 1343) : 1, a pair of racemes; 2, pedicellate spikelet and its pedicel (length of the spikelet : 17 mm); 3, sessile spikelet seen by the ventral surface (length of the spikelet with the callus : 12 mm). — Euclasta condylotrica (Hochst.) Stapf (Tisserant 2967) : 4, habit of the plant, with adventitious roots; 5, inflorescence; 6, detail of a raceme (pedicellate spikelets of 5 mm long).*
 
 ## Notes
 

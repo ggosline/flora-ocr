@@ -7,6 +7,9 @@ family: Scytopetalaceae
 vol: 24
 pages: 32-38
 source: sources/Chrysobalanaceae_vol24_paddle
+countries: [Angola, Cameroon, Democratic Republic of the Congo, Gabon]
+in_region: true
+habitat: [coastal]
 tags: [species, generated]
 ---
 # *Acioa floribunda* (Welwitsch) Exell
@@ -103,11 +106,11 @@ Fruits en général très peu nombreux par infrutescence, ailleurs fleurs caduqu
 
 ![Acioa floribunda](../sources/Chrysobalanaceae_vol24_paddle/figures/fig_008_p0033.png)
 
-*PL. 8. — Acioa floribunda (Welw.) Exell : 1, rameau avec fleurs × 2/3; 2, feuille dessous × 2/3; 3, stipules × 2; 4, portion d'axe infl. × 4; 5, bractéoles × 4; 6, bouton floral × 2; 7, fleur (pét. excl.) × 3/2. (Le Testu 9130).*
+*PL. 8. — Acioa floribunda (Welw.) Exell : 1, branch with flowers × 2/3; 2, leaf underside × 2/3; 3, stipules × 2; 4, portion of infl. axis × 4; 5, bracteoles × 4; 6, floral bud × 2; 7, flower (pet. excl.) × 3/2. (Le Testu 9130).*
 
 ![Acioa floribunda](../sources/Chrysobalanaceae_vol24_paddle/figures/fig_009_p0037.png)
 
-*PL. 9. — Acioa ícondere Baill. : 1, feuille × 2/3; 2, stipule × 2; 3, rameau avec fleurs × 2/3; 4, bractée × 4; 5, bractéoles × 4; 6, fleur (pét. excl.) × 3/2. (1, 3, Hédin s.n.; 2, 4-6, Letouzey 9267).*
+*PL. 9. — Acioa ícondere Baill. : 1, leaf × 2/3; 2, stipule × 2; 3, branch with flowers × 2/3; 4, bract × 4; 5, bracteoles × 4; 6, flower (pet. excl.) × 3/2. (1, 3, Hédin s.n.; 2, 4-6, Letouzey 9267).*
 
 ## Notes
 

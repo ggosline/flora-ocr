@@ -7,6 +7,12 @@ family: Cyperaceae
 vol: 44
 pages: 217-218
 source: sources/Cyperaceae_vol44_liteparse
+countries: [Gabon, Madagascar]
+in_region: true
+subdivisions:
+  Gabon: [Nyanga, Ogooué-Maritime]
+habit: "herb"
+altitude_m: "100–200"
 tags: [species, generated]
 ---
 # *Scleria lagoensis* Boeckeler Planche 134, Figure 27a
@@ -17,21 +23,15 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-S. lagoensis Boeckeler subsp. canaliculato-triquetra (Boeckeler) Lye, Nordic J. Bot. 3 : 243 (1983). Herbe vivace , de taille moyenne avec les tiges renflées à la base et formant une souche noueuse informe ; racines devenant habituellement cylindriques tubéreuses , à 3–10 cm de la base des tiges ; tige 50–120 cm × 2–3 mm (5 mm à la base), triangulaire, à angles scabres. Feuille : gaine glabre ou pubescente, à ailes habituellement scabres, les inférieures violacées et sans limbe, collet à rebord arrondi épaissi ; les plus grands limbes 20–50 cm × 7–10 mm , plans, habituellement scabres sur la marge et les nervures, autrement glabres (ou rarement pubescents vers la base). Inflorescence formée d’une panicule terminale et de 3–6 latérales de 3–8 × 1,5–3 cm, très espacées le long de la tige ; pédoncules de 6 cm au plus, glabres ou scabres sur les angles, habituellement dressés et par 1–2 à chaque gaine. Épillet mâle long de 5–6 mm , à glumes jaune paille. Épillet femelle long de 6–7 mm, à glumes jaune paille souvent ponctuées de brun rougeâtre et une nervure centrale verdâtre. Akène ovoïde à cylindrique–ovoïde, 2,7–3,5 × 2–2,4 mm, blanchâtre, lisse ou faiblement lacunaire, poilu à la base (rarement au-dessus) ; hypogynium brun jaunâtre avec 3 lobes aigus très rudimentaires .
+S. lagoensis Boeckeler subsp. canaliculato-triquetra (Boeckeler) Lye, Nordic J. Bot. 3 : 243 (1983). Perennial herb, medium-sized with stems swollen at the base and forming an irregular knotty rhizome; roots usually becoming cylindrical tuberose, 3–10 cm from the base of the stems; stem 50–120 cm × 2–3 mm (5 mm at the base), triangular, with scabrous angles. Leaf: sheath glabrous or pubescent, with wings usually scabrous, the lower ones violaceous and without lamina, collar with thickened rounded margin; the largest laminae 20–50 cm × 7–10 mm, flat, usually scabrous on the margin and veins, otherwise glabrous (or rarely pubescent towards the base). Inflorescence formed of a terminal panicle and 3–6 lateral ones 3–8 × 1.5–3 cm, very spaced along the stem; peduncles at most 6 cm, glabrous or scabrous on the angles, usually erect and 1–2 at each sheath. Male spikelet 5–6 mm long, with straw-yellow glumes. Female spikelet 6–7 mm long, with straw-yellow glumes often spotted reddish-brown and a greenish central nerve. Achene ovoid to cylindric-ovoid, 2.7–3.5 × 2–2.4 mm, whitish, smooth or weakly lacunose, hairy at the base (rarely above); hypogynium brownish-yellow with 3 very rudimentary acute lobes.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-largement répandue en Afrique tropicale, en Afrique du Sud, à Madagascar et en Amérique du Sud ; rare au Gabon, trouvée seulement dans la Nyanga et l’OgoouéMaritime (2 récoltes)
+widely distributed in tropical Africa, South Africa, Madagascar and South America; rare in Gabon, found only in the Nyanga and Ogooué-Maritime (2 collections)
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-dépressions humides des prairies et forêts, souvent près des ruisseaux ; au Gabon, à 100–200 m d’altitude, à 0–1160 m en Afrique de l’Est. Note taxonomique : se reconnaît par ses akènes ovoïdes presque lisses et son hypogynium très rudimentaire. b : Haines & Lye (1983), Hoenselaar et al. (2010), Hooper & Napper (1972), ibliographie Lye (1997), Piérart (1953), Robinson (1966)
+moist depressions of grasslands and forests, often near streams; in Gabon, at 100–200 m altitude, at 0–1160 m in East Africa. Taxonomic note: recognized by its almost smooth ovoid achenes and its very rudimentary hypogynium. Bibliography: Haines & Lye (1983), Hoenselaar et al. (2010), Hooper & Napper (1972), Lye (1997), Piérart (1953), Robinson (1966)
 
 ## Notes
 

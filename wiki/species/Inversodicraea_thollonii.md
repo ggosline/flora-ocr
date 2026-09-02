@@ -7,6 +7,11 @@ family: Podostemaceae
 vol: 51
 pages: 35-36
 source: sources/Podostemaceae_vol51_liteparse
+countries: [Gabon]
+in_region: true
+subdivisions:
+  Gabon: [Ogooué-Ivindo]
+altitude_m: "150"
 tags: [species, generated]
 ---
 # *Inversodicraea thollonii* (Baill.) Cheek Planche 13(5–9)

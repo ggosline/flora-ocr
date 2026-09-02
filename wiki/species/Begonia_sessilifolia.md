@@ -7,6 +7,10 @@ family: Begoniaceae
 vol: 39
 pages: 20-23
 source: sources/Begoniaceae_vol39_liteparse
+countries: [Cameroon, Equatorial Guinea, Gabon]
+in_region: true
+habit: "herb"
+altitude_m: "750"
 tags: [species, generated]
 ---
 # *Begonia sessilifolia* Hook.f.

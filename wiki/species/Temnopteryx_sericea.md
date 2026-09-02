@@ -7,6 +7,8 @@ family: Rubiaceae
 vol: 12
 pages: 156-159
 source: sources/Rubiaceae_vol12_paddle
+countries: [Gabon]
+in_region: true
 tags: [species, generated]
 ---
 # *Temnopteryx sericea* Hook. f.
@@ -17,15 +19,11 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Undershrub 0.50 to 2.50 m tall, with a single stem or ± branched. Wood soft and brittle becoming hard when dry at a diameter of 2.5 cm. Old plants with whitish rhytidome adorned with equidistant circular scars of stipular origin. Shoot tips hairy; young internodes short. Stipules remarkable, laciniate, erect, pubescent. Petiole 2–6 cm, ± hairy, canaliculate, brittle. Blade discolorous, glabrous and varnished above, with ± abundant silky silvery pubescence below, 15–35 × 3.5–10 cm, very elongate elliptic; base very long-attenuate acute; apex with an attenuate acute acumen 1.5–4 cm long. Midrib ± pubescent above; secondary veins 14–21 pairs narrowly arcuate ascending.
 
-Sous-arbuste de 0,50 à 2,50 m de hauteur, à une seule tige ou ± rameux. Bois tendre et cassant devenant dur à sec pour un
+Inflorescences axillary dominating the shoot apex, pubescent, rusty when dry. Peduncle 0–5 cm long. Bracts broad or reduced, attenuate acute. Flowers densely grouped, briefly pedicellate. Calyx with pubescent tube; limb of attractive sepals white, mauve or pale violet, ovate apiculate, pubescent on the lower face, 9–25 × 7–20 mm, at the base petiole, pubescent 0.5–2 cm long. Bud pubescent with obtuse capitate apex. Corolla with narrow tube; tube pinkish or red about 24–30 mm long, with ascending pubescence; 5 triangular lobes 2.5–3 mm, golden yellow above and spreading at anthesis. Internal pubescence ascending, abundant especially toward the top and at the throat where, golden yellow, it exceeds the base of the lobes. Stamens subsessile inserted sometimes toward the upper third (short-styled form), sometimes toward the lower third (long-styled form). Anther yellow-green, linear, about 4 mm long. Style slender 8–10 or 18–20 mm according to form, with linear stigmatic lobes. Annular disc small.
 
-diamètre de 2,5 cm. Vieux pieds à rhytidome blanchâtre orné de cicatrices circulaires équidistantes d'origine stipulaire. Extrémités velues; jeunes entrenœuds courts. Stipules remarquables, laciniées, dressées, pubescentes. Pétiole de 2-6 cm, ± velu, canaliculé, cassant. Limbe discolore, glabre et vernissé dessus, à pubescence ± abondante soyeuse argentée dessous, de 15-35 × 3,5-10 cm, très longuement elliptique; base longuement atténuée aiguë; sommet avec un acumen atténué aigu de 1,5-4 cm. Nervure médiane ± pubescente dessus; nervures secondaires 14-21 paires étroitement arquées ascendantes.
-
-Inflorescences axillaires dominant l'extrémité des rameaux, pubescentes, rousses à sec. Pédoncule de 0-5 cm de long. Bractées larges ou réduites, atténuées aiguës. Fleurs désentement groupées, brièvement pédicellées. Calice à tube pubescent; limbe des sépales attractifs blanc, mauve ou violacé clair, ové apiculé, pubescent sur la face inférieure, de 9-25 × 7-20 mm, à base pétioї, pubescente de 0,5-2 cm de long. Bouton pubescent à sommet capité obtus. Corolle à tube étroit; tube rosé ou rouge d'env. 24-30 mm de long, à pubescence ascendante; 5 lobes triangulaires de 2,5-3 mm, jaune d'or dessus et étalés à l'anthèse. Pubescence interne ascendante, abondante surtout vers le haut et à la gorge où, jaune-d'or, elle dépasse la base des lobes. Étamines subsessiles insérées tantôt vers le tiers supérieur (forme brévistyle), tantôt vers le tiers inférieur (forme longistyle). Anthère jaune-vert, linéaire, d'env. 4 mm de long. Style grêle de 8-10 ou 18-20 mm suivant la forme, à lobes stigmatiques linéaires. Disque annulaire petit.
-
-Infrutescence sessile ou ± pédonculée; fruit globuleux glabrescent, vert puis brunâtre, atteignant 20-25 mm de diam., à couronne et disque accrescents en diamètre, à lobes du calice finalement caduces. Graines prismatiques de 0,9 mm de long.
+Infructescence sessile or ± pedunculate; fruit globose glabrescent, green then brownish, reaching 20–25 mm diam., with crown and disc accrescent in diameter, calyx lobes eventually caducous. Seeds prismatic 0.9 mm long.
 
 ## Type
 
@@ -33,11 +31,7 @@ Mann 1627 (K, P!), monts de Cristal
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Cette espèce d'un bel effet ornamental se rencontre par petits peuplements dans certains sous-bois ombragés. Elle arrive à persister quelque temps en pleine lumière sur les talus des routes
-
-récemment ouvertes. Elle affectionne les sols drainés frais, pentes ou talus de rivières. On l’utilise pour faire, après suppression d’une partie des feuilles, des bouquets qui rappellent l’Hortensia bleuté ou rose pâle : d’où le nom vulgaire d’« Hortensia du Gabon ».
+This ornamentally attractive species is found in small populations in certain shaded understories. It is able to persist for some time in full light on the banks of recently opened roads. It favors well-drained fresh soils, slopes or river banks. It is used to make, after removal of part of the leaves, bouquets that recall bluish or pale pink Hydrangea: hence the common name "Gabon Hydrangea".
 
 ## Specimens examined
 

@@ -7,6 +7,13 @@ family: Ulmaceae
 vol: 58
 pages: 126-126
 source: sources/Ulmaceae_vol58_liteparse
+countries: [Angola, Cameroon, Central African Republic, Democratic Republic of the Congo, Gabon, Nigeria, Republic of the Congo, Sao Tome and Principe]
+in_region: true
+subdivisions:
+  Gabon: [Nyanga, Ogooué-Ivindo, Ogooué-Lolo]
+habit: "tree"
+habitat: [evergreen forest]
+altitude_m: "555"
 tags: [species, generated]
 ---
 # *Celtis mildbraedii* Engl. Planche 32(2-7)

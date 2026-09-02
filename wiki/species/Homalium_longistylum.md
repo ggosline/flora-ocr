@@ -7,6 +7,8 @@ family: Flacourtiaceae
 vol: 34
 pages: 66-69
 source: sources/Flacourtiaceae_vol34_paddle
+countries_incomplete: true
+habitat: [swamp forest]
 tags: [species, generated]
 ---
 # *Homalium longistylum* Mast.
@@ -68,7 +70,7 @@ De Saint Aubin 1986 SRF, 18 km E Libreville, janv. 1959, fl. (P).
 
 ![Homalium longistylum](../sources/Flacourtiaceae_vol34_paddle/figures/fig_020_p0068.png)
 
-*PL. 20. – Homalium longistylum Mast. : 1, feuille ; 2, stipule ; 3, inflorescence ; 4, détail du pistil ; 5, coupe longitudinale de l'ovaire ; 6, fruit. (1. Le Testu 9469 ; 2 et 3. Florence 1698 ; 4-6. De Saint Aubin). – H. stipulaceum Welw. ex Mast. : 7, rameau florifère ; 8, stipule ; 9, coupe longitudinale de l'ovaire ; 10, fruit. (7. Letouzey 14409 ; 8-10. Le Testu 1969).*
+*PL. 20. – Homalium longistylum Mast. : 1, leaf ; 2, stipule ; 3, inflorescence ; 4, detail of the pistil ; 5, longitudinal section of the ovary ; 6, fruit. (1. Le Testu 9469 ; 2 and 3. Florence 1698 ; 4-6. De Saint Aubin). – H. stipulaceum Welw. ex Mast. : 7, flowering branch ; 8, stipule ; 9, longitudinal section of the ovary ; 10, fruit. (7. Letouzey 14409 ; 8-10. Le Testu 1969).*
 
 ## Notes
 

@@ -7,6 +7,7 @@ family: Grammitidaceae
 vol: 08
 pages: 198-199
 source: sources/Grammitidaceae_vol08_paddle
+habit: "fern"
 tags: [species, generated]
 ---
 # *Xiphopteris serrulata* (Sw.) Kaulfuss
@@ -23,15 +24,13 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 — Klf., Enum.: 85 (1824). — Cop., Am. Fern. Journ. 42: 48 (1952). — Tard., Mém. IFAN 28: 207, pl. 42, f. 7-8 (1953). — Alston, FWTA: 45 (1959).
 
-Rhizome dressé, à frondes en touffes, portant des écailles à parois minces. Fronde linéaire, longue de 1-5 cm sur 0,1-0,3 de large, sessile, serrulée, lobée presque jusqu'au rachis, progressivement rétrécie vers la base, à extrémité obtuse, dents triangulaires aiguës. Texture mince. Surfaces glabres. Costa proéminent à la face inférieure. Une nervure par dent, généralement simple, atteignant le plus souvent la marge. Sores confluents, confinés au tiers supérieur, rétrécit et moins denté, presque entier, de la fronde. Sores allongés, plus ou moins confluents à maturité.
+Rhizome erect, with fronds in clusters, bearing scales with thin walls. Frond linear, 1-5 cm long by 0.1-0.3 cm wide, sessile, serrulate, lobed almost to the rachis, gradually narrowed toward the base, with obtuse apex, teeth triangular acute. Texture thin. Surfaces glabrous. Costa prominent on the lower surface. One vein per tooth, generally simple, usually reaching the margin. Sori confluent, confined to the upper third, narrowed and less toothed, almost entire, of the frond. Sori elongate, more or less confluent at maturity.
 
-De la Guinée au Gabon, Fernando-Po, Amérique tropicale, Mascareignes, Amsterdam.
+From Guinea to Gabon, Fernando Po, tropical America, Mascarenes, Amsterdam.
 
-Épiphyte sur les troncs, forêt montagnarde.
+Epiphytic on trunks, montane forest.
 
 ## Specimens examined
 

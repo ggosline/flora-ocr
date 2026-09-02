@@ -7,6 +7,7 @@ family: Gramineae
 vol: 05
 pages: 257-260
 source: sources/Gramineae_vol05_paddle
+habit: "herb"
 tags: [species, generated]
 ---
 # *Aristida recta* Franch.
@@ -46,7 +47,7 @@ XI. ARUNDINELLEES
 
 ![Aristida recta](../sources/Gramineae_vol05_paddle/figures/fig_043_p0259.png)
 
-*PL. XLII. — Aristida recta Franch. (Chev. 324) : I, aspect de la plante; 2, épillet (longueur de l'épillet : 3,5 mm, sans les arêtes). — Loudetia Vanderystii (De Wild.) Hubb. (Koechlin 5992) : 3, aspect de la plante; 4, épillet (longueur de l'épillet : 8 mm, sans l'arête); 5, fragment d'inflorescence.*
+*PL. XLII. — Aristida recta Franch. (Chev. 324) : 1, plant aspect; 2, spikelet (spikelet length: 3.5 mm, without the awns). — Loudetia Vanderystii (De Wild.) Hubb. (Koechlin 5992) : 3, plant aspect; 4, spikelet (spikelet length: 8 mm, without the awn); 5, inflorescence fragment.*
 
 ## Notes
 

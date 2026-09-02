@@ -7,6 +7,8 @@ family: Lomariopsidaceae
 vol: 08
 pages: 195-196
 source: sources/Lomariopsidaceae_vol08_paddle
+countries: [Equatorial Guinea, Guinea]
+in_region: true
 tags: [species, generated]
 ---
 # *Bolbitis salicina* (Hk.) Ching

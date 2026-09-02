@@ -7,6 +7,11 @@ family: Scytopetalaceae
 vol: 24
 pages: 132-136
 source: sources/Chrysobalanaceae_vol24_paddle
+countries: [Angola, Cameroon, Gabon, Mozambique, Senegal, Sudan]
+in_region: true
+habit: "tree"
+habitat: [swamp forest, savanna]
+altitude_m: "2000"
 tags: [species, generated]
 ---
 # *Parinari excelsa* Sabine
@@ -101,7 +106,7 @@ Le Testu 1942, Tchibanga (fl., déc.); 8053, Minguembé, 60 km ENE Mbigou (fl., 
 
 ![Parinari excelsa](../sources/Chrysobalanaceae_vol24_paddle/figures/fig_039_p0133.png)
 
-*PL. 39. — Parinari excelsa Sab. : 1, rameau avec fleurs × 2/3; 2, j. feuille dessous × 3; 3, v. feuille dessous × 3; 4, pétiole × 3; 5, fleur × 6; 6, j. plant × 2/3; 7, j. feuille j. pl. dessous × 3; 8, coupe long. fr. × 2/3; 9, fruit × 2/3. (1, Le Testu 9087; 2, 4-5, Le Testu 8795; 3, Letouzey 12110; 6-7, Toilliez 218, Côté d'Ivoire; 8, Letouzey 3046; 9, Chevalier 16204 bis, Côté d'Ivoire).*
+*PL. 39. — Parinari excelsa Sab. : 1, branch with flowers × 2/3; 2, y. leaf underside × 3; 3, v. leaf underside × 3; 4, petiole × 3; 5, flower × 6; 6, y. plant × 2/3; 7, y. leaf y. pl. underside × 3; 8, long. section fruit × 2/3; 9, fruit × 2/3. (1, Le Testu 9087; 2, 4-5, Le Testu 8795; 3, Letouzey 12110; 6-7, Toilliez 218, Ivory Coast; 8, Letouzey 3046; 9, Chevalier 16204 bis, Ivory Coast).*
 
 ## Notes
 

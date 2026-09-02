@@ -7,6 +7,13 @@ family: Clusiaceae
 vol: 45
 pages: 25-29
 source: sources/Clusiaceae_vol45_liteparse
+countries: [Angola, Benin, Cameroon, Central African Republic, Cote d'Ivoire, Democratic Republic of the Congo, Equatorial Guinea, Gabon, Guinea, Liberia, Nigeria, Republic of the Congo, Sierra Leone]
+in_region: true
+subdivisions:
+  Gabon: [Estuaire, Haut-Ogooué, Ngounié, Ogooué-Ivindo, Ogooué-Lolo, Ogooué-Maritime, Woleu-Ntem]
+habit: "tree"
+habitat: [swamp forest, secondary forest, primary forest, riverine]
+altitude_m: "500"
 tags: [species, generated]
 ---
 # *Garcinia kola* Heckel

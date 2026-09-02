@@ -7,6 +7,11 @@ family: Arecaceae
 vol: 53
 pages: 60-62
 source: sources/Arecaceae_vol53_liteparse
+countries: [Cameroon, Democratic Republic of the Congo, Gabon, Republic of the Congo]
+in_region: true
+subdivisions:
+  Gabon: [Haut-Ogooué]
+altitude_m: "400"
 tags: [species, generated]
 ---
 # *Raphia monbuttorum* Drude Figure 4E

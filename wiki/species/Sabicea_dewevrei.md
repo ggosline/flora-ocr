@@ -7,6 +7,7 @@ family: Rubiaceae
 vol: 12
 pages: 187-188
 source: sources/Rubiaceae_vol12_paddle
+habit: "liana"
 tags: [species, generated]
 ---
 # *Sabicea dewevrei* De Wild. (Fig. 4)

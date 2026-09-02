@@ -7,6 +7,9 @@ family: Melastomataceae
 vol: 25
 pages: 128-130
 source: sources/Melastomataceae_vol25_paddle
+countries: [Angola]
+in_region: true
+habit: "shrub"
 tags: [species, generated]
 ---
 # *Memecylon collinum* Jacques-Félix
@@ -45,7 +48,7 @@ Hallé N. & Villiers J.-F. 4936, rocher Fané (fév.).
 
 ![Memecylon collinum](../sources/Melastomataceae_vol25_paddle/figures/fig_045_p0127.png)
 
-*PL. 45. — Memecylon collinum Jacq.-Fél. : 1, rameau fleuri × 2/3; 2, coupe de la fleur (corolle, étamines enlevées) × 6; 3, pétale × 6; 4, chambre épigyne × 6; 5, étamine × 12; 6, fruit × 3 (1-5, Hallé N. 3587; 6, Jacques-Félix 5087). (Repris d'Adansonia, sér. 2, 18 (4) : tab. 7, 1979).*
+*PL. 45. — Memecylon collinum Jacq.-Fél. : 1, flowering branch × 2/3; 2, flower section (corolla, stamens removed) × 6; 3, petal × 6; 4, epigynous chamber × 6; 5, stamen × 12; 6, fruit × 3 (1-5, Hallé N. 3587; 6, Jacques-Félix 5087). (Reprinted from Adansonia, ser. 2, 18 (4) : tab. 7, 1979).*
 
 ## Notes
 

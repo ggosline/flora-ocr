@@ -7,6 +7,12 @@ family: Leguminosae
 vol: 49
 pages: 195-195
 source: sources/Millettiaspeciesfabaceae_vol49_liteparse
+countries: [Cameroon, Cote d'Ivoire, Democratic Republic of the Congo, Gabon, Guinea, Liberia, Republic of the Congo, Sierra Leone]
+in_region: true
+subdivisions:
+  Gabon: [Ngounié, Ogooué-Ivindo, Woleu-Ntem]
+habit: "herb"
+altitude_m: "600"
 tags: [species, generated]
 ---
 # *Eriosema spicatum* Hook.f.

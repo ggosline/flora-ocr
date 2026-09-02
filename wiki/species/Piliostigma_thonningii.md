@@ -7,6 +7,9 @@ family: Leguminosae
 vol: 15
 pages: 28-30
 source: sources/Leguminosae_vol15_paddle
+countries: [Gabon]
+in_region: true
+habit: "tree"
 tags: [species, generated]
 ---
 # *Piliostigma thonningii* (Schumach.) Milne-Redh.

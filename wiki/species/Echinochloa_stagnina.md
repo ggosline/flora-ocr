@@ -7,6 +7,7 @@ family: Gramineae
 vol: 05
 pages: 55-58
 source: sources/Gramineae_vol05_paddle
+habit: "herb"
 tags: [species, generated]
 ---
 # *Echinochloa stagnina* (Retz.) P. Beauv.
@@ -42,7 +43,7 @@ Recorded in Gabon by Franchet in the Fernan-Vaz and collected by Lecomte (specim
 
 ![Echinochloa stagnina](../sources/Gramineae_vol05_paddle/figures/fig_009_p0057.png)
 
-*PL. VIII. — Echinochloa stagnina (Retz.) P. Beauv. (D'Arnaud, in herb. A. Chev. s.n.) : 1, fragment de chaume et jeune pousse; 2, inflorescence; 3, détail d'un racème; 4, épillet, vu du côté de la glume inf.; 5, épillet, vu du côté de la glume supérieure (longueur de l'épillet env. 5 mm, sans les arêtes); 6, fleur fertile.*
+*PL. VIII. — Echinochloa stagnina (Retz.) P. Beauv. (D'Arnaud, in herb. A. Chev. s.n.) : 1, culm fragment and young shoot; 2, inflorescence; 3, detail of a raceme; 4, spikelet, viewed from the side of the lower glume; 5, spikelet, viewed from the side of the upper glume (spikelet length approx. 5 mm, without the awns); 6, fertile flower.*
 
 ## Notes
 

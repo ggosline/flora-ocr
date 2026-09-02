@@ -7,6 +7,12 @@ family: Leguminosae
 vol: 49
 pages: 95-95
 source: sources/Millettiaspeciesfabaceae_vol49_liteparse
+countries: [Gabon]
+in_region: true
+subdivisions:
+  Gabon: [Ogooué-Maritime]
+habit: "herb"
+altitude_m: "120"
 tags: [species, generated]
 ---
 # *Crotalaria cylindrocarpa* DC.

@@ -7,6 +7,7 @@ family: Myrtaceae
 vol: 11
 pages: 19-19
 source: sources/Myrtaceae_vol11_paddle
+habit: "tree"
 tags: [species, generated]
 ---
 # *Syzygium cumini* (L.) Skeels
@@ -24,13 +25,11 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Tree or shrub, up to 18 m tall. Bark fairly smooth, grey or whitish. Leaves oblong or elliptic, shortly acuminate at the apex, cuneate at the base, coriaceous, 8–15 cm long and 4–9 cm wide. Petiole slender, 1–3 cm long. Inflorescence most often lateral, on leafless portions of the branches. Floral buds obconic reaching 5 mm long. Sepals scarcely developed. Petals connate. Fruit ovoid-oblong, often curved, 2–3 cm long, dark purple, monospermic.
 
-Arbre ou arbuste, jusqu'à 18 m haut. Écorce assez lisse, grise ou blanchâtre. Feuilles oblongues ou elliptiques, courtement acuminées au sommet, cunéiformes à la base, coriaces, de 8-15 cm de long et 4-9 cm de large. Pétiole grêle, de 1-3 cm de long. Inflorescence le plus souvent latérale, sur des parties défeuillées des rameaux. Boutons floraux obconiques atteignant 5 mm de long. Sépales à peine développés. Pétales soudés. Fruit ovoïde-oblong, souvent courbé, de 2-3 cm de long, noir-pourpre, monosperme.
+Native to tropical Asia, perhaps also indigenous to East Africa, notably Zanzibar. Introduced long ago into all warm countries.
 
-Originaire de l'Asie tropicale, peut-être aussi indigène en Afrique orientale, notamment à Zanzibar. Introduit depuis longtemps dans tous les pays chauds.
-
-Cultivé pour son ombrage et pour son fruit.
+Cultivated for its shade and for its fruit.
 
 ## Notes
 

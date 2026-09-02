@@ -7,6 +7,9 @@ family: Ixonanthaceae
 vol: 21
 pages: 61-62
 source: sources/Ixonanthaceae_vol21_paddle
+countries: [Central African Republic, Democratic Republic of the Congo, Gabon, Guinea]
+in_region: true
+habitat: [riverine]
 tags: [species, generated]
 ---
 # *Ochthocosmus africanus* Hooker fil.
@@ -53,7 +56,7 @@ Le Testu 5074, Guidouma, Haute Ngounyé (fl., nov.); 5980, Mbigou Masango (fl., 
 
 ![Ochthocosmus africanus](../sources/Ixonanthaceae_vol21_paddle/figures/fig_014_p0063.png)
 
-*PL. 14. — Ochthocosmus africanus Hook. f.: 1, rameau florifère × 2/3 (Le Testu 6402); 2, détail de l'inflorescence × 1,5; 3, centre de la fleur × 3; 4, fruit × 3; 5, graine × 3 (4-5, Pynaert 1587). — O. calothyrsus (Mildbr.) Hutch. & Dalz.: 6, rameau florifère × 2/3 (Le Testu 5839); 7, détail de l'inflorescence × 1,5; 8, centre de la fleur × 3.*
+*PL. 14. — Ochthocosmus africanus Hook. f.: 1, flowering branch × 2/3 (Le Testu 6402); 2, detail of the inflorescence × 1,5; 3, centre of the flower × 3; 4, fruit × 3; 5, seed × 3 (4-5, Pynaert 1587). — O. calothyrsus (Mildbr.) Hutch. & Dalz.: 6, flowering branch × 2/3 (Le Testu 5839); 7, detail of the inflorescence × 1,5; 8, centre of the flower × 3.*
 
 ## Notes
 

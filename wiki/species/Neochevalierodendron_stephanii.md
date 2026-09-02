@@ -7,6 +7,9 @@ family: Leguminosae
 vol: 15
 pages: 95-101
 source: sources/Leguminosae_vol15_paddle
+countries: [Gabon]
+in_region: true
+habit: "tree"
 tags: [species, generated]
 ---
 # *Neochevalierodendron stephanii* (A. Chev.) Léonard Ekat (P.L. 19, p. 95)

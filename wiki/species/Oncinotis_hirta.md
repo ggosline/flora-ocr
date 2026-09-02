@@ -7,6 +7,10 @@ family: Apocynaceae
 vol: 59
 pages: 176-179
 source: sources/Apocynaceae_vol59_liteparse
+countries: [Angola, Cameroon, Gabon, Uganda]
+in_region: true
+subdivisions:
+  Gabon: [Ngounié, Nyanga, Ogooué-Lolo]
 tags: [species, generated]
 ---
 # *Oncinotis hirta* Oliv. Planche 78(3), 82

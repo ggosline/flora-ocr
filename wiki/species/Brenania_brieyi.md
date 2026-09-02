@@ -7,6 +7,9 @@ family: Rubiaceae
 vol: 17
 pages: 257-260
 source: sources/Rubiaceae_vol17_paddle
+countries: [Angola, Cameroon, Gabon, Nigeria]
+in_region: true
+habit: "tree"
 tags: [species, generated]
 ---
 # *Brenania brieyi* (De Wild.) E. Petit
@@ -59,7 +62,7 @@ A. Walker 34814 bis (in herb. A. Chev.), Sindara (fr. juin).
 
 ![Brenania brieyi](../sources/Rubiaceae_vol17_paddle/figures/fig_061_p0259.png)
 
-*PL. 60. — Brenania Brieyi (De Wild.) Petit (1 à 6, Le Testu 6056; 7 à 12, N. Hallé 4214); 1, feuille × 0,6; 2, inflorescence × 0,6 : 3, corolle en coupe; 4, étamine; 5 et 6, coupes du gynécée; 7, fruit sur le vif × 0,6; 8, coupe du fruit; 9, fruit décapé montrant l'endocarpe; 10, placentation du fruit; 11, graine × 1,5; 12, coupes de la graine.*
+*PL. 60. — Brenania Brieyi (De Wild.) Petit (1 to 6, Le Testu 6056; 7 to 12, N. Hallé 4214); 1, leaf × 0.6; 2, inflorescence × 0.6 : 3, corolla in section; 4, stamen; 5 and 6, sections of gynoecium; 7, fruit fresh × 0.6; 8, section of fruit; 9, fruit decorticated showing the endocarp; 10, fruit placentation; 11, seed × 1.5; 12, sections of seed.*
 
 ## Notes
 

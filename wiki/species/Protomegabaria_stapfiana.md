@@ -7,6 +7,13 @@ family: Phyllanthaceae
 vol: 43
 pages: 78-80
 source: sources/Phyllanthaceae_vol43_liteparse
+countries: [Angola, Cameroon, Gabon, Sao Tome and Principe, Sierra Leone]
+in_region: true
+subdivisions:
+  Gabon: [Estuaire, Ngounié, Nyanga, Ogooué-Maritime, Woleu-Ntem]
+habit: "tree"
+habitat: [secondary forest]
+altitude_m: "400"
 tags: [species, generated]
 ---
 # *Protomegabaria stapfiana* (Beille) Hutch. Planche 24(K–L)

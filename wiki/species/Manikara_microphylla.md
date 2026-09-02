@@ -7,6 +7,7 @@ family: Sapotaceae
 vol: 01
 pages: 37-40
 source: sources/Sapotaceae_vol01_paddle
+habit: "shrub"
 tags: [species, generated]
 ---
 # *Manikara microphylla* Aubr. et Pellegr.
@@ -41,7 +42,7 @@ Rép. Congo. — Koechlin : 6043, Brazzaville (fl. sept.).
 
 ![Manikara microphylla](../sources/Sapotaceae_vol01_paddle/figures/fig_005_p0039.png)
 
-*PL. II. — Manilkara Pellegriniana Tisserant et Sillans : 1, rameau florifère × 2 /3; 2, fragment de corolle vu de l'extérieur × 6; 3, fragment de corolle vu de l'intérieur × 6; 4, pistil × 6. — Manilkara microphylla Aubr. et Pellegr. : 5, feuille × 2 /3; 6, détail de la nervation; 7, fragment de corolle vu de l'extérieur × 6; 8, fragment de corolle vu de l'intérieur × 6; 9, pistil × 6.*
+*PL. II. — Manilkara Pellegriniana Tisserant et Sillans : 1, flowering branch × 2 /3; 2, fragment of corolla viewed from outside × 6; 3, fragment of corolla viewed from inside × 6; 4, pistil × 6. — Manilkara microphylla Aubr. et Pellegr. : 5, leaf × 2 /3; 6, detail of the venation; 7, fragment of corolla viewed from outside × 6; 8, fragment of corolla viewed from inside × 6; 9, pistil × 6.*
 
 ## Notes
 

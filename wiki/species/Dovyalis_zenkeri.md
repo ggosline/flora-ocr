@@ -7,6 +7,8 @@ family: Flacourtiaceae
 vol: 34
 pages: 13-15
 source: sources/Flacourtiaceae_vol34_paddle
+countries: [Cameroon, Cote d'Ivoire, Democratic Republic of the Congo, Equatorial Guinea, Gabon, Ghana, Guinea, Guinea-Bissau, Nigeria, Sierra Leone]
+in_region: true
 tags: [species, generated]
 ---
 # *Dovyalis zenkeri* Gilg
@@ -59,7 +61,7 @@ Le Testu 8601, Lastourville, 20/12/1930, fl. ☀, j. fr. (P).
 
 ![Dovyalis zenkeri](../sources/Flacourtiaceae_vol34_paddle/figures/fig_002_p0014.png)
 
-*PL. 2. – Dovyalis zenkeri Gilg : 1, rameau avec inflorescences ♂ ; 2, bouton floral ♂ ; 3, fleur ♂ ; 4, étamines et glandes ciliées du réceptacle ; 5, rameau ♀ avec jeune fruit ; 6, jeune fruit ; 7, sépales et anneau de glandes ciliées du réceptacle ; 8, coupe transversale d'un jeune fruit. (1-4. Tisserant 2398 ; 5-8. Le Testu 8601).*
+*PL. 2. – Dovyalis zenkeri Gilg : 1, branch with ♂ inflorescences ; 2, ♂ floral bud ; 3, ♂ flower ; 4, stamens and ciliate glands of receptacle ; 5, ♀ branch with young fruit ; 6, young fruit ; 7, sepals and ring of ciliate glands of receptacle ; 8, transverse section of young fruit. (1-4. Tisserant 2398 ; 5-8. Le Testu 8601).*
 
 ## Notes
 

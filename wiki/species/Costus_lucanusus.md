@@ -7,6 +7,7 @@ family: Zingiberaceae
 vol: 09
 pages: 85-86
 source: sources/Zingiberaceae_vol09_paddle
+habit: "herb"
 tags: [species, generated]
 ---
 # *Costus lucanusus* J. Braun et K. Sch.

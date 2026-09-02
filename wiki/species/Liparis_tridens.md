@@ -7,6 +7,9 @@ family: Orchidaceae
 vol: 36
 pages: 129-129
 source: sources/Orchidaceae_vol36_paddle
+countries: [Cameroon, Cote d'Ivoire, Equatorial Guinea, Gabon, Malawi, Nigeria, Tanzania, Uganda]
+in_region: true
+habitat: [swamp forest]
 tags: [species, generated]
 ---
 # *Liparis tridens* Kraenzl.

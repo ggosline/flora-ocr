@@ -7,6 +7,12 @@ family: Phyllanthaceae
 vol: 43
 pages: 66-66
 source: sources/Phyllanthaceae_vol43_liteparse
+countries: [Cameroon, Democratic Republic of the Congo, Equatorial Guinea, Gabon, Guinea, Republic of the Congo]
+in_region: true
+subdivisions:
+  Gabon: [Estuaire, Nyanga, Ogooué-Ivindo]
+habit: "herb"
+altitude_m: "0–650"
 tags: [species, generated]
 ---
 # *Phyllanthus niruroides* Müll.Arg.

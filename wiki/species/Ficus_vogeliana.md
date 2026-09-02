@@ -7,6 +7,10 @@ family: Moraceae
 vol: 26
 pages: 141-146
 source: sources/Moraceae_vol26_paddle
+countries: [Angola, Cameroon, Cote d'Ivoire, Democratic Republic of the Congo, Equatorial Guinea, Gabon, Madagascar, Nigeria, Sao Tome and Principe]
+in_region: true
+habitat: [savanna, evergreen forest]
+altitude_m: "20"
 tags: [species, generated]
 ---
 # *Ficus vogeliana* (Miquel) Miquel
@@ -71,7 +75,7 @@ Sect. Oreosycea is represented by 2 (or perhaps 3) species on continental Africa
 
 ![Ficus vogeliana](../sources/Moraceae_vol26_paddle/figures/fig_040_p0144.png)
 
-*PL. 39. - Ficus vogeliana (Miq.) Miq.: 1, rameau avec feuilles × 2/3; 2, figues × 1; 3, fleur à graine; 4, fleur staminée avec bractée (1, De Wilde W.c.s. 1464, Cameroun; 2-4, Hallé N. & Villiers J.-F. 5300).*
+*PL. 39. - Ficus vogeliana (Miq.) Miq.: 1, branch with leaves × 2/3; 2, figs × 1; 3, seed flower; 4, staminate flower with bract (1, De Wilde W.c.s. 1464, Cameroon; 2-4, Hallé N. & Villiers J.-F. 5300).*
 
 ## Notes
 

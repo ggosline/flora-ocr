@@ -5,11 +5,10 @@ authority: Engl.
 genus: Fagara
 family: Rutaceae
 synonyms: [Fagara viridis p.p.]
-countries: [Nigeria, Cameroon, Gabon]
-in_region: true
-habit: shrub
-habitat: [forest understorey]
 treatments: [{vol: 6, pages: "16–18", source: sources/Rutaceae_vol6_paddle}]
+countries: [Cameroon, Gabon, Nigeria]
+in_region: true
+habit: "shrub"
 tags: [species]
 ---
 

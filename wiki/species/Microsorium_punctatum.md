@@ -39,7 +39,7 @@ Griffon du Bellay : 283, sans loc. N. Hallé : 1835, Ayem, SW de Ndjolé. N. Hal
 
 ![Microsodium punctatum](../sources/Polypodiaceae_vol08_paddle/figures/fig_034_p0203.png)
 
-*PL. XXXI. — Platycerium stemaria (Beauv.) Desv.: 1, aspect général × 1/3. — P. angolense Welw.: (Nicklès): 2, aspect général × 1/4. — Microsodium punctatum (L.) Cop. (Pobéguin 20): 3, aspect général × 1/3; 4, détail de nervation × 1,5.*
+*PL. XXXI. — Platycerium stemaria (Beauv.) Desv.: 1, general aspect × 1/3. — P. angolense Welw.: (Nicklès): 2, general aspect × 1/4. — Microsodium punctatum (L.) Cop. (Pobéguin 20): 3, general aspect × 1/3; 4, detail of venation × 1.5.*
 
 ## Notes
 

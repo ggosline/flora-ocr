@@ -7,6 +7,9 @@ family: Rubiaceae
 vol: 17
 pages: 252-254
 source: sources/Rubiaceae_vol17_paddle
+countries: [Angola, Cameroon, Gabon, Nigeria]
+in_region: true
+habit: "shrub"
 tags: [species, generated]
 ---
 # *Rothmannia talbotii* (Wernh.) Keay

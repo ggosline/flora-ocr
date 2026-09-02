@@ -5,12 +5,10 @@ authority: Hook. f. ex Oliv.
 genus: Impatiens
 family: Balsaminaceae
 synonyms: []
-countries: [Guinea, Togo, Nigeria, Cameroon, Equatorial Guinea, Gabon, Democratic Republic of the Congo, Uganda]
-countries_incomplete: true
-in_region: true
-habit: herb
-habitat: [stream margins, waterfalls, wet rocks]
 treatments: [{vol: 4, pages: "47–51", source: sources/Balsaminaceae_vol4_paddle}]
+countries: [Gabon, Guinea, Uganda]
+in_region: true
+habit: "herb"
 tags: [species]
 ---
 

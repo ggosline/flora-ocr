@@ -7,6 +7,8 @@ family: Acanthaceae
 vol: 13
 pages: 217-218
 source: sources/Acanthaceae_vol13_paddle
+countries: [Madagascar]
+in_region: false
 tags: [species, generated]
 ---
 # *Justicia tenella* (Nees) T. Anders.

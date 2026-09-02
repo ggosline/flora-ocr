@@ -7,6 +7,13 @@ family: Clusiaceae
 vol: 45
 pages: 34-35
 source: sources/Clusiaceae_vol45_liteparse
+countries: [Cameroon, Equatorial Guinea, Gabon]
+in_region: true
+subdivisions:
+  Gabon: [Haut-Ogooué, Ngounié, Ogooué-Ivindo, Ogooué-Lolo, Woleu-Ntem]
+habit: "tree"
+habitat: [primary forest]
+altitude_m: "575"
 tags: [species, generated]
 ---
 # *Garcinia preussii* Engl.

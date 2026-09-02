@@ -6,6 +6,12 @@ genus: Clerodendrum
 vol: 58
 pages: 30-30
 source: sources/Labiataeulmaceaeverbenaceae_vol58_liteparse
+countries: [Angola, Cameroon, Central African Republic, Democratic Republic of the Congo, Gabon, Nigeria, Republic of the Congo]
+in_region: true
+subdivisions:
+  Gabon: [Ogooué-Ivindo]
+habit: "liana"
+altitude_m: "480"
 tags: [species, generated]
 ---
 # *Clerodendrum capitatum* (Willd.) Schumach. Figure 1(D)

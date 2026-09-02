@@ -7,6 +7,8 @@ family: Dichapetalaceae
 vol: 32
 pages: 149-152
 source: sources/Dichapetalaceae_vol32_paddle
+countries: [Angola, Benin, Cameroon, Cote d'Ivoire, Democratic Republic of the Congo, Gabon, Ghana, Guinea, Liberia, Nigeria, Sierra Leone, Togo]
+in_region: true
 tags: [species, generated]
 ---
 # *Dichapetalum pallidum* (Oliver) Engler
@@ -73,7 +75,7 @@ Breteler 6260, km 23 Moanda-Franceville (stér., Sept.); 6263, (stér., Sept.); 
 
 ![Dichapetalum pallidum](../sources/Dichapetalaceae_vol32_paddle/figures/fig_043_p0150.png)
 
-*PL. 42 – Dichapetalum pallidum (Oliver) Engler: 1, jeune rameau florifère avec fruits immâturées × 0,5; 2, extrémité d'innovation avec feuille pliée × 1; 3, 4, stipules × 2; 5, fleur × 5; 6, fleur, détail × 5; 7, 8, indumentum du fruit, détail × 15; 9, paroi de fruit tuberculé, détail × 3 (1, 3, 4, Breteler 5864; 2, Breteler 6022; 5, 6, Leeuwenberg 3771; 7, Breteler 6032; 8, Breteler 5326; 9, Baldwin 10206). – Repris de MLW 81 (10): 67 (1981).*
+*PL. 42 – Dichapetalum pallidum (Oliver) Engler: 1, young flowering branch with immature fruits × 0.5; 2, apex of innovation with folded leaf × 1; 3, 4, stipules × 2; 5, flower × 5; 6, flower, detail × 5; 7, 8, indumentum of fruit, detail × 15; 9, tuberculate fruit wall, detail × 3 (1, 3, 4, Breteler 5864; 2, Breteler 6022; 5, 6, Leeuwenberg 3771; 7, Breteler 6032; 8, Breteler 5326; 9, Baldwin 10206). – Reprinted from MLW 81 (10): 67 (1981).*
 
 ## Notes
 

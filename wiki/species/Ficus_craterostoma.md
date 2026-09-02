@@ -7,6 +7,8 @@ family: Moraceae
 vol: 26
 pages: 173-176
 source: sources/Moraceae_vol26_paddle
+countries: [Angola, Cameroon, Democratic Republic of the Congo, Gabon, Ghana, Sierra Leone, Tanzania, Zambia]
+in_region: true
 tags: [species, generated]
 ---
 # *Ficus craterostoma* Mildbraed & Burret
@@ -61,7 +63,7 @@ Hallé N. 2342, Abanga, chantier CEFA (stér.); 3368, Bélinga (stér.). Hijman 
 
 ![Ficus craterostoma](../sources/Moraceae_vol26_paddle/figures/fig_049_p0174.png)
 
-*PL. 48. – Ficus craterostoma Mildbr. & Burret : 1, 2, rameau avec feuilles et figues × 1 ; 3, fleur à graine avec bractée ; 4, fleur staminée (1, Tisserant 1446, Centrafrique ; 2, Vroumsia Tchinaye 108, Cameroun ; 3-4, Michaloud 504).*
+*PL. 48. – Ficus craterostoma Mildbr. & Burret : 1, 2, branch with leaves and figs × 1 ; 3, seeded flower with bract ; 4, staminate flower (1, Tisserant 1446, Central African Republic ; 2, Vroumsia Tchinaye 108, Cameroon ; 3-4, Michaloud 504).*
 
 ## Notes
 

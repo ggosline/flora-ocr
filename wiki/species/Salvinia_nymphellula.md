@@ -7,6 +7,8 @@ family: Pteridophytes
 vol: 08
 pages: 45-47
 source: sources/Salviniaceae_vol08_paddle
+countries: [Ghana, Nigeria]
+in_region: true
 tags: [species, generated]
 ---
 # *Salvinia nymphellula* Desvaux (P.L. VII)

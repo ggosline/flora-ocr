@@ -7,6 +7,8 @@ family: Combretaceae
 vol: 35
 pages: 51-53
 source: sources/Combretaceae_vol35_paddle
+countries_incomplete: true
+habit: "liana"
 tags: [species, generated]
 ---
 # *Combretum indicum* (Linne) Jongkind, comb. nov.

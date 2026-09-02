@@ -7,6 +7,9 @@ family: Orchidaceae
 vol: 36
 pages: 153-155
 source: sources/Orchidaceae_vol36_paddle
+countries: [Angola, Cameroon, Cote d'Ivoire, Gabon, Ghana, Nigeria, Sierra Leone]
+in_region: true
+habitat: [swamp forest, savanna, coastal]
 tags: [species, generated]
 ---
 # *Bulbophyllum colubrinum* (Rchb.f.) Rchb.f.
@@ -57,7 +60,7 @@ Pobeguin 118, Cape Lopez (fl., Oct.), P!.
 
 ![Bulbophyllum colubrinum](../sources/Orchidaceae_vol36_paddle/figures/fig_079_p0156.png)
 
-*PL. 74. – Bulbophyllum colubrinum (Rchb.f.) Rchb.f.: A, vue générale ; B, fleur ; C, pièces florales ; D, labelle ; E, labelle et gynostème en position naturelle, vue latérale ; F, anthère ; G, pollinies (A-G, ex VERMEULEN, 1987).*
+*PL. 74. – Bulbophyllum colubrinum (Rchb.f.) Rchb.f.: A, general view ; B, flower ; C, floral parts ; D, lip ; E, lip and gynostemium in natural position, lateral view ; F, anther ; G, pollinia (A-G, ex VERMEULEN, 1987).*
 
 ## Notes
 

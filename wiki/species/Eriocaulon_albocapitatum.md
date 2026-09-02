@@ -7,6 +7,7 @@ family: Eriocaulaceae
 vol: 48
 pages: 11-11
 source: sources/Eriocaulaceae_vol48_liteparse
+habit: "herb"
 tags: [species, generated]
 ---
 # *Eriocaulon albocapitatum* Kimpouni est cité par erreur dans le protologue (Kimpouni,

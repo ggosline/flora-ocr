@@ -7,6 +7,13 @@ family: Rhizophoraceae
 vol: 47
 pages: 95-97
 source: sources/Rhizophoraceae_vol47_liteparse
+countries: [Angola, Gabon, Republic of the Congo]
+in_region: true
+subdivisions:
+  Gabon: [Ogooué-Maritime]
+habit: "tree"
+habitat: [secondary forest, coastal]
+altitude_m: "10–20"
 tags: [species, generated]
 ---
 # *Cassipourea carringtoniana* Mendes Planche 30.4, 31

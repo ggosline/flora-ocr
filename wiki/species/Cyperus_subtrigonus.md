@@ -7,6 +7,12 @@ family: Cyperaceae
 vol: 44
 pages: 123-124
 source: sources/Cyperaceae_vol44_liteparse
+countries: [Gabon]
+in_region: true
+subdivisions:
+  Gabon: [Haut-Ogooué, Ogooué-Ivindo, Woleu-Ntem]
+habit: "herb"
+altitude_m: "400–700"
 tags: [species, generated]
 ---
 # *Cyperus subtrigonus* (C.B.Clarke) Kük. Figure 9b

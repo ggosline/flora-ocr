@@ -7,6 +7,12 @@ family: Leguminosae
 vol: 49
 pages: 46-46
 source: sources/Millettiaspeciesfabaceae_vol49_liteparse
+countries: [Angola, Cameroon, Democratic Republic of the Congo, Gabon, Ghana]
+in_region: true
+subdivisions:
+  Gabon: [Estuaire, Ngounié, Ogooué-Lolo]
+habit: "tree"
+altitude_m: "20–600"
 tags: [species, generated]
 ---
 # *Angylocalyx oligophyllus* (Baker) Baker f. Planche 11.1–9

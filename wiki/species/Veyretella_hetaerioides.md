@@ -7,6 +7,9 @@ family: Orchidaceae
 vol: 36
 pages: 31-31
 source: sources/Orchidaceae_vol36_paddle
+countries: [Gabon]
+in_region: true
+habitat: [primary forest]
 tags: [species, generated]
 ---
 # *Veyretella hetaerioides* (Summerh.) Szlach. & Olsz.
@@ -17,29 +20,23 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+– TYPE: Le Testu 2214, Region of the Ngounié, Gabon, holo-K!, iso-P! – Cynorkis hetaerioides (Summerh.) Szlach., Fragm. Flor. Geobot., Suppl. 3 : 114 (1995).
 
-– TYPE : Le Testu 2214, Région de la Ngounié, Gabon, holo-K!, iso-P! – Cynorkis hetaerioides (Summerh.) Szlach., Fragm. Flor. Geobot., Suppl. 3 : 114 (1995).
-
-Tige 5-9 cm, glabre. Feuilles 5-8, pétiolées, en rosette basale, < 4,5 × 2,2 cm, lancéolées à largement lancéolées, aiguès. Inflorescence < 3 cm, lâche, 3-5-flore. Fleurs blanches, glabres, résupinées, grandes par rapport à la plante. Sépale dorsal sub-cochléiforme, oblong-ové, obtus ; sépales latéraux obliquement ovés, subobtus. Pétales linéaires, obtus. Labelle sessile à 3 lobes : le médian très grand, ± réniforme, tronqué, avec callus basal épais, phalloïde, les latéraux longs et 3-dentés. Pl. 9, p. 29.
+Stem 5–9 cm, glabrous. Leaves 5–8, petiolate, in basal rosette, < 4.5 × 2.2 cm, lanceolate to broadly lanceolate, acute. Inflorescence < 3 cm, lax, 3–5-flowered. Flowers white, glabrous, resupinate, large relative to the plant. Dorsal sepal subcochleal, oblong-ovate, obtuse; lateral sepals obliquely ovate, subobtuse. Petals linear, obtuse. Lip sessile with 3 lobes: the median very large, ± reniform, truncate, with thick basal callus, phalloïd, the lateral ones long and 3-dentate. Pl. 9, p. 29.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-actuellement connu que du Gabon
+currently known only from Gabon
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+herbaceous terrestrial in primary forest, on sand, along stream edge
 
-herbacée terrestre en forêt primaire, sur sable, en bord de ruisseau
+MATERIAL EXAMINED (Map 3):
 
-MATÉRIEL ÉTUDIÉ (Carte 3) :
+Dibata 41, Moyen Ogooué, 13 km E of Belle Vue, 0°35′ S, 10°37′ E (fl., Jan.), WAG!, LBV!.
 
-Dibata 41, Moyen Ogooué, 13 km E de Belle Vue, 0°35′ S, 10°37′ E (fl., Janv.), WAG!, LBV!.
-
-Le Testu 2214, Région de la Ngounyé (fl., Juil.), K!, P!.
+Le Testu 2214, Region of the Ngounié (fl., Jul.), K!, P!.
 
 ## Figures
 

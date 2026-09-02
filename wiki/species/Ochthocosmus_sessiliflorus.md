@@ -7,6 +7,9 @@ family: Ixonanthaceae
 vol: 21
 pages: 58-60
 source: sources/Ixonanthaceae_vol21_paddle
+countries: [Cameroon, Gabon, Ghana]
+in_region: true
+habit: "tree"
 tags: [species, generated]
 ---
 # *Ochthocosmus sessiliflorus* (Oliver) Baillon
@@ -57,7 +60,7 @@ Trilles 63, rivière Ikoï, village d'Elan (bout., juin).
 
 ![Ochthocosmus sessiliflorus](../sources/Ixonanthaceae_vol21_paddle/figures/fig_013_p0059.png)
 
-*PL. 13. — Ochthocosmus sessiliflorus (Oliv.) Baill. : 1, rameau florifère × 2/3 (Le Testu 5842); 2, détail de l'inflorescence × 1,5; 3, centre de la fleur × 3 (Le Testu 5842); 4, fruit ouvert × 3; 5, graine × 3 (4-5, Klaine 23). — O. congolensis De Wild. & Th. Dur. : 6, rameau florifère × 2/3 (Davies 283); 7, détail de l'inflorescence × 1,5; 8, centre de la fleur × 3.*
+*PL. 13. — Ochthocosmus sessiliflorus (Oliv.) Baill. : 1, flowering branch × 2/3 (Le Testu 5842); 2, detail of the inflorescence × 1,5; 3, center of the flower × 3 (Le Testu 5842); 4, open fruit × 3; 5, seed × 3 (4-5, Klaine 23). — O. congolensis De Wild. & Th. Dur. : 6, flowering branch × 2/3 (Davies 283); 7, detail of the inflorescence × 1,5; 8, center of the flower × 3.*
 
 ## Notes
 

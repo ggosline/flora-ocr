@@ -7,6 +7,9 @@ family: Brassicaceae
 vol: 30
 pages: 65-72
 source: sources/Capparidaceae_vol30_paddle
+countries: [Cameroon, Gabon, Nigeria]
+in_region: true
+habitat: [coastal]
 tags: [species, generated]
 ---
 # *Ritchiea capparoides* (Andrews) Britten
@@ -87,7 +90,7 @@ Le Testu 7132, Lastoursville (fl., avril), BM, P; 8267, Didati (fl., août), BM,
 
 ![Ritchiea capparoides](../sources/Capparidaceae_vol30_paddle/figures/fig_009_p0066.png)
 
-*PL. 8. – Ritchiea capparoides (Andrews) Britten («Groupe A»): 1, pétale × 1; 2, portion de pédicelle avec tore montrant les cicatrices des étamines caduques, base du gynophore × 1; 3, fleur × 1/3; 4, diagramme floral; 5, portion de tige avec inflorescences en bouquets, boutons floraux × 1/3; 6, inflorescence, feuille et portion de tige × 1/3; 7, fruit et portion de pédoncule × 1/3; 8, 9, ovaire et portion de gynophore × 2, coupe transversale × 4 (1, 2, 4, 8, Le Testu 9244, Gabon; 5, 6, Breteler 2198; 7, Letouzey 8433; 3, 9, Breteler 1006).*
+*PL. 8. – Ritchiea capparoides (Andrews) Britten ("Group A"): 1, petal × 1; 2, portion of pedicel with torus showing scars of caducous stamens, base of gynophore × 1; 3, flower × 1/3; 4, floral diagram; 5, portion of stem with inflorescences in clusters, flower buds × 1/3; 6, inflorescence, leaf and portion of stem × 1/3; 7, fruit and portion of peduncle × 1/3; 8, 9, ovary and portion of gynophore × 2, transverse section × 4 (1, 2, 4, 8, Le Testu 9244, Gabon; 5, 6, Breteler 2198; 7, Letouzey 8433; 3, 9, Breteler 1006).*
 
 ## Notes
 

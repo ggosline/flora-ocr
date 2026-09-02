@@ -5,17 +5,15 @@ authority: Engl.
 genus: Limaciopsis
 family: Menispermaceae
 synonyms: []
-habit: liana
-habitat: [primary forest, secondary forest, gallery forest, savanna grove]
-altitude_m: "up to 100 (Gabon); up to 500 elsewhere"
-countries: [Central African Republic, Democratic Republic of the Congo, Gabon, Republic of the Congo]
-subdivisions:
-  Gabon: [Nyanga]
-in_region: true
 treatments:
   - vol: 60
     pages: "57"
     source: sources/Menispermaceae_vol60_liteparse
+countries: [Central African Republic, Democratic Republic of the Congo, Gabon, Republic of the Congo]
+in_region: true
+subdivisions:
+  Gabon: [Nyanga]
+habit: "liana"
 tags: [species]
 ---
 

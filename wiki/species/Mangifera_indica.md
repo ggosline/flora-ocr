@@ -7,6 +7,11 @@ family: Anacardiaceae
 vol: 50
 pages: 19-21
 source: sources/Anacardiaceae_vol50_liteparse
+countries: [Gabon]
+in_region: true
+habit: "tree"
+habitat: [secondary forest]
+altitude_m: "0–700"
 tags: [species, generated]
 ---
 # *Mangifera indica* L. Planche 5

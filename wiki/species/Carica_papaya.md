@@ -7,6 +7,10 @@ family: Caricaceae
 vol: 40
 pages: 22-25
 source: sources/Caricaceae_vol40_liteparse
+countries: [Gabon]
+in_region: true
+habit: "tree"
+altitude_m: "1500"
 tags: [species, generated]
 ---
 # *Carica papaya* L.

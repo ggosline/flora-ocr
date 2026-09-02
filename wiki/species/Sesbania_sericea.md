@@ -7,6 +7,12 @@ family: Leguminosae
 vol: 49
 pages: 348-349
 source: sources/Millettiaspeciesfabaceae_vol49_liteparse
+countries: [Angola, Gabon, Senegal]
+in_region: true
+subdivisions:
+  Gabon: [Estuaire]
+habit: "herb"
+altitude_m: "800"
 tags: [species, generated]
 ---
 # *Sesbania sericea* (Willd.) Link

@@ -4,14 +4,13 @@ name: Pandanus teuszii
 authority: Warburg
 genus: Pandanus
 family: Pandanaceae
-countries: [Gabon]
-in_region: true
 treatments:
   - vol: 28
     pages: "20–22"
     source: sources/Pandanaceae_vol28_paddle
+countries: [Gabon]
+in_region: true
 tags: [species]
-countries_incomplete: true
 ---
 
 # *Pandanus teuszii* Warburg

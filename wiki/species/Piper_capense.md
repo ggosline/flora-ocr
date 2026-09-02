@@ -7,6 +7,13 @@ family: Piperaceae
 vol: 50
 pages: 75-75
 source: sources/Piperaceae_vol50_liteparse
+countries: [Gabon, Madagascar]
+in_region: true
+subdivisions:
+  Gabon: [Ngounié, Ogooué-Ivindo]
+habit: "liana"
+habitat: [gallery forest]
+altitude_m: "700"
 tags: [species, generated]
 ---
 # *Piper capense* L.f. var. capense Planche 27

@@ -7,6 +7,8 @@ family: Acanthaceae
 vol: 13
 pages: 134-136
 source: sources/Acanthaceae_vol13_paddle
+countries: [Cameroon, Nigeria]
+in_region: true
 tags: [species, generated]
 ---
 # *Asystasia macrophylla* (T. Anders.) Lindau

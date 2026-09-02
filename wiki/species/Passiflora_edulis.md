@@ -7,6 +7,12 @@ family: Passifloraceae
 vol: 46
 pages: 92-93
 source: sources/Passifloraceae_vol46_liteparse
+countries: [Gabon]
+in_region: true
+subdivisions:
+  Gabon: [Haut-Ogooué, Ogooué-Maritime, Woleu-Ntem]
+habit: "liana"
+altitude_m: "500"
 tags: [species, generated]
 ---
 # *Passiflora edulis* Sims

@@ -7,6 +7,9 @@ family: Begoniaceae
 vol: 39
 pages: 29-29
 source: sources/Begoniaceae_vol39_liteparse
+countries: [Cameroon, Gabon]
+in_region: true
+habitat: [primary forest, rocky ground]
 tags: [species, generated]
 ---
 # *Begonia potamophila* Gilg

@@ -7,6 +7,7 @@ family: Marantaceae
 vol: 09
 pages: 158-160
 source: sources/Marantaceae_vol09_paddle
+habit: "herb"
 tags: [species, generated]
 ---
 # *Megaphrynium macrostachyum* (Benth.) M.-Redh.

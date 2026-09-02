@@ -7,6 +7,9 @@ family: Combretaceae
 vol: 35
 pages: 16-17
 source: sources/Combretaceae_vol35_paddle
+countries: [Gabon, Liberia]
+in_region: true
+habit: "liana"
 tags: [species, generated]
 ---
 # *Combretum aphanopetalum* Engler & Diels

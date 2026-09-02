@@ -7,6 +7,12 @@ family: Leguminosae
 vol: 49
 pages: 125-126
 source: sources/Millettiaspeciesfabaceae_vol49_liteparse
+countries: [Equatorial Guinea, Gabon, Republic of the Congo]
+in_region: true
+subdivisions:
+  Gabon: [Estuaire, Ngounié, Ogooué-Ivindo, Ogooué-Lolo, Ogooué-Maritime]
+habit: "liana"
+altitude_m: "0–900"
 tags: [species, generated]
 ---
 # *Dalbergia fouilloyana* Pellegr.

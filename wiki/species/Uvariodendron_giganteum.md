@@ -7,6 +7,10 @@ family: Annonaceae
 vol: 16
 pages: 0-0
 source: sources/Annonaceae_vol16_mineru
+countries: [Angola, Cameroon, Equatorial Guinea, Gabon, Republic of the Congo]
+in_region: true
+habit: "tree"
+altitude_m: "900–950"
 tags: [species, generated]
 ---
 # *Uvariodendron giganteum* (Engl.) R. E. Fries
@@ -21,13 +25,11 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Shrub or small tree 5–10 m tall, with short trunk, very much branched and leaning. Branches thick, becoming glabrous rapidly. Leaves with thick, twisted petiole, 1.5–2 cm long, 0.7–1 cm in diameter, channelled above, grayish silky in young leaves, becoming glabrous rapidly; blade papyraceous, oblong-obovate, 40–72 cm long, 11–23 cm wide, widest above the middle, attenuate to distinctly rounded and shortly acuminate at the apex, narrowed towards the rounded base; upper surface glabrous with median nerve strongly impressed, lower surface grayish tomentose with long and silky hairs in young leaves, becoming glabrous rapidly, with median nerve strongly prominent. Lateral nerves 28–30 pairs, obliquely ascending, united in arches very close to the margin; reticulum well visible on both surfaces, plane on the upper surface, slightly salient on the lower surface.
 
-Arbuste ou petit arbre de 5-1o m de hauteur,á tronc court, trés rameux et penché.Rameaux épais,devenant rapidement glabres. Feuilles â pétiole épais, tordu, long de 1,5-2 cm,de o,7- I cm de diametre,canaliculé au-dessus, soyeux grisatre chez les jeunes feuilles,devenant rapidement glabre;limbe papyracé, oblong-obové,long de 4o-72 cm,large de 11-23 cm, a plus grande largeur au-dessus du milieu,atténué â nettement arrondi et courtement acuminé au sommet,rétréci vers la base arrondie; face supérieure glabre ä nervure médiane fortement imprimee, face inférieure tomenteuse grisatre ä poils longs et soyeux chez les jeunes feuilles, devenant rapidement glabre, ä nervure médiane fortement proéminente. Nervures latérales 28-3o paires,obliques ascendantes,réunies en arceaux tres pres de la marge;réticulum bien visible sur les deux faces,plan ä la face supérieure,légerement saillant ä la face inférieure.
+Floral buds brown silky over the entire length of the trunk, sessile, surrounded by numerous bracts (6–7) in two vertical rows, sepaloid, semi-orbicular, 10–12 mm long, 11–15 mm wide, densely tomentose silky on the outside, glabrous on the inside. Sepals valvate, enveloping the petals in the bud, broadly ovate, 12–13 mm long, apiculate at the apex, tomentose on the outside, glabrous on the inside. External petals ovate, acute at the apex tomentose on the outside, glabrous on the inside; internal petals smaller, ovate-subrhombic, unguiculate at the base, glabrous on both surfaces, blonde pubescent on a median longitudinal external rib and at the apex. Stamens linear, with very short filaments, connectives glabrous. Carpels numerous, black when dry, linear narrow, with glabrous ovaries, stigmas truncate with a few hairs at the apex. Ovules 14–18, biseriate.
 
-Boutons floraux bruns soyeux sur toute la longueur du tronc, sessiles,entourés de nombreuses bractées (6-7) en deux rangées verticales,sépaloides,semi-orbiculaires, longues de 1o-I2 mm, larges de II-15 mm,densément tomenteuses soyeuses al'extérieur, glabres a 'intérieur. Sépales valvaires,enveloppant les pétales dans le bouton,largement oves,longs de I2-13 mm,apiculés au sommet,tomenteux ä l'extérieur,glabres ä l'intérieur.Pétales externes ovés,aigus au sommet tomenteux ä l'extérieur,glabres á l'intérieur; pétales internes plus petits, ovés-sublosangiques, onguiculés á la base,glabres sur les deux faces,pubescents blonds sur une cote longitudinale médiane externe et au sommet.Etamines linéaires,a filets tres courts, connectifs glabres. Carpelles nombreux,noirs sur le sec,linéaires étroits,a ovaires glabres, stigmates tronqués avec quelques poils au sommet. Ovules 14-18, biseries.
-
-Fruits sessles,de 15 cm de diamétre;méricarpes tres nombreux (jusqu'a 63),obovoides-oblongs,± arrondis au sommet sur le vif, longs de 2,5-6,5 cm,larges de 1,2-2,5 cm,verts,veloutés bruns sur le sec; stipes tres courts,atteignant 1,5 cm par dessication du mcricarpe.Graines bisériées 14-18,elliptiques aplaties, longues de 1-1,5 cm, larges de o,6-o,8 cm.
+Fruits sessile, 15 cm in diameter; mericarps very numerous (up to 63), obovoid-oblong, ± rounded at the apex on the fresh material, 2.5–6.5 cm long, 1.2–2.5 cm wide, green, velvety brown when dry; stipites very short, reaching 1.5 cm through desiccation of the mericarp. Seeds biseriate 14–18, elliptic flattened, 1–1.5 cm long, 0.6–0.8 cm wide.
 
 ## Type
 
@@ -39,23 +41,21 @@ N. Hallé et Le Thomas 525,Bélinga mines de fer (bout., fr.,aout) (holotype P!)
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Species very closely related to U. calophyllum Fries, and difficult to distinguish at first sight, without the young leaves whose pubescence is different: long and grayish silky in U. giganteum, short and brown in U. calophyllum. We have examined only young floral buds (the open flower reaches 7–8 cm according to Fries), but the stamens already have a glabrous connective and the carpels are linear narrow and glabrous, whereas in U. calophyllum, connectives and carpels are pubescent.
 
-Espéce tres voisine d'U. calophyllum Fries,et difficile a distinguer á premiere vue,sans les jeunes feuilles dont la pubescence est différente : longuc ct soycusc grisatre chez U. giganteum, courte et brune chez U.calophyllum. Nous n'avons examiné que de jeunes boutons floraux (la fleur épanouie atteint 7-8 cm d'apres Fries),mais les étamines ont déja un connectif glabre et les carpelles sont linéaires étroits et glabres,alors que chez U. calophyllum,connectifs et carpelles sont pubescents.
+U. giganteum also seems very closely related to U. usambarense Fries, a large tree from East Africa. The leaf differences invoked by Fries to separate these two species are not very convincing when one examines the types, and the fruits of U. giganteum that we possess resemble greatly those which are illustrated in the drawing of Engler's Monograph (1901), attributed by Fries to U. usambarense. Unfortunately, the material of U. usambarense is too poor for us to establish a more detailed comparison; the geographic distribution and the habit of the plant nonetheless suggest that these might be two different species.
 
-U.giganteum semble aussi tres voisin d'U.usambarense Fries, grand arbre d'Afrique orientale.Les différences foliaires invoquees par Fries pour séparer ces deux especes ne sont pas tres probantes lorsqu'on examine les types,et les fruits d'U. giganteum que nous possedons ressemblent beaucoup ä ceux qui sont figurés sur le dessin de la Monographie d'Engler (1go1),rattachés par Fries a U. usambarense. Malheureusement,le matériel d'U. usambarense est trop pauvre pour que nous puissions établir une comparaison plus détaillée; la répartition géographique et le port de la plante laissent tout de méme ä penser qu'il pourrait s'agir de deux especes différentes.
+U. giganteum is a shrub of dense humid forest, known from Cameroon and Gabon, frequent in river beds and in humid places. In association with U. molundense, the latter is always found on the banks, whereas U. giganteum has its roots in the water.
 
-U. giganteum est un arbuste de forét dense humide,connu au Cameroun et au Gabon,fréquent dans le lit des rivieres et dans les endroits humides.En association avec U.molundense, celui-ci se trouve toujours sur les berges, alors que U. giganteum a ses racines dans l'eau.
+U. molundense and U. Letestui were separated from U. mayumbense because their flowers arise on leafless branches or on the stem, whereas in U. mayumbense, they were described as axillary. In fact, we have observed that on these shrubs, the flowers are both axillary on young branches and on older stems, and cauline on the trunk.
 
-U.molundense et U.Letestui ont été séparés d'U.mayumbense en raison de la naissance de leurs fleurs sur des rameaux défeuillés ou sur la tige,alors que dans U.mayumbense,elles ont été décrites comme axillaires.En fait,nous avons constaté que sur ces arbustes, les fleurs sont á la fois axillaires sur les jeunes rameaux et sur les tiges plus ägées,et caulinaires sur le tronc.
+The buds are generally subsessile, brownish, and the pedicel increases slightly in the flower, reaching 1.5 cm, while the petals take on their yellow colour. The leaves are also very variable depending on their position on the shrub, in their size and form, much narrower in the young, which explains up to the present the separation of the two species, U. molundense and U. Letestui.
 
-Les boutons sont généralement subsessiles,brunätres,et le pédicelle s'accroit légerement dans la fleur,pouvant atteindre 1,5 cm,alors que les pétales prennent leur couleur jaune.Les feuilles sont également tres variables suivant leur position sur l'arbuste,dans leur taille et leur forme,beaucoup plus étroite chez les jeunes,ce qui explique jusqu'a présent la séparation des deux espéces,U.molundense et U.Letestui.
+U. molundense is a shrub of dense humid forest, more frequent along watercourses. In Gabon, we encountered it associated with U. giganteum.
 
-U. molundense est un arbuste de forét dense humide,plus fréquent le long des cours d'eau. Au Gabon,nous l'avons rencontré associé a U. giganteum.
+Species widespread in Cameroon, Fernando Po, Gabon, Congo-Brazzaville, Congolese Mayombe and Angola.
 
-Espéce répandue au Cameroun, Fernando-Po, Gabon, Congo-Brazzaville,Mayombe congolais et Angola.
-
-Dans la région de Belinga,cet arbuste de 4-5 m de hauteur est trés fréquent vers 9oo-g5o m d'altitude,a la limite de la grande forét de pente et du fourré de créte. Les feuilles oblongues, longues de 2o-34 cm,larges de 5-1o cm,ont une tres forte odeur de citronelle quand on les froisse.Les jeunes boutons récoltés sont axillaires,mais les fruits se trouvent sur les rameaux defeuillés. Bien que nous n'ayons pas de fleurs épanouies,nous pouvons remarquer que les connectifs des étamines sont glabres alors que dans le bouton de la variété type,pris au méme stade,le connectif est déja pubérulent.Les stigmates sont pubescents, mais nous ne pouvons pas faire de comparaison avec ceux de la varieté type ou ils sont glabres dans la fleur épanouie et pubescents dans le bouton.
+In the Belinga region, this shrub 4–5 m tall is very frequent around 900–950 m altitude, at the limit of the large slope forest and ridge thicket. The oblong leaves, 20–34 cm long, 5–10 cm wide, have a very strong lemongrass odour when crushed. The young buds collected are axillary, but the fruits are found on leafless branches. Although we do not have open flowers, we can note that the connectives of the stamens are glabrous whereas in the bud of the typical variety, taken at the same stage, the connective is already puberulent. The stigmas are pubescent, but we cannot make a comparison with those of the typical variety where they are glabrous in the open flower and pubescent in the bud.
 
 ## Vernacular names
 

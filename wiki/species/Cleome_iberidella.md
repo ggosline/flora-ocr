@@ -7,6 +7,10 @@ family: Brassicaceae
 vol: 30
 pages: 26-29
 source: sources/Capparidaceae_vol30_paddle
+countries: [Angola, Cameroon, Democratic Republic of the Congo, Gabon, Guinea, Nigeria, Uganda, Zambia]
+in_region: true
+habitat: [rocky ground]
+altitude_m: "600"
 tags: [species, generated]
 ---
 # *Cleome iberidella* Welwitsch ex Oliver

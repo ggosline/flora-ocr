@@ -7,6 +7,8 @@ family: Dichapetalaceae
 vol: 32
 pages: 139-143
 source: sources/Dichapetalaceae_vol32_paddle
+countries: [Angola, Cameroon, Democratic Republic of the Congo, Equatorial Guinea, Gabon, Nigeria]
+in_region: true
 tags: [species, generated]
 ---
 # *Dichapetalum mundense* Engler
@@ -71,7 +73,7 @@ Villiers 235, Forêt de la Mondah, entre Libreville et Cap Estérias (fr., Août
 
 ![Dichapetalum mundense](../sources/Dichapetalaceae_vol32_paddle/figures/fig_040_p0142.png)
 
-*PL. 39 – Dichapetalum mundense Engler: 1, rameau florifère × 0,8; 2, bouton floral à peine ouvert × 10; 3, fleur épanouie × 13; 4, fleur, détail × 13; 5, rameau fructifère × 0,8; 6-8, fruit × 0,8 (1, Breteler 2105; 2-5. Breteler 2745; 6, Breteler 6833; 7, Leeuwenberg 8222; 8, Louis 12937). – Repris de MLW 81 (10): 47 (1981).*
+*PL. 39 – Dichapetalum mundense Engler: 1, flowering branch × 0,8; 2, floral bud barely open × 10; 3, open flower × 13; 4, flower, detail × 13; 5, fruiting branch × 0,8; 6-8, fruit × 0,8 (1, Breteler 2105; 2-5. Breteler 2745; 6, Breteler 6833; 7, Leeuwenberg 8222; 8, Louis 12937). – Taken from MLW 81 (10): 47 (1981).*
 
 ## Notes
 

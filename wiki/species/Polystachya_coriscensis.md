@@ -7,6 +7,8 @@ family: Orchidaceae
 vol: 37
 pages: 65-67
 source: sources/Orchidaceae_vol37_paddle
+countries: [Cameroon, Democratic Republic of the Congo, Equatorial Guinea, Gabon, Nigeria]
+in_region: true
 tags: [species, generated]
 ---
 # *Polystachya coriscensis* Rchb.f.

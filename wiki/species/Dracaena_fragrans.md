@@ -7,6 +7,7 @@ family: Dracaenaceae
 vol: 54
 pages: 61-61
 source: sources/Dracaenaceae_vol54_liteparse
+habit: "tree"
 tags: [species, generated]
 ---
 # *Dracaena fragrans* (L.) Ker Gawl.

@@ -31,7 +31,7 @@ Species recorded from Cameroon and Gabon: Mann, 1646, Monts de Cristal (specimen
 
 ![Microcalamus aspidistrula](../sources/Gramineae_vol05_paddle/figures/fig_003_p0023.png)
 
-*PL. II. — Microcalamus aspidistrula Franch. (Zenker 3193) : 1, aspect de la plante; 2, détail de la nervation des feuilles; 3, épillet, longueur 7 mm env.; 4; fleur fertile.*
+*PL. II. — Microcalamus aspidistrula Franch. (Zenker 3193) : 1, appearance of the plant; 2, detail of the venation of the leaves; 3, spikelet, length 7 mm approx.; 4; fertile flower.*
 
 ## Notes
 

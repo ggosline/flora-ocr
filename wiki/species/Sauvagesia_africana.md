@@ -7,6 +7,12 @@ family: Ochnaceae
 vol: 48
 pages: 90-91
 source: sources/Ochnaceae_vol48_liteparse
+countries: [Democratic Republic of the Congo, Gabon, Republic of the Congo, Uganda, Zambia]
+in_region: true
+subdivisions:
+  Gabon: [Haut-Ogooué]
+habit: "herb"
+altitude_m: "400"
 tags: [species, generated]
 ---
 # *Sauvagesia africana* (Baill.) Bamps Planche 26(7–11)

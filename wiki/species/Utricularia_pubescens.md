@@ -7,6 +7,10 @@ family: Lentibulariaceae
 vol: 54
 pages: 111-115
 source: sources/Lentibulariaceae_vol54_liteparse
+countries: [Angola, Cameroon, Central African Republic, Cote d'Ivoire, Democratic Republic of the Congo, Gabon, Guinea, Liberia, Malawi, Nigeria, Senegal, Sierra Leone, Tanzania, Uganda, Zambia, Zimbabwe]
+in_region: true
+habit: "herb"
+altitude_m: "1900"
 tags: [species, generated]
 ---
 # *Utricularia pubescens* Sm. Planche 39, Figure 11(D, E)
@@ -16,29 +20,23 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+in Rees, Cyclop. 37: No. 53 (1818). Terrestrial herb; rhizoids and capillary stolons, numerous at the base of the flowering scape. Leaves present at anthesis, spaced along the stolons; blade peltate, orbicular, 2–10 ×
 
-in Rees, Cyclop. 37: No. 53 (1818). Herbe terrestre ; rhizoïdes et stolons capillaires, nombreux à la base de la hampe florale. Feuilles présentes à l’anthèse, espacées sur les stolons ; limbe pelté, orbiculaire, 2–10 ×
+Flower, front view (× 8). – 7. Calyx and ovary (× 8). – 8. Stamen (× 16). – 9. Ovary (× 16). – 10. Ovary glands (× 150). – 11. Capsule, ventral view (× 8). – 12. Seed, basal view (× 30). – 13. Seed, lateral view (× 30). – 14. Cells of the testa (× 150). (1, 2, 8, 9 : Drummond & Hemsley 2356 ; 3 : Germain 6789 ; 4, 5 : Bullock 2428 ; 6 : Toussaint 904 ; 7, 10, 11, 14 : Faulkner 2946 ; 12, 13 : Andrews WN116 ). Drawing by P. Taylor, Royal Botanic Gardens, Kew (©), reproduced with permission from Taylor (1989).
 
-Fleur, vue de face (× 8). – 7. Calice et ovaire (× 8). – 8. Étamine (× 16). – 9. Ovaire (× 16). – 10. Glandes de l’ovaire (× 150). – 11. Capsule, vue ventrale (× 8). – 12. Graine, vue basale (× 30). – 13. Graine, vue latérale (× 30). – 14. Cellules du testa (× 150). (1, 2, 8, 9 : Drummond & Hemsley 2356 ; 3 : Germain 6789 ; 4, 5 : Bullock 2428 ; 6 : Toussaint 904 ; 7, 10, 11, 14 : Faulkner 2946 ; 12, 13 : Andrews WN116 ). Dessin par P. Taylor, Royal Botanic Gardens, Kew (©), reproduit avec permission à partir de Taylor (1989).
+Stanfield 83 ; 2 : Haarer 2439 ; 4 : Jaeger 1992 ; 5, 8 : Richards s.n. ; 6, 15, 17 : Milne-Redhead & Taylor 7795 ; 7, 21 : Baldwin 13004 ; 9, 10, 14, 20 : Ross 1508 ; 11, 18, 19 : Baldwin 13297 ; 12 : Steyermark & Dunsterville s.n. ; 13 : Baldwin 13205 ; 16 : Bogner 1177 ; 22 : A.S. Thomas 1291 ). Drawing by P. Taylor, Royal Botanic Gardens, Kew (©), reproduced with permission from Taylor (1989).
 
-Stanfield 83 ; 2 : Haarer 2439 ; 4 : Jaeger 1992 ; 5, 8 : Richards s.n. ; 6, 15, 17 : Milne-Redhead & Taylor 7795 ; 7, 21 : Baldwin 13004 ; 9, 10, 14, 20 : Ross 1508 ; 11, 18, 19 : Baldwin 13297 ; 12 : Steyermark & Dunsterville s.n. ; 13 : Baldwin 13205 ; 16 : Bogner 1177 ; 22 : A.S. Thomas 1291 ). Dessin par P. Taylor, Royal Botanic Gardens, Kew (©), reproduit avec permission à partir de Taylor (1989).
+B A C D E A. Fleischmann © ; C-E by J.P. Vande weghe ©).
 
-B A C D E A. Fleischmann © ; C-E par J.P. Vande weghe ©).
-
-1–5 mm . Utricules nombreux, stipités, ovoïdes, 0,5–0,8 mm de longueur ; orifice terminal, à lèvre supérieure saillante, l’inférieure à peine saillante, les 2 lèvres ornées de rangs pectiniformes de poils glanduleux. Inflorescence dressée, 2–35 cm de longueur, avec 1 à 6(–10) fleurs ; pédoncule papilleux ou rarement entièrement glabre ; bractées peu décurrentes sous leur point d’insertion, ovales, ± 1 mm de longueur, aiguës au sommet, tronquées à la base, denticulées dans la moitié supérieure. Fleur : bractéoles semblables aux bractées mais plus étroites ; pédicelle 0,5–2 mm , cylindrique, ordinairement plus court que le calice fructifère ; calice à lobes subégaux ; corolle 2–16 mm de longueur, blanche ou lilas pâle avec une tache jaune sur le palais , lèvre supérieure étroitement oblongue, arrondie, tronquée à émarginée au sommet, lèvre inférieure orbiculaire, palais très saillant, orné de 2 crêtes transversalement tuberculées, éperon conique-subulé, jusqu’à ± 4 fois aussi long que la lèvre supérieure. Fruit globuleux, 1–2 mm de diamètre, déhiscent par 1 fente longitudinale, à bords épaissis, à nombreuses graines. Graine conique-tronquée, anguleuse, ± 0,25 mm de longueur ; testa lisse, à cellules distinctes et oblongues.
+1–5 mm. Utricles numerous, stipitate, ovoid, 0.5–0.8 mm in length; orifice terminal, with upper lip salient, lower lip scarcely salient, the 2 lips ornamented with pectiniform rows of glandular hairs. Inflorescence erect, 2–35 cm in length, with 1 to 6(–10) flowers; peduncle papillose or rarely entirely glabrous; bracts scarcely decurrent below their point of insertion, ovate, ± 1 mm in length, acute at the apex, truncate at the base, denticulate in the upper half. Flower: bracteoles similar to the bracts but narrower; pedicel 0.5–2 mm, cylindric, usually shorter than the fruiting calyx; calyx with subequal lobes; corolla 2–16 mm in length, white or pale lilac with a yellow patch on the palate, upper lip narrowly oblong, rounded, truncate to emarginate at the apex, lower lip orbicular, palate very salient, ornamented with 2 transversely tuberculate ridges, spur conical-subulate, up to ± 4 times as long as the upper lip. Fruit globose, 1–2 mm in diameter, dehiscent by 1 longitudinal fissure, with thickened margins, with numerous seeds. Seed conical-truncate, angular, ± 0.25 mm in length; testa smooth, with distinct and oblong cells.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Sénégal, Guinée, Sierra Leone, Libéria, Côte d’Ivoire, Nigéria, Cameroun, Gabon, République centrafricaine, République démocratique du Congo, Éthiopie, Ouganda, Tanzanie, Zambie, Ma lawi, Zimbabwe et Angola ; aussi en Amérique centrale et méridionale (du Panama au Brésil) et en Inde (Uttar Pradesh, Meghalaya) ; au Gabon jusqu’à présent n’est connu que par une photo prise au Parc National de Mayumba
+Senegal, Guinea, Sierra Leone, Liberia, Ivory Coast, Nigeria, Cameroon, Gabon, Central African Republic, Democratic Republic of the Congo, Ethiopia, Uganda, Tanzania, Zambia, Malawi, Zimbabwe and Angola; also in Central and South America (from Panama to Brazil) and in India (Uttar Pradesh, Meghalaya); in Gabon so far known only from a photograph taken in Mayumba National Park
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-savanes marécageuses et rochers humides (au Gabon l’habitat est inconnu) ; en Afrique de l’Ouest et de l’Est entre 0 et 1900 m d’altitude. B : Taylor (1964, 1972, 1989). i B liographie
+swampy savannas and wet rocks (in Gabon the habitat is unknown); in West and East Africa between 0 and 1900 m altitude. B : Taylor (1964, 1972, 1989). Bibliography
 
 ## Notes
 

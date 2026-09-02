@@ -7,6 +7,12 @@ family: Cyperaceae
 vol: 44
 pages: 20-21
 source: sources/Cyperaceae_vol44_liteparse
+countries: [Democratic Republic of the Congo, Gabon, Madagascar, Uganda]
+in_region: true
+subdivisions:
+  Gabon: [Estuaire, Moyen-Ogooué, Ngounié, Ogooué-Maritime]
+habit: "herb"
+altitude_m: "1180"
 tags: [species, generated]
 ---
 # *Bulbostylis cardiocarpoides* Cherm. Planche 6

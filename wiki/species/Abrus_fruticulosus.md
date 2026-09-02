@@ -7,6 +7,13 @@ family: Leguminosae
 vol: 49
 pages: 19-21
 source: sources/Millettiaspeciesfabaceae_vol49_liteparse
+countries: [Gabon]
+in_region: true
+subdivisions:
+  Gabon: [Haut-Ogooué, Ogooué-Maritime]
+habit: "liana"
+habitat: [savanna]
+altitude_m: "170"
 tags: [species, generated]
 ---
 # *Abrus fruticulosus* Wall. ex Wight & Arn.

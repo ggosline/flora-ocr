@@ -7,6 +7,9 @@ family: Marantaceae
 vol: 09
 pages: 138-141
 source: sources/Marantaceae_vol09_paddle
+countries: [Democratic Republic of the Congo]
+in_region: true
+habitat: [swamp forest]
 tags: [species, generated]
 ---
 # *Halopegia azurea* (K. Schum.) K. Schum.
@@ -48,7 +51,7 @@ R. P. Duparquet : s. n. ni loc. Mgr Leroy : s. n., Ogooué. Klaine : 3515, envir
 
 ![Halopegia azurea](../sources/Marantaceae_vol09_paddle/figures/fig_032_p0139.png)
 
-*PL. XXIX. — Halopegia azurea (K. Schum.) K. Schum. (Chevalier 1686): 1, base de la plante et feuille; 2, inflorescence; 3, fruit, longueur 12 mm; 4, graine, longueur 10 mm; 5, coupe transversale de la graine. — Thalia Welwitschii Ridl. (Maclaud 130): 6, feuille et partie de l'inflorescence; 7, couronne staminale, grandeur nature, d'après un dessin original de Gagnepain; 8, fruit, longueur 10 mm; 9, graine, longueur 7 mm; 10, coupe transversale de la graine.*
+*PL. XXIX. — Halopegia azurea (K. Schum.) K. Schum. (Chevalier 1686): 1, base of the plant and leaf; 2, inflorescence; 3, fruit, length 12 mm; 4, seed, length 10 mm; 5, transverse section of the seed. — Thalia Welwitschii Ridl. (Maclaud 130): 6, leaf and part of the inflorescence; 7, staminial crown, natural size, after an original drawing by Gagnepain; 8, fruit, length 10 mm; 9, seed, length 7 mm; 10, transverse section of the seed.*
 
 ## Notes
 

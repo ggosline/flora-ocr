@@ -7,6 +7,12 @@ family: Cyperaceae
 vol: 44
 pages: 166-167
 source: sources/Cyperaceae_vol44_liteparse
+countries: [Democratic Republic of the Congo, Equatorial Guinea, Gabon, Tanzania]
+in_region: true
+subdivisions:
+  Gabon: [Ngounié, Ogooué-Ivindo, Ogooué-Lolo, Woleu-Ntem]
+habit: "herb"
+altitude_m: "0–600"
 tags: [species, generated]
 ---
 # *Mapania afro-orientalis* Lye Planche 108, Figure 14a

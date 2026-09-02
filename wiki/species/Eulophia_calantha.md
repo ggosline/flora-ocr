@@ -7,6 +7,8 @@ family: Orchidaceae
 vol: 37
 pages: 91-93
 source: sources/Orchidaceae_vol37_paddle
+countries: [Angola, Burundi, Democratic Republic of the Congo, Gabon, Guinea, Kenya, Malawi, Rwanda, Tanzania, Uganda, Zambia]
+in_region: true
 tags: [species, generated]
 ---
 # *Eulophia calantha* Schltr.

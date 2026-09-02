@@ -5,18 +5,16 @@ authority: Baill.
 genus: Dioncophyllum
 family: Dioncophyllaceae
 synonyms: []
-countries: [Gabon, Republic of the Congo]
-subdivisions:
-  Gabon: [Haut-Ogooué, Moyen-Ogooué, Ngounié, Nyanga, Ogooué-Ivindo, Ogooué-Lolo, Ogooué-Maritime]
-in_region: true
-habit: evergreen liana or scrambling shrub
-habitat: [primary forest, secondary forest, forest edge, riverine forest, roadside, forest islands in savanna]
-altitude_m: "15–700"
 treatments:
   - vol: 52
     year: 2018
     pages: "20–21"
     source: sources/Dioncophyllaceae_vol52_liteparse
+countries: [Gabon, Republic of the Congo]
+in_region: true
+subdivisions:
+  Gabon: [Estuaire, Woleu-Ntem]
+habit: "liana"
 tags: [species]
 ---
 

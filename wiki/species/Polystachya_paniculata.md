@@ -7,6 +7,9 @@ family: Orchidaceae
 vol: 37
 pages: 39-39
 source: sources/Orchidaceae_vol37_paddle
+countries: [Cameroon, Central African Republic, Cote d'Ivoire, Democratic Republic of the Congo, Gabon, Ghana, Liberia, Nigeria, Sierra Leone, Togo, Uganda]
+in_region: true
+habitat: [secondary forest]
 tags: [species, generated]
 ---
 # *Polystachya paniculata* (Sw.) Rolfe
@@ -39,7 +42,7 @@ J. M. & B. Reitsma, Breteler & Louis 866, Chantier Rougier Océan, Oveng, forest
 
 ![Polystachya paniculata](../sources/Orchidaceae_vol37_paddle/figures/fig_011_p0040.png)
 
-*PL. 118. – Polystachya paniculata (Sw.) Rolfe : A, fleur et bractée florale ; B, C, labelle ; D, sépale dorsal ; E, pétale ; F, sépale latéral ; G, feuille. – Polystachya rhodoptera Rchb.f. : H, fleur et bractée florale ; I, labelle en position naturelle ; J, labelle étalé ; K, sépale dorsal ; L, pétale ; M, sépale latéral (A-G, Tisserant 375, P ; H-M, Hallé & Villiers 4328, P).*
+*PL. 118. – Polystachya paniculata (Sw.) Rolfe : A, flower and floral bract ; B, C, lip ; D, dorsal sepal ; E, petal ; F, lateral sepal ; G, leaf. – Polystachya rhodoptera Rchb.f. : H, flower and floral bract ; I, lip in natural position ; J, lip spread ; K, dorsal sepal ; L, petal ; M, lateral sepal (A-G, Tisserant 375, P ; H-M, Hallé & Villiers 4328, P).*
 
 ![Polystachya paniculata](../sources/Orchidaceae_vol37_paddle/figures/fig_130_p0250.png)
 

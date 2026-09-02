@@ -7,6 +7,9 @@ family: Sapindaceae
 vol: 23
 pages: 136-136
 source: sources/Sapindaceae_vol23_paddle
+countries: [Cameroon, Gabon]
+in_region: true
+habit: "tree"
 tags: [species, generated]
 ---
 # *Placodiscus glandulosus* Radlkofer
@@ -34,7 +37,7 @@ Plants known only from Gabon and Cameroon, with reddish flowers (ANNET) or yello
 
 ![Placodiscus glandulosus](../sources/Sapindaceae_vol23_paddle/figures/fig_031_p0133.png)
 
-*PL. 31. — Placodiscus leptostachys Radlk. (Vigne 1612, Ghana) : 1, foliole 4° paire, limbe 28 × 9 cm; 2, inflorescence sur vieux bois 25 cm; 2', moignons des cymules; 3, jeune fruit, diamètre 6 mm; 3', coupe transversale de jeune fruit. — Placodiscus glandulosus Radlk. (1-3", Zenker 941; 7-9, Klaine 1208) : 4, foliole 3° paire 32 × 8,8 cm; 5, inflorescence sur vieux bois 20 cm; 5', cymule de base; 5", cymule du sommet; 6, coupe de bouton, diamètre 2 mm; 6', fleur épanouie, diamètre 4 mm; 6", poil glanduleux; 7, rachis fructifère 6 cm; 8, fruit 3,5 cm; 8', coupe transversale; 9, graine.*
+*PL. 31. — Placodiscus leptostachys Radlk. (Vigne 1612, Ghana) : 1, leaflet 4th pair, blade 28 × 9 cm; 2, inflorescence on old wood 25 cm; 2', stubs of cymules; 3, young fruit, diameter 6 mm; 3', transverse section of young fruit. — Placodiscus glandulosus Radlk. (1-3", Zenker 941; 7-9, Klaine 1208) : 4, leaflet 3rd pair 32 × 8,8 cm; 5, inflorescence on old wood 20 cm; 5', basal cymule; 5", apical cymule; 6, section of bud, diameter 2 mm; 6', open flower, diameter 4 mm; 6", glandular hair; 7, fruiting rachis 6 cm; 8, fruit 3,5 cm; 8', transverse section; 9, seed.*
 
 ## Notes
 

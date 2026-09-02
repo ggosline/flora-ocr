@@ -7,6 +7,9 @@ family: Leguminosae
 vol: 15
 pages: 159-160
 source: sources/Leguminosae_vol15_paddle
+countries: [Cameroon, Gabon]
+in_region: true
+habit: "tree"
 tags: [species, generated]
 ---
 # *Tessmannia anomala* (Micheli) Harms
@@ -48,7 +51,7 @@ Le Testu : 7753, Sacamicanda (fl. déc.); 8568, Maciya, région de Lastoursville
 
 ![Tessmannia anomala](../sources/Leguminosae_vol15_paddle/figures/fig_035_p0158.png)
 
-*PL. XXXV. — Tessmannia anomala (Micheli) Harms : 1, rameau florifère × 2 /3; 2, foliole, gr. nat.; 3, fleur × 2; 4, pétale × 2; 5, pistil dans le bouton × 2; 6, jeunes fruits × 2 /3; 7, vieux fruit × 2 /3; 8, graine × 2 /3.*
+*PL. XXXV. — Tessmannia anomala (Micheli) Harms : 1, flowering branch × 2 /3; 2, leaflet, nat. size; 3, flower × 2; 4, petal × 2; 5, pistil in the bud × 2; 6, young fruits × 2 /3; 7, old fruit × 2 /3; 8, seed × 2 /3.*
 
 ## Notes
 

@@ -7,6 +7,9 @@ family: Orchidaceae
 vol: 36
 pages: 125-129
 source: sources/Orchidaceae_vol36_paddle
+countries: [Angola, Burundi, Central African Republic, Equatorial Guinea, Malawi, Rwanda, Sao Tome and Principe, Senegal, Tanzania, Uganda, Zambia, Zimbabwe]
+in_region: true
+habitat: [mangrove, swamp forest, savanna, secondary forest, evergreen forest]
 tags: [species, generated]
 ---
 # *Liparis nervosa* (Thunb.) Lindl.

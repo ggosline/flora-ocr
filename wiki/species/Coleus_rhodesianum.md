@@ -6,6 +6,12 @@ genus: Coleus
 vol: 58
 pages: 61-61
 source: sources/Labiataeulmaceaeverbenaceae_vol58_liteparse
+countries: [Angola, Cameroon, Democratic Republic of the Congo, Gabon, Nigeria, Republic of the Congo]
+in_region: true
+subdivisions:
+  Gabon: [Estuaire, Haut-Ogooué, Ngounié]
+habit: "herb"
+altitude_m: "100–630"
 tags: [species, generated]
 ---
 # *Coleus rhodesianum* (N.E.Br.) A.J.Paton

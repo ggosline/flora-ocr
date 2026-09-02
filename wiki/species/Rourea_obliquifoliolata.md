@@ -7,6 +7,9 @@ family: Connaraceae
 vol: 33
 pages: 129-131
 source: sources/Connaraceae_vol33_paddle
+countries: [Angola, Democratic Republic of the Congo, Nigeria]
+in_region: true
+habit: "liana"
 tags: [species, generated]
 ---
 # *Rourea obliquifoliolata* Gilg
@@ -69,7 +72,7 @@ Wilks MINK-S-36, Minkébé (st., Mar.), WAG.
 
 ![Rourea obliquifoliolata](../sources/Connaraceae_vol33_paddle/figures/fig_046_p0128.png)
 
-*PL. 40. – Rourea obliquifoliolata Gilg: 1, jeune rameau florifère × 2/3; 2, jeune fleur, vue de dessus × 4; 3, idem, vue partielle montrant les pétales enroulés au sommet × 4; 4, fleur × 5; 5, étamines et carpelles d'une fleur longistylée × 4; 6, jeune rameau fructifère × 2/3; 7, fruit × 2/3; 8, graine, vue de dessous montrant un sarcotesta (partie foncée) et le hile × 2; 9, idem, vue partielle (cotylédon retiré) montrant la face interne d'un cotylédon avec la radicule ventrale × 2; 10, cotylédon avec radicule ventrale × 2. (1. Breteler 6240; 2-5. A. Louis & al. 938; 6, 10. Reitsma & al. 1280; 7-9. A. Louis & al. 515). – Repris de AUWP 89 (6).*
+*PL. 40. – Rourea obliquifoliolata Gilg: 1, young flowering branch × 2/3; 2, young flower, seen from above × 4; 3, idem, partial view showing the petals rolled at the apex × 4; 4, flower × 5; 5, stamens and carpels of a long-styled flower × 4; 6, young fruiting branch × 2/3; 7, fruit × 2/3; 8, seed, seen from below showing a sarcotesta (dark part) and the hilum × 2; 9, idem, partial view (cotyledon removed) showing the internal surface of a cotyledon with the ventral radicle × 2; 10, cotyledon with ventral radicle × 2. (1. Breteler 6240; 2-5. A. Louis & al. 938; 6, 10. Reitsma & al. 1280; 7-9. A. Louis & al. 515). – Taken from AUWP 89 (6).*
 
 ## Notes
 

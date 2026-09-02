@@ -7,6 +7,9 @@ family: Burseraceae
 vol: 03
 pages: 88-91
 source: sources/Burseraceae_vol03_paddle
+countries: [Cameroon, Gabon]
+in_region: true
+habit: "tree"
 tags: [species, generated]
 ---
 # *Dacryodes igagang* Aubr. et Pellegr. sp. nov. (1).

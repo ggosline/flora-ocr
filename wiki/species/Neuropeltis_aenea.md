@@ -7,6 +7,12 @@ family: Convolvulaceae
 vol: 46
 pages: 55-55
 source: sources/Convolvulaceae_vol46_liteparse
+countries: [Angola, Democratic Republic of the Congo, Equatorial Guinea, Gabon, Republic of the Congo]
+in_region: true
+subdivisions:
+  Gabon: [Ogooué-Maritime]
+habit: "liana"
+habitat: [secondary forest]
 tags: [species, generated]
 ---
 # *Neuropeltis aenea* R.D.Good

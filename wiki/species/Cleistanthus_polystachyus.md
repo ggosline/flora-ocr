@@ -7,6 +7,11 @@ family: Phyllanthaceae
 vol: 43
 pages: 33-33
 source: sources/Phyllanthaceae_vol43_liteparse
+countries: [Gabon]
+in_region: true
+habit: "tree"
+habitat: [secondary forest]
+altitude_m: "0–900"
 tags: [species, generated]
 ---
 # *Cleistanthus polystachyus* Hook.f. ex Planch.

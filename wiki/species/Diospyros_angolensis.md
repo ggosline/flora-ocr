@@ -7,16 +7,14 @@ family: Ebenaceae
 status: spec. nov.
 type_specimen: "Angola, Luanda Province, coastal region, 1903, fr., Gossweiler 789 (holotype: P; isotypes: BM, FHO, K)"
 synonyms: []
-habit: tree
-habitat: [coastal forest, riverine forest]
-countries: [Angola]
-in_region: true
 treatments:
   - kind: article
     year: 2025
     citation: "Mestre Serra E., Puglisi C., Linan A.G., Meeprom N., Rakouth H.N., Schmidt H.H. & Lowry II P.P. (2025). A taxonomic revision of the continental African material previously included in Diospyros ferrea (Ebenaceae). Plant Ecology and Evolution."
     pages: "1-18"
     source: sources/articles/plecevo_article_140561_en_1/liteparse
+countries: [Angola]
+in_region: true
 tags: [species, novelty]
 ---
 

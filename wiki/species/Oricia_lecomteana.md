@@ -5,10 +5,9 @@ authority: Pierre
 genus: Oricia
 family: Rutaceae
 synonyms: []
+treatments: [{vol: 6, pages: "62–64", source: sources/Rutaceae_vol6_paddle}]
 countries: [Gabon]
 in_region: true
-habit: woody plant
-treatments: [{vol: 6, pages: "62–64", source: sources/Rutaceae_vol6_paddle}]
 tags: [species, uncertain-identification]
 ---
 

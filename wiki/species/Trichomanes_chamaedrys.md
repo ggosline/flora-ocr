@@ -20,17 +20,13 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 — Tat., Bull Soc. Bot. Belg. 78 : 25, t. 2, f. k-l (1946). — Alston, FWTA : 30 (1959).
 
-Rhizome très longuement rampant, portant des poils brun foncés. Pétiole de 0,1 à 0,5 cm., poilu à la partie inférieure. Limbe de 1-4 cm., ovale-lancéolé, régulièrement lobé, décurrent à la base, à marge crispée. Nervures pennées. Fausse nervure marginale, fausses nervures latérales anastomosées avec la marginale. Sores largement bordés par le limbe, à indusie dilatée, réceptacle peu longuement exsert.
+Rhizome very extensively creeping, bearing dark brown hairs. Petiole 0.1–0.5 cm, hairy on the lower part. Lamina 1–4 cm, ovate-lanceolate, regularly lobed, decurrent at the base, with crisped margin. Veins pinnate. False marginal vein, false lateral veins anastomosing with the marginal vein. Sori broadly bordered by the lamina, with dilated indusium, receptacle scarcely prominently exsert.
 
-Nous suivons ici Alston en séparant cette espèce du T. erosum, mais il nous semblerait aussi possible, comme nous l'avions
+We follow Alston here in separating this species from T. erosum, but it would also seem possible to us, as we had done previously, to make it merely a variety of this species. The character of the undulation of the lamina margin, given by Alston, is nevertheless a good differential character.
 
-fait précédemment, d'en faire seulement une variété de cette espèce. Le caractère d'ondulation de la marge du limbe, donné par Alston, est cependant un bon caractère différentiel.
-
-Fernando-Po, Côté-d'Ivoire, Sierra-Leone, Congo. Epiphyte corticole hygrophile.
+Fernando-Po, Ivory Coast, Sierra Leone, Congo. Epiphytic corticolous hygrophile.
 
 ## Specimens examined
 

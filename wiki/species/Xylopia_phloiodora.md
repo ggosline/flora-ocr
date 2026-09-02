@@ -7,6 +7,7 @@ family: Annonaceae
 vol: 16
 pages: 0-0
 source: sources/Annonaceae_vol16_mineru
+habit: "tree"
 tags: [species, generated]
 ---
 # *Xylopia phloiodora* Mildbraed
@@ -17,19 +18,17 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Tree 25–35 m in height, reaching 40–70 cm in diameter. Trunk straight, cylindrical, furnished with flattened basal buttresses, rising to 1 m above ground. Rhytidome smooth, pale, greyish-white; bark 1 cm thick, yellow-orange in section; wood yellow, hard. Crown open. Branchlets tomentellous to glabrous. Leaves with petiole 3–7 mm long, canaliculate, puberulent; blade papyraceous to subcoriaceous, elliptic-ovate to narrowly lanceolate, ± falciform, 5–17 cm long, 2–6 cm wide, cuneate to subrounded at base, ± longly acuminate at apex; upper surface glabrous but with puberulent midvein, lower surface ± appressed-pubescent to long-pilose, or glabrescente. Lateral veins 10–12 pairs, plane above, very slightly prominent below.
 
-Arbre de 25-35 m de hauteur,atteignant 4o-7o cm de diamétre.Fut droit,cylindrique,muni de contreforts basilaires aplatis,s'élevant jusqu'a I m du sol. Rhytidome lisse, clair,gris blanchatre;écorce de I cm d'épaisseur,ä section jaune orangé; bois jaune,dur.Cime claire.Rameaux tomentelleux á glabres. Feuilles ä pétiole long de 3-7 mm,canaliculé,pubérulent; limbe papyracé ä subcoriace,elliptique-ové ä étroitement lancéolé, ± falciforme,long de 5-17 cm,large de 2-6 cm,cunéiforme â subarrondi á la base,± longuement acuminé au sommet;face supérieure glabre mais ä nervure médiane pubérulente,face inférieure ± apprimée-pubescente ä longs poils,a glabrescente. Nervures latérales Io-I2 paires, planes au-dessus, tres peu saillantes en dessous.
+Flowers yellow, axillary, solitary, 2–3 fascicled or in pauciflorous cymes with peduncle 3–5 mm long, sometimes numerous at the apex of young branchlets. Pedicel 2–5 mm long, pubescent, furnished at apex with a small broadly ovate, pubescent bractlet. Sepals broadly triangular-ovate, 2–2.5 mm long, 3–3.5 mm wide, acute at apex, united at base, pubescent on exterior, glabrous on interior. External petals linear, 17–27 mm long; enlarged at base 3–4.5 mm wide, tomentellous-silky on exterior, densely puberulent pale yellow on interior, but with red glabrous base; internal petals somewhat shorter, very narrowly linear acute, enlarged and thickened at base, unguiculate, puberulent on both faces, but with glabrous claw. Staminodes ± cuneiform-oblong, external ones 1.75 mm long, internal ones 1.25 mm. Stamens linear, dark red, 1.5–1.75 mm long, inserted on a conical-convex prolongation of the receptacle enclosing the ovaries, filaments short, connectives club-headed. Carpels 6–11, approximately 4.5 mm long, ovaries ovoid-oblong, densely blonde-pubescent, 1.5 mm long, styles linear, coalescent, pale yellow, 3 mm long, glabrous. 12–16 biseriate ovules.
 
-Fleurs jaunes,axillaires,solitaires,2-3 fasciculées ou en cymes pauciflores á pédoncule long de 3-5 mm, parfois nombreuses au sommet des jeunes rameaux.Pédicelle long de 2-5 mm,pubescent,muni au sommet d'une petite bractéole largement ovée, pubescente. Sepales largement triangulaires-ovés,longs de 2- 2,5 mm,larges de 3-3,5 mm,aigus au sommet,soudés ä la base, pubescents á 'extérieur,glabres a l'intérieur.Pétales externes linéaires,longs de 17-27 mm; élargis a la base large de 3-4,5 mm, tomentelleux-soyeux á l'extérieur,densément pubérulents jaune clair ä l'intérieur,mais a base glabre rouge;pétales internes un peu plus courts, tres étroitement linéaires aigus,élargis et épaissis â la base,onguiculés,pubérulents sur les deux faces,mais ä onglet glabre.Staminodes ± cunéiformes-oblongs,les externes longs de 1,75 mm, les internes 1,25 mm. Etamines linéaires, rouge foncé, longues de 1,5-1,75 mm, insérées sur un prolongement conique-convexe du réceptacle enfermant les ovaires, filets courts,connectifs en tétes de clous.Carpelles 6-11,longs de 4,5 mm environ,ovaires ovoides-oblongs,densément pubescents blonds,longs de 1,5 mm,styles linéaires,coalescents,jaune clair,longs de 3 mm,glabres.12-16 ovules bisériés.
+Fruits with pedicel 0.5–1 cm long; mericarps sessile, oblong to obovoid, 2.5–4 cm long, 1.7–3 cm wide, rounded at apex, glabrous, brown, ± verrucose. Seeds horizontal, biseriate, elliptic-oblong, 1–1.5 cm long, 0.4–0.9 cm wide.
 
-Fruits ä pédicelle long de o,5-1 cm;méricarpes sessiles, oblongs a obovoides,longs de 2,5-4 cm,larges de 1,7-3 cm,arrondis au sommet,glabres,bruns,± verruqueux.Graines horizontales, bisériées, elliptiques-oblongues, longues de 1-1,5 cm, larges de 0,4-0,9 cm.
+Type: Mildbraed 7592, Bipindi–Ebolowa, Cameroon (holotype B; isotype K!).
 
-Type :Mildbraed 7592,Bipindi-Ebolowa,Cameroun (holotype B;iso-type K!).
+Species very closely allied to X. hypolampra Mildbr., but the form of the leaves ± lanceolate is much more variable, and the silky appressed pubescence is dense only on young leaves, adult leaves being almost glabrous. The carpels with pilose ovaries and glabrous styles are furthermore very different from those of X. hypolampra where the narrowly cylindric ovaries are scarcely distinct from the style terminated by a tuft of hairs.
 
-Espéce tres affine de X.hypolampra Mildbr.,mais la forme des feuilles ± lancéolée est beaucoup plus variable,et la pubescence soyeuse-appliquée n'est dense que sur les jeunes feuilles, les feuilles adultes étant presque glabres.Les carpelles â ovaires velus et styles glabres sont en outre tres différents de ceux de X. hypolampra ou les ovaires étroitement cylindriques sont ä peine distincts du style terminé par une touffe de poils.
-
-Répandue au Cameroun,République centrafricaine,Gabon et Congo-Kinshasa,cette espece est peu fréquente au Gabon ou elle se trouve en forét dense humide.
+Distributed in Cameroon, Central African Republic, Gabon and Congo-Kinshasa, this species is infrequent in Gabon where it is found in dense humid forest.
 
 ## Vernacular names
 

@@ -7,6 +7,9 @@ family: Myrtaceae
 vol: 11
 pages: 26-28
 source: sources/Myrtaceae_vol11_paddle
+countries: [Angola, Cameroon, Gabon, Ghana, Nigeria]
+in_region: true
+habit: "liana"
 tags: [species, generated]
 ---
 # *Eugenia obanensis* Bak. f.
@@ -37,11 +40,11 @@ To be sought in Gabon.
 
 ![Eugenia obanensis](../sources/Myrtaceae_vol11_paddle/figures/fig_003_p0027.png)
 
-*PL. III. — Eugenia ogouensis Amshoff : a, rameau florifère; b, bouton ♂; c, fleur ♂ (d'après un dessin de N. Hallé, modèle in vivo); d, calice (× 10); e, réceptacle ♂ en coupe (× 40); f, fruit (× 2); g, graine (× 40); h et h', anthère (× 40). — a, e et h, N. Hallé 1806; f et g, Fleury 26429.*
+*PL. III. — Eugenia ogouensis Amshoff : a, flowering branch; b, male bud; c, male flower (after a drawing by N. Hallé, model in vivo); d, calyx (× 10); e, male receptacle in section (× 40); f, fruit (× 2); g, seed (× 40); h et h', anther (× 40). — a, e et h, N. Hallé 1806; f et g, Fleury 26429.*
 
 ![Eugenia obanensis](../sources/Myrtaceae_vol11_paddle/figures/fig_004_p0029.png)
 
-*PL. IV. — Eugenia fernandopona Engler (Klaine 3045) : 1, tige et boutons (× 1/2); 2, fleur (? ♂) (× 3); 3, fleur (? ♀) (× 4); 4, fruit (× 2); 5, base de la feuille (× 2). — Eugenia obanensis Bak. f. (Fleury 26339) : 6, fruit (× 4); 7, base de la feuille.*
+*PL. IV. — Eugenia fernandopona Engler (Klaine 3045) : 1, stem and buds (× 1/2); 2, flower (? male) (× 3); 3, flower (? female) (× 4); 4, fruit (× 2); 5, base of the leaf (× 2). — Eugenia obanensis Bak. f. (Fleury 26339) : 6, fruit (× 4); 7, base of the leaf.*
 
 ## Notes
 

@@ -67,7 +67,7 @@ Breteler & van Raalte 5580, 19.09.1968, c. 0°40'S-8°50'E, near Port Gentil. Lo
 
 ![Maltebrunia kunth](../sources/Gramineae_vol5bis_paddle/figures/fig_009_p0040.png)
 
-*Pl. 9. - Loudetia simplex (Nees) C.E. Hubb. : 1, aspect de la plante ; 2, base de la plante ; 3, épillet ; 4, glumes ; 5, 6, lemma supérieure. - Autorisation de reproduction : cf. Remerciements p. 68.*
+*Pl. 9. - Loudetia simplex (Nees) C.E. Hubb. : 1, plant habit ; 2, base of the plant ; 3, spikelet ; 4, glumes ; 5, 6, upper lemma. - Reproduction authorization : cf. Acknowledgements p. 68.*
 
 ## Notes
 

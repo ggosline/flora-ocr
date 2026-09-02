@@ -7,6 +7,12 @@ family: Solanaceae
 vol: 55
 pages: 122-124
 source: sources/Solanaceae_vol55_liteparse
+countries: [Angola, Gabon, Liberia, Nigeria]
+in_region: true
+subdivisions:
+  Gabon: [Nyanga, Ogooué-Ivindo, Ogooué-Lolo]
+habit: "shrub"
+altitude_m: "260"
 tags: [species, generated]
 ---
 # *Solanum anomalum* Thonn. Planche 38, Figure 7(K)
@@ -17,23 +23,17 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+in Schumach., Beskr. Guin. pl. 126 (1827). S. mannii C.H.Wright var. compactum C.H.Wright, Bull. Misc. Inform. Kew 1894 : 129 (1894). S. warneckeanum Dammer, Bot. Jahrb. Syst. 38 : 186 (1906). Shrub, up to 2 m tall, prickly; branches erect to spreading, cylindrical, sparsely to densely pubescent, with small simple hairs and multangular stellate hairs, armed with straight prickles. Leaf: petiole 1.5–4 cm, glabrescent, sometimes armed with 1 or 2 prickles; blade elliptic, 7–17 × 3–6.5 cm, cuneate at base, acute at apex, with margin superficially to moderately lobed, with 1 to 3(–6) broadly triangular lobes per side, rounded to obtuse at apex, bearing 0(–5) prickles on each surface, concolorous, glabrescent to sessile stellate hairs, porrigent to multangular. Inflorescence lateral, 1–2.5 cm long, simple or once-branched, with 10 to 20 bisexual flowers; peduncle 0–2 mm; axes moderately pubescent to glabrescent, unarmed. Flower 4- or 5-merous; pedicel 0.4–0.5 cm, glabrescent, unarmed; calyx 1.5–3 mm long, glabrescent, unarmed, with triangular lobes, 0.5–1 mm long, obtuse to acute at apex; corolla stellate, 0.7–1.3 cm in diameter, white, divided to three-quarters, with lobes spreading to reflexed, narrowly triangular, 4.5–5.5 × 1.2–2 mm, moderately pubescent to glabrescent below, with porrigent or multangular stellate hairs; stamens equal, filament glabrous, anther 2.5–4.5 mm long; ovary puberulent to small glandular hairs in upper half; style 3.5–5.5(–9) mm, glabrous. Fruit spherical to broadly ellipsoid, 5.5–9 mm in diameter, bright red at maturity, with ± 20 seeds. Seed reniform, 2.5–2.8 × 2–2.5 mm, pale yellow to orange-brown.
 
-in Schumach., Beskr. Guin. pl. 126 (1827). S. mannii C.H.Wright var. compactum C.H.Wright, Bull. Misc. Inform. Kew 1894 : 129 (1894). S. warneckeanum Dammer, Bot. Jahrb. Syst. 38 : 186 (1906). Arbuste , jusqu’à 2 m de hauteur, aiguillonné ; rameaux dressés à étalés, cylindriques, épar sement à densément pubescents, à petits poils simples et à poils étoilés multangulés, armés d’aiguillons droits. Feuille : pétiole 1,5–4 cm, glabrescent, parfois armé de 1 ou 2 aiguillons ; limbe elliptique, 7–17 × 3–6,5 cm, cunéé à la base, aigu au sommet, à marge superficielle ment à modérément lobée, avec 1 à 3(–6) lobes largement triangulaires par côté, arrondis à obtus au sommet, portant 0(–5) aiguillons sur chaque face, concolore, glabrescent à poils étoilés sessiles, porrigés à multangulés . Inflorescence latérale, 1–2,5 cm de longueur, simple ou ramifiée une fois, avec 10 à 20 fleurs bisexuées ; pédoncule 0–2 mm ; axes modérément pubescents à glabrescents, inermes. Fleur 4- ou 5-mère ; pédicelle 0,4–0,5 cm, glabrescent, inerme ; calice 1,5–3 mm de longueur, glabrescent, inerme, à lobes triangulaires, 0,5–1 mm de longueur, obtus à aigus au sommet ; corolle étoilée, 0,7–1,3 cm de diamètre, blanche, divisée jusqu’aux trois quarts , à lobes étalés à réfléchis, étroitement triangulaires, 4,5–5,5 × 1,2–2 mm, modérément pubescents à glabrescents dessous, à poils étoilés porrigés ou multangulés ; étamines égales, filet glabre, anthère 2,5–4,5 mm de longueur ; ovaire pubérulent à petits poils glanduleux dans la moitié supérieure ; style 3,5–5,5(–9) mm, glabre. Fruit sphérique à largement ellipsoïde, 5,5–9 mm de diamètre, rouge vif à maturité, avec ± 20 graines. Graine réniforme, 2,5–2,8 × 2–2,5 mm, jaune pâle à orange-brun.
-
-Barre d’échelle : 3 cm (1–2), 7 mm (3), 2 cm (4), 2,2 mm (5), 0,4 mm (6–7). (1 : Thomas 1679 ; 2-3, 6 : de Sousa 76 ; 4, 5, 7 : Enti 7166 ). Dessin par Lucy T. Smith (©), reproduit avec permission à partir de Vorontsova & Knapp (2016).
+Scale bar: 3 cm (1–2), 7 mm (3), 2 cm (4), 2.2 mm (5), 0.4 mm (6–7). (1: Thomas 1679; 2-3, 6: de Sousa 76; 4, 5, 7: Enti 7166). Drawing by Lucy T. Smith (©), reproduced with permission from Vorontsova & Knapp (2016).
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-observé dans l’ouest de l’Afrique, le long des côtes et sur les massifs environnants, du Li béria jusqu’au Sud du Nigéria, et jusqu’en Angola ; au Gabon, connu de la Nyanga, de l’Ogooué-Ivindo et de l’Ogooué-Lolo
+observed in West Africa, along the coasts and on the surrounding massifs, from Liberia to southern Nigeria, and extending to Angola; in Gabon, known from Nyanga, Ogooué-Ivindo and Ogooué-Lolo
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-habitats ouverts et perturbés, lisières des forêts, buissons, bords de plage et des routes ; au Gabon du niveau de la mer à 260 m d’altitude, ailleurs jusqu’à 2000 m. Usage : Les fruits sont incorporés aux soupes et aux sauces ou plus rarement consommés frais. En Afrique de l’Ouest, le jus des feuilles et des fruits est utilisé pour traiter la lèpre, comme laxatif ou pour atténuer les inflammations cutanées. Bi : Bikandu et al. (2020), Heine (1963), Jansen (2004), Vorontsova & Knapp (2016). B liographie
+open and disturbed habitats, forest edges, bushes, beach and roadsides; in Gabon from sea level to 260 m altitude, elsewhere up to 2000 m. Use: The fruits are incorporated into soups and sauces or more rarely consumed fresh. In West Africa, the juice of the leaves and fruits is used to treat leprosy, as a laxative or to mitigate skin inflammations. Bib.: Bikandu et al. (2020), Heine (1963), Jansen (2004), Vorontsova & Knapp (2016). Bibliography
 
 ## Notes
 

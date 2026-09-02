@@ -7,6 +7,9 @@ family: Icacinaceae
 vol: 20
 pages: 34-36
 source: sources/Icacinaceae_vol20_paddle
+countries: [Angola, Gabon, Senegal, Tanzania]
+in_region: true
+habitat: [riverine]
 tags: [species, generated]
 ---
 # *Rhaphiostylis beninensis* (Hooker fil. ex Planchon)

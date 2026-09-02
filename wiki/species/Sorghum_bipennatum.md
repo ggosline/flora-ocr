@@ -22,13 +22,9 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Up to 1.50 m tall. Culms slender, glabrous, more or less flexuous, rooted at the lower nodes. Leaf sheaths glabrous except at the nodes, auriculate along the ligule. Ligule truncate, scarious, up to 2 mm long. Blades linear, up to 50 cm long and 6-8 mm wide, glabrous, scabrous along the margins.
 
-Jusqu'à 1,50 m de haut. Chaumes minces, glabres, plus ou moins flexueux, enracinés aux nœuds inférieurs. Gaines foliaires glabres, sauf aux nœuds, auriculée le long de la ligule. Ligule tronquée, scarieuse, jusqu'à 2 mm de long. Limbes linéaires, jusqu'à 50 cm de long et 6-8 mm de large, glabres, scabres le long des marges.
-
-Panicule lâche, jusqu'à 30 cm de long, branches très inégales. Épilets lancéolés de 5 mm de long et 2 à 3 mm de large. Glume inférieure à 9 nervures, blanche à la base, brune plus haut, plus ou moins pubescente. Callus poilu blanc. Glume supérieure à 5 nervures. Lemmas plus courtes que les glumes, celle de la fleur
-
-supérieure bifide. Arête de 3 à 4 cm de long, genouillée en dessous du milieu, colonne brun foncé, subule plus claire. Palée absente. S. bipennatum est signalé en Afrique occidentale et orientale, au Gabon et en Angola. Elle existerait aussi à Madagascar. Cette espèce présente relativement peu d'intérêt fourrager. Elle est peu feuillée et n'est utilisable qu'en saison des pluies. Elle se rencontre en savane, sur terrain frais et relativement fertile.
+Panicle lax, up to 30 cm long, branches very unequal. Spikelets lanceolate, 5 mm long and 2 to 3 mm wide. Lower glume with 9 nerves, white at the base, brown higher up, more or less pubescent. Callus white hairy. Upper glume with 5 nerves. Lemmas shorter than the glumes, that of the upper floret bifid. Awn 3 to 4 cm long, geniculate below the middle, column dark brown, subula lighter. Palea absent. S. bipennatum is recorded in West and East Africa, in Gabon and Angola. It would also exist in Madagascar. This species presents relatively little forage interest. It is sparsely leafed and usable only in the rainy season. It is found in savanna, on fresh and relatively fertile soil.
 
 ## Specimens examined
 

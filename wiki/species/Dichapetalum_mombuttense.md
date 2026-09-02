@@ -7,6 +7,7 @@ family: Dichapetalaceae
 vol: 32
 pages: 133-138
 source: sources/Dichapetalaceae_vol32_paddle
+countries_incomplete: true
 tags: [species, generated]
 ---
 # *Dichapetalum mombuttense* Engler
@@ -83,7 +84,7 @@ de Wilde & al. 44, au km 7 Tchimbélé-Kinguélé (bout.fl., Janv.); 95, 20 km a
 
 ![Dichapetalum mombuttense](../sources/Dichapetalaceae_vol32_paddle/figures/fig_038_p0136.png)
 
-*PL. 37. – Dichapetalum mombuttense Engler : 1, jeune rameau florifère × 0,8 ; 2, stipule × 2,5 ; 3, fleur × 5 ; 4, fleur, détail × 5 ; 5, infrutescence × 0,8 ; 6, fruit × 0,8 (1-4, Bos 6218 ; 5, Breteler 2113 ; 6, Bequaert 1038). – Repris de MLW 81 (10) : 33 (1981).*
+*PL. 37. – Dichapetalum mombuttense Engler : 1, young flowering branch × 0.8 ; 2, stipule × 2.5 ; 3, flower × 5 ; 4, flower, detail × 5 ; 5, infructescence × 0.8 ; 6, fruit × 0.8 (1-4, Bos 6218 ; 5, Breteler 2113 ; 6, Bequaert 1038). – Reproduced from MLW 81 (10) : 33 (1981).*
 
 ## Notes
 

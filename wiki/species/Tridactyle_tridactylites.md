@@ -7,6 +7,8 @@ family: Orchidaceae
 vol: 37
 pages: 169-169
 source: sources/Orchidaceae_vol37_paddle
+countries: [Cameroon, Gabon]
+in_region: true
 tags: [species, generated]
 ---
 # *Tridactyle tridactylites* (Rolfe) Schltr.
@@ -17,43 +19,37 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 – Aeranthes deistelianus Kraenzl., Bot. Jahrb. Syst. 33 : 75 (1902).
 
 – Mystacidium ledermannianum Kraenzl., Bot. Jahrb. Syst. 51 : 393 (1914).
 
 – Tridactyle ledermanniana (Kraenzl.) Schltr., Beih. Bot. Centralbl. 36 : 146 (1918).
 
-Tige 40-200 cm. Feuilles 6-22 × 0,6-1,3 cm, linéaires, tordues à la base, inégalement bilobées. Inflorescence assez lâche, 3-10 cm, < 18-flore. Fleurs assez petites, résupinées, jaune-vert. Sépale dorsal ellip-tique-ové, apiculé à caudé. Pétales lancéolés à linéaires-lancéolés, aigus à caudés. Sépales latéraux obliquement ovés, apiculés à caudés. Labelle 4-5 mm × 6,5 mm, auriculé à la base, nettement trilobé ; lobe médian étroitement linéaire ou linéaire-triangulaire ; lobes latéraux étroitement triangulaires à filiformes. Éperon 6-11 mm, droit, obtus. - Pl. 184, p. 399.
+Stem 40–200 cm. Leaves 6–22 × 0.6–1.3 cm, linear, twisted at the base, unequally bilobed. Inflorescence rather lax, 3–10 cm, < 18-flowered. Flowers rather small, resupinate, yellowish-green. Dorsal sepal elliptic-ovate, apiculate to caudate. Petals lanceolate to linear-lanceolate, acute to caudate. Lateral sepals obliquely ovate, apiculate to caudate. Labellum 4–5 mm × 6.5 mm, auriculate at the base, distinctly trilobed; median lobe narrowly linear or linear-triangular; lateral lobes narrowly triangular to filiform. Spur 6–11 mm, straight, obtuse. - Pl. 184, p. 399.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Cameroun, Gabon
+Cameroon, Gabon
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+alt. 350–1 600 m. In full sun, epiphytic on trunk in humid dense forest, or lithophytic
 
-alt. 350-1 600 m. Au soleil, épiphyte sur tronc en forêt dense humide, ou lithophyte
+MATERIAL STUDIED (Map 84) :
 
-MATÉRIEL ÉTUDIÉ (Carte 84) :
+Arends, Louis & De Wilde 634, Doudou Mountains, W of Doussala, Moukalaba Fauna Reserve, alt. ± 350 m, logged tall forest, epiphytic on dead fallen branch (fl. Dec.), WAG!.
 
-Arends, Louis & De Wilde 634, Monts Doudou, O de Doussala, Réserve de Faune de Moukalaba, alt. ± 350 m, forêt haute exploité, épiphyte sur branche morte tombée (fl. Déc.), WAG!.
+Breteler, Lemmens & Nzabi 8135, between Mouila and Yéno, approximately 40 km along the Mouila road, ± 1° 45' S, 11° 21' E (fl. Sept.), WAG!.
 
-Breteler, Lemmens & Nzabi 8135, entre Mouila et Yéno, environ à 40 km sur la route de Mouila, ± 1° 45' S, 11° 21' E (fl. Sept.), WAG!.
+Hallé 971, 8 km N Libreville (fr. Jan.), P! ; 3641, Bélinga (fl. Jan.), P!.
 
-Hallé 971, 8 km N Libreville (fr. Jan.), P! ; 3641, Bélinga (fl. Janv.), P!.
-
-Hallé & Villiers 4937, rocher Fané (fr. Févr.), P! ; 5499, Cap Estérias (fr. Févr.), P!.
+Hallé & Villiers 4937, Fané rock (fr. Feb.), P! ; 5499, Cap Estérias (fr. Feb.), P!.
 
 ## Figures
 
 ![Tridactyle tridactylites](../sources/Orchidaceae_vol37_paddle/figures/fig_078_p0170.png)
 
-*PL. 184.—Tridactyle tridactylites (Rolfe) Schltr. : A, labelle et éperon ; B, labelle ; C, sépale latéral ; D, pétale ; E, sépale dorsal ; F, Feuille et extrémité foliaire ; G, vue générale (A-G, Hallé 3641, P).*
+*PL. 184.—Tridactyle tridactylites (Rolfe) Schltr. : A, labellum and spur ; B, labellum ; C, lateral sepal ; D, petal ; E, dorsal sepal ; F, leaf and leaf apex ; G, general view (A-G, Hallé 3641, P).*
 
 ## Notes
 

@@ -7,6 +7,12 @@ family: Leguminosae
 vol: 49
 pages: 344-344
 source: sources/Millettiaspeciesfabaceae_vol49_liteparse
+countries: [Gabon]
+in_region: true
+subdivisions:
+  Gabon: [Ogooué-Lolo]
+habit: "tree"
+altitude_m: "200–500"
 tags: [species, generated]
 ---
 # *Schefflerodendron gabonense* Pellegr. Planche 115

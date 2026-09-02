@@ -7,6 +7,7 @@ family: Lauraceae
 vol: 10
 pages: 65-65
 source: sources/Lauraceae_vol10_paddle
+habit: "shrub"
 tags: [species, generated]
 ---
 # *Beilschmiedia neoletestui* (1) R. Fouilloy et N. Hallé

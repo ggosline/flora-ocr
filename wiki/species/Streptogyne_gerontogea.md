@@ -21,19 +21,17 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Culms erect, in tufts, up to 1 m tall. Leaves linear lanceolate, 15–25 × 1.2–2 cm, petiole channelled about twenty millimetres long. Sheaths glabrous, auriculate at the opening, ligule membranous ciliate short.
 
-Chaumes dressés, en touffes, jusqu'à 1 m de haut. Feuilles linéaires lancéolées, de  $ 15-25 \times 1,2-2 $ cm, pétiole canaliculé d'une vingtaine de millimètres. Gaines glabres, auriculées à l'ouverture, ligule membraneuse ciliée courte.
+Inflorescences reaching 30 cm long or more; spikelets 2.5 or 3 cm long, glumes glabrous, enrolled. Fertile lemmas pubescent silky below the middle, about 2.5 cm long, prolonged by an awn making half the length of the glumes. Sterile glumelles glabrous. Stigmas reaching 10–15 mm long, enrolling into one another and retaining the flowers on the inflorescence. Each flower, in falling, carries with it the portion of the rachis of the spikelet that connects it to the upper flower.
 
-Inflorescences atteignant 30 cm de long ou plus; épilets de 2,5 ou 3 cm de long, glumes glabres, enroulées. Lemmas fertiles pubescentes soyeuses en dessous du milieu, d'environ 2,5 cm de long, prolongées par une arête faisant la moitié de la longueur des glumes. Glumelles stériles glabres. Stigmates atteignant 10-15 mm de long, s'enroulant les uns dans les autres et retenant les fleurs sur l'inflorescence. Chaque fleur, en tombant, entraîne avec elle la portion de l'axe de l'épillet qui la relie à la fleur supérieure.
+This portion of rachis thus forms a small hook very robust which catches easily to clothing.
 
-Cette portion de rachis forme ainsi un petit crochet très robuste qui s'accroche facilement aux vêtements.
+Forest plant often forming a continuous line along paths.
 
-Plante forestière formant souvent une ligne continue le long des pistes.
+Known from Ceylon and in the forest zones of intertropical Africa.
 
-Connue à Ceylan et dans les zones forestières de l'Afrique intertropicale.
-
-Noms vernaculaires (d'après Walker et Sillans) : Eléni ayègwé, Égoté-ndjégó (Nkomi); Édény'ayègwè (Orungu); Gilitsango (Ngové); Ékoc-nzé, Ékoc-bisana (Fang); Bongi (Echira, Bavarama, Bavungu, Bavové, Mitsogo, Masango, Bavili, Baduma); Bonga (Banzabi); Bwangi (Apindji); Élurina-kongě (Galoa); Ébatabaté (Mpongwé); Nkanea-u-nyatsi (Bakélé).
+Vernacular names (after Walker and Sillans): Eléni ayègwé, Égoté-ndjégó (Nkomi); Édény'ayègwè (Orungu); Gilitsango (Ngové); Ékoc-nzé, Ékoc-bisana (Fang); Bongi (Echira, Bavarama, Bavungu, Bavové, Mitsogo, Masango, Bavili, Baduma); Bonga (Banzabi); Bwangi (Apindji); Élurina-kongě (Galoa); Ébatabaté (Mpongwé); Nkanea-u-nyatsi (Bakélé).
 
 ## Specimens examined
 
@@ -51,7 +49,7 @@ V. ERAGROSTÉES
 
 ![Streptogyne gerontogea](../sources/Gramineae_vol05_paddle/figures/fig_037_p0221.png)
 
-*PL. XXXVI. — Streptogyne gerontogea Hook. f. (Walker 1) : 1, partie supérieure de la plante, feuilles et inflorescence âgée; 2, détail de la nervation des feuilles; 3, inflorescence jeune; 4, détail d'un épillet (longueur 2,5 cm, sans les arêtes); 5, détail d'une fleur (2,2 cm, sans l'arête).*
+*PL. XXXVI. — Streptogyne gerontogea Hook. f. (Walker 1) : 1, upper part of the plant, leaves and mature inflorescence; 2, detail of leaf venation; 3, young inflorescence; 4, detail of a spikelet (length 2.5 cm, without the awns); 5, detail of a flower (2.2 cm, without the awn).*
 
 ## Notes
 

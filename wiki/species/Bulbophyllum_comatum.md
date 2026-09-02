@@ -7,6 +7,8 @@ family: Orchidaceae
 vol: 36
 pages: 193-195
 source: sources/Orchidaceae_vol36_paddle
+countries: [Cote d'Ivoire, Equatorial Guinea, Gabon, Liberia, Nigeria, Rwanda, Sierra Leone]
+in_region: true
 tags: [species, generated]
 ---
 # *Bulbophyllum comatum* Lindl.

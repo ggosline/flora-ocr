@@ -7,6 +7,9 @@ family: Leguminosae
 vol: 15
 pages: 168-169
 source: sources/Leguminosae_vol15_paddle
+countries: [Cote d'Ivoire, Gabon, Nigeria]
+in_region: true
+habit: "tree"
 tags: [species, generated]
 ---
 # *Daniellia pynaertii* De Wild.

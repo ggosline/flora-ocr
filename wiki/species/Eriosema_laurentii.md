@@ -7,6 +7,13 @@ family: Leguminosae
 vol: 49
 pages: 189-190
 source: sources/Millettiaspeciesfabaceae_vol49_liteparse
+countries: [Gabon]
+in_region: true
+subdivisions:
+  Gabon: [Estuaire, Haut-Ogooué, Ngounié, Ogooué-Ivindo, Ogooué-Maritime, Woleu-Ntem]
+habit: "herb"
+habitat: [savanna]
+altitude_m: "7–720"
 tags: [species, generated]
 ---
 # *Eriosema laurentii* De Wild.

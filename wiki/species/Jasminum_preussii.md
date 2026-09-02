@@ -7,6 +7,12 @@ family: Oleaceae
 vol: 51
 pages: 17-18
 source: sources/Oleaceae_vol51_liteparse
+countries: [Cameroon, Central African Republic, Democratic Republic of the Congo, Gabon, Ghana, Nigeria]
+in_region: true
+subdivisions:
+  Gabon: [Estuaire, Ogooué-Ivindo]
+habit: "liana"
+altitude_m: "800"
 tags: [species, generated]
 ---
 # *Jasminum preussii* Engl. & Knobl.

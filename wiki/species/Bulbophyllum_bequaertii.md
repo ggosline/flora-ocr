@@ -7,6 +7,9 @@ family: Orchidaceae
 vol: 36
 pages: 175-177
 source: sources/Orchidaceae_vol36_paddle
+countries: [Burundi, Cameroon, Rwanda, Tanzania, Uganda]
+in_region: true
+habitat: [primary forest]
 tags: [species, generated]
 ---
 # *Bulbophyllum bequaertii* De Wild.
@@ -39,7 +42,7 @@ Wieringa 518, 1 km SE of Tchimbélé, 0°36' N, 10°25' E (fl., Feb.), WAG!, LBV
 
 ![Bulbophyllum bequaertii](../sources/Orchidaceae_vol36_paddle/figures/fig_091_p0178.png)
 
-*PL. 86. – Bulbophyllum bequaertii De Wild.: A, vue générale ; B, fleur ; C, pièces florales ; D, labelle ; E, labelle et gynostème en position naturelle, vue latérale (A-E, ex VERMEULEN, 1987).*
+*PL. 86. – Bulbophyllum bequaertii De Wild.: A, general view ; B, flower ; C, floral parts ; D, labellum ; E, labellum and gynostemium in natural position, lateral view (A-E, ex VERMEULEN, 1987).*
 
 ## Notes
 

@@ -7,6 +7,12 @@ family: Leguminosae
 vol: 49
 pages: 88-90
 source: sources/Millettiaspeciesfabaceae_vol49_liteparse
+countries: [Gabon, Republic of the Congo]
+in_region: true
+subdivisions:
+  Gabon: [Ogooué-Lolo]
+habit: "tree"
+altitude_m: "350"
 tags: [species, generated]
 ---
 # *Craibia macrantha* (Pellegr.) Gillett

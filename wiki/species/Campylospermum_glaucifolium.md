@@ -7,6 +7,13 @@ family: Ochnaceae
 vol: 48
 pages: 51-53
 source: sources/Ochnaceae_vol48_liteparse
+countries: [Equatorial Guinea, Gabon, Republic of the Congo]
+in_region: true
+subdivisions:
+  Gabon: [Estuaire, Moyen-Ogooué, Ngounié, Ogooué-Ivindo, Ogooué-Maritime, Woleu-Ntem]
+habit: "tree"
+habitat: [secondary forest]
+altitude_m: "50–750"
 tags: [species, generated]
 ---
 # *Campylospermum glaucifolium* Biss.

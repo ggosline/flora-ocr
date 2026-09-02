@@ -7,6 +7,9 @@ family: Flacourtiaceae
 vol: 34
 pages: 21-21
 source: sources/Flacourtiaceae_vol34_paddle
+countries: [Cameroon, Cote d'Ivoire, Democratic Republic of the Congo, Gabon, Ghana, Liberia, Nigeria, Sao Tome and Principe]
+in_region: true
+habit: "tree"
 tags: [species, generated]
 ---
 # *Ophiobotrys zenkeri* Gilg
@@ -47,7 +50,7 @@ Le Testu 8687, Lastoursville, Miboba, 18/1/1931, fl. (P); 9466, Essough, Ogooué
 
 ![Ophiobotrys zenkeri](../sources/Flacourtiaceae_vol34_paddle/figures/fig_004_p0020.png)
 
-*PL. 4. – Ophiobotrys zenkeri Gilg : 1, rameau florifère ; 2, bractées en cupule, bouton floral ; 3, fleur ♂ ; 4, fleur ♀ ; 5, coupe transversale de l'ovaire ; 6, fruit. (1-5. Le Testu 8687 ; 6. Zenker 2124).*
+*PL. 4. – Ophiobotrys zenkeri Gilg : 1, flowering branch ; 2, bracts in cup shape, flower bud ; 3, ♂ flower ; 4, ♀ flower ; 5, transverse section of ovary ; 6, fruit. (1-5. Le Testu 8687 ; 6. Zenker 2124).*
 
 ## Notes
 

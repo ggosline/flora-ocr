@@ -7,6 +7,10 @@ family: Leguminosae
 vol: 49
 pages: 205-205
 source: sources/Millettiaspeciesfabaceae_vol49_liteparse
+countries: [Gabon]
+in_region: true
+habit: "tree"
+altitude_m: "0–100"
 tags: [species, generated]
 ---
 # *Haplormosia monophylla* (Harms) Harms Planche 67

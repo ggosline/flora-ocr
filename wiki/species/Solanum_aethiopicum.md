@@ -7,6 +7,12 @@ family: Solanaceae
 vol: 55
 pages: 116-118
 source: sources/Solanaceae_vol55_liteparse
+countries: [Gabon, Madagascar]
+in_region: true
+subdivisions:
+  Gabon: [Estuaire, Woleu-Ntem]
+habit: "shrub"
+altitude_m: "1800"
 tags: [species, generated]
 ---
 # *Solanum aethiopicum* L. Planche 35
@@ -17,21 +23,15 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Herbe annuelle ou pérenne, ou arbuste , jusqu’à 1 m de hauteur, inerme ; tiges dressées à étalées, cylindriques, glabres à modérément pubescentes, à petits poils simples et étoilés porrigés, sessiles ou stipités. Feuille : pétiole 1–4 cm, glabre à modérément pubescent ; limbe ovale, 5–18 × 2,5–10 cm, cunéé à arrondi à la base, aigu au sommet, marge subentière à modérément lobée , avec 3 lobes largement triangulaires par côté, arrondis au sommet, concolore à discolore, glabre à modérément pubescent à poils étoilés. Inflorescence latérale, 1–1,8 cm de longueur, non ramifiée, avec 1 ou 2(–10) fleurs bisexuées ; pédoncule 0–0,5 mm ; axes glabres à modérément pubescents. Fleur 5-mère (jusqu’à 10-mère chez les fleurs fasciées) ; pédicelle 0,5–2 cm, glabre à modérément pubescent ; calice 3,5–9 mm de longueur, glabre à modéré ment pubescent, à lobes largement triangulaires, 1,5–5 mm de longueur, aigus au sommet ; corolle étoilée, 0,8–2 cm de diamètre, blanche, divisée jusqu’aux deux tiers, à lobes étalés à réfléchis, triangulaires, 2,5–8 × 1,5–4,5 mm, glabres à modérément pubescents dessous ; étamines égales, filet glabre, anthère 2–4(–6) mm de longueur ; ovaire glabre ou à poils étoilés au sommet ; style 4,5–9 mm, glabre ou à poils étoilés. Fruit généralement sphérique (forme variable en fonction des cultivars), 1,5–2,5(–5) cm de diamètre , orange à maturité, avec 20 à 100 graines . Graine réniforme, 2–3,5 × 2–2,5 mm, jaune pâle à orange-brun.
+Annual or perennial herb, or shrub, up to 1 m tall, unarmed; stems erect to spreading, cylindrical, glabrous to moderately pubescent, with small simple and stellate hairs, sessile or stipitate. Leaf: petiole 1–4 cm, glabrous to moderately pubescent; blade ovate, 5–18 × 2.5–10 cm, cuneate to rounded at the base, acute at the apex, margin subentire to moderately lobed, with 3 broadly triangular lobes per side, rounded at the apex, concolorous to discolorous, glabrous to moderately pubescent with stellate hairs. Inflorescence lateral, 1–1.8 cm long, unbranched, with 1 or 2(–10) bisexual flowers; peduncle 0–0.5 mm; axes glabrous to moderately pubescent. Flower 5-merous (up to 10-merous in fasciate flowers); pedicel 0.5–2 cm, glabrous to moderately pubescent; calyx 3.5–9 mm long, glabrous to moderately pubescent, with broadly triangular lobes, 1.5–5 mm long, acute at the apex; corolla stellate, 0.8–2 cm in diameter, white, divided to two-thirds, with lobes spreading to reflexed, triangular, 2.5–8 × 1.5–4.5 mm, glabrous to moderately pubescent below; stamens equal, filament glabrous, anther 2–4(–6) mm long; ovary glabrous or with stellate hairs at the apex; style 4.5–9 mm, glabrous or with stellate hairs. Fruit generally spherical (form variable depending on cultivars), 1.5–2.5(–5) cm in diameter, orange at maturity, with 20 to 100 seeds. Seed reniform, 2–3.5 × 2–2.5 mm, pale yellow to orange-brown.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-cultivé dans toute l’Afrique subsaharienne et à Madagascar ; au Gabon largement présent dans les jardins privés et sur les marchés ; échappé avec certitude dans l’Estuaire et le Woleu-Ntem, mais probablement aussi ailleurs
+Cultivated throughout sub-Saharan Africa and Madagascar; in Gabon widely present in private gardens and markets; certainly escaped in the Estuaire and Woleu-Ntem, but probably also elsewhere
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-inconnu à l’état sauvage, mais individus subspontanés ; au Gabon, dans des jachères et des champs ; ailleurs cultivé jusqu’à 1800 m d’altitude. Usage : S. aethiopicum est l’un des légumes traditionnels des jardins potagers de l’Afrique subsaha rienne. Même en l’absence de données statistiques fiables, l’on peut considérer qu’il s’agit de l’un des légumes-fruits les plus consommés en Afrique tropicale. En fonction du type de cultivar (voir les notes ci-dessous), les feuilles et/ou les fruits sont préférentiellement consommés crus ou plus souvent sous forme de légumes d’accompagnement. Cette espèce entre aussi dans la composition de plusieurs remèdes de médecine traditionnelle. Les extraits des parties souterraines et aériennes de la plante servent de sédatif ; les fruits et les racines sont aussi utilisés pour soigner les coliques et traiter l’hypertension artérielle. Enfin, S. aethiopicum sert parfois de plante ornementale ou en Asie, de porte-greffe pour la tomate et l’aubergine asiatique
+Unknown in the wild state, but subspontaneous individuals; in Gabon, in fallows and fields; elsewhere cultivated up to 1800 m altitude. Usage: S. aethiopicum is one of the traditional vegetables of kitchen gardens in sub-Saharan Africa. Even in the absence of reliable statistical data, it can be considered one of the most consumed fruit-vegetables in tropical Africa. Depending on the type of cultivar (see the notes below), the leaves and/or fruits are preferentially consumed raw or more often as accompanying vegetables. This species also enters into the composition of several traditional medicine remedies. Extracts from the underground and aerial parts of the plant serve as a sedative; the fruits and roots are also used to treat colic and treat high blood pressure. Finally, S. aethiopicum sometimes serves as an ornamental plant or in Asia, as a rootstock for tomato and Asian eggplant
 
 ## Vernacular names
 
@@ -39,9 +39,7 @@ aubergine africaine, aubergine de village, aubergine écarlate, djakattou, gilo,
 
 ## Source note
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-En général, cette espèce est divisée en quatre groupes de cultivars. Un premier groupe (‘Aculea tum’) correspond à des cultivars communs dans les jardins botaniques de l’Europe et de l’Asie (d’où ils sont probablement originaires) ; les plantes densément épineuses et pubescentes présentent des fruits très amers. Les trois autres groupes sont tous originaires de l’Afrique subsaharienne où leurs feuilles et/ou leurs fruits sont consommés. Le groupe ‘Gilo’, le plus commun, est celui qui présente la plus grande di versité des fruits (en termes de forme, taille et couleur) ; les individus sont le plus souvent pubescents. Le groupe ‘Kumba’ est cultivé pour ses feuilles et ses fruits et se retrouve surtout dans les zones semi-arides de l’ouest et du nord-ouest de l’Afrique ; les plantes sont glabres. Enfin, le groupe ‘Schum’ comporte des individus dont seules les feuilles (glabres) sont consommées ; cultivé surtout dans l’ouest et le centre de l’Afrique subsaharienne, ce groupe présente des plantes à petits fruits amers rarement consommés. Les spécimens observés pour le Gabon appartiennent au groupe ‘Gilo’ ou au groupe ‘Schum’. Bi : Aubriot & Daunay (2019), Lester & Seck (2004), Page et al. (2019), Raponda-Walker & B liographie Sillans (1961), Schippers (2000), Vorontsova et al. (2013), Vorontsova & Knapp (2016)
+In general, this species is divided into four groups of cultivars. A first group ('Aculeatum') corresponds to cultivars common in botanical gardens of Europe and Asia (from which they probably originate); densely spiny and pubescent plants present very bitter fruits. The three other groups all originate from sub-Saharan Africa where their leaves and/or fruits are consumed. The 'Gilo' group, the most common, is the one that presents the greatest diversity of fruits (in terms of shape, size and color); individuals are most often pubescent. The 'Kumba' group is cultivated for its leaves and fruits and is found especially in the semi-arid zones of western and northwestern Africa; plants are glabrous. Finally, the 'Schum' group comprises individuals whose only leaves (glabrous) are consumed; cultivated especially in western and central sub-Saharan Africa, this group presents plants with small bitter fruits rarely consumed. The specimens observed for Gabon belong to the 'Gilo' group or the 'Schum' group. Bibliography: Aubriot & Daunay (2019), Lester & Seck (2004), Page et al. (2019), Raponda-Walker & Sillans (1961), Schippers (2000), Vorontsova et al. (2013), Vorontsova & Knapp (2016)
 
 ## Notes
 

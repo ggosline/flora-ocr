@@ -7,6 +7,10 @@ family: Podostemaceae
 vol: 51
 pages: 41-41
 source: sources/Podostemaceae_vol51_liteparse
+countries: [Gabon]
+in_region: true
+subdivisions:
+  Gabon: [Ogooué-Ivindo]
 tags: [species, generated]
 ---
 # *Ledermanniella nicolasii* C.Cusset Planche 17

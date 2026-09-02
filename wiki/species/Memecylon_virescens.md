@@ -7,6 +7,9 @@ family: Melastomataceae
 vol: 25
 pages: 134-136
 source: sources/Melastomataceae_vol25_paddle
+countries: [Cameroon, Gabon]
+in_region: true
+habit: "shrub"
 tags: [species, generated]
 ---
 # *Memecylon virescens* Hooker f.
@@ -57,7 +60,7 @@ Farron 7475, forêt de la Mondah (juin). Hallé N. & Villiers J.-F. 4796, mt Cri
 
 ![Memecylon virescens](../sources/Melastomataceae_vol25_paddle/figures/fig_047_p0135.png)
 
-*PL. 47. — Memecylon virescens Hook. f.: 1 & 2, aspect général & infrutescence × 2/3; 3, jeune fruit en coupe × 6; 4, pétale × 6; 5, étanine × 12 (1, 3-5, Bos 6230; 2, Dc Wilde J.J.F.E. 8427).*
+*PL. 47. — Memecylon virescens Hook. f.: 1 & 2, general aspect & fruitescence × 2/3; 3, young fruit in section × 6; 4, petal × 6; 5, stamen × 12 (1, 3-5, Bos 6230; 2, De Wilde J.J.F.E. 8427).*
 
 ## Notes
 

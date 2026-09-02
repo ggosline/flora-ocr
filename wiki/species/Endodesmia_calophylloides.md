@@ -7,6 +7,13 @@ family: Clusiaceae
 vol: 45
 pages: 17-19
 source: sources/Clusiaceae_vol45_liteparse
+countries: [Angola, Cameroon, Central African Republic, Democratic Republic of the Congo, Equatorial Guinea, Gabon, Nigeria, Republic of the Congo]
+in_region: true
+subdivisions:
+  Gabon: [Haut-Ogooué]
+habit: "tree"
+habitat: [mangrove, secondary forest, riverine]
+altitude_m: "700"
 tags: [species, generated]
 ---
 # *Endodesmia calophylloides* Benth. Planche 3

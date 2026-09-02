@@ -7,6 +7,7 @@ family: Lauraceae
 vol: 10
 pages: 35-36
 source: sources/Lauraceae_vol10_paddle
+habit: "tree"
 tags: [species, generated]
 ---
 # *Beilschmiedia oblongifolia* Rob. et Wilcz..
@@ -36,7 +37,7 @@ Le Testu : 8008, Koulamotou (fl. avril).
 
 ![Beilschmiedia oblongifolia](../sources/Lauraceae_vol10_paddle/figures/fig_005_p0034.png)
 
-*PL. IV. — 1 à 3, Beilschmiedia oblongifolia Rob. et Wilcz. (Le Testu 8008) : 1, rameau florifère, feuille de 10 cm; 1', inflorescence de 4 cm; 1" bractées de 2 mm; 2, fleur de 2 mm de diam.; 2', coupe; 3, pistil. — 4 à 6, B. anacardioides (Engl. et Kr.) Rob. et Wilcz. (Le Testu 7279) : 4, feuille de 15 cm; 4', autre feuille de 13 cm; 5, inflorescence de 6 cm; 5', sommet de la cyme; 5", bractée de 2 à 5 mm; 6, fleur de 3 mm de diam.; 6', coupe; 7, pistil.*
+*PL. IV. — 1 à 3, Beilschmiedia oblongifolia Rob. et Wilcz. (Le Testu 8008) : 1, flowering branch, leaf 10 cm; 1', inflorescence 4 cm; 1" bracts 2 mm; 2, flower 2 mm in diam.; 2', section; 3, pistil. — 4 à 6, B. anacardioides (Engl. et Kr.) Rob. et Wilcz. (Le Testu 7279) : 4, leaf 15 cm; 4', another leaf 13 cm; 5, inflorescence 6 cm; 5', top of the cyme; 5", bract 2 to 5 mm; 6, flower 3 mm in diam.; 6', section; 7, pistil.*
 
 ## Notes
 

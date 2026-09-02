@@ -7,6 +7,9 @@ family: Moraceae
 vol: 26
 pages: 207-209
 source: sources/Moraceae_vol26_paddle
+countries: [Cameroon, Cote d'Ivoire, Gabon, Sierra Leone]
+in_region: true
+altitude_m: "1800"
 tags: [species, generated]
 ---
 # *Ficus macrosperma* Mildbraed & Burret $ ^{2} $
@@ -47,7 +50,7 @@ Duparquet s.n. (cat. 1864, nº 1), s. loc. (stér.). Hladik 1744, Mpassa, 10 km 
 
 ![Ficus macrosperma](../sources/Moraceae_vol26_paddle/figures/fig_061_p0208.png)
 
-*PL. 60. – Ficus dryepondtiana Gentil ex De Wild.: 1, 3, feuilles × 1; 2, 4, figues × 1; 6, fleur staminée avec bractée; 7, fleur à graine (1, 2, Tisserant 447, Centrafrique; 3, 4, Letouzey 11225, Cameroun; 6, 7, Michaloud 544). – Ficus macrosperma Mildbr. & Burr.: 5, rameau avec feuilles × 1 (Zenker 2639, Cameroun).*
+*PL. 60. – Ficus dryepondtiana Gentil ex De Wild.: 1, 3, leaves × 1; 2, 4, figs × 1; 6, staminate flower with bract; 7, seed-bearing flower (1, 2, Tisserant 447, Central African Republic; 3, 4, Letouzey 11225, Cameroon; 6, 7, Michaloud 544). – Ficus macrosperma Mildbr. & Burr.: 5, branch with leaves × 1 (Zenker 2639, Cameroon).*
 
 ## Notes
 

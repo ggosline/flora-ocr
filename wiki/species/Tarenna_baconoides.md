@@ -7,6 +7,8 @@ family: Rubiaceae
 vol: 17
 pages: 101-108
 source: sources/Rubiaceae_vol17_paddle
+countries: [Cameroon, Cote d'Ivoire, Equatorial Guinea, Gabon, Guinea, Nigeria, Sierra Leone]
+in_region: true
 tags: [species, generated]
 ---
 # *Tarenna baconoides* Wernh.
@@ -17,15 +19,11 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Sarmentose plant with cylindrical glabrous internodes, sometimes slender. Stipules 2-3 mm with an apicule of approximately 1 mm, deltoid, connate and swollen at the juvenile stage, then persistent as a thickening on nodes 6 mm in diameter. Petioles 5-11 mm, canaliculate, glabrous. Blades brownish-russet, entirely glabrous, with margin somewhat rebordured toward the lower face, ovate or elliptic, 6-10 × 2-5 (5.5) cm, with rounded or briefly cuneiform base, often asymmetrical; apex often acuminate. Midvein impressed in a narrow sulcus on the upper face; 5-6 pairs of arched secondary veins, spaced; no fine reticulation apparent. Domatia axillary, perforate with centripetal cilia.
 
-Plante sarmenteuse à entrenœuds cylindriques glabres parfois grêles. Stipules de 2-3 mm à apicule d'env. 1 mm, deltoïdes, connées et renflées au stade juvénile, puis persistantes en bourrelet sur nœuds de 6 mm de diamètre. Pétioles de 5-11 mm, canaliculés, glabres. Limbes brun-roussâtre entièrement glabres, à marge un peu rebordée vers la face inférieure, ové ou elliptique de 6-10 × 2-5 (5,5) cm, à base arrondie ou brièvement cunéiforme, souvent dissymétrique; sommet souvent acuminé. Nervure médiane imprimée en étroit sillon à la face supérieure; 5-6 paires de ner
+Inflorescences terminal in corymbiform panicles 4-8 cm in width; the lower lateral cymes are axillate by leaves scarcely reduced or well developed. Peduncles 1 to 5 cm, clothed sometimes partially by a pubescence of small ± arched hairs characteristic of the inflorescence axes and calyces; narrow bracts 1-3 (4) mm, glabrous with only a few short marginal cilia. Pedicels 1-3 mm long, pubescent; calyx remarkably clothed at the level of the ovary with small tightly ascending hairs, ± arched into hooks; calycine limb glabrous or nearly so, tubular for approximately 1 mm, with 5 oblong-ovate contorted, subequal lobes, 1.5-2 × 1-1.2 mm, with prominent axis, with sparingly ciliate margins. Corolla contorted in the bud, glabrous, with 5 subapiculate lobes. Stamens narrowly sagittate, suprabasifixed, with connective prolonged into a sharp acumen. Ovary globulous with 2 locules; placentas peltate; ovules 5-7 per locule, arranged loosely, that is not embedded in the placental tissue which is relatively little developed.
 
-vures secondaires arquées, espacées; pas de fin réticule apparent. Domaties axillaires perforées à cils centripètes.
-
-Inflorescences terminales en panicules corymbiformes de 4-8 cm de largeur; les cymes latérales inférieures sont axillées par des feuilles à peine réduites ou bien développées. Pédoncules de 1 à 5 cm, vêtus parfois partiellement par une pubérulence de petits poils ± arqués caractéristiques des axes inflorescentiels et des calices; bractées étroites de 1-3 (4) mm, glabres ayant seulement quelques courts cils marginaux. Pédicelles longs de 1-3 mm, pubérulents; calice remarquablement vêtus au niveau de l'ovaire de petits poils serrés ascendants, ± arqués en crochets; limbe calycal glabre ou presque, tubuleux sur env. 1 mm, à 5 lobes oblongos-ovés contortés, subégaux, de 1,5-2 × 1-1,2 mm, à axe saillant, à marges pauciciliées. Corolle contortée dans le bouton, glabre, à 5 lobes subapiculés. Étamines étroitement sagittées, suprabasi-fixes, à connectif prolongé en acumen aigu. Ovaire globuleux à 2 loges; placentas peltés; ovules 5-7 par loge, disposés de façon lâche c'est-à-dire non enfoncés dans le tissu placentaire qui est relativement peu développé.
-
-Fruit vert (Latilo 31812 K!, du Nigeria) glabrescent à limbe calycinal persistant pubescent; ce fruit est ellipsoïde à sommet atténué, de  $ 15 \times 9 $ mm et brunâtre à sec, son mésocarpe est fibreux. Il contient plusieurs graines volumineuses, lisses, réniformes longues de 7 mm.
+Fruit green (Latilo 31812 K!, from Nigeria) glabrescient with persistent pubescent calycine limb; this fruit is ellipsoid with attenuate apex, 15 × 9 mm and brownish when dry, its mesocarp is fibrous. It contains several large seeds, smooth, reniform, 7 mm long.
 
 ## Type
 
@@ -79,25 +77,23 @@ Fruit globuleux à pédoncule long, épaissi au sommet, à couronne calycinale p
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+We reject the synonym Pavetta Warburgiana De Wild. et Th. Dur., proposed by Bremekamp and taken up by Keay; see the following species, T. precidantenna N. Hallé.
 
-Nous refusons le synonyme Pavetta Warburgiana De Wild. et Th. Dur., proposé par Bremekamp et repris par Keay; voir l'espèce suivante, T. precidantenna N. Hallé.
+Sierra Leone, Guinea (Macenta and Nimba), Ivory Coast, Nigeria, Fernando Po, Cameroon and Gabon. In primary or degraded pelohygrophilic forest.
 
-Sierra-Leone, Guinée (Macenta et Nimba), Côte-d'Ivoire, Nigeria, Fernando-Po, Cameroun et Gabon. En forêt pélohygrophile primaire ou dégradée.
+R. P. Klaine s. n., 1512, 1591, 1799 (five specimens bearing different dates), 1855, 2128 (two dates), 2150, 2340, 2625, 2727 (three dates), 2916, 3237 (two dates), environs of Libreville (flower buds January to March; flowers February to April; fruits May to October: data established from 19 dated collections).
 
-R. P. Klaine s. n., 1512, 1591, 1799 (cinq spécimens portant des dates différentes), 1855, 2128 (deux dates), 2150, 2340, 2625, 2727 (trois dates), 2916, 3237 (deux dates), env. de Libreville (boutons de janv. à mars; fleurs de fév. à avril; fruits de mai à oct. : données établies d'après 19 récoltes datées).
-
-J.-F. Villiers 94, forêt de la Mondah (fr. juin).
+J.-F. Villiers 94, Mondah forest (fr. June).
 
 ## Figures
 
 ![Tarenna baconoides](../sources/Rubiaceae_vol17_paddle/figures/fig_022_p0103.png)
 
-*PL. 22. — Tarenna baconoides Wernh. (Le Testu 8304 et N. Hallé 3263) : 1, rameau florifère × 0,75; 2, calice; 3, anthère vue de face; 4 et 5, détails de placentation; 6, détail de la pilosité du calice au niveau de l'ovaire. — T. baconoides var. nephrosperma N. Hallé (Klaine 2254) : 7, fruits × 2; 8, graine × 3. — T. fusco-flava (K. Schum.) N. Hallé (Le Testu 8037 et 8288, fl.; F. H. I. 35479, fr.) : 9, rameau florifère × 0,75; 10, stipule; 11, fragment d'inflorescence; 12, calice × 12; 13, étamine, recto et verso; 14, fruit × 3,5; 15, graine × 4,5.*
+*PL. 22. — Tarenna baconoides Wernh. (Le Testu 8304 et N. Hallé 3263) : 1, flowering branch × 0,75; 2, calyx; 3, anther seen from front; 4 et 5, details of placentation; 6, detail of hairiness of calyx at level of ovary. — T. baconoides var. nephrosperma N. Hallé (Klaine 2254) : 7, fruits × 2; 8, seed × 3. — T. fusco-flava (K. Schum.) N. Hallé (Le Testu 8037 et 8288, fl.; F. H. I. 35479, fr.) : 9, flowering branch × 0,75; 10, stipule; 11, fragment of inflorescence; 12, calyx × 12; 13, stamen, front and back; 14, fruit × 3,5; 15, seed × 4,5.*
 
 ![Tarenna baconoides](../sources/Rubiaceae_vol17_paddle/figures/fig_023_p0107.png)
 
-*PL. 23. — Tarenna bipindensis (K. Schum.) Bremek. (Klaine 2727 et 3237, fl. et 1799 fr.) : 1, inflorescence × 3/4; 2, bouton; 3, calice × 6; 4, étamine; 5, style; 6, fruit; 7, graine vue latéralement × 4,5; — T. precidantenna N. Hallé (Le Testu 8645, fl.; N. Hallé 5190, fr.) : 8, inflorescence × 3/4; 9, stipule; 10, bouton; 11, calice × 6; 12, étamine; 13, style; 14, placentation dans une loge; 15, infrutescence × 3/4.*
+*PL. 23. — Tarenna bipindensis (K. Schum.) Bremek. (Klaine 2727 et 3237, fl. et 1799 fr.) : 1, inflorescence × 3/4; 2, bud; 3, calyx × 6; 4, stamen; 5, style; 6, fruit; 7, seed viewed laterally × 4,5; — T. precidantenna N. Hallé (Le Testu 8645, fl.; N. Hallé 5190, fr.) : 8, inflorescence × 3/4; 9, stipule; 10, bud; 11, calyx × 6; 12, stamen; 13, style; 14, placentation in a locule; 15, infructescence × 3/4.*
 
 ## Notes
 

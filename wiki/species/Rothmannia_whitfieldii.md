@@ -7,6 +7,9 @@ family: Rubiaceae
 vol: 17
 pages: 254-257
 source: sources/Rubiaceae_vol17_paddle
+countries: [Angola, Cameroon, Central African Republic, Cote d'Ivoire, Equatorial Guinea, Gabon, Ghana, Kenya, Liberia, Nigeria, Senegal, Sudan, Uganda]
+in_region: true
+habit: "tree"
 tags: [species, generated]
 ---
 # *Rothmannia whitfieldii* (Lindl.) Dandy
@@ -77,7 +80,7 @@ G. Touzet 150, Nkoulounga (vieille fl. et fr. juin). Walker s.n., env. de Sindar
 
 ![Rothmannia whitfieldii](../sources/Rubiaceae_vol17_paddle/figures/fig_060_p0255.png)
 
-*PL. 59. — Rothmannia Talbotii (Wernh.) Keay (1 à 3, N. Hallé 4803; 3' à 6, Le Testu 8653): 1, fleur × 0,6; 2, sommet du bouton; 3 et 3', variation du calice; 4, étamine × 0,6; 5, sommet du style; 6, fruit × 0,6. — R. Whitfieldii (Lindl.) Dandy: 7, réticule du limbe à sec; 8, calice; 9 et 10, variation du fruit (Fleury 26209 et 33614).*
+*PL. 59. — Rothmannia Talbotii (Wernh.) Keay (1 to 3, N. Hallé 4803; 3' to 6, Le Testu 8653): 1, flower × 0.6; 2, apex of bud; 3 and 3', variation of calyx; 4, stamen × 0.6; 5, apex of style; 6, fruit × 0.6. — R. Whitfieldii (Lindl.) Dandy: 7, reticulum of dry limb; 8, calyx; 9 and 10, variation of fruit (Fleury 26209 and 33614).*
 
 ## Notes
 

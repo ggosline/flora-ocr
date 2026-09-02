@@ -7,6 +7,13 @@ family: Meliaceae
 vol: 47
 pages: 15-16
 source: sources/Meliaceae_vol47_liteparse
+countries: [Cameroon, Equatorial Guinea, Gabon]
+in_region: true
+subdivisions:
+  Gabon: [Estuaire, Ogooué-Maritime, Woleu-Ntem]
+habit: "tree"
+habitat: [evergreen forest]
+altitude_m: "500"
 tags: [species, generated]
 ---
 # *Carapa angustifolia* Harms ex Engl.

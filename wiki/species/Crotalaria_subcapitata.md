@@ -7,6 +7,13 @@ family: Leguminosae
 vol: 49
 pages: 104-104
 source: sources/Millettiaspeciesfabaceae_vol49_liteparse
+countries: [Angola, Cameroon, Gabon, Ghana, Malawi, Uganda, Zambia]
+in_region: true
+subdivisions:
+  Gabon: [Ngounié]
+habit: "herb"
+habitat: [savanna]
+altitude_m: "100"
 tags: [species, generated]
 ---
 # *Crotalaria subcapitata* De Wild. subsp. subcapitata var. subcapitata

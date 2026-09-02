@@ -7,6 +7,8 @@ family: Orchidaceae
 vol: 36
 pages: 23-25
 source: sources/Orchidaceae_vol36_paddle
+countries: [Angola, Burundi, Cameroon, Cote d'Ivoire, Gabon, Guinea, Kenya, Malawi, Mali, Mozambique, Nigeria, Tanzania, Togo, Uganda, Zambia]
+in_region: true
 tags: [species, generated]
 ---
 # *Brachycorythis pubescens* Harv.
@@ -51,7 +53,7 @@ de Wilde, Arends & de Bruijn 9159, ca. 1 km N of Doussala, 2°18'S, 10°35'E (fl
 
 ![Brachycorythis pubescens](../sources/Orchidaceae_vol36_paddle/figures/fig_006_p0026.png)
 
-*PL. 6. – Brachycorythis pubescens Harv.: A, vue générale (ex SUMMERHAYES 1968); B, bractée ; C, ovaire; D, labelle ; E, pétale ; F, sépale dorsal ; G, H, sépale latéral (B-H, Le Testu 1667, P).*
+*PL. 6. – Brachycorythis pubescens Harv.: A, general view (ex SUMMERHAYES 1968); B, bract ; C, ovary; D, labellum ; E, petal ; F, dorsal sepal ; G, H, lateral sepal (B-H, Le Testu 1667, P).*
 
 ![Brachycorythis pubescens](../sources/Orchidaceae_vol36_paddle/figures/fig_114_p0218.png)
 

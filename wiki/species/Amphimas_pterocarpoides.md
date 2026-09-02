@@ -7,6 +7,12 @@ family: Leguminosae
 vol: 49
 pages: 41-41
 source: sources/Millettiaspeciesfabaceae_vol49_liteparse
+countries: [Cameroon, Central African Republic, Democratic Republic of the Congo, Equatorial Guinea, Gabon, Guinea, Sudan]
+in_region: true
+subdivisions:
+  Gabon: [Estuaire, Ogooué-Ivindo]
+habit: "tree"
+altitude_m: "500"
 tags: [species, generated]
 ---
 # *Amphimas pterocarpoides* Harms Planche 9

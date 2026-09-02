@@ -7,6 +7,13 @@ family: Oleaceae
 vol: 51
 pages: 20-20
 source: sources/Oleaceae_vol51_liteparse
+countries: [Cameroon, Democratic Republic of the Congo, Equatorial Guinea, Gabon]
+in_region: true
+subdivisions:
+  Gabon: [Estuaire, Moyen-Ogooué, Ngounié, Nyanga, Ogooué-Ivindo, Ogooué-Lolo, Ogooué-Maritime, Woleu-Ntem]
+habit: "shrub"
+habitat: [mangrove, secondary forest, riverine, coastal]
+altitude_m: "0–1020"
 tags: [species, generated]
 ---
 # *Noronhia congesta* (Baker) Jongkind, comb. nov. Planche 6

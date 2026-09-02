@@ -7,6 +7,13 @@ family: Cyperaceae
 vol: 44
 pages: 19-20
 source: sources/Cyperaceae_vol44_liteparse
+countries: [Angola, Gabon]
+in_region: true
+subdivisions:
+  Gabon: [Woleu-Ntem]
+habit: "herb"
+habitat: [rocky ground]
+altitude_m: "400–700"
 tags: [species, generated]
 ---
 # *Bulbostylis andongensis* (Ridl.) C.B.Clarke Planche 5, Figure 2a

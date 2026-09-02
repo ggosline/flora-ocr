@@ -7,6 +7,7 @@ family: Apocynaceae
 vol: 59
 pages: 198-201
 source: sources/Apocynaceae_vol59_liteparse
+habit: "tree"
 tags: [species, generated]
 ---
 # *Pleiocarpa rostrata* Benth. Planche 93 ; Figure 9(G)

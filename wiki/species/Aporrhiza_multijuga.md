@@ -7,6 +7,7 @@ family: Sapindaceae
 vol: 23
 pages: 159-160
 source: sources/Sapindaceae_vol23_paddle
+habit: "shrub"
 tags: [species, generated]
 ---
 # *Aporrhiza multijuga* Gilg

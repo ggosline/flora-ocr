@@ -7,6 +7,12 @@ family: Cucurbitaceae
 vol: 57
 pages: 45-47
 source: sources/Cucurbitaceae_vol57_paddle
+countries: [Angola, Cameroon, Cote d'Ivoire, Democratic Republic of the Congo, Gabon, Nigeria, Republic of the Congo, Rwanda, Uganda]
+in_region: true
+subdivisions:
+  Gabon: [Estuaire, Ogooué-Ivindo]
+habit: "liana"
+altitude_m: "500–910"
 tags: [species, generated]
 ---
 # *Bambekea racemosa* Cogn.

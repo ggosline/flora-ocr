@@ -8,6 +8,11 @@ vol: 44
 pages: 175-175
 source: sources/Cyperaceae_vol44_liteparse
 also_in_vols: [44]
+countries: [Gabon]
+in_region: true
+subdivisions:
+  Gabon: [Nyanga, Ogooué-Maritime]
+altitude_m: "340–430"
 tags: [species, generated]
 ---
 # *Mapania pubisquama* ( Breteler 5752 , Ngounié, Gabon).

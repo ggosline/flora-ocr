@@ -7,6 +7,12 @@ family: Convolvulaceae
 vol: 46
 pages: 10-12
 source: sources/Convolvulaceae_vol46_liteparse
+countries: [Gabon]
+in_region: true
+subdivisions:
+  Gabon: [Moyen-Ogooué, Ngounié, Nyanga, Ogooué-Ivindo, Ogooué-Maritime]
+habit: "herb"
+altitude_m: "100"
 tags: [species, generated]
 ---
 # *Aniseia martinicensis* (Jacq.) Choisy Planche 1

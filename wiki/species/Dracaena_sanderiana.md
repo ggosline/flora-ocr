@@ -7,6 +7,12 @@ family: Dracaenaceae
 vol: 54
 pages: 53-53
 source: sources/Dracaenaceae_vol54_liteparse
+countries: [Angola, Cameroon, Central African Republic, Democratic Republic of the Congo, Gabon, Republic of the Congo]
+in_region: true
+subdivisions:
+  Gabon: [Ogooué-Ivindo]
+habit: "herb"
+altitude_m: "110"
 tags: [species, generated]
 ---
 # *Dracaena sanderiana* Sander ex Mast. Figure 5(A, B)

@@ -7,6 +7,9 @@ family: Celastraceae
 vol: 29
 pages: 98-104
 source: sources/Celastraceae_vol29_paddle
+countries: [Angola, Cameroon, Democratic Republic of the Congo, Gabon, Guinea, Liberia, Nigeria]
+in_region: true
+habitat: [riverine]
 tags: [species, generated]
 ---
 # *Salacia whytei* Loesener

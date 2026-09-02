@@ -7,6 +7,9 @@ family: Orchidaceae
 vol: 37
 pages: 151-153
 source: sources/Orchidaceae_vol37_paddle
+countries: [Cameroon, Central African Republic, Cote d'Ivoire, Democratic Republic of the Congo, Gabon, Ghana, Liberia, Nigeria, Sao Tome and Principe, Sierra Leone]
+in_region: true
+habitat: [swamp forest, rocky ground]
 tags: [species, generated]
 ---
 # *Solenangis scandens* (Schltr.) Schltr.
@@ -17,39 +20,33 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Feuilles 3-7,3 x 1,2-2,5 cm, ovées-lancéolées à elliptiques. Inflorescence 2-10 cm, 3-15-flore. Fleurs assez petites, résupinées, périanthe blanchâtre, jaunâtre, verdâtre ou rosâtre. Sépale dorsal oblong-ové, obtus. Pétales obliquement oblongs-ovés, obtus. Sépales latéraux obliquement elliptiques-ovés, obtus. Labelle 6-8 x 2,5-4 mm, ovale ou triangulaire, plus large à la base, entier, sans callus, assez épais, surtout le long de la nervure médiane. Éperon 20-27 mm, étroitement conique jusqu'aux trois quarts de sa longueur, le quart apical étant renflé en forme d'ampoule. – Pl. 174, p. 379.
+Leaves 3-7.3 x 1.2-2.5 cm, ovate-lanceolate to elliptic. Inflorescence 2-10 cm, 3-15-flowered. Flowers rather small, resupinate, perianth whitish, yellowish, greenish or pinkish. Dorsal sepal oblong-ovate, obtuse. Petals obliquely oblong-ovate, obtuse. Lateral sepals obliquely elliptic-ovate, obtuse. Labellum 6-8 x 2.5-4 mm, ovate or triangular, wider at the base, entire, without callus, rather thick, especially along the midvein. Spur 20-27 mm, narrowly conical for three-quarters of its length, the apical quarter inflated in the form of an ampulla. – Pl. 174, p. 379.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Sierra Leone, Liberia, Côte d'Ivoire, Ghana, Nigeria, Cameroun, Gabon, Sao Tomé, Congo, Zaire, République centrafricaine
+Sierra Leone, Liberia, Côte d'Ivoire, Ghana, Nigeria, Cameroon, Gabon, São Tomé, Congo, Zaire, Central African Republic
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+alt. 0-1,000 m. Lithophyte or epiphyte in dense forest, pelohydrophilous forest or marsh, observed on Microdesmis puberula, Dacryodes edulis, always at the branch apex, exposed or not, but usually on humid soil
 
-alt. 0-1 000 m. Lithophyte ou épiphyte en forêt dense, forêt pélohygrophile ou marais, observé sur Microdesmis puberula, Dacryodes edulis, toujours à l'extrémité de branche, exposé ou non, mais usuellement sur sol humide
+MATERIAL STUDIED (Map 80):
 
-MATÉRIEL ÉTUDIÉ (Carte 80) :
+Breteler & Jongkind 10127, Rabi-Kounga, in forest, ± 1° 55' S, 9° 55' E, epiphyte (fl. Oct.), WAG!.
 
-Breteler & Jongkind 10127, Rabi-Kounga, en forêt, ± 1° 55' S, 9° 55' E, épiphyte (fl. Oct.), WAG!.
+De Wilde, Arends & de Bruijn 9184, approximately 8 km N of Mayumba, near Ocean, 3° 21' S, 10° 40' E (fl. Dec.), WAG!.
 
-De Wilde, Arends & de Bruijn 9184, environ 8 km N de Mayumba, près de Océan, 3° 21' S, 10° 40' E (fl. Déc.), WAG!.
+Hallé 3502, Bélinga (fl. Dec.), P!.
 
-Hallé 3502, Bélinga (fl. Déc.), P!.
+Le Testu 9003, Coum rock between Oyem and Bitam (fl. Mar.), BM, BR, P!.
 
-Le Testu 9003, rocher de Coum entre Oyem et Bitam (fl. Mars), BM, BR, P!.
-
-J. M. & B. Reitsma & Louis 1802, inselberg, environ 28 km ESE de Médouneu, 0° 55' N, 11° 01' E (fl. Fév.), WAG!.
+J. M. & B. Reitsma & Louis 1802, inselberg, approximately 28 km ESE of Médouneu, 0° 55' N, 11° 01' E (fl. Feb.), WAG!.
 
 ## Figures
 
 ![Solenangis scandens](../sources/Orchidaceae_vol37_paddle/figures/fig_069_p0152.png)
 
-*PL. 175. – Structure du gynostème du genre Taeniorrhiza Summerh. : A, vue latérale, anthère enlevée ; B, vue de face, anthère enlevée ; C, reste du rostelle, position naturelle ; D, reste du rostelle étalé ; E, F, pollinaires, vues diverses (A-F, ex SzLACHETKO, 2003).*
+*PL. 175. – Structure of the gynostemium of the genus Taeniorrhiza Summerh. : A, lateral view, anther removed ; B, frontal view, anther removed ; C, remainder of rostellum, natural position ; D, remainder of rostellum spread out ; E, F, pollinaria, various views (A-F, ex SzLACHETKO, 2003).*
 
 ![Solenangis scandens](../sources/Orchidaceae_vol37_paddle/figures/fig_160_p0257.png)
 

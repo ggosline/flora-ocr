@@ -7,6 +7,7 @@ family: Acanthaceae
 vol: 13
 pages: 136-138
 source: sources/Acanthaceae_vol13_paddle
+habit: "herb"
 tags: [species, generated]
 ---
 # *Asystasia gangetica* (L.) T. Anders.

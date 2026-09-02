@@ -7,6 +7,12 @@ family: Cyperaceae
 vol: 44
 pages: 118-119
 source: sources/Cyperaceae_vol44_liteparse
+countries: [Gabon, Madagascar]
+in_region: true
+subdivisions:
+  Gabon: [Estuaire, Ngounié, Ogooué-Ivindo, Woleu-Ntem]
+habit: "herb"
+altitude_m: "0–600"
 tags: [species, generated]
 ---
 # *Cyperus lanceolatus* Poir. Planche 74, Figure 9a

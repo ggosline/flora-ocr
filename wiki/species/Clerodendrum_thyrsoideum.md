@@ -6,6 +6,12 @@ genus: Clerodendrum
 vol: 58
 pages: 44-45
 source: sources/Labiataeulmaceaeverbenaceae_vol58_liteparse
+countries: [Cameroon, Central African Republic, Chad, Democratic Republic of the Congo, Gabon, Nigeria, Republic of the Congo]
+in_region: true
+subdivisions:
+  Gabon: [Haut-Ogooué]
+habit: "liana"
+altitude_m: "700"
 tags: [species, generated]
 ---
 # *Clerodendrum thyrsoideum* Gürke

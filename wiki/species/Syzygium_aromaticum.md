@@ -7,6 +7,7 @@ family: Myrtaceae
 vol: 11
 pages: 18-19
 source: sources/Myrtaceae_vol11_paddle
+habit: "tree"
 tags: [species, generated]
 ---
 # *Syzygium aromaticum* (L.) Merr. et Perry
@@ -25,13 +26,11 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Tree or shrub glabrous, evergreen, with grayish bark. Leaves obovate-oblong or lanceolate, attenuate at the base, obtuse or obtusely acuminate at the apex, coriaceous, 6–13 cm long and 2.5–5 cm wide. Petiole slender, 1.5–2.5 cm long. Inflorescence terminal, cymose, with 3–20 flowers. Receptacle almost cylindrical, somewhat angular. Sepals ovate-triangular, approximately 2 mm long. Petals coherent. Style short; stigma bilobed.
 
-Arbre ou arbuste glabre, toujours vert, à écorce grisâtre. Feuilles obvées-oblongues ou blancéolées, atténuées à la base, obtuses ou obtusément acuminées au sommet, coriaces, de 6-13 cm de long et 2,5-5 cm de large. Pétiole grêle, de 1,5-2,5 cm de long. Inflorescence terminale, cymeuse, à 3-20 fleurs. Réceptacle presque cylindrique, un peu angulaire. Sépales ovés-triangulaires, longs d'env. 2 mm. Pétales cohérents. Style bref; stigmate bilobé.
+Native to the Molucca Islands, but introduced and cultivated for a long time in all warm countries.
 
-Originaire des îles Molusques, mais depuis longtemps introduit et cultivé dans tous les pays chauds.
-
-Les boutons floraux sont les clous-de-girofle du commerce.
+The flower buds are the cloves of commerce.
 
 ## Vernacular names
 

@@ -7,6 +7,7 @@ family: Melastomataceae
 vol: 25
 pages: 102-105
 source: sources/Melastomataceae_vol25_paddle
+habit: "shrub"
 tags: [species, generated]
 ---
 # *Dicellandra descoingsii* Jacques-Félix
@@ -57,7 +58,7 @@ CLÉ DES GENRES
 
 ![Dicellandra descoingsii](../sources/Melastomataceae_vol25_paddle/figures/fig_038_p0103.png)
 
-*PL. 38. — Dicellandra descoingsii Jacq.-Fél. : 1, sommité fleurie × 2/3; 2, pétale × 2; 3, étamine de chacun des verticilles × 6; 4 & 4', jeune fruit, entier et en coupe partielle × 6; 5, fruit × 6 (1-4', Descoings 6465; 5, Le Testu 5782). (Repris d'Adansonia, sér. 2, 14 (1) : tab. 9, 1974).*
+*PL. 38. — Dicellandra descoingsii Jacq.-Fél. : 1, flowering top × 2/3; 2, petal × 2; 3, stamen of each of the whorls × 6; 4 & 4', young fruit, whole and in partial section × 6; 5, fruit × 6 (1-4', Descoings 6465; 5, Le Testu 5782). (Taken from Adansonia, sér. 2, 14 (1) : tab. 9, 1974).*
 
 ## Notes
 

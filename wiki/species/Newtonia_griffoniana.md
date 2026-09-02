@@ -7,6 +7,8 @@ family: Leguminosae
 vol: 31
 pages: 52-55
 source: sources/Leguminosae_vol31_paddle
+countries: [Cameroon, Gabon]
+in_region: true
 tags: [species, generated]
 ---
 # *Newtonia griffoniana* (Baillon) Baker f.
@@ -65,7 +67,7 @@ Florence 339, M'Passa, 10 km S Makokou. Griffon du Bellay 6, s.l. (fr.). Klaine 
 
 ![Newtonia griffoniana](../sources/Leguminosae_vol31_paddle/figures/fig_023_p0054.png)
 
-*PL. 12. – Newtonia griffoniana (Baill.) Baker f. : 1, aspect général × 2/3 ; 2, pétiole × 2 ; 3, 4, 5, 6, foliole × 2 ; 7, foliole, détail nervation face inférieure × 3 ; 8, bractéole × 30 ; 9, bouton floral × 8 ; 10, fleur × 8 ; 11, fleur, coupe longitudinale × 8 ; 12, anthère × 20 ; 13, pistil × 8 ; 14, fruit × 1 ; 15, graine × 1. (1, 2, Le Testu 6085 ; 2, Le Testu 8283 ; 3, Villiers J.-F. 279 ; 4, 7, 8, 10-13, Le Testu 7445 ; 5, 9, Klaine 237 ; 6, 14, Hédin 1694 (Cameroun) ; 15, Klaine 1000).*
+*PL. 12. – Newtonia griffoniana (Baill.) Baker f.: 1, general aspect × 2/3; 2, petiole × 2; 3, 4, 5, 6, leaflet × 2; 7, leaflet, detail venation lower surface × 3; 8, bracteole × 30; 9, floral bud × 8; 10, flower × 8; 11, flower, longitudinal section × 8; 12, anther × 20; 13, pistil × 8; 14, fruit × 1; 15, seed × 1. (1, 2, Le Testu 6085; 2, Le Testu 8283; 3, Villiers J.-F. 279; 4, 7, 8, 10-13, Le Testu 7445; 5, 9, Klaine 237; 6, 14, Hédin 1694 (Cameroon); 15, Klaine 1000).*
 
 ## Notes
 

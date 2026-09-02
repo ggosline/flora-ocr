@@ -54,7 +54,7 @@ Nicklès : sans n°, au N d'Oyem.
 
 ![Cyathea manniana](../sources/Cyatheaceae_vol08_paddle/figures/fig_012_p0059.png)
 
-*PL. IX. — Cythea camerooniana Hk. (N. Hallé et G. Cours 5881) : 1, base du tronc; (N. Hallé 1694); 2, une penne × 2 /3; 3, base d'une pinnule × 4; 4, un poil des nervures × 30. — C. Manniana Hk. : (N. Hallé et G. Cours 6133); 5, base du tronc; 6, (Cam. : MC 290) pennes × 2 /3; 7, écaille × 20; 8, détail × 4. — Nephrolepis undulata (Afz.) J. Sm. (N. Hallé et G. Cours 6125) : 9, pennes × 2 /3; 10, détail × 3. — N. biserrata (Sw.) Schott (N. Hallé et G. Cours 5902) : 11, pennes × 2 /3; 12, détail × 4.*
+*PL. IX. — Cythea camerooniana Hk. (N. Hallé et G. Cours 5881) : 1, base of the trunk; (N. Hallé 1694); 2, a pinna × 2 /3; 3, base of a pinnule × 4; 4, a hair of the nerves × 30. — C. Manniana Hk. : (N. Hallé et G. Cours 6133); 5, base of the trunk; 6, (Cam. : MC 290) pinnae × 2 /3; 7, scale × 20; 8, detail × 4. — Nephrolepis undulata (Afz.) J. Sm. (N. Hallé et G. Cours 6125) : 9, pinnae × 2 /3; 10, detail × 3. — N. biserrata (Sw.) Schott (N. Hallé et G. Cours 5902) : 11, pinnae × 2 /3; 12, detail × 4.*
 
 ## Notes
 

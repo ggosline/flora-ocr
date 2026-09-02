@@ -7,6 +7,13 @@ family: Ochnaceae
 vol: 48
 pages: 61-62
 source: sources/Ochnaceae_vol48_liteparse
+countries: [Gabon]
+in_region: true
+subdivisions:
+  Gabon: [Estuaire, Ogooué-Ivindo, Woleu-Ntem]
+habit: "shrub"
+habitat: [secondary forest]
+altitude_m: "500–650"
 tags: [species, generated]
 ---
 # *Campylospermum louisii* Biss. & Sosef

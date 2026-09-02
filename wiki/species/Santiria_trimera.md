@@ -5,12 +5,8 @@ authority: (Oliv.) Aubréville
 genus: Santiria
 family: Burseraceae
 synonyms: [Sorindeia trimera Oliv., Santiriopsis balsamifera (Oliv.) Engl., Dacryodes trimera (Oliv.) H. J. Lam]
-countries: [Sierra Leone, São Tomé and Príncipe, Gabon, Republic of the Congo]
-countries_incomplete: true
-in_region: true
-habit: shrub or tree
-habitat: [primary forest understorey]
 treatments: [{vol: 3, pages: "96–97", source: sources/Burseraceae_vol3_paddle}]
+habit: "tree"
 tags: [species]
 ---
 

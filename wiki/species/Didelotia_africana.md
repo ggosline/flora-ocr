@@ -7,6 +7,9 @@ family: Leguminosae
 vol: 15
 pages: 253-255
 source: sources/Leguminosae_vol15_paddle
+countries: [Gabon, Nigeria]
+in_region: true
+habit: "tree"
 tags: [species, generated]
 ---
 # *Didelotia africana* Baill.
@@ -49,7 +52,7 @@ Normand : 258, La Mondah (j. fr. oct.).
 
 ![Didelotia africana](../sources/Leguminosae_vol15_paddle/figures/fig_060_p0252.png)
 
-*PL. LX. — Didelotia africana Baill. : 1, feuille × 2/3; 2, jeune fruit × 2/3. — Didelotia Letouzeyi Pellegr. : 3, feuille de semis × 2/3; 4, stipule et stipelles à la base d'une très jeune feuille; 5, rameau florifère × 2/3; 6, fleur × 5; 7, détail du disque et coupe de l'ovaire.*
+*PL. LX. — Didelotia africana Baill. : 1, leaf × 2/3; 2, young fruit × 2/3. — Didelotia Letouzeyi Pellegr. : 3, seedling leaf × 2/3; 4, stipule and stipels at the base of a very young leaf; 5, flowering branch × 2/3; 6, flower × 5; 7, detail of the disc and section of the ovary.*
 
 ## Notes
 

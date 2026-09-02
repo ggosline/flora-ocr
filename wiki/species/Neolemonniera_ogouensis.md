@@ -8,14 +8,12 @@ synonyms:
   - Mimusops ogouensis Pierre msc.
   - Lecomtedoxa ogouensis Dubard
   - Le-Monniera ogouensis (Pierre) Lecomte
-habit: tree
-habitat: []
-altitude_m: ""
-countries_incomplete: true  # source gives localities but no country/province list; needs review
 treatments:
   - vol: 1
     pages: "74"
     source: sources/Sapotaceae_vol01_paddle
+countries: [Gabon]
+in_region: true
 tags: [species]
 ---
 

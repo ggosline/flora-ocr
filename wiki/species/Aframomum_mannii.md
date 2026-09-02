@@ -4,10 +4,8 @@ name: Aframomum mannii
 authority: (Oliv. et Hanb.) K. Schum.
 genus: Aframomum
 family: Zingiberaceae
-countries: [Gabon]
-in_region: true
-habit: rhizomatous herb
 treatments: [{vol: 9, pages: "59–60", source: sources/Zingiberaceae_vol9_paddle}]
+habit: "herb"
 tags: [species]
 ---
 # *Aframomum mannii* (Oliv. et Hanb.) K. Schum.

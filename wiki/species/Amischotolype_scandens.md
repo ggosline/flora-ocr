@@ -7,6 +7,10 @@ family: Commelinaceae
 vol: 55
 pages: 11-14
 source: sources/Commelinaceae_vol55_liteparse
+countries: [Cameroon, Equatorial Guinea, Gabon]
+in_region: true
+subdivisions:
+  Gabon: [Estuaire, Ngounié]
 tags: [species, generated]
 ---
 # *Amischotolype scandens* Burg & E.Bidault, spec. nov. Planche 1, Figure 1(A, B)

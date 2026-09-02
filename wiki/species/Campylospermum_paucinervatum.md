@@ -7,6 +7,13 @@ family: Ochnaceae
 vol: 48
 pages: 63-63
 source: sources/Ochnaceae_vol48_liteparse
+countries: [Angola, Gabon, Republic of the Congo]
+in_region: true
+subdivisions:
+  Gabon: [Nyanga, Ogooué-Maritime]
+habit: "shrub"
+habitat: [coastal]
+altitude_m: "10–40"
 tags: [species, generated]
 ---
 # *Campylospermum paucinervatum* Sosef

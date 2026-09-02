@@ -7,6 +7,10 @@ family: Combretaceae
 vol: 35
 pages: 36-39
 source: sources/Combretaceae_vol35_paddle
+countries: [Cameroon, Gabon]
+in_region: true
+habit: "liana"
+habitat: [riverine]
 tags: [species, generated]
 ---
 # *Combretum demeusei* De Wildeman

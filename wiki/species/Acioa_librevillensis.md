@@ -7,6 +7,9 @@ family: Scytopetalaceae
 vol: 24
 pages: 50-52
 source: sources/Chrysobalanaceae_vol24_paddle
+countries: [Angola, Democratic Republic of the Congo, Gabon, Liberia, Sierra Leone]
+in_region: true
+habit: "liana"
 tags: [species, generated]
 ---
 # *Acioa librevillensis* R. Letouzey
@@ -47,7 +50,7 @@ Klein 55, Cap Esterias près Libreville (fl., févr.) (B, P).
 
 ![Acioa librevillensis](../sources/Chrysobalanaceae_vol24_paddle/figures/fig_014_p0051.png)
 
-*PL. 14. — Acioa librevillensis R. Let. : 1, rameau avec fleurs × 2/3; 2, stipules × 4; 3, feuille dessous × 2/3; 4, fleur (pét. excl.) × 3/2; 5, 6, bractée et bractéoles × 6; 7, calice × 4. (Klein 55). (Repris d'Adansonia 16 (2) : tab. 4, 1976).*
+*PL. 14. — Acioa librevillensis R. Let. : 1, branch with flowers × 2/3; 2, stipules × 4; 3, leaf underside × 2/3; 4, flower (pet. excl.) × 3/2; 5, 6, bract and bracteoles × 6; 7, calyx × 4. (Klein 55). (Reprinted from Adansonia 16 (2) : tab. 4, 1976).*
 
 ## Notes
 

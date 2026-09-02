@@ -7,6 +7,10 @@ family: Rubiaceae
 vol: 17
 pages: 222-224
 source: sources/Rubiaceae_vol17_paddle
+countries: [Senegal]
+in_region: false
+habit: "tree"
+habitat: [riverine]
 tags: [species, generated]
 ---
 # *Gardenia imperialis* K. Schum.
@@ -52,7 +56,7 @@ Le Testu: 6386, Mourimatsengui, banks of the Doubandji, Upper Ngounié (fl. Feb.
 
 ![Gardenia imperialis](../sources/Rubiaceae_vol17_paddle/figures/fig_052_p0221.png)
 
-*PL. 51. — Gardenia imperialis K. Schum. (N. Hallé 1653, fl.; N. H. 4631, fr.) : 1, extrémité florifère × 3/4; 2, anthère ouverte × 2; 3, fruit vert × 1,5; 4, hémisphère endocarpique; 5, graine × 12; 6, plantule × 0,75 (F. Hallé 940).*
+*PL. 51. — Gardenia imperialis K. Schum. (N. Hallé 1653, fl.; N. H. 4631, fr.) : 1, flowering extremity × 3/4; 2, open anther × 2; 3, green fruit × 1,5; 4, endocarpic hemisphere; 5, seed × 12; 6, seedling × 0,75 (F. Hallé 940).*
 
 ## Notes
 

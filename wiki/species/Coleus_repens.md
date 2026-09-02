@@ -6,6 +6,12 @@ genus: Coleus
 vol: 58
 pages: 60-61
 source: sources/Labiataeulmaceaeverbenaceae_vol58_liteparse
+countries: [Cameroon, Democratic Republic of the Congo, Equatorial Guinea, Gabon, Republic of the Congo]
+in_region: true
+subdivisions:
+  Gabon: [Estuaire, Ngounié, Nyanga, Ogooué-Ivindo, Woleu-Ntem]
+habit: "herb"
+altitude_m: "2000"
 tags: [species, generated]
 ---
 # *Coleus repens* Gürke

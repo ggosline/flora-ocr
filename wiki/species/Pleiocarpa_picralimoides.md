@@ -7,6 +7,7 @@ family: Apocynaceae
 vol: 59
 pages: 196-196
 source: sources/Apocynaceae_vol59_liteparse
+habit: "shrub"
 tags: [species, generated]
 ---
 # *Pleiocarpa picralimoides* (Pichon) Omino Figure 9(D)

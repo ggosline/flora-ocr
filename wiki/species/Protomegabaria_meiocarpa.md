@@ -7,6 +7,13 @@ family: Phyllanthaceae
 vol: 43
 pages: 78-78
 source: sources/Phyllanthaceae_vol43_liteparse
+countries: [Democratic Republic of the Congo, Gabon]
+in_region: true
+subdivisions:
+  Gabon: [Nyanga]
+habit: "tree"
+habitat: [primary forest]
+altitude_m: "450–600"
 tags: [species, generated]
 ---
 # *Protomegabaria meiocarpa* J.Léonard Planche 25

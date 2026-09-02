@@ -7,6 +7,9 @@ family: Flacourtiaceae
 vol: 34
 pages: 73-73
 source: sources/Flacourtiaceae_vol34_paddle
+countries: [Gabon]
+in_region: true
+habit: "tree"
 tags: [species, generated]
 ---
 # *Homalium ogouense* Pellegr.

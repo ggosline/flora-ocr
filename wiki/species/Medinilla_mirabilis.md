@@ -7,6 +7,7 @@ family: Melastomataceae
 vol: 25
 pages: 106-108
 source: sources/Melastomataceae_vol25_paddle
+habit: "shrub"
 tags: [species, generated]
 ---
 # *Medinilla mirabilis* (Gilg) Jacques-Félix
@@ -51,7 +52,7 @@ Cette espèce épiphyte est connue des régions montagneuses de l'Ouest africain
 
 ![Medinilla mirabilis](../sources/Melastomataceae_vol25_paddle/figures/fig_039_p0107.png)
 
-*PL. 39. — Medinilla mirabilis (Gilg) Jacq.-Fél.: 1, rameau feuillé × 2/3; 2, fleur × 3; 3, étamines, externe et interne × 6; 4, nœud basal avec infrutescence × 3; 5 & 6, fruit, entier et coupé × 4; 7, graine × 20 (1, 4-7, Walker s.n.; 2 & 3, Le Testu 5771).*
+*PL. 39. — Medinilla mirabilis (Gilg) Jacq.-Fél.: 1, leafy branch × 2/3; 2, flower × 3; 3, stamens, external and internal × 6; 4, basal node with fruiting inflorescence × 3; 5 & 6, fruit, whole and cut × 4; 7, seed × 20 (1, 4-7, Walker s.n.; 2 & 3, Le Testu 5771).*
 
 ## Notes
 

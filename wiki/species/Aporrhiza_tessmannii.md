@@ -7,6 +7,9 @@ family: Sapindaceae
 vol: 23
 pages: 158-159
 source: sources/Sapindaceae_vol23_paddle
+countries: [Democratic Republic of the Congo, Gabon, Tanzania]
+in_region: true
+habit: "tree"
 tags: [species, generated]
 ---
 # *Aporrhiza tessmannii* Gilg ex Radlkofer

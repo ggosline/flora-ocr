@@ -7,6 +7,9 @@ family: Leguminosae
 vol: 15
 pages: 295-297
 source: sources/Leguminosae_vol15_paddle
+countries: [Angola, Gabon]
+in_region: true
+habit: "tree"
 tags: [species, generated]
 ---
 # *Julbernardia brieyi* (De Wild.) Troupin

@@ -7,6 +7,9 @@ family: Bombacaceae
 vol: 22
 pages: 55-56
 source: sources/Bombacaceae_vol22_paddle
+countries: [Gabon]
+in_region: true
+habit: "herb"
 tags: [species, generated]
 ---
 # *Pachira sessilis* Bentham

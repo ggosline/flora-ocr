@@ -7,6 +7,10 @@ family: Moraceae
 vol: 26
 pages: 219-225
 source: sources/Moraceae_vol26_paddle
+countries: [Angola, Democratic Republic of the Congo, Liberia, Mozambique, Nigeria, Senegal, Sudan, Togo, Uganda]
+in_region: true
+habitat: [savanna, secondary forest]
+altitude_m: "25"
 tags: [species, generated]
 ---
 # *Ficus ovata* Vahl
@@ -97,7 +101,7 @@ F. kirkii Hutch. (de la Tanzanie au Zimbabwe), F. michelsonii Boutique & Léonar
 
 ![Ficus ovata](../sources/Moraceae_vol26_paddle/figures/fig_066_p0222.png)
 
-*PL. 65. – Ficus ovata Vahl : 1, rameau avec feuille et figues × 1 ; 2, fleur à graine ; 3, fleur staminée (1, Letouzey 7681, Cameroun ; 2, 3, Leeuwenberg 9075, Cameroun).*
+*PL. 65. – Ficus ovata Vahl : 1, branch with leaf and figs × 1 ; 2, seed-bearing flower ; 3, staminate flower (1, Letouzey 7681, Cameroon ; 2, 3, Leeuwenberg 9075, Cameroon).*
 
 ## Notes
 

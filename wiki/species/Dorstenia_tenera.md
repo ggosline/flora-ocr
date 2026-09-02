@@ -7,6 +7,7 @@ family: Moraceae
 vol: 26
 pages: 67-75
 source: sources/Moraceae_vol26_paddle
+habit: "herb"
 tags: [species, generated]
 ---
 # *Dorstenia tenera* Bureau
@@ -42,15 +43,15 @@ KEY TO THE VARIETIES
 
 ![Dorstenia tenera](../sources/Moraceae_vol26_paddle/figures/fig_020_p0070.png)
 
-*PL. 19. – Dorstenia tenera Bur. var. tenera : 1, portion de tige ; 2, stipules et pubescence de la tige ; 3, inflorescences ; 4, détail face inf. capitule ; 5, fleur pistillée (1-4, Hallé N. 732 ; 5, Le Testu 7627).*
+*PL. 19. – Dorstenia tenera Bur. var. tenera : 1, portion of stem ; 2, stipules and stem pubescence ; 3, inflorescences ; 4, detail lower surface capitulum ; 5, pistillate flower (1-4, Hallé N. 732 ; 5, Le Testu 7627).*
 
 ![Dorstenia tenera](../sources/Moraceae_vol26_paddle/figures/fig_021_p0072.png)
 
-*PL. 20. – Dorstenia tenera Bur. var. obtusibracteata (Engl.) Hijman & C.C. Berg: 1, ramille; 2, portion de tige; 3, 4, inflo.; 5, fleur pistillée (1, 3, 5, Büsgen s.n., Cameroun; 2, 4, Hallé N. 2297).*
+*PL. 20. – Dorstenia tenera Bur. var. obtusibracteata (Engl.) Hijman & C.C. Berg: 1, branchlet; 2, portion of stem; 3, 4, infl.; 5, pistillate flower (1, 3, 5, Büsgen s.n., Cameroon; 2, 4, Hallé N. 2297).*
 
 ![Dorstenia tenera](../sources/Moraceae_vol26_paddle/figures/fig_022_p0074.png)
 
-*PL. 21. - Dorstenia zenkeri Engl.: 1, partie sup. de la tige; 2, feuille; 3-6, inflo. (1, 3, 4, Flamigni s.n., Zaire; 2, 5, Zenker 99, Cameroun; 6, Letouzey 11869, Cameroun).*
+*PL. 21. - Dorstenia zenkeri Engl.: 1, upper part of the stem; 2, leaf; 3-6, inflo. (1, 3, 4, Flamigni s.n., Zaire; 2, 5, Zenker 99, Cameroon; 6, Letouzey 11869, Cameroon).*
 
 ## Notes
 

@@ -7,6 +7,12 @@ family: Leguminosae
 vol: 49
 pages: 139-141
 source: sources/Millettiaspeciesfabaceae_vol49_liteparse
+countries: [Angola, Cameroon, Central African Republic, Cote d'Ivoire, Democratic Republic of the Congo, Equatorial Guinea, Gabon, Guinea, Guinea-Bissau, Liberia, Mali, Republic of the Congo, Senegal, Sierra Leone, Togo, Zambia]
+in_region: true
+subdivisions:
+  Gabon: [Estuaire, Moyen-Ogooué, Nyanga, Woleu-Ntem]
+habit: "liana"
+altitude_m: "665"
 tags: [species, generated]
 ---
 # *Dalbergia mayumbensis* Baker f. Planche 44

@@ -7,6 +7,12 @@ family: Scrophulariaceae
 vol: 48
 pages: 100-100
 source: sources/Scrophulariaceae_vol48_liteparse
+countries: [Democratic Republic of the Congo, Gabon, Zambia]
+in_region: true
+subdivisions:
+  Gabon: [Ngounié, Ogooué-Maritime]
+habit: "herb"
+altitude_m: "1700"
 tags: [species, generated]
 ---
 # *Alectra glandulosa* Philcox Planche 56(A–B)

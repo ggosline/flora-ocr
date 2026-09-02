@@ -7,6 +7,7 @@ family: Apocynaceae
 vol: 59
 pages: 127-129
 source: sources/Apocynaceae_vol59_liteparse
+habit: "liana"
 tags: [species, generated]
 ---
 # *Landolphia glandulosa* (Pellegr.) Pichon Planche 53(8)

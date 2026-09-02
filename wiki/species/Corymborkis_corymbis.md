@@ -7,6 +7,9 @@ family: Orchidaceae
 vol: 36
 pages: 59-61
 source: sources/Orchidaceae_vol36_paddle
+countries: [Madagascar]
+in_region: false
+habitat: [evergreen forest]
 tags: [species, generated]
 ---
 # *Corymborkis corymbis* Thouars

@@ -7,6 +7,13 @@ family: Phyllanthaceae
 vol: 43
 pages: 73-75
 source: sources/Phyllanthaceae_vol43_liteparse
+countries: [Cameroon, Equatorial Guinea, Gabon, Republic of the Congo]
+in_region: true
+subdivisions:
+  Gabon: [Haut-Ogooué]
+habit: "tree"
+habitat: [secondary forest]
+altitude_m: "550"
 tags: [species, generated]
 ---
 # *Plagiocladus diandrus* (Pax) Jean F.Brunel Planche 23

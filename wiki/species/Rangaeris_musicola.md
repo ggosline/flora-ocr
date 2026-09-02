@@ -7,6 +7,9 @@ family: Orchidaceae
 vol: 37
 pages: 145-147
 source: sources/Orchidaceae_vol37_paddle
+countries: [Angola, Cameroon, Cote d'Ivoire, Democratic Republic of the Congo, Gabon, Ghana, Guinea, Kenya, Liberia, Malawi, Mozambique, Nigeria, Rwanda, Sierra Leone, Tanzania, Uganda, Zambia, Zimbabwe]
+in_region: true
+habitat: [evergreen forest]
 tags: [species, generated]
 ---
 # *Rangaeris musicola* (Rchb.f.) Summerh.

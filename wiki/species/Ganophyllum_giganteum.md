@@ -7,6 +7,9 @@ family: Sapindaceae
 vol: 23
 pages: 193-196
 source: sources/Sapindaceae_vol23_paddle
+countries: [Cameroon, Central African Republic, Democratic Republic of the Congo, Gabon]
+in_region: true
+habit: "tree"
 tags: [species, generated]
 ---
 # *Ganophyllum giganteum* (Chevalier) Hauman
@@ -67,7 +70,7 @@ Le genre Harpulia compte plus de 30 espèces asiatiques et océaniennes dont une
 
 ![Ganophyllum giganteum](../sources/Sapindaceae_vol23_paddle/figures/fig_050_p0195.png)
 
-*PL. 44. — Ganophyllum giganteum (Chev.) Hauman (1, 4, Donis 2257; 2-2", Le Testu 1463; 3, 3", Le Testu 1471; 3', Le Testu 7386) : 1, feuille et fruit, 18 mm; 2, inflorescence 17 cm; 2', cymule réduit aux moignons; 3, fleur ♂; 3', fleur vue de dessus; 3', coupe de bouton; 4, 4', fruit face et profil; 4", coupe de fruit. — Majidea fosteri (Sprague) Radlk. (5, Letouzey 5307; 6-9', Touzet 6) : 5, feuille; 6, inflorescence 8 cm; 6', cymule ♂; 6", cymule avec fleurs ♀; 7, fleur ♂, diamètre du disque 3 mm; 7, coupe; 8, fleur ♀, disque 3 mm; 8', coupe; 8", poils en pinceaux sur les sépales; 9, fruit, large de 3,5 cm; 9', graine 6 mm.*
+*PL. 44. — Ganophyllum giganteum (Chev.) Hauman (1, 4, Donis 2257; 2-2", Le Testu 1463; 3, 3", Le Testu 1471; 3', Le Testu 7386) : 1, leaf and fruit, 18 mm; 2, inflorescence 17 cm; 2', cymule reduced to remnants; 3, ♂ flower; 3', flower viewed from above; 3', bud section; 4, 4', fruit face and profile; 4", fruit section. — Majidea fosteri (Sprague) Radlk. (5, Letouzey 5307; 6-9', Touzet 6) : 5, leaf; 6, inflorescence 8 cm; 6', ♂ cymule; 6", cymule with ♀ flowers; 7, ♂ flower, disk diameter 3 mm; 7, section; 8, ♀ flower, disk 3 mm; 8', section; 8", hairs in brushes on the sepals; 9, fruit, 3.5 cm wide; 9', seed 6 mm.*
 
 ## Notes
 

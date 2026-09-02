@@ -7,6 +7,8 @@ family: Dichapetalaceae
 vol: 32
 pages: 101-104
 source: sources/Dichapetalaceae_vol32_paddle
+countries: [Angola, Cameroon, Central African Republic, Democratic Republic of the Congo, Gabon]
+in_region: true
 tags: [species, generated]
 ---
 # *Dichapetalum glomeratum* Engler
@@ -69,7 +71,7 @@ On peut en général facilement distinguer les spécimens stériles de D. glomer
 
 ![Dichapetalum glomeratum](../sources/Dichapetalaceae_vol32_paddle/figures/fig_027_p0102.png)
 
-*PL. 26. – Dichapetalum glomeratum Engler : 1, rameau florifère × 0,5 ; 2, grande feuille large × 0,5 ; 3, feuille allongée × 0,5 ; 4, rameau, rangées de grandes lenticelles, détail × 0,5 ; 5, fleur × 6 ; 6, fleur, pistil et staminodes, détail × 6 ; 7, fruit × 2 (1, 5, 6, Descoings 10211 ; 2, 3, Breteler 6729 ; 4, Breteler 2877 ; 7, Louis 11659). – Repris de MLW 79 (16) : 19 (1979).*
+*PL. 26. – Dichapetalum glomeratum Engler : 1, floriferous branch × 0,5 ; 2, large broad leaf × 0,5 ; 3, elongated leaf × 0,5 ; 4, branch, rows of large lenticels, detail × 0,5 ; 5, flower × 6 ; 6, flower, pistil and staminodes, detail × 6 ; 7, fruit × 2 (1, 5, 6, Descoings 10211 ; 2, 3, Breteler 6729 ; 4, Breteler 2877 ; 7, Louis 11659). – Reprinted from MLW 79 (16) : 19 (1979).*
 
 ## Notes
 

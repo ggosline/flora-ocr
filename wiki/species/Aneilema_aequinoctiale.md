@@ -7,6 +7,12 @@ family: Commelinaceae
 vol: 55
 pages: 16-18
 source: sources/Commelinaceae_vol55_liteparse
+countries: [Angola, Burundi, Cameroon, Democratic Republic of the Congo, Equatorial Guinea, Gabon, Guinea, Kenya, Malawi, Mozambique, Republic of the Congo, Rwanda, Tanzania, Uganda, Zambia, Zimbabwe]
+in_region: true
+subdivisions:
+  Gabon: [Estuaire, Haut-Ogooué]
+habit: "herb"
+altitude_m: "1480"
 tags: [species, generated]
 ---
 # *Aneilema aequinoctiale* (P.Beauv.) G.Don Planche 2, Figure 1(D)

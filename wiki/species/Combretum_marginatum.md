@@ -7,6 +7,8 @@ family: Combretaceae
 vol: 35
 pages: 61-63
 source: sources/Combretaceae_vol35_paddle
+countries: [Gabon, Liberia]
+in_region: true
 tags: [species, generated]
 ---
 # *Combretum marginatum* Engler & Diels

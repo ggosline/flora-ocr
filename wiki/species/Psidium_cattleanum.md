@@ -7,6 +7,7 @@ family: Myrtaceae
 vol: 11
 pages: 7-8
 source: sources/Myrtaceae_vol11_paddle
+habit: "shrub"
 tags: [species, generated]
 ---
 # *Psidium cattleanum* Sabine

@@ -7,6 +7,9 @@ family: Rubiaceae
 vol: 12
 pages: 61-62
 source: sources/Rubiaceae_vol12_paddle
+countries: [Cameroon, Gabon, Nigeria]
+in_region: true
+habit: "tree"
 tags: [species, generated]
 ---
 # *Hymenodictyon biafranum* Hiern

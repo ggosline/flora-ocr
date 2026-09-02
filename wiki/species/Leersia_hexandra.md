@@ -7,6 +7,7 @@ family: Gramineae
 vol: 05
 pages: 248-251
 source: sources/Gramineae_vol05_paddle
+habit: "herb"
 tags: [species, generated]
 ---
 # *Leersia hexandra* Sw.
@@ -38,7 +39,7 @@ IX. SPOROBOLÉES
 
 ![Leersia hexandra](../sources/Gramineae_vol05_paddle/figures/fig_042_p0249.png)
 
-*PL. XLI. — Leersia hexandra Sw. (A. Chev. 21969) : 1, chaume, feuilles et inflorescence; 2, épillet long de 3 mm env.). — Sporobolus congoensis Franch. (Trochain 9134) : 3, aspect de la plante; 4, épillet, vu du côté de la glume inférieure; 5, épillet vu de profil, long de 2,5 à 3 mm.*
+*PL. XLI. — Leersia hexandra Sw. (A. Chev. 21969) : 1, culm, leaves and inflorescence; 2, spikelet approximately 3 mm long.). — Sporobolus congoensis Franch. (Trochain 9134) : 3, plant aspect; 4, spikelet, viewed from the lower glume side; 5, spikelet viewed in profile, 2.5 to 3 mm long.*
 
 ## Notes
 

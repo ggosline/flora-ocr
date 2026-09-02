@@ -7,6 +7,9 @@ family: Flacourtiaceae
 vol: 34
 pages: 23-26
 source: sources/Flacourtiaceae_vol34_paddle
+countries: [Angola, Cameroon, Central African Republic, Cote d'Ivoire, Democratic Republic of the Congo, Equatorial Guinea, Gabon, Ghana, Liberia, Nigeria, Sao Tome and Principe, Sierra Leone, Sudan]
+in_region: true
+habitat: [swamp forest]
 tags: [species, generated]
 ---
 # *Casearia barteri* Mast.

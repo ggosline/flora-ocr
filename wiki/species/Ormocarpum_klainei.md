@@ -7,6 +7,12 @@ family: Leguminosae
 vol: 49
 pages: 311-312
 source: sources/Millettiaspeciesfabaceae_vol49_liteparse
+countries: [Cameroon, Gabon, Republic of the Congo]
+in_region: true
+subdivisions:
+  Gabon: [Estuaire]
+habit: "shrub"
+altitude_m: "450"
 tags: [species, generated]
 ---
 # *Ormocarpum klainei* Tisser.

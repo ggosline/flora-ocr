@@ -7,6 +7,11 @@ family: Commelinaceae
 vol: 55
 pages: 18-20
 source: sources/Commelinaceae_vol55_liteparse
+countries: [Angola, Benin, Burundi, Cameroon, Central African Republic, Chad, Cote d'Ivoire, Democratic Republic of the Congo, Equatorial Guinea, Gabon, Ghana, Guinea, Guinea-Bissau, Kenya, Liberia, Nigeria, Republic of the Congo, Sao Tome and Principe, Senegal, Sierra Leone, Sudan, Tanzania, Togo, Uganda, Zambia]
+in_region: true
+subdivisions:
+  Gabon: [Estuaire, Moyen-Ogooué, Ngounié, Nyanga, Ogooué-Ivindo, Ogooué-Maritime, Woleu-Ntem]
+habit: "herb"
 tags: [species, generated]
 ---
 # *Aneilema beniniense* (P.Beauv.) Kunth Planche 3, Figure 1C

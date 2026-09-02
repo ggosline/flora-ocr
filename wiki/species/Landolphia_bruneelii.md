@@ -7,6 +7,7 @@ family: Apocynaceae
 vol: 59
 pages: 115-117
 source: sources/Apocynaceae_vol59_liteparse
+habit: "liana"
 tags: [species, generated]
 ---
 # *Landolphia bruneelii* (De Wild.) Pichon Planche 48(2-6)

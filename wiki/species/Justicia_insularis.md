@@ -7,6 +7,8 @@ family: Acanthaceae
 vol: 13
 pages: 218-221
 source: sources/Acanthaceae_vol13_paddle
+countries: [Cameroon, Central African Republic, Gabon, Ghana, Nigeria, Sierra Leone]
+in_region: true
 tags: [species, generated]
 ---
 # *Justicia insularis* T. Anders.

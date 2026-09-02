@@ -7,6 +7,9 @@ family: Scytopetalaceae
 vol: 24
 pages: 121-122
 source: sources/Chrysobalanaceae_vol24_paddle
+countries: [Cameroon]
+in_region: true
+habit: "tree"
 tags: [species, generated]
 ---
 # *Maranthes sanagensis* F. White
@@ -51,11 +54,11 @@ Raynal J. & A. 10531, rives de la Sanaga près Nachtigal, 60 km SE Bafia (fl., m
 
 ![Maranthes sanagensis](../sources/Chrysobalanaceae_vol24_paddle/figures/fig_035_p0122.png)
 
-*PL. 35. — Maranthes sp. : 1, feuille × 2/3; 2, bouton floral × 5/2; 3, fruit × 2/3; 4, coupe transv. fr. × 2/3. (Letouzey 13818).*
+*PL. 35. — Maranthes sp. : 1, leaf × 2/3; 2, flower bud × 5/2; 3, fruit × 2/3; 4, transverse section fr. × 2/3. (Letouzey 13818).*
 
 ![Maranthes sanagensis](../sources/Chrysobalanaceae_vol24_paddle/figures/fig_036_p0123.png)
 
-*PL. 36. — Maranthes sanagensis F. White : 1, rameau avec fleurs × 2/3; 2, fruit × 2/3; 3, coupe transv. fr. × 2/3. (1, Leeuwenberg 5476, 5478; 2-3, De Wilde W.c.s. 2652 b). (Repris d'Adansonia 16 (2) : tab. 2 (1976) et complété).*
+*PL. 36. — Maranthes sanagensis F. White : 1, branch with flowers × 2/3; 2, fruit × 2/3; 3, transverse section fruit × 2/3. (1, Leeuwenberg 5476, 5478; 2-3, De Wilde W.c.s. 2652 b). (Reproduced from Adansonia 16 (2) : tab. 2 (1976) and supplemented).*
 
 ## Notes
 

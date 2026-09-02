@@ -7,6 +7,13 @@ family: Leguminosae
 vol: 49
 pages: 366-368
 source: sources/Millettiaspeciesfabaceae_vol49_liteparse
+countries: [Gabon]
+in_region: true
+subdivisions:
+  Gabon: [Ngounié]
+habit: "herb"
+habitat: [savanna]
+altitude_m: "400"
 tags: [species, generated]
 ---
 # *Teramnus labialis* (L.f.) Spreng. Planche 124

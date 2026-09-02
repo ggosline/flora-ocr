@@ -7,6 +7,8 @@ family: Dennstaedtiaceae
 vol: 08
 pages: 84-84
 source: sources/Dennstaedtiaceae_vol08_paddle
+countries: [Cameroon, Equatorial Guinea]
+in_region: true
 tags: [species, generated]
 ---
 # *Lonchitis gracilis* Alston (P.L. XIII)
@@ -38,7 +40,7 @@ N. Hallé et G. Cours : 5914, Ovala, env. d'Etéké.
 
 ![Lonchitis gracilis](../sources/Dennstaedtiaceae_vol08_paddle/figures/fig_016_p0083.png)
 
-*PL. XIII.—Lonchitis Currori (Hk.) Mett. (Letouzey 4233): 1, penne × 2/3; 2, détail de nervation × 1,5; 3, un poil. — Lonchitis gracilis Alston (Richards 4245): 4, penne × 2/3; 5, détail × 3.*
+*PL. XIII.—Lonchitis Currori (Hk.) Mett. (Letouzey 4233): 1, pinna × 2/3; 2, detail of venation × 1,5; 3, a hair. — Lonchitis gracilis Alston (Richards 4245): 4, pinna × 2/3; 5, detail × 3.*
 
 ## Notes
 

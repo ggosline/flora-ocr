@@ -7,6 +7,9 @@ family: Orchidaceae
 vol: 36
 pages: 41-43
 source: sources/Orchidaceae_vol36_paddle
+countries: [Angola, Burundi, Cameroon, Central African Republic, Gabon, Kenya, Malawi, Mozambique, Senegal, Tanzania, Uganda, Zambia, Zimbabwe]
+in_region: true
+habitat: [savanna]
 tags: [species, generated]
 ---
 # *Habenaria zambesina* Rchb.f.
@@ -45,7 +48,7 @@ Leaves in basal rosette or on the lower part of the stem or throughout its lengt
 
 ![Habenaria zambesina](../sources/Orchidaceae_vol36_paddle/figures/fig_015_p0044.png)
 
-*PL. 15. – Habenaria zambesina Rchb.f.: A, éperon, ovaire, pédicelle et bractée ; B, labelle ; C, sépale latéral ; D, E, pétale ; F, sépale dorsal ; G, gynostème étalé, vue antérieure ; H, gynostème, vue latérale (A-H, Le Testu 2903, P).*
+*PL. 15. – Habenaria zambesina Rchb.f.: A, spur, ovary, pedicel and bract ; B, labellum ; C, lateral sepal ; D, E, petal ; F, dorsal sepal ; G, gynostème spread out, frontal view ; H, gynostème, lateral view (A-H, Le Testu 2903, P).*
 
 ![Habenaria zambesina](../sources/Orchidaceae_vol36_paddle/figures/fig_117_p0219.png)
 

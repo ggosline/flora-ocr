@@ -42,7 +42,7 @@ Hallé N. et Le Thomas 566, Bélinga, forêt inondable de l'Ivindo (août). Hall
 
 ![Memecylon salicifolium](../sources/Melastomataceae_vol25_paddle/figures/fig_049_p0139.png)
 
-*PL. 49. — Memecylon salicifolium Jacq.-Fél. : 1, rameau feuillé et cymes sur nœuds aphylles × 2/3; 2, hypantho-calice × 6; 3, pétale × 6; 4, étamine × 12; 5, fruit × 3 (1-4. Hallé N. 3824; 5, Hallé N. 2919).*
+*PL. 49. — Memecylon salicifolium Jacq.-Fél. : 1, leafy branch and cymes on leafless nodes × 2/3; 2, hypantho-calyx × 6; 3, petal × 6; 4, stamen × 12; 5, fruit × 3 (1-4. Hallé N. 3824; 5, Hallé N. 2919).*
 
 ## Notes
 

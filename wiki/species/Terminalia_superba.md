@@ -7,6 +7,8 @@ family: Combretaceae
 vol: 35
 pages: 111-112
 source: sources/Combretaceae_vol35_paddle
+countries: [Angola, Central African Republic, Guinea]
+in_region: true
 tags: [species, generated]
 ---
 # *Terminalia superba* Engler & Diels
@@ -17,31 +19,25 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+KEAY, FWTA, ed. 2, 1(1): 277, fig. 105, B p. 278 (1954); GRIFFITHS, Journ. Linn. Soc. Lond., Bot., 55: 860, tab. 16 (1959); LIBEN, FZ: 96 (1968); EXELL & GARCIA, CFA: 92 (1970); LIBEN, Fl. Cam. 25: 67, tab. 20a (1983). TYPE: Cameroon, Bipindi (fr., July) Zenker 1871 (lecto-K, iso-BM, BR, P, WAG). The lectotype was chosen by GRIFFITHS, l.c. (1959), see also LIBEN in Bull. Jard. Bot. Nat. Belg. 54: 290 (1984).
 
-KEAY, FWTA, ed. 2, 1(1) : 277, fig. 105, B p. 278 (1954) ; GRIFFITHS, Journ. Linn. Soc. Lond., Bot., 55 : 860, tab. 16 (1959) ; LIBEN, FZ : 96 (1968) ; EXELL & GARCIA, CFA : 92 (1970) ; LIBEN, Fl. Cam. 25 : 67, tab. 20a (1983). TYPE : Cameroun, Bipindi (fr., Juil.) Zenker 1871 (lecto-K, iso-BM, BR, P, WAG). Le lectotype a été choisi par GRIFFITHS, l.c. (1959), voir aussi LIBEN in Bull. Jard. Bot. Nat. Belg. 54 : 290 (1984).
+Tree, height ≤ 40 m, diameter ≤ 75 cm, base of trunk furnished with small buttresses; bark slice slightly yellow.
 
-Arbre, hauteur ≤ 40 m, diamètre ≤ 75 cm, base du tronc munie de petits contreforts ; tranche d’écorce légèrement jaune.
+Leaves alternate; petiole ≤ 7 cm, often with 2 subopposite glands; blade obovate, ≤ 17 × ≤ 9 cm, coriaceous, glabrous; large lateral veins 6–7 pairs, domatia absent; base of blade attenuate often asymmetric, apex acute or shortly acuminate.
 
-Feuilles alternes ; pétiole ≤ 7 cm, souvent avec 2 glandes subopposées ; limbe obové, ≤ 17 × ≤ 9 cm, coriace, glabre ; grandes nervures latérales 6-7 paires, domaties absentes ; base du limbe atténuée souvent asymétrique, sommet aigu ou courtement acuminé.
+Inflorescences: axillary spikes ≤ 20 cm.
 
-Inflorescences : épis axillaires ≤ 20 cm.
+Flowers 5-merous, sessile. Receptacle of bisexual flowers inferior, flattened in the middle, 3 mm high; upper receptacle 3 mm wide. Calyx with triangular lobes. Stamens 4 mm long and anthers 0.5 mm. Style 2–2.5 mm.
 
-Fleurs 5-mères, sessiles. Réceptacle inférieur des fleurs bisexuées aplati au milieu, haut de 3 mm ; réceptacle supérieur large de 3 mm. Calice, lobes triangulaires. Étamines longues de 4 mm et anthères de 0,5 mm. Style 2-2,5 mm.
-
-Fruit sessile et glabre, longueur 2.5 cm, largeur 6 cm, ailes lignifiées. – Pl. 32, A-D, p. 107.
+Fruit sessile and glabrous, length 2.5 cm, width 6 cm, wings lignified. – Pl. 32, A–D, p. 107.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-de la Guinée à la Centrafrique et en Angola
+from Guinea to the Central African Republic and in Angola
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-forêts denses humides
+dense humid forests
 
 ## Specimens examined
 
@@ -101,7 +97,7 @@ STREPHONEMA
 
 ![Terminalia superba](../sources/Combretaceae_vol35_paddle/figures/fig_036_p0110.png)
 
-*PL. 32. – Terminalia superba Engler & Diels : A, rameau fructifère × 1/2 ; B, bouton × 5 ; C, fleur ; D, fruit × 1/2. - Terminalia ivorensis A. Chev. : E, rameau florifère × 1/2 ; F, bouton × 5 ; G, fleur bisexuée × 5 ; H, fruit × 1/2 (A, Leeuwenberg 5963 ; B, Zenker 4105 ; C, Le Testu 9439 ; D, Letouzey 5581 ; E, F, Letouzey 13750 ; G, Bos 2059 ; H, Andoh 5816). – Dessins de L. LIBEN reproduits avec l'autorisation du Département des Spermatophytes et Pteridophytes du Jardin Botanique National de MEISE (Belgique).*
+*PL. 32. – Terminalia superba Engler & Diels : A, fruiting branch × 1/2 ; B, bud × 5 ; C, flower ; D, fruit × 1/2. - Terminalia ivorensis A. Chev. : E, flowering branch × 1/2 ; F, bud × 5 ; G, bisexual flower × 5 ; H, fruit × 1/2 (A, Leeuwenberg 5963 ; B, Zenker 4105 ; C, Le Testu 9439 ; D, Letouzey 5581 ; E, F, Letouzey 13750 ; G, Bos 2059 ; H, Andoh 5816). – Drawings by L. LIBEN reproduced with the permission of the Department of Spermatophytes and Pteridophytes of the National Botanic Garden of MEISE (Belgium).*
 
 ## Notes
 

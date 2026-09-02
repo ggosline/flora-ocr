@@ -7,6 +7,10 @@ family: Rubiaceae
 vol: 12
 pages: 102-103
 source: sources/Rubiaceae_vol12_paddle
+countries: [Senegal]
+in_region: false
+habit: "herb"
+habitat: [swamp forest]
 tags: [species, generated]
 ---
 # *Oldenlandia lancifolia* (Schumach.) DC.

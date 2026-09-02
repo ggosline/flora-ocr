@@ -7,6 +7,9 @@ family: Orchidaceae
 vol: 36
 pages: 167-169
 source: sources/Orchidaceae_vol36_paddle
+countries: [Angola, Cameroon, Central African Republic, Gabon, Guinea, Kenya, Malawi, Mozambique, Sudan, Tanzania, Zambia, Zimbabwe]
+in_region: true
+habitat: [secondary forest, evergreen forest]
 tags: [species, generated]
 ---
 # *Bulbophyllum scaberulum* (Rolfe) Bolus
@@ -57,7 +60,7 @@ Reitsma J. M. & B. & Louis 1886, 24 km SE of Médouneu, 0°51' N, 10°56' E (fr.
 
 ![Bulbophyllum scaberulum](../sources/Orchidaceae_vol36_paddle/figures/fig_087_p0170.png)
 
-*PL. 82. – Bulbophyllum scaberulum (Rolfe) Bolus: A, B, vue générale ; C, fleur ; D, pièces florales ; E, labelle ; F, labelle et gynostème en position naturelle, vue latérale ; G, anthère ; H, pollinies (A-H, ex VERMEULEN, 1987).*
+*PL. 82. – Bulbophyllum scaberulum (Rolfe) Bolus: A, B, general view ; C, flower ; D, floral parts ; E, labellum ; F, labellum and gynostemium in natural position, lateral view ; G, anther ; H, pollinia (A-H, ex VERMEULEN, 1987).*
 
 ## Notes
 

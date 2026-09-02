@@ -7,6 +7,7 @@ family: Gramineae
 vol: 05
 pages: 96-99
 source: sources/Gramineae_vol05_paddle
+habit: "herb"
 tags: [species, generated]
 ---
 # *Pennisetum purpureum* Schum.
@@ -47,7 +48,7 @@ herbe à éléphants, fausse canne à sucre, et d'après Walker et Sillans : Oko
 
 ![Pennisetum purpureum](../sources/Gramineae_vol05_paddle/figures/fig_017_p0097.png)
 
-*PL. XVI. — Pennisetum Franchetanum Stapf et Hubb. (Leroy, s.n.) : 1, inflorescence et feuilles; 2, épillet long de 4 mm (sans les soies). — P. subangustum (Schum.) Stapf et Hubb. (Guillemet 14) : 3, base de la plante; 4, feuille, jonction du limbe et de la gaine et pubescence; 5, inflorescence; 6, épillet (longueur de l'épillet : 3 mm sans les soies).*
+*PL. XVI. — Pennisetum Franchetanum Stapf et Hubb. (Leroy, s.n.) : 1, inflorescence and leaves; 2, spikelet 4 mm long (without the bristles). — P. subangustum (Schum.) Stapf et Hubb. (Guillemet 14) : 3, base of the plant; 4, leaf, junction of the blade and sheath and pubescence; 5, inflorescence; 6, spikelet (length of the spikelet : 3 mm without the bristles).*
 
 ## Notes
 

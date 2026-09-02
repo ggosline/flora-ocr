@@ -7,6 +7,8 @@ family: Brassicaceae
 vol: 30
 pages: 49-53
 source: sources/Capparidaceae_vol30_paddle
+countries: [Cameroon, Central African Republic, Democratic Republic of the Congo, Gabon, Uganda]
+in_region: true
 tags: [species, generated]
 ---
 # *Ritchiea aprevaliana* (De Wildeman & T. Durand) Wilczek
@@ -53,7 +55,7 @@ Hallé & Le Thomas 597, Bélinga, alt. ca. 850 m (st., ?), P. Le Testu 7147 & 71
 
 ![Ritchiea aprevaliana](../sources/Capparidaceae_vol30_paddle/figures/fig_006_p0050.png)
 
-*PL. 5. – Ritchiea aprevaliana (De Wild. & T. Dur.) Wilcz : 1, portion supérieure de tige avec feuilles et inflorescence × 1/3 ; 2, ovaire en coupe transversale × 4 ; 3, ovaire et portion de gynophore × 4 ; 4, bouton floral × 1 ; 5, portion de fleur ouverte montrant réceptacle, androgynophore, pétales et sépales × 1 ; 6, portion supérieure de l'androgynophore avec étamines et pistil × 1 ; 7, fleur (4 étamines seulement dessinées) × 1 ; 8, pétale × 1 ; 9, graine × 1 ; 10, embryon × 1 ; 11, portion supérieure de tige avec fruits × 1/3 (1-8, Letouzey 12075 ; 9-11, Villiers J.F. 700).*
+*PL. 5. – Ritchiea aprevaliana (De Wild. & T. Dur.) Wilcz : 1, upper portion of stem with leaves and inflorescence × 1/3 ; 2, ovary in transverse section × 4 ; 3, ovary and portion of gynophore × 4 ; 4, floral bud × 1 ; 5, portion of open flower showing receptacle, androgynophore, petals and sepals × 1 ; 6, upper portion of the androgynophore with stamens and pistil × 1 ; 7, flower (4 stamens only drawn) × 1 ; 8, petal × 1 ; 9, seed × 1 ; 10, embryo × 1 ; 11, upper portion of stem with fruits × 1/3 (1-8, Letouzey 12075 ; 9-11, Villiers J.F. 700).*
 
 ## Notes
 

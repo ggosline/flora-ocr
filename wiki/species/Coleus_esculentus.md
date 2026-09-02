@@ -6,6 +6,12 @@ genus: Coleus
 vol: 58
 pages: 53-55
 source: sources/Labiataeulmaceaeverbenaceae_vol58_liteparse
+countries: [Cameroon, Central African Republic, Democratic Republic of the Congo, Gabon, Nigeria]
+in_region: true
+subdivisions:
+  Gabon: [Haut-Ogooué]
+habit: "herb"
+altitude_m: "400"
 tags: [species, generated]
 ---
 # *Coleus esculentus* (N.E.Br.) G.Taylor

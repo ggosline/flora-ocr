@@ -7,6 +7,10 @@ family: Lauraceae
 vol: 10
 pages: 50-54
 source: sources/Lauraceae_vol10_paddle
+countries: [Cameroon, Cote d'Ivoire, Democratic Republic of the Congo, Gabon, Ghana, Liberia, Sierra Leone]
+in_region: true
+habit: "tree"
+habitat: [riverine, rocky ground]
 tags: [species, generated]
 ---
 # *Beilschmiedia paulocordata* R. Fouilloy et N. Hallé
@@ -72,7 +76,7 @@ Le Testu : 8788, Lastoursville. N. Hallé : 2344, Abanga (fl. juin).
 
 ![Beilschmiedia paulocordata](../sources/Lauraceae_vol10_paddle/figures/fig_011_p0049.png)
 
-*PL. X. — 1 à 5, Beilschmiedia preussioides R. Fouilloy et N. Hallé (Le Testu 6059) : 1, rameau florifère, feuille de 18 cm; 2, portion d'inflorescences de 10 cm; 3, fleur subépanouie de 2 mm de diam.; 4, coupe; 5, bractée de 5 mm. — 6 à 9, Beilschmiedia paulocordata R. Fouilloy et N. Hallé (Le Testu 8778); 6, rameau florifère, feuille de 20 cm; 7, fleur épanouie de 2 mm de diam.; 8, coupe; 9, bractée de 5 mm.*
+*PL. X. — 1 to 5, Beilschmiedia preussioides R. Fouilloy et N. Hallé (Le Testu 6059) : 1, flowering branch, leaf of 18 cm; 2, portion of inflorescences of 10 cm; 3, half-open flower of 2 mm diam.; 4, section; 5, bract of 5 mm. — 6 to 9, Beilschmiedia paulocordata R. Fouilloy et N. Hallé (Le Testu 8778); 6, flowering branch, leaf of 20 cm; 7, open flower of 2 mm diam.; 8, section; 9, bract of 5 mm.*
 
 ![Beilschmiedia paulocordata](../sources/Lauraceae_vol10_paddle/figures/fig_012_p0051.png)
 

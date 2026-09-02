@@ -7,6 +7,12 @@ family: Scrophulariaceae
 vol: 48
 pages: 112-113
 source: sources/Scrophulariaceae_vol48_liteparse
+countries: [Angola, Burundi, Cameroon, Cote d'Ivoire, Democratic Republic of the Congo, Gabon, Kenya, Madagascar, Malawi, Nigeria, Rwanda, Sierra Leone, Sudan, Tanzania, Uganda, Zambia, Zimbabwe]
+in_region: true
+subdivisions:
+  Gabon: [Haut-Ogooué, Ogooué-Lolo]
+habit: "herb"
+altitude_m: "380"
 tags: [species, generated]
 ---
 # *Craterostigma nummulariifolium* (D.Don) Eb.Fisch., Schäferh. & Kai Müll.

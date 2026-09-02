@@ -7,6 +7,13 @@ family: Piperaceae
 vol: 50
 pages: 75-79
 source: sources/Piperaceae_vol50_liteparse
+countries: [Gabon]
+in_region: true
+subdivisions:
+  Gabon: [Estuaire, Ngounié, Nyanga, Ogooué-Ivindo, Ogooué-Lolo, Ogooué-Maritime, Woleu-Ntem]
+habit: "liana"
+habitat: [gallery forest, swamp forest]
+altitude_m: "1–500"
 tags: [species, generated]
 ---
 # *Piper guineense* Thonn. Planche 28

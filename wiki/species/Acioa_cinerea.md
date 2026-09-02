@@ -7,6 +7,9 @@ family: Scytopetalaceae
 vol: 24
 pages: 24-26
 source: sources/Chrysobalanaceae_vol24_paddle
+countries: [Cameroon]
+in_region: true
+habit: "shrub"
 tags: [species, generated]
 ---
 # *Acioa cinerea* Engler ex De Wildeman
@@ -43,7 +46,7 @@ Zenker 2903 (fl.) (B, BR, K, P, Z); 3210 (stér.) (BR, K, P, sous le nom de « M
 
 ![Acioa cinerea](../sources/Chrysobalanaceae_vol24_paddle/figures/fig_005_p0025.png)
 
-*PL. 5. — Acioa cinerea Engl. ex De Wild. : 1, rameau avec fleurs × 2/3; 2, stipules × 2; 3 et 4, base et acumen fol. × 3/2; 5, portion d'axe infl. × 4; 6, ramification infl. × 2; 7, bractéoles × 4; 8, fleur (pét. excl.) × 3/2. (1, Zenker 2903, 3210; 2, 5-8, Zenker 2903; 3-4, Zenker 3210).*
+*PL. 5. — Acioa cinerea Engl. ex De Wild. : 1, branch with flowers × 2/3; 2, stipules × 2; 3 and 4, base and acumen of leaflet × 3/2; 5, portion of inflorescence axis × 4; 6, inflorescence branching × 2; 7, bracteoles × 4; 8, flower (petals excl.) × 3/2. (1, Zenker 2903, 3210; 2, 5-8, Zenker 2903; 3-4, Zenker 3210).*
 
 ## Notes
 

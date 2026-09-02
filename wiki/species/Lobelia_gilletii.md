@@ -7,6 +7,12 @@ family: Lobeliaceae
 vol: 40
 pages: 46-47
 source: sources/Lobeliaceae_vol40_liteparse
+countries: [Democratic Republic of the Congo, Gabon]
+in_region: true
+subdivisions:
+  Gabon: [Ogooué-Maritime]
+habit: "herb"
+altitude_m: "100–300"
 tags: [species, generated]
 ---
 # *Lobelia gilletii* De Wild.

@@ -6,6 +6,12 @@ genus: Clerodendrum
 vol: 58
 pages: 37-38
 source: sources/Labiataeulmaceaeverbenaceae_vol58_liteparse
+countries: [Cameroon, Central African Republic, Democratic Republic of the Congo, Equatorial Guinea, Gabon, Nigeria]
+in_region: true
+subdivisions:
+  Gabon: [Estuaire]
+habit: "shrub"
+altitude_m: "30"
 tags: [species, generated]
 ---
 # *Clerodendrum melanocrater* Gürke

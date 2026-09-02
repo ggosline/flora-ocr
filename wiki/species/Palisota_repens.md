@@ -7,6 +7,12 @@ family: Commelinaceae
 vol: 55
 pages: 74-76
 source: sources/Commelinaceae_vol55_liteparse
+countries: [Equatorial Guinea, Gabon, Republic of the Congo]
+in_region: true
+subdivisions:
+  Gabon: [Estuaire, Ngounié, Ogooué-Ivindo, Ogooué-Lolo, Ogooué-Maritime]
+habit: "herb"
+altitude_m: "750"
 tags: [species, generated]
 ---
 # *Palisota repens* E.Bidault & Burg Planche 22, Figure 4(H)

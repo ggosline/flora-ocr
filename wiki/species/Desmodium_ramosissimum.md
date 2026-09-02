@@ -7,6 +7,12 @@ family: Leguminosae
 vol: 49
 pages: 172-172
 source: sources/Millettiaspeciesfabaceae_vol49_liteparse
+countries: [Gabon, Madagascar]
+in_region: true
+subdivisions:
+  Gabon: [Estuaire, Moyen-Ogooué, Ngounié, Nyanga, Ogooué-Ivindo, Ogooué-Lolo, Woleu-Ntem]
+habit: "shrub"
+altitude_m: "10–600"
 tags: [species, generated]
 ---
 # *Desmodium ramosissimum* G.Don

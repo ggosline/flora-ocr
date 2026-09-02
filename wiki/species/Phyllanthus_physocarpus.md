@@ -7,6 +7,13 @@ family: Phyllanthaceae
 vol: 43
 pages: 68-70
 source: sources/Phyllanthaceae_vol43_liteparse
+countries: [Angola, Cameroon, Gabon, Mozambique, Sao Tome and Principe, Zambia]
+in_region: true
+subdivisions:
+  Gabon: [Haut-Ogooué, Moyen-Ogooué]
+habit: "liana"
+habitat: [coastal]
+altitude_m: "0–900"
 tags: [species, generated]
 ---
 # *Phyllanthus physocarpus* Müll.Arg. Planche 21

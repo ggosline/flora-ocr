@@ -7,6 +7,10 @@ family: Icacinaceae
 vol: 20
 pages: 54-56
 source: sources/Icacinaceae_vol20_paddle
+countries: [Angola, Equatorial Guinea]
+in_region: true
+habit: "liana"
+habitat: [riverine]
 tags: [species, generated]
 ---
 # *Icacina claessensii* De Wildeman
@@ -39,7 +43,7 @@ Le Testu 6485, Pèra (fl., avr.).
 
 ![Icacina claessensii](../sources/Icacinaceae_vol20_paddle/figures/fig_012_p0055.png)
 
-*PL. 12. — Icacina claessensii De Wild.: 1, fleur × 4,2; 2, coupe de la fleur × 4,2; 3, 4, sépale × 8; 5, 5', pétale × 6; 6, 6', étanine × 5; 7, 7', ovaire × 9. — I. guessfeldtii Aschers. ex Engl.: 8, feuille × 0,3; 9, fleur × 3,7; 9', coupe de la fleur × 3,7; 10, diagramme floral; 11, 11', sépale × 9; 12, 12', pétale × 6,6; 13, 13', étanine × 6; 14, 14', ovaire × 6. (1-7', Le Testu 6485; 8-14', s. c. s. n.).*
+*PL. 12. — Icacina claessensii De Wild.: 1, flower × 4,2; 2, section of flower × 4,2; 3, 4, sepal × 8; 5, 5', petal × 6; 6, 6', stamen × 5; 7, 7', ovary × 9. — I. guessfeldtii Aschers. ex Engl.: 8, leaf × 0,3; 9, flower × 3,7; 9', section of flower × 3,7; 10, floral diagram; 11, 11', sepal × 9; 12, 12', petal × 6,6; 13, 13', stamen × 6; 14, 14', ovary × 6. (1-7', Le Testu 6485; 8-14', s. c. s. n.).*
 
 ## Notes
 

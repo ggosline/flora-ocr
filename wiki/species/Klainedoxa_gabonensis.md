@@ -5,14 +5,12 @@ authority: Pierre
 genus: Klainedoxa
 family: Irvingiaceae
 synonyms: []
-countries: [Guinea-Bissau, Cameroon, Gabon, Democratic Republic of the Congo, South Sudan, Uganda, Angola]
-in_region: true
-habit: tree
 treatments:
   - vol: 3
     year: 1962
     pages: "16–22"
     source: sources/Irvingiaceae_vol3_paddle
+habit: "tree"
 tags: [species]
 ---
 

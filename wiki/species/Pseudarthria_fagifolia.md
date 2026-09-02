@@ -7,6 +7,8 @@ family: Leguminosae
 vol: 49
 pages: 322-322
 source: sources/Millettiaspeciesfabaceae_vol49_liteparse
+countries: [Gabon]
+in_region: true
 tags: [species, generated]
 ---
 # *Pseudarthria fagifolia* Baker

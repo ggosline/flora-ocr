@@ -7,6 +7,7 @@ family: Apocynaceae
 vol: 59
 pages: 49-51
 source: sources/Apocynaceae_vol59_liteparse
+habit: "liana"
 tags: [species, generated]
 ---
 # *Baissea campanulata* (K.Schum.) de Kruif Planche 18

@@ -7,6 +7,9 @@ family: Leguminosae
 vol: 15
 pages: 77-81
 source: sources/Leguminosae_vol15_paddle
+countries: [Cameroon, Gabon]
+in_region: true
+habit: "tree"
 tags: [species, generated]
 ---
 # *Scorodophloeus zenkeri* Harms
@@ -69,7 +72,7 @@ Genre monotypique camerouno-congolais, très proche de Cynometra.
 
 ![Scorodophleus zenkeri](../sources/Leguminosae_vol15_paddle/figures/fig_014_p0078.png)
 
-*PL. XIV. — Scorodophloeus Zenkeri Harms : 1, feuilles et inflorescence × 2/3; 2, détail de la feuille; 3, fleur × 2; 4, coupe de la fleur × 2; 5, fruit × 2/3.*
+*PL. XIV. — Scorodophloeus Zenkeri Harms : 1, leaves and inflorescence × 2/3; 2, detail of the leaf; 3, flower × 2; 4, section of the flower × 2; 5, fruit × 2/3.*
 
 ## Notes
 

@@ -7,6 +7,12 @@ family: Leguminosae
 vol: 49
 pages: 381-381
 source: sources/Millettiaspeciesfabaceae_vol49_liteparse
+countries: [Angola, Gabon, Senegal, Sudan, Zambia]
+in_region: true
+subdivisions:
+  Gabon: [Nyanga, Ogooué-Ivindo, Woleu-Ntem]
+habit: "herb"
+altitude_m: "485–635"
 tags: [species, generated]
 ---
 # *Vigna racemosa* (G.Don) Hutch. & Dalziel

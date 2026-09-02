@@ -7,6 +7,9 @@ family: Humiriaceae
 vol: 21
 pages: 48-51
 source: sources/Humiriaceae_vol21_paddle
+countries: [Cameroon, Cote d'Ivoire, Democratic Republic of the Congo, Gabon, Liberia, Nigeria]
+in_region: true
+habit: "herb"
 tags: [species, generated]
 ---
 # *Sacoglottis gabonensis* (Baill.) Urban
@@ -66,7 +69,7 @@ Mann 925, rivière Gabon.
 
 ![Sacoglottis gabonensis](../sources/Humiriaceae_vol21_paddle/figures/fig_011_p0049.png)
 
-*PL. 11. — Aneulophus africanus Benth. : 1, rameau florifère × 2/3; 2, fleur avec bractées à la base du pédicelle × 4; 3, centre de la fleur × 6; 4, gynécée × 14; 5, coupe longitudinale de l'ovaire × 14; 6, coupe transversale de l'ovaire × 14 (1-6, Soyaux 340); 7, fruit × 2; 8, graine × 3 (7-8, Bouquet 405). — Ctenolophon englerianus Mildbr. : 9, bouton × 2; 10, centre de la fleur disque coupé × 3; 11, pétale × 2; 12, fruit × 1 (9-12, Franzini 7); 13, graine × 1,5 (Normand 124). — Sacoglottis gabonensis (Baill.) Urb. : 14, rameau florifère × 2/3; 15, bouton × 3; 16, centre de la fleur étamines du devant enlevées × 6; 17, anthère face interne, anthère face externe × 8; 18, fruit × 2/3 (Bouquet 1974); 19, coupe du fruit × 2/3.*
+*PL. 11. — Aneulophus africanus Benth. : 1, flowering branch × 2/3; 2, flower with bracts at base of pedicel × 4; 3, flower centre × 6; 4, gynoecium × 14; 5, longitudinal cross-section of ovary × 14; 6, transverse cross-section of ovary × 14 (1-6, Soyaux 340); 7, fruit × 2; 8, seed × 3 (7-8, Bouquet 405). — Ctenolophon englerianus Mildbr. : 9, bud × 2; 10, flower centre disc cut × 3; 11, petal × 2; 12, fruit × 1 (9-12, Franzini 7); 13, seed × 1.5 (Normand 124). — Sacoglottis gabonensis (Baill.) Urb. : 14, flowering branch × 2/3; 15, bud × 3; 16, flower centre stamens from front removed × 6; 17, anther inner surface, anther outer surface × 8; 18, fruit × 2/3 (Bouquet 1974); 19, fruit cross-section × 2/3.*
 
 ## Notes
 

@@ -7,6 +7,7 @@ family: Rubiaceae
 vol: 12
 pages: 235-236
 source: sources/Rubiaceae_vol12_paddle
+habit: "shrub"
 tags: [species, generated]
 ---
 # *Poecilocalyx setiflorus* (R. Good) Brem.

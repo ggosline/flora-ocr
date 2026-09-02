@@ -7,6 +7,8 @@ family: Acanthaceae
 vol: 13
 pages: 90-91
 source: sources/Acanthaceae_vol13_paddle
+countries: [Angola, Cameroon, Gabon, Ghana, Guinea, Liberia, Nigeria, Sierra Leone, Togo]
+in_region: true
 tags: [species, generated]
 ---
 # *Brillantaisia lamium* (Nees) Benth.

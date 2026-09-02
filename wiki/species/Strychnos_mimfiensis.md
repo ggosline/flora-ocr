@@ -7,6 +7,9 @@ family: Loganiaceae
 vol: 19
 pages: 100-102
 source: sources/Loganiaceae_vol19_paddle
+countries: [Cameroon]
+in_region: true
+habit: "liana"
 tags: [species, generated]
 ---
 # *Strychnos mimfiensis* Gilg ex Leeuwenberg
@@ -17,19 +20,17 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 Meded. Landbouwh. 69 (1) : 188, fig. 24, carte 28 (1969). — (GILG ex DUVIGNEAUD, Bull. Soc. Roy. Bot. Belg. 85 : 31 (1952), nom. nud.).
 
-Grande liane atteignant une longueur de 50-80 m et une hauteur de 40 m; tige de 4-8 cm de diamètre; écorce brun pâle, avec quelques lenticelles; bois brunâtre pâle; rameaux un peu lenticelles, cylindriques; petits rameaux glabres, non lenticelles.
+Large liana reaching a length of 50–80 m and a height of 40 m; stem 4–8 cm in diameter; bark pale brown, with a few lenticels; wood pale brownish; branches somewhat lenticellate, cylindric; branchlets glabrous, not lenticellate.
 
-Feuilles à pétiole glabre, de 3-7 mm de longueur; limbe papyracé ou, sur le vif, parfois faiblement coriace, elliptique, de 5-11 × 2-5 cm, à l'ombre plus mince et atteignant jusqu'à 15,5 × 6 cm, nettement acuminé à caudé au sommet, cuné ou arrondi à la base, glabre sur les deux faces; une paire
+Leaves with petiole glabrous, 3–7 mm long; limb papyraceous or, when fresh, sometimes weakly coriaceous, elliptic, 5–11 × 2–5 cm, in shade thinner and reaching up to 15.5 × 6 cm, distinctly acuminate to caudate at the apex, cuneate or rounded at the base, glabrous on both surfaces; one pair
 
-de nervures secondaires courbées le long de la marge et imprimées en dessus comme la nervure médiane; nervation tertiaire réticulée, proéminente sur les deux faces pour les feuilles sèches, seulement en dessous pour les feuilles fraîches.
+of secondary veins curved along the margin and impressed above as the midvein; tertiary venation reticulate, prominent on both surfaces for dried leaves, only below for fresh leaves.
 
-Inflorescences axillaires, petites, assez contractées, mais généralement distinctement pédonculées, pauciflores, de 1-1,5 × 1-1,5 cm; pédonculée, rameaux et pédicelles glabres. Fleurs (4-) 5-mères, souvent sessiles. Sépales vert pâlc, soudés jusqu'au ticrs de lcur hautcur, ovés, de 1,2-1,4 × 0,8-1 mm, subaigus, ciliés, glabres sur les deux faces. Corolle, dans le bouton mür, de 2,5-3 mm de longueur, jaune pâle, mince à la base, nettement plus épaisse vers le sommet, glabre à l'extérieur, à l'intérieur, au sommet des lobes, avec brosses recourbées de poils blancs; tube de 0,8-1,5 mm de longueur, large; lobes 1-2 fois plus longs que le tube, étroitement triangulaires, de 1,5-1,7 × 0,8 mm, épais, aigus, érigés. Étamines à peine exsertes, insérées à la gorge de la corolle, à filet glabre, court, 0,7-1 fois plus long que l'anthère; anthère oblongue, glabre. Pistil glabre, de 1,4-1,8 mm de longueur; ovaire ovoïde, de 1 × 0,8-1 mm, à 2 loges; style court, de 0,4-0,8 mm de longueur; stigmate indistinctement bilobé ou capité; 5 ovules par loge.
+Inflorescences axillary, small, rather contracted, but generally distinctly pedunculate, pauciflorous, 1–1.5 × 1–1.5 cm; peduncle, branches and pedicels glabrous. Flowers (4–)5-merous, often sessile. Sepals pale green, fused to one-third of their height, ovate, 1.2–1.4 × 0.8–1 mm, subacute, ciliate, glabrous on both surfaces. Corolla, in the mature bud, 2.5–3 mm long, pale yellow, thin at the base, distinctly thicker toward the apex, glabrous on the outside, on the inside, at the apex of the lobes, with curved brushes of white hairs; tube 0.8–1.5 mm long, broad; lobes 1–2 times longer than the tube, narrowly triangular, 1.5–1.7 × 0.8 mm, thick, acute, erect. Stamens scarcely exserted, inserted at the throat of the corolla, with glabrous, short filament, 0.7–1 times longer than the anther; anther oblong, glabrous. Pistil glabrous, 1.4–1.8 mm long; ovary ovoid, 1 × 0.8–1 mm, 2-locular; style short, 0.4–0.8 mm long; stigma indistinctly bilobed or capitate; 5 ovules per locule.
 
-Fruits petits, ellipsoïdes, mûrs vert pâle, de  $ 23-25 \times 15-17 $ mm et contenant une graine; paroi mince. Graine ellipsoïde ou presque, de  $ 16-20 \times 10 \times 6-7 $ mm, lisse; testa mince, collant à la pulpe. Pl. 20, 15-21, p. 129.
+Fruits small, ellipsoid, pale green at maturity, 23–25 × 15–17 mm and containing one seed; wall thin. Seed ellipsoid or nearly so, 16–20 × 10 × 6–7 mm, smooth; testa thin, adhering to the pulp. Pl. 20, 15–21, p. 129.
 
 ## Type
 
@@ -37,19 +38,17 @@ Leeuwenberg 6821, Cameroun
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Cameroon. Dense or secondary forests with Lophira alata. Altitude 0–100 m.
 
-Cameroun. Forêts denses ou secondaires avec Lophira alata. Altitude 0-100 m.
+Leeuwenberg 5550, 60 km S Edéa, S Mboké (fl. faded, Apr.) P, WAG, YA; 6292, 17 km E Kopongo, on road to Masok, right bank of the Bolobo (ster.) P, WAG, YA; 6316, 24 km NE Douala, on road to Edéa (fr. fallen, Aug.) P, WAG, YA; 6821, eod. loc. (fl., Oct.) WAG (holotype), A BR, C, COI, E, FHO, G, K, LISC, M, P, PRE, S, U, UC, YA, Z (isotypes); 6823, seedlings of 6821, P, WAG; 7889, 3 km E of km 58 road Edéa–Kribi (fr. immature, July) P, WAG, YA.
 
-Leeuwenberg 5550, 60 km S Edéa, S Mboké (fl. fanées, avr.) P, WAG, YA; 6292, 17 km E Kopongo, sur route de Masok, rive droite de la Bolobo (stér.) P, WAG, YA; 6316, 24 km NE Douala, sur route d'Edéa (fr. tombés, août) P, WAG, YA; 6821, eod. loc. (fl., oct.) WAG (holotype), A BR, C, COI, E, FHO, G, K, LISC, M, P, PRE, S, U, UC, YA, Z (isotypes); 6823, plantules de 6821, P, WAG; 7889, 3 km E du km 58 route Edéa-Kribi (fr. non mûrs, juill.) P, WAG, YA.
-
-Zenker 521 (nº au crayon), Bipindi, Mimfia (fr. non mûrs, mars) B, BOL, BREM, C, F, FI, G, GH, JE, LY, MO, NY, P, U, UC, US, WAG; 3341, Bipindi (fl.) BM, E, G, K, US, WU; 4877, eod. loc. (fl.) BR, G, K, LE, MO, W; eod. loc., Mimfia, juin 1911 (stér.) F.
+Zenker 521 (no. in pencil), Bipindi, Mimfia (fr. immature, Mar.) B, BOL, BREM, C, F, FI, G, GH, JE, LY, MO, NY, P, U, UC, US, WAG; 3341, Bipindi (fl.) BM, E, G, K, US, WU; 4877, eod. loc. (fl.) BR, G, K, LE, MO, W; eod. loc., Mimfia, June 1911 (ster.) F.
 
 ## Figures
 
 ![Strychnos mimfiensis](../sources/Loganiaceae_vol19_paddle/figures/fig_020_p0131.png)
 
-*PL. 20. — Strychnos campicola Gilg ex Leeuwenberg : 1, rameau × ½; 2, fl. × 7; 3, corolele p. p. avec ét. × 7; 4, fr. × ½; 5 et 6, gr. × 1; 7, sect. trans. de la feuille × 3 (1-3; 7 : Leeuwenberg 5447; 4 et 5-6 : d'après Tisserant 2266 et 1860, RCA). — Strychnos malchairii De Wild. : 8, rameau × ½; 9, fl. × 7; 10, corolele p. p. avec ét. × 7; 11, fr. × ½; 12 et 13, gr. × 1; 14, sect. trans. de la feuille × 3 (8-10, 14 et 11-13 : d'après A. Léonard 699 et Léon-tovitsch 112, Congo-Kinshasa, BR). — Strychnos mimfiensis Gilg ex Leeuwenberg : 15, rameau × ½; 16, fl. × 7; 17, corolele p. p. avec ét. × 7; 18, fr. × ½; 19 et 20, gr. × 1; 21, sect. trans. de la feuille × 3 (15 : 5550 et 6821; 16-17 : 6821; 18-20 : 6316; 21 : 5550, tous éch. Leeuwenberg).*
+*PL. 20. — Strychnos campicola Gilg ex Leeuwenberg : 1, branch × ½; 2, fl. × 7; 3, corolla p. p. with st. × 7; 4, fr. × ½; 5 and 6, gr. × 1; 7, transv. sect. of the leaf × 3 (1-3; 7 : Leeuwenberg 5447; 4 and 5-6 : after Tisserant 2266 and 1860, RCA). — Strychnos malchairii De Wild. : 8, branch × ½; 9, fl. × 7; 10, corolla p. p. with st. × 7; 11, fr. × ½; 12 and 13, gr. × 1; 14, transv. sect. of the leaf × 3 (8-10, 14 and 11-13 : after A. Léonard 699 and Léon-tovitsch 112, Congo-Kinshasa, BR). — Strychnos mimfiensis Gilg ex Leeuwenberg : 15, branch × ½; 16, fl. × 7; 17, corolla p. p. with st. × 7; 18, fr. × ½; 19 and 20, gr. × 1; 21, transv. sect. of the leaf × 3 (15 : 5550 and 6821; 16-17 : 6821; 18-20 : 6316; 21 : 5550, all specimens Leeuwenberg).*
 
 ## Notes
 

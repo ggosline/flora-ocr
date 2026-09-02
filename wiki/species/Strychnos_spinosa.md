@@ -7,6 +7,8 @@ family: Loganiaceae
 vol: 19
 pages: 113-115
 source: sources/Loganiaceae_vol19_paddle
+countries: [Madagascar]
+in_region: false
 tags: [species, generated]
 ---
 # *Strychnos spinosa* Lamarck
@@ -17,9 +19,7 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-— FTA 4(1) : 536, p. e.xcl. échantillons Welwitsch de Luanda, — FWTA ed. 1, 2 : 22. fig. 186. — A. Chevalier, Rev. Bot. Appl. 27 : 355, pl. 13 (1947), p. p. excl. syn. S. xerophila Bak. et S. schumanniana Gilg. — DUVIGNEAUD, Lejeunia 13 : 109 (1949); Bull. Soc. Roy. Bot. Belg. 85 : 20 (1952). — AUBRÉVILLE, Fl. For. Soud.-Guin. : 438, pl. 96, 1-4 (1950). — E. A. Bruce, Kew Bull. : 40 (1955), p. p., excl. syn. S. madagascariensis Poir. — FTEA, Loganiacee : 17, fig. 3, 7-16, p. p., excl. syn. S. madagascariensis Poir. — VERDOORN in FSA 26 : 147, fig. 17, 4 et 18, 2 (1963). — FWTA ed. 2, 2 : 41, fig. 209 p. p., excl. fig. 209 E et H, car anthères poilues et graines irrégulièrement disposées. — LEEUWENBERG, l.c. : 239, fig. 39 et 40, phot. 4, carte 38.
+— FTA 4(1) : 536, p. e.xcl. specimens Welwitsch from Luanda, — FWTA ed. 1, 2 : 22. fig. 186. — A. Chevalier, Rev. Bot. Appl. 27 : 355, pl. 13 (1947), p. p. excl. syn. S. xerophila Bak. et S. schumanniana Gilg. — DUVIGNEAUD, Lejeunia 13 : 109 (1949); Bull. Soc. Roy. Bot. Belg. 85 : 20 (1952). — AUBRÉVILLE, Fl. For. Soud.-Guin. : 438, pl. 96, 1-4 (1950). — E. A. Bruce, Kew Bull. : 40 (1955), p. p., excl. syn. S. madagascariensis Poir. — FTEA, Loganiacee : 17, fig. 3, 7-16, p. p., excl. syn. S. madagascariensis Poir. — VERDOORN in FSA 26 : 147, fig. 17, 4 et 18, 2 (1963). — FWTA ed. 2, 2 : 41, fig. 209 p. p., excl. fig. 209 E et H, because anthers hairy and seeds irregularly arranged. — LEEUWENBERG, l.c. : 239, fig. 39 et 40, phot. 4, map 38.
 
 — S. lokua A. Rich., Tent. Fl. Abyss. 2 : 53 (1851). — DUVIGNEAUD, Lejeunia 13 : 112 (1949); Bull. Soc. Roy. Bot. Belg. 85 : 21, fig. 6 C (1952).
 
@@ -35,15 +35,13 @@ tags: [species, generated]
 
 — S. djalonis A. CHEV., Expl. Bot. Afr. Occ. Fr. 1 : 442 (1920), nom. nud.; Rev. Bot. Appl. 27 : 358 pl. 16 B (1947).
 
-Arbuste ou petit arbre atteignant une hauteur de (0,30-) 1-6 (-10) m, à feuilles caduques, souvent en fleurs sur rejets d'un an (à petites feuilles) après passage des feux de brousse (comme pour S. cocculoides); tronc de 4-15 cm de diamètre, parfois cannelé; écorce grise ou brun pâle à foncé, non profondément fissurée, non ou parfois finement subéreuse, souvent écailleuse, parfois noircie par le feu de brousse, non lenticellée; bois dur, blanchâtre, sans îlots d'écorce; rameaux parfois à anneaux imprimés aux nœuds, gris ou bruns, non lenticellés, souvent avec épines recourbées ou droites; petits rameaux glabres ou pubescents, souvent sillonnés à l'état sec, parfois terminés par une épine droite.
+Shrub or small tree reaching a height of (0.30–) 1–6 (–10) m, with deciduous leaves, often flowering on one-year-old shoots (with small leaves) after passage of bush fires (as for S. cocculoides); trunk 4–15 cm in diameter, sometimes fluted; bark grey or pale to dark brown, not deeply fissured, not or sometimes finely subereous, often scaly, sometimes blackened by bush fire, not lenticellate; wood hard, whitish, without patches of bark; branches sometimes with impressed rings at the nodes, grey or brown, not lenticellate, often with curved or straight spines; branchlets glabrous or pubescent, often furrowed when dry, sometimes terminated by a straight spine.
 
-Feuilles sur l'axe principal parfois ternées; pétiole de 2-10 mm de longueur, glabre ou pubescent; limbe coriace, également sur échantillons frais, pour les jeunes feuilles plus mince et papyracé à l'état sec, de forme et de grandeur très variables, orbiculaire, elliptique, étroitement elliptique, ové ou obové, généralement plus large sur les rameaux florifères, de 1,4-9,5 (-13,5) × 1,2-7,5 cm, émarginé, arrondi à aigu et souvent apiculé, parfois acuminé (habituellement pour les arbres situés le long des cours d'eau) ou rarement apiculé au sommet, cuné ou moins souvent arrondi (et pour les feuilles situées sur l'axe principal parfois subcordé) à la base, souvent avec domaties aux aiselles des nervures principales, glabre ou pubescent
+Leaves on the main axis sometimes ternate; petiole 2–10 mm long, glabrous or pubescent; lamina coriaceous, also on fresh specimens, for young leaves thinner and papyraceous when dry, of very variable shape and size, orbicular, elliptic, narrowly elliptic, ovate or obovate, generally wider on the flowering branches, 1.4–9.5 (–13.5) × 1.2–7.5 cm, emarginate, rounded to acute and often apiculate, sometimes acuminate (usually for trees located along watercourses) or rarely apiculate at the apex, cuneate or less often rounded (and for leaves situated on the main axis sometimes subcordate) at the base, often with domatia at the axils of the primary veins, glabrous or pubescent on both faces (for shoots and seedlings of normally sparsely hairy plants, lamina distinctly pubescent, smaller and cordate); 1–3 pairs of secondary veins curved along the margin.
 
-sur les deux faces (pour les rejets et les plantules de plantes normalement peu poilues, limbe nettement pubescent, plus petit et cordé); 1-3 paires de nervures secondaires courbées le long de la marge.
+Inflorescences terminal, umbel-like, contracted mostly, 1.5–5 (–6.5) × 1.5–3.5 (–7) cm, generally multiflorous; peduncle, branches and pedicels with often sparse pubescence. Flowers 5-merous. Sepals pale green, connate at the base, narrowly triangular to linear, equal, subequal or sometimes unequal, 1.5–6 × (0.3–) 0.5–1.2 mm, elongated during flowering, acuminate or subulate, more or less finely ciliate at the base, on the outside usually furnished with sparse pubescence at the base and glabrous at the apex, or entirely glabrous, never covered with uniform pubescence over the entire surface, on the inside glabrous and generally with a few hairs at the base or sometimes decorated with fine pubescence. Corolla, in the mature bud, 4–5 (–6) mm long, pale green, greenish, or less often white, cream or yellow, on the outside glabrous or with sparse pubescence, on the inside, at the throat, with a narrow entire white-penicillate crown, tube 1.2–2.7 times longer than the lobes, 2.2–3 (–4.4) × 2–3 (–3.5) mm, urceolate or campanulate; lobes triangular, 1.2–2 × 1–1.5 mm, acute, erect or suberect. Stamens included, inserted 0.4–0.8 mm from the base of the corolla, with glabrous filament, 0.7–1.5 times longer than the anther; anther oblong or elliptic, ciliate all around with villous or sometimes pilose hairs. Pistil pubescent, glabrous just below the stigma, 1.8–2.4 (–3) mm long; ovary ovoid, broadly ovoid or globose, (1–) 1.2–1.6 (–2) × 1–1.3 mm, acuminate, unilocular; stigma subsessile, oblong; one large globose basal placenta with approximately 60–120 ovules.
 
-Inflorescences terminales, semblables à des ombelles, contractées le plus souvent, de 1,5-5 (-6,5) × 1,5-3,5 (-7) cm, généralement multiflores; pédoncule, rameaux et pédicelles à pubescence souvent éparse. Fleurs 5-mères. Sépales vert pâle, soudés à la base, étroitement triangulaires à linéaires, égaux, subégaux ou parfois inégaux, de 1,5-6 × (0,3-) 0,5-1,2 mm, allongés pendant la floraison, acuminés ou subulés, plus ou moins finement ciliés à la base, à l'extérieur habituellement garnis d'une pubescence éparse à la base et glabres au sommet, ou entièrement glabres, jamais couverts d'une pubescence uniforme sur toute la surface, à l'intérieur glabres et généralement avec quelques poils à la base ou parfois ornamentés d'une fine pubescence. Corolle, dans le bouton mûr, longue de 4-5 (-6) mm, vert pâle, verdâtre, ou moins souvent blanche, crème ou jaune, à l'extérieur glabre ou à pubescence éparse, à l'intérieur, à la gorge, avec une couronne étroite entière blanche-pénicillée, tube 1,2-2,7 fois plus long que les lobes, de 2,2-3 (-4,4) × 2-3 (-3,5) mm, urcéolé ou campanulé; lobes triangulaires, de 1,2-2 × 1-1,5 mm, aigus, érigés ou subérigés. Etamines incluses, insérées à 0,4-0,8 mm de la base de la corolle, à filet glabre, 0,7-1,5 fois plus long que l'anthère; anthère oblongue ou elliptique, ciliée tout autour avec poils villeux ou parfois pileux. Pistil pubescent, glabre juste au-dessous du stigmate, de 1,8-2,4 (-3) mm de longueur; ovaire ovoïde, largement ovoïde ou globuleux, de (1-) 1,2-1,6 (-2) × 1-1,3 mm, acuminé, à une loge; stigmate subsessile, oblong; un grand placenta globuleux basal avec 60-120 ovules environ.
-
-Fruits jaunes ou, juste avant maturité, jaunes-verts ou verts, volumineux, durs, globuleux, ressemblant à des oranges ou à des pamplemousses-de 7-11 (-15) cm de diamètre, contenant env. 10-100 graines, non mûrs souvent pyriformes; paroi assez épaisse, dure, de 2-5 (-8) mm d'épaisseur; pulpe jaune, comestible. Graines obliquement ovées ou elliptiques, ± plano-convexes, généralement irrégulièrement courbées, de 11-23 × 6-18 × 2-5 mm, ordinairement lisses, à pubescence très courte, testa épais. Pl. 38, p. 145.
+Fruits yellow or, just before maturity, yellow-green or green, voluminous, hard, globose, resembling oranges or grapefruits, 7–11 (–15) cm in diameter, containing approx. 10–100 seeds, immature fruits often pyriform; wall fairly thick, hard, 2–5 (–8) mm thick; pulp yellow, edible. Seeds obliquely ovate or elliptic, ± plano-convex, generally irregularly curved, 11–23 × 6–18 × 2–5 mm, ordinarily smooth, with very short pubescence, testa thick. Pl. 38, p. 145.
 
 ## Type
 
@@ -51,9 +49,7 @@ Sonnerat (?), herb. Lamarck s. n., sin. loc., Madagascar (holo-, P-LA)
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Afrique tropicale, Afrique du sud, Madagascar, Mascaregnes et Seychelles. Altitude 0-2 000 m. Espèce la plus répandue parmi les espèces africaines du genre. Savanes ou parfois galeries.
+Tropical Africa, southern Africa, Madagascar, Mascarenes and Seychelles. Altitude 0–2,000 m. Most widespread species among the African species of the genus. Savannas or sometimes gallery forests.
 
 ## Specimens examined
 
@@ -81,7 +77,7 @@ Vaillant 61, Maroua (fl., mai).
 
 ![Strychnos spinosa](../sources/Loganiaceae_vol19_paddle/figures/fig_038_p0147.png)
 
-*PL. 38. — Strychnos spinosa Lam. : 1, et 2, rameaux × 1/2; 3, fleur × 6; 4, dissection de la fleur × 6; 5, tranche desséchée du fruit presque mûr × 1/2 (1-4 : Leeuwenberg 7664; 6 : Leeuwenberg 7483).*
+*PL. 38. — Strychnos spinosa Lam. : 1, and 2, branches × 1/2; 3, flower × 6; 4, flower dissection × 6; 5, dried section of nearly ripe fruit × 1/2 (1-4 : Leeuwenberg 7664; 6 : Leeuwenberg 7483).*
 
 ## Notes
 

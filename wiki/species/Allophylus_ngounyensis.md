@@ -7,6 +7,7 @@ family: Sapindaceae
 vol: 23
 pages: 36-36
 source: sources/Sapindaceae_vol23_paddle
+habit: "shrub"
 tags: [species, generated]
 ---
 # *Allophylus ngounyensis* Pellegrin

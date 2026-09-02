@@ -7,6 +7,11 @@ family: Begoniaceae
 vol: 39
 pages: 88-92
 source: sources/Begoniaceae_vol39_liteparse
+countries: [Angola, Cameroon, Central African Republic, Cote d'Ivoire, Democratic Republic of the Congo, Equatorial Guinea, Gabon, Ghana, Liberia, Nigeria]
+in_region: true
+habit: "herb"
+habitat: [swamp forest, riverine]
+altitude_m: "1100"
 tags: [species, generated]
 ---
 # *Begonia fusialata* Warb. var. fusialata Planche 41A, 41B (1–14)

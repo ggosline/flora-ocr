@@ -7,6 +7,11 @@ family: Clusiaceae
 vol: 45
 pages: 21-22
 source: sources/Clusiaceae_vol45_liteparse
+countries: [Burundi, Democratic Republic of the Congo, Gabon, Kenya, Malawi, Mozambique, Rwanda, Sudan, Tanzania, Uganda, Zambia]
+in_region: true
+habit: "tree"
+habitat: [gallery forest]
+altitude_m: "500"
 tags: [species, generated]
 ---
 # *Garcinia buchananii* Baker

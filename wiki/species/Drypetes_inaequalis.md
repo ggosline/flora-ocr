@@ -7,6 +7,11 @@ family: Putranjivaceae
 vol: 57
 pages: 145-145
 source: sources/Putranjivaceae_vol57_paddle
+countries: [Cameroon, Cote d'Ivoire, Equatorial Guinea, Gabon, Guinea, Liberia, Sierra Leone]
+in_region: true
+subdivisions:
+  Gabon: [Ngounié, Ogooué-Ivindo, Ogooué-Lolo, Ogooué-Maritime, Woleu-Ntem]
+habit: "tree"
 tags: [species, generated]
 ---
 # *Drypetes inaequalis* Hutch.

@@ -7,6 +7,11 @@ family: Putranjivaceae
 vol: 57
 pages: 162-163
 source: sources/Putranjivaceae_vol57_paddle
+countries: [Cameroon, Equatorial Guinea, Gabon, Nigeria, Republic of the Congo]
+in_region: true
+subdivisions:
+  Gabon: [Estuaire, Woleu-Ntem]
+habit: "tree"
 tags: [species, generated]
 ---
 # *Drypetes staudtii* (Pax) Hutch.

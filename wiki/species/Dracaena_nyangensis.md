@@ -7,6 +7,13 @@ family: Dracaenaceae
 vol: 54
 pages: 47-49
 source: sources/Dracaenaceae_vol54_liteparse
+countries: [Cameroon, Gabon]
+in_region: true
+subdivisions:
+  Gabon: [Moyen-Ogooué, Ngounié, Nyanga, Woleu-Ntem]
+habit: "herb"
+habitat: [primary forest]
+altitude_m: "0–460"
 tags: [species, generated]
 ---
 # *Dracaena nyangensis* Pellegr. Planche 16(1–4)

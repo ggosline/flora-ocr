@@ -7,6 +7,7 @@ family: Gramineae
 vol: 05
 pages: 91-94
 source: sources/Gramineae_vol05_paddle
+habit: "herb"
 tags: [species, generated]
 ---
 # *Antephora cristata* (Doell.) Hack.
@@ -44,7 +45,7 @@ Griffon du Bellay : without locality.
 
 ![Antephora cristata](../sources/Gramineae_vol05_paddle/figures/fig_016_p0093.png)
 
-*PL. XV. — Antephora cristata (Doell.) Hack. (Chev. 11135) : 1, chaume, feuilles et inflorescence; 2, détail de la pilosité des gaines foliaires; 3, fragment de racème; 4, glomérule d'épillets, longueur 5 mm env.; 5, coupe d'un glomérule, l'épillet est vu par la face interne; 6, fleur fertile. — Beckeropsis uniseta (Nees) K. Schum. (Guillemet 17); 7, fragment d'inflorescence et feuille; 8, fragment de racème; 9, épillet, longueur 2,5 à 3 mm sans la soie; 10, fleur fertile.*
+*PL. XV. — Antephora cristata (Doell.) Hack. (Chev. 11135) : 1, culm, leaves and inflorescence; 2, detail of the hairiness of the leaf sheaths; 3, raceme fragment; 4, spikelet glomule, length approximately 5 mm; 5, section of a glomule, the spikelet is viewed by the internal surface; 6, fertile flower. — Beckeropsis uniseta (Nees) K. Schum. (Guillemet 17); 7, inflorescence fragment and leaf; 8, raceme fragment; 9, spikelet, length 2.5 to 3 mm without the bristle; 10, fertile flower.*
 
 ## Notes
 

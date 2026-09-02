@@ -7,6 +7,9 @@ family: Annonaceae
 vol: 16
 pages: 0-0
 source: sources/Annonaceae_vol16_mineru
+countries: [Angola, Cameroon, Gabon, Republic of the Congo, Uganda]
+in_region: true
+habit: "shrub"
 tags: [species, generated]
 ---
 # *Popowia littoralis* Bagshawe et Baker f.

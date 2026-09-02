@@ -7,6 +7,8 @@ family: Orchidaceae
 vol: 37
 pages: 125-129
 source: sources/Orchidaceae_vol37_paddle
+countries: [Cote d'Ivoire, Democratic Republic of the Congo, Gabon, Ghana]
+in_region: true
 tags: [species, generated]
 ---
 # *Eggelingia clavata* Summerh.

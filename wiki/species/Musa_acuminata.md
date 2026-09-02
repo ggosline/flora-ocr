@@ -5,11 +5,11 @@ authority: Colla
 genus: Musa
 family: Musaceae
 synonyms: []
-countries: [Gabon, India, Indonesia]
 range_note: "Native from India through Indonesia and Southeast Asia; cultivated clones introduced to Gabon."
-in_region: true
-habit: giant herb
 treatments: [{vol: 9, pages: "11–14", source: sources/Musaceae_vol9_paddle}]
+countries: [Gabon]
+in_region: true
+habit: "herb"
 tags: [species, introduced, cultivated]
 ---
 

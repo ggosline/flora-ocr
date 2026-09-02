@@ -7,6 +7,10 @@ family: Begoniaceae
 vol: 39
 pages: 55-55
 source: sources/Begoniaceae_vol39_liteparse
+countries: [Angola, Cameroon, Democratic Republic of the Congo, Equatorial Guinea, Gabon]
+in_region: true
+habitat: [rocky ground]
+altitude_m: "1000"
 tags: [species, generated]
 ---
 # *Begonia lacunosa* Warb. Planche 24

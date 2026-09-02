@@ -7,6 +7,13 @@ family: Leguminosae
 vol: 49
 pages: 19-19
 source: sources/Millettiaspeciesfabaceae_vol49_liteparse
+countries: [Angola, Gabon, Gambia, Kenya, Tanzania]
+in_region: true
+subdivisions:
+  Gabon: [Nyanga, Ogooué-Ivindo]
+habit: "herb"
+habitat: [savanna]
+altitude_m: "0–800"
 tags: [species, generated]
 ---
 # *Abrus canescens* Welw. ex Baker Planche 1

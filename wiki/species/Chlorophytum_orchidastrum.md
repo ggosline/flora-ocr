@@ -7,6 +7,12 @@ family: Anthericaceae
 vol: 41
 pages: 11-12
 source: sources/Anthericaceae_vol41_liteparse
+countries: [Cameroon, Democratic Republic of the Congo, Gabon, Sierra Leone]
+in_region: true
+subdivisions:
+  Gabon: [Estuaire, Ogooué-Maritime, Woleu-Ntem]
+habitat: [secondary forest]
+altitude_m: "15–860"
 tags: [species, generated]
 ---
 # *Chlorophytum orchidastrum* Lindl. Planche 1

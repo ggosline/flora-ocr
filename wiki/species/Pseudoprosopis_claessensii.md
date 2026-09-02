@@ -7,6 +7,9 @@ family: Leguminosae
 vol: 31
 pages: 74-75
 source: sources/Leguminosae_vol31_paddle
+countries: [Democratic Republic of the Congo, Gabon]
+in_region: true
+habit: "liana"
 tags: [species, generated]
 ---
 # *Pseudoprosopis claessensii* (De Wildeman) Gilbert & Boutique
@@ -45,7 +48,7 @@ Le Testu 8809, Bidyabiki (fl., mars).
 
 ![Pseudoprosopis claessensii](../sources/Leguminosae_vol31_paddle/figures/fig_030_p0076.png)
 
-*PL. 18. – Pseudoprosopis claessensii (De Wild.) Gilbert & Bouti.: 1, aspect général × 0,5; 2, fruits jeunes × 0,5; 3, fruit mature × 0,5; 4, exocarpe, détail × 6; 5, 6, graine × 1,5. (1, Troupin 6316 (Zaïre); 2-4, Lissowski 43567 (Zaïre); 5, 6, Évrard 6254 (Zaïre)). – Repris de BJBB 53 (3-4): 423 (1983).*
+*PL. 18. – Pseudoprosopis claessensii (De Wild.) Gilbert & Bouti.: 1, general appearance × 0,5; 2, young fruits × 0,5; 3, mature fruit × 0,5; 4, exocarp, detail × 6; 5, 6, seed × 1,5. (1, Troupin 6316 (Zaïre); 2-4, Lissowski 43567 (Zaïre); 5, 6, Évrard 6254 (Zaïre)). – Reprinted from BJBB 53 (3-4): 423 (1983).*
 
 ## Notes
 

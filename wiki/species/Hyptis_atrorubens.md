@@ -6,6 +6,10 @@ genus: Hyptis
 vol: 58
 pages: 68-68
 source: sources/Labiataeulmaceaeverbenaceae_vol58_liteparse
+countries: [Gabon]
+in_region: true
+habit: "herb"
+altitude_m: "100–500"
 tags: [species, generated]
 ---
 # *Hyptis atrorubens* Poit. Planche 15

@@ -7,6 +7,10 @@ family: Begoniaceae
 vol: 39
 pages: 38-42
 source: sources/Begoniaceae_vol39_liteparse
+countries: [Angola, Burundi, Cameroon, Cote d'Ivoire, Democratic Republic of the Congo, Equatorial Guinea, Gabon, Ghana, Guinea, Kenya, Liberia, Madagascar, Malawi, Mozambique, Nigeria, Rwanda, Sierra Leone, Tanzania, Togo, Uganda]
+in_region: true
+habitat: [rocky ground]
+altitude_m: "180"
 tags: [species, generated]
 ---
 # *Begonia oxyloba* Welw. ex Hook.f.

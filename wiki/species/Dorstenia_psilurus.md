@@ -7,6 +7,10 @@ family: Moraceae
 vol: 26
 pages: 80-83
 source: sources/Moraceae_vol26_paddle
+countries: [Cameroon, Democratic Republic of the Congo, Gabon, Nigeria, Tanzania, Uganda, Zambia]
+in_region: true
+habitat: [swamp forest, riverine]
+altitude_m: "800"
 tags: [species, generated]
 ---
 # *Dorstenia psilurus* Welwitsch
@@ -91,7 +95,7 @@ Le Testu 1346, Mayombe, Loukandu (fl., July); 2367, Mayombe bavili, between Moui
 
 ![Dorstenia psilurus](../sources/Moraceae_vol26_paddle/figures/fig_024_p0082.png)
 
-*PL. 23. – Dorstenia psilurus Welw.: 1, 2, parties sup. de tige; 3, feuille; 4, stipules; 5, inflo. (1, 5, Breteler 6536; 2, Le Testu 5163; 3, Le Testu 9106; 4, Le Testu 4546, Centrafrique).*
+*PL. 23. – Dorstenia psilurus Welw.: 1, 2, upper parts of stem; 3, leaf; 4, stipules; 5, inflorescence (1, 5, Breteler 6536; 2, Le Testu 5163; 3, Le Testu 9106; 4, Le Testu 4546, Central African Republic).*
 
 ## Notes
 

@@ -7,6 +7,12 @@ family: Menyanthaceae
 vol: 40
 pages: 50-52
 source: sources/Menyanthaceae_vol40_liteparse
+countries: [Cote d'Ivoire, Gabon, Kenya, Mozambique]
+in_region: true
+subdivisions:
+  Gabon: [Ngounié, Ogooué-Maritime]
+habit: "herb"
+altitude_m: "0–1650"
 tags: [species, generated]
 ---
 # *Nymphoides nilotica* (Kotschy & Peyr.) J.Léonard, Bull. Soc. Roy. Bot. Belg. 84 : 53

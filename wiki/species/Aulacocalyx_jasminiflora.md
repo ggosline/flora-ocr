@@ -7,6 +7,9 @@ family: Rubiaceae
 vol: 17
 pages: 159-160
 source: sources/Rubiaceae_vol17_paddle
+countries: [Angola, Guinea, Sierra Leone]
+in_region: true
+habit: "shrub"
 tags: [species, generated]
 ---
 # *Aulacocalyx jasminiflora* Hook. f.

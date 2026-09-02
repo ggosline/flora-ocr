@@ -7,6 +7,9 @@ family: Rubiaceae
 vol: 12
 pages: 198-198
 source: sources/Rubiaceae_vol12_paddle
+countries: [Central African Republic]
+in_region: false
+habit: "liana"
 tags: [species, generated]
 ---
 # *Sabicea schumanniana* Büttner

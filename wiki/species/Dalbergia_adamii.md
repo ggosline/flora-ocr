@@ -7,6 +7,12 @@ family: Leguminosae
 vol: 49
 pages: 113-116
 source: sources/Millettiaspeciesfabaceae_vol49_liteparse
+countries: [Cameroon, Equatorial Guinea, Gabon]
+in_region: true
+subdivisions:
+  Gabon: [Estuaire, Ngounié, Ogooué-Ivindo, Ogooué-Lolo, Ogooué-Maritime, Woleu-Ntem]
+habitat: [swamp forest, secondary forest, coastal]
+altitude_m: "0–750"
 tags: [species, generated]
 ---
 # *Dalbergia adamii* Berhaut

@@ -7,6 +7,9 @@ family: Celastraceae
 vol: 29
 pages: 272-273
 source: sources/Celastraceae_vol29_paddle
+countries: [Democratic Republic of the Congo]
+in_region: true
+habitat: [riverine]
 tags: [species, generated]
 ---
 # *Campylostemon bequaertii* De Wildeman

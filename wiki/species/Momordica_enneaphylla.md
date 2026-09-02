@@ -7,6 +7,13 @@ family: Cucurbitaceae
 vol: 57
 pages: 90-90
 source: sources/Cucurbitaceae_vol57_paddle
+countries: [Cameroon, Democratic Republic of the Congo, Gabon]
+in_region: true
+subdivisions:
+  Gabon: [Estuaire, Ngounié, Woleu-Ntem]
+habit: "herb"
+habitat: [gallery forest, secondary forest]
+altitude_m: "10–550"
 tags: [species, generated]
 ---
 # *Momordica enneaphylla* Cogn.

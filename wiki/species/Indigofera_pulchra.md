@@ -7,6 +7,11 @@ family: Leguminosae
 vol: 49
 pages: 220-221
 source: sources/Millettiaspeciesfabaceae_vol49_liteparse
+countries: [Angola, Gabon, Senegal, Zambia]
+in_region: true
+subdivisions:
+  Gabon: [Estuaire, Ogooué-Ivindo]
+altitude_m: "200"
 tags: [species, generated]
 ---
 # *Indigofera pulchra* Willd.

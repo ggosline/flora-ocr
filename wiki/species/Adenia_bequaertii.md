@@ -7,6 +7,12 @@ family: Passifloraceae
 vol: 46
 pages: 63-65
 source: sources/Passifloraceae_vol46_liteparse
+countries: [Angola, Cameroon, Central African Republic, Democratic Republic of the Congo, Gabon]
+in_region: true
+subdivisions:
+  Gabon: [Ogooué-Ivindo]
+habit: "liana"
+altitude_m: "500"
 tags: [species, generated]
 ---
 # *Adenia bequaertii* Robyns & Lawalrée subsp. occidentalis W.J.de Wilde

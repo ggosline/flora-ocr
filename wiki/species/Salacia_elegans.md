@@ -7,6 +7,9 @@ family: Celastraceae
 vol: 29
 pages: 153-156
 source: sources/Celastraceae_vol29_paddle
+countries: [Angola, Cameroon, Central African Republic, Cote d'Ivoire, Democratic Republic of the Congo, Gabon, Ghana, Guinea, Kenya, Malawi, Mozambique, Nigeria, Sierra Leone, Tanzania, Uganda, Zambia]
+in_region: true
+habitat: [savanna, rocky ground]
 tags: [species, generated]
 ---
 # *Salacia elegans* Welwistch ex Oliver

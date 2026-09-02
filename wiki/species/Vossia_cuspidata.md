@@ -7,6 +7,7 @@ family: Gramineae
 vol: 05
 pages: 122-124
 source: sources/Gramineae_vol05_paddle
+habit: "herb"
 tags: [species, generated]
 ---
 # *Vossia cuspidata* Griff. v. polystachya J. Koechlin.
@@ -17,17 +18,15 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Perennial herbs, the emergent part capable of exceeding 1 m in height. Leaf sheaths most often glabrous, sometimes sparsely pubescent with stiff and tuberculate-based hairs. Ligule truncate pubescent; blade linear, up to 1 m long and 2.5 cm wide, scabrous on both surfaces and on the margins.
 
-Herbes pérennes, la partie émergée pouvant dépasser 1 m de haut. Gaines foliaires le plus souvent glabres, parfois éparsement pubescentes à poils raides et tuberculés à la base. Ligule tronquée pubescente; limbe linéaire, jusqu'à 1 m de long et 2,5 cm de large, scabre sur les 2 faces et sur les marges.
+Racemes of 10 to 40 cm long, approximately 25 cm most often, disarticulating between the different pairs of spikelets. Rachis articles more or less pubescent and scabrous on the margins and on the convex part. Pedicels similar.
 
-Racèmes de  $ 10 à 40 $ cm de long, environ  $ 25 $ cm le plus souvent, se désarticulant entre les différentes paires d'épillets. Articles du rachis plus ou moins pubescents et scabres sur les marges et sur la partie convexe. Pédicelles semblables.
+Spikelets with lower glume flattened, with keeled and scabrous edges, produced into a flattened subule, scabrous on the edges, 1 to 2 mm wide. Fine nerves, numerous, visible by transparency. Upper glume somewhat smaller, asymmetric, bicarinate, acute, scabrous on the keels, 5 to 9 anastomosing nerves with the central nerve. Lemmas hyaline, glabrous or finely pubescent on the margins and at the apex, acuminate or very finely bidentate, bicarinate, similar in the 2 flowers, and approximately 6–7 mm long.
 
-Épillets à glume inférieure aplatie, à bords carénés et scabres, prolongée par une subule aplatie, scabre sur les bords, de 1 à 2 mm de large. Nervures fines, nombreuses, visibles par transparence. Glume supérieure un peu plus petite, asymétrique, bicarénée, aiguë, scabre sur les carènes, 5 à 9 nervures anastomosées avec la nervure centrale. Glumelles hyalines, glabres ou finement pubescentes sur les marges et au sommet, acuminées ou très finement bidentées, bicarénées, semblables dans les 2 fleurs, et longues d'environ 6-7 mm.
+Vernacular names after Walker and Sillans: Oko-nguwu
 
-Noms vernaculaires d'après Walker et Sillans : Oko-nguwu
-
-(Mpongwé, Galoa, Nkomi, Orungu); Igiku-gya-fubu (Ngové); Nlong-ngubi (Fang du Fernan-Vaz).
+(Mpongwé, Galoa, Nkomi, Orungu); Igiku-gya-fubu (Ngové); Nlong-ngubi (Fang of Fernan-Vaz).
 
 ## Specimens examined
 
@@ -45,7 +44,7 @@ Nota. Les spécimens de Lecomte et de Dybowski sont cités dans la Flora of Trop
 
 ![Vossia cuspidata](../sources/Gramineae_vol05_paddle/figures/fig_020_p0121.png)
 
-*PL. XIX.—Vossia cuspidata Griff. var. polystachya J. Koechlin (Le Testu, 2267): 1, inflorescence; 2, fragment de racème, épilets sessiles vus par la face ventrale; 3, fragment de racème, épilets pédicellés et épilets sessiles vus par la face dorsale (épilets de 3 à 4 cm de long, avec les arêtes); 4, glume inférieure, face ventrale (de même longueur que l'épiletté); 5, glume supérieure, vue latérale (7 mm de long); 6, fragment de chaume submergé avec racines adventices.*
+*PL. XIX.—Vossia cuspidata Griff. var. polystachya J. Koechlin (Le Testu, 2267): 1, inflorescence; 2, raceme fragment, sessile spikelets viewed from the ventral surface; 3, raceme fragment, pedicellate spikelets and sessile spikelets viewed from the dorsal surface (spikelets 3 to 4 cm long, with the awns); 4, lower glume, ventral surface (same length as the spikelet); 5, upper glume, lateral view (7 mm long); 6, fragment of submerged culm with adventitious roots.*
 
 ## Notes
 

@@ -7,6 +7,10 @@ family: Begoniaceae
 vol: 39
 pages: 45-47
 source: sources/Begoniaceae_vol39_liteparse
+countries: [Cameroon, Equatorial Guinea, Gabon]
+in_region: true
+habitat: [secondary forest]
+altitude_m: "100–1000"
 tags: [species, generated]
 ---
 # *Begonia clypeifolia* Hook.f.

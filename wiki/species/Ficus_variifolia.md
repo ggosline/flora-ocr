@@ -7,6 +7,8 @@ family: Moraceae
 vol: 26
 pages: 146-147
 source: sources/Moraceae_vol26_paddle
+countries: [Angola, Cameroon, Central African Republic, Cote d'Ivoire, Democratic Republic of the Congo, Gabon, Guinea, Sierra Leone, Sudan, Uganda]
+in_region: true
 tags: [species, generated]
 ---
 # *Ficus variifolia* Warburg
@@ -53,7 +55,7 @@ Hladik 1590, Makokou, île de l'Éléphant (fig., nov.; stér.). Michaloud 500, 
 
 ![Ficus variifolia](../sources/Moraceae_vol26_paddle/figures/fig_041_p0148.png)
 
-*PL. 40. – Ficus dicranostyla Mildbr.: 1-2, rameaux avec feuilles et figues × 1 (1, Fotius 2543, Cameroun; 2, Jacques-Félix 3590, Cameroun). – Ficus variifolia Warb.: 3, rameau avec feuilles et figues × 1 (3, Zenker 1562, Cameroun).*
+*PL. 40. – Ficus dicranostyla Mildbr.: 1-2, branches with leaves and figs × 1 (1, Fotius 2543, Cameroon; 2, Jacques-Félix 3590, Cameroon). – Ficus variifolia Warb.: 3, branch with leaves and figs × 1 (3, Zenker 1562, Cameroon).*
 
 ## Notes
 

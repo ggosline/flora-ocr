@@ -7,6 +7,9 @@ family: Moraceae
 vol: 26
 pages: 193-196
 source: sources/Moraceae_vol26_paddle
+countries: [Cameroon, Central African Republic, Democratic Republic of the Congo, Gabon]
+in_region: true
+habit: "tree"
 tags: [species, generated]
 ---
 # *Ficus burretiana* Mildbraed & Hutchinson
@@ -61,7 +64,7 @@ F. lutea est plutôt uniforme en Afrique occidentale. Le nombre de nervures lat�
 
 ![Ficus burretiana](../sources/Moraceae_vol26_paddle/figures/fig_057_p0194.png)
 
-*PL. 56. – Ficus burretiana Mildbr. & Hutch.: rameaux avec feuilles et figues × 1 (Tisserant 2306, Centrafrique).*
+*PL. 56. – Ficus burretiana Mildbr. & Hutch.: branches with leaves and figs × 1 (Tisserant 2306, Central African Republic).*
 
 ## Notes
 

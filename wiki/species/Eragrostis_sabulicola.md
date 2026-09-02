@@ -7,6 +7,7 @@ family: Gramineae
 vol: 05
 pages: 232-233
 source: sources/Gramineae_vol05_paddle
+habit: "herb"
 tags: [species, generated]
 ---
 # *Eragrostis sabulicola* Pilger ex Koechlin (f. p. 229).

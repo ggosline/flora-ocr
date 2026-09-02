@@ -7,6 +7,9 @@ family: Moraceae
 vol: 26
 pages: 179-182
 source: sources/Moraceae_vol26_paddle
+countries: [Cameroon, Democratic Republic of the Congo, Gabon]
+in_region: true
+habit: "tree"
 tags: [species, generated]
 ---
 # *Ficus mallotoides* Mildbraed & Hutchinson
@@ -55,7 +58,7 @@ C'est le seul groupe d'espèces de Ficus nettement associé à la forêt dense h
 
 ![Ficus mallotoides](../sources/Moraceae_vol26_paddle/figures/fig_051_p0180.png)
 
-*PL. 50. - Ficus mallotoides Mildbr. & Hutch.: 1, rameau avec feuilles et boutons axillaires calyptrés × 2/3; 2, figue × 1 (Letouzey 1656, Cameroun).*
+*PL. 50. - Ficus mallotoides Mildbr. & Hutch.: 1, branch with leaves and calyprate axillary buds × 2/3; 2, fig × 1 (Letouzey 1656, Cameroon).*
 
 ## Notes
 

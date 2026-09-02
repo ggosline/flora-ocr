@@ -7,6 +7,9 @@ family: Begoniaceae
 vol: 39
 pages: 94-96
 source: sources/Begoniaceae_vol39_liteparse
+countries: [Gabon]
+in_region: true
+habit: "epiphyte"
 tags: [species, generated]
 ---
 # *Begonia karperi* J.C.Arends Planche 43

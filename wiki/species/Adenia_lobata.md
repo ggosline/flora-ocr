@@ -7,6 +7,10 @@ family: Passifloraceae
 vol: 46
 pages: 69-71
 source: sources/Passifloraceae_vol46_liteparse
+countries: [Angola, Gabon, Mozambique, Senegal, Sudan]
+in_region: true
+habit: "liana"
+altitude_m: "550"
 tags: [species, generated]
 ---
 # *Adenia lobata* (Jacq.) Engl. Planche 25.1, 28

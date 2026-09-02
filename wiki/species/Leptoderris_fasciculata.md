@@ -7,6 +7,13 @@ family: Leguminosae
 vol: 49
 pages: 229-230
 source: sources/Millettiaspeciesfabaceae_vol49_liteparse
+countries: [Gabon, Senegal]
+in_region: true
+subdivisions:
+  Gabon: [Estuaire, Moyen-Ogooué, Woleu-Ntem]
+habit: "liana"
+habitat: [secondary forest]
+altitude_m: "400"
 tags: [species, generated]
 ---
 # *Leptoderris fasciculata* (Benth.) Dunn

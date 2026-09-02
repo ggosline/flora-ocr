@@ -7,6 +7,13 @@ family: Scrophulariaceae
 vol: 48
 pages: 141-141
 source: sources/Scrophulariaceae_vol48_liteparse
+countries: [Cameroon, Cote d'Ivoire, Democratic Republic of the Congo, Equatorial Guinea, Gabon, Ghana, Liberia, Nigeria, Sierra Leone, Togo]
+in_region: true
+subdivisions:
+  Gabon: [Ngounié, Ogooué-Ivindo]
+habit: "herb"
+habitat: [secondary forest, evergreen forest]
+altitude_m: "400–500"
 tags: [species, generated]
 ---
 # *Torenia dinklagei* Engl. Planche 47, 55(C–D)
@@ -17,21 +24,15 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Herbe annuelle ou pérenne ; tige prostrée à ascendante, à ramifications nombreuses (para clades), 19–45 cm de longueur, glabre. Feuille : pétiole atteignant 3–7 mm ; limbe ovale à orbiculaire , 9–12 × 7–10 mm, acuminé au sommet. Inflorescence : chaque nœud flori fère porte une fleur opposée à une feuille bractéale avec un bouton rudimentaire. Fleur : pédicelle jusqu’à 12 mm ; calice 6 mm de longueur, lobes 1 mm de longueur ; corolle blanche à rose avec des taches bleu violacé, tube 5 mm de longueur, lèvre supérieure de la corolle entière, 3 mm de longueur, lèvre inférieure à taches bleues triangulaires vers le bord des 3 lobes, 4 mm de longueur ; filets des étamines antérieures (abaxiales) 2–3 mm , genouillés, formant des appendices claviformes couverts de poils glanduleux et de papilles, filets des étamines postérieures (adaxiales) 1 mm ; ovaire 1–1,5 mm de longueur ; style 4 mm. Fruit ovoïde, 7 mm de longueur, inclus dans le calice.
+Annual or perennial herb; stem prostrate to ascending, with numerous branches (paracladodes), 19–45 cm in length, glabrous. Leaf: petiole reaching 3–7 mm; blade ovate to orbicular, 9–12 × 7–10 mm, acuminate at the apex. Inflorescence: each floriferous node bears a flower opposite a bracteate leaf with a rudimentary bud. Flower: pedicel up to 12 mm; calyx 6 mm in length, lobes 1 mm in length; corolla white to pink with blue-violet spots, tube 5 mm in length, upper lip of corolla entire, 3 mm in length, lower lip with triangular blue spots towards the edge of the 3 lobes, 4 mm in length; filaments of the anterior (abaxial) stamens 2–3 mm, geniculate, forming claviform appendages covered with glandular hairs and papillae, filaments of the posterior (adaxial) stamens 1 mm; ovary 1–1.5 mm in length; style 4 mm. Fruit ovoid, 7 mm in length, included within the calyx.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Sierra Leone, Liberia, Côte d'Ivoire, Ghana, Togo, Nigéria, Guinée équatoriale (Bioko), Cameroun, Gabon et République démocratique du Congo ; au Gabon, connue de la Ngounié et l’Ogooué-Ivindo
+Sierra Leone, Liberia, Côte d'Ivoire, Ghana, Togo, Nigeria, Equatorial Guinea (Bioko), Cameroon, Gabon and Democratic Republic of the Congo; in Gabon, known from Ngounié and Ogooué-Ivindo
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-endroits secondarisés, bord des routes et des chemins en forêt ombrophile, inselbergs granitiques en forêt ; au Gabon, à 400–500 m d’altitude, en République démocratique du Congo, jusqu’à 1000 m. B : Fischer (1992, 1995, 1999), Fischer et al. (2013), Hepper (1963). ibliographie
+secondarized places, edges of roads and forest paths in rainforest, granitic inselbergs in forest; in Gabon, at 400–500 m altitude, in the Democratic Republic of the Congo, up to 1000 m. B: Fischer (1992, 1995, 1999), Fischer et al. (2013), Hepper (1963). Bibliography
 
 ## Notes
 

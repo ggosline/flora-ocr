@@ -4,10 +4,8 @@ name: Aframomum limbatum
 authority: (Oliv. et Hanb.) K. Schum.
 genus: Aframomum
 family: Zingiberaceae
-countries: [Equatorial Guinea, Gabon]
-in_region: true
-habit: rhizomatous herb
 treatments: [{vol: 9, pages: "39–40", source: sources/Zingiberaceae_vol9_paddle}]
+habit: "herb"
 tags: [species]
 ---
 # *Aframomum limbatum* (Oliv. et Hanb.) K. Schum.

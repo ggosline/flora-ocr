@@ -7,6 +7,12 @@ family: Dracaenaceae
 vol: 54
 pages: 19-21
 source: sources/Dracaenaceae_vol54_liteparse
+countries: [Angola, Benin, Cameroon, Cote d'Ivoire, Democratic Republic of the Congo, Equatorial Guinea, Gabon, Ghana, Guinea, Liberia, Nigeria, Republic of the Congo, Sao Tome and Principe, Sierra Leone, Togo]
+in_region: true
+subdivisions:
+  Gabon: [Estuaire, Moyen-Ogooué, Nyanga, Ogooué-Ivindo, Ogooué-Maritime, Woleu-Ntem]
+habit: "tree"
+altitude_m: "0–600"
 tags: [species, generated]
 ---
 # *Dracaena arborea* (Willd.) Link Planche 3

@@ -65,7 +65,7 @@ Lecomte 2, Fernan Vaz (stér.).
 
 ![Diospyros cinnabarin](../sources/Ebenaceae_vol18_paddle/figures/fig_004_p0053.png)
 
-*PL. 4. — Diospyros cinnabarin (Gürke) F. White : 1, feuille (face inf.) × 2/3; 2, fragment de feuille (face inf.) × 6; 3, inflor. ♂ × 1; 4 et 5, bouton fl. et fl. ♂ × 3; 6 et 7, andr. et ét. × 4; 8, bouton fl. ♀ × 3; 9, gyn. × 4; 10, fruit × 2/3. — Diospyros gracilescens Gürke : 11, feuille (face inf.) × 2/3; 12, fragment de feuille (face inf.) × 6; 13, inflor. ♂ × 1; 14, fl. ♂ × 3; 15 et 16, andr. et ét. × 4; 17 et 18, gyn. et staminode × 4; 19, fruit × 2/3. (1-2 et 3 : Zenker 2433 et 3360; 4, 6-7 : Éndengle 2046; 5 et 8-10 : Zenker s. n. et 3466; 11-16 : Mildbraed 5765; 17-18 : d'après Kennedy 2551, Nigeria; 19 : Claire 2673).*
+*PL. 4. — Diospyros cinnabarin (Gürke) F. White : 1, leaf (lower surface) × 2/3; 2, leaf fragment (lower surface) × 6; 3, ♂ inflorescence × 1; 4 and 5, flower bud and ♂ flower × 3; 6 and 7, androecium and stamen × 4; 8, ♀ flower bud × 3; 9, gynoecium × 4; 10, fruit × 2/3. — Diospyros gracilescens Gürke : 11, leaf (lower surface) × 2/3; 12, leaf fragment (lower surface) × 6; 13, ♂ inflorescence × 1; 14, ♂ flower × 3; 15 and 16, androecium and stamen × 4; 17 and 18, gynoecium and staminode × 4; 19, fruit × 2/3. (1-2 and 3 : Zenker 2433 and 3360; 4, 6-7 : Éndengle 2046; 5 and 8-10 : Zenker s. n. and 3466; 11-16 : Mildbraed 5765; 17-18 : after Kennedy 2551, Nigeria; 19 : Claire 2673).*
 
 ## Notes
 

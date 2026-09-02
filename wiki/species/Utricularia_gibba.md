@@ -7,6 +7,11 @@ family: Lentibulariaceae
 vol: 54
 pages: 107-111
 source: sources/Lentibulariaceae_vol54_liteparse
+countries: [Gabon, Madagascar, Senegal]
+in_region: true
+subdivisions:
+  Gabon: [Estuaire, Haut-Ogooué, Ngounié, Ogooué-Lolo, Ogooué-Maritime]
+habit: "herb"
 tags: [species, generated]
 ---
 # *Utricularia gibba* L. Planche 37, Figure 12(A, B)
@@ -17,27 +22,21 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Herbe aquatique ou subaquatique ; ordinairement ± 10 stolons, fasciculés à la base de la hampe florale, filiformes, cylindriques, atteignant 20 cm ou plus de longueur, parfois légère ment renflés et atteignant 1 mm d’épaisseur ; rhizoïdes peu nombreux à la base de la hampe florale, souvent absents, filiformes. Feuilles nombreuses, alternes sur les stolons, filiformes, atteignant 20 mm de longueur, glabres, simples ou bifurqués pseudodichotomiquement dès leur base ou presque, chaque division parfois à nouveau 1 à 3 fois bifurquée ou à divisions ultimes capillaires . Flotteurs renflés absents . Utricules nombreux, occupant la place d’une des deux branches d’une bifurcation foliaire, stipités, ovoïdes, 1–1,5 mm de longueur ; orifice latéral, à lèvre supérieure pourvue de 2 poils longs ordinairement abondam ment ramifiés, à lèvre inférieure pourvue de quelques poils plus courts. Inflorescence dressée, 2–35 cm de longueur, (1 à )2( à 6)-flore, solitaire ou souvent plusieurs inflorescences naissant successivement du fascicule de stolons ; pédoncule droit, lisse, glabre ; bractées basifixes, semi-orbiculaires, semi-amplexicaules, ± 1 mm de longueur. Fleur : bractéoles absentes ; pédicelle dressé, filiforme, (2–)6–12(–30) mm ; calice à lobes orbiculaires à largement ovales, subégaux, 1–3 mm de longueur ; corolle 8–20 mm de longueur, jaune, souvent à nervures brunes ou rougeâtres , lèvre supérieure orbiculaire, d’ordinaire superficiellement et obscuré ment 3-lobée au sommet, 2–3 fois aussi longue que le lobe supérieur du calice et 5–10 mm de largeur, lèvre inférieure orbiculaire, ordinairement entière, rarement émarginée au sommet, ordinairement plus courte et plus étroite que la lèvre supérieure, palais très saillant et pourvu de 2 bosses, éperon conique à étroitement cylindrique, plus court à presque 2 fois aussi long que la lèvre inférieure, à sommet portant ordinairement quelques glandes courtement stipitées. Fruit globuleux, 2–4 mm de diamètre, déhiscent par 2 valves latérales, à graines assez peu nombreuses, ± 20 à 40, imbriquées sur le placenta lisse. Graine lenticulaire, avec une large aile irrégulière, 1–1,6 mm de diamètre au total , à face externe lisse à verruqueuse ; hile saillant ; testa à cellules petites, irrégulières, indistinctes.
+Aquatic or subaquatic herb; ordinarily ± 10 stolons, fasciculate at the base of the flowering scape, filiform, cylindrical, reaching 20 cm or more in length, sometimes slightly swollen and reaching 1 mm in thickness; rhizoids few at the base of the flowering scape, often absent, filiform. Leaves numerous, alternate on the stolons, filiform, reaching 20 mm in length, glabrous, simple or pseudodichotomously bifurcate from their base or nearly so, each division sometimes again 1 to 3 times bifurcate or with ultimate divisions capillary. Floating bladders absent. Utricles numerous, occupying the place of one of the two branches of a leaf bifurcation, stipitate, ovoid, 1–1.5 mm in length; lateral orifice, with upper lip bearing 2 long hairs ordinarily abundantly branched, with lower lip bearing some shorter hairs. Inflorescence erect, 2–35 cm in length, (1 to )2( to 6)-flowered, solitary or often several inflorescences arising successively from the fascicle of stolons; peduncle straight, smooth, glabrous; bracts basifixed, semi-orbicular, semi-amplexicaul, ± 1 mm in length. Flower: bracteoles absent; pedicel erect, filiform, (2–)6–12(–30) mm; calyx with orbicular to broadly ovate lobes, subequal, 1–3 mm in length; corolla 8–20 mm in length, yellow, often with brown or reddish veins, upper lip orbicular, usually superficially and obscurely 3-lobed at the apex, 2–3 times as long as the upper calyx lobe and 5–10 mm in width, lower lip orbicular, usually entire, rarely emarginate at the apex, usually shorter and narrower than the upper lip, palate very prominent and bearing 2 bosses, spur conic to narrowly cylindrical, shorter to almost 2 times as long as the lower lip, apex ordinarily bearing some shortly stipitate glands. Fruit globulous, 2–4 mm in diameter, dehiscent by 2 lateral valves, with rather few seeds, ± 20 to 40, imbricate on the smooth placenta. Seed lenticular, with a broad irregular wing, 1–1.6 mm in diameter overall, with external surface smooth to verruculose; hilum prominent; testa with small, irregular, indistinct cells.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Espèce pantropicale de l’Afrique du Nord et de l’Afrique tropicale (du Sénégal au Botswana) jusqu’en Afrique du Sud, à Madagascar, en Asie tropicale, en Australie et en Nouvelle-Calédonie ; en Amérique, du Canada à l’Argentine ; au Gabon, observé dans l’Estuaire, le Haut-Ogooué, la Ngounié, l’Ogooué-Lolo et l’Ogooué-Maritime
+Pantropical species from North Africa and tropical Africa (from Senegal to Botswana) through South Africa, Madagascar, tropical Asia, Australia and New Caledonia; in America, from Canada to Argentina; in Gabon, observed in Estuaire, Haut-Ogooué, Ngounié, Ogooué-Lolo and Ogooué-Maritime
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Marshy savannas on Kalahari sands or in liquid muds in ponds and marshes; in Gabon, 30-400 m, in West and East Africa, mainly between 0 and 2500 m. B: Taylor (1964, 1972, 1989). Bibliography
 
-Savanes marécageuses sur sables du Kalahari ou sur les vases liquides dans les étangs et les marais ; au Gabon, à 30-400 m, en Afrique de l’Ouest et de l’Est, surtout entre 0 et 2500 m. B : Taylor (1964, 1972, 1989). i B liographie
+T.S. Jones 385; 8, 14: Léonard 434; 12, 15: Léonard 970). Drawing by P. Taylor, Royal Botanic Gardens, Kew (©), reproduced with permission from Taylor (1989).
 
-T.S.Jones 385 ; 8, 14 : Léonard 434 ; 12, 15 : Léonard 970 ). Dessin par P. Taylor, Royal Botanic Gardens, Kew (©), reproduit avec permission à partir de Taylor (1989).
+Botanic Gardens, Kew (©), reproduced with permission from Taylor (1964).
 
-Botanic Gardens, Kew (©), reproduit avec permission à partir de Taylor (1964).
-
-A B C D E Mayumba) : D-E . (Photos A-C par A. Fleischmann © ; D-E, par J.P. Vande weghe ©).
+A B C D E Mayumba): D-E. (Photos A-C by A. Fleischmann ©; D-E, by J.P. Vande weghe ©).
 
 ## Notes
 

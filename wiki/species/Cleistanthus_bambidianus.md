@@ -7,6 +7,12 @@ family: Phyllanthaceae
 vol: 43
 pages: 25-25
 source: sources/Phyllanthaceae_vol43_liteparse
+countries: [Gabon]
+in_region: true
+subdivisions:
+  Gabon: [Ogooué-Ivindo, Ogooué-Lolo]
+habit: "tree"
+altitude_m: "200–500"
 tags: [species, generated]
 ---
 # *Cleistanthus bambidianus* Breteler Planche 5

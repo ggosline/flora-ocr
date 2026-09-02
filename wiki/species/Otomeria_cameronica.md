@@ -7,6 +7,9 @@ family: Rubiaceae
 vol: 12
 pages: 116-118
 source: sources/Rubiaceae_vol12_paddle
+countries: [Guinea, Sierra Leone]
+in_region: false
+habit: "herb"
 tags: [species, generated]
 ---
 # *Otomeria cameronica* (Brem.) Hepper

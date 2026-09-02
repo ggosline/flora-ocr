@@ -7,6 +7,7 @@ family: Vitaceae
 vol: 14
 pages: 74-76
 source: sources/Vitaceae_vol14_paddle
+habit: "herb"
 tags: [species, generated]
 ---
 # *Ampelocissus cavicaulis* (Bak.) Planchon
@@ -61,7 +62,7 @@ Walker : 2, Mission catholique de Lamaréné (fl. mars); s. n., Saint-Martin (fl
 
 ![Ampelocissus cavicaulis](../sources/Vitaceae_vol14_paddle/figures/fig_006_p0073.png)
 
-*PL. I. — Ampelocissus cavicaulis (Bak.) Planchon : 1, aspect général, × 1; 2, une feuille entière, × 1; 3, détail du bord de la feuille, face inférieure, × 2; 4, détail d'une dent de la marge; 5, stipule, × 6; 6, bractée de l'inflorescence, × 6; 7, fleur entière, × 10; 8, pétale, face interne, × 10; 9, étamine, face ventrale, × 15; 10, fruit, × 2; 11, graine, à gauche face ventrale, à droite face dorsale, × 3; 12, différents types de poils.*
+*PL. I. — Ampelocissus cavicaulis (Bak.) Planchon : 1, general appearance, × 1; 2, a whole leaf, × 1; 3, detail of the leaf margin, lower surface, × 2; 4, detail of a tooth of the margin; 5, stipule, × 6; 6, bract of the inflorescence, × 6; 7, whole flower, × 10; 8, petal, internal surface, × 10; 9, stamen, ventral surface, × 15; 10, fruit, × 2; 11, seed, left ventral surface, right dorsal surface, × 3; 12, different types of hairs.*
 
 ## Notes
 

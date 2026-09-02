@@ -7,6 +7,12 @@ family: Cyperaceae
 vol: 44
 pages: 191-192
 source: sources/Cyperaceae_vol44_liteparse
+countries: [Gabon, Madagascar]
+in_region: true
+subdivisions:
+  Gabon: [Estuaire, Haut-Ogooué, Moyen-Ogooué, Ngounié, Nyanga, Ogooué-Ivindo, Ogooué-Maritime]
+habit: "herb"
+altitude_m: "0–600"
 tags: [species, generated]
 ---
 # *Rhynchospora candida* (Nees) Boeckeler Planche 119

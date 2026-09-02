@@ -7,6 +7,11 @@ family: Commelinaceae
 vol: 55
 pages: 14-15
 source: sources/Commelinaceae_vol55_liteparse
+countries: [Cameroon, Central African Republic, Democratic Republic of the Congo, Equatorial Guinea, Gabon, Nigeria, Republic of the Congo]
+in_region: true
+subdivisions:
+  Gabon: [Haut-Ogooué, Ngounié, Ogooué-Ivindo]
+altitude_m: "750"
 tags: [species, generated]
 ---
 # *Amischotolype tenuis* (C.B.Clarke) R.S.Rao

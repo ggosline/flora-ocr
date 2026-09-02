@@ -7,6 +7,12 @@ family: Passifloraceae
 vol: 46
 pages: 67-69
 source: sources/Passifloraceae_vol46_liteparse
+countries: [Cameroon, Democratic Republic of the Congo, Equatorial Guinea, Gabon, Nigeria, Republic of the Congo]
+in_region: true
+subdivisions:
+  Gabon: [Estuaire, Nyanga]
+habit: "herb"
+altitude_m: "900"
 tags: [species, generated]
 ---
 # *Adenia cynanchifolia* (Benth.) Harms Planche 25.2, 27

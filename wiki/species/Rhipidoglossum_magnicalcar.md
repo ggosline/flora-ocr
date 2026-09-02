@@ -7,6 +7,9 @@ family: Orchidaceae
 vol: 37
 pages: 217-217
 source: sources/Orchidaceae_vol37_paddle
+countries: [Gabon]
+in_region: true
+habitat: [evergreen forest]
 tags: [species, generated]
 ---
 # *Rhipidoglossum magnicalcar* Szlach. & Olsz.
@@ -35,7 +38,7 @@ Moungazi 230, Bélinga, P!.
 
 ![Rhipidoglossum magnicalcar](../sources/Orchidaceae_vol37_paddle/figures/fig_106_p0218.png)
 
-*PL. 212. – Rhipidoglossum magnicalcar Szlach. & Olsz. : A, fleur ; B, labelle et éperon ; C, labelle ; D, sépale dorsal ; E, pétale ; F, sépale latéral ; G, feuille (A-G, Moungazi 230, P).*
+*PL. 212. – Rhipidoglossum magnicalcar Szlach. & Olsz. : A, flower ; B, labellum and spur ; C, labellum ; D, dorsal sepal ; E, petal ; F, lateral sepal ; G, leaf (A-G, Moungazi 230, P).*
 
 ## Notes
 

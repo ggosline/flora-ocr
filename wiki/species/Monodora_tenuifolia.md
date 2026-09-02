@@ -7,6 +7,9 @@ family: Annonaceae
 vol: 16
 pages: 0-0
 source: sources/Annonaceae_vol16_mineru
+countries: [Angola, Equatorial Guinea, Gabon, Guinea, Sierra Leone, Uganda]
+in_region: true
+habit: "tree"
 tags: [species, generated]
 ---
 # *Monodora tenuifolia* Bentham

@@ -7,6 +7,12 @@ family: Leguminosae
 vol: 49
 pages: 313-313
 source: sources/Millettiaspeciesfabaceae_vol49_liteparse
+countries: [Angola, Gabon, Senegal]
+in_region: true
+subdivisions:
+  Gabon: [Estuaire, Ogooué-Maritime]
+habit: "shrub"
+altitude_m: "1–100"
 tags: [species, generated]
 ---
 # *Ormocarpum verrucosum* P.Beauv. var. verrucosum

@@ -7,6 +7,10 @@ family: Begoniaceae
 vol: 39
 pages: 63-63
 source: sources/Begoniaceae_vol39_liteparse
+countries: [Gabon]
+in_region: true
+habitat: [secondary forest, primary forest, rocky ground]
+altitude_m: "250–700"
 tags: [species, generated]
 ---
 # *Begonia scutulum* Hook.f. Planche 29

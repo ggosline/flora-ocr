@@ -7,6 +7,12 @@ family: Leguminosae
 vol: 49
 pages: 197-197
 source: sources/Millettiaspeciesfabaceae_vol49_liteparse
+countries: [Angola, Cameroon, Democratic Republic of the Congo, Gabon, Republic of the Congo]
+in_region: true
+subdivisions:
+  Gabon: [Nyanga, Woleu-Ntem]
+habit: "tree"
+altitude_m: "40–600"
 tags: [species, generated]
 ---
 # *Erythrina droogmansiana* De Wild. & T.Durand Planche 64

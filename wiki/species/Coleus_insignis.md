@@ -6,6 +6,12 @@ genus: Coleus
 vol: 58
 pages: 56-58
 source: sources/Labiataeulmaceaeverbenaceae_vol58_liteparse
+countries: [Cameroon, Central African Republic, Equatorial Guinea, Gabon]
+in_region: true
+subdivisions:
+  Gabon: [Woleu-Ntem]
+habit: "shrub"
+altitude_m: "600"
 tags: [species, generated]
 ---
 # *Coleus insignis* (Hook.f.) A.J.Paton

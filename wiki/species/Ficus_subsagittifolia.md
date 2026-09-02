@@ -7,6 +7,10 @@ family: Moraceae
 vol: 26
 pages: 247-249
 source: sources/Moraceae_vol26_paddle
+countries: [Cameroon, Gabon]
+in_region: true
+habit: "tree"
+habitat: [evergreen forest]
 tags: [species, generated]
 ---
 # *Ficus subsagittifolia* Mildbraed ex C.C. Berg
@@ -41,7 +45,7 @@ Chevalier 26985, riv. Bokoué (fig., oct.). Hijman & Weerdenburg 422, 437, 10 km
 
 ![Ficus subsagittifolia](../sources/Moraceae_vol26_paddle/figures/fig_076_p0246.png)
 
-*PL. 75. - Ficus subsagittifolia Mildbr. ex C.C. Berg: 1, rameau avec feuilles et figues × 1/2; 2, fleur staminée et étamine; 3, fleur à graine (Bos 4108, Cameroun). (Repris d'Adansonia, sér. 2, 20 (3): 269, 1980).*
+*PL. 75. - Ficus subsagittifolia Mildbr. ex C.C. Berg: 1, branch with leaves and figs × 1/2; 2, staminate flower and stamen; 3, seed-bearing flower (Bos 4108, Cameroon). (Reprinted from Adansonia, ser. 2, 20 (3): 269, 1980).*
 
 ## Notes
 

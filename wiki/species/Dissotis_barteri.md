@@ -7,6 +7,10 @@ family: Melastomataceae
 vol: 25
 pages: 26-27
 source: sources/Melastomataceae_vol25_paddle
+countries: [Gabon, Sao Tome and Principe]
+in_region: true
+habit: "shrub"
+habitat: [rocky ground]
 tags: [species, generated]
 ---
 # *Dissotis barteri* Hooker f.
@@ -41,7 +45,7 @@ Hallé N. & Villiers J.-F. 4952, pente éclairée du rocher Fané, Efout E Médo
 
 ![Dissotis barteri](../sources/Melastomataceae_vol25_paddle/figures/fig_007_p0025.png)
 
-*PL. 7. — Dissotis barteri Hook. f. : 1, sommité fleurie × 2/3; 2 & 3, appendices d'étamines externe et interne × 2 (Halle N. & Villiers J.-F. 4952).*
+*PL. 7. — Dissotis barteri Hook. f. : 1, flowering apex × 2/3; 2 & 3, appendages of external and internal stamens × 2 (Halle N. & Villiers J.-F. 4952).*
 
 ## Notes
 

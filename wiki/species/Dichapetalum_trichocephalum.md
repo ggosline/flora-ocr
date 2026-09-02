@@ -7,6 +7,8 @@ family: Dichapetalaceae
 vol: 32
 pages: 183-185
 source: sources/Dichapetalaceae_vol32_paddle
+countries: [Gabon]
+in_region: true
 tags: [species, generated]
 ---
 # *Dichapetalum trichocephalum* Breteler
@@ -59,7 +61,7 @@ Le Testu 8779, type (fl., Avril).
 
 ![Dichapetalum trichocephalum](../sources/Dichapetalaceae_vol32_paddle/figures/fig_055_p0184.png)
 
-*PL. 54 – Dichapetalum trichocephalum Breteler : 1, rameau florifère × 0,5 ; 2, feuille, face inférieure × 0,5 ; 3, stipule, face interne × 2 ; 4, fleur × 4 ; 5, fleur, détail × 4 ; 6, 7, anthères × 15 ; 8, staminodes, vue externe × 20 ; 9, pistil × 7 (1-9, Le Testu 8779). – Repris de MLW 82 (8) : 62 (1982).*
+*PL. 54 – Dichapetalum trichocephalum Breteler : 1, flowering branch × 0,5 ; 2, leaf, lower surface × 0,5 ; 3, stipule, internal view × 2 ; 4, flower × 4 ; 5, flower, detail × 4 ; 6, 7, anthers × 15 ; 8, staminodes, external view × 20 ; 9, pistil × 7 (1-9, Le Testu 8779). – Taken from MLW 82 (8) : 62 (1982).*
 
 ## Notes
 

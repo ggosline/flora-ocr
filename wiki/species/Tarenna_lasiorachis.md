@@ -7,6 +7,9 @@ family: Rubiaceae
 vol: 17
 pages: 112-114
 source: sources/Rubiaceae_vol17_paddle
+countries: [Cameroon, Gabon]
+in_region: true
+habit: "shrub"
 tags: [species, generated]
 ---
 # *Tarenna lasiorachis* (K. Schum. et K. Krause) Bremek.
@@ -17,17 +20,13 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 = Pavetta lasiorachis K. Schum. et K. Krause, Engl. Bot. Jahrb. 39 : 550 (1907).
 
-Arbuste de 1 à 4 m de hauteur. Cette espèce, très voisine de la précédente, en diffère par ses stipules luisantes un peu
+Shrub 1 to 4 m tall. This species, very close to the preceding one, differs from it by its glossy stipules somewhat larger, 4–7 mm long and somewhat more distinctly inflated; by its internodes with somewhat denser appressed pubescence. The leaf blades are brownish to black when dry. The midvein is finely pubescent on the upper surface; the lower surface bears more distinct pubescence. 7–13 pairs of secondary veins somewhat more obliquely ascending.
 
-plus grandes, longues d'env. 4-7 mm et bombées un peu plus nettement; par ses entrenœuds à pubescence apprimée un peu plus dense. Les limbes sont brunâtres à noirs à sec. La nervure médiane est finement pubescente à la face supérieure; la face inférieure porte une pubescence plus distincte. 7-13 paires de nervures secondaires un peu plus obliquement ascendantes.
+Inflorescences and flowers similar to those of T. conferta but the calyx lobes are often longer, reaching 2.5 mm. 5–6 ovules per locule.
 
-Inflorescences et fleurs semblables à celles de T. conferta mais les lobes du calice sont souvent plus longs atteignant 2,5 mm. 5-6 ovules par loge.
-
-Fruits blancs de 7-8 mm de diam., à limbe calycinal cadue, un peu pubescents, brunâtres à sec. Jusqu'à 12 graines par fruit.
+Fruits white, 7–8 mm diam., with caducous calycinal limb, somewhat pubescent, brownish when dry. Up to 12 seeds per fruit.
 
 ## Type
 
@@ -35,9 +34,7 @@ Zenker 2259 (P!) et 3017 (P!), Cameroun, région de Bipindi
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Cameroun, Gabon et Congo (J. Claessens 310).
+Cameroon, Gabon and Congo (J. Claessens 310).
 
 ## Specimens examined
 

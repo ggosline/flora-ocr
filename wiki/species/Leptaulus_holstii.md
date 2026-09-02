@@ -7,6 +7,9 @@ family: Icacinaceae
 vol: 20
 pages: 64-66
 source: sources/Icacinaceae_vol20_paddle
+countries: [Cameroon, Tanzania]
+in_region: true
+habit: "shrub"
 tags: [species, generated]
 ---
 # *Leptaulus holstii* (Engler) Engler
@@ -45,7 +48,7 @@ This species is found in ombrophilous forests or in forest galleries from Camero
 
 ![Leptaulus holstii](../sources/Icacinaceae_vol20_paddle/figures/fig_014_p0065.png)
 
-*PL. 14. — Leptaeus daphnoides Benth. : 1, fleur × 3,5; 1', coupe de la fleur × 3,5; 2, sépale × 11; 3, corolle face int. × 5; 4, sommet d'un pétale × 14; 5, 5', ovaire × 4; 6, fruit × 2,5. — L. zenkeri Engl. : 7, feuilles et fleurs × 2/3; 8, 8', fleur × 4,7; 9, sépale × 15; 10, sommet d'un pétale × 2; 11, 11', étamine × 11; 12, ovaire. — L. holstii (Engl.) Engl. : 13, 13', fleur × 6,6; 14, diagramme floral; 15, sépale × 7; 16, 16', étamine × 15; 17, ovaire × 10. (1-5', Le Testu 5081; 6, Le Testu 7287; 7-12, Letouzey 1988; 13-17, Breteler 2647).*
+*PL. 14. — Leptaeus daphnoides Benth. : 1, flower × 3,5; 1', section of the flower × 3,5; 2, sepal × 11; 3, corolla internal face × 5; 4, apex of a petal × 14; 5, 5', ovary × 4; 6, fruit × 2,5. — L. zenkeri Engl. : 7, leaves and flowers × 2/3; 8, 8', flower × 4,7; 9, sepal × 15; 10, apex of a petal × 2; 11, 11', stamen × 11; 12, ovary. — L. holstii (Engl.) Engl. : 13, 13', flower × 6,6; 14, floral diagram; 15, sepal × 7; 16, 16', stamen × 15; 17, ovary × 10. (1-5', Le Testu 5081; 6, Le Testu 7287; 7-12, Letouzey 1988; 13-17, Breteler 2647).*
 
 ## Notes
 

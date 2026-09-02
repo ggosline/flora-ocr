@@ -7,6 +7,10 @@ family: Begoniaceae
 vol: 39
 pages: 42-45
 source: sources/Begoniaceae_vol39_liteparse
+countries: [Cameroon, Equatorial Guinea, Gabon]
+in_region: true
+habitat: [secondary forest]
+altitude_m: "50–600"
 tags: [species, generated]
 ---
 # *Begonia anisosepala* Hook.f.

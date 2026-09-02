@@ -7,6 +7,12 @@ family: Meliaceae
 vol: 47
 pages: 35-37
 source: sources/Meliaceae_vol47_liteparse
+countries: [Cameroon, Democratic Republic of the Congo, Equatorial Guinea, Gabon, Nigeria, Republic of the Congo]
+in_region: true
+subdivisions:
+  Gabon: [Estuaire, Moyen-Ogooué, Ngounié, Ogooué-Ivindo, Ogooué-Maritime, Woleu-Ntem]
+habitat: [secondary forest, evergreen forest]
+altitude_m: "820"
 tags: [species, generated]
 ---
 # *Heckeldora staudtii* (Harms) Staner Planche 8(A–D)

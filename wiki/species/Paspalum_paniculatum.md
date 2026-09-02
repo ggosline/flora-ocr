@@ -7,6 +7,7 @@ family: Gramineae
 vol: 05
 pages: 44-45
 source: sources/Gramineae_vol05_paddle
+habit: "herb"
 tags: [species, generated]
 ---
 # *Paspalum paniculatum* L.
@@ -38,7 +39,7 @@ KNOWN MATERIAL FROM GABON Chevalier, 4399, Libreville. Koechlin: 4475, Tchibanga
 
 ![Paspalum paniculatum](../sources/Gramineae_vol05_paddle/figures/fig_007_p0043.png)
 
-*PL. VI. — Paspalum paniculatum L. (A. Chev. 14215) : 1, chaume, feuilles et inflorescence; 2, détail d'un fragment de racème; 3, épillet, vu du côté de la glume supérieure (longueur de l'épillet : 1,5 mm); 4, épillet, vu par la face opposée. — P. vaginatum Sw. (Griffon du Bellay, s. n.) : 5, rhizome; 6, chaume, feuilles et inflorescence; 7, détail d'un fragment de racème; 8, épillet, vu du côté de la glume supérieure, long de 3,5 mm; 9, épillet, vu par la face opposée.*
+*PL. VI. — Paspalum paniculatum L. (A. Chev. 14215) : 1, culm, leaves and inflorescence; 2, detail of a raceme fragment; 3, spikelet, viewed from the side of the upper glume (spikelet length: 1.5 mm); 4, spikelet, viewed from the opposite face. — P. vaginatum Sw. (Griffon du Bellay, s. n.) : 5, rhizome; 6, culm, leaves and inflorescence; 7, detail of a raceme fragment; 8, spikelet, viewed from the side of the upper glume, 3.5 mm long; 9, spikelet, viewed from the opposite face.*
 
 ## Notes
 

@@ -7,6 +7,7 @@ family: Rubiaceae
 vol: 17
 pages: 278-280
 source: sources/Rubiaceae_vol17_paddle
+habit: "shrub"
 tags: [species, generated]
 ---
 # *Neorosea pellegrini* N. Hallé, sp. nov.

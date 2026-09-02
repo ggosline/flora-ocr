@@ -7,6 +7,8 @@ family: Acanthaceae
 vol: 13
 pages: 96-98
 source: sources/Acanthaceae_vol13_paddle
+countries: [Angola, Cameroon, Gabon, Nigeria, Togo]
+in_region: true
 tags: [species, generated]
 ---
 # *Brillantaisia patula* T. Anderson

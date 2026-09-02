@@ -7,6 +7,10 @@ family: Begoniaceae
 vol: 39
 pages: 26-26
 source: sources/Begoniaceae_vol39_liteparse
+countries: [Cameroon, Gabon]
+in_region: true
+habitat: [secondary forest]
+altitude_m: "350–900"
 tags: [species, generated]
 ---
 # *Begonia letouzeyi* Sosef Planche 8

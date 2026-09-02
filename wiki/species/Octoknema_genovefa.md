@@ -7,6 +7,9 @@ family: Octoknemaceae
 vol: 20
 pages: 184-186
 source: sources/Octoknemaceae_vol20_paddle
+countries: [Cameroon, Gabon]
+in_region: true
+habit: "shrub"
 tags: [species, generated]
 ---
 # *Octoknema genovefa* Villiers
@@ -47,7 +50,7 @@ De Wilde W. 1494, 30 km WNW Eséka (fr., déc.); 2814, bords du Nyong, 65 km SSW
 
 ![Octoknema genovefa](../sources/Octoknemaceae_vol20_paddle/figures/fig_041_p0185.png)
 
-*PL. 41. — Octoknema genovefa Villiers : 1, feuilles et inflorescences ♂ × 3/4; 2, base du limbe × 1,5; 3, poil étoilé; 4, détail d'un fascicule ♂ × 4; 5, bractée × 17,5; 6, 7, bouton floral ♂ × 13,5; 8, diagramme fleur ♂; 9, 9', pétale × 16; 10, étamine × 32,5; 11, pistillode × 22. (1-11, Letouzey 4074).*
+*PL. 41. — Octoknema genovefa Villiers : 1, leaves and ♂ inflorescences × 3/4; 2, base of blade × 1.5; 3, stellate hair; 4, detail of a ♂ fascicle × 4; 5, bract × 17.5; 6, 7, ♂ floral bud × 13.5; 8, diagram ♂ flower; 9, 9', petal × 16; 10, stamen × 32.5; 11, pistillode × 22. (1-11, Letouzey 4074).*
 
 ## Notes
 

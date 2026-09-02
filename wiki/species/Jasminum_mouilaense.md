@@ -7,6 +7,12 @@ family: Oleaceae
 vol: 51
 pages: 12-15
 source: sources/Oleaceae_vol51_liteparse
+countries: [Gabon]
+in_region: true
+subdivisions:
+  Gabon: [Haut-Ogooué, Ngounié]
+habitat: [secondary forest]
+altitude_m: "700"
 tags: [species, generated]
 ---
 # *Jasminum mouilaense* Breteler, spec. nov. Planche 3

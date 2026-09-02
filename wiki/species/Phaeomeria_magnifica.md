@@ -4,11 +4,9 @@ name: Phaeomeria magnifica
 authority: (Rosc.) K. Schum.
 genus: Phaeomeria
 family: Zingiberaceae
-countries: [Indonesia, Gabon]
-in_region: true
 introduced: true
-habit: rhizomatous herb
 treatments: [{vol: 9, pages: "63–64", source: sources/Zingiberaceae_vol9_paddle}]
+habit: "herb"
 tags: [species, introduced]
 ---
 # *Phaeomeria magnifica* (Rosc.) K. Schum.

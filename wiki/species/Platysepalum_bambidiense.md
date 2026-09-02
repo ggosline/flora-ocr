@@ -7,6 +7,13 @@ family: Leguminosae
 vol: 49
 pages: 319-319
 source: sources/Millettiaspeciesfabaceae_vol49_liteparse
+countries: [Gabon]
+in_region: true
+subdivisions:
+  Gabon: [Ogooué-Lolo]
+habit: "liana"
+habitat: [secondary forest]
+altitude_m: "300"
 tags: [species, generated]
 ---
 # *Platysepalum bambidiense* Maesen Planche 104

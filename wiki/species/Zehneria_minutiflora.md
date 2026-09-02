@@ -7,6 +7,12 @@ family: Cucurbitaceae
 vol: 57
 pages: 111-111
 source: sources/Cucurbitaceae_vol57_paddle
+countries: [Angola, Cameroon, Equatorial Guinea, Gabon]
+in_region: true
+subdivisions:
+  Gabon: [Estuaire]
+habit: "herb"
+altitude_m: "2400"
 tags: [species, generated]
 ---
 # *Zehneria minutiflora* (Cogn.) C.Jeffrey
@@ -17,25 +23,19 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Planche 36(1-5)
+Plate 36(1-5)
 
 Pilogyne minutiflora (Cogn.) W.J.de Wilde & Duyfjes, Blumea 55: 294 (2010).
 
-Herbe dioïque. Feuille: pétiole grêle, 4–5 cm, strié; limbe largement ovale-cordiforme, faiblement 3-lobé, de 6–8 × 5–6 cm, sinus de la base triangulaire, profond de 10 mm, lobe médian longuement acuminé au sommet, les latéraux peu découpés, aigus au sommet. Inflo-rescence: la mâle en corymbe, à axe filiforme, de 0,5–1 cm, la femelle à fleurs solitaires ou rarement en ombelle. Fleur mâle: pédicelle grêle, 1–4 mm; réceptacle courtement campanulée, long et large de ±1 mm; sépales subulés, courts; pétales elliptiques-oblongs, subaigus au sommet; étamines à filet de la même longueur que l'anthère, longue de ±1 mm; pistillode globuleux, épais de 1 mm. Fleur femelle: pédicelle grêle, 5–30 mm, glabre; ovaire fusiforme, glabrescent; style assez fin. Fruit ±fusiforme, de 10–15 × 5 mm, glabre. Graine obovoïde, de 5 × 2 × 1 mm, à marges peu distinctes.
+Dioecious herb. Leaf: petiole slender, 4–5 cm, striate; blade broadly ovate-cordate, weakly 3-lobed, 6–8 × 5–6 cm, sinus of base triangular, 10 mm deep, median lobe long-acuminate at apex, lateral ones slightly cut, acute at apex. Inflorescence: male in corymb, with filiform axis, 0.5–1 cm, female with solitary flowers or rarely in umbel. Male flower: pedicel slender, 1–4 mm; receptacle shortly campanulate, ±1 mm long and wide; sepals subulate, short; petals elliptic-oblong, subacute at apex; stamens with filament of same length as anther, ±1 mm long; pistillode globose, 1 mm thick. Female flower: pedicel slender, 5–30 mm, glabrous; ovary fusiform, glabrescent; style rather fine. Fruit ±fusiform, 10–15 × 5 mm, glabrous. Seed obovoid, 5 × 2 × 1 mm, with weakly distinct margins.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Afrique tropicale, du Cameroun, de la Guinée équatoriale (Bioko), du Gabon, de la République démocratique du Congo et de l'Angola jusqu'en Afrique du Sud et à l'est d'Éthiopie ; au Gabon : Estuaire
+Tropical Africa, from Cameroon, Equatorial Guinea (Bioko), Gabon, Democratic Republic of Congo and Angola to South Africa and east to Ethiopia; in Gabon: Estuaire
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-bord des lacs et des rivières, marécages, stations humides ; au Gabon à basse altitude, ailleurs jusqu'à 2400 m
+edges of lakes and rivers, swamps, humid stations; in Gabon at low altitude, elsewhere up to 2400 m
 
 ## Bibliography
 

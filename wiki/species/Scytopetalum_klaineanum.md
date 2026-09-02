@@ -7,6 +7,9 @@ family: Scytopetalaceae
 vol: 24
 pages: 189-193
 source: sources/Scytopetalaceae_vol24_paddle
+countries: [Angola, Cameroon]
+in_region: true
+habitat: [evergreen forest]
 tags: [species, generated]
 ---
 # *Scytopetalum klaineanum* Pierre ex Engler
@@ -17,25 +20,23 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 A. Chev., Vég. Ut. Afr. trop. fr. 9, For. Bois Gabon : 84-85 (Scytopetalum sp.) (1917); Engl., Pflanzenw. Afr. 3 (2) : 471, tab. 218 (1921); Letouzey, Adansonia, ser. 2, 1 (1) : 116, tab. 2, fig. 1-2 (1961); Walker & Sillans, Pl. ut. Gabon : 398 (1961); De Saint-Aubin, Forêt Gabon : 190, photo. (1963).
 
-— S. brevipes Pierre ex V. Tiegh., Ann. Sc. Nat., ser. 9, 1 : 343 (1905). Voir note 2 ci-après.
+— S. brevipes Pierre ex V. Tiegh., Ann. Sc. Nat., ser. 9, 1 : 343 (1905). See note 2 below.
 
-— S. latifolium V. TIEGH., l.c. : 343 (1905). Voir note 2 ci-après.
+— S. latifolium V. TIEGH., l.c. : 343 (1905). See note 2 below.
 
 — S. kamerunianum ENGL., Bot. Jahrb. 43 : 373 (1909).
 
-— S. klaineanum var. kamerunianum (ENGL.) R. LETOUZEY, Adansonia, ser. 2, 1 (1) : 120 (1961). Voir note 3 ci-après.
+— S. klaineanum var. kamerunianum (ENGL.) R. LETOUZEY, Adansonia, ser. 2, 1 (1) : 120 (1961). See note 3 below.
 
-Arbre atteignant 1 m de diamètre et 40 m de hauteur, et alors garni de 3-5 contreforts à profil un peu concave, s'élevant jusqu'à 2 m de hauteur et s'écartant de l'arbre jusqu'à 1,5 m sur le sol, épais de 20-30 cm, à rebord arrondi et qui, chez les arbres plus jeunes, n'apparaissent que sous forme de grosses pattes concaves. Fût droit, cylindrique élancé, 20-25 m sous branches, supportant des branches courbées formant une cime presque
+Tree reaching 1 m in diameter and 40 m in height, then furnished with 3–5 buttresses with a somewhat concave profile, rising up to 2 m in height and spreading away from the tree up to 1.5 m on the ground, 20–30 cm thick, with rounded edge and which, in younger trees, appear only in the form of large concave paws. Straight, slender cylindrical bole, 20–25 m to the branches, supporting curved branches forming an almost
 
-tabulaire à feuillage assez clairsemé. (A noter pour quelques échantillons la mention de certains collecteurs présentant cette espèce comme un petit arbre (10-20 m) et même un arbrisseau de 3-5 m portant des fleurs, sans qu'il soit précisé s'il s'agit de hauteur totale ou de hauteur sous branches; quoi qu'il en soit, des observations biologiques seraient utiles, sans que des conséquences taxonomiques puissent s'en suivre, semble-t-il.) Rhytidome gris rougeâtre marbré de blanc et moussu, orné de petites fissures longitudinales, pour des arbres de taille moyenne; chez les vieux arbres, rhytidome prenant un aspect martelé, formé de petites écailles liégeuses s'effritant sur place et laissant des dépressions brun jaunâtre; écorce tendre, compacte fibreuse, rose grisâtre; aubier blanc jaunâtre peu distinct, passant à un bois de cœur orangé clair rosé. Jeunes rameaux subcylindriques, marqués seulement de 2 côtes peu distinctes, rapidement cylindriques; massif de cataphylles intrapétiolaire, ⊥ bifide, appliqué contre le rameau; pétiole, aplati dessus, rarement plus de 2 mm. Limbe subcoriace à coriace, assez polymorphe, en général largement elliptique, 3-8 × 4-14 cm (acumen non compris), parfois peu ovale, rarement un peu obovale ou elliptique-oblong; base obtuse à arrondie et brièvement décurrente sur le pétiole; sommet obtus brusquement acuminé avec acumen variable, 3-6 × 8-15 mm, à sommet arrondi; marge entière mais ondulée; nervure médiane aplatie et large vers la base, environ 6-8 paires de nervures latérales principales, bouclées vers la marge mais irrégulières, accompagnées de nervures latérales secondaires moins importantes, toutes nervures latérales très ouvertes sur la nervure médiane, réseau de nervilles étiré ± perpendicularement à cette dernière.
+tabular crown with rather sparse foliage. (It should be noted for some specimens the mention by certain collectors of this species as a small tree (10–20 m) and even a shrub of 3–5 m bearing flowers, without it being specified whether this is total height or height to the branches; in any case, biological observations would be useful, although no taxonomic consequences seem likely to follow from them.) Rhytidome greyish-red marbled with white and mossy, adorned with small longitudinal fissures, for trees of medium size; in old trees, rhytidome taking on a hammered appearance, formed of small corky scales crumbling in place and leaving yellowish-brown depressions; tender bark, compact and fibrous, greyish-pink; sapwood whitish-yellow, only slightly distinct, passing into a light orange-pink heartwood. Young twigs subcylindrical, marked only by 2 poorly distinct ribs, quickly becoming cylindrical; mass of cataphylls intrapetiolate, ⊥ bifid, applied against the twig; petiole, flattened above, rarely more than 2 mm. Blade subcoriaceous to coriaceous, fairly polymorphous, generally broadly elliptic, 3–8 × 4–14 cm (acumen not included), sometimes slightly ovate, rarely somewhat obovate or elliptic-oblong; base obtuse to rounded and briefly decurrent on the petiole; apex obtuse, abruptly acuminate with variable acumen, 3–6 × 8–15 mm, with rounded tip; margin entire but undulate; midvein flattened and broad toward the base, approximately 6–8 pairs of principal lateral veins, looped toward the margin but irregular, accompanied by less important secondary lateral veins, all lateral veins very open on the midvein, veinlet network stretched ± perpendicularly to the latter.
 
-Racèmes terminaux et axillaires subterminaux, à axe court non anguleux, glabre, parfois subnul ou rarement jusqu'à 5 cm de longueur, garni de 1-5 fleurs; pédicelle 8-20 mm, atteignant parfois 35 mm au moment de la fructification, orné de 2 légères arêtes longitudinales, le pédicelle paraissant très souvent aplat sur échantillons secs. Calice patelliforme, env. 4 mm de diamètre, parfois entier, souvent denticulé; corolle blanche à pétales hauts de 8-10 mm; env. 50 étamines jaunes en 3-5 séries; disque papilleux; ovaire blanc subglobuleux 3-4 mm puis allongé; style long de 1,5-2 mm.
+Terminal and axillary subter­minal racemes, with short non-angled axis, glabrous, sometimes subnull or rarely up to 5 cm in length, bearing 1–5 flowers; pedicel 8–20 mm, sometimes reaching 35 mm at the time of fruiting, adorned with 2 slight longitudinal ridges, the pedicel appearing very often flattened on dry specimens. Calyx patelliform, approximately 4 mm in diameter, sometimes entire, often denticulate; corolla white with petals 8–10 mm tall; approximately 50 yellow stamens in 3–5 series; papillose disk; ovary white, subglobulous, 3–4 mm then elongate; style 1.5–2 mm long.
 
-Fruit drupacé, d'abord ovoïde-pointu, 10-15 × 20-30 mm, avec péricarpe et mésocarpe très minces, à endocarpe déhiscent au sommet, lorsque le fruit est sur le sol, par 6-9 valves (parfois début de déhiscence sur l'arbre); graine à tégument rouge brunâtre. Il semble que, dans certains cas (phénomène qui devrait être suivi sur le terrain), le mésocarpe puisse devenir — sans doute assez brusquement — plus épais mais en restant très aqueux et que le fruit prenne alors une forme plus ovoïde, arrondie au sommet, qui se retrouve in sicco. Très fréquemment, des piquêres d'insectes transforment le fruit en masse ellipsoïde ou ovoïde analogue, avec cécidies internes. — PL. 55, p. 189.
+Drupaceous fruit, at first ovoid-pointed, 10–15 × 20–30 mm, with very thin pericarp and mesocarp, with dehiscent endocarp at the apex when the fruit is on the ground, by 6–9 valves (sometimes beginning of dehiscence on the tree); seed with reddish-brown integument. It appears that, in certain cases (a phenomenon that should be followed in the field), the mesocarp may become — probably quite suddenly — thicker but remaining very aqueous and the fruit then takes on a more ovoid form, rounded at the apex, which is found in the dry state. Very frequently, insect punctures transform the fruit into an ellipsoid or ovoid mass analogous, with internal galls. — PL. 55, p. 189.
 
 ## Type
 
@@ -43,31 +44,27 @@ Klaine 446, Gabon (holo-, P!)
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+TAXONOMIC NOTES:
 
-Notes TAXONOMIQUES :
+1) Scytopetalum klaineanum Pierre ex Engl. can sometimes be confused with S. pierreanum (De Wild.) V. Tiegh. but the blade of this latter species is most often arched, clearly asymmetric at the base and with apex less clearly caudate-acuminate; the ranges of these two species are distinct from one another and only meet in the Lower Congo region; the first species also appears to be a tree of upland forests, whereas the second frequents river banks and hydromorphic forests.
 
-1) Scytopetalum klaineanum Pierre ex Engl. peut être confondue parfois avec S. pierrea-num (De Wild.) V. Tiegh. mais le limbe de cette espèce-ci est le plus souvent arqué, nettement asymétrique à la base et à sommet moins nettement caudé-acuminé; les aires de ces deux espèces sont distinctes l'une de l'autre et ne se rejoignent que dans la région du Bas-Congo; la première espèce paraît aussi être un arbre de forêts de terre ferme, alors que la seconde fréquente les bords de rivières et les forêts hydromorphes.
+2) The pathological fruits of S. brevipes Pierre ex V. Tiegh. and S. latifolium V. Tiegh. cannot justify the retention of these two taxa whose foliar characters distinctive of Scytopetalum klaineanum Pierre ex Engl. are otherwise without real value. The study of confusions between specimen numbers of KLAINE, as well as that of the arbitrary classifications of these specimens made by PIERRE and VAN TIEGHEM, also justify the placement in synonymy (cf. LETOUZEY, l.c. : 118).
 
-2) Les fruits pathologiques de S. brevipes Pierre ex V. Tiegh. et de S. latifolium V. Tiegh. ne peuvent justifier le maintien de ces deux taxons dont les caractères foliaires distinctifs de Scytopetalum klaineanum Pierre ex Engl. sont par ailleurs sans valeur réelle. L'étude des confusions entre numéros d'échantillons de KLAINE, ainsi que celle des classements arbitraires de ces échantillons effectués par PIERRE et VAN TIEGHEM, justifient également la mise en synonymie (cf. LETOUZEY, l.c. : 118).
+3) Material collected over the last 15 years now makes it possible to eliminate var. kamerunianum (Engl.) R. Let. (Adansonia, ser. 2, 1 (1) : 120, 1961), already judged formerly to be of weak value.
 
-3) Le matériel récolté au cours des 15 dernières années permet à présent de faire disparaître la var. kamerunianum (Engl.) R. Let. (Adansonia, ser. 2, 1 (1) : 120, 1961), jugée déjà autrefois de faible valeur.
+This species is localized in dense humid evergreen forest and, fairly scattered in Cameroon, appears to be locally often abundant in the Gabonese sedimentary basin; its range extends southward to Congo (Lower Kouilou) and Cabinda (Maiombe).
 
-Cette espèce se localise en forêt dense humide sempervirente et, assez dispersée au Cameroun, paraît localement souvent abondante dans le bassin sédimentaire gabonais; son aire atteint vers le Sud le Congo (Bas Kouilou) et le Cabinda (Maiombe).
+De Wilde W. & al. 1431, 40 km NW Eseka (fl., j. fr., Dec.) (K, P, YA).
 
-De Wilde W. & al. 1431, 40 km NW Eseka (fl., j. fr., déc.) (K, P, YA).
+Floret 533 (= 39255 HNC), Ejagham, 35 km W Mamfe (j. fr., Nov.) (YA).
 
-Floret 533 (= 39255 HNC), Ejagham, 35 km W Mamfe (j. fr., nov.) (YA).
+Letouzey 12844, Song Mahi, 35 km NNE Bipindi, i.e. 40 km SW Eseka (fil. and fr. on ground, CTFT wood, Jan.); 13804, between Abat and Bayib Ossing, 20 km NNW, Nguti, i.e. 40 km S Mamfe (fil. and fr. on ground, CTFT wood, June).
 
-Letouzey 12844, Song Mahi, 35 km NNE Bipindi, soit 40 km SW EӀэka (fil. et fr. à terre, bois CTFT, janv.); 13804, entre Abat et Bayib Ossing, 20 km NNW, Nguti, soit 40 km S Mamfe (fil. et fr. à terre, bois CTFT, juin).
-
-Zenker 2707, Bipindi (BR, K, P); 2919 (type de S. kamerunianum), Bipindi (fl., j. fr., mars).
+Zenker 2707, Bipindi (BR, K, P); 2919 (type of S. kamerunianum), Bipindi (fl., j. fr., Mar.).
 
 ## Uses
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Bois, mi-dur et mi-lourd, œuvrable. D'après WALKER & SILLANS (l.c. : 399), fruits très recherchés par touracos, toucans, calaos et singes
+Wood, semi-hard and semi-heavy, workable. According to WALKER & SILLANS (l.c. : 399), fruits highly sought after by touracos, toucans, hornbills and monkeys
 
 ## Vernacular names
 
@@ -103,7 +100,7 @@ Tonnelle 1463 SRF, R. Ikoy près Sindara? (stér., févr.).
 
 ![Scytopetalum klaineanum](../sources/Scytopetalaceae_vol24_paddle/figures/fig_055_p0191.png)
 
-*PL. 55. — Scytopetalum klaineanum Pierre ex Engl. : 1, rameau avec fruit × 4/9; 2, détail jeune rameau × 4/3; 3, rameau avec boutons fl. et j. fruits × 4/9; 4, bouton floral × 2; 5, fleur ouverte × 4/3; 6, coupe long. calice et gynécée × 10/3; 7, coupe transv. ovaire × 16/3; 8, fruit × 1; 9, fruit drupacé × 1; 10, graine × 4/3; 11, coupe transv. gr. × 4/3; 12, vieil endocarpe × 1; 13, fruits pathologiques × 1; 14, coupe transv. fr. patho. × 1. (1, 2, Itier 1; 3, Le Testu 8833; 4, 6-7 De Saint-Aubin 2067; 5, 13-14, Klaine 446; 8, Sita 1337, Congo; 9-11, Klaine 1324; 12, Letouzey 12844).*
+*PL. 55. — Scytopetalum klaineanum Pierre ex Engl. : 1, branch with fruit × 4/9; 2, detail young branch × 4/3; 3, branch with floral buds and y. fruits × 4/9; 4, floral bud × 2; 5, open flower × 4/3; 6, long. sect. calyx and gynoecium × 10/3; 7, transv. sect. ovary × 16/3; 8, fruit × 1; 9, drupaceous fruit × 1; 10, seed × 4/3; 11, transv. sect. seed × 4/3; 12, old endocarp × 1; 13, pathological fruits × 1; 14, transv. sect. pathol. fr. × 1. (1, 2, Itier 1; 3, Le Testu 8833; 4, 6-7 De Saint-Aubin 2067; 5, 13-14, Klaine 446; 8, Sita 1337, Congo; 9-11, Klaine 1324; 12, Letouzey 12844).*
 
 ## Notes
 

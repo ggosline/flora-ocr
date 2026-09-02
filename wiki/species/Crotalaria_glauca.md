@@ -7,6 +7,12 @@ family: Leguminosae
 vol: 49
 pages: 97-97
 source: sources/Millettiaspeciesfabaceae_vol49_liteparse
+countries: [Gabon]
+in_region: true
+subdivisions:
+  Gabon: [Haut-Ogooué, Moyen-Ogooué, Nyanga, Ogooué-Ivindo, Ogooué-Maritime]
+habit: "herb"
+altitude_m: "100–500"
 tags: [species, generated]
 ---
 # *Crotalaria glauca* Willd. Planche 29.1–8

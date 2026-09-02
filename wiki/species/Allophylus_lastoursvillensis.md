@@ -7,6 +7,8 @@ family: Sapindaceae
 vol: 23
 pages: 38-40
 source: sources/Sapindaceae_vol23_paddle
+countries: [Democratic Republic of the Congo]
+in_region: true
 tags: [species, generated]
 ---
 # *Allophylus lastoursvillensis* Pellegrin
@@ -39,7 +41,7 @@ Le Testu 7063, Lastoursville (fl., mars); 7823, eod. loc. (fl., déc.).
 
 ![Allophylus lastoursvillensis](../sources/Sapindaceae_vol23_paddle/figures/fig_005_p0039.png)
 
-*PL. 5. — Allophylus welwitschii Gilg (1-3, N. Hallé 2894; 4, 4', N. Hallé 3505) : 1, feuille et inflorescence, limbe de 10,5 cm; 2, cymule et bouton 1,5 mm; 3, pétale, face interne; 4, disque, androcée et gynécée (fl. ♀); 4', coupe du pistil. — Allophylus lastoursvillensis Pellegrin (Breteler 1493) : 5, feuille et inflorescence, limbe 15 cm; 5', coupe du pétiole, diamètre 1,8 mm; 6, cymule, bouton de 1,5 mm; 7, 7', sépales, supérieur, inférieur et latéral; 8, 8', pétale d'un bouton, faces interne, externe et profil; 9, 9', pétale, fleur ouverte, face interne et profil; 10, disque androcée et pistillode (fl. ♂). — Cymules schématisées d'Allophylus : 11, vue de profil; 12: vue de dessus; 13, diagramme floral.*
+*PL. 5. — Allophylus welwitschii Gilg (1-3, N. Hallé 2894; 4, 4', N. Hallé 3505) : 1, leaf and inflorescence, limb of 10,5 cm; 2, cymule and bud 1,5 mm; 3, petal, internal face; 4, disc, androecium and gynoecium (fl. ♀); 4', pistil section. — Allophylus lastoursvillensis Pellegrin (Breteler 1493) : 5, leaf and inflorescence, limb 15 cm; 5', petiole section, diameter 1,8 mm; 6, cymule, bud of 1,5 mm; 7, 7', sepals, upper, lower and lateral; 8, 8', petal of a bud, internal, external faces and profile; 9, 9', petal, open flower, internal face and profile; 10, disc androecium and pistillode (fl. ♂). — Schematic cymules of Allophylus : 11, lateral view; 12: view from above; 13, floral diagram.*
 
 ## Notes
 

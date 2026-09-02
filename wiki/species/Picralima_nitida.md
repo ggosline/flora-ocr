@@ -7,6 +7,11 @@ family: Apocynaceae
 vol: 59
 pages: 188-190
 source: sources/Apocynaceae_vol59_liteparse
+countries: [Angola, Gabon, Guinea, Uganda]
+in_region: true
+subdivisions:
+  Gabon: [Haut-Ogooué]
+habit: "tree"
 tags: [species, generated]
 ---
 # *Picralima nitida* (Stapf) T.Durand & H.Durand Planche 87 ; Figure 9(A, B)

@@ -5,10 +5,10 @@ authority: Gagnep.
 genus: Costus
 family: Zingiberaceae
 family_current: Costaceae
+treatments: [{vol: 9, pages: "80–82", source: sources/Zingiberaceae_vol9_paddle}]
 countries: [Cameroon, Gabon]
 in_region: true
-habit: slender rhizomatous herb
-treatments: [{vol: 9, pages: "80–82", source: sources/Zingiberaceae_vol9_paddle}]
+habit: "herb"
 tags: [species]
 ---
 # *Costus fissiligulatus* Gagnep.

@@ -7,6 +7,10 @@ family: Celastraceae
 vol: 29
 pages: 246-249
 source: sources/Celastraceae_vol29_paddle
+countries: [Angola, Cameroon, Central African Republic, Cote d'Ivoire, Democratic Republic of the Congo, Gabon, Ghana, Guinea, Liberia, Nigeria, Sierra Leone]
+in_region: true
+habit: "liana"
+habitat: [rocky ground]
 tags: [species, generated]
 ---
 # *Loeseneriella yaundina* (Loesener) Hallé ex Wilczek

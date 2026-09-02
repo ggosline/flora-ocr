@@ -7,6 +7,9 @@ family: Dichapetalaceae
 vol: 32
 pages: 206-209
 source: sources/Dichapetalaceae_vol32_paddle
+countries: [Gabon]
+in_region: true
+habit: "tree"
 tags: [species, generated]
 ---
 # *Tapura carinata* Breteler
@@ -17,23 +20,21 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+AUWP 86 (3): 53-56 (1986). TYPE: Gabon, "Bas Ogowé, shrub of understory", Pобéguin s.n. (holo-, P; iso-, WAG).
 
-AUWP 86 (3): 53-56 (1986). TYPE : Gabon, « Bas Ogowé, arbuste de sous-bois », Pобéguin s.n. (holo-, P ; iso-, WAG).
+Shrub to tree reaching a height of 20 m. Young branches with short and subappressed pubescence.
 
-Arbuste à arbre pouvant atteindre une hauteur de 20 m. Jeunes rameaux avec pubescence courte et subapprimée.
+Stipules caducous, narrow and triangular, 1-5 mm long, appressed or not against the branch; subappressed pubescence.
 
-Stipules caduques étroites et triangulaires, longues de 1-5 mm, apprimées ou non contre le rameau ; pubescence subapprimée.
+Leaves. Petiole sub- to hemicylindric, sulcate above or not, 2-5 mm long, but 4-13 mm long when fused to the inflorescence peduncle, subappressed pubescence. Blade papyraceous, obovate, 2-3 times longer than wide, 5-17 × 2-7 cm; base rounded to cordate; acumen ≤ 1.5 cm long, rounded to acute at the apex; pubescence sparse, subappressed, caducous on both sides of margin and nerves, or indumentum limited to both sides of the I nerve, subsequently glabrescent; the latter and the 5-6 main pairs of II nerves slightly prominent above and more distinctly below; glands rather small, present below only, some near the base and often somewhat also in the upper half along the margin.
 
-Feuilles. Pétiole sub à hémicylindrique, sillonné dessus ou non, long de 2-5 mm, mais long de 4-13 mm quand il est soudé au pédoncule de l'inflorescence, pubescence subapprimée. Limbe papyracé, obové, 2-3 fois plus long que large, 5-17 × 2-7 cm ; base arrondie à cordée ; acumen long de ≤ 1,5 cm arrondi à aigu à l'extrémité ; pubescence éparse subapprimée caduque sur les deux faces de la marge et des nervures ou indumentum limité aux deux faces de la nervure I, ensuite glabrescente ; celle-ci et les 5-6 paires principales de nervures II légèrement proéminentes dessus et plus nettement dessous ; glandes assez petites seulement dessous quelques-unes près de la base et souvent un peu aussi dans la moitié supérieure le long de la marge.
+Inflorescences not distinctly branched or with only a single clear branching (old inflorescences), 3-25-flowered, subappressed pubescence. Peduncle as long as the petiole and entirely fused to it. Bracts and bracteoles triangular-lanceolate, ≤ 1 mm long. Pedicel ≤ 2 mm, pubescent like the inflorescence, upper part ≤ 0.5 mm.
 
-Inflorescences non distinctement ramifiées ou avec une seule ramification nette (vieilles inflorescences), 3-25-flores, pubescence subapprimée. Pédoncule aussi long que le pétiole et entièrement soudé à lui. Bractées et bractéoles triangulaires-lancéolées, longues de ≤ 1 mm. Pédicelle ≤ 2 mm, pubescent comme l'inflorescence, partie supérieure ≤ 0,5 mm.
+Flowers. Sepals 5, free or nearly so, very different in size and shape, the outermost much smaller than the innermost; inner face concave; outer face bearing a strong central to submarginally keeled ridge; general shape subovate-elliptic to obovate, 3-4 × 1-3 mm; pubescence short on the margin, more sparse on the keel. Petals 3-4, fused to the stamens in a bilabiate tube more deeply split laterally than on the ad- and abaxial faces; tube 4 mm high, swollen at the base above the unique staminode, somewhat inclined in the apical region, exterior glabrous or only with short appressed hairs directed towards the lips; interior of tube bearing a distinct ring of stiff and suberect hairs; upper lip (= the large petal) inclined above the mouth of the tube and bicucullate, split for 1-1.5 mm, outer face with short appressed hairs, more sparse on the inner side, especially on the lobes; lower lip (= 2-3 smaller petals) ± pubescent like the upper lip, the two lateral petals generally bicucullate and split for 1 mm into unequal lobes, fourth adaxial petal present or not, narrow and triangular at the apex. Stamens, 2 fertile, 2-1 (0) sterile; fertile stamens: laterally attached to the lower lip, free part of filament 0.5-1.5 mm long, anthers broad and elliptic, ≈ 1 mm long, connective distinct and muricate; sterile stamens: free part of filaments narrow and triangular, ≈ 1 mm long, short pubescence. Basal staminode, 1 only, adaxial, trans-oblong to broad and obcordate, ≈ 0.5 × 1 mm, rather thick, glabrous. Pistil 3-merous; ovary and lower part of style glabrous; upper part inclined above the lower lip, attached to it by its hairs, and terminated by 3 lobes ≈ 0.5 mm long.
 
-Fleurs. Sépales 5, libres ou presque, fort différents de taille et de forme, les plus externes beaucoup plus petits que les plus internes ; face interne concave ; face externe munie d'une forte carène centrale à submarginale ; forme générale subovée-elliptique à obovée,  $ 3-4 \times 1-3 $ mm ; pubescence courte sur la marge, plus éparse sur la carène. Pétales 3-4, soudés aux étamines en un tube bilabié plus profondément fendu latéralement que sur les faces ad- et abaxiales ; tube haut de 4 mm, renflé à la base au-dessus de l'unique staminode, un peu incliné dans la région apicale, extérieur glabre ou seulement avec des poils apprimés courts en direction des lèvres ; intérieur du tube portant un anneau distinct de poils raides et subérigés ; lèvre supérieure (= le grand pétale) inclinée au-dessus de la bouche du tube et bicucullée, fendue sur 1-1,5 mm, face externe avec poils apprimés courts, plus épars du côté interne, surtout sur les lobes ; lèvre inférieure (= 2-3 pétales plus petits) ± pubescente comme la lèvre supérieure, les deux pétales latéraux en général bicucullés et fendus sur 1 mm en lobes inégaux, quatrième pétale adaxial présent ou non, étroit et triangulaire au sommet. Étamines, 2 fertiles, 2-1 (0) stériles ; étamines fertiles : latéralement fixées à la lèvre inférieure, partie libre du filet longue de 0,5-1,5 mm, anthères larges et elliptiques longues de ≈ 1 mm, connectif distinct et muriculé ; étamines stériles : partie libre des filets étroite et triangulaire, longue de ≈ 1 mm, pubescence courte. Staminode basal, 1 seul, adaxial, trans-oblong à large et obcordé, ≈ 0,5 × 1 mm, assez épais, glabre. Pistil 3-mère ; ovaire et partie inférieure du style glabres ; partie supérieure inclinée au-dessus de la lèvre inférieure, fixée à celle-ci par ses poils, et terminée par 3 lobes longs de ≈ 0,5 mm.
+Fruits unknown. – Pl. 62, p. 205.
 
-Fruits inconnus. – Pl. 62, p. 205.
-
-Cette espèce est très facile à reconnaître grâce à ses fleurs bilabiées et au remarquable anneau de poils à l'intérieur de son tube. L'épithete « carinata » évoque la forte carène de ses sépales.
+This species is very easy to recognize thanks to its bilabiate flowers and the remarkable ring of hairs on the interior of its tube. The epithet "carinata" evokes the strong keel of its sepals.
 
 ## Type
 
@@ -41,15 +42,11 @@ Pобéguin s.n., « Bas Ogowé », Gabon
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 Gabon, Congo
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-forêts ombrophiles
+ombrophilous forests
 
 ## Specimens examined
 
@@ -61,7 +58,7 @@ Breteler & Lemmens 8330, km 10 Kango-Libreville (bout. fl., Oct.). Pobéguin s.n
 
 ![Tapura carinata](../sources/Dichapetalaceae_vol32_paddle/figures/fig_065_p0208.png)
 
-*PL. 62 – Tapura carinata Breteler : 1, grande feuille et inflorescence × 1 ; 2, jeune rameau florifere avec petites feuilles × 1 ; 3, fleur × 5 ; 4, fleur sans le calice × 5 ; 5, tube staminal et staminode basal × 5 ; 6, 7, sépales, sections transversales ; 8, pistil et staminode basal × 10 (1, Sita 3630 ; 2-8, Pобéguin s.n.). – Repris de AUWP 86 (3) : 54 (1986).*
+*PL. 62 – Tapura carinata Breteler : 1, large leaf and inflorescence × 1 ; 2, young flowering branch with small leaves × 1 ; 3, flower × 5 ; 4, flower without calyx × 5 ; 5, staminal tube and basal staminode × 5 ; 6, 7, sepals, transverse sections ; 8, pistil and basal staminode × 10 (1, Sita 3630 ; 2-8, Pобéguin s.n.). – Reprinted from AUWP 86 (3) : 54 (1986).*
 
 ## Notes
 

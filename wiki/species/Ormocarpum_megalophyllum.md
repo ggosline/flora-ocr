@@ -7,6 +7,13 @@ family: Leguminosae
 vol: 49
 pages: 312-312
 source: sources/Millettiaspeciesfabaceae_vol49_liteparse
+countries: [Democratic Republic of the Congo, Gabon, Guinea, Sierra Leone]
+in_region: true
+subdivisions:
+  Gabon: [Estuaire, Nyanga, Ogooué-Ivindo, Ogooué-Lolo, Woleu-Ntem]
+habit: "shrub"
+habitat: [secondary forest]
+altitude_m: "140–760"
 tags: [species, generated]
 ---
 # *Ormocarpum megalophyllum* Harms

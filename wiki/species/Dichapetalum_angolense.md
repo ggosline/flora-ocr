@@ -7,6 +7,8 @@ family: Dichapetalaceae
 vol: 32
 pages: 47-50
 source: sources/Dichapetalaceae_vol32_paddle
+countries: [Sudan, Uganda]
+in_region: false
 tags: [species, generated]
 ---
 # *Dichapetalum angolense* Chodat
@@ -69,7 +71,7 @@ Le Testu 2136, Tchibanga (bout. fl., Janv.); 7652, Lastoursville (fl., Nov.); 77
 
 ![Dichapetalum angolense](../sources/Dichapetalaceae_vol32_paddle/figures/fig_008_p0048.png)
 
-*PL. 7. – Dichapetalum angolense Chodat : 1, rameau florifère × 0,5 ; 2, fleur × 5 ; 3, fleur, pistil et staminodes, détail × 10 ; 4, fruit 1-sperme × 1 ; 5, fruit 2-sperme × 1 ; 6, pyrène × 1 ; 7, face interne de l'endocarpe, détail × 1 ; 8, graine avec arille × 1 (1-3, Bos & Breteler 3058 ; 4, 6-8, Bos 3683 ; 5, Bos 4240). – Repris de MLW 73 (13) : 55 (1973).*
+*PL. 7. – Dichapetalum angolense Chodat : 1, flowering branch × 0.5 ; 2, flower × 5 ; 3, flower, pistil and staminodes, detail × 10 ; 4, 1-seeded fruit × 1 ; 5, 2-seeded fruit × 1 ; 6, pyrene × 1 ; 7, internal face of endocarp, detail × 1 ; 8, seed with aril × 1 (1-3, Bos & Breteler 3058 ; 4, 6-8, Bos 3683 ; 5, Bos 4240). – Taken from MLW 73 (13) : 55 (1973).*
 
 ## Notes
 

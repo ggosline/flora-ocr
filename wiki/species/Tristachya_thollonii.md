@@ -7,6 +7,7 @@ family: Gramineae
 vol: 05
 pages: 267-269
 source: sources/Gramineae_vol05_paddle
+habit: "herb"
 tags: [species, generated]
 ---
 # *Tristachya thollonii* Franch.
@@ -22,27 +23,23 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Perennial herb in dense tufts reaching up to 1 m tall. Sheaths bearded at the nodes and more or less pubescent along the margins with tubercle-based hairs. Blades linear, 40 cm long or more and about 6 mm wide, more or less pubescent on the lower surface.
 
-Herbe pérenne en touffes denses pouvant atteindre 1 m de haut. Gaines barbues au niveau des nœuds et plus ou moins
+Narrow, spiciform racemes, about thirty centimetres long, with alternate erect branches. Sessile lanceolate spikelets about 3 cm long; glumes acuminate with 3 nerves: the lower 14 to 18 mm ciliate along the nerves with tubercle-based hairs; the upper as long as the spikelet. Lower flower with lemma similar to the upper glume but slightly longer, 7-nerved and practically glabrous. Lemma 14 mm long, with ciliate keels. Upper flower with acute callus 3 mm; lemma 10 mm long, glabrous, 7-nerved, bifid and produced into a geniculate awn about 10 cm long. Palea slightly shorter, linear.
 
-pubescentes le long des marges avec des poils tuberculés à la base. Limbes linéaires, de 40 cm de long ou plus et environ 6 mm de large, plus ou moins pubescents à la face inférieure.
+Species recorded from Nigeria, Cameroon, Katanga and Rhodesia and Tanganyika.
 
-Racèmes étroits, spiciformes, d'une trentaine de centimètres de long, à branches dressées alternées. Épilets sessiles lancéolés d'environ 3 cm de long ; glumes acuminées à 3 nervures : l'inférieure de 14 à 18 mm ciliée le long des nervures avec des poils tuberculés ; la supérieure aussi longue que l'épillet. Fleur inférieure à lemma semblable à la glume supérieure mais un peu plus longue, à 7 nervures et pratiquement glabre. Lemma de 14 mm de long, à carènes ciliées. Fleur supérieure à callus aigu de 3 mm ; lemma de 10 mm de long, glabre, à 7 nervures, bifide et prolongée par une arête géniculée d'environ 10 cm. Palée un peu plus courte, linéaire.
+Franchet cites for Gabon a specimen, Thollon 784 (Ogooué), which we have not seen.
 
-Espèce signalée au Nigéria, Cameroun, Katanga et en Rhodésie et au Tanganyika.
+XII. CHLORIDEAE
 
-Franchet cite pour le Gabon un échantillon, Thollon 784 (Ogooué), que nous n'avons pas vu.
+1. Spikelets with one fertile flower accompanied by sterile flowers below or below it; spikelets awned.
 
-XII. CHLORIDÉES
+2. Fertile flower accompanied by two sterile flowers below it and generally one or two fertile flowers above; racemes solitary, coiling into a corkscrew at maturity; plants of dry stations with rolled, filiform leaves..... 59. Ctenium.
 
-1. Épillets avec une fleur fertile accompagnée de fleurs stériles au-dessous ou au-dessous d'elle; épillets aristés.
+2'. Sterile flowers only above the fertile flower; racemes digitate remaining straight at maturity; leaves spread.... 60. Chloris.
 
-2. Fleur fertile accompagnée de deux fleurs stériles au-dessous d'elle et généralement d'une ou deux fleurs fertiles au-dessus; racèmes solitaires, s'enroulant en tire-bouchon à maturité; plantes de stations aides à feuilles enroulées, filiformes..... 59. Ctenium.
-
-2'. Fleurs stériles seulement au-dessus de la fleur fertile; racèmes digités restant droit à maturité; feuilles étalées.... 60. Chloris.
-
-1'. Épillets à 1 fleur fertile, sans fleurs stériles; racèmes digités à épilets mutiques; plantes rampantes rhizomateuses..... 61. Cynodon.
+1'. Spikelets with 1 fertile flower, without sterile flowers; digitate racemes with awnless spikelets; rampant rhizomatous plants..... 61. Cynodon.
 
 ## Notes
 

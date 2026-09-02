@@ -7,6 +7,13 @@ family: Gentianaceae
 vol: 54
 pages: 75-77
 source: sources/Gentianaceae_vol54_liteparse
+countries: [Angola, Burundi, Democratic Republic of the Congo, Gabon, Malawi, Rwanda, Tanzania, Zambia]
+in_region: true
+subdivisions:
+  Gabon: [Haut-Ogooué]
+habit: "herb"
+habitat: [savanna]
+altitude_m: "770"
 tags: [species, generated]
 ---
 # *Faroa acaulis* R.E.Fr. Figure 6(B, C)

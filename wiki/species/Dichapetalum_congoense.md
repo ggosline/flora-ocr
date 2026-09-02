@@ -7,6 +7,8 @@ family: Dichapetalaceae
 vol: 32
 pages: 75-78
 source: sources/Dichapetalaceae_vol32_paddle
+countries: [Angola, Cameroon, Democratic Republic of the Congo, Equatorial Guinea, Gabon]
+in_region: true
 tags: [species, generated]
 ---
 # *Dichapetalum congoense* Engler & Ruhland
@@ -63,7 +65,7 @@ Le Testu 1753, Région de la Nyanga, Ndenga (fl., Mai); 2039, Mobila Mwiri (fl.,
 
 ![Dichapetalum congoense](../sources/Dichapetalaceae_vol32_paddle/figures/fig_018_p0076.png)
 
-*PL. 17. – Dichapetalum congoense Engler & Ruhland : 1, rameau florifère × 0,5 ; 2, base foliaire, face inférieure, marges révolutées et glandes × 3 ; 3, fleur × 3 ; 4, fleur, coupe montrant périanthe et étamines (pistil oté) × 6 ; 5, pistil × 6 ; 6, 7, fruit 1-sperme × 0,5 ; 8, 9, fruit 2-sperme × 0,5 ; 10, indumentum du fruit, détail × 12 ; 11-13, pyrènes × 0,5 (1, 2, Breteler 2180 ; 3-5, Breteler 1257 ; 6, 8, 9, 12, 13, Bos 5029 ; 7, 10, 11, Louis 6721). – Repris de MLW 78 (10) : 17 (1978).*
+*PL. 17. – Dichapetalum congoense Engler & Ruhland : 1, flowering branch × 0.5 ; 2, base of leaf, lower surface, revolute margins and glands × 3 ; 3, flower × 3 ; 4, flower, section showing perianth and stamens (pistil removed) × 6 ; 5, pistil × 6 ; 6, 7, one-seeded fruit × 0.5 ; 8, 9, two-seeded fruit × 0.5 ; 10, indumentum of the fruit, detail × 12 ; 11-13, pyrenes × 0.5 (1, 2, Breteler 2180 ; 3-5, Breteler 1257 ; 6, 8, 9, 12, 13, Bos 5029 ; 7, 10, 11, Louis 6721). – Taken from MLW 78 (10) : 17 (1978).*
 
 ## Notes
 

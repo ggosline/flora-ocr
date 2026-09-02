@@ -7,6 +7,13 @@ family: Anacardiaceae
 vol: 50
 pages: 37-39
 source: sources/Anacardiaceae_vol50_liteparse
+countries: [Angola, Cameroon, Democratic Republic of the Congo, Equatorial Guinea, Gabon, Nigeria, Republic of the Congo]
+in_region: true
+subdivisions:
+  Gabon: [Haut-Ogooué]
+habit: "tree"
+habitat: [secondary forest]
+altitude_m: "0–600"
 tags: [species, generated]
 ---
 # *Trichoscypha bijuga* Engl. Planche 21(B)
@@ -17,29 +24,21 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 Trichoscypha 31
 
-32 Frans J. BRETELER Arbuste ou arbre atteignant 20 m de hauteur ; tronc jusqu’à 15 cm de diamètre ; ramilles et rachis foliaires pubérulents à tomenteux. Feuille jusqu’à 50 cm de longueur ; folioles 3 à 21(–27), pétiolule (2–)7–12 mm, à limbe elliptique à oblong, jusqu’à 40 × 11 cm, arrondi à cunéé à la base, acuminé sur 0,5–3 cm au sommet, nervure médiane imprimée et en général pubescente dessus , glabre dessous mais souvent la nervure médiane et les (7–)9 à 14(–18) paires de nervures latérales à petits poils épars. Inflorescence (sub)terminale ou juste en dessous des feuilles, exceptionnellement cauliflore ; souvent brusquement réfléchie à la base et pendante , pubescente, les mâles en épis de ≤ 7 cm de longueur, les femelles en épis ou racèmes ; bractées ovales–elliptiques, 2–3 mm de longueur, tôt caduques. Fleur mâle 4-mère, sessile ; calice ± 0,6 mm de longueur, à lobes de 0,3 mm de longueur, pubérulent à glabre ; pétales imbriqués, ovales, 1,5 mm de longueur, glabres ; étamines légèrement plus courtes que les pétales , glabres ; disque glabre ; pistillode absent. Fleur femelle : pédicelle (0–)1–3 mm de longueur, pubérulent ; calice comme chez la fleur mâle, mais 1 mm de longueur ; pétales imbriqués, ovales, 2,5–3 mm de longueur, ± étalés, glabre ou à quelques poils épars à l’extérieur ; staminodes plus courts que le pistil ; disque annulaire à cupuliforme, glabre ; pistil glabre , 1,5–2 mm de longueur ; stigmates 3, ± bilobés, courtement stipités. Fruit ellip soïdal, jusqu’à 4,5 × 2,5 cm, rouge à maturité, glabre.
+32 Frans J. BRETELER Shrub or tree reaching 20 m in height; trunk up to 15 cm in diameter; branchlets and leaf rachises puberulent to tomentose. Leaf up to 50 cm in length; leaflets 3 to 21(–27), petiolule (2–)7–12 mm, with elliptic to oblong blade, up to 40 × 11 cm, rounded to cuneate at base, acuminate for 0.5–3 cm at apex, midvein impressed and generally pubescent above, glabrous below but often the midvein and the (7–)9 to 14(–18) pairs of lateral veins with scattered small hairs. Inflorescence (sub)terminal or just below the leaves, exceptionally cauliflorous; often abruptly reflexed at base and pendulous, pubescent, the male ones in spikes of ≤ 7 cm in length, the female ones in spikes or racemes; bracts oval–elliptic, 2–3 mm in length, early caducous. Male flower 4-merous, sessile; calyx ± 0.6 mm in length, with lobes 0.3 mm in length, puberulent to glabrous; petals imbricate, oval, 1.5 mm in length, glabrous; stamens slightly shorter than the petals, glabrous; disc glabrous; pistillode absent. Female flower: pedicel (0–)1–3 mm in length, puberulent; calyx as in the male flower, but 1 mm in length; petals imbricate, oval, 2.5–3 mm in length, ± spreading, glabrous or with some scattered hairs on the outside; staminodes shorter than the pistil; disc annular to cupuliform, glabrous; pistil glabrous, 1.5–2 mm in length; stigmas 3, ± bilobed, shortly stipitate. Fruit ellipsoid, up to 4.5 × 2.5 cm, red at maturity, glabrous.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Nigéria, Cameroun, Guinée équatoriale (Rio Muni), Gabon, République du Congo, République démocratique du Congo et Angola (Cabinda) ; au Gabon, connu de toutes les provinces, sauf du Haut-Ogooué
+Nigeria, Cameroon, Equatorial Guinea (Rio Muni), Gabon, Republic of the Congo, Democratic Republic of the Congo and Angola (Cabinda); in Gabon, known from all provinces except Haut-Ogooué
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-forêt primaire et secondarisée ; au Gabon à 0–600 m d’altitude, ailleurs jusqu’à 1000 m
+primary and secondarized forest; in Gabon at 0–600 m in altitude, elsewhere up to 1000 m
 
 ## Source note
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Breteler (2004 : 126) a utilisé le nom T. psilantha provisoirement pour indiquer un échantillon de l’Ogooué-Lolo ( Le Testu 8261 ). Cet échantillon est proche de T. bijuga , mais en diffère par ses fleurs mâles entièrement glabres et ses pétales fortement imbriqués. Le statut taxonomique de cette plante reste incertain. Bi : Breteler (2004), Van der Veken (1960a). B liographie
+Breteler (2004: 126) provisionally used the name T. psilantha to indicate a specimen from Ogooué-Lolo (Le Testu 8261). This specimen is close to T. bijuga, but differs from it by its entirely glabrous male flowers and its strongly imbricate petals. The taxonomic status of this plant remains uncertain. Bi: Breteler (2004), Van der Veken (1960a). Bibliography
 
 ## Notes
 

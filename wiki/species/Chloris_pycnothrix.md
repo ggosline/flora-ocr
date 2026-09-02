@@ -7,6 +7,7 @@ family: Gramineae
 vol: 05
 pages: 271-274
 source: sources/Gramineae_vol05_paddle
+habit: "herb"
 tags: [species, generated]
 ---
 # *Chloris pycnothrix* Trin.
@@ -34,7 +35,7 @@ Griffon du Bellay : Libreville.
 
 ![Chloris pycnothrix](../sources/Gramineae_vol05_paddle/figures/fig_045_p0273.png)
 
-*PL. XLIV. — Chloris pycnothrix Trin. (A. Chev. 34887) : 1, aspect de la plante; 2, fragment de racème; 3, épillet long de 2,5 mm (sans l'arête). — Ctenium Newtonii Hack. (Le Testu 1320) : 4, fragment de touffe avec chaume, feuilles et inflorescences; 5, épillet, glumes enlevées; 6, glumes de l'épillet : longueur de la supérieure, 5 mm env., sans l'arête.*
+*PL. XLIV. — Chloris pycnothrix Trin. (A. Chev. 34887) : 1, plant aspect; 2, raceme fragment; 3, spikelet 2.5 mm long (without the awn). — Ctenium Newtonii Hack. (Le Testu 1320) : 4, tuft fragment with culm, leaves and inflorescences; 5, spikelet, glumes removed; 6, glumes of the spikelet: length of the upper, approximately 5 mm, without the awn.*
 
 ## Notes
 

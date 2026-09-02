@@ -5,10 +5,10 @@ authority: J. Koechlin
 genus: Costus
 family: Zingiberaceae
 family_current: Costaceae
+treatments: [{vol: 9, pages: "89–90", source: sources/Zingiberaceae_vol9_paddle}]
 countries: [Gabon]
 in_region: true
-habit: erect rhizomatous herb
-treatments: [{vol: 9, pages: "89–90", source: sources/Zingiberaceae_vol9_paddle}]
+habit: "herb"
 tags: [species, endemic]
 ---
 # *Costus violaceus* J. Koechlin

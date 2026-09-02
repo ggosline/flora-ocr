@@ -7,6 +7,9 @@ family: Brassicaceae
 vol: 30
 pages: 29-33
 source: sources/Capparidaceae_vol30_paddle
+countries: [Cameroon, Democratic Republic of the Congo, Gabon, Nigeria]
+in_region: true
+habitat: [secondary forest]
 tags: [species, generated]
 ---
 # *Cleome afrospina* Iltis

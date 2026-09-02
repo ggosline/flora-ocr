@@ -7,6 +7,9 @@ family: Leguminosae
 vol: 15
 pages: 24-26
 source: sources/Leguminosae_vol15_paddle
+countries: [Angola, Cameroon]
+in_region: true
+habit: "liana"
 tags: [species, generated]
 ---
 # *Griffonia speciosa* (Welw.) Taubert

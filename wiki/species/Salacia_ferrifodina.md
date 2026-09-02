@@ -7,6 +7,7 @@ family: Celastraceae
 vol: 29
 pages: 107-109
 source: sources/Celastraceae_vol29_paddle
+habit: "liana"
 tags: [species, generated]
 ---
 # *Salacia ferrifodina* Hallé, sp. nov.
@@ -34,7 +35,7 @@ The specific epithet literally means "iron mine".
 
 ![Salacia ferrifodina](../sources/Celastraceae_vol29_paddle/figures/fig_027_p0108.png)
 
-*PL. 28. – Salacia ferrifodina Hallé : 1, rameau florifère à bouquet floral de 5 cm de diam. ; 2, bouton large de 4,5 mm ; 3, coupes de pédoncules floraux ; 4, fleur, diam. 11 mm ; 5, calice, diam. 4,8 mm ; 6, sépale interne large de 3 mm ; 7, pétale long de 4 mm ; 8-10, disque, diam. 3,5 mm ; 11, anthère large de 1 mm ; 12, coupe transversale d'ovaire ; 13, loges biovulées (Hallé N. 3182).*
+*PL. 28. – Salacia ferrifodina Hallé : 1, flowering branch with floral cluster 5 cm in diam. ; 2, bud 4.5 mm wide ; 3, sections of floral peduncles ; 4, flower, diam. 11 mm ; 5, calyx, diam. 4.8 mm ; 6, internal sepal 3 mm wide ; 7, petal 4 mm long ; 8-10, disk, diam. 3.5 mm ; 11, anther 1 mm wide ; 12, transverse section of ovary ; 13, locules with two ovules (Hallé N. 3182).*
 
 ## Notes
 

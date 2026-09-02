@@ -7,6 +7,10 @@ family: Leguminosae
 vol: 15
 pages: 227-229
 source: sources/Leguminosae_vol15_paddle
+countries: [Gabon, Nigeria]
+in_region: true
+habit: "tree"
+habitat: [riverine]
 tags: [species, generated]
 ---
 # *Gilbertiodendron mayombense* (Pellegrin) Léonard

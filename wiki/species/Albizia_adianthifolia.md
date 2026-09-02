@@ -7,6 +7,9 @@ family: Leguminosae
 vol: 31
 pages: 147-151
 source: sources/Leguminosae_vol31_paddle
+countries: [Gambia, Kenya, Madagascar, Mozambique]
+in_region: false
+habit: "tree"
 tags: [species, generated]
 ---
 # *Albizia adianthifolia* (Schumacher) W.F. Wight

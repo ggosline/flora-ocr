@@ -7,6 +7,13 @@ family: Malvaceae
 vol: 45
 pages: 93-103
 source: sources/Malvaceae_vol45_liteparse
+countries: [Gabon]
+in_region: true
+subdivisions:
+  Gabon: [Nyanga]
+habit: "herb"
+habitat: [savanna]
+altitude_m: "350–1200"
 tags: [species, generated]
 ---
 # *Wissadula rostrata* (Schumach. & Thonn.) Hook.f. Planche 29
@@ -17,25 +24,19 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Fl. Nigrit. (in Hook., Niger Fl. ) : 229 (1849). Sida rostrata Schumach. & Thonn., Beskr. Guin. pl. : 306 (1827). W. amplissima (L.) R.E.Fr. var. rostrata (Schumach. & Thonn.) R.E.Fr., Kungl. Svenska Vetenskapsakad. Handl. , n.s. 43, 4 : 51, t. 6, fig. 13-14 (1908). Herbe ou sous-arbuste, jusqu’à 0,5 ‒ 2 m de hauteur, à nombreux rameaux grêles. Stipules 3 ‒ 10 mm. Feuille : pétiole jusqu’à 10 cm ; limbe jusqu’à 15 × 9 cm, taille diminuant graduellement vers le sommet, celles-ci sessiles et amplexicaules, base cordée, sommet apiculé à caudé, marge entière . Inflorescences axillaires et terminales, très ramifiées , très lâches , environ 30 cm de diamètre ; pédoncule 2 ‒ 3( ‒ 5,5) cm. Fleur à pédicelle 0.5 ‒ 1( ‒ 5,5) cm; sépales soudés sur un tiers, 4 mm de longueur, pubérulents ; pétales 4 ‒ 7 mm de longueur, jauneorangé ; anthères nombreuses, absence d’un tube staminal, filets libres jusqu’à la base , 5 mm ; ovaire à (3 ‒ )5 carpelles, séparés en 2 loges par un replis transversal ; loge supérieure 1-ovulée, loge inférieure 2-ovulée ; styles 3 ‒ 5, 5 mm de longueur, stigmates capités. Fruit turbiné à (3 ‒ )5 méricarpes de 8 ‒ 10 mm de longueur. Graines réticulées, légèrement poilues sur les réticulations, plus fortement au hile.
+Fl. Nigrit. (in Hook., Niger Fl. ) : 229 (1849). Sida rostrata Schumach. & Thonn., Beskr. Guin. pl. : 306 (1827). W. amplissima (L.) R.E.Fr. var. rostrata (Schumach. & Thonn.) R.E.Fr., Kungl. Svenska Vetenskapsakad. Handl. , n.s. 43, 4 : 51, t. 6, fig. 13-14 (1908). Herb or subshrub, up to 0.5–2 m tall, with numerous slender branches. Stipules 3–10 mm. Leaf: petiole up to 10 cm; blade up to 15 × 9 cm, size gradually diminishing toward the apex, these upper leaves sessile and amplexicaul, base cordate, apex apiculate to caudate, margin entire. Inflorescences axillary and terminal, highly branched, very lax, approximately 30 cm in diameter; peduncle 2–3(–5.5) cm. Flower with pedicel 0.5–1(–5.5) cm; sepals fused for one-third their length, 4 mm long, puberulent; petals 4–7 mm long, yellow-orange; anthers numerous, lacking a staminal tube, filaments free to the base, 5 mm; ovary with (3–)5 carpels, separated into 2 locules by a transverse fold; upper locule 1-ovulate, lower locule 2-ovulate; styles 3–5, 5 mm long, stigmas capitate. Fruit turbinate with (3–)5 mericarps 8–10 mm long. Seeds reticulate, slightly hairy on the reticulations, more densely so at the hilum.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-espèce d’origine américaine, en Afrique présente dans toute la zone subsaharienne ; au Gabon, connue de la Nyanga
+Species of American origin, in Africa present throughout the sub-Saharan zone; in Gabon, known from Nyanga
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+degraded forest, shrubby savanna, fallows; elsewhere at 350–1200 m altitude. Flowers in April, at which time still numerous buds
 
-forêt dégradée, savane arbustive, jachères ; ailleurs à 350 ‒ 1200 m d’altitude. Fleurs en avril, à cette époque encore de nombreux boutons
+Drawing by Heather Wood, reproduced with permission, © The Board of Trustees of the Royal Botanic Gardens, Kew (2009).
 
-Dessin par Heather Wood, reproduit avec permission, © The Board of Trustees of the Royal Botanic Gardens, Kew (2009).
-
-Note taxonomique : Certains auteurs regardent l’espèce conspécifique avec W. amplissima (L.) R.E.Fr. ou W. hernandioides (L’Hérit.) Garcke. Ici, nous suivons Exell & Meeuse (1961) et Verdcourt (2009), en la traitant comme une espèce distincte. B : Akoègninou et al. (2006), Berhaut (1979), Exell & Meeuse (1961), i B liographie Hauman (1963), Verdcourt (2009).
+Taxonomic note: Some authors regard the species as conspecific with W. amplissima (L.) R.E.Fr. or W. hernandioides (L'Hérit.) Garcke. Here, we follow Exell & Meeuse (1961) and Verdcourt (2009), treating it as a distinct species. Bibliography: Akoègninou et al. (2006), Berhaut (1979), Exell & Meeuse (1961), Hauman (1963), Verdcourt (2009).
 
 ## Notes
 

@@ -7,6 +7,7 @@ family: Thymeleaceae
 vol: 11
 pages: 48-51
 source: sources/Thymeleaceae_vol11_paddle
+habit: "tree"
 tags: [species, generated]
 ---
 # *Octolepis decalepis* Gilg
@@ -43,7 +44,7 @@ Le Testu : 1398, Mougouyanga, Tchibanga (f., fl., sept.). Ce spécimen possède 
 
 ![Octolepis decalepis](../sources/Thymeleaceae_vol11_paddle/figures/fig_006_p0049.png)
 
-*PL. VI. — Octolepis decalepis Gilg : 1, rameau feuillé et boutons floraux (× 2/3); 2, fleur épanouie avec étamines à longs filets (× 6); 3, fleur à étamines courtes et style exsert (× 6); 4, jeune ovaire (× 10); 5, diagramme. — 1, Le Testu 1398; 2 à 5, Pobeguin 56.*
+*PL. VI. — Octolepis decalepis Gilg : 1, leafy branch and flower buds (× 2/3); 2, open flower with stamens with long filaments (× 6); 3, flower with short stamens and exsert style (× 6); 4, young ovary (× 10); 5, diagram. — 1, Le Testu 1398; 2 to 5, Pobeguin 56.*
 
 ## Notes
 

@@ -7,6 +7,10 @@ family: Moraceae
 vol: 26
 pages: 147-155
 source: sources/Moraceae_vol26_paddle
+countries: [Cameroon, Democratic Republic of the Congo, Gabon, Senegal, Zambia]
+in_region: true
+habit: "tree"
+habitat: [savanna, rocky ground]
 tags: [species, generated]
 ---
 # *Ficus dicranostyla* Mildbraed
@@ -159,11 +163,11 @@ Pollinisateur : Platycapa sp. (Afrique du Sud, Zambie).
 
 ![Ficus dicranostyla](../sources/Moraceae_vol26_paddle/figures/fig_041_p0148.png)
 
-*PL. 40. – Ficus dicranostyla Mildbr.: 1-2, rameaux avec feuilles et figues × 1 (1, Fotius 2543, Cameroun; 2, Jacques-Félix 3590, Cameroun). – Ficus variifolia Warb.: 3, rameau avec feuilles et figues × 1 (3, Zenker 1562, Cameroun).*
+*PL. 40. – Ficus dicranostyla Mildbr.: 1-2, branches with leaves and figs × 1 (1, Fotius 2543, Cameroon; 2, Jacques-Félix 3590, Cameroon). – Ficus variifolia Warb.: 3, branch with leaves and figs × 1 (3, Zenker 1562, Cameroon).*
 
 ![Ficus dicranostyla](../sources/Moraceae_vol26_paddle/figures/fig_042_p0152.png)
 
-*PL. 41. - Ficus ingens (Miq.) Miq.: 1, rameau avec feuilles et figues × 1; 2, figue × 3; 3, fleur à graine (Letouzey 6860, Cameroun).*
+*PL. 41. - Ficus ingens (Miq.) Miq.: 1, branch with leaves and figs × 1; 2, fig × 3; 3, flower with seed (Letouzey 6860, Cameroon).*
 
 ## Notes
 

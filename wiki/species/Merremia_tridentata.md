@@ -7,6 +7,12 @@ family: Convolvulaceae
 vol: 46
 pages: 51-53
 source: sources/Convolvulaceae_vol46_liteparse
+countries: [Gabon]
+in_region: true
+subdivisions:
+  Gabon: [Estuaire, Haut-Ogooué, Nyanga, Ogooué-Maritime]
+habit: "herb"
+altitude_m: "1550"
 tags: [species, generated]
 ---
 # *Merremia tridentata* (L.) Hallier f. subsp. angustifolia (Jacq.) Ooststr. Planche 22

@@ -7,6 +7,13 @@ family: Commelinaceae
 vol: 55
 pages: 41-44
 source: sources/Commelinaceae_vol55_liteparse
+countries: [Gabon, Madagascar, Senegal]
+in_region: true
+subdivisions:
+  Gabon: [Estuaire, Moyen-Ogooué, Nyanga, Ogooué-Ivindo, Ogooué-Maritime, Woleu-Ntem]
+habit: "herb"
+habitat: [coastal]
+altitude_m: "500"
 tags: [species, generated]
 ---
 # *Murdannia simplex* (Vahl) Brenan Planche 9, Figure 3(E)

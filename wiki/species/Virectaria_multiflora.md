@@ -7,6 +7,9 @@ family: Rubiaceae
 vol: 12
 pages: 89-90
 source: sources/Rubiaceae_vol12_paddle
+countries: [Angola, Gabon]
+in_region: true
+habit: "herb"
 tags: [species, generated]
 ---
 # *Virectaria multiflora* (Sm.) Bremek.
@@ -21,13 +24,11 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Stiff erect herb 15-60(120) cm tall, ± branched, generally very hairy in all its parts. Simple multi-cellular hairs spreading, the longest exceeding 2 mm. Internodes ± reddish, the longest 6-12 cm. Stipules with 1-4 teeth 3 to 5 mm long. Petiole 1.5-5(13) mm. Blade elliptic to ovate-lanceolate, 2-8(12) × 1-2.7 cm or smaller, with cuneiform base and lanceolate ± attenuate apex in the larger leaves, obtuse or rounded in the smaller ones. 5-9 pairs of secondary veins ascending for a long distance.
 
-Herbe raide dressée de 15-60(120) cm de hauteur, ± rameuse, généralement très velue en toutes ses parties. Poils simples multi-cellulaires étalés, les plus longs dépassant 2 mm. Entrenœuds ± rougeâtres, les plus longs de 6-12 cm. Stipules à 1-4 dents de 3 à 5 mm de long. Pétiole de 1,5-5(13) mm. Limbe elliptique à ové-lancéolé, de 2-8(12) × 1-2,7 cm ou plus petit, à base cunéi-forme et sommet lancéolé ± atténué dans les grandes feuilles, obtus ou arrondi dans les plus petites. 5-9 paires de nervures secondaires longuement ascendantes.
+Inflorescences many-flowered contracted terminal, sometimes on short axillary branches, accrescent ± cymose at the end of flowering, surrounded by a few leaves of which at least one large pair. Flowers entirely hairy. Calyx with 5-6 linear subulate unequal lobes, 2-5 mm long. Corolla white or pink 7-15 mm long. 5 stamens. Anthers 1-2 mm when dry. Disk attenuate narrowly conical, acute at the apex and split longitudinally into two lobes, pale green.
 
-Inflorescences multiflores contractées terminales, parfois sur de courts rameaux axillaires, accrescentes ± cymeuses en fin de floraison, entourées de quelques feuilles dont au moins une grande paire. Fleurs entièrement velues. Calice à 5-6 lobes linéaires subulés et inégaux, longs de 2-5 mm. Corolle blanche ou rose de 7-15 mm de long. 5 étamines. Anthères de 1-2 mm à sec. Disque atténué étroitement conique, aigu au sommet et fendu longitudinalement en deux lobes, vert pâle.
-
-Infrustescence ± compacte ou divisée-rameuse. Jeunes fruits avec les deux parties du disques ouvertes en V. Fruits alternes échelonnés, orientés vers le milieu de l'infrutescence. La base de la valve pédonculée retient la seconde valve lorsque la déhiscence est, cas fréquent, incomplète. Valve longue de 2,2-3 mm. Graines anguleuses rousses d'env. 0,4 mm.
+Infructescence ± compact or divided-branched. Young fruits with the two parts of the disk open in a V. Fruits alternate graduated, oriented towards the middle of the infructescence. The base of the pedicellate valve retains the second valve when dehiscence is, frequent case, incomplete. Valve 2.2-3 mm long. Seeds angular reddish-brown approx. 0.4 mm.
 
 ## Type
 
@@ -35,15 +36,11 @@ Afzelius s. n. (BM, non vu), de Sierra-Leone
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+From the Casamance to N. Angola and the western regions of the Congo Basin.
 
-De la Casamance jusqu'au N. de l'Angola et aux régions occidentales de la cuvette congolaise.
+The related species, at least in appearance, V. major (K. Schum.) Verdc., distinguished above in the generic key, is to be sought in Gabon.
 
-L'espèce voisine, au moins en apparence, V. major (K. Schum.)
-
-Verdc., distinguée ci-dessus dans la clé du genre, est à rechercher au Gabon.
-
-Sols acides sableux ou argileux, humides, prairies, talus, landes, marécages. Mentionnée aussi comme rudérale.
+Acidic sandy or clayey soils, moist, meadows, slopes, heathland, marshes. Also mentioned as ruderal.
 
 ## Notes
 

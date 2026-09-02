@@ -7,6 +7,11 @@ family: Podostemaceae
 vol: 51
 pages: 41-45
 source: sources/Podostemaceae_vol51_liteparse
+countries: [Cameroon, Democratic Republic of the Congo, Gabon]
+in_region: true
+subdivisions:
+  Gabon: [Ngounié, Ogooué-Ivindo]
+altitude_m: "150–200"
 tags: [species, generated]
 ---
 # *Ledermanniella pusilla* (Warming) C.Cusset Planche 18

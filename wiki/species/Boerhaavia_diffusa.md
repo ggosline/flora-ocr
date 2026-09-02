@@ -5,12 +5,11 @@ authority: L.
 genus: Boerhaavia
 family: Nyctaginaceae
 synonyms: []
-countries: [Gabon]
 range_note: "Pantropical ruderal."
-countries_incomplete: true
-in_region: true
-habit: prostrate herb
 treatments: [{vol: 7, pages: "50–52", source: sources/Nyctaginaceae_vol7_paddle}]
+countries: [Gabon]
+in_region: true
+habit: "herb"
 tags: [species]
 ---
 

@@ -7,6 +7,12 @@ family: Leguminosae
 vol: 49
 pages: 203-203
 source: sources/Millettiaspeciesfabaceae_vol49_liteparse
+countries: [Central African Republic, Gabon, Ghana, Guinea, Kenya, Madagascar, Mozambique, Nigeria, Sudan, Tanzania, Uganda, Zimbabwe]
+in_region: true
+subdivisions:
+  Gabon: [Ogooué-Ivindo]
+habitat: [savanna, coastal, rocky ground]
+altitude_m: "100"
 tags: [species, generated]
 ---
 # *Galactia striata* (Jacq.) Urb. var. villosa (Wight & Arn.) Verdc. Planche 66

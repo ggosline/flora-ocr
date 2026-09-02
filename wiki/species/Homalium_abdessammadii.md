@@ -7,6 +7,9 @@ family: Flacourtiaceae
 vol: 34
 pages: 79-81
 source: sources/Flacourtiaceae_vol34_paddle
+countries: [Angola, Cameroon, Democratic Republic of the Congo, Gabon, Kenya, Mozambique, Sudan, Tanzania, Zambia]
+in_region: true
+habitat: [riverine]
 tags: [species, generated]
 ---
 # *Homalium abdessammadii* Asch. & Schweinf.
@@ -71,7 +74,7 @@ HYLLOBOTRYON 6.1 spathulatum, p. 24. 6.2 bracteatum, p. 26.
 
 ![Homalium abdessammadii](../sources/Flacourtiaceae_vol34_paddle/figures/fig_024_p0080.png)
 
-*PL. 24. – Homalium abdessammadii Asch. & Schweinf.: 1, rameau florifère; 2, détail du pistil; 3, fruit. (1 et 2. Thollon 737; 3. Le Testu 9225). – H. fulviflorum Sleumer: 4, rameau florifère; 5, détail du pistil; 6, fruit. (4–6. Thomson 40).*
+*PL. 24. – Homalium abdessammadii Asch. & Schweinf.: 1, flowering branch; 2, detail of pistil; 3, fruit. (1 et 2. Thollon 737; 3. Le Testu 9225). – H. fulviflorum Sleumer: 4, flowering branch; 5, detail of pistil; 6, fruit. (4–6. Thomson 40).*
 
 ## Notes
 

@@ -7,6 +7,10 @@ family: Celastraceae
 vol: 29
 pages: 159-165
 source: sources/Celastraceae_vol29_paddle
+countries: [Cameroon, Democratic Republic of the Congo, Gabon, Ghana, Mozambique, Nigeria, Tanzania, Togo]
+in_region: true
+habit: "liana"
+habitat: [mangrove, riverine, coastal]
 tags: [species, generated]
 ---
 # *Salacia ekoka* Louis ex Wilczek

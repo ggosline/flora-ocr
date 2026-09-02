@@ -45,7 +45,7 @@ Trois genres, dont un seul au Gabon.
 
 ![Psilotum nudum](../sources/Salviniaceae_vol08_paddle/figures/fig_008_p0033.png)
 
-*PL. V.— Psilotum nudum (L.) Gris. (N. Hallé 2066) : 1, aspect général × 2 /3; 2, sporange × 6; 3, spore.— Lycopodium Staudtii (Nessel) Adams et Alston (N. Hallé 835); 4, aspect général × 1 /3; 5, feuille stérile × 4; 6 et 7, sporophylle × 4; 8, spore.— Echelles en μ.*
+*PL. V.— Psilotum nudum (L.) Gris. (N. Hallé 2066) : 1, general aspect × 2 /3; 2, sporange × 6; 3, spore.— Lycopodium Staudtii (Nessel) Adams et Alston (N. Hallé 835); 4, general aspect × 1 /3; 5, sterile leaf × 4; 6 and 7, sporophyll × 4; 8, spore.— Scales in μ.*
 
 ## Notes
 

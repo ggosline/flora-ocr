@@ -7,6 +7,8 @@ family: Combretaceae
 vol: 35
 pages: 15-16
 source: sources/Combretaceae_vol35_paddle
+countries: [Gabon]
+in_region: true
 tags: [species, generated]
 ---
 # *Combretum adrianii* Jongkind

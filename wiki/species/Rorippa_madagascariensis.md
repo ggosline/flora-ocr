@@ -7,6 +7,8 @@ family: Brassicaceae
 vol: 30
 pages: 81-83
 source: sources/Brassicaceae_vol30_paddle
+countries: [Burundi, Democratic Republic of the Congo, Madagascar, Senegal, Uganda, Zambia]
+in_region: true
 tags: [species, generated]
 ---
 # *Rorippa madagascariensis* (De Candolle) Hara

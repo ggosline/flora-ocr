@@ -7,6 +7,8 @@ family: Dennstaedtiaceae
 vol: 08
 pages: 76-78
 source: sources/Dennstaedtiaceae_vol08_paddle
+countries: [Angola]
+in_region: true
 tags: [species, generated]
 ---
 # *Pteridium centrali-africanum* (Hier.) Alston
@@ -60,7 +62,7 @@ Debeaux : sans n., Libreville. Fleury : 26363 in herb. Chevalier, environs de N'
 
 ![Pteridium centrali-africanum](../sources/Dennstaedtiaceae_vol08_paddle/figures/fig_015_p0079.png)
 
-*PL. XII. — Histiopteris incisa (Thbg.) J. Sm. (Nicklès) : 1, fragment de penne × 2/3; 2, nervation × 2. — Pteridium centrali-africanum (Hier.) Alston (Robyns 1574); 3, une penne × 2/3; 4, un segment, face inférieure × 4. — Pteridium aquilinum (L.) Kühn (Chevalier 4379) : 5, une penne × 2/3; 6, un lobe, face inférieure × 4.*
+*PL. XII. — Histiopteris incisa (Thbg.) J. Sm. (Nicklès) : 1, fragment of pinna × 2/3; 2, venation × 2. — Pteridium centrali-africanum (Hier.) Alston (Robyns 1574); 3, a pinna × 2/3; 4, a segment, lower surface × 4. — Pteridium aquilinum (L.) Kühn (Chevalier 4379) : 5, a pinna × 2/3; 6, a lobe, lower surface × 4.*
 
 ## Notes
 

@@ -7,6 +7,8 @@ family: Bignoniaceae
 vol: 27
 pages: 30-33
 source: sources/Bignoniaceae_vol27_paddle
+countries: [Cameroon]
+in_region: true
 tags: [species, generated]
 ---
 # *Kigelia africana* (Lamarck) Bentham
@@ -85,7 +87,7 @@ Hallé N. & Le Thomas 76, Bélinga, 700-1 000 m (P). Klaine 73, s. loc. (P); 477
 
 ![Kigelia africana](../sources/Bignoniaceae_vol27_paddle/figures/fig_005_p0032.png)
 
-*PL. 5. – Kigelia africana (Lam.) Benth.: 1, feuille × 0,5; 2, limbe face supérieure; 3, inflorescence × 0,5; 4, calice × 1; 5, détail de la face interne de la corolle × 1; 6, anthère × 2; 7, fruit × 0,5; 8, graine × 2 (1, Hepper 1878, Cameroun; 2, 4-6, Endenglé 174, Cameroun; 3, Jacques-Félix 3671, Cameroun; 7-8, Lefèvre 1840, Éthiopie). (Repris de la Flore du Cameroun 27: tab. 9, 1984).*
+*PL. 5. – Kigelia africana (Lam.) Benth.: 1, leaf × 0,5; 2, limb upper surface; 3, inflorescence × 0,5; 4, calyx × 1; 5, detail of the internal face of the corolla × 1; 6, anther × 2; 7, fruit × 0,5; 8, seed × 2 (1, Hepper 1878, Cameroon; 2, 4-6, Endenglé 174, Cameroon; 3, Jacques-Félix 3671, Cameroon; 7-8, Lefèvre 1840, Ethiopia). (Taken from the Flora of Cameroon 27: tab. 9, 1984).*
 
 ## Notes
 

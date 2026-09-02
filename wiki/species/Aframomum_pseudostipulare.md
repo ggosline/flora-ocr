@@ -4,11 +4,8 @@ name: Aframomum pseudostipulare
 authority: Loes. et Mildbr. ex J. Koechlin
 genus: Aframomum
 family: Zingiberaceae
-countries: [Cameroon, Gabon]
-in_region: true
-habit: rhizomatous herb
-habitat: [seasonally flooded forest]
 treatments: [{vol: 9, pages: "47–50", source: sources/Zingiberaceae_vol9_paddle}]
+habit: "herb"
 tags: [species]
 ---
 # *Aframomum pseudostipulare* Loes. et Mildbr. ex J. Koechlin

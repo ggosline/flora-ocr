@@ -7,6 +7,12 @@ family: Passifloraceae
 vol: 46
 pages: 83-83
 source: sources/Passifloraceae_vol46_liteparse
+countries: [Cameroon, Democratic Republic of the Congo, Equatorial Guinea, Gabon]
+in_region: true
+subdivisions:
+  Gabon: [Haut-Ogooué, Ogooué-Ivindo, Ogooué-Lolo, Woleu-Ntem]
+habit: "liana"
+altitude_m: "1000"
 tags: [species, generated]
 ---
 # *Efulensia clematoides* C.H.Wright Planche 33

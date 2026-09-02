@@ -7,6 +7,8 @@ family: Flacourtiaceae
 vol: 34
 pages: 73-75
 source: sources/Flacourtiaceae_vol34_paddle
+countries: [Gabon]
+in_region: true
 tags: [species, generated]
 ---
 # *Homalium patoklaense* Aubrév. & Pellegr.
@@ -46,7 +48,7 @@ Le Testu 8193, Lastoursville, Moughombéfala, 29/7/1930, fr. (holotype et iso- d
 
 ![Homalium patoklaense](../sources/Flacourtiaceae_vol34_paddle/figures/fig_022_p0074.png)
 
-*PL. 22. – Homalium patoklaense Aubrév. & Pellegr.: 1, rameau florifère; 2, stipules; 3, détail d'une fleur; 4, fruit. (1-4. Le Testu 8193). – H. ogouense Pellegr.: 5, inflorescence; 6, détail d'une fleur; 7, fruit. (5-7. Le Testu 7039).*
+*PL. 22. – Homalium patoklaense Aubrév. & Pellegr.: 1, flowering branch; 2, stipules; 3, detail of a flower; 4, fruit. (1-4. Le Testu 8193). – H. ogouense Pellegr.: 5, inflorescence; 6, detail of a flower; 7, fruit. (5-7. Le Testu 7039).*
 
 ## Notes
 

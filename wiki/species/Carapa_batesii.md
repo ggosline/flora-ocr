@@ -7,6 +7,12 @@ family: Meliaceae
 vol: 47
 pages: 16-17
 source: sources/Meliaceae_vol47_liteparse
+countries: [Cameroon, Gabon]
+in_region: true
+subdivisions:
+  Gabon: [Estuaire, Haut-Ogooué]
+habit: "shrub"
+altitude_m: "410"
 tags: [species, generated]
 ---
 # *Carapa batesii* C.DC.

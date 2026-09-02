@@ -7,6 +7,9 @@ family: Sapindaceae
 vol: 23
 pages: 134-135
 source: sources/Sapindaceae_vol23_paddle
+countries: [Cote d'Ivoire]
+in_region: false
+habit: "tree"
 tags: [species, generated]
 ---
 # *Placodiscus cuneatus* Radlkofer
@@ -38,7 +41,7 @@ De Wilde 1275, 50 km NW Ešeka (fr., nov.). Zenker 2120 p.p., Bipindi (fl. ♂);
 
 ![Placodiscus cuneatus](../sources/Sapindaceae_vol23_paddle/figures/fig_032_p0134.png)
 
-*Fig. 1. — Placodiscus cuneatus Radlk. : Fruit (De Wilde 1275) : 1, vue sur un lobe; 2, entre 2 lobes; 3, coupe transversale; 4, coupe longitudinale.*
+*Fig. 1. — Placodiscus cuneatus Radlk. : Fruit (De Wilde 1275) : 1, view on a lobe; 2, between 2 lobes; 3, transverse section; 4, longitudinal section.*
 
 ## Notes
 

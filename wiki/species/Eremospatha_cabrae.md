@@ -7,6 +7,12 @@ family: Arecaceae
 vol: 53
 pages: 18-20
 source: sources/Arecaceae_vol53_liteparse
+countries: [Angola, Democratic Republic of the Congo, Gabon, Republic of the Congo]
+in_region: true
+subdivisions:
+  Gabon: [Ngounié, Ogooué-Ivindo, Ogooué-Maritime]
+habit: "liana"
+altitude_m: "750–920"
 tags: [species, generated]
 ---
 # *Eremospatha cabrae* (De Wild. & T.Durand) De Wild. Planche 4

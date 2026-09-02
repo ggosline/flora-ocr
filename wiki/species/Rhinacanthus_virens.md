@@ -7,6 +7,8 @@ family: Acanthaceae
 vol: 13
 pages: 203-206
 source: sources/Acanthaceae_vol13_paddle
+countries: [Cameroon, Cote d'Ivoire, Gabon, Ghana, Guinea, Liberia, Nigeria, Sao Tome and Principe, Sierra Leone]
+in_region: true
 tags: [species, generated]
 ---
 # *Rhinacanthus virens* (Nees) Milne-Redh.

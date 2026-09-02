@@ -7,6 +7,13 @@ family: Leguminosae
 vol: 49
 pages: 339-341
 source: sources/Millettiaspeciesfabaceae_vol49_liteparse
+countries: [Angola, Gabon, Nigeria, Uganda]
+in_region: true
+subdivisions:
+  Gabon: [Ngounié, Nyanga, Ogooué-Ivindo, Ogooué-Lolo, Woleu-Ntem]
+habit: "herb"
+habitat: [secondary forest]
+altitude_m: "300–400"
 tags: [species, generated]
 ---
 # *Rhynchosia mannii* Baker Planche 113

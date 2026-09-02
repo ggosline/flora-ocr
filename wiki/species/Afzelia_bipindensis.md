@@ -7,6 +7,9 @@ family: Leguminosae
 vol: 15
 pages: 115-118
 source: sources/Leguminosae_vol15_paddle
+countries: [Angola, Gabon, Nigeria, Uganda]
+in_region: true
+habit: "tree"
 tags: [species, generated]
 ---
 # *Afzelia bipindensis* Harms
@@ -49,7 +52,7 @@ Le Testu : 2105, Ibanga (fl. sept.); 5252, Pounga (fl. fév.); 7185, Lastoursvil
 
 ![Afzelia bipindensis](../sources/Leguminosae_vol15_paddle/figures/fig_025_p0116.png)
 
-*PL. XXV. — Afzelia bipindensis Harms : 1, feuille × 2 /3; 2, inflorescence × 2 /3; 3, fleur × 1; 4, coupe longitudinale de la fleur × 1; 5, bourrelet persistent des stipules × 2 /3.*
+*PL. XXV. — Afzelia bipindensis Harms : 1, leaf × 2 /3; 2, inflorescence × 2 /3; 3, flower × 1; 4, longitudinal section of the flower × 1; 5, persistent rim of the stipules × 2 /3.*
 
 ## Notes
 

@@ -7,6 +7,7 @@ family: Malpighiaceae
 vol: 21
 pages: 11-12
 source: sources/Malpighiaceae_vol21_paddle
+habitat: [riverine]
 tags: [species, generated]
 ---
 # *Acridocarpus smeathmannii* (De Candolle) Guillemin & Perrottet

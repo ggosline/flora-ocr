@@ -7,6 +7,9 @@ family: Orchidaceae
 vol: 36
 pages: 69-71
 source: sources/Orchidaceae_vol36_paddle
+countries: [Angola, Cameroon, Central African Republic, Cote d'Ivoire, Equatorial Guinea, Ghana, Kenya, Nigeria, Sao Tome and Principe, Sierra Leone, Tanzania, Uganda, Zambia]
+in_region: true
+habitat: [evergreen forest]
 tags: [species, generated]
 ---
 # *Zeuxine elongata* Rolfe
@@ -17,27 +20,21 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Tige 15-30 cm avec de nombreuses glandes au-dessus des feuilles. Celles-ci, disposées sur la partie inférieure de la tige, disparaissant au moment de la floraison,  $ 2.5-5.5 \times 1-2 $ cm, obliquement ovées à ovées-lancéolées, aiguës. Inflorescence 4-10 cm, 13-25-flore. Fleurs blanc-verdâtre à l'extérieur, parfois lavées de pourpre-rosâtre. Sépales avec nombreuses glandes face externe, ovés, obtus. Pétales ovés-falciformes, obtus. Labelle sessile, contracté au 1/3 apical en un hypochile relativement épais et charnu, forme générale oblongue-ovée, sacciforme, face interne avec deux appendices charnus, digités, marges involutées ; épic-chile transversalement elliptique, papilleux, dévié. - Pl. 29, p. 67.
+Stem 15–30 cm with numerous glands above the leaves. The latter, arranged on the lower part of the stem, disappearing at the time of flowering, 2.5–5.5 × 1–2 cm, obliquely ovate to ovate-lanceolate, acute. Inflorescence 4–10 cm, 13–25-flowered. Flowers whitish-green externally, sometimes tinged with purplish-pink. Sepals with numerous glands on external face, ovate, obtuse. Petals ovate-falciform, obtuse. Lip sessile, contracted at the 1/3 apical portion into a relatively thick and fleshy hypochile, general form oblong-ovate, sacciform, internal face with two fleshy, digitate appendices, margins involute; epichile transversely elliptic, papillose, deflected. – Pl. 29, p. 67.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Sierra Leone, Côte d'Ivoire, Ghana, Nigeria, Cameroun, Sao Tome, Principe, Annobon, Centrafrique, Congo (Kinshasa), Angola, Ouganda, Kenya, Tanzania, Zambie
+Sierra Leone, Côte d'Ivoire, Ghana, Nigeria, Cameroon, São Tomé, Príncipe, Annobón, Central African Republic, Congo (Kinshasa), Angola, Uganda, Kenya, Tanzania, Zambia
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+alt. 400–1650 m. Very shaded location, on humus and on rock at the base of rainforest, near river and waterfall
 
-alt. 400-1650 m. Lieu très ombragé, sur l'humus et sur rocher au fond de forêt ombrophile, près de rivière et chute d'eau
+PL. 29. – Zeuxine elongata Rolfe: A, flower and bract; B, lip viewed from above; C, lip, lateral view; D, dorsal sepal; E, petal; F, lateral sepal. – Zeuxine gilgiana Kraenzl. & Schltr.: G, lip viewed from above; H, lip, lateral view; I, dorsal sepal; J, petal (A–F, Le Testu 6529, P; G–J, Mildbraed 4335, P).
 
-PL. 29. – Zeuxine elongata Rolfe: A, fleur et bractée ; B, labelle vu de dessus ; C, labelle, vue latérale ; D, sépale dorsal ; E, pétale ; F, sépale latérale. – Zeuxine gilgiana Kraenzl. & Schltr.: G, labelle vu de dessus ; H, labelle, vue latérale ; I, sépale dorsal ; J, pétale (A-F, Le Testu 6529, P ; G-J, Mildbraed 4335, P).
+MATERIAL STUDIED (Map 9):
 
-MATÉRIEL ÉTUDIÉ (Carte 9) :
-
-Bos, van der Laan & Nzabi 10579, 30 km à l'Est du Chantier Leroy d'Abanga, fin de piste de la concession, 0°50' N, 11°10' E, (fl., Juil.), WAG!, LBV.
+Bos, van der Laan & Nzabi 10579, 30 km East of Chantier Leroy d'Abanga, end of the track of the concession, 0°50' N, 11°10' E, (fl., Jul.), WAG!, LBV.
 
 ## Figures
 

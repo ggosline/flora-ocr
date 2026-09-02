@@ -7,6 +7,11 @@ family: Dracaenaceae
 vol: 54
 pages: 15-15
 source: sources/Dracaenaceae_vol54_liteparse
+countries: [Angola, Cameroon, Democratic Republic of the Congo, Gabon, Republic of the Congo]
+in_region: true
+subdivisions:
+  Gabon: [Estuaire, Ngounié, Woleu-Ntem]
+altitude_m: "0–950"
 tags: [species, generated]
 ---
 # *Dracaena acaulis* Baker Planche 1, Figure 1(A)

@@ -7,6 +7,12 @@ family: Solanaceae
 vol: 55
 pages: 103-105
 source: sources/Solanaceae_vol55_liteparse
+countries: [Gabon]
+in_region: true
+subdivisions:
+  Gabon: [Estuaire, Ngounié, Ogooué-Maritime]
+habit: "herb"
+altitude_m: "0–2600"
 tags: [species, generated]
 ---
 # *Nicotiana tabacum* L. Planche 31

@@ -7,6 +7,7 @@ family: Rubiaceae
 vol: 12
 pages: 36-40
 source: sources/Rubiaceae_vol12_paddle
+habit: "tree"
 tags: [species, generated]
 ---
 # *Mitragyna ciliata* Aubr. et Pellegr.
@@ -45,7 +46,7 @@ Le Testu : 1887, Mayombe-Bayaka, Tchibanga (fl. déc.); 2254, Sindara, Ngounyé 
 
 ![Mitragyna ciliata](../sources/Rubiaceae_vol12_paddle/figures/fig_005_p0037.png)
 
-*PL. 3. — Mitragyna ciliata Aubrév. et Pellegr. : 1, stipules (6 × 3 mm) et base de feuille (Le Testu 7739); 2, inflorescence (Le Testu 1887); 3, coupe de bouton avec 3 bractées (de 4 mm) et 4, coupe de fleur (F. Hallé 110); 5, capitule fructifère (id.); 6, valves endocarpiques d'un simple fruit après déhiscence, et 7, graine longue de 1,8 mm (Leeuwenberg 2639).*
+*PL. 3. — Mitragyna ciliata Aubrév. et Pellegr. : 1, stipules (6 × 3 mm) and base of leaf (Le Testu 7739); 2, inflorescence (Le Testu 1887); 3, section of bud with 3 bracts (of 4 mm) and 4, section of flower (F. Hallé 110); 5, fruiting capitule (id.); 6, endocarpic valves of a simple fruit after dehiscence, and 7, seed long 1.8 mm (Leeuwenberg 2639).*
 
 ## Notes
 

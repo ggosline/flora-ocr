@@ -7,6 +7,7 @@ family: Zingiberaceae
 vol: 09
 pages: 25-26
 source: sources/Zingiberaceae_vol09_paddle
+habit: "herb"
 tags: [species, generated]
 ---
 # *Renalmia cincinnati* (K. Schum.) Bak.

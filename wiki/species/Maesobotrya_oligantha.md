@@ -7,6 +7,13 @@ family: Phyllanthaceae
 vol: 43
 pages: 50-50
 source: sources/Phyllanthaceae_vol43_liteparse
+countries: [Equatorial Guinea, Gabon]
+in_region: true
+subdivisions:
+  Gabon: [Estuaire, Woleu-Ntem]
+habit: "shrub"
+habitat: [primary forest]
+altitude_m: "520–850"
 tags: [species, generated]
 ---
 # *Maesobotrya oligantha* Lachenaud & Breteler Planche 14

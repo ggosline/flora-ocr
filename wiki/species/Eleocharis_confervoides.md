@@ -7,6 +7,11 @@ family: Cyperaceae
 vol: 44
 pages: 128-131
 source: sources/Cyperaceae_vol44_liteparse
+countries: [Cote d'Ivoire, Democratic Republic of the Congo, Gabon, Madagascar, Nigeria, Tanzania, Zambia]
+in_region: true
+subdivisions:
+  Gabon: [Ogooué-Maritime]
+altitude_m: "2080"
 tags: [species, generated]
 ---
 # *Eleocharis confervoides* (Poir.) Steud. Planche 81, Figure 10b

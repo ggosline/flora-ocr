@@ -7,6 +7,9 @@ family: Melastomataceae
 vol: 25
 pages: 64-66
 source: sources/Melastomataceae_vol25_paddle
+countries: [Democratic Republic of the Congo, Gabon, Guinea]
+in_region: true
+habit: "herb"
 tags: [species, generated]
 ---
 # *Calvoa trochainii* Jacques-Félix
@@ -35,7 +38,7 @@ Western Guineo-Congolian species, from Guinea to Gabon and Zaïre; epiphytic or 
 
 ![Calvoa trochainii](../sources/Melastomataceae_vol25_paddle/figures/fig_022_p0065.png)
 
-*PL. 22. — Calvoa trochainii Jacq.-Fél. : 1, aspect général × 2/3; 2 & 3, étamines × 12; 4, détail d'étamine; 5, style × 6; 6 & 7, capsule entière et coupée × 4; 8, graine × 20 (Le Testu 8957).*
+*PL. 22. — Calvoa trochainii Jacq.-Fél. : 1, general aspect × 2/3; 2 & 3, stamens × 12; 4, detail of stamen; 5, style × 6; 6 & 7, entire and sectioned capsule × 4; 8, seed × 20 (Le Testu 8957).*
 
 ## Notes
 

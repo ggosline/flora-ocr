@@ -7,6 +7,12 @@ family: Leguminosae
 vol: 49
 pages: 349-349
 source: sources/Millettiaspeciesfabaceae_vol49_liteparse
+countries: [Cameroon, Gabon, Senegal, Sudan]
+in_region: true
+subdivisions:
+  Gabon: [Estuaire]
+habit: "shrub"
+altitude_m: "2000"
 tags: [species, generated]
 ---
 # *Sesbania sesban* (L.) Merr. subsp. punctata (DC.) J.B.Gillett Planche 117

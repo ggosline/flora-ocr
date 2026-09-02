@@ -7,6 +7,7 @@ family: Leguminosae
 vol: 15
 pages: 221-221
 source: sources/Leguminosae_vol15_paddle
+habit: "tree"
 tags: [species, generated]
 ---
 # *Gilbertiodendron ngounyense* (Pellegrin) Léonard

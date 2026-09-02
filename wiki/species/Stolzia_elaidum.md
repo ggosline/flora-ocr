@@ -7,6 +7,9 @@ family: Orchidaceae
 vol: 36
 pages: 117-119
 source: sources/Orchidaceae_vol36_paddle
+countries: [Gabon, Liberia, Nigeria, Sao Tome and Principe]
+in_region: true
+habitat: [riverine]
 tags: [species, generated]
 ---
 # *Stolzia elaidum* (Lindl.) Summerh.
@@ -17,45 +20,39 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Pseudobulbes espacés de 0,5-1,5 cm, contractés en 2 parties sphé-riques aplaties dorsoventralement. Feuilles 2, courtement pétiolées, oblancéolées, assez épaisses, sommet à 3 dents dont la plus longue est celle du milieu. Inflorescence, longueur < 3 cm, soit > 2 fois plus que les feuilles, terminale, dressée. Fleurs 1- rares, petites, résupinées, jaune fondu de pourpre ou blanc-verdâtre. Sépales et pétales longes de 6-7 mm ; sépales latéraux falciformes-triangulaires à lancéolés-triangulaires, acuminés ; sépale dorsal semblable mais symétrique. Pétales longuement acuminés. Labelle trans-elliptique, onguicule net, base assez profondément concave, sommet apiculé, callus absent. – Pl. 55, p. 116.
+Pseudobulbs spaced 0.5–1.5 cm apart, contracted into 2 spherical parts flattened dorsoventrally. Leaves 2, shortly petiolate, oblanceolate, fairly thick, apex with 3 teeth of which the longest is that of the middle. Inflorescence, length < 3 cm, either > 2 times longer than the leaves, terminal, erect. Flowers 1–rare, small, resupinate, yellow tinged with purple or whitish-greenish. Sepals and petals 6–7 mm long; lateral sepals falciform-triangular to lanceolate-triangular, acuminate; dorsal sepal similar but symmetric. Petals long-acuminate. Lip transversely elliptic, with a distinct claw, base fairly deeply concave, apex apiculate, callus absent. – Pl. 55, p. 116.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Liberia, Nigeria, Principe, Gabon
+Liberia, Nigeria, Príncipe, Gabon
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+alt. 620 m. Epiphyte collected on oil palm and other trees, in riparian forest, in very shaded places along watercourses, and even found once on an Ancistrorhynchus capitatus
 
-alt. 620 m. Épiphyte récolté sur palmier à huile et autres arbres, en forêt ripicole, en lieu très ombragé le long de cours d'eau, et même trouvé une fois sur un Ancistrorhynchus capitatus
+MATERIAL EXAMINED (Map 18):
 
-MATÉRIEL ÉTUDIÉ (Carte 18) :
+de Wilde s.n., Cristal Mountains, km 10 track Tchimbélé–Kinguélé, cult. WAG (83-703), non vidi.
 
-de Wilde s.n., Monts de Cristal, km 10 piste de Tchimbélé-Kinguélé, cult. WAG (83-703), non vidi.
-
-Hallé & Villiers 4636c & 5385, Monts de Cristal, Chutes de Kinguélé (fl., Fév.), P!. NB. Les spécimens que nous avons examinés étaient assez incomplets ou stériles.
+Hallé & Villiers 4636c & 5385, Cristal Mountains, Kinguélé Falls (fl., Feb.), P!. NB. The specimens that we examined were fairly incomplete or sterile.
 
 III. MALAXIDINAE Benth. & Hook.f.
 
-Gen. Pl. 3 : 463, 465 (1883).
+Gen. Pl. 3: 463, 465 (1883).
 
-Feuilles en général pliées, un peu convolutées, fines, réunies au sommet du pseudobulbe. Colonne courte, massive ou grêle, droite ou arquée. Anthères érigées à couchées.
+Leaves in general folded, somewhat convolute, thin, united at the apex of the pseudobulb. Column short, massive or slender, straight or arched. Anthers erect to prostrate.
 
-Sous-tribu de 16 genres, dont 1 seulement est connu du Gabon.
+Subtribe of 16 genera, of which only 1 is known from Gabon.
 
 ## Figures
 
 ![Stolzia elaidum](../sources/Orchidaceae_vol36_paddle/figures/fig_059_p0118.png)
 
-*PL. 54. – Structure du gynostème du genre Stolzia Schltr.: A, vue antérieure ; B, vue latérale ; C, stigmate, rostelle et viscidie, vue antérieure sans l'anthère ; D, anthère, vue postérieure ; E, pollinie, aspects divers (ex SzLACHETKO & MARGOŃSKA, 2001).*
+*PL. 54. – Structure of the gynostemium of the genus Stolzia Schltr.: A, anterior view ; B, lateral view ; C, stigma, rostellum and viscidia, anterior view without the anther ; D, anther, posterior view ; E, pollinia, various aspects (ex SZLACHETKO & MARGOŃSKA, 2001).*
 
 ![Stolzia elaidum](../sources/Orchidaceae_vol36_paddle/figures/fig_060_p0119.png)
 
-*PL. 55. – Stolzia elaidum (Lindl.) Summerh.: A, B, vue générale ; C, labelle (A-C, Hallé & Villiers 53851, P).*
+*PL. 55. – Stolzia elaidum (Lindl.) Summerh.: A, B, general view ; C, labellum (A-C, Hallé & Villiers 53851, P).*
 
 ![Stolzia elaidum](../sources/Orchidaceae_vol36_paddle/figures/fig_130_p0222.png)
 

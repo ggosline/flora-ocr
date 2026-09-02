@@ -7,6 +7,7 @@ family: Gramineae
 vol: 05
 pages: 265-267
 source: sources/Gramineae_vol05_paddle
+habit: "herb"
 tags: [species, generated]
 ---
 # *Loudetia vanderystii* (De Wild.) Hubb. (f. p. 257).

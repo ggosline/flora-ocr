@@ -7,6 +7,8 @@ family: Leguminosae
 vol: 15
 pages: 277-278
 source: sources/Leguminosae_vol15_paddle
+countries: [Cameroon, Gabon]
+in_region: true
 tags: [species, generated]
 ---
 # *Aphanocalyx margininervatus* Léonard

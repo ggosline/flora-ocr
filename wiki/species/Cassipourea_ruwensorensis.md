@@ -7,6 +7,12 @@ family: Rhizophoraceae
 vol: 47
 pages: 107-107
 source: sources/Rhizophoraceae_vol47_liteparse
+countries: [Burundi, Central African Republic, Gabon, Kenya, Rwanda, Sudan, Tanzania, Uganda]
+in_region: true
+subdivisions:
+  Gabon: [Ogooué-Ivindo]
+habit: "tree"
+altitude_m: "640–860"
 tags: [species, generated]
 ---
 # *Cassipourea ruwensorensis* (Engl.) Alston Planche 29.4, 36

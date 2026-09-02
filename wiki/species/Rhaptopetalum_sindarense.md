@@ -7,6 +7,9 @@ family: Scytopetalaceae
 vol: 24
 pages: 186-188
 source: sources/Scytopetalaceae_vol24_paddle
+countries: [Gabon]
+in_region: true
+habit: "tree"
 tags: [species, generated]
 ---
 # *Rhaptopetalum sindarense* Pellegrin
@@ -49,7 +52,7 @@ Le Testu 2294, Sindara, 55 km SE Lambaréné (fl., oct.); 6486, Pèca (Pèka), H
 
 ![Rhaptopetalum sindarense](../sources/Scytopetalaceae_vol24_paddle/figures/fig_054_p0187.png)
 
-*PL. 54. — Rhaptopetalum sindarense Pellegrin : 1, rameau feuillé × 2/3; 2, dessous du limbe × 20/3; 3, rameau avec fleurs × 2/3; 4, coupe long. fl. × 20/3; 5, bouton floral × 3; 6, fruit × 1. (1-5, Le Testu 2294; 6, Chevalier 27125). (Repris d'Adansonia 1 (1) : tab. 4 (1961) et complété).*
+*PL. 54. — Rhaptopetalum sindarense Pellegrin : 1, leafy branch × 2/3; 2, underside of the lamina × 20/3; 3, branch with flowers × 2/3; 4, long. sect. fl. × 20/3; 5, floral bud × 3; 6, fruit × 1. (1-5, Le Testu 2294; 6, Chevalier 27125). (Taken from Adansonia 1 (1) : tab. 4 (1961) and supplemented).*
 
 ## Notes
 

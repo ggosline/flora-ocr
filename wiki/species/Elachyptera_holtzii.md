@@ -7,6 +7,8 @@ family: Celastraceae
 vol: 29
 pages: 185-187
 source: sources/Celastraceae_vol29_paddle
+countries: [Angola, Cameroon, Democratic Republic of the Congo, Gabon, Tanzania]
+in_region: true
 tags: [species, generated]
 ---
 # *Elachyptera holtzii* (Loesener ex Harms) Wilczek ex Hallé

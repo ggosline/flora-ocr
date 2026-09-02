@@ -7,6 +7,12 @@ family: Leguminosae
 vol: 49
 pages: 46-49
 source: sources/Millettiaspeciesfabaceae_vol49_liteparse
+countries: [Democratic Republic of the Congo, Gabon, Nigeria]
+in_region: true
+subdivisions:
+  Gabon: [Ogooué-Ivindo, Ogooué-Lolo, Woleu-Ntem]
+habit: "tree"
+altitude_m: "60–480"
 tags: [species, generated]
 ---
 # *Angylocalyx pynaertii* De Wild. Planche 12

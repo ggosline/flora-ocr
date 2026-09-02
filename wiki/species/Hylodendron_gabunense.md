@@ -7,6 +7,8 @@ family: Leguminosae
 vol: 15
 pages: 142-143
 source: sources/Leguminosae_vol15_paddle
+countries: [Nigeria]
+in_region: true
 tags: [species, generated]
 ---
 # *Hylodendron gabunense* Taubert

@@ -7,6 +7,9 @@ family: Melastomataceae
 vol: 25
 pages: 147-148
 source: sources/Melastomataceae_vol25_paddle
+countries: [Gabon]
+in_region: true
+habit: "shrub"
 tags: [species, generated]
 ---
 # *Warneckea bebaiensis* (Gilg ex Engler) Jacques-Félix
@@ -17,17 +20,15 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Adansonia, ser. 2, 18 (2): 229 (1978); Fl. Cam. 24: 160 (1983).
 
-Adansonia, sér. 2, 18 (2) : 229 (1978); Fl. Cam. 24 : 160 (1983).
+— Memecylon bebaiense GILG EX ENGL., Pflanzenw. Afr. 3, 2: 766 (1921).
 
-— Memecylon bebaiense GILG EX ENGL., Pflanzenw. Afr. 3, 2 : 766 (1921).
+Shrub 2 to 3 m tall; branches 4-angulate-winged (wings rapidly excoriate), slender. Leaves small, with slender petiole, 2 mm long; blade thin, glossy on both faces, 2 (3) × 5(8) cm, lanceolate-acuminate to ovate-acuminate, acumen 1 cm long, often curved, broad, obtuse; midvein finely impressed above; when dry: 8 to 10 transverse veins, finely prominent above, connected 1 mm from the margin by convergent sinuate veins from the base, loose reticulum, visible especially beneath.
 
-Arbuste de 2 à 3 m; rameaux 4-angulaires-ailés (ailes rapidement excoriées), grêles. Feuilles petites, à pétiole grêle, long de 2 mm; limbe mince, brillant sur les 2 faces, 2 (3) × 5(8) cm, lancée-acuminé à ovale-acuminé, acumen long de 1 cm, souvent courbe, large, obtus; nervure médiane finement imprimée au-dessus; sur le sec : 8 à 10 transversales, finement saillantes dessus, reliées à 1 mm de la marge par les convergentes sinuées dès la base, réticulum lâche, visible surtout dessous.
+Axillary and terminal cymes, 2-6-flowered, subsessile to sessile and flowers apparently fasciculate; bracts 1 mm long, narrowly triangular. Flowers with pedicel 2 to 4 mm; hypantho-calyx cupulate-patelate, 3 × 2 mm; calyx lobes broadly triangular. Corolla relatively well developed; petals 3 × 3 mm, rhombic, with fleshy claw, well individualized and reflexing the petals at anthesis. Stamens small: anther with frontal thecae 0.8 mm; connective 1.5 mm, thick, abruptly conical, with gland situated near the apex; filament 1.5 mm; epigynous partitions absent or marked only by a line. Ovary 8-10 ovulate; style 2.5 mm.
 
-Cymes axillaires et terminales, 2-6-flores, subsessiles à sessiles et fleurs apparemment fasciculées; bractées longues de 1 mm, étroitement triangulaires. Fleurs à pédicelle de 2 à 4 mm; hypantho-calice cupulo-patellé, 3 × 2 mm; lobes du calice largement triangulaires. Corolle relativement bien développe; pétales 3 × 3 mm, rhombiques, avec onglet charnu, bien individua-lisé et réfléchissant les pétales à l'anthèse. Étamines petites : anthère à thèques frontales de 0,8 mm; connectif de 1,5 mm, épais, brusquement conique, avec glande située près de l'extrémité; filet de 1,5 mm; cloisons épigynes nulles ou seulement marquées par une ligne. Ovaire 8-10 ovulé; style de 2,5 mm.
-
-Fruit globuleux, 9 mm de diamètre, 8-côtelé. — Pl. 52, p. 147.
+Fruit globose, 9 mm in diameter, 8-costate. — Pl. 52, p. 147.
 
 ## Type
 
@@ -37,11 +38,9 @@ Lecomte A. 78, Congo (P)
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Cameroonian-Gabonese species (extending to Mayombe) well defined; the cymes appear polycarpic: simultaneous presence of fruits and flowers.
 
-Espèce cameruno-gabonaise (jusqu'au Mayombe) bien définie; les cymes semblent polycarpiques : présence simultanée de fruits et de fleurs.
-
-Espèce bien caractérisée. N'a pas été récoltée au Gabon, mais dans le bassin inférieur du Niari au Congo. A rechercher dans les régions similaires du Gabon.
+Well characterized species. Has not been collected in Gabon, but in the lower Niari basin in Congo. Should be sought in similar regions of Gabon.
 
 ## Specimens examined
 
@@ -63,7 +62,7 @@ Fruit globuleux, de 6 mm de diamètre, bleu foncé; calice persistant mais marce
 
 ![Warneckea bebaiensis](../sources/Melastomataceae_vol25_paddle/figures/fig_052_p0149.png)
 
-*PL. 52. — Warneckea bebaiensis (Gilg ex Engl.) Jacq.-Fél. : 1, rameaux fleuris (fruits d'après Breteler & De Wilde J.J.F.E. 171) × 2/3; 2, fleur sans les étamines × 6; 3, étamine × 12 (Tessmann 800).*
+*PL. 52. — Warneckea bebaiensis (Gilg ex Engl.) Jacq.-Fél. : 1, flowering branches (fruits after Breteler & De Wilde J.J.F.E. 171) × 2/3; 2, flower without stamens × 6; 3, stamen × 12 (Tessmann 800).*
 
 ## Notes
 

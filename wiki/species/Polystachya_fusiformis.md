@@ -7,6 +7,8 @@ family: Orchidaceae
 vol: 37
 pages: 45-47
 source: sources/Orchidaceae_vol37_paddle
+countries: [Cameroon, Democratic Republic of the Congo, Gabon, Ghana, Kenya, Madagascar, Malawi, Rwanda, Tanzania, Uganda, Zambia, Zimbabwe]
+in_region: true
 tags: [species, generated]
 ---
 # *Polystachya fusiformis* (Thouars) Lindl.

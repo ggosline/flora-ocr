@@ -7,6 +7,11 @@ family: Arecaceae
 vol: 53
 pages: 67-69
 source: sources/Arecaceae_vol53_liteparse
+countries: [Angola, Cameroon, Democratic Republic of the Congo, Equatorial Guinea, Gabon, Liberia, Nigeria, Republic of the Congo]
+in_region: true
+subdivisions:
+  Gabon: [Estuaire, Haut-Ogooué, Moyen-Ogooué, Ngounié, Nyanga]
+altitude_m: "400"
 tags: [species, generated]
 ---
 # *Sclerosperma mannii* H.Wendl. Planche 24(1–5), Figure 5C
@@ -17,21 +22,15 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Palmier acaule ou à stipe jusqu’à 60 cm. Feuilles pennées , bifides au stade juvénile ; gaine jusqu’à 35 cm de longueur ; pétiole 1,5–3 m ; rachis 80–150 cm ; limbe comprenant 8 à 17(24) folioles , opposées ou subopposées, 30–45(–63) × (3–)6–9(–13) cm, foliole apicale profondément bifide, largement rhomboïdale, à base asymétrique, 30–45 × (20–)30–45 cm ; nervures médianes proéminentes. Inflorescence : pédoncule 12(–19) cm, elliptique en coupe, densément tomenteux ; préfeuille parfois jusqu’à 20 cm de longueur ; bractée pédonculaire 18–25 cm de longueur ; rachis 10–14 cm. Fleur mâle : sépales 3–4 mm de longueur ; pétales elliptiques, 6–8 mm de longueur ; étamines ± 60. Fruits jusqu’à 17 par infrutescence , sur un rachis de 3–6 cm , obovoïdes, 2,5–3(–3,5) × 2,2–2,9 cm. Graine globuleuse, 1,5–2,3(–2,5) × 2–2,5 cm.
+Acaulescent or short-stemmed palm, stem up to 60 cm. Leaves pinnate, bifid at juvenile stage; sheath up to 35 cm long; petiole 1.5–3 m; rachis 80–150 cm; blade comprising 8 to 17(24) leaflets, opposite or subopposite, 30–45(–63) × (3–)6–9(–13) cm, apical leaflet deeply bifid, broadly rhomboidal, with asymmetric base, 30–45 × (20–)30–45 cm; median nerves prominent. Inflorescence: peduncle 12(–19) cm, elliptic in cross-section, densely tomentose; prophyll sometimes up to 20 cm long; peduncular bract 18–25 cm long; rachis 10–14 cm. Male flower: sepals 3–4 mm long; petals elliptic, 6–8 mm long; stamens ± 60. Fruits up to 17 per infructescence, on a rachis 3–6 cm long, obovoid, 2.5–3(–3.5) × 2.2–2.9 cm. Seed globose, 1.5–2.3(–2.5) × 2–2.5 cm.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-aire disjointe : Libéria, Nigéria, Cameroun, Guinée équatoriale, Gabon, République du Congo, République démocratique du Congo et Angola (Cabinda) ; au Gabon, présent dans l’Estuaire, le Moyen-Ogooué, la Ngounié, la Nyanga et le Haut-Ogooué. Statut de conservation : Préoccupation mineure (LC)
+Disjunct distribution: Liberia, Nigeria, Cameroon, Equatorial Guinea, Gabon, Republic of the Congo, Democratic Republic of the Congo and Angola (Cabinda); in Gabon, present in Estuaire, Moyen-Ogooué, Ngounié, Nyanga and Haut-Ogooué. Conservation status: Least Concern (LC)
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-zones marécageuses, dominant dans le sous-bois, sur sol argileux et sableux (Haut-Ogooué) ; au Gabon entre 5 et 400 m d’altitude, ailleurs jusqu’à 1400 m
+Swampy areas, dominant in the understory, on clay and sandy soil (Haut-Ogooué); in Gabon between 5 and 400 m altitude, elsewhere up to 1400 m
 
 ## Vernacular names
 
@@ -39,9 +38,7 @@ zones marécageuses, dominant dans le sous-bois, sur sol argileux et sableux (Ha
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Valkenburg 3234 ; 3 : van der Burgt 312a ; 6 : photo de Sunderland 3031 ; 7, 11 : Wieringa 5281 ; 8-10 : Donis 188 ). Dessin par Hans de Vries, Naturalis Biodiversity Center (©), reproduit avec permission à partir de van Valkenburg et al. (2008).
+Valkenburg 3234; 3: van der Burgt 312a; 6: photograph of Sunderland 3031; 7, 11: Wieringa 5281; 8-10: Donis 188). Drawing by Hans de Vries, Naturalis Biodiversity Center (©), reproduced with permission from van Valkenburg et al. (2008).
 
 ## Notes
 

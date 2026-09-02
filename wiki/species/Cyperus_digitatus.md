@@ -7,6 +7,12 @@ family: Cyperaceae
 vol: 44
 pages: 55-56
 source: sources/Cyperaceae_vol44_liteparse
+countries: [Gabon]
+in_region: true
+subdivisions:
+  Gabon: [Ogooué-Ivindo, Woleu-Ntem]
+habit: "herb"
+altitude_m: "300–600"
 tags: [species, generated]
 ---
 # *Cyperus digitatus* Roxb. subsp. auricomus (Sieb. ex Spreng.) Kük. Planche 29

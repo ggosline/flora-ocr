@@ -7,6 +7,12 @@ family: Cyperaceae
 vol: 44
 pages: 215-217
 source: sources/Cyperaceae_vol44_liteparse
+countries: [Central African Republic, Democratic Republic of the Congo, Gabon, Ghana, Madagascar, Senegal, Sierra Leone, Zambia]
+in_region: true
+subdivisions:
+  Gabon: [Ngounié]
+habit: "herb"
+altitude_m: "0–300"
 tags: [species, generated]
 ---
 # *Scleria lacustris* C.Wright Planche 133, Figure 26b
@@ -17,31 +23,21 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-in Sauvalle, Anales Acad. Ci. Med. Habana 8 : 152 (1871). S. aquatica Cherm., Bull. Soc. Bot. France 77 : 279 (1930). Herbe robuste, annuelle ou vivace , avec une base quelque peu spongieuse et des racines rouge foncé ou violacées, superficiellement ancrées dans le substrat ; tige généralement 1–2,5 m × 4–12 mm , triangulaire, striée de rouge ou de violet surtout à la base, glabre, mais scabre sur les angles, partiellement creuse, avec des racines adventives issues des nœuds inférieurs immergés. Feuilles nombreuses ; gaine violacée à verdâtre, triangulaire à arêtes scabres ; limbe 60 cm au plus × 1–2 cm, plan ou plié, vert vif, lisse et brillant , fortement scabre sur la marge et les nervures principales. Inflorescence longue de 1 m au plus, formée d’une panicule terminale et de 1–2 latérales, chacune à l’aisselle d’une bractée foliacée. Épillets disposés en spirale ou alternes sur les rameaux , longs de 4–6 mm, la plupart bisexués ou mâles , rarement les femelles avec des pièces mâles
-
-Partie basale du limbe et orifice de la gaine foliaire. la tige en section. – C. Partie de l’inflorescence. – D. Partie du limbe. – E. Groupe d’épillets. – – D. Fleur femelle. – E. Fruit avec hypogynium F. Épillet. – G. Fruit. Dessin original par Jana faiblement trilobé. Dessin original par Richard W. Taborska ©. Haines ©. rudimentaires ; glumes femelles brun rougeâtre foncé, apiculées ou mucronées. Akène ovoïde, 3–3,5 × 2–2,5 mm, lisse , gris à brun avec des bandes plus sombres ; hypogynium très réduit , très étroit et faiblement trilobé.
+in Sauvalle, Anales Acad. Ci. Med. Habana 8 : 152 (1871). S. aquatica Cherm., Bull. Soc. Bot. France 77 : 279 (1930). Robust herb, annual or perennial, with a somewhat spongy base and dark red or violet roots, superficially anchored in the substrate; stem generally 1–2.5 m × 4–12 mm, triangular, striated with red or violet especially at the base, glabrous, but scabrous on the angles, partially hollow, with adventitious roots arising from the lower submerged nodes. Leaves numerous; sheath violet to greenish, triangular with scabrous ribs; blade at most 60 cm × 1–2 cm, flat or folded, bright green, smooth and shiny, strongly scabrous on the margin and main veins. Inflorescence at most 1 m long, formed of a terminal panicle and 1–2 lateral ones, each at the axil of a foliaceous bract. Spikelets arranged in spiral or alternate fashion on the branches, 4–6 mm long, most of them bisexual or male, rarely females with rudimentary male parts; female glumes dark reddish-brown, apiculate or mucronate. Achene ovoid, 3–3.5 × 2–2.5 mm, smooth, gray to brown with darker bands; hypogynium very reduced, very narrow and weakly trilobed.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Sénégal, Sierra Leone, Ghana, Gabon, République Centrafricaine, République Démocratique du Congo, Zambie et Madagascar ; aussi en Amérique tropicale ; très rare au Gabon, trouvée seulement à Ste Croix des É chiras, dans la Ngounié
+Senegal, Sierra Leone, Ghana, Gabon, Central African Republic, Democratic Republic of the Congo, Zambia and Madagascar; also in tropical America; very rare in Gabon, found only at Ste Croix des Échiras, in the Ngounié
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-eau peu profonde en bordure des lacs et des marécages ; au Gabon, à 0–300 m d’altitude, jusqu’à 1140 m en Zambie
+shallow water on the margins of lakes and marshes; in Gabon, 0–300 m altitude, up to 1140 m in Zambia
 
 ## Vernacular names
 
 dirala (échira, bavarama, bavungu), dirara (bapunu), égyagya (mitsogo), gyagya (apindji), ngwè-y’oyèngè (mpongwè), obota w’oyèngè (orungu), ogoïw’oyèngèlè (nkomi), okèngèng-bekôn (fang). Note taxonomique : se reconnaît par son habitat aquatique, ses larges feuilles brillantes, ses épillets bisexués fertiles et son akène avec un hypogynium peu développé. b : Haines & Lye (1983), Hooper & Napper (1972), Piérart (1953), Robinson ibliographie (1966)
 
 ## Discussion
-
-<!-- TODO:translate — source text below, verbatim and untranslated -->
 
 a b
 

@@ -7,6 +7,12 @@ family: Arecaceae
 vol: 53
 pages: 22-25
 source: sources/Arecaceae_vol53_liteparse
+countries: [Cameroon, Equatorial Guinea, Gabon, Nigeria]
+in_region: true
+subdivisions:
+  Gabon: [Estuaire, Ngounié, Woleu-Ntem]
+habit: "liana"
+altitude_m: "500"
 tags: [species, generated]
 ---
 # *Eremospatha hookeri* (G.Mann & H.Wendl.) H.Wendl. Planche 7

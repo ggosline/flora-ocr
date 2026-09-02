@@ -7,6 +7,11 @@ family: Scrophulariaceae
 vol: 48
 pages: 141-145
 source: sources/Scrophulariaceae_vol48_liteparse
+countries: [Equatorial Guinea, Gabon]
+in_region: true
+habit: "herb"
+habitat: [rocky ground]
+altitude_m: "500"
 tags: [species, generated]
 ---
 # *Torenia mannii* Skan Planche 48
@@ -17,25 +22,19 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Fl. trop. Afr . 4(2) : 336 (1906). Perennial herb; stem branched, creeping to ascending, 28–40 cm long, glabrous. Leaf: petiole 8–18 mm; blade ovate-triangular, 20–38 × 12–23 mm, acuminate at apex, margin dentate with 8 to 10 teeth. Inflorescence: bracts similar to vegetative leaves, generally one bract per node with one flower. Flower: pedicel 12–24
 
-Fl. trop. Afr . 4(2) : 336 (1906). Herbe pérenne ; tige ramifiée, rampante à ascendante, 28–40 cm de longueur, glabre. Feuille : pétiole 8–18 mm ; limbe ovale-triangulaire, 20–38 × 12–23 mm , acuminé au sommet , marge dentée avec 8 à 10 dents. Inflorescence : bractées semblables aux feuilles végétatives, généralement une bractée par nœud avec une fleur. Fleur : pédicelle 12–24
+F. Flower. – G. Corolla open and spreading. – H, I. Abaxial stamens. – K. Adaxial stamen. (A–K : Dauby et al. 836). Drawing by E. Fischer (©).
 
-F. Fleur. – G. Corolle ouverte et étalée. – H, I. Étamines abaxiales. – K. Étamine adaxiale. (A–K : Dauby et al. 836). Dessin par E. Fischer (©).
-
-mm ; calice glabre, tube 8–12 mm de longueur, lobes 2–3 mm de longueur, acuminés ; corolle mauve à deux bandes blanches sur la lèvre inférieure, tube 12–15 mm de longueur, lèvre supérieure entière et 5 mm de longueur, lèvre inférieure trilobée et 5–6 mm de longueur ; filets des étamines antérieures (abaxiales) 4 mm de longueur, genouillées en forme de Z , filets des étamines postérieures (adaxiales), 1,5(–1,8) mm ; ovaire 5–7 mm de longueur ; style 10 mm. Fruit ovoïde, 10 mm de longueur.
+mm; calyx glabrous, tube 8–12 mm long, lobes 2–3 mm long, acuminate; corolla mauve with two white bands on the lower lip, tube 12–15 mm long, upper lip entire and 5 mm long, lower lip trilobate and 5–6 mm long; filaments of anterior (abaxial) stamens 4 mm long, geniculate in Z-shape, filaments of posterior (adaxial) stamens, 1.5(–1.8) mm; ovary 5–7 mm long; style 10 mm. Fruit ovoid, 10 mm long.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-espèce subendémique à la Guinée équatoriale (Rio Muni) et probablement au Gabon (voir la Note taxonomique ci-dessous)
+species subendemmic to Equatorial Guinea (Rio Muni) and probably to Gabon (see the Taxonomic Note below)
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-dalles rocheuses sur les inselbergs en forêt ; probablement toujours au-dessus de 500 m, jusqu’à 1100 m d’altitude. Note taxonomique : L’espèce a été décrite par Skan, fondée sur un seul échantillon récolté par Gustav Mann en 1862 dans le « Sierra del Crystal » (Monts de Cristal). En 2002, l’espèce a été redécouverte dans le Parc National Monte Alen en Guinée équatoriale sur des dalles rocheuses, à Engong à 1100 m. La provenance du type, indiqué par Fischer (1992) comme originaire du Gabon, n’est pas certaine dans la mesure où les Monts de Cristal sont situés dans le sud de la Guinée équatoriale jusqu’au nord du Gabon. La présence de Torenia mannii au Gabon reste alors à confirmer. B : Fischer (1992, 1995), Fischer & Lachenaud (2013). ibliographie
+rocky slabs on inselbergs in forest; probably always above 500 m, up to 1100 m altitude. Taxonomic Note: The species was described by Skan, based on a single specimen collected by Gustav Mann in 1862 in the "Sierra del Crystal" (Monts de Cristal). In 2002, the species was rediscovered in Monte Alen National Park in Equatorial Guinea on rocky slabs, at Engong at 1100 m. The provenance of the type, indicated by Fischer (1992) as originating from Gabon, is not certain insofar as the Monts de Cristal are located in southern Equatorial Guinea to northern Gabon. The presence of Torenia mannii in Gabon remains to be confirmed. B : Fischer (1992, 1995), Fischer & Lachenaud (2013). Bibliography
 
 ## Notes
 

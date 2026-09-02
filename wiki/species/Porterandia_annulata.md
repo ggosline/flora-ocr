@@ -7,6 +7,7 @@ family: Rubiaceae
 vol: 17
 pages: 126-128
 source: sources/Rubiaceae_vol17_paddle
+habit: "liana"
 tags: [species, generated]
 ---
 # *Porterandia annulata* (K. Schum.) Keay

@@ -7,6 +7,10 @@ family: Colchicaceae
 vol: 41
 pages: 32-33
 source: sources/Colchicaceae_vol41_liteparse
+countries: [Gabon, Madagascar, Senegal]
+in_region: true
+habit: "herb"
+altitude_m: "680"
 tags: [species, generated]
 ---
 # *Gloriosa superba* L. var. superba Planche 7

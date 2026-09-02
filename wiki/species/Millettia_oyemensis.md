@@ -7,6 +7,11 @@ family: Leguminosae
 vol: 49
 pages: 276-277
 source: sources/Millettiaspeciesfabaceae_vol49_liteparse
+countries: [Gabon]
+in_region: true
+subdivisions:
+  Gabon: [Woleu-Ntem]
+habit: "liana"
 tags: [species, generated]
 ---
 # *Millettia oyemensis* Pellegr.

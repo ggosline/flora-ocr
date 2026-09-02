@@ -44,7 +44,7 @@ Walker : Mission de Sindara, terrain humide.
 
 ![Acroceras zizanoides](../sources/Gramineae_vol05_paddle/figures/fig_004_p0025.png)
 
-*PL. III. — Acroceras zizanoides (H. B. et K.) Dandy (Tisserant 2704) : 1, inflorescence; 2, partie inférieure du chaume et feuilles; 3, épillet vu de profil (longueur : 6 mm env.); 4, fleur fertile.*
+*PL. III. — Acroceras zizanoides (H. B. et K.) Dandy (Tisserant 2704) : 1, inflorescence; 2, lower part of the culm and leaves; 3, spikelet viewed in profile (length: 6 mm approx.); 4, fertile flower.*
 
 ## Notes
 

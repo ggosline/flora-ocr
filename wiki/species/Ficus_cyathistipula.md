@@ -7,6 +7,9 @@ family: Moraceae
 vol: 26
 pages: 235-239
 source: sources/Moraceae_vol26_paddle
+countries: [Angola, Cameroon, Cote d'Ivoire, Gabon, Kenya, Malawi, Sierra Leone, Tanzania, Uganda, Zambia]
+in_region: true
+altitude_m: "8"
 tags: [species, generated]
 ---
 # *Ficus cyathistipula* Warburg
@@ -57,11 +60,11 @@ Hladik 2448, riv. Ivindo, 19 km S Makokou (fig., janv.).
 
 ![Ficus cyathistipula](../sources/Moraceae_vol26_paddle/figures/fig_071_p0236.png)
 
-*PL. 70. - Ficus abscondita C.C. Berg : 1, rameau avec feuilles et figues × 1/2 ; 2, rameau avec stipules et figues × 1/2 ; 3, fleur à galle avec bractée (1, Hallé N. 3225 ; 2, 3, Leeuwenberg 8769, Cameroun). (Repris d'Adansonia, sér. 2, 20 (3) : 265, 1980).*
+*PL. 70. - Ficus abscondita C.C. Berg : 1, branch with leaves and figs × 1/2 ; 2, branch with stipules and figs × 1/2 ; 3, gall flower with bract (1, Hallé N. 3225 ; 2, 3, Leeuwenberg 8769, Cameroon). (Reprinted from Adansonia, sér. 2, 20 (3) : 265, 1980).*
 
 ![Ficus cyathistipula](../sources/Moraceae_vol26_paddle/figures/fig_072_p0238.png)
 
-*PL. 71. – Ficus cyathistipula Warb.: 1, rameau avec feuilles et figues × 1; 2, rameau avec feuilles × 1; 3, figue × 1 (1, Le Testu 3570, Centrafrique; 2, 3, Breteler 2319, Cameroun).*
+*PL. 71. – Ficus cyathistipula Warb.: 1, branch with leaves and figs × 1; 2, branch with leaves × 1; 3, fig × 1 (1, Le Testu 3570, Central African Republic; 2, 3, Breteler 2319, Cameroon).*
 
 ## Notes
 
