@@ -72,9 +72,72 @@ TRAILING_HEADING = "Discussion"
 
 RULE_RE = re.compile(r"^-{3,}$")
 
+# A markdown heading inside a block body -- segmentation noise, usually a
+# contents list that landed in a treatment. Left as-is it becomes a section of
+# the page, so the marker is dropped and the text kept as prose.
+INNER_HEADING_RE = re.compile(r"^#{1,6}\s*")
+
 # A vernacular name standing alone under the heading: a short line, no digits,
 # no citation punctuation.
 VERNACULAR_RE = re.compile(r"^[^\d(),.:;]{2,40}$")
+
+def _paragraph_split(body: str) -> list[list[str]]:
+    """Group body lines into paragraphs.
+
+    Blank lines separate paragraphs, but the liteparse volumes emit none at
+    all: a whole treatment arrives as one run of wrapped lines. Splitting on
+    blank lines alone left those as a single paragraph, the label regex never
+    fired, and 130 of 474 Leguminosae pages came out with no description while
+    the text sat in the bundle all along. So a labelled line also opens a
+    paragraph, which costs nothing on sources that do have blank lines.
+    """
+    paragraphs: list[list[str]] = []
+    current: list[str] = []
+    for line in body.split("\n"):
+        stripped = line.strip()
+        if not stripped:
+            if current:
+                paragraphs.append(current)
+                current = []
+            continue
+        if LABEL_RE.match(stripped) and current:
+            paragraphs.append(current)
+            current = []
+        current.append(stripped)
+    if current:
+        paragraphs.append(current)
+    return paragraphs
+
+
+def _join(lines: list[str]) -> str:
+    """Join wrapped lines, closing up words broken across a line end."""
+    out = ""
+    for line in lines:
+        if not out:
+            out = line
+        elif out.endswith("-"):
+            out = out[:-1] + line          # `par-` + `tiellement`
+        else:
+            out += " " + line
+    return out.strip()
+
+
+# A leading citation chain: "Bull. Jard. Bot. Natl. Belg. 66 : 20 (1997). --
+# Pellegrin, Leg. Gabon : 78 (1948)." Where the source has no blank lines the
+# protologue and the description arrive as one paragraph, so dropping any
+# paragraph that starts like a citation throws the description away with it.
+# The chain is stripped from the front instead, and what follows is kept.
+LEADING_CITATION_RE = re.compile(
+    r"^\s*(?:[—–-]\s*)?[A-Z][^()]{5,160}?\(\d{4}\)\s*[.;]?\s*")
+
+
+def _strip_leading_citations(text: str) -> str:
+    while True:
+        stripped = LEADING_CITATION_RE.sub("", text, count=1)
+        if stripped == text:
+            return text
+        text = stripped
+
 
 SYNONYM_RE = re.compile(r"^\s*=\s*(.+)$")
 # "### 1. Afzelia pachyloba Harms (PL. 24, p. 113)" -> drop number and plate
@@ -91,9 +154,10 @@ def heading_of(label: str) -> tuple[str, bool]:
 def parse_block(text: str) -> dict:
     """Split a species block into description plus its labelled sections."""
     head, body = split_heading(text)
-    body = "\n".join(line for line in clean(body).split("\n")
+    body = "\n".join(INNER_HEADING_RE.sub("", line)
+                     for line in clean(body).split("\n")
                      if not RULE_RE.match(line.strip()))
-    paragraphs = [p.strip() for p in re.split(r"\n\s*\n", body) if p.strip()]
+    paragraphs = [_join(p) for p in _paragraph_split(body)]
 
     synonyms: list[str] = []
     description: list[str] = []
@@ -101,8 +165,7 @@ def parse_block(text: str) -> dict:
     sections: list[tuple[str, bool, list[str]]] = []
     current: tuple[str, bool, list[str]] | None = None
 
-    for para in paragraphs:
-        one_line = " ".join(para.split("\n")).strip()
+    for one_line in paragraphs:
         match = LABEL_RE.match(one_line)
         if match:
             label = (match.group(1) or match.group(2)).strip()
@@ -124,7 +187,10 @@ def parse_block(text: str) -> dict:
             synonyms.append(synonym.group(1).strip())
             continue
         if is_citation(one_line):
-            continue                    # protologue and later-reference chain
+            remainder = _strip_leading_citations(one_line)
+            if len(remainder) < 60:
+                continue                # the paragraph was citation and nothing else
+            one_line = remainder        # keep the description that followed it
         if not description and not sections and VERNACULAR_RE.match(one_line):
             vernacular.append(one_line)  # a bare name under the heading
             continue
