@@ -37,45 +37,44 @@ tags: [genus, generated]
         - **10.** Limb coriaceous (5-13 × 2-4); inflorescences 3-6 cm finely pubescent; anthers glabrous; tree 20 m → B. Schmitzii Rob. et Wilcz. B. Bx. 19 : 474 (1949). Type: Schmitz 1998, H t Katanga.
         - **10′.** Limb papyraceous (9-19 × 3-6) with translucid points; inflorescences 3-6 cm finely pubescent; anthers pubescent; tree 10 m → B. ambigua Rob. et Wilcz. B. Bx. 19 : 475 (1949). Type: Robyns 2106, H t Katanga.
 - **1′.** Leaves hairy beneath, at least under the nerves; young branches hairy (except B. Dawei).
-
-### II. Ovary glabrous.
-
-- **12.** Leaves tomentulose beneath; hairs crispy-woolly, entangled; petiole 5-10 mm.
-  - **13.** Tomentum rust-coloured; f. (7-12 × 3-5) acute, punctate, above olivaceous; inflorescences 4-10 cm; fl. diam. 2 mm; tree 25 m → [[Beilschmiedia_fulva\|*B. fulva*]]
-  - **13′.** Tomentum ochre-yellow; f. (8-18 × 4-12) obtuse; inflorescences 5-14 cm; fl. diam. 2-3 mm; tree 20-50 m
-- **12′.** Leaves puberulent beneath: hairs not crispy → *L. discolorous*
-  - **15.** Limb narrow (7-10 × 2-4) petiole 10-15 mm; inflorescences 4-5 cm tomentulose; fl. diam. 2 mm; leaves: above black, below olivaceous → B. Letouzeyi Rob. et Wilcz. B. Bx. 20 : 198 (1950). Type: Letouzey 1351, Cameroun.
-  - **15′.** Limb broad (5-18 × 3-8) petiole 10-25 mm; inflorescences 4-10 cm puberulent; fl. diam. 3 mm; leaves: above olivaceous, below brown → B. Louisii Rob. et Wilcz. B. Bx. 19 : 471 (1949). Type: Louis 3086, Congo ex-belge.
-- **14′.** Limb concolorous.
-  - **16.** F. (10-20 × 5-9) papyraceous, punctate, petiole 10-20 mm; inflorescences 5-9 cm puberulent with yellowish indument. B. Hermanii Rob. et Wilcz. B. Bx. 19 : 473 (1949). Type: Herman 2238, Bas Katanga.
-  - **16′.** F. (8-18 × 4-7) coriaceous; petiole 3-10 mm; inflorescences
-    - **3.** 8 cm puberulent with tawny indument → B. mayumbensis Rob. et Wilcz. B. Bx. 20 : 201 (1950). Type: Donis 2144, Mayumbe, Congo. II'. Ovary hairy.
-      - **17.** Branches pubescent, leaves concolorous or discolorous.
-        - **18.** Limb suborbicular (12-15 × 7-9) coriaceous, discolorous: reddish above, greenish below; glabrescent to puberulent beneath → B. Tisserantii A. Chev. (cited above).
-        - **18′.** Limb elongate (6-26 × 3-9) concolorous or slightly discolorous, olivaceous above, brown-reddish below; nerves puberulent beneath → [[Beilschmiedia_corbisieri\|*B. corbisieri*]]
-      - **17′.** Branches glabrous; limb discolorous, subcoriaceous (7-12 × 3-5) inflorescence 7 cm puberulent; pedicels slender 2-4 mm → …… B. Dawei Rob. et Wilcz. B. Bx. : 204 (1950). Type: Dawe 964 (K) Uganda. REDUCED KEY TO THE SPECIES OF THE SUBGENUS SYNTHORADENIA RECOGNIZED IN GABON Based on leaves:
-        - **1.** Leaves glabrous.
-          - **2.** Young branches more or less pubescent.
-            - **3.** F. (14-25 × 6-10) with broad acumen or without acumen; petiole 1 cm → [[Beilschmiedia_ngriki\|*B. ngriki*]]
-    - **3′.** F.  (4-15 × 2-5) not acuminate; petiole 5-10 mm → [[Beilschmiedia_oblongifolia\|*B. oblongifolia*]]
-- **2′.** Young branches glabrous; f. (14-28 × 8-10); petiole 25-30 mm → [[Beilschmiedia_anacardioides\|*B. anacardioides*]]
-- **1′.** Leaves more or less hairy beneath; young branches hairy.
-  - **4.** Leaves tomentulose beneath over the entire limb.
-    - **5.** Tomentum rust-coloured; f. (5-12 × 3-5) punctate.. 3. B. fulva.
-    - **5′.** Tomentum ochre-yellow; f. (6-18 × 4-12) → [[Beilschmiedia_congolana\|*B. congolana*]]
-  - **4′.** Leaves puberulent under the nerves only.
-    - **6.** Leaves ± acuminate (14-25 × 6-10).
-      - **7.** Petiole 10 mm, limb coriaceous, acumen short and broad.. 5. B. ngriki.
-      - **7′.** Petiole 15 mm, limb subcoriaceous, acumen fine → [[Beilschmiedia_corbisieri\|*B. corbisieri*]]
-    - **6′.** Leaves not acuminate (7-14 × 3-6) coriaceous. 6 bis. B. diversiflora. Based on floral characters: → *O. glabrous*
-      - **2.** Flower glabrous externally: → [[Beilschmiedia_oblongifolia\|*B. oblongifolia*]]
-      - **2′.** Flower hairy externally.
-        - **3.** Tepals equally half the flower; inflorescences 6-8 cm, tomentulose → [[Beilschmiedia_anacardioides\|*B. anacardioides*]]
-        - **3′.** Tepals equalling a third of the flower.
-          - **4.** Inflorescences 4-14, tomentulose.
-            - **5.** Flower 1.8 mm broad, bell-shaped → [[Beilschmiedia_fulva\|*B. fulva*]]
-            - **5′.** Flower 2 mm broad, cup-shaped → [[Beilschmiedia_congolana\|*B. congolana*]]
-          - **4′.** Inflorescences 3-4 cm, puberulent → [[Beilschmiedia_ngriki\|*B. ngriki*]]
+  - **II.** Ovary glabrous.
+    - **12.** Leaves tomentulose beneath; hairs crispy-woolly, entangled; petiole 5-10 mm.
+      - **13.** Tomentum rust-coloured; f. (7-12 × 3-5) acute, punctate, above olivaceous; inflorescences 4-10 cm; fl. diam. 2 mm; tree 25 m → [[Beilschmiedia_fulva\|*B. fulva*]]
+      - **13′.** Tomentum ochre-yellow; f. (8-18 × 4-12) obtuse; inflorescences 5-14 cm; fl. diam. 2-3 mm; tree 20-50 m
+    - **12′.** Leaves puberulent beneath: hairs not crispy → *L. discolorous*
+      - **15.** Limb narrow (7-10 × 2-4) petiole 10-15 mm; inflorescences 4-5 cm tomentulose; fl. diam. 2 mm; leaves: above black, below olivaceous → B. Letouzeyi Rob. et Wilcz. B. Bx. 20 : 198 (1950). Type: Letouzey 1351, Cameroun.
+      - **15′.** Limb broad (5-18 × 3-8) petiole 10-25 mm; inflorescences 4-10 cm puberulent; fl. diam. 3 mm; leaves: above olivaceous, below brown → B. Louisii Rob. et Wilcz. B. Bx. 19 : 471 (1949). Type: Louis 3086, Congo ex-belge.
+  - **14′.** Limb concolorous.
+    - **16.** F. (10-20 × 5-9) papyraceous, punctate, petiole 10-20 mm; inflorescences 5-9 cm puberulent with yellowish indument. B. Hermanii Rob. et Wilcz. B. Bx. 19 : 473 (1949). Type: Herman 2238, Bas Katanga.
+    - **16′.** F. (8-18 × 4-7) coriaceous; petiole 3-10 mm; inflorescences
+      - **3.** 8 cm puberulent with tawny indument → B. mayumbensis Rob. et Wilcz. B. Bx. 20 : 201 (1950). Type: Donis 2144, Mayumbe, Congo.
+  - **II′.** Ovary hairy.
+    - **17.** Branches pubescent, leaves concolorous or discolorous.
+      - **18.** Limb suborbicular (12-15 × 7-9) coriaceous, discolorous: reddish above, greenish below; glabrescent to puberulent beneath → B. Tisserantii A. Chev. (cited above).
+      - **18′.** Limb elongate (6-26 × 3-9) concolorous or slightly discolorous, olivaceous above, brown-reddish below; nerves puberulent beneath → [[Beilschmiedia_corbisieri\|*B. corbisieri*]]
+    - **17′.** Branches glabrous; limb discolorous, subcoriaceous (7-12 × 3-5) inflorescence 7 cm puberulent; pedicels slender 2-4 mm → …… B. Dawei Rob. et Wilcz. B. Bx. : 204 (1950). Type: Dawe 964 (K) Uganda. REDUCED KEY TO THE SPECIES OF THE SUBGENUS SYNTHORADENIA RECOGNIZED IN GABON Based on leaves:
+      - **1.** Leaves glabrous.
+        - **2.** Young branches more or less pubescent.
+          - **3.** F. (14-25 × 6-10) with broad acumen or without acumen; petiole 1 cm → [[Beilschmiedia_ngriki\|*B. ngriki*]]
+          - **3′.** F.  (4-15 × 2-5) not acuminate; petiole 5-10 mm → [[Beilschmiedia_oblongifolia\|*B. oblongifolia*]]
+        - **2′.** Young branches glabrous; f. (14-28 × 8-10); petiole 25-30 mm → [[Beilschmiedia_anacardioides\|*B. anacardioides*]]
+      - **1′.** Leaves more or less hairy beneath; young branches hairy.
+        - **4.** Leaves tomentulose beneath over the entire limb.
+          - **5.** Tomentum rust-coloured; f. (5-12 × 3-5) punctate.. 3. B. fulva.
+          - **5′.** Tomentum ochre-yellow; f. (6-18 × 4-12) → [[Beilschmiedia_congolana\|*B. congolana*]]
+        - **4′.** Leaves puberulent under the nerves only.
+          - **6.** Leaves ± acuminate (14-25 × 6-10).
+            - **7.** Petiole 10 mm, limb coriaceous, acumen short and broad.. 5. B. ngriki.
+            - **7′.** Petiole 15 mm, limb subcoriaceous, acumen fine → [[Beilschmiedia_corbisieri\|*B. corbisieri*]]
+          - **6′.** Leaves not acuminate (7-14 × 3-6) coriaceous. 6 bis. B. diversiflora. Based on floral characters: → *O. glabrous*
+            - **2.** Flower glabrous externally: → [[Beilschmiedia_oblongifolia\|*B. oblongifolia*]]
+            - **2′.** Flower hairy externally.
+              - **3.** Tepals equally half the flower; inflorescences 6-8 cm, tomentulose → [[Beilschmiedia_anacardioides\|*B. anacardioides*]]
+              - **3′.** Tepals equalling a third of the flower.
+                - **4.** Inflorescences 4-14, tomentulose.
+                  - **5.** Flower 1.8 mm broad, bell-shaped → [[Beilschmiedia_fulva\|*B. fulva*]]
+                  - **5′.** Flower 2 mm broad, cup-shaped → [[Beilschmiedia_congolana\|*B. congolana*]]
+                - **4′.** Inflorescences 3-4 cm, puberulent → [[Beilschmiedia_ngriki\|*B. ngriki*]]
 - **1′.** Ovary hairy.
   - **6.** Entirely. Inflorescences slender 6-12 cm; tepals equally two-thirds of the flower, spread; elliptical fruit → [[Beilschmiedia_corbisieri\|*B. corbisieri*]]
   - **6′.** In the upper part only; inflorescences robust 4-8 cm; tepals equally a third of the flower, more or less erect; fruit attenuate at the base → 6 bis. B. diversiflora. SUBGENUS STEMONADENIA KEY TO SECTIONS EUBEILSCHMIEDIA AND HUFELANDIA COMBINED

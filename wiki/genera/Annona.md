@@ -31,14 +31,13 @@ Like Anonidium, Annona are part of an evolutionary series containing genera amon
 
 ## Key to the species
 
-### I. Floral buds globose; petals ovate, 6, subequal or the inner ones slightly shorter.
-
-- **2.** Fruits globose to ovoid, smooth or slightly scaly-areolate.
-  - **3.** Leaves acuminate, always glabrous, with reticulum prominent on both faces; seeds margined, with non-visible aril → *A. glabra*
-  - **3′.** Young leaves always pubescent or tomentose, glabrate to densely pubescent or tomentose in adult state; seeds not margined, with pectinate aril.
-    - **4.** Abaxial face of adult leaves glabrate to densely pubescent-woolly, hairs particularly dense on the nerves.. . . 2. A. senegalensis ssp. senegalensis
-    - **4′.** Abaxial face of leaves tomentose, with short and crisped hairs, covering the entire surface of the blade → A. senegalensis ssp. oulotricha
-- **2′.** Fruits ovoid to ovoid-oblong, muricate-spiny; leaves shiny on the adaxial face, glabrous on the abaxial face → *A. muricata*
+- **1.** Floral buds globose; petals ovate, 6, subequal or the inner ones slightly shorter.
+  - **2.** Fruits globose to ovoid, smooth or slightly scaly-areolate.
+    - **3.** Leaves acuminate, always glabrous, with reticulum prominent on both faces; seeds margined, with non-visible aril → *A. glabra*
+    - **3′.** Young leaves always pubescent or tomentose, glabrate to densely pubescent or tomentose in adult state; seeds not margined, with pectinate aril.
+      - **4.** Abaxial face of adult leaves glabrate to densely pubescent-woolly, hairs particularly dense on the nerves.. . . 2. A. senegalensis ssp. senegalensis
+      - **4′.** Abaxial face of leaves tomentose, with short and crisped hairs, covering the entire surface of the blade → A. senegalensis ssp. oulotricha
+  - **2′.** Fruits ovoid to ovoid-oblong, muricate-spiny; leaves shiny on the adaxial face, glabrous on the abaxial face → *A. muricata*
 - **1′.** Floral buds linear; petals linear-oblong, obtuse, 3, the inner ones absent or very rudimentary.
   - **5.** Leaves glabrous or sparsely pubescent on the abaxial face.
     - **6.** Fruits scaly with prominent, rounded areoles at the apex; leaves elliptic, with obtuse apex.. . . 4. A. squamosa

@@ -33,10 +33,9 @@ Although their position in the genus has been much discussed, X. Quintasii and X
 
 ## Key to the species
 
-### I. Styles short, barely exceeding the stamens; base of inner petals furnished on the inside with two longitudinal membranes; carpels 2-4; mericarps stipitate, cylindric; seeds vertical, ±oblique, uniseriate; aril membranous, laciniate, covering almost entirely the seed.
-
-- **2.** Outer petals linear-oblong, reaching 10-20 mm in length; base of inner petals enlarged and concave, oblong, equal to 1/4 of the petal length, and lacking an appendage at its apex; styles shortly cylindric, shorter than the ovaries → *X. quintasii*
-- **2′.** Outer petals linear-oblong, not exceeding 13 mm in length; base of inner petals oblong, equal to half the petal length, and furnished at the apex with a pubescent appendage directed downward; styles linear, almost as long as the ovaries → [[Xylopia_aurantiiodora\|*X. aurantiiodora*]]
+- **1.** Styles short, barely exceeding the stamens; base of inner petals furnished on the inside with two longitudinal membranes; carpels 2-4; mericarps stipitate, cylindric; seeds vertical, ±oblique, uniseriate; aril membranous, laciniate, covering almost entirely the seed.
+  - **2.** Outer petals linear-oblong, reaching 10-20 mm in length; base of inner petals enlarged and concave, oblong, equal to 1/4 of the petal length, and lacking an appendage at its apex; styles shortly cylindric, shorter than the ovaries → *X. quintasii*
+  - **2′.** Outer petals linear-oblong, not exceeding 13 mm in length; base of inner petals oblong, equal to half the petal length, and furnished at the apex with a pubescent appendage directed downward; styles linear, almost as long as the ovaries → [[Xylopia_aurantiiodora\|*X. aurantiiodora*]]
 - **1′.** Styles clearly exceeding the stamens; base of inner petals lacking on the inside two longitudinal lateral membranes:
   - **3.** Outer petals 5-6 times longer than inner petals; inner petals rhombic, 5-6 mm long; mericarps stipitate, cylindric; seeds vertical; aril laciniate, formed of orange languettes.
     - **4.** Leaves coriaceous; reticulation with fine meshes; seeds 10-12 mm long, 6-7 mm wide → 3. X. rubescens var. rubescens

@@ -31,9 +31,9 @@ Wilks & Issembé (2000).
 
 ## Key to the species
 
-Petiole 0.5–1 cm, climbing foliage, sometimes also as long as the width at the level of the secondary nerves in 4–5 pairs; axes of the inflorescences densely or weakly pubescent; calyx pubescent on the outside; tube of the corolla 1–1.5 times also as long as the lobes; fruit pubescent ............. A. boonei
+Petiole 0–— cm, climbing foliage –– times as long as wide; secondary nerves in – pairs; panicles of inflorescences densely or weakly pubescent; calyx pubescent on the outside; corolla tube –– times as long as the lobes; fruit pubescent ............. A. boonei
 
-Petiole absent or up to 0.5 cm, climbing foliage, 1–1.5 times also as long as the width at the level of the secondary nerves in 4–5 pairs; axes of the inflorescences glabrous or sparsely pubescent, only on the last branches; calyx glabrous or sometimes with a few minuscule hairs; lobes with a few marginal hairs; tube of the corolla 1–1.5 times also as long as the lobes; fruit glabrous or with a few minuscule hairs ................................................................................................. A. congensis
+Petiole null or up to – cm, climbing foliage – times as long as wide; secondary nerves in – pairs; panicles of inflorescences glabrous or sparsely pubescent, uniquely on the last branches; calyx glabrous or sometimes with a few minute hairs; lobes with a few marginal hairs; corolla tube – times as long as the lobes; fruit glabrous or with a few minute hairs ................................................................................................. A. congensis
 
 ## Species in region
 

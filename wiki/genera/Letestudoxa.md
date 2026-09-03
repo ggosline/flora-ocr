@@ -34,7 +34,8 @@ I'. Leaves rounded to emarginate at the apex, densely pubescent on the lower sur
 
 ## Key to the species
 
-### I. Leaves attenuate or shortly acuminate at the apex, densely rusty-pubescent on the lower face when young, with short, curly, simple or fasciculate hairs, becoming glabrescent; floral bud ovoid-globose, apiculate at the apex; petals yellow, subequal; stamens 3 mm long; carpels 5 mm long... I'. Leaves rounded to emarginate at the apex, densely pubescent on the lower face, with long, soft, simple, ± entangled and persistent hairs; floral bud subglobose flattened, rounded at the apex; petals dark pink, the inner ones much narrower; stamens 5 mm long; carpels 10 mm long...
+- **I.** Leaves attenuate or shortly acuminate at the apex, densely rusty-pubescent on the lower face when young, with short, curly, simple or fasciculate hairs, becoming glabrescent; floral bud ovoid-globose, apiculate at the apex; petals yellow, subequal; stamens 3 mm long; carpels 5 mm long
+- **I′.** Leaves rounded to emarginate at the apex, densely pubescent on the lower face, with long, soft, simple, ± entangled and persistent hairs; floral bud subglobose flattened, rounded at the apex; petals dark pink, the inner ones much narrower; stamens 5 mm long; carpels 10 mm long
 
 ## Species in region
 

@@ -35,7 +35,8 @@ I'.Bractées suborbiculaires;bouton floral ové,aigu au sommet,a arétes forteme
 
 ## Key to the species
 
-### I. Bracts elliptic; floral bud ovoid-oblong, with ridges barely marked, 7–13 mm long, 5–7 mm wide; sepals thin; petals 9–10 in 2–3 ± irregular cycles; stigmas bilobed..... 1. T. Hallei I'. Bracts suborbicular; floral bud ovoid, acute at apex, with ridges strongly marked, 20 mm long, 10 mm wide; sepals thick, subwoody; petals 6, in two regular cycles; stigmas linear, entire.. T. congolensis
+- **I.** Bracts elliptic; floral bud ovoid-oblong, with ridges barely marked, 7–13 mm long, 5–7 mm wide; sepals thin; petals 9–10 in 2–3 ± irregular cycles; stigmas bilobed → [[Toussaintia_hallei\|*T. hallei*]]
+- **I′.** Bracts suborbicular; floral bud ovoid, acute at apex, with ridges strongly marked, 20 mm long, 10 mm wide; sepals thick, subwoody; petals 6, in two regular cycles; stigmas linear, entire.. T. congolensis
 
 ## Species in region
 

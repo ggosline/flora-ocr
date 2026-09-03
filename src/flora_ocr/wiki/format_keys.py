@@ -55,11 +55,46 @@ RULE_RE = re.compile(r"^-{3,}$")
 # "I. D'apres les caracteres FOLIAIRES ..." -- a volume with several keys heads
 # each one like this. Left as prose it merges into the paragraph above it.
 SUBKEY_RE = re.compile(r"^\s*([IVX]{1,4})\s*[.)]\s*(.+)$")
+# A sub-key heading is a title, not a lead. Several volumes number their leads
+# with roman numerals instead of arabic ("I. Floral buds globose; petals ovate
+# ..."), and one page opens a paragraph with the genus abbreviated to "V.", so
+# the numeral alone proves nothing. A heading either says what the key is keyed
+# on, or is set in capitals.
+SUBKEY_TITLE_RE = re.compile(
+    r"(KEY\s+TO|CL[EÉ]F?S?\s+DE|D['’]APR[EÈ]S|BASED\s+ON|ACCORDING\s+TO"
+    r"|SPECIMENS|ECHANTILLONS|[ÉE]CHANTILLONS)", re.I)
+# roman-numeral leads: "I.", "I'.", "IV)."
+ROMAN_LEAD_RE = re.compile(r"^\s*([IVXL]{1,5})\s*(['’]?)\s*[.)]\s*[-–—]?\s*(.*)$")
+ROMAN_VALUES = {"I": 1, "V": 5, "X": 10, "L": 50}
+
+
+def _roman(text: str) -> int:
+    total = prev = 0
+    for ch in reversed(text.upper()):
+        value = ROMAN_VALUES.get(ch, 0)
+        total += -value if value < prev else value
+        prev = max(prev, value)
+    return total
+
+
+def _is_roman_lead(text: str) -> bool:
+    """A lead numbered with a roman numeral, as several volumes do.
+
+    Guarded on the following word being capitalised: "V. cuspidata is widely
+    distributed ..." is a sentence about a species, not lead V.
+    """
+    m = ROMAN_LEAD_RE.match(text)
+    return bool(m) and bool(re.match(r"[A-Z0-9(]", m.group(3) or " "))
 
 
 def _is_subkey(text: str) -> bool:
     m = SUBKEY_RE.match(text)
-    return bool(m) and len(m.group(2)) > 12
+    if not m or len(m.group(2)) <= 12:
+        return False
+    body = m.group(2)
+    letters = [c for c in body if c.isalpha()]
+    mostly_caps = letters and sum(c.isupper() for c in letters) / len(letters) > 0.6
+    return bool(SUBKEY_TITLE_RE.search(body)) or bool(mostly_caps)
 
 
 def _is_bare_target(text: str) -> bool:
@@ -102,7 +137,7 @@ def _rejoin(lines: list[str]) -> list[str]:
         # which is how "II. Based on specimens with male flowers" ended up
         # inside couplet 37' and "III." inside couplet 34'.
         if (NUMBERED_LEAD_RE.match(line) or BARE_LEAD_RE.match(line)
-                or _is_subkey(stripped) or not out):
+                or _is_roman_lead(stripped) or _is_subkey(stripped) or not out):
             out.append(stripped)
         else:
             out[-1] = f"{out[-1]} {stripped}"
@@ -133,6 +168,11 @@ def format_key(text: str, genus: str) -> str | None:
     rendered: list[str] = []
     current = ""
     changed = False
+    roman_leads = [l for l in leads
+                   if ROMAN_LEAD_RE.match(l) and not NUMBERED_LEAD_RE.match(l)
+                   and not _is_subkey(l)]
+    # two is enough: a key with a single couplet still numbers it I / I'
+    roman_key = len(roman_leads) >= 2
     # A printed key pairs its couplets by indentation, and the scan throws that
     # away -- every lead comes back at column 0, so the half that answers "1."
     # can sit pages below it with nothing to show they belong together. The
@@ -158,8 +198,16 @@ def format_key(text: str, genus: str) -> str | None:
         number = ""
         first_half = False
         m = NUMBERED_LEAD_RE.match(lead)
+        roman = False
+        if m is None and _is_roman_lead(lead):
+            m = ROMAN_LEAD_RE.match(lead)
+            roman = True
         if m:
             number, prime, body = m.group(1), m.group(2), m.group(3)
+            if roman:
+                # A key numbered in roman keeps them; a lone "I." among arabic
+                # leads is the scan's reading of "1." and is renumbered to match.
+                number = number if roman_key else str(_roman(number))
             first_half = not prime
             if prime:
                 match = next((i for i, (n, _) in enumerate(stack)
@@ -337,7 +385,9 @@ def rebuild(dry_run: bool, model: str, workers: int) -> int:
             continue
         formatted = format_key(english, name)
         if formatted is None:
-            continue
+            # nothing in it parsed as a lead; still replace the section, or the
+            # page keeps whatever an older run of the formatter left behind
+            formatted = english.strip() + "\n"
         text = path.read_text(encoding="utf-8")
         block = f"## Key to the species\n\n{formatted}\n"
         m = KEY_HEADING_RE.search(text)
