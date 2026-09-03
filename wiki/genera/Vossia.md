@@ -31,7 +31,9 @@ Alongside V. cuspidata in its typical form, it is possible to distinguish the va
 
 ## Key to the species
 
-- **1′.** 4 to 7 racemes digitate at the apex of the culms; prolongation of the lower glumes 20 to 35 mm long; rachis articles 2 to 3 mm wide at the apex → V. cuspidata var. polystachya. V. cuspidata is widely distributed throughout tropical Africa and the Indies. The species and its variety are semi-aquatic plants often forming floating meadows. Good forage plants, at least in the young state.
+- **1′.** 4 to 7 racemes digitate at the apex of the culms; prolongation of the lower glumes 20 to 35 mm long; rachis articles 2 to 3 mm wide at the apex → V. cuspidata var. polystachya.
+
+### V. cuspidata is widely distributed throughout tropical Africa and the Indies. The species and its variety are semi-aquatic plants often forming floating meadows. Good forage plants, at least in the young state.
 
 ## Species in region
 

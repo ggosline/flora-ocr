@@ -42,18 +42,24 @@ TYPE SPECIES: Microdesmis puberula Hook. f. ex Planchon.
     - **3′.** Pistillode glabrous → [[Microdesmis_puberula\|*M. puberula*]]
 - **1′.** Branchlets glabrous or very strongly glabrescent.
   - **4.** Petals pubescent or puberulent internally → [[Microdesmis_haumaniana\|*M. haumaniana*]]
-  - **4′.** Petals glabrous internally → 5. M. camerunensis II. According to the specimens
-    - **2.** Branchlets glabrous → [[Microdesmis_camerunensis\|*M. camerunensis*]]
-      - **2.** ¹ Branchlets pubescent → [[Microdesmis_klainei\|*M. klainei*]]
-        - **3.** 2 styles → [[Microdesmis_puberula\|*M. puberula*]]
-          - **4.** Ovary glabrous → [[Microdesmis_haumaniana\|*M. haumaniana*]]
-          - **4′.** Ovary pubescent → 2. M. pierlotiana III. According to the Fruiting Specimens:
-            - **1.** Fruit entirely or partially pubescent or puberulent.
-              - **2.** Fruit entirely puberulent; diameter of 1–2 cm.
-                - **3.** Fruit apex not depressed 1. M. klainei ¹. Fruit apex depressed → 2. M. pierlotiana Fruit partially puberulent or pubescent; diameter less than 1 cm.
-                  - **4.** (1–) 2 (–3) locules; apex pubescent → [[Microdesmis_puberula\|*M. puberula*]]
-                  - **4′.** 3 locules; apex puberulent → [[Microdesmis_camerunensis\|*M. camerunensis*]]
-            - **1′.** Fruit glabrous → [[Microdesmis_haumaniana\|*M. haumaniana*]]
+  - **4′.** Petals glabrous internally → [[Microdesmis_camerunensis\|*M. camerunensis*]]
+
+### II. According to the specimens
+
+- **2.** Branchlets glabrous → [[Microdesmis_camerunensis\|*M. camerunensis*]]
+  - **2.** ¹ Branchlets pubescent → [[Microdesmis_klainei\|*M. klainei*]]
+    - **3.** 2 styles → [[Microdesmis_puberula\|*M. puberula*]]
+      - **4.** Ovary glabrous → [[Microdesmis_haumaniana\|*M. haumaniana*]]
+      - **4′.** Ovary pubescent → [[Microdesmis_pierlotiana\|*M. pierlotiana*]]
+
+### III. According to the Fruiting Specimens:
+
+- **1.** Fruit entirely or partially pubescent or puberulent.
+  - **2.** Fruit entirely puberulent; diameter of 1–2 cm.
+    - **3.** Fruit apex not depressed 1. M. klainei ¹. Fruit apex depressed → 2. M. pierlotiana Fruit partially puberulent or pubescent; diameter less than 1 cm.
+      - **4.** (1–) 2 (–3) locules; apex pubescent → [[Microdesmis_puberula\|*M. puberula*]]
+      - **4′.** 3 locules; apex puberulent → [[Microdesmis_camerunensis\|*M. camerunensis*]]
+- **1′.** Fruit glabrous → [[Microdesmis_haumaniana\|*M. haumaniana*]]
 
 ## Species in region
 

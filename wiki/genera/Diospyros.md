@@ -172,203 +172,212 @@ genus of the family recorded in Gabon.
           - **36.** Petiole not exceeding 5 mm in length, blade ovate to elliptic, reaching 16 (+ acumen 3 cm) × 7.5 cm, rounded and especially cordate at base, acuminate and apiculate at apex; veins and secondary veins sunken on the upper surface of the blade; reddish-brown golden hispid pubescence on twigs and lower surface of leaves..
           - **36′.** Petiole exceeding 5 mm in length.
             - **37.** 6-8 pairs of lateral veins, the lower 2-3 pairs close together ± flabellate; petiole 6-8 mm; blade elliptic, more rarely lanceolate-elliptic, 10-28 × 3-10 cm; hispid or short ± caducous pubescence on twigs, petioles and lower surface of leaves → [[Diospyros_mannii\|*D. mannii*]]
-            - **37′.** 7-12 pairs of lateral veins, the lower pairs not close together and ± flabellate; petiole 10-12 mm; blade oblong or oblanceolate-elliptic, 18 (-30) × 6 (-10) cm; pubescence formed of R. LETOUZEY & F. WHITE short, rigid, scattered hairs, erect ± obliquely and sometimes apparently fascicled by 2-3 → D. pseudomespilus. II. Based on specimens with ♂ flowers*.
-              - **1.** Corolla lobes as long as or longer than the corolla tube; anthers often exsert from the corolla throat.
-                - **2.** Calyx cupuliform, truncate, non-lobed but sometimes irregularly split; corolla at least 4 times as long as the calyx with lobes at least 3 times as long as the tube; stamens inserted on the receptacle.
-                  - **3.** Calyx sparsely strigose; corolla 4-5-lobed, strigose near the apex; 12-15 strigose stamens → [[Diospyros_longiflora\|*D. longiflora*]]
-                  - **3′.** Calyx glabrous; corolla 3-lobed, glabrous; 9 glabrous stamens → [[Diospyros_alboflavescens\|*D. alboflavescens*]]
-                - **2′.** Calyx not truncate, always distinctly lobed or exceptionally with margin furnished with small teeth.
-                  - **4.** Small flowers, with corolla not exceeding 8 mm in height.
-                    - **5.** Floral bud with calyx closed, irregularly lobed at anthesis; corolla lobes erect, densely strigose; filaments inserted on the receptacle, anthers only slightly exsert from the corolla throat → [[Diospyros_ferrea\|*D. ferrea*]]
-                    - **5′.** Calyx with open or imbricate prefloration, regularly lobed; corolla rotate, glabrous; filaments inserted on the corolla tube, anthers completely exsert.
-                      - **6.** Calyx lobes hemispherical, imbricate; 45-120 stamens → [[Diospyros_polystemon\|*D. polystemon*]]
-                      - **6′.** Calyx lobes in open prefloration; 10-30 stamens.
-                        - **7.** Cymes lax with peduncle 4 mm in length; calyx glabrous but with ciliate margin; corolla 4-lobed; leaves abruptly and briefly acuminate at apex → [[Diospyros_viridicans\|*D. viridicans*]]
-                        - **7′.** Cymes rather contracted with peduncle not exceeding 2 mm in length.
-                        - **8.** Calyx densely strigose externally; corolla (4-) 5 (-6)-lobed.
-                        - **9.** Calyx with tawny-golden hairs; leaves fairly clearly acuminate with acumen ± elongated → 10. D. Dendo. * 1). Soyauxii (n° 33) whose ♂ flowers are unknown does not appear in this key.
-                        - **9′.** Calyx with blackish hairs; leaves scarcely acuminate with apex rounded → [[Diospyros_gilletii\|*D. gilletii*]]
-                        - **8′.** Calyx glabrous externally but with some small marginal cilia; corolla 3 (-4)-lobed.
-                        - **10.** Leaf blades oblong-elliptic with almost parallel margins, with caudately acuminate apex and 12-20 pairs of secondary veins; flowers distinctly pedicelled → [[Diospyros_piscatoria\|*D. piscatoria*]]
-                        - **10′.** Leaf blades ± elliptic, briefly subacuminate, with 5-12 pairs of secondary veins; flowers subsessile → [[Diospyros_abyssinica\|*D. abyssinica*]]
-                  - **4′.** Large flowers, with corolla more than 15 mm in height; anthers included or only slightly exsert.
-                    - **11.** Inflorescences axillary in lax pseudoracemes of 3-5 flowers; pedicels reaching up to 20 mm in length; calyx 4-lobed almost to the base, papyraceous, with hispid margin and marked venation; ramilles with setae reaching 5 mm in length; abnormal keeled scaled leaves, at the base of recent leafy shoots, serving as shelter for ants → [[Diospyros_conocarpa\|*D. conocarpa*]]
-                    - **11′.** Inflorescences in fascicles or contracted cymes, or in very floriferous lax cymes arising on old wood; calyx lobes variously united; hairs on the ramilles never exceeding 2 mm in length; no abnormal scaled leaves → *C. pubescent*
-                      - **13.** Corolla hypocratériform, covered with fine dense tawny tomentum, tube about 8 mm, contracted at apex; stamens inserted on the receptacle, entirely included → [[Diospyros_kamerunensis\|*D. kamerunensis*]]
-                      - **13′.** Corolla infundibuliform, glabrous except for the middle of the petals densely covered with a band of strigose hairs; tube about 5 mm widely open at apex; stamens inserted on the corolla tube, exsert → [[Diospyros_mannii\|*D. mannii*]]
-              - **12′.** Corolla glabrous.
-                - **14.** Leaves pubescent below; inflorescences always on the trunk and branches, never axillary; pedicels more than 3 mm in length; corolla (4-) 5-lobed.
-                  - **15.** Flowers in fascicles; pedicels 3-5 mm in length; calyx sparsely pubescent; corolla tube as long or almost as long as the 5 lobes, contracted at apex → [[Diospyros_fragrans\|*D. fragrans*]]
-                  - **15′.** Flowers in very floriferous lax cymes; pedicels 8-13 mm in length; calyx tomentellous; corolla tube much shorter than the (4-) 5 lobes, not contracted at apex → [[Diospyros_suaveolens\|*D. suaveolens*]]
-                - **14′.** Leaves glabrous below; some inflorescences axillary, others on ripened twigs, but never on the trunk and main branches; pedicels 1-3 mm in length; corolla 4-lobed.
-                  - **16.** Calyx 8 mm in height, with 4 narrowly triangular lobes, 5 mm in height; blade secondary veins loosely reticulate → [[Diospyros_bipindensis\|*D. bipindensis*]]
-                  - **16′.** Calyx 2-4 mm in height, with entire margin furnished with 4 small teeth; blade secondary veins very densely reticulate → [[Diospyros_physocalycina\|*D. physocalycina*]]
-              - **1′.** Corolla lobes almost always shorter than the corolla tube; anthers ordinarily completely included.
-                - **17.** Corolla tomentose or tomentellous, or with long hairs easily visible to the naked eye.
-                  - **18.** Ramilles densely covered with long ferruginous hairs about 1.5 mm in length; leaf blades rounded and most often cordate at base; calyx lobed almost to the base with lanceolate lobes; corolla 10-12 mm in height, conical in the floral bud, with lobes 2.5 mm in height. 3. D. Barteri.
-                  - **18′.** Ramilles devoid of long hairs; leaf blades cuneate or rounded at base.
-                    - **19.** Corolla more than 12 mm in height.
-                      - **20.** Calyx lobed almost to the base with narrowly triangular lobes; corolla tube furnished with 5 longitudinal tomentellous bands and elsewhere sparsely pubescent, almost as long as the corolla lobes → [[Diospyros_pseudomespilus\|*D. pseudomespilus*]]
-                      - **20′.** Calyx lobed only in the upper part or non-lobed; corolla uniformly tomentellous.
-                        - **21.** Calyx cupuliform, truncate, non-lobed but sometimes irregularly split, 6-8 mm in height; corolla about 20 mm in height, densely covered with downward-directed hairs, tube 10-12 mm in height → 31. D. Sanza-Minika.
-                        - **21′.** Calyx distinctly lobed, ± 10 mm in height.
-                        - **22.** Calyx sparsely and finely pubescent, with rounded lobes; corolla 25-30 mm in height, ellipsoid, tube 22-28 mm in height; 40-110 stamens → [[Diospyros_crassiflora\|*D. crassiflora*]]
-                        - **22′.** Calyx densely covered with chocolate-brown or blackish tomentum, with triangular lobes; corolla 18- 22 mm in height, infundibuliform; 20-30 stamens → [[Diospyros_gabunensis\|*D. gabunensis*]]
-                    - **19′.** Corolla 6-8 mm in height.
-                      - **23.** Inflorescences distinctly pedunculate, in cymes of 3-9 flowers and more → [[Diospyros_mespiliformis\|*D. mespiliformis*]]
-                      - **23′.** Inflorescences sessile in fascicles or contracted cymes.
-                        - **24.** Corolla narrowly conical in the floral bud; leaf blades rounded or subacute at apex, densely pubescent or tomentose below → [[Diospyros_tricolor\|*D. tricolor*]]
-                        - **24′.** Corolla botuliform; leaf blades acuminate at apex, finely strigose below with appressed black hairs → [[Diospyros_gracilescens\|*D. gracilescens*]]
-                - **17′.** Corolla glabrous or with minute hairs invisible to the naked eye.
-                  - **25.** Branches with bark peeling in fine papyraceous flakes, furnished with spiny points; flowers subsessile grouped in cymules of 3 (-5) flowers, situated at the apex of flattened peduncles and widened toward the apex 5-18 mm in length; calyx closed in the floral bud and ± botuliform, reaching up to 20 mm in height → [[Diospyros_monbuttensis\|*D. monbuttensis*]]
-                  - **25′.** Branches without bark peeling in fine papyraceous flakes and without spiny points; flowers in fascicles or short cymes; calyx with open prefloration, non-botuliform.
-                    - **26.** Calyx truncate or only slightly indented.
-                      - **27.** Stamens with long strigose hairs visible to the naked eye covering the filament and at least the lower half of the connective; anthers with apicule 1 mm in length; dry leaves of reddish-brown tone; secondary veins scarcely distinct, not impressed on the upper surface and secondary veins invisible → [[Diospyros_melocarpa\|*D. melocarpa*]]
-                      - **27′.** Stamens glabrous or with minute setulose hairs; anthers with apicule not exceeding 0.5 mm in length; secondary veins deeply impressed on the upper surface of the blade.
-                        - **28.** Dry leaves of dark greenish or blackish tone, with caudately and acuminate apex, sometimes spatulate, with rounded apex; 2-5 pairs of secondary veins, tertiary veins and secondary veins forming a fairly loose, well-marked network; calyx, corolla and stamens glabrous.
-                        - **28′.** Dry leaves of tawny-olivaceous to reddish-brown tone, with subacuminate apex or furnished with a short deltoid acumen; (4-) 5-8 (-9) pairs of secondary veins, tertiary veins and secondary veins forming a loose, poorly marked network; calyx and corolla ordinarily strigose, anthers pubescent, at least on the connective → [[Diospyros_iturensis\|*D. iturensis*]]
-                    - **26′.** Calyx clearly lobed.
-                      - **29.** Corolla lobes 4-6 mm in height.
-                        - **30.** Calyx reaching almost half the height of the corolla, tomentellous → [[Diospyros_boala\|*D. boala*]]
-                        - **30′.** Calyx not exceeding one third the height of the corolla, glabrous or sparsely strigose.
-                        - **31.** Calyx glabrous, 2.5 mm tall, tightly enclosing the base of the corolla tube and regularly lobed to the middle of its height; corolla tube not constricted at the apex; anthers partly exserted → [[Diospyros_preussii\|*D. preussii*]]
-                        - **31′.** Calyx sparsely and finely strigillous, 4-5 mm tall, distinctly separated from the base of the corolla tube and irregularly lobed in its upper third; corolla tube constricted at the apex; anthers included → [[Diospyros_canaliculata\|*D. canaliculata*]]
-                      - **29′.** Corolla lobes not exceeding 3 mm in height.
-                        - **32.** Leaves very small, not exceeding 5 cm in length, very asymmetric, with apex either emarginate or bearing a filiform mucro.
-                        - **33.** Leaves emarginate and lateral veins absent or scarcely visible; calyx lobes rounded.. 16. D. Hoyleana.
-                        - **33′.** Leaves with a filiform mucro and 2-3 pairs of lateral veins visible; calyx lobes triangular → [[Diospyros_obliquifolia\|*D. obliquifolia*]]
-                        - **32′.** Leaves ordinarily larger, not or scarcely asymmetric, with apex neither emarginate nor mucronate.
-                        - **34.** Corolla urceolate or botuliforme.
-                        - **35.** Corolla urceolate; filament longer than anther; anthers setulose, briefly apiculate → [[Diospyros_platanoides\|*D. platanoides*]]
-                        - **35′.** Corolla botuliforme; filament shorter than anther; anthers glabrous with apicule of ± 1 mm in length → [[Diospyros_vermoesenii\|*D. vermoesenii*]]
-                        - **34′.** Corolla narrowly conical in the floral bud → 7. D. cinnabarina & 32. D. simulans (See note to these 2 species). III. Based on specimens with ♀* flowers.
-                        - **1.** Leaves very small, not exceeding 5 cm in length, very asymmetric, with apex either emarginate or bearing a filiform mucro.
-                        - **2.** Leaves emarginate and lateral veins absent or scarcely visible; calyx lobes rounded → [[Diospyros_hoyleana\|*D. hoyleana*]]
-                        - **2′.** Leaves with a filiform mucro and 2-3 pairs of lateral veins visible; calyx lobes triangular → [[Diospyros_obliquifolia\|*D. obliquifolia*]]
-                        - **1′.** Leaves ordinarily larger, not or scarcely asymmetric, with apex neither emarginate nor mucronate.
-                        - **3.** Corolla densely puberulent to tomentose or tomentellous.
-                        - **4.** Calyx closed in the floral bud, tomentellous, splitting irregularly to form 3 broadly ovate lobes; calyx tube much longer than the calyx lobes and longer than the corolla tube; ovary with 3 locules, each ordinarily containing 2 ovules → [[Diospyros_ferrea\|*D. ferrea*]]
-                        - **4′.** Calyx not closed in the floral bud; ovary with 4, 6, 8 locules or more, each containing a single ovule.
-                        - **5.** Calyx cupuliform, first truncate then shallowly split; hairs on the corolla refracted downward → 31. D. Sanza-Minika.
-                        - **5′.** Calyx not cupuliform, not truncate, always distinctly lobed; hairs on the corolla not refracted downward.
-                        - **6.** Calyx lobes with wavy or wavy-winglike margin.
-                        - **7.** Corolla approximately 15 mm in height; hairs on the calyx not appressed; ovary with 8-10 locules 30. D. pseudomespilus.
-                        - **7′.** Corolla less than 12 mm in height; hairs on the calyx appressed; ovary with 4 (-6) locules → [[Diospyros_mespiliformis\|*D. mespiliformis*]]
-                        - **6′.** Calyx lobes with non-wavy margin.
-                        - **8.** Corolla tube shorter or scarcely longer than the corolla lobes.
-                        - **9.** Flowers sessile; hairs on the calyx chocolate brown or blackish; calyx tube much longer than the calyx lobes; styles fused at the base.. 13. D. gabunensis.
-                        - **9′.** Flowers distinctly pedicellate; hairs on the calyx yellowish or reddish; calyx tube not longer than the calyx lobes; styles free at the base.
-                        - **10.** Inflorescences axillary, contracted; pedicels * D. alboflavescens (no. 2), D. longiflora (no. 19) and D. platanoides (no. 27) whose ♀ flowers are unknown do not appear in this key. For D. melocarpa (no. 21), the characters adopted appear very plausible, despite the absence of ♀ flowers. 2 mm in length; corolla tube of the same length as the corolla lobes; ovary densely silky …… 18. D. kamerunensis.
-                        - **10′.** Inflorescences arising from the old branchlets and branches; pedicels 10 mm in length; corolla tube much shorter than the corolla lobes; ovary densely hispid 20. D. Mannii.
-                        - **8′.** Corolla tube at least 2 times longer than the corolla lobes.
-                        - **11.** Branchlets hispid with ferruginous hairs approximately 1.5 mm in length; leaf blades rounded and most often cordate at the base; 2 styles 3. D. Barteri.
-                        - **11′.** Branchlets not hispid; leaf blades not cordate at the base.
-                        - **12.** Leaf blades rounded or subacute at the apex, densely pubescent or tomentose below; 2 styles → [[Diospyros_tricolor\|*D. tricolor*]]
-                        - **12′.** Leaf blades acuminate at the apex, glabrous or sparsely strigillous below.
-                        - **13.** Calyx tube much shorter than the lobes, the latter triangular; corolla and ovary narrowly conical; 2 styles almost completely fused with very small stigmas → *D. soyaux*
-                        - **13′.** Calyx tube longer than the lobes, the latter rounded; corolla ellipsoid or botuliforme; ovary ovoid or globular-depressed; 3-5 styles, free or, if fused, with large fleshy stigmas.
-                        - **14.** Corolla 25-30 mm in height; ordinarily 4-5 styles, as long as the ovary, free → [[Diospyros_crassiflora\|*D. crassiflora*]]
-                        - **14′.** Corolla not exceeding 8 mm in height; styles fused, much shorter than the ovary → [[Diospyros_gracilescens\|*D. gracilescens*]]
-                        - **3′.** Corolla glabrous or with strigillous hairs very localized or very sparse.
-                        - **15.** Corolla tube at least (2-) 3 times as long as the corolla lobes.
-                        - **16.** Calyx truncate or at most shallowly and indistinctly lobed; leaves glabrous.
-                        - **17.** Leaf blades caudate-acuminate at the apex.
-                        - **18.** Leaf blades (excluding the acumen) reaching up to 9 × 5.5 cm, reddish brown in color when dry; secondary veins inconspicuous, not impressed on the upper surface and tertiary veins invisible 21. D. melocarpa.
-                        - **18′.** Leaf blades (excluding the acumen) reaching up to 12 (-16) × 6.5 cm, blackish green or blackish in color when dry; 2-5 pairs of secondary veins very distinct, deeply impressed on the upper surface, the tertiary veins and tertiary nerves forming a fairly loose well-marked network → *D. zenker*
-                        - **17′.** Leaf blades subacuminate or bearing a short deltoid acumen, fawn olivaceous to reddish brown in color when dry → [[Diospyros_iturensis\|*D. iturensis*]]
-                        - **16′.** Calyx not truncate, always distinctly lobed.
-                        - **19.** Flowers distinctly pedicellate; corolla narrowly conical in the floral bud
-                        - **7.** D. cinnabarina & 32. D. simulans (See note to these 2 species).
-                        - **19′.** Flowers subsessile; corolla urceolate in the floral bud → [[Diospyros_vermoesenii\|*D. vermoesenii*]]
-                        - **15′.** Corolla tube at most 2 times as long as the corolla lobes.
-                        - **20.** Corolla tube less than 2 mm in height; ovary glabrous; styles fused, much shorter than the ovary, terminating in a fleshy, capitate stigma, irregularly lobed or 3-4-lobed.
-                        - **21.** Ovary with 4 locules; stigma capitate, irregularly lobed.
-                        - **22.** Calyx densely strigillous externally with blackish hairs, with lobes of such kind and flat margins; leaves scarcely distinctly acuminate with rounded apex → [[Diospyros_gilletii\|*D. gilletii*]]
-                        - **22′.** Calyx densely strigillous externally with fawn golden hairs, with triangular lobes with lateral margins ± reduplicate; leaves fairly distinctly acuminate with acumen ± elongate → [[Diospyros_dendo\|*D. dendo*]]
-                        - **21′.** Ovary with 6-8-10 locules; stigma distinctly 3-4-5-lobed.
-                        - **23.** Inflorescences ordinarily with 8 flowers and more, very branched, lax, with floral pedicels reaching up to 4 mm in length; network of parallel tertiaries, substantially perpendicular to the midvein, finely prominent on both faces of the blade
-                        - **23′.** Inflorescences of 1-5 (-8) flowers, subfasciculate.
-                        - **24.** Calyx with (4-) 5-6 hemi-orbicular lobes, imbricate → [[Diospyros_polystemon\|*D. polystemon*]]
-                        - **24′.** Calyx 3-lobed.
-                        - **25.** Leaf blades briefly subacuminate, 5-12 pairs of secondary veins; inflorescences of (1-) 3-5 (-8) flowers; calyx lobes suborbicular, strongly imbricate → I. D. abyssinica.
-                        - **25′.** Leaf blades caudate-acuminate, 12-20 pairs of secondary veins; inflorescences of 1-3 flowers; calyx lobes broadly ovate, scarcely imbricate → [[Diospyros_piscatoria\|*D. piscatoria*]]
-                        - **20′.** Corolla tube more than 4 mm in height; styles free or fused only at the base (exception for D. monbuttensis and D. canaliculata), almost as long or longer than the ovary (exception for D. monbuttensis).
-                        - **26.** Ovary densely pubescent.
-                        - **27.** Calyx longer than the corolla tube and lobed almost to the base; branchlets with bristles reaching 5 mm in length; leaves abnormally scaly carinate, at the base of recent leafy shoots, serving as shelter for ants → [[Diospyros_conocarpa\|*D. conocarpa*]]
-                        - **27′.** Calyx as long or shorter than the corolla tube, lobed only in its upper part; hairs on the branchlets never exceeding 2 mm in length; no abnormal scaly leaves.
-                        - **28.** Leaves glabrous; inflorescences of 1-3 flowers, axillary on leafy or leafless branchlets; pedicels 4 mm in length → [[Diospyros_boala\|*D. boala*]]
-                        - **28′.** Leaves pubescent below; inflorescences of 5 flowers and more, always on the trunk and branches; pedicels 5-15 mm in length.
-                        - **29.** Flowers fasciculate; pedicels not exceeding 10 mm in length; corolla tube almost as long as the corolla lobes → [[Diospyros_fragrans\|*D. fragrans*]]
-                        - **29′.** Flowers in lax branched cymes; pedicels 12-15 mm in length; corolla tube much shorter than the corolla lobes 34. D. suaveolens → *O. glabrous*
-                        - **30.** Pedicels flattened and expanded at the apex, supra-axillary 2-6 mm above the leaf axil; calyx subtrunate, irregularly split; ovary surmounted almost directly by 4 foliaceous stigmas → [[Diospyros_monbuttensis\|*D. monbuttensis*]]
-                        - **30′.** Pedicels not flattened and expanded at the apex, nor supra- EBENACEAE axillary; calyx regularly lobed; ovary surmounted by 4 (-5) well-developed styles, free or fused.
-                        - **31.** Calyx lobes longer than the calyx tube.
-                        - **32.** Flowers solitary or in 2-3, axillary or on young ripened branchlets; leaf blades with network of tertiaries fairly loosely reticulate. 4. D. bipindensis.
-                        - **32′.** Inflorescences very floriferous, on the old branchlets and on the trunk; leaf blades with network of tertiaries dense → [[Diospyros_preussii\|*D. preussii*]]
-                        - **31′.** Calyx lobes shorter than the calyx tube.
-                        - **33.** Calyx urceolate-cordate with greatest width just above its base, with broadly triangular lobes; 4 styles fused only at their base → [[Diospyros_physocalycina\|*D. physocalycina*]]
-                        - **33′.** Calyx urceolate-quadrangular, with greatest width toward the middle of its height, with broadly rounded lobes; styles fused into a robust columnette with 2 stigmas → 6. D. canaliculata. IV. Based on specimens with fruits*.
-                        - **1.** Calyx lobes distinctly wavy or wavy-folded; calyx more than 10 mm in height.
-                        - **2.** Calyx not exceeding half the height of the fruit, 10-12 mm in height, covered externally with fawn puberulence, with 4-5 ovate-triangular lobes 5-6 mm in height, with wavy margin bearing at least one broad undulation in the lower third; fruit subglobose, approximately 2.5-3 cm, somewhat verrucose, almost glabrous at maturity 22. D. mespiliformis
-                        - **2′.** Calyx almost as long or longer than the fruit.
-                        - **3.** Calyx glabrous, ordinarily with 4 lobes.
-                        - **4.** Calyx without distinct venation, with lobes (at least in the young fruit) valvate-reduplicate; dense network of tertiary veins on both faces of the blade → [[Diospyros_preussii\|*D. preussii*]]
-                        - **4′.** Calyx with distinct flabellate venation, with lobes not valvate-reduplicate; loose network of tertiary veins on both faces of the blade → [[Diospyros_bipindensis\|*D. bipindensis*]]
-                        - **3′.** Calyx puberulent, lobed almost to the base and ordinarily with 5 lobes. * D. alboflavescens (no. 2), D. longiflora (no. 19) and D. platanoides (no. 27) whose fruits are unknown do not appear in this key.
-                        - **5.** Fruit ovoid-conical, reaching up to 1.5 × 1.2 cm, glabrous, containing 2-4 seeds → [[Diospyros_dendo\|*D. dendo*]]
-                        - **5′.** Fruit globular-depressed, at least 2 × 2 cm, first pubescent then subglabrous; ordinarily 6 seeds or more.
-                        - **6.** Leaves glabrous; calyx lobes completely hiding the fruit, with margins distinctly incurved inward → [[Diospyros_boala\|*D. boala*]]
-                        - **6′.** Leaves puberulent below; calyx lobes not completely hiding the fruit, with margins not incurved inward → [[Diospyros_pseudomespilus\|*D. pseudomespilus*]]
-                        - **1′.** Calyx lobes not or only very slightly wavy.
-                        - **7.** Pubescence of the fruit composed at least in part of long silky hairs distinctly visible to the naked eye.
-                        - **8.** Calyx cupuliform, the tube completely hiding the lower half of the fruit, tomentose with chocolate brown or black hairs, with 5-7 lobes barely or irregularly developed, reaching 15 mm in height; fruit tomentose chocolate brown or black → [[Diospyros_gabunensis\|*D. gabunensis*]]
-                        - **8′.** Calyx not cupuliform, the tube not hiding the lower half of the fruit.
-                        - **9.** Fruit sparsely silky.
-                        - **10.** Calyx almost as long as the fruit, lobed almost to the base; fruit ovoid-conical; abnormal scaly leaves carinate, at the base of recent leafy shoots, serving as shelter for ants → [[Diospyros_conocarpa\|*D. conocarpa*]]
-                        - **10′.** Calyx not exceeding half the length of the fruit, not lobed to the middle; no abnormal scaly leaves → [[Diospyros_fragrans\|*D. fragrans*]]
-                        - **9′.** Fruit tomentose.
-                        - **11.** Fruit almost 2 times as long as wide, tomentose with long yellowish hairs mixed with a short chocolate brown covering → [[Diospyros_suaveolens\|*D. suaveolens*]]
-                        - **11′.** Fruit not or only slightly longer than wide, densely covered with russet hairs, then glabrous → [[Diospyros_mannii\|*D. mannii*]]
-                        - **7′.** Pubescence of the fruit composed of minute hairs visible with a 20× magnifying glass, or fruit glabrous.
-                        - **12.** Calyx longer than the fruit, 30-40 mm in height.
-                        - **13.** Calyx urceolate-cordate, with greatest width just above its base, with lobes of such kind much shorter than the tube → [[Diospyros_physocalycina\|*D. physocalycina*]]
-                        - **13′.** Calyx urceolate-quadrangular, with greatest width toward the middle of its height, with broadly rounded lobes with reduplicate margins forming 4 sharp ridges that continue on the upper part of the calyx tube → [[Diospyros_canaliculata\|*D. canaliculata*]]
-                        - **12′.** Calyx much shorter than the fruit.
-                        - **14.** Fruit tapering from the middle or its lower part to the pointed apex, ordinarily fusiform, conical, ovoid-conical or ellipsoid-conical, rarely subglobose (D. simulans).
-                        - **15.** Branchlets hispid with ferruginous hairs approximately 1.5 mm in length; leaf blades rounded and most often cordate at the base; fruit reaching up to 4.2 × 2-3 cm.
-                        - **15′.** Branchlets not hispid; leaf blades not cordate at the base.
-                        - **16.** Leaves very small, not exceeding 5 cm in length, very asymmetric, with apex either emarginate or bearing a filiform mucro.
-                        - **17.** Leaves emarginate and lateral veins not or scarcely visible; calyx lobes rounded.. 16. D. Hoyleana (See below).
-                        - **17′.** Leaves with a filiform mucro and 2-3 pairs of lateral veins visible; calyx lobes triangular → [[Diospyros_obliquifolia\|*D. obliquifolia*]]
-                        - **16′.** Leaves ordinarily larger, not or scarcely asymmetric, with apex neither emarginate nor mucronate.
-                        - **18.** Calyx cupuliform, with tube longer than the lobes, the latter irregular, broadly triangular, wider than long → 11. D. ferrea (See below).
-                        - **18′.** Calyx not cupuliform, lobed almost to the base.
-                        - **19.** Fruit fusiform ± tetragonal, reaching up to 7 × 3 cm → [[Diospyros_soyauxii\|*D. soyauxii*]]
-                        - **19′.** Fruit conical, ovoid-conical or ellipsoid-conical (or for D. simulans sometimes subglobose), distinctly tapered to the pointed apex.
-                        - **20.** Leaf blades rounded or subacute at the apex, densely pubescent or tomentose below; fruit 2.5-3 × 1.5-2 cm → [[Diospyros_tricolor\|*D. tricolor*]]
-                        - **20′.** Leaf blades acuminate at the apex, glabrous or nearly so.
-                        - **21.** Fruit more than 3 cm in diameter, verrucose, R. LETOUZEY & F. WHITE densely puberulent at least toward the apex → 7. D. cinnabarina & 32. D. simulans (See note to these 2 species)
-                        - **21′.** Fruit less than 1.5 cm in diameter.
-                        - **22.** Fruit reaching up to 2.5 × 1.5 cm, ovoid- conical, ± verrucose. 36. D. Vermoesenii.
-                        - **22′.** Fruit reaching up to 1.4 × 0.9 cm, ellip- soid-conical, not verrucose → D. abyssinica (See below).
-                        - **14′.** Fruit ellipsoid, globose, globular-depressed, ovoid, obovoid or cylindric, sometimes mucronate or umbonate, but never tapered to a pointed apex.
-                        - **23.** Fruit young entirely tomentellous, then fruit tomentellous in places, globular-depressed, approximately 4 × 5 cm; 8 (-10) seeds → [[Diospyros_kamerunensis\|*D. kamerunensis*]]
-                        - **23′.** Fruit glabrous or nearly so, at least at maturity.
-                        - **24.** Fruit very large, approximately 10 × 6.5 cm, ± ellipsoid, sparsely strigillous-puberulent near the apex, elsewhere glabrous → [[Diospyros_crassiflora\|*D. crassiflora*]]
-                        - **24′.** Fruit smaller, never exceeding 5 cm in length and 4.5 cm in diameter.
-                        - **25.** Fruit ellipsoid-cylindric or slightly tetragonal, reaching up to 5 × 4.5 cm, with lignified pericarp
-                        - **31.** D. Sanza-Minika.
-                        - **25′.** Fruit globose, ellipsoid or ovoid, smaller, with non-lignified pericarp.
-                        - **26.** Leaves emarginate and lateral veins not or scarcely visible → 16. D. Hoyleana (See above).
-                        - **26′.** Leaves not emarginate and lateral veins always visible.
-                        - **27.** Fruit ellipsoid or oblongoid, small, reaching up to 1.5 cm in length and 1 cm in diameter; 1-2 seeds.
-                        - **28.** Calyx glabrous externally but with a few minute marginal cilia, deeply lobed almost to the base, with suborbicular lobes; fruit dry black, glabrous → I. D. abyssinica (See above).
-                        - **28′.** Calyx tomentellous, shallowly and irregularly lobed, with broadly triangular lobes; fruit dry pale brown with a few hairs near the apex → II. D. ferrea (See above).
-                        - **27′.** Fruit globose, always reaching at least 1.5 cm in length and 1.5 cm in diameter; 4-6-8 seeds or sometimes fewer by abortion.
-                        - **29.** Calyx cupuliform surrounding the lower half of the fruit, with truncate margin but often irregularly broken; fruit reaching up to ± 3 × 2.5-4 cm → [[Diospyros_monbuttensis\|*D. monbuttensis*]]
-                        - **29′.** Calyx not cupuliform → *A. ruminate*
-                        - **31.** Calyx with 4 lobes 4-6 × 2.5-3 mm, reflexed; network of parallel tertiaries, substantially perpendicular to the midvein, finely prominent on both faces of the blade → *D. viridis*
-                        - **31′.** Calyx with 3-4 irregular lobes 3 mm in length, spreading; secondary veins inconspicuous, not impressed on the upper surface and tertiary veins invisible 21. D. melocarpa.
+            - **37′.** 7-12 pairs of lateral veins, the lower pairs not close together and ± flabellate; petiole 10-12 mm; blade oblong or oblanceolate-elliptic, 18 (-30) × 6 (-10) cm; pubescence formed of R. LETOUZEY & F. WHITE short, rigid, scattered hairs, erect ± obliquely and sometimes apparently fascicled by 2-3 → [[Diospyros_pseudomespilus\|*D. pseudomespilus*]]
+
+### II. Based on specimens with ♂ flowers*.
+
+- **1.** Corolla lobes as long as or longer than the corolla tube; anthers often exsert from the corolla throat.
+  - **2.** Calyx cupuliform, truncate, non-lobed but sometimes irregularly split; corolla at least 4 times as long as the calyx with lobes at least 3 times as long as the tube; stamens inserted on the receptacle.
+    - **3.** Calyx sparsely strigose; corolla 4-5-lobed, strigose near the apex; 12-15 strigose stamens → [[Diospyros_longiflora\|*D. longiflora*]]
+    - **3′.** Calyx glabrous; corolla 3-lobed, glabrous; 9 glabrous stamens → [[Diospyros_alboflavescens\|*D. alboflavescens*]]
+  - **2′.** Calyx not truncate, always distinctly lobed or exceptionally with margin furnished with small teeth.
+    - **4.** Small flowers, with corolla not exceeding 8 mm in height.
+      - **5.** Floral bud with calyx closed, irregularly lobed at anthesis; corolla lobes erect, densely strigose; filaments inserted on the receptacle, anthers only slightly exsert from the corolla throat → [[Diospyros_ferrea\|*D. ferrea*]]
+      - **5′.** Calyx with open or imbricate prefloration, regularly lobed; corolla rotate, glabrous; filaments inserted on the corolla tube, anthers completely exsert.
+        - **6.** Calyx lobes hemispherical, imbricate; 45-120 stamens → [[Diospyros_polystemon\|*D. polystemon*]]
+        - **6′.** Calyx lobes in open prefloration; 10-30 stamens.
+          - **7.** Cymes lax with peduncle 4 mm in length; calyx glabrous but with ciliate margin; corolla 4-lobed; leaves abruptly and briefly acuminate at apex → [[Diospyros_viridicans\|*D. viridicans*]]
+          - **7′.** Cymes rather contracted with peduncle not exceeding 2 mm in length.
+            - **8.** Calyx densely strigose externally; corolla (4-) 5 (-6)-lobed.
+              - **9.** Calyx with tawny-golden hairs; leaves fairly clearly acuminate with acumen ± elongated → 10. D. Dendo. * 1). Soyauxii (n° 33) whose ♂ flowers are unknown does not appear in this key.
+              - **9′.** Calyx with blackish hairs; leaves scarcely acuminate with apex rounded → [[Diospyros_gilletii\|*D. gilletii*]]
+            - **8′.** Calyx glabrous externally but with some small marginal cilia; corolla 3 (-4)-lobed.
+              - **10.** Leaf blades oblong-elliptic with almost parallel margins, with caudately acuminate apex and 12-20 pairs of secondary veins; flowers distinctly pedicelled → [[Diospyros_piscatoria\|*D. piscatoria*]]
+              - **10′.** Leaf blades ± elliptic, briefly subacuminate, with 5-12 pairs of secondary veins; flowers subsessile → [[Diospyros_abyssinica\|*D. abyssinica*]]
+    - **4′.** Large flowers, with corolla more than 15 mm in height; anthers included or only slightly exsert.
+      - **11.** Inflorescences axillary in lax pseudoracemes of 3-5 flowers; pedicels reaching up to 20 mm in length; calyx 4-lobed almost to the base, papyraceous, with hispid margin and marked venation; ramilles with setae reaching 5 mm in length; abnormal keeled scaled leaves, at the base of recent leafy shoots, serving as shelter for ants → [[Diospyros_conocarpa\|*D. conocarpa*]]
+      - **11′.** Inflorescences in fascicles or contracted cymes, or in very floriferous lax cymes arising on old wood; calyx lobes variously united; hairs on the ramilles never exceeding 2 mm in length; no abnormal scaled leaves → *C. pubescent*
+        - **13.** Corolla hypocratériform, covered with fine dense tawny tomentum, tube about 8 mm, contracted at apex; stamens inserted on the receptacle, entirely included → [[Diospyros_kamerunensis\|*D. kamerunensis*]]
+        - **13′.** Corolla infundibuliform, glabrous except for the middle of the petals densely covered with a band of strigose hairs; tube about 5 mm widely open at apex; stamens inserted on the corolla tube, exsert → [[Diospyros_mannii\|*D. mannii*]]
+- **12′.** Corolla glabrous.
+  - **14.** Leaves pubescent below; inflorescences always on the trunk and branches, never axillary; pedicels more than 3 mm in length; corolla (4-) 5-lobed.
+    - **15.** Flowers in fascicles; pedicels 3-5 mm in length; calyx sparsely pubescent; corolla tube as long or almost as long as the 5 lobes, contracted at apex → [[Diospyros_fragrans\|*D. fragrans*]]
+    - **15′.** Flowers in very floriferous lax cymes; pedicels 8-13 mm in length; calyx tomentellous; corolla tube much shorter than the (4-) 5 lobes, not contracted at apex → [[Diospyros_suaveolens\|*D. suaveolens*]]
+  - **14′.** Leaves glabrous below; some inflorescences axillary, others on ripened twigs, but never on the trunk and main branches; pedicels 1-3 mm in length; corolla 4-lobed.
+    - **16.** Calyx 8 mm in height, with 4 narrowly triangular lobes, 5 mm in height; blade secondary veins loosely reticulate → [[Diospyros_bipindensis\|*D. bipindensis*]]
+    - **16′.** Calyx 2-4 mm in height, with entire margin furnished with 4 small teeth; blade secondary veins very densely reticulate → [[Diospyros_physocalycina\|*D. physocalycina*]]
+- **1′.** Corolla lobes almost always shorter than the corolla tube; anthers ordinarily completely included.
+  - **17.** Corolla tomentose or tomentellous, or with long hairs easily visible to the naked eye.
+    - **18.** Ramilles densely covered with long ferruginous hairs about 1.5 mm in length; leaf blades rounded and most often cordate at base; calyx lobed almost to the base with lanceolate lobes; corolla 10-12 mm in height, conical in the floral bud, with lobes 2.5 mm in height. 3. D. Barteri.
+    - **18′.** Ramilles devoid of long hairs; leaf blades cuneate or rounded at base.
+      - **19.** Corolla more than 12 mm in height.
+        - **20.** Calyx lobed almost to the base with narrowly triangular lobes; corolla tube furnished with 5 longitudinal tomentellous bands and elsewhere sparsely pubescent, almost as long as the corolla lobes → [[Diospyros_pseudomespilus\|*D. pseudomespilus*]]
+        - **20′.** Calyx lobed only in the upper part or non-lobed; corolla uniformly tomentellous.
+          - **21.** Calyx cupuliform, truncate, non-lobed but sometimes irregularly split, 6-8 mm in height; corolla about 20 mm in height, densely covered with downward-directed hairs, tube 10-12 mm in height → 31. D. Sanza-Minika.
+          - **21′.** Calyx distinctly lobed, ± 10 mm in height.
+            - **22.** Calyx sparsely and finely pubescent, with rounded lobes; corolla 25-30 mm in height, ellipsoid, tube 22-28 mm in height; 40-110 stamens → [[Diospyros_crassiflora\|*D. crassiflora*]]
+            - **22′.** Calyx densely covered with chocolate-brown or blackish tomentum, with triangular lobes; corolla 18- 22 mm in height, infundibuliform; 20-30 stamens → [[Diospyros_gabunensis\|*D. gabunensis*]]
+      - **19′.** Corolla 6-8 mm in height.
+        - **23.** Inflorescences distinctly pedunculate, in cymes of 3-9 flowers and more → [[Diospyros_mespiliformis\|*D. mespiliformis*]]
+        - **23′.** Inflorescences sessile in fascicles or contracted cymes.
+          - **24.** Corolla narrowly conical in the floral bud; leaf blades rounded or subacute at apex, densely pubescent or tomentose below → [[Diospyros_tricolor\|*D. tricolor*]]
+          - **24′.** Corolla botuliform; leaf blades acuminate at apex, finely strigose below with appressed black hairs → [[Diospyros_gracilescens\|*D. gracilescens*]]
+  - **17′.** Corolla glabrous or with minute hairs invisible to the naked eye.
+    - **25.** Branches with bark peeling in fine papyraceous flakes, furnished with spiny points; flowers subsessile grouped in cymules of 3 (-5) flowers, situated at the apex of flattened peduncles and widened toward the apex 5-18 mm in length; calyx closed in the floral bud and ± botuliform, reaching up to 20 mm in height → [[Diospyros_monbuttensis\|*D. monbuttensis*]]
+    - **25′.** Branches without bark peeling in fine papyraceous flakes and without spiny points; flowers in fascicles or short cymes; calyx with open prefloration, non-botuliform.
+      - **26.** Calyx truncate or only slightly indented.
+        - **27.** Stamens with long strigose hairs visible to the naked eye covering the filament and at least the lower half of the connective; anthers with apicule 1 mm in length; dry leaves of reddish-brown tone; secondary veins scarcely distinct, not impressed on the upper surface and secondary veins invisible → [[Diospyros_melocarpa\|*D. melocarpa*]]
+        - **27′.** Stamens glabrous or with minute setulose hairs; anthers with apicule not exceeding 0.5 mm in length; secondary veins deeply impressed on the upper surface of the blade.
+          - **28.** Dry leaves of dark greenish or blackish tone, with caudately and acuminate apex, sometimes spatulate, with rounded apex; 2-5 pairs of secondary veins, tertiary veins and secondary veins forming a fairly loose, well-marked network; calyx, corolla and stamens glabrous.
+          - **28′.** Dry leaves of tawny-olivaceous to reddish-brown tone, with subacuminate apex or furnished with a short deltoid acumen; (4-) 5-8 (-9) pairs of secondary veins, tertiary veins and secondary veins forming a loose, poorly marked network; calyx and corolla ordinarily strigose, anthers pubescent, at least on the connective → [[Diospyros_iturensis\|*D. iturensis*]]
+      - **26′.** Calyx clearly lobed.
+        - **29.** Corolla lobes 4-6 mm in height.
+          - **30.** Calyx reaching almost half the height of the corolla, tomentellous → [[Diospyros_boala\|*D. boala*]]
+          - **30′.** Calyx not exceeding one third the height of the corolla, glabrous or sparsely strigose.
+            - **31.** Calyx glabrous, 2.5 mm tall, tightly enclosing the base of the corolla tube and regularly lobed to the middle of its height; corolla tube not constricted at the apex; anthers partly exserted → [[Diospyros_preussii\|*D. preussii*]]
+            - **31′.** Calyx sparsely and finely strigillous, 4-5 mm tall, distinctly separated from the base of the corolla tube and irregularly lobed in its upper third; corolla tube constricted at the apex; anthers included → [[Diospyros_canaliculata\|*D. canaliculata*]]
+        - **29′.** Corolla lobes not exceeding 3 mm in height.
+          - **32.** Leaves very small, not exceeding 5 cm in length, very asymmetric, with apex either emarginate or bearing a filiform mucro.
+            - **33.** Leaves emarginate and lateral veins absent or scarcely visible; calyx lobes rounded.. 16. D. Hoyleana.
+            - **33′.** Leaves with a filiform mucro and 2-3 pairs of lateral veins visible; calyx lobes triangular → [[Diospyros_obliquifolia\|*D. obliquifolia*]]
+          - **32′.** Leaves ordinarily larger, not or scarcely asymmetric, with apex neither emarginate nor mucronate.
+            - **34.** Corolla urceolate or botuliforme.
+              - **35.** Corolla urceolate; filament longer than anther; anthers setulose, briefly apiculate → [[Diospyros_platanoides\|*D. platanoides*]]
+              - **35′.** Corolla botuliforme; filament shorter than anther; anthers glabrous with apicule of ± 1 mm in length → [[Diospyros_vermoesenii\|*D. vermoesenii*]]
+            - **34′.** Corolla narrowly conical in the floral bud → 7. D. cinnabarina & 32. D. simulans (See note to these 2 species).
+
+### III. Based on specimens with ♀* flowers.
+
+- **1.** Leaves very small, not exceeding 5 cm in length, very asymmetric, with apex either emarginate or bearing a filiform mucro.
+  - **2.** Leaves emarginate and lateral veins absent or scarcely visible; calyx lobes rounded → [[Diospyros_hoyleana\|*D. hoyleana*]]
+  - **2′.** Leaves with a filiform mucro and 2-3 pairs of lateral veins visible; calyx lobes triangular → [[Diospyros_obliquifolia\|*D. obliquifolia*]]
+- **1′.** Leaves ordinarily larger, not or scarcely asymmetric, with apex neither emarginate nor mucronate.
+  - **3.** Corolla densely puberulent to tomentose or tomentellous.
+    - **4.** Calyx closed in the floral bud, tomentellous, splitting irregularly to form 3 broadly ovate lobes; calyx tube much longer than the calyx lobes and longer than the corolla tube; ovary with 3 locules, each ordinarily containing 2 ovules → [[Diospyros_ferrea\|*D. ferrea*]]
+    - **4′.** Calyx not closed in the floral bud; ovary with 4, 6, 8 locules or more, each containing a single ovule.
+      - **5.** Calyx cupuliform, first truncate then shallowly split; hairs on the corolla refracted downward → 31. D. Sanza-Minika.
+      - **5′.** Calyx not cupuliform, not truncate, always distinctly lobed; hairs on the corolla not refracted downward.
+        - **6.** Calyx lobes with wavy or wavy-winglike margin.
+          - **7.** Corolla approximately 15 mm in height; hairs on the calyx not appressed; ovary with 8-10 locules 30. D. pseudomespilus.
+          - **7′.** Corolla less than 12 mm in height; hairs on the calyx appressed; ovary with 4 (-6) locules → [[Diospyros_mespiliformis\|*D. mespiliformis*]]
+        - **6′.** Calyx lobes with non-wavy margin.
+          - **8.** Corolla tube shorter or scarcely longer than the corolla lobes.
+            - **9.** Flowers sessile; hairs on the calyx chocolate brown or blackish; calyx tube much longer than the calyx lobes; styles fused at the base.. 13. D. gabunensis.
+            - **9′.** Flowers distinctly pedicellate; hairs on the calyx yellowish or reddish; calyx tube not longer than the calyx lobes; styles free at the base.
+              - **10.** Inflorescences axillary, contracted; pedicels * D. alboflavescens (no. 2), D. longiflora (no. 19) and D. platanoides (no. 27) whose ♀ flowers are unknown do not appear in this key. For D. melocarpa (no. 21), the characters adopted appear very plausible, despite the absence of ♀ flowers. 2 mm in length; corolla tube of the same length as the corolla lobes; ovary densely silky …… 18. D. kamerunensis.
+              - **10′.** Inflorescences arising from the old branchlets and branches; pedicels 10 mm in length; corolla tube much shorter than the corolla lobes; ovary densely hispid 20. D. Mannii.
+          - **8′.** Corolla tube at least 2 times longer than the corolla lobes.
+            - **11.** Branchlets hispid with ferruginous hairs approximately 1.5 mm in length; leaf blades rounded and most often cordate at the base; 2 styles 3. D. Barteri.
+            - **11′.** Branchlets not hispid; leaf blades not cordate at the base.
+              - **12.** Leaf blades rounded or subacute at the apex, densely pubescent or tomentose below; 2 styles → [[Diospyros_tricolor\|*D. tricolor*]]
+              - **12′.** Leaf blades acuminate at the apex, glabrous or sparsely strigillous below.
+                - **13.** Calyx tube much shorter than the lobes, the latter triangular; corolla and ovary narrowly conical; 2 styles almost completely fused with very small stigmas → *D. soyaux*
+                - **13′.** Calyx tube longer than the lobes, the latter rounded; corolla ellipsoid or botuliforme; ovary ovoid or globular-depressed; 3-5 styles, free or, if fused, with large fleshy stigmas.
+                  - **14.** Corolla 25-30 mm in height; ordinarily 4-5 styles, as long as the ovary, free → [[Diospyros_crassiflora\|*D. crassiflora*]]
+                  - **14′.** Corolla not exceeding 8 mm in height; styles fused, much shorter than the ovary → [[Diospyros_gracilescens\|*D. gracilescens*]]
+  - **3′.** Corolla glabrous or with strigillous hairs very localized or very sparse.
+    - **15.** Corolla tube at least (2-) 3 times as long as the corolla lobes.
+      - **16.** Calyx truncate or at most shallowly and indistinctly lobed; leaves glabrous.
+        - **17.** Leaf blades caudate-acuminate at the apex.
+          - **18.** Leaf blades (excluding the acumen) reaching up to 9 × 5.5 cm, reddish brown in color when dry; secondary veins inconspicuous, not impressed on the upper surface and tertiary veins invisible 21. D. melocarpa.
+          - **18′.** Leaf blades (excluding the acumen) reaching up to 12 (-16) × 6.5 cm, blackish green or blackish in color when dry; 2-5 pairs of secondary veins very distinct, deeply impressed on the upper surface, the tertiary veins and tertiary nerves forming a fairly loose well-marked network → *D. zenker*
+        - **17′.** Leaf blades subacuminate or bearing a short deltoid acumen, fawn olivaceous to reddish brown in color when dry → [[Diospyros_iturensis\|*D. iturensis*]]
+      - **16′.** Calyx not truncate, always distinctly lobed.
+        - **19.** Flowers distinctly pedicellate; corolla narrowly conical in the floral bud
+          - **7.** D. cinnabarina & 32. D. simulans (See note to these 2 species).
+        - **19′.** Flowers subsessile; corolla urceolate in the floral bud → [[Diospyros_vermoesenii\|*D. vermoesenii*]]
+    - **15′.** Corolla tube at most 2 times as long as the corolla lobes.
+      - **20.** Corolla tube less than 2 mm in height; ovary glabrous; styles fused, much shorter than the ovary, terminating in a fleshy, capitate stigma, irregularly lobed or 3-4-lobed.
+        - **21.** Ovary with 4 locules; stigma capitate, irregularly lobed.
+          - **22.** Calyx densely strigillous externally with blackish hairs, with lobes of such kind and flat margins; leaves scarcely distinctly acuminate with rounded apex → [[Diospyros_gilletii\|*D. gilletii*]]
+          - **22′.** Calyx densely strigillous externally with fawn golden hairs, with triangular lobes with lateral margins ± reduplicate; leaves fairly distinctly acuminate with acumen ± elongate → [[Diospyros_dendo\|*D. dendo*]]
+        - **21′.** Ovary with 6-8-10 locules; stigma distinctly 3-4-5-lobed.
+          - **23.** Inflorescences ordinarily with 8 flowers and more, very branched, lax, with floral pedicels reaching up to 4 mm in length; network of parallel tertiaries, substantially perpendicular to the midvein, finely prominent on both faces of the blade
+          - **23′.** Inflorescences of 1-5 (-8) flowers, subfasciculate.
+            - **24.** Calyx with (4-) 5-6 hemi-orbicular lobes, imbricate → [[Diospyros_polystemon\|*D. polystemon*]]
+            - **24′.** Calyx 3-lobed.
+              - **25.** Leaf blades briefly subacuminate, 5-12 pairs of secondary veins; inflorescences of (1-) 3-5 (-8) flowers; calyx lobes suborbicular, strongly imbricate → I. D. abyssinica.
+              - **25′.** Leaf blades caudate-acuminate, 12-20 pairs of secondary veins; inflorescences of 1-3 flowers; calyx lobes broadly ovate, scarcely imbricate → [[Diospyros_piscatoria\|*D. piscatoria*]]
+      - **20′.** Corolla tube more than 4 mm in height; styles free or fused only at the base (exception for D. monbuttensis and D. canaliculata), almost as long or longer than the ovary (exception for D. monbuttensis).
+        - **26.** Ovary densely pubescent.
+          - **27.** Calyx longer than the corolla tube and lobed almost to the base; branchlets with bristles reaching 5 mm in length; leaves abnormally scaly carinate, at the base of recent leafy shoots, serving as shelter for ants → [[Diospyros_conocarpa\|*D. conocarpa*]]
+          - **27′.** Calyx as long or shorter than the corolla tube, lobed only in its upper part; hairs on the branchlets never exceeding 2 mm in length; no abnormal scaly leaves.
+            - **28.** Leaves glabrous; inflorescences of 1-3 flowers, axillary on leafy or leafless branchlets; pedicels 4 mm in length → [[Diospyros_boala\|*D. boala*]]
+            - **28′.** Leaves pubescent below; inflorescences of 5 flowers and more, always on the trunk and branches; pedicels 5-15 mm in length.
+              - **29.** Flowers fasciculate; pedicels not exceeding 10 mm in length; corolla tube almost as long as the corolla lobes → [[Diospyros_fragrans\|*D. fragrans*]]
+              - **29′.** Flowers in lax branched cymes; pedicels 12-15 mm in length; corolla tube much shorter than the corolla lobes 34. D. suaveolens → *O. glabrous*
+                - **30.** Pedicels flattened and expanded at the apex, supra-axillary 2-6 mm above the leaf axil; calyx subtrunate, irregularly split; ovary surmounted almost directly by 4 foliaceous stigmas → [[Diospyros_monbuttensis\|*D. monbuttensis*]]
+                - **30′.** Pedicels not flattened and expanded at the apex, nor supra- EBENACEAE axillary; calyx regularly lobed; ovary surmounted by 4 (-5) well-developed styles, free or fused.
+                  - **31.** Calyx lobes longer than the calyx tube.
+                    - **32.** Flowers solitary or in 2-3, axillary or on young ripened branchlets; leaf blades with network of tertiaries fairly loosely reticulate. 4. D. bipindensis.
+                    - **32′.** Inflorescences very floriferous, on the old branchlets and on the trunk; leaf blades with network of tertiaries dense → [[Diospyros_preussii\|*D. preussii*]]
+                  - **31′.** Calyx lobes shorter than the calyx tube.
+                    - **33.** Calyx urceolate-cordate with greatest width just above its base, with broadly triangular lobes; 4 styles fused only at their base → [[Diospyros_physocalycina\|*D. physocalycina*]]
+                    - **33′.** Calyx urceolate-quadrangular, with greatest width toward the middle of its height, with broadly rounded lobes; styles fused into a robust columnette with 2 stigmas → [[Diospyros_canaliculata\|*D. canaliculata*]]
+
+### IV. Based on specimens with fruits*.
+
+- **1.** Calyx lobes distinctly wavy or wavy-folded; calyx more than 10 mm in height.
+  - **2.** Calyx not exceeding half the height of the fruit, 10-12 mm in height, covered externally with fawn puberulence, with 4-5 ovate-triangular lobes 5-6 mm in height, with wavy margin bearing at least one broad undulation in the lower third; fruit subglobose, approximately 2.5-3 cm, somewhat verrucose, almost glabrous at maturity 22. D. mespiliformis
+  - **2′.** Calyx almost as long or longer than the fruit.
+    - **3.** Calyx glabrous, ordinarily with 4 lobes.
+      - **4.** Calyx without distinct venation, with lobes (at least in the young fruit) valvate-reduplicate; dense network of tertiary veins on both faces of the blade → [[Diospyros_preussii\|*D. preussii*]]
+      - **4′.** Calyx with distinct flabellate venation, with lobes not valvate-reduplicate; loose network of tertiary veins on both faces of the blade → [[Diospyros_bipindensis\|*D. bipindensis*]]
+    - **3′.** Calyx puberulent, lobed almost to the base and ordinarily with 5 lobes. * D. alboflavescens (no. 2), D. longiflora (no. 19) and D. platanoides (no. 27) whose fruits are unknown do not appear in this key.
+      - **5.** Fruit ovoid-conical, reaching up to 1.5 × 1.2 cm, glabrous, containing 2-4 seeds → [[Diospyros_dendo\|*D. dendo*]]
+      - **5′.** Fruit globular-depressed, at least 2 × 2 cm, first pubescent then subglabrous; ordinarily 6 seeds or more.
+        - **6.** Leaves glabrous; calyx lobes completely hiding the fruit, with margins distinctly incurved inward → [[Diospyros_boala\|*D. boala*]]
+        - **6′.** Leaves puberulent below; calyx lobes not completely hiding the fruit, with margins not incurved inward → [[Diospyros_pseudomespilus\|*D. pseudomespilus*]]
+- **1′.** Calyx lobes not or only very slightly wavy.
+  - **7.** Pubescence of the fruit composed at least in part of long silky hairs distinctly visible to the naked eye.
+    - **8.** Calyx cupuliform, the tube completely hiding the lower half of the fruit, tomentose with chocolate brown or black hairs, with 5-7 lobes barely or irregularly developed, reaching 15 mm in height; fruit tomentose chocolate brown or black → [[Diospyros_gabunensis\|*D. gabunensis*]]
+    - **8′.** Calyx not cupuliform, the tube not hiding the lower half of the fruit.
+      - **9.** Fruit sparsely silky.
+        - **10.** Calyx almost as long as the fruit, lobed almost to the base; fruit ovoid-conical; abnormal scaly leaves carinate, at the base of recent leafy shoots, serving as shelter for ants → [[Diospyros_conocarpa\|*D. conocarpa*]]
+        - **10′.** Calyx not exceeding half the length of the fruit, not lobed to the middle; no abnormal scaly leaves → [[Diospyros_fragrans\|*D. fragrans*]]
+      - **9′.** Fruit tomentose.
+        - **11.** Fruit almost 2 times as long as wide, tomentose with long yellowish hairs mixed with a short chocolate brown covering → [[Diospyros_suaveolens\|*D. suaveolens*]]
+        - **11′.** Fruit not or only slightly longer than wide, densely covered with russet hairs, then glabrous → [[Diospyros_mannii\|*D. mannii*]]
+  - **7′.** Pubescence of the fruit composed of minute hairs visible with a 20× magnifying glass, or fruit glabrous.
+    - **12.** Calyx longer than the fruit, 30-40 mm in height.
+      - **13.** Calyx urceolate-cordate, with greatest width just above its base, with lobes of such kind much shorter than the tube → [[Diospyros_physocalycina\|*D. physocalycina*]]
+      - **13′.** Calyx urceolate-quadrangular, with greatest width toward the middle of its height, with broadly rounded lobes with reduplicate margins forming 4 sharp ridges that continue on the upper part of the calyx tube → [[Diospyros_canaliculata\|*D. canaliculata*]]
+    - **12′.** Calyx much shorter than the fruit.
+      - **14.** Fruit tapering from the middle or its lower part to the pointed apex, ordinarily fusiform, conical, ovoid-conical or ellipsoid-conical, rarely subglobose (D. simulans).
+        - **15.** Branchlets hispid with ferruginous hairs approximately 1.5 mm in length; leaf blades rounded and most often cordate at the base; fruit reaching up to 4.2 × 2-3 cm.
+        - **15′.** Branchlets not hispid; leaf blades not cordate at the base.
+          - **16.** Leaves very small, not exceeding 5 cm in length, very asymmetric, with apex either emarginate or bearing a filiform mucro.
+            - **17.** Leaves emarginate and lateral veins not or scarcely visible; calyx lobes rounded.. 16. D. Hoyleana (See below).
+            - **17′.** Leaves with a filiform mucro and 2-3 pairs of lateral veins visible; calyx lobes triangular → [[Diospyros_obliquifolia\|*D. obliquifolia*]]
+          - **16′.** Leaves ordinarily larger, not or scarcely asymmetric, with apex neither emarginate nor mucronate.
+            - **18.** Calyx cupuliform, with tube longer than the lobes, the latter irregular, broadly triangular, wider than long → 11. D. ferrea (See below).
+            - **18′.** Calyx not cupuliform, lobed almost to the base.
+              - **19.** Fruit fusiform ± tetragonal, reaching up to 7 × 3 cm → [[Diospyros_soyauxii\|*D. soyauxii*]]
+              - **19′.** Fruit conical, ovoid-conical or ellipsoid-conical (or for D. simulans sometimes subglobose), distinctly tapered to the pointed apex.
+                - **20.** Leaf blades rounded or subacute at the apex, densely pubescent or tomentose below; fruit 2.5-3 × 1.5-2 cm → [[Diospyros_tricolor\|*D. tricolor*]]
+                - **20′.** Leaf blades acuminate at the apex, glabrous or nearly so.
+                  - **21.** Fruit more than 3 cm in diameter, verrucose, R. LETOUZEY & F. WHITE densely puberulent at least toward the apex → 7. D. cinnabarina & 32. D. simulans (See note to these 2 species)
+                  - **21′.** Fruit less than 1.5 cm in diameter.
+                    - **22.** Fruit reaching up to 2.5 × 1.5 cm, ovoid- conical, ± verrucose. 36. D. Vermoesenii.
+                    - **22′.** Fruit reaching up to 1.4 × 0.9 cm, ellip- soid-conical, not verrucose → D. abyssinica (See below).
+      - **14′.** Fruit ellipsoid, globose, globular-depressed, ovoid, obovoid or cylindric, sometimes mucronate or umbonate, but never tapered to a pointed apex.
+        - **23.** Fruit young entirely tomentellous, then fruit tomentellous in places, globular-depressed, approximately 4 × 5 cm; 8 (-10) seeds → [[Diospyros_kamerunensis\|*D. kamerunensis*]]
+        - **23′.** Fruit glabrous or nearly so, at least at maturity.
+          - **24.** Fruit very large, approximately 10 × 6.5 cm, ± ellipsoid, sparsely strigillous-puberulent near the apex, elsewhere glabrous → [[Diospyros_crassiflora\|*D. crassiflora*]]
+          - **24′.** Fruit smaller, never exceeding 5 cm in length and 4.5 cm in diameter.
+            - **25.** Fruit ellipsoid-cylindric or slightly tetragonal, reaching up to 5 × 4.5 cm, with lignified pericarp
+              - **31.** D. Sanza-Minika.
+            - **25′.** Fruit globose, ellipsoid or ovoid, smaller, with non-lignified pericarp.
+              - **26.** Leaves emarginate and lateral veins not or scarcely visible → 16. D. Hoyleana (See above).
+              - **26′.** Leaves not emarginate and lateral veins always visible.
+                - **27.** Fruit ellipsoid or oblongoid, small, reaching up to 1.5 cm in length and 1 cm in diameter; 1-2 seeds.
+                  - **28.** Calyx glabrous externally but with a few minute marginal cilia, deeply lobed almost to the base, with suborbicular lobes; fruit dry black, glabrous → I. D. abyssinica (See above).
+                  - **28′.** Calyx tomentellous, shallowly and irregularly lobed, with broadly triangular lobes; fruit dry pale brown with a few hairs near the apex → II. D. ferrea (See above).
+                - **27′.** Fruit globose, always reaching at least 1.5 cm in length and 1.5 cm in diameter; 4-6-8 seeds or sometimes fewer by abortion.
+                  - **29.** Calyx cupuliform surrounding the lower half of the fruit, with truncate margin but often irregularly broken; fruit reaching up to ± 3 × 2.5-4 cm → [[Diospyros_monbuttensis\|*D. monbuttensis*]]
+                  - **29′.** Calyx not cupuliform → *A. ruminate*
+                    - **31.** Calyx with 4 lobes 4-6 × 2.5-3 mm, reflexed; network of parallel tertiaries, substantially perpendicular to the midvein, finely prominent on both faces of the blade → *D. viridis*
+                    - **31′.** Calyx with 3-4 irregular lobes 3 mm in length, spreading; secondary veins inconspicuous, not impressed on the upper surface and tertiary veins invisible 21. D. melocarpa.
 - **30′.** Albumen not ruminate.
   - **32.** Calyx lobes 6-8 mm in length, distinctly longer than wide.
     - **33.** Branchlets densely puberulent with black hairs; leaves scarcely distinctly acuminate with rounded apex; calyx tube approximately as long as the lobes, the latter bearing flabellate venation → [[Diospyros_gilletii\|*D. gilletii*]]

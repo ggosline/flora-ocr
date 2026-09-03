@@ -57,6 +57,11 @@ RULE_RE = re.compile(r"^-{3,}$")
 SUBKEY_RE = re.compile(r"^\s*([IVX]{1,4})\s*[.)]\s*(.+)$")
 
 
+def _is_subkey(text: str) -> bool:
+    m = SUBKEY_RE.match(text)
+    return bool(m) and len(m.group(2)) > 12
+
+
 def _is_bare_target(text: str) -> bool:
     """True when a line is only a species name, i.e. the previous lead's target.
 
@@ -91,7 +96,13 @@ def _rejoin(lines: list[str]) -> list[str]:
             target = (m.group(3) if m else stripped).strip()
             out[-1] = f"{out[-1].rstrip('. ')} ..... {target}"
             continue
-        if NUMBERED_LEAD_RE.match(line) or BARE_LEAD_RE.match(line) or not out:
+        # A sub-key heading opens a new key. The source marks it as a markdown
+        # heading, but `clean` strips the #-prefix, so without this it reads as
+        # continuation text and is glued to the tail of the preceding lead --
+        # which is how "II. Based on specimens with male flowers" ended up
+        # inside couplet 37' and "III." inside couplet 34'.
+        if (NUMBERED_LEAD_RE.match(line) or BARE_LEAD_RE.match(line)
+                or _is_subkey(stripped) or not out):
             out.append(stripped)
         else:
             out[-1] = f"{out[-1]} {stripped}"
@@ -138,7 +149,7 @@ def format_key(text: str, genus: str) -> str | None:
 
     for lead in leads:
         sub = SUBKEY_RE.match(lead)
-        if sub and len(sub.group(2)) > 12:
+        if sub and _is_subkey(lead):
             rendered.append(f"### {sub.group(1)}. {sub.group(2).strip()}")
             stack.clear()               # each sub-key restarts the numbering
             next_depth = None

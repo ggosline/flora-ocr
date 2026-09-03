@@ -36,13 +36,16 @@ tags: [genus, generated]
       - **8′.** Petiole 5-12 mm; leaves discolorous.
         - **10.** Limb coriaceous (5-13 × 2-4); inflorescences 3-6 cm finely pubescent; anthers glabrous; tree 20 m → B. Schmitzii Rob. et Wilcz. B. Bx. 19 : 474 (1949). Type: Schmitz 1998, H t Katanga.
         - **10′.** Limb papyraceous (9-19 × 3-6) with translucid points; inflorescences 3-6 cm finely pubescent; anthers pubescent; tree 10 m → B. ambigua Rob. et Wilcz. B. Bx. 19 : 475 (1949). Type: Robyns 2106, H t Katanga.
-- **1′.** Leaves hairy beneath, at least under the nerves; young branches hairy (except B. Dawei). II. Ovary glabrous.
-  - **12.** Leaves tomentulose beneath; hairs crispy-woolly, entangled; petiole 5-10 mm.
-    - **13.** Tomentum rust-coloured; f. (7-12 × 3-5) acute, punctate, above olivaceous; inflorescences 4-10 cm; fl. diam. 2 mm; tree 25 m → [[Beilschmiedia_fulva\|*B. fulva*]]
-    - **13′.** Tomentum ochre-yellow; f. (8-18 × 4-12) obtuse; inflorescences 5-14 cm; fl. diam. 2-3 mm; tree 20-50 m
-  - **12′.** Leaves puberulent beneath: hairs not crispy → *L. discolorous*
-    - **15.** Limb narrow (7-10 × 2-4) petiole 10-15 mm; inflorescences 4-5 cm tomentulose; fl. diam. 2 mm; leaves: above black, below olivaceous → B. Letouzeyi Rob. et Wilcz. B. Bx. 20 : 198 (1950). Type: Letouzey 1351, Cameroun.
-    - **15′.** Limb broad (5-18 × 3-8) petiole 10-25 mm; inflorescences 4-10 cm puberulent; fl. diam. 3 mm; leaves: above olivaceous, below brown → B. Louisii Rob. et Wilcz. B. Bx. 19 : 471 (1949). Type: Louis 3086, Congo ex-belge.
+- **1′.** Leaves hairy beneath, at least under the nerves; young branches hairy (except B. Dawei).
+
+### II. Ovary glabrous.
+
+- **12.** Leaves tomentulose beneath; hairs crispy-woolly, entangled; petiole 5-10 mm.
+  - **13.** Tomentum rust-coloured; f. (7-12 × 3-5) acute, punctate, above olivaceous; inflorescences 4-10 cm; fl. diam. 2 mm; tree 25 m → [[Beilschmiedia_fulva\|*B. fulva*]]
+  - **13′.** Tomentum ochre-yellow; f. (8-18 × 4-12) obtuse; inflorescences 5-14 cm; fl. diam. 2-3 mm; tree 20-50 m
+- **12′.** Leaves puberulent beneath: hairs not crispy → *L. discolorous*
+  - **15.** Limb narrow (7-10 × 2-4) petiole 10-15 mm; inflorescences 4-5 cm tomentulose; fl. diam. 2 mm; leaves: above black, below olivaceous → B. Letouzeyi Rob. et Wilcz. B. Bx. 20 : 198 (1950). Type: Letouzey 1351, Cameroun.
+  - **15′.** Limb broad (5-18 × 3-8) petiole 10-25 mm; inflorescences 4-10 cm puberulent; fl. diam. 3 mm; leaves: above olivaceous, below brown → B. Louisii Rob. et Wilcz. B. Bx. 19 : 471 (1949). Type: Louis 3086, Congo ex-belge.
 - **14′.** Limb concolorous.
   - **16.** F. (10-20 × 5-9) papyraceous, punctate, petiole 10-20 mm; inflorescences 5-9 cm puberulent with yellowish indument. B. Hermanii Rob. et Wilcz. B. Bx. 19 : 473 (1949). Type: Herman 2238, Bas Katanga.
   - **16′.** F. (8-18 × 4-7) coriaceous; petiole 3-10 mm; inflorescences
