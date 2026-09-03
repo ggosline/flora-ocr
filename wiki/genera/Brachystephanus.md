@@ -32,9 +32,8 @@ Approximately 10 species from Madagascar and tropical Africa.
 
 ## Key to the species
 
-**1.** Inflorescence finely pubescent, spike-shaped, composed of several pseudo-fascicles or partial inflorescences; internodes approximately 1–2 cm long; bracts and bracteoles lanceolate-linear, 3–4 mm long; flowers and partial inflorescences more or less sessile; corolla approximately 4 cm long → [[Brachystephanus_jaundensis\|*B. jaundensis*]]
-
-**1′.** Inflorescence pubescent-glandular, panicle-shaped, composed of many small partial inflorescences; internodes not exceeding 1 cm long; bracts and bracteoles subulate, minute, reaching a maximum of 2 mm long; partial inflorescences in these small branches up to 2 cm long; flowers distinctly pedicellate, with pedicels 1–3 mm long; corolla 2–2.5 cm long → [[Brachystephanus_mannii\|*B. mannii*]]
+- **1.** Inflorescence finely pubescent, spike-shaped, composed of several pseudo-fascicles or partial inflorescences; internodes approximately 1–2 cm long; bracts and bracteoles lanceolate-linear, 3–4 mm long; flowers and partial inflorescences more or less sessile; corolla approximately 4 cm long → [[Brachystephanus_jaundensis\|*B. jaundensis*]]
+- **1′.** Inflorescence pubescent-glandular, panicle-shaped, composed of many small partial inflorescences; internodes not exceeding 1 cm long; bracts and bracteoles subulate, minute, reaching a maximum of 2 mm long; partial inflorescences in these small branches up to 2 cm long; flowers distinctly pedicellate, with pedicels 1–3 mm long; corolla 2–2.5 cm long → [[Brachystephanus_mannii\|*B. mannii*]]
 
 ## Species in region
 

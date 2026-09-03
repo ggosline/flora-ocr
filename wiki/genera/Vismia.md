@@ -33,13 +33,10 @@ Bibliography
 
 ## Key to the species
 
-**1.** Liane or sarmentose shrub; inflorescences in terminal cymose panicles, longer than the axillant leaves; leaves rounded to subcordate at the base; stamineal phalanges glabrous → couplet **2**
-
-**1′.** Shrub or small tree; inflorescences in axillary cymes or apparently terminal on young lateral branchlets, shorter than the axillant leaves; leaves cuneate to obtuse at the base; stamineal phalanges pubescent → [[Vismia_guineensis\|*V. guineensis*]]
-
-**2.** Lamina glabrous or pubescent (surface visible) beneath → V. rubescens var. rubescens
-
-**2′.** Lamina tomentose (surface not visible) beneath → V. rubescens var. tomentosa
+- **1.** Liane or sarmentose shrub; inflorescences in terminal cymose panicles, longer than the axillant leaves; leaves rounded to subcordate at the base; stamineal phalanges glabrous → couplet **2**
+- **1′.** Shrub or small tree; inflorescences in axillary cymes or apparently terminal on young lateral branchlets, shorter than the axillant leaves; leaves cuneate to obtuse at the base; stamineal phalanges pubescent → [[Vismia_guineensis\|*V. guineensis*]]
+  - **2.** Lamina glabrous or pubescent (surface visible) beneath → V. rubescens var. rubescens
+  - **2′.** Lamina tomentose (surface not visible) beneath → V. rubescens var. tomentosa
 
 ## Species in region
 

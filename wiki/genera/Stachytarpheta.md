@@ -31,17 +31,12 @@ B: Atkins (2004), Cardoso et al. (2011), Chandler et al. (2014), Fernandes (2005
 
 ## Key to the species
 
-**1.** Calyx at anthesis with 4 teeth, 2 of which are very reduced so that it often appears to have 2 teeth → S . indica
-
-**1′.** Calyx at anthesis with 4 or 5 subequal teeth → couplet **2**
-
-**2.** Inflorescence with scattered hairs ; calyx with 4 teeth ; corolla tube 4–6 mm long → S . cayennensis
-
-**2′.** Inflorescence glabrous ; calyx with 4 or 5 teeth ; corolla tube 7–11 mm long → couplet **3**
-
-**3.** Leaf blade obtuse to rounded or somewhat acute at the apex ; calyx with 4 equal teeth → S . jamaicensis
-
-**3′.** Leaf blade distinctly acute at the apex, calyx with 5 equal teeth → S . urticifolia
+- **1.** Calyx at anthesis with 4 teeth, 2 of which are very reduced so that it often appears to have 2 teeth → S . indica
+- **1′.** Calyx at anthesis with 4 or 5 subequal teeth → couplet **2**
+  - **2.** Inflorescence with scattered hairs ; calyx with 4 teeth ; corolla tube 4–6 mm long → S . cayennensis
+  - **2′.** Inflorescence glabrous ; calyx with 4 or 5 teeth ; corolla tube 7–11 mm long → couplet **3**
+    - **3.** Leaf blade obtuse to rounded or somewhat acute at the apex ; calyx with 4 equal teeth → S . jamaicensis
+    - **3′.** Leaf blade distinctly acute at the apex, calyx with 5 equal teeth → S . urticifolia
 
 ## Species in region
 

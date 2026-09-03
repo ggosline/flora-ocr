@@ -37,9 +37,8 @@ In the sterile state, Octolepis can be confused with numerous shrubs, and the an
 
 ## Key to the species
 
-**1.** Flowers predominantly tetramerous; leaves 5–30 cm long, but generally more than 15, by 4–10 cm wide, with blade rather attenuate-cuneate toward the base, with 8–15 (and up to 20) pairs of lateral veins 1. O. casearia. (leaves 8–12 cm long by 3–4 cm wide, rather thick chagrinous, with few veins → O. nodosericea).
-
-**1′.** Flowers predominantly pentamerous; leaves 5–20 cm long, but generally 10–12, by 2–7 cm wide, with base rather rounded or subcordate, with 5–12 pairs of lateral veins → [[Octolepis_decalepis\|*O. decalepis*]]
+- **1.** Flowers predominantly tetramerous; leaves 5–30 cm long, but generally more than 15, by 4–10 cm wide, with blade rather attenuate-cuneate toward the base, with 8–15 (and up to 20) pairs of lateral veins 1. O. casearia. (leaves 8–12 cm long by 3–4 cm wide, rather thick chagrinous, with few veins → O. nodosericea).
+- **1′.** Flowers predominantly pentamerous; leaves 5–20 cm long, but generally 10–12, by 2–7 cm wide, with base rather rounded or subcordate, with 5–12 pairs of lateral veins → [[Octolepis_decalepis\|*O. decalepis*]]
 
 ## Species in region
 

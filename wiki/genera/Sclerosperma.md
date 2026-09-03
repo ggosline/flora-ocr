@@ -33,13 +33,10 @@ Bibliography
 
 ## Key to the species
 
-**1.** Mature leaves entire, with apex deeply bifid → [[Sclerosperma_profiziana\|*S. profiziana*]]
-
-**1′.** Mature leaves pinnate, divided into 8 to 40 pairs of leaflets → couplet **2**
-
-**2.** Leaflets 8 to 17(–24); rachis of inflorescences 3–6 cm; < 17 fruits per infructescence → [[Sclerosperma_mannii\|*S. mannii*]]
-
-**2′.** Leaflets (20–)25 to 40; rachis of inflorescences 7–11 cm; up to 30 fruits per infructescence → [[Sclerosperma_walkeri\|*S. walkeri*]]
+- **1.** Mature leaves entire, with apex deeply bifid → [[Sclerosperma_profiziana\|*S. profiziana*]]
+- **1′.** Mature leaves pinnate, divided into 8 to 40 pairs of leaflets → couplet **2**
+  - **2.** Leaflets 8 to 17(–24); rachis of inflorescences 3–6 cm; < 17 fruits per infructescence → [[Sclerosperma_mannii\|*S. mannii*]]
+  - **2′.** Leaflets (20–)25 to 40; rachis of inflorescences 7–11 cm; up to 30 fruits per infructescence → [[Sclerosperma_walkeri\|*S. walkeri*]]
 
 ## Species in region
 

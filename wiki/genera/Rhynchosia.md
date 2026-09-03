@@ -31,25 +31,16 @@ B: De la Estrella et al. (2010), Fortunato (2000), Grear (1978), Hauman (1954c),
 
 ## Key to the species
 
-**1.** Climbing herb rather delicate, with slender stem; raceme subsessile, dense, capitate; corolla yellow; seed brown-red with black or almost black spots → R. densiflora subsp. debilis
-
-**1′.** Climbing herb rather robust; raceme pedunculate, spiciform, lax; corolla cream, greenish or yellow, striped with purple; seed metallic blue → couplet **2**
-
-**2.** Calyx with lobes 3–4 × 1 mm, subequal; leaflets with limb cordate at base R. gabonensis
-
-**2′.** Calyx with lobes markedly unequal, the upper ones ≥ 9 mm long; leaflets with limb cuneate to subcordate at base → couplet **3**
-
-**3.** Leaflets with limb glabrous or almost glabrous beneath → couplet **4**
-
-**3′.** Leaflets with limb pubescent to velvety beneath → couplet **5**
-
-**4.** Upper calyx lobe 15–18 mm long, very enlarged toward the apex and scarcely bilobed; limb of leaflets with acumen reaching 15–22 mm long (to be searched for in Gabon) → [[Rhynchosia_pycnostachya\|*R. pycnostachya*]]
-
-**4′.** Upper calyx lobe 6–8 mm long, not enlarged at apex and distinctly bilobed; limb of leaflets with acumen reaching 10 mm long → [[Rhynchosia_mannii\|*R. mannii*]]
-
-**5.** Calyx with tube 2–3 mm long, lateral lobes up to ⅓ as long as the upper; branches with white pubescence; standard 12–15 mm long (including the claw) → [[Rhynchosia_preussii\|*R. preussii*]]
-
-**5′.** Calyx with tube 5–6 mm long, lateral lobes reaching at least ½ the length of the upper; branches with ferruginous pubescence; standard 18–22 mm long (including the claw) → [[Rhynchosia_hirta\|*R. hirta*]]
+- **1.** Climbing herb rather delicate, with slender stem; raceme subsessile, dense, capitate; corolla yellow; seed brown-red with black or almost black spots → R. densiflora subsp. debilis
+- **1′.** Climbing herb rather robust; raceme pedunculate, spiciform, lax; corolla cream, greenish or yellow, striped with purple; seed metallic blue → couplet **2**
+  - **2.** Calyx with lobes 3–4 × 1 mm, subequal; leaflets with limb cordate at base R. gabonensis
+  - **2′.** Calyx with lobes markedly unequal, the upper ones ≥ 9 mm long; leaflets with limb cuneate to subcordate at base → couplet **3**
+    - **3.** Leaflets with limb glabrous or almost glabrous beneath → couplet **4**
+    - **3′.** Leaflets with limb pubescent to velvety beneath → couplet **5**
+      - **4.** Upper calyx lobe 15–18 mm long, very enlarged toward the apex and scarcely bilobed; limb of leaflets with acumen reaching 15–22 mm long (to be searched for in Gabon) → [[Rhynchosia_pycnostachya\|*R. pycnostachya*]]
+      - **4′.** Upper calyx lobe 6–8 mm long, not enlarged at apex and distinctly bilobed; limb of leaflets with acumen reaching 10 mm long → [[Rhynchosia_mannii\|*R. mannii*]]
+        - **5.** Calyx with tube 2–3 mm long, lateral lobes up to ⅓ as long as the upper; branches with white pubescence; standard 12–15 mm long (including the claw) → [[Rhynchosia_preussii\|*R. preussii*]]
+        - **5′.** Calyx with tube 5–6 mm long, lateral lobes reaching at least ½ the length of the upper; branches with ferruginous pubescence; standard 18–22 mm long (including the claw) → [[Rhynchosia_hirta\|*R. hirta*]]
 
 ## Species in region
 

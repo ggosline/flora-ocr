@@ -29,9 +29,8 @@ Bibliography: Fischer (1992, 1999), Fischer et al. (2013), Lewis (2000), Philcox
 
 ## Key to the species
 
-**1.** Blade oval to orbicular; bracts foliaceous; stem prostrate to ascending → [[Lindernia_rotundifolia\|*L. rotundifolia*]]
-
-**1′.** Blade narrowly lanceolate to oblanceolate or oval; bracts scaly; stem erect or sometimes prostrate to ascending → [[Lindernia_parviflora\|*L. parviflora*]]
+- **1.** Blade oval to orbicular; bracts foliaceous; stem prostrate to ascending → [[Lindernia_rotundifolia\|*L. rotundifolia*]]
+- **1′.** Blade narrowly lanceolate to oblanceolate or oval; bracts scaly; stem erect or sometimes prostrate to ascending → [[Lindernia_parviflora\|*L. parviflora*]]
 
 ## Species in region
 

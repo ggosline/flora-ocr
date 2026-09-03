@@ -33,9 +33,8 @@ Bibliography
 
 ## Key to the species
 
-**1.** Stipe < 3 cm in diameter; swelling below the petiole absent; seed covered with polygonal depressions → [[Oncocalamus_mannii\|*O. mannii*]]
-
-**1′.** Stipe > 3 cm in diameter; swelling below the petiole clearly present; seed smooth → [[Oncocalamus_macrospathus\|*O. macrospathus*]]
+- **1.** Stipe < 3 cm in diameter; swelling below the petiole absent; seed covered with polygonal depressions → [[Oncocalamus_mannii\|*O. mannii*]]
+- **1′.** Stipe > 3 cm in diameter; swelling below the petiole clearly present; seed smooth → [[Oncocalamus_macrospathus\|*O. macrospathus*]]
 
 ## Species in region
 

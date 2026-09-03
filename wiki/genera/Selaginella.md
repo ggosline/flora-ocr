@@ -24,33 +24,20 @@ Cosmopolitan, approximately 800 species.
 
 ## Key to the species
 
-**1.** Stems twining or climbing; rhizophores dorsal or ventral.
-
-**2.** Stems twining, not articulate → *S. myosurus*
-
-**2′.** Stems climbing, articulate → [[Selaginella_grallipes\|*S. grallipes*]]
-
-**1′.** Stems erect or creeping; rhizophores ventral.
-
-**3.** Stems pubescent, erect; branched portion frond-like, triangular in outline → [[Selaginella_vogelii\|*S. vogelii*]]
-
-**3′.** Stems glabrous.
-
-**4.** Stems erect, not divided from the base.
-
-**5.** Stolons present, lateral leaves serrulate, bearing 2 false veins, contiguous on the stem → [[Selaginella_versicolor\|*S. versicolor*]]
-
-**5′.** Stolons absent; lateral leaves ciliolate at the base, spaced approximately 10 times their width on the stem → [[Selaginella_leoneensis\|*S. leoneensis*]]
-
-**4′.** Stems prostrate, generally divided from the base, rhizophores at the nodes.
-
-**6.** Stems often orange in color; lateral leaves often reflexed and twining; median leaves obovate; microspores whitish → [[Selaginella_soyauxii\|*S. soyauxii*]]
-
-**6′.** Stems stramineous, pale; microspores vermilion in mass.
-
-**7.** Sporophylls uniform; median leaves acuminate, serrulate → [[Selaginella_cathedrifolia\|*S. cathedrifolia*]]
-
-**7′.** Sporophylls dimorphic; median leaves acuminate-aristate → [[Selaginella_molliceps\|*S. molliceps*]]
+- **1.** Stems twining or climbing; rhizophores dorsal or ventral.
+  - **2.** Stems twining, not articulate → *S. myosurus*
+  - **2′.** Stems climbing, articulate → [[Selaginella_grallipes\|*S. grallipes*]]
+- **1′.** Stems erect or creeping; rhizophores ventral.
+  - **3.** Stems pubescent, erect; branched portion frond-like, triangular in outline → [[Selaginella_vogelii\|*S. vogelii*]]
+  - **3′.** Stems glabrous.
+    - **4.** Stems erect, not divided from the base.
+      - **5.** Stolons present, lateral leaves serrulate, bearing 2 false veins, contiguous on the stem → [[Selaginella_versicolor\|*S. versicolor*]]
+      - **5′.** Stolons absent; lateral leaves ciliolate at the base, spaced approximately 10 times their width on the stem → [[Selaginella_leoneensis\|*S. leoneensis*]]
+    - **4′.** Stems prostrate, generally divided from the base, rhizophores at the nodes.
+      - **6.** Stems often orange in color; lateral leaves often reflexed and twining; median leaves obovate; microspores whitish → [[Selaginella_soyauxii\|*S. soyauxii*]]
+      - **6′.** Stems stramineous, pale; microspores vermilion in mass.
+        - **7.** Sporophylls uniform; median leaves acuminate, serrulate → [[Selaginella_cathedrifolia\|*S. cathedrifolia*]]
+        - **7′.** Sporophylls dimorphic; median leaves acuminate-aristate → [[Selaginella_molliceps\|*S. molliceps*]]
 
 ## Species in region
 

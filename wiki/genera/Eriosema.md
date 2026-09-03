@@ -29,51 +29,29 @@ Bibliography: Brummitt (2005), Hauman (1954c), Hepper (1958), Jacques-Félix (19
 
 ## Key to the species
 
-**1.** Leaflets with linear blade, more than 10 times longer than wide; inflorescence with (1–)2 to 4(–6) flowers → [[Eriosema_batekense\|*E. batekense*]]
-
-**1′.** Leaflets with blade < 10 times longer than wide; inflorescence generally with more flowers → couplet **2**
-
-**2.** Leaves all 1-foliolate, with blade white-tomentose below → couplet **3**
-
-**2′.** Leaves with 3 or 5 leaflets, sometimes with 1 leaflet near the base of the plant, with blade silky reddish-brown to reddish-yellow or whitish below → couplet **4**
-
-**3.** Plant 30–60 cm tall; stem with elongated internodes; racemes 5–12(–14) cm long; corolla purple → [[Eriosema_pulcherrimum\|*E. pulcherrimum*]]
-
-**3′.** Compact plant, 5–30 cm tall; stem with short internodes; racemes 1–2.5 cm long; corolla yellow → [[Eriosema_pellegrinii\|*E. pellegrinii*]]
-
-**4.** Petiole 15–40 mm → couplet **5**
-
-**4′.** Petiole 1–6 mm → couplet **7**
-
-**5.** Hairs straight, spreading or reflexed; stem up to 2.5 m long, erect or rather sarmentose or prostrate; inflorescence dense; flower 5–7 mm long; standard narrowly obovate, with appendage situated clearly above the claw → couplet **6**
-
-**5′.** Hairs curled; stem erect, up to 70 cm tall; inflorescence lax; flower
-
-**8.** 15 mm long; standard obovate, with appendage at the apex of the claw → E. spicatum subsp. spicatum
-
-**6.** Plant with relatively lax pubescence; leaflets with broadly ovate blade, with acute apex; inflorescence 2–3 cm long → E. parviflorum subsp. podostachyum
-
-**6′.** Plant with dense pubescence; leaflets with elliptic to ovate blade, with obtuse to subacute apex; inflorescence 2–7 cm long → E. parviflorum subsp. parviflorum
-
-**7.** Inflorescence capitate; peduncle 0.4–2 cm → couplet **8**
-
-**7′.** Inflorescence elongate; peduncle (1.5–)2–3 cm → couplet **11**
-
-**8.** Calyx 5–9 mm long → couplet **9**
-
-**8′.** Calyx 14–18(–20) mm long → E. griseum var. griseum
-
-**9.** Leaflets with narrowly oblanceolate-elliptic blade, > 4 times longer than wide, attenuate at both ends, with pinnate venation; branchlets with appressed indumentum → [[Eriosema_laurentii\|*E. laurentii*]]
-
-**9′.** Leaflets with oblong-elliptic blade, < 3(–4) times longer than wide, with rounded or obtuse to emarginate apex, with subdigitate venation with the basal vein of the lateral leaflets reaching or exceeding half the length of the blade; branchlets with erect indumentum → couplet **10**
-
-**10.** Capitules with peduncle 4–8 mm, with more than 10 flowers .. E. glomeratum var. glomeratum
-
-**10′.** Capitules with peduncle 1–2.5 cm, rather pauciflorous → E. glomeratum var. elongatum
-
-**11.** Plant up to 25 cm tall; leaflets with elliptic blade, with acute apex; stipules fused, except at the apex; racemes 1–2 cm long → E. shirense var. shirense
-
-**11′.** Plant reaching 1.5 m tall; leaflets with elliptic-obovate blade, with obtuse or sometimes acute apex; stipules free; racemes 1–12 cm long → [[Eriosema_psoraleoides\|*E. psoraleoides*]]
+- **1.** Leaflets with linear blade, more than 10 times longer than wide; inflorescence with (1–)2 to 4(–6) flowers → [[Eriosema_batekense\|*E. batekense*]]
+- **1′.** Leaflets with blade < 10 times longer than wide; inflorescence generally with more flowers → couplet **2**
+  - **2.** Leaves all 1-foliolate, with blade white-tomentose below → couplet **3**
+  - **2′.** Leaves with 3 or 5 leaflets, sometimes with 1 leaflet near the base of the plant, with blade silky reddish-brown to reddish-yellow or whitish below → couplet **4**
+    - **3.** Plant 30–60 cm tall; stem with elongated internodes; racemes 5–12(–14) cm long; corolla purple → [[Eriosema_pulcherrimum\|*E. pulcherrimum*]]
+    - **3′.** Compact plant, 5–30 cm tall; stem with short internodes; racemes 1–2.5 cm long; corolla yellow → [[Eriosema_pellegrinii\|*E. pellegrinii*]]
+      - **4.** Petiole 15–40 mm → couplet **5**
+      - **4′.** Petiole 1–6 mm → couplet **7**
+        - **5.** Hairs straight, spreading or reflexed; stem up to 2.5 m long, erect or rather sarmentose or prostrate; inflorescence dense; flower 5–7 mm long; standard narrowly obovate, with appendage situated clearly above the claw → couplet **6**
+        - **5′.** Hairs curled; stem erect, up to 70 cm tall; inflorescence lax; flower
+          - **8.** 15 mm long; standard obovate, with appendage at the apex of the claw → E. spicatum subsp. spicatum
+            - **6.** Plant with relatively lax pubescence; leaflets with broadly ovate blade, with acute apex; inflorescence 2–3 cm long → E. parviflorum subsp. podostachyum
+            - **6′.** Plant with dense pubescence; leaflets with elliptic to ovate blade, with obtuse to subacute apex; inflorescence 2–7 cm long → E. parviflorum subsp. parviflorum
+              - **7.** Inflorescence capitate; peduncle 0.4–2 cm → couplet **8**
+              - **7′.** Inflorescence elongate; peduncle (1.5–)2–3 cm → couplet **11**
+                - **8.** Calyx 5–9 mm long → couplet **9**
+          - **8′.** Calyx 14–18(–20) mm long → E. griseum var. griseum
+            - **9.** Leaflets with narrowly oblanceolate-elliptic blade, > 4 times longer than wide, attenuate at both ends, with pinnate venation; branchlets with appressed indumentum → [[Eriosema_laurentii\|*E. laurentii*]]
+            - **9′.** Leaflets with oblong-elliptic blade, < 3(–4) times longer than wide, with rounded or obtuse to emarginate apex, with subdigitate venation with the basal vein of the lateral leaflets reaching or exceeding half the length of the blade; branchlets with erect indumentum → couplet **10**
+              - **10.** Capitules with peduncle 4–8 mm, with more than 10 flowers .. E. glomeratum var. glomeratum
+              - **10′.** Capitules with peduncle 1–2.5 cm, rather pauciflorous → E. glomeratum var. elongatum
+                - **11.** Plant up to 25 cm tall; leaflets with elliptic blade, with acute apex; stipules fused, except at the apex; racemes 1–2 cm long → E. shirense var. shirense
+                - **11′.** Plant reaching 1.5 m tall; leaflets with elliptic-obovate blade, with obtuse or sometimes acute apex; stipules free; racemes 1–12 cm long → [[Eriosema_psoraleoides\|*E. psoraleoides*]]
 
 ## Species in region
 

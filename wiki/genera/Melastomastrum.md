@@ -31,7 +31,7 @@ African genus of six heliophilous species. One of them, Melastomastrum capitatum
 
 ## Key to the species
 
-**1′.** Flowers glomerate in groups of 3 to 5 within a common involucre of bracts; hypanthium densely clothed, in its middle part, with branched emergences; ovary setulose, plus the 5-lobed ciliate collarette → 1 bis. M. autranianum.
+- **1′.** Flowers glomerate in groups of 3 to 5 within a common involucre of bracts; hypanthium densely clothed, in its middle part, with branched emergences; ovary setulose, plus the 5-lobed ciliate collarette → 1 bis. M. autranianum.
 
 ## Species in region
 

@@ -35,27 +35,17 @@ Botton & Hallé (1958), Duke (1981), Hauman (1954e), Mackinder et al. (2001), Mo
 
 ## Key to the species
 
-**1.** Climbing plant; lateral leaflets differing in form and/or size from the terminal leaflet → couplet **2**
-
-**1′.** Erect shrub, lateral leaflets of the same form and/or size as the terminal leaflet (to be sought in Gabon) → M. stans Welw. ex Baker
-
-**2.** Flowers arranged in 2 to 10(–15) in an umbel; branchlets finely grey pubescent → [[Mucuna_sloanei\|*M. sloanei*]]
-
-**2′.** Flowers in racemes; branchlets glabrous or covered with rusty stinging hairs → couplet **3**
-
-**3.** Raceme with a very long peduncle, up to 3 m, and zigzag rachis; pod ornamented with prominent crests or transverse ridges → [[Mucuna_flagellipes\|*M. flagellipes*]]
-
-**3′.** Raceme with peduncle up to 40 cm long and straight rachis; pod smooth or marked with longitudinal ridges → couplet **4**
-
-**4.** Corolla whitish, greenish or yellowish (blackening in herbarium), 5–8 cm long; pod
-
-**5.** 20 × 3–4 cm, with 2 or 3 seeds, distinctly undulate → [[Mucuna_occidentalis\|*M. occidentalis*]]
-
-**5′.** Corolla violet or dark purple, up to 4 cm long; pod 5–8 × 1–1.5 cm, with 5 or 6 seeds, ± sigmoid → couplet **5**
-
-**5.** Pod covered with long, erect, rigid and stinging hairs, without longitudinal ridges; seed black spotted with brown → M. pruriens var. pruriens
-
-**5′.** Pod covered with short hairs, often appressed and non-stinging, with one or more longitudinal ridges; seed of highly variable colours: brown, purple, grey or white; plant sometimes cultivated (to be sought in Gabon) → M. pruriens var. utilis (Wall. ex Wight) Baker ex Burck
+- **1.** Climbing plant; lateral leaflets differing in form and/or size from the terminal leaflet → couplet **2**
+- **1′.** Erect shrub, lateral leaflets of the same form and/or size as the terminal leaflet (to be sought in Gabon) → M. stans Welw. ex Baker
+  - **2.** Flowers arranged in 2 to 10(–15) in an umbel; branchlets finely grey pubescent → [[Mucuna_sloanei\|*M. sloanei*]]
+  - **2′.** Flowers in racemes; branchlets glabrous or covered with rusty stinging hairs → couplet **3**
+    - **3.** Raceme with a very long peduncle, up to 3 m, and zigzag rachis; pod ornamented with prominent crests or transverse ridges → [[Mucuna_flagellipes\|*M. flagellipes*]]
+    - **3′.** Raceme with peduncle up to 40 cm long and straight rachis; pod smooth or marked with longitudinal ridges → couplet **4**
+      - **4.** Corolla whitish, greenish or yellowish (blackening in herbarium), 5–8 cm long; pod
+        - **5.** 20 × 3–4 cm, with 2 or 3 seeds, distinctly undulate → [[Mucuna_occidentalis\|*M. occidentalis*]]
+        - **5′.** Corolla violet or dark purple, up to 4 cm long; pod 5–8 × 1–1.5 cm, with 5 or 6 seeds, ± sigmoid → couplet **5**
+          - **5.** Pod covered with long, erect, rigid and stinging hairs, without longitudinal ridges; seed black spotted with brown → M. pruriens var. pruriens
+          - **5′.** Pod covered with short hairs, often appressed and non-stinging, with one or more longitudinal ridges; seed of highly variable colours: brown, purple, grey or white; plant sometimes cultivated (to be sought in Gabon) → M. pruriens var. utilis (Wall. ex Wight) Baker ex Burck
 
 ## Species in region
 

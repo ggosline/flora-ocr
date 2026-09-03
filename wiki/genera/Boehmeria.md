@@ -31,9 +31,8 @@ Boehmeria 51
 
 ## Key to the species
 
-**1.** Leaves alternate; inflorescence branched several times; underside of limb with white tomentum → [[Boehmeria_nivea\|*B. nivea*]]
-
-**1′.** Leaves opposite; inflorescence unbranched; underside of limb with soft pubescence, but without white tomentum → B. virgata subsp. macrophylla var. molliuscula
+- **1.** Leaves alternate; inflorescence branched several times; underside of limb with white tomentum → [[Boehmeria_nivea\|*B. nivea*]]
+- **1′.** Leaves opposite; inflorescence unbranched; underside of limb with soft pubescence, but without white tomentum → B. virgata subsp. macrophylla var. molliuscula
 
 ## Species in region
 

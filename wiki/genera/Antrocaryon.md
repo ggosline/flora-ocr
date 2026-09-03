@@ -29,9 +29,8 @@ Bibliography
 
 ## Key to the species
 
-**1.** Leaflets with 10 to 14 pairs of lateral veins (main veins and those between the main veins); stone flattened, 5- or 6-lobulate, 1–1.5 cm in height and 2.2–2.6 cm in diameter → A. klaineanum 4 Frans J. BRETELER
-
-**1′.** Leaflets with 20 to 30 pairs of lateral veins (main veins and those between the main veins); stone subspherical to broadly obovoid, ± laterally compressed, 3.5–4.5 cm in height, 3–3.5 cm in width and 3.5–4 cm in thickness → [[Antrocaryon_nannanii\|*A. nannanii*]]
+- **1.** Leaflets with 10 to 14 pairs of lateral veins (main veins and those between the main veins); stone flattened, 5- or 6-lobulate, 1–1.5 cm in height and 2.2–2.6 cm in diameter → A. klaineanum 4 Frans J. BRETELER
+- **1′.** Leaflets with 20 to 30 pairs of lateral veins (main veins and those between the main veins); stone subspherical to broadly obovoid, ± laterally compressed, 3.5–4.5 cm in height, 3–3.5 cm in width and 3.5–4 cm in thickness → [[Antrocaryon_nannanii\|*A. nannanii*]]
 
 ## Species in region
 

@@ -27,9 +27,8 @@ Lower glume and upper lemma cuspidate or shortly awned; ligule represented by a 
 
 ## Key to the species
 
-**1.** Spikelets only acuminate or very briefly cuspidate, 3 to 4 mm long, in dense panicles formed of sub-horizontal or slightly erect branches; tall erect grasses with stiff and cutting leaves from marshy habitats → [[Echinochloa_pyramidalis\|*E. pyramidalis*]]
-
-**1′.** Spikelets with long awns, 4 to 6 mm long, awn up to 2 cm or more, panicle rather lax; floating grasses from inundated habitats → [[Echinochloa_stagnina\|*E. stagnina*]]
+- **1.** Spikelets only acuminate or very briefly cuspidate, 3 to 4 mm long, in dense panicles formed of sub-horizontal or slightly erect branches; tall erect grasses with stiff and cutting leaves from marshy habitats → [[Echinochloa_pyramidalis\|*E. pyramidalis*]]
+- **1′.** Spikelets with long awns, 4 to 6 mm long, awn up to 2 cm or more, panicle rather lax; floating grasses from inundated habitats → [[Echinochloa_stagnina\|*E. stagnina*]]
 
 ## Species in region
 

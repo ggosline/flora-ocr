@@ -37,31 +37,19 @@ B: Balle (1948), Diniz (1997), Düll (1973), Mathieu & Callejas Posada (2006), V
 
 ## Key to the species
 
-**1.** Leaves generally quaternate, but sometimes opposite or ternate (especially in young plants) → [[Peperomia_tetraphylla\|*P. tetraphylla*]]
-
-**1′.** Leaves alternate or opposite → couplet **2**
-
-**2.** Plant creeping; leaf blade generally broadly elliptic to circular, but sometimes elliptic → [[Peperomia_bangroana\|*P. bangroana*]]
-
-**2′.** Plant erect; leaf blade ovate, elliptic or broadly ovate-triangular → couplet **3**
-
-**3.** Spikes numerous (approximately 20 or more); leaf blade membranous, broadly ovate- triangular, ± as long as wide, with truncate-rounded to cordate base → [[Peperomia_pellucida\|*P. pellucida*]]
-
-**3′.** Spikes few (rarely more than 5); leaf blade thick and often fleshy, ovate or elliptic, longer than wide, base never cordate → couplet **4**
-
-**4.** Leaf blade apex acute or obtuse, not apiculate to rounded-emarginate; spikes
-
-**1.** 2.5 mm in diameter when dry → couplet **5**
-
-**1′.** Leaf blade apex acute-apiculate, subcuspidulate to long-acuminate; spikes rarely reaching 1 mm in diameter when dry → couplet **6**
-
-**5.** Spikes terminal or subterminal, several per node → [[Peperomia_thomeana\|*P. thomeana*]]
-
-**5′.** Spikes terminal and/or axillary, 1 per node → [[Peperomia_abyssinica\|*P. abyssinica*]]
-
-**6.** Herb generally epiphytic; leaf blade elliptic (width/length ratio < ½), with attenuate base and apex shortly to long-acuminate → P. fernandopoana var. fernandopoana
-
-**6′.** Herb generally terrestrial; leaf blade broadly ovate-elliptic (width/length ratio > ½), with rounded base and apex acute-apiculate to subcuspidulate → P. molleri subsp. molleri
+- **1.** Leaves generally quaternate, but sometimes opposite or ternate (especially in young plants) → [[Peperomia_tetraphylla\|*P. tetraphylla*]]
+- **1′.** Leaves alternate or opposite → couplet **2**
+  - **2.** Plant creeping; leaf blade generally broadly elliptic to circular, but sometimes elliptic → [[Peperomia_bangroana\|*P. bangroana*]]
+  - **2′.** Plant erect; leaf blade ovate, elliptic or broadly ovate-triangular → couplet **3**
+    - **3.** Spikes numerous (approximately 20 or more); leaf blade membranous, broadly ovate- triangular, ± as long as wide, with truncate-rounded to cordate base → [[Peperomia_pellucida\|*P. pellucida*]]
+    - **3′.** Spikes few (rarely more than 5); leaf blade thick and often fleshy, ovate or elliptic, longer than wide, base never cordate → couplet **4**
+      - **4.** Leaf blade apex acute or obtuse, not apiculate to rounded-emarginate; spikes
+        - **1.** 2.5 mm in diameter when dry → couplet **5**
+        - **1′.** Leaf blade apex acute-apiculate, subcuspidulate to long-acuminate; spikes rarely reaching 1 mm in diameter when dry → couplet **6**
+          - **5.** Spikes terminal or subterminal, several per node → [[Peperomia_thomeana\|*P. thomeana*]]
+          - **5′.** Spikes terminal and/or axillary, 1 per node → [[Peperomia_abyssinica\|*P. abyssinica*]]
+            - **6.** Herb generally epiphytic; leaf blade elliptic (width/length ratio < ½), with attenuate base and apex shortly to long-acuminate → P. fernandopoana var. fernandopoana
+            - **6′.** Herb generally terrestrial; leaf blade broadly ovate-elliptic (width/length ratio > ½), with rounded base and apex acute-apiculate to subcuspidulate → P. molleri subsp. molleri
 
 ## Species in region
 

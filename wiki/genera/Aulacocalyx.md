@@ -33,29 +33,18 @@ The corollas of certain flowers split unilaterally and appear ± zygomorphic; th
 
 ## Key to the species
 
-**1.** Lamina with obtuse to cordate base, frequently ± asymmetrical, and with 9-14 pairs of secondary veins; calyx lobes narrow and ± subulate; inflorescences 1-3-flowered, often uniflorous
-
-**1′.** Lamina with acute or sometimes subobtuse but symmetrical base, and with fewer than 8 pairs of secondary veins, generally 4-6 pairs.
-
-**2.** Calyx lobes deltoid very acute to ± subulate; corolla rotate with variable pubescence and tube length; inflorescences contracted few- or many-flowered.
-
-**3.** Young internodes and especially stipules clothed with ± golden pubescence characteristic.
-
-**4.** Sepals medium or long, ca. 2.5-5 mm → 2a. A. jasminiflora var. jasminiflora
-
-**4′.** Sepals short ca. 1-2 mm → 2b. A. jasminiflora var. brevis
-
-**3′.** Young internodes and stipules glabrous.
-
-**5.** Sepals short ca. 1 mm → 3a. A. Lujai var. Lujai
-
-**5′.** Sepals long ca. 2-4 mm → 3b. A. Lujai var. subulata
-
-**2′.** Calyx lobes very short, distinctly lower than broad; corolla often unilaterally split at anthesis.
-
-**6.** Inflorescences few-flowered (1-3 flowers); calyx 5-7 mm in diam.; corolla 3-4 cm long; no leaf domatia; lamina base very acute → [[Aulacocalyx_talbotii\|*A. talbotii*]]
-
-**6′.** Inflorescences many-flowered (5-12 flowers); calyx 3 mm in diam.; corolla 1.5-2.5 cm long; small axillary hairy domatia; lamina base generally acute on one side, subacute on the other → 5. A. Le-Testui
+- **1.** Lamina with obtuse to cordate base, frequently ± asymmetrical, and with 9-14 pairs of secondary veins; calyx lobes narrow and ± subulate; inflorescences 1-3-flowered, often uniflorous
+- **1′.** Lamina with acute or sometimes subobtuse but symmetrical base, and with fewer than 8 pairs of secondary veins, generally 4-6 pairs.
+  - **2.** Calyx lobes deltoid very acute to ± subulate; corolla rotate with variable pubescence and tube length; inflorescences contracted few- or many-flowered.
+    - **3.** Young internodes and especially stipules clothed with ± golden pubescence characteristic.
+      - **4.** Sepals medium or long, ca. 2.5-5 mm → 2a. A. jasminiflora var. jasminiflora
+      - **4′.** Sepals short ca. 1-2 mm → 2b. A. jasminiflora var. brevis
+    - **3′.** Young internodes and stipules glabrous.
+      - **5.** Sepals short ca. 1 mm → 3a. A. Lujai var. Lujai
+      - **5′.** Sepals long ca. 2-4 mm → 3b. A. Lujai var. subulata
+  - **2′.** Calyx lobes very short, distinctly lower than broad; corolla often unilaterally split at anthesis.
+    - **6.** Inflorescences few-flowered (1-3 flowers); calyx 5-7 mm in diam.; corolla 3-4 cm long; no leaf domatia; lamina base very acute → [[Aulacocalyx_talbotii\|*A. talbotii*]]
+    - **6′.** Inflorescences many-flowered (5-12 flowers); calyx 3 mm in diam.; corolla 1.5-2.5 cm long; small axillary hairy domatia; lamina base generally acute on one side, subacute on the other → 5. A. Le-Testui
 
 ## Species in region
 

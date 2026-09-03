@@ -31,15 +31,11 @@ According to Bremekamp, there are 80 species in the tropics of both Americas, Af
 
 ## Key to the species
 
-**1.** Inflorescence ± pubescent, with small rigid hairs scarcely reaching 0.5 mm, colored, ± glandular; bracts spatulate-lanceolate or even ovate-lanceolate, triplinerved, much larger than the bracteoles; posterior sepal with a single median rib, equaling the two anterior sepals → (Staurogyne alboviolacea.)
-
-**2.** Plants erect; leaves reaching 11 cm in length and with up to 11 lateral nerves on each side; inflorescences in spikes reaching 12 cm long; flowers white, tinted with violet
-
-**2′.** Plants prostrate, epiphytic; leaves reaching 2.5 cm in length and with 4 nerves on each side; inflorescences very short, reaching 1.5 cm in length; flowers entirely white → 1 bis. S. alboviolacea var. gracilior.
-
-**1′.** Inflorescences pubescent with silky hairs, not colored, reaching a length of 2 mm, without glands or very weakly glandular; bracts linear-filiform, with a single median rib, resembling exactly the bracteoles; posterior sepal triplinerved up to three times broader and somewhat longer than the two anterior sepals.
-
-**2.** S. Le-Testuana.
+- **1.** Inflorescence ± pubescent, with small rigid hairs scarcely reaching 0.5 mm, colored, ± glandular; bracts spatulate-lanceolate or even ovate-lanceolate, triplinerved, much larger than the bracteoles; posterior sepal with a single median rib, equaling the two anterior sepals → (Staurogyne alboviolacea.)
+  - **2.** Plants erect; leaves reaching 11 cm in length and with up to 11 lateral nerves on each side; inflorescences in spikes reaching 12 cm long; flowers white, tinted with violet
+  - **2′.** Plants prostrate, epiphytic; leaves reaching 2.5 cm in length and with 4 nerves on each side; inflorescences very short, reaching 1.5 cm in length; flowers entirely white → 1 bis. S. alboviolacea var. gracilior.
+- **1′.** Inflorescences pubescent with silky hairs, not colored, reaching a length of 2 mm, without glands or very weakly glandular; bracts linear-filiform, with a single median rib, resembling exactly the bracteoles; posterior sepal triplinerved up to three times broader and somewhat longer than the two anterior sepals.
+  - **2.** S. Le-Testuana.
 
 ## Species in region
 

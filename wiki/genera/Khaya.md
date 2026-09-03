@@ -29,9 +29,8 @@ Bibliography: Aubréville (1959), Mabberley (2011), Pennington & Styles (1975), 
 
 ## Key to the species
 
-**1.** Leaves with 2–4(–5) pairs of leaflets, usually 3 pairs; leaflets of mature leaves very briefly acuminate; trunk with smooth bark, appearing pale; tree of semi-deciduous forest, to be sought in Gabon → K. anthotheca (Welw.) C.DC.
-
-**1′.** Leaves with (3–)4–7 pairs of leaflets, usually 5 or 6 pairs; leaflets usually fairly distinctly acuminate; trunk with scaly bark and small depressions, brownish; tree of evergreen rainforest → [[Khaya_ivorensis\|*K. ivorensis*]]
+- **1.** Leaves with 2–4(–5) pairs of leaflets, usually 3 pairs; leaflets of mature leaves very briefly acuminate; trunk with smooth bark, appearing pale; tree of semi-deciduous forest, to be sought in Gabon → K. anthotheca (Welw.) C.DC.
+- **1′.** Leaves with (3–)4–7 pairs of leaflets, usually 5 or 6 pairs; leaflets usually fairly distinctly acuminate; trunk with scaly bark and small depressions, brownish; tree of evergreen rainforest → [[Khaya_ivorensis\|*K. ivorensis*]]
 
 ## Species in region
 

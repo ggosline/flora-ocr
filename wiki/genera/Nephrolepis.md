@@ -24,7 +24,7 @@ About thirty pantropical species.
 
 ## Key to the species
 
-**1′.** Sori elongate, uniting several veins, or continuous all around the pinnae → [[Nephrolepis_acutifolia\|*N. acutifolia*]]
+- **1′.** Sori elongate, uniting several veins, or continuous all around the pinnae → [[Nephrolepis_acutifolia\|*N. acutifolia*]]
 
 ## Species in region
 

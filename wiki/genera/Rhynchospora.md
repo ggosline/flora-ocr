@@ -43,37 +43,22 @@ b: Haines & Lye (1983), Hoenselaar et al. (2010), Hooper (1972), Lye
 
 ## Key to the species
 
-**1.** Spikelet white, generally with more than 30 flowers → [[Rhynchospora_candida\|*R. candida*]]
-
-**1′.** Spikelet brown to golden-yellow, with fewer than 10 flowers → couplet **2**
-
-**2.** Plant slender; inflorescence formed of a single hemispherical head → [[Rhynchospora_rubra\|*R. rubra*]]
-
-**2′.** Plant slender or robust; inflorescence formed of several heads, groups of sessile spikelets or ± pedicelled spikelets → couplet **3**
-
-**3.** Terminal inflorescence, in an umbelliform anthela formed of a spherical sessile head and one or more pedicelled heads → [[Rhynchospora_holoschoenoides\|*R. holoschoenoides*]]
-
-**3′.** Inflorescence composed of a terminal inflorescence and several lateral ones distributed along the stem → couplet **4**
-
-**4.** Robust plant, perennial, generally more than 1 m tall; style entire → couplet **5**
-
-**4′.** Slender plant, annual or perennial, less than 1 m tall; style with 2 long branches → couplet **6**
-
-**5.** Robust plant, with laminae often more than 10 mm wide → [[Rhynchospora_corymbosa\|*R. corymbosa*]]
-
-**5′.** Rather robust plant, with laminae 2–5 mm wide → [[Rhynchospora_triflora\|*R. triflora*]]
-
-**6.** Perianth bristles present → [[Rhynchospora_brownii\|*R. brownii*]]
-
-**6′.** Perianth bristles absent → couplet **7**
-
-**7.** Most spikelets sessile or nearly so; achene coarsely rugose → [[Rhynchospora_perrieri\|*R. perrieri*]]
-
-**7′.** Spikelets distinctly pedicelled; achene finely rugose → couplet **8**
-
-**8.** Lamina at most 5 mm wide, flat; spikelets on a robust peduncle → [[Rhynchospora_eximia\|*R. eximia*]]
-
-**8′.** Lamina at most 1.5 mm wide, channelled; spikelets on a slender peduncle → R. gracillima subsp. subquadrata
+- **1.** Spikelet white, generally with more than 30 flowers → [[Rhynchospora_candida\|*R. candida*]]
+- **1′.** Spikelet brown to golden-yellow, with fewer than 10 flowers → couplet **2**
+  - **2.** Plant slender; inflorescence formed of a single hemispherical head → [[Rhynchospora_rubra\|*R. rubra*]]
+  - **2′.** Plant slender or robust; inflorescence formed of several heads, groups of sessile spikelets or ± pedicelled spikelets → couplet **3**
+    - **3.** Terminal inflorescence, in an umbelliform anthela formed of a spherical sessile head and one or more pedicelled heads → [[Rhynchospora_holoschoenoides\|*R. holoschoenoides*]]
+    - **3′.** Inflorescence composed of a terminal inflorescence and several lateral ones distributed along the stem → couplet **4**
+      - **4.** Robust plant, perennial, generally more than 1 m tall; style entire → couplet **5**
+      - **4′.** Slender plant, annual or perennial, less than 1 m tall; style with 2 long branches → couplet **6**
+        - **5.** Robust plant, with laminae often more than 10 mm wide → [[Rhynchospora_corymbosa\|*R. corymbosa*]]
+        - **5′.** Rather robust plant, with laminae 2–5 mm wide → [[Rhynchospora_triflora\|*R. triflora*]]
+          - **6.** Perianth bristles present → [[Rhynchospora_brownii\|*R. brownii*]]
+          - **6′.** Perianth bristles absent → couplet **7**
+            - **7.** Most spikelets sessile or nearly so; achene coarsely rugose → [[Rhynchospora_perrieri\|*R. perrieri*]]
+            - **7′.** Spikelets distinctly pedicelled; achene finely rugose → couplet **8**
+              - **8.** Lamina at most 5 mm wide, flat; spikelets on a robust peduncle → [[Rhynchospora_eximia\|*R. eximia*]]
+              - **8′.** Lamina at most 1.5 mm wide, channelled; spikelets on a slender peduncle → R. gracillima subsp. subquadrata
 
 ## Species in region
 

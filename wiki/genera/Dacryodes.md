@@ -33,38 +33,22 @@ Resinous trees with imparipinnate leaves and predominantly 3-merous unisexual fl
 ## Key to the species
 
 A KEY TO THE SPECIES BASED ON LEAVES AND THEIR PUBESCENCE
-
-**1.** Small leaflets lanceolate, acuminate, glabrous. Flowers rather long-pedicellate (8 mm) → D. osika, osika.
-
-**1′.** Leaflets lanceolate, long-acuminate acute, densely covered beneath with a persistent tomentum of rusty stellate scaly hairs → 1. D. Büttneri, ozigo. 1". Leaflets narrowly to broadly obovate, acuminate sometimes very acute.
-
-**2.** Thick tomentum of hairs with fine radiating branches at the tip of a long pedicel, on the lower face of the leaflets and on the rachis at least in the juvenile form → 2. D. Normandii, ossabel.
-
-**2′.** Stellate hairs not stipitate.
-
-**3.** Absence of simple hairs.
-
-**4.** Thick tomentum of stellate hairs, at least on young leaves.
-
-**5.** Thick, rusty, dense tomentum of stellate hairs on the midvein, disappearing almost completely in time → 3. D. heterotricha, mouganga
-
-**5′.** Persistent tomentum of stellate hairs with fine, supple branches → D. pubescens, safoukala.
-
-**4′.** Minute scaly hairs, scattered on the rachises and lower face of the leaflets practically glabrous.
-
-**6.** Among rusty scaly hairs, very great density of white dots (stomata). Leaves practically glabrous. Petiolules often swollen at the extremities, rather long (1–2 cm)
-
-**6′.** Leaves practically glabrous but existence of varieties having scattered stellate hairs on the lower face of the leaflets.
-
-**7.** Petiolules ordinarily rather long (1–3 cm), swollen at both extremities, but sometimes short and without distinct swelling → 5. D. Klaineana, adjouaba.
-
-**7′.** Petiolules not swollen at the extremities. Rachis and petiolules covered with scaly hairs. Blade beneath practically glabrous, sometimes with traces of a few caducous stellate hairs → 6. D. edulis, safoutier, atanga, olem.
-
-**3′.** Presence of long simple supple hairs in ± great abundance, at least on the rachis, capable of disappearing in time on leaflets which then become practically glabrous. Sometimes mixed with scaly hairs.
-
-**8.** Simple hairs on the rachis, the midvein above, and on the lower face of the blade. Leaflets subsessile
-
-**8′.** Simple hairs beneath the blade and small scaly hairs scattered, regularly distributed, appressed against the blade, persistent 8. D. igagang, igagang 8". Simple hairs on the rachis, the petiolules, the midvein beneath, often very scattered. Mixed with a few small scaly hairs on the blade. Persistence of scaly hairs on the petiolules and rachis. Sometimes leaflets practically glabrous → 6. D. edulis var. hirsuta, safoutier, atanga, olem.
+- **1.** Small leaflets lanceolate, acuminate, glabrous. Flowers rather long-pedicellate (8 mm) → D. osika, osika.
+- **1′.** Leaflets lanceolate, long-acuminate acute, densely covered beneath with a persistent tomentum of rusty stellate scaly hairs → 1. D. Büttneri, ozigo. 1". Leaflets narrowly to broadly obovate, acuminate sometimes very acute.
+  - **2.** Thick tomentum of hairs with fine radiating branches at the tip of a long pedicel, on the lower face of the leaflets and on the rachis at least in the juvenile form → 2. D. Normandii, ossabel.
+  - **2′.** Stellate hairs not stipitate.
+    - **3.** Absence of simple hairs.
+      - **4.** Thick tomentum of stellate hairs, at least on young leaves.
+        - **5.** Thick, rusty, dense tomentum of stellate hairs on the midvein, disappearing almost completely in time → 3. D. heterotricha, mouganga
+        - **5′.** Persistent tomentum of stellate hairs with fine, supple branches → D. pubescens, safoukala.
+      - **4′.** Minute scaly hairs, scattered on the rachises and lower face of the leaflets practically glabrous.
+        - **6.** Among rusty scaly hairs, very great density of white dots (stomata). Leaves practically glabrous. Petiolules often swollen at the extremities, rather long (1–2 cm)
+        - **6′.** Leaves practically glabrous but existence of varieties having scattered stellate hairs on the lower face of the leaflets.
+          - **7.** Petiolules ordinarily rather long (1–3 cm), swollen at both extremities, but sometimes short and without distinct swelling → 5. D. Klaineana, adjouaba.
+          - **7′.** Petiolules not swollen at the extremities. Rachis and petiolules covered with scaly hairs. Blade beneath practically glabrous, sometimes with traces of a few caducous stellate hairs → 6. D. edulis, safoutier, atanga, olem.
+    - **3′.** Presence of long simple supple hairs in ± great abundance, at least on the rachis, capable of disappearing in time on leaflets which then become practically glabrous. Sometimes mixed with scaly hairs.
+      - **8.** Simple hairs on the rachis, the midvein above, and on the lower face of the blade. Leaflets subsessile
+      - **8′.** Simple hairs beneath the blade and small scaly hairs scattered, regularly distributed, appressed against the blade, persistent 8. D. igagang, igagang 8". Simple hairs on the rachis, the petiolules, the midvein beneath, often very scattered. Mixed with a few small scaly hairs on the blade. Persistence of scaly hairs on the petiolules and rachis. Sometimes leaflets practically glabrous → 6. D. edulis var. hirsuta, safoutier, atanga, olem.
 
 ## Treatments
 

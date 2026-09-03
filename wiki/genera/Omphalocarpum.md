@@ -27,15 +27,11 @@ subglobose, with **5-30 seeds** that have a linear ventral scar.
 
 ## Key to the species
 
-**1.** Flowers sessile, surrounded by densely pubescent bracts. Leaves long cuneiform very acute; petiole long and slender.
-
-**6.** 7 pairs of secondary nerves → *O. procenum*
-
-**1′.** Flowers pedicellate, glabrous or glabrescent.
-
-**2.** Corolla approximately 1.8 cm long. Pedicels 1 cm. Leaves oblong obovate, very narrowed at the base which is cuneiform. Nervilles scarcely apparent on the upper matt surface. Petiole short. 2. O. elatum.
-
-**2′.** Corolla larger, 2.5 cm long. Pedicels up to 1.5 cm. Leaves oblong obovate, attenuate less acute at the base than in the preceding species. Nervilles very apparent on the upper shiny surface. Petiole 1-1.8 cm → 3. O. Le-Testui.
+- **1.** Flowers sessile, surrounded by densely pubescent bracts. Leaves long cuneiform very acute; petiole long and slender.
+  - **6.** 7 pairs of secondary nerves → *O. procenum*
+- **1′.** Flowers pedicellate, glabrous or glabrescent.
+  - **2.** Corolla approximately 1.8 cm long. Pedicels 1 cm. Leaves oblong obovate, very narrowed at the base which is cuneiform. Nervilles scarcely apparent on the upper matt surface. Petiole short. 2. O. elatum.
+  - **2′.** Corolla larger, 2.5 cm long. Pedicels up to 1.5 cm. Leaves oblong obovate, attenuate less acute at the base than in the preceding species. Nervilles very apparent on the upper shiny surface. Petiole 1-1.8 cm → 3. O. Le-Testui.
 
 ## Species in Gabon
 

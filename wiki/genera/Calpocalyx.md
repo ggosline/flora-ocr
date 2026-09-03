@@ -29,25 +29,16 @@ The genus Calpocalyx comprises 10 species, all African. Two (C. brevibracteatus 
 
 ## Key to the species
 
-**1.** Petiole glabrous (or a few hairs on the adaxial face) → [[Calpocalyx_dinklagei\|*C. dinklagei*]]
-
-**1′.** Petiole pubescent or puberulent.
-
-**2.** Petiolar gland prominent; inflorescence spicate.
-
-**3.** Rachis of the pinna 12–57 cm long; leaflet generally long-acuminate; puberulence ± abundant on the petiole and rachises of the pinnae; calyx glabrous except at the apex → [[Calpocalyx_heitzii\|*C. heitzii*]]
-
-**3′.** Rachis of the pinna 5–9.5 cm long; leaflet shortly broadly acuminate; pubescence sparse on the petiole and rachises of the pinnae; calyx pubescent → [[Calpocalyx_brevifolius\|*C. brevifolius*]]
-
-**2′.** Petiolar gland not prominent; inflorescence often paniculate.
-
-**4.** Limb glabrous beneath → *C. klainet*
-
-**4′.** Limb pubescent beneath.
-
-**5.** Leaflet broadly elliptic, slightly or not acuminate → [[Calpocalyx_letestui\|*C. letestui*]]
-
-**5′.** Leaflet elliptic to lanceolate, distinctly acuminate . 6. C. ngouniensis.
+- **1.** Petiole glabrous (or a few hairs on the adaxial face) → [[Calpocalyx_dinklagei\|*C. dinklagei*]]
+- **1′.** Petiole pubescent or puberulent.
+  - **2.** Petiolar gland prominent; inflorescence spicate.
+    - **3.** Rachis of the pinna 12–57 cm long; leaflet generally long-acuminate; puberulence ± abundant on the petiole and rachises of the pinnae; calyx glabrous except at the apex → [[Calpocalyx_heitzii\|*C. heitzii*]]
+    - **3′.** Rachis of the pinna 5–9.5 cm long; leaflet shortly broadly acuminate; pubescence sparse on the petiole and rachises of the pinnae; calyx pubescent → [[Calpocalyx_brevifolius\|*C. brevifolius*]]
+  - **2′.** Petiolar gland not prominent; inflorescence often paniculate.
+    - **4.** Limb glabrous beneath → *C. klainet*
+    - **4′.** Limb pubescent beneath.
+      - **5.** Leaflet broadly elliptic, slightly or not acuminate → [[Calpocalyx_letestui\|*C. letestui*]]
+      - **5′.** Leaflet elliptic to lanceolate, distinctly acuminate . 6. C. ngouniensis.
 
 ## Species in region
 

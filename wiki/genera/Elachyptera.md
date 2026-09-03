@@ -35,13 +35,10 @@ Genus of 7 species, 3 from America, 3 from Africa and 1 from Madagascar.
 
 ## Key to the species
 
-**1.** Disc cupule entire; seed wingless; flower approximately 1.9 mm in diameter; petals rounded, fleshy and cucullate, not spreading; stigma punctiform
-
-**1′.** Disc cupule with margin split into 3 fissures; petals thin ± spreading.
-
-**2.** Seed wingless; petals oblong spreading; flower 2.5–3.3 mm in diameter; stigma trilobate → [[Elachyptera_bipindensis\|*E. bipindensis*]]
-
-**2′.** Seed winged; petals elliptic semi-spreading; flower approximately 2.1 mm in diameter; stigma punctiform → 2 bis. E. parvifolia.
+- **1.** Disc cupule entire; seed wingless; flower approximately 1.9 mm in diameter; petals rounded, fleshy and cucullate, not spreading; stigma punctiform
+- **1′.** Disc cupule with margin split into 3 fissures; petals thin ± spreading.
+  - **2.** Seed wingless; petals oblong spreading; flower 2.5–3.3 mm in diameter; stigma trilobate → [[Elachyptera_bipindensis\|*E. bipindensis*]]
+  - **2′.** Seed winged; petals elliptic semi-spreading; flower approximately 2.1 mm in diameter; stigma punctiform → 2 bis. E. parvifolia.
 
 ## Species in region
 

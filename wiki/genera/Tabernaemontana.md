@@ -29,21 +29,14 @@ B: Beentje (2021), Endress et al. (2019), Jongkind & Lachenaud (2022), Leeuwenbe
 
 ## Key to the species
 
-**1.** Erect shrub or tree → couplet **2**
-
-**1′.** Liane or scandent shrub 8 Limb foliar, distinctly coriaceous; pedicel of mm generally much longer); mericarps subglobose or transversely oblong, green or glaucous, never winged 3 Limb foliar, membranous to subcoriaceous or if coriaceous then pedicel of the inflorescence mm; mericarps often ellipsoid or ovoid, winged or not, green or glaucous; yellow or orange 4 Tube of the corolla ± times as long as the lobes of the calyx long of ± mm slightly twisted (0.1 turn over entire length) T. brachyantha Tube of the corolla ± times as long as the lobes of the calyx long of ± mm more strongly twisted → [[Tabernaemontana_crassa\|*T. crassa*]]
-
-**4.** Pedicel of 10–40 mm; tube of the corolla long of 9–15 mm T. inconspicua Pedicel null or up to mm; tube of the corolla long of ± mm → couplet **6**
-
-**6.** Tube of the corolla long of 70–120 mm; petiole of 5–15 mm; mericarps yellow or orange T. hallei Tube of the corolla long of ± mm; petiole null or up to mm; mericarps pale green or glaucous to yellow or orange 7 Tube of the corolla long of ± mm; petiole null or up to mm; mericarps ± as long as wide, angular with well-visible crests, wall of mm thick, yellow or orange → [[Tabernaemontana_letestui\|*T. letestui*]]
-
-**6′.** Tube of the corolla long of 10–13 mm; petiole of 3–15 mm, only minute leaves sometimes sessile; mericarps subglobose to transversely ellipsoid, wall of ± mm thick, pale green to glaucous T. pendulilora Tube of the corolla reaching mm in length, enlarging abruptly at the level of the throat; fruit pale green glaucous → [[Tabernaemontana_psorocarpa\|*T. psorocarpa*]]
-
-**6′.** Tube of the corolla longer, enlarging progressively towards the throat; fruit yellow to orange, unknown in T. crispiflora ) → couplet **9**
-
-**9.** Tube of the corolla reaching 40 mm in length; lobes of the calyx of 6–8 × 2.5–4 mm T. crispiflora Tube of the corolla longer and lobes of the calyx smaller → couplet **10**
-
-**10.** Lobes of the calyx long of > 2 mm; tube of the corolla wide of > 2 mm; limb foliar generally provided with visible lateral nerves; fruit ovoid or subglobose, rounded or with two obtuse angles T. eglandulosa Lobes of the calyx long of mm; tube of the corolla wide of mm; limb foliar often provided with scarcely visible lateral nerves; fruit with well-visible aliform crests → [[Tabernaemontana_brachypoda\|*T. brachypoda*]]
+- **1.** Erect shrub or tree → couplet **2**
+- **1′.** Liane or scandent shrub 8 Limb foliar, distinctly coriaceous; pedicel of mm generally much longer); mericarps subglobose or transversely oblong, green or glaucous, never winged 3 Limb foliar, membranous to subcoriaceous or if coriaceous then pedicel of the inflorescence mm; mericarps often ellipsoid or ovoid, winged or not, green or glaucous; yellow or orange 4 Tube of the corolla ± times as long as the lobes of the calyx long of ± mm slightly twisted (0.1 turn over entire length) T. brachyantha Tube of the corolla ± times as long as the lobes of the calyx long of ± mm more strongly twisted → [[Tabernaemontana_crassa\|*T. crassa*]]
+  - **4.** Pedicel of 10–40 mm; tube of the corolla long of 9–15 mm T. inconspicua Pedicel null or up to mm; tube of the corolla long of ± mm → couplet **6**
+    - **6.** Tube of the corolla long of 70–120 mm; petiole of 5–15 mm; mericarps yellow or orange T. hallei Tube of the corolla long of ± mm; petiole null or up to mm; mericarps pale green or glaucous to yellow or orange 7 Tube of the corolla long of ± mm; petiole null or up to mm; mericarps ± as long as wide, angular with well-visible crests, wall of mm thick, yellow or orange → [[Tabernaemontana_letestui\|*T. letestui*]]
+    - **6′.** Tube of the corolla long of 10–13 mm; petiole of 3–15 mm, only minute leaves sometimes sessile; mericarps subglobose to transversely ellipsoid, wall of ± mm thick, pale green to glaucous T. pendulilora Tube of the corolla reaching mm in length, enlarging abruptly at the level of the throat; fruit pale green glaucous → [[Tabernaemontana_psorocarpa\|*T. psorocarpa*]]
+  - **6′.** Tube of the corolla longer, enlarging progressively towards the throat; fruit yellow to orange, unknown in T. crispiflora ) → couplet **9**
+    - **9.** Tube of the corolla reaching 40 mm in length; lobes of the calyx of 6–8 × 2.5–4 mm T. crispiflora Tube of the corolla longer and lobes of the calyx smaller → couplet **10**
+      - **10.** Lobes of the calyx long of > 2 mm; tube of the corolla wide of > 2 mm; limb foliar generally provided with visible lateral nerves; fruit ovoid or subglobose, rounded or with two obtuse angles T. eglandulosa Lobes of the calyx long of mm; tube of the corolla wide of mm; limb foliar often provided with scarcely visible lateral nerves; fruit with well-visible aliform crests → [[Tabernaemontana_brachypoda\|*T. brachypoda*]]
 
 ## Species in region
 

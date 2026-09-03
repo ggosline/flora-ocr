@@ -35,25 +35,16 @@ b: Léonard (1954a, 1954b), Mackinder et al. (2001), Pellegrin (1949).
 
 ## Key to the species
 
-**1.** Inflorescence slender, zigzag, with ± 7 to 12 small flowers; anthers alternately large and small; legume with 1 or rarely 2 articles → [[Aeschynomene_lateritia\|*A. lateritia*]]
-
-**1′.** Inflorescence slender or robust, straight, with 1 to 5 flowers; anthers all similar; legume with ≥ 3 articles → couplet **2**
-
-**2.** Stem without spines; legume straight → couplet **3**
-
-**2′.** Stem very spiny, especially beneath the leaves; legume spiral → [[Aeschynomene_elaphroxylon\|*A. elaphroxylon*]]
-
-**3.** Flower large, reaching 3 cm in length, with keel bearing a large laciniate crest; legume rather moniliform, at maturity bearing fine spines at centre → [[Aeschynomene_cristata\|*A. cristata*]]
-
-**3′.** Flower modest, reaching 0.8 cm in length, with keel without crest; legume linear, at maturity smooth or papillose to rugose → couplet **4**
-
-**4.** Leaflet with lamina clearly 3-nerved, apex finely dentate → [[Aeschynomene_americana\|*A. americana*]]
-
-**4′.** Leaflet with lamina 1-nerved, apex entire → couplet **5**
-
-**5.** Stem and legume brown when dry; legume with sutures straight or slightly curved, surface slightly pustulous, glabrous to pubescent, articles ± 3–5 mm wide → [[Aeschynomene_indica\|*A. indica*]]
-
-**5′.** Stem and legume blackish when dry; legume with dorsal suture rather straight, ventral suture undulate, surface smooth, ornamented with scattered setae, articles ± 4–7 mm wide → [[Aeschynomene_sensitiva\|*A. sensitiva*]]
+- **1.** Inflorescence slender, zigzag, with ± 7 to 12 small flowers; anthers alternately large and small; legume with 1 or rarely 2 articles → [[Aeschynomene_lateritia\|*A. lateritia*]]
+- **1′.** Inflorescence slender or robust, straight, with 1 to 5 flowers; anthers all similar; legume with ≥ 3 articles → couplet **2**
+  - **2.** Stem without spines; legume straight → couplet **3**
+  - **2′.** Stem very spiny, especially beneath the leaves; legume spiral → [[Aeschynomene_elaphroxylon\|*A. elaphroxylon*]]
+    - **3.** Flower large, reaching 3 cm in length, with keel bearing a large laciniate crest; legume rather moniliform, at maturity bearing fine spines at centre → [[Aeschynomene_cristata\|*A. cristata*]]
+    - **3′.** Flower modest, reaching 0.8 cm in length, with keel without crest; legume linear, at maturity smooth or papillose to rugose → couplet **4**
+      - **4.** Leaflet with lamina clearly 3-nerved, apex finely dentate → [[Aeschynomene_americana\|*A. americana*]]
+      - **4′.** Leaflet with lamina 1-nerved, apex entire → couplet **5**
+        - **5.** Stem and legume brown when dry; legume with sutures straight or slightly curved, surface slightly pustulous, glabrous to pubescent, articles ± 3–5 mm wide → [[Aeschynomene_indica\|*A. indica*]]
+        - **5′.** Stem and legume blackish when dry; legume with dorsal suture rather straight, ventral suture undulate, surface smooth, ornamented with scattered setae, articles ± 4–7 mm wide → [[Aeschynomene_sensitiva\|*A. sensitiva*]]
 
 ## Species in region
 

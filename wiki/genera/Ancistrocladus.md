@@ -55,17 +55,12 @@ unequal, papery and aliform. Seeds with a hard endosperm.
 
 ## Key to the species
 
-**1.** Leaves at the apex of branchlets with blade very narrowly obovate-elliptic to narrowly obovate-elliptic, with ratio (L/w) = 3.5–15.5, in the adult state with large craters ordinarily oblong, of (0.5–)2–4 × 0.5–1 mm; bracts at the beginning of anthesis narrowly ovate-elliptic to narrowly obovate-elliptic and prolonged at the base, at the end of anthesis becoming cochleariform to claviform by the enlargement of the abaxial gland and the incurving of the apex → [[Ancistrocladus_letestui\|*A. letestui*]]
-
-**1′.** Leaves at the apex of branchlets with blade elliptic to narrowly obovate-elliptic, obovate or broadly elliptic, with ratio (L/w) = 2–4.8, in the adult state with large craters circular to ovate, of 0.2–1 mm in diameter; bracts at the beginning of anthesis narrowly ovate-elliptic to ovate or triangular, not prolonged at the base, not becoming cochleariform to claviform at the end of anthesis .. 2
-
-**2.** Adult leaves with blade furnished with large circular to ovate craters of 0.3–1 mm in diameter; sepals unequal in flower, the 3 largest of 3.5–5.1 × 1.4–2.5 mm, the 2 smallest of 3.2–4.2 × 2–2.9 mm; petals oblong-ovate, of ± 8.1 × 3.2 mm; sepals papyraceous and very unequal in fruit, the 3 largest of 28–42 × 13–16 mm, the 2 smallest of 5–16 × 4–6 mm → [[Ancistrocladus_guineensis\|*A. guineensis*]]
-
-**2′.** Adult leaves with blade furnished with large circular craters of 0.2–0.5 mm in diameter; sepals subequal in flower, of 4–6 × 2–3 mm; petals suborbicular to obovate, of 2–4 × 2–3.5 mm; sepals thickened-chartaceous or coriaceous to ligneous and subequal to unequal in fruit, of 5–10 × 3–8 mm → couplet **3**
-
-**3.** Adult leaves with blade subcoriaceous to coriaceous, those at the apex of branchlets truncate to subacute and sometimes abruptly acuminate at the apex; pedicel rather robust; petals obovate, of ± 4 × 3–3.5 mm; styles 3; fruit turbinate, of 8–15 × 10–20 mm (without the wings) → [[Ancistrocladus_congolensis\|*A. congolensis*]]
-
-**3′.** Adult leaves with blade chartaceous to subcoriaceous, those at the apex of branchlets ordinarily acute to acuminate at the apex, sometimes obtuse to rounded; pedicel slender; petals suborbicular, of 2–3 × 2–3 mm; style 1; fruit patelliforme, of 4–5 × 7–8 mm (without the wings) → [[Ancistrocladus_ealaensis\|*A. ealaensis*]]
+- **1.** Leaves at the apex of branchlets with blade very narrowly obovate-elliptic to narrowly obovate-elliptic, with ratio (L/w) = 3.5–15.5, in the adult state with large craters ordinarily oblong, of (0.5–)2–4 × 0.5–1 mm; bracts at the beginning of anthesis narrowly ovate-elliptic to narrowly obovate-elliptic and prolonged at the base, at the end of anthesis becoming cochleariform to claviform by the enlargement of the abaxial gland and the incurving of the apex → [[Ancistrocladus_letestui\|*A. letestui*]]
+- **1′.** Leaves at the apex of branchlets with blade elliptic to narrowly obovate-elliptic, obovate or broadly elliptic, with ratio (L/w) = 2–4.8, in the adult state with large craters circular to ovate, of 0.2–1 mm in diameter; bracts at the beginning of anthesis narrowly ovate-elliptic to ovate or triangular, not prolonged at the base, not becoming cochleariform to claviform at the end of anthesis .. 2
+  - **2.** Adult leaves with blade furnished with large circular to ovate craters of 0.3–1 mm in diameter; sepals unequal in flower, the 3 largest of 3.5–5.1 × 1.4–2.5 mm, the 2 smallest of 3.2–4.2 × 2–2.9 mm; petals oblong-ovate, of ± 8.1 × 3.2 mm; sepals papyraceous and very unequal in fruit, the 3 largest of 28–42 × 13–16 mm, the 2 smallest of 5–16 × 4–6 mm → [[Ancistrocladus_guineensis\|*A. guineensis*]]
+  - **2′.** Adult leaves with blade furnished with large circular craters of 0.2–0.5 mm in diameter; sepals subequal in flower, of 4–6 × 2–3 mm; petals suborbicular to obovate, of 2–4 × 2–3.5 mm; sepals thickened-chartaceous or coriaceous to ligneous and subequal to unequal in fruit, of 5–10 × 3–8 mm → couplet **3**
+    - **3.** Adult leaves with blade subcoriaceous to coriaceous, those at the apex of branchlets truncate to subacute and sometimes abruptly acuminate at the apex; pedicel rather robust; petals obovate, of ± 4 × 3–3.5 mm; styles 3; fruit turbinate, of 8–15 × 10–20 mm (without the wings) → [[Ancistrocladus_congolensis\|*A. congolensis*]]
+    - **3′.** Adult leaves with blade chartaceous to subcoriaceous, those at the apex of branchlets ordinarily acute to acuminate at the apex, sometimes obtuse to rounded; pedicel slender; petals suborbicular, of 2–3 × 2–3 mm; style 1; fruit patelliforme, of 4–5 × 7–8 mm (without the wings) → [[Ancistrocladus_ealaensis\|*A. ealaensis*]]
 
 ## Treatments
 

@@ -41,13 +41,10 @@ Stipule and stipelles. – 4. Young inflorescence and bracteoles. – 5. Flower.
 
 ## Key to the species
 
-**1.** Pod with straight sutures, not or slightly constricted between the articles, 12–25 mm in length; calyx lobes 3–4 mm in length → [[Alysicarpus_vaginalis\|*A. vaginalis*]]
-
-**1′.** Pod with undulate sutures, distinctly constricted between the articles (moniliform), 5–15 mm in length; calyx lobes 4–8 mm in length → couplet **2**
-
-**2.** Calyx lobes imbricate at the base, straw-colored, but often purple at the apex; indumentum white or ferruginous; inflorescence generally dense; pod with 3 to 6 articles of which rarely 1 (or 2) exsert → [[Alysicarpus_rugosus\|*A. rugosus*]]
-
-**2′.** Calyx lobes not or scarcely imbricate at the base, straw-colored; indumentum white to greenish; inflorescence lax, elongate in a spike; pod with (4–)5 or 6(–7) articles of which 1 to 4 exsert (Plate 8.9) → A. glumaceus (Vahl) DC.
+- **1.** Pod with straight sutures, not or slightly constricted between the articles, 12–25 mm in length; calyx lobes 3–4 mm in length → [[Alysicarpus_vaginalis\|*A. vaginalis*]]
+- **1′.** Pod with undulate sutures, distinctly constricted between the articles (moniliform), 5–15 mm in length; calyx lobes 4–8 mm in length → couplet **2**
+  - **2.** Calyx lobes imbricate at the base, straw-colored, but often purple at the apex; indumentum white or ferruginous; inflorescence generally dense; pod with 3 to 6 articles of which rarely 1 (or 2) exsert → [[Alysicarpus_rugosus\|*A. rugosus*]]
+  - **2′.** Calyx lobes not or scarcely imbricate at the base, straw-colored; indumentum white to greenish; inflorescence lax, elongate in a spike; pod with (4–)5 or 6(–7) articles of which 1 to 4 exsert (Plate 8.9) → A. glumaceus (Vahl) DC.
 
 ## Species in region
 

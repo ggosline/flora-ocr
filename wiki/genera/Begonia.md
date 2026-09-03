@@ -31,33 +31,20 @@ B: Doorenbos, Sosef & de Wilde (1998), Hooker (1871), Hutchinson, Dalziel & Keay
 
 ## Key to the species
 
-**1.** Flowers with 4 tepals → couplet **2**
-
-**1′.** Flowers with 2 tepals → couplet **3**
-
-**2.** Terrestrial plant; leaves palmatilobed with palmate venation; fruit broadly ellip- soid with 3 or 6 prominent nerves, indehiscent → sect. Mezierea (p. 30)
-
-**2′.** Plants mostly epiphytic; leaves with entire or dentate margin, never palmatilobed; fruit fusiform, rarely claviform, dehiscent into valves or by fissures → sect. Tetraphila (p. 72)
-
-**3.** Epiphytes with woody stems, with indumentum formed of fimbriate scales; with 2 large persistent bracts forming a flattened cupule enveloping the inflorescence and infructescence → sect. Squamibegonia (p. 65)
-
-**3′.** Herbaceous plants, terrestrial or rarely climbing, without scaly indumentum; inflorescence with bracts not united in a cupule → couplet **4**
-
-**4.** Stems creeping and climbing by adventitious roots → sect. Cristasemen (p. 3)
-
-**4′.** Plants with erect or rhizomatous stems → couplet **5**
-
-**5.** Inflorescence in dichasial cyme (dichasium), with developed branches, containing several female flowers → sect. Mezierea (p. 30)
-
-**5′.** Inflorescence in monochasial cyme (monochasium), with strongly reduced branches, containing a single terminal female flower → couplet **6**
-
-**6.** Plants with clearly erect stems; fruit nodding, capsular, dry, opening by longitudinal fissures → sect. Filicibegonia (p. 6)
-
-**6′.** Plants with creeping or rarely erect rhizomes; fruit more or less fleshy, indehiscent → couplet **7**
-
-**7.** Fertile pedicel erect or creeping but always straight; ovary and fruit (wings included) narrowly elliptic or rarely very broadly obovoid, pericarp translucent when fresh → sect. Loasibegonia (p. 15)
-
-**7′.** Fertile pedicel curved toward the substrate; ovary and fruit (wings included) broadly obovoid to very broadly obtriangular, exceptionally narrowly ellipsoid, pericarp opaque when fresh → sect. Scutobegonia (p. 34) sect. CRISTASEMEN J.J. de Wilde Agric. Univ. Wageningen Papers 84(3) : 113–129 (1985). Terrestrial, herbaceous, lianescent plants, with stems creeping and climbing by adventitious roots (like ivy, Hedera helix L.). Leaf not peltate, with palmate venation. Inflorescence axillary, bisexual, pauciflorous, in a distinctly bipare cyme at the base, the central flowers male early-caducous, branches subsequently unipare and bearing laterally a female flower. Flowers with 2 yellow tepals. ♂ Flower: androecium zygomorphic, stamens with filaments united at their base. ♀ Flower: ovary three-winged, 3-locular; placentation central, entire; styles 3, deeply bifid, each branch again divided. Infructescence generally with a single nodding fruit, suspended from a fine and long pedicel. Fruit capsular, with 3 unequal wings, crowned by the persistent styles. Seed J- or S-shaped, at the extremities composed of elongate and swollen cells. Section comprising one species restricted to Gabon and the island of São Tomé. B : Doorenbos, Sosef & de Wilde (1998), de Wilde (1985). IBLIOGRAPHY
+- **1.** Flowers with 4 tepals → couplet **2**
+- **1′.** Flowers with 2 tepals → couplet **3**
+  - **2.** Terrestrial plant; leaves palmatilobed with palmate venation; fruit broadly ellip- soid with 3 or 6 prominent nerves, indehiscent → sect. Mezierea (p. 30)
+  - **2′.** Plants mostly epiphytic; leaves with entire or dentate margin, never palmatilobed; fruit fusiform, rarely claviform, dehiscent into valves or by fissures → sect. Tetraphila (p. 72)
+    - **3.** Epiphytes with woody stems, with indumentum formed of fimbriate scales; with 2 large persistent bracts forming a flattened cupule enveloping the inflorescence and infructescence → sect. Squamibegonia (p. 65)
+    - **3′.** Herbaceous plants, terrestrial or rarely climbing, without scaly indumentum; inflorescence with bracts not united in a cupule → couplet **4**
+      - **4.** Stems creeping and climbing by adventitious roots → sect. Cristasemen (p. 3)
+      - **4′.** Plants with erect or rhizomatous stems → couplet **5**
+        - **5.** Inflorescence in dichasial cyme (dichasium), with developed branches, containing several female flowers → sect. Mezierea (p. 30)
+        - **5′.** Inflorescence in monochasial cyme (monochasium), with strongly reduced branches, containing a single terminal female flower → couplet **6**
+          - **6.** Plants with clearly erect stems; fruit nodding, capsular, dry, opening by longitudinal fissures → sect. Filicibegonia (p. 6)
+          - **6′.** Plants with creeping or rarely erect rhizomes; fruit more or less fleshy, indehiscent → couplet **7**
+            - **7.** Fertile pedicel erect or creeping but always straight; ovary and fruit (wings included) narrowly elliptic or rarely very broadly obovoid, pericarp translucent when fresh → sect. Loasibegonia (p. 15)
+            - **7′.** Fertile pedicel curved toward the substrate; ovary and fruit (wings included) broadly obovoid to very broadly obtriangular, exceptionally narrowly ellipsoid, pericarp opaque when fresh → sect. Scutobegonia (p. 34) sect. CRISTASEMEN J.J. de Wilde Agric. Univ. Wageningen Papers 84(3) : 113–129 (1985). Terrestrial, herbaceous, lianescent plants, with stems creeping and climbing by adventitious roots (like ivy, Hedera helix L.). Leaf not peltate, with palmate venation. Inflorescence axillary, bisexual, pauciflorous, in a distinctly bipare cyme at the base, the central flowers male early-caducous, branches subsequently unipare and bearing laterally a female flower. Flowers with 2 yellow tepals. ♂ Flower: androecium zygomorphic, stamens with filaments united at their base. ♀ Flower: ovary three-winged, 3-locular; placentation central, entire; styles 3, deeply bifid, each branch again divided. Infructescence generally with a single nodding fruit, suspended from a fine and long pedicel. Fruit capsular, with 3 unequal wings, crowned by the persistent styles. Seed J- or S-shaped, at the extremities composed of elongate and swollen cells. Section comprising one species restricted to Gabon and the island of São Tomé. B : Doorenbos, Sosef & de Wilde (1998), de Wilde (1985). IBLIOGRAPHY
 
 ## Species in region
 

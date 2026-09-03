@@ -23,9 +23,8 @@ This monotypic genus is endemic to tropical Africa.
 
 ## Key to the species
 
-**1.** Leaves large: 9–20 × 3–7 cm, elliptic to oblong → L. africana var. africana.
-
-**1′.** Leaves small: 3.5–8 × 0.9–2 cm, narrowly elliptic → L. africana var. microphylla.
+- **1.** Leaves large: 9–20 × 3–7 cm, elliptic to oblong → L. africana var. africana.
+- **1′.** Leaves small: 3.5–8 × 0.9–2 cm, narrowly elliptic → L. africana var. microphylla.
 
 ## Species in region
 

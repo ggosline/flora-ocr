@@ -35,13 +35,10 @@ b: Breteler (1969, 2006), Keay (1953, 1954), Lewis (1956), Liben (1987).
 
 ## Key to the species
 
-**1.** Inflorescences uniflorous or in the form of bipinnate cymes with 1–2 bifurcations, resulting in 1, 2 or 4 flowers → [[Rhizophora_mangle\|*R. mangle*]]
-
-**1′.** Inflorescences in the form of multiflorous bipinnate cymes with (3–)4–5 bifurcations and more than 8 (normally ± 32) flowers → couplet **2**
-
-**2.** Inflorescences subglobose, with 5–6 bifurcations at ± right angle; floral buds ellipsoid, the apex straight; tree able to reach 20–25 m in height → [[Rhizophora_racemosa\|*R. racemosa*]]
-
-**2′.** Inflorescences subumbelliform, with (3–)4–6 bifurcations at an angle of 30–60°; floral buds narrowly ovoid, the apex often slightly curved; small tree or shrub up to 5 m in height → [[Rhizophora_harrisonii\|*R. harrisonii*]]
+- **1.** Inflorescences uniflorous or in the form of bipinnate cymes with 1–2 bifurcations, resulting in 1, 2 or 4 flowers → [[Rhizophora_mangle\|*R. mangle*]]
+- **1′.** Inflorescences in the form of multiflorous bipinnate cymes with (3–)4–5 bifurcations and more than 8 (normally ± 32) flowers → couplet **2**
+  - **2.** Inflorescences subglobose, with 5–6 bifurcations at ± right angle; floral buds ellipsoid, the apex straight; tree able to reach 20–25 m in height → [[Rhizophora_racemosa\|*R. racemosa*]]
+  - **2′.** Inflorescences subumbelliform, with (3–)4–6 bifurcations at an angle of 30–60°; floral buds narrowly ovoid, the apex often slightly curved; small tree or shrub up to 5 m in height → [[Rhizophora_harrisonii\|*R. harrisonii*]]
 
 ## Species in region
 

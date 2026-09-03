@@ -30,25 +30,16 @@ Bibliography
 
 ## Key to the species
 
-**1.** Ovary pubescent at least at the apex, glabrescent in fruit or not → [[Neuropeltis_acuminata\|*N. acuminata*]]
-
-**1′.** Ovary glabrous → couplet **2**
-
-**2.** Stamens shorter than the corolla → couplet **3**
-
-**2′.** Stamens longer than the corolla, exserted or incurved → couplet **4**
-
-**3.** Leaf blade hairy below, often finely punctate-impressed above ; inflorescence densely flowered, the axillary ones racemose and much shorter than 20 cm (sometimes the terminal ones compound up to 45 cm in length) ; corolla (5–)6–7 mm in length → [[Neuropeltis_velutina\|*N. velutina*]]
-
-**3′.** Leaf blade glabrous or nearly so, not punctate-impressed above ; inflorescence very sparsely flowered, compound and up to 20 cm in length ; corolla ≤ 5 mm in length → [[Neuropeltis_laxiflora\|*N. laxiflora*]]
-
-**4.** Branches, inflorescences, petioles, median and lateral nerves on both surfaces of the blade with brown hispid hairs, often densely so ; leaf blade with mucro (5–)10–20(–30) mm → [[Neuropeltis_incompta\|*N. incompta*]]
-
-**4′.** Branches, inflorescences, petioles, median and lateral nerves on both surfaces of the blade brown-rust, velutinous or appressed hairs, not hispid ; leaf blade with mucro ≤ 5 mm → couplet **5**
-
-**5.** Plant with very appressed, uniform hairs and finely combed appearance ; leaf blade, 5–7(–9) × 2–3(–4) cm ; tertiary nerves prominent above → [[Neuropeltis_aenea\|*N. aenea*]]
-
-**5′.** Plant with ± appressed, uniform or not hairs, without finely combed appearance ; leaf blade, (4.5–)7–13(–15) × (3–)3.5–7(–9) cm ; tertiary nerves plane or impressed above → [[Neuropeltis_alnifolia\|*N. alnifolia*]]
+- **1.** Ovary pubescent at least at the apex, glabrescent in fruit or not → [[Neuropeltis_acuminata\|*N. acuminata*]]
+- **1′.** Ovary glabrous → couplet **2**
+  - **2.** Stamens shorter than the corolla → couplet **3**
+  - **2′.** Stamens longer than the corolla, exserted or incurved → couplet **4**
+    - **3.** Leaf blade hairy below, often finely punctate-impressed above ; inflorescence densely flowered, the axillary ones racemose and much shorter than 20 cm (sometimes the terminal ones compound up to 45 cm in length) ; corolla (5–)6–7 mm in length → [[Neuropeltis_velutina\|*N. velutina*]]
+    - **3′.** Leaf blade glabrous or nearly so, not punctate-impressed above ; inflorescence very sparsely flowered, compound and up to 20 cm in length ; corolla ≤ 5 mm in length → [[Neuropeltis_laxiflora\|*N. laxiflora*]]
+      - **4.** Branches, inflorescences, petioles, median and lateral nerves on both surfaces of the blade with brown hispid hairs, often densely so ; leaf blade with mucro (5–)10–20(–30) mm → [[Neuropeltis_incompta\|*N. incompta*]]
+      - **4′.** Branches, inflorescences, petioles, median and lateral nerves on both surfaces of the blade brown-rust, velutinous or appressed hairs, not hispid ; leaf blade with mucro ≤ 5 mm → couplet **5**
+        - **5.** Plant with very appressed, uniform hairs and finely combed appearance ; leaf blade, 5–7(–9) × 2–3(–4) cm ; tertiary nerves prominent above → [[Neuropeltis_aenea\|*N. aenea*]]
+        - **5′.** Plant with ± appressed, uniform or not hairs, without finely combed appearance ; leaf blade, (4.5–)7–13(–15) × (3–)3.5–7(–9) cm ; tertiary nerves plane or impressed above → [[Neuropeltis_alnifolia\|*N. alnifolia*]]
 
 ## Species in region
 

@@ -31,17 +31,12 @@ The 4 species which concern us in Cameroon and Gabon are separated thus:
 
 ## Key to the species
 
-**1.** Leaflets not exceeding 6 cm long and 2.5 cm wide; 5–10 pairs; receptacle 1.5–2 cm; pods reniform; seeds reaching 5 cm long, with lemon-yellow aril → [[Afzelia_pachyloba\|*A. pachyloba*]]
-
-**1′.** Leaflets more than 6 cm long and 2.5 cm wide, reaching up to 15 cm long and 8.5 cm wide.
-
-**2.** Receptacle 0.5–0.6 cm long; leaflets 3–5 pairs; large petal 1.3–1.5 cm long; pods straight; seeds with orange-red aril. A. africana.
-
-**2′.** Receptacle 1–3 cm long; very large petal 3–6.5 cm long; pods reniform.
-
-**3.** Leaflets (4–) 5–6 (–8) pairs, oblong-elliptic with obtuse or briefly acuminate apex; large trees; inflorescence axes more robust than in the following → [[Afzelia_bipindensis\|*A. bipindensis*]]
-
-**3′.** Leaflets 3–5 pairs, ovate-oblong, ± acuminate; generally shrubs; pubescence of flowers greyish and not yellowish-russet → 3. A. bella var. bella.
+- **1.** Leaflets not exceeding 6 cm long and 2.5 cm wide; 5–10 pairs; receptacle 1.5–2 cm; pods reniform; seeds reaching 5 cm long, with lemon-yellow aril → [[Afzelia_pachyloba\|*A. pachyloba*]]
+- **1′.** Leaflets more than 6 cm long and 2.5 cm wide, reaching up to 15 cm long and 8.5 cm wide.
+  - **2.** Receptacle 0.5–0.6 cm long; leaflets 3–5 pairs; large petal 1.3–1.5 cm long; pods straight; seeds with orange-red aril. A. africana.
+  - **2′.** Receptacle 1–3 cm long; very large petal 3–6.5 cm long; pods reniform.
+    - **3.** Leaflets (4–) 5–6 (–8) pairs, oblong-elliptic with obtuse or briefly acuminate apex; large trees; inflorescence axes more robust than in the following → [[Afzelia_bipindensis\|*A. bipindensis*]]
+    - **3′.** Leaflets 3–5 pairs, ovate-oblong, ± acuminate; generally shrubs; pubescence of flowers greyish and not yellowish-russet → 3. A. bella var. bella.
 
 ## Species in region
 

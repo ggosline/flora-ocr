@@ -33,13 +33,10 @@ appendages; caducous or persistent. Leaflets opposite, rarely alternate.
 
 ## Key to the species
 
-**1.** nerved → *G. dewevrei*
-
-**8.** G. demonstrans.
-
-**10.** G. imenænse.
-
-**11.** G. Preussii 1 (-2).
+- **1.** nerved → *G. dewevrei*
+  - **8.** G. demonstrans.
+    - **10.** G. imenænse.
+      - **11.** G. Preussii 1 (-2).
 
 ## Species in region
 

@@ -27,9 +27,8 @@ This African and Asian genus comprises about twenty species. 15 are represented 
 
 ## Key to the species
 
-**1.** Scandent shrub or liane; young inflorescence strobiliferous; raceme
-
-**1′.** Tree; young inflorescence not strobiliferous; raceme of fascicles longer than or equal to the leaf → [[Opilia_congolana\|*O. congolana*]]
+- **1.** Scandent shrub or liane; young inflorescence strobiliferous; raceme
+- **1′.** Tree; young inflorescence not strobiliferous; raceme of fascicles longer than or equal to the leaf → [[Opilia_congolana\|*O. congolana*]]
 
 ## Species in region
 

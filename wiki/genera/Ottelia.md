@@ -34,9 +34,8 @@ Sosef (2015).
 
 ## Key to the species
 
-**1.** Petals entirely yellow → O. ulvifolia subsp . ulvifolia
-
-**1′.** Petals white or white with yellow base → O. ulvifolia subsp . lancifolia
+- **1.** Petals entirely yellow → O. ulvifolia subsp . ulvifolia
+- **1′.** Petals white or white with yellow base → O. ulvifolia subsp . lancifolia
 
 ## Species in region
 

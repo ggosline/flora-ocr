@@ -29,7 +29,7 @@ The determination of Cassia species is fairly difficult. Some thirty species exi
 
 ## Key to the species
 
-**1′.** Tree with pink flowers; cylindrical pod exceeding 30 cm in length. → [[Cassia_mannii\|*C. mannii*]]
+- **1′.** Tree with pink flowers; cylindrical pod exceeding 30 cm in length. → [[Cassia_mannii\|*C. mannii*]]
 
 ## Species in region
 

@@ -26,7 +26,7 @@ Trees with simple alternate leaves, caducous stipules leaving annular scars, and
 
 ## Key to the species
 
-**1′.** Flowers subsessile, inserted singly along the axes. Terminal panicles. Large elliptic or obovate-elliptic leaves, reaching 35 cm long by 18 cm wide, cordate or subcordate at the base → [[Irvingia_grandifolia\|*I. grandifolia*]]
+- **1′.** Flowers subsessile, inserted singly along the axes. Terminal panicles. Large elliptic or obovate-elliptic leaves, reaching 35 cm long by 18 cm wide, cordate or subcordate at the base → [[Irvingia_grandifolia\|*I. grandifolia*]]
 
 ## Treatments
 

@@ -31,9 +31,8 @@ Bibliography
 
 ## Key to the species
 
-**1.** Acaulescent palm; leaf 1.5–4 m long; undersurface of leaflets pubescent to tomentose; fruiting inflorescence erect, with olive-green fruits spotted with purple becoming dark purple at maturity → [[Podococcus_acaulis\|*P. acaulis*]]
-
-**1′.** Solitary palm with stem up to 3 m; leaf 0.5–1.2 m long; undersurface of leaflets sparsely pubescent and glabrescent to glabrous; fruiting inflorescence recurved, with orange-brown fruits becoming bright orange at maturity → [[Podococcus_barteri\|*P. barteri*]]
+- **1.** Acaulescent palm; leaf 1.5–4 m long; undersurface of leaflets pubescent to tomentose; fruiting inflorescence erect, with olive-green fruits spotted with purple becoming dark purple at maturity → [[Podococcus_acaulis\|*P. acaulis*]]
+- **1′.** Solitary palm with stem up to 3 m; leaf 0.5–1.2 m long; undersurface of leaflets sparsely pubescent and glabrescent to glabrous; fruiting inflorescence recurved, with orange-brown fruits becoming bright orange at maturity → [[Podococcus_barteri\|*P. barteri*]]
 
 ## Species in region
 

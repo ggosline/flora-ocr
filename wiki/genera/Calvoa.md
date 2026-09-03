@@ -33,39 +33,23 @@ African genus, very distinct among the Sonerileae, especially diversified in the
 
 ## Key to the species
 
-**1.** Plant setulose, including on the hypanthium. Cymes contracted; fruits cylindraceus, scales prominent; often epiphytic → [[Calvoa_hirsuta\|*C. hirsuta*]]
-
-**1′.** Plants glabrescent, or only furfuraceous on young parts.
-
-**2.** Fruit pedicellate, narrowly obconic, without prominent scales. Dehiscent over its entire height; seeds appendiculate at both extremities; often epiphytic → [[Calvoa_trochainii\|*C. trochainii*]]
-
-**2′.** Fruits sessile or subsessile¹, from cylindraceus to broadly obconic, scales = prominent.
-
-**3.** Leaves narrow, approximately 3 times longer than wide; no more than 5 cm in length.
-
-**4.** Leaves narrowly lanceolate, 0.8 × 3 cm; entire margins, short internodes → 3. C. sp.
-
-**4′.** Leaves whitened, very attenuate on the petiole, 1.5 × 5 cm; serrulate margins → [[Calvoa_seretii\|*C. seretii*]]
-
-**3′.** Leaves variously ovate, elliptic, etc., no more than 2 times longer than wide.
-
-**5.** Fruit stellate through the crown, whose prominent part is as long as the hypanthium, the latter finely ribbed. Calyx persistent; leaf sinuate to serrulate, 3 × 5 cm; often the plant is branched with numerous simultaneous cymes → [[Calvoa_orientalis\|*C. orientalis*]]
-
-**5′.** Fruits cylindraceus or broadly obconic; wall often whitish, aeriferous, channeled; crown shorter than the hypanthium.
-
-**6.** Leaves ovate, ± cordate 9 × 12 cm; fruits cylindraceus; robust shrublets, rupiculous → [[Calvoa_pulcherrima\|*C. pulcherrima*]]
-
-**6′.** Leaves elliptic or lanceolate and = cordate.
-
-**1.** The solitary flowers of impoverished specimens appear pedicellate by the cyme axis.
-
-**7.** Leaves oblong-lanceolate, 2.5 × 8 cm, narrowly cordate at the base. Cymes several times divided; shrublet of swampy understory → 6 bis. C. sapinii.
-
-**7′.** Leaves elliptic, less than 3 times longer than wide.
-
-**8.** Leaves up to 5 × 10 cm; cymes up to 20 cm, sinuous; flowers spaced 1 to 2 cm apart → [[Calvoa_monticola\|*C. monticola*]]
-
-**8′.** Leaves 1.2 × 2 cm, subcircular, cymes often reduced to a single flower → juvenile form of C. monticola.
+- **1.** Plant setulose, including on the hypanthium. Cymes contracted; fruits cylindraceus, scales prominent; often epiphytic → [[Calvoa_hirsuta\|*C. hirsuta*]]
+- **1′.** Plants glabrescent, or only furfuraceous on young parts.
+  - **2.** Fruit pedicellate, narrowly obconic, without prominent scales. Dehiscent over its entire height; seeds appendiculate at both extremities; often epiphytic → [[Calvoa_trochainii\|*C. trochainii*]]
+  - **2′.** Fruits sessile or subsessile¹, from cylindraceus to broadly obconic, scales = prominent.
+    - **3.** Leaves narrow, approximately 3 times longer than wide; no more than 5 cm in length.
+      - **4.** Leaves narrowly lanceolate, 0.8 × 3 cm; entire margins, short internodes → 3. C. sp.
+      - **4′.** Leaves whitened, very attenuate on the petiole, 1.5 × 5 cm; serrulate margins → [[Calvoa_seretii\|*C. seretii*]]
+    - **3′.** Leaves variously ovate, elliptic, etc., no more than 2 times longer than wide.
+      - **5.** Fruit stellate through the crown, whose prominent part is as long as the hypanthium, the latter finely ribbed. Calyx persistent; leaf sinuate to serrulate, 3 × 5 cm; often the plant is branched with numerous simultaneous cymes → [[Calvoa_orientalis\|*C. orientalis*]]
+      - **5′.** Fruits cylindraceus or broadly obconic; wall often whitish, aeriferous, channeled; crown shorter than the hypanthium.
+        - **6.** Leaves ovate, ± cordate 9 × 12 cm; fruits cylindraceus; robust shrublets, rupiculous → [[Calvoa_pulcherrima\|*C. pulcherrima*]]
+        - **6′.** Leaves elliptic or lanceolate and = cordate.
+          - **1.** The solitary flowers of impoverished specimens appear pedicellate by the cyme axis.
+            - **7.** Leaves oblong-lanceolate, 2.5 × 8 cm, narrowly cordate at the base. Cymes several times divided; shrublet of swampy understory → 6 bis. C. sapinii.
+            - **7′.** Leaves elliptic, less than 3 times longer than wide.
+              - **8.** Leaves up to 5 × 10 cm; cymes up to 20 cm, sinuous; flowers spaced 1 to 2 cm apart → [[Calvoa_monticola\|*C. monticola*]]
+              - **8′.** Leaves 1.2 × 2 cm, subcircular, cymes often reduced to a single flower → juvenile form of C. monticola.
 
 ## Species in region
 

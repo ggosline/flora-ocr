@@ -27,13 +27,10 @@ TYPE SPECIES: Brassica oleracea L.
 
 ## Key to the species
 
-**1.** Upper cauline leaves amplexicaul or auriculate → [[Brassica_oleracea\|*B. oleracea*]]
-
-**1′.** Upper cauline leaves ± petiolate, neither amplexicaul nor auriculate.
-
-**2.** Lower cauline leaves with 0–1 lateral segments; beak mostly less than 6 mm → [[Brassica_carinata\|*B. carinata*]]
-
-**2′.** Lower cauline leaves with 1–3 pairs of lateral segments; beak exceeding 6 mm → [[Brassica_juncea\|*B. juncea*]]
+- **1.** Upper cauline leaves amplexicaul or auriculate → [[Brassica_oleracea\|*B. oleracea*]]
+- **1′.** Upper cauline leaves ± petiolate, neither amplexicaul nor auriculate.
+  - **2.** Lower cauline leaves with 0–1 lateral segments; beak mostly less than 6 mm → [[Brassica_carinata\|*B. carinata*]]
+  - **2′.** Lower cauline leaves with 1–3 pairs of lateral segments; beak exceeding 6 mm → [[Brassica_juncea\|*B. juncea*]]
 
 ## Species in region
 

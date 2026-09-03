@@ -27,13 +27,10 @@ Type species: E. Tessmannii Harms.
 
 ## Key to the species
 
-**1.** A single pair of leaflets; petiole short, 3–9 mm; flowers with long pedicels of 15–20 mm → *E. unijugum*
-
-**1′.** 2 pairs of leaflets; flowers with short pedicels.
-
-**2.** Longly acuminate acute → [[Eurypetalum_batesii\|*E. batesii*]]
-
-**2′.** Shortly acuminate → [[Eurypetalum_tessmannii\|*E. tessmannii*]]
+- **1.** A single pair of leaflets; petiole short, 3–9 mm; flowers with long pedicels of 15–20 mm → *E. unijugum*
+- **1′.** 2 pairs of leaflets; flowers with short pedicels.
+  - **2.** Longly acuminate acute → [[Eurypetalum_batesii\|*E. batesii*]]
+  - **2′.** Shortly acuminate → [[Eurypetalum_tessmannii\|*E. tessmannii*]]
 
 ## Species in region
 

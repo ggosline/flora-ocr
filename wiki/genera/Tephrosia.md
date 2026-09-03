@@ -29,49 +29,28 @@ B: Bosman & de Haas (1983), Botton & Hallé (1957), Brummitt et al. (2007), Chev
 
 ## Key to the species
 
-**1.** Subshrubs, shrubs or small trees reaching 2–4 m in height; flowers large, petals reaching 2–3 cm in length → couplet **2**
-
-**1′.** Subshrubs or herbs reaching 1.5 m in height; flowers relatively small, petals up to 1.5(–1.9) cm in length → couplet **4**
-
-**2.** Standard villous also partially on the interior; calyx lobes 6–14 mm in length → [[Tephrosia_vogelii\|*T. vogelii*]]
-
-**2′.** Standard villous only on the exterior; calyx lobes 2–6 mm in length → couplet **3**
-
-**3.** Leaflets with elliptic-oblanceolate blade, the apex emarginate; pod reaching 11 mm in width, tomentose → [[Tephrosia_densiflora\|*T. densiflora*]]
-
-**3′.** Leaflets with narrowly elliptic blade, apex acute; pod 7–9 mm in width, briefly pubescent (to be sought in Gabon) → T. candida (Roxb.) DC.
-
-**4.** Leaflets 3 to 5(–7), palmate, each with 2 subulate stipels; plant with normal flowers and pods and often also with cleistogamous flowers with relatively small geophilous pods (underground) (< 1 cm in length and with 1 to 3 seeds) → [[Tephrosia_lupinifolia\|*T. lupinifolia*]]
-
-**4′.** Leaflets (1–)3 to 29, pinnate; stipels absent or almost invisible; plant without cleistogamous flowers, nor small geophilous pods → couplet **5**
-
-**5.** Leaflets (1–)3 to 5(–7) → couplet **6**
-
-**5′.** Leaflets (5–)7 to 25 → couplet **7**
-
-**6.** Flowers in fascicles of 2 or 3 in the leaf axils; pod with 4 to 7(–8) seeds → [[Tephrosia_elegans\|*T. elegans*]]
-
-**6′.** Flowers in terminal and axillary racemes; pod with 10 or 11 seeds (to be sought in Gabon) → T. paniculata Baker
-
-**7.** Leaflets with linear to narrowly oblanceolate blade, 7 to 20 times longer than wide; plant annual → couplet **8**
-
-**7′.** Leaflets with oblanceolate to elliptic blade, up to 4(–5) times longer than wide; plant annual or perennial → couplet **9**
-
-**8.** Leaflets (5–)7 to 15(–17), with blade 2.5–4(–7) × 0.1–0.4(–0.6) cm; standard 5–12 mm in length; style glabrous → [[Tephrosia_linearis\|*T. linearis*]]
-
-**8′.** Leaflets (11–)17 to 27(–31), with blade 3–11 × 0.25–0.8(–1.0) cm; standard 14–18 mm in length; style bearded (to be sought in Gabon) → T. bracteolata Guill. & Perr.
-
-**9.** Upper calyx lobes united for < ½ of their length → couplet **10**
-
-**9′.** Upper calyx lobes united for ¾ or more of their length → couplet **11**
-
-**10.** Pod with hairs < 0.5 mm in length, surface of the valves well visible between the hairs; standard 6–9 mm in length (to be sought in Gabon) → T. purpurea (L.) Pers.
-
-**10′.** Pod with hairs of > 1 mm in length, covering the surface of the valves; standard 11–15 mm in length (to be sought in Gabon) → T. villosa (L.) Pers.
-
-**11.** Calyx and pod sutures with hairs, at least partially, dark brown or black; standard 8–12 mm in length; style glabrous → [[Tephrosia_noctiflora\|*T. noctiflora*]]
-
-**11′.** Calyx and pod sutures with white or yellowish to brown hairs; standard 12–19 mm in length; style pubescent → [[Tephrosia_nana\|*T. nana*]]
+- **1.** Subshrubs, shrubs or small trees reaching 2–4 m in height; flowers large, petals reaching 2–3 cm in length → couplet **2**
+- **1′.** Subshrubs or herbs reaching 1.5 m in height; flowers relatively small, petals up to 1.5(–1.9) cm in length → couplet **4**
+  - **2.** Standard villous also partially on the interior; calyx lobes 6–14 mm in length → [[Tephrosia_vogelii\|*T. vogelii*]]
+  - **2′.** Standard villous only on the exterior; calyx lobes 2–6 mm in length → couplet **3**
+    - **3.** Leaflets with elliptic-oblanceolate blade, the apex emarginate; pod reaching 11 mm in width, tomentose → [[Tephrosia_densiflora\|*T. densiflora*]]
+    - **3′.** Leaflets with narrowly elliptic blade, apex acute; pod 7–9 mm in width, briefly pubescent (to be sought in Gabon) → T. candida (Roxb.) DC.
+      - **4.** Leaflets 3 to 5(–7), palmate, each with 2 subulate stipels; plant with normal flowers and pods and often also with cleistogamous flowers with relatively small geophilous pods (underground) (< 1 cm in length and with 1 to 3 seeds) → [[Tephrosia_lupinifolia\|*T. lupinifolia*]]
+      - **4′.** Leaflets (1–)3 to 29, pinnate; stipels absent or almost invisible; plant without cleistogamous flowers, nor small geophilous pods → couplet **5**
+        - **5.** Leaflets (1–)3 to 5(–7) → couplet **6**
+        - **5′.** Leaflets (5–)7 to 25 → couplet **7**
+          - **6.** Flowers in fascicles of 2 or 3 in the leaf axils; pod with 4 to 7(–8) seeds → [[Tephrosia_elegans\|*T. elegans*]]
+          - **6′.** Flowers in terminal and axillary racemes; pod with 10 or 11 seeds (to be sought in Gabon) → T. paniculata Baker
+            - **7.** Leaflets with linear to narrowly oblanceolate blade, 7 to 20 times longer than wide; plant annual → couplet **8**
+            - **7′.** Leaflets with oblanceolate to elliptic blade, up to 4(–5) times longer than wide; plant annual or perennial → couplet **9**
+              - **8.** Leaflets (5–)7 to 15(–17), with blade 2.5–4(–7) × 0.1–0.4(–0.6) cm; standard 5–12 mm in length; style glabrous → [[Tephrosia_linearis\|*T. linearis*]]
+              - **8′.** Leaflets (11–)17 to 27(–31), with blade 3–11 × 0.25–0.8(–1.0) cm; standard 14–18 mm in length; style bearded (to be sought in Gabon) → T. bracteolata Guill. & Perr.
+                - **9.** Upper calyx lobes united for < ½ of their length → couplet **10**
+                - **9′.** Upper calyx lobes united for ¾ or more of their length → couplet **11**
+                  - **10.** Pod with hairs < 0.5 mm in length, surface of the valves well visible between the hairs; standard 6–9 mm in length (to be sought in Gabon) → T. purpurea (L.) Pers.
+                  - **10′.** Pod with hairs of > 1 mm in length, covering the surface of the valves; standard 11–15 mm in length (to be sought in Gabon) → T. villosa (L.) Pers.
+                    - **11.** Calyx and pod sutures with hairs, at least partially, dark brown or black; standard 8–12 mm in length; style glabrous → [[Tephrosia_noctiflora\|*T. noctiflora*]]
+                    - **11′.** Calyx and pod sutures with white or yellowish to brown hairs; standard 12–19 mm in length; style pubescent → [[Tephrosia_nana\|*T. nana*]]
 
 ## Species in region
 

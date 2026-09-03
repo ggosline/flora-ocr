@@ -43,29 +43,18 @@ Kativu et al. (2008).
 
 ## Key to the species
 
-**1.** Plants more than 1.5 m tall; corm-like rhizome; tepals exceeding 10 mm in length; capsule nearly circular in transverse section, slightly wrinkled → *C. stoltzii*
-
-**1′.** Plants less than 1 m tall; rhizome not corm-like; tepals less than 8 mm in length; capsule 3-angular in transverse section, smooth → couplet **2**
-
-**2.** Pedicel articulate in the lower half; capsule with stipitate to attenuate base; seeds 4–5 mm in diameter; petiole distinctly channeled; blade forming a distinct angle with the petiole then more or less horizontal → [[Chlorophytum_alismatifolium\|*C. alismatifolium*]]
-
-**2′.** Pedicel articulate in the upper half; capsule truncate at the base; seeds reaching 3 mm in diameter; petiole, if present, not channeled; blade continuous with the petiole → couplet **3**
-
-**3.** Blade reaching 8 cm in length, always green after drying; inflorescence at least 5 times longer than the blade; plant reproducing by means of plantlets found at the nodes of the inflorescence (pseudo-vivipary) → [[Chlorophytum_petrophilum\|*C. petrophilum*]]
-
-**3′.** Blade more than 10 cm in length, greenish or blackish when dry; inflorescence at most 4 times longer than the blade; plant sometimes reproducing by pseudo-vivipary → couplet **4**
-
-**4.** Plants robust, most often black after drying; leaf (petiole included) more than 35 cm in length, blade 5–10 cm wide → couplet **5**
-
-**4′.** Plants moderately robust, greenish when dry, leaf (petiole included) less than 35 cm in length, blade 3–7 cm wide → 6 ( C. sparsiflorum )
-
-**5.** Leaves distinctly petiolate, blade ± truncate at the base; rachis glabrous, rarely somewhat scabrous, inflorescence with 0–7 branches; capsule 5–8 mm in length → [[Chlorophytum_orchidastrum\|*C. orchidastrum*]]
-
-**5′.** Leaves not distinctly petiolate, blade gradually narrowed toward the base; rachis distinctly scabrous, inflorescence with 0–3 branches; capsule 7–11 mm in length → [[Chlorophytum_filipendulum\|*C. filipendulum*]]
-
-**6.** Leaves gradually narrowed toward the base, lower surface not distinctly striated → C. sparsiflorum var. sparsiflorum
-
-**6′.** Leaves distinctly petiolate, lower surface distinctly striated → C. sparsiflorum var. bipindense
+- **1.** Plants more than 1.5 m tall; corm-like rhizome; tepals exceeding 10 mm in length; capsule nearly circular in transverse section, slightly wrinkled → *C. stoltzii*
+- **1′.** Plants less than 1 m tall; rhizome not corm-like; tepals less than 8 mm in length; capsule 3-angular in transverse section, smooth → couplet **2**
+  - **2.** Pedicel articulate in the lower half; capsule with stipitate to attenuate base; seeds 4–5 mm in diameter; petiole distinctly channeled; blade forming a distinct angle with the petiole then more or less horizontal → [[Chlorophytum_alismatifolium\|*C. alismatifolium*]]
+  - **2′.** Pedicel articulate in the upper half; capsule truncate at the base; seeds reaching 3 mm in diameter; petiole, if present, not channeled; blade continuous with the petiole → couplet **3**
+    - **3.** Blade reaching 8 cm in length, always green after drying; inflorescence at least 5 times longer than the blade; plant reproducing by means of plantlets found at the nodes of the inflorescence (pseudo-vivipary) → [[Chlorophytum_petrophilum\|*C. petrophilum*]]
+    - **3′.** Blade more than 10 cm in length, greenish or blackish when dry; inflorescence at most 4 times longer than the blade; plant sometimes reproducing by pseudo-vivipary → couplet **4**
+      - **4.** Plants robust, most often black after drying; leaf (petiole included) more than 35 cm in length, blade 5–10 cm wide → couplet **5**
+      - **4′.** Plants moderately robust, greenish when dry, leaf (petiole included) less than 35 cm in length, blade 3–7 cm wide → 6 ( C. sparsiflorum )
+        - **5.** Leaves distinctly petiolate, blade ± truncate at the base; rachis glabrous, rarely somewhat scabrous, inflorescence with 0–7 branches; capsule 5–8 mm in length → [[Chlorophytum_orchidastrum\|*C. orchidastrum*]]
+        - **5′.** Leaves not distinctly petiolate, blade gradually narrowed toward the base; rachis distinctly scabrous, inflorescence with 0–3 branches; capsule 7–11 mm in length → [[Chlorophytum_filipendulum\|*C. filipendulum*]]
+          - **6.** Leaves gradually narrowed toward the base, lower surface not distinctly striated → C. sparsiflorum var. sparsiflorum
+          - **6′.** Leaves distinctly petiolate, lower surface distinctly striated → C. sparsiflorum var. bipindense
 
 ## Species in region
 

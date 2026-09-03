@@ -31,7 +31,7 @@ Two sections in Gabon. Sect. Heterotis is constituted, according to our concepti
 
 ## Key to the species
 
-**1′.** Hypanthium glabrous; intersepalar emergences lobuliform or absent (sect. Cyclostemma BENTH.). Cymes of 2 to 3 flowers widely separated by slender axes; flowers 4-merous; plant glabrescent, rooting → [[Heterotis_rupicola\|*H. rupicola*]]
+- **1′.** Hypanthium glabrous; intersepalar emergences lobuliform or absent (sect. Cyclostemma BENTH.). Cymes of 2 to 3 flowers widely separated by slender axes; flowers 4-merous; plant glabrescent, rooting → [[Heterotis_rupicola\|*H. rupicola*]]
 
 ## Species in region
 

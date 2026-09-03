@@ -31,7 +31,7 @@ This description comprises the common parts of the two diagnoses by Baillon and 
 
 ## Key to the species
 
-**1.** Leaves 1-jugate; leaflets elliptic, acuminate, 12-20 × 3-6 cm. → [[Crossonephelis_unijugatus\|*C. unijugatus*]]
+- **1.** Leaves 1-jugate; leaflets elliptic, acuminate, 12-20 × 3-6 cm. → [[Crossonephelis_unijugatus\|*C. unijugatus*]]
 
 ## Species in region
 

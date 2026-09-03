@@ -31,7 +31,7 @@ The genus Rytachne comprises half a dozen species which are mostly small plants 
 
 ## Key to the species
 
-**1′.** Lower glume of the sessile spikelet bearing in its lower part tubercles more or less pronounced and generally localized on the ribs only → [[Rytachne_mannii\|*R. mannii*]]
+- **1′.** Lower glume of the sessile spikelet bearing in its lower part tubercles more or less pronounced and generally localized on the ribs only → [[Rytachne_mannii\|*R. mannii*]]
 
 ## Species in region
 

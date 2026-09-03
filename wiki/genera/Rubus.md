@@ -29,13 +29,10 @@ Bibliography: Hauman (1952), Kalkman (1993, 2004), Letouzey (1978), Mendes & Kup
 
 ## Key to the species
 
-**1.** Branchlets villous; lamina above with appressed pilosity between the nerves, below pilose between the nerves; petals generally absent → R. apetalus Poir.
-
-**1′.** Branchlets nearly glabrous to tomentose; lamina above glabrous to sparsely pilose between the nerves, below glabrous between the nerves or else tomentose; petals present but reduced or sometimes absent → couplet **2**
-
-**2.** Lamina below glabrous outside of the nerves → R. pinnatus var. afrotropicus
-
-**2′.** Lamina below with whitish-greyish tomentum → R. pinnatus var. ledermannii
+- **1.** Branchlets villous; lamina above with appressed pilosity between the nerves, below pilose between the nerves; petals generally absent → R. apetalus Poir.
+- **1′.** Branchlets nearly glabrous to tomentose; lamina above glabrous to sparsely pilose between the nerves, below glabrous between the nerves or else tomentose; petals present but reduced or sometimes absent → couplet **2**
+  - **2.** Lamina below glabrous outside of the nerves → R. pinnatus var. afrotropicus
+  - **2′.** Lamina below with whitish-greyish tomentum → R. pinnatus var. ledermannii
 
 ## Species in region
 

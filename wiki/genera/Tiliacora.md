@@ -42,13 +42,10 @@ Africa, of which **3 in Gabon**.
 
 ## Key to the species
 
-**1.** Young stems and petioles pilose, glabrescent → couplet **2**
-
-**1′.** Young stems and petioles glabrous → [[Tiliacora_klaineana\|*T. klaineana*]]
-
-**2.** Leaf blade beneath with domatia, at least in the axils of the dominant basal nerves → [[Tiliacora_gabonensis\|*T. gabonensis*]]
-
-**2′.** Leaf blade beneath without domatia, nor dominant basal nerves → T. macrophylla Wulf 813 ; 2-6 : Gérard 2007 ; 7-9 : J. Léonard 1183 ). Drawing by G. Van Assche, Jardin botanique de Meise (©), reproduced from Troupin (1962).
+- **1.** Young stems and petioles pilose, glabrescent → couplet **2**
+- **1′.** Young stems and petioles glabrous → [[Tiliacora_klaineana\|*T. klaineana*]]
+  - **2.** Leaf blade beneath with domatia, at least in the axils of the dominant basal nerves → [[Tiliacora_gabonensis\|*T. gabonensis*]]
+  - **2′.** Leaf blade beneath without domatia, nor dominant basal nerves → T. macrophylla Wulf 813 ; 2-6 : Gérard 2007 ; 7-9 : J. Léonard 1183 ). Drawing by G. Van Assche, Jardin botanique de Meise (©), reproduced from Troupin (1962).
 
 ## Species in Gabon
 

@@ -29,9 +29,8 @@ Tropical African genus of 4 species, of which two are Gabonese, D. parviflora Ke
 
 ## Key to the species
 
-**1.** Leaf with 7–12 pairs of secondary veins; without axillary domatia; calyx with acute triangular teeth 3–5 × 2 mm
-
-**1′.** Leaves with 5–9 pairs of secondary veins; with aperturate axillary domatia; calyx lobes lanceolate 18–45 × 2–8 mm → [[Didymosalpinx_lanciloba\|*D. lanciloba*]]
+- **1.** Leaf with 7–12 pairs of secondary veins; without axillary domatia; calyx with acute triangular teeth 3–5 × 2 mm
+- **1′.** Leaves with 5–9 pairs of secondary veins; with aperturate axillary domatia; calyx lobes lanceolate 18–45 × 2–8 mm → [[Didymosalpinx_lanciloba\|*D. lanciloba*]]
 
 ## Species in region
 

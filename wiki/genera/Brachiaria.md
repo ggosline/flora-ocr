@@ -26,17 +26,12 @@ Approximately 80 species, mainly in Africa; 4 are recorded from Gabon.
 
 ## Key to the species
 
-**1.** Rachis of the racemes flattened-ribbon-like, these compound, numerous, with spikelets 3-3.5 mm long; long linear leaves; herbs of wet places → I. B. mutica.
-
-**1′.** Rachis of the racemes filiform, triquetrous or more or less flattened but not distinctly ribbon-like:
-
-**2.** Inflorescence formed of 2 to 8 erect racemes, up to 15 cm long; spikelets in a longitudinal series, ovoid, up to 6 mm long; leaves longly linear → [[Brachiaria_brizantha\|*B. brizantha*]]
-
-**2′.** Inflorescence in a panicle formed of 6 to very numerous racemes simple or compound, at least in their lower part, the secondary ramifications very short; leaves lanceolate, wavy crisped on the margins.
-
-**3.** Racemes lax formed of small secondary racemes or of glomérules of 2 to 6 spikelets; lower flower male. 3. B. Kotschyana.
-
-**3′.** Racemes dense of solitary spikelets or the lowermost by 2; lower flower neuter → [[Brachiaria_distichophylla\|*B. distichophylla*]]
+- **1.** Rachis of the racemes flattened-ribbon-like, these compound, numerous, with spikelets 3-3.5 mm long; long linear leaves; herbs of wet places → I. B. mutica.
+- **1′.** Rachis of the racemes filiform, triquetrous or more or less flattened but not distinctly ribbon-like:
+  - **2.** Inflorescence formed of 2 to 8 erect racemes, up to 15 cm long; spikelets in a longitudinal series, ovoid, up to 6 mm long; leaves longly linear → [[Brachiaria_brizantha\|*B. brizantha*]]
+  - **2′.** Inflorescence in a panicle formed of 6 to very numerous racemes simple or compound, at least in their lower part, the secondary ramifications very short; leaves lanceolate, wavy crisped on the margins.
+    - **3.** Racemes lax formed of small secondary racemes or of glomérules of 2 to 6 spikelets; lower flower male. 3. B. Kotschyana.
+    - **3′.** Racemes dense of solitary spikelets or the lowermost by 2; lower flower neuter → [[Brachiaria_distichophylla\|*B. distichophylla*]]
 
 ## Species in region
 

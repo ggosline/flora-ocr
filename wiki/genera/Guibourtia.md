@@ -29,21 +29,14 @@ In the territories of our jurisdiction C. Demeusii is a large tree of the floode
 
 ## Key to the species
 
-**1.** Translucent dots present.
-
-**2.** Petiole 1.5–3 cm long; lamina coriaceous; ovary glabrous → *G. demeusii*
-
-**2′.** Petiole 0.4–0.8 cm long; lamina membranaceous; ovary pubescent → [[Guibourtia_arnoldiana\|*G. arnoldiana*]]
-
-**1′.** Translucent dots absent.
-
-**3.** Petiole 1.5–3.5 cm long.
-
-**4.** External base of lamina cuneate → [[Guibourtia_tessmannii\|*G. tessmannii*]]
-
-**4′.** External base of lamina rounded → [[Guibourtia_pellegriniana\|*G. pellegriniana*]]
-
-**3′.** Petiole 0.4–0.6 (–1) cm long → [[Guibourtia_ehie\|*G. ehie*]]
+- **1.** Translucent dots present.
+  - **2.** Petiole 1.5–3 cm long; lamina coriaceous; ovary glabrous → *G. demeusii*
+  - **2′.** Petiole 0.4–0.8 cm long; lamina membranaceous; ovary pubescent → [[Guibourtia_arnoldiana\|*G. arnoldiana*]]
+- **1′.** Translucent dots absent.
+  - **3.** Petiole 1.5–3.5 cm long.
+    - **4.** External base of lamina cuneate → [[Guibourtia_tessmannii\|*G. tessmannii*]]
+    - **4′.** External base of lamina rounded → [[Guibourtia_pellegriniana\|*G. pellegriniana*]]
+  - **3′.** Petiole 0.4–0.6 (–1) cm long → [[Guibourtia_ehie\|*G. ehie*]]
 
 ## Species in region
 

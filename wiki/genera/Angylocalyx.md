@@ -27,21 +27,14 @@ Bibliography: Lewis et al. (2005), Polhill (1971c), Povydysh et al. (2010), Tous
 
 ## Key to the species
 
-**1.** Hypanthium at an angle close to 90° with the rest of the calyx → couplet **2**
-
-**1′.** Hypanthium extended toward the rest of the calyx without a sharp angle → couplet **4**
-
-**2.** Inflorescence with axis 1–3 cm long, pubescent or villous ; legume pubescent, with dry pericarp → couplet **3**
-
-**2′.** Inflorescence with axis 3–6(–10) cm long, glabrous ; legume glabrous, with fleshy pericarp → [[Angylocalyx_oligophyllus\|*A. oligophyllus*]]
-
-**3.** Pedicel ± 4 mm ; legume winged when dry → [[Angylocalyx_talbotii\|*A. talbotii*]]
-
-**3′.** Pedicel 8–10 mm ; legume not winged → [[Angylocalyx_vermeulenii\|*A. vermeulenii*]]
-
-**4.** Shrub or small tree up to 6 m tall ; inflorescence 1–4(–12) cm long ; petals pink or pinkish ; leaflets with ovate or rarely ovate-elliptic blade, (4–)5–9 cm wide → [[Angylocalyx_boutiqueanus\|*A. boutiqueanus*]]
-
-**4′.** Tree up to 35 m tall ; inflorescence 5–18 cm long ; petals white or cream yellow ; leaflets with elliptic blade, 3–6 cm wide → [[Angylocalyx_pynaertii\|*A. pynaertii*]]
+- **1.** Hypanthium at an angle close to 90° with the rest of the calyx → couplet **2**
+- **1′.** Hypanthium extended toward the rest of the calyx without a sharp angle → couplet **4**
+  - **2.** Inflorescence with axis 1–3 cm long, pubescent or villous ; legume pubescent, with dry pericarp → couplet **3**
+  - **2′.** Inflorescence with axis 3–6(–10) cm long, glabrous ; legume glabrous, with fleshy pericarp → [[Angylocalyx_oligophyllus\|*A. oligophyllus*]]
+    - **3.** Pedicel ± 4 mm ; legume winged when dry → [[Angylocalyx_talbotii\|*A. talbotii*]]
+    - **3′.** Pedicel 8–10 mm ; legume not winged → [[Angylocalyx_vermeulenii\|*A. vermeulenii*]]
+      - **4.** Shrub or small tree up to 6 m tall ; inflorescence 1–4(–12) cm long ; petals pink or pinkish ; leaflets with ovate or rarely ovate-elliptic blade, (4–)5–9 cm wide → [[Angylocalyx_boutiqueanus\|*A. boutiqueanus*]]
+      - **4′.** Tree up to 35 m tall ; inflorescence 5–18 cm long ; petals white or cream yellow ; leaflets with elliptic blade, 3–6 cm wide → [[Angylocalyx_pynaertii\|*A. pynaertii*]]
 
 ## Species in region
 

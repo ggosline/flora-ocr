@@ -42,25 +42,16 @@ papilionoid liana genera in the region.
 
 ## Key to the species
 
-**1.** Leaflets with blade densely pubescent beneath, at least when young; bracts linear, 6–18 mm in length, generally exceeding the calyces and giving the inflorescence a hairy appearance; stipules 5–20 mm in length, generally persistent; corolla bicoloured, with standard brown to purple, the other petals white to pale yellow → couplet **2**
-
-**1′.** Leaflets with blade glabrous or very sparsely pubescent beneath; bracts 1–4.5 mm in length, much shorter than the calyces; stipules < 6 mm in length, rapidly caducous; petals of the corolla all of the same colour (unknown in M. geerinckiana ) → couplet **3**
-
-**2.** Blade of leaflets with erect or semi-erect hairs, rather long (0.5–1 mm) on the lower surface → [[Millettia_soyauxii\|*M. soyauxii*]]
-
-**2′.** Blade of leaflets with strongly appressed and rather short hairs (0.1–0.5 mm) on the lower surface → [[Millettia_comosa\|*M. comosa*]]
-
-**3.** Stipels absent → couplet **4**
-
-**3′.** Stipels filiform, 2–3 mm in length (to be sought in Gabon) → M. impressa subsp. impressa
-
-**4.** Corolla 10–15 mm in length, pink to violet-purple (colour unknown in M. geerinckiana ); leaflets with lateral veins strongly ascending and much more prominent than the veinlets → couplet **5**
-
-**4′.** Corolla 6–8.5 mm in length, pale green; leaflets with lateral veins slightly ascending and scarcely more prominent than the veinlets → [[Millettia_viridiflora\|*M. viridiflora*]]
-
-**5.** Blade of leaflets remaining green on drying, with puberulent veins on the upper surface, the veinlets forming a very prominent network on the lower surface; calyx with spreading pubescence; inflorescence with central rachis distinctly shorter than the lateral branches → [[Millettia_geerinckiana\|*M. geerinckiana*]]
-
-**5′.** Blade of leaflets becoming brown or greyish on drying, with glabrous veins on the upper surface, the veinlets forming a scarcely apparent network on the lower surface; calyx with appressed pubescence; inflorescence with rachis longer than the lateral branches (or sometimes in simple pseudoraceme) → [[Millettia_barteri\|*M. barteri*]]
+- **1.** Leaflets with blade densely pubescent beneath, at least when young; bracts linear, 6–18 mm in length, generally exceeding the calyces and giving the inflorescence a hairy appearance; stipules 5–20 mm in length, generally persistent; corolla bicoloured, with standard brown to purple, the other petals white to pale yellow → couplet **2**
+- **1′.** Leaflets with blade glabrous or very sparsely pubescent beneath; bracts 1–4.5 mm in length, much shorter than the calyces; stipules < 6 mm in length, rapidly caducous; petals of the corolla all of the same colour (unknown in M. geerinckiana ) → couplet **3**
+  - **2.** Blade of leaflets with erect or semi-erect hairs, rather long (0.5–1 mm) on the lower surface → [[Millettia_soyauxii\|*M. soyauxii*]]
+  - **2′.** Blade of leaflets with strongly appressed and rather short hairs (0.1–0.5 mm) on the lower surface → [[Millettia_comosa\|*M. comosa*]]
+    - **3.** Stipels absent → couplet **4**
+    - **3′.** Stipels filiform, 2–3 mm in length (to be sought in Gabon) → M. impressa subsp. impressa
+      - **4.** Corolla 10–15 mm in length, pink to violet-purple (colour unknown in M. geerinckiana ); leaflets with lateral veins strongly ascending and much more prominent than the veinlets → couplet **5**
+      - **4′.** Corolla 6–8.5 mm in length, pale green; leaflets with lateral veins slightly ascending and scarcely more prominent than the veinlets → [[Millettia_viridiflora\|*M. viridiflora*]]
+        - **5.** Blade of leaflets remaining green on drying, with puberulent veins on the upper surface, the veinlets forming a very prominent network on the lower surface; calyx with spreading pubescence; inflorescence with central rachis distinctly shorter than the lateral branches → [[Millettia_geerinckiana\|*M. geerinckiana*]]
+        - **5′.** Blade of leaflets becoming brown or greyish on drying, with glabrous veins on the upper surface, the veinlets forming a scarcely apparent network on the lower surface; calyx with appressed pubescence; inflorescence with rachis longer than the lateral branches (or sometimes in simple pseudoraceme) → [[Millettia_barteri\|*M. barteri*]]
 
 ## Species in region
 

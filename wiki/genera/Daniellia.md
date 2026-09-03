@@ -51,31 +51,19 @@ The genus currently comprises 9 species and 1 variety. Two are species of open f
 
 ## Key to the species
 
-**1.** One large petal, 4 small or rudimentary; flowers white, glabrous; filaments of stamens glabrous; leaflets ovate-elliptic; species of wooded savannas → *D. oliveri*
-
-**1′.** Two large petals, one medium and 2 rudimentary; filaments of stamens hairy at the base; species of dense humid forests.
-
-**2.** Leaves ± hairy (rachis, petiolules and midvein below).
-
-**3.** Pedicel + receptacle approximately 1 cm in length; buds hairy → 1. D. Soyauxii var. pilosa.
-
-**3′.** Pedicel + receptacle 1.5-3 cm long; buds glabrous except at the apex; flowers mauve → 2. D. Pynærtii.
-
-**2′.** Leaves glabrous → *B. glabrous*
-
-**5.** Large leaflets 12-30 cm long, 4-11 cm wide → [[Daniellia_klainei\|*D. klainei*]]
-
-**5′.** Leaflets smaller.
-
-**6.** Small leaflets ovate, up to 6 cm in length and 2 cm in width; sepals 8-10 mm in length
-
-**1.** D. Soyauxii var. Soyauxii → *L. oblong*
-
-**7.** Sepals 1.6-2.2 cm in length × 11-17 mm in width; pedicel + receptacle 1.5-2 cm long; flowers red-violet → D. thurifera. (West Africa).
-
-**7′.** Sepals 1-1.2 cm in length × 8 mm in width; pedicel + receptacle approximately 1.2 cm in length; flowers blue → *D. oblonga*
-
-**4′.** Buds densely pubescent; ovary pubescent then glabrescent; leaflets oblong to oblong-ovate, glabrous; flowers blue-violet → [[Daniellia_ogea\|*D. ogea*]]
+- **1.** One large petal, 4 small or rudimentary; flowers white, glabrous; filaments of stamens glabrous; leaflets ovate-elliptic; species of wooded savannas → *D. oliveri*
+- **1′.** Two large petals, one medium and 2 rudimentary; filaments of stamens hairy at the base; species of dense humid forests.
+  - **2.** Leaves ± hairy (rachis, petiolules and midvein below).
+    - **3.** Pedicel + receptacle approximately 1 cm in length; buds hairy → 1. D. Soyauxii var. pilosa.
+    - **3′.** Pedicel + receptacle 1.5-3 cm long; buds glabrous except at the apex; flowers mauve → 2. D. Pynærtii.
+  - **2′.** Leaves glabrous → *B. glabrous*
+    - **5.** Large leaflets 12-30 cm long, 4-11 cm wide → [[Daniellia_klainei\|*D. klainei*]]
+    - **5′.** Leaflets smaller.
+      - **6.** Small leaflets ovate, up to 6 cm in length and 2 cm in width; sepals 8-10 mm in length
+        - **1.** D. Soyauxii var. Soyauxii → *L. oblong*
+          - **7.** Sepals 1.6-2.2 cm in length × 11-17 mm in width; pedicel + receptacle 1.5-2 cm long; flowers red-violet → D. thurifera. (West Africa).
+          - **7′.** Sepals 1-1.2 cm in length × 8 mm in width; pedicel + receptacle approximately 1.2 cm in length; flowers blue → *D. oblonga*
+        - **4′.** Buds densely pubescent; ovary pubescent then glabrescent; leaflets oblong to oblong-ovate, glabrous; flowers blue-violet → [[Daniellia_ogea\|*D. ogea*]]
 
 ## Species in region
 

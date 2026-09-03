@@ -29,31 +29,19 @@ Notes: Raponda-Walker & Sillans (1961) report the possible presence of R. sudani
 
 ## Key to the species
 
-**1.** Acaulescent palm, without a stem; leaves generally 4 to 6, emerging from the ground → [[Raphia_regalis\|*R. regalis*]]
-
-**1′.** Palm with a stem (trunk) clearly developed, but often hidden by leaves, remains of leaf sheaths or covered with a network of fibers → couplet **2**
-
-**2.** Stem solitary 3 Stems cespitose (multiple) → couplet **5**
-
-**3.** Leaves 15 to 20; fibers of stems > 1 cm wide, forming a network always strongly looped → [[Raphia_hookeri\|*R. hookeri*]]
-
-**3′.** Leaves ≤ 12; fibers of stems < 1 cm wide, forming a weakly looped network → couplet **4**
-
-**4.** Leaves 9 to 12; spines present on the upper surface of the rachis → [[Raphia_textilis\|*R. textilis*]]
-
-**4′.** Leaves 7 or 8; spines absent from the upper surface of the rachis (endemic to Gabon) → [[Raphia_gabonica\|*R. gabonica*]]
-
-**5.** Stem covered with a network of pendulous fibers and a few erect and pointed fibers → [[Raphia_rostrata\|*R. rostrata*]]
-
-**5′.** Stem covered with a network of erect and pointed fibers → couplet **6**
-
-**6.** Inflorescence pendulous; bract at the base of the partial inflorescences bifid → [[Raphia_zamiana\|*R. zamiana*]]
-
-**6′.** Inflorescence semi-erect; bract at the base of the partial inflorescences pointed → couplet **7**
-
-**7.** Secondary floriferous branches digitate, with bracts closely packed forming round rings → [[Raphia_laurentii\|*R. laurentii*]]
-
-**7′.** Secondary floriferous branches not digitate, their bracts not forming rings → [[Raphia_monbuttorum\|*R. monbuttorum*]]
+- **1.** Acaulescent palm, without a stem; leaves generally 4 to 6, emerging from the ground → [[Raphia_regalis\|*R. regalis*]]
+- **1′.** Palm with a stem (trunk) clearly developed, but often hidden by leaves, remains of leaf sheaths or covered with a network of fibers → couplet **2**
+  - **2.** Stem solitary 3 Stems cespitose (multiple) → couplet **5**
+    - **3.** Leaves 15 to 20; fibers of stems > 1 cm wide, forming a network always strongly looped → [[Raphia_hookeri\|*R. hookeri*]]
+    - **3′.** Leaves ≤ 12; fibers of stems < 1 cm wide, forming a weakly looped network → couplet **4**
+      - **4.** Leaves 9 to 12; spines present on the upper surface of the rachis → [[Raphia_textilis\|*R. textilis*]]
+      - **4′.** Leaves 7 or 8; spines absent from the upper surface of the rachis (endemic to Gabon) → [[Raphia_gabonica\|*R. gabonica*]]
+        - **5.** Stem covered with a network of pendulous fibers and a few erect and pointed fibers → [[Raphia_rostrata\|*R. rostrata*]]
+        - **5′.** Stem covered with a network of erect and pointed fibers → couplet **6**
+          - **6.** Inflorescence pendulous; bract at the base of the partial inflorescences bifid → [[Raphia_zamiana\|*R. zamiana*]]
+          - **6′.** Inflorescence semi-erect; bract at the base of the partial inflorescences pointed → couplet **7**
+            - **7.** Secondary floriferous branches digitate, with bracts closely packed forming round rings → [[Raphia_laurentii\|*R. laurentii*]]
+            - **7′.** Secondary floriferous branches not digitate, their bracts not forming rings → [[Raphia_monbuttorum\|*R. monbuttorum*]]
 
 ## Species in region
 

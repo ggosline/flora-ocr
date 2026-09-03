@@ -35,63 +35,35 @@ Although their position in the genus has been much discussed, X. Quintasii and X
 
 ### I. Styles short, barely exceeding the stamens; base of inner petals furnished on the inside with two longitudinal membranes; carpels 2-4; mericarps stipitate, cylindric; seeds vertical, ±oblique, uniseriate; aril membranous, laciniate, covering almost entirely the seed.
 
-**2.** Outer petals linear-oblong, reaching 10-20 mm in length; base of inner petals enlarged and concave, oblong, equal to 1/4 of the petal length, and lacking an appendage at its apex; styles shortly cylindric, shorter than the ovaries → *X. quintasii*
-
-**2′.** Outer petals linear-oblong, not exceeding 13 mm in length; base of inner petals oblong, equal to half the petal length, and furnished at the apex with a pubescent appendage directed downward; styles linear, almost as long as the ovaries → [[Xylopia_aurantiiodora\|*X. aurantiiodora*]]
-
-**1′.** Styles clearly exceeding the stamens; base of inner petals lacking on the inside two longitudinal lateral membranes:
-
-**3.** Outer petals 5-6 times longer than inner petals; inner petals rhombic, 5-6 mm long; mericarps stipitate, cylindric; seeds vertical; aril laciniate, formed of orange languettes.
-
-**4.** Leaves coriaceous; reticulation with fine meshes; seeds 10-12 mm long, 6-7 mm wide → 3. X. rubescens var. rubescens
-
-**4′.** Leaves thin; reticulation with looser and more visible meshes on the lower face; seeds 20 mm long, 12 mm wide.. X. rubescens var. Klaineai
-
-**3′.** Outer petals approximately the same shape as inner petals, somewhat longer but never twice as long.
-
-**5.** Floral buds ovoid to subglobose; petals triangular-ovate; mericarps cylindric, stipitate; seeds vertical; uniseriate; aril formed of numerous club-shaped blunt bodies; network of veinlets dense and prominent on both faces of the leaf.
-
-**6.** Floral buds rounded at the apex; pedicel 5-10 mm long; calyx lobes reaching 5 mm in length → *X. africanu*
-
-**6′.** Floral buds acute at the apex; pedicel 2-5 mm long; calyx lobes 2-3 mm long. 4. X. Staudtii
-
-**5′.** Floral buds lanceolate or linear, ±acute.
-
-**7.** Mericarps narrowly cylindric, stipitate to subsessile; seeds uniseriate, vertical or oblique.
-
-**8.** Leaves coriaceous; flowers with thick pedicel, 0.5-1 cm long; carpels numerous, 30-32; styles glabrous; mericarps subsessile; aril whitish bilobed; receptacle convex..
-
-**8′.** Leaves papyraceous to subcoriaceous; flowers with pedicel not exceeding 5 mm in length; carpels 5-16; styles not glabrous; aril not bilobed.
-
-**9.** Flowers not exceeding 5 cm in length; base of inner petals glabrous; styles terminated by a tuft of hairs; receptacle convex, with edges raised and crenulate surrounding the ovaries; leaves elliptic-oblong to ovate-elliptic; mericarps with stipes 0.7-1.3 cm long; aril invisible
-
-**9′.** Flowers 7-7.5 cm long; base of inner petals enlarged above the claw and furnished with a tuft of long hairs on the inside; styles hirsute; receptacle plane, not raised around the ovaries; leaves oblong, long-acuminate; 6-8 ovules uniseriate; fruits unknown → [[Xylopia_mildbraedii\|*X. mildbraedii*]]
-
-**7′.** Mericarps shortly cylindric or obovoid; seeds biseriate, horizontal to oblique.
-
-**10.** Base of inner petals furnished on the inside with two lateral pulviform glands; outer petals short, 6-8 mm in length; mericarps obovoid-oblong, ±wrinkled, obliquely, 2-5 cm long, 1-1.5 cm wide, rounded at the apex, puberulent to glabrous; stipes short, 6-8 mm long → *X. gilbertii*
-
-**10′.** Base of inner petals lacking on the inside lateral glands; outer petals 10-50 mm long.
-
-**11.** Flowers with slender pedicel, 7-15 mm long; inner petals auriculate at the base; outer petals 2-5 cm long; carpels 4-6; styles 6-7 mm long; mericarps cylindric-oblong, slightly constricted between the seeds and ±longitudinally ribbed; branchlets lenticellate → [[Xylopia_parviflora\|*X. parviflora*]]
-
-**11′.** Flowers with pedicel not exceeding 5 mm in length; inner petals not auriculate at the base; outer petals scarcely exceeding 3 cm in length; carpels 6-12; styles not exceeding 4 mm in length; mericarps obovoid, not constricted between the seeds and not longitudinally ribbed.
-
-**12.** Receptacle urceolate, with inner edge raised around the carpels; mericarps velvety, brown; leaves ovate-lanceolate, rounded to subcordate at the base; petals triangular-lanceolate, the inner ones furnished at the interior base with two lateral tufts of hairs.
-
-**13.** Lower face of leaves pubescent-appressed with short hairs.. 9. X. Le-Testui var. Le-Testui
-
-**13′.** Lower face of leaves densely pubescent-appressed with long hairs → X. Le-Testui var. longepilosa
-
-**12′.** Receptacle conical-convex totally surrounding the ovaries; mericarps glabrous; leaves elliptic to elliptic-lanceolate, ±cuneiform at the base; petals linear, the inner ones with glabrous claw.
-
-**13.** Leaves narrowly lanceolate, 4-8.5 cm long, densely silky-golden on the lower face; pedicel furnished with 3 semi-orbicular, imbricate bracteoles; carpels 11-12; ovaries very narrowly cylindric, scarcely distinct from the styles, and sparsely pubescent → [[Xylopia_hypolampra\|*X. hypolampra*]]
-
-**13′.** Leaves elliptic to elliptic-ovate, pubescent to glabrescent on the lower face, never silky-golden; pedicel furnished with a single bracteole; ovaries densely pubescent, clearly distinct from the styles.
-
-**14.** Ramilles tomentellous to glabrous; leaves 5-17 cm long, 2-6 cm wide, ±appressed-pubescent to glabrous on the lower face; venation plane, well visible on the upper face; carpels 6-11; styles glabrous; mericarps obovoid, ±verrucose; bark grayish-whitish → [[Xylopia_phloiodora\|*X. phloiodora*]]
-
-**14′.** Ramilles shortly hirsute; leaves 2-6 cm long, 1-1.5 cm wide, densely pubescent on the lower face; venation almost invisible on the upper face; carpels 8-11; styles pubescent at the apex; mericarps obovoid, smooth; bark red-orange, slippery → ..12. X. Pynaertii
+- **2.** Outer petals linear-oblong, reaching 10-20 mm in length; base of inner petals enlarged and concave, oblong, equal to 1/4 of the petal length, and lacking an appendage at its apex; styles shortly cylindric, shorter than the ovaries → *X. quintasii*
+- **2′.** Outer petals linear-oblong, not exceeding 13 mm in length; base of inner petals oblong, equal to half the petal length, and furnished at the apex with a pubescent appendage directed downward; styles linear, almost as long as the ovaries → [[Xylopia_aurantiiodora\|*X. aurantiiodora*]]
+- **1′.** Styles clearly exceeding the stamens; base of inner petals lacking on the inside two longitudinal lateral membranes:
+  - **3.** Outer petals 5-6 times longer than inner petals; inner petals rhombic, 5-6 mm long; mericarps stipitate, cylindric; seeds vertical; aril laciniate, formed of orange languettes.
+    - **4.** Leaves coriaceous; reticulation with fine meshes; seeds 10-12 mm long, 6-7 mm wide → 3. X. rubescens var. rubescens
+    - **4′.** Leaves thin; reticulation with looser and more visible meshes on the lower face; seeds 20 mm long, 12 mm wide.. X. rubescens var. Klaineai
+  - **3′.** Outer petals approximately the same shape as inner petals, somewhat longer but never twice as long.
+    - **5.** Floral buds ovoid to subglobose; petals triangular-ovate; mericarps cylindric, stipitate; seeds vertical; uniseriate; aril formed of numerous club-shaped blunt bodies; network of veinlets dense and prominent on both faces of the leaf.
+      - **6.** Floral buds rounded at the apex; pedicel 5-10 mm long; calyx lobes reaching 5 mm in length → *X. africanu*
+      - **6′.** Floral buds acute at the apex; pedicel 2-5 mm long; calyx lobes 2-3 mm long. 4. X. Staudtii
+    - **5′.** Floral buds lanceolate or linear, ±acute.
+      - **7.** Mericarps narrowly cylindric, stipitate to subsessile; seeds uniseriate, vertical or oblique.
+        - **8.** Leaves coriaceous; flowers with thick pedicel, 0.5-1 cm long; carpels numerous, 30-32; styles glabrous; mericarps subsessile; aril whitish bilobed; receptacle convex..
+        - **8′.** Leaves papyraceous to subcoriaceous; flowers with pedicel not exceeding 5 mm in length; carpels 5-16; styles not glabrous; aril not bilobed.
+          - **9.** Flowers not exceeding 5 cm in length; base of inner petals glabrous; styles terminated by a tuft of hairs; receptacle convex, with edges raised and crenulate surrounding the ovaries; leaves elliptic-oblong to ovate-elliptic; mericarps with stipes 0.7-1.3 cm long; aril invisible
+          - **9′.** Flowers 7-7.5 cm long; base of inner petals enlarged above the claw and furnished with a tuft of long hairs on the inside; styles hirsute; receptacle plane, not raised around the ovaries; leaves oblong, long-acuminate; 6-8 ovules uniseriate; fruits unknown → [[Xylopia_mildbraedii\|*X. mildbraedii*]]
+      - **7′.** Mericarps shortly cylindric or obovoid; seeds biseriate, horizontal to oblique.
+        - **10.** Base of inner petals furnished on the inside with two lateral pulviform glands; outer petals short, 6-8 mm in length; mericarps obovoid-oblong, ±wrinkled, obliquely, 2-5 cm long, 1-1.5 cm wide, rounded at the apex, puberulent to glabrous; stipes short, 6-8 mm long → *X. gilbertii*
+        - **10′.** Base of inner petals lacking on the inside lateral glands; outer petals 10-50 mm long.
+          - **11.** Flowers with slender pedicel, 7-15 mm long; inner petals auriculate at the base; outer petals 2-5 cm long; carpels 4-6; styles 6-7 mm long; mericarps cylindric-oblong, slightly constricted between the seeds and ±longitudinally ribbed; branchlets lenticellate → [[Xylopia_parviflora\|*X. parviflora*]]
+          - **11′.** Flowers with pedicel not exceeding 5 mm in length; inner petals not auriculate at the base; outer petals scarcely exceeding 3 cm in length; carpels 6-12; styles not exceeding 4 mm in length; mericarps obovoid, not constricted between the seeds and not longitudinally ribbed.
+            - **12.** Receptacle urceolate, with inner edge raised around the carpels; mericarps velvety, brown; leaves ovate-lanceolate, rounded to subcordate at the base; petals triangular-lanceolate, the inner ones furnished at the interior base with two lateral tufts of hairs.
+              - **13.** Lower face of leaves pubescent-appressed with short hairs.. 9. X. Le-Testui var. Le-Testui
+              - **13′.** Lower face of leaves densely pubescent-appressed with long hairs → X. Le-Testui var. longepilosa
+            - **12′.** Receptacle conical-convex totally surrounding the ovaries; mericarps glabrous; leaves elliptic to elliptic-lanceolate, ±cuneiform at the base; petals linear, the inner ones with glabrous claw.
+              - **13.** Leaves narrowly lanceolate, 4-8.5 cm long, densely silky-golden on the lower face; pedicel furnished with 3 semi-orbicular, imbricate bracteoles; carpels 11-12; ovaries very narrowly cylindric, scarcely distinct from the styles, and sparsely pubescent → [[Xylopia_hypolampra\|*X. hypolampra*]]
+              - **13′.** Leaves elliptic to elliptic-ovate, pubescent to glabrescent on the lower face, never silky-golden; pedicel furnished with a single bracteole; ovaries densely pubescent, clearly distinct from the styles.
+                - **14.** Ramilles tomentellous to glabrous; leaves 5-17 cm long, 2-6 cm wide, ±appressed-pubescent to glabrous on the lower face; venation plane, well visible on the upper face; carpels 6-11; styles glabrous; mericarps obovoid, ±verrucose; bark grayish-whitish → [[Xylopia_phloiodora\|*X. phloiodora*]]
+                - **14′.** Ramilles shortly hirsute; leaves 2-6 cm long, 1-1.5 cm wide, densely pubescent on the lower face; venation almost invisible on the upper face; carpels 8-11; styles pubescent at the apex; mericarps obovoid, smooth; bark red-orange, slippery → ..12. X. Pynaertii
 
 ## Species in region
 

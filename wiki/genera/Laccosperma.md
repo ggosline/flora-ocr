@@ -43,25 +43,16 @@ Couvreur & Niangadouma (2016), Dransfield (1982), Dransfield et al. (2008), Faye
 
 ## Key to the species
 
-**1.** Slender liane, with stem 5–15 mm in diameter; lamina with ≤ 12 leaflets on each side of the rachis → couplet **2**
-
-**1′.** Robust liane, with stem more than 35 mm in diameter; lamina with > 20 leaflets on each side of the rachis → couplet **4**
-
-**2.** Cirrus of adult leaves without spine-leaflets, but with short spines less than 5 mm long; lamina with 5 to 8 pairs of leaflets → [[Laccosperma_cristalensis\|*L. cristalensis*]]
-
-**2′.** Cirrus of adult leaves with clearly visible spine-leaflets, with or without short spines; lamina with 10 to 12 pairs of leaflets → couplet **3**
-
-**3.** Margin of leaflets spiny; fruit globose; seed subglobose, covered with concave depressions → [[Laccosperma_opacum\|*L. opacum*]]
-
-**3′.** Margin of leaflets not spiny; fruit ovoid; seed ovoid, smooth with a linear depression on one side → [[Laccosperma_laeve\|*L. laeve*]]
-
-**4.** Petiole of mature leaves > 20 cm; leaflets sigmoid → [[Laccosperma_secundiflorum\|*L. secundiflorum*]]
-
-**4′.** Petiole of mature leaves < 20 cm; leaflets linear-elliptic → couplet **5**
-
-**5.** Ochrea generally 20–30 cm in length; leaflets pendulous in vivo → [[Laccosperma_robustum\|*L. robustum*]]
-
-**5′.** Ochrea generally 12–20 cm in length; leaflets horizontal in vivo (to be sought in Gabon) → L. acutiflorum (Becc.) J.Dransf.
+- **1.** Slender liane, with stem 5–15 mm in diameter; lamina with ≤ 12 leaflets on each side of the rachis → couplet **2**
+- **1′.** Robust liane, with stem more than 35 mm in diameter; lamina with > 20 leaflets on each side of the rachis → couplet **4**
+  - **2.** Cirrus of adult leaves without spine-leaflets, but with short spines less than 5 mm long; lamina with 5 to 8 pairs of leaflets → [[Laccosperma_cristalensis\|*L. cristalensis*]]
+  - **2′.** Cirrus of adult leaves with clearly visible spine-leaflets, with or without short spines; lamina with 10 to 12 pairs of leaflets → couplet **3**
+    - **3.** Margin of leaflets spiny; fruit globose; seed subglobose, covered with concave depressions → [[Laccosperma_opacum\|*L. opacum*]]
+    - **3′.** Margin of leaflets not spiny; fruit ovoid; seed ovoid, smooth with a linear depression on one side → [[Laccosperma_laeve\|*L. laeve*]]
+      - **4.** Petiole of mature leaves > 20 cm; leaflets sigmoid → [[Laccosperma_secundiflorum\|*L. secundiflorum*]]
+      - **4′.** Petiole of mature leaves < 20 cm; leaflets linear-elliptic → couplet **5**
+        - **5.** Ochrea generally 20–30 cm in length; leaflets pendulous in vivo → [[Laccosperma_robustum\|*L. robustum*]]
+        - **5′.** Ochrea generally 12–20 cm in length; leaflets horizontal in vivo (to be sought in Gabon) → L. acutiflorum (Becc.) J.Dransf.
 
 ## Species in region
 

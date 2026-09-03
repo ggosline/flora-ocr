@@ -27,39 +27,23 @@ Important genus represented by very numerous species, some of which are valuable
 
 ## Key to the species
 
-**1.** Spikelets 4 to 7 mm wide, very flattened, ovoid, few in narrow racemose panicle → [[Eragrostis_platystachys\|*E. platystachys*]]
-
-**1′.** Spikelets less than 2 to 3 mm wide.
-
-**2.** Spikelets disarticulating from the apex at maturity, the rachis articulated between each flower and caducous with them; seed falling with the lemma and palea.
-
-**3.** Inflorescences in loose panicles approximately 10–15 × 1.5–3 cm; spikelets very small approximately 2 mm long and 1 mm wide, greenish or more or less tinged with violet; paleas ciliate with long stiff hairs on the keels; ruderal → *E. tenelle*
-
-**3′.** Inflorescences in dense spiciform panicles approximately 10 cm long and 1 cm in diameter; spikelets 2 to 4 mm long and
-
-**1.** 5 to 2 mm wide, whitish-grey or pink; paleas as above; ruderal → [[Eragrostis_ciliaris\|*E. ciliaris*]]
-
-**2′.** Spikelets disarticulating at maturity from the base; rachis persistent, and sometimes the paleas as well.
-
-**4.** Spikelets less than 1.5 mm wide, loose panicles, spikelets reaching about ten millimetres long; paleas scabrous on the keels, rapidly caducous; ruderal
-
-**4′.** Spikelets more than 1.5 mm wide.
-
-**5.** Paleas caducous (axis of the spikelet remaining bare after the fall of the flowers).
-
-**6.** Spikelets greenish, 2 to 2.5 mm wide and up to 15 or sometimes 20 mm long; ample panicle with numerous spikelets; paleas scabrous on the keels → [[Eragrostis_gangetica\|*E. gangetica*]]
-
-**6′.** Spikelets straw-coloured up to 20 mm long, 2.5 to 3 mm wide; narrow panicle with few spikelets, paleas with naked keels; perennial species rupicole in river rapids, with strong rootstock → [[Eragrostis_georgi\|*E. georgi*]]
-
-**5′.** Paleas persistent on the rachis of the spikelet after the fall of the flowers.
-
-**7.** Grasses erect with culms simple or little branched; inflorescences very loose with long secondary branches; spikelets more than 10 mm long, reaching 20 mm and often more.
-
-**8.** Spikelets straw-coloured and most often tinged with violet towards the apex; pedicels finely capillary, 4 to 10 mm long; spikelets linear elongate, most often 15 to 20 mm long; plant of sandy soils → *E. trem*
-
-**8′.** Spikelets greenish, more or less violaceous, pedicels generally shorter than above; some spikelets subsessile; spikelets elliptic elongate, generally about ten millimetres long; ruderal plant → *E. squam*
-
-**7′.** Grasses stoloniferous (?) culms bearing at the nodes dense fascicles of secondary flowering culms and innovations; inflorescence in narrow panicles approximately 10–15 cm long and 2 cm in diameter; spikelets greenish, between 5 and 10 mm long; plants of the seashore → [[Eragrostis_sabulicola\|*E. sabulicola*]]
+- **1.** Spikelets 4 to 7 mm wide, very flattened, ovoid, few in narrow racemose panicle → [[Eragrostis_platystachys\|*E. platystachys*]]
+- **1′.** Spikelets less than 2 to 3 mm wide.
+  - **2.** Spikelets disarticulating from the apex at maturity, the rachis articulated between each flower and caducous with them; seed falling with the lemma and palea.
+    - **3.** Inflorescences in loose panicles approximately 10–15 × 1.5–3 cm; spikelets very small approximately 2 mm long and 1 mm wide, greenish or more or less tinged with violet; paleas ciliate with long stiff hairs on the keels; ruderal → *E. tenelle*
+    - **3′.** Inflorescences in dense spiciform panicles approximately 10 cm long and 1 cm in diameter; spikelets 2 to 4 mm long and
+      - **1.** 5 to 2 mm wide, whitish-grey or pink; paleas as above; ruderal → [[Eragrostis_ciliaris\|*E. ciliaris*]]
+  - **2′.** Spikelets disarticulating at maturity from the base; rachis persistent, and sometimes the paleas as well.
+    - **4.** Spikelets less than 1.5 mm wide, loose panicles, spikelets reaching about ten millimetres long; paleas scabrous on the keels, rapidly caducous; ruderal
+    - **4′.** Spikelets more than 1.5 mm wide.
+      - **5.** Paleas caducous (axis of the spikelet remaining bare after the fall of the flowers).
+        - **6.** Spikelets greenish, 2 to 2.5 mm wide and up to 15 or sometimes 20 mm long; ample panicle with numerous spikelets; paleas scabrous on the keels → [[Eragrostis_gangetica\|*E. gangetica*]]
+        - **6′.** Spikelets straw-coloured up to 20 mm long, 2.5 to 3 mm wide; narrow panicle with few spikelets, paleas with naked keels; perennial species rupicole in river rapids, with strong rootstock → [[Eragrostis_georgi\|*E. georgi*]]
+      - **5′.** Paleas persistent on the rachis of the spikelet after the fall of the flowers.
+        - **7.** Grasses erect with culms simple or little branched; inflorescences very loose with long secondary branches; spikelets more than 10 mm long, reaching 20 mm and often more.
+          - **8.** Spikelets straw-coloured and most often tinged with violet towards the apex; pedicels finely capillary, 4 to 10 mm long; spikelets linear elongate, most often 15 to 20 mm long; plant of sandy soils → *E. trem*
+          - **8′.** Spikelets greenish, more or less violaceous, pedicels generally shorter than above; some spikelets subsessile; spikelets elliptic elongate, generally about ten millimetres long; ruderal plant → *E. squam*
+        - **7′.** Grasses stoloniferous (?) culms bearing at the nodes dense fascicles of secondary flowering culms and innovations; inflorescence in narrow panicles approximately 10–15 cm long and 2 cm in diameter; spikelets greenish, between 5 and 10 mm long; plants of the seashore → [[Eragrostis_sabulicola\|*E. sabulicola*]]
 
 ## Species in region
 

@@ -30,13 +30,10 @@ The generic description given above applies only to the African species. In the 
 
 ## Key to the species
 
-**1.** Annuals; scapes 5–15 cm tall; capitula 3.5–4.5 mm wide → [[Syngonanthus_schlechteri\|*S. schlechteri*]]
-
-**1′.** Perennials; scapes 20–40 cm tall; capitula 5–8.5 mm wide → couplet **2**
-
-**2.** Leaves soft, dull, 0.7–1.4 mm wide; capitula 5–6.3 mm wide; involucral bracts acute → [[Syngonanthus_ngoweensis\|*S. ngoweensis*]]
-
-**2′.** Leaves rigid, weakly glossy, 1.2–2.5 mm wide; capitula (5.5–)6–8.5 mm wide; involucral bracts obtuse → [[Syngonanthus_poggeanus\|*S. poggeanus*]]
+- **1.** Annuals; scapes 5–15 cm tall; capitula 3.5–4.5 mm wide → [[Syngonanthus_schlechteri\|*S. schlechteri*]]
+- **1′.** Perennials; scapes 20–40 cm tall; capitula 5–8.5 mm wide → couplet **2**
+  - **2.** Leaves soft, dull, 0.7–1.4 mm wide; capitula 5–6.3 mm wide; involucral bracts acute → [[Syngonanthus_ngoweensis\|*S. ngoweensis*]]
+  - **2′.** Leaves rigid, weakly glossy, 1.2–2.5 mm wide; capitula (5.5–)6–8.5 mm wide; involucral bracts obtuse → [[Syngonanthus_poggeanus\|*S. poggeanus*]]
 
 ## Species in region
 

@@ -25,9 +25,8 @@ Plants of understory or cool and shaded places, without practical interest. Two 
 
 ## Key to the species
 
-**1.** Linear awns, obtuse at their apex, smooth and often red or pink in color; spikelets 3–4 mm long → [[Oplismenus_hirtellus\|*O. hirtellus*]]
-
-**1′.** Capillary awns, flexuous, scabrous, pale in color; spikelets 2 mm long or barely longer → [[Oplismenus_burmannii\|*O. burmannii*]]
+- **1.** Linear awns, obtuse at their apex, smooth and often red or pink in color; spikelets 3–4 mm long → [[Oplismenus_hirtellus\|*O. hirtellus*]]
+- **1′.** Capillary awns, flexuous, scabrous, pale in color; spikelets 2 mm long or barely longer → [[Oplismenus_burmannii\|*O. burmannii*]]
 
 ## Species in region
 

@@ -33,9 +33,8 @@ A mainly central African genus of **2 species**, both in Gabon.
 
 ## Key to the species
 
-**1.** Stem and petiole hispid to ferruginous-villous, with hairs ≥ 1 mm; leaf blade with lateral veins very distinct on both surfaces, including (1)2 or 3 basal pairs; outer sepals 1–2 mm long, inner sepals 7–8 mm long; female flower with 15 to 20 carpels → [[Synclisia_scabrida\|*S. scabrida*]]
-
-**1′.** Stem and petiole puberulent, with hairs ± appressed, < 0.2 mm; leaf blade with lateral veins scarcely distinct only below, without basal pairs; outer sepals ± 0.5 mm long, inner sepals ± 5 mm long; female flower with 7 carpels → [[Synclisia_oligogyna\|*S. oligogyna*]]
+- **1.** Stem and petiole hispid to ferruginous-villous, with hairs ≥ 1 mm; leaf blade with lateral veins very distinct on both surfaces, including (1)2 or 3 basal pairs; outer sepals 1–2 mm long, inner sepals 7–8 mm long; female flower with 15 to 20 carpels → [[Synclisia_scabrida\|*S. scabrida*]]
+- **1′.** Stem and petiole puberulent, with hairs ± appressed, < 0.2 mm; leaf blade with lateral veins scarcely distinct only below, without basal pairs; outer sepals ± 0.5 mm long, inner sepals ± 5 mm long; female flower with 7 carpels → [[Synclisia_oligogyna\|*S. oligogyna*]]
 
 ## Species in Gabon
 

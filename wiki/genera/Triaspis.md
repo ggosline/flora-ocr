@@ -31,25 +31,16 @@ About fifteen species from tropical or southern Africa, 2 Cameroonian.
 
 ## Key to the species
 
-**1.** Lianes entirely clothed with hispid hairs → [[Triaspis_letestuana\|*T. letestuana*]]
-
-**1′.** Lianes glabrous or clothed with non-hispid hairs.
-
-**2.** Petals similar; ovaries glabrous.
-
-**3.** Lateral wings of samaras emarginate at apex → *T. emarginata*
-
-**3′.** Lateral wings of samaras entire or ± retuse, rarely emarginate → T. lateriflora (Angola and Zambia).
-
-**2′.** Petals dissimilar; ovaries pubescent.
-
-**4.** Filaments of stamens pubescent → T. macropteron (Congo, Angola, Mozambique and Zambia).
-
-**4′.** Filaments of stamens glabrous.
-
-**5.** Stems glabrous; adult leaves glabrous → [[Triaspis_sapinii\|*T. sapinii*]]
-
-**5′.** Stems clothed with appressed hairs; adult leaves clothed with silky hairs on the lower surface → T. stipulata (Togo, Nigeria, Cameroon).
+- **1.** Lianes entirely clothed with hispid hairs → [[Triaspis_letestuana\|*T. letestuana*]]
+- **1′.** Lianes glabrous or clothed with non-hispid hairs.
+  - **2.** Petals similar; ovaries glabrous.
+    - **3.** Lateral wings of samaras emarginate at apex → *T. emarginata*
+    - **3′.** Lateral wings of samaras entire or ± retuse, rarely emarginate → T. lateriflora (Angola and Zambia).
+  - **2′.** Petals dissimilar; ovaries pubescent.
+    - **4.** Filaments of stamens pubescent → T. macropteron (Congo, Angola, Mozambique and Zambia).
+    - **4′.** Filaments of stamens glabrous.
+      - **5.** Stems glabrous; adult leaves glabrous → [[Triaspis_sapinii\|*T. sapinii*]]
+      - **5′.** Stems clothed with appressed hairs; adult leaves clothed with silky hairs on the lower surface → T. stipulata (Togo, Nigeria, Cameroon).
 
 ## Species in region
 

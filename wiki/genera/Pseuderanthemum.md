@@ -33,9 +33,8 @@ Approximately 80 species from tropical regions, and notably Indo-Pacific.
 
 ## Key to the species
 
-**1.** Perennial plant or shrub 20–50 cm tall; inflorescence 10–15 cm long; 1–3 flowers per node; flowers white or pale violet; corolla tube 14 mm long, stamens included
-
-**1′.** Shrub up to 3 m tall; inflorescences up to 3 cm long; flowers 6–8 or more per node, in very dense fascicles; flowers white; tube 3 cm long, stamens exserted → [[Pseuderanthemum_ludovicianum\|*P. ludovicianum*]]
+- **1.** Perennial plant or shrub 20–50 cm tall; inflorescence 10–15 cm long; 1–3 flowers per node; flowers white or pale violet; corolla tube 14 mm long, stamens included
+- **1′.** Shrub up to 3 m tall; inflorescences up to 3 cm long; flowers 6–8 or more per node, in very dense fascicles; flowers white; tube 3 cm long, stamens exserted → [[Pseuderanthemum_ludovicianum\|*P. ludovicianum*]]
 
 ## Species in region
 

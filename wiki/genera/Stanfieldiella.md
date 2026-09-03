@@ -35,17 +35,12 @@ Bibliography
 
 ## Key to the species
 
-**1.** Seeds 2 to 4 per locule, verrucose; fruit scarcely exceeding the sepals ( S. brachycarpa ) → couplet **2**
-
-**1′.** Seeds 4 to 10 per locule, smooth or verrucose; fruit distinctly longer than the sepals → couplet **3**
-
-**2.** Plant entirely covered with patent, stiff, whitish translucent pubescence → S. brachycarpa var. hirsuta
-
-**2′.** Plant glabrous, except for a few scattered, patent, violet-colored long hairs on the internodes, sheaths, and at the base of the blade → S. brachycarpa var. brachycarpa
-
-**3.** Terminal inflorescence generally 3–5 cm wide; plant generally up to 15–20(–30) cm tall; fruit 1.5–2 mm wide; seed smooth → [[Stanfieldiella_imperforata\|*S. imperforata*]]
-
-**3′.** Compact terminal inflorescence 2–3 cm long and wide; plant generally more robust, 30–50 cm tall; fruit 2.5–3 mm wide; seed verrucose → [[Stanfieldiella_oligantha\|*S. oligantha*]]
+- **1.** Seeds 2 to 4 per locule, verrucose; fruit scarcely exceeding the sepals ( S. brachycarpa ) → couplet **2**
+- **1′.** Seeds 4 to 10 per locule, smooth or verrucose; fruit distinctly longer than the sepals → couplet **3**
+  - **2.** Plant entirely covered with patent, stiff, whitish translucent pubescence → S. brachycarpa var. hirsuta
+  - **2′.** Plant glabrous, except for a few scattered, patent, violet-colored long hairs on the internodes, sheaths, and at the base of the blade → S. brachycarpa var. brachycarpa
+    - **3.** Terminal inflorescence generally 3–5 cm wide; plant generally up to 15–20(–30) cm tall; fruit 1.5–2 mm wide; seed smooth → [[Stanfieldiella_imperforata\|*S. imperforata*]]
+    - **3′.** Compact terminal inflorescence 2–3 cm long and wide; plant generally more robust, 30–50 cm tall; fruit 2.5–3 mm wide; seed verrucose → [[Stanfieldiella_oligantha\|*S. oligantha*]]
 
 ## Species in region
 

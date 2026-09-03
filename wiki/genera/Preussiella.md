@@ -29,9 +29,8 @@ The two species of the genus are represented in Gabon.
 
 ## Key to the species
 
-**1.** Leaves petiolate, ovate-lanceolate, base rounded; terminal cymes; sepal lobes glabrous → [[Preussiella_kamerunensis\|*P. kamerunensis*]]
-
-**1′.** Leaves subsessile, elliptic-lanceolate, base narrowly cordate; apical cymes: terminal and axillary; sepal lobes hairy-glandular → [[Preussiella_gabonensis\|*P. gabonensis*]]
+- **1.** Leaves petiolate, ovate-lanceolate, base rounded; terminal cymes; sepal lobes glabrous → [[Preussiella_kamerunensis\|*P. kamerunensis*]]
+- **1′.** Leaves subsessile, elliptic-lanceolate, base narrowly cordate; apical cymes: terminal and axillary; sepal lobes hairy-glandular → [[Preussiella_gabonensis\|*P. gabonensis*]]
 
 ## Species in region
 

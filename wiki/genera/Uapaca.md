@@ -27,41 +27,24 @@ Bibliography
 
 ## Key to the species
 
-**1.** Stipules absent or obsolete, 0.5–2(–6) mm long, stipular scars absent or obsolete → couplet **2**
-
-**1′.** Stipules present, well-developed, (3–)4–15(–80) mm long, caducous or persistent for a considerable time, stipular scars marked → couplet **7**
-
-**2.** Young twigs glabrous or at most with a few hairs at the leaf axils → couplet **3**
-
-**2′.** Young twigs pubescent to puberulent, hairs at least axillary and/or around or on the sides of the petiole base (plate 27F) → couplet **4**
-
-**3.** Limb papyraceous to coriaceous, 9–10 × 4–5 cm, generally shortly ( ≤ 0.5 cm) acuminate (plate 27A) ; inflorescence ≤ 10 mm in diameter → [[Uapaca_acuminata\|*U. acuminata*]]
-
-**3′.** Limb rigid, very coriaceous, (14–)16–23(–42) × 6–8(–14) cm, most often obtuse to retuse at apex (plate 27B) ; inflorescence (1.5–)2–4 cm in diameter → [[Uapaca_pynaertii\|*U. pynaertii*]]
-
-**4.** Branchlets without tufts of red curly hairs, if pilose, the hairs of different colour and not distinctly in tufts → couplet **5**
-
-**4′.** Branchlets with tufts of red curly hairs, at the leaf axils and often also laterally at the petiole base (plate 27F) ; tree of riverbanks, often partially in water → [[Uapaca_heudelotii\|*U. heudelotii*]]
-
-**5.** Limb obovate-elliptic, (1–)1.5–2(–2.5) times longer than wide, obtuse to retuse or rarely acuminate at apex, midvein glabrous or with a few scattered hairs beneath → couplet **6**
-
-**5′.** Limb narrowly oblong-elliptic or narrowly obovate-elliptic, 2.5–3.5(–4) times longer than wide, acuminate for 0.5–1.5(–2) cm at apex, midvein puberulent beneath (plate 29) → [[Uapaca_niangadoumae\|*U. niangadoumae*]]
-
-**6.** Calyx of female flower generally well visible beneath the fruit (plate 30F), densely pilose outside ; ovary pubescent ; fruit glabrescent to glabrous ; male flower without petals → [[Uapaca_togoensis\|*U. togoensis*]]
-
-**6′.** Calyx of female flower most often well visible beneath the glabrous fruit (plate 27D), glabrous or nearly so outside, but generally with long prominent hairs inside ; male flower with narrow petals → [[Uapaca_guineensis\|*U. guineensis*]]
-
-**7.** Stipules often ear-shaped or hood-shaped (plate 28G) ; leaf with limb (4.5–)8–20(–24) times longer than the petiole ; fruit puberulent → *U. staudtii*
-
-**7′.** Stipules never ear-shaped or hood-shaped ; leaf with limb at most 4 times longer than the petiole ; fruit glabrous or with a few scattered hairs → couplet **8**
-
-**8.** Stipules triangular, 0.5–2(–6) mm long ; limb ± glabrous beneath or with a few scattered hairs → couplet **6**
-
-**8′.** Stipules ovate or narrowly triangular to linear, (3–)4–15(–80) mm long (plate 28C,D) ; limb puberulent to pubescent beneath (plate 28B, 30C) → couplet **9**
-
-**9.** Stipules (plate 28C,D) often foliaceous, ± ovate, often slightly falcate, acuminate, midvein ± distinct and sides unequal → [[Uapaca_mole\|*U. mole*]]
-
-**9′.** Stipules (plate 30D) narrowly triangular to linear, without distinct midvein → [[Uapaca_vanhouttei\|*U. vanhouttei*]]
+- **1.** Stipules absent or obsolete, 0.5–2(–6) mm long, stipular scars absent or obsolete → couplet **2**
+- **1′.** Stipules present, well-developed, (3–)4–15(–80) mm long, caducous or persistent for a considerable time, stipular scars marked → couplet **7**
+  - **2.** Young twigs glabrous or at most with a few hairs at the leaf axils → couplet **3**
+  - **2′.** Young twigs pubescent to puberulent, hairs at least axillary and/or around or on the sides of the petiole base (plate 27F) → couplet **4**
+    - **3.** Limb papyraceous to coriaceous, 9–10 × 4–5 cm, generally shortly ( ≤ 0.5 cm) acuminate (plate 27A) ; inflorescence ≤ 10 mm in diameter → [[Uapaca_acuminata\|*U. acuminata*]]
+    - **3′.** Limb rigid, very coriaceous, (14–)16–23(–42) × 6–8(–14) cm, most often obtuse to retuse at apex (plate 27B) ; inflorescence (1.5–)2–4 cm in diameter → [[Uapaca_pynaertii\|*U. pynaertii*]]
+      - **4.** Branchlets without tufts of red curly hairs, if pilose, the hairs of different colour and not distinctly in tufts → couplet **5**
+      - **4′.** Branchlets with tufts of red curly hairs, at the leaf axils and often also laterally at the petiole base (plate 27F) ; tree of riverbanks, often partially in water → [[Uapaca_heudelotii\|*U. heudelotii*]]
+        - **5.** Limb obovate-elliptic, (1–)1.5–2(–2.5) times longer than wide, obtuse to retuse or rarely acuminate at apex, midvein glabrous or with a few scattered hairs beneath → couplet **6**
+        - **5′.** Limb narrowly oblong-elliptic or narrowly obovate-elliptic, 2.5–3.5(–4) times longer than wide, acuminate for 0.5–1.5(–2) cm at apex, midvein puberulent beneath (plate 29) → [[Uapaca_niangadoumae\|*U. niangadoumae*]]
+          - **6.** Calyx of female flower generally well visible beneath the fruit (plate 30F), densely pilose outside ; ovary pubescent ; fruit glabrescent to glabrous ; male flower without petals → [[Uapaca_togoensis\|*U. togoensis*]]
+          - **6′.** Calyx of female flower most often well visible beneath the glabrous fruit (plate 27D), glabrous or nearly so outside, but generally with long prominent hairs inside ; male flower with narrow petals → [[Uapaca_guineensis\|*U. guineensis*]]
+            - **7.** Stipules often ear-shaped or hood-shaped (plate 28G) ; leaf with limb (4.5–)8–20(–24) times longer than the petiole ; fruit puberulent → *U. staudtii*
+            - **7′.** Stipules never ear-shaped or hood-shaped ; leaf with limb at most 4 times longer than the petiole ; fruit glabrous or with a few scattered hairs → couplet **8**
+              - **8.** Stipules triangular, 0.5–2(–6) mm long ; limb ± glabrous beneath or with a few scattered hairs → couplet **6**
+              - **8′.** Stipules ovate or narrowly triangular to linear, (3–)4–15(–80) mm long (plate 28C,D) ; limb puberulent to pubescent beneath (plate 28B, 30C) → couplet **9**
+                - **9.** Stipules (plate 28C,D) often foliaceous, ± ovate, often slightly falcate, acuminate, midvein ± distinct and sides unequal → [[Uapaca_mole\|*U. mole*]]
+                - **9′.** Stipules (plate 30D) narrowly triangular to linear, without distinct midvein → [[Uapaca_vanhouttei\|*U. vanhouttei*]]
 
 ## Species in region
 

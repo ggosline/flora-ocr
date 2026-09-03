@@ -29,9 +29,8 @@ TYPE SPECIES: P. congolense (S. Moore) Exell & Mendonça.
 
 ## Key to the species
 
-**1.** Cymes borne on short axillary branchlets; lamina 4-13 cm long; secondary veins fewer than 12 pairs → [[Pinacopodium_congolense\|*P. congolense*]]
-
-**1′.** Cymes axillary, not borne on short branchlets; lamina 6-16 cm long; 12-14 pairs of secondary veins. 2. P. gabonense.
+- **1.** Cymes borne on short axillary branchlets; lamina 4-13 cm long; secondary veins fewer than 12 pairs → [[Pinacopodium_congolense\|*P. congolense*]]
+- **1′.** Cymes axillary, not borne on short branchlets; lamina 6-16 cm long; 12-14 pairs of secondary veins. 2. P. gabonense.
 
 ## Species in region
 

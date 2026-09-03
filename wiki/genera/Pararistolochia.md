@@ -32,25 +32,16 @@ fer (1966), Poncy (1978).
 
 ## Key to the species
 
-**1.** Flower with 3 distinct lobes → couplet **2**
-
-**1′.** Flower with 2 distinct lobes (sometimes the third reduced), either with ribbon-like appendages, or with the upper lobe incised → couplet **5**
-
-**2.** Flower with equal lobes; fruit generally longitudinally ribbed (but still unknown in one species) → couplet **3**
-
-**2′.** Flower with 2 lateral lobes somewhat larger than the lower one; fruit with ribs more or less marked, but rounded → [[Pararistolochia_macrocarpa\|*P. macrocarpa*]]
-
-**3.** Leaf entire; flower with lobes not exceeding 3 cm in length, not folded and glabrous or entirely pubescent → couplet **4**
-
-**3′.** Leaf with undulate margin, up to 3- or 5-lobed; flower with lobes (2–)4–7 cm in length, longitudinally folded and pubescent at the apex or in the upper half → [[Pararistolochia_triactina\|*P. triactina*]]
-
-**4.** Flower with caudate lobes, orange to golden yellow, glabrous → [[Pararistolochia_ceropegioides\|*P. ceropegioides*]]
-
-**4′.** Flower with narrowly triangular lobes, dark red and pubescent → [[Pararistolochia_fimbriata\|*P. fimbriata*]]
-
-**5.** Flower with lobes bearing a long ribbon-like appendage → [[Pararistolochia_promissa\|*P. promissa*]]
-
-**5′.** Flower with upper lobe incised → [[Pararistolochia_incisiloba\|*P. incisiloba*]]
+- **1.** Flower with 3 distinct lobes → couplet **2**
+- **1′.** Flower with 2 distinct lobes (sometimes the third reduced), either with ribbon-like appendages, or with the upper lobe incised → couplet **5**
+  - **2.** Flower with equal lobes; fruit generally longitudinally ribbed (but still unknown in one species) → couplet **3**
+  - **2′.** Flower with 2 lateral lobes somewhat larger than the lower one; fruit with ribs more or less marked, but rounded → [[Pararistolochia_macrocarpa\|*P. macrocarpa*]]
+    - **3.** Leaf entire; flower with lobes not exceeding 3 cm in length, not folded and glabrous or entirely pubescent → couplet **4**
+    - **3′.** Leaf with undulate margin, up to 3- or 5-lobed; flower with lobes (2–)4–7 cm in length, longitudinally folded and pubescent at the apex or in the upper half → [[Pararistolochia_triactina\|*P. triactina*]]
+      - **4.** Flower with caudate lobes, orange to golden yellow, glabrous → [[Pararistolochia_ceropegioides\|*P. ceropegioides*]]
+      - **4′.** Flower with narrowly triangular lobes, dark red and pubescent → [[Pararistolochia_fimbriata\|*P. fimbriata*]]
+        - **5.** Flower with lobes bearing a long ribbon-like appendage → [[Pararistolochia_promissa\|*P. promissa*]]
+        - **5′.** Flower with upper lobe incised → [[Pararistolochia_incisiloba\|*P. incisiloba*]]
 
 ## Species in region
 

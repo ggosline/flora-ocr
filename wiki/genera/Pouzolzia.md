@@ -57,9 +57,8 @@ Bibliography
 
 ## Key to the species
 
-**1.** Inflorescence pauciflorous, comprising 1 to 5(–6) female flowers, but sometimes with a large number of male flowers; bracts conspicuous if present, with broadly cordate base, with rounded apex; bracts and male perianth with hooked hairs; female perianth pubescent to strigulose, greenish to brownish, opaque, dull; stigma generally coiled into a globular structure; branches scarcely leafy or naked toward the base → [[Pouzolzia_guineensis\|*P. guineensis*]]
-
-**1′.** Inflorescence generally with at least 10 flowers, often 20 to 25, generally with female flowers more numerous than male; all floral bracts discretely linear-lanceolate, with narrowly cuneate base, with longly acuminate apex; bracts and male perianth puberulent, without hooked hairs; female perianth almost glabrous, notably in fruit strikingly golden, glossy and semi-translucent; stigma filiform, straight, never coiled into a globular structure; branches becoming defoliated toward the base → [[Pouzolzia_denudata\|*P. denudata*]]
+- **1.** Inflorescence pauciflorous, comprising 1 to 5(–6) female flowers, but sometimes with a large number of male flowers; bracts conspicuous if present, with broadly cordate base, with rounded apex; bracts and male perianth with hooked hairs; female perianth pubescent to strigulose, greenish to brownish, opaque, dull; stigma generally coiled into a globular structure; branches scarcely leafy or naked toward the base → [[Pouzolzia_guineensis\|*P. guineensis*]]
+- **1′.** Inflorescence generally with at least 10 flowers, often 20 to 25, generally with female flowers more numerous than male; all floral bracts discretely linear-lanceolate, with narrowly cuneate base, with longly acuminate apex; bracts and male perianth puberulent, without hooked hairs; female perianth almost glabrous, notably in fruit strikingly golden, glossy and semi-translucent; stigma filiform, straight, never coiled into a globular structure; branches becoming defoliated toward the base → [[Pouzolzia_denudata\|*P. denudata*]]
 
 ## Species in region
 

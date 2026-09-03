@@ -31,17 +31,12 @@ Genus of 5 species: 1 from America, 1 from Asia (P. arnottiana (Wight) Hallé, f
 
 ## Key to the species
 
-**1.** Petals fimbriate, tattered.
-
-**2.** Sepals ciliolate or fimbriate; anther with chevron slit; 12-20 ovules per locule; pedicels glabrous; inflorescences with glabrous branchlets → [[Prionostemma_fimbriata\|*P. fimbriata*]]
-
-**2′.** Sepals entire; anther with transverse slit; 9-14 ovules per locule; pedicels puberulent; inflorescences with puberulent branchlets 1bis. P. unguiculata. puberulent; inflorescences with puberulent branchlets → 1bis. P. unguiculata.
-
-**1′.** Petals entire: anther with transverse slit.
-
-**3.** Sepals entire; pedicels finely puberulent → 1bis. P. unguiculata.
-
-**3′.** Sepals at least somewhat ciliolate; pedicels glabrous; 4-8 ovules per locule → 1ter. P. delagoensis.
+- **1.** Petals fimbriate, tattered.
+  - **2.** Sepals ciliolate or fimbriate; anther with chevron slit; 12-20 ovules per locule; pedicels glabrous; inflorescences with glabrous branchlets → [[Prionostemma_fimbriata\|*P. fimbriata*]]
+  - **2′.** Sepals entire; anther with transverse slit; 9-14 ovules per locule; pedicels puberulent; inflorescences with puberulent branchlets 1bis. P. unguiculata. puberulent; inflorescences with puberulent branchlets → 1bis. P. unguiculata.
+- **1′.** Petals entire: anther with transverse slit.
+  - **3.** Sepals entire; pedicels finely puberulent → 1bis. P. unguiculata.
+  - **3′.** Sepals at least somewhat ciliolate; pedicels glabrous; 4-8 ovules per locule → 1ter. P. delagoensis.
 
 ## Species in region
 

@@ -31,7 +31,7 @@ Eight intertropical African species, 5 in Gabon.
 
 ## Key to the species
 
-**1′.** Slender twining liane exceeding 2-3 m in height; infructescence contracted; corolla red with tube 22-32 mm, narrow, inflated below the constriction of the throat → [[Otomeria_volubilis\|*O. volubilis*]]
+- **1′.** Slender twining liane exceeding 2-3 m in height; infructescence contracted; corolla red with tube 22-32 mm, narrow, inflated below the constriction of the throat → [[Otomeria_volubilis\|*O. volubilis*]]
 
 ## Species in region
 

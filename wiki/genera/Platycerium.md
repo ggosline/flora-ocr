@@ -22,7 +22,7 @@ Type: Platycerium alcicorne (Willd.) Desv. from Madagascar.
 
 ## Key to the species
 
-**1′.** Fertile leaves 3-4 times forked, with subacute segments; grey pubescence → *P. stemaria*
+- **1′.** Fertile leaves 3-4 times forked, with subacute segments; grey pubescence → *P. stemaria*
 
 ## Species in region
 

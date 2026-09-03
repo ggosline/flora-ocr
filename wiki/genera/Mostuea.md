@@ -37,17 +37,12 @@ TYPE SPECIES: Mostuea brunonis Didr.
 
 ## Key to the species
 
-**1.** Inflorescence with two large suborbicular bracts covering the calyx
-
-**1′.** Inflorescence with small bracts never covering the calyx.
-
-**2.** Plant hirsute with stiff erect hairs, especially on small branches → [[Mostuea_batesii\|*M. batesii*]]
-
-**2′.** Plant pubescent, pilose, or glabrous; hairs never erect.
-
-**3.** Base of leaves distinctly oblique; sepals almost linear, subulate; fruits pale, distinctly nerved → [[Mostuea_neurocarpa\|*M. neurocarpa*]]
-
-**3′.** Base of leaves not or ⊥ oblique; sepals of variable form; fruits dark brown or red, not or scarcely distinctly nerved → [[Mostuea_brunonis\|*M. brunonis*]]
+- **1.** Inflorescence with two large suborbicular bracts covering the calyx
+- **1′.** Inflorescence with small bracts never covering the calyx.
+  - **2.** Plant hirsute with stiff erect hairs, especially on small branches → [[Mostuea_batesii\|*M. batesii*]]
+  - **2′.** Plant pubescent, pilose, or glabrous; hairs never erect.
+    - **3.** Base of leaves distinctly oblique; sepals almost linear, subulate; fruits pale, distinctly nerved → [[Mostuea_neurocarpa\|*M. neurocarpa*]]
+    - **3′.** Base of leaves not or ⊥ oblique; sepals of variable form; fruits dark brown or red, not or scarcely distinctly nerved → [[Mostuea_brunonis\|*M. brunonis*]]
 
 ## Species in region
 

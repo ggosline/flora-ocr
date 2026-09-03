@@ -31,15 +31,11 @@ The genus comprises 7 species which are generally highly branched shrubs or low 
 
 ## Key to the species
 
-**1.** Young branches, petioles and main veins on the lower surface rendered scabrous by stiff recurved hairs; leaves generally simple; shrubs reaching 4 m in height → [[Myrianthus_cuneifolius\|*M. cuneifolius*]]
-
-**1′.** Young branches, petioles and main veins on the lower surface with erect to appressed hairs, straight to slightly recurved; leaves compound or simple; shrubs or trees of medium size.
-
-**2.** Leaves simple, entire to trilobed (rarely 5-lobed); stipules not entirely amplexicaul → [[Myrianthus_serratus\|*M. serratus*]]
-
-**2′.** Leaves generally compound (rarely 3–5-lobed); stipules entirely amplexicaul.
-
-**3.** Leaves shiny and glabrous above; lamina reaching 40 × 30 cm; $ \delta $ flowers in dense groups 2–5 mm long on the terminal branches of inflorescences reaching 9 cm in width; $ \varphi $ flowers ovoid to conical 1 bis M. preussii. 3' Leaves matte and initially with appressed hairs above; lamina reaching 80 × 90 cm; $ \delta $ flowers on the penultimate branches of inflorescences more than 15 cm wide; $ \varphi $ flowers obovoid 1. M. arboreus.
+- **1.** Young branches, petioles and main veins on the lower surface rendered scabrous by stiff recurved hairs; leaves generally simple; shrubs reaching 4 m in height → [[Myrianthus_cuneifolius\|*M. cuneifolius*]]
+- **1′.** Young branches, petioles and main veins on the lower surface with erect to appressed hairs, straight to slightly recurved; leaves compound or simple; shrubs or trees of medium size.
+  - **2.** Leaves simple, entire to trilobed (rarely 5-lobed); stipules not entirely amplexicaul → [[Myrianthus_serratus\|*M. serratus*]]
+  - **2′.** Leaves generally compound (rarely 3–5-lobed); stipules entirely amplexicaul.
+    - **3.** Leaves shiny and glabrous above; lamina reaching 40 × 30 cm; $ \delta $ flowers in dense groups 2–5 mm long on the terminal branches of inflorescences reaching 9 cm in width; $ \varphi $ flowers ovoid to conical 1 bis M. preussii. 3' Leaves matte and initially with appressed hairs above; lamina reaching 80 × 90 cm; $ \delta $ flowers on the penultimate branches of inflorescences more than 15 cm wide; $ \varphi $ flowers obovoid 1. M. arboreus.
 
 ## Species in region
 

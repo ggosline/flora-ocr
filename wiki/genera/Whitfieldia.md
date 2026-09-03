@@ -23,21 +23,14 @@ Type species: W. lateritia Hook., described from Sierra Leone. Approximately 10 
 
 ## Key to the species
 
-**1.** Corolla tube 3.5–4 cm long, erect, narrow, cylindrical; corolla whitish-green → *W. longata*
-
-**1′.** Corolla tube 7–22 mm long, more or less curved, campanulate or funnel-shaped; corolla yellow, yellowish or purple, with purple or brownish-red striae more or less dark.
-
-**2.** Bracteoles broadly ovate or nearly orbicular 20 × 17 mm; corolla violet purple with darker striae
-
-**2′.** Bracteoles ovate, obovate or lanceolate, not exceeding 9 × 8 mm.
-
-**3.** Corolla dark red-orange with faintly marked striae along the nerves; bracteoles ovate-acuminate; calyx lobes with distinctly stipitate glands; leaves reaching 28 cm in length → [[Whitfieldia_rutilans\|*W. rutilans*]]
-
-**3′.** Corolla yellow streaked with purple striae; glands on calyx lobes sessile; leaves not exceeding 20 cm in length.
-
-**4.** Inflorescence branches glabrous; bracteoles obovate-acuminate, 9 × 7 mm, glabrous; calyx finely glandular; corolla entirely glabrous; corolla tube erect, 15 mm long. 4. W. Thollonii.
-
-**4′.** Inflorescence branches pubescent; bracteoles oblong obtuse, 8 × 3.5 mm, densely pubescent-glandular; calyces pubescent-glandular; corolla pubescent on the outside and with a ring of hairs at the base; corolla tube inclined, approximately 7 mm long → 5. W. Le-Testui.
+- **1.** Corolla tube 3.5–4 cm long, erect, narrow, cylindrical; corolla whitish-green → *W. longata*
+- **1′.** Corolla tube 7–22 mm long, more or less curved, campanulate or funnel-shaped; corolla yellow, yellowish or purple, with purple or brownish-red striae more or less dark.
+  - **2.** Bracteoles broadly ovate or nearly orbicular 20 × 17 mm; corolla violet purple with darker striae
+  - **2′.** Bracteoles ovate, obovate or lanceolate, not exceeding 9 × 8 mm.
+    - **3.** Corolla dark red-orange with faintly marked striae along the nerves; bracteoles ovate-acuminate; calyx lobes with distinctly stipitate glands; leaves reaching 28 cm in length → [[Whitfieldia_rutilans\|*W. rutilans*]]
+    - **3′.** Corolla yellow streaked with purple striae; glands on calyx lobes sessile; leaves not exceeding 20 cm in length.
+      - **4.** Inflorescence branches glabrous; bracteoles obovate-acuminate, 9 × 7 mm, glabrous; calyx finely glandular; corolla entirely glabrous; corolla tube erect, 15 mm long. 4. W. Thollonii.
+      - **4′.** Inflorescence branches pubescent; bracteoles oblong obtuse, 8 × 3.5 mm, densely pubescent-glandular; calyces pubescent-glandular; corolla pubescent on the outside and with a ring of hairs at the base; corolla tube inclined, approximately 7 mm long → 5. W. Le-Testui.
 
 ## Species in region
 

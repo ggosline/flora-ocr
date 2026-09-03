@@ -35,7 +35,7 @@ The taxonomy of African species is very uncertain and requires critical revision
 
 ## Key to the species
 
-**1′.** Leaves at the same node generally very unequal; laminae often somewhat asymmetrical; pedicels of flowers up to 4 cm long; calyx 2.5–3 cm long; 3 posterior sepals often fused nearly to the apex; corolla up to 5 cm long → [[Ruellia_primuloides\|*R. primuloides*]]
+- **1′.** Leaves at the same node generally very unequal; laminae often somewhat asymmetrical; pedicels of flowers up to 4 cm long; calyx 2.5–3 cm long; 3 posterior sepals often fused nearly to the apex; corolla up to 5 cm long → [[Ruellia_primuloides\|*R. primuloides*]]
 
 ## Species in region
 

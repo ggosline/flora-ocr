@@ -33,13 +33,10 @@ Bibliography
 
 ## Key to the species
 
-**1.** Leaf with petiole 3−11 cm; lamina with generally dentate margins; fruits 1.5−4 cm in length → couplet **2**
-
-**1′.** Leaf sessile or with short petiole; lamina with entire margins; fruits 0.9−1.3 cm in length → [[Sesamum_parviflorum\|*S. parviflorum*]]
-
-**2.** Plant slightly pubescent; lamina of lower leaves deeply divided or palmately compound; fruit beak terminating in an acute point; mature seeds with fine reticulation, wrinkled or almost smooth, white to brown and black, sometimes beige, yellow or red → [[Sesamum_indicum\|*S. indicum*]]
-
-**2′.** Plant entirely densely pubescent; lamina of lower leaves never compound or divided; fruit beak with traces of apical horns; mature seeds rugose or punctate, with radial lines around the margin, always black → [[Sesamum_radiatum\|*S. radiatum*]]
+- **1.** Leaf with petiole 3−11 cm; lamina with generally dentate margins; fruits 1.5−4 cm in length → couplet **2**
+- **1′.** Leaf sessile or with short petiole; lamina with entire margins; fruits 0.9−1.3 cm in length → [[Sesamum_parviflorum\|*S. parviflorum*]]
+  - **2.** Plant slightly pubescent; lamina of lower leaves deeply divided or palmately compound; fruit beak terminating in an acute point; mature seeds with fine reticulation, wrinkled or almost smooth, white to brown and black, sometimes beige, yellow or red → [[Sesamum_indicum\|*S. indicum*]]
+  - **2′.** Plant entirely densely pubescent; lamina of lower leaves never compound or divided; fruit beak with traces of apical horns; mature seeds rugose or punctate, with radial lines around the margin, always black → [[Sesamum_radiatum\|*S. radiatum*]]
 
 ## Species in region
 

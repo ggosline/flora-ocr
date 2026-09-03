@@ -35,49 +35,28 @@ Malme and X. angustifolia De Wild. & T.Durand which reach their northern limit t
 
 ## Key to the species
 
-**1.** Leaf margin entire, with flexuous hairs; leaves clearly distichous → [[Xyris_imitatrix\|*X. imitatrix*]]
-
-**1′.** Leaf margin glabrous, finely serrulate or entire; leaves not distichous → couplet **2**
-
-**2.** Bracts with a visible dorsal mark → couplet **3**
-
-**2′.** Bracts without a visible dorsal mark → couplet **6**
-
-**3.** Dorsal mark grey; peduncles with more than 2 longitudinal ridges; inflorescences dark brown → couplet **4**
-
-**3′.** Dorsal mark greenish; peduncle with 2 longitudinal ridges; inflorescences yellowish to brown → couplet **5**
-
-**4.** Inflorescence exceeding 9 mm in length at maturity; coastal plants → [[Xyris_decipiens\|*X. decipiens*]]
-
-**4′.** Inflorescence reaching 8 mm in length at maturity; continental habitats → [[Xyris_angularis\|*X. angularis*]]
-
-**5.** Small annual plant, generally less than 30 cm → X. anceps subsp. minor
-
-**5′.** Robust annual plant or short-lived perennial, more than 30 cm → X. anceps subsp. anceps
-
-**6.** Blade very narrow, round in section, 0.5–1 mm wide; perennial plant, in dense tufts → [[Xyris_angustifolia\|*X. angustifolia*]]
-
-**6′.** Blade wider, flat; annual or perennial plant → couplet **7**
-
-**7.** Keel of lateral sepals dentate → couplet **8**
-
-**7′.** Keel of lateral sepals entire → couplet **11**
-
-**8.** Bracts blackish, smooth or papillose, opaque, apex generally acute, acuminate or setaceous → couplet **9**
-
-**8′.** Bracts brownish, smooth, apex sometimes mucronate, but never setaceous → couplet **10**
-
-**9.** Bracts clearly papillose, with a long rigid point and scarious margin becoming irregular with age → X. aristata N.E.Br.
-
-**9′.** Bracts smooth, acute, without long point and margin not scarious → X. rehmannii L.A.Nilsson
-
-**10.** Perennial plant; inflorescences oblong, with parallel margins, remarkably elongating at maturity; teeth of the keel of lateral sepals prominent, often compound; flowers yellow → [[Xyris_congensis\|*X. congensis*]]
-
-**10′.** Annual plant; inflorescences ovoid or ellipsoid; teeth of the keel of lateral sepals simple; flowers blue or mauve → [[Xyris_filiformis\|*X. filiformis*]]
-
-**11.** Plants more than 30 cm in height; blade at least 2 mm wide; inflorescence generally subspheric → [[Xyris_capensis\|*X. capensis*]]
-
-**11′.** Plants generally less than 20 cm in height; blade 1–1.5 mm wide; inflorescence generally narrowly ovoid .. X. straminea L.A.Nilsson
+- **1.** Leaf margin entire, with flexuous hairs; leaves clearly distichous → [[Xyris_imitatrix\|*X. imitatrix*]]
+- **1′.** Leaf margin glabrous, finely serrulate or entire; leaves not distichous → couplet **2**
+  - **2.** Bracts with a visible dorsal mark → couplet **3**
+  - **2′.** Bracts without a visible dorsal mark → couplet **6**
+    - **3.** Dorsal mark grey; peduncles with more than 2 longitudinal ridges; inflorescences dark brown → couplet **4**
+    - **3′.** Dorsal mark greenish; peduncle with 2 longitudinal ridges; inflorescences yellowish to brown → couplet **5**
+      - **4.** Inflorescence exceeding 9 mm in length at maturity; coastal plants → [[Xyris_decipiens\|*X. decipiens*]]
+      - **4′.** Inflorescence reaching 8 mm in length at maturity; continental habitats → [[Xyris_angularis\|*X. angularis*]]
+        - **5.** Small annual plant, generally less than 30 cm → X. anceps subsp. minor
+        - **5′.** Robust annual plant or short-lived perennial, more than 30 cm → X. anceps subsp. anceps
+          - **6.** Blade very narrow, round in section, 0.5–1 mm wide; perennial plant, in dense tufts → [[Xyris_angustifolia\|*X. angustifolia*]]
+          - **6′.** Blade wider, flat; annual or perennial plant → couplet **7**
+            - **7.** Keel of lateral sepals dentate → couplet **8**
+            - **7′.** Keel of lateral sepals entire → couplet **11**
+              - **8.** Bracts blackish, smooth or papillose, opaque, apex generally acute, acuminate or setaceous → couplet **9**
+              - **8′.** Bracts brownish, smooth, apex sometimes mucronate, but never setaceous → couplet **10**
+                - **9.** Bracts clearly papillose, with a long rigid point and scarious margin becoming irregular with age → X. aristata N.E.Br.
+                - **9′.** Bracts smooth, acute, without long point and margin not scarious → X. rehmannii L.A.Nilsson
+                  - **10.** Perennial plant; inflorescences oblong, with parallel margins, remarkably elongating at maturity; teeth of the keel of lateral sepals prominent, often compound; flowers yellow → [[Xyris_congensis\|*X. congensis*]]
+                  - **10′.** Annual plant; inflorescences ovoid or ellipsoid; teeth of the keel of lateral sepals simple; flowers blue or mauve → [[Xyris_filiformis\|*X. filiformis*]]
+                    - **11.** Plants more than 30 cm in height; blade at least 2 mm wide; inflorescence generally subspheric → [[Xyris_capensis\|*X. capensis*]]
+                    - **11′.** Plants generally less than 20 cm in height; blade 1–1.5 mm wide; inflorescence generally narrowly ovoid .. X. straminea L.A.Nilsson
 
 ## Species in region
 

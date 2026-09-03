@@ -33,25 +33,16 @@ Bibliography
 
 ## Key to the species
 
-**1.** Open flower with erect anthers → couplet **2**
-
-**1′.** Open flower with pendulous anthers → couplet **3**
-
-**2.** Leaf with domatia on the undersurface in at least some lateral veins, with petiole (1.5–)2–3 cm → [[Calycobolus_goodii\|*C. goodii*]]
-
-**2′.** Leaf without domatia, with petiole 0.6–1.2(–1.6) cm → [[Calycobolus_heineanus\|*C. heineanus*]]
-
-**3.** Corolla ≤ 2 cm long → couplet **4**
-
-**3′.** Corolla ≥ (2.5–)3 cm long → couplet **5**
-
-**4.** Corolla funnelform; leaf acute to shortly (≤ 10(–15) mm) acuminate at the apex; petiole (10–)15–40(–55) mm → [[Calycobolus_gilgianus\|*C. gilgianus*]]
-
-**4′.** Corolla urceolate; leaf distinctly (5–)15–25 mm) acuminate at the apex; petiole (5–)6–9(–16) mm → [[Calycobolus_africanus\|*C. africanus*]]
-
-**5.** Anthers with at least some long, soft hairs along the slits; bracteoles attached ± at the midpoint of the pedicel → [[Calycobolus_acuminatus\|*C. acuminatus*]]
-
-**5′.** Anthers entirely glabrous; bracteoles attached near the base of the pedicel → [[Calycobolus_campanulatus\|*C. campanulatus*]]
+- **1.** Open flower with erect anthers → couplet **2**
+- **1′.** Open flower with pendulous anthers → couplet **3**
+  - **2.** Leaf with domatia on the undersurface in at least some lateral veins, with petiole (1.5–)2–3 cm → [[Calycobolus_goodii\|*C. goodii*]]
+  - **2′.** Leaf without domatia, with petiole 0.6–1.2(–1.6) cm → [[Calycobolus_heineanus\|*C. heineanus*]]
+    - **3.** Corolla ≤ 2 cm long → couplet **4**
+    - **3′.** Corolla ≥ (2.5–)3 cm long → couplet **5**
+      - **4.** Corolla funnelform; leaf acute to shortly (≤ 10(–15) mm) acuminate at the apex; petiole (10–)15–40(–55) mm → [[Calycobolus_gilgianus\|*C. gilgianus*]]
+      - **4′.** Corolla urceolate; leaf distinctly (5–)15–25 mm) acuminate at the apex; petiole (5–)6–9(–16) mm → [[Calycobolus_africanus\|*C. africanus*]]
+        - **5.** Anthers with at least some long, soft hairs along the slits; bracteoles attached ± at the midpoint of the pedicel → [[Calycobolus_acuminatus\|*C. acuminatus*]]
+        - **5′.** Anthers entirely glabrous; bracteoles attached near the base of the pedicel → [[Calycobolus_campanulatus\|*C. campanulatus*]]
 
 ## Species in region
 

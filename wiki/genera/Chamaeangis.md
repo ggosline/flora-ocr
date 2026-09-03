@@ -35,21 +35,14 @@ Genus of approximately 15 known species from tropical Africa, Madagascar and the
 
 ## Key to the species
 
-**1.** Labellum trilobed at the apex → couplet **2**
-
-**1′.** Labellum entire → couplet **3**
-
-**2.** Spur very swollen in the apical half or almost, flower solitary at each node, leaves large, flat → 46. 2. Ch. ichneumonea
-
-**2′.** Spur generally not swollen, 3 flowers at each node, leaves narrow with revolute margins → 46. 1. Ch. gabonensis
-
-**3.** Spur not swollen, narrowly cylindrical → 46. 4. Ch. odoratissima
-
-**3′.** Spur distinctly swollen → couplet **5**
-
-**4.** Labellum without callus, spur straight, a single flower at each node → 46. 3. Ch. lanceolata
-
-**4′.** Labellum with a callus at the throat of the spur, spur incurved, 2 flowers at each node → 46. 5. Ch. vesicata
+- **1.** Labellum trilobed at the apex → couplet **2**
+- **1′.** Labellum entire → couplet **3**
+  - **2.** Spur very swollen in the apical half or almost, flower solitary at each node, leaves large, flat → 46. 2. Ch. ichneumonea
+  - **2′.** Spur generally not swollen, 3 flowers at each node, leaves narrow with revolute margins → 46. 1. Ch. gabonensis
+    - **3.** Spur not swollen, narrowly cylindrical → 46. 4. Ch. odoratissima
+    - **3′.** Spur distinctly swollen → couplet **5**
+      - **4.** Labellum without callus, spur straight, a single flower at each node → 46. 3. Ch. lanceolata
+      - **4′.** Labellum with a callus at the throat of the spur, spur incurved, 2 flowers at each node → 46. 5. Ch. vesicata
 
 ## Species in region
 

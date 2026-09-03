@@ -35,17 +35,12 @@ Bibliography: Amaral & Bittrich (2014), Bamps & Farron (1967), Robson (1963), Ve
 
 ## Key to the species
 
-**1.** Flowers in fascicle or short raceme with rachis 1–4 mm; petals white or pale yellow; twigs densely furnished with small round white lenticels; limb coriaceous, with margin serrate to crenate → [[Ochna_afzelii\|*O. afzelii*]]
-
-**1′.** Flowers in raceme or panicle with rachis more than 2 cm; petals pale yellow to yellow; twigs without or with round white lenticels; limb with entire margin or with small spaced teeth or, if serrate, then limb membranous → couplet **2**
-
-**2.** Inflorescence racemiform; anthers with longitudinal dehiscence; style with 5 short radiating stigmas; limb with 7 to 10 pairs of secondary veins → [[Ochna_multiflora\|*O. multiflora*]]
-
-**2′.** Inflorescence paniculiform; anthers with poricidal dehiscence; style capitate; limb with (7–)10 to 20 pairs of secondary veins → couplet **3**
-
-**3.** Floral buds globose or broadly ellipsoid; anthers 1.5–2 mm in length; sepals below the fruit up to 13 mm in length → [[Ochna_membranacea\|*O. membranacea*]]
-
-**3′.** Floral buds oblong; anthers 4–5 mm in length; sepals below the fruit reaching 13–22 mm in length → [[Ochna_latisepala\|*O. latisepala*]]
+- **1.** Flowers in fascicle or short raceme with rachis 1–4 mm; petals white or pale yellow; twigs densely furnished with small round white lenticels; limb coriaceous, with margin serrate to crenate → [[Ochna_afzelii\|*O. afzelii*]]
+- **1′.** Flowers in raceme or panicle with rachis more than 2 cm; petals pale yellow to yellow; twigs without or with round white lenticels; limb with entire margin or with small spaced teeth or, if serrate, then limb membranous → couplet **2**
+  - **2.** Inflorescence racemiform; anthers with longitudinal dehiscence; style with 5 short radiating stigmas; limb with 7 to 10 pairs of secondary veins → [[Ochna_multiflora\|*O. multiflora*]]
+  - **2′.** Inflorescence paniculiform; anthers with poricidal dehiscence; style capitate; limb with (7–)10 to 20 pairs of secondary veins → couplet **3**
+    - **3.** Floral buds globose or broadly ellipsoid; anthers 1.5–2 mm in length; sepals below the fruit up to 13 mm in length → [[Ochna_membranacea\|*O. membranacea*]]
+    - **3′.** Floral buds oblong; anthers 4–5 mm in length; sepals below the fruit reaching 13–22 mm in length → [[Ochna_latisepala\|*O. latisepala*]]
 
 ## Species in region
 

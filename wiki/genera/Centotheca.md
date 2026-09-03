@@ -31,9 +31,8 @@ Two species are known from Gabon; these are plants of understory or fallow fores
 
 ## Key to the species
 
-**1.** Spikelets flattened, with numerous flowers, 8 to 15 mm long. Lemmas glabrous; leaf blades lanceolate, rounded and sub-amplexicaul at the base; 5 main veins on each side of the primary vein → [[Centotheca_mucronata\|*C. mucronata*]]
-
-**1′.** Spikelets with 2 or 3 flowers, at most 8 mm long. Lemmas of the upper flowers bearing hairs with tuberculate base; leaf blades narrowed toward the base and subpetiolate; generally 4 main veins on each side of the primary vein → [[Centotheca_lappacea\|*C. lappacea*]]
+- **1.** Spikelets flattened, with numerous flowers, 8 to 15 mm long. Lemmas glabrous; leaf blades lanceolate, rounded and sub-amplexicaul at the base; 5 main veins on each side of the primary vein → [[Centotheca_mucronata\|*C. mucronata*]]
+- **1′.** Spikelets with 2 or 3 flowers, at most 8 mm long. Lemmas of the upper flowers bearing hairs with tuberculate base; leaf blades narrowed toward the base and subpetiolate; generally 4 main veins on each side of the primary vein → [[Centotheca_lappacea\|*C. lappacea*]]
 
 ## Species in region
 

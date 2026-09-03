@@ -23,7 +23,7 @@ Genus of 5 known species from tropical Africa, Madagascar and the Mascarene Isla
 
 ## Key to the species
 
-**1′.** Spur 20-27 mm labellum entire; inflorescence 2-10 cm → 39. 2. S. scandens.
+- **1′.** Spur 20-27 mm labellum entire; inflorescence 2-10 cm → 39. 2. S. scandens.
 
 ## Species in region
 

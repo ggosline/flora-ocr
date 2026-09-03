@@ -29,13 +29,10 @@ Bibliography
 
 ## Key to the species
 
-**1.** Terminal inflorescence globose or shortly cylindric, reaching 3 cm in length; leaf blade generally marked with white on the veins of the upper surface (character sometimes not visible in herbarium material) → [[Achyrospermum_tisserantii\|*A. tisserantii*]]
-
-**1′.** Terminal inflorescence cylindric, 3–9 cm long; leaf blade uniformly green on the upper surface → couplet **2**
-
-**2.** Calyx with teeth longly acuminate-caudate, with cilia of ± 1 mm; upper part of stem villous, with hairs generally spreading; upper surface of leaf blade with stiff hairs 1–1.5 mm → [[Achyrospermum_ciliatum\|*A. ciliatum*]]
-
-**2′.** Calyx with teeth acute or mucronate at apex, with shorter cilia; upper part of stem densely pubescent to pilose, with hairs generally appressed and directed downward; upper surface of leaf blade practically glabrous except on the main vein → [[Achyrospermum_oblongifolium\|*A. oblongifolium*]]
+- **1.** Terminal inflorescence globose or shortly cylindric, reaching 3 cm in length; leaf blade generally marked with white on the veins of the upper surface (character sometimes not visible in herbarium material) → [[Achyrospermum_tisserantii\|*A. tisserantii*]]
+- **1′.** Terminal inflorescence cylindric, 3–9 cm long; leaf blade uniformly green on the upper surface → couplet **2**
+  - **2.** Calyx with teeth longly acuminate-caudate, with cilia of ± 1 mm; upper part of stem villous, with hairs generally spreading; upper surface of leaf blade with stiff hairs 1–1.5 mm → [[Achyrospermum_ciliatum\|*A. ciliatum*]]
+  - **2′.** Calyx with teeth acute or mucronate at apex, with shorter cilia; upper part of stem densely pubescent to pilose, with hairs generally appressed and directed downward; upper surface of leaf blade practically glabrous except on the main vein → [[Achyrospermum_oblongifolium\|*A. oblongifolium*]]
 
 ## Species in region
 

@@ -34,25 +34,16 @@ from the allied genera.
 
 ## Key to the species
 
-**1.** Five large petals, 4–6 cm long, subequal, the limb of the median petal being broader; strong terminal racemes; long bracts 5–7 cm → [[Berlinia_bracteosa\|*B. bracteosa*]]
-
-**1′.** A single large petal with a long claw, the others distinctly much smaller or rudimentary; very short bracts at most 5 mm long.
-
-**2.** Bracteoles densely velutinous silvery within; forest galleries of the northern peripheral guinea-congolian domain and of the sudanian region → B. grandiflora (Nord-Cameroun).
-
-**2′.** Bracteoles finely pubescent or nearly glabrous within.
-
-**3.** Bracteoles relatively short, about 2 cm long by 1 cm wide; 2–3 pairs of leaflets; shrubs, small trees.
-
-**3′.** Bracteoles more than 3 cm long.
-
-**4.** Relatively narrow, 8–15 mm wide; floral buds oblanceolate.
-
-**5.** (2–) 3–5 pairs of leaflets; bracteoles 10–15 mm wide → [[Berlinia_confusa\|*B. confusa*]]
-
-**5′.** 2 (–3) pairs of leaflets; bracteoles 8–11 mm wide → [[Berlinia_congolensis\|*B. congolensis*]]
-
-**4′.** Very broad, 2 cm wide or more; very large flowers; buds broadly obovoid; calyx tube densely tomentose without; bracteoles obovate, 4.5 cm long by 2–3 cm wide; 4–6 pairs of leaflets → [[Berlinia_craibiana\|*B. craibiana*]]
+- **1.** Five large petals, 4–6 cm long, subequal, the limb of the median petal being broader; strong terminal racemes; long bracts 5–7 cm → [[Berlinia_bracteosa\|*B. bracteosa*]]
+- **1′.** A single large petal with a long claw, the others distinctly much smaller or rudimentary; very short bracts at most 5 mm long.
+  - **2.** Bracteoles densely velutinous silvery within; forest galleries of the northern peripheral guinea-congolian domain and of the sudanian region → B. grandiflora (Nord-Cameroun).
+  - **2′.** Bracteoles finely pubescent or nearly glabrous within.
+    - **3.** Bracteoles relatively short, about 2 cm long by 1 cm wide; 2–3 pairs of leaflets; shrubs, small trees.
+    - **3′.** Bracteoles more than 3 cm long.
+      - **4.** Relatively narrow, 8–15 mm wide; floral buds oblanceolate.
+        - **5.** (2–) 3–5 pairs of leaflets; bracteoles 10–15 mm wide → [[Berlinia_confusa\|*B. confusa*]]
+        - **5′.** 2 (–3) pairs of leaflets; bracteoles 8–11 mm wide → [[Berlinia_congolensis\|*B. congolensis*]]
+      - **4′.** Very broad, 2 cm wide or more; very large flowers; buds broadly obovoid; calyx tube densely tomentose without; bracteoles obovate, 4.5 cm long by 2–3 cm wide; 4–6 pairs of leaflets → [[Berlinia_craibiana\|*B. craibiana*]]
 
 ## Species in region
 

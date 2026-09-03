@@ -27,9 +27,8 @@ A. altilis (Breadfruit tree) and A. heterophyllus (Jackfruit tree) are cultivate
 
 ## Key to the species
 
-**1.** Trees ramiflorous; leaves lobed → [[Artocarpus_altilis\|*A. altilis*]]
-
-**1′.** Trees cauliflorous; leaves entire → [[Artocarpus_heterophyllus\|*A. heterophyllus*]]
+- **1.** Trees ramiflorous; leaves lobed → [[Artocarpus_altilis\|*A. altilis*]]
+- **1′.** Trees cauliflorous; leaves entire → [[Artocarpus_heterophyllus\|*A. heterophyllus*]]
 
 ## Species in region
 

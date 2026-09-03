@@ -22,9 +22,8 @@ beak; testa black, glossy and non-papillose; strophiole present.
 
 ## Key to the species
 
-**1.** Leaves up to 30 mm wide; tepals 10-25 mm long → [[Curculigo_pilosa\|*C. pilosa*]]
-
-**1′.** Leaves up to 8 mm wide; tepals ca. 7 mm long → [[Curculigo_minor\|*C. minor*]]
+- **1.** Leaves up to 30 mm wide; tepals 10-25 mm long → [[Curculigo_pilosa\|*C. pilosa*]]
+- **1′.** Leaves up to 8 mm wide; tepals ca. 7 mm long → [[Curculigo_minor\|*C. minor*]]
 
 ## Source
 

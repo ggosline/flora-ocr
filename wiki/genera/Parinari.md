@@ -37,17 +37,12 @@ Large forest trees (P. excelsa, P. hypochrysea), tree of river margins (P. conge
 
 ## Key to the species
 
-**1.** Shrub or savanna tree; leaves elliptic to elliptic-oblong, with base broadly acute to obtuse, apex rounded or slightly emarginate; small plane glands on the proximal half of the petiole or towards the middle; indumentum greyish or whitish → [[Parinari_curatellifolia\|*P. curatellifolia*]]
-
-**1′.** Forest trees or (1) trees from watercourse margins; leaves with acuminate apex, rarely subacute but then base subcordate.
-
-**2.** Leaves elliptic to elliptic-oblong, with base cuneiform or rounded, not cordate; plane glands towards the middle of the petiole; indumentum golden or greyish → [[Parinari_excelsa\|*P. excelsa*]]
-
-**2′.** Leaves subcordate to cordate.
-
-**3.** Leaves elliptic, sometimes broadly elliptic, with base obtuse, slightly cordate; large plane glands towards the middle of the petiole; indumentum tawny golden; staminodial rim thickened and indurated, without staminodes
-
-**3′.** Watercourse margin tree; leaves elliptic-oblong, with base subcordate; large convex glands on the distal half of the petiole; indumentum greyish → [[Parinari_congensis\|*P. congensis*]]
+- **1.** Shrub or savanna tree; leaves elliptic to elliptic-oblong, with base broadly acute to obtuse, apex rounded or slightly emarginate; small plane glands on the proximal half of the petiole or towards the middle; indumentum greyish or whitish → [[Parinari_curatellifolia\|*P. curatellifolia*]]
+- **1′.** Forest trees or (1) trees from watercourse margins; leaves with acuminate apex, rarely subacute but then base subcordate.
+  - **2.** Leaves elliptic to elliptic-oblong, with base cuneiform or rounded, not cordate; plane glands towards the middle of the petiole; indumentum golden or greyish → [[Parinari_excelsa\|*P. excelsa*]]
+  - **2′.** Leaves subcordate to cordate.
+    - **3.** Leaves elliptic, sometimes broadly elliptic, with base obtuse, slightly cordate; large plane glands towards the middle of the petiole; indumentum tawny golden; staminodial rim thickened and indurated, without staminodes
+    - **3′.** Watercourse margin tree; leaves elliptic-oblong, with base subcordate; large convex glands on the distal half of the petiole; indumentum greyish → [[Parinari_congensis\|*P. congensis*]]
 
 ## Species in region
 

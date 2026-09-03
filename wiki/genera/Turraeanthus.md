@@ -53,13 +53,10 @@ ibliography
 
 ## Key to the species
 
-**1.** Shrub or small tree, not exceeding 7(–9) m in height; leaves with 1–4(–6) pairs of leaflets → couplet **2**
-
-**1′.** Tree reaching 35(–40) m in height; leaves with 4–15 pairs of leaflets → [[Turraeanthus_africanus\|*T. africanus*]]
-
-**2.** Shrub not exceeding 2 m in height; leaves usually 3-foliolate, sometimes 1- or 5-foliolate; leaflets with 3–5 pairs of distinct lateral nerves (to be sought in Gabon) → T. mannii Baill.
-
-**2′.** Shrub or small tree 1–7(–9) m in height; leaves usually 7–9(–13)-foliolate, exceptionally 4–5-foliolate; leaflets with more than 5 pairs of lateral nerves → [[Turraeanthus_longipes\|*T. longipes*]]
+- **1.** Shrub or small tree, not exceeding 7(–9) m in height; leaves with 1–4(–6) pairs of leaflets → couplet **2**
+- **1′.** Tree reaching 35(–40) m in height; leaves with 4–15 pairs of leaflets → [[Turraeanthus_africanus\|*T. africanus*]]
+  - **2.** Shrub not exceeding 2 m in height; leaves usually 3-foliolate, sometimes 1- or 5-foliolate; leaflets with 3–5 pairs of distinct lateral nerves (to be sought in Gabon) → T. mannii Baill.
+  - **2′.** Shrub or small tree 1–7(–9) m in height; leaves usually 7–9(–13)-foliolate, exceptionally 4–5-foliolate; leaflets with more than 5 pairs of lateral nerves → [[Turraeanthus_longipes\|*T. longipes*]]
 
 ## Species in region
 

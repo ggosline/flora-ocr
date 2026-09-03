@@ -30,7 +30,7 @@ Species difficult to distinguish, approximately 80, in warm regions. One species
 
 ## Key to the species
 
-**1′.** Petiole stramineous at the base, frond reaching 15 cm long → V. owariensis.
+- **1′.** Petiole stramineous at the base, frond reaching 15 cm long → V. owariensis.
 
 ## Species in region
 

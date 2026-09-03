@@ -79,47 +79,27 @@ much higher number of specimens than previously, as in the Flora of the Belgian 
 
 ## Key to the species
 
-**1.** Flower fully expanded with wings as long as the keel → couplet **2**
-
-**1′.** Flower fully expanded with wings distinctly shorter than the keel → couplet **5**
-
-**2.** Stipels almost as long as or longer than the petiolules, ± persistent; legume winged → couplet **3**
-
-**2′.** Stipels distinctly shorter than the petiolules, ± early caducous; legume wingless → [[Leptoderris_fasciculata\|*L. fasciculata*]]
-
-**3.** Leaflets with blade papillose beneath; bracts and bracteoles ± early caducous, ± narrowly triangular, 0.5–1 mm in length → [[Leptoderris_gabonica\|*L. gabonica*]]
-
-**3′.** Leaflets with blade non-papillose beneath; bracts and bracteoles (0.5–)1–6 mm in length → couplet **4**
-
-**4.** Leaflets with blade 7–15 × 3.5–7 cm, with acute acumen, lateral nerves in (6–)7 to 10(–11) pairs, distinct, parallel → [[Leptoderris_aurantiaca\|*L. aurantiaca*]]
-
-**4′.** Leaflets with blade 3–10 × 1–3 cm, apiculate, lateral nerves in 6 to 9 pairs, slender, scarcely distinct → [[Leptoderris_reygaertii\|*L. reygaertii*]]
-
-**5.** Flower fully expanded (12–)13–16 mm in length → couplet **6**
-
-**5′.** Flower fully expanded 6–12(–13) mm in length → couplet **8**
-
-**6.** Leaflets with blade entirely tomentose or sometimes velvety beneath → couplet **7**
-
-**6′.** Leaflets with blade with short, scattered, appressed hairs beneath → [[Leptoderris_macrothyrsa\|*L. macrothyrsa*]]
-
-**7.** Leaflets with blade with 12 to 15 pairs of lateral nerves; bracts and bracteoles (3–)4–6 mm in length → [[Leptoderris_robusta\|*L. robusta*]]
-
-**7′.** Leaflets with blade with 5 to 7(–8) pairs of lateral nerves; bracts and bracteoles (1–)1.5–2 mm in length → [[Leptoderris_brachyptera\|*L. brachyptera*]]
-
-**8.** Leaflets with blade densely silky or tomentose beneath; flower 10–12(–13) mm in length → couplet **9**
-
-**8′.** Leaflets with blade glabrous or glabrescent or with different indumentum, neither silky nor tomentose beneath; flower 6–9 mm in length → couplet **10**
-
-**9.** Leaflets with blade covered beneath with short, ± appressed, silky-silvery hairs, lateral nerves in 7 or 8 pairs, ± parallel, distant approximately 1 cm → [[Leptoderris_hypargyrea\|*L. hypargyrea*]]
-
-**9′.** Leaflets with blade tomentose beneath, lateral nerves in 4 or 5(–6) pairs, distant
-
-**1.** 5–3 cm, scarcely parallel → [[Leptoderris_tomentella\|*L. tomentella*]]
-
-**10.** Leaf with 3 or 5 leaflets with blade distinctly emarginate at apex → [[Leptoderris_congolensis\|*L. congolensis*]]
-
-**10′.** Leaf with 5 to 9 leaflets with blade acuminate, acute, obtuse or at most emarginate at apex, never distinctly emarginate → [[Leptoderris_glabrata\|*L. glabrata*]]
+- **1.** Flower fully expanded with wings as long as the keel → couplet **2**
+- **1′.** Flower fully expanded with wings distinctly shorter than the keel → couplet **5**
+  - **2.** Stipels almost as long as or longer than the petiolules, ± persistent; legume winged → couplet **3**
+  - **2′.** Stipels distinctly shorter than the petiolules, ± early caducous; legume wingless → [[Leptoderris_fasciculata\|*L. fasciculata*]]
+    - **3.** Leaflets with blade papillose beneath; bracts and bracteoles ± early caducous, ± narrowly triangular, 0.5–1 mm in length → [[Leptoderris_gabonica\|*L. gabonica*]]
+    - **3′.** Leaflets with blade non-papillose beneath; bracts and bracteoles (0.5–)1–6 mm in length → couplet **4**
+      - **4.** Leaflets with blade 7–15 × 3.5–7 cm, with acute acumen, lateral nerves in (6–)7 to 10(–11) pairs, distinct, parallel → [[Leptoderris_aurantiaca\|*L. aurantiaca*]]
+      - **4′.** Leaflets with blade 3–10 × 1–3 cm, apiculate, lateral nerves in 6 to 9 pairs, slender, scarcely distinct → [[Leptoderris_reygaertii\|*L. reygaertii*]]
+        - **5.** Flower fully expanded (12–)13–16 mm in length → couplet **6**
+        - **5′.** Flower fully expanded 6–12(–13) mm in length → couplet **8**
+          - **6.** Leaflets with blade entirely tomentose or sometimes velvety beneath → couplet **7**
+          - **6′.** Leaflets with blade with short, scattered, appressed hairs beneath → [[Leptoderris_macrothyrsa\|*L. macrothyrsa*]]
+            - **7.** Leaflets with blade with 12 to 15 pairs of lateral nerves; bracts and bracteoles (3–)4–6 mm in length → [[Leptoderris_robusta\|*L. robusta*]]
+            - **7′.** Leaflets with blade with 5 to 7(–8) pairs of lateral nerves; bracts and bracteoles (1–)1.5–2 mm in length → [[Leptoderris_brachyptera\|*L. brachyptera*]]
+              - **8.** Leaflets with blade densely silky or tomentose beneath; flower 10–12(–13) mm in length → couplet **9**
+              - **8′.** Leaflets with blade glabrous or glabrescent or with different indumentum, neither silky nor tomentose beneath; flower 6–9 mm in length → couplet **10**
+                - **9.** Leaflets with blade covered beneath with short, ± appressed, silky-silvery hairs, lateral nerves in 7 or 8 pairs, ± parallel, distant approximately 1 cm → [[Leptoderris_hypargyrea\|*L. hypargyrea*]]
+                - **9′.** Leaflets with blade tomentose beneath, lateral nerves in 4 or 5(–6) pairs, distant
+                  - **1.** 5–3 cm, scarcely parallel → [[Leptoderris_tomentella\|*L. tomentella*]]
+                    - **10.** Leaf with 3 or 5 leaflets with blade distinctly emarginate at apex → [[Leptoderris_congolensis\|*L. congolensis*]]
+                    - **10′.** Leaf with 5 to 9 leaflets with blade acuminate, acute, obtuse or at most emarginate at apex, never distinctly emarginate → [[Leptoderris_glabrata\|*L. glabrata*]]
 
 ## Species in region
 

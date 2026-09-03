@@ -25,23 +25,15 @@ B: Akoègninou et al. (2006), Exell & Meeuse (1961), Bayer & Kubitzki (2003), Ha
 
 ## Key to the species
 
-**1.** Limb cordate, plant with hairs 1.5–2 mm → [[Sida_urens\|*S. urens*]]
-
-**1′.** Limb with rounded, cuneate, non-cordate base, plant with hairs less than
-
-**1.** 5 mm → couplet **2**
-
-**2.** Limb linear, at least 10 times longer than wide; inflorescences terminal → [[Sida_linifolia\|*S. linifolia*]]
-
-**2′.** Limb narrowly elliptic or wider; inflorescences axillary → couplet **3**
-
-**3.** Limb obliquely ovate, highly variable in size (presence of leaves less than 1 cm in length), with rounded base and obtuse apex, plant prostrate or erect; mericarps non-apiculate or briefly apiculate → [[Sida_ovata\|*S. ovata*]]
-
-**3′.** Limb oblong-lanceolate or rhombic to ovate, with acuminate apex or if obtuse, with cuneate base, plant erect; mericarps with 2 distinct awns → couplet **4**
-
-**4.** Leaves, at least the upper ones, distichous; limb narrowly elliptic to ovate, with dentate margin to the base, acute apex and rounded base; calyx glabrescent; flowers mostly solitary → [[Sida_acuta\|*S. acuta*]]
-
-**4′.** Leaves spiral; limb rhombic to oblong-lanceolate, with entire margin toward the base, obtuse apex and cuneate base; calyx bearing farinose hairs and nerve base distinctly swollen; flowers often in pseudo-fascicles → [[Sida_rhombifolia\|*S. rhombifolia*]]
+- **1.** Limb cordate, plant with hairs 1.5–2 mm → [[Sida_urens\|*S. urens*]]
+- **1′.** Limb with rounded, cuneate, non-cordate base, plant with hairs less than
+  - **1.** 5 mm → couplet **2**
+    - **2.** Limb linear, at least 10 times longer than wide; inflorescences terminal → [[Sida_linifolia\|*S. linifolia*]]
+    - **2′.** Limb narrowly elliptic or wider; inflorescences axillary → couplet **3**
+      - **3.** Limb obliquely ovate, highly variable in size (presence of leaves less than 1 cm in length), with rounded base and obtuse apex, plant prostrate or erect; mericarps non-apiculate or briefly apiculate → [[Sida_ovata\|*S. ovata*]]
+      - **3′.** Limb oblong-lanceolate or rhombic to ovate, with acuminate apex or if obtuse, with cuneate base, plant erect; mericarps with 2 distinct awns → couplet **4**
+        - **4.** Leaves, at least the upper ones, distichous; limb narrowly elliptic to ovate, with dentate margin to the base, acute apex and rounded base; calyx glabrescent; flowers mostly solitary → [[Sida_acuta\|*S. acuta*]]
+        - **4′.** Leaves spiral; limb rhombic to oblong-lanceolate, with entire margin toward the base, obtuse apex and cuneate base; calyx bearing farinose hairs and nerve base distinctly swollen; flowers often in pseudo-fascicles → [[Sida_rhombifolia\|*S. rhombifolia*]]
 
 ## Species in region
 

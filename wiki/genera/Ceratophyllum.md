@@ -28,9 +28,8 @@ Rootless submerged or floating freshwater herbs with branched stems and whorled,
 
 ## Key to the species
 
-**1.** Leaves with blade 2-dichotomous, rarely 1- or 3-dichotomous (on the lower parts of the plant), with often numerous, prominent marginal teeth; mature fruit weakly flattened laterally, with ± smooth surface, with long apical spine and 2 long basal spines or barely prominent → [[Ceratophyllum_demersum\|*C. demersum*]]
-
-**1′.** Leaves with blade, at least the majority on all parts of the plant, 3- or 4-dichotomous, with few small marginal teeth; mature fruit with ± marked lateral flattening forming a ridge or marginal longitudinal wing, with strongly papillose or verrucose surface, with long or very short apical spine, and with or without basal and marginal spines → [[Ceratophyllum_submersum\|*C. submersum*]]
+- **1.** Leaves with blade 2-dichotomous, rarely 1- or 3-dichotomous (on the lower parts of the plant), with often numerous, prominent marginal teeth; mature fruit weakly flattened laterally, with ± smooth surface, with long apical spine and 2 long basal spines or barely prominent → [[Ceratophyllum_demersum\|*C. demersum*]]
+- **1′.** Leaves with blade, at least the majority on all parts of the plant, 3- or 4-dichotomous, with few small marginal teeth; mature fruit with ± marked lateral flattening forming a ridge or marginal longitudinal wing, with strongly papillose or verrucose surface, with long or very short apical spine, and with or without basal and marginal spines → [[Ceratophyllum_submersum\|*C. submersum*]]
 
 ## Treatment
 

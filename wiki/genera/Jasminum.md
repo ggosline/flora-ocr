@@ -33,29 +33,18 @@ Green (2004), Kupicha (1983), Liben (1973), Turrill (1952).
 
 ## Key to the species
 
-**1.** Leaves trifoliolate → couplet **2**
-
-**1′.** Leaves simple (unifoliolate) → couplet **3**
-
-**2.** Inflorescence with peduncle > 10 mm, pubescent; calyx with distinct lobes, 1–2 mm in length; corolla 5-lobed (to be looked for in Gabon) → J. bakeri Scott-Elliot
-
-**2′.** Inflorescence with peduncle 2–6 mm, sparsely puberulent; calyx with undulate margin or lobes < 0.5 mm; corolla 6-lobed → [[Jasminum_nardydorum\|*J. nardydorum*]]
-
-**3.** Leaves, at least some of them, ternate; petiole (6–)12–16(–21) mm; blade without domatia; flower with pedicel 1–3 mm → [[Jasminum_dichotomum\|*J. dichotomum*]]
-
-**3′.** Leaves opposite or subopposite; petiole up to 10 mm; blade without or with domatia; flower with pedicel ≥ 10 mm → couplet **4**
-
-**4.** Calyx (tube + lobes) 11–13 mm in length, ± as long as the corolla tube, the latter 11–12 mm in length → [[Jasminum_mouilaense\|*J. mouilaense*]]
-
-**4′.** Calyx (tube + lobes) 5–8(–10) mm in length, distinctly shorter than the corolla tube, the latter (12–)14–20(–23) mm in length → couplet **5**
-
-**5.** Lower surface of leaf blade without domatia → [[Jasminum_preussii\|*J. preussii*]]
-
-**5′.** Lower surface of leaf blade with domatia in the axils of lateral veins, sometimes ± hidden by the indument → couplet **6**
-
-**6.** Leaf blade cuneate to rounded at the base, generally with margin revolute (see plate 2), at least partially; calyx with 6 to 11 lobes → [[Jasminum_kwangense\|*J. kwangense*]]
-
-**6′.** Leaf blade broadly rounded to cordate, or rarely cuneate at the base, with margin not revolute; calyx with 5(–6) lobes → [[Jasminum_pauciflorum\|*J. pauciflorum*]]
+- **1.** Leaves trifoliolate → couplet **2**
+- **1′.** Leaves simple (unifoliolate) → couplet **3**
+  - **2.** Inflorescence with peduncle > 10 mm, pubescent; calyx with distinct lobes, 1–2 mm in length; corolla 5-lobed (to be looked for in Gabon) → J. bakeri Scott-Elliot
+  - **2′.** Inflorescence with peduncle 2–6 mm, sparsely puberulent; calyx with undulate margin or lobes < 0.5 mm; corolla 6-lobed → [[Jasminum_nardydorum\|*J. nardydorum*]]
+    - **3.** Leaves, at least some of them, ternate; petiole (6–)12–16(–21) mm; blade without domatia; flower with pedicel 1–3 mm → [[Jasminum_dichotomum\|*J. dichotomum*]]
+    - **3′.** Leaves opposite or subopposite; petiole up to 10 mm; blade without or with domatia; flower with pedicel ≥ 10 mm → couplet **4**
+      - **4.** Calyx (tube + lobes) 11–13 mm in length, ± as long as the corolla tube, the latter 11–12 mm in length → [[Jasminum_mouilaense\|*J. mouilaense*]]
+      - **4′.** Calyx (tube + lobes) 5–8(–10) mm in length, distinctly shorter than the corolla tube, the latter (12–)14–20(–23) mm in length → couplet **5**
+        - **5.** Lower surface of leaf blade without domatia → [[Jasminum_preussii\|*J. preussii*]]
+        - **5′.** Lower surface of leaf blade with domatia in the axils of lateral veins, sometimes ± hidden by the indument → couplet **6**
+          - **6.** Leaf blade cuneate to rounded at the base, generally with margin revolute (see plate 2), at least partially; calyx with 6 to 11 lobes → [[Jasminum_kwangense\|*J. kwangense*]]
+          - **6′.** Leaf blade broadly rounded to cordate, or rarely cuneate at the base, with margin not revolute; calyx with 5(–6) lobes → [[Jasminum_pauciflorum\|*J. pauciflorum*]]
 
 ## Species in region
 

@@ -31,21 +31,14 @@ Bibliography
 
 ## Key to the species
 
-**1.** Tree 3–8 m tall; leaf blade 15–32 × 5–14 cm, lateral veins without domatia; corolla 3–4 mm long; fruit pink to dark red → [[Noronhia_camptoneura\|*N. camptoneura*]]
-
-**1′.** Often smaller habit; leaf blade smaller, lateral veins without or with domatia; corolla generally longer; fruit reddish, blue or purple → couplet **2**
-
-**2.** Inflorescence with axis < 2 cm; leaf blade with lateral veins without domatia; corolla 9–20 mm long; fruit red; generally a shrub < 2 m tall → [[Noronhia_congesta\|*N. congesta*]]
-
-**2′.** Inflorescence with axis often longer; leaf blade with lateral veins without or with domatia; corolla generally shorter; fruit reddish, blue or purple; habit generally taller → couplet **3**
-
-**3.** Inflorescence lax; flower with pedicel 5–25 mm; corolla with elliptic lobes, 2–3.5 mm wide; fruit reddish (to be looked for in Gabon) → N. mildbraedii (Gilg & Schellenb.) Hong-Wa & Besnard
-
-**3′.** Inflorescence dense; flower with shorter pedicel; corolla with narrower lobes → couplet **4**
-
-**4.** At least part of the leaves with domatia in crypts at the axils of lateral veins, these generally glabrous or with minute hairs inside the throat; corolla 4–6 mm long; fruit globose to ellipsoid, 1–2.5 × 1–1.5 cm, dark blue to purplish; plant of forest margins and forests near savannas → [[Noronhia_nilotica\|*N. nilotica*]]
-
-**4′.** Leaves with lateral veins without domatia or with a few domatia in crypts with long hairs; corolla 7–8 mm long; fruit ellipsoid, 2–3 × 1.5–2 cm, dark purple; plant of high mangroves → [[Noronhia_mannii\|*N. mannii*]]
+- **1.** Tree 3–8 m tall; leaf blade 15–32 × 5–14 cm, lateral veins without domatia; corolla 3–4 mm long; fruit pink to dark red → [[Noronhia_camptoneura\|*N. camptoneura*]]
+- **1′.** Often smaller habit; leaf blade smaller, lateral veins without or with domatia; corolla generally longer; fruit reddish, blue or purple → couplet **2**
+  - **2.** Inflorescence with axis < 2 cm; leaf blade with lateral veins without domatia; corolla 9–20 mm long; fruit red; generally a shrub < 2 m tall → [[Noronhia_congesta\|*N. congesta*]]
+  - **2′.** Inflorescence with axis often longer; leaf blade with lateral veins without or with domatia; corolla generally shorter; fruit reddish, blue or purple; habit generally taller → couplet **3**
+    - **3.** Inflorescence lax; flower with pedicel 5–25 mm; corolla with elliptic lobes, 2–3.5 mm wide; fruit reddish (to be looked for in Gabon) → N. mildbraedii (Gilg & Schellenb.) Hong-Wa & Besnard
+    - **3′.** Inflorescence dense; flower with shorter pedicel; corolla with narrower lobes → couplet **4**
+      - **4.** At least part of the leaves with domatia in crypts at the axils of lateral veins, these generally glabrous or with minute hairs inside the throat; corolla 4–6 mm long; fruit globose to ellipsoid, 1–2.5 × 1–1.5 cm, dark blue to purplish; plant of forest margins and forests near savannas → [[Noronhia_nilotica\|*N. nilotica*]]
+      - **4′.** Leaves with lateral veins without domatia or with a few domatia in crypts with long hairs; corolla 7–8 mm long; fruit ellipsoid, 2–3 × 1.5–2 cm, dark purple; plant of high mangroves → [[Noronhia_mannii\|*N. mannii*]]
 
 ## Species in region
 

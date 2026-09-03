@@ -25,23 +25,15 @@ B: Aubréville (1959), Koenen & de Wilde (2012), Staner & Gilbert (1958).
 
 ## Key to the species
 
-**1.** Leaflets with veinlet reticulum very prominent and raised on both faces, especially when dry → couplet **2**
-
-**1′.** Leaflets with veinlet reticulum effaced, slightly prominent on both faces → couplet **4**
-
-**2.** Shrubs or small trees cauliflorous, not exceeding 5 m in height at maturity → [[Leplaea_cauliflora\|*L. cauliflora*]]
-
-**2′.** Slender trees, reaching 35 to 40 m in height, with axillary inflorescences → couplet **3**
-
-**3.** Leaflets often asymmetric at the base; flower 5–7.5 mm in length; fruit 4–5 cm in diameter → [[Leplaea_cedrata\|*L. cedrata*]]
-
-**3′.** Leaflets mostly symmetric at the base; flower 10–15(–17 mm) in length; fruit 10–15 cm in diameter → [[Leplaea_mayombensis\|*L. mayombensis*]]
-
-**4.** Lower face of leaflets without glandular punctations; petals 7.5–12(–13) mm in length; fruit globose-depressed → [[Leplaea_thompsonii\|*L. thompsonii*]]
-
-**4′.** Lower face of leaflets with minute glandular punctations (20 × magnification!); petals 5.5–7 mm in length; fruit usually distinctly
-
-**3.** 4-lobed → [[Leplaea_laurentii\|*L. laurentii*]]
+- **1.** Leaflets with veinlet reticulum very prominent and raised on both faces, especially when dry → couplet **2**
+- **1′.** Leaflets with veinlet reticulum effaced, slightly prominent on both faces → couplet **4**
+  - **2.** Shrubs or small trees cauliflorous, not exceeding 5 m in height at maturity → [[Leplaea_cauliflora\|*L. cauliflora*]]
+  - **2′.** Slender trees, reaching 35 to 40 m in height, with axillary inflorescences → couplet **3**
+    - **3.** Leaflets often asymmetric at the base; flower 5–7.5 mm in length; fruit 4–5 cm in diameter → [[Leplaea_cedrata\|*L. cedrata*]]
+    - **3′.** Leaflets mostly symmetric at the base; flower 10–15(–17 mm) in length; fruit 10–15 cm in diameter → [[Leplaea_mayombensis\|*L. mayombensis*]]
+      - **4.** Lower face of leaflets without glandular punctations; petals 7.5–12(–13) mm in length; fruit globose-depressed → [[Leplaea_thompsonii\|*L. thompsonii*]]
+      - **4′.** Lower face of leaflets with minute glandular punctations (20 × magnification!); petals 5.5–7 mm in length; fruit usually distinctly
+        - **3.** 4-lobed → [[Leplaea_laurentii\|*L. laurentii*]]
 
 ## Species in region
 

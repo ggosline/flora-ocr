@@ -30,45 +30,26 @@ Several species have edible fruits. The clove tree, S. aromaticum (L.) Merrill e
 
 ## Key to the species
 
-**1.** Indigenous species. Petals always connate.
-
-**2.** Leaves subsessile, cordate at the base, elongate, 10-25 cm long; flowers large: adult floral buds 8-10 mm diam → [[Syzygium_gilletii\|*S. gilletii*]]
-
-**2′.** Leaves petiolate, acute, obtuse or rounded at the base, smaller; flowers smaller: floral buds 2-5 mm diam.
-
-**3.** Young branchlets quadrangular; leaves rather small, 4-7 cm long; sepals barely developed → *S. staudti*
-
-**3′.** Young branchlets rounded; leaves broader.
-
-**4.** Sepals distinct, also on the fruit, subimbricate in the bud, 1 mm high; leaves obovate, long-cuneate at the base, shortly acuminate at the apex → [[Syzygium_congolense\|*S. congolense*]]
-
-**4′.** Sepals barely developed.
-
-**5.** Marsh tree, with stilt roots; leaves ovate-elliptic, often rounded at the base, long-acuminate at the apex and very acute → *S. ovariense*
-
-**5′.** Trees from non-marshy habitats, without stilt roots; leaves acute at the base → 5. S. guineense s.l.
-
-**6.** Shrub or small tree from the seashore; leaves ovate-elliptic, extremely coriaceous, rounded or obtuse, sometimes shortly acuminate at the apex; petiole short and thick, about 5 mm long → 5 c. var. littorale.
-
-**6′.** Trees or shrubs from savannas or forest galleries; petiole longer than above.
-
-**7.** Savanna tree or shrub; petiole 2-4 cm long; leaves obovate, often rounded or obtuse at the apex; inflorescences often on leafless branchlets → 5 b. var. macrocarpon.
-
-**7′.** Forest gallery tree; petiole 0.5-2 cm long; leaves acuminate, persistent; inflorescences always terminal → 5 a. var. guineae
-
-**1′.** Cultivated species, sometimes naturalized; petals often free.
-
-**8.** Petals connate, capping the floral bud, detaching all together.
-
-**9.** Ovary cylindric, somewhat quadrangular; sepals triangular; inflorescences terminal → [[Syzygium_aromaticum\|*S. aromaticum*]]
-
-**9′.** Ovary obconic; sepals barely developed; inflorescences lateral, on the leafless parts of branchlets → [[Syzygium_cumini\|*S. cumini*]]
-
-**8′.** Petals free, fairly large, 1-2 cm long.
-
-**10.** Inflorescence on old wood; flowers red → [[Syzygium_malaccense\|*S. malaccense*]]
-
-**10′.** Inflorescence terminal; flowers white; leaves narrow lanceolate → [[Syzygium_jambos\|*S. jambos*]]
+- **1.** Indigenous species. Petals always connate.
+  - **2.** Leaves subsessile, cordate at the base, elongate, 10-25 cm long; flowers large: adult floral buds 8-10 mm diam → [[Syzygium_gilletii\|*S. gilletii*]]
+  - **2′.** Leaves petiolate, acute, obtuse or rounded at the base, smaller; flowers smaller: floral buds 2-5 mm diam.
+    - **3.** Young branchlets quadrangular; leaves rather small, 4-7 cm long; sepals barely developed → *S. staudti*
+    - **3′.** Young branchlets rounded; leaves broader.
+      - **4.** Sepals distinct, also on the fruit, subimbricate in the bud, 1 mm high; leaves obovate, long-cuneate at the base, shortly acuminate at the apex → [[Syzygium_congolense\|*S. congolense*]]
+      - **4′.** Sepals barely developed.
+        - **5.** Marsh tree, with stilt roots; leaves ovate-elliptic, often rounded at the base, long-acuminate at the apex and very acute → *S. ovariense*
+        - **5′.** Trees from non-marshy habitats, without stilt roots; leaves acute at the base → 5. S. guineense s.l.
+          - **6.** Shrub or small tree from the seashore; leaves ovate-elliptic, extremely coriaceous, rounded or obtuse, sometimes shortly acuminate at the apex; petiole short and thick, about 5 mm long → 5 c. var. littorale.
+          - **6′.** Trees or shrubs from savannas or forest galleries; petiole longer than above.
+            - **7.** Savanna tree or shrub; petiole 2-4 cm long; leaves obovate, often rounded or obtuse at the apex; inflorescences often on leafless branchlets → 5 b. var. macrocarpon.
+            - **7′.** Forest gallery tree; petiole 0.5-2 cm long; leaves acuminate, persistent; inflorescences always terminal → 5 a. var. guineae
+- **1′.** Cultivated species, sometimes naturalized; petals often free.
+  - **8.** Petals connate, capping the floral bud, detaching all together.
+    - **9.** Ovary cylindric, somewhat quadrangular; sepals triangular; inflorescences terminal → [[Syzygium_aromaticum\|*S. aromaticum*]]
+    - **9′.** Ovary obconic; sepals barely developed; inflorescences lateral, on the leafless parts of branchlets → [[Syzygium_cumini\|*S. cumini*]]
+  - **8′.** Petals free, fairly large, 1-2 cm long.
+    - **10.** Inflorescence on old wood; flowers red → [[Syzygium_malaccense\|*S. malaccense*]]
+    - **10′.** Inflorescence terminal; flowers white; leaves narrow lanceolate → [[Syzygium_jambos\|*S. jambos*]]
 
 ## Species in region
 

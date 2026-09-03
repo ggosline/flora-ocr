@@ -49,47 +49,27 @@ Breteler (2008) gives brief descriptions of the subgenera to be distinguished in
 
 ## Key to the species
 
-**1.** Stamens twice as numerous as the calyx lobes* → couplet **2**
-
-**1′.** Stamens at least three times as numerous as the calyx lobes → couplet **5**
-
-**2.** Anthers hairy; no gummous exudate between flowers; small shrubs of the interior → couplet **3**
-
-**2′.** Anthers glabrous; gummous exudate between flowers; coastal shrub or forest tree → couplet **4**
-
-**3.** Limb with principal vein glabrous or almost glabrous above; pedicel
-
-**7.** 15 mm → *C. le-testui*
-
-**7′.** Limb with principal vein hispid; pedicel ± 1 mm → [[Cassipourea_nana\|*C. nana*]]
-
-**4.** Suffrutex or coastal shrub; nodes distinctly swollen; ovary pubescent C. barteri
-
-**4′.** Tree of the interior; nodes generally slightly swollen; ovary generally glabrous, except for a few hairs at the apex → [[Cassipourea_gummiflua\|*C. gummiflua*]]
-
-**5.** Anthers hairy → couplet **6**
-
-**5′.** Anthers glabrous → couplet **7**
-
-**6.** Ovary glabrous, 3–5-locular; fruit glabrous, deeply furrowed → [[Cassipourea_ndambiana\|*C. ndambiana*]]
-
-**6′.** Ovary hairy, 3-locular; fruit hairy, not furrowed → [[Cassipourea_schizocalyx\|*C. schizocalyx*]]
-
-**7.** Calyx with (4–)5(–6) lobes at least as long as the tube; petal with filiform or ribbon-like lobes, glabrous → couplet **8**
-
-**7′.** Calyx with 4 lobes slightly shorter than the tube; petal with filiform lobes, hairy → [[Cassipourea_plumosa\|*C. plumosa*]]
-
-**8.** Anthers non-apiculate → couplet **9**
-
-**8′.** Anthers apiculate → [[Cassipourea_pumila\|*C. pumila*]]
-
-**9.** Calyx with lobes glabrous or with indument ± appressed internally; petal with ≤ 10 lobes; ovary glabrous to hirsute-hispid; style ≥ 3 mm long → couplet **10**
-
-**9′.** Calyx with lobes densely silky internally; petal with > 15 lobes; ovary with appressed pubescence; style ± 1 mm long → [[Cassipourea_carringtoniana\|*C. carringtoniana*]]
-
-**10.** Calyx glabrous or almost glabrous internally; ovary and fruit glabrous or with a few hairs at the apex and along the sutures or upper part hairy → [[Cassipourea_congoensis\|*C. congoensis*]]
-
-**10′.** Calyx hairy internally; ovary and fruit entirely hairy, indument less dense in fruit → C. ruwensorensis * Character difficult to observe and not entirely reliable, but more distinctive vegetative or floral characters are lacking at this level. However, the following should permit satisfactory determination.
+- **1.** Stamens twice as numerous as the calyx lobes* → couplet **2**
+- **1′.** Stamens at least three times as numerous as the calyx lobes → couplet **5**
+  - **2.** Anthers hairy; no gummous exudate between flowers; small shrubs of the interior → couplet **3**
+  - **2′.** Anthers glabrous; gummous exudate between flowers; coastal shrub or forest tree → couplet **4**
+    - **3.** Limb with principal vein glabrous or almost glabrous above; pedicel
+      - **7.** 15 mm → *C. le-testui*
+      - **7′.** Limb with principal vein hispid; pedicel ± 1 mm → [[Cassipourea_nana\|*C. nana*]]
+        - **4.** Suffrutex or coastal shrub; nodes distinctly swollen; ovary pubescent C. barteri
+        - **4′.** Tree of the interior; nodes generally slightly swollen; ovary generally glabrous, except for a few hairs at the apex → [[Cassipourea_gummiflua\|*C. gummiflua*]]
+          - **5.** Anthers hairy → couplet **6**
+          - **5′.** Anthers glabrous → couplet **7**
+            - **6.** Ovary glabrous, 3–5-locular; fruit glabrous, deeply furrowed → [[Cassipourea_ndambiana\|*C. ndambiana*]]
+            - **6′.** Ovary hairy, 3-locular; fruit hairy, not furrowed → [[Cassipourea_schizocalyx\|*C. schizocalyx*]]
+              - **7.** Calyx with (4–)5(–6) lobes at least as long as the tube; petal with filiform or ribbon-like lobes, glabrous → couplet **8**
+              - **7′.** Calyx with 4 lobes slightly shorter than the tube; petal with filiform lobes, hairy → [[Cassipourea_plumosa\|*C. plumosa*]]
+                - **8.** Anthers non-apiculate → couplet **9**
+                - **8′.** Anthers apiculate → [[Cassipourea_pumila\|*C. pumila*]]
+                  - **9.** Calyx with lobes glabrous or with indument ± appressed internally; petal with ≤ 10 lobes; ovary glabrous to hirsute-hispid; style ≥ 3 mm long → couplet **10**
+                  - **9′.** Calyx with lobes densely silky internally; petal with > 15 lobes; ovary with appressed pubescence; style ± 1 mm long → [[Cassipourea_carringtoniana\|*C. carringtoniana*]]
+                    - **10.** Calyx glabrous or almost glabrous internally; ovary and fruit glabrous or with a few hairs at the apex and along the sutures or upper part hairy → [[Cassipourea_congoensis\|*C. congoensis*]]
+                    - **10′.** Calyx hairy internally; ovary and fruit entirely hairy, indument less dense in fruit → C. ruwensorensis * Character difficult to observe and not entirely reliable, but more distinctive vegetative or floral characters are lacking at this level. However, the following should permit satisfactory determination.
 
 ## Species in region
 

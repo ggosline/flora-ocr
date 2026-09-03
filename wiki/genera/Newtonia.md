@@ -25,21 +25,14 @@ This genus comprises 15 or more species of which 14 are present in Africa; the r
 
 ## Key to the species
 
-**1.** 1-2 pairs of pinnae; 2 leaflets per pinna → [[Newtonia_duparquetiana\|*N. duparquetiana*]]
-
-**1′.** More than 2 pairs of pinnae; more than 2 leaflets per pinna.
-
-**2.** Leaflets elliptic to rhombic; distinctly longer than 1 cm.
-
-**3.** No glands between the pairs of leaflets → [[Newtonia_griffoniana\|*N. griffoniana*]]
-
-**3′.** Gland between the pairs of leaflets → [[Newtonia_glandulifera\|*N. glandulifera*]]
-
-**2′.** Leaflets linear oblong; less than ± 1 cm long.
-
-**4.** Petiole and rachis flattened; petiole ± 1 cm long → [[Newtonia_leucocarpa\|*N. leucocarpa*]]
-
-**4′.** Petiole and rachis cylindrical, channelled above; petiole 2-3 cm long → [[Newtonia_grandifolia\|*N. grandifolia*]]
+- **1.** 1-2 pairs of pinnae; 2 leaflets per pinna → [[Newtonia_duparquetiana\|*N. duparquetiana*]]
+- **1′.** More than 2 pairs of pinnae; more than 2 leaflets per pinna.
+  - **2.** Leaflets elliptic to rhombic; distinctly longer than 1 cm.
+    - **3.** No glands between the pairs of leaflets → [[Newtonia_griffoniana\|*N. griffoniana*]]
+    - **3′.** Gland between the pairs of leaflets → [[Newtonia_glandulifera\|*N. glandulifera*]]
+  - **2′.** Leaflets linear oblong; less than ± 1 cm long.
+    - **4.** Petiole and rachis flattened; petiole ± 1 cm long → [[Newtonia_leucocarpa\|*N. leucocarpa*]]
+    - **4′.** Petiole and rachis cylindrical, channelled above; petiole 2-3 cm long → [[Newtonia_grandifolia\|*N. grandifolia*]]
 
 ## Species in region
 

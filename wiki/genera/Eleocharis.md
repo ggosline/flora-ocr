@@ -25,37 +25,22 @@ Bibliography: Haines & Lye (1983), Hinchcliff et al. (2010), Hoenselaar et al. (
 
 ## Key to the species
 
-**1.** Stems unbranched, all terminating in a spikelet with at least 3 flowers → couplet **2**
-
-**1′.** Stems clearly branched; only a few branches terminating in a spikelet with 1 flower → couplet **8**
-
-**2.** Stems 1‒8 mm thick; spikelet 10‒60 mm long; glumes 3‒6 mm long; achene 1.5‒2 mm long, often ± triangular; perennial plants → couplet **3**
-
-**2′.** Stems 0.1‒1 mm thick; spikelet 2‒15 mm long; glumes 1‒2.3 mm long; achene 0.5‒1 mm long, lenticular, black, shiny; annual or perennial plants with slender creeping stems → couplet **6**
-
-**3.** Stems rounded and hollow, 4‒8 mm thick → [[Eleocharis_dulcis\|*E. dulcis*]]
-
-**3′.** Stems rounded or angular, filled with pith, 1‒5 mm thick → couplet **4**
-
-**4.** Stems often triangular with ± rounded angles; achene urceolate → [[Eleocharis_variegata\|*E. variegata*]]
-
-**4′.** Stems triangular with acute angles or nearly winged; achene obovoid → couplet **5**
-
-**5.** Perianth bristles longer than the achene, with numerous retrorsely barbed setae; achene without pronounced narrowing between the achene and appendage → [[Eleocharis_mutata\|*E. mutata*]]
-
-**5′.** Perianth bristles shorter or longer than the achene, without or with few retrorsely barbed setae; achene with sharp narrowing between the achene and appendage → [[Eleocharis_acutangula\|*E. acutangula*]]
-
-**6.** Glumes 2.5‒3.5 mm long; cell walls raised at the surface of the achene → [[Eleocharis_retroflexa\|*E. retroflexa*]]
-
-**6′.** Glumes 1‒2 mm long; achene smooth and shiny → couplet **7**
-
-**7.** Annual or perennial plant with creeping stems; stem 0.6‒0.9 mm thick; spikelet globose to lanceolate–pyramidal, 2.5‒3.5 mm wide; glumes 1.8‒2 mm long; achene 0.8‒1 mm long → [[Eleocharis_geniculata\|*E. geniculata*]]
-
-**7′.** Annual plant; stem 0.2‒0.3 mm thick; spikelet globose to ovate–lanceolate, 1‒2 mm wide; glumes 1‒1.2 mm long; achene approximately 0.5 mm long → [[Eleocharis_atropurpurea\|*E. atropurpurea*]]
-
-**8.** Annual plant without hard woody base; spikelet 4‒5 mm long with 2‒3 glumes surrounding a single flower; perianth with barely developed segments → [[Eleocharis_naumanniana\|*E. naumanniana*]]
-
-**8′.** Perennial plant with hard woody base; spikelet approximately 10 mm long with 2 large green and purple glumes surrounding the single flower; perianth with prominent segments → [[Eleocharis_confervoides\|*E. confervoides*]]
+- **1.** Stems unbranched, all terminating in a spikelet with at least 3 flowers → couplet **2**
+- **1′.** Stems clearly branched; only a few branches terminating in a spikelet with 1 flower → couplet **8**
+  - **2.** Stems 1‒8 mm thick; spikelet 10‒60 mm long; glumes 3‒6 mm long; achene 1.5‒2 mm long, often ± triangular; perennial plants → couplet **3**
+  - **2′.** Stems 0.1‒1 mm thick; spikelet 2‒15 mm long; glumes 1‒2.3 mm long; achene 0.5‒1 mm long, lenticular, black, shiny; annual or perennial plants with slender creeping stems → couplet **6**
+    - **3.** Stems rounded and hollow, 4‒8 mm thick → [[Eleocharis_dulcis\|*E. dulcis*]]
+    - **3′.** Stems rounded or angular, filled with pith, 1‒5 mm thick → couplet **4**
+      - **4.** Stems often triangular with ± rounded angles; achene urceolate → [[Eleocharis_variegata\|*E. variegata*]]
+      - **4′.** Stems triangular with acute angles or nearly winged; achene obovoid → couplet **5**
+        - **5.** Perianth bristles longer than the achene, with numerous retrorsely barbed setae; achene without pronounced narrowing between the achene and appendage → [[Eleocharis_mutata\|*E. mutata*]]
+        - **5′.** Perianth bristles shorter or longer than the achene, without or with few retrorsely barbed setae; achene with sharp narrowing between the achene and appendage → [[Eleocharis_acutangula\|*E. acutangula*]]
+          - **6.** Glumes 2.5‒3.5 mm long; cell walls raised at the surface of the achene → [[Eleocharis_retroflexa\|*E. retroflexa*]]
+          - **6′.** Glumes 1‒2 mm long; achene smooth and shiny → couplet **7**
+            - **7.** Annual or perennial plant with creeping stems; stem 0.6‒0.9 mm thick; spikelet globose to lanceolate–pyramidal, 2.5‒3.5 mm wide; glumes 1.8‒2 mm long; achene 0.8‒1 mm long → [[Eleocharis_geniculata\|*E. geniculata*]]
+            - **7′.** Annual plant; stem 0.2‒0.3 mm thick; spikelet globose to ovate–lanceolate, 1‒2 mm wide; glumes 1‒1.2 mm long; achene approximately 0.5 mm long → [[Eleocharis_atropurpurea\|*E. atropurpurea*]]
+              - **8.** Annual plant without hard woody base; spikelet 4‒5 mm long with 2‒3 glumes surrounding a single flower; perianth with barely developed segments → [[Eleocharis_naumanniana\|*E. naumanniana*]]
+              - **8′.** Perennial plant with hard woody base; spikelet approximately 10 mm long with 2 large green and purple glumes surrounding the single flower; perianth with prominent segments → [[Eleocharis_confervoides\|*E. confervoides*]]
 
 ## Species in region
 

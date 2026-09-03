@@ -27,15 +27,11 @@ Bibliography: De Wilde (1975), Fernandes & Fernandes (1978), Hutchinson & Dalzie
 
 ## Key to the species
 
-**1.** Limb entire, penninervate → [[Passiflora_quadrangularis\|*P. quadrangularis*]]
-
-**1′.** Limb lobed, 3–5-palmatinervate → couplet **2**
-
-**2.** Plant fetid to the touch; bracts of the involucre (surrounding the flower and fruit)
-
-**2.** 4-times pinnatipartite, the ultimate segments narrowly linear and topped with a gland; petals white → [[Passiflora_foetida\|*P. foetida*]]
-
-**2′.** Plant without bad odor; bracts of the involucre simple; petals blue-purple → [[Passiflora_edulis\|*P. edulis*]]
+- **1.** Limb entire, penninervate → [[Passiflora_quadrangularis\|*P. quadrangularis*]]
+- **1′.** Limb lobed, 3–5-palmatinervate → couplet **2**
+  - **2.** Plant fetid to the touch; bracts of the involucre (surrounding the flower and fruit)
+    - **2.** 4-times pinnatipartite, the ultimate segments narrowly linear and topped with a gland; petals white → [[Passiflora_foetida\|*P. foetida*]]
+  - **2′.** Plant without bad odor; bracts of the involucre simple; petals blue-purple → [[Passiflora_edulis\|*P. edulis*]]
 
 ## Species in region
 

@@ -33,17 +33,12 @@ Bibliography: Geesink (1984), Gillett (1960a), Hauman (1954a), Lewis et al. (200
 
 ## Key to the species
 
-**1.** Leaf unifoliolate; legume lanceolate → [[Craibia_simplex\|*C. simplex*]]
-
-**1′.** Leaf with 3 to 9 leaflets; legume suborbicular or obliquely obovate-oblanceolate (unknown in C. macrantha) → couplet **2**
-
-**2.** Leaf with 3 to 5 leaflets; calyx, pedicels and bracteoles glabrescent; corolla 2 cm or more in length; stamens 15–25 mm; pedicel 1 cm or more → couplet **3**
-
-**2′.** Leaf with 7 to 9 leaflets; calyx, pedicel and bracteoles with dense, dark brown, semi-appressed indumentum; corolla reaching 13 mm in length; stamens 8–13 mm; pedicel up to 6 mm → [[Craibia_laurentii\|*C. laurentii*]]
-
-**3.** Bracteoles distant from the calyx base, below the hypanthium; auricles of wings and keel less than 2 mm in length; stamens 15–18 mm → [[Craibia_lujae\|*C. lujae*]]
-
-**3′.** Bracteoles at the calyx base; auricles of wings and keel 3 mm or more in length; stamens 18–25 mm → [[Craibia_macrantha\|*C. macrantha*]]
+- **1.** Leaf unifoliolate; legume lanceolate → [[Craibia_simplex\|*C. simplex*]]
+- **1′.** Leaf with 3 to 9 leaflets; legume suborbicular or obliquely obovate-oblanceolate (unknown in C. macrantha) → couplet **2**
+  - **2.** Leaf with 3 to 5 leaflets; calyx, pedicels and bracteoles glabrescent; corolla 2 cm or more in length; stamens 15–25 mm; pedicel 1 cm or more → couplet **3**
+  - **2′.** Leaf with 7 to 9 leaflets; calyx, pedicel and bracteoles with dense, dark brown, semi-appressed indumentum; corolla reaching 13 mm in length; stamens 8–13 mm; pedicel up to 6 mm → [[Craibia_laurentii\|*C. laurentii*]]
+    - **3.** Bracteoles distant from the calyx base, below the hypanthium; auricles of wings and keel less than 2 mm in length; stamens 15–18 mm → [[Craibia_lujae\|*C. lujae*]]
+    - **3′.** Bracteoles at the calyx base; auricles of wings and keel 3 mm or more in length; stamens 18–25 mm → [[Craibia_macrantha\|*C. macrantha*]]
 
 ## Species in region
 

@@ -25,43 +25,25 @@ Eleven species known from Gabon.
 
 ## Key to the species
 
-**1.** Lip entire or weakly trilobed → couplet **2**
-
-**1′.** Lip strongly trilobed → couplet **5**
-
-**2.** Median lobe of lip rectangular or subsquare, truncate with a short apicule at the apex → 41. 5. T. filifolia
-
-**2′.** Median lobe of lip narrowly triangular, acute → couplet **3**
-
-**3.** Leaves very thick, semi-circular or triangular in transverse section, leaf margins rolled inward → 41. 4. T. crassifolia
-
-**3′.** Leaves thin, flat in transverse section, leaf margins recurved → couplet **4**
-
-**4.** Inflorescence 2–4-flowered, lip 3–6 mm → 41. 1. T. anthomaniaca PL. 177. – Structure of the gynostemium of the genus Tridactyle Schltr.: A, frontal view; B, lateral view; C, rostellum remnant; D, anther; E, tegula and viscidium; F, pollinia (A–F, ex SZLACHETKO, 2003).
-
-**5.** Spur geniculate, lip trilobed just below the middle, lateral lobes falciform divergent, entire, as long as the median lobe → 41. 6. T. lagosensis
-
-**5′.** Spur straight, lateral lobes of lip pendulous or divergent, generally fimbriate at least as long as the median lobe, generally longer → couplet **6**
-
-**6.** Spur 0.4–0.8 mm, obtuse → 41. 3. T. brevicalcarata
-
-**6′.** Spur longer → couplet **7**
-
-**7.** Median lobe of lip hooked → 41. 2. T. bicaudata
-
-**7′.** Median lobe of lip not as above → couplet **8**
-
-**8.** Lateral lobes of lip truncate, irregularly denticulate at the apex → 41. 11. T. truncatiloba
-
-**8′.** Lateral lobes of lip caudate or apiculate, but not truncate → couplet **9**
-
-**9.** All lobes of lip of the same length and shape → 41. 10. T. tridactylites
-
-**9′.** Median lobe of lip distinctly shorter than the lateral lobes, triangular, entire, lateral lobes with margins more or less fimbriate → couplet **10**
-
-**10.** Leaves oblong-elliptic, 1.7–2.5 cm wide, approximately 5 times longer than wide, rachis winged → 41. 7. T. latifolia
-
-**10′.** Leaves linear, reaching 1.2 cm wide, approximately 9–10 times longer than wide, rachis cylindric → 41. 9. T. lisowskii
+- **1.** Lip entire or weakly trilobed → couplet **2**
+- **1′.** Lip strongly trilobed → couplet **5**
+  - **2.** Median lobe of lip rectangular or subsquare, truncate with a short apicule at the apex → 41. 5. T. filifolia
+  - **2′.** Median lobe of lip narrowly triangular, acute → couplet **3**
+    - **3.** Leaves very thick, semi-circular or triangular in transverse section, leaf margins rolled inward → 41. 4. T. crassifolia
+    - **3′.** Leaves thin, flat in transverse section, leaf margins recurved → couplet **4**
+      - **4.** Inflorescence 2–4-flowered, lip 3–6 mm → 41. 1. T. anthomaniaca PL. 177. – Structure of the gynostemium of the genus Tridactyle Schltr.: A, frontal view; B, lateral view; C, rostellum remnant; D, anther; E, tegula and viscidium; F, pollinia (A–F, ex SZLACHETKO, 2003).
+        - **5.** Spur geniculate, lip trilobed just below the middle, lateral lobes falciform divergent, entire, as long as the median lobe → 41. 6. T. lagosensis
+        - **5′.** Spur straight, lateral lobes of lip pendulous or divergent, generally fimbriate at least as long as the median lobe, generally longer → couplet **6**
+          - **6.** Spur 0.4–0.8 mm, obtuse → 41. 3. T. brevicalcarata
+          - **6′.** Spur longer → couplet **7**
+            - **7.** Median lobe of lip hooked → 41. 2. T. bicaudata
+            - **7′.** Median lobe of lip not as above → couplet **8**
+              - **8.** Lateral lobes of lip truncate, irregularly denticulate at the apex → 41. 11. T. truncatiloba
+              - **8′.** Lateral lobes of lip caudate or apiculate, but not truncate → couplet **9**
+                - **9.** All lobes of lip of the same length and shape → 41. 10. T. tridactylites
+                - **9′.** Median lobe of lip distinctly shorter than the lateral lobes, triangular, entire, lateral lobes with margins more or less fimbriate → couplet **10**
+                  - **10.** Leaves oblong-elliptic, 1.7–2.5 cm wide, approximately 5 times longer than wide, rachis winged → 41. 7. T. latifolia
+                  - **10′.** Leaves linear, reaching 1.2 cm wide, approximately 9–10 times longer than wide, rachis cylindric → 41. 9. T. lisowskii
 
 ## Species in region
 

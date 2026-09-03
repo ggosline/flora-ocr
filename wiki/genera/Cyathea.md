@@ -26,7 +26,7 @@ Approximately 600 species, mostly from humid tropical regions, and even subtropi
 
 ## Key to the species
 
-**1′.** Frond tripinnatifid to tripinnate; petiole brownish, very spiny, covered with rusty tomentum → [[Cyathea_manniana\|*C. manniana*]]
+- **1′.** Frond tripinnatifid to tripinnate; petiole brownish, very spiny, covered with rusty tomentum → [[Cyathea_manniana\|*C. manniana*]]
 
 ## Species in region
 

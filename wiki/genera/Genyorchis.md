@@ -31,13 +31,10 @@ These very small flowers are probably pollinated by bees, but there are no obser
 
 ## Key to the species
 
-**1.** Pseudobulbs 1-leaved → [[Genyorchis_platybulbon\|*G. platybulbon*]]
-
-**1′.** Pseudobulbs 2-leaved.
-
-**2.** Labellum overall obtriangluar: midlobe short and broad, lateral lobes very developed broadly spreading → [[Genyorchis_sanfordii\|*G. sanfordii*]]
-
-**2′.** Labellum overall rectangular or obovate: midlobe triangular, elliptic to ovate, revolute → [[Genyorchis_apetala\|*G. apetala*]]
+- **1.** Pseudobulbs 1-leaved → [[Genyorchis_platybulbon\|*G. platybulbon*]]
+- **1′.** Pseudobulbs 2-leaved.
+  - **2.** Labellum overall obtriangluar: midlobe short and broad, lateral lobes very developed broadly spreading → [[Genyorchis_sanfordii\|*G. sanfordii*]]
+  - **2′.** Labellum overall rectangular or obovate: midlobe triangular, elliptic to ovate, revolute → [[Genyorchis_apetala\|*G. apetala*]]
 
 ## Species in region
 

@@ -25,9 +25,8 @@ B: Bayer & Kubitzki (2003), Hauman (1963), Siemonsma (1991), Siemonsma & Kouamé
 
 ## Key to the species
 
-**1.** Epicalyx (calyculus) segments 5–10, ovate to oblong, 4–13 mm wide; fruit ovoid to cylindric → [[Abelmoschus_caillei\|*A. caillei*]]
-
-**1′.** Epicalyx segments 7–18, filiform to linear, 0.5–3 mm wide; fruit cylindric to pyramidal → [[Abelmoschus_esculentus\|*A. esculentus*]]
+- **1.** Epicalyx (calyculus) segments 5–10, ovate to oblong, 4–13 mm wide; fruit ovoid to cylindric → [[Abelmoschus_caillei\|*A. caillei*]]
+- **1′.** Epicalyx segments 7–18, filiform to linear, 0.5–3 mm wide; fruit cylindric to pyramidal → [[Abelmoschus_esculentus\|*A. esculentus*]]
 
 ## Species in region
 

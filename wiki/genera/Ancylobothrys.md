@@ -30,12 +30,9 @@ BIBLIOGRAPHY
 ## Key to the species
 
 Attention: the leaves can vary greatly on the same plant.
-
-**1.** Leaf blade with 5 to 14 pairs of secondary nerves, most often short- angled with the median petiole of ± mm, corolla tube 10.5–20 mm long → [[Ancylobothrys_robusta\|*A. robusta*]]
-
-**1′.** Leaf blade with 8 to 25 pairs of secondary nerves, ± straight, forming an angle of ± with the median petiole of ± mm, corolla tube long of
-
-**7.** 5–44 mm 2 Corolla tube long of ± mm longer than the lobes, glabrous or with short and sparse external pubescence; petiole of 4–15 mm A. scandens Corolla tube long of mm equal to or shorter than the lobes pubescent externally, often regularly dense; petiole of 8–20 mm → [[Ancylobothrys_pyriformis\|*A. pyriformis*]]
+- **1.** Leaf blade with 5 to 14 pairs of secondary nerves, most often short- angled with the median petiole of ± mm, corolla tube 10.5–20 mm long → [[Ancylobothrys_robusta\|*A. robusta*]]
+- **1′.** Leaf blade with 8 to 25 pairs of secondary nerves, ± straight, forming an angle of ± with the median petiole of ± mm, corolla tube long of
+  - **7.** 5–44 mm 2 Corolla tube long of ± mm longer than the lobes, glabrous or with short and sparse external pubescence; petiole of 4–15 mm A. scandens Corolla tube long of mm equal to or shorter than the lobes pubescent externally, often regularly dense; petiole of 8–20 mm → [[Ancylobothrys_pyriformis\|*A. pyriformis*]]
 
 ## Species in region
 

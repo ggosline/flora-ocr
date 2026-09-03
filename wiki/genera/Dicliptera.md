@@ -29,7 +29,7 @@ Distributed in most tropical and temperate regions of the globe. According to E.
 
 ## Key to the species
 
-**1′.** Involucre with bracts more or less unequal, lanceolate-acuminate; the long acumen is furnished with a setiform point; inflorescence in verticillate axillary pseudofascicles → [[Dicliptera_verticillata\|*D. verticillata*]]
+- **1′.** Involucre with bracts more or less unequal, lanceolate-acuminate; the long acumen is furnished with a setiform point; inflorescence in verticillate axillary pseudofascicles → [[Dicliptera_verticillata\|*D. verticillata*]]
 
 ## Species in region
 

@@ -49,21 +49,14 @@ This genus comprises 7 species, 5 from tropical Africa and 2 from Asia. In Afric
 
 ## Key to the species
 
-**1.** Leaves 5-foliolate → [[Agelaea_gabonensis\|*A. gabonensis*]]
-
-**1′.** Leaves 3-foliolate.
-
-**2.** Sepals 1.5–2 mm long, not bordered with multicellular hairs; numerous mucilage cells on the upper surface of leaflets, forming small punctations when dry; hairs not fasciculate → *A. parado*
-
-**2′.** Sepals (2.5–)3–4(–5) mm long, bordered with multicellular hairs; mucilage cells absent; most hairs fasciculate by 3 or 4.
-
-**3.** Follicles with numerous coarse protuberances; hairs on young branchlets at most > 0.5 mm long; adult leaflets glabrous or with remnants of indumentum on vein I; pair of primary lateral veins always longer than the others → [[Agelaea_rubiginosa\|*A. rubiginosa*]]
-
-**3′.** Follicles without coarse protuberances but sometimes wrinkled after drying; young branchlets sometimes with hairs > 0.5 mm long; adult leaflets glabrous to pubescent; on the terminal leaflet, the major veins II of the basal pair shorter or longer than the others.
-
-**4.** Venation of the terminal leaflet always pinnate; major veins II of the basal pair always distinctly shorter than the following ones; young leaflets entirely covered with a white, slightly glossy arachnoid indumentum; older leaflets glabrous on both surfaces or with remnants of arachnoid covering on their midvein; length of rachis 0.1–1 cm → [[Agelaea_poggeana\|*A. poggeana*]]
-
-**4′.** Venation of the terminal leaflet generally palmate but sometimes pinnate; major veins II of the basal pair never distinctly smaller than the following ones; young leaflets rarely covered with arachnoid indumentum; older leaflets glabrous to pubescent; length of rachis ≤ 4 cm → [[Agelaea_pentagyna\|*A. pentagyna*]]
+- **1.** Leaves 5-foliolate → [[Agelaea_gabonensis\|*A. gabonensis*]]
+- **1′.** Leaves 3-foliolate.
+  - **2.** Sepals 1.5–2 mm long, not bordered with multicellular hairs; numerous mucilage cells on the upper surface of leaflets, forming small punctations when dry; hairs not fasciculate → *A. parado*
+  - **2′.** Sepals (2.5–)3–4(–5) mm long, bordered with multicellular hairs; mucilage cells absent; most hairs fasciculate by 3 or 4.
+    - **3.** Follicles with numerous coarse protuberances; hairs on young branchlets at most > 0.5 mm long; adult leaflets glabrous or with remnants of indumentum on vein I; pair of primary lateral veins always longer than the others → [[Agelaea_rubiginosa\|*A. rubiginosa*]]
+    - **3′.** Follicles without coarse protuberances but sometimes wrinkled after drying; young branchlets sometimes with hairs > 0.5 mm long; adult leaflets glabrous to pubescent; on the terminal leaflet, the major veins II of the basal pair shorter or longer than the others.
+      - **4.** Venation of the terminal leaflet always pinnate; major veins II of the basal pair always distinctly shorter than the following ones; young leaflets entirely covered with a white, slightly glossy arachnoid indumentum; older leaflets glabrous on both surfaces or with remnants of arachnoid covering on their midvein; length of rachis 0.1–1 cm → [[Agelaea_poggeana\|*A. poggeana*]]
+      - **4′.** Venation of the terminal leaflet generally palmate but sometimes pinnate; major veins II of the basal pair never distinctly smaller than the following ones; young leaflets rarely covered with arachnoid indumentum; older leaflets glabrous to pubescent; length of rachis ≤ 4 cm → [[Agelaea_pentagyna\|*A. pentagyna*]]
 
 ## Species in region
 

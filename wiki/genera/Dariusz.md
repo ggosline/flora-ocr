@@ -18,17 +18,12 @@ tags: [genus, generated]
 
 ## Key to the species
 
-**1.** Labellum without spur → 26. Ansellia
-
-**1′.** Labellum generally with a prominent spur or, at least, saccate → couplet **2**
-
-**2.** Pseudobulbs with a single node → 27. Oeceoclades
-
-**2′.** Pseudobulbs with several nodes or caulescent stems → couplet **3**
-
-**3.** Inflorescence in panicle, rostellum beaked → 28. Graphorkis
-
-**3′.** Inflorescence simple, rostellum short and broad → 29. Eulophia
+- **1.** Labellum without spur → 26. Ansellia
+- **1′.** Labellum generally with a prominent spur or, at least, saccate → couplet **2**
+  - **2.** Pseudobulbs with a single node → 27. Oeceoclades
+  - **2′.** Pseudobulbs with several nodes or caulescent stems → couplet **3**
+    - **3.** Inflorescence in panicle, rostellum beaked → 28. Graphorkis
+    - **3′.** Inflorescence simple, rostellum short and broad → 29. Eulophia
 
 ## Species in region
 

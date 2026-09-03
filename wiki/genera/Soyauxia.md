@@ -32,13 +32,10 @@ Bibliography
 
 ## Key to the species
 
-**1.** Sepals entirely pubescent on their outer surface → S. sp. (nov. ?)
-
-**1′.** Sepals glabrous or partially pubescent on their outer surface, at least glabrous on their margins (the margin may be ciliate) → couplet **2**
-
-**2.** Pedicel 2–5(–7) mm; blade with midvein glabrous above → [[Soyauxia_glabrescens\|*S. glabrescens*]]
-
-**2′.** Flower sessile or with pedicel 0.5–1.5 mm; blade with midvein pubescent above → [[Soyauxia_gabonensis\|*S. gabonensis*]]
+- **1.** Sepals entirely pubescent on their outer surface → S. sp. (nov. ?)
+- **1′.** Sepals glabrous or partially pubescent on their outer surface, at least glabrous on their margins (the margin may be ciliate) → couplet **2**
+  - **2.** Pedicel 2–5(–7) mm; blade with midvein glabrous above → [[Soyauxia_glabrescens\|*S. glabrescens*]]
+  - **2′.** Flower sessile or with pedicel 0.5–1.5 mm; blade with midvein pubescent above → [[Soyauxia_gabonensis\|*S. gabonensis*]]
 
 ## Species in region
 

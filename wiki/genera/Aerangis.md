@@ -23,17 +23,12 @@ Genus of approximately 50 species in Africa, Madagascar, Comoros and Sri Lanka; 
 
 ## Key to the species
 
-**1.** Gynosteme 30-40 mm, rostellum remnants truncate → 45. 1. A. gracillima
-
-**1′.** Gynosteme much shorter, rostellum remnants apiculate → couplet **2**
-
-**2.** Spur < 4 cm or, if reaching this length, the apex hooked → 45. 4. A. calantha
-
-**2′.** Spur more than 4 cm, straight or only slightly curved → couplet **3**
-
-**3.** Flowers well-spaced 3-5 cm along the inflorescence axis → 45. 2. A. arachnopus
-
-**3′.** Flowers more or less congested, never more than 3 cm distant from each other → 45. 3. A. biloba Subgenus Barombia Gynosteme slender, elongate, much longer than the stigma, slightly shorter than the tepals. Rostellum narrowly ligulate. Rostellum remnants truncate. PL. 193. – Structure of the gynosteme of the genus Aerangis Rchb. f. : A, front view ; B, lateral view ; C, anther removed ; D, rostellum remnant, front view ; E, tegula and viscidium (A-E, ex SZLACHETKO, 2003).
+- **1.** Gynosteme 30-40 mm, rostellum remnants truncate → 45. 1. A. gracillima
+- **1′.** Gynosteme much shorter, rostellum remnants apiculate → couplet **2**
+  - **2.** Spur < 4 cm or, if reaching this length, the apex hooked → 45. 4. A. calantha
+  - **2′.** Spur more than 4 cm, straight or only slightly curved → couplet **3**
+    - **3.** Flowers well-spaced 3-5 cm along the inflorescence axis → 45. 2. A. arachnopus
+    - **3′.** Flowers more or less congested, never more than 3 cm distant from each other → 45. 3. A. biloba Subgenus Barombia Gynosteme slender, elongate, much longer than the stigma, slightly shorter than the tepals. Rostellum narrowly ligulate. Rostellum remnants truncate. PL. 193. – Structure of the gynosteme of the genus Aerangis Rchb. f. : A, front view ; B, lateral view ; C, anther removed ; D, rostellum remnant, front view ; E, tegula and viscidium (A-E, ex SZLACHETKO, 2003).
 
 ## Species in region
 

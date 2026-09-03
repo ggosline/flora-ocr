@@ -35,7 +35,7 @@ This genus is widespread in tropical regions; it is particularly abundant in Mad
 
 ## Key to the species
 
-**1′.** Leaflets of non-decreasing size from apex toward base, oblong; fruits chartaceous → [[Entada_mannii\|*E. mannii*]]
+- **1′.** Leaflets of non-decreasing size from apex toward base, oblong; fruits chartaceous → [[Entada_mannii\|*E. mannii*]]
 
 ## Species in region
 

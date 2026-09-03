@@ -35,21 +35,14 @@ Eight African species, of which 3 are particular to East Africa: S. goetzei (Loe
 
 ## Key to the species
 
-**1.** Androgyno-phore narrow; the apex (androgynophore) is slightly wider than the base (disc); pedicel 2.2 mm; 8 ovules per locule; flower 4.5–6.5 mm in diameter → S. atractaspis Hallé (Côte-d'Ivoire (César 1777), and Ghana).
-
-**1′.** Androgyno-phore medium: diameter at apex approximately equal to that of the base.
-
-**2.** Androgynophore slightly taller than wide, subcylindric with thick disc; pistil and filaments longer than wide; sepals indistinctly micro-denticulate.
-
-**3.** Sepals erect or spreading, equal or nearly so; petals deployed without marginal deformations; pedicels 0.5–2 mm.
-
-**4.** Flower semi-urceolate; 6–7 ovules per locule; base of petal narrow but thickened by a small keel; smallest flower of the genus, 3.6 mm in diameter; calyx and pedicels smooth → [[Simirestis_klaineana\|*S. klaineana*]]
-
-**4′.** Flower rotate; 8–10 ovules per locule; base of petal wide with a small transverse thickening; flower 4–6.6 mm in diameter; calyx and pedicel microbossed → 1 bis. S. dewildemaniana.
-
-**3′.** Sepals reflexed at anthesis, very unequal; at least 2 of the petals with marginal deformations; pedicel 1–3 mm; 12–16 ovules per locule; flower 5–6 mm in diameter → [[Simirestis_tisserantii\|*S. tisserantii*]]
-
-**2′.** Androgynophore short and wide, separated by a constriction from the disc which is thin; pistil very short; filaments as wide at the base as long; sepals ciliolate; flower rotate → 2 bis. S. staudtii.
+- **1.** Androgyno-phore narrow; the apex (androgynophore) is slightly wider than the base (disc); pedicel 2.2 mm; 8 ovules per locule; flower 4.5–6.5 mm in diameter → S. atractaspis Hallé (Côte-d'Ivoire (César 1777), and Ghana).
+- **1′.** Androgyno-phore medium: diameter at apex approximately equal to that of the base.
+  - **2.** Androgynophore slightly taller than wide, subcylindric with thick disc; pistil and filaments longer than wide; sepals indistinctly micro-denticulate.
+    - **3.** Sepals erect or spreading, equal or nearly so; petals deployed without marginal deformations; pedicels 0.5–2 mm.
+      - **4.** Flower semi-urceolate; 6–7 ovules per locule; base of petal narrow but thickened by a small keel; smallest flower of the genus, 3.6 mm in diameter; calyx and pedicels smooth → [[Simirestis_klaineana\|*S. klaineana*]]
+      - **4′.** Flower rotate; 8–10 ovules per locule; base of petal wide with a small transverse thickening; flower 4–6.6 mm in diameter; calyx and pedicel microbossed → 1 bis. S. dewildemaniana.
+    - **3′.** Sepals reflexed at anthesis, very unequal; at least 2 of the petals with marginal deformations; pedicel 1–3 mm; 12–16 ovules per locule; flower 5–6 mm in diameter → [[Simirestis_tisserantii\|*S. tisserantii*]]
+  - **2′.** Androgynophore short and wide, separated by a constriction from the disc which is thin; pistil very short; filaments as wide at the base as long; sepals ciliolate; flower rotate → 2 bis. S. staudtii.
 
 ## Species in region
 

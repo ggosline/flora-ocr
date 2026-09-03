@@ -29,13 +29,10 @@ Bibliography: Mabberley (2011), Pennington & Styles (1975), Staner & Gilbert (19
 
 ## Key to the species
 
-**1.** All leaves 3-foliolate → [[Heckeldora_trifoliolata\|*H. trifoliolata*]]
-
-**1′.** Leaves with 5–15 leaflets, rarely mixed with a 3-foliolate leaf → couplet **2**
-
-**2.** Calyx 1–2(–2.5) mm long; petals 6–8(–9.5) mm long; fruit narrowly ovoid to cylindric, but often asymmetric, ribbed and moniliform, beaked → [[Heckeldora_staudtii\|*H. staudtii*]]
-
-**2′.** Calyx 2–3.5 mm long; petals 8–11 mm; fruit compact, ovoid to obovoid, often mammilate, mucronate at apex → [[Heckeldora_zenkeri\|*H. zenkeri*]]
+- **1.** All leaves 3-foliolate → [[Heckeldora_trifoliolata\|*H. trifoliolata*]]
+- **1′.** Leaves with 5–15 leaflets, rarely mixed with a 3-foliolate leaf → couplet **2**
+  - **2.** Calyx 1–2(–2.5) mm long; petals 6–8(–9.5) mm long; fruit narrowly ovoid to cylindric, but often asymmetric, ribbed and moniliform, beaked → [[Heckeldora_staudtii\|*H. staudtii*]]
+  - **2′.** Calyx 2–3.5 mm long; petals 8–11 mm; fruit compact, ovoid to obovoid, often mammilate, mucronate at apex → [[Heckeldora_zenkeri\|*H. zenkeri*]]
 
 ## Species in region
 

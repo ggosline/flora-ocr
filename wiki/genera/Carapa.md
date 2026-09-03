@@ -27,25 +27,16 @@ Bibliography: Kenfack (2011), Noamesi (1958), Pennington & Styles (1975), Staner
 
 ## Key to the species
 
-**1.** Tree reaching 35 m in height; leaf with 15–25 pairs of leaflets; most leaflets 5 or 6 times longer than wide → [[Carapa_angustifolia\|*C. angustifolia*]]
-
-**1′.** Small tree or shrub; leaves generally with up to 15(–19) pairs of leaflets; most leaflets < 5 times longer than wide → couplet **2**
-
-**2.** Petiole with thickened base above the pulvinus ≥ 10 mm in diameter; leaf with 7–15(–19) pairs of leaflets → couplet **3**
-
-**2′.** Petiole 3–7(–9) mm in diameter above the pulvinus; leaf with up to 6(–11) pairs of leaflets → couplet **4**
-
-**3.** Leaflets with principal vein hairy, puberulent or velvety beneath; ovary with 5–6 ovules per locule → [[Carapa_dinklagei\|*C. dinklagei*]]
-
-**3′.** Leaflets with principal vein glabrous beneath; ovary with (3–)4 ovules per locule → [[Carapa_parviflora\|*C. parviflora*]]
-
-**4.** Shrub generally 2.5–8(–12) m in height; leaf with (2–)3–4 pairs of leaflets; ovary 4- or 5-locular, with 2 ovules per locule → [[Carapa_batesii\|*C. batesii*]]
-
-**4′.** Small tree 5–20(–30) m in height; leaf with (3–)4–6(–11) pairs of leaflets; ovary 5-locular, with 3–5 ovules per locule → couplet **5**
-
-**5.** Leaflets with acuminate apex, terminated by a tapered, acute or obtuse point; petals 4–5 mm in length → [[Carapa_hygrophila\|*C. hygrophila*]]
-
-**5′.** Leaflets with obtuse apex, terminated in a short acumen or mucronate; petals (5.5–)7–9 mm in length (to be sought in Gabon) → [[Carapa_macrantha\|*C. macrantha*]]
+- **1.** Tree reaching 35 m in height; leaf with 15–25 pairs of leaflets; most leaflets 5 or 6 times longer than wide → [[Carapa_angustifolia\|*C. angustifolia*]]
+- **1′.** Small tree or shrub; leaves generally with up to 15(–19) pairs of leaflets; most leaflets < 5 times longer than wide → couplet **2**
+  - **2.** Petiole with thickened base above the pulvinus ≥ 10 mm in diameter; leaf with 7–15(–19) pairs of leaflets → couplet **3**
+  - **2′.** Petiole 3–7(–9) mm in diameter above the pulvinus; leaf with up to 6(–11) pairs of leaflets → couplet **4**
+    - **3.** Leaflets with principal vein hairy, puberulent or velvety beneath; ovary with 5–6 ovules per locule → [[Carapa_dinklagei\|*C. dinklagei*]]
+    - **3′.** Leaflets with principal vein glabrous beneath; ovary with (3–)4 ovules per locule → [[Carapa_parviflora\|*C. parviflora*]]
+      - **4.** Shrub generally 2.5–8(–12) m in height; leaf with (2–)3–4 pairs of leaflets; ovary 4- or 5-locular, with 2 ovules per locule → [[Carapa_batesii\|*C. batesii*]]
+      - **4′.** Small tree 5–20(–30) m in height; leaf with (3–)4–6(–11) pairs of leaflets; ovary 5-locular, with 3–5 ovules per locule → couplet **5**
+        - **5.** Leaflets with acuminate apex, terminated by a tapered, acute or obtuse point; petals 4–5 mm in length → [[Carapa_hygrophila\|*C. hygrophila*]]
+        - **5′.** Leaflets with obtuse apex, terminated in a short acumen or mucronate; petals (5.5–)7–9 mm in length (to be sought in Gabon) → [[Carapa_macrantha\|*C. macrantha*]]
 
 ## Species in region
 

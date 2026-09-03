@@ -37,49 +37,28 @@ Notes: In Leeuwenberg's revision (1985), only three species of Voacanga are cite
 
 ## Key to the species
 
-**1.** Leaf lamina obtuse or rounded at the apex, mostly narrowly obovate, coriaceous and glabrous; corolla lobes wider than long, obovate, markedly depressed, very characteristic; mericarp green, subglobulous; swamps or river banks → [[Voacanga_thouarsii\|*V. thouarsii*]]
-
-**1′.** Leaf lamina acuminate or obtuse at the apex, herbaceous to coriaceous; corolla lobes of different form and often longer than wide; mericarp green, blackish or yellowish, subglobulous or not → couplet **2**
-
-**2.** Calyx with lobes erect, 2.5–3 mm long; lobes 1–1.5 times as long as the tube, 1.5–2 times as long as wide; mericarp united throughout the length of the fruit; leaf lamina with "herringbone" venation, with 10 to 25 pairs of secondary veins → [[Voacanga_chalotiana\|*V. chalotiana*]]
-
-**2′.** Calyx with lobes erect, 1–2 mm long; lobes 0.5–0.75 times as long as the tube, 0.75–1.5 times as long as wide; mericarp free or almost so, if fused unknown in certain species; leaf lamina generally with less regular venation and often fewer secondary veins → couplet **3**
-
-**3.** Corolla lobes distinctly shorter than the tube, up to 0.75 times as long as wide → couplet **4**
-
-**3′.** Corolla lobes much shorter to much longer than the tube, if shorter ≥ 0.75 times as long as wide → couplet **6**
-
-**4.** Corolla lobes initially whitish to yellowish and spreading, then brown and reflexed; leaf lamina glabrous → [[Voacanga_lanceolata\|*V. lanceolata*]]
-
-**4′.** Corolla lobes never brown; undersurface of leaf lamina with numerous erect, minute, colourless and inconspicuous hairs, particularly on the major veins → couplet **5**
-
-**5.** Mericarp 2 times as long as wide; corolla lobes yellow → [[Voacanga_diplochlamys\|*V. diplochlamys*]]
-
-**5′.** Mericarp several times as long as wide, almost straight; corolla lobes probably whitish, as in most Voacanga species → [[Voacanga_cornuta\|*V. cornuta*]]
-
-**6.** Corolla lobes 1–3 times as long as the tube; calyx longer than the corolla tube; lobes generally reflexed in the open flower; secondary veins 8 to 22 pairs; mericarp greenish → [[Voacanga_africana\|*V. africana*]]
-
-**6′.** Corolla lobes 0.5 times as long as the tube; calyx longer to shorter than the corolla tube; lobes reflexed or erect; secondary veins fewer than 15 pairs; mericarp yellow to orange, as far as is known → couplet **7**
-
-**7.** Corolla lobes in the bud narrowly conical to subcylindrical; ≥ 1 times as long as wide, generally reflexed or incurved at flowering → couplet **8**
-
-**7′.** Corolla lobes in the bud often broadly conical (Fig. E, H); 0.75–1 times as long as wide, spreading to slightly reflexed at flowering → couplet **11**
-
-**8.** Calyx tube with internal colleters clearly visible → couplet **9**
-
-**8′.** Calyx tube without internal colleters → [[Voacanga_bambidiensis\|*V. bambidiensis*]]
-
-**9.** Corolla lobes narrowly elliptic; distance between the corolla throat and the base of the lobes < 2 mm → couplet **10**
-
-**9′.** Corolla lobes obovate; distance between the throat and the base of the lobes > 4 mm and this zone of the corolla cupuliform → [[Voacanga_bidaultii\|*V. bidaultii*]]
-
-**10.** Calyx lobes erect at flowering, rounded at the apex; corolla throat distinctly narrower than the width of the lobes → [[Voacanga_psilocalyx\|*V. psilocalyx*]]
-
-**10′.** Calyx lobes slightly spreading at flowering, acute and slightly plicate at the apex; corolla throat almost as wide as the width of the lobes → [[Voacanga_lachenaudii\|*V. lachenaudii*]]
-
-**11.** Corolla with tube 7.7–11 mm long, lobes 7–13 × 4–8 mm → [[Voacanga_micrantha\|*V. micrantha*]]
-
-**11′.** Corolla with tube 11–18 mm long, lobes 14–30 × 11–17 mm → [[Voacanga_wieringae\|*V. wieringae*]]
+- **1.** Leaf lamina obtuse or rounded at the apex, mostly narrowly obovate, coriaceous and glabrous; corolla lobes wider than long, obovate, markedly depressed, very characteristic; mericarp green, subglobulous; swamps or river banks → [[Voacanga_thouarsii\|*V. thouarsii*]]
+- **1′.** Leaf lamina acuminate or obtuse at the apex, herbaceous to coriaceous; corolla lobes of different form and often longer than wide; mericarp green, blackish or yellowish, subglobulous or not → couplet **2**
+  - **2.** Calyx with lobes erect, 2.5–3 mm long; lobes 1–1.5 times as long as the tube, 1.5–2 times as long as wide; mericarp united throughout the length of the fruit; leaf lamina with "herringbone" venation, with 10 to 25 pairs of secondary veins → [[Voacanga_chalotiana\|*V. chalotiana*]]
+  - **2′.** Calyx with lobes erect, 1–2 mm long; lobes 0.5–0.75 times as long as the tube, 0.75–1.5 times as long as wide; mericarp free or almost so, if fused unknown in certain species; leaf lamina generally with less regular venation and often fewer secondary veins → couplet **3**
+    - **3.** Corolla lobes distinctly shorter than the tube, up to 0.75 times as long as wide → couplet **4**
+    - **3′.** Corolla lobes much shorter to much longer than the tube, if shorter ≥ 0.75 times as long as wide → couplet **6**
+      - **4.** Corolla lobes initially whitish to yellowish and spreading, then brown and reflexed; leaf lamina glabrous → [[Voacanga_lanceolata\|*V. lanceolata*]]
+      - **4′.** Corolla lobes never brown; undersurface of leaf lamina with numerous erect, minute, colourless and inconspicuous hairs, particularly on the major veins → couplet **5**
+        - **5.** Mericarp 2 times as long as wide; corolla lobes yellow → [[Voacanga_diplochlamys\|*V. diplochlamys*]]
+        - **5′.** Mericarp several times as long as wide, almost straight; corolla lobes probably whitish, as in most Voacanga species → [[Voacanga_cornuta\|*V. cornuta*]]
+          - **6.** Corolla lobes 1–3 times as long as the tube; calyx longer than the corolla tube; lobes generally reflexed in the open flower; secondary veins 8 to 22 pairs; mericarp greenish → [[Voacanga_africana\|*V. africana*]]
+          - **6′.** Corolla lobes 0.5 times as long as the tube; calyx longer to shorter than the corolla tube; lobes reflexed or erect; secondary veins fewer than 15 pairs; mericarp yellow to orange, as far as is known → couplet **7**
+            - **7.** Corolla lobes in the bud narrowly conical to subcylindrical; ≥ 1 times as long as wide, generally reflexed or incurved at flowering → couplet **8**
+            - **7′.** Corolla lobes in the bud often broadly conical (Fig. E, H); 0.75–1 times as long as wide, spreading to slightly reflexed at flowering → couplet **11**
+              - **8.** Calyx tube with internal colleters clearly visible → couplet **9**
+              - **8′.** Calyx tube without internal colleters → [[Voacanga_bambidiensis\|*V. bambidiensis*]]
+                - **9.** Corolla lobes narrowly elliptic; distance between the corolla throat and the base of the lobes < 2 mm → couplet **10**
+                - **9′.** Corolla lobes obovate; distance between the throat and the base of the lobes > 4 mm and this zone of the corolla cupuliform → [[Voacanga_bidaultii\|*V. bidaultii*]]
+                  - **10.** Calyx lobes erect at flowering, rounded at the apex; corolla throat distinctly narrower than the width of the lobes → [[Voacanga_psilocalyx\|*V. psilocalyx*]]
+                  - **10′.** Calyx lobes slightly spreading at flowering, acute and slightly plicate at the apex; corolla throat almost as wide as the width of the lobes → [[Voacanga_lachenaudii\|*V. lachenaudii*]]
+                    - **11.** Corolla with tube 7.7–11 mm long, lobes 7–13 × 4–8 mm → [[Voacanga_micrantha\|*V. micrantha*]]
+                    - **11′.** Corolla with tube 11–18 mm long, lobes 14–30 × 11–17 mm → [[Voacanga_wieringae\|*V. wieringae*]]
 
 ## Species in region
 

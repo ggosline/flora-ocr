@@ -61,17 +61,12 @@ B: Boutique (1972), Kissling (2012), Paiva & Nogueira (1990), Struwe & Pringle (
 
 ## Key to the species
 
-**1.** Plant without chlorophyll → [[Exochaenium_oliganthum\|*E. oliganthum*]]
-
-**1′.** Plant with chlorophyll → couplet **2**
-
-**2.** Corolla 20–35 mm in length; calyx 7–22 mm in length; leaves 5–40 ×
-
-**2.** 5–13 mm → [[Exochaenium_grande\|*E. grande*]]
-
-**2′.** Corolla 7–9 mm in length; calyx 3–5 mm in length; leaves 2–5 ×
-
-**0.** 5–1.5 mm → [[Exochaenium_baumianum\|*E. baumianum*]]
+- **1.** Plant without chlorophyll → [[Exochaenium_oliganthum\|*E. oliganthum*]]
+- **1′.** Plant with chlorophyll → couplet **2**
+  - **2.** Corolla 20–35 mm in length; calyx 7–22 mm in length; leaves 5–40 ×
+    - **2.** 5–13 mm → [[Exochaenium_grande\|*E. grande*]]
+  - **2′.** Corolla 7–9 mm in length; calyx 3–5 mm in length; leaves 2–5 ×
+    - **0.** 5–1.5 mm → [[Exochaenium_baumianum\|*E. baumianum*]]
 
 ## Species in region
 

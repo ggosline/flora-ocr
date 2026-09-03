@@ -36,21 +36,14 @@ The genus comprises approximately sixty species distributed in Africa, Asia and 
 
 ## Key to the species
 
-**1.** Labellum with apical margin fimbriate or crenate → [[Nervilia_petraea\|*N. petraea*]]
-
-**1′.** Labellum with apical margin entire → couplet **2**
-
-**2.** Lower part of labellum panduriform, wider at apex, lateral lobes obtuse → [[Nervilia_adolphi\|*N. adolphi*]]
-
-**2′.** Lower part of labellum oblong-elliptic to crescent-shaped, wider near the middle, lateral lobes acute to auriculiform → 2. N. bicarinata KEY TO SPECIES (by the leaves)
-
-**1.** Petiole > 10 cm → [[Nervilia_bicarinata\|*N. bicarinata*]]
-
-**1′.** Petiole < 6(7) cm → couplet **2**
-
-**2.** Leaf very small, width < 2(2.5) cm and without distinct apicule → [[Nervilia_petraea\|*N. petraea*]]
-
-**2′.** Leaf larger and apiculate → [[Nervilia_adolphi\|*N. adolphi*]]
+- **1.** Labellum with apical margin fimbriate or crenate → [[Nervilia_petraea\|*N. petraea*]]
+- **1′.** Labellum with apical margin entire → couplet **2**
+  - **2.** Lower part of labellum panduriform, wider at apex, lateral lobes obtuse → [[Nervilia_adolphi\|*N. adolphi*]]
+  - **2′.** Lower part of labellum oblong-elliptic to crescent-shaped, wider near the middle, lateral lobes acute to auriculiform → 2. N. bicarinata KEY TO SPECIES (by the leaves)
+    - **1.** Petiole > 10 cm → [[Nervilia_bicarinata\|*N. bicarinata*]]
+    - **1′.** Petiole < 6(7) cm → couplet **2**
+      - **2.** Leaf very small, width < 2(2.5) cm and without distinct apicule → [[Nervilia_petraea\|*N. petraea*]]
+      - **2′.** Leaf larger and apiculate → [[Nervilia_adolphi\|*N. adolphi*]]
 
 ## Species in region
 

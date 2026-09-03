@@ -31,9 +31,8 @@ Genus of 5 species, three American and two from Africa. The name of the genus wa
 
 ## Key to the species
 
-**1.** Flower 8-12 mm in diameter; disk with somewhat angular lobes; petals 4-5 × 3-4 mm; fruit with compressed valves; seeds with well-developed membranous wing; leaf often containing some latex (rubber filaments); leaf blade 5-10 and rarely up to 15 cm in length → [[Cuervea_isangiensis\|*C. isangiensis*]]
-
-**1′.** Flower 15-20 mm in diameter; disk with rather rounded lobes; petals 7-12 × 5-7 mm; fruit with inflated valves; seeds large, attached by a flat cord; no latex; leaf blade 10-27 cm, often more than 15 cm
+- **1.** Flower 8-12 mm in diameter; disk with somewhat angular lobes; petals 4-5 × 3-4 mm; fruit with compressed valves; seeds with well-developed membranous wing; leaf often containing some latex (rubber filaments); leaf blade 5-10 and rarely up to 15 cm in length → [[Cuervea_isangiensis\|*C. isangiensis*]]
+- **1′.** Flower 15-20 mm in diameter; disk with rather rounded lobes; petals 7-12 × 5-7 mm; fruit with inflated valves; seeds large, attached by a flat cord; no latex; leaf blade 10-27 cm, often more than 15 cm
 
 ## Species in region
 

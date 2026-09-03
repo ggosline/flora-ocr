@@ -31,17 +31,12 @@ Bibliography: Hauman (1951), Judd et al. (2008), Schneider & Williamson (1993), 
 
 ## Key to the species
 
-**1.** Herb ± robust; adult leaves 7–37(–50) × 5–34(–50) cm; open flowers (3.5–)5–20(–30) cm in diameter; sepals 3–8(–13) × 1–3.5 cm; stamens 30 or more → couplet **2**
-
-**1′.** Herb delicate; adult leaves 2–6(–8) × 1.7–6(–7) cm; open flowers (2.5–)4–5.5(–8) cm in diameter; sepals 1–3 × 0.5–1.5 cm; stamens 8–20(–30) → [[Nymphaea_heudelotii\|*N. heudelotii*]]
-
-**2.** Leaf blade glabrous beneath, margin entire to distinctly dentate; flower blue, pink or sometimes white; connective of anthers prolonged in the form of a tongue → couplet **3**
-
-**2′.** Leaf blade pubescent beneath, at least on the nerves, margin distinctly dentate; connective of anthers not prolonged or sometimes very short; flowers white to cream, rarely tinged with pink → [[Nymphaea_lotus\|*N. lotus*]]
-
-**3.** Blade with bulbils above the point of insertion of the petiole, with entire margins; nerves prominent or not beneath → [[Nymphaea_micrantha\|*N. micrantha*]]
-
-**3′.** Blade without bulbils, with margins often undulate or dentate at least in the basal part; main nerves prominent beneath, but with median groove on the dry state → N. nouchali var. caerulea
+- **1.** Herb ± robust; adult leaves 7–37(–50) × 5–34(–50) cm; open flowers (3.5–)5–20(–30) cm in diameter; sepals 3–8(–13) × 1–3.5 cm; stamens 30 or more → couplet **2**
+- **1′.** Herb delicate; adult leaves 2–6(–8) × 1.7–6(–7) cm; open flowers (2.5–)4–5.5(–8) cm in diameter; sepals 1–3 × 0.5–1.5 cm; stamens 8–20(–30) → [[Nymphaea_heudelotii\|*N. heudelotii*]]
+  - **2.** Leaf blade glabrous beneath, margin entire to distinctly dentate; flower blue, pink or sometimes white; connective of anthers prolonged in the form of a tongue → couplet **3**
+  - **2′.** Leaf blade pubescent beneath, at least on the nerves, margin distinctly dentate; connective of anthers not prolonged or sometimes very short; flowers white to cream, rarely tinged with pink → [[Nymphaea_lotus\|*N. lotus*]]
+    - **3.** Blade with bulbils above the point of insertion of the petiole, with entire margins; nerves prominent or not beneath → [[Nymphaea_micrantha\|*N. micrantha*]]
+    - **3′.** Blade without bulbils, with margins often undulate or dentate at least in the basal part; main nerves prominent beneath, but with median groove on the dry state → N. nouchali var. caerulea
 
 ## Species in region
 

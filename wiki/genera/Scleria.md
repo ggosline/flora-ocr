@@ -31,85 +31,46 @@ II. sect. Scleria (the other Gabonese species) generally has a fruit with the hy
 
 ## Key to the species
 
-**1.** Bracts foliacious; inflorescence terminal and lateral paniculate; hypogynium often prominent → couplet **2**
-
-**1′.** Bracts non-foliacious; inflorescence terminal composed of a "spike" bearing several spikelets glomerate; hypogynium absent (sect. 1. Hypoporum) → couplet **18**
-
-**2.** Hypogynium ciliate on upper margin, at maturity, enlarged into a cup wider than the achene (sect. 3. Ophryoscleria) → couplet **3**
-
-**2′.** Hypogynium glabrous on upper margin, never wider than the achene, often trilobed or reduced (sect. 2. Scleria) → couplet **5**
-
-**3.** Achene verrucous except at apex → [[Scleria_verrucosa\|*S. verrucosa*]]
-
-**3′.** Achene smooth and shiny, not verrucous → couplet **4**
-
-**4.** Achene 3.5–5 mm wide, apex often gradually acute → S. racemosa subsp. racemosa
-
-**4′.** Achene 2.5–3.5 mm wide, apex truncate or rounded → [[Scleria_vogelii\|*S. vogelii*]]
-
-**5.** Perennial plant; male spikelet 8–13 mm long; female glume 10–14 mm long; achene 3.7–4.8 mm long; hypogynium reduced → couplet **6**
-
-**5′.** Perennial or annual plant; male spikelet 4–8 mm long; female glume 2–8 mm long; achene at most 4 mm long; hypogynium trilobed or reduced → couplet **7**
-
-**6.** Blade 7–18 mm wide; lateral panicles rather dense, often pendulous on peduncles reaching 25 cm long → [[Scleria_melanomphala\|*S. melanomphala*]]
-
-**6′.** Blade 2–6 mm wide; lateral panicles lax, barely exceeding the sheaths → [[Scleria_induta\|*S. induta*]]
-
-**7.** At least some bisexual spikelets; blade 6–23 mm wide → couplet **8**
-
-**7′.** All spikelets unisexual; blade less than 12 mm wide → couplet **9**
-
-**8.** Blade 10–23 mm wide, scarcely scabrous; achene 3 mm long, ovate, smooth and shiny; in shallow water → [[Scleria_lacustris\|*S. lacustris*]]
-
-**8′.** Blade 6–8 mm wide, distinctly scabrous at least on main nerve; achene 2.5 mm long, globose, verrucous; in humid forests → [[Scleria_goossensii\|*S. goossensii*]]
-
-**9.** Annual plant; achene approximately 2.5 × 2 mm, finely glandular with prominent lacunae; hypogynium trilobed → [[Scleria_mikawana\|*S. mikawana*]]
-
-**9′.** Perennial plant with well-developed rhizome; achene without glands; hypogynium lobed or not → couplet **10**
-
-**10.** Male spikelets incurved, 7–9 mm long; achene longitudinally striate → [[Scleria_spiciformis\|*S. spiciformis*]]
-
-**10′.** Male spikelets straight, 4–9 mm long; achene not longitudinally striate → couplet **11**
-
-**11.** Blade distinctly scabrous; plant often climbing on trees; achene 3–3.5 mm long, violaceous or rarely white, finely pilose → [[Scleria_boivinii\|*S. boivinii*]]
-
-**11′.** Blade slightly or non-scabrous; plant erect or decumbent; achene 2–3.5 mm long, violaceous or white, pilose or glabrous → couplet **12**
-
-**12.** Achene white and smooth with dark blue-violet apex, glabrous; hypogynium with 3 thick lobes, square with rounded angles → [[Scleria_iostephana\|*S. iostephana*]]
-
-**12′.** Achene white or greyish-brown, without dark apex or, otherwise, pilose; hypogynium annular or sometimes, if achene pilose, then 3-lobed → couplet **13**
-
-**13.** Achene glabrous, 2–3 mm long → couplet **14**
-
-**13′.** Achene pilose, 2.2–3.5 mm long → couplet **15**
-
-**14.** Hypogynium distinctly trilobed → [[Scleria_naumanniana\|*S. naumanniana*]]
-
-**14′.** Hypogynium not distinctly lobed → [[Scleria_baroni-clarkei\|*S. baroni-clarkei*]]
-
-**15.** Peduncles of lateral branches short, erect, not exceeding or barely exceeding the sheaths; achene globose with tufts of long hairs particularly toward the base; hypogynium with 3 stiff rounded lobes → [[Scleria_melaleuca\|*S. melaleuca*]]
-
-**15′.** Peduncles of lateral branches long, pendulous, 1–30 cm; hypogynium poorly distinct or with 3 fine lobes → couplet **16**
-
-**16.** Hypogynium poorly distinct; achene almost smooth → [[Scleria_lagoensis\|*S. lagoensis*]]
-
-**16′.** Hypogynium trilobed; achene distinctly or faintly lacunate → couplet **17**
-
-**17.** Lateral panicles solitary or rarely 2; hypogynium without annulus, with 3 prominent lobes → [[Scleria_achtenii\|*S. achtenii*]]
-
-**17′.** Lateral panicles 2–3; hypogynium with an orange annulus, lobes reduced to points 0.1–0.3 mm long → [[Scleria_aurantiaca\|*S. aurantiaca*]]
-
-**18.** Perennial plant; glomerate pendulous → couplet **19**
-
-**18′.** Annual plant; glomerate erect, spreading or pendulous → couplet **20**
-
-**19.** Plant with slender stolons each producing a new stem at their apex; numerous basal leaves, with well-developed blade → [[Scleria_catophylla\|*S. catophylla*]]
-
-**19′.** Plant with woody rhizome producing a row of stems; basal leaves without blade or with very reduced blade → [[Scleria_distans\|*S. distans*]]
-
-**20.** Glomerate erect or spreading; achene 1.2–1.8 mm long → [[Scleria_interrupta\|*S. interrupta*]]
-
-**20′.** Glomerate pendulous; achene 3.7–4.2 mm long → [[Scleria_melanotricha\|*S. melanotricha*]]
+- **1.** Bracts foliacious; inflorescence terminal and lateral paniculate; hypogynium often prominent → couplet **2**
+- **1′.** Bracts non-foliacious; inflorescence terminal composed of a "spike" bearing several spikelets glomerate; hypogynium absent (sect. 1. Hypoporum) → couplet **18**
+  - **2.** Hypogynium ciliate on upper margin, at maturity, enlarged into a cup wider than the achene (sect. 3. Ophryoscleria) → couplet **3**
+  - **2′.** Hypogynium glabrous on upper margin, never wider than the achene, often trilobed or reduced (sect. 2. Scleria) → couplet **5**
+    - **3.** Achene verrucous except at apex → [[Scleria_verrucosa\|*S. verrucosa*]]
+    - **3′.** Achene smooth and shiny, not verrucous → couplet **4**
+      - **4.** Achene 3.5–5 mm wide, apex often gradually acute → S. racemosa subsp. racemosa
+      - **4′.** Achene 2.5–3.5 mm wide, apex truncate or rounded → [[Scleria_vogelii\|*S. vogelii*]]
+        - **5.** Perennial plant; male spikelet 8–13 mm long; female glume 10–14 mm long; achene 3.7–4.8 mm long; hypogynium reduced → couplet **6**
+        - **5′.** Perennial or annual plant; male spikelet 4–8 mm long; female glume 2–8 mm long; achene at most 4 mm long; hypogynium trilobed or reduced → couplet **7**
+          - **6.** Blade 7–18 mm wide; lateral panicles rather dense, often pendulous on peduncles reaching 25 cm long → [[Scleria_melanomphala\|*S. melanomphala*]]
+          - **6′.** Blade 2–6 mm wide; lateral panicles lax, barely exceeding the sheaths → [[Scleria_induta\|*S. induta*]]
+            - **7.** At least some bisexual spikelets; blade 6–23 mm wide → couplet **8**
+            - **7′.** All spikelets unisexual; blade less than 12 mm wide → couplet **9**
+              - **8.** Blade 10–23 mm wide, scarcely scabrous; achene 3 mm long, ovate, smooth and shiny; in shallow water → [[Scleria_lacustris\|*S. lacustris*]]
+              - **8′.** Blade 6–8 mm wide, distinctly scabrous at least on main nerve; achene 2.5 mm long, globose, verrucous; in humid forests → [[Scleria_goossensii\|*S. goossensii*]]
+                - **9.** Annual plant; achene approximately 2.5 × 2 mm, finely glandular with prominent lacunae; hypogynium trilobed → [[Scleria_mikawana\|*S. mikawana*]]
+                - **9′.** Perennial plant with well-developed rhizome; achene without glands; hypogynium lobed or not → couplet **10**
+                  - **10.** Male spikelets incurved, 7–9 mm long; achene longitudinally striate → [[Scleria_spiciformis\|*S. spiciformis*]]
+                  - **10′.** Male spikelets straight, 4–9 mm long; achene not longitudinally striate → couplet **11**
+                    - **11.** Blade distinctly scabrous; plant often climbing on trees; achene 3–3.5 mm long, violaceous or rarely white, finely pilose → [[Scleria_boivinii\|*S. boivinii*]]
+                    - **11′.** Blade slightly or non-scabrous; plant erect or decumbent; achene 2–3.5 mm long, violaceous or white, pilose or glabrous → couplet **12**
+                      - **12.** Achene white and smooth with dark blue-violet apex, glabrous; hypogynium with 3 thick lobes, square with rounded angles → [[Scleria_iostephana\|*S. iostephana*]]
+                      - **12′.** Achene white or greyish-brown, without dark apex or, otherwise, pilose; hypogynium annular or sometimes, if achene pilose, then 3-lobed → couplet **13**
+                        - **13.** Achene glabrous, 2–3 mm long → couplet **14**
+                        - **13′.** Achene pilose, 2.2–3.5 mm long → couplet **15**
+                        - **14.** Hypogynium distinctly trilobed → [[Scleria_naumanniana\|*S. naumanniana*]]
+                        - **14′.** Hypogynium not distinctly lobed → [[Scleria_baroni-clarkei\|*S. baroni-clarkei*]]
+                        - **15.** Peduncles of lateral branches short, erect, not exceeding or barely exceeding the sheaths; achene globose with tufts of long hairs particularly toward the base; hypogynium with 3 stiff rounded lobes → [[Scleria_melaleuca\|*S. melaleuca*]]
+                        - **15′.** Peduncles of lateral branches long, pendulous, 1–30 cm; hypogynium poorly distinct or with 3 fine lobes → couplet **16**
+                        - **16.** Hypogynium poorly distinct; achene almost smooth → [[Scleria_lagoensis\|*S. lagoensis*]]
+                        - **16′.** Hypogynium trilobed; achene distinctly or faintly lacunate → couplet **17**
+                        - **17.** Lateral panicles solitary or rarely 2; hypogynium without annulus, with 3 prominent lobes → [[Scleria_achtenii\|*S. achtenii*]]
+                        - **17′.** Lateral panicles 2–3; hypogynium with an orange annulus, lobes reduced to points 0.1–0.3 mm long → [[Scleria_aurantiaca\|*S. aurantiaca*]]
+                        - **18.** Perennial plant; glomerate pendulous → couplet **19**
+                        - **18′.** Annual plant; glomerate erect, spreading or pendulous → couplet **20**
+                        - **19.** Plant with slender stolons each producing a new stem at their apex; numerous basal leaves, with well-developed blade → [[Scleria_catophylla\|*S. catophylla*]]
+                        - **19′.** Plant with woody rhizome producing a row of stems; basal leaves without blade or with very reduced blade → [[Scleria_distans\|*S. distans*]]
+                        - **20.** Glomerate erect or spreading; achene 1.2–1.8 mm long → [[Scleria_interrupta\|*S. interrupta*]]
+                        - **20′.** Glomerate pendulous; achene 3.7–4.2 mm long → [[Scleria_melanotricha\|*S. melanotricha*]]
 
 ## Species in region
 

@@ -33,13 +33,10 @@ Bibliography
 
 ## Key to the species
 
-**1.** Spikes grouped by (2–)3 to 7 ± in umbel; leaf with petiole 6.5–30 cm and suborbicular blade, with 11 to 15 palmate nerves; stigmas minute → [[Piper_umbellatum\|*P. umbellatum*]]
-
-**1′.** Spikes or racemes solitary; leaf with petiole reaching 5 cm and ovate-elliptic blade, with 3 to 9(–11) palmate nerves; stigmas recurved or subrecurved → couplet **2**
-
-**2.** Dioecious liana; leaf with cuneate-rounded base, acuminate to cuspidate apex; flowers unisexual, in racemes; mature berries pedicellate; ovary generally with 3 stigmas → [[Piper_guineense\|*P. guineense*]]
-
-**2′.** Shrub or undershrub, sometimes somewhat lianescent, lacking adventitious roots; leaf with rounded-cordate base, shortly acuminate apex; flowers bisexual, in spikes; mature berries sessile; ovary with 2 stigmas → [[Piper_capense\|*P. capense*]]
+- **1.** Spikes grouped by (2–)3 to 7 ± in umbel; leaf with petiole 6.5–30 cm and suborbicular blade, with 11 to 15 palmate nerves; stigmas minute → [[Piper_umbellatum\|*P. umbellatum*]]
+- **1′.** Spikes or racemes solitary; leaf with petiole reaching 5 cm and ovate-elliptic blade, with 3 to 9(–11) palmate nerves; stigmas recurved or subrecurved → couplet **2**
+  - **2.** Dioecious liana; leaf with cuneate-rounded base, acuminate to cuspidate apex; flowers unisexual, in racemes; mature berries pedicellate; ovary generally with 3 stigmas → [[Piper_guineense\|*P. guineense*]]
+  - **2′.** Shrub or undershrub, sometimes somewhat lianescent, lacking adventitious roots; leaf with rounded-cordate base, shortly acuminate apex; flowers bisexual, in spikes; mature berries sessile; ovary with 2 stigmas → [[Piper_capense\|*P. capense*]]
 
 ## Species in region
 

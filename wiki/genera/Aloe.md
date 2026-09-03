@@ -29,9 +29,8 @@ B: Carter (1994), Carter et al. (2011), Newton (2001), Raponda-Walker &
 
 ## Key to the species
 
-**1.** Plant base enlarged and forming a bulb; leaves thin, uniformly green, desiccated in the dry season, with ± colorless sap, with whitish teeth; inflorescence often with 3–5 branches; floral bracts > 10 mm in length; pedicel > 20 mm, thickened in fruit → [[Aloe_buettneri\|*A. buettneri*]]
-
-**1′.** Plant base not enlarged; leaves fleshy, glaucous green, not desiccated in the dry season, with purple sap, with teeth tinged brown; inflorescence with up to 10 branches; floral bracts < 7 mm in length; pedicel < 5 mm, not thickened in fruit → [[Aloe_schweinfurthii\|*A. schweinfurthii*]]
+- **1.** Plant base enlarged and forming a bulb; leaves thin, uniformly green, desiccated in the dry season, with ± colorless sap, with whitish teeth; inflorescence often with 3–5 branches; floral bracts > 10 mm in length; pedicel > 20 mm, thickened in fruit → [[Aloe_buettneri\|*A. buettneri*]]
+- **1′.** Plant base not enlarged; leaves fleshy, glaucous green, not desiccated in the dry season, with purple sap, with teeth tinged brown; inflorescence with up to 10 branches; floral bracts < 7 mm in length; pedicel < 5 mm, not thickened in fruit → [[Aloe_schweinfurthii\|*A. schweinfurthii*]]
 
 ## Species in region
 

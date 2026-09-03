@@ -31,13 +31,10 @@ Bibliography
 
 ## Key to the species
 
-**1.** Branchlet with entire stipules; leaf blade (3–)4–20(–26) × (1.5–)3–8 cm and 4–10(–12) pairs of lateral veins → couplet **2**
-
-**1′.** Branchlet with laciniate stipules; leaf blade (9–)20–28(–31) × (2–)7–10 cm and 10–18 pairs of lateral veins → [[Antidesma_laciniatum\|*A. laciniatum*]]
-
-**2.** Leaf blade 4–8(–11) × (2–)3–4(–6) cm, apex obtuse to acute or very briefly acuminate (≤ 5 mm); female inflorescence 3–5 cm in length, 3–7 cm in fruit → [[Antidesma_venosum\|*A. venosum*]]
-
-**2′.** Leaf blade (3–)7–20(–26) × (1.5–)4–8 cm, with apex acuminate over (0.5–)1–2.5 cm; female inflorescence 5–11 cm in length, (10–)15–30 cm in fruit → [[Antidesma_vogelianum\|*A. vogelianum*]]
+- **1.** Branchlet with entire stipules; leaf blade (3–)4–20(–26) × (1.5–)3–8 cm and 4–10(–12) pairs of lateral veins → couplet **2**
+- **1′.** Branchlet with laciniate stipules; leaf blade (9–)20–28(–31) × (2–)7–10 cm and 10–18 pairs of lateral veins → [[Antidesma_laciniatum\|*A. laciniatum*]]
+  - **2.** Leaf blade 4–8(–11) × (2–)3–4(–6) cm, apex obtuse to acute or very briefly acuminate (≤ 5 mm); female inflorescence 3–5 cm in length, 3–7 cm in fruit → [[Antidesma_venosum\|*A. venosum*]]
+  - **2′.** Leaf blade (3–)7–20(–26) × (1.5–)4–8 cm, with apex acuminate over (0.5–)1–2.5 cm; female inflorescence 5–11 cm in length, (10–)15–30 cm in fruit → [[Antidesma_vogelianum\|*A. vogelianum*]]
 
 ## Species in region
 

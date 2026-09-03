@@ -29,33 +29,20 @@ Bourobou et al. (2016), Dransfield (1986, 2010), Dransfield et al. (2008), Faye 
 
 ## Key to the species
 
-**1.** Leaflets irregularly distributed along the rachis, grouped by 2 or 3 → [[Eremospatha_quinquecostulata\|*E. quinquecostulata*]]
-
-**1′.** Leaflets regularly distributed along the rachis, solitary → couplet **2**
-
-**2.** Knee clearly present below the insertion of the petiole → couplet **3**
-
-**2′.** Knee absent → couplet **6**
-
-**3.** Ochrea V-shaped, splitting longitudinally; leaflets rhomboidal to trapezoidal → [[Eremospatha_wendlandiana\|*E. wendlandiana*]]
-
-**3′.** Ochrea entire, with horizontal or oblique apex → couplet **4**
-
-**4.** Leaflets fewer than 20 pairs; cirrus furnished with small spines → couplet **5**
-
-**4′.** Leaflets more than 20 pairs; cirrus without spines → [[Eremospatha_laurentii\|*E. laurentii*]]
-
-**5.** Leaflets obovate-elliptic; inflorescence glabrous → [[Eremospatha_hookeri\|*E. hookeri*]]
-
-**5′.** Leaflets obovate to suborbicular; inflorescence with dense brown pubescence → [[Eremospatha_cabrae\|*E. cabrae*]]
-
-**6.** Leaflets with apex narrowly and broadly premorse (as if cut with teeth) → couplet **7**
-
-**6′.** Leaflets with entire apex, apiculate → [[Eremospatha_cuspidata\|*E. cuspidata*]]
-
-**7.** Cirrus furnished with small spines → [[Eremospatha_haullevilleana\|*E. haullevilleana*]]
-
-**7′.** Cirrus without spines → [[Eremospatha_macrocarpa\|*E. macrocarpa*]]
+- **1.** Leaflets irregularly distributed along the rachis, grouped by 2 or 3 → [[Eremospatha_quinquecostulata\|*E. quinquecostulata*]]
+- **1′.** Leaflets regularly distributed along the rachis, solitary → couplet **2**
+  - **2.** Knee clearly present below the insertion of the petiole → couplet **3**
+  - **2′.** Knee absent → couplet **6**
+    - **3.** Ochrea V-shaped, splitting longitudinally; leaflets rhomboidal to trapezoidal → [[Eremospatha_wendlandiana\|*E. wendlandiana*]]
+    - **3′.** Ochrea entire, with horizontal or oblique apex → couplet **4**
+      - **4.** Leaflets fewer than 20 pairs; cirrus furnished with small spines → couplet **5**
+      - **4′.** Leaflets more than 20 pairs; cirrus without spines → [[Eremospatha_laurentii\|*E. laurentii*]]
+        - **5.** Leaflets obovate-elliptic; inflorescence glabrous → [[Eremospatha_hookeri\|*E. hookeri*]]
+        - **5′.** Leaflets obovate to suborbicular; inflorescence with dense brown pubescence → [[Eremospatha_cabrae\|*E. cabrae*]]
+          - **6.** Leaflets with apex narrowly and broadly premorse (as if cut with teeth) → couplet **7**
+          - **6′.** Leaflets with entire apex, apiculate → [[Eremospatha_cuspidata\|*E. cuspidata*]]
+            - **7.** Cirrus furnished with small spines → [[Eremospatha_haullevilleana\|*E. haullevilleana*]]
+            - **7′.** Cirrus without spines → [[Eremospatha_macrocarpa\|*E. macrocarpa*]]
 
 ## Species in region
 

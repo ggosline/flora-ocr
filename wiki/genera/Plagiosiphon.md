@@ -35,7 +35,7 @@ Trees of moderate interest for timber exploitation.
 
 ## Key to the species
 
-**1′.** Leaves bijugate or unijugate; bracteoles suborbicular → …… P. discifer.
+- **1′.** Leaves bijugate or unijugate; bracteoles suborbicular → …… P. discifer.
 
 ## Species in region
 

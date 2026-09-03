@@ -31,9 +31,8 @@ Bibliography: Fantz (1980), Mackinder et al. (20010), Pellegrin (1949), Verdcour
 
 ## Key to the species
 
-**1.** Leaflets 5 to 7; stipels 1–2 mm long; flowers solitary, with corolla violaceous to blue or rarely white; pod flattened, linear to falciform, ± smooth, acute, 6–12 cm long → [[Clitoria_ternatea\|*C. ternatea*]]
-
-**1′.** Leaflets 3; stipels 3–5 mm long; flowers 1 to 4 per peduncle, with corolla white marked with purple; pod inflated, ± straight, oblong-elliptic, with longitudinal ribs, with aristate apex, 3–4 cm long → [[Clitoria_falcata\|*C. falcata*]]
+- **1.** Leaflets 5 to 7; stipels 1–2 mm long; flowers solitary, with corolla violaceous to blue or rarely white; pod flattened, linear to falciform, ± smooth, acute, 6–12 cm long → [[Clitoria_ternatea\|*C. ternatea*]]
+- **1′.** Leaflets 3; stipels 3–5 mm long; flowers 1 to 4 per peduncle, with corolla white marked with purple; pod inflated, ± straight, oblong-elliptic, with longitudinal ribs, with aristate apex, 3–4 cm long → [[Clitoria_falcata\|*C. falcata*]]
 
 ## Species in region
 

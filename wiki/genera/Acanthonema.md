@@ -37,9 +37,8 @@ The single leaf is extremely variable in size and shape; it is probably greatly 
 
 ## Key to the species
 
-**1.** Corolla 20–30 mm long, weakly inflated in the lower part of the upper portion and curved upward just below the opening → [[Acanthonema_strigosum\|*A. strigosum*]]
-
-**1′.** Corolla 10–13 mm long, weakly inflated in the lower part of the upper portion, but more or less straight → [[Acanthonema_diandrum\|*A. diandrum*]]
+- **1.** Corolla 20–30 mm long, weakly inflated in the lower part of the upper portion and curved upward just below the opening → [[Acanthonema_strigosum\|*A. strigosum*]]
+- **1′.** Corolla 10–13 mm long, weakly inflated in the lower part of the upper portion, but more or less straight → [[Acanthonema_diandrum\|*A. diandrum*]]
 
 ## Species in region
 

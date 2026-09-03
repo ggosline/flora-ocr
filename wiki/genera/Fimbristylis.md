@@ -29,63 +29,35 @@ Bibliography: Goetghebeur & Coudijzer (1984a), Haines & Lye (1983), Hoenselaar e
 
 ## Key to the species
 
-**1.** Annual herb; glumes with the central nerve prolonged by a long mucro (at least half the length of the glume) → couplet **2**
-
-**1′.** Annual or perennial herb; glumes without or with a short mucro → couplet **3**
-
-**2.** Glume with glabrous awn; style without fringe; achene cylindric, about
-
-**0.** 2 mm wide → [[Fimbristylis_dipsacea\|*F. dipsacea*]]
-
-**0′.** Glume with scabrous awn; style fringed; achene obovoid, about 0.5 mm wide → [[Fimbristylis_squarrosa\|*F. squarrosa*]]
-
-**3.** Inflorescence formed of a solitary spikelet (rarely 2) → [[Fimbristylis_schoenoides\|*F. schoenoides*]]
-
-**3′.** Inflorescence in anthela, loose or dense, of 3‒100 (or +) spikelets → couplet **4**
-
-**4.** Spikelets grouped in a sessile fascicle and several pedunculate ones → [[Fimbristylis_cymosa\|*F. cymosa*]]
-
-**4′.** Spikelets separate in a loose anthela or gathered in a single group → couplet **5**
-
-**5.** Style with 3 stigmas; style not compressed; achene triangular to rounded → couplet **6**
-
-**5′.** Style with 2 stigmas; style compressed, often ciliate; achene biconvex → couplet **11**
-
-**6.** Anthela with more than 100 spikelets; plant more than 120 cm tall → [[Fimbristylis_splendida\|*F. splendida*]]
-
-**6′.** Anthela with fewer than 100 spikelets; plant usually less than 100 cm tall → couplet **7**
-
-**7.** Stem distinctly compressed below the inflorescence → couplet **8**
-
-**7′.** Stem rounded or angular below the inflorescence → couplet **9**
-
-**8.** Glumes 2‒3 mm long; spikelet 1.5‒2.5 mm wide; root system robust → [[Fimbristylis_complanata\|*F. complanata*]]
-
-**8′.** Glumes 1‒1.5 mm long; spikelet less than 1.2 mm wide; roots slender → [[Fimbristylis_thonningiana\|*F. thonningiana*]]
-
-**9.** Rhizome thick; base of plant covered with twisted fibres → [[Fimbristylis_scabrida\|*F. scabrida*]]
-
-**9′.** Root system very slender; base of plant without such fibres → couplet **10**
-
-**10.** Spikelets nearly globose; glumes obtuse → [[Fimbristylis_littoralis\|*F. littoralis*]]
-
-**10′.** Spikelets ovoid to lanceolate; glumes shortly mucronate → [[Fimbristylis_quinquangularis\|*F. quinquangularis*]]
-
-**11.** Apex of glumes covered with short white hairs; saline habitats near the sea → [[Fimbristylis_ferruginea\|*F. ferruginea*]]
-
-**11′.** Glumes glabrous except the margins → couplet **12**
-
-**12.** Perennial herb; glumes 4‒5 mm long; achene 1.4 mm wide, smooth to weakly striate → [[Fimbristylis_gabonica\|*F. gabonica*]]
-
-**12′.** Perennial or annual herb; glumes 2‒3.5 mm long; achene 0.4‒1 mm wide, with 5‒20 prominent longitudinal furrows on each side of the achene → couplet **13**
-
-**13.** Spikelets 3‒4 mm wide; achene 1.2‒1.7 × 1.2‒1.4 mm, with 15-20 longitudinal furrows on each side → [[Fimbristylis_pilosa\|*F. pilosa*]]
-
-**13′.** Spikelets less than 3 mm wide; achene 0.6‒1.2 × 0.4‒1.0 mm, with 5‒10 longitudinal furrows on each side → couplet **14**
-
-**14.** Spikelets 1.6‒3 mm wide; root system slender or robust; achene 0.7‒1.2 × 0.5‒1 mm, with 5‒10 longitudinal furrows on each side → [[Fimbristylis_dichotoma\|*F. dichotoma*]]
-
-**14′.** Spikelets 1.5 mm wide at most; root system slender; achene 0.6‒0.7 × 0.4‒0.5 mm, with 5-7 longitudinal furrows on each side → [[Fimbristylis_bisumbellata\|*F. bisumbellata*]]
+- **1.** Annual herb; glumes with the central nerve prolonged by a long mucro (at least half the length of the glume) → couplet **2**
+- **1′.** Annual or perennial herb; glumes without or with a short mucro → couplet **3**
+  - **2.** Glume with glabrous awn; style without fringe; achene cylindric, about
+    - **0.** 2 mm wide → [[Fimbristylis_dipsacea\|*F. dipsacea*]]
+    - **0′.** Glume with scabrous awn; style fringed; achene obovoid, about 0.5 mm wide → [[Fimbristylis_squarrosa\|*F. squarrosa*]]
+      - **3.** Inflorescence formed of a solitary spikelet (rarely 2) → [[Fimbristylis_schoenoides\|*F. schoenoides*]]
+      - **3′.** Inflorescence in anthela, loose or dense, of 3‒100 (or +) spikelets → couplet **4**
+        - **4.** Spikelets grouped in a sessile fascicle and several pedunculate ones → [[Fimbristylis_cymosa\|*F. cymosa*]]
+        - **4′.** Spikelets separate in a loose anthela or gathered in a single group → couplet **5**
+          - **5.** Style with 3 stigmas; style not compressed; achene triangular to rounded → couplet **6**
+          - **5′.** Style with 2 stigmas; style compressed, often ciliate; achene biconvex → couplet **11**
+            - **6.** Anthela with more than 100 spikelets; plant more than 120 cm tall → [[Fimbristylis_splendida\|*F. splendida*]]
+            - **6′.** Anthela with fewer than 100 spikelets; plant usually less than 100 cm tall → couplet **7**
+              - **7.** Stem distinctly compressed below the inflorescence → couplet **8**
+              - **7′.** Stem rounded or angular below the inflorescence → couplet **9**
+                - **8.** Glumes 2‒3 mm long; spikelet 1.5‒2.5 mm wide; root system robust → [[Fimbristylis_complanata\|*F. complanata*]]
+                - **8′.** Glumes 1‒1.5 mm long; spikelet less than 1.2 mm wide; roots slender → [[Fimbristylis_thonningiana\|*F. thonningiana*]]
+                  - **9.** Rhizome thick; base of plant covered with twisted fibres → [[Fimbristylis_scabrida\|*F. scabrida*]]
+                  - **9′.** Root system very slender; base of plant without such fibres → couplet **10**
+                    - **10.** Spikelets nearly globose; glumes obtuse → [[Fimbristylis_littoralis\|*F. littoralis*]]
+                    - **10′.** Spikelets ovoid to lanceolate; glumes shortly mucronate → [[Fimbristylis_quinquangularis\|*F. quinquangularis*]]
+                      - **11.** Apex of glumes covered with short white hairs; saline habitats near the sea → [[Fimbristylis_ferruginea\|*F. ferruginea*]]
+                      - **11′.** Glumes glabrous except the margins → couplet **12**
+                        - **12.** Perennial herb; glumes 4‒5 mm long; achene 1.4 mm wide, smooth to weakly striate → [[Fimbristylis_gabonica\|*F. gabonica*]]
+                        - **12′.** Perennial or annual herb; glumes 2‒3.5 mm long; achene 0.4‒1 mm wide, with 5‒20 prominent longitudinal furrows on each side of the achene → couplet **13**
+                        - **13.** Spikelets 3‒4 mm wide; achene 1.2‒1.7 × 1.2‒1.4 mm, with 15-20 longitudinal furrows on each side → [[Fimbristylis_pilosa\|*F. pilosa*]]
+                        - **13′.** Spikelets less than 3 mm wide; achene 0.6‒1.2 × 0.4‒1.0 mm, with 5‒10 longitudinal furrows on each side → couplet **14**
+                        - **14.** Spikelets 1.6‒3 mm wide; root system slender or robust; achene 0.7‒1.2 × 0.5‒1 mm, with 5‒10 longitudinal furrows on each side → [[Fimbristylis_dichotoma\|*F. dichotoma*]]
+                        - **14′.** Spikelets 1.5 mm wide at most; root system slender; achene 0.6‒0.7 × 0.4‒0.5 mm, with 5-7 longitudinal furrows on each side → [[Fimbristylis_bisumbellata\|*F. bisumbellata*]]
 
 ## Species in region
 

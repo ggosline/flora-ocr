@@ -23,13 +23,10 @@ This genus, from Africa to Fiji passing through India, comprises about twenty sp
 
 ## Key to the species
 
-**1.** Lip directed downward → [[Hetaeria_heterosepala\|*H. heterosepala*]]
-
-**1′.** Lip directed upward → couplet **2**
-
-**2.** Lower part of the lip 3–4 mm long, apical lobes 2–2.3 mm long and 0.8–1 mm wide → [[Hetaeria_mannii\|*H. mannii*]]
-
-**2′.** Lower part of the lip (4) 5–6.5 mm long, apical lobes (2.5) 3–7.5 mm long and 2–3.5 mm wide → [[Hetaeria_tetraptera\|*H. tetraptera*]]
+- **1.** Lip directed downward → [[Hetaeria_heterosepala\|*H. heterosepala*]]
+- **1′.** Lip directed upward → couplet **2**
+  - **2.** Lower part of the lip 3–4 mm long, apical lobes 2–2.3 mm long and 0.8–1 mm wide → [[Hetaeria_mannii\|*H. mannii*]]
+  - **2′.** Lower part of the lip (4) 5–6.5 mm long, apical lobes (2.5) 3–7.5 mm long and 2–3.5 mm wide → [[Hetaeria_tetraptera\|*H. tetraptera*]]
 
 ## Species in region
 

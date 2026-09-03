@@ -43,11 +43,9 @@ Bibliography
 
 ## Key to the species
 
-**1.** Corolla funnelform, more than 10 mm in length; anthers and stigmas included → [[Dipteropeltis_macrantha\|*D. macrantha*]]
-
-**1′.** Corolla campanulate, up to 8 mm in length; anthers and stigmas exsert → D. poranoides Corolla (× 3). – 4. Corolla open (× 3). – 5. Corolla, detail of exterior (× 3). – 6. Gynoecium (× 3). –
-
-**7.** Immature fruit (× 2). (1–7 : A.M. Louis et al. 1409 ). Drawing by Hans de Vries, private collection of the author (©).
+- **1.** Corolla funnelform, more than 10 mm in length; anthers and stigmas included → [[Dipteropeltis_macrantha\|*D. macrantha*]]
+- **1′.** Corolla campanulate, up to 8 mm in length; anthers and stigmas exsert → D. poranoides Corolla (× 3). – 4. Corolla open (× 3). – 5. Corolla, detail of exterior (× 3). – 6. Gynoecium (× 3). –
+  - **7.** Immature fruit (× 2). (1–7 : A.M. Louis et al. 1409 ). Drawing by Hans de Vries, private collection of the author (©).
 
 ## Species in region
 

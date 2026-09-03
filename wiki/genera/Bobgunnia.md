@@ -33,9 +33,8 @@ Bibliography: Aubréville (1968), Brummitt (2007a), Kirkbride & Wiersema (1997),
 
 ## Key to the species
 
-**1.** Leaflets 9 to 15, with acuminate blade at apex; flowers in long, many-flowered, pendant racemes; pedicel glabrous to slightly puberulent; in humid forest → [[Bobgunnia_fistuloides\|*B. fistuloides*]]
-
-**1′.** Leaflets 9 to 11, with rounded to slightly emarginate blade at apex; flowers solitary or in short, few-flowered, erect racemes; pedicel densely hairy to tomentose; in savanna or open forest (to be sought in Gabon) → B. madagascariensis (Desv.) J.H.Kirkbr. & Wiersema
+- **1.** Leaflets 9 to 15, with acuminate blade at apex; flowers in long, many-flowered, pendant racemes; pedicel glabrous to slightly puberulent; in humid forest → [[Bobgunnia_fistuloides\|*B. fistuloides*]]
+- **1′.** Leaflets 9 to 11, with rounded to slightly emarginate blade at apex; flowers solitary or in short, few-flowered, erect racemes; pedicel densely hairy to tomentose; in savanna or open forest (to be sought in Gabon) → B. madagascariensis (Desv.) J.H.Kirkbr. & Wiersema
 
 ## Species in region
 

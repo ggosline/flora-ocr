@@ -23,13 +23,10 @@ pale, globose seeds.
 
 ## Key to the species
 
-**1.** Plants with rhizomes; floral scape apparently central among the leaves; perianth segments with 5 nerves and, most often, more than 2 mm wide.
-
-**2.** Leaf base not forming a false stem; perianth tube 3-10 mm long → [[Scadoxus_cinnabarinus\|*S. cinnabarinus*]]
-
-**2′.** Leaf bases sheathing, forming a false stem more than 15 cm long; perianth tube 10-18 mm long → [[Scadoxus_pseudocaulus\|*S. pseudocaulus*]]
-
-**1′.** Plants with a bulb above a distinct rhizomatous portion; floral scape lateral with respect to the leaves; perianth segments with 3 nerves and, most often, less than 2 mm wide → [[Scadoxus_multiflorus\|*S. multiflorus*]]
+- **1.** Plants with rhizomes; floral scape apparently central among the leaves; perianth segments with 5 nerves and, most often, more than 2 mm wide.
+  - **2.** Leaf base not forming a false stem; perianth tube 3-10 mm long → [[Scadoxus_cinnabarinus\|*S. cinnabarinus*]]
+  - **2′.** Leaf bases sheathing, forming a false stem more than 15 cm long; perianth tube 10-18 mm long → [[Scadoxus_pseudocaulus\|*S. pseudocaulus*]]
+- **1′.** Plants with a bulb above a distinct rhizomatous portion; floral scape lateral with respect to the leaves; perianth segments with 3 nerves and, most often, less than 2 mm wide → [[Scadoxus_multiflorus\|*S. multiflorus*]]
 
 ## Source
 

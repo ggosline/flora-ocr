@@ -31,9 +31,8 @@ Note. — This genus from the tropics of both hemispheres is very close to Justi
 
 ## Key to the species
 
-**1′.** Inflorescence imbricate, spike-shaped, simple and uninterrupted up to 16 cm long; long peduncle reaching 18 cm
-
-**5.** A. Le-Testui.
+- **1′.** Inflorescence imbricate, spike-shaped, simple and uninterrupted up to 16 cm long; long peduncle reaching 18 cm
+  - **5.** A. Le-Testui.
 
 ## Species in region
 

@@ -31,9 +31,8 @@ B: Catarino & Martins (1997), Cook (1998), Lawalrée & Bruynseels (1981), Verdco
 
 ## Key to the species
 
-**1.** Leaves alternate, arranged along a stem; petiole not inflated; flowers solitary → [[Eichhornia_natans\|*E. natans*]]
-
-**1′.** Leaves in floating rosette; petiole inflated; flowers in spike → [[Eichhornia_crassipes\|*E. crassipes*]]
+- **1.** Leaves alternate, arranged along a stem; petiole not inflated; flowers solitary → [[Eichhornia_natans\|*E. natans*]]
+- **1′.** Leaves in floating rosette; petiole inflated; flowers in spike → [[Eichhornia_crassipes\|*E. crassipes*]]
 
 ## Species in region
 

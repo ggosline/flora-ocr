@@ -31,9 +31,8 @@ Bibliography
 
 ## Key to the species
 
-**1.** Inflorescence lax, paniculate, composed of 4 to 10 cincinni, not covered by bracts enlarged at the young stage; flower well open at maturity; leaf blade 4–13.5 × 1.5–3.3 cm; fruit ellipsoidal, gray-blue at maturity (to be sought in Gabon) → P. mannii C.B.Clarke
-
-**1′.** Inflorescence very dense, capitate-like, with numerous cincinni, enveloped by bracts enlarged at the young stage; flowers very crowded, the tepals unable to open; leaf blade 11–31 × 2.5–8(–10) cm; fruit subspherical, blue or brilliant metallic blue-black → [[Pollia_condensata\|*P. condensata*]]
+- **1.** Inflorescence lax, paniculate, composed of 4 to 10 cincinni, not covered by bracts enlarged at the young stage; flower well open at maturity; leaf blade 4–13.5 × 1.5–3.3 cm; fruit ellipsoidal, gray-blue at maturity (to be sought in Gabon) → P. mannii C.B.Clarke
+- **1′.** Inflorescence very dense, capitate-like, with numerous cincinni, enveloped by bracts enlarged at the young stage; flowers very crowded, the tepals unable to open; leaf blade 11–31 × 2.5–8(–10) cm; fruit subspherical, blue or brilliant metallic blue-black → [[Pollia_condensata\|*P. condensata*]]
 
 ## Species in region
 

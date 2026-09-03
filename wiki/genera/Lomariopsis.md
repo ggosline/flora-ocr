@@ -26,17 +26,12 @@ Africa and African islands, Siam, Indochina, Malesia, New Guinea.
 
 ## Key to the species
 
-**1.** Sterile frond always simple → [[Lomariopsis_palustris\|*L. palustris*]]
-
-**1′.** Sterile frond adult pinnate.
-
-**2.** Fertile pinnae with naked apex, caudate, approximately 5 mm long → *L. guineensis*
-
-**2′.** Fertile pinnae bearing sporangia to the non-caudate apex.
-
-**3.** Sterile pinnae with rounded bases, abruptly acuminate; rachis of fertile pinnae non-scaly → [[Lomariopsis_rossii\|*L. rossii*]]
-
-**3′.** Sterile pinnae with truncate bases; rachis of fertile pinnae scaly → [[Lomariopsis_hederacea\|*L. hederacea*]]
+- **1.** Sterile frond always simple → [[Lomariopsis_palustris\|*L. palustris*]]
+- **1′.** Sterile frond adult pinnate.
+  - **2.** Fertile pinnae with naked apex, caudate, approximately 5 mm long → *L. guineensis*
+  - **2′.** Fertile pinnae bearing sporangia to the non-caudate apex.
+    - **3.** Sterile pinnae with rounded bases, abruptly acuminate; rachis of fertile pinnae non-scaly → [[Lomariopsis_rossii\|*L. rossii*]]
+    - **3′.** Sterile pinnae with truncate bases; rachis of fertile pinnae scaly → [[Lomariopsis_hederacea\|*L. hederacea*]]
 
 ## Species in region
 

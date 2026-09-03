@@ -35,13 +35,10 @@ Bibliography
 
 ## Key to the species
 
-**1.** Lower lip of the fruiting calyx horizontal or ascending, entire, rounded at the apex and exceeding the upper lobe; calyx in fruit ≤ 2.5 mm long; annual herb; stem generally erect, sometimes rooting at the lower nodes and soon developing numerous curved-ascending lateral branches → [[Platostoma_africanum\|*P. africanum*]]
-
-**1′.** Lower lip of the fruiting calyx appressed against the upper lip, closing the throat, toothed, finely toothed or emarginate at the apex; fruiting calyx ≥ 2.5 mm long; perennial herb; stem creeping, often rooting at the lower nodes, with ascending flowering shoots → couplet **2**
-
-**2.** Leaf blade serrate to crenate, with 20 to 40 teeth; fruiting calyx funnel-shaped, with lower lip bearing 5 small teeth or lobes at the apex → [[Platostoma_denticulatum\|*P. denticulatum*]]
-
-**2′.** Leaf blade deeply crenate, almost lobed, with 10 (to 20) teeth; fruiting calyx urceolate, with lower lip emarginate to rounded with very reduced lobes → [[Platostoma_gabonense\|*P. gabonense*]]
+- **1.** Lower lip of the fruiting calyx horizontal or ascending, entire, rounded at the apex and exceeding the upper lobe; calyx in fruit ≤ 2.5 mm long; annual herb; stem generally erect, sometimes rooting at the lower nodes and soon developing numerous curved-ascending lateral branches → [[Platostoma_africanum\|*P. africanum*]]
+- **1′.** Lower lip of the fruiting calyx appressed against the upper lip, closing the throat, toothed, finely toothed or emarginate at the apex; fruiting calyx ≥ 2.5 mm long; perennial herb; stem creeping, often rooting at the lower nodes, with ascending flowering shoots → couplet **2**
+  - **2.** Leaf blade serrate to crenate, with 20 to 40 teeth; fruiting calyx funnel-shaped, with lower lip bearing 5 small teeth or lobes at the apex → [[Platostoma_denticulatum\|*P. denticulatum*]]
+  - **2′.** Leaf blade deeply crenate, almost lobed, with 10 (to 20) teeth; fruiting calyx urceolate, with lower lip emarginate to rounded with very reduced lobes → [[Platostoma_gabonense\|*P. gabonense*]]
 
 ## Species in region
 

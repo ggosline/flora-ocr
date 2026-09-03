@@ -40,28 +40,17 @@ The genus Sterculia, for which the need for a comprehensive revision is felt, co
 ## Key to the species
 
 (Sterculia and Eribroma.)
-
-**1.** Blade base rounded or obtuse, rarely cordate (in this case, no palmate basal veins).
-
-**2.** 8–16 pairs of pennate veins; leaves glabrous. Blade less than twice as long as wide; 8–12 pairs of pennate veins 1. Eribroma oblonga. Blade more than twice as long as wide; 11–16 pairs of pennate veins → for memo. Sterculia (gen.?) rhinopetala.
-
-**2′.** 3–7 pairs of pennate veins; leaves pubescent beneath.
-
-**1′.** Blade base strongly cordate; 5–9 palmate basal veins;
-
-**8.** 12 pairs of non-basal pennate veins → 2. St. bequaerti KEY TO SPECIES BY FLOWERS (Sterculia and Eribroma.)
-
-**1.** Calyx with free sepals, widely spreading, reflexed at the apex, densely velutinous on the upper surface → [[Eribroma_oblonga\|*E. oblonga*]]
-
-**1′.** Calyx campanulate; lobes more or less erect, sometimes reversed.
-
-**2.** Calyx lobes bearing near the apex and on the inner side a hairy appendage folded toward the interior; anthers subpedicellate and arranged almost regularly in two ranks for memo. Sterculia (gen.?) rhinopetala.
-
-**2′.** Lobes without appendage; anthers sessile and irregularly grouped in a spherical aggregate.
-
-**3.** Lobes united, coherent apically; external pubescence of the calyx dense → I. St. tragacantha.
-
-**3′.** Lobes erect or reversed, not coherent; external pubescence moderate or sparse → 2. St. bequaerti.
+- **1.** Blade base rounded or obtuse, rarely cordate (in this case, no palmate basal veins).
+  - **2.** 8–16 pairs of pennate veins; leaves glabrous. Blade less than twice as long as wide; 8–12 pairs of pennate veins 1. Eribroma oblonga. Blade more than twice as long as wide; 11–16 pairs of pennate veins → for memo. Sterculia (gen.?) rhinopetala.
+  - **2′.** 3–7 pairs of pennate veins; leaves pubescent beneath.
+- **1′.** Blade base strongly cordate; 5–9 palmate basal veins;
+  - **8.** 12 pairs of non-basal pennate veins → 2. St. bequaerti KEY TO SPECIES BY FLOWERS (Sterculia and Eribroma.)
+    - **1.** Calyx with free sepals, widely spreading, reflexed at the apex, densely velutinous on the upper surface → [[Eribroma_oblonga\|*E. oblonga*]]
+    - **1′.** Calyx campanulate; lobes more or less erect, sometimes reversed.
+      - **2.** Calyx lobes bearing near the apex and on the inner side a hairy appendage folded toward the interior; anthers subpedicellate and arranged almost regularly in two ranks for memo. Sterculia (gen.?) rhinopetala.
+      - **2′.** Lobes without appendage; anthers sessile and irregularly grouped in a spherical aggregate.
+        - **3.** Lobes united, coherent apically; external pubescence of the calyx dense → I. St. tragacantha.
+        - **3′.** Lobes erect or reversed, not coherent; external pubescence moderate or sparse → 2. St. bequaerti.
 
 ## Species in region
 

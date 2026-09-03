@@ -27,9 +27,8 @@ B: Fischer (1996, 2006b), Hepper (1963), Mielcarek (1996), Morawetz & Wolfe (200
 
 ## Key to the species
 
-**1.** Calyx with stipitate glands and hispid hairs; corolla with stipitate glands on the outside → [[Alectra_glandulosa\|*A. glandulosa*]]
-
-**1′.** Calyx glabrous to ciliate; corolla glabrous → [[Alectra_sessiliflora\|*A. sessiliflora*]]
+- **1.** Calyx with stipitate glands and hispid hairs; corolla with stipitate glands on the outside → [[Alectra_glandulosa\|*A. glandulosa*]]
+- **1′.** Calyx glabrous to ciliate; corolla glabrous → [[Alectra_sessiliflora\|*A. sessiliflora*]]
 
 ## Species in region
 

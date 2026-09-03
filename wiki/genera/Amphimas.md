@@ -59,13 +59,10 @@ Bibliography: Aubréville (1968), Lewis et al. (2005), Velayos et al. (2010), Wi
 
 ## Key to the species
 
-**1.** Leaflets with limb pubescent or puberulent beneath → couplet **2**
-
-**1′.** Leaflets with limb glabrous beneath → [[Amphimas_pterocarpoides\|*A. pterocarpoides*]]
-
-**2.** Stipules 10–20 mm long; stipels 3–8 mm long; leaflets with limb apex obtuse to slightly acute → [[Amphimas_ferrugineus\|*A. ferrugineus*]]
-
-**2′.** Stipules 20–25 mm long; stipels 10–20 mm long; leaflets with limb apex long-acuminate → [[Amphimas_tessmannii\|*A. tessmannii*]]
+- **1.** Leaflets with limb pubescent or puberulent beneath → couplet **2**
+- **1′.** Leaflets with limb glabrous beneath → [[Amphimas_pterocarpoides\|*A. pterocarpoides*]]
+  - **2.** Stipules 10–20 mm long; stipels 3–8 mm long; leaflets with limb apex obtuse to slightly acute → [[Amphimas_ferrugineus\|*A. ferrugineus*]]
+  - **2′.** Stipules 20–25 mm long; stipels 10–20 mm long; leaflets with limb apex long-acuminate → [[Amphimas_tessmannii\|*A. tessmannii*]]
 
 ## Species in region
 

@@ -26,9 +26,8 @@ Type: Pyrrosia chinensis Mirb.
 
 ## Key to the species
 
-**1.** Rhizome long-creeping, bearing ciliate scales; fronds very distant → [[Pyrrosia_lanceolata\|*P. lanceolata*]]
-
-**1′.** Rhizome creeping, bearing entire scales → [[Pyrrosia_mechowii\|*P. mechowii*]]
+- **1.** Rhizome long-creeping, bearing ciliate scales; fronds very distant → [[Pyrrosia_lanceolata\|*P. lanceolata*]]
+- **1′.** Rhizome creeping, bearing entire scales → [[Pyrrosia_mechowii\|*P. mechowii*]]
 
 ## Species in region
 

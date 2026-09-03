@@ -42,21 +42,14 @@ Note. – The discovery of the genus Campylostemon is at the origin of the merge
 
 ## Key to the species
 
-**1.** Leaves at once large, coriaceous and entire; large and vigorous cymes; acumen small, less than 1 cm; fine veins apparent and flabellate; midvein very weakly prominent above when dry; stigma lobes flattened in bud → [[Campylostemon_mitophorum\|*C. mitophorum*]]
-
-**1′.** Leaves rather thin, often dentate or paucidentate; acumen medium or large; fine veins reticulate, most often clearly visible; midvein distinctly prominent above when dry; stigma lobes ± erect in bud.
-
-**2.** Bracts at the apex of the cyme peduncle 3-4 mm long and cyme peduncle 4-winged; leaves ± lanceolate, often rostrate, often somewhat laterally curved → 1 bis. C. angolense.
-
-**2′.** Bracts at the apex of the peduncle 2(-3) mm long; peduncle quadrangular in cross-section.
-
-**3.** Petals subchartaceous oblong reaching 2.5 mm in length; cyme peduncles not very robust, equal to or slightly longer than the petioles; fewer than 10 ovules per locule.
-
-**4.** Leaves often olivaceous when dry and dentate, with fine venules clearly visible; blade most often 6-13 cm in length
-
-**4′.** Leaves often brownish when dry, scarcely dentate, with very fine indistinct veins; blade often 3.5-9 cm in length → *C. heaguertii*
-
-**3′.** Petals rather thin, subspatulate, 3-4 mm long; inflorescence peduncles robust, 2 to 4 times longer than the petioles; 14-16 ovules per locule → C. laurentii. Note. – Numerous differences, sometimes subtle and fairly difficult to observe, are expressed in the figures of plates 75 and 76. The constancy of these characters and their specific value remain to be defined to render their use desirable in a dichotomous key.
+- **1.** Leaves at once large, coriaceous and entire; large and vigorous cymes; acumen small, less than 1 cm; fine veins apparent and flabellate; midvein very weakly prominent above when dry; stigma lobes flattened in bud → [[Campylostemon_mitophorum\|*C. mitophorum*]]
+- **1′.** Leaves rather thin, often dentate or paucidentate; acumen medium or large; fine veins reticulate, most often clearly visible; midvein distinctly prominent above when dry; stigma lobes ± erect in bud.
+  - **2.** Bracts at the apex of the cyme peduncle 3-4 mm long and cyme peduncle 4-winged; leaves ± lanceolate, often rostrate, often somewhat laterally curved → 1 bis. C. angolense.
+  - **2′.** Bracts at the apex of the peduncle 2(-3) mm long; peduncle quadrangular in cross-section.
+    - **3.** Petals subchartaceous oblong reaching 2.5 mm in length; cyme peduncles not very robust, equal to or slightly longer than the petioles; fewer than 10 ovules per locule.
+      - **4.** Leaves often olivaceous when dry and dentate, with fine venules clearly visible; blade most often 6-13 cm in length
+      - **4′.** Leaves often brownish when dry, scarcely dentate, with very fine indistinct veins; blade often 3.5-9 cm in length → *C. heaguertii*
+    - **3′.** Petals rather thin, subspatulate, 3-4 mm long; inflorescence peduncles robust, 2 to 4 times longer than the petioles; 14-16 ovules per locule → C. laurentii. Note. – Numerous differences, sometimes subtle and fairly difficult to observe, are expressed in the figures of plates 75 and 76. The constancy of these characters and their specific value remain to be defined to render their use desirable in a dichotomous key.
 
 ## Species in region
 

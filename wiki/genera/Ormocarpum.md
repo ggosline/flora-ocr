@@ -35,17 +35,12 @@ B: Gillett (1966, 1971b), Léonard (1954a, 1954b), Lewis et al. (2005), Pellegri
 
 ## Key to the species
 
-**1.** Leaflets (7–)13 to 23, with blade 1–2.5(–5) cm in length, apex obtuse to emarginate → O. sennoides subsp. hispidum
-
-**1′.** Leaflets 1 to 15, with blade 4–10 cm in length, apex acuminate → couplet **2**
-
-**2.** Leaflets 1(–3) ; pod with articles 1.5–2.5 × 0.6–0.9 mm, glabrous, ± verrucose → O. verrucosum var. verrucosum
-
-**2′.** Leaflets 5 to 15 ; pod with articles 1–2 × 0.5–0.6 cm, sutures bearing glandular hairs with swollen base, non or sparsely verrucose → couplet **3**
-
-**3.** Leaflets 5 to 7(–9), with blade 5–12 × 2.5–5 cm ; pod articles 1–1.3 cm in length → [[Ormocarpum_megalophyllum\|*O. megalophyllum*]]
-
-**3′.** Leaflets (5–)7 to 15, with blade 4–7 × 1.5–3 cm ; pod articles 1.8–2 cm in length → [[Ormocarpum_klainei\|*O. klainei*]]
+- **1.** Leaflets (7–)13 to 23, with blade 1–2.5(–5) cm in length, apex obtuse to emarginate → O. sennoides subsp. hispidum
+- **1′.** Leaflets 1 to 15, with blade 4–10 cm in length, apex acuminate → couplet **2**
+  - **2.** Leaflets 1(–3) ; pod with articles 1.5–2.5 × 0.6–0.9 mm, glabrous, ± verrucose → O. verrucosum var. verrucosum
+  - **2′.** Leaflets 5 to 15 ; pod with articles 1–2 × 0.5–0.6 cm, sutures bearing glandular hairs with swollen base, non or sparsely verrucose → couplet **3**
+    - **3.** Leaflets 5 to 7(–9), with blade 5–12 × 2.5–5 cm ; pod articles 1–1.3 cm in length → [[Ormocarpum_megalophyllum\|*O. megalophyllum*]]
+    - **3′.** Leaflets (5–)7 to 15, with blade 4–7 × 1.5–3 cm ; pod articles 1.8–2 cm in length → [[Ormocarpum_klainei\|*O. klainei*]]
 
 ## Species in region
 

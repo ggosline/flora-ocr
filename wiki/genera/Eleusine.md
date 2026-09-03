@@ -23,9 +23,8 @@ This genus of little importance comprises half a dozen species, two of which are
 
 ## Key to the species
 
-**1.** Racemes slender, less than 1 cm wide, straight, 2.5 to 10 cm long or more; lemmas lanceolate acuminate; ruderal plant very common → [[Eleusine_indica\|*E. indica*]]
-
-**1′.** Racemes thick, 1 cm wide, straight or slightly curved, about 5 cm long; lemmas obtuse; formerly cultivated plant, doubtless rare today → [[Eleusine_coracana\|*E. coracana*]]
+- **1.** Racemes slender, less than 1 cm wide, straight, 2.5 to 10 cm long or more; lemmas lanceolate acuminate; ruderal plant very common → [[Eleusine_indica\|*E. indica*]]
+- **1′.** Racemes thick, 1 cm wide, straight or slightly curved, about 5 cm long; lemmas obtuse; formerly cultivated plant, doubtless rare today → [[Eleusine_coracana\|*E. coracana*]]
 
 ## Species in region
 

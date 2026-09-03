@@ -30,18 +30,12 @@ BIBLIOGRAPHY: Beentje (2021), Endress et al. (2019), Vonk (1989).
 ## Key to the species
 
 Note: It is still very difficult to identify specimens of Orthopichonia in fruit, particularly when they are immature. This is the reason why it is not possible to identify all fertile specimens of Orthopichonia from Gabon.
-
-**1.** Head of the bud broadly rounded and rounded → couplet **2**
-
-**1′.** Head of the mature bud attenuate and obtuse → couplet **3**
-
-**2.** Mature bud 7.5–13 mm long; corolla tube 4.5–7 mm long; fruit ± globose, often with base resembling a stipe, smooth or slightly verrucose → [[Orthopichonia_barteri\|*O. barteri*]]
-
-**2′.** Mature bud 13.5–19 mm long; corolla tube 9–15 mm long; fruit generally pyriform, strongly verrucose → [[Orthopichonia_cirrhosa\|*O. cirrhosa*]]
-
-**3.** Corolla tube 4.7–6 mm long; petiole 11–22 mm → [[Orthopichonia_seretii\|*O. seretii*]]
-
-**3′.** Corolla tube 7.5–16 mm long; petiole 5–13 mm → *O. visciflua*
+- **1.** Head of the bud broadly rounded and rounded → couplet **2**
+- **1′.** Head of the mature bud attenuate and obtuse → couplet **3**
+  - **2.** Mature bud 7.5–13 mm long; corolla tube 4.5–7 mm long; fruit ± globose, often with base resembling a stipe, smooth or slightly verrucose → [[Orthopichonia_barteri\|*O. barteri*]]
+  - **2′.** Mature bud 13.5–19 mm long; corolla tube 9–15 mm long; fruit generally pyriform, strongly verrucose → [[Orthopichonia_cirrhosa\|*O. cirrhosa*]]
+    - **3.** Corolla tube 4.7–6 mm long; petiole 11–22 mm → [[Orthopichonia_seretii\|*O. seretii*]]
+    - **3′.** Corolla tube 7.5–16 mm long; petiole 5–13 mm → *O. visciflua*
 
 ## Species in region
 

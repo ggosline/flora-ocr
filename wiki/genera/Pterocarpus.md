@@ -31,25 +31,16 @@ Bibliography: Hauman (1954d), Lewis et al. (2005), Pellegrin (1949), Polhill (19
 
 ## Key to the species
 
-**1.** Branches, peduncles, center of the pod and base of leaflets spiny (to be searched for in Gabon) → P. osun Craib
-
-**1′.** Tree without spines on these structures → couplet **2**
-
-**2.** Leaflets (9–)11 to 15, with blade (3.5–)5–10 × 2.5–4.5 cm; pod ± orbicular,
-
-**5.** 9 cm in diameter, papyraceous → [[Pterocarpus_soyauxii\|*P. soyauxii*]]
-
-**5′.** Leaflets 5 to 9, with blade 4–20 × 2–8 cm; pod ± orbicular or falcate, 2.5–4.5 or 8–14 cm in diameter, papyraceous to woody → couplet **3**
-
-**3.** Leaflets with blade 9–20 × 4–8 cm; stipules up to 1 cm in length; pod orbicular, 8–14 cm in diameter; bracts persistent, lanceolate → P. mildbraedii subsp. mildbraedii
-
-**3′.** Leaflets with blade 4–13 × 2–6.5 cm; stipules up to 2(–3) cm in length; pod falcate to oblong and 11.5–13.5 cm in length or orbicular and 2.5–4.5 cm in diameter; bracts filiform or minute, caducous or persistent → couplet **4**
-
-**4.** Leaflets with blade 5–13 × 3–6.5 cm; petals bright yellow to orange, standard with blade 10–12 mm in length; pod orbicular, 2.5–4.5 cm in diameter, with convex center, ± 2 cm in diameter and narrow wing → *P. santalinoides*
-
-**4′.** Leaflets with blade 4–8 × 2–3 cm; petals yellow with red keel and base of standard, standard with blade 7–8 mm in length; pod falcate to oblong, 11.5–13.5 ×
-
-**3.** 8–4.5 cm, with broad wing → [[Pterocarpus_tessmannii\|*P. tessmannii*]]
+- **1.** Branches, peduncles, center of the pod and base of leaflets spiny (to be searched for in Gabon) → P. osun Craib
+- **1′.** Tree without spines on these structures → couplet **2**
+  - **2.** Leaflets (9–)11 to 15, with blade (3.5–)5–10 × 2.5–4.5 cm; pod ± orbicular,
+    - **5.** 9 cm in diameter, papyraceous → [[Pterocarpus_soyauxii\|*P. soyauxii*]]
+    - **5′.** Leaflets 5 to 9, with blade 4–20 × 2–8 cm; pod ± orbicular or falcate, 2.5–4.5 or 8–14 cm in diameter, papyraceous to woody → couplet **3**
+      - **3.** Leaflets with blade 9–20 × 4–8 cm; stipules up to 1 cm in length; pod orbicular, 8–14 cm in diameter; bracts persistent, lanceolate → P. mildbraedii subsp. mildbraedii
+      - **3′.** Leaflets with blade 4–13 × 2–6.5 cm; stipules up to 2(–3) cm in length; pod falcate to oblong and 11.5–13.5 cm in length or orbicular and 2.5–4.5 cm in diameter; bracts filiform or minute, caducous or persistent → couplet **4**
+        - **4.** Leaflets with blade 5–13 × 3–6.5 cm; petals bright yellow to orange, standard with blade 10–12 mm in length; pod orbicular, 2.5–4.5 cm in diameter, with convex center, ± 2 cm in diameter and narrow wing → *P. santalinoides*
+        - **4′.** Leaflets with blade 4–8 × 2–3 cm; petals yellow with red keel and base of standard, standard with blade 7–8 mm in length; pod falcate to oblong, 11.5–13.5 ×
+          - **3.** 8–4.5 cm, with broad wing → [[Pterocarpus_tessmannii\|*P. tessmannii*]]
 
 ## Species in region
 

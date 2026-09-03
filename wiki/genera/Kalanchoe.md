@@ -33,9 +33,8 @@ Bibliography: Descoings (2003), Raadts (1977), Thiede & Eggli (2007), Wickens (1
 
 ## Key to the species
 
-**1.** Leaves all simple; flowers erect; calyx with tube up to 1.5 mm in length; corolla 11–25 mm in length → K. crenata ssp. crenata
-
-**1′.** Basal leaves simple, the upper ones with 3 or 5 leaflets; flowers pendulous; calyx with tube up to 25 mm in length; corolla approximately 40 mm in length → [[Kalanchoe_pinnata\|*K. pinnata*]]
+- **1.** Leaves all simple; flowers erect; calyx with tube up to 1.5 mm in length; corolla 11–25 mm in length → K. crenata ssp. crenata
+- **1′.** Basal leaves simple, the upper ones with 3 or 5 leaflets; flowers pendulous; calyx with tube up to 25 mm in length; corolla approximately 40 mm in length → [[Kalanchoe_pinnata\|*K. pinnata*]]
 
 ## Species in region
 

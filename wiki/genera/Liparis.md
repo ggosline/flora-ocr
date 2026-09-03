@@ -29,25 +29,16 @@ This important genus, especially pantropical, comprises approximately 270 specie
 
 ## Key to the species
 
-**1.** Labellum deeply 3-toothed just above the base; median lobe apiculate, apex recurved upward → [[Liparis_tridens\|*L. tridens*]]
-
-**1′.** Labellum of diverse form but never clearly 3-lobed.
-
-**2.** Lateral sepals connate into a gamosepalous unit → [[Liparis_hallei\|*L. hallei*]]
-
-**2′.** Lateral sepals free or connate only at their base.
-
-**3.** Labellum orbicular, transversely elliptic or diamond-shaped, maximum width near or below the midpoint → [[Liparis_ascendens\|*L. ascendens*]]
-
-**3′.** Labellum obovate, maximum width above the midpoint.
-
-**4.** Rhizome long, ascending, pseudobulbs well separated → [[Liparis_deistelli\|*L. deistelli*]]
-
-**4′.** Rhizome reduced, very short, pseudobulbs crowded against each other.
-
-**5.** Large plants, generally > 25 cm, leaves 2-10 cm wide, inflorescence (10)20-40(-n)-flowered → [[Liparis_nervosa\|*L. nervosa*]]
-
-**5′.** Small plants < 15 cm, leaves less than 1(1.7) cm wide, inflorescence 3-10(20)-flowered → [[Liparis_epiphytica\|*L. epiphytica*]]
+- **1.** Labellum deeply 3-toothed just above the base; median lobe apiculate, apex recurved upward → [[Liparis_tridens\|*L. tridens*]]
+- **1′.** Labellum of diverse form but never clearly 3-lobed.
+  - **2.** Lateral sepals connate into a gamosepalous unit → [[Liparis_hallei\|*L. hallei*]]
+  - **2′.** Lateral sepals free or connate only at their base.
+    - **3.** Labellum orbicular, transversely elliptic or diamond-shaped, maximum width near or below the midpoint → [[Liparis_ascendens\|*L. ascendens*]]
+    - **3′.** Labellum obovate, maximum width above the midpoint.
+      - **4.** Rhizome long, ascending, pseudobulbs well separated → [[Liparis_deistelli\|*L. deistelli*]]
+      - **4′.** Rhizome reduced, very short, pseudobulbs crowded against each other.
+        - **5.** Large plants, generally > 25 cm, leaves 2-10 cm wide, inflorescence (10)20-40(-n)-flowered → [[Liparis_nervosa\|*L. nervosa*]]
+        - **5′.** Small plants < 15 cm, leaves less than 1(1.7) cm wide, inflorescence 3-10(20)-flowered → [[Liparis_epiphytica\|*L. epiphytica*]]
 
 ## Species in region
 

@@ -27,9 +27,8 @@ Bibliography: Delgado-Salinas et al. (2011), Lewis et al. (2005), Mackinder et a
 
 ## Key to the species
 
-**1.** Herb procumbent; basal leaves with leaflets having ovate to rhomboidal lamina, generally more or less lobed, especially at the base of the plant, grey-tomentose beneath → [[Macroptilium_atropurpureum\|*M. atropurpureum*]]
-
-**1′.** Herb erect, with stem sometimes climbing (voluble) toward the apex; basal leaves with leaflets having elliptic to narrowly ovate lamina, entire, with loose pubescence beneath → [[Macroptilium_lathyroides\|*M. lathyroides*]]
+- **1.** Herb procumbent; basal leaves with leaflets having ovate to rhomboidal lamina, generally more or less lobed, especially at the base of the plant, grey-tomentose beneath → [[Macroptilium_atropurpureum\|*M. atropurpureum*]]
+- **1′.** Herb erect, with stem sometimes climbing (voluble) toward the apex; basal leaves with leaflets having elliptic to narrowly ovate lamina, entire, with loose pubescence beneath → [[Macroptilium_lathyroides\|*M. lathyroides*]]
 
 ## Species in region
 

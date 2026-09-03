@@ -66,33 +66,20 @@ This African genus comprises 11 species, of which 7 are present in Cameroon and 
 
 ## Key to the species
 
-**1.** 8-19 pairs of secondary veins.
-
-**2.** Lower surface of lamina glabrous → [[Alsodeiopsis_mannii\|*A. mannii*]]
-
-**2′.** Lower surface of lamina pubescent; petiole pubescent → [[Alsodeiopsis_rubra\|*A. rubra*]]
-
-**1′.** 6-8 pairs of secondary veins.
-
-**3.** Hairs erect on lower surface → 7. A. poggei var. poggei.
-
-**3′.** Hairs appressed on lower surface.
-
-**4.** Upper surface pubescent → [[Alsodeiopsis_weissenborniana\|*A. weissenborniana*]]
-
-**4′.** Upper surface glabrous or glabrescent.
-
-**5.** Lower surface with reddish-brown or yellowish pubescence; lamina narrowly elliptic in shape → [[Alsodeiopsis_zenkeri\|*A. zenkeri*]]
-
-**5′.** Lower surface with white pubescence; lamina elliptic to oblong-elliptic in shape.
-
-**6.** Apex of lamina distinctly acute acuminate mucronate → [[Alsodeiopsis_rowlandii\|*A. rowlandii*]]
-
-**6′.** Apex of lamina obtuse acuminate mucronate.
-
-**7.** Base unequal-sided rounded on one side and attenuate on the other; pubescence of lower surface of lamina rather sparse → *A. staudti*
-
-**7′.** Base of lamina unequal-sided rounded on both sides; pubescence of lower surface dense → 7. A. poggei var. robynsii.
+- **1.** 8-19 pairs of secondary veins.
+  - **2.** Lower surface of lamina glabrous → [[Alsodeiopsis_mannii\|*A. mannii*]]
+  - **2′.** Lower surface of lamina pubescent; petiole pubescent → [[Alsodeiopsis_rubra\|*A. rubra*]]
+- **1′.** 6-8 pairs of secondary veins.
+  - **3.** Hairs erect on lower surface → 7. A. poggei var. poggei.
+  - **3′.** Hairs appressed on lower surface.
+    - **4.** Upper surface pubescent → [[Alsodeiopsis_weissenborniana\|*A. weissenborniana*]]
+    - **4′.** Upper surface glabrous or glabrescent.
+      - **5.** Lower surface with reddish-brown or yellowish pubescence; lamina narrowly elliptic in shape → [[Alsodeiopsis_zenkeri\|*A. zenkeri*]]
+      - **5′.** Lower surface with white pubescence; lamina elliptic to oblong-elliptic in shape.
+        - **6.** Apex of lamina distinctly acute acuminate mucronate → [[Alsodeiopsis_rowlandii\|*A. rowlandii*]]
+        - **6′.** Apex of lamina obtuse acuminate mucronate.
+          - **7.** Base unequal-sided rounded on one side and attenuate on the other; pubescence of lower surface of lamina rather sparse → *A. staudti*
+          - **7′.** Base of lamina unequal-sided rounded on both sides; pubescence of lower surface dense → 7. A. poggei var. robynsii.
 
 ## Species in region
 

@@ -32,10 +32,8 @@ BIBLIOGRAPHY
 ## Key to the species
 
 Inflorescence condensed, bracteate, bracts generally larger than the calyx lobes, 1–16 × 0.2–10 mm; corolla 6.3–12.2 mm long, with lobes 1.5–3 mm long; follicles 3–8 times as long as wide, 2–5 × 0.3–0.8 cm, with wings 1–2 mm wide in fruit, ca. 100 seeds in each follicle .............................................................................................. M. lujaei Inflorescence rather lax, bracts scarcely visible, sepals 0.5–1.5 × 0.5–1 mm; corolla 1.4–11 mm long, with lobes 1–7 mm long; follicles 2–20 times as long as wide, with wings 0.5–2 mm wide, a few to numerous seeds ......................................................................................................................... 2
-
-**2.** Corolla 1.4–3 mm long, with lobes 1–1.5 mm long; follicles 12–20 times as long as wide, 1–2 × 0.08–0.1 cm, obscurely winged on both margins, to 1 mm in fruit, ca. 10 seeds in each follicle → [[Motandra_poecilophylla\|*M. poecilophylla*]]
-
-**2′.** Corolla 5–11 mm long, with lobes 2.3–7 mm long; follicles 2–9.5 times as long as wide, 2–5 × 0.2–0.5 cm, distinctly winged, with wings 1–2 mm wide in fruit, numerous seeds in each follicle → *M. paniculata*
+- **2.** Corolla 1.4–3 mm long, with lobes 1–1.5 mm long; follicles 12–20 times as long as wide, 1–2 × 0.08–0.1 cm, obscurely winged on both margins, to 1 mm in fruit, ca. 10 seeds in each follicle → [[Motandra_poecilophylla\|*M. poecilophylla*]]
+- **2′.** Corolla 5–11 mm long, with lobes 2.3–7 mm long; follicles 2–9.5 times as long as wide, 2–5 × 0.2–0.5 cm, distinctly winged, with wings 1–2 mm wide in fruit, numerous seeds in each follicle → *M. paniculata*
 
 ## Species in region
 

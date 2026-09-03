@@ -31,25 +31,16 @@ Pantropical genus of about 100 species, mostly Neotropical; in Gabon, 6 species 
 
 ## Key to the species
 
-**1.** Labellum distinctly trilobed when flattened, wider near the base → couplet **2**
-
-**2.** Labellum deeply saccate at the base, median lobe distinctly < than the lateral ones → [[Vanilla_chalottii\|*V. chalottii*]]
-
-**2′.** Labellum narrowly tubular at the base, median lobe > than the lateral ones → couplet **3**
-
-**3.** The median lobe of the labellum truncate, wider at the apex → [[Vanilla_heterolopha\|*V. heterolopha*]]
-
-**3′.** The median lobe of the labellum ± ribbon-like, tapering from the middle toward the apex → couplet **4**
-
-**4.** Labellum thick, fleshy, the lateral lobes scarcely visible, callus crisped at the centre of the labellum → [[Vanilla_hallei\|*V. hallei*]]
-
-**4′.** Labellum thin, the lateral lobes fairly well developed in a lozenge shape, fused to the column, dentate lamellae rare to a few on the median lobe → [[Vanilla_africana\|*V. africana*]]
-
-**1′.** Labellum not distinctly lobed, wider near the apex or the middle → couplet **5**
-
-**5.** Petiole 2 cm; labellum with very thick and fleshy callus along the median nerve → [[Vanilla_grandifolia\|*V. grandifolia*]]
-
-**5′.** Petiole <1 cm; labellum with various types of hairs along the median nerve → [[Vanilla_imperialis\|*V. imperialis*]]
+- **1.** Labellum distinctly trilobed when flattened, wider near the base → couplet **2**
+  - **2.** Labellum deeply saccate at the base, median lobe distinctly < than the lateral ones → [[Vanilla_chalottii\|*V. chalottii*]]
+  - **2′.** Labellum narrowly tubular at the base, median lobe > than the lateral ones → couplet **3**
+    - **3.** The median lobe of the labellum truncate, wider at the apex → [[Vanilla_heterolopha\|*V. heterolopha*]]
+    - **3′.** The median lobe of the labellum ± ribbon-like, tapering from the middle toward the apex → couplet **4**
+      - **4.** Labellum thick, fleshy, the lateral lobes scarcely visible, callus crisped at the centre of the labellum → [[Vanilla_hallei\|*V. hallei*]]
+      - **4′.** Labellum thin, the lateral lobes fairly well developed in a lozenge shape, fused to the column, dentate lamellae rare to a few on the median lobe → [[Vanilla_africana\|*V. africana*]]
+- **1′.** Labellum not distinctly lobed, wider near the apex or the middle → couplet **5**
+  - **5.** Petiole 2 cm; labellum with very thick and fleshy callus along the median nerve → [[Vanilla_grandifolia\|*V. grandifolia*]]
+  - **5′.** Petiole <1 cm; labellum with various types of hairs along the median nerve → [[Vanilla_imperialis\|*V. imperialis*]]
 
 ## Species in region
 

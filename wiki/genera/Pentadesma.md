@@ -29,9 +29,8 @@ Bibliography
 
 ## Key to the species
 
-**1.** Leaves without black punctations beneath, with 1(‒2) secretory canals parallel between each pair of lateral veins; ovary bottle-shaped, with 2 series of 7‒14 ovules per locule; fruit ovoid to globose, smooth → [[Pentadesma_butyracea\|*P. butyracea*]]
-
-**1′.** Leaves with well-visible black punctations beneath, with 2‒4 secretory canals parallel between each pair of lateral veins; ovary globose, with 2 series of 2‒6 ovules per locule; fruit conical, ridged → [[Pentadesma_grandifolia\|*P. grandifolia*]]
+- **1.** Leaves without black punctations beneath, with 1(‒2) secretory canals parallel between each pair of lateral veins; ovary bottle-shaped, with 2 series of 7‒14 ovules per locule; fruit ovoid to globose, smooth → [[Pentadesma_butyracea\|*P. butyracea*]]
+- **1′.** Leaves with well-visible black punctations beneath, with 2‒4 secretory canals parallel between each pair of lateral veins; ovary globose, with 2 series of 2‒6 ovules per locule; fruit conical, ridged → [[Pentadesma_grandifolia\|*P. grandifolia*]]
 
 ## Species in region
 

@@ -29,9 +29,8 @@ The genus Buchholzia comprises 2 closely related species restricted to the weste
 
 ## Key to the species
 
-**1.** Lateral nerves 11-17, prominent on the upper surface of the lamina; leaves mostly 3-7 cm wide, elliptic to obovate; apex acute to acuminate. Inflorescences often terminal and branched → [[Buchholzia_tholloniana\|*B. tholloniana*]]
-
-**1′.** Lateral nerves ≤ 10, impressed on the upper surface of the lamina; leaves mostly 3-11 cm wide, broadly obovate; apex abruptly acuminate; inflorescence ordinarily simple, axillary or subterminal → [[Buchholzia_coriacea\|*B. coriacea*]]
+- **1.** Lateral nerves 11-17, prominent on the upper surface of the lamina; leaves mostly 3-7 cm wide, elliptic to obovate; apex acute to acuminate. Inflorescences often terminal and branched → [[Buchholzia_tholloniana\|*B. tholloniana*]]
+- **1′.** Lateral nerves ≤ 10, impressed on the upper surface of the lamina; leaves mostly 3-11 cm wide, broadly obovate; apex abruptly acuminate; inflorescence ordinarily simple, axillary or subterminal → [[Buchholzia_coriacea\|*B. coriacea*]]
 
 ## Species in region
 

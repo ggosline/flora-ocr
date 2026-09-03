@@ -31,13 +31,10 @@ B: Fischer (1992, 1995, 1999), Fischer et al. (2013), Ghazanfar et al. (2008).
 
 ## Key to the species
 
-**1.** Corolla cream-white with small violet spots; capsule 8–10(–12) mm in length, exceeding the calyx by one-third of its length → [[Vandellia_diffusa\|*V. diffusa*]]
-
-**1′.** Corolla pale violet or pale pink with lower lip blue; capsule 13–25 mm in length, at least 2 times longer than the calyx → couplet **2**
-
-**2.** Limb obovate to ovate-triangular, 20–40 × 10–25 mm; corolla pale violet; capsule 13–14 mm in length → [[Vandellia_senegalensis\|*V. senegalensis*]]
-
-**2′.** Limb ovate to orbicular, 10–18 × 8–13 mm; corolla pale pink with lower lip blue; capsule 18–25 mm in length → [[Vandellia_vogelii\|*V. vogelii*]]
+- **1.** Corolla cream-white with small violet spots; capsule 8–10(–12) mm in length, exceeding the calyx by one-third of its length → [[Vandellia_diffusa\|*V. diffusa*]]
+- **1′.** Corolla pale violet or pale pink with lower lip blue; capsule 13–25 mm in length, at least 2 times longer than the calyx → couplet **2**
+  - **2.** Limb obovate to ovate-triangular, 20–40 × 10–25 mm; corolla pale violet; capsule 13–14 mm in length → [[Vandellia_senegalensis\|*V. senegalensis*]]
+  - **2′.** Limb ovate to orbicular, 10–18 × 8–13 mm; corolla pale pink with lower lip blue; capsule 18–25 mm in length → [[Vandellia_vogelii\|*V. vogelii*]]
 
 ## Species in region
 

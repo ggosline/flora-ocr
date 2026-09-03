@@ -122,11 +122,26 @@ def format_key(text: str, genus: str) -> str | None:
     rendered: list[str] = []
     current = ""
     changed = False
+    # A printed key pairs its couplets by indentation, and the scan throws that
+    # away -- every lead comes back at column 0, so the half that answers "1."
+    # can sit pages below it with nothing to show they belong together. The
+    # numbering still carries the structure: an unprimed lead opens a couplet
+    # and nests below the one before it, and its primed twin closes it and
+    # returns to that depth. Rendering as a nested list puts the indentation
+    # back, so a couplet's two halves line up however far apart they are.
+    # open couplets as (number, depth); a couplet that has just closed sets the
+    # depth its successor starts at, because the next couplet continues the
+    # branch the closing lead pointed into
+    stack: list[tuple[str, int]] = []
+    next_depth: int | None = None
+    MAX_DEPTH = 12
 
     for lead in leads:
         sub = SUBKEY_RE.match(lead)
         if sub and len(sub.group(2)) > 12:
             rendered.append(f"### {sub.group(1)}. {sub.group(2).strip()}")
+            stack.clear()               # each sub-key restarts the numbering
+            next_depth = None
             changed = True
             continue
         number = ""
@@ -135,6 +150,24 @@ def format_key(text: str, genus: str) -> str | None:
         if m:
             number, prime, body = m.group(1), m.group(2), m.group(3)
             first_half = not prime
+            if prime:
+                match = next((i for i, (n, _) in enumerate(stack)
+                              if n == number), None)
+                if match is None:
+                    depth = stack[-1][1] if stack else 0
+                else:
+                    depth = stack[match][1]
+                    del stack[match:]           # the couplet closes here
+                next_depth = min(depth + 1, MAX_DEPTH)
+            else:
+                if next_depth is not None:
+                    depth = next_depth
+                elif stack:
+                    depth = min(stack[-1][1] + 1, MAX_DEPTH)
+                else:
+                    depth = 0
+                next_depth = None
+                stack.append((number, depth))
             label = f"{number}{'′' if prime else ''}."
             if not prime:
                 current = number
@@ -145,6 +178,14 @@ def format_key(text: str, genus: str) -> str | None:
                 rendered.append(lead)       # a note or caption inside the key
                 continue
             body, label = m.group(1), f"{current}′." if current else "—"
+            match = next((i for i, (n, _) in enumerate(stack)
+                          if n == current), None)
+            if match is None:
+                depth = stack[-1][1] if stack else 0
+            else:
+                depth = stack[match][1]
+                del stack[match:]
+            next_depth = min(depth + 1, MAX_DEPTH)
             changed = True
 
         parts = [p.strip() for p in LEADER_RE.split(body)]
@@ -167,9 +208,18 @@ def format_key(text: str, genus: str) -> str | None:
             link = _species_link(target, genus)
             arrow = f" → {link}" if link else f" → {target}"
 
-        rendered.append(f"**{label}** {prose}{arrow}")
+        indent = "  " * depth
+        rendered.append(f"{indent}- **{label}** {prose}{arrow}")
 
-    return "\n\n".join(rendered) + "\n" if changed else None
+    if not changed:
+        return None
+    out: list[str] = []
+    for line in rendered:
+        if line.startswith("###"):
+            out += ["", line, ""]
+        else:
+            out.append(line)
+    return "\n".join(out).strip("\n") + "\n"
 
 
 # A row of leader dots left at the end of an already-formatted lead, where the

@@ -25,15 +25,11 @@ B: Breteler (1992), Deroin (2001), Gonçalves (1987), Lejoly & Lisowski (1993), 
 
 ## Key to the species
 
-**1.** Branchlets, leaves and inflorescences densely tomentellous; leaves 3–5(–5.5) ×
-
-**1.** 5–2.5 cm, with 4–6 pairs of lateral nerves; corolla tube glabrous; stamen filaments glabrous → [[Bonamia_ngouniensis\|*B. ngouniensis*]]
-
-**1′.** Branchlets, leaves beneath and inflorescences with different, less dense indumentum, either with stiff and appressed hairs, or with ± erect hairs; leaves (5–)6–12(–15) × 2.5–6 cm, with (5–)6–9(–11) pairs of lateral nerves; corolla tube pubescent externally; stamen filaments partially pubescent → couplet **2**
-
-**2.** Leaves cordate at the base; stamen filaments glabrous on the free part, hairy on the fused part → [[Bonamia_gabonensis\|*B. gabonensis*]]
-
-**2′.** Leaves rounded to cuneate at the base; stamen filaments hairy on the free part, glabrous on the fused part and the apical part → [[Bonamia_nzabii\|*B. nzabii*]]
+- **1.** Branchlets, leaves and inflorescences densely tomentellous; leaves 3–5(–5.5) ×
+  - **1.** 5–2.5 cm, with 4–6 pairs of lateral nerves; corolla tube glabrous; stamen filaments glabrous → [[Bonamia_ngouniensis\|*B. ngouniensis*]]
+- **1′.** Branchlets, leaves beneath and inflorescences with different, less dense indumentum, either with stiff and appressed hairs, or with ± erect hairs; leaves (5–)6–12(–15) × 2.5–6 cm, with (5–)6–9(–11) pairs of lateral nerves; corolla tube pubescent externally; stamen filaments partially pubescent → couplet **2**
+  - **2.** Leaves cordate at the base; stamen filaments glabrous on the free part, hairy on the fused part → [[Bonamia_gabonensis\|*B. gabonensis*]]
+  - **2′.** Leaves rounded to cuneate at the base; stamen filaments hairy on the free part, glabrous on the fused part and the apical part → [[Bonamia_nzabii\|*B. nzabii*]]
 
 ## Species in region
 

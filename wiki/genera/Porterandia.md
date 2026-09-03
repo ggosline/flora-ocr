@@ -31,15 +31,11 @@ Genus represented in Asia by 9 non-climbing species, of which the type species P
 
 ## Key to the species
 
-**1.** Shrubs or trees.
-
-**2.** Fruit elliptical ± smooth; limb with rounded apex and upper surface glabrous or glabrescent → [[Porterandia_cladantha\|*P. cladantha*]]
-
-**2′.** Fruit subglobose coarsely ribbed; limb with lanceolate apex and upper surface pubescent → [[Porterandia_nalaensis\|*P. nalaensis*]]
-
-**3.** Leaf blade hairy on both surfaces; inflorescences 8-12-flowered; disk pubescent → [[Porterandia_castaneofulva\|*P. castaneofulva*]]
-
-**3′.** Leaf blade glabrescent above; inflorescences 2-8 flowered; disk glabrous. …… 4. P. annulata
+- **1.** Shrubs or trees.
+  - **2.** Fruit elliptical ± smooth; limb with rounded apex and upper surface glabrous or glabrescent → [[Porterandia_cladantha\|*P. cladantha*]]
+  - **2′.** Fruit subglobose coarsely ribbed; limb with lanceolate apex and upper surface pubescent → [[Porterandia_nalaensis\|*P. nalaensis*]]
+    - **3.** Leaf blade hairy on both surfaces; inflorescences 8-12-flowered; disk pubescent → [[Porterandia_castaneofulva\|*P. castaneofulva*]]
+    - **3′.** Leaf blade glabrescent above; inflorescences 2-8 flowered; disk glabrous. …… 4. P. annulata
 
 ## Species in region
 

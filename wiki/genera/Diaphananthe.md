@@ -23,9 +23,8 @@ Genus of approximately 20–30 species confined to continental Africa, primarily
 
 ## Key to the species
 
-**1.** Stem short, < 12 cm. Leaves 15-70 cm → 47. 2. D. pellucida
-
-**1′.** Stem elongate, often > 1 m. Leaves 5-17 cm → 47. 1. D. bidens
+- **1.** Stem short, < 12 cm. Leaves 15-70 cm → 47. 2. D. pellucida
+- **1′.** Stem elongate, often > 1 m. Leaves 5-17 cm → 47. 1. D. bidens
 
 ## Species in region
 

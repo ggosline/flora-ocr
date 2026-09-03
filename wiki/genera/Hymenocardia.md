@@ -25,9 +25,8 @@ Bibliography: Léonard & Mosango (1985), Pax & Hoffmann (1922), Radcliffe-Smith 
 
 ## Key to the species
 
-**1.** Limb acute, rounded or obtuse at the apex, at the adult stage, with abundant glandular discs on the lower surface; fruit winged in the upper half, separating from a persistent columella into 2 indehiscent cocci → H . acida
-
-**1′.** Limb acuminate, at the adult stage with very rare or absent glandular discs on the lower surface; fruit entirely winged, indehiscent, samaroid → H . ulmoides
+- **1.** Limb acute, rounded or obtuse at the apex, at the adult stage, with abundant glandular discs on the lower surface; fruit winged in the upper half, separating from a persistent columella into 2 indehiscent cocci → H . acida
+- **1′.** Limb acuminate, at the adult stage with very rare or absent glandular discs on the lower surface; fruit entirely winged, indehiscent, samaroid → H . ulmoides
 
 ## Species in region
 

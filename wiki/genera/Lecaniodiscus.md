@@ -30,11 +30,9 @@ Remarkable genus, among the Schleicherieae, for its saccate calyx almost closed 
 
 ## Key to the species
 
-**1.** Spikes elongated, 8–15 cm; leaves larger; petiole 8 cm; rachis 40 cm; leaflets at base 3–5 × 6–7 (–9) cm; leaflets at apex 7–8 × 16–18 cm; scattered glandular hairs beneath the blade → *L. cupanioides*
-
-**1′.** Spikes short, 1–5 cm; leaves smaller; petiole 3 cm; rachis 12 cm; leaflets at base 1.5 × 2.5 cm; leaflets at apex 2.5 × 7 cm; scattered glandular scales beneath the blade → L. fraxinifolius Baker.
-
-**1.** Hence the genus name: lecanio = basin (in Greek).
+- **1.** Spikes elongated, 8–15 cm; leaves larger; petiole 8 cm; rachis 40 cm; leaflets at base 3–5 × 6–7 (–9) cm; leaflets at apex 7–8 × 16–18 cm; scattered glandular hairs beneath the blade → *L. cupanioides*
+- **1′.** Spikes short, 1–5 cm; leaves smaller; petiole 3 cm; rachis 12 cm; leaflets at base 1.5 × 2.5 cm; leaflets at apex 2.5 × 7 cm; scattered glandular scales beneath the blade → L. fraxinifolius Baker.
+  - **1.** Hence the genus name: lecanio = basin (in Greek).
 
 ## Species in region
 
