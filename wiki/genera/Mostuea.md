@@ -38,7 +38,7 @@ TYPE SPECIES: Mostuea brunonis Didr.
 ## Key to the species
 
 
-**1.** Inflorescence with two large suborbicular bracts covering the calyx ..... ^k1
+**1.** Inflorescence with two large suborbicular bracts covering the calyx ^k1
 
 **1′.** Inflorescence with small bracts never covering the calyx.
 

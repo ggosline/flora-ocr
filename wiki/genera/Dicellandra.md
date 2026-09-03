@@ -51,7 +51,7 @@ An African genus whose two or three species are closely tied to forest habitats.
 
 **1′.** Stamens homomorphic, concolorous or, if they are dimorphic, the outer ones have a straight anther, linear-obtuse anterior appendages and the plant is not lianescent; cymes (at least those of the base) pedunculate, glomerate; flowers subsessile.
 
-**5.** Stamens homomorphic; plants weak, spreading; leaves elliptic.... ^k5
+**5.** Stamens homomorphic; plants weak, spreading; leaves elliptic ^k5
 
 **5′.** Stamens dimorphic; plants normally erect; leaves lanceolate-ovate to lanceolate-elliptic → [[Dicellandra_descoingsii\|*D. descoingsii*]]
 

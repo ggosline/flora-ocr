@@ -54,7 +54,7 @@ Genus based on the sole tropical Asian and Oceanian species (M. corymbosa Bl.). 
 
 **6.** Lamina elliptic-oblong, sometimes elliptic, with obtuse-rounded apex, with acumen; 3 carpels, drupes obovoid; tree of Sudano-Zambezian gallery forests → [[Maranthes_kerstingii\|*M. kerstingii*]] ^k6
 
-**6′.** Lamina oval to elliptic, with acute or obtuse apex, abruptly cuspidate, pedicel 8-12 mm, receptacle 8-14 mm, sepals 6-10 mm; drupes fusiform; small gnarled, twisted and prostrate tree, endemic to the banks of the middle Sanaga in Cameroon 7. M. sanagens 6". Lamina lanceolate, with apex acute broadly and elongately acuminate; pedicel 3 mm, receptacle 5-6 mm, sepals 3 mm; drupes obovoid; tree of sempervirent forest → 8. M. sp. CHRYSOBALANACEAE
+**6′.** Lamina oval to elliptic, with acute or obtuse apex, abruptly cuspidate, pedicel 8-12 mm, receptacle 8-14 mm, sepals 6-10 mm; drupes fusiform; small gnarled, twisted and prostrate tree, endemic to the banks of the middle Sanaga in Cameroon 7. M. sanagens 6". Lamina lanceolate, with apex acute broadly and elongately acuminate; pedicel 3 mm, receptacle 5-6 mm, sepals 3 mm; drupes obovoid; tree of sempervirent forest → 8. M. sp. CHRYSOBALANACEAE.
 
 
 ## Species in region

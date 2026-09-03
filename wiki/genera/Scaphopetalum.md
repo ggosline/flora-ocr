@@ -50,7 +50,7 @@ Type species: Scaphopetalum blackii.
 
 **2.** Fruit not adorned with horns, apex attenuate. Fruit briefly attenuate, 1.5 times longer than wide. Sc. zenkeri. Fruit longly attenuate, 2-4 times longer than wide. 2. Sc. blackii. ^k2
 
-**2′.** Fruit adorned with horns situated toward the extremities of each carpel
+**2′.** Fruit adorned with horns situated toward the extremities of each carpel.
 
 **3.** Sc. macranthum. PL. XXII. — Scaphopetalum thonneri De Wild. et Dur. (N. Hallé 1410, in vivo) : 1, leaf, lower surface; 2, base of leaf, upper surface; 3, petiole, stipule and old bracteolate inflorescence; 4, expanded flower, diam. 7.5 mm; 5, flower seen from above without the calyx; 6, petal, internal surface, 4.3 mm long; 7, androecium 3 mm high, with a petal in profile to the right; 8, calyx 7.5 mm long and pedicel bracteoles; 9, ovary on the receptacle; 10, transverse section of ovary, diam. 1.3 mm; 11, young fruit on the receptacle; 12, immature fruit, 10 mm long; 13, seed recto and verso showing the aril, length 7 mm. ^k3
 

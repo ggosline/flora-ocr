@@ -36,13 +36,13 @@ Important genus represented by very numerous species, some of which are valuable
 
 **3.** Inflorescences in loose panicles approximately 10–15 × 1.5–3 cm; spikelets very small approximately 2 mm long and 1 mm wide, greenish or more or less tinged with violet; paleas ciliate with long stiff hairs on the keels; ruderal → *E. tenella* ^k3
 
-**3′.** Inflorescences in dense spiciform panicles approximately 10 cm long and 1 cm in diameter; spikelets 2–4 mm long and
+**3′.** Inflorescences in dense spiciform panicles approximately 10 cm long and 1 cm in diameter; spikelets 2–4 mm long and.
 
 **1.** 5–2 mm wide, whitish-grey or pink; paleas as above; ruderal → [[Eragrostis_ciliaris\|*E. ciliaris*]]
 
 **2′.** Spikelets disarticulating at maturity from the base; rachis persistent, as sometimes are the paleas.
 
-**4.** Spikelets less than 1.5 mm wide, loose panicles, spikelets reaching about ten millimetres long; paleas scabrous on the keels, rapidly deciduous; ruderal..... ^k4
+**4.** Spikelets less than 1.5 mm wide, loose panicles, spikelets reaching about ten millimetres long; paleas scabrous on the keels, rapidly deciduous; ruderal ^k4
 
 **4′.** Spikelets more than 1.5 mm wide.
 
@@ -58,7 +58,7 @@ Important genus represented by very numerous species, some of which are valuable
 
 **8.** Spikelets straw-coloured and most often tinged with violet towards the apex; pedicels finely capillary, 4–10 mm long; spikelets linear elongate, most often 15–20 mm long; plant of sandy soils → *E. trem* ^k8
 
-**8′.** Spikelets greenish, more or less violaceous, pedicels generally shorter than above; some spikelets subsessile; spikelets elliptic elongate, generally about ten millimetres long; ruderal plant → *E. squam*
+**8′.** Spikelets greenish, more or less violaceous, pedicels generally shorter than above; some spikelets subsessile; spikelets elliptic elongate, generally about ten millimetres long; ruderal plant → *E. squam*.
 
 **7′.** Grasses stoloniferous (?) culms bearing at the nodes dense fascicles of secondary floriferous culms and innovations; inflorescence in narrow panicles approximately 10–15 cm long and 2 cm in diameter; spikelets greenish, between 5 and 10 mm long; plants of the seashore → [[Eragrostis_sabulicola\|*E. sabulicola*]]
 

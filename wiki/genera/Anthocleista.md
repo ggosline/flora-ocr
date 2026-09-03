@@ -52,7 +52,7 @@ The genus comprises 14 species distributed in tropical Africa, Madagascar, and t
 
 **5.** Flower buds generally uniformly rounded at the apex; leaves petiolate. ^k5
 
-**6.** Leaves obovate, generally rounded at the base; calyx not distinctly constricted; branchlets with discrete and rare spines, berry smooth when dry, 35–50 × 25–35 mm at maturity, with thick wall (approximately 3 mm) ..... ^k6
+**6.** Leaves obovate, generally rounded at the base; calyx not distinctly constricted; branchlets with discrete and rare spines, berry smooth when dry, 35–50 × 25–35 mm at maturity, with thick wall (approximately 3 mm) ^k6
 
 **6′.** Leaves very narrowly obovate, always cuneate at the base; calyx distinctly constricted at the apex; branchlets never spiny; berry irregularly wrinkled when dry, 15–27 × 10–18 mm at maturity, with thin wall (approximately 1 mm) → [[Anthocleista_liebrechtsiana\|*A. liebrechtsiana*]]
 

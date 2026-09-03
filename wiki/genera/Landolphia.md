@@ -42,7 +42,7 @@ B: Endress et al. (2019), Jongkind & Lachenaud (2022), Persoon et al. (1992), va
 
 **3.** Tube of corolla 1.5–2 mm long, lobes 1.7–2.6 mm long → *L. pyramidata* ^k3
 
-**3′.** Tube of corolla 3.4–5.6 mm long, lobes 3.8–11 mm long → *L. robustior*
+**3′.** Tube of corolla 3.4–5.6 mm long, lobes 3.8–11 mm long → *L. robustior*.
 
 **4.** Lobes of corolla 1–1.5 times as long as tube → [[Landolphia_letestui\|*L. letestui*]] ^k4
 
@@ -50,11 +50,11 @@ B: Endress et al. (2019), Jongkind & Lachenaud (2022), Persoon et al. (1992), va
 
 **5.** Leaf blade with 10 to 20 pairs of secondary nerves → [[#^k6|6]] ^k5
 
-**5′.** Leaf blade with 5 to 8 pairs of secondary nerves → *L. lepthantha*
+**5′.** Leaf blade with 5 to 8 pairs of secondary nerves → *L. lepthantha*.
 
 **6.** Inflorescence compact, with hidden axes; pedicel 0.5–1 mm; leaf blade with midvein channelled above, lateral nerves visible below → [[Landolphia_anthonii\|*L. anthonii*]] ^k6
 
-**6′.** Inflorescence less compact, axes clearly visible; pedicel 1–1.5 mm; leaf blade with prominent midvein above, lateral nerves little visible below → *L. incerta*
+**6′.** Inflorescence less compact, axes clearly visible; pedicel 1–1.5 mm; leaf blade with prominent midvein above, lateral nerves little visible below → *L. incerta*.
 
 **7.** Ovary glabrous with some scattered hairs or in a ring of dense hairiness at some distance from the apex → [[#^k8|8]] ^k7
 
@@ -122,7 +122,7 @@ B: Endress et al. (2019), Jongkind & Lachenaud (2022), Persoon et al. (1992), va
 
 **23.** Lobes of corolla 2 times as long as tube, 5–8 mm long → *L. breviloba* ^k23
 
-**23′.** Lobes of corolla 3–4 times as long as tube, 12–15 mm long → *L. uniflora*
+**23′.** Lobes of corolla 3–4 times as long as tube, 12–15 mm long → *L. uniflora*.
 
 **24.** Ramilles with bark detaching in small scales → [[Landolphia_congolensis\|*L. congolensis*]] ^k24
 
@@ -130,7 +130,7 @@ B: Endress et al. (2019), Jongkind & Lachenaud (2022), Persoon et al. (1992), va
 
 **25.** Ovary generally glabrous but base of style (and sometimes also summit of ovary) hairy, style gradually widening in ovary → [[#^k26|26]] ^k25
 
-**25′.** Ovary generally hairy, style often abruptly widening in ovary . 27
+**25′.** Ovary generally hairy, style often abruptly widening in ovary . 27.
 
 **26.** Petiole 6–20 mm; leaf blade with 5 to 12 pairs of curved secondary nerves → [[Landolphia_stenogyna\|*L. stenogyna*]] ^k26
 
@@ -142,7 +142,7 @@ B: Endress et al. (2019), Jongkind & Lachenaud (2022), Persoon et al. (1992), va
 
 **28.** Leaf blade almost black on upper surface; lobes of corolla 1–1.5 times as long as tube; tube up to 4 mm in length; hairy near the lobes on the exterior → [[Landolphia_obovata\|*L. obovata*]] ^k28
 
-**28′.** Leaf blade generally much paler on the dried state; lobes of corolla
+**28′.** Leaf blade generally much paler on the dried state; lobes of corolla.
 
 **1.** 5–2 times as long as tube; tube up to 3 mm in length; glabrous or almost so on the exterior → *L. parviflora* ^k1
 
@@ -172,7 +172,7 @@ B: Endress et al. (2019), Jongkind & Lachenaud (2022), Persoon et al. (1992), va
 
 **2.** 3–3 mm long; tube of corolla glabrous or partially hairy on exterior → [[Landolphia_bruneelii\|*L. bruneelii*]] ^k2
 
-**2′.** Stamens inserted at 0.76–0.9 of the length of tube of corolla, with anther
+**2′.** Stamens inserted at 0.76–0.9 of the length of tube of corolla, with anther.
 
 **1.** 5–2.5 mm long; tube of corolla generally glabrous on exterior → [[#^k35|35]]
 
@@ -206,7 +206,7 @@ B: Endress et al. (2019), Jongkind & Lachenaud (2022), Persoon et al. (1992), va
 
 **8.** 5–26 cm long → [[Landolphia_mannii\|*L. mannii*]]
 
-**8′.** Leaf blade up to 15 cm in length; anther 0.8–1 mm long; fruit
+**8′.** Leaf blade up to 15 cm in length; anther 0.8–1 mm long; fruit.
 
 **2.** 6–7 cm long → [[Landolphia_dewevrei\|*L. dewevrei*]]
 

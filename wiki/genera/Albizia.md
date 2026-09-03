@@ -44,7 +44,7 @@ This genus comprises approximately 145 species from tropical and subtropical reg
 
 **5.** Seed with central oblong aril → [[#^k2|2]] ^k5
 
-**5.** Seed with small apical aril → 2 bis. A
+**5.** Seed with small apical aril → 2 bis. A.
 
 **1′.** Fruit not distinctly stipitate or not stipitate.
 

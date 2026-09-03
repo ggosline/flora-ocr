@@ -36,7 +36,7 @@ Bibliography: De la Estrella et al. (2010), Hawthorne & Jongkind (2006), Pellegr
 
 **2.** Leaflets with lamina bearing sunken nerves on the upper surface ; stipels present, subulate ; pod wings 7–10 mm wide ; bracts large, 1–1.5 cm long → [[Aganope_impressa\|*A. impressa*]] ^k2
 
-**2′.** Leaflets with lamina without sunken nerves ; stipels absent ; pod wings 2–3 mm wide ; bracts small, 1 mm long (to be sought in Gabon) A. stuhlmannii
+**2′.** Leaflets with lamina without sunken nerves ; stipels absent ; pod wings 2–3 mm wide ; bracts small, 1 mm long (to be sought in Gabon) A. stuhlmannii.
 
 **3.** Leaflets with obovate-oblong lamina, slightly attenuate at the base, very glossy ; stipels absent ; bracts narrowly lanceolate, not covering the young flower bud ; corolla ± 1 cm long ; pod wings 3–7 mm wide → [[Aganope_lucida\|*A. lucida*]] ^k3
 

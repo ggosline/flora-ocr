@@ -76,7 +76,7 @@ Simpson (1992), Simpson et al. (2003).
 
 **1.** Central fertile stem, often with a leaf → [[#^k2|2]] ^k1
 
-**1′.** Lateral fertile stem, without a leaf, appearing at the axil of old basal leaves (sometimes decomposed) → 16 SPECIES WITH CENTRAL FERTILE STEM
+**1′.** Lateral fertile stem, without a leaf, appearing at the axil of old basal leaves (sometimes decomposed) → 16 SPECIES WITH CENTRAL FERTILE STEM.
 
 **2.** Basal leaves reduced to sheaths; fertile stem leafy mainly in the upper 2/3 or stem non-leafy (involucral bracts present) → [[#^k3|3]] ^k2
 
@@ -132,7 +132,7 @@ Simpson (1992), Simpson et al. (2003).
 
 **15.** Inflorescence purplish; style 6.5–9 mm with branches 3–4.5 mm long; the 2 lower floral bracts 9–11 mm long → [[Mapania_purpuriceps\|*M. purpuriceps*]] ^k15
 
-**15′.** Inflorescence medium to dark brown; style 4.9–5 mm with branches 1.5–2.3 mm long; the 2 lower floral bracts 6–7 mm long → M. raynaliana SPECIES WITH LATERAL FERTILE STEM
+**15′.** Inflorescence medium to dark brown; style 4.9–5 mm with branches 1.5–2.3 mm long; the 2 lower floral bracts 6–7 mm long → M. raynaliana SPECIES WITH LATERAL FERTILE STEM.
 
 **16.** Inflorescence in lax corymbiform anthela, 3–15 cm wide; fruit with longitudinal ribs → [[Mapania_heteromorpha\|*M. heteromorpha*]] ^k16
 
@@ -160,7 +160,7 @@ Simpson (1992), Simpson et al. (2003).
 
 **22.** Stem 0.9–2 mm wide, ± erect; inflorescence with at least 3 spikes → M. africana var. africana ^k22
 
-**22′.** Stem 0.4–0.7 mm wide, curved; inflorescence with 1–2 spikes → M. africana var. filipes
+**22′.** Stem 0.4–0.7 mm wide, curved; inflorescence with 1–2 spikes → M. africana var. filipes.
 
 
 ## Species in region

@@ -34,9 +34,9 @@ male flowers consist of a column bearing several stamens. Perianth absent.
 
 **1.** Drupes 6 cm long → [[Pandanus_parvicentralis|*P. parvicentralis*]] ^k1
 
-**1′.** Drupes 3–4 cm long
+**1′.** Drupes 3–4 cm long.
 
-**1′.** 2. Drupes 4 cm, apex conical
+**1′.** 2. Drupes 4 cm, apex conical.
 
 **1′.** 3. Infructescence with 1 syncarp → [[Pandanus_gabonensis|*P. gabonensis*]]
 

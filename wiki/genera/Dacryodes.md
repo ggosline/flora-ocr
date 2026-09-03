@@ -63,7 +63,7 @@ KEY BASED ON LEAVES AND THEIR PUBESCENCE
 
 **3′.** Presence of long simple supple hairs in ± great abundance, at least on the rachis, capable of disappearing in time on leaflets which become then practically glabrous. Sometimes mixed with scaly hairs.
 
-**8.** Simple hairs, on the rachis, the midvein above, and on the lower face of the blade. Leaflets subsessile..... ^k8
+**8.** Simple hairs, on the rachis, the midvein above, and on the lower face of the blade. Leaflets subsessile ^k8
 
 **8′.** Simple hairs below the blade and small scattered scaly hairs, regularly distributed, applied against the blade, persistent 8. D. igagang, igagang 8". Simple hairs on the rachis, the petiolules, the midvein below, often very sparse. Mixed in with a few small scaly hairs on the blade. Persistence of scaly hairs on the petiolules and the rachis. Sometimes leaflets practically glabrous → 6. D. edulis var. hirsuta, safoutier, atanga, olem.
 

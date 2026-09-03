@@ -40,7 +40,7 @@ Genus represented in Asia by 9 non-climbing species, of which the type species P
 
 **3.** Leaf limb hairy on both surfaces; inflorescences 8-12-flowered; disk pubescent → [[Porterandia_castaneofulva\|*P. castaneofulva*]] ^k3
 
-**3′.** Limb glabrescent above; inflorescences 2-8 flowered; disk glabrous. …… 4. P. annulata
+**3′.** Limb glabrescent above; inflorescences 2-8 flowered; disk glabrous. …… 4. P. annulata.
 
 
 ## Species in region

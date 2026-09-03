@@ -35,7 +35,7 @@ Genus with approximately 40 species, distributed in tropical Africa, Madagascar,
 
 **2.** Lamina with margin distinctly entire → [[#^k3|3]] ^k2
 
-**2′.** Lamina with margin crenate, crenulate or serrulate, at least in the upper half → 4 Urera 71
+**2′.** Lamina with margin crenate, crenulate or serrulate, at least in the upper half → 4 Urera 71.
 
 **3.** Lamina with the basal pair of lateral veins reaching at least two-thirds and often three-quarters of the upper lamina, with 1(–2) pair of lateral veins above the basal pair; male flower 4-merous → [[Urera_trinervis\|*U. trinervis*]] ^k3
 

@@ -42,7 +42,7 @@ Bibliography: Breteler (2003), De Vos & Breteler (2009), De Wilde (1975), Sleume
 
 **2.** Branchlets, lower surface of lamina and ovary hispid; sepals with hispid midvein, with long hairs bearing a tiny white tubercle at the base; lamina (11–)16–20 cm in length, papyraceous → [[Paropsia_gabonica\|*P. gabonica*]] ^k2
 
-**2′.** Branchlets pubescent, lower surface of lamina almost glabrous; sepals puberulent, covered with short flexuous hairs; ovary tomentose; lamina (3.5–)7–11(–13) cm in length, sub-coriaceous → P. grewioides var. grewioides
+**2′.** Branchlets pubescent, lower surface of lamina almost glabrous; sepals puberulent, covered with short flexuous hairs; ovary tomentose; lamina (3.5–)7–11(–13) cm in length, sub-coriaceous → P. grewioides var. grewioides.
 
 
 ## Species in region

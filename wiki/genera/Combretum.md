@@ -52,7 +52,7 @@ N.B. This key uses floral characters: C. erosum has been excluded from it becaus
 
 **6.** Upper receptacle, length > 4 cm → [[Combretum_indicum\|*C. indicum*]] ^k6
 
-**6′.** Upper receptacle, length ≤ 3 cm
+**6′.** Upper receptacle, length ≤ 3 cm.
 
 **7.** Upper receptacle distinctly wider above the middle than at its opening; stamens not visible from outside → [[Combretum_inflatum\|*C. inflatum*]] ^k7
 

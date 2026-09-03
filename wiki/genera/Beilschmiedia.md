@@ -29,7 +29,7 @@ tags: [genus, generated]
 
 **5.** F. (7-19 × 3-6) narrow, punctate, subcoriaceous to coriaceous; petiole 1 cm; inflorescences 3-6 cm, tomentellous; flowers diam. 3 mm; tree 10 m high → B. ugandensis Rendle Journ. Linn. soc. Lond. 37:205 (1903). Type: Bagshawe 142, Uganda. ^k5
 
-**5′.** F. (12-15 × 7-9) broad, coriaceous, glabrous beneath or slightly puberulent; petiole 1-1.5 cm; inflorescences 4-6 cm with appressed pubescence; flowers diam. 3 mm; tree 15-20 m. ……B. Tisserantii Chev. Fl. viv. A.O.F.: 41 (1938). Type: Tisserant 2115, Oubangui → *L. concolorous*
+**5′.** F. (12-15 × 7-9) broad, coriaceous, glabrous beneath or slightly puberulent; petiole 1-1.5 cm; inflorescences 4-6 cm with appressed pubescence; flowers diam. 3 mm; tree 15-20 m. ……B. Tisserantii Chev. Fl. viv. A.O.F.: 41 (1938). Type: Tisserant 2115, Oubangui → *L. concolorous*.
 
 **6.** Inflorescences 3-9 cm; leaves slightly coriaceous to coriaceous. ^k6
 
@@ -59,9 +59,9 @@ tags: [genus, generated]
 
 **13.** Tomentum rust-coloured; f. (7-12 × 3-5) acute, punctate, upper surface olivaceous; inflorescences 4-10 cm; flowers diam. 2 mm; tree 25 m → [[Beilschmiedia_fulva\|*B. fulva*]] ^k13
 
-**13′.** Tomentum yellow ochre; f. (8-18 × 4-12) obtuse; inflorescences 5-14 cm; flowers diam. 2-3 mm; tree 20-50 m.....
+**13′.** Tomentum yellow ochre; f. (8-18 × 4-12) obtuse; inflorescences 5-14 cm; flowers diam. 2-3 mm; tree 20-50 m.
 
-**12′.** Leaves puberulent beneath: hairs not curly → *L. discolorous*
+**12′.** Leaves puberulent beneath: hairs not curly → *L. discolorous*.
 
 **15.** Limb narrow (7-10 × 2-4) petiole 10-15 mm; inflorescences 4-5 cm tomentellous; flowers diam. 2 mm; leaves: upper surface black, lower surface olivaceous → B. Letouzeyi Rob. et Wilcz. B. Bx. 20: 198 (1950). Type: Letouzey 1351, Cameroun. ^k15
 
@@ -89,7 +89,7 @@ tags: [genus, generated]
 
 **3′.** F. (4-15 × 2-5) not acuminate; petiole 5-10 mm → [[Beilschmiedia_oblongifolia\|*B. oblongifolia*]]
 
-**2′.** Young branches glabrous; f. (14-28 × 8-10); petiole 25-30 mm....
+**2′.** Young branches glabrous; f. (14-28 × 8-10); petiole 25-30 mm.
 
 **2.** B. anacardioides.
 
@@ -109,7 +109,7 @@ tags: [genus, generated]
 
 **7′.** Petiole 15 mm, limb subcoriaceous, acumen fine → 6. B. Corbisieri.
 
-**6′.** Leaves not acuminate (7-14 × 3-6) coriaceous. 6 bis. B. diversiflora. Based on floral characters: → *O. glabrous*
+**6′.** Leaves not acuminate (7-14 × 3-6) coriaceous. 6 bis. B. diversiflora. Based on floral characters: → *O. glabrous*.
 
 **2.** Flower glabrous on the exterior: → [[Beilschmiedia_oblongifolia\|*B. oblongifolia*]]
 
@@ -131,7 +131,7 @@ tags: [genus, generated]
 
 **6.** Entirely. Inflorescences slender 6-12 cm; tepals equal to two thirds of the flower, spreading; fruit elliptic → 6. B. Corbisieri.
 
-**6′.** In the upper part only; inflorescences robust 4-8 cm; tepals equal to one third of the flower, more or less erect; fruit attenuate at the base → 6 bis. B. diversiflora. SUBGENUS STEMONADENIA KEY TO SECTIONS EUBEILSCHMIEDIA AND HUFELANDIA COMBINED
+**6′.** In the upper part only; inflorescences robust 4-8 cm; tepals equal to one third of the flower, more or less erect; fruit attenuate at the base → 6 bis. B. diversiflora. SUBGENUS STEMONADENIA KEY TO SECTIONS EUBEILSCHMIEDIA AND HUFELANDIA COMBINED.
 
 **1.** Leaves more or less cordate-auriculate at the base.
 
@@ -159,7 +159,7 @@ tags: [genus, generated]
 
 **6′.** Filaments absent or nearly absent but broad like the anther; F. (15-20 × 4-7) acuminate → B. Talbotiae (S. Moore) Rob. et Wilcz. B. Bx. 19: 494 (1949). Type: Talbot 1539, Nigeria (S).
 
-**5′.** Staminodes triangular or cordate, glabrous internally, hairy externally (rounded in B. Preussii) → *O. hairy*
+**5′.** Staminodes triangular or cordate, glabrous internally, hairy externally (rounded in B. Preussii) → *O. hairy*.
 
 **9.** Receptacle hairy internally; bracts ± caducous.
 
@@ -179,7 +179,7 @@ tags: [genus, generated]
 
 **13.** Bracts persistent; f. (9-18 × 4-7) acuminate, subcoriaceous; pedicels articulate → B. bracteata Rob. et Wilcz. B. Bx. 19: 487 (1949). Type: Casteels 2, Congo ex-belge (H).
 
-**13′.** Bracts caducous; f. (12-14 × 4-5) acuminate subcoriaceous; calyx splitting circularly. 27. B (?) calcitranthera (S) → *O. glabrous*
+**13′.** Bracts caducous; f. (12-14 × 4-5) acuminate subcoriaceous; calyx splitting circularly. 27. B (?) calcitranthera (S) → *O. glabrous*.
 
 **14.** Receptacle hairy internally. ^k14
 
@@ -191,7 +191,7 @@ tags: [genus, generated]
 
 **17.** Inflorescence glabrous; tepals hairy internally; f. (8-15 × 5-7) → B. djalonensis Chev. Fl. Viv. A.O.F.: 40 (1938). Type: Chevalier 18888. Guinée (E).
 
-**17′.** Inflorescence more or less puberulent; tepals glabrous internally → *L. discolorous*
+**17′.** Inflorescence more or less puberulent; tepals glabrous internally → *L. discolorous*.
 
 **19.** Filaments long; flowers 1 mm; inflorescences 10 cm very briefly puberulent; f. (15-20 × 5-7) acuminate. → B. ndongensis (Engl. et Kr.) Rob. et Wilcz. ^k19
 
@@ -245,15 +245,15 @@ tags: [genus, generated]
 
 **32.** Flowers 1.5 mm in diam; leaves large. ^k32
 
-**33.** F. (15-30 × 5-7.5) coriaceous, brown-greenish, acuminate, veins looped..... ^k33
+**33.** F. (15-30 × 5-7.5) coriaceous, brown-greenish, acuminate, veins looped ^k33
 
-**17.** B. minutiflora (cited above)
+**17.** B. minutiflora (cited above).
 
 **33′.** F. (25 × 12) papyraceous, acuminate, punctate. → B. Hutchinsoniana Rob. et Wilcz., B. Bx. 19: 487. = Tylostemon macrophyllus. Hut. et Dalz. = B. macrophylla Chevalier. Type: Talbot 2322 (K) Nigeria (E).
 
 **32′.** Flowers 2-2.5 mm in diam. F (8-12 × 4-5) coriaceous, acuminate → B. myrciaefolia (S. Moore) Rob. et Wilcz. B. Bx. 19: 478. = Tyl. myrciaefolius S. Moore cat. Talb. Nig.: 95 (1913). Type: Talbot 2334 (K) Nigeria (H or E).
 
-**29′.** Tepals with fine pubescence, more marked at the apex → *L. coriaceous*
+**29′.** Tepals with fine pubescence, more marked at the apex → *L. coriaceous*.
 
 **35.** Leaves small (6-10 × 3-4) glossy → B. nitida Engler. Jahrb. 26: 387 (1898). Type: Staudt 106 (P) Cameroun (E). ^k35
 
@@ -277,7 +277,7 @@ tags: [genus, generated]
 
 **40.** Calyx subglabrous on the exterior; F. (15-30 × 7-12) acuminate; flowers 1-1.5 mm in diam.; tepals half the length of the perianth. ^k40
 
-**41.** Filaments long, of constant width..... ^k41
+**41.** Filaments long, of constant width ^k41
 
 **17.** B. minutiflora (E or H).
 
@@ -297,7 +297,7 @@ tags: [genus, generated]
 
 **44′.** Tepals glabrous internally; F. (10-17 × 4-7).
 
-**45.** Inflorescences: 10 cm; 3rd cycle fertile ..... ^k45
+**45.** Inflorescences: 10 cm; 3rd cycle fertile ^k45
 
 **15.** B. Mannii (E. H. S.).
 
@@ -321,7 +321,7 @@ tags: [genus, generated]
 
 **49′.** Pubescence rust; filaments longer than the anther, not attenuate (cited above) → 11. B. Staudtii (E).
 
-**48′.** Leaves medium (10-18 × 3-5.5), papyraceous, discolorous; panicles 5 cm. 10. B. yangambiensis (E). REDUCED KEY TO GABONESE SPECIES OF SECTIONS EUBEILSCHMIEDIA AND HUFELANDIA
+**48′.** Leaves medium (10-18 × 3-5.5), papyraceous, discolorous; panicles 5 cm. 10. B. yangambiensis (E). REDUCED KEY TO GABONESE SPECIES OF SECTIONS EUBEILSCHMIEDIA AND HUFELANDIA.
 
 **1.** Leaves more or less cordate-auriculate at the base. 14. B. paulocordata.
 
@@ -343,7 +343,7 @@ tags: [genus, generated]
 
 **4′.** Ovary glabrous.
 
-**6.** Receptacle hairy internally; tepals puberulent at the apex; f. (9-22 × 3-10) acuminate, subcoriaceous to coriaceous.....
+**6.** Receptacle hairy internally; tepals puberulent at the apex; f. (9-22 × 3-10) acuminate, subcoriaceous to coriaceous.
 
 **6′.** Receptacle glabrous internally.
 
@@ -377,7 +377,7 @@ tags: [genus, generated]
 
 **14′.** Pubescence rust; filaments long, not attenuate at the base → 11. B. Staudti.
 
-**13′.** Leaves (10-18 × 3-5.5) papyraceous discolorous → 10. B. yangambiensis. KEY TO SECTION ACROTHECON FOR GABON AND NEIGHBOURING COUNTRIES
+**13′.** Leaves (10-18 × 3-5.5) papyraceous discolorous → 10. B. yangambiensis. KEY TO SECTION ACROTHECON FOR GABON AND NEIGHBOURING COUNTRIES.
 
 **1.** Flowers glabrous on the exterior (or slightly puberulent at the apex of the tepals); third cycle fertile.
 
@@ -405,7 +405,7 @@ tags: [genus, generated]
 
 **8.** Young branches thick, ferruginous puberulent; l. (15-18 × 6-7) subcoriaceous; panicle with tawny indumentum; fl. diam. 2.5 mm; ovary glabrous; shrub 2 m. ……B. Zenkeri Engl. Bot. Jahrb. 26 : 388 (1898). Types : Zenker 698 b, Staudt 109, Cameroun.
 
-**8′.** Young branches glabrous; l. (13-24 × 4-8) papyraceous to coriaceous; panicle with white indumentum; fl. diam. 2 mm; ovary hairy; shrub 5 m. → B. Gilbertii Rob. et Wilcz. B. Bx. : 19 : 504 (1949). Type : Gilbert 1265. Congo ex-belge. (Ovary glabrous : var. glabra Rob. et Wilcz. p. 506.)
+**8′.** Young branches glabrous; l. (13-24 × 4-8) papyraceous to coriaceous; panicle with white indumentum; fl. diam. 2 mm; ovary hairy; shrub 5 m. → B. Gilbertii Rob. et Wilcz. B. Bx. : 19 : 504 (1949). Type : Gilbert 1265. Congo ex-belge. (Ovary glabrous : var. glabra Rob. et Wilcz. p. 506.).
 
 **5′.** Receptacle hairy within; tepals acute or obtuse; leaves coriaceous.
 
@@ -421,7 +421,7 @@ tags: [genus, generated]
 
 **10′.** Leaves large (6-27 × 2-10) above yellowish-green, below brownish, large acumen; petiole 5-20 mm; pedicels 3-9 mm; inflorescence 4-14 cm finely puberulent; shrub to tree → [[Beilschmiedia_piya\|*B. piya*]]
 
-**4′.** Leaves with auriculate base, large (17-50 × 6-20) petiole 4 mm; blade subcoriaceous. Inflorescences 20 cm, sparsely puberulent; fl. pink 3 mm diam.; receptacle hairy within; ovary glabrous; pyriform fruit 4 cm; small tree 4-7 m → B. auriculata Rob. et Wilcz. B. Bx. 19 : 498 (1949) Type : Louis 14234. Congo ex-belge. KEY TO THE GABONESE SPECIES OF SECTION ACROTHECON
+**4′.** Leaves with auriculate base, large (17-50 × 6-20) petiole 4 mm; blade subcoriaceous. Inflorescences 20 cm, sparsely puberulent; fl. pink 3 mm diam.; receptacle hairy within; ovary glabrous; pyriform fruit 4 cm; small tree 4-7 m → B. auriculata Rob. et Wilcz. B. Bx. 19 : 498 (1949) Type : Louis 14234. Congo ex-belge. KEY TO THE GABONESE SPECIES OF SECTION ACROTHECON.
 
 **1.** Third stamen cycle fertile; flowers glabrous externally or slightly puberulent at the apex of the tepals.
 

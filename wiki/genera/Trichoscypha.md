@@ -68,7 +68,7 @@ This key is based on the availability of material with male flowers, unless othe
 
 **0.** 5–1.2 mm in length; indument of twigs and leaves puberulent to tomentellous (sometimes mixed with stellate hairs) → [[#^k8|8]] ^k0
 
-**0′.** Petals (2.5–)3–3.5 mm in length; stamens 6 mm in length, with anthers of 1–1.5 mm in length; indument of twigs and leaves generally hispid → T. mannii Trichoscypha 29
+**0′.** Petals (2.5–)3–3.5 mm in length; stamens 6 mm in length, with anthers of 1–1.5 mm in length; indument of twigs and leaves generally hispid → T. mannii Trichoscypha 29.
 
 **8.** Tree or liana; leaflet blade with (9–)10 to 17(–20) pairs of lateral veins; flowers pedicellate; petals spreading to reflexed, 2–3.5 mm in length → [[#^k9|9]] ^k8
 
@@ -112,7 +112,7 @@ This key is based on the availability of material with male flowers, unless othe
 
 **18.** Petals white or yellow; ovary glabrous or rarely with a few hairs; fruit glabrous; leaflet blade generally finely pustulate to granulate above → [[Trichoscypha_reygaertii\|*T. reygaertii*]] ^k18
 
-**18′.** Petals pink or red; ovary velvety; fruit with short hairs, ± appressed; leaflet blade smooth above → T. rubicunda 30 Frans J. BRETELER
+**18′.** Petals pink or red; ovary velvety; fruit with short hairs, ± appressed; leaflet blade smooth above → T. rubicunda 30 Frans J. BRETELER.
 
 
 ## Species in region

@@ -36,7 +36,7 @@ Inflorescences racemose, often elongate, rarely short and subcapitate; peduncle 
 
 **2.** Bracteoles absent; bracts medifix; flower with yellow corolla, sometimes cleistogamous → [[Utricularia_subulata\|*U. subulata*]] ^k2
 
-**2′.** Bracteoles present; flower with yellow or blue-violet corolla, generally non-cleistogamous → 3 B A C
+**2′.** Bracteoles present; flower with yellow or blue-violet corolla, generally non-cleistogamous → 3 B A C.
 
 **3.** Bracts and bracteoles basifixed or slightly decurrent below their point of insertion 4 ^k3
 

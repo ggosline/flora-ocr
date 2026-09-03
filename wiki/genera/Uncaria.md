@@ -36,9 +36,9 @@ U. gambir (Hunter) Roxb. from Malesia, used in numerous masticatory mixtures, is
 
 **1.** Stems pubescent. ^k1
 
-**2.** Calyx with lobes 0–0.25 mm tall; laminae pubescent on both surfaces; corolla less than 17 mm long or less..... ^k2
+**2.** Calyx with lobes 0–0.25 mm tall; laminae pubescent on both surfaces; corolla less than 17 mm long or less ^k2
 
-**2.** Calyx with lobes 1–2 mm long; laminae glabrous, at least on the upper surface; corolla more than 25 mm long → U. Talbotii Wernh. (from French Guinea to Nigeria.)
+**2.** Calyx with lobes 1–2 mm long; laminae glabrous, at least on the upper surface; corolla more than 25 mm long → U. Talbotii Wernh. (from French Guinea to Nigeria.).
 
 **1′.** Stems glabrous or glabrescent → [[Uncaria_africana\|*U. africana*]]
 

@@ -42,7 +42,7 @@ Pedicel and axes of the inflorescence pubérulent; inflorescence with numerous f
 
 **4.** Fruit whitish to yellowish or orange, with free mericarps (if both are developed); corolla lobes greenish to whitish; leaf limb generally gradually narrowed toward the apex → *R. letouzeyi* ^k4
 
-**4′.** Fruit red with mericarps connate up to about half their length, obcordate; corolla lobes white to pink or reddish-brown; leaf limb generally more abruptly narrowed at the apex into a long narrow acumen → *R. mannii*
+**4′.** Fruit red with mericarps connate up to about half their length, obcordate; corolla lobes white to pink or reddish-brown; leaf limb generally more abruptly narrowed at the apex into a long narrow acumen → *R. mannii*.
 
 **5.** Petiole 1.5–6 cm; leaf limb not or slightly decurrent on the petiole; fruit 16–20 mm in diameter, lenticellate; seed 10–14 × 5.5–7.5 × 2.5–4.5 mm; corolla distinctly constricted at the throat → *R. caffra* ^k5
 

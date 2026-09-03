@@ -34,7 +34,7 @@ Notes: An occurrence of O. basilicum L. has been reported at Cape Lopez. Raponda
 
 **3.** Stem hairy all around; leaf blade generally pubescent; inflorescence lax or dense → O. gratissimum var. gratissimum ^k3
 
-**3′.** Stem glabrous toward the base or with short hairs on one or two sides of the stem only; leaf blade glabrous or with hairs confined to the veins below; inflorescence lax → O. gratissimum var. macrophyllum
+**3′.** Stem glabrous toward the base or with short hairs on one or two sides of the stem only; leaf blade glabrous or with hairs confined to the veins below; inflorescence lax → O. gratissimum var. macrophyllum.
 
 
 ## Species in region

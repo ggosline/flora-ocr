@@ -49,7 +49,7 @@ starchy. Embryo small, apical.
 ## Key to the species
 
 
-**1.** Nervilles less than 2 mm apart from one another, distinct ..... ^k1
+**1.** Nervilles less than 2 mm apart from one another, distinct ^k1
 
 **1′.** Nervilles more than 2 mm apart from one another or indistinct.
 

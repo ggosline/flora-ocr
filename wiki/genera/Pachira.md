@@ -48,7 +48,7 @@ This essentially Neotropical genus is represented in Africa by introduced specie
 
 **2.** Abaxial surface of blade puberulent or lepidote → [[Pachira_glabra\|*P. glabra*]] ^k2
 
-**2′.** Abaxial surface of blade glabrous → 2. P. sessilis KEY TO SPECIES BY FRUITS
+**2′.** Abaxial surface of blade glabrous → 2. P. sessilis KEY TO SPECIES BY FRUITS.
 
 **1.** Valves glabrous → [[Pachira_glabra\|*P. glabra*]]
 

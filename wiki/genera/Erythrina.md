@@ -38,7 +38,7 @@ Notes: Genus rarely collected in Gabon. The following species have been included
 
 **2.** Calyx with a dorsal or lateral slit; corolla orange or white, petals of the keel free; pod straight, reaching 30 cm in length; indumentum with numerous stellate hairs, glabrescent at maturity (to be sought in Gabon) → E. variegata L. ^k2
 
-**2′.** Calyx without a slit or with a ventral (abaxial) slit; corolla bright red to orange, sometimes with some purple, petals of the keel fused or free; indumentum with simple to branched or stellate hairs; pod spiralled to curved, or if straight, reaching 18 cm in length .. 3
+**2′.** Calyx without a slit or with a ventral (abaxial) slit; corolla bright red to orange, sometimes with some purple, petals of the keel fused or free; indumentum with simple to branched or stellate hairs; pod spiralled to curved, or if straight, reaching 18 cm in length .. 3.
 
 **3.** Petals of the keel free; leaflets with papyraceous limb; calyx limb formed of 5 ± equal and ± fleshy lobes of 1.5–2.5 or of 8–15 mm; seed with black hilum → [[#^k4|4]] ^k3
 

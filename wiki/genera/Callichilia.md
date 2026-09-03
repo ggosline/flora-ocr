@@ -30,7 +30,7 @@ BIBLIOGRAPHY
 
 **1.** Leaf blade rounded to subcordate at the base; petiole reaching 4(–7) mm; liane or shrub; corolla tube 23–36 mm long; stamens inserted from the sixth whorl to two-thirds from the base of the tube → [[Callichilia_inaequalis\|*C. inaequalis*]] ^k1
 
-**1′.** Leaf blade cuneate to rarely rounded at the base; petiole reaching 15(–20) mm; erect shrub; corolla tube 60–108 mm long; stamens inserted from the sixth whorl to two-thirds from the base of the tube → *C. bequaerii*
+**1′.** Leaf blade cuneate to rarely rounded at the base; petiole reaching 15(–20) mm; erect shrub; corolla tube 60–108 mm long; stamens inserted from the sixth whorl to two-thirds from the base of the tube → *C. bequaerii*.
 
 
 ## Species in region

@@ -72,15 +72,15 @@ emitting digitations on its inner face. Embryo apical or subapical.
 
 **1.** Blade densely pubescent on the lower face ^k1
 
-**1′.** 2\. Blade sparsely pubescent above; leaf base peltate; male inflorescence a raceme of spaced panicles → **[[Octoknema_genovefa|1. O. genovefa]]**
+**1′.** 2\. Blade sparsely pubescent above; leaf base peltate; male inflorescence a raceme of spaced panicles → **[[Octoknema_genovefa|1. O. genovefa]]**.
 
-**1′.** 2'. Blade glabrous above; leaf base rounded; male inflorescence a dense raceme of fascicles → **[[Octoknema_klaineana|2. O. klaineana]]**
+**1′.** 2'. Blade glabrous above; leaf base rounded; male inflorescence a dense raceme of fascicles → **[[Octoknema_klaineana|2. O. klaineana]]**.
 
-**1′.** Blade glabrous or very sparsely pubescent on the lower face
+**1′.** Blade glabrous or very sparsely pubescent on the lower face.
 
-**1′.** 3\. Midrib, fruit and branchlets glabrous; leaf base cuneate; petiole glabrous → **[[Octoknema_dinklagei|3. O. dinklagei]]**
+**1′.** 3\. Midrib, fruit and branchlets glabrous; leaf base cuneate; petiole glabrous → **[[Octoknema_dinklagei|3. O. dinklagei]]**.
 
-**1′.** 3'. Midrib, fruit and branchlets pubescent; leaf base attenuate or rounded; petiole pubescent → **[[Octoknema_affinis|4. O. affinis]]**
+**1′.** 3'. Midrib, fruit and branchlets pubescent; leaf base attenuate or rounded; petiole pubescent → **[[Octoknema_affinis|4. O. affinis]]**.
 
 
 ## Species in Gabon (Gosline & Malécot 2011)

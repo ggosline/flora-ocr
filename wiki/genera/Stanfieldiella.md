@@ -42,7 +42,7 @@ Bibliography
 
 **2.** Plant entirely covered with spreading, stiff, whitish translucent pubescence → S. brachycarpa var. hirsuta ^k2
 
-**2′.** Plant glabrous, except for some scattered long hairs, spreading, violaceous, on the internodes, sheaths, and at the base of the blade → S. brachycarpa var. brachycarpa
+**2′.** Plant glabrous, except for some scattered long hairs, spreading, violaceous, on the internodes, sheaths, and at the base of the blade → S. brachycarpa var. brachycarpa.
 
 **3.** Terminal inflorescence generally 3‒5 cm in width; plant generally up to 15–20(‒30) cm in height; fruit 1.5‒2 mm in width; seed smooth → [[Stanfieldiella_imperforata\|*S. imperforata*]] ^k3
 

@@ -40,7 +40,7 @@ This genus is African, Madagascan and Asian. Most of the 25 recognized species a
 
 **4′.** Base obtuse or shortly auriculate; limb large: 20–23 × 9–10 cm → [[Pyrenacantha_grandifolia\|*P. grandifolia*]]
 
-**3′.** Limb pubescent beneath → *H. present*
+**3′.** Limb pubescent beneath → *H. present*.
 
 **6.** Hairs appressed. ^k6
 

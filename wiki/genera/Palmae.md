@@ -25,7 +25,7 @@ Trees, shrubs or lianes, spines present or absent, monocarpic [dying after a sin
 
 **1.** Leaf pinnate → [[#^k2|2]] ^k1
 
-**1′.** Leaf costapalmately (palmate but with the main vein well developed) → Hyphaene
+**1′.** Leaf costapalmately (palmate but with the main vein well developed) → Hyphaene.
 
 **2.** Petiole and/or leaflet entirely devoid of spines → [[#^k3|3]] ^k2
 
@@ -37,7 +37,7 @@ Trees, shrubs or lianes, spines present or absent, monocarpic [dying after a sin
 
 **4.** Leaflet rhomboidal, green and unicolorous → Podococcus ^k4
 
-**4′.** Leaflet lanceolate to sigmoid, bicolorous, lower surface pale green or whitish → Sclerosperma
+**4′.** Leaflet lanceolate to sigmoid, bicolorous, lower surface pale green or whitish → Sclerosperma.
 
 **5.** Climbing palm → [[#^k6|6]] ^k5
 
@@ -45,7 +45,7 @@ Trees, shrubs or lianes, spines present or absent, monocarpic [dying after a sin
 
 **6.** Adult leaf with a cirrus [prolongation of the rachis into a whip] armed with spine-leaflets [apical leaflets modified into hooks] → [[#^k7|7]] ^k6
 
-**6′.** Adult leaf without cirrus → Calamus
+**6′.** Adult leaf without cirrus → Calamus.
 
 **7.** Leaf sheath without spines → Eremospatha ^k7
 
@@ -53,7 +53,7 @@ Trees, shrubs or lianes, spines present or absent, monocarpic [dying after a sin
 
 **8.** Ochrea [apical prolongation of the sheath] ± triangular, desiccating, generally grey in color; leaf sheath covered with cylindrical spines, hard, persistent or not falling readily → Laccosperma ^k8
 
-**8′.** Ochrea tubulate, not desiccating, generally green in color; leaf sheath covered with flattened spines, caducous or falling readily → Oncocalamus
+**8′.** Ochrea tubulate, not desiccating, generally green in color; leaf sheath covered with flattened spines, caducous or falling readily → Oncocalamus.
 
 **9.** Petiole devoid of spines; fruit covered with scales → Raphia ^k9
 
@@ -61,7 +61,7 @@ Trees, shrubs or lianes, spines present or absent, monocarpic [dying after a sin
 
 **10.** Transverse section of leaflets reduplicate [inverted V-shaped] → Elaeis ^k10
 
-**10′.** Transverse section of leaflets induplicate [V-shaped] → Phoenix
+**10′.** Transverse section of leaflets induplicate [V-shaped] → Phoenix.
 
 
 ## Species in region

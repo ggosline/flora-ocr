@@ -46,7 +46,7 @@ FOR FLOWERING SPECIMENS
 
 **1.** Stems with scattered spines → [[Strychnos_aculeata\|*S. aculeata*]] ^k1
 
-**1′.** Stems without spines, sometimes with axillary spines (section Spinosa) → *I. terminal*
+**1′.** Stems without spines, sometimes with axillary spines (section Spinosa) → *I. terminal*.
 
 **3.** Sepals narrow, twice as long as wide or more, acuminate or subulate. ^k3
 
@@ -64,7 +64,7 @@ FOR FLOWERING SPECIMENS
 
 **7.** Sepals on the exterior generally glabrous, at least at the apex, never covered with uniform indumentum; small branches generally glabrous; branches and bark not suberous; ovary one-locular → [[Strychnos_spinosa\|*S. spinosa*]] ^k7
 
-**7′.** Sepals on the exterior covered with uniform pubescence; small
+**7′.** Sepals on the exterior covered with uniform pubescence; small.
 
 **10′.** Limb somewhat glossy or quite dull below, bearded at the axils of the second pair of secondary veins. → [[Strychnos_urceolata\|*S. urceolata*]]
 
@@ -76,7 +76,7 @@ FOR FLOWERING SPECIMENS
 
 **12.** Small branches and leaves glabrous; limb 3-11 cm long → [[Strychnos_fallax\|*S. fallax*]] ^k12
 
-**12′.** Small branches brown-pubescent as are the leaves below on the main veins; limb 12-22 cm long → *S. memecyloid*
+**12′.** Small branches brown-pubescent as are the leaves below on the main veins; limb 12-22 cm long → *S. memecyloid*.
 
 **2′.** Inflorescence axillary or sometimes both terminal and axillary.
 
@@ -106,7 +106,7 @@ FOR FLOWERING SPECIMENS
 
 **20.** Ripe bud 4.5-6 mm long; corolla glabrous on the exterior or finely pilose-pubescent on the lobes; pistil pilose-pubescent, except on the base of the ovary and the apex of the style which are glabrous, 3.2-4 mm long; calyx glabrous on both sides → [[Strychnos_chrysophylla\|*S. chrysophylla*]] ^k20
 
-**20′.** Ripe bud 2 mm long, sparsely pubescent on the exterior; pistil with few hairs at the apex of the ovary, 2.5 mm long; calyx pubescent internally at the base → *S. talbotie*
+**20′.** Ripe bud 2 mm long, sparsely pubescent on the exterior; pistil with few hairs at the apex of the ovary, 2.5 mm long; calyx pubescent internally at the base → *S. talbotie*.
 
 **19′.** Corolla lobes spreading or recurved; small branches and leaves generally furnished with at least a few hairs.
 
@@ -116,7 +116,7 @@ FOR FLOWERING SPECIMENS
 
 **21′.** Leaves up to 12 cm long; pistil 4-8 mm long, sometimes shorter; stamens well exserted.
 
-**22.** Leaves coriaceous, glabrous above; small branches generally glabrous; tendrils in pairs; ripe bud 7-9.5 mm long, glabrous or furnished with few hairs on the exterior..... ^k22
+**22.** Leaves coriaceous, glabrous above; small branches generally glabrous; tendrils in pairs; ripe bud 7-9.5 mm long, glabrous or furnished with few hairs on the exterior ^k22
 
 **35.** S. scheffleri. ^k35
 
@@ -154,7 +154,7 @@ FOR FLOWERING SPECIMENS
 
 **30.** Corolla with a distinct crown; flowers large; large liana with tendrils in 1-3 pairs; plant black on dry specimens. 7. S. camptoneura. ^k30
 
-**30′.** Corolla without a crown or with an indistinct crown → *B. lenticellate*
+**30′.** Corolla without a crown or with an indistinct crown → *B. lenticellate*.
 
 **32.** Ripe bud 2-3 mm and pistil 1-2.5 mm long. ^k32
 
@@ -162,7 +162,7 @@ FOR FLOWERING SPECIMENS
 
 **33′.** Corolla with brushes of hairs recurved toward the inside at the apex of the lobes; the two large secondary veins curved along the margin somewhat more distinct than the others.
 
-**34.** Leaves much paler and very dull below, coriaceous or subcoriaceous; the secondary veins and the main vein form a fairly small angle..... ^k34
+**34.** Leaves much paler and very dull below, coriaceous or subcoriaceous; the secondary veins and the main vein form a fairly small angle ^k34
 
 **26.** S. malchairii.
 
@@ -190,7 +190,7 @@ FOR FLOWERING SPECIMENS
 
 **39′.** Leaves with venation not or scarcely prominent below, not prominent above; ripe bud 4.5-6 mm and pistil 3.2-6(-7) mm long...
 
-**18.** S. floribunda
+**18.** S. floribunda.
 
 **31′.** Branches not lenticellate (see also 33. S. retinervis).
 
@@ -198,9 +198,9 @@ FOR FLOWERING SPECIMENS
 
 **41.** Brushes at the apex of the lobes, recurved; stamens at the throat; see no. 34 of this key. ^k41
 
-**41′.** Brushes at the throat, erect; stamens in the tube.....
+**41′.** Brushes at the throat, erect; stamens in the tube.
 
-**24.** S. longicaudata
+**24.** S. longicaudata.
 
 **40′.** Corolla internally pilose.
 
@@ -290,7 +290,7 @@ FOR FLOWERING SPECIMENS
 
 **12′.** Seed not depressed; pistil hairy or glabrous.
 
-**15.** Seed ellipsoid or subglobose, not or scarcely flattened, smooth → *F. terminal*
+**15.** Seed ellipsoid or subglobose, not or scarcely flattened, smooth → *F. terminal*.
 
 **17.** Small branches square, glabrous; fructescence paniculate, up to 15 cm long; tendrils in pairs → [[Strychnos_samba\|*S. samba*]]
 
@@ -304,9 +304,9 @@ FOR FLOWERING SPECIMENS
 
 **21.** Petiole rugose, pubescent as the small branches; fructescence lax; see no. 28 of the preceding key.
 
-**21′.** Petiole not rugose; fructescence contracted; plant dark brown when dry and with dark brown pubescence .....
+**21′.** Petiole not rugose; fructescence contracted; plant dark brown when dry and with dark brown pubescence.
 
-**6.** S. campic
+**6.** S. campic.
 
 **19′.** Small branches lenticellate; see no. 26 of this key.
 
@@ -332,13 +332,13 @@ FOR FLOWERING SPECIMENS
 
 **26′.** Leaves coriaceous or subcoriaceous, not fluted; fruit ± 1-1.25 times longer than wide; seed subglobose or almost.
 
-**27.** Leaves very dull and distinctly paler below; testa sticking to the pulp, generally not visible .....
+**27.** Leaves very dull and distinctly paler below; testa sticking to the pulp, generally not visible.
 
 **26.** S. malchairii.
 
 **27′.** Leaves dull or glossy below; testa well visible, with fine pubescence.
 
-**28.** Pistil 1-2.5 mm long; when the style is present on the fruit, it measures up to 1.5 mm long and terminates in a capitate stigma; small branches with caducous epidermis; fruit often stipitate and/or laterally compressed; species very widespread in West and East Africa, less widespread in Congo and not yet collected in Cameroon or Gabon. → S. usambarensis Gilg
+**28.** Pistil 1-2.5 mm long; when the style is present on the fruit, it measures up to 1.5 mm long and terminates in a capitate stigma; small branches with caducous epidermis; fruit often stipitate and/or laterally compressed; species very widespread in West and East Africa, less widespread in Congo and not yet collected in Cameroon or Gabon. → S. usambarensis Gilg.
 
 **28′.** Pistil 4-6 mm long; when the style is present on the fruit, it measures 3-5 mm long and terminates in a capitate stigma; fruit sometimes stipitate, not compressed; see no. 38 of the preceding key.
 
@@ -358,7 +358,7 @@ FOR FLOWERING SPECIMENS
 
 **32′.** Tendrils in pairs; fructescence lax or fairly lax; leaves (7.5-) 12-22 cm long, furnished below with sparse pubescence on the main veins; fruit 2-3 cm long → [[Strychnos_memecyloides\|*S. memecyloides*]]
 
-**29′.** Seed rugose; testa fairly thick → *F. terminal*
+**29′.** Seed rugose; testa fairly thick → *F. terminal*.
 
 **34.** Leaves glabrous on both faces.
 
@@ -394,7 +394,7 @@ FOR FLOWERING SPECIMENS
 
 **41′.** Leaves generally about 5-10 cm long.
 
-**42.** Pistil 2.5 mm long; branches not lenticellate; small branches glabrous as are the leaves, these becoming pale brownish-green on drying (see also 10. S. chrysophylla) → *S. talbotiae*
+**42.** Pistil 2.5 mm long; branches not lenticellate; small branches glabrous as are the leaves, these becoming pale brownish-green on drying (see also 10. S. chrysophylla) → *S. talbotiae*.
 
 **42′.** Pistil 6-9 mm long; branches lenticellate or not; small branches glabrous or not as are the leaves.
 

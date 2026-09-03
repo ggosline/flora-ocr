@@ -29,7 +29,7 @@ tags: [genus, generated]
 
 **3.** Inflorescence paniculate, rostellum beaked → 28. Graphorkis ^k3
 
-**3′.** Inflorescence simple, rostellum short and broad → 29. Eulophia
+**3′.** Inflorescence simple, rostellum short and broad → 29. Eulophia.
 
 
 ## Species in region

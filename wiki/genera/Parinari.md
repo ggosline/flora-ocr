@@ -46,7 +46,7 @@ Large forest trees (P. excelsa, P. hypochrysea), tree of river margins (P. conge
 
 **2′.** Leaves subcordate to cordate.
 
-**3.** Leaves elliptic, sometimes broadly elliptic, with obtuse base, slightly cordate; large flat glands towards the middle of the petiole; indumentum tawny golden; staminodial rim thickened and indurate, without staminodes..... ^k3
+**3.** Leaves elliptic, sometimes broadly elliptic, with obtuse base, slightly cordate; large flat glands towards the middle of the petiole; indumentum tawny golden; staminodial rim thickened and indurate, without staminodes ^k3
 
 **3′.** Watercourse margin tree; leaves elliptic-oblong, with subcordate base; large convex glands on the distal half of the petiole; indumentum greyish → [[Parinari_congensis\|*P. congensis*]]
 

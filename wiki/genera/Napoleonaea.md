@@ -52,7 +52,7 @@ B: Hutchinson & Dalziel (1954), Aubréville (1959), Liben (1971), Prance (2004),
 
 **6.** Leaves (7.5–)8–15(–18) × 2.5–7 cm, with 5–7(–9) pairs of lateral veins; calyx smooth to verrucose → [[Napoleonaea_vogelii\|*N. vogelii*]] ^k6
 
-**6′.** Leaves (14–)16–26(–31) × 5–9(–10) cm, with (6–)8–9(–10) pairs of lateral veins; calyx smooth → N. septentrionalis Liben
+**6′.** Leaves (14–)16–26(–31) × 5–9(–10) cm, with (6–)8–9(–10) pairs of lateral veins; calyx smooth → N. septentrionalis Liben.
 
 
 ## Species in region

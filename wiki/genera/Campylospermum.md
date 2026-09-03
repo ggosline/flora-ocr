@@ -76,7 +76,7 @@ Bibliography: Amaral & Bittrich (2014), Bamps & Farron (1967), Bissiengou (2014)
 
 **13.** Lamina with principal vein distinctly prominent above, 10–16 pairs of lateral veins, tertiary veins scalariform perpendicular to the principal vein → [[Campylospermum_sulcatum\|*C. sulcatum*]] ^k13
 
-**13′.** Lamina with principal vein plane above, 14 to 27 pairs of lateral veins, tertiary veins scalariform perpendicular to the secondary veins → C. gabonense subsp. australe
+**13′.** Lamina with principal vein plane above, 14 to 27 pairs of lateral veins, tertiary veins scalariform perpendicular to the secondary veins → C. gabonense subsp. australe.
 
 **14.** Lamina with tertiary veins very distinct and prominent on both faces (on dry material); inflorescence simple or sometimes branched, without gemmate scales at the base, principal axis (2–)4–10(–14) cm in length; racemes absent to 2(or 4), 2–4(–8) cm in length; cotyledons incumbent, unequal with small external cotyledon → [[Campylospermum_excavatum\|*C. excavatum*]] ^k14
 
@@ -88,7 +88,7 @@ Bibliography: Amaral & Bittrich (2014), Bamps & Farron (1967), Bissiengou (2014)
 
 **16.** Inflorescence dense, simple or sometimes with 1 or 2(or 3) racemes reaching 4 cm in length → [[#^k17|17]] ^k16
 
-**16′.** Inflorescence lax, branched, racemes generally more than 4 cm in length .. 20
+**16′.** Inflorescence lax, branched, racemes generally more than 4 cm in length .. 20.
 
 **17.** Lamina bluish-green to greyish above on dry material; stipules 3–4 mm in length → [[Campylospermum_glaucum\|*C. glaucum*]] ^k17
 
@@ -100,7 +100,7 @@ Bibliography: Amaral & Bittrich (2014), Bamps & Farron (1967), Bissiengou (2014)
 
 **19.** Lamina bullate or rarely plane; tertiary veins scalariform perpendicular to the lateral veins → C. gabonense subsp. australe ^k19
 
-**19′.** Lamina plane or rarely bullate; tertiary veins scalariform perpendicular to the principal veins → C. gabonense subsp. gabonense
+**19′.** Lamina plane or rarely bullate; tertiary veins scalariform perpendicular to the principal veins → C. gabonense subsp. gabonense.
 
 **20.** Lamina with lateral veins indistinct or slightly prominent above, tertiary venation indistinct above → [[#^k21|21]] ^k20
 

@@ -114,7 +114,7 @@ much higher number of specimens than previously, as in the Flora of the Belgian 
 
 **9.** Leaflets with blade covered beneath with short, ± appressed, silky-silvery hairs, lateral nerves in 7 or 8 pairs, ± parallel, distant about 1 cm → [[Leptoderris_hypargyrea\|*L. hypargyrea*]] ^k9
 
-**9′.** Leaflets with blade tomentose beneath, lateral nerves in 4 or 5(–6) pairs, distant
+**9′.** Leaflets with blade tomentose beneath, lateral nerves in 4 or 5(–6) pairs, distant.
 
 **1.** 5–3 cm, scarcely parallel → [[Leptoderris_tomentella\|*L. tomentella*]]
 

@@ -62,7 +62,7 @@ Bibliography: Cheek et al. (2017), Cook & Rutishauser (2007), Cusset (1974, 1983
 
 **9.** Leaves 1 or 2 times dichotomous, with linear segments, 0.7–2.5 cm long; flowers solitary at the leaf axils or grouped by 2 or 3 at the apex of the branchlets → [[Ledermanniella_bifurcata\|*L. bifurcata*]] ^k9
 
-**9′.** Leaves several times dichotomous, with filiform segments, 2–5 cm long; flowers in glomérules of 3 to 7, grouped at the apex of a very short branchlet → L. letestui 30 Jean-Paul GHOGUE Muséum National d'Histoire Naturelle, Paris (©), reproduced with permission from Cusset (1984). Ledermanniella 31
+**9′.** Leaves several times dichotomous, with filiform segments, 2–5 cm long; flowers in glomérules of 3 to 7, grouped at the apex of a very short branchlet → L. letestui 30 Jean-Paul GHOGUE Muséum National d'Histoire Naturelle, Paris (©), reproduced with permission from Cusset (1984). Ledermanniella 31.
 
 
 ## Species in region

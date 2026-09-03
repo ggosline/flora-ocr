@@ -60,7 +60,7 @@ B: Balle (1948), Diniz (1997), Düll (1973), Mathieu & Callejas Posada (2006), V
 
 **6.** Herb generally epiphytic; leaf blade elliptic (width/length ratio < ½), base attenuate and apex shortly to long-acuminate → P. fernandopoana var. fernandopoana ^k6
 
-**6′.** Herb generally terrestrial; leaf blade broadly ovate-elliptic (width/length ratio > ½), base rounded and apex acute-apiculate to subcuspidulate → P. molleri subsp. molleri
+**6′.** Herb generally terrestrial; leaf blade broadly ovate-elliptic (width/length ratio > ½), base rounded and apex acute-apiculate to subcuspidulate → P. molleri subsp. molleri.
 
 
 ## Species in region

@@ -24,7 +24,7 @@ Genus of two species widely distributed in tropical Africa, extending to Zimbabw
 ## Key to the species
 
 
-**1′.** Inflorescence lax, rachis zigzag, bracts spaced, labellum trilobed, the median lobe more or less divided at the apex → 43. 1. C. christyanum
+**1′.** Inflorescence lax, rachis zigzag, bracts spaced, labellum trilobed, the median lobe more or less divided at the apex → 43. 1. C. christyanum.
 
 
 ## Species in region

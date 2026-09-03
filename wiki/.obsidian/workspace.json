@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "families/Ebenaceae.md",
+                "file": "genera/Diospyros.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Ebenaceae"
+              "title": "Diospyros"
             }
           }
         ]
@@ -187,8 +187,8 @@
   },
   "active": "751504066fed907e",
   "lastOpenFiles": [
-    "genera/Diospyros.md",
     "families/Ebenaceae.md",
+    "genera/Diospyros.md",
     "species/Zehneria_gilletii.md",
     "species/Wissadula_rostrata.md",
     "species/Wahlenbergia_perrottetii.md",

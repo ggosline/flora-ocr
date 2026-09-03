@@ -46,7 +46,7 @@ B: Bourobou-Bourobou & Breteler (1997, 1999), Breteler (2003), Fernandes & Ferna
 
 **4.** Upper part of pedicel and calyx glabrous (Plate 11D, E), or rarely with a few hairs in S. juglandifolia and S. oxyandra → [[#^k5|5]] ^k4
 
-**4′.** Upper part of pedicel and calyx hairy, also in fruit (Plate 11A) . S. africana
+**4′.** Upper part of pedicel and calyx hairy, also in fruit (Plate 11A) . S. africana.
 
 **5.** Ovary and fruit glabrous → [[#^k6|6]] ^k5
 

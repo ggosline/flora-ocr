@@ -46,7 +46,7 @@ Although their position in the genus has been much discussed, X. Quintasii and X
 
 **4.** Leaves coriaceous; reticulation with fine meshes; seeds 10–12 mm long, 6–7 mm wide → 3. X. rubescens var. rubescens ^k4
 
-**4′.** Leaves thin; reticulation with more lax and more visible meshes on the lower face; seeds 20 mm long, 12 mm wide.. X. rubescens var. Klaineai
+**4′.** Leaves thin; reticulation with more lax and more visible meshes on the lower face; seeds 20 mm long, 12 mm wide.. X. rubescens var. Klaineai.
 
 **3′.** Outer petals of approximately the same form as the inner petals, somewhat longer but never twice as long.
 
@@ -54,7 +54,7 @@ Although their position in the genus has been much discussed, X. Quintasii and X
 
 **6.** Floral buds rounded at the apex; pedicel 5–10 mm long; calyx lobes reaching 5 mm in length → *X. africanu* ^k6
 
-**6′.** Floral buds acute at the apex; pedicel 2–5 mm long; calyx lobes 2–3 mm long. 4. X. Staudtii
+**6′.** Floral buds acute at the apex; pedicel 2–5 mm long; calyx lobes 2–3 mm long. 4. X. Staudtii.
 
 **5′.** Floral buds lanceolate or linear, ±acute.
 
@@ -64,9 +64,9 @@ Although their position in the genus has been much discussed, X. Quintasii and X
 
 **8′.** Leaves papyraceous to subcoriaceous; flowers with pedicel not exceeding 5 mm in length; carpels 5–16; styles not glabrous; aril not bilobed.
 
-**9.** Flowers not exceeding 5 cm in length; base of inner petals glabrous; styles terminated by a tuft of hairs; receptacle convex, with margins raised and crenate surrounding the ovaries; leaves elliptic-oblong to ovate-elliptic; mericarps with stipes 0.7–1.3 cm long; aril inconspicuous...... ^k9
+**9.** Flowers not exceeding 5 cm in length; base of inner petals glabrous; styles terminated by a tuft of hairs; receptacle convex, with margins raised and crenate surrounding the ovaries; leaves elliptic-oblong to ovate-elliptic; mericarps with stipes 0.7–1.3 cm long; aril inconspicuous ^k9
 
-**9′.** Flowers 7–7.5 cm long; base of inner petals enlarged above the claw and furnished with a tuft of long hairs internally; styles hirsute; receptacle plane, not raised around the ovaries; leaves oblong, long-acuminate; 6–8 uniseriate ovules; fruits unknown → 7. X. Mildbraedii
+**9′.** Flowers 7–7.5 cm long; base of inner petals enlarged above the claw and furnished with a tuft of long hairs internally; styles hirsute; receptacle plane, not raised around the ovaries; leaves oblong, long-acuminate; 6–8 uniseriate ovules; fruits unknown → 7. X. Mildbraedii.
 
 **7′.** Mericarps shortly cylindric or obovoid; seeds biseriate, horizontal to oblique.
 
@@ -82,7 +82,7 @@ Although their position in the genus has been much discussed, X. Quintasii and X
 
 **13.** Lower face of leaves pubescent-appressed with short hairs.. 9. X. Le-Testui var. Le-Testui ^k13
 
-**13′.** Lower face of leaves densely pubescent-appressed with long hairs → X. Le-Testui var. longepilosa
+**13′.** Lower face of leaves densely pubescent-appressed with long hairs → X. Le-Testui var. longepilosa.
 
 **12′.** Receptacle conical-convex totally surrounding the ovaries; mericarps glabrous; leaves elliptic to elliptic-lanceolate, ±cuneiform at the base; petals linear, the inner ones with glabrous claw.
 
@@ -92,7 +92,7 @@ Although their position in the genus has been much discussed, X. Quintasii and X
 
 **14.** Branchlets tomentellose to glabrous; leaves 5–17 cm long, 2–6 cm wide, ±appressed-pubescent to glabrous on the lower face; venation plane, well visible on the upper face; carpels 6–11; styles glabrous; mericarps obovoid, ±verruculose; rhytidome grayish-white → [[Xylopia_phloiodora\|*X. phloiodora*]] ^k14
 
-**14′.** Branchlets shortly hirsute; leaves 2–6 cm long, 1–1.5 cm wide, densely pubescent on the lower face; venation almost invisible on the upper face; carpels 8–11; styles pubescent at the apex; mericarps obovoid, smooth; bark red-orange, slippery → ..12. X. Pynaertii
+**14′.** Branchlets shortly hirsute; leaves 2–6 cm long, 1–1.5 cm wide, densely pubescent on the lower face; venation almost invisible on the upper face; carpels 8–11; styles pubescent at the apex; mericarps obovoid, smooth; bark red-orange, slippery → ..12. X. Pynaertii.
 
 
 ## Species in region

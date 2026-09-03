@@ -33,8 +33,12 @@ from flora_ocr.flora import REPO_ROOT
 
 WIKI_DIR = REPO_ROOT / "wiki"
 
-KEY_HEADING_RE = re.compile(r"^## Key.*$", re.M)
-NUMBERED_LEAD_RE = re.compile(r"^\s*(\d+)\s*(['’]?)\s*[.)]\s*[-–—]?\s*(.*)$")
+# "## Key" or "## Key to the species", but never "## Keyed but not treated",
+# which is a list of species and not a key at all.
+KEY_HEADING_RE = re.compile(r"^## Key(?:\s+to\b.*)?$", re.M)
+# "1.", "1'.", "1)" and also "1 -", which some volumes use unpunctuated
+NUMBERED_LEAD_RE = re.compile(
+    r"^\s*(\d+)\s*(['’]?)\s*(?:[.)]\s*[-–—]?|[-–—])\s*(.*)$")
 BARE_LEAD_RE = re.compile(r"^\s*[-–—]\s+(.*)$")
 LEADER_RE = re.compile(r"\s*\.{3,}\s*")
 # what a lead points at: a couplet number, or a species (optionally numbered)
@@ -126,9 +130,14 @@ def format_key(text: str, genus: str) -> str | None:
             body, label = m.group(1), f"{current}′." if current else "—"
             changed = True
 
-        parts = LEADER_RE.split(body)
-        target = parts[-1].strip() if len(parts) > 1 else ""
-        prose = " ".join(p.strip() for p in parts[:-1]).strip() if target else body.strip()
+        parts = [p.strip() for p in LEADER_RE.split(body)]
+        target = parts[-1] if len(parts) > 1 else ""
+        if target:
+            prose = " ".join(parts[:-1]).strip()
+        else:
+            # the scan lost the target after the leader dots; drop the dots
+            # rather than leaving a row of them dangling at the end of a lead
+            prose = " ".join(p for p in parts if p).strip()
 
         arrow = ""
         cm = COUPLET_TARGET_RE.match(target)
@@ -148,11 +157,44 @@ def format_key(text: str, genus: str) -> str | None:
     return "\n\n".join(rendered) + "\n" if changed else None
 
 
+# A row of leader dots left at the end of an already-formatted lead, where the
+# scan lost the target that should have followed them. Formatting is one-way --
+# a formatted lead no longer matches the lead patterns -- so this tidies the
+# rendered page rather than re-rendering it from source.
+LEAD_LINE_RE = re.compile(r"^\*\*.+$", re.M)
+LEADER_RUN_RE = re.compile(r"\s*\.{4,}\s*")
+
+
+def tidy(text: str) -> str:
+    """Tidy only inside the key section: elsewhere a `**...**` line is a page
+    header like `**Protologue**: Fam. pl. 2 : 327 (1763)`, and appending a stop
+    to those corrupted 997 pages on the first attempt."""
+    m = KEY_HEADING_RE.search(text)
+    if not m:
+        return text
+    end = text.find("\n## ", m.end())
+    end = end if end > 0 else len(text)
+    return text[:m.end()] + _tidy_section(text[m.end():end]) + text[end:]
+
+
+def _tidy_section(text: str) -> str:
+    def fix_line(m: re.Match) -> str:
+        line = LEADER_RUN_RE.sub(" ", m.group(0))
+        line = re.sub(r"\s{2,}", " ", line).rstrip()
+        # a lead that lost its target ends mid-sentence; close it with a stop
+        if not re.search(r"[.;:]$|\]\]$|\^k\d+$", line):
+            line += "."
+        return line
+    return LEAD_LINE_RE.sub(fix_line, text)
+
+
 def main(argv: list[str] | None = None) -> int:
     ap = argparse.ArgumentParser(description=__doc__)
     ap.add_argument("--dir", default=str(WIKI_DIR / "genera"))
     ap.add_argument("--dry-run", action="store_true")
     ap.add_argument("--only")
+    ap.add_argument("--tidy", action="store_true",
+                    help="strip leader dots dangling on already-formatted leads")
     args = ap.parse_args(argv)
 
     pages = 0
@@ -160,6 +202,13 @@ def main(argv: list[str] | None = None) -> int:
         if args.only and path.stem != args.only:
             continue
         text = path.read_text(encoding="utf-8")
+        if args.tidy:
+            tidied = tidy(text)
+            if tidied != text:
+                pages += 1
+                if not args.dry_run:
+                    path.write_text(tidied, encoding="utf-8")
+            continue
         m = KEY_HEADING_RE.search(text)
         if not m:
             continue

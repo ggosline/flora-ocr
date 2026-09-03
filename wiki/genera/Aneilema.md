@@ -44,7 +44,7 @@ Bibliography
 
 **4.** Inflorescence generally simple and spiciform, longer than wide with a main axis, sometimes with 1 or 2 additional inflorescences at the axils of lower leaves; presence of long reddish hairs at the apex of the sheath, and generally also on the surface; leaf blade distinctly longer than wide, reaching 13 × 4 cm → A. umbrosum subsp. umbrosum ^k4
 
-**4′.** Inflorescence compound, broadly ovoid to loosely umbelliform-globular, composed of 2 or 3(–8) inflorescences or spreading branches; absence of reddish hairs at the apex of the sheath, a few colourless hairs on the margin and suture; plant more slender than the preceding subspecies, with leaf blade oval to oval-elliptic, reaching 6 × 3 cm → A. umbrosum subsp. ovato-oblongum
+**4′.** Inflorescence compound, broadly ovoid to loosely umbelliform-globular, composed of 2 or 3(–8) inflorescences or spreading branches; absence of reddish hairs at the apex of the sheath, a few colourless hairs on the margin and suture; plant more slender than the preceding subspecies, with leaf blade oval to oval-elliptic, reaching 6 × 3 cm → A. umbrosum subsp. ovato-oblongum.
 
 
 ## Species in region

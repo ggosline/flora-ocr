@@ -48,7 +48,7 @@ One excluded species, P. Talbotii Wernh., is a Corynanthe.
 
 **3′.** Calyx ± pubescent → 2 bis P. macroceras v. Bequaertii.
 
-**2′.** Sepals rather spreading; inflorescences lax with umbellules often pauciflorous; inflorescences often terminal; calyx micropuberulent; axillary domatia pubescent in the opening.....
+**2′.** Sepals rather spreading; inflorescences lax with umbellules often pauciflorous; inflorescences often terminal; calyx micropuberulent; axillary domatia pubescent in the opening.
 
 
 ## Species in region

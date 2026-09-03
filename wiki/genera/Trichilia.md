@@ -30,7 +30,7 @@ Bibliography
 
 **1.** Staminal crown lacinate; stem generally cylindric → [[#^k2|2]] ^k1
 
-**1′.** Staminal crown entire; stem often grooved at base → T. prieureana subsp. vermoesenii
+**1′.** Staminal crown entire; stem often grooved at base → T. prieureana subsp. vermoesenii.
 
 **2.** Disc around ovary distinct, cupuliform; young branches hollow and with lenticellate bark → [[Trichilia_rubescens\|*T. rubescens*]] ^k2
 
@@ -62,7 +62,7 @@ Bibliography
 
 **9.** Leaves with 3–4 pairs of leaflets, with the midvein glabrous and plane or slightly depressed above → [[Trichilia_gilletii\|*T. gilletii*]] ^k9
 
-**9′.** Leaves with (3–)5–7 pairs of leaflets, with the midvein hairy and depressed above → T. welwitschii <<<---SECTION-BREAK--->>> Functionally female flower, petals and part of sepals removed, longitudinal section (× 3). – D. Functionally male flower, ditto (× 3). – E. Staminal tube opened, inner face (× 6). – F. Ditto, outer face (× 6). – G. Infructescence (× 0.5). – K. Fruit in transverse section (× 0.5). – M. Seed (× 0.5). – N. Cotyledons juxtaposed (× 1). – P. Leaflet (× 1) – R. Fragment of a leaflet, lower face (× 12). (A : Breteler 2482 ; B, D–F, P–R : Breteler 2489 ; C : Devred 100 ; G–K : Wagemans 1051 ; M, N : Gilbert
+**9′.** Leaves with (3–)5–7 pairs of leaflets, with the midvein hairy and depressed above → T. welwitschii <<<---SECTION-BREAK--->>> Functionally female flower, petals and part of sepals removed, longitudinal section (× 3). – D. Functionally male flower, ditto (× 3). – E. Staminal tube opened, inner face (× 6). – F. Ditto, outer face (× 6). – G. Infructescence (× 0.5). – K. Fruit in transverse section (× 0.5). – M. Seed (× 0.5). – N. Cotyledons juxtaposed (× 1). – P. Leaflet (× 1) – R. Fragment of a leaflet, lower face (× 12). (A : Breteler 2482 ; B, D–F, P–R : Breteler 2489 ; C : Devred 100 ; G–K : Wagemans 1051 ; M, N : Gilbert.
 
 **9775.** . Drawing by Ike Zewald, Naturalis Biodiversity Center, Leiden (©). ^k9775
 

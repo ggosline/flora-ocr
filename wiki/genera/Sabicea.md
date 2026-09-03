@@ -34,7 +34,7 @@ This genus comprises approximately 120 species. About fifty in America, 4 in Mad
 ## Key to the species
 
 
-**1.** Inflorescences uniflorous or pauciflorous in fascicles or in sessile glomerules; no common peduncle, no naviculate involucre, no protective bracteate pseudowhorls, no branched axes..... ^k1
+**1.** Inflorescences uniflorous or pauciflorous in fascicles or in sessile glomerules; no common peduncle, no naviculate involucre, no protective bracteate pseudowhorls, no branched axes ^k1
 
 **1′.** Inflorescences subsessile or pedunculate, arising from a single axis, often multiflorous, capitate, contracted or branched in a ± lax manner.
 
@@ -48,11 +48,11 @@ This genus comprises approximately 120 species. About fifty in America, 4 in Mad
 
 **3′.** Inflorescences umbelliform spherical and multiflorous, with ± pseudowhorled bracts → GROUP IV.
 
-**2′.** Bracts neither connate, nor embracing, nor pseudowhorled, nor very broadly developed; inflorescences in small lax panicle or fairly contracted but never both multiflorous and very dense → GROUP V. GROUP I
+**2′.** Bracts neither connate, nor embracing, nor pseudowhorled, nor very broadly developed; inflorescences in small lax panicle or fairly contracted but never both multiflorous and very dense → GROUP V. GROUP I.
 
 **1.** Low plant with slender trailing rooting stems; white flowers → S. leucocarpa (Krause) Mildbr. (Cameroon).
 
-**1′.** Twining liane ± cauliflorous; red flowers → S. speciosa K. Schum. (Pl. 34, 1) (from Togo to Léopoldville). These two species are not known from Gabon, but may one day be discovered there. To the same group also belong: S. cordata Hutch. et Dalz. (Côte d'Ivoire and Ghana), close to S. speciosa. — S. rosea Hoyle (from Nzerékoré in Haute-Guinée to Nigeria). — S. bracteolata Wernh. (Fouta-Djalon, Guinée), close to S. rosea. GROUP II
+**1′.** Twining liane ± cauliflorous; red flowers → S. speciosa K. Schum. (Pl. 34, 1) (from Togo to Léopoldville). These two species are not known from Gabon, but may one day be discovered there. To the same group also belong: S. cordata Hutch. et Dalz. (Côte d'Ivoire and Ghana), close to S. speciosa. — S. rosea Hoyle (from Nzerékoré in Haute-Guinée to Nigeria). — S. bracteolata Wernh. (Fouta-Djalon, Guinée), close to S. rosea. GROUP II.
 
 **1.** Involucre and calyces red and attractive; plant sometimes cauliflorous → [[Sabicea_pilosa\|*S. pilosa*]]
 
@@ -74,7 +74,7 @@ This genus comprises approximately 120 species. About fifty in America, 4 in Mad
 
 **5′.** Fewer than 2 bracteoles per flower; lower surface of limb masked by woolly arachnoid pubescence → 14. S. capitellata (cf. group IV).
 
-**2′.** Inflorescences sessile or subsessile (peduncle of 0.3 mm) → 6. S. fulva. The following species may be attached to this group: S. geophioloides Wernh. (Ghana, South Nigeria and Cameroon), close to S. rufa but with apparent sepals — S. trigemina K. Schum. (Cameroon), close to S. Duparquetiana by its calyces and to S. fulva var. clipeolaria by its inflorescences (f. 3, p. 178). — S. urceolata Hepper (Nigeria and Fernando-Po), with involucre united in a deep urn. Group III
+**2′.** Inflorescences sessile or subsessile (peduncle of 0.3 mm) → 6. S. fulva. The following species may be attached to this group: S. geophioloides Wernh. (Ghana, South Nigeria and Cameroon), close to S. rufa but with apparent sepals — S. trigemina K. Schum. (Cameroon), close to S. Duparquetiana by its calyces and to S. fulva var. clipeolaria by its inflorescences (f. 3, p. 178). — S. urceolata Hepper (Nigeria and Fernando-Po), with involucre united in a deep urn. Group III.
 
 **1.** Calyx lobes longer than the tube which is narrow.
 
@@ -86,9 +86,9 @@ This genus comprises approximately 120 species. About fifty in America, 4 in Mad
 
 **3.** Limb pubescent on both faces; inflorescences on old stems → [[Sabicea_najatrix\|*S. najatrix*]]
 
-**3′.** Limb glabrous above, often even below; inflorescences on young stems → 10. S. Dewevrei. The following two species may be attached to this group: S. Gilletii De Wild. (ex-Belgian Congo), close to S. efulenensis but with two pairs of pseudowhorled bracts. — S. brevipes Wernh. (from Côte-d'Ivoire to Cameroon), very close to the preceding and like it very hairy in appearance. GROUP IV
+**3′.** Limb glabrous above, often even below; inflorescences on young stems → 10. S. Dewevrei. The following two species may be attached to this group: S. Gilletii De Wild. (ex-Belgian Congo), close to S. efulenensis but with two pairs of pseudowhorled bracts. — S. brevipes Wernh. (from Côte-d'Ivoire to Cameroon), very close to the preceding and like it very hairy in appearance. GROUP IV.
 
-**1.** Flowers with 3 broadly developed sepals; bracts suborbicular; limb with sparse or mediocre pubescence on the lower face.....
+**1.** Flowers with 3 broadly developed sepals; bracts suborbicular; limb with sparse or mediocre pubescence on the lower face.
 
 **1′.** Flowers with 5 ± narrow sepals; bracts ovate acute or narrow; limb densely clothed on the lower face, felted or pubescent.
 
@@ -110,7 +110,7 @@ This genus comprises approximately 120 species. About fifty in America, 4 in Mad
 
 **6.** Peduncles ± robust, inflorescences ± erect; sepals rather suberect; white or reddish-brown very dense feltwork on the lower face of the limb → 14. S. Johnstonii.
 
-**6′.** Peduncles slender and inflorescences ± pendulous; sepals narrow and spreading; very fine brown pubescence on the lower face. Related species belonging to the same group: S. ferruginea (G. Don) Benth. (from Sierra-Leone to Ghana); S. Schaefferi Wernh. (Cameroon and Fernando-Po); S. Vogelii Benth. and S. Harleyae Hepper (Guinée, Sierra-Leone, Liberia, Côte-d'Ivoire). Insufficiently known species: Sabicea sp. A, aff. Johnstonii K. Schum. ex Wernham : discolorous limbs 10-18 × 6-10 cm, perfectly glabrous above including the midline, with dense appressed woolly pubescence below. Petiole 30-70 mm. Inflorescences bearing both flowers and ripe fruits, with ovate or lanceolate bracts, with peduncles 11-18 mm. Fruits pubescent with erect acute sepals 3-5 mm long. — A. Chevalier 27152, lower Komo river (Oct.). GROUP V
+**6′.** Peduncles slender and inflorescences ± pendulous; sepals narrow and spreading; very fine brown pubescence on the lower face. Related species belonging to the same group: S. ferruginea (G. Don) Benth. (from Sierra-Leone to Ghana); S. Schaefferi Wernh. (Cameroon and Fernando-Po); S. Vogelii Benth. and S. Harleyae Hepper (Guinée, Sierra-Leone, Liberia, Côte-d'Ivoire). Insufficiently known species: Sabicea sp. A, aff. Johnstonii K. Schum. ex Wernham : discolorous limbs 10-18 × 6-10 cm, perfectly glabrous above including the midline, with dense appressed woolly pubescence below. Petiole 30-70 mm. Inflorescences bearing both flowers and ripe fruits, with ovate or lanceolate bracts, with peduncles 11-18 mm. Fruits pubescent with erect acute sepals 3-5 mm long. — A. Chevalier 27152, lower Komo river (Oct.). GROUP V.
 
 **1.** Calyx lobes approximately 1 mm long, with glabrous margin; limb with lower face glabrous between the main veins.
 
@@ -140,7 +140,7 @@ This genus comprises approximately 120 species. About fifty in America, 4 in Mad
 
 **7′.** Calyx lobes most often exceeding 5 mm.
 
-**9.** Inflorescences hairy in appearance with ± appressed very abundant hairs; dense woolly layer..... S. orientalis Wernh. (from Cameroon to W. Afr..... ^k9
+**9.** Inflorescences hairy in appearance with ± appressed very abundant hairs; dense woolly layer S. orientalis Wernh. (from Cameroon to W. Afr ^k9
 
 **9′.** Inflorescence hirsute in appearance with erect hairs fairly lax; moderately dense woolly layer → S. Goosensii De Wild (ex-Belgian Congo).
 

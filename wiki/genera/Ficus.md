@@ -58,7 +58,7 @@ also form 2 lips or simply a small slit and in this case, all the ostiolar bract
 
 **6.** Blade with 3–5 pairs of lateral veins; mostly trees (to small trees) → [[Ficus_exasperata\|*F. exasperata*]] ^k6
 
-**6.** Blade with 5–9–12 pairs of lateral veins; shrub
+**6.** Blade with 5–9–12 pairs of lateral veins; shrub.
 
 **2′.** Glandular spot(s) on the blade, beneath at the base of the midvein, blade entire (normally on adult specimens), smooth to scabrous.
 
@@ -162,7 +162,7 @@ also form 2 lips or simply a small slit and in this case, all the ostiolar bract
 
 **31′.** Blade medium-sized (10–15 cm long) with 8–10 pairs of lateral veins; petiolar periderm persistent or not easily exfoliating when dry → [[Ficus_conraui\|*F. conraui*]]
 
-**9.** Stipules caducous (or subpersistent); figs either in leaf axils or just below the leaves, or on spurs on old branches → *F. sessile*
+**9.** Stipules caducous (or subpersistent); figs either in leaf axils or just below the leaves, or on spurs on old branches → *F. sessile*.
 
 **33.** Figs up to 1 cm in diameter on the dry specimen. ^k33
 
@@ -280,7 +280,7 @@ also form 2 lips or simply a small slit and in this case, all the ostiolar bract
 
 **61.** Blade with 5–10 pairs of lateral veins, often tending to be subovate, apex often rather long acuminate to acute ^k61
 
-**23.** F ottoniifolia
+**23.** F ottoniifolia.
 
 **61′.** Blade with (9–) 10–16 pairs of lateral veins, often tending to subovate, apex often shortly and abruptly acuminate → 22. F. artocarpoides. subgen. Ficus Linnaeus sect. Sycidium Miquel Lond. Journ. Bot. 7: 228 (1848); CORNER, Gard. Bull. Singapore 17: 443 (1960); 21: 62 (1965).
 

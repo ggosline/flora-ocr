@@ -126,7 +126,7 @@ Flowers small, actinomorphic, 5-merous, hermaphrodite in African species, whitis
 
 **21.** Limb (2) 3-4 (5) times longer than wide, (4) 6-10 (14) × (1) 2-4 (5) cm; exocarp not fissured in a network → [[Dichapetalum_acuminatum\|*D. acuminatum*]] ^k21
 
-**21′.** Limb 2.5-3 times longer than wide, (6) 8-12 (16) × (2) 3-4 (6) cm; exocarp fissured in a network → *D. altescandes*
+**21′.** Limb 2.5-3 times longer than wide, (6) 8-12 (16) × (2) 3-4 (6) cm; exocarp fissured in a network → *D. altescandes*.
 
 **11′.** Sepals of the open flower not strongly reflexed, at least not in the majority on the same flower, but sepals erect or very slightly to loosely divergent.
 
@@ -144,7 +144,7 @@ Flowers small, actinomorphic, 5-merous, hermaphrodite in African species, whitis
 
 **26.** Fresh leaves papyraceous, often with domatia at the axil of certain veins below; glands of the lower surface, diameter < 0.2 mm; petals 3-4.5 mm long, often somewhat shorter than the stamens; pistil 2-3-merous, 3-6 mm long .. 19. D. gabor ^k26
 
-**26′.** Fresh leaves coriaceous, without domatia; glands of the lower surface, diameter = 0.3-1 mm; petals 5.5-8 mm long, often longer than the stamens; pistil 3-merous, 6.5-8 mm long → *D. thollon*
+**26′.** Fresh leaves coriaceous, without domatia; glands of the lower surface, diameter = 0.3-1 mm; petals 5.5-8 mm long, often longer than the stamens; pistil 3-merous, 6.5-8 mm long → *D. thollon*.
 
 **25′.** Young and old branches not hollow.
 
@@ -218,9 +218,9 @@ Flowers small, actinomorphic, 5-merous, hermaphrodite in African species, whitis
 
 **44′.** Sepals (1) 1.5-2.5 (3) mm long; petals clearly bilobed, lobes concave → [[Dichapetalum_madagascariense\|*D. madagascariense*]]
 
-**43′.** Petiole 0-3 (5) mm long; sepals erect or reflexed; upper part of the petals, rather reduced, little visible often bent; style generally glabrous → *D. dewevre*
+**43′.** Petiole 0-3 (5) mm long; sepals erect or reflexed; upper part of the petals, rather reduced, little visible often bent; style generally glabrous → *D. dewevre*.
 
-**38′.** Flowers with predominantly 3 (4)-lobed style
+**38′.** Flowers with predominantly 3 (4)-lobed style.
 
 **45.** Hispid liane or lianescent shrub with young hollow branches; stipules, bracts and bracteoles slender, generally bent; large flowers (10 mm) in 20-flowered inflorescences; petals pubescent on the interior, generally black when dried → [[Dichapetalum_chalotii\|*D. chalotii*]] ^k45
 
@@ -244,9 +244,9 @@ Flowers small, actinomorphic, 5-merous, hermaphrodite in African species, whitis
 
 **50.** Pedicels not articulate; flowers persistent. ^k50
 
-**51.** Stipules 1-5 (6) mm long; leaves (4) 10-16 (24) × (1.5) 3.5-6 (12) cm with 8-12 (16) main pairs of veins II; sepals 1.5-2.5 mm long; petals (3) 4-6 mm long ..... ^k51
+**51.** Stipules 1-5 (6) mm long; leaves (4) 10-16 (24) × (1.5) 3.5-6 (12) cm with 8-12 (16) main pairs of veins II; sepals 1.5-2.5 mm long; petals (3) 4-6 mm long ^k51
 
-**51′.** Stipules (4) 8-17 (22) mm long; leaves (15) 20-35 (42) × (6) 7-11 (14) cm with (10) 11-14 (16) main pairs of veins II; sepals 3-5 mm long; petals 4.5-8 mm long 41. D. pulchrum
+**51′.** Stipules (4) 8-17 (22) mm long; leaves (15) 20-35 (42) × (6) 7-11 (14) cm with (10) 11-14 (16) main pairs of veins II; sepals 3-5 mm long; petals 4.5-8 mm long 41. D. pulchrum.
 
 **50′.** Pedicels articulate; flowers at least in part caducous.
 
@@ -278,7 +278,7 @@ Flowers small, actinomorphic, 5-merous, hermaphrodite in African species, whitis
 
 **59.** Acumen with a clear mucro, if not lower surface of the limb with at least very large glands (0.2-0.7 mm) and clear along the primary vein, especially at the base and/or on the acumen or apex (often hidden by the indumentum) → *D. heudelot* ^k59
 
-**59′.** Acumen generally rounded to obtuse and without a clear mucro; glands often smaller → *D. staudti*
+**59′.** Acumen generally rounded to obtuse and without a clear mucro; glands often smaller → *D. staudti*.
 
 **56′.** Flowers in clearly branched pedunculate cymes.
 

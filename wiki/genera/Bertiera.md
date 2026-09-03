@@ -32,13 +32,13 @@ Type of the genus: Bertiera guianensis Aubl. from equatorial America.
 ## Key to the species
 
 
-**1′.** Shrub or small tree branching ± vigorously; flowers somewhat larger, with corolla tube ordinarily equal to or exceeding 1 mm in diameter; ripe fruits white, whitish, yellowish or green; calyx limb cupuliform, accrescent on the fruit; inflorescences often robust, never axillary, sometimes capitate → I. KEY TO THE SPECIES OF SUBGENUS BERTIERA
+**1′.** Shrub or small tree branching ± vigorously; flowers somewhat larger, with corolla tube ordinarily equal to or exceeding 1 mm in diameter; ripe fruits white, whitish, yellowish or green; calyx limb cupuliform, accrescent on the fruit; inflorescences often robust, never axillary, sometimes capitate → I. KEY TO THE SPECIES OF SUBGENUS BERTIERA.
 
 **1.** Inflorescences subsessile axillary ± contracted, pluri- or pauciflorous. ^k1
 
 **2.** Low stoloniferous plant 5-20 cm in height; fruits red at maturity → B. Adamsii ^k2
 
-**2′.** Plant with single erect stem 20-130 cm in height; ripe fruits blue → *B. bicarpellata*
+**2′.** Plant with single erect stem 20-130 cm in height; ripe fruits blue → *B. bicarpellata*.
 
 **1′.** Inflorescences pedunculate terminal, racemose ± lax, pluri- or multiflorous; small shrub, arbrisseau or liane.
 
@@ -52,7 +52,7 @@ Type of the genus: Bertiera guianensis Aubl. from equatorial America.
 
 **6.** Stipules triangular not significantly wider than the branch and attenuate above the base .. 3. B. ethiopica ^k6
 
-**6′.** Stipules elliptic much wider than the branch and distinctly widening above the base → B. Luja De Wild. (Congo ex b.)
+**6′.** Stipules elliptic much wider than the branch and distinctly widening above the base → B. Luja De Wild. (Congo ex b.).
 
 **5′.** Stipules folded lengthwise, with axis slightly arched convex externally; calycinal limb distinctly accrescent in diameter on the fruit → [[Bertiera_lanx\|*B. lanx*]]
 
@@ -66,35 +66,35 @@ Type of the genus: Bertiera guianensis Aubl. from equatorial America.
 
 **10.** Buds acute not acuminate; corolla 15-20 mm long → [[Bertiera_laxa\|*B. laxa*]] ^k10
 
-**10′.** Buds acuminate very acute; corolla approx. 12 mm long → *B. laxissima*
+**10′.** Buds acuminate very acute; corolla approx. 12 mm long → *B. laxissima*.
 
 **9′.** Flowers sessile; fine venation striolate; corolla approx. 12 mm.
 
 **11.** Corolla glabrous over the entire narrow part of the tube; internal pubescence of the tube with an infrastaminal piliferous ring → 6. B. Batesii ^k11
 
-**11′.** Corolla finely pubescent over the entire tube; internal pubescence very reduced, absent in the infrastaminal region → B. Thollonii
+**11′.** Corolla finely pubescent over the entire tube; internal pubescence very reduced, absent in the infrastaminal region → B. Thollonii.
 
 **8′.** Inflorescences with ± erect but not decumbent rachis; calyx teeth twice as long as broad or more; fine venation striolate often conspicuous when dry; ripe fruits bright red.
 
 **12.** Floral bud not acute; sepals ± laminate → [[Bertiera_breviflora\|*B. breviflora*]] ^k12
 
-**12′.** Floral bud acuminate very acute; sepals subulate → *B. aequatorialis*
+**12′.** Floral bud acuminate very acute; sepals subulate → *B. aequatorialis*.
 
 **7′.** Inflorescences ± reduced or contracted, less than 5 cm long; ripe fruits red.
 
 **13.** Inflorescences ± contracted, 1.5-5 cm long, finely pubescent → *B. loraria* ^k13
 
-**13′.** Inflorescences contracted, 2 cm or less long, very velutinous → 10. B. Letouzeyi II. KEY TO THE SPECIES OF SUBG. BERTIERELLA
+**13′.** Inflorescences contracted, 2 cm or less long, very velutinous → 10. B. Letouzeyi II. KEY TO THE SPECIES OF SUBG. BERTIERELLA.
 
 **1.** Inflorescences not capitate, ± elongate.
 
-**2.** Ovary glabrous; fruit completely sessile and glabrous, sometimes with a few hairs on the calyx margin; bud elongate very acute.....
+**2.** Ovary glabrous; fruit completely sessile and glabrous, sometimes with a few hairs on the calyx margin; bud elongate very acute.
 
 **2′.** Ovary ± pubescent; pubescence ordinarily persists on the fruit.
 
 **3.** Corolla tube approx. 2 mm wide or more in its narrowest part; fruit with pedicel reaching 2-6 mm.
 
-**4.** Limb brown-reddish beneath when dry; corolla at least 11 mm long by 2 mm wide towards the base of the tube; internal pubescence of the corolla very reduced at the level of the stamens → 11 c. B. racemosa v. elephan
+**4.** Limb brown-reddish beneath when dry; corolla at least 11 mm long by 2 mm wide towards the base of the tube; internal pubescence of the corolla very reduced at the level of the stamens → 11 c. B. racemosa v. elephan.
 
 **4′.** Limb ochraceous beneath when dry; corolla at most 11 mm long by 2 mm wide towards the base of the tube; internal pubescence of the corolla abundant between the stamens → [[Bertiera_elabensis\|*B. elabensis*]]
 
@@ -108,17 +108,17 @@ Type of the genus: Bertiera guianensis Aubl. from equatorial America.
 
 **7.** Stipules 8 to 12 mm wide; limb ± reddish-brown; petiole 0 to 8 mm in length.
 
-**8.** Petals shortly acute; internal pubescence of the corolla short and scattered between the stamens → B. Thonneri De Wild. et Dur. (cuvette congolaise)
+**8.** Petals shortly acute; internal pubescence of the corolla short and scattered between the stamens → B. Thonneri De Wild. et Dur. (cuvette congolaise).
 
-**8′.** Petals longly acute; internal pubescence of the corolla formed of long fine hairs situated at the level of the lobes → B. retrofracta K. Schum. (Cameroun)
+**8′.** Petals longly acute; internal pubescence of the corolla formed of long fine hairs situated at the level of the lobes → B. retrofracta K. Schum. (Cameroun).
 
-**7′.** Stipules narrow 3-5 mm in width; limb brown-blackish; petiole 6 to 12 mm in length. 14. B. arctistipula
+**7′.** Stipules narrow 3-5 mm in width; limb brown-blackish; petiole 6 to 12 mm in length. 14. B. arctistipula.
 
 **6′.** Flower less than 15 mm in length; anthers 4 mm or less; leaves not exceeding 16 × 5 cm.
 
 **9.** Fruit sessile; infrastaminal papillae of the corolla interior arranged in a narrow ring → [[Bertiera_subsessilis\|*B. subsessilis*]]
 
-**9′.** Fruit pedunculate; infrastaminal papillae in a broad ring → B. subsessilis var. congolana
+**9′.** Fruit pedunculate; infrastaminal papillae in a broad ring → B. subsessilis var. congolana.
 
 **1′.** Inflorescences capitate spherical (section Capitatae).
 

@@ -42,7 +42,7 @@ Pantropical genus of ±210 species from dry and wet forests, sometimes in savann
 
 **5.** Stamens (8–)10 to 18; leaf blade (4.5–)6.5–8(−9.5) cm long, obliquely ovate to obliquely elliptic-ovate, papyraceous → [[Drypetes_inaequalis\|*D. inaequalis*]] ^k5
 
-**5′.** Stamens 16 to 25; leaf blade (10–)11.5–15(−17) cm long, ovate to oblong, slightly oblique, often slightly ligulate, or even obovate, coriaceous → *D. cinnabarina*
+**5′.** Stamens 16 to 25; leaf blade (10–)11.5–15(−17) cm long, ovate to oblong, slightly oblique, often slightly ligulate, or even obovate, coriaceous → *D. cinnabarina*.
 
 **6.** Flower pendulous; pedicel 40–100 mm; sepals 5; stamens 18 to 25 → [[Drypetes_capillipes\|*D. capillipes*]] ^k6
 
@@ -130,7 +130,7 @@ Pantropical genus of ±210 species from dry and wet forests, sometimes in savann
 
 **28.** Stamens 12; disk 1.7–2.4 mm in diameter; leaf blade 16.5–23 cm long; stipules 7–9 mm long, triangular to narrowly triangular, persistent → [[Drypetes_stipularis\|*D. stipularis*]] ^k28
 
-**28′.** Stamens 12 to 16; disk 2.7–3.2 mm in diameter; leaf blade 9–15(−17) cm long; stipules 3–4 mm long, linear to very narrowly triangular, subpersistent → D. preussii Key to the species for material with female flowers
+**28′.** Stamens 12 to 16; disk 2.7–3.2 mm in diameter; leaf blade 9–15(−17) cm long; stipules 3–4 mm long, linear to very narrowly triangular, subpersistent → D. preussii Key to the species for material with female flowers.
 
 **1.** Female flowers on the main trunk, sometimes also on the branches → [[#^k2|2]]
 
@@ -198,7 +198,7 @@ Pantropical genus of ±210 species from dry and wet forests, sometimes in savann
 
 **17.** Flowers arranged on the branchlets below the leaves; petiole 5–8 mm → [[Drypetes_spinosodentata\|*D. spinosodentata*]]
 
-**17′.** Flowers in the leaf axils; petiole 2–5 mm → *D. cinnabarina*
+**17′.** Flowers in the leaf axils; petiole 2–5 mm → *D. cinnabarina*.
 
 **18.** Leaf blade generally 3–10 × 1.5–5 cm → [[#^k19|19]]
 

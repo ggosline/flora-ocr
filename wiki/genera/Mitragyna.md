@@ -30,7 +30,7 @@ Approximately 16 species from Africa, Asia and the Philippines; 4 African specie
 
 **1.** Calyces tubular for more than 1 mm, truncate or weakly sinuous, entirely glabrous, erect in fruit; inflorescence generally having fewer than 10 capitules; stipules generally pubescent, quite strongly so on the entire lower half → [[Mitragyna_stipulosa\|*M. stipulosa*]] ^k1
 
-**1′.** Calyces very briefly tubular, ± deeply sinuous, with lobes distinctly ciliate, curved inward in the fruit; inflorescences ordinarily having more than 10 capitules; stipules generally glabrous
+**1′.** Calyces very briefly tubular, ± deeply sinuous, with lobes distinctly ciliate, curved inward in the fruit; inflorescences ordinarily having more than 10 capitules; stipules generally glabrous.
 
 
 ## Species in region

@@ -44,7 +44,7 @@ Bibliography
 
 **3.** Terminal leaflet with blade 1.7–4.5 cm in width; pod smooth → [[Schefflerodendron_usambarense\|*S. usambarense*]] ^k3
 
-**3′.** Terminal leaflet with blade 5–6 cm in width; pod striated and echinulate (to be sought in Gabon) → S. gilbertianum Léonard & Latour
+**3′.** Terminal leaflet with blade 5–6 cm in width; pod striated and echinulate (to be sought in Gabon) → S. gilbertianum Léonard & Latour.
 
 
 ## Species in region

@@ -40,7 +40,7 @@ Bibliography
 
 **2.** Lamina glabrous or pubescent (surface visible) below → V. rubescens var. rubescens ^k2
 
-**2′.** Lamina tomentose (surface not visible) below → V. rubescens var. tomentosa
+**2′.** Lamina tomentose (surface not visible) below → V. rubescens var. tomentosa.
 
 
 ## Species in region

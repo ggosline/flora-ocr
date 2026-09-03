@@ -30,7 +30,7 @@ B: Bodard (1963), Goetghebeur & Coudijzer (1984b), Haines & Lye (1983), Hoensela
 
 **1.** Inflorescence formed of a head of sessile spikelets crowded together, ± numerous → [[#^k2|2]] ^k1
 
-**1′.** Inflorescence in an anthela with at least 3 spikelets of which at least one is pedicellate 7
+**1′.** Inflorescence in an anthela with at least 3 spikelets of which at least one is pedicellate 7.
 
 **2.** Spikelet with distichous glumes 6‒8 mm long; achene 1.7‒2 mm long B. pilosa ^k2
 

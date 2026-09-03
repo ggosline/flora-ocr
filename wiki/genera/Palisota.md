@@ -28,11 +28,11 @@ Notes: This genus is particularly diverse in Gabon. Recently, we identified eigh
 
 **1.** Creeping plant, decumbent or with leaves in basal rosette → [[#^k2|2]] ^k1
 
-**1′.** Plant with erect stem, sometimes climbing, more than 50 cm tall → Group 1
+**1′.** Plant with erect stem, sometimes climbing, more than 50 cm tall → Group 1.
 
 **2.** Plant generally in rosette or compound basal rosette, with rootstock reaching 10(–30) cm in length, sometimes horizontal in older individuals → Group 2 ^k2
 
-**2′.** Plant strictly creeping or decumbent → Group 3 Group 1 : Erect plant more than 50 cm tall
+**2′.** Plant strictly creeping or decumbent → Group 3 Group 1 : Erect plant more than 50 cm tall.
 
 **1.** Plant lianescent, always climbing; stem up to 15 m in length, strongly branched → [[Palisota_thollonii\|*P. thollonii*]]
 
@@ -52,7 +52,7 @@ Notes: This genus is particularly diverse in Gabon. Recently, we identified eigh
 
 **5.** Inflorescence 20–30 × 3–4(–5.5) cm, with peduncle covered by 3 or 4 inflorescence bracts → [[Palisota_alopecurus\|*P. alopecurus*]] ^k5
 
-**5′.** Inflorescence 8–18 × 2–4 cm, with peduncle not totally covered by inflorescence bracts → P. schweinfurthii Group 2 : Plant in rosette or compound basal rosettes
+**5′.** Inflorescence 8–18 × 2–4 cm, with peduncle not totally covered by inflorescence bracts → P. schweinfurthii Group 2 : Plant in rosette or compound basal rosettes.
 
 **1.** Inflorescence abundantly provided with hairs and cottony bracts of a dirty white; fruit carmine, distinctly covered with russet pubescence, dark brown or purple → [[Palisota_lagopus\|*P. lagopus*]]
 
@@ -62,11 +62,11 @@ Notes: This genus is particularly diverse in Gabon. Recently, we identified eigh
 
 **2′.** Inflorescence subglobose or oblongoid, up to twice as long as wide → [[#^k4|4]]
 
-**3.** Leaf blade with lower surface covered with dense, velvety pilosus, white or brown → P. mannii subsp. mannii
+**3.** Leaf blade with lower surface covered with dense, velvety pilosus, white or brown → P. mannii subsp. mannii.
 
-**3′.** Leaf blade with lower surface pilose, dense velvety, white or brown only on the main nerve → P. mannii subsp. megalophylla
+**3′.** Leaf blade with lower surface pilose, dense velvety, white or brown only on the main nerve → P. mannii subsp. megalophylla.
 
-**4.** Inflorescence with oval floral bracts, 5–8(–15) mm in width, as long as the flowers, covering the inflorescence, persistent during flowering .. P. bracteosa
+**4.** Inflorescence with oval floral bracts, 5–8(–15) mm in width, as long as the flowers, covering the inflorescence, persistent during flowering .. P. bracteosa.
 
 **4′.** Inflorescence with smaller bracts, not covering the inflorescence, scarcely visible during flowering → [[#^k5|5]]
 
@@ -76,7 +76,7 @@ Notes: This genus is particularly diverse in Gabon. Recently, we identified eigh
 
 **6.** Flower white, with 3 yellow anthers; leaf blade up to ± 20(–40) cm in length → [[Palisota_bogneri\|*P. bogneri*]] ^k6
 
-**6′.** Flower pink to purple or violet, with 2 yellow anthers and 1 white to pale yellow; leaf blade up to 27(–45) cm in length → P. alboanthera Group 3 : Plant strictly creeping or decumbent
+**6′.** Flower pink to purple or violet, with 2 yellow anthers and 1 white to pale yellow; leaf blade up to 27(–45) cm in length → P. alboanthera Group 3 : Plant strictly creeping or decumbent.
 
 **1.** Inflorescence terminal → [[#^k2|2]]
 

@@ -38,7 +38,7 @@ The term "bract" was generally used by Cusset (Cusset 1978, 1983, 1984, 1987a, 1
 
 **2.** Foliaceous scales always entire, on the stem as on the branches, broadly elliptic with obtuse to rounded apex toward the branch apices → [[Inversodicraea_boumiensis\|*I. boumiensis*]] ^k2
 
-**2′.** Foliaceous scales lobed, at least on the branches, if not on the entire plant .. 3
+**2′.** Foliaceous scales lobed, at least on the branches, if not on the entire plant .. 3.
 
 **3.** Foliaceous scales entire appressed, broadly ovate at the base of the stem, 1- to 3-lobed, narrowly ovate on the branches → [[Inversodicraea_gabonensis\|*I. gabonensis*]] ^k3
 

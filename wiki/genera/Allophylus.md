@@ -52,7 +52,7 @@ The inflorescences are ± contracted cymules, grouped in simple or branched axil
 
 **7.** Petiole 1-3.5 cm, lamina (6-8 × 3-4 cm) with 5-7 acute teeth; petiolule 6-8 mm; inflorescences 8-15 cm, larger than petiole; cymules 3-4-flowered, sessile; pedicel 1 mm; sepals subglabrous; stamens glabrous → [[Allophylus_spicatus\|*A. spicatus*]] ^k7
 
-**7′.** Petiole 4-6 cm, lamina (12-18 × 4-7 cm) coarsely crenate-dentate; petiolule 2-4 mm; inflorescences 4 cm, smaller than petiole; cymules stipitate; pedicels 2-2.5 mm; sepals subhirsute; stamen with filaments villous internally → *A. contra*
+**7′.** Petiole 4-6 cm, lamina (12-18 × 4-7 cm) coarsely crenate-dentate; petiolule 2-4 mm; inflorescences 4 cm, smaller than petiole; cymules stipitate; pedicels 2-2.5 mm; sepals subhirsute; stamen with filaments villous internally → *A. contra*.
 
 **6′.** Branches and petioles briefly puberulent (hairs less than 0.3 mm); lamina glabrous, membranous or coriaceous; fruit pyriform ± elongate.
 
@@ -94,7 +94,7 @@ The inflorescences are ± contracted cymules, grouped in simple or branched axil
 
 **17.** Branches pubescent hirsute (hairs 0.3-0.4 mm); petiole villous all around (0.3 mm) 3-5 cm; petiolule (7-20 mm) not narrowed when dry; lamina 12-18 × 5-6 cm with cuneate base at most over 2/3 of its length, glabrous except midvein villous on both faces, as well as the secondary veins (7-8 pairs) below; small domatia; inflorescences equal to leaves (12-15(-20) cm); calyx densely pubescent (0.1 mm); sepals veined; 3 carpels → *A. zenkerae* ^k17
 
-**17′.** Branches glabrous; petioles glabrous 5-14 cm; petiolules (3-6 mm) narrowed when dry; lamina very thin, 9-18 × 3-6 mm, with cuneate base at least over 3/4 of its length, glabrous, even on the veins (8-12 pairs); no domatia; inflorescence 12-20 cm, smaller than leaves; calyx subglabrous; sepals not veined; 2 carpels → *A. longicunea*
+**17′.** Branches glabrous; petioles glabrous 5-14 cm; petiolules (3-6 mm) narrowed when dry; lamina very thin, 9-18 × 3-6 mm, with cuneate base at least over 3/4 of its length, glabrous, even on the veins (8-12 pairs); no domatia; inflorescence 12-20 cm, smaller than leaves; calyx subglabrous; sepals not veined; 2 carpels → *A. longicunea*.
 
 **15′.** Petals with ± abundantly bearded scale (more than 10-20 hairs, see also A. imenoensis and mayimbensis).
 

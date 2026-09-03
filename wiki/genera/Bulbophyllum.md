@@ -34,7 +34,7 @@ This genus exceeds 1100 species widely distributed in the tropical and subtropic
 
 **3.** Pseudobulbs 2-leaved → Group 3 (p. 170) ^k3
 
-**3′.** Pseudobulbs 1-leaved → Group 4 (p. 186) KEY TO GROUP 1: species with hairy lip margins
+**3′.** Pseudobulbs 1-leaved → Group 4 (p. 186) KEY TO GROUP 1: species with hairy lip margins.
 
 **1.** Pseudobulbs bifoliate → [[Bulbophyllum_cochleatum\|*B. cochleatum*]]
 

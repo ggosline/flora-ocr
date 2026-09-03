@@ -116,7 +116,7 @@ The first group comprises species originally placed in the genus Craterogyne, pl
 
 **19.** Floriferous surface plane to sometimes convex in fruit; primary appendages 10–15; 2–6 secondary appendages of variable size between the primary appendages → [[Dorstenia_lujae\|*D. lujae*]] ^k19
 
-**19.** Floriferous surface plane to strongly convex; primary appendages (3–) 6–12; secondary appendages absent, sometimes 1, or occasionally 5, 1 mm in length → *D. tene*
+**19.** Floriferous surface plane to strongly convex; primary appendages (3–) 6–12; secondary appendages absent, sometimes 1, or occasionally 5, 1 mm in length → *D. tene*.
 
 **6′.** Inflorescences zygomorphic (obtriangular in D. preussii).
 
@@ -126,11 +126,11 @@ The first group comprises species originally placed in the genus Craterogyne, pl
 
 **21.** Inflorescences obtriangular, with 2–3 appendages on the short side and an appendage at the angle formed by the 2 long ribs; herbs (succulent) reaching 20 cm in height → [[Dorstenia_preussii\|*D. preussii*]] ^k21
 
-**21′.** Inflorescences not thus. MORACEAE
+**21′.** Inflorescences not thus. MORACEAE.
 
 **22.** Inflorescences navicular or infundibuliform and laterally compressed; margin absent or very narrow (to about 0.5 mm); primary appendages not enlarged at the base → [[Dorstenia_dinklagei\|*D. dinklagei*]] ^k22
 
-**22′.** Inflorescences discoid or infundibuliform sometimes laterally compressed, variable as to the width of the margin and the number and size of the appendages → *D. poinsettifolia*
+**22′.** Inflorescences discoid or infundibuliform sometimes laterally compressed, variable as to the width of the margin and the number and size of the appendages → *D. poinsettifolia*.
 
 **5′.** Inflorescences neither actinomorphic nor distinctly zygomorphic.
 
@@ -140,7 +140,7 @@ The first group comprises species originally placed in the genus Craterogyne, pl
 
 **24.** Flowers spaced; pistillode distinct; no distinct ribs in the middle of the lower surface of the receptacle → [[Dorstenia_barteri\|*D. barteri*]] ^k24
 
-**24′.** Flowers clustered; pistillode strongly reduced or absent; 2 distinct ribs in the middle of the lower surface of the receptacle → *D. poinsettifolia*
+**24′.** Flowers clustered; pistillode strongly reduced or absent; 2 distinct ribs in the middle of the lower surface of the receptacle → *D. poinsettifolia*.
 
 
 ## Species in region

@@ -34,7 +34,7 @@ B: Boutique (1972), Klackenberg (1990), Paiva & Nogueira (1990), Raynal (1968), 
 
 **1.** Lower leaves in rosette; flowers grouped in corymb-like inflorescences, with long peduncles → [[Neurotheca_corymbosa\|*N. corymbosa*]] ^k1
 
-**1′.** Leaves not in rosette, scattered along the stem; flowers solitary or geminate, arranged along the entire length of the stem → N. loeselioides subsp. loeselioides
+**1′.** Leaves not in rosette, scattered along the stem; flowers solitary or geminate, arranged along the entire length of the stem → N. loeselioides subsp. loeselioides.
 
 
 ## Species in region

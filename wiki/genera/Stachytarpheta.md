@@ -42,7 +42,7 @@ B: Atkins (2004), Cardoso et al. (2011), Chandler et al. (2014), Fernandes (2005
 
 **3.** Leaf blade obtuse to rounded or somewhat acute at apex ; calyx with 4 equal teeth → S . jamaicensis ^k3
 
-**3′.** Leaf blade distinctly acute at apex, calyx with 5 equal teeth → S . urticifolia
+**3′.** Leaf blade distinctly acute at apex, calyx with 5 equal teeth → S . urticifolia.
 
 
 ## Species in region

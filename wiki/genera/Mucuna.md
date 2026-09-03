@@ -38,7 +38,7 @@ Botton & Hallé (1958), Duke (1981), Hauman (1954e), Mackinder et al. (2001), Mo
 
 **1.** Climbing plant; lateral leaflets differing in form and/or size from the terminal one → [[#^k2|2]] ^k1
 
-**1′.** Erect shrub, lateral leaflets of the same form and/or size as the terminal (to be searched for in Gabon) → M. stans Welw. ex Baker
+**1′.** Erect shrub, lateral leaflets of the same form and/or size as the terminal (to be searched for in Gabon) → M. stans Welw. ex Baker.
 
 **2.** Flowers arranged 2 to 10(–15) in umbels; branchlets finely grey pubescent → [[Mucuna_sloanei\|*M. sloanei*]] ^k2
 
@@ -54,7 +54,7 @@ Botton & Hallé (1958), Duke (1981), Hauman (1954e), Mackinder et al. (2001), Mo
 
 **5.** Pod covered with long erect, rigid and stinging hairs, without longitudinal wrinkles; seed black spotted with brown → M. pruriens var. pruriens ^k5
 
-**5′.** Pod covered with short hairs, often appressed and non-stinging, with one or more longitudinal wrinkles; seed of highly variable colours: brown, purple, grey or white; plant sometimes cultivated (to be searched for in Gabon) → M. pruriens var. utilis (Wall. ex Wight) Baker ex Burck
+**5′.** Pod covered with short hairs, often appressed and non-stinging, with one or more longitudinal wrinkles; seed of highly variable colours: brown, purple, grey or white; plant sometimes cultivated (to be searched for in Gabon) → M. pruriens var. utilis (Wall. ex Wight) Baker ex Burck.
 
 
 ## Species in region

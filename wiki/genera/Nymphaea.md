@@ -42,7 +42,7 @@ Bibliography: Hauman (1951), Judd et al. (2008), Schneider & Williamson (1993), 
 
 **3.** Blade with bulbils above the insertion point of the petiole, with entire margins; veins prominent or not below → [[Nymphaea_micrantha\|*N. micrantha*]] ^k3
 
-**3′.** Blade without bulbils, margins often undulate or dentate at least in the basal part; principal veins prominent below, but with median groove on the dry material → N. nouchali var. caerulea
+**3′.** Blade without bulbils, margins often undulate or dentate at least in the basal part; principal veins prominent below, but with median groove on the dry material → N. nouchali var. caerulea.
 
 
 ## Species in region

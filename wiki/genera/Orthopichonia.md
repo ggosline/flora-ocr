@@ -42,7 +42,7 @@ Remark: It is still very difficult to identify specimens of Orthopichonia in fru
 
 **3.** Corolla tube 4.7–6 mm long; petiole 11–22 mm → [[Orthopichonia_seretii\|*O. seretii*]] ^k3
 
-**3′.** Corolla tube 7.5–16 mm long; petiole 5–13 mm → *O. visciflua*
+**3′.** Corolla tube 7.5–16 mm long; petiole 5–13 mm → *O. visciflua*.
 
 
 ## Species in region

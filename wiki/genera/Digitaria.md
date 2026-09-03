@@ -34,7 +34,7 @@ Genus comprising more than one hundred species, of which 5 have been reported so
 
 **2.** Rachis of racemes triangular in section, with wings or more or less developed lateral margins. ^k2
 
-**3.** Upper glume with 3 nerves, shorter than the spikelet (approximately 2/3), bearing longitudinal lines of silvery hairs; racemes variable in number and length, most often 5 to 10; very common plant of fallows and waste ground..... ^k3
+**3.** Upper glume with 3 nerves, shorter than the spikelet (approximately 2/3), bearing longitudinal lines of silvery hairs; racemes variable in number and length, most often 5 to 10; very common plant of fallows and waste ground ^k3
 
 **2.** D. horizontalis.
 

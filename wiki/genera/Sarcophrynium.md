@@ -49,11 +49,11 @@ This genus comprises 4 or 5 species, all from the forest regions of tropical Afr
 
 **6.** Blades glabrous on the lower surface.. 6. S. Schweinfurthianum. ^k6
 
-**6′.** Blades pubescent on the lower surface .....
+**6′.** Blades pubescent on the lower surface.
 
 **7.** S. Schweinfurthianum var. puberulifolium. ^k7
 
-**1.** Sarcophrynium brachystachys (Benth.) K. Schum. (Pl. XXXI), p. 149)
+**1.** Sarcophrynium brachystachys (Benth.) K. Schum. (Pl. XXXI), p. 149).
 
 **1′.** Pfl. R. 4, 48 : 36 (1902). = Maranta (?) brachystachys Benth., Hook. Nig. Fl : 531 (1849). = Phrynium brachystachyum (Benth.) Koern., B. Soc. Nat. Moscou, 35, 1:108 (1862). = Phyllodes brachystachyum (Benth.) K. Schum., B. Jahrb. 15: 445 (1892). = Phrynium villosum K. Schum., B. Jahrb. 15 : 445 (1892) non de Benth. = Thalia brachystachys K. Koch., Allg. Gartenzeit. 25 : 146 (1857). = Phrynium molle A. Chev., Expl. Bot. A.O.F.: 631 (1920). Tufts formed by up to a dozen leaves around the central stem, up to 1 m tall. Leaves with blade elongate, attenuate at the base, glabrous except on the central vein on the upper surface, 20 to 40 cm long and more and up to about twenty centimeters wide. Callus up to 5 cm, sheaths pubescent. Inflorescence formed of one or several racemes which are then densely grouped. Racemes subsessile or on a peduncle reaching ca. 6 cm long. Internodes about 5 mm, pubescent. Bracts imbricate, 10-15, sometimes 20 × 8-10 mm, axillary to 4 to 5 biflorous cymes; common peduncle <<<---SECTION-BREAK--->>> as long as the bract, pedicels subequal, about 1 mm. Bracteoles acuminate, 1.5 mm long. Flowers with corolla about ten millimeters long (?), whitish-pink to purplish, staminodes yellow. Fruits orange-red, subspheric, 12-15 mm in diameter. Seeds subpyramidal, oblique, median transverse section quadrangular and cutting the embryo once. Type: Mann 1335, Congo. From Guinea to Central African Republic, Cameroon, Gabon and Belgian Congo. Plant of forest understory in swampy forests. The leaves are used for the manufacture of roofing or packaging (cassava loaves). Stems used for making ties. Vernacular names (after Walker and Sillans): Nkènè-gènè (Mpongwé, Galoa, Nkomi, Orungu); Nokènè-gènè (Apindji); Ndèna (Fang); Kèlè-gèlè (Ngowé); Kéli-géli (Balumbu); Kèlègè (Bavové); Dugègèli (Eshira, Bavarama, Bavungu, Bapunu); Okèkègèè (Mitsogo); Apèpèkoyè (Bakèlè); Kèlkèlè (Banzabi); Dudumwè (Béséki). MATERIAL STUDIED FOR GABON: Mann: 1908, Nun River. Klaine: 2906, Libreville. N. Hallé: 2228, région des Monts de Cristal.
 

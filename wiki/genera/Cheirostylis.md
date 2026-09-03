@@ -30,7 +30,7 @@ Genus of approximately 20 species from tropical Africa, Madagascar, the Comoros 
 
 **1.** Leaf blade 1–4 cm long, 0.8–2.5 cm wide, petiole shorter than the blade; labellum ± equal to the other perianth segments, 3.5–5 mm long → 2. Ch. lepida ^k1
 
-**1′.** Leaf blade 0.7–1.8(2.6) cm long, 0.6–1.6(2.3) cm wide, petiole ± equal to the blade; labellum longer than the other perianth segments, 4.8–5.8 mm long → 1. Ch. divina
+**1′.** Leaf blade 0.7–1.8(2.6) cm long, 0.6–1.6(2.3) cm wide, petiole ± equal to the blade; labellum longer than the other perianth segments, 4.8–5.8 mm long → 1. Ch. divina.
 
 
 ## Species in region

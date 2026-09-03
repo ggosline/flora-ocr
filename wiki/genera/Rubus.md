@@ -36,7 +36,7 @@ Bibliography: Hauman (1952), Kalkman (1993, 2004), Letouzey (1978), Mendes & Kup
 
 **2.** Leaf blade below glabrous except on the nerves → R. pinnatus var. afrotropicus ^k2
 
-**2′.** Leaf blade below with white-grayish tomentum → R. pinnatus var. ledermannii
+**2′.** Leaf blade below with white-grayish tomentum → R. pinnatus var. ledermannii.
 
 
 ## Species in region

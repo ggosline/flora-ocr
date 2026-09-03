@@ -34,7 +34,7 @@ Small trees. A. cynometroides and A. marginernervatus exist from Cameroon to Gab
 
 **2.** Base of leaflets furnished with 1-3 glands on the blade; Congolese species. A. djumænsis. ^k2
 
-**2′.** Base of leaflets without glands → *A. marginervatus*
+**2′.** Base of leaflets without glands → *A. marginervatus*.
 
 **1.** Aphanocalyx cynometroides Oliver (Pl. 68, p. 275) Oliver, Hook. Ic. Pl. 1066 (1867-71). — Pellegrin, Lég. Gabon : 73 (1948). <<<---SECTION-BREAK--->>> Leaves with one pair of leaflets opposite, sessile, glabrous. Blade asymmetrical, acuminate, attenuate at the base, obovate-oblanceolate. The principal vein, straight or slightly inflexed at the apex toward the interior, is found 5-20 mm from the inner margin. 2-3 basilar nerves are long-ascending. Petiole short, 3-9 mm. Stipules caducous. Small dense racemes 2-5 cm long. Floral bud scaly, with striated scales. Pedicels 2-4 mm. Bracteoles valvate, ferruginous tomentose, 5-7 mm long. One large petal 6-8 mm. Stamens 10, 7-10 mm in length. Ovary hirsute. Pods oblong, 4-5 × 2-2.5 cm, brown velvety, without longitudinal vein. Type: Mann 1810, 10 lat. N. GABONESE MATERIAL STUDIED: J. Eckendorff: 118, région du Djoua (fl. sept.).
 

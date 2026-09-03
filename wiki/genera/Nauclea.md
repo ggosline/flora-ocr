@@ -40,7 +40,7 @@ Type species, N. orientalis L. (= Sarcocephalus cordatus Miq.) from Asia.
 
 **3′.** No narrow keel on the stipules, sometimes only toward the base an ± obtuse bump; apex of the inflorescence peduncle attenuate; calyx lobes glabrous or moderately ciliate, all fused to each other; they form an uninterrupted network on the surface of the fruit.
 
-**4.** Inflorescence of approx. 4–6 cm diam.; stigmatic club 3 or 4 times longer than wide; internodes swollen by myrmeccocecidies; base of the leaf blade often very enlarged..... ^k4
+**4.** Inflorescence of approx. 4–6 cm diam.; stigmatic club 3 or 4 times longer than wide; internodes swollen by myrmeccocecidies; base of the leaf blade often very enlarged ^k4
 
 **4′.** Inflorescences of 3.5 cm diam. or less; stigmatic club 2 to 3 times longer than wide; no myrmeccocecidies; base of the blade rounded to cuneiform.
 
@@ -50,7 +50,7 @@ Type species, N. orientalis L. (= Sarcocephalus cordatus Miq.) from Asia.
 
 **6′.** Slender young branches 1 to 3 mm wide; blade rather narrow lanceolate → 5 bis. N. Gilletii var. lancifolia.
 
-**5′.** Leaves pubescent below → *N. xanthoxylon*
+**5′.** Leaves pubescent below → *N. xanthoxylon*.
 
 
 ## Species in region

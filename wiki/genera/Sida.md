@@ -28,7 +28,7 @@ B: Akoègninou et al. (2006), Exell & Meeuse (1961), Bayer & Kubitzki (2003), Ha
 
 **1.** Limb cordate, plant with hairs 1.5–2 mm → [[Sida_urens\|*S. urens*]] ^k1
 
-**1′.** Limb with rounded, cuneate base, not cordate, plant with hairs less than
+**1′.** Limb with rounded, cuneate base, not cordate, plant with hairs less than.
 
 **1.** 5 mm → [[#^k2|2]]
 

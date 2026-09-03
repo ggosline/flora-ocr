@@ -42,7 +42,7 @@ I. Lower leaf surface covered with a very dense felt of whitish-yellowish stella
 
 **3.** Flowers extra-axillary; leaves narrowly oblong, shortly attenuate at both ends; petals pearly white; ovaries pubescent; stigmas obovoid; fruit with contiguous mericarps, detaching easily from one another → 2. P. Staudtii ^k3
 
-**3′.** Flowers axillary; leaves elliptic-lanceolate, attenuate towards each end from the median portion; petals red, becoming pink-yellow; ovaries puberulent; stigmas subtrigonous; fruit with mericarps fused to one another at the lower portion → 3. P. Barteri
+**3′.** Flowers axillary; leaves elliptic-lanceolate, attenuate towards each end from the median portion; petals red, becoming pink-yellow; ovaries puberulent; stigmas subtrigonous; fruit with mericarps fused to one another at the lower portion → 3. P. Barteri.
 
 
 ## Species in region

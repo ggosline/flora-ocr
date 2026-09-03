@@ -29,7 +29,7 @@ May be regarded as the transition between the DENNSTAEDTIACEAE and the PTERIDEAE
 
 **1.** Plant subglabrous, pinnules elongate, entire or pinnatifid at the base and long-caudate, making an oblique angle with the costa; frond ovate, → [[Pteridium_centrali-africanum\|*P. centrali-africanum*]] ^k1
 
-**1′.** Lower surface of the lamina and rachis of all orders bearing a reddish tomentum. Pinnules deeply divided, at right angles, frond deltoid → *P. aquilinum*
+**1′.** Lower surface of the lamina and rachis of all orders bearing a reddish tomentum. Pinnules deeply divided, at right angles, frond deltoid → *P. aquilinum*.
 
 
 ## Species in region

@@ -54,7 +54,7 @@ We count 2 species in Sierra Leone and Liberia, M. pteridophyllus, M. compactus,
 
 **5′.** About 20-25 pairs, 2-4 mm wide; calyx absent.
 
-**6.** Stipules persistent; leaflets acute-falciform ..... ^k6
+**6.** Stipules persistent; leaflets acute-falciform ^k6
 
 **3.** M. pectinatus.
 
@@ -70,11 +70,11 @@ We count 2 species in Sierra Leone and Liberia, M. pteridophyllus, M. compactus,
 
 **9.** 20-25 × 5-6 mm; 17-18 pairs; calyx reduced to two minute teeth → 6. M. Le-Testui. ^k9
 
-**9′.** 10-13 × 3-4 mm; 13-15 pairs; calyx absent .....
+**9′.** 10-13 × 3-4 mm; 13-15 pairs; calyx absent.
 
 **8′.** Leaflets not emarginate, rounded at apex.
 
-**10.** 7-12 × 2.5-3.5 mm; 14-22 pairs; 5 minute sepals ..... ^k10
+**10.** 7-12 × 2.5-3.5 mm; 14-22 pairs; 5 minute sepals ^k10
 
 **8.** M. longiracemosus.
 

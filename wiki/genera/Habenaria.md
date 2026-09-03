@@ -38,7 +38,7 @@ A genus of more than 700 species, the majority from tropical regions with a few 
 
 **3.** Fertile portion of anther equal to stigmaphores → 3. Pentaceras p. 38 ^k3
 
-**3′.** Fertile portion of anther 2–4 times < stigmaphores
+**3′.** Fertile portion of anther 2–4 times < stigmaphores.
 
 **4.** Replicate p. 40 ^k4
 

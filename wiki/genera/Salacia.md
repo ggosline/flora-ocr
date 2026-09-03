@@ -34,11 +34,11 @@ Fruits bacciform globular, cucumiform, pyriform or oblong, 1–12 cm long, with 
 
 **3.** Sepals equal; disc subpentagonal; 2 ovules per locule; small yellow flowers on sessile glomerule → [[Salacia_dusenii\|*S. dusenii*]] ^k3
 
-**3′.** Sepals unequal → *I. pedunculate*
+**3′.** Sepals unequal → *I. pedunculate*.
 
 **5.** Circular spreading disc (pl. 10 B) → 9. S. lembachii (nota: anthers ± variable, reference to group 2). ^k5
 
-**5′.** Pentagonal cupuliform disc (pl. 12 I, p. 39) .....
+**5′.** Pentagonal cupuliform disc (pl. 12 I, p. 39).
 
 **4′.** Inflorescences sessile or subsessile.
 
@@ -90,7 +90,7 @@ Fruits bacciform globular, cucumiform, pyriform or oblong, 1–12 cm long, with 
 
 **4.** Slender pedicels 15-20 mm; sepals unequal, spreading; petals broad unguiculate; 2 ovules per locule → 16 bis. S. eurypetala. ^k4
 
-**4′.** Slender pedicels 20-30 mm; sepals acute with a few cilia; 2 ovu- les per locule → S. alveolata (Zaïre). 4". Pedicel 3.5-10 mm; sepals ovate obtuse, not ciliate; 2-6 ovules per locule
+**4′.** Slender pedicels 20-30 mm; sepals acute with a few cilia; 2 ovu- les per locule → S. alveolata (Zaïre). 4". Pedicel 3.5-10 mm; sepals ovate obtuse, not ciliate; 2-6 ovules per locule.
 
 **3′.** Flowers 8-16 mm in diameter.
 
@@ -130,7 +130,7 @@ Fruits bacciform globular, cucumiform, pyriform or oblong, 1–12 cm long, with 
 
 **8′.** Plant entirely glabrous; 2-7 ovules per locule.
 
-**9.** Bud ovate 2-3 mm wide; disc torus-shaped or subtrunonic (pl. 11 F); 2-6 ovules per locule; pedicels 3-9 mm (forms with apiculate anthers from gr. 7 are included) → *S. ere*
+**9.** Bud ovate 2-3 mm wide; disc torus-shaped or subtrunonic (pl. 11 F); 2-6 ovules per locule; pedicels 3-9 mm (forms with apiculate anthers from gr. 7 are included) → *S. ere*.
 
 **9′.** Bud oblong 1.4-1.9 mm wide; slender pedicels 6-13 mm; disc as in 9a; 1-4 ovules per locule; anthers are apiculate (exception by reference from gr. 7) 9". Bud ovate 2.3-3.5 mm wide; pedicels 3-11 mm; disc in a crown with a slight rim (pl. 10 A), or subpateliform; 2-7 ovules per locule; flower yellow, orange or salmon-colored; internodes with straight or strongly undulate wings .. 24. S. alar 9"'. Disc subpentagonal cushioned 2.3 mm in diameter; juvenile internodes subalate; flowers green; 2 ovules per locule → S. viridiflora Louis ex Wilczek (species from Zaïre also mentioned in group 7, the anther sometimes having a small apicule).
 
@@ -198,7 +198,7 @@ Fruits bacciform globular, cucumiform, pyriform or oblong, 1–12 cm long, with 
 
 **3.** Pubescence blonde, especially on the internodes and petioles; sepals subequal, narrow and acute → [[Salacia_howesii\|*S. howesii*]]
 
-**3′.** Pubescence russet or russety, especially on the inflorescence branches; sepals very unequal, ovate and obtuse → *S. rhodesiaca*
+**3′.** Pubescence russet or russety, especially on the inflorescence branches; sepals very unequal, ovate and obtuse → *S. rhodesiaca*.
 
 **1′.** Plants completely glabrous.
 
@@ -212,7 +212,7 @@ Fruits bacciform globular, cucumiform, pyriform or oblong, 1–12 cm long, with 
 
 **6′.** Disc a cushion 0.5 mm thick (pl. 10, fig. A); juvenile internodes subalate; green flowers, 2 ovules per locule S. viridiflora Louis ex Wilczek (see also gr. 5, the anther sometimes being without apicule).
 
-**7.** Limb moderate, ± olivaceous and ± discolorous when dry; 2-6 ovules per locule .....
+**7.** Limb moderate, ± olivaceous and ± discolorous when dry; 2-6 ovules per locule.
 
 **22.** S. erecta (nota: anther variation justifies reference to gr. 4). ^k22
 
@@ -226,15 +226,15 @@ Fruits bacciform globular, cucumiform, pyriform or oblong, 1–12 cm long, with 
 
 **1′.** Young branches smooth; sepals entire or somewhat denticular; leaf limbs 2.5-14 cm in length.
 
-**3.** Leaf limb rather elliptic, brown or brownish and subcoriaceous when dry, entire or weakly dentate, with secondary veins moderately ascending; old branches often greyish-brown; sepals sparsely ciliate or denticulatepublic .....
+**3.** Leaf limb rather elliptic, brown or brownish and subcoriaceous when dry, entire or weakly dentate, with secondary veins moderately ascending; old branches often greyish-brown; sepals sparsely ciliate or denticulatepublic.
 
 **3′.** Leaf limb often oblong, olivaceous or brown discolorous and thin when dry, often well dentate, with secondary veins short, weakly ascending; sepals denticulatepublic → 40. S. elegans. GROUP 9 Presence of latex; style attenuate subulate with truncate or punctiform stigma, never lobed; anther with or without apicule, with dehiscence slits forming a variable angle, obtuse or ± acute or very acute; flowers rather small 3-6 mm in diameter; for the disc see pl. 11, fig. E and pl. 12, fig. G.
 
-**1.** Bud oblong; petals with parallel veins; sepals broadly obtuse or rounded; cylindrical or obtuse-trunconic disc 0.9-1.3 mm in diameter and 1-1.2 mm in height; inflorescence 1-6 flowered with short peduncle; floral pedicel 2-5 mm; anther with a very indistinct apicule; locules situated clearly lower than the level of the stamens; 2 ovules per locule
+**1.** Bud oblong; petals with parallel veins; sepals broadly obtuse or rounded; cylindrical or obtuse-trunconic disc 0.9-1.3 mm in diameter and 1-1.2 mm in height; inflorescence 1-6 flowered with short peduncle; floral pedicel 2-5 mm; anther with a very indistinct apicule; locules situated clearly lower than the level of the stamens; 2 ovules per locule.
 
 **1′.** Plants not having all of these characters at once; the top of the locules is at the level of the stamens.
 
-**2.** Inflorescences few-flowered subsessile; salmon-colored flowers; leaf limb olivaceous shiny above when dry, dull and whitish below; secondary veins subparallel very weakly ascending; 2-6 ovules per locule → *S. callensii*
+**2.** Inflorescences few-flowered subsessile; salmon-colored flowers; leaf limb olivaceous shiny above when dry, dull and whitish below; secondary veins subparallel very weakly ascending; 2-6 ovules per locule → *S. callensii*.
 
 **2′.** Inflorescences several or multi-flowered sessile; yellow or yellow-green flowers; secondary veins ± arcuate ascending; 1-2 ovules per locule.
 
@@ -258,7 +258,7 @@ Fruits bacciform globular, cucumiform, pyriform or oblong, 1–12 cm long, with 
 
 **3.** Sepals entire very unequal in width; anthers rostrate or sagittate with 4 locules of equal length → 43 ter. S. lucida.
 
-**3′.** Sepals entire slightly unequal; anthers apiculate with outer locules longer than the inner ones → 44. S. oliveriana. 3". Sepals fimbriate slightly unequal; anthers apiculate with 4 locules equal
+**3′.** Sepals entire slightly unequal; anthers apiculate with outer locules longer than the inner ones → 44. S. oliveriana. 3". Sepals fimbriate slightly unequal; anthers apiculate with 4 locules equal.
 
 **45.** S. chlorantha. ^k45
 
@@ -270,7 +270,7 @@ Fruits bacciform globular, cucumiform, pyriform or oblong, 1–12 cm long, with 
 
 **5.** Large entire leaves; limb micropuberulent below towards the base S. lateritia Hallé (West Africa).
 
-**5′.** Leaves entirely glabrous → *L. entire*
+**5′.** Leaves entirely glabrous → *L. entire*.
 
 **7.** Pedicel 4-7 mm; sepals marginate ± cleft; often supernumerary petals and petaloid sepals; flower 12-16 mm in diameter → 45 ter. S. talbotii.
 

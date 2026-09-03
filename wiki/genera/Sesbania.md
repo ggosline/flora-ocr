@@ -38,7 +38,7 @@ De la Estrella et al. (2010), Gillett (1963, 1971c), Cronquist (1954), Lewis et 
 
 **2.** Branchlets with silky pubescence; leaflets with blade scattered above with small black dots; appendages of the standard entirely adnate → [[Sesbania_sericea\|*S. sericea*]] ^k2
 
-**2′.** Branchlets glabrous, sometimes somewhat spiny; leaflets with blade generally without black dots; appendages of the standard with apex free for ± 2 mm .. S. sesban subsp. punctata
+**2′.** Branchlets glabrous, sometimes somewhat spiny; leaflets with blade generally without black dots; appendages of the standard with apex free for ± 2 mm .. S. sesban subsp. punctata.
 
 
 ## Species in region

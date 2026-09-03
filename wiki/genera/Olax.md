@@ -53,25 +53,25 @@ accrescent calyx. Albumen oily. Embryo apical.
 
 **1.** Leaves alternate ^k1
 
-**1′.** 2\. Stamens alternipetalous; flowers on the narrow faces of the rachis
+**1′.** 2\. Stamens alternipetalous; flowers on the narrow faces of the rachis.
 
-**1′.** 3\. Calyx not accrescent; raceme many-flowered; petiole canaliculate above; bark striate and dotted with whitish points; endocarp thin, crustaceous → **[[Olax_gambecola|1. O. gambecola]]**
+**1′.** 3\. Calyx not accrescent; raceme many-flowered; petiole canaliculate above; bark striate and dotted with whitish points; endocarp thin, crustaceous → **[[Olax_gambecola|1. O. gambecola]]**.
 
-**1′.** 3'. Calyx accrescent; raceme few-flowered; petiole ± concave above; bark transversely striate; endocarp thick and hard → **[[Olax_mannii|2. O. mannii]]**
+**1′.** 3'. Calyx accrescent; raceme few-flowered; petiole ± concave above; bark transversely striate; endocarp thick and hard → **[[Olax_mannii|2. O. mannii]]**.
 
-**1′.** 2'. Stamens epipetalous; flowers on the broad faces of the rachis → **[[Olax_subscorpioidea|3. O. subscorpioidea]]**
+**1′.** 2'. Stamens epipetalous; flowers on the broad faces of the rachis → **[[Olax_subscorpioidea|3. O. subscorpioidea]]**.
 
-**1′.** 4\. Petals less than 6 mm long; style less than 4 mm long → **[[Olax_subscorpioidea_var_subscorpioidea|var. subscorpioidea]]**
+**1′.** 4\. Petals less than 6 mm long; style less than 4 mm long → **[[Olax_subscorpioidea_var_subscorpioidea|var. subscorpioidea]]**.
 
-**1′.** 4'. Petals 6–7 mm long; style more than 4 mm long → **[[Olax_subscorpioidea_var_durandii|var. durandii]]** → *L. decussate*
+**1′.** 4'. Petals 6–7 mm long; style more than 4 mm long → **[[Olax_subscorpioidea_var_durandii|var. durandii]]** → *L. decussate*.
 
-**1′.** 5\. Staminodes epipetalous; petiole absent; bark transversely wrinkled and longitudinally striate → **[[Olax_staudtii|4. O. staudtii]]**
+**1′.** 5\. Staminodes epipetalous; petiole absent; bark transversely wrinkled and longitudinally striate → **[[Olax_staudtii|4. O. staudtii]]**.
 
-**1′.** 5'. Staminodes alternipetalous; petiole 0–4 mm long; bark longitudinally wrinkled
+**1′.** 5'. Staminodes alternipetalous; petiole 0–4 mm long; bark longitudinally wrinkled.
 
-**1′.** 6\. Ovary 1-locular; petiole 2 mm long; flower bud ellipsoid; 5 stamens → **[[Olax_triplinervia|5. O. triplinervia]]**
+**1′.** 6\. Ovary 1-locular; petiole 2 mm long; flower bud ellipsoid; 5 stamens → **[[Olax_triplinervia|5. O. triplinervia]]**.
 
-**1′.** 6'. Ovary with 3 incomplete locules; petiole 4 mm long; flower bud ellipsoid, constricted in the middle; 6 stamens → **[[Olax_latifolia|6. O. latifolia]]**
+**1′.** 6'. Ovary with 3 incomplete locules; petiole 4 mm long; flower bud ellipsoid, constricted in the middle; 6 stamens → **[[Olax_latifolia|6. O. latifolia]]**.
 
 
 ## Species in Gabon

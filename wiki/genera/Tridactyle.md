@@ -62,7 +62,7 @@ Eleven species known from Gabon.
 
 **10.** Leaves oblong-elliptic, 1.7–2.5 cm wide, approximately 5 times as long as wide, rachis winged → 41. 7. T. latifolia ^k10
 
-**10′.** Leaves linear, reaching 1.2 cm wide, approximately 9–10 times as long as wide, rachis cylindric → 41. 9. T. lisowskii
+**10′.** Leaves linear, reaching 1.2 cm wide, approximately 9–10 times as long as wide, rachis cylindric → 41. 9. T. lisowskii.
 
 
 ## Species in region

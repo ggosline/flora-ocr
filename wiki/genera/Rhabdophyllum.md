@@ -45,7 +45,7 @@ Bibliography: Amaral & Bittrich (2014), Bamps & Farron (1967), Farron (1965, 198
 
 **5.** Inflorescence with rachis exceeding 1 cm in length; scales at the base of the inflorescence persistent or not → [[#^k6|6]] ^k5
 
-**5′.** Rachis short and contracted, not exceeding 1 cm; scales at the base of the inflorescence persistent → *R. letestui*
+**5′.** Rachis short and contracted, not exceeding 1 cm; scales at the base of the inflorescence persistent → *R. letestui*.
 
 **6.** Cymules 1- to 3-flowered; rachis angular or rounded; sepals straight at the base, ± spreading in the fruit; flowers and fruits erect → [[Rhabdophyllum_affine\|*R. affine*]] ^k6
 

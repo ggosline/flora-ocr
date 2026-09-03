@@ -40,7 +40,7 @@ Except for the subforestry species (margins, clearings) of subgen. Dupineta, the
 
 **3′.** Emergences on the floral buds (sometimes very rapidly caducous) in addition to short pubescence.
 
-**4.** Leaves not or scarcely cordate; branchlets 4-angular not winged; sepals abruptly caudate over 2/3 of the length, loosely ciliate ..... ^k4
+**4.** Leaves not or scarcely cordate; branchlets 4-angular not winged; sepals abruptly caudate over 2/3 of the length, loosely ciliate ^k4
 
 **3.** D. multiflora.
 
@@ -48,7 +48,7 @@ Except for the subforestry species (margins, clearings) of subgen. Dupineta, the
 
 **2′.** Appendage divided to the base into 2 subulate or linear lobes; or only bifid with pedoconnective thickened by a dorsal heel; or stamens homomorphic, with pedoconnective and appendages obsolete; hypanthium rarely glabrous, often with setulose, persistent emergences, only the intersepalous ones being caducous with the sepals; sepals rarely persistent (Subgen. Dissotis).
 
-**1.** One species of the same group: D. phaeotricha (Hochst.) Hook. f., exists on the batéké plateaus in Congo. It is characterized by compact glomerules and typically 4-merous flowers. <<<---SECTION-BREAK--->>>
+**1.** One species of the same group: D. phaeotricha (Hochst.) Hook. f., exists on the batéké plateaus in Congo. It is characterized by compact glomerules and typically 4-merous flowers. <<<---SECTION-BREAK--->>>.
 
 **5.** Sepals persistent; plant hirsute; hypanthium setulose, without emergences other than the intersepalous, linear, setulose but not stellate; stamens generally homomorphic, without evident pedoconnective, appendage reduced, 2-tuberculate → [[Dissotis_congolensis\|*D. congolensis*]] ^k5
 

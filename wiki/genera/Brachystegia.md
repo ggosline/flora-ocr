@@ -50,7 +50,7 @@ The 4 species of very large trees known in the Cameroonian-Gabonese forest can b
 
 **3.** One pair of rudimentary leaflets, persistent at the base of the rachis, or caducous but leaving visible scars; 3-4 pairs; apex acuminate or obtuse → 2. B. Zenkeri. ^k3
 
-**3′.** Leaflets of the basal pair similar to the others, and normally persistent; (4-) 5 (-6) pairs; distinctly rounded at the apex → *B. eurycoma*
+**3′.** Leaflets of the basal pair similar to the others, and normally persistent; (4-) 5 (-6) pairs; distinctly rounded at the apex → *B. eurycoma*.
 
 
 ## Species in region

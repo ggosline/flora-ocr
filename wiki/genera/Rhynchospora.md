@@ -74,7 +74,7 @@ b: Haines & Lye (1983), Hoenselaar et al. (2010), Hooper (1972), Lye
 
 **8.** Lamina at most 5 mm wide, plane; spikelets on a robust peduncle → [[Rhynchospora_eximia\|*R. eximia*]] ^k8
 
-**8′.** Lamina at most 1.5 mm wide, canaliculate; spikelets on a slender peduncle → R. gracillima subsp. subquadrata
+**8′.** Lamina at most 1.5 mm wide, canaliculate; spikelets on a slender peduncle → R. gracillima subsp. subquadrata.
 
 
 ## Species in region

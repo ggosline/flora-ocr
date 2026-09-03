@@ -40,7 +40,7 @@ B: Aubréville (1950, 1956), Baker & Stapf (1900), Briquet (1895), Cabral (2013)
 
 **2.** Leaflets 5, the median with lamina having 5 to 10 secondary veins on each side of the main vein → [[Vitex_thyrsiflora\|*V. thyrsiflora*]] ^k2
 
-**2′.** Leaflets 3, the median with lamina having 4 or 5 secondary veins on each side of the main vein → V. agelaeifolia var. agelaeifolia
+**2′.** Leaflets 3, the median with lamina having 4 or 5 secondary veins on each side of the main vein → V. agelaeifolia var. agelaeifolia.
 
 **3.** A single leaflet (rarely accompanied by a second vestigial leaflet), with lamina obtuse-rounded at the base → V. madiensis subsp. madiensis ^k3
 

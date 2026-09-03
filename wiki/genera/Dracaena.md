@@ -134,7 +134,7 @@ There are two species (D. perrottetii and D. usambarensis) to be searched for in
 
 **26.** Base of leaves equitant, with stem generally not visible between the leaf bases → [[#^k27|27]] ^k26
 
-**26′.** Base of leaves equitant, with stem often visible between the leaf bases .. 28
+**26′.** Base of leaves equitant, with stem often visible between the leaf bases .. 28.
 
 **27.** Leaf with obscure pseudopetiole; blade linear to narrowly obovate, rigid, up to 275 × 8 cm → [[Dracaena_acaulis\|*D. acaulis*]] ^k27
 
@@ -178,7 +178,7 @@ There are two species (D. perrottetii and D. usambarensis) to be searched for in
 
 **37.** Perianth lobes longer than the tube; leaf narrowly to very narrowly obovate, generally > 3.5 cm wide → [[Dracaena_marina\|*D. marina*]] ^k37
 
-**37′.** Perianth lobes shorter than the tube; leaf narrowly elliptic, up to about 3.5 cm wide; East African species, to be sought in Gabon → D. usambarensis Key to species based on vegetative characters
+**37′.** Perianth lobes shorter than the tube; leaf narrowly elliptic, up to about 3.5 cm wide; East African species, to be sought in Gabon → D. usambarensis Key to species based on vegetative characters.
 
 **1.** At the level of the leaves, the stem is hidden by the overlapping leaf bases → [[#^k2|2]]
 
@@ -240,7 +240,7 @@ There are two species (D. perrottetii and D. usambarensis) to be searched for in
 
 **15′.** Stem generally more than 5 cm tall, with more than 4 leaves → [[#^k16|16]]
 
-**16.** Blade broadly ovate; prominent parallel veins beneath .. D. phanerophlebia
+**16.** Blade broadly ovate; prominent parallel veins beneath .. D. phanerophlebia.
 
 **16′.** Blade narrowly ovate to ovate; parallel veins obscure → [[Dracaena_phrynioides\|*D. phrynioides*]]
 

@@ -44,13 +44,13 @@ The type of the genus is Pt. roxburghii Sch. et Endl., from Asia.
 
 **2.** Basal nerves 5, rarely 7; c. 4–5, rarely 3 pairs of non-basal pinnate nerves; stellate hairs forming a well-apparent tomentum on the extremities and young leaves; lamina base subtrun­cate to cordate → 2. Pt. bequaertii. ^k2
 
-**2′.** Basal nerves 7, sometimes 9; c. 3–4 pairs of non-basal pinnate nerves; hairs in stellate scales appressed on the extremities and young leaves; lamina base more or less deeply cordate → Pt. macrocarpa. KEY TO SPECIES BY FLOWERS AND INFLORESCENCES
+**2′.** Basal nerves 7, sometimes 9; c. 3–4 pairs of non-basal pinnate nerves; hairs in stellate scales appressed on the extremities and young leaves; lamina base more or less deeply cordate → Pt. macrocarpa. KEY TO SPECIES BY FLOWERS AND INFLORESCENCES.
 
 **1.** Bracteoles caducous leaving along the rachis, cicatricial collars with acute lateral projections; 4–5 carpels 1. Pt. augouardii.
 
 **1′.** Bracteoles caducous leaving cicatricial collars rounded or scarcely prominent.
 
-**2.** Inflorescence axes with manifest russet pubescence; sepals with strongly pubescent inner face; 3 carpels, more rarely 4
+**2.** Inflorescence axes with manifest russet pubescence; sepals with strongly pubescent inner face; 3 carpels, more rarely 4.
 
 **2.** Pt. bequaertii.
 

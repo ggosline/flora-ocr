@@ -42,7 +42,7 @@ Inflorescences in racemes of terminal cymes on lateral branches; the 3–5(7) su
 
 **1.** Anther ± straight with erect apex, connectiv apiculate or not; internal indumentum of corolla arranged in a single zone of hairs which are generally all erect-ascending; disk glabrous annular-smooth, mammilate or cupuliform; style always glabrous; corolla often long or very long; seeds irregular or ± angular → MUSSAENDINA (Ovary with 2 locules: 14, Heinsia; 15, Pseudomussaenda; 16, Mussaenda; 20, Pseudosabicea; 21, Ecpoma). (Ovary with 3-5 locules: 17, Temnopteryx; 18, Stipularia; 19, Sabicea.) ^k1
 
-**1′.** Anther ± curved, ± concave on the inner face, with acuminate introrse connectiv; internal indumentum of corolla in one or two zones of hairs, the lower ones generally reflex-descending; disk sometimes papilliferous or pubescent, generally ornamented with pits or radiating furrows; style pubescent or not; corolla often short or very short; seeds mostly globose.. UROPHYLLINAE. (Ovary with 2 locules: 22, Pentaloncha; 24, Pauridiantha; 25, Commitheca; 26, Stelecantha). (Ovary with 3-5 locules: 23, Poecilocalyx; 25, Commitheca). MUSSAENDEAE: KEY TO GENERA
+**1′.** Anther ± curved, ± concave on the inner face, with acuminate introrse connectiv; internal indumentum of corolla in one or two zones of hairs, the lower ones generally reflex-descending; disk sometimes papilliferous or pubescent, generally ornamented with pits or radiating furrows; style pubescent or not; corolla often short or very short; seeds mostly globose.. UROPHYLLINAE. (Ovary with 2 locules: 22, Pentaloncha; 24, Pauridiantha; 25, Commitheca; 26, Stelecantha). (Ovary with 3-5 locules: 23, Poecilocalyx; 25, Commitheca). MUSSAENDEAE: KEY TO GENERA.
 
 **1.** Inflorescence presenting one or more attractive petaloid sepals.
 
@@ -56,7 +56,7 @@ Inflorescences in racemes of terminal cymes on lateral branches; the 3–5(7) su
 
 **4.** Plant erect exceeding 0.50 m in height; stem woody; ovary with 3-4-5 locules; seeds prismatic → 17. Temnopteryx. ^k4
 
-**4′.** Plant prostrate-ascending not exceeding 0.30 m in height; stems sub-woody; ovary with 2 locules; seeds globose.....
+**4′.** Plant prostrate-ascending not exceeding 0.30 m in height; stems sub-woody; ovary with 2 locules; seeds globose.
 
 **22.** Pentaloncha ^k22
 

@@ -40,7 +40,7 @@ BIBLIOGRAPHY: Endl et al. (2018), Jeffrey (1967), Keraudren (1967), Keraudren-Ay
 
 **3.** Fruit 3–5 × 2–3 cm, bitter; leaf blade ovate, cordate at base, generally 3(−5)-palmatilobed, with central lobe 2 to 3 times as long as the lateral lobes → C. melo subsp. agrestis ^k3
 
-**3′.** Fruit >10 × 8 cm, sweet; leaf blade ovate to suborbicular or reniform, entire or sometimes 3(−7)-palmatilobed, with cordate base, with central lobe 1 to 2 times as long as the lateral lobes → C. melo subsp. melo
+**3′.** Fruit >10 × 8 cm, sweet; leaf blade ovate to suborbicular or reniform, entire or sometimes 3(−7)-palmatilobed, with cordate base, with central lobe 1 to 2 times as long as the lateral lobes → C. melo subsp. melo.
 
 
 ## Species in region

@@ -43,7 +43,7 @@ The genus comprises approximately sixty species distributed in Africa, Asia and 
 
 **2.** Lower part of labellum pandurate, wider at apex, lateral lobes obtuse → [[Nervilia_adolphi\|*N. adolphi*]] ^k2
 
-**2′.** Lower part of labellum oblong-elliptic to lunate-oblong, wider near the middle, lateral lobes acute to auriculiform → 2. N. bicarinata KEY TO SPECIES (by the leaves)
+**2′.** Lower part of labellum oblong-elliptic to lunate-oblong, wider near the middle, lateral lobes acute to auriculiform → 2. N. bicarinata KEY TO SPECIES (by the leaves).
 
 **1.** Petiole > 10 cm → [[Nervilia_bicarinata\|*N. bicarinata*]]
 

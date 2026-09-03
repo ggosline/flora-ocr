@@ -34,7 +34,7 @@ Genus of approximately 50 species in Africa, Madagascar, Comoros and Sri Lanka; 
 
 **3.** Flowers well spaced 3–5 cm along the inflorescence axis → 45. 2. A. arachnopus ^k3
 
-**3′.** Flowers more or less crowded, never distant more than 3 cm from one another → 45. 3. A. biloba Subgenus Barombia Gynosteme slender, elongate, much longer than the stigma, slightly shorter than the tepals. Rostellum narrowly ligulate. Rostellum remnants truncate. <<<---SECTION-BREAK--->>> PL. 193. – Structure of the gynosteme of the genus Aerangis Rchb. f. : A, front view ; B, lateral view ; C, anther removed ; D, rostellum remnant, front view ; E, tegula and viscidium (A–E, ex SZLACHETKO, 2003). <<<---SECTION-BREAK--->>>
+**3′.** Flowers more or less crowded, never distant more than 3 cm from one another → 45. 3. A. biloba Subgenus Barombia Gynosteme slender, elongate, much longer than the stigma, slightly shorter than the tepals. Rostellum narrowly ligulate. Rostellum remnants truncate. <<<---SECTION-BREAK--->>> PL. 193. – Structure of the gynosteme of the genus Aerangis Rchb. f. : A, front view ; B, lateral view ; C, anther removed ; D, rostellum remnant, front view ; E, tegula and viscidium (A–E, ex SZLACHETKO, 2003). <<<---SECTION-BREAK--->>>.
 
 
 ## Species in region

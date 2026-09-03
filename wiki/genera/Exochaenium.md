@@ -70,7 +70,7 @@ B: Boutique (1972), Kissling (2012), Paiva & Nogueira (1990), Struwe & Pringle (
 
 **2.** 5–13 mm → [[Exochaenium_grande\|*E. grande*]]
 
-**2′.** Corolla 7–9 mm in length; calyx 3–5 mm in length; leaves 2–5 ×
+**2′.** Corolla 7–9 mm in length; calyx 3–5 mm in length; leaves 2–5 ×.
 
 **0.** 5–1.5 mm → [[Exochaenium_baumianum\|*E. baumianum*]] ^k0
 

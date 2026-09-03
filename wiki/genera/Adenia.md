@@ -34,7 +34,7 @@ De Wilde (1971, 1975), Feuillet & Macdougal (2007), Hutchinson & Dalziel (1954),
 
 **2.** Apex of petiole with 1 ± spatulate gland → [[#^k3|3]] ^k2
 
-**2′.** Apex of petiole with 2 glands arranged on non-spatulate auricles → 6 <!-- caption: Planche 25.6, 26 -->
+**2′.** Apex of petiole with 2 glands arranged on non-spatulate auricles → 6 <!-- caption: Planche 25.6, 26 -->.
 
 **3.** Limb cordate, 5-palmatinerved, midvein with 2 axillary laminar glands on each side; sterile tendrils → A. bequartii ssp. occidentalis ^k3
 

@@ -48,7 +48,7 @@ Inflorescences very small, almost sessile: C. diffusiflora, C. Gossweileri, C. P
 ## Key to the species
 
 
-**1.** Leaves compound digitate 5-7-foliolate; stems thick fleshy; leaflets oblong obovate, nearly entirely glabrous..... ^k1
+**1.** Leaves compound digitate 5-7-foliolate; stems thick fleshy; leaflets oblong obovate, nearly entirely glabrous ^k1
 
 **1′.** Leaves simple entire.
 
@@ -104,7 +104,7 @@ Inflorescences very small, almost sessile: C. diffusiflora, C. Gossweileri, C. P
 
 **15′.** Leaves suborbicular, 2-3 cm long; stems cylindric; pedicels pubescent → 13. C. Gossweileri.
 
-**14′.** Plant more or less densely pubescent.....
+**14′.** Plant more or less densely pubescent.
 
 **14.** C. diffusiflora.
 

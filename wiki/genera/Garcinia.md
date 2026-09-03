@@ -42,7 +42,7 @@ Bi: Bamps (1970a), Bamps et al. (1978), Robson (1961), Sosef & Dauby (2012), Ste
 
 **3.** Branchlets slightly winged; pedicel up to 1.5 cm (up to 2 cm in fruit) in length; blade 5 ‒ 21 × 2 ‒ 9.5 cm → [[#^k4|4]] ^k3
 
-**3′.** Branchlets strongly winged, wings 3 ‒ 5 mm in width; pedicel 3 ‒ 5.5 cm in length; blade (14 ‒ )18 ‒ 41 × (4.5 ‒ )6 ‒ 15.5 cm → *G. le-testui*
+**3′.** Branchlets strongly winged, wings 3 ‒ 5 mm in width; pedicel 3 ‒ 5.5 cm in length; blade (14 ‒ )18 ‒ 41 × (4.5 ‒ )6 ‒ 15.5 cm → *G. le-testui*.
 
 **4.** Ovary and fruit verrucose; inflorescence generally terminal, with solitary raceme 1.5 ‒ 3 cm in length → [[#^k5|5]] ^k4
 
@@ -50,7 +50,7 @@ Bi: Bamps (1970a), Bamps et al. (1978), Robson (1961), Sosef & Dauby (2012), Ste
 
 **5.** Inflorescence and fruit puberulent → G. quadrifaria var. chromocarpa ^k5
 
-**5′.** Inflorescence and fruit glabrous → G. quadrifaria var. quadrifaria
+**5′.** Inflorescence and fruit glabrous → G. quadrifaria var. quadrifaria.
 
 **6.** Filaments fused at least at the base; blade without an inframarginal nerve or one situated at 0.5 ‒ 1 mm from the margin → [[#^k7|7]] ^k6
 

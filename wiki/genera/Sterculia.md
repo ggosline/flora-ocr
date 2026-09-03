@@ -48,7 +48,7 @@ The genus Sterculia, for which the need for a comprehensive revision is felt, co
 
 **2′.** 3-7 pairs of pinnate veins; leaves pubescent below.
 
-**1′.** Leaf base strongly cordate; 5-9 palmately arranged basilar veins; 8-12 pairs of non-basilar pinnate veins → 2. St. bequaerti KEY TO SPECIES BY FLOWERS (Sterculia and Eribroma.)
+**1′.** Leaf base strongly cordate; 5-9 palmately arranged basilar veins; 8-12 pairs of non-basilar pinnate veins → 2. St. bequaerti KEY TO SPECIES BY FLOWERS (Sterculia and Eribroma.).
 
 **1.** Calyx with free sepals, widely spreading, with reflexed apex, very densely hairy on the upper surface → [[Eribroma_oblonga\|*E. oblonga*]]
 

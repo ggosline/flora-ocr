@@ -49,7 +49,7 @@ I. Based on the specimens:
 
 **4.** Petals pubescent or puberulent internally → [[Microdesmis_haumaniana\|*M. haumaniana*]] ^k4
 
-**4′.** Petals glabrous internally → 5. M. camerunensis II. Based on the specimens
+**4′.** Petals glabrous internally → 5. M. camerunensis II. Based on the specimens.
 
 **2.** Branchlets glabrous → [[Microdesmis_camerunensis\|*M. camerunensis*]]
 

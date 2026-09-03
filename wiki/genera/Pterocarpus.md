@@ -46,7 +46,7 @@ Bibliography: Hauman (1954d), Lewis et al. (2005), Pellegrin (1949), Polhill (19
 
 **4.** Leaflets with lamina 5–13 × 3–6.5 cm; petals bright yellow to orange, standard with lamina 10–12 mm in length; legume orbicular, 2.5–4.5 cm in diameter, with centre convex, of ± 2 cm in diameter and narrow wing → *P. santalinoides* ^k4
 
-**4′.** Leaflets with lamina 4–8 × 2–3 cm; petals yellow with keel and base of standard red, standard with lamina 7–8 mm in length; legume falcate to oblong, 11.5–13.5 ×
+**4′.** Leaflets with lamina 4–8 × 2–3 cm; petals yellow with keel and base of standard red, standard with lamina 7–8 mm in length; legume falcate to oblong, 11.5–13.5 ×.
 
 **3.** 8–4.5 cm, with broad wing → [[Pterocarpus_tessmannii\|*P. tessmannii*]]
 

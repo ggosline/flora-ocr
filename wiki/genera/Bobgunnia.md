@@ -34,9 +34,7 @@ Bibliography: Aubréville (1968), Brummitt (2007a), Kirkbride & Wiersema (1997),
 ## Key to the species
 
 
-1 - Leaflets 9 to 15, with blade acuminate at apex; flowers in long pluriflorous pendant racemes; pedicel glabrous to slightly puberulent; in humid forest ............ B. fistuloides
-
-**—** Leaflets 9 to 11, with blade rounded to slightly emarginate at apex; flowers solitary or in short pauciflorous erect racemes; pedicel densely hairy to tomentose; in savanna or open forest (to be sought in Gabon) → B. madagascariensis (Desv.) J.H.Kirkbr. & Wiersema
+**1.** Leaflets 9 to 15, with blade acuminate at apex; flowers in long pluriflorous pendant racemes; pedicel glabrous to slightly puberulent; in humid forest → B. fistuloides **—** Leaflets 9 to 11, with blade rounded to slightly emarginate at apex; flowers solitary or in short pauciflorous erect racemes; pedicel densely hairy to tomentose; in savanna or open forest (to be sought in Gabon) → B. madagascariensis (Desv.) J.H.Kirkbr. & Wiersema ^k1
 
 
 ## Species in region

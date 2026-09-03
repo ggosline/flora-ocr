@@ -42,11 +42,11 @@ southward to the Democratic Republic of the Congo; all 3 occur in Gabon.
 
 **1.** Lower leaf surface densely covered with stellate, scurfy hairs -> [[Afrostyrax_lepidophyllus|*A. lepidophyllus*]] ^k1
 
-**1.** Lower leaf surface glabrous, without scurfy stellate hairs, or only rarely with a few stellate hairs
+**1.** Lower leaf surface glabrous, without scurfy stellate hairs, or only rarely with a few stellate hairs.
 
 **1.** Lateral nerves (3-)4-5(-6) pairs; blade margin not revolute; pedicel and outer calyx face with sparse stellate hairs; filament 0.2-0.5 mm long; anther about 1 mm long and dorsally hairy -> [[Afrostyrax_kamerunensis|*A. kamerunensis*]]
 
-**1.** Lateral nerves 6-8(-9) pairs; blade margin revolute; pedicel and outer calyx face with dense stellate hairs; filament 1.5-2.2 mm long; anther
+**1.** Lateral nerves 6-8(-9) pairs; blade margin revolute; pedicel and outer calyx face with dense stellate hairs; filament 1.5-2.2 mm long; anther.
 
 **1.** 5-2 mm long and glabrous -> [[Afrostyrax_macranthus|*A. macranthus*]]
 

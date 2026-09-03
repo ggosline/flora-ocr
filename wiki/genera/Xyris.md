@@ -54,7 +54,7 @@ Malme and X. angustifolia De Wild. & T.Durand which reach their northern limit t
 
 **5.** Small annual plant, generally less than 30 cm → X. anceps subsp. minor ^k5
 
-**5′.** Robust annual plant or short-lived perennial, more than 30 cm → X. anceps subsp. anceps
+**5′.** Robust annual plant or short-lived perennial, more than 30 cm → X. anceps subsp. anceps.
 
 **6.** Blade very narrow, terete in section, 0.5–1 mm wide; perennial plant, in dense tufts → [[Xyris_angustifolia\|*X. angustifolia*]] ^k6
 
@@ -70,7 +70,7 @@ Malme and X. angustifolia De Wild. & T.Durand which reach their northern limit t
 
 **9.** Bracts clearly papillose, with a long rigid point and scarious margin becoming irregular with age → X. aristata N.E.Br. ^k9
 
-**9′.** Bracts smooth, acute, without long point and margin not scarious → X. rehmannii L.A.Nilsson
+**9′.** Bracts smooth, acute, without long point and margin not scarious → X. rehmannii L.A.Nilsson.
 
 **10.** Perennial plant; inflorescences oblong, with parallel margins, remarkably elongating at maturity; teeth of the keel of lateral sepals prominent, often compound; flowers yellow → [[Xyris_congensis\|*X. congensis*]] ^k10
 
@@ -78,7 +78,7 @@ Malme and X. angustifolia De Wild. & T.Durand which reach their northern limit t
 
 **11.** Plants more than 30 cm tall; blade at least 2 mm wide; inflorescence generally subspheric → [[Xyris_capensis\|*X. capensis*]] ^k11
 
-**11′.** Plants generally less than 20 cm tall; blade 1–1.5 mm wide; inflorescence generally narrowly ovoid .. X. straminea L.A.Nilsson
+**11′.** Plants generally less than 20 cm tall; blade 1–1.5 mm wide; inflorescence generally narrowly ovoid .. X. straminea L.A.Nilsson.
 
 
 ## Species in region

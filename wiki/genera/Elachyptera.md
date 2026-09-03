@@ -36,7 +36,7 @@ Genus of 7 species, 3 from America, 3 from Africa and 1 from Madagascar.
 ## Key to the species
 
 
-**1.** Disc cupule entire; seed wingless; flower approximately 1.9 mm in diameter; petals rounded, fleshy and cucullate, not spreading; stigma punctiform .... ^k1
+**1.** Disc cupule entire; seed wingless; flower approximately 1.9 mm in diameter; petals rounded, fleshy and cucullate, not spreading; stigma punctiform ^k1
 
 **1′.** Disc cupule with margin split into 3 slits; petals thin ± spreading.
 

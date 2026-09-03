@@ -48,11 +48,11 @@ Bibliography: Brummitt (2005), Hauman (1954c), Hepper (1958), Jacques-Félix (19
 
 **5.** Hairs straight, spreading or reflexed; stem up to 2.5 m in length, erect or rather sarmentose or trailing; inflorescence dense; flower 5–7 mm in length; standard narrowly obovate, with appendage situated clearly above the claw → [[#^k6|6]] ^k5
 
-**5′.** Hairs curled; stem erect, up to 70 cm in height; inflorescence lax; flower 8–15 mm in length; standard obovate, with appendage at the apex of the claw → E. spicatum subsp. spicatum
+**5′.** Hairs curled; stem erect, up to 70 cm in height; inflorescence lax; flower 8–15 mm in length; standard obovate, with appendage at the apex of the claw → E. spicatum subsp. spicatum.
 
 **6.** Plant with relatively lax indumentum; leaflets with blade broadly ovate, with acute apex; inflorescence 2–3 cm in length → E. parviflorum subsp. podostachyum ^k6
 
-**6′.** Plant with dense indumentum; leaflets with blade elliptic to ovate, with obtuse to subacute apex; inflorescence 2–7 cm in length → E. parviflorum subsp. parviflorum
+**6′.** Plant with dense indumentum; leaflets with blade elliptic to ovate, with obtuse to subacute apex; inflorescence 2–7 cm in length → E. parviflorum subsp. parviflorum.
 
 **7.** Inflorescence capitate; peduncle 0.4–2 cm → [[#^k8|8]] ^k7
 
@@ -60,7 +60,7 @@ Bibliography: Brummitt (2005), Hauman (1954c), Hepper (1958), Jacques-Félix (19
 
 **8.** Calyx 5–9 mm in length → [[#^k9|9]] ^k8
 
-**8′.** Calyx 14–18(–20) mm in length → E. griseum var. griseum
+**8′.** Calyx 14–18(–20) mm in length → E. griseum var. griseum.
 
 **9.** Leaflets with blade narrowly oblanceolate-elliptic, > 4 times longer than wide, attenuate at both ends, with pinnate venation; branchlets with appressed indumentum → [[Eriosema_laurentii\|*E. laurentii*]] ^k9
 
@@ -68,7 +68,7 @@ Bibliography: Brummitt (2005), Hauman (1954c), Hepper (1958), Jacques-Félix (19
 
 **10.** Capitules with peduncle of 4–8 mm, with more than 10 flowers .. E. glomeratum var. glomeratum ^k10
 
-**10′.** Capitules with peduncle of 1–2.5 cm, fairly pauciflorous → E. glomeratum var. elongatum
+**10′.** Capitules with peduncle of 1–2.5 cm, fairly pauciflorous → E. glomeratum var. elongatum.
 
 **11.** Plant up to 25 cm in height; leaflets with elliptic blade, with acute apex; stipules fused except at the apex; racemes 1–2 cm in length → E. shirense var. shirense ^k11
 

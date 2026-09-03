@@ -52,11 +52,11 @@ L. ectypetala Hallé, from West Africa, is the only African species not from Cam
 
 **6.** Petals fleshy, especially toward the apex and subobtuse → L. ectypetala Hallé (West Africa).
 
-**5′.** Petals pubescent; cupule cavity well apparent; fleshy mass in small barrel-shaped sessile form sometimes somewhat pubescent; stamens puberulent; pistil pubescent toward the base between the filaments → *L. crena*
+**5′.** Petals pubescent; cupule cavity well apparent; fleshy mass in small barrel-shaped sessile form sometimes somewhat pubescent; stamens puberulent; pistil pubescent toward the base between the filaments → *L. crena*.
 
 **4′.** Petals glabrous; fleshy disk mass turbinate or subspheric.
 
-**7.** Disk pubescent between the cupule and the stamens and turbinate, the cupule being scarcely visible; petals triangular elongate ..... ^k7
+**7.** Disk pubescent between the cupule and the stamens and turbinate, the cupule being scarcely visible; petals triangular elongate ^k7
 
 **7.** Disk entirely glabrous.
 
@@ -72,7 +72,7 @@ L. ectypetala Hallé, from West Africa, is the only African species not from Cam
 
 **9.** Petals glabrous, style long; there are transitional forms with the two other varieties that follow → 8. L. africana (var. obtusifolia).
 
-**2′.** Disk without a central fleshy mass under the style and androecium; broad flared cupule, clearly adnate to the base of the petals .....
+**2′.** Disk without a central fleshy mass under the style and androecium; broad flared cupule, clearly adnate to the base of the petals.
 
 **8.** L. africana (var. richardiana).
 

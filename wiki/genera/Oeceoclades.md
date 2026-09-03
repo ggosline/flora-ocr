@@ -32,7 +32,7 @@ Australasia, the Pacific Islands, South America, the Bahamas and the Antilles.
 ## Key to the species
 
 
-**1′.** Pseudobulbs with 2 or 3 leaves, labellum with a single central callus, papillose at the apex and base → 27. 2. O. saundersiana
+**1′.** Pseudobulbs with 2 or 3 leaves, labellum with a single central callus, papillose at the apex and base → 27. 2. O. saundersiana.
 
 
 ## Species in region

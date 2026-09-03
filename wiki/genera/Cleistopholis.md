@@ -32,7 +32,7 @@ I. Inflorescences subumbelliform, with peduncles 2-7 mm long; 2-3 cucullate brac
 
 **2.** Leaves oblong, oblong-lanceolate to slightly falciform, glossy on the upper face; petiole 3-12 mm long; lateral veins 10-24 pairs; inflorescences 2-9-flowered; external petals elliptic-oblong, 7-12 mm long, 2-4 mm wide; carpels c. 10 → *C. patens* ^k2
 
-**2′.** Leaves elliptic-oblong to obovate, dull on the upper face; petiole 10-15 mm long; lateral veins 10-12 pairs; inflorescences 2-3-flowered; external petals linear, 15-20 mm long, 2-3 mm wide; carpels c. 20 → 3. C. Staudtii
+**2′.** Leaves elliptic-oblong to obovate, dull on the upper face; petiole 10-15 mm long; lateral veins 10-12 pairs; inflorescences 2-3-flowered; external petals linear, 15-20 mm long, 2-3 mm wide; carpels c. 20 → 3. C. Staudtii.
 
 
 ## Species in region

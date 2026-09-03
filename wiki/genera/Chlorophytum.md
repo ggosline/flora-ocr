@@ -58,7 +58,7 @@ Kativu et al. (2008).
 
 **4.** Robust plants, most often blackish after drying; leaf (petiole included) more than 35 cm in length, blade 5–10 cm wide → [[#^k5|5]] ^k4
 
-**4′.** Moderately robust plants, greenish after drying, leaf (petiole included) less than 35 cm in length, blade 3–7 cm wide → 6 ( C. sparsiflorum )
+**4′.** Moderately robust plants, greenish after drying, leaf (petiole included) less than 35 cm in length, blade 3–7 cm wide → 6 ( C. sparsiflorum ).
 
 **5.** Leaves distinctly petiolate, blade ± truncate at the base; rachis glabrous, rarely somewhat scabrous, inflorescence with 0–7 branches; capsule 5–8 mm in length → [[Chlorophytum_orchidastrum\|*C. orchidastrum*]] ^k5
 
@@ -66,7 +66,7 @@ Kativu et al. (2008).
 
 **6.** Leaves gradually narrowed toward the base, lower surface not distinctly striated → C. sparsiflorum var. sparsiflorum ^k6
 
-**6′.** Leaves distinctly petiolate, lower surface distinctly striated → C. sparsiflorum var. bipindense
+**6′.** Leaves distinctly petiolate, lower surface distinctly striated → C. sparsiflorum var. bipindense.
 
 
 ## Species in region

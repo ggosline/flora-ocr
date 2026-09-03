@@ -48,7 +48,7 @@ Bibliography: Breteler (2011a), Leandri (1958), Léonard (1995a), Pax & Hoffmann
 
 **6.** Petals present; leaf blade with midvein very often pink to brick-red in colour, petiole (4–)5–12(–16) mm; stipules (3–)5–7(–12) mm long; inflorescence 2–3 cm long → [[Thecacoris_stenopetala\|*T. stenopetala*]] ^k6
 
-**6′.** Petals absent; leaf blade with midvein green, petiole (1–)2–5(–11) mm; stipules 2–6(–7) mm long; inflorescence 3–12 cm long → T. leptobotrya Key to species based on female flowering specimens
+**6′.** Petals absent; leaf blade with midvein green, petiole (1–)2–5(–11) mm; stipules 2–6(–7) mm long; inflorescence 3–12 cm long → T. leptobotrya Key to species based on female flowering specimens.
 
 **1.** Shrub to small tree, (0.6–)2–10 m tall with trunk up to 10 cm in diameter; leaf blade with entire margin; inflorescence unbranched → [[#^k2|2]]
 

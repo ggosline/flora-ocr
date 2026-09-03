@@ -28,7 +28,7 @@ Bibliography: Léonard & Mosango (1985), Pax & Hoffmann (1922), Radcliffe-Smith 
 
 **1.** Lamina acute, rounded or obtuse at apex, at the adult stage, with abundant glandular discs on the lower surface; fruit winged in the upper half, dehiscing from a persistent columella into 2 indehiscent cocci → H . acida ^k1
 
-**1′.** Lamina acuminate, at the adult stage with very rare or absent glandular discs on the lower surface; fruit entirely winged, indehiscent, samaroid → H . ulmoides
+**1′.** Lamina acuminate, at the adult stage with very rare or absent glandular discs on the lower surface; fruit entirely winged, indehiscent, samaroid → H . ulmoides.
 
 
 ## Species in region

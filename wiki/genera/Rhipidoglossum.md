@@ -34,7 +34,7 @@ Genus of approximately 20-30 species found exclusively on the African continent.
 
 **3.** Spur sacciform, shorter than the pedicel and ovary, obtuse → 50. 2. R. densiflorum ^k3
 
-**3′.** Spur narrowly conical, acute, longer than the pedicel and ovary → 50. 4. R. rutilum
+**3′.** Spur narrowly conical, acute, longer than the pedicel and ovary → 50. 4. R. rutilum.
 
 
 ## Species in region

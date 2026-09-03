@@ -28,9 +28,9 @@ These liane species can be separated as follows:
 ## Key to the species
 
 
-**1.** Calyx glabrous externally; long receptacle of 20-30 mm..... ^k1
+**1.** Calyx glabrous externally; long receptacle of 20-30 mm ^k1
 
-**1′.** Calyx ± pubescent externally → *V. pubescent*
+**1′.** Calyx ± pubescent externally → *V. pubescent*.
 
 **3.** Greyish; petals glabrous on the outside; receptacle of 12-15 mm, ± pubescent on the inside → [[Griffonia_simplicifolia\|*G. simplicifolia*]] ^k3
 

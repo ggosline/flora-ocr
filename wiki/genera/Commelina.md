@@ -54,7 +54,7 @@ Bibliography
 
 **5.** Spathe (2.5–)3–6.2 cm in length; leaf blade narrowly elliptic-ovate, (3.5–)5.5–10.5(–13) × (0.9–)1.2–1.7(–2) cm; flower whitish, mauve or pale blue → [[Commelina_acutispatha\|*C. acutispatha*]] ^k5
 
-**5′.** Spathe 0.8–4 cm in length; leaf blade narrowly ovate-oblong to ovate,
+**5′.** Spathe 0.8–4 cm in length; leaf blade narrowly ovate-oblong to ovate,.
 
 **1.** 5–8.5 × 0.6–2.7 cm; flower bright blue or violet → [[Commelina_diffusa\|*C. diffusa*]]
 

@@ -35,7 +35,7 @@ Two still poorly known and rare species from western equatorial Africa.
 
 **1.** Calyx pubescent; corolla 3-6 cm diam.; internodes vigorous with hairs approximately 1 mm long → [[Calochone_acuminata\|*C. acuminata*]] ^k1
 
-**1′.** Calyx villous; corolla 2-3 cm diam.; internodes rather slender with hairs approximately 2 mm long → 2. C. Redingii
+**1′.** Calyx villous; corolla 2-3 cm diam.; internodes rather slender with hairs approximately 2 mm long → 2. C. Redingii.
 
 
 ## Species in region

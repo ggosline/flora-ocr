@@ -52,7 +52,7 @@ B: Bosman & de Haas (1983), Botton & Hallé (1957), Brummitt et al. (2007), Chev
 
 **6.** Flowers in fascicles of 2 or 3 in the leaf axils; pod with 4 to 7(–8) seeds → [[Tephrosia_elegans\|*T. elegans*]] ^k6
 
-**6′.** Flowers in terminal and axillary racemes; pod with 10 or 11 seeds (to be sought in Gabon) → T. paniculata Baker
+**6′.** Flowers in terminal and axillary racemes; pod with 10 or 11 seeds (to be sought in Gabon) → T. paniculata Baker.
 
 **7.** Leaflets with linear to narrowly oblanceolate blade, 7 to 20 times longer than wide; annual plant → [[#^k8|8]] ^k7
 

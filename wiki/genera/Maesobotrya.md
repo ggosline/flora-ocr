@@ -48,7 +48,7 @@ ibliography
 
 **5.** Branchlets and leaves glabrous or early glabrescent → [[#^k6|6]] ^k5
 
-**5′.** Branchlets and leaves with persistent indumentum or leaves late glabrescent .. 7
+**5′.** Branchlets and leaves with persistent indumentum or leaves late glabrescent .. 7.
 
 **6.** Lamina with 4–6 pairs of lateral veins → [[Maesobotrya_griffoniana\|*M. griffoniana*]] ^k6
 

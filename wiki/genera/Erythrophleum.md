@@ -37,7 +37,7 @@ E. africanum and typical E. suaveolens do not occur in Gabon. E. suaveolens is p
 
 **2.** Ovate-oblong, ordinarily obtuse at the base; flowers subsessile; petals densely villous externally; humid evergreen and semi-deciduous dense forest → [[Erythrophleum_ivorense\|*E. ivorense*]] ^k2
 
-**2′.** Broadly ovate rounded at the base; flowers distinctly pedicellate; petals pubescent on the margins and on the midvein; edges of humid dense forest, forest galleries and dense dry forests → *E. suaveolens*
+**2′.** Broadly ovate rounded at the base; flowers distinctly pedicellate; petals pubescent on the margins and on the midvein; edges of humid dense forest, forest galleries and dense dry forests → *E. suaveolens*.
 
 
 ## Species in region

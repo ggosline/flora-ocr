@@ -60,7 +60,7 @@ BIBLIOGRAPHY: van Dilst (1995), Endress et al. (2019), Jongkind & Lachenaud (202
 
 **9.** Leaf blade broadly rounded or cordate at the base → [[#^k10|10]] ^k9
 
-**9′.** Leaf blade cuneate or very narrowly rounded to very narrowly cordate at the base 12
+**9′.** Leaf blade cuneate or very narrowly rounded to very narrowly cordate at the base 12.
 
 **10.** Corolla yellowish from the start, external face of the tube situated above the calyx entirely covered with hairs of pale colour → [[Baissea_campanulata\|*B. campanulata*]] ^k10
 
@@ -68,7 +68,7 @@ BIBLIOGRAPHY: van Dilst (1995), Endress et al. (2019), Jongkind & Lachenaud (202
 
 **11.** Calyx with lobes 2–3 mm long, widening from the base; external face of the corolla tube with some hairy spots but especially glabrous → [[Baissea_congensis\|*B. congensis*]] ^k11
 
-**11′.** Calyx with lobes 1–1.5 mm long, narrowing from the base; external face of the corolla tube puberulent → *B. laxiflora*
+**11′.** Calyx with lobes 1–1.5 mm long, narrowing from the base; external face of the corolla tube puberulent → *B. laxiflora*.
 
 **12.** Sepals without colleters; external face of the corolla tube puberulent → *B. laxiflora* ^k12
 

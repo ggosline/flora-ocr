@@ -62,19 +62,19 @@ The genus currently comprises 9 species and 1 variety. Two are species of open f
 
 **3′.** Pedicel + receptacle 1.5-3 cm long; buds glabrous except at the apex; flowers mauve → 2. D. Pynærtii.
 
-**2′.** Leaves glabrous → *B. glabrous*
+**2′.** Leaves glabrous → *B. glabrous*.
 
 **5.** Large leaflets 12-30 cm long, 4-11 cm wide. ^k5
 
-**3.** D. Klainei → *L. smaller*
+**3.** D. Klainei → *L. smaller*.
 
-**6.** Small leaflets ovate, up to 6 cm in length and 2 cm in width; sepals 8-10 mm in length..... ^k6
+**6.** Small leaflets ovate, up to 6 cm in length and 2 cm in width; sepals 8-10 mm in length ^k6
 
-**1.** D. Soyauxii var. Soyauxii → *L. oblong*
+**1.** D. Soyauxii var. Soyauxii → *L. oblong*.
 
 **7.** Sepals 1.6-2.2 cm in length × 11-17 mm in width; pedicel + receptacle 1.5-2 cm long; flowers red-violet → D. thurifera. (West Africa). ^k7
 
-**7′.** Sepals 1-1.2 cm in length × 8 mm in width; pedicel + receptacle approximately 1.2 cm in length; flowers blue → *D. oblonga*
+**7′.** Sepals 1-1.2 cm in length × 8 mm in width; pedicel + receptacle approximately 1.2 cm in length; flowers blue → *D. oblonga*.
 
 **4′.** Buds densely pubescent; ovary pubescent then glabrescent; leaflets oblong to oblong-ovate, glabrous; flowers blue-violet → 4. D. Ogea.
 

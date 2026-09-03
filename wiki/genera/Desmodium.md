@@ -44,7 +44,7 @@ Hepper (1958), Lewis et al. (2005), Mackinder et al. (2001), van der Maesen (200
 
 **3.** Leaflets with blade silky-silvery beneath → D. barbatum var. argyreum ^k3
 
-**3′.** Leaflets with blade pubescent beneath → D. barbatum var. dimorphum
+**3′.** Leaflets with blade pubescent beneath → D. barbatum var. dimorphum.
 
 **4.** Inflorescence loose, 3–25 cm long; stipules subulate → [[#^k5|5]] ^k4
 
@@ -52,7 +52,7 @@ Hepper (1958), Lewis et al. (2005), Mackinder et al. (2001), van der Maesen (200
 
 **5.** Plant suffrutescent, 1–2 m tall → D. gangeticum var. gangeticum ^k5
 
-**5′.** Herb arising from a woody rootstock → D. gangeticum var. maculatum
+**5′.** Herb arising from a woody rootstock → D. gangeticum var. maculatum.
 
 **6.** Leaflets with blade narrowly elliptic to narrowly ovate, (6–)9–17 × 2–6.5 cm, at least 3 times longer than wide → D. salicifolium var. salicifolium ^k6
 
@@ -96,7 +96,7 @@ Hepper (1958), Lewis et al. (2005), Mackinder et al. (2001), van der Maesen (200
 
 **16.** Leaflets with blade 2–3(–5.5) cm long, with appressed puberulence above; bracts puberulent to glabrescent → D. adscendens var. adscendens ^k16
 
-**16′.** Leaflets with blade 3–5.5 cm long, glabrous above; bracts densely appressed-hairy → D. adscendens var. robustum
+**16′.** Leaflets with blade 3–5.5 cm long, glabrous above; bracts densely appressed-hairy → D. adscendens var. robustum.
 
 
 ## Species in region

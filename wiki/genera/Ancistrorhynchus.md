@@ -44,7 +44,7 @@ Genus of approximately 20 species widely distributed in tropical Africa.
 
 **4.** Leaves acuminate at the apex → 30. 2. A. clandestinus ^k4
 
-**4′.** Leaves very unequally bilobed at the apex, lobes bidentate subacute → 30. 5. A. recurvus
+**4′.** Leaves very unequally bilobed at the apex, lobes bidentate subacute → 30. 5. A. recurvus.
 
 **5.** Spur < 3.5 mm, ellipsoid, acute to subacute, wider toward the middle → 30. 7. A. strausii ^k5
 
@@ -52,7 +52,7 @@ Genus of approximately 20 species widely distributed in tropical Africa.
 
 **6.** Spur > 7 mm → 30. 1. A. capitatus ^k6
 
-**6′.** Spur < 6 mm → 30. 4. A. metteniae
+**6′.** Spur < 6 mm → 30. 4. A. metteniae.
 
 
 ## Species in region

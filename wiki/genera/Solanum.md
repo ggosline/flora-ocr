@@ -36,7 +36,7 @@ Notes: The genus Solanum includes three species of major economic importance, cu
 
 **3.** Young branches, upper surface of the blade and/or outer surface of the calyx and corolla lobes equipped with simple and/or dendritic hairs, never stellate → [[#^k4|4]] ^k3
 
-**3′.** Young branches, upper surface of the blade and/or outer surface of the calyx and corolla lobes equipped with stellate hairs; more rarely plants glabrous with only a few stellate hairs on young leaves and on the outer surface of the calyx and corolla lobes ( S. aethiopicum , S. macrocarpon , S. melongena ) 7
+**3′.** Young branches, upper surface of the blade and/or outer surface of the calyx and corolla lobes equipped with stellate hairs; more rarely plants glabrous with only a few stellate hairs on young leaves and on the outer surface of the calyx and corolla lobes ( S. aethiopicum , S. macrocarpon , S. melongena ) 7.
 
 **4.** Leaf blade equipped with simple and stellate hairs on the lower surface; plant very prickly; fruit > 2 cm in diameter, yellow at maturity → [[Solanum_aculeatissimum\|*S. aculeatissimum*]] ^k4
 

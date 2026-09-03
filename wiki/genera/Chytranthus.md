@@ -89,7 +89,7 @@ Fruit fleshy, succulent at maturity, green, yellow, orange or ± purplish, adorn
 
 **11.** Disc simple; anther glabrous; fruit 5-locular → 9. Ch. atroviolaceus. ^k11
 
-**11′.** Disc presenting a satellite; anther pubescent; fruit 9-8-locular....
+**11′.** Disc presenting a satellite; anther pubescent; fruit 9-8-locular.
 
 **9′.** Stamens 11-15; ovary 6-9-locular (sect. Glossolepis).
 

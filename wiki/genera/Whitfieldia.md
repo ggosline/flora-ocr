@@ -28,7 +28,7 @@ Type species: W. lateritia Hook., described from Sierra Leone. Approximately 10 
 
 **1′.** Corolla tube 7–22 mm long, more or less curved, campanulate or funnel-shaped; corolla yellow, yellowish or purple, with purple or more or less dark brownish-red striae.
 
-**2.** Bracteoles broadly ovate or nearly orbicular 20 × 17 mm; corolla violet purple with darker striae.... ^k2
+**2.** Bracteoles broadly ovate or nearly orbicular 20 × 17 mm; corolla violet purple with darker striae ^k2
 
 **2′.** Bracteoles ovate, obovate or lanceolate, not exceeding 9 × 8 mm.
 

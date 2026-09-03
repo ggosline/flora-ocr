@@ -66,7 +66,7 @@ Bibliography
 
 **9.** Limb pentagonal, slightly lobed, with irregularly dentate margin, plant covered with stellate hairs; flowers white → [[Hibiscus_ngokbanakii\|*H. ngokbanakii*]] ^k9
 
-**9′.** Limb elongately ovate to ovate-hastate, plant hispid, flowers yellow H. sudanensis
+**9′.** Limb elongately ovate to ovate-hastate, plant hispid, flowers yellow H. sudanensis.
 
 **10.** Limb simple, linear-lanceolate → [[Hibiscus_squamosus\|*H. squamosus*]] ^k10
 
