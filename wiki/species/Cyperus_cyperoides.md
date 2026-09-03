@@ -7,6 +7,12 @@ family: Cyperaceae
 vol: 44
 pages: 52-55
 source: sources/Cyperaceae_vol44_liteparse
+countries: [Gabon]
+in_region: true
+subdivisions:
+  Gabon: [Estuaire, Haut-Ogooué, Ngounié, Nyanga, Ogooué-Ivindo, Ogooué-Maritime]
+habit: "herb"
+altitude_m: "500"
 tags: [species, generated]
 ---
 # *Cyperus cyperoides* (L.) Kuntze

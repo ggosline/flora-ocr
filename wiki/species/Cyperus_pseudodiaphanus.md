@@ -7,6 +7,12 @@ family: Cyperaceae
 vol: 44
 pages: 121-122
 source: sources/Cyperaceae_vol44_liteparse
+countries: [Gabon, Nigeria, Senegal]
+in_region: true
+subdivisions:
+  Gabon: [Ogooué-Ivindo]
+habit: "herb"
+altitude_m: "120"
 tags: [species, generated]
 ---
 # *Cyperus pseudodiaphanus* (Hooper) Lye

@@ -7,6 +7,11 @@ family: Dracaenaceae
 vol: 54
 pages: 55-57
 source: sources/Dracaenaceae_vol54_liteparse
+countries: [Burundi, Democratic Republic of the Congo, Gabon, Kenya, Malawi, Mozambique, Tanzania, Zambia, Zimbabwe]
+in_region: true
+habit: "tree"
+habitat: [savanna, coastal]
+altitude_m: "1800"
 tags: [species, generated]
 ---
 # *Dracaena usambarensis* Engl. Planche 20

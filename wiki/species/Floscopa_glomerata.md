@@ -7,6 +7,12 @@ family: Commelinaceae
 vol: 55
 pages: 38-40
 source: sources/Commelinaceae_vol55_liteparse
+countries: [Angola, Benin, Burkina Faso, Burundi, Cameroon, Central African Republic, Cote d'Ivoire, Democratic Republic of the Congo, Equatorial Guinea, Gabon, Gambia, Ghana, Guinea, Kenya, Liberia, Madagascar, Malawi, Mali, Mozambique, Nigeria, Republic of the Congo, Rwanda, Sao Tome and Principe, Senegal, Sierra Leone, Sudan, Tanzania, Togo, Uganda, Zambia, Zimbabwe]
+in_region: true
+subdivisions:
+  Gabon: [Woleu-Ntem]
+habit: "herb"
+altitude_m: "485"
 tags: [species, generated]
 ---
 # *Floscopa glomerata* (Willd. ex Schult. & Schult.f.) Hassk. Planche 8
@@ -35,7 +41,7 @@ wet grasslands, marshes; in Gabon up to 485 m altitude, elsewhere from 280 to 25
 
 ![Floscopa glomerata](../sources/Commelinaceae_vol55_liteparse/figures/fig_023_p0039.png)
 
-*Plate 8. Floscopa glomerata: 1. General aspect (× ⅕). – 2. Fruitfructescence (× 2). – 3. Flower (× 5). – 4.*
+*Plate 8. Floscopa glomerata: 1. General aspect (× ⅕). – 2. Fruit-fructescence (× 2). – 3. Flower (× 5). – 4.*
 
 ## Notes
 

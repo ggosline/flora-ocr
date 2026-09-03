@@ -7,6 +7,12 @@ family: Cyperaceae
 vol: 44
 pages: 136-137
 source: sources/Cyperaceae_vol44_liteparse
+countries: [Gabon]
+in_region: true
+subdivisions:
+  Gabon: [Haut-Ogooué, Ogooué-Ivindo]
+habit: "herb"
+altitude_m: "1200"
 tags: [species, generated]
 ---
 # *Eleocharis variegata* (Poir.) C.Presl Planche 87

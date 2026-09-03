@@ -7,6 +7,12 @@ family: Arecaceae
 vol: 53
 pages: 34-41
 source: sources/Arecaceae_vol53_liteparse
+countries: [Cameroon, Democratic Republic of the Congo, Equatorial Guinea, Gabon, Nigeria, Republic of the Congo]
+in_region: true
+subdivisions:
+  Gabon: [Nyanga, Ogooué-Ivindo, Ogooué-Lolo, Ogooué-Maritime]
+habit: "liana"
+altitude_m: "100"
 tags: [species, generated]
 ---
 # *Laccosperma opacum* (G.Mann & H.Wendl.) Drude Planche 11(6–10)
@@ -50,7 +56,7 @@ round-warty-seeded African rattan (angl) ; abulo (bakele) ; di-bulu (lumbu, ésh
 
 ![Laccosperma opacum](../sources/Arecaceae_vol53_liteparse/figures/fig_024_p0035.png)
 
-*Plate 11. Laccospermum laeve: 1. Mature stipe. – 2. Leaf. – 3. Inflorescence. – 4. Fruit. – 5. Seed. – Laccospermum opacum: 6. Part of a leaflet. – 7. Inflorescence. – 8. Flower in bud. – 9. Fruit. – 10.*
+*PL. XI. — Laccospermum laeve: 1. Mature stipe. – 2. Leaf. – 3. Inflorescence. – 4. Fruit. – 5. Seed. – Laccospermum opacum: 6. Part of a leaflet. – 7. Inflorescence. – 8. Flower in bud. – 9. Fruit. – 10.*
 
 ## Notes
 

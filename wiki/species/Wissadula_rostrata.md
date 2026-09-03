@@ -7,6 +7,13 @@ family: Malvaceae
 vol: 45
 pages: 93-103
 source: sources/Malvaceae_vol45_liteparse
+countries: [Gabon]
+in_region: true
+subdivisions:
+  Gabon: [Nyanga]
+habit: "herb"
+habitat: [savanna]
+altitude_m: "350–1200"
 tags: [species, generated]
 ---
 # *Wissadula rostrata* (Schumach. & Thonn.) Hook.f. Planche 29

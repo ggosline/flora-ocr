@@ -7,8 +7,9 @@ family: Moraceae
 vol: 26
 pages: 9-11
 source: sources/Moraceae_vol26_paddle
-countries: [Gabon, Guinea-Bissau, Mozambique]
+countries: [Gabon, Guinea, Mozambique]
 in_region: true
+habit: "tree"
 tags: [species, generated]
 ---
 # *Milicia excelsa* (Welwitsch) C.C. Berg
@@ -17,27 +18,24 @@ tags: [species, generated]
 **Family**: [[Moraceae]]
 **Protologue**: BJBB 52:227 (1982)
 
-## Description
+## Synonyms
 
-– Morus excelsa WELW., Trans. Linn. Soc. London, ser. 1, 27: 69 (1869).
-
-– Chlorophora excelsa (WELW.) BENTH. & HOOK., Gen. Pl. 3 (1): 363 (1880); RENDLE in HUTCH. & RENDLE, FTA 6 (2): 22 (1916); AUBRÉVILLE, FFCI, ed. 2, 1: 49 (1959); BERG, BJBB 47: 349 (1977).
-
+- Morus excelsa WELW., Trans. Linn. Soc. London, ser. 1, 27: 69 (1869).
+- Chlorophora excelsa (WELW.) BENTH. & HOOK., Gen. Pl. 3 (1): 363 (1880); RENDLE in HUTCH. & RENDLE, FTA 6 (2): 22 (1916); AUBRÉVILLE, FFCI, ed. 2, 1: 49 (1959); BERG, BJBB 47: 349 (1977).
 - Maclura excelsa (WELW.) BUR., in DC., Prodr. 17: 231 (1873); CORNER, Gard. Bull. Singapore 19: 237 (1962).
-
 - Chlorophora tenuifolia ENGL., Bot. Jahrb. 20: 139 (1894). TYPE: Quintas 154, São Tomé (holo-, COI ; iso-, LISU).
-
-- Milicia africana Sim, For. Fl. For. Port. E. Afr.: 97 (1909). TYPE : Sim 5386, Mozambique (not found).
-
+- Milicia africana Sim, For. Fl. For. Port. E. Afr.: 97 (1909). TYPE : Sim 5386, Mozambique (non retrouvé).
 - Chlorophora alba A. CHEV., Bull. Soc. Bot. France, Mém. 8: 209 (1912). TYPE : Chevalier 24336, Dahomey (holo-, P ; iso-, K).
 
-Dioecious trees reaching 35 (–50) m in height; latex white or yellowish. Young leafy branches 0.5–6 mm thick, white puberulent, pubescent or subglabrous; base of new shoots with short internodes and often only scale-like leaves. Blade elliptic to oblong (to lanceolate), 6–20 (–32) × 3.5–10 (–12) cm, generally wider at the middle or below, chartaceous to coriaceous, usually distinctly asymmetric, acuminate to mucronate, sometimes subacute or subcaudate, obtuse to cordate at the base, rarely acute; margin entire to weakly sinuate or crenate; upper surface puberulent to almost scabrous and then usually pubescent on the main nerve and along the secondary nerves, or subglabrous; lower surface puberulent on the main nerves, pubescent or subglabrous, the areoles covered with short, thin hairs on the sides of the venules; nerves almost flat above, ± prominent below; 10–22 pairs of secondary nerves with parallel tertiary nerves. Petiole 1–5 cm long. Stipules caducous, 0.5–5 cm long, (membranous to) chartaceous to subcoriaceous (those of the buds coriaceous), rather sparsely puberulent, most often leaving conspicuous white hairy scars.
+## Description
 
-Male inflorescences 8–20 cm long, approximately 5 mm in diameter. Peduncle 8–23 mm long, white puberulent to pubescent to subtomentose, often with some broad bracts in the upper part. Perianth approximately 1.5 mm high; tepals nearly equal, convex, puberulent to pubescent or tomentose. Stamens with filaments 1.5–2 mm long and anthers 0.7–0.9 mm long, and approximately 0.6 mm wide with rather narrow connective. Pistillode membranous, 0.3–0.5 mm high. Bracts oval to spatulate, reaching 1 mm in length, puberulent.
+Dioecious trees reaching 35 (–50) m in height; latex white or yellowish. Young leafy branches 0.5–6 mm thick, white puberulent, pubescent or subglabrous; base of new shoots with short internodes and often only scale leaves. Blade elliptic to oblong (to lanceolate), 6–20 (–32) × 3.5–10 (–12) cm, generally wider in the middle or below, chartaceous to coriaceous, usually distinctly asymmetric, acuminate to mucronate, sometimes subacute or subcaudate, obtuse to cordate at the base, rarely acute; margin entire to weakly sinuate or crenulate; upper surface puberulent to almost scabrous and then most often pubescent on the principal vein and along the secondary veins, or subglabrous; lower surface puberulent on the main veins, pubescent or subglabrous, the areoles covered with short, thin hairs on the sides of the veinlets; veins almost plane above, ± prominent below; 10–22 pairs of secondary veins with parallel tertiary veins. Petiole 1–5 cm long. Stipules caducous, 0.5–5 cm long, (membranous to) chartaceous to subcoriaceous (those of the buds coriaceous), rather sparsely puberulent, most often leaving prominent white hairy scars.
 
-Female inflorescences 2–3 cm long and 5–6 mm in diameter. Peduncle 7–20 mm long, white puberulent to pubescent to subtomentose. Perianth 2–2.5 mm high; inner tepals flat, outer tepals subconduplicatae-cucullate, puberulent to pubescent or tomentellous. Ovary approximately 1 mm high; stigmas 2, one 3–7 mm long, the other 0.1–1 mm. Bracts (sub)spatulate, membranous, 0.5–1.5 mm long, puberulent.
+Male inflorescences 8–20 cm long, approximately 5 mm in diameter. Peduncle 8–23 mm long, white puberulent to pubescent to subtomentose, often with a few broad bracts in the upper part. Perianth approximately 1.5 mm high; tepals nearly equal, convex, puberulent to pubescent or tomentose. Stamens with filaments 1.5–2 mm long and anthers 0.7–0.9 mm long, and approximately 0.6 mm wide with rather narrow connective. Pistillode membranous, 0.3–0.5 mm high. Bracts ovate to spatulate, reaching 1 mm in length, puberulent.
 
-Infructescences greenish, 3–5 cm long, 1.5 cm in diameter. Perianth 6–7 mm high in fruit; tepals somewhat thickened. Fruit 2.5–3 mm long; seed approximately 2 mm long. - Pl. 1, p. 7.
+Female inflorescences 2–3 cm long and 5–6 mm in diameter. Peduncle 7–20 mm long, white puberulent to pubescent to subtomentose. Perianth 2–2.5 mm high; inner tepals flat, outer tepals subconduplicate-cucullate, puberulent to pubescent or tomentellous. Ovary approximately 1 mm high; stigmas 2, one 3–7 mm long, the other 0.1–1 mm long. Bracts (sub)spatulate, membranous, 0.5–1.5 mm long, puberulent.
+
+Infructescences greenish, 3–5 cm long, 1.5 cm in diameter. Perianth 6–7 mm high in fruit; tepals slightly thickened. Fruit 2.5–3 mm long; seed approximately 2 mm long. – Pl. 1, p. 7.
 
 ## Type
 
@@ -45,9 +43,9 @@ Welwitsch 1559 (♀), Angola, Golungo Alto (holo-, LISU ; iso-, B, BM, G, K, P)
 
 ## Discussion
 
-In young specimens, branches hirtellous white to pubescent to (sub)tomentose; blade lanceolate to oblong, chartaceous; apex long-acuminate to subcaudate or subacute; base obtuse to subcordate or cordate; margin closely toothed to crenate-dentate; upper surface puberulent or hispidulous, often ± wrinkled, often pubescent to tomentose on the main nerves; lower surface hirtellous to pubescent or sparsely to densely tomentose; stipules puberulent to pubescent.
+In young specimens, branches hirtellous white to pubescent to (sub)tomentose; blade lanceolate to oblong, chartaceous; apex long-acuminate to subcaudate or subacute; base obtuse to subcordate or cordate; margin serrate-dentate to crenulate-dentate; upper surface puberulent or hispidulous, often ± rugose, often pubescent to tomentose on the main veins; lower surface hirtellous to pubescent or sparsely to densely tomentose; stipules puberulent to pubescent.
 
-The range of M. excelsa extends from Guinea-Bissau to Mozambique. M. excelsa grows (by light requirement) mainly in deciduous to semi-deciduous forests, but can also occur in evergreen forests. It can also be found in secondary forests or as solitary (residual?) trees in cultivated areas. It apparently is not very common in Gabon.
+The distribution area of M. excelsa extends from Guinée Bissau to Mozambique. M. excelsa grows (by light requirement) mainly in deciduous to semi-deciduous forests, but can also grow in evergreen forests. It can also be found in secondary forests or as solitary (residual?) trees in cultivated areas. It is apparently not very common in Gabon.
 
 ## Specimens examined
 

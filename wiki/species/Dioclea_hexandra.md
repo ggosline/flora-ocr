@@ -7,6 +7,13 @@ family: Leguminosae
 vol: 49
 pages: 181-181
 source: sources/Millettiaspeciesfabaceae_vol49_liteparse
+countries: [Angola, Democratic Republic of the Congo, Gabon, Liberia]
+in_region: true
+subdivisions:
+  Gabon: [Moyen-Ogooué, Ngounié, Nyanga, Ogooué-Ivindo, Ogooué-Lolo]
+habit: "liana"
+habitat: [savanna]
+altitude_m: "5–100"
 tags: [species, generated]
 ---
 # *Dioclea hexandra* (Ralph) Mabb. Planche 59
@@ -43,7 +50,7 @@ The synonym Dioclea reflexa Hook.f. (Nov.–Dec. 1849) is the most commonly used
 
 ![Dioclea hexandra](../sources/Millettiaspeciesfabaceae_vol49_liteparse/figures/fig_067_p0182.png)
 
-*Plate 59 : Dioclea hexandra : 1. End of flowering branch (× ½). 2– Part of the rachis after the fall of flowers (× 2). – 3. Flower bud (× 2). – 4. Calyx spread out, inner face (× 2). – 5. Standard spread out, inner face (× 2). – 6. Wing, outer face (× 2). – 7. Half of keel, outer face (× 2). – 8. Androecium and gynoecium (× 2). – 9. Fertile anther (× 5). – 10. Sterile anther (× 5). – 11. Pods (× ½). – 12. Seed (× 1).. (1, 3–10 : Bequaert 1462 ; 2, 11 : Louis 692 ; 12 : Sapin 3 ). Drawing by J.M. Lerinckx, Garden*
+*Plate 59: Dioclea hexandra: 1. End of flowering branch (× ½). 2. Part of the rachis after the fall of flowers (× 2). – 3. Flower bud (× 2). – 4. Calyx spread out, inner face (× 2). – 5. Standard spread out, inner face (× 2). – 6. Wing, outer face (× 2). – 7. Half of keel, outer face (× 2). – 8. Androecium and gynoecium (× 2). – 9. Fertile anther (× 5). – 10. Sterile anther (× 5). – 11. Pods (× ½). – 12. Seed (× 1). (1, 3–10: Bequaert 1462; 2, 11: Louis 692; 12: Sapin 3). Drawing by J.M. Lerinckx, Garden*
 
 ## Notes
 

@@ -7,6 +7,10 @@ family: Anacardiaceae
 vol: 50
 pages: 37-37
 source: sources/Anacardiaceae_vol50_liteparse
+countries: [Angola, Cameroon, Central African Republic, Democratic Republic of the Congo, Equatorial Guinea, Gabon, Nigeria, Republic of the Congo]
+in_region: true
+habit: "tree"
+altitude_m: "800"
 tags: [species, generated]
 ---
 # *Trichoscypha acuminata* Engl. Planche 13

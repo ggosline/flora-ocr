@@ -7,6 +7,12 @@ family: Cyperaceae
 vol: 44
 pages: 140-140
 source: sources/Cyperaceae_vol44_liteparse
+countries: [Gabon]
+in_region: true
+subdivisions:
+  Gabon: [Estuaire, Haut-Ogooué, Ogooué-Ivindo]
+habit: "herb"
+altitude_m: "0–450"
 tags: [species, generated]
 ---
 # *Fimbristylis complanata* (Retz.) Link Planche 89

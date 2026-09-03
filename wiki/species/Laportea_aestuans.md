@@ -7,6 +7,12 @@ family: Urticaceae
 vol: 51
 pages: 65-66
 source: sources/Urticaceae_vol51_liteparse
+countries: [Angola, Cameroon, Central African Republic, Gabon, Madagascar, Mozambique, Senegal, Zimbabwe]
+in_region: true
+subdivisions:
+  Gabon: [Estuaire, Moyen-Ogooué, Ogooué-Ivindo, Ogooué-Maritime, Woleu-Ntem]
+habit: "herb"
+altitude_m: "50–800"
 tags: [species, generated]
 ---
 # *Laportea aestuans* (L.) Chew

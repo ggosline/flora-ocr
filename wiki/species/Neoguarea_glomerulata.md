@@ -7,6 +7,11 @@ family: Meliaceae
 vol: 47
 pages: 54-56
 source: sources/Meliaceae_vol47_liteparse
+countries: [Cameroon, Democratic Republic of the Congo, Equatorial Guinea, Gabon, Nigeria, Republic of the Congo]
+in_region: true
+habit: "shrub"
+habitat: [secondary forest]
+altitude_m: "250–1020"
 tags: [species, generated]
 ---
 # *Neoguarea glomerulata* (Harms) E.J.M.Koenen & J.J.de Wilde Planche 15

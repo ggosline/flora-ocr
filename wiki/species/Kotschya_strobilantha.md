@@ -7,6 +7,10 @@ family: Leguminosae
 vol: 49
 pages: 224-224
 source: sources/Millettiaspeciesfabaceae_vol49_liteparse
+countries: [Angola, Democratic Republic of the Congo, Gabon, Malawi]
+in_region: true
+habit: "shrub"
+altitude_m: "1900"
 tags: [species, generated]
 ---
 # *Kotschya strobilantha* (Welw. ex Baker) J.Dewit & Duvign. var. strobilantha Planche 73

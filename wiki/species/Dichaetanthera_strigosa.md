@@ -18,15 +18,15 @@ tags: [species, generated]
 **Family**: [[Melastomataceae]]
 **Protologue**: Bull. Soc. bot. Fr. 102 : 38 (1955); FERNANDES A. & R., Consp. Fl. Angol. 4 : 161 (1970)
 
+## Synonyms
+
+- Sakersia strigosa Cogn., Ann. Mus. Congo, sér. 2, 1 : 23 (1899).
+
 ## Description
 
-— Sakersia strigosa Cogn., Ann. Mus. Congo, sér. 2, 1 : 23 (1899).
+Small tree with alternate foliation and flowering; young branches subangular, hirsute. Leaves with hirsute petiole, 2 to 3 cm long; blade elliptic, rounded at the base, broadly cuneate at the apex, ± 7 × 16 cm; strigillous on both faces, bristles erect on the nerves on the lower face; 3 (5) nerves; the transverse ones parallel; margins entire.
 
-Small tree with alternate foliation and flowering; young branches subangular, hirsute. Leaves with hirsute petiole, 2 to 3 cm long; lamina elliptic, rounded at the base, broadly cuneate at the apex, ± 7 × 16 cm;
-
-strigillous on both surfaces, bristles erect on the nerves on the lower surface; 3 (5) nerves; the transverse ones parallel; margins entire.
-
-Terminal biporous cymes, of 4 to 5 tiers, pyramidal, 15 cm tall, all axes hirsute; bracts caducous. Flower with short pedicel; bracteoles triangular, 3 × 6 mm, hirsute; hypanthium obconic, 6 × 11 mm, hirsute with bristles of which those at the top reach 4 mm; calyx almost absent, lobes broadly triangular, apiculate. Petals pink, obovate, 12 × 16 mm. Stamens slightly dimorphic: the external ones with anther 9 mm; pedoconnective 3 mm, with linear to claviform appendages, 3 mm; filament 7 mm; the internal ones of slightly smaller dimensions. Ovary with peristyle collar formed of bristles coherent at their base; style 20 mm long.
+Terminal biparious cymes, 4 to 5 tiers, pyramidal, 15 cm high, all axes hirsute; bracts caducous. Flower with short pedicel; bracteoles triangular, 3 × 6 mm, hirsute; hypanthium obconic, 6 × 11 mm, hirsute with bristles, those at the top reaching 4 mm; calyx almost absent, lobes broadly triangular, apiculate. Petals pink, obovate, 12 × 16 mm. Stamens slightly dimorphic: the external ones with anther 9 mm; pedoconnective 3 mm, with linear to claviform appendages, 3 mm; filament 7 mm; the internal ones of somewhat smaller dimensions. Ovary with peristyle collar formed of bristles coherent at their base; style 20 mm long.
 
 Seeds cuneate-claviform, 1 mm long, tuberculate on the non-compressed parts. — Pl. 13, p. 39.
 
@@ -36,7 +36,7 @@ Dewèvre 501, Zaïre (BR!)
 
 ## Discussion
 
-Heliophilous species of swampy soils of the western forest: Zaire, Congo, Angola; exists in Gabon only in the Franceville region.
+Heliophilous species of swampy soils of the western forest: Zaïre, Congo, Angola; exists in Gabon only in the Franceville region.
 
 ## Specimens examined
 

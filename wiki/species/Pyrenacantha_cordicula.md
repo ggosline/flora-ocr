@@ -17,15 +17,16 @@ tags: [species, generated]
 **Genus**: [[Pyrenacantha]]
 **Family**: [[Icacinaceae]]
 
+## Synonyms
+
+- Chlamydocarya tessmannii ENGL., Pflanzenwelt Afrikas 3 (2) : 130, tab. 129 (1921), nom. illeg. — SLEUMER, Pflanzenfam. ed. 2, 20b : 388, tab. 113 (1942).
+- Pyrenacantha cordata Villiers, Adansonia, ser. 2, 12 (2) : 285, tab. 2 (1972), non THODE.
+
 ## Description
 
-— Chlamydocarya tessmannii ENGL., Pflanzenwelt Afrikas 3 (2) : 130, tab. 129 (1921), nom. illeg. — SLEUMER, Pflanzenfam. ed. 2, 20b : 388, tab. 113 (1942).
+Liane with stem reaching 2 m in height, pubescent. Petiole 1.6-2.5 cm long, pubescent, ± volubile, ± strongly keeled above. Lamina glabrous above, densely appressed-pubescent below, bright green on upper surface, greyish dull on lower surface when fresh, green ± dull on both surfaces when dry, broadly elliptic or oblong-elliptic, 11.5-22 × 5-11 cm; base cordate, lamina margin bearing scattered stiff hairs; apex long-acuminate acute mucronate. Midvein prominent above, very prominent pubescent below. Secondary veins 4-5 pairs, very ascending, slightly arched, anastomosing 1-5 mm from lamina margin, prominent above, prominent pubescent below. Hydathodes absent. Veinlets in dense network prominent on both surfaces and pubescent below.
 
-— Pyrenacantha cordata Villiers, Adansonia, ser. 2, 12 (2) : 285, tab. 2 (1972), non THODE.
-
-Liane with stem reaching 2 m in height, pubescent. Petiole 1.6–2.5 cm long, pubescent, ± voluble, ± strongly carinate above. Blade glabrous above, densely appressed-pubescent below, bright green on the upper surface, dull greyish on the lower surface when fresh, ± dull green on both surfaces when dry, broadly elliptic or oblong-elliptic, 11.5–22 × 5–11 cm; base cordate, blade margin bearing here and there a stiff hair; apex long-acuminate acute mucronate. Midvein prominent above, very prominent pubescent below. Secondary veins 4–5 pairs, very ascending, slightly arched, anastomosing 1–5 mm from the blade margin, prominent above, prominent pubescent below. Hydathodes absent. Veinlets in dense network prominent on both surfaces and pubescent below.
-
-♂ Inflorescences in axillary or slightly supra-axillary racemes grouped in fascicles. Rachis rust-pubescent, 4–14 cm long, bearing bracts. Bracts spatulate, broadly pubescent dorsally, 0.5 mm long, fleshy. Floral bud ellipsoid, pubescent, with valvate petals. Pedicel pubescent, 2–3 mm long. ♂ Flower tetramerous, pale green when fresh, yellow when dry. Petals pubescent externally, glabrous internally, spreading, broadly elliptic, 1.5 × 0.8 mm; apex obtuse. Stamens 0.6 mm long; filament short extending beyond its zone of insertion with the connective, 0.3 mm long; anther with 2 ellipsoid locules, 0.3 mm long, with longitudinal dehiscence slits. Pistil reduced to a tuft of short brown hairs.
+♂ Inflorescences in axillary or weakly supra-axillary racemes grouped in fascicles. Rachis reddish-brown pubescent, 4-14 cm long, bearing bracts. Bracts spatulate, broadly pubescent dorsally, 0.5 mm long, fleshy. Floral bud ellipsoid, pubescent, with valvate petals. Pedicel pubescent, 2-3 mm long. ♂ Flower tetramerous, pale green when fresh, yellow when dry. Petals pubescent externally, glabrous internally, spreading, broadly elliptic, 1.5 × 0.8 mm; apex obtuse. Stamens 0.6 mm long; filament short extending beyond its insertion zone with the connective, 0.3 mm long; anther with 2 ellipsoid thecae, 0.3 mm long, with longitudinal dehiscence slits. Pistil reduced to a tuft of short brown hairs.
 
 ♀ Flowers and fruits unknown. PL. 22, p. 89.
 
@@ -35,7 +36,7 @@ Leeuwenberg 2084, 60 km N Sessandra, Côte d'Ivoire (WAG!)
 
 ## Discussion
 
-This species is recorded from Cameroon without indicating the specimens collected.
+records this species from Cameroon without indicating the specimens collected.
 
 ## Figures
 

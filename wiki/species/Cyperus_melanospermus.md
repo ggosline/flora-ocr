@@ -7,6 +7,12 @@ family: Cyperaceae
 vol: 44
 pages: 95-96
 source: sources/Cyperaceae_vol44_liteparse
+countries: [Gabon, Nigeria]
+in_region: true
+subdivisions:
+  Gabon: [Estuaire]
+habit: "herb"
+altitude_m: "1900"
 tags: [species, generated]
 ---
 # *Cyperus melanospermus* (Nees.) Valck.Sur. Planche 57

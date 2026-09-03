@@ -7,6 +7,13 @@ family: Urticaceae
 vol: 51
 pages: 89-92
 source: sources/Urticaceae_vol51_liteparse
+countries: [Angola, Cameroon, Central African Republic, Democratic Republic of the Congo, Equatorial Guinea, Gabon, Ghana, Kenya, Madagascar, Mozambique, Nigeria, Republic of the Congo, Tanzania, Uganda, Zambia, Zimbabwe]
+in_region: true
+subdivisions:
+  Gabon: [Estuaire, Haut-Ogooué, Moyen-Ogooué, Ngounié, Nyanga, Ogooué-Ivindo, Ogooué-Maritime, Woleu-Ntem]
+habit: "liana"
+habitat: [swamp forest, riverine]
+altitude_m: "0–1000"
 tags: [species, generated]
 ---
 # *Urera trinervis* (Hochst.) Friis & Immelman Planche 34

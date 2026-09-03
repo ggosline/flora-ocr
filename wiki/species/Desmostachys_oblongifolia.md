@@ -18,15 +18,16 @@ tags: [species, generated]
 **Genus**: [[Desmostachys]]
 **Family**: [[Icacinaceae]]
 
+## Synonyms
+
+- Alsodeiopsis oblongifolia ENGL., Bot. Jahrb. 24 : 480 (1898). — SLEUMER, Pflanzenfam., ed. 2, 20 b : 360 (1942).
+- Desmostachys brevipes (ENGL.) SLEUMER var. oblongifolia BOUTIQUE, Fl. Congo b. et R.U. 9 : 278 (1960), syn. nov.
+
 ## Description
 
-— Alsodeiopsis oblongifolia ENGL., Bot. Jahrb. 24 : 480 (1898). — SLEUMER, Pflanzenfam., ed. 2, 20 b : 360 (1942).
+Shrub 0.5–2.5 m tall. Branchlets yellowish, appressed-pubescent. Petiole 2–7 mm long, ± pubescent, strongly channelled above. Blade glabrous above, sparsely appressed-pubescent below, greenish-brown on both faces, elliptic or oblanceolate, 10.5–16 × 3.5–6 cm; base very strongly attenuated or cuneate, apex strongly acuminate obtuse or acute. Midvein prominent on both faces, sparsely pubescent on the lower surface. Secondary veins 6–9 pairs, ascending, slightly curved, anastomosing 0.5 mm from the blade margin, prominent on both faces, sparsely pubescent on the lower surface. Tertiary veins in a dense reticulate pattern prominent on both faces.
 
-— Desmostachys brevipes (ENGL.) SLEUMER var. oblongifolia BOUTIQUE, Fl. Congo b. et R.U. 9 : 278 (1960), syn. nov.
-
-Shrub 0.5–2.5 m tall. Branchlets yellowish, appressed pubescent. Petiole 2–7 mm long, ± pubescent, strongly channeled adaxially. Blade glabrous adaxially, sparsely appressed pubescent abaxially, greenish-brown on both surfaces, elliptic or oblanceolate, 10.5–16 × 3.5–6 cm; base very strongly attenuate or cuneate, apex strongly acuminate obtuse or acute. Midvein prominent on both surfaces, sparsely pubescent on the lower surface. Secondary veins 6–9 pairs, ascending, slightly curved, anastomosing 0.5 mm from the blade margin, prominent on both surfaces, sparsely pubescent on the lower surface. Tertiary veins forming a dense prominent reticulum on both surfaces.
-
-Inflorescence in a short raceme, 1–2 cm long, or in a ± axillary pedicellate glomerule. Flower bud ellipsoid, pubescent. Flower ♀ pentamerous, yellowish. Pedicel short, 0.5 mm long, densely pubescent. Sepals connate, pubescent externally, glabrous internally, lanceolate, 1.75 × 1 mm; apex acute. Petals free except at the base, pubescent externally, glabrous or ± pubescent at the base internally, narrowly elliptic, 4 × 1 mm; apex acute. Stamens 5, connate by the filament to the corolla tube; filament slender, enlarged at the level of fusion with the petals, 4–4.75 mm long; anther basifixed with 2 narrowly ellipsoid locules, 1 mm long. Ovary superior, pubescent, ellipsoid to globose, 0.75 × 0.5 mm. Style slender, glabrous, 5 mm long, terminated by an obscurely globose stigma.
+Inflorescence in a short raceme, 1–2 cm long, or in a ± axillary pedicellate glomerule. Floral bud ellipsoid, pubescent. Flower ♀ pentamerous, yellowish. Pedicel short, 0.5 mm long, densely pubescent. Sepals connate, pubescent externally, glabrous internally, lanceolate, 1.75 × 1 mm; apex acute. Petals free from each other except at the base, pubescent externally, glabrous or ± pubescent at the base internally, narrowly elliptic, 4 × 1 mm; apex acute. Stamens 5, connate by the filament to the corolla tube; filament slender, enlarged at the point of fusion with the petals, 4–4.75 mm long; anther basifixed with 2 narrowly ellipsoid locules, 1 mm long. Ovary superior pubescent ellipsoid to globose, 0.75 × 0.5 mm. Style slender, glabrous, 5 mm long terminated by an obscurely globose stigma.
 
 Drupe red to orange, sparsely pubescent, reticulate, 1.3–1.5 × 0.8–1 cm. Seed 12 × 7 mm. PL. 11, 4–13, p. 49.
 
@@ -36,7 +37,7 @@ Zenker 1221, Cameroun (holo-, B, delet.; iso-, P!; iso-, Z)
 
 ## Discussion
 
-This species is known from Cameroon to Zaïre. It occurs in swamp forests and plateau forests.
+This species is known from Cameroon to Zaïre. It is found in swamp forests and plateau forests.
 
 ## Specimens examined
 

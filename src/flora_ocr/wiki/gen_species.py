@@ -166,7 +166,7 @@ def _paragraph_split(body: str) -> list[list[str]]:
                 paragraphs.append(current)
                 current = []
             continue
-        if SYNONYM_LINE_RE.match(stripped):
+        if is_synonym_line(stripped):
             # a synonym stands alone: split before *and* after it, or the
             # description's opening line is swept in with the last of the chain
             if current:
@@ -224,6 +224,27 @@ SYNONYM_RE = re.compile(r"^\s*=\s*(.+)$")
 SYNONYM_LINE_RE = re.compile(
     r"^[A-Z][a-z]+(?:\s+[a-z][a-z\-]+){1,2}\s+.{0,120}?\(\d{4}\)\s*[.,]?"
     r"(?:\s*,?\s*nom\.\s*(?:inval|nud|illeg|cons)\s*\.?)?\s*$")
+
+# A synonym is also introduced by a dash, and its citation chain can run long
+# past the first year -- "— Microdesmis puberula auct. non Hook.f. ex PLANCHON,
+# ...: De Wildeman, Ann. Mus. Congo ... (1906); l.c. 2: 287 (1908), p.p.; ..."
+# -- so the end-anchored form above never matched and 179 of these opened their
+# species' description instead.
+SYNONYM_OPEN_RE = re.compile(r"^\s*[—–=-]?\s*[A-Z][a-z]+\s+[a-z][a-z\-]{2,}\b")
+SYNONYM_EVIDENCE_RE = re.compile(r"\(\d{4}\)|\bauct\.|\bnom\.|\bsensu\b|\bp\.p\.")
+
+
+def is_synonym_line(line: str) -> bool:
+    """True for a line that names another name for this taxon, not description."""
+    if SYNONYM_LINE_RE.match(line.strip()):
+        return True
+    stripped = line.strip()
+    return bool(SYNONYM_OPEN_RE.match(stripped)
+                and SYNONYM_EVIDENCE_RE.search(stripped))
+
+
+def strip_synonym_marker(line: str) -> str:
+    return re.sub(r"^\s*[—–=-]\s*", "", line).strip()
 # "### 1. Afzelia pachyloba Harms (PL. 24, p. 113)" -> drop number and plate
 HEAD_CLEAN_RE = re.compile(r"^\d+\s*[.)]\s*|\s*\((?:PL|Pl|pl)\.[^)]*\)\s*$")
 
@@ -274,8 +295,8 @@ def parse_block(text: str) -> dict:
         if synonym:
             synonyms.append(synonym.group(1).strip())
             continue
-        if not description and SYNONYM_LINE_RE.match(one_line):
-            synonyms.append(one_line.strip())
+        if not description and is_synonym_line(one_line):
+            synonyms.append(strip_synonym_marker(one_line))
             continue
         if is_citation(one_line):
             remainder = _strip_leading_citations(one_line)

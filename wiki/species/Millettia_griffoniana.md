@@ -7,6 +7,13 @@ family: Leguminosae
 vol: 49
 pages: 270-272
 source: sources/Millettiaspeciesfabaceae_vol49_liteparse
+countries: [Angola, Cameroon, Cote d'Ivoire, Democratic Republic of the Congo, Equatorial Guinea, Gabon, Republic of the Congo]
+in_region: true
+subdivisions:
+  Gabon: [Estuaire, Moyen-Ogooué, Ngounié, Ogooué-Ivindo, Ogooué-Lolo, Woleu-Ntem]
+habit: "tree"
+habitat: [riverine, coastal]
+altitude_m: "60–470"
 tags: [species, generated]
 ---
 # *Millettia griffoniana* Baill. Planche 90

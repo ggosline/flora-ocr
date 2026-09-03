@@ -7,6 +7,9 @@ family: Leguminosae
 vol: 49
 pages: 28-29
 source: sources/Millettiaspeciesfabaceae_vol49_liteparse
+countries: [Angola, Benin, Burundi, Cameroon, Cote d'Ivoire, Gabon, Ghana, Nigeria]
+in_region: true
+habit: "herb"
 tags: [species, generated]
 ---
 # *Aeschynomene lateritia* Harms Planche 5

@@ -7,6 +7,7 @@ family: Apocynaceae
 vol: 59
 pages: 269-271
 source: sources/Apocynaceae_vol59_liteparse
+habit: "tree"
 tags: [species, generated]
 ---
 # *Voacanga lanceolata* (Stapf) Jongkind Planche 124 ; Figure 15(F, G)

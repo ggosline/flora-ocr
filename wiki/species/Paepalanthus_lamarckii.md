@@ -7,6 +7,11 @@ family: Eriocaulaceae
 vol: 48
 pages: 19-22
 source: sources/Eriocaulaceae_vol48_liteparse
+countries: [Democratic Republic of the Congo, Gabon, Liberia, Madagascar, Republic of the Congo, Senegal, Tanzania]
+in_region: true
+subdivisions:
+  Gabon: [Ogooué-Maritime]
+habit: "herb"
 tags: [species, generated]
 ---
 # *Paepalanthus lamarckii* Kunth

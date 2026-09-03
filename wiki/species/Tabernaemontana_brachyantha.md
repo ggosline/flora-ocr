@@ -30,7 +30,7 @@ Flowers: peduncle 7–23 cm, fairly robust. Flower fragrant: pedicel 8–15 mm; 
 
 ![Tabernaemontana brachyantha](../sources/Apocynaceae_vol59_liteparse/figures/fig_210_p0239.jpeg)
 
-*Plate 110. Tabernaemontana brachyantha: 1. Flowering branch (× 1). – 2. Open corolla with stamens (× 1). – 3. Calyx lobe, internal surface (× 3). – 4. Calyx and pistil, longitudinal section (× 2). – 5.*
+*PL. 110. — Tabernaemontana brachyantha: 1. Flowering branch (× 1). – 2. Open corolla with stamens (× 1). – 3. Calyx lobe, internal surface (× 3). – 4. Calyx and pistil, longitudinal section (× 2). – 5.*
 
 ## Notes
 

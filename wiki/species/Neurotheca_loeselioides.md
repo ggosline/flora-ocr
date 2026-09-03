@@ -7,6 +7,13 @@ family: Gentianaceae
 vol: 54
 pages: 79-81
 source: sources/Gentianaceae_vol54_liteparse
+countries: [Angola, Benin, Burundi, Cameroon, Cote d'Ivoire, Democratic Republic of the Congo, Equatorial Guinea, Gabon, Ghana, Guinea, Liberia, Madagascar, Mali, Nigeria, Senegal, Sierra Leone, Sudan, Uganda]
+in_region: true
+subdivisions:
+  Gabon: [Ogooué-Ivindo]
+habit: "herb"
+habitat: [coastal, rocky ground]
+altitude_m: "650"
 tags: [species, generated]
 ---
 # *Neurotheca loeselioides* (Spruce ex Progel) Baill. subsp. loeselioides

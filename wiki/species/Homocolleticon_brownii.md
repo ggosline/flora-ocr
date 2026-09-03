@@ -7,7 +7,7 @@ family: Orchidaceae
 vol: 37
 pages: 133-135
 source: sources/Orchidaceae_vol37_paddle
-countries: [Central African Republic, Democratic Republic of the Congo, Gabon, Malawi, Sierra Leone, Tanzania, Uganda]
+countries: [Democratic Republic of the Congo, Gabon, Malawi, Sierra Leone, Tanzania, Uganda]
 in_region: true
 habitat: [evergreen forest]
 tags: [species, generated]
@@ -18,23 +18,23 @@ tags: [species, generated]
 **Family**: [[Orchidaceae]]
 **Protologue**: FCAM 3 : 728 (2001)
 
+## Synonyms
+
+- Angraecum latibracteatum De Wild., Bull. Jard. Bot. Etat, Brux. 5 : 188 (1916).
+- Cyrtorchis brownii (Rolfe) Schltr., Beih. Bot. Centralbl. 36 : 129 (1918).
+- Cyrtorchis latibracteata (De Wild.) Schltr., Beih. Bot. Centralbl. 36 : 131 (1918).
+
 ## Description
 
-– Angraecum latibracteatum De Wild., Bull. Jard. Bot. Etat, Brux. 5 : 188 (1916).
-
-– Cyrtorchis brownii (Rolfe) Schltr., Beih. Bot. Centralbl. 36 : 129 (1918).
-
-– Cyrtorchis latibracteata (De Wild.) Schltr., Beih. Bot. Centralbl. 36 : 131 (1918).
-
-Stem 8–20 (–40) cm. Leaves 4–9, 3–12 × 0.7–1.5 cm, linear, oblong-elliptic, very coriaceous, very thick, unequally bilobed. Inflorescence very dense, 3–9 cm, 8–20-flowered. Flowers rather small, non-resupinate, white, fragrant. Dorsal sepal lanceolate to ovate-lanceolate. Petals and lateral sepals obliquely oblong-lanceolate to ovate-lanceolate. Labellum 5.5–10.5 × 2.5–3 mm, nearly square in the basal half, narrowly triangular or narrowly lanceolate in the apical half. Spur 20–30 mm, narrowly cylindrical with conical base. Pl. 165, p. 365.
+Stem 8–20 (–40) cm. Leaves 4–9, 3–12 × 0.7–1.5 cm, linear, oblong-elliptic, very coriaceous, very thick, unequally bilobed. Inflorescence very dense, 3–9 cm, 8–20-flowered. Flowers rather small, not resupinate, white, fragrant. Dorsal sepal lanceolate to ovate-lanceolate. Petals and lateral sepals obliquely oblong-lanceolate to ovate-lanceolate. Labellum 5.5–10.5 × 2.5–3 mm, almost square in the basal half, narrowly triangular or narrowly lanceolate in the apical half. Spur 20–30 mm, narrowly cylindric with conical base. Pl. 165, p. 365.
 
 ## Distribution
 
-Sierra Leone, Gabon, Central African Republic, Congo, Zaïre, Uganda, Tanzania, Malawi
+Sierra Leone, Gabon, République centrafricaine, Congo, Zaïre, Ouganda, Tanzanie, Malawi
 
 ## Ecology
 
-alt. 0–1,500 m. Epiphyte in evergreen forest
+alt. 0–1 500 m. Epiphytic in evergreen forest
 
 ## Specimens examined
 

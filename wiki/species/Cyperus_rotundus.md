@@ -7,6 +7,12 @@ family: Cyperaceae
 vol: 44
 pages: 72-74
 source: sources/Cyperaceae_vol44_liteparse
+countries: [Gabon]
+in_region: true
+subdivisions:
+  Gabon: [Estuaire, Ogooué-Maritime, Woleu-Ntem]
+habit: "herb"
+altitude_m: "0–600"
 tags: [species, generated]
 ---
 # *Cyperus rotundus* L. Planche 44

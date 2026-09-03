@@ -7,6 +7,13 @@ family: Meliaceae
 vol: 47
 pages: 39-40
 source: sources/Meliaceae_vol47_liteparse
+countries: [Cameroon, Equatorial Guinea, Gabon, Nigeria, Republic of the Congo]
+in_region: true
+subdivisions:
+  Gabon: [Estuaire, Ogooué-Ivindo, Ogooué-Lolo, Woleu-Ntem]
+habit: "shrub"
+habitat: [secondary forest]
+altitude_m: "800"
 tags: [species, generated]
 ---
 # *Heckeldora zenkeri* (Harms) Staner Planche 8(E–M)

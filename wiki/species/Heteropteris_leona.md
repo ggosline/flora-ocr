@@ -9,7 +9,7 @@ pages: 20-21
 source: sources/Malpighiaceae_vol21_paddle
 countries: [Sierra Leone]
 in_region: false
-habit: "liana"
+habit: "shrub"
 habitat: [riverine]
 tags: [species, generated]
 ---
@@ -19,15 +19,16 @@ tags: [species, generated]
 **Family**: [[Malpighiaceae]]
 **Protologue**: Cat. Vasc. Pl. São Tomé : 123 (1944)
 
+## Synonyms
+
+- Banisteria leona Cav., Diss. Bot. 9 : 424, t. 247 (1790), p.p. — FWTA ed. 1, 1 : 274 (1928).
+- Heteropteris africana A. Juss., Arch. Mus. Paris 3 : 456, t. 14 (1843), nom. illegit. — OLIVER, FTA 1 : 276 (1868). — DE WILD., Plant. Bequaert. 1 : 235 (1922). — EXELL, Journ. Bot. London 75, Suppl. Polypet. : 50 (1927). — NIEDENZU, Pflanzenr., Malpighiaceae : 375 (1928), incl. var.
+
 ## Description
 
-— Banisteria leona Cav., Diss. Bot. 9 : 424, t. 247 (1790), p.p. — FWTA ed. 1, 1 : 274 (1928).
+Shrub or woody vine approximately 10 m in length, 4–10 m in height with stems 4 cm in diameter, young branchlets clothed with brown hairs. Stem glabrescent, cylindrical, lenticellate. Leaves opposite, sometimes alternate on flowering branchlets, penninerved; stipules absent; petiole canaliculate, glabrous, 0.5–1.5 cm long. Limb obovate, oblong-elliptic, sparsely pubescent to glabrous, 8–20 × 4–10 cm, subcordate at base, acuminate at apex; secondary veins arched, anastomosing, prominent on lower surface; veinlets forming a visible network on both surfaces.
 
-— Heteropteris africana A. Juss., Arch. Mus. Paris 3 : 456, t. 14 (1843), nom. illegit. — OLIVER, FTA 1 : 276 (1868). — DE WILD., Plant. Bequaert. 1 : 235 (1922). — EXELL, Journ. Bot. London 75, Suppl. Polypet. : 50 (1927). — NIEDENZU, Pflanzenr., Malpighiaceae : 375 (1928), incl. var.
-
-Shrub or liana approximately 10 m in length, 4–10 m in height with stem 4 cm in diameter, young branchlets clothed with brown hairs. Stem glabrescent, cylindrical, lenticellate. Leaves opposite, sometimes alternate on the flowering branches, penninerved; stipules absent; petiole canaliculate, glabrous, 0.5–1.5 cm long. Limb obovate, oblong-elliptic, sparsely pubescent to glabrous, 8–20 × 4–10 cm, subcordate at base, acuminate at apex; secondary veins arched, anastomosing, prominent on the lower face; veinlets forming a visible network on both faces.
-
-Inflorescences axillary and terminal, pubescent, formed of racemes, sometimes simple, most often grouped in fascicles; pedicels 0.5–1.2 cm; bracts and bracteoles persistent, ovate, pubescent, 3–7 mm; bracteoles approximately at the middle of the pedicel. Sepals brown, lanceolate, pubescent on the outside, 3–4 mm long; generally 2 glands per sepal except one non-glandular; petals yellow, 6–7 mm long, unguiculate, with crenulate limb. Stamens 3–4 mm. Ovary pubescent, 1.5 mm long; 3 styles approximately 3 mm long, widening at apex to form 3 stigmas.
+Inflorescences axillary and terminal, pubescent, formed of racemes, sometimes simple, most often grouped in fascicles; pedicels 0.5–1.2 cm; bracts and bracteoles persistent, ovate, pubescent, 3–7 mm; bracteoles approximately at the middle of the pedicel. Sepals brown, lanceolate, pubescent on the outside, 3–4 mm in length; generally 2 glands per sepal except one non-glandular; petals yellow, 6–7 mm long, unguiculate, with crenate limb. Stamens 3–4 mm. Ovary pubescent, 1.5 mm long; 3 styles approximately 3 mm long, widening at the apex to form 3 stigmas.
 
 Samara 2–3 cm long; wings dark red. PL. 3, 7–9, p. 17.
 

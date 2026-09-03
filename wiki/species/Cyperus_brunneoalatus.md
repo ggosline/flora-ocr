@@ -7,6 +7,12 @@ family: Cyperaceae
 vol: 44
 pages: 88-89
 source: sources/Cyperaceae_vol44_liteparse
+countries: [Gabon]
+in_region: true
+subdivisions:
+  Gabon: [Woleu-Ntem]
+habit: "herb"
+habitat: [rocky ground]
 tags: [species, generated]
 ---
 # *Cyperus brunneoalatus* (Cherm.) Lye

@@ -7,6 +7,10 @@ family: Gnetaceae
 vol: 42
 pages: 26-28
 source: sources/Gnetaceae_vol42_liteparse
+countries: [Angola, Cameroon, Central African Republic, Democratic Republic of the Congo, Equatorial Guinea, Gabon, Nigeria]
+in_region: true
+habit: "liana"
+altitude_m: "550"
 tags: [species, generated]
 ---
 # *Gnetum africanum* Welw. Planche 7

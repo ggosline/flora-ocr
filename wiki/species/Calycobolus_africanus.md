@@ -7,6 +7,12 @@ family: Convolvulaceae
 vol: 46
 pages: 19-21
 source: sources/Convolvulaceae_vol46_liteparse
+countries: [Democratic Republic of the Congo, Gabon, Republic of the Congo, Senegal]
+in_region: true
+subdivisions:
+  Gabon: [Moyen-Ogooué, Ogooué-Lolo, Woleu-Ntem]
+habitat: [secondary forest]
+altitude_m: "300–500"
 tags: [species, generated]
 ---
 # *Calycobolus africanus* (G.Don) Heine Planche 6
@@ -38,7 +44,7 @@ Louis et al. 708; 6: Wieringa et al. 4120). Drawing by Hans de Vries, Naturalis 
 
 ![Calycobolus africanus](../sources/Convolvulaceae_vol46_liteparse/figures/fig_016_p0021.png)
 
-*Plate 6. Calycobolus africanus : 1. Flowering branch. – 2. Flower. – 3. Corolla in bud. – 4. Corolla, basal part open. – 5. Gynoecium. – 6. Fruit. Drawing by Stella Ross-Craig, reproduced with permission from Royal Botanic Gardens, Kew (©) from Heine (1963).*
+*Plate 6. Calycobolus africanus: 1. Flowering branch. – 2. Flower. – 3. Corolla in bud. – 4. Corolla, basal part open. – 5. Gynoecium. – 6. Fruit. Drawing by Stella Ross-Craig, reproduced with permission from Royal Botanic Gardens, Kew (©) from Heine (1963).*
 
 ## Notes
 

@@ -7,6 +7,12 @@ family: Meliaceae
 vol: 47
 pages: 47-48
 source: sources/Meliaceae_vol47_liteparse
+countries: [Angola, Cameroon, Central African Republic, Cote d'Ivoire, Democratic Republic of the Congo, Equatorial Guinea, Gabon, Ghana, Guinea, Liberia, Nigeria, Republic of the Congo, Sierra Leone, Uganda]
+in_region: true
+subdivisions:
+  Gabon: [Estuaire, Moyen-Ogooué, Nyanga, Ogooué-Ivindo]
+habit: "tree"
+altitude_m: "500"
 tags: [species, generated]
 ---
 # *Leplaea cedrata* (A.Chev.) E.J.M.Koenen & J.J.de Wilde Planche 12

@@ -18,11 +18,13 @@ tags: [species, generated]
 **Family**: [[Orchidaceae]]
 **Protologue**: Bot. Jahrb. Syst. 16 : 152 (1892)
 
+## Synonyms
+
+- Habenaria pentaglossa Kraenzl., Bot. Jahrb. Syst. 33 : 55 (1902).
+
 ## Description
 
-– Habenaria pentaglossa Kraenzl., Bot. Jahrb. Syst. 33 : 55 (1902).
-
-Stem 15–70 cm, glabrous. Leaves 2.5–9.5 × 2–7 cm, ovate, reniform to cordate, rounded, acute, rooting, appressed to the ground. Inflorescence 4.5–16 cm, lax or rather dense, 1–11-flowered. Flowers medium-sized, resupinate, white or cream with exterior of sepals green, sometimes with spice or clove fragrance. Dorsal sepal acute, broadly ovate, cochleate, exterior puberulent; lateral sepals obliquely oblong-lanceolate to semi-ovate, subglabrous. Petals bipartite above the base, fleshy, glabrous. Lip rather thick, very papillose, tripartite from an undivided base. Spur narrowly cylindrical, shortly swollen below the middle, acute, pendent, often covered by the stem sheaths. – Pl. 11, p. 33.
+Stem 15–70 cm, glabrous. Leaves 2.5–9.5 × 2–7 cm, ovate, reniform to cordate, rounded, acute, rooting, appressed to the ground. Inflorescence 4.5–16 cm, lax or rather dense, 1–11-flowered. Flowers medium-sized, resupinate, white or cream with exterior of sepals green, sometimes with spice or carnation scent. Dorsal sepal acute, broadly ovate, cochleate, exterior puberulent; lateral sepals obliquely oblong-lanceolate to semi-ovate, subglabrous. Petals bipartite above the base, fleshy, glabrous. Lip rather thick, very papillose, tripartite from an undivided base. Spur narrowly cylindric, shortly swollen below the middle, acute, pendant, often covered by the stem sheaths. – Pl. 11, p. 33.
 
 ## Distribution
 
@@ -30,7 +32,7 @@ Nigeria, Congo (Brazzaville), Gabon, Angola, Congo (Kinshasa), Ethiopia, Tanzani
 
 ## Ecology
 
-alt. 550–2400 m. Savanna, forest, Brachystegia and Combretum thicket
+alt. 550–2400 m. Savanna, forest, thicket with Brachystegia, Combretum
 
 ## Specimens examined
 
@@ -45,8 +47,6 @@ Tige portant sur toute sa longueur des feuilles étalées, lancéolées – à e
 1. Labelle d'allure oblongue à liguliforme avec de petits lobules à la base. 2. Sépales : le dorsal 9-9,5 mm ; anthérophores nettement > aux stigmaphores 3. H. stenochila
 
 * Nature de l'iso- signalé différemment par erreur dans FCAM
-
-2'. Sépales : le dorsal 4-6 mm ; anthérophores nettement < aux stigmaphores ..... 5. H. zambesina 1'. Labelle nettement 3-lobés : les 2 latéraux subégaux au médian ..... 3 3. Éperon 5-5,5 cm ; base indivise du labelle 6-7 mm ..... 4. H. weilerana 3'. Éperon (4.7) 5-11 cm ; base indivise du labelle 2-3(5) mm ..... 2. H. procera
 
 ## Figures
 

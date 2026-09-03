@@ -20,15 +20,14 @@ tags: [species, generated]
 
 ## Synonyms
 
+- Cryptosepalum exfoliatum auet. non De Wild. — Pellegrin, Lég. Gabon : 91 (1949).
 - Cynometra sp.? « Tani » Letouzey et Mouranche, Ekop Cam. : 50 et pl. 11 (1952).
 
 ## Description
 
-— Cryptosepalum exfoliatum auet. non De Wild. — Pellegrin, Lég. Gabon : 91 (1949).
+Trees. Leaves paripinnate with 10–13 pairs of small opposite leaflets, sessile. Rachis finely pubescent (young leaves) 3–4 cm long. Leaflets 11–13 × 3–4 mm, oblong, with rounded or very slightly emarginate apex. Base truncate parallel to the rachis, not auriculate. A small gland toward the base of the anterior blade is sometimes visible.
 
-Trees. Leaves paripinnate with 10–13 pairs of small opposite leaflets, sessile. Rachis finely pubescent (young leaves) 3–4 cm. Leaflets 11–13 × 3–4 mm, oblong, with rounded or very slightly emarginate apex. Base truncate parallel to rachis, not auriculate. A small gland sometimes visible toward the base of the anterior limb.
-
-Floral buds scaly, with very caducous scales. Short, very floriferous spiciform inflorescences. Pedicels slender and relatively long, approximately 8 mm. Bracts at base of pedicels very caducous. Involucral bracteoles petaloid, thin, somewhat pubescent on the margins, 5–6 × 4 mm. Calyx tube glabrous, approximately 1 mm, with small triangular teeth. Single petal, 5–6 × 4 mm, elliptic, with a short claw. Stamens 3, 6 mm long. Ovary stipitate, glabrous except on the ventral suture. Stigma capitate. Fruit unknown.
+Floriferous buds scaly, with very caducous scales. Short, very floriferous spiciform inflorescences. Pedicels slender and relatively long, approximately 8 mm. Bracts at the base of pedicels very caducous. Involucral bracteoles petaloid, thin, slightly pubescent on the margins, 5–6 × 4 mm. Calyx tube glabrous, approximately 1 mm, with small triangular teeth. Single petal, 5–6 × 4 mm, elliptic, with a short claw. Stamens 3, 6 mm long. Ovary stipitate, glabrous except on the ventral suture. Stigma capitate. Fruit unknown.
 
 ## Vernacular names
 
@@ -40,7 +39,7 @@ Staudt 907, Johann-Albrechtshöhe, Cameroun
 
 ## Discussion
 
-Tree with white flowers, with caducous leaves. Flowering occurs at the same time as new leaf emergence.
+Tree with white flowers, with deciduous leaves. Flowering occurs at the same time as new leaf production.
 
 Species from Cameroon and eastern Gabon.
 

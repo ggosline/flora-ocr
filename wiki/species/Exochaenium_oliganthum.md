@@ -7,6 +7,12 @@ family: Gentianaceae
 vol: 54
 pages: 73-75
 source: sources/Gentianaceae_vol54_liteparse
+countries: [Angola, Burundi, Cameroon, Central African Republic, Cote d'Ivoire, Democratic Republic of the Congo, Gabon, Guinea, Guinea-Bissau, Senegal, Sudan, Tanzania, Uganda, Zambia]
+in_region: true
+subdivisions:
+  Gabon: [Estuaire]
+habit: "herb"
+altitude_m: "200"
 tags: [species, generated]
 ---
 # *Exochaenium oliganthum* (Gilg) Kissling Planche 25 ; Figure 6(A)

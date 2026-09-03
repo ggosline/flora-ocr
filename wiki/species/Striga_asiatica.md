@@ -7,6 +7,13 @@ family: Scrophulariaceae
 vol: 48
 pages: 133-135
 source: sources/Scrophulariaceae_vol48_liteparse
+countries: [Gabon]
+in_region: true
+subdivisions:
+  Gabon: [Haut-Ogooué, Nyanga, Ogooué-Maritime]
+habit: "herb"
+habitat: [rocky ground]
+altitude_m: "500"
 tags: [species, generated]
 ---
 # *Striga asiatica* (L.) Kuntze Planche 43(A–B), 56(C)

@@ -6,6 +6,12 @@ genus: Mesosphaerum
 vol: 58
 pages: 78-78
 source: sources/Labiataeulmaceaeverbenaceae_vol58_liteparse
+countries: [Cameroon, Democratic Republic of the Congo, Equatorial Guinea, Gabon, Nigeria, Republic of the Congo]
+in_region: true
+subdivisions:
+  Gabon: [Ogooué-Maritime]
+habit: "herb"
+altitude_m: "60"
 tags: [species, generated]
 ---
 # *Mesosphaerum suaveolens* (L.) Kuntze

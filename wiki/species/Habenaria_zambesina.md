@@ -18,13 +18,14 @@ tags: [species, generated]
 **Family**: [[Orchidaceae]]
 **Protologue**: Otia Bot. Hamburg. 2: 96 (1881)
 
+## Synonyms
+
+- Habenaria myriantha Kraenzl., Notizbl. Bot. Gart. Berlin 3 : 237 (1903).
+- Habenaria haullevilleana De Wild., Ann. Mus. Congo, Bot., ser. 4, 1 : 172 (1903).
+
 ## Description
 
-– Habenaria myriantha Kraenzl., Notizbl. Bot. Gart. Berlin 3 : 237 (1903).
-
-– Habenaria haullevilleana De Wild., Ann. Mus. Congo, Bot., ser. 4, 1 : 172 (1903).
-
-Stem 40–131 cm, glabrous, leafy throughout its length. Leaves 4–24 × 2–7.5 cm, broadly lanceolate to ovate, acute, margins sometimes undulate. Inflorescence 11–40 cm, dense, flowers numerous, medium-sized, resupinate, white. Dorsal sepal becoming greenish towards the apex, elliptic-ovate to broadly ovate, obtuse; lateral sepals obliquely semi-orbicular, subacute. Petals entire, broadly ovate-triangular, obtuse to subacute, very broadly adnate to the gynostemium. Labellum thick, glabrous, ligulate, subobtuse, entire or with 2 minute basal lobules. Spur falciform, slightly swollen towards the acute apex. – Pl. 15, p. 41.
+Stem 40–131 cm, glabrous, leafy throughout its length. Leaves 4–24 × 2–7.5 cm, broadly lanceolate to ovate, acute, margins sometimes undulate. Inflorescence 11–40 cm, dense, flowers numerous, medium-sized, resupinate, white. Dorsal sepal becoming greenish toward the apex, elliptic-ovate to broadly ovate, obtuse; lateral sepals obliquely semi-orbicular, subacute. Petals entire, broadly ovate-triangular, obtuse to subacute, very broadly adnate to the gynostemium. Labellum thick, glabrous, ligulate, subobtuse, entire or with 2 minute basal lobules. Spur falciform, slightly swollen toward the acute apex. – Pl. 15, p. 41.
 
 ## Distribution
 
@@ -40,9 +41,9 @@ Le Testu 5170, Haute Ngounyé, between Iméno and Mouyamba (fl., Jan.), BM!, BR!
 
 3. Sect. Pentaceras (Thouars) Schltr.
 
-Bot. Jahrb. 53 : 406 (1915).
+Bot. Jahrb. 53: 406 (1915).
 
-Leaves in basal rosette or on the lower part of the stem or throughout its length, petiolate or sessile, spreading or appressed against the stem. Petals 2-partite or with small basal lobules. Labellum clearly 3-lobed from the base or almost so. Rostellum: median lobe triangular < connective.
+Leaves in basal rosette or on the lower part of the stem or along its entire length, petiolate or sessile, spreading or appressed against the stem. Petals 2-partite or with small basal lobules. Labellum clearly 3-lobed from the base or nearly so. Rostellum: median lobe triangular < connective.
 
 ## Figures
 

@@ -7,6 +7,13 @@ family: Dracaenaceae
 vol: 54
 pages: 15-19
 source: sources/Dracaenaceae_vol54_liteparse
+countries: [Democratic Republic of the Congo, Gabon, Republic of the Congo]
+in_region: true
+subdivisions:
+  Gabon: [Haut-Ogooué]
+habit: "tree"
+habitat: [gallery forest, riverine]
+altitude_m: "350–600"
 tags: [species, generated]
 ---
 # *Dracaena acutissima* Hua Planche 2, Figure 1(B, C)

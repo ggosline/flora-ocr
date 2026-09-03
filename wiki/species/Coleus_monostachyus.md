@@ -6,6 +6,13 @@ genus: Coleus
 vol: 58
 pages: 59-60
 source: sources/Labiataeulmaceaeverbenaceae_vol58_liteparse
+countries: [Angola, Cameroon, Central African Republic, Equatorial Guinea, Gabon, Nigeria, Republic of the Congo, Sao Tome and Principe]
+in_region: true
+subdivisions:
+  Gabon: [Estuaire, Ngounié, Nyanga, Ogooué-Ivindo, Ogooué-Lolo, Woleu-Ntem]
+habit: "herb"
+habitat: [rocky ground]
+altitude_m: "140–580"
 tags: [species, generated]
 ---
 # *Coleus monostachyus* (P.Beauv.) A.J.Paton subsp. monostachyus

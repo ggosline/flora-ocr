@@ -37,7 +37,7 @@ forests; at approximately 200–500 m altitude. B: Pellegrin (1949), Raponda-Wal
 
 ![Schefflerodendron gabonense](../sources/Millettiaspeciesfabaceae_vol49_liteparse/figures/fig_123_p0345.png)
 
-*Plate 115: Schefflerodendron gabonense: 1. Flowering branch. – 2. Base of leaflet with stipels. – 3. Detail of indumentum on lower surface of leaflet. – 4. Flower. – 5. Detail of indumentum on external surface of calyx. – 6. Standard. – 7. Wing, internal surface. – 8. Wing, external surface. – 9. Keel. – 10.*
+*PL. 115. — Schefflerodendron gabonense: 1. Flowering branch. – 2. Base of leaflet with stipels. – 3. Detail of indumentum on lower surface of leaflet. – 4. Flower. – 5. Detail of indumentum on external surface of calyx. – 6. Standard. – 7. Wing, internal surface. – 8. Wing, external surface. – 9. Keel. – 10.*
 
 ## Notes
 

@@ -7,6 +7,13 @@ family: Pittosporaceae
 vol: 41
 pages: 54-55
 source: sources/Pittosporaceae_vol41_liteparse
+countries: [Gabon, Madagascar]
+in_region: true
+subdivisions:
+  Gabon: [Ogooué-Ivindo, Ogooué-Lolo]
+habit: "tree"
+habitat: [riverine, evergreen forest]
+altitude_m: "0–2000"
 tags: [species, generated]
 ---
 # *Pittosporum viridiflorum* Sims Planche 12

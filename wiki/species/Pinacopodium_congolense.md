@@ -18,17 +18,18 @@ tags: [species, generated]
 **Family**: [[Nectaropetalaceae]]
 **Protologue**: Bol. Soc. Brot., ser. 2, 25 : 105 (1951); Consp. Fl. Angol. 1 : 246 (1951)
 
+## Synonyms
+
+- Nectaropetalum congolense S. Moore, Journ. Bot. London 58 : 219 (1920).
+- Erythroxylum congolensis (S. Moore) PHILIPS, South. Afr. Journ. Sc. 32 : 308 (1935).
+
 ## Description
 
-— Nectaropetalum congolense S. Moore, Journ. Bot. London 58 : 219 (1920).
+Tree 20–25 m tall, glabrous. Leaves penniveined; stipules extrapetiolar, caducous; petiole 4–6 mm long. Limb oblong to elliptic-obovate, decurrent on the petiole, triangular to caudate at the apex, 4–13 × 3–5 cm; 5 to 11 pairs of secondary nerves anastomosing with each other, prominent on both surfaces as well as the nervilles.
 
-— Erythroxylum congolensis (S. Moore) PHILIPS, South. Afr. Journ. Sc. 32 : 308 (1935).
+Flowers grouped in subumbelliform cymes on a short axillary branchlet, pedunculate and inserted in the axils of triangular caducous bracts approximately 2 mm long. Sepals valvate, connate at the base, triangular, 1–1.5 mm long. Petals white, imbricate, free, obovate, long-clawed, 3–4 × 1 mm, with inconspicuous nectariferous appendages on the ventral surface and prominent midvein on the dorsal surface. Stamens alternately long and short, 3–5 mm long; filaments united at the base into a tube less than 1 mm tall; anthers basifixed, 0.5–0.75 mm long, with longitudinal dehiscence, subsagittate, apiculate. Ovary oblong, 2-locular, 2–2.5 × 1 mm; one ovule per locule, pendulous; axile placentation; style extremely short; stigma capitate, bilobed.
 
-Tree 20-25 m tall, glabrous. Leaves penninerved; stipules extrapetiolar, caducous early; petiole 4-6 mm long. Blade oblong to elliptic-obovate, decurrent on the petiole, triangular to caudate at the apex, 4-13 × 3-5 cm; 5 to 11 pairs of secondary veins anastomosing with each other, well-prominent on both faces as are the veinlets.
-
-Flowers grouped in subumbelliform cymes on a short axillary branch, pedunculate and inserted at the axils of triangular caducous bracts approximately 2 mm long. Sepals valvate, united at the base, triangular, 1-1.5 mm long. Petals white, imbricate, free, obovate, longly ungulate, 3-4 × 1 mm, with nectariferous appendages scarcely distinct on the ventral face and with salient midvein on the dorsal face. Stamens alternately long and short, 3-5 mm in length; filaments united at the base into a tube less than 1 mm tall; anthers basifixed 0.5-0.75 mm long, with longitudinal dehiscence, subsagittate, apiculate. Ovary oblong, 2-locular, 2-2.5 × 1 mm; one ovule per locule, pendulous; axile placentation; style extremely short; stigma capitate, bilobed.
-
-Mature fruit unknown, probably capsular. Pl. 4, 4-7, p. 21.
+Mature fruit unknown, probably capsular. Pl. 4, 4–7, p. 21.
 
 ## Type
 

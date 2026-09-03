@@ -7,6 +7,12 @@ family: Meliaceae
 vol: 47
 pages: 48-49
 source: sources/Meliaceae_vol47_liteparse
+countries: [Cameroon, Democratic Republic of the Congo, Equatorial Guinea, Gabon, Republic of the Congo, Uganda]
+in_region: true
+subdivisions:
+  Gabon: [Nyanga, Ogooué-Ivindo, Ogooué-Lolo]
+habit: "tree"
+altitude_m: "350–700"
 tags: [species, generated]
 ---
 # *Leplaea mayombensis* (Pellegr.) Staner Planche 13

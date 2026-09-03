@@ -7,6 +7,12 @@ family: Cyperaceae
 vol: 44
 pages: 98-99
 source: sources/Cyperaceae_vol44_liteparse
+countries: [Democratic Republic of the Congo, Gabon, Senegal]
+in_region: true
+subdivisions:
+  Gabon: [Estuaire, Nyanga, Ogooué-Maritime]
+habit: "herb"
+habitat: [mangrove]
 tags: [species, generated]
 ---
 # *Cyperus peruvianus* (Lam.) F.N.Williams Planche 59, Figure 7a

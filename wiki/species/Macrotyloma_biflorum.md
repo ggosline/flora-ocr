@@ -7,6 +7,12 @@ family: Leguminosae
 vol: 49
 pages: 249-250
 source: sources/Millettiaspeciesfabaceae_vol49_liteparse
+countries: [Gabon]
+in_region: true
+subdivisions:
+  Gabon: [Haut-Ogooué]
+habit: "herb"
+altitude_m: "630"
 tags: [species, generated]
 ---
 # *Macrotyloma biflorum* (Schumach. & Thonn.) Hepper var. biflorum Planche 84

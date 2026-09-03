@@ -7,6 +7,13 @@ family: Leguminosae
 vol: 49
 pages: 269-270
 source: sources/Millettiaspeciesfabaceae_vol49_liteparse
+countries: [Democratic Republic of the Congo, Gabon]
+in_region: true
+subdivisions:
+  Gabon: [Ogooué-Lolo]
+habit: "shrub"
+habitat: [secondary forest, primary forest]
+altitude_m: "550"
 tags: [species, generated]
 ---
 # *Millettia goossensii* (Hauman) Polhill

@@ -20,6 +20,7 @@ tags: [species, generated]
 
 ## Synonyms
 
+- Palisot de Beauvois, Fl. Oware. Benin, 1:71, t. 42 (1806). — Aubréville, F.F.C.I., 2° ed., 1:282 (1959).
 - Vouapa macrophylla (P. Beauv.) Baill., Adansonia, 6 : 178 (1865).
 - Vouapa macrophylla var. Heudelotiana Baill., Adansonia, 6 : 179 (1865).
 - Macrolobium Palisoti Benth., Trans. Linn. Soc. London, 25 : 308 (1865) p.p. Welwitsch excl.
@@ -29,9 +30,9 @@ tags: [species, generated]
 
 ## Description
 
-Trees, shrubs. Leaves with 2–4 pairs of opposite leaflets. Leaflets polymorphous, oblong-elliptic or obovate-elliptic, acuminate, shortly or sometimes long-acuminate. Blade furnished beneath with a fine tomentum of appressed silky hairs, at first golden then grey, 10–18 cm long by 4.5–7 cm wide. Lateral veins 8–10 pairs, arched, ascending. Petiolules short, 2–4 mm, thick.
+Trees, shrubs. Leaves with 2–4 pairs of opposite leaflets. Leaflets polymorphic, oblong-elliptic or obovate-elliptic, acuminate, shortly or sometimes longly acute. Limb furnished beneath with fine felt of appressed silky hairs, at first golden then grey, 10–18 cm long by 4.5–7 cm wide. Lateral veins 8–10 pairs, arched, ascending. Petiolules short, 2–4 mm, thick.
 
-Ferruginous panicles, lax, of highly variable length, reaching 20 cm, inserted in great number along the branchlets and branches. Involucral bracteoles, 6–8 mm. Pedicels ca. 5 mm. Calyx with 4 lobes, one of which bifid. Tube short, 2 mm. One large petal, shallowly bilobed; 4 small ones. Fertile stamens 3; staminodes present. Ovary pubescent, subsessile. Ovules 4–8. Long velvety brown legumes, reaching 30 cm length and 9 cm width, obliquely very wrinkled, pendulous at the apex of rather long and relatively slender peduncles.
+Ferruginous panicles, loose, of very variable length, reaching 20 cm, inserted in great number along the twigs and branches. Involucral bractlets, 6–8 mm. Pedicels ca. 5 mm. Calyx with 4 lobes, one of which bifid. Tube short, 2 mm. One large petal, shallowly bilobed; 4 small ones. Fertile stamens 3; staminodes present. Ovary pubescent, subsessile. Ovules 4–8. Long velvety brown pods, reaching 30 cm length and 9 cm width, obliquely very wrinkled, pendulous at the end of rather long and relatively slender peduncles.
 
 ## Type
 
@@ -39,7 +40,7 @@ Palisot de Beauvois (P)
 
 ## Discussion
 
-Small tree or shrub, of the understory of dense forests and the banks of watercourses. This species is very widespread in the Guineo-Congolian region, from Guinea to Angola and the Congo Basin.
+Small tree or shrub, of the understory of dense forests and along watercourse banks. This species is very widespread in the Guineo-Congolian region, from Guinea to Angola and the Congo Basin.
 
 ## Vernacular names
 

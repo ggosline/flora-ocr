@@ -7,6 +7,7 @@ family: Bombacaceae
 vol: 22
 pages: 54-55
 source: sources/Bombacaceae_vol22_paddle
+habit: "tree"
 tags: [species, generated]
 ---
 # *Pachira glabra* Pasquale
@@ -15,17 +16,14 @@ tags: [species, generated]
 **Family**: [[Bombacaceae]]
 **Protologue**: Rendic. Acad. Sc. Fis. Mat., Napoli, 7 : 18 (1868)
 
+## Synonyms
+
+- Bombax glabrum (PASQUALE) A. ROBYNS, Bull. Jard. Bot. Etat Bruxelles 30 : 474 (1960).
+- Bombacopsis glabra (PASQUALE) A. ROBYNS, Bull. Jard. Bot. Etat Bruxelles 33 : 207. tab. 6, 7 et tab. 7 (1963); Fl. Congo 10 : 198 (1963).
+- Bombax aquaticum auct. non (AUBL.) K. SCHUMACHER : DE WILDEMAN & TH. DURAND, Ann. Mus. Congo, Bot. ser. 3, 1 : 23 (1901).
+- Pachira aquatica auct. non AUBL. : DE WILDEMAN, Ann. Mus. Congo Bot. ser. 5, 2 : 303 (1908).
+
 ## Description
-
-— Bombax glabrum (PASQUALE) A. ROBYNS, Bull. Jard. Bot. Etat Bruxelles 30 : 474 (1960).
-
-— Bombacopsis glabra (PASQUALE) A. ROBYNS, Bull. Jard. Bot. Etat Bruxelles 33 : 207. tab. 6, 7 et tab. 7 (1963); Fl. Congo 10 : 198 (1963).
-
-BOMBACACEAE
-
-— Bombax aquaticum auct. non (AUBL.) K. SCHUMACHER : DE WILDEMAN & TH. DURAND, Ann. Mus. Congo, Bot. ser. 3, 1 : 23 (1901).
-
-— Pachira aquatica auct. non AUBL. : DE WILDEMAN, Ann. Mus. Congo Bot. ser. 5, 2 : 303 (1908).
 
 — Bombax kimuenzæ DE WILD & TH. DURAND, Bull. Herb. Boiss., ser. 2, 1 : 740 (1901).
 
@@ -39,15 +37,19 @@ This species is distinguished from other introduced species by the following cha
 
 — ovoid capsule;
 
-— valves glabrous on the outside;
+— valves glabrous externally;
 
-— kapok sparse;
+— kapok scanty;
 
-— seeds with strong prominent striations.
+— seeds with strong prominent ridges.
 
-NEOTYPE: Rivière 6, Hamma garden near Algiers, Algeria (P!).
+NEOTYPE: Rivière 6, jardin du Hamma près d'Alger, Algérie (P!).
 
 Cultivated plant. Its range is Brazilian, Hawaiian, and African.
+
+## Vernacular names
+
+BOMBACACE
 
 ## Specimens examined
 

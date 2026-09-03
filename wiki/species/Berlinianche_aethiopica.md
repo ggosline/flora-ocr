@@ -7,6 +7,10 @@ family: Apodanthaceae
 vol: 40
 pages: 10-11
 source: sources/Apodanthaceae_vol40_liteparse
+countries: [Angola, Democratic Republic of the Congo, Gabon, Malawi, Tanzania, Zambia, Zimbabwe]
+in_region: true
+subdivisions:
+  Gabon: [Ogooué-Maritime]
 tags: [species, generated]
 ---
 # *Berlinianche aethiopica* (Welw.) Vattimo-Gil Planche 1

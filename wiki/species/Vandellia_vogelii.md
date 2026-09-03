@@ -7,6 +7,12 @@ family: Scrophulariaceae
 vol: 48
 pages: 151-167
 source: sources/Scrophulariaceae_vol48_liteparse
+countries: [Equatorial Guinea, Gabon, Guinea, Nigeria]
+in_region: true
+subdivisions:
+  Gabon: [Estuaire, Ogooué-Maritime, Woleu-Ntem]
+habit: "herb"
+altitude_m: "0–700"
 tags: [species, generated]
 ---
 # *Vandellia vogelii* (Skan) Eb.Fisch., Schäferh. & Kai Müll. Planche 53

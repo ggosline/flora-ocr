@@ -7,6 +7,13 @@ family: Hypericaceae
 vol: 42
 pages: 42-46
 source: sources/Hypericaceae_vol42_liteparse
+countries: [Cameroon, Central African Republic, Democratic Republic of the Congo, Equatorial Guinea, Gabon, Nigeria]
+in_region: true
+subdivisions:
+  Gabon: [Haut-Ogooué, Ngounié]
+habit: "liana"
+habitat: [secondary forest]
+altitude_m: "950"
 tags: [species, generated]
 ---
 # *Vismia rubescens* Oliv. var. rubescens

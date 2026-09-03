@@ -7,6 +7,12 @@ family: Cyperaceae
 vol: 44
 pages: 170-171
 source: sources/Cyperaceae_vol44_liteparse
+countries: [Cameroon, Democratic Republic of the Congo, Gabon]
+in_region: true
+subdivisions:
+  Gabon: [Ngounié, Ogooué-Ivindo]
+habit: "herb"
+altitude_m: "0–200"
 tags: [species, generated]
 ---
 # *Mapania heterophylla* (Boeckeler) Lye Figure 15b

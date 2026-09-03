@@ -7,6 +7,12 @@ family: Leguminosae
 vol: 49
 pages: 261-262
 source: sources/Millettiaspeciesfabaceae_vol49_liteparse
+countries: [Angola, Democratic Republic of the Congo, Gabon, Republic of the Congo]
+in_region: true
+subdivisions:
+  Gabon: [Ogooué-Ivindo, Woleu-Ntem]
+habit: "liana"
+altitude_m: "20–350"
 tags: [species, generated]
 ---
 # *Millettia comosa* (Micheli) Hauman

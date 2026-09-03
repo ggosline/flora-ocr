@@ -18,23 +18,23 @@ tags: [species, generated]
 **Family**: [[Orchidaceae]]
 **Protologue**: Notizbl. Bot. Gart. Mus. Berlin-Dahlem 4 : 155 (1896)
 
+## Synonyms
+
+- Vanilla lujae De Wild., Belg. Col. 10 : 28 (1904).
+- Vanilla imperialis Kraenzl. var. congolensis De Wild., Rev. Hist. Nat. ApFig. 2 : 188 (1921).
+- Vanilla grandiflora Lindl. var. lujae (De Wild.) Geerinck, Bull. Soc. Roy. Bot. Belg. 107:58, fig. 1-3 (1974).
+
 ## Description
 
-– Vanilla lujae De Wild., Belg. Col. 10 : 28 (1904).
-
-– Vanilla imperialis Kraenzl. var. congolensis De Wild., Rev. Hist. Nat. ApFig. 2 : 188 (1921).
-
-– Vanilla grandiflora Lindl. var. lujae (De Wild.) Geerinck, Bull. Soc. Roy. Bot. Belg. 107:58, fig. 1-3 (1974).
-
-Leaves petiolate, 8-28 × 3.5-12 cm, broadly elliptic-oblong to ovate, or obovate, apiculate to acuminate, bluish-green dull to dark green. Inflorescence unbranched 4-15 cm, (5)15-50-flowered. Flowers yellow or cream, labellum strongly spotted with dark pink to purple especially towards the apex of the inner surface. Dorsal sepal oblong-lanceolate, acute; lateral sepals obliquely elliptic to obovate-oblong. Petals oblanceolate-obovate, subacute, with a thickened midvein. Labellum narrowly infundibuliform towards the base, general form cuneate, fairly fleshy, strongly undulate at the anterior margins, not clearly three-lobed, lower part covered with dense branched short hairs, centre provided with a dense tuft of fine fleshy hairs, ± bottle-shaped, with papillae along the midvein of the median lobe, triangular acute; the lateral ones being rounded. – Pl. 45, p. 94.
+Petiolate leaves, 8–28 × 3.5–12 cm, broadly elliptic-oblong to ovate, or obovate, apiculate to acuminate, matt blue-green to dark green. Inflorescence unbranched, 4–15 cm, (5)15–50-flowered. Flowers yellow or cream, lip strongly spotted with dark pink to purple especially towards the apex of the inner surface. Dorsal sepal oblong-lanceolate, acute; lateral sepals obliquely elliptic to obovate-oblong. Petals oblanceolate-obovate, subacute, with a thickened midline. Lip narrowly infundibuliform towards the base, general form cuneiform, rather fleshy, strongly undulate at the anterior margins, not distinctly three-lobed, lower part covered with dense branched short hairs, centre furnished with a dense tuft of fine fleshy hairs, ± bottle-shaped, with papillae along the midline of the median lobe, triangular acute; the lateral lobes being rounded. – Pl. 45, p. 94.
 
 ## Distribution
 
-Sierra Leone, Côte d'Ivoire, Ghana, Cameroun, Gabon, Centrafrique, Congo (Brazzaville), Congo (Kinshasa), Angola, Uganda, Tanzania
+Sierra Leone, Côte d'Ivoire, Ghana, Cameroun, Gabon, Centrafrique, Congo (Brazzaville), Congo (Kinshasa), Angola, Ouganda, Tanzania
 
 ## Ecology
 
-alt. 650-1200 m. Vine climbing above the forest canopy as well as on shaded trunk, in gallery forest; in wooded swamp with Raphia and Pandanus
+alt. 650–1200 m. Liane climbing above the forest canopy as well as on shaded trunk, in gallery forest; in wooded swamp with Raphia and Pandanus
 
 ## Specimens examined
 

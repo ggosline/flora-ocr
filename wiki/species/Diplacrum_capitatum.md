@@ -7,6 +7,13 @@ family: Cyperaceae
 vol: 44
 pages: 125-126
 source: sources/Cyperaceae_vol44_liteparse
+countries: [Gabon, Ghana, Liberia, Nigeria, Sierra Leone]
+in_region: true
+subdivisions:
+  Gabon: [Estuaire, Ogooué-Ivindo, Ogooué-Maritime]
+habit: "herb"
+habitat: [mangrove]
+altitude_m: "0–500"
 tags: [species, generated]
 ---
 # *Diplacrum capitatum* (Willd.) Boeckeler Planche 78, Figure 10a

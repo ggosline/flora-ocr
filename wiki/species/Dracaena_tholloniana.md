@@ -7,6 +7,12 @@ family: Dracaenaceae
 vol: 54
 pages: 53-55
 source: sources/Dracaenaceae_vol54_liteparse
+countries: [Angola, Cameroon, Democratic Republic of the Congo, Gabon, Republic of the Congo]
+in_region: true
+subdivisions:
+  Gabon: [Estuaire, Moyen-Ogooué, Ngounié, Ogooué-Ivindo, Ogooué-Lolo, Woleu-Ntem]
+habit: "shrub"
+altitude_m: "0–1000"
 tags: [species, generated]
 ---
 # *Dracaena tholloniana* Hua Planche 19

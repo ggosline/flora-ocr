@@ -6,6 +6,12 @@ genus: Cantinoa
 vol: 58
 pages: 22-24
 source: sources/Labiataeulmaceaeverbenaceae_vol58_liteparse
+countries: [Cameroon, Central African Republic, Democratic Republic of the Congo, Gabon, Nigeria, Republic of the Congo]
+in_region: true
+subdivisions:
+  Gabon: [Ngounié, Ogooué-Maritime]
+habit: "herb"
+altitude_m: "600–1200"
 tags: [species, generated]
 ---
 # *Cantinoa americana* (Aubl.) Harley & J.F.B.Pastore Planche 4 ; Figure 1(B)
@@ -45,7 +51,7 @@ dikinga (éshira) ; ngwè-yi-kagange (nkomi). Usage : Les Éshira utilisent la c
 
 ![Cantinoa americana](../sources/Labiataeulmaceaeverbenaceae_vol58_liteparse/figures/fig_029_p0023.png)
 
-*Plate 4 . Cantinoa americana : 1. Seedlings. – 2. Flowering stem. – 3. Section of the stem. – 4. Detail of the leaf, upper surface. – 5. Idem, lower surface. – 6. Bract. – 7. Flower. – 8. Achene, ventral face. – 9. Idem, dorsal face. – 10. Idem, transverse section. (1-10 : Le Bourgeois 607 ). Drawing by François*
+*Plate 4. Cantinoa americana: 1. Seedlings. – 2. Flowering stem. – 3. Section of the stem. – 4. Detail of the leaf, upper surface. – 5. Idem, lower surface. – 6. Bract. – 7. Flower. – 8. Achene, ventral face. – 9. Idem, dorsal face. – 10. Idem, transverse section. (1-10: Le Bourgeois 607). Drawing by François*
 
 ## Notes
 

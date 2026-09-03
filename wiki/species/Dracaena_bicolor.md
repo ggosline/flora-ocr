@@ -7,6 +7,12 @@ family: Dracaenaceae
 vol: 54
 pages: 21-23
 source: sources/Dracaenaceae_vol54_liteparse
+countries: [Cameroon, Democratic Republic of the Congo, Equatorial Guinea, Gabon, Nigeria, Republic of the Congo]
+in_region: true
+subdivisions:
+  Gabon: [Estuaire, Moyen-Ogooué, Ngounié, Ogooué-Ivindo, Ogooué-Lolo, Woleu-Ntem]
+habit: "shrub"
+altitude_m: "5–800"
 tags: [species, generated]
 ---
 # *Dracaena bicolor* Hook. Planche 5

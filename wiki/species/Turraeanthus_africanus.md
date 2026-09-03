@@ -7,6 +7,13 @@ family: Meliaceae
 vol: 47
 pages: 79-81
 source: sources/Meliaceae_vol47_liteparse
+countries: [Angola, Cameroon, Cote d'Ivoire, Democratic Republic of the Congo, Equatorial Guinea, Gabon, Ghana, Liberia, Nigeria, Republic of the Congo, Sierra Leone, Uganda]
+in_region: true
+subdivisions:
+  Gabon: [Estuaire, Ngounié, Ogooué-Ivindo, Ogooué-Lolo, Ogooué-Maritime, Woleu-Ntem]
+habit: "tree"
+habitat: [evergreen forest]
+altitude_m: "600"
 tags: [species, generated]
 ---
 # *Turraeanthus africanus* (Welw. ex C.DC.) Pellegr. Planche 26

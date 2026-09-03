@@ -7,6 +7,12 @@ family: Gentianaceae
 vol: 54
 pages: 68-69
 source: sources/Gentianaceae_vol54_liteparse
+countries: [Cameroon, Central African Republic, Democratic Republic of the Congo, Equatorial Guinea, Gabon, Guinea-Bissau, Kenya, Madagascar, Mozambique, Sudan, Tanzania, Zambia]
+in_region: true
+subdivisions:
+  Gabon: [Nyanga, Ogooué-Ivindo]
+habit: "herb"
+altitude_m: "0–2500"
 tags: [species, generated]
 ---
 # *Canscora alata* (Roth ex Roem. & Schult.) Wall. Planche 22

@@ -7,6 +7,13 @@ family: Dracaenaceae
 vol: 54
 pages: 41-43
 source: sources/Dracaenaceae_vol54_liteparse
+countries: [Angola, Benin, Cameroon, Central African Republic, Democratic Republic of the Congo, Equatorial Guinea, Gabon, Nigeria, Republic of the Congo]
+in_region: true
+subdivisions:
+  Gabon: [Moyen-Ogooué, Ogooué-Ivindo, Ogooué-Lolo, Ogooué-Maritime, Woleu-Ntem]
+habit: "tree"
+habitat: [primary forest]
+altitude_m: "0–900"
 tags: [species, generated]
 ---
 # *Dracaena mannii* Baker Figure 3(A, B)
@@ -48,7 +55,7 @@ D. nitens, D. perrottetii and D. usambarensis are closely related to D. mannii a
 
 ![Dracaena mannii](../sources/Dracaenaceae_vol54_liteparse/figures/fig_032_p0042.jpeg)
 
-*Figure 3. Dracaena mannii (near Ndjolé, Gabon; near Oyem, Gabon): A. Erect inflorescences and leaves arranged in dense spirals, B. Gray bark with longitudinal fissures. – Dracaena marina (Montigny site at Okala, Gabon; Mondah, Gabon; Port Gentil, Gabon): C. General appearance showing smooth bark and leaves in terminal tufts, D. Floriferous branch with oblanceolate leaves and an old bright orange erect infrutescence, E. Stilt roots produced by growth in flooded conditions. (Photos A, B, D by Theo H.J. Damen ©; C by Tariq Stewart ©; E by Frans J. Breteler ©).*
+*Figure 3. Dracaena mannii (near Ndjolé, Gabon; near Oyem, Gabon): A. Erect inflorescences and leaves arranged in dense spirals, B. Gray bark with longitudinal fissures. – Dracaena marina (Montigny site at Okala, Gabon; Mondah, Gabon; Port Gentil, Gabon): C. General appearance showing smooth bark and leaves in terminal tufts, D. Floriferous branch with oblanceolate leaves and an old bright orange erect infructescence, E. Stilt roots produced by growth in flooded conditions. (Photos A, B, D by Theo H.J. Damen ©; C by Tariq Stewart ©; E by Frans J. Breteler ©).*
 
 ![Dracaena mannii](../sources/Dracaenaceae_vol54_liteparse/figures/fig_033_p0042.jpeg)
 

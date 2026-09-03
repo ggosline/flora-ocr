@@ -7,6 +7,12 @@ family: Dracaenaceae
 vol: 54
 pages: 29-31
 source: sources/Dracaenaceae_vol54_liteparse
+countries: [Cameroon, Cote d'Ivoire, Equatorial Guinea, Gabon, Ghana, Guinea, Liberia]
+in_region: true
+subdivisions:
+  Gabon: [Estuaire, Moyen-Ogooué, Nyanga, Ogooué-Ivindo, Ogooué-Maritime, Woleu-Ntem]
+habit: "tree"
+altitude_m: "0–800"
 tags: [species, generated]
 ---
 # *Dracaena cerasifera* Hua Planche 9, Figure 2(C)

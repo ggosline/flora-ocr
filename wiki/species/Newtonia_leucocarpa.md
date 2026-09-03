@@ -18,15 +18,19 @@ tags: [species, generated]
 **Family**: [[Leguminosae]]
 **Protologue**: FCB 3: 214 (1952); SAINT-AUBIN, Forêt Gabon : 105 (1953)
 
+## Synonyms
+
+- Piptadenia leucocarpa HARMS, Bot. Jahrb. 53: 457 (1915); PELLEGRIN, Légum. Gabon : 21, pl. 2, fig. 2 (1948).
+
 ## Description
 
-Tree reaching a height of 45 m. Trunk straight, cylindrical, approximately 10 m tall for a diameter of approximately 1 mm; buttresses erect and aliform at the base. Rhytidome gray, covered with white and blackish lichens; blackish pustules a few cm in diameter on old trees; anastomosed vertical fissures. Bark section thick 1.5 cm, tender, fibrous, dirty pink, brownish pink to white toward the interior, exuding a translucent yellowish sticky liquid. Sapwood whitish-gray. Heartwood brownish. Crown tabular, open, very fine. Young branches villous russet to glabrescent. Old branches glabrous, dark brown with numerous lighter lenticels. Stipules pubescent, lanceolate-linear, 2.5–3 mm long, apex ± acute, early caducous. Petiole pubescent or tomentellous and pubescent, 0.5–1 cm long, canaliculate above. Rachis pubescent or tomentellous, 5–14 cm long, carinate above with prominent cylindrical gland depressed at apex at the insertion of the pinnae. Pinnae 10–12 pairs. Pinnae axis pubescent 1.8–9 cm long, carinate above. Leaflets 20–40 pairs, sessile. Blade glabrous, linear-oblong, reaching 18 × 1.5 mm, base asymmetric: proximal margin subauriculate and distal margin rounded attenuate, lateral margin sometimes ± pubescent. Midvein median, visible on both surfaces. Remaining venation not visible.
+Tree reaching a height of 45 m. Bole straight, cylindrical, ± 10 m tall for a diameter of ± 1 mm; buttresses erect aliform at the base. Rhytidome grey, covered with white and blackish lichens; blackish pustules several cm in diameter on old trees; anastomosed vertical fissures. Bark section thick 1.5 cm, tender, fibrous, dirty pink, brownish-pink to white towards the interior, exuding a translucent yellowish sticky liquid. Sapwood whitish-grey. Heartwood brownish. Crown tabular, open, very fine. Young branchlets hairy reddish to glabrescent. Old branchlets glabrous, blackish-brown with numerous lighter lenticels. Stipules pubescent, lanceolate linear, 2.5–3 mm long, apex ± acute, early caducous. Petiole pubescent or tomentellous and pubescent, 0.5–1 cm long, canaliculate above. Rachis pubescent or tomentellous, 5–14 cm long, carinate above with prominent cylindrical gland depressed at the apex at the insertion of the pinnae. Pinnae 10–12 pairs. Pinnule axis pubescent 1.8–9 cm long, carinate above. Leaflets 20–40 pairs, sessile. Blade glabrous, linear oblong, reaching 18 × 1.5 mm, base asymmetric: proximal margin subauriculed and distal margin rounded attenuate, lateral margin sometimes ± pubescent. Primary midvein, visible on both surfaces. Remainder of venation not visible.
 
-Inflorescence in terminal panicle of spikes. Axis russet pubescent. Bracts short, tomentose externally, triangular, arched, apex acute. Floral bud ellipsoid-fusiform. Flower ♢ sessile¹. Calyx with 5 fused sepals, 1.5 mm long, with toothed upper margin. Petals 5, free, pubescent appressed to ± hirsute on the upper 1/2 and glabrous base, elliptic, 2 mm long, apex acute. Stamens 10, alternating-petals longer than the epipetalous ones in the bud; anthers oblong, 0.5 mm long, connective prolonged by a globular gland. Ovary glabrous at base, densely pubescent at apex.
+Inflorescence in terminal panicle of spikes. Axis reddish pubescent. Bracts short, tomentose externally, triangular, arched, apex acute. Floral bud ellipsoid fusiform. Flower ♢ sessile¹. Calyx with 5 sepals united, 1.5 mm long, upper margin dentate. Petals 5, free, pubescent appressed to ± hirsute on the upper 1/2 and base glabrous, elliptic, 2 mm long, apex acute. Stamens 10, alternipetalous longer than the epipetalous in the bud; anthers oblong, 0.5 mm long, connective prolonged by a globose gland. Ovary glabrous at the base, densely pubescent at the apex.
 
-Pod flat, glabrous, covered by a whitish pruina (often poorly visible); narrowly elliptic, 19–34 × 1.8–3 cm, base very attenuate to cuneiform with stipe 3–8.5 cm long; sutural margins in prominent ridges, oblique transverse venation prominent. Seed flat, winged, glossy brown, elliptic-oblong, 1.4–2 × 7.5–29 cm, base asymmetric, funicle long.
+Legume flat, glabrous, covered by a whitish bloom (often barely visible); narrowly elliptic, 19–34 × 1.8–3 cm, base very attenuate to cuneiform with stipe 3–8.5 cm long; sutural margins in prominent ridges, oblique transverse venation prominent. Seed flat, winged, shiny brown, elliptic oblong, 1.4–2 × 7.5–29 cm, base asymmetric, funicle long.
 
-Seedling puberulent to pubescent. Cotyledons epigeal remaining in the seed. Hypocotyl short. First internode 4.5–5.5 cm long. First two leaves opposite pinnately compound with 15–20 pairs of leaflets. Third leaf bipinnately compound with 1 pair of pinnae with 15–18 pairs of leaflets (According to GILBERT & BOUTIQUE, l.c.). Fig. 1, p. 56.
+Seedling puberulent to pubescent. Cotyledons epigeal remaining in the seed. Hypocotyl short. First internode 4.5–5.5 cm long. First two leaves opposite pinnately compound with 15–20 pairs of leaflets. Third leaf bipinnately compound with 1 pair of pinnae with 15–18 pairs of leaflets (After GILBERT & BOUTIQUE, l.c.). Fig. 1, p. 56.
 
 ## Type
 
@@ -34,9 +38,9 @@ Fleury in Chevalier 26559, Gabon, env. Diobomagola, sur Orimbo, affluent de l'Og
 
 ## Discussion
 
-The range of this tree encompasses Cameroon, Gabon, the Congo as well as a part of Zaïre (Lower Congo, Mayumbe, and extreme West of the Kasai). In Gabon, it is found in the western part of the country, scattered in secondary forests.
+The range of this tree encompasses Cameroon, Gabon, Congo, and part of Zaïre (Bas Congo, Mayumbe, and extreme West of Kasaï). In Gabon, it is found in the West of the country, scattered in secondary forests.
 
-1. The flowers observed being solely in bud, the dimensions given are only indicative.
+1. The flowers observed being only in bud, the dimensions given are only indicative.
 
 ## Vernacular names
 

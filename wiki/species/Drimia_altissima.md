@@ -7,6 +7,12 @@ family: Hyacinthaceae
 vol: 40
 pages: 30-30
 source: sources/Hyacinthaceae_vol40_liteparse
+countries: [Gabon, Kenya, Senegal]
+in_region: true
+subdivisions:
+  Gabon: [Nyanga]
+habitat: [rocky ground]
+altitude_m: "600"
 tags: [species, generated]
 ---
 # *Drimia altissima* (L.f.) Ker Gawl. Planche 6

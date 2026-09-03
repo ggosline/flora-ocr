@@ -7,6 +7,12 @@ family: Leguminosae
 vol: 49
 pages: 250-253
 source: sources/Millettiaspeciesfabaceae_vol49_liteparse
+countries: [Angola, Gabon, Guinea, Mali, Uganda]
+in_region: true
+subdivisions:
+  Gabon: [Haut-Ogooué]
+habit: "herb"
+altitude_m: "200–300"
 tags: [species, generated]
 ---
 # *Macrotyloma tenuiflorum* (Micheli) Verdc. Planche 85

@@ -7,6 +7,13 @@ family: Oleaceae
 vol: 51
 pages: 20-20
 source: sources/Oleaceae_vol51_liteparse
+countries: [Cameroon, Democratic Republic of the Congo, Equatorial Guinea, Gabon]
+in_region: true
+subdivisions:
+  Gabon: [Estuaire, Moyen-Ogooué, Ngounié, Nyanga, Ogooué-Ivindo, Ogooué-Lolo, Ogooué-Maritime, Woleu-Ntem]
+habit: "shrub"
+habitat: [mangrove, secondary forest, riverine, coastal]
+altitude_m: "0–1020"
 tags: [species, generated]
 ---
 # *Noronhia congesta* (Baker) Jongkind, comb. nov. Planche 6
@@ -40,7 +47,7 @@ This species is by far the most common Noronhia in Gabon. Stearn (1980) had redu
 
 ![Noronhia congesta](../sources/Oleaceae_vol51_liteparse/figures/fig_023_p0021.png)
 
-*Plate 6. Noronhia congesta : 1. Flowering branch (× ½). – 2. Flower (× 3). – C. Fruits (× 1). (1 : Evrard 4484 ; B : Louis 13278 ; C : Compère 1672 ). Drawing by D. Leyniers, Meise Botanical Garden (©).*
+*Plate 6. Noronhia congesta: 1. Flowering branch (× ½). – 2. Flower (× 3). – C. Fruits (× 1). (1: Evrard 4484; B: Louis 13278; C: Compère 1672). Drawing by D. Leyniers, Meise Botanical Garden (©).*
 
 ## Notes
 

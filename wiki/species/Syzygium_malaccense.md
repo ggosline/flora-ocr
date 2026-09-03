@@ -17,6 +17,7 @@ tags: [species, generated]
 
 ## Synonyms
 
+- Merrill et Perry, Journ. Arn. Arb. 19 : 215 (1938).
 - Eugenia malaccensis L., Spec. Plant. ed. 1:470 (1753).
 - Jambosa malaccensis (L.) DC., Prodr. III : 286 (1828).
 
@@ -24,7 +25,7 @@ tags: [species, generated]
 
 Tahitian Apple, Malayan Apple.
 
-This species, like the preceding one, is often cultivated in tropical countries for its edible fruits; both are native to tropical Asia. We have not seen any specimen from Gabon.
+This species as well as the preceding one is often cultivated in tropical countries for its edible fruits; both are native to tropical Asia. No specimen from Gabon has been seen by us.
 
 ## Notes
 

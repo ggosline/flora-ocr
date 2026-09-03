@@ -7,6 +7,13 @@ family: Cyperaceae
 vol: 44
 pages: 120-121
 source: sources/Cyperaceae_vol44_liteparse
+countries: [Gabon]
+in_region: true
+subdivisions:
+  Gabon: [Estuaire, Ogooué-Maritime]
+habit: "herb"
+habitat: [mangrove]
+altitude_m: "100"
 tags: [species, generated]
 ---
 # *Cyperus polystachyos* Rottb. Planche 76

@@ -7,6 +7,12 @@ family: Campanulaceae
 vol: 40
 pages: 18-19
 source: sources/Campanulaceae_vol40_liteparse
+countries: [Cameroon, Democratic Republic of the Congo, Gabon, Madagascar]
+in_region: true
+subdivisions:
+  Gabon: [Haut-Ogooué, Moyen-Ogooué, Ogooué-Ivindo, Ogooué-Maritime]
+habit: "herb"
+altitude_m: "100–640"
 tags: [species, generated]
 ---
 # *Wahlenbergia perrottetii* (A.DC.) Thulin Planche 3

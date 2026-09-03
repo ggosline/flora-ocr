@@ -48,7 +48,7 @@ Hutchinson (1912), Pax & Hoffmann (1922), Sosef et al. (2006)
 
 ![Drypetes verrucosa](../sources/Putranjivaceae_vol57_paddle/figures/fig_107_p0166.png)
 
-*Plate 54. Drypetes verrucosa : 1. Leafy branch. - 2. Infructescence ( $ \times\frac{1}{2} $). - 3. Fruit ( ×1). - 4, 5. Idem, longitudinal section ( ×1). - 6, Idem, transverse section ( ×1). - 7, Seed, ventral view ( $ \times2\frac{1}{2} $). - 8. Idem, lateral view ( $ \times2\frac{1}{2} $). (1-7: Klaine 2589). Drawing by E. Delpy, National Museum of Natural History, Paris (©), reproduced from an original engraving.*
+*Plate 54. Drypetes verrucosa: 1. Leafy branch. - 2. Infructescence (× ½). - 3. Fruit (× 1). - 4, 5. Idem, longitudinal section (× 1). - 6. Idem, transverse section (× 1). - 7. Seed, ventral view (× 2½). - 8. Idem, lateral view (× 2½). (1-7: Klaine 2589). Drawing by E. Delpy, National Museum of Natural History, Paris (©), reproduced from an original engraving.*
 
 ## Notes
 

@@ -7,6 +7,12 @@ family: Cyperaceae
 vol: 44
 pages: 21-22
 source: sources/Cyperaceae_vol44_liteparse
+countries: [Gabon]
+in_region: true
+subdivisions:
+  Gabon: [Moyen-Ogooué, Ogooué-Ivindo, Ogooué-Lolo]
+habit: "herb"
+altitude_m: "400"
 tags: [species, generated]
 ---
 # *Bulbostylis cioniana* (Savi) Lye Planche 7, Figure 2b

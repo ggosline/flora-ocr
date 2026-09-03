@@ -18,17 +18,18 @@ tags: [species, generated]
 **Family**: [[Pandaceae]]
 **Protologue**: Bull. Jard. Bot. Etat. Bruxelles 31 : 189 (1961)
 
+## Synonyms
+
+- Microdesmis puberula auct. non Hook. f. ex PLANCHON : PAX & K. HOFFMEISTER
+- Microdesmis zenkeri auct. non PAX : HUTCHINSON, FTA 6 (1) : 742 (1912), p.p.
+
 ## Description
 
-— Microdesmis puberula auct. non Hook. f. ex PLANCHON : PAX & K. HOFFMEISTER
+Shrub? Young branches weakly pubescent to glabrous most often. Stipules triangular with obtuse apex, pubescent at base and glabrous at apex or entirely pubescent, 1.5 mm long. Leaves with petiole 5-7 mm long, pubescent above and sparsely pubescent below, channeled on upper surface and wrinkled on lower surface; blade glabrous on both surfaces grayish-green or yellowish-green glossy above and green below when dry, elliptic, elliptic-oblong, 5.4-16.5 × 2.3-7 cm, base inequilateral attenuate or cuneate, lateral margins entire or dentate, apex acuminate obtuse mucronate. Midvein depressed above and prominent very sparsely pubescent below; secondary veins 5-6 pairs, the lower ones very ascending and the upper ones very strongly arched, anastomosing in arcades 1-2 mm from the blade margin, weakly prominent on upper surface and strongly prominent on lower surface. Tertiary veins in a loosely dense network weakly scalariform, little prominent above and prominent below.
 
-— Microdesmis zenkeri auct. non PAX : HUTCHINSON, FTA 6 (1) : 742 (1912), p.p.
+Inflorescences axillary or slightly supra-axillary in multiflowered fascicles. Floral bud globose with imbricate sepals and contorted petals, 2-2.5 mm in diameter. Pedicels sparsely pubescent to pubescent, 4.5-5 mm long. Flowers: sepals pubescent externally and glabrous internally, of variable shape, 1 mm long, apex acute; petals reflexed, shortly pubescent externally and glabrous internally, orbicular or very broadly elliptic, 2 × 1.5 mm, base barely unguiculate. Stamens 5, 1 × 0.5 mm, filaments obtriangular, fleshy, verrucose at the upper edge of the inner surface, 0.5 × 0.5 mm, strongly appressed against the base of the pistillode; anthers with 2 ellipsoid locules, connective claviform. Pistillode 1.75 mm long of which the atrophied ovary, entirely glabrous, emits fleshy lobes between the stamens; style conic grooved and glabrous. ♀ Flowers 3 mm long; sepals and petals similar to those of the ♂ flower; calyx strongly enlarged. Ovary superior, weakly conic or cylindric, 3 mm long, pubescent; style short with 3 digitate and papillose stigmas.
 
-Shrub? Young twigs weakly pubescent to glabrous most often. Stipules triangular with obtuse apex, pubescent at the base and glabrous at the apex or entirely pubescent, 1.5 mm long. Leaves with petiole 5-7 mm long, pubescent above and sparsely pubescent below, channeled on the upper surface and wrinkled on the lower surface; blade glabrous on both surfaces greyish-green or yellowish-green shiny above and green below when dry, elliptic, elliptic-oblong, 5.4-16.5 × 2.3-7 cm, inequilateral base attenuate or cuneiform, lateral margins entire or toothed, apex acuminate obtuse mucronate. Midvein depressed above and prominent very sparsely pubescent below; secondary veins 5-6 pairs, the lower ones very ascending and the upper ones very strongly arched, anastomosing in loops 1-2 mm from the blade margin, weakly prominent on the upper surface and strongly prominent on the lower surface. Veinlets in a not very dense network weakly scalariform, slightly prominent above and prominent below.
-
-Inflorescences axillary or slightly supra-axillary in multiflorous fascicles. Floral bud globose with imbricate sepals and contorted petals, 2-2.5 mm in diameter. Pedicels sparsely pubescent to pubescent, 4.5-5 mm long. Flowers: sepals pubescent externally and glabrous internally, of variable shape, 1 mm long, apex acute; petals reflexed, shortly pubescent externally and glabrous internally, orbicular or very broadly elliptic, 2 × 1.5 mm, base scarcely unguiculate. Stamens 5, 1 × 0.5 mm, filaments obtriangular, fleshy, verrucose on the upper edge of the inner face, 0.5 × 0.5 mm, strongly appressed against the base of the pistillode; anthers with 2 ellipsoid lobes, connective claviform. Pistillode 1.75 mm long of which the atrophied ovary, entirely glabrous, emits fleshy lobes between the stamens; style conical grooved and glabrous. ♀ Flowers 3 mm long; sepals and petals similar to those of the ♂ flower; calyx strongly enlarged. Ovary superior, weakly conical or cylindric, 3 mm long, pubescent; style short with 3 digitate papillose stigmas.
-
-Drupe three-seeded, ellipsoid, muriculate, verrucose, 8 × 6 mm; epicarp puberulent at its apical part; mesocarp fleshy; endocarp woody muriculate, apex marked only by ribs. Seed obtriangular. PL. 7, p. 29.
+Drupe three-seeded, ellipsoid, muricate, verrucose, 8 × 6 mm; epicarp puberulent at its apical part; mesocarp fleshy; endocarp woody muricate, apex marked only by ribs. Seed obtriangular. PL. 7, p. 29.
 
 ## Type
 

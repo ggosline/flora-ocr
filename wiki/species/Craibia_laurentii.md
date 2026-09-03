@@ -7,6 +7,13 @@ family: Leguminosae
 vol: 49
 pages: 87-88
 source: sources/Millettiaspeciesfabaceae_vol49_liteparse
+countries: [Cameroon, Democratic Republic of the Congo, Gabon, Kenya, Republic of the Congo, Sudan, Uganda]
+in_region: true
+subdivisions:
+  Gabon: [Ogooué-Ivindo]
+habit: "tree"
+habitat: [gallery forest]
+altitude_m: "180–200"
 tags: [species, generated]
 ---
 # *Craibia laurentii* (De Wild.) De Wild.

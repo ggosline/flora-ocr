@@ -7,6 +7,12 @@ family: Scrophulariaceae
 vol: 48
 pages: 139-139
 source: sources/Scrophulariaceae_vol48_liteparse
+countries: [Burundi, Cameroon, Central African Republic, Cote d'Ivoire, Democratic Republic of the Congo, Equatorial Guinea, Gabon, Ghana, Guinea, Guinea-Bissau, Madagascar, Nigeria, Republic of the Congo, Senegal, Sierra Leone, Uganda]
+in_region: true
+subdivisions:
+  Gabon: [Estuaire, Moyen-Ogooué, Nyanga, Ogooué-Maritime]
+habit: "herb"
+altitude_m: "0–160"
 tags: [species, generated]
 ---
 # *Torenia crustacea* (L) Cham. & Schltdl. Planche 45, 55(A–B)

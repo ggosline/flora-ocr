@@ -6,6 +6,12 @@ genus: Coleus
 vol: 58
 pages: 56-56
 source: sources/Labiataeulmaceaeverbenaceae_vol58_liteparse
+countries: [Equatorial Guinea, Gabon]
+in_region: true
+subdivisions:
+  Gabon: [Ogooué-Ivindo, Woleu-Ntem]
+habit: "herb"
+altitude_m: "500–750"
 tags: [species, generated]
 ---
 # *Coleus inselbergi* (B.J.Pollard & A.J.Paton) A.J.Paton Planche 12

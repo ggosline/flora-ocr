@@ -18,23 +18,22 @@ tags: [species, generated]
 **Family**: [[Leguminosae]]
 **Protologue**: BJBB 53 (3/4): 421, tab. 2 (1983)
 
-## Description
+## Synonyms
 
 - Adenanthera gilletii DE WILD., Ann. Mus. Congo b., Bot., sér. 5, 1: 249 (1906).
-
 - Adenanthera klainei Pierré ex Baker f., Legum. Trop. Afr. 3: 798 (1930).
+- Entada mannii auct. non (Oliv.) Tiss.: Raponda-Walker & Sillans, Pl. ut. Gabon : 242 (1961).
+- Newtonia griffoniana auct. non. (BAILL.) BAK. f.: TORRE, CFA 2 (2): 261 (1956).
 
-– Entada mannii auct. non (Oliv.) Tiss.: Raponda-Walker & Sillans, Pl. ut. Gabon : 242 (1961).
+## Description
 
-– Newtonia griffoniana auct. non. (BAILL.) BAK. f.: TORRE, CFA 2 (2): 261 (1956).
+Liane or sarmentose shrub. Young axes ± sparsely pubescent to glabrous. Old axes glabrous, black with sometimes lighter longitudinal bands on the dried state. Secondary ramifications in hooks ± voluble, short, always on the same side of the main axis. Stipule caducous, often with small gland on the base of the stipular scar. Petiole glabrous to very sparsely pubescent, or subglabrous to ± pubescent, 3.2–7.5 cm long, flat or channelled above. Rachis pubescent, (3.5–) 8.2–18 cm long, channelled, flat or weakly keeled above. Pinnae (3–) 5–8 pairs, oblong-elliptic. Axis of pinna pubescent to subglabrous, 5–13 cm long, ± strongly keeled above. Leaflets 11–16 pairs, with short petiolule ± 0.5 mm long. Blade glabrous above and appressed pubescent below (hardly observable), black, drab to dark brown above and light brown to greenish below on the dried state, oblong, oblong-elliptic (rarely slightly falcate), 1.35–2.3 × 0.35–1 cm, base very asymmetric: proximal margin attenuate subrounded, perpendicular to the axis of the pinna and distal margin attenuate parallel to the axis of the pinna, apex obtuse rounded, most often emarginate, with mucro normally reflexed toward the lower surface. Primary vein ± diagonal, concave to plane above and prominent pubescent below.
 
-Liane or sarmentose shrub. Young axes ± sparsely pubescent to glabrous. Mature axes glabrous, black with sometimes lighter longitudinal bands on the dried state. Secondary branches in hooks ± voluble, short, always on the same side of the main axis. Caducous stipule, often with small gland on the base of the stipular scar. Petiole glabrous to very sparsely pubescent, or subglabrous to ± pubescent, 3.2–7.5 cm long, flat or canaliculate above. Rachis pubescent, (3.5–) 8.2–18 cm long, canaliculate, flat or with weak keel above. Pinnae (3–) 5–8 pairs, oblong-elliptic. Pinna axis pubescent to subglabrous, 5–13 cm long, ± strongly keeled above. Leaflets 11–16 pairs, with short petiolule ± 0.5 mm long. Blade glabrous above and appressed-pubescent below (difficult to observe), black, dull to dark brown above and light brown to greenish below in the dried state, oblong, oblong-elliptic (rarely somewhat falcate), 1.35–2.3 × 0.35–1 cm, base very asymmetric: proximal margin attenuate subrounded, perpendicular to the pinna axis and distal margin attenuate parallel to the pinna axis, apex obtuse rounded, most often emarginate, with mucro normally reflexed toward the lower surface. Midvein ± diagonal, concave to plane above and prominent pubescent below.
+Secondary veins, 6–9 pairs, ascending, not arched, anastomosing in arcades, prominent on both surfaces. Veinlets in network with ± elongate loose meshes, prominent on both surfaces.
 
-Secondary veins 6–9 pairs, ascending, not arched, anastomosing in arcs, prominent on both surfaces. Veinlets in network with ± elongate loose meshes, prominent on both surfaces.
+Inflorescence in terminal or axillary panicle of solitary or fascicled racemes in pairs or triplets, reaching a length of 54 cm. Rachis of panicle ± pubescent. Rachis of raceme pubescent ribbed. Bracteole pubescent externally, very narrowly triangular, 1.5 mm long, with very acute apex. Pedicel pubescent, 0.5–1 mm long. Floral bud obovoid-oblong, filament of stamens folded and surrounding the ovary. Flower ±, white or yellowish white fragrant on fresh material. Sepals appressed pubescent externally, red on fresh material, ± 1.25 mm long; lobes triangular ± 0.5 mm long, apex acute to obtuse. Petals pubescent externally, yellow or yellowish white on living material, fleshy on fresh material, oblanceolate, 2.25–3 mm long, apex acute thickened. Stamens 3.5–4 mm long, ± free from each other; anther oblong, 0.5 mm long, with connective prolonged by a globose pedicellate caducous gland. Ovary substipitate, pubescent ± hirsute, 0.60–1 mm long, with 8–9 ovules; style 0.5 mm long.
 
-Inflorescence in terminal or axillary panicle of solitary or fascicled racemes by 2–3, reaching a length of 54 cm. Panicle rachis ± pubescent. Raceme rachis pubescent ribbed. Bractlet pubescent externally, very narrowly triangular, 1.5 mm long, with very acute apex. Pedicel pubescent, 0.5–1 mm long. Floral bud obovoid oblong, stamen filament folded and surrounding the ovary. Flower ±, white or yellowish-white fragrant when fresh. Sepals appressed-pubescent externally, red when fresh, ± 1.25 mm long; lobes triangular ± 0.5 mm long, apex acute to obtuse. Petals pubescent externally, yellow or yellowish-white in living state, fleshy when fresh, oblanceolate, 2.25–3 mm long, apex acute thickened. Stamens 3.5–4 mm long, ± free from each other; anther oblong, 0.5 mm long, with connective prolonged by a globose pedicellate caducous gland. Ovary substipitate, pubescent ± hirsute, 0.60–1 mm long, with 8–9 ovules; style 0.5 mm long.
-
-Legume woody, glabrous, black in the dried state, dehiscent by 2 slits, asymmetrically elliptic, 8 × 1.4 cm, base attenuate not stipitate, faces obliquely striated with sutural borders scarcely thickened, apex obtuse apiculate. - Pl. 17, p. 69.
+Pod woody, glabrous, black on the dried state, dehiscent by 2 slits, asymmetrically elliptic, 8 × 1.4 cm, base attenuate not stipitate, faces obliquely striated with sutura borders very little thickened, apex obtuse apiculate. — Pl. 17, p. 69.
 
 ## Type
 

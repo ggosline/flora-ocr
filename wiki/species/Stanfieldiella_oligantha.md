@@ -7,6 +7,13 @@ family: Commelinaceae
 vol: 55
 pages: 91-92
 source: sources/Commelinaceae_vol55_liteparse
+countries: [Cameroon, Cote d'Ivoire, Equatorial Guinea, Gabon, Ghana, Liberia, Nigeria, Togo]
+in_region: true
+subdivisions:
+  Gabon: [Ogooué-Lolo, Ogooué-Maritime, Woleu-Ntem]
+habit: "herb"
+habitat: [primary forest]
+altitude_m: "760"
 tags: [species, generated]
 ---
 # *Stanfieldiella oligantha* (Mildbr.) Brenan

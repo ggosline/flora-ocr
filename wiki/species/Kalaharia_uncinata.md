@@ -6,6 +6,12 @@ genus: Kalaharia
 vol: 58
 pages: 71-73
 source: sources/Labiataeulmaceaeverbenaceae_vol58_liteparse
+countries: [Angola, Democratic Republic of the Congo, Gabon]
+in_region: true
+subdivisions:
+  Gabon: [Haut-Ogooué]
+habit: "tree"
+altitude_m: "395–600"
 tags: [species, generated]
 ---
 # *Kalaharia uncinata* (Schinz) Moldenke Planche 16 ; Figure 4(E)

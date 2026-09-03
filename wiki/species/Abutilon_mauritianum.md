@@ -7,6 +7,12 @@ family: Malvaceae
 vol: 45
 pages: 58-60
 source: sources/Malvaceae_vol45_liteparse
+countries: [Gabon]
+in_region: true
+subdivisions:
+  Gabon: [Estuaire, Ogooué-Ivindo, Ogooué-Maritime]
+habit: "herb"
+altitude_m: "2000"
 tags: [species, generated]
 ---
 # *Abutilon mauritianum* (Jacq.) Medik. Planche 14

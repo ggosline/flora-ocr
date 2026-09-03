@@ -17,15 +17,17 @@ tags: [species, generated]
 **Family**: [[Orchidaceae]]
 **Protologue**: Beih. Bot. Centralbl. 36 : 108 (1918) ; FTWA : 264 (1968) ; FCAM 3 : 753 (2001). - BASIONYME : Angraecum ichneumoneum Lindl., J. Linn. Soc., Bot. 6 : 136 (1862). - TYPE : Mann s.n., Nigeria, holo-K!, iso-W-R!
 
+## Synonyms
+
+- Listrostachys ichneumonea (Lindl.) Rchb.f., Gard. Chron. 2 : 681 (1887).
+
 ## Description
 
-– Listrostachys ichneumonea (Lindl.) Rchb.f., Gard. Chron. 2 : 681 (1887).
-
-Stems < 20 cm. Leaves 17-50 × 2.5-4.5 cm, falcate-shaped, oblong-oblanceolate, flattened, unequally bilobed. Inflorescence 20-50 cm long, many-flowered. Flowers always 1 at each node of the inflorescence, small, white, cream or greenish-brown, fragrant especially during the night. Dorsal sepal oblong-elliptic, obtuse. Petals falcate-shaped, oblong. Lateral sepals obliquely obovate-oblong, obtuse. Labellum 5-6 × 3 mm, without callus, oblong or rectangular, shortly 3-lobed or at least 3-dentate at the apex, the median lobe triangular, the lateral lobes triangular, acute. Spur 13-18 mm, recurved, partly swollen ellipsoid-fusiform, 6-10 × 3 mm. – Pl. 200, p. 427.
+Stems < 20 cm. Leaves 17-50 × 2.5-4.5 cm, falcate, oblong-oblanceolate, flattened, unequally bilobed. Inflorescence 20-50 cm long, multiflorous. Flowers always 1 at each node of the inflorescence, small, white, cream or brownish-green, fragrant especially during the night. Dorsal sepal oblong-elliptic, obtuse. Petals falcate, oblong. Lateral sepals obliquely obovate-oblong, obtuse. Labellum 5-6 × 3 mm, without callus, oblong or rectangular, shortly 3-lobed or at least 3-dentate at the apex, the midlobe triangular, the lateral lobes triangular, acute. Spur 13-18 mm, curved, partly swollen ellipsoid-fusiform, 6-10 × 3 mm. – Pl. 200, p. 427.
 
 ## Distribution
 
-Sierra Leone, Liberia, Ghana, Nigeria, Cameroon, Gabon, Congo
+Sierra Leone, Liberia, Ghana, Nigeria, Cameroun, Gabon, Congo
 
 ## Ecology
 

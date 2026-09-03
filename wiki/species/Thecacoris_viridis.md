@@ -7,6 +7,13 @@ family: Phyllanthaceae
 vol: 43
 pages: 92-93
 source: sources/Phyllanthaceae_vol43_liteparse
+countries: [Cameroon, Democratic Republic of the Congo, Equatorial Guinea, Gabon, Nigeria, Republic of the Congo]
+in_region: true
+subdivisions:
+  Gabon: [Haut-Ogooué]
+habit: "shrub"
+habitat: [secondary forest]
+altitude_m: "0–500"
 tags: [species, generated]
 ---
 # *Thecacoris viridis* (Müll.Arg.) Leandri ex G.L.Webster

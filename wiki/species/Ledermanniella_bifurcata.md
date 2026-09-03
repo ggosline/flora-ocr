@@ -7,6 +7,11 @@ family: Podostemaceae
 vol: 51
 pages: 38-38
 source: sources/Podostemaceae_vol51_liteparse
+countries: [Cameroon, Gabon, Republic of the Congo]
+in_region: true
+subdivisions:
+  Gabon: [Estuaire, Ogooué-Lolo]
+altitude_m: "75–225"
 tags: [species, generated]
 ---
 # *Ledermanniella bifurcata* (Engl.) C.Cusset Planche 14

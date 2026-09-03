@@ -18,21 +18,21 @@ tags: [species, generated]
 **Family**: [[Melastomataceae]]
 **Protologue**: Bolm Soc. Brot., sér. 2, 28 : 70 (1954)
 
+## Synonyms
+
+- Osbeckia buraeavii Cogn., Mon. Phan. 8, Melast. : 335 (1891).
+- Osbeckia pauciramosa JACQ.-FÉL., Bull. Mus. natn. Hist. nat., Paris, sér. 2, 8 : 368, tab. 1 (1935). TYPE : Chevalier 27391, Congo.
+- Dissotis buraeavii var. pauciramosa (JACQ.-FÉL.) A. & R. FERN., Bolm Soc. Brot., sér. 2, 27 : 70 (1954).
+
 ## Description
 
-— Osbeckia buraeavii Cogn., Mon. Phan. 8, Melast. : 335 (1891).
+Corr. desc.: hypanthium sparsely setulose.
 
-— Osbeckia pauciramosa JACQ.-FÉL., Bull. Mus. natn. Hist. nat., Paris, sér. 2, 8 : 368, tab. 1 (1935). TYPE : Chevalier 27391, Congo.
+Hemicryptophytic shrub, erect, little or not branched; stems 0.50–0.70 m, slender, 4-angulate-acute, sparsely hairy, nodal setae longer and more robust. Leaves sessile, broadly inserted; lanceolate, apex obtuse, up to 1.5–2 × 6–7 cm; hairs scattered and appressed on the upper surface, longer, and especially on the veins, on the lower surface; 3-(5-)nerved.
 
-— Dissotis buraeavii var. pauciramosa (JACQ.-FÉL.) A. & R. FERN., Bolm Soc. Brot., sér. 2, 27 : 70 (1954).
+Terminal cymes sparsely flowered; the first ones at the axil of leafy nodes, then in terminal panicle; bracts very caducous, elliptic, membranaceous, enerved, glabrous but ciliate. Flowers with pedicel 1–2 mm; hypanthium sparsely setulose; sepals 2 × 6 mm, obtuse at the apex, glabrous on the back but ciliate; inter-sepaline emergences, lobuliform, 1–2 mm long, setaceous at their apex. Petals pink, obovate, 2 cm long. Stamens slightly unequal: the external ones slightly longer by the filament (7 mm) and the pedoconnective (1.5 mm); bipartite appendage, the lobes 1 mm long, subulate, those of the internal stamens more erect; anther 7–8 mm. Style 2 cm.
 
-Corr. desc. : hypanthium sparsely setulous.
-
-Shrub hemicryptophyte, erect, not or sparsely branched; stems 0.50 to 0.70 m, slender, 4-angulate-acute, sparsely hairy, nodal bristles longer and more robust. Leaves sessile, broadly inserted; lanceolate, apex obtuse, up to 1.5–2 × 6–7 cm; hairs scattered and appressed on the upper surface, longer, and especially on the veins, on the lower surface; 3–(5–)veined.
-
-Terminal cymes sparsely flowered; the first ones at the axil of leafy nodes, then in terminal panicle; bracts very caducous, elliptic, membranous, enevered, glabrous but ciliate. Flowers with pedicel 1 to 2 mm; hypanthium sparsely setulous; sepals 2 × 6 mm, obtuse at apex, glabrous on the back but ciliate; inter-sepaline emergences, lobuliform, 1 to 2 mm long, setaceous at their apex. Petals pink, obovate, 2 cm long. Stamens slightly unequal : the external ones slightly longer in the filament (7 mm) and the pedoconnective (1.5 mm); bipartite appendage, the lobes 1 mm long, subulate, those of the inner stamens more erect; anther 7–8 mm. Style 2 cm.
-
-Capsule oblong, 6 × 7 mm; sepals and inter-sepaline lobes caducous; ovary not or scarcely salient, setulous at the apex, with peristyle collar ± differentiated. — Pl. 5, fig. 1–5, p. 19.
+Capsule oblong, 6 × 7 mm; sepals and inter-sepaline lobes caducous; ovary not or scarcely protruding, setulose at the apex, with ± differentiated peristyle collar. — Pl. 5, fig. 1–5, p. 19.
 
 ## Type
 
@@ -78,7 +78,7 @@ fortement sinuée après la chute des sépales et des lobes intersépalaires; ca
 
 ## Discussion
 
-Heliophilous species of fresh soil at moderate altitude, excluded from forest biotopes. Does not appear in the collections of Gabon, but could exist in the Franceville region.
+Heliophilous species of fresh soils at medium altitude, excluded from forest biotopes. Does not appear in Gabon collections, but could exist in the Franceville region.
 
 ## Figures
 

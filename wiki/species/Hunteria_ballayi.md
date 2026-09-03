@@ -7,6 +7,7 @@ family: Apocynaceae
 vol: 59
 pages: 93-96
 source: sources/Apocynaceae_vol59_liteparse
+habit: "shrub"
 tags: [species, generated]
 ---
 # *Hunteria ballayi* Hua Planche 37 ; Figure 6(C)
@@ -45,7 +46,7 @@ Shrub, sometimes lianescent (?), reaching 5 m in height; wood very hard. Leaf: p
 
 ![Hunteria ballayi](../sources/Apocynaceae_vol59_liteparse/figures/fig_091_p0095.jpeg)
 
-*Plate 37 . Hunteria ballayi : 1. Flowering branch (× ½). – 2. Floral bud (× 2). – 3. Part of the open corolla, with stamens (× 4). – 4. Pistil (× 4). (1 : Le Testu 8558 ; 2-4 : van der Maesen et al. 5579 ). Drawing by Hans de Vries, Naturalis Biodiversity Center (©), reproduced from Omino (1996).*
+*Plate 37. Hunteria ballayi: 1. Flowering branch (× ½). – 2. Floral bud (× 2). – 3. Part of the open corolla, with stamens (× 4). – 4. Pistil (× 4). (1: Le Testu 8558; 2-4: van der Maesen et al. 5579). Drawing by Hans de Vries, Naturalis Biodiversity Center (©), reproduced from Omino (1996).*
 
 ## Notes
 

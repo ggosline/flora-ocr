@@ -7,6 +7,12 @@ family: Cyperaceae
 vol: 44
 pages: 31-32
 source: sources/Cyperaceae_vol44_liteparse
+countries: [Gabon, Guinea, Kenya]
+in_region: true
+subdivisions:
+  Gabon: [Ngounié, Ogooué-Ivindo]
+habit: "herb"
+altitude_m: "0–200"
 tags: [species, generated]
 ---
 # *Bulbostylis oritrephes* (Ridl.) C.B.Clarke Planche 14

@@ -7,6 +7,10 @@ family: Apiaceae
 vol: 38
 pages: 14-14
 source: sources/Apiaceae_vol38_liteparse
+countries: [Gabon]
+in_region: true
+habit: "herb"
+altitude_m: "360"
 tags: [species, generated]
 ---
 # *Centella asiatica* (L.) Urb.

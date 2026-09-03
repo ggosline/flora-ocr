@@ -6,6 +6,12 @@ genus: Rotheca
 vol: 58
 pages: 95-96
 source: sources/Labiataeulmaceaeverbenaceae_vol58_liteparse
+countries: [Angola, Burundi, Cameroon, Democratic Republic of the Congo, Gabon, Nigeria, Republic of the Congo]
+in_region: true
+subdivisions:
+  Gabon: [Haut-Ogooué, Woleu-Ntem]
+habit: "liana"
+altitude_m: "700"
 tags: [species, generated]
 ---
 # *Rotheca violacea* (Gürke) Verdc. subsp. violacea Figure 4(I)

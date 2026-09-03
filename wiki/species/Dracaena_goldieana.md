@@ -7,6 +7,13 @@ family: Dracaenaceae
 vol: 54
 pages: 34-35
 source: sources/Dracaenaceae_vol54_liteparse
+countries: [Cameroon, Democratic Republic of the Congo, Equatorial Guinea, Gabon, Nigeria]
+in_region: true
+subdivisions:
+  Gabon: [Estuaire, Moyen-Ogooué, Ogooué-Ivindo, Ogooué-Lolo]
+habit: "shrub"
+habitat: [rocky ground]
+altitude_m: "30–600"
 tags: [species, generated]
 ---
 # *Dracaena goldieana* Bullen ex Mast. & T.Moore Planche 11

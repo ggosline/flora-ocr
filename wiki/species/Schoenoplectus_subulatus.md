@@ -7,6 +7,12 @@ family: Cyperaceae
 vol: 44
 pages: 202-204
 source: sources/Cyperaceae_vol44_liteparse
+countries: [Gabon]
+in_region: true
+subdivisions:
+  Gabon: [Ogooué-Maritime]
+habit: "herb"
+altitude_m: "1900"
 tags: [species, generated]
 ---
 # *Schoenoplectus subulatus* (Vahl) Lye Planche 127

@@ -7,6 +7,13 @@ family: Leguminosae
 vol: 49
 pages: 255-256
 source: sources/Millettiaspeciesfabaceae_vol49_liteparse
+countries: [Angola, Cameroon, Gabon, Ghana, Malawi, Nigeria, Sudan, Tanzania, Zambia]
+in_region: true
+subdivisions:
+  Gabon: [Ogooué-Ivindo, Woleu-Ntem]
+habit: "herb"
+habitat: [savanna]
+altitude_m: "460–690"
 tags: [species, generated]
 ---
 # *Microcharis welwitschii* (Baker) Schrire

@@ -18,15 +18,17 @@ tags: [species, generated]
 **Family**: [[Leguminosae]]
 **Protologue**: FCB 3:215 (1952)
 
+## Synonyms
+
+- Piptadenia glandulifera PELLEGR., Légum. Gabon : 21 (1948).
+
 ## Description
 
-– Piptadenia glandulifera PELLEGR., Légum. Gabon : 21 (1948).
+Tree reaching a height of 40 m. Bole 20–25 m for a diameter of ± 1.50 m; with minor buttresses at the base. Rhytidome dark greyish-green, ± smooth, exfoliating. Inner bark reddish with white transverse veins; exuding a viscous sap. Young branchlets tomentellous ferruginous to glabrous. Older branchlets glabrous. Crown broadly flabellate. Petiole shortly pubérulent tomentellous to glabrescent, 1–1.5 cm long, dorsiventrally flattened strongly channelled above. Rachis with pubescence as above, 5–7.5 cm long, upper face channelled bearing a prominent gland at the insertion of the pinnae. Pinnae 4–5 pairs. Pinnule axis with pubescence as above, 3.5–7 cm long; upper face keeled or channelled, bearing glands at the insertion of the leaflets, sub-alate. Leaflets 6–14 pairs, sessile. Lamina glabrous; grey or greyish-black to blackish glossy to ± dull above and ± brown below when dry; rhombic, 1–1.9 × 0.4–0.9 cm; base asymmetric: proximal margin strongly rounded to subcordate and distal margin attenuate oblique; apex flat, very obtuse to obtuse, most often emarginate. Primary vein ± diagonal, rather strongly prominent on both surfaces, ± sparsely pubérulent to glabrous below. Secondary veins 7–14 pairs, ascending (± 70°), not arched, prominent on both surfaces. Tertiary veins in a rather moderately dense network; with meshes elongate ± parallel to the secondary veins; prominent on both surfaces.
 
-Tree reaching a height of 40 m. Bole 20–25 m long with a diameter of ± 1.50 m; with minor buttresses at the base. Rhytidome dark greyish-green, ± smooth, exfoliating. Bark section reddish with white transverse veins; exuding a viscous sap. Young branchlets ferrugineous tomentellous to glabrous. Older branchlets glabrous. Crown broad, flabellate. Petiole shortly puberulent tomentellous to glabrescent, 1–1.5 cm long, flattened dorsiventrically, strongly channelled above. Rachis with pubescence as above, 5–7.5 cm long, upper face channelled, bearing a prominent gland at the insertion of the pinnae. Pinnae 4–5 pairs. Pinnae axis with pubescence as above, 3.5–7 cm long; upper face carinate or channelled, bearing glands at the insertion of the leaflets, subalate. Leaflets 6–14 pairs, sessile. Limb glabrous; grey or grey-black to blackish, shiny to ± dull above and ± brown below when dry; rhombic, 1–1.9 × 0.4–0.9 cm; base asymmetric: proximal margin strongly rounded to subcordate and distal margin attenuate, oblique; apex flat, very obtuse to obtuse, most often emarginate. Main vein ± diagonal, fairly strongly prominent on both faces, ± sparsely puberulent to glabrous below. Secondary veins 7–14 pairs, ascending (± 70°), not arched, prominent on the faces. Veinlets in a moderately dense network; with meshes ± parallel to the secondary veins; prominent on both faces.
+Inflorescence a terminal panicle of spikes. Rachis densely tomentellous ferruginous. Bracteole tomentellous, triangular, 0.75 mm long, incurved, apex acute. Floral bud fusiform. Flower ♀, yellow and foul-smelling in the living plant, subsessile to short pedicel 0.5 mm long. Sepals connate pubérulent externally, 0.75–1 mm long. Petals pubérulent externally in the upper 1/2 and sparsely pubescent in the upper 1/2 except at the apex with dense tufts of ± hirsute hairs, narrowly elliptic, 4 mm long, reflexed at anthesis, apex acute. Stamens 10, connate with each other, filament 3–4.5 mm long, anther oblong with connectival lacking a gland. Intrastaminal disk present connate to the stamens. Pistil with stipe 0.75 mm long; ovary pubescent, oblong, with 7 ovules; style contorted, glabrous, 1.25 mm long.
 
-Inflorescence a terminal panicle of spikes. Rachis densely ferrugineous tomentellous. Bracteole tomentellous, triangular, 0.75 mm long, incurved, apex acute. Floral bud fusiform. Flower ♀, yellow and ill-scented on the living plant, subsessile to short pedicel 0.5 mm long. Sepals united, puberulent externally, 0.75–1 mm long. Petals puberulent externally in the upper 1/2 and sparsely pubescent in the upper 1/2 except at the apex with tufts of dense ± hirsute hairs, narrowly elliptic, 4 mm long, reflexed at anthesis, apex acute. Stamens 10, united to one another, filament 3–4.5 mm long, anther oblong, connective lacking a gland. Intrastaminal disc present, united to the stamens. Pistil with stipe 0.75 mm long; ovary pubescent, oblong, with 7 ovules; style contorted, glabrous, 1.25 mm long.
-
-Pod glabrous, hard, ± falcate, reaching a length of 50 cm; dense venation, base attenuate with stipe 0.3–1 cm long. Seeds alate, 7 × 1.7 cm. – Pl. 13, p. 53.
+Pod glabrous, hard, ± falciform, reaching a length of 50 cm; venation dense, base attenuate with stipe 0.3–1 cm long. Seeds winged, 7 × 1.7 cm. – Pl. 13, p. 53.
 
 ## Type
 
@@ -34,13 +36,13 @@ Le Testu 8823, Gabon, Mbigou, fl. 22.V.1931 (P!)
 
 ## Discussion
 
-This species, highly distinctive in its floral structure, is easily distinguished from other taxa of the genus.
+This species, very distinctive in its floral structure, is easily distinguished from the other taxa of the genus.
 
 The range of this plant extends from Gabon (Lastourville region), to Congo and Zaïre as far as Kasaï (Demba).
 
 ## Uses
 
-The wood has been exploited and traded abusively under the names Tali, Dabéma or Dousséi
+The wood has been exploited and marketed abusively under the names Tali, Dabéma or Dousséi
 
 ## Vernacular names
 

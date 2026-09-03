@@ -7,6 +7,12 @@ family: Scrophulariaceae
 vol: 48
 pages: 105-106
 source: sources/Scrophulariaceae_vol48_liteparse
+countries: [Cameroon, Democratic Republic of the Congo, Gabon, Nigeria, Republic of the Congo]
+in_region: true
+subdivisions:
+  Gabon: [Moyen-Ogooué]
+habit: "herb"
+altitude_m: "50"
 tags: [species, generated]
 ---
 # *Bacopa egensis* (Poepp. & Endl.) Pennell Planche 31

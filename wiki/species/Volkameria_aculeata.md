@@ -6,6 +6,12 @@ genus: Volkameria
 vol: 58
 pages: 116-117
 source: sources/Labiataeulmaceaeverbenaceae_vol58_liteparse
+countries: [Benin, Gabon, Gambia, Guinea, Guinea-Bissau, Mali, Togo]
+in_region: true
+subdivisions:
+  Gabon: [Estuaire]
+habit: "shrub"
+altitude_m: "1–10"
 tags: [species, generated]
 ---
 # *Volkameria aculeata* L.

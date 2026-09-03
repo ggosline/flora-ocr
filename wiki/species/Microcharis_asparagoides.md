@@ -7,6 +7,13 @@ family: Leguminosae
 vol: 49
 pages: 253-255
 source: sources/Millettiaspeciesfabaceae_vol49_liteparse
+countries: [Gabon, Kenya, Tanzania, Zambia]
+in_region: true
+subdivisions:
+  Gabon: [Ogooué-Ivindo]
+habit: "herb"
+habitat: [savanna]
+altitude_m: "500"
 tags: [species, generated]
 ---
 # *Microcharis asparagoides* (Taub.) Schrire Planche 86

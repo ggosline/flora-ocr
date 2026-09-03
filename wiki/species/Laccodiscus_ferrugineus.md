@@ -18,13 +18,15 @@ tags: [species, generated]
 **Family**: [[Sapindaceae]]
 **Protologue**: Sitzungsber. Bayer. Akad. Wiss. München 9 : 477 (1879)
 
+## Synonyms
+
+- Cupania ferruginea BAK., in OLIV., FTA : 425 (1868).
+
 ## Description
 
-— Cupania ferruginea BAK., in OLIV., FTA : 425 (1868).
+Erect shrub 2-3 m (RAYNAL, LETOUZEY), climbing shrub 5-6 m (MPOM, MANN) or tree 20 m (ANNET). Leaves 3-4-jugate; petiole and rachis hirsute, with hairs 1-2 mm reddish-brown; leaflets with 8-10 pairs of veins approaching the entire margin toward the base, the 4-5 upper ones terminating in a short tooth of approximately 1 mm.
 
-Erect shrub 2–3 m (RAYNAL, LETOUZEY), climbing shrub 5–6 m (MPOM, MANN) or tree 20 m (ANNET). Leaves 3–4-jugate; petiole and rachis hirsute, with hairs 1–2 mm rusty; leaflets with 8–10 pairs of veins approaching the entire margin towards the base, the upper 4–5 terminating in a short tooth of approximately 1 mm.
-
-Terminal inflorescence comprising an axis of c. 40 cm on which are inserted about ten branches of c. 20 cm, in a spiral of alternation 2/5, ultimately bearing subsessile cymules with bracts and bracteoles numbering 1–5 flowers; axes, bracts and calyces hirsute-villous with ferruginous hairs 1–2 mm; pedicels 2 mm, articulate at the top; buds 3 mm in diameter; sepals puberulent inside; petals entirely villous; disk in a crown with 5 thickenings; anthers apiculate, 3 times longer than wide, longer than the filament in the bud. Infructescences with stipitate cymules, 5–8 mm; possibly pedicels and calyces accrescent; calyx 12 mm in diameter for a fruit 15 mm. PL. 38, 8–17, p. 167.
+Terminal inflorescence comprising an axis of approximately 40 cm on which are inserted about ten branches of approximately 20 cm, in a 2/5 alternating spiral, bearing finally subsessile cymules with bracts and bracteoles comprising 1-5 flowers; axes, bracts and calyces hirsute-pilose with ferruginous hairs 1-2 mm; pedicels 2 mm, articulated above; buds 3 mm in diameter; sepals puberulent inside; petals entirely pilose; disk in crown form with 5 swellings; anthers apiculate, 3 times longer than wide, longer than the filament in the bud. Infructescences with stipitate cymules, 5-8 mm; perhaps pedicels and calyces accrescent; calyx 12 mm in diameter for a fruit 15 mm. PL. 38, 8-17, p. 167.
 
 ## Type
 

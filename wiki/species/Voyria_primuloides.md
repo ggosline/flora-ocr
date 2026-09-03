@@ -7,6 +7,12 @@ family: Gentianaceae
 vol: 54
 pages: 87-87
 source: sources/Gentianaceae_vol54_liteparse
+countries: [Cameroon, Cote d'Ivoire, Democratic Republic of the Congo, Gabon, Ghana, Liberia, Nigeria, Republic of the Congo]
+in_region: true
+subdivisions:
+  Gabon: [Estuaire, Moyen-Ogooué, Ngounié, Nyanga, Ogooué-Ivindo, Ogooué-Lolo, Ogooué-Maritime, Woleu-Ntem]
+habit: "herb"
+altitude_m: "1100"
 tags: [species, generated]
 ---
 # *Voyria primuloides* Baker Planche 29, Figure 7(E–G)

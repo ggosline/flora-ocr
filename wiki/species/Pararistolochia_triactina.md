@@ -7,6 +7,13 @@ family: Aristolochiaceae
 vol: 42
 pages: 21-24
 source: sources/Aristolochiaceae_vol42_liteparse
+countries: [Angola, Benin, Cameroon, Chad, Cote d'Ivoire, Gabon, Nigeria, Sudan, Uganda]
+in_region: true
+subdivisions:
+  Gabon: [Estuaire, Ngounié, Ogooué-Ivindo, Ogooué-Lolo, Ogooué-Maritime]
+habit: "liana"
+habitat: [savanna]
+altitude_m: "5–750"
 tags: [species, generated]
 ---
 # *Pararistolochia triactina* (Hook.f.) Hutch. & Dalziel Planche 6
@@ -39,7 +46,7 @@ Taxonomic note: In 2009, a specimen collected on the Mayombe hills bears flowers
 
 ![Pararistolochia triactina](../sources/Aristolochiaceae_vol42_liteparse/figures/fig_014_p0022.png)
 
-*Plate 6. Pararistolochia triactina. 1. Young leafy branch (× ½). – 2. Inflorescence (× ½). – 3. Utricle, posterior view showing the glands (× ½). – 4. Gynostemium (× 4). – 5. Fruit (× ½). Drawing by J. Lemeux, reproduced with permission from the National Museum of Natural History (©) from Poncy (1978).*
+*Plate 6. Pararistolochia triactina: 1. Young leafy branch (× ½). – 2. Inflorescence (× ½). – 3. Utricle, posterior view showing the glands (× ½). – 4. Gynostemium (× 4). – 5. Fruit (× ½). Drawing by J. Lemeux, reproduced with permission from the National Museum of Natural History (©) from Poncy (1978).*
 
 ![Pararistolochia triactina](../sources/Aristolochiaceae_vol42_liteparse/figures/fig_015_p0024.png)
 

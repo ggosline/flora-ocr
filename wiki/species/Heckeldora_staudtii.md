@@ -7,6 +7,13 @@ family: Meliaceae
 vol: 47
 pages: 35-37
 source: sources/Meliaceae_vol47_liteparse
+countries: [Cameroon, Democratic Republic of the Congo, Equatorial Guinea, Gabon, Nigeria, Republic of the Congo]
+in_region: true
+subdivisions:
+  Gabon: [Estuaire, Moyen-Ogooué, Ngounié, Ogooué-Ivindo, Ogooué-Maritime, Woleu-Ntem]
+habit: "shrub"
+habitat: [secondary forest, evergreen forest]
+altitude_m: "820"
 tags: [species, generated]
 ---
 # *Heckeldora staudtii* (Harms) Staner Planche 8(A–D)
@@ -37,7 +44,7 @@ Understory of evergreen and semi-deciduous rainforest, old secondary forest ; in
 
 ![Heckeldora staudtii](../sources/Meliaceae_vol47_liteparse/figures/fig_022_p0036.png)
 
-*Plate 8. Heckeldora staudtii : A. Functionally male flower, longitudinal section. – B. Functionally female flower, ditto. – C. Fruit. – D. Midvein of a leaflet, transverse section. – Heckeldora zenkeri : E. Leaf. – F. Male inflorescence ♂. – G. Functionally male flower ♂, longitudinal section. – H. Functionally female flower ♀, ditto. – I. Ovary, longitudinal section. – J. Fruit. – K. Ditto, opened. – L.*
+*Plate 8. Heckeldora staudtii: A. Functionally male flower, longitudinal section. – B. Functionally female flower, ditto. – C. Fruit. – D. Midvein of a leaflet, transverse section. – Heckeldora zenkeri: E. Leaf. – F. Male inflorescence ♂. – G. Functionally male flower ♂, longitudinal section. – H. Functionally female flower ♀, ditto. – I. Ovary, longitudinal section. – J. Fruit. – K. Ditto, opened. – L.*
 
 ## Notes
 

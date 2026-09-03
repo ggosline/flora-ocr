@@ -16,17 +16,18 @@ tags: [species, generated]
 **Family**: [[Bignoniaceae]]
 **Protologue**: Ann. Missouri Bot. Gard. 2: 48 (1915); GENTRY, Flora Venezuela 8 (4): 378 (1982)
 
-## Description
+## Synonyms
 
 - Raputia heterophylla DC., Prodr. 1: 734 (1824).
-
 - Tabebuia pallida (LINDL.) Miers sensu SANDWITH, Fl. Trinidad and Tobago 2: 324 (1954); GENTRY, Flora of Panama, Annals Miss. Bot. Garden 60 (3): 950 (1973); non Bignonia pallida LINDL.
 
-Shrub or small tree. Leaves 1–5-foliolate, leaflets elliptic to elliptic-oblong, obtuse, rounded at base, chartaceous, with prominent circular glands.
+## Description
 
-Inflorescence a terminal pauciflorous panicle, often reduced to 1 or 2 flowers. Flower with cupular, bilabiate calyx, with prominent circular glands. Corolla pinkish-lavender to almost white, throat yellow at anthesis, becoming white, tubular-funnelform. Stamens didynamous; anther-cells divaricate. Ovary with prominent circular glands; ovules biseriate in each locule.
+Shrub or small tree. Leaves 1–5-foliolate, leaflets elliptic to elliptic-oblong, obtuse, basally rounded, chartaceous, with prominent circular glands.
 
-Capsule linear-cylindric, attenuate at both ends, 7–15 cm long, with prominent circular glands; calyx persistent. Seeds two-winged, 7–9 mm long, 2–3 mm wide; wings hyaline membranous, clearly delimited from the seed body.
+Inflorescence a terminal pauciflorous panicle, often reduced to 1 or 2 flowers. Flower with cupular, bilabiate calyx, with prominent circular glands. Corolla pinkish-lavender to almost white, yellow throat at anthesis, becoming white, tubular infundibuliform. Stamens didynamous; thecae divaricate. Ovary with prominent circular glands; ovules biseriate in each locule.
+
+Capsule linear-cylindric, attenuate at both ends, 7–15 cm long, with prominent circular glands; calyx persistent. Seeds biwinged, 7–9 mm long, 2–3 mm wide; wings hyaline membranous, clearly demarcated from the seed body.
 
 Native to the West Indies, widely cultivated in tropical regions for its showy flowers.
 

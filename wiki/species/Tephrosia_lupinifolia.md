@@ -7,6 +7,13 @@ family: Leguminosae
 vol: 49
 pages: 361-361
 source: sources/Millettiaspeciesfabaceae_vol49_liteparse
+countries: [Angola, Gabon, Senegal, Sudan, Tanzania]
+in_region: true
+subdivisions:
+  Gabon: [Haut-Ogooué, Nyanga, Ogooué-Maritime]
+habit: "herb"
+habitat: [savanna]
+altitude_m: "15–800"
 tags: [species, generated]
 ---
 # *Tephrosia lupinifolia* DC. Planche 122

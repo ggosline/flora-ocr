@@ -7,6 +7,12 @@ family: Cyperaceae
 vol: 44
 pages: 62-62
 source: sources/Cyperaceae_vol44_liteparse
+countries: [Gabon]
+in_region: true
+subdivisions:
+  Gabon: [Moyen-Ogooué, Ogooué-Maritime]
+habit: "herb"
+altitude_m: "0–100"
 tags: [species, generated]
 ---
 # *Cyperus iria* L. Planche 35
@@ -25,7 +31,7 @@ Annual herb (or perhaps sometimes perennial), in tufts, with numerous short root
 
 ## Distribution
 
-pantropical and subtropical, widely distributed, very common in Asia; rare in Gabon or poorly known, found only in Moyen-Ogooué and Ogooué Maritime
+pantropical and subtropical, widely distributed, very common in Asia; rare in Gabon or poorly known, found only in Moyen-Ogooué and Ogooué-Maritime
 
 ## Ecology
 

@@ -7,6 +7,11 @@ family: Cyperaceae
 vol: 44
 pages: 188-188
 source: sources/Cyperaceae_vol44_liteparse
+countries: [Gabon]
+in_region: true
+subdivisions:
+  Gabon: [Estuaire, Nyanga, Ogooué-Maritime]
+habit: "herb"
 tags: [species, generated]
 ---
 # *Remirea maritima* Aubl. Planche 117

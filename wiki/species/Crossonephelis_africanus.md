@@ -18,13 +18,15 @@ tags: [species, generated]
 **Family**: [[Sapindaceae]]
 **Protologue**: Blumea 21 : 95 (1973)
 
+## Synonyms
+
+- Melanodiscus africanus RADLK., in DURAND, Ind. Gen. : 75 (1887); in ENGL., Pflanzenreich, Sapindaceae : 817 (1932); KEAY., FWTA, ed. 2, 1 : 720 (1958).
+
 ## Description
 
-— Melanodiscus africanus RADLK., in DURAND, Ind. Gen. : 75 (1887); in ENGL., Pflanzenreich, Sapindaceae : 817 (1932); KEAY., FWTA, ed. 2, 1 : 720 (1958).
+Tree 6 m tall; branchlets, rachis and inflorescences silky pubescent; blade densely pubescent beneath and above on the midvein.
 
-Tree 6 m tall; branchlets, rachis and inflorescences silky pubescent; lamina densely pubescent beneath and above on the midvein.
-
-Inflorescences terminal as well as the leaves; calyx 2.5 mm; stamens 7 mm.
+Inflorescences terminal, as are the leaves; calyx 2.5 mm; stamens 7 mm.
 
 ## Type
 

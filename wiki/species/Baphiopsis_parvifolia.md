@@ -7,6 +7,9 @@ family: Leguminosae
 vol: 15
 pages: 325-327
 source: sources/Leguminosae_vol15_paddle
+countries: [Cameroon, Gabon, Uganda]
+in_region: true
+habit: "tree"
 tags: [species, generated]
 ---
 # *Baphiopsis parvifolia* Benth. ex Bak.

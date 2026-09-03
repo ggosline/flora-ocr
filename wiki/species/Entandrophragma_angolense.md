@@ -7,6 +7,10 @@ family: Meliaceae
 vol: 47
 pages: 25-27
 source: sources/Meliaceae_vol47_liteparse
+countries: [Angola, Cameroon, Central African Republic, Cote d'Ivoire, Democratic Republic of the Congo, Equatorial Guinea, Gabon, Ghana, Guinea, Kenya, Liberia, Nigeria, Republic of the Congo, Sierra Leone, Sudan, Uganda]
+in_region: true
+habit: "tree"
+altitude_m: "500"
 tags: [species, generated]
 ---
 # *Entandrophragma angolense* (Welw.) C.DC. Planches 3(A–C),4, 5(A, B)

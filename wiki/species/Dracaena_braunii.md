@@ -7,6 +7,13 @@ family: Dracaenaceae
 vol: 54
 pages: 23-27
 source: sources/Dracaenaceae_vol54_liteparse
+countries: [Cameroon, Equatorial Guinea, Gabon, Republic of the Congo]
+in_region: true
+subdivisions:
+  Gabon: [Estuaire, Nyanga, Ogooué-Maritime]
+habit: "shrub"
+habitat: [mangrove, savanna, coastal]
+altitude_m: "0–20"
 tags: [species, generated]
 ---
 # *Dracaena braunii* Engl. Planche 6, Figure 2(A)
@@ -41,7 +48,7 @@ A B C D Leeuwenberg, Naturalis Biodiversity Center © ; D by Ehoarn Bidault).
 
 ![Dracaena braunii](../sources/Dracaenaceae_vol54_liteparse/figures/fig_019_p0025.png)
 
-*Plate 6. Dracaena braunii : 1. General appearance. – 2. Part of inflorescence. – 3. Part of infrutescence.*
+*Plate 6. Dracaena braunii: 1. General appearance. – 2. Part of inflorescence. – 3. Part of infructescence.*
 
 ![Dracaena braunii](../sources/Dracaenaceae_vol54_liteparse/figures/fig_020_p0026.jpeg)
 

@@ -7,7 +7,7 @@ family: Orchidaceae
 vol: 36
 pages: 123-124
 source: sources/Orchidaceae_vol36_paddle
-countries: [Cameroon, Gabon, Kenya, Malawi, Tanzania, Uganda, Zambia]
+countries: [Cameroon, Gabon, Malawi, Tanzania, Uganda, Zambia]
 in_region: true
 tags: [species, generated]
 ---
@@ -17,21 +17,23 @@ tags: [species, generated]
 **Family**: [[Orchidaceae]]
 **Protologue**: Bot. Jahrb. Syst. 38 : 151 (1906)
 
+## Synonyms
+
+- Liparis odontochilos Summerh., Bot. Mus. Le afl., Harvard Univ. 14 : 226 (1951).
+
 ## Description
 
-– Liparis odontochilos Summerh., Bot. Mus. Leaf., Harvard Univ. 14 : 226 (1951).
-
-Rhizome creeping. Pseudobulbs spaced 4-12 cm apart, measuring 3-4 × 0.4 cm, narrowly conical to conical-fusiform. Leaves sessile, 5-12 × 1.5-3 cm, oblong-lanceolate to ovate-lanceolate, acute. Inflorescence < 12 cm, 2-10-flowered. Flowers cream or greenish-yellow to light and dark purplish-red. Dorsal sepal glabrous, oblong-lanceolate, obtuse, base auriculate, margins revolute; lateral sepals oblong-elliptic, falcate, obtuse, connate at the basal third. Petals linear, obtuse to acute, margins revolute. Lip transverse-elliptic to obreniform, rather thick and fleshy, margins crenulate to irregularly denticulate, flabellate, apicule scarcely visible, basal auricles of the lip short but prominent. – Pl. 58, p. 121.
+Creeping rhizome. Pseudobulbs spaced 4-12 cm apart, measuring 3-4 × 0.4 cm, narrowly conical to conical-fusiform. Leaves sessile, 5-12 × 1.5-3 cm, oblong-lanceolate to ovate-lanceolate, acute. Inflorescence < 12 cm, 2-10-flowered. Flowers cream or yellow-green to light and dark purple-reddish. Dorsal sepal glabrous, oblong-lanceolate, obtuse, base auriculate, margins revolute; lateral sepals oblong-elliptic, falcate, obtuse, connate in the basal 1/3. Petals linear, obtuse to acute, margins revolute. Lip transversely elliptic to obreniform, rather thick and fleshy, margins crenulate to irregularly denticulate, flabellate, apicula scarcely visible, basal auricles of the lip short but prominent. – Pl. 58, p. 121.
 
 Although recorded from Gabon according to the literature (FTEA 1984 : 299), we found no specimen of this species.
 
 ## Distribution
 
-Cameroon, Gabon, Congo (Kinshasa), Ethiopia, Uganda, Kenya, Tanzania, Zambia, Malawi
+Cameroun, Gabon, Congo (Kinshasa), Éthiopie, Ouganda, Kanya, Tanzanie, Zambie, Malawi
 
 ## Ecology
 
-alt. 1700-3200 m. Herbaceous terrestrial or epiphytic, in moss and decomposed leaves, on rock and fallen tree, in shade near river
+alt. 1700-3200 m. Terrestrial or epiphytic herb, in moss and decomposed leaves, on rock and fallen tree, in shade near stream
 
 ## Figures
 

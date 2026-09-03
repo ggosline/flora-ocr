@@ -7,6 +7,11 @@ family: Podostemaceae
 vol: 51
 pages: 32-35
 source: sources/Podostemaceae_vol51_liteparse
+countries: [Angola, Cameroon, Cote d'Ivoire, Democratic Republic of the Congo, Gabon, Guinea, Sierra Leone]
+in_region: true
+subdivisions:
+  Gabon: [Ogooué-Lolo]
+altitude_m: "400"
 tags: [species, generated]
 ---
 # *Inversodicraea ledermannii* (Engl.) Engl. Planche 11(4–6)

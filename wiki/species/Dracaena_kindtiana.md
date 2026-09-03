@@ -7,6 +7,12 @@ family: Dracaenaceae
 vol: 54
 pages: 39-39
 source: sources/Dracaenaceae_vol54_liteparse
+countries: [Angola, Cameroon, Central African Republic, Democratic Republic of the Congo, Gabon, Nigeria, Republic of the Congo, Uganda]
+in_region: true
+subdivisions:
+  Gabon: [Ngounié, Ogooué-Ivindo]
+habit: "shrub"
+altitude_m: "150–650"
 tags: [species, generated]
 ---
 # *Dracaena kindtiana* De Wild. Planche 13

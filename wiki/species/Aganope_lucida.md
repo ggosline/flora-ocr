@@ -7,6 +7,13 @@ family: Leguminosae
 vol: 49
 pages: 33-34
 source: sources/Millettiaspeciesfabaceae_vol49_liteparse
+countries: [Angola, Cameroon, Cote d'Ivoire, Gabon]
+in_region: true
+subdivisions:
+  Gabon: [Estuaire, Ngounié]
+habit: "liana"
+habitat: [secondary forest, riverine]
+altitude_m: "200–470"
 tags: [species, generated]
 ---
 # *Aganope lucida* (Welw. ex Baker) Polhill

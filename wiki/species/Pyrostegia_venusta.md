@@ -16,19 +16,21 @@ tags: [species, generated]
 **Family**: [[Bignoniaceae]]
 **Protologue**: Proc. Roy. Hort. Soc. 3: 188 (1863); GENTRY, Ann. Missouri Bot. Gard. 60: 918 (1973); Fl. Cam. 27: 56, tab. 16, fig. 3 (1984)
 
-## Description
+## Synonyms
 
 - Bignonia venusta KER., Bot. Reg. 3: tab. 249 (1818).
 
-Liane. Branchlets somewhat angular, pulverulent, without glandular interpetiolar spaces. Leaves 2–3 foliolate, sometimes with a trifid tendril; leaflets ovate, acute, basally rounded, 4–6 × 2.5–4 cm, squamose to ± puberulent.
+## Description
 
-Inflorescences in relatively dense terminal panicle. Calyx cupular, subtrunate to 5-denticululate, scattered squamose, margin densely ciliate. Corolla red-orange, tubular, lobes narrow, valvate in bud, 5.5–6.5 cm long, 0.9–1.1 cm wide at the tube opening, lobes 1–1.5 cm long, tube glabrous externally, lobes visibly puberulent on the margin and somewhat toward the interior, tube pubescent inside toward and below the insertion of the stamens. Stamens exserted; anthers pendulous, weakly divergent, approximately 4 mm long; filaments 3.5–4 cm long. Pistil 4.8–5.1 cm long; ovary linear, squamose, 4 mm long, 1 mm wide; ovules biseriate in each locule. Disc cupular, pulvinate.
+Liana. Branchlets somewhat angular, pulverulent, without glandular interpetiolary spaces. Leaves 2–3 foliolate, sometimes with a trifid tendril; leaflets ovate, acute, basally rounded, 4–6 × 2.5–4 cm, squamose to ± puberulent.
 
-Capsule linear, acute at both ends, 25–20 cm long, 1.4–1.6 cm wide, midvein weakly salient. Seeds thin, two-winged, 1.2–1.4 cm long, 4–4.5 cm wide, wings brown with a hyaline apex. — Pl. 11, fig. 3, p. 47.
+Inflorescences in a relatively dense terminal panicle. Calyx cupular, subtruncate to 5-denticulate, scattered squamose, margin densely ciliate. Corolla red-orange, tubular, lobes narrow, valvate in bud, 5.5–6.5 cm long, 0.9–1.1 cm wide at the tube opening, lobes 1–1.5 cm long, tube glabrous externally, lobes noticeably puberulent on the margin and somewhat toward the interior, tube pubescent internally toward and below the insertion of the stamens. Stamens exserted; thecae pendulous, weakly divergent, approximately 4 mm long; filaments 3.5–4 cm long. Pistil 4.8–5.1 cm long; ovary linear, squamose, 4 mm long, 1 mm wide; ovules biseriate in each locule. Disc cupular, pulvinate.
 
-Native to South America, from Brazil to northern Argentina; widely cultivated in tropical regions for its attractive flame-colored flowers.
+Capsule linear, acute at both ends, 25–20 cm long, 1.4–1.6 cm wide, midvein weakly prominent. Seeds thin, biwinged, 1.2–1.4 cm long, 4–4.5 cm wide, wings brown with a hyaline apex. – Pl. 11, fig. 3, p. 47.
 
-No specimen from Gabon has been observed; however, it is possible that it exists there; it is cultivated in neighboring Cameroon and elsewhere in tropical Africa.
+Native to South America, from Brazil to northern Argentina; widely cultivated in tropical regions for its attractive flowers of the color of flames.
+
+No specimen from Gabon has been observed; it is nevertheless possible that it exists there; it is cultivated in neighboring Cameroon and elsewhere in tropical Africa.
 
 ## Figures
 

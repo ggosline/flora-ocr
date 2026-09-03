@@ -7,7 +7,7 @@ family: Sapindaceae
 vol: 23
 pages: 193-196
 source: sources/Sapindaceae_vol23_paddle
-countries: [Cameroon, Central African Republic, Democratic Republic of the Congo, Gabon]
+countries: [Cameroon, Democratic Republic of the Congo, Gabon]
 in_region: true
 habit: "tree"
 tags: [species, generated]
@@ -18,17 +18,16 @@ tags: [species, generated]
 **Family**: [[Sapindaceae]]
 **Protologue**: Fl. Congo 9:363 (1960)
 
+## Synonyms
+
+- Pseudospondias gigantea Chev., Vég. Ut. Afr. Trop. Fr. 9 : 151 (1917).
+- Ganophyllum africanum MilDBR., Not. Bot. Gart. Mus. Berlin 8:708 (1924).
+
 ## Description
 
-— Pseudospondias gigantea Chev., Vég. Ut. Afr. Trop. Fr. 9 : 151 (1917).
+Tall tree, 25–40 m, 0.8–1.20 m in diameter with a bole of 10–25 m; buttresses ± prominent at the base; rhytidome reddish-brown exfoliating in irregular plates; bark 5 mm thick showing on the cut surface orange fibres; sap sticky with odour of methyl salicylate (LETOUZEY); sapwood yellow or yellowish; wood cream-coloured yellowish firm, dense (d = 0.821, CHEVALIER). Leaves glossy-resinous.
 
-— Ganophyllum africanum MilDBR., Not. Bot. Gart. Mus. Berlin 8:708 (1924).
-
-Tall tree, 25–40 m, 0.8–1.20 m in diameter with a bole of 10–25 m; buttresses ± prominent at the base; rhytidome reddish brown exfoliating in irregular plates; bark 5 mm thick showing on the cut
-
-orange fibers; sticky sap with odor of methyl salicylate (LETOUZEY); sapwood yellow or yellowish; wood yellowish white firm, dense (d = 0.821, CHEVALIER). Leaves shiny-resinous.
-
-Branched inflorescences of 15–30 cm. Flowers with pedicels swollen with minute glands forming rounded warts (0.1 mm) beneath the epidermis. The fruits black in the herbarium, are reported as edible by collectors, without specifying whether it is the pericarp or the embryo. PL. 44, 1-4", p. 193.
+Inflorescences branched 15–30 cm. Flowers with pedicels swollen with minute glands forming rounded verrucae (0.1 mm) beneath the epidermis. The fruits black in herbarium, are reported edible by collectors, without specifying whether the pericarp or embryo is meant. PL. 44, 1–4", p. 193.
 
 ## Type
 
@@ -36,7 +35,7 @@ Mildbraed 8797, 9229, Cameroun
 
 ## Discussion
 
-Species recognized in Cameroon, in the Central African Republic, in Gabon and in Zaïre (Donis 2257, etc...).
+Species recognized in Cameroon, in République Centrafricaine, in Gabon and in Zaïre (Donis 2257, etc...).
 
 ## Vernacular names
 

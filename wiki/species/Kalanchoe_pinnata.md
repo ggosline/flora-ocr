@@ -7,6 +7,11 @@ family: Crassulaceae
 vol: 41
 pages: 37-41
 source: sources/Crassulaceae_vol41_liteparse
+countries: [Gabon]
+in_region: true
+habit: "herb"
+habitat: [rocky ground]
+altitude_m: "1600"
 tags: [species, generated]
 ---
 # *Kalanchoe pinnata* (Lam.) Pers. Planche 9

@@ -7,6 +7,13 @@ family: Leguminosae
 vol: 49
 pages: 351-351
 source: sources/Millettiaspeciesfabaceae_vol49_liteparse
+countries: [Gabon, Malawi]
+in_region: true
+subdivisions:
+  Gabon: [Haut-Ogooué, Ngounié]
+habit: "herb"
+habitat: [savanna]
+altitude_m: "430–640"
 tags: [species, generated]
 ---
 # *Sphenostylis stenocarpa* (Hochst. ex A.Rich.) Harms Planche 118

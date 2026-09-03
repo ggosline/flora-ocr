@@ -7,6 +7,10 @@ family: Leguminosae
 vol: 49
 pages: 259-261
 source: sources/Millettiaspeciesfabaceae_vol49_liteparse
+countries: [Angola, Cameroon, Central African Republic, Cote d'Ivoire, Democratic Republic of the Congo, Equatorial Guinea, Gabon, Ghana, Guinea, Guinea-Bissau, Liberia, Nigeria, Republic of the Congo, Sierra Leone]
+in_region: true
+habit: "liana"
+altitude_m: "0–480"
 tags: [species, generated]
 ---
 # *Millettia barteri* (Benth.) Dunn Planche 87

@@ -7,7 +7,7 @@ family: Orchidaceae
 vol: 37
 pages: 53-55
 source: sources/Orchidaceae_vol37_paddle
-countries: [Angola, Cameroon, Central African Republic, Cote d'Ivoire, Democratic Republic of the Congo, Gabon, Ghana, Liberia, Nigeria, Uganda]
+countries: [Angola, Cameroon, Cote d'Ivoire, Democratic Republic of the Congo, Gabon, Ghana, Liberia, Nigeria, Uganda]
 in_region: true
 habitat: [riverine]
 tags: [species, generated]
@@ -18,25 +18,25 @@ tags: [species, generated]
 **Family**: [[Orchidaceae]]
 **Protologue**: Not. Pl. Util. Inter Fl. Congo 1 : 139 (1903)
 
+## Synonyms
+
+- Polystachya huyghei De Wild., Le Congo 1: 5 (1904).
+- Polystachya plehniana Schltr., Bot. Jahrb. Syst. 38 : 8 (1905).
+- Polystachya dorotheae Rendle, Cat. PL. Talbot : 103 (1913).
+
 ## Description
 
-– Polystachya huyghei De Wild., Le Congo 1: 5 (1904).
-
-– Polystachya plehniana Schltr., Bot. Jahrb. Syst. 38 : 8 (1905).
-
-– Polystachya dorotheae Rendle, Cat. PL. Talbot : 103 (1913).
-
-Pseudobulbs 1.5–2.5 × 0.5–1 cm. Leaves 12–33 × 1–3.5 cm, ligulate. Inflorescence 10–45 cm, 50–200-flowered. Flowers greenish-brown spotted with violet, labellum pale greenish-yellow. Petals linear, acute. Lateral sepals obliquely triangular-ovate, acuminate. Labellum sparsely pubescent on the upper surface, obscurely trilobed at the apex, central callus oblong, pubescent, with another at the apex of the median lobe; median lobe transversely elliptic, convex, briefly apiculate, margins undulate-crenate; lateral lobes longer than the median, oblong-ovate, falcate. Spur conical-saccate. Pl. 123, p. 281.
+Pseudobulbs 1.5–2.5 × 0.5–1 cm. Leaves 12–33 × 1–3.5 cm, ligulate. Inflorescence 10–45 cm, 50–200-flowered. Flowers greenish-brown spotted with violet, labellum pale yellow-green. Petals linear, acute. Lateral sepals obliquely triangular-ovate, acuminate. Labellum sparsely pubescent on the upper surface, obscurely trilobed at the apex, central callus oblong, pubescent, with another at the apex of the median lobe; median lobe transversely elliptic, convex, briefly apiculate, margins undulate-crenate; lateral lobes longer than the median, oblong-ovate, falcate. Spur conic-saccate. Pl. 123, p. 281.
 
 ## Distribution
 
-Liberia, Ivory Coast, Ghana, Nigeria, Cameroon, Gabon, Angola, Central African Republic, Zaire, Uganda
+Liberia, Côte d'Ivoire, Ghana, Nigeria, Cameroun, Gabon, Angola, République centrafricaine, Zaïre, Ouganda
 
 ## Ecology
 
-epiphytic on tree trunks and large branches in riparian forest and humid forest
+epiphyte on tree trunk and large branch in riparian forest and humid forest
 
-MATERIAL STUDIED (Map 54) :
+MATERIAL STUDIED (Map 54):
 
 Hallé 2092, above Lake Ezanga (fl. May), P!.
 

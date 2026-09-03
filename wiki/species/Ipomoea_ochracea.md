@@ -7,6 +7,12 @@ family: Convolvulaceae
 vol: 46
 pages: 45-47
 source: sources/Convolvulaceae_vol46_liteparse
+countries: [Gabon, Madagascar]
+in_region: true
+subdivisions:
+  Gabon: [Estuaire, Ogooué-Lolo, Ogooué-Maritime]
+habit: "herb"
+altitude_m: "0–500"
 tags: [species, generated]
 ---
 # *Ipomoea ochracea* (Lindl.) G.Don Planche 18

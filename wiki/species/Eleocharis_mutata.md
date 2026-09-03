@@ -7,6 +7,13 @@ family: Cyperaceae
 vol: 44
 pages: 133-134
 source: sources/Cyperaceae_vol44_liteparse
+countries: [Gabon]
+in_region: true
+subdivisions:
+  Gabon: [Estuaire, Ogooué-Maritime]
+habit: "herb"
+habitat: [mangrove]
+altitude_m: "1000"
 tags: [species, generated]
 ---
 # *Eleocharis mutata* (L.) Roem. & Schult. Planche 84
@@ -35,7 +42,7 @@ In mangroves or marshes of fresh or brackish water; in Gabon, at sea level or at
 
 ![Eleocharis mutata](../sources/Cyperaceae_vol44_liteparse/figures/fig_109_p0133.png)
 
-*Plate 83 . Eleocharis geniculata . A. Plant. Plate 84 . Eleocharis mutata . A. Plant. – B. Base – B. Top of the leaf sheath. – C. Young spikelet. and top of the spikelet. – C. Base of the spikelet. – D. – D. Mature spikelet. – E. Glume. – F. Flower. – G. Glume. – E. Fruit with style, filaments and segments of the*
+*Plate 83. Eleocharis geniculata. A. Plant. Plate 84. Eleocharis mutata. A. Plant. – B. Base – B. Top of the leaf sheath. – C. Young spikelet. and top of the spikelet. – C. Base of the spikelet. – D. – D. Mature spikelet. – E. Glume. – F. Flower. – G. Glume. – E. Fruit with style, filaments and segments of the*
 
 ## Notes
 

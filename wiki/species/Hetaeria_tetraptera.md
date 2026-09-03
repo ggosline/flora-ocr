@@ -17,17 +17,18 @@ tags: [species, generated]
 **Family**: [[Orchidaceae]]
 **Protologue**: Kew Bull. 5 : 207 (1934) ; FTWA : 210 (1968) ; FAC 1 : 19, tab. 3 (1984) ; FCAM 1 : 264 (1998)
 
+## Synonyms
+
+- Zeuxine batesii Rolfe, FTA 7 : 182 (1897).
+- Zeuxine tetraptera (Rchb.f.) Geerinck, BJBB 50 : 122, fig. 2 (1980).
+
 ## Description
 
-– Zeuxine batesii Rolfe, FTA 7 : 182 (1897).
-
-– Zeuxine tetraptera (Rchb.f.) Geerinck, BJBB 50 : 122, fig. 2 (1980).
-
-Stem 20–30 cm, glands scattered above the leaves and dense along the inflorescence. Leaves clustered on the lower part of the stem, 5–10 × 0.2–0.5 cm, obliquely elliptic to ovate, acuminate. Inflorescence 5–8 cm, a few white flowers, greenish on the outside. Dorsal sepal narrowly ovate-lanceolate, subobtuse, lateral sepals obliquely ovate, subacute. Petals linear, obtuse. Lip sessile, contracted near the apex: hypochile sometimes deeply sacciform at the base with a few rare digitate processes on the inner surface, scarcely marked and thickened above and bearing dense cilia on the outer side; epichile with 2 reflexed lobes, ribbonlike, rounded and finely dentate at the apex – Pl. 34, p. 75.
+Stem 20–30 cm, glands scattered above the leaves and dense along the inflorescence. Leaves clustered on the lower part of the stem, 5–10 × 0.2–0.5 cm, obliquely elliptic to ovate, acuminate. Inflorescence 5–8 cm, a few white flowers, greenish on the outside. Dorsal sepal narrowly ovate-lanceolate, subobtuse, lateral sepals obliquely ovate, subacute. Petals linear, obtuse. Lip sessile, contracted near the apex: hypochile sometimes deeply sacciform at the base with a few rare digitate processes on the internal face, slightly marked and thickened above and provided with dense cilia on the external side; epichile with 2 reflexed lobes, ribbonlike, rounded and finely toothed at the apex — Pl. 34, p. 75.
 
 ## Distribution
 
-Nigeria, Cameroon, Gabon, Congo (Kinshasa)
+Nigeria, Cameroun, Gabon, Congo (Kinshasa)
 
 ## Ecology
 
@@ -35,13 +36,13 @@ in forest on waterlogged soil
 
 MATERIAL EXAMINED (Map 12):
 
-Mann 1701, Cristal Mountains, K!.
+Mann 1701, Monts de Cristal, K!.
 
 III. MANNIELLINAE Schltr.
 
 Notizbl. Bot. Gart. Mus. Berlin Dahlem 9 : 572 (1926).
 
-Roots dense in spirals along a relatively long rhizome. Leaves forming a basal rosette. Flowers resupinate. Lip adorned with two fleshy basal lobules. Gynostemium elongate, inclined forward, apex shortly swollen. Clinandrium well developed, stretched between the filament and style below the stigma, almost entirely concealing the anther. Stigma entire, oval. Rostellum rudimentary, obtuse. Hamulus and tegula absent. Viscidium minute, detachable.
+Roots dense in a spiral along a relatively long rhizome. Leaves forming a basal rosette. Flowers resupinate. Lip ornamented with two fleshy basal lobules. Gynostemium elongate, bent forward, apex shortly swollen. Clinandrium well developed, stretched between the filament and the style below the stigma, almost entirely concealing the anther. Stigma entire, oval. Rostellum rudimentary, obtuse. Hamulus and tegula absent. Viscidium minute, detachable.
 
 Monotypic subtribe.
 

@@ -7,6 +7,12 @@ family: Dracaenaceae
 vol: 54
 pages: 51-53
 source: sources/Dracaenaceae_vol54_liteparse
+countries: [Cameroon, Cote d'Ivoire, Equatorial Guinea, Gabon, Ghana, Guinea, Liberia, Nigeria]
+in_region: true
+subdivisions:
+  Gabon: [Estuaire, Ogooué-Maritime]
+habit: "shrub"
+altitude_m: "0–150"
 tags: [species, generated]
 ---
 # *Dracaena phrynioides* Hook. Planche 18, Figure 4(E)

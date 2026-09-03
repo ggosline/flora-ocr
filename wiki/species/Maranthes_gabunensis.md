@@ -9,6 +9,7 @@ pages: 107-110
 source: sources/Chrysobalanaceae_vol24_paddle
 countries: [Angola, Cameroon, Democratic Republic of the Congo, Gabon, Nigeria]
 in_region: true
+habit: "tree"
 tags: [species, generated]
 ---
 # *Maranthes gabunensis* (Engler) Prance
@@ -17,19 +18,23 @@ tags: [species, generated]
 **Family**: [[Scytopetalaceae]]
 **Protologue**: Bol. Soc. Brot., ser. 2, 40 : 184 (1966); Mendes, Consp. Fl. Angol. 4 : 15 (1970); White, BJBB 46 : 299 (1976)
 
-## Description
+## Synonyms
 
-— Parinari gabunensis ENGL., Bot. Jahrb. 17 : 87 (1893); Pflanzenw. Afr. 3 (1) : 308 (1915); A. CHEV., Vég. Ut. Afr. Trop. Fr. 9, For. Bois Gabon : 202 (1917); HAUM., FCB 3 : 58 (1952); KEAY, FWTA, ed. 2, 1 (2) : 428 (1958).
+- Parinari gabunensis ENGL., Bot. Jahrb. 17 : 87 (1893); Pflanzenw. Afr. 3 (1) : 308 (1915); A. CHEV., Vég. Ut. Afr. Trop. Fr. 9, For. Bois Gabon : 202 (1917); HAUM., FCB 3 : 58 (1952); KEAY, FWTA, ed. 2, 1 (2) : 428 (1958).
+
+## Description
 
 — P. gabunensis var. mayumbensis De Wild., Miss. Em. Laur. 1903-04 : 89 (1905).
 
 — P. klaineanum PIERRE ex A. CHEV., Vég. Ut. Afr. Trop. Fr. 9, For. Bois Gabon : 202 (1917).
 
-Tree scarcely exceeding 60-80 cm diameter at base and rarely more than 20 m in height, sometimes flowering as a shrub 6-8 m tall. Trunk generally straight and slender, base sometimes slightly flared; rhytidome often mossy and mottled with greyish, brownish, greenish, reddish tones; some large branches erect then curved with long drooping branchlets; branchlets smooth dark purple. Very young branchlets and petioles, sometimes on undersurface of the midvein towards the base, clothed with ascending hispid pubescence early caducous. Stipules ± connate, intrapetiolary, very caducous, oblong, 10 mm long, acute, silky on the midvein and on the margin, the latter also furnished with small dark cylindrical glands. Petiole 8-10 mm long; blade glabrous elliptic, 6-8 × 13-18 cm, often elliptic oblong (especially for young stems), up to 9 × 31 cm (+ acumen 2 cm) or ± obovate, sometimes broadly elliptic, up to 11 × 21 cm (+ acumen 1 cm), with acute-obtuse base very often furnished at the junction with the petiole by 2 glands in oblique buttonhole-shaped crater-like structures terminating the blade margin, sometimes only sketched or absent, with acute-obtuse apex, sometimes rounded, abruptly terminated by a narrow acumen (5 × 10-20 mm) rarely bearing a few glandular rudiments on the edge, with 8-10(-12) pairs of arched lateral nerves enclosing an irregular network of tertiary nerves and nervilles.
+Tree rarely exceeding 60–80 cm in diameter at the base and rarely more than 20 m in height, sometimes flowering as a shrub 6–8 m tall. Trunk generally straight and slender, sometimes with a slightly flared base; bark often mossy and mottled with grayish, brownish, greenish, reddish hues; some large branches erect then curved with long drooping branchlets; branchlets smooth dark purple. Very young branchlets and petioles, sometimes the undersurface of the midrib toward the base, furnished with ascending hispid pubescence early deciduous. Stipules ± connate, intrapetiolar, very caducous, oblong, 10 mm long, acute, silky on the midrib and on the margin, the latter also furnished with small dark cylindrical glands. Petiole 8–10 mm long; blade glabrous elliptic, 6–8 × 13–18 cm, often elliptic-oblong (especially on young stems), up to 9 × 31 cm (+ acumen 2 cm) or ± obovate, sometimes broadly elliptic, up to 11 × 21 cm (+ acumen 1 cm), with acute-obtuse base very often furnished at the contact with the petiole by 2 buttonhole glands oblique crater-shaped terminating the margin of the blade, sometimes only outlined or absent, with acute-obtuse apex, sometimes rounded, abruptly terminated by a narrow acumen (5 × 10–20 mm) rarely bearing a few glandular rudiments on the edge, with 8–10(–12) pairs of arcuate lateral nerves enclosing an irregular network of tertiary nerves and nervils.
 
-Inflorescences glabrous, terminal and axillary subterninal, often in scarcely branched pauciflorous corymbs (10-20 flowers) with main axis often curved and secondary axes very short (1 cm), reaching 5-8 cm in height and 8-15 cm in length. Pedicel 10-15 mm long extending into a curved obconic receptacle, 25-35 mm long and 6-8 mm wide at the throat, somewhat angular. Sepals oval concave, up to 8-10 × 10-12 mm, glabrous on the parts exposed externally in bud, elsewhere tomentellous with appressed pubescence and ciliolate margin; petals white obovate, concave, 8-10 × 16-20 mm, ± silky externally, caducous; c. 40 white stamens, 30-40 mm long; in general 2 lateral abortive carpels and 1 developed posterior carpel, hispid, with some long white descending hairs in the glabrous tube of the receptacle; style 60 mm long.
+Inflorescences glabrous, terminal and axillary subterminally, often in scarcely branched few-flowered corymbs (10–20 flowers) with main axis often curved and secondary axes very short (1 cm), reaching 5–8 cm in height and 8–15 cm in length. Pedicel 10–15 mm long, prolonged by a curved obconic receptacle, 25–35 mm long and 6–8 mm wide at the throat, slightly angled. Sepals oval concave, up to 8–10 × 10–12 mm, glabrous for the parts exposed on the exterior in the bud, elsewhere tomentellous with appressed pubescence and ciliolate margin; petals white obovate, concave, 8–10 × 16–20 mm, ± silky on the exterior, caducous; ca. 40 white stamens, 30–40 mm long; generally 2 lateral aborted carpels and 1 posterior developed carpel, hispid,
 
-Drupe obovoid flattened, ± angular in cross-section, at least on dried specimen, with Y-shaped crests on each face, 18 × 24 × 36 mm, at first hispid and pale green then glabrous. — PL. 31, p. 107.
+with some long white descending hairs in the glabrous tube of the receptacle; style 60 mm long.
+
+Drupe obovoid flattened, ± angular in transverse section, at least on dried specimen, with Y-shaped ridges on each face, 18 × 24 × 36 mm, at first hispid and pale green then glabrous. — PL. 31, p. 107.
 
 ## Type
 
@@ -37,19 +42,19 @@ Soyaux 45, Gabon (holo-, B, delet.; iso-, K! P!)
 
 ## Discussion
 
-Maranthes gabunensis (Engl.) Prance is distinguished from M. aubrevillei (Pellegr.) Prance by its leaf with acute-obtuse base (and not rounded-subcordate), furnished with 2 glands in oblique buttonhole-shaped structures (and not transversely circular), with tertiary nerves in an irregular network (and not subscalariform), by an acumen rarely and only very slightly glandular on the edge (and not glandular-denticulate).
+Maranthes gabunensis (Engl.) Prance is distinguished from M. aubrevillei (Pellegr.) Prance by its leaf with acute-obtuse base (and not rounded-subcordate), furnished with 2 buttonhole glands oblique (and not circular transverse), with tertiary nerves in an irregular network (and not subscalariform), by an acumen rarely and only very slightly glandular on the edge (and not denticulately glandular).
 
-This species is known from Nigeria (South-East), Cameroon and Gabon, finally from the Mayombe of Congo, Cabinda and Lower Zaïre; it is especially fond of sempervirent forest types in Nigeria, Cameroon and Gabon; it is nevertheless also encountered in somewhat less humid peripheral regions, such as the region of Yaoundé in Cameroon, Lastoursville and Tchibanga in Gabon, finally throughout the Mayombe.
+This species is known from Nigeria (South-East), Cameroon and Gabon, finally from the Mayombe of Congo, Cabinda and Lower Zaïre; it favours chiefly evergreen forests in Nigeria, Cameroon and Gabon; it is nevertheless also found in somewhat less humid peripheral regions, such as the Yaoundé region in Cameroon, Lastoursville and Tchibanga in Gabon, finally throughout the Mayombe.
 
-Bos 5087, km 25 Kribi-Edéa road (j. fr., July) (WAG).
+Bos 5087, km 25 Kribi-Edéa road (fr. fr., July) (WAG).
 
 Brenan & Onochie 9470, km 35 Kumba-Buea road (fl., March) (FHO, K, P).
 
 Foury 60, Yaoundé (fl.).
 
-Letouzey 10231, Mbok hill, 5 km E Meyo-Centre and 40 km SSW Ebolowa (ster., March); 12841, Song Mahi, 35 km NNE Bipindi and 40 km SW Eléa (ster., Jan.); 13579, Araru, 35 km WSW Mamfe (fl., j. fr., May); 13822, hill (772 m) SE of Okoroba, 20 km NW Nguti and 35 km SSW Mamfe (ster., June); 14500, outer slope SSE of Lake Dissoni crater (= Soden See), 20 km WNW Kumba (ster., March).
+Letouzey 10231, Mbok hill, 5 km E Meyo-Centre and 40 km SSW Ebolowa (ster., March); 12841, Song Mahi, 35 km NNE Bipindi and 40 km SW EӀэka (ster., Jan.); 13579, Araru, 35 km WSW Mamfe (fl., fr. fr., May); 13822, hill (772 m) SE of Okoroba, 20 km NW Nguti and 35 km SSW Mamfe (ster., June); 14500, outer slope SSE of Lake Dissoni crater (= Soden See), 20 km WNW Kumba (ster., March).
 
-Mbarga 53 (= 2467 SRFCam), Badjob, 10 km W Eléa (fl., June).
+Mbarga 53 (= 2467 SRFCam), Badjob, 10 km W EӀэka (fl., June).
 
 Mezili 73, 15 km S Yaoundé (fl., Apr.).
 
@@ -65,7 +70,7 @@ Zenker 62, 957, 2296, Bipindi (fl.); s.n., Yaoundé (fl.).
 
 ## Uses
 
-BOUQUET, Witchdoctors and traditional medicines of Congo-Brazzaville : 204 (1969), indicates that the decoction, in drinks and vapour baths, is used to treat paralysis
+BOUQUET, Witch doctors and traditional medicines of Congo-Brazzaville : 204 (1969), indicates that the decoction, in drinks and steam baths, is used to treat paralysis
 
 ## Vernacular names
 

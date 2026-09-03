@@ -7,6 +7,11 @@ family: Lobeliaceae
 vol: 40
 pages: 44-44
 source: sources/Lobeliaceae_vol40_liteparse
+countries: [Gabon]
+in_region: true
+subdivisions:
+  Gabon: [Ngounié]
+habit: "herb"
 tags: [species, generated]
 ---
 # *Hippobroma longiflora* (L.) G.Don

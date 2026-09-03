@@ -7,6 +7,13 @@ family: Ochnaceae
 vol: 48
 pages: 39-41
 source: sources/Ochnaceae_vol48_liteparse
+countries: [Cameroon, Equatorial Guinea, Gabon, Ghana, Liberia]
+in_region: true
+subdivisions:
+  Gabon: [Estuaire, Moyen-Ogooué, Ngounié, Nyanga, Ogooué-Maritime]
+habit: "tree"
+habitat: [gallery forest, secondary forest]
+altitude_m: "10–380"
 tags: [species, generated]
 ---
 # *Campylospermum duparquetianum* (Baill.) Tiegh. Planche 7

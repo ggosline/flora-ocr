@@ -19,13 +19,15 @@ tags: [species, generated]
 **Family**: [[Leguminosae]]
 **Protologue**: Harms, Pflanzenfam. 3, 3, Nachtr.: 193 (1897)
 
+## Synonyms
+
+- Cynometra floribunda Benth., Trans. Linn. Soc. 25 : 312 (1866).
+
 ## Description
 
-= Cynometra floribunda Benth., Trans. Linn. Soc. 25 : 312 (1866).
+Small trees. Leaves 4–6 jugate. Rachis 5–9 cm, canaliculate, somewhat pubescent. Leaflets opposite, rhomboidal, obtuse at apex, sessile, with asymmetric base, the anterior side more developed and parallel to the rachis, the posterior side narrow and rounded, measuring 15–25 × 6–10 mm, glabrous or nearly so.
 
-Small trees. Leaves 4–6 imparipinnate. Rachis 5–9 cm, channelled, somewhat pubescent. Leaflets opposite, rhomboidal, obtuse at the apex, sessile, with asymmetrical base, the anterior side more developed and parallel to the rachis, the posterior side narrow and rounded, measuring 15–25 × 6–10 mm, glabrous or nearly so.
-
-Axillary racemes 5–8 cm; axes pubescent. Pedicels 5–8 mm. Bracts lanceolate, caducous. Bracteoles broadly ovate, with slightly cordate base, persistent, glabrous. Calyx glabrous: 4 obtuse lobes; turbinate tube 3 mm. Petals 3, obovate-oblong, 7–8 mm; 2 other anterior, rudimentary. Stamens 10. Ovary glandular, villous, biovulate.
+Axillary racemes 5–8 cm; axes pubescent. Pedicels 5–8 mm. Bracts lanceolate, caducous. Bracteoles broadly ovate, with somewhat cordate base, persistent, glabrous. Calyx glabrous: 4 obtuse lobes; turbinate tube 3 mm. Petals 3, obovate-oblong, 7–8 mm; 2 others anterior, rudimentary. Stamens 10. Ovary glandular, hairy, biovulate.
 
 Pods flat, oblong, with acute acumen, pustulous, approximately 7 × 3 cm.
 
@@ -35,7 +37,7 @@ Mann 1719, Muni river lat. 1° N. (isotype P)
 
 ## Discussion
 
-Species from Gabon, Mayombé, and lower Congo. Riparian forest and marsh edges.
+Species from Gabon, Mayombé and lower Congo. Riparian forest and marsh margins.
 
 ## Specimens examined
 

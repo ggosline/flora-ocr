@@ -7,6 +7,7 @@ family: Apocynaceae
 vol: 59
 pages: 245-247
 source: sources/Apocynaceae_vol59_liteparse
+habit: "shrub"
 tags: [species, generated]
 ---
 # *Tabernaemontana hallei* (Boiteau) Leeuwenb. Planche 114

@@ -16,11 +16,15 @@ tags: [species, generated]
 **Family**: [[Melastomataceae]]
 **Protologue**: Syst. Pl. : 693 (1791); JACQ.-FÉL. Fl. Cam. 24 : 64, tab. 18 (1983)
 
+## Synonyms
+
+- Tristemma incompletum R. Br., in TUKEY, Exped. Riv. Zaïre, append. 5 : 435 (1818).
+
 ## Description
 
-Perennial herb or shrub; young branches robust, herbaceous, distinctly winged and strigose. Leaves with petiole 2 to 5 cm, flattened-margined, setulose; blade 4–12 × 7–18 cm, ovate-elliptic, rounded or broadly cuneate at base, acute to subacuminate at apex; appressed hairs above, often of 2 forms below: short and hispid on the blade, longer, hispid or appressed, on the veins; 5–7 veins; margins entire to obscurely serrate.
+Perennial herb or shrub; young branches robust, herbaceous, distinctly winged and strigose. Leaves with petiole 2 to 5 cm, flat-margined, setulose; blade 4–12 × 7–18 cm, ovate-elliptic, rounded or broadly cuneate at base, acute to subacuminate at apex; appressed hairs above, often of 2 forms below: short and hirsute on the blade, longer, hirsute or appressed, on the nerves; 5–7 nerves; margins entire to obscurely serrate.
 
-Glomerules voluminous; outer bracts foliaceous, floral bracts broadly ovate, densely setulose on the uncompressed dorsal parts, equalling two-thirds or three-quarters of the hypanthia. Flower compressed in the glomerule; hypanthium campanulate, ± 6 × 12 mm, bearing 2 to 3 (5) well-spaced membranociliate rings, the upper one generally situated high, with a membrane 2 mm, the underlying ones with progressively narrower membrane, yellowish cilia 1 to 2 mm; sepals triangular, 2.5 × 5 mm, distinctly ciliate. Petals poorly developed, 5 × 9 mm, obtriangu­lar-obovate, ciliate towards the apex, pink, mauve or purple. Stamens with anther 3–4 mm; pedo-connective 0.5 mm, appendages of the same length, oblong, erect; filament ± 4 mm. Ovary with convex apex, scabérulous to strigose; peri-stylar rim obtuse and glabrous, more rarely thin and ciliate.
+Glomerules voluminous; external bracts foliaceous, floral bracts broadly ovate, densely setulose on the dorsal uncompressed portions, equal to 2/3 or 3/4 of the hypanthia. Flower compressed within the glomerule; hypanthium campanulate, ± 6 × 12 mm, bearing 2 to 3 (5) membranous-ciliate rings well-spaced, the upper one generally positioned high, with a membrane of 2 mm, the underlying ones with an increasingly narrow membrane, yellowish cilia 1 to 2 mm; sepals triangular, 2.5 × 5 mm, distinctly ciliate. Petals poorly developed, 5 × 9 mm, obtriangular-obovate, ciliate towards the apex, pink, mauve or purple. Stamens with anther 3–4 mm; pedo-connective 0.5 mm, appendages of the same length, oblong, erect; filament ± 4 mm. Ovary with convex apex, scaberulous to strigose; peristyle ridge obtuse and glabrous, more rarely thin and ciliate.
 
 Berry up to 13 × 20 mm, ellipsoid and often deformed by compression. — Pl. 16, p. 47.
 
@@ -30,7 +34,7 @@ Commerson, île Maurice (P)
 
 ## Discussion
 
-Guineo-Congolian species with penetrations into the Sudanian and Zambezian Regions, and extension to the Mascarenes. It is the most widespread species; it is favored by forest clearings; it exhibits wide variability.
+Guineo-Congolian species with penetrations into the Sudanian and Zambezian Regions, and extension to the Mascarenes. It is the most widespread species; it is favoured by forest clearings; it presents wide variability.
 
 ## Specimens examined
 

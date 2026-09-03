@@ -9,7 +9,7 @@ pages: 28-30
 source: sources/Pandaceae_vol22_paddle
 countries: [Angola, Cameroon]
 in_region: true
-habit: "shrub"
+habit: "liana"
 tags: [species, generated]
 ---
 # *Microdesmis haumaniana* J. Léonard
@@ -18,15 +18,17 @@ tags: [species, generated]
 **Family**: [[Pandaceae]]
 **Protologue**: Bull. Jard. Bot. Etat. Bruxelles 31 : 185, tab. 22 g-i et tab. 25 (1961); Fl. Congo 8 : 110, tab. g-i (1963)
 
+## Synonyms
+
+- Microdesmis puberula auct. non Hook. F. ex PLANCHON, « forme très glabre » : De Wildeman, Ann. Mus. Congo, Bot. ser. 5, 1 : 279 (1906); l.c. 2 : 287 (1908), p.p.: C<sup>le</sup> Kasai : 339 (1910), p.p.; Bull. Jard. Bot. Etat. Bruxelles 4 : 148 (1914), p.p.; Pl. Bequaert. 3 : 502 (1926), p.p.; PAX & K. Hoffmeister, in Engler, Pflanzenr., Euphorbiaceae, 3 : 106 (1911), p.p.
+
 ## Description
 
-— Microdesmis puberula auct. non Hook. F. ex PLANCHON, "very glabrous form": De Wildeman, Ann. Mus. Congo, Bot. ser. 5, 1: 279 (1906); l.c. 2: 287 (1908), p.p.: C<sup>le</sup> Kasai: 339 (1910), p.p.; Bull. Jard. Bot. Etat. Bruxelles 4: 148 (1914), p.p.; Pl. Bequaert. 3: 502 (1926), p.p.; PAX & K. Hoffmeister, in Engler, Pflanzenr., Euphorbiaceae, 3: 106 (1911), p.p.
+Shrub 2-6 m tall and 6-8 cm in diameter, sometimes scandent. Young branches very weakly pubescent becoming glabrous; older branches entirely glabrous, smooth and brownish. Leaves with petiole weakly pubescent 4-11 mm long; lamina glabrous on both surfaces, dark brown green or yellowish brown above and green or yellow below when dry, elliptic, elliptic-oblong, obovate-elliptic, 5-19 × 2.5-8.5 cm, base inequilateral attenuate, margins finely dentate or entire, apex acuminate mucronate. Midvein depressed or weakly prominent, glabrous above and prominent, subglabrous or very sparsely pubescent below; secondary nerves 6-9 pairs, ascending, arched, anastomosing 2-5 mm from the margin of the lamina, weakly prominent above and strongly so below. Venules in dense network, prominent on both surfaces.
 
-Shrub 2-6 m tall and 6-8 cm in diameter, sometimes lianescent. Young branches very weakly pubescent becoming glabrous; older branches entirely glabrous, smooth and brownish. Leaves with petiole weakly pubescent 4-11 mm long; blade glabrous on both surfaces, dark brown green or yellowish brown above and green or yellow below when dry, elliptic, elliptic-oblong, obovate-elliptic, 5-19 × 2.5-8.5 cm, base inequilateral attenuate, margins finely dentate or entire, apex acuminate mucronate. Midvein depressed or weakly prominent, glabrous above and prominent, subglabrous or very sparsely pubescent below; secondary veins 6-9 pairs, ascending, arcuate, anastomosing 2-5 mm from the blade margin, weakly prominent above and strongly below. Veinlets in dense reticulum, prominent on both surfaces.
+Inflorescences ♂ or ♀ in multiflorous axillary fascicles. Floral buds globose with contorted petals. Pedicels puberulent to shortly pubescent, 3-6 mm long. ♂ Flowers 3-5 mm in diameter. Sepals puberulent externally and glabrous internally, oblong, 1.5 × 1 mm. Petals strongly pubescent externally and glabrous or more frequently puberulent internally (grey-blue or whitish appearance of the inner surface of petals when dry), elliptic, 2-3 × 1.5-2 mm, base stipitate. Stamens 5, filaments fleshy at the base, semicircular or more often obtriangular, very strongly appressed against the pistillode, 0.5 mm long; anther 2-locular, connective thickened at the apex. Ovary rudimentary, glabrous, 1-1.2 mm long and 0.8 mm wide at the base, bearing 5 fleshy lobes between the stamens. ♀ Flowers 3-4 mm in diameter; pedicels 1.5-2.5 mm long, puberulent becoming glabrous. Sepals and petals similar to those of ♂ flowers. Ovary 3(-4) locular uniovulate, shortly stipitate, 0.5-1 mm long, glabrous or rarely sparsely pubescent. Style tri- or quadrifid.
 
-Inflorescences ♂ or ♀ in multiflorous axillary fascicles. Floral buds globose with contorted petals. Pedicels puberulent to shortly pubescent, 3-6 mm long. ♂ flowers 3-5 mm in diameter. Sepals puberulent externally and glabrous internally, oblong, 1.5 × 1 mm. Petals strongly pubescent externally and glabrous or more frequently puberulent internally (grey-blue or whitish appearance of the inner face of petals when dry), elliptic, 2-3 × 1.5-2 mm, base stipitate. Stamens 5, filaments fleshy at the base, semicircular or more often obtriangular, very strongly appressed against the pistillode, 0.5 mm long; anther with 2 locules, connective thickened at the apex. Rudimentary ovary, glabrous, 1-1.2 mm long and 0.8 mm wide at the base, bearing 5 fleshy lobes between the stamens. ♀ flowers, 3-4 mm in diameter; pedicels 1.5-2.5 mm long, puberulent becoming glabrous. Sepals and petals similar to those of ♂ flowers. Ovary with 3(-4) uniovulate locules, shortly stipitate, 0.5-1 mm long, glabrous or rarely sparsely pubescent. Style tri- or quadrifid.
-
-Drupe globose, depressed at the apex, almost smooth, 6-7 × 7-8 mm after rehydration and verruculose muricate, 14.5-5.5 × 0.5-1 mm when dry; epicarp green becoming red at maturity, glabrous or rarely pubescent; mesocarp pink; endocarp densely muricate, 3-4 locules. PL. 6, 10-15, p. 25.
+Drupe globose, depressed at the apex, nearly smooth, 6-7 × 7-8 mm after rehydration and verrucose muriculate, 14.5-5.5 × 0.5-1 mm when dry; epicarp green becoming red at maturity, glabrous or rarely pubescent; mesocarp pink; endocarp densely muriculate, 3-4 locular. PL. 6, 10-15, p. 25.
 
 ## Type
 
@@ -34,13 +36,13 @@ Toussaint 2248, Zaïre (holo-, BR)
 
 ## Discussion
 
-in its original description indicates that the stamen filaments have a semicircular form. However, dissection of specimens cited in the material studied by this author shows stamens whose filament is obtriangular as in most African species of this genus.
+, in his original description indicates that the staminal filaments have a semicircular form. However dissection of specimens cited in the material studied by this author shows stamens whose filament is obtriangular like most African species of this genus.
 
-Microdesmis haumaniana is found in the understory of dense humid forests on terra firme or on the banks of rivers. Its range extends from Cameroon to Angola.
+Microdesmis haumaniana occurs in the understory of dense humid forests on terra firme or along river margins. Its range extends from Cameroun to Angola.
 
 ## Uses
 
-It is a very hard wood that can be used for the manufacture of bows or crossbows.
+It is a very hard wood that can be used in the manufacture of bows or crossbows.
 
 ## Specimens examined
 

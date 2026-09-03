@@ -18,9 +18,11 @@ tags: [species, generated]
 **Family**: [[Ixonanthaceae]]
 **Protologue**: Icon. Pl. 8 : tab. 773 (1848); Fl. Nigrit. : 240, tab. 23 (1849)
 
-## Description
+## Synonyms
 
-— Phyllocosmus africanus Klotzsch, Abhandl. K. Preuss. Akad. Wiss. Berlin : 232 (1857). — DE WILD. Ann. Mus. Congo belge, Bot., ser. 5, 2 : 258 (1908).
+- Phyllocosmus africanus Klotzsch, Abhandl. K. Preuss. Akad. Wiss. Berlin : 232 (1857). — DE WILD. Ann. Mus. Congo belge, Bot., ser. 5, 2 : 258 (1908).
+
+## Description
 
 — P. dewevrei ENGL., loc. cit. : 109 (1902). — DE WILD., loc. cit. : 258 (1908). — TH. & H. DUR., Syll. : 76 (1909), p.p. — ENGL. in MILDBR., Deutsch. Zentr.-Afr. Exp. 1907-1908, 2 : 422 (1912).
 
@@ -34,11 +36,11 @@ tags: [species, generated]
 
 — O. senensis (Klotzsch ex Engl.) Hall. F. var. latifolius (Engl.) De Wild., Plant. Bequaert. 4:257 (1927).
 
-Tree 10–35 m tall or shrubby with glabrous branchlets. Leaves petiolate or subsessile; stipules glabrous, ⊥ ovate, 2–3 mm long; petiole glabrous, 2–5 mm. Blade glabrous, ovate to elliptic, rarely obovate, cuneate at the base, acuminate at the apex, with margins bearing glandular teeth especially in the upper part, 6–16 × 2–6.5 cm. Secondary veins ascending, slightly prominent on both surfaces; veinlets fine, parallel, distinct on the lower surface.
+Tree 10–35 m tall or shrubby with glabrous branchlets. Leaves petiolate or subsessile; stipules glabrous, ± ovate, 2–3 mm long; petiole glabrous, 2–5 mm. Blade glabrous, ovate to elliptic, rarely obovate, cuneate at base, acuminate at apex, with margins bearing glandular teeth especially in the upper part, 6–16 × 2–6.5 cm. Secondary veins ascending, slightly prominent on both surfaces; veinlets fine, parallel, distinct on the lower surface.
 
-Inflorescences in puberulent to pubescent racemes, most often branched at the base, axillary, solitary or grouped in fascicles. Flowers solitary or in groups of 2–10, clustered in fascicles. Pedicel puberulent, 2–3 mm. Bracts 1–2 mm long; bracteoles caducous. Sepals puberulent at the base, ovate-oblong, slightly unequal, 1.5 × 1 mm, denticulate. Petals glabrous, oblong-ovate, emarginate at the apex, accrescent and persistent against the fruit at maturity, with fine parallel veins, 3–4 × 2 mm. Stamens 5, glabrous, subequal, about 5 mm; anthers oblong, about 0.75 mm long. Ovary glabrous, ovoid, about 0.5 mm broad; style glabrous, undivided, 3–4 mm; stigma terminal, 5-lobed.
+Inflorescences in puberulent to pubescent racemes, most often branched at the base, axillary, solitary or grouped in fascicles. Flowers solitary or in 2–10, grouped in fascicles. Pedicel puberulent, 2–3 mm. Bracts 1–2 mm long; bracteoles caducous. Sepals puberulent at the base, ovate-oblong, slightly unequal, 1.5 × 1 mm, denticulate. Petals glabrous, oblong-ovate, emarginate at apex, accrescent and persistent against the fruit at maturity, with fine parallel veins, 3–4 × 2 mm. Stamens 5, glabrous, subequal, about 5 mm; anthers oblong, about 0.75 mm long. Ovary glabrous, ovoid, about 0.5 mm broad; style glabrous, undivided, 3–4 mm; stigma terminal, 5-lobed.
 
-Capsule ovoid to subglobose, 4–6 × 2.5–5 mm, with 1–3 fertile locules each containing a single seed. Seed with an aril, nearly smooth, ± elliptic, about 3 × 2 mm. PL. 14, 1–5, p. 61.
+Capsule ovoid to subglobose, 4–6 × 2.5–5 mm, with 1–3 fertile locules each containing a single seed. Seed bearing an aril, nearly smooth, ± elliptic, about 3 × 2 mm. PL. 14, 1-5, p. 61.
 
 ## Type
 
@@ -46,7 +48,7 @@ Don s.n., Sierra Leone (holo-, K)
 
 ## Discussion
 
-Dry forests, hygrophilous forests, ripicole and periodically inundated forests, marshy formations, termite mounds, wooded savannas. From Guinea to Gabon, the Central African Republic, and Zaïre.
+Dry forests, hygrophilous forests, riparian and periodically flooded forests, swampy formations, termite mounds, wooded savannas. From Guinea to Gabon, Central African Republic and Zaïre.
 
 ## Specimens examined
 

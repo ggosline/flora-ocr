@@ -7,6 +7,10 @@ family: Hyacinthaceae
 vol: 40
 pages: 32-32
 source: sources/Hyacinthaceae_vol40_liteparse
+countries: [Benin, Cameroon, Gabon]
+in_region: true
+habitat: [coastal]
+altitude_m: "0–250"
 tags: [species, generated]
 ---
 # *Ledebouria camerooniana* (Baker) Speta Planche 7

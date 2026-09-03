@@ -7,6 +7,13 @@ family: Rhizophoraceae
 vol: 47
 pages: 94-95
 source: sources/Rhizophoraceae_vol47_liteparse
+countries: [Angola, Cameroon, Gabon, Sierra Leone]
+in_region: true
+subdivisions:
+  Gabon: [Estuaire, Nyanga, Ogooué-Maritime]
+habit: "tree"
+habitat: [mangrove, coastal]
+altitude_m: "1–50"
 tags: [species, generated]
 ---
 # *Cassipourea barteri* (Hook.f. ex Oliv.) Engl. & Brehmer Planche 29.1, 30.1

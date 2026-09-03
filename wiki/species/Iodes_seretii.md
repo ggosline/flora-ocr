@@ -16,9 +16,11 @@ tags: [species, generated]
 **Family**: [[Icacinaceae]]
 **Protologue**: Fl. Congo b. et R.U. 9 : 243, tab. 27 (1960)
 
-## Description
+## Synonyms
 
-— Lasiodiscus seretii DE WILD., Bull. Jard. Bot. Brux. 3 : 271 (1911).
+- Lasiodiscus seretii DE WILD., Bull. Jard. Bot. Brux. 3 : 271 (1911).
+
+## Description
 
 — I. trichocarpa MILDBR., Rep. Sp. Nov. 18 : 97 (1922).
 
@@ -26,9 +28,9 @@ tags: [species, generated]
 
 — I. hirsuta Louis, nom. nud.; Mullenders, Publ. I.N.E.A.C., sér. scient. 61 : 93, 471 (1950).
 
-Liane attaining 5 m in height. Stem pubescent with indumentum of hirsute russet or tawny hairs. Petiole 1–3.5 cm long, hirsute. Blade green or green-brown, sparsely pubescent on the upper surface and densely pubescent on the lower surface, broadly ovate to elliptic, 7–17 × 3.5–10 cm; base cordate ± strongly and apex acuminate. Midvein pubescent on the upper surface and very prominently salient pubescent on the lower surface. Secondary veins, 6–9 pairs, ascending, arched, anastomosing 2–3 mm from the margin of the blade, ± pubescent above and salient pubescent below. Veinlets in a rather loose network, scarcely visible on the upper surface and salient on the lower surface. Tendrils pubescent.
+Liane reaching 5 m in height. Stem pubescent with indumentum of hirsute reddish or tawny hairs. Petiole 1–3.5 cm long, hirsute. Blade green or greenish-brown, sparsely pubescent on the upper surface and densely pubescent on the lower surface, broadly ovate to elliptic, 7–17 × 3.5–10 cm; base cordate ± strongly so and apex acuminate. Midvein pubescent on the upper surface and very prominently salient pubescent on the lower surface. Secondary veins, 6–9 pairs, ascending, arched, anastomosing 2–3 mm from the blade margin, ± pubescent above and prominently salient pubescent below. Venules in a rather loose network, scarcely visible on the upper surface and salient on the lower surface. Tendrils pubescent.
 
-Inflorescence in a globular panicle approximately 3 cm in diameter in the axil of each leaf. Rachis pubescent. Flower pedicellate; pedicel sessile pubescent articulate. Male flower tetramerous with petals slightly united to each other. Calyx absent. Petals slightly united to each other, pubescent externally and glabrous internally, broadly lanceolate in form, 2–3 mm long, reflexed. Stamens erect, filament 1–1.5 mm long; anther basifixed curved with 2 longitudinal dehiscence slits. Female panicle with peduncle scarcely distinct, 4–5 cm in diameter. Female flower tetramerous, sessile. Calyx absent. Petals united to each other, pubescent on the external surface and glabrous on the internal surface, elliptic or lanceolate in form, 3–3.5 mm long. Ovary pubescent unilocular with 2 pendulous ovules; style short and stout terminating in a discoid stigma.
+Inflorescence a globose panicle approximately 3 cm in diameter in the axil of each leaf. Rachis pubescent. Flower pedicellate; pedicel sessile pubescent articulate. Male flower tetramerous with petals slightly connate to each other. Calyx absent. Petals slightly connate to each other, pubescent externally and glabrous internally, broadly lanceolate in form, 2–3 mm long, reflexed. Stamens erect, with filament 1–1.5 mm long; anther basifixed recurved with 2 longitudinal dehiscence slits. Female panicle with peduncle scarcely distinct, 4–5 cm in diameter. Female flower tetramerous, sessile. Calyx absent. Petals connate to each other, pubescent on the external face and glabrous on the internal face, elliptic or lanceolate in form, 3–3.5 mm long. Ovary pubescent unilocular with 2 pendulous ovules; style short and stout terminating in a discoid stigma.
 
 Drupe orange, ovoid, 15 × 10 mm, hirsute with tawny hairs. Seed ovoid 6–7 × 4 mm. PL. 2, 6–8, p. 9.
 

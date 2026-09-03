@@ -7,6 +7,11 @@ family: Ochnaceae
 vol: 48
 pages: 61-61
 source: sources/Ochnaceae_vol48_liteparse
+countries: [Cameroon, Gabon]
+in_region: true
+habit: "shrub"
+habitat: [secondary forest, riverine, coastal]
+altitude_m: "200–530"
 tags: [species, generated]
 ---
 # *Campylospermum longestipulatum* (De Wild.) Biss.

@@ -7,6 +7,12 @@ family: Cyperaceae
 vol: 44
 pages: 87-88
 source: sources/Cyperaceae_vol44_liteparse
+countries: [Gabon]
+in_region: true
+subdivisions:
+  Gabon: [Estuaire, Woleu-Ntem]
+habit: "herb"
+altitude_m: "0–700"
 tags: [species, generated]
 ---
 # *Cyperus brevifolius* (Rottb.) Hassk. Planche 52

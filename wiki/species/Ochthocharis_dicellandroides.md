@@ -7,7 +7,6 @@ family: Melastomataceae
 vol: 25
 pages: 110-112
 source: sources/Melastomataceae_vol25_paddle
-habit: "shrub"
 tags: [species, generated]
 ---
 # *Ochthocharis dicellandroides* (Gilg) C. Hansen & Wickens
@@ -16,15 +15,17 @@ tags: [species, generated]
 **Family**: [[Melastomataceae]]
 **Protologue**: Kew Bull. 36 : 23, tab. 1, fig. C, tab. 2, fig. H-L, tab. 3, fig. C-D (1981); JACQ.-FÉL., Fl. Cam. 24 : 118, tab. 40 (1983)
 
+## Synonyms
+
+- Phaeoneuron dicellandroides GILG, Nat. Pflanzenfam., ed. 1, Nachtr. : 267 (1897).
+
 ## Description
 
-— Phaeoneuron dicellandroides GILG, Nat. Pflanzenfam., ed. 1, Nachtr. : 267 (1897).
+Shrublets glabrescenct, woody, branched, erect, 1 to 2 (3) m tall; young branches furfuraceous, pubescent, then glabrous. Leaves ± unequal on the same pair; petiole 4 to 8 cm, slender, grooved above, furfuraceous; blade ± 9 × 1.6 cm, lanceolate to broadly lanceolate, broadly cuneate or rounded at base, subacute at apex; glabrescenct on both faces, except on the nerves ± furfuraceous or pubescent beneath; 5, (7) nerves, transversely regularly parallel; margins loosely serrate-dentate.
 
-Shrubs glabrescient, woody, branched, erect, 1 to 2 (3) m tall; young branches furfuraceous, pubescent, then glabrous. Leaves ± unequal on the same pair; petiole 4 to 8 cm, slender, grooved on the upper surface, furfuraceous; blade ± 9 × 1.6 cm, lanceolate to broadly lanceolate, broadly cuneate or rounded at the base, subacute at the apex; glabrescent on both surfaces, except on the nerves ± furfuraceous or pubescent below; 5, (7) nerves, transverse regularly parallel; margins loosely serrate-dentate.
+Dichasial cymes in ± pyramidal panicle of 3 to 4 tiers of branches; ± 10 × 10 cm; terminal above a last pair of leaves ± reduced; bracts and bracteoles subulate; axes furfuraceous. Flower with pedicel 1 to 2 mm above the bracteoles; hypanthium campanulate-oblong, 5 × 3–4 mm, with thick, fleshy wall; calyx thick, entire, lobes only marked by a small dorsal keel. Petals pink or purple, ± 10 mm long, oblong, abruptly unguiculate. External stamens with anther 3 to 5 mm; podoconnective robust, thickened at base, 0.5 to 1 mm long, with short anterior appendage, 2-tuberculate, spur ± flattened, truncate, 0.3–0.5 mm; filament 5–6 mm. Internal stamens slightly shorter, same proportions and structure. Style 10 mm long.
 
-Dichasial cymes in ± pyramidal panicle of 3 to 4 tiers of branches; ± 10 × 10 cm; terminal above a last pair of ± reduced leaves; bracts and bracteoles subulate; axes furfuraceous. Flower with pedicel 1 to 2 mm above the bracteoles; hypanthium campanulate-oblong, 5 × 3-4 mm, with thick, fleshy wall; calyx thick, entire, lobes only marked by a small dorsal keel. Petals pink or purple, ± 10 mm long, oblong, abruptly unguiculate. External stamens with anther 3 to 5 mm; podoconnective robust, thickened at the base, 0.5 to 1 mm long, with short anterior appendage, 2-tuberculate, spur ± flattened, truncate, 0.3-0.5 mm; filament 5-6 mm. Internal stamens slightly shorter, same proportions and structure. Style 10 mm long.
-
-Fruit globose, 5-7 × 5-7 mm, obscurely 5-ribbed when dry; ovary at apex convex, 5-bumpy, reaching the rim of the hypanthium. Seeds 0.8 to 1 mm tall, 0.8 to 1 mm wide at the apex, seed body ± tuberculate, raphé expansion smooth; hilum brown. — Pl. 40, p. 107.
+Fruit globose, 5–7 × 5–7 mm, obscurely 5-ribbed when dry; ovary with convex apex, 5-knobbed, reaching the rim of the hypanthium. Seeds 0.8 to 1 mm tall, 0.8 to 1 mm wide at apex, seed body ± tuberculate, raphe expansion smooth; hilum brown. — Pl. 40, p. 107.
 
 ## Type
 

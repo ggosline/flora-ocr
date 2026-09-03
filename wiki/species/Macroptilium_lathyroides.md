@@ -7,6 +7,11 @@ family: Leguminosae
 vol: 49
 pages: 247-249
 source: sources/Millettiaspeciesfabaceae_vol49_liteparse
+countries: [Gabon]
+in_region: true
+habit: "herb"
+habitat: [coastal]
+altitude_m: "1100"
 tags: [species, generated]
 ---
 # *Macroptilium lathyroides* (L.) Urb. Planche 83.8–17

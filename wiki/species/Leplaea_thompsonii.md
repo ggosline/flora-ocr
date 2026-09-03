@@ -7,6 +7,11 @@ family: Meliaceae
 vol: 47
 pages: 49-51
 source: sources/Meliaceae_vol47_liteparse
+countries: [Cameroon, Central African Republic, Cote d'Ivoire, Democratic Republic of the Congo, Equatorial Guinea, Gabon, Ghana, Liberia, Nigeria, Republic of the Congo]
+in_region: true
+habit: "tree"
+habitat: [evergreen forest]
+altitude_m: "700"
 tags: [species, generated]
 ---
 # *Leplaea thompsonii* (Sprague & Hutch.) E.J.M.Koenen & J.J.de Wilde

@@ -7,6 +7,12 @@ family: Gentianaceae
 vol: 54
 pages: 72-73
 source: sources/Gentianaceae_vol54_liteparse
+countries: [Angola, Democratic Republic of the Congo, Gabon, Zambia]
+in_region: true
+subdivisions:
+  Gabon: [Ogooué-Maritime]
+habit: "herb"
+altitude_m: "20"
 tags: [species, generated]
 ---
 # *Exochaenium baumianum* (Gilg) Schinz

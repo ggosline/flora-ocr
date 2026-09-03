@@ -7,6 +7,7 @@ family: Apocynaceae
 vol: 59
 pages: 198-201
 source: sources/Apocynaceae_vol59_liteparse
+habit: "tree"
 tags: [species, generated]
 ---
 # *Pleiocarpa rostrata* Benth. Planche 93 ; Figure 9(G)
@@ -27,7 +28,7 @@ Inflorescence – Floral cup longitudinal section. – Corolla – Carpel in flo
 
 Paris (©), reproduced with permission from Pichon (1953).
 
-Distribution. Nigeria, Cameroon and Gabon; in Gabon known from a single flowering specimen from Ogooué Lolo. Ecology. In forest undergrowth in Gabon, at m of altitude, elsewhere up to m.
+Distribution. Nigeria, Cameroon and Gabon; in Gabon known from a single flowering specimen from Ogooué-Lolo. Ecology. In forest undergrowth in Gabon, at m of altitude, elsewhere up to m.
 
 ## Source note
 
@@ -37,7 +38,7 @@ The main distribution range of P. rostrata is situated in Nigeria and Cameroon; 
 
 ![Pleiocarpa rostrata](../sources/Apocynaceae_vol59_liteparse/figures/fig_171_p0200.jpeg)
 
-*Plate 93 . Pleiocarpa rostrata : 5DPHDXÀRULIqUHîҀ±&RUROODRSHQZLWKVWDPHQV (× 5). – 5-7. Pistil with ovary in longitudinal section (× 10). (1, 4, 5 : Talbot 1037 ; 2 : Zenker 1181b ; 3, 7 : Zenker 4362 2 6 : Le Testu 8871 'UDZLQJE\*XLGR03LFKRQ1DWLRQDO0XVHXPRI1DWXUDO+LVWRU\*
+*Plate 93. Pleiocarpa rostrata: 4. Flowering branchlet (× 4). – Corolla open with stamens (× 5). – 5-7. Pistil with ovary in longitudinal section (× 10). (1, 4, 5: Talbot 1037; 2: Zenker 1181b; 3, 7: Zenker 4362; 6: Le Testu 8871). Drawing by Guido M. Pichon, National Museum of Natural History.*
 
 ## Notes
 

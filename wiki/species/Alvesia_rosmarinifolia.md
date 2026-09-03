@@ -6,6 +6,12 @@ genus: Alvesia
 vol: 58
 pages: 20-22
 source: sources/Labiataeulmaceaeverbenaceae_vol58_liteparse
+countries: [Angola, Democratic Republic of the Congo, Gabon, Republic of the Congo, Zambia]
+in_region: true
+subdivisions:
+  Gabon: [Ogooué-Maritime]
+habit: "shrub"
+altitude_m: "1400"
 tags: [species, generated]
 ---
 # *Alvesia rosmarinifolia* Welw. Planche 3

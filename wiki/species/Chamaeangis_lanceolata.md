@@ -18,23 +18,25 @@ tags: [species, generated]
 **Family**: [[Orchidaceae]]
 **Protologue**: Kew Bull. 12 : 279 (1958)
 
+## Synonyms
+
+- Listrostachys lecomtei Finet, Bull. Soc. Bot. France 54, Mém. 9 : 54 (1907).
+
 ## Description
 
-– Listrostachys lecomtei Finet, Bull. Soc. Bot. France 54, Mém. 9 : 54 (1907).
-
-Leaves 6-28 × 0.7-2 cm, lanceolate, unequally bilobed. Inflorescence < 35 cm, and < 50-flowered. Flowers greenish ochraceous, always solitary at each node. Dorsal sepal, ovate-triangular to ovate-elliptic, subacute. Petals triangular-ovate. Lateral sepals obliquely ovate-triangular to ovate-oblong, acuminate. Labellum 2-3.5 × 1.8-2.2 mm, triangular-lanceolate, ovate-triangular or lanceolate, acute at apex, glabrous. Spur < 12 mm, narrowly cylindrical, straight, inflated in the upper part for approximately 3-4 mm, flask-shaped. – Pl. 201, p. 429.
+Leaves 6-28 × 0.7-2 cm, lanceolate, unequally bilobed. Inflorescence < 35 cm, and < 50-flowered. Flowers greenish ochracous, always solitary at each node. Dorsal sepal, ovate-triangular to ovate-elliptic, subacute. Petals triangular-ovate. Lateral sepals obliquely ovate-triangular to ovate-oblong, acuminate. Labellum 2-3.5 × 1.8-2.2 mm, triangular-lanceolate, ovate-triangular or lanceolate, acute at apex, glabrous. Spur < 12 mm, narrowly cylindrical, straight, swollen in the upper portion for approximately 3-4 mm, flask-shaped. — Pl. 201, p. 429.
 
 ## Distribution
 
-Nigeria, Cameroon, Gabon, Congo
+Nigeria, Cameroun, Gabon, Congo
 
 ## Ecology
 
-alt. unknown. Epiphyte above lake, in Biafran forest with Calpocalyx heitzii, observed at 40 m above ground
+alt. unknown. Epiphyte above lake, in Biafrian forest with Calpocalyx heitzii, observed at 40 m above ground
 
-MATERIAL EXAMINED (Map 91):
+MATERIAL STUDIED (Map 91):
 
-Hallé 1668, 10 km SW of Ndjolé (fl. Apr.), P! ; 2104, 10 km S Lambaréné, Matadi (fl. May), P!.
+Hallé 1668, 10 km SO of Ndjolé (fl. Apr.), P! ; 2104, 10 km S Lambaréné, Matadi (fl. May), P!.
 
 Leroy 145, s.loc., P!.
 

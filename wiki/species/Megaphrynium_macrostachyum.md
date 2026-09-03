@@ -27,15 +27,16 @@ tags: [species, generated]
 - Phrynium adenocarpum (K. Schum.) Bak., F.T.A. 7: 324 (1898), p. p.
 - Sarcophrynium Adenocarpum (K. Schum.) K. Schum., Pfl. R. 4, 48: 37 (1902), p. p.
 - Phyllodes oxycarpum K. Schum., Bot. Jahrb. 15 : 443 (1892), p. p.
-- Phrynium oxycarpum (K. Schum.) Bak. F.T.A., 7:324 (1898), p. p. = Sarcophrynium oxycarpum (K. Schum.) K. Schum., Pfl. R. 4, 48:38 (1902), p. p.
+- Phrynium oxycarpum (K. Schum.) Bak. F.T.A., 7:324 (1898), p. p.
+- Sarcophrynium oxycarpum (K. Schum.) K. Schum., Pfl. R. 4, 48:38 (1902), p. p.
 
 ## Description
 
 — Kew Bull.: 170 (1952).
 
-Herb with rhizome, producing solitary erect leaves with petiole reaching several metres in height, and simple stems terminated by an inflorescence borne laterally and overtopped by a leaf. Culm up to about fifteen centimetres long, sheaths glabrous or + puberulent at the nodes. Leaf blades large, generally 30 to 60 × 12–30 cm, but up to 90 cm long, elliptic, acuminate at apex, attenuate to rounded at base and slightly decurrent on the midrib, somewhat asymmetric.
+Herb with rhizome, producing solitary erect leaves with petioles reaching several metres in height, and simple stems terminated by an inflorescence borne laterally and overtopped by a leaf. Culm up to about fifteen centimetres long, sheaths glabrous or + puberulent at the nodes. Blades large, generally 30 to 60 × 12–30 cm, but up to 90 cm long, elliptic, acuminate at the apex, attenuate to rounded at the base and slightly decurrent on the midvein, somewhat asymmetric.
 
-Inflorescences branched, axes and peduncles mostly glabrous or sometimes puberulent. Racemes with up to about thirty internodes of ± 5 mm long on average. Bracts white to violet, glabrous, 15 to 20 mm long. Common flower peduncle glabrous to puberulent, 4 mm at anthesis, up to 5–7 mm with fruit and much thickened. Bracteole slightly verrucose, 1.5 mm in diameter. Sepals ± 4 mm long, glabrous, yellow to violet. Corolla 8–10 mm, white to violet, yellow toward the apex. One, two external staminodes, trilobed, with median lobe long-acicular. Ovary glabrous with marked sutures. Fruit dehiscent, red at maturity, 20 to 25 mm in diameter.
+Inflorescences branched, axes and peduncles mostly glabrous or sometimes puberulent. Racemes with up to about thirty internodes of ± 5 mm long on average. Bracts white to violaceous, glabrous, 15 to 20 mm long. Common peduncle of flowers glabrous to puberulent, 4 mm at anthesis, up to 5–7 mm with the fruit and very thickened. Bracteole slightly verrucose, 1.5 mm in diameter. Sepals of ± 4 mm long, glabrous, yellow to violaceous. Corolla 8–10 mm, white to violaceous, yellow towards the tip. One, two external staminodes, trilobed, with the median lobe long and acicular. Ovary glabrous with marked sutures. Fruit dehiscent, red at maturity, 20 to 25 mm in diameter.
 
 ## Type
 
@@ -45,7 +46,7 @@ Mann 1335, Cameroun
 
 Species frequent in understory in forest regions of West and Central Africa.
 
-The leaves are used for making roofs and packaging, the bark of the petioles as ties or in basketry; the pulp of the fruit is edible.
+The leaves are used for making roofs and packaging, the bark of the petioles as ties or in wickerwork; the pulp of the fruit is edible.
 
 Vernacular names (after Walker and Sillans): Ogongo (Mpongwé, Galoa, Nkomi, Orungu); Okongo (Mitsogo, Bakota); Nokongo (Apindji); Hikongo (Benga); Ngongwé (Béséki); Ngonghwa (Bakèlè); Ndjongo (Bavové); Dungungu (Eshira, Bavarama, Bavungu, Bapunu); Nyungungu (Ngowé, Balumbu); Lingunggu (Bavili, Baduma); Léngungu (Banzabi); Oké-kū (Fang).
 

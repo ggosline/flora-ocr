@@ -7,6 +7,13 @@ family: Commelinaceae
 vol: 55
 pages: 88-89
 source: sources/Commelinaceae_vol55_liteparse
+countries: [Cameroon, Democratic Republic of the Congo, Equatorial Guinea, Gabon, Nigeria, Republic of the Congo]
+in_region: true
+subdivisions:
+  Gabon: [Moyen-Ogooué, Ngounié, Nyanga, Ogooué-Ivindo, Ogooué-Lolo, Woleu-Ntem]
+habit: "herb"
+habitat: [swamp forest, primary forest, rocky ground]
+altitude_m: "900"
 tags: [species, generated]
 ---
 # *Stanfieldiella brachycarpa* (Gilg & Lederm. ex Mildbr.) Brenan var. brachycarpa

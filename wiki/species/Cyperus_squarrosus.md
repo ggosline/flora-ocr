@@ -7,6 +7,12 @@ family: Cyperaceae
 vol: 44
 pages: 76-76
 source: sources/Cyperaceae_vol44_liteparse
+countries: [Gabon]
+in_region: true
+subdivisions:
+  Gabon: [Ogooué-Maritime]
+habit: "herb"
+altitude_m: "2000"
 tags: [species, generated]
 ---
 # *Cyperus squarrosus* L. Planche 46

@@ -7,6 +7,13 @@ family: Leguminosae
 vol: 49
 pages: 147-149
 source: sources/Millettiaspeciesfabaceae_vol49_liteparse
+countries: [Angola, Cameroon, Central African Republic, Democratic Republic of the Congo, Equatorial Guinea, Gabon, Republic of the Congo]
+in_region: true
+subdivisions:
+  Gabon: [Haut-Ogooué, Moyen-Ogooué]
+habit: "liana"
+habitat: [swamp forest, savanna]
+altitude_m: "600"
 tags: [species, generated]
 ---
 # *Dalbergia pachycarpa* (De Wild. & T.Durand) Uhlrich ex De Wild.

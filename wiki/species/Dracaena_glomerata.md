@@ -7,6 +7,12 @@ family: Dracaenaceae
 vol: 54
 pages: 34-34
 source: sources/Dracaenaceae_vol54_liteparse
+countries: [Cameroon, Democratic Republic of the Congo, Equatorial Guinea, Gabon, Republic of the Congo]
+in_region: true
+subdivisions:
+  Gabon: [Estuaire, Moyen-Ogooué, Ngounié, Ogooué-Ivindo, Ogooué-Maritime, Woleu-Ntem]
+habit: "shrub"
+altitude_m: "5–500"
 tags: [species, generated]
 ---
 # *Dracaena glomerata* Baker Figure 2(D)

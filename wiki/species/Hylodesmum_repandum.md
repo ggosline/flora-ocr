@@ -7,6 +7,10 @@ family: Leguminosae
 vol: 49
 pages: 207-207
 source: sources/Millettiaspeciesfabaceae_vol49_liteparse
+countries: [Cameroon, Democratic Republic of the Congo, Equatorial Guinea, Gabon, Madagascar, Sierra Leone]
+in_region: true
+habit: "herb"
+altitude_m: "0–3000"
 tags: [species, generated]
 ---
 # *Hylodesmum repandum* (Vahl) H.Ohashi & R.R.Mill Planche 68

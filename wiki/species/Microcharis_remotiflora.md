@@ -7,6 +7,13 @@ family: Leguminosae
 vol: 49
 pages: 255-255
 source: sources/Millettiaspeciesfabaceae_vol49_liteparse
+countries: [Angola, Cameroon, Cote d'Ivoire, Gabon, Ghana, Malawi, Mozambique, Nigeria, Tanzania, Zimbabwe]
+in_region: true
+subdivisions:
+  Gabon: [Ogooué-Ivindo]
+habit: "herb"
+habitat: [savanna, rocky ground]
+altitude_m: "150"
 tags: [species, generated]
 ---
 # *Microcharis remotiflora* (E.G.Baker) Schrire

@@ -18,15 +18,16 @@ tags: [species, generated]
 **Family**: [[Icacinaceae]]
 **Protologue**: Bot. Gart. Mus. Berl. 15 : 360 (1941); Pflanzenfam., ed. 2, 20b : 369 (1942)
 
+## Synonyms
+
+- Pyrenacantha brevipes ENGL., Bot. Jahrb. 43 : 187 (1909).
+- Sarcostigma brevipes (ENGL.) ENGL., Pflanzenwelt Afr. 3 : 260 (1921).
+
 ## Description
 
-— Pyrenacantha brevipes ENGL., Bot. Jahrb. 43 : 187 (1909).
+Liane (?) or shrub. Branchlets yellowish-gray, pubescent with appressed hairs. Petiole pubescent, channeled above, 2–5 mm long. Blade glabrous on the upper surface, shortly and sparsely pubescent on the lower surface, grayish-green above, gray-green below, lanceolate or broadly elliptic, 11–17.5 × 4.5–7.5 cm; base attenuate or weakly rounded and apex abruptly and long-acuminate, acute or obtuse. Midvein concave above, prominent, sparsely pubescent below. Secondary veins 6–7 pairs, very ascending, slightly arched, anastomosing 1–3 mm from the blade margin, prominent on both surfaces, sparsely pubescent on the lower surface. Tertiary veins in dense network prominent on both surfaces.
 
-— Sarcostigma brevipes (ENGL.) ENGL., Pflanzenwelt Afr. 3 : 260 (1921).
-
-Liane (?) or shrub. Branches yellowish-grey, pubescent with appressed hairs. Petiole pubescent, channelled above, 2–5 mm long. Blade glabrous on the upper face, shortly and sparsely pubescent on the lower face, greyish-green above, grey-green below, narrowly elliptic or broadly elliptic, 11–17.5 × 4.5–7.5 cm; base attenuate or weakly rounded and apex abruptly and elongately acuminate, acute or obtuse. Midvein concave above, prominent and sparsely pubescent below. Secondary veins 6–7 pairs, very ascending, slightly arched, anastomosing 1–3 mm from the margin of the blade, prominent on both faces, sparsely pubescent on the lower face. Veinlets in a dense network prominent on both faces.
-
-Inflorescence in a raceme of glomerules, solitary, axillary, 12–24.5 cm long. Glomerules multiflorous, pubescent on the narrow faces of the green pubescent inflorescence rachis. Floral bud widely ellipsoid, very shortly pedicellate. Flowers white, ☀, pentamerous. Sepals fused to each other, pubescent externally, glabrous internally, broadly lanceolate, 1.5 × 0.5 mm; apex acute. Petals free from each other except at the base, ± pubescent externally, pubescent internally especially towards the base, narrowly elliptic, 4 × 1 mm; apex acute. Stamens 5 mm long; filament slender, 4 mm long; anther basifixed with 2 narrowly ellipsoid locules, 1 mm long. Ovary superior, pubescent, ellipsoid, 0.75 × 0.5 mm; style slender, 4 mm long, with ± globulous stigma.
+Inflorescence a raceme of glomerules, solitary, axillary, 12–24.5 cm long. Glomerules multiflorous, pubescent on the narrow faces of the pubescent green inflorescence rachis. Floral bud broadly ellipsoid, very shortly pedicelled. Flowers white, ☀, pentamerous. Sepals connate with each other, pubescent externally, glabrous internally, broadly lanceolate, 1.5 × 0.5 mm; apex acute. Petals free from each other except at the base, ± pubescent externally, pubescent internally especially toward the base, narrowly elliptic, 4 × 1 mm; apex acute. Stamens 5 mm long; filament slender, 4 mm long; anther basifixed with 2 narrowly ellipsoid locules, 1 mm long. Ovary superior, pubescent, ellipsoid, 0.75 × 0.5 mm; style slender, 4 mm long, with ± globose stigma.
 
 Drupe oblong, 1.5 mm long. Pl. 11, 1–3', p. 49.
 

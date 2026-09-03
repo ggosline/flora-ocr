@@ -10,6 +10,7 @@ source: sources/Melastomataceae_vol25_paddle
 countries: [Angola, Democratic Republic of the Congo, Sierra Leone]
 in_region: true
 habit: "shrub"
+habitat: [secondary forest]
 tags: [species, generated]
 ---
 # *Dissotis multiflora* (Sm.) Triana
@@ -18,13 +19,17 @@ tags: [species, generated]
 **Family**: [[Melastomataceae]]
 **Protologue**: Trans. Linn. Soc. 28 : 58 (1871); JACQ.-FÉL., Fl. Cam. 24 : 20, tab. 4, fig. 1-6 (1983)
 
+## Synonyms
+
+- Osbeckia multiflora Sm., Rees. Cyclop. 25 : n° 7 (1813).
+
 ## Description
 
-Shrub weakly branched, erect up to 1.50 (2–3) m; branches 4-angular, narrowly winged, strigillous, especially on the angles, then rounded and glabrescent. Leaves with slender petiole, 1 to 3 cm long, setulo-strigillous; blade 3–6 × 6–12 cm, lanceolate to lanceoloid, obtuse or rounded, rarely subcordate at the base, acute to vaguely acuminate at the apex; short appressed hairs scattered above; 3–5 prominent and strigillous veins beneath; margins subentire, densely ciliate.
+Shrub sparsely branched, erect up to 1.50 (2–3) m; branchlets 4-angular, narrowly winged, strigillous, especially on the angles, then rounded and glabrescent. Leaves with slender petiole, 1–3 cm long, setulose-strigillous; blade 3–6 × 6–12 cm, lanceolate to lanceolate, obtuse or rounded, rarely subcordate at base, acute to vaguely acuminate at apex; short appressed hairs scattered above; 3–5 prominent strigillous nerves below; margins subentire, densely ciliate.
 
-Panicle relatively reduced, 2–4 × 4–8 cm, 5–10-flowered, axes strigosulous; bracts ovate, acuminate, 2.5 × 4 mm, enerved, glabrous but ciliate, caducous. Flower with pedicel 1 mm, setulous; hypanthium 3 × 5 mm, scaberulous-setulous, especially toward the base, plus emergences with setulous stipe and stellate apex, distributed mainly toward the top where the 5 latter alternate with the sepals of ± 4 mm, semi-ovate at the base, then abruptly caudate-linear over the 1/2 or 2/3 of the height; glabrescent on the back or with rare emergences, caudate part with bristles spaced on the margins and stellate at the apex. Petals pink, obovate-obcordate, ± 9 mm long. Stamens with yellow anthers, slightly unequal; the outer ones with anther 3.5 mm; pedoconnective 2 mm, appendage ± 1 mm, erect, truncate to emarginate; filament ± 3 mm; the inner ones with anther 3 mm; pedoconnective 0.5 mm, appendage 0.3 mm; filament ± 3 mm. Ovary deeply included; style 8 mm.
+Panicle relatively reduced, 2–4 × 4–8 cm, 5–10-flowered, axes strigosulous; bracts oval, acuminate, 2.5 × 4 mm, enerved, glabrous but ciliate, caducous. Flower with pedicel 1 mm, setulose; hypanthium 3 × 5 mm, scaberulous-setulose, especially towards the base, plus emergences with setulose stipe and stellate apex, distributed especially towards the apex where the 5 uppermost alternate with the sepals of ± 4 mm, semi-ovate at base, then abruptly caudate-linear over the 1/2 or 2/3 of the height; glabrescent on the back or with rare emergences, caudate portion with spaced setae on the margins and stellate at apex. Petals pink, obovate-obcordate, ± 9 mm long. Stamens with yellow anthers, slightly unequal; the outer ones with anther 3.5 mm; pedoconnective 2 mm, appendage ± 1 mm, erect, truncate to emarginate; filament ± 3 mm; the inner ones with anther 3 mm; pedoconnective 0.5 mm, appendage 0.3 mm; filament ± 3 mm. Ovary deeply included; style 8 mm.
 
-Capsule ovoid-oblong, 7 × 10 mm; merely strigillous, all the emergences and the sepals being caducous from anthesis; tube accrescent; ovary short, apex convex, 5-ribbed, sparsely setulous. Seeds finely striate. — Pl. 3, fig. 1–6, p. 13.
+Capsule ovoid-oblong, 7 × 10 mm; only strigillous, all the emergences and sepals being caducous from anthesis; tube accrescent; ovary short, apex convex, 5-costate, sparsely setulose. Seeds finely striate. — Pl. 3, fig. 1–6, p. 13.
 
 ## Type
 
@@ -32,7 +37,7 @@ Afzelius s.n., Sierra Leone
 
 ## Discussion
 
-Western Guineo-Congolian species, heliophile; observed in open groves, forest margins, forest regrowth, etc., from Sierra Leone to Angola (Cabinda), Zaïre, etc.
+Western Guineo-Congolian species, heliophilous; observed in open groves, forest edges, secondary forest, etc., from Sierra Leone to Angola (Cabinda), Zaïre, etc.
 
 ## Specimens examined
 

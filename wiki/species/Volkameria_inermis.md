@@ -6,6 +6,13 @@ genus: Volkameria
 vol: 58
 pages: 117-119
 source: sources/Labiataeulmaceaeverbenaceae_vol58_liteparse
+countries: [Gabon]
+in_region: true
+subdivisions:
+  Gabon: [Estuaire]
+habit: "liana"
+habitat: [mangrove, coastal]
+altitude_m: "1"
 tags: [species, generated]
 ---
 # *Volkameria inermis* L. Planche 31

@@ -7,6 +7,12 @@ family: Cyperaceae
 vol: 44
 pages: 25-27
 source: sources/Cyperaceae_vol44_liteparse
+countries: [Gabon, Madagascar]
+in_region: true
+subdivisions:
+  Gabon: [Haut-Ogooué, Ngounié, Ogooué-Ivindo, Ogooué-Maritime]
+habit: "herb"
+altitude_m: "0–500"
 tags: [species, generated]
 ---
 # *Bulbostylis hensii* (C.B.Clarke) R.W.Haines Planche 11, Figure 3a

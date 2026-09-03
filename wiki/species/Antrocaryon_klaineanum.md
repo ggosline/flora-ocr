@@ -7,6 +7,13 @@ family: Anacardiaceae
 vol: 50
 pages: 11-11
 source: sources/Anacardiaceae_vol50_liteparse
+countries: [Angola, Cameroon, Democratic Republic of the Congo, Equatorial Guinea, Gabon, Nigeria, Republic of the Congo]
+in_region: true
+subdivisions:
+  Gabon: [Moyen-Ogooué]
+habit: "tree"
+habitat: [secondary forest]
+altitude_m: "400"
 tags: [species, generated]
 ---
 # *Antrocaryon klaineanum* Pierre Planche 1
@@ -39,7 +46,7 @@ Onzabili (nom pilote) ; Bouton d’antilope (fr.) ; White mahogany (angl.) ; Bé
 
 ![Antrocaryon klaineanum](../sources/Anacardiaceae_vol50_liteparse/figures/fig_011_p0012.png)
 
-*Plate 1 . Antrocaryon klaineanum : 1. Flowering branch (× ¼). – 2. Leaflet (× 1). – 3. Male flower in bud (× 6). – 4. Idem, longitudinal section (× 6). – 5. Idem, without sepals, nor petals (× 8). – 6. Stamens, frontal and dorsal view (× 10). – 7. Female flower, longitudinal section (× 7). – 8. Ovule (× 25). – 9. Fruit (× 1). – 10. Idem, transverse section (× 1). Drawing reproduced from Engler (1921). lule ± canaliculate, 1–4 mm, the terminal up to 1.5 cm, with oblong-lanceolate to narrowly oblong-elliptic blade, 6–13 × 2.5–4 cm, obliquely rounded to subcordate at the base, long acuminate-acute at the apex, papyraceous, with 20 to 30 pairs of lateral nerves . Inflorescence in rather loose panicle, with ± glomerate flowers, 10–30 cm in length, puberulent ; bracts and bracteoles rapidly caducous, ± lanceolate, 1–3 mm in length. Male flower : pedicel 1–2 mm, articulate ± in the middle ; puberulent calyx, with oval lobes, 1 mm in length ; spreading petals, oblong-oval, 2 × 1.2 mm ; slightly curved stamens, 1.5 mm in length, anthers 0.5 mm in length ; thick disk, lobuled-undulate, 2 mm in diameter, glabrous ; pis-*
+*PL. 1. — Antrocaryon klaineanum : 1. Flowering branch (× ¼). – 2. Leaflet (× 1). – 3. Male flower in bud (× 6). – 4. Idem, longitudinal section (× 6). – 5. Idem, without sepals, nor petals (× 8). – 6. Stamens, frontal and dorsal view (× 10). – 7. Female flower, longitudinal section (× 7). – 8. Ovule (× 25). – 9. Fruit (× 1). – 10. Idem, transverse section (× 1). Drawing reproduced from Engler (1921). Leaflet ± canaliculate, 1–4 mm, the terminal up to 1.5 cm, with oblong-lanceolate to narrowly oblong-elliptic blade, 6–13 × 2.5–4 cm, obliquely rounded to subcordate at the base, long acuminate-acute at the apex, papyraceous, with 20 to 30 pairs of lateral nerves. Inflorescence in rather loose panicle, with ± glomerate flowers, 10–30 cm in length, puberulent; bracts and bracteoles rapidly caducous, ± lanceolate, 1–3 mm in length. Male flower: pedicel 1–2 mm, articulate ± in the middle; puberulent calyx, with oval lobes, 1 mm in length; spreading petals, oblong-oval, 2 × 1.2 mm; slightly curved stamens, 1.5 mm in length, anthers 0.5 mm in length; thick disk, lobuled-undulate, 2 mm in diameter, glabrous; pis-*
 
 ## Notes
 

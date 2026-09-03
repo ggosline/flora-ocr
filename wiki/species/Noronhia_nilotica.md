@@ -7,6 +7,13 @@ family: Oleaceae
 vol: 51
 pages: 23-23
 source: sources/Oleaceae_vol51_liteparse
+countries: [Gabon, Kenya, Senegal, Tanzania, Zambia]
+in_region: true
+subdivisions:
+  Gabon: [Nyanga, Ogooué-Ivindo]
+habit: "tree"
+habitat: [savanna]
+altitude_m: "200"
 tags: [species, generated]
 ---
 # *Noronhia nilotica* (Oliv.) Hong-Wa & Besnard
@@ -19,22 +26,24 @@ tags: [species, generated]
 
 - Chionanthus nilotica (Oliv.) Stearn, Bot. J. Linn. Soc. 80 : 202 (1980).
 - Linociera nilotica Oliv., Trans. Linn. Soc. 29(3) : 106, t. 117 (1875).
+- Linociera lingelsheimiana Gilg & Schellenb., Bot. Jahrb. Syst. 51(1) : 72 (1913), syn. nov .
+- Linociera macroura Gilg & Schellenb., Bot. Jahrb. Syst. 51(1) : 72 (1913), syn. nov.
 
 ## Description
 
-Linociera lingelsheimiana Gilg & Schellenb., Bot. Jahrb. Syst. 51(1) : 72 (1913), syn. nov. Linociera macroura Gilg & Schellenb., Bot. Jahrb. Syst. 51(1) : 72 (1913), syn. nov. Tree or shrub up to 5(–10) m tall; trunk up to 20 cm diameter. Leaf glabrous; petiole canaliculate above, 5–10 mm; blade ovate to obovate or oblong-elliptic, 6–14.5 × 2.2–5.5 cm, base attenuate, apex acute to shortly acuminate; main vein sulcate above, lateral veins in 6 to 10 pairs, often with axillary domatia, in glabrous or pilose crypt at the throat. Inflorescence a thyrse, 2–4 cm long; axis with scattered and appressed hairs; bracts ± 1 mm long. Flower: pedicel 1–2(–5) mm; calyx with ± triangular lobes, 1–1.5 mm long, with appressed pubescence toward the margin; corolla 4–6 mm long, with lobes ± 2 mm wide. Fruit globose to ellipsoid, 1–1.5 × 1–2.5 mm, dark blue to purplish.
+Tree or shrub up to 5(–10) m tall; trunk up to 20 cm in diameter. Leaf glabrous; petiole canaliculate above, 5–10 mm; lamina ovate to obovate or oblong-elliptic, 6–14.5 × 2.2–5.5 cm, base attenuate, apex acute to shortly acuminate; main vein grooved above, lateral veins in 6 to 10 pairs, often with axillary domatia, in crypt glabrous or hairy at the throat. Inflorescence in thyrse, 2–4 cm long; axis with scattered appressed hairs; bracts ± 1 mm long. Flower: pedicel 1–2(–5) mm; calyx with ± triangular lobes, 1–1.5 mm long, with appressed pubescence towards the margin; corolla 4–6 mm long, with lobes ± 2 mm wide. Fruit globose to ellipsoid, 1–1.5 × 1–2.5 mm, dark blue to purplish.
 
 ## Distribution
 
-from Senegal to Kenya, Tanzania and south to northeastern Zambia; in Gabon, known from Ogooué-Ivindo (Lopé Reserve) and perhaps also from Nyanga (see Note)
+from Senegal to Kenya, Tanzania and south to north-eastern Zambia; in Gabon, known from Ogooué-Ivindo (Lopé Reserve) and perhaps also from Nyanga (see Note)
 
 ## Ecology
 
-forest margins, in forest close to savanna; in Gabon at ± 200 m altitude, elsewhere at 0–1000 m
+forest margins, in forest near savanna; in Gabon at ± 200 m altitude, elsewhere at 0–1000 m
 
 ## Source note
 
-A specimen from Nyanga (vicinity of Tchibanga), Le Testu 1673, is identified as N. nilotica with doubt. The specimen is more pilose than others and more material, especially in fruit, is necessary to resolve this problem. In several other publications, Linociera lingelsheimiana has been treated as a synonym of N. mannii. However, the type specimen of this taxon has the characters and the same ecology as N. nilotica. B: Green (1963), Kupicha (1983), Liben (1973), Stearn (1980). Bibliography
+A specimen from Nyanga (vicinity of Tchibanga), Le Testu 1673, is identified as N. nilotica with doubt. The specimen is more hairy than the others and more material, especially in fruit, is necessary to resolve this problem. In several other publications, Linociera lingelsheimiana has been treated as a synonym of N. mannii. But the type specimen of this taxon has the characters and the same ecology as N. nilotica. B: Green (1963), Kupicha (1983), Liben (1973), Stearn (1980). Bibliography
 
 ## Notes
 

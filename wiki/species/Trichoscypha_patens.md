@@ -7,6 +7,13 @@ family: Anacardiaceae
 vol: 50
 pages: 50-50
 source: sources/Anacardiaceae_vol50_liteparse
+countries: [Cameroon, Democratic Republic of the Congo, Equatorial Guinea, Gabon, Nigeria]
+in_region: true
+subdivisions:
+  Gabon: [Estuaire, Moyen-Ogooué, Ngounié, Ogooué-Ivindo, Woleu-Ntem]
+habit: "liana"
+habitat: [secondary forest]
+altitude_m: "150–600"
 tags: [species, generated]
 ---
 # *Trichoscypha patens* (Oliv.) Engl. Planche 22(C)

@@ -18,12 +18,13 @@ tags: [species, generated]
 
 ## Synonyms
 
+- Berg in Mart. Fl. Bras. XIV : 33 pro syn. (1857).
 - Phyllocalyx luschnathianus Berg 1.c.
 - Eugenia lucescens Ndz. in Engl. Pflanzenfam. III, 7 : 82 (1893).
 
 ## Description
 
-Small tree. Branchlets scaly, at first pubescent. Leaves oblong, acute at the base, long-acuminate at the apex, coriaceous, glabrous and shining above, pubescent below. Petiole approximately 5 mm long. Pedicels slender, pubescent, 2-3 cm long, bearing at the apex lanceolate bracteoles, somewhat shorter than the sepals. Sepals lanceolate, and at the end of anthesis reflexed, ± 1 cm long and ± 4 mm wide at the base. Ovary pubescent. Petals white, quickly caducous, as long as the sepals.
+Small tree. Branchlets scaly, at first pubescent. Leaves oblong, acute at the base, long-acuminate at the apex, coriaceous, glabrous and shining above, pubescent below. Petiole about 5 mm long. Pedicels slender, pubescent, 2–3 cm long, bearing at the apex lanceolate bracteoles, somewhat shorter than the sepals. Sepals lanceolate, and at the end of anthesis reflexed, ± 1 cm long and ± 4 mm wide at the base. Ovary pubescent. Petals white, quickly caducous, as long as the sepals.
 
 Native to Brazil. Related to Eugenia edulis (Berg) Ndz. Fruit edible.
 

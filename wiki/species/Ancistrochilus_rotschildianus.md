@@ -18,25 +18,26 @@ tags: [species, generated]
 **Family**: [[Orchidaceae]]
 **Protologue**: Gard. Chron. ser. 3, 4 : 51 (1907)
 
+## Synonyms
+
+- Ancistrochilus hirsutissimus Kraenzl., Bot. Jahrb. Syst. 51 : 386 (1914).
+- Pachystoma rotschildiana (O'Brien) Sander, Orchid. Guide : 363 (1927).
+
 ## Description
 
-– Ancistrochilus hirsutissimus Kraenzl., Bot. Jahrb. Syst. 51 : 386 (1914).
-
-– Pachystoma rotschildiana (O'Brien) Sander, Orchid. Guide : 363 (1927).
-
-Leaves 10-20 (40) × 2-5 (7.5) cm, elliptic-lanceolate, lanceolate to blancolate, acute to acuminate. Inflorescence < 20 cm, lax, axis very pubescent with a few scattered bracts, 1-3-flowered. Flowers white to rose-mauve, labellum mauve much darker or purple with green and yellow spots, pleasant fragrance. Dorsal sepal acute with very pubescent outer surface, oblong to elliptic-lanceolate, lateral sepals obliquely elliptic-lanceolate. Petals obliquely oblong-lanceolate, subacute. Labellum distinctly three-lobed, dense papillae on both surfaces, base shortly sacciform, centre with 3-5 longitudinal thickenings; lateral lobes oblong-ovate to elliptic, obtuse; median lobe linear-lanceolate, acute, apical half recurved. - Pl. 49, p. 105.
+Leaves 10-20 (40) × 2-5 (7.5) cm, elliptic-lanceolate, lanceolate to blancolate, acute to acuminate. Inflorescence < 20 cm, lax, axis very pubescent with a few scattered bracts, 1-3-flowered. Flowers white to rose-mauve, labellum mauve much darker or purple with green and yellow spots, pleasant fragrance. Dorsal sepal acute with outer surface very pubescent, oblong to elliptic-lanceolate, lateral sepals obliquely elliptic-lanceolate. Petals obliquely oblong-lanceolate, subacute. Labellum distinctly trilobed, dense papillae on both surfaces, base shortly saccate, centre with 3-5 longitudinal thickenings; lateral lobes oblong-ovate to elliptic, obtuse; median lobe linear-lanceolate, acute, apical half recurved. - Pl. 49, p. 105.
 
 ## Distribution
 
-Sierra Leone, Guinea, Liberia, Ivory Coast, Nigeria, Cameroon, Gabon, Congo (Brazzaville), Congo (Kinshasa), Uganda
+Sierra Leone, Guinée, Liberia, Côte d'Ivoire, Nigeria, Cameroun, Gabon, Congo (Brazzaville), Congo (Kinshasa), Ouganda
 
 ## Ecology
 
-alt. 70-1100 m. Epiphyte at < 2.5 m above ground, on a trunk overhanging a river as well as on shaded rock, often on thick moss layer, on forested escarpment of a tributary, in vegetation on river bank and in rainforest
+alt. 70-1100 m. Epiphytic at < 2.5 m above ground, on a trunk overhanging a river as well as on shaded rock, often on thick layer of moss, on forested escarpment of a tributary, in vegetation on river bar and in rainforest
 
-MATERIAL STUDIED (Map 16) :
+MATERIAL EXAMINED (Map 16):
 
-Arends, Louis & de Wilde 370, Waka, forestry track, near the place called "la Falaise", 1°18' S, 10°57' E (fl., Nov.), WAG!, LBV ; 475, Moukabo, 37 km E of Mouila, on the Yéno track, 1°40' S, 11°20' E (fl., Nov.), WAG!, LBV. de Wilde, Arends, Louis, Bouman & Karper 760, 10 km along the track from Fougamou to Sindara, "Chutes de l'Impératrice" on the Ngounyé (fl., Feb.), WAG!, LBV. de Wilde & Sosef 10476, km 18, along the forestry track going from Bilengui to Mouila, near the bridge over the Ogoulou, 1°55' S, 11°20' E (fl., Feb.), WAG!, LBV. Hallé 3356, Bélinga (fl., Nov.), P!. Le Testu 5182, Monila (fl., Jan.), BR!, P!.
+Arends, Louis & de Wilde 370, Waka, forest exploitation road, near the locality called "la Falaise", 1°18' S, 10°57' E (fl., Nov.), WAG!, LBV; 475, Moukabo, 37 km E of Mouila, on the Yéno road, 1°40' S, 11°20' E (fl., Nov.), WAG!, LBV. de Wilde, Arends, Louis, Bouman & Karper 760, 10 km along the road from Fougamou to Sindara, "Chutes de l'Impératrice" on the Ngounyé (fl., Feb.), WAG!, LBV. de Wilde & Sosef 10476, km 18, along the forest exploitation road from Bilengui to Mouila, near the bridge over the Ogoulou, 1°55' S, 11°20' E (fl., Feb.), WAG!, LBV. Hallé 3356, Bélinga (fl., Nov.), P!. Le Testu 5182, Monila (fl., Jan.), BR!, P!.
 
 ## Figures
 

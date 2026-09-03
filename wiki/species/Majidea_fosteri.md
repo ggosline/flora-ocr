@@ -16,15 +16,17 @@ tags: [species, generated]
 **Family**: [[Sapindaceae]]
 **Protologue**: Bot. Jahrb. 56 : 255 (1920)
 
+## Synonyms
+
+- Harpullia fosteri SPRAGUE, Kew Bull. : 434 (1908).
+
 ## Description
 
-— Harpullia fosteri SPRAGUE, Kew Bull. : 434 (1908).
+The specimens preserved in the Museum of Paris from Ghana, Nigeria, Chad, Cameroon, Central African Republic, Gabon, and Zaïre have all been referred to the species M. fosteri.
 
-The specimens preserved in the Paris Museum from Ghana, Nigeria, Chad, Cameroon, Central African Republic, Gabon and Zaïre have all been referred to the species M. fosteri.
+The plate was prepared from a Cameroon specimen for the 8-jugate leaf and from a Gabonese specimen for the flower and fruit. According to LETOUZEY, it is a fairly rare tree, reaching 35 m, with a sinuous bole some twelve meters long and 1 m in diameter. The bark, 1 cm thick, has the odor of Peru balsam. The locules of the capsule contain 2 seeds.
 
-The plate was prepared from a Cameroon specimen for the 8-jugate leaf and from a Gabonese specimen for the flower and fruit. According to LETOUZEY, it is a fairly rare tree, reaching 35 m, with a sinuous trunk some twelve metres long and 1 m in diameter. The bark, 1 cm thick, has the odour of balsam of Peru. The capsule locules contain 2 seeds.
-
-In the illustrated Gabonese plant, the leaves are 6–7-jugate. The inflorescences of 6–8 cm are terminal panicles of biparous cymes, with large bracts of 5–6 mm. The ♂ flowers have grey-pink sepals, with crisp hairs mixed with brush-like hairs forming a tomentum 3–5 tenths of a millimetre thick. The disk, 3 mm in diameter, has an orange colour in the fresh state. Capsules 3.5 cm wide, grey-pink externally and purple internally; they contain only one blue seed per locule (Touzet 6). PL. 44, 5–9', p. 193.
+In the Gabonese plant illustrated, the leaves are 6-7-jugate. The inflorescences of 6-8 cm are terminal panicles of biparious cymes, with large bracts of 5-6 mm. The ♂ flowers have greyish-pink sepals, with crisped hairs mixed with brush-like hairs forming a tomentum of 3-5 tenths of a millimeter in thickness. The disk, 3 mm in diameter, has an orange color in the fresh state. Capsules 3.5 cm wide, greyish-pink externally and purple within; they contain only one blue seed per locule (Touzet 6). PL. 44, 5-9', p. 193.
 
 ## Type
 

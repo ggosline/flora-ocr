@@ -7,6 +7,7 @@ family: Bignoniaceae
 vol: 27
 pages: 29-30
 source: sources/Bignoniaceae_vol27_paddle
+habit: "tree"
 tags: [species, generated]
 ---
 # *Fernandoa ferdinandi* (Welwitsch) Milne-Redhead
@@ -15,27 +16,22 @@ tags: [species, generated]
 **Family**: [[Bignoniaceae]]
 **Protologue**: Kew Bull. 3: 170 (1948); GENTRY, Ann. Miss. Bot. Gard. 62: 482 (1975); Fl. Cam. 27: 30 tab. 8 (1984)
 
-## Description
+## Synonyms
 
 - Bignonia ferdinandi WELW., Apont. Phytogeogr.: 584 (1858); Ann. Con. Ultramar: 55 (1859).
-
-– Ferdinandia superba WELW. EX. SEEM., J. of Bot. 3: 330, tab. 37-38 (1865); SPRAGUE, FTA 4 (2): 516 (1906).
-
+- Ferdinandia superba WELW. EX. SEEM., J. of Bot. 3: 330, tab. 37-38 (1865); SPRAGUE, FTA 4 (2): 516 (1906).
 - Ferdinandoa superba SEEM., J. of Bot. 8: 280 (1870).
-
 - Fernandoa superba (WELW. EX SEEM.) BAILL., Hist. Pl. 10 : 48 (1891).
-
 - Fernandia ferandi (WELW.) K. SCHUM., in ENGL. & PRANTL., Nat. Pflanzenfam. 4 (3b): 241 (1895).
-
 - Fernandia ferdinandi (WELW.) K. SCHUM., Bot. Jahrb. 33 : 332 (1903).
-
 - Heterophragma ferdinandi (WELW.) BRITTON, J. of Bot. 33 : 75 (1895).
+- Tisserantodendron walkeri SILLANS, Bull. Soc. Bot. Fr. 100 : 282 (1953). SYNTYPES : Le Testu 6344, 7446, 8390, Gabon (P).
 
-– Tisserantodendron walkeri SILLANS, Bull. Soc. Bot. Fr. 100 : 282 (1953). SYNTYPES : Le Testu 6344, 7446, 8390, Gabon (P).
+## Description
 
-Canopy tree reaching a height of 30 m and more and a diameter of 50 cm. Branchlets cylindrical, puberulent, with at maturity narrow pale contrasting lenticels. Leaves with 5–11 leaflets, acute at the apex, rounded or cuneiform at the base, 2–7 × 1–3.5 cm, entire, discolorous, puberulent and scaly above, bronze puberulent below; petioles 2–3 mm long, puberulent, rachis articulate but not visibly connate.
+Canopy tree reaching a height of 30 m and more and a diameter of 50 cm. Branchlets cylindrical, puberulent, with narrow pale contrasting lenticels at maturity. Leaves with 5–11 leaflets, acute at the apex, rounded or cuneiform at the base, 2–7 × 1–3.5 cm, entire, discolorous, puberulent and scaly above, bronze puberulent below; petioles 2–3 mm long, puberulent, rachis articulate but not visibly united.
 
-Inflorescence reduced, ramiflorous, of 1–5 flowers, pedicels puberulent, 2–3 cm long. Calyx broadly campanulate, irregularly 2–3 lobed, 1.5–2.2 × 2–3 cm, puberulent with scattered circular glands. Corolla orange, broadly infundibuliform-campanulate, 6–9 cm long, 3–4.5 cm broad at the mouth of the tube, tube 4–6 cm long, lobes 1.5–2.5 cm long; very sparsely puberulent externally (very little visible), glabrous internally. Stamens subequal, subexsert, anthers divergent, strongly curved, approximately 4 mm long. Pistil 3.5–5.5 cm long, ovary cylindrical, 7.8 × 1.5–2 mm, densely bronze puberulent. Disc patelliform, 1 mm long, 5–6 mm broad.
+Inflorescence reduced, ramiflorous, of 1–5 flowers, pedicels puberulent, 2–3 cm long. Calyx widely campanulate, irregularly 2–3 labiate, 1.5–2.2 × 2–3 cm, puberulent with scattered circular glands. Corolla orange, widely infundibuliform-campanulate, 6–9 cm long, 3–4.5 cm wide at the mouth of the tube, tube 4–6 cm long, lobes 1.5–2.5 cm long; very sparsely puberulent externally (scarcely visible), glabrous internally. Stamens subequal, subexserted, thecae divergent, strongly recurved, approximately 4 mm long. Pistil 3.5–5.5 cm long, ovary cylindrical, 7.8 × 1.5–2 mm, densely bronze puberulent. Disk patelliform, 1 mm long, 5–6 mm wide.
 
 Fruit not seen, apparently unknown. – Pl. 4, p. 25.
 

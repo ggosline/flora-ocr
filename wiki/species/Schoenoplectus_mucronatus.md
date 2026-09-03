@@ -7,6 +7,12 @@ family: Cyperaceae
 vol: 44
 pages: 201-202
 source: sources/Cyperaceae_vol44_liteparse
+countries: [Gabon]
+in_region: true
+subdivisions:
+  Gabon: [Ngounié, Nyanga]
+habit: "herb"
+altitude_m: "500–750"
 tags: [species, generated]
 ---
 # *Schoenoplectus mucronatus* (L.) Palla ex Kerner Planche 126, Figure 24a

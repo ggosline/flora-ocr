@@ -17,17 +17,19 @@ tags: [species, generated]
 **Genus**: [[Oncoba]]
 **Family**: [[Flacourtiaceae]]
 
+## Synonyms
+
+- Lindackeria ngounyensis PELLEGR., Bull. Mus. Nat. Hist. Nat. Paris 29 : 591 (1923) ; Fl. Mayombe 1 : 21 (1924) ; Mém. Soc. Bot. Fr. : 109 (1952). TYPE : Le Testu 2235, Gabon (holo-).
+
 ## Description
 
-– Lindackeria ngounyensis PELLEGR., Bull. Mus. Nat. Hist. Nat. Paris 29 : 591 (1923) ; Fl. Mayombe 1 : 21 (1924) ; Mém. Soc. Bot. Fr. : 109 (1952). TYPE : Le Testu 2235, Gabon (holo-).
+Shrub (approximately 2 m tall); branchlets velvety, especially when young.
 
-Shrub (approximately 2 m tall); branches velutinous, especially when young.
+Leaves with filiform, velvety stipules, ± caducous; petiole 2–6 cm long, velvety; blade obovate-oblong, attenuate at base, acuminate at apex, 12–26 × 4–11 cm, crenate-dentate, glabrous to glabrescent; secondary nerves 8–9 pairs.
 
-Leaves with filiform, velutinous stipules, ± caducous; petiole 2–6 cm long, velutinous; lamina obovate-oblong, attenuate at base, acuminate at apex, 12–26 × 4–11 cm, crenate-dentate, glabrous to glabrescent; secondary veins 8–9 pairs.
+Flowers in axillary racemes, 4–5 cm long; bracts triangular, 0.5–1 mm long, ± caducous; presence of cushion-like organs bearing trumpet-shaped glandular structures, at the base of the pedicels or fruit peduncles; pedicel 1–3 mm long, velvety; sepals 4, oblong-obovate, 7–8 × 3 mm, velvety externally; petals 7, oblong-obovate, 9–10 × 2.5–3 mm, glabrous; stamens numerous, with filament 2 mm long, glabrous; anthers oblong, as long as the filaments; ovary with 5 pluriovulate placentas, glabrous; style simple; stigma capitate, indistinct.
 
-Flowers in axillary racemes, 4–5 cm long; bracts triangular, 0.5–1 mm long, ± caducous; presence of cushions bearing glandular organs in the form of "trumpets", at the base of the pedicels or fruit peduncles; pedicel 1–3 mm long, velutinous; sepals 4, oblong-obovate, 7–8 × 3 mm, velutinous externally; petals 7, oblong-obovate, 9–10 × 2.5–3 mm, glabrous; stamens numerous, filament 2 mm long, glabrous; anthers oblong, as long as the filaments; ovary with 5 pluriovulate placentas, glabrous; style simple; stigma capitate, indistinct.
-
-Fruits unarmed, ovoid to ellipsoid, mucronate and apiculate at apex, 4–5 × 2.5–3 cm; seeds numerous (20–30), 4–6 mm long, ± angular, arillate, glabrous. - Pl. 15, p. 51.
+Fruits unarmed, ovoid to ellipsoid, mucronate and apiculate at apex, 4–5 × 2.5–3 cm; seeds numerous (20–30), 4–6 mm long, ± angular, arillate, glabrous. — Pl. 15, p. 51.
 
 ## Type
 

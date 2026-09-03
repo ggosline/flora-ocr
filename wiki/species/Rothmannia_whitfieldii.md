@@ -3,11 +3,11 @@ type: species
 name: Rothmannia whitfieldii
 authority: (Lindl.) Dandy
 genus: Rothmannia
-family: Rubiaceae
+family: Familledesrubiaceae
 vol: 17
 pages: 254-257
 source: sources/Rubiaceae_vol17_paddle
-countries: [Angola, Cameroon, Central African Republic, Cote d'Ivoire, Equatorial Guinea, Gabon, Ghana, Kenya, Liberia, Nigeria, Senegal, Sudan, Uganda]
+countries: [Angola, Cameroon, Central African Republic, Cote d'Ivoire, Gabon, Ghana, Kenya, Liberia, Nigeria, Senegal, Sudan, Uganda]
 in_region: true
 habit: "tree"
 tags: [species, generated]
@@ -15,11 +15,12 @@ tags: [species, generated]
 # *Rothmannia whitfieldii* (Lindl.) Dandy
 
 **Genus**: [[Rothmannia]]
-**Family**: [[Rubiaceae]]
+**Family**: [[Familledesrubiaceae]]
 **Protologue**: Dandy in F. W. Andrews, Fl. Pl. A.-E. Sud. 2:461, fig. 165 (1952)
 
 ## Synonyms
 
+- Dandy in F. W. Andrews, Fl. Pl. A.-E. Sud. 2:461, fig. 165 (1952). — Keay, Bull. J. B. Br. 28:55 (1958); F.W.T.A. ed. 2,2:126 (1963).
 - Gardenia Whitfieldii Lindl., Bot. Reg. 31 sub, t. 47 (1845).
 - Gardenia malleifera Hook., Bot. Mag. t. 4307 (1847).
 - Rothmannia malleifera (Hook.) Hook. ex Benth. et Hook., Niger Fl. : 383 (1849).
@@ -34,11 +35,11 @@ tags: [species, generated]
 
 ## Description
 
-Shrub or small tree 2–5 (8–15?) m tall. Internodes puberulent. Stipules deltoid acuminate pubescent 4–5 mm, caducous. Petiole 6–15 mm, puberulent then glabrescent. Lamina glabrous above, pubescent or ± glabrous below, sometimes glossy, sometimes discolorous, elliptic, sometimes obovate, 13–25 × 4–10 cm, acute or subobtuse at base. Venation pubescent or glabrous below; 9–15 pairs of secondary arched ascending veins; intersecondary veinlets distinct on lower surface. Domatia absent.
+Shrub or small tree 2–5 (8–15?) m tall. Internodes pubérulent. Stipules deltoid acuminate pubescent 4–5 mm, deciduous. Petiole 6–15 mm, pubérulent then glabrescent. Blade glabrous above, pubescent or ± glabrous below, sometimes varnished, sometimes discolorous, elliptic, sometimes obovate, 13–25 × 4–10 cm, with acute or subobtuse base. Nerves pubescent or glabrous below; 9–15 pairs of secondary nerves arcuate ascending; intersecondary nervules distinct on the lower surface. Domatia absent.
 
-Flowers solitary white, pendulous, arising from an internode 2–6 (15) mm, borne on a reddish pubescent peduncle 10–25 mm bearing 4 to 6 opposite or supposed bracteoles, deltoid acute 3–5 mm. Ovary ± distinctly 10-furrowed reddish pubescent as well as the 5-prismatic or cylindrical calyx tube; 5 linear or tapered erect lobes, (12) 15–50 (70) mm long, subequal. Corolla when dry reddish pubescent, of variable size, 10–23 cm long ordinarily in Gabon; tube 3–6 cm long in its narrow part, with expanded throat approximately 3–5 × 4–6 cm, glabrous inside; 5 ovate acute to orbicular lobes approximately 2.5–4 cm. Anthers almost entirely included attaining 40 × 3 mm, with apiculate or obtuse apex, attenuate at base and briefly bilobed or obtuse. Pollen tricolporate breviaxial reticulate. Style filiform glabrous with fleshy white clavate head approximately 5 × 1 cm, bilabirate at apex, entirely exsert.
+Flowers solitary white, pendulous, arising from an internode 2–6 (15) mm, borne on a rust-coloured pubescent peduncle 10–25 mm bearing 4 to 6 opposite or supposed bracteoles, deltoid acute 3–5 mm. Ovary ± distinctly 10-furrowed rust pubescent as well as the 5-prismatic or cylindric calyx tube; 5 linear or tapering lobes erect, (12) 15–50 (70) mm long, subequal. Corolla when dry rust pubescent, of variable size, ordinarily 10–23 cm in length in Gabon; tube 3–6 cm long in its narrow part, with flared throat approximately 3–5 × 4–6 cm, glabrous on the inside; 5 ovate acute to orbicular lobes approximately 2.5–4 cm. Anthers almost entirely included reaching 40 × 3 mm, with apiculate or obtuse apex, with attenuate base and briefly bilobed or obtuse. Pollen tricolporate breviaxial reticulate. Style filiform glabrous with fleshy white clavate head approximately 5 × 1 cm, bilibate at the apex, entirely exsert.
 
-Fruit globoid 5–7 cm in diameter, sometimes spherical, sometimes ± deeply 10-ribbed, with persistent calyx tube sometimes presenting a constriction at the base. Fruit wall approximately 3–5 mm thick. Seeds sublenticular approximately 11 mm.
+Fruit globoid 5–7 cm in diameter, sometimes spherical, sometimes ± deeply 10-ribbed, with persistent calyx tube sometimes presenting a constriction at the base. Fruit wall thick approximately 3–5 mm. Seeds sublenticular approximately 11 mm.
 
 ## Type
 
@@ -46,9 +47,9 @@ Whitfield 1844 (holotype BM!, isotype K), Sierra Leone
 
 ## Discussion
 
-The variability of the species and its very wide distribution explain the abundance of synonymy. Smooth-fruited and ribbed-fruited specimens are found in Gabon.
+The variability of the species and its very wide distribution explain the abundance of synonymy. Smooth-fruited and ribbed-fruited forms are found in Gabon.
 
-Senegal, Sudan, Guineas, Liberia, Ivory Coast, Ghana, Nigeria, Cameroon, Rio Muni, Gabon, Congo, Central African Republic, Kenya, Tanganyika, Uganda, Northern Rhodesia and Angola.
+Senegal, Sudan, Guineas, Liberia, Côte d'Ivoire, Ghana, Nigeria, Cameroon, Rio-Muni, Gabon, Congo, Centrafrique, Kenya, Tanganyika, Uganda, Nord Rhodésie and Angola.
 
 ## Vernacular names
 
@@ -89,5 +90,5 @@ G. Touzet 150, Nkoulounga (vieille fl. et fr. juin). Walker s.n., env. de Sindar
 ## See also
 
 - [[Rothmannia]]
-- [[Rubiaceae]]
+- [[Familledesrubiaceae]]
 - [[vol17]]

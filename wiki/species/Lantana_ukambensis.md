@@ -7,6 +7,12 @@ family: Verbenaceae
 vol: 58
 pages: 138-140
 source: sources/Verbenaceae_vol58_liteparse
+countries: [Angola, Cameroon, Central African Republic, Gabon, Nigeria]
+in_region: true
+subdivisions:
+  Gabon: [Haut-Ogooué]
+habit: "shrub"
+altitude_m: "550"
 tags: [species, generated]
 ---
 # *Lantana ukambensis* (Vatke) Verdc. Planche 37

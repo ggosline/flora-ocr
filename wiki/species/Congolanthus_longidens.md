@@ -7,6 +7,12 @@ family: Gentianaceae
 vol: 54
 pages: 69-72
 source: sources/Gentianaceae_vol54_liteparse
+countries: [Central African Republic, Democratic Republic of the Congo, Gabon, Nigeria, Republic of the Congo, Tanzania, Uganda]
+in_region: true
+subdivisions:
+  Gabon: [Ogooué-Ivindo, Ogooué-Maritime]
+habit: "herb"
+altitude_m: "1200"
 tags: [species, generated]
 ---
 # *Congolanthus longidens* (N.E.Br.) A.Raynal Planche 23

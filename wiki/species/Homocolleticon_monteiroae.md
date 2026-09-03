@@ -18,25 +18,24 @@ tags: [species, generated]
 **Family**: [[Orchidaceae]]
 **Protologue**: FCAM 3 : 728 (2001)
 
+## Synonyms
+
+- Angraecum antennatum Kraenzl., Bot. Jahrb. Syst. 17 : 61 (1893).
+- Cyrtorchis monteiroae (Rchb.f.) Schltr., Die Orchideen : 596 (1914).
+- Listrostachys droogmansiana De Wild., Belg. Colon. 8 : 425 (1902).
+- Cyrtorchis droogmansiana (De Wild.) Schltr., Beih. Bot. Centralbl. 36 : 130 (1918).
+
 ## Description
 
-– Angraecum antennatum Kraenzl., Bot. Jahrb. Syst. 17 : 61 (1893).
-
-– Cyrtorchis monteiroae (Rchb.f.) Schltr., Die Orchideen : 596 (1914).
-
-– Listrostachys droogmansiana De Wild., Belg. Colon. 8 : 425 (1902).
-
-– Cyrtorchis droogmansiana (De Wild.) Schltr., Beih. Bot. Centralbl. 36 : 130 (1918).
-
-Stem reaching 200 cm. Leaves 8-21 x (2.5-) 3-5 cm, obliquely oblanceolate, narrowly elliptic, tapering at both ends, unequally bilobed. Inflorescence lax, 18-32 cm, 10-25-flowered, pendulous. Flowers of medium size, resupinate, white, tinged with orange-brown on the spur, becoming entirely orange-brown at maturity. Dorsal sepal oleate-lanceolate. Petals and lateral sepals obliquely lanceolate. Labellum 14-15 x 5-5.5 mm, wider near the base, then narrowing towards the apex, acuminate. Spur 35-45 mm, narrowly cylindric, sigmoid, acute. Gynostemium 2 mm. — Pl. 165, p. 365.
+Stem reaching 200 cm. Leaves 8–21 × (2.5–) 3–5 cm, obliquely oblanceolate, narrowly elliptic, tapered at both ends, unequally bilobed. Inflorescence lax, 18–32 cm, 10–25-flowered, pendulous. Flowers medium-sized, resupinate, white, tinged with orange-brown on the spur, becoming entirely orange-brown at maturity. Dorsal sepal ole-lanceolate. Petals and lateral sepals obliquely lanceolate. Lip 14–15 × 5–5.5 mm, wider near the base, then narrowing toward the apex, acuminate. Spur 35–45 mm, narrowly cylindric, sigmoid, acute. Gynostemium 2 mm. — Pl. 165, p. 365.
 
 ## Distribution
 
-Sierra Leone, Liberia, Ghana, Nigeria, Cameroon, Príncipe, Gabon, Annobon, Congo, Central African Republic, Zaire, Angola, Uganda
+Sierra Leone, Liberia, Ghana, Nigeria, Cameroon, Príncipe, Gabon, Annobon, Congo, Central African Republic, Zaïre, Angola, Uganda
 
 ## Ecology
 
-alt. 400-1,300 m. Epiphytic in sublittoral forest, riparian forest, high forest, forest gallery, on trees in brackish swampy sites
+alt. 400–1,300 m. Epiphytic in sublittoral forest, riparian forest, tall forest, forest gallery, on trees in brackish swampy sites
 
 MATERIAL STUDIED (Map 77):
 

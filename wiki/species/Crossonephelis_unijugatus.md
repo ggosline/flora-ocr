@@ -18,13 +18,15 @@ tags: [species, generated]
 **Family**: [[Sapindaceae]]
 **Protologue**: Blumea 21 : 102 (1973)
 
+## Synonyms
+
+- Melanodiscus unijugatus PELLEGRIN, Bull. Soc. Bot. France 85 : 293 (1938); Fl. Mayombe 3 : 111 (1938).
+
 ## Description
 
-— Melanodiscus unijugatus PELLEGRIN, Bull. Soc. Bot. France 85 : 293 (1938); Fl. Mayombe 3 : 111 (1938).
+Shrub of 3 m, little-branched; internodes 8–10 cm; Leaves with petiole of (1–3(–5) cm, sulcate or flat above, bearing 2 leaflets on petiolules of ca. 5 mm; laminae elliptic, acuminate, 12–20 × 3–6 cm, greenish above, duller beneath, brownish; ca. 8 pairs of nerves.
 
-Shrub 3 m tall, sparsely branched; internodes 8–10 cm; leaves with petiole (1–3(–5) cm, furrowed or flat above, bearing 2 leaflets on petiolules ca. 5 mm; blades elliptic, acuminate, 12–20 × 3–6 cm, upper surface greenish, lower surface more dull, brownish; ca. 8 pairs of veins.
-
-Inflorescences terminal, 6–12 cm, axis bearing 2–4 branches near the base; cymules with 1–3 flowers inserted in the axil of bracts at intervals of 5–10; sepals 1.5 mm; stamens 3 mm; pistil pale yellow (LE TESTU). PL. 33, 7–8", p. 139.
+Inflorescences terminal, 6–12 cm, with axis bearing 2–4 branches near the base; cymules with 1–3 flowers inserted at the axil of bracts at intervals of 5–10; sepals 1.5 mm; stamens 3 mm; pistil pale yellow (LE TESTU). PL. 33, 7–8", p. 139.
 
 ## Type
 
@@ -32,7 +34,7 @@ Le Testu 1865 (fl. ♀), 1866 (fl. ♂), Gabon (P!)
 
 ## Discussion
 
-HAUMAN (Fl. Congo 9 : 367, 1960) cites 3 specimens (Donis 2081, 2215, 2268, fr.) collected in the Mayombé that could be compared to this species, although sometimes presenting leaves 2-jugate or 1–2-jugate on the same individual. A branch with leaves very conforming to the type but with fruits yellow pubescent with 3 locules could be referred to C. unijugatus : N. Hallé & A. Le Thomas 32, Bélinga, Gabon.
+HAUMAN (Fl. Congo 9 : 367, 1960) cites 3 specimens (Donis 2081, 2215, 2268, fr.) collected at Mayombé that could be compared to this species, although sometimes presenting 2-jugate or 1–2-jugate leaves on the same individual. A branch with leaves very conforming to the type but with yellow pubescent fruits with 3 locules could be referred to C. unijugatus : N. Hallé & A. Le Thomas 32, Bélinga, Gabon.
 
 ## Specimens examined
 

@@ -7,6 +7,11 @@ family: Podostemaceae
 vol: 51
 pages: 47-47
 source: sources/Podostemaceae_vol51_liteparse
+countries: [Gabon, Nigeria]
+in_region: true
+subdivisions:
+  Gabon: [Ogooué-Lolo]
+altitude_m: "225"
 tags: [species, generated]
 ---
 # *Ledermanniella tenuifolia* (G.Taylor) C.Cusset Planche 20

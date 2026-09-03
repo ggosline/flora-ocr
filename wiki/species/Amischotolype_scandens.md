@@ -52,7 +52,7 @@ The collection of recent specimens has highlighted the importance of certain cha
 
 ![Amischotolype scandens](../sources/Commelinaceae_vol55_liteparse/figures/fig_015_p0013.png)
 
-*Plate 1. Amischotolype scandens : 1. General aspect with inflorescences. – 2. Stem showing a branching. – 3. Sheath of a leaf with inflorescence and young aerial roots. – 4. Bud with some tepals removed. – 5. Flower. – 6. Cilium of a staminode. (1, 3 : Maas 10258 ; 2, 4-6 : Tchouto 3211 ).*
+*PL. 1. — Amischotolype scandens : 1. General aspect with inflorescences. – 2. Stem showing a branching. – 3. Sheath of a leaf with inflorescence and young aerial roots. – 4. Bud with some tepals removed. – 5. Flower. – 6. Cilium of a staminode. (1, 3 : Maas 10258 ; 2, 4-6 : Tchouto 3211 ).*
 
 ## Notes
 

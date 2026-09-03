@@ -7,6 +7,12 @@ family: Scrophulariaceae
 vol: 48
 pages: 149-151
 source: sources/Scrophulariaceae_vol48_liteparse
+countries: [Burkina Faso, Cameroon, Central African Republic, Cote d'Ivoire, Democratic Republic of the Congo, Equatorial Guinea, Gabon, Ghana, Kenya, Liberia, Madagascar, Nigeria, Republic of the Congo, Sao Tome and Principe, Senegal, Sierra Leone, Tanzania, Togo, Uganda]
+in_region: true
+subdivisions:
+  Gabon: [Estuaire, Moyen-Ogooué, Ngounié, Nyanga, Ogooué-Ivindo, Ogooué-Lolo, Ogooué-Maritime, Woleu-Ntem]
+habit: "herb"
+altitude_m: "0–620"
 tags: [species, generated]
 ---
 # *Vandellia diffusa* L. Planche 51, 54(E–F)

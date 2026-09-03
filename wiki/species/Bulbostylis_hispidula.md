@@ -7,6 +7,12 @@ family: Cyperaceae
 vol: 44
 pages: 27-29
 source: sources/Cyperaceae_vol44_liteparse
+countries: [Gabon, Madagascar]
+in_region: true
+subdivisions:
+  Gabon: [Estuaire, Ogooué-Ivindo, Ogooué-Lolo, Ogooué-Maritime]
+habit: "herb"
+altitude_m: "0–400"
 tags: [species, generated]
 ---
 # *Bulbostylis hispidula* (Vahl) R.W.Haines Planche 12

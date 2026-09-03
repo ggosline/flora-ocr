@@ -7,6 +7,12 @@ family: Cyperaceae
 vol: 44
 pages: 168-169
 source: sources/Cyperaceae_vol44_liteparse
+countries: [Gabon]
+in_region: true
+subdivisions:
+  Gabon: [Estuaire, Ngounié]
+habit: "herb"
+altitude_m: "100"
 tags: [species, generated]
 ---
 # *Mapania chevalieri* (Nelmes) Lye Figure 15a

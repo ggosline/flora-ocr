@@ -7,6 +7,12 @@ family: Convolvulaceae
 vol: 46
 pages: 33-35
 source: sources/Convolvulaceae_vol46_liteparse
+countries: [Gabon]
+in_region: true
+subdivisions:
+  Gabon: [Ogooué-Maritime]
+habit: "herb"
+altitude_m: "1500"
 tags: [species, generated]
 ---
 # *Ipomoea aquatica* Forsk. Planche 11

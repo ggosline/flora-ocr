@@ -7,6 +7,13 @@ family: Ochnaceae
 vol: 48
 pages: 77-79
 source: sources/Ochnaceae_vol48_liteparse
+countries: [Angola, Democratic Republic of the Congo, Gabon, Republic of the Congo]
+in_region: true
+subdivisions:
+  Gabon: [Haut-Ogooué, Ogooué-Ivindo, Ogooué-Lolo]
+habit: "shrub"
+habitat: [savanna, secondary forest]
+altitude_m: "350–650"
 tags: [species, generated]
 ---
 # *Ochna latisepala* (Tiegh.) Bamps Planche 21

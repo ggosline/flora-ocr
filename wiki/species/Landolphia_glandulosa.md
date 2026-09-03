@@ -7,6 +7,7 @@ family: Apocynaceae
 vol: 59
 pages: 127-129
 source: sources/Apocynaceae_vol59_liteparse
+habit: "liana"
 tags: [species, generated]
 ---
 # *Landolphia glandulosa* (Pellegr.) Pichon Planche 53(8)
@@ -35,7 +36,7 @@ Breteler 6487 ; 8 : Le Testu 1968 ). Drawing by Yuen Fang Tan (1-7), Naturalis B
 
 ![Landolphia glandulosa](../sources/Apocynaceae_vol59_liteparse/figures/fig_112_p0128.jpeg)
 
-*Plate 53 . Landolphia incerta : 5DPHDXÀRULIqUHîҀ±&RUROOHî±3DUWLHGHFRUROOHDYHF stamen (× 6). – 4. Pistil (× 20). – 5. Fruit (× 1). – 6. Seed (× 2). – 7. Idem, longitudinal section showing the embryo (× 2). – Landolphia glandulosa Leeuwenberg 9027 ; 5-7 :*
+*Plate 53. Landolphia incerta: 1. Flowering branch (× ½). – 2. Flower (× 3). – 3. Part of corolla with stamen (× 6). – 4. Pistil (× 20). – 5. Fruit (× 1). – 6. Seed (× 2). – 7. Idem, longitudinal section showing the embryo (× 2). – Landolphia glandulosa Leeuwenberg 9027; 5-7:*
 
 ## Notes
 

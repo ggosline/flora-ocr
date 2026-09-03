@@ -7,6 +7,12 @@ family: Cyperaceae
 vol: 44
 pages: 32-33
 source: sources/Cyperaceae_vol44_liteparse
+countries: [Gabon, Kenya, Senegal, Zimbabwe]
+in_region: true
+subdivisions:
+  Gabon: [Haut-Ogooué, Moyen-Ogooué, Woleu-Ntem]
+habit: "herb"
+altitude_m: "1200"
 tags: [species, generated]
 ---
 # *Bulbostylis pilosa* (Willd.) Cherm. Planche 15

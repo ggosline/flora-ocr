@@ -15,13 +15,13 @@ tags: [species, generated]
 **Family**: [[Ebenaceae]]
 **Protologue**: Bull. Jard. Bot. Brux. 26 : 239 et 242 (1956), FWTA ed. 2, 2 : 15 (1963);
 
+## Synonyms
+
+- Maba cinnabarina Gürke, Bot. Jahrb. 43 : 199 (1909).
+- Diospyros bicolor H. Winkl., Bot. Jahrb. 41: 283 (1908), non D. bicolor Klotzsch (1861).
+- Maba bicolor MilDBR., Notizbl. Bot. Gart. Berl. 9 : 1044 (1926) p.p.
+
 ## Description
-
-— Maba cinnabarina Gürke, Bot. Jahrb. 43 : 199 (1909).
-
-— Diospyros bicolor H. Winkl., Bot. Jahrb. 41: 283 (1908), non D. bicolor Klotzsch (1861).
-
-— Maba bicolor MilDBR., Notizbl. Bot. Gart. Berl. 9 : 1044 (1926) p.p.
 
 —? Diospyros Winkleri Gürke, Bot. Jahrb. 43 : 211 (1909), nom. illegit.
 
@@ -29,23 +29,23 @@ tags: [species, generated]
 
 — Diospyros subcanescens Gürke ex De Wild., Pl. Bequaert. 3 : 554 (1926), nom. nud.
 
-— Diospyros cinnabarina Gürke ex De Wild., Pl. Bequaert. 3 : 538 (1926), nom. nud.
+— Diospyros cinnabarinа Gürke ex De Wild., Pl. Bequaert. 3 : 538 (1926), nom. nud.
 
 — Diospyros Heudelotii auct. non HIERN : FWTA ed. I, 2 : 6 (1931), p.p. quoad syn. Maba cinnabarina tantum.
 
-* Certain affinities are evident between this species and D. simulans (no. 32). The differences noted (concerning the pubescence of the calyx, corolla, style, the size and glabrescence of the leaves, the pattern of venation, the distribution of glands...) appear ultimately to be of little value at the specific level and lead to the conclusion that D. simulans should be considered a synonym of D. cinnabarina; field studies and geographic distribution data may subsequently allow infraspecific distinctions.
+* Certain affinities must be established between this species and D. simulans (no. 32). The differences observed (concerning the pubescence of the calyx, corolla, style, the size and glabrescense of the leaves, the pattern of the venation, the distribution of glands...) ultimately appear to be of little value at the specific level and lead to the conclusion that D. simulans should be considered as a synonym of D. cinnabarina, field studies and geographical distribution data being able to allow infraspecific distinctions at a later date.
 
-Shrub reaching 15 m in height; bark black, apparently smooth but with superficial vertical fissures that anastomose; oblique section of the bark showing a black ring of the rhytidome then a red and fibrous layer; sapwood white passing to reddish-brown heartwood. Young branches of olive, grayish, blackish or black tint, covered with fine pubescence quickly deciduous.
+Shrub reaching 15 m in height; bark black, apparently smooth but with superficial vertical anastomosing fissures; oblique section of the bark with black rhytidome ring then red and fibrous layer; sapwood white passing to a reddish-brown heartwood. Young branches of olive, grayish, blackish or black tint, covered with fine pubescence rapidly caducous.
 
-Leaves with petioles measuring up to 8 mm in length, with blade ± oval in shape, elliptic or often lanceolate, reaching up to 14 × 6 cm (18 × 8 cm for D. Winkleri Gürke), with cuneate base or sometimes slightly rounded, with apex terminated by an acute acumen; midvein slightly impressed on the upper side of the blade; 3-5 (-6) pairs of lateral veins running toward the blade margin; tertiary veins and veinlets practically invisible; blade papyraceous, dull reddish in tone on the upper surface and gray-pink or violaceous on the lower surface on dried specimens but actually blue-glaucous green in tone on fresh specimens; this lower surface bears short, appressed hairs, more densely distributed on the underside of the veins; small black glands scattered beneath the blade, at least in the lower half and especially near, but apart from, the midvein.
+Leaves with petiole measuring up to 8 mm in length, with lamina of ± oval, elliptic or often lanceolate form, reaching up to 14 × 6 cm (18 × 8 cm for D. Winkleri Gürke), with cuneiform base or sometimes slightly rounded, with apex terminated by an acute acumen; midvein slightly impressed on the upper surface of the lamina; 3–5 (–6) pairs of lateral veins running towards the lamina margin; tertiary veins and veinlets practically invisible; lamina papyraceous, with reddish matte tint on the upper surface and grayish-pink or violaceous on the lower surface in dried specimens but in reality glaucous blue-green tint in fresh specimens; this lower surface bears short, appressed hairs, more densely distributed on the underside of the veins; small black glands scattered under the lamina, at least in the lower half of it and especially near, but away from, the midvein.
 
-Male inflorescences formed of 3-9 flowers (perhaps 15-25 according to the original diagnosis and on old branches; 30-40 for D. Winkleri Gürke and on old wood) fasciculate at the leaf axils or leaf scars, accompanied by minute pubescent bracteoles entangled. Male flowers with pubescent pedicel of ± 2 mm (8 mm for D. Winkleri Gürke); campanulate calyx of 3 mm, sparsely covered with short thick hairs externally and densely internally, with 3-4 triangular lobes reaching 2/3 the depth of the calyx; corolla narrowly conical in bud, narrowly botuliform in the open flower, measuring then 12 mm in length and 2.5 mm in width, with 3 lobes representing 1/4 the height of this corolla, glabrous except at the level of the lobes, sparsely covered with short thick hairs; 6-10 stamens of irregular size inserted on the receptacle, with filaments 0.5-2 mm long, pubescent at the base, with glabrous anthers, 1.5-3.5 mm tall, with distinct apicule of ± 1 mm; no pistillode apparently.
+Male inflorescences formed of 3–9 flowers (perhaps 15–25 according to the original diagnosis and on old branches; 30–40 for D. Winkleri Gürke and on old wood) fascicled at the leaf axils or leaf scars, accompanied by minute bracteoles with tangled pubescent hairs. Male flowers with pubescent pedicel of ± 2 mm (8 mm for D. Winkleri Gürke); campanulate calyx of 3 mm, sparsely covered with short and thick hairs externally and densely internally, with 3–4 triangular lobes reaching 2/3 of the calyx depth; corolla narrowly conical in bud, narrowly botuliform in the open flower, then measuring 12 mm in length and 2.5 mm in width, with 3 lobes representing 1/4 of the height of this corolla, glabrous except at the level of the lobes, sparsely covered with short and thick hairs; 6–10 stamens of irregular size inserted on the receptacle, with filaments 0.5–2 mm long, pubescent at the base, with glabrous anthers, 1.5–3.5 mm high, with a distinct apicule of ± 1 mm; no pistillode apparently.
 
-Female inflorescences formed of 5-25 flowers subfasciculate at the leaf scars or on aged branches. Female flowers with robust pedicels of 2.5-5 (-10) mm; campanulate calyx of 4.5 mm, scarcely accrescent subsequently, with broadly oval-triangular lobes and otherwise as in the male flowers; corolla conical in bud then 8 × 3 mm, with 3 lanceolate lobes representing 1/3 the height of this corolla, coriaceous, pink; 6-7 lanceolate staminodes attached at the base of the corolla tube, of ± 5 mm, glabrous; ovary ovoid-conical of 4.5 × 3 mm, densely tomentulose with short thick hairs, with 6 locules; styles fused into a short column terminated by 3 stigmates, erect-curved, glabrous.
+Female inflorescences formed of 5–25 subfascicled flowers at the leaf scar axils or on the aged branches. Female flowers with robust pedicels of 2.5–5 (–10) mm; campanulate calyx of 4.5 mm, barely accrescent subsequently, with broadly ovate-triangular lobes and otherwise as that of the male flowers; corolla conical in bud then 8 × 3 mm, with 3 lanceolate lobes representing 1/3 of the height of this corolla, coriaceous, pink; 6–7 lanceolate staminodes attached to the base of the corolla tube, of ± 5 mm, glabrous; ovary ovoid-conical 4.5 × 3 mm, densely tomentellous with short and thick hairs, with 6 locules; styles fused into a short column terminated by 3 stigmas, erect-recurved, glabrous.
 
-Fruits with robust pedicel reaching 1 cm in length, of broadly ovoid-conical shape, measuring 3.5-4 × 3-3.5 cm, orange-red in tone, covered with fine warts and puberulent, at least toward the apex, like the ovary; 6 seeds, of 16 (24 according to the original diagnosis) × 6 mm, black.
+Fruits with robust pedicel reaching 1 cm in length, of broadly ovoid-conical form, measuring 3.5–4 × 3–3.5 cm, of reddish-orange tint, covered with fine warts and puberulent, at least towards the apex, like the ovary; 6 seeds, of 16 (24 according to the original diagnosis) × 6 mm, black.
 
-This species is especially known from Cameroon and is localized in the region of dense evergreen humid rain forest along the coast; it was perhaps rediscovered by Mildbraed (no. 5132, not 5312, cf. F. WHITE (1963), err.) in Congolese evergreen-type forest, between Assobam (present-day Mpan) and Lomie, although this no. 5132 (HBG!) could also be referred to D. simulans F. White (cf. F. WHITE, Bull. Jard. Bot. Brux. 33 : 361 (1963)). F. WHITE (loc. cit. : 358 (1963)) supposes that this species also exists in southwestern Nigeria; its presence is on the other hand certain in the southeastern part of this territory (Talbot s.n., Oban), as well as in Gabon, where it appears rare, in the region of Fernan Vaz at the mouth of the Ogooué. It also exists in Congo-Brazzaville in the region of Sibiti (Farron 4401).
+This species is mainly known from Cameroon and is localized in the region of dense humid evergreen littoral forest; it may perhaps have been rediscovered by Mildbraed (no. 5132, not 5312, cf. F. WHITE (1963), sphalm.) in evergreen type Congolese forest, between Assobam (present-day Mpan) and Lomie, although this no. 5132 (HBG!) could also be related to D. simulans F. White (cf. F. WHITE, Bull. Jard. Bot. Brux. 33 : 361 (1963)). F. WHITE (loc. cit. : 358 (1963)) supposes that this species also exists in the South West of Nigeria; its presence is on the other hand certain in the South East of this territory (Talbot s. n., Oban), as well as in Gabon, where it appears rare, in the region of Fernan Vaz at the mouth of the Ogooué. It also exists in Congo-Brazzaville in the region of Sibiti (Farron 4401).
 
 ## Specimens examined
 

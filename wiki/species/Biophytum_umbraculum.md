@@ -7,6 +7,11 @@ family: Oxalidaceae
 vol: 38
 pages: 44-46
 source: sources/Oxalidaceae_vol38_liteparse
+countries: [Gabon]
+in_region: true
+subdivisions:
+  Gabon: [Estuaire, Ngounié, Nyanga, Ogooué-Ivindo]
+habit: "herb"
 tags: [species, generated]
 ---
 # *Biophytum umbraculum* Welw .

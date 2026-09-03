@@ -7,6 +7,12 @@ family: Gnetaceae
 vol: 42
 pages: 28-30
 source: sources/Gnetaceae_vol42_liteparse
+countries: [Cameroon, Gabon]
+in_region: true
+subdivisions:
+  Gabon: [Estuaire, Ogooué-Ivindo]
+habitat: [primary forest]
+altitude_m: "1200"
 tags: [species, generated]
 ---
 # *Gnetum buchholzianum* Engl. Planche 8

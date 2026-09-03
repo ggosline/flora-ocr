@@ -7,6 +7,10 @@ family: Aristolochiaceae
 vol: 42
 pages: 14-16
 source: sources/Aristolochiaceae_vol42_liteparse
+countries: [Cameroon, Gabon]
+in_region: true
+habit: "liana"
+altitude_m: "0–700"
 tags: [species, generated]
 ---
 # *Pararistolochia ceropegioides* (S.Moore) Hutch. & Dalziel Planche 2

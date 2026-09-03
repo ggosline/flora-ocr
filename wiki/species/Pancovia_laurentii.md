@@ -7,7 +7,7 @@ family: Sapindaceae
 vol: 23
 pages: 124-126
 source: sources/Sapindaceae_vol23_paddle
-countries: [Cameroon, Central African Republic, Democratic Republic of the Congo, Gabon]
+countries: [Cameroon, Democratic Republic of the Congo, Gabon]
 in_region: true
 habit: "tree"
 tags: [species, generated]
@@ -18,17 +18,17 @@ tags: [species, generated]
 **Family**: [[Sapindaceae]]
 **Protologue**: Ann. Mus. Congo, ser. 5, 3 : 112 (1909)
 
+## Synonyms
+
+- Chytranthus laurentii DE WILD., Miss. Laur. : 146 (1905).
+- Pancovia lujai DE WILD., Bull. Jard. Bot. Etat Bruxelles 4 : 372 (1914) p.p., fleurs.
+- Pancovia angustifolia RADLK., in ENGL., Pflanzenreich. Sapindaceae : 807 (1933).
+
 ## Description
 
-— Chytranthus laurentii DE WILD., Miss. Laur. : 146 (1905).
+Dioecious tree, reaching 20 m with a bole of 10 m and diameter of 45 cm; young individuals have a palm-like habit (HAUMAN). Leaves grouped in rosettes at the branch extremities; petiole 10–20 cm, diameter 4–5 mm; rachis 20–40 cm; basal leaflets 15–18 × 4.5–6 cm, median 16–22 × 5 cm, upper 23 × 6 cm; 10–14 pairs of nerves; blade concolorous, olive green, glossy above, dull below.
 
-— Pancovia lujai DE WILD., Bull. Jard. Bot. Etat Bruxelles 4 : 372 (1914) p.p., flowers.
-
-— Pancovia angustifolia RADLK., in ENGL., Pflanzenreich. Sapindaceae : 807 (1933).
-
-Dioecious tree, reaching 20 m with bole of 10 m and diameter of 45 cm; young plants have a palm-like habit (HAUMAN). Leaves grouped in rosettes at the branch tips; petiole 10-20 cm, diameter 4-5 mm; rachis 20-40 cm; basal leaflets 15-18 × 4.5-6 cm, median 16-22 × 5 cm, upper 23 × 6 cm; 10-14 pairs of veins; blade concolorous, olive green, glossy above, matte below.
-
-Inflorescence 10-15 (-30) cm, grooved pubescent axes; cymules dense sessile with 4-6 flowers and bracts; pedicel 3-4 mm; calyx 6-7 mm, villous on both faces, with hairs 0.2-0.3 mm not crisped; petals 7-8 mm of which 2 for the villous claw, with flexuous hairs 1 mm; scales villous below, digitate, digitate and villous excrescences also; blade denticulate and undulate at the margin, vaulted, slightly villous on the back, (6-7-8(-10) villous stamens. Fruit trigonous, 25 mm high, 30 mm wide, each carpel furnished with a wing 3 mm proud on the back, pericarp fleshy, 5 mm thick, edible sought-after (HAUMAN). PL. 29, 1-5', p. 123.
+Inflorescence 10–15 (–30) cm, axes grooved pubescent; cymules congested sessile with 4–6 flowers with bracts; pedicel 3–4 mm; calyx 6–7 mm, hirsute on both faces, with hairs 0.2–0.3 mm not crispy; petals 7–8 mm, of which 2 for the hirsute claw, with flexuous hairs 1 mm; scales hirsute beneath, digitate, with digitate and hirsute excrescences as well; blade denticulate and undulate at margin, vaulted, slightly hirsute on the back, (6–7–8(–10) stamens hirsute. Fruit trigonous, 25 mm high, 30 mm broad, each carpel furnished with a wing 3 mm projecting on the back, pericarp fleshy, 5 mm thick, edible and sought-after (HAUMAN). PL. 29, 1–5', p. 123.
 
 ## Type
 
@@ -36,7 +36,7 @@ Laurent s.n., Zaïre (holo-, BR)
 
 ## Discussion
 
-Species widespread in the Central African Republic, Cameroon, Gabon and Zaïre.
+Species widespread in République Centrafricaine, Cameroon, Gabon, and Zaïre.
 
 ## Vernacular names
 

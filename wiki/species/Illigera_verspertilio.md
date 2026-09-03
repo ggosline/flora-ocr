@@ -7,6 +7,8 @@ family: Hernandiaceae
 vol: 38
 pages: 23-24
 source: sources/Hernandiaceae_vol38_liteparse
+countries: [Cameroon, Central African Republic, Cote d'Ivoire, Gabon, Liberia, Sierra Leone]
+in_region: true
 tags: [species, generated]
 ---
 # *Illigera verspertilio* (Benth.) Baker f.

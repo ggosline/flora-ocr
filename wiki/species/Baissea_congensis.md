@@ -7,6 +7,10 @@ family: Apocynaceae
 vol: 59
 pages: 51-51
 source: sources/Apocynaceae_vol59_liteparse
+countries: [Angola, Gabon]
+in_region: true
+subdivisions:
+  Gabon: [Ngounié, Nyanga]
 tags: [species, generated]
 ---
 # *Baissea congensis* (Good) Jongkind Figure 2(C-F)

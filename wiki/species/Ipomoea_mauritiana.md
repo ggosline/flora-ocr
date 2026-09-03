@@ -7,6 +7,10 @@ family: Convolvulaceae
 vol: 46
 pages: 43-45
 source: sources/Convolvulaceae_vol46_liteparse
+countries: [Gabon]
+in_region: true
+habit: "liana"
+altitude_m: "0–600"
 tags: [species, generated]
 ---
 # *Ipomoea mauritiana* Jacq. Planche 17, Fig. 1B

@@ -7,6 +7,13 @@ family: Meliaceae
 vol: 47
 pages: 48-48
 source: sources/Meliaceae_vol47_liteparse
+countries: [Cameroon, Central African Republic, Democratic Republic of the Congo, Equatorial Guinea, Gabon, Nigeria, Republic of the Congo]
+in_region: true
+subdivisions:
+  Gabon: [Nyanga, Ogooué-Ivindo]
+habit: "tree"
+habitat: [evergreen forest]
+altitude_m: "600–750"
 tags: [species, generated]
 ---
 # *Leplaea laurentii* (De Wild.) E.J.M.Koenen & J.J.de Wilde

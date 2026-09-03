@@ -7,6 +7,13 @@ family: Commelinaceae
 vol: 55
 pages: 89-91
 source: sources/Commelinaceae_vol55_liteparse
+countries: [Angola, Cameroon, Central African Republic, Cote d'Ivoire, Democratic Republic of the Congo, Equatorial Guinea, Gabon, Ghana, Liberia, Nigeria, Republic of the Congo, Sao Tome and Principe, Sierra Leone, Tanzania, Uganda]
+in_region: true
+subdivisions:
+  Gabon: [Estuaire, Moyen-Ogooué, Ngounié, Nyanga, Ogooué-Ivindo, Ogooué-Lolo, Ogooué-Maritime, Woleu-Ntem]
+habit: "herb"
+habitat: [rocky ground]
+altitude_m: "800"
 tags: [species, generated]
 ---
 # *Stanfieldiella imperforata* (C.B.Clarke) Brenan Planche 27, Figure 6(D, E)

@@ -7,6 +7,12 @@ family: Commelinaceae
 vol: 55
 pages: 44-46
 source: sources/Commelinaceae_vol55_liteparse
+countries: [Angola, Benin, Cameroon, Cote d'Ivoire, Equatorial Guinea, Gabon, Ghana, Guinea, Nigeria, Tanzania, Uganda, Zambia]
+in_region: true
+subdivisions:
+  Gabon: [Ogooué-Ivindo]
+habit: "herb"
+altitude_m: "100"
 tags: [species, generated]
 ---
 # *Murdannia tenuissima* (A.Chev.) Brenan Planche 10

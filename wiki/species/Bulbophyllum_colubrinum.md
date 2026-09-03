@@ -18,43 +18,41 @@ tags: [species, generated]
 **Family**: [[Orchidaceae]]
 **Protologue**: Walp. Ann. 6 : 257 (1861) ; FCAM 2 : 421 (2001)
 
+## Synonyms
+
+- Bulbophyllum inaequale Rchb. f., Flora 69 : 553 (1886).
+- Megaclinium imschootianum Rolfe, Kew Bull. 1895 : 8 (1895).
+- Bulbophyllum imschootianum (Rolfe) De Wild., Pl. Bequeart. 1 : 86 (1921).
+- Bulbophyllum decipiens Schltr., Westafr. Kautschuk-Exp.: 281 (1901), nom. nud.
+- Bulbophyllum makakense Hansen, Am. Orchid. Soc. Bull. 28 : 278 (1959).
+
 ## Description
 
-– Bulbophyllum inaequale Rchb. f., Flora 69 : 553 (1886).
-
-– Megaclinium imschootianum Rolfe, Kew Bull. 1895 : 8 (1895).
-
-– Bulbophyllum imschootianum (Rolfe) De Wild., Pl. Bequeart. 1 : 86 (1921).
-
-– Bulbophyllum decipiens Schltr., Westafr. Kautschuk-Exp.: 281 (1901), nom. nud.
-
-– Bulbophyllum makakense Hansen, Am. Orchid. Soc. Bull. 28 : 278 (1959).
-
-Pseudobulbs 2.5–6.5 × 1–1.9 cm, ellipsoid, 1-leafed. Leaf petiolate, 11–22 × 1.4–3.6 cm, oblong to linear-lanceolate, obtuse. Inflorescence lax < 51 cm, rachis glabrous limbate, 20–100-flowered. Flowers small, yellowish to purple with rare spots or purple punctae. Dorsal sepal oblong-lanceolate to linear-lanceolate, apiculate; lateral sepals obliquely semi-ovate to ovate-elliptic, apiculate. Petals glabrous, falcate, oblong-obovate to oblong-oblanceolate, acute to acuminate. Lip glabrous, oblong-ovate, obtuse, thick, margins entire to irregularly denticulate near the apex. – Pl. 74, p. 153.
+Pseudobulbs 2.5–6.5 × 1–1.9 cm, ellipsoid, 1-leafed. Leaf petiolate, 11–22 × 1.4–3.6 cm, oblong to linear-lanceolate, obtuse. Inflorescence lax < 51 cm, rachis glabrous limbiform, 20–100-flowered. Flowers small, yellowish to purple with rare spots or purple dots. Dorsal sepal oblong-lanceolate to linear-lanceolate, apiculate; lateral sepals obliquely semi-ovate to ovate-elliptic, apiculate. Petals glabrous, falcate, oblong-obovate to oblong-oblanceolate, acute to acuminate. Lip glabrous, oblong-ovate, obtuse, thick, margins entire to irregularly denticulate near the apex. – Pl. 74, p. 153.
 
 ## Distribution
 
-Sierra Leone, Côte d'Ivoire, Ghana, Nigeria, Cameroon, Gabon, Congo (Brazzaville), Angola, Congo (Kinshasa)
+Sierra Leone, Côte d'Ivoire, Ghana, Nigeria, Cameroun, Gabon, Congo (Brazzaville), Angola, Congo (Kinshasa)
 
 ## Ecology
 
 alt. 0–1000 m. Epiphyte of coastal savanna, lowland and submontane forest, swamp forest, on permanently wet trunk as well as on felled tree
 
-MATERIAL STUDIED (Map 25) :
+MATERIAL EXAMINED (Map 25):
 
-de Wilde s.n., Mayumba Peninsula, 15 km S of Mayumba, cult. WAG (83-368), (not seen).
+de Wilde s.n., Péninsule de Mayumba, 15 km S of Mayumba, cult. WAG (83-368), (not seen).
 
 de Wilde, Arends, Louis & Wieringa 9860, between Rabi 49 and 50, recently felled tree (fl., Nov.), WAG!, LBV.
 
-de Wilde & de Wilde-Bakhuizen 11293, Nyanga, Gamba, 37.5 km from Gamba airport, Mayonamié track on the Nyanga, 2°58' S, 10°18' E (fl., Dec.), WAG!.
+de Wilde & de Wilde-Bakhuizen 11293, Nyanga, Gamba, 37.5 km from Gamba airport, Mayonamié trail on the Nyanga, 2°58' S, 10°18' E (fl., Dec.), WAG!.
 
-Hallé 1729, 10 km SW of Ndjolé, C.E.F.A. Ayem (fl., Apr.), P!
+Hallé 1729, 10 km SW of Ndjolé, C.E.F.A. Ayem (fl., Apr.), P!.
 
-Le Testu 2200, Ngounyé Region, Ihogko Country, Bengué (fl., Nov.), P! ; 5059, Ngounyé Rock, facing Saint-Martin (fl., Nov.), BR!, P!.
+Le Testu 2200, Région de Ngounyé, Pays Ihogko, Bengué (fl., Nov.), P!; 5059, Rocher de la Ngounyé, opposite Saint-Martin (fl., Nov.), BR!, P!.
 
-Pescatore s.n., ex hort. bot. P, anno 1849 ? Gabon, P!.
+Pescatore s.n., ex hort. bot. P, anno 1849? Gabon, P!.
 
-Pobeguin 118, Cape Lopez (fl., Oct.), P!.
+Pobeguin 118, Cap Lopez (fl., Oct.), P!.
 
 ## Figures
 

@@ -7,6 +7,12 @@ family: Cyperaceae
 vol: 44
 pages: 102-104
 source: sources/Cyperaceae_vol44_liteparse
+countries: [Gabon]
+in_region: true
+subdivisions:
+  Gabon: [Woleu-Ntem]
+habit: "herb"
+altitude_m: "2100"
 tags: [species, generated]
 ---
 # *Cyperus triceps* Endl. Planche 62

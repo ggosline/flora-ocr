@@ -7,9 +7,9 @@ family: Sapindaceae
 vol: 23
 pages: 110-113
 source: sources/Sapindaceae_vol23_paddle
-countries: [Cameroon, Cote d'Ivoire, Equatorial Guinea, Gabon, Nigeria]
+countries: [Cameroon, Equatorial Guinea, Gabon, Nigeria]
 in_region: true
-habitat: [primary forest, evergreen forest]
+habitat: [primary forest]
 tags: [species, generated]
 ---
 # *Chytranthus talbotii* (Baker fil.) Keay
@@ -18,21 +18,23 @@ tags: [species, generated]
 **Family**: [[Sapindaceae]]
 **Protologue**: Bull. Jard. Bot. État Bruxelles 26 : 194 (1956); FWTA, ed. 2, 2 : 717 et 763 (1958)
 
-## Description
+## Synonyms
 
-— Glossolepis talbotii BAK. F., Cat. Talb. : 20 (1913); RADLK., in ENGL. Pflanzenreich, Sapindaceae : 781 (1932).
+- Glossolepis talbotii BAK. F., Cat. Talb. : 20 (1913); RADLK., in ENGL. Pflanzenreich, Sapindaceae : 781 (1932).
+
+## Description
 
 — G. pilgeriana GILG ex ENGL., Pflanzenw. Afr. 3 (2) : 276 (1921); PELLEGRIN, Mém. Soc. Lin. Normandie 26 (2) : 71 (1924); RADLK., l.c. : 782 (1932).
 
 — Chytranthus pilgerianus (GILG) PELLEGRIN, Mém. Soc. Bot. France 102 : 71 (1956).
 
-— Ch. sexlocularis RADLK. l.c. : 786 (1932), syn. nov. TYPE : Ledermann 987, Nkolebunde, Malande, Cameroon, B. The characters of the diagnosis and the collector's notes relating to the colors of the various floral parts make it possible to establish this synonymy with certainty.
+— Ch. sexlocularis RADLK. l.c. : 786 (1932), syn. nov. TYPE : Ledermann 987, Nkolebunde, Malande, Cameroun, B. The characters of the diagnosis and the collector's notes relating to the colors of the various floral parts make it possible to establish this synonymy with certainty.
 
-Monocaulous shrub 3–10 m tall, with very hard yellow wood. The trunk exceeds 8 cm in diameter; apex glabrous. Leaf rachis 0.40–1 m long, with 20–40 cm beneath the first pair of leaflets, averaging 4–6 mm wide; petiolules 5–10 mm; 7–14 (16) pairs of opposite or subopposite leaflets reaching 20–25 (−33) × 5–9 (−12) cm, glabrous, with the midvein slightly raised above when dry; 11–15 pairs of secondary veins, fine venation apparent on both surfaces of the blade when dry, the latter often quite distinctly discolorous.
+Monocaulous shrub 3–10 m in height, with very hard yellow wood. The trunk exceeds 8 cm in diameter; apex glabrous. Leaf rachis 0.40–1 m long, with 20–40 cm below the first pair of leaflets, averaging 4–6 mm wide; petiolules 5–10 mm; 7–14 (16) pairs of opposite or subopposite leaflets reaching 20–25 (–33) × 5–9 (–12) cm, glabrous, with the midvein slightly prominent above when dry; 11–15 pairs of secondary veins, fine vein network apparent on both surfaces of the lamina when dry, the latter often distinctly discolorous.
 
-Cauline inflorescences surrounding the base of the trunk, arranged ± parallel to the ground with flowers erect; loose racemes 12–40 (−80) cm long, with ± alternate floriferous glomerules, unevenly spaced 0.5–2 (−3) cm apart; axis pale green, glabrous or with very sparse micropubescence; floral pedicels 5–18 mm long, whitish or pink. Calyx densely pruinose-micropubescent, whitish, ellipsoid approximately 15 × 8–9 mm, white-felted inside; 4–5 sepals split for 1–3 mm, sometimes torn at the sinuses; 4 pure white petals 17 × 3.5 mm, with pubescent claw, with 2 superposed ligules on the inner face, with attenuate apex; pale yellow, fleshy disk, 3 mm, unilateral and sinuous between the petals; 11–13 stamens somewhat unequal, the smallest on the inner edge of the disk, reaching 10 mm with ± pubescent pink filament; anther purple or garnet-red, 2 × 1.1 mm; pollen blue-grey; pubescent pistil approximately 3 × 1.5 mm reaching 17 × 4.5 mm in the ♀ flower; 6–7 (−8) locules; elongate style and stigma with sinuous violaceous exsert crown in the ♀ flower.
+Cauline inflorescences surrounding the base of the trunk, arranged ± parallel to the ground with the flowers erect; lax racemes 12–40 (–80) cm, with floriferous glomerules ± alternate, unevenly spaced 0.5–2 (–3) cm apart; axis pale green, glabrous or with very sparse micropubescence; floral pedicels 5–18 mm long, whitish or pink. Calyx densely pruinose micropubescent, whitish, ellipsoid about 15 × 8–9 mm, white-felted within; 4–5 sepals split for 1–3 mm, sometimes torn at the sinuses; 4 petals pure white 17 × 3.5 mm, with pubescent claw, with 2 superposed ligules on the inner face, with attenuate apex; disk pale yellow, fleshy, 3 mm, unilateral and sinuous between the petals; 11–13 stamens slightly unequal, the smallest at the inner edge of the disk, reaching 10 mm with pink ± pubescent filament; anther violet or garnet-red, 2 × 1.1 mm; pollen bluish-grey; pubescent pistil about 3 × 1.5 mm reaching 17 × 4.5 mm in the ♀ flower; 6–7 (–8) locules; elongate style and stigma with sinuous purplish crown exserted in the ♀ flower.
 
-Fruit exceeding 9 cm in diameter, 12 cm long, smooth and green before maturity, then vitellus yellow, furrowed lengthwise, somewhat acuminate at the apex containing 6–7 seeds 40–53 × 30 × 12 mm. PL. 26, p. 109.
+Fruit exceeding 9 cm in diameter, 12 cm long, smooth and green before maturity, then vitelline yellow, furrowed lengthwise, somewhat acuminate at the apex containing 6–7 seeds 40–53 × 30 × 12 mm. PL. 26, p. 109.
 
 ## Type
 
@@ -40,9 +42,9 @@ Talbot 1686, Oban, province de Calabar, Nigeria (holo-, BM)
 
 ## Discussion
 
-Species of primary rainforest known from Ivory Coast (Bégué 2963, Aubréville 93), southern Nigeria, Cameroon, Rio Muni, Gabon, Kouilou (Sargos 45), and Congo (Bouquet 734, Descoings 11281).
+Species of primary ombrophilous forests known from Côte-d'Ivoire (Bégué 2963, Aubréville 93), southern Nigeria, Cameroun, Rio Muni, Gabon, Kouilou (Sargos 45) and Congo (Bouquet 734, Descoings 11281).
 
-Uses : The fruit is noted as edible, but otherwise the flesh is said to be too acidic; the seeds from the ripe fruit are eaten cooked, their taste reminiscent of chestnut.
+Uses: The fruit is reported as edible, but on the other hand the flesh is said to be too acidic; the seeds of the ripe fruit are eaten cooked, their flavor resembles that of the chestnut.
 
 Annet 144, Bipindi; 248 bis, Ngouayang near Lolodori (fl., June). Brenan 9417, Kumba (fl., March). Raynal J. & A. 9842, Meyo-Biboulou, 36 km SW Ambam, swampy primary forest. Zenker 2081, 2125, 2304 (type of G. pilgeriana Gilg), Bipindi.
 

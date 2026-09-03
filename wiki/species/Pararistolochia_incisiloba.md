@@ -7,6 +7,10 @@ family: Aristolochiaceae
 vol: 42
 pages: 17-17
 source: sources/Aristolochiaceae_vol42_liteparse
+countries: [Gabon]
+in_region: true
+habit: "liana"
+altitude_m: "1020"
 tags: [species, generated]
 ---
 # *Pararistolochia incisiloba* (Jongkind) M.E.Leal, comb. nov. Planche 3(2, 3)

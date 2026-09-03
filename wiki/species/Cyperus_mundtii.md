@@ -7,6 +7,12 @@ family: Cyperaceae
 vol: 44
 pages: 119-120
 source: sources/Cyperaceae_vol44_liteparse
+countries: [Gabon, Madagascar]
+in_region: true
+subdivisions:
+  Gabon: [Ogooué-Ivindo]
+habit: "herb"
+altitude_m: "800"
 tags: [species, generated]
 ---
 # *Cyperus mundtii* (Nees) Kunth Planche 75

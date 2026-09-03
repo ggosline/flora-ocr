@@ -7,6 +7,12 @@ family: Convolvulaceae
 vol: 46
 pages: 39-41
 source: sources/Convolvulaceae_vol46_liteparse
+countries: [Gabon]
+in_region: true
+subdivisions:
+  Gabon: [Estuaire]
+habit: "herb"
+altitude_m: "1900"
 tags: [species, generated]
 ---
 # *Ipomoea cairica* (L.) Sweet var. cairica Planche 14

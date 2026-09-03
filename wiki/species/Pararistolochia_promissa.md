@@ -7,6 +7,11 @@ family: Aristolochiaceae
 vol: 42
 pages: 19-21
 source: sources/Aristolochiaceae_vol42_liteparse
+countries: [Cameroon, Central African Republic, Cote d'Ivoire, Democratic Republic of the Congo, Gabon, Ghana, Liberia, Nigeria]
+in_region: true
+habit: "liana"
+habitat: [secondary forest]
+altitude_m: "100–900"
 tags: [species, generated]
 ---
 # *Pararistolochia promissa* (Mast.) Keay Planche 5

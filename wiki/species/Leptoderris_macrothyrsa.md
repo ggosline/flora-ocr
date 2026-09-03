@@ -7,6 +7,13 @@ family: Leguminosae
 vol: 49
 pages: 233-233
 source: sources/Millettiaspeciesfabaceae_vol49_liteparse
+countries: [Cameroon, Gabon]
+in_region: true
+subdivisions:
+  Gabon: [Ogooué-Ivindo]
+habit: "liana"
+habitat: [secondary forest]
+altitude_m: "550"
 tags: [species, generated]
 ---
 # *Leptoderris macrothyrsa* (Harms) Dunn

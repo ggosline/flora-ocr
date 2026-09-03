@@ -19,15 +19,19 @@ tags: [species, generated]
 
 ## Synonyms
 
-- Pausinstalia mayumbensis R. Good, Journ. Bot. 64 suppl. 2 : 1 (1926). — Ray.-Hamet, Bull. S. B.Fr. 80 : 552 (1933). — F. Pellegrin, Fl. Mayombe 3 : 7 (1938). — F.W.T.A., ed. 2, 2 : 111 (1963), note de R. W. J. Keay. = Corynanthe mayumbensis (R. Good) Ray.-Hamet msc. (1932) in herb. = Pseudocinchona mayumbensis (R. Good) Ray.-Hamet, C.R.Ac. Sc. Paris 212 : 305 (1941). — Walker et Sillans, Pl. Ut. du Gabon : 369 (1961).
+- Pausinstalia mayumbensis R. Good, Journ. Bot. 64 suppl. 2 : 1 (1926).
+- Corynanthe mayumbensis (R. Good) Ray.-Hamet msc. (1932) in herb.
+- Pseudocinchona mayumbensis (R. Good) Ray.-Hamet, C.R.Ac. Sc. Paris 212 : 305 (1941). — Walker et Sillans, Pl. Ut. du Gabon : 369 (1961).
 
 ## Description
 
-Small tree 4-10 m tall, with pinkish-ochraceous fissile wood, exceeding 10 cm diam. Differs from the preceding species by its leaves somewhat more coriaceous, more distinctly varnished above, with secondary nerves somewhat more numerous, namely 10-14 pairs, the lower ones being somewhat less obliquely ascending than the middle ones.
+— Ray.-Hamet, Bull. S. B.Fr. 80 : 552 (1933). — F. Pellegrin, Fl. Mayombe 3 : 7 (1938). — F.W.T.A., ed. 2, 2 : 111 (1963), note de R. W. J. Keay.
 
-Axillary inflorescences glabrous inserted towards the tip of the branches, 8-16 cm long of which 3-10 cm of peduncle. Panicles of multiflorous spherical umbels. White flowers subsessile with pedicel of approximately 0.5 mm, tetramerous, sometimes trimerous. Globulous ovary of ca. 1 mm, glabrous (or sometimes having very rare hairs); 4 fleshy calycine lobes ovate in vivo, approximately 0.5 mm long. Corolla with tube not developed in the bud, very narrow, reaching 1 mm, abruptly widened at the throat; 4 ovate lobes ca. 1-1.5 mm, glabrous except the internal median line, bearing an apical appendage of 3-4 × 0.5 mm, not tubulous but swollen by aeriferous tissue. Anthers of 1.5 mm, reflexed between the lobes. Style glabrous 3-4 mm, with capitate stigma.
+Small tree 4–10 m tall, with fissile pinkish-ochraceous wood, exceeding 10 cm diam. Differs from the preceding species by its somewhat more coriaceous leaves, more distinctly varnished above, with secondary nerves somewhat more numerous, namely 10–14 pairs, the lower ones being somewhat less obliquely ascending than the median ones.
 
-Fruit 10-13 × 4-5 mm long above the pedicel which reaches 2-3 mm long. Seeds (immature?) of 5-6 × 1 mm, with membranous outline.
+Inflorescences axillary, glabrous, inserted towards the tip of the branches, 8–16 cm long, of which 3–10 cm is peduncle. Panicles of multiflorous spherical umbels. Flowers white, subsessile with pedicel of approximately 0.5 mm, tetramerous, sometimes trimerous. Ovary globose, approximately 1 mm, glabrous (or occasionally with a few very rare hairs); 4 fleshy calyx lobes, ovate in vivo, approximately 0.5 mm long. Corolla with tube not developed in the bud, very narrow, reaching 1 mm, abruptly widened at the throat; 4 ovate lobes approximately 1–1.5 mm, glabrous except for the inner median line, bearing an apical appendage of 3–4 × 0.5 mm, not tubular but swollen by aeriferous tissue. Anthers 1.5 mm, folded back between the lobes. Style glabrous, 3–4 mm, with capitate stigma.
+
+Fruit 10–13 × 4–5 mm long above the pedicel which reaches 2–3 mm long. Seeds (immature?) 5–6 × 1 mm, with membranous outline.
 
 ## Type
 
@@ -37,7 +41,7 @@ Gossweiler 6973 (BM, non vu), Bélize, Cabinda
 
 Probably occurs in Cameroon; fairly common in Gabon.
 
-Bitter bark with febrifugal properties containing corynanthine.
+Bark bitter febrifuge containing corynanthine.
 
 ## Vernacular names
 
@@ -55,7 +59,7 @@ A. P. Thomson : 24, Billagone, N. Gabon (fr. sept.), déterminé à tort comme C
 
 ![Corynanthe mayumbensis](../sources/Rubiaceae_vol12_paddle/figures/fig_014_p0065.png)
 
-*PL. 8.—Rubiaceae with alkaloids: Corynanthe mayumbensis (Good) N. Hallé (N. H. 1606): 1, inflorescence in buds; 2, full immature fruits; 3, young infructescences.*
+*PL. 8.—Rubiaceae with alkaloids : Corynanthe mayumbensis (Good) N. Hallé (N. H. 1606) : 1, inflorescence in buds; 2, full immature fruits; 3, young infructescences.*
 
 ![Corynanthe mayumbensis](../sources/Rubiaceae_vol12_paddle/figures/fig_015_p0067.png)
 

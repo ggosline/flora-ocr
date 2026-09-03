@@ -7,6 +7,13 @@ family: Apocynaceae
 vol: 59
 pages: 271-273
 source: sources/Apocynaceae_vol59_liteparse
+countries: [Cameroon, Gabon, Nigeria]
+in_region: true
+subdivisions:
+  Gabon: [Estuaire]
+habit: "tree"
+habitat: [secondary forest]
+altitude_m: "100"
 tags: [species, generated]
 ---
 # *Voacanga psilocalyx* Pierre ex Stapf Planche 125

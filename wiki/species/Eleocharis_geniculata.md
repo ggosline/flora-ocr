@@ -22,25 +22,29 @@ tags: [species, generated]
 **Family**: [[Cyperaceae]]
 **Protologue**: Syst. veg. 2 : 150 (1817)
 
+## Synonyms
+
+- Scirpus geniculatus L., Sp. pl. 1 : 48 (1753), p.p.
+
 ## Description
 
-, p.p. E. capitata R.Br., Prodr. 1 : 225 (1810). E. caribaea (Rottb.) S.F.Blake, Rhodora 20(230) : 24 (1918). Annual or perennial herb, forming dense tufts; stems 15–50 cm × 0.6–1 mm at fruiting, irregularly striated. Leaf: sheath grey, violet at base, terminating in a short acute triangular lobe with a thinner hyaline margin. Inflorescence in a single spikelet; scaly bracts, greenish, entirely covering the glumes of young buds. Spikelet globose becoming ovoid, 3–15 × 2–3.5 mm; glumes 1.6–2.3 mm long, rounded at apex, greyish at base, brown above, central nerve weak, sometimes greenish, margin usually somewhat frayed, without distinct hyaline margin. Flower: perianth with 4–7 nearly smooth bristles, pink, exceeding the achene; stamens 1–3, filaments often persistent at fruiting; style with 2 branches. Achene obovate, 0.8–1 × 0.5–0.7 mm, dark violet, smooth and shiny; appendage very short, 0.1–0.2 mm, conical, greyish white.
+E. caribaea (Rottb.) S.F.Blake, Rhodora 20(230) : 24 (1918). Annual or perennial herb, forming dense tufts; stems 15–50 cm × 0.6–1 mm at fruiting, irregularly striated. Leaf: sheath grey, violet at base, terminating in a short acute triangular lobe with a thinner hyaline margin. Inflorescence in a single spikelet; scale-like bracts, greenish, entirely covering the glumes of young buds. Spikelet globose becoming ovoid, 3–15 × 2–3.5 mm; glumes 1.6–2.3 mm long, rounded at apex, greyish at base, brown above, central nerve weak, sometimes greenish, margin usually somewhat frayed, without a distinct hyaline margin. Flower: perianth with 4–7 almost smooth bristles, pink, exceeding the achene; stamens 1–3, filaments often persistent at fruiting; style with 2 branches. Achene obovate, 0.8–1 × 0.5–0.7 mm, dark violet, smooth and shiny; appendage very short, 0.1–0.2 mm, conical, greyish white.
 
 ## Distribution
 
-widely distributed in tropical regions of Africa, America and Asia, also in South Africa; in Gabon, fairly common in the Estuaire and Ogooué-Maritime, but not collected in other provinces (14 collections)
+widely distributed in tropical regions of Africa, America and Asia, also in South Africa; in Gabon, fairly common in Estuaire and Ogooué-Maritime, but not collected in the other provinces (14 collections)
 
 ## Ecology
 
-in shallow waters at the edge of mangroves; in Gabon, near sea level and at low altitude, up to 1130 m in East Africa. Taxonomic note: recognized by its dark and smooth achenes. B: Haines & Lye (1983), Hoenselaar et al. (2010), Hooper & Napper (1972), Bibliography Lye (1995, 1997)
+in shallow waters on the margins of mangroves; in Gabon, near sea level and at low altitude, up to 1130 m in East Africa. Taxonomic note: distinguished by its dark, smooth achenes. Bibliography: Haines & Lye (1983), Hoenselaar et al. (2010), Hooper & Napper (1972), Lye (1995, 1997)
 
-Fruit with filaments and perianth segments. Perianth drawing. Original drawing by Richard W. Haines ©. Original drawing by Richard W. Haines ©.
+Fruit with filaments and perianth segments. Original drawing by Richard W. Haines ©. Original drawing by Richard W. Haines ©.
 
 ## Figures
 
 ![Eleocharis geniculata](../sources/Cyperaceae_vol44_liteparse/figures/fig_109_p0133.png)
 
-*Plate 83. Eleocharis geniculata. A. Plant. Plate 84. Eleocharis mutata. A. Plant. – B. Base – B. Top of the leaf sheath. – C. Young spikelet. and top of the spikelet. – C. Base of the spikelet. – D. – D. Mature spikelet. – E. Glume. – F. Flower. – G. Glume. – E. Fruit with style, filaments and segments of the*
+*Plate 83 . Eleocharis geniculata . A. Plant. Plate 84 . Eleocharis mutata . A. Plant. – B. Base – B. Top of the leaf sheath. – C. Young spikelet. and top of the spikelet. – C. Base of the spikelet. – D. – D. Mature spikelet. – E. Glume. – F. Flower. – G. Glume. – E. Fruit with style, filaments and segments of the*
 
 ![Eleocharis geniculata](../sources/Cyperaceae_vol44_liteparse/figures/fig_110_p0133.png)
 

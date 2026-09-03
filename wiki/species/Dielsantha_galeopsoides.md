@@ -7,6 +7,12 @@ family: Lobeliaceae
 vol: 40
 pages: 43-43
 source: sources/Lobeliaceae_vol40_liteparse
+countries: [Cameroon, Equatorial Guinea, Gabon, Nigeria]
+in_region: true
+subdivisions:
+  Gabon: [Estuaire, Ngounié]
+habit: "herb"
+altitude_m: "800"
 tags: [species, generated]
 ---
 # *Dielsantha galeopsoides* (Engl. & Diels) E.Wimm.
@@ -35,7 +41,7 @@ humid forests; between 320 and 800 m altitude. B: Wimmer (1953, 1963). i Bibliog
 
 ![Dielsantha galeopsoides](../sources/Lobeliaceae_vol40_liteparse/figures/fig_038_p0045.png)
 
-*Plate 10. Dielsantha galeopsoides: A. Plant in fruit. – B. Flower. – C. Fruit after dehiscence.*
+*PL. 10. — Dielsantha galeopsoides: A. Plant in fruit. – B. Flower. – C. Fruit after dehiscence.*
 
 ## Notes
 

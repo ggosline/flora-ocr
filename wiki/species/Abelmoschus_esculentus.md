@@ -7,6 +7,12 @@ family: Malvaceae
 vol: 45
 pages: 55-57
 source: sources/Malvaceae_vol45_liteparse
+countries: [Gabon]
+in_region: true
+subdivisions:
+  Gabon: [Ogooué-Ivindo]
+habit: "herb"
+altitude_m: "1600"
 tags: [species, generated]
 ---
 # *Abelmoschus esculentus* (L.) Moench Planche 13(1-3)

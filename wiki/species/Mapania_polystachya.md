@@ -7,6 +7,12 @@ family: Cyperaceae
 vol: 44
 pages: 175-176
 source: sources/Cyperaceae_vol44_liteparse
+countries: [Gabon]
+in_region: true
+subdivisions:
+  Gabon: [Ogooué-Lolo]
+habit: "herb"
+altitude_m: "250"
 tags: [species, generated]
 ---
 # *Mapania polystachya* (Cherm.) Lye Figure 18a
