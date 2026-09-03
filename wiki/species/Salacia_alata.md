@@ -30,7 +30,7 @@ Liane 3–30 m tall, glabrous and devoid of rubber. Internodes microrugulose wit
 
 Inflorescences axillary in few- to many-flowered glomerules. Flowers rotate green, yellow, yellow-orange or salmon, 6–8.5 mm in diameter. Pedicel (3)–6–11 mm, smooth or micropapillose. Bud ovate 2.5–3.5 mm broad. Sepals slightly unequal, obtuse or rounded, entire or ± denticulate, 1.5–2 mm broad. Petals briefly oblong and ± angular, arched on the upper face, 3–4 × 2.5–3.5 mm. Disc subpentagonal, in a fleshy crown with slight subcupuliform or patelliforn rim, marginate (papillose zone ± distinct), 2–3 mm in diameter and without a perigynous groove. Stamens spaced at the base, 1–2 mm long, curling back on themselves. Anther with adjacent locules arranged at an obtuse angle, 0.5–1 mm broad. Pistil pyramidal attenuate, 1.3–2 mm tall, with punctiform or trilobate stigma. Locules more than half-immersed, each containing 4–5(6) ovules.
 
-Fruit orange-red or coral, spherical, 3–5 cm in diameter, adorned with a ± dense network of small ridges or crisp wrinkles, with pericarp 2 mm thick when dry, with ± numerous seeds. Seed $ 18 \times 15 \times 8 $ mm, with cotyledons broadly united all around. – Pl. 32, fig. 17, 19, 21, 23, 25, p. 119.
+Fruit orange-red or coral, spherical, 3–5 cm in diameter, adorned with a ± dense network of small ridges or crisp wrinkles, with pericarp 2 mm thick when dry, with ± numerous seeds. Seed 18 × 15 × 8 mm, with cotyledons broadly united all around. – Pl. 32, fig. 17, 19, 21, 23, 25, p. 119.
 
 ## Type
 

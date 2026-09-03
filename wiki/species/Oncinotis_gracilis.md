@@ -35,7 +35,7 @@ The only specimen from Gabon, Le Testu 8344, does not correspond well to this sp
 
 ![Oncinotis gracilis](../sources/Apocynaceae_vol59_liteparse/figures/fig_149_p0175.jpeg)
 
-*Plate 81 . Oncinotis gracilis : 1. Flowering branch (× ⅔). – 2. Detail of the bark of a branch (× ⅔). – 3. Top of petiole and base of blade, with colleters, upper surface (× 4). – 4. Domatium (× 4). – 5.*
+*Plate 81. Oncinotis gracilis: 1. Flowering branch (× ⅔). – 2. Detail of the bark of a branch (× ⅔). – 3. Top of petiole and base of blade, with colleters, upper surface (× 4). – 4. Domatium (× 4). – 5.*
 
 ## Notes
 

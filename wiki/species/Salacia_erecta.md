@@ -57,7 +57,7 @@ G. Don s.n., Sierra Leone (BM!, K!)
 
 ## Discussion
 
-The type was analyzed by WILCZEK: it presents more than 2 ovules per locule. However, a fact that appears to have been overlooked by WILCZEK, is the coexistence in that country of Salacia quite similar but having only 2 ovules per locule (Thomas 7087, P! ex K). These latter would correspond strictly to S. leonardii Wilczek var. kivuensis Wilczek. In reality not only is the number of ovules variable but also the ornamentation of the branches, and this both in West Africa and in equatorial Africa. The collection Le Testu 8681 presents 2 or 3 ovules per locule $ 2 + 3 + 3 $, twice; $ 2 + 2 + 3 $, once; on 3 flowers analyzed).
+The type was analyzed by WILCZEK: it presents more than 2 ovules per locule. However, a fact that appears to have been overlooked by WILCZEK, is the coexistence in that country of Salacia quite similar but having only 2 ovules per locule (Thomas 7087, P! ex K). These latter would correspond strictly to S. leonardii Wilczek var. kivuensis Wilczek. In reality not only is the number of ovules variable but also the ornamentation of the branches, and this both in West Africa and in equatorial Africa. The collection Le Testu 8681 presents 2 or 3 ovules per locule 2 + 3 + 3, twice; 2 + 2 + 3, once; on 3 flowers analyzed).
 
 Guinea, Sierra Leone, Liberia, Ivory Coast, Ghana, Nigeria, Cameroon, Gabon, Central African Republic, Congo, Zaire, Angola, Uganda, Tanzania, Zambia.
 

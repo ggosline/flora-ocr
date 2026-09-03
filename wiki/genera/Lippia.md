@@ -59,25 +59,13 @@ B: Atkins (2004), Cardoso et al. (2011), Fernandes (1986, 2005), Huber et al. (1
 
 et al. (2006), Verdcourt (1992).
 
-### Key to species
-
-1. - Upper surface of leaf limb smooth to the touch; stem subglabrous or with scattered
-
-hairs appressed rigidly and others glandular; secondary bracts with apex
-
-obtuse to shortly mucronate ..................................................................... L. multiflora
-
-- Upper surface of leaf limb rugose to the touch; stem generally with
-
-appressed hairs, without glandular hairs; floral bracts with apex acute to acuminate
-
-....................................................................................................................... L. rugosa
-
 ## Key to the species
 
-1. - Upper surface of leaf blade smooth to the touch; stem subglabrous or with scattered hairs appressed in a rigid manner and other glandular ones; secondary bracts with apex obtuse to shortly mucronate ..................................................................... L . multiflora
-- Upper surface of leaf blade rugose to the touch; stem generally furnished with appressed hairs, without glandular hairs; floral bracts with apex acute to acuminate
-....................................................................................................................... L . rugosa
+
+**1.** Upper surface of leaf blade smooth to the touch; stem subglabrous or with scattered hairs appressed in a rigid manner and other glandular ones; secondary bracts with apex obtuse to shortly mucronate → L . multiflora ^k1
+
+**1′.** Upper surface of leaf blade rugose to the touch; stem generally furnished with appressed hairs, without glandular hairs; floral bracts with apex acute to acuminate → L . rugosa
+
 
 ## Species in region
 

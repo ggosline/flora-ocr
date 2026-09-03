@@ -31,7 +31,7 @@ Monocaulous shrub of (1.5-) 2–5 (–10) m in height; the trunk may reach 10 cm
 
 Inflorescences cauline, distributed between 0.10 and 1.20 m in height on the trunk, arranged ± horizontally or pendulous for the longest; narrow and lax racemes 11 to 76 cm in length, grey-ochraceous; rachis rather slender, angular, clothed with brief puberulence mixed with whitish flaking pruine; acute bracts 2–4 × 1–1.5 mm; glomerules spaced, often 5–10 mm apart, pauciflorous and sessile or pluriflorous with a peduncle that may reach at most 1–2 mm. Bud globose or briefly and obtusely subconical, 5–7 mm in diameter; pedicel 2 (–2.5) mm; calyx 10–12 × 8–10 mm, pruinose micropubescent, grey-ochraceous, light tan or brown, split into 5 sepals over 3–5 mm; 4 oblong petals 5–8 × 3–3.8 mm, base not clawed, blade ovate at the apex, ligule ovate not much elongated, reflexed or not, 1–2-appendiculate or not; disc light yellow pentagonal, depressed in the centre; 11–14 stamens 7–9 mm, sometimes extending slightly beyond the corolla, filament hairy or moderately pubescent, anther 1.7–2 × 0.9–1.1 mm; connective swollen showing in section a peculiar palisade structure; ovary aborted in the ♂ flower, pubescent sometimes moderately, with (5–) 6–8 (–9) carpels; ♀ flower with pubescent ovary, 5.5 mm in diameter, with elongated style and ± curved exsert stigma.
 
-Fleshy fruit moderately ribbed, somewhat attenuate at the extremities, green before maturity, $ 5 \times 6 $ cm when dry (Guigonis 3745) with seeds about $ 2 \times 2 \times 1 $ cm. PL. 27, p. 113.
+Fleshy fruit moderately ribbed, somewhat attenuate at the extremities, green before maturity, 5 × 6 cm when dry (Guigonis 3745) with seeds about 2 × 2 × 1 cm. PL. 27, p. 113.
 
 ## Type
 

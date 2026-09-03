@@ -25,17 +25,13 @@ B: Harley & Pastore (2012), Morton (1962), Pastore et al. (2011), Paton et al. (
 
 Bibliography
 
-### Key to species
-
-1. - Calyx 5–7 mm long, lobes 2–3 mm long, with wide truncate sinus between the lobes; stem sarmentose or prostrate, often rooting at the lower nodes ................................................................................................................. H. atrorubens
-
-- Calyx 3–5 mm long, lobes 1–1.5 mm long, with narrow V- or U-shaped sinus between the lobes; stem erect, not rooting at the nodes ............. H. lanceolata
-
 ## Key to the species
 
-1. - Calyx 5–7 mm long, lobes 2–3 mm long, with broad truncate sinus between lobes; stem sarmentose or prostrate, often rooting at lower nodes
-................................................................................................................. H. atrorubens
-- Calyx 3–5 mm long, lobes 1–1.5 mm long, with narrow V- or U-shaped sinus between lobes; stem erect, not rooting at nodes ............. H. lanceolata
+
+**1.** Calyx 5–7 mm long, lobes 2–3 mm long, with broad truncate sinus between lobes; stem sarmentose or prostrate, often rooting at lower nodes → [[Hyptis_atrorubens\|*H. atrorubens*]] ^k1
+
+**1′.** Calyx 3–5 mm long, lobes 1–1.5 mm long, with narrow V- or U-shaped sinus between lobes; stem erect, not rooting at nodes → [[Hyptis_lanceolata\|*H. lanceolata*]]
+
 
 ## Species in region
 

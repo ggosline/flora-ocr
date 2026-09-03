@@ -38,7 +38,7 @@ primary evergreen forest or old secondary forest; at 220–300 m altitude. B : B
 
 ![Carpolobia gabonica](../sources/Polygalaceae_vol42_liteparse/figures/fig_033_p0075.png)
 
-*Plate 20. Carpolobia gabonensis : 1. Fruiting stem. – 2. Leaf axil with stipule and inflorescence axis. – 3. Flower. – 4. Sepals. – 5. Open corolla, with stamens and pistil. – 6. Fruit. – 7. Fruit, section, detail showing the velutinous indument. – 8. Seed. (1, 2, 6-8 : J.J. de Wilde et al. 9043 ; 3-5 : Bissiengou et al. 351 ). Drawing by Hans de Vries, reproduced with permission from*
+*PL. 20. — Carpolobia gabonensis : 1. Fruiting stem. – 2. Leaf axil with stipule and inflorescence axis. – 3. Flower. – 4. Sepals. – 5. Open corolla, with stamens and pistil. – 6. Fruit. – 7. Fruit, section, detail showing the velutinous indument. – 8. Seed. (1, 2, 6-8 : J.J. de Wilde et al. 9043 ; 3-5 : Bissiengou et al. 351 ). Drawing by Hans de Vries, reproduced with permission from*
 
 ## Notes
 

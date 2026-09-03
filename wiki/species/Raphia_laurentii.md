@@ -39,7 +39,7 @@ R. laurentii and R. monbuttorum share the character of an inflorescence that is 
 
 ![Raphia laurentii](../sources/Arecaceae_vol53_liteparse/figures/fig_039_p0061.png)
 
-*Plate 21. Raphia laurentii : 1. Part of the inflorescence with flowering branch of second order. – 2. Female flower. – 3. Male flower. – 4. Idem, longitudinal section. – 5. Stamens. – 6. Fruit. – 7. Seed. Drawing by*
+*PL. 21. — Raphia laurentii : 1. Part of the inflorescence with flowering branch of second order. – 2. Female flower. – 3. Male flower. – 4. Idem, longitudinal section. – 5. Stamens. – 6. Fruit. – 7. Seed. Drawing by*
 
 ## Notes
 

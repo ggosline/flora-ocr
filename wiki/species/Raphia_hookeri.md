@@ -50,7 +50,7 @@ Drawing by M. Grierson, reproduced with permission from Russel (1965).
 
 ![Raphia hookeri](../sources/Arecaceae_vol53_liteparse/figures/fig_038_p0059.png)
 
-*Plate 20 . Raphia hookeri : 1. Part of the inflorescence with second-order flowering branch. – 2. Fruit.*
+*PL. 20. — Raphia hookeri : 1. Part of the inflorescence with second-order flowering branch. – 2. Fruit.*
 
 ## Notes
 

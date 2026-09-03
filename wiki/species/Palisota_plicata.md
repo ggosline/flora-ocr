@@ -49,7 +49,7 @@ This species appears close to P. leewhitei and P. cristalensis by the combinatio
 
 ![Palisota plicata](../sources/Commelinaceae_vol55_liteparse/figures/fig_039_p0073.png)
 
-*Plate 21 . Palisota plicata : 1. General aspect. – 2. Inflorescence. – 3. Bisexual flower, lateral view. – 4.*
+*PL. 21. — Palisota plicata : 1. General aspect. – 2. Inflorescence. – 3. Bisexual flower, lateral view. – 4.*
 
 ## Notes
 

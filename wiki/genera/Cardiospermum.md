@@ -52,9 +52,11 @@ Type species: Cardiospermum halicacabum L., pantropical.
 
 ## Keyed but not treated
 
+
 The source key separates these species but the volume gives them no treatment, usually because they fall outside the area it covers in full. They are listed for identification; some are extralimital to the region.
 
-- *Cardiospermum integerrimum* — keyed in vol 23, not treated
+**—** *Cardiospermum integerrimum* — keyed in vol 23, not treated
+
 
 ## Treatments
 

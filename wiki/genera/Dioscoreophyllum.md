@@ -36,14 +36,11 @@ A tropical African genus of **two species**, both present in Gabon.
 
 ## Key (translated from French)
 
-1. Stem glabrous or with sparse ± appressed hairs; **male inflorescence
-   3–6 cm long**, with peduncle 0.5–1.5 cm; male flower with **3 stamens
-   in a ± cylindrical synandrium**, filaments fused into a 1.5 mm stipe
-   ............................................. [[Dioscoreophyllum_gossweileri|*D. gossweileri*]]
-   - Stem with erect hairs; **male inflorescence 17–20 cm long**, with
-     peduncle 4–11 cm; male flower with **6 stamens in a ± hemispherical
-     synandrium**, sessile or subsessile
-     ................................................ [[Dioscoreophyllum_volkensii|*D. volkensii*]]
+
+**1.** Stem glabrous or with sparse ± appressed hairs; **male inflorescence 3–6 cm long**, with peduncle 0.5–1.5 cm; male flower with **3 stamens in a ± cylindrical synandrium**, filaments fused into a 1.5 mm stipe → [[Dioscoreophyllum_gossweileri|*D. gossweileri*]] ^k1
+
+**1′.** Stem with erect hairs; **male inflorescence 17–20 cm long**, with peduncle 4–11 cm; male flower with **6 stamens in a ± hemispherical synandrium**, sessile or subsessile → [[Dioscoreophyllum_volkensii|*D. volkensii*]]
+
 
 ## Treatments
 

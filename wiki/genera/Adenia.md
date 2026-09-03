@@ -25,47 +25,33 @@ Genus of tropical regions of the Old World, with approximately 95 species of whi
 
 De Wilde (1971, 1975), Feuillet & Macdougal (2007), Hutchinson & Dalziel (1954), Robyns (1995), Zepernick & Timler (1984).
 
-### Key to the species
-
-1. – Lamina deeply 3-lobed, with peltate base; flower large, approximately 3.5 cm in length, tubular, no glands on the petiole, only on the lamina .............. A. staudtii
-
-– Lamina not or weakly 3–5-lobed, not peltate, with one or two glands at the insertion of the lamina; flower < 2 cm in length ........................................................................ 2
-
-2. – Apex of petiole with 1 ± spatulate gland ................................................................. 3
-
-– Apex of petiole with 2 glands arranged on non-spatulate auricles .............. 6
-
 ## Key to the species
 
-1. - Limb deeply 3-lobed, with peltate base; flower large, approximately 3.5 cm in length,
-tubular, no glands on the petiole, only on the limb .............. A. staudtii
-- Limb not or weakly 3–5-lobed, not peltate, with one or two glands at the insertion
-of the limb; flower < 2 cm in length ........................................................................ 2
-2. - Apex of petiole with 1 ± spatulate gland ................................................................. 3
-- Apex of petiole with 2 glands arranged on non-spatulate auricles .............. 6
 
----
+**1.** Limb deeply 3-lobed, with peltate base; flower large, approximately 3.5 cm in length, tubular, no glands on the petiole, only on the limb → [[Adenia_staudtii\|*A. staudtii*]] ^k1
 
-<!-- caption: Planche 25.6, 26 -->
-3. - Limb cordate, 5-palmatinerved, midvein with 2 axillary laminar glands on each
-side; sterile tendrils ................................... A. bequartii ssp. occidentalis
-- Limb cordate or not, 3-palmatinerved, with one or more additional pairs of nerves
-arising from the midvein; laminar glands not in this position
-.................................................................................................................................. 4
-4. - Limb broadly ovate, as long as wide, often 3-lobed, with truncate base,
-rounded apex ............................................................................. A. cissampeloides
-- Limb longer than wide, ovate-elliptic to oblong-ovate, never lobed, with cordate
-to rounded or obtuse base, acute to long-acuminate apex ......................... 5
-5. - Limb ovate-elliptic to oblong-ovate, with cordate base; primary nerve more
-pronounced than the lateral nerves, up to 3 pairs of additional nerves; laminar
-glands minute, very numerous, scattered ........................... A. cynanchifolia
-- Limb broadly ovate to ovate-elliptic, with rounded or obtuse base; primary nerve
-similar to the lateral nerves, a single pair of additional nerves;
-laminar glands absent ....................................................................... A. poggei
-6. - Limb elliptic to oblong, obtuse or rounded at base, at least 2 times longer than
-wide; robust plant, up to 30 m in length ....................................... A. mannii
-- Limb sub-orbicular to broadly oblong, cordate at base, at most 1.5 times longer
-than wide; less robust plant, up to 15 m in length ....................... A. lobata
+**1′.** Limb not or weakly 3–5-lobed, not peltate, with one or two glands at the insertion of the limb; flower < 2 cm in length → [[#^k2|2]]
+
+**2.** Apex of petiole with 1 ± spatulate gland → [[#^k3|3]] ^k2
+
+**2′.** Apex of petiole with 2 glands arranged on non-spatulate auricles → 6 <!-- caption: Planche 25.6, 26 -->
+
+**3.** Limb cordate, 5-palmatinerved, midvein with 2 axillary laminar glands on each side; sterile tendrils → A. bequartii ssp. occidentalis ^k3
+
+**3′.** Limb cordate or not, 3-palmatinerved, with one or more additional pairs of nerves arising from the midvein; laminar glands not in this position → [[#^k4|4]]
+
+**4.** Limb broadly ovate, as long as wide, often 3-lobed, with truncate base, rounded apex → [[Adenia_cissampeloides\|*A. cissampeloides*]] ^k4
+
+**4′.** Limb longer than wide, ovate-elliptic to oblong-ovate, never lobed, with cordate to rounded or obtuse base, acute to long-acuminate apex → [[#^k5|5]]
+
+**5.** Limb ovate-elliptic to oblong-ovate, with cordate base; primary nerve more pronounced than the lateral nerves, up to 3 pairs of additional nerves; laminar glands minute, very numerous, scattered → [[Adenia_cynanchifolia\|*A. cynanchifolia*]] ^k5
+
+**5′.** Limb broadly ovate to ovate-elliptic, with rounded or obtuse base; primary nerve similar to the lateral nerves, a single pair of additional nerves; laminar glands absent → [[Adenia_poggei\|*A. poggei*]]
+
+**6.** Limb elliptic to oblong, obtuse or rounded at base, at least 2 times longer than wide; robust plant, up to 30 m in length → [[Adenia_mannii\|*A. mannii*]] ^k6
+
+**6′.** Limb sub-orbicular to broadly oblong, cordate at base, at most 1.5 times longer than wide; less robust plant, up to 15 m in length → [[Adenia_lobata\|*A. lobata*]]
+
 
 ## Species in region
 

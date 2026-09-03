@@ -101,7 +101,7 @@ Fl. Gab.: 71 ; FACB 2 : 199 ; FWTA : 433 ; FTEA : 479 ; Gram. Cam. : 216 ; Poac.
 
 Reitsma & Reitsma 1126, 07.06.1985, c. 2°20'S-10°40'E, Chantier CEB, Doussala, near the "case de passage".
 
-$ ^{*} $45.7 Panicum juncifolium Stapf
+*45.7 Panicum juncifolium Stapf
 
 FACB 2:179; Gram. CB.:159.
 
@@ -109,13 +109,13 @@ In Flora Zambesiaca 10(3) : 20, this species was considered conspecific with P. 
 
 de Wilde, Arends, Louis & Wieringa 9955, 07.12.1989, 1°37'S-13°57'E, Batéké Plateau, 37 km E. of Franceville as the crow flies.
 
-$ ^{*} $45.8 Panicum laxum Sw.
+*45.8 Panicum laxum Sw.
 
 FWTA : 429 ; Gram. Cam. : 206 ; Poac. CI. : 286, 287.
 
 Wieringa & Nzabi 2823, 30.09.1994, 2°05'S-9°51'E, near Echira oilfield, bridge over Echira river.
 
-$ ^{*} $45.9 Panicum littorale Sosef
+*45.9 Panicum littorale Sosef
 
 Breteler & van Raalte 5568, 16.09.1968, c. 0°40'S-8°50'E, SE of Port Gentil. Louis 4087, (without label). van Nek 445, 01.12.1990, 2°45.5'S-10°01.5'E, Gamba ; 738, 22.03.1991, 2°48.7'S-10°02.8'E, ca 5 km S. of Yenzi. de Wilde, Arends, Louis, Bouman & Karper 635, 18.02.1983, 3°30'S-10°45'E, Mayumbapeninsula, about 15 km S. of Mayumba. de Wilde & de Wilde-Bakhuizen 11150, 22.11.1994, 2°52'S-10°08'E, Gamba, 13 km from airport at Gamba, along the road to Mayonami.
 
@@ -185,7 +185,7 @@ Fl. Gab.: 39; FACB 2: 124; FWTA: 445; FTEA: 607; Fl. Zamb. 10(3): 88; Gram. Cam.
 
 Alers & Blom (Lopé) 116, 18.07.1986, c. 0°07'S-11°37'E, Lopé Reserve. Breteler, Jongkind, Wieringa & Moussavou 9806, 05.04.1990, c. 1°55'S-9°50'E, Rabi. van Nek 207, 05.11.1990, 1°57'S-9°53'E, Rabi-E. Reitsma & Reitsma 788, 16.04.1985, 0°31'N-9°22'E, near Sabière, ca. 4 km N. of Libreville. de Wilde, Arends, Louis, Karper & Bouman 360, 04.02.1983, 1°39'S-11°46'E, Massive of Chaillu, Missionary Station at Mouyanama, ± 15 km on the road Mimongo-Mbigou.
 
-$ ^{*} $46.2 Paspalum lamprocaryon K. Schum.
+*46.2 Paspalum lamprocaryon K. Schum.
 
 Fl. Zamb. 10(3) : 90 ; Gram. Cam. : 283. – Paspalum auriculatum auct. non Presl : FACB 2 : 128 ; FWTA : 446 ; FTEA : 609. – P. scrobiculatum L. var. lanceolatum Koning & Sosef – Poac. Cl. : 412, 413.
 
@@ -209,7 +209,7 @@ Alers & Blom (Lopé) 112, 16.07.1986, c. 0°07'S-11°37'E, Réserve de la Lopé.
 
 Fl. Gab.: 40, Pl. 6; FACB 2: 127; FWTA: 445; FTEA: 609; Fl. Zamb. 10(3): 89; Gram. Cam.: 282, Pl. 61; Poac. CI.: 408, 409; Gram. CB.: 198.
 
-$ ^{*} $46.6 Paspalum virgatum L.
+*46.6 Paspalum virgatum L.
 
 Gram. Cam. : 279 (dans la clé seulement) ; Gram. CB. : 194.
 

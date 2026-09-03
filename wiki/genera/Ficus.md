@@ -39,285 +39,253 @@ also form 2 lips or simply a small slit and in this case, all the ostiolar bract
 
 ## Key to the species
 
-1. Fig ostiole circular with at least 3 visible ostiolar bracts; basal bracts 3, whorled or scattered; staminate flowers grouped near the ostiole, blade scabrous and/or (crenate-)dentate to lobed or smooth and entire; plants (usually) not epiphytic.
 
-2. Glandular spots beneath the blade in the axils of at least the basal pair of lateral veins; blade scabrous and/or with (crenate-)dentate margin.
+**1.** Fig ostiole circular with at least 3 visible ostiolar bracts; basal bracts 3, whorled or scattered; staminate flowers grouped near the ostiole, blade scabrous and/or (crenate-)dentate to lobed or smooth and entire; plants (usually) not epiphytic. ^k1
 
-3. Stipules entirely amplexicaul; fig bracts in a whorl, external face of receptacle without bracts; figs on special leafless branchlets on old wood.
+**2.** Glandular spots beneath the blade in the axils of at least the basal pair of lateral veins; blade scabrous and/or with (crenate-)dentate margin. ^k2
 
-4. Stipules (sub)persistent; fig-bearing branches limited to the base of the trunk ..... 5. F. vogeliana.
+**3.** Stipules entirely amplexicaul; fig bracts in a whorl, external face of receptacle without bracts; figs on special leafless branchlets on old wood. ^k3
 
-4'. Stipules caducous; fig-bearing branches higher also on the trunk and/or on the main branches.
+**4.** Stipules (sub)persistent; fig-bearing branches limited to the base of the trunk → [[Ficus_vogeliana\|*F. vogeliana*]] ^k4
 
-5. Blade scabrous above, base cordate, 3–6 pairs of lateral veins; basal bracts of fig 3–5 mm long; fig-bearing branches often only on the main branches .... 3. F. mucuso.
+**4′.** Stipules caducous; fig-bearing branches higher also on the trunk and/or on the main branches.
 
-5'. Blade smooth above (sometimes shortly scabrous), base obtuse to truncate (to subcordate), 5–8 pairs of lateral veins; basal bracts of figs 2–3 mm long; fig-bearing branches on the trunk and sometimes the main branches ..... 4. F. sur.
+**5.** Blade scabrous above, base cordate, 3–6 pairs of lateral veins; basal bracts of fig 3–5 mm long; fig-bearing branches often only on the main branches → [[Ficus_mucuso\|*F. mucuso*]] ^k5
 
-3'. Stipules not fully amplexicaul; basal bracts of fig ± scattered, external face of receptacle with bracts; figs in leaf axils.
+**5′.** Blade smooth above (sometimes shortly scabrous), base obtuse to truncate (to subcordate), 5–8 pairs of lateral veins; basal bracts of figs 2–3 mm long; fig-bearing branches on the trunk and sometimes the main branches → [[Ficus_sur\|*F. sur*]]
 
-6. Blade with 3–5 pairs of lateral veins; mostly trees (to small trees) ..... 1. F. exasperata.
+**3′.** Stipules not fully amplexicaul; basal bracts of fig ± scattered, external face of receptacle with bracts; figs in leaf axils.
 
-6. Blade with 5–9–12 pairs of lateral veins; shrub
+**6.** Blade with 3–5 pairs of lateral veins; mostly trees (to small trees) → [[Ficus_exasperata\|*F. exasperata*]] ^k6
 
-2'. Glandular spot(s) on the blade, beneath at the base of the midvein, blade entire (normally on adult specimens), smooth to scabrous.
+**6.** Blade with 5–9–12 pairs of lateral veins; shrub
 
-7. Lenticels limited to the upper part of the internodes; blade scabrous to smooth; tepals fused.
+**2′.** Glandular spot(s) on the blade, beneath at the base of the midvein, blade entire (normally on adult specimens), smooth to scabrous.
 
----
+**7.** Lenticels limited to the upper part of the internodes; blade scabrous to smooth; tepals fused. ^k7
 
-8. Blade scabrous to shortly scabrous above, with 5–8 (–9) pairs of lateral veins; mostly shrubs or small trees of savanna regions
-7. F. dicranostyla.
+**8.** Blade scabrous to shortly scabrous above, with 5–8 (–9) pairs of lateral veins; mostly shrubs or small trees of savanna regions → [[Ficus_dicranostyla\|*F. dicranostyla*]] ^k8
 
-8'. Blade smooth to shortly scabrous, with (6–) 8–11 pairs of lateral veins; medium to large trees of dense (evergreen) forest zones ..... 6. F. variifolia.
+**8′.** Blade smooth to shortly scabrous, with (6–) 8–11 pairs of lateral veins; medium to large trees of dense (evergreen) forest zones → [[Ficus_variifolia\|*F. variifolia*]]
 
-7. Lenticels scattered on the internode; blade smooth; tepals free ..... 7 bis. F. ingens.
+**7.** Lenticels scattered on the internode; blade smooth; tepals free → 7 bis. F. ingens.
 
-1'. Fig ostiole bilabiate or slit-shaped, ostiolar bracts not visible, basal bracts usually 2; staminate flowers scattered among pistillate flowers; blade smooth and usually entire; plants often epiphytic or at least with aerial roots.
+**1′.** Fig ostiole bilabiate or slit-shaped, ostiolar bracts not visible, basal bracts usually 2; staminate flowers scattered among pistillate flowers; blade smooth and usually entire; plants often epiphytic or at least with aerial roots.
 
-9. Stipules persistent (or subpersistent); figs in leaf axils or just below the leaves.
+**9.** Stipules persistent (or subpersistent); figs in leaf axils or just below the leaves. ^k9
 
-10. Figs pedunculate, peduncle at least 0.2 cm long.
+**10.** Figs pedunculate, peduncle at least 0.2 cm long. ^k10
 
-11. Figs up to 1 cm in diameter when dry, not stipitate.
+**11.** Figs up to 1 cm in diameter when dry, not stipitate. ^k11
 
-12. Midvein not reaching the apex of the blade, blade obovate, obotrapezoidal or lanceolate, 0.5–3 (–5.5) cm long, with obtuse, truncate or emarginate apex; figs 0.3–0.4 cm in diameter when dry ..... 12. F. lingua.
+**12.** Midvein not reaching the apex of the blade, blade obovate, obotrapezoidal or lanceolate, 0.5–3 (–5.5) cm long, with obtuse, truncate or emarginate apex; figs 0.3–0.4 cm in diameter when dry → [[Ficus_lingua\|*F. lingua*]] ^k12
 
-12'. Midvein reaching the apex of the blade, blade elliptic to oblong or subobovate, (1.5–) 3–12 (–18) cm long, apex acuminate to rounded; figs 0.3–0.8 cm in diameter when dry ... 10. F. thonningii.
+**12′.** Midvein reaching the apex of the blade, blade elliptic to oblong or subobovate, (1.5–) 3–12 (–18) cm long, apex acuminate to rounded; figs 0.3–0.8 cm in diameter when dry → [[Ficus_thonningii\|*F. thonningii*]]
 
-11'. Figs at least 1 cm in diameter when dry, mostly stipitate.
+**11′.** Figs at least 1 cm in diameter when dry, mostly stipitate.
 
-13. Figs 1–1.5 cm in diameter when dry, often ellipsoid, peduncle up to 0.4 cm long ..... 37. F. densistipulata.
+**13.** Figs 1–1.5 cm in diameter when dry, often ellipsoid, peduncle up to 0.4 cm long → *F. densistipulata* ^k13
 
-13. Figs 2–3 cm in diameter when dry, mostly subglobose, peduncle 0.3–0.9 cm or 0.5–2.5 cm long.
-14. Petiolar periderm exfoliating in disc-like scales on the dry specimen; stipules subpersistent (or caducous); fig wall not spongy, 1–2 mm thick; peduncle 0.3–0.9 cm long ..... 36. F. cyathistipuloides.
-14. Petiolar periderm not exfoliating; stipules persistent; fig wall spongy, 3–5 mm thick when dry; peduncle 0.5–2.5 cm long ..... 35. F. cyathistipula.
+**13.** Figs 2–3 cm in diameter when dry, mostly subglobose, peduncle 0.3–0.9 cm or 0.5–2.5 cm long.
 
-10'. Figs sessile (or subsessile).
+**14.** Petiolar periderm exfoliating in disc-like scales on the dry specimen; stipules subpersistent (or caducous); fig wall not spongy, 1–2 mm thick; peduncle 0.3–0.9 cm long → [[Ficus_cyathistipuloides\|*F. cyathistipuloides*]] ^k14
 
-15. Figs up to 1 cm in diameter (occasionally up to 1.5 cm, but then the midvein not reaching the apex of the blade).
+**14.** Petiolar periderm not exfoliating; stipules persistent; fig wall spongy, 3–5 mm thick when dry; peduncle 0.5–2.5 cm long → [[Ficus_cyathistipula\|*F. cyathistipula*]]
 
-16. Midvein not reaching the apex of the blade, blade apex often ± truncate, leaves often tending to be opposite; figs initially in ± well-developed calyptrate buds splitting into 2 (sub)persistent scales ..... 13. F. craterosto
+**10′.** Figs sessile (or subsessile).
 
-16. Midvein reaching the apex of the blade, blade apex acuminate or rounded; leaves arranged in spirals occasionally almost opposite; figs initially in at least small and caducous calyptrate buds.
+**15.** Figs up to 1 cm in diameter (occasionally up to 1.5 cm, but then the midvein not reaching the apex of the blade). ^k15
 
-17. Stipules 2.5–6 cm long; fig apex crateriform or strongly inflated ..... 34. F. abscondita.
+**16.** Midvein not reaching the apex of the blade, blade apex often ± truncate, leaves often tending to be opposite; figs initially in ± well-developed calyptrate buds splitting into 2 (sub)persistent scales → *F. craterosto* ^k16
 
-17. Stipules at most 2.5 cm long; fig apex not crateriform or strongly inflated.
+**16.** Midvein reaching the apex of the blade, blade apex acuminate or rounded; leaves arranged in spirals occasionally almost opposite; figs initially in at least small and caducous calyptrate buds.
 
-18. Stipules free, 0.3–1 (–1.5) cm long, mostly at least partly shortly pubescent; petiolar periderm persistent on the dry specimen.
+**17.** Stipules 2.5–6 cm long; fig apex crateriform or strongly inflated → *F. abscondita* ^k17
 
----
+**17.** Stipules at most 2.5 cm long; fig apex not crateriform or strongly inflated.
 
-19. Blade brown when dry, folded and/or margin involute, oblong to lanceolate, its apex acuminate, mostly with a long and often also with an acute point; petiole weakly variable in length; in dense humid forest zones
-11. F. kamerunensis.
+**18.** Stipules free, 0.3–1 (–1.5) cm long, mostly at least partly shortly pubescent; petiolar periderm persistent on the dry specimen. ^k18
 
-19'. Blade greenish or brown when dry, mostly flat or margin slightly revolute (involute only in young leaves), mostly elliptic to oblong, if apex acuminate, mostly abruptly and/or shortly; petiole mostly distinctly variable in length; mostly outside dense humid forest zones ..... 10. F. thonningii.
+**19.** Blade brown when dry, folded and/or margin involute, oblong to lanceolate, its apex acuminate, mostly with a long and often also with an acute point; petiole weakly variable in length; in dense humid forest zones → [[Ficus_kamerunensis\|*F. kamerunensis*]] ^k19
 
-18'. Stipules basally fused, 0.5–1.5–2.5 cm long, glabrous or puberulent; petiolar periderm often exfoliating on the dry specimen.
+**19′.** Blade greenish or brown when dry, mostly flat or margin slightly revolute (involute only in young leaves), mostly elliptic to oblong, if apex acuminate, mostly abruptly and/or shortly; petiole mostly distinctly variable in length; mostly outside dense humid forest zones → [[Ficus_thonningii\|*F. thonningii*]]
 
-20. Blade medium-sized (10–15 cm long) with 4–6 pairs of lateral veins; leafy branchlets often hollow when dry
-31. F. camptoneura.
+**18′.** Stipules basally fused, 0.5–1.5–2.5 cm long, glabrous or puberulent; petiolar periderm often exfoliating on the dry specimen.
 
-20'. Blade medium-sized (10–15 cm long) with 6–8 or 8–10 pairs of lateral veins; leafy branchlets solid when dry.
+**20.** Blade medium-sized (10–15 cm long) with 4–6 pairs of lateral veins; leafy branchlets often hollow when dry → [[Ficus_camptoneura\|*F. camptoneura*]] ^k20
 
-21. Blade medium-sized (10–15 cm long) with 6–8 pairs of lateral veins; petiolar periderm usually exfoliating when dry ..... 32. F. pringsheimiana.
+**20′.** Blade medium-sized (10–15 cm long) with 6–8 or 8–10 pairs of lateral veins; leafy branchlets solid when dry.
 
-21'. Blade medium-sized (10–15 cm long) with 8–10 pairs of lateral veins, petiolar periderm persistent or not easily exfoliating on the dry specimen ..... 30. F. conraui.
+**21.** Blade medium-sized (10–15 cm long) with 6–8 pairs of lateral veins; petiolar periderm usually exfoliating when dry → [[Ficus_pringsheimiana\|*F. pringsheimiana*]] ^k21
 
-15. Figs at least 1 cm in diameter when dry.
+**21′.** Blade medium-sized (10–15 cm long) with 8–10 pairs of lateral veins, petiolar periderm persistent or not easily exfoliating on the dry specimen → [[Ficus_conraui\|*F. conraui*]]
 
-22. Blade with base distinctly cordate.
+**15.** Figs at least 1 cm in diameter when dry.
 
-23. Stipules up to 6.5 or 8 cm long; figs smooth, mostly wrinkled when dry or apex crateriform or strongly inflated.
+**22.** Blade with base distinctly cordate. ^k22
 
-24. Blade with 6–8 pairs of lateral veins; figs 0.75–1.5 cm in diameter when dry ..... 34. F. abscondita.
+**23.** Stipules up to 6.5 or 8 cm long; figs smooth, mostly wrinkled when dry or apex crateriform or strongly inflated. ^k23
 
-24'. Blade with 9–15 pairs of lateral veins; figs 2.5–3.5 cm in diameter when dry ..... 40. F. wildemaniana.
+**24.** Blade with 6–8 pairs of lateral veins; figs 0.75–1.5 cm in diameter when dry → *F. abscondita* ^k24
 
-23'. Stipules 0.5–2.5 cm long; figs often shortly scabrous; not wrinkled when dry; apex at most distinctly apiculate.
+**24′.** Blade with 9–15 pairs of lateral veins; figs 2.5–3.5 cm in diameter when dry → [[Ficus_wildemaniana\|*F. wildemaniana*]]
 
-25. Petiole approximately 4 mm thick; figs 2–3 cm in diameter when dry
-33. F. preussii.
+**23′.** Stipules 0.5–2.5 cm long; figs often shortly scabrous; not wrinkled when dry; apex at most distinctly apiculate.
 
-25'. Petiole 1–2.5 mm thick; figs approximately 1.5 cm in diameter when dry ..... 38. F. subcostata.
+**25.** Petiole approximately 4 mm thick; figs 2–3 cm in diameter when dry → [[Ficus_preussii\|*F. preussii*]] ^k25
 
-22'. Blade with base acute to truncate.
+**25′.** Petiole 1–2.5 mm thick; figs approximately 1.5 cm in diameter when dry → [[Ficus_subcostata\|*F. subcostata*]]
 
-26. Blade with 9–15 pairs of lateral veins; figs 2.5–3.5 cm in diameter when dry, ostiole plane or slit-shaped ..... 39. F. subsagittifolia.
+**22′.** Blade with base acute to truncate.
 
-26'. Blade with 6–9 pairs of lateral veins; figs less than 2 cm in diameter when dry, if 2–3 cm, ostiole very prominent.
+**26.** Blade with 9–15 pairs of lateral veins; figs 2.5–3.5 cm in diameter when dry, ostiole plane or slit-shaped → [[Ficus_subsagittifolia\|*F. subsagittifolia*]] ^k26
 
-27. Petiole 3–4 mm thick; figs 2–3 cm in diameter when dry or if smaller, with crateriform apex or strongly inflated.
+**26′.** Blade with 6–9 pairs of lateral veins; figs less than 2 cm in diameter when dry, if 2–3 cm, ostiole very prominent.
 
-28. Figs 2–3 cm in diameter when dry, apex prominent; leafy branchlets solid ..... 33. F. preussii.
+**27.** Petiole 3–4 mm thick; figs 2–3 cm in diameter when dry or if smaller, with crateriform apex or strongly inflated. ^k27
 
-28'. Figs 0.7–1.5 cm in diameter when dry, apex crateriform or strongly inflated; leafy branchlets hollow .. 34. F. abscondita.
+**28.** Figs 2–3 cm in diameter when dry, apex prominent; leafy branchlets solid → [[Ficus_preussii\|*F. preussii*]] ^k28
 
----
+**28′.** Figs 0.7–1.5 cm in diameter when dry, apex crateriform or strongly inflated; leafy branchlets hollow .. 34. F. abscondita.
 
-27'. Petiole 1–2.5 mm thick; figs mostly 2 cm in diameter when dry, apex not crateriform or strongly inflated.
+**27′.** Petiole 1–2.5 mm thick; figs mostly 2 cm in diameter when dry, apex not crateriform or strongly inflated.
 
-29. Blade (normally) ovate to subovate, its base truncate to rounded ..... 38. F. subcostata.
+**29.** Blade (normally) ovate to subovate, its base truncate to rounded → [[Ficus_subcostata\|*F. subcostata*]] ^k29
 
-29. Blade subobovate to oblong or elliptic, its base acute to rounded.
+**29.** Blade subobovate to oblong or elliptic, its base acute to rounded.
 
-30. Blade medium-sized (10–15 cm long) with 4–6 pairs of lateral veins; leafy branchlets often hollow when dry
-31. F. camptoneura.
+**30.** Blade medium-sized (10–15 cm long) with 4–6 pairs of lateral veins; leafy branchlets often hollow when dry → [[Ficus_camptoneura\|*F. camptoneura*]] ^k30
 
-30'. Blade medium-sized (10–15 cm long) with 6–8 or 8–10 pairs of lateral veins; leafy branchlets solid when dry.
+**30′.** Blade medium-sized (10–15 cm long) with 6–8 or 8–10 pairs of lateral veins; leafy branchlets solid when dry.
 
-31. Blade medium-sized (10–15 cm long) with 6–8 pairs of lateral veins; petiolar periderm usually exfoliating when dry ..... 32. F. pringsheimiana.
+**31.** Blade medium-sized (10–15 cm long) with 6–8 pairs of lateral veins; petiolar periderm usually exfoliating when dry → [[Ficus_pringsheimiana\|*F. pringsheimiana*]] ^k31
 
-31'. Blade medium-sized (10–15 cm long) with 8–10 pairs of lateral veins; petiolar periderm persistent or not easily exfoliating when dry ... 30. F. conraui.
+**31′.** Blade medium-sized (10–15 cm long) with 8–10 pairs of lateral veins; petiolar periderm persistent or not easily exfoliating when dry → [[Ficus_conraui\|*F. conraui*]]
 
-9. Stipules caducous (or subpersistent); figs either in leaf axils or just below the leaves, or on spurs on old branches.
+**9.** Stipules caducous (or subpersistent); figs either in leaf axils or just below the leaves, or on spurs on old branches → *F. sessile*
 
-32. Figs sessile.
+**33.** Figs up to 1 cm in diameter on the dry specimen. ^k33
 
-33. Figs up to 1 cm in diameter on the dry specimen.
+**34.** Blade with cordate base with 8–10 pairs of lateral veins; petiolar periderm exfoliating when dry → 18 bis. F. leonensis. ^k34
 
-34. Blade with cordate base with 8–10 pairs of lateral veins; petiolar periderm exfoliating when dry ..... 18 bis. F. leonensis.
+**34′.** Blade with base acute to rounded, if cordate, fewer than 8 pairs of lateral veins and/or petiolar periderm persistent when dry.
 
-34'. Blade with base acute to rounded, if cordate, fewer than 8 pairs of lateral veins and/or petiolar periderm persistent when dry.
+**35.** Petiolar periderm exfoliating when dry; blade with 4–7 (–9) pairs of lateral veins; petiole 2–4 mm thick .. 21. F. lu ^k35
 
-35. Petiolar periderm exfoliating when dry; blade with 4–7 (–9)
-pairs of lateral veins; petiole 2–4 mm thick .. 21. F. lu
+**35′.** Petiolar periderm persistent when dry; blade with 8–12 (–15) pairs of lateral veins or petiole 1–2 mm thick.
 
-35'. Petiolar periderm persistent when dry; blade with 8–12 (–15) pairs of lateral veins or petiole 1–2 mm thick.
+**36.** Leafy branchlets (at least on stipular scars), stipules and/or figs (usually) shortly pubescent; figs in pairs in the axils or just below the leaves (occasionally on old branches) → [[Ficus_thonningii\|*F. thonningii*]] ^k36
 
-36. Leafy branchlets (at least on stipular scars), stipules and/or figs (usually) shortly pubescent; figs in pairs in the axils or just below the leaves (occasionally on old branches) ..... 10. F. thonningii.
+**36′.** Leafy branchlets, stipules and figs glabrous or very shortly puberulent; figs mostly up to 4–6 together on small spurs in the axils or (just) below the leaves.
 
-36'. Leafy branchlets, stipules and figs glabrous or very shortly puberulent; figs mostly up to 4–6 together on small spurs in the axils or (just) below the leaves.
+**37.** Blade usually less than 10 cm long; petiole approximately 1.5 mm thick → [[Ficus_louisii\|*F. louisii*]] ^k37
 
-37. Blade usually less than 10 cm long; petiole approximately 1.5 mm thick ..... 18. F. louisii.
+**37′.** Blade mostly more than 10 cm long; petiole 1.5–2.5 mm thick → [[Ficus_adolfi-friderici\|*F. adolfi-friderici*]]
 
-37'. Blade mostly more than 10 cm long; petiole 1.5–2.5 mm thick ..... 17. F. adolfi-friderici.
+**33′.** Figs at least 1 cm in diameter on the dry specimen.
 
-33'. Figs at least 1 cm in diameter on the dry specimen.
+**38.** Figs (depressed) globose, at least 2 cm in diameter on the dry specimen and (usually) wrinkled; blade glabrous → [[Ficus_wildemaniana\|*F. wildemaniana*]] ^k38
 
-38. Figs (depressed) globose, at least 2 cm in diameter on the dry specimen and (usually) wrinkled; blade glabrous ... 40. F. wildemaniana.
+**38′.** Figs globose, obovoid or ellipsoid, not wrinkled on the dry specimen and at most 2 cm in diameter, if more than 2 cm, blade puberulent beneath.
 
-38'. Figs globose, obovoid or ellipsoid, not wrinkled on the dry specimen and at most 2 cm in diameter, if more than 2 cm, blade puberulent beneath.
+**39.** Petiolar periderm exfoliating when dry; blade with 4–7 (–9) pairs of lateral veins and base acute to rounded, or if more than 8 pairs of lateral veins, figs yellow with short hairs; figs initially in calyptrate buds up to 0.5 cm long → 21. F. lu ^k39
 
-39. Petiolar periderm exfoliating when dry; blade with 4–7 (–9) pairs of lateral veins and base acute to rounded, or if more than 8 pairs of lateral veins, figs yellow with short hairs; figs initially in calyptrate buds up to 0.5 cm long ..... 21. F. lu
+**39.** Petiolar periderm persistent when dry; blade with at least 8 pairs of lateral veins and/or a cordate base, figs initially in calyptrate buds up to 1.5 or 2.5 cm long.
 
-39. Petiolar periderm persistent when dry; blade with at least 8 pairs of lateral veins and/or a cordate base, figs initially in calyptrate buds up to 1.5 or 2.5 cm long.
+**40.** Blade with 6–10 pairs of lateral veins, glabrous, figs ± depressed globose → [[Ficus_mallotoides\|*F. mallotoides*]] ^k40
 
----
+**40′.** Blade with 10–14 pairs of lateral veins, puberulent to pubescent beneath; figs mostly longer than wide ...
 
-40. Blade with 6–10 pairs of lateral veins, glabrous, figs ± depressed globose ..... 15. F. mallotoides.
+**32.** Figs pedunculate. ^k32
 
-40'. Blade with 10–14 pairs of lateral veins, puberulent to pubescent beneath; figs mostly longer than wide ...
+**41.** Figs in leaf axils or sometimes also (just) below the leaves, but not on well-developed spurs. ^k41
 
-32. Figs pedunculate.
+**42.** Young figs in well-developed calyptrate buds; figs mostly longer than wide, 1–3 cm in diameter; peduncle up to 0.5 cm long and 4–6 mm thick, leaves puberulent to pubescent beneath → [[Ficus_ovata\|*F. ovata*]] ^k42
 
-41. Figs in leaf axils or sometimes also (just) below the leaves, but not on well-developed spurs.
+**42′.** Young figs not in calyptrate buds (or sometimes in very small buds); figs mostly (sub)globose, if longer than wide, the peduncle much thinner than 4 mm or figs at most 1 cm in diameter when dry.
 
-42. Young figs in well-developed calyptrate buds; figs mostly longer than wide, 1–3 cm in diameter; peduncle up to 0.5 cm long and 4–6 mm thick, leaves puberulent to pubescent beneath ..... 29. F. ovata.
+**43.** Blade approximately 15–25 cm long, with an acute base and an almost rounded apex, peduncle 1.5–2 cm long → 8 bis. F. jansii. ^k43
 
-42'. Young figs not in calyptrate buds (or sometimes in very small buds); figs mostly (sub)globose, if longer than wide, the peduncle much thinner than 4 mm or figs at most 1 cm in diameter when dry.
+**43′.** Blade shorter than 15 cm or if longer, base cordate to truncate and apex acuminate to acute and/or peduncle at most 1 cm long.
 
-43. Blade approximately 15–25 cm long, with an acute base and an almost rounded apex, peduncle 1.5–2 cm long ..... 8 bis. F. jansii.
+**44.** Blade with a cordate to truncate base. ^k44
 
-43'. Blade shorter than 15 cm or if longer, base cordate to truncate and apex acuminate to acute and/or peduncle at most 1 cm long.
+**45.** Stipules glabrous; petiole hirsute; figs 1.5–3 cm in diameter when dry; peduncle 1.5–3.5 cm long → [[Ficus_recurvata\|*F. recurvata*]] ^k45
 
-44. Blade with a cordate to truncate base.
+**45′.** Stipules silky or puberulent to hirtellous; petiole glabrous or puberulent to hirtellous; figs at most 1.5 cm in diameter when dry; peduncle at most 1 cm long.
 
-45. Stipules glabrous; petiole hirsute; figs 1.5–3 cm in diameter when dry; peduncle 1.5–3.5 cm long ..... 9. F. recurvata.
+**46.** Blade with 14–27 pairs of lateral veins, glabrous → [[Ficus_pseudomangifera\|*F. pseudomangifera*]] ^k46
 
-45'. Stipules silky or puberulent to hirtellous; petiole glabrous or puberulent to hirtellous; figs at most 1.5 cm in diameter when dry; peduncle at most 1 cm long.
+**46′.** Blade with 7–11 pairs of lateral veins, hirtellous to subtomentellous beneath → [[Ficus_trichopoda\|*F. trichopoda*]]
 
-46. Blade with 14–27 pairs of lateral veins, glabrous ..... 16. F. pseudomangifera.
+**44′.** Blade with an acute, obtuse or rounded base.
 
-46'. Blade with 7–11 pairs of lateral veins, hirtellous to subtomentellous beneath ..... 8. F. trichopoda.
+**47.** Midvein not reaching the apex of the blade; blade often obotrapezoidal with truncate apex. ^k47
 
-44'. Blade with an acute, obtuse or rounded base.
+**48.** Figs approximately 0.3–0.4 cm in diameter when dry; blade 0.5–3.5 (–5.5) cm long; petiole 0.3–0.5 cm long . 12. F. lingua. ^k48
 
-47. Midvein not reaching the apex of the blade; blade often obotrapezoidal with truncate apex.
+**48′.** Figs 0.5–1 cm in diameter when dry; blade 4–11 cm long; petiole 0.5–3 cm long → [[Ficus_natalensis\|*F. natalensis*]]
 
-48. Figs approximately 0.3–0.4 cm in diameter when dry; blade 0.5–3.5 (–5.5) cm long; petiole 0.3–0.5 cm long . 12. F. lingua.
+**47.** Midvein reaching the apex of the blade; blade mostly elliptic to oblong (or subobovate) with acuminate (to rounded) apex.
 
-48'. Figs 0.5–1 cm in diameter when dry; blade 4–11 cm long; petiole 0.5–3 cm long ..... 14. F. natalensis.
+**49.** Indumentum ± distinct and present on the blade beneath, on (at least the margin) the stipules, and/or the leafy stems (at least on stipular scars); blade with at most 12 pairs of lateral veins (occasionally more on leaves longer than 12 cm of F. thonningii). ^k49
 
-47. Midvein reaching the apex of the blade; blade mostly elliptic to oblong (or subobovate) with acuminate (to rounded) apex.
+**50.** Stipules at least 1.5 cm long → [[Ficus_trichopoda\|*F. trichopoda*]] ^k50
 
-49. Indumentum ± distinct and present on the blade beneath, on (at least the margin) the stipules, and/or the leafy stems (at least on stipular scars); blade with at most 12 pairs of lateral veins (occasionally more on leaves longer than 12 cm of F. thonningii).
+**50.** Stipules at most 1.5 cm long → [[Ficus_thonningii\|*F. thonningii*]]
 
-50. Stipules at least 1.5 cm long ..... 8. F. trichopoda.
+**49′.** Indumentum absent on the blade, if present on the leafy branchlets and stipules, then very small; if more conspicuous on the branchlets and stipules, then blade with more than 12 pairs of lateral veins.
 
-50. Stipules at most 1.5 cm long ..... 10. F. thonningii.
+**51.** Figs approximately 1.5 cm in diameter when dry → [[Ficus_elasticoides\|*F. elasticoides*]] ^k51
 
-49'. Indumentum absent on the blade, if present on the leafy branchlets and stipules, then very small; if more conspicuous on the branchlets and stipules, then blade with more than 12 pairs of lateral veins.
+**51′.** Figs at most 1.1 cm in diameter when dry.
 
----
+**52.** Stipules (normally) yellow (to grayish), hirtellous to subsilky; blade with 14–27 pairs of lateral veins; basal bracts of figs persistent; figs often up to 6 together → [[Ficus_pseudomangifera\|*F. pseudomangifera*]] ^k52
 
-51. Figs approximately 1.5 cm in diameter when dry ..... 19. F. elasticoides.
+**52′.** Stipules glabrous or at most sparsely puberulent; figs in pairs; basal bracts of fig caducous or if persistent, then blade with 8–12 pairs of lateral veins.
 
-51'. Figs at most 1.1 cm in diameter when dry.
+**53.** Basal bracts of fig persistent; figs 0.3–0.5 cm in diameter when dry → [[Ficus_louisii\|*F. louisii*]] ^k53
 
-52. Stipules (normally) yellow (to grayish), hirtellous to subsilky; blade with 14–27 pairs of lateral veins; basal bracts of figs persistent; figs often up to 6 together ..... 16. F. pseudomangifera.
+**53′.** Basal bracts of fig caducous; figs at least 0.5 cm in diameter when dry.
 
-52'. Stipules glabrous or at most sparsely puberulent;
-figs in pairs; basal bracts of fig caducous
-or if persistent, then blade with 8–12 pairs of lateral veins.
+**54.** Blade 5–8 cm long; petiole 1–1.5 mm thick. → [[Ficus_burretiana\|*F. burretiana*]] ^k54
 
-53. Basal bracts of fig persistent; figs 0.3–0.5 cm in diameter when dry ..... 18. F. louisii.
+**54.** Blade normally approximately 10–30 cm long; petiole approximately 2 mm thick → [[Ficus_barteri\|*F. barteri*]]
 
-53'. Basal bracts of fig caducous; figs at least 0.5 cm in diameter when dry.
+**41′.** Figs on well-developed spurs at the base of old branches, or even on the trunk (occasionally in leaf axils).
 
-54. Blade 5–8 cm long; petiole 1–1.5 mm thick. ..... 20. F. burretiana.
+**55.** Peduncle 0.3–1 cm long; petiole 2–5 mm thick. ^k55
 
-54. Blade normally approximately 10–30 cm long; petiole approximately 2 mm thick ..... 41. F. barteri.
+**56.** Periderm of leafy branchlets almost persistent when dry; base of blade often distinctly cordate; blade with 6–8 (–9) pairs of lateral veins → [[Ficus_umbellata\|*F. umbellata*]] ^k56
 
-41'. Figs on well-developed spurs at the base of old branches, or even on the trunk (occasionally in leaf axils).
+**56.** Periderm of leafy branchlets (usually) exfoliating when dry; base of blade of normal size (10–20 cm long) at most subcordate; blade with 7–12 pairs of lateral veins → [[Ficus_bubu\|*F. bubu*]]
 
-55. Peduncle 0.3–1 cm long; petiole 2–5 mm thick.
+**55′.** Peduncle at least 1 cm long; petiole 1–2 mm thick.
 
-56. Periderm of leafy branchlets almost persistent when dry; base of blade often distinctly cordate; blade with 6–8 (–9) pairs of lateral veins ..... 27. F. umbellata.
+**57.** Fig wall 2–3–5 mm thick when dry; indumentum rather dense and brownish near the ostiole; leafy branchlets usually dark brown to blackish when drying; stipules sometimes subpersistent. ^k57
 
-56. Periderm of leafy branchlets (usually) exfoliating when dry; base of blade of normal size (10–20 cm long) at most subcordate; blade with 7–12 pairs of lateral veins ... 28. F. bubu.
+**58.** Blade with 5–8 pairs of lateral veins, forming an arcuate apex 3–10 mm from the margin → [[Ficus_dryepondtiana\|*F. dryepondtiana*]] ^k58
 
-55'. Peduncle at least 1 cm long; petiole 1–2 mm thick.
+**58′.** Blade with 8–12 pairs of lateral veins, forming an arcuate apex 1–2 mm from the margin → [[Ficus_macrosperma\|*F. macrosperma*]]
 
-57. Fig wall 2–3–5 mm thick when dry; indumentum rather dense and brownish near the ostiole; leafy branchlets usually dark brown to blackish when drying; stipules sometimes subpersistent.
+**57′.** Fig wall at most 1–2 (1.5) mm thick when dry, without indumentum near the ostiole; leafy branchlets rarely dark brown to blackish when drying; stipules always caducous.
 
-58. Blade with 5–8 pairs of lateral veins, forming an arcuate apex 3–10 mm from the margin ..... 25. F. dryepondtiana.
+**59.** Blade cordate to ovate, base cordate to truncate, 5–8 pairs of lateral veins. ^k59
 
-58'. Blade with 8–12 pairs of lateral veins, forming an arcuate apex 1–2 mm from the margin ..... 24. F. macrosperma.
+**60.** Blade 2–7 × 1.5–3.5 cm; figs 1.5 cm in diameter when dry → [[Ficus_kimuenzensis\|*F. kimuenzensis*]] ^k60
 
-57'. Fig wall at most 1–2 (1.5) mm thick when dry, without indumentum near the ostiole; leafy branchlets rarely dark brown to blackish when drying; stipules always caducous.
+**60′.** Blade 5–16 (–24) × 3.5–10 (–15) cm; figs (1–) 2–4 cm in diameter → 27 bis. F. polita.
 
-59. Blade cordate to ovate, base cordate to truncate, 5–8 pairs of lateral veins.
+**59′.** Blade oblong to elliptic, base acute to rounded, if cordate, then at least 10 pairs of lateral veins.
 
-60. Blade 2–7 × 1.5–3.5 cm; figs 1.5 cm in diameter when dry
-26. F. kimuenzensis.
+**61.** Blade with 5–10 pairs of lateral veins, often tending to be subovate, apex often rather long acuminate to acute ^k61
 
-60'. Blade 5–16 (–24) × 3.5–10 (–15) cm; figs (1–) 2–4 cm in diameter ..... 27 bis. F. polita.
+**23.** F ottoniifolia
 
-59'. Blade oblong to elliptic, base acute to rounded, if cordate, then at least 10 pairs of lateral veins.
+**61′.** Blade with (9–) 10–16 pairs of lateral veins, often tending to subovate, apex often shortly and abruptly acuminate → 22. F. artocarpoides. subgen. Ficus Linnaeus sect. Sycidium Miquel Lond. Journ. Bot. 7: 228 (1848); CORNER, Gard. Bull. Singapore 17: 443 (1960); 21: 62 (1965).
 
-61. Blade with 5–10 pairs of lateral veins, often tending to be subovate, apex often rather long acuminate to acute
-23. F ottoniifolia
+**23′.** Ficus L. subg. Sycidium (Miq.) MILDBR. & BURRET, Bot. Jahrb. 46: 174 (1911). Shrubs to small trees, sometimes scandent. Leaves distichous, or subopposite to subwhorled. Blade usually rugose above, margin dentate to lobed; basal pair of lateral veins distinctly differentiated, tertiary venation parallel across the internervular surface, to reticulate; glandular (waxy) spots in the axils of the lateral (basal) veins. Stipules free, semi-amplexicaul. Figs in pairs in the leaf axils or below the leaves, and then more often together on short spurs, pedunculate; bracts mostly scattered on the peduncle, a few bracts on the external surface of the receptacle, ostiole closed by a few bracts, upper ostiolar bracts spreading and intertwined; the lower descending, interfascicular bracts few or absent (?), receptacle containing either staminate and gall flowers or only seed flowers (the two types of figs probably on separate plants). Staminate flowers grouped near the ostiole; stamens 1 or sometimes 2 or 3, pistillode often present. Seed flowers and gall flowers rather similar, except for the different style length; perianth with 4–6 free or basally fused tepals; stigma 1, with an apical pore; stigmas free. Fruits single-colored, usually pale yellow, those containing seeds ± drupaceous with a crustaceous endocarp, sometimes reddish. Pedicels and tepals normally with short hairs on the margins ultimately. Pollinators: species of Kradibia. 4 species probably in continental Africa, mostly in savanna zones, but also in dense humid forest areas; often along watercourses. In Gabon: F. exasperata and F. asperifolia. The species of section Sycidium are morphologically so similar that they are sometimes very difficult to distinguish. The species found in Gabon appear to be rather distinct ecologically. F. asperifolia with a shrubby habit is normally encountered along watercourses, in forest zones. F. exasperata, with an arborescent habit, is not associated with riverbanks. Another species of this section is F. pygmaea Welw., known from Angola and South Africa. It is characterized by its shrubby habit, its small leaves with coarsely crenate to lobed margin and a very short petiole.
 
----
-
-61'. Blade with (9–) 10–16 pairs of lateral veins, often tending to subovate, apex often shortly and abruptly acuminate ..... 22. F. artocarpoides.
-
-subgen. Ficus Linnaeus sect. Sycidium Miquel
-
-Lond. Journ. Bot. 7: 228 (1848); CORNER, Gard. Bull. Singapore 17: 443 (1960); 21: 62 (1965).
-
-– Ficus L. subg. Sycidium (Miq.) MILDBR. & BURRET, Bot. Jahrb. 46: 174 (1911).
-
-Shrubs to small trees, sometimes scandent. Leaves distichous, or subopposite to subwhorled. Blade usually rugose above, margin dentate to lobed; basal pair of lateral veins distinctly differentiated, tertiary venation parallel across the internervular surface, to reticulate; glandular (waxy) spots in the axils of the lateral (basal) veins. Stipules free, semi-amplexicaul.
-
-Figs in pairs in the leaf axils or below the leaves, and then more often together on short spurs, pedunculate; bracts mostly scattered on the peduncle, a few bracts on the external surface of the receptacle, ostiole closed by a few bracts, upper ostiolar bracts spreading and intertwined; the lower descending, interfascicular bracts few or absent (?), receptacle containing either staminate and gall flowers or only seed flowers (the two types of figs probably on separate plants). Staminate flowers grouped near the ostiole; stamens 1 or sometimes 2 or 3, pistillode often present. Seed flowers and gall flowers rather similar, except for the different style length; perianth with 4–6 free or basally fused tepals; stigma 1, with an apical pore; stigmas free. Fruits single-colored, usually pale yellow, those containing seeds ± drupaceous with a crustaceous endocarp, sometimes reddish. Pedicels and tepals normally with short hairs on the margins ultimately.
-
-Pollinators: species of Kradibia.
-
-4 species probably in continental Africa, mostly in savanna zones, but also in dense humid forest areas; often along watercourses. In Gabon: F. exasperata and F. asperifolia.
-
-The species of section Sycidium are morphologically so similar that they are sometimes very difficult to distinguish. The species found in Gabon appear to be rather distinct ecologically. F. asperifolia with a shrubby habit is normally encountered along watercourses, in forest zones. F. exasperata, with an arborescent habit, is not associated with riverbanks. Another species of this section is F. pygmaea Welw., known from Angola and South Africa. It is characterized by its shrubby habit, its small leaves with coarsely crenate to lobed margin and a very short petiole.
 
 ## Species in region
 

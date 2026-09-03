@@ -25,15 +25,13 @@ Type species: O. amentacea Roxburgh.
 
 This African and Asian genus comprises about twenty species. 15 are represented in Africa, 2 in Cameroon and Gabon.
 
-1. Shrubby liane or liane; young inflorescence strobiliferous; raceme.....
-
-1'. Tree; young inflorescence not strobiliferous; raceme of fascicles longer than or equal to the leaf..... 2. O. congolana.
-
 ## Key to the species
 
-1. Shrub or liane; young inflorescence strobiliforme; raceme.....
 
-1'. Tree; young inflorescence not strobiliforme; raceme of fascicles longer than or equal to the leaf..... 2. O. congolana.
+**1.** Shrub or liane; young inflorescence strobiliforme; raceme..... ^k1
+
+**1′.** Tree; young inflorescence not strobiliforme; raceme of fascicles longer than or equal to the leaf → [[Opilia_congolana\|*O. congolana*]]
+
 
 ## Species in region
 

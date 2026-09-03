@@ -33,13 +33,11 @@ This genus is widespread in tropical regions; it is particularly abundant in Mad
 
 ---
 
-1. Leaflets of decreasing size from apex to base, elliptic; fruits woody.
+## Key to the species
 
-2. Lomentum spiral; flower pedicellate with pedicel 1.5 mm long; tertiary venation very visible ..... 1. E. gigas.
 
-2'. Lomentum straight; flower with pedicel 0.5 mm long; tertiary venation scarcely visible, sparse ..... 1 bis. E. pursaetha.
+**1′.** Leaflets of non-decreasing size from apex to base, oblong; fruits chartaceous → [[Entada_mannii\|*E. mannii*]]
 
-1'. Leaflets of non-decreasing size from apex to base, oblong; fruits chartaceous ..... 2. E. mannii.
 
 ## Species in region
 
@@ -50,9 +48,11 @@ This genus is widespread in tropical regions; it is particularly abundant in Mad
 
 ## Keyed but not treated
 
+
 The source key separates these species but the volume gives them no treatment, usually because they fall outside the area it covers in full. They are listed for identification; some are extralimital to the region.
 
-- *Entada pursaetha* — keyed in vol 31, not treated
+**—** *Entada pursaetha* — keyed in vol 31, not treated
+
 
 ## Treatments
 

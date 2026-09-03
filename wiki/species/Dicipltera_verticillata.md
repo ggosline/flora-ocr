@@ -25,7 +25,7 @@ tags: [species, generated]
 
 ≡ Dianthera verticillata Forsk., Fl. Aeg. Arab. 103, Descr. Pl. 9 (1775).
 
-$  \equiv  $ Dicliptera umbellata (Vahl) Juss., Ann. Mus. Paris 9: (1807), — C.B. Clarke, F.T.A. 5: 259 (1900).
+≡ Dicliptera umbellata (Vahl) Juss., Ann. Mus. Paris 9: (1807), — C.B. Clarke, F.T.A. 5: 259 (1900).
 
 1. c.: 259 (1900). — Hutch. et Dalz., F.W.T.A. ed. 1,2: 264 (1931).
 

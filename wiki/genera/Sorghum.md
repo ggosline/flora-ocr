@@ -21,15 +21,13 @@ Annual or perennial herbs, often of large size. Spikelets grouped in large panic
 
 Each of the two sections of the genus, Sorghum s. s. and Sorghastrum, is represented in Gabon by one species.
 
-1. Primary branches of the panicle whorled, at least at the lower nodes; pedicelled spikelets more or less well developed (Sorghum s. s.). Panicles pyramidal very lax, spikelets oval-lanceolate, leaves up to 5 cm wide; sessile spikelets acuminate, reddish-brown pubescent, with or without awn..... I. S. arundinaceum
-
-1'. Primary branches of the panicle solitary, divided from the base (Sorghastrum). Annual plants, the racemes reduced to a single sessile spikelet accompanied by two naked pedicels; glumes brown, coriaceous ..... 2. S. bipennatum.
-
 ## Key to the species
 
-1. Primary panicle branches whorled, at least at lower nodes; pedicellate spikelets more or less well developed (Sorghum s. s.). Panicles pyramidal very lax, spikelets oval-lanceolate, leaves up to 5 cm wide; sessile spikelets acuminate, reddish pubescent, with or without awn..... I. S. arundinace
 
-1'. Primary panicle branches solitary, divided from the base (Sorghastrum). Annual plants, racemes reduced to a single sessile spikelet accompanied by two naked pedicels; glumes brown, coriaceous ..... 2. S. bipennatum.
+**1.** Primary panicle branches whorled, at least at lower nodes; pedicellate spikelets more or less well developed (Sorghum s. s.). Panicles pyramidal very lax, spikelets oval-lanceolate, leaves up to 5 cm wide; sessile spikelets acuminate, reddish pubescent, with or without awn → I. S. arundinace ^k1
+
+**1′.** Primary panicle branches solitary, divided from the base (Sorghastrum). Annual plants, racemes reduced to a single sessile spikelet accompanied by two naked pedicels; glumes brown, coriaceous → [[Sorghum_bipennatum\|*S. bipennatum*]]
+
 
 ## Species in region
 

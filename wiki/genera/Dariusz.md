@@ -16,33 +16,21 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-### KEY TO GENERA
-
-1. Labellum without a spur .....26. Ansellia
-
-1'. Labellum generally with a prominent spur or, at least, saccate .....2
-
-2. Pseudobulbs with a single node .....27. Oeceoclades
-
-2'. Pseudobulbs with several nodes or caulescent stems ..... 3
-
-3. Inflorescence paniculate, rostellum beaked .....28. Graphorkis
-
-3'. Inflorescence simple, rostellum short and broad .....29. Eulophia
-
 ## Key to the species
 
-1. Labellum without spur .....26. Ansellia
 
-1'. Labellum generally with a prominent spur or, at least, saccate .....2
+**1.** Labellum without spur → 26. Ansellia ^k1
 
-2. Pseudobulbs with a single node .....27. Oeceoclades
+**1′.** Labellum generally with a prominent spur or, at least, saccate → [[#^k2|2]]
 
-2'. Pseudobulbs with several nodes or caulescent stems ..... 3
+**2.** Pseudobulbs with a single node → 27. Oeceoclades ^k2
 
-3. Inflorescence paniculate, rostellum beaked .....28. Graphorkis
+**2′.** Pseudobulbs with several nodes or caulescent stems → [[#^k3|3]]
 
-3'. Inflorescence simple, rostellum short and broad .....29. Eulophia
+**3.** Inflorescence paniculate, rostellum beaked → 28. Graphorkis ^k3
+
+**3′.** Inflorescence simple, rostellum short and broad → 29. Eulophia
+
 
 ## Species in region
 

@@ -29,15 +29,15 @@ one-quarter or one-third of the tube length, and corresponding to the sepals; th
 
 ## Key to the species
 
-1. Filaments of the stamens much longer than the anthers; the latter distinctly exserted, as is the stigma; flower open at anthesis; leaves very rounded at the base, almost subcordate, coriaceous..... I. C. cf. Soyauxii.
 
----
+**1.** Filaments of the stamens much longer than the anthers; the latter distinctly exserted, as is the stigma; flower open at anthesis; leaves very rounded at the base, almost subcordate, coriaceous → I. C. cf. Soyauxii. ^k1
 
-1'. Filaments of the stamens very short; stamens and stigma not or scarcely exserted.
+**1′.** Filaments of the stamens very short; stamens and stigma not or scarcely exserted.
 
-2. Perianth tube very slender, scarcely 0.5 mm in diameter at its base; lobes acute, narrow, often three times longer than wide.
+**2.** Perianth tube very slender, scarcely 0.5 mm in diameter at its base; lobes acute, narrow, often three times longer than wide. ^k2
 
-2'. Perianth tube fairly thick, approximately 1 mm in diameter at its base; lobes very broadly ovate obtuse, scarcely longer than wide..... 3. C. cf. pseudoscandens.
+**2′.** Perianth tube fairly thick, approximately 1 mm in diameter at its base; lobes very broadly ovate obtuse, scarcely longer than wide → 3. C. cf. pseudoscandens.
+
 
 ## Species in region
 

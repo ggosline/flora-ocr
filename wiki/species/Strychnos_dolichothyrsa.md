@@ -28,7 +28,7 @@ Fresh leaves with clove-like odour; petiole with fine pubescence, 4–8 mm long;
 
 Inflorescences terminal and sometimes also axillary, lax, multiflorous, ± 9–20 × 5–20 cm; peduncle and branches slender, with short pubescence, as on the very short pedicels. Flowers 5-merous. Sepals pale green, ± half-connate, 0.8–1 × 0.5–0.8 mm, pubescent externally and glabrous internally; lobes triangular, acute and indistinctly ciliate. Corolla, in the mature bud, 2.5–3 × 2 mm, whitish-green or pale green, urceolate, externally furnished with fine pubescence, internally pilose at the base of the lobes; tube 1–1.2 mm long; lobes 1.5–2 times longer than the tube, triangular, 1.5–2 × 1–1.2 mm, acute, somewhat spreading. Stamens barely exsert, inserted at the corolla throat, with filament glabrous or with fine pubescence internally, very short; anther ovate, bearded at the base. Pistil glabrous, 1.4–2 mm long; ovary globose or broadly ovoid, 0.7–1 mm in diameter, 2-locular; style 0.7–1 mm long; stigma capitate; 7–10 ovules per locule.
 
-Fruits orange, quite small, tender, ellipsoid, $ 20-32 \times 20-32 \times 17-26 $ mm, containing 1–2 seeds, smooth; wall thin. Seeds obliquely elliptic, flattened, $ 15-20 \times 13-15 \times 3-6 $ mm, ± plano-convex, fairly rugose, with dense pubescence of very short and erect hairs. Pl. 30, 1–5, p. 137.
+Fruits orange, quite small, tender, ellipsoid, 20-32 × 20-32 × 17-26 mm, containing 1–2 seeds, smooth; wall thin. Seeds obliquely elliptic, flattened, 15-20 × 13-15 × 3-6 mm, ± plano-convex, fairly rugose, with dense pubescence of very short and erect hairs. Pl. 30, 1–5, p. 137.
 
 ## Type
 

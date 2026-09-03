@@ -33,22 +33,13 @@ Notes: Lewis et al. (2005) apply a different circumscription of the genus than t
 
 Bibliography: Breteler (1994a), Lewis et al. (2005), Pellegrin (1949).
 
-### Key to the species
-
-1. - Corolla with subequal petals; anthers 4–6 mm in length, much longer than the filaments; leaflets with blade glabrous, rarely with a few hairs beneath in the young state; pod glabrous ............................................................................................ L. capparideus
-
-- Corolla papilionaceous; anthers 2.5–3 mm in length, much shorter than the filaments; leaflets with blade ± densely pubescent beneath; pod densely pilose
-
-................................................................................................................. L. brachycarpus
-
 ## Key to the species
 
-1. - Corolla with subequal petals; anthers 4–6 mm long, much longer than the
-filaments; leaflets with glabrous blade, rarely with a few hairs beneath in the young
-state; legume glabrous ............................................................................................ L. capparideus
-- Corolla papilionaceous; anthers 2.5–3 mm long, much shorter than the
-filaments; leaflets with blade ± densely pubescent beneath; legume densely pilose
-................................................................................................................. L. brachycarpus
+
+**1.** Corolla with subequal petals; anthers 4–6 mm long, much longer than the filaments; leaflets with glabrous blade, rarely with a few hairs beneath in the young state; legume glabrous → [[Leucomphalos_capparideus\|*L. capparideus*]] ^k1
+
+**1′.** Corolla papilionaceous; anthers 2.5–3 mm long, much shorter than the filaments; leaflets with blade ± densely pubescent beneath; legume densely pilose → [[Leucomphalos_brachycarpus\|*L. brachycarpus*]]
+
 
 ## Species in region
 

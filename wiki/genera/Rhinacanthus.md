@@ -27,7 +27,7 @@ the apex of the tube, shorter than the lips; anthers with 2 subparallel locules,
 
 Capsule oblong or claviform narrowed into a long stipe. 4 seeds or fewer by abortion, compressed, ± orbicular.
 
-Type species: R. communis Nees ($\equiv$ Rh. nasutus [L.] Kurz; Eastern Indies).
+Type species: R. communis Nees (≡ Rh. nasutus [L.] Kurz; Eastern Indies).
 
 About 5 species from the tropics of the Old World, only one in Gabon.
 

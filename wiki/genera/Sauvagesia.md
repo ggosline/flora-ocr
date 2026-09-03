@@ -29,16 +29,13 @@ Sauvagesia comprises around 40 species, most in South America, three in Asia and
 
 Bibliography: Amaral & Bittrich (2014), Bamps & Farron (1967), Robson (1963), Sastre (1971), Verdcourt (2005).
 
-### Key to the species
-
-1. - Upper blades progressively narrower; flowers grouped at the apex of stems, in uniparious cymes or sometimes solitary; staminodes in 1 whorl, petaloid ................................................................................................. S. africana
-
-- Blades all of the same width; flowers solitary or rarely fascicled by 2 or 3; staminodes in 2 whorls, the inner ones petaloid, the outer ones filiform, with reniform to triangular apex ................................................................. S. erecta
-
 ## Key to the species
 
-1. - Upper leaf blades progressively narrower ; flowers grouped at the stem apex, in uniporous cymes or sometimes solitary ; staminodes in 1 whorl, petaloid ................................................................................................. S. africana
-- All leaf blades of the same width ; flowers solitary or rarely fascicled by 2 or 3 ; staminodes in 2 whorls, the inner petaloid, the outer filiform, with apex reniform to triangular ................................................................. S. erecta
+
+**1.** Upper leaf blades progressively narrower ; flowers grouped at the stem apex, in uniporous cymes or sometimes solitary ; staminodes in 1 whorl, petaloid → [[Sauvagesia_africana\|*S. africana*]] ^k1
+
+**1′.** All leaf blades of the same width ; flowers solitary or rarely fascicled by 2 or 3 ; staminodes in 2 whorls, the inner petaloid, the outer filiform, with apex reniform to triangular → [[Sauvagesia_erecta\|*S. erecta*]]
+
 
 ## Species in region
 

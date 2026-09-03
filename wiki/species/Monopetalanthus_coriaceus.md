@@ -1,7 +1,7 @@
 ---
 type: species
 name: Monopetalanthus coriaceus
-authority: Morel ex Aubréville, sp. nov. $ ^{1} $
+authority: Morel ex Aubréville, sp. nov. ¹
 genus: Monopetalanthus
 family: Leguminosae
 vol: 15
@@ -12,7 +12,7 @@ in_region: true
 habit: "tree"
 tags: [species, generated]
 ---
-# *Monopetalanthus coriaceus* Morel ex Aubréville, sp. nov. $ ^{1} $
+# *Monopetalanthus coriaceus* Morel ex Aubréville, sp. nov. ¹
 
 **Genus**: [[Monopetalanthus]]
 **Family**: [[Leguminosae]]

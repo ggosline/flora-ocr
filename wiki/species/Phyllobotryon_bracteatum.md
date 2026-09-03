@@ -16,7 +16,7 @@ tags: [species, generated]
 
 **Genus**: [[Phyllobotryon]]
 **Family**: [[Flacourtiaceae]]
-**Protologue**: Bull. Mus. natl. Hist. nat. Paris, 4 $ ^{e} $ sér., sect. B, Adansonia 13 (3-4): 162 (1991)
+**Protologue**: Bull. Mus. natl. Hist. nat. Paris, 4 ᵉ sér., sect. B, Adansonia 13 (3-4): 162 (1991)
 
 ## Description
 

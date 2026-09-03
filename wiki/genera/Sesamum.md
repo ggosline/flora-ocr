@@ -31,22 +31,17 @@ B: Bedigian (2003, 2010), Bruce (1953), Heine (1963).
 
 Bibliography
 
-### Key to species
-
-1. - Leaf with petiole 3–11 cm; blade with margins generally dentate; fruits 1.5–4 cm in length ..................................................................................................................... 2
-
-- Leaf sessile or with short petiole; blade with entire margins; fruits 0.9–1.3 cm in length .................................................................................................... S. parviflorum
-
-2. - Plant slightly pubescent; blade of lower leaves deeply divided or palmately compound; fruit beak terminating in an acute point; mature seeds with fine reticulation, wrinkles or almost smooth, white to brown and black, sometimes beige, yellow or red ................................................................................. S. indicum
-
-- Plant entirely densely pubescent; blade of lower leaves never compound or divided; fruit beak with traces of apical horns; seeds
-
 ## Key to the species
 
-1. - Leaf with petiole 3−11 cm; blade with margins generally dentate; fruits 1.5−4 cm in length ..................................................................................................................... 2
-- Leaf sessile or with short petiole; blade with entire margins; fruits 0.9−1.3 cm in length .................................................................................................... S. parviflorum
-2. - Plant slightly pubescent; blade of lower leaves deeply divided or palmately compound; fruit beak terminating in an acute point; mature seeds with fine reticulation, wrinkles or nearly smooth, white to brown and black, sometimes beige, yellow or red ................................................................................. S. indicum
-- Plant entirely densely pubescent; blade of lower leaves never compound or divided; fruit beak with traces of apical horns; mature seeds rugose or punctate, with radial lines around the margin, always black ............................................................................................................ S. radiatum
+
+**1.** Leaf with petiole 3−11 cm; blade with margins generally dentate; fruits 1.5−4 cm in length → [[#^k2|2]] ^k1
+
+**1′.** Leaf sessile or with short petiole; blade with entire margins; fruits 0.9−1.3 cm in length → [[Sesamum_parviflorum\|*S. parviflorum*]]
+
+**2.** Plant slightly pubescent; blade of lower leaves deeply divided or palmately compound; fruit beak terminating in an acute point; mature seeds with fine reticulation, wrinkles or nearly smooth, white to brown and black, sometimes beige, yellow or red → [[Sesamum_indicum\|*S. indicum*]] ^k2
+
+**2′.** Plant entirely densely pubescent; blade of lower leaves never compound or divided; fruit beak with traces of apical horns; mature seeds rugose or punctate, with radial lines around the margin, always black → [[Sesamum_radiatum\|*S. radiatum*]]
+
 
 ## Species in region
 

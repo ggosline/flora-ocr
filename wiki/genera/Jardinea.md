@@ -27,19 +27,13 @@ Jardinea species are most often plants of marshy places or forest margins with f
 
 Jardinea gabonensis Steud. was described from Gabon, but the presence of another species, J. congoensis Franch., is very probable.
 
-1. Racemes 6 to 12, rigid, fragile, opposite or distributed on the inflorescence axis; pedicellate spikelets reduced to a small glume or almost suppressed..... 1. J. gabonensis.
-
-1'. Racemes very numerous, whorled or sub-whorled, at least the lower ones, relatively flexuous; pedicellate spikelets similar to the sessile ones or somewhat reduced..... 2. J. congoensis.
-
 ## Key to the species
 
-1. Racemes 6 to 12, rigid, fragile, opposite or distributed along the axis of the inflorescence; pedicelled spikelets reduced to a small glume or almost suppressed..... 1. J. gabonensis.
 
-1'. Racemes very numerous, whorled or sub-whorled, at least the lower ones, relatively flexuous; pedicelled spikelets similar to the sessile or somewhat reduced..... 2. J. congoensis.
+**1.** Racemes 6 to 12, rigid, fragile, opposite or distributed along the axis of the inflorescence; pedicelled spikelets reduced to a small glume or almost suppressed → [[Jardinea_gabonensis\|*J. gabonensis*]] ^k1
 
----
+**1′.** Racemes very numerous, whorled or sub-whorled, at least the lower ones, relatively flexuous; pedicelled spikelets similar to the sessile or somewhat reduced → [[Jardinea_congoensis\|*J. congoensis*]]
 
----
 
 ## Species in region
 

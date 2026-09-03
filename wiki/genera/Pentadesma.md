@@ -27,20 +27,13 @@ B: Bamps (1970a, 1971), Meer (1965), Pellegrin (1959), Stevens (2007).
 
 Bibliography
 
-### Key to the species
-
-1. – Leaves without black punctations below, with 1(–2) secretory canals parallel between each pair of lateral veins; ovary bottle-shaped, with 2 series of 7–14 ovules per locule; fruit ovoid to globose, smooth ..................... P. butyracea
-
-– Leaves with well-visible black punctations below, with 2–4 secretory canals parallel between each pair of lateral veins; ovary globose, with 2 series of 2–6 ovules per locule; fruit conical, grooved .................................. P. grandifolia
-
 ## Key to the species
 
-1. - Leaves without black punctuations below, with 1(‒ 2) secretory canals parallel
-between each pair of lateral veins; ovary bottle-shaped, with 2 series
-of 7 ‒ 14 ovules per locule; fruit ovoid to globose, smooth ..................... P. butyracea
-- Leaves with well-visible black punctuations below, with 2 ‒ 4 secretory canals
-parallel between each pair of lateral veins; ovary globose, with 2 series
-of 2 ‒ 6 ovules per locule; fruit conical, grooved .................................. P. grandifolia
+
+**1.** Leaves without black punctuations below, with 1(‒ 2) secretory canals parallel between each pair of lateral veins; ovary bottle-shaped, with 2 series of 7 ‒ 14 ovules per locule; fruit ovoid to globose, smooth → [[Pentadesma_butyracea\|*P. butyracea*]] ^k1
+
+**1′.** Leaves with well-visible black punctuations below, with 2 ‒ 4 secretory canals parallel between each pair of lateral veins; ovary globose, with 2 series of 2 ‒ 6 ovules per locule; fruit conical, grooved → [[Pentadesma_grandifolia\|*P. grandifolia*]]
+
 
 ## Species in region
 

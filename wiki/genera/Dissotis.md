@@ -27,62 +27,45 @@ TYPE SPECIES: Dissotis grandiflora (Sm.) Benth., West Africa.
 
 Except for the subforestry species (margins, clearings) of subgen. Dupineta, these are mainly heliophiles, absent from forest massifs; we shall mention a few of them, from the savannas of Congo, whose existence is probable in similar biotopes of Gabon.
 
-### KEY TO SUBGENERA AND SPECIES
-
-1. Appendix of external stamens laminate, then emarginate or bilobed, that of internal stamens often reduced to a 2-tuberculate protuberance (Subgen. Osbeckiella A. & R. FERN.). Herb hirsute; cymes ± contracted; hypanthium with stellate emergences, those of the apex and intersepalary ones stipitate-linear; sepals caducous, glabrescent on the back, but ciliate and stellate at the apex; stamens scarcely dimorphic; flowers normally 5-merous¹ ..... 1. D. irvingiana
-
-1'. Appendix of external stamens not laminate, variously bilobed, bifid to bipartite.
-
-2. Appendicular lobes obtuse, or thick, at their apex; stamens dimorphic, but the internal ones also have an evident pedoconnective; hypanthium sparsely pilose, plus stipitate and stellate emergences, early caducous, or without any emergence; sepals caducous, acuminate to caudate (Subgen. Dupineta (RAFIN.) A. & R. FERN.).
-
-3. No emergences; simple hairs, scattered on the hypanthium; sepals caudate for 2/3 of the length, loosely setulous on the back; leaves serrulate-ciliate ..... 2. D. hensii.
-
-3'. Emergences on the flower buds (sometimes very early caducous) in addition to short pilosité.
-
-4. Leaves not or slightly cordate; branches 4-angular not winged; sepals abruptly caudate for 2/3 of the length, loosely ciliate .....
-
-3. D. multiflora.
-
-4'. Leaves cordate; branches 4-angular-winged; sepals moderately acu-
-
 ## Key to the species
 
-1. Appendage of external stamens laminate, then emarginate or bilobed, that of internal stamens often reduced to a 2-tuberculate protuberance (Subgen. Osbeckiella A. & R. FERN.). Herb hirsute; cymes ± contracted; hypanthium with stellate emergences, those at the apex and the intersepalous ones stipitate-linear; sepals caducous, glabrescente on the back, but ciliate and stellate at the apex; stamens not dimorphic; flowers normally 5-merous¹ ..... 1. D. irvingiana
 
-1'. Appendage of external stamens not laminate, variously bilobed, bifid to bipartite.
+**1.** Appendage of external stamens laminate, then emarginate or bilobed, that of internal stamens often reduced to a 2-tuberculate protuberance (Subgen. Osbeckiella A. & R. FERN.). Herb hirsute; cymes ± contracted; hypanthium with stellate emergences, those at the apex and the intersepalous ones stipitate-linear; sepals caducous, glabrescente on the back, but ciliate and stellate at the apex; stamens not dimorphic; flowers normally 5-merous¹ → [[Dissotis_irvingiana\|*D. irvingiana*]] ^k1
 
-2. Appendicular lobes obtuse, or thick, at their apex; stamens dimorphic, but the internal ones also have an evident pedoconnective; hypanthium sparsely pilose, plus stipitate and stellate emergences, early caducous, or without any emergences; sepals caducous, acuminate to caudate (Subgen. Dupineta (RAFIN.) A. & R. FERN.).
+**1′.** Appendage of external stamens not laminate, variously bilobed, bifid to bipartite.
 
-3. No emergences; hairs simple, scattered on the hypanthium; sepals caudate over 2/3 of the length, loosely setulose on the back; leaves serrate-ciliate ..... 2. D. hensii.
+**2.** Appendicular lobes obtuse, or thick, at their apex; stamens dimorphic, but the internal ones also have an evident pedoconnective; hypanthium sparsely pilose, plus stipitate and stellate emergences, early caducous, or without any emergences; sepals caducous, acuminate to caudate (Subgen. Dupineta (RAFIN.) A. & R. FERN.). ^k2
 
-3'. Emergences on the floral buds (sometimes very rapidly caducous) in addition to short pubescence.
+**3.** No emergences; hairs simple, scattered on the hypanthium; sepals caudate over 2/3 of the length, loosely setulose on the back; leaves serrate-ciliate → [[Dissotis_hensii\|*D. hensii*]] ^k3
 
-4. Leaves not or scarcely cordate; branchlets 4-angular not winged; sepals abruptly caudate over 2/3 of the length, loosely ciliate .....
-3. D. multiflora.
+**3′.** Emergences on the floral buds (sometimes very rapidly caducous) in addition to short pubescence.
 
-4'. Leaves cordate; branchlets 4-angular-winged; sepals moderately acuminate towards the middle, densely ciliate ..... 4. D. brazza.
+**4.** Leaves not or scarcely cordate; branchlets 4-angular not winged; sepals abruptly caudate over 2/3 of the length, loosely ciliate ..... ^k4
 
-2'. Appendage divided to the base into 2 subulate or linear lobes; or only bifid with pedoconnective thickened by a dorsal heel; or stamens homomorphic, with pedoconnective and appendages obsolete; hypanthium rarely glabrous, often with setulose, persistent emergences, only the intersepalous ones being caducous with the sepals; sepals rarely persistent (Subgen. Dissotis).
+**3.** D. multiflora.
 
-1. One species of the same group: D. phaeotricha (Hochst.) Hook. f., exists on the batéké plateaus in Congo. It is characterized by compact glomerules and typically 4-merous flowers.
+**4′.** Leaves cordate; branchlets 4-angular-winged; sepals moderately acuminate towards the middle, densely ciliate → [[Dissotis_brazza\|*D. brazza*]]
 
-<<<---SECTION-BREAK--->>>
+**2′.** Appendage divided to the base into 2 subulate or linear lobes; or only bifid with pedoconnective thickened by a dorsal heel; or stamens homomorphic, with pedoconnective and appendages obsolete; hypanthium rarely glabrous, often with setulose, persistent emergences, only the intersepalous ones being caducous with the sepals; sepals rarely persistent (Subgen. Dissotis).
 
-5. Sepals persistent; plant hirsute; hypanthium setulose, without emergences other than the intersepalous, linear, setulose but not stellate; stamens generally homomorphic, without evident pedoconnective, appendage reduced, 2-tuberculate ..... 5. D. congolensis.
+**1.** One species of the same group: D. phaeotricha (Hochst.) Hook. f., exists on the batéké plateaus in Congo. It is characterized by compact glomerules and typically 4-merous flowers. <<<---SECTION-BREAK--->>>
 
-5'. Sepals caducous.
+**5.** Sepals persistent; plant hirsute; hypanthium setulose, without emergences other than the intersepalous, linear, setulose but not stellate; stamens generally homomorphic, without evident pedoconnective, appendage reduced, 2-tuberculate → [[Dissotis_congolensis\|*D. congolensis*]] ^k5
 
-6. Hypanthium glabrous or loosely setulose; plants 20 to 30 cm; leaves sessile.
+**5′.** Sepals caducous.
 
-7. Hypanthium sparsely setulose; plant variably pilose ..... 6. D. buraeavii.
+**6.** Hypanthium glabrous or loosely setulose; plants 20 to 30 cm; leaves sessile. ^k6
 
-7'. Hypanthium glabrous; plant glabrescente ..... 6 bis. D. glaberrima.
+**7.** Hypanthium sparsely setulose; plant variably pilose → [[Dissotis_buraeavii\|*D. buraeavii*]] ^k7
 
-6'. Hypanthium with squamose or bristly emergences; plants robust or shrubby; leaves petiolate.
+**7′.** Hypanthium glabrous; plant glabrescente → 6 bis. D. glaberrima.
 
-8. Robust stems from a perennial rootstock, erect up to 2 m; panicle ample; leaves 5 × 20 cm; heterogeneous indument of branched hairs and squamose, ciliate, pectinate or penicillate emergences, on the hypanthium, only the intersepalous ones are lobuliform; sepals sericeous on the back ..... 6 ter. D. thollo
+**6′.** Hypanthium with squamose or bristly emergences; plants robust or shrubby; leaves petiolate.
 
-8'. Shrub, with large solitary flowers; leaves 4 × 11 cm; surface of the hypanthium with fine hairs arranged radially around each stipitate, discoid and setulose emergence; sepals very asymmetric, strigillous on the back ..... 7. D. barteri.
+**8.** Robust stems from a perennial rootstock, erect up to 2 m; panicle ample; leaves 5 × 20 cm; heterogeneous indument of branched hairs and squamose, ciliate, pectinate or penicillate emergences, on the hypanthium, only the intersepalous ones are lobuliform; sepals sericeous on the back → 6 ter. D. thollo ^k8
+
+**8′.** Shrub, with large solitary flowers; leaves 4 × 11 cm; surface of the hypanthium with fine hairs arranged radially around each stipitate, discoid and setulose emergence; sepals very asymmetric, strigillous on the back → [[Dissotis_barteri\|*D. barteri*]]
+
 
 ## Species in region
 

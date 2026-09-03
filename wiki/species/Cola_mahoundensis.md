@@ -52,7 +52,7 @@ La seule espèce, très isolée taxonomiquement, est la suivante.
 
 14. Cola altissima Engler.
 
-Engl., Bot. Jahrb. XXXIX : 594 (1907), rét. orig. — F.W.T.A. 2 $ ^{e} $ ed. I : 328 (1958).
+Engl., Bot. Jahrb. XXXIX : 594 (1907), rét. orig. — F.W.T.A. 2 ᵉ ed. I : 328 (1958).
 
 Arbre élancé atteignant 20 à 30 m de haut. Jeunes extrémités vêtues de poils stellés bruns. Stipules pubescentes de 7-12 mm de long, étroites, rapidement caduques. Pétioles d'abord pubescents puis glabres de 2 à 25 cm de long. Limbe médiocrement pubescent dans le jeune âge puis glabre, coriace, devenant brun noirâtre à sec, elliptique, long de 9 à 36 cm, large de 4,5 à 17 cm; base subaiguë à obtuse, sommet courtement acuminé. Nervures latérales 7-8 paires pennées; réticule très apparent et en relief sur les deux faces du limbe à sec.
 

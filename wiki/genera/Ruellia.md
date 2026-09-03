@@ -33,6 +33,12 @@ Type species: Ruellia tuberosus L., tropical America.
 
 The taxonomy of African species is very uncertain and requires critical revision. The only species of the section Dipteracanthus (Nees) C.B.Cl. represented in Gabon belongs to a group for which the name R. patula Jacq. has been used, up to 1963 (F.W.T.A.), in a fairly broad sense. The scanty and very young material, without fully opened flowers or fruits, studied from Gabon appears to have received a correct specific attribution, but the still imperfect knowledge of the genus in Africa does not allow one to be absolutely certain. The flowers are considerably smaller than those described by G. Lindau in his original description, but the character is doubtless due to the immature state; moreover, the dimensions of the floral organs are susceptible to varying individually in a rather considerable manner; in the present case, this in no way affects the conclusions or taxonomic delimitations.
 
+## Key to the species
+
+
+**1′.** Leaves at the same node generally very unequal; blades often somewhat asymmetrical; flower pedicels up to 4 cm long; calyx 2.5–3 cm long; 3 posterior sepals often fused nearly to the apex; corolla up to 5 cm long → [[Ruellia_primuloides\|*R. primuloides*]]
+
+
 ## Species in region
 
 | Species | Vol | Pages |

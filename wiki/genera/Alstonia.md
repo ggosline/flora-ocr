@@ -29,12 +29,6 @@ BIBLIOGRAPHY
 
 Wilks & Issembé (2000).
 
-### Key to species
-
-Petiole 0.5–2 cm; limb 1–3 times as long as wide; secondary nerves in 6–8 pairs; axes of inflorescences densely or weakly pubescent; calyx pubescent on the outside; corolla tube 1.5–2 times as long as the lobes; fruit pubescent ............. A. boonei
-
-Petiole null or up to 0.5 cm; limb 3–7 times as long as wide; secondary nerves in 8–12 pairs; axes of inflorescences glabrous or sparsely pubescent only on the last branches; calyx glabrous or sometimes with a few minute hairs; lobes with a few marginal hairs; corolla tube 2–3 times as long as the lobes; fruit glabrous or with a few minute hairs ................................................................................................. A. congensis
-
 ## Key to the species
 
 Petiole 0.5–1 cm, climbing foliage, sometimes also as long as the width at the level of the secondary nerves in 4–5 pairs; axes of the inflorescences densely or weakly pubescent; calyx pubescent on the outside; tube of the corolla 1–1.5 times also as long as the lobes; fruit pubescent ............. A. boonei

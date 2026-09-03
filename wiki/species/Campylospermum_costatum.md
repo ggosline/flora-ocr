@@ -15,6 +15,10 @@ tags: [species, generated]
 **Family**: [[Ochnaceae]]
 **Protologue**: Blumea 58 : 6 (2013)
 
+## Synonyms
+
+- Monelasmum costatum Tiegh., Ann. Sci. Nat. , sér. 8, Bot. , 16 : 333 (1902).
+
 ## Description
 
 *No descriptive text was segmented for this species.*

@@ -50,7 +50,7 @@ Jeffrey (1967), Keraudren (1967), Keraudren-Aymonin (1975)
 
 ![Momordica multiflora](../sources/Cucurbitaceae_vol57_paddle/figures/fig_066_p0096.png)
 
-*Plate 31. Momordica multiflora : 1. Male flowering stem (×3½). – 2. Male flower (×3½). – 3. Idem, two petals folded back (×4½). – 4. Anther, dorsal view (×7). – 5. Fruit (×2½). – 6. Seed, front and profile view (×1³/4). (1 : Letouzey 5364; 2, 3 : Leeuwenberg 7331; 4-6 : Léonard 1078). Drawing by Gisèle Chypre, National Museum of Natural History, Paris (©), reproduced with permission from Keraudren (1967).*
+*PL. XXXI. — Momordica multiflora: 1. Male flowering stem (×3½). – 2. Male flower (×3½). – 3. Idem, two petals folded back (×4½). – 4. Anther, dorsal view (×7). – 5. Fruit (×2½). – 6. Seed, front and profile view (×1³/4). (1: Letouzey 5364; 2, 3: Leeuwenberg 7331; 4-6: Léonard 1078). Drawing by Gisèle Chypre, National Museum of Natural History, Paris (©), reproduced with permission from Keraudren (1967).*
 
 ## Notes
 

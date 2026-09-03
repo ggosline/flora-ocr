@@ -35,7 +35,7 @@ on flat terrain or on slopes and banks, in primary or secondarized forest, often
 
 ![Begonia erectotricha](../sources/Begoniaceae_vol39_liteparse/figures/fig_036_p0051.png)
 
-*Plate 21. Begonia erectotricha : 1. Rooting base of a flowering plant (× ⅔). – 2. Leaves (× ⅔). – 3. ♂ Flower (× 2). – 4. ♀ Flower (× 2). – 5. Styles and stigmas (× 4). – 6. Fruit (× 2). (1-5 : de Wilde c.s. (WALK-B) 57 ; 6 : Breteler & de Wilde 159 ) . Drawing by W W , National Herbarium*
+*PL. 21. — Begonia erectotricha : 1. Rooting base of a flowering plant (× ⅔). – 2. Leaves (× ⅔). – 3. ♂ Flower (× 2). – 4. ♀ Flower (× 2). – 5. Styles and stigmas (× 4). – 6. Fruit (× 2). (1-5 : de Wilde c.s. (WALK-B) 57 ; 6 : Breteler & de Wilde 159 ) . Drawing by W W , National Herbarium*
 
 ## Notes
 

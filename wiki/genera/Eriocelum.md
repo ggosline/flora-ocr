@@ -30,6 +30,12 @@ About ten species have been described from plants of West Africa, from Zaïre an
 
 The characters chosen for the distinction of species are: the dimensions of the fruit (RADLKOFER), the relief of the midvein, raised above in all species except in E. oblongum and paniculatum where it is sunken (KEAY); to this has been added the pubescence of the stamens examined on the types or reference specimens. But the diversity of the material: samples in flower, in fruit, sterile, is the cause of uncertainty and this key can certainly be improved in the future.
 
+## Key to the species
+
+
+**1′.** Leaves 3–5 jugate, with petiole 3–4 cm; leaflets 14–18 × 5–6 cm, not punctate; branchlets slightly puberulent, hairs 0.1 mm; inflorescence branched 2–3 times, 12–15 cm, slender; cymules with 1–3 flowers; pedicel 3 mm; sepal 1 mm; petal 3 mm; limb glabrous; filament villous; fruit 2–2.5 cm high, 2.5–3.5 cm wide; valves 2.5–4 mm thick → [[Eriocelum_petiolare\|*E. petiolare*]]
+
+
 ## Species in region
 
 | Species | Vol | Pages |

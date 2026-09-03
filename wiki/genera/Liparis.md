@@ -27,43 +27,29 @@ Information on pollination in Liparis is rare in the literature. Some species ar
 
 This important genus, especially pantropical, comprises approximately 270 species, some representatives in temperate regions of both hemispheres. In Gabon, 6 species are known.
 
-1. Lip deeply 3-dentate just above the base; median lobe apiculate, apex recurved upward ..... 6. L. tridens
-
-1'. Lip of diverse form but never distinctly 3-lobed.
-
-2. Lateral sepals fused into a gamosepalous whole ..... 4. L. hallei
-
-2'. Lateral sepals free or fused only at their base.
-
-3. Lip orbicular, transversely elliptic or diamond-shaped, maximum width at or below the middle ..... 1. L. ascendens
-
-3'. Lip obovate, maximum width above the middle.
-
-4. Rhizome long, ascending, pseudobulbs well separated ..... 2. L. deistelli
-
-4'. Rhizome reduced, very short, pseudobulbs crowded against each other.
-
-5. Large plants, generally > 25 cm, leaves 2–10 cm wide, inflorescence (10)20–40(–n)-flowered ..... 5. L. nervosa
-
-5'. Small plants < 15 cm, leaves less than 1–1.7 cm wide, inflorescence 3–10(20)-flowered ..... 3. L. epiphytica
-
 ## Key to the species
 
-1. Labellum deeply 3-toothed just above the base; median lobe apiculate, apex recurved upward ..... 6. L. tridens
-1'. Labellum of various forms but never distinctly 3-lobed.
 
-2. Lateral sepals fused into a gamosepalous unit ..... 4. L. hallei
-2'. Lateral sepals free or fused only at their base.
+**1.** Labellum deeply 3-toothed just above the base; median lobe apiculate, apex recurved upward → [[Liparis_tridens\|*L. tridens*]] ^k1
 
-3. Labellum orbicular, transversely elliptic or diamond-shaped, maximum width at or below the midpoint ..... 1. L. ascendens
-3'. Labellum obovate, maximum width above the midpoint.
+**1′.** Labellum of various forms but never distinctly 3-lobed.
 
-4. Rhizome long, ascending, pseudobulbs well separated ..... 2. L. deistelli
-4'. Rhizome reduced, very short, pseudobulbs closely appressed to one another.
+**2.** Lateral sepals fused into a gamosepalous unit → [[Liparis_hallei\|*L. hallei*]] ^k2
 
-5. Large plants, generally > 25 cm, leaves 2–10 cm wide, inflorescence (10)20–40(–n)-flowered ..... 5. L. nervosa
+**2′.** Lateral sepals free or fused only at their base.
 
-5'. Small plants < 15 cm, leaves less than 1(1.7) cm wide, inflorescence 3–10(20)-flowered ..... 3. L. epiphytica
+**3.** Labellum orbicular, transversely elliptic or diamond-shaped, maximum width at or below the midpoint → [[Liparis_ascendens\|*L. ascendens*]] ^k3
+
+**3′.** Labellum obovate, maximum width above the midpoint.
+
+**4.** Rhizome long, ascending, pseudobulbs well separated → [[Liparis_deistelli\|*L. deistelli*]] ^k4
+
+**4′.** Rhizome reduced, very short, pseudobulbs closely appressed to one another.
+
+**5.** Large plants, generally > 25 cm, leaves 2–10 cm wide, inflorescence (10)20–40(–n)-flowered → [[Liparis_nervosa\|*L. nervosa*]] ^k5
+
+**5′.** Small plants < 15 cm, leaves less than 1(1.7) cm wide, inflorescence 3–10(20)-flowered → [[Liparis_epiphytica\|*L. epiphytica*]]
+
 
 ## Species in region
 

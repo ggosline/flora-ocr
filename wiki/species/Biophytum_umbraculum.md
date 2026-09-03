@@ -7,11 +7,6 @@ family: Oxalidaceae
 vol: 38
 pages: 44-46
 source: sources/Oxalidaceae_vol38_liteparse
-countries: [Gabon]
-in_region: true
-subdivisions:
-  Gabon: [Estuaire, Ngounié, Nyanga, Ogooué-Ivindo]
-habit: "herb"
 tags: [species, generated]
 ---
 # *Biophytum umbraculum* Welw .
@@ -20,19 +15,23 @@ tags: [species, generated]
 **Family**: [[Oxalidaceae]]
 **Protologue**: Apont. : 590 (1859)
 
+## Synonyms
+
+- Oxalis sessilis Buch.-Ham. ex Baill., Bull . Soc . Linn . Paris 1 : 598 (1886).
+
 ## Description
 
-B . sessile (Buch.-Ham. ex Baill.) R.Knuth in Engl., Pflanzenr. 95 , Oxalidac . 4(130) : 406 (1930). B . rotundifolium Delhaye, Bull. Séances Inst . Roy . Col . Belge 33 : 855, t. 1, f. 22, 23, 28, 29 (1952). Annual herb 4–25 cm in height; stem simple, densely pubescent towards the apex, without leaf scars. Leaves 1–3.5 cm in length, sensitive; petiole and rachis pubescent; leaflets 2–8(–10) pairs, subsessile, with papyraceous limb, falciform to ovate, proximal side truncate to ovate, distal side obovate, 2–6 × 2–3.5 mm, glabrous, base cordate, apex rounded to mucronate; lateral veins 2–9 pairs, prominent when dry, forming a right angle with the midvein. Inflorescence: peduncle 1–4 cm, pubescent; bracts lanceolate, 1–3 mm in length, pubescent, 1-nerved, apex acuminate. Flower: pedicel 1–3 mm, articulate at 1/3 above the base, pubescent; sepals lanceolate, 1–3 mm in length, pubescent externally, apex acuminate to long-acuminate, 1–7 nerved; petals 4–5 mm in length, connate at the base, yellow-orange, retuse at the apex; filaments in one long cycle of 3 mm, one cycle of 1 mm. Capsule obovoid-oblong, ± 3 mm in length. Seeds 2–5, flattened, 1 mm in length.
+B. sessile (Buch.-Ham. ex Baill.) R.Knuth in Engl., Pflanzenr. 95, Oxalidac. 4(130): 406 (1930). B. rotundifolium Delhaye, Bull. Séances Inst. Roy. Col. Belge 33: 855, t. 1, f. 22, 23, 28, 29 (1952). Annual herb 4–25 cm tall; stem simple, densely pubescent toward the apex, without leaf scars. Leaves 1–3.5 cm long, sensitive; petiole and rachis pubescent; leaflets 2–8(–10) pairs, subsessile, with papyraceous blade, falcate to ovate, proximal side truncate to ovate, distal side obovate, 2–6 × 2–3.5 mm, glabrous, base cordate, apex rounded to mucronate; lateral veins 2–9 pairs, prominent on dried material, forming a right angle with the midvein. Inflorescence: peduncle 1–4 cm, pubescent; bracts lanceolate, 1–3 mm long, pubescent, 1-nerved, apex acuminate. Flower: pedicel 1–3 mm, articulate at 1/3 above the base, pubescent; sepals lanceolate, 1–3 mm long, pubescent on the outside, apex acuminate to long-acuminate, 1–7-nerved; petals 4–5 mm long, connate at the base, yellow-orange, retuse at the apex; filaments in one long cycle of 3 mm, one cycle of 1 mm. Capsule obovoid-oblong, ± 3 mm long. Seeds 2–5, flattened, 1 mm long.
 
 ## Distribution
 
-very widespread in Africa, found in zones of tropical dry forests and savannas, as well as in South Africa; in Gabon, present in the following provinces: Estuaire, Ngounié, Nyanga and Ogooué-Ivindo
+widespread in Africa, found in zones of tropical dry forests and savannas, as well as in South Africa; in Gabon, present in the following provinces: Estuaire, Ngounié, Nyanga and Ogooué-Ivindo
 
 ## Ecology
 
-savannas, stream margins, marshes, pastures. Use: A decoction of peeled roots in hot water serves as a purgative for children. B: Akoègninou et al. (2006), Lourteig (1981), Veldkamp (1971), Wilczek BIBLIOGRAPHY (1958)
+savannas, stream margins, marshes, pastures. Use: The decoction of peeled roots in hot water serves as a purgative for children. B: Akoègninou et al. (2006), Lourteig (1981), Veldkamp (1971), Wilczek (1958) BIBLIOGRAPHY
 
-Chase 814 .). Reproduced with the permission of the Board of Trustees of the Royal Botanic Gardens, Kew (©), from Kabuye (1971) l.c.
+Chase 814.). Reproduced with permission of the Board of Trustees of the Royal Botanic Gardens, Kew (©), from Kabuye (1971) l.c.
 
 ## Figures
 

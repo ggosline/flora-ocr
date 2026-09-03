@@ -15,7 +15,7 @@ tags: [species, generated]
 
 **Genus**: [[Brachycorythis]]
 **Family**: [[Orchidaceae]]
-**Protologue**: Flora 48 : 183 (1865). - TYPE $ ^{*} $ : Gueinzius s.n., Afrique du Sud, holo-W-R! - FTWA : 187 (1968) ; FAC 1 : 41 (1984) ; FCAM 1 : 76 (1998)
+**Protologue**: Flora 48 : 183 (1865). - TYPE * : Gueinzius s.n., Afrique du Sud, holo-W-R! - FTWA : 187 (1968) ; FAC 1 : 41 (1984) ; FCAM 1 : 76 (1998)
 
 ## Description
 

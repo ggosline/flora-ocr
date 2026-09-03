@@ -54,7 +54,7 @@ H. Lecomte : s.n.
 
 Mgr Le Roy : s.n., Gabon, fl. jaune clair.
 
-Mann : lat.  $ 1^{0} $ N.
+Mann : lat.  1⁰ N.
 
 Pobéguin : 189, lac Zouangué, île Nyégoué (fl. sept. 1924).
 

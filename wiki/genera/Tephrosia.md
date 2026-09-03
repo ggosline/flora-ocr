@@ -27,38 +27,53 @@ Notes: In addition to the species treated, several others might be expected, not
 
 B: Bosman & de Haas (1983), Botton & Hallé (1957), Brummitt et al. (2007), Chevalier (1937a), Cronquist (1954), Geesink (1984), Gillett (1971d), Lewis et al. (2005), Pellegrin (1949).
 
-### Key to the species
-
-1. – Suffrutex, shrubs or small trees reaching 2–4 m in height; flower large, petals reaching 2–3 cm in length ........................................................................................ 2
-
 ## Key to the species
 
-1. - Subshrub, shrubs or small trees reaching 2–4 m in height; flower large, petals reaching 2–3 cm in length ........................................................................................ 2
-- Subshrub or herbs reaching 1.5 m in height; flower relatively small, petals up to 1.5(–1.9) cm in length ................................................................................... 4
-2. - Standard villous also partially on the interior; calyx lobes 6–14 mm in length
-............................................................................................................................ T. vogelii
-- Standard villous only on the exterior; calyx lobes 2–6 mm in length ........ 3
 
----
+**1.** Subshrub, shrubs or small trees reaching 2–4 m in height; flower large, petals reaching 2–3 cm in length → [[#^k2|2]] ^k1
 
-3. - Leaflets with elliptic-oblanceolate blade, the apex emarginate; pod reaching 11 mm in width, tomentose .................................................................................. T. densiflora
-- Leaflets with narrowly elliptic blade, apex acute; pod 7–9 mm in width, briefly pubescent (to be sought in Gabon) ......................... T. candida (Roxb.) DC.
-4. - Leaflets 3 to 5(–7), palmate, each with 2 subulate stipels; plant with normal flowers and pods and often also with cleistogamous flowers with relatively small geocharpic pods (below ground) (< 1 cm in length and with 1 to 3 seeds) ................. T. lupinifolia
-- Leaflets (1–)3 to 29, pinnate; stipels absent or almost invisible; plant without cleistogamous flowers, nor small geocharpic pods ............................................................... 5
-5. - Leaflets (1–)3 to 5(–7) ..................................................................................................... 6
-- Leaflets (5–)7 to 25 .......................................................................................................... 7
-6. - Flowers in fascicles of 2 or 3 in the leaf axils; pod with 4 to 7(–8) seeds ............................................................................................................... T. elegans
-- Flowers in terminal and axillary racemes; pod with 10 or 11 seeds (to be sought in Gabon) ............................................................................................... T. paniculata Baker
-7. - Leaflets with linear to narrowly oblanceolate blade, 7 to 20 times longer than wide; annual plant ................................................................................................................ 8
-- Leaflets with oblanceolate to elliptic blade, up to 4(–5) times longer than wide; annual or perennial plant ........................................................................................................ 9
-8. - Leaflets (5–)7 to 15(–17), with blade of 2.5–4(–7) × 0.1–0.4(–0.6) cm; standard 5–12 mm in length; style glabrous .................................................................................. T. linearis
-- Leaflets (11–)17 to 27(–31), with blade of 3–11 × 0.25–0.8(–1.0) cm; standard 14–18 mm in length; style bearded (to be sought in Gabon) .............. T. bracteolata Guill. & Perr.
-9. - Upper calyx lobes fused for < ½ of their length ....................................... 10
-- Upper calyx lobes fused for ¾ or more of their length .............................. 11
-10. - Pod with hairs < 0.5 mm in length, surface of valves well visible between the hairs; standard 6–9 mm in length (to be sought in Gabon) ............... T. purpurea (L.) Pers.
-- Pod with hairs of > 1 mm in length, covering the surface of the valves; standard 11–15 mm in length (to be sought in Gabon) ......................................... T. villosa (L.) Pers.
-11. - Calyx and sutures of the pod with hairs, at least partially, dark brown or black; standard 8–12 mm in length; style glabrous ............................................... T. noctiflora
-- Calyx and sutures of the pod with white or yellowish to brown hairs; standard 12–19 mm in length; style pubescent ................................................................................ T. nana
+**1′.** Subshrub or herbs reaching 1.5 m in height; flower relatively small, petals up to 1.5(–1.9) cm in length → [[#^k4|4]]
+
+**2.** Standard villous also partially on the interior; calyx lobes 6–14 mm in length → [[Tephrosia_vogelii\|*T. vogelii*]] ^k2
+
+**2′.** Standard villous only on the exterior; calyx lobes 2–6 mm in length → [[#^k3|3]]
+
+**3.** Leaflets with elliptic-oblanceolate blade, the apex emarginate; pod reaching 11 mm in width, tomentose → [[Tephrosia_densiflora\|*T. densiflora*]] ^k3
+
+**3′.** Leaflets with narrowly elliptic blade, apex acute; pod 7–9 mm in width, briefly pubescent (to be sought in Gabon) → T. candida (Roxb.) DC.
+
+**4.** Leaflets 3 to 5(–7), palmate, each with 2 subulate stipels; plant with normal flowers and pods and often also with cleistogamous flowers with relatively small geocharpic pods (below ground) (< 1 cm in length and with 1 to 3 seeds) → [[Tephrosia_lupinifolia\|*T. lupinifolia*]] ^k4
+
+**4′.** Leaflets (1–)3 to 29, pinnate; stipels absent or almost invisible; plant without cleistogamous flowers, nor small geocharpic pods → [[#^k5|5]]
+
+**5.** Leaflets (1–)3 to 5(–7) → [[#^k6|6]] ^k5
+
+**5′.** Leaflets (5–)7 to 25 → [[#^k7|7]]
+
+**6.** Flowers in fascicles of 2 or 3 in the leaf axils; pod with 4 to 7(–8) seeds → [[Tephrosia_elegans\|*T. elegans*]] ^k6
+
+**6′.** Flowers in terminal and axillary racemes; pod with 10 or 11 seeds (to be sought in Gabon) → T. paniculata Baker
+
+**7.** Leaflets with linear to narrowly oblanceolate blade, 7 to 20 times longer than wide; annual plant → [[#^k8|8]] ^k7
+
+**7′.** Leaflets with oblanceolate to elliptic blade, up to 4(–5) times longer than wide; annual or perennial plant → [[#^k9|9]]
+
+**8.** Leaflets (5–)7 to 15(–17), with blade of 2.5–4(–7) × 0.1–0.4(–0.6) cm; standard 5–12 mm in length; style glabrous → [[Tephrosia_linearis\|*T. linearis*]] ^k8
+
+**8′.** Leaflets (11–)17 to 27(–31), with blade of 3–11 × 0.25–0.8(–1.0) cm; standard 14–18 mm in length; style bearded (to be sought in Gabon) → T. bracteolata Guill. & Perr.
+
+**9.** Upper calyx lobes fused for < ½ of their length → [[#^k10|10]] ^k9
+
+**9′.** Upper calyx lobes fused for ¾ or more of their length → [[#^k11|11]]
+
+**10.** Pod with hairs < 0.5 mm in length, surface of valves well visible between the hairs; standard 6–9 mm in length (to be sought in Gabon) → T. purpurea (L.) Pers. ^k10
+
+**10′.** Pod with hairs of > 1 mm in length, covering the surface of the valves; standard 11–15 mm in length (to be sought in Gabon) → T. villosa (L.) Pers.
+
+**11.** Calyx and sutures of the pod with hairs, at least partially, dark brown or black; standard 8–12 mm in length; style glabrous → [[Tephrosia_noctiflora\|*T. noctiflora*]] ^k11
+
+**11′.** Calyx and sutures of the pod with white or yellowish to brown hairs; standard 12–19 mm in length; style pubescent → [[Tephrosia_nana\|*T. nana*]]
+
 
 ## Species in region
 

@@ -27,13 +27,11 @@ Type species: D. chinensis (L.) Juss., described from China (= Justicia chinensi
 
 Distributed in most tropical and temperate regions of the globe. According to E. C. Leonard (Contrib. U. S. Nat. Herb. 31, 3 : 328, 1958), approximately 300 species have been described; H. Melchior indicates a number of 180 species (in Engler, Syllabus, ed. 12, 2 : 460, 1964).
 
-1. Involucre with unequal bracts, broadly orbicular-acuminate.
+## Key to the species
 
-2. Inflorescences in small pedunculate fascicles; approximately 5 partial inflorescences provided with an involucre whose bracts are ciliate on the margins and pubescent on the outer face; leaves lanceolate..... 1. D. Elliotii.
 
-2'. Inflorescences in racemes; the partial inflorescences provided with an involucre are opposite and subsessile; bracts slightly ciliate on the margins, glabrescent on the outer face; leaves oval..
+**1′.** Involucre with bracts more or less unequal, lanceolate-acuminate; the long acumen is furnished with a setiform point; inflorescence in verticillate axillary pseudofascicles → [[Dicliptera_verticillata\|*D. verticillata*]]
 
-1'. Involucre with more or less unequal bracts, lanceolate-acuminate; the long acumen is provided with a setiform point; inflorescence in pseudofascicles axillary whorled..... 3. D. verticillata.
 
 ## Species in region
 
@@ -43,10 +41,13 @@ Distributed in most tropical and temperate regions of the globe. According to E.
 
 ## Keyed but not treated
 
+
 The source key separates these species but the volume gives them no treatment, usually because they fall outside the area it covers in full. They are listed for identification; some are extralimital to the region.
 
-- *Dicliptera elliotii* — keyed in vol 13, not treated
-- *Dicliptera verticillata* — keyed in vol 13, not treated
+**—** *Dicliptera elliotii* — keyed in vol 13, not treated
+
+**—** *Dicliptera verticillata* — keyed in vol 13, not treated
+
 
 ## Treatments
 

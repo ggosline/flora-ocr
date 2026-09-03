@@ -15,9 +15,13 @@ tags: [species, generated]
 **Family**: [[Menyanthaceae]]
 **Protologue**: Rev. Gen. Pl. 2 : 429 (1891)
 
+## Synonyms
+
+- Limnanthemum niloticum Kotschy & Peyr., Pl. Tinn. : 28 (1867).
+
 ## Description
 
-L. kirkii N.E.Br. in This.-Dyer, Fl. Trop. Afr. 4(1): 585 (1904). L. whytei N.E.Br. in This.-Dyer, Fl. Trop. Afr. 4(1): 585 (1904).
+L. kirkii N.E.Br. in This.-Dyer, Fl. Trop. Afr. 4(1) : 585 (1904). L. whytei N.E.Br. in This.-Dyer, Fl. Trop. Afr. 4(1) : 585 (1904).
 
 ## Figures
 

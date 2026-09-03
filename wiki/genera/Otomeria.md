@@ -29,19 +29,11 @@ Eight intertropical African species, 5 in Gabon.
 
 ### KEY TO OTOMERIA
 
-1. Erect herb (or ± creeping, cf. sp. no. 2) less than 1.50 m tall; infructescences ± lax.
+## Key to the species
 
-2. Corolla white, at least the lobes; leaves ovate.
 
-3. Corolla tube narrow then swollen at the throat; infructescence generally exceeding 15 cm long; fruits oblong, narrow, numerous ..... 1. O. guineensis.
+**1′.** Slender twining liane exceeding 2–3 m in height; infructescence contracted; corolla red with tube 22–32 mm, narrow, swollen below the constriction of the throat → [[Otomeria_volubilis\|*O. volubilis*]]
 
-3'. Corolla tube gradually flared toward the throat; infructescence generally less than 10 cm; fruits ± ovoid, fewer in number than in the preceding species... 2. O. cameronica.
-
-2'. Corolla red or pink; leaves narrowly lanceolate.
-
-4. Corolla tube 3–6 mm long, flared at the throat; plant very branched..... 3. O. micrantha.
-
-4'. Corolla tube 15–25 mm long, constricted then swollen at the throat; plant little branched..... 4. O. elatior.
 
 ## Species in region
 

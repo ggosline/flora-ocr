@@ -43,7 +43,7 @@ Drawing by D. Leyniers, reproduced with permission from the National Botanical G
 
 ![Barteria fistulosa](../sources/Passifloraceae_vol46_liteparse/figures/fig_045_p0079.png)
 
-*Plate 31. Barteria fistulosa : 1. Branch with leaves showing the floral buds arranged in horseshoe shape (× ½). – 2. Inflorescence (× ½). – 3. Floral bud (× 1). – 4. Floral bud spread (× 1). – 5. Longitudinal section of a flower, sepals and petals removed (× 3). – 6. Fruit (× ½). (1-6 : Louis 2032 ; 7 : Louis 94 9).*
+*PL. XXXI. — Barteria fistulosa: 1. Branch with leaves showing the floral buds arranged in horseshoe shape (× ½). – 2. Inflorescence (× ½). – 3. Floral bud (× 1). – 4. Floral bud spread (× 1). – 5. Longitudinal section of a flower, sepals and petals removed (× 3). – 6. Fruit (× ½). (1-6: Louis 2032; 7: Louis 94 9).*
 
 ![Barteria fistulosa](../sources/Passifloraceae_vol46_liteparse/figures/fig_046_p0081.png)
 

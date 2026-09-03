@@ -27,18 +27,15 @@ Type species: Didymosalpinx abbeokutæ (Hiern) Keay.
 
 Tropical African genus of 4 species, of which two are Gabonese, D. parviflora Keay being excluded. A close genus, Monosalpinx N. Hallé, has been discovered in Côte d'Ivoire. It is very similar but nonetheless unarmed, strongly anisophyllous, with unilateral axillary flowers, and with pedicels bearing a pair of linear bracteoles; its stigma is not thickened, its style is puberulent (N. Hallé, loc. cit. 1968).
 
-1. Leaf with 7–12 pairs of secondary nerves; no axillary domatia; calyx with acute triangular teeth 3–5 × 2 mm.....
-
-1'. Leaves with 5–9 pairs of secondary nerves; aperturate axillary domatia; calycinal lobes lanceolate 18–45 × 2–8 mm .....
-
-2. D. lanciloba
-
 ## Key to the species
 
-1. Leaf with 7–12 pairs of secondary veins; no axillary domatia; calyx with acute triangular teeth 3–5 × 2 mm.....
 
-1'. Leaves with 5–9 pairs of secondary veins; aperturate axillary domatia; calyx lobes lanceolate 18–45 × 2–8 mm .....
-2. D. lanciloba
+**1.** Leaf with 7–12 pairs of secondary veins; no axillary domatia; calyx with acute triangular teeth 3–5 × 2 mm..... ^k1
+
+**1′.** Leaves with 5–9 pairs of secondary veins; aperturate axillary domatia; calyx lobes lanceolate 18–45 × 2–8 mm .....
+
+**2.** D. lanciloba ^k2
+
 
 ## Species in region
 

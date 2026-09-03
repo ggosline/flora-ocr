@@ -33,21 +33,11 @@ Trees of moderate interest for timber exploitation.
 
 ---
 
-1. Leaves multijugate.
+## Key to the species
 
-2. Leaflets narrowly oblong, with midvein dividing the lamina symmetrically, emarginate, truncate-spurred at the base; bracteoles ovate:
 
-3. Less than 20 mm long and 5 mm wide... 1. P. emarginatus.
+**1′.** Leaves bijugate or unijugate; bracteoles suborbicular → …… P. discifer.
 
-3'. Up to 35 mm long and 12 mm wide..... 2. P. gabonensis.
-
-2'. Leaflets rhomboidal, with midvein somewhat diagonal, emarginate, posteriorly rounded at the base; bracteoles lanceolate.
-
-4. 7–8 pairs of leaflets..... P. longitubus.
-
-4'. 10–14 pairs of leaflets, smaller..... 3. P. multijugus.
-
-1'. Leaves bijugate or unijugate; bracteoles suborbicular..... P. discifer.
 
 ## Species in region
 
@@ -59,9 +49,11 @@ Trees of moderate interest for timber exploitation.
 
 ## Keyed but not treated
 
+
 The source key separates these species but the volume gives them no treatment, usually because they fall outside the area it covers in full. They are listed for identification; some are extralimital to the region.
 
-- *Plagiosiphon longitubus* — keyed in vol 15, not treated
+**—** *Plagiosiphon longitubus* — keyed in vol 15, not treated
+
 
 ## Treatments
 

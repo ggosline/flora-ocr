@@ -29,36 +29,25 @@ This genus long misunderstood comprises 6 species, mostly Gabonese, perigabonese
 
 ### ECPOMA: KEY TO THE SPECIES
 
-1. Stipules (2.5) 3–4 (5) cm wide; inflorescences embraced by two large pieces (stipular), one against the axis, the other against the petiole; calyx lobes somewhat wider than in E. Hiernianum..... E. gigantostipulum.
-
-1'. Stipules less than 2.5 cm wide; inflorescences with small basal bracts not enveloping.
-
-2. Leaves and internodes glabrous; cauliflory low; exterior of corolla entirely glabrous..... 1. E. geanthum.
-
-2'. Leaves and internodes ± pubescent.
-
-3. Limb pubescent above; corolla tube ciliate; apex of bud glabrous..... 2. E. cauliflorum.
-
-3'. Limb glabrous above.
-
-4. Leaves lanceolate whitish; calyx lobes ± attenuate or almost tapered toward the apex; corolla tube glabrous; apex of bud pubescent..... 3. E. Hiernianum.
-
-4'. Leaves laurel-form lanceolate; calyx lobes somewhat attenuate toward the base; corolla not known..... 4. E. sp.
-
-The species E. gigantostipulum (K. Schum.) N. Hallé from southern Nigeria, from the island of Príncipe (Rose 419) and from lower Cameroon, is not known from Gabon but could doubtless be found there. This plant of robust appearance presents a pair of wide false bracts of stipular nature protecting each inflorescence. It is the species most often confused with Stipularia africana; more woody it can reach 4 m in height.
-
 ## Key to the species
 
-1. Stipules (2.5) 3–4 (5) cm wide; inflorescences embraced by two large (stipular) pieces, one backed against the axis, the other backed against the petiole; calyx lobes somewhat wider than in E. Hiernianum..... E. gigantostipulum.
-1'. Stipules less than 2.5 cm wide; inflorescences with small basal bracts that are not enveloping.
-2. Leaves and internodes glabrous; low cauliflory; exterior of corolla entirely glabrous..... 1. E. geanthum.
-2'. Leaves and internodes ± pubescent.
-3. Limb pubescent above; corolla tube ciliate; apex of bud glabrous..... 2. E. cauliflorum.
-3'. Limb glabrous above.
-4. Leaves lanceolate; calyx lobes ± attenuate or almost tapered toward the apex; corolla tube glabrous; apex of bud pubescent..... 3. E. Hiernianum.
-4'. Leaves lauriform lanceolate; calyx lobes somewhat attenuate toward the base; corolla not known..... 4. E. sp.
 
-The species E. gigantostipulum (K. Schum.) N. Hallé from southern Nigeria, from the island of Príncipe (Rose 419) and from lower Cameroon, is not known from Gabon but could doubtless be encountered there. This plant of robust appearance presents a pair of large false bracts of stipular nature protecting each inflorescence. It is the species most often confused with Stipularia africana; more woody, it can reach 4 m in height.
+**1.** Stipules (2.5) 3–4 (5) cm wide; inflorescences embraced by two large (stipular) pieces, one backed against the axis, the other backed against the petiole; calyx lobes somewhat wider than in E. Hiernianum → *E. gigantostipulum* ^k1
+
+**1′.** Stipules less than 2.5 cm wide; inflorescences with small basal bracts that are not enveloping.
+
+**2.** Leaves and internodes glabrous; low cauliflory; exterior of corolla entirely glabrous → [[Ecpoma_geanthum\|*E. geanthum*]] ^k2
+
+**2′.** Leaves and internodes ± pubescent.
+
+**3.** Limb pubescent above; corolla tube ciliate; apex of bud glabrous → *E. cauliflorum* ^k3
+
+**3′.** Limb glabrous above.
+
+**4.** Leaves lanceolate; calyx lobes ± attenuate or almost tapered toward the apex; corolla tube glabrous; apex of bud pubescent → 3. E. Hiernianum. ^k4
+
+**4′.** Leaves lauriform lanceolate; calyx lobes somewhat attenuate toward the base; corolla not known → 4. E. sp. The species E. gigantostipulum (K. Schum.) N. Hallé from southern Nigeria, from the island of Príncipe (Rose 419) and from lower Cameroon, is not known from Gabon but could doubtless be encountered there. This plant of robust appearance presents a pair of large false bracts of stipular nature protecting each inflorescence. It is the species most often confused with Stipularia africana; more woody, it can reach 4 m in height.
+
 
 ## Species in region
 

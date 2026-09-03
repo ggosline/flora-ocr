@@ -1,7 +1,7 @@
 ---
 type: species
 name: Tetraberlinia moreliana
-authority: Aubréville, sp. nov. $ ^{1} $
+authority: Aubréville, sp. nov. ¹
 genus: Tetraberlinia
 family: Leguminosae
 vol: 15
@@ -13,7 +13,7 @@ habit: "tree"
 habitat: [coastal]
 tags: [species, generated]
 ---
-# *Tetraberlinia moreliana* Aubréville, sp. nov. $ ^{1} $
+# *Tetraberlinia moreliana* Aubréville, sp. nov. ¹
 
 **Genus**: [[Tetraberlinia]]
 **Family**: [[Leguminosae]]

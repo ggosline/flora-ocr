@@ -26,21 +26,11 @@ TYPE-SPECIES : L. daphnoides Bentham.
 
 African and Malagasy genus grouping 5 species, of which 4 are present in Cameroon and Gabon.
 
-1. Flowers large (1 cm); young branches sparsely puberulent or glabrous; style equal to or exceeding the corolla length.
+## Key to the species
 
-2. Lamina equal to or exceeding 15 cm in length, coriaceous; acumen short and acute or weakly obtuse; ovary glabrous..... 1. L. grandifolius.
 
-2'. Lamina 5–16 cm in length, papyraceous; acumen obtuse or spatulate; ovary pubescent.
+**1′.** Flowers small (4 mm); young branches ± pubescent; style equal to or slightly exceeding the length of the corolla tube → [[Leptaulus_holstii\|*L. holstii*]]
 
-3. Inflorescence multiflorous; corolla lobes short (1 mm); excrescences of the lobes small; acumen obtuse; style glabrous..... 2. L. daphnoides.
-
-3'. Inflorescence pauciflorous; corolla lobes long (2.5 mm); excrescences of the lobes large; acumen long and spatulate; style pubescent.. 3. L. zenkeri.
-
-4. Pedicel short, 0–5 mm..... var. zenkeri.
-
-4'. Pedicel approximately 1 cm long..... var. longipedicellata.
-
-1'. Flowers small (4 mm); young branches ± pubescent; style equal to or weakly exceeding the corolla tube length..... 4. L. holstii.
 
 ## Species in region
 

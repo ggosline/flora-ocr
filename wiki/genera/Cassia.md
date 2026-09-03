@@ -27,19 +27,11 @@ Numerous exotic shrubby or tree-like species have been introduced into tropical 
 
 The determination of Cassia species is fairly difficult. Some thirty species exist today in West Africa, some fifty in East Africa, indigenous and introduced.
 
-1. Shrublet or herb with yellow flowers; pods ± compressed, or with winglike crests, less than 25 cm in length.
+## Key to the species
 
-2. Leaflets linear, more than 15 pairs.
 
-3. Sepals lanceolate; rachis marked with a dentate crest.....
+**1′.** Tree with pink flowers; cylindrical pod exceeding 30 cm in length. → 7. C. Mannii.
 
-1. C. mimosoides.
-
-3'. Sepals very acute; rachis canaliculate between each pair of leaflets. ..... 2. C. Kirkii.
-
-2'. Leaflets oblong, elliptic or ovate ± lanceolate.
-
-4. Leaflets glabrous exceeding generally 5 cm in width and with broadly rounded apex, petiole and rachis lacking glands..... 3. C. alata.
 
 ## Species in region
 

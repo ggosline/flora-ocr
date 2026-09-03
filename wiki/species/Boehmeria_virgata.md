@@ -45,7 +45,7 @@ Boehmeria 53 National Museum of Natural History, Paris (©), reproduced with per
 
 ![Boehmeria virgata](../sources/Urticaceae_vol51_liteparse/figures/fig_043_p0060.png)
 
-*Plate 24. Boehmeria virgata subsp. macrophylla var. molliuscula : 1. Flowering branch (× ⅔). – 2. Detail of the lower surface of the blade (× 4). – 3. Idem, upper surface (× 4). – 4. Detail of stem with stipule and bases of the petiole and peduncle (× 4). – 5. Detail of inflorescence with floral glomerule (× 8). – 6. Male floral bud (× 20). – 7. Young fruit (× 10). (1–7 : Mildbraed 5210 ). Drawing by Hélène Lamourdedieu,*
+*PL. 24. Boehmeria virgata subsp. macrophylla var. molliuscula: 1. Flowering branch (× ⅔). – 2. Detail of the lower surface of the blade (× 4). – 3. Idem, upper surface (× 4). – 4. Detail of stem with stipule and bases of the petiole and peduncle (× 4). – 5. Detail of inflorescence with floral glomerule (× 8). – 6. Male floral bud (× 20). – 7. Young fruit (× 10). (1–7 : Mildbraed 5210 ). Drawing by Hélène Lamourdedieu,*
 
 ## Notes
 

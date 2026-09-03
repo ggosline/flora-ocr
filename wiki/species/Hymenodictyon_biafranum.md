@@ -24,7 +24,7 @@ Shrub or small branched tree reaching 10 m. Stipules broad, ovate or subtruncate
 
 Inflorescences erect about ten centimetres long, sometimes branched at the base, pedunculate for 2–4 cm; large bracts with petiole 2.5–5 cm and blade 4.5–7 × 2–3 cm. The small linear bracts are relatively long. Rachis, pedicels and ovaries puberulent. Calycine lobes narrow and oblong somewhat puberulent, 1 to 2 mm long. Corolla pinkish c. 6 × 3 mm, with very short triangular lobes. Style long.
 
-Fruit 11–18 mm, with pedicel 6–10 mm; valves brownish lenticellate. Seeds ochraceous $ 10 \times 1.5 $ mm, with narrow alate extremities.
+Fruit 11–18 mm, with pedicel 6–10 mm; valves brownish lenticellate. Seeds ochraceous 10 × 1.5 mm, with narrow alate extremities.
 
 ## Type
 

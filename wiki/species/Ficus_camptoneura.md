@@ -1,7 +1,7 @@
 ---
 type: species
 name: Ficus camptoneura
-authority: Mildbread $ ^{1} $
+authority: Mildbread ¹
 genus: Ficus
 family: Moraceae
 vol: 26
@@ -13,7 +13,7 @@ habit: "tree"
 habitat: [riverine, evergreen forest]
 tags: [species, generated]
 ---
-# *Ficus camptoneura* Mildbread $ ^{1} $
+# *Ficus camptoneura* Mildbread ¹
 
 **Genus**: [[Ficus]]
 **Family**: [[Moraceae]]

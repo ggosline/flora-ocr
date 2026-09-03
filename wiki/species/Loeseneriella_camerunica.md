@@ -28,7 +28,7 @@ Woody liane with glabrous internodes, the oldest ones brownish and finely wrinkl
 
 Cymes 4–8 cm long, sometimes grouped in panicles; axes with very fine reddish pubescence (when dry); bracts deltoid, 1 mm or less; cymes multiflorous but contracted at the ends. Pedicel 2–7 (–9) mm, reddish-puberulent. Buds ovate-conical, acute, 5–6 mm long, sometimes somewhat orange-red when dry, densely covered with short pubescence. Flowers yellowish, semi-urceolate, 10–12 mm in diameter. Calyx 3–3.5 mm in diameter, with quincuncial ovate lobes, 1 mm. Petals elongate-triangular, approximately 4–6 × 1.5–2 mm, with microscopic pubescence on both surfaces. Disk with narrow inferior cupule, indistinctly pubescent, approximately 2.5–3 mm in diameter; short androgynophore with lateral pubescent ridge of the same diameter as the cupule. Staminal filaments distinctly puberulent; anther 0.8 mm wide, with transverse slit turned laterally. Visible part of the ovary apex, namely 1/3, glabrous; (12)14 ovules per locule. Style pyramidal, 1.5 mm.
 
-Valve or half-mericarp $ 89 \times 15 $ mm. Seed $ 80 \times 21 $ mm (Zenker 2758). - Pl. 69, fig. 18–30, p. 241.
+Valve or half-mericarp 89 × 15 mm. Seed 80 × 21 mm (Zenker 2758). - Pl. 69, fig. 18–30, p. 241.
 
 ## Type
 

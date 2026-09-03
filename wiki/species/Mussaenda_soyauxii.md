@@ -23,7 +23,7 @@ Lianescent. Extremities and young stems hirsute. Stipules bifid 9-12 mm, hirsute
 
 Inflorescences dense very velutinous, with erect hairs ca. 2 mm long, adorned with white foliaceous sepals. Calyx hirsute with linear attenuate lobes 10-15 mm long. Corolla with slender tube, velutinous except sometimes toward the base, 18-25 mm long; lobes ca. 3 × 2 mm, apiculate, yellow, velutinous externally.
 
-Infructescence with foliaceous caducous sepals and pedicels accrescent up to 3-10 mm long. Fruit yellow or orange, velutinous, ellipsoid $ 20 \times 11 $ mm, surmounted by the erect sepals ± sinuously oriented. Small brown seeds with testa coarsely reticulate, ca. 0.7 mm diam. and 0.3 mm thick.
+Infructescence with foliaceous caducous sepals and pedicels accrescent up to 3-10 mm long. Fruit yellow or orange, velutinous, ellipsoid 20 × 11 mm, surmounted by the erect sepals ± sinuously oriented. Small brown seeds with testa coarsely reticulate, ca. 0.7 mm diam. and 0.3 mm thick.
 
 ## Type
 

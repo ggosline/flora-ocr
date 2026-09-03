@@ -27,7 +27,7 @@ Shrub of 1.5 m or more, normally a liane exceeding 3 cm in diameter. Bark greyis
 
 Inflorescences pluriflorous fasciculate subcorymbiform axillary with divided rachis often towards the base (2-4 main branches exceeding 1 cm) ; axils elevated as well as the pedicel articulations ; axes micropubérulent. Pedicels 6-11 mm and ovoid bud 2.3 mm in diameter, micropubérulent. Expanded flower rotaceus 4-5-6 mm in diameter. Sepals 1 mm, ovate to subacute, ± broad, pubérulent. Petals 5 micropubérulent on the 2 surfaces and the margin, approximately 2.3 × 1.8 mm. Disk truncate-conical 1.8-2 mm in diameter and 0.7 mm thick. Filaments exceeding 1 mm ; anther bright orange, 1 mm broad, microapiculate. Style pyramidal somewhat pubérulent 1 mm. Ovary with 3 locules each containing 2 superposed ovules.
 
-Fruit globose or even somewhat wider than long, 25-30 mm in diameter, smooth and red at maturity, reddish-brown and with thin teguments, 1 mm or less, when dry. Seed ellipsoid $ 18 \times 11 $ mm in a monosperm fruit. - Pl. 38, fig. 10-21, p. 137; pl. 41, fig. 6, p. 143.
+Fruit globose or even somewhat wider than long, 25-30 mm in diameter, smooth and red at maturity, reddish-brown and with thin teguments, 1 mm or less, when dry. Seed ellipsoid 18 × 11 mm in a monosperm fruit. - Pl. 38, fig. 10-21, p. 137; pl. 41, fig. 6, p. 143.
 
 ## Type
 

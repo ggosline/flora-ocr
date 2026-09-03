@@ -50,12 +50,15 @@ Africa, of which **3 in Gabon**.
 
 ## Key (translated from French)
 
-1. Young stems and petioles **glabrous** ............... [[Tiliacora_klaineana|*T. klaineana*]]
-   - Young stems and petioles hairy, glabrescent ........................ **2**
-2. Leaf blade with **domatia** beneath, at least in the axils of the
-   dominant basal nerves ............................. [[Tiliacora_gabonensis|*T. gabonensis*]]
-   - Leaf blade without domatia and without dominant basal nerves
-     ............................................. [[Tiliacora_macrophylla|*T. macrophylla*]]
+
+**1.** Young stems and petioles **glabrous** → [[Tiliacora_klaineana|*T. klaineana*]] ^k1
+
+**1′.** Young stems and petioles hairy, glabrescent → **2**
+
+**2.** Leaf blade with **domatia** beneath, at least in the axils of the dominant basal nerves → [[Tiliacora_gabonensis|*T. gabonensis*]] ^k2
+
+**2′.** Leaf blade without domatia and without dominant basal nerves → [[Tiliacora_macrophylla|*T. macrophylla*]]
+
 
 ## Treatments
 

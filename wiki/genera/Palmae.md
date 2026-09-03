@@ -22,33 +22,47 @@ Trees, shrubs or lianes, spines present or absent, monocarpic [dying after a sin
 
 ## Key to the species
 
-1. - Leaf pinnate ................................................................................................................. 2
-- Leaf costapalmately (palmate but with the main vein well developed)
-......................................................................................................................... Hyphaene
-2. - Petiole and/or leaflet entirely devoid of spines ....................................................... 3
-- Petiole and/or leaflet with spines (small or large) .............................................. 5
-3. - Stem > 10 cm in diameter; blade with > 80 pairs of leaflets; coastal .................... Cocos
-- Stem < 5 cm in diameter or acaulescent plant; blade with < 50 pairs of leaflets; understory
-species ......................................................................................................................... 4
-4. - Leaflet rhomboidal, green and unicolorous ........................................................ Podococcus
-- Leaflet lanceolate to sigmoid, bicolorous, lower surface pale green or whitish
-................................................................................................................... Sclerosperma
-5. - Climbing palm ........................................................................................................... 6
-- Palm with well-developed stem or acaulescent palm ............................................... 9
-6. - Adult leaf with a cirrus [prolongation of the rachis into a whip] armed with spine-leaflets
-[apical leaflets modified into hooks] ........................................................................ 7
-- Adult leaf without cirrus ................................................................................... Calamus
-7. - Leaf sheath without spines .......................................................................... Eremospatha
-- Leaf sheath armed with distinct spines .............................................................................. 8
-8. - Ochrea [apical prolongation of the sheath] ± triangular, desiccating, generally
-grey in color; leaf sheath covered with cylindrical spines, hard, persistent or
-not falling readily ......................................................................... Laccosperma
-- Ochrea tubulate, not desiccating, generally green in color; leaf sheath
-covered with flattened spines, caducous or falling readily .................... Oncocalamus
-9. - Petiole devoid of spines; fruit covered with scales ............................................ Raphia
-- Petiole with large spines; fruit with smooth exocarp ............................................. 10
-10. - Transverse section of leaflets reduplicate [inverted V-shaped] ................... Elaeis
-- Transverse section of leaflets induplicate [V-shaped] ............................ Phoenix
+
+**1.** Leaf pinnate → [[#^k2|2]] ^k1
+
+**1′.** Leaf costapalmately (palmate but with the main vein well developed) → Hyphaene
+
+**2.** Petiole and/or leaflet entirely devoid of spines → [[#^k3|3]] ^k2
+
+**2′.** Petiole and/or leaflet with spines (small or large) → [[#^k5|5]]
+
+**3.** Stem > 10 cm in diameter; blade with > 80 pairs of leaflets; coastal → Cocos ^k3
+
+**3′.** Stem < 5 cm in diameter or acaulescent plant; blade with < 50 pairs of leaflets; understory species → [[#^k4|4]]
+
+**4.** Leaflet rhomboidal, green and unicolorous → Podococcus ^k4
+
+**4′.** Leaflet lanceolate to sigmoid, bicolorous, lower surface pale green or whitish → Sclerosperma
+
+**5.** Climbing palm → [[#^k6|6]] ^k5
+
+**5′.** Palm with well-developed stem or acaulescent palm → [[#^k9|9]]
+
+**6.** Adult leaf with a cirrus [prolongation of the rachis into a whip] armed with spine-leaflets [apical leaflets modified into hooks] → [[#^k7|7]] ^k6
+
+**6′.** Adult leaf without cirrus → Calamus
+
+**7.** Leaf sheath without spines → Eremospatha ^k7
+
+**7′.** Leaf sheath armed with distinct spines → [[#^k8|8]]
+
+**8.** Ochrea [apical prolongation of the sheath] ± triangular, desiccating, generally grey in color; leaf sheath covered with cylindrical spines, hard, persistent or not falling readily → Laccosperma ^k8
+
+**8′.** Ochrea tubulate, not desiccating, generally green in color; leaf sheath covered with flattened spines, caducous or falling readily → Oncocalamus
+
+**9.** Petiole devoid of spines; fruit covered with scales → Raphia ^k9
+
+**9′.** Petiole with large spines; fruit with smooth exocarp → [[#^k10|10]]
+
+**10.** Transverse section of leaflets reduplicate [inverted V-shaped] → Elaeis ^k10
+
+**10′.** Transverse section of leaflets induplicate [V-shaped] → Phoenix
+
 
 ## Species in region
 

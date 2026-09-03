@@ -46,22 +46,25 @@ pedicel** enclosing it almost to the apex; the apical depression bordered by
 the remains of the calyx forming 5 teeth or lobes. Seed solitary, the albumen
 starchy. Embryo small, apical.
 
-## Key to the Gabonese species
+## Key to the species
 
-1. Nervules less than 2 mm apart, distinct →
-   **[[Strombosia_grandifolia|1. S. grandifolia]]**
-1'. Nervules more than 2 mm apart, or indistinct
-    - 2\. Upper face of the blade granular when dry →
-      **[[Strombosia_pustulata|2. S. pustulata]]**
-        - 3\. Upper face matt; nervules indistinct →
-          **[[Strombosia_pustulata_var_pustulata|var. pustulata]]**
-        - 3'. Upper face glossy; nervules distinct →
-          **[[Strombosia_pustulata_var_lucida|var. lucida]]**
-    - 2'. Upper face of the blade smooth
-        - 4\. Flower bud ellipsoid; pedicel striate; nervules clearly distinct
-          beneath → **[[Strombosia_scheffleri|3. S. scheffleri]]**
-        - 4'. Flower bud globose; pedicel pustular; nervules most often
-          indistinct → **[[Strombosia_zenkeri|4. S. zenkeri]]**
+
+**1.** Nervilles less than 2 mm apart from one another, distinct ..... ^k1
+
+**1′.** Nervilles more than 2 mm apart from one another or indistinct.
+
+**2.** Upper surface of limb with granular aspect when dry → [[Strombosia_pustulata\|*S. pustulata*]] ^k2
+
+**3.** Upper surface matt; nervilles indistinct → var. pustulata. ^k3
+
+**3′.** Upper surface shiny; nervilles distinct → var. lucida.
+
+**2′.** Upper surface of limb smooth.
+
+**4.** Floral bud ellipsoid; pedicel striate; nervilles clearly distinct below → [[Strombosia_scheffleri\|*S. scheffleri*]] ^k4
+
+**4′.** Floral bud globular; pedicel pustular; nervilles most often indistinct → [[Strombosia_zenkeri\|*S. zenkeri*]]
+
 
 ## Species in Gabon
 

@@ -25,24 +25,15 @@ Type species: C. glauca Pierre ex Engler et Diels.
 
 Small genus of tropical Africa comprising 3 (4) species. By its outer valvate petals, spreading, much larger than the inner petals turned back over the reproductive organs, it presents certain resemblances to the genus Friesodielsia van Steenis, but in the latter the inner petals are valvate and connivant at the apex. The fruits and seed are moreover very different.
 
-## CLE DES ESPECES
-I. Inflorescences subumbelliform, with a peduncle 2-7 mm long; 2-3 cucullate bracteoles, pedicellate; mericarps subsessile, ellipsoid, 15-25 mm long, 10-12 mm wide, with smooth pericarp; seeds with smooth or very slightly granular testa.. 1. C. glauca
-
-I'. Inflorescences fasciculate, not pedicunculate; absence of cucullate pedicellate bracteoles; mericarps subglobose, 15-23 mm long, 11-25 mm wide, with tuberculate pericarp; stipe thick reaching 15 mm; seeds with tuberculate testa.
-
-2. Leaves oblong, oblong-lanceolate to slightly falcate, shiny on the upper face; petiole 3-12 mm long; lateral veins 10-24 pairs; inflorescences 2-9-flowered; external petals elliptic-oblong, 7-12 mm long, 2-4 mm wide; carpels approximately 10.... ....2. C. patens
-
-2'. Leaves elliptic-oblong to obovate, dull on the upper face; petiole 10-15 mm long; lateral veins 10-12 pairs; inflorescences 2-3-flowered; external petals linear, 15-20 mm long, 2-3 mm wide; carpels approximately 20... 3. C. Staudtii
-
 ## Key to the species
 
-I. Inflorescences subumbelliform, with peduncles 2-7 mm long; 2-3 cucullate bracts, pedicellate; mericarps subsessile, ellipsoid, 15-25 mm long, 10-12 mm wide, with smooth pericarp; seeds with smooth or very slightly granular testa.. 1. C. glauca
 
-I'. Inflorescences fasciculate, not pedunculate; absence of pedicellate cucullate bracts; mericarps subglobose, 15-23 mm long, 11-25 mm wide, with tuberculate pericarp; stipe thick, reaching 15 mm; seeds with tuberculate testa.
+I. Inflorescences subumbelliform, with peduncles 2-7 mm long; 2-3 cucullate bracts, pedicellate; mericarps subsessile, ellipsoid, 15-25 mm long, 10-12 mm wide, with smooth pericarp; seeds with smooth or very slightly granular testa.. 1. C. glauca I'. Inflorescences fasciculate, not pedunculate; absence of pedicellate cucullate bracts; mericarps subglobose, 15-23 mm long, 11-25 mm wide, with tuberculate pericarp; stipe thick, reaching 15 mm; seeds with tuberculate testa.
 
-2. Leaves oblong, oblong-lanceolate to slightly falciform, glossy on the upper face; petiole 3-12 mm long; lateral veins 10-24 pairs; inflorescences 2-9-flowered; external petals elliptic-oblong, 7-12 mm long, 2-4 mm wide; carpels c. 10.... ....2. C. patens
+**2.** Leaves oblong, oblong-lanceolate to slightly falciform, glossy on the upper face; petiole 3-12 mm long; lateral veins 10-24 pairs; inflorescences 2-9-flowered; external petals elliptic-oblong, 7-12 mm long, 2-4 mm wide; carpels c. 10 → *C. patens* ^k2
 
-2'. Leaves elliptic-oblong to obovate, dull on the upper face; petiole 10-15 mm long; lateral veins 10-12 pairs; inflorescences 2-3-flowered; external petals linear, 15-20 mm long, 2-3 mm wide; carpels c. 20... 3. C. Staudtii
+**2′.** Leaves elliptic-oblong to obovate, dull on the upper face; petiole 10-15 mm long; lateral veins 10-12 pairs; inflorescences 2-3-flowered; external petals linear, 15-20 mm long, 2-3 mm wide; carpels c. 20 → 3. C. Staudtii
+
 
 ## Species in region
 

@@ -45,7 +45,7 @@ Le Testu : 7255, Lastoursville (27 avril 1929), fleurs à corolle jaune abondamm
 
 EXPLICATION DE LA PLANCHE VII, fig. 1-9:
 
-1, rameau florifère; 2, bractéole de  $ 14,5 \times 12 $ mm; 3, calice de 11,5 mm de long; 4, sommet d'un sépale; 5, corolle ouverte de 23 mm de long; 6, face dorsale d'une anthère étalée; 7, idem, face ventrale de 3-3,5 mm de long; 8, pistil; 9, sommet du style et stigmate; 10, portion d'infrutescence avec fruit de 20 mm de long. — 1, Thollon 970 (Brazzaville); 2-8, Thollon 4053; 9, Koechlin 857 (Brazzaville).
+1, rameau florifère; 2, bractéole de  14,5 × 12 mm; 3, calice de 11,5 mm de long; 4, sommet d'un sépale; 5, corolle ouverte de 23 mm de long; 6, face dorsale d'une anthère étalée; 7, idem, face ventrale de 3-3,5 mm de long; 8, pistil; 9, sommet du style et stigmate; 10, portion d'infrutescence avec fruit de 20 mm de long. — 1, Thollon 970 (Brazzaville); 2-8, Thollon 4053; 9, Koechlin 857 (Brazzaville).
 
 ## Source note
 

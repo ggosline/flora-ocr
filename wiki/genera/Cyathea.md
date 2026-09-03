@@ -24,9 +24,11 @@ Lectotype (cf. Pichi-Sermolli, Webbia, 12 : 138, 1955) : Cyathea arborea (L.) Sm
 
 Approximately 600 species, mostly from humid tropical regions, and even subtropical ones. Reaching southern Africa, Chile and New Zealand to the south. The species are sometimes very localized.
 
-1. Frond bipinnatifid-bipinnate, petiole violaceous, smooth. 1. C. camerooniana.
+## Key to the species
 
-1'. Frond tripinnatifid to tripinnate; petiole brownish, very spiny, covered with rusty tomentum..... 2. C. Manniana.
+
+**1′.** Frond tripinnatifid to tripinnate; petiole brownish, very spiny, covered with rusty tomentum → 2. C. Manniana.
+
 
 ## Species in region
 

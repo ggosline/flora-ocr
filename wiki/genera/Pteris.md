@@ -30,25 +30,11 @@ Type species: (lectotype of Christensen): Pteris longifolia L. Approximately 250
 
 ### KEY TO PTERIS (cf. add. p. 119)
 
-1. Frond not tripartite, pinnate to bipinnate.
+## Key to the species
 
-2. Frond polymorphic, with entire pinnae or partially and irregularly pinnate; venation forming several rows of areolae between the midvein of the lobes and the margin..... 1. P. Burtoni.
 
-2'. Fronds regularly bipinnatifid.
+**1′.** Frond tripartite, that is to say divided into 3 equally developed primary branches, themselves bipinnate; veins forming costal areoles → [[Pteris_marginata\|*P. marginata*]]
 
-3. Venation forming costal areolae only, free in the lobes.
-
-4. Segments entire; petiole stramineous, costal areolae triangular..... 2. P. linearis.
-
-4'. Segments dentate at the apex, petiole brownish, bearing spines at the extreme base; costal areolae depressed.
-
-3'. Venation forming costal areolae and along the midvein of the lobes.
-
-5. Fronds not climbing, having 7 pairs of pinnae; rachis not spinous; texture subcoriaceous..... 4. P. atrovirens.
-
-5'. Frond climbing, having 28 pairs of pinnae; rachis spinulose; texture thin..... 5. P. similis.
-
-1'. Frond tripartite, that is divided into 3 equally developed primary branches, themselves bipinnate; venation forming costal areolae..... 6. P. marginata.
 
 ## Species in region
 

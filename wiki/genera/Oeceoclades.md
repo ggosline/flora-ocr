@@ -29,9 +29,11 @@ PL. 135. – Ansellia africana Lindl.: A, general view; B, C, lip; D, dorsal sep
 
 Australasia, the Pacific Islands, South America, the Bahamas and the Antilles.
 
-1. Pseudobulbs one-leaved, lip with 2 divergent keels at the base 27. 1. O. maculata
+## Key to the species
 
-1'. Pseudobulbs with 2 or 3 leaves, lip with a single central callus, papillose, at the apex and base ..... 27. 2. O. saundersiana
+
+**1′.** Pseudobulbs with 2 or 3 leaves, labellum with a single central callus, papillose at the apex and base → 27. 2. O. saundersiana
+
 
 ## Species in region
 

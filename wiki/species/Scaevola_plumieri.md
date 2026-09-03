@@ -36,7 +36,7 @@ Species of sandy coasts and dunes, sometimes on sandstone or in thickets. Use: T
 
 ![Scaevola plumieri](../sources/Goodeniaceae_vol38_liteparse/figures/fig_014_p0017.png)
 
-*Plate 3. Scaevola plumieri : 1. Flowering branch. – 2. Leaf axil. – 3. Flower. – 4. Corolla, opened and spread. – 5. Stamen. – 6. Calyx and style. – 7. Apex of style. – 8. Ovary, longitudinal section. – 9. Fruit, fresh state. – 10. Fruit, dry state. Plate by M. Tebbs (©), reproduced with permission from Launert (1983) l.c.*
+*PL. III. — Scaevola plumieri: 1. Flowering branch. – 2. Leaf axil. – 3. Flower. – 4. Corolla, opened and spread. – 5. Stamen. – 6. Calyx and style. – 7. Apex of style. – 8. Ovary, longitudinal section. – 9. Fruit, fresh state. – 10. Fruit, dry state. Plate by M. Tebbs (©), reproduced with permission from Launert (1983) l.c.*
 
 ## Notes
 

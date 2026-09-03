@@ -25,17 +25,13 @@ Type species, M. parvifolia (Roxb.) Korth., from the Himalayas.
 
 Approximately 16 species from Africa, Asia and the Philippines; 4 African species of which two from Gabon. The non-Gabonese species are M. inermis (Willd.) Korth., a Sahelo-Sudanian shrub with small leaves for the genus, and M. rubrostipulata (K. Schum.) Havil., a small tree from East African mountainous regions.
 
-### KEY TO THE SPECIES
-
-1. Calyces tubular for more than 1 mm, truncate or weakly sinuous, quite glabrous, erect in the fruit; inflorescence generally having fewer than 10 capitula; stipules generally pubescent, rather strongly over the entire lower half..... 1. M. stipulosa.
-
-1'. Calyces very briefly tubular, ± deeply sinuous, with lobes distinctly ciliate, curved towards the inside in the fruit; inflorescences ordinarily having more than 10 capitula; stipules generally glabrous
-
 ## Key to the species
 
-1. Calyces tubular for more than 1 mm, truncate or weakly sinuous, entirely glabrous, erect in fruit; inflorescence generally having fewer than 10 capitules; stipules generally pubescent, quite strongly so on the entire lower half..... 1. M. stipulosa.
 
-1'. Calyces very briefly tubular, ± deeply sinuous, with lobes distinctly ciliate, curved inward in the fruit; inflorescences ordinarily having more than 10 capitules; stipules generally glabrous
+**1.** Calyces tubular for more than 1 mm, truncate or weakly sinuous, entirely glabrous, erect in fruit; inflorescence generally having fewer than 10 capitules; stipules generally pubescent, quite strongly so on the entire lower half → [[Mitragyna_stipulosa\|*M. stipulosa*]] ^k1
+
+**1′.** Calyces very briefly tubular, ± deeply sinuous, with lobes distinctly ciliate, curved inward in the fruit; inflorescences ordinarily having more than 10 capitules; stipules generally glabrous
+
 
 ## Species in region
 

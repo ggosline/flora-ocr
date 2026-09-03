@@ -20,7 +20,7 @@ tags: [species, generated]
 
 - D. convallariodora Gilg in Engl., Bot. Jahrb. 19 : 271 (1894). — T. et H. Durand, Syll. : 471 (1909). — Gilg, in Engl., Pflanzw. Afr. 3 (2) : 637-638, fig. (1921).
 - D. Flamignii De Wild., Bull. Jard. Bot. Brux. 5 : 75 (1915).
-- D. Mannii Baill., Adansonia (1 $ ^{re} $ sér.), 11 : 302 (1875).
+- D. Mannii Baill., Adansonia (1 rᵉ sér.), 11 : 302 (1875).
 - D. Schweinfurthii Gilg, in Engl. Bot. Jarhb. 19:271 (1894). — Gilg, in Engl., Pflanzw. Afr. 3 (2):637 (1921).
 - D. stenosiphon Gilg ex H.H.W. Pears., F.T.A. 6 (1) : 240 (1913). — F.W.T.A. 1re éd., 1 (1) : 148 (1931). — Pellegrin, Fl. Mayombe 2 : 57 (1928). — Walker et Sillans, Pl. utiles du Gabon : 414 (1961).
 

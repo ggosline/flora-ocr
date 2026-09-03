@@ -19,7 +19,7 @@ tags: [species, generated]
 
 ## Description
 
-— Bull. Soc. Bot. France 4 $ ^{e} $ sér. 3 : 30 (1902).
+— Bull. Soc. Bot. France 4 ᵉ sér. 3 : 30 (1902).
 
 Herb with creeping rhizome, leafy stem reaching about sixty centimeters in height (sometimes much more?). Leaves with petioles 3 to 6 cm long, blade narrowly oblanceolate, gradually attenuated at both ends, unequally decurrent on the petiole at the base, glabrous, about 30 × 7 cm, sometimes larger. Ligule very short, truncate.
 

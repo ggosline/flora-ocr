@@ -25,13 +25,11 @@ This genus of small trees and shrubs is fairly homogeneous with its flowers ordi
 
 About a dozen species from West and equatorial Africa: I. elongatum in Sierra Leone; I. Vigneï from Sierra Leone to Ghana; I. nigericum and I. obanense in Nigeria; I. leptorrhachis in Cameroon; I. graciliflorum in Spanish Guinea; I. Sargosii and I. Lebrunii in Congo. Three species in Gabon (see addenda p. 362).
 
-1. Long panicles, reaching up to 50 cm in length, shortly branched.
+## Key to the species
 
-2. Rachis shortly winged..... I. leptorrhachis (Cameroon).
 
-2'. Rachis not winged; large foliaceous stipules with basal auricles..... 1. I. conchyliophorum.
+**1′.** Panicles lax, up to 20 cm long; stipules small and caducous → [[Isomacrolobium_isopetalum\|*I. isopetalum*]]
 
-1'. Lax panicles, up to 20 cm in length; stipules small and caducous..... 2. I. isopetalum.
 
 ## Species in region
 
@@ -42,10 +40,13 @@ About a dozen species from West and equatorial Africa: I. elongatum in Sierra Le
 
 ## Keyed but not treated
 
+
 The source key separates these species but the volume gives them no treatment, usually because they fall outside the area it covers in full. They are listed for identification; some are extralimital to the region.
 
-- *Isomacrolobium hallei* — keyed in vol 15, not treated
-- *Isomacrolobium leptorrhachis* — keyed in vol 15, not treated
+**—** *Isomacrolobium hallei* — keyed in vol 15, not treated
+
+**—** *Isomacrolobium leptorrhachis* — keyed in vol 15, not treated
+
 
 ## Treatments
 

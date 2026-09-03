@@ -72,7 +72,7 @@ Panicules sommitales jusqu'à 30 cm; axe et rameaux latéraux scabres; bractées
 
 Fruit ovoide-oblong, urcéolé, ± 7 × 14 mm; marge de l'hypanthe
 
-1. D. glaberrima présente bien une anomalie caryologique. Selon une étude de FAVERGER le pollen est totalement avorté; et le nombre chromosomesique,  $ 2n = 30 $, résulterait, soit d'une autotriploïdie, soit d'une hybridation (à paraître n° jubilaire de Garcia de Orta).
+1. D. glaberrima présente bien une anomalie caryologique. Selon une étude de FAVERGER le pollen est totalement avorté; et le nombre chromosomesique,  2n = 30, résulterait, soit d'une autotriploïdie, soit d'une hybridation (à paraître n° jubilaire de Garcia de Orta).
 
 fortement sinuée après la chute des sépales et des lobes intersépalaires; capsule ± profondément incluse; sommet convexe, seulement avec soies courtes, appliquées ou avec longues soies péristyles, grêles, souvent saillantes. Graines 0,8 mm, régulièrement striées. — Pl. 6, p. 21.
 

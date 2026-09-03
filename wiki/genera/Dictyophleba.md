@@ -34,32 +34,13 @@ Kostense, Naturalis Biodiversity Center (©), reproduced from van der Ploeg (198
 
 ---
 
-### Key to species
-
-Stipules triangular, only on young shoots caducous ......................... 2
-
-- Stipules divided into linear segments, persistent .................................................. 3
-
-Calyx with lobes 1–2 mm long erect in inflorescence of 0.5–1 × 0.5–1 cm, leaf blade
-of 3–17 × 2–8 cm .............................................................................. D. lucida
-
-Calyx with lobes 1–2 mm long petaled in inflorescence of 0.5–1 × 0.5–1 cm, leaf blade
-of 14–41 × 6–20 cm ..................................................................... D. ochracea
-
-Calyx with lobes 2 times as long as wide provided with strong hairs petaled
-stipules 0.5–2 cm long ......................................................................... D. setosa
-
-Calyx with lobes 2–3 times as long as wide without strong hairs petaled, stipules
-2–4.5 cm long .................................................................................. D. stipulosa
-
 ## Key to the species
 
+
 Stipules triangular, present only on young shoots and caducous ......................... 2
-- Stipules divided into linear segments, persistent .................................................. 3
-Calyx with lobes 1.5–2 mm long, erect in inflorescence of 1.5–2 × 1–1.5 cm, leaf limb 3–17 × 2–8 cm .............................................................................. D. lucida
-Calyx with lobes 1.5–2 mm long, petals in inflorescence of 2–3 × 1–1.5 cm, leaf limb 14–41 × 6–20 cm ..................................................................... D. ochracea
-Calyx with lobes twice as long as wide, bearing strong hairs, petals, stipules 0.5–2 cm long ......................................................................... D. setosa
-Calyx with lobes 2–3 times as long as wide, without strong hairs, petals, stipules 2–4.5 cm long .................................................................................. D. stipulosa
+
+**—** Stipules divided into linear segments, persistent 3 Calyx with lobes 1.5–2 mm long, erect in inflorescence of 1.5–2 × 1–1.5 cm, leaf limb 3–17 × 2–8 cm D. lucida Calyx with lobes 1.5–2 mm long, petals in inflorescence of 2–3 × 1–1.5 cm, leaf limb 14–41 × 6–20 cm D. ochracea Calyx with lobes twice as long as wide, bearing strong hairs, petals, stipules 0.5–2 cm long D. setosa Calyx with lobes 2–3 times as long as wide, without strong hairs, petals, stipules 2–4.5 cm long → *D. stipulosa*
+
 
 ## Species in region
 

@@ -42,7 +42,7 @@ hibiscus à écailles (fr.)
 
 ![Hibiscus squamosus](../sources/Malvaceae_vol45_liteparse/figures/fig_031_p0075.png)
 
-*Plate 20. Hibiscus squamosus : 1. Branch with flowers and fruits. – 2. Leaf. – 3. Fruit, open. – 4.*
+*PL. 20. — Hibiscus squamosus : 1. Branch with flowers and fruits. – 2. Leaf. – 3. Fruit, open. – 4.*
 
 ## Notes
 

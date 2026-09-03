@@ -40,7 +40,7 @@ Seed. ‒ Protomegabaria stapfiana: K. Female flower. ‒ L. Fruit. (A, D ‒ G:
 
 ![Protomegabaria macrophylla](../sources/Phyllanthaceae_vol43_liteparse/figures/fig_030_p0077.png)
 
-*Plate 24. Protomegabaria macrophylla : A. Flowering male branch. ‒ B. Part of a branch showing the entrance of ants. ‒ C. Foliar glands. ‒ D. Foliar detail, lower surface. ‒ E. Inflorescences. ‒ F. Male flower. ‒ G. Diagram of an inflorescence. ‒ H. Female flowers. ‒ I. Fruit. ‒ J.*
+*PL. 24. Protomegabaria macrophylla: A. Flowering male branch. ‒ B. Part of a branch showing the entrance of ants. ‒ C. Foliar glands. ‒ D. Foliar detail, lower surface. ‒ E. Inflorescences. ‒ F. Male flower. ‒ G. Diagram of an inflorescence. ‒ H. Female flowers. ‒ I. Fruit. ‒ J.*
 
 ## Notes
 

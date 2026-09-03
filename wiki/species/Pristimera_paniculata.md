@@ -59,7 +59,7 @@ Bos 3739, 15 km N Kribi, Riv. Mpolongwé, 3.01 N, 9.58 E, 1969 (bout., fl.); 498
 
 1 ter. Pristimera plumbea (Blakelock & Wilczek) Hallé
 
-Bull. Mus. natn. Hist. nat., Paris, 4 $ ^{e} $ sér., B, 3, Adansonia (1): 9 (1981).
+Bull. Mus. natn. Hist. nat., Paris, 4 ᵉ sér., B, 3, Adansonia (1): 9 (1981).
 
 – Hippocratea plumbea BLAKELOCK & WILCZEK, Kew Bull.: 39 (1957).
 
@@ -69,7 +69,7 @@ Liana with cylindrical branchlets, with fawn rhytidome almost smooth then very f
 
 Inflorescences in long panicles, 10–30 cm, composed of cymes, axillary or terminal and multiflorous; simple dichotomous cymes, with peduncles 5–15 mm. Bracts 0.5–1.5 mm, sometimes subopposite on the glabrescent rachis whose longest internodes reach 4–5 cm; the cymes are clothed in dense yellowish puberulence. Pedicels puberulent 0.5–1.5(–2) mm long. The hairs are often of 3–4 uniseriate cells. Buds globose 1 mm in diameter. Flowers green 2–3 mm in diameter, subrotate. Sepals 5 puberulent imbricate unequal, semi-orbicular, with finely denticulate margin, 0.5–0.8 mm wide. Petals 5 rounded, denticulate subfimbriate, with base somewhat drawn out into a long form, forming as it were a broad claw, 1–1.6 × 0.8–1.1 mm, with dark veins, apparent on rehydrated specimens. Disk 0.75–0.9 mm in diameter, subpentagonal with margin moderately overtopping the level of insertion of the androecium. Filament short, broad at base; anther transverse 0.2 mm wide. Style conical 0.5 mm. Ovary immersed, except for the apex of the locules, below the upper level of the disk. 5–8 ovules per locule.
 
-Fruit 3 with compressed mericarps. Seeds observed 7, winged, $ 48 \times 14 $ mm. – Pl. 58, fig. 1–11, p. 205.
+Fruit 3 with compressed mericarps. Seeds observed 7, winged, 48 × 14 mm. – Pl. 58, fig. 1–11, p. 205.
 
 Rare species with discontinuous range: Côte d'Ivoire, Central African Republic, Cameroon (to be confirmed), Zaïre and Uganda. To be sought in Gabon.
 
@@ -101,7 +101,7 @@ Liane à rameaux cylindriques, à rhytidome grisâtre sublisse ou légèrement r
 
 Inflorescences axillaires multiflores en cymes dichotomes subdivisées 5 ou 6 fois, longues jusqu'à 6-6,5 cm, à pédoncule de (0,5)1-2,2 cm, ou terminales en grappes de cymes longues jusqu'à 13 cm ; entre-nœuds des cymes pourvus d'un sillon longitudinal adaxial ; bractées réduites munies de quelques petites dents glandulaires. Pédicelle de 0,8-2 mm. Bouton globuleux d'environ 1 mm. Fleurs semi-rotacées légèrement odorantes, vert jaune, jaunâtres sur matériel réhydraté, de 2,5-3 mm de diamètre. Calice à 5 sépales peu nettement imbriqués, larges de 0,5-1 mm, subtriangulaires ovés, entiers ou subentiers, avec une oreillette glanduleuse fréquente de chaque côté de la base. Pétales 5 elliptiques de 1,6-1,8 × 0,9-1,2 mm, à 3-5 nervures avec des ramifications distales. Disque en médiocre coussinet subcirculaire ± annulaire devenant médiocrement pentagonal, épais de 0,4 mm, d'un diamètre de 1,1 mm. Étamines 3 à filet long de 0,5 mm, à anthère 4-locellée de 0,4 mm de largeur. Style de 0,25-0,3 mm, pyramidal. Ovaire à 3 loges 4-6 ovulées.
 
-Fruit douteux (Voorhoeve 826, Bomi Hills, Liberia, WAG) : méri-carpes elliptiques de  $ 4 \times 2.5 $ cm, épais de 7-8 mm, contenant 9 graines rousses. - Pl. 57, fig. 21, 23, 25, 28, p. 201.
+Fruit douteux (Voorhoeve 826, Bomi Hills, Liberia, WAG) : méri-carpes elliptiques de  4 × 2.5 cm, épais de 7-8 mm, contenant 9 graines rousses. - Pl. 57, fig. 21, 23, 25, 28, p. 201.
 
 ## Figures
 

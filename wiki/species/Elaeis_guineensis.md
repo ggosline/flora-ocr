@@ -47,7 +47,7 @@ E. guineensis is highly variable (external color of fruits and mesocarp; fruit m
 
 ![Elaeis guineensis](../sources/Arecaceae_vol53_liteparse/figures/fig_016_p0016.png)
 
-*Plate 3 . Elaeis guineensis : 1. Habit (× 1/100). – 2. Section from the middle of the leaf (× ⅔). – 3. Part of the petiole with spines (× ⅔). – 4. Male inflorescence (× / – 5. Male flower (× 6). – 6. Female inflorescence 1 5). (× / – 7. Female flowering branch (× / – 8. Fruit (× ⅔). – 9. Idem, longitudinal section (× ⅔). – 10. 1 5). 3 5).*
+*PL. III. — Elaeis guineensis: 1. Habit (× 1/100). – 2. Section from the middle of the leaf (× ⅔). – 3. Part of the petiole with spines (× ⅔). – 4. Male inflorescence (× / – 5. Male flower (× 6). – 6. Female inflorescence 1 5). (× / – 7. Female flowering branch (× / – 8. Fruit (× ⅔). – 9. Idem, longitudinal section (× ⅔). – 10. 1 5). 3 5).*
 
 ![Elaeis guineensis](../sources/Arecaceae_vol53_liteparse/figures/fig_025_p0036.jpeg)
 

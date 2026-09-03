@@ -26,7 +26,7 @@ Leaves with petiole glabrous, 4-7 mm in length; blade coriaceous or, in shade, s
 
 Inflorescences axillary, solitary, lax, 1.5-4.5 × 1.5-3.5 cm, pauci- to multiflorous; peduncle and branches slender, puberulent or bearing 2 puberulent lines below the stipular line of the bracts; pedicels puberulent or ± glabrous. Flowers 5-merous. Sepals united at the base, ovate or orbicular, 0.7 × 0.7-1 mm, obtuse or subacute, ciliate, glabrous on both surfaces or rarely with a few hairs on the exterior. Corolla, in the mature bud, 3-3.5-5 mm long, yellow or yellowish white, bearing on the exterior sparse and fine pubescence, or glabrous, hairy on the interior at the base of the lobes and often also at the throat; tube short, 1.3-2.5 mm in length; lobes 1-1.5 times longer than the tube, oblong, 2-2.5 × 0.9-1.2 mm, acute, recurved slightly above the base. Stamens exserted, inserted at the throat of the corolla, with glabrous filament, 1-1.5 times longer than the anther; anthers oblong, glabrous. Pistil glabrous or sometimes bearing fine papillose pubescence, (2.2-) 3-3.2 mm in length; ovary globose or ovoid, 1 × 0.8-1 mm, 2-locular; style fairly long, (1.2-) 2-2.2 mm in length; stigma capitate or indistinctly bilobed; 8-25 ovules per locule.
 
-Fruits small, globose, approximately 15 mm in diameter; young immature fruits stipitate. Seeds ellipsoid, smooth, $ 11 \times 10 \times 9 $ mm; testa adhering to the pulp. Pl. 33, 1-6, p. 140.
+Fruits small, globose, approximately 15 mm in diameter; young immature fruits stipitate. Seeds ellipsoid, smooth, 11 × 10 × 9 mm; testa adhering to the pulp. Pl. 33, 1-6, p. 140.
 
 ## Type
 

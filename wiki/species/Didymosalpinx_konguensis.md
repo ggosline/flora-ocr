@@ -32,7 +32,7 @@ Fruit fusiform smooth, orange, 52 × 19 mm, pentagonal toward the apex, and crow
 
 ## Type
 
-Mann 1784 (holotype K!, isotype P), 1 $ ^{o} $ lat. N, Rio Muni
+Mann 1784 (holotype K!, isotype P), 1 ᵒ lat. N, Rio Muni
 
 ## Discussion
 

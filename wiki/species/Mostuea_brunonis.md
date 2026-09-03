@@ -41,7 +41,7 @@ Shrub or subshrub 0.30-7 m tall, ordinarily well-branched; branches variable, pi
 
 Leaves with blade of extremely variable form and size, 1.2-6 times longer than wide, 0.6-15 (-28) × 0.3-8 (-12.5) cm, variably pilose or glabrous.
 
-Inflorescences axillary, ramiflorous or terminal, generally with short lateral branches, uni- or multiflorous, lax to almost capitate. Sepals highly variable in form, equal or unequal, ovate to almost linear, $ 1.5 \times 0.3-1 $ mm, acute to acuminate, pilose or glabrous on the exterior. Stamens with filament generally pubescent. Ovary glabrous or appressed-pubescent near the apex.
+Inflorescences axillary, ramiflorous or terminal, generally with short lateral branches, uni- or multiflorous, lax to almost capitate. Sepals highly variable in form, equal or unequal, ovate to almost linear, 1.5 × 0.3-1 mm, acute to acuminate, pilose or glabrous on the exterior. Stamens with filament generally pubescent. Ovary glabrous or appressed-pubescent near the apex.
 
 ## Figures
 

@@ -21,20 +21,17 @@ Fleshy, creeping rhizome. Leaves petiolate in basal rosette, arranged in spiral.
 
 This genus, from Africa to Fiji passing through India, comprises about twenty species.
 
-1. Labellum downward ..... 1. H. heterosepala
-
-1'. Labellum upward ..... 2
-
-2. Lower part of labellum 3–4 mm long, apical lobes 2–2.3 mm long and 0.8–1 mm wide ..... 2. H. mannii
-
-2'. Lower part of labellum (4) 5–6.5 mm long, apical lobes (2.5) 3–7.5 mm long and 2–3.5 mm wide ..... 3. H. tetraptera
-
 ## Key to the species
 
-1. Labellum at the base ..... 1. H. heterosepala
-1'. Labellum at the apex ..... 2
-2. Lower part of the labellum 3-4 mm long, apical lobes 2-2.3 mm long and 0.8-1 mm wide ..... 2. H. mannii
-2'. Lower part of the labellum (4) 5-6.5 mm long, apical lobes (2.5) 3-7.5 mm long and 2-3.5 mm wide ..... 3. H. tetraptera
+
+**1.** Labellum at the base → [[Hetaeria_heterosepala\|*H. heterosepala*]] ^k1
+
+**1′.** Labellum at the apex → [[#^k2|2]]
+
+**2.** Lower part of the labellum 3-4 mm long, apical lobes 2-2.3 mm long and 0.8-1 mm wide → [[Hetaeria_mannii\|*H. mannii*]] ^k2
+
+**2′.** Lower part of the labellum (4) 5-6.5 mm long, apical lobes (2.5) 3-7.5 mm long and 2-3.5 mm wide → [[Hetaeria_tetraptera\|*H. tetraptera*]]
+
 
 ## Species in region
 

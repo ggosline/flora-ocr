@@ -29,7 +29,7 @@ Older branches often hollow, longitudinally wrinkled. Young branches puberulent.
 
 Inflorescence an axillary spike. Rachis of the spike longitudinally wrinkled, puberulent, 6–15 cm long. Floral buds obovoid. Flowers ♂, sessile or subsessile. Calyx obconical, 2 mm long, glabrous except the apex of the lobes pubescent; lobes triangular, 0.5 mm long, apex acute. Petals¹ pubescent on the outside. Stamens¹ 10, free from one another, weakly adnate at the base to the petals; anther ellipsoid-oblong, connective prolonged by a globose gland. Pistil substipitate, ovary ellipsoid pubescent, ± 0.75 mm long, with 6 ovules; style still short.
 
-Legume woody dehiscent, ± obovate, sinuous, asymmetric, reaching $ 18 \times 4.5 $ cm, base attenuate stipitate, lateral surface with non-winged sutural margins, apex weakly reflexed obtuse. Seeds 6–8. – Pl. 26, Fig. 1–4, p. 101; Pl. 28, Fig. 5–6, p. 107.
+Legume woody dehiscent, ± obovate, sinuous, asymmetric, reaching 18 × 4.5 cm, base attenuate stipitate, lateral surface with non-winged sutural margins, apex weakly reflexed obtuse. Seeds 6–8. – Pl. 26, Fig. 1–4, p. 101; Pl. 28, Fig. 5–6, p. 107.
 
 ## Type
 

@@ -28,7 +28,7 @@ Uses In Cameroon and equatorial Guinea, the latex of the bark is sprayed on lesi
 
 ![Oncinotis glabrata](../sources/Apocynaceae_vol59_liteparse/figures/fig_148_p0173.jpeg)
 
-*Plate 80 . Oncinotis glabrata : 1. Flowering branch (× ⅔). – 2. Detail of a branch (× ⅔). – 3. Domatium (× 4). – 4. Base of leaf blade, upper surface (× 4). – 5. Flower (× 6). – 6. Corolla tube, section*
+*Plate 80. Oncinotis glabrata: 1. Flowering branch (× ⅔). – 2. Detail of a branch (× ⅔). – 3. Domatium (× 4). – 4. Base of leaf blade, upper surface (× 4). – 5. Flower (× 6). – 6. Corolla tube, section*
 
 ## Notes
 

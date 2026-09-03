@@ -46,7 +46,7 @@ Le Testu : 5212, entre Mouila et Kembélé (fl. et fr. 20 fév. 1925) Acanthacé
 
 EXPLICATION DE LA PLANCHE II, fig. 1-11:
 
-1, sommité florifère : 2, bractée de 15 mm de long; 3, jeune bouton de 13 mm de long; 4, calice de 15 mm de long; 5, corolle épanouie de 25 mm de long; 6, androcée de profil; 7, coupe de la corolle; 8, anthère à loges de 3 mm de long; 9, pistil, style de 19 mm de long, ovaire de 4 mm de haut; 10, fruit de 11 mm de long; 11, graine (1 mm de diamètre). — 1-8, d'après des dessins de N. Hallé sur du matériel vivant (dessin 65, Ngongola, M $ ^{ts} $ de Cristal, 6 août 1959); 10, 11, Le Testu 5212.
+1, sommité florifère : 2, bractée de 15 mm de long; 3, jeune bouton de 13 mm de long; 4, calice de 15 mm de long; 5, corolle épanouie de 25 mm de long; 6, androcée de profil; 7, coupe de la corolle; 8, anthère à loges de 3 mm de long; 9, pistil, style de 19 mm de long, ovaire de 4 mm de haut; 10, fruit de 11 mm de long; 11, graine (1 mm de diamètre). — 1-8, d'après des dessins de N. Hallé sur du matériel vivant (dessin 65, Ngongola, M ts de Cristal, 6 août 1959); 10, 11, Le Testu 5212.
 
 ## Figures
 

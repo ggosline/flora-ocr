@@ -29,7 +29,7 @@ Fruit oblong reaching 25–35 × 12–18 mm, veined with 10 (12) longitudinal ri
 
 ## Type
 
-Mann, Kongui river,  $ 1^{o} $ lat. N (K!, isotype P!)
+Mann, Kongui river,  1ᵒ lat. N (K!, isotype P!)
 
 ## Discussion
 

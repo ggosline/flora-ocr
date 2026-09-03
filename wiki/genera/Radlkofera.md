@@ -1,7 +1,7 @@
 ---
 type: genus
 name: Radlkofera
-authority: Gilg $ ^{1} $
+authority: Gilg ¹
 family: Sapindaceae
 species_in_region: 1
 treatments:
@@ -9,10 +9,10 @@ treatments:
     source: sources/Sapindaceae_vol23_paddle
 tags: [genus, generated]
 ---
-# *Radlkofera* Gilg $ ^{1} $
+# *Radlkofera* Gilg ¹
 
 **Family**: [[Sapindaceae]]
-**Authority**: Gilg $ ^{1} $
+**Authority**: Gilg ¹
 **Protologue**: Bot. Jarhb. 24 : 300, tab. 2 (1897)
 
 ## Diagnosis

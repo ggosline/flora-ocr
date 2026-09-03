@@ -7,10 +7,6 @@ family: Aristolochiaceae
 vol: 42
 pages: 17-17
 source: sources/Aristolochiaceae_vol42_liteparse
-countries: [Gabon]
-in_region: true
-habit: "liana"
-altitude_m: "1020"
 tags: [species, generated]
 ---
 # *Pararistolochia incisiloba* (Jongkind) M.E.Leal, comb. nov. Planche 3(2, 3)
@@ -18,6 +14,10 @@ tags: [species, generated]
 **Genus**: [[Pararistolochia]]
 **Family**: [[Aristolochiaceae]]
 **Protologue**: Aristolochia incisiloba Jongkind, Bull. Jard. Bot. Natl. Belg. 60 : 147 (1990)
+
+## Synonyms
+
+- Aristolochia incisiloba Jongkind, Bull. Jard. Bot. Natl. Belg. 60 : 147 (1990).
 
 ## Description
 
@@ -29,7 +29,7 @@ endemic to Gabon, known only from Mont Sono in the Massif du Chaillu
 
 ## Ecology
 
-montane forest, at 1020 m altitude. B: Jongkind (1990). Bibliography
+montane forest, at 1020 m altitude. B: Jongkind (1990). i Bibliography
 
 ## Figures
 

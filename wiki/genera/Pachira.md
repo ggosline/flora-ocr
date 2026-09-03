@@ -39,45 +39,25 @@ All other generic characters are identical in both cases. It seems to us therefo
 
 This essentially Neotropical genus is represented in Africa by introduced species, 3 of which for Gabon.
 
-### KEY TO SPECIES BY LEAVES
-
-1. Leaflets petiolulate ..... 3. P. aquatica
-
-1'. Leaflets sessile or subsessile.
-
-2. Lower surface of the blade puberulent or lepidote ..... 1. P. glabra
-
-2'. Lower surface of the blade glabrous ..... 2. P. sessilis
-
-### KEY TO SPECIES BY FRUITS
-
-1. Valves glabrous ..... 1. P. glabra
-
-1'. Valves pubescent or puberulent.
-
-2. Seeds with strongly prominent striations ..... 2. P. sessilis
-
-2'. Seeds with non-prominent striations ..... 3. P. aquatica
-
 ## Key to the species
 
-1. Leaflets petiolulate ..... 3. P. aquatica
 
-1'. Leaflets sessile or subsessile.
+**1.** Leaflets petiolulate → [[Pachira_aquatica\|*P. aquatica*]] ^k1
 
-2. Abaxial surface of blade puberulent or lepidote..... 1. P. glabra
+**1′.** Leaflets sessile or subsessile.
 
-2'. Abaxial surface of blade glabrous..... 2. P. sessilis
+**2.** Abaxial surface of blade puberulent or lepidote → [[Pachira_glabra\|*P. glabra*]] ^k2
 
-KEY TO SPECIES BY FRUITS
+**2′.** Abaxial surface of blade glabrous → 2. P. sessilis KEY TO SPECIES BY FRUITS
 
-1. Valves glabrous ..... 1. P. glabra
+**1.** Valves glabrous → [[Pachira_glabra\|*P. glabra*]]
 
-1'. Valves pubescent or puberulent.
+**1′.** Valves pubescent or puberulent.
 
-2. Seeds with strongly prominent striations..... 2. P. sessilis
+**2.** Seeds with strongly prominent striations → [[Pachira_sessilis\|*P. sessilis*]]
 
-2'. Seeds with non-prominent striations..... 3. P. aquatica
+**2′.** Seeds with non-prominent striations → [[Pachira_aquatica\|*P. aquatica*]]
+
 
 ## Species in region
 

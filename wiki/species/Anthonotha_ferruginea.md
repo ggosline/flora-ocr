@@ -26,7 +26,7 @@ Trees. Young branchlets and rachis densely ferruginous tomentose. Rachis cylindr
 
 Long inflorescences ferruginous tomentose, pendulous from the trunk. Axis 40 cm or more long, on which are inserted at wide intervals short racemes. Involucral bractlets velvety ferruginous, approximately 8 mm. Sepals 4, subequal, 4 mm long. One large petal with bilobed blade, long-unguiculate, approximately 2 cm long. 4 small obovate petals shorter than the sepals. Fertile stamens 3, long-exserted. Ovary hirsute.
 
-Pod flat, transversely veined, ferruginous tomentose, reaching $ 30 \times 5 $ cm.
+Pod flat, transversely veined, ferruginous tomentose, reaching 30 × 5 cm.
 
 ## Type
 

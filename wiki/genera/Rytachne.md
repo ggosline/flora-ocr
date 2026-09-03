@@ -29,9 +29,11 @@ hair, or reduced to the pedicel.
 
 The genus Rytachne comprises half a dozen species which are mostly small plants of humid meadows. Two species are recorded from Gabon:
 
-1. Lower glume of the sessile spikelet bearing very pronounced transverse crests occupying the entire width of the glume. 1. R. rottboellioides.
+## Key to the species
 
-1'. Lower glume of the sessile spikelet bearing in its lower part more or less marked tubercles and generally localized on the ribs only ..... 2. R. Mannii.
+
+**1′.** Lower glume of the sessile spikelet bearing in its lower part tubercles more or less pronounced and generally localized on the ribs only → 2. R. Mannii.
+
 
 ## Species in region
 

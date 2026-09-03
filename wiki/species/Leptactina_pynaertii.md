@@ -24,7 +24,7 @@ Slender shrub 0.5–2.5 m tall. Branchlets glabrescents. Terminal buds ± covere
 
 Terminal inflorescences pauciflorous, most often of 3 or 5 flowers. Pedicel 3–10 mm. Calyx bright green, glabrous, oblong-conic, with 5 subfalcate erect lobes 15–25 (30) × 5–7.5 mm. Corolla very fragrant, white, 6.5 cm in diameter; tube rather short, 25–35 (40) × 3–4 mm, very finely pubescent. 5 (6) lobes 21–32 × 8–12 mm, ovate-lanceolate, glabrous above, imbricate contorted at base. Anthers 9 × 1.1 mm, sessile, attached at upper third, with acute connective prominent above the locules for 1 mm. Pollen white. Style glabrous in lower half, pubescent at level of anthers. Stigma 9.5 mm with 2 green juxtaposed lobes exceeding the throat by ca. 3–5 mm. Disc 2 mm in diameter and 0.7 mm in height. Ovary 5–9 × 3 mm with 2 locules. Placentas narrowly oblong. Ovules very numerous sunken three-quarters into placental tissue.
 
-Fruit glabrous $ 33 \times 10 $ mm, oblong-conic, green and smooth, with persistent subereect sepals, with black wall when dry bearing fine longitudinal wrinkles. Seed masses reaching $ 32 \times 8 $ mm; placental surface tattered after seed removal. Seed ovoid, shiny, nearly $ 2 $ mm long.
+Fruit glabrous 33 × 10 mm, oblong-conic, green and smooth, with persistent subereect sepals, with black wall when dry bearing fine longitudinal wrinkles. Seed masses reaching 32 × 8 mm; placental surface tattered after seed removal. Seed ovoid, shiny, nearly 2 mm long.
 
 ## Type
 

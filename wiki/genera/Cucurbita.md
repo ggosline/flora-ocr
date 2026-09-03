@@ -23,22 +23,17 @@ American genus of 18 species, several of which are widely cultivated in the trop
 
 BIBLIOGRAPHY: Jeffrey (1967), Keraudren (1967), Keraudren-Aymonin (1975), Schaefer & Renner (2011a).
 
-1. - Sepals linear, with enlarged and foliaceous apex; fertile pedicel with distinctly enlarged apex; seed with distinctly thickened margin..... C. moschata
-
-- Sepals linear to very narrowly elliptic-ovate, with non-foliaceous apex; fertile pedicel slightly enlarged at apex in fruit; seed with distinctly to slightly thickened or obtuse margin..... 2
-
-2. - Leaf lamina triangular to ovate-triangular, irregularly 5- or 7-lobed; sepals very narrowly elliptic-ovate; pedicel sulcate-angular and slightly thickened at apex in fruit; seed with thickened margin..... C. pepo
-
-- Leaf lamina reniform to orbicular, nearly entire or with dentate margin; sepals narrowly elliptic-ovate; pedicel subcylindric and not thickened at apex in fruit; seed with obtuse or ±thickened margin..... C. maxima
-
 ## Key to the species
 
-1. - Sepals linear, with enlarged and foliaceous apex; fruiting pedicel with distinctly enlarged apex; seed with distinctly thickened margin..... C. moschata
-- Sepals linear to very narrowly elliptic-ovate, apex not foliaceous; fruiting pedicel slightly enlarged at apex in fruit; seed with distinctly to slightly thickened or obtuse margin..... 2
 
-2. - Leaf blade triangular to ovate-triangular, irregularly 5- or 7-lobed; sepals very narrowly elliptic-ovate; pedicel furrowed-angular and slightly thickened at apex in fruit; seed with thickened margin..... C. pepo
+**1.** Sepals linear, with enlarged and foliaceous apex; fruiting pedicel with distinctly enlarged apex; seed with distinctly thickened margin → [[Cucurbita_moschata\|*C. moschata*]] ^k1
 
-- Leaf blade reniform to orbicular, almost entire or with dentate margin; sepals narrowly elliptic-ovate; pedicel subcylindric and not thickened at apex in fruit; seed with obtuse or ± thickened margin..... C. maxima
+**1′.** Sepals linear to very narrowly elliptic-ovate, apex not foliaceous; fruiting pedicel slightly enlarged at apex in fruit; seed with distinctly to slightly thickened or obtuse margin → [[#^k2|2]]
+
+**2.** Leaf blade triangular to ovate-triangular, irregularly 5- or 7-lobed; sepals very narrowly elliptic-ovate; pedicel furrowed-angular and slightly thickened at apex in fruit; seed with thickened margin → [[Cucurbita_pepo\|*C. pepo*]] ^k2
+
+**2′.** Leaf blade reniform to orbicular, almost entire or with dentate margin; sepals narrowly elliptic-ovate; pedicel subcylindric and not thickened at apex in fruit; seed with obtuse or ± thickened margin → [[Cucurbita_maxima\|*C. maxima*]]
+
 
 ## Species in region
 

@@ -7,13 +7,6 @@ family: Cyperaceae
 vol: 44
 pages: 183-184
 source: sources/Cyperaceae_vol44_liteparse
-countries: [Cameroon, Gabon]
-in_region: true
-subdivisions:
-  Gabon: [Estuaire, Ogooué-Lolo, Ogooué-Maritime, Woleu-Ntem]
-habit: "herb"
-habitat: [swamp forest]
-altitude_m: "0–700"
 tags: [species, generated]
 ---
 # *Mapania secans* K.Schum. Planche 115, Figure 20b
@@ -22,9 +15,13 @@ tags: [species, generated]
 **Family**: [[Cyperaceae]]
 **Protologue**: Notizbl. Königl. Bot. Gart. Berl. 3 : 105 (1901)
 
+## Synonyms
+
+- Hypolytrum secans (K.Schum.) J.Raynal, Adansonia sér. 2, 8 : 429 (1968).
+
 ## Description
 
-Hypolytrum secans (K.Schum.) J.Raynal, Adansonia sér. 2, 8 : 429 (1968). H. rhizomatanthum Cherm., Bull. Soc. Bot. France 80 : 508 (1933). Robust herb, with woody rhizome, about 1 cm thick; stems 1–10, lateral, arising at the axil of old basal leaves, 5–40 cm × 0.5–1.5 mm, triangular to cylindric, green, smooth to slightly scabrous below the inflorescence, basal part covered by 5–15 sheaths (cataphylls) clearly overlapping, brown to violet. Basal leaves, numerous; sheath indistinct, sometimes dark reddish-brown on the margin; largest blade 50–90 × 1–2.5 cm, green, surface nearly smooth, margin distinctly scabrous, gradually narrowed to an acute apex. Inflorescence terminal, in a globose to hemispherical head, 1–2 cm broad, composed of 10–50 spikes, more rarely in an irregular head with short lateral branches, then 3 cm broad; involucral bracts several, poorly developed, generally shorter than the inflorescence, reddish-brown or violet; spikes ovoid, 5–8 × 2–3 mm, brown to light brown, generally composed of 10–20 crowded spikelets; spikelet bracts ovoid, 2–2.5 × 1–1.5 mm, brown becoming sometimes violet at maturity, obtuse and pale yellow at the apex. Flower: floral bracts 2; style 2-branched. Achene obovoid, 2–2.9 × 1.2–1.9 mm, with prominent cuneate base, dark reddish-brown to blackish at maturity, tuberculate with weak longitudinal ridges.
+Robust herb, with woody rhizome, c. 1 cm thick; stems 1–10, lateral, arising at the axil of old basal leaves, 5–40 cm × 0.5–1.5 mm, triangular to cylindrical, green, smooth to slightly scabrous beneath the inflorescence, the basal part covered by 5–15 overlapping sheaths (cataphylls), brown to violaceous. Basal leaves, numerous; sheath poorly defined, sometimes dark reddish-brown on the margin; largest blade 50–90 × 1–2.5 cm, green, with almost smooth surface, with distinctly scabrous margin, gradually narrowed to an acute apex. Inflorescence terminal, in globose to hemispherical head, 1–2 cm wide, composed of 10–50 spikes, more rarely in irregular head with short lateral branches, then 3 cm wide; involucral bracts several, poorly developed, generally shorter than the inflorescence, reddish-brown or violet; spikes ovoid, 5–8 × 2–3 mm, brown to light brown, generally composed of 10–20 tightly packed spikelets; spikelet bracts ovoid, 2–2.5 × 1–1.5 mm, brown becoming sometimes violaceous at maturity, obtuse and pale yellow at the apex. Flower: floral bracts 2; style with 2 branches. Achene obovoid, 2–2.9 × 1.2–1.9 mm, with prominent cuneate base, dark reddish-brown to blackish at maturity, tuberculate with weak longitudinal ridges.
 
 ## Distribution
 
@@ -32,7 +29,7 @@ Cameroon and Gabon; fairly widely distributed in Gabon, found in Estuaire, Ogoou
 
 ## Ecology
 
-swamp forests, sometimes along watercourses and at the edge of pools; at 0–700 m altitude. Taxonomic note: very close to M. pynaertii, it differs by its violet sheaths at the base of the stems, the involucral bracts purple to violet, and the smaller achenes with different colour patterns. b: Nelmes (1955a), Raynal (1968b). Bibliography
+swamp forests, sometimes along watercourses and at the edge of pools; at 0–700 m altitude. Taxonomic note: very close to M. pynaertii, it differs from it by its violaceous sheaths at the base of stems, the involucral bracts purple to violet, and the smaller achenes with different colour patterns. b: Nelmes (1955a), Raynal (1968b). Bibliography
 
 ## Figures
 

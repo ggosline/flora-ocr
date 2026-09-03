@@ -45,107 +45,103 @@ The first group comprises species originally placed in the genus Craterogyne, pl
 
 ## Key to the species
 
-1. Leaves pinnatifid to the midvein; herbs reaching 10 cm in height ..... 16. D. letestui.
 
-1'. Leaves less deeply divided; herbaceous plants to shrubs.
+**1.** Leaves pinnatifid to the midvein; herbs reaching 10 cm in height → [[Dorstenia_letestui\|*D. letestui*]] ^k1
 
-2. Stems leafy creeping; stipules with broad base (triangular and semi-amplexicaul); inflorescences orbicular, the margins with small triangular lobes ..... 5. D. picta.
+**1′.** Leaves less deeply divided; herbaceous plants to shrubs.
 
-2'. Plants with aphyllous rhizomes and ascending or erect stems, or succulent plants most often with tuberous underground parts.
+**2.** Stems leafy creeping; stipules with broad base (triangular and semi-amplexicaul); inflorescences orbicular, the margins with small triangular lobes → [[Dorstenia_picta\|*D. picta*]] ^k2
 
-3. Succulent plants, most often with tuberous underground parts; nucleus tuberculate ..... 17. D. preussii.
+**2′.** Plants with aphyllous rhizomes and ascending or erect stems, or succulent plants most often with tuberous underground parts.
 
-3'. Plant non-succulent or only the leaves slightly succulent; nucleus smooth.
+**3.** Succulent plants, most often with tuberous underground parts; nucleus tuberculate → [[Dorstenia_preussii\|*D. preussii*]] ^k3
 
-4. Leaves with appressed hairs, fairly long on the upper surface; inflorescences orbicular with a margin formed of lobes reaching 1 mm in length ..... 6. D. subdentata.
+**3′.** Plant non-succulent or only the leaves slightly succulent; nucleus smooth.
 
-4'. Leaves without hairs of this type on the upper surface.
+**4.** Leaves with appressed hairs, fairly long on the upper surface; inflorescences orbicular with a margin formed of lobes reaching 1 mm in length → [[Dorstenia_subdentata\|*D. subdentata*]] ^k4
 
-5. Inflorescences actinomorphic or zygomorphic.
+**4′.** Leaves without hairs of this type on the upper surface.
 
-6. Inflorescences actinomorphic; if tending to be zygomorphic, then receptacle with a broad margin.
+**5.** Inflorescences actinomorphic or zygomorphic. ^k5
 
-7. Stipules with enlarged base (semi-amplexicaul), shrubs generally branched.
+**6.** Inflorescences actinomorphic; if tending to be zygomorphic, then receptacle with a broad margin. ^k6
 
-8. A single row of appendages at the margin of the receptacle; shrubs reaching 1.5 mm in height ..... 4. D. turbinata.
+**7.** Stipules with enlarged base (semi-amplexicaul), shrubs generally branched. ^k7
 
-8'. Receptacle margin bearing at least 2 rows of short appendages (bracts) which may also be present lower on the lower surface of the receptacle to the peduncle.
+**8.** A single row of appendages at the margin of the receptacle; shrubs reaching 1.5 mm in height → [[Dorstenia_turbinata\|*D. turbinata*]] ^k8
 
-9. Shrublets branched; leaves distichous on the branches; stipules usually less than 10 mm with only one prominent main vein.
+**8′.** Receptacle margin bearing at least 2 rows of short appendages (bracts) which may also be present lower on the lower surface of the receptacle to the peduncle.
 
-10. Leaf margin generally entire; inflorescences in groups of 2 or more, turbinate; peduncles 5–27 mm in length ..... 2. D. africana.
+**9.** Shrublets branched; leaves distichous on the branches; stipules usually less than 10 mm with only one prominent main vein. ^k9
 
-10'. Leaf margin generally dentate to lobed; inflorescences often solitary, discoid to broadly turbinate; peduncle 2–9 mm ..... 2 bis. D. kameruniana.
+**10.** Leaf margin generally entire; inflorescences in groups of 2 or more, turbinate; peduncles 5–27 mm in length → [[Dorstenia_africana\|*D. africana*]] ^k10
 
-9'. Shrublets generally not branched; leaves arranged in spirals; stipules generally more than 10 mm, with prominent parallel veins ..... 1. D. oligogyna.
+**10′.** Leaf margin generally dentate to lobed; inflorescences often solitary, discoid to broadly turbinate; peduncle 2–9 mm → 2 bis. D. kameruniana.
 
-7'. Stipules subulate, lateral.
+**9′.** Shrublets generally not branched; leaves arranged in spirals; stipules generally more than 10 mm, with prominent parallel veins → [[Dorstenia_oligogyna\|*D. oligogyna*]]
 
-11. Small appendages (bracts) in at least 2 rows on the receptacle margin and lower on the lower surface of the receptacle to the peduncle and on the peduncle itself ..... 3. D. elliptica.
+**7′.** Stipules subulate, lateral.
 
-11'. Receptacle with a single row of appendages on its margin, or if 2 rows, then the appendages of clearly different lengths.
+**11.** Small appendages (bracts) in at least 2 rows on the receptacle margin and lower on the lower surface of the receptacle to the peduncle and on the peduncle itself → [[Dorstenia_elliptica\|*D. elliptica*]] ^k11
 
----
+**11′.** Receptacle with a single row of appendages on its margin, or if 2 rows, then the appendages of clearly different lengths.
 
-12. Leaves with appressed hairs fairly long on the upper surface; receptacle orbicular, with a lobed margin with lobes reaching 1 mm in length ..... 6. D. subdentata.
+**12.** Leaves with appressed hairs fairly long on the upper surface; receptacle orbicular, with a lobed margin with lobes reaching 1 mm in length → [[Dorstenia_subdentata\|*D. subdentata*]] ^k12
 
-12'. Leaves without hairs of this type on the upper surface; marginal appendages much longer and most often of unequal lengths, or margin more than 1 mm in width.
+**12′.** Leaves without hairs of this type on the upper surface; marginal appendages much longer and most often of unequal lengths, or margin more than 1 mm in width.
 
-13. Receptacle with a margin 3–15 mm in width.
+**13.** Receptacle with a margin 3–15 mm in width. ^k13
 
-14. Flowers clustered; pistillode very reduced or absent; 2 distinct ribs in the middle of the lower surface of the receptacle ..... 14. D. poinsettifolia.
+**14.** Flowers clustered; pistillode very reduced or absent; 2 distinct ribs in the middle of the lower surface of the receptacle → *D. poinsettifolia* ^k14
 
-14'. Flowers spaced; pistillode present (distinctly); no distinct ribs in the middle of the lower surface of the receptacle.
+**14′.** Flowers spaced; pistillode present (distinctly); no distinct ribs in the middle of the lower surface of the receptacle.
 
-15. Numerous appendages, long up to 12 cm, the longest strongly pectinate in their lower part ..... 12. D. yambuyaensis.
+**15.** Numerous appendages, long up to 12 cm, the longest strongly pectinate in their lower part → [[Dorstenia_yambuyaensis\|*D. yambuyaensis*]] ^k15
 
-15. 3 to numerous appendages, reaching a length of 6 cm, the longest sometimes dentate at their base ..... 11. D. barteri.
+**15.** 3 to numerous appendages, reaching a length of 6 cm, the longest sometimes dentate at their base → [[Dorstenia_barteri\|*D. barteri*]]
 
-13'. Receptacle with narrow margin, at most 2 (–3) mm in width.
+**13′.** Receptacle with narrow margin, at most 2 (–3) mm in width.
 
-16. Inflorescences with 4 (–5) appendages 2.5–12.5 cm long and a peduncle of (1.5–) 4–8 cm ..... 10 bis. D. zenkeri.
+**16.** Inflorescences with 4 (–5) appendages 2.5–12.5 cm long and a peduncle of (1.5–) 4–8 cm → 10 bis. D. zenkeri. ^k16
 
-16'. Inflorescences with more than 5 appendages, if 4–5 only (in some specimens of D. mannii) then the peduncle does not exceed 25 mm.
+**16′.** Inflorescences with more than 5 appendages, if 4–5 only (in some specimens of D. mannii) then the peduncle does not exceed 25 mm.
 
-17. Numerous appendages, the largest arising near the margin of a prominent rib on the lower surface of the receptacle ..... 8. D. ciliata.
+**17.** Numerous appendages, the largest arising near the margin of a prominent rib on the lower surface of the receptacle → [[Dorstenia_ciliata\|*D. ciliata*]] ^k17
 
-17. Appendages arising only from the receptacle margin.
+**17.** Appendages arising only from the receptacle margin.
 
-18. Floriferous surface with lobes that grade imperceptibly into the largest appendages; sometimes 1–6 small appendages in the sinuses (between the lobes) ..... 7. D. mannii.
+**18.** Floriferous surface with lobes that grade imperceptibly into the largest appendages; sometimes 1–6 small appendages in the sinuses (between the lobes) → [[Dorstenia_mannii\|*D. mannii*]] ^k18
 
-18'. Floriferous surface orbicular or multiangular.
+**18′.** Floriferous surface orbicular or multiangular.
 
-19. Floriferous surface plane to sometimes convex in fruit; primary appendages 10–15; 2–6 secondary appendages of variable size between the primary appendages ..... 9. D. lujae.
+**19.** Floriferous surface plane to sometimes convex in fruit; primary appendages 10–15; 2–6 secondary appendages of variable size between the primary appendages → [[Dorstenia_lujae\|*D. lujae*]] ^k19
 
-19. Floriferous surface plane to strongly convex; primary appendages (3–) 6–12; secondary appendages absent, sometimes 1, or occasionally 5, 1 mm in length ..... 10. D. tene.
+**19.** Floriferous surface plane to strongly convex; primary appendages (3–) 6–12; secondary appendages absent, sometimes 1, or occasionally 5, 1 mm in length → *D. tene*
 
-6'. Inflorescences zygomorphic (obtriangular in D. preussii).
+**6′.** Inflorescences zygomorphic (obtriangular in D. preussii).
 
-20. Inflorescences navicular, vertical, with one long erect appendage, one short pendant appendage; margin entire ..... 13. D. psilurus.
+**20.** Inflorescences navicular, vertical, with one long erect appendage, one short pendant appendage; margin entire → [[Dorstenia_psilurus\|*D. psilurus*]] ^k20
 
-20'. Inflorescences not thus.
+**20′.** Inflorescences not thus.
 
-21. Inflorescences obtriangular, with 2–3 appendages on the short side and an appendage at the angle formed by the 2 long ribs; herbs (succulent) reaching 20 cm in height ..... 17. D. preussii.
+**21.** Inflorescences obtriangular, with 2–3 appendages on the short side and an appendage at the angle formed by the 2 long ribs; herbs (succulent) reaching 20 cm in height → [[Dorstenia_preussii\|*D. preussii*]] ^k21
 
-21'. Inflorescences not thus.
+**21′.** Inflorescences not thus. MORACEAE
 
----
+**22.** Inflorescences navicular or infundibuliform and laterally compressed; margin absent or very narrow (to about 0.5 mm); primary appendages not enlarged at the base → [[Dorstenia_dinklagei\|*D. dinklagei*]] ^k22
 
-MORACEAE
+**22′.** Inflorescences discoid or infundibuliform sometimes laterally compressed, variable as to the width of the margin and the number and size of the appendages → *D. poinsettifolia*
 
-22. Inflorescences navicular or infundibuliform and laterally compressed; margin absent or very narrow (to about 0.5 mm); primary appendages not enlarged at the base ..... 15. D. dinklagei.
+**5′.** Inflorescences neither actinomorphic nor distinctly zygomorphic.
 
-22'. Inflorescences discoid or infundibuliform sometimes laterally compressed, variable as to the width of the margin and the number and size of the appendages ..... 14. D. poinsettifolia.
+**23.** Shrubs, receptacle turbinate → [[Dorstenia_turbinata\|*D. turbinata*]] ^k23
 
-5'. Inflorescences neither actinomorphic nor distinctly zygomorphic.
+**23′.** Herbs, lower part of the stem only woody, receptacle non-turbinate.
 
-23. Shrubs, receptacle turbinate ..... 4. D. turbinata.
+**24.** Flowers spaced; pistillode distinct; no distinct ribs in the middle of the lower surface of the receptacle → [[Dorstenia_barteri\|*D. barteri*]] ^k24
 
-23'. Herbs, lower part of the stem only woody, receptacle non-turbinate.
+**24′.** Flowers clustered; pistillode strongly reduced or absent; 2 distinct ribs in the middle of the lower surface of the receptacle → *D. poinsettifolia*
 
-24. Flowers spaced; pistillode distinct; no distinct ribs in the middle of the lower surface of the receptacle ..... 11. D. barteri.
-
-24'. Flowers clustered; pistillode strongly reduced or absent; 2 distinct ribs in the middle of the lower surface of the receptacle ..... 14. D. poinsettifolia.
 
 ## Species in region
 

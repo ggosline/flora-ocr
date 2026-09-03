@@ -21,35 +21,21 @@ Leaves coriaceous or fleshy, or thin, unequally bilobed at the apex. Inflorescen
 
 Genus of approximately 20-30 species found exclusively on the African continent.
 
-1. Stem short or only slightly elongate, leaves more or less imbricate at the base ..... 50. 3. R. magnicalcar
-
-1'. Stem elongate, leaves more or less well-spaced along the stem ..... 2
-
----
-
----
-
-2. Labellum divided into 4 lobes ..... 50. 1. R. bilobatum
-
-2'. Labellum not as above ..... 3
-
-3. Spur sacciform, shorter than the pedicel and the ovary, obtuse ..... 50. 2. R. densiflorum
-
-3'. Spur narrowly conical, acute, longer than the pedicel and the ovary ..... 50. 4. R. rutilum
-
 ## Key to the species
 
-1. Stem short or only slightly elongated, leaves more or less imbricate at the base ..... 50. 3. R. magnicalcar
-1'. Stem elongated, leaves more or less well spaced along the stem ..... 2
 
----
+**1.** Stem short or only slightly elongated, leaves more or less imbricate at the base → 50. 3. R. magnicalcar ^k1
 
----
+**1′.** Stem elongated, leaves more or less well spaced along the stem → [[#^k2|2]]
 
-2. Labellum divided into 4 lobes ..... 50. 1. R. bilobatum
-2'. Labellum not as above ..... 3
-3. Spur sacciform, shorter than the pedicel and ovary, obtuse ..... 50. 2. R. densiflorum
-3'. Spur narrowly conical, acute, longer than the pedicel and ovary ..... 50. 4. R. rutilum
+**2.** Labellum divided into 4 lobes → 50. 1. R. bilobatum ^k2
+
+**2′.** Labellum not as above → [[#^k3|3]]
+
+**3.** Spur sacciform, shorter than the pedicel and ovary, obtuse → 50. 2. R. densiflorum ^k3
+
+**3′.** Spur narrowly conical, acute, longer than the pedicel and ovary → 50. 4. R. rutilum
+
 
 ## Species in region
 

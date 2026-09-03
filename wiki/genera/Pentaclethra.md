@@ -31,14 +31,13 @@ TYPE SPECIES: P. filamentosa Benth.
 
 This tropical genus is American and African. Two species are present in the Cameroon-Congo domain.
 
-1. Leaflets broad; staminodes as long as the stamens; legume 50 cm long ..... 1. P. macrophylla.
-
-1'. Leaflets very narrow; staminodes longer than the stamens; legume 25 cm long ..... 2. P. eetveldeana.
-
 ## Key to the species
 
-1. Leaflets broad ; staminodes as long as the stamens ; pod 50 cm long ..... 1. P. macrophylla.
-1'. Leaflets very narrow ; staminodes longer than the stamens ; pod 25 cm long ..... 2. P. eetveldeana.
+
+**1.** Leaflets broad ; staminodes as long as the stamens ; pod 50 cm long → [[Pentaclethra_macrophylla\|*P. macrophylla*]] ^k1
+
+**1′.** Leaflets very narrow ; staminodes longer than the stamens ; pod 25 cm long → [[Pentaclethra_eetveldeana\|*P. eetveldeana*]]
+
 
 ## Species in region
 

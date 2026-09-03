@@ -26,9 +26,9 @@ tags: [species, generated]
 
 ## Description
 
-Perennial herbs reaching 1 m tall. Sheaths glabrous, more or less flattened laterally, marked by the prolongation of the midvein of the blade. The latter up to $ 15 \times 2 $ cm, lanceolate, rounded and subamplexicaul at the base, often colored violet.
+Perennial herbs reaching 1 m tall. Sheaths glabrous, more or less flattened laterally, marked by the prolongation of the midvein of the blade. The latter up to 15 × 2 cm, lanceolate, rounded and subamplexicaul at the base, often colored violet.
 
-Inflorescences in loose panicles reaching about twenty centimeters long, with long branches first erect then spreading. Spikelets elongate, $ 8–12 \times 3 $ mm, with 8–15 flowers or more. Glumes $ 2 $ mm long, with scabrous keels, mucronate, with $ 3 $ nerves. Lemmas similar, with $ 7–9 $ nerves, rounded-emarginate and mucronate at the apex. Paleas somewhat shorter, bicarinate, scabrous on the keels and emarginate at the apex. Achenes brown, longitudinally wrinkled.
+Inflorescences in loose panicles reaching about twenty centimeters long, with long branches first erect then spreading. Spikelets elongate, 8–12 × 3 mm, with 8–15 flowers or more. Glumes 2 mm long, with scabrous keels, mucronate, with 3 nerves. Lemmas similar, with 7–9 nerves, rounded-emarginate and mucronate at the apex. Paleas somewhat shorter, bicarinate, scabrous on the keels and emarginate at the apex. Achenes brown, longitudinally wrinkled.
 
 Common species in the forested zones of inter-tropical Africa; also known from Madagascar. Plant of the forest understory and fallow forest land, frequent in particular in coastal thicket.
 

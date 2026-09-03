@@ -23,7 +23,7 @@ Shrub glabrous, 3-4 m tall. Internodes sometimes with myrmecodomata, rather slen
 
 Flowers solitary, rarely in threes, with a well-defined peduncle (1)2-3.5 cm long, bearing 3 triangular acute bracteoles situated at the base of the ovary; the peduncle is preceded by a leaf and by an internode 1-2 cm long. Calyx glabrous with prismatic tube 12-17 mm tall and 5 linear lobes 15-60 mm long, about 1 mm wide at the axis forming a longitudinal fold. Corolla in bud with acute apex, densely pubescent with golden-ochraceous indumentum when dry, lobes overlapping to the left; the tube exceeds 8 cm in length in its narrow part (Hédin 1230 A).
 
-Fruit elliptic smooth (or very faintly rugose when dry) reddish-brown in herbarium, green in vivo, $ 4-6 \times 3-4 $ cm below the calyx tube, with persistent bracteoles $ \pm $ tiered at the base. Calyx lobes persistent at least before maturity. Fruit wall 2-3 mm thick including the very thin endocarp. Seeds numerous packed in the transverse direction, reaching in vivo 10 × 10 × 3 mm. Embryo 6 mm.
+Fruit elliptic smooth (or very faintly rugose when dry) reddish-brown in herbarium, green in vivo, 4-6 × 3-4 cm below the calyx tube, with persistent bracteoles ± tiered at the base. Calyx lobes persistent at least before maturity. Fruit wall 2-3 mm thick including the very thin endocarp. Seeds numerous packed in the transverse direction, reaching in vivo 10 × 10 × 3 mm. Embryo 6 mm.
 
 ## Type
 

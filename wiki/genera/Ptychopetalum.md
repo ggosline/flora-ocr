@@ -47,10 +47,11 @@ cylindrical branchlets.
 
 ## Key to the varieties
 
-1. Flowers solitary on the inflorescence axis →
-   **[[Ptychopetalum_petiolatum_var_petiolatum|var. petiolatum]]**
-1'. Flowers grouped in a fascicle on the inflorescence axis →
-   **[[Ptychopetalum_petiolatum_var_paniculatum|var. paniculatum]]**
+
+**1.** Flowers solitary on the inflorescence axis → **[[Ptychopetalum_petiolatum_var_petiolatum|var. petiolatum]]** ^k1
+
+**1′.** Flowers grouped in a fascicle on the inflorescence axis → **[[Ptychopetalum_petiolatum_var_paniculatum|var. paniculatum]]**
+
 
 ## Species in Gabon
 

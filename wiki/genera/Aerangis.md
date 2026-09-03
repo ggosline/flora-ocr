@@ -21,46 +21,21 @@ Stem shortened, short. Leaves distichous, spreading, unequally bilobed, lobes ge
 
 Genus of approximately 50 species in Africa, Madagascar, Comoros and Sri Lanka; approximately half of them are present on the African continent.
 
-1. Gynosteme 30-40 mm, rostellum remnants truncate ..... 45. 1. A. gracillima
-
-1'. Gynosteme much shorter, rostellum remnants apiculate ..... 2
-
-2. Spur < 4 cm or, if it reaches this length, the apex is curved into a hook ..... 45. 4. A. calantha
-
-2'. Spur more than 4 cm, straight or only slightly curved ..... 3
-
-3. Flowers well spaced 3-5 cm along the inflorescence axis ..... 45. 2. A. arachnopus
-
-3'. Flowers more or less crowded, never distant more than 3 cm from one another ..... 45. 3. A. biloba
-
-### Subgenus Barombia
-
-Gynosteme slender, elongate, much longer than the stigma, slightly shorter than the tepals. Rostellum narrowly ligulate. Rostellum remnants truncate.
-
----
-
-PL. 193. – Structure of the gynosteme of the genus Aerangis Rchb. f. : A, front view; B, lateral view; C, anther removed; D, rostellum remnant, front view; E, tegula and viscidium (A-E, ex SZLACHETKO, 2003).
-
----
-
 ## Key to the species
 
-1. Gynosteme 30–40 mm, rostellum remnants truncate ..... 45. 1. A. gracillima
-1'. Gynosteme much shorter, rostellum remnants apiculate ..... 2
-2. Spur < 4 cm or, if reaching this length, the tip curved into a hook ..... 45. 4. A. calantha
-2'. Spur more than 4 cm, straight or only slightly curved ..... 3
-3. Flowers well spaced 3–5 cm along the inflorescence axis ..... 45. 2. A. arachnopus
-3'. Flowers more or less crowded, never distant more than 3 cm from one another ..... 45. 3. A. biloba
 
-Subgenus Barombia
+**1.** Gynosteme 30–40 mm, rostellum remnants truncate → 45. 1. A. gracillima ^k1
 
-Gynosteme slender, elongate, much longer than the stigma, slightly shorter than the tepals. Rostellum narrowly ligulate. Rostellum remnants truncate.
+**1′.** Gynosteme much shorter, rostellum remnants apiculate → [[#^k2|2]]
 
-<<<---SECTION-BREAK--->>>
+**2.** Spur < 4 cm or, if reaching this length, the tip curved into a hook → 45. 4. A. calantha ^k2
 
-PL. 193. – Structure of the gynosteme of the genus Aerangis Rchb. f. : A, front view ; B, lateral view ; C, anther removed ; D, rostellum remnant, front view ; E, tegula and viscidium (A–E, ex SZLACHETKO, 2003).
+**2′.** Spur more than 4 cm, straight or only slightly curved → [[#^k3|3]]
 
-<<<---SECTION-BREAK--->>>
+**3.** Flowers well spaced 3–5 cm along the inflorescence axis → 45. 2. A. arachnopus ^k3
+
+**3′.** Flowers more or less crowded, never distant more than 3 cm from one another → 45. 3. A. biloba Subgenus Barombia Gynosteme slender, elongate, much longer than the stigma, slightly shorter than the tepals. Rostellum narrowly ligulate. Rostellum remnants truncate. <<<---SECTION-BREAK--->>> PL. 193. – Structure of the gynosteme of the genus Aerangis Rchb. f. : A, front view ; B, lateral view ; C, anther removed ; D, rostellum remnant, front view ; E, tegula and viscidium (A–E, ex SZLACHETKO, 2003). <<<---SECTION-BREAK--->>>
+
 
 ## Species in region
 

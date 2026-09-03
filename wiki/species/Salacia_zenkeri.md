@@ -68,7 +68,7 @@ Bot. Jahrb. 44: 192 (1910): KEAY & BLAKELOCK, FWTA, ed. 2, 1: 632 (1958).
 
 Arbuste (?) glabre, dépourvu de caoutchouc, à jeunes rameaux marqués assez densément de petites lenticelles. Feuilles opposées à pétiole de 3-5 mm. Limbe gris olivacé à brunâtre, brillant dessus, faiblement discolore, elliptique ± ové ou oblong, de 10-14 × 3,5-6 cm, à base aiguë ou subobtuse, à sommet brièvement acuminé, à marge subentière ou rebordée subdentée. Nervures secondaires 5-7 paires.
 
-Fascicules axillaires sessiles 6-flores. Pédicelle de 10-15 mm. Bouton globuleux court. Fleur de 18 mm de diamètre. Sépales inégaux, les externes deltoïdes arrondis, entiers, de  $ 2 \times 3 $ mm, les internes subsemi-orbiculaires, marginés, ± irrégulièrement déchirés, de  $ 3 \times 4 $ mm. Pétales de 6-8  $ \times $ 8-10 mm, subonguiculés. Disque étalé de 4-5 mm de diamètre. Étamines de 2 mm ; anthère à fente de déhiscence transversale presque orientée vers le haut. Pistil en courte pyramide avec le stigmate ponctiforme. Six ovules bisériés par loge.
+Fascicules axillaires sessiles 6-flores. Pédicelle de 10-15 mm. Bouton globuleux court. Fleur de 18 mm de diamètre. Sépales inégaux, les externes deltoïdes arrondis, entiers, de  2 × 3 mm, les internes subsemi-orbiculaires, marginés, ± irrégulièrement déchirés, de  3 × 4 mm. Pétales de 6-8  × 8-10 mm, subonguiculés. Disque étalé de 4-5 mm de diamètre. Étamines de 2 mm ; anthère à fente de déhiscence transversale presque orientée vers le haut. Pistil en courte pyramide avec le stigmate ponctiforme. Six ovules bisériés par loge.
 
 ## Figures
 

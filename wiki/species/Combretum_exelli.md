@@ -30,7 +30,7 @@ Scales, diameter ≤ 50 µm.
 
 Inflorescences axillary, very dense, in a panicle ≤ 8 cm ; peduncles 0.5–1.5 cm ; bracts scarcely visible.
 
-Flowers 4-merous, fragrant, with hairs and scales on the outer surface, not protogynous. Receptacle lower, 1.5–3 mm high, the upper one cream-coloured, weakly campanulate, 2–3 mm wide. Calyx with triangular lobes, 1 mm long, interior pubescent to subglabrous. Petals obcordate, $ 1.5 \times 0.5-1 $ mm, glabrous, whitish. Stamens : filaments 3–4 mm long ; anthers 0.4 mm long. Disk, bearing dense pubescence on its free margin, glabrous elsewhere. Style 2–2.5 mm (Pl. 10, 4, p. 39).
+Flowers 4-merous, fragrant, with hairs and scales on the outer surface, not protogynous. Receptacle lower, 1.5–3 mm high, the upper one cream-coloured, weakly campanulate, 2–3 mm wide. Calyx with triangular lobes, 1 mm long, interior pubescent to subglabrous. Petals obcordate, 1.5 × 0.5-1 mm, glabrous, whitish. Stamens : filaments 3–4 mm long ; anthers 0.4 mm long. Disk, bearing dense pubescence on its free margin, glabrous elsewhere. Style 2–2.5 mm (Pl. 10, 4, p. 39).
 
 Immature fruits winged, pale yellowish-green.
 

@@ -27,42 +27,17 @@ Female flower with similar glumelles, pubescent, tightly enrolled. Ovary glabrou
 
 Genus represented in Gabon, Cameroon, Ubangi and ex-Belgian Congo. Five species have been described, differentiated, for some, essentially by the shape of the leaves. We have not seen material for some of them. According to the descriptions given, some could be synonyms.
 
-1. Fertile culms and sterile culms separate.....
-
-P. Schumanniana Pilger (Cameroon).
-
-1'. Inflorescence at the apex of the leafy culms.
-
-2. Leaves elongate, 20–30 × 5–7 cm; terminal inflorescence
-
-elongate, 10–15 cm long... P. Dewevrei De Wild. (Congo).
-
-2'. Leaves oval-lanceolate, 25–30 × 10–20 cm; short terminal panicle; leaves ciliate on the margins..... 1. P. ciliata.
-
----
-
-52.1 ciliata
-
-52.2 olyriformis
-
-ROTTBOELLIA
-
-54.1 cochinchinensis
-
-### SACCIOLEPIS
-
-55.1 chevalieri
-
 ## Key to the species
 
-1. Fertile culms and sterile culms separated.....
 
-P. Schumanniana Pilger (Cameroon).
-1'. Inflorescence at the apex of leafy culms.
+**1.** Fertile culms and sterile culms separated → P. Schumanniana Pilger (Cameroon). ^k1
 
-2. Leaves elongate, 20-30 × 5-7 cm; terminal inflorescence elongate, 10-15 cm long... P. Dewevrei De Wild. (Congo).
+**1′.** Inflorescence at the apex of leafy culms.
 
-2'. Leaves ovate-lanceolate, 25-30 × 10-20 cm; terminal panicle short; leaves ciliate on the margins..... 1. P. ciliata.
+**2.** Leaves elongate, 20-30 × 5-7 cm; terminal inflorescence elongate, 10-15 cm long → P. Dewevrei De Wild. (Congo). ^k2
+
+**2′.** Leaves ovate-lanceolate, 25-30 × 10-20 cm; terminal panicle short; leaves ciliate on the margins → [[Puelia_ciliata\|*P. ciliata*]]
+
 
 ## Species in region
 

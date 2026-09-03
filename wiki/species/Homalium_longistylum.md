@@ -32,7 +32,7 @@ in OLIV., FTA 2 : 497 (1871) ; WARB., in ENGL. & PRANTL, NPF 3 (6a) : 36 (1893) 
 
 Tree (15–20 m, sometimes 30–40 m tall) ; young branches puberulent.
 
-Leaves with narrowly triangular stipules, $ 4 \times 1 $ mm, caducous ; petiole 5–10 mm long, glabrous ; blade broadly oblong to elliptic, sometimes ovate, rarely ovate-elliptic, cuneate at the base, shortly acuminate at the apex, $ 6–25 \times 3–15 $ cm, entire to coarsely dentate, subcoriaceous to coriaceous, glabrous ; secondary veins 6–10 pairs.
+Leaves with narrowly triangular stipules, 4 × 1 mm, caducous ; petiole 5–10 mm long, glabrous ; blade broadly oblong to elliptic, sometimes ovate, rarely ovate-elliptic, cuneate at the base, shortly acuminate at the apex, 6–25 × 3–15 cm, entire to coarsely dentate, subcoriaceous to coriaceous, glabrous ; secondary veins 6–10 pairs.
 
 Inflorescences in axillary or sub-terminal racemes, sometimes appearing paniculate due to leaf fall at fruiting time, 10–15–(20) cm long, with pubescent rachis. Flowers ordinarily solitary, rarely 2–(3) fascicled ; pedicel slender, 1.5–2 mm long ; calyx tube 1.5–2 mm long ; lobes subtriangular-ovate, 1.5 mm long at anthesis ; petals oblong-spatulate, (5)–6–8 × 3–3.5 mm, accrescent to 15 × 4 mm in the fruiting state. - Pl. 20, 1–6, p. 65.
 

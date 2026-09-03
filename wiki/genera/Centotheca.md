@@ -29,23 +29,13 @@ Three or more flowers; rachis of the spikelet prolonged above the last and beari
 
 Two species are known from Gabon; these are plants of understory or fallow forest areas, of no great practical interest.
 
-1. Spikelets flattened, with numerous flowers, 8 to 15 mm long. Lemmas glabrous; leaf laminae lanceolate, rounded and sub-amplexicaul at the base; 5 principal nerves on each side of the primary nerve..... 1. C. mucronata.
-
-1'. Spikelets with 2 or 3 flowers, at most 8 mm long. Lemmas of the upper flowers bearing hairs with tuberculate base; leaf laminae narrowed toward the base and subpetiolate; generally 4 principal nerves on each side of the primary nerve..... 2. C. lappacea.
-
-CHLORIS
-
-9.1 pilosa
-
-9.2 pycnothrix
-
-9.3 robusta
-
 ## Key to the species
 
-1. Spikelets flattened, many-flowered, 8 to 15 mm long. Lemmas glabrous; leaf blades lanceolate, rounded and sub-amplexicaul at the base; 5 main nerves on each side of the primary nerve..... 1. C. mucronata.
 
-1'. Spikelets with 2 or 3 flowers, at most 8 mm long. Lemmas of the upper flowers bearing hairs with tuberculate base; leaf blades narrowed toward the base and subpetiolate; generally 4 main nerves on each side of the primary nerve..... 2. C. lappacea.
+**1.** Spikelets flattened, many-flowered, 8 to 15 mm long. Lemmas glabrous; leaf blades lanceolate, rounded and sub-amplexicaul at the base; 5 main nerves on each side of the primary nerve → [[Centotheca_mucronata\|*C. mucronata*]] ^k1
+
+**1′.** Spikelets with 2 or 3 flowers, at most 8 mm long. Lemmas of the upper flowers bearing hairs with tuberculate base; leaf blades narrowed toward the base and subpetiolate; generally 4 main nerves on each side of the primary nerve → [[Centotheca_lappacea\|*C. lappacea*]]
+
 
 ## Species in region
 

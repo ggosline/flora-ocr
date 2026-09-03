@@ -19,7 +19,7 @@ tags: [species, generated]
 
 ## Description
 
-— Bull. Soc. Bot. Fr.,  $ 4^{e} $ sér., 2 : 93 (1902).
+— Bull. Soc. Bot. Fr.,  4ᵉ sér., 2 : 93 (1902).
 
 Slender herbaceous plant a few decimetres tall, with stem coiled in a spiral; leaves shortly petiolate, with blade 10-15 × 4-6 cm, lanceolate, asymmetric, long-acuminate at apex, attenuate at base, glabrous on upper surface except sometimes a few hairs on the primary vein; lower surface ± pubescent along the veins and sometimes also with scattered hairs on the blade. Membranous ligule reaching 4 cm long, slit laterally, the blade being more or less distinctly bilobed.
 
@@ -45,7 +45,7 @@ Gabon : 693 (coll.?), serres du Muséum. Duparquet : s.n. ni loc. Dybowski : 13,
 
 12 bis. Costus fissiligatus Gagnep. var. major Gagnep.
 
-— Bull. Soc. Bot. Fr.,  $ 4^{e} $ sér. 2 : 94 (1902).
+— Bull. Soc. Bot. Fr.,  4ᵉ sér. 2 : 94 (1902).
 
 Diffère du type de l'espèce par sa taille plus grande ainsi que par ses feuilles qui mesurent de 20 à 22 cm de long et de 4 à 6 cm de large.
 

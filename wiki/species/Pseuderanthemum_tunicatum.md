@@ -27,7 +27,7 @@ tags: [species, generated]
 
 ≡ Justicia tunicata Afzel., Remed. Guin. 3 : 17 (1814).
 
-$  \equiv  $ Pseuderanthemum nigritanum (T. Anders.) Radlk., Sitzb. math.-phys. Cl. k. bayer. Akad. Wiss. 13 : 286 (1883). — Hutch. et Dalz., F.W.T.A., ed. 1,2 : 608 (1936).
+≡ Pseuderanthemum nigritanum (T. Anders.) Radlk., Sitzb. math.-phys. Cl. k. bayer. Akad. Wiss. 13 : 286 (1883). — Hutch. et Dalz., F.W.T.A., ed. 1,2 : 608 (1936).
 
 Shrub 20–150 cm tall, with glabrous stems somewhat striate. Petioles 1–1.5 cm. Leaf blade elliptic 10–11 × 3.5–4.5 cm, acuminate; acumen rather elongate. 9–10 pairs of lateral veins.
 

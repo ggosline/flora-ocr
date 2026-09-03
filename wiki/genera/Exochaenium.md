@@ -59,28 +59,21 @@ Exochaenium: stigma papillose, entire; stamens included; seed with testa cells s
 
 B: Boutique (1972), Kissling (2012), Paiva & Nogueira (1990), Struwe & Pringle (2018).
 
-### Key to species
-
-1. - Plant without chlorophyll ............................................................................ E. oliganthum
-
-- Plant with chlorophyll ................................................................................................. 2
-
-2. - Corolla 20–35 mm in length; calyx 7–22 mm in length; leaves 5–40 ×
-
-2.5–13 mm ........................................................................................................ E. grande
-
-- Corolla 7–9 mm in length; calyx 3–5 mm in length; leaves 2–5 ×
-
-0.5–1.5 mm ................................................................................................ E. baumianum
-
 ## Key to the species
 
-1. - Plant without chlorophyll ............................................................................ E. oliganthum
-- Plant with chlorophyll ................................................................................................. 2
-2. - Corolla 20–35 mm in length; calyx 7–22 mm in length; leaves 5–40 ×
-2.5–13 mm ........................................................................................................ E. grande
-- Corolla 7–9 mm in length; calyx 3–5 mm in length; leaves 2–5 ×
-0.5–1.5 mm ................................................................................................ E. baumianum
+
+**1.** Plant without chlorophyll → [[Exochaenium_oliganthum\|*E. oliganthum*]] ^k1
+
+**1′.** Plant with chlorophyll → [[#^k2|2]]
+
+**2.** Corolla 20–35 mm in length; calyx 7–22 mm in length; leaves 5–40 × ^k2
+
+**2.** 5–13 mm → [[Exochaenium_grande\|*E. grande*]]
+
+**2′.** Corolla 7–9 mm in length; calyx 3–5 mm in length; leaves 2–5 ×
+
+**0.** 5–1.5 mm → [[Exochaenium_baumianum\|*E. baumianum*]] ^k0
+
 
 ## Species in region
 

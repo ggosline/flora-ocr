@@ -36,7 +36,7 @@ Shrub 2-4 m tall, exceeding 3 cm in diameter, lacking latex. Young branches smoo
 
 Axillary glomerules, sessile, 1-5-flowered. Pedicel variable, 4-7-22 mm, sometimes very slender. Bud subglobose, 2.5-4 mm in diameter. Flower wheel-shaped, pale yellow or salmon-yellow, sometimes pale green. Calyx 3.5 mm in diameter, with quincuncial, very unequal sepals, ± broadly rounded, the two outer smaller, the largest 2-2.5 mm wide, margin entire, narrowly rebordured above. Petals 5, ± reflexed, orbicular, subunguiculate, 2.5-3 × 3-4 mm, margin entire, narrowly rebordured above. Disc cushion-shaped, annular, finely crenate in apical view, bearing about thirty radiating striae above, diameter 1.9 mm, thickness 0.2 mm; perigynous groove deep, bearing 3 spaced filaments. Stamens about 1 mm long, lying on the disc at anthesis; anther 0.4 mm wide with transverse dehiscence line barely interrupted. Ovary paler than the disc and ± striolate with brown, style short and stigma punctiform; 3 locules, deeply positioned, each with 2 superposed ovules.
 
-Fruit ovoid or ± fusiform, smooth, lacking ribs, glaucous green before maturity, becoming orange or bright red, sometimes blotched with marblings, $ 3.5-7 \times 2.5-3.5 $ cm. Pericarp thin, $ 1 $ mm when dry. Seeds $ 2-5(6) $ per fruit; seed up to $ 3 \times 2 $ cm, cotyledons fused, white in section. - Pl. 20, fig. 10-14, p. 77 ; pl. 41, fig. 4-5, p. 143.
+Fruit ovoid or ± fusiform, smooth, lacking ribs, glaucous green before maturity, becoming orange or bright red, sometimes blotched with marblings, 3.5-7 × 2.5-3.5 cm. Pericarp thin, 1 mm when dry. Seeds 2-5(6) per fruit; seed up to 3 × 2 cm, cotyledons fused, white in section. - Pl. 20, fig. 10-14, p. 77 ; pl. 41, fig. 4-5, p. 143.
 
 ## Type
 

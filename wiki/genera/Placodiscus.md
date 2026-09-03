@@ -54,12 +54,17 @@ About fifteen species growing in tropical Africa from Guinea to the Central Afri
 
 ## Keyed but not treated
 
+
 The source key separates these species but the volume gives them no treatment, usually because they fall outside the area it covers in full. They are listed for identification; some are extralimital to the region.
 
-- *Placodiscus gimbiensis* — keyed in vol 23, not treated
-- *Placodiscus pseudostipularis* — keyed in vol 23, not treated
-- *Placodiscus resendeanus* — keyed in vol 23, not treated
-- *Placodiscus splendidus* — keyed in vol 23, not treated
+**—** *Placodiscus gimbiensis* — keyed in vol 23, not treated
+
+**—** *Placodiscus pseudostipularis* — keyed in vol 23, not treated
+
+**—** *Placodiscus resendeanus* — keyed in vol 23, not treated
+
+**—** *Placodiscus splendidus* — keyed in vol 23, not treated
+
 
 ## Treatments
 

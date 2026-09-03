@@ -44,9 +44,11 @@ Genus of 4 species, only two known from Gabon. It is very probable that the type
 
 ## Keyed but not treated
 
+
 The source key separates these species but the volume gives them no treatment, usually because they fall outside the area it covers in full. They are listed for identification; some are extralimital to the region.
 
-- *Poecilocalyx schumannii* — keyed in vol 12, not treated
+**—** *Poecilocalyx schumannii* — keyed in vol 12, not treated
+
 
 ## Treatments
 

@@ -30,17 +30,13 @@ Type of the genus: *Calochone acuminata* Keay.
 
 Two still poorly known and rare species from western equatorial Africa.
 
-### KEY TO SPECIES
-
-1. Calyx puberulent; corolla 3–6 cm diam.; vigorous branches with hairs approximately 1 mm long.....1. *C. acuminata*
-
-1'. Calyx hairy; corolla 2–3 cm diam.; rather slender branches with hairs approximately 2 mm long.....2. *C. Redingii*
-
 ## Key to the species
 
-1. Calyx pubescent; corolla 3-6 cm diam.; internodes vigorous with hairs approximately 1 mm long.....1. C. acuminata
 
-1'. Calyx villous; corolla 2-3 cm diam.; internodes rather slender with hairs approximately 2 mm long.....2. C. Redingii
+**1.** Calyx pubescent; corolla 3-6 cm diam.; internodes vigorous with hairs approximately 1 mm long → [[Calochone_acuminata\|*C. acuminata*]] ^k1
+
+**1′.** Calyx villous; corolla 2-3 cm diam.; internodes rather slender with hairs approximately 2 mm long → 2. C. Redingii
+
 
 ## Species in region
 

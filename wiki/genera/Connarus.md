@@ -55,9 +55,11 @@ We propose here three keys. The best identification requires complete material, 
 
 ## Keyed but not treated
 
+
 The source key separates these species but the volume gives them no treatment, usually because they fall outside the area it covers in full. They are listed for identification; some are extralimital to the region.
 
-- *Connarus longistipitatus* — keyed in vol 33, not treated
+**—** *Connarus longistipitatus* — keyed in vol 33, not treated
+
 
 ## Treatments
 

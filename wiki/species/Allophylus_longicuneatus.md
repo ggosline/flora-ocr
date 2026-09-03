@@ -22,7 +22,7 @@ tags: [species, generated]
 
 Shrub, 2–7 m, or tree, 15–20 m, monoecious. Leaves with limb remarkable for the wedge-shaped elongation of its base and for its slight thickness.
 
-Inflorescences branched, with 2 branches. Fruit red, ovoid, $ 7 \times 5 $ mm. PL. 8, 1–6, p. 45.
+Inflorescences branched, with 2 branches. Fruit red, ovoid, 7 × 5 mm. PL. 8, 1–6, p. 45.
 
 ## Type
 

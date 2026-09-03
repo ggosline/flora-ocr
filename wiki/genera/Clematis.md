@@ -57,17 +57,11 @@ section *Brachiatae* Snoeijer (Wang 2000).
 
 ## Key to species
 
-1. Inflorescence a **raceme**, composed of 1 terminal flower and 1–3 pairs of
-   opposite flowers; **sepals greenish yellow**, 3–5 cm long, glabrous within,
-   strongly **revolute at the apex**; leaflets ovate, with short and acute teeth;
-   carpels up to **250**; style **7–10(–12) cm** in fruit
-   → **[[Clematis_grandiflora|*C. grandiflora*]]**
-1. Inflorescence in cymes united into a raceme or more often into a **panicle**,
-   with 5 to many flowers; **sepals white**, 0.8–1.9(–2.4) cm long, ± densely
-   puberulent within, acute or slightly apiculate, **not reflexed at apex**;
-   leaflets coarsely lobed and dentate, sometimes entire; carpels **25–50**;
-   style **2–4(–6) cm** in fruit
-   → **[[Clematis_hirsuta|*C. hirsuta*]]** var. *hirsuta*
+
+**1.** Inflorescence a **raceme**, composed of 1 terminal flower and 1–3 pairs of opposite flowers; **sepals greenish yellow**, 3–5 cm long, glabrous within, strongly **revolute at the apex**; leaflets ovate, with short and acute teeth; carpels up to **250**; style **7–10(–12) cm** in fruit → **[[Clematis_grandiflora|*C. grandiflora*]]** ^k1
+
+**1.** Inflorescence in cymes united into a raceme or more often into a **panicle**, with 5 to many flowers; **sepals white**, 0.8–1.9(–2.4) cm long, ± densely puberulent within, acute or slightly apiculate, **not reflexed at apex**; leaflets coarsely lobed and dentate, sometimes entire; carpels **25–50**; style **2–4(–6) cm** in fruit → **[[Clematis_hirsuta|*C. hirsuta*]]** var. *hirsuta*
+
 
 ## Uses
 

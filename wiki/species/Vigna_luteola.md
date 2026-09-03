@@ -48,7 +48,7 @@ The description by Pellegrin (1949) and Raponda-Walker & Sillans (1961) of V. ob
 
 ![Vigna luteola](../sources/Millettiaspeciesfabaceae_vol49_liteparse/figures/fig_135_p0377.png)
 
-*Plate 127 : Vigna luteola : 1. Flowering and fruiting branch (× ½). – 2. Stipule (× 2). – 3. Detail of the venation of the leaflet (× 4). – 4. Axis of the inflorescence (× 1½). – 5. Nectaries on axis of the inflorescence (× 10). – 6. Inflorescence in bud (× 3). – 7. Bracteole (× 10). – 8. Bract (× 10). – 9. Calyx, open (× 1½). – 10. Flower, frontal and lateral view (× ½). – 11. Standard (×1½). – 12. Idem, detail of the base with callositiesties (× 2). – 13. Wing (× 2). – 14. Keel, view from above (× 2). – 15. Idem, lateral view (× 2). – 16.*
+*Plate 127 : Vigna luteola : 1. Flowering and fruiting branch (× ½). – 2. Stipule (× 2). – 3. Detail of the venation of the leaflet (× 4). – 4. Axis of the inflorescence (× 1½). – 5. Nectaries on axis of the inflorescence (× 10). – 6. Inflorescence in bud (× 3). – 7. Bracteole (× 10). – 8. Bract (× 10). – 9. Calyx, open (× 1½). – 10. Flower, frontal and lateral view (× ½). – 11. Standard (×1½). – 12. Idem, detail of the base with callosities (× 2). – 13. Wing (× 2). – 14. Keel, view from above (× 2). – 15. Idem, lateral view (× 2). – 16.*
 
 ## Notes
 

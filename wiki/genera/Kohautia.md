@@ -63,11 +63,15 @@ Only one species is known from Gabon. Other species should be sought among those
 
 ## Keyed but not treated
 
+
 The source key separates these species but the volume gives them no treatment, usually because they fall outside the area it covers in full. They are listed for identification; some are extralimital to the region.
 
-- *Kohautia coccinea* — keyed in vol 12, not treated
-- *Kohautia grandiflora* — keyed in vol 12, not treated
-- *Kohautia senegalensis* — keyed in vol 12, not treated
+**—** *Kohautia coccinea* — keyed in vol 12, not treated
+
+**—** *Kohautia grandiflora* — keyed in vol 12, not treated
+
+**—** *Kohautia senegalensis* — keyed in vol 12, not treated
+
 
 ## Treatments
 

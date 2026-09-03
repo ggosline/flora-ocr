@@ -23,49 +23,45 @@ Genus of Africa, Asia and Australia with 60 to 70 species, two of which (M. bals
 
 BIBLIOGRAPHY: Jeffrey (1967), Keraudren (1967), Keraudren-Aymonin (1975), Schaefer (2020), Schaefer & Renner (2010a, 2011a), Vogel (1990).
 
-1. - Leaf with 3 to 9 leaflets..... 2
-
-- Simple leaves, with entire or lobed blade..... 4
-
-2. - Leaf with 9 leaflets..... M. enneaphylla
-
-- Leaf with 3 to 5 leaflets..... 3
-
-3. - Male inflorescence included in a large bract; fruit covered with large hairs, without tubercles..... M. cissoides
-
-- Male inflorescence not included in a large bract; fruit glabrous, beset with conical tubercles..... M. gilgiana
-
-4. - Leaf blade coriaceous or subcoriaceous..... 5
-
-- Leaf blade chartaceous, papyraceous or membranous..... 7
-
-5. - Pedicel of the male flower winged; petals 2.5–3 cm long..... M. cabrae
-
-- Pedicel of the male flower not winged; petals ± 8 mm long (male flower unknown in M. breteleri)..... 6
-
 ## Key to the species
 
-1. - Leaf with 3 to 9 leaflets..... 2
-   - Simple leaves, with entire or lobed blade..... 4
-2. - Leaf with 9 leaflets..... M. enneaphylla
-   - Leaf with 3 to 5 leaflets..... 3
-3. - Male inflorescence included within a large bract; fruit covered with coarse hairs, without tubercles..... M. cissoides
-   - Male inflorescence not included within a large bract; fruit glabrous, bristling with conical tubercles..... M. gilgiana
-4. - Leaf blade coriaceous or subcoriaceous..... 5
-   - Leaf blade chartaceous, papyraceous or membranous..... 7
-5. - Pedicel of male flower winged; petals 2.5–3 cm long..... M. cabrae
-   - Pedicel of male flower not winged; petals ±8 mm long (male flower unknown in M. breteleri)..... 6
-6. - Fruit with 5 to 7 fleshy longitudinal ridges..... M. jeffreyana
-   - Fruit smooth, without fleshy ridges..... M. breteleri
-7. - Male flowers solitary..... M. charantia
-   - Male flowers in umbels..... 8
-8. - Anther with straight or slightly curved thecae..... M. multiflora
 
-   - Anther with flexuous thecae..... 9
+**1.** Leaf with 3 to 9 leaflets → [[#^k2|2]] ^k1
 
-9. - Sepals acuminate at the apex; anther with thecae folded once, glabrous; fruit ridged..... M. parvifolia
+**1′.** Simple leaves, with entire or lobed blade → [[#^k4|4]]
 
-   - Sepals obtuse at the apex; anther with thecae in inverted S-shape, ciliate on the margins; fruit densely spiny, with fleshy spines..... M. foetida
+**2.** Leaf with 9 leaflets → [[Momordica_enneaphylla\|*M. enneaphylla*]] ^k2
+
+**2′.** Leaf with 3 to 5 leaflets → [[#^k3|3]]
+
+**3.** Male inflorescence included within a large bract; fruit covered with coarse hairs, without tubercles → [[Momordica_cissoides\|*M. cissoides*]] ^k3
+
+**3′.** Male inflorescence not included within a large bract; fruit glabrous, bristling with conical tubercles → [[Momordica_gilgiana\|*M. gilgiana*]]
+
+**4.** Leaf blade coriaceous or subcoriaceous → [[#^k5|5]] ^k4
+
+**4′.** Leaf blade chartaceous, papyraceous or membranous → [[#^k7|7]]
+
+**5.** Pedicel of male flower winged; petals 2.5–3 cm long → [[Momordica_cabrae\|*M. cabrae*]] ^k5
+
+**5′.** Pedicel of male flower not winged; petals ±8 mm long (male flower unknown in M. breteleri) → [[#^k6|6]]
+
+**6.** Fruit with 5 to 7 fleshy longitudinal ridges → [[Momordica_jeffreyana\|*M. jeffreyana*]] ^k6
+
+**6′.** Fruit smooth, without fleshy ridges → [[Momordica_breteleri\|*M. breteleri*]]
+
+**7.** Male flowers solitary → [[Momordica_charantia\|*M. charantia*]] ^k7
+
+**7′.** Male flowers in umbels → [[#^k8|8]]
+
+**8.** Anther with straight or slightly curved thecae → [[Momordica_multiflora\|*M. multiflora*]] ^k8
+
+**8′.** Anther with flexuous thecae → [[#^k9|9]]
+
+**9.** Sepals acuminate at the apex; anther with thecae folded once, glabrous; fruit ridged → [[Momordica_parvifolia\|*M. parvifolia*]] ^k9
+
+**9′.** Sepals obtuse at the apex; anther with thecae in inverted S-shape, ciliate on the margins; fruit densely spiny, with fleshy spines → [[Momordica_foetida\|*M. foetida*]]
+
 
 ## Species in region
 

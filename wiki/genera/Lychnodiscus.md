@@ -44,10 +44,13 @@ RADLKOFER described 6 species growing from Cameroon to Zaïre; AUBRÉ-VILLE & PE
 
 ## Keyed but not treated
 
+
 The source key separates these species but the volume gives them no treatment, usually because they fall outside the area it covers in full. They are listed for identification; some are extralimital to the region.
 
-- *Lychnodiscus dananensis* — keyed in vol 23, not treated
-- *Lychnodiscus reticulatus* — keyed in vol 23, not treated
+**—** *Lychnodiscus dananensis* — keyed in vol 23, not treated
+
+**—** *Lychnodiscus reticulatus* — keyed in vol 23, not treated
+
 
 ## Treatments
 

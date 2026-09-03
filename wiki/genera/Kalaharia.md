@@ -29,16 +29,13 @@ B: Baillon (1891), Bamps (2013), Verdcourt (1992).
 
 Bibliography
 
-### Key to species
-
-1. - Prostrate and creeping geofrutex; calyx 5–6 mm long; corolla subactinomorphic, yellow; stamens not exserted beyond the corolla lobes .................. K. schaijesii
-
-- Erect bushy shrub or shrublet; calyx 8–9 mm long; corolla zygomorphic, scarlet to orange-red; stamens long exserted beyond the corolla lobes ................................................................................................ K. uncinata
-
 ## Key to the species
 
-1. - Prostrate and trailing geofrutex; calyx 5–6 mm long; corolla subactinomorphic, yellow; stamens not exserted beyond the corolla lobes .................. K. schaijesii
-- Erect bushy shrub or small tree; calyx 8–9 mm long; corolla zygomorphic, scarlet to red-orange; stamens long-exserted beyond the corolla lobes ................................................................................................ K. uncinata
+
+**1.** Prostrate and trailing geofrutex; calyx 5–6 mm long; corolla subactinomorphic, yellow; stamens not exserted beyond the corolla lobes → [[Kalaharia_schaijesii\|*K. schaijesii*]] ^k1
+
+**1′.** Erect bushy shrub or small tree; calyx 8–9 mm long; corolla zygomorphic, scarlet to red-orange; stamens long-exserted beyond the corolla lobes → [[Kalaharia_uncinata\|*K. uncinata*]]
+
 
 ## Species in region
 

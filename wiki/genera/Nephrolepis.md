@@ -22,15 +22,11 @@ Type species: Nephrolepis exaltata (L.) Schott.
 
 About thirty pantropical species.
 
-1. Sori rounded.
+## Key to the species
 
-2. Indusium with narrow sinus, opening toward the margin of the pinna; pinnae generally more than 1 cm wide; fronds reaching 2 m.
 
-1. N. biserrata.
+**1′.** Sori elongate, uniting several veins, or continuous all around the pinnae → [[Nephrolepis_acutifolia\|*N. acutifolia*]]
 
-2'. Indusium with wide sinus, opening toward the apex of the pinna; pinnae narrow..... 2. N. undulata.
-
-1'. Sori elongate, joining several veins, or continuous all around the pinnae..... 3. N. acutifolia.
 
 ## Species in region
 

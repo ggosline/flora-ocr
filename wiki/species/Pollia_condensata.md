@@ -54,7 +54,7 @@ sence of nutritional value. The berries are sometimes found in bird nests, which
 
 ![Pollia condensata](../sources/Commelinaceae_vol55_liteparse/figures/fig_044_p0083.png)
 
-*Plate 25 . Pollia condensata : 1. General appearance (× ½). – 2. Part of the inflorescence (×2). – 3. Flower, lateral view (× 2). – 4. Idem, frontal view (× 2). – 5. Stamens and gynoecium (× 4½). – 6. Ovary, transverse section (× 9). – 7. Fruit, surrounded by sepals (× 2½). – 8. Seed (× 7). (1-8 : de Witte 1655 ). Drawing by A. Cleuter, Meise Botanic Garden (©).*
+*PL. 25. Pollia condensata: 1. General appearance (× ½). – 2. Part of the inflorescence (× 2). – 3. Flower, lateral view (× 2). – 4. Idem, frontal view (× 2). – 5. Stamens and gynoecium (× 4½). – 6. Ovary, transverse section (× 9). – 7. Fruit, surrounded by sepals (× 2½). – 8. Seed (× 7). (1-8 : de Witte 1655 ). Drawing by A. Cleuter, Meise Botanic Garden (©).*
 
 ## Notes
 

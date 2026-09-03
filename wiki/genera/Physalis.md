@@ -59,24 +59,13 @@ Bibliography
 
 ---
 
-### Key to species
-
-1. - Calyx in flower < 5 mm in length, lobes < 3 mm in length; plant glabrescent to
-
-sparsely pubescent; corolla white, cream to yellow-orange or pale purple with
-
-internal face spotted with pale green or brown at the centre .................... P. angulata
-
-- Calyx in flower 5–10 mm in length, lobes 3.5–6 mm in length; plant strongly
-
-pubescent; corolla yellow or yellowish-green with internal face with 5 large
-
-dark spots at the centre ............................................................................ P. peruviana
-
 ## Key to the species
 
-1. - Calyx in flower < 5 mm in length, with lobes < 3 mm in length; plant glabrescant to sparsely pubescent; corolla white, cream to yellow-orange or pale purple with pale green or brown spots on the internal face at the center .................... P. angulata
-- Calyx in flower 5–10 mm in length, with lobes 3.5–6 mm in length; plant strongly pubescent; corolla yellow or yellowish-green with 5 large dark spots on the internal face at the center ............................................................................ P. peruviana
+
+**1.** Calyx in flower < 5 mm in length, with lobes < 3 mm in length; plant glabrescant to sparsely pubescent; corolla white, cream to yellow-orange or pale purple with pale green or brown spots on the internal face at the center → [[Physalis_angulata\|*P. angulata*]] ^k1
+
+**1′.** Calyx in flower 5–10 mm in length, with lobes 3.5–6 mm in length; plant strongly pubescent; corolla yellow or yellowish-green with 5 large dark spots on the internal face at the center → [[Physalis_peruviana\|*P. peruviana*]]
+
 
 ## Species in region
 

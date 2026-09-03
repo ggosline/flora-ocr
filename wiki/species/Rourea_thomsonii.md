@@ -37,11 +37,11 @@ Leaves. Petiole 2.5–11 cm long, rachis 2–26 cm, petiolules 3–6 mm; leaflet
 
 PL. 43. – Rourea thomsonii (Baker) Jongkind: 1, 2, leaflets × 2/3; 3, 4, young branch × 2/3; 5, flower × 4; 6, connate petals × 4; 7, stamens and carpels of long-styled flower × 10; 8, carpels × 10; 9, 10, fruits × 2/3; follicle open, view × 2/3; 11, ventral, 12, dorsal and 13, lateral; 14, seed × 2/3; 15, seed viewed from above showing hilum surrounded by sarcotesta × 2/3; 16, seed, transverse section × 2/3; 17, cotyledon, inner face with ventral radicle × 2/3. (1–2. Leeuwenberg 11312; 3. Hart 214; 4–8. de Koning 6497; 9. de Wilde 8382; 10. Leeuwenberg 9471; 11–17. Breteler & de Wilde 803). – Taken from AUWP 89 (6).
 
-taceous to finely coriaceous, pubescent to glabrous, 4–11 pairs of large lateral nerves, all nerves generally prominent beneath, the III nerves forming a pattern of almost parallel lines; apex acuminate, mucronate; terminal leaflet $7.7–21 \times 2–11$ cm, the lateral ones $5–20 \times 1.5–9$ cm, almost symmetrical.
+taceous to finely coriaceous, pubescent to glabrous, 4–11 pairs of large lateral nerves, all nerves generally prominent beneath, the III nerves forming a pattern of almost parallel lines; apex acuminate, mucronate; terminal leaflet 7.7–21 × 2–11 cm, the lateral ones 5–20 × 1.5–9 cm, almost symmetrical.
 
 Inflorescences ≤18 cm long, often 1 or more together at the apex of a leafy branch simulating a terminal inflorescence, glabrous or pubescent. Pedicel 1–8 mm long above the articulation.
 
-Flowers. Sepals $1.5–3.5 \times 1–2$ mm, interior almost glabrous. Petals $6–11 \times 1–2.5$ mm, coherent near the base, rolled in the bud, apex acute. Stamens, the large ones $1.5–6$ mm long, the short ones $1–5$ mm. Pistil $1–5$ mm long; style with a few hairs; ovary pubescent.
+Flowers. Sepals 1.5–3.5 × 1–2 mm, interior almost glabrous. Petals 6–11 × 1–2.5 mm, coherent near the base, rolled in the bud, apex acute. Stamens, the large ones 1.5–6 mm long, the short ones 1–5 mm. Pistil 1–5 mm long; style with a few hairs; ovary pubescent.
 
 Fruits: follicles, 1 per flower, sometimes more, 20–45 × 10–25 mm, symmetrical with rounded apex or oblique with acute apex, glabrous; dehiscence by a ventral suture. Sepals below the fruit 2–3 × 2–4 mm, often wider than long.
 

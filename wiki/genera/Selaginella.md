@@ -22,67 +22,37 @@ Type species: Selaginella spinosa Pal.
 
 Cosmopolitan, approximately 800 species.
 
-### KEY TO SPECIES (cf. add. p. 25)
-
-1. Stems coiled or climbing; rhizophores dorsal or ventral.
-
-2. Stems coiled, not articulate..... 1. S. myosurus.
-
-2'. Stems climbing, articulate..... 2. S. grallipes.
-
-1'. Stems erect or prostrate; rhizophores ventral.
-
-3. Stems pubescent, erect; ramose part frond-shaped, with triangular outline..... 3. S. Vogelii.
-
-3'. Stems glabrous.
-
-4. Stems erect, not divided from the base.
-
-5. Presence of soboles, lateral leaves serrulate, bearing 2 false nerves, contiguous on the stem..... 4. S. versicolor.
-
-5'. No soboles; lateral leaves ciliolate at the base, spaced approximately 10 times their width on the stem..... 5. S. leoneensis.
-
-4'. Stems prostrate, generally divided from the base, rhizophores at the nodes.
-
-6. Stems often orange-coloured; lateral leaves often reflexed and coiled; median leaves obovate; microspores whitish..... 6. S. Soyauxii.
-
-6'. Stems pale straw-coloured; microspores vermillion en masse.
-
-7. Sporophylls uniform; median leaves acuminate, serrulate..... 7. S. cathedrifolia.
-
-7'. Sporophylls dimorphic; median leaves acuminate-aristate..... 8. S. molliceps.
-
 ## Key to the species
 
-1. Stems twining or climbing; rhizophores dorsal or ventral.
 
-2. Stems twining, not articulate..... 1. S. myosurus.
+**1.** Stems twining or climbing; rhizophores dorsal or ventral. ^k1
 
-2'. Stems climbing, articulate..... 2. S. grallipes.
+**2.** Stems twining, not articulate → *S. myosurus* ^k2
 
-1'. Stems erect or creeping; rhizophores ventral.
+**2′.** Stems climbing, articulate → [[Selaginella_grallipes\|*S. grallipes*]]
 
-3. Stems pubescent, erect; ramose portion frond-shaped, triangular in outline..... 3. S. Vogelii.
+**1′.** Stems erect or creeping; rhizophores ventral.
 
-3'. Stems glabrous.
+**3.** Stems pubescent, erect; ramose portion frond-shaped, triangular in outline → 3. S. Vogelii. ^k3
 
-4. Stems erect, not divided from the base.
+**3′.** Stems glabrous.
 
-5. Presence of soboles, lateral leaves serrulate, bearing 2 false veins, contiguous on the stem..... 4. S. versicolor.
+**4.** Stems erect, not divided from the base. ^k4
 
-5'. No soboles; lateral leaves ciliolate at the base, spaced approximately 10 times their width on the stem..... 5. S. leoneensis.
+**5.** Presence of soboles, lateral leaves serrulate, bearing 2 false veins, contiguous on the stem → [[Selaginella_versicolor\|*S. versicolor*]] ^k5
 
----
+**5′.** No soboles; lateral leaves ciliolate at the base, spaced approximately 10 times their width on the stem → [[Selaginella_leoneensis\|*S. leoneensis*]]
 
-4'. Stems prostrate, generally divided from the base, rhizophores at the nodes.
+**4′.** Stems prostrate, generally divided from the base, rhizophores at the nodes.
 
-6. Stems often orange in colour; lateral leaves often reflexed and twining; median leaves obovate; microspores whitish..... 6. S. Soyauxii.
+**6.** Stems often orange in colour; lateral leaves often reflexed and twining; median leaves obovate; microspores whitish → 6. S. Soyauxii. ^k6
 
-6'. Stems straw-coloured, pale; microspores vermillion in mass.
+**6′.** Stems straw-coloured, pale; microspores vermillion in mass.
 
-7. Sporophylls uniform; median leaves acuminate, serrulate..... 7. S. cathedrifolia.
+**7.** Sporophylls uniform; median leaves acuminate, serrulate → [[Selaginella_cathedrifolia\|*S. cathedrifolia*]] ^k7
 
-7'. Sporophylls dimorphous; median leaves acuminate-aristate..... 8. S. molliceps.
+**7′.** Sporophylls dimorphous; median leaves acuminate-aristate → [[Selaginella_molliceps\|*S. molliceps*]]
+
 
 ## Species in region
 

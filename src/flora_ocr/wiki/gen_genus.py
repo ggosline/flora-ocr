@@ -165,10 +165,15 @@ def diagnosis_text(body: str, limit: int = 2500) -> str:
 # which silently cut 311 keys in half -- Pararistolochia's stopped at lead 3.
 # The key is not prose to be summarised: a half key is useless, so it is pulled
 # out whole into its own section, which is what the wiki schema asks for.
+# The heading is usually a markdown sub-heading -- "### Key to species" -- so
+# the optional #-prefix matters: without it 92 keys stayed inside the diagnosis,
+# Diospyros's 38-lead key among them. The wording varies ("Key to species",
+# "KEY TO SPECIES AND VARIETIES", "Cle de determination"), so the tail is loose.
 KEY_HEADING_RE = re.compile(
-    r"^\s*(?:CL[EÉ]S?\s+DES\s+ESP[EÈ]CES|KEY\s+TO\s+THE\s+SPECIES|"
-    r"CL[EÉ]\s+DE\s+D[EÉ]TERMINATION|KEY\s+TO\s+SPECIES)\b.*$", re.I | re.M)
-KEY_LEAD_RE = re.compile(r"^\s*1\s*[.\-]\s*[-–—]?\s*\S.*\.{4,}", re.M)
+    r"^\s*#{0,6}\s*(?:CL[EÉ]F?S?\s+(?:DES\s+ESP[EÈ]CES|DE\s+D[EÉ]TERMINATION)"
+    r"|KEY\s+TO\s+(?:THE\s+)?(?:SPECIES|SUBGENERA|SECTIONS|VARIETIES|GENERA)"
+    r"[A-Z ]*)\b.*$", re.I | re.M)
+KEY_LEAD_RE = re.compile(r"^\s*1\s*['’]?\s*[.\-)]\s*[-–—]?\s*\S.*\.{4,}", re.M)
 
 
 def split_key(text: str) -> tuple[str, str]:

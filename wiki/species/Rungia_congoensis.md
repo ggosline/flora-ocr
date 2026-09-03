@@ -46,7 +46,7 @@ A. Walker : s. n., Saint-Martin, Haute-Ngounié (fl. et fr. mars 1938).
 
 EXPLICATION DE LA PLANCHE XLIV, fig. 12-21 :
 
-12, sommité florifère et fructifère; 13, bractée de  $ 6 \times 6 $ mm; 14, bractéole de  $ 3.5 \times 0.75 $ mm; 15, calice avec le plus grand sépale de  $ 3.5 $ mm de long; 16, corolle de  $ 5.5 $ mm de haut; 17, corolle ouverte; 18, anthère à loge supérieure de  $ 0.75 $ mm, et loge inférieure de  $ 1 $ mm de long; 19, pistil (disque de  $ 0.4 $ mm, ovaire de  $ 0.75 $ mm de haut, style de  $ 2.25 $ mm de long); 20, fruit après déhiscence, de  $ 7.5 $ mm d'envergure; 21, graine de  $ 1 \times 0.8 \times 0.3 $ mm. — 12-21, Walker s. n. (mars 1938).
+12, sommité florifère et fructifère; 13, bractée de  6 × 6 mm; 14, bractéole de  3.5 × 0.75 mm; 15, calice avec le plus grand sépale de  3.5 mm de long; 16, corolle de  5.5 mm de haut; 17, corolle ouverte; 18, anthère à loge supérieure de  0.75 mm, et loge inférieure de  1 mm de long; 19, pistil (disque de  0.4 mm, ovaire de  0.75 mm de haut, style de  2.25 mm de long); 20, fruit après déhiscence, de  7.5 mm d'envergure; 21, graine de  1 × 0.8 × 0.3 mm. — 12-21, Walker s. n. (mars 1938).
 
 29. ASCO THECA Heine, gen. nov.
 
@@ -74,9 +74,9 @@ Plante vivace ayant jusqu'à 1 m de hauteur, à rameaux jeunes et pétioles couv
 
 Inflorescences terminales et axillaires en épis fréquemment branchus jusqu'à trois fois, à pédoncule de 3-6 cm; les épis des rameaux supérieurs sont brièvement pédonculés ou sessiles, longs de 4-10 cm. Bractées imbriquées, obcordées, avec une petite pointe, fimbriées-ciliées à la marge, longues de 9 mm, larges de 2 mm à la base, et de 8 mm au tiers supérieur, munies de poils multicellulaires fins, glanduleux, fréquemment brunâtres; bractéoles hyalines, de 7 × 2 mm, couvertes du même indument. Sépales au nombre de 5, linéaires, hyalins, de 7 × 0,75 mm, couverts du même indument. Corolle blanche-jaunâtre tachée de violet, à tube subcylindrique, de 9 × 1,5 mm; lèvre supérieure
 
-de  $ 3 \times 2 $ mm, acuminée, entière; lèvre inférieure de  $ 3,5 $ mm de diamètre, très faiblement trilobée. 2 étamines; loges d'anthères longues de  $ 1 $ mm et insérées à des hauteurs inégales, l'inférieure longuement éperonnée; filet libre sur  $ 2 $ mm. Disque de  $ 0,5 $ mm; ovaire long de  $ 1 $ mm, presque glabre; style de  $ 7 $ mm, subglabre, un peu pubescent vers la base.
+de  3 × 2 mm, acuminée, entière; lèvre inférieure de  3,5 mm de diamètre, très faiblement trilobée. 2 étamines; loges d'anthères longues de  1 mm et insérées à des hauteurs inégales, l'inférieure longuement éperonnée; filet libre sur  2 mm. Disque de  0,5 mm; ovaire long de  1 mm, presque glabre; style de  7 mm, subglabre, un peu pubescent vers la base.
 
-Capsule de  $ 10 \times 3 $ mm, poilue, à cloisons déhiscentes. Graines de  $ 1,5 $ mm de diamètre, brunes, fréquemment verruculeuses de façon dense; rétinacle de  $ 1 $ mm de long, droit.
+Capsule de  10 × 3 mm, poilue, à cloisons déhiscentes. Graines de  1,5 mm de diamètre, brunes, fréquemment verruculeuses de façon dense; rétinacle de  1 mm de long, droit.
 
 ## Source note
 

@@ -27,34 +27,21 @@ Bibliography: De la Estrella et al. (2010), Hawthorne & Jongkind (2006), Pellegr
 
 ---
 
-### Key to species
-
-1. - Leaflets with limb rust-pubescent or sometimes silvery beneath .......................................... 2
-
-- Leaflets with limb glabrous ................................................................................................... 3
-
-2. - Leaflets with limb with sunken nervures on upper face; stipelles present, subulate; pod wings 7–10 mm wide; bracts large, 1–1.5 cm in length ......................................................................................................... A. impressa
-
-- Leaflets with limb without sunken nervures; stipelles absent; pod wings 2–3 mm wide; bracts small, 1 mm in length (to be searched for in Gabon) A. stuhlmannii
-
-3. - Leaflets with obovate-oblong limb, slightly attenuate at base, very glossy; stipelles absent; bracts narrowly-lanceolate, not covering the young floral bud; corolla ± 1 cm in length; pod wings 3–7 mm wide .................. A. lucida
-
-- Leaflets with ovate-oblong to elliptic-oblong limb, rounded or subcordate at base; stipelles present; bracts ovate-lanceolate, concave, covering the young floral bud, subsequently caducous; corolla ± 2 cm in length; pod wings 7–10 mm wide ........................................................................................................... A. gabonica
-
 ## Key to the species
 
-1. - Leaflets with roux-pubescent or sometimes silvery lamina beneath .......................................... 2
-- Leaflets with glabrous lamina ................................................................................................... 3
-2. - Leaflets with lamina bearing sunken nerves on the upper surface ; stipels present,
-subulate ; pod wings 7–10 mm wide ; bracts large, 1–1.5 cm long ......................................................................................................... A. impressa
-- Leaflets with lamina without sunken nerves ; stipels absent ; pod wings 2–3 mm
-wide ; bracts small, 1 mm long (to be sought in Gabon) A. stuhlmannii
-3. - Leaflets with obovate-oblong lamina, slightly attenuate at the base, very glossy ; stipels
-absent ; bracts narrowly lanceolate, not covering the young flower bud ;
-corolla ± 1 cm long ; pod wings 3–7 mm wide .................. A. lucida
-- Leaflets with ovate-oblong to elliptic-oblong lamina, rounded or subcordate at the base ;
-stipels present ; bracts ovate-lanceolate, concave, covering the young flower bud,
-subsequently caducous ; corolla ± 2 cm long ; pod wings 7–10 mm wide ........................................................................................................... A. gabonica
+
+**1.** Leaflets with roux-pubescent or sometimes silvery lamina beneath → [[#^k2|2]] ^k1
+
+**1′.** Leaflets with glabrous lamina → [[#^k3|3]]
+
+**2.** Leaflets with lamina bearing sunken nerves on the upper surface ; stipels present, subulate ; pod wings 7–10 mm wide ; bracts large, 1–1.5 cm long → [[Aganope_impressa\|*A. impressa*]] ^k2
+
+**2′.** Leaflets with lamina without sunken nerves ; stipels absent ; pod wings 2–3 mm wide ; bracts small, 1 mm long (to be sought in Gabon) A. stuhlmannii
+
+**3.** Leaflets with obovate-oblong lamina, slightly attenuate at the base, very glossy ; stipels absent ; bracts narrowly lanceolate, not covering the young flower bud ; corolla ± 1 cm long ; pod wings 3–7 mm wide → [[Aganope_lucida\|*A. lucida*]] ^k3
+
+**3′.** Leaflets with ovate-oblong to elliptic-oblong lamina, rounded or subcordate at the base ; stipels present ; bracts ovate-lanceolate, concave, covering the young flower bud, subsequently caducous ; corolla ± 2 cm long ; pod wings 7–10 mm wide → [[Aganope_gabonica\|*A. gabonica*]]
+
 
 ## Species in region
 

@@ -35,25 +35,17 @@ B: Hepper (1963), Mielcarek (1996), Philcox (1990).
 
 Bibliography
 
-### Key to species
-
-1. - Inflorescence cylindrical, lax, little branched, 7–25 cm in length
-
-........................................................................................................... B. leptostachya
-
-- Inflorescence globose, dense, up to 4.5 cm in length ................................ 2
-
-2. - Calyx lobes equal; bracts acuminate at the apex; corolla whitish to yellowish, with tube of ± 3.5 mm in length ................................................ B. capitata
-
-- Calyx lobes unequal; bracts acute at the apex; corolla mauve to violet-blue, with tube of ± 10 mm in length .......................................... B. paucidentata
-
 ## Key to the species
 
-1. - Inflorescence cylindric, lax, little branched, 7–25 cm in length
-........................................................................................................... B. leptostachya
-- Inflorescence globose, dense, up to 4.5 cm in length ................................ 2
-2. - Calyx lobes equal; bracts acuminate at the apex; corolla whitish to yellowish, with tube ± 3.5 mm in length ................................................ B. capitata
-- Calyx lobes unequal; bracts acute at the apex; corolla mauve to violet-blue, with tube ± 10 mm in length .......................................... B. paucidentata
+
+**1.** Inflorescence cylindric, lax, little branched, 7–25 cm in length → [[Buchnera_leptostachya\|*B. leptostachya*]] ^k1
+
+**1′.** Inflorescence globose, dense, up to 4.5 cm in length → [[#^k2|2]]
+
+**2.** Calyx lobes equal; bracts acuminate at the apex; corolla whitish to yellowish, with tube ± 3.5 mm in length → [[Buchnera_capitata\|*B. capitata*]] ^k2
+
+**2′.** Calyx lobes unequal; bracts acute at the apex; corolla mauve to violet-blue, with tube ± 10 mm in length → [[Buchnera_paucidentata\|*B. paucidentata*]]
+
 
 ## Species in region
 

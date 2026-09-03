@@ -29,7 +29,7 @@ B: Beentje (1978, 2021), Vande weghe et al. (2016). BIBLIOGRAPHY
 
 ![Callichilia bequaertii](../sources/Apocynaceae_vol59_liteparse/figures/fig_055_p0062.jpeg)
 
-*Plate 23 . Callichilia bequaertii 1. Floriferous branch (× 1). – 2. Longitudinal section of the base of the corolla, with pistil (× 3). – 3, 4. Fruit (× 1). – 5. Ovary, transverse section (× 10). – 6. Head of the pistil (× 8). (1 : W.J.J.O. de Wilde 1940 ; 2 : W. Robyns 486 ; 3 : J. Louis 8902 ; 4 : Germain 8523 ; 5 : W. Robyns 766 ; 6 : Leeuwenberg 9083 ). Drawing by Henk Beentje, Naturalis Biodiversity Center (©), reproduced from Beentje (1978).*
+*PL. 23. Callichilia bequaertii 1. Floriferous branch (× 1). – 2. Longitudinal section of the base of the corolla, with pistil (× 3). – 3, 4. Fruit (× 1). – 5. Ovary, transverse section (× 10). – 6. Head of the pistil (× 8). (1 : W.J.J.O. de Wilde 1940 ; 2 : W. Robyns 486 ; 3 : J. Louis 8902 ; 4 : Germain 8523 ; 5 : W. Robyns 766 ; 6 : Leeuwenberg 9083 ). Drawing by Henk Beentje, Naturalis Biodiversity Center (©), reproduced from Beentje (1978).*
 
 ## Notes
 

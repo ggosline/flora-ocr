@@ -25,7 +25,7 @@ tags: [species, generated]
 
 — Kostermans, Bull. jard. bot. Ét. Brux. 22 : 137 (1952).
 
-$ \neq $ B. discolor C. K. (1942) from Hai-Nan (China).
+≠ B. discolor C. K. (1942) from Hai-Nan (China).
 
 Tree 15 m tall; young branchlets glabrescenct; bark brownish-grey; leaves coriaceous, discolorous: upper surface dark olive, lower surface brownish-violet. Flowers greenish; drupe ellipsoid, flattened, 3.5 cm long by 2 cm wide.
 

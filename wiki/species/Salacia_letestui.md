@@ -58,7 +58,7 @@ Bot. Jahrb. 44:190 (1910); HUTCH & MOSS, FWTA 1:453 (1928), p.p., excl. spécime
 
 Nous ne connaissons pas cette espèce ; la description qui suit est inspirée de la description originale.
 
-Liane glabre et dépourvue de caoutchouc, à vieux rameaux densément lenticellés. Feuilles opposées. Pétiole de 8-13 mm, faiblement canaliculé. Limbe brun olivacé brillant dessus, dessous à peine plus pâle, elliptique, de  $ 12-18 \times 5-7,3 $ cm, à base large et cunéiforme, à sommet obtusément acuminé, à marges dentées. Fin réticule apparent et très dense.
+Liane glabre et dépourvue de caoutchouc, à vieux rameaux densément lenticellés. Feuilles opposées. Pétiole de 8-13 mm, faiblement canaliculé. Limbe brun olivacé brillant dessus, dessous à peine plus pâle, elliptique, de  12-18 × 5-7,3 cm, à base large et cunéiforme, à sommet obtusément acuminé, à marges dentées. Fin réticule apparent et très dense.
 
 Fascicules axillaires pauciflores. Fleurs grandes brun jaune. Bouton très brièvement ovoïde. Pédicelle de 5-6 mm. Sépales deltoïdes subé-gaux épaissis dorsalement, noircissant à sec mais à marge pâle lacrée fimbriée, les 3 internes plus larges. Pétales subonguiculés de 5-6 mm, à base noircissante, le reste étant pâle et strié de nervures flabellées noirâ-tres. Disque de 4 mm de diamètre, étalé pentagonal. Étamines très cour-tes ; anthères à déhiscence transversale. Pistil court ; 6 ovules par loge, bisériés.
 

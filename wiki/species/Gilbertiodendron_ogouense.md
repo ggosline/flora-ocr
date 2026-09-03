@@ -33,7 +33,7 @@ Leonard (Pl. 53, p. 225, and 54, p. 227)
 
 Trees. Leaves 2–8 jugate. Stipules linear very caducous, furnished with reniform auricles, 1–2 cm in diameter, persistent. Leaflets lanceolate, attenuate at the apex into a long acumen, acute, mucronate, glabrous, generally 9–10 × 2.5–3.5 cm, but capable of reaching 20 × 6.5 cm. Rachis of highly variable length, 4 to 34 cm. Lateral nerves 9–15 pairs.
 
-Panicles terminal and axillary, densely branched and flowered, velvety russet. Pedicels up to 8 mm. Bracts very caducous. Bracteoles tomentose russet, $ 8 \times 6 $ mm. Calyx with 5 triangular acute lobes, glabrous, 4 mm long, fused at the base into a tube of 2 mm. One large bilobed petal, with short claw of 3 mm. Fertile stamens 3. Ovary sessile, hairy on the margins, then glabrous.
+Panicles terminal and axillary, densely branched and flowered, velvety russet. Pedicels up to 8 mm. Bracts very caducous. Bracteoles tomentose russet, 8 × 6 mm. Calyx with 5 triangular acute lobes, glabrous, 4 mm long, fused at the base into a tube of 2 mm. One large bilobed petal, with short claw of 3 mm. Fertile stamens 3. Ovary sessile, hairy on the margins, then glabrous.
 
 Fruit with 3 longitudinal nerves.
 

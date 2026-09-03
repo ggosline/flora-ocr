@@ -25,27 +25,13 @@ Notes: Macroptilium is a member of the subtribe Phaseolineae.
 
 Bibliography: Delgado-Salinas et al. (2011), Lewis et al. (2005), Mackinder et al. (2001), Verdcourt (1970).
 
-### Key to the species
-
-1. - Herb procumbent; basal leaves with leaflets with blade ovate to rhomboidal, generally more or less lobed, especially at the base of the plant, grey-tomentose below
-
-............................................................................................................. M. atropurpureum
-
----
-
-- Herb erect, with stem sometimes climbing (twining) towards the apex; basal leaves with leaflets with blade elliptic to narrowly ovate, entire, with loose pubescence below
-
-.................................................................................................................... M. lathyroides
-
 ## Key to the species
 
-1. - Procumbent herb; basal leaves with leaflets having oval to rhomboidal blade, generally more or less lobed, especially at the base of the plant, grey-tomentose beneath
-............................................................................................................. M. atropurpureum
 
----
+**1.** Procumbent herb; basal leaves with leaflets having oval to rhomboidal blade, generally more or less lobed, especially at the base of the plant, grey-tomentose beneath → [[Macroptilium_atropurpureum\|*M. atropurpureum*]] ^k1
 
-- Erect herb, with stem sometimes climbing (twining) toward the apex; basal leaves with leaflets having elliptic to narrowly oval blade, entire, with loose pubescence beneath
-.................................................................................................................... M. lathyroides
+**1′.** Erect herb, with stem sometimes climbing (twining) toward the apex; basal leaves with leaflets having elliptic to narrowly oval blade, entire, with loose pubescence beneath → [[Macroptilium_lathyroides\|*M. lathyroides*]]
+
 
 ## Species in region
 

@@ -56,9 +56,11 @@ This genus comprises 10 species in Africa. 5 are present in Cameroon and Gabon. 
 
 ## Keyed but not treated
 
+
 The source key separates these species but the volume gives them no treatment, usually because they fall outside the area it covers in full. They are listed for identification; some are extralimital to the region.
 
-- *Rhaphiostylis beninensis* — keyed in vol 20, not treated
+**—** *Rhaphiostylis beninensis* — keyed in vol 20, not treated
+
 
 ## Treatments
 

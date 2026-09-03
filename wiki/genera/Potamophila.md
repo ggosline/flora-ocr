@@ -33,9 +33,11 @@ About half a dozen species from Southern Africa, Madagascar and Australia; one n
 
 ## Keyed but not treated
 
+
 The source key separates these species but the volume gives them no treatment, usually because they fall outside the area it covers in full. They are listed for identification; some are extralimital to the region.
 
-- *Potamophila le-testui* — keyed in vol 05, not treated
+**—** *Potamophila le-testui* — keyed in vol 05, not treated
+
 
 ## Treatments
 

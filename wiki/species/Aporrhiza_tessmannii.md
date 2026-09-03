@@ -57,7 +57,7 @@ in ENGL., Pflanzenwelt Afr. 3 (2) : 280 (1921); RADLK., in ENGL., Pflanzenreich,
 
 Arbre d'une dizaine de mètres ou arbuste, à entrenœuds d'env. 4 cm. Feuilles à pétiole de 3-5 cm; rachis de 3 cm; pétiolule de 5 mm; limbe elliptique-obovale, brièvement acuminé, 7-18 × 3,5-7 cm, coriace, brillant dessus, à env. 12 paires de nervures en creux dessus, en relief dessous.
 
-Fleurs rouges, à pédicelle de 1-2 mm articulé en haut; calice de 6 mm de diamètre; pétales velus sur le dos, de  $ 3 \times 1,5 $ mm, à bord inférieur replié vers l'intérieur; disque aplat, lobé; 7 étamines. Capsule longue de 11 mm et large de 13 mm; fruits à pubescence brun-noirâtre; graine pourpre noir en haut, jaune mat en bas.
+Fleurs rouges, à pédicelle de 1-2 mm articulé en haut; calice de 6 mm de diamètre; pétales velus sur le dos, de  3 × 1,5 mm, à bord inférieur replié vers l'intérieur; disque aplat, lobé; 7 étamines. Capsule longue de 11 mm et large de 13 mm; fruits à pubescence brun-noirâtre; graine pourpre noir en haut, jaune mat en bas.
 
 ## Notes
 

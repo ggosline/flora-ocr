@@ -26,57 +26,19 @@ B: Endress et al. (2019), Jongkind & Lachenaud (2021), de Kruif (1985), Omino (2
 
 BIBLIOGRAPHY
 
-### Key to the species
-
-1. - Domatia absent or constituted by a tuft of hairs (Plate 79.3) without fossettes; branches never glabrous ................................................................................... 2
-
-- Domatia generally present and constituted by fossettes with or without marginal hairs (Plate 83.4); branches pilose or glabrous .............................................. 4
-
-2. - Corolla tube 4 times as long as the calyx lobes; domatia representing the most pilose part of the limb almost glabrous ................................. O. gabonica
-
-- Corolla tube relatively less long; domatia less pilose or leaves more pilose .............. 3
-
----
-
-Limb weakly covered with simple and less often ramified hairs; corolla with lobes 3.2–6.2 mm long; follicles with short rust-brown pubescence
-
 ## Key to the species
 
-1. - Domatia absent or consisting of a tuft of hairs (Plate 79.3) without pits; branchlets never glabrous ................................................................................... 2
-- Domatia generally present and consisting of pits with or without marginal hairs
-(Plate 83.4); branchlets pubescent or glabrous .............................................. 4
-2. - Corolla tube 4–[corrupted text]; domatia representing the most hairy part of the
-limb, almost glabrous ................................................................................................ O. gabonica
-- Corolla tube relatively less long; domatia less hairy or leaves more hairy ................... 3
 
----
+**1.** Domatia absent or consisting of a tuft of hairs (Plate 79.3) without pits; branchlets never glabrous → [[#^k2|2]] ^k1
 
-/LPEHIROLDLUHIDLQWOHQWFRYHUHGZLWKVLPSOHKDLUVDQGOHVVRIWHQUDPL¿HG
-corolla with lobes 3.2–6.2 mm long; follicles with short rust-brown pubescence
-....................................................................................................................... O. gracilis
-/LPEHIROLDLUHGHQVHOHFRYHUHGZLWKYDULRXVOHUDPL¿HGhairs, corolla with lobes
-2.3–2.8 mm long; follicles covered with dense rust-brown or grey tomentum,
-reaching 2.5 mm in thickness, caducous ...................................................... O. hirta
-Corolla with cylindric tube slightly contracted at the base, limb leaf-like obovate and
-often with emarginate apex, with discrete tertiary veins beneath, dull and distinctly
-paler than above, follicles narrowly cylindric ............................ O. pontyi
-Corolla with ellipsoid tube, limb leaf-like elliptic to ovate or rarely obovate, apex
-acuminate to rarely rounded or emarginate, with tertiary venation well visible
-beneath, glossy and scarcely paler than above, follicles [corrupted text] at both
-extremities, furnished at maturity with longitudinal wings 0.1–3 mm wide .......... O. glabrata
+**1′.** Domatia generally present and consisting of pits with or without marginal hairs (Plate 83.4); branchlets pubescent or glabrous → [[#^k4|4]]
 
----
+**2.** Corolla tube 4–[corrupted text]; domatia representing the most hairy part of the limb, almost glabrous → [[Oncinotis_gabonica\|*O. gabonica*]] ^k2
 
-Domatium. – 4. Branchlet. – 5. Flower. – 6. Idem, longitudinal section. (1-6: Breteler et al. 15574). Drawing by
-Antonio Fernandez, Meise Botanical Garden
+**2′.** Corolla tube relatively less long; domatia less hairy or leaves more hairy 3 /LPEHIROLDLUHIDLQWOHQWFRYHUHGZLWKVLPSOHKDLUVDQGOHVVRIWHQUDPL¿HG corolla with lobes 3.2–6.2 mm long; follicles with short rust-brown pubescence → O. gracilis /LPEHIROLDLUHGHQVHOHFRYHUHGZLWKYDULRXVOHUDPL¿HGhairs, corolla with lobes
 
----
+**2.** 3–2.8 mm long; follicles covered with dense rust-brown or grey tomentum, reaching 2.5 mm in thickness, caducous O. hirta Corolla with cylindric tube slightly contracted at the base, limb leaf-like obovate and often with emarginate apex, with discrete tertiary veins beneath, dull and distinctly paler than above, follicles narrowly cylindric O. pontyi Corolla with ellipsoid tube, limb leaf-like elliptic to ovate or rarely obovate, apex acuminate to rarely rounded or emarginate, with tertiary venation well visible beneath, glossy and scarcely paler than above, follicles [corrupted text] at both extremities, furnished at maturity with longitudinal wings 0.1–3 mm wide → O. glabrata Domatium. – 4. Branchlet. – 5. Flower. – 6. Idem, longitudinal section. (1-6: Breteler et al. 15574). Drawing by Antonio Fernandez, Meise Botanical Garden Longitudinal section with stamens and pistil; – Stamen, ventral view; – Fruit; – Seed; Le Testu 4177; 2: de Kruif 712; 3, 4: de Kruif 663; 8, 9: A.Léonard 3318). Drawing by Wil Wessel-Brand, Naturalis Biodiversity Center (©), reproduced from de Kruif (1985).
 
-Longitudinal section with stamens and pistil; – Stamen, ventral view; – Fruit; – Seed;
-Le Testu 4177; 2: de Kruif 712; 3, 4: de Kruif 663; 8, 9: A.Léonard 3318). Drawing by
-Wil Wessel-Brand, Naturalis Biodiversity Center (©), reproduced from de Kruif (1985).
-
----
 
 ## Species in region
 

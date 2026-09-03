@@ -37,6 +37,12 @@ Genus grouping 2 species (M. tamenaka (Cap.) Prance & F. White ms., M. cerebrifo
 
 1. Ovary unilocular; endocarp thin and fibrous or crustaceous.
 
+## Key to the species
+
+
+**1′.** Ovary bilocular; endocarp thick and woody → [[Magnistipula_tessmannii\|*M. tessmannii*]]
+
+
 ## Species in region
 
 | Species | Vol | Pages |

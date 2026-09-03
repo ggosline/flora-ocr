@@ -29,9 +29,11 @@ The genus Buchholzia comprises 2 closely related species restricted to the weste
 
 ## Key to the species
 
-1. Lateral veins 11–17, prominent on the upper surface of the blade; leaves mostly 3–7 cm wide, elliptic to obovate; apex acute to acuminate. Inflorescences often terminal and branched ..... 1. B. tholloniana.
 
-1'. Lateral veins ≤ 10, depressed on the upper surface of the blade; leaves mostly 3–11 cm wide, broadly obovate; apex abruptly acuminate; inflorescence usually simple, axillary or subterminale ... 2. B. coriacea.
+**1.** Lateral veins 11–17, prominent on the upper surface of the blade; leaves mostly 3–7 cm wide, elliptic to obovate; apex acute to acuminate. Inflorescences often terminal and branched → [[Buchholzia_tholloniana\|*B. tholloniana*]] ^k1
+
+**1′.** Lateral veins ≤ 10, depressed on the upper surface of the blade; leaves mostly 3–11 cm wide, broadly obovate; apex abruptly acuminate; inflorescence usually simple, axillary or subterminale → [[Buchholzia_coriacea\|*B. coriacea*]]
+
 
 ## Species in region
 

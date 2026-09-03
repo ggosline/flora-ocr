@@ -32,9 +32,9 @@ Scales absent.
 
 Inflorescences: terminal or axillary raceme with bracts ≤ 8 mm long and ≤ 1 mm wide; the rachis elongates during flowering and may reach 15 cm; the length of flowers decreases from base to apex of the rachis.
 
-Flowers 5-merous, stipitate, fragrant. Receptacle yellow then red, often somewhat asymmetric: the lower pubescent, 4 mm high, the upper $ 8 \times 2.5 $ mm, tubular-infundibuliform, green to reddish, hairs scattered only. Calyx, lobes deltoid and acuminate. Petals ovate, $ 4 \times 1.5 $ mm, outer pubescent on the "midrib", elsewhere nearly glabrous and the inner papillose, yellow to reddish. Stamens exsert 1 mm; anthers 5 mm long. Style exsert 1 mm, adnate to the upper part of the receptacle (Pl. 14, 6, 7, p. 51).
+Flowers 5-merous, stipitate, fragrant. Receptacle yellow then red, often somewhat asymmetric: the lower pubescent, 4 mm high, the upper 8 × 2.5 mm, tubular-infundibuliform, green to reddish, hairs scattered only. Calyx, lobes deltoid and acuminate. Petals ovate, 4 × 1.5 mm, outer pubescent on the "midrib", elsewhere nearly glabrous and the inner papillose, yellow to reddish. Stamens exsert 1 mm; anthers 5 mm long. Style exsert 1 mm, adnate to the upper part of the receptacle (Pl. 14, 6, 7, p. 51).
 
-Fruit, $ 3 \times 2.5 $ cm, green to reddish, papyraceous wings, pubescence very inconspicuous; stipe 4–6 mm. – Pl. 15, p. 55.
+Fruit, 3 × 2.5 cm, green to reddish, papyraceous wings, pubescence very inconspicuous; stipe 4–6 mm. – Pl. 15, p. 55.
 
 ## Distribution
 

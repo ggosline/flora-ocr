@@ -7,12 +7,6 @@ family: Scrophulariaceae
 vol: 48
 pages: 149-151
 source: sources/Scrophulariaceae_vol48_liteparse
-countries: [Burkina Faso, Cameroon, Central African Republic, Cote d'Ivoire, Democratic Republic of the Congo, Equatorial Guinea, Gabon, Ghana, Kenya, Liberia, Madagascar, Nigeria, Republic of the Congo, Sao Tome and Principe, Senegal, Sierra Leone, Tanzania, Togo, Uganda]
-in_region: true
-subdivisions:
-  Gabon: [Estuaire, Moyen-Ogooué, Ngounié, Nyanga, Ogooué-Ivindo, Ogooué-Lolo, Ogooué-Maritime, Woleu-Ntem]
-habit: "herb"
-altitude_m: "0–620"
 tags: [species, generated]
 ---
 # *Vandellia diffusa* L. Planche 51, 54(E–F)
@@ -21,9 +15,13 @@ tags: [species, generated]
 **Family**: [[Scrophulariaceae]]
 **Protologue**: Syst. Nat. éd. 12, 2 : 422 (1767)
 
+## Synonyms
+
+- Lindernia diffusa (L.) Wettst. in Engl. & Prantl, Nat. Pflanzenfam . 4(3B) : 80 (1891).
+
 ## Description
 
-Lindernia diffusa (L.) Wettst. in Engl. & Prantl, Nat. Pflanzenfam. 4(3B): 80 (1891). Annual herb; stem prostrate to ascending, with numerous ramifications (paraclade), up to 20 cm long, glabrous or pubescent. Leaf: petiole 0–3 mm; blade ovate to orbicular, 10–25 × 8–15 mm, obtuse at apex, margin obtusely crenate, glabrous or pubescent. Inflorescence lax, each floriferous node bearing 2 flowers. Flower: pedicel 3–4 mm; calyx 6–7 mm long, lobes 2–3 mm long, glabrous or pubescent; corolla cream-white with small violaceous spots, tube 4 mm long, upper lip bipartite and 3 mm long, lower lip tripartite and 3 mm long; anterior (abaxial) stamens with filaments 3 mm, filaments of posterior (adaxial) stamens 1 mm; ovary ovoid, 1 mm long; style 5 mm. Fruit 8–10(–12) mm long, exceeding the calyx by one-third of its length.
+Annual herb; stem prostrate to ascending, with numerous branches (paraclades), up to 20 cm long, glabrous or pubescent. Leaf: petiole 0–3 mm; blade ovate to orbicular, 10–25 × 8–15 mm, obtuse at apex, margin obtusely crenate, glabrous or pubescent. Inflorescence lax, each floriferous node bearing 2 flowers. Flower: pedicel 3–4 mm; calyx 6–7 mm long, lobes 2–3 mm long, glabrous or pubescent; corolla cream-white with small purplish spots, tube 4 mm long, upper lip bipartite and 3 mm long, lower lip tripartite and 3 mm long; anterior (abaxial) stamens with filaments 3 mm, filaments of posterior (adaxial) stamens 1 mm; ovary ovoid, 1 mm long; style 5 mm. Fruit 8–10(–12) mm long, exceeding the calyx by one-third its length.
 
 ## Distribution
 
@@ -31,7 +29,7 @@ Senegal, Sierra Leone, Liberia, Côte d'Ivoire, Burkina Faso, Ghana, Togo, Niger
 
 ## Ecology
 
-Ombrophilous forests and forest galleries, frequented places, palm grove, trails, clearings, field weed; in Gabon, at 0–620 m altitude, in East Africa, up to 1250 m
+ombrophilous forests and forest galleries, frequented places, palm plantation, trails, clearings, field weed; in Gabon, at 0–620 m altitude, in East Africa, up to 1250 m
 
 ## Vernacular names
 

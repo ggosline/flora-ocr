@@ -44,9 +44,11 @@ One species exists in northern Côte d'Ivoire which is rather closer to G. kisan
 
 ## Keyed but not treated
 
+
 The source key separates these species but the volume gives them no treatment, usually because they fall outside the area it covers in full. They are listed for identification; some are extralimital to the region.
 
-- *Gilletiodendron mildbraedii* — keyed in vol 15, not treated
+**—** *Gilletiodendron mildbraedii* — keyed in vol 15, not treated
+
 
 ## Treatments
 

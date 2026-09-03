@@ -29,17 +29,13 @@ Fruit globoid or pyriform, smooth, 2-4 cm in diam., with ± accescent pedicel, w
 
 Type of the genus: Euclinia longiflora Salisb., not yet known from Gabon; it is however quite probable that this species will be discovered there; it is indeed widely distributed from Portuguese Guinea to Uganda and Angola; it occurs finally in Cameroon with a second species E. squamifera which alone for the moment is known from Gabon.
 
-### KEY TO THE SPECIES
-
-1. Corolla with tube 16-24 cm in length; sepals narrowly oblong or ± unguiculate and appreciably spaced from each other at the base; flower pedicellate; approximately 9 pairs of secondary nerves.....
-
-1'. Corolla with tube 2-5 cm; sepals ± attenuated above the lower third and ± imbricate at the base; flower sessile; approximately 12 pairs of secondary nerves..... 1. E. squamifera
-
 ## Key to the species
 
-1. Corolla with tube 16–24 cm long; sepals narrowly oblong or ± unguiculate and distinctly spaced from each other at the base; flower pedicellate; approximately 9 pairs of secondary veins.....
 
-1'. Corolla with tube 2–5 cm; sepals ± attenuate above the lower third and ± imbricate at the base; flower sessile; approximately 12 pairs of secondary veins..... 1. E. squamifera
+**1.** Corolla with tube 16–24 cm long; sepals narrowly oblong or ± unguiculate and distinctly spaced from each other at the base; flower pedicellate; approximately 9 pairs of secondary veins..... ^k1
+
+**1′.** Corolla with tube 2–5 cm; sepals ± attenuate above the lower third and ± imbricate at the base; flower sessile; approximately 12 pairs of secondary veins → [[Euclinia_squamifera\|*E. squamifera*]]
+
 
 ## Species in region
 

@@ -25,7 +25,7 @@ tags: [species, generated]
 
 ## Description
 
-$ \equiv $ Haselhoffia cylindrica (C. B. Clarke) Lindau, l. c. 352 (1909).
+≡ Haselhoffia cylindrica (C. B. Clarke) Lindau, l. c. 352 (1909).
 
 Herbaceous plant, decumbent, creeping, rooting along stems trailing on the ground, rarely branched, densely hairy-tomentose; stem subquadrangular, densely hairy with canescent whitish-grey hairs; internodes 1-4 cm. Petioles 6-20 mm long, covered with the same hairs. Upper leaves, particularly those of the floral region, often subsessile; lamina ovate-elliptic, 2.5-5 × 1.5-4 cm, rounded at the apex and sometimes even slightly emarginate, slightly cordate at the base in the least developed specimens, with 5-7 pairs of lateral veins, with entire margins, sometimes irregularly and weakly undulate; lamina of leaves violet-green, very dark above, clear rose-violet green below, hairs abundant especially on the veins on the upper surface, but also very scattered between the veins; rose-violet hairs on the veins on the lower surface.
 

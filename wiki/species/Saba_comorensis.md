@@ -36,7 +36,7 @@ Beentje (2021), Burkill (1985), Leeuwenberg & van Dilst (1989), Omino (2002), Ra
 
 ![Saba comorensis](../sources/Apocynaceae_vol59_liteparse/figures/fig_191_p0217.jpeg)
 
-*Plate 99 . Saba comorensis 5DPHDXÀRULIqUHî±)OHXUî±/RQJLWXGLQDOVHFWLRQRIWKH part of the corolla tube comprising the stamens (× 6). – 4. Calyx and pistil (× 6). – 5. Ovary (× 6). (1 :*
+*Plate 99. Saba comorensis: 3. Floral bud (× 4). – Flower (× 4). – Longitudinal section of the part of the corolla tube comprising the stamens (× 6). – 4. Calyx and pistil (× 6). – 5. Ovary (× 6). (1:*
 
 ## Notes
 

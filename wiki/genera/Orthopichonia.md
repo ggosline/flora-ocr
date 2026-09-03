@@ -27,32 +27,23 @@ Notes: The taxonomy of this genus is still not very robust and more in-depth res
 
 BIBLIOGRAPHY: Beentje (2021), Endress et al. (2019), Vonk (1989).
 
-### Key to the species
-
-Remark: It is still very difficult to identify Orthopichonia specimens in fruit, particularly when they are immature. This is the reason why it is not possible to identify all fertile specimens of Orthopichonia from Gabon.
-
-1. Apex of mature bud blunt and rounded ...................................................................... 2
-
-- Apex of mature bud attenuate and obtuse ........................................................................ 3
-
-2. - Mature bud 7.5–13 mm long; corolla tube 4.5–7 mm long; fruit ± globose, often with a base resembling a stipe, smooth or slightly warty ............................... O. barteri
-
-- Mature bud 13.5–19 mm long; corolla tube 9–15 mm long; fruit generally pyriform, strongly warty ............................................................................... O. cirrhosa
-
-3. - Corolla tube 4.7–6 mm long; petiole 11–22 mm ........................ O. seretii
-
-- Corolla tube 7.5–16 mm long; petiole 5–13 mm ..................... O. viscifflua
-
 ## Key to the species
+
 
 Remark: It is still very difficult to identify specimens of Orthopichonia in fruit, particularly when they are immature. This is the reason why it is not possible to identify all fertile specimens of Orthopichonia from Gabon.
 
-1. – Head of the bud at the apex rounded and rounded ...................................................................... 2
-- Head of the mature bud attenuate and obtuse ........................................................................ 3
-2. - Mature bud 7.5–13 mm long; corolla tube 4.5–7 mm long; fruit ± globose, often with base resembling a stipe, smooth or slightly verrucose ............................................................................................................. O. barteri
-- Mature bud 13.5–19 mm long; corolla tube 9–15 mm long; fruit generally pyriform, strongly verrucose ................................................. O. cirrhosa
-3. - Corolla tube 4.7–6 mm long; petiole 11–22 mm ........................ O. seretii
-- Corolla tube 7.5–16 mm long; petiole 5–13 mm ..................... O. visciflua
+**1.** Head of the bud at the apex rounded and rounded → [[#^k2|2]] ^k1
+
+**1′.** Head of the mature bud attenuate and obtuse → [[#^k3|3]]
+
+**2.** Mature bud 7.5–13 mm long; corolla tube 4.5–7 mm long; fruit ± globose, often with base resembling a stipe, smooth or slightly verrucose → [[Orthopichonia_barteri\|*O. barteri*]] ^k2
+
+**2′.** Mature bud 13.5–19 mm long; corolla tube 9–15 mm long; fruit generally pyriform, strongly verrucose → [[Orthopichonia_cirrhosa\|*O. cirrhosa*]]
+
+**3.** Corolla tube 4.7–6 mm long; petiole 11–22 mm → [[Orthopichonia_seretii\|*O. seretii*]] ^k3
+
+**3′.** Corolla tube 7.5–16 mm long; petiole 5–13 mm → *O. visciflua*
+
 
 ## Species in region
 

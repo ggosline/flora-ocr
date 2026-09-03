@@ -35,7 +35,7 @@ dense humid forest, primary and secondary; in Gabon, at 1020 m altitude, elsewhe
 
 ![Trichilia zewaldae](../sources/Meliaceae_vol47_liteparse/figures/fig_038_p0074.png)
 
-*Plate 24. Trichilia zewaldae : A. Part of the inflorescence with functionally male flowers (× 0.5). – B. Functionally male flower, petals removed, internal view with gynecium remnant (× 3). – C. Part of the staminal tube, outer surface (× 3). – D. Apex of a filament of the staminal tube, outer surface, anther removed (× 9). – E. Branch with leaf and infructescences (× 0.5). – F. Fruit, transverse section (× 0.5). – G. Seed (× 1). – K. Ditto, transverse section (× 1). – M. Cotyledons (× 1). (A–D : W.J. de Wilde c.s. 1787 ; E–M : W.J. de Wilde c.s. 2448 ). Drawing by Ike Zewald, Naturalis Biodiversity Center, Leiden (©).*
+*PL. 24. Trichilia zewaldae: A. Part of the inflorescence with functionally male flowers (× 0.5). – B. Functionally male flower, petals removed, internal view with gynoecium remnant (× 3). – C. Part of the staminal tube, outer surface (× 3). – D. Apex of a filament of the staminal tube, outer surface, anther removed (× 9). – E. Branch with leaf and infructescences (× 0.5). – F. Fruit, transverse section (× 0.5). – G. Seed (× 1). – K. Ditto, transverse section (× 1). – M. Cotyledons (× 1). (A–D : W.J. de Wilde c.s. 1787 ; E–M : W.J. de Wilde c.s. 2448 ). Drawing by Ike Zewald, Naturalis Biodiversity Center, Leiden (©).*
 
 ## Notes
 

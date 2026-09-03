@@ -28,11 +28,13 @@ Type species: Vittaria lineata (L.) Smith.
 
 Species difficult to distinguish, approximately 80, in warm regions. One species in Cameroon, 2 species in Gabon.
 
-1. Petiole black at base, frond reaching 30–60 cm long. 1. V. guinéensis.
+## Key to the species
 
-1'. Petiole stramineous at base, frond reaching 15 cm long.....
 
-2. V. owariensis.
+**1′.** Petiole stramineous at the base, frond reaching 15 cm long.....
+
+**2.** V. owariensis. ^k2
+
 
 ## Species in region
 

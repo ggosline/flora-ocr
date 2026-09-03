@@ -1,7 +1,7 @@
 ---
 type: species
 name: Chytranthus angustifolius
-authority: Exell $ ^{1} $
+authority: Exell ¹
 genus: Chytranthus
 family: Sapindaceae
 vol: 23
@@ -12,7 +12,7 @@ in_region: false
 habit: "shrub"
 tags: [species, generated]
 ---
-# *Chytranthus angustifolius* Exell $ ^{1} $
+# *Chytranthus angustifolius* Exell ¹
 
 **Genus**: [[Chytranthus]]
 **Family**: [[Sapindaceae]]

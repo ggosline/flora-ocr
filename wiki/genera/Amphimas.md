@@ -57,26 +57,21 @@ The flowers appear before the leaves or with young leaves; the pods persist afte
 
 Bibliography: Aubréville (1968), Lewis et al. (2005), Velayos et al. (2010), Wilczek (1952).
 
-### Key to the species
-
-1. - Leaflets with pubescent or puberulent lamina beneath ......................................................... 2
-
-- Leaflets with glabrous lamina beneath ........................................................... A. pterocarpoides
-
-2. - Stipules 10–20 mm long; stipels 3–8 mm long; leaflets with lamina with obtuse to slightly acute apex ............................................................... A. ferrugineus
-
-- Stipules 20–25 mm long; stipels 10–20 mm long; leaflets with lamina with long-acuminate apex ..................................................................... A. tessmannii
-
 ## Key to the species
 
-1. Leaflets more or less densely ferruginous-pubescent. Secondary veins and veinlets very prominent beneath.... 1. A. ferrugineus.
 
-1'. Leaflets glabrous, with midvein remaining pubescent beneath. Veins and veinlets slightly prominent beneath..... A. pterocarpoides.
+**1.** Leaflets more or less densely ferruginous-pubescent. Secondary veins and veinlets very prominent beneath → [[Amphimas_ferrugineus\|*A. ferrugineus*]] ^k1
 
-1. – Leaflets with blade pubescent or puberulent beneath ......................................................... 2
-– Leaflets with blade glabrous beneath ........................................................... A. pterocarpoides
-2. – Stipules 10–20 mm long; stipels 3–8 mm long; leaflets with blade apex obtuse to slightly acute ............................................................... A. ferrugineus
-– Stipules 20–25 mm long; stipels 10–20 mm long; leaflets with blade apex long-acuminate ..................................................................... A. tessmannii
+**1′.** Leaflets glabrous, with midvein remaining pubescent beneath. Veins and veinlets slightly prominent beneath → [[Amphimas_pterocarpoides\|*A. pterocarpoides*]]
+
+**1.** Leaflets with blade pubescent or puberulent beneath → [[#^k2|2]]
+
+**1′.** Leaflets with blade glabrous beneath → [[Amphimas_pterocarpoides\|*A. pterocarpoides*]]
+
+**2.** Stipules 10–20 mm long; stipels 3–8 mm long; leaflets with blade apex obtuse to slightly acute → [[Amphimas_ferrugineus\|*A. ferrugineus*]] ^k2
+
+**2′.** Stipules 20–25 mm long; stipels 10–20 mm long; leaflets with blade apex long-acuminate → [[Amphimas_tessmannii\|*A. tessmannii*]]
+
 
 ## Species in region
 

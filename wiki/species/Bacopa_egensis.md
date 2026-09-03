@@ -7,12 +7,6 @@ family: Scrophulariaceae
 vol: 48
 pages: 105-106
 source: sources/Scrophulariaceae_vol48_liteparse
-countries: [Cameroon, Democratic Republic of the Congo, Gabon, Nigeria, Republic of the Congo]
-in_region: true
-subdivisions:
-  Gabon: [Moyen-Ogooué]
-habit: "herb"
-altitude_m: "50"
 tags: [species, generated]
 ---
 # *Bacopa egensis* (Poepp. & Endl.) Pennell Planche 31
@@ -21,9 +15,13 @@ tags: [species, generated]
 **Family**: [[Scrophulariaceae]]
 **Protologue**: Proc. Acad. Nat. Sci. Philad . 98 : 96 (1946)
 
+## Synonyms
+
+- Hydranthelium egense Poepp. & Endl., Nov. Gen. Sp ., 3 : 75, t. 287 (1845).
+
 ## Description
 
-Annual herb, reaching 25–60 cm in length; stem creeping, simple or sparingly branched, subglabrous, quadrangular. Leaf sessile to subsessile; limb orbicular to spatulate, 15–20 × 7–14 mm, obtuse and irregularly crenate at the apex; venation palmate, with 5 to 7 visible veins. Inflorescence: each floriferous node bearing 2 flowers. Flower without bracteoles: pedicel 7–10 mm; calyx with 4 subequal sepals 3–4 × 1–2 mm; corolla blue-violet, subrotate, tube 1.5–2 mm in length, upper lip bipartite and 2.5–3 mm in length, lower lip tripartite and 2.5–3 mm in length; stamens subequal, filament 1.7–2 mm, anthers 1–1.2 mm in length. Fruit loculicidal, ovoid, 5 × 2.5 mm.
+Annual herb, reaching 25–60 cm in length; stem creeping, simple or scarcely branched, subglabrous, quadrangular. Leaf sessile to subsessile; blade orbicular to spatulate, 15–20 × 7–14 mm, obtuse and irregularly crenate at the apex; venation palmate, with 5 to 7 visible nerves. Inflorescence: each floriferous node bearing 2 flowers. Flower without bracteoles: pedicel 7–10 mm; calyx with 4 subequal sepals 3–4 × 1–2 mm; corolla bluish violet, subrotate, tube 1.5–2 mm in length, upper lip bipartite and 2.5–3 mm in length, lower lip tripartite and 2.5–3 mm in length; stamens subequal, filament 1.7–2 mm, anthers 1–1.2 mm in length. Fruit loculicidal, ovoid, 5 × 2.5 mm.
 
 ## Distribution
 
@@ -31,7 +29,7 @@ Nigeria, Cameroon, Gabon, Republic of the Congo and Democratic Republic of the C
 
 ## Ecology
 
-humid places, pools, ponds, lakes and rivers; in Gabon, at 50 m elevation, elsewhere, at 0–500 m. Taxonomic note: Recorded here for the first time in Gabon. B: Fischer (1999). ibliography
+humid places, pools, ponds, lakes and rivers; in Gabon, at 50 m altitude, elsewhere, at 0–500 m. Taxonomic note: Reported here for the first time in Gabon. B: Fischer (1999). Bibliography
 
 ## Figures
 

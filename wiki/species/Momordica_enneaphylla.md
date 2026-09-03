@@ -48,7 +48,7 @@ Keraudren (1967), Keraudren-Aymonin (1975)
 
 ![Momordica enneaphylla](../sources/Cucurbitaceae_vol57_paddle/figures/fig_063_p0091.png)
 
-*Plate 28. Momordica enneaphylla: 1. Stem with male buds (×3/4). – 2. Male flower (×3/2). – Momordica parvifolia: 3. Flowering stem (×3/4). – 4. Male flower (×42/3). – 5. Idem, open, showing stamens (×42/3). – 6. Two-chambered stamen (×9). – 7. Fruit (×12/3). – 8. Seed, front and side view (×12/3). (1, 2: Thollon 448; 3-6: N. Hallé 2295; 7, 8: Louis 8469). Drawing by C. Seghers (1, 2) and by Gisèle Chypre, Muséum national d'Histoire naturelle, Paris (©), reproduced with permission from Keraudren (1967).*
+*PL. XXVIII. — Momordica enneaphylla: 1. Stem with male buds (×3/4). – 2. Male flower (×3/2). – Momordica parvifolia: 3. Flowering stem (×3/4). – 4. Male flower (×42/3). – 5. Idem, open, showing stamens (×42/3). – 6. Two-chambered stamen (×9). – 7. Fruit (×12/3). – 8. Seed, front and side view (×12/3). (1, 2: Thollon 448; 3-6: N. Hallé 2295; 7, 8: Louis 8469). Drawing by C. Seghers (1, 2) and by Gisèle Chypre, Muséum national d'Histoire naturelle, Paris (©), reproduced with permission from Keraudren (1967).*
 
 ## Notes
 

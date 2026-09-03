@@ -15,6 +15,11 @@ tags: [species, generated]
 **Family**: [[Eriocaulaceae]]
 **Protologue**: Linnaea 27 : 573 (1856)
 
+## Synonyms
+
+- Eriocaulon radicans Benth. in Hook., Niger Fl. : 547 (1849).
+- Eriocaulon guineense Steud., Syn. pl. glumac. 2 : 273 (1855).
+
 ## Description
 
 *No descriptive text was segmented for this species.*

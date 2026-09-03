@@ -29,7 +29,7 @@ Shrub 0.70–3 m tall, inclined or ± erect. Main stem or orthotropic branches p
 
 Flowers opposite in solitary or successive decussate pairs. Pedicel 12–20 mm. Ovary ca. 7 × 3 mm. Calyx limb green, tubular for 2–3 mm, with 5 ± unequal lanceolate lobes 18–45 × 2–8 mm. Corolla pale yellow-green with tube 4–6 cm long and 18–35 mm diam. at the throat; lobes 17–40 × 11–28 mm. Style glabrous as long as the corolla tube, clavately inflated for more than 10 mm. Anthers 7–11 × 1.5–2.1 mm. Ovary unilocular containing up to 16 ovules sunken almost entirely into the two fleshy placentas.
 
-Fruit fusiform $ 35 \times 17 $ mm, or subglobose $ 33 \times 23 $ mm, yellow at maturity, smooth or very weakly 5-costulate. Seed $ 11–13 \times 10 \times 4 $ mm. Embryo white $ 6 \times 3.2 $ mm.
+Fruit fusiform 35 × 17 mm, or subglobose 33 × 23 mm, yellow at maturity, smooth or very weakly 5-costulate. Seed 11–13 × 10 × 4 mm. Embryo white 6 × 3.2 mm.
 
 ## Type
 

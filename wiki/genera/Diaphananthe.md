@@ -21,15 +21,13 @@ Leaves distichous, coriaceous or fleshy, sometimes thin, unequally bilobed at th
 
 Genus of approximately 20–30 species confined to continental Africa, primarily tropical, of which 2 species occur in Gabon.
 
-1. Stem short, < 12 cm. Leaves 15–70 cm ..... 47. 2. D. pellucida
-
-1'. Stem elongated, often > 1 m. Leaves 5–17 cm ..... 47. 1. D. bidens
-
 ## Key to the species
 
-1. Stem short, < 12 cm. Leaves 15-70 cm ..... 47. 2. D. pellucida
 
-1'. Stem elongated, often > 1 m. Leaves 5-17 cm ..... 47. 1. D. bidens
+**1.** Stem short, < 12 cm. Leaves 15-70 cm → 47. 2. D. pellucida ^k1
+
+**1′.** Stem elongated, often > 1 m. Leaves 5-17 cm → 47. 1. D. bidens
+
 
 ## Species in region
 

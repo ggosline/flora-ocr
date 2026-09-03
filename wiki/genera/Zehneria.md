@@ -27,32 +27,25 @@ BIBLIOGRAPHY: de Boer et al. (2015), de Wilde & Duyfjes (2010), Dwivedi et al. (
 
 ---
 
-1. - Leaf blade deeply 5- to 7-palmatilobate (similar to Momordica charantia)..... Z. palmatiloba
-
-- Leaf blade entire to 3-lobed..... 2
-
-2. - Fruit ± fusiform..... 3
-
-- Fruit globose..... 4
-
-3. - Herb monoecious; stamens subsessile or with very short filament (<0.5 mm).... Z. tridactyla
-
-- Herb dioecious; stamens with filament ≥ 1 mm..... Z. minutiflora
-
-4. - Male flowers solitary; fruit-bearing pedicel >2 cm..... Z. capillacea
-
-- Male flowers often fasciculate; fruit-bearing pedicel <2 cm..... Z. gilletii
-
 ## Key to the species
 
-1. - Leaf blade deeply 5- to 7-palmatilobed (similar to Momordica charantia)..... Z. palmatiloba
-- Leaf blade entire to 3-lobed..... 2
-2. - Fruit ± fusiform..... 3
-- Fruit globose..... 4
-3. - Herb monoecious; stamens subsessile or with very short filament (<0.5 mm).... Z. tridactyla
-- Herb dioecious; stamens with filament ≥ 1 mm..... Z. minutiflora
-4. - Male flowers solitary; fruiting pedicel >2 cm..... Z. capillacea
-- Male flowers often fasciculate; fruiting pedicel <2 cm..... Z. gilletii
+
+**1.** Leaf blade deeply 5- to 7-palmatilobed (similar to Momordica charantia) → [[Zehneria_palmatiloba\|*Z. palmatiloba*]] ^k1
+
+**1′.** Leaf blade entire to 3-lobed → [[#^k2|2]]
+
+**2.** Fruit ± fusiform → [[#^k3|3]] ^k2
+
+**2′.** Fruit globose → [[#^k4|4]]
+
+**3.** Herb monoecious; stamens subsessile or with very short filament (<0.5 mm) → [[Zehneria_tridactyla\|*Z. tridactyla*]] ^k3
+
+**3′.** Herb dioecious; stamens with filament ≥ 1 mm → [[Zehneria_minutiflora\|*Z. minutiflora*]]
+
+**4.** Male flowers solitary; fruiting pedicel >2 cm → [[Zehneria_capillacea\|*Z. capillacea*]] ^k4
+
+**4′.** Male flowers often fasciculate; fruiting pedicel <2 cm → [[Zehneria_gilletii\|*Z. gilletii*]]
+
 
 ## Species in region
 

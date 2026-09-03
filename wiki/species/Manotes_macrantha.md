@@ -33,7 +33,7 @@ Flowers. Floral bud, at the moment of calyx opening 3–3.5 × 2–2.5 mm. Pedic
 
 Fruits, follicles 1–5 per flower, ≤ 20 × 10 mm, finely woody, very shortly velvety, with short hairs only glandular, terminating in a beak. Sepals beneath the fruit 8–10 × 2–4 mm, dark red.
 
-Seed, $ \approx 10 \times \approx 7 $ mm; testa entirely fleshy and red. - Pl. 31, p. 103.
+Seed, ≈ 10 × ≈ 7 mm; testa entirely fleshy and red. - Pl. 31, p. 103.
 
 ## Type
 

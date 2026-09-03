@@ -57,7 +57,7 @@ Arbrisseau de 0,50-1 m de hauteur. Nombreux rameaux plagiotropes grêles à entr
 
 à base aiguë, à sommet subobtusément et brièvement acuminé. Médiane médiocrement pubescente dessous, à fin sillon non tout à fait glabre dessus. Environ 5 paires de nervures secondaires. Domaties axillaires en petites touffes de poils.
 
-Fruits subsessiles axillaires par 1-2, un peu ovales, longs de 7-8 mm, devenant orangé puis rouge à maturité, de  $ 6 \times 4 $ mm à sec, nettement ornés de  $ 8 $ côtes longitudinales, glabres. Calice à limbe persistant finement pubescent, tubuleux sur à peine  $ 1 $ mm de hauteur, à  $ 4 $ dents étroites longues de  $ 0,8 $ mm.  $ 1 $ ( $ 2 $ ?) graines par fruit.
+Fruits subsessiles axillaires par 1-2, un peu ovales, longs de 7-8 mm, devenant orangé puis rouge à maturité, de  6 × 4 mm à sec, nettement ornés de  8 côtes longitudinales, glabres. Calice à limbe persistant finement pubescent, tubuleux sur à peine  1 mm de hauteur, à  4 dents étroites longues de  0,8 mm.  1 ( 2 ?) graines par fruit.
 
 N. Hallé et G. Cours 5999 et 6116, environs de Moumba, vers 750-800 m d'altitude (fr. mai).
 

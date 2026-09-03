@@ -23,19 +23,13 @@ Type species: S. zenkeri Engler.
 
 This genus endemic to Africa contains 6 species, of which 2 are present in Cameroon and none in Gabon.
 
-1. Limb base rounded; petals pubescent externally..... 1. S. zenkeri.
-
-1'. Limb base cuneiform or attenuate; petals glabrous externally.....
-
-..... 2. S. cuneatus.
-
 ## Key to the species
 
-1. Leaf base rounded; petals pubescent externally..... 1. S. zenkeri.
 
-1'. Leaf base cuneate or attenuate; petals glabrous externally.....
+**1.** Leaf base rounded; petals pubescent externally → [[Stachyanthus_zenkeri\|*S. zenkeri*]] ^k1
 
-..... 2. S. cuneatus.
+**1′.** Leaf base cuneate or attenuate; petals glabrous externally → [[Stachyanthus_cuneatus\|*S. cuneatus*]]
+
 
 ## Species in region
 

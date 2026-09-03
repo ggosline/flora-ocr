@@ -25,38 +25,33 @@ BIBLIOGRAPHY
 
 B: Beentje (2021), Endress et al. (2019), Leeuwenberg & Kupicha (1985), Omino (1996, 2002).
 
-### Key to species
-
-1. - Calyx with lobes 4.6–6 mm long; corolla with tube 16–21 mm long; leaf blade with 8 to 10 pairs of secondary veins ................................... H. maasiorum
-
----
-
-- Calyx with lobes 0.6–2.5 mm long; corolla with tube 3–13 mm long; leaf blade with 7 to 30 pairs of lateral veins ............................................................. 2
-
-2. - Corolla with tube 3–4 mm long, the interior with or without tufts of minute hairs under each filament, leaf blade with to pairs of secondary veins.
-
-.............................................................................................................. H. camerunenis
-
-- Corolla with tube 4–13 mm long, the interior with a pubescent band under the stamens and sometimes up to the throat, leaf blade with to pairs of secondary veins .................................................................................................................. 3
-
 ## Key to the species
 
-1. - Calyx with lobes 4.6–6 mm long; corolla with tube 16–21 mm long; leaf blade with 8 to 10 pairs of secondary veins ................................... H. maasiorum
 
----
+**1.** Calyx with lobes 4.6–6 mm long; corolla with tube 16–21 mm long; leaf blade with 8 to 10 pairs of secondary veins → [[Hunteria_maasiorum\|*H. maasiorum*]] ^k1
 
-- Calyx with lobes 0.6–2.5 mm long; corolla with tube 3–13 mm long; leaf blade with 7 to 30 pairs of lateral veins ............................................................. 2
-2. - Corolla with tube 3–4 mm long, the interior with or without tufts of minute hairs under each filament; leaf blade with 7 pairs of secondary veins
-.............................................................................................................. H. camerunensis
-- Corolla with tube 4–13 mm long, the interior with a pubescent band beneath the stamens and sometimes extending to the throat; leaf blade with 7 pairs of secondary veins .................................................................................................................. 3
-3. - Stamens with their apex 2.5 mm below the corolla throat; leaf blade with 7 to 10 pairs of secondary veins ............................................... H. hexaloba
-- Stamens with their apex 0.2–1.2 mm below the corolla throat; leaf blade with 9 to 30 pairs of secondary veins ........................................................ 4
-4. - Inflorescence predominantly axillary, often also with a terminal flower; 0.5–1 × 0.5–1.2 cm, pedicel 0–2 mm; corolla with tube 5–7.2 mm long; leaf blade with 9 pairs of secondary veins forming an angle of 45–60° with the midvein ......................................................................................................... H. ballayi
-- Inflorescence terminal and sometimes simultaneously axillary, 0.5–1 × 0.5–1.2 cm, pedicel 1–20 mm; corolla with tube 4–13 mm long; leaf blade with 9 to 15 pairs of secondary veins forming an angle of 50–70° with the midvein .... 5
-5. - Corolla with tube 4–8.2 mm long; mericarps 3–6 × 4–5 × 3–4 cm; petiole 8–25 mm .................................................................................................. H. umbellata
-- Corolla with tube 9–13 mm long; mericarps 1.5–3.5 × 0.9–2.6 × 0.5–2 cm; petiole 4–8 mm ....................................................................................................... 6
-6. - Leaf blade with 9 to 14 pairs of secondary veins; calyx with membranous lobes, sparsely furnished with colleters on the interior; ovary with 1 ovule per carpel; mericarps 1.5–2 × 0.9–1.2 × 0.5–1 cm ......................... H. macrosiphon
-- Leaf blade with 15 to 25 pairs of secondary veins; calyx with lobes thick toward the middle, coriaceous, with series of colleters extending to three-quarters of their length; ovary with 6 or 7 ovules per carpel; mericarps 2.8–3.5 × 2–2.6 × 1.5–2 cm .................................................................................................... H. oxyantha
+**1′.** Calyx with lobes 0.6–2.5 mm long; corolla with tube 3–13 mm long; leaf blade with 7 to 30 pairs of lateral veins → [[#^k2|2]]
+
+**2.** Corolla with tube 3–4 mm long, the interior with or without tufts of minute hairs under each filament; leaf blade with 7 pairs of secondary veins → [[Hunteria_camerunensis\|*H. camerunensis*]] ^k2
+
+**2′.** Corolla with tube 4–13 mm long, the interior with a pubescent band beneath the stamens and sometimes extending to the throat; leaf blade with 7 pairs of secondary veins → [[#^k3|3]]
+
+**3.** Stamens with their apex 2.5 mm below the corolla throat; leaf blade with 7 to 10 pairs of secondary veins → [[Hunteria_hexaloba\|*H. hexaloba*]] ^k3
+
+**3′.** Stamens with their apex 0.2–1.2 mm below the corolla throat; leaf blade with 9 to 30 pairs of secondary veins → [[#^k4|4]]
+
+**4.** Inflorescence predominantly axillary, often also with a terminal flower; 0.5–1 × 0.5–1.2 cm, pedicel 0–2 mm; corolla with tube 5–7.2 mm long; leaf blade with 9 pairs of secondary veins forming an angle of 45–60° with the midvein → [[Hunteria_ballayi\|*H. ballayi*]] ^k4
+
+**4′.** Inflorescence terminal and sometimes simultaneously axillary, 0.5–1 × 0.5–1.2 cm, pedicel 1–20 mm; corolla with tube 4–13 mm long; leaf blade with 9 to 15 pairs of secondary veins forming an angle of 50–70° with the midvein → [[#^k5|5]]
+
+**5.** Corolla with tube 4–8.2 mm long; mericarps 3–6 × 4–5 × 3–4 cm; petiole 8–25 mm → [[Hunteria_umbellata\|*H. umbellata*]] ^k5
+
+**5′.** Corolla with tube 9–13 mm long; mericarps 1.5–3.5 × 0.9–2.6 × 0.5–2 cm; petiole 4–8 mm → [[#^k6|6]]
+
+**6.** Leaf blade with 9 to 14 pairs of secondary veins; calyx with membranous lobes, sparsely furnished with colleters on the interior; ovary with 1 ovule per carpel; mericarps 1.5–2 × 0.9–1.2 × 0.5–1 cm → [[Hunteria_macrosiphon\|*H. macrosiphon*]] ^k6
+
+**6′.** Leaf blade with 15 to 25 pairs of secondary veins; calyx with lobes thick toward the middle, coriaceous, with series of colleters extending to three-quarters of their length; ovary with 6 or 7 ovules per carpel; mericarps 2.8–3.5 × 2–2.6 × 1.5–2 cm → [[Hunteria_oxyantha\|*H. oxyantha*]]
+
 
 ## Species in region
 

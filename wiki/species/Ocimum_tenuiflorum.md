@@ -39,7 +39,7 @@ sacred basil (angl.). Usage : Utilisé comme stimulant et antihelminthique. En A
 
 ![Ocimum tenuiflorum](../sources/Labiataeulmaceaeverbenaceae_vol58_liteparse/figures/fig_068_p0083.png)
 
-*Plate 20 . Ocimum tenuiflorum : 1. Flowering stem (× ⅔). – 2. Flower (× 4). – 3. Calyx in fruit (× 4). (1-3 :*
+*PL. 20. — Ocimum tenuiflorum : 1. Flowering stem (× ⅔). – 2. Flower (× 4). – 3. Calyx in fruit (× 4). (1-3 :*
 
 ## Notes
 

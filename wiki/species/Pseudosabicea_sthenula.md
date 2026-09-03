@@ -18,7 +18,7 @@ tags: [species, generated]
 
 ## Description
 
-$ \neq $ Ps. medusula cf. N. Hallé in Adansonia 3 : 171, pl. 1 f. 3 (1963).
+≠ Ps. medusula cf. N. Hallé in Adansonia 3 : 171, pl. 1 f. 3 (1963).
 
 Aff. Ps. medusula (K. Schum. ex Wernham) N. Hallé, sed caulis gracilibus repentibus, nodiis omnino unifoliatis, stipulis plurifidis cingentibus, laminis ovatis vel ovalibus non obovatis, nerviis secundariis 7-10 (nec 10-12) utrinque, apice alabastri barbato, differt.
 

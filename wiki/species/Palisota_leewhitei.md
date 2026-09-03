@@ -42,7 +42,7 @@ Despite its relative abundance in the Mondah forest, the plant was long neglecte
 
 ![Palisota leewhitei](../sources/Commelinaceae_vol55_liteparse/figures/fig_037_p0069.png)
 
-*Plate 20 . Palisota leewhitei : 1. General aspect. – 2. Axillary root. – 3. Detail with inflorescence and root. – 4. Male flower. – 5. Upper sepal, interior view. – 6. Ditto, lateral view. – 7. Lower sepal, lateral view. – 8. Petal, lateral view. – 9. Lower stamen. – 10. Upper stamen. – 11. Upper staminode. – 12. Lower staminode. – 13. Cilium of a staminode. – 14. Gynoecium. – 15. Hair of the ovary. – 16. Ripe fruit, dorsal view. – 17. Ditto, lateral view. (1-15 : Maas et al. 10079 ; 16, 17 : Lachenaud et al. 1165 ). Drawing by Hans de Vries, Meise Botanical Garden (©).*
+*PL. 20. — Palisota leewhitei : 1. General aspect. – 2. Axillary root. – 3. Detail with inflorescence and root. – 4. Male flower. – 5. Upper sepal, interior view. – 6. Ditto, lateral view. – 7. Lower sepal, lateral view. – 8. Petal, lateral view. – 9. Lower stamen. – 10. Upper stamen. – 11. Upper staminode. – 12. Lower staminode. – 13. Cilium of a staminode. – 14. Gynoecium. – 15. Hair of the ovary. – 16. Ripe fruit, dorsal view. – 17. Ditto, lateral view. (1-15 : Maas et al. 10079 ; 16, 17 : Lachenaud et al. 1165 ). Drawing by Hans de Vries, Meise Botanical Garden (©).*
 
 ## Notes
 

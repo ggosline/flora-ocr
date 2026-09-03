@@ -63,7 +63,7 @@ FTEA : 211, fig. 61 ; Gram. CB. : 104. – Eragrostis platystachys Franch. – F
 
 van Bergen 466, 26.03.1996, Gamba, road Yenzi-terminal. de Wilde, Arends, Louis, Karper & Bouman 708, 20.02.1983, 3°12'S-11°25'E, about 50 km, road from Tchibanga to Voungou, SE of Tchibanga, ranch of « Agrogabon »
 
-$ ^{*} $24. Eriochrysis P. Beauv.
+*24. Eriochrysis P. Beauv.
 
 *24.1 Eriochrysis brachypogon (Stapf) Stapf – Pl. 7, 4-6, p. 29 FACB 1 : 77 ; FWTA : 466 ; FTEA : 707, fig. 162 ; Gram. Cam. : 392, Pl. 86 ; Poac. CI. : 476, 477 ; Gram. CB. : 268, fig. 32.
 

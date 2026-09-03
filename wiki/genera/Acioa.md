@@ -47,9 +47,11 @@ Fruit inflorescence sparsely furnished; drupe hard or fleshy, ± ovoid flattened
 
 ## Keyed but not treated
 
+
 The source key separates these species but the volume gives them no treatment, usually because they fall outside the area it covers in full. They are listed for identification; some are extralimital to the region.
 
-- *Acioa lehmbachii* — keyed in vol 24, not treated
+**—** *Acioa lehmbachii* — keyed in vol 24, not treated
+
 
 ## Treatments
 

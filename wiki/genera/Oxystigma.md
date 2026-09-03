@@ -35,21 +35,15 @@ O. Mannii appears to have a geographical range limited to the mangrove of rivers
 
 O. Buchholzii is a common riparian shrub or tree from southern Cameroon to the Sanga, Kouilou and Congolese basin.
 
-A $3^{rd}$ species, a large upland tree, O. Gilbertii Léonard has been recognized only from central Congo, and a $4^{th}$ O. msoo Harms from Tanzania (Tanganyika).
-
-1. Small mangrove tree; 1-2 pairs of opposite leaflets, obtusely acuminate; venation well visible..... 1. O. Mannii.
-
-1'. Tree or riparian shrub; falcate leaflets, acuminate, only the last ones opposite, the others alternate; venation nearly invisible.
-
-..... 2. O. Buchholzii.
+A 3rd species, a large upland tree, O. Gilbertii Léonard has been recognized only from central Congo, and a 4th O. msoo Harms from Tanzania (Tanganyika).
 
 ## Key to the species
 
-1. Small mangrove tree; 1-2 pairs of opposite leaflets, obtusely acuminate; venation clearly visible..... 1. O. Mannii.
 
-1'. Riparian tree or shrub; falcate leaflets, acuminate, only the terminal ones opposite, the others alternate; venation nearly invisible.
+**1.** Small mangrove tree; 1-2 pairs of opposite leaflets, obtusely acuminate; venation clearly visible → 1. O. Mannii. ^k1
 
-..... 2. O. Buchholzii.
+**1′.** Riparian tree or shrub; falcate leaflets, acuminate, only the terminal ones opposite, the others alternate; venation nearly invisible. → 2. O. Buchholzii.
+
 
 ## Species in region
 

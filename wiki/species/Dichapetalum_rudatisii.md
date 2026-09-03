@@ -57,7 +57,7 @@ ombrophilous forests
 
 ## Specimens examined
 
-De Wilde & al. 731,  $ \approx $ 15 km de Cocobeach, le long de la route de Ntoum en forêt primaire (fl., Mars).
+De Wilde & al. 731,  ≈ 15 km de Cocobeach, le long de la route de Ntoum en forêt primaire (fl., Mars).
 
 Les fleurs d'un spécimen, obtenues à partir de graines (Bos 3560) au Conservatoire de Wageningen, ont produit du nectar mais en quantité moindre que celles de D. mombuttense (BRETELER, 1981 : 38).
 

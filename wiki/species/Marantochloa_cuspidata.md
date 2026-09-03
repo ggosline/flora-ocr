@@ -29,7 +29,7 @@ tags: [species, generated]
 
 — Proc. Lin. Soc. London, 165 : 30 (1954).
 
-Rhizomatous herb with erect, simple stems 60 cm tall or more, usually bearing one, sometimes two leaves at the apex, and with imbricate aphyllous sheaths at the base. Leaves with triangular-lanceolate blade, abruptly and elongately acuminate at the apex, broadly rounded to subtruncate at the base, reaching approximately $ 40 \times 15 $ cm, pubescent on the midvein on the lower surface. Callus 10–15 mm long; petiole, including the sheath, 15–20 cm long.
+Rhizomatous herb with erect, simple stems 60 cm tall or more, usually bearing one, sometimes two leaves at the apex, and with imbricate aphyllous sheaths at the base. Leaves with triangular-lanceolate blade, abruptly and elongately acuminate at the apex, broadly rounded to subtruncate at the base, reaching approximately 40 × 15 cm, pubescent on the midvein on the lower surface. Callus 10–15 mm long; petiole, including the sheath, 15–20 cm long.
 
 Terminal inflorescence formed of one to several slender racemes, rather elongately pedunculate, but peduncle always shorter than the petiole. Five to eight internodes measuring 15–25 mm. Persistent bracts, ca. 25–40 × 10 mm, each subtending one to two two-flowered cymes; common peduncle as long as the bract; longest pedicel 7–10 mm. Sepals scarious; corolla up to 20 mm long, yellow; ovary pubescent. Fruit ?
 

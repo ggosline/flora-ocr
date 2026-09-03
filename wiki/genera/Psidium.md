@@ -28,39 +28,21 @@ Type species: Psidium guajava L.
 
 ---
 
-### KEY TO SPECIES INTRODUCED TO WEST AFRICA
-
-1. Calyx lobed in the bud; leaves obovate, glabrous.. 1. Ps. cattleyanum.
-
-1'. Calyx closed in the bud.
-
-2. Leaves and branches glabrous, young branches quadrangular.
-
-Ps. Friedrichthalianum.
-
-2'. Leaves and young branches pubescent.
-
-3. Young branches quadrangular, lateral leaf veins 12-16 pairs impressed above..... 2. Ps. guajava.
-
-3'. Young branches rounded, lateral leaf veins 7-10 pairs not impressed above..... Ps. guineense.
-
-From Gabon we have only seen one specimen of Ps. cattleyanum Sabine, Ps. guajava L., however, is very often cultivated and naturalized in tropical Africa, as well as in Gabon. Ps. guineense Sw. (= Ps. araca Raddi) is less frequent.
-
 ## Key to the species
 
-1. Calyx lobed in the bud; leaves obovate, glabrous.. 1. Ps. cattleyanum.
-1'. Calyx closed in the bud.
 
-2. Leaves and branches glabrous, young branches quadrangular.
-Ps. Friedrichstahlianum.
+**1.** Calyx lobed in the bud; leaves obovate, glabrous.. 1. Ps. cattleyanum. ^k1
 
-2'. Leaves and young branches pubescent.
+**1′.** Calyx closed in the bud.
 
-3. Young branches quadrangular, lateral leaf veins 12–16 pairs impressed above..... 2. Ps. guajava.
+**2.** Leaves and branches glabrous, young branches quadrangular. Ps. Friedrichstahlianum. ^k2
 
-3'. Young branches rounded, lateral leaf veins 7–10 pairs not impressed above..... Ps. guineense.
+**2′.** Leaves and young branches pubescent.
 
-From Gabon we have seen only one specimen of Ps. cattleyanum Sabine, Ps. guajava L., however, is very often cultivated and naturalized in tropical Africa, as well as in Gabon. Ps. guineense Sw. (= Ps. araca Raddi) is less frequent.
+**3.** Young branches quadrangular, lateral leaf veins 12–16 pairs impressed above → 2. Ps. guajava. ^k3
+
+**3′.** Young branches rounded, lateral leaf veins 7–10 pairs not impressed above → Ps. guineense. From Gabon we have seen only one specimen of Ps. cattleyanum Sabine, Ps. guajava L., however, is very often cultivated and naturalized in tropical Africa, as well as in Gabon. Ps. guineense Sw. (= Ps. araca Raddi) is less frequent.
+
 
 ## Species in region
 

@@ -28,39 +28,29 @@ B: Breteler (2010, 2014), Lejoly & Lisowski (1984, 1993).
 
 Bibliography
 
-### Key to species
-
-1. - Ovary pubescent at least at apex, glabrescent in fruit or not ......................... N. acuminata
-
-- Ovary glabrous ........................................................................................................ 2
-
-2. - Stamens shorter than the corolla ......................................................................... 3
-
-- Stamens longer than the corolla, exsert or incurved ........................................... 4
-
-3. - Leaf blade hairy below, often finely pitted above; inflorescence densely flowered, the axillary ones racemose and much shorter than 20 cm (sometimes the terminal ones compound up to 45 cm in length); corolla (5–)6–7 mm in length ............................................................................................................................................. N. velutina
-
-- Leaf blade glabrous or nearly so, not pitted above; inflorescence very sparsely flowered, compound and up to 20 cm in length; corolla ≤ 5 mm in length .............................................................................................. N. laxiflora
-
 ## Key to the species
 
-1. - Ovary pubescent at least at the apex, glabrescent in fruit or not ... N. acuminata
-- Ovary glabrous ........................................................................................................... 2
-2. - Stamens shorter than the corolla ....................................................................... 3
-- Stamens longer than the corolla, exserted or incurved .................................. 4
-3. - Leaf blade hairy below, often finely pitted above ; inflorescence densely flowered, the axillary racemose and much shorter than
-20 cm (sometimes the terminal ones compound up to 45 cm in length) ; corolla
-(5–)6–7 mm in length .......................................................................... N. velutina
-- Leaf blade glabrous or nearly so, not pitted above ; inflorescence very sparsely flowered, compound and up to 20 cm in length ; corolla ≤ 5 mm in
-length .................................................................................................. N. laxiflora
-4. - Branches, inflorescences, petioles, median and lateral veins on both faces of the blade with brown hispid hairs, often densely ; leaf blade with mucro of
-(5–)10–20(–30) mm ............................................................................... N. incompta
-- Branches, inflorescences, petioles, median and lateral veins on both faces of the blade brown-rusty, velutinous or appressed hairs, not hispid ; leaf blade with
-mucro ≤ 5 mm ....................................................................................................... 5
-5. - Plant with very appressed hairs, uniform and with finely combed appearance ; leaf blade,
-5–7(–9) × 2–3(–4) cm ; tertiary veins prominent above ............... N. aenea
-- Plant with ± appressed hairs, uniform or not, without finely combed appearance ; leaf
-blade, (4.5–)7–13(–15) × (3–)3.5–7(–9) cm ; tertiary veins plane or impressed above .................................................................................... N. alnifolia
+
+**1.** Ovary pubescent at least at the apex, glabrescent in fruit or not → [[Neuropeltis_acuminata\|*N. acuminata*]] ^k1
+
+**1′.** Ovary glabrous → [[#^k2|2]]
+
+**2.** Stamens shorter than the corolla → [[#^k3|3]] ^k2
+
+**2′.** Stamens longer than the corolla, exserted or incurved → [[#^k4|4]]
+
+**3.** Leaf blade hairy below, often finely pitted above ; inflorescence densely flowered, the axillary racemose and much shorter than 20 cm (sometimes the terminal ones compound up to 45 cm in length) ; corolla (5–)6–7 mm in length → [[Neuropeltis_velutina\|*N. velutina*]] ^k3
+
+**3′.** Leaf blade glabrous or nearly so, not pitted above ; inflorescence very sparsely flowered, compound and up to 20 cm in length ; corolla ≤ 5 mm in length → [[Neuropeltis_laxiflora\|*N. laxiflora*]]
+
+**4.** Branches, inflorescences, petioles, median and lateral veins on both faces of the blade with brown hispid hairs, often densely ; leaf blade with mucro of (5–)10–20(–30) mm → [[Neuropeltis_incompta\|*N. incompta*]] ^k4
+
+**4′.** Branches, inflorescences, petioles, median and lateral veins on both faces of the blade brown-rusty, velutinous or appressed hairs, not hispid ; leaf blade with mucro ≤ 5 mm → [[#^k5|5]]
+
+**5.** Plant with very appressed hairs, uniform and with finely combed appearance ; leaf blade, 5–7(–9) × 2–3(–4) cm ; tertiary veins prominent above → [[Neuropeltis_aenea\|*N. aenea*]] ^k5
+
+**5′.** Plant with ± appressed hairs, uniform or not, without finely combed appearance ; leaf blade, (4.5–)7–13(–15) × (3–)3.5–7(–9) cm ; tertiary veins plane or impressed above → [[Neuropeltis_alnifolia\|*N. alnifolia*]]
+
 
 ## Species in region
 

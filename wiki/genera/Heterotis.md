@@ -29,13 +29,11 @@ Two sections in Gabon. Sect. Heterotis is constituted, according to our concepti
 
 ---
 
-1. Hypanthium variously setulous or with setulous emergences; staminal appendage bilobate-obtuse; ovary convex ± setulous (sect. Heterotis).
+## Key to the species
 
-2. Intersepalar emergences alone well developed, those of the hypanthium are squamiform or absent, the setae being free; flowers generally large, stamens dimorphic ..... 1. H. decumbens.
 
-2'. Filiform emergences especially numerous toward the apex; flowers small, stamens homomorphic ..... 2. H. buettneriana.
+**1′.** Hypanthium glabrous; intersepalar emergences lobuliform or absent (sect. Cyclostemma BENTH.). Cymes of 2 to 3 flowers widely spaced by slender axes; flowers 4-merous; plant glabrescent, rooting → [[Heterotis_rupicola\|*H. rupicola*]]
 
-1'. Hypanthium glabrous; intersepalar emergences lobulose or absent (sect. Cyclostemma BENTH.). Cymes of 2 to 3 flowers widely separated by slender axes; flowers 4-merous; plant glabrescent, rooting ..... 3. H. rupicola.
 
 ## Species in region
 

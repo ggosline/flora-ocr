@@ -35,7 +35,7 @@ Flowers. Floral bud, at the moment of calyx opening (1.5–1), 8–2.2(–2.7) �
 
 Fruits, follicles 1–5 per flower, ≤ 20 × 10 mm, orange to red, very finely velvety (glandular hairs), terminated by a beak. For the indumentum of the carpels and follicles, see Pl. 29, p. 97.
 
-Seeds $ \approx 10 \times \approx 5 $ mm; testa partially fleshy and red, dorsal portion thin and black.
+Seeds ≈ 10 × ≈ 5 mm; testa partially fleshy and red, dorsal portion thin and black.
 
 Epigeal germination; hypocotyl strongly elongated with dense pubescence; first leaves opposite. – Pl. 30, 3, 10, p. 99.
 

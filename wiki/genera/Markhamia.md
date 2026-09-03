@@ -32,17 +32,13 @@ TYPE SPECIES: Markhamia stipulata (Wall.) Seem.
 
 Approximately 10 species, 8 in Africa and 2 in Southeast Asia; several African species are not very well differentiated from one another.
 
-### KEY TO SPECIES
-
-1. Calyx densely tomentose; leaflets ± puberulent beneath, at least along the veins, petiolules less than 3 mm long; fruit puberulent; subulate pseudo-stipules ..... 1. M. tomentosa.
-
-1'. Calyx scaly; leaflets scaly beneath; distinctly petiolulate; fruit scaly; foliaceous pseudo-stipules ..... 1bis. M. lutea.
-
 ## Key to the species
 
-1. Calyx densely tomentose; leaflets ± puberulent beneath, at least along the veins, petioles less than 3 mm long; fruit puberulent; pseudo-stipules subulate ..... 1. M. tomentosa.
 
-1'. Calyx scaly; leaflets scaly beneath; distinctly petiolulate; fruit scaly; pseudo-stipules foliaceous ..... 1bis. M. lutea.
+**1.** Calyx densely tomentose; leaflets ± puberulent beneath, at least along the veins, petioles less than 3 mm long; fruit puberulent; pseudo-stipules subulate → [[Markhamia_tomentosa\|*M. tomentosa*]] ^k1
+
+**1′.** Calyx scaly; leaflets scaly beneath; distinctly petiolulate; fruit scaly; pseudo-stipules foliaceous → 1bis. M. lutea.
+
 
 ## Species in region
 

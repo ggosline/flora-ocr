@@ -29,22 +29,13 @@ B: Faye et al. (2016) van Valkenburg et al. (2007), van Valkenburg & Sunderland 
 
 Bibliography
 
-### Key to species
-
-1. - Acaulescent palm; leaf 1.5–4 m in length; lower surface of leaflets pubescent to
-tomentose; infructescence erect, with olive green fruits spotted with purple becoming
-dark purple at maturity ............................................................................................. P. acaulis
-
-- Solitary palm with stem up to 3 m; leaf 0.5–1.2 m in length; lower surface of
-
 ## Key to the species
 
-1. - Acaulescent palm; leaf 1.5–4 m long; abaxial surface of leaflets pubescent to
-tomentose; erect infructescence, with olive-green fruits spotted with purple becoming
-dark purple at maturity ............................................................................................. P. acaulis
-- Solitary palm with stem up to 3 m; leaf 0.5–1.2 m long; abaxial surface of leaflets
-sparsely pubescent and glabrescent to glabrous; recurved infructescence, with
-brown-orange fruits becoming bright orange at maturity ...................................................... P. barteri
+
+**1.** Acaulescent palm; leaf 1.5–4 m long; abaxial surface of leaflets pubescent to tomentose; erect infructescence, with olive-green fruits spotted with purple becoming dark purple at maturity → [[Podococcus_acaulis\|*P. acaulis*]] ^k1
+
+**1′.** Solitary palm with stem up to 3 m; leaf 0.5–1.2 m long; abaxial surface of leaflets sparsely pubescent and glabrescent to glabrous; recurved infructescence, with brown-orange fruits becoming bright orange at maturity → [[Podococcus_barteri\|*P. barteri*]]
+
 
 ## Species in region
 

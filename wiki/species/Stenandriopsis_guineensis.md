@@ -15,7 +15,7 @@ tags: [species, generated]
 
 **Genus**: [[Stenandriopsis]]
 **Family**: [[Acanthaceae]]
-**Protologue**: R. Benoist, Bull. Mus. Nat. Hist. Nat. sér. 2, 15; 235 (1943); Bol. Soc. Brot. 24, 2 $ ^{e} $ sér.: 25 (1950)
+**Protologue**: R. Benoist, Bull. Mus. Nat. Hist. Nat. sér. 2, 15; 235 (1943); Bol. Soc. Brot. 24, 2 ᵉ sér.: 25 (1950)
 
 ## Synonyms
 

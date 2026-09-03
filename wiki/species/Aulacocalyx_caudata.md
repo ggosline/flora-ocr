@@ -37,7 +37,7 @@ Fruit subsessile, green, 12–16 mm in diameter, obpyriform, with apex attenuate
 
 ## Type
 
-Mann 1699, 1 $ ^{st} $ lat. N, Sierra del Crystal (K!)
+Mann 1699, 1 st lat. N, Sierra del Crystal (K!)
 
 ## Discussion
 

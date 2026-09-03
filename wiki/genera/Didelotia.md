@@ -35,19 +35,19 @@ D. Morelii is very incompletely known. It is likely that another Gabonese specie
 
 ## Key to the species
 
-1. Leaves unifoliolate..... 1. D. unifoliolata
-1'. Leaves unijugate, slightly falciform.
 
-2. Leaflets 5-8 cm in length by 2-4 cm in width; no filiform petals; ovary glabrous. ..... 2. D. Letouzeyi.
+**1.** Leaves unifoliolate → [[Didelotia_unifoliolata\|*D. unifoliolata*]] ^k1
 
-2'. Leaflets 6-13 cm in length by 2.5-6 cm in width; 5 filiform petals; ovary pubescent on the margins..... 3. D. africana.
-1". Leaves multijugate.
+**1′.** Leaves unijugate, slightly falciform.
 
-3. 8-12 jugate; leaflets linear-oblong 8-10 × 2-2.5 mm; (3-)
-5 filiform petals; ovary pubescent..... 4. D. minutiflora.
+**2.** Leaflets 5-8 cm in length by 2-4 cm in width; no filiform petals; ovary glabrous. → 2. D. Letouzeyi. ^k2
 
-3'. ± 18 jugate; leaflets oblong, 20-25 × 5 mm approximately;
-5 filiform petals; ovary glabrous..... 5. D. Morelii.
+**2′.** Leaflets 6-13 cm in length by 2.5-6 cm in width; 5 filiform petals; ovary pubescent on the margins → 3. D. africana. 1". Leaves multijugate.
+
+**3.** 8-12 jugate; leaflets linear-oblong 8-10 × 2-2.5 mm; (3-) 5 filiform petals; ovary pubescent → [[Didelotia_minutiflora\|*D. minutiflora*]] ^k3
+
+**3′.** ± 18 jugate; leaflets oblong, 20-25 × 5 mm approximately; 5 filiform petals; ovary glabrous → 5. D. Morelii.
+
 
 ## Species in region
 

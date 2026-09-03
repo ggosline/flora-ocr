@@ -57,9 +57,11 @@ mixture with a few corollas of an indeterminate Oxyanthus; Oxyanthus leptactina 
 
 ## Keyed but not treated
 
+
 The source key separates these species but the volume gives them no treatment, usually because they fall outside the area it covers in full. They are listed for identification; some are extralimital to the region.
 
-- *Oxyanthus schumannianus* — keyed in vol 17, not treated
+**—** *Oxyanthus schumannianus* — keyed in vol 17, not treated
+
 
 ## Treatments
 

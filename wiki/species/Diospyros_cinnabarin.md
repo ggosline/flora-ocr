@@ -1,7 +1,7 @@
 ---
 type: species
 name: Diospyros cinnabarin
-authority: (Gürke) F. White $ ^{*} $
+authority: (Gürke) F. White *
 genus: Diospyros
 family: Ebenaceae
 vol: 18
@@ -9,7 +9,7 @@ pages: 50-54
 source: sources/Ebenaceae_vol18_paddle
 tags: [species, generated]
 ---
-# *Diospyros cinnabarin* (Gürke) F. White $ ^{*} $
+# *Diospyros cinnabarin* (Gürke) F. White *
 
 **Genus**: [[Diospyros]]
 **Family**: [[Ebenaceae]]

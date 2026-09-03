@@ -31,9 +31,11 @@ Type species: Erythroxylum areolatum Linné, Syst. ed. 10 (1759).
 
 The genus comprises more than 190 tropical species, most of which are found in America.
 
-1. Styles of long-styled flowers free; nectariferous appendages inserted at the lower quarter, on the ventral face of the petal; leaves without "false veins". . . 1. E. emarginatum.
+## Key to the species
 
-1'. Styles of long-styled flowers connate for most of their length; nectariferous appendages inserted at the base on the ventral face of the petal; leaves with a pair of "false veins"..... 2. E. mannii.
+
+**1′.** Styles of longistyle flowers fused over most of their length; nectariferous appendages inserted at the base on the ventral face of the petal; leaves with a pair of "false veins" → [[Erythroxylum_mannii\|*E. mannii*]]
+
 
 ## Species in region
 

@@ -29,7 +29,7 @@ tags: [species, generated]
 
 — Kew Bull.: 168 (1952).
 
-Herb in tufts, with branched stems, petiole of leaves very variable in length, callus 2-4 cm long. Blade elliptic, asymmetric, acuminate, gradually attenuated to rounded at the base, red-violet on the lower surface, variable in size up to approximately $ 40 \times 20 $ cm.
+Herb in tufts, with branched stems, petiole of leaves very variable in length, callus 2-4 cm long. Blade elliptic, asymmetric, acuminate, gradually attenuated to rounded at the base, red-violet on the lower surface, variable in size up to approximately 40 × 20 cm.
 
 Inflorescences lateral with short axis, internodes approximately 1 mm long. Bracts subtending the sickle-shaped cyme bundles approximately 2.5 cm long, broadly elliptic, tinged with red-violet. Common peduncle of the cymes approximately 1 mm, pedicels equal, 2 mm long. Flowers white to pink, sepals 12-15 mm long, corolla approximately 20 mm. Ovary densely and longly pubescent. Fruit ellipsoid ± 10 mm long and 6-7 mm in diameter, pubescent toward the apex and with persistent perianth. Seeds brown with white aril, divided into 2 acute points almost as long as the seed.
 

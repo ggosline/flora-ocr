@@ -56,11 +56,15 @@ of marginal areoles..... 6. C. Buchholzii.
 
 ## Keyed but not treated
 
+
 The source key separates these species but the volume gives them no treatment, usually because they fall outside the area it covers in full. They are listed for identification; some are extralimital to the region.
 
-- *Ctenitis pilosissima* — keyed in vol 08, not treated
-- *Ctenitis protensa* — keyed in vol 08, not treated
-- *Ctenitis tindalii* — keyed in vol 08, not treated
+**—** *Ctenitis pilosissima* — keyed in vol 08, not treated
+
+**—** *Ctenitis protensa* — keyed in vol 08, not treated
+
+**—** *Ctenitis tindalii* — keyed in vol 08, not treated
+
 
 ## Treatments
 

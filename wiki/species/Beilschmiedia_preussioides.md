@@ -23,7 +23,7 @@ Tree (?) young branchlets brown, then grayish-yellowish; buds puberulent, acute,
 
 ## Type
 
-Le Testu 6059 (P), Mongoumou, H $ ^{te} $ Ngounyé (6 sept. 1926) seul exemplaire connu
+Le Testu 6059 (P), Mongoumou, H tᵉ Ngounyé (6 sept. 1926) seul exemplaire connu
 
 ## Figures
 

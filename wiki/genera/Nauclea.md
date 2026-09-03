@@ -25,49 +25,33 @@ Syncarpic fruit massively spheroid, with surface sometimes spongy, sometimes alv
 
 Type species, N. orientalis L. (= Sarcocephalus cordatus Miq.) from Asia.
 
-### KEY TO THE SPECIES
-
-1. Stipules reduced deltoid; calyx lobes free from their base.
-
-2. Calyx lobes with flat obconic head, ± pubescent and very caducous; seeds non-marginate; fruiting head red ornamented with apparent alveoles; midvein ± puberulent on the lower surface of the limb ..... 1. N. latifolia.
-
-2'. Calyx lobes with ± prominent apex, densely pubescent and persistent; seeds marginate; fruiting head yellowish finely spongy on surface, without apparent alveoles..... 2. N. Pobeguini.
-
-1'. Stipules well developed ovate; calyx lobes ± concrescent.
-
-3. Keel thin, very prominent on the stipule axis; apex of the inflorescence peduncle swollen subcapitate; calyx lobes pubescent, connate in ± distinct groups and weakly adherent with each other: they become isolated on the fruit surface giving it a ± echinnulate aspect ..... 3. N. Diderrichii.
-
-3'. No narrow keel on the stipules, sometimes only toward the base an ± obtuse boss; apex of the inflorescence peduncles attenuate; calyx lobes glabrous or moderately ciliate, all connate with each other; they form an uninterrupted network on the fruit surface.
-
-4. Inflorescence of approx. 4–6 cm in diameter; stigmatic club 3 or 4 times longer than wide; internodes swollen by myrmecoecidies; base of the leaf limb often very enlarged.....
-
-4'. Inflorescences of 3.5 cm in diameter or less; stigmatic club 2 to 3 times longer than wide; no myrmecoecidies; base of the leaf
-
 ## Key to the species
 
-1. Stipules reduced deltoid; calyx lobes free from their base.
 
-2. Calyx lobes with obconical flat apex, ± pubescent and very caducous; seeds not margined; fruit cluster red adorned with apparent alveoles; midvein ± puberulent on the lower surface of the blade ..... I. N. latifolia.
+**1.** Stipules reduced deltoid; calyx lobes free from their base. ^k1
 
-2'. Calyx lobes with ± prominent apex, densely pubescent and persistent; seeds margined; fruit cluster yellowish finely spongy on surface, without apparent alveoles.... 2. N. Pobeguini.
+**2.** Calyx lobes with obconical flat apex, ± pubescent and very caducous; seeds not margined; fruit cluster red adorned with apparent alveoles; midvein ± puberulent on the lower surface of the blade → I. N. latifolia. ^k2
 
-1'. Stipules developed ovate; calyx lobes ± concrescent.
+**2′.** Calyx lobes with ± prominent apex, densely pubescent and persistent; seeds margined; fruit cluster yellowish finely spongy on surface, without apparent alveoles → 2. N. Pobeguini.
 
-3. Keel thin, very prominent on the axis of the stipules; apex of the inflorescence peduncle swollen subcapitate; calyx lobes pubescent, fused by ± distinct groups and weakly adhering to each other: they isolate on the surface of the fruit giving it a ± echinulate aspect ..... 3. N. Diderrichii.
+**1′.** Stipules developed ovate; calyx lobes ± concrescent.
 
-3'. No narrow keel on the stipules, sometimes only toward the base an ± obtuse bump; apex of the inflorescence peduncle attenuate; calyx lobes glabrous or moderately ciliate, all fused to each other; they form an uninterrupted network on the surface of the fruit.
+**3.** Keel thin, very prominent on the axis of the stipules; apex of the inflorescence peduncle swollen subcapitate; calyx lobes pubescent, fused by ± distinct groups and weakly adhering to each other: they isolate on the surface of the fruit giving it a ± echinulate aspect → 3. N. Diderrichii. ^k3
 
-4. Inflorescence of approx. 4–6 cm diam.; stigmatic club 3 or 4 times longer than wide; internodes swollen by myrmeccocecidies; base of the leaf blade often very enlarged.....
+**3′.** No narrow keel on the stipules, sometimes only toward the base an ± obtuse bump; apex of the inflorescence peduncle attenuate; calyx lobes glabrous or moderately ciliate, all fused to each other; they form an uninterrupted network on the surface of the fruit.
 
-4'. Inflorescences of 3.5 cm diam. or less; stigmatic club 2 to 3 times longer than wide; no myrmeccocecidies; base of the blade rounded to cuneiform.
+**4.** Inflorescence of approx. 4–6 cm diam.; stigmatic club 3 or 4 times longer than wide; internodes swollen by myrmeccocecidies; base of the leaf blade often very enlarged..... ^k4
 
-5. Leaves entirely glabrous.
+**4′.** Inflorescences of 3.5 cm diam. or less; stigmatic club 2 to 3 times longer than wide; no myrmeccocecidies; base of the blade rounded to cuneiform.
 
-6. Vigorous young branches 2–5 mm wide; blade ± broadly ovate to obovate..... 5. N. Gilletii.
+**5.** Leaves entirely glabrous. ^k5
 
-6'. Slender young branches 1 to 3 mm wide; blade rather narrow lanceolate..... 5 bis. N. Gilletii var. lancifolia.
+**6.** Vigorous young branches 2–5 mm wide; blade ± broadly ovate to obovate → 5. N. Gilletii. ^k6
 
-5'. Leaves pubescent below..... N. xanthoxylon.
+**6′.** Slender young branches 1 to 3 mm wide; blade rather narrow lanceolate → 5 bis. N. Gilletii var. lancifolia.
+
+**5′.** Leaves pubescent below → *N. xanthoxylon*
+
 
 ## Species in region
 

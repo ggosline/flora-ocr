@@ -36,7 +36,7 @@ Margins of primary and secondary forests in semi-shade; in Gabon as elsewhere at
 
 ![Dracaena acaulis](../sources/Dracaenaceae_vol54_liteparse/figures/fig_009_p0016.jpeg)
 
-*Plate 1. Dracaena acaulis : 1. Leaf. – 2. Fragment of an infrutescence. – 3. Part of inflorescence. – 4. Floral bud. – 5. Flower. – 6. Ovary, longitudinal section. – 7. Idem, transverse section. – 8. Style.*
+*Plate 1. Dracaena acaulis : 1. Leaf. – 2. Fragment of an infructescence. – 3. Part of inflorescence. – 4. Floral bud. – 5. Flower. – 6. Ovary, longitudinal section. – 7. Idem, transverse section. – 8. Style.*
 
 ![Dracaena acaulis](../sources/Dracaenaceae_vol54_liteparse/figures/fig_011_p0018.jpeg)
 

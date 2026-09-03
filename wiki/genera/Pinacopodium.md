@@ -27,15 +27,13 @@ TYPE SPECIES: P. congolense (S. Moore) Exell & Mendonça.
 
 ---
 
-1. Cymes borne by short axillary branchlets; limb 4–13 cm long; secondary veins fewer than 12 pairs..... 1. P. congolense.
-
-1'. Cymes axillary not borne by short branchlets; limb 6–16 cm long; 12–14 pairs of secondary veins. 2. P. gabonense.
-
 ## Key to the species
 
-1. Cymes borne on short axillary branchlets; limb 4–13 cm long; secondary nerves fewer than 12 pairs..... 1. P. congolense.
 
-1'. Cymes axillary, not borne on short branchlets; limb 6–16 cm long; 12–14 pairs of secondary nerves. 2. P. gabonense.
+**1.** Cymes borne on short axillary branchlets; limb 4–13 cm long; secondary nerves fewer than 12 pairs → [[Pinacopodium_congolense\|*P. congolense*]] ^k1
+
+**1′.** Cymes axillary, not borne on short branchlets; limb 6–16 cm long; 12–14 pairs of secondary nerves. 2. P. gabonense.
+
 
 ## Species in region
 

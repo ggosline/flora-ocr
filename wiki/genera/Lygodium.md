@@ -24,15 +24,13 @@ Type species: L. scandens Sw.
 
 Approximately 40 species, tropical or subtropical. Common in secondary forest, forming shrubs, seeking well-lit places. 2 species in Gabon.
 
-1. Pinnules articulate, often caducous, the fertile ones triangular, obtuse, 2–4 cm long, with hastate base..... 1. T. microphyllum.
-
-1'. Pinnules non-articulate, the fertile ones linear, 5–9 cm long, with truncate base, slightly decurrent..... 2. L. Smithianum.
-
 ## Key to the species
 
-1. Pinnules articulate, often caducous, the fertile ones triangular, obtuse, 2-4 cm long, with hastate base..... 1. T. microphyllum.
 
-1'. Pinnules not articulate, the fertile ones linear, 5-9 cm long, with truncate base, slightly decurrent..... 2. L. Smithianum.
+**1.** Pinnules articulate, often caducous, the fertile ones triangular, obtuse, 2-4 cm long, with hastate base → 1. T. microphyllum. ^k1
+
+**1′.** Pinnules not articulate, the fertile ones linear, 5-9 cm long, with truncate base, slightly decurrent → 2. L. Smithianum.
+
 
 ## Species in region
 

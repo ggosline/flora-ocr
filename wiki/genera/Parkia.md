@@ -26,14 +26,13 @@ TYPE SPECIES: P. filicoidea Welw. ex Oliv.
 
 This genus contains about forty species in all tropical regions. In Africa and Madagascar, 4 are found; only 2 are present in Gabon.
 
-1. Venation of leaflets scarcely visible; wings of the pinna axis folded towards the upper surface; fruit 23.5–37.5 × 2.5–4 cm ..... 1. P. bicolor.
-
-1'. Venation of leaflets prominent; wings of the pinna axis folded towards the lower surface; fruit long ribbon-like 33–66 × 1–1.6 cm ..... 2. P. filicoidea.
-
 ## Key to the species
 
-1. Venation of leaflets scarcely visible; wings of the pinnae rachis folded toward the upper surface; fruit 23.5–37.5 × 2.5–4 cm ..... 1. P. bicolor.
-1'. Venation of leaflets prominent; wings of the pinnae rachis folded toward the lower surface; fruit long ribbon-like 33–66 × 1–1.6 cm ..... 2. P. filicoidea.
+
+**1.** Venation of leaflets scarcely visible; wings of the pinnae rachis folded toward the upper surface; fruit 23.5–37.5 × 2.5–4 cm → [[Parkia_bicolor\|*P. bicolor*]] ^k1
+
+**1′.** Venation of leaflets prominent; wings of the pinnae rachis folded toward the lower surface; fruit long ribbon-like 33–66 × 1–1.6 cm → [[Parkia_filicoidea\|*P. filicoidea*]]
+
 
 ## Species in region
 

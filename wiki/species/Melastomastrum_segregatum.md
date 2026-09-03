@@ -52,7 +52,7 @@ Arbrisseau dressé jusqu'à 2 m; rameaux subangulaires, ± hirsutes et roussâtr
 
 Glomérules terminaux, 3-5-flores, sessiles, involucrés par 3 paires de feuilles progressivement bractoïdes, puis de bractées oblongues-naviculaires ± papyracées. Fleur à pédicelle de 1 à 2 mm, ± comprimé, sétuleux par des soies capitées; hypanthe 8 × 17 mm, ellipsoïde-oblong, densément vêtue, jusqu'aux 2/3 de la hauteur, de soies ramifiées ou d'émergences sétuleuses, les soies étant capitées; sépales longs de 8 mm, triangulaires, glabres sur le dos, finement ciliés. Pétales mauves ou pourpres, obovales, longs de 1,5 à 2 cm. Étamines externes à anthère de 12 mm; pédoconnectif de 4 à 5 mm, avec double protubérance dorso-basale, appendices antérieurs longs de 2 mm, claviformes; filet de 12 à 14 mm. Étamines internes à anthère de 9-10 mm; pédoconnectif de 0,3-0,5 mm, avec protubérance simple dorso-basale, appendices antérieurs longs de 1,5 mm, linéaires; filet de 8-10 mm. Ovaire libre sur sa demi-longueur, sommet conique, sétuleux; collerette péristyle 5-lobée, longue de 2 mm avec soies capitées; style long de 2,5 cm.
 
-Fruit de 18 à 20 mm. Graines  $ 0,7 \times 0,7 $ mm, finement échinulées.—Pl. 11, p. 35.
+Fruit de 18 à 20 mm. Graines  0,7 × 0,7 mm, finement échinulées.—Pl. 11, p. 35.
 
 ## Figures
 

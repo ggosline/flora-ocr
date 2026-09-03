@@ -55,9 +55,11 @@ Sessile spikelets with short, pubescent callus, lower glume flattened, or concav
 
 ## Keyed but not treated
 
+
 The source key separates these species but the volume gives them no treatment, usually because they fall outside the area it covers in full. They are listed for identification; some are extralimital to the region.
 
-- *Andropogon schirensis* — keyed in vol 05, not treated
+**—** *Andropogon schirensis* — keyed in vol 05, not treated
+
 
 ## Treatments
 

@@ -46,7 +46,7 @@ C. frutescens is the most commonly harvested Capsicum species in Africa. It has 
 
 ![Capsicum frutescens](../sources/Solanaceae_vol55_liteparse/figures/fig_051_p0102.png)
 
-*Plate 30 . Capsicum frutescens : 1. Fertile stem. – 2. Flower. – 3. Dissected flower, interior of corolla. – 4. Gynoecium. – 5. Fruit. – 6. Seed. (1, 6 : Chancellor 279 ; 2-4 : Kassner 332 ; 5 : Borhidi 86457 ). Drawing by M. Tebbs (©), Royal Botanic Gardens, Kew, reproduced with permission from Edmonds (2012).*
+*PL. XXX. — Capsicum frutescens: 1. Fertile stem. – 2. Flower. – 3. Dissected flower, interior of corolla. – 4. Gynoecium. – 5. Fruit. – 6. Seed. (1, 6: Chancellor 279; 2-4: Kassner 332; 5: Borhidi 86457). Drawing by M. Tebbs (©), Royal Botanic Gardens, Kew, reproduced with permission from Edmonds (2012).*
 
 ## Notes
 

@@ -50,7 +50,7 @@ Sometimes described as a liane, but in our view, this is an error. b: Hauman (19
 
 ![Millettia laurentii](../sources/Millettiaspeciesfabaceae_vol49_liteparse/figures/fig_099_p0275.png)
 
-*Plate 91 : Millettia laurentii : 1. Base of trunk. – 2. Flowering branch. – 3. Flower and floral bud. – 4.*
+*Plate 91: Millettia laurentii: 1. Base of trunk. – 2. Flowering branch. – 3. Flower and floral bud. – 4.*
 
 ## Notes
 

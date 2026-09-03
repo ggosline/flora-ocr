@@ -30,35 +30,17 @@ Etymology: from thyrsos, name of the staff decorated with vines and crowned with
 
 EXCLUDED SPECIES : Thyrsosalacia longipes (Oliv.) Loes., synonym of Salacia longipes (Oliv.) Hallé.
 
-### KEY TO SPECIES
-
-1. Disc entire, less than 2 mm in diameter; lateral cymules extremely slender, triflorous with alternate branches; abscission limit of pedicel situated clearly beyond the upper bracteole ..... 1. T. nematobrachion.
-
-1' Disc more than 4 mm in diameter
-
-2. Disc double, the lower one slightly larger, with weakly lobed margin .....
-
-2. T. pararacemosa.
-
-3. Entire patellifom disc ..... 2 bis. T. racemosa.
-
-3' Disc scarcely cupuliform, with margin emarginate in front of each petal .....
-
-..... 3. T. viciflora.
-
 ## Key to the species
 
-1. Disk entire less than 2 mm in diameter; lateral cymes extremely slender, triflorous with alternate branches; abscission line of the pedicel situated clearly beyond the upper bracteole ..... 1. T. nematobrachion.
-1' Disk more than 4 mm in diameter
 
-2. Disk double, the lower one somewhat larger, with weakly lobed margin .....
-2. T. pararacemosa.
+**1.** Disk entire less than 2 mm in diameter; lateral cymes extremely slender, triflorous with alternate branches; abscission line of the pedicel situated clearly beyond the upper bracteole → 1. T. nematobrachion. 1' Disk more than 4 mm in diameter ^k1
 
-3. Disk entire patelliform ..... 2 bis. T. racemosa.
+**2.** Disk double, the lower one somewhat larger, with weakly lobed margin ..... ^k2
 
-3' Disk scarcely cupuliform, with margin emarginate opposite each petal .....
+**2.** T. pararacemosa.
 
-..... 3. T. viciflora.
+**3.** Disk entire patelliform 2 bis. T. racemosa. 3' Disk scarcely cupuliform, with margin emarginate opposite each petal → [[Thyrsosalacia_viciflora\|*T. viciflora*]] ^k3
+
 
 ## Species in region
 

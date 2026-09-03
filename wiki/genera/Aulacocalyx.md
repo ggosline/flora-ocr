@@ -31,51 +31,33 @@ The corollas of certain flowers split unilaterally and appear ± zygomorphic; th
 
 ### KEY TO AULACOCALYX
 
-1. Limb with obtuse to cordate base, frequently ± asymmetric, and with 9–14 pairs of secondary nerves; calycine lobes narrow and ± subulate; inflorescences 1–3-flowered, often uniflorous.....
-
-1'. Limb with acute or sometimes subobtuse but symmetric base, and with fewer than 8 pairs of secondary nerves, generally 4–6 pairs.
-
-2. Calycine lobes deltoid very acute to ± subulate; corolla rotate with pilosity and tube length variable; inflorescences contracted few- or many-flowered.
-
-3. Young internodes and especially stipules clothed with ± golden pubescence characteristic.
-
-4. Sepals medium or long, of ca. 2.5–5 mm.....
-
-..... 2a. A. jasminiflora var. jasminiflora
-
-4'. Sepals short of ca. 1–2 mm.....
-
-..... 2b. A. jasminiflora var. brevis
-
 ## Key to the species
 
-1. Leaf blade with obtuse to cordate base, frequently ± asymmetrical, and with 9–14 pairs of secondary nerves; calyx lobes narrow and ± subulate; inflorescences 1–3-flowered, often uniflorous.....
 
-1'. Leaf blade with acute or sometimes subobtuse base but symmetrical, and with fewer than 8 pairs of secondary nerves, generally 4–6 pairs.
+**1.** Leaf blade with obtuse to cordate base, frequently ± asymmetrical, and with 9–14 pairs of secondary nerves; calyx lobes narrow and ± subulate; inflorescences 1–3-flowered, often uniflorous..... ^k1
 
-2. Calyx lobes deltoid very acute to ± subulate; corolla rotate with pilosiry and tube length variable; inflorescences contracted pauci- or multiflorous.
+**1′.** Leaf blade with acute or sometimes subobtuse base but symmetrical, and with fewer than 8 pairs of secondary nerves, generally 4–6 pairs.
 
-3. Young internodes and especially stipules clothed with a ± golden pubescence characteristic.
+**2.** Calyx lobes deltoid very acute to ± subulate; corolla rotate with pilosiry and tube length variable; inflorescences contracted pauci- or multiflorous. ^k2
 
-4. Sepals medium or long, c. 2.5–5 mm.....
+**3.** Young internodes and especially stipules clothed with a ± golden pubescence characteristic. ^k3
 
-..... 2a. A. jasminiflora var. jasminiflora
+**4.** Sepals medium or long, c. 2.5–5 mm → 2a. A. jasminiflora var. jasminiflora ^k4
 
-4'. Sepals short c. 1–2 mm.....
+**4′.** Sepals short c. 1–2 mm → 2b. A. jasminiflora var. brevis
 
-..... 2b. A. jasminiflora var. brevis
+**3′.** Young internodes and stipules glabrous.
 
-3'. Young internodes and stipules glabrous.
+**5.** Sepals short c. 1 mm → 3a. A. Lujai var. Lujai ^k5
 
-5. Sepals short c. 1 mm..... 3a. A. Lujai var. Lujai
+**5′.** Sepals long c. 2–4 mm → 3b. A. Lujai var. subulata
 
-5'. Sepals long c. 2–4 mm..... 3b. A. Lujai var. subulata
+**2′.** Calyx lobes very short, distinctly lower than broad; corolla often split unilaterally at anthesis.
 
-2'. Calyx lobes very short, distinctly lower than broad; corolla often split unilaterally at anthesis.
+**6.** Inflorescences pauciflorous (1–3 flowers); calyx 5–7 mm in diameter; corolla 3–4 cm long; no foliar domatia; leaf blade base very acute → 4. A. Talbotii ^k6
 
-6. Inflorescences pauciflorous (1–3 flowers); calyx 5–7 mm in diameter; corolla 3–4 cm long; no foliar domatia; leaf blade base very acute..... 4. A. Talbotii
+**6′.** Inflorescences pluriflorous (5–12 flowers); calyx 3 mm in diameter; corolla 1.5–2.5 cm long; small hairy axillary domatia; leaf blade base generally acute on one side, subacute on the other → 5. A. Le-Testui
 
-6'. Inflorescences pluriflorous (5–12 flowers); calyx 3 mm in diameter; corolla 1.5–2.5 cm long; small hairy axillary domatia; leaf blade base generally acute on one side, subacute on the other..... 5. A. Le-Testui
 
 ## Species in region
 

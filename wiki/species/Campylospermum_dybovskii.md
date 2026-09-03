@@ -38,7 +38,7 @@ primary or secondary forest, gallery forest, swamp forest or flooded forest; on 
 
 ![Campylospermum dybovskii](../sources/Ochnaceae_vol48_liteparse/figures/fig_020_p0042.png)
 
-*Plate 8. Campylospermum dybovskii: 1. Flowering branch. – 2. Part of the fruitfructescence. – 3. Flower. – 4. Fruit. – 5. Cotyledons. Drawing by Sabine Bousani at Neuchâtel (©) and reproduced with permission.*
+*Plate 8. Campylospermum dybovskii: 1. Flowering branch. – 2. Part of the fructescence. – 3. Flower. – 4. Fruit. – 5. Cotyledons. Drawing by Sabine Bousani at Neuchâtel (©) and reproduced with permission.*
 
 ## Notes
 

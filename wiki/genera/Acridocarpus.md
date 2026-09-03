@@ -13,7 +13,7 @@ tags: [genus, generated]
 
 **Family**: [[Malpighiaceae]]
 **Authority**: Guillemin & Perrottet
-**Protologue**: Fl. Senegamb. Tent. 29 : 123 (sept. 1831), nom. cons. prop. (cf. E. LAUNERT, Fl. Zamb. 2 (1) : 109 (1963); FTEA, Malpighiaceae : 2 (1968); E. LAUNERT & M. L. GONÇALVES, Fl. Moçambique 32 : 2 (1969) $ ^{1} $)
+**Protologue**: Fl. Senegamb. Tent. 29 : 123 (sept. 1831), nom. cons. prop. (cf. E. LAUNERT, Fl. Zamb. 2 (1) : 109 (1963); FTEA, Malpighiaceae : 2 (1968); E. LAUNERT & M. L. GONÇALVES, Fl. Moçambique 32 : 2 (1969) ¹)
 
 ## Diagnosis
 
@@ -72,9 +72,11 @@ Type species: Acridocarpus plagiopterus Guill. & Perr., Senegal.
 
 ## Keyed but not treated
 
+
 The source key separates these species but the volume gives them no treatment, usually because they fall outside the area it covers in full. They are listed for identification; some are extralimital to the region.
 
-- *Acridocarpus staudtii* — keyed in vol 21, not treated
+**—** *Acridocarpus staudtii* — keyed in vol 21, not treated
+
 
 ## Treatments
 

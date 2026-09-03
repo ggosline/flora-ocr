@@ -47,7 +47,7 @@ Pedicel pubescent 5–10 mm in length. Flower very fragrant. Prefloration twiste
 
 ---
 
-the connective appears ventrally between the two thecae. Style with column glabrous towards the base, pubescent towards the apex and at the level of the anthers, with elliptic club $25–30 \times 5–10 \, mm$, $\pm$ entirely exsert. Ovary long and grooved externally.
+the connective appears ventrally between the two thecae. Style with column glabrous towards the base, pubescent towards the apex and at the level of the anthers, with elliptic club $25–30 \times 5–10 \, mm$, ± entirely exsert. Ovary long and grooved externally.
 
 ## Species in region
 

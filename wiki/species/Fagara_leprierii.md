@@ -22,7 +22,7 @@ tags: [species, generated]
 
 id. 46: 406 (1911); in Mildbraed, Wissenschaft. Ergebn. Deutsch. Zentral Afr. Exped. 1907-1908, 2: 423 (1912); Pflanzenw. Afr. 3: 749 (1915). — DE WILDEMAN, Fedde Repert. 13: 380 (1914); Bull. Jard. Bot. Bruxelles 5: 276 (1919); Pl. Bequaert. 3: 30 et 31 (1925). — CHEVALIER, Explor. bot. Afr. occ. fr. 1: 99 (1920). — MILDBRAED, Notizbl. Bot. Gart. Mus. Berlin 11: 1068 (1934). — KEAY, F.W.T.A. 2° ed., 1,2: 686 (1958). — GILBERT, Fl. Congo belge 7: 80 et 81 (1958). — AUBRÉVILLE, Fl. for. Côté d'Ivoire 2° ed., 2: 112, pl. 166 C et pl. 167 B (1959). — AKÉ ASSI, Bull. Jard. Bot. Brux. 30.4: 400 et pl. 15 (1960).
 
-( = F. attiensis (A. Chev.) Hutch. et Dalz. pro parte, F.W.T.A., 1 $^{re}$ ed., 1,2: 481 (1928).
+( = F. attiensis (A. Chev.) Hutch. et Dalz. pro parte, F.W.T.A., 1 rᵉ ed., 1,2: 481 (1928).
 
 Species widely distributed from Senegal to Angola, the former Belgian Congo, Uganda and the Republic of Sudan. In Gabon it is known only from a single specimen from the Lastoursville region; the following description is consequently based in part on specimens from neighboring territories. The multiple variations of this species make a narrow definition of F. leprieurii Engl. difficult and may raise some doubts about the synonymy mentioned above and adopted here.
 

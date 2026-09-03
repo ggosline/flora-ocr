@@ -24,7 +24,7 @@ tags: [species, generated]
 
 Liane. Young axes glabrous brown to greyish-brown, with alternately dark and pale bands; prickles scattered on the darker bands. Stipules caducous. Petiole puberulent, 2.5–7 (–10) cm long; upper surface bearing a cupuliform gland just above the pulvinus; lower surface with prickles. Rachis puberulent, 0.4–5 cm long; upper surface with gland at the level of insertion of the terminal pinnae. Pinnae 1–3 pairs. Pinnae axis puberulent, 5.5–13 cm long, upper surface keeled with a gland at the level of the apical leaflets. Leaflets 12–24 pairs, subsessile to shortly petiolulate; lower pair reduced or modified (1 ± normal and 1 reduced). Limb
 
-glabrous on both surfaces, oblong weakly falcate, reaching $ 28 \times 6.5 $ (–8) mm; base asymmetric: proximal margin truncate and distal margin weakly oblique; apex rounded obtuse mucronate. Main vein ± diagonal.
+glabrous on both surfaces, oblong weakly falcate, reaching 28 × 6.5 (–8) mm; base asymmetric: proximal margin truncate and distal margin weakly oblique; apex rounded obtuse mucronate. Main vein ± diagonal.
 
 Inflorescence in capitate spikes grouped in axillary fascicles or in panicles. Peduncle puberulent, 1–3.5 cm long. Bracteoles ovate elliptic, with unguiculate ribboned base; margin ciliate. Flower ♀, sessile whitish-yellow in the living state. Calyx glabrous, 2–2.5 mm long. Corolla glabrous to glabrescent 3 mm long. Ovary glabrous.
 

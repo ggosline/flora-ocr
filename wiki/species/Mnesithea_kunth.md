@@ -35,7 +35,7 @@ Gram. Cam. : 530, Pl. 119 ; Gram. CB. : 333, fig. 42. – Hackelochloa granulari
 
 Alers (Lopé) 45, 09.05.1986, c. 0°07'S-11°37'E, Réserve de la Lopé
 
-$ ^{*} $40. Monocymbium Stapf
+*40. Monocymbium Stapf
 
 *40.1 Monocymbium ceresiiforme (Nees) Stapf – Pl. 11, p. 41, 1-5 FACB 1 : 202, Pl. 15 ; FWTA : 499 ; FTEA : 825, fig. 190 ; Gram. Cam. : 504, Pl. 109 ; Poac. CI. : 622, 623 ; Gram. CB. : 319, fig. 39.
 

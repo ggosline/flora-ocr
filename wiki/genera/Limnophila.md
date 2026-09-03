@@ -25,28 +25,17 @@ B: Philcox (1970).
 
 Bibliography
 
-### Key to the species
-
-1. - Blade of aerial leaves of the floriferous part ± deeply lobed or divided
-
-..................................................................................................................... L. indica
-
-- Blade of aerial leaves of the floriferous part ± entire, with dentate or crenate margins, never divided or lobed .............................................................................. 2
-
-2. - Corolla up to 14 mm in length; bracteoles absent; stem densely pubescent; flowers in dense racemes .................................................. L. dasyantha
-
-- Corolla up to 3–4 mm in length; bracteoles present; stem pubescent; flowers in lax racemes ............................................................................. L. barteri
-
 ## Key to the species
 
-1. - Limb of aerial leaves of the floriferous part ± deeply lobed or divided
-..................................................................................................................... L. indica
-- Limb of aerial leaves of the floriferous part ± entire, with dentate or crenate margins,
-never divided or lobed .............................................................................. 2
-2. - Corolla up to 14 mm in length; bracteoles absent; stem densely pubescent; flowers in
-dense racemes .................................................. L. dasyantha
-- Corolla up to 3–4 mm in length; bracteoles present; stem pubescent; flowers in
-lax racemes ............................................................................. L. barteri
+
+**1.** Limb of aerial leaves of the floriferous part ± deeply lobed or divided → [[Limnophila_indica\|*L. indica*]] ^k1
+
+**1′.** Limb of aerial leaves of the floriferous part ± entire, with dentate or crenate margins, never divided or lobed → [[#^k2|2]]
+
+**2.** Corolla up to 14 mm in length; bracteoles absent; stem densely pubescent; flowers in dense racemes → [[Limnophila_dasyantha\|*L. dasyantha*]] ^k2
+
+**2′.** Corolla up to 3–4 mm in length; bracteoles present; stem pubescent; flowers in lax racemes → [[Limnophila_barteri\|*L. barteri*]]
+
 
 ## Species in region
 

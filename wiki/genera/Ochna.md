@@ -33,21 +33,21 @@ Taxonomic note: The species O. pulchra Hook.f. was mentioned in the Checklist of
 
 Bibliography: Amaral & Bittrich (2014), Bamps & Farron (1967), Robson (1963), Verdcourt (2005).
 
-### Key to the species
-
-1. - Flowers in fascicle or short raceme with rachis 1–4 mm; petals white or pale yellow; branchlets densely provided with small round and white lenticels; blade coriaceous, with margin serrate to crenate .................................................. O. afzelii
-
-- Flowers in raceme or panicle with rachis more than 2 cm; petals pale yellow to yellow; branchlets without or with round and white lenticels; blade with margin entire or with small spaced teeth or, if serrate, then blade membranous ......................... 2
-
 ## Key to the species
 
-1. - Flowers in fascicle or short raceme with rachis 1–4 mm; petals white or pale yellow; branchlets densely furnished with small round white lenticels; blade coriaceous, with margin serrulate to crenulate .................................................. O. afzelii
-- Flowers in raceme or panicle with rachis more than 2 cm; petals pale yellow to yellow; branchlets without or with small round white lenticels; blade with entire margin or with small spaced teeth or, if serrulate, then blade membranous ......................... 2
-2. - Inflorescence racemiform; anthers with longitudinal dehiscence; style with 5 short radiating stigmas; blade with 7 to 10 pairs of secondary nerves
-................................................................................................................ O. multiflora
-- Inflorescence paniculiform; anthers with poricidal dehiscence; style capitate; blade with (7–)10 to 20 pairs of secondary nerves ............................................................ 3
-3. - Flower buds globose or broadly ellipsoid; anthers 1.5–2 mm in length; sepals under the fruit up to 13 mm in length .......... O. membranacea
-- Flower buds oblong; anthers 4–5 mm in length; sepals under the fruit reaching 13–22 mm in length ......................................................... O. latisepala
+
+**1.** Flowers in fascicle or short raceme with rachis 1–4 mm; petals white or pale yellow; branchlets densely furnished with small round white lenticels; blade coriaceous, with margin serrulate to crenulate → [[Ochna_afzelii\|*O. afzelii*]] ^k1
+
+**1′.** Flowers in raceme or panicle with rachis more than 2 cm; petals pale yellow to yellow; branchlets without or with small round white lenticels; blade with entire margin or with small spaced teeth or, if serrulate, then blade membranous → [[#^k2|2]]
+
+**2.** Inflorescence racemiform; anthers with longitudinal dehiscence; style with 5 short radiating stigmas; blade with 7 to 10 pairs of secondary nerves → [[Ochna_multiflora\|*O. multiflora*]] ^k2
+
+**2′.** Inflorescence paniculiform; anthers with poricidal dehiscence; style capitate; blade with (7–)10 to 20 pairs of secondary nerves → [[#^k3|3]]
+
+**3.** Flower buds globose or broadly ellipsoid; anthers 1.5–2 mm in length; sepals under the fruit up to 13 mm in length → [[Ochna_membranacea\|*O. membranacea*]] ^k3
+
+**3′.** Flower buds oblong; anthers 4–5 mm in length; sepals under the fruit reaching 13–22 mm in length → [[Ochna_latisepala\|*O. latisepala*]]
+
 
 ## Species in region
 

@@ -39,6 +39,12 @@ known only from Bipindi, Yaoundé and Ndiki (Jacques-Félix 2560); with calyx lo
 
 3. Corolla in bud pubescent at least on the overlapping part of the lobes.
 
+## Key to the species
+
+
+**1′.** Inflorescence pseudo-axillary appearing at the level of a reduced leaf opposite a normal leaf; inflorescence rather long-pedunculate and branched; calyx with briefly triangular lobes; bracts caducous in the inflorescence → *A. ochroleuca*
+
+
 ## Species in region
 
 | Species | Vol | Pages |
@@ -48,9 +54,11 @@ known only from Bipindi, Yaoundé and Ndiki (Jacques-Félix 2560); with calyx lo
 
 ## Keyed but not treated
 
+
 The source key separates these species but the volume gives them no treatment, usually because they fall outside the area it covers in full. They are listed for identification; some are extralimital to the region.
 
-- *Aidia ochroleuca* — keyed in vol 17, not treated
+**—** *Aidia ochroleuca* — keyed in vol 17, not treated
+
 
 ## Treatments
 

@@ -31,11 +31,15 @@ locules**, and the fruits are spheroidal with about **10 seeds**.
 
 ## Keyed but not treated
 
+
 The source key separates these species but the volume gives them no treatment, usually because they fall outside the area it covers in full. They are listed for identification; some are extralimital to the region.
 
-- *Tridesmostemon claessensi* — keyed in vol 01, not treated
-- *Tridesmostemon congoense* — keyed in vol 01, not treated
-- *Tridesmostemon mortehani* — keyed in vol 01, not treated
+**—** *Tridesmostemon claessensi* — keyed in vol 01, not treated
+
+**—** *Tridesmostemon congoense* — keyed in vol 01, not treated
+
+**—** *Tridesmostemon mortehani* — keyed in vol 01, not treated
+
 
 ## Treatments
 

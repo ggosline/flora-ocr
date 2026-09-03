@@ -30,7 +30,7 @@ Tree (?) with dark red young branches, acute buds, pubescent, rust-colored; peti
 
 Le Testu 8778, Lécala, région de Lastoursville, 27 avril 1937 (P)
 
-Mann, sans numéro, Gaboon River  $ 1^{o} $ lat. N. 1859-63 (K et P)
+Mann, sans numéro, Gaboon River  1ᵒ lat. N. 1859-63 (K et P)
 
 ## Discussion
 

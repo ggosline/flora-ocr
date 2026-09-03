@@ -23,32 +23,25 @@ TYPE SPECIES: N. duparquetiana (Baill.) Keay.
 
 This genus comprises 15 or more species of which 14 are present in Africa; the remainder in America. In Gabon 5 are known.
 
-1. 1–2 pairs of pinnae; 2 leaflets per pinna ..... 1. N. duparquetiana.
-
-1'. More than 2 pairs of pinnae; more than 2 leaflets per pinna.
-
-2. Leaflets elliptic to rhombic; distinctly longer than 1 cm.
-
-3. No glands between the pairs of leaflets ..... 2. N. griffoniana.
-
-3'. Gland between the pairs of leaflets ..... 3. N. glandulifera.
-
-2'. Leaflets linear-oblong; less than ± 1 cm long.
-
-4. Petiole and rachis flattened; petiole ± 1 cm long ..... 4. N. leucocarpa.
-
-4'. Petiole and rachis cylindric, channelled above; petiole 2–3 cm long ..... 5. N. grandifolia.
-
 ## Key to the species
 
-1. 1-2 pairs of pinnae; 2 leaflets per pinna ..... 1. N. duparquetiana.
-1'. More than 2 pairs of pinnae; more than 2 leaflets per pinna.
-2. Leaflets elliptic to rhombic; distinctly longer than 1 cm.
-3. No glands between the pairs of leaflets ..... 2. N. griffoniana.
-3'. Gland between the pairs of leaflets ..... 3. N. glandulifera.
-2'. Leaflets linear oblong; less than ± 1 cm long.
-4. Petiole and rachis flattened; petiole ± 1 cm long ..... 4. N. leucocarpa.
-4'. Petiole and rachis cylindric, channelled above; petiole 2-3 cm long ..... 5. N. grandifolia.
+
+**1.** 1-2 pairs of pinnae; 2 leaflets per pinna → [[Newtonia_duparquetiana\|*N. duparquetiana*]] ^k1
+
+**1′.** More than 2 pairs of pinnae; more than 2 leaflets per pinna.
+
+**2.** Leaflets elliptic to rhombic; distinctly longer than 1 cm. ^k2
+
+**3.** No glands between the pairs of leaflets → [[Newtonia_griffoniana\|*N. griffoniana*]] ^k3
+
+**3′.** Gland between the pairs of leaflets → [[Newtonia_glandulifera\|*N. glandulifera*]]
+
+**2′.** Leaflets linear oblong; less than ± 1 cm long.
+
+**4.** Petiole and rachis flattened; petiole ± 1 cm long → [[Newtonia_leucocarpa\|*N. leucocarpa*]] ^k4
+
+**4′.** Petiole and rachis cylindric, channelled above; petiole 2-3 cm long → [[Newtonia_grandifolia\|*N. grandifolia*]]
+
 
 ## Species in region
 

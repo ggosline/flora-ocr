@@ -26,9 +26,9 @@ tags: [species, generated]
 
 ≡ Ebermaiera Le-Testuana (Benoist) Benoist, in Pellegrin, Mém. Soc. Linn. Norm., N. S. Bot. 1 (3) : 44 (1928).
 
-Perennial herb (?), erect or decumbent-ascending, reaching approximately 20 cm in height, with cylindrical pubescent stem. Petiole 2 cm. Leaf blade ovate, entire, obtuse at apex, acuminate at base, $ 6 \times 3 $ cm, hairy on both surfaces.
+Perennial herb (?), erect or decumbent-ascending, reaching approximately 20 cm in height, with cylindrical pubescent stem. Petiole 2 cm. Leaf blade ovate, entire, obtuse at apex, acuminate at base, 6 × 3 cm, hairy on both surfaces.
 
-Inflorescences in axillary and terminal spikes, up to 8 cm long; bracts linear, $ 10 \times 1.5 $ mm; bracteoles appressed to calyx and perfectly similar to linear-lanceolate sepals; the upper sepal and the two lower sepals are broader than the lateral sepals, $ 10 \times 0.5 $ mm long. Corolla 10 mm long, white, pubescent outside, with infundibuliform tube; limb with five rounded, subequal lobes. Stamens inserted at the lower half of the tube.
+Inflorescences in axillary and terminal spikes, up to 8 cm long; bracts linear, 10 × 1.5 mm; bracteoles appressed to calyx and perfectly similar to linear-lanceolate sepals; the upper sepal and the two lower sepals are broader than the lateral sepals, 10 × 0.5 mm long. Corolla 10 mm long, white, pubescent outside, with infundibuliform tube; limb with five rounded, subequal lobes. Stamens inserted at the lower half of the tube.
 
 Capsule slightly pubescent, approximately 6 mm long and 2.3 mm wide; 12 rugose seeds, with very prominent hilum, approximately 1 mm in diameter.
 

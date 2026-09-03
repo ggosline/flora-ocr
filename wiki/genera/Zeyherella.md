@@ -34,10 +34,13 @@ part of the ventral face.
 
 ## Keyed but not treated
 
+
 The source key separates these species but the volume gives them no treatment, usually because they fall outside the area it covers in full. They are listed for identification; some are extralimital to the region.
 
-- *Zeyherella longepedicellata* — keyed in vol 01, not treated
-- *Zeyherella mayombense* — keyed in vol 01, not treated
+**—** *Zeyherella longepedicellata* — keyed in vol 01, not treated
+
+**—** *Zeyherella mayombense* — keyed in vol 01, not treated
+
 
 ## Treatments
 

@@ -41,17 +41,13 @@ TYPE SPECIES: Fernandoa superba Welw. ex Seem. (= F. ferdinandi (Welw.) Milne-Re
 
 7 species, 3 from Madagascar, 3 from Africa, and at least one from Asia. In addition to the two Gabonese species, F. magnifica Seem. is encountered in the eastern part of the African continent extending from Kenya to Mozambique. Van STEENIS (Blumea 23: 121–138, 1976; Flora Malesiana, ser. 1, 8(2): 114–186, 1977) considered Haplophragma Dop., an Asian tropical genus, to be part of Fernandoa, but this makes it an extremely heterogeneous genus otherwise well delimited; on the other hand, Lamiodendron STEENIS from New Guinea, maintained by Van Steenis, would fit well within Fernandoa.
 
-### KEY TO SPECIES
-
-1. Flowers yellow, less than 6 cm long and less than 3 cm wide; leaves glabrous beneath except in the nerve axils and sometimes along the principal nerves ..... 1. F. adolfi-friderici.
-
-1'. Flowers orange; more than 6 cm long and more than 3 cm wide, leaves densely tomentose beneath ..... 2. F. ferdinandi.
-
 ## Key to the species
 
-1. Flowers yellow, less than 6 cm long and less than 3 cm wide; leaves glabrous beneath except in the nerve axils and sometimes along the principal nerves ..... 1. F. adolfi-friderici.
 
-1'. Flowers orange; more than 6 cm long and more than 3 cm wide, leaves densely tomentose beneath ..... 2. F. ferdinandi.
+**1.** Flowers yellow, less than 6 cm long and less than 3 cm wide; leaves glabrous beneath except in the nerve axils and sometimes along the principal nerves → [[Fernandoa_adolfi-friderici\|*F. adolfi-friderici*]] ^k1
+
+**1′.** Flowers orange; more than 6 cm long and more than 3 cm wide, leaves densely tomentose beneath → [[Fernandoa_ferdinandi\|*F. ferdinandi*]]
+
 
 ## Species in region
 

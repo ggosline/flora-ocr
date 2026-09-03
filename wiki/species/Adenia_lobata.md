@@ -7,10 +7,6 @@ family: Passifloraceae
 vol: 46
 pages: 69-71
 source: sources/Passifloraceae_vol46_liteparse
-countries: [Angola, Gabon, Mozambique, Senegal, Sudan]
-in_region: true
-habit: "liana"
-altitude_m: "550"
 tags: [species, generated]
 ---
 # *Adenia lobata* (Jacq.) Engl. Planche 25.1, 28
@@ -19,21 +15,25 @@ tags: [species, generated]
 **Family**: [[Passifloraceae]]
 **Protologue**: Bot. Jahrb. Syst. 14 : 375 (1891)
 
+## Synonyms
+
+- Modecca lobata Jacq., Fragm. Bot. 6 : 82, t. 131 (1809).
+
 ## Description
 
-A. rumicifolia Engl. & Harms in Engl., Veg. Erde 9, Pflanzenw. Afr. 3(2): 603 (1921). A. letouzeyi W.J.de Wilde, Acta Bot. Neerl. 16: 233 (1967). A. rumicifolia Engl. & Harms var. miegei (Aké Assi) W.J.de Wilde, Acta Bot. Neerl. 17: 292 (1968). A. lobata (Jacq.) Engl. subsp. rumicifolia (Engl.) Lye, Lidia 4(3): 92 (1998). (Sub-)woody liane, reaching 45 m in length; stem cylindrical to 4–5-ribbed, often provided with tubercles or 2–5 prominent and succulent wings, base up to 10 cm in diameter. Stipules minute, triangular, quickly caducous. Leaf with petiole 0.5–15 cm; blade sub-orbicular to broadly oblong, up to 25 × 20 cm, cordate at base, acute to long-acuminate at apex, papyraceous, upper surface dull, dark green, lower surface paler, shiny; two auriculate glands at the base of the blade, 1–3 mm in diameter, laminar glands 0–8, sub-marginal; sterile tendrils simple to 3–7-fid, up to 25 cm. Inflorescence at the apex of lateral branches, usually without tendrils, the male with up to 20 flowers, the female with 1–3 flowers; peduncle 0.5–2.5 cm; bracts and bracteoles narrowly triangular, 0.5–1 mm in length, acute at apex. Male flower with pedicel 2–20 mm and stipe 0.5–3 mm, cylindric-campanulate, 8–37 mm in length; hypanthium broadly cupuliforn, shallow, 1.5–5 mm in length, ± 5-chambered, chambers 0.5–1.5 mm in height; sepals connate into a tube 2–15 mm, with triangular lobes 4–14 mm in length, with sub-entire to laciniate-crenate margins, sub-obtuse to acute at apex; petals linear, oblong or broadly spatulate, 4–13 mm in length, obtuse to acute, with margins long laciniate-fimbriate; stamens inserted at the base of the hypanthium; corona composed of fine filaments or in the form of a woolly ring, 0.5–2 mm in height, glands of the hypanthium scaly, 1–3 mm in length; stamens with filaments 2–7 mm, connate for 0.5–2 mm, anthers 3.5–12 mm, with apicule 0.3–2 mm; pistillode 0.5–1 mm. Female flower resembling the male flowers, but with articulate pedicel 2–15 mm, 8–25(–30) mm in length; hypanthium 0.5–3 mm in height; sepals in a tube 3–15 mm and with lobes 5–16 mm; petals linear to spatulate oblanceolate, 4–10 mm, entire or laciniate-fimbriate at apex; staminodes 3–7 mm; ovary ovoid, ± trigonous, 4–8 × 2.5–4.5 mm, gynophore 0.5–2 mm; styles free to connate for ± 2 mm, with branches 1.5–5 mm, stigmas sub-reniform, 2.5–5 mm in diameter, woolly-papillose. Fruits 1–8 per inflorescence, broadly fusiform, 2.5–8 cm in length, with fleshy pericarp, coriaceous to woody; gynophore 1–10
+A. rumicifolia Engl. & Harms in Engl., Veg. Erde 9, Pflanzenw. Afr. 3(2): 603 (1921). A. letouzeyi W.J.de Wilde, Acta Bot. Neerl. 16: 233 (1967). A. rumicifolia Engl. & Harms var. miegei (Aké Assi) W.J.de Wilde, Acta Bot. Neerl. 17: 292 (1968). A. lobata (Jacq.) Engl. subsp. rumicifolia (Engl.) Lye, Lidia 4(3): 92 (1998). (Sub-)woody liane, reaching 45 m in length; stem cylindrical to 4–5-ribbed, often bearing tubercles or 2–5 prominent succulent wings, base up to 10 cm in diameter. Stipules minute, triangular, quickly caducous. Leaf with petiole 0.5–15 cm; lamina sub-orbicular to broadly oblong, up to 25 × 20 cm, with cordate base, acute to long-acuminate apex, papyraceous, upper surface dull, dark green, lower surface paler, glossy; two auricular glands at base of lamina, 1–3 mm in diameter, laminar glands 0–8, sub-marginal; sterile tendrils simple to 3–7-fid, up to 25 cm. Inflorescence at apex of lateral branches, generally without tendrils, the male with up to 20 flowers, the female with 1–3 flowers; peduncle 0.5–2.5 cm; bracts and bracteoles narrowly triangular, 0.5–1 mm in length, acute at apex. Male flower with pedicel 2–20 mm and stipe 0.5–3 mm, cylindric-campanulate, 8–37 mm in length; hypanthium broadly cupuliform, shallow, 1.5–5 mm in length, ± 5-chambered, septa 0.5–1.5 mm in height; sepals connate into a tube 2–15 mm, with triangular lobes 4–14 mm in length, with sub-entire to laciniate-crenate margins, sub-obtuse to acute at apex; petals linear, oblong or broadly spatulate, 4–13 mm in length, obtuse to acute, with long laciniate-fimbriate margins; stamens inserted at base of hypanthium; corona composed of fine filaments or in the form of a woolly ring, 0.5–2 mm in height, hypanthium glands scaly, 1–3 mm in length; stamens with filaments 2–7 mm, connate for 0.5–2 mm, anthers 3.5–12 mm, with apicule 0.3–2 mm; pistillode 0.5–1 mm. Female flower resembling male flowers, but with articulate pedicel 2–15 mm, 8–25(–30) mm in length; hypanthium 0.5–3 mm in height; sepals in a tube 3–15 mm and with lobes 5–16 mm; petals linear to spatulate oblanceolate, 4–10 mm, entire or laciniate-fimbriate at apex; staminodes 3–7 mm; ovary ovoid, ± trigonous, 4–8 × 2.5–4.5 mm, gynophore 0.5–2 mm; styles free to connate for ± 2 mm, with branches 1.5–5 mm, stigmas sub-reniform, 2.5–5 mm in diameter, woolly-papillate. Fruits 1–8 per inflorescence, broadly fusiform, 2.5–8 cm in length, with fleshy pericarp, coriaceous to woody; gynophore 1–10
 
-Longitudinal section of a male flower (× 2). – 4. Twig with leaf and female inflorescence (× ⅔). – 5. Longitudinal section of a female flower (× 2). – 6. Fruit (× 1). – 7. Seed (× 4). (1: Faden 69/2051; 2–5: Faulkner 3446; 6, 7: Conrads 5804). Drawing by M.E. Church, reproduced with permission of Royal Botanic Gardens Kew (©) from De Wilde (1975).
+Longitudinal section of a male flower (× 2). – 4. Branch with leaf and female inflorescence (× ⅔). – 5. Longitudinal section of a female flower (× 2). – 6. Fruit (× 1). – 7. Seed (× 4). (1: Faden 69/2051; 2–5: Faulkner 3446; 6, 7: Conrads 5804). Drawing by M.E. Church, reproduced with permission of Royal Botanic Gardens Kew (©) from De Wilde (1975).
 
-mm. Seeds numerous, 20–150 per capsule, oblong-ovoid to sub-orbicular, 3.5–6(–7) mm in length, with 5–9 pits on a meridian line.
+mm. Seeds numerous, 20–150 per capsule, oblong-ovoid to sub-orbicular, 3.5–6(–7) mm in length, with 5–9 pits along a meridional line.
 
 ## Distribution
 
-Tropical Africa, from Senegal to Sudan and from Ethiopia to Angola and Mozambique; very common in Gabon, present throughout the country.
+Tropical Africa, from Senegal to Sudan and from Ethiopia to Angola and Mozambique; very common in Gabon, present throughout the country
 
 ## Ecology
 
-Ombrophilous forests, forest galleries, forest regrowth, savannas, fallows; in Gabon up to 550 m altitude, elsewhere up to 1800 m. Flowers observed in April and from September to November and fruits from November to January. The flowers have a very pleasant and strong scent. Use: This medico-magical liane is used in various esoteric practices. The plants are a violent poison for goats. The crushed stems and branches serve to stun fish and to poison arrows. The roots are grated and applied to wounds. The stems serve as cords (Robyns, 1995).
+Ombrophilous forests, forest galleries, forest regrowth, savannas, fallows; in Gabon up to 550 m altitude, elsewhere up to 1800 m. Flowers observed in April and from September to November and fruits from November to January. The flowers have a very pleasant and strong fragrance. Uses: This medicinal-magical liane is used in various esoteric practices. The plants are a violent poison for goats. The crushed stems and branches are used to stun fish and to poison arrows. The roots are grated and applied to wounds. The stems serve as ropes (Robyns, 1995)
 
 ## Vernacular names
 

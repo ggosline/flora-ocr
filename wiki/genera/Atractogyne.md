@@ -27,17 +27,13 @@ Fleshy fruit with soft pulp exceeding 5–10 cm in length; seeds numerous, somew
 
 Type species: Atractogyne gabonii Pierre. A. bracteata second species of the genus is also Gabonese; very close, it is not substantially different in herbarium by its vegetative characters.
 
-### KEY TO SPECIES
-
-1. Fruit reaching 1–1.8 cm diam., attenuate at the extremities; ovary and young fruit 10-sulcate; cymes often pluriflorous or multiflorous; seeds with rather coarse tegumentary reticulum and moderately oblong meshes; wood 4-sulcate; leaf domatia moderately ciliate..... I. A. gabonii
-
-1'. Fruit reaching 3–5 cm diam., abruptly enlarged above the petiole; ovary and young fruit ovoid, smooth; cymes often pauciflorous; seeds with very fine reticulum and very narrowly drawn-out meshes; wood cylindric; leaf domatia densely pubescent.....
-
 ## Key to the species
 
-1. Fruit reaching 1–1.8 cm diam., attenuate at the extremities; ovary and young fruit 10-furrowed; cymes often pluriflorous or multiflorous; seeds with rather coarse tegumentary reticulum and moderately oblong meshes; wood 4-furrowed; leaf domatia moderately ciliate..... I. A. gabonii
 
-1'. Fruit reaching 3–5 cm diam., abruptly widened above the petiole; ovary and young fruit ovoid, smooth; cymes often pauciflorous; seeds with very fine reticulum and very narrowly elongate meshes; wood cylindric; leaf domatia densely pubescent.....
+**1.** Fruit reaching 1–1.8 cm diam., attenuate at the extremities; ovary and young fruit 10-furrowed; cymes often pluriflorous or multiflorous; seeds with rather coarse tegumentary reticulum and moderately oblong meshes; wood 4-furrowed; leaf domatia moderately ciliate → I. A. gabonii ^k1
+
+**1′.** Fruit reaching 3–5 cm diam., abruptly widened above the petiole; ovary and young fruit ovoid, smooth; cymes often pauciflorous; seeds with very fine reticulum and very narrowly elongate meshes; wood cylindric; leaf domatia densely pubescent.....
+
 
 ## Species in region
 

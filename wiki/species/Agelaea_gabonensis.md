@@ -34,7 +34,7 @@ Fruit. Immature follicles reaching 7 × 4 mm, velvety. - Pl. 6, p. 29.
 
 ## Type
 
-J.J. de Wilde & al. 9733, km 1 sur la piste de Rabi à Divangui,  $ 1^{0}54 $ S. –  $ 9^{0}53' $ E., Gabon
+J.J. de Wilde & al. 9733, km 1 sur la piste de Rabi à Divangui,  1⁰54 S. –  9⁰53' E., Gabon
 
 ## Distribution
 

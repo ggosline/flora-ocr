@@ -25,17 +25,13 @@ B: Beentje (2021), Barink (1984), Endress et al. (2019), Omino (2002).
 
 BIBLIOGRAPHY
 
-### Key to species
-
-- Leaf blade glabrous or almost so beneath with tertiary venation scarcely visible; median appendix of each corolla lobe rounded at the apex and pubescent ... P. gilletii
-
-- Leaf blade densely pubescent on the midrib beneath, with tertiary venation apparent; median appendix of each corolla lobe bifid at the apex ................................................................................................................. P. zenkeri
-
 ## Key to the species
+
 
 Corolla lobes almost lacking a tertiary venation visible under magnification, median appendix of each lobe of the corolla rounded at the apex and pubescent ... P. gilletii
 
-- Leaf blade densely pubescent on the midvein beneath, with tertiary venation apparent, median appendix of each lobe of the corolla bifid at the apex ................................................................................................................. P. zenkeri
+**—** Leaf blade densely pubescent on the midvein beneath, with tertiary venation apparent, median appendix of each lobe of the corolla bifid at the apex → [[Pleioceras_zenkeri\|*P. zenkeri*]]
+
 
 ## Species in region
 

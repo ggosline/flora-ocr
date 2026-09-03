@@ -19,7 +19,7 @@ tags: [species, generated]
 
 ## Description
 
-$ ^{9} $ (1974), FCAM 21: 19 (1980) and FTEA, Cruciferæ: 53 (1982).
+⁹ (1974), FCAM 21: 19 (1980) and FTEA, Cruciferæ: 53 (1982).
 
 rtium madagascariense DC., Syst. Nat. 2 : 192 (1821).
 

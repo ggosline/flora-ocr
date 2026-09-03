@@ -25,32 +25,29 @@ Bi: Brenan (1968b), van der Burg (2006), Faden (1998, 2012), Sosef et al. (2006)
 
 Bibliography
 
-### Key to species
-
-1. – (Semi-)floating plant, with flexuous stems, forming layers on water; leaf lamina not narrowed toward the base, without pseudipetiole, often amplexicaul ...................................................................................................................... F. aquatica
-
-– Plant of moist to dry places, generally erect or decumbent, not floating; leaf lamina generally with pseudipetiole .............................................. 2
-
-2. – Leaf lamina up to 2 times longer than wide; plant creeping, never exceeding 30 cm in length; upper petals rhomboidal ........................ F. mannii
-
-– Leaf lamina at least 3 times longer than wide; plants more robust (generally decumbent, more than 30 cm in length and up to 1.5 m); upper petals elliptic to ovate ...................................................................................................... 3
-
-3. – Leaf lamina linear, sessile and amplexicaul, more than 10 times longer than wide .......................................................................................................... F. glomerata
-
 ## Key to the species
 
-1. - Plant (semi-)floating, with flexuous stems, forming layers on water; leaf blade not narrowed toward the base, without pseudopetiole, often amplexicaul
-...................................................................................................................... F. aquatica
-- Plant of moist to dry places, generally erect or decumbent, not floating; leaf blade generally with pseudopetiole .............................................. 2
-2. - Leaf blade up to 2 times longer than wide; plant creeping, never exceeding 30 cm in length; upper petals rhomboidal ........................ F. mannii
-- Leaf blade at least 3 times longer than wide; more robust plants (generally decumbent, more than 30 cm in length and up to 1.5 m); upper petals elliptic to oval ...................................................................................................... 3
-3. - Leaf blade linear, sessile and amplexicaul, more than 10 times longer than wide .......................................................................................................... F. glomerata
-- Leaf blade narrowly elliptic-ovate, 3 to 4 times longer than wide ( F. africana ) .. 4
-4. - Robust plant, often more than 1 m in height; style distinctly longer than the sepals; sepals 3–4 mm in length; panicles 7–10 cm in length
-.......................................................................................... F. africana subsp . majuscula
-- More slender plant, not exceeding 90 cm in height; style of the same length or scarcely longer than the sepals; sepals 2–3 mm in length; panicles up to 5 cm in length ......................................................................................................... 5
-5. - Leaf blade ± 4 times longer than wide; plant erect or ascending, tinged red-purple, especially on the stems and lower surface of the leaves; up to 90 cm in height ........................................................................... F. africana subsp . africana
-- Leaf blade 3 times longer than wide; plant creeping, not tinged red-purple; fertile stem up to 20 cm in height ............. F. africana subsp . petrophila
+
+**1.** Plant (semi-)floating, with flexuous stems, forming layers on water; leaf blade not narrowed toward the base, without pseudopetiole, often amplexicaul → [[Floscopa_aquatica\|*F. aquatica*]] ^k1
+
+**1′.** Plant of moist to dry places, generally erect or decumbent, not floating; leaf blade generally with pseudopetiole → [[#^k2|2]]
+
+**2.** Leaf blade up to 2 times longer than wide; plant creeping, never exceeding 30 cm in length; upper petals rhomboidal → [[Floscopa_mannii\|*F. mannii*]] ^k2
+
+**2′.** Leaf blade at least 3 times longer than wide; more robust plants (generally decumbent, more than 30 cm in length and up to 1.5 m); upper petals elliptic to oval → [[#^k3|3]]
+
+**3.** Leaf blade linear, sessile and amplexicaul, more than 10 times longer than wide → [[Floscopa_glomerata\|*F. glomerata*]] ^k3
+
+**3′.** Leaf blade narrowly elliptic-ovate, 3 to 4 times longer than wide ( F. africana ) .. 4
+
+**4.** Robust plant, often more than 1 m in height; style distinctly longer than the sepals; sepals 3–4 mm in length; panicles 7–10 cm in length → F. africana subsp . majuscula ^k4
+
+**4′.** More slender plant, not exceeding 90 cm in height; style of the same length or scarcely longer than the sepals; sepals 2–3 mm in length; panicles up to 5 cm in length → [[#^k5|5]]
+
+**5.** Leaf blade ± 4 times longer than wide; plant erect or ascending, tinged red-purple, especially on the stems and lower surface of the leaves; up to 90 cm in height → F. africana subsp . africana ^k5
+
+**5′.** Leaf blade 3 times longer than wide; plant creeping, not tinged red-purple; fertile stem up to 20 cm in height → F. africana subsp . petrophila
+
 
 ## Species in region
 

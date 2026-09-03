@@ -33,14 +33,13 @@ The Thesium live uniquely in herbaceous formations. They are hemiparasitic on th
 
 ---
 
-1. Lateral flowers, arranged at the axil of a subtending bract and flanked by 2 lateral bracteoles; tepals generally 4, of 2-3 mm; achenes with 8 longitudinal ribs; stems of 40-75 cm; leaves of 1.25-1.5 mm..... 1. T. filipes.
-
-1'. Terminal flowers, surrounded by an involucre of 5 bracteoles; tepals 5, of approximately 1.6 mm; achenes with 10 longitudinal ribs; stems not exceeding or scarcely 40 cm; leaves reaching 15 mm..... 2. T. equisetoides.
-
 ## Key to the species
 
-1. Flowers lateral, arranged in the axil of a subtending bract and flanked by 2 lateral bracteoles; tepals generally 4, 2–3 mm; achenes with 8 longitudinal ribs; stems 40–75 cm; leaves 1.25–1.5 mm..... 1. T. filipes.
-1'. Flowers terminal, surrounded by an involucre of 5 bracteoles; tepals 5, approximately 1.6 mm; achenes with 10 longitudinal ribs; stems not exceeding or scarcely exceeding 40 cm; leaves reaching 15 mm..... 2. T. equisetoides.
+
+**1.** Flowers lateral, arranged in the axil of a subtending bract and flanked by 2 lateral bracteoles; tepals generally 4, 2–3 mm; achenes with 8 longitudinal ribs; stems 40–75 cm; leaves 1.25–1.5 mm → [[Thesium_filipes\|*T. filipes*]] ^k1
+
+**1′.** Flowers terminal, surrounded by an involucre of 5 bracteoles; tepals 5, approximately 1.6 mm; achenes with 10 longitudinal ribs; stems not exceeding or scarcely exceeding 40 cm; leaves reaching 15 mm → [[Thesium_equisetoides\|*T. equisetoides*]]
+
 
 ## Species in region
 

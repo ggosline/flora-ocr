@@ -40,7 +40,7 @@ The range of this tree encompasses Cameroon, Gabon, the Congo as well as a part 
 
 ## Vernacular names
 
-ossimiale (pilote, Fang) $ ^{1} $; mossinga (Bavoungou); essang (Fang); ekango (Mitsogho); elongjo (Nkomi)
+ossimiale (pilote, Fang) ¹; mossinga (Bavoungou); essang (Fang); ekango (Mitsogho); elongjo (Nkomi)
 
 ## Specimens examined
 

@@ -29,24 +29,17 @@ Etymology: in 1957, a rocky island of South Finistère, Reissant, caused the los
 
 Genus of 6 species, all from the Old World: 3 in continental Africa, 1 in Madagascar, 3 in Asia, of which the type variety of the principal species. In Cameroon and Gabon, two varieties of the latter.
 
-### KEY TO SPECIES AND VARIETIES
-
-1. Flowers entirely glabrous; petals entire, with attenuate subulate aspect; regions of dense humid forests.
-
-2. Flowers white or yellowish, small, 1.2–2 mm in diameter; leaves rarely green and concolorous when dry; flowers often brown when dry; young twigs often slender, often not clearly quadrangular ..... 1a. R. indica var. indica.
-
-2'. Flowers green, 2.5–4 mm in diameter; leaves often green and concolorous when dry; flowers often blackish when dry; young twigs often vigorous and often clearly quadrangular ..... 1b. R. indica var. astericantha.
-
 ## Key to the species
 
-1. Flowers entirely glabrous; petals entire, with attenuated subulate aspect; regions of dense humid forests.
 
-2. Flowers white or yellowish, small, 1.2-2 mm in diameter; leaves rarely green and concolorous when dry; flowers often brown when dry; young branches often slender, often not distinctly quadrangular
+**1.** Flowers entirely glabrous; petals entire, with attenuated subulate aspect; regions of dense humid forests. ^k1
 
-2'. Flowers green, 2.5-4 mm in diameter; leaves often green and concolorous when dry; flowers often blackish when dry; young branches often vigorous and often distinctly quadrangular ..... 1b. R. indica var. astericantha.
+**2.** Flowers white or yellowish, small, 1.2-2 mm in diameter; leaves rarely green and concolorous when dry; flowers often brown when dry; young branches often slender, often not distinctly quadrangular ^k2
 
-1. Flowers somewhat or very pubescent; petals somewhat denticulate and with non-attenuated subulate aspect; species of drier regions and notably of East Africa
-R. buchananii, and R. parviflora.
+**2′.** Flowers green, 2.5-4 mm in diameter; leaves often green and concolorous when dry; flowers often blackish when dry; young branches often vigorous and often distinctly quadrangular → 1b. R. indica var. astericantha.
+
+**1.** Flowers somewhat or very pubescent; petals somewhat denticulate and with non-attenuated subulate aspect; species of drier regions and notably of East Africa R. buchananii, and R. parviflora.
+
 
 ## Species in region
 

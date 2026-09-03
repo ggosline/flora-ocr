@@ -34,20 +34,35 @@ Usually hygrophilous herbs, sometimes woody at base, often producing aerating ro
 
 ## Key
 
-1. Stems with fusiform floats or masses of fine spongy roots; sepals 5.
-   1. Seeds firmly embedded vertically in coherent woody endocarp — [[Ludwigia_adscendens|*L. adscendens* subsp. *diffusa*]].
-   2. Seeds horizontal and loosely enclosed by horseshoe-shaped endocarp — [[Ludwigia_leptocarpa|*L. leptocarpa*]].
-2. Stems without these spongy structures; sepals usually 4.
-   1. Ovules and seeds in several rows per locule.
-      1. Plant glabrous, petals rounded — [[Ludwigia_erecta|*L. erecta*]].
-      2. Plant pubescent to hirsute, petals notched.
-         1. Seed raphe swollen and about as broad as seed — [[Ludwigia_octovalvis|*L. octovalvis*]].
-         2. Seed raphe narrow; lower leaf surface glaucous — [[Ludwigia_stenorraphe|*L. stenorraphe* subsp. *stenorraphe*]].
-   2. Ovules and seeds one-rowed, at least in the lower fruit.
-      1. Mixed short and long erect hairs; petals 5–6 mm; pedicels (2–)3–15 mm — [[Ludwigia_africana|*L. africana*]].
-      2. Plant glabrous or nearly so; petals 1–3.5 mm; flowers subsessile or pedicel to 3 mm.
-         1. Stamens 4; seeds one-rowed throughout — [[Ludwigia_abyssinica|*L. abyssinica*]].
-         2. Stamens 8; seeds one-rowed below and several-rowed above — [[Ludwigia_hyssopifolia|*L. hyssopifolia*]].
+
+**1.** Stems with fusiform floats or masses of fine spongy roots; sepals 5. ^k1
+
+**1.** Seeds firmly embedded vertically in coherent woody endocarp — [[Ludwigia_adscendens|*L. adscendens* subsp. *diffusa*]].
+
+**2.** Seeds horizontal and loosely enclosed by horseshoe-shaped endocarp — [[Ludwigia_leptocarpa|*L. leptocarpa*]]. ^k2
+
+**2.** Stems without these spongy structures; sepals usually 4.
+
+**1.** Ovules and seeds in several rows per locule.
+
+**1.** Plant glabrous, petals rounded — [[Ludwigia_erecta|*L. erecta*]].
+
+**2.** Plant pubescent to hirsute, petals notched.
+
+**1.** Seed raphe swollen and about as broad as seed — [[Ludwigia_octovalvis|*L. octovalvis*]].
+
+**2.** Seed raphe narrow; lower leaf surface glaucous — [[Ludwigia_stenorraphe|*L. stenorraphe* subsp. *stenorraphe*]].
+
+**2.** Ovules and seeds one-rowed, at least in the lower fruit.
+
+**1.** Mixed short and long erect hairs; petals 5–6 mm; pedicels (2–)3–15 mm — [[Ludwigia_africana|*L. africana*]].
+
+**2.** Plant glabrous or nearly so; petals 1–3.5 mm; flowers subsessile or pedicel to 3 mm.
+
+**1.** Stamens 4; seeds one-rowed throughout — [[Ludwigia_abyssinica|*L. abyssinica*]].
+
+**2.** Stamens 8; seeds one-rowed below and several-rowed above — [[Ludwigia_hyssopifolia|*L. hyssopifolia*]].
+
 
 ## Treatment
 

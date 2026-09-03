@@ -34,7 +34,7 @@ Shrub 2–6 m tall; branches ± horizontal, sometimes somewhat sarmentose. Inter
 
 Racemes of terminal cymes, pendulous, with peduncle 1.5–7 cm; floriferous cymes fairly dense. Flowers completely sessile, ± refracted toward the base of the inflorescence and 18–21 cm long. Calyx perfectly glabrous at the level of the ovary, with cupular margin glabrous or subglabrous 1.8–2 mm high, truncate or obtusely subdendate. Corolla narrow, white, with lobes very acute to subacuminate, with tube 1–1.5 mm wide when dry, ± puberulent externally (at least at the upper widened level of the tube), with internal pubescence localized near the base of the lobes. Anthers 3.5–4 mm. Style 12–15 mm, stigma included. Disk truncoconical.
 
-Fruit glabrous and sessile, $10–12 \times 7.5$ mm when dry, with calyxlike cup 3.5–5 mm diam. Seeds angular rugose 1 mm.
+Fruit glabrous and sessile, 10–12 × 7.5 mm when dry, with calyxlike cup 3.5–5 mm diam. Seeds angular rugose 1 mm.
 
 ## Type
 

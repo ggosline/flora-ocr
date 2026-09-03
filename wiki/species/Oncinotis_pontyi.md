@@ -24,7 +24,7 @@ Notul. Syst. (Paris) 2 : 201 (1912). Liane reaching 50 m in height; branches gla
 
 ![Oncinotis pontyi](../sources/Apocynaceae_vol59_liteparse/figures/fig_151_p0178.jpeg)
 
-*Plate 83 . Oncinotis pontyi : 1. Flowering branch (× ⅔). – 2. Detail of a branch (× ⅔). – 3. Base of a blade and top of petiole, with colleters, upper surface (× 4). – 4. Detail of a leaf blade, lower surface, with domatia (× 4). – 5. Flower (× 6). – 6. Idem, corolla tube in longitudinal section, showing two stamens and the pistil, the calyx and part of the corolla removed (× 8). – 7. Stamen, face*
+*Plate 83. Oncinotis pontyi: 1. Flowering branch (× ⅔). – 2. Detail of a branch (× ⅔). – 3. Base of a blade and top of petiole, with colleters, upper surface (× 4). – 4. Detail of a leaf blade, lower surface, with domatia (× 4). – 5. Flower (× 6). – 6. Idem, corolla tube in longitudinal section, showing two stamens and the pistil, the calyx and part of the corolla removed (× 8). – 7. Stamen, face*
 
 ## Notes
 

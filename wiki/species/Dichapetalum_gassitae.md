@@ -30,7 +30,7 @@ Leaves. Blade elliptic, ≈ 2 times longer than wide, 15–21 × 7–10 cm, base
 
 Inflorescences 12–34-flowered, velvety, subsessile, compact, ramifications indistinct or sometimes only one visible or else 2–4 distinct axes; basal part often mixed with long hispid hairs. Peduncle < 4 mm long. Bracts and bracteoles triangular, 1–6 mm long; external face velvety, internal puberulent. Pedicel < 5 mm, velvety, upper part absent.
 
-Flowers 7–8 mm long. Sepals erect, concave, ovate-elliptic, 5.5–6 × 4 mm; apex subacute; external face ± ribbed and velvety, internal tomentellose. Petals erect, shortly bilobed; base fused to the filaments for 0.5–1 mm, oblong 6.5–7 mm, split for 0.5 mm; sparse pubescence on both faces of the upper part; lobes concave. Stamens erect as long as the petals or somewhat shorter, glabrous; anthers 1 mm long, connective distinct. Staminodes subquadrate, $ 0.5 \times 0.5 $ mm, fairly thick, glabrous. Pistil 3-merous, 7 mm long; ovary 3-locular velvety; style glabrous with 3 short lobes bearing large reniform stigmas.
+Flowers 7–8 mm long. Sepals erect, concave, ovate-elliptic, 5.5–6 × 4 mm; apex subacute; external face ± ribbed and velvety, internal tomentellose. Petals erect, shortly bilobed; base fused to the filaments for 0.5–1 mm, oblong 6.5–7 mm, split for 0.5 mm; sparse pubescence on both faces of the upper part; lobes concave. Stamens erect as long as the petals or somewhat shorter, glabrous; anthers 1 mm long, connective distinct. Staminodes subquadrate, 0.5 × 0.5 mm, fairly thick, glabrous. Pistil 3-merous, 7 mm long; ovary 3-locular velvety; style glabrous with 3 short lobes bearing large reniform stigmas.
 
 Fruits unknown. – Pl. 23, p. 93.
 

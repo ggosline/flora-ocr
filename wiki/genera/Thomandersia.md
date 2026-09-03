@@ -21,7 +21,7 @@ tags: [genus, generated]
 
 ≠ Skytanthus Meyen, Reise 1:376 (1834).
 
-$ \neq $ Scytanthus Hook., Ic. Pl. 7 : 605-606 (1844).
+≠ Scytanthus Hook., Ic. Pl. 7 : 605-606 (1844).
 
 ≠ Scytanthus Liebm., Förhandl. Skand. Naturforsk. 4 : 177 (1844).
 

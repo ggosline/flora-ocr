@@ -41,7 +41,7 @@ Gillet 2006, Zaïre
 
 Very large liana reaching up to 20 m. Branchlets puberulent.
 
-Leaves. Petiole 1–8 cm long; rachis 2.5–12 cm; petiolules 1–3 mm long; leaflets 3–11, ovate to elliptic, glabrous or puberulent beneath, numerous mucilage cells on the upper surface forming small dots on herbarium specimens; acuminate at the apex; acumen emarginate; terminal leaflet $ 3.5–10 \times 1.5–6 $ cm; lateral leaflets $ 2.5–9 \times 1.5–4.5 $ cm, slightly asymmetric.
+Leaves. Petiole 1–8 cm long; rachis 2.5–12 cm; petiolules 1–3 mm long; leaflets 3–11, ovate to elliptic, glabrous or puberulent beneath, numerous mucilage cells on the upper surface forming small dots on herbarium specimens; acuminate at the apex; acumen emarginate; terminal leaflet 3.5–10 × 1.5–6 cm; lateral leaflets 2.5–9 × 1.5–4.5 cm, slightly asymmetric.
 
 Inflorescences ≤6 cm long, puberulent; bracteoles close to the calyx. Pedicels articulate at the apex.
 

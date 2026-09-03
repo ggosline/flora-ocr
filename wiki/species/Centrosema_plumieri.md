@@ -41,7 +41,7 @@ cocotte fermé, pois piant (fr.) ; butterfly pea (angl.). b : Botton & Hallé (1
 
 ![Centrosema plumieri](../sources/Millettiaspeciesfabaceae_vol49_liteparse/figures/fig_032_p0082.png)
 
-*Plate 24 : Centrosema plumieri : 1. Flowering stem. – 2. Flower and bracteole. – 3. Standard, wing and keel. – 4. Stamens with detail of the anthers. – 5. Pistil with detail of the stigma. – 6. Pod split open and seed. –*
+*PL. 24. Centrosema plumieri: 1. Flowering stem. – 2. Flower and bracteole. – 3. Standard, wing and keel. – 4. Stamens with detail of the anthers. – 5. Pistil with detail of the stigma. – 6. Pod split open and seed. –*
 
 ## Notes
 

@@ -26,7 +26,7 @@ Alers & Blom (Lopé) 111, 16.07.1986, c. 0°07'S-11°37'E, Réserve de la Lopé.
 
 54.1 Rottboellia cochinchinensis (Lour.) Clayton FTEA : 853, fig. 203 ; Gram. Cam. : 534, Pl. 118 ; Poac. CI. : 664, 665 ; Gram. CB. : 334, fig. 43. - R. exaltata L. f. - Fl. Gab. : 134, Pl. 22 ; FACB 1 : 64, Pl. 3 ; FWTA : 506, 508.
 
-$ ^{*} $55. Sacciolepis Nash
+*55. Sacciolepis Nash
 
 *55.1 Sacciolepis chevalieri Stapf – Pl. 16, p. 55, 1-3 FWTA : 425 ; FTEA : 459 ; Fl. Zamb. 10(3) : 44 ; Gram. Cam. : 235, Pl. 49 ; Poac. Cl. : 276, 277.
 

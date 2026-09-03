@@ -29,35 +29,13 @@ B ibliography
 
 (2007).
 
-### Key to the species
-
-1. - Stigmas connate at the base, ± 0.1 mm long, subglobose; tepals 1.2–1.3 mm long; pedicel 9–10 mm long after anthesis; anther 0.8–1 mm long ............................................................................................................. M. hallei
-
-- Stigmas crested (with dentate margin), sessile; tepals 0.3–0.6 mm long; pedicel 15–20 mm long after anthesis; anther 0.7–0.8 mm long
-
-............................................................................................................... M. heteromorpha
-
----
-
-Ledermanniella 41
-
----
-
-42 Jean-Paul GHOGUE
-
 ## Key to the species
 
-1. - Stigmas connate at base, ± 0.1 mm long, subglobose; tepals 1.2–1.3 mm long; pedicel 9–10 mm long after anthesis; anther 0.8–1 mm long ............................................................................................................. M. hallei
-- Stigmas crested (with denticulate margin), sessile; tepals 0.3–0.6 mm long; pedicel 15–20 mm long after anthesis; anther 0.7–0.8 mm long
-............................................................................................................... M. heteromorpha
 
----
+**1.** Stigmas connate at base, ± 0.1 mm long, subglobose; tepals 1.2–1.3 mm long; pedicel 9–10 mm long after anthesis; anther 0.8–1 mm long → [[Macropodiella_hallei\|*M. hallei*]] ^k1
 
-Ledermanniella 41
+**1′.** Stigmas crested (with denticulate margin), sessile; tepals 0.3–0.6 mm long; pedicel 15–20 mm long after anthesis; anther 0.7–0.8 mm long → M. heteromorpha Ledermanniella 41 42 Jean-Paul GHOGUE
 
----
-
-42 Jean-Paul GHOGUE
 
 ## Species in region
 

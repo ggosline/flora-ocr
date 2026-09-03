@@ -68,7 +68,7 @@ On peut encore rapprocher de cette espèce deux autres Sherbournia mal connus, d
 
 = Sherbournia Brazzaei Hua, Bull. Soc. Hist. Nat. Autun 14: 397 (1901).
 
-Cette variété diffère de la précédente par ses limbes généralement moins cordés à la base,  $ \pm $ cunéiformes, parfois obtus ou même arrondis chez le type de Hua. Les nervures secondaires sont au nombre de 7-9 paires.
+Cette variété diffère de la précédente par ses limbes généralement moins cordés à la base,  ± cunéiformes, parfois obtus ou même arrondis chez le type de Hua. Les nervures secondaires sont au nombre de 7-9 paires.
 
 Inflorescences toujours uniflores semble-t-il. Les lobes calycinaux sont lancéolés très aigus; ils varient de 7-22 × 3-6,5 dans les seuls numéros cités par Hua. La couleur des corolles est variable : rose (Le Testu 7645, Dewèvre 878 BR), rouge (Thollon 85 bis), grenat (Évrard 3959 BR) ou violet mauve (Louis 11842 et 14457 BR).
 

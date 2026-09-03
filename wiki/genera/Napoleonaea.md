@@ -27,31 +27,33 @@ Bibliography
 
 B: Hutchinson & Dalziel (1954), Aubréville (1959), Liben (1971), Prance (2004), Tsou (1994).
 
-Key to species
-
-1. - Flowers solitary or fasciculate, axillary or cauline; calyx with glandular lobes; third staminodial corona glabrous; fruit non-spiny, up to 7 cm in diameter ..................................................................................................... 2
-
-- Flowers in cauline panicles; calyx non-glandular; third staminodial corona tomentose toward the base; fruits spiny, up to 16 cm in diameter .................................................................................................. N. egertonii
-
-2. - Calyx lobes glabrous ........................................................................................... 3
-
 ## Key to the species
 
-1. - Flowers solitary or fasciculate, axillary or cauline; calyx with glandular lobes; third staminodial whorl glabrous; fruit not spinous, up to 7 cm in diameter ..................................................................................................... 2
-- Flowers in cauline panicles; calyx not glandular; third staminodial whorl tomentose toward the base; fruits spinous, up to 16 cm in diameter .................................................................................................. N. egertonii
-2. - Calyx lobes glabrous ........................................................................................... 3
-- Calyx lobes puberulent .................................................................................... 4
-3. - Leaves (12–)14–22(–24) × (4.5–)6–9 cm, with 8–11 pairs of lateral veins; calyx smooth ............................................................................................ N. imperialis
-- Leaves (5–)7.5–15(–18) × 2.5–7 cm, with 5–7(–9) pairs of lateral veins; calyx smooth to verrucose ............................................................................ N. vogelii
 
----
+**1.** Flowers solitary or fasciculate, axillary or cauline; calyx with glandular lobes; third staminodial whorl glabrous; fruit not spinous, up to 7 cm in diameter → [[#^k2|2]] ^k1
 
-4. - Leaves up to 3(–3.5) times as long as wide; calyx more than 12 mm in diameter; fruit not or slightly lobed .................................................................. 5
-- Leaves 3–4(–5.5) times as long as wide; calyx up to 9 mm in diameter; fruit distinctly 5–10-lobed .................................................................... N. talbotii
-5. - Bracts up to 5 mm in diameter, glabrous; calyx 12–22 mm in diameter ........ 6
-- Bracts 7–10 mm in diameter, with grayish puberulence; calyx 22–25 mm in diameter ............................................................................................... N. gabonensis
-6. - Leaves (7.5–)8–15(–18) × 2.5–7 cm, with 5–7(–9) pairs of lateral veins; calyx smooth to verrucose ............................................................................ N. vogelii
-- Leaves (14–)16–26(–31) × 5–9(–10) cm, with (6–)8–9(–10) pairs of lateral veins; calyx smooth ........................................................... N. septentrionalis Liben
+**1′.** Flowers in cauline panicles; calyx not glandular; third staminodial whorl tomentose toward the base; fruits spinous, up to 16 cm in diameter → [[Napoleonaea_egertonii\|*N. egertonii*]]
+
+**2.** Calyx lobes glabrous → [[#^k3|3]] ^k2
+
+**2′.** Calyx lobes puberulent → [[#^k4|4]]
+
+**3.** Leaves (12–)14–22(–24) × (4.5–)6–9 cm, with 8–11 pairs of lateral veins; calyx smooth → [[Napoleonaea_imperialis\|*N. imperialis*]] ^k3
+
+**3′.** Leaves (5–)7.5–15(–18) × 2.5–7 cm, with 5–7(–9) pairs of lateral veins; calyx smooth to verrucose → [[Napoleonaea_vogelii\|*N. vogelii*]]
+
+**4.** Leaves up to 3(–3.5) times as long as wide; calyx more than 12 mm in diameter; fruit not or slightly lobed → [[#^k5|5]] ^k4
+
+**4′.** Leaves 3–4(–5.5) times as long as wide; calyx up to 9 mm in diameter; fruit distinctly 5–10-lobed → [[Napoleonaea_talbotii\|*N. talbotii*]]
+
+**5.** Bracts up to 5 mm in diameter, glabrous; calyx 12–22 mm in diameter → [[#^k6|6]] ^k5
+
+**5′.** Bracts 7–10 mm in diameter, with grayish puberulence; calyx 22–25 mm in diameter → [[Napoleonaea_gabonensis\|*N. gabonensis*]]
+
+**6.** Leaves (7.5–)8–15(–18) × 2.5–7 cm, with 5–7(–9) pairs of lateral veins; calyx smooth to verrucose → [[Napoleonaea_vogelii\|*N. vogelii*]] ^k6
+
+**6′.** Leaves (14–)16–26(–31) × 5–9(–10) cm, with (6–)8–9(–10) pairs of lateral veins; calyx smooth → N. septentrionalis Liben
+
 
 ## Species in region
 

@@ -23,7 +23,7 @@ Fl. Gab.: 150; FWTA: 468; Gram. Cam.: 412; Poac. Cl.: 486, 487.
 
 van Bergen 504, 28.03.1996, Gamba, Vembo. Louis 2026, c. 0°25'N-9°25'E, pelouse CENAREST, Libreville. Meurillon 1905, 08.08.1969, c. 0°25'N-9°25'E, Libreville, P.K. 6.
 
-$ ^{*} $11. Coix L.
+*11. Coix L.
 
 *11.1 Coix lacryma-jobi L. - Pl. 3, p.19
 

@@ -33,19 +33,15 @@ According to C. B. Clarke the genus comprises 120 species mainly paleotropical; 
 
 ### FLORA OF GABON
 
-1. Petioles winged; base of leaf-blade triangular-acuminate and decurrent into the petiole; anterior lobe and the two posterior fused lobes of the calyx obovate, rounded at the apex, furnished with small multicellular glandular hairs; corolla about 35 mm long; anthers and style included in the corolla..... 1. B. alata.
-
-1'. Petioles non-winged; base of leaf-blade ± rounded, not decurrent into the petiole; anterior and the two posterior lobes of the calyx acuminate, furnished with small ordinary fused hairs; corolla about 30–40 mm long; anthers and style long-exserted.
-
-2. B. Brownii.
-
 ## Key to the species
 
-1.' Petioles winged; leaf blade base triangular-acuminate and decurrent into the petiole; anterior lobe and the two posterior fused lobes of the calyx obovate, rounded at the apex, provided with small multicellular glandular hairs; corolla approximately 35 mm long; anthers and style included within the corolla..... 1. B. alata.
 
-1'. Petioles not winged; leaf blade base ± rounded, not decurrent into the petiole; anterior lobes and the two posterior lobes of the calyx acuminate, provided with small ordinary fused hairs; corolla approximately 30-40 mm long; anthers and style long-exserted.
+**1.** ' Petioles winged; leaf blade base triangular-acuminate and decurrent into the petiole; anterior lobe and the two posterior fused lobes of the calyx obovate, rounded at the apex, provided with small multicellular glandular hairs; corolla approximately 35 mm long; anthers and style included within the corolla → [[Barleria_alata\|*B. alata*]] ^k1
 
-2. B. Brownii.
+**1′.** Petioles not winged; leaf blade base ± rounded, not decurrent into the petiole; anterior lobes and the two posterior lobes of the calyx acuminate, provided with small ordinary fused hairs; corolla approximately 30-40 mm long; anthers and style long-exserted.
+
+**2.** B. Brownii. ^k2
+
 
 ## Species in region
 

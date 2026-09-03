@@ -66,12 +66,17 @@ ramified; spikelets with numerous flowers; lemmas and paleas of the same length,
 
 ## Keyed but not treated
 
+
 The source key separates these species but the volume gives them no treatment, usually because they fall outside the area it covers in full. They are listed for identification; some are extralimital to the region.
 
-- *Guaduella densiflora* — keyed in vol 05, not treated
-- *Guaduella ledermannii* — keyed in vol 05, not treated
-- *Guaduella mildbraedii* — keyed in vol 05, not treated
-- *Guaduella zenkeri* — keyed in vol 05, not treated
+**—** *Guaduella densiflora* — keyed in vol 05, not treated
+
+**—** *Guaduella ledermannii* — keyed in vol 05, not treated
+
+**—** *Guaduella mildbraedii* — keyed in vol 05, not treated
+
+**—** *Guaduella zenkeri* — keyed in vol 05, not treated
+
 
 ## Treatments
 

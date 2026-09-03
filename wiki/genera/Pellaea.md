@@ -22,9 +22,11 @@ Type species (lectotype): Pellaea atropurpurea (L.) Link.
 
 Approximately 80 species, xerophilous, mainly in America, South Africa and Madagascar.
 
-1. Frond imparipinnate, rachis bearing narrow filiform scales
+## Key to the species
 
-1'. Frond bipinnate at the base, rachis bearing crisp, scattered hairs ..... 2. P. Holstii.
+
+**1′.** Frond bipinnate at the base, rachis bearing crisp, scattered hairs → 2. P. Holstii.
+
 
 ## Species in region
 

@@ -41,7 +41,7 @@ hibiscus à feuille de tilleul (fr.) ; beach mallow, sea hibiscus, sea rose-mall
 
 ![Hibiscus tiliaceus](../sources/Malvaceae_vol45_liteparse/figures/fig_033_p0080.png)
 
-*Plate 22. Hibiscus tiliaceus : 1. Floriferous branch with a fruit. – 2. Seed. Drawing by J. Berhaut, reproduced from Berhaut (1979).*
+*PL. 22. — Hibiscus tiliaceus : 1. Floriferous branch with a fruit. – 2. Seed. Drawing by J. Berhaut, reproduced from Berhaut (1979).*
 
 ## Notes
 

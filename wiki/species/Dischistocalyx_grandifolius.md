@@ -57,7 +57,7 @@ Thollon : 4052, forêt du Mayumbe, route de Brazzaville, arbuste de 2 m.
 
 EXPLICATION DE LA PLANCHE IV :
 
-1, sommité florifère; 2, grande feuille de  $ 13 \times 8.5 $ cm; 3, schéma d'une inflorescence partielle; a, bractée; b, bractéoles; c, bractéoles de  $ 2^\circ $ ordre; d, fleur centrale; e, fleur latérale; 4, corolle de  $ 48 $ mm de long; 5, corolle, face postérieure; 6, pistil (style  $ 40 $ mm de long, ovaire  $ 4 $ mm, disque  $ 1.5 $ mm de haut); 6', stigmate de  $ 4.5 $ mm de long; 7, coupe de la corolle montrant l'androcée avec anthères de  $ 6 $ mm de long; 8, fruit de  $ 17 $ mm de long; 9, graine de  $ 1.5 $ mm de diamètre. —  $ 1.7 $, d'après des dessins de N. Hallé  $ n^\circ 820 $ sur le vivant; 8, 9, N. Hallé  $ 2205 $.
+1, sommité florifère; 2, grande feuille de  13 × 8.5 cm; 3, schéma d'une inflorescence partielle; a, bractée; b, bractéoles; c, bractéoles de  2^° ordre; d, fleur centrale; e, fleur latérale; 4, corolle de  48 mm de long; 5, corolle, face postérieure; 6, pistil (style  40 mm de long, ovaire  4 mm, disque  1.5 mm de haut); 6', stigmate de  4.5 mm de long; 7, coupe de la corolle montrant l'androcée avec anthères de  6 mm de long; 8, fruit de  17 mm de long; 9, graine de  1.5 mm de diamètre. —  1.7, d'après des dessins de N. Hallé  n^° 820 sur le vivant; 8, 9, N. Hallé  2205.
 
 ## Figures
 

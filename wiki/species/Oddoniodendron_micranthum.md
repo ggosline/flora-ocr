@@ -39,7 +39,7 @@ Trees of medium size, with buttresses. Bole straight but not cylindric. Crown de
 
 Le Testu : 7493, Manenga (fl. oct.); 7593, Lastoursville (fl. nov.); 8410, Poupa (fl. oct.); 8422, Mouncoundangoy (fl. oct.).
 
-2. Oddoniodendron Normandii Aubréville, sp. nov. $ ^{1} $ (Pl. 64, p. 261)
+2. Oddoniodendron Normandii Aubréville, sp. nov. ¹ (Pl. 64, p. 261)
 
 Nkaga à grandes feuilles
 

@@ -30,30 +30,17 @@ Lye (1997).
 
 ---
 
-### Key to the species
-
-1. - Annual plant, without hard woody base; the 3 internal segments of the perianth
-square, clearly stipitate; not yet found in Gabon ........... F. ciliaris (L.) Roxb.
-
-- Perennial plant, with a hard woody base; internal segments of the perianth
-different ................................................................................................................. 2
-
-2. - Stem and sheath with 5 angles; blade 4–25 mm wide (3–4 mm in saline habitat); the
-3 internal segments of the perianth obovate to obcordate, sessile ........... F. umbellata
-
-- Stem and sheath triangular; blade 1–4 mm wide; perianth with 6 segments in
-scabrous needles .......................................................................................... F. stricta
-
 ## Key to the species
 
-1. - Annual plant, without hard woody base; the 3 internal perianth segments
-square, distinctly stipitate; not yet found in Gabon ........... F. ciliaris (L.) Roxb.
-- Perennial plant, with a hard woody base; internal perianth segments
-different ................................................................................................................. 2
-2. - Stem and sheath with 5 angles; blade 4‒25 mm wide (3‒4 mm in saline habitat); the
-3 internal perianth segments obovate to obcordate, sessile ........... F. umbellata
-- Stem and sheath triangular; blade 1‒4 mm wide; perianth with 6 scabrous needle-like
-segments .......................................................................................... F. stricta
+
+**1.** Annual plant, without hard woody base; the 3 internal perianth segments square, distinctly stipitate; not yet found in Gabon → F. ciliaris (L.) Roxb. ^k1
+
+**1′.** Perennial plant, with a hard woody base; internal perianth segments different → [[#^k2|2]]
+
+**2.** Stem and sheath with 5 angles; blade 4‒25 mm wide (3‒4 mm in saline habitat); the 3 internal perianth segments obovate to obcordate, sessile → [[Fuirena_umbellata\|*F. umbellata*]] ^k2
+
+**2′.** Stem and sheath triangular; blade 1‒4 mm wide; perianth with 6 scabrous needle-like segments → [[Fuirena_stricta\|*F. stricta*]]
+
 
 ## Species in region
 

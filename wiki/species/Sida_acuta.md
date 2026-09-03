@@ -42,7 +42,7 @@ sida aigu (fr.) ; broomweed, common fanpetals (angl.). Note taxonomique : Une es
 
 ![Sida acuta](../sources/Malvaceae_vol45_liteparse/figures/fig_034_p0082.png)
 
-*Plate 23. Sida acuta subsp. acuta : 1. Flowering branch with a fruit. – 2. Calyx open showing the mericarps. – 3. Mericarp. Drawing by J. Berhaut & B. Jouet, reproduced from Berhaut (1979).*
+*PL. 23. Sida acuta subsp. acuta: 1. Flowering branch with a fruit. – 2. Calyx open showing the mericarps. – 3. Mericarp. Drawing by J. Berhaut & B. Jouet, reproduced from Berhaut (1979).*
 
 ## Notes
 

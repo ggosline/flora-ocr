@@ -33,16 +33,13 @@ B: Beentje (2021), Endress et al. (2019), van der Ploeg (1985).
 
 BIBLIOGRAPHY
 
-### Key to the species
-
-1. - Corolla with tube 4.5–5.5 mm long, with lobes 4.5–6.5 × 0.9–1.5 mm; stamens included; domatia with ciliate margin; follicles 8–11 cm long .......... M. mildbraedii
-
-- Corolla with tube 12–18.5 mm long, with lobes 8–17 × 5–10 mm; stamens exserted; domatia with glabrous margin; follicles 16–47 cm long ....... M. bequaertiana
-
 ## Key to the species
 
-1. - Corolla with tube 4.5–5.5 mm long, lobes 4.5–6.5 × 0.9–1.5 mm; stamens included; domatia with ciliate margin; follicles 8–11 cm long .......... M. mildbraedii
-- Corolla with tube 12–18.5 mm long, lobes 8–17 × 5–10 mm; stamens exserted; domatia with glabrous margin; follicles 16–47 cm long ....... M. bequaertiana
+
+**1.** Corolla with tube 4.5–5.5 mm long, lobes 4.5–6.5 × 0.9–1.5 mm; stamens included; domatia with ciliate margin; follicles 8–11 cm long → [[Malouetia_mildbraedii\|*M. mildbraedii*]] ^k1
+
+**1′.** Corolla with tube 12–18.5 mm long, lobes 8–17 × 5–10 mm; stamens exserted; domatia with glabrous margin; follicles 16–47 cm long → [[Malouetia_bequaertiana\|*M. bequaertiana*]]
+
 
 ## Species in region
 

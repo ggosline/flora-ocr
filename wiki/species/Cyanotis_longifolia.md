@@ -46,7 +46,7 @@ The species is highly variable and several described varieties exist, particular
 
 ![Cyanotis longifolia](../sources/Commelinaceae_vol55_liteparse/figures/fig_022_p0034.png)
 
-*Plate 7. Cyanotis longifolia var. gracilis: 1. Apex of a stem with two inflorescences. – 2. In - florescence partial. – 3. Bracteole. – 4, 4'. Sepals. – 5. Petals. – 6. Stamen. – 7. Young fruit, transverse section. – 8, 8'. Fruits. – 9. Seed. (1-9: Vanden Berghen 7390). Drawing by C. Vanden Berghen,*
+*Plate 7. Cyanotis longifolia var. gracilis: 1. Apex of a stem with two inflorescences. – 2. Partial inflorescence. – 3. Bracteole. – 4, 4'. Sepals. – 5. Petals. – 6. Stamen. – 7. Young fruit, transverse section. – 8, 8'. Fruits. – 9. Seed. (1-9: Vanden Berghen 7390). Drawing by C. Vanden Berghen,*
 
 ## Notes
 

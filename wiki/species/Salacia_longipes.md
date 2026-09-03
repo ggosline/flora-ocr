@@ -116,7 +116,7 @@ Fruit oblong, elipsoide ou pyriforme, aigu ou obtus, lisse ou un peu
 
 PL. 18. — Salacia longipes (Oliv.) Hallé : 1, 1', bouton ; 2, fleur, diam. 10 mm ; 3, pétale, 5 × 3 mm ; 4, coupe du disque, diam. 3 mm ; 5, disque et androcée ; 6, anthère juv. ; 7, fruit large de 17 mm ; 8, schéma des graines dans un fruit ; 9, graine et demi-graine de 34 mm ; 10, graine vue de côté de la radicule ; 11, 11', coupes longitudinales de l'embryon (1-4, 6, Hallé N. 847 ; 5, 7-11, Hallé N. 1446). — S. longipes var. camerunensis (Loes.) Hallé : 12, bouton ; 13, calice vu par dessous ; 14, fleur, diam. 6 mm ; 15, pétale, 3 × 2,8 mm ; 16, coupe du disque, diam. 2 mm ; 17, etamine juv. ; 18, étamine de 0,8 mm ; 19, 19', étamine de la forme fredericarii (R. Wilczek) Hallé ; 20, fruit de 5,5 cm ; 21, autre fruit de 36 mm (12, 13, 17, Hallé N. 3746 ; 14, 16, 18, Hallé N. 3198 ; 15, Le Testu 7584 ; 19, 19, Fredericq 9552, Zaire ; 20, Van Meer 1131, Nigeria ; 21, Adam 20747, Libéria).
 
-verruqueux, de  $ 3-6,5 \times 2-4 $ cm, contenant 2-6 graines ± comprimées mais plutôt larges. - Pl. 18, fig. 12-21, p. 67.
+verruqueux, de  3-6,5 × 2-4 cm, contenant 2-6 graines ± comprimées mais plutôt larges. - Pl. 18, fig. 12-21, p. 67.
 
 ## Figures
 

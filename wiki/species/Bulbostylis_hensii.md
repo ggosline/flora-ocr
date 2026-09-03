@@ -7,12 +7,6 @@ family: Cyperaceae
 vol: 44
 pages: 25-27
 source: sources/Cyperaceae_vol44_liteparse
-countries: [Gabon, Madagascar]
-in_region: true
-subdivisions:
-  Gabon: [Haut-Ogooué, Ngounié, Ogooué-Ivindo, Ogooué-Maritime]
-habit: "herb"
-altitude_m: "0–500"
 tags: [species, generated]
 ---
 # *Bulbostylis hensii* (C.B.Clarke) R.W.Haines Planche 11, Figure 3a
@@ -21,17 +15,21 @@ tags: [species, generated]
 **Family**: [[Cyperaceae]]
 **Protologue**: Sedges & Rushes E. Afr., App. 3 : 1 (1983)
 
+## Synonyms
+
+- Fimbristylis hensii C.B.Clarke in Dyer, Fl. trop. Afr. 8 : 419 (1902).
+
 ## Description
 
-Base of the plant with stem. – C. Leaf sheath and base of the blade. – D, E. Details of the inflorescence. – F. Glume. – G. Fruit and style. Original drawing by Richard W. Haines ©. Perennial herb in tufts, with a short erect rhizome; stem 20–40 cm × 0.3–0.6 mm, somewhat flattened, striate, densely clothed with translucent hairs 0.5 mm, leafy at the base for 10 cm. Leaf: sheath green to pale reddish-brown, with numerous long fine hairs at the collar; blade filiform, 1–2(–10) cm long, hairy like the stem. Inflorescence in a simple umbelliform anthela with 2–6 spikelets, rarely a single one; involucral bracts brownish, less than 10 mm long, with a green central nerve, scabrous and prominent, with margins clothed with flexuose hairs 1–1.5 mm. Spikelet ovoid, 5–15 × 2–3 mm, acute; glumes 3–4 mm long, ovate, pale reddish-brown towards the base and at the margin, almost black near the central nerve at the apex, hairy; central nerve green, prominent on the lower glumes only, usually acute at the apex. Flower: style with 3 branches, with the base swollen often separating from the achene. Achene 1–1.4 × 0.8–1 mm, obovoid, somewhat triangular, pale brown to yellowish, becoming brown with paler angles at maturity, smooth; superficial cells rectangular, about 2 times longer than broad.
+Base of plant with stem. – C. Leaf sheath and base of limb. – D, E. Details of inflorescence. – F. Glume. – G. Fruit and style. Original drawing by Richard W. Haines ©. Perennial herb, caespitose, with short erect rhizome; stem 20–40 cm × 0.3–0.6 mm, slightly flattened, striated, densely clothed with translucent hairs 0.5 mm, leafy at base for 10 cm. Leaf: sheath green to pale reddish-brown, with numerous long fine hairs at the collar; limb filiform, 1–2(–10) cm long, hairy like the stem. Inflorescence in simple umbelliform anthela with 2–6 spikelets, rarely one only; involucral bracts brownish, less than 10 mm long, with green central nerve, scabrous and prominent, margin clothed with flexuous hairs 1–1.5 mm. Spikelet ovoid, 5–15 × 2–3 mm, acute; glumes 3–4 mm long, ovate, pale reddish-brown toward base and margin, almost black near central nerve at apex, hairy; central nerve green, prominent on lower glumes only, usually acute at apex. Flower: style with 3 branches, with swollen base often detaching from the achene. Achene 1–1.4 × 0.8–1 mm, obovoid, somewhat triangular, pale brown to yellowish, becoming brown with paler angles at maturity, smooth; superficial cells rectangular, approximately 2 times longer than wide.
 
 ## Distribution
 
-Tropical and subtropical Africa including Madagascar; uncommon in Gabon, found in the Ogooué-Ivindo, Ngounié, Haut-Ogooué and Ogooué-Maritime (6 collections)
+Tropical and subtropical Africa including Madagascar; uncommon in Gabon, found in Ogooué-Ivindo, Ngounié, Haut-Ogooué and Ogooué-Maritime (6 collections)
 
 ## Ecology
 
-in open marshy places, often in grasslands and savannas; in Gabon, at 0–500 m altitude, up to 1400 m in East Africa. Taxonomic note: very close to B. hispidula, but it often forms larger tufts and the anthelas have rather fewer spikelets, but it differs especially in its smooth achene with larger superficial cells
+in open marshy places, often in grasslands and savannas; in Gabon, at 0–500 m altitude, up to 1400 m in East Africa. Taxonomic note: very close to B. hispidula, but it often forms larger tufts and the anthelae have rather fewer spikelets, but it differs especially in its smooth achene with larger superficial cells
 
 a b B: Goetghebeur & Coudijzer (1984b), Haines & Lye (1983), Hoenselaar et al. (2010).
 

@@ -34,7 +34,7 @@ Secondary veins 6–9 pairs, ascending, not arched, anastomosing in arcs, promin
 
 Inflorescence in terminal or axillary panicle of solitary or fascicled racemes by 2–3, reaching a length of 54 cm. Panicle rachis ± pubescent. Raceme rachis pubescent ribbed. Bractlet pubescent externally, very narrowly triangular, 1.5 mm long, with very acute apex. Pedicel pubescent, 0.5–1 mm long. Floral bud obovoid oblong, stamen filament folded and surrounding the ovary. Flower ±, white or yellowish-white fragrant when fresh. Sepals appressed-pubescent externally, red when fresh, ± 1.25 mm long; lobes triangular ± 0.5 mm long, apex acute to obtuse. Petals pubescent externally, yellow or yellowish-white in living state, fleshy when fresh, oblanceolate, 2.25–3 mm long, apex acute thickened. Stamens 3.5–4 mm long, ± free from each other; anther oblong, 0.5 mm long, with connective prolonged by a globose pedicellate caducous gland. Ovary substipitate, pubescent ± hirsute, 0.60–1 mm long, with 8–9 ovules; style 0.5 mm long.
 
-Legume woody, glabrous, black in the dried state, dehiscent by 2 slits, asymmetrically elliptic, $ 8 \times 1.4 $ cm, base attenuate not stipitate, faces obliquely striated with sutural borders scarcely thickened, apex obtuse apiculate. - Pl. 17, p. 69.
+Legume woody, glabrous, black in the dried state, dehiscent by 2 slits, asymmetrically elliptic, 8 × 1.4 cm, base attenuate not stipitate, faces obliquely striated with sutural borders scarcely thickened, apex obtuse apiculate. - Pl. 17, p. 69.
 
 ## Type
 

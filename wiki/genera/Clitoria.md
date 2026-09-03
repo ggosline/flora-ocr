@@ -29,16 +29,13 @@ Notes: The similarities between the genera Clitoria and Centrosema do not surpri
 
 Bibliography: Fantz (1980), Mackinder et al. (20010), Pellegrin (1949), Verdcourt (1971c), Wilczek (1954).
 
-### Key to species
-
-1. – Leaflets 5 to 7; stipelles 1–2 mm in length; flowers solitary, with corolla violet to blue or rarely white; legume flattened, linear to falciform, ± smooth, pointed, 6–12 cm in length .......................................................................................................... C. ternatea
-
-– Leaflets 3; stipelles 3–5 mm in length; flowers 1 to 4 per peduncle, with corolla white marked with purple; legume swollen, ± straight, oblong-elliptic, with longitudinal ribs, with aristulate apex, 3–4 cm in length ....................................... C. falcata
-
 ## Key to the species
 
-1. - Leaflets 5 to 7; stipels 1–2 mm long; flowers solitary, with violet to blue corolla or rarely white; pod flattened, linear to falciform, ± smooth, pointed, 6–12 cm long .......................................................................................................... C. ternatea
-- Leaflets 3; stipels 3–5 mm long; flowers 1 to 4 per peduncle, with white corolla marked with purple; pod inflated, ± straight, oblong-elliptic, with longitudinal ribs, with aristate apex, 3–4 cm long ....................................... C. falcata
+
+**1.** Leaflets 5 to 7; stipels 1–2 mm long; flowers solitary, with violet to blue corolla or rarely white; pod flattened, linear to falciform, ± smooth, pointed, 6–12 cm long → [[Clitoria_ternatea\|*C. ternatea*]] ^k1
+
+**1′.** Leaflets 3; stipels 3–5 mm long; flowers 1 to 4 per peduncle, with white corolla marked with purple; pod inflated, ± straight, oblong-elliptic, with longitudinal ribs, with aristate apex, 3–4 cm long → [[Clitoria_falcata\|*C. falcata*]]
+
 
 ## Species in region
 

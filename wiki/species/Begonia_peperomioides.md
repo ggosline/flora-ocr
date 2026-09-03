@@ -35,7 +35,7 @@ ILESSEL National Herbarium of the Netherlands – Wageningen branch.
 
 ![Begonia peperomioides](../sources/Begoniaceae_vol39_liteparse/figures/fig_043_p0062.png)
 
-*Plate 28. Begonia peperomioides: 1. Flowering plant (× ⅔). – 2. Detail of leaf base, lower surface (× 4). – 3. Flower ♂ (× 2). – 4. Androecium front view (× 4). – 5. Stamen, front and back (× 8). – 6. Flower ♀ (× 2). – 7. Fruit (× 1). (1-7: Breteler & de Wilde 369). Drawing by W W,*
+*PL. XXVIII. — Begonia peperomioides: 1. Flowering plant (× ⅔). – 2. Detail of leaf base, lower surface (× 4). – 3. Flower ♂ (× 2). – 4. Androecium front view (× 4). – 5. Stamen, front and back (× 8). – 6. Flower ♀ (× 2). – 7. Fruit (× 1). (1-7: Breteler & de Wilde 369). Drawing by W W,*
 
 ## Notes
 

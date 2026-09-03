@@ -32,7 +32,7 @@ Capsule with pedicel 10 mm long, calyx bright red, of orange tint then bright re
 
 ## Type
 
-Zenker 1119 $ ^{1} $ et 3737, Cameroun (B, delet.; iso- (3737), K! P!)
+Zenker 1119 ¹ et 3737, Cameroun (B, delet.; iso- (3737), K! P!)
 
 ## Discussion
 

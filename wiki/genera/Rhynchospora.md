@@ -43,28 +43,39 @@ b: Haines & Lye (1983), Hoenselaar et al. (2010), Hooper (1972), Lye
 
 ## Key to the species
 
-1. - Spikelet white, with generally more than 30 flowers .................................. R. candida
-- Spikelet brown to golden yellow, with fewer than 10 flowers .................................................. 2
-2. - Plant slender; inflorescence formed of a single hemispherical head ........... R. rubra
-- Plant slender or robust; inflorescence formed of several heads, groups of sessile spikelets
-or spikelets ± pedicellate ......................................................................... 3
-3. - Terminal inflorescence, in an umbelliform anthela formed of a sessile spherical
-head and one or more pediculate heads ........................ R. holoschoenoides
-- Inflorescence composed of a terminal inflorescence and several lateral ones
-distributed along the stem ....................................................................................... 4
-4. - Robust plant, perennial, generally more than 1 m tall; style entire ............... 5
-- Slender plant, annual or perennial, less than 1 m tall; style with 2 long
-branches .................................................................................................................. 6
-5. - Robust plant, with laminae often more than 10 mm wide ..... R. corymbosa
-- Rather robust plant, with laminae 2–5 mm wide .......................... R. triflora
-6. - Perianth bristles present ..................................................................... R. brownii
-- Perianth bristles absent ..................................................................................... 7
-7. - Most spikelets sessile or nearly so; achene coarsely wrinkled
-................................................................................................................... R. perrieri
-- Spikelets distinctly pedicellate; achene finely wrinkled ................................... 8
-8. - Lamina at most 5 mm wide, plane; spikelets on a robust peduncle .... R. eximia
-- Lamina at most 1.5 mm wide, canaliculate; spikelets on a slender peduncle
-............................................................................... R. gracillima subsp. subquadrata
+
+**1.** Spikelet white, with generally more than 30 flowers → [[Rhynchospora_candida\|*R. candida*]] ^k1
+
+**1′.** Spikelet brown to golden yellow, with fewer than 10 flowers → [[#^k2|2]]
+
+**2.** Plant slender; inflorescence formed of a single hemispherical head → [[Rhynchospora_rubra\|*R. rubra*]] ^k2
+
+**2′.** Plant slender or robust; inflorescence formed of several heads, groups of sessile spikelets or spikelets ± pedicellate → [[#^k3|3]]
+
+**3.** Terminal inflorescence, in an umbelliform anthela formed of a sessile spherical head and one or more pediculate heads → [[Rhynchospora_holoschoenoides\|*R. holoschoenoides*]] ^k3
+
+**3′.** Inflorescence composed of a terminal inflorescence and several lateral ones distributed along the stem → [[#^k4|4]]
+
+**4.** Robust plant, perennial, generally more than 1 m tall; style entire → [[#^k5|5]] ^k4
+
+**4′.** Slender plant, annual or perennial, less than 1 m tall; style with 2 long branches → [[#^k6|6]]
+
+**5.** Robust plant, with laminae often more than 10 mm wide → [[Rhynchospora_corymbosa\|*R. corymbosa*]] ^k5
+
+**5′.** Rather robust plant, with laminae 2–5 mm wide → [[Rhynchospora_triflora\|*R. triflora*]]
+
+**6.** Perianth bristles present → [[Rhynchospora_brownii\|*R. brownii*]] ^k6
+
+**6′.** Perianth bristles absent → [[#^k7|7]]
+
+**7.** Most spikelets sessile or nearly so; achene coarsely wrinkled → [[Rhynchospora_perrieri\|*R. perrieri*]] ^k7
+
+**7′.** Spikelets distinctly pedicellate; achene finely wrinkled → [[#^k8|8]]
+
+**8.** Lamina at most 5 mm wide, plane; spikelets on a robust peduncle → [[Rhynchospora_eximia\|*R. eximia*]] ^k8
+
+**8′.** Lamina at most 1.5 mm wide, canaliculate; spikelets on a slender peduncle → R. gracillima subsp. subquadrata
+
 
 ## Species in region
 

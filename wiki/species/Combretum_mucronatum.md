@@ -38,9 +38,9 @@ Scales absent.
 
 Inflorescences: large terminal panicles or axillary with often rudimentary leaves; rachis ≤ 9 cm; bracts barely visible.
 
-Flowers 4-merous, shortly stipitate, not protogynous, fragrant. Receptacle 4 mm high, greenish-brown, exterior covered with small glandular hairs and erect non-glandular hairs; upper receptacle campanulate, $ 2 \times 2 $ mm. Calyx; lobes barely visible. Petals long-stipitate, glabrous, white, margin ciliate with small glandular hairs. Stamens exserted 4–5 mm; filaments white; anthers 0.2–0.4 mm long, cream to pale brown. Disk glabrous, free margin narrow. Style exserted 4 mm, glabrous, white.
+Flowers 4-merous, shortly stipitate, not protogynous, fragrant. Receptacle 4 mm high, greenish-brown, exterior covered with small glandular hairs and erect non-glandular hairs; upper receptacle campanulate, 2 × 2 mm. Calyx; lobes barely visible. Petals long-stipitate, glabrous, white, margin ciliate with small glandular hairs. Stamens exserted 4–5 mm; filaments white; anthers 0.2–0.4 mm long, cream to pale brown. Disk glabrous, free margin narrow. Style exserted 4 mm, glabrous, white.
 
-Fruit, obovate in profile, $ 1.5 \times 1.5 $ cm, membranous wings, reddish; stipe $ \leq 2 $ mm (Pl. 1 E, p. 11).
+Fruit, obovate in profile, 1.5 × 1.5 cm, membranous wings, reddish; stipe ≤ 2 mm (Pl. 1 E, p. 11).
 
 ## Distribution
 

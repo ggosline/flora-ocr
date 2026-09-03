@@ -25,27 +25,17 @@ Taxonomic note: In Gabon, all Passiflora are introduced. In gardens, other ornam
 
 Bibliography: De Wilde (1975), Fernandes & Fernandes (1978), Hutchinson & Dalziel (1954), Killip (1938), Robyns (1995), Sinsin (2006), Zepernick & Timler (1984).
 
-### Key to species
-
-1. - Limb entire, penninerved ............................................................. P. quadrangularis
-
-- Limb lobed, 3–5-palmatinerved ................................................................................ 2
-
-2. - Plant fetid to touch; bracts of the involucre (surrounding the flower and fruit) 2–4-times pennatipartite, the ultimate segments narrowly linear and topped with a gland; petals white ..................................................................... P. foetida
-
-- Plant without bad odor; bracts of the involucre simple; petals blue-purple
-
-...................................................................................................................... P. edulis
-
 ## Key to the species
 
-1. - Limb entire, pinnately veined ............................................................. P. quadrangularis
-- Limb lobed, 3–5-palmatinerved ................................................................................ 2
-2. - Plant fetid to the touch; involucral bracts (surrounding the flower and fruit)
-2–4-times pinnatipartite, the ultimate segments narrowly linear and surmounted
-by a gland; petals white ..................................................................... P. foetida
-- Plant without foul odor; involucral bracts simple; petals blue-purple
-...................................................................................................................... P. edulis
+
+**1.** Limb entire, pinnately veined → [[Passiflora_quadrangularis\|*P. quadrangularis*]] ^k1
+
+**1′.** Limb lobed, 3–5-palmatinerved → [[#^k2|2]]
+
+**2.** Plant fetid to the touch; involucral bracts (surrounding the flower and fruit) 2–4-times pinnatipartite, the ultimate segments narrowly linear and surmounted by a gland; petals white → [[Passiflora_foetida\|*P. foetida*]] ^k2
+
+**2′.** Plant without foul odor; involucral bracts simple; petals blue-purple → [[Passiflora_edulis\|*P. edulis*]]
+
 
 ## Species in region
 

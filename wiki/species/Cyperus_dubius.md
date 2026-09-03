@@ -38,7 +38,7 @@ In shallow seasonally humid soils of rocky outcrops, in grassy areas or as a wee
 
 ![Cyperus dubius](../sources/Cyperaceae_vol44_liteparse/figures/fig_043_p0057.png)
 
-*Plate 31 . Cyperus distans. A, B. Base of the plant Plate 32 . Cyperus dubius. A. Plant. – B. and inflorescence. – C. Transverse section of the blade. – Inflorescence. – C. Receptacle of the inflorescence. –*
+*PL. XXXI. — Cyperus distans. A, B. Base of the plant PL. XXXII. — Cyperus dubius. A. Plant. – B. and inflorescence. – C. Transverse section of the blade. – Inflorescence. – C. Receptacle of the inflorescence. –*
 
 ## Notes
 

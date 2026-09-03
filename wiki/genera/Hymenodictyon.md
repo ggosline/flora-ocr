@@ -31,27 +31,13 @@ About twenty tropical species from Asia, Indonesia, Madagascar and Africa. Two G
 
 ### KEY TO THE HYMENODICTYON
 
-1. Fruit less than 2 cm long; corolla swollen clavate in bud.
+## Key to the species
 
-2. Fine leaf venation well apparent; underside of leaf ± pubescent, at least the axillary domatia alone pubescent; limb elliptic rather broad; seeds less than 2 times longer than broad.
 
-2'. Fine venation not apparent; underside of leaf entirely glabrous; limb obovate rather narrow; seed more than 3 times longer than broad ..... 2. H. biafranum.
+**1′.** Fruit exceeding 2.5 cm in length; corolla abruptly capitate in bud → H. pachyantha. PL. 7.— Hymenodyction floribundum (Steud. et Hochst.) B. L. Rob. (1, Le Testu 9008; 3 to 9, N. Hallé 3080); 1, young inflorescence; 2, stipule; 3, flowering branch; 4, bud and open flower; 5, flower in longitudinal section; 6, stamen front and profile; 7, ovary in transverse section; 8, old infructescence; 9, seed.
 
-1'. Fruit more than 2.5 cm long; corolla abruptly capitate in bud ..... H. pachyantha.
+**1.** Hymenodictyon floribundum (Steud. et Hochst). B. L. Rob. (PL. 7) Robinson, Proc. Amer. Acad. 45 : 404 (1901). — Aubréville, F.F.C.I., ed. 2, 3 : 294 (1959). — F.W.T.A., ed. 2, 2 : 111 (1963). = Kurria floribunda Steud. et Hochst., Flora : 234 (1842). = Hymenodictyon kurria Hochst., Flora : 71 (1843). Shrub or small branched tree 4–8 m; trunk diameter exceeding 10 cm; wood soft; branches very brittle. Stipules triangular acute 8–12 mm long, curved, with glandular margins. Petiole 7–40 mm, glabrous or puberulent. Blade rather thin, glabrous above, puberulent or ± glabrous on the lower face with at least the axillary domatia puberulent, 5–18 × 2–8 cm; base acute or cuneiform; apex often broad bearing a triangular medium or small acumen. 7–9 pairs of secondary veins puberulent or glabrous. Fine veinlets in a well-apparent reticulate pattern on the lower face of the dry blade. Inflorescences erect 6–15(20) cm plus peduncle 2–6 cm, 2.5–3 cm broad at anthesis. Lower bracts with petiole 3.5–5 cm and blade 6–9 × 1.7–3.5 cm, pale green or ± reddish. Rachis and pedicels puberulent as well as the ovary. 5(6) calycine lobes narrowly attenuate, ± puberulent, 1 mm or less long. Corolla tubular attenuate towards the base, 4–7 × 1.5–3 mm, puberulent to glabrous, with short triangular lobes, yellowish ± washed with wine-red. Filaments 1 mm inserted towards the middle of the tube. Anther 2 × 0.9 mm, with acute apex of the connective. Pollen yellow. Style slender 8–10 mm with capitate stigma 1 mm in vivo. Fruit 11–15 mm, with pedicel 6–9 mm; valves brownish with lenticels. Seeds light brown 7 × 2.5 mm, with marginal wing. Type: Schimper 277 (P!), Abyssinia. Variable species, principally in the pubescence of its leaves and its habit. It grows on ± denuded and ± rocky elevations. Vast distribution from Fouta-Djallon to East Africa and Angola. Gabonese material (described above): N. Hallé: 3080, Bélinga, alt. 975 m, in shrubby forest on rocky slope (fl. fr. Nov.). Le Testu: 8625, Mont Iboundji, alt. 900–1000 m (fl. Dec.); 8953, Kemboma (fl. Oct.); 9008, Koum rock between Oyem and Bitam (fl. Mar.). ^k1
 
----
-
-PL. 7.— Hymenodictyon floribundum (Steud. et Hochst.) B. L. Rob. (1, Le Testu 9008; 3 to 9, N. Hallé 3080); 1, young inflorescence; 2, stipule; 3, flowering branch; 4, bud and open flower; 5, flower in longitudinal section; 6, stamen face and profile; 7, ovary in transverse section; 8, old fruiting inflorescence; 9, seed.
-
----
-
-1. Hymenodictyon floribundum (Steud. et Hochst.)
-
-B. L. Rob. (PL. 7)
-
-Robinson, Proc. Amer. Acad. 45 : 404 (1901). — Aubréville, F.F.C.I., ed. 2,
-
-3 : 294 (1959). — F.W.T.A., ed. 2, 2 : 111 (1963).
 
 ## Species in region
 

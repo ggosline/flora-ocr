@@ -29,18 +29,13 @@ Bibliography
 
 B: Boutique (1972), Klackenberg (1990), Paiva & Nogueira (1990), Raynal (1968), Sileshi (2002), Struwe & Albert (2002), Struwe & Pringle (2018), Taylor (1963).
 
-### Key to species
-
-1. – Lower leaves in rosette; flowers grouped in corymbiform inflorescences, long-pedunculate ............................................................................. N. corymbosa
-
-– Leaves not in rosette, scattered along the stem; flowers solitary or geminate, arranged along the entire length of the stem .................. N. loeselioides subsp. loeselioides
-
 ## Key to the species
 
-1. - Lower leaves in rosette; flowers grouped in corymb-like inflorescences,
-with long peduncles ............................................................................. N. corymbosa
-- Leaves not in rosette, scattered along the stem; flowers solitary or geminate,
-arranged along the entire length of the stem .................. N. loeselioides subsp. loeselioides
+
+**1.** Lower leaves in rosette; flowers grouped in corymb-like inflorescences, with long peduncles → [[Neurotheca_corymbosa\|*N. corymbosa*]] ^k1
+
+**1′.** Leaves not in rosette, scattered along the stem; flowers solitary or geminate, arranged along the entire length of the stem → N. loeselioides subsp. loeselioides
+
 
 ## Species in region
 

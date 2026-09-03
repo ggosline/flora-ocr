@@ -28,7 +28,7 @@ tags: [species, generated]
 
 Vine with glabrous internodes. Stipules moderately pubescent, elliptic 10–15 × 4–6 mm. Petioles moderately pubescent or glabrous 6–20 mm. Blade subcoriaceous brown-rust-coloured, glabrous above, sparsely micropubérulent to glabrescent below, elliptic often quite broadly 10–19 × 6–12 cm, with acute to rounded base, with brief acute acumen. (6) 8–11 pairs of secondary nervures ± glabrescent below. Tertiary nervures evident.
 
-Inflorescences 3–6-flowered moderately clothed with tawny hairs, with peduncle 1–3 mm, with pedicels 5–12 mm. Calyx clothed with dense and very fine silky golden ochraceus pubérulence, with subtruncate cupule or with teeth ± briefly aciculate-acute. Corolla with tube approximately 2.5 × 1.5 cm, with fine golden pubescence, bright yellow in life spotted with points and purplish blotches on the interior. Anthers glabrous $ 10 \times 2 $ mm. Ovary furrowed.
+Inflorescences 3–6-flowered moderately clothed with tawny hairs, with peduncle 1–3 mm, with pedicels 5–12 mm. Calyx clothed with dense and very fine silky golden ochraceus pubérulence, with subtruncate cupule or with teeth ± briefly aciculate-acute. Corolla with tube approximately 2.5 × 1.5 cm, with fine golden pubescence, bright yellow in life spotted with points and purplish blotches on the interior. Anthers glabrous 10 × 2 mm. Ovary furrowed.
 
 Fruit ellipsoid with very fine pubérulence, reaching 15–25 mm in diam., with 10 ribs ± prominent.
 

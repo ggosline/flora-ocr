@@ -33,41 +33,29 @@ The type of the genus is Pt. roxburghii Sch. et Endl., from Asia.
 
 ---
 
-### KEY TO SPECIES BY LEAVES
-
-1. Blade fairly regularly oval with obtuse or rounded base; 3-5 basilar nerves; approximately 3 pairs of non-basilar pinnate nerves; stellate hairs very sparse, poorly distinct on shoots and petioles.....
-1. Pt. augouardii.
-
-1'. Blade fairly broadly ovate or orbicular, with truncate or cordate base.
-
-2. Basilar nerves 5, rarely 7; approximately 4-5, rarely 3 pairs of non-basilar pinnate nerves; stellate hairs forming a well-apparent tomentum on shoots and young leaves; base of blade subtruncate to cordate.....
-2. Pt. bequaertii.
-
-2'. Basilar nerves 7, sometimes 9; approximately 3-4 pairs of non-basilar pinnate nerves; hairs in stellate scales applied on shoots and young leaves; base of blade more or less deeply cordate.....
-Pt. macrocarpa.
-
-### KEY TO SPECIES BY FLOWERS AND INFLORESCENCES
-
 ## Key to the species
 
-1. Lamina fairly regularly ovate with obtuse or rounded base; 3–5 basal nerves; c. 3 pairs of non-basal pinnate nerves; stellate hairs very sparse, scarcely distinct on the extremities and petioles
-1. Pt. augouardii.
 
-1'. Lamina fairly broadly ovate or orbicular, with truncate or cordate base.
+**1.** Lamina fairly regularly ovate with obtuse or rounded base; 3–5 basal nerves; c. 3 pairs of non-basal pinnate nerves; stellate hairs very sparse, scarcely distinct on the extremities and petioles ^k1
 
-2. Basal nerves 5, rarely 7; c. 4–5, rarely 3 pairs of non-basal pinnate nerves; stellate hairs forming a well-apparent tomentum on the extremities and young leaves; lamina base subtrun­cate to cordate..... 2. Pt. bequaertii.
+**1.** Pt. augouardii.
 
-2'. Basal nerves 7, sometimes 9; c. 3–4 pairs of non-basal pinnate nerves; hairs in stellate scales appressed on the extremities and young leaves; lamina base more or less deeply cordate ..... Pt. macrocarpa.
+**1′.** Lamina fairly broadly ovate or orbicular, with truncate or cordate base.
 
-KEY TO SPECIES BY FLOWERS AND INFLORESCENCES
+**2.** Basal nerves 5, rarely 7; c. 4–5, rarely 3 pairs of non-basal pinnate nerves; stellate hairs forming a well-apparent tomentum on the extremities and young leaves; lamina base subtrun­cate to cordate → 2. Pt. bequaertii. ^k2
 
-1. Bracteoles caducous leaving along the rachis, cicatricial collars with acute lateral projections; 4–5 carpels 1. Pt. augouardii.
-1'. Bracteoles caducous leaving cicatricial collars rounded or scarcely prominent.
+**2′.** Basal nerves 7, sometimes 9; c. 3–4 pairs of non-basal pinnate nerves; hairs in stellate scales appressed on the extremities and young leaves; lamina base more or less deeply cordate → Pt. macrocarpa. KEY TO SPECIES BY FLOWERS AND INFLORESCENCES
 
-2. Inflorescence axes with manifest russet pubescence; sepals with strongly pubescent inner face; 3 carpels, more rarely 4
-2. Pt. bequaertii.
+**1.** Bracteoles caducous leaving along the rachis, cicatricial collars with acute lateral projections; 4–5 carpels 1. Pt. augouardii.
 
-2'. Inflorescence axes with very fine ochraceous pubescence; sepals with glabrous inner face, at least towards the base; 5 carpels. Pt. macrocarpa.
+**1′.** Bracteoles caducous leaving cicatricial collars rounded or scarcely prominent.
+
+**2.** Inflorescence axes with manifest russet pubescence; sepals with strongly pubescent inner face; 3 carpels, more rarely 4
+
+**2.** Pt. bequaertii.
+
+**2′.** Inflorescence axes with very fine ochraceous pubescence; sepals with glabrous inner face, at least towards the base; 5 carpels. Pt. macrocarpa.
+
 
 ## Species in region
 

@@ -42,11 +42,11 @@ long, 0–100 m with flowers. Flower fragrant; pedicel 0.3–0.9 mm; bracteoles 
 
 ![Landolphia maxima](../sources/Apocynaceae_vol59_liteparse/figures/fig_128_p0141.jpeg)
 
-*Plate 60 . Landolphia maxima : 1. Leaf, lower surface (× ½). – 2. Inflorescences (× ½). – 3. Vrille (× ½). – 4. Detail of a lenticelled branch (× ½). – 5. Flower, longitudinal section (× 2). – 6. Calyx (× 4). – 7. Pistil (× 6). – 8, 9. Stamen, ventral and dorsal views (× 6). (1, 4 : Leeuwenberg & Persoon 13705 ; 2, 3, 5-9 : Bos 3759 ). Drawing by Wil Wessel-Brand, Naturalis Biodiversity Center (©), reproduced from*
+*Plate 60 . Landolphia maxima : 1. Leaf, lower surface (× ½). – 2. Inflorescences (× ½). – 3. Tendril (× ½). – 4. Detail of a lenticelled branch (× ½). – 5. Flower, longitudinal section (× 2). – 6. Calyx (× 4). – 7. Pistil (× 6). – 8, 9. Stamen, ventral and dorsal views (× 6). (1, 4 : Leeuwenberg & Persoon 13705 ; 2, 3, 5-9 : Bos 3759 ). Drawing by Wil Wessel-Brand, Naturalis Biodiversity Center (©), reproduced from*
 
 ![Landolphia maxima](../sources/Apocynaceae_vol59_liteparse/figures/fig_129_p0142.jpeg)
 
-*Plate 61 . Landolphia noctiflora : 1. Flowering branch (× ½). – 2. Vrille (× ½). – 3. Detail of the bark of a branch (× 4). – 4. Flower, longitudinal section (× 2). – 5. Calyx (× 4). – 6. Pistil (× 6). – 7, 8. Stamen,*
+*Plate 61 . Landolphia noctiflora : 1. Flowering branch (× ½). – 2. Tendril (× ½). – 3. Detail of the bark of a branch (× 4). – 4. Flower, longitudinal section (× 2). – 5. Calyx (× 4). – 6. Pistil (× 6). – 7, 8. Stamen,*
 
 ## Notes
 

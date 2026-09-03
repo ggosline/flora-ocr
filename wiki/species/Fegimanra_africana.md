@@ -42,7 +42,7 @@ Bovo-bwa-manga (benguè) ; Mugaganu (balumbu) ; Muwagana (ngowé) ; Ovógóntsyu
 
 ![Fegimanra africana](../sources/Anacardiaceae_vol50_liteparse/figures/fig_013_p0015.png)
 
-*Plate 3 . Fegimanra africana : 1. Flowering branch (× ⅓). – 2. Leaf, upper surface (× 1). – 3. Floral bud (× 5). – 4. Male flower (× 5). – 5. Idem, longitudinal section (× 5). – 6. Pollen grains (× 300). – 7. Pistil and staminode of the female flower (× 6). – 8. Young fruit (× 1). – 9. Ripe fruit with cupule, transverse section (× 2½). Drawing reproduced from Engler (1921).*
+*PL. III. — Fegimanra africana: 1. Flowering branch (× ⅓). – 2. Leaf, upper surface (× 1). – 3. Floral bud (× 5). – 4. Male flower (× 5). – 5. Idem, longitudinal section (× 5). – 6. Pollen grains (× 300). – 7. Pistil and staminode of the female flower (× 6). – 8. Young fruit (× 1). – 9. Ripe fruit with cupule, transverse section (× 2½). Drawing reproduced from Engler (1921).*
 
 ## Notes
 

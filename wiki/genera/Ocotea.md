@@ -24,55 +24,29 @@ Lemée (Dictionnaire 4: 798, 1932) estimates the number of species at 280, distr
 
 ### GENUS OCOTEA, KEY FOR INTERTROPICAL AFRICA
 
-1. Leaves with discolored limb, lower surface silvered, glaucescent, tomentellose to pubescent, upper surface dark green ± puberulent on the nerves; buds, young branches and inflorescences tomentellose to shortly pubescent; pedicels short (half the diameter of the flowers); drupes ellipsoid 1 cm long, exceeding the cupule..... O. usambarensis Engl. Kenya, Tanganyika. Abh. Pr. Ak.: 51 (1894). Type: Holst 2301.
-
-1'. Leaves with non-(or scarcely) discolored limb, not silvered beneath,
-
-(1) From the Carib "Ajou-hou-ha" transcribed Ocotea by Aublet.
-
----
-
-PL. XX. — Ocotea gabonensis R. Fouilloy (Le Testu 8637, type): 1, floriferous branch, large leaf 12 cm; 1', terminal bud 6 mm; 1", axillary bud 2 mm; 2', portion of limb, upper surface, showing the scrobicules; 3', flower and its cup 3' with pedicel 7 mm; 4', tepal, internal face; 5, various forms of stamens of 1st cycle, internal face; 5', profile; 5", external face; 6, stamen 2nd cycle, internal face; 6', profile; 6", external face; 7, stamen of 3rd cycle, internal face; 7', profile; 7", external face; 8, staminode 4th cycle, external face; 8', profile; 8", internal face; 9, very young fruit, total length with pedicel: 15 mm.
-
----
-
-the 2 faces glabrescent to glabrous; pedicels likewise the diameter of the flower.
-
-2. Leaves with membranous limb, furnished on the lower surface with tufts of hairs at the axil of the lower lateral nerves; buds, young branches and panicles pubescent..... O. angustitepala (Kr.) Rob. et Wilcz. Cameroon. Bull. Brux.: 213 (1950).
-
 ## Key to the species
 
-1. Leaves with discolorous blade, lower surface silvered, glaucescent, tomentulose to pubescent, upper surface dark-green ± puberulent on the nerves; buds, young branches and inflorescences tomentulose to shortly pubescent; pedicels short (half the diam. of the flowers); ellipsoid drupes 1 cm long, exceeding the cupule..... O. usambarensis Engl. Kénya, Tanganyika. Abh. Pr. Ak.: 51 (1894). Type: Holst 2301.
 
-1'. Leaves with blade not (or scarcely) discolorous, not silvered beneath,
+**1.** Leaves with discolorous blade, lower surface silvered, glaucescent, tomentulose to pubescent, upper surface dark-green ± puberulent on the nerves; buds, young branches and inflorescences tomentulose to shortly pubescent; pedicels short (half the diam. of the flowers); ellipsoid drupes 1 cm long, exceeding the cupule → O. usambarensis Engl. Kénya, Tanganyika. Abh. Pr. Ak.: 51 (1894). Type: Holst 2301. ^k1
 
-(1) From the Carib "Ajou-hou-ha" transcribed as Ocotea by Aublet.
+**1′.** Leaves with blade not (or scarcely) discolorous, not silvered beneath, (1) From the Carib "Ajou-hou-ha" transcribed as Ocotea by Aublet. PL. XX. — Ocotea gabonensis R. Fouilloy (Le Testu 8637, type): 1, flowering branch, large leaf 12 cm; 1', terminal bud 6 mm; 1", axillary bud 2 mm; 2', portion of blade, upper surface, showing the scrobicules; 3', flower and its cup 3' with pedicel 7 mm; 4', tepal, internal face; 5, various forms of stamens of the 1st cycle, internal face; 5', profile; 5", external face; 6, stamen 2nd cycle, internal face; 6', profile; 6", external face; 7, stamen of the 3rd cycle, internal face; 7', profile; 7", external face; 8, staminode 4th cycle, external face; 8', profile; 8", internal face; 9, very young fruit, total length with pedicel: 15 mm. both surfaces glabrescent to glabrous; pedicels equal to the diam. of the flower.
 
----
+**2.** Leaves with membranous blade, provided on the lower surface with tufts of hairs at the axil of the lower lateral nerves; buds, young branches and panicles pubescent → O. angustitepala (Kr.) Rob. et Wilcz. Cameroun. Bull. Brux.: 213 (1950). Type Deistel 559 (Br.) = Tylostemon angustitepalus Kr. Jahrb. 53: 450. ^k2
 
-PL. XX. — Ocotea gabonensis R. Fouilloy (Le Testu 8637, type): 1, flowering branch, large leaf 12 cm; 1', terminal bud 6 mm; 1", axillary bud 2 mm; 2', portion of blade, upper surface, showing the scrobicules; 3', flower and its cup 3' with pedicel 7 mm; 4', tepal, internal face; 5, various forms of stamens of the 1st cycle, internal face; 5', profile; 5", external face; 6, stamen 2nd cycle, internal face; 6', profile; 6", external face; 7, stamen of the 3rd cycle, internal face; 7', profile; 7", external face; 8, staminode 4th cycle, external face; 8', profile; 8", internal face; 9, very young fruit, total length with pedicel: 15 mm.
+**2′.** Leaves with blade ± coriaceous, without tufts of hairs.
 
----
+**3.** Leaves with blade rather papyraceous, oblong-lanceolate to oblong-ovate, rounded or sub-rounded at the base, acute acuminate at the apex, olivaceous above, reddish beneath; young branches purplish-black, glabrous; internodes more than 1 cm. ^k3
 
-both surfaces glabrescent to glabrous; pedicels equal to the diam. of the flower.
+**4.** Axillary buds swollen, brown, glabrescent to glabrous; axillary cymes pauciflorous (1-3 flowers) glabrescent; leaves smooth above → O. Michelsonii Rob. et Wilcz. Congo b. Bull. Brux. 457 (1949). Type Michelson 726. 4''. Axillary buds acute, silvery-silky; pluriflorous cymes (5-10 fl.) pubescent in terminal or subterminal racemes; leaves impressed with fine alveoles (diam. 0.5 mm) on the upper surface. ^k4
 
-2. Leaves with membranous blade, provided on the lower surface with tufts of hairs at the axil of the lower lateral nerves; buds, young branches and panicles pubescent..... O. angustitepala (Kr.) Rob. et Wilcz. Cameroun. Bull. Brux.: 213 (1950).
+**1.** O. gabonensis.
 
-Type Deistel 559 (Br.) = Tylostemon angustitepalus Kr. Jahrb. 53: 450.
-2'. Leaves with blade ± coriaceous, without tufts of hairs.
+**3′.** Leaves with coriaceous blade, elliptic; buds, young branches and panicles pubescent; internodes less than 1 cm (young branches).
 
-3. Leaves with blade rather papyraceous, oblong-lanceolate to oblong-ovate, rounded or sub-rounded at the base, acute acuminate at the apex, olivaceous above, reddish beneath; young branches purplish-black, glabrous; internodes more than 1 cm.
+**5.** Leaves with blade ± acute, attenuate at both ends; pluriflorous panicles; ellipsoid drupes 2-2.5 cm long, conspicuously exceeding the cupule → O. kenyensis (Chiov.) Rob. et Wilcz. Kénya ^k5
 
-4. Axillary buds swollen, brown, glabrescent to glabrous; axillary cymes pauciflorous (1-3 flowers) glabrescent; leaves smooth above.....O. Michelsonii Rob. et Wilcz. Congo b. Bull. Brux. 457 (1949). Type Michelson 726.
+**5′.** Leaves with blade shortly and broadly wedge-shaped at the base, distinctly acuminate at the apex; pauciflorous panicles; ovoid drupes 1 cm scarcely exceeding the cupule → O. Argylei Rob. Kénya.
 
-4''. Axillary buds acute, silvery-silky; pluriflorous cymes (5-10 fl.) pubescent in terminal or subterminal racemes; leaves impressed with fine alveoles (diam. 0.5 mm) on the upper surface.
-1. O. gabonensis.
-
-3'. Leaves with coriaceous blade, elliptic; buds, young branches and panicles pubescent; internodes less than 1 cm (young branches).
-
-5. Leaves with blade ± acute, attenuate at both ends; pluriflorous panicles; ellipsoid drupes 2-2.5 cm long, conspicuously exceeding the cupule..... O. kenyensis (Chiov.) Rob. et Wilcz. Kénya
-
-5'. Leaves with blade shortly and broadly wedge-shaped at the base, distinctly acuminate at the apex; pauciflorous panicles; ovoid drupes 1 cm scarcely exceeding the cupule..... O. Argylei Rob. Kénya.
 
 ## Species in region
 

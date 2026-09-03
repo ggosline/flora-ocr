@@ -23,9 +23,9 @@ TYPE: Gabon, 5-6 km NE of N'djolé (fl.), Breteler & Jongkind 10891 (holo-WAG; i
 
 Large liana. Young branches with brown, stiff and hirsute hairs, bark splitting into long fibrous strips.
 
-Leaves opposite; petiole ≤ 1 cm long; blade elliptic, ≤ 28 × ≤ 10 cm, pubescent on both surfaces; large lateral veins, 8-12 pairs, domatia scarcely visible; base of blade cordate; apex with an abrupt and short acumen; underside of young leaves covered with brown hairs and conspicuous white scales (Pl. 2, $ E_{1} $, p. 15).
+Leaves opposite; petiole ≤ 1 cm long; blade elliptic, ≤ 28 × ≤ 10 cm, pubescent on both surfaces; large lateral veins, 8-12 pairs, domatia scarcely visible; base of blade cordate; apex with an abrupt and short acumen; underside of young leaves covered with brown hairs and conspicuous white scales (Pl. 2, E1, p. 15).
 
-Scales subcircular, diameter 100-110 µm, showing fine division walls (Pl. 2, $ E_{2} $, p. 15).
+Scales subcircular, diameter 100-110 µm, showing fine division walls (Pl. 2, E2, p. 15).
 
 Inflorescences in axillary racemes ≤ 6 cm long, distal half bearing flowers grouped in a corona; rachis brown pubescent; bracts scarcely visible.
 

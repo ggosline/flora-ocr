@@ -45,10 +45,13 @@ The Dialium are generally medium-sized trees. The bark, when cut, generally exud
 
 ## Keyed but not treated
 
+
 The source key separates these species but the volume gives them no treatment, usually because they fall outside the area it covers in full. They are listed for identification; some are extralimital to the region.
 
-- *Dialium aubrevillei* — keyed in vol 15, not treated
-- *Dialium guineense* — keyed in vol 15, not treated
+**—** *Dialium aubrevillei* — keyed in vol 15, not treated
+
+**—** *Dialium guineense* — keyed in vol 15, not treated
+
 
 ## Treatments
 

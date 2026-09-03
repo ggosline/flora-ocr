@@ -62,7 +62,7 @@ Petit arbre de 5 à 10 m de hauteur atteignant 20 cm de diam. Appareil végétat
 
 Inflorescences disposées sur le dessus du rameau plagiotrope, un nœud sur deux, a partir d'une feuille réduite (d'une paire anisophylle à disposition verticale). L'inflorescence est variable, de 2 à 7 cm de longueur, multiflore, en cyme corymbiforme, à axes glabres ou ± pubérulents. Les bractées, petites, sont rapidement caduques. Fleurs blanches ou jaune pâle subsessiles ou à pédicelle pubérulent atteignant 2-4 mm. Calice pubescent à la base de l'ovaire, tubuleux jaunâtre sur environ 2 mm et légèrement
 
-évasé, à 5 dents brièvement triangulaires de 0,7 mm env., à marge ciliolée. Corolle extérieurement glabre, à tube de  $ 5 \times 2 $ mm, à 5 lobes tordus à la préfloraison, oblongs, réfractés,  $ \pm $ obtus au sommet. 5 étamines extrorses à anthère sagittée de  $ 5-6 \times 0,8 $ mm, à court filet de 0,5 mm s'insérant au-dessous du quart inférieur de l'anthère. Style glabre de  $ 12 $ mm à longue massue blanche striée de  $ 6 \times 1 $ mm.
+évasé, à 5 dents brièvement triangulaires de 0,7 mm env., à marge ciliolée. Corolle extérieurement glabre, à tube de  5 × 2 mm, à 5 lobes tordus à la préfloraison, oblongs, réfractés,  ± obtus au sommet. 5 étamines extrorses à anthère sagittée de  5-6 × 0,8 mm, à court filet de 0,5 mm s'insérant au-dessous du quart inférieur de l'anthère. Style glabre de  12 mm à longue massue blanche striée de  6 × 1 mm.
 
 Fruit globuleux dépassant 5 mm de diam., à calice caduc, à 2 loges contenant chacune plus d'une douzaine de graines anguleuses.
 

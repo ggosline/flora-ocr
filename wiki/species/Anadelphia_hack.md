@@ -48,7 +48,7 @@ White 1201, 23.08.1994, Lopé Reserve, Tessier Plot 1.
 
 van Nek 446, 01.12.1990, 2°46'S-10°02'E, Gamba-NW.
 
-$ ^{*} $2.3 Anadelphia leptocoma (Trin.) Pilg.
+*2.3 Anadelphia leptocoma (Trin.) Pilg.
 
 FWTA : 501 ; Poac. CI. : 630, 631.
 
@@ -90,7 +90,7 @@ le pédicelle et l'entre-nœud, sa face dorsale aplatie ou seulement déprimée 
 
 8. Épillets pédicellés longs de 5-8 mm ; glume inférieure des épilets sessiles glabre (A. gayanus) : 9. Épillets pédicellés glabres ..... A. gayanus var. polycladus 9. Épillets pédicellés poilus ..... A. gayanus var. bisquamulatus
 
-$ ^{*} $3.1 Andropogon auriculatus Stapf – Pl. 1, 1-4, p. 15
+*3.1 Andropogon auriculatus Stapf – Pl. 1, 1-4, p. 15
 
 FWTA : 488 ; Gram. Cam. : 440, Pl. 97 ; Poac. CI. : 572, 573.
 
@@ -98,7 +98,7 @@ Louis 2181, 07.05.1986, Chantier Oveng.
 
 Reitsma & Reitsma 790, 16.04.1985, 0°31'N-9°22'E, near Sablière, ca 4 km N. of Libreville. de Wilde, Sosef & van Nek 10116, 21.01.1991, 0°34'N-10°20'E, Crystal Mts, 13 km on the road Tchimbélé-Kinguélé.
 
-$ ^{*} $3.2 Andropogon canaliculatus K. Schum.
+*3.2 Andropogon canaliculatus K. Schum.
 
 FACB 1.137, FWTA.486, FTEA.782, Gram.Cam..438, Poac.CI..568, 569.
 

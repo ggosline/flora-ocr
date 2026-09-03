@@ -23,23 +23,17 @@ African genus of six species, one of which (L. siceraria) pantropical and widely
 
 BIBLIOGRAPHY: Clarke et al. (2006), Erickson et al. (2005), Jeffrey (1967), Keraudren (1967), Keraudren-Aymonin (1975), Schaefer & Renner (2011a).
 
-1. - Monoecious plant; male flowers solitary..... L. siceraria
-
-- Dioecious plant; male flowers in raceme..... 2
-
-2. - Sepals glandular on the margins; receptacle of the male flower 4–5 cm long
-
-- Sepals non-glandular; receptacle of the male flower 2–3 cm long..... L. breviflora
-
 ## Key to the species
 
-1. - Monoecious plant; male flowers solitary..... L. siceraria
 
-- Dioecious plant; male flowers in raceme..... 2
+**1.** Monoecious plant; male flowers solitary → [[Lagenaria_siceraria\|*L. siceraria*]] ^k1
 
-2. - Sepals glandular on the margins; receptacle of the male flower 4–5 cm long
+**1′.** Dioecious plant; male flowers in raceme → [[#^k2|2]]
 
-- Sepals non-glandular; receptacle of the male flower 2–3 cm long..... L. breviflora
+**2.** Sepals glandular on the margins; receptacle of the male flower 4–5 cm long ^k2
+
+**2′.** Sepals non-glandular; receptacle of the male flower 2–3 cm long → [[Lagenaria_breviflora\|*L. breviflora*]]
+
 
 ## Species in region
 

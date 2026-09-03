@@ -29,7 +29,7 @@ Le Testu 8637, Bouzimbi, région de Lastoursville, 29 déc. 1930
 
 ## Specimens examined
 
-Le type était le seul échantillon connu jusqu'au 4 janvier 1965 où une  $ 2^{e} $ récolte a été faite sur une crête rocheuse, à 1000 m d'alt. à Bélinga : N. Hallé 3649 (jeunes fr.).
+Le type était le seul échantillon connu jusqu'au 4 janvier 1965 où une  2ᵉ récolte a été faite sur une crête rocheuse, à 1000 m d'alt. à Bélinga : N. Hallé 3649 (jeunes fr.).
 
 LAURACÉES INTRODUITES AU GABON
 

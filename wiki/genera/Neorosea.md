@@ -49,9 +49,11 @@ cularis (Scott Ell.) Hutch. et Dalziel. The specific epithet is misleading, the 
 
 ## Keyed but not treated
 
+
 The source key separates these species but the volume gives them no treatment, usually because they fall outside the area it covers in full. They are listed for identification; some are extralimital to the region.
 
-- *Neorosea chevalieri* — keyed in vol 17, not treated
+**—** *Neorosea chevalieri* — keyed in vol 17, not treated
+
 
 ## Treatments
 

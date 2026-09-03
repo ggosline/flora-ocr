@@ -57,7 +57,7 @@ This species ranges from Sierra Leone across Cameroon and Gabon to Tanzania and 
 
 ## Specimens examined
 
-Hallé N. 2342, Abanga, chantier CEFA (stér.); 3368, Bélinga (stér.). Hijman & Weerdenburg 374 $ ^{1} $, 376, près Nvadim (stér. ou fig., janv.). Hladik 1960 A, Makokou, île de l'Éléphant (fig., févr.); 2717, Mpassa, 10 km S Makokou (fig., avr.). Klaine 2328, près Libreville (fig.). Michaloud 502, 503, 504, Makokou (fig.).
+Hallé N. 2342, Abanga, chantier CEFA (stér.); 3368, Bélinga (stér.). Hijman & Weerdenburg 374 ¹, 376, près Nvadim (stér. ou fig., janv.). Hladik 1960 A, Makokou, île de l'Éléphant (fig., févr.); 2717, Mpassa, 10 km S Makokou (fig., avr.). Klaine 2328, près Libreville (fig.). Michaloud 502, 503, 504, Makokou (fig.).
 
 ## Figures
 

@@ -93,7 +93,7 @@ PL. 70. – Loeseneriella yaundina (Loes.) Hallé ex Wilcz.: 1, bouton; 2, coupe
 
 dernier en toupie, d'environ 2-2,5 mm de hauteur. Étamines un tout petit peu espacées à la base, d'environ 3 mm, enroulées extorses. Partie visible du pistil, 2,5 mm, subconique ; loges semi-enfoncées à (5)9-11 ovules.
 
-Méricarpes dépassant  $ 6 \times 3 $ cm, elliptiques. Graines ailées. Cotylédons soudés. - Pl. 70, fig. 17-28, p. 245.
+Méricarpes dépassant  6 × 3 cm, elliptiques. Graines ailées. Cotylédons soudés. - Pl. 70, fig. 17-28, p. 245.
 
 ## Figures
 

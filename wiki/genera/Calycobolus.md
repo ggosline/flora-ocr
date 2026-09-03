@@ -31,43 +31,29 @@ B: Breteler (2013), Lejoly & Lisowski (1985).
 
 Bibliography
 
-### Key to the species
-
-1. - Flower open with erect anthers ......................................................................... 2
-
-- Flower open with pendulous anthers ....................................................................... 3
-
-2. - Leaf beneath with axillary domatia in at least some lateral veins, with petiole of (1.5–)2–3 cm ............................................................................. C. goodii
-
-- Leaf without domatia, with petiole of 0.6–1.2(–1.6) cm .......................... C. heineanus
-
-3. - Corolla of ≤ 2 cm in length ................................................................................ 4
-
-- Corolla of ≥ (2.5–)3 cm in length ...................................................................... 5
-
-4. - Corolla infundibuliform; leaf acute to shortly (≤ 10(–15) mm) acuminate at the apex; petiole (10–)15–40(–55) mm ................................................. C. gilgianus
-
-- Corolla urceolate; leaf distinctly (5–)15–25 mm) acuminate at the apex; petiole (5–)6–9(–16) mm ...................................................................... C. africanus
-
-5. - Anthers with at least some long soft hairs along the slits; bracteoles attached ± at the middle of the pedicel ..................................................... C. acuminatus
-
 ## Key to the species
 
-1. - Flower fully open with erect anthers ......................................................................... 2
-- Flower fully open with pendulous anthers ....................................................................... 3
-2. - Leaf undersurface with axillary domatia on at least some lateral nerves, petiole
-(1.5–)2–3 cm ............................................................................. C. goodii
-- Leaf without domatia, petiole 0.6–1.2(–1.6) cm .......................... C. heineanus
-3. - Corolla ≤ 2 cm long ................................................................................ 4
-- Corolla ≥ (2.5–)3 cm long ...................................................................... 5
-4. - Corolla infundibuliform; leaf acute to shortly (≤ 10(–15) mm) acuminate at apex;
-petiole (10–)15–40(–55) mm ................................................. C. gilgianus
-- Corolla urceolate; leaf distinctly (5–)15–25 mm) acuminate at apex; petiole
-(5–)6–9(–16) mm ...................................................................... C. africanus
-5. - Anthers with at least some long and flexible hairs along the slits; bracteoles
-attached ± at the middle of the pedicel ..................................................... C. acuminatus
-- Anthers entirely glabrous; bracteoles attached near the base of the pedicel
-......................................................................................................... C. campanulatus
+
+**1.** Flower fully open with erect anthers → [[#^k2|2]] ^k1
+
+**1′.** Flower fully open with pendulous anthers → [[#^k3|3]]
+
+**2.** Leaf undersurface with axillary domatia on at least some lateral nerves, petiole (1.5–)2–3 cm → [[Calycobolus_goodii\|*C. goodii*]] ^k2
+
+**2′.** Leaf without domatia, petiole 0.6–1.2(–1.6) cm → [[Calycobolus_heineanus\|*C. heineanus*]]
+
+**3.** Corolla ≤ 2 cm long → [[#^k4|4]] ^k3
+
+**3′.** Corolla ≥ (2.5–)3 cm long → [[#^k5|5]]
+
+**4.** Corolla infundibuliform; leaf acute to shortly (≤ 10(–15) mm) acuminate at apex; petiole (10–)15–40(–55) mm → [[Calycobolus_gilgianus\|*C. gilgianus*]] ^k4
+
+**4′.** Corolla urceolate; leaf distinctly (5–)15–25 mm) acuminate at apex; petiole (5–)6–9(–16) mm → [[Calycobolus_africanus\|*C. africanus*]]
+
+**5.** Anthers with at least some long and flexible hairs along the slits; bracteoles attached ± at the middle of the pedicel → [[Calycobolus_acuminatus\|*C. acuminatus*]] ^k5
+
+**5′.** Anthers entirely glabrous; bracteoles attached near the base of the pedicel → [[Calycobolus_campanulatus\|*C. campanulatus*]]
+
 
 ## Species in region
 

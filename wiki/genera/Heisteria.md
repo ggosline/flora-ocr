@@ -49,16 +49,15 @@ is the **pedicel** that becomes accrescent.
 
 ## Key to the Gabonese species
 
-1. Blade little granular or smooth; nervules apparent; accrescent calyx with
-   the upper margin lobed or notched
-    - 2\. Calyx notched almost to the base; calyx lobes longer than broad;
-      pedicel short (1–3 mm) → **[[Heisteria_parvifolia|1. H. parvifolia]]**
-    - 2'. Calyx weakly notched; lobes equal to 1/3 the length of the calyx and
-      broader than long; pedicel long (3–7 mm) →
-      **[[Heisteria_trillesiana|2. H. trillesiana]]**
-1'. Blade granular on the upper face; nervules little or not apparent;
-   accrescent calyx little or not notched →
-   **[[Heisteria_zimmereri|3. H. zimmereri]]**
+
+**1.** Blade little granular or smooth; nervules apparent; accrescent calyx with the upper margin lobed or notched ^k1
+
+**1′.** 2\. Calyx notched almost to the base; calyx lobes longer than broad; pedicel short (1–3 mm) → **[[Heisteria_parvifolia|1. H. parvifolia]]**
+
+**1′.** 2'. Calyx weakly notched; lobes equal to 1/3 the length of the calyx and broader than long; pedicel long (3–7 mm) → **[[Heisteria_trillesiana|2. H. trillesiana]]**
+
+**1′.** Blade granular on the upper face; nervules little or not apparent; accrescent calyx little or not notched → **[[Heisteria_zimmereri|3. H. zimmereri]]**
+
 
 ## Vegetative key (sterile material)
 

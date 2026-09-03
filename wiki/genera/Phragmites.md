@@ -23,13 +23,11 @@ Inflorescences in large branched, plumy panicles. Spikelets awnless, widely gapi
 
 Hubbard (F.T.A. X, r) distinguishes two species in tropical Africa which he separates as follows:
 
-1. Callus hairs 7 to 10 mm long, glumes very unequal, the upper one oblong-lanceolate to narrowly oblong, 5 to 10 mm long; lower lemma 9 to 16 mm long... P. communis Trin.
+## Key to the species
 
-1'. Callus hairs 4 to 7 mm long; glumes equal, subequal or rarely very unequal, the upper one ovate or ovate-oblong, rarely oblong, 2.5 to 5 and rarely 6 mm long; lower lemma 6 to 11 mm long..... P. mauritianus Kunth.
 
----
+**1′.** Callus hairs 4 to 7 mm long; glumes equal, subequal or rarely very unequal, the upper one ovate or ovate-oblong, rarely oblong, 2.5 to 5 and rarely 6 mm long; lower lemma 6 to 11 mm long → P. mauritianus Kunth. The only specimen examined for Gabon (Le Testu 2401, région de la Ngounyé) is unfortunately sterile, but given the geographic distribution of the two species, it is very probably P. mauritianus, the only one recorded thus far in the equatorial regions of West Africa.
 
-The only specimen examined for Gabon (Le Testu 2401, Ngounyé region) is unfortunately sterile, but given the geographic distribution of the two species, it is very probably P. mauritianus, the only one recorded so far in the equatorial regions of West Africa.
 
 ## Species in region
 
@@ -39,9 +37,11 @@ The only specimen examined for Gabon (Le Testu 2401, Ngounyé region) is unfortu
 
 ## Keyed but not treated
 
+
 The source key separates these species but the volume gives them no treatment, usually because they fall outside the area it covers in full. They are listed for identification; some are extralimital to the region.
 
-- *Phragmites communis* — keyed in vol 05, not treated
+**—** *Phragmites communis* — keyed in vol 05, not treated
+
 
 ## Treatments
 

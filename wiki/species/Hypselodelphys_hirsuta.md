@@ -23,7 +23,7 @@ tags: [species, generated]
 
 ## Description
 
-Climbing herb, branched with pubescent stems. Leaf sheaths densely pubescent or hirsute, petiole slightly pubescent about 1 cm long. Blade ovate to narrowly ovate-elliptic, acuminate at the apex, rounded at the base, up to approximately $ 26 \times 6 $ cm. Lower surface sparsely pubescent, with a dense line of hairs along and on both sides of the midvein.
+Climbing herb, branched with pubescent stems. Leaf sheaths densely pubescent or hirsute, petiole slightly pubescent about 1 cm long. Blade ovate to narrowly ovate-elliptic, acuminate at the apex, rounded at the base, up to approximately 26 × 6 cm. Lower surface sparsely pubescent, with a dense line of hairs along and on both sides of the midvein.
 
 Inflorescences in simple or two to three times divided spikes; rachis very pubescent, bracts glabrescent, 3 cm long. Flowers whitish, tinged with pink, ovary tuberculate. Fruits green, pendulous, echinulate, normally trilobed, 2 cm high and 3 cm wide.
 

@@ -32,7 +32,7 @@ Large liana exceeding 10 or even 30 m ; wood up to more than 10 cm in diameter. 
 
 Inflorescent branchlets without leaves, 60 cm or more long, bearing ± pendulous flowering branchlets, sometimes very long, 140 cm, with numerous pauci- to multiflorous glomerules. Buds broad, diameter 4-5 mm, truncate at base, subacute apiculate at apex. Pedicel 6-20 mm. Flower fragrant, yellowish white or pale green. Calyx tearing into 2-3 irregular lobes. Petals (4-)5(-7) suborbicular or somewhat oblong 4-6 mm with fimbriate margin, inserted on a short claw. Disc green or pale cream, a stout subpentagonal cushion, 2-4 mm in diameter, with 6 culminal fossettes. Stamens 3(4) distinctly exceeding the pistil before dehiscence ; pollen orange. Ovary with 3(4) locules ; 2 superposed ovules per locule.
 
-Fruit globose, smooth or bosselated, sometimes with 3(4) longitudinal grooves, 1.8-3.5 cm in diameter, orange-red at maturity, with peduncle at most 2 cm long. Seeds 1-6 subglobose, approximately $ 10 \times 7 $ mm. - Pl. 5, p. 19.
+Fruit globose, smooth or bosselated, sometimes with 3(4) longitudinal grooves, 1.8-3.5 cm in diameter, orange-red at maturity, with peduncle at most 2 cm long. Seeds 1-6 subglobose, approximately 10 × 7 mm. - Pl. 5, p. 19.
 
 ## Type
 

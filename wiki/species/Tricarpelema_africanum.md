@@ -44,7 +44,7 @@ Outside of Gabon blue, mauve, pale violet or white flowers have also been observ
 
 ![Tricarpelema africanum](../sources/Commelinaceae_vol55_liteparse/figures/fig_047_p0093.png)
 
-*Plate 28. Tricarpelema africanum: 1. General aspect. – 2. Cincinnus. – 3. Bisexual flower, front view. – 4. Idem, lateral view. – 5. Upper stamen. – 6. Lower stamen. – 7. Dehiscent fruit, one sepal removed. – 8. Terminal seed, dorsal view showing the embryotega. – 9. Idem, ventral view showing the hilum. – 10. Median seed, dorsal view. – 11. Idem, ventral view. (cultivated plant of Parmentier &*
+*PL. XXVIII. — Tricarpelema africanum: 1. General aspect. – 2. Cincinnus. – 3. Bisexual flower, front view. – 4. Idem, lateral view. – 5. Upper stamen. – 6. Lower stamen. – 7. Dehiscent fruit, one sepal removed. – 8. Terminal seed, dorsal view showing the embryotega. – 9. Idem, ventral view showing the hilum. – 10. Median seed, dorsal view. – 11. Idem, ventral view. (cultivated plant of Parmentier &*
 
 ## Notes
 

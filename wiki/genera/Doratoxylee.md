@@ -24,19 +24,13 @@ TYPE GENUS: Doratoxylon Thou.
 
 ### Tribe comprising 9 extra-African genera and 2 African genera.
 
-1. Radicle punctate, not hidden in a fold of the integument; 4 (-5) stamens opposite the sepals; calyx tomentellous on the exterior, without prominent glands, glabrous on the interior; disc not lobed; male inflorescence 5-10 cm; fruit apiculate, bacciform; embryo straight..... 23. ZANHA.
-
----
-
-1'. Radicle elongate, covered by a fold of the integument; 5 stamens alternating with the sepals; calyx glabrous on the exterior, with prominent glands, tomentellous on the interior; disc with 5 lobes opposite the sepals; male inflorescence 15-20 cm; fruit apiculate or not, drupaceous; embryo folded..... 24. GANOPHYLLUM.
-
 ## Key to the species
 
-1. Radicle punctate, not hidden in a fold of the integument; 4 (-5) stamens opposite the sepals; calyx tomentellous on the outside, without prominent glands, glabrous on the inside; disk not lobed; ♂ inflorescence 5-10 cm; fruit apiculate, berry-like; embryo straight..... 23. ZANHA.
 
----
+**1.** Radicle punctate, not hidden in a fold of the integument; 4 (-5) stamens opposite the sepals; calyx tomentellous on the outside, without prominent glands, glabrous on the inside; disk not lobed; ♂ inflorescence 5-10 cm; fruit apiculate, berry-like; embryo straight → 23. ZANHA. ^k1
 
-1'. Radicle elongate, covered by a fold of the integument; 5 stamens alternating with the sepals; calyx glabrous on the outside, with prominent glands, tomentellous on the inside; disk with 5 lobes opposite the sepals; ♂ inflorescence 15-20 cm; fruit apiculate or not, drupaceous; embryo curved..... 24. GANOPHYLLUM.
+**1′.** Radicle elongate, covered by a fold of the integument; 5 stamens alternating with the sepals; calyx glabrous on the outside, with prominent glands, tomentellous on the inside; disk with 5 lobes opposite the sepals; ♂ inflorescence 15-20 cm; fruit apiculate or not, drupaceous; embryo curved → 24. GANOPHYLLUM.
+
 
 ## Species in region
 

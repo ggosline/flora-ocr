@@ -27,9 +27,11 @@ H. pierreanum Gilg is known from southern Cameroon, the type specimen was collec
 
 ## Key to the species
 
-1. - Leaf blade sparsely pilose with appressed white hairs beneath, (sub)glabrous above..... H. klaineanum
 
-- Leaf blade, branches of the inflorescence and petiole densely pilose with erect ferruginous hairs (to be sought in Gabon; plate 7.11)..... H. pierreanum Gilg
+**1.** Leaf blade sparsely pilose with appressed white hairs beneath, (sub)glabrous above → [[Hoplestigma_klaineanum\|*H. klaineanum*]] ^k1
+
+**1′.** Leaf blade, branches of the inflorescence and petiole densely pilose with erect ferruginous hairs (to be sought in Gabon; plate 7.11) → H. pierreanum Gilg
+
 
 ## Species in region
 

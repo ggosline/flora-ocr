@@ -31,40 +31,21 @@ This genus is represented by numerous species from Asia and Indonesia; it is rep
 
 U. gambir (Hunter) Roxb. from Malesia, used in numerous masticatory mixtures, is furthermore employed in certain preparations for tannery, dyeing, and pharmacy. The species, readily recognizable by its simple stipules, was introduced to the former Belgian Congo.
 
-### KEY TO THE SPECIES
-
-1. Stems pubescent.
-
-2. Calyx with lobes 0–0.25 mm in height; laminae pubescent on both faces; corolla less than 17 mm long or less.....
-
-2. Calyx with lobes 1–2 mm long; laminae glabrous, at least on the upper face; corolla more than 25 mm long.....
-
-..... U. Talbotii Wernh.
-
-(from French Guinea to Nigeria.)
-
-1'. Stems glabrous or glabrescent ..... 2. U. africana.
-
-3. Calyx with lobes 0.5 mm long or less..... 2. var. africana.
-
-3'. Calyx with lobes 1.5–3 mm long..... 2. var. angolensis.
-
 ## Key to the species
 
-1. Stems pubescent.
 
-2. Calyx with lobes 0–0.25 mm tall; laminae pubescent on both surfaces; corolla less than 17 mm long or less.....
+**1.** Stems pubescent. ^k1
 
-2. Calyx with lobes 1–2 mm long; laminae glabrous, at least on the upper surface; corolla more than 25 mm long.....
+**2.** Calyx with lobes 0–0.25 mm tall; laminae pubescent on both surfaces; corolla less than 17 mm long or less..... ^k2
 
-..... U. Talbotii Wernh.
-(from French Guinea to Nigeria.)
+**2.** Calyx with lobes 1–2 mm long; laminae glabrous, at least on the upper surface; corolla more than 25 mm long → U. Talbotii Wernh. (from French Guinea to Nigeria.)
 
-1'. Stems glabrous or glabrescent ..... 2. U. africana.
+**1′.** Stems glabrous or glabrescent → [[Uncaria_africana\|*U. africana*]]
 
-3. Calyx with lobes 0.5 mm long or less..... 2. var. africana.
+**3.** Calyx with lobes 0.5 mm long or less → 2. var. africana. ^k3
 
-3'. Calyx with lobes 1.5–3 mm long..... 2. var. angolensis.
+**3′.** Calyx with lobes 1.5–3 mm long → 2. var. angolensis.
+
 
 ## Species in region
 

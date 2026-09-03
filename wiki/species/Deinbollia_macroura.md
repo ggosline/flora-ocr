@@ -18,7 +18,7 @@ tags: [species, generated]
 
 in ENGL., Pflanzenreich, Sapindaceae : 671 (1932).
 
-This species is known only from RADLKOFER's description, which specifies in addition to the characters given in the key: leaflets membranous, blade greenish-brown above, pale brownish below; epidermis with mucilaginous cells. The length of the acumen is evoked in the specific epithet; petiole 8–11 cm; oblong leaflets of $ 21 \times 6 $ cm.
+This species is known only from RADLKOFER's description, which specifies in addition to the characters given in the key: leaflets membranous, blade greenish-brown above, pale brownish below; epidermis with mucilaginous cells. The length of the acumen is evoked in the specific epithet; petiole 8–11 cm; oblong leaflets of 21 × 6 cm.
 
 ## Type
 

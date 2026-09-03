@@ -27,16 +27,13 @@ Bibliography
 
 B: Mabberley (2011), Pennington & Styles (1975), Staner (1941), Staner & Gilbert (1958).
 
-### Key to species
-
-1. – Shrub scarcely exceeding 3 m in height; blade papyraceous, often lobed at apex; peduncle (2–)4–5(–9) mm; staminal tube 23–30(–35) mm in length, apex without filiform appendages ............................................................ T. cabrae
-
-– Sarmentose or lianescent shrub, sometimes liane reaching 20 m in length; blade coriaceous, never lobed; peduncle (10–)15–40(–70) mm; staminal tube (10–)12–16(–20) mm in length, apex provided with filiform appendages, geminate, alternating with the anthers .......................................................................... T. vogelii
-
 ## Key to the species
 
-1. - Shrub scarcely exceeding 3 m in height; limb papyraceous, often lobed at the apex; pedicel (2–)4–5(–9) mm; staminal tube 23–30(–35) mm in length, apex without filiform appendages ............................................................ T. cabrae
-- Sarmentose or lianescent shrub, sometimes a liana reaching 20 m in length; limb coriaceous, never lobed; pedicel (10–)15–40(–70) mm; staminal tube (10–)12–16(–20) mm in length, apex provided with filiform appendages, geminate, alternating with the anthers .......................................................................... T. vogelii
+
+**1.** Shrub scarcely exceeding 3 m in height; limb papyraceous, often lobed at the apex; pedicel (2–)4–5(–9) mm; staminal tube 23–30(–35) mm in length, apex without filiform appendages → [[Turraea_cabrae\|*T. cabrae*]] ^k1
+
+**1′.** Sarmentose or lianescent shrub, sometimes a liana reaching 20 m in length; limb coriaceous, never lobed; pedicel (10–)15–40(–70) mm; staminal tube (10–)12–16(–20) mm in length, apex provided with filiform appendages, geminate, alternating with the anthers → [[Turraea_vogelii\|*T. vogelii*]]
+
 
 ## Species in region
 

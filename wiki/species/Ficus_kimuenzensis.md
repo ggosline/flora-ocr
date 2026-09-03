@@ -1,7 +1,7 @@
 ---
 type: species
 name: Ficus kimuenzensis
-authority: Warburg $ ^{1} $
+authority: Warburg ¹
 genus: Ficus
 family: Moraceae
 vol: 26
@@ -12,7 +12,7 @@ in_region: true
 habit: "shrub"
 tags: [species, generated]
 ---
-# *Ficus kimuenzensis* Warburg $ ^{1} $
+# *Ficus kimuenzensis* Warburg ¹
 
 **Genus**: [[Ficus]]
 **Family**: [[Moraceae]]

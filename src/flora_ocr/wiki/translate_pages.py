@@ -76,13 +76,52 @@ Text to translate:
 """.replace("{sentinel}", SENTINEL)
 
 
-def translate(client, model: str, text: str) -> str:
+MAX_TOKENS = 32000
+# Roughly 3 characters per token for this French, halved to leave room for the
+# translation to run longer than its source. A block above this is split.
+CHUNK_CHARS = 20000
+
+
+def _one_call(client, model: str, text: str) -> str:
     resp = client.messages.create(
         model=model,
-        max_tokens=8000,
+        max_tokens=MAX_TOKENS,
         messages=[{"role": "user", "content": PROMPT + text}],
     )
+    if resp.stop_reason == "max_tokens":
+        # Silence here is the dangerous case: Diospyros's 40 KB key came back
+        # truncated at 8,000 tokens and lost 95 of its 290 leads, with nothing
+        # in the output to say so. Fail instead, and let the caller split.
+        raise ValueError(f"response hit max_tokens ({len(text)} chars in)")
     return "".join(b.text for b in resp.content if b.type == "text").strip()
+
+
+def _chunks(text: str, size: int) -> list[str]:
+    """Split on blank lines, packing paragraphs up to `size`."""
+    out: list[str] = []
+    current = ""
+    for para in text.split("\n\n"):
+        if current and len(current) + len(para) + 2 > size:
+            out.append(current)
+            current = para
+        else:
+            current = f"{current}\n\n{para}" if current else para
+    if current:
+        out.append(current)
+    return out
+
+
+def translate(client, model: str, text: str) -> str:
+    if len(text) <= CHUNK_CHARS:
+        try:
+            return _one_call(client, model, text)
+        except ValueError:
+            pass                        # fall through and split it
+    parts = _chunks(text, CHUNK_CHARS)
+    if len(parts) == 1:                 # one huge paragraph: halve it blindly
+        mid = len(text) // 2
+        parts = [text[:mid], text[mid:]]
+    return "\n\n".join(_one_call(client, model, p) for p in parts)
 
 
 def _call(client, model: str, text: str) -> str:

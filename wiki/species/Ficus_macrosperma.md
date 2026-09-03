@@ -1,7 +1,7 @@
 ---
 type: species
 name: Ficus macrosperma
-authority: Mildbraed & Burret $ ^{2} $
+authority: Mildbraed & Burret ²
 genus: Ficus
 family: Moraceae
 vol: 26
@@ -12,7 +12,7 @@ in_region: true
 altitude_m: "1800"
 tags: [species, generated]
 ---
-# *Ficus macrosperma* Mildbraed & Burret $ ^{2} $
+# *Ficus macrosperma* Mildbraed & Burret ²
 
 **Genus**: [[Ficus]]
 **Family**: [[Moraceae]]

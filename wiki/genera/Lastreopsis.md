@@ -61,9 +61,11 @@ bordering the axes of different orders are continuous (difference with Ctenitis)
 
 ## Keyed but not treated
 
+
 The source key separates these species but the volume gives them no treatment, usually because they fall outside the area it covers in full. They are listed for identification; some are extralimital to the region.
 
-- *Lastreopsis davalliaeformis* — keyed in vol 08, not treated
+**—** *Lastreopsis davalliaeformis* — keyed in vol 08, not treated
+
 
 ## Treatments
 

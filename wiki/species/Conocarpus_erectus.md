@@ -24,13 +24,13 @@ KEAY, FWTA, ed. 2, 1(1) : 280 (1954) ; LIBEN, FZ : 88, tab. 8 (1968) ; EXELL & G
 
 Shrub to small tree, generally 3 m tall but sometimes ≤ 20 m. Young branches slightly winged.
 
-Leaves alternate ; petiole ± winged with two glands ; blade $ 9.5 \times 3.5 $ cm, coriaceous-succulent, glabrous ; lateral veins 8 pairs with domatia in the form of pockets ; base of blade attenuate ; apex acute.
+Leaves alternate ; petiole ± winged with two glands ; blade 9.5 × 3.5 cm, coriaceous-succulent, glabrous ; lateral veins 8 pairs with domatia in the form of pockets ; base of blade attenuate ; apex acute.
 
 Inflorescences : flowers grouped in ellipsoidal capitula, 1.5 cm long, pale green, anthers yellowish.
 
 Flowers bisexual, sessile, 5-merous.
 
-Fruits $ 5 \times 5 $ mm with superior persistent receptacle. They are grouped in an ellipsoidal infructescence of $ 15 \times 11 $ mm, brownish-red. – Pl. 25, p. 91.
+Fruits 5 × 5 mm with superior persistent receptacle. They are grouped in an ellipsoidal infructescence of 15 × 11 mm, brownish-red. – Pl. 25, p. 91.
 
 ## Distribution
 

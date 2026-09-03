@@ -29,22 +29,13 @@ a b
 
 Lye (1995, 1997).
 
-### Key to the species
-
-1. - Perennial plant, stoloniferous; stem and sheath cylindrical; inflorescence terminal in appearance, in an umbelliform compound anthela; perianth bristles plumose
-
-................................................................................................................. S. subulatus
-
-- Annual or perennial plant; stem and sheath triangular; lateral inflorescence with sessile spikelets; perianth bristles in needles furnished with retrorsely barbed teeth
-
-.............................................................................................................. S. mucronatus
-
 ## Key to the species
 
-1. - Perennial plant, stoloniferous; stem and sheath cylindric; inflorescence apparently terminal, in a compound umbelliform anthela; perianth bristles plumose
-................................................................................................................. S. subulatus
-- Annual or perennial plant; stem and sheath triangular; inflorescence lateral with sessile spikelets; perianth bristles needle-like with retrorsely barbed teeth
-.............................................................................................................. S. mucronatus
+
+**1.** Perennial plant, stoloniferous; stem and sheath cylindric; inflorescence apparently terminal, in a compound umbelliform anthela; perianth bristles plumose → [[Schoenoplectus_subulatus\|*S. subulatus*]] ^k1
+
+**1′.** Annual or perennial plant; stem and sheath triangular; inflorescence lateral with sessile spikelets; perianth bristles needle-like with retrorsely barbed teeth → [[Schoenoplectus_mucronatus\|*S. mucronatus*]]
+
 
 ## Species in region
 

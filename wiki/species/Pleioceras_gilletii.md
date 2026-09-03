@@ -31,7 +31,7 @@ forest, especially along rivers; in Gabon at 480 m altitude, elsewhere at 0–50
 
 ![Pleioceras gilletii](../sources/Apocynaceae_vol59_liteparse/figures/fig_172_p0203.jpeg)
 
-*Plate 94 . Pleioceras gilletii 5DPHDXÀRULIqUHîҀ±)OHXUî±,GHPFRURODLQORQJLWXGLQDO section, with two pairs of appendages, two stamens and the pistil (× 4). – 4. Part of the corolla with one stamen and one pair of appendages (× 6). – 5. Stamen, dorsal view (× 12). – 6. Calyx lobes, surface*
+*Plate 94. Pleioceras gilletii: 3. Floral bud (× 4). – Flower (× 4). – Idem, corolla in longitudinal section, with two pairs of appendages, two stamens and the pistil (× 4). – 4. Part of the corolla with one stamen and one pair of appendages (× 6). – 5. Stamen, dorsal view (× 12). – 6. Calyx lobes, surface*
 
 ## Notes
 

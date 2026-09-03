@@ -31,12 +31,19 @@ male flowers consist of a column bearing several stamens. Perianth absent.
 
 ## Key to the species
 
-1. Drupes 6 cm long → [[Pandanus_parvicentralis|*P. parvicentralis*]]
-1'. Drupes 3–4 cm long
-    - 2. Drupes 4 cm, apex conical
-        - 3. Infructescence with 1 syncarp → [[Pandanus_gabonensis|*P. gabonensis*]]
-        - 3'. Infructescence with 3–5 syncarps → [[Pandanus_candelabrum|*P. candelabrum*]]
-    - 2'. Drupes 3 cm, apex tabular → [[Pandanus_teuszii|*P. teuszii*]]
+
+**1.** Drupes 6 cm long → [[Pandanus_parvicentralis|*P. parvicentralis*]] ^k1
+
+**1′.** Drupes 3–4 cm long
+
+**1′.** 2. Drupes 4 cm, apex conical
+
+**1′.** 3. Infructescence with 1 syncarp → [[Pandanus_gabonensis|*P. gabonensis*]]
+
+**1′.** 3'. Infructescence with 3–5 syncarps → [[Pandanus_candelabrum|*P. candelabrum*]]
+
+**1′.** 2'. Drupes 3 cm, apex tabular → [[Pandanus_teuszii|*P. teuszii*]]
+
 
 ## Species in the region
 

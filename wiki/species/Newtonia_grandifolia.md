@@ -47,7 +47,7 @@ ossimiale, toum (Fang de Libreville)
 
 ## Specimens examined
 
-Fleury in Chevalier 33579 $ ^{1} $, 33583, env. Libreville. INEF s.n., forêt de la Mondah (fr., oct.).
+Fleury in Chevalier 33579 ¹, 33583, env. Libreville. INEF s.n., forêt de la Mondah (fr., oct.).
 
 ## Figures
 

@@ -45,7 +45,7 @@ Verdcourt, in Lewis et al. (2005), considered C. cajan (L.) Huth as the correct 
 
 ![Cajanus cajan](../sources/Millettiaspeciesfabaceae_vol49_liteparse/figures/fig_028_p0072.png)
 
-*Plate 20 : Cajanus cajan : 1. Flowering branch. – 2. Standard. – 3. Detail of the base of the standard. – 4. Wing with detail of the rugose surface. – 5. Keel. – 6. Androecium. – 7. Pistil. – 8. Stigma. – 9.*
+*PL. 20 : Cajanus cajan : 1. Flowering branch. – 2. Standard. – 3. Detail of the base of the standard. – 4. Wing with detail of the rugose surface. – 5. Keel. – 6. Androecium. – 7. Pistil. – 8. Stigma. – 9.*
 
 ## Notes
 

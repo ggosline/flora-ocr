@@ -41,7 +41,7 @@ In Gabon, this is subsp. punctata; subsp. sesban, with its stamens 9–13 mm, is
 
 ![Sesbania sesban](../sources/Millettiaspeciesfabaceae_vol49_liteparse/figures/fig_125_p0350.png)
 
-*Plate 117: Sesbania sesban subsp. punctata: 1. Flowering branch (× ½). – 2. Open flower, half of calyx removed (× 2). – 3. Flower, longitudinal section (× 2). – 4. Half of standard, internal face (× 2). – 5. Wing, external face (× 2). – 6. Keel petal, external face (× 2). – 7. Vexillar stamen (× 2). – 8.*
+*Plate 117: Sesbania sesban subsp. punctata: 1. Flowering branch (× ½). – 2. Open flower, half of calyx removed (× 2). – 3. Flower, longitudinal section (× 2). – 4. Half of standard, internal surface (× 2). – 5. Wing, external surface (× 2). – 6. Keel petal, external surface (× 2). – 7. Vexillar stamen (× 2). – 8.*
 
 ## Notes
 

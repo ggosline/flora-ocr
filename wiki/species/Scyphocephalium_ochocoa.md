@@ -41,7 +41,7 @@ The light wood, semi-hard, is used for heating (boats, lime or brick kilns) or t
 
 GABONESE MATERIAL STUDIED
 
-3. CSELOCARYON $^{1}$ Warb.
+3. CSELOCARYON ¹ Warb.
 
 — Warburg, Notizbl. bot. gart. Mus. Berl.: 99 (1895).
 

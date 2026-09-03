@@ -23,19 +23,11 @@ Loose panicles, very divided, with capillary branches. Spikelets generally dense
 
 About thirty species, principally from Africa and Madagascar. Two are recorded from Gabon, and the presence of a third is very probable.
 
-1. Upper glume and sterile lemma bifid at the apex and awned in the sinus; fertile lemma emarginate glabrous.
+## Key to the species
 
-2. Herb capable of distinctly exceeding 50 cm in height; leaf blades narrow, 20 cm long or generally longer, rolled or spread and then 4 to 6 mm wide; spikelets silky pubescent or pink; savanna herb on sandy soils, flowering after fires..... 1. R. nerviglume.
 
-2'. Herb rarely exceeding 50 cm in height, leaf blades fili-
+**1′.** Upper glume and sterile lemma entire, acuminate or mucronate; fertile lemma obtuse or acuminate, ciliate in its upper part; herb often exceeding 50 cm tall, leaf blades up to about fifty centimetres long and 8 mm wide, spread or folded; spikelets pubescent violet, savanna herb on sandy soil, flowering after fires → *R. amethystem*
 
-form, narrowly rolled, 3 to 15 cm long and 1.5 mm
-
----
-
-wide when spread; spikelets silky pubescent; small herb of coastal savannas on white sands 2. R. filifolium.
-
-1'. Upper glume and sterile lemma entire, acuminate or mucronate; fertile lemma obtuse or acuminate, ciliate in its upper part; herb often exceeding 50 cm in height, leaf blades up to about fifty centimetres long and 8 mm wide, spread or folded; spikelets violet pubescent, savanna herb on sandy soil, flowering after fires..... 3. R. amethystem.
 
 ## Species in region
 

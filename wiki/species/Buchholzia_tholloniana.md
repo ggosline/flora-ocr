@@ -51,7 +51,7 @@ nyondo ndjina (= «oignon de gorille») ou encore ombélé uompopo (= «grand co
 
 ## Specimens examined
 
-Dybowsky s.n $ ^{o} $, Gabon (fl.) P.
+Dybowsky s.n ᵒ, Gabon (fl.) P.
 
 Guigonis 1277 SRF, Lambaréné (fl. & j.fr., avril), P.
 

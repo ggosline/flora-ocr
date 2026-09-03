@@ -48,11 +48,15 @@ Excluded species: Tarenna Soyauxii (Hiern) Bremek. (= Ixora asteriscus K. Schum.
 
 ## Keyed but not treated
 
+
 The source key separates these species but the volume gives them no treatment, usually because they fall outside the area it covers in full. They are listed for identification; some are extralimital to the region.
 
-- *Tarenna bipindensis* — keyed in vol 17, not treated
-- *Tarenna gilletii* — keyed in vol 17, not treated
-- *Tarenna precidantenna* — keyed in vol 17, not treated
+**—** *Tarenna bipindensis* — keyed in vol 17, not treated
+
+**—** *Tarenna gilletii* — keyed in vol 17, not treated
+
+**—** *Tarenna precidantenna* — keyed in vol 17, not treated
+
 
 ## Treatments
 

@@ -72,12 +72,17 @@ The floral biology and notably the mode of pollination of species with large pen
 
 ## Keyed but not treated
 
+
 The source key separates these species but the volume gives them no treatment, usually because they fall outside the area it covers in full. They are listed for identification; some are extralimital to the region.
 
-- *Rothmannia hispida* — keyed in vol 17, not treated
-- *Rothmannia lateriflora* — keyed in vol 17, not treated
-- *Rothmannia liebrechtsiana* — keyed in vol 17, not treated
-- *Rothmannia urcelliformis* — keyed in vol 17, not treated
+**—** *Rothmannia hispida* — keyed in vol 17, not treated
+
+**—** *Rothmannia lateriflora* — keyed in vol 17, not treated
+
+**—** *Rothmannia liebrechtsiana* — keyed in vol 17, not treated
+
+**—** *Rothmannia urcelliformis* — keyed in vol 17, not treated
+
 
 ## Treatments
 

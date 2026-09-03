@@ -45,7 +45,7 @@ The species differs from all others by the combination of alternate leaves, but 
 
 ![Palisota stevartii](../sources/Commelinaceae_vol55_liteparse/figures/fig_042_p0078.png)
 
-*Plate 24 . Palisota stevartii : 1, 2. General aspect. –3. Detail of the margin of an upper surface of a leaf. – 4. Detail of the lower surface of a leaf with the main vein. – 5. Inflorescence. – 6.*
+*PL. 24. Palisota stevartii: 1, 2. General aspect. – 3. Detail of the margin of an upper surface of a leaf. – 4. Detail of the lower surface of a leaf with the main vein. – 5. Inflorescence. – 6.*
 
 ## Notes
 

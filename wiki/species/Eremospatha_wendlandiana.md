@@ -46,7 +46,7 @@ Nkefor 920). Drawing by Lucy T. Smith, reproduced with permission from Sunderlan
 
 ![Eremospatha wendlandiana](../sources/Arecaceae_vol53_liteparse/figures/fig_023_p0030.png)
 
-*Plate 10 . Eremospatha wendlandiana : 1. Mature stem. – 2. Leaflets. – 3. Spine-like leaflets. – 4. Fruit and infrutescence. Scale bar : 1 = 6 cm, 2 = 5 cm, 3 = 2 cm, 4 = 2.5 cm. (1-3 : Sunderland 1798 ; 4 :*
+*Plate 10. Eremospatha wendlandiana : 1. Mature stem. – 2. Leaflets. – 3. Spine-like leaflets. – 4. Fruit and infructescence. Scale bar : 1 = 6 cm, 2 = 5 cm, 3 = 2 cm, 4 = 2.5 cm. (1-3 : Sunderland 1798 ; 4 :*
 
 ![Eremospatha wendlandiana](../sources/Arecaceae_vol53_liteparse/figures/fig_026_p0037.jpeg)
 

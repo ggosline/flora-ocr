@@ -44,7 +44,7 @@ The only species of Raphia (in Gabon) without a clearly visible trunk, with 4 to
 
 ![Raphia regalis](../sources/Arecaceae_vol53_liteparse/figures/fig_040_p0063.png)
 
-*Plate 22 . Raphia regalis : 1. Part of the inflorescence. – 2. Fruit (× 0,6). (Scale bar only for the inflorescence.) Drawing by M. Grierson, reproduced with permission from Russel (1965).*
+*PL. 22. — Raphia regalis : 1. Part of the inflorescence. – 2. Fruit (× 0,6). (Scale bar only for the inflorescence.) Drawing by M. Grierson, reproduced with permission from Russel (1965).*
 
 ## Notes
 

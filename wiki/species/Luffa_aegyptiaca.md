@@ -60,7 +60,7 @@ Achigan Dako et al. (2012), Filipowicz et al. (2014), Jeffrey (1967), Keraudren 
 
 ![Luffa aegyptiaca](../sources/Cucurbitaceae_vol57_paddle/figures/fig_053_p0078.png)
 
-*Plate 24. Luffa aegyptiaca: 1. Flowering stem ( $ \times^{2}/3 $). – 2. Male flower and part of the inflorescence ( $ \times^{3}/3 $). – 3. Androecium ( $ \times2 $). – 4. Stamen, ventral and dorsal views ( $ \times2 $). – 5. Fruit, with operculum detached ( $ \times^{3}/3 $). – 6. Seed, frontal and profile view ( $ \times1^{1}/2 $). (1: Tanner 1474; 2-5: Jeffrey s.n.; 5, 6: Kew carpological collection). Drawing by E. Margaret Stone, Royal Botanic Gardens, Kew, reproduced with permission from Jeffrey (1967).*
+*Plate 24. Luffa aegyptiaca: 1. Flowering stem ( ×²/3). – 2. Male flower and part of the inflorescence ( ×³/3). – 3. Androecium ( ×2). – 4. Stamen, ventral and dorsal views ( ×2). – 5. Fruit, with operculum detached ( ×³/3). – 6. Seed, frontal and profile view ( ×1¹/2). (1: Tanner 1474; 2-5: Jeffrey s.n.; 5, 6: Kew carpological collection). Drawing by E. Margaret Stone, Royal Botanic Gardens, Kew, reproduced with permission from Jeffrey (1967).*
 
 ## Notes
 

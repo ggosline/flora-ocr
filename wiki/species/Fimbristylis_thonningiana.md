@@ -23,7 +23,7 @@ tags: [species, generated]
 
 ![Fimbristylis thonningiana](../sources/Cyperaceae_vol44_liteparse/figures/fig_131_p0155.png)
 
-*Plate 101. Fimbristylis thonningiana. A. Plant. Plate 102. Fuirena stricta. A. Plant. – B. Section – B. Base of blade showing the sheath orifice. of a stem. – C. Apex of blade. – D. Orifice of the – C. Section of a stem. – D. Part of blade. leaf sheath. – E. Inflorescence. – F. Spikelet. – G. – E. Margin of blade. – F. Spikelet with glumes Glume. – H. Flower. – I. Fruit with filaments and segments detached. – G. Glume. – H. Old flower. – 9. Fruit. of persistent perianth. Original drawing by Richard*
+*Plate 101. Fimbristylis thonningiana. A. Plant. Plate 102. Fuirena stricta. A. Plant. – B. Section – B. Base of blade showing the sheath orifice. of a stem. – C. Apex of blade. – C. Section of a stem. – D. Orifice of the – D. Part of blade. leaf sheath. – E. Inflorescence. – E. Margin of blade. – F. Spikelet. – G. – F. Spikelet with glumes Glume. – H. Flower. – I. Fruit with filaments segments detached. – G. Glume. – H. Old flower. – 9. Fruit. of persistent perianth. Original drawing by Richard*
 
 ## Also treated in vol 44
 

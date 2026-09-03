@@ -44,7 +44,7 @@ Keraudren (1967), Keraudren-Aymonin (1975)
 
 ![Momordica jeffreyana](../sources/Cucurbitaceae_vol57_paddle/figures/fig_065_p0094.png)
 
-*Plate 30. Momordica gilgiana: 1. Stem and leaf (× 3/4). – 2. Bud of male flower (× 2/3). – 3. Male flower, one petal removed (× 1/4). – 4. Fruit (× 1/2). – 5. Seed, frontal and lateral views (× 1/4). – Momordica jeffreyana: 6. Flowering stem (× 3/4). – 7. Young inflorescence (× 1/2). – 8. Bud of male flower (× 3/4). – 9. Male flower, one petal removed (× 2/3). – 10. Fruit (× 3/4). – 11. Seed, frontal and lateral views (× 1/4). (1-3: Letouzey 3369; 4, 5: Breteler et al. 2535; 6-9: Bates 1501; 10, 11: J. Léonard 1464). Drawing by M.D. Bergasse and Gisèle Chypre, Muséum national d'Histoire naturelle, Paris (©), reproduced with permission from Keraudren (1967).*
+*PL. XXX. — Momordica gilgiana: 1. Stem and leaf (× 3/4). – 2. Bud of male flower (× 2/3). – 3. Male flower, one petal removed (× 1/4). – 4. Fruit (× 1/2). – 5. Seed, frontal and lateral views (× 1/4). – Momordica jeffreyana: 6. Flowering stem (× 3/4). – 7. Young inflorescence (× 1/2). – 8. Bud of male flower (× 3/4). – 9. Male flower, one petal removed (× 2/3). – 10. Fruit (× 3/4). – 11. Seed, frontal and lateral views (× 1/4). (1-3: Letouzey 3369; 4, 5: Breteler et al. 2535; 6-9: Bates 1501; 10, 11: J. Léonard 1464). Drawing by M.D. Bergasse and Gisèle Chypre, Muséum national d'Histoire naturelle, Paris (©), reproduced with permission from Keraudren (1967).*
 
 ## Notes
 

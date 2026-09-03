@@ -25,89 +25,65 @@ Bibliography
 
 B: Bodard (1963), Goetghebeur & Coudijzer (1984b), Haines & Lye (1983), Hoenselaar et al. (2010), Hooper & Napper (1972), Lye (1997).
 
-### Key to the species
-
-1. - Inflorescence formed of a head of sessile, ± numerous spikelets ................. 2
-
-- Inflorescence in anthela having at least 3 spikelets of which at least one is pedicelled 7
-
-2. - Spikelet with distichous glumes 6–8 mm long; achene 1.7–2 mm long B. pilosa
-
-- Spikelet with spiral glumes, 1.5–4.5 mm long; achene 0.5–1.5 mm long ... 3
-
-3. - Inflorescence spherical; long hairs present at the base of the head .......... B. laniceps
-
-- Inflorescence hemispherical or formed of only a few sessile spikelets ... 4
-
----
-
-4. - Stem very scabrous below the inflorescence with short stiff hairs directed upward; spikelet brownish ........................................................................ B. scabricaulis
-
-- Stem not scabrous; spikelet brown to almost black .......................................................... 5
-
-5. - Glumes obtuse to emarginate; spikelet almost black ............................ B. vanderystii
-
-- Glumes acute with the central nerve reaching the apex; spikelet reddish brown
-
-................................................................................................................................. 6
-
 ## Key to the species
 
-1. - Inflorescence formed of a head of sessile spikelets crowded together, ± numerous ................. 2
-- Inflorescence in an anthela with at least 3 spikelets of which at least one is pedicellate 7
-2. - Spikelet with distichous glumes 6‒8 mm long; achene 1.7‒2 mm long B. pilosa
-- Spikelet with spiralled glumes, 1.5‒4.5 mm long; achene 0.5‒1.5 mm long ... 3
-3. - Inflorescence spherical; long hairs present at the base of the head .......... B. laniceps
-- Inflorescence hemispherical or formed only of a few sessile spikelets ... 4
 
----
+**1.** Inflorescence formed of a head of sessile spikelets crowded together, ± numerous → [[#^k2|2]] ^k1
 
-4. - Stem very scabrous beneath the inflorescence with short stiff hairs directed upward; spikelet brownish ........................................................................ B. scabricaulis
-- Stem not scabrous; spikelet brown to almost black .......................................................... 5
-5. - Glumes obtuse to emarginate; spikelet almost black ............................ B. vanderystii
-- Glumes acute with the central vein reaching the apex; spikelet reddish brown
-................................................................................................................................. 6
-6. - Achene almost smooth at maturity; head formed of 3‒10 spikelets; glumes glabrous and
-shiny ...................................................................................... B. cardiocarpoides
-- Achene finely papillose at maturity; head formed of 6‒20 spikelets; glumes
-finely hairy or scabrous ............................................................... B. filamentosa
-7. - Persistent base of the style on the mature achene ................................................................. 8
-- Base of the style generally not persistent on the mature achene ............................. 13
-8. - Perennial plant with a horizontal rhizome and short leaf blades; leaf sheath
-reddish; 1‒5 spikelets of which often only 1‒2 are pedicellate ........... B. oritrephes
-- Annual plant without rhizome, well-developed leaves; most of the spikelets
-pedicellate ................................................................................................................. 9
-9. - Stem distinctly hairy ............................................................................................ 10
-- Stem glabrous or with a few short hairs ............................................................ 12
-10. - Achene papillose; upper spikelets having several awned bracteoles at the base and with
-white fringe ..................................................................................... B. coleotricha
-- Achene transversely ridged; spikelets having a single bracteole at the base ............. 11
-11. - Anthela with 10‒40 spikelets 1.5‒2 mm wide; glumes 1.6‒2 mm long
-............................................................................................................. B. congolensis
-- Anthela with fewer than 10 spikelets 2‒3 mm wide; glumes 2‒2.3 mm long
-.......................................................................................... B. andongensis
-12. - Achene transversely ridged, surface with elongated cells; glumes usually
-covered with short hairs ................................................... B. pusilla subsp. yalingensis
-- Achene with surface bearing square cells and papillae (the latter
-disappear when the cuticular layer detaches); glumes glabrous except at the margin
-.................................................................................................................. B. abortiva
-13. - Perennial plant with a distinct rhizome; achene smooth .................................. B. hensii
-- Annual plant or rarely perennial; achene distinctly transversely ridged ...... 14
-14. - Anthela often with 3‒8 spikelets 5‒10 mm long; glumes brown and often
-with darker reddish-brown spots; on sand, rocks or other soils, very
-widespread .................................................................................................. B. hispidula
-- Anthela often with 9‒15 spikelets 3‒5 mm long; glumes pale brown with a
-long mucro; on sandy soils, especially in watercourse beds, uncommon
-................................................................................................................... B. cioniana
+**1′.** Inflorescence in an anthela with at least 3 spikelets of which at least one is pedicellate 7
 
----
+**2.** Spikelet with distichous glumes 6‒8 mm long; achene 1.7‒2 mm long B. pilosa ^k2
 
-Leaf sheath and base of leaf blade. – C. Apex of Leaf sheath and base of leaf blade. – C. Portion of
-leaf blade. – D. Inflorescence with the base of involucral leaf blade. – D. Spikelet. – E. Glume. – F.
-bracts. – E. Old inflorescence after the Flower. – G. Anther. – H. Fruit. Original drawing by
-fall of spikelets. – F. Bracteole subtending a Richard W. Haines ©.
-squamella. – G. Squamella with the flower in a
-pouch. – H. Young fruit and more mature fruit. Original drawing by Richard W. Haines ©.
+**2′.** Spikelet with spiralled glumes, 1.5‒4.5 mm long; achene 0.5‒1.5 mm long → [[#^k3|3]]
+
+**3.** Inflorescence spherical; long hairs present at the base of the head → [[Bulbostylis_laniceps\|*B. laniceps*]] ^k3
+
+**3′.** Inflorescence hemispherical or formed only of a few sessile spikelets → [[#^k4|4]]
+
+**4.** Stem very scabrous beneath the inflorescence with short stiff hairs directed upward; spikelet brownish → [[Bulbostylis_scabricaulis\|*B. scabricaulis*]] ^k4
+
+**4′.** Stem not scabrous; spikelet brown to almost black → [[#^k5|5]]
+
+**5.** Glumes obtuse to emarginate; spikelet almost black → [[Bulbostylis_vanderystii\|*B. vanderystii*]] ^k5
+
+**5′.** Glumes acute with the central vein reaching the apex; spikelet reddish brown → [[#^k6|6]]
+
+**6.** Achene almost smooth at maturity; head formed of 3‒10 spikelets; glumes glabrous and shiny → [[Bulbostylis_cardiocarpoides\|*B. cardiocarpoides*]] ^k6
+
+**6′.** Achene finely papillose at maturity; head formed of 6‒20 spikelets; glumes finely hairy or scabrous → [[Bulbostylis_filamentosa\|*B. filamentosa*]]
+
+**7.** Persistent base of the style on the mature achene → [[#^k8|8]] ^k7
+
+**7′.** Base of the style generally not persistent on the mature achene → [[#^k13|13]]
+
+**8.** Perennial plant with a horizontal rhizome and short leaf blades; leaf sheath reddish; 1‒5 spikelets of which often only 1‒2 are pedicellate → [[Bulbostylis_oritrephes\|*B. oritrephes*]] ^k8
+
+**8′.** Annual plant without rhizome, well-developed leaves; most of the spikelets pedicellate → [[#^k9|9]]
+
+**9.** Stem distinctly hairy → [[#^k10|10]] ^k9
+
+**9′.** Stem glabrous or with a few short hairs → [[#^k12|12]]
+
+**10.** Achene papillose; upper spikelets having several awned bracteoles at the base and with white fringe → [[Bulbostylis_coleotricha\|*B. coleotricha*]] ^k10
+
+**10′.** Achene transversely ridged; spikelets having a single bracteole at the base → [[#^k11|11]]
+
+**11.** Anthela with 10‒40 spikelets 1.5‒2 mm wide; glumes 1.6‒2 mm long → [[Bulbostylis_congolensis\|*B. congolensis*]] ^k11
+
+**11′.** Anthela with fewer than 10 spikelets 2‒3 mm wide; glumes 2‒2.3 mm long → [[Bulbostylis_andongensis\|*B. andongensis*]]
+
+**12.** Achene transversely ridged, surface with elongated cells; glumes usually covered with short hairs → B. pusilla subsp. yalingensis ^k12
+
+**12′.** Achene with surface bearing square cells and papillae (the latter disappear when the cuticular layer detaches); glumes glabrous except at the margin → [[Bulbostylis_abortiva\|*B. abortiva*]]
+
+**13.** Perennial plant with a distinct rhizome; achene smooth → [[Bulbostylis_hensii\|*B. hensii*]] ^k13
+
+**13′.** Annual plant or rarely perennial; achene distinctly transversely ridged → [[#^k14|14]]
+
+**14.** Anthela often with 3‒8 spikelets 5‒10 mm long; glumes brown and often with darker reddish-brown spots; on sand, rocks or other soils, very widespread → [[Bulbostylis_hispidula\|*B. hispidula*]] ^k14
+
+**14′.** Anthela often with 9‒15 spikelets 3‒5 mm long; glumes pale brown with a long mucro; on sandy soils, especially in watercourse beds, uncommon → B. cioniana Leaf sheath and base of leaf blade. – C. Apex of Leaf sheath and base of leaf blade. – C. Portion of leaf blade. – D. Inflorescence with the base of involucral leaf blade. – D. Spikelet. – E. Glume. – F. bracts. – E. Old inflorescence after the Flower. – G. Anther. – H. Fruit. Original drawing by fall of spikelets. – F. Bracteole subtending a Richard W. Haines ©. squamella. – G. Squamella with the flower in a pouch. – H. Young fruit and more mature fruit. Original drawing by Richard W. Haines ©.
+
 
 ## Species in region
 

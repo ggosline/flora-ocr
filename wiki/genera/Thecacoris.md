@@ -23,77 +23,57 @@ African genus of approximately 16 species, 5 of which occur in Madagascar. On th
 
 Bibliography: Breteler (2011a), Leandri (1958), Léonard (1995a), Pax & Hoffmann (1922).
 
-### Key to species based on male flower specimens
-
-1. - Shrub to small tree, (0.6–)2–10 m in height and trunk up to 10 cm in diameter; blade with entire margin; inflorescence unbranched ................................................. 2
-
-- Herb or suffrutex, (0.2–)0.3–0.6(–1) m in height; stem often rooting then erect; blade with entire or dentate-undulate margin; inflorescence branched one to several times ............................................................................................... T. viridis
-
-2. - Disc glands pilose ..................................................................................... 3
-
-- Disc glands glabrous .......................................................... T. glabriglandulosa
-
-3. - Inflorescence pendulous ............................................................................................ 4
-
-- Inflorescence erect ............................................................................................... 5
-
-4. - Inflorescence > 15 cm in length; blade (10–)17–34 × (4–)6–15 cm
-
-.............................................................................................................. T. grandifolia
-
-- Inflorescence ≤ 11 cm in length; blade (3–)10–20(–25) × (1.5–)5–8(–15) cm
-
 ## Key to the species
 
-1. - Shrub to small tree, (0.6–)2–10 m tall with trunk up to 10 cm in diameter;
-lamina with entire margin; inflorescence unbranched ................................................. 2
-- Herb or suffrutex, (0.2–)0.3–0.6(–1) m tall; stem often rooting then
-erect; lamina with entire or dentate-undulate margin; inflorescence branched once to
-several times .............................................................................................. T . viridis
-2. - Disk glands pilose ..................................................................................... 3
-- Disk glands glabrous .......................................................... T. glabriglandulosa
-3. - Inflorescence pendulous ............................................................................................ 4
-- Inflorescence erect ............................................................................................... 5
-4. - Inflorescence > 15 cm long; lamina (10–)17–34 × (4–)6–15 cm
-.............................................................................................................. T . grandifolia
-- Inflorescence ≤ 11 cm long; lamina (3–)10–20(–25) × (1.5–)5–8(–15) cm
-............................................................................................................... T . trichogyne
-5. - Pistillode ± obtuse at apex, not lobed, ± glabrous or sparsely pilose; lamina generally
-± dull above, with distinct lateral veins, plane or impressed above ..........................6
-- Pistillode distinctly 3-lobed at apex, pubescent; lamina generally shiny on
-both faces, with slender and prominent lateral veins above ............. T . lucida
-6. - Petals present; lamina with midvein very often pink to brick-red in colour,
-petiole (4–)5–12(–16) mm; stipules (3–)5–7(–12) mm long;
-inflorescence 2–3 cm long ....................................................... T . stenopetala
 
----
+**1.** Shrub to small tree, (0.6–)2–10 m tall with trunk up to 10 cm in diameter; leaf blade with entire margin; inflorescence unbranched → [[#^k2|2]] ^k1
 
-- Petals absent; lamina with midvein green, petiole (1–)2–5(–11) mm;
-stipules 2–6(–7) mm long; inflorescence 3–12 cm long
-.............................................................................................................. T . leptobotrya
-Key to species based on female-flowered specimens
-1. - Shrub to small tree, (0.6–)2–10 m tall with trunk up to 10 cm in diameter;
-lamina with entire margin; inflorescence unbranched ................................................. 2
-- Herb or suffrutex, (0.2–)0.3–0.6(–1) m tall; stem often rooting then
-erect; lamina with entire or dentate-undulate margin; inflorescence branched once to
-several times .............................................................................................. T . viridis
-2. - Ovary glabrous, rarely with a few scattered hairs; fruit glabrous ................................. 3
-- Ovary pubescent at least on the upper half; fruit pubescent, sometimes
-sparsely .............................................................................................................. 5
-3. - Disk at least sparsely pilose ......................................................................... 4
-- Disk glabrous ............................................................................. T. glabriglandulosa
-4. - Petals most often present, persistent in fruit; lamina with midvein very
-often pink to brick-red in colour, petiole (4–)5–12(–16) mm; stipules
-(3–)5–7(–12) mm long .............................................................. T . stenopetala
-- Petals absent; lamina with midvein green, petiole (1–)2–5 mm; stipules
-2–6(–7) mm long .................................................................... T . leptobotrya
-5. - Inflorescence and infructescence pendulous; lamina generally dull on both faces,
-with distinct lateral veins, plane or impressed above ................................... 6
-- Inflorescence and infructescence erect; lamina generally shiny on both faces,
-with slender and prominent lateral veins above ..................................... T . lucida
-6. - Lamina (10–)17–34 × (4–)6–15 cm; fruit 10–15 × 13–18 mm ........... T . grandifolia
-- Lamina (3–)10–20(–25) × (1.5–)5–8(–15) cm; fruit (5–)6–8 × (7–)9–11 mm
-............................................................................................................... T . trichogyne
+**1′.** Herb or suffrutex, (0.2–)0.3–0.6(–1) m tall; stem often rooting then erect; leaf blade with entire or dentate-undulate margin; inflorescence once to several times branched → [[Thecacoris_viridis\|*T. viridis*]]
+
+**2.** Disc glands pilose → [[#^k3|3]] ^k2
+
+**2′.** Disc glands glabrous → [[Thecacoris_glabriglandulosa\|*T. glabriglandulosa*]]
+
+**3.** Inflorescence pendulous → [[#^k4|4]] ^k3
+
+**3′.** Inflorescence erect → [[#^k5|5]]
+
+**4.** Inflorescence > 15 cm long; leaf blade (10–)17–34 × (4–)6–15 cm → [[Thecacoris_grandifolia\|*T. grandifolia*]] ^k4
+
+**4′.** Inflorescence ≤ 11 cm long; leaf blade (3–)10–20(–25) × (1.5–)5–8(–15) cm → [[Thecacoris_trichogyne\|*T. trichogyne*]]
+
+**5.** Pistillode ± obtuse at apex, not lobed, ± glabrous or sparsely pilose; leaf blade generally ± dull above, with distinct lateral veins, plane or impressed above..6 ^k5
+
+**5′.** Pistillode distinctly 3-lobed at apex, pubescent; leaf blade generally glossy on both faces, with slender and prominent lateral veins above → [[Thecacoris_lucida\|*T. lucida*]]
+
+**6.** Petals present; leaf blade with midvein very often pink to brick-red in colour, petiole (4–)5–12(–16) mm; stipules (3–)5–7(–12) mm long; inflorescence 2–3 cm long → [[Thecacoris_stenopetala\|*T. stenopetala*]] ^k6
+
+**6′.** Petals absent; leaf blade with midvein green, petiole (1–)2–5(–11) mm; stipules 2–6(–7) mm long; inflorescence 3–12 cm long → T. leptobotrya Key to species based on female flowering specimens
+
+**1.** Shrub to small tree, (0.6–)2–10 m tall with trunk up to 10 cm in diameter; leaf blade with entire margin; inflorescence unbranched → [[#^k2|2]]
+
+**1′.** Herb or suffrutex, (0.2–)0.3–0.6(–1) m tall; stem often rooting then erect; leaf blade with entire or dentate-undulate margin; inflorescence once to several times branched → [[Thecacoris_viridis\|*T. viridis*]]
+
+**2.** Ovary glabrous, rarely with a few scattered hairs; fruit glabrous → [[#^k3|3]]
+
+**2′.** Ovary pubescent at least on the upper half; fruit pubescent, sometimes sparsely → [[#^k5|5]]
+
+**3.** Disc at least sparsely pilose → [[#^k4|4]]
+
+**3′.** Disc glabrous → [[Thecacoris_glabriglandulosa\|*T. glabriglandulosa*]]
+
+**4.** Petals mostly present, persistent in fruit; leaf blade with midvein very often pink to brick-red in colour, petiole (4–)5–12(–16) mm; stipules (3–)5–7(–12) mm long → [[Thecacoris_stenopetala\|*T. stenopetala*]]
+
+**4′.** Petals absent; leaf blade with midvein green, petiole (1–)2–5 mm; stipules 2–6(–7) mm long → [[Thecacoris_leptobotrya\|*T. leptobotrya*]]
+
+**5.** Inflorescence and infructescence pendulous; leaf blade generally dull on both faces, with distinct lateral veins, plane or impressed above → [[#^k6|6]]
+
+**5′.** Inflorescence and infructescence erect; leaf blade generally glossy on both faces, with slender and prominent lateral veins above → [[Thecacoris_lucida\|*T. lucida*]]
+
+**6.** Leaf blade (10–)17–34 × (4–)6–15 cm; fruit 10–15 × 13–18 mm → [[Thecacoris_grandifolia\|*T. grandifolia*]]
+
+**6′.** Leaf blade (3–)10–20(–25) × (1.5–)5–8(–15) cm; fruit (5–)6–8 × (7–)9–11 mm → [[Thecacoris_trichogyne\|*T. trichogyne*]]
+
 
 ## Species in region
 

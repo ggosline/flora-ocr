@@ -7,13 +7,6 @@ family: Malvaceae
 vol: 45
 pages: 93-103
 source: sources/Malvaceae_vol45_liteparse
-countries: [Gabon]
-in_region: true
-subdivisions:
-  Gabon: [Nyanga]
-habit: "herb"
-habitat: [savanna]
-altitude_m: "350–1200"
 tags: [species, generated]
 ---
 # *Wissadula rostrata* (Schumach. & Thonn.) Hook.f. Planche 29
@@ -22,17 +15,21 @@ tags: [species, generated]
 **Family**: [[Malvaceae]]
 **Protologue**: Fl. Nigrit. (in Hook., Niger Fl. ) : 229 (1849)
 
+## Synonyms
+
+- Sida rostrata Schumach. & Thonn., Beskr. Guin. pl. : 306 (1827).
+
 ## Description
 
-Fl. Nigrit. (in Hook., Niger Fl. ) : 229 (1849). Sida rostrata Schumach. & Thonn., Beskr. Guin. pl. : 306 (1827). W. amplissima (L.) R.E.Fr. var. rostrata (Schumach. & Thonn.) R.E.Fr., Kungl. Svenska Vetenskapsakad. Handl. , n.s. 43, 4 : 51, t. 6, fig. 13-14 (1908). Herb or subshrub, up to 0.5–2 m tall, with numerous slender branches. Stipules 3–10 mm. Leaf: petiole up to 10 cm; blade up to 15 × 9 cm, size gradually diminishing toward the apex, these upper leaves sessile and amplexicaul, base cordate, apex apiculate to caudate, margin entire. Inflorescences axillary and terminal, highly branched, very lax, approximately 30 cm in diameter; peduncle 2–3(–5.5) cm. Flower with pedicel 0.5–1(–5.5) cm; sepals fused for one-third their length, 4 mm long, puberulent; petals 4–7 mm long, yellow-orange; anthers numerous, lacking a staminal tube, filaments free to the base, 5 mm; ovary with (3–)5 carpels, separated into 2 locules by a transverse fold; upper locule 1-ovulate, lower locule 2-ovulate; styles 3–5, 5 mm long, stigmas capitate. Fruit turbinate with (3–)5 mericarps 8–10 mm long. Seeds reticulate, slightly hairy on the reticulations, more densely so at the hilum.
+W. amplissima (L.) R.E.Fr. var. rostrata (Schumach. & Thonn.) R.E.Fr., Kungl. Svenska Vetenskapsakad. Handl., n.s. 43, 4: 51, t. 6, fig. 13-14 (1908). Herb or subshrub, up to 0.5–2 m tall, with numerous slender branches. Stipules 3–10 mm. Leaf: petiole up to 10 cm; blade up to 15 × 9 cm, size gradually diminishing toward the apex, these sessile and amplexicaul, base cordate, apex apiculate to caudate, margin entire. Inflorescences axillary and terminal, very much branched, very lax, approximately 30 cm in diameter; peduncle 2–3(–5.5) cm. Flower with pedicel 0.5–1(–5.5) cm; sepals connate for one-third their length, 4 mm long, puberulent; petals 4–7 mm long, yellow-orange; anthers numerous, lacking a staminal tube, filaments free to the base, 5 mm; ovary with (3–)5 carpels, separated into 2 locules by a transverse fold; upper locule 1-ovulate, lower locule 2-ovulate; styles 3–5, 5 mm long, stigmas capitate. Fruit turbinate with (3–)5 mericarps 8–10 mm long. Seeds reticulate, slightly pubescent on the reticulations, more densely so at the hilum.
 
 ## Distribution
 
-Species of American origin, in Africa present throughout the sub-Saharan zone; in Gabon, known from Nyanga
+Species of American origin, in Africa present throughout the subsaharan zone; in Gabon, known from Nyanga
 
 ## Ecology
 
-degraded forest, shrubby savanna, fallows; elsewhere at 350–1200 m altitude. Flowers in April, at which time still numerous buds
+degraded forest, shrubby savanna, fallows; elsewhere at 350–1200 m altitude. Flowers in April, at which time still many buds present
 
 Drawing by Heather Wood, reproduced with permission, © The Board of Trustees of the Royal Botanic Gardens, Kew (2009).
 

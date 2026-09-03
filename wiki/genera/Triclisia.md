@@ -45,22 +45,23 @@ A tropical African genus of about **16 species**, of which **5 in Gabon**
 
 ## Key (translated from French)
 
-1. Petiole **(3–)6–20 cm** ............................................. **2**
-   - Petiole **(0.5–)1–3.5(–7) cm** ................................... **3**
-2. Leaf blade with **2 pairs** of dominant basal nerves; male flower with
-   3 inner sepals 5–6.5 mm long; fruit with curved beak ± 5 mm long, 2–2.5
-   × 2 × 1 cm without beak ............................. [[Triclisia_dictyophylla|*T. dictyophylla*]]
-   - Leaf blade with **3 pairs** of dominant basal nerves; male flower with
-     3 inner sepals 3 mm long; fruit ± apiculate (no beak), 3–5 × 2.5–3.5
-     cm without beak ................................ [[Triclisia_megacarpa|*T. megacarpa*]]
-3. Flowers ramiflorous or axillary; leaves with 4–6(7) pairs of lateral
-   nerves ................................................................. **4**
-   - Flowers **cauliflorous**; leaves with 3(4) pairs of lateral nerves
-     ............................................. [[Triclisia_hypochrysea|*T. hypochrysea*]]
-4. Stem, petiole and drupe with **stiff appressed brown hairs 0.8–1.5 mm**,
-   persistent; female flower with ± 15 carpels ........ [[Triclisia_gabonensis|*T. gabonensis*]]
-   - Stem, petiole and drupe **tomentose**, stem and petiole glabrescent;
-     female flower with **30 to 40 carpels** ............ [[Triclisia_riparia|*T. riparia*]]
+
+**1.** Petiole **(3–)6–20 cm** → **2** ^k1
+
+**1′.** Petiole **(0.5–)1–3.5(–7) cm** → **3**
+
+**2.** Leaf blade with **2 pairs** of dominant basal nerves; male flower with 3 inner sepals 5–6.5 mm long; fruit with curved beak ± 5 mm long, 2–2.5 × 2 × 1 cm without beak → [[Triclisia_dictyophylla|*T. dictyophylla*]] ^k2
+
+**2′.** Leaf blade with **3 pairs** of dominant basal nerves; male flower with 3 inner sepals 3 mm long; fruit ± apiculate (no beak), 3–5 × 2.5–3.5 cm without beak → [[Triclisia_megacarpa|*T. megacarpa*]]
+
+**3.** Flowers ramiflorous or axillary; leaves with 4–6(7) pairs of lateral nerves → **4** ^k3
+
+**3′.** Flowers **cauliflorous**; leaves with 3(4) pairs of lateral nerves → [[Triclisia_hypochrysea|*T. hypochrysea*]]
+
+**4.** Stem, petiole and drupe with **stiff appressed brown hairs 0.8–1.5 mm**, persistent; female flower with ± 15 carpels → [[Triclisia_gabonensis|*T. gabonensis*]] ^k4
+
+**4′.** Stem, petiole and drupe **tomentose**, stem and petiole glabrescent; female flower with **30 to 40 carpels** → [[Triclisia_riparia|*T. riparia*]]
+
 
 ## Treatments
 

@@ -23,14 +23,13 @@ Dense, short racemes, more or less spaced on a common axis, unilateral. Spikelet
 
 Plants of understory or cool and shaded places, without practical interest. Two species are recorded from Gabon:
 
-1. Awns linear, obtuse at their apex, smooth and often red or pink in color; spikelets 3 to 4 mm long..... 1. O. hirtellus.
-
-1'. Awns capillary, flexuous, scabrous, pale in color; spikelets 2 mm long or barely more..... 2. O. Burmannii.
-
 ## Key to the species
 
-1. Awns linear, obtuse at their apex, smooth and often red or pink in colour; spikelets 3–4 mm long..... 1. O. hirtellus.
-1'. Awns capillary, flexuous, scabrous, pale in colour; spikelets 2 mm long or scarcely more..... 2. O. Burmannii.
+
+**1.** Awns linear, obtuse at their apex, smooth and often red or pink in colour; spikelets 3–4 mm long → [[Oplismenus_hirtellus\|*O. hirtellus*]] ^k1
+
+**1′.** Awns capillary, flexuous, scabrous, pale in colour; spikelets 2 mm long or scarcely more → 2. O. Burmannii.
+
 
 ## Species in region
 

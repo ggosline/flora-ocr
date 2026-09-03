@@ -41,7 +41,7 @@ Ombrophilous forests, swamp forests, forest galleries, clearings, fallows; in Ga
 
 ![Adenia staudtii](../sources/Passifloraceae_vol46_liteparse/figures/fig_044_p0074.png)
 
-*Plate 30. Adenia staudtii : 1. Branch with leaf and inflorescence (× ½) . – 2. Leaf (× ½) . – 3. Base of leaf below with glands (× 2½) . – 4. Longitudinal section of a male flower (× 2½) . - 5. Longitudinal section of a female flower (× 2½) . – 6. Infructescence (× ½). – 7. Seed (× 2½) . (1, 3 : Troupin 10124 ; 2, 5 : Lebrun 4149 ; 4 : Toussaint 345 ; 6 : Gillet 1909 ; 7 : Gérard 5764 ). Drawing by Ruth van*
+*PL. XXX. — Adenia staudtii: 1. Branch with leaf and inflorescence (× ½). – 2. Leaf (× ½). – 3. Base of leaf below with glands (× 2½). – 4. Longitudinal section of a male flower (× 2½). - 5. Longitudinal section of a female flower (× 2½). – 6. Infructescence (× ½). – 7. Seed (× 2½). (1, 3: Troupin 10124; 2, 5: Lebrun 4149; 4: Toussaint 345; 6: Gillet 1909; 7: Gérard 5764). Drawing by Ruth van*
 
 ## Notes
 

@@ -23,35 +23,17 @@ Pantropical genus comprising approximately 60 species, of which three in Gabon.
 
 B: Fischer (1999, 2004), Ghazanfar et al. (2008).
 
-### Key to the species
-
-1. – Blade ovate to lanceolate, acuminate at the apex, with pinnate venation, with a distinct midvein; bracteoles present ................................................... B. crenata
-
-– Blade ovate to spatulate, obtuse to subacute at the apex, with palmate venation; bracteoles present or absent .............................................................................................. 2
-
----
-
-Abaxial stamen. – E. Adaxial stamen. – F. Gynoecium. (A–F: Fischer 7634). Drawing by E. Fischer (©).
-
----
-
-2. – Sepals 4, subequal; bracteoles absent; leaves with distinct venation, with 5–7 visible veins, wider in their upper part, irregularly crenate towards the apex .......................................................................................... B. egensis
-
-– Sepals 5, unequal; bracteoles 2, below the calyx; leaves with indistinct venation, only the midvein visible, wider in the middle, with entire margin ..................................................................................................... B. monnieri
-
 ## Key to the species
 
-1. - Blade ovate to lanceolate, acuminate at apex, with pinnate venation, with a distinct midvein; bracteoles present ................................................... B. crenata
-- Blade ovate to spatulate, obtuse to subacute at apex, with palmate venation; bracteoles present or absent .............................................................................................. 2
 
----
+**1.** Blade ovate to lanceolate, acuminate at apex, with pinnate venation, with a distinct midvein; bracteoles present → [[Bacopa_crenata\|*B. crenata*]] ^k1
 
-Abaxial stamen. – E. Adaxial stamen. – F. Gynoecium. (A–F : Fischer 7634 ). Drawing by E. Fischer (©).
+**1′.** Blade ovate to spatulate, obtuse to subacute at apex, with palmate venation; bracteoles present or absent → 2 Abaxial stamen. – E. Adaxial stamen. – F. Gynoecium. (A–F : Fischer 7634 ). Drawing by E. Fischer (©).
 
----
+**2.** Sepals 4, subequal; bracteoles absent; leaves with distinct venation, with 5-7 visible veins, broader in their upper part, irregularly crenate toward the apex → [[Bacopa_egensis\|*B. egensis*]] ^k2
 
-2. - Sepals 4, subequal; bracteoles absent; leaves with distinct venation, with 5-7 visible veins, broader in their upper part, irregularly crenate toward the apex .......................................................................................... B. egensis
-- Sepals 5, unequal; bracteoles 2, below the calyx; leaves with indistinct venation, only the midvein visible, broader at the middle, with entire margin ..................................................................................................... B. monnieri
+**2′.** Sepals 5, unequal; bracteoles 2, below the calyx; leaves with indistinct venation, only the midvein visible, broader at the middle, with entire margin → [[Bacopa_monnieri\|*B. monnieri*]]
+
 
 ## Species in region
 

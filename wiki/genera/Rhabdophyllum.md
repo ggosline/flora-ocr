@@ -24,35 +24,33 @@ Genus comprising 8 species, known from tropical Africa, from Guinea-Conakry and 
 
 Bibliography: Amaral & Bittrich (2014), Bamps & Farron (1967), Farron (1965, 1985), Sosef (2008).
 
-### Key to the species
-
-1. - Blade with non-hierarchized secondary nerves (see Plate 25), very fine and smooth beneath, narrowly elliptic to narrowly elliptic-oval, rarely exceeding 14 × 4 cm, papyraceous ............................................................................... 2
-
-- Blade with hierarchized secondary nerves (see Plate 24) and prominent at least beneath, narrowly elliptic to elliptic-obovate, (8–)12–30 × (2–)4–10 cm, often coriaceous ........................................................................................................ 5
-
-2. - Flowers all scattered along the rachis, in false raceme ..................................... 3
-
-- Flowers in false umbel, situated in the upper part of the rachis ...... R. welwitschii
-
-3. - Inflorescence dense or open; sepals straight at the base, spreading in fruit; flowers and
-
 ## Key to the species
 
-1. - Lamina with non-hierarchized secondary veins (see Plate 25), very fine and flush beneath, narrowly elliptic to narrowly elliptic-ovate, rarely exceeding 14 × 4 cm, papyraceous ............................................................................... 2
-- Lamina with hierarchized secondary veins (see Plate 24) and prominent at least beneath, narrowly elliptic to elliptic-obovate, (8–)12–30 × (2–)4–10 cm, often coriaceous ........................................................................................................ 5
-2. - Flowers all scattered along the rachis, in false raceme ..................................... 3
-- Flowers in false umbel, situated at the upper part of the rachis ...... R. welwitschii
-3. - Inflorescence dense or open; sepals straight at the base, spreading in fruit; flowers and fruits erect ............................................................................................................... 4
-- Inflorescence dense; sepals sacciform at the base, involute in the fruit; flowers and fruits pendulous ................................................................................... R. calophyllum
-4. - Tree; lamina acuminate to caudate at apex; stipules and scales beneath the inflorescence (if present) caducous; cymules (2–)3- to 7-flowered, the axes very short (less than 1 mm); mericarps reniform (attached on the side) ......................... R. arnoldianum
 
----
+**1.** Lamina with non-hierarchized secondary veins (see Plate 25), very fine and flush beneath, narrowly elliptic to narrowly elliptic-ovate, rarely exceeding 14 × 4 cm, papyraceous → [[#^k2|2]] ^k1
 
-- Subshrub or shrub; lamina acute to acuminate at apex or rarely caudate; stipules and scales beneath the inflorescence (if present) persistent; cymules 1- to 3-flowered, the axes 1–5 mm; mericarps spherical (attached at the base) ....... R. affine
-5. - Inflorescence with rachis exceeding 1 cm in length; scales at the base of the inflorescence persistent or not ......................................................................... 6
-- Rachis short and contracted, not exceeding 1 cm; scales at the base of the inflorescence persistent ....................................................................... R. letestui
-6. - Cymules 1- to 3-flowered; rachis angular or rounded; sepals straight at the base, ± spreading in the fruit; flowers and fruits erect ................................................. R. affine
-- Cymules (2–)3- to 5(–10)-flowered; rachis flattened; sepals sacciform at the base, involute in the fruit; flowers and fruits pendulous ............................... R. calophyllum
+**1′.** Lamina with hierarchized secondary veins (see Plate 24) and prominent at least beneath, narrowly elliptic to elliptic-obovate, (8–)12–30 × (2–)4–10 cm, often coriaceous → [[#^k5|5]]
+
+**2.** Flowers all scattered along the rachis, in false raceme → [[#^k3|3]] ^k2
+
+**2′.** Flowers in false umbel, situated at the upper part of the rachis → [[Rhabdophyllum_welwitschii\|*R. welwitschii*]]
+
+**3.** Inflorescence dense or open; sepals straight at the base, spreading in fruit; flowers and fruits erect → [[#^k4|4]] ^k3
+
+**3′.** Inflorescence dense; sepals sacciform at the base, involute in the fruit; flowers and fruits pendulous → [[Rhabdophyllum_calophyllum\|*R. calophyllum*]]
+
+**4.** Tree; lamina acuminate to caudate at apex; stipules and scales beneath the inflorescence (if present) caducous; cymules (2–)3- to 7-flowered, the axes very short (less than 1 mm); mericarps reniform (attached on the side) → [[Rhabdophyllum_arnoldianum\|*R. arnoldianum*]] ^k4
+
+**4′.** Subshrub or shrub; lamina acute to acuminate at apex or rarely caudate; stipules and scales beneath the inflorescence (if present) persistent; cymules 1- to 3-flowered, the axes 1–5 mm; mericarps spherical (attached at the base) → [[Rhabdophyllum_affine\|*R. affine*]]
+
+**5.** Inflorescence with rachis exceeding 1 cm in length; scales at the base of the inflorescence persistent or not → [[#^k6|6]] ^k5
+
+**5′.** Rachis short and contracted, not exceeding 1 cm; scales at the base of the inflorescence persistent → *R. letestui*
+
+**6.** Cymules 1- to 3-flowered; rachis angular or rounded; sepals straight at the base, ± spreading in the fruit; flowers and fruits erect → [[Rhabdophyllum_affine\|*R. affine*]] ^k6
+
+**6′.** Cymules (2–)3- to 5(–10)-flowered; rachis flattened; sepals sacciform at the base, involute in the fruit; flowers and fruits pendulous → [[Rhabdophyllum_calophyllum\|*R. calophyllum*]]
+
 
 ## Species in region
 

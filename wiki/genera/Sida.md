@@ -23,61 +23,27 @@ Cosmopolitan genus with approximately 150 species, of which five occur in Gabon.
 
 B: Akoègninou et al. (2006), Exell & Meeuse (1961), Bayer & Kubitzki (2003), Hauman (1963), Marais & Friedman (1987), Verdcourt (2009).
 
-### Key to species
-
-1. - Limb cordate, plant with hairs 1.5–2 mm .............................................. S. urens
-
-- Limb with rounded, cuneate base, not cordate, plant with hairs less than
-
-1.5 mm ................................................................................................................. 2
-
-2. - Limb linear, at least 10 times longer than wide; inflorescences terminal
-
-................................................................................................................... S. linifolia
-
-- Limb narrowly elliptic or wider; inflorescences axillary ...................................... 3
-
-3. - Limb obliquely ovate, of highly variable size (presence of leaves less than
-
-1 cm in length), with rounded base and obtuse apex, plant prostrate or
-
-erect; mericarps non- or briefly apiculate ................................................... S. ovata
-
-- Limb oblong-lanceolate or rhombic to ovate, with acuminate apex or if obtuse,
-
-with cuneate base, plant erect; mericarps with 2 distinct awns ............................ 4
-
-4. - Leaves, at least the upper ones, distichous; limb narrowly elliptic to ovate,
-
-with dentate margin to the base, apex acute and base rounded; calyx
-
-glabrescent; flowers chiefly solitary ................................................... S. acuta
-
-- Leaves spiral; limb rhombic to oblong-lanceolate, with entire margin toward
-
-the base, apex obtuse and base cuneate; calyx provided with farinose hairs and
-
-base of the vein distinctly swollen; flowers often in pseudo-fascicles ... S. rhombifolia
-
 ## Key to the species
 
-1. - Limb cordate, plant with hairs 1.5–2 mm ............................................ S. urens
-- Limb with rounded, cuneate base, not cordate, plant with hairs less than
-1.5 mm .................................................................................................................... 2
-2. - Limb linear, at least 10 times longer than wide; inflorescences terminal
-.................................................................................................................... S. linifolia
-- Limb narrowly elliptic or broader; inflorescences axillary .................... 3
-3. - Limb obliquely ovate, very variable in size (presence of leaves less than
-1 cm in length), with rounded base and obtuse apex, plant prostrate or
-erect; mericarps not or briefly apiculate .......................................... S. ovata
-- Limb oblong-lanceolate or rhombic to ovate, with acuminate or if obtuse apex, with
-cuneate base, plant erect; mericarps with 2 distinct awns ........................... 4
-4. - Leaves, at least the upper ones, distichous; limb narrowly elliptic to
-ovate, with margin dentate to the base, apex acute and base rounded;
-calyx glabrescent; flowers mostly solitary................................................... S. acuta
-- Leaves spiral; limb rhombic to oblong-lanceolate, with margin entire towards the
-base, apex obtuse and cuneate base; calyx furnished with farinose hairs and base of
-the vein distinctly swollen; flowers often in pseudo-fascicles ... S. rhombifolia
+
+**1.** Limb cordate, plant with hairs 1.5–2 mm → [[Sida_urens\|*S. urens*]] ^k1
+
+**1′.** Limb with rounded, cuneate base, not cordate, plant with hairs less than
+
+**1.** 5 mm → [[#^k2|2]]
+
+**2.** Limb linear, at least 10 times longer than wide; inflorescences terminal → [[Sida_linifolia\|*S. linifolia*]] ^k2
+
+**2′.** Limb narrowly elliptic or broader; inflorescences axillary → [[#^k3|3]]
+
+**3.** Limb obliquely ovate, very variable in size (presence of leaves less than 1 cm in length), with rounded base and obtuse apex, plant prostrate or erect; mericarps not or briefly apiculate → [[Sida_ovata\|*S. ovata*]] ^k3
+
+**3′.** Limb oblong-lanceolate or rhombic to ovate, with acuminate or if obtuse apex, with cuneate base, plant erect; mericarps with 2 distinct awns → [[#^k4|4]]
+
+**4.** Leaves, at least the upper ones, distichous; limb narrowly elliptic to ovate, with margin dentate to the base, apex acute and base rounded; calyx glabrescent; flowers mostly solitary → [[Sida_acuta\|*S. acuta*]] ^k4
+
+**4′.** Leaves spiral; limb rhombic to oblong-lanceolate, with margin entire towards the base, apex obtuse and cuneate base; calyx furnished with farinose hairs and base of the vein distinctly swollen; flowers often in pseudo-fascicles → [[Sida_rhombifolia\|*S. rhombifolia*]]
+
 
 ## Species in region
 

@@ -7,12 +7,6 @@ family: Cyperaceae
 vol: 44
 pages: 72-74
 source: sources/Cyperaceae_vol44_liteparse
-countries: [Gabon]
-in_region: true
-subdivisions:
-  Gabon: [Estuaire, Ogooué-Maritime, Woleu-Ntem]
-habit: "herb"
-altitude_m: "0–600"
 tags: [species, generated]
 ---
 # *Cyperus rotundus* L. Planche 44
@@ -21,19 +15,24 @@ tags: [species, generated]
 **Family**: [[Cyperaceae]]
 **Protologue**: Sp. pl. 1 : 45 (1753)
 
+## Synonyms
+
+- Chlorocyperus rotundus (L.) Palla, Allg. Bot. Z. Syst. 6 : 201 (1900).
+- Cyperus merkeri C.B.Clarke, Bull. Misc. Inform., Addit. Ser 8 : 12 (1908).
+
 ## Description
 
-Chlorocyperus rotundus (L.) Palla, Allg. Bot. Z. Syst. 6 : 201 (1900). Cyperus merkeri C.B.Clarke, Bull. Misc. Inform., Addit. Ser 8 : 12 (1908). Perennial herb, medium-sized, with the base of stems slightly swollen or tubercle-shaped, arising from slender or fairly robust stolons with rather distant scales; stems 25–80 cm × 1–4 mm, glabrous, trigonous with numerous leaves clustered in the basal part. Leaf: sheath green to brown; principal blades 15–30 cm × 4–8 mm, plane or rolled, scabrous at least on the margin and principal veins. Inflorescence in an anthela of 3–15 × 2–12 cm, formed of one sessile spike and 1–8 spikes on peduncles of 0.5–12 cm, with or without secondary spikes at the base of the primary ones; involucral bracts 1–7, foliaceous, erect or spreading, the largest 3–20 cm × 2–9 mm; spikes 1–5 × 1.5–7 cm, with 4–15 spikelets erect or spreading. Spikelet linear–lanceolate, 6–25(–70) × 1–2.5 mm, light to dark reddish brown, with 8–35 flowers; glumes ovate, 2.7–4.3 mm long, nearly colourless or light to dark reddish brown, with or without a narrow colourless margin and 1–2 lateral veins; the central one green, glabrous or scabrous, terminating below the rounded apex. Achene obovate, 1.3–1.7 × 0.5–1 mm, triangular, greyish, finely papillose.
+Perennial herb, medium-sized, with the base of stems slightly swollen or tubercle-shaped, arising from slender or fairly robust stolons with rather distant scales; stems 25–80 cm × 1–4 mm, glabrous, trigonous with numerous leaves clustered in the basal part. Leaf: sheath green to brown; primary blades 15–30 cm × 4–8 mm, flat or rolled, scabrous at least on the margin and main veins. Inflorescence in an anthela of 3–15 × 2–12 cm, formed of one sessile spike and 1–8 spikes on peduncles of 0.5–12 cm, with or without secondary spikes at the base of the primary ones; involucral bracts 1–7, foliaceous, erect or spreading, the largest 3–20 cm × 2–9 mm; spikes of 1–5 × 1.5–7 cm, with 4–15 spikelets erect or spreading. Spikelet linear–lanceolate, 6–25(–70) × 1–2.5 mm, light to dark reddish-brown, with 8–35 flowers; glumes ovate, 2.7–4.3 mm long, nearly colorless or light to dark reddish-brown, with or without a narrow colorless margin and 1–2 lateral veins; the central one green, glabrous or scabrous, terminating below the rounded apex. Achene obovate, 1.3–1.7 × 0.5–1 mm, triangular, grayish, finely papillose.
 
 ## Distribution
 
 widely distributed in all tropical and temperate regions; infrequent or poorly known in Gabon, collected only in Estuaire, Ogooué-Maritime and Woleu-Ntem (4 collections)
 
-Spike with peduncle and basal prophyll. – C. Entire plant and inflorescence. – C. Transverse section of stem. – D. Spikelet. – E. Glume. – F. Flower. – G. the stem beneath the inflorescence. – D. Transverse section Fruit. Original drawing by Richard W. Haines ©. of the blade. – E. Spikelet. – F. Glume. – G. Fruit. Original drawing by Richard W. Haines ©.
+Spike with peduncle and basal prophyll. – C. Spike plant and inflorescence. – C. Transverse section of stem. – D. Spikelet. – E. Glume. – F. Flower. – G. the stem below the inflorescence. – D. Transverse section Fruit. Original drawing by Richard W. Haines ©. of the blade. – E. Spikelet. – F. Glume. – G. Fruit. Original drawing by Richard W. Haines ©.
 
 ## Ecology
 
-in seasonally humid grassy areas, marshes and margins of springs and streams, also a weed of cultivated land; in Gabon, at 0–600 m altitude, up to 2500 m in East Africa
+in seasonally wet herbaceous zones, marshes and along springs and streams, also a weed in cultivated areas; in Gabon, at 0–600 m altitude, up to 2500 m in East Africa
 
 ## Vernacular names
 

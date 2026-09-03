@@ -7,12 +7,6 @@ family: Cyperaceae
 vol: 44
 pages: 98-99
 source: sources/Cyperaceae_vol44_liteparse
-countries: [Democratic Republic of the Congo, Gabon, Senegal]
-in_region: true
-subdivisions:
-  Gabon: [Estuaire, Nyanga, Ogooué-Maritime]
-habit: "herb"
-habitat: [mangrove]
 tags: [species, generated]
 ---
 # *Cyperus peruvianus* (Lam.) F.N.Williams Planche 59, Figure 7a
@@ -21,15 +15,20 @@ tags: [species, generated]
 **Family**: [[Cyperaceae]]
 **Protologue**: Bull. Herb. Boissier sér. 2, 7 : 90 (1907)
 
+## Synonyms
+
+- Kyllinga vaginata Lam., Tabl. encycl. 1(1) : 148 (1791), non Cyperus vaginatus R.Br. (1810).
+- Kyllinga peruviana Lam., Encycl. 3 : 366 (1792).
+
 ## Description
 
-Kyllinga vaginata Lam., Tabl. encycl. 1(1) : 148 (1791), non Cyperus vaginatus R.Br. (1810). Kyllinga peruviana Lam., Encycl. 3 : 366 (1792). Robust, perennial herb with a horizontal creeping rhizome emitting fairly dense stems; rhizome 4–10 cm × 2–5 mm, aromatic, covered with ovate–elliptic, cinnamon-coloured scales; stems 20–60 cm × 2–5 mm, trigonous–rounded, striated, glabrous, rather spongy. Leaves of the lower part of stems reduced to violaceous or greyish-brown sheaths without a blade, upper part of sheaths sometimes with a triangular lobe. Inflorescence in a solitary, spherical, dense head, whitish-green, 7–13 mm wide; involucral bracts (2–)3(–5), very short (5–15 mm), often shorter than the head diameter, spreading or reflexed. Spikelet elliptic and muticous, 2.4–3.5 mm, one-flowered, with 2 basal sterile glumes and 1 fertile glume; glumes very unequal, the lower one about 0.6 mm long, the next one about 2 mm long and the fertile glume 2.2–2.5 mm long, whitish to pale brown, apex rounded or weakly acuminate and incurved, central nerve rounded, glabrous, not winged. Achene elliptic, 1–1.2 × 0.6–0.7 mm, lenticular with the surface almost smooth.
+Robust perennial herb with a horizontal creeping rhizome emitting fairly dense stems; rhizome 4–10 cm × 2–5 mm, aromatic, covered by oval–elliptic, cinnamon-coloured scales; stems 20–60 cm × 2–5 mm, trigonous–rounded, striate, glabrous, rather spongy. Leaves of the lower part of the stems reduced to violaceous or brownish-grey sheaths, without a blade, upper part of sheaths sometimes with a triangular lobe. Inflorescence in a solitary, spherical, dense head, whitish-green, 7–13 mm wide; involucral bracts (2–)3(–5), very short (5–15 mm), often shorter than the diameter of the head, spreading or reflexed. Spikelet elliptic and muticous, 2.4–3.5 mm, one-flowered, with 2 basal sterile glumes and 1 fertile glume; glumes very unequal, the lower one approximately 0.6 mm long, the next approximately 2 mm long and the fertile glume 2.2–2.5 mm long, whitish to light brown, apex rounded or weakly acuminate and incurved, central nerve rounded, glabrous, not winged. Achene elliptic, 1–1.2 × 0.6–0.7 mm, lenticular with the surface nearly smooth.
 
 a b
 
 ## Distribution
 
-in tropical coastal regions of the Americas and Africa, from Senegal to the Democratic Republic of the Congo; in Gabon, widely distributed along the coasts, found in the Estuaire, Nyanga and Ogooué-Maritime (12 collections)
+in tropical coastal regions of the Americas and Africa, from Senegal to the Democratic Republic of the Congo; in Gabon, widely distributed along the coasts, found in Estuaire, Nyanga and Ogooué-Maritime (12 collections)
 
 ## Ecology
 

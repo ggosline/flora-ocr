@@ -29,17 +29,13 @@ Type species: Dictyandra arborescens Welw. ex Hook. f.
 
 This genus from tropical Africa is known only by two forest species, both represented in Gabon. D. involucrata resembles very closely, except for the anther locules, the Leptactina. Like Sherbournia (cf. p. 127), there could follow a doubt as to the true taxonomic position of this species.
 
-### KEY TO THE SPECIES
-
-1. Stipules triangular, erect; corolla tube equal to or shorter than the lobes; sepals broadly ovate with overlapping margin rolled; style hairy with entirely bifurcate and exsert stigma; fruit globose microsinus on the surface when dry; pedicels about 1 cm.
-
-1'. Stipules suborbicular, bent back; corolla tube much longer than the lobes; sepals lanceolate ± narrow; style glabrous with ± hidden stigmatic lobes; fruit ovate with surface longitudinally wrinkled when dry; pedicels 5 mm or less..... 2. D. involucrata
-
 ## Key to the species
 
-1. Stipules triangular, erect; corolla tube equal to or shorter than the lobes; sepals broadly ovate with overlapping, rolled margins; style pubescent with stigma entirely bifurcate and exsert; fruit globose, microssinuose on surface when dry; pedicels approximately 1 cm long.
 
-1'. Stipules suborbicular, deflexed; corolla tube much longer than the lobes; sepals lanceolate ± narrow; style glabrous with stigmatic lobes ± hidden; fruit ovate with surface longitudinally plicate when dry; pedicels 5 mm or less..... 2. D. involucrata
+**1.** Stipules triangular, erect; corolla tube equal to or shorter than the lobes; sepals broadly ovate with overlapping, rolled margins; style pubescent with stigma entirely bifurcate and exsert; fruit globose, microssinuose on surface when dry; pedicels approximately 1 cm long. ^k1
+
+**1′.** Stipules suborbicular, deflexed; corolla tube much longer than the lobes; sepals lanceolate ± narrow; style glabrous with stigmatic lobes ± hidden; fruit ovate with surface longitudinally plicate when dry; pedicels 5 mm or less → [[Dictyandra_involucrata\|*D. involucrata*]]
+
 
 ## Species in region
 

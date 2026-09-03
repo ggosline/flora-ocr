@@ -33,7 +33,7 @@ Tree (?) with reddish branchlets, initially pubescent, then greyish, glabrescenc
 
 ## Type
 
-Mann 979, Gaboon River,  $ 1^{o} $ lat. N (1859-63). La description ci-dessus est basée sur le double du type provenant du jardin royal de Kew (P)
+Mann 979, Gaboon River,  1ᵒ lat. N (1859-63). La description ci-dessus est basée sur le double du type provenant du jardin royal de Kew (P)
 
 ## Discussion
 

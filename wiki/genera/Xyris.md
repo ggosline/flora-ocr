@@ -35,46 +35,51 @@ Malme and X. angustifolia De Wild. & T.Durand which reach their northern limit t
 
 ## Key to the species
 
-1. - Leaf margin entire, with flexuous hairs; leaves clearly distichous
-.................................................................................................................. X. imitatrix
-- Leaf margin glabrous, finely serrulate or entire; leaves not distichous ..... 2
-2. - Bracts with a visible dorsal mark ............................................................. 3
-- Bracts without a visible dorsal mark .................................................... 6
-3. - Dorsal mark grey; peduncles with more than 2 longitudinal ridges;
-inflorescences dark brown ........................................................................................ 4
-- Dorsal mark greenish; peduncle with 2 longitudinal ridges; inflorescences
-yellowish to brown .................................................................................................... 5
-4. - Inflorescence exceeding 9 mm in length at maturity; coastal plants
-................................................................................................................. X. decipiens
-- Inflorescence reaching 8 mm in length at maturity; continental habitats
-................................................................................................................ X. angularis
-5. - Small annual plant, generally less than 30 cm .... X. anceps subsp. minor
-- Robust annual plant or short-lived perennial, more than 30 cm
-.............................................................................................. X. anceps subsp. anceps
-6. - Blade very narrow, terete in section, 0.5–1 mm wide; perennial plant,
-in dense tufts ................................................................................ X. angustifolia
-- Blade wider, plane; annual or perennial plant ............................................... 7
-7. - Keel of lateral sepals dentate ......................................................................... 8
-- Keel of lateral sepals entire ....................................................................... 11
 
----
+**1.** Leaf margin entire, with flexuous hairs; leaves clearly distichous → [[Xyris_imitatrix\|*X. imitatrix*]] ^k1
 
-8. - Bracts blackish, smooth or papillose, opaque, apex generally acute,
-acuminate or setaceous ................................................................................................... 9
-- Bracts brownish, smooth, apex sometimes mucronate, but never setaceous ..... 10
-9. - Bracts clearly papillose, with a long rigid point and scarious margin
-becoming irregular with age .................................................... X. aristata N.E.Br.
-- Bracts smooth, acute, without long point and margin not scarious
-.......................................................................................... X. rehmannii L.A.Nilsson
-10. - Perennial plant; inflorescences oblong, with parallel margins, remarkably elongating
-at maturity; teeth of the keel of lateral sepals prominent,
-often compound; flowers yellow ........................................................ X. congensis
-- Annual plant; inflorescences ovoid or ellipsoid; teeth of the keel of
-lateral sepals simple; flowers blue or mauve ................................ X. filiformis
-11. - Plants more than 30 cm tall; blade at least 2 mm wide;
-inflorescence generally subspheric ............................................... X. capensis
-- Plants generally less than 20 cm tall; blade 1–1.5 mm
-wide; inflorescence generally narrowly ovoid .. X. straminea L.A.Nilsson
+**1′.** Leaf margin glabrous, finely serrulate or entire; leaves not distichous → [[#^k2|2]]
+
+**2.** Bracts with a visible dorsal mark → [[#^k3|3]] ^k2
+
+**2′.** Bracts without a visible dorsal mark → [[#^k6|6]]
+
+**3.** Dorsal mark grey; peduncles with more than 2 longitudinal ridges; inflorescences dark brown → [[#^k4|4]] ^k3
+
+**3′.** Dorsal mark greenish; peduncle with 2 longitudinal ridges; inflorescences yellowish to brown → [[#^k5|5]]
+
+**4.** Inflorescence exceeding 9 mm in length at maturity; coastal plants → [[Xyris_decipiens\|*X. decipiens*]] ^k4
+
+**4′.** Inflorescence reaching 8 mm in length at maturity; continental habitats → [[Xyris_angularis\|*X. angularis*]]
+
+**5.** Small annual plant, generally less than 30 cm → X. anceps subsp. minor ^k5
+
+**5′.** Robust annual plant or short-lived perennial, more than 30 cm → X. anceps subsp. anceps
+
+**6.** Blade very narrow, terete in section, 0.5–1 mm wide; perennial plant, in dense tufts → [[Xyris_angustifolia\|*X. angustifolia*]] ^k6
+
+**6′.** Blade wider, plane; annual or perennial plant → [[#^k7|7]]
+
+**7.** Keel of lateral sepals dentate → [[#^k8|8]] ^k7
+
+**7′.** Keel of lateral sepals entire → [[#^k11|11]]
+
+**8.** Bracts blackish, smooth or papillose, opaque, apex generally acute, acuminate or setaceous → [[#^k9|9]] ^k8
+
+**8′.** Bracts brownish, smooth, apex sometimes mucronate, but never setaceous → [[#^k10|10]]
+
+**9.** Bracts clearly papillose, with a long rigid point and scarious margin becoming irregular with age → X. aristata N.E.Br. ^k9
+
+**9′.** Bracts smooth, acute, without long point and margin not scarious → X. rehmannii L.A.Nilsson
+
+**10.** Perennial plant; inflorescences oblong, with parallel margins, remarkably elongating at maturity; teeth of the keel of lateral sepals prominent, often compound; flowers yellow → [[Xyris_congensis\|*X. congensis*]] ^k10
+
+**10′.** Annual plant; inflorescences ovoid or ellipsoid; teeth of the keel of lateral sepals simple; flowers blue or mauve → [[Xyris_filiformis\|*X. filiformis*]]
+
+**11.** Plants more than 30 cm tall; blade at least 2 mm wide; inflorescence generally subspheric → [[Xyris_capensis\|*X. capensis*]] ^k11
+
+**11′.** Plants generally less than 20 cm tall; blade 1–1.5 mm wide; inflorescence generally narrowly ovoid .. X. straminea L.A.Nilsson
+
 
 ## Species in region
 

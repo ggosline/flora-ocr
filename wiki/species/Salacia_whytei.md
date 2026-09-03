@@ -32,7 +32,7 @@ Slender liana often modest, 2–3 m, glabrous, devoid of rubber. Young branchlet
 
 Small axillary inflorescences uni- or pauciflorous, with basal peduncle 0.5–3 mm in length. A small number of tiny bracts grouped is more rarely replaced by a series of staggered bracts (fa. ophiurella Hallé, Bull. Mus. natn. Hist. nat. Paris 30(5): 469, 1958). Buds ovate short 2 mm. Pedicels slender 5–10 mm. Flower rotate 5–6 mm in diameter, orange, pale or ± dark, with yellowish-green calyx and green disc. Sepals ovate subequal, broad 0.9–1.2 mm, entire or eroded. Petals oblong, apex sometimes somewhat angular, 2–2.6 × 1.3–1.6 mm. Disc cushion-like briefly subcylindric or truncate-conical, 1.6–1.8 mm in diameter and 0.6–0.8 mm in thickness, ± distinctly pitted beneath the stamens (contact of locules in the bud). Filaments spaced between them, short, with adaxial pit at the base; anther with adhering locules arranged at very wide angle, broad 0.7–0.8 mm; pollen pale yellow. Pistil short pyramidal, less than 1 mm, with punctiform stigma. Locules of the ovary sunken to 2–5 ovules biseriate each.
 
-Fruit bright red-orange, 3–4 cm in diameter, adorned with prominent ridges forming a rather tight network and containing 4–5 seeds. Seed $ 14 \times 10 \times 9 $ mm with white cotyledons fused into a homogeneous mass and without distinct gemule. - Pl. 25, fig. 3–7, 10, 11, 20, 24, 25, 27, 28, p. 97.
+Fruit bright red-orange, 3–4 cm in diameter, adorned with prominent ridges forming a rather tight network and containing 4–5 seeds. Seed 14 × 10 × 9 mm with white cotyledons fused into a homogeneous mass and without distinct gemule. - Pl. 25, fig. 3–7, 10, 11, 20, 24, 25, 27, 28, p. 97.
 
 ## Vernacular names
 
@@ -90,7 +90,7 @@ Shrub of 2 m or liana reaching 25 m, glabrous, devoid of rubber. Young branchlet
 
 Axillary inflorescence pluriflorous in glomule ± divided, subsessile or on a peduncle of 1–4 mm. Bud short 2 × 3 mm. Pedicel (4)5–9.5 mm. Expanded flower not seen (7–8 mm at least). Sepals small, unequal, subobtuse, entire. Petals suborbicular 2–3 mm. Disc as a 5-lobed rim with thick edge 0.5 mm forming almost a cupule around the deep perigynous groove where the very short stamens are inserted; anther with confluent locules; fissures in barely broken transverse line, width 1 mm. Pistil short; style truncate 0.2 mm. Locules sunken to 2 ovules superposed per locule.
 
-Fruit globoid smooth, somewhat irregular $ 3.5 \times 4 $ cm, containing 1–4 seeds. - Pl. 26, p. 99.
+Fruit globoid smooth, somewhat irregular 3.5 × 4 cm, containing 1–4 seeds. - Pl. 26, p. 99.
 
 This species is to be sought in Gabon.
 

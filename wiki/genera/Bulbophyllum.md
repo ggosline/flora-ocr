@@ -25,39 +25,41 @@ This genus exceeds 1100 species widely distributed in the tropical and subtropic
 
 ## Key to the species
 
-1. Lip with hairs along the margins, length of hairs ≥ the width of the lip ..... Group 1 (p. 132)
 
-1'. Lip papillose or shortly ciliate along the margins, but then hairs distinctly shorter than half the width of the lip or lip entirely glabrous.
+**1.** Lip with hairs along the margins, length of hairs ≥ the width of the lip → Group 1 (p. 132) ^k1
 
-2. Rachis distinctly flattened ..... Group 2 (p. 144)
+**1′.** Lip papillose or shortly ciliate along the margins, but then hairs distinctly shorter than half the width of the lip or lip entirely glabrous.
 
-3. Pseudobulbs 2-leaved ..... Group 3 (p. 170)
+**2.** Rachis distinctly flattened → Group 2 (p. 144) ^k2
 
-3'. Pseudobulbs 1-leaved ..... Group 4 (p. 186)
+**3.** Pseudobulbs 2-leaved → Group 3 (p. 170) ^k3
 
-KEY TO GROUP 1: species with hairy lip margins
+**3′.** Pseudobulbs 1-leaved → Group 4 (p. 186) KEY TO GROUP 1: species with hairy lip margins
 
-1. Pseudobulbs bifoliate ..... 2. B. cochleatum
-1'. Pseudobulbs unifoliate.
+**1.** Pseudobulbs bifoliate → [[Bulbophyllum_cochleatum\|*B. cochleatum*]]
 
-2. Lip linear in its lower part and broadly ovate or elliptic above ..... 4. B. phaeopogon
+**1′.** Pseudobulbs unifoliate.
 
-2'. Lip globally linear or lanceolate and progressively narrowed toward the apex.
+**2.** Lip linear in its lower part and broadly ovate or elliptic above → [[Bulbophyllum_phaeopogon\|*B. phaeopogon*]]
 
-3. Lower bracts ≥15 mm.
+**2′.** Lip globally linear or lanceolate and progressively narrowed toward the apex.
 
-4. Lip with a basal adaxial tooth ..... 7. B. subligaculiferum
+**3.** Lower bracts ≥15 mm.
 
-4'. Lip without a basal adaxial tooth ..... 6. B. schinzianum
-3'. Lower bracts <13 mm.
+**4.** Lip with a basal adaxial tooth → [[Bulbophyllum_subligaculiferum\|*B. subligaculiferum*]] ^k4
 
-5. Petals sub-visible <1 mm, apex of lip covered with thick hairs ..... 1. B. barbigerum
+**4′.** Lip without a basal adaxial tooth → [[Bulbophyllum_schinzianum\|*B. schinzianum*]]
 
-5'. Petals longer, apex of lip with non-thickened hairs.
+**3′.** Lower bracts <13 mm.
 
-6. Hairs gathered at the apex of the lip and oriented toward the base of the lip ..... 3. B. finetii
+**5.** Petals sub-visible <1 mm, apex of lip covered with thick hairs → [[Bulbophyllum_barbigerum\|*B. barbigerum*]] ^k5
 
-6'. Hairs borne along the margins of the lip, just above its basal third, widely divergent ..... 5. B. saltatorium
+**5′.** Petals longer, apex of lip with non-thickened hairs.
+
+**6.** Hairs gathered at the apex of the lip and oriented toward the base of the lip → [[Bulbophyllum_finetii\|*B. finetii*]] ^k6
+
+**6′.** Hairs borne along the margins of the lip, just above its basal third, widely divergent → [[Bulbophyllum_saltatorium\|*B. saltatorium*]]
+
 
 ## Species in region
 

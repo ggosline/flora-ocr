@@ -1,7 +1,7 @@
 ---
 type: species
 name: Anthonotha pellegrini
-authority: Aubréville, sp. nov. $ ^{1} $
+authority: Aubréville, sp. nov. ¹
 genus: Anthonotha
 family: Leguminosae
 vol: 15
@@ -9,7 +9,7 @@ pages: 214-215
 source: sources/Leguminosae_vol15_paddle
 tags: [species, generated]
 ---
-# *Anthonotha pellegrini* Aubréville, sp. nov. $ ^{1} $
+# *Anthonotha pellegrini* Aubréville, sp. nov. ¹
 
 **Genus**: [[Anthonotha]]
 **Family**: [[Leguminosae]]

@@ -29,17 +29,13 @@ Seed with 2 succulent cotyledons, ± plano-convex, without albumen. Hypogeal ger
 
 The genus comprises three (perhaps four) species restricted to humid tropical Africa.
 
-### KEY TO SPECIES
-
-1. Inflorescences and flowers almost glabrous; young leaves, pubescence scarcely visible; length of the inflorescence rachis always < 2.5 cm (generally ≈ 1 cm). Trees always found in marshy places ..... S. mannii
-
-1'. Inflorescences, flowers and young leaves, pubescence clearly visible; length of the inflorescence rachis generally much > 2.5 cm. Trees rare in marshy places ..... S. sericeum
-
 ## Key to the species
 
-1. Inflorescences and flowers almost glabrous; young leaves, pubescence scarcely visible; length of the inflorescence rachis always < 2.5 cm (generally ≈ 1 cm). Trees always encountered in swampy places ..... S. mannii
 
-1'. Inflorescences, flowers and young leaves, pubescence well visible; length of the inflorescence rachis generally much > 2.5 cm. Trees rare in swampy places ..... S. sericeum
+**1.** Inflorescences and flowers almost glabrous; young leaves, pubescence scarcely visible; length of the inflorescence rachis always < 2.5 cm (generally ≈ 1 cm). Trees always encountered in swampy places → [[Strephonema_mannii\|*S. mannii*]] ^k1
+
+**1′.** Inflorescences, flowers and young leaves, pubescence well visible; length of the inflorescence rachis generally much > 2.5 cm. Trees rare in swampy places → [[Strephonema_sericeum\|*S. sericeum*]]
+
 
 ## Species in region
 

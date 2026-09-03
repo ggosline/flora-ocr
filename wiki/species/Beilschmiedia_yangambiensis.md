@@ -33,7 +33,7 @@ Among the plants collected by Le Testu, a specimen with
 
 PL. IX. — 1 to 3, Beilschmiedia Staudtii (Stapf) Rob. et Wilcz.; 1, flowering branch, leaf 25 cm; 1', bract 3 mm; 2, floral bud; 2', section 2.5 mm in diam (Le Testu 5549); 3, section of the flower; 3', pistil (after Jahrb. 26 : 387). — 4 to 5, Beilschmiedia cinnamomea (Stapf) Rob. et Wilcz.: 4, flowering branch, leaf 11 cm; 4', inflorescence 4.5 cm; 4", bract 2 mm (Le Testu 2095, type of Tyl. Le-Testui Pellegrin); 5, flower 2 mm in diam.; 5', section (Zenker 2855, type).
 
-violaceous flowers appears to us to warrant classification in this species, which it recalls greatly by the external appearance of the leafy branches and by the characters enumerated in the keys. This specimen was brought close to the type despite the following differences: $ 3^{e} $ cycle fertile, sometimes even the $ 4^{e} $ is so; the limb is not quite olivaceous; the peduncle of the inflorescence is glabrescent (puberulent-appressed in the type); the colour of the flowers. The discovery of new material will permit confirmation or invalidation of this relationship.
+violaceous flowers appears to us to warrant classification in this species, which it recalls greatly by the external appearance of the leafy branches and by the characters enumerated in the keys. This specimen was brought close to the type despite the following differences: 3ᵉ cycle fertile, sometimes even the 4ᵉ is so; the limb is not quite olivaceous; the peduncle of the inflorescence is glabrescent (puberulent-appressed in the type); the colour of the flowers. The discovery of new material will permit confirmation or invalidation of this relationship.
 
 ## Specimens examined
 

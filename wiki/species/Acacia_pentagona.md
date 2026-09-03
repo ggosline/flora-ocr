@@ -41,7 +41,7 @@ les mêmes que ceux de A. kamerunensis
 
 ## Specimens examined
 
-Florence 1105, M'Passa, 10 km S Makokou ; 1335, Belinga, 6 km S Camp. Hladik 1956 part A, M'passa, Makokou (fr., févr.). Klaine 26, Libreville (fl., sept.); 3172 $ ^{1} $, Libreville (fr., janv. ou déc.). Le Testu 7586, Lastoursville (fl., nov.). Louis A.M., Breteler & de Bruijn 568, près Essang, 5 km NW Mitzic (fl., nov.). Wilks 1138, Estuaire, 2 km Aboun, route Mvang (fl., oct.).
+Florence 1105, M'Passa, 10 km S Makokou ; 1335, Belinga, 6 km S Camp. Hladik 1956 part A, M'passa, Makokou (fr., févr.). Klaine 26, Libreville (fl., sept.); 3172 ¹, Libreville (fr., janv. ou déc.). Le Testu 7586, Lastoursville (fl., nov.). Louis A.M., Breteler & de Bruijn 568, près Essang, 5 km NW Mitzic (fl., nov.). Wilks 1138, Estuaire, 2 km Aboun, route Mvang (fl., oct.).
 
 ## Notes
 

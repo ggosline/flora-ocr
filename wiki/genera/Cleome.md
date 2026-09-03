@@ -46,9 +46,11 @@ Inflorescences in terminal racemes or flowers axillary to the ordinary leaves. B
 
 ## Keyed but not treated
 
+
 The source key separates these species but the volume gives them no treatment, usually because they fall outside the area it covers in full. They are listed for identification; some are extralimital to the region.
 
-- *Cleome hassleriana* — keyed in vol 30, not treated
+**—** *Cleome hassleriana* — keyed in vol 30, not treated
+
 
 ## Treatments
 

@@ -51,13 +51,13 @@ Breteler, Nzabi & Wieringa 12886, 16.09.1994, c. 0°21'N-10°14'E, about 18 km S
 
 Fl. Gab.: 157, Pl. 26 ; FACB 1 : 109, Pl. 9 ; FWTA : 478 ; FTEA : 755 ; Gram. Cam. : 452 ; Poac. CI. : 516, 517 ; Gram. CB. : 284.
 
-$ ^{*} $56.4 Schizachyrium pulchellum (Benth.) Stapf
+*56.4 Schizachyrium pulchellum (Benth.) Stapf
 
 FACB 1 : 116 ; FWTA : 481 ; Gram. Cam. : 459 ; Poac. CI. : 532, 533 ; Gram. CB. : 285.
 
 de Wilde & de Wilde-Bakhuizen 11158, 22.11.1994, 2°53'S-10°08'E, Gamba, Colas, 15 km from airport at Gamba, along the road to Mayonami.
 
-$ ^{*} $56.5 Schizachyrium sanguineum (Retz.) Alston
+*56.5 Schizachyrium sanguineum (Retz.) Alston
 
 FWTA : 479 ; FTEA : 756, fig. 178 ; Gram. Cam. : 458 ; Poac. CI. : 526, 527 ; Gram. CB. : 287, fig. 35.
 
@@ -75,7 +75,7 @@ Alers & Blom (Lopé) 114, 17.07.1986, c. 0°07'S-11°37'E, Réserve de la Lopé,
 
 57. Setaria P. Beauv.
 
-1. Panicule spiciforme ; feuilles non plissées .....S. sphacelata 1. Panicule composée, comprimée ; feuilles plissées longitudinalement : 2. Herbes annuelles, hauteur £1 m ; longueur de la glume inférieure = _ à  $ ^{1}/_{3} $ celle de l'épillet et glume supérieure presque aussi longue que lui .....S. homonyma 2. Herbes pérennes, hauteur 1-3 m ; longueur de la glume inférieure = _ de celle de l'épillet et glume supérieure =  $ ^{2}/_{3} $ de la longueur de celui-ci .....S. megaphylla
+1. Panicule spiciforme ; feuilles non plissées .....S. sphacelata 1. Panicule composée, comprimée ; feuilles plissées longitudinalement : 2. Herbes annuelles, hauteur £1 m ; longueur de la glume inférieure = _ à  ¹/3 celle de l'épillet et glume supérieure presque aussi longue que lui .....S. homonyma 2. Herbes pérennes, hauteur 1-3 m ; longueur de la glume inférieure = _ de celle de l'épillet et glume supérieure =  ²/3 de la longueur de celui-ci .....S. megaphylla
 
 57.1 Setaria homonyma (Steud.) Chiov.
 

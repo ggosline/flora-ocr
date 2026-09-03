@@ -44,7 +44,7 @@ Breteler et al. 13274). Drawing by Hans de Vries, made available by Frans Bretel
 
 ![Cassipourea carringtoniana](../sources/Rhizophoraceae_vol47_liteparse/figures/fig_049_p0098.png)
 
-*Plate 31. Cassipourea carringtoniana : 1. Flowering branch. – 2. Top of the branch showing the stipules. – 3a. Flower. – 3b. Indumentum of the interior of the calyx. – 4. Petal. – 5. Young fruit. – 6. Young fruit, longitudinal section. – 7. Seed. (1, 2, 3a, 4-7: Wieringa 1281 ; 3b : Mouandza 301 ). Drawing by Hans de*
+*PL. XXXI. — Cassipourea carringtoniana: 1. Flowering branch. – 2. Top of the branch showing the stipules. – 3a. Flower. – 3b. Indumentum of the interior of the calyx. – 4. Petal. – 5. Young fruit. – 6. Young fruit, longitudinal section. – 7. Seed. (1, 2, 3a, 4-7: Wieringa 1281; 3b: Mouandza 301). Drawing by Hans de*
 
 ## Notes
 

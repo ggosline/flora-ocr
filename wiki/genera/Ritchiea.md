@@ -25,6 +25,12 @@ Inflorescence a raceme with few or many flowers, often corymbiform at anthesis, 
 
 equal or nearly so, deciduous, leaving neat scars on the torus after their fall; anthers narrow and oblong 2–4 mm, basidorsifixed, versatile. Gynophore slender, often as long as the staminal filaments, glabrous, becoming thick and lignified in the fruit. Ovary unilocular with 2 or more rarely 3 or 4 parietal placentas, cylindric or ellipsoid, glabrous, smooth or variously ornamented with wrinkles or channeling, transverse section circular, with 4 obtuse angles or somewhat swollen on the flanks. Ovules numerous in 2 rows on each placenta. Stigma sessile or subsessile, truncate or swollen, capitate, generally reduced to entire margin or vaguely lobed.
 
+## Key to the species
+
+
+**1′.** Lianes or shrubs with slender and flexuous branches; inflorescences axillary, especially of leaves fairly distant from one another → [[Ritchiea_capparoides\|*R. capparoides*]]
+
+
 ## Species in region
 
 | Species | Vol | Pages |

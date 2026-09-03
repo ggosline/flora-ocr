@@ -27,78 +27,89 @@ Notes: Many species of Clerodendrum adopt a scandent, sarmentose or twining clim
 
 ## Key to the species
 
+
 Important note: Calyx measurements are taken from flowering specimens, those closest to anthesis, and not when in fruit, as the calyx is often accrescent after flowering.
 
-1. - Lianescent plant, prostrate, with stem creeping horizontally on or under the litter of the forest understory, emitting numerous lateral shoots forming what may be incorrectly interpreted as groups of distinct individuals; vertical axes 0.15–0.3(–0.45) m tall ................................................................. C. sassandrense
-- Liana, shrub or small tree, with stem above ground, erect or ascending, clearly forming a single individual; vertical axes > 0.5 m tall .......................... 2
+**1.** Lianescent plant, prostrate, with stem creeping horizontally on or under the litter of the forest understory, emitting numerous lateral shoots forming what may be incorrectly interpreted as groups of distinct individuals; vertical axes 0.15–0.3(–0.45) m tall → [[Clerodendrum_sassandrense\|*C. sassandrense*]] ^k1
 
-2. - Leaves whorled by 3 or 4 (very rarely opposite); stem always hollow, generally harboring ants; inflorescence dense, with length/width ratio of 0.2–0.5; cymes with peduncles often spreading ± horizontally, parallel to each other (sometimes ascending), internodes of 0.5–1 cm ...................... C. formicarum
-- Leaves generally opposite or subopposite (or ternate, but then stem solid); stem solid or hollow, but rarely harboring ants; inflorescence lax or dense, with uniflorous or pedunculate cymes, peduncles generally ascending, rarely ± horizontal and parallel, but then inflorescence lax (internodes of > 3.0 cm), with length/width ratio of 0.5–7 ................................. 3
+**1′.** Liana, shrub or small tree, with stem above ground, erect or ascending, clearly forming a single individual; vertical axes > 0.5 m tall → [[#^k2|2]]
 
-3. - Inflorescence densely villous, with whitish hairs well visible of 2–5 mm; pseudospines (if present) of ≤ 2 mm ................................................. C. leucobotrys
-- Inflorescence with peduncle and calyx with various types of hairs, but hairs not whitish villous and dense; pseudospines of the stem (if present) of 2–30 mm .......... 4
+**2.** Leaves whorled by 3 or 4 (very rarely opposite); stem always hollow, generally harboring ants; inflorescence dense, with length/width ratio of 0.2–0.5; cymes with peduncles often spreading ± horizontally, parallel to each other (sometimes ascending), internodes of 0.5–1 cm → [[Clerodendrum_formicarum\|*C. formicarum*]] ^k2
 
-4. - Corolla with tube 0.2–0.6 cm long .............................................................................. 5
-- Corolla with tube 0.7–17.5 cm long ............................................................................ 7
+**2′.** Leaves generally opposite or subopposite (or ternate, but then stem solid); stem solid or hollow, but rarely harboring ants; inflorescence lax or dense, with uniflorous or pedunculate cymes, peduncles generally ascending, rarely ± horizontal and parallel, but then inflorescence lax (internodes of > 3.0 cm), with length/width ratio of 0.5–7 → [[#^k3|3]]
 
-5. - Inflorescence in pseudoraceme (generally with simple axis or sometimes branched twice at the base); cymes ± sessile; corolla curved and strongly inflated on the lower face ......................................................................................... C. anomalum
-- Inflorescence paniculate; cymes pedunculate; corolla neither curved nor strongly inflated on the lower face ............................................................................................. 6
+**3.** Inflorescence densely villous, with whitish hairs well visible of 2–5 mm; pseudospines (if present) of ≤ 2 mm → [[Clerodendrum_leucobotrys\|*C. leucobotrys*]] ^k3
 
-6. - Young stems with short rusty scales or with fine rusty pubescence; inflorescence dense; calyx with tube 2–3 mm long; stamens exserted 1–2(–4) mm .... C. dusenii
-- Young stems glabrous; inflorescence lax or slightly condensed; calyx with tube 4 mm long; stamens exserted 10–14 mm ....................................... C. volubile
+**3′.** Inflorescence with peduncle and calyx with various types of hairs, but hairs not whitish villous and dense; pseudospines of the stem (if present) of 2–30 mm → [[#^k4|4]]
 
----
+**4.** Corolla with tube 0.2–0.6 cm long → [[#^k5|5]] ^k4
 
-7. - Inflorescence dense, capitate or ovoid (sometimes slightly elongate in C. welwitschii); corolla with tube (2.5–)3–17.5 cm long (≥ 3 cm in C. welwitschii) .. 8
-- Inflorescence lax (sometimes slightly condensed in C. silvanum), paniculate; corolla with tube 0.7–2.5(–3) cm long ...................................................................... 12
+**4′.** Corolla with tube 0.7–17.5 cm long → [[#^k7|7]]
 
-8. - Calyx lobes 1–3 mm long; peduncle of (1–)4–16(–22) cm
-............................................................................................................ C. schweinfurthii
-- Calyx lobes 7–25(–30) mm long; peduncle of 0–1.8(–2) cm ..................... 9
+**5.** Inflorescence in pseudoraceme (generally with simple axis or sometimes branched twice at the base); cymes ± sessile; corolla curved and strongly inflated on the lower face → [[Clerodendrum_anomalum\|*C. anomalum*]] ^k5
 
-9. - Stem solid; corolla with tube 3–4(–4.6) cm long, with lobes 3–4 mm wide
-................................................................................................................. C. welwitschii
-- Stem hollow; corolla with tube (4–)5–14.5(–17.5) cm long, with lobes 4–8(–10) mm wide ...................................................................................................................... 10
+**5′.** Inflorescence paniculate; cymes pedunculate; corolla neither curved nor strongly inflated on the lower face → [[#^k6|6]]
 
-10. - Shrub or small tree 0.9–2.5 m tall at flowering; calyx with tube 6–16 mm long
-....................................................................................................... C. poggei
-- Liana, shrub or small tree 3–10(–20) m tall at flowering; calyx with tube 2.5–4 mm long ..................................................................................................... 11
+**6.** Young stems with short rusty scales or with fine rusty pubescence; inflorescence dense; calyx with tube 2–3 mm long; stamens exserted 1–2(–4) mm → [[Clerodendrum_dusenii\|*C. dusenii*]] ^k6
 
-11. - Stem and leaf glabrous; inflorescence generally cauliflorous, rarely on leafy lateral shoots ....................................................................... C. excavatum
-- Stem densely to sparsely ferruginous with hairs of 1–2(–3) mm; leaf blade pilose on both faces; inflorescence terminal on leafy shoots
-................................................................................................................... C. capitatum
+**6′.** Young stems glabrous; inflorescence lax or slightly condensed; calyx with tube 4 mm long; stamens exserted 10–14 mm → [[Clerodendrum_volubile\|*C. volubile*]]
 
-12. - Corolla uniformly scarlet, red, red-orange, vermilion or pink ................. 13
-- Corolla generally white to yellowish, sometimes spotted with red ............................ 14
+**7.** Inflorescence dense, capitate or ovoid (sometimes slightly elongate in C. welwitschii); corolla with tube (2.5–)3–17.5 cm long (≥ 3 cm in C. welwitschii) .. 8 ^k7
 
-13. - Petiole of 2–25 cm, densely puberulent; leaves decussate, with blade sparsely puberulent above, densely below; cultivated or naturalized species
-............................................................................................................. C. speciossimum
-- Petiole of 0.5–1 cm, glabrous; leaves opposite or subopposite, but not decussate, with blade ± glabrous except on the veins; indigenous species ................. C. splendens
+**7′.** Inflorescence lax (sometimes slightly condensed in C. silvanum), paniculate; corolla with tube 0.7–2.5(–3) cm long → [[#^k12|12]]
 
-14. - Calyx with tube ≥ 5 mm long (in flower, before accretion) ................................... 19
-- Calyx with tube ≤ 4 mm long (in flower, before accretion) ................................... 15
+**8.** Calyx lobes 1–3 mm long; peduncle of (1–)4–16(–22) cm → [[Clerodendrum_schweinfurthii\|*C. schweinfurthii*]] ^k8
 
-15. - Stem glabrous; inflorescence cauliflorous; calyx with lobes of ± 1 × 1 mm ..... C. bipindense
-- Stem pubescent to pilose; inflorescence terminal; calyx with lobes of 1.5–15(–20) × 2–7 mm .................................................................................................................. 16
+**8′.** Calyx lobes 7–25(–30) mm long; peduncle of 0–1.8(–2) cm → [[#^k9|9]]
 
-16. - Calyx with lobes 1.5–4 mm long ............................................................................. 17
-- Calyx with lobes (6–)10–16(–20) mm long .............................................................. 18
+**9.** Stem solid; corolla with tube 3–4(–4.6) cm long, with lobes 3–4 mm wide → [[Clerodendrum_welwitschii\|*C. welwitschii*]] ^k9
 
-17. - Leaf blade becoming black or black-violet in the herbarium; pseudospines of 6 mm; calyx with lobes 1.5–2 mm long; corolla with lobes of 2–3 × 1–2 mm .. C. melanocrater
-- Leaf blade becoming green or brown in the herbarium; pseudospines of 9(–12) mm; calyx with lobes 3–4 mm long; corolla with lobes of 5–6 × 4 mm ........ C. thyrsoideum
+**9′.** Stem hollow; corolla with tube (4–)5–14.5(–17.5) cm long, with lobes 4–8(–10) mm wide → [[#^k10|10]]
 
-18. - Corolla with tube 2–2.5 cm long; stamens exserted 1.5–2 cm ........ C. atlanticum
-- Corolla with tube 1.3–1.9 cm long; stamens exserted 3–4.5 cm ........ C. buettneri
+**10.** Shrub or small tree 0.9–2.5 m tall at flowering; calyx with tube 6–16 mm long → [[Clerodendrum_poggei\|*C. poggei*]] ^k10
 
-19. - Calyx lobed for more than 30% of its length, lobes 3–22 mm long; inflorescence with length/width ratio of 1.5–2; peduncle of 2.8–9(–11) cm ............... 20
-- Calyx lobed for less than 30% of its length, lobes 1–3 mm long; inflorescence with length/width ratio of 2.5–3.5; peduncle of 1–2 cm ......... C. silvanum
+**10′.** Liana, shrub or small tree 3–10(–20) m tall at flowering; calyx with tube 2.5–4 mm long → [[#^k11|11]]
 
-20. - Calyx with lobes of (7–)15–22 × (4–)6–7(–10) mm; corolla with tube (1.3–)2–2.5(–3.0) cm long; leaf blade pubescent on both faces; pseudospines absent
-........................................................................................................................ C. fuscum
-- Calyx with lobes of 3–7 × 3–4 cm; corolla with tube 1–1.5(–1.7) cm long; leaf blade ± glabrous, except on the veins; pseudospines present, of 2–6 mm
-................................................................................................................ C. umbellatum
+**11.** Stem and leaf glabrous; inflorescence generally cauliflorous, rarely on leafy lateral shoots → [[Clerodendrum_excavatum\|*C. excavatum*]] ^k11
 
----
+**11′.** Stem densely to sparsely ferruginous with hairs of 1–2(–3) mm; leaf blade pilose on both faces; inflorescence terminal on leafy shoots → [[Clerodendrum_capitatum\|*C. capitatum*]]
+
+**12.** Corolla uniformly scarlet, red, red-orange, vermilion or pink → [[#^k13|13]] ^k12
+
+**12′.** Corolla generally white to yellowish, sometimes spotted with red → [[#^k14|14]]
+
+**13.** Petiole of 2–25 cm, densely puberulent; leaves decussate, with blade sparsely puberulent above, densely below; cultivated or naturalized species → *C. speciossimum* ^k13
+
+**13′.** Petiole of 0.5–1 cm, glabrous; leaves opposite or subopposite, but not decussate, with blade ± glabrous except on the veins; indigenous species → [[Clerodendrum_splendens\|*C. splendens*]]
+
+**14.** Calyx with tube ≥ 5 mm long (in flower, before accretion) → [[#^k19|19]] ^k14
+
+**14′.** Calyx with tube ≤ 4 mm long (in flower, before accretion) → [[#^k15|15]]
+
+**15.** Stem glabrous; inflorescence cauliflorous; calyx with lobes of ± 1 × 1 mm → [[Clerodendrum_bipindense\|*C. bipindense*]] ^k15
+
+**15′.** Stem pubescent to pilose; inflorescence terminal; calyx with lobes of 1.5–15(–20) × 2–7 mm → [[#^k16|16]]
+
+**16.** Calyx with lobes 1.5–4 mm long → [[#^k17|17]] ^k16
+
+**16′.** Calyx with lobes (6–)10–16(–20) mm long → [[#^k18|18]]
+
+**17.** Leaf blade becoming black or black-violet in the herbarium; pseudospines of 6 mm; calyx with lobes 1.5–2 mm long; corolla with lobes of 2–3 × 1–2 mm .. C. melanocrater ^k17
+
+**17′.** Leaf blade becoming green or brown in the herbarium; pseudospines of 9(–12) mm; calyx with lobes 3–4 mm long; corolla with lobes of 5–6 × 4 mm → [[Clerodendrum_thyrsoideum\|*C. thyrsoideum*]]
+
+**18.** Corolla with tube 2–2.5 cm long; stamens exserted 1.5–2 cm → [[Clerodendrum_atlanticum\|*C. atlanticum*]] ^k18
+
+**18′.** Corolla with tube 1.3–1.9 cm long; stamens exserted 3–4.5 cm → [[Clerodendrum_buettneri\|*C. buettneri*]]
+
+**19.** Calyx lobed for more than 30% of its length, lobes 3–22 mm long; inflorescence with length/width ratio of 1.5–2; peduncle of 2.8–9(–11) cm → [[#^k20|20]] ^k19
+
+**19′.** Calyx lobed for less than 30% of its length, lobes 1–3 mm long; inflorescence with length/width ratio of 2.5–3.5; peduncle of 1–2 cm → [[Clerodendrum_silvanum\|*C. silvanum*]]
+
+**20.** Calyx with lobes of (7–)15–22 × (4–)6–7(–10) mm; corolla with tube (1.3–)2–2.5(–3.0) cm long; leaf blade pubescent on both faces; pseudospines absent → [[Clerodendrum_fuscum\|*C. fuscum*]] ^k20
+
+**20′.** Calyx with lobes of 3–7 × 3–4 cm; corolla with tube 1–1.5(–1.7) cm long; leaf blade ± glabrous, except on the veins; pseudospines present, of 2–6 mm → [[Clerodendrum_umbellatum\|*C. umbellatum*]]
+
 
 ## Species in region
 

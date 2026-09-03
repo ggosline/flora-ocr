@@ -33,56 +33,55 @@ B: Aubréville (1950, 1956), Baker & Stapf (1900), Briquet (1895), Cabral (2013)
 
 ## Key to the species
 
-1. - Inflorescence formed of thyrses .................................................................................. 2
-- Inflorescence formed of axillary dichasia ................................................................ 3
-2. - Leaflets 5, the median with lamina having 5 to 10 secondary veins on each side of
-the main vein ................................................................................. V. thyrsiflora
-- Leaflets 3, the median with lamina having 4 or 5 secondary veins on each side of
-the main vein .................................................... V. agelaeifolia var. agelaeifolia
-3. - A single leaflet (rarely accompanied by a second vestigial leaflet), with
-lamina obtuse-rounded at the base ........................................ V. madiensis subsp. madiensis
-- Leaflets 3 to 7, the median with lamina most often cuneate at the base ............................. 4
-4. - Lamina of leaflets with crenulate or dentate margin ................................................................. 5
-- Lamina of leaflets with entire margin (rarely somewhat crenulate in V. ciliata ) ................ 6
-5. - Petiole and inflorescence axes with fine, partly crispy hairs; leaflets 3, the
-median with petiolule much longer than those of the lateral leaflets, with lamina
-pubescent on the lower surface, coriaceous, obtuse-rounded to subtruncate at the apex
-........................................................................................ V. madiensis subsp. madiensis
-- Petiole and inflorescence axes with short papillose hairs; leaflets (3 to)5, with petio-
-lules slightly unequal, with lamina practically glabrous, thin, long-acuminate at the
-apex ...................................................................................................... V. oxycuspis
-6. - Inflorescence present only on the 1 to 4 terminal nodes of the branches,
-remarkably short (less than 8(–9) cm, peduncle included) ...................................... 7
-- Inflorescence not localized to the terminal nodes of the branches, generally larger .......................................................................................................................... 8
-7. - Dichasia on nodes lacking leaves; ovary glabrous, with flat or convex apex, glandular; calyx 1.5–3 mm long; branches solid ............ V. gabunensis
-- Dichasia on leafy nodes; ovary bristling with hairs, with conical apex; calyx 3–4(–5) mm long; branches hollow, occupied by ants ............ V. grandifolia
-8. - Calyx (2–)2.5–5 mm long at anthesis ................................................................... 9
-- Calyx 1.5–2(–2.5) mm long at anthesis .............................................................. 11
-9. - Calyx tomentose with long fine crispy ochreous or tawny hairs; lower surface of
-leaflets and bracts furnished with ochreous hairs; upper surface of leaflets and
-bracts blackish-green in herbarium material ............................................................... V. ferruginea
-- Calyx with short appressed hairs; leaflets and bracts glabrous or with very
-short greyish hairs on the lower surface; upper surface of lamina and bracts greenish to
-brownish ..................................................................................................................... 10
-10. - Ovary crowned with stiff hairs; calyx entirely covered with hairs; inflorescence
-always with two branches at each node; leaflets thick and coriaceous, with rounded
-or obtusely acuminate apex; lamina generally concolorous ................. V. doniana
-- Ovary glabrous; calyx with scattered hairs; inflorescence with 3 or 4 branches at certain
-nodes; leaflets thin, always with an acute and narrow acumen; lamina strongly discolorous,
-very pale greyish-green on the lower surface ..................................... V. zenkeri
-11. - Leaflets bristly-tomentose, soft to the touch; inflorescence axes and ca-
-lyx bristling with tawny or reddish hairs, long and spreading .. V. congolensis var. congolensis
-- Leaflets glabrous except on the veins or somewhat strigulose on the upper surface;
-inflorescence lacking long tawny spreading hairs or these rare .................... 12
-12. - Petiolules 0–2(–4) mm; leaflets spatulate, with their greatest width in
-the upper third, very long-attenuate at the base, rounded-truncate at the
-apex and cuspidate, with 9 to 12 secondary veins on each side of the main vein; lower surface with veins pale brownish, generally forming a
-pattern contrasting with the rest of the lamina; calyx with glands absent or obscured
-by the hairs ..................................................................................................... V. ciliata
-- Petiolules 5–15(–25) mm; leaflets with their greatest width ± at the middle,
-shortly attenuate at the base, furnished with a fine acumen 1–3 cm long, with 10
-to 20 secondary veins on each side of the main vein; lower surface with veins not forming a brownish pattern contrasting with the rest of the lamina;
-calyx with numerous sessile glands not obscured by the hairs .............. V. rivularis
+
+**1.** Inflorescence formed of thyrses → [[#^k2|2]] ^k1
+
+**1′.** Inflorescence formed of axillary dichasia → [[#^k3|3]]
+
+**2.** Leaflets 5, the median with lamina having 5 to 10 secondary veins on each side of the main vein → [[Vitex_thyrsiflora\|*V. thyrsiflora*]] ^k2
+
+**2′.** Leaflets 3, the median with lamina having 4 or 5 secondary veins on each side of the main vein → V. agelaeifolia var. agelaeifolia
+
+**3.** A single leaflet (rarely accompanied by a second vestigial leaflet), with lamina obtuse-rounded at the base → V. madiensis subsp. madiensis ^k3
+
+**3′.** Leaflets 3 to 7, the median with lamina most often cuneate at the base → [[#^k4|4]]
+
+**4.** Lamina of leaflets with crenulate or dentate margin → [[#^k5|5]] ^k4
+
+**4′.** Lamina of leaflets with entire margin (rarely somewhat crenulate in V. ciliata ) → [[#^k6|6]]
+
+**5.** Petiole and inflorescence axes with fine, partly crispy hairs; leaflets 3, the median with petiolule much longer than those of the lateral leaflets, with lamina pubescent on the lower surface, coriaceous, obtuse-rounded to subtruncate at the apex → V. madiensis subsp. madiensis ^k5
+
+**5′.** Petiole and inflorescence axes with short papillose hairs; leaflets (3 to)5, with petio- lules slightly unequal, with lamina practically glabrous, thin, long-acuminate at the apex → [[Vitex_oxycuspis\|*V. oxycuspis*]]
+
+**6.** Inflorescence present only on the 1 to 4 terminal nodes of the branches, remarkably short (less than 8(–9) cm, peduncle included) → [[#^k7|7]] ^k6
+
+**6′.** Inflorescence not localized to the terminal nodes of the branches, generally larger → [[#^k8|8]]
+
+**7.** Dichasia on nodes lacking leaves; ovary glabrous, with flat or convex apex, glandular; calyx 1.5–3 mm long; branches solid → [[Vitex_gabunensis\|*V. gabunensis*]] ^k7
+
+**7′.** Dichasia on leafy nodes; ovary bristling with hairs, with conical apex; calyx 3–4(–5) mm long; branches hollow, occupied by ants → [[Vitex_grandifolia\|*V. grandifolia*]]
+
+**8.** Calyx (2–)2.5–5 mm long at anthesis → [[#^k9|9]] ^k8
+
+**8′.** Calyx 1.5–2(–2.5) mm long at anthesis → [[#^k11|11]]
+
+**9.** Calyx tomentose with long fine crispy ochreous or tawny hairs; lower surface of leaflets and bracts furnished with ochreous hairs; upper surface of leaflets and bracts blackish-green in herbarium material → [[Vitex_ferruginea\|*V. ferruginea*]] ^k9
+
+**9′.** Calyx with short appressed hairs; leaflets and bracts glabrous or with very short greyish hairs on the lower surface; upper surface of lamina and bracts greenish to brownish → [[#^k10|10]]
+
+**10.** Ovary crowned with stiff hairs; calyx entirely covered with hairs; inflorescence always with two branches at each node; leaflets thick and coriaceous, with rounded or obtusely acuminate apex; lamina generally concolorous → [[Vitex_doniana\|*V. doniana*]] ^k10
+
+**10′.** Ovary glabrous; calyx with scattered hairs; inflorescence with 3 or 4 branches at certain nodes; leaflets thin, always with an acute and narrow acumen; lamina strongly discolorous, very pale greyish-green on the lower surface → [[Vitex_zenkeri\|*V. zenkeri*]]
+
+**11.** Leaflets bristly-tomentose, soft to the touch; inflorescence axes and ca- lyx bristling with tawny or reddish hairs, long and spreading .. V. congolensis var. congolensis ^k11
+
+**11′.** Leaflets glabrous except on the veins or somewhat strigulose on the upper surface; inflorescence lacking long tawny spreading hairs or these rare → [[#^k12|12]]
+
+**12.** Petiolules 0–2(–4) mm; leaflets spatulate, with their greatest width in the upper third, very long-attenuate at the base, rounded-truncate at the apex and cuspidate, with 9 to 12 secondary veins on each side of the main vein; lower surface with veins pale brownish, generally forming a pattern contrasting with the rest of the lamina; calyx with glands absent or obscured by the hairs → [[Vitex_ciliata\|*V. ciliata*]] ^k12
+
+**12′.** Petiolules 5–15(–25) mm; leaflets with their greatest width ± at the middle, shortly attenuate at the base, furnished with a fine acumen 1–3 cm long, with 10 to 20 secondary veins on each side of the main vein; lower surface with veins not forming a brownish pattern contrasting with the rest of the lamina; calyx with numerous sessile glands not obscured by the hairs → [[Vitex_rivularis\|*V. rivularis*]]
+
 
 ## Species in region
 

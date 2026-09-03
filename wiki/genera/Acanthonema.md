@@ -35,17 +35,13 @@ This genus, comprising only two extremely closely related species, is confined t
 
 The single leaf is extremely variable in size and shape; it is probably greatly influenced by growth conditions and crowding. The frequent presence of dead inflorescences shows that these plants flower more than once. Plants with narrow leaves are probably young ones flowering in the first season; sometimes a narrow leaf at the apex, but suddenly widening near the base, may represent an enlargement through basal growth in the second season. Careful observations on wild populations are requested.
 
-### KEY TO THE SPECIES
-
-1. Corolla 20 to 30 mm long, weakly swollen in the lower part of the upper portion and curved upward just below the opening ..... 1. A. strigosum.
-
-1'. Corolla 10 to 13 mm long, weakly swollen in the lower part of the upper portion, but more or less straight ..... 2. A. diandrum.
-
 ## Key to the species
 
-1. Corolla 20–30 mm long, weakly inflated at the lower part of the upper section and curved upward just below the opening ..... 1. A. strigosum.
 
-1'. Corolla 10–13 mm long, weakly inflated at the lower part of the upper section, but more or less straight ..... 2. A. diandrum.
+**1.** Corolla 20–30 mm long, weakly inflated at the lower part of the upper section and curved upward just below the opening → [[Acanthonema_strigosum\|*A. strigosum*]] ^k1
+
+**1′.** Corolla 10–13 mm long, weakly inflated at the lower part of the upper section, but more or less straight → [[Acanthonema_diandrum\|*A. diandrum*]]
+
 
 ## Species in region
 

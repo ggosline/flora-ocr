@@ -18,7 +18,7 @@ tags: [species, generated]
 
 ## Description
 
-Normand ex Aubréville, sp. nov. $^{1}$
+Normand ex Aubréville, sp. nov. ¹
 
 Oduma (PL. 33, p. 149)
 

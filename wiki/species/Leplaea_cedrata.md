@@ -7,12 +7,6 @@ family: Meliaceae
 vol: 47
 pages: 47-48
 source: sources/Meliaceae_vol47_liteparse
-countries: [Angola, Cameroon, Central African Republic, Cote d'Ivoire, Democratic Republic of the Congo, Equatorial Guinea, Gabon, Ghana, Guinea, Liberia, Nigeria, Republic of the Congo, Sierra Leone, Uganda]
-in_region: true
-subdivisions:
-  Gabon: [Estuaire, Moyen-Ogooué, Nyanga, Ogooué-Ivindo]
-habit: "tree"
-altitude_m: "500"
 tags: [species, generated]
 ---
 # *Leplaea cedrata* (A.Chev.) E.J.M.Koenen & J.J.de Wilde Planche 12
@@ -21,9 +15,13 @@ tags: [species, generated]
 **Family**: [[Meliaceae]]
 **Protologue**: Pl. Ecol. Evol . 145(2) : 219 (2012)
 
+## Synonyms
+
+- Guarea cedrata (A.Chev.) Pellegr., Bull. Soc. Bot. France 75 : 480 (1928).
+
 ## Description
 
-Pl. Ecol. Evol . 145(2) : 219 (2012). Guarea cedrata (A.Chev.) Pellegr., Bull. Soc. Bot. France 75 : 480 (1928). Large tree reaching 45 m in height; trunk up to 150 cm in diameter; cross-section pale brownish-pink, without exudate, but with a strong cedarwood odour. Leaf: petiole (2–)3–13(–18) cm, channelled and rather broadly winged; rachis (1–)3–7(–38) cm, puberulent; petiolules 2–10 mm, those of terminal leaflets reaching 25 mm; leaflets (7–)9–11(–15), narrowly rectangular to elliptic or ovate, (7–)10–13(–35) × (2–)3–7(–12) cm, usually distinctly asymmetric, obtuse or cuneate at the base, with acute to acuminate apex, glabrous; venation prominent and veinlet network very prominent on both surfaces, lateral nerves (5–)12–18(–20) pairs. Inflorescence reaching 7 cm in length, often fasciculate, tomentose. Functionally male flower yellowish-green, very fragrant; pedicel 1 mm, articulated at the base; calyx 1–2 mm in height, with (2–)3–4(–5) triangular lobes, tomentose externally; petals (3–)4(–5), narrowly rectangular to ovate, 5–7 × 2–3 mm, finely tomentose externally, glabrous internally, reflexed at anthesis; staminal tube urceolate, (4–)5 mm in length, with notched margin, glabrous, with 8–15 anthers; gynoecium 5 mm in length, almost sessile, hairy. Functionally female flower very similar, with well-developed anthers, ovary ovoid to subglobose, 2.5(–3) mm in diameter, (3–)4(–7)-locular, densely hairy; style 1.5–2 mm, stigma 2 mm in diameter. Fruit subglobose, vaguely (3–)4(–7)-lobed, 4–5 cm in diameter, yellowish-brown. Seed reniform, 2.5–3 × 1.5–2 cm; sarcotesta orange, 2 mm thick.
+Large tree reaching 45 m tall; trunk up to 150 cm in diameter; cross-section pale pinkish-brown, no exudate, but with a strong cedar odor. Leaf: petiole (2–)3–13(–18) cm, canaliculate and rather broadly winged; rachis (1–)3–7(–38) cm, puberulent; petiolules 2–10 mm, those of terminal leaflets reaching 25 mm; leaflets (7–)9–11(–15), narrowly rectangular to elliptic or ovate, (7–)10–13(–35) × (2–)3–7(–12) cm, usually distinctly asymmetric, obtuse or cuneate at the base, acute to acuminate at the apex, glabrous; venation prominent and veinlet network very prominent on both surfaces, lateral nerves (5–)12–18(–20) pairs. Inflorescence reaching 7 cm in length, often fasciculate, tomentose. Functionally male flower yellowish-green, very fragrant; pedicel 1 mm, articulate at the base; calyx 1–2 mm tall, with (2–)3–4(–5) triangular lobes, tomentose externally; petals (3–)4(–5), narrowly rectangular to ovate, 5–7 × 2–3 mm, finely tomentose externally, glabrous internally, reflexed at anthesis; staminal tube urceolate, (4–)5 mm long, with erose margin, glabrous, with 8–15 anthers; gynoecium 5 mm long, almost sessile, villous. Functionally female flower very similar, with well-developed antheriodes, ovary ovoid to subglobose, 2.5(–3) mm in diameter, (3–)4(–7)-locular, densely villous; style 1.5–2 mm, stigma 2 mm in diameter. Fruit subglobose, vaguely (3–)4(–7)-lobed, 4–5 cm in diameter, yellowish-brown. Seed reniform, 2.5–3 × 1.5–2 cm; sarcotesta orange, 2 mm thick.
 
 ## Distribution
 
@@ -31,7 +29,7 @@ Guinea, Sierra Leone, Liberia, Côte d'Ivoire, Ghana, Nigeria, Cameroon, Central
 
 ## Ecology
 
-Evergreen and semi-deciduous forest; in Gabon, up to 500 m in altitude, elsewhere up to 1300 m. Use: The timber is appreciated in construction and for cabinetmaking; long favoured for the construction of canoes
+evergreen and semi-deciduous forest; in Gabon, up to 500 m altitude, elsewhere up to 1300 m. Uses: The timber is prized in construction and cabinetmaking; long favored for the construction of pirogues
 
 ## Vernacular names
 

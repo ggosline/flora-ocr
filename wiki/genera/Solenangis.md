@@ -21,11 +21,11 @@ Epiphytic herbs of variable size, small to large. Stem elongate, with or without
 
 Genus of 5 known species from tropical Africa, Madagascar and the Mascarene Islands. Two species known from Gabon.
 
-1. Spur 5-10 mm, labellum weakly trilobed; inflorescence 0.5-1.5 (-2) cm
+## Key to the species
 
-.....39. 1 S. clavata.
 
-1'. Spur 20-27 mm labellum entire; inflorescence 2-10 cm ..... 39. 2. S. scandens.
+**1′.** Spur 20-27 mm labellum entire; inflorescence 2-10 cm → 39. 2. S. scandens.
+
 
 ## Species in region
 

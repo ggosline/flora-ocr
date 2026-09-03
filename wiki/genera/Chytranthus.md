@@ -1,7 +1,7 @@
 ---
 type: genus
 name: Chytranthus
-authority: Hooker fil. $ ^{1} $
+authority: Hooker fil. ¹
 family: Sapindaceae
 species_in_region: 13
 treatments:
@@ -9,10 +9,10 @@ treatments:
     source: sources/Sapindaceae_vol23_paddle
 tags: [genus, generated]
 ---
-# *Chytranthus* Hooker fil. $ ^{1} $
+# *Chytranthus* Hooker fil. ¹
 
 **Family**: [[Sapindaceae]]
-**Authority**: Hooker fil. $ ^{1} $
+**Authority**: Hooker fil. ¹
 
 ## Diagnosis
 
@@ -30,130 +30,79 @@ Fruit fleshy, succulent at maturity, green, yellow, orange or ± purplish, adorn
 
 ## Key to the species
 
-1. Ovary 3-4-locular; 6-9 stamens; connective not grooved; anther sacs pubescent or glabrous..... Sect. 1. Chytranthus.
 
-1'. Ovary 5-9-locular; 7-15 stamens; connective grooved; anther glabrous.
+**1.** Ovary 3-4-locular; 6-9 stamens; connective not grooved; anther sacs pubescent or glabrous → Sect. 1. Chytranthus. ^k1
 
-2. Stamens 7-8..... Sect. 2. Chytrolepis.
+**1′.** Ovary 5-9-locular; 7-15 stamens; connective grooved; anther glabrous.
 
-2'. Stamens 11-15..... Sect. 3. Glossolepis.
+**2.** Stamens 7-8 → Sect. 2. Chytrolepis. ^k2
 
-Remarks:
+**2′.** Stamens 11-15 → Sect. 3. Glossolepis. Remarks:
 
-1. — Section Chytranthus is the most complex of the entire genus. The characters of the type species being in particular need of reconsideration, we provide its analysis based on a specimen from San Tomé (Chevalier 14251, P!, Boa Entrada region): Calyx 10 mm high; 4 petals with rather short ligule, free and lacking an appendicule. 7-8 stamens with anther sacs glabrous in appearance but bearing some scattered hairs toward the apex or base; connective somewhat gibbous above the attachment; ovary hirsute, 3-locular. Inflorescences sometimes bearing toward the base 1-2 branches that can exceed 5 cm, a character not appearing so clearly in any other species of the genus. The floriferous cymules are situated in the axil of acute bracts 2-5 mm and often peduncled for 0.5-1 cm. According to EXELL the species reaches 5 m in height, the flowers are cream-colored and the fruits edible. The essential foliar characters
+**1.** Section Chytranthus is the most complex of the entire genus. The characters of the type species being in particular need of reconsideration, we provide its analysis based on a specimen from San Tomé (Chevalier 14251, P!, Boa Entrada region): Calyx 10 mm high; 4 petals with rather short ligule, free and lacking an appendicule. 7-8 stamens with anther sacs glabrous in appearance but bearing some scattered hairs toward the apex or base; connective somewhat gibbous above the attachment; ovary hirsute, 3-locular. Inflorescences sometimes bearing toward the base 1-2 branches that can exceed 5 cm, a character not appearing so clearly in any other species of the genus. The floriferous cymules are situated in the axil of acute bracts 2-5 mm and often peduncled for 0.5-1 cm. According to EXELL the species reaches 5 m in height, the flowers are cream-colored and the fruits edible. The essential foliar characters are the large size of the leaflets, the attenuate lanceolate form of the apex and the length of the acumen.
 
----
+**2.** In section Chytranthus, at least 13 species have been described on continental material, many of them closely related to Ch. mannii. We thought it more useful, despite the numerous difficulties this raises, to maintain a somewhat narrow circumscription of the species, provided that precise morphological data, possibly new or revised, be presented; for this purpose very numerous analyses, particularly of types or isotypes, have been redone.
 
-are the large size of the leaflets, the attenuate lanceolate form of the apex and the length of the acumen.
+**3.** The number of ovarian locules is, with rare exceptions, recognizable in all flowers, even those called ♂ and even in young buds. Herbarium material is well suited to this examination, which is sometimes delicate but practically always possible. Magnification of 25 is recommended. ^k3
 
-2. — In section Chytranthus, at least 13 species have been described on continental material, many of them closely related to Ch. mannii. We thought it more useful, despite the numerous difficulties this raises, to maintain a somewhat narrow circumscription of the species, provided that precise morphological data, possibly new or revised, be presented; for this purpose very numerous analyses, particularly of types or isotypes, have been redone.
+**4.** The number of locules of the aborted ovary of the ♂ flower is always similar, or always presents the same limits of variation as that of the ♀ flower (or fruit) of the same species. ^k4
 
-3. — The number of ovarian locules is, with rare exceptions, recognizable in all flowers, even those called ♂ and even in young buds. Herbarium material is well suited to this examination, which is sometimes delicate but practically always possible. Magnification of 25 is recommended.
+**5.** The appendicule that appears between the petal and its ligule is typically a prolongation of the tissue uniting these two parts, but it is sometimes rather a distinct supernumerary lobe clearly ligular, a fold or diverticulum of the abaxial face of the ligule. The appendicule is an organ very subject to variation in its dimensions and its disposition, both within the individual and within the species. GROUPING OF SPECIES BY PRACTICAL CHARACTERS: Inflorescences spread in a crown around the base of the trunk with flowers orienting unilaterally upward: Ch. carneus and talbotii. Calyces white, whitish or greenish: Ch. carneus, mortehanii, talbotii, setosus. Calyces red or reddish: Ch. carneus, edulis, macrophyllus. Calyces brown, russet or yellowish: Ch. bracteosus, cauliflorus, gilletii, macrobotrys, mortehanii. Calyces violaceous or dark violet: Ch. atroviolaceus. Leaflet rachis distinctly pubescent or hirsute: Ch. cauliflorus, imenoensis, klaineanus, setosus. Midvein entirely glabrous above: Ch. carneus, macrobotrys, mortehanii, talbotii. Midvein pubescent or finely pubérulente above: Ch. atroviolaceus, bracteosus, cauliflorus, edulis, gilletii, imenoensis, klaineanus, macrophyllus, setosus. ^k5
 
-4. — The number of locules of the aborted ovary of the ♂ flower is always similar, or always presents the same limits of variation as that of the ♀ flower (or fruit) of the same species.
+**1.** Ovary 3-4-locular; 6-9 stamens (sect. Chytranthus).
 
-5. — The appendicule that appears between the petal and its ligule is typically a prolongation of the tissue uniting these two parts, but it is sometimes rather a distinct supernumerary lobe clearly ligular, a fold or diverticulum of the abaxial face of the ligule. The appendicule is an organ very subject to variation in its dimensions and its disposition, both within the individual and within the species.
+**2.** Anthers pubescent at least laterally on the external margins of the locules.
 
-GROUPING OF SPECIES BY PRACTICAL CHARACTERS:
+**3.** Cymules pluriflorous subsessile or ± peduncled; calyx with fine pubescence; plant not strongly pubescent.
 
-Inflorescences spread in a crown around the base of the trunk with flowers orienting unilaterally upward: Ch. carneus and talbotii.
+**4.** Ligule with axis entirely connate and presenting a pouch on each side of the connation.
 
-Calyces white, whitish or greenish: Ch. carneus, mortehanii, talbotii, setosus.
+**5.** Connation of ligule elongate upward resulting in strong obliquity of the pouches whose edge, slightly sinuous, does not present an apex exceeding the connation; buds ± pinkish → 1. Ch. macrophyllus.
 
-Calyces red or reddish: Ch. carneus, edulis, macrophyllus.
+**5′.** Connation brief; pouches slightly oblique with sinuous edge exceeding the connation; bud flesh-colored red → 2. Ch. edulis.
 
-Calyces brown, russet or yellowish: Ch. bracteosus, cauliflorus, gilletii, macrobotrys, mortehanii.
+**4′.** Ligule not entirely connate in the axis, terminated by an emar­ginate limb; buds brown → 3. Ch. gilletii.
 
-Calyces violaceous or dark violet: Ch. atroviolaceus.
+**3′.** Cymules sessile pauciflorous; calyx globose, long hirsute hispid; plant strongly pubescent → 4. Ch. cauliflorus.
 
-Leaflet rachis distinctly pubescent or hirsute: Ch. cauliflorus, imenoensis, klaineanus, setosus.
+**2′.** Anthers glabrous with at most a few scattered hairs toward the extremities.
 
-Midvein entirely glabrous above: Ch. carneus, macrobotrys, mortehanii, talbotii.
+**6.** Ligule simple without appendicule or with very brief, digitiform or narrowly laminate appendicule. ^k6
 
-Midvein pubescent or finely pubérulente above: Ch. atroviolaceus, bracteosus, cauliflorus, edulis, gilletii, imenoensis, klaineanus, macrophyllus, setosus.
+**7.** Cymules peduncled for 1-3 mm; ligule long; appendicules falcate or absent; inflorescences without small branches toward the base; leaflets acuminate. → 5. Ch. carneus. ^k7
 
-1. Ovary 3-4-locular; 6-9 stamens (sect. Chytranthus).
+**7′.** Cymules peduncled for 5-10 mm; ligule short; no appendicules; inflorescence with a few small branches toward the base; leaflets lanceolate. → Ch. mannii Hook. f.
 
-2. Anthers pubescent at least laterally on the external margins of the locules.
+**6′.** Ligule doubled by a large laminate appendicule; connective swollen dorsally into a large wart; stamens clearly exserted in the ♂ flower.
 
-3. Cymules pluriflorous subsessile or ± peduncled; calyx with fine pubescence; plant not strongly pubescent.
+**8.** Petaline appendage widely spatulate; leaf entirely glabrous; flower with wide calyx; bud globoid → 6. Ch. mortehanii. ^k8
 
----
+**8′.** Petaline appendage expanded, with denticulate or fimbriate margin; leaf ± pubescent; flower with narrow calyx; bud small and obovoid → 7. Ch. klaineanus.
 
-4. Ligule with axis entirely connate and presenting a pouch on each side of the connation.
+**1′.** Ovary 5-9-locular; 7-15 stamens.
 
-5. Connation of ligule elongate upward resulting in strong obliquity of the pouches whose edge, slightly sinuous, does not present an apex exceeding the connation; buds ± pinkish..... 1. Ch. macrophyllus.
+**9.** Stamens 7-9; ovary 5-8-locular (sect. Chytrolepis) ¹. ^k9
 
-5'. Connation brief; pouches slightly oblique with sinuous edge exceeding the connation; bud flesh-colored red..... 2. Ch. edulis.
+**10.** A small boss at the apex of the connective on the dorsum of the anther; fruit with twice as many ribs as locules → 8. Ch. angustifolius. ^k10
 
-4'. Ligule not entirely connate in the axis, terminated by an emar­ginate limb; buds brown..... 3. Ch. gilletii.
+**10′.** No boss on the dorsum of the anther; fruit with as many ribs as locules.
 
-3'. Cymules sessile pauciflorous; calyx globose, long hirsute hispid; plant strongly pubescent..... 4. Ch. cauliflorus.
+**11.** Disc simple; anther glabrous; fruit 5-locular → 9. Ch. atroviolaceus. ^k11
 
-2'. Anthers glabrous with at most a few scattered hairs toward the extremities.
+**11′.** Disc presenting a satellite; anther pubescent; fruit 9-8-locular....
 
-6. Ligule simple without appendicule or with very brief, digitiform or narrowly laminate appendicule.
+**9′.** Stamens 11-15; ovary 6-9-locular (sect. Glossolepis).
 
-7. Cymules peduncled for 1-3 mm; ligule long; appendicules falcate or absent; inflorescences without small branches toward the base; leaflets acuminate.
+**12.** Leaf glabrous on both faces of the limb as well as on the midvein. ^k12
 
-..... 5. Ch. carneus.
+**13.** Calyx oblong deep, whitish or pinkish; pedicel more than 4 and up to 18 mm; limb discolorous when dry; inflorescence around the base of the trunk. → 11. Ch. talbotii. ^k13
 
-7'. Cymules peduncled for 5-10 mm; ligule short; no appendicules; inflorescence with a few small branches toward the base; leaflets lanceolate. ..... Ch. mannii Hook. f.
+**13′.** Calyx globose subconical ochraceous or brown; pedicel less than 3 mm; limb subconcolorous when dry; inflorescences between 0.10 and 1.20 m in height on the trunk.
 
-6'. Ligule doubled by a large laminate appendicule; connective swollen dorsally into a large wart; stamens clearly exserted in the ♂ flower.
+**12.** Ch. macrobotrys.
 
-8. Petaline appendage widely spatulate; leaf entirely glabrous; flower with wide calyx; bud globoid..... 6. Ch. mortehanii.
+**12′.** Leaf strongly pubescent with golden hairs (♀ flower and fruit unknown) → 13. Ch. imenoensis. 1, Chytrolepis N. Hallé, sect. nov.: Stamina 7-9, ovarium 5-8-loculatum. Spec. typ. C. setosus Radlk. INSUFFICIENTLY KNOWN CAMEROONIAN SPECIES. Ch. calophyllus RADLK. l.c.: 791 (1932), 5S + 4P + 8E. TYPE: Mildbraed 6011, Kribi Ch. dasystachys GILG ex RADLK. l.c.: 790 (1932), 5S + 5P + 7E. TYPE: Mildbraed 501, Lomié. Ch. dinklagei GILG ex ENGL., in ENGL. & DRUDE, Pflanzenw. Afr. 3(2), 9: 273 (1921); RADLK. l.c.: 797 (1932). Only the fruit is described, 3C. TYPE: Dinklage 1130, Grand Batanga. Ch. flavoviridis RADLK. l.c.: 795 (1932), 5S + 4P + 6E. TYPE: Ledermann 1028, Kribi. Ch. ledermannii GILG ex RADLK. l.c.: 796 (1932), aff. Ch. carneus. TYPE: Ledermann 6444, Lom. Ch. micranthus GILG ex RADLK. l.c.: 796 (1932), 5S + 4P + 8E. TYPE: Mildbraed 5894, Kribi. Ch. punctatus RADLK. l.c.: 793 (1932); syn. Pancovia macrophylla GILG, Bot. Jahrb. 24: 303 (1897), aff. Ch. carneus. TYPE: Zenker 1067, Bipindi. Ch. strigosus RADLK. l.c.: 788 (1932), aff. Ch. edulis. TYPE: Ledermann 791, Nkolebunde. Ch. subvilliger RADLK. l.c.: 794 (1932), aff. Ch. carneus. TYPE: Mildbraed 8717, Mambeia au Sud de Deng Deng. Ch. xanthophyllus RADLK. l.c.: 795 (1932), aff. Ch. carneus. TYPE: Ledermann 875, Nkolebunde.
 
-8'. Petaline appendage expanded, with denticulate or fimbriate margin; leaf ± pubescent; flower with narrow calyx; bud small and obovoid..... 7. Ch. klaineanus.
-
-1'. Ovary 5-9-locular; 7-15 stamens.
-
-9. Stamens 7-9; ovary 5-8-locular (sect. Chytrolepis) $ ^{1} $.
-
-10. A small boss at the apex of the connective on the dorsum of the anther; fruit with twice as many ribs as locules..... 8. Ch. angustifolius.
-
-10'. No boss on the dorsum of the anther; fruit with as many ribs as locules.
-
-11. Disc simple; anther glabrous; fruit 5-locular..... 9. Ch. atroviolaceus.
-
-11'. Disc presenting a satellite; anther pubescent; fruit 9-8-locular....
-
-9'. Stamens 11-15; ovary 6-9-locular (sect. Glossolepis).
-
-12. Leaf glabrous on both faces of the limb as well as on the midvein.
-
-13. Calyx oblong deep, whitish or pinkish; pedicel more than 4 and up to 18 mm; limb discolorous when dry; inflorescence around the base of the trunk. ..... 11. Ch. talbotii.
-
-13'. Calyx globose subconical ochraceous or brown; pedicel less than 3 mm; limb subconcolorous when dry; inflorescences between 0.10 and 1.20 m in height on the trunk.
-12. Ch. macrobotrys.
-
-12'. Leaf strongly pubescent with golden hairs (♀ flower and fruit unknown)..... 13. Ch. imenoensis.
-
-1, Chytrolepis N. Hallé, sect. nov.: Stamina 7-9, ovarium 5-8-loculatum. Spec. typ. C. setosus Radlk.
-
----
-
-INSUFFICIENTLY KNOWN CAMEROONIAN SPECIES.
-
-Ch. calophyllus RADLK. l.c.: 791 (1932), 5S + 4P + 8E. TYPE: Mildbraed 6011, Kribi
-
-Ch. dasystachys GILG ex RADLK. l.c.: 790 (1932), 5S + 5P + 7E. TYPE: Mildbraed 501, Lomié.
-
-Ch. dinklagei GILG ex ENGL., in ENGL. & DRUDE, Pflanzenw. Afr. 3(2), 9: 273 (1921); RADLK. l.c.: 797 (1932). Only the fruit is described, 3C. TYPE: Dinklage 1130, Grand Batanga.
-
-Ch. flavoviridis RADLK. l.c.: 795 (1932), 5S + 4P + 6E. TYPE: Ledermann 1028, Kribi.
-
-Ch. ledermannii GILG ex RADLK. l.c.: 796 (1932), aff. Ch. carneus. TYPE: Ledermann 6444, Lom.
-
-Ch. micranthus GILG ex RADLK. l.c.: 796 (1932), 5S + 4P + 8E. TYPE: Mildbraed 5894, Kribi.
-
-Ch. punctatus RADLK. l.c.: 793 (1932); syn. Pancovia macrophylla GILG, Bot. Jahrb. 24: 303 (1897), aff. Ch. carneus. TYPE: Zenker 1067, Bipindi.
-
-Ch. strigosus RADLK. l.c.: 788 (1932), aff. Ch. edulis. TYPE: Ledermann 791, Nkolebunde.
-
-Ch. subvilliger RADLK. l.c.: 794 (1932), aff. Ch. carneus. TYPE: Mildbraed 8717, Mambeia au Sud de Deng Deng.
-
-Ch. xanthophyllus RADLK. l.c.: 795 (1932), aff. Ch. carneus. TYPE: Ledermann 875, Nkolebunde.
 
 ## Species in region
 

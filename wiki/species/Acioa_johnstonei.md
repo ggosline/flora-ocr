@@ -60,7 +60,7 @@ Arbuste ou petit arbre, haut de 15-20 m. Jeunes rameaux couverts d'un tomentum a
 
 Inflorescences cymeuses, terminales et axillaires subterminales, hautes de 4-8 cm, 1(2) fois ramiées, glabres (sauf intérieur des sépales), portant des fleurs relativement d'assez grande taille. Bractées ovales, 3-4 mm, persistantes et réfléchies sur l'axe de l'infrutescence; portion des pédicelles sous l'articulation 10-20 mm, portant vers leur milieu 2 bractéoles subopposées, rarement alternes, très courtes (hautes de 0,5-1 mm) mais très larges (5 mm) et subréniformes, garnies sur leur marge, très éparsement villeuse, d'env. 5 denticulations correspondant à l'extrémité de 5 nervures ± fiabellées. Pédicelle de la fleur désarticulée (4)-5-8 mm. Réceptacle (12)-18-26 mm, glabre; sépales (6)-8-9 mm; pétales largement obovales avec base obtuse, hauts de 6-7 mm; androcée 30-40 mm, 20-25 filets.
 
-Drupes subglobuleuses,  $ 18 \times 20 \times 25 $ mm (in sicco), à surface densément colliculée, de teinte brun doré et tomenteuse. — PL. 11, p. 41.
+Drupes subglobuleuses,  18 × 20 × 25 mm (in sicco), à surface densément colliculée, de teinte brun doré et tomenteuse. — PL. 11, p. 41.
 
 Klaine 1890 (fl. et fr., juill. et sept.-oct.); 2981, 3538 (fl., juill.), Libreville
 

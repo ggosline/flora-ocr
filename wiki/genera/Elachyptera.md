@@ -33,25 +33,17 @@ Etymology: from Greek elachys, shortened, and pteros, wing; the seed wing being 
 
 Genus of 7 species, 3 from America, 3 from Africa and 1 from Madagascar.
 
-### KEY TO THE SPECIES
-
-1. Disk cupule entire; seed apterous; flower approximately 1.9 mm in diameter; petals rounded, fleshy cucullate and not spreading; stigma punctiform ....
-
-1'. Disk cupule with margin split into 3 slits; petals thin ± spreading.
-
-2. Seed apterous; petals oblong spreading; flower 2.5–3.3 mm in diameter; stigma trilobed ..... 2. E. bipindensis.
-
-2'. Seed winged; petals elliptic semi-spreading; flower approximately 2.1 mm in diameter; stigma punctiform ..... 2 bis. E. parvifolia.
-
 ## Key to the species
 
-1. Disc cupule entire; seed wingless; flower approximately 1.9 mm in diameter; petals rounded, fleshy and cucullate, not spreading; stigma punctiform ....
 
-1'. Disc cupule with margin split into 3 slits; petals thin ± spreading.
+**1.** Disc cupule entire; seed wingless; flower approximately 1.9 mm in diameter; petals rounded, fleshy and cucullate, not spreading; stigma punctiform .... ^k1
 
-2. Seed wingless; petals oblong spreading; flower 2.5–3.3 mm in diameter; stigma trilobed ..... 2. E. bipindensis.
+**1′.** Disc cupule with margin split into 3 slits; petals thin ± spreading.
 
-2'. Seed winged; petals elliptic semi-spreading; flower approximately 2.1 mm in diameter; stigma punctiform ..... 2 bis. E. parvifolia.
+**2.** Seed wingless; petals oblong spreading; flower 2.5–3.3 mm in diameter; stigma trilobed → [[Elachyptera_bipindensis\|*E. bipindensis*]] ^k2
+
+**2′.** Seed winged; petals elliptic semi-spreading; flower approximately 2.1 mm in diameter; stigma punctiform → 2 bis. E. parvifolia.
+
 
 ## Species in region
 

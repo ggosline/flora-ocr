@@ -23,10 +23,15 @@ pale, globose seeds.
 
 ## Key
 
-1. Rhizomatous; scape apparently central; perianth segments 5-veined, usually >2 mm wide
-    - Leaf bases not forming a pseudostem; tube 3–10 mm → [[Scadoxus_cinnabarinus|*S. cinnabarinus*]]
-    - Leaf bases forming a pseudostem >15 cm; tube 10–18 mm → [[Scadoxus_pseudocaulus|*S. pseudocaulus*]]
-1'. Bulb above a rhizomatous part; scape lateral; segments 3-veined, usually <2 mm wide → [[Scadoxus_multiflorus|*S. multiflorus* subsp. *multiflorus*]]
+
+**1.** Rhizomatous; scape apparently central; perianth segments 5-veined, usually >2 mm wide ^k1
+
+**1′.** Leaf bases not forming a pseudostem; tube 3–10 mm → [[Scadoxus_cinnabarinus|*S. cinnabarinus*]]
+
+**1′.** Leaf bases forming a pseudostem >15 cm; tube 10–18 mm → [[Scadoxus_pseudocaulus|*S. pseudocaulus*]]
+
+**1′.** Bulb above a rhizomatous part; scape lateral; segments 3-veined, usually <2 mm wide → [[Scadoxus_multiflorus|*S. multiflorus* subsp. *multiflorus*]]
+
 
 ## Source
 

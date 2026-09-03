@@ -52,7 +52,7 @@ Tangled liana 2.5–6 m high, or ± twining and drooping 8–10 m, glabrous and 
 
 Inflorescences uni- or pauciflorous, axillary, comprising a ± divided and subsessile glomerule, approximately 1–3 × 1–3 mm. Bud yellow when dry, ovate, less than 2 mm. Pedicel 2–3.7 mm. Flower 3.5–4.8 mm in diameter, yellow, yellowish, salmon-pink or pale orange. Sepals somewhat unequal, 0.9–1.7 mm wide, subsemicircular, entire or few-denticulate. Corolla somewhat reflexed; petals ovate or somewhat rhombic, 2–2.7 × 1.4–2 mm, with for much of their extent subparallel veins. Disk yellowish or whitish, in a circular cushion 1.5–2.1 mm in diameter and 0.4 mm thick; perigynous groove weak to absent. Stamens less than 1 mm, with filaments enlarged at the base but not connivents; anthers 0.4–0.6 mm wide, with confluent locules and an arcuate transverse slit. Pistil apparent over 1–1.5 mm in height, pyramidal attenuate; ovary semi-immersed with 4(–5) biseriate ovules per locule.
 
-Fruit reddish-orange, subglobose, $ 4 \times 3 \times 3 $ cm, with a smooth pericarp; whitish sweet pulp containing 2 seeds $ 15 \times 10 $ mm with cotyledons well fused together (Letouzey 10769). - Pl. 22, fig. 10–20, p. 85.
+Fruit reddish-orange, subglobose, 4 × 3 × 3 cm, with a smooth pericarp; whitish sweet pulp containing 2 seeds 15 × 10 mm with cotyledons well fused together (Letouzey 10769). - Pl. 22, fig. 10–20, p. 85.
 
 Cameroon and Nigeria. To be searched for in northern Gabon. Forest liana rare or poorly collected (the flowers are very modest) capable of persisting in post-cultural scrub. The species is dedicated to the eminent botanist R. LETOUZEY.
 

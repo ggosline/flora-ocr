@@ -67,13 +67,13 @@ Sur les 15 genres retenus par Lemée dans son dictionnaire, deux sont spontanés
 
 Ces plantes ont les anthères à quatre sacs polliniques et se distinguent ainsi :
 
-1. Loges allongées dans la direction longitudinale et sensiblement placées sur un même niveau horizontal; ovaire infère; glandes fixées aux filets du  $ 2^{e} $ cycle..... 3. Hypodaphnis.
+1. Loges allongées dans la direction longitudinale et sensiblement placées sur un même niveau horizontal; ovaire infère; glandes fixées aux filets du  2ᵉ cycle..... 3. Hypodaphnis.
 
 1'. Loges arrondies ou elliptiques disposées 2 par 2 en deux niveaux superposés; ovaire supère; glandes fixées aux filets du 3e cycle.
 
-2. Staminodes du  $ 4^{e} $ cycle petits ou nuls, rarement épaissis en haut; filets très courts ou nuls.....4. Ocot
+2. Staminodes du  4ᵉ cycle petits ou nuls, rarement épaissis en haut; filets très courts ou nuls.....4. Ocot
 
-2'. Staminodes du  $ 4^{e} $ cycle bien développés, souvent stipités.
+2'. Staminodes du  4ᵉ cycle bien développés, souvent stipités.
 
 3. Feuilles opposées, coriaces; limbe 3-5 palminervé. . . 5. Cinnamomum.
 

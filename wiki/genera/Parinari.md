@@ -35,23 +35,21 @@ Large forest trees (P. excelsa, P. hypochrysea), tree of river margins (P. conge
 
 ### (normal leaves and not from young plants or shoots)
 
-1. Savanna shrub or tree; leaves elliptic to elliptic-oblong, with broadly acute to obtuse base, with rounded or slightly emarginate apex; small flat glands on the proximal half of the petiole or near the middle; indumentum greyish or whitish.....2. P. curatellifolia.
-
-1'. Forest trees or (1) of watercourse margins; leaves with acuminate apex, rarely subacute but then base subcordate.
-
 ## Key to the species
 
-1. Savanna shrub or tree; leaves elliptic to elliptic-oblong, with base broadly acute to obtuse, with apex rounded or slightly emarginate; small flat glands on the proximal half of the petiole or towards the middle; indumentum greyish or whitish.....2. P. curatellifolia.
 
-1'. Forest trees or (1) trees of watercourse margins; leaves with acuminate apex, rarely subacute but then base subcordate.
+**1.** Savanna shrub or tree; leaves elliptic to elliptic-oblong, with base broadly acute to obtuse, with apex rounded or slightly emarginate; small flat glands on the proximal half of the petiole or towards the middle; indumentum greyish or whitish → [[Parinari_curatellifolia\|*P. curatellifolia*]] ^k1
 
-2. Leaves elliptic to elliptic-oblong, with base cuneiform or rounded, not cordate; flat glands towards the middle of the petiole; indumentum golden or greyish.....3. P. excelsa.
+**1′.** Forest trees or (1) trees of watercourse margins; leaves with acuminate apex, rarely subacute but then base subcordate.
 
-2'. Leaves subcordate to cordate.
+**2.** Leaves elliptic to elliptic-oblong, with base cuneiform or rounded, not cordate; flat glands towards the middle of the petiole; indumentum golden or greyish → [[Parinari_excelsa\|*P. excelsa*]] ^k2
 
-3. Leaves elliptic, sometimes broadly elliptic, with obtuse base, slightly cordate; large flat glands towards the middle of the petiole; indumentum tawny golden; staminodial rim thickened and indurate, without staminodes.....
+**2′.** Leaves subcordate to cordate.
 
-3'. Watercourse margin tree; leaves elliptic-oblong, with subcordate base; large convex glands on the distal half of the petiole; indumentum greyish ..... 1. P. congensis.
+**3.** Leaves elliptic, sometimes broadly elliptic, with obtuse base, slightly cordate; large flat glands towards the middle of the petiole; indumentum tawny golden; staminodial rim thickened and indurate, without staminodes..... ^k3
+
+**3′.** Watercourse margin tree; leaves elliptic-oblong, with subcordate base; large convex glands on the distal half of the petiole; indumentum greyish → [[Parinari_congensis\|*P. congensis*]]
+
 
 ## Species in region
 

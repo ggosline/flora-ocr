@@ -79,38 +79,49 @@ much higher number of specimens than previously, as in the Flora of the Belgian 
 
 ## Key to the species
 
-1. - Flower fully open with wings as long as the keel ................................................. 2
-- Flower fully open with wings distinctly shorter than the keel .................................. 5
-2. - Stipels almost as long as or longer than the petiolules, ± persistent;
-pod winged ..................................................................................................................... 3
-- Stipels distinctly shorter than the petiolules, ± early caducous; pod wingless
-..................................................................................................................... L. fasciculata
-3. - Leaflets with blade papillose beneath; bracts and bracteoles ± early caducous, ± narrowly
-triangular, 0.5–1 mm long ............................................................. L. gabonica
-- Leaflets with blade non-papillose beneath; bracts and bracteoles (0.5–)1–6 mm
-long .......................................................................................................................... 4
-4. - Leaflets with blade 7–15 × 3.5–7 cm, with acute acumen, lateral nerves in (6–)7 to
-10(–11) pairs, distinct, parallel ........................................................... L. aurantiaca
-- Leaflets with blade 3–10 × 1–3 cm, apiculate, lateral nerves in 6 to 9 pairs, slender,
-scarcely distinct ................................................................................................ L. reygaertii
-5. - Flower fully open (12–)13–16 mm long .......................................................... 6
-- Flower fully open 6–12(–13) mm long ............................................................ 8
-6. - Leaflets with blade entirely tomentose or sometimes velvety beneath ............................. 7
-- Leaflets with blade with short, scattered, appressed hairs beneath ......................... L. macrothyrsa
-7. - Leaflets with blade with 12 to 15 pairs of lateral nerves; bracts and bracteoles
-(3–)4–6 mm long .................................................................................. L. robusta
-- Leaflets with blade with 5 to 7(–8) pairs of lateral nerves; bracts and bracteoles
-(1–)1.5–2 mm long ....................................................................... L. brachyptera
-8. - Leaflets with blade densely silky or tomentose beneath; flower 10–12(–13) mm
-long .......................................................................................................................... 9
-- Leaflets with blade glabrous or glabrescent or with different pubescence, neither silky nor tomentose
-beneath; flower 6–9 mm long ............................................................................. 10
-9. - Leaflets with blade covered beneath with short, ± appressed, silky-silvery hairs, lateral nerves in 7 or 8 pairs, ± parallel, distant about 1 cm ............ L. hypargyrea
-- Leaflets with blade tomentose beneath, lateral nerves in 4 or 5(–6) pairs, distant
-1.5–3 cm, scarcely parallel .................................................................... L. tomentella
-10. - Leaf with 3 or 5 leaflets with blade distinctly emarginate at the apex .............. L. congolensis
-- Leaf with 5 to 9 leaflets with blade acuminate, acute, obtuse or at most emarginate at the apex,
-never distinctly emarginate .............................................................................. L. glabrata
+
+**1.** Flower fully open with wings as long as the keel → [[#^k2|2]] ^k1
+
+**1′.** Flower fully open with wings distinctly shorter than the keel → [[#^k5|5]]
+
+**2.** Stipels almost as long as or longer than the petiolules, ± persistent; pod winged → [[#^k3|3]] ^k2
+
+**2′.** Stipels distinctly shorter than the petiolules, ± early caducous; pod wingless → [[Leptoderris_fasciculata\|*L. fasciculata*]]
+
+**3.** Leaflets with blade papillose beneath; bracts and bracteoles ± early caducous, ± narrowly triangular, 0.5–1 mm long → [[Leptoderris_gabonica\|*L. gabonica*]] ^k3
+
+**3′.** Leaflets with blade non-papillose beneath; bracts and bracteoles (0.5–)1–6 mm long → [[#^k4|4]]
+
+**4.** Leaflets with blade 7–15 × 3.5–7 cm, with acute acumen, lateral nerves in (6–)7 to 10(–11) pairs, distinct, parallel → [[Leptoderris_aurantiaca\|*L. aurantiaca*]] ^k4
+
+**4′.** Leaflets with blade 3–10 × 1–3 cm, apiculate, lateral nerves in 6 to 9 pairs, slender, scarcely distinct → [[Leptoderris_reygaertii\|*L. reygaertii*]]
+
+**5.** Flower fully open (12–)13–16 mm long → [[#^k6|6]] ^k5
+
+**5′.** Flower fully open 6–12(–13) mm long → [[#^k8|8]]
+
+**6.** Leaflets with blade entirely tomentose or sometimes velvety beneath → [[#^k7|7]] ^k6
+
+**6′.** Leaflets with blade with short, scattered, appressed hairs beneath → [[Leptoderris_macrothyrsa\|*L. macrothyrsa*]]
+
+**7.** Leaflets with blade with 12 to 15 pairs of lateral nerves; bracts and bracteoles (3–)4–6 mm long → [[Leptoderris_robusta\|*L. robusta*]] ^k7
+
+**7′.** Leaflets with blade with 5 to 7(–8) pairs of lateral nerves; bracts and bracteoles (1–)1.5–2 mm long → [[Leptoderris_brachyptera\|*L. brachyptera*]]
+
+**8.** Leaflets with blade densely silky or tomentose beneath; flower 10–12(–13) mm long → [[#^k9|9]] ^k8
+
+**8′.** Leaflets with blade glabrous or glabrescent or with different pubescence, neither silky nor tomentose beneath; flower 6–9 mm long → [[#^k10|10]]
+
+**9.** Leaflets with blade covered beneath with short, ± appressed, silky-silvery hairs, lateral nerves in 7 or 8 pairs, ± parallel, distant about 1 cm → [[Leptoderris_hypargyrea\|*L. hypargyrea*]] ^k9
+
+**9′.** Leaflets with blade tomentose beneath, lateral nerves in 4 or 5(–6) pairs, distant
+
+**1.** 5–3 cm, scarcely parallel → [[Leptoderris_tomentella\|*L. tomentella*]]
+
+**10.** Leaf with 3 or 5 leaflets with blade distinctly emarginate at the apex → [[Leptoderris_congolensis\|*L. congolensis*]] ^k10
+
+**10′.** Leaf with 5 to 9 leaflets with blade acuminate, acute, obtuse or at most emarginate at the apex, never distinctly emarginate → [[Leptoderris_glabrata\|*L. glabrata*]]
+
 
 ## Species in region
 

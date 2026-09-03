@@ -47,7 +47,7 @@ N. Hallé : 1664, 10 km S W de Ndjolé (fl. et fr. 15 avr. 1963), vieille planta
 
 EXPLICATION DE LA PLANCHE IX :
 
-1, spécimen florifère; 2, détail du limbe d'une feuille en dessous; 3, bractée de  $ 13 \times 6 $ mm; 4, bractéole de  $ 9.5 \times 10 $ mm; 5, fleur de profil; 6, corolle ouverte de  $ 8.5 $ mm de haut; 7, pistil (style 3,5 de long, ovaire 2,25 mm de haut); 7', détail du stigmate de 0,6 mm de long; 8, 9, capsule au début de la déhiscence, de 6 mm de long; 10, capsule après la déhiscence; 11, graine de 1,5 mm de diamètre; 11', graine humectée. — 1-7, N. Hallé 2041; 8-11, N. Hallé 1664.
+1, spécimen florifère; 2, détail du limbe d'une feuille en dessous; 3, bractée de  13 × 6 mm; 4, bractéole de  9.5 × 10 mm; 5, fleur de profil; 6, corolle ouverte de  8.5 mm de haut; 7, pistil (style 3,5 de long, ovaire 2,25 mm de haut); 7', détail du stigmate de 0,6 mm de long; 8, 9, capsule au début de la déhiscence, de 6 mm de long; 10, capsule après la déhiscence; 11, graine de 1,5 mm de diamètre; 11', graine humectée. — 1-7, N. Hallé 2041; 8-11, N. Hallé 1664.
 
 ## Figures
 

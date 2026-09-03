@@ -62,13 +62,19 @@ Afro-Malagasy genus. Eleven species in Gabon.
 
 ## Keyed but not treated
 
+
 The source key separates these species but the volume gives them no treatment, usually because they fall outside the area it covers in full. They are listed for identification; some are extralimital to the region.
 
-- *Warneckea cinnamomoides* — keyed in vol 25, not treated
-- *Warneckea jasminoides* — keyed in vol 25, not treated
-- *Warneckea lecomteana* — keyed in vol 25, not treated
-- *Warneckea reygaertii* — keyed in vol 25, not treated
-- *Warneckea sapinii* — keyed in vol 25, not treated
+**—** *Warneckea cinnamomoides* — keyed in vol 25, not treated
+
+**—** *Warneckea jasminoides* — keyed in vol 25, not treated
+
+**—** *Warneckea lecomteana* — keyed in vol 25, not treated
+
+**—** *Warneckea reygaertii* — keyed in vol 25, not treated
+
+**—** *Warneckea sapinii* — keyed in vol 25, not treated
+
 
 ## Treatments
 

@@ -31,19 +31,13 @@ Lewis et al. (2005), Mackinder et al. (2001), Pellegrin (1949), Robyns (1954), S
 
 ---
 
-### Key to species
-
-1. - Leaflet with obtuse or emarginate blade at the apex; pod convex, 10–17 × 1.8–3 cm, each valve with 2 crests close to the dorsal suture; seed brown; mainly on sandy beaches ....................................................................................................... C. rosea
-
-- Leaflet with acute or acuminate blade at the apex; pod flat, 11–30 × 3–3.5 cm, each valve with one crest close to the suture, distant from the second by 4–5 mm; seed white or pink; inland .................................................................. C. ensiformis
-
 ## Key to the species
 
-1. - Leaflet with obtuse or emarginate blade at apex; legume convex, 10–17 × 1.8–3 cm,
-each valve with 2 ridges close to the dorsal suture; seed brown; especially on sandy beaches ....................................................................................................... C. rosea
-- Leaflet with acute or acuminate blade at apex; legume flat, 11–30 × 3–3.5 cm, each
-valve with one ridge close to the suture, distant from the second by 4–5 mm; seed white
-or pink; in the interior of the lands .................................................................. C. ensiformis
+
+**1.** Leaflet with obtuse or emarginate blade at apex; legume convex, 10–17 × 1.8–3 cm, each valve with 2 ridges close to the dorsal suture; seed brown; especially on sandy beaches → [[Canavalia_rosea\|*C. rosea*]] ^k1
+
+**1′.** Leaflet with acute or acuminate blade at apex; legume flat, 11–30 × 3–3.5 cm, each valve with one ridge close to the suture, distant from the second by 4–5 mm; seed white or pink; in the interior of the lands → [[Canavalia_ensiformis\|*C. ensiformis*]]
+
 
 ## Species in region
 

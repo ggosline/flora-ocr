@@ -29,32 +29,17 @@ Notes: Verdcourt (1970, 1971b) recognized 17 species in the genus Abrus, but we 
 
 b: Boutique (1954), Breteler (1960), Lewis et al. (2005), Pellegrin (1949), Verdcourt (1970, 1971b).
 
-### Key to species
-
-1. - Inflorescence strongly curved; pod slightly inflated, with papillose surface; seed red, with black base; leaflets with limb glabrous to glabrescent above, with light and appressed pubescence below; bracts and bracteoles ± 1 mm long . A. precatorius
-
-- Inflorescence flexible, straight or slightly curved; pod flattened, without papillae; seed dark brown-black; leaflets with limb pubescent at least below; bracts and bracteoles ≥ 1.5 mm long ............................................................................................................... 2
-
-2. - Bract and bracteole equaling or slightly exceeding the calyx; corolla purple; leaflets in 10 to 14 pairs, with coriaceous limb, with grayish pubescence persistent on both surfaces
-
-...................................................................................................................... A. canescens
-
-- Bract and bracteole up to half the length of the calyx; corolla yellow, white or lilac; leaflets in 5 to 7 pairs (outside Gabon up to 20 pairs), with papyraceous limb,
-
 ## Key to the species
 
-1. - Inflorescence strongly curved; pod slightly swollen, with papillose surface;
-seed red, with black base; leaflets with blade glabrous to glabrescent above, with
-light and appressed pubescence below; bracts and bracteoles ± 1 mm long . A. precatorius
-- Inflorescence flexible, straight or slightly curved; pod flattened, without papillae; seed
-dark brown; leaflets with blade pubescent at least below; bracts and bracteoles
-≥ 1.5 mm long ..................................................................................................... 2
-2. - Bract and bracteole equalling or slightly exceeding the calyx; corolla purple; leaflets in 10
-to 14 pairs, with leathery blade, with greyish pubescence persisting on both faces
-...................................................................................................................... A. canescens
-- Bract and bracteole up to half the length of the calyx; corolla yellow, white
-or lilac; leaflets in 5 to 7 pairs (outside Gabon up to 20 pairs), with papyraceous blade,
-glabrous to pubescent above, with loose to dense pubescence below .............. A. fruticulosus
+
+**1.** Inflorescence strongly curved; pod slightly swollen, with papillose surface; seed red, with black base; leaflets with blade glabrous to glabrescent above, with light and appressed pubescence below; bracts and bracteoles ± 1 mm long . A. precatorius ^k1
+
+**1′.** Inflorescence flexible, straight or slightly curved; pod flattened, without papillae; seed dark brown; leaflets with blade pubescent at least below; bracts and bracteoles ≥ 1.5 mm long → [[#^k2|2]]
+
+**2.** Bract and bracteole equalling or slightly exceeding the calyx; corolla purple; leaflets in 10 to 14 pairs, with leathery blade, with greyish pubescence persisting on both faces → [[Abrus_canescens\|*A. canescens*]] ^k2
+
+**2′.** Bract and bracteole up to half the length of the calyx; corolla yellow, white or lilac; leaflets in 5 to 7 pairs (outside Gabon up to 20 pairs), with papyraceous blade, glabrous to pubescent above, with loose to dense pubescence below → [[Abrus_fruticulosus\|*A. fruticulosus*]]
+
 
 ## Species in region
 

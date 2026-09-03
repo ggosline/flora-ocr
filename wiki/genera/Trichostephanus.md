@@ -31,9 +31,11 @@ TYPE SPECIES: T. acuminatus GILG.
 
 Genus of tropical West Africa comprising 2 species which are present in Gabon.
 
-1. Inflorescences in unipare or bipare cymes; floral buds enveloped in large bracts (7-10 mm long) or bracteale prefolia; stamens 10-20; presence of intrastaminal staminode crown; pistil densely pubescent; stigmas echiniform, densely papilliferous . . . .
+## Key to the species
 
-1'. Inflorescences in pauciflorous glomérules; flowers supported by small bracts (approximately 2 mm long); stamens 7-8; absence of intrastaminal staminode crown; pistil glabrous or glabrescent; stigmas lightly papilliferous ..... 2. T. gabonensis
+
+**1′.** Inflorescences in pauciflorous glomerules; flowers subtended by small bracts (c. 2 mm long); stamens 7–8; absence of intrastaminal staminode crown; pistil glabrous or glabrescent; stigmas slightly papilliferous → [[Trichostephanus_gabonensis\|*T. gabonensis*]]
+
 
 ## Species in region
 

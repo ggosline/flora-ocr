@@ -32,7 +32,7 @@ Trees. Stipules intrapetiolary, caducous. Leaves with (2-)3 (-4) pairs of opposi
 
 Terminal panicles reaching 25 cm long, brown-yellow tomentose. Flowers fragrant, white, shortly pedicellate (3-5 mm), tomentose externally. Bracteoles ovate 12 mm × 10 mm, tomentose externally, glabrous internally. Sepals ovate approximately 6.5 mm long by 3-5 mm wide. Petals 5, of which 4 filiform 3 mm; one large one 17 mm long, 6 mm wide, obovate, with short claw. Stamens 10 of ± 17 mm long; 9 fused at the base. Ovary subsessile, villous, tawny, with 4-5 ovules.
 
-Strong woody pods, oblong, flat, reaching $ 20 \times 8 $ cm, with strong dorsal suture forming a flat edge of $ 1.5 $ cm terminated on each side by a ridge, weakly wrinkled in surface, containing 1-3 large quadrangular seeds $ 4-5 $ cm per side.
+Strong woody pods, oblong, flat, reaching 20 × 8 cm, with strong dorsal suture forming a flat edge of 1.5 cm terminated on each side by a ridge, weakly wrinkled in surface, containing 1-3 large quadrangular seeds 4-5 cm per side.
 
 ## Type
 

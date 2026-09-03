@@ -36,7 +36,7 @@ Species known from Ghana (Vigne 1612) to Cameroon. RADLKOFER cites the specimen 
 
 ## Source note
 
-HAUMAN described (Bull. Jard. Bot. État Bruxelles 28 : 107, 1958) a P. paniculatus characterized by large inflorescences broadly paniculate reaching 40 cm with a robust peduncle more than 1 cm in diameter. Height aside, the other characters show a certain relationship with P. leptostachys: leaves 6-jugate, petiole 10 cm; rachis 20 cm; leaflets $ 20 \times 6 $ cm with 12 pairs of veins; disc pilose
+HAUMAN described (Bull. Jard. Bot. État Bruxelles 28 : 107, 1958) a P. paniculatus characterized by large inflorescences broadly paniculate reaching 40 cm with a robust peduncle more than 1 cm in diameter. Height aside, the other characters show a certain relationship with P. leptostachys: leaves 6-jugate, petiole 10 cm; rachis 20 cm; leaflets 20 × 6 cm with 12 pairs of veins; disc pilose
 
 ## Figures
 

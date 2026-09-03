@@ -25,22 +25,13 @@ Notes: Genus related to Smithia Aiton (rather Asian), in which several species o
 
 Bibliography: Dewit & Duvigneaud (1954), Lewis et al. (2005), Verdcourt (1970, 2000).
 
-### Key to the species
-
-1. - Leaflets 6 to 8, almost digitate; bracts semi-orbicular
-
-....................................................................................... K. strobilantha var. strobilantha
-
-- Leaflets 20 to 50, in pairs most often alternate; bracts oval, slightly
-
-falciform ................................................................................ K. ochreata var. ochreata
-
 ## Key to the species
 
-1. - Leaflets 6 to 8, almost digitate; bracts semi-orbicular
-....................................................................................... K. strobilantha var. strobilantha
-- Leaflets 20 to 50, in pairs mostly alternate; bracts oval, slightly
-falciform ................................................................................ K. ochreata var. ochreata
+
+**1.** Leaflets 6 to 8, almost digitate; bracts semi-orbicular → K. strobilantha var. strobilantha ^k1
+
+**1′.** Leaflets 20 to 50, in pairs mostly alternate; bracts oval, slightly falciform → K. ochreata var. ochreata
+
 
 ## Species in region
 

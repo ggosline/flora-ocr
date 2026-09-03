@@ -27,21 +27,13 @@ Genus comprising 30 species, distributed in Europe, Africa, Asia and America; in
 
 Bibliography: Fischer (1992, 1999), Fischer et al. (2013), Lewis (2000), Philcox (1968).
 
-### Key to species
-
-1. - Blade oval to orbicular; bracts foliaceous; stem prostrate to ascending
-
-............................................................................................................. L. rotundifolia
-
-- Blade narrowly lanceolate to oblanceolate or oval; bracts scaly; stem
-
-erect or sometimes prostrate to ascending ............................................... L. parviflora
-
 ## Key to the species
 
-1. - Limb ovate to orbicular; bracts foliaceous; stem prostrate to ascendant
-............................................................................................................. L. rotundifolia
-- Limb narrowly lanceolate to oblanceolate or ovate; bracts scaly; stem erect or sometimes prostrate to ascendant ............................................... L. parviflora
+
+**1.** Limb ovate to orbicular; bracts foliaceous; stem prostrate to ascendant → [[Lindernia_rotundifolia\|*L. rotundifolia*]] ^k1
+
+**1′.** Limb narrowly lanceolate to oblanceolate or ovate; bracts scaly; stem erect or sometimes prostrate to ascendant → [[Lindernia_parviflora\|*L. parviflora*]]
+
 
 ## Species in region
 

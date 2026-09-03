@@ -29,40 +29,21 @@ Etymology: from Greek prion, to saw, with the sense of denticulate, and stemma, 
 
 Genus of 5 species: 1 from America, 1 from Asia (P. arnottiana (Wight) Hallé, from India) and 3 species from Africa.
 
-### KEY TO SPECIES
-
-1. Petals fringed fimbriate.
-
-2. Sepals ciliolate or fimbriolate; anther with chevron slit; 12–20 ovules per locule; pedicels glabrous; inflorescences with glabrous branchlets ... 1. P. fimbriata.
-
-2'. Sepals entire; anther with transverse slit; 9–14 ovules per locule; pedicels puberulent; inflorescences with puberulent branchlets .... 1bis. P. unguiculata.
-
-puberulent; inflorescences with puberulent branchlets .... 1bis. P. unguiculata.
-
-1'. Petals entire: anther with transverse slit.
-
-3. Sepals entire; pedicels finely puberulent ..... 1bis. P. unguiculata.
-
-3'. Sepals at least somewhat ciliolate; pedicels glabrous; 4–8 ovules per locule
-
-..... 1ter. P. delagoensis.
-
 ## Key to the species
 
-1. Petals fimbriate-fringed.
 
-2. Sepals ciliolate or fimbriate; anther with chevron-shaped slit; 12-20 ovules per locule; pedicels glabrous; inflorescences with glabrous branchlets ... 1. P. fimbriata.
+**1.** Petals fimbriate-fringed. ^k1
 
-2'. Sepals entire; anther with transverse slit; 9-14 ovules per locule; pedicels puberulent; inflorescences with puberulent branchlets .... 1bis. P. unguiculata.
+**2.** Sepals ciliolate or fimbriate; anther with chevron-shaped slit; 12-20 ovules per locule; pedicels glabrous; inflorescences with glabrous branchlets → [[Prionostemma_fimbriata\|*P. fimbriata*]] ^k2
 
-puberulent; inflorescences with puberulent branchlets .... 1bis. P. unguiculata.
-1'. Petals entire: anther with transverse slit.
+**2′.** Sepals entire; anther with transverse slit; 9-14 ovules per locule; pedicels puberulent; inflorescences with puberulent branchlets 1bis. P. unguiculata. puberulent; inflorescences with puberulent branchlets → 1bis. P. unguiculata.
 
-3. Sepals entire; pedicels finely puberulent ..... 1bis. P. unguiculata.
+**1′.** Petals entire: anther with transverse slit.
 
-3'. Sepals at least somewhat ciliolate; pedicels glabrous; 4-8 ovules per locule
+**3.** Sepals entire; pedicels finely puberulent → 1bis. P. unguiculata. ^k3
 
-..... 1ter. P. delagoensis.
+**3′.** Sepals at least somewhat ciliolate; pedicels glabrous; 4-8 ovules per locule → 1ter. P. delagoensis.
+
 
 ## Species in region
 

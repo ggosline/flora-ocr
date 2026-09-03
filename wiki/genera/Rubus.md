@@ -27,22 +27,17 @@ Remark: In Flora Zambesiaca (Mendes & Kupicha, 1978), the presence of Rubus apet
 
 Bibliography: Hauman (1952), Kalkman (1993, 2004), Letouzey (1978), Mendes & Kupicha (1978).
 
-### Key to the species
-
-1. - Branches villous; blade above with appressed hairs between the veins, below pilose between the veins; petals generally absent ................ R. apetalus Poir.
-
-- Branches almost glabrous to tomentose; blade above glabrous to sparsely pilose between the veins, below glabrous between the veins or tomentose; petals present but reduced or sometimes absent ................................................................. 2
-
-2. - Blade below glabrous outside the veins ............. R. pinnatus var. afrotropicus
-
-- Blade below with white-greyish tomentum ............. R. pinnatus var. ledermannii
-
 ## Key to the species
 
-1. - Branchlets villous; leaf blade above with appressed pilosities between the nerves, below pilose between the nerves; petals generally absent ................ R. apetalus Poir.
-- Branchlets almost glabrous to tomentose; leaf blade above glabrous to sparsely pilose between the nerves, below glabrous between the nerves or else tomentose; petals present but reduced or sometimes absent ................................................................. 2
-2. - Leaf blade below glabrous except on the nerves ............. R. pinnatus var. afrotropicus
-- Leaf blade below with white-grayish tomentum ............. R. pinnatus var. ledermannii
+
+**1.** Branchlets villous; leaf blade above with appressed pilosities between the nerves, below pilose between the nerves; petals generally absent → R. apetalus Poir. ^k1
+
+**1′.** Branchlets almost glabrous to tomentose; leaf blade above glabrous to sparsely pilose between the nerves, below glabrous between the nerves or else tomentose; petals present but reduced or sometimes absent → [[#^k2|2]]
+
+**2.** Leaf blade below glabrous except on the nerves → R. pinnatus var. afrotropicus ^k2
+
+**2′.** Leaf blade below with white-grayish tomentum → R. pinnatus var. ledermannii
+
 
 ## Species in region
 

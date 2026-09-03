@@ -7,12 +7,6 @@ family: Convolvulaceae
 vol: 46
 pages: 39-41
 source: sources/Convolvulaceae_vol46_liteparse
-countries: [Gabon]
-in_region: true
-subdivisions:
-  Gabon: [Estuaire]
-habit: "herb"
-altitude_m: "1900"
 tags: [species, generated]
 ---
 # *Ipomoea cairica* (L.) Sweet var. cairica Planche 14
@@ -21,21 +15,25 @@ tags: [species, generated]
 **Family**: [[Convolvulaceae]]
 **Protologue**: Hort. brit. : 287 (1826)
 
+## Synonyms
+
+- Convolvulus cairicus L., Syst. nat. ed. 10, 2 : 922 (1759).
+
 ## Description
 
-Perennial herb; stems slender, prostrate or twining, glabrous or hairy at the nodes, sometimes slightly muricate. Leaf glabrous; petiole 1.5–3 cm long; blade ovate to orbicular, 3–10 cm in diameter, palmatisect, with 5(–7) lanceolate to ovate or elliptic segments, up to 4 × 2 cm, attenuate at the base, acute or obtuse and mucronulate at the apex, approximately 10 pairs of lateral veins; pseudostipules with 3–5 segments often present. Inflorescence in loose cymes, uni- to pluriflorous; peduncle 1–3 cm; bracts very small. Flower: pedicel 1–2 cm; sepals ovate, 4–5 × 3–4 mm, glabrous, sometimes slightly verrucose, obtuse to acute and mucronulate at the apex, membranous at the margins; corolla funnelform, 3–4 cm long, pink with weakly marked lobes; stamens included, filaments unequal, approximately 10 mm long, pubescent at the base; pistil included, ovary glabrous. Fruit subglobose, approximately 1 cm in diameter, glabrous, with 4 seeds. Seeds subglobose or ovoid, 4–6 mm long, blackish, tomentose with long silky hairs on the angles.
+Perennial herb; stems slender, prostrate or twining, glabrous or pilose on the nodes, sometimes slightly muricate. Leaf glabrous; petiole 1.5–3 cm long; blade ovate to orbicular, 3–10 cm in diameter, palmatiséqué, with 5(–7) segments lanceolate to ovate or elliptic, up to 4 × 2 cm, attenuate at the base, acute or obtuse and mucronulate at the apex, approximately 10 pairs of lateral nerves; pseudostipules with 3–5 segments often present. Inflorescence in loose cymes, uni- to pluriflorous; peduncle 1–3 cm; bracts very small. Flower: pedicel 1–2 cm; sepals ovate, 4–5 × 3–4 mm, glabrous, sometimes slightly verrucose, obtuse to acute and mucronulate at the apex, membranous on the margins; corolla infundibuliform, 3–4 cm long, pink with weakly marked lobes; stamens included, filaments unequal, approximately 10 mm long, pubescent at the base; pistil included, ovary glabrous. Fruit subglobose, approximately 1 cm in diameter, glabrous, with 4 seeds. Seeds subglobose or ovoid, 4–6 mm long, blackish, tomentose with long silky hairs on the angles.
 
 ## Distribution
 
-Known from all of tropical and subtropical Africa, as well as from Asia and America (introduced to the Pacific); in Gabon, known from a few collections in the Estuaire
+known from all of tropical and subtropical Africa, as well as from Asia and America (introduced into the Pacific); in Gabon, known from a few collections from Estuaire
 
 ## Ecology
 
-Lake and river margins, ruderal stations, on sandy soils; in Gabon, at low elevation, elsewhere up to 1900 m
+edges of lakes and rivers, ruderal stations, on sandy soils; in Gabon, at low altitude, elsewhere, up to 1900 m
 
 ## Uses
 
-Serves as food for rabbits, guinea pigs, goats and pigs. In the belief of indigenous peoples, this vine would be a good luck charm for those who fish for large fish
+serves as food for rabbits, guinea pigs, goats and pigs. In the belief of indigenous peoples, this vine is said to be a good-luck charm for those who fish for large fish
 
 ## Vernacular names
 

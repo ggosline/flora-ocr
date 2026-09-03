@@ -29,23 +29,13 @@ lamellose. Remains of the rostellum forked, lateral lobes aliform, the median on
 
 Genus of approximately 25–30 species present in tropical Africa and Madagascar with an extension to Natal (South African Republic). The species descriptions given below are taken mostly from Jonsson (1981).
 
-1. Free part of the rostellum much longer than the gynostemium ; labellum with prominent basal auricles .... subgen Encheiridion (36. 1. M. macrorrhynchium)
-
-1'. Free part of the rostellum generally shorter or sometimes as long as the gynostemium ; labellum without basal auricles .. subgen Microcoelia (36. 2. M. caespitosa)
-
-### Subgenus Encheiridion
-
-Labellum with prominent basal auricles or lateral lobes. Free part of the rostellum very elongate, longer than the entire gynostemium. Tegula and viscidium very long, narrow.
-
 ## Key to the species
 
-1. Free part of the rostellum much longer than the gynostemium; labellum with prominent basal auricles .... subgen Encheiridion (36. 1. M. macrorrhynchium)
 
-1'. Free part of the rostellum generally shorter or sometimes as long as the gynostemium; labellum without basal auricles .. subgen Microcoelia (36. 2. M. caespitosa)
+**1.** Free part of the rostellum much longer than the gynostemium; labellum with prominent basal auricles → subgen Encheiridion (36. 1. M. macrorrhynchium) ^k1
 
-Subgenus Encheiridion
+**1′.** Free part of the rostellum generally shorter or sometimes as long as the gynostemium; labellum without basal auricles .. subgen Microcoelia (36. 2. M. caespitosa) Subgenus Encheiridion Labellum with prominent basal auricles or lateral lobes. Free part of the rostellum very elongated, longer than the entire gynostemium. Tegula and viscidium very long, narrow.
 
-Labellum with prominent basal auricles or lateral lobes. Free part of the rostellum very elongated, longer than the entire gynostemium. Tegula and viscidium very long, narrow.
 
 ## Species in region
 

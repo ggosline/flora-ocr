@@ -27,29 +27,23 @@ This genus includes species mainly pollinated by butterflies: the flowers are ge
 
 A genus of more than 700 species, the majority from tropical regions with a few representatives from warm temperate zones. Insufficiently known, a number of species have been included in it despite a gynostemium of entirely different structure*. KRAENZLIN divided the genus into several sections, the key to which is as follows:
 
-### KEY TO THE SECTIONS
+## Key to the species
 
-1. Leaves 1 or 2, basal, orbicular to cordate, pressed to the ground
 
-1. Diphyllae p. 30
+**1′.** Long-cauline leaves → [[#^k2|2]]
 
-1'. Leaves longicaulinate ..... 2
+**2.** Petals undivided → 2. Commelinifolia p. 32 ^k2
 
-2. Petals undivided ..... 2. Commelinifolia p. 32
+**2′.** Petals divided into two parts → [[#^k3|3]]
 
-2'. Petals divided into two parts ..... 3
+**3.** Fertile portion of anther equal to stigmaphores → 3. Pentaceras p. 38 ^k3
 
-3. Fertile portion of anther equal to stigmaphores..... 3. Pentaceras p. 38
+**3′.** Fertile portion of anther 2–4 times < stigmaphores
 
-3'. Fertile portion of anther 2-4 times < stigmaphores
+**4.** Replicate p. 40 ^k4
 
-4. Replicate p. 40
+**1.** Sect. Diphyllae Kraenzl. Bot. Jahrb. 16 : 56, 147 (1892). Basal leaves 1–2, rooting, appressed to the ground, sessile, generally broader than long; on the stem, very numerous cauline sheaths, often ovate, acute, ± appressed, distinctly different from the basal leaves. Petals bipartite except in exceptional cases. <<<---SECTION-BREAK--->>> PL. 10. – Structure of the gynostemium of the genus Habenaria Willd.: A, lateral view; B, view from base; C, anterior view; D, viscidium and apex of caudicle; E, viscidium; F, lateral view; G, anterior view; H, viscidium and apex of caudicle, various aspects (ex SZLACHETKO & RUTKOWSKI, 2000). ^k1
 
-1. Sect. Diphyllae Kraenzl.
-
-Bot. Jahrb. 16 : 56, 147 (1892).
-
-Basal leaves 1-2, rooting, pressed to the ground, sessile, generally wider than long; on the stem, very reduced sheathing leaves
 
 ## Species in region
 

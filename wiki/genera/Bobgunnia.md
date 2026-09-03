@@ -31,17 +31,13 @@ The second species, B. madagascariensis, which occurs in Cameroon and the Democr
 
 Bibliography: Aubréville (1968), Brummitt (2007a), Kirkbride & Wiersema (1997), Lewis et al. (2005), Pellegrin (1949), Wilczek (1952).
 
-### Key to species
-
-1 - Leaflets 9 to 15, with limb acuminate at the apex; flowers in long pluriflorous pendulous racemes; pedicel glabrous to slightly puberulent; in humid forest ............ B. fistuloides
-
-- Leaflets 9 to 11, with limb rounded to slightly emarginate at the apex; flowers solitary or in short pauciflorous and erect racemes; pedicel densely hairy to tomentose; in savanna or open forest (to be sought in Gabon)
-
 ## Key to the species
 
+
 1 - Leaflets 9 to 15, with blade acuminate at apex; flowers in long pluriflorous pendant racemes; pedicel glabrous to slightly puberulent; in humid forest ............ B. fistuloides
-- Leaflets 9 to 11, with blade rounded to slightly emarginate at apex; flowers solitary or in short pauciflorous erect racemes; pedicel densely hairy to tomentose; in savanna or open forest (to be sought in Gabon)
-...................................................... B. madagascariensis (Desv.) J.H.Kirkbr. & Wiersema
+
+**—** Leaflets 9 to 11, with blade rounded to slightly emarginate at apex; flowers solitary or in short pauciflorous erect racemes; pedicel densely hairy to tomentose; in savanna or open forest (to be sought in Gabon) → B. madagascariensis (Desv.) J.H.Kirkbr. & Wiersema
+
 
 ## Species in region
 

@@ -15,7 +15,7 @@ tags: [species, generated]
 
 **Genus**: [[Pristimera]]
 **Family**: [[Celastraceae]]
-**Protologue**: Bull. Mus. Natn. Hist. nat., Paris, 4 $ ^{e} $ sér., B, 3, Adansonia 1: 9 (1981)
+**Protologue**: Bull. Mus. Natn. Hist. nat., Paris, 4 ᵉ sér., B, 3, Adansonia 1: 9 (1981)
 
 ## Description
 

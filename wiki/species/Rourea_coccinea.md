@@ -54,7 +54,7 @@ in BRETELER (ed.), AUWP 89 (6): 325 (1989).
 
 Shrub, rhizomatous subshrub or vine, often deciduous. Young branchlets with lenticels of distinct color, branchlets sometimes bearing a distinct corky layer.
 
-Leaves: leaflets 5–21, ovate to elliptic or triangular-oblong; terminal leaflet $ 1.5–4 \times 1–3 $ cm, apex emarginate to slightly acuminate; lateral leaflets symmetric to remarkably asymmetric, $ 0.5–5 \times 0.5–3 $ cm with apex emarginate to acute (never acuminate).
+Leaves: leaflets 5–21, ovate to elliptic or triangular-oblong; terminal leaflet 1.5–4 × 1–3 cm, apex emarginate to slightly acuminate; lateral leaflets symmetric to remarkably asymmetric, 0.5–5 × 0.5–3 cm with apex emarginate to acute (never acuminate).
 
 Inflorescences approximately 6 cm long, in the axil of adult leaves or already fallen leaves.
 

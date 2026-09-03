@@ -29,22 +29,17 @@ erect, fairly massive. Pollinia 4 in 2 pairs, of unequal size, flattened lateral
 
 These very small flowers are probably pollinated by bees, but there are no observations on pollination in the genus Genyorchis which contains approximately 10 species native to tropical Africa.
 
-1. Pseudobulbs 1-leaved ..... 2. G. platybulbon
-
-1'. Pseudobulbs 2-leaved.
-
-2. Labellum overall obtriangular in shape: median lobe short and wide, lateral lobes very developed, broadly spread ..... 3. G. sanfordii
-
-2'. Labellum overall rectangular or obovate in shape: median lobe triangular, elliptic to ovate, revolute ..... 1. G. apetala
-
 ## Key to the species
 
-1. Pseudobulbs 1-foliate ..... 2. G. platybulbon
-1'. Pseudobulbs 2-foliate.
 
-2. Labellum overall obtriangular when spread: midlobe short and broad, lateral lobes very developed, broadly spreading ..... 3. G. sanfordii
+**1.** Pseudobulbs 1-foliate → [[Genyorchis_platybulbon\|*G. platybulbon*]] ^k1
 
-2'. Labellum overall rectangular or obovate: midlobe triangular, elliptic to ovate, revolute ..... 1. G. apetala
+**1′.** Pseudobulbs 2-foliate.
+
+**2.** Labellum overall obtriangular when spread: midlobe short and broad, lateral lobes very developed, broadly spreading → [[Genyorchis_sanfordii\|*G. sanfordii*]] ^k2
+
+**2′.** Labellum overall rectangular or obovate: midlobe triangular, elliptic to ovate, revolute → [[Genyorchis_apetala\|*G. apetala*]]
+
 
 ## Species in region
 

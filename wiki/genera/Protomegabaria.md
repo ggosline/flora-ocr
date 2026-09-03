@@ -23,22 +23,17 @@ African genus from West and Central Africa, with 3 species comprising small to m
 
 Bibliography: Breteler (2012c), Léonard (1995a). Pax & Hoffmann (1922), Radcliffe-Smith (2001).
 
-### Key to the species
-
-1. - Blade very often furnished below with numerous small reddish-brown pustules; fruit ribbed or if not, not exceeding 2 cm in diameter ...................................... 2
-
-- Blade without pustules; fruit not ribbed, 3–4.5 cm in diameter ................ P. stapfiana
-
-2. - Sepals of the female flower 1.5–2 mm in length; ovary not ribbed; fruit globulous, ± 1.5 cm in diameter .......................................................... P. meiocarpa
-
-- Sepals of the female flower (2.5–)3–4 mm in length; ovary ribbed; fruit ellipsoid, ± 3.5–4 cm in length ................................................... P. macrophylla
-
 ## Key to the species
 
-1. - Limb very often furnished below with numerous small reddish-brown pustules; fruit ribbed or if not, not exceeding 2 cm in diameter ...................................... 2
-- Limb without pustules; fruit not ribbed, 3–4.5 cm in diameter ................ P. stapfiana
-2. - Sepals of the female flower 1.5–2 mm in length; ovary not ribbed; fruit globose, ± 1.5 cm in diameter .......................................................... P. meiocarpa
-- Sepals of the female flower (2.5–)3–4 mm in length; ovary ribbed; fruit ellipsoid, ± 3.5–4 cm in length ................................................... P. macrophylla
+
+**1.** Limb very often furnished below with numerous small reddish-brown pustules; fruit ribbed or if not, not exceeding 2 cm in diameter → [[#^k2|2]] ^k1
+
+**1′.** Limb without pustules; fruit not ribbed, 3–4.5 cm in diameter → [[Protomegabaria_stapfiana\|*P. stapfiana*]]
+
+**2.** Sepals of the female flower 1.5–2 mm in length; ovary not ribbed; fruit globose, ± 1.5 cm in diameter → [[Protomegabaria_meiocarpa\|*P. meiocarpa*]] ^k2
+
+**2′.** Sepals of the female flower (2.5–)3–4 mm in length; ovary ribbed; fruit ellipsoid, ± 3.5–4 cm in length → [[Protomegabaria_macrophylla\|*P. macrophylla*]]
+
 
 ## Species in region
 

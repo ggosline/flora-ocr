@@ -45,7 +45,7 @@ Bull. Mus. natn. Hist. nat., Paris, 4° sér., 6, B, Adansonia 1: 8, tab. 2, fig
 
 Liane glabre atteignant 10 m, à rameaux lisses, cylindriques ou à très fines arêtes. Pétiole de 8-14 mm. Limbe grisâtre à sec, mince, de 6-17 × 3-8 cm, ovale ou à peine oblong ; base arrondie à subaiguë ; sommet très médiocrement acuminé sur moins de 5 mm ; marge entière. Nervation fine et en relief sur les deux faces à sec, avec 6-7 paires de nervures secondaires.
 
-Inflorescences axillaires en cymes grêles, dichotomes et divariquées avec jusqu'à 6 divisions successives, parfois groupées en panicules; pédoncules des cymes longs de 2-4 cm. Bractées ovées deltoïdes. Pédicelles fins et lisses de 2,5-4,2 mm. Boutons globoïdes. Fleurs vertes, nombreuses, de 5-7,5(8,5) mm de diamètre. Sépales semi-orbiculaires imbriqués subégaux, larges de 1,2-1,8 mm, à marge fimbriolée ciliolée. Pétales imbriqués suborbiculaires d'environ  $ 3,5 \times 3 $ mm, opaques et foncés, à
+Inflorescences axillaires en cymes grêles, dichotomes et divariquées avec jusqu'à 6 divisions successives, parfois groupées en panicules; pédoncules des cymes longs de 2-4 cm. Bractées ovées deltoïdes. Pédicelles fins et lisses de 2,5-4,2 mm. Boutons globoïdes. Fleurs vertes, nombreuses, de 5-7,5(8,5) mm de diamètre. Sépales semi-orbiculaires imbriqués subégaux, larges de 1,2-1,8 mm, à marge fimbriolée ciliolée. Pétales imbriqués suborbiculaires d'environ  3,5 × 3 mm, opaques et foncés, à
 
 mince marge pâle à sec. Disque petit de 1,5-2,4 mm de diamètre, en étroit bourrelet un peu sinueux, séparé de l'androphore charnu subglo-buleux de même diamètre. Filets très courts, larges à la base, ceinturant l'ovaire en son milieu. Loges 3, chacune à 7-14 ovules ± serrés sur 3 rangs ; style petit, d'environ 0,5 mm.
 

@@ -28,59 +28,37 @@ Bibliography
 
 b : Breteler (2011b), Hoffmann et al. (2006), Jablonsky (1915), Léonard (1960, 1962).
 
-### Key to species
-
-1. - Floral bud or calyx glabrous to sparsely pubescent on the outside ...................... 2
-
-- Floral bud or calyx densely pilose on the outside ........................................... 3
-
-2. - Disc in male and female flowers pilose; ovary and fruit pilose . C. ngounyensis
-
-- Disc in male flowers glabrous to (sparsely) pubescent, in female flowers
-
-glabrous or pilose; ovary and fruit glabrous ..................................... C. caudatus
-
-3. - Branchlets glabrous; leaf with coriaceous, glabrous lamina ................................................... 4
-
-- Branchlets pilose, early glabrescent or not; leaf with papyraceous to coriaceous
-
-lamina, (partially) pilose or glabrous .............................................................................. 5
-
-4. - Lamina with 3–4 pairs of lateral veins ............................................ C. itsoghensis
-
-- Lamina with (5–)6–7(–8) pairs of lateral veins .................................. C. letouzeyi
-
-5. - Lamina glabrous beneath or with appressed hairs .............................................................. 6
-
-- Lamina pilose beneath, with erect hairs ................................................. C. bambidianus
-
-6. - Flowers in elongate inflorescences, ± racemose; male flowers with pubescent
-
-disc ................................................................................................................. 7
-
 ## Key to the species
 
-1. - Floral bud or calyx glabrous to sparsely pubescent on the outside ...................... 2
-- Floral bud or calyx densely pilose on the outside ........................................... 3
-2. - Disk in male and female flowers villous; ovary and fruit villous . C. ngounyensis
-- Disk in male flowers glabrous to (sparsely) pubescent, in female flowers
-glabrous or villous; ovary and fruit glabrous ..................................... C. caudatus
-3. - Ramules glabrous; leaf blade coriaceous, glabrous ................................................... 4
-- Ramules pilose, early glabrescent or not; leaf blade papyraceous to coriaceous,
-(partially) pilose or glabrous .............................................................................. 5
-4. - Blade with 3–4 pairs of lateral nerves ............................................ C. itsoghensis
-- Blade with (5–)6–7(–8) pairs of lateral nerves .................................. C. letouzeyi
-5. - Blade glabrous below or with appressed hairs .............................................................. 6
-- Blade villous below, with erect hairs ................................................. C. bambidianus
-6. - Flowers in elongate, ± racemiform inflorescences; male flowers with
-pubescent disk ................................................................................................................. 7
-- Flowers ± fasciculate; male flower with glabrous disk ...................................... C. zenkeri
-7. - Inflorescence 1–1.5 cm long, with fewer than 10 flowers; bracts wider than
-long; pedicel of male flower 3–5 mm, that of female flower (0–)1–3 mm
-.............................................................................................................. C. gabonensis
-- Inflorescence (0.5–)1–3(–6) cm long, with fewer than 20 flowers; bracts longer
-than wide; pedicel of male flower (4–)5–8 mm, that of female flower
-4–5 mm ............................................................................................ C. polystachyus
+
+**1.** Floral bud or calyx glabrous to sparsely pubescent on the outside → [[#^k2|2]] ^k1
+
+**1′.** Floral bud or calyx densely pilose on the outside → [[#^k3|3]]
+
+**2.** Disk in male and female flowers villous; ovary and fruit villous . C. ngounyensis ^k2
+
+**2′.** Disk in male flowers glabrous to (sparsely) pubescent, in female flowers glabrous or villous; ovary and fruit glabrous → [[Cleistanthus_caudatus\|*C. caudatus*]]
+
+**3.** Ramules glabrous; leaf blade coriaceous, glabrous → [[#^k4|4]] ^k3
+
+**3′.** Ramules pilose, early glabrescent or not; leaf blade papyraceous to coriaceous, (partially) pilose or glabrous → [[#^k5|5]]
+
+**4.** Blade with 3–4 pairs of lateral nerves → [[Cleistanthus_itsoghensis\|*C. itsoghensis*]] ^k4
+
+**4′.** Blade with (5–)6–7(–8) pairs of lateral nerves → [[Cleistanthus_letouzeyi\|*C. letouzeyi*]]
+
+**5.** Blade glabrous below or with appressed hairs → [[#^k6|6]] ^k5
+
+**5′.** Blade villous below, with erect hairs → [[Cleistanthus_bambidianus\|*C. bambidianus*]]
+
+**6.** Flowers in elongate, ± racemiform inflorescences; male flowers with pubescent disk → [[#^k7|7]] ^k6
+
+**6′.** Flowers ± fasciculate; male flower with glabrous disk → [[Cleistanthus_zenkeri\|*C. zenkeri*]]
+
+**7.** Inflorescence 1–1.5 cm long, with fewer than 10 flowers; bracts wider than long; pedicel of male flower 3–5 mm, that of female flower (0–)1–3 mm → [[Cleistanthus_gabonensis\|*C. gabonensis*]] ^k7
+
+**7′.** Inflorescence (0.5–)1–3(–6) cm long, with fewer than 20 flowers; bracts longer than wide; pedicel of male flower (4–)5–8 mm, that of female flower 4–5 mm → [[Cleistanthus_polystachyus\|*C. polystachyus*]]
+
 
 ## Species in region
 

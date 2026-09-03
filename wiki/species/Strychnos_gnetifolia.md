@@ -29,7 +29,7 @@ Leaves with petiole glabrous, 5–10 mm long; lamina coriaceous, elliptic or nar
 
 Inflorescences axillary or exceptionally terminal, 1–6 × 1–4 cm, pauciflorous, lax or contracted; peduncle distinct, 5–25 mm long, bearing two pubescent lines; branchlets hairy, like the peduncle, or glabrous like the pedicels. Flowers 5-merous. Sepals almost free, ovate or broadly ovate, 1.5–2 × 1.2–1.6 mm, rounded, glabrous on both surfaces and ciliate. Corolla, in mature bud, 3.5–4.5 mm long, white (?), glabrous outside, densely pilose inside, but glabrous at the base of the tube and at the apex of the lobes; tube very short, 0.7–1 mm long; lobes thick, oblong, 2.8–3.5 × 0.9–1 mm, acute, somewhat (?) spreading. Stamens exserted, inserted at the throat of the corolla, with filament approximately 1.5 times longer than the anther, glabrous; anther oblong, glabrous. Pistil glabrous, 3 mm long; ovary ovoid, 1.5 × 1.2 mm, 2-locular; style 1.5 mm long; stigma capitate; approximately 9 ovules per locule.
 
-Fruits orange (?), obliquely ellipsoid, $ 1.5–2.7 \times 1.5–2.3 \times 1–2 $ cm, obliquely pedicellate, and containing one seed. Seed flattened, obliquely elliptic, approximately $ 2 \times 1.5 \times 0.5 $ cm, wrinkled; testa thick. Pl. 31, 9–12, p. 138.
+Fruits orange (?), obliquely ellipsoid, 1.5–2.7 × 1.5–2.3 × 1–2 cm, obliquely pedicellate, and containing one seed. Seed flattened, obliquely elliptic, approximately 2 × 1.5 × 0.5 cm, wrinkled; testa thick. Pl. 31, 9–12, p. 138.
 
 ## Type
 

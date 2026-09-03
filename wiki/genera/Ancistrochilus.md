@@ -21,15 +21,13 @@ Herbaceous small to medium-sized epiphyte. Pseudobulbs grouped, conical or orbic
 
 Pollination is still unknown in this genus, which comprises 2 species widely distributed from West tropical Africa to Uganda and already collected in Gabon.
 
-1. Median lobe of labellum 8–12 mm long, linear-lanceolate; sepals and petals 1.5–3 cm, pubescent on the outer side, pseudobulbs generally conical or pyriform ..... 1. A. rothschildianus
-
-1'. Median lobe of labellum 16–25 mm long, very slender, almost filiform; sepals and petals 3.5–4.5 cm, glabrous, pseudobulbs generally orbicular, flattened dorsoventrally ..... 2. A. thomsonianus
-
 ## Key to the species
 
-1. Median lobe of labellum 8-12 mm long, linear-lanceolate; sepals and petals 1.5-3 cm, pubescent on the external side, pseudobulbs generally conical or pyriform ..... 1. A. rotschildianus
 
-1'. Median lobe of labellum 16-25 mm long, very slender, almost filiform; sepals and petals 3.5-4.5 cm, glabrous, pseudobulbs generally orbicular, flattened dorso-ventrally ..... 2. A. thomsonianus
+**1.** Median lobe of labellum 8-12 mm long, linear-lanceolate; sepals and petals 1.5-3 cm, pubescent on the external side, pseudobulbs generally conical or pyriform → [[Ancistrochilus_rotschildianus\|*A. rotschildianus*]] ^k1
+
+**1′.** Median lobe of labellum 16-25 mm long, very slender, almost filiform; sepals and petals 3.5-4.5 cm, glabrous, pseudobulbs generally orbicular, flattened dorso-ventrally → [[Ancistrochilus_thomsonianus\|*A. thomsonianus*]]
+
 
 ## Species in region
 

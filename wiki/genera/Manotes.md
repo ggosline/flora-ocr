@@ -43,33 +43,17 @@ Seed solitary, subovoid, attached to the ventral suture; testa shiny and entirel
 
 This genus comprises 4 species and a putative hybrid from humid tropical Africa. Its range extends from western Guinea to eastern Zaire and from the Central African Republic to northern Angola. In drier regions it is restricted to gallery forests. In Gabon, 3 species are recognized as well as this hybrid.
 
-1. Petals with 2 lateral lobes; stamens of the same flower approximately equal in length, pistil unequal to them (heterodistyly). Leaflets coriaceous; floral bud 3–3.5 × 2–2.5 mm just at the opening of the calyx ..... 3. M. macrantha
-
-1'. Petals not presenting such lobes; stamens in 2 cycles of clearly different lengths, pistils unequal to one or the other cycle (heterotristyly);
-
-leaflets papyraceous; floral bud 1–2.7 × 1–1.8 mm just at the opening of the
-
-calyx.
-
-2. Pistil with spherical hairs throughout the style, indumentum of long hairs throughout the ovary; fruit always with long hairs of >0.3 mm, clearly mixed with glandular and spherical hairs; floral bud spherical at the moment of opening of the fully developed calyx ..... 2. M. griffo
-
 ## Key to the species
 
-1. Petals with 2 lateral lobes; stamens of the same flower substantially equal in length, pistil unequal to them (heterodistyly). Leaflets coriaceous; floral bud 3–3.5 × 2–2.5 mm just at calyx opening ..... 3. M. macrantha
 
-1'. Petals not presenting such lobes; stamens in 2 cycles of clearly different lengths, pistils unequal to one or the other cycle (heterotristyly); leaflets papyraceous; floral bud 1–2.7 × 1–1.8 mm just at calyx opening.
+**1.** Petals with 2 lateral lobes; stamens of the same flower substantially equal in length, pistil unequal to them (heterodistyly). Leaflets coriaceous; floral bud 3–3.5 × 2–2.5 mm just at calyx opening → [[Manotes_macrantha\|*M. macrantha*]] ^k1
 
-2. Pistil with spherical hairs throughout the style, indumentum of long hairs throughout the ovary; fruit always with long hairs of >0.3 mm, clearly mixed with glandular and spherical hairs; floral bud spherical at the moment of calyx opening when fully developed ..... 2. M. griffo
+**1′.** Petals not presenting such lobes; stamens in 2 cycles of clearly different lengths, pistils unequal to one or the other cycle (heterotristyly); leaflets papyraceous; floral bud 1–2.7 × 1–1.8 mm just at calyx opening.
 
-2'. Pistil without spherical hairs over the entire style and at most with long hairs at the base of the ovary. Fruits only with very short glandular hairs, without long glandular hairs ..... 1. M. expansa
+**2.** Pistil with spherical hairs throughout the style, indumentum of long hairs throughout the ovary; fruit always with long hairs of >0.3 mm, clearly mixed with glandular and spherical hairs; floral bud spherical at the moment of calyx opening when fully developed → *M. griffo* ^k2
 
----
+**2′.** Pistil without spherical hairs over the entire style and at most with long hairs at the base of the ovary. Fruits only with very short glandular hairs, without long glandular hairs → 1. M. expansa <table><tr><td>BUD</td><td>OPEN FLOWER</td><td>FRUIT</td></tr><tr><td><img src="imgs/img_in_image_box_151_212_238_415.jpg" alt="Image"" /></td><td><img src="imgs/img_in_image_box_373_215_486_428.jpg" alt="Image"" /></td><td><img src="imgs/img_in_image_box_572_234_632_419.jpg" alt="Image"" /> <img src="imgs/img_in_image_box_654_242_726_429.jpg" alt="Image"" /></td></tr><tr><td>Manotes griffoniana</td><td></td><td></td></tr><tr><td><img src="imgs/img_in_image_box_99_499_180_703.jpg" alt="Image"" /> <img src="imgs/img_in_image_box_205_498_297_703.jpg" alt="Image"" /></td><td><img src="imgs/img_in_image_box_326_495_424_712.jpg" alt="Image"" /> <img src="imgs/img_in_image_box_431_502_539_713.jpg" alt="Image"" /></td><td></td></tr><tr><td>Manotes expansa</td><td></td><td></td></tr><tr><td><img src="imgs/img_in_image_box_80_757_305_1056.jpg" alt="Image"" /></td><td><img src="imgs/img_in_image_box_319_783_427_1004.jpg" alt="Image"" /> <img src="imgs/img_in_image_box_431_794_546_1005.jpg" alt="Image"" /></td><td><img src="imgs/img_in_image_box_612_795_651_990.jpg" alt="Image"" /></td></tr></table> NOTE: in the preparation of this Flora, hybrid specimens may be encountered that do not fit this key (see M. soyauxii).
 
-<table><tr><td>BUD</td><td>OPEN FLOWER</td><td>FRUIT</td></tr><tr><td><img src="imgs/img_in_image_box_151_212_238_415.jpg" alt="Image"" /></td><td><img src="imgs/img_in_image_box_373_215_486_428.jpg" alt="Image"" /></td><td><img src="imgs/img_in_image_box_572_234_632_419.jpg" alt="Image"" /> <img src="imgs/img_in_image_box_654_242_726_429.jpg" alt="Image"" /></td></tr><tr><td>Manotes griffoniana</td><td></td><td></td></tr><tr><td><img src="imgs/img_in_image_box_99_499_180_703.jpg" alt="Image"" /> <img src="imgs/img_in_image_box_205_498_297_703.jpg" alt="Image"" /></td><td><img src="imgs/img_in_image_box_326_495_424_712.jpg" alt="Image"" /> <img src="imgs/img_in_image_box_431_502_539_713.jpg" alt="Image"" /></td><td></td></tr><tr><td>Manotes expansa</td><td></td><td></td></tr><tr><td><img src="imgs/img_in_image_box_80_757_305_1056.jpg" alt="Image"" /></td><td><img src="imgs/img_in_image_box_319_783_427_1004.jpg" alt="Image"" /> <img src="imgs/img_in_image_box_431_794_546_1005.jpg" alt="Image"" /></td><td><img src="imgs/img_in_image_box_612_795_651_990.jpg" alt="Image"" /></td></tr></table>
-
----
-
-NOTE: in the preparation of this Flora, hybrid specimens may be encountered that do not fit this key (see M. soyauxii).
 
 ## Species in region
 

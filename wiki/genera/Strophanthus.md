@@ -29,71 +29,53 @@ BIBLIOGRAPHY
 
 ---
 
-Key to species for flowering plants
-
-1. - Corolla lobes rounded at the apex .......................................................... S. gratus
-
-- Corolla lobes acute, acuminate or caudate at the apex ............................................... 2
-
-2. - Corolla lobes acute or acuminate, not caudate at the apex ................. S. thollonii
-
 ## Key to the species
 
-1. - Follicles flexible, pendulous ................................................................... S. bullenianus
-- Follicles rigid, divergent ...................................................................................... 2
-2. - Branches, leaf blade and follicle surface hispid, rugose and like sandpaper .
-............................................................................................. S. hispidus
-- Branches, leaf blade and follicle surface glabrous or with variable indumentum............. 3
-3. - Leaves densely scabrous ........................................................................... S. gracilis
-- Leaves glabrous or with variable indumentum, but not scabrous ............................................ 4
-- Seed glabrous or finely to puberulent ........................................................ S. gratus
-- Seed densely puberulent or pubescent ............................................................ 5
-- Follicles with rounded apex, finely pointed, narrow and obtuse ......................... 6
-- Follicles narrowing at apex, but ending with a button ...................... 9
-- Follicles longly finely pointed at apex, narrow, sometimes apex incurved, of
-(13-)15.5–46.5 × 0.9–3 cm .......................................................................................... 7
-- Follicles with relatively broad and obtuse apex ......................................................... 8
-7. - Seed with beak glabrous for 1.5–15 mm, bearing a coma for 12–21 mm; coma
-22–42 mm long .................................................................................................... S. thollonii
-- Seed with beak glabrous for 3–8 mm, bearing a coma for 30–50 mm; coma
-57–100 mm long ................................................................................................... S. preussii
-8. - Oldest branches with cork protuberances; seed with beak glabrous > 10 mm .
-................................................................................................................ S. sarmentosus
-- Branches without cork protuberances; seed with beak glabrous < 9 mm ..... S. congoensis
-9. - Leaf glabrous ............................................................................................................. 10
-- Leaf pilose ........................................................................................................... 11
-10. - Follicle weakly lenticellate, with small and round lenticels; petiole 1–3 mm .
-.................................................................................................................. S. parviflorus
-- Follicle fairly densely lenticellate with elongate lenticels; petiole 6–12 mm .
-............................................................................................................... S. preussii
-- Follicle fairly densely lenticellate; leaf blade with pubescence clearly scattered
-above ........................................................................................................... S. mortehanii
-- Follicle weakly lenticellate; leaf blade rarely puberulent on the nerves
-.................................................................................................................. S. parviflorus
 
-Strophanthus bullenianus Mast. Plate 100; Figure 11(E, F)
-Gard. Chron.
-S. erythroleucos Gilg, Bot. Jahrb. Syst. 32(1) : 160 (1902).
-S. wildemanianus Gilg, Bot. Jahrb. Syst. 32(1) : 159 (1902).
+**1.** Follicles flexible, pendulous → *S. bullenianus* ^k1
 
-Liane reaching 12 m in height; exudate clear or white; branches glabrous to hispid. Leaf:
-petiole 3–5 mm, blade elliptic to ovate or slightly obovate, 5–14 × 2.5–8 cm, cuneate to
-subcordate at base, acuminate at apex, glabrous to weakly hispid above, glabrous or hispid
-below; secondary nerves (6)7 to 10(13) pairs. Inflorescence lax, with 1 to 10 flowers.
-Flower: pedicel 6–21 mm; calyx with subequal to unequal lobes, 5–12 × 0.5–1.8 mm, obtuse or acute at apex, sometimes purple; corolla with cream tube becoming reddish, 9–15 mm long, widening at 60–90% of its length into a shallow cupuliform upper part, 6–12 mm wide at throat, puberulent, crown with lobes 0.5–2.5 mm long, red becoming purple, fleshy, with corolla lobes oval, 3–7 × 3.5–7 mm, yellow, sometimes with a straight red margin on the outside, spotted red on the inside, narrowing abruptly into puberulent tails, 8–33 × 0.5–1 mm; stamens exserted, anther 3.8–4.5 mm long, glabrous; ovary glabrous; style 8–12 mm. Fruit: follicles pendulous, diverging at 45–90°, 9–48 × 0.9–2.5 cm, exocarp fine and breaking slightly, shallowly furrowed, glabrous, scarcely lenticellate. Seed 21–25 × 4 mm, with persistent basal coma and apical coma inserted on the testa, 50–82 mm long; beak 20–30 mm long, entirely pilose.
+**1′.** Follicles rigid, divergent → [[#^k2|2]]
 
-Distribution: Nigeria, Cameroon, Equatorial Guinea, Gabon, Republic of the Congo, Democratic Republic of the Congo and Angola. Cabinda au Gabon, Estuaire, Moyen-Ogooué, Ngounié, Ogooué, Ivindo and Ogooué-Lolo.
+**2.** Branches, leaf blade and follicle surface hispid, rugose and like sandpaper . → [[Strophanthus_hispidus\|*S. hispidus*]] ^k2
 
-Ecology: Forest in Gabon, up to 800 m altitude, elsewhere up to 600 m.
+**2′.** Branches, leaf blade and follicle surface glabrous or with variable indumentum → [[#^k3|3]]
 
-B: Beentje (1982, 2021).
+**3.** Leaves densely scabrous → [[Strophanthus_gracilis\|*S. gracilis*]] ^k3
 
----
+**3′.** Leaves glabrous or with variable indumentum, but not scabrous → [[#^k4|4]]
 
-Brass & Woodward 20834; 4: Breyne 3439). Drawing by Henk Beentje, Naturalis Biodiversity Center
-(©), reproduced from Beentje (1982).
+**3′.** Seed glabrous or finely to puberulent → [[Strophanthus_gratus\|*S. gratus*]]
 
----
+**3′.** Seed densely puberulent or pubescent → [[#^k5|5]]
+
+**3′.** Follicles with rounded apex, finely pointed, narrow and obtuse → [[#^k6|6]]
+
+**3′.** Follicles narrowing at apex, but ending with a button → [[#^k9|9]]
+
+**3′.** Follicles longly finely pointed at apex, narrow, sometimes apex incurved, of (13-)15.5–46.5 × 0.9–3 cm → [[#^k7|7]]
+
+**3′.** Follicles with relatively broad and obtuse apex → [[#^k8|8]]
+
+**7.** Seed with beak glabrous for 1.5–15 mm, bearing a coma for 12–21 mm; coma 22–42 mm long → [[Strophanthus_thollonii\|*S. thollonii*]] ^k7
+
+**7′.** Seed with beak glabrous for 3–8 mm, bearing a coma for 30–50 mm; coma 57–100 mm long → [[Strophanthus_preussii\|*S. preussii*]]
+
+**8.** Oldest branches with cork protuberances; seed with beak glabrous > 10 mm . → [[Strophanthus_sarmentosus\|*S. sarmentosus*]] ^k8
+
+**8′.** Branches without cork protuberances; seed with beak glabrous < 9 mm → [[Strophanthus_congoensis\|*S. congoensis*]]
+
+**9.** Leaf glabrous → [[#^k10|10]] ^k9
+
+**9′.** Leaf pilose → [[#^k11|11]]
+
+**10.** Follicle weakly lenticellate, with small and round lenticels; petiole 1–3 mm . → *S. parviflorus* ^k10
+
+**10′.** Follicle fairly densely lenticellate with elongate lenticels; petiole 6–12 mm . → [[Strophanthus_preussii\|*S. preussii*]]
+
+**10′.** Follicle fairly densely lenticellate; leaf blade with pubescence clearly scattered above → [[Strophanthus_mortehanii\|*S. mortehanii*]]
+
+**10′.** Follicle weakly lenticellate; leaf blade rarely puberulent on the nerves → S. parviflorus Strophanthus bullenianus Mast. Plate 100; Figure 11(E, F) Gard. Chron. S. erythroleucos Gilg, Bot. Jahrb. Syst. 32(1) : 160 (1902). S. wildemanianus Gilg, Bot. Jahrb. Syst. 32(1) : 159 (1902). Liane reaching 12 m in height; exudate clear or white; branches glabrous to hispid. Leaf: petiole 3–5 mm, blade elliptic to ovate or slightly obovate, 5–14 × 2.5–8 cm, cuneate to subcordate at base, acuminate at apex, glabrous to weakly hispid above, glabrous or hispid below; secondary nerves (6)7 to 10(13) pairs. Inflorescence lax, with 1 to 10 flowers. Flower: pedicel 6–21 mm; calyx with subequal to unequal lobes, 5–12 × 0.5–1.8 mm, obtuse or acute at apex, sometimes purple; corolla with cream tube becoming reddish, 9–15 mm long, widening at 60–90% of its length into a shallow cupuliform upper part, 6–12 mm wide at throat, puberulent, crown with lobes 0.5–2.5 mm long, red becoming purple, fleshy, with corolla lobes oval, 3–7 × 3.5–7 mm, yellow, sometimes with a straight red margin on the outside, spotted red on the inside, narrowing abruptly into puberulent tails, 8–33 × 0.5–1 mm; stamens exserted, anther 3.8–4.5 mm long, glabrous; ovary glabrous; style 8–12 mm. Fruit: follicles pendulous, diverging at 45–90°, 9–48 × 0.9–2.5 cm, exocarp fine and breaking slightly, shallowly furrowed, glabrous, scarcely lenticellate. Seed 21–25 × 4 mm, with persistent basal coma and apical coma inserted on the testa, 50–82 mm long; beak 20–30 mm long, entirely pilose. Distribution: Nigeria, Cameroon, Equatorial Guinea, Gabon, Republic of the Congo, Democratic Republic of the Congo and Angola. Cabinda au Gabon, Estuaire, Moyen-Ogooué, Ngounié, Ogooué, Ivindo and Ogooué-Lolo. Ecology: Forest in Gabon, up to 800 m altitude, elsewhere up to 600 m. B: Beentje (1982, 2021). Brass & Woodward 20834; 4: Breyne 3439). Drawing by Henk Beentje, Naturalis Biodiversity Center (©), reproduced from Beentje (1982).
+
 
 ## Species in region
 

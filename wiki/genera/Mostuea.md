@@ -35,30 +35,21 @@ TYPE SPECIES: Mostuea brunonis Didr.
 
 ### KEY TO THE CAMEROONIAN AND GABONESE SPECIES
 
-1. Inflorescence with two large suborbicular bracts covering the calyx .....
-
-1'. Inflorescence with small bracts never covering the calyx.
-
-2. Plant hirsute with stiff erect hairs, especially on small branchlets ..... 1. M. batesii.
-
-2'. Plant pubescent, pilose, or glabrous; hairs never erect.
-
-3. Leaf base distinctly oblique; sepals almost linear, subulate; fruits pale, distinctly nerved ..... 4. M. neurocarpa.
-
-3'. Leaf base not or ⊥ oblique; sepals of variable shape; fruits dark brown or red, not or scarcely distinctly nerved ..... 2. M. brunonis.
-
 ## Key to the species
 
-1. Inflorescence with two large suborbicular bracts covering the calyx .....
 
-1'. Inflorescence with small bracts never covering the calyx.
+**1.** Inflorescence with two large suborbicular bracts covering the calyx ..... ^k1
 
-2. Plant hirsute with stiff erect hairs, especially on small branches ..... 1. M. batesii.
-2'. Plant pubescent, pilose, or glabrous; hairs never erect.
+**1′.** Inflorescence with small bracts never covering the calyx.
 
-3. Leaf base distinctly oblique; sepals almost linear, subulate; fruits pale, distinctly nerved ..... 4. M. neurocarpa.
+**2.** Plant hirsute with stiff erect hairs, especially on small branches → [[Mostuea_batesii\|*M. batesii*]] ^k2
 
-3'. Leaf base not or ⊥ oblique; sepals of variable form; fruits dark brown or red, not or scarcely distinctly nerved ..... 2. M. brunonis.
+**2′.** Plant pubescent, pilose, or glabrous; hairs never erect.
+
+**3.** Leaf base distinctly oblique; sepals almost linear, subulate; fruits pale, distinctly nerved → [[Mostuea_neurocarpa\|*M. neurocarpa*]] ^k3
+
+**3′.** Leaf base not or ⊥ oblique; sepals of variable form; fruits dark brown or red, not or scarcely distinctly nerved → [[Mostuea_brunonis\|*M. brunonis*]]
+
 
 ## Species in region
 

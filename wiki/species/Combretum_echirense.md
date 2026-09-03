@@ -24,7 +24,7 @@ TYPE: Gabon, Rabi-Koungasonta, Échira trail (fl., fr.) Breteler & Jongkind 1015
 
 Large liana. Young branchlets greyish, with a few scattered short hairs.
 
-Leaves opposite; petiole ≤ 5 mm; lamina elliptic, ≤ 13 × ≤ 6 cm, matt, papyraceous to coriaceous, glabrous (except for domatia); major lateral veins 3–6 pairs, often with axillary domatia more or less pocket-shaped; base attenuate; apex rounded to shortly acuminate (Pl. 2, $ B_{1} $, p. 15).
+Leaves opposite; petiole ≤ 5 mm; lamina elliptic, ≤ 13 × ≤ 6 cm, matt, papyraceous to coriaceous, glabrous (except for domatia); major lateral veins 3–6 pairs, often with axillary domatia more or less pocket-shaped; base attenuate; apex rounded to shortly acuminate (Pl. 2, B1, p. 15).
 
 Scales circular, diameter 45–65 µm (Pl. 2 B₂, p. 15).
 

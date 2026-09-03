@@ -22,11 +22,11 @@ tags: [species, generated]
 
 Shrub 3 m tall; floriferous; branches rounded. Leaves coriaceous, glossy above, obscure venation, sessile to subsessile, petiole 1 to 2 mm; blade whitened-acuminate, up to 5 × 10 cm, attenuate at the base and cuneate on the petiole, rounded then abruptly acuminate at the apex, acumen obtuse; midvein softly prominent beneath; 10 to 12 transverse veins only slightly oblique, connected 1 mm from the margin, finely prominent above, not visible beneath; margins sclerotic.
 
-Axillary and terminal cymes, often fascicled 3 to 7 together; 2 cm long; axes strongly compressed, little or not ramified and bearing 3 to 5 flowers at their apex; bracts very caducous. Flower with slender pedicel 6 to 8 mm; floral bud (shortly before anthesis) with conical corolla scarcely prominent; hypantho-calyx campanulate, then calyx spreading; lobes valvate, thick, shorter than the hypanthium, triangular-obtuse, $ 2.5 \times 1.5 $ mm.
+Axillary and terminal cymes, often fascicled 3 to 7 together; 2 cm long; axes strongly compressed, little or not ramified and bearing 3 to 5 flowers at their apex; bracts very caducous. Flower with slender pedicel 6 to 8 mm; floral bud (shortly before anthesis) with conical corolla scarcely prominent; hypantho-calyx campanulate, then calyx spreading; lobes valvate, thick, shorter than the hypanthium, triangular-obtuse, 2.5 × 1.5 mm.
 
 MELASTOMATACEAE
 
-Petals bluish, fleshy, subsagittate-unguiculate, $ 2 \times 3 $ mm. Stamens with conical anther (in profile) $ 1 \times 1.3 $ mm; thecae frontal over their entire height; connective nearly parallel, only thicker towards the base, scarcely saddle-shaped; elliptic gland, equal to 1/4 of the length; filament 3 mm; epigynous chamber deep, septa developed, parietal, thickened at their insertion and reaching the style. Ovary 4-locular, 4-8-ovulate; style 6 mm.
+Petals bluish, fleshy, subsagittate-unguiculate, 2 × 3 mm. Stamens with conical anther (in profile) 1 × 1.3 mm; thecae frontal over their entire height; connective nearly parallel, only thicker towards the base, scarcely saddle-shaped; elliptic gland, equal to 1/4 of the length; filament 3 mm; epigynous chamber deep, septa developed, parietal, thickened at their insertion and reaching the style. Ovary 4-locular, 4-8-ovulate; style 6 mm.
 
 Fruit unknown.
 

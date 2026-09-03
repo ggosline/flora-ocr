@@ -32,101 +32,47 @@ TYPE SPECIES: Microdesmis puberula Hook. f. ex Planchon.
 
 # This genus is distributed from the Philippines to Indonesia and in Africa where 8 species are recorded. Highly allied, they are often difficult to identify.
 
-### KEY TO THE SPECIES
-
-### I. Based on sterile specimens:
-
-1. Branchlets ± strongly pubescent.
-
-2. Petals glabrous within..... 1. M. klainei
-
-3. Pistillode pubescent..... 2. M. pierlotiana
-
-3'. Pistillode glabrous..... 3. M. puberula
-
-1'. Branchlets glabrous or very strongly glabrescent.
-
-4. Petals pubescent or puberulent within..... 4. M. haumaniana
-
-4'. Petals glabrous within..... 5. M. camerunensis
-
-### II. Based on sterile specimens
-
-2. Branchlets glabrous..... 5. M. camerunensis
-
-2'. Branchlets pubescent..... 1. M. klainei
-
-3. 2 styles..... 3. M. puberula
-
-4. Ovary glabrous ..... 4. M. haumaniana
-
-4'. Ovary pubescent..... 2. M. pierlotiana
-
-### III. Based on fruiting specimens:
-
-1. Fruit entirely or partially pubescent or puberulent.
-
-2. Fruit entirely puberulent; diameter of 1–2 cm.
-
-3. Apex of fruit not depressed..... 1. M. ki
-
-3'. Apex of fruit depressed..... 2. M. pierloti
-
-2'. Fruit partially puberulent or pubescent; diameter less than 1 cm.
-
-4. (1–) 2 (–3) locules; apex pubescent..... 3. M. puberula
-
-4'. 3 locules; apex puberulent..... 5. M. camerunensis
-
-1'. Fruit glabrous..... 4. M. haumaniana
-
 ## Key to the species
+
 
 I. Based on the specimens:
 
-1. Branchlets ± strongly pubescent.
+**1.** Branchlets ± strongly pubescent. ^k1
 
-2. Petals glabrous internally..... 1. M. klainei
+**2.** Petals glabrous internally → [[Microdesmis_klainei\|*M. klainei*]] ^k2
 
-3. Pistillode pubescent..... 2. M. pierlotiana
+**3.** Pistillode pubescent → [[Microdesmis_pierlotiana\|*M. pierlotiana*]] ^k3
 
-3'. Pistillode glabrous..... 3. M. puberula
+**3′.** Pistillode glabrous → [[Microdesmis_puberula\|*M. puberula*]]
 
-1'. Branchlets glabrous or very strongly glabrescent.
+**1′.** Branchlets glabrous or very strongly glabrescent.
 
-4. Petals pubescent or puberulent internally..... 4. M. haumaniana
+**4.** Petals pubescent or puberulent internally → [[Microdesmis_haumaniana\|*M. haumaniana*]] ^k4
 
-4'. Petals glabrous internally..... 5. M. camerunensis
+**4′.** Petals glabrous internally → 5. M. camerunensis II. Based on the specimens
 
-II. Based on the specimens
+**2.** Branchlets glabrous → [[Microdesmis_camerunensis\|*M. camerunensis*]]
 
-2. Branchlets glabrous..... 5. M. camerunensis
+**2.** ¹ Branchlets pubescent → [[Microdesmis_klainei\|*M. klainei*]]
 
-2.¹ Branchlets pubescent..... 1. M. klainei
+**3.** 2 styles → [[Microdesmis_puberula\|*M. puberula*]]
 
-3. 2 styles..... 3. M. puberula
+**4.** Ovary glabrous → [[Microdesmis_haumaniana\|*M. haumaniana*]]
 
-4. Ovary glabrous ..... 4. M. haumaniana
+**4′.** Ovary pubescent → 2. M. pierlotiana III. Based on the Fruiting Specimens:
 
-4'. Ovary pubescent..... 2. M. pierlotiana
+**1.** Fruit entirely or partially pubescent or puberulent.
 
-III. Based on the Fruiting Specimens:
+**2.** Fruit entirely puberulent; diameter 1–2 cm.
 
-1. Fruit entirely or partially pubescent or puberulent.
+**3.** Apex of fruit not depressed 1. M. ki ¹. Apex of fruit depressed → 2. M. pierloti Fruit partially puberulent or pubescent; diameter less than 1 cm.
 
-2. Fruit entirely puberulent; diameter 1–2 cm.
+**4.** (1–) 2 (–3) locules; apex pubescent → [[Microdesmis_puberula\|*M. puberula*]]
 
-3. Apex of fruit not depressed..... 1. M. ki
+**4′.** 3 locules; apex puberulent → [[Microdesmis_camerunensis\|*M. camerunensis*]]
 
-¹. Apex of fruit depressed..... 2. M. pierloti
+**1′.** Fruit glabrous → [[Microdesmis_haumaniana\|*M. haumaniana*]]
 
-Fruit partially puberulent or pubescent; diameter less than 1 cm.
-
-4. (1–) 2 (–3) locules; apex pubescent..... 3. M. puberula
-
-4'. 3 locules; apex puberulent..... 5. M. camerunensis
-
-1'. Fruit glabrous..... 4. M. haumaniana
 
 ## Species in region
 

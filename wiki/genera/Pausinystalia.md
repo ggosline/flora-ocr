@@ -35,33 +35,21 @@ One excluded species, P. Talbotii Wernh., is a Corynanthe.
 
 ### KEY TO PAUSINYSTALIA
 
-1. Leaves whorled in 3; inflorescences terminal; axillary domatia absent..... I. P. johimbe.
-
-1'. Leaves in pairs; inflorescences axillary or terminal; domatia present.
-
-2. Sepals rather erect; inflorescences rather dense with multiflorous umbellules; inflorescences always axillary; axillary domatia glabrous.
-
-3. Calyx entirely glabrous..... 2. P. macroceras.
-
-3'. Calyx ± pubescent..... 2 bis P. macroceras v. Bequaertii.
-
-2'. Sepals rather spreading; inflorescences lax with umbellules often pauciflorous; inflorescences often terminal; calyx micropubescent; axillary domatia pubescent at the opening.....
-
----
-
 ## Key to the species
 
-1. Leaves whorled in threes; inflorescences terminal; axillary domatia absent..... I. P. johimbe.
 
-1'. Leaves in pairs; inflorescences axillary or terminal; domatia present.
+**1.** Leaves whorled in threes; inflorescences terminal; axillary domatia absent → I. P. johimbe. ^k1
 
-2. Sepals rather erect; inflorescences rather dense with multiflorous umbellules; inflorescences always axillary; axillary domatia glabrous.
+**1′.** Leaves in pairs; inflorescences axillary or terminal; domatia present.
 
-3. Calyx entirely glabrous..... 2. P. macroceras.
+**2.** Sepals rather erect; inflorescences rather dense with multiflorous umbellules; inflorescences always axillary; axillary domatia glabrous. ^k2
 
-3'. Calyx ± pubescent..... 2 bis P. macroceras v. Bequaertii.
+**3.** Calyx entirely glabrous → [[Pausinystalia_macroceras\|*P. macroceras*]] ^k3
 
-2'. Sepals rather spreading; inflorescences lax with umbellules often pauciflorous; inflorescences often terminal; calyx micropuberulent; axillary domatia pubescent in the opening.....
+**3′.** Calyx ± pubescent → 2 bis P. macroceras v. Bequaertii.
+
+**2′.** Sepals rather spreading; inflorescences lax with umbellules often pauciflorous; inflorescences often terminal; calyx micropuberulent; axillary domatia pubescent in the opening.....
+
 
 ## Species in region
 

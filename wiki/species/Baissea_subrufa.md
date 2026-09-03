@@ -28,7 +28,7 @@ On the interior and with colleters at the base, corolla white to yellow, with cy
 
 ![Baissea subrufa](../sources/Apocynaceae_vol59_liteparse/figures/fig_054_p0059.jpeg)
 
-*Plate 22 : Baissea subrufa 1. Floriferous branch (× 1). – 2. Leaf, detail of the lower surface with domatia (× 2). – 3. Flower (× 8). – 4. Calyx lobe, internal surface with colleters (× 20). – 5. Corolla open, showing stamens and pistil (× 17). – 6. Pistil and stamens (× 17). – 7. Stamen, ventral surface (× 20). – 8.*
+*PL. 22 : Baissea subrufa : 1. Floriferous branch (× 1). – 2. Leaf, detail of the lower surface with domatia (× 2). – 3. Flower (× 8). – 4. Calyx lobe, internal surface with colleters (× 20). – 5. Corolla open, showing stamens and pistil (× 17). – 6. Pistil and stamens (× 17). – 7. Stamen, ventral surface (× 20). – 8.*
 
 ## Notes
 

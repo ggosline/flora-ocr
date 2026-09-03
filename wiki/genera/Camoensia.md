@@ -31,16 +31,13 @@ Genus with two species distributed from south-eastern Nigeria to Gabon and Angol
 
 Bibliography: Lewis et al. (2005), Pellegrin (1949), Toussaint (1953).
 
-### Key to the species
-
-1. - Stipules non-spinose; stipels absent or vestigial as small tufts of hairs; flower with receptacle 8–13 mm in length; calyx with tube 1.7–2.5 cm in length; corolla 4.5–5.5 cm in length ............................................................. C. brevicalyx
-
-- Stipules spinose; stipels present, filiform, (0.3–)0.5–1 cm in length; flower with receptacle 4–11 cm in length; calyx with tube 2.5–5.5(–10) cm in length; corolla 10–16 cm in length ............................................................. C. scandens
-
 ## Key to the species
 
-1. - Stipules non-spiny; stipels absent or vestigial in small tufts of hairs; flower with receptacle 8–13 mm long; calyx with tube 1.7–2.5 cm long; corolla 4.5–5.5 cm long ................................................................... C. brevicalyx
-- Stipules spiny; stipels present, filiform, (0.3–)0.5–1 cm long; flower with receptacle 4–11 cm long; calyx with tube 2.5–5.5(–10) cm long; corolla 10–16 cm long ...................................................................... C. scandens
+
+**1.** Stipules non-spiny; stipels absent or vestigial in small tufts of hairs; flower with receptacle 8–13 mm long; calyx with tube 1.7–2.5 cm long; corolla 4.5–5.5 cm long → [[Camoensia_brevicalyx\|*C. brevicalyx*]] ^k1
+
+**1′.** Stipules spiny; stipels present, filiform, (0.3–)0.5–1 cm long; flower with receptacle 4–11 cm long; calyx with tube 2.5–5.5(–10) cm long; corolla 10–16 cm long → [[Camoensia_scandens\|*C. scandens*]]
+
 
 ## Species in region
 

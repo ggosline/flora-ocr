@@ -32,12 +32,13 @@ Sosef (2015).
 
 ### Key to taxa
 
-1. - Petals entirely yellow ................................................... O. ulvifolia subsp. ulvifolia
-
 ## Key to the species
 
-1. - Petals entirely yellow ................................................... O. ulvifolia subsp . ulvifolia
-- Petals white or white with yellow base ................................. O. ulvifolia subsp . lancifolia
+
+**1.** Petals entirely yellow → O. ulvifolia subsp . ulvifolia ^k1
+
+**1′.** Petals white or white with yellow base → O. ulvifolia subsp . lancifolia
+
 
 ## Species in region
 

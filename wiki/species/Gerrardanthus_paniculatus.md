@@ -42,7 +42,7 @@ Keraudren-Aymonin (1975)
 
 ![Gerrardanthus paniculatus](../sources/Cucurbitaceae_vol57_paddle/figures/fig_049_p0071.png)
 
-*Plate 21. Gerrardanthus paniculatus: 1. Male flowering stem (×½). – 2. Male flower, upper view (×3). – 3. Female flower (×3). – 4. Ovary, longitudinal section showing 2 placental lamellae and 2 ovules (×3). – 5. Idem, transverse section (×3). – 6. Fruit (×½). – 7. Seed (×½). (1-7: Mildbraed 4323). Drawing by F. Bagot, National Museum of Natural History, Paris (©), reproduced with permission from Keraudren (1967).*
+*PL. 21. — Gerrardanthus paniculatus : 1. Male flowering stem (×½). – 2. Male flower, upper view (×3). – 3. Female flower (×3). – 4. Ovary, longitudinal section showing 2 placental lamellae and 2 ovules (×3). – 5. Idem, transverse section (×3). – 6. Fruit (×½). – 7. Seed (×½). (1-7: Mildbraed 4323). Drawing by F. Bagot, National Museum of Natural History, Paris (©), reproduced with permission from Keraudren (1967).*
 
 ## Notes
 

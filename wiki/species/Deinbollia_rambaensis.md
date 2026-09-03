@@ -37,7 +37,7 @@ Le Testu 8608, Ramba, région de Lastoursville (fl., déc.).
 
 Journ. Bot. 66, suppl. Polyp.: 87 (1928); RADLK., in ENGL., Pflanzenreich, Sapindaceae: 1491 (1933).
 
-Arbuste monocaule à folioles moins allongées que dans l'espèce précédente, la longueur étant environ le triple de la largeur. Sépales velus roux à l'extérieur et glabres à l'intérieur; pétales verdâtrés, de  $ 4 \times 2 $ mm.
+Arbuste monocaule à folioles moins allongées que dans l'espèce précédente, la longueur étant environ le triple de la largeur. Sépales velus roux à l'extérieur et glabres à l'intérieur; pétales verdâtrés, de  4 × 2 mm.
 
 ## Discussion
 

@@ -21,25 +21,13 @@ Tree or shrub. Leaves alternate, glabrous and acuminate. Inflorescence formed by
 
 This monotypic genus is endemic to tropical Africa.
 
-### KEY TO VARIETIES
-
-1. Leaves large: 9-20 × 3-7 cm, elliptic to oblong .....
-
-..... L. africana var. africana.
-
-1'. Leaves small: 3.5-8 × 0.9-2 cm, narrowly elliptic .....
-
-..... L. africana var. microphylla.
-
 ## Key to the species
 
-1. Leaves large: 9-20 × 3-7 cm, elliptic to oblong .....
 
-..... L. africana var. africana.
+**1.** Leaves large: 9-20 × 3-7 cm, elliptic to oblong → L. africana var. africana. ^k1
 
-1'. Leaves small: 3.5-8 × 0.9-2 cm, narrowly elliptic .....
+**1′.** Leaves small: 3.5-8 × 0.9-2 cm, narrowly elliptic → L. africana var. microphylla.
 
-..... L. africana var. microphylla.
 
 ## Species in region
 

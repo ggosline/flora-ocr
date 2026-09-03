@@ -89,7 +89,7 @@ FWTA : 491 ; FTEA : 793 ; Gram. Cam. : 474 ; Poac. CI. : 592, 593 ; Gram. CB. : 
 
 Fl. Gab.: 181, Pl. 29; FACB 1: 165, Pl. 13; FWTA: 492, fig. 455; FTEA: 794; Gram. Cam.: 477; Poac. CI.: 596, 597; Gram. CB.: 302.
 
-$ ^{*} $28.9 Hyperrhenia subplumosa Stapf
+*28.9 Hyperrhenia subplumosa Stapf
 
 FWTA : 496 ; FTEA : 818 ; Gram. Cam. : 494 ; Poac. CI. : 608, 609.
 

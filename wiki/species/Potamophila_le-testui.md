@@ -1,7 +1,7 @@
 ---
 type: species
 name: Potamophila le-
-authority: Testui J. Koechlin $ ^{1} $.
+authority: Testui J. Koechlin ¹.
 genus: Potamophila
 family: Gramineae
 vol: 05
@@ -10,7 +10,7 @@ source: sources/Gramineae_vol05_paddle
 habit: "herb"
 tags: [species, generated]
 ---
-# *Potamophila le-* Testui J. Koechlin $ ^{1} $.
+# *Potamophila le-* Testui J. Koechlin ¹.
 
 **Genus**: [[Potamophila]]
 **Family**: [[Gramineae]]

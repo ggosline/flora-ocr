@@ -39,7 +39,7 @@ In the revision of Tabernaemontana (Leeuwenberg 1991) T. crispif lora is treated
 
 ![Tabernaemontana crassa](../sources/Apocynaceae_vol59_liteparse/figures/fig_211_p0242.jpeg)
 
-*Plate 111. Tabernaemontana crassa: 1. Flowering branch (× ½). – 2. Corolla (× ½). – 3. Idem, longitudinal section (× ½). – 4. Calyx lobe, internal face (× 2). – 5. Part of calyx and young pistil (× 1½). – 6.*
+*Plate 111. Tabernaemontana crassa: 1. Flowering branch (× ½). – 2. Corolla (× ½). – 3. Idem, longitudinal section (× ½). – 4. Calyx lobe, internal surface (× 2). – 5. Part of calyx and young pistil (× 1½). – 6.*
 
 ![Tabernaemontana crassa](../sources/Apocynaceae_vol59_liteparse/figures/fig_212_p0243.jpeg)
 

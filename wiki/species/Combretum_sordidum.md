@@ -30,7 +30,7 @@ Scales, diameter 30–45 μm.
 
 Inflorescences: racemes or panicles; rachis velvety 6–27 cm long; inflorescence leaves and axillant leaf pale greenish to white, upper surface dull; bracts scarcely visible.
 
-Flowers 4-merous, sessile, protogynous, fragrant. Receptacle covered with appressed hairs, the lower one 1–1.5 mm high, the upper campanulate, 2.5 mm high, 2 mm wide, greenish; disc hairs exsert. Calyx, lobes triangular. Petals white, glabrous, $ 1 \times 0.7 $ mm. Stamens exsert by 3 mm; filaments white; anthers pale yellow, shortly apiculate. Style exsert by 1 mm.
+Flowers 4-merous, sessile, protogynous, fragrant. Receptacle covered with appressed hairs, the lower one 1–1.5 mm high, the upper campanulate, 2.5 mm high, 2 mm wide, greenish; disc hairs exsert. Calyx, lobes triangular. Petals white, glabrous, 1 × 0.7 mm. Stamens exsert by 3 mm; filaments white; anthers pale yellow, shortly apiculate. Style exsert by 1 mm.
 
 Fruit, diameter 2.5–3.5 cm, glabrous, red, strawberry-coloured, wings finely coriaceous; stipe ≤ 5 mm. – Pl. 24, p. 87.
 

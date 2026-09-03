@@ -31,28 +31,17 @@ B: Bourobou Bourobou et al. (2016), van Valkenburg et al. (2007, 2008).
 
 Bibliography
 
-### Key to species
-
-1. - Mature leaves entire, with deeply bifid apex ........................... S. profiziana
-
-- Mature leaves pinnate, divided into 8 to 40 pairs of leaflets ..................................... 2
-
-2. - Leaflets 8 to 17(–24); inflorescence rachis 3–6 cm; < 17 fruits per infructescence
-
-............................................................................................................................ S. mannii
-
-- Leaflets (20–)25 to 40; inflorescence rachis 7–11 cm; up to 30 fruits per
-
-infructescence ..................................................................................................... S. walkeri
-
 ## Key to the species
 
-1. - Mature leaves entire, with deeply bifid apex ........................... S. profiziana
-- Mature leaves pinnate, divided into 8 to 40 pairs of leaflets ..................................... 2
-2. - Leaflets 8 to 17(–24) ; inflorescence rachis 3–6 cm ; < 17 fruits per infructescence
-............................................................................................................................ S. mannii
-- Leaflets (20–)25 to 40 ; inflorescence rachis 7–11 cm ; up to 30 fruits per
-infructescence ..................................................................................................... S. walkeri
+
+**1.** Mature leaves entire, with deeply bifid apex → [[Sclerosperma_profiziana\|*S. profiziana*]] ^k1
+
+**1′.** Mature leaves pinnate, divided into 8 to 40 pairs of leaflets → [[#^k2|2]]
+
+**2.** Leaflets 8 to 17(–24) ; inflorescence rachis 3–6 cm ; < 17 fruits per infructescence → [[Sclerosperma_mannii\|*S. mannii*]] ^k2
+
+**2′.** Leaflets (20–)25 to 40 ; inflorescence rachis 7–11 cm ; up to 30 fruits per infructescence → [[Sclerosperma_walkeri\|*S. walkeri*]]
+
 
 ## Species in region
 

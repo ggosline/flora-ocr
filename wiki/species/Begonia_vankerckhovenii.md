@@ -37,7 +37,7 @@ National Herbarium of the Netherlands – Wageningen branch.
 
 ![Begonia vankerckhovenii](../sources/Begoniaceae_vol39_liteparse/figures/fig_046_p0067.png)
 
-*Plate 31. Begonia vankerckhovenii : 1. Flowering plant (× ¾). – 2. ♂ Flower (× 2). – 3. ♀ Flower (× 2). – 4. Fruit (× 2). (1-4 : Arends, Louis & de Wilde 699 ) . Drawing by W W , National Herbarium-*
+*PL. XXXI. — Begonia vankerckhovenii: 1. Flowering plant (× ¾). – 2. ♂ Flower (× 2). – 3. ♀ Flower (× 2). – 4. Fruit (× 2). (1-4: Arends, Louis & de Wilde 699). Drawing by W W, National Herbarium-*
 
 ## Notes
 

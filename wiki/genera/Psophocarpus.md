@@ -25,22 +25,17 @@ Notes: This genus is divided into two subgenera (subg. Psophocarpus and subg. Vi
 
 B: Grubben (2004), Lewis et al. (2005), Pellegrin (1949), Verdcourt (1968, 1971c), Verdcourt & Halliday (1978), Wilczek (1954).
 
-### Key to species
-
-1. - Peduncle 5–15 cm long; pod 12–20(–25) × 4–6 cm, with denticulate wings; seeds 5 to 21, of variable colour, glabrous; cultivated plant .... P. tetragonolobus (L.) DC.
-
-- Peduncle 3–40 cm long; pod 2–6 × 1.5 cm, with entire wings; seeds 3 to 8, with brown pilose hairs; spontaneous plants ................................................................................. 2
-
-2. - Leaflets with elliptic-oval to slightly rhomboidal or sometimes ± trilobate blade, the terminal one longer than wide, generally pubescent below; bracteoles much shorter than the calyx, 5–6.5 × 4–5 mm, with dense pubescence; pod 2.3–5.5 cm long; seeds 3 to 5 ................................................................................... P. palustris
-
-- Leaflets with oval-rhomboidal to rounded triangular, sometimes ± trilobate blade, the terminal
-
 ## Key to the species
 
-1. - Peduncle 5–15 cm in length; pod 12–20(–25) × 4–6 cm, with dentate wings; seeds 5 to 21, of variable color, glabrous; cultivated plant .... P. tetragonolobus (L.) DC.
-- Peduncle 3–40 cm in length; pod 2–6 × 1.5 cm, with entire wings; seeds 3 to 8, with brown pubescence; spontaneous plants ................................................................................. 2
-2. - Leaflets with elliptic-ovate to slightly rhomboidal or sometimes ± trilobed blade, the terminal one longer than broad, generally pubescent beneath; bracteoles much shorter than the calyx, 5–6.5 × 4–5 mm, with dense pubescence; pod 2.3–5.5 cm in length; seeds 3 to 5 ................................................................................... P. palustris
-- Leaflets with ovate-rhomboidal to rounded triangular blade, sometimes ± trilobed, the terminal one with truncate base, generally glabrous beneath; bracteoles as long as or longer than the calyx, 10–14 × 5–7 mm, glabrous or slightly pubescent; pod 3.5–8 cm in length; seeds 4 to 8 ............................................................................. P. scandens
+
+**1.** Peduncle 5–15 cm in length; pod 12–20(–25) × 4–6 cm, with dentate wings; seeds 5 to 21, of variable color, glabrous; cultivated plant → P. tetragonolobus (L.) DC. ^k1
+
+**1′.** Peduncle 3–40 cm in length; pod 2–6 × 1.5 cm, with entire wings; seeds 3 to 8, with brown pubescence; spontaneous plants → [[#^k2|2]]
+
+**2.** Leaflets with elliptic-ovate to slightly rhomboidal or sometimes ± trilobed blade, the terminal one longer than broad, generally pubescent beneath; bracteoles much shorter than the calyx, 5–6.5 × 4–5 mm, with dense pubescence; pod 2.3–5.5 cm in length; seeds 3 to 5 → [[Psophocarpus_palustris\|*P. palustris*]] ^k2
+
+**2′.** Leaflets with ovate-rhomboidal to rounded triangular blade, sometimes ± trilobed, the terminal one with truncate base, generally glabrous beneath; bracteoles as long as or longer than the calyx, 10–14 × 5–7 mm, glabrous or slightly pubescent; pod 3.5–8 cm in length; seeds 4 to 8 → [[Psophocarpus_scandens\|*P. scandens*]]
+
 
 ## Species in region
 

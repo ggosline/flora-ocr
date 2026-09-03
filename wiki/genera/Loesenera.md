@@ -24,15 +24,11 @@ Type species: L. kalantha Harms from Liberia.
 
 Læsenera are shrubs or small trees, often of marshy soils, sometimes remarkable for beautiful clusters of pink flowers. 4 species have been described, including one from southern Nigeria, L. Talbotii Bak. f. and 2 others from Gabon.
 
-1. Leaves with 1 pair of leaflets..... 1. L. gabonensis.
-
-1' Leaves with 4-5 pairs of leaflets ..... 2. L. Walkeri.
-
 ## Key to the species
 
-1. Leaves with 1 pair of leaflets..... 1. L. gabonensis.
 
-1' Leaves with 4-5 pairs of leaflets ..... 2. L. Walkeri.
+**1.** Leaves with 1 pair of leaflets 1. L. gabonensis. 1' Leaves with 4-5 pairs of leaflets → 2. L. Walkeri. ^k1
+
 
 ## Species in region
 

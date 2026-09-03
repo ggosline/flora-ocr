@@ -23,7 +23,7 @@ Small monoecious undershrubs with rhizomatous stems and small leafy branches asc
 
 Inflorescences solitary or grouped on short branches in the leaf axils, bisexual, cupuliform to infundibuliform, pedunculate, with 4 reniform bracts, imbricate on the receptacle margin. Flowers numerous, in several rows, partly in small groups, pedicellate; perianth tubular, (3-) 4 (-5) -lobed to (3-) 4 (-5)-fid; stamens 1, 2 (3) straight before anthesis, with narrow anthers, latrorsal, pistillode absent. ♀ Flowers solitary at the centre of the receptacle, free; perianth with 2 (3) free tepals or 4 connate; ovary free; stigmas 2.
 
-Fruit $ ^{1} $ not united with the enlarged green perianth; exocarp white, fleshy, dehiscent, ejecting the stone; endocarp thin. Testa fine with a thickened suborbicular part, vascularized under a small hilum; cotyledons (sub) equal, thick and united; radicle subapical and short.
+Fruit ¹ not united with the enlarged green perianth; exocarp white, fleshy, dehiscent, ejecting the stone; endocarp thin. Testa fine with a thickened suborbicular part, vascularized under a small hilum; cotyledons (sub) equal, thick and united; radicle subapical and short.
 
 TYPE SPECIES: Scyphosyce manniana Baill.
 

@@ -37,7 +37,7 @@ from Cameroon to Uganda and Angola; in Gabon: Ngounié, Nyanga and Ogooué-Lolo.
 
 ![Oncinotis hirta](../sources/Apocynaceae_vol59_liteparse/figures/fig_150_p0177.jpeg)
 
-*Plate 82 . Oncinotis hirta : 1. Flowering branch (× ⅔). – 2. Detail of branch (× ⅔). – 3. Detail of leaf blade, lower surface (× 4). – 4. Hairs of the leaf (× 25). – 5. Base of blade, with colleters, upper surface (× 4). – 6. Flower (× 6). – 7. Idem, with corolla tube in longitudinal section, showing two stamens and the pistil, calyx and part of the corolla removed (× 12). – 8. Stamen, ventral surface (× 12). – 9.*
+*Plate 82. Oncinotis hirta: 1. Flowering branch (× ⅔). – 2. Detail of branch (× ⅔). – 3. Detail of leaf blade, lower surface (× 4). – 4. Hairs of the leaf (× 25). – 5. Base of blade, with colleters, upper surface (× 4). – 6. Flower (× 6). – 7. Idem, with corolla tube in longitudinal section, showing two stamens and the pistil, calyx and part of the corolla removed (× 12). – 8. Stamen, ventral surface (× 12). – 9.*
 
 ## Notes
 

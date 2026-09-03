@@ -25,7 +25,7 @@ tags: [species, generated]
 
 J. Koechlin comb. nov. (Pl. XXVII)
 
-Branched herbs. Leaves homotropous with glabrous laminae, abruptly narrowed at the apex into a narrow acumen. Variable in size, reaching $ 30 \times 15 $ cm. Lower surface often tinged with violet. Callus and non-callous part of the petiole reaching respectively $ \pm 1 $ and $ 4 $ cm.
+Branched herbs. Leaves homotropous with glabrous laminae, abruptly narrowed at the apex into a narrow acumen. Variable in size, reaching 30 × 15 cm. Lower surface often tinged with violet. Callus and non-callous part of the petiole reaching respectively ± 1 and 4 cm.
 
 Inflorescences in dense racemes, simple or sometimes bifurcate at the base, 5–15 cm long, shortly pedunculate; abaxial bracts rose-violet, 30–35 × 8–10 mm, imbricate, each extending to two-thirds the length of the following bract. Common peduncle of the flowers short, less than 1 cm long, pedicel of the terminal flower of similar length. Sepals scarious, up to 10 mm long and more, corolla longly tubular (tube approximately 1 cm), white. Staminodes yellow. Ovary pubescent, as well as the fruit, at least when young. Capsule approximately 7 mm in diameter; seeds with laciniate aril.
 

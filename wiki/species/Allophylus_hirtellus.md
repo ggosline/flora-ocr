@@ -24,7 +24,7 @@ in ENGL. & PRANTL, Nat. Pflanzenfam., ed. 1, (5) : 312 (1895).
 
 — Schmidelia monophylla auct., non PESL : Hook. F., in Hook., Niger Fl. : 248 (1849).
 
-Petiole 2 cm; nerves terminating in a mucro of 0.1 mm at the apex of the teeth (1 mm); blade $ 16 \times 5 $ cm, dark and shiny above, paler below, with fairly numerous domatia.
+Petiole 2 cm; nerves terminating in a mucro of 0.1 mm at the apex of the teeth (1 mm); blade 16 × 5 cm, dark and shiny above, paler below, with fairly numerous domatia.
 
 The stipitate cymules (1 mm) are crowded (8 per cm); they are formed of about 4 flowers; buds 1.5 mm wide, hairs fine and short, rare (0.1 mm); pedicels 1 mm, articulate in the lower quarter; sepals 1-2 nerved; petals bearded; stamens with pilose filaments. Fruit with cocci 8 × 6 mm. PL. 6, 8-12, p. 39.
 

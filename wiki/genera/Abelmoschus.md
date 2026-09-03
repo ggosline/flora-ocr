@@ -23,16 +23,13 @@ Genus with 15 species, close to – and in the past often united with – Hibisc
 
 B: Bayer & Kubitzki (2003), Hauman (1963), Siemonsma (1991), Siemonsma & Kouamé (2004), Verdcourt (2009).
 
-### Key to species
-
-1. - Epicalyx (calyculus) segments 5–10, oval to oblong, 4–13 mm wide; fruit ovoid to cylindric ............................................................................ A. caillei
-
-- Epicalyx segments 7–18, filiform to linear, 0.5–3 mm wide; fruit cylindric to pyramidal ....................................................................... A. esculentus
-
 ## Key to the species
 
-1. - Epicalyx (calyculus) segments 5–10, ovate to oblong, 4–13 mm wide; fruit ovoid to cylindric ............................................................................ A. caillei
-- Epicalyx segments 7–18, filiform to linear, 0.5–3 mm wide; fruit cylindric to pyramidal ....................................................................... A. esculentus
+
+**1.** Epicalyx (calyculus) segments 5–10, ovate to oblong, 4–13 mm wide; fruit ovoid to cylindric → [[Abelmoschus_caillei\|*A. caillei*]] ^k1
+
+**1′.** Epicalyx segments 7–18, filiform to linear, 0.5–3 mm wide; fruit cylindric to pyramidal → [[Abelmoschus_esculentus\|*A. esculentus*]]
+
 
 ## Species in region
 

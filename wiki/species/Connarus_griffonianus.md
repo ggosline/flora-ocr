@@ -61,9 +61,9 @@ Inflorescences in panicles ≤35 cm long, ≤50-flowered, dense brown pubescence
 
 Flowers. Sepals often fairly distinctly arranged in spiral, valvate in prefloration, triangular to ovate, somewhat fleshy, (1.7-)2-2.5-(3) × 0.7-1.2 mm, acute or obtuse at the apex, ± convex, external brown pubescence, interior glabrous, punctate with ≤15 glands and ≤3-nerved. Petals free, imbricate in prefloration, narrowly elliptic to narrowly obovate, 4.5-6.5 × 1-1.5 mm, cuneate at the base, obtuse or rounded at the apex, dense external pubescence, interior with few glandular hairs or sometimes glabrous, generally punctate with glands near the apex, indistinctly ≤5-nerved. Stamens 0.5-1 mm, united at the base; long stamens 2-3 mm or 4.2-6 mm, filaments most often with stipitate glands, anthers 0.3 × 0.2 mm, generally without glands; short stamens 1-1.7 mm, rudimentary and sterile with slender filaments and very small anthers, exceptionally apparently fertile, without glands. Pistil 2.1-2.8 mm or 4.2-6 mm long ; ovary 1-1.5 mm long, brown pubescence ; style pubescent at the base and with stipitate glands ; stigmas oblique, ± 2-lobed.
 
-Fruit : oblique-pyriform follicle, compressed, $ 1.5-2.5 \times 1.3-1.8 $ cm, stipe 2-4 mm long, apex with a lateral mucro 1 mm long ; pericarp thin, surface with brown pubescence but often glabrescens, interior with few hairs and numerous glands.
+Fruit : oblique-pyriform follicle, compressed, 1.5-2.5 × 1.3-1.8 cm, stipe 2-4 mm long, apex with a lateral mucro 1 mm long ; pericarp thin, surface with brown pubescence but often glabrescens, interior with few hairs and numerous glands.
 
-Seed (narrowly) ovoid, $ 10-15 \times 4-7 \times 4-6 $ mm, sarcotesta 5-7 mm long enveloping the basal part of the seed only on the ventral side ; radical apical. – Pl. 23, p. 77.
+Seed (narrowly) ovoid, 10-15 × 4-7 × 4-6 mm, sarcotesta 5-7 mm long enveloping the basal part of the seed only on the ventral side ; radical apical. – Pl. 23, p. 77.
 
 ## Type
 

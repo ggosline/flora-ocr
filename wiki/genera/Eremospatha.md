@@ -27,38 +27,37 @@ Bibliography
 
 Bourobou et al. (2016), Dransfield (1986, 2010), Dransfield et al. (2008), Faye et al. (2014), Sunderland (2007, 2012).
 
-### Key to the species
-
-1. - Leaflets irregularly distributed along the rachis, grouped by 2 or 3 ........................................................................................................... E. quinquecostulata
-
-- Leaflets regularly distributed along the rachis, solitary ...................................... 2
-
-2. - Knee clearly present below the insertion of the petiole ...................................... 3
-
-- Knee absent .................................................................................................................. 6
-
-3. - Ochrea V-shaped, splitting longitudinally; leaflets rhomboidal to trapezoidal .......................................................................................... E. wendlandiana
-
 ## Key to the species
 
-1. - Leaflets irregularly distributed along the rachis, grouped by 2 or 3
-........................................................................................................... E. quinquecostulata
-- Leaflets regularly distributed along the rachis, solitary ...................................... 2
-2. - Knee clearly present below the petiole insertion ...................................... 3
-- Knee absent .................................................................................................................. 6
-3. - Ochrea V-shaped, splitting longitudinally; leaflets rhomboidal to
-trapezoidal .......................................................................................... E. wendlandiana
-- Ochrea entire, with horizontal or oblique apex ............................................................ 4
-4. - Leaflets fewer than 20 pairs; cirrhus with small spines ........................................... 5
-- Leaflets more than 20 pairs; cirrhus without spines ................................................ E. laurentii
-5. - Leaflets obovate-elliptic; inflorescence glabrous ......................................... E. hookeri
-- Leaflets obovate to suborbicular; inflorescence with dense brown pubescence
-........................................................................................................................... E. cabrae
-6. - Leaflets with apex narrowly and broadly premorse (as if cut with
-teeth) ........................................................................................................................ 7
-- Leaflets with entire, apiculate apex ................................................................. E. cuspidata
-7. - Cirrhus with small spines ............................................................... E. haullevilleana
-- Cirrhus without spines ..................................................................................... E. macrocarpa
+
+**1.** Leaflets irregularly distributed along the rachis, grouped by 2 or 3 → [[Eremospatha_quinquecostulata\|*E. quinquecostulata*]] ^k1
+
+**1′.** Leaflets regularly distributed along the rachis, solitary → [[#^k2|2]]
+
+**2.** Knee clearly present below the petiole insertion → [[#^k3|3]] ^k2
+
+**2′.** Knee absent → [[#^k6|6]]
+
+**3.** Ochrea V-shaped, splitting longitudinally; leaflets rhomboidal to trapezoidal → [[Eremospatha_wendlandiana\|*E. wendlandiana*]] ^k3
+
+**3′.** Ochrea entire, with horizontal or oblique apex → [[#^k4|4]]
+
+**4.** Leaflets fewer than 20 pairs; cirrhus with small spines → [[#^k5|5]] ^k4
+
+**4′.** Leaflets more than 20 pairs; cirrhus without spines → [[Eremospatha_laurentii\|*E. laurentii*]]
+
+**5.** Leaflets obovate-elliptic; inflorescence glabrous → [[Eremospatha_hookeri\|*E. hookeri*]] ^k5
+
+**5′.** Leaflets obovate to suborbicular; inflorescence with dense brown pubescence → [[Eremospatha_cabrae\|*E. cabrae*]]
+
+**6.** Leaflets with apex narrowly and broadly premorse (as if cut with teeth) → [[#^k7|7]] ^k6
+
+**6′.** Leaflets with entire, apiculate apex → [[Eremospatha_cuspidata\|*E. cuspidata*]]
+
+**7.** Cirrhus with small spines → [[Eremospatha_haullevilleana\|*E. haullevilleana*]] ^k7
+
+**7′.** Cirrhus without spines → [[Eremospatha_macrocarpa\|*E. macrocarpa*]]
+
 
 ## Species in region
 

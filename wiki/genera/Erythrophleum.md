@@ -28,25 +28,17 @@ Palaeotropical genus; common to Africa, Madagascar (E. couminga Baill.), Asia an
 
 E. africanum and typical E. suaveolens do not occur in Gabon. E. suaveolens is present in the peripheral parts of dense forest. In Gabon there exists a transitional form with small leaflets ± rounded at the base, with pubescent midrib beneath. By its form it appears to us closer to E. ivorense than to E. suaveolens. E. ivorense is generally a very large tree, E. suaveolens is a tree which can reach a large diameter, but of squat form. The separation between these two latter species is sometimes difficult; intermediate forms exist. It is rather a matter of ecophyletic species or varieties of a single species. Nevertheless we shall retain here both of them, traditionally maintained as separate by all botanists.
 
-1. Leaflets obtuse or rounded or slightly emarginate at the apex, not acuminate; wooded savannas and clear sudano-zambezian forests ..... E. africanum.
-
----
-
-1'. Leaflets acuminate.
-
-2. Ovate-oblong, ordinarily obtuse at the base; flowers subsessile; petals densely hairy externally; humid evergreen and semi-deciduous dense forest ..... E. ivorense.
-
-2'. Broadly ovate rounded at the base; flowers distinctly pedicellate; petals pubescent on the margins and on the midrib; margins of humid dense forest, forest galleries and dense dry forests ..... E. suaveolens.
-
 ## Key to the species
 
-1. Leaflets obtuse or rounded or slightly emarginate at the apex, not acuminate; wooded savannas and open Sudano-Zambezian forests ..... E. africanum.
 
-1'. Leaflets acuminate.
+**1.** Leaflets obtuse or rounded or slightly emarginate at the apex, not acuminate; wooded savannas and open Sudano-Zambezian forests → *E. africanum* ^k1
 
-2. Ovate-oblong, ordinarily obtuse at the base; flowers subsessile; petals densely villous externally; humid evergreen and semi-deciduous dense forest ..... E. ivorense.
+**1′.** Leaflets acuminate.
 
-2'. Broadly ovate rounded at the base; flowers distinctly pedicellate; petals pubescent on the margins and on the midvein; edges of humid dense forest, forest galleries and dense dry forests ..... E. suaveolens.
+**2.** Ovate-oblong, ordinarily obtuse at the base; flowers subsessile; petals densely villous externally; humid evergreen and semi-deciduous dense forest → [[Erythrophleum_ivorense\|*E. ivorense*]] ^k2
+
+**2′.** Broadly ovate rounded at the base; flowers distinctly pedicellate; petals pubescent on the margins and on the midvein; edges of humid dense forest, forest galleries and dense dry forests → *E. suaveolens*
+
 
 ## Species in region
 

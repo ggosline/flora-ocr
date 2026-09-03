@@ -25,37 +25,33 @@ Bibliography
 
 B: Bernardi (2000), Chodat (1896), Keay & Taylor (1954), Levyns (1987), Paiva (1998).
 
-Key to species
-
-1. - Lower outer sepals connate at least on the half, generally almost to the apex; fertile stamens 8 or 6 and 2 sterile ............................ 2
-
-- Lower outer sepals free or only weakly connate; fertile stamens 8 .................................................................................................................. 3
-
-2. - Shrub, rarely perennial herb; winged sepals caducous in the fruit; flowers in terminal racemes; fertile stamens 6 and 2 sterile ........................ P. acicularis
-
-- Annual herb; winged sepals persistent in the fruit; flowers generally in axillary racemes; fertile stamens 8 .................................................. P. gilletiana
-
-3. - Bracts and bracteoles caducous; seed without caruncle or with a strongly reduced caruncle (generally to membranous appendages); capsule narrowly ovoid or ellipsoid to subglobose, not winged .................................. 4
-
 ## Key to the species
 
-1. - Lower outer sepals fused at least halfway, generally almost to the apex; fertile stamens 8 or 6 and 2 sterile ............................ 2
-- Lower outer sepals free or only weakly fused; fertile stamens 8 .................................................................................................................. 3
-2. - Shrublet, rarely perennial herb; winged sepals caducous in the fruit; flowers in terminal racemes; fertile stamens 6 and 2 sterile ........................ P. acicularis
-- Annual herb; winged sepals persistent in the fruit; flowers generally in axillary racemes; fertile stamens 8 .................................................. P. gilletiana
-3. - Bracts and bracteoles caducous; seed without a caruncle or with a strongly reduced caruncle (generally to membranous appendages); capsule narrowly ovoid or ellipsoid to subglobose, wingless .................................. 4
-- Bracts and bracteoles persistent; seed with a distinct caruncle; capsule flattened, ovoid or ellipsoid, winged .......................................................................... 5
-4. - Stem glabrous; seeds fusiform, with dense appressed pubescence, hairs covering the base of the seeds; capsule narrowly ovoid, acute ................................ P. lecardii
-- Stem glabrous or with a few sessile glands; seed ellipsoid, with minute white appressed pubescence, hairs not covering the base of the seeds; capsule ellipsoid to subglobose .................................................................... P. capillaris
 
----
+**1.** Lower outer sepals fused at least halfway, generally almost to the apex; fertile stamens 8 or 6 and 2 sterile → [[#^k2|2]] ^k1
 
-5. - Herb with sympodial growth, secondary flowering axes exceeding the terminal primary racemes .................................................................................. 6
-- Herb non- or weakly branched .................................................... P. ganguelensis
-6. - Dwarf herb, 3–9 cm; capsule not ciliate; winged sepals 2–3 mm long
-.............................................................................................................. P. welwitschii
-- Erect herb, 5–40 cm; capsule ciliate; winged sepals (4–)5–7 mm long
-.................................................................................................................. P. arenaria
+**1′.** Lower outer sepals free or only weakly fused; fertile stamens 8 → [[#^k3|3]]
+
+**2.** Shrublet, rarely perennial herb; winged sepals caducous in the fruit; flowers in terminal racemes; fertile stamens 6 and 2 sterile → [[Polygala_acicularis\|*P. acicularis*]] ^k2
+
+**2′.** Annual herb; winged sepals persistent in the fruit; flowers generally in axillary racemes; fertile stamens 8 → [[Polygala_gilletiana\|*P. gilletiana*]]
+
+**3.** Bracts and bracteoles caducous; seed without a caruncle or with a strongly reduced caruncle (generally to membranous appendages); capsule narrowly ovoid or ellipsoid to subglobose, wingless → [[#^k4|4]] ^k3
+
+**3′.** Bracts and bracteoles persistent; seed with a distinct caruncle; capsule flattened, ovoid or ellipsoid, winged → [[#^k5|5]]
+
+**4.** Stem glabrous; seeds fusiform, with dense appressed pubescence, hairs covering the base of the seeds; capsule narrowly ovoid, acute → [[Polygala_lecardii\|*P. lecardii*]] ^k4
+
+**4′.** Stem glabrous or with a few sessile glands; seed ellipsoid, with minute white appressed pubescence, hairs not covering the base of the seeds; capsule ellipsoid to subglobose → [[Polygala_capillaris\|*P. capillaris*]]
+
+**5.** Herb with sympodial growth, secondary flowering axes exceeding the terminal primary racemes → [[#^k6|6]] ^k5
+
+**5′.** Herb non- or weakly branched → [[Polygala_ganguelensis\|*P. ganguelensis*]]
+
+**6.** Dwarf herb, 3–9 cm; capsule not ciliate; winged sepals 2–3 mm long → [[Polygala_welwitschii\|*P. welwitschii*]] ^k6
+
+**6′.** Erect herb, 5–40 cm; capsule ciliate; winged sepals (4–)5–7 mm long → [[Polygala_arenaria\|*P. arenaria*]]
+
 
 ## Species in region
 

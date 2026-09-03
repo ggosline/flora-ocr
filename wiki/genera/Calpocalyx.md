@@ -27,47 +27,29 @@ TYPE SPECIES: C. dinklagei (Taub.) Harms.
 
 The genus Calpocalyx comprises 10 species, all African. Two (C. brevibracteatus and C. aubrevillei) are limited to the West African forest massif. The others are found from Nigeria to Congo. Six species are present in Gabon.
 
-1. Petiole glabrous (or a few hairs on the adaxial face)..... 1. C. dinklagei.
-
-1'. Petiole pubescent or puberulent.
-
-2. Petiolar gland prominent; inflorescence in spike.
-
-3. Pinnae axis 12-57 cm long; leaflet generally long-acuminate; pubescence ± abundant on the petiole and axes of the pinnae; calyx glabrous except at the apex ..... 2. C. heitzii.
-
-3. Pinnae axis 5-9.5 cm long; leaflet shortly broadly acuminate; pubescence scattered on the petiole and axes of the pinnae; calyx pubescent ..... 3. C. brevifolius.
-
-2'. Petiolar gland not prominent; inflorescence often in panicle.
-
-4. Limb glabrous beneath ..... 4. C. klainet.
-
-4'. Limb pubescent beneath.
-
-5. Leaflet broadly elliptic, little or not acuminate ..... 5. C. letestui.
-
-5'. Leaflet elliptic to lanceolate, distinctly acuminate . 6. C. ngouniensis.
-
 ## Key to the species
 
-1. Petiole glabrous (or with a few hairs on the adaxial surface)..... 1. C. dinklagei.
 
-1'. Petiole pubescent or puberulent.
+**1.** Petiole glabrous (or with a few hairs on the adaxial surface) → [[Calpocalyx_dinklagei\|*C. dinklagei*]] ^k1
 
-2. Petiolar gland prominent, inflorescence spicate.
+**1′.** Petiole pubescent or puberulent.
 
-3. Rachis of the pinna 12–57 cm long; leaflet generally long-acuminate; pubescence ± abundant on the petiole and rachises of the pinnae; calyx glabrous except at the apex ..... 2. C. heitzii.
+**2.** Petiolar gland prominent, inflorescence spicate. ^k2
 
-3'. Rachis of the pinna 5–9.5 cm long; leaflet shortly broadly acuminate; pubescence sparse on the petiole and rachises of the pinnae; calyx pubescent ..... 3. C. brevifolius.
+**3.** Rachis of the pinna 12–57 cm long; leaflet generally long-acuminate; pubescence ± abundant on the petiole and rachises of the pinnae; calyx glabrous except at the apex → [[Calpocalyx_heitzii\|*C. heitzii*]] ^k3
 
-2'. Petiolar gland not prominent; inflorescence often paniculate.
+**3′.** Rachis of the pinna 5–9.5 cm long; leaflet shortly broadly acuminate; pubescence sparse on the petiole and rachises of the pinnae; calyx pubescent → [[Calpocalyx_brevifolius\|*C. brevifolius*]]
 
-4. Blade glabrous beneath ..... 4. C. klainet.
+**2′.** Petiolar gland not prominent; inflorescence often paniculate.
 
-4'. Blade pubescent beneath.
+**4.** Blade glabrous beneath → *C. klainet* ^k4
 
-5. Leaflet broadly elliptic, little or not acuminate ..... 5. C. letestui.
+**4′.** Blade pubescent beneath.
 
-5'. Leaflet elliptic to lanceolate, distinctly acuminate ..... 6. C. ngouniensis.
+**5.** Leaflet broadly elliptic, little or not acuminate → [[Calpocalyx_letestui\|*C. letestui*]] ^k5
+
+**5′.** Leaflet elliptic to lanceolate, distinctly acuminate → [[Calpocalyx_ngouniensis\|*C. ngouniensis*]]
+
 
 ## Species in region
 

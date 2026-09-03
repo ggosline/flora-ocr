@@ -29,6 +29,14 @@ Type species: Justicia adhatoda L., described from India ≡ Adhatoda vasica Nee
 
 Note. — This genus from the tropics of both hemispheres is very close to Justicia L.; it comprises 12–15 species, robust shrubs, reaching 4 m in height, with large leaves more or less coriaceous, and ovaries more or less pubescent. Although this group of Justicioid seems relatively well delimited and natural, it is only the character of the anthers, muticous non-superposed lobes, which can be used to separate it from Justicia L. As this character presents only fairly weak taxonomic value, it must be admitted here that the separation between Justicia L. and Adhatoda Mill. appears artificial and debatable. Lindau had placed most of the species of Adhatoda Mill. in his "Sect. V. Vasica Lindau" of Justicia L. (in Engler et Prantl. Nat. Pflanzenfam. IV 3B: 349, 1895); other species with some taxa considered by C. B. Clarke as belonging to Justicia L., were placed by Lindau (l.c.: 339, 1895) in the genus Duvernoia E. Mey. ex Nees. The separation of the genera Justicia L. and Adhatoda Mill., as well as the position of the latter with respect to the genus Duvernoia E. Mey. ex Nees (1847), treated here as congeneric, was discussed by C. B. Clarke (F.T.A. 5: 221, 1900, and Fl. Capensis 5: 76, 1901). In the delimitation of the genus Adhatoda Mill. of C. B. Clarke (which differs greatly from the original delimitation proposed by G. Chr. Nees von Esenbeck in Wallich, Pl. As. rar. 3: 76, 102, 1832), the species of Africa placed by Lindau in his section Vasica of Justicia L., are found dispersed in the genera Justicia (sensu C. B. Clarke), Adhatoda (Justicia Adhatoda L. = Adhatoda vasica Nees) and Rungia (example: R. Paxiana (Lindau) C. B. Clarke). See also Adhatoda Le-Testui (R. Benoist) Heine, note p. 184.
 
+## Key to the species
+
+
+**1′.** Inflorescence imbricate, spike-like, simple and uninterrupted up to 16 cm long; long peduncle reaching 18 cm.....
+
+**5.** A. Le-Testui. ^k5
+
+
 ## Species in region
 
 | Species | Vol | Pages |
@@ -41,9 +49,11 @@ Note. — This genus from the tropics of both hemispheres is very close to Justi
 
 ## Keyed but not treated
 
+
 The source key separates these species but the volume gives them no treatment, usually because they fall outside the area it covers in full. They are listed for identification; some are extralimital to the region.
 
-- *Adhatoda le-testui* — keyed in vol 13, not treated
+**—** *Adhatoda le-testui* — keyed in vol 13, not treated
+
 
 ## Treatments
 

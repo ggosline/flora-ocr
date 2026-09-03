@@ -48,11 +48,15 @@ Genus exclusively tropical African (Madagascar included); more than forty specie
 
 ## Keyed but not treated
 
+
 The source key separates these species but the volume gives them no treatment, usually because they fall outside the area it covers in full. They are listed for identification; some are extralimital to the region.
 
-- *Deinbollia gossweileri* — keyed in vol 23, not treated
-- *Deinbollia pynaertii* — keyed in vol 23, not treated
-- *Deinbollia ramba* — keyed in vol 23, not treated
+**—** *Deinbollia gossweileri* — keyed in vol 23, not treated
+
+**—** *Deinbollia pynaertii* — keyed in vol 23, not treated
+
+**—** *Deinbollia ramba* — keyed in vol 23, not treated
+
 
 ## Treatments
 

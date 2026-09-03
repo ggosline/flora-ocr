@@ -21,9 +21,11 @@ Stem elongated. Leaves twisted at the base to lie in the same plane, fleshy, une
 
 Genus of two species widely distributed in tropical Africa, extending to Zimbabwe.
 
-1. Inflorescence dense, rachis straight, bracts imbricate, labellum entire, subquadrate, truncate at the apex briefly apiculate ..... 43. 2. C. emarginatum
+## Key to the species
 
-1'. Inflorescence lax, rachis zigzag, bracts spaced, labellum trilobed, the median lobe more or less divided at the apex ..... 43. 1. C. christyanum
+
+**1′.** Inflorescence lax, rachis zigzag, bracts spaced, labellum trilobed, the median lobe more or less divided at the apex → 43. 1. C. christyanum
+
 
 ## Species in region
 

@@ -28,15 +28,15 @@ TYPE SPECIES: Lecaniodiscus cupanioides Planch.
 
 Remarkable genus, among the Schleicherieae, for its saccate calyx almost closed before anthesis, then tearing into sepal-like valves. Two species in tropical Africa, one western (L. cupanioides), the other eastern: Mozambique, Tanzania, Rhodesia (L. fraxinifolius).
 
-1. Spikes elongate, 8-15 cm; leaves larger; petiole 8 cm; rachis 40 cm; leaflets of the base 3-5 × 6-7 (-9) cm; leaflets of the apex 7-8 × 16-18 cm; scattered glandular hairs beneath the blade..... L. cupanioides.
-
 ## Key to the species
 
-1. Spikes elongated, 8-15 cm; leaves larger; petiole 8 cm; rachis 40 cm; basal leaflets 3-5 × 6-7 (-9) cm; apical leaflets 7-8 × 16-18 cm; scattered glandular hairs on the underside of the lamina..... L. cupanioides.
 
-1'. Spikes short, 1-5 cm; leaves smaller; petiole 3 cm; rachis 12 cm; basal leaflets 1.5 × 2.5 cm; apical leaflets 2.5 × 7 cm; scattered glandular scales on the underside of the lamina..... L. fraxinifolius Baker.
+**1.** Spikes elongated, 8-15 cm; leaves larger; petiole 8 cm; rachis 40 cm; basal leaflets 3-5 × 6-7 (-9) cm; apical leaflets 7-8 × 16-18 cm; scattered glandular hairs on the underside of the lamina → *L. cupanioides* ^k1
 
-1. Hence the generic name: lecanio = cup (in Greek).
+**1′.** Spikes short, 1-5 cm; leaves smaller; petiole 3 cm; rachis 12 cm; basal leaflets 1.5 × 2.5 cm; apical leaflets 2.5 × 7 cm; scattered glandular scales on the underside of the lamina → L. fraxinifolius Baker.
+
+**1.** Hence the generic name: lecanio = cup (in Greek).
+
 
 ## Species in region
 

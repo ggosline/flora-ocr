@@ -21,7 +21,7 @@ tags: [species, generated]
 
 in ENGL. & PRANTL, Nat. Pflanzenfam., ed. 1, Nachtr. 3 : 206 (1907); in ENGL., Pflanzenreich, Sapindaceae : 1141 (1933).
 
-Trees reaching 10 m in height, with leaves that can measure up to 1.20 m with 5–6 pairs of leaflets, the largest having $ 42 \times 18 $ cm with 13–14 pairs of veins (LETOUZEY), not closed; veins of $ 3^\text{rd} $ and $ 4^\text{th} $ order visible, but without very pronounced relief beneath; dark green in color above, paler beneath.
+Trees reaching 10 m in height, with leaves that can measure up to 1.20 m with 5–6 pairs of leaflets, the largest having 42 × 18 cm with 13–14 pairs of veins (LETOUZEY), not closed; veins of $ 3^\text{rd} $ and $ 4^\text{th} $ order visible, but without very pronounced relief beneath; dark green in color above, paler beneath.
 
 Infructescence erect, reaching 1 m; fruits 4 cm long, sparsely pubescent on the exterior, yellow; inner epidermis of the valves red. Seed with red waxy layer. PL. 38, 1–7', p. 167.
 
@@ -70,7 +70,7 @@ Grand arbuste à arbre; rameaux à 5-6 cannelures, 8-10 mm de diamètre. Feuille
 
 ![Lychnodiscus grandifolius](../sources/Sapindaceae_vol23_paddle/figures/fig_043_p0169.png)
 
-*PL. 38. — Lychnodiscus grandifolius Radlk. (1-6°, Zenker s.n.; 7, 7', Zenker 3524) : 1, leaflet of the penultimate pair $ 23 \times 9 $ cm; 2, inflorescence 30 cm; 2', cymules; 3, bud and 1/2 section 3.5 mm wide; 4, 4', 4", anther, internal, external and profile views; 5, flower and 1/2 section, 5 mm diameter; 5', calyx hairs 0.1 mm; 6, 6', petal, external surface, profile and section; 7, 7', petal of a bud, internal and external surfaces. — Laccodiscus ferrugineus Radlk. (8-13, Letouzey 4013; 14-17, Raynal 10390) : 8, leaflet 7th pair $ 20 \times 5 $, 5 cm; 9, inflorescence 46 cm; 9', cymules; 10, prefloration; 11, bud and 1/2 section, 3 mm diameter; 12, petal, internal surface and profile; 12", stamen internal surface; 13, disk; 14, submature fruit 15 mm; 15, beginning of loculicidal dehiscence; 15', silky interior of a locule; 16, 16', seed 12 mm, profile and hilum side; 17, cotyledons.*
+*PL. 38. — Lychnodiscus grandifolius Radlk. (1-6°, Zenker s.n.; 7, 7', Zenker 3524) : 1, leaflet of the penultimate pair 23 × 9 cm; 2, inflorescence 30 cm; 2', cymules; 3, bud and 1/2 section 3.5 mm wide; 4, 4', 4", anther, internal, external and profile views; 5, flower and 1/2 section, 5 mm diameter; 5', calyx hairs 0.1 mm; 6, 6', petal, external surface, profile and section; 7, 7', petal of a bud, internal and external surfaces. — Laccodiscus ferrugineus Radlk. (8-13, Letouzey 4013; 14-17, Raynal 10390) : 8, leaflet 7th pair 20 × 5, 5 cm; 9, inflorescence 46 cm; 9', cymules; 10, prefloration; 11, bud and 1/2 section, 3 mm diameter; 12, petal, internal surface and profile; 12", stamen internal surface; 13, disk; 14, submature fruit 15 mm; 15, beginning of loculicidal dehiscence; 15', silky interior of a locule; 16, 16', seed 12 mm, profile and hilum side; 17, cotyledons.*
 
 ## Notes
 

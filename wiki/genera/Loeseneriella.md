@@ -33,63 +33,51 @@ This genus, unknown from the New World, is composed of 16 species of which 10 in
 
 L. ectypetala Hallé, from West Africa, is the only African species not from Cameroon; the eastern limit of its distribution range, which perhaps reaches Nigeria, is poorly known.
 
-### KEY TO THE SPECIES
-
-1. Disc ± complex, with cupule, collar, annular rim or lower margin denticulate, not simultaneously fleshy, truncate-conical and simple.
-
-2. Disc fleshy provided with a cupule, a collar, a small annular rim or 5 denticules; base of petals free, not adnate to the disc cupule.
-
 ## Key to the species
 
-1. Disk ± complex, with a cupule, collar, annular rim or lower margin denticulate, not at the same time fleshy, truncoconical and simple.
 
-2. Disk fleshy furnished with a cupule, a collar, a small annular rim or 5 denticules; base of petals free, not adnate to the discal cupule.
+**1.** Disk ± complex, with a cupule, collar, annular rim or lower margin denticulate, not at the same time fleshy, truncoconical and simple. ^k1
 
-3. Disk truncoconical with 5 ribs, 5-denticulate at the base, taller than wide under the stamens (see also 3' and 3") ..... 1. L. apiculata.
+**2.** Disk fleshy furnished with a cupule, a collar, a small annular rim or 5 denticules; base of petals free, not adnate to the discal cupule. ^k2
 
-3'. Disk double, fleshy under the stamens, furnished with a cupule or collar at the base; see also 3".
+**3.** Disk truncoconical with 5 ribs, 5-denticulate at the base, taller than wide under the stamens (see also 3' and 3") → [[Loeseneriella_apiculata\|*L. apiculata*]] ^k3
 
-4. Petals puberulent or pubescent.
+**3′.** Disk double, fleshy under the stamens, furnished with a cupule or collar at the base; see also 3".
 
-5. Petals puberulent; cupule cavity hidden; fleshy disk mass barrel-shaped borne on a columniform androgynophore; stamens and pistil glabrous.
+**4.** Petals puberulent or pubescent. ^k4
 
-6. Petals thin to the apex and subacute ..... 2. L. clematoides.
+**5.** Petals puberulent; cupule cavity hidden; fleshy disk mass barrel-shaped borne on a columniform androgynophore; stamens and pistil glabrous. ^k5
 
-6. Petals fleshy, especially toward the apex and subobtuse .....
+**6.** Petals thin to the apex and subacute → [[Loeseneriella_clematoides\|*L. clematoides*]] ^k6
 
-..... L. ectypetala Hallé (West Africa).
+**6.** Petals fleshy, especially toward the apex and subobtuse → L. ectypetala Hallé (West Africa).
 
-5'. Petals pubescent; cupule cavity well apparent; fleshy mass in small barrel-shaped sessile form sometimes somewhat pubescent; stamens puberulent; pistil pubescent toward the base between the filaments ..... 3. L. crena.
+**5′.** Petals pubescent; cupule cavity well apparent; fleshy mass in small barrel-shaped sessile form sometimes somewhat pubescent; stamens puberulent; pistil pubescent toward the base between the filaments → *L. crena*
 
-4'. Petals glabrous; fleshy disk mass turbinate or subspheric.
+**4′.** Petals glabrous; fleshy disk mass turbinate or subspheric.
 
-7. Disk pubescent between the cupule and the stamens and turbinate, the cupule being scarcely visible; petals triangular elongate .....
+**7.** Disk pubescent between the cupule and the stamens and turbinate, the cupule being scarcely visible; petals triangular elongate ..... ^k7
 
-7. Disk entirely glabrous.
+**7.** Disk entirely glabrous.
 
-8. Disk globose; cupule reduced, not apparent, not festooned; petals oblong elliptic, rounded at the apex ..... 5. L. yaundina.
+**8.** Disk globose; cupule reduced, not apparent, not festooned; petals oblong elliptic, rounded at the apex → [[Loeseneriella_yaundina\|*L. yaundina*]] ^k8
 
-8'. Disk turbinate with flared cupule well apparent, with scalloped margin; petal narrow, attenuate, at apex somewhat arched like a prow .....
+**8′.** Disk turbinate with flared cupule well apparent, with scalloped margin; petal narrow, attenuate, at apex somewhat arched like a prow → 3". Disk not clearly double, rather marginate: toward the base a narrow torus or a mediocre subcupuliform ring; the central fleshy part is broad and scarcely elevated.
 
-3". Disk not clearly double, rather marginate: toward the base a narrow torus or a mediocre subcupuliform ring; the central fleshy part is broad and scarcely elevated.
+**9.** Petals pubescent; style very short. ^k9
 
-9. Petals pubescent; style very short.
+**10.** Disk small, 2 mm in diameter or less; plant pubescent; petals narrow or ± deltoid → [[Loeseneriella_apocynoides\|*L. apocynoides*]] ^k10
 
-10. Disk small, 2 mm in diameter or less; plant pubescent; petals narrow or ± deltoid ..... 6. L. apocynoides.
+**10′.** Disk medium, 3 mm in diameter or more; plant hirsute or very villous → [[Loeseneriella_iotricha\|*L. iotricha*]]
 
-10'. Disk medium, 3 mm in diameter or more; plant hirsute or very villous
+**9.** Petals glabrous, style long; there are transitional forms with the two other varieties that follow → 8. L. africana (var. obtusifolia).
 
-..... 7. L. iotricha.
+**2′.** Disk without a central fleshy mass under the style and androecium; broad flared cupule, clearly adnate to the base of the petals .....
 
-9. Petals glabrous, style long; there are transitional forms with the two other varieties that follow ..... 8. L. africana (var. obtusifolia).
+**8.** L. africana (var. richardiana).
 
----
+**1′.** Disk at the same time simple, truncoconical and fleshy, neither cupulate nor marginate at the base.
 
-2'. Disk without a central fleshy mass under the style and androecium; broad flared cupule, clearly adnate to the base of the petals .....
-
-8. L. africana (var. richardiana).
-
-1'. Disk at the same time simple, truncoconical and fleshy, neither cupulate nor marginate at the base.
 
 ## Species in region
 

@@ -25,67 +25,37 @@ TYPE SPECIES: A. julibrissin Durazz.
 
 This genus comprises approximately 145 species from tropical and subtropical regions of America, Africa and Madagascar. In Gabon 6 species of which 2 introduced have been recognized.
 
-### KEY TO THE SPECIES BY VEGETATIVE OR FLOWERING APPARATUS
-
-### (See keys at the tribe level page 132 sqq.)
-
-### KEY TO THE SPECIES BY THE FRUITS
-
-1. Fruit distinctly stipitate.
-
-2. Legume ± pubescent or puberulent.
-
-3. Venation of the faces very prominent; fruit distinctly densely pubescent ..... 3. A. adianthifolia (var. adianthifolia, and var. intermedia)
-
-3'. Venation of the faces slightly prominent.
-
-4. Seed with oblong central areole ..... 1. A. laurentii.
-
-4'. Seed with small apical areole ..... 2 bis. A. glaberrima.
-
-5. Seed with oblong central areole ..... 2.
-
-5. Seed with small apical areole ..... 2 bis. A
-
-1'. Fruit not distinctly stipitate or not stipitate.
-
-6. Seeds prominent alternately on one of the faces (undulate appearance of the fruit) ..... 6. A. lebbeck.
-
-7. Venation of the fruit faces very effaced or absent ..... 7. A. chinensis.
-
-8. Venation prominent ..... 4. A. ferruginea.
-
-8'. Venation ± concave ..... 5. A. lebbekoides.
-
 ## Key to the species
 
-(See keys at the tribe level page 132 sqq.)
 
-KEY TO SPECIES BY FRUITS
+(See keys at the tribe level page 132 sqq.) KEY TO SPECIES BY FRUITS
 
-1. Fruit distinctly stipitate.
+**1.** Fruit distinctly stipitate. ^k1
 
-2. Pod ± pubescent or puberulent.
+**2.** Pod ± pubescent or puberulent. ^k2
 
-3. Venation of the faces very prominent; fruit distinctly densely pubescent ..... 3. A. adianthifolia (var. adianthifolia, and var. intermedia)
-3'. Venation of the faces little prominent.
+**3.** Venation of the faces very prominent; fruit distinctly densely pubescent → 3. A. adianthifolia (var. adianthifolia, and var. intermedia) ^k3
 
-4. Seed with central oblong aril ..... 1. A. laurentii.
-4'. Seed with small apical aril ..... 2 bis. A. glaberrima.
+**3′.** Venation of the faces little prominent.
 
-5. Seed with central oblong aril ..... 2.
+**4.** Seed with central oblong aril → [[Albizia_laurentii\|*A. laurentii*]] ^k4
 
-5. Seed with small apical aril ..... 2 bis. A
+**4′.** Seed with small apical aril → 2 bis. A. glaberrima.
 
-1'. Fruit not distinctly stipitate or not stipitate.
+**5.** Seed with central oblong aril → [[#^k2|2]] ^k5
 
-6. Seeds prominent alternately on one of the faces (undulate aspect of the fruit) ..... 6. A. lebbeck.
+**5.** Seed with small apical aril → 2 bis. A
 
-7. Venation of the fruit faces very effaced or absent ..... 7. A. chinensis.
+**1′.** Fruit not distinctly stipitate or not stipitate.
 
-8. Venation prominent ..... 4. A. ferruginea.
+**6.** Seeds prominent alternately on one of the faces (undulate aspect of the fruit) → [[Albizia_lebbeck\|*A. lebbeck*]] ^k6
 
-8'. Venation ± concave ..... 5. A. lebbekoides.
+**7.** Venation of the fruit faces very effaced or absent → [[Albizia_chinensis\|*A. chinensis*]] ^k7
+
+**8.** Venation prominent → [[Albizia_ferruginea\|*A. ferruginea*]] ^k8
+
+**8′.** Venation ± concave → [[Albizia_lebbekoides\|*A. lebbekoides*]]
+
 
 ## Species in region
 

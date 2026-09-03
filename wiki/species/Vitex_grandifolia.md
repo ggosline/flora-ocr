@@ -41,7 +41,7 @@ V. grandifolia is close to V. doniana and some specimens of V. doniana with shor
 
 ![Vitex grandifolia](../sources/Labiataeulmaceaeverbenaceae_vol58_liteparse/figures/fig_081_p0105.png)
 
-*Plate 27. Vitex ferruginea: 1. Leaf. – 2. Inflorescence. – 3. Corolla, longitudinal section. – 4. Calyx and ovary. – 5. Flower, longitudinal section, corolla removed. – 6. Fruit. – Vitex grandifolia: 7. Part of a leaf. – 8. Part of an inflorescence. – 9. Flower. – 10. Corolla, longitudinal section, gynoecium and anther. – 11. Ovary. – 12. Idem, transverse section. – 13. Fruit. – 14. Idem, transverse section. Drawing by A.*
+*PL. XXVII. — Vitex ferruginea: 1. Leaf. – 2. Inflorescence. – 3. Corolla, longitudinal section. – 4. Calyx and ovary. – 5. Flower, longitudinal section, corolla removed. – 6. Fruit. – Vitex grandifolia: 7. Part of a leaf. – 8. Part of an inflorescence. – 9. Flower. – 10. Corolla, longitudinal section, gynoecium and anther. – 11. Ovary. – 12. Idem, transverse section. – 13. Fruit. – 14. Idem, transverse section. Drawing by A.*
 
 ![Vitex grandifolia](../sources/Labiataeulmaceaeverbenaceae_vol58_liteparse/figures/fig_083_p0108.jpeg)
 

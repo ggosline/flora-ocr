@@ -30,46 +30,31 @@ TYPE SPECIES : Dicellandra barteri Hook. f., Nigeria.
 
 An African genus whose two or three species are closely tied to forest habitats. Observations on their biology would help to understand them better.
 
-### KEY TO SPECIES AND VARIETIES
-
-1. Stamens dimorphic, discoloured; the outer ones with slender curved anther; with acute-subulate anterior appendages; plants variously sprawling, epiphytic, or erect.
-
-2. Leaves large, broadly ovate to lanceolate; at least one and a half times longer than wide.
-
-3. Plants robust, often rooting on trunks; stem quadrangular-winged; leaves serrate-dentate; transverse veins numerous, parallel; inflorescence oblong with subsessile cymes; flowers pedicellate.
-
-1. D. barteri var. barteri.
-
-3'. Plants sometimes rooting at the base, then erect; stem quadrangular non-winged; leaves entire or very obscurely dentate.
-
-4. Leaves subcoriaceous, cuneate or rounded at the base; venation reticulate between the transversal veins; cymes glomerulate, those of the general base usually pedunculate; pedicels 0.5–1 cm ..... 1a. D. barteri var. erecta.
-
-4'. Leaves membranous, lanceolate-cordate; transverse veins parallel; cymes pedunculate, lax, scorpioid; flowers long-pedicellate 1b. D. barteri var. magnifica.
-
-2'. Leaves broadly cordate, scarcely longer than wide, margins entire; plants spreading, up to 1 m long; panicles 5–6 cm long..
-
 ## Key to the species
 
-1. Stamens dimorphic, discolorous; the outer ones with slender incurved anther; with acute-subulate anterior appendages; plants variously creeping, epiphytic or erect.
 
-2. Leaves large, broadly ovate to lanceolate; at least one and a half times longer than wide.
+**1.** Stamens dimorphic, discolorous; the outer ones with slender incurved anther; with acute-subulate anterior appendages; plants variously creeping, epiphytic or erect. ^k1
 
-3. Robust plants, often rooting on trunks; stem quadrangular-winged; leaves serrate-dentate; transverse nervures numerous, parallel; inflorescence oblong with subsessile cymes; flowers pedicellate
-1. D. barteri var. barteri.
+**2.** Leaves large, broadly ovate to lanceolate; at least one and a half times longer than wide. ^k2
 
-3'. Plants sometimes rooting at the base, then erect; stem quadrangular not winged; leaves entire or very obscurely dentate.
+**3.** Robust plants, often rooting on trunks; stem quadrangular-winged; leaves serrate-dentate; transverse nervures numerous, parallel; inflorescence oblong with subsessile cymes; flowers pedicellate ^k3
 
-4. Leaves subcoriaceous, cuneate or rounded at the base; venation reticulate between the transversals; cymes glomerate, those of the main base generally pedunculate; pedicels 0.5-1 cm ..... 1a. D. barteri var. erecta.
+**1.** D. barteri var. barteri.
 
-4'. Leaves membranous, lanceolate-cordate; transverse nervures parallel; cymes pedunculate, lax, scorpioid; flowers long-pedicellate 1b. D. barteri var. magnifica.
+**3′.** Plants sometimes rooting at the base, then erect; stem quadrangular not winged; leaves entire or very obscurely dentate.
 
-2'. Leaves broadly cordiform, scarcely longer than wide, margins entire; plants spreading, up to 1 m long; panicles 5-6 cm long..
+**4.** Leaves subcoriaceous, cuneate or rounded at the base; venation reticulate between the transversals; cymes glomerate, those of the main base generally pedunculate; pedicels 0.5-1 cm → 1a. D. barteri var. erecta. ^k4
 
-1'. Stamens homomorphic, concolorous or, if they are dimorphic, the outer ones have a straight anther, linear-obtuse anterior appendages and the plant is not lianescent; cymes (at least those of the base) pedunculate, glomerate; flowers subsessile.
+**4′.** Leaves membranous, lanceolate-cordate; transverse nervures parallel; cymes pedunculate, lax, scorpioid; flowers long-pedicellate 1b. D. barteri var. magnifica.
 
-5. Stamens homomorphic; plants weak, spreading; leaves elliptic....
+**2′.** Leaves broadly cordiform, scarcely longer than wide, margins entire; plants spreading, up to 1 m long; panicles 5-6 cm long..
 
-5'. Stamens dimorphic; plants normally erect; leaves lanceolate-ovate to lanceolate-elliptic ..... 3. D. descoingsii.
+**1′.** Stamens homomorphic, concolorous or, if they are dimorphic, the outer ones have a straight anther, linear-obtuse anterior appendages and the plant is not lianescent; cymes (at least those of the base) pedunculate, glomerate; flowers subsessile.
+
+**5.** Stamens homomorphic; plants weak, spreading; leaves elliptic.... ^k5
+
+**5′.** Stamens dimorphic; plants normally erect; leaves lanceolate-ovate to lanceolate-elliptic → [[Dicellandra_descoingsii\|*D. descoingsii*]]
+
 
 ## Species in region
 

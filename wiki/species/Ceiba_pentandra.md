@@ -76,7 +76,7 @@ Seedling with hypocotyl 4.5-6.5 cm long, reddish; cotyledons opposite, broadly l
 
 ## Type
 
-pas de lectotype désigné à notre connaissance $ ^{1} $
+pas de lectotype désigné à notre connaissance ¹
 
 ## Discussion
 

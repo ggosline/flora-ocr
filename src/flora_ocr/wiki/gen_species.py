@@ -166,6 +166,14 @@ def _paragraph_split(body: str) -> list[list[str]]:
                 paragraphs.append(current)
                 current = []
             continue
+        if SYNONYM_LINE_RE.match(stripped):
+            # a synonym stands alone: split before *and* after it, or the
+            # description's opening line is swept in with the last of the chain
+            if current:
+                paragraphs.append(current)
+            paragraphs.append([stripped])
+            current = []
+            continue
         if LABEL_RE.match(stripped) and current:
             paragraphs.append(current)
             current = []
@@ -206,6 +214,16 @@ def _strip_leading_citations(text: str) -> str:
 
 
 SYNONYM_RE = re.compile(r"^\s*=\s*(.+)$")
+
+# A synonym printed without a leading "=", one per line, as the born-digital
+# volumes do: "Aristolochia talbotii S.Moore, Cat. pl. Oban : 93 (1913)."
+# liteparse writes no blank lines, so these merged into the description
+# paragraph and the leading-citation stripper stopped part-way through the
+# chain, leaving ", nom. inval. Pararistolochia talbotii ..." at the head of
+# Pararistolochia promissa's description.
+SYNONYM_LINE_RE = re.compile(
+    r"^[A-Z][a-z]+(?:\s+[a-z][a-z\-]+){1,2}\s+.{0,120}?\(\d{4}\)\s*[.,]?"
+    r"(?:\s*,?\s*nom\.\s*(?:inval|nud|illeg|cons)\s*\.?)?\s*$")
 # "### 1. Afzelia pachyloba Harms (PL. 24, p. 113)" -> drop number and plate
 HEAD_CLEAN_RE = re.compile(r"^\d+\s*[.)]\s*|\s*\((?:PL|Pl|pl)\.[^)]*\)\s*$")
 
@@ -255,6 +273,9 @@ def parse_block(text: str) -> dict:
         synonym = SYNONYM_RE.match(one_line)
         if synonym:
             synonyms.append(synonym.group(1).strip())
+            continue
+        if not description and SYNONYM_LINE_RE.match(one_line):
+            synonyms.append(one_line.strip())
             continue
         if is_citation(one_line):
             remainder = _strip_leading_citations(one_line)

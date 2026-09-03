@@ -45,7 +45,7 @@ Bibliography 73
 
 ![Piper umbellatum](../sources/Piperaceae_vol50_liteparse/figures/fig_041_p0078.png)
 
-*Plate 29 . Piper umbellatum : 1. Flowering branch (× ⅔). – 2. Part of the inflorescence (× 6). – 3. Flower with bract (× 32). – 4. Stamen, lateral and upper view (× 32). – 5. Bract (× 32). – 6. Fruit with remains of stamens (× 24). (1 : Barbosa & Carvalho 2873 ; 2–6 : Cholocholo et al. 31 ). Drawing by Judi Stone (©), reproduced with permission from Diniz (1997).*
+*PL. XXIX. — Piper umbellatum: 1. Flowering branch (× ⅔). – 2. Part of the inflorescence (× 6). – 3. Flower with bract (× 32). – 4. Stamen, lateral and upper view (× 32). – 5. Bract (× 32). – 6. Fruit with remains of stamens (× 24). (1: Barbosa & Carvalho 2873; 2–6: Cholocholo et al. 31). Drawing by Judi Stone (©), reproduced with permission from Diniz (1997).*
 
 ## Notes
 

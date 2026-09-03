@@ -70,7 +70,7 @@ PELLEGRIN F. — Sapindacées du Gabon. Bull. Soc. Bot. France 102 : 226-229 (19
 
 RADLKOFER. — Sapindaceæ, in ENGL., Pflanzenreich (1932-33).
 
-Scholz. — in Engl., Syllabus, 12 $ ^{e} $ ed. : 282 (1964).
+Scholz. — in Engl., Syllabus, 12 ᵉ ed. : 282 (1964).
 
 WALKER A. & SILLANS R. — Les plantes utiles du Gabon. Ed. Lechevalier, Paris (1961)
 

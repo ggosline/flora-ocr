@@ -55,18 +55,31 @@ The genus Tapura had been divided into 4 sections: two were established on Ameri
 
 ## Key to the species
 
-1. Inflorescence peduncle not fused to the petiole or inflorescence sessile in the leaf axil.
-2. Leaves with 8-12 pairs of lateral veins ..... T. sp.
-2. Leaves with 4-7 pairs of lateral veins.
-3. Inflorescences with slender peduncle; flowers 5-6 mm long; fertile stamens 2 ..... 2. T. bouquetiana
-3. Inflorescence sessile in the axil of a leaf; flowers 4.5 mm long; fertile stamens 3 ..... 6. T. neglecta
-1. Inflorescence peduncle fused to the petiole.
-4. Flowers 2.5-3.5 mm long ..... 4. T. fischeri
-4. Flowers ≥ 4.5 mm long.
-5. Sepals distinctly keeled ..... 3. T. carinata
-5. Sepals not keeled.
-6. Veins II, 3-5 (8) pairs principal; flowers 4.5-7 mm long; pedicels 3 mm; petals not bent, ≤ 5 mm long ..... 1. T. africana
-6. Veins II, 6-7 pairs principal; flowers 7-8 mm long, sessile or nearly so; petals bent, 7-7.5 mm long ..... 5. T. letestui
+
+**1.** Inflorescence peduncle not fused to the petiole or inflorescence sessile in the leaf axil. ^k1
+
+**2.** Leaves with 8-12 pairs of lateral veins → T. sp. ^k2
+
+**2.** Leaves with 4-7 pairs of lateral veins.
+
+**3.** Inflorescences with slender peduncle; flowers 5-6 mm long; fertile stamens 2 → [[Tapura_bouquetiana\|*T. bouquetiana*]] ^k3
+
+**3.** Inflorescence sessile in the axil of a leaf; flowers 4.5 mm long; fertile stamens 3 → [[Tapura_neglecta\|*T. neglecta*]]
+
+**1.** Inflorescence peduncle fused to the petiole.
+
+**4.** Flowers 2.5-3.5 mm long → [[Tapura_fischeri\|*T. fischeri*]] ^k4
+
+**4.** Flowers ≥ 4.5 mm long.
+
+**5.** Sepals distinctly keeled → [[Tapura_carinata\|*T. carinata*]] ^k5
+
+**5.** Sepals not keeled.
+
+**6.** Veins II, 3-5 (8) pairs principal; flowers 4.5-7 mm long; pedicels 3 mm; petals not bent, ≤ 5 mm long → [[Tapura_africana\|*T. africana*]] ^k6
+
+**6.** Veins II, 6-7 pairs principal; flowers 7-8 mm long, sessile or nearly so; petals bent, 7-7.5 mm long → [[Tapura_letestui\|*T. letestui*]]
+
 
 ## Species in region
 

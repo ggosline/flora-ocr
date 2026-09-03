@@ -29,22 +29,17 @@ b: Keay (1958), Léonard (1988), Smith (1988).
 
 Bibliography
 
-### Key to the species
-
-1. - Branchlet with entire stipules; leaf with lamina (3–)4–20(–26) × (1.5–)3–8 cm and 4–10(–12) pairs of lateral veins ..................................................................... 2
-
-- Branchlet with laciniate stipules; leaf with lamina (9–)20–28(–31) × (2–)7–10 cm and 10–18 pairs of lateral veins ....................................................... A. laciniatum
-
-2. - Leaf with lamina 4–8(–11) × (2–)3–4(–6) cm, apex obtuse to acute or very briefly acuminate (≤ 5 mm); female inflorescence 3–5 cm in length, 3–7 cm in fruit ..................................................................................................... A. venosum
-
-- Leaf with lamina (3–)7–20(–26) × (1.5–)4–8 cm, with apex acuminate over (0.5–)1–2.5 cm; female inflorescence 5–11 cm in length, (10–)15–30 cm in fruit ............................................................................................................ A. vogelianum
-
 ## Key to the species
 
-1. - Branchlet with entire stipules; leaf with lamina (3–)4–20(–26) × (1.5–)3–8 cm and 4–10(–12) pairs of lateral nerves .................................................................... 2
-- Branchlet with laciniate stipules; leaf with lamina (9–)20–28(–31) × (2–)7–10 cm and 10–18 pairs of lateral nerves ....................................................... A. laciniatum
-2. - Leaf with lamina 4–8(–11) × (2–)3–4(–6) cm, apex obtuse to acute or very briefly acuminate (≤ 5 mm); female inflorescence 3–5 cm long, 3–7 cm in fruit ..................................................................................................... A. venosum
-- Leaf with lamina (3–)7–20(–26) × (1.5–)4–8 cm, with apex acuminate over (0.5–)1–2.5 cm; female inflorescence 5–11 cm long, (10–)15–30 cm in fruit ............................................................................................................ A. vogelianum
+
+**1.** Branchlet with entire stipules; leaf with lamina (3–)4–20(–26) × (1.5–)3–8 cm and 4–10(–12) pairs of lateral nerves → [[#^k2|2]] ^k1
+
+**1′.** Branchlet with laciniate stipules; leaf with lamina (9–)20–28(–31) × (2–)7–10 cm and 10–18 pairs of lateral nerves → [[Antidesma_laciniatum\|*A. laciniatum*]]
+
+**2.** Leaf with lamina 4–8(–11) × (2–)3–4(–6) cm, apex obtuse to acute or very briefly acuminate (≤ 5 mm); female inflorescence 3–5 cm long, 3–7 cm in fruit → [[Antidesma_venosum\|*A. venosum*]] ^k2
+
+**2′.** Leaf with lamina (3–)7–20(–26) × (1.5–)4–8 cm, with apex acuminate over (0.5–)1–2.5 cm; female inflorescence 5–11 cm long, (10–)15–30 cm in fruit → [[Antidesma_vogelianum\|*A. vogelianum*]]
+
 
 ## Species in region
 

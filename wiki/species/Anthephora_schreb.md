@@ -40,7 +40,7 @@ Fl. Gab.: 37, Pl. 5; FWTA: 448; FTEA: 613, fig. 143; Fl. Zamb. 10(3): 91, tab. 2
 
 Alers (Lopé) 43, 08.05.1986, c. 0°07'S-11°37'E, Réserve de la Lopé.
 
-$ ^{*} $7. Cenchrus L.
+*7. Cenchrus L.
 
 *7.1 Cenchrus biflorus Roxb. – Pl. 2, 1-4, p. 21 FWTA : 464 ; FTEA : 695 ; Fl. Zamb. 10(3) : 188 ; Gram. Cam. : 347, Pl. 73 ; Poac. CI. : 468, 469 ; Gram. CB. : 225. – Cenchrus barbatus K. Schum. – FACB 2 : 328, Pl. 50.
 

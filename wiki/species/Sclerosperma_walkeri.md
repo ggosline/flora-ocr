@@ -44,7 +44,7 @@ manga (ivili) ; mbègho (mitsogo). Usage : Les feuilles sont utilisées pour la 
 
 ![Sclerosperma walkeri](../sources/Arecaceae_vol53_liteparse/figures/fig_042_p0068.png)
 
-*Plate 24 . Sclerosperma mannii : 1. Habit. – 2. Leaf. – 3. Infructescence. – 4. Fruit. – 5. Remainder of an infructescence. – Sclerosperma walkeri : 6. Habit. – 7. Leaf. – 8. Infructescence. – 9. Fruit. – 10. Idem, transverse section. – 11. Remainder of an infructescence. (1 : photo of van Valkenburg 3234 ; 2, 4, 5 : van*
+*PL. 24. Sclerosperma mannii: 1. Habit. – 2. Leaf. – 3. Infructescence. – 4. Fruit. – 5. Remainder of an infructescence. – Sclerosperma walkeri: 6. Habit. – 7. Leaf. – 8. Infructescence. – 9. Fruit. – 10. Idem, transverse section. – 11. Remainder of an infructescence. (1 : photo of van Valkenburg 3234 ; 2, 4, 5 : van*
 
 ## Notes
 

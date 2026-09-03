@@ -27,32 +27,25 @@ Bi: Brenan (1968b), van der Burg (2006), Faden (1991, 1998, 2012), Morton (1966)
 
 Bibliography
 
-### Key to the species
-
-1. - Petals yellow; fruit 7–9 mm in length, 3-horned ............................ A. aequinoctiale
-
-- Petals white or pale lilac, lavender or violet; fruit ≤ 7 mm in length, without horns ...........................................................................................................................2
-
-2. - Fruit ± as long as wide, ± spherical, with 2 unispermatous locules; leaf with distinct petiole of ± 0.5–2 cm (to be sought in Gabon) ..................................... A. dispermum
-
-- Fruit generally longer than wide, with 2 or 3 locules and several seeds per locule; leaf generally sessile ........................................................................................ 3
-
-3. - Inflorescence dense, subcapitate, 1.5–6 cm in diameter, with a central axis and
-
 ## Key to the species
 
-1. - Petals yellow; fruit 7‒9 mm long, 3-horned ............................ A. aequinoctiale
-- Petals white or pale lilac, lavender or violet; fruit ≤ 7 mm long, without horns ...........................................................................................................................2
-2. - Fruit ± as long as wide, ± spherical, with 2 unispermate locules; leaf with petiole distinct, ± 0.5‒2 cm (to be sought in Gabon) ..................................... A. dispermum
-- Fruit generally longer than wide, with 2 or 3 locules and several seeds per locule; leaf generally sessile ........................................................................................ 3
-3. - Inflorescence dense, subcapitate, 1.5‒6 cm in diameter, with a central axis and (10‒)18 to 55 lateral branches spreading to ascending; sheath glabrous or sparsely puberulent on the suture, sometimes sparsely ciliolate at the apex .......... A. beniniense
-- Inflorescence lax, paniculate-subumbelliform, 2‒4.5 cm in diameter, central axis not always clearly visible, with 5 to 20 lateral branches spreading, often with
 
----
+**1.** Petals yellow; fruit 7‒9 mm long, 3-horned → [[Aneilema_aequinoctiale\|*A. aequinoctiale*]] ^k1
 
-digitate branchlets; sheath puberulent with hooked hairs, apex ciliate with colourless or reddish hairs (A. umbrosum) ................................................................................ 4
-4. - Inflorescence generally simple and spiciform, longer than wide with a main axis, sometimes with 1 or 2 additional inflorescences at the axils of lower leaves; presence of long reddish hairs at the apex of the sheath, and generally also on the surface; leaf blade distinctly longer than wide, reaching 13 × 4 cm .................................................... A. umbrosum subsp. umbrosum
-- Inflorescence compound, broadly ovoid to loosely umbelliform-globular, composed of 2 or 3(–8) inflorescences or spreading branches; absence of reddish hairs at the apex of the sheath, a few colourless hairs on the margin and suture; plant more slender than the preceding subspecies, with leaf blade oval to oval-elliptic, reaching 6 × 3 cm ............................. A. umbrosum subsp. ovato-oblongum
+**1′.** Petals white or pale lilac, lavender or violet; fruit ≤ 7 mm long, without horns → [[#^k2|2]]
+
+**2.** Fruit ± as long as wide, ± spherical, with 2 unispermate locules; leaf with petiole distinct, ± 0.5‒2 cm (to be sought in Gabon) → [[Aneilema_dispermum\|*A. dispermum*]] ^k2
+
+**2′.** Fruit generally longer than wide, with 2 or 3 locules and several seeds per locule; leaf generally sessile → [[#^k3|3]]
+
+**3.** Inflorescence dense, subcapitate, 1.5‒6 cm in diameter, with a central axis and (10‒)18 to 55 lateral branches spreading to ascending; sheath glabrous or sparsely puberulent on the suture, sometimes sparsely ciliolate at the apex → [[Aneilema_beniniense\|*A. beniniense*]] ^k3
+
+**3′.** Inflorescence lax, paniculate-subumbelliform, 2‒4.5 cm in diameter, central axis not always clearly visible, with 5 to 20 lateral branches spreading, often with digitate branchlets; sheath puberulent with hooked hairs, apex ciliate with colourless or reddish hairs (A. umbrosum) → [[#^k4|4]]
+
+**4.** Inflorescence generally simple and spiciform, longer than wide with a main axis, sometimes with 1 or 2 additional inflorescences at the axils of lower leaves; presence of long reddish hairs at the apex of the sheath, and generally also on the surface; leaf blade distinctly longer than wide, reaching 13 × 4 cm → A. umbrosum subsp. umbrosum ^k4
+
+**4′.** Inflorescence compound, broadly ovoid to loosely umbelliform-globular, composed of 2 or 3(–8) inflorescences or spreading branches; absence of reddish hairs at the apex of the sheath, a few colourless hairs on the margin and suture; plant more slender than the preceding subspecies, with leaf blade oval to oval-elliptic, reaching 6 × 3 cm → A. umbrosum subsp. ovato-oblongum
+
 
 ## Species in region
 

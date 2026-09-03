@@ -54,7 +54,7 @@ Les espèces se rencontrent ± dans les forêts claires comme dans les forêts s
 
 Ce groupe d'espèces diffère des autres espèces de la section Galoglychia par les caractéristiques de l'indumentum. Les notes sur les propriétés du caoutchouc obtenu à partir du latex suggèrent une composition distincte du latex dans le groupe du F. lutea. Les espèces qui le constituent sont très proches. Seulement 3 taxons peuvent probablement être reconnus comme des espèces.
 
-F. saussureana $ ^{1} $ est une espèce bien isolée, tout au moins en Afrique occidentale. En Afrique centrale, certaines formes à grandes feuilles (probablement à attribuer à F. lutea largement compris) se rapprochent de F. saussureana.
+F. saussureana ¹ est une espèce bien isolée, tout au moins en Afrique occidentale. En Afrique centrale, certaines formes à grandes feuilles (probablement à attribuer à F. lutea largement compris) se rapprochent de F. saussureana.
 
 1. F. saussureana n'a pas été récolté au Gabon ; certains échantillons proviennent de localités came-rounaises proches de la frontière nord du Gabon. Il reste cependant peu probable de l'y trouver.
 

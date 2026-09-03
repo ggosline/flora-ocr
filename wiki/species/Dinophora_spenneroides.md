@@ -21,9 +21,9 @@ tags: [species, generated]
 
 Shrublet glabrescen, graceful, loosely ramified, erect up to 4 m; branchlets 4-angular, then rounded, slender, with long internodes. Leaves with slender petiole, often furnished with a few short capitate hairs, varying from 1 to 10 cm on the same pair; blade ± 8 × 16 (22) cm, or 1.5 × 5 cm, lanceolate, base rounded and cordate, apex acuminate-acute; with short and very sparse setae above, glabrous below; 5, (7) nerves, the transverse ones regularly parallel; margins distinctly, but loosely, serrulate-dentate.
 
-Panicle of 3 to 6 tiers of bipare cymes, up to $ 20 \times 27 $ cm, pendulous, light, all axes and pedicels slender; terminal above a last pair of very reduced leaves; bracts and bracteoles subulate, very slender. Flower with hypanthium very attenuated on the pedicel, from 5 to 15 mm above the bracteoles; perfectly glabrous, with thick wall; calyx short, thick, entire or barely undulate; lobes reduced to a small keeled or mucronate tooth on the back. Petals pink, fleshy, ± 10 mm long. External stamens with oblong anther of 5 mm; dorsal connective of 2 mm, with anterior appendage of 1 mm, enlarged-bilobate at the apex; filament 5 mm. Internal stamens with angled anther, 3 mm, base 2-tuberculate in front; filament 4 mm. Style thickened towards the top, ± 10 mm.
+Panicle of 3 to 6 tiers of bipare cymes, up to 20 × 27 cm, pendulous, light, all axes and pedicels slender; terminal above a last pair of very reduced leaves; bracts and bracteoles subulate, very slender. Flower with hypanthium very attenuated on the pedicel, from 5 to 15 mm above the bracteoles; perfectly glabrous, with thick wall; calyx short, thick, entire or barely undulate; lobes reduced to a small keeled or mucronate tooth on the back. Petals pink, fleshy, ± 10 mm long. External stamens with oblong anther of 5 mm; dorsal connective of 2 mm, with anterior appendage of 1 mm, enlarged-bilobate at the apex; filament 5 mm. Internal stamens with angled anther, 3 mm, base 2-tuberculate in front; filament 4 mm. Style thickened towards the top, ± 10 mm.
 
-Berry ellipsoid, $ 1.5 \times 1.7 $ mm, often whitish; the ovary reaches the rim of the hypanthium. Seeds ± 1 mm, smooth. — Pl. 41, p. 109.
+Berry ellipsoid, 1.5 × 1.7 mm, often whitish; the ovary reaches the rim of the hypanthium. Seeds ± 1 mm, smooth. — Pl. 41, p. 109.
 
 ## Type
 
@@ -71,7 +71,7 @@ CLÉ DES GENRES
 
 1. Feuilles avec nervure médiane seule visible ou nettement prédominante, les 2 convergentes étant submarginales, non ou peu visibles ainsi que leur connexion avec les transversales (Pl. 45); si les convergentes sont plus écartées de la marge et bien visibles, elles sont de même importance que les transversales avec lesquelles elles sont coarquées et sont plus grêles que la médiane (Pl. 47); pas de réticulum polygonal apparent; limbe rarement subcordé.
 
-2. Fcuilles à surfaces lisses; ovales-lancées,  $ 2 \times 6 $ cm; lobes du calice visiblement imbriqués sur le bouton; pétales onguiculés et réfléchis à l'anthèse; embryons sans hypocotyle, charnu, hétérocotylé (voir Warneckea bebaiensis p. 145).
+2. Fcuilles à surfaces lisses; ovales-lancées,  2 × 6 cm; lobes du calice visiblement imbriqués sur le bouton; pétales onguiculés et réfléchis à l'anthèse; embryons sans hypocotyle, charnu, hétérocotylé (voir Warneckea bebaiensis p. 145).
 
 2'. Feuilles à surfaces irrégulières¹; calice entier ou lobes valvaires; pétales souvent sessiles et non réfléchis à l'anthèse; fruits sphériques ou ellipsoïdes; embryon plié avec hypocotyle long et cotylédons fortement chiffonnés
 

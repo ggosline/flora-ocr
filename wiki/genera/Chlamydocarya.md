@@ -35,25 +35,17 @@ This genus contains 6 species in tropical Africa; 3 are represented in Cameroon 
 
 1'. Infructescence in starred sphere; hydathodes present..... 3. C. thomsoniana.
 
-KEY TO SPECIES BY VEGETATIVE APPARATUS
-
-1. Hydathodes absent.
-
-2. Nervilles in loose network; 8-9 pairs of secondary veins; petiole sparsely pubescent above and glabrous below..... 1. C. anhydathoda.
-
-2'. Nervilles in dense network; 8-15 pairs of secondary veins; petiole entirely pubescent ..... 2. C. soyauxii.
-
-1'. Hydathodes present ..... 3. C. thomsoniana.
-
 ## Key to the species
 
-1. Hydathodes absent.
 
-2. Veinlets in lax reticulum; 8-9 pairs of secondary veins; petiole sparsely pubescent above and glabrous below..... 1. C. anhydathoda.
+**1.** Hydathodes absent. ^k1
 
-2'. Veinlets in dense reticulum; 8-15 pairs of secondary veins; petiole entirely pubescent ..... 2. C. soyauxii.
+**2.** Veinlets in lax reticulum; 8-9 pairs of secondary veins; petiole sparsely pubescent above and glabrous below → [[Chlamydocarya_anhydathoda\|*C. anhydathoda*]] ^k2
 
-1'. Hydathodes present ..... 3. C. thomsoniana.
+**2′.** Veinlets in dense reticulum; 8-15 pairs of secondary veins; petiole entirely pubescent → [[Chlamydocarya_soyauxii\|*C. soyauxii*]]
+
+**1′.** Hydathodes present → [[Chlamydocarya_thomsoniana\|*C. thomsoniana*]]
+
 
 ## Species in region
 

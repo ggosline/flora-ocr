@@ -24,14 +24,13 @@ Type species: Ophioglossum vulgarum L.
 
 ### FLORA OF GABON
 
-1. Plant 5–30 cm, with petiole reaching 10 cm; limb cuneiform or cordate at the base ..... I. O. reticulatum.
-
-1'. Plant 1–3 cm, with petiole approximately 0.3 cm; limb elliptic ..... 2. O. Thomasii.
-
 ## Key to the species
 
-1. Plant 5-30 cm, with petiole reaching 10 cm; limb cuneate or cordate at base..... I. O. reticulatum.
-1'. Plant 1-3 cm, with petiole ca. 0.3 cm; limb elliptic ..... 2. O. Thomasii.
+
+**1.** Plant 5-30 cm, with petiole reaching 10 cm; limb cuneate or cordate at base → I. O. reticulatum. ^k1
+
+**1′.** Plant 1-3 cm, with petiole ca. 0.3 cm; limb elliptic → 2. O. Thomasii.
+
 
 ## Species in region
 

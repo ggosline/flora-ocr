@@ -39,16 +39,19 @@ A tropical African genus of **3 or 4 species**, all present in Gabon.
 
 ## Key (translated from French)
 
-1. Leaves clearly peltate ......................... [[Kolobopetalum_spec_nov|*K.* spec. nov.]]
-   - Leaves not peltate, or sometimes slightly peltate (in *K. auriculatum*) ... **2**
-2. Leaf blade deeply and/or broadly cordate-auriculate at base
-   ............................................. [[Kolobopetalum_auriculatum|*K. auriculatum*]]
-   - Leaf blade cuneate to narrowly rounded or slightly cordate at base ... **3**
-3. Inner sepals of male flower **free**; female inflorescence up to 15 cm
-   long; fruit ovoid, 15 × 11 mm ............... [[Kolobopetalum_ovatum|*K. ovatum*]]
-   - Inner sepals of male flower **fused**; infructescence racemose, up to 5
-     cm long; immature fruit globose to ellipsoidal, 7–10 mm in diameter
-     ............................................ [[Kolobopetalum_synsepalum|*K. synsepalum*]]
+
+**1.** Leaves clearly peltate → [[Kolobopetalum_spec_nov|*K.* spec. nov.]] ^k1
+
+**1′.** Leaves not peltate, or sometimes slightly peltate (in *K. auriculatum*) → **2**
+
+**2.** Leaf blade deeply and/or broadly cordate-auriculate at base → [[Kolobopetalum_auriculatum|*K. auriculatum*]] ^k2
+
+**2′.** Leaf blade cuneate to narrowly rounded or slightly cordate at base → **3**
+
+**3.** Inner sepals of male flower **free**; female inflorescence up to 15 cm long; fruit ovoid, 15 × 11 mm → [[Kolobopetalum_ovatum|*K. ovatum*]] ^k3
+
+**3′.** Inner sepals of male flower **fused**; infructescence racemose, up to 5 cm long; immature fruit globose to ellipsoidal, 7–10 mm in diameter → [[Kolobopetalum_synsepalum|*K. synsepalum*]]
+
 
 ## Treatments
 

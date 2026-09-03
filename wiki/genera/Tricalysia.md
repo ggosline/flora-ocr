@@ -54,10 +54,13 @@ PL. 64. — Placentation of the genus Neorosea: 1, N. Petitii (Le Testu 5245), a
 
 ## Keyed but not treated
 
+
 The source key separates these species but the volume gives them no treatment, usually because they fall outside the area it covers in full. They are listed for identification; some are extralimital to the region.
 
-- *Tricalysia elliotii* — keyed in vol 17, not treated
-- *Tricalysia potamogala* — keyed in vol 17, not treated
+**—** *Tricalysia elliotii* — keyed in vol 17, not treated
+
+**—** *Tricalysia potamogala* — keyed in vol 17, not treated
+
 
 ## Treatments
 

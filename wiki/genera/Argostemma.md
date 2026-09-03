@@ -27,14 +27,13 @@ More than one hundred species from Southeast Asia and two African species of whi
 
 ---
 
-1. Pedicel pubescent, axes ± pubescent; large leaf-pairs strongly anisophyllous ..... A. pumilum Benn.
-
-1'. Pedicel glabrous, axes glabrous; large leaf-pairs moderately or unequally anisophyllous ..... I. A. africanum
-
 ## Key to the species
 
-1. Pedicel pubescent, axes ± pubescent; large leaf pairs strongly anisophyllous ..... A. pumilum Benn.
-1'. Pedicel glabrous, axes glabrous; large leaf pairs moderately or unequally anisophyllous ..... I. A. africanum
+
+**1.** Pedicel pubescent, axes ± pubescent; large leaf pairs strongly anisophyllous → A. pumilum Benn. ^k1
+
+**1′.** Pedicel glabrous, axes glabrous; large leaf pairs moderately or unequally anisophyllous → I. A. africanum
+
 
 ## Species in region
 

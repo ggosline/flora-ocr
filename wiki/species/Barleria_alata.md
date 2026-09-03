@@ -28,7 +28,7 @@ Herbaceous or suffrutescent plant, branched, reaching approximately 0.80 m in he
 
 Inflorescences elongate, up to 20 cm long, with peduncle 3-4 cm long; the lower bracts resemble leaves, pubescent, with winged petiole reaching 1.2 cm long, and blade 2.5 × 1 cm; upper bracts sessile, linear-subulate, 10-12 mm long, pubescent. Flowers subsessile, solitary axillary, with pedicel at most 2 mm long, pubescent. Calyx pubescent, with numerous multicellular glandular hairs, especially at the margin, up to 14 mm long, lateral sepals subulate-linear, 9 × 0.7 mm; posterior sepal distinctly obovate 13 × 7 mm with ± 5 nerves; anterior sepals fused into a single lobe scarcely smaller than the posterior sepal and very slightly emarginate at the apex, obovate, 12 × 7 mm, with ± 5 palmate nerves. Corolla bluish-white or very pale mauve, reaching up to 35 mm long, slightly pubescent outside; tube 12 mm long and approximately 6 mm in diameter; lobes 16-19 mm long, rounded. Ovary slightly pubescent, 3 mm long; style glabrous 28 mm long.
 
-Fruit slightly pubescent $ 18 \times 5 $ mm. Seed strongly flattened, ovate-elliptic, $ 3 \times 4 \times 0.3 $ mm; testa yellowish-brown, with very marked concentric rugose rings.
+Fruit slightly pubescent 18 × 5 mm. Seed strongly flattened, ovate-elliptic, 3 × 4 × 0.3 mm; testa yellowish-brown, with very marked concentric rugose rings.
 
 ## Type
 
@@ -40,7 +40,7 @@ Le Testu : 8200, Mahounda, région de Lastoursville (fl. et fr. 30 juill. 1930),
 
 EXPLICATION DE LA PLANCHE XXXIII, fig. 1-8:
 
-1, sommité florifère; 2, calice à sépale postérieur de  $ 13 \times 7 $ mm, sépales antérieurs soudés en un seul lobe de  $ 12 \times 7 $ mm, et sépales latéraux de  $ 9 \times 0.7 $ mm; 3, corolle de  $ 38 $ mm de long; 4, anthère à loges de  $ 4 $ mm de long; 5, pistil (disque et ovaire de  $ 3.5 $ mm de haut, style de  $ 28 $ mm, stigmate de  $ 2.2 $ mm de long); 6, coupe longitudinale de l'ovaire; 7, fruit de  $ 18 $ mm de long; 8, graine de  $ 4 \times 3 $ mm. — 1-6, Le Testu 8200; 7, 8, Thollon 1050.
+1, sommité florifère; 2, calice à sépale postérieur de  13 × 7 mm, sépales antérieurs soudés en un seul lobe de  12 × 7 mm, et sépales latéraux de  9 × 0.7 mm; 3, corolle de  38 mm de long; 4, anthère à loges de  4 mm de long; 5, pistil (disque et ovaire de  3.5 mm de haut, style de  28 mm, stigmate de  2.2 mm de long); 6, coupe longitudinale de l'ovaire; 7, fruit de  18 mm de long; 8, graine de  4 × 3 mm. — 1-6, Le Testu 8200; 7, 8, Thollon 1050.
 
 ## Source note
 

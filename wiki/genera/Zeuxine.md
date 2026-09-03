@@ -25,24 +25,17 @@ Creeping rhizome with few roots, rather fleshy, very pubescent. Petiolate leaves
 
 Genus of about 50 species distributed from tropical Africa to the Pacific islands.
 
-### KEY TO THE SPECIES:
-
-1. Flowers not resupinate, thus lip at the top.....3 . Z. stammleri
-
-1'. Flowers resupinate, thus lip at the bottom.
-
-2. Apical lobe of the lip transverse-elliptic, up to 2 times wider than long
-
-2'. Apical lobe of the lip reniform at least 2.5 times wider than long
-
 ## Key to the species
 
-1. Flowers not resupinate, thus labellum uppermost.....3 . Z. stammleri
-1'. Flowers resupinate, thus labellum lowermost.
 
-2. Apical lobe of labellum transverse-elliptic, up to 2 times wider than long
+**1.** Flowers not resupinate, thus labellum uppermost → [[Zeuxine_stammleri\|*Z. stammleri*]] ^k1
 
-2'. Apical lobe of labellum reniform at least 2.5 times wider than long
+**1′.** Flowers resupinate, thus labellum lowermost.
+
+**2.** Apical lobe of labellum transverse-elliptic, up to 2 times wider than long ^k2
+
+**2′.** Apical lobe of labellum reniform at least 2.5 times wider than long
+
 
 ## Species in region
 

@@ -26,13 +26,11 @@ Type species: Cyclosorus gongylodes (Schkuhr) Link.
 
 Approximately 300 species, tropical and subtropical; 3 in Gabon.
 
-1. One or at most 2 pairs of basal veins, united.
+## Key to the species
 
-2. Rhizome short, with fronds close together; presence of white hairs on the veins and on the blade; sori not forming around the sinuses..... I. C. dentatus.
 
-2'. Rhizome extensively creeping, segments glabrous; sori forming around the sinuses..... 2. C. striatus.
+**1′.** 4-5 pairs of veins united in 2 neighboring lobes; lower pinnae very decreasing and auriculate → [[Cyclosorus_afer\|*C. afer*]]
 
-1'. 4–5 pairs of veins united in 2 neighbouring lobes; lower pinnae very decreasing and auriculate..... 3. C. afer.
 
 ## Species in region
 

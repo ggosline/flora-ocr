@@ -42,7 +42,7 @@ Cameroon and Gabon.
 
 N. Hallé : 1243, Bélinga, 800 m (20 fév. 1961), petites fl. blanches à peine rose-violacé, tige redressée, bord de rivière de montagne sous forêt; 3333, Bélinga (26 nov. 1964), fl. à lobes violets plus foncées à l'intérieur.
 
-N. Hallé et G. Cours : 5885, Etéké, alt. 670 m (15 mai 1963), dressée 1 m, fleurs violettes entièrement, corolle très caduque à tube de  $ 40 \times 1 $ mm, style blanc à la base, très foncé au sommet, feuilles vert uni dessus, rarement un peu marbrées de violet dessous, sépales violet clair devenant verts dans les vieilles inflorescences, sentiers rocheux très humides.
+N. Hallé et G. Cours : 5885, Etéké, alt. 670 m (15 mai 1963), dressée 1 m, fleurs violettes entièrement, corolle très caduque à tube de  40 × 1 mm, style blanc à la base, très foncé au sommet, feuilles vert uni dessus, rarement un peu marbrées de violet dessous, sépales violet clair devenant verts dans les vieilles inflorescences, sentiers rocheux très humides.
 
 Le Testu : 5425, entre Itava et Bangondji-Badouma, Haute Ngounyé (8 mai 1925) géniculée à fleurs d'un bleu violacé; 6534, Cambamongo, Haute-Ngounyé (1° juil. 1927), fleurs violettes, 0,80 m; 7766, Mayimba, région de Lastoursville (12 déc. 1929), fleurs violacées.
 

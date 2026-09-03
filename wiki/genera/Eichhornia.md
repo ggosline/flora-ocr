@@ -29,16 +29,13 @@ Bibliography
 
 B: Catarino & Martins (1997), Cook (1998), Lawalrée & Bruynseels (1981), Verdcourt (1968).
 
-### Key to species
-
-1. - Alternate leaves, arranged along a stem; petiole not swollen; flowers solitary ..................................................................................................... E. natans
-
-- Leaves in floating rosette; petiole swollen; flowers in spike ...................... E. crassipes
-
 ## Key to the species
 
-1. - Leaves alternate, arranged along a stem; petiole not swollen; flowers solitary ..................................................................................................... E. natans
-- Leaves in floating rosette; petiole swollen; flowers in spike ...................... E. crassipes
+
+**1.** Leaves alternate, arranged along a stem; petiole not swollen; flowers solitary → [[Eichhornia_natans\|*E. natans*]] ^k1
+
+**1′.** Leaves in floating rosette; petiole swollen; flowers in spike → [[Eichhornia_crassipes\|*E. crassipes*]]
+
 
 ## Species in region
 

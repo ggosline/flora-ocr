@@ -26,19 +26,13 @@ Bibliography
 
 B: Hutchinson & Dalziel (1954), Mabberley (1987), Prance (2004), Tsou (1994).
 
-Key to the species
-
-1. - Blade cordate at the base; branches winged ............................................. C. talbotii
-
-- Blade rounded at the base; prominent lines on branches, but without wings
-
-............................................................................................................ C. congolensis
-
 ## Key to the species
 
-1. - Limb cordate at the base; branches winged ............................................. C. talbotii
-- Limb rounded at the base; raised lines on branches, but no wings
-............................................................................................................ C. congolensis
+
+**1.** Limb cordate at the base; branches winged → [[Crateranthus_talbotii\|*C. talbotii*]] ^k1
+
+**1′.** Limb rounded at the base; raised lines on branches, but no wings → [[Crateranthus_congolensis\|*C. congolensis*]]
+
 
 ## Species in region
 

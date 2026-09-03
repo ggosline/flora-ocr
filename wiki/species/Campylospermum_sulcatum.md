@@ -15,6 +15,11 @@ tags: [species, generated]
 **Family**: [[Ochnaceae]]
 **Protologue**: Bull. Jard. Bot. État Bruxelles 35 : 403 (1965)
 
+## Synonyms
+
+- Ouratea oliveriana Gilg , Bot. Jahrb. Syst. 33 : 261 (1903).
+- Ouratea sulcata (Tiegh.) Keay, Kew Bull. 1953 : 81 (1953).
+
 ## Description
 
 *No descriptive text was segmented for this species.*

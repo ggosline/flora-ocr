@@ -16,7 +16,7 @@ tags: [species, generated]
 
 **Genus**: [[Prionostemma]]
 **Family**: [[Celastraceae]]
-**Protologue**: Bull. Mus. natn. Hist. nat., Paris, 4 $ ^{e} $ sér., 3, B, Adansonia (1): 7 (1981)
+**Protologue**: Bull. Mus. natn. Hist. nat., Paris, 4 ᵉ sér., 3, B, Adansonia (1): 7 (1981)
 
 ## Description
 

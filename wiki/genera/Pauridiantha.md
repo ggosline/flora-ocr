@@ -60,11 +60,15 @@ Type: P. canthiflora Hook. f. This genus, fairly extensive and moderately homoge
 
 ## Keyed but not treated
 
+
 The source key separates these species but the volume gives them no treatment, usually because they fall outside the area it covers in full. They are listed for identification; some are extralimital to the region.
 
-- *Pauridiantha microphylla* — keyed in vol 12, not treated
-- *Pauridiantha multiflora* — keyed in vol 12, not treated
-- *Pauridiantha sylvicola* — keyed in vol 12, not treated
+**—** *Pauridiantha microphylla* — keyed in vol 12, not treated
+
+**—** *Pauridiantha multiflora* — keyed in vol 12, not treated
+
+**—** *Pauridiantha sylvicola* — keyed in vol 12, not treated
+
 
 ## Treatments
 

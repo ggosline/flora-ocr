@@ -41,7 +41,7 @@ Type species: Phaylopsis imbricata (Forsk.) Sweet, described under the binomial 
 
 1'. Corolla up to 8 mm long, tubulate and somewhat campanulate in the upper part; leaves with blade ± asymmetric-oblique at the base, shortly attenuate and scarcely decurrent in the petiole.
 
-2. Inflorescences strobiliform, very dense and elongate, of $ 6 \times 2 $ cm; upper bracts obcordate-orbicular, about 1 cm in diameter..... 2. P. Poggei.
+2. Inflorescences strobiliform, very dense and elongate, of 6 × 2 cm; upper bracts obcordate-orbicular, about 1 cm in diameter..... 2. P. Poggei.
 
 2'. Flowers in very small axillary inflorescences, or in condensed subglobose inflorescences, not exceeding 1.5 cm long and broad; upper bracts ovate or, if ± orbicular, then not exceeding 0.5 cm in diameter.
 

@@ -23,7 +23,7 @@ tags: [species, generated]
 
 Pseudobulbs 1.5–2.5 × 0.5 cm, conical. Leaves 3–8 (–15) × 0.4–2.5 cm, lanceolate. Inflorescence 4.5–12 cm, 10–25-flowered. Flowers
 
-$ ^{*} $ Nature of type reported differently by error in FCAM.
+* Nature of type reported differently by error in FCAM.
 
 whitish-greenish or cream, striped with brown-violet, pleasantly scented. Dorsal sepal ovate-triangular, long-apiculate. Lateral sepals obliquely triangular, long-apiculate. Lip distinctly three-lobed in the apical third, thin, delicate, without callus, basal part obtrapezoidal to semi-rounded; midlobe oblong-ovate, apiculate; lateral lobes triangular-ovate, rounded, sparsely ciliate on the inner face. Spur saccate. – Pl. 130, p. 297.
 

@@ -58,10 +58,13 @@ The beauty of the floral bouquets is worth emphasizing for a possible horticultu
 
 ## Keyed but not treated
 
+
 The source key separates these species but the volume gives them no treatment, usually because they fall outside the area it covers in full. They are listed for identification; some are extralimital to the region.
 
-- *Leptactina latifolia* — keyed in vol 17, not treated
-- *Leptactina surongaensis* — keyed in vol 17, not treated
+**—** *Leptactina latifolia* — keyed in vol 17, not treated
+
+**—** *Leptactina surongaensis* — keyed in vol 17, not treated
+
 
 ## Treatments
 

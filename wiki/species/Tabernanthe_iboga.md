@@ -34,7 +34,7 @@ iboga (nom commun) ; bois amer, bois sacré (fr.) ; bitter grass, eboka, leaf of
 
 ![Tabernanthe iboga](../sources/Apocynaceae_vol59_liteparse/figures/fig_226_p0255.jpeg)
 
-*Plate 119. Tabernanthe iboga: 1. Flowering branch (× ⅔). – 2. Base of a subsessile leaf (× ⅔). – 3. Floral bud (× 5). – 4. Calyx lobe, internal face (× 5). – 5. Corolla, longitudinal section (× 5). – 6. Corolla lobe (× 5). – 7. Stamen, dorsal view (× 5). – 8. Idem, lateral view (× 10). – 9.*
+*Plate 119. Tabernanthe iboga: 1. Flowering branch (× ⅔). – 2. Base of a subsessile leaf (× ⅔). – 3. Floral bud (× 5). – 4. Calyx lobe, internal surface (× 5). – 5. Corolla, longitudinal section (× 5). – 6. Corolla lobe (× 5). – 7. Stamen, dorsal view (× 5). – 8. Idem, lateral view (× 10). – 9.*
 
 ![Tabernanthe iboga](../sources/Apocynaceae_vol59_liteparse/figures/fig_227_p0256.jpeg)
 

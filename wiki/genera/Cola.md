@@ -70,11 +70,15 @@ We have often deviated from the concepts of Schumann (1900) in the divisions of 
 
 ## Keyed but not treated
 
+
 The source key separates these species but the volume gives them no treatment, usually because they fall outside the area it covers in full. They are listed for identification; some are extralimital to the region.
 
-- *Cola altissima* — keyed in vol 02, not treated
-- *Cola gabonensis* — keyed in vol 02, not treated
-- *Cola lepidota* — keyed in vol 02, not treated
+**—** *Cola altissima* — keyed in vol 02, not treated
+
+**—** *Cola gabonensis* — keyed in vol 02, not treated
+
+**—** *Cola lepidota* — keyed in vol 02, not treated
+
 
 ## Treatments
 

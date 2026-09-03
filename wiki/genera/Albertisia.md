@@ -43,16 +43,19 @@ endemic or near-endemic.
 
 ## Key (translated from French)
 
-1. Leaf blade with (2)3(4) pairs of basal nerves; if a single pair, then
-   longer than half the blade ............................................... **2**
-   - Leaf blade with 5 or 6 pairs of slender lateral nerves, without
-     dominant basal nerves ........................... [[Albertisia_mouilaensis|*A. mouilaensis*]]
-2. Leaf blade ovate, (10–)17–31 × (5–)9–16 cm, with 2 to 4 pairs of basal
-   nerves ................................................................. **3**
-   - Leaf blade oblong-elliptic, 9–11 × 4–4.5 cm, with one pair of basal
-     nerves longer than half the blade ................. [[Albertisia_badia|*A. badia*]]
-3. Branches, petioles and lower leaf venation **tomentose** ........... [[Albertisia_porcata|*A. porcata*]]
-   - Branches, petioles and lower leaf venation **hirsute** ............ [[Albertisia_sp_nov|*A.* sp. (nov.?)]]
+
+**1.** Leaf blade with (2)3(4) pairs of basal nerves; if a single pair, then longer than half the blade → **2** ^k1
+
+**1′.** Leaf blade with 5 or 6 pairs of slender lateral nerves, without dominant basal nerves → [[Albertisia_mouilaensis|*A. mouilaensis*]]
+
+**2.** Leaf blade ovate, (10–)17–31 × (5–)9–16 cm, with 2 to 4 pairs of basal nerves → **3** ^k2
+
+**2′.** Leaf blade oblong-elliptic, 9–11 × 4–4.5 cm, with one pair of basal nerves longer than half the blade → [[Albertisia_badia|*A. badia*]]
+
+**3.** Branches, petioles and lower leaf venation **tomentose** → [[Albertisia_porcata|*A. porcata*]] ^k3
+
+**3′.** Branches, petioles and lower leaf venation **hirsute** → [[Albertisia_sp_nov|*A.* sp. (nov.?)]]
+
 
 ## Treatments
 

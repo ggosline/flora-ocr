@@ -40,7 +40,7 @@ Small creeping plant with rooting nodes; stems branched, crossing over the soil 
 
 Inflorescences terminal and axillary, as long as the leaves or slightly exceeding them, simple, spike-like and closely resembling those of the genus Rungia; 2-6 inflorescences per node; peduncle 2-2.5 cm long, with two lines of curved and appressed hairs; spikes 10-25 × 6-7 mm. Bracts sessile orbicular-obovate, 3 × 4 mm, glabrous, ± transparent, somewhat narrowed at the base, very finely dentate-ciliate on the margins with at the apex a small point with rounded or obtuse apex. Bracteoles lanceolate, pilose, 1.5 × 0.5 mm. Calyx split almost to the base, with lanceolate sepals, 2.5 × 0.2 mm, very finely ciliate on the margins. Corolla white, with a few reddish spots on the lower lip, approximately 2.5 mm long, with a tube 1.5 mm long; upper lip 1 × 0.5 mm; lower lip 1 × 0.5 mm. Anthers 0.8 mm, with filament 1 mm; locules 0.3 mm, pilose; the lower locule is provided with a hyaline spur 0.7 mm. Ovary 0.5 mm high; style 1.5 mm.
 
-Capsule $ 3 \times 0.75 $ mm, with lower portion ± stipitate for 1 mm. Seeds flattened $ 0.4 \times 0.3 \times 0.15 $ mm, covered with small white hygroscopic hairs.
+Capsule 3 × 0.75 mm, with lower portion ± stipitate for 1 mm. Seeds flattened 0.4 × 0.3 × 0.15 mm, covered with small white hygroscopic hairs.
 
 ## Type
 

@@ -31,7 +31,7 @@ Small shrub 2–4 and up to 7 m tall; internodes glabrous. Stipules glabrous 10�
 
 Inflorescences glabrous 9–20-flowered, lax, racemose or poorly paniclelike, with rachis 3–8 cm; bracts reduced to imperceptible traces. Pedicels 5–10 (20) mm long. Flowers glabrous, fragrant. Ovary turbinate approximately 3 × 2 mm. Calyx limb cupuliform 2–2.5 mm tall and 2.5–3 mm in diameter, with truncate-5-mucronulate margin. Corolla white with tube 15–20 × 0.15–0.2 mm, with 5 lobes 17–30 × 2.5–4 mm. Anthers subsessile exserted 6–9 × 0.5 mm. Style glabrous exceeding the throat by 1–2 cm; stigmatic club fusiform acute, narrowly bifid approximately 5 × 1 mm. Ovary unilocular: the two placentas are fused only at the extreme base.
 
-Fruit ellipsoid or pyriform 4–6 × 2.5–3 cm, smooth, dark green streaked with longitudinal marbling, yellow-orange at maturity, with small persistent calycinous capsule, with wall thick reaching 6 mm in vivo, 3.5 mm when dry, with hard lignified mesocarp, with thin endocarp little resistant, with 2 parietal placentas facing each other. Seeds up to about fifty ± imbricate, $ 7 \times 5 \times 2 $ mm, reddish-brown adorned with subconcentrically fibrous strioles. Albumen fleshy oily. Embryo white, straight 3 mm.
+Fruit ellipsoid or pyriform 4–6 × 2.5–3 cm, smooth, dark green streaked with longitudinal marbling, yellow-orange at maturity, with small persistent calycinous capsule, with wall thick reaching 6 mm in vivo, 3.5 mm when dry, with hard lignified mesocarp, with thin endocarp little resistant, with 2 parietal placentas facing each other. Seeds up to about fifty ± imbricate, 7 × 5 × 2 mm, reddish-brown adorned with subconcentrically fibrous strioles. Albumen fleshy oily. Embryo white, straight 3 mm.
 
 ## Type
 

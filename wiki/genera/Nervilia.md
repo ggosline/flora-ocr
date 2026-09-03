@@ -34,45 +34,25 @@ The pollination biology of this genus was observed by PETTERSSON (1989). He dist
 
 The genus comprises approximately sixty species distributed in Africa, Asia and Australia, of which 13 for continental Africa, 3 are present in Gabon.
 
-### KEY TO SPECIES (by flowers)
-
-1. Labellum with apical margin fimbriate or crenate ..... 3. N. petraea
-
-1'. Labellum with apical margin entire ..... 2
-
-2. Lower part of labellum panduriform, wider at the apex, lateral lobes obtuse ..... 1. N. adolphi
-
-2'. Lower part of labellum oblong-elliptic to oblong in crescent shape, wider near the middle, lateral lobes acute to auriculiform ..... 2. N. bicarinata
-
-### KEY TO SPECIES (by leaves)
-
-1. Petiole > 10 cm ..... 2. N. bicarinata
-
-1'. Petiole < 6(7) cm ..... 2
-
-2. Leaf very small, width < 2(2.5) cm and without distinct apicule ..... 3. N. petraea
-
-2'. Leaf larger and apiculate ..... 1. N. adolphi
-
 ## Key to the species
 
-1. Labellum with apical margin fimbriate or crenate ..... 3. N. petraea
 
-1'. Labellum with apical margin entire ..... 2
+**1.** Labellum with apical margin fimbriate or crenate → [[Nervilia_petraea\|*N. petraea*]] ^k1
 
-2. Lower part of labellum pandurate, wider at apex, lateral lobes obtuse ..... 1. N. adolphi
+**1′.** Labellum with apical margin entire → [[#^k2|2]]
 
-2'. Lower part of labellum oblong-elliptic to lunate-oblong, wider near the middle, lateral lobes acute to auriculiform ..... 2. N. bicarinata
+**2.** Lower part of labellum pandurate, wider at apex, lateral lobes obtuse → [[Nervilia_adolphi\|*N. adolphi*]] ^k2
 
-KEY TO SPECIES (by the leaves)
+**2′.** Lower part of labellum oblong-elliptic to lunate-oblong, wider near the middle, lateral lobes acute to auriculiform → 2. N. bicarinata KEY TO SPECIES (by the leaves)
 
-1. Petiole > 10 cm ..... 2. N. bicarinata
+**1.** Petiole > 10 cm → [[Nervilia_bicarinata\|*N. bicarinata*]]
 
-1'. Petiole < 6(7) cm ..... 2
+**1′.** Petiole < 6(7) cm → [[#^k2|2]]
 
-2. Leaf very small, width < 2(2.5) cm and without distinct apicule ..... 3. N. petraea
+**2.** Leaf very small, width < 2(2.5) cm and without distinct apicule → [[Nervilia_petraea\|*N. petraea*]]
 
-2'. Leaf larger and apiculate ..... 1. N. adolphi
+**2′.** Leaf larger and apiculate → [[Nervilia_adolphi\|*N. adolphi*]]
+
 
 ## Species in region
 

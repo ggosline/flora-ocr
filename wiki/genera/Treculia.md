@@ -31,23 +31,17 @@ In sect. Treculia the plants can be monoecious and the inflorescences are someti
 
 In sect. Pseudotreculia BALL. (= sect. Microtreculia ENGL.) the plants are always dioecious and the inflorescences are solely unisexual. The inflorescences have exceptionally interflorals bracts furnished with a prickle, which becomes a spine in the infructescence. The anthers are short, broad and latrorse to introrse. The exocarp is coriaceous.
 
-### KEY TO THE SPECIES
-
-1. Blade generally ± asymmetric; inflorescences with only peltate interflorals bracts; inflorescences at least 25 mm in diameter; anthers long and narrow..... 1. T. africana.
-
----
-
-1. Blade symmetric or slightly asymmetric; inflorescences generally with prickly interflorals bracts; if only peltate bracts, then inflorescences at least 5 mm in diameter; anthers short and broad.
-
 ## Key to the species
 
-1. Limb generally ± asymmetric; inflorescences with only peltate interflo­ral bracts; inflorescences at least 25 mm in diameter; anthers long and narrow..... 1. T. africana.
 
----
+**1.** Limb generally ± asymmetric; inflorescences with only peltate interflo­ral bracts; inflorescences at least 25 mm in diameter; anthers long and narrow → [[Treculia_africana\|*T. africana*]] ^k1
 
-1. Limb symmetric or slightly asymmetric; inflorescences generally with spinose interflo­ral bracts; if only peltate bracts, then inflorescences at least 5 mm in diameter; anthers short and broad.
-2. Shrubs; nerves on the lower surface with scattered uncinate hairs; "spines" of the infructescence reaching 0.5 cm in length..... 2. T. acuminata.
-2. Trees; nerves on the lower surface with only straight appressed hairs; "spines" of the infructescence reaching 2 cm in length..... 3. T. obovoidea.
+**1.** Limb symmetric or slightly asymmetric; inflorescences generally with spinose interflo­ral bracts; if only peltate bracts, then inflorescences at least 5 mm in diameter; anthers short and broad.
+
+**2.** Shrubs; nerves on the lower surface with scattered uncinate hairs; "spines" of the infructescence reaching 0.5 cm in length → [[Treculia_acuminata\|*T. acuminata*]] ^k2
+
+**2.** Trees; nerves on the lower surface with only straight appressed hairs; "spines" of the infructescence reaching 2 cm in length → [[Treculia_obovoidea\|*T. obovoidea*]]
+
 
 ## Species in region
 

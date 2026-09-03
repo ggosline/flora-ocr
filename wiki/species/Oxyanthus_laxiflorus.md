@@ -26,7 +26,7 @@ Shrub 1–1.50 m tall. Stipules 6–10 mm. Petiole 5–10 mm. Blade ± reddish-b
 
 Inflorescences 15–35-flowered in a small panicle 1–2.5 cm excluding the corollas, with a short peduncle, with small acute bracts. Pedicels 2–7 mm. Calycine cup green, 0.7–1 mm tall; lobes 0.5–0.8 mm. Corolla white with tube 3–6 cm long; lobes linear, 15–18 × 1.5 mm. Anthers ⊥ caducous, 3 × 0.3 mm. Style very slender; stigmatic head very small and very exserted.
 
-Fruit globose, 13–21 mm in diameter, oriented upward, smooth orange, with caducous calycine cup, with thin pericarp approximately 0.6 mm. Nearly 30 seeds $ 8 \times 5 \times 2.5 $ mm, reddish-brown, with testa appearing corded.
+Fruit globose, 13–21 mm in diameter, oriented upward, smooth orange, with caducous calycine cup, with thin pericarp approximately 0.6 mm. Nearly 30 seeds 8 × 5 × 2.5 mm, reddish-brown, with testa appearing corded.
 
 ## Type
 

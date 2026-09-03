@@ -57,7 +57,7 @@ A. Walker : 4, Une Acanthacée à fleurs blanches, à gorge jaune. En terrains b
 
 EXPLICATION DE LA PLANCHE XII, fig. 1-10:
 
-1, rameau florifère avec fleur de 67 mm de long; 2, petites feuilles d'un rameau stérile; 3, grande feuille d'un vieux rameau; 4, nœud; 5, bractéole de 20 mm de long; 6, calice de 2,7 mm de haut; 7, détail de l'androcée, loges des anthères de 5 mm de long; 8, pistil (disque et ovaire de 3 mm de haut, style 30 mm de long, stigmate 4,2 mm de long; 9, fruit au début de la déhiscence de 20 mm de long; 9', valve du fruit, face intérieure; 10, graine de  $ 6,5 \times 4,4 $ mm. — 1, N. Hallé 83; 1', 2, 6-8, C't Masson 16 oct. 1883; 3, Tisserant 604; 4, A. Chevalier 27137; 5, Klaine 1884; 9, 9', 10, Walker 4.
+1, rameau florifère avec fleur de 67 mm de long; 2, petites feuilles d'un rameau stérile; 3, grande feuille d'un vieux rameau; 4, nœud; 5, bractéole de 20 mm de long; 6, calice de 2,7 mm de haut; 7, détail de l'androcée, loges des anthères de 5 mm de long; 8, pistil (disque et ovaire de 3 mm de haut, style 30 mm de long, stigmate 4,2 mm de long; 9, fruit au début de la déhiscence de 20 mm de long; 9', valve du fruit, face intérieure; 10, graine de  6,5 × 4,4 mm. — 1, N. Hallé 83; 1', 2, 6-8, C't Masson 16 oct. 1883; 3, Tisserant 604; 4, A. Chevalier 27137; 5, Klaine 1884; 9, 9', 10, Walker 4.
 
 ## Figures
 

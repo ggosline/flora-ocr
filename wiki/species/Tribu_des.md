@@ -20,7 +20,7 @@ tags: [species, generated]
 
 Of the twenty-five genera cited by Lemée, only one is known from Gabon: Beilschmiedia. The African genus most closely related to the genus Beilschmiedia is characterized by the fruit completely covered at maturity by the accrescent calyx; hence its name: Cryptocarya (literally, hidden nut) type of the tribe. In contrast, the calyx is caducous in Beilschmiedia and the fruit remains naked. Since many Gabonese plants are known only from flowering specimens but not fruiting ones, the attribution to one or the other genus might seem doubtful. Fortunately, in the Malagasy and East African species of Cryptocarya, the floral pedicels bear three small tiered bracteoles whereas all African Beilschmiedia have naked pedicels, the bracteoles being found only at the insertion of the main branches of the inflorescence. However, the presence or absence of bracteoles on the pedicels is not a valid generic character outside Africa because Beilschmiedia Roxburghiana Nees, from Bengal, precisely the type of the genus, bears a large bracteole at mid-height of the floral pedicels. Up to now, no Cryptocarya has been reported either from Gabon or from Congo; the range of the genus would not extend beyond East Africa and South Africa.
 
-2. BEILSCHMIEDIA $^{1}$ Nees von Esenbeck
+2. BEILSCHMIEDIA ¹ Nees von Esenbeck
 
 — Wallich, Plantae asiaticae rariorae, 2: 669 (1831). — Robyns et Wilczek, Bull. Jard. Bot. Brux.: 459 (1949): 197 (1950).
 

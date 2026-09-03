@@ -93,7 +93,7 @@ Le sous-groupe du F. conraui, plus hétérogène, comprend les espèces avec des
 
 D'autres espèces appartenant à ce groupe sont F. arcuato-nervata Hutch. (avec des figues sessiles) et F. ardisioides WARB. (avec des figues pédonculées non stipitées et des stipules caduques). Ces deux espèces se rencontrent en Afrique centrale sont très fortement proches et les deux montrent des affinités avec F. camptoneura par les petites figues et la nervation du limbe.
 
-F. kirkii Hutch. (de la Tanzanie au Zimbabwe), F. michelsonii Boutique & Léonard (du Zaïre, à haute altitude) et F. scott-elliotii Mildbr. & Burret (d'Afrique de l'Ouest) sont alliés au sous-groupe du F. conraui, à moins que F. kirkii $ ^{1} $ et F. scott-elliotii constitue un autre groupe, par exemple, à cause de l'absence de stipules persistantes et de stipes distincts du réceptable.
+F. kirkii Hutch. (de la Tanzanie au Zimbabwe), F. michelsonii Boutique & Léonard (du Zaïre, à haute altitude) et F. scott-elliotii Mildbr. & Burret (d'Afrique de l'Ouest) sont alliés au sous-groupe du F. conraui, à moins que F. kirkii ¹ et F. scott-elliotii constitue un autre groupe, par exemple, à cause de l'absence de stipules persistantes et de stipes distincts du réceptable.
 
 1. F. kirkii est un synonyme de Ficus scassellatii PAMPANINI.
 

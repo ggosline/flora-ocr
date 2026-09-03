@@ -42,7 +42,7 @@ primary forest, swamp forest; in Gabon at approximately 600 m elevation, elsewhe
 
 ![Schefflerodendron usambarense](../sources/Millettiaspeciesfabaceae_vol49_liteparse/figures/fig_124_p0346.png)
 
-*Plate 116: Schefflerodendron usambarense: 1. Flowering branch. – 2. Detail of lower surface of leaflet. – 3. Stipules. – 4. Base of leaflet with stipels. – 5. Flower bud. – 6. Detail of indu - mentum on external surface of calyx. – 7. Pod. – 8. Pod, open. Drawing by Hans de Vries, Naturalis.*
+*Plate 116: Schefflerodendron usambarense: 1. Flowering branch. – 2. Detail of lower surface of leaflet. – 3. Stipules. – 4. Base of leaflet with stipels. – 5. Flower bud. – 6. Detail of indumentum on external surface of calyx. – 7. Pod. – 8. Pod, open. Drawing by Hans de Vries, Naturalis.*
 
 ## Notes
 

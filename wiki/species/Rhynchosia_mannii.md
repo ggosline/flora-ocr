@@ -39,7 +39,7 @@ Standard, inner face (× 2). – 4. Wing, outer face (× 2). – 5. Keel (× 2).
 
 ![Rhynchosia mannii](../sources/Millettiaspeciesfabaceae_vol49_liteparse/figures/fig_121_p0340.png)
 
-*Plate 113: Rhynchosia mannii: 1. Fruiting branch (× ½). – 2. Calyx spread open, internal face (× 3). – 3.*
+*Plate 113: Rhynchosia mannii: 1. Fruiting branch (× ½). – 2. Calyx spread open, internal surface (× 3). – 3.*
 
 ## Notes
 

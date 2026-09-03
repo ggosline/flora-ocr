@@ -31,18 +31,13 @@ B: Faye et al. (2014), Sunderland (2007, 2012).
 
 Bibliography
 
-### Key to species
-
-1. - Stem < 3 cm in diameter; swelling below the petiole absent; seed covered with polygonal depressions .............................................................................. O. mannii
-
-- Stem > 3 cm in diameter; swelling below the petiole clearly present;
-
 ## Key to the species
 
-1. - Stipe < 3 cm in diameter; swelling below the petiole absent; seed covered
-with polygonal depressions .............................................................................. O. mannii
-- Stipe > 3 cm in diameter; swelling below the petiole clearly present;
-seed smooth ............................................................................................. O. macrospathus
+
+**1.** Stipe < 3 cm in diameter; swelling below the petiole absent; seed covered with polygonal depressions → [[Oncocalamus_mannii\|*O. mannii*]] ^k1
+
+**1′.** Stipe > 3 cm in diameter; swelling below the petiole clearly present; seed smooth → [[Oncocalamus_macrospathus\|*O. macrospathus*]]
+
 
 ## Species in region
 

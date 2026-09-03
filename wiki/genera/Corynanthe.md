@@ -38,9 +38,11 @@ The genus Corynanthe is composed of 5 (or 6) species of which two are known from
 
 ## Keyed but not treated
 
+
 The source key separates these species but the volume gives them no treatment, usually because they fall outside the area it covers in full. They are listed for identification; some are extralimital to the region.
 
-- *Corynanthe paniculata* — keyed in vol 12, not treated
+**—** *Corynanthe paniculata* — keyed in vol 12, not treated
+
 
 ## Treatments
 

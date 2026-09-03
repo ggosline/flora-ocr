@@ -28,26 +28,17 @@ Bibliography
 
 ---
 
-### Key to species
-
-1. – Anthers arranged on both surfaces of the staminal phalange; male flower and female flower with smooth or superficially wrinkled discal glands; ovary with 2–5 ovules per locule; fruit with 4–20 seeds ................................................................................. 2
-
-– Anthers arranged only on the inner surface of the staminal phalange; male flower with deeply pleated-foliate discal glands; female flower with wrinkled discal glands; ovary with numerous ovules per locule; fruit with 40–80 seeds
-
-............................................................................................................... A. floribunda
-
-2. – Leaf obovate, apex cuspidate; male flower with robust pedicel 3–6 cm, petals dark pink and discal glands slightly wrinkled; inner sepals 17–20 mm in diameter; petals 20–30 × 20–25 mm ............................................... A. gabonensis
-
-– Leaf elliptic to elliptic-oblong or oblanceolate, apex acuminate; male flower with slender pedicel 8–10 cm, petals white to whitish-green and discal glands smooth; inner sepals 11–15 mm in diameter; petals 20–22 × 12–15 mm .................................................................. A. staneriana
-
 ## Key to the species
 
-1. - Anthers arranged on the 2 faces of the stamen phalanx; male flower and female flower with smooth or superficially wrinkled disc glands; ovary with 2–5 ovules per locule; fruit with 4–20 seeds ................................................................................. 2
-- Anthers arranged only on the internal face of the stamen phalanx; male flower with deeply pleated-foliate disc glands; female flower with wrinkled disc glands; ovary with numerous ovules per locule; fruit with 40–80 seeds
-............................................................................................................... A. floribunda
-2. - Leaf obovate, apex cuspidate; male flower with robust pedicel 3–6 cm, petals dark pink and disc glands slightly wrinkled; inner sepals 17–20 mm in diameter; petals 20–30 × 20–25 mm ............................................... A. gabonensis
-- Leaf elliptic to elliptic-oblong or oblanceolate, apex acuminate; male flower with slender pedicel 8–10 cm, petals white to whitish-green and disc glands smooth; inner sepals 11–15 mm in diameter;
-petals 20–22 × 12–15 mm .................................................................. A. staneriana
+
+**1.** Anthers arranged on the 2 faces of the stamen phalanx; male flower and female flower with smooth or superficially wrinkled disc glands; ovary with 2–5 ovules per locule; fruit with 4–20 seeds → [[#^k2|2]] ^k1
+
+**1′.** Anthers arranged only on the internal face of the stamen phalanx; male flower with deeply pleated-foliate disc glands; female flower with wrinkled disc glands; ovary with numerous ovules per locule; fruit with 40–80 seeds → [[Allanblackia_floribunda\|*A. floribunda*]]
+
+**2.** Leaf obovate, apex cuspidate; male flower with robust pedicel 3–6 cm, petals dark pink and disc glands slightly wrinkled; inner sepals 17–20 mm in diameter; petals 20–30 × 20–25 mm → [[Allanblackia_gabonensis\|*A. gabonensis*]] ^k2
+
+**2′.** Leaf elliptic to elliptic-oblong or oblanceolate, apex acuminate; male flower with slender pedicel 8–10 cm, petals white to whitish-green and disc glands smooth; inner sepals 11–15 mm in diameter; petals 20–22 × 12–15 mm → [[Allanblackia_staneriana\|*A. staneriana*]]
+
 
 ## Species in region
 

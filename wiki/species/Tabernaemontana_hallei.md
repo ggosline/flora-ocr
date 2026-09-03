@@ -7,7 +7,6 @@ family: Apocynaceae
 vol: 59
 pages: 245-247
 source: sources/Apocynaceae_vol59_liteparse
-habit: "shrub"
 tags: [species, generated]
 ---
 # *Tabernaemontana hallei* (Boiteau) Leeuwenb. Planche 114
@@ -16,13 +15,17 @@ tags: [species, generated]
 **Family**: [[Apocynaceae]]
 **Protologue**: Rev. Tabernaemontana : Old World sp. : 40 (1991)
 
+## Synonyms
+
+- Gabunia hallei Boiteau, Bull. Mus. Natl. Hist. Nat. , sér. B, Adansonia 3 : 218 (1981).
+
 ## Description
 
-Shrub reaching 2.5 m in height; branches with large lenticels; branchlets glabrous. Leaves of one pair, equal or unequal, the largest up to sometimes as long as the other. Petiole of 3–5 mm, glabrous, ochre, well visible, limb broadly to narrowly elliptic to obovate, 2–4 times as long as wide, 5–14 × 2–4 cm, cuneate at the base, acuminate or apiculate at the apex, papyraceous to coriaceous (even when fresh), glabrous on both faces; secondary veins 7 to 12 pairs. Inflorescence erect, dense, with flowers with pedicel of 1–2 mm, rather robust. Flower erect; pedicel of 3–7 mm; calyx with lobes 1.7–3.3 times as long as wide, of 2–5 × 1–2 mm, slightly fleshy, glabrous or only obscurely ciliate at the apex, on the interior with 3 to 10 colleters in 1 to 3 centrobasal rows; corolla white, often with tube greenish and throat pale yellow, rather thin, slightly fleshy, bud nearly cylindrical and with head broadly ovoid to subglobulous, of 2–3 times the length of the bud, glabrous on the exterior, the interior partially pilose or pubescent, with tube subcylindrical, long of 70–120 mm, not angular, wide of 3–4 mm at the base, deflexed at the level of the insertion of the stamens to 4–7 mm, twisted especially at the base, with lobes 0.3–0.47 times as long as the tube, 2–4 times as long as wide, of 2–4 × 0.5–1 mm; stamens inserted at 0.09–0.13 of the length of the tube, at 7–9 mm from the base, sessile anther, long of 9–11 mm; pistil long of 15–17 mm, glabrous, the apex arriving near the midpoint of the anthers. Fruit: mericarps separated, spreading, elliptic, long of 50–75 mm, yellow or orange. Distribution known only from the south of Cameroon and Gabon, in Gabon: Estuaire, Ogooué, Ivindo and Woleu-Ntem.
+Shrub reaching 2.5 m in height; branches with large lenticels; branchlets glabrous. Leaves of a pair equal or unequal, the largest up to sometimes also as long as the other; petiole 4–8 mm, glabrous, ochre, clearly visible; blade broadly to narrowly elliptic to obovate, 4–9 times as long as wide, 3–17 × 0.5–2 cm, cuneate at the base, acuminate or apiculate at the apex, papyraceous to coriaceous (even fresh), glabrous on both faces; secondary veins 7 to 12 pairs. Inflorescence erect, dense with flowers; pedicel 1–2 mm, quite robust. Flower erect; pedicel 3–7 mm; calyx with lobes 1.7–3.3 times as long as wide, 3–5 × 1–2 mm, slightly fleshy, glabrous or only obscurely ciliate at the apex, on the interior with 3 to 10 colleters in 1 to 3 centro-basal rows; corolla white, often with tube greenish and pale yellow throat, quite thin, slightly fleshy; bud nearly cylindrical and with head broadly ovoid to subglobose, 4–5 times the length of the bud, glabrous on the exterior, the interior partially pilose or pubescent, with subcylindrical tube 70–120 mm long, not angular, 4–6 mm wide at the base, reflexed at the level of insertion of the stamens to 4–7 mm, twisted especially at the base, with lobes 0.3–0.47 times as long as the tube, 4–7 times as long as wide, 5–9 × 0.7–1 mm; stamens inserted at 0.09–0.13 of the length of the tube, 7–9 mm from the base, anther sessile, 9–11 mm long; pistil 15–17 mm long, glabrous, the apex reaching near the middle of the anthers. Fruit: mericarps separated, spreading, elliptic, 50–75 mm long, yellow or orange. Distribution: known only from southern Cameroon and Gabon in Gabon, Estuaire, Ogooué, Ivindo and Woleu-Ntem.
 
 B A C E D F G Olivier Lachenaud (C: Ndendé-Lebamba, Gabon), Archange Boupoya (D: Rivière Louetsi, Gabon) and Nicolas Texier (310 Mwagna, Gabon)
 
-Ecology riverbanks, swampy rivers in forest in Gabon, up to 700 m in altitude, elsewhere at 0–700 m. Notes In flowers, this species resembles a small T. crassa which may also have a corolla tube as long. The orange and non-subglobulous fruits of T. hallei are clearly different. The name T. hallei (Boiteau) Leeuwenberg had already been published in 1984, but in an invalid form, in J. Ethno-pharmacol. 10(1): 13. B: Boiteau & Allorge (1981), Leeuwenberg (1991). BIBLIOGRAPHY
+Ecology: banks of marshy rivers in forest in Gabon up to 400 m altitude; elsewhere at 0–700 m. Notes: In flowers, this species resembles a small T. crassa which may also have a corolla tube as long. The orange and non-subglobose fruits of T. hallei are clearly different. The name T. hallei (Boiteau) Leeuwenberg had already been published in 1984, but in an invalid form, in J. Ethno-pharmacol. 10(1): 13. B: Boiteau & Allorge (1981), Leeuwenberg (1991). BIBLIOGRAPHY
 
 ## Figures
 

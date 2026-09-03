@@ -25,31 +25,19 @@ Type species: Griffonia physocarpa Baillon.
 
 These liane species can be separated as follows:
 
-1. Calyx glabrous externally; long receptacle of 20-30 mm.....
-
-1'. Calyx ± pubescent externally.
-
-2. Densely pubescent.
-
-3. Greyish; petals glabrous on the outside; receptacle of 12-15 mm, ± pubescent on the inside..... 2. G. simplicifolia.
-
-3'. Light brown; petals pubescent on both faces; short receptacle of 4-6 mm..... 3. G. Tessmannii.
-
-2'. Slightly pubescent; long receptacle of 18-25 mm..... 4. G. speciosa.
-
 ## Key to the species
 
-1. Calyx glabrous externally; long receptacle of 20-30 mm.....
 
-1'. Calyx ± pubescent externally.
+**1.** Calyx glabrous externally; long receptacle of 20-30 mm..... ^k1
 
-2. Very pubescent.
+**1′.** Calyx ± pubescent externally → *V. pubescent*
 
-3. Greyish; petals glabrous on the outside; receptacle of 12-15 mm, ± pubescent on the inside..... 2. G. simplicifolia.
+**3.** Greyish; petals glabrous on the outside; receptacle of 12-15 mm, ± pubescent on the inside → [[Griffonia_simplicifolia\|*G. simplicifolia*]] ^k3
 
-3'. Light brown; petals pubescent on both faces; short receptacle of 4-6 mm..... 3. G. Tessmannii.
+**3′.** Light brown; petals pubescent on both faces; short receptacle of 4-6 mm → 3. G. Tessmannii.
 
-2'. Slightly pubescent; long receptacle of 18-25 mm..... 4. G. speciosa.
+**2′.** Slightly pubescent; long receptacle of 18-25 mm → [[Griffonia_speciosa\|*G. speciosa*]]
+
 
 ## Species in region
 

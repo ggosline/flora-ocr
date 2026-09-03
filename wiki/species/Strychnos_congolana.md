@@ -29,7 +29,7 @@ Leaves with petiole short, pubescent or glabrous, 2-7 mm in length; blade herbac
 
 Inflorescences terminal, 2-3 × 2.5-6 cm, multiflorous, rather contracted; peduncle, branches and pedicels pubescent. Flowers 5-merous. Sepals pale green, fused at the base, narrowly oblong, 1.2-3 × 0.6-1 mm, long acuminate, generally not ciliate, glabrous or, especially at the base, puberulent outside, glabrous inside. Corolla when fully open 1.8-3.3 times longer than the calyx and 3-5 × 2-3.5 mm, pale green, broadly cylindric to urceolate, glabrous or finely puberulent outside, inside with a narrow penicillate crown with white hairs; tube 1.7-2.5 times longer than the lobes, longitudinally split from the insertion of the stamens to the crown; lobes triangular, 1.2-1.8 × 0.8-1.3 mm, acute, erect. Stamens included, inserted at the level of the corolla throat, with filament of the same length as the anther, glabrous; anther oblong, ciliate all around, with villous hairs. Pistil glabrous or pubescent, 2 mm in length; ovary ovoid, 2-locular, gradually narrowed on the very short style; stigma capitate; 40-50 ovules per locule.
 
-Fruits large, globose, pale green to yellow (?), 7-10 cm in diameter, polyspermic; wall 5 mm thick. Seeds obliquely ovate or elliptic, $ 20 \times 12-14.5 \times 5 $ mm, often quite smooth, glabrous or nearly glabrous. Pl. 26, p. 134.
+Fruits large, globose, pale green to yellow (?), 7-10 cm in diameter, polyspermic; wall 5 mm thick. Seeds obliquely ovate or elliptic, 20 × 12-14.5 × 5 mm, often quite smooth, glabrous or nearly glabrous. Pl. 26, p. 134.
 
 ## Type
 

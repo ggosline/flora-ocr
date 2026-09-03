@@ -39,7 +39,7 @@ The heartwood of the tree provides grey-brown to dark brown wood, easy to work.
 
 ## Specimens examined
 
-Le Testu : 2180, Outembo, H $ ^{te} $ Ngounyé (fl. nov. ); 7367, Lastoursville; 7631, même localité (fl. nov.).
+Le Testu : 2180, Outembo, H tᵉ Ngounyé (fl. nov. ); 7367, Lastoursville; 7631, même localité (fl. nov.).
 
 ## Notes
 

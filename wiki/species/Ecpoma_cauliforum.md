@@ -17,7 +17,7 @@ tags: [species, generated]
 
 ## Synonyms
 
-- Sabicea ( $ ^{?} $) cauliflora Hiern, F.T.A. 3 : 77 (1877).
+- Sabicea ( ?) cauliflora Hiern, F.T.A. 3 : 77 (1877).
 
 ## Description
 

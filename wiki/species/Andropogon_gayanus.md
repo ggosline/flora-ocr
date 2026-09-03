@@ -58,11 +58,11 @@ The ecology of these two varieties is doubtless quite close to that of A. gabone
 
 ## Specimens examined
 
-$ 1^{0} $ var. bisquamulatus :
+1⁰ var. bisquamulatus :
 
 Griffon du Bellay : sans localité, 1863.
 
-$ 2^{0} $ var. squamulatus :
+2⁰ var. squamulatus :
 
 Soyaux : 410, Ferme de Sibang (éch. non vu).
 

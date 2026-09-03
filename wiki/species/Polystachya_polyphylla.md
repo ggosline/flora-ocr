@@ -20,7 +20,7 @@ tags: [species, generated]
 
 ## Description
 
-$ ^{*} $ Nature and depositional sites reported differently in FCAM.
+* Nature and depositional sites reported differently in FCAM.
 
 1mm
 

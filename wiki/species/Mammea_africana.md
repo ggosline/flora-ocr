@@ -7,11 +7,6 @@ family: Clusiaceae
 vol: 45
 pages: 41-43
 source: sources/Clusiaceae_vol45_liteparse
-countries: [Angola, Cameroon, Central African Republic, Cote d'Ivoire, Democratic Republic of the Congo, Equatorial Guinea, Gabon, Ghana, Guinea, Liberia, Nigeria, Republic of the Congo, Sao Tome and Principe, Sierra Leone, Uganda]
-in_region: true
-habit: "tree"
-habitat: [swamp forest, riverine]
-altitude_m: "650"
 tags: [species, generated]
 ---
 # *Mammea africana* Sabine Planche 9
@@ -20,17 +15,26 @@ tags: [species, generated]
 **Family**: [[Clusiaceae]]
 **Protologue**: Trans. Hort. Soc. 5 : 457 (1824)
 
+## Synonyms
+
+- Ochrocarpos africanus Oliv., Fl. trop. Afr. 1 : 169 (1868).
+- Mammea ebboro Pierre, Bull. Mens. Soc. Linn. Paris 154 : 1223 (1896).
+- Mammea gilletii De Wild., Bull. Jard. Bot. État Bruxelles 4 : 168 (1914).
+- Mammea giorgiana De Wild., Bull. Jard. Bot. État Bruxelles 4 : 169 (1914).
+- Garcinia golaensis Hutch. & Dalziel, Fl. W. trop. Afr. éd 1, 1 : 237 (1927).
+- Pentadesma parviflora Exell, J. Bot. (London) 65, Suppl. 1 : 27 (1927).
+
 ## Description
 
-Pentadesma parviflora Exell, J. Bot. (London) 65, Suppl. 1 : 27 (1927). Tree up to 45 m in height; trunk up to 125 cm in diameter, often with stiff buttresses; bark reddish-brown or yellowish-brown, with pale scales; branchlets greyish. Leaf glabrous; petiole 1–2.5 cm; blade oblong to elliptic, 9–35 × 3–13 cm, cuneate to obtuse at base, acuminate at apex, coriaceous; midvein prominent beneath, lateral veins slightly prominent on both surfaces, tertiary network very apparent. Flower bisexual with pedicel 20–25(–30) mm, accrescent; sepals suborbicular, concave, 10–15 mm in diameter, red to reddish-pink; petals elliptic to obovate, 15–20 × 6–12 mm, white to yellowish; stamens connate in a ring at base, filament 5–7 mm, anthers 2 mm in length; ovary ovoid; style 2 mm, stigma 4–5 mm in diameter. Male flower similar to bisexual flower but smaller; pedicel 6–15 mm. Fruit subglobose or pyriform, (7.5–)10–18 cm in diameter, yellow to orange, with numerous small brown spots. Seeds 1–4, ovoid, compressed, 4–5 × 3 cm and 2 cm in thickness, brown, with hard testa, fibrous-woody.
+Tree up to 45 m tall; trunk up to 125 cm in diameter, often with stiff buttresses; bark reddish-brown or yellowish-brown, with pale scales; branchlets greyish. Leaf glabrous; petiole 1–2.5 cm; blade oblong to elliptic, 9–35 × 3–13 cm, cuneate to obtuse at the base, acuminate at the apex, coriaceous; main vein prominent below, lateral veins slightly prominent on both surfaces, tertiary network very apparent. Bisexual flower with pedicel 20–25(–30) mm, accrescent; sepals suborbicular, concave, 10–15 mm in diameter, red to reddish-pink; petals elliptic to obovate, 15–20 × 6–12 mm, white to yellowish; stamens adnate in a ring at the base, filament 5–7 mm, anthers 2 mm long; ovary ovoid; style 2 mm, stigma 4–5 mm in diameter. Male flower similar to bisexual flower but smaller; pedicel 6–15 mm. Fruit subglobose or pyriform, (7.5–)10–18 cm in diameter, yellow to orange, with numerous small brown spots. Seeds 1–4, ovoid, compressed, 4–5 × 3 cm and 2 cm thick, brown, with hard testa, fibrous-woody.
 
 ## Distribution
 
-Guinea, Sierra Leone, Liberia, Ivory Coast, Ghana, Nigeria, Cameroon, São Tomé and Príncipe, Equatorial Guinea, Gabon, Central African Republic, Republic of the Congo, Democratic Republic of the Congo, Angola (Cabinda) and Uganda; in Gabon, fairly common and widely distributed.
+Guinea, Sierra Leone, Liberia, Côte d'Ivoire, Ghana, Nigeria, Cameroon, Sao Tomé and Príncipe, Equatorial Guinea, Gabon, Central African Republic, Republic of the Congo, Democratic Republic of the Congo, Angola (Cabinda) and Uganda; in Gabon, fairly common and widely distributed
 
 ## Ecology
 
-Primary evergreen or semi-deciduous forest, swamp forest, riverine forest and forest galleries; in Gabon, up to 650 m in altitude, elsewhere up to 1400 m.
+primary evergreen or semi-deciduous forest, swamp forest, riparian forest and forest galleries; in Gabon, up to 650 m altitude, elsewhere up to 1400 m
 
 ## Vernacular names
 
@@ -38,7 +42,7 @@ abricotier d’Afrique, mammea (fr.) ; African apple, African apricot, African m
 
 ## Uses
 
-The wood is valued for construction and joinery. It is suitable for railroad ties, turning and veneers. The logs traditionally serve to make monoxylous canoes. The fruit is edible only when sufficiently ripe. The seeds, edible, contain an oil used locally for cooking. A decoction of the bark would be used as an anthelmintic, to treat stomach complaints, gonorrhea, cough and anemia and to facilitate childbirth. For external use, it is used against wounds, lesions, ulcers, rheumatism, uterine and vaginal inflammations and fever. Bibliography: Bamps (1970a, 1971), Bamps et al. (1978), Hutchinson et al. (1954), Lemmens (2008b).
+The wood is valued for construction and joinery. It is suitable for railway sleepers, turning and veneers. The logs are traditionally used to make monoxylous dugout canoes. The fruit is edible only when sufficiently ripe. The seeds, edible, contain an oil used locally for cooking. A decoction of the bark is said to be used as an anthelmintic, to treat stomach complaints, gonorrhoea, cough and anaemia and to facilitate childbirth. In external use, it is employed against wounds, lesions, ulcers, rheumatism, uterine and vaginal inflammations and fever. Bibliography: Bamps (1970a, 1971), Bamps et al. (1978), Hutchinson et al. (1954), Lemmens (2008b).
 
 ## Figures
 

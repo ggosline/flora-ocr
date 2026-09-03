@@ -23,7 +23,7 @@ Vine with rusty pubescent branches. Petiole with ± abundant rusty pubescence, 0
 
 Inflorescence in a corymbiform panicle in both sexes. Rachis strongly pubescent. Flower ♂ pentamerous. Pedicel articulate. Calyx with 5 narrowly lanceolate sepals pubescent on the outer surface and glabrous on the inner surface. Corolla with 5 lanceolate petals, strongly pubescent externally and glabrous internally, free. Stamens with short ± erect filament; anthers with 2 lobes with longitudinal dehiscence slits. Ovary aborted reduced to a tuft of hairs. Flower ♀ unknown.
 
-Drupe ellipsoid, pubescent, $ 1.2 \times 0.8 $ cm, with reticulate surface marked by 2 strong ribs. Endocarp woody. PL. 2, 1–5, p. 9.
+Drupe ellipsoid, pubescent, 1.2 × 0.8 cm, with reticulate surface marked by 2 strong ribs. Endocarp woody. PL. 2, 1–5, p. 9.
 
 ## Type
 

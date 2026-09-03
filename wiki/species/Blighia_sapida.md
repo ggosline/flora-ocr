@@ -24,7 +24,7 @@ Tree 15–20 m tall and 60–80 cm in diameter; crown globose (LETOUZEY), or umb
 
 Inflorescences in simple axillary racemes, 10–20 cm; cymules sessile with 4–6 flowers; bracts 1 mm. Flowers yellowish-green; pedicel 5 mm; sepals 2–3 mm, tomentellous on the outside, villous on the inside; petals 3–4 mm, funnel-shaped on their lower half; scale toothed villous, shorter than the lanceolate limb, villous on both faces; disk puberulent, forming an entire corona on the outside, marked by internal notches between the filaments.
 
-Fruit initially yellowish-green (LETOUZEY), scarlet vermilion (WALKER and SILLANS) at maturity, pendulous, pyriform; aril yellow edible, nutty flavour. Seed black; on herbarium specimens, the aril has almost disappeared; on fresh material, it envelops the seed to mid-height. The dry seed measures $ 20 \times 12 \times 6 $ mm, the hilum cordate, $ 10 $ mm wide, is obliquely truncate at the base; wood semi-hard, yellowish-red.
+Fruit initially yellowish-green (LETOUZEY), scarlet vermilion (WALKER and SILLANS) at maturity, pendulous, pyriform; aril yellow edible, nutty flavour. Seed black; on herbarium specimens, the aril has almost disappeared; on fresh material, it envelops the seed to mid-height. The dry seed measures 20 × 12 × 6 mm, the hilum cordate, 10 mm wide, is obliquely truncate at the base; wood semi-hard, yellowish-red.
 
 Tree spontaneous in Senegal, Guinea, Sierra Leone, Côte d'Ivoire, Ghana, Upper Volta, Togo, Dahomey, Nigeria, Cameroon, Gabon, São Tomé and Príncipe Islands. Introduced in India and America.
 

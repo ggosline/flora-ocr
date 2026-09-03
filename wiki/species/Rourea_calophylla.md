@@ -30,7 +30,7 @@ Leaves. Petiole up to ≤11 cm long; rachis up to ≤12 cm; petiolules 2-6 mm lo
 
 Inflorescence up to ≤20 cm long, with remarkable reddish glandular hairs, very numerous.
 
-Flowers: buds spherical. Pedicels 1-3 mm above the articulation. Sepals $ 3-4 \times 1-2 $ mm, external side covered with glandular hairs and inner side with ordinary hairs. Petals $ 7-10 \times 2-2.5 $ mm, ribbon-shaped, rolled in the bud, free. Stamens: the long ones 1.8-5.5 mm long, the short ones 1-3.5 mm long; filaments curved inward. Pistil 1.2-4.5 mm long; style glabrous or with hairs; ovary pubescent.
+Flowers: buds spherical. Pedicels 1-3 mm above the articulation. Sepals 3-4 × 1-2 mm, external side covered with glandular hairs and inner side with ordinary hairs. Petals 7-10 × 2-2.5 mm, ribbon-shaped, rolled in the bud, free. Stamens: the long ones 1.8-5.5 mm long, the short ones 1-3.5 mm long; filaments curved inward. Pistil 1.2-4.5 mm long; style glabrous or with hairs; ovary pubescent.
 
 Fruits: follicles 1-2 per flower, rarely more; ≈ 30 × ≈ 15 mm, terminated by a beak, covered with numerous glandular hairs, dehiscent along a ventral suture. Sepals 5-7 × 3-4.5 mm beneath the fruit, coriaceous.
 

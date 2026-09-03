@@ -37,27 +37,21 @@ The Brachystegia of the austral open forests comprise approximately 24 species a
 
 The 4 species of very large trees known in the Cameroonian-Gabonese forest can be distinguished thus:
 
-1. Leaflets numerous, 9-14 pairs, having less than 5 cm in length and 1.5 cm in width..... 1. B. Mildbraedii.
-
-1'. Leaflets, 6 pairs at most.
-
-2. Leaflets clearly petiolulate, 3 pairs..... B. cynometroides.
-
-2'. Leaflets sessile.
-
-3. A pair of rudimentary leaflets, persistent at the base of the rachis, or caducous but leaving visible scars;
-
 ## Key to the species
 
-1. Leaflets numerous, 9-14 pairs, less than 5 cm long and 1.5 cm wide..... 1. B. Mildbraedii.
-1'. Leaflets, 6 pairs at most.
 
-2. Leaflets distinctly petiolulate, 3 pairs..... B. cynometroides.
-2'. Leaflets sessile.
+**1.** Leaflets numerous, 9-14 pairs, less than 5 cm long and 1.5 cm wide → 1. B. Mildbraedii. ^k1
 
-3. One pair of rudimentary leaflets, persistent at the base of the rachis, or caducous but leaving visible scars; 3-4 pairs; apex acuminate or obtuse ..... 2. B. Zenkeri.
+**1′.** Leaflets, 6 pairs at most.
 
-3'. Leaflets of the basal pair similar to the others, and normally persistent; (4-) 5 (-6) pairs; distinctly rounded at the apex ..... B. eurycoma.
+**2.** Leaflets distinctly petiolulate, 3 pairs → *B. cynometroides* ^k2
+
+**2′.** Leaflets sessile.
+
+**3.** One pair of rudimentary leaflets, persistent at the base of the rachis, or caducous but leaving visible scars; 3-4 pairs; apex acuminate or obtuse → 2. B. Zenkeri. ^k3
+
+**3′.** Leaflets of the basal pair similar to the others, and normally persistent; (4-) 5 (-6) pairs; distinctly rounded at the apex → *B. eurycoma*
+
 
 ## Species in region
 

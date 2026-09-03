@@ -51,13 +51,19 @@ Genus of 24 species of which 8 or 9 in America, 4 in Madagascar and one in Indon
 
 ## Keyed but not treated
 
+
 The source key separates these species but the volume gives them no treatment, usually because they fall outside the area it covers in full. They are listed for identification; some are extralimital to the region.
 
-- *Pristimera biholongii* — keyed in vol 29, not treated
-- *Pristimera graciliflora* — keyed in vol 29, not treated
-- *Pristimera luteoviridis* — keyed in vol 29, not treated
-- *Pristimera plumbea* — keyed in vol 29, not treated
-- *Pristimera preussii* — keyed in vol 29, not treated
+**—** *Pristimera biholongii* — keyed in vol 29, not treated
+
+**—** *Pristimera graciliflora* — keyed in vol 29, not treated
+
+**—** *Pristimera luteoviridis* — keyed in vol 29, not treated
+
+**—** *Pristimera plumbea* — keyed in vol 29, not treated
+
+**—** *Pristimera preussii* — keyed in vol 29, not treated
+
 
 ## Treatments
 

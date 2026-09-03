@@ -31,23 +31,13 @@ B: Léonard (1954b), Lewis et al. (2005), Pellegrin (1949), Verdcourt (1971d).
 
 Bibliography
 
-### Key to the species
-
-1. - Terminal leaflet with rhomboidal blade, reaching 13 × 8 cm, densely silky beneath; pod 8–10 mm in length, with 1 to 5 seeds ........................... P. fagifolia
-
----
-
-- Terminal leaflet with elliptic to elliptic-obovate blade, reaching 10 × 6 cm, tomentose beneath; pod (7–)12–30 mm in length, with 3 to 12 seeds ...................................................................................................... P. hookeri var. hookeri
-
 ## Key to the species
 
-1. - Terminal leaflet with rhomboidal blade, reaching 13 × 8 cm, densely silky beneath; pod 8–10 mm long, with 1 to 5 seeds ........................... P. fagifolia
 
----
+**1.** Terminal leaflet with rhomboidal blade, reaching 13 × 8 cm, densely silky beneath; pod 8–10 mm long, with 1 to 5 seeds → [[Pseudarthria_fagifolia\|*P. fagifolia*]] ^k1
 
-- Terminal leaflet with elliptic to elliptic-obovate blade, reaching 10 × 6 cm,
-tomentose beneath; pod (7–)12–30 mm long, with 3 to 12 seeds
-...................................................................................................... P. hookeri var. hookeri
+**1′.** Terminal leaflet with elliptic to elliptic-obovate blade, reaching 10 × 6 cm, tomentose beneath; pod (7–)12–30 mm long, with 3 to 12 seeds → P. hookeri var. hookeri
+
 
 ## Species in region
 

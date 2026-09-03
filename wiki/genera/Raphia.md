@@ -29,23 +29,33 @@ Notes: Raponda-Walker & Sillans (1961) report the possible presence of R. sudani
 
 ## Key to the species
 
-1. - Acaulescent palm, without a stem; leaves generally 4 to 6, arising from the ground ........... R. regalis
-- Palm with a stem (trunk) clearly developed, but often concealed by leaves, remains of leaf sheaths or covered with a network of fibers ........................................... 2
-2. Stem solitary .................................................................................................................. 3
-Stems caespitose (multiple) ............................................................................................ 5
-3. - Leaves 15 to 20; fibers of stems > 1 cm wide, forming a network always strongly looped .............................................................................................. R. hookeri
-- Leaves ≤ 12; fibers of stems < 1 cm wide, forming a weakly looped network .............................................................................................................................. 4
-4. - Leaves 9 to 12; spines present on the upper surface of the rachis .................... R. textilis
-- Leaves 7 or 8; spines absent from the upper surface of the rachis (endemic to Gabon) ..................................................................................................... R. gabonica
-5. - Stem covered with a network of pendulous fibers and some straight and pointed fibers
-.......................................................................................................................... R. rostrata
-- Stem covered with a network of straight and pointed fibers .................................................. 6
-6. - Inflorescence pendulous; bracteole at the base of partial inflorescences bifid
-......................................................................................................................... R. zamiana
-- Inflorescence semi-erect; bracteole at the base of partial inflorescences pointed ....... 7
-7. - Secondary fertile branches digitate, with bracts tightly packed forming round rings ................................................................................................. R. laurentii
-- Secondary fertile branches not digitate, their bracts not forming rings
-................................................................................................................. R. monbuttorum
+
+**1.** Acaulescent palm, without a stem; leaves generally 4 to 6, arising from the ground → [[Raphia_regalis\|*R. regalis*]] ^k1
+
+**1′.** Palm with a stem (trunk) clearly developed, but often concealed by leaves, remains of leaf sheaths or covered with a network of fibers → [[#^k2|2]]
+
+**2.** Stem solitary 3 Stems caespitose (multiple) → [[#^k5|5]] ^k2
+
+**3.** Leaves 15 to 20; fibers of stems > 1 cm wide, forming a network always strongly looped → [[Raphia_hookeri\|*R. hookeri*]] ^k3
+
+**3′.** Leaves ≤ 12; fibers of stems < 1 cm wide, forming a weakly looped network → [[#^k4|4]]
+
+**4.** Leaves 9 to 12; spines present on the upper surface of the rachis → [[Raphia_textilis\|*R. textilis*]] ^k4
+
+**4′.** Leaves 7 or 8; spines absent from the upper surface of the rachis (endemic to Gabon) → [[Raphia_gabonica\|*R. gabonica*]]
+
+**5.** Stem covered with a network of pendulous fibers and some straight and pointed fibers → [[Raphia_rostrata\|*R. rostrata*]] ^k5
+
+**5′.** Stem covered with a network of straight and pointed fibers → [[#^k6|6]]
+
+**6.** Inflorescence pendulous; bracteole at the base of partial inflorescences bifid → [[Raphia_zamiana\|*R. zamiana*]] ^k6
+
+**6′.** Inflorescence semi-erect; bracteole at the base of partial inflorescences pointed → [[#^k7|7]]
+
+**7.** Secondary fertile branches digitate, with bracts tightly packed forming round rings → [[Raphia_laurentii\|*R. laurentii*]] ^k7
+
+**7′.** Secondary fertile branches not digitate, their bracts not forming rings → [[Raphia_monbuttorum\|*R. monbuttorum*]]
+
 
 ## Species in region
 

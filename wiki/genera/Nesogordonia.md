@@ -35,9 +35,11 @@ Leaves almost glabrous or glabrous on the lower surface; petiole slender 15–50
 
 ## Keyed but not treated
 
+
 The source key separates these species but the volume gives them no treatment, usually because they fall outside the area it covers in full. They are listed for identification; some are extralimital to the region.
 
-- *Nesogordonia fouassieri* — keyed in vol 02, not treated
+**—** *Nesogordonia fouassieri* — keyed in vol 02, not treated
+
 
 ## Treatments
 

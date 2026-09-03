@@ -7,12 +7,6 @@ family: Cyperaceae
 vol: 44
 pages: 142-144
 source: sources/Cyperaceae_vol44_liteparse
-countries: [Gabon]
-in_region: true
-subdivisions:
-  Gabon: [Estuaire, Haut-Ogooué, Moyen-Ogooué, Ngounié, Nyanga, Ogooué-Ivindo, Ogooué-Maritime, Woleu-Ntem]
-habit: "herb"
-altitude_m: "650"
 tags: [species, generated]
 ---
 # *Fimbristylis dichotoma* (L.) Vahl Planche 91, Figure 11a
@@ -21,19 +15,23 @@ tags: [species, generated]
 **Family**: [[Cyperaceae]]
 **Protologue**: Enum. pl. 2 : 287 (1805)
 
+## Synonyms
+
+- Scirpus dichotomus L., Sp. pl. 1 : 50 (1753).
+
 ## Description
 
-Perennial herb, tufted, with a short woody rhizome, or more rarely annual; stems 10‒80 cm × 0.8‒1.5 mm, compressed, glabrous or slightly scabrous at the apex, with rounded ribs; dried leaves hardened (not disintegrating) accumulating at the base. Leaves numerous; ligule formed of a dense row of short hairs; blade 5‒50 cm × (0.8‒)2‒3 mm, plane or canaliculate, apex generally rounded with a short spinose tooth, generally glabrous on the surfaces except for some scattered spinose hairs or rarely hairy, margins very scabrous. Inflorescence in an anthela composed of numerous spikelets often arranged at the ends of the branches of the 2nd or 3rd order (small plants with only primary branches); lower involucral bract foliaceous, 2‒10 cm long, shorter than the anthela. Spikelet ovoid to cylindric, 3‒8(‒18 with the naked rachis) × 2‒3 mm, composed of numerous glumes; lower bract of the spikelets shorter than the glumes, reddish-brown with the midrib slightly prominent; glumes 1.6‒3.5 mm long, reddish-brown with a paler margin and the central nerve with 3 veins, glabrous and shiny, central nerve reaching just (or sometimes slightly exceeding) the subacute or obtuse apex. Flower with 2 stamens, ribbonlike filaments; style very compressed, fringed, with 2 branches. Achene 0.7‒1.2 × 0.5‒1 mm, bi-
+Perennial herb, tufted, with a short woody rhizome, or more rarely annual; stems 10–80 cm × 0.8–1.5 mm, compressed, glabrous or slightly scabrous above, with rounded ribs; dried leaves hardened (not disintegrated) accumulating at the base. Leaves numerous; ligule formed of a dense row of short hairs; blade 5–50 cm × (0.8–)2–3 mm, flat or canaliculate, apex generally rounded with a short spinous tooth, generally glabrous on the faces except for some scattered spinous hairs or rarely hairy, margins very scabrous. Inflorescence in an anthela composed of numerous spikelets arranged often at the apex of the branches of the 2nd or 3rd order (small plants with only primary branches); lower involucral bract foliaceous, 2–10 cm long, shorter than the anthela. Spikelet ovoid to cylindric, 3–8(–18 with the naked rachis) × 2–3 mm, composed of numerous glumes; lower bract of the spikelets shorter than the glumes, reddish-brown with the midvein slightly prominent; glumes 1.6–3.5 mm long, reddish-brown with a paler margin and the central vein with 3 veins, glabrous and shiny, central vein reaching just (or sometimes slightly exceeding) the subacute or obtuse apex. Flower with 2 stamens, ribbon-like filaments; style very compressed, fringed, with 2 branches. Achene 0.7–1.2 × 0.5–1 mm, bi-
 
 a b
 
 ## Distribution
 
-in all tropical regions and also in some subtropical regions; in Gabon, very common, found in Estuaire, Haut-Ogooué, Moyen-Ogooué, Ngounié, Nyanga, Ogooué-Ivindo, Ogooué-Maritime and Woleu-Ntem (35 collections)
+in all tropical regions and also in a few subtropical regions; in Gabon, very common, found in Estuaire, Haut-Ogooué, Moyen-Ogooué, Ngounié, Nyanga, Ogooué-Ivindo, Ogooué-Maritime and Woleu-Ntem (35 collections)
 
 ## Ecology
 
-in humid depressions of grassy areas, along roadsides, at the margins of marshes and along watercourses, often in disturbed and heavily trampled habitats; in Gabon, at 0‒650 m altitude, up to 2000 m in East Africa
+in humid depressions of herbaceous zones, along roadsides, along marshes and along watercourses, often in disturbed and heavily trampled habitats; in Gabon, at 0–650 m altitude, up to 2000 m in East Africa
 
 ## Vernacular names
 

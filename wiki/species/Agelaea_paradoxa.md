@@ -53,7 +53,7 @@ JONGKIND, in BRETELER (ed.), AUWP 89 (6): 142 (1989).
 
 – Castanola paradoxa (GILG) SCHELLENB. ex HUTCH. & DALZ., FWTA, ed. 1, 1 (2): 516, p.p. (1928); SCHELLENBERG, PR 103 (4, 127): 174, p.p. (1938); TROUPIN, FCBR 3: 113, p.p. (1952); HEPPER, FWTA, ed. 2, 1 (2): 746, p.p. (1958).
 
-Follicles reaching $45 \times 28$ mm but generally $35 \times 20$ mm, with numerous coarse protuberances. Seeds up to $30 \times 14$ mm. - Pl. 7, 1, 6, 7, p. 33.
+Follicles reaching 45 × 28 mm but generally 35 × 20 mm, with numerous coarse protuberances. Seeds up to 30 × 14 mm. - Pl. 7, 1, 6, 7, p. 33.
 
 East Nigeria, Cameroon, Gabon, Southwest Congo and Southwest Zaïre
 

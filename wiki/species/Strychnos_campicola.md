@@ -29,7 +29,7 @@ Leaves with rusty-pubescent petiole, 3-9 mm long; blade coriaceous, subcoriaceou
 
 Inflorescences axillary, solitary, contracted, multiflorous; peduncle, branches and pedicels short, rusty-pubescent. Flowers 5-merous. Sepals pale green, united at base, broadly ovate to triangular, 1-1.5 × 1 mm, acute at apex, ciliate, rusty-pubescent outside, glabrous inside. Corolla, in mature bud, 2-2.5 times longer than calyx, 2.5-3.3 mm long, yellow, shortly rusty-pubescent outside except the glabrous base, inside with small thick hairs curved just below the apex of the lobes; tube short, 1-1.5 mm long; lobes narrowly triangular, 1.5-1.8 × 0.9-1 mm, thick at apex, acute, almost erect. Stamens slightly exserted, inserted at the throat of the corolla, with short filament, 0.5-1 times as long as the anther, glabrous; anther oblong, with a few very small stiff hairs at base. Pistil glabrous, 2 mm long; ovary ovoid or broadly ovoid, 1.1-1.2 × 0.8-0.9 mm, two-locular; style 0.8 mm long; stigma capitate; 5-6 ovules per locule.
 
-Fruits orange (?), small, ellipsoid, $ 16-21 \times 13-17 $ mm, with a single seed; wall thin. Seed not flattened, ellipsoid, $ 9-17 \times 7-11 \times 6-9 $ mm, glabrous, smooth; testa thin, generally adhering to the pulp. Pl. 20, 1-7, p. 129.
+Fruits orange (?), small, ellipsoid, 16-21 × 13-17 mm, with a single seed; wall thin. Seed not flattened, ellipsoid, 9-17 × 7-11 × 6-9 mm, glabrous, smooth; testa thin, generally adhering to the pulp. Pl. 20, 1-7, p. 129.
 
 ## Type
 

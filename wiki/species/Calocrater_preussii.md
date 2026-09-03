@@ -27,7 +27,7 @@ in Engl. & Prantl, Pflanzenfam. 4(2): 175 (1895). Shrub monocaulescent or ramifi
 
 ![Calocrater preussii](../sources/Apocynaceae_vol59_liteparse/figures/fig_057_p0066.jpeg)
 
-*Plate 25 . Calocrater preussii : 1. Flowering branch. – 2. Venation and apex of the foliar limb (× 1). – 3. Inflorescence, peduncle 1 mm. – 4. Schematic section of the button. – 5. Calyx with long lobes, 2 mm – 6. Corolla opened, view from above. – 7. Sessile anther and infrastaminal pubescence. – 8. Pistil at anthesis, ovary, longitudinal section. – 9. Ovary, transverse section (diam. 2.2 mm). – 10. Mature fruit. – 11.*
+*PL. 25. Calocrater preussii: 1. Flowering branch. – 2. Venation and apex of the foliar limb (× 1). – 3. Inflorescence, peduncle 1 mm. – 4. Schematic section of the button. – 5. Calyx with long lobes, 2 mm – 6. Corolla opened, view from above. – 7. Sessile anther and infrastaminal pubescence. – 8. Pistil at anthesis, ovary, longitudinal section. – 9. Ovary, transverse section (diam. 2.2 mm). – 10. Mature fruit. – 11.*
 
 ## Notes
 

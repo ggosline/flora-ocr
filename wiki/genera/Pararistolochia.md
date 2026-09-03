@@ -30,36 +30,29 @@ Bibliography
 B: Huber (1993), Hutchinson & Dalziel (1927, 1928), Parsons (1996), Pfeif-
 fer (1966), Poncy (1978).
 
-Key to the species
-
-1. - Flower with 3 distinct lobes ........................................................................................... 2
-
-- Flower with 2 distinct lobes (sometimes the third reduced), either with ribbon-like appendages, or the upper lobe incised ............................................................................................ 5
-
-2. - Flower with equal lobes; fruit generally longitudinally ribbed (but still unknown in one species) ........................................................................................ 3
-
-- Flower with 2 lateral lobes somewhat larger than the lower one; fruit with more or less marked ribs, but rounded ........................................................ P. macrocarpa
-
-3. - Entire leaf; flower with lobes not exceeding 3 cm in length, not folded and glabrous or entirely pubescent .......................................................................... 4
-
 ## Key to the species
 
-1. - Flower with 3 distinct lobes ........................................................................................... 2
-- Flower with 2 distinct lobes (sometimes the third reduced), either with ribbon-like appendages, or
-the upper lobe incised ............................................................................................ 5
-2. - Flower with equal lobes; fruit generally longitudinally ribbed (but still
-unknown in one species) ........................................................................................ 3
-- Flower with 2 lateral lobes somewhat larger than the lower one; fruit with ribs more or
-less marked, but rounded ........................................................ P. macrocarpa
-3. - Leaf entire; flower with lobes not exceeding 3 cm in length, not folded and
-glabrous or entirely pubescent .......................................................................... 4
-- Leaf with undulate margin, up to 3- or 5-lobed; flower with lobes of (2–)4–7 cm in
-length, longitudinally folded and pubescent at the apex or in the upper
-half .................................................................................................. P. triactina
-4. - Flower with caudate lobes, orange to golden yellow, glabrous .......................... P. ceropegioides
-- Flower with narrowly triangular lobes, dark red and pubescent ........... P. fimbriata
-5. - Flower with lobes bearing a long ribbon-like appendage .......................... P. promissa
-- Flower with upper lobe incised .................................................................. P. incisiloba
+
+**1.** Flower with 3 distinct lobes → [[#^k2|2]] ^k1
+
+**1′.** Flower with 2 distinct lobes (sometimes the third reduced), either with ribbon-like appendages, or the upper lobe incised → [[#^k5|5]]
+
+**2.** Flower with equal lobes; fruit generally longitudinally ribbed (but still unknown in one species) → [[#^k3|3]] ^k2
+
+**2′.** Flower with 2 lateral lobes somewhat larger than the lower one; fruit with ribs more or less marked, but rounded → [[Pararistolochia_macrocarpa\|*P. macrocarpa*]]
+
+**3.** Leaf entire; flower with lobes not exceeding 3 cm in length, not folded and glabrous or entirely pubescent → [[#^k4|4]] ^k3
+
+**3′.** Leaf with undulate margin, up to 3- or 5-lobed; flower with lobes of (2–)4–7 cm in length, longitudinally folded and pubescent at the apex or in the upper half → [[Pararistolochia_triactina\|*P. triactina*]]
+
+**4.** Flower with caudate lobes, orange to golden yellow, glabrous → [[Pararistolochia_ceropegioides\|*P. ceropegioides*]] ^k4
+
+**4′.** Flower with narrowly triangular lobes, dark red and pubescent → [[Pararistolochia_fimbriata\|*P. fimbriata*]]
+
+**5.** Flower with lobes bearing a long ribbon-like appendage → [[Pararistolochia_promissa\|*P. promissa*]] ^k5
+
+**5′.** Flower with upper lobe incised → [[Pararistolochia_incisiloba\|*P. incisiloba*]]
+
 
 ## Species in region
 

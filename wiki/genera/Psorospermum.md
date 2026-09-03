@@ -31,32 +31,21 @@ B: Bamps (1966, 1970), Milne-Redhead (1953).
 
 Bibliography
 
-Key to the species
-
-1. – Umbelliform cymes, axes very reduced; cotyledons subplane-convex, incumbent ........ 2
-  – Corymbiform cymes, axes more or less developed; cotyledons enrolled .......................... 3
-
-2. – Lower surface of blade bordered by a line of relatively dense black glands, generally completed by scattered black glands of approximately 0.3 mm in diameter, this entire surface provided with small reddish-brown spots ............... P. membranaceum
-  – Lower surface of blade with numerous black glands of approximately 0.1 mm in diameter, no reddish-brown spots (to be sought in Gabon) ..................... P. staudtii Engl.
-
-3. – Blade herbaceous to papyraceous, cuneate at the base, lower surface generally bearing
-
 ## Key to the species
 
-1. - Umbelliform cymes, axes greatly reduced; cotyledons subplane-convex,
-incumbent .............................................................................................................. 2
-- Corymbiform cymes, axes more or less developed; cotyledons enrolled ...... 3
-2. - Lower surface of the lamina bordered by a line of relatively dense black glands,
-generally supplemented by scattered black glands approximately 0.3 mm in
-diameter, the entire surface furnished with small red-brown spots P. membranaceum
-- Lower surface of the lamina furnished with numerous black glands approximately 0.1 mm in
-diameter, no red-brown spots (to be sought in Gabon) .......... P. staudtii Engl.
-3. - Lamina herbaceous to papyraceous, cuneate at the base, lower surface generally
-bearing black glands and a weakly marked tertiary network; petiole
-(2–)4–10 mm ....................................................................................... P. tenuifolium
-- Lamina coriaceous, subcordate to rounded or sometimes cuneate at the base, lower surface with
-± scattered glandular punctations and very prominent tertiary network;
-petiole 0–2(–4) mm ........................................................................ P. febrifugum
+
+**1.** Umbelliform cymes, axes greatly reduced; cotyledons subplane-convex, incumbent → [[#^k2|2]] ^k1
+
+**1′.** Corymbiform cymes, axes more or less developed; cotyledons enrolled → [[#^k3|3]]
+
+**2.** Lower surface of the lamina bordered by a line of relatively dense black glands, generally supplemented by scattered black glands approximately 0.3 mm in diameter, the entire surface furnished with small red-brown spots P. membranaceum ^k2
+
+**2′.** Lower surface of the lamina furnished with numerous black glands approximately 0.1 mm in diameter, no red-brown spots (to be sought in Gabon) → P. staudtii Engl.
+
+**3.** Lamina herbaceous to papyraceous, cuneate at the base, lower surface generally bearing black glands and a weakly marked tertiary network; petiole (2–)4–10 mm → [[Psorospermum_tenuifolium\|*P. tenuifolium*]] ^k3
+
+**3′.** Lamina coriaceous, subcordate to rounded or sometimes cuneate at the base, lower surface with ± scattered glandular punctations and very prominent tertiary network; petiole 0–2(–4) mm → [[Psorospermum_febrifugum\|*P. febrifugum*]]
+
 
 ## Species in region
 

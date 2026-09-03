@@ -26,7 +26,7 @@ Tree (10–15 m tall) ; young branches finely tomentose.
 
 Leaves with auriculate-reniform stipules, 1.5–2 × 0.5–1 cm, persistent or deciduous, sometimes absent ; petiole 6–12 mm long ; blade oblong-elliptic or elliptic, rounded or slightly cordate at the base, subacuminate at the apex, 12–22 × 7–9–(10.5) cm, dentate or crenate, chartaceous to subcoriaceous, glabrous on the upper surface, tomentose on the lower surface ; secondary veins 12–14 pairs.
 
-Inflorescences in axillary and terminal panicles, multiflorous, reaching 25 cm long, tomentose. Flowers 5–(6)–merous, grouped by 2–8 in fascicles spaced along the rachis ; pedicel approximately 1.5–2 mm long ; calyx with tube of $ 1.5 \times 1–(1.5) $ mm ; lobes triangular, 1–2 mm long ; petals subspatulate-oblong, $ 8–10 \times 2 $ mm, accrescent up to $ 12–15 \times 3 $ mm in the fruiting state. - Pl. 22, 1–4, p. 71.
+Inflorescences in axillary and terminal panicles, multiflorous, reaching 25 cm long, tomentose. Flowers 5–(6)–merous, grouped by 2–8 in fascicles spaced along the rachis ; pedicel approximately 1.5–2 mm long ; calyx with tube of 1.5 × 1–(1.5) mm ; lobes triangular, 1–2 mm long ; petals subspatulate-oblong, 8–10 × 2 mm, accrescent up to 12–15 × 3 mm in the fruiting state. - Pl. 22, 1–4, p. 71.
 
 ## Type
 

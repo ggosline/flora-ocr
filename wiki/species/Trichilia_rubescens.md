@@ -43,7 +43,7 @@ Decoctions of bark are used in traditional medicine, those of roots serve as ver
 
 ![Trichilia rubescens](../sources/Meliaceae_vol47_liteparse/figures/fig_035_p0068.png)
 
-*Plate 21. Trichilia rubescens : A. Leafy branch with inflorescence of functionally male flowers (× 0,5). – B. Functionally male flower open and in bud (× 2). – C. Dito, internal view of the staminal tube and pistillode surrounded by the cupuliform disc (× 6). – D. Part of the staminal tube, external surface (× 6). – E. Dito, internal surface (× 6). – F. Functionally female flower, one sepal and petals removed (× 6). – G. Fruiting branch (× 0,5). – K. Fruit, transverse section (× 1). – M. Seed (× 2). – N. Cotyledons (× 2). – P. Seed, transverse section (× 2). (A : Breteler 2386 ; B–E : Breteler 2699 ; F : Breteler 2614 ;*
+*PL. 21. — Trichilia rubescens : A. Leafy branch with inflorescence of functionally male flowers (× 0,5). – B. Functionally male flower open and in bud (× 2). – C. Dito, internal view of the staminal tube and pistillode surrounded by the cupuliform disc (× 6). – D. Part of the staminal tube, external surface (× 6). – E. Dito, internal surface (× 6). – F. Functionally female flower, one sepal and petals removed (× 6). – G. Fruiting branch (× 0,5). – K. Fruit, transverse section (× 1). – M. Seed (× 2). – N. Cotyledons (× 2). – P. Seed, transverse section (× 2). (A : Breteler 2386 ; B–E : Breteler 2699 ; F : Breteler 2614 ;*
 
 ## Notes
 

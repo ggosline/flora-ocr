@@ -37,41 +37,51 @@ Notes: In Leeuwenberg's revision (1985), only three species of Voacanga are cite
 
 ## Key to the species
 
-1. - Leaf blade obtuse or rounded at the apex, most often narrowly obovate, coriaceous and glabrous; corolla lobes wider than long, obovate, depressed, very characteristic; mericarp green, subglobose; swamps or river banks ................................................... V. thouarsii
-- Leaf blade acuminate or obtuse at the apex, herbaceous to coriaceous; corolla lobes of different form and often longer than wide; mericarp green, blackish or yellowish, subglobose or not ................................................................................... 2
 
-2. - Calyx with lobes erect, 1–2 mm long; lobes 2–3 times as long as the tube, 1–2 times as long as wide; mericarp united over the entire length of the fruit; leaf blade with "fishbone" venation, with 10 to 25 pairs of secondary nerves ................................................................................ V. chalotiana
-- Calyx with lobes erect, 1–3 mm long; lobes 1 time as long as the tube, 1–2 times as long as wide; mericarp free or nearly so, even if unknown in certain species; leaf blade generally with less regular venation and often fewer secondary nerves .................................................................. 3
+**1.** Leaf blade obtuse or rounded at the apex, most often narrowly obovate, coriaceous and glabrous; corolla lobes wider than long, obovate, depressed, very characteristic; mericarp green, subglobose; swamps or river banks → [[Voacanga_thouarsii\|*V. thouarsii*]] ^k1
 
-3. - Lobes of the corolla distinctly shorter than the tube, up to 1 time as long as wide ........................................................................................................................... 4
-- Lobes of the corolla much shorter than the tube if shorter, but >1 time as long as wide ........................................................................................... 6
+**1′.** Leaf blade acuminate or obtuse at the apex, herbaceous to coriaceous; corolla lobes of different form and often longer than wide; mericarp green, blackish or yellowish, subglobose or not → [[#^k2|2]]
 
-4. - Lobes of the corolla initially whitish to yellowish and spreading, then brown and reflexed; leaf blade glabrous ....................................................................... V. lanceolata
-- Lobes of the corolla never brown; underside of leaf blade with numerous erect, minute, colourless and inconspicuous hairs, particularly on the major nerves ......... 5
+**2.** Calyx with lobes erect, 1–2 mm long; lobes 2–3 times as long as the tube, 1–2 times as long as wide; mericarp united over the entire length of the fruit; leaf blade with "fishbone" venation, with 10 to 25 pairs of secondary nerves → [[Voacanga_chalotiana\|*V. chalotiana*]] ^k2
 
-5. - Mericarp 1 time as long as wide; corolla lobes yellow .............................................................................................................. V. diplochlamys
+**2′.** Calyx with lobes erect, 1–3 mm long; lobes 1 time as long as the tube, 1–2 times as long as wide; mericarp free or nearly so, even if unknown in certain species; leaf blade generally with less regular venation and often fewer secondary nerves → [[#^k3|3]]
 
----
+**3.** Lobes of the corolla distinctly shorter than the tube, up to 1 time as long as wide → [[#^k4|4]] ^k3
 
-- Mericarp several times as long as wide, almost erect; corolla lobes probably whitish to pale, as in most species of Voacanga) ....................................................................................................................... V. cornuta
+**3′.** Lobes of the corolla much shorter than the tube if shorter, but >1 time as long as wide → [[#^k6|6]]
 
-6. - Corolla lobes 1–2 times as long as the tube; calyx longer than the tube of the corolla; lobes generally reflexed in the open flower; secondary nerves 8 to 22 pairs; mericarp greenish ........................................................................ V. africana
-- Corolla lobes 1 time as long as the tube; calyx longer to shorter than the tube of the corolla; lobes reflexed or erect; secondary nerves fewer than 12 pairs; mericarp yellow to orange as far as is known .......................... 7
+**4.** Lobes of the corolla initially whitish to yellowish and spreading, then brown and reflexed; leaf blade glabrous → [[Voacanga_lanceolata\|*V. lanceolata*]] ^k4
 
-7. - Corolla lobes in bud narrowly conical to subcylindric; >1 time as long as wide; generally reflexed or incurved at anthesis .................. 8
-- Corolla lobes in bud often broadly conical. Fig. E–H; 1 time as long as wide; spreading to slightly reflexed at anthesis ...........11
+**4′.** Lobes of the corolla never brown; underside of leaf blade with numerous erect, minute, colourless and inconspicuous hairs, particularly on the major nerves → [[#^k5|5]]
 
-8. - Tube of the calyx with well-visible internal colleters ................................................... 9
-- Tube of the calyx without internal colleters ................................................ V. bambidiensis
+**5.** Mericarp 1 time as long as wide; corolla lobes yellow → [[Voacanga_diplochlamys\|*V. diplochlamys*]] ^k5
 
-9. - Corolla lobes narrowly elliptic; distance between the throat of the tube and the base of the lobes < 2 mm .............................................................................................. 10
-- Corolla lobes obovate; distance between the throat and the base of the lobes > 4 mm and this zone of the corolla cupuliform ........................................................ V. bidaultii
+**5′.** Mericarp several times as long as wide, almost erect; corolla lobes probably whitish to pale, as in most species of Voacanga) → [[Voacanga_cornuta\|*V. cornuta*]]
 
-10. - Calyx lobes erect at anthesis, rounded at the apex; throat of the corolla distinctly narrower than the width of the lobes ......................................... V. psilocalyx
-- Calyx lobes slightly spreading at anthesis, acute and slightly plicate at the apex; throat of the corolla about as wide as the width of the lobes ................................................................................................................. V. lachenaudii
+**6.** Corolla lobes 1–2 times as long as the tube; calyx longer than the tube of the corolla; lobes generally reflexed in the open flower; secondary nerves 8 to 22 pairs; mericarp greenish → [[Voacanga_africana\|*V. africana*]] ^k6
 
-11. - Corolla with tube 7.7–11 mm long, with lobes of 7–13 × 4–8 mm ............... V. micrantha
-- Corolla with tube 11–18 mm long, with lobes of 14–30 × 11–17 mm ........... V. wieringae
+**6′.** Corolla lobes 1 time as long as the tube; calyx longer to shorter than the tube of the corolla; lobes reflexed or erect; secondary nerves fewer than 12 pairs; mericarp yellow to orange as far as is known → [[#^k7|7]]
+
+**7.** Corolla lobes in bud narrowly conical to subcylindric; >1 time as long as wide; generally reflexed or incurved at anthesis → [[#^k8|8]] ^k7
+
+**7′.** Corolla lobes in bud often broadly conical. Fig. E–H; 1 time as long as wide; spreading to slightly reflexed at anthesis → [[#^k11|11]]
+
+**8.** Tube of the calyx with well-visible internal colleters → [[#^k9|9]] ^k8
+
+**8′.** Tube of the calyx without internal colleters → [[Voacanga_bambidiensis\|*V. bambidiensis*]]
+
+**9.** Corolla lobes narrowly elliptic; distance between the throat of the tube and the base of the lobes < 2 mm → [[#^k10|10]] ^k9
+
+**9′.** Corolla lobes obovate; distance between the throat and the base of the lobes > 4 mm and this zone of the corolla cupuliform → [[Voacanga_bidaultii\|*V. bidaultii*]]
+
+**10.** Calyx lobes erect at anthesis, rounded at the apex; throat of the corolla distinctly narrower than the width of the lobes → [[Voacanga_psilocalyx\|*V. psilocalyx*]] ^k10
+
+**10′.** Calyx lobes slightly spreading at anthesis, acute and slightly plicate at the apex; throat of the corolla about as wide as the width of the lobes → [[Voacanga_lachenaudii\|*V. lachenaudii*]]
+
+**11.** Corolla with tube 7.7–11 mm long, with lobes of 7–13 × 4–8 mm → [[Voacanga_micrantha\|*V. micrantha*]] ^k11
+
+**11′.** Corolla with tube 11–18 mm long, with lobes of 14–30 × 11–17 mm → [[Voacanga_wieringae\|*V. wieringae*]]
+
 
 ## Species in region
 

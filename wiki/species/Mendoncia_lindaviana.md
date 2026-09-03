@@ -29,7 +29,7 @@ tags: [species, generated]
 
 ≡ Mendoncia floribunda (Pierre) R. Benoist, Not. Syst. II : 143 (1944).
 
-$ \equiv $ Afromendoncia floribunda (Pierre) Burkill, F.T.A. 5 : 6 (1899). — R. Benoist Not. Syst. 2 : 285 (1911).
+≡ Afromendoncia floribunda (Pierre) Burkill, F.T.A. 5 : 6 (1899). — R. Benoist Not. Syst. 2 : 285 (1911).
 
 ≡ Monachochlamys floribunda (Pierre) S. Moore, l. c. (1929).
 

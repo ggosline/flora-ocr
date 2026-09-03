@@ -33,42 +33,21 @@ Bi: Brenan (1960), van der Burg (2006), Faden (1998, 2012), Morton (1967).
 
 Bibliography
 
-### Key to the species
-
-1. - Seeds 2 to 4 per locule, verrucose; fruit scarcely exceeding the sepals
-( S. brachycarpa ) .......................................................................................................... 2
-
-- Seeds 4 to 10 per locule, smooth or verrucose; fruit distinctly longer than the
-sepals ......................................................................................................................... 3
-
-2. - Plant entirely covered with spreading, stiff, whitish translucid pubescence
-.................................................................................... S. brachycarpa var. hirsuta
-
-- Plant glabrous, except for a few scattered, spreading, violaceous long hairs on the
-internodes, sheaths, and at the base of the blade ....................... S. brachycarpa var. brachycarpa
-
-3. - Terminal inflorescence generally 3–5 cm in width; plant generally up to 15–20(–30) cm
-in height; fruit 1.5–2 mm in width; seed smooth
-................................................................................................................. S. imperforata
-
-- Compact terminal inflorescence 2–3 cm in length and width; plant generally more
-robust, 30–50 cm in height; fruit 2.5–3 mm in width; seed verrucose
-............................................................................................... S. oligantha
-
 ## Key to the species
 
-1. - Seeds 2 to 4 per locule, verrucose; fruit scarcely exceeding the sepals
-( S. brachycarpa ) .......................................................................................................... 2
-- Seeds 4 to 10 per locule, smooth or verrucose; fruit distinctly longer than the
-sepals ......................................................................................................................... 3
-2. - Plant entirely covered with spreading, stiff, whitish translucent pubescence
-.................................................................................... S. brachycarpa var. hirsuta
-- Plant glabrous, except for some scattered long hairs, spreading, violaceous, on the
-internodes, sheaths, and at the base of the blade ....................... S. brachycarpa var. brachycarpa
-3. - Terminal inflorescence generally 3‒5 cm in width; plant generally up to 15–20(‒30) cm in height; fruit 1.5‒2 mm in width; seed smooth
-................................................................................................................. S. imperforata
-- Terminal inflorescence compact 2‒3 cm in length and width; plant generally more robust, 30‒50 cm in height; fruit 2.5‒3 mm in width; seed
-verrucose ............................................................................................... S. oligantha
+
+**1.** Seeds 2 to 4 per locule, verrucose; fruit scarcely exceeding the sepals ( S. brachycarpa ) → [[#^k2|2]] ^k1
+
+**1′.** Seeds 4 to 10 per locule, smooth or verrucose; fruit distinctly longer than the sepals → [[#^k3|3]]
+
+**2.** Plant entirely covered with spreading, stiff, whitish translucent pubescence → S. brachycarpa var. hirsuta ^k2
+
+**2′.** Plant glabrous, except for some scattered long hairs, spreading, violaceous, on the internodes, sheaths, and at the base of the blade → S. brachycarpa var. brachycarpa
+
+**3.** Terminal inflorescence generally 3‒5 cm in width; plant generally up to 15–20(‒30) cm in height; fruit 1.5‒2 mm in width; seed smooth → [[Stanfieldiella_imperforata\|*S. imperforata*]] ^k3
+
+**3′.** Terminal inflorescence compact 2‒3 cm in length and width; plant generally more robust, 30‒50 cm in height; fruit 2.5‒3 mm in width; seed verrucose → [[Stanfieldiella_oligantha\|*S. oligantha*]]
+
 
 ## Species in region
 

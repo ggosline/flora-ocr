@@ -34,7 +34,7 @@ one stamen and the appendices of one corolla lobe; Follicle; Base of the fruit. 
 
 ![Pleioceras zenkeri](../sources/Apocynaceae_vol59_liteparse/figures/fig_173_p0204.jpeg)
 
-*Plate 95 . Pleioceras zenkeri 5DPHDXÀRULIqUHîҀ±)OHXUî±)ORZHUORQJLWXGLQDO section, showing two pairs of appendages, two stamens and the pistil (× 6). – 4. Part of the corolla showing*
+*Plate 95. Pleioceras zenkeri: 3. Floral bud (× 4). – Flower (× 4). – Flower longitudinal section, showing two pairs of appendages, two stamens and the pistil (× 6). – 4. Part of the corolla showing*
 
 ## Notes
 

@@ -49,7 +49,7 @@ Chonopetalum stenodictyum Radlkofer
 
 l.c.: 810 (1932).
 
-Rameaux de 5 mm de diamètre. Feuilles de 30 cm dont 4 cm pour le pétiole; pétioules de 1 cm; folioles de  $ 18 \times 6.5 $ cm.
+Rameaux de 5 mm de diamètre. Feuilles de 30 cm dont 4 cm pour le pétiole; pétioules de 1 cm; folioles de  18 × 6.5 cm.
 
 Inflorescence de 14 cm; fleurs blanches de 3 mm, sur pédicelle de 3 mm.
 

@@ -136,7 +136,7 @@ Se distingue de la fa. africanus par les dimensions de la foliole médiane, la p
 
 Breteler 1689, 5 km Doumé, route de Bertoua, alt. 600 m (fr. sphérique, 6 × 7 mm, jaune verdâtre, juil.).
 
-Hallé N. 3829, Bélinga, lisière savane (fr. subsphérique immature,  $ 6 \times 7 $ mm, juin). Hallé N. & Le Thomas 127, Bélinga (arbre, 35 cm diam., fût cannelé, fr. vert. juil.). Le Testu 7625, 8523, Lastoursville (fl., nov.).
+Hallé N. 3829, Bélinga, lisière savane (fr. subsphérique immature,  6 × 7 mm, juin). Hallé N. & Le Thomas 127, Bélinga (arbre, 35 cm diam., fût cannelé, fr. vert. juil.). Le Testu 7625, 8523, Lastoursville (fl., nov.).
 
 fa. subvelutinus Radlkofer
 

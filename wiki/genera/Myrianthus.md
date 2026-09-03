@@ -29,36 +29,19 @@ TYPE SPECIES: Myrianthus arboreus P.B.
 
 The genus comprises 7 species which are generally highly branched shrubs or low trees, found most often in regeneration forests and riverine forests. The species do not show considerable differences but can be easily recognized.
 
-### KEY TO THE SPECIES
-
-1. Young branches, petioles and principal veins on the lower surface, made scabrous by stiff curved hairs; leaves generally simple; shrubs reaching 4 m in height ..... 3. M. cuneifolius.
-
-1'. Young branches, petioles and principal veins on the lower surface with erect to appressed hairs, straight to slightly curved; leaves compound or simple; shrubs or trees of medium size.
-
-2. Leaves simple, entire to trilobed (rarely 5-lobed); stipules not entirely amplexicaul ..... 2. M. serratus.
-
-2'. Leaves generally compound (rarely 3–5-lobed); stipules entirely amplexicaul.
-
----
-
-3. Leaves shiny and glabrous above; blade reaching 40 × 30 cm; ♂ flowers in dense groups 2–5 mm long on the ultimate branches of inflorescences reaching 9 cm in width; ♀ flowers ovoid to conical 1 bis M. preussii.
-
-3' Leaves dull and initially with appressed hairs above; blade reaching 80 × 90 cm; ♂ flowers on the penultimate branches of inflorescences more than 15 cm broad; ♀ flowers obovoid 1. M. arboreus.
-
 ## Key to the species
 
-1. Young branches, petioles and main veins on the lower surface rendered scabrous by stiff recurved hairs; leaves generally simple; shrubs reaching 4 m in height ..... 3. M. cuneifolius.
 
-1'. Young branches, petioles and main veins on the lower surface with erect to appressed hairs, straight to slightly recurved; leaves compound or simple; shrubs or trees of medium size.
+**1.** Young branches, petioles and main veins on the lower surface rendered scabrous by stiff recurved hairs; leaves generally simple; shrubs reaching 4 m in height → [[Myrianthus_cuneifolius\|*M. cuneifolius*]] ^k1
 
-2. Leaves simple, entire to trilobate (rarely 5-lobate); stipules not entirely amplexicaul ..... 2. M. serratus.
+**1′.** Young branches, petioles and main veins on the lower surface with erect to appressed hairs, straight to slightly recurved; leaves compound or simple; shrubs or trees of medium size.
 
-2'. Leaves generally compound (rarely 3–5-lobate); stipules entirely amplexicaul.
+**2.** Leaves simple, entire to trilobate (rarely 5-lobate); stipules not entirely amplexicaul → [[Myrianthus_serratus\|*M. serratus*]] ^k2
 
----
+**2′.** Leaves generally compound (rarely 3–5-lobate); stipules entirely amplexicaul.
 
-3. Leaves glossy and glabrous above; lamina reaching 40 × 30 cm; male flowers in dense groups 2–5 mm long on the terminal branches of inflorescences reaching 9 cm in width; female flowers ovoid to conical 1 bis M. preussii.
-3' Leaves dull and initially with appressed hairs above; lamina reaching 80 × 90 cm; male flowers on the penultimate branches of inflorescences more than 15 cm in width; female flowers obovoid 1. M. arboreus.
+**3.** Leaves glossy and glabrous above; lamina reaching 40 × 30 cm; male flowers in dense groups 2–5 mm long on the terminal branches of inflorescences reaching 9 cm in width; female flowers ovoid to conical 1 bis M. preussii. 3' Leaves dull and initially with appressed hairs above; lamina reaching 80 × 90 cm; male flowers on the penultimate branches of inflorescences more than 15 cm in width; female flowers obovoid 1. M. arboreus. ^k3
+
 
 ## Species in region
 

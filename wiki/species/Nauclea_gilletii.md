@@ -66,7 +66,7 @@ Plantes ligneuses, généralement arbres ou arbustes, exceptionnellement épiphy
 
 Inflorescences multiflores en ép, grappe, panicule ou corymbe, pédonculées, terminales ou axillaires subterminales. Fleurs nombreuses et souvent petites, bisexuées, non hétérostyles (au moins chez les représentants africains de la tribu), pédicellées ou sessiles. Calice généralement 4 ou 5 lobé, tubuleux ou non, souvent persistant sur le fruit. Corolle à (3-4)5(6) divisions, à tube atteignant au plus 1 cm, souvent très court. Lobes valvaires sauf chez Crossopteryx où ils sont contortés. Étamines à filet généralement court (il est long chez Cinchona ainsi que chez d'autres genres américains où il est souvent replié sur lui même dans le bouton), tantôt incluses, tantôt exsertes; anthères biloculaires, dorsi ou basifixes. Style variable, court chez Pausins-talia, long chez Hymenodyction et Crossopteryx. Stigmate un peu renflé, à deux lobes ± séparés ou soudés. Ovaire à 2 loges. Placentas allongés insérés sur une assez grande longueur de l'axe; ovules nombreux, imbriqués ascendants.
 
-Fructification souvent très abondante. Fruits secs déhiscents de façon localicide ou septicide en deux valves qui se séparent de façon  $ \pm $ incomplète, et  $ \pm $ persistantes. Graines petites, largement ailées-membraneuses.
+Fructification souvent très abondante. Fruits secs déhiscents de façon localicide ou septicide en deux valves qui se séparent de façon  ± incomplète, et  ± persistantes. Graines petites, largement ailées-membraneuses.
 
 Le genre Cinchona auquel appartiennent les vrais Quinquinas, comprend une quarantaine de représentants tous américains. Certains Quinquinas sont introduits dans des stations d'altitude en Afrique tropicale : C. succirubra Pav. ex Klotzsch,
 

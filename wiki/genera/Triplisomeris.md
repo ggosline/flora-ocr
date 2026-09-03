@@ -23,7 +23,7 @@ Type species: Triplisomeris explicans (Baill.) Aubr. et Pellegr., Guinea.
 
 This genus marks a transition between the genus Isomacrolobium, with (4-) 5 (-6) subequal petals and the genus Anthonotha with a single large longly unguiculate petal.
 
-It comprises one Guinean species, T. explicans, distributed from Fouta Djalon in Guinea to western Côte d'Ivoire, and another Liberian one, T. ernae. A $ 3^{rd} $ species, poorly known, is described from Gabon, T. triplisomeris.
+It comprises one Guinean species, T. explicans, distributed from Fouta Djalon in Guinea to western Côte d'Ivoire, and another Liberian one, T. ernae. A 3rd species, poorly known, is described from Gabon, T. triplisomeris.
 
 1. Triplisomeris triplisomeris (Pellegrin) Aubr. et Pellegr. (Pl. 45, p. 193)
 
@@ -49,38 +49,35 @@ Shrubby species known only from the type from central Gabon.
 
 ## Key to the species
 
-1. Stipules very large, foliaceous, persistent, 6-8 cm long; shrubs..... 1. A. stipulacea.
 
-1'. Stipules small and caducous.
+**1.** Stipules very large, foliaceous, persistent, 6-8 cm long; shrubs → 1. A. stipulacea. ^k1
 
-2. Inflorescences on old wood or on the trunk.
+**1′.** Stipules small and caducous.
 
-3. Long and pendulous, very briefly branched, reaching up to 40 cm long; leaflets pubescent beneath.
+**2.** Inflorescences on old wood or on the trunk. ^k2
 
-4. Leaflets densely ferrugineous tomentose beneath; approximately 8 pairs of ovate lanceolate to oblong leaflets; trees. 2. A. ferrugine
+**3.** Long and pendulous, very briefly branched, reaching up to 40 cm long; leaflets pubescent beneath. ^k3
 
-4'. Leaflets silky silvery beneath; 4-7 pairs; leaflets oblong elongate, caudate acuminate; trees, shrubs.
-3. A. lamprophylla.
+**4.** Leaflets densely ferrugineous tomentose beneath; approximately 8 pairs of ovate lanceolate to oblong leaflets; trees. 2. A. ferrugine ^k4
 
-3'. Fascicles of short racemes on the trunk; leaflets glabrous;
-4. A. trunciflora.
+**4′.** Leaflets silky silvery beneath; 4-7 pairs; leaflets oblong elongate, caudate acuminate; trees, shrubs → A. lamprophylla.
 
-2'. Inflorescences short or at most 15 cm, on current-year or older branchlets.
+**3′.** Fascicles of short racemes on the trunk; leaflets glabrous; → A. trunciflora.
 
-5. Fruits with prominent, anastomosing transverse nerves; leaflets 3-4 pairs, ferrugineous tomentose beneath; tall trees. ..... 5. A. fragrans.
+**2′.** Inflorescences short or at most 15 cm, on current-year or older branchlets.
 
-5'. Fruits with transverse nerves; leaflets ± silky silvery or golden beneath.
+**5.** Fruits with prominent, anastomosing transverse nerves; leaflets 3-4 pairs, ferrugineous tomentose beneath; tall trees. → 5. A. fragrans. ^k5
 
-6. Inflorescences fasciculiform condensed, axillary; leaflets
-3-5 pairs, somewhat lustrous beneath; trees.... 6. A. Pynærtii.
+**5′.** Fruits with transverse nerves; leaflets ± silky silvery or golden beneath.
 
-6'. Inflorescences in small laxly flowered panicles; leaflets 2-4 pairs.
+**6.** Inflorescences fasciculiform condensed, axillary; leaflets 3-5 pairs, somewhat lustrous beneath; trees → 6. A. Pynærtii. ^k6
 
-7. Receptacle glabrous externally..... 7. A. macrophylla.
+**6′.** Inflorescences in small laxly flowered panicles; leaflets 2-4 pairs.
 
-7'. Receptacle silky externally..... 8. A. acuminata.
+**7.** Receptacle glabrous externally → 7. A. macrophylla. ^k7
 
-5'''. Fruits unknown; leaves 5-7 jugate; leaflets densely rusty tomentose beneath; inflorescences in short panicles, densely rusty tomentose, very contracted at the axil of fallen leaves, on one-year-old branchlets. 9. A. Pellegrinii.
+**7′.** Receptacle silky externally → 8. A. acuminata. 5'''. Fruits unknown; leaves 5-7 jugate; leaflets densely rusty tomentose beneath; inflorescences in short panicles, densely rusty tomentose, very contracted at the axil of fallen leaves, on one-year-old branchlets. 9. A. Pellegrinii.
+
 
 ## Species in region
 

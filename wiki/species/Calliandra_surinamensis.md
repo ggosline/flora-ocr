@@ -1,7 +1,7 @@
 ---
 type: species
 name: Calliandra surinamensis
-authority: Bentham $ ^{1} $
+authority: Bentham ¹
 genus: Calliandra
 family: Leguminosae
 vol: 31
@@ -10,7 +10,7 @@ source: sources/Leguminosae_vol31_paddle
 habit: "shrub"
 tags: [species, generated]
 ---
-# *Calliandra surinamensis* Bentham $ ^{1} $
+# *Calliandra surinamensis* Bentham ¹
 
 **Genus**: [[Calliandra]]
 **Family**: [[Leguminosae]]
@@ -28,7 +28,7 @@ Shrub reaching 3 m, branched low. Old branches glabrous; smooth when fresh and w
 
 1. The description of this species is established from specimens from French Guiana in the herbarium of the Muséum National d'Histoire Naturelle.
 
-acute apex. Leaflets 4–16 pairs, sessile to subsessile. Blade glabrous on both faces; dark green to glossy green above and green to brown below when dry; oblong, oblong-elliptic asymmetric, elliptic for the apical ones, ± weakly falciform, of decreasing size from apex to base, reaching $ 22 \times 8 $ mm; asymmetric base: proximal margin ± cordate to strongly cordate and distal margin ± rounded; margin sometimes ciliate; apex acute ± apiculate. Midvein eccentric toward the distal margin, prominent on both faces. Secondary veins ± ascending, weakly arched or straight, prominent on both faces; up to 3 basal secondary veins divergent in the proximal half, one dominant. Veinlets in rather loose network, little visible above and ± prominent below.
+acute apex. Leaflets 4–16 pairs, sessile to subsessile. Blade glabrous on both faces; dark green to glossy green above and green to brown below when dry; oblong, oblong-elliptic asymmetric, elliptic for the apical ones, ± weakly falciform, of decreasing size from apex to base, reaching 22 × 8 mm; asymmetric base: proximal margin ± cordate to strongly cordate and distal margin ± rounded; margin sometimes ciliate; apex acute ± apiculate. Midvein eccentric toward the distal margin, prominent on both faces. Secondary veins ± ascending, weakly arched or straight, prominent on both faces; up to 3 basal secondary veins divergent in the proximal half, one dominant. Veinlets in rather loose network, little visible above and ± prominent below.
 
 Inflorescences in capitate spikes, erect above the branchlets on living material, axillary, solitary or fasciculate. Inflorescence peduncle pubescent, 10–20 (35) mm long, costate or angular. Bracts 1–3 on the peduncle, glabrous or sparsely pubescent, lanceolate, 1.25–2 mm long, ciliate margin, apex acute. Bracteoles glabrous to sparsely pubescent, lanceolate, 1–2 mm long, ciliate margin, apex very acute. Floral bud obovate or claviform, green on living material. Flower 8 or 9 by abortion, sessile or subsessile. Basal flower 8 or 9. Calyx cylindric, ± pubescent externally with erect hairs, green to pale green on living material, 2.25–3.25 mm long; free lobes 5–6, lanceolate to elliptic-lanceolate, 0.25–0.60 mm long, apex acute. Corolla tetramerous, pubescent externally above the calyx on the tube, green to pale greenish-yellow on living material, broadly obconic, 7.5–13 mm long; free lobes broadly ovate, 1.25–3.5 mm long, apex acute. Stamens white at the base then pink-violet to red toward the apex on living material, 28.5–60 mm long; narrow tube 12–33 mm long, sometimes slightly thickened at the base; anther oblong, 0.25 mm long, connective strongly granular. Pistillode ellipsoid or sessile to subsessile pistil, ovary puberulent, ellipsoid, 1.5–2 mm long, containing 6–7 ovules, style slender 22.5–55.5 mm long, stigma attenuate. Central flowers always 9. Calyx as previously for form, pubescence, colour, 2.5–4 mm long; free lobes 0.25–1 mm long, apex acute. Corolla as previously for form, pubescence, colour, 8.5–13 mm long; free lobes broadly ovate, 1–3.5 mm long, apex acute. Stamens same colour as previously, 33–60 mm long; fused into a tube for 17.5–33 mm, broadly flared at the apex; anther as previously. Intrastaminal disc fleshy, 0.5 mm high, free, with lobulate margin. Pistil sessile to subsessile; ovary puberulent with a few long hairs on the lateral faces, ellipsoid, 1.25–3 mm long, containing (4) 7–9 ovules; style slender, 24.5–55.5 mm long, with capitate or attenuate stigma.
 

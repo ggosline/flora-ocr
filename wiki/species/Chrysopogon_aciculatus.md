@@ -39,7 +39,7 @@ Walker : environs de Sindara.
 
 Chevalier : 26790, entre Libreville et Sibang.
 
-34. EUCLA $ ^{ST} $A Franch.
+34. EUCLA STA Franch.
 
 FRANCH. Bull. Soc. Hist. Nat. Autun, VIII : 335 (1895).
 

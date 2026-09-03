@@ -45,7 +45,7 @@ National Herbarium of the Netherlands – Wageningen branch.
 
 ![Begonia hirsutula](../sources/Begoniaceae_vol39_liteparse/figures/fig_038_p0054.png)
 
-*Plate 23. Begonia hirsutula : 1. Flowering plant (× ⅔). – 2. Female flower (× 2). – 3. Styles and stigmas (× 4). – 4. Fruit (× 2). – 5. Peltate leaf (× ⅔) ; – 6. Non-peltate leaf (× ⅔). (1 : de Wilde 7471 ; 2, 3, 6 : van Veldhuizen 1314 ; 4 : de Wilde c.s. 8921 ; 5 : Bos 6311 ) . Drawing by W W , Herbarium*
+*PL. 23. Begonia hirsutula: 1. Flowering plant (× ⅔). – 2. Female flower (× 2). – 3. Styles and stigmas (× 4). – 4. Fruit (× 2). – 5. Peltate leaf (× ⅔); – 6. Non-peltate leaf (× ⅔). (1 : de Wilde 7471 ; 2, 3, 6 : van Veldhuizen 1314 ; 4 : de Wilde c.s. 8921 ; 5 : Bos 6311). Drawing by W W, Herbarium*
 
 ## Notes
 

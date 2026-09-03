@@ -27,7 +27,7 @@ Fruits generally glabrous with small persistent calycinal lobes, subspheric, yel
 
 ## Type
 
-Mann 1799 (K, P!),  $ 1^{0} $ lat. N, Mount-John, River Kongui
+Mann 1799 (K, P!),  1⁰ lat. N, Mount-John, River Kongui
 
 ## Discussion
 

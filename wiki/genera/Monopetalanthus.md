@@ -39,75 +39,49 @@ We count 2 species in Sierra Leone and Liberia, M. pteridophyllus, M. compactus,
 
 ## Key to the species
 
-1. Leaves multijugate.
 
-2. Leaflets with principal vein bordering the anterior margin, not auriculate at the base.
+**1.** Leaves multijugate. ^k1
 
-3. Leaflets 15-30 × 5-12 mm; stipules caducous.
+**2.** Leaflets with principal vein bordering the anterior margin, not auriculate at the base. ^k2
 
----
+**3.** Leaflets 15-30 × 5-12 mm; stipules caducous. ^k3
 
-4. About 35 pairs, 4-5 mm wide; 5 sepals of which 2 united ..... 1. M. Heitzii.
+**4.** About 35 pairs, 4-5 mm wide; 5 sepals of which 2 united → 1. M. Heitzii. ^k4
 
-4'. About 10 pairs, 6-12 mm wide; calyx absent or reduced to a single tooth ..... 2. M. Ledermannii.
+**4′.** About 10 pairs, 6-12 mm wide; calyx absent or reduced to a single tooth → 2. M. Ledermannii.
 
-5. About 35-45 pairs, 1.5-2 mm wide ..... M. Hedinii (Cameroon).
+**5.** About 35-45 pairs, 1.5-2 mm wide → M. Hedinii (Cameroon). ^k5
 
-5'. About 20-25 pairs, 2-4 mm wide; calyx absent.
-6. Stipules persistent; leaflets acute-falciform .....
-3. M. pectinatus.
+**5′.** About 20-25 pairs, 2-4 mm wide; calyx absent.
 
-6'. Stipules caducous; leaflets ± acute or rounded at apex ..... 4. M. microphyllus.
+**6.** Stipules persistent; leaflets acute-falciform ..... ^k6
 
-2'. Leaflets with principal vein median; stipules caducous.
-7. Large rhomboidal leaflets 3-6 × 1-1.5 cm with principal vein diagonal, not auriculate at the base; 12-15 pairs;
-3 short sepals ..... 5. M. Durandii.
-7'. Leaflets smaller, auriculate at the base.
+**3.** M. pectinatus.
 
-8. Leaflets emarginate at apex.
-9. 20-25 × 5-6 mm; 17-18 pairs; calyx reduced to two minute teeth ..... 6. M. Le-Testui.
-9'. 10-13 × 3-4 mm; 13-15 pairs; calyx absent .....
+**6′.** Stipules caducous; leaflets ± acute or rounded at apex → [[Monopetalanthus_microphyllus\|*M. microphyllus*]]
 
-8'. Leaflets not emarginate, rounded at apex.
-10. 7-12 × 2.5-3.5 mm; 14-22 pairs; 5 minute sepals .....
-8. M. longiracemosus.
-10'. 20-30 × 4-5 mm; 25-30 pairs ..... 9. M. coriaceus.
+**2′.** Leaflets with principal vein median; stipules caducous.
 
-1. Leaves unijugate; Congolese species not known from Gabon or Cameroon ..... M. Richardsiae, M. Leonardii.
+**7.** Large rhomboidal leaflets 3-6 × 1-1.5 cm with principal vein diagonal, not auriculate at the base; 12-15 pairs; 3 short sepals → 5. M. Durandii. ^k7
 
-Andoung
+**7′.** Leaflets smaller, auriculate at the base.
 
-F. Pellegrin, Bull. Soc. Bot. Fr. 84 : 642 (1937); Lég. Gabon : 74 (1948). — Heitz, Forêt Gabon : 118, pl. 35 (1943). — de Saint-Aubin, For. Gabon : 52 (1963).
+**8.** Leaflets emarginate at apex. ^k8
 
-Large trees. Buds in scaly cones developing large striated bracts. Rachis 25-30 cm long, swollen and striated at the base, ferruginous pubescent. Leaves paripinnate, 25 to 35 pairs of opposite leaflets, sessile, glabrous, oblong, with obliquely truncate base, parallel to the rachis, attached at the apex of the anterior angle, the posterior part forming an auricle, oblique and acute at apex, 15 to 30 mm long, 4-5 mm wide. The principal vein borders the anterior margin. Secondary veins diverging from the point of attachment on the rachis, one of them extending to about two-thirds of the blade length.
+**9.** 20-25 × 5-6 mm; 17-18 pairs; calyx reduced to two minute teeth → 6. M. Le-Testui. ^k9
 
-Inflorescences in terminal panicles, tawny pubescent. Pedicels 10-15 mm. Bractlets valvate, tawny silky-hairy, 15-20 mm long, 10-12 mm wide, somewhat keeled. Sepals 5, 4 × 2 mm, of which 2 united to mid-length, reddish. One large spatulate petal, clawed, emarginate at apex, silky-hairy within, 15-20 × 6 mm; the other 4 rudimentary, reduced to small hairy alternisepal teeth. Stamens 9, with filaments united to one-third. Ovary stipitate, hirsute, with 5-6 ovules. Style hairy at the base, then glabrous; stigma capitate.
+**9′.** 10-13 × 3-4 mm; 13-15 pairs; calyx absent .....
 
-Large woody legumes, flat, oblong, apiculate at the apex, 12 to 20 × 5-6 cm, brown-maroon, slightly wrinkled, marked with a longitudinal vein. Seeds 3-5, flat, oval, 2.5 × 1.5 cm, chocolate-colored.
+**8′.** Leaflets not emarginate, rounded at apex.
 
-Holotype : Heitz 16, Gabon (P).
+**10.** 7-12 × 2.5-3.5 mm; 14-22 pairs; 5 minute sepals ..... ^k10
 
-This Monopetalanthus, exclusively Gabonese, is the easiest to recognize among the Caesalpiniaceae with small leaflets. It is a very large tree able to reach 2 meters in diameter. Crown umbrella-shaped, with light canopy. The bole is straight, cylindrical, relatively short, provided at the base with thin buttresses, very well developed in large trees, spreading far from the base and not rising very high along the bole. Bark smooth and gray, very rugose and reddish-brown in large trees. The rhytidome exfoliates in places in small scales leaving characteristic dark red patches. Section thick, 2 cm, very fibrous, garnet red color. Wood pale rosy-brown, tender and light.
+**8.** M. longiracemosus.
 
-This species is found especially in the northwest of Gabon in clusters of a few trees.
+**10′.** 20-30 × 4-5 mm; 25-30 pairs → [[Monopetalanthus_coriaceus\|*M. coriaceus*]]
 
-Vernacular names: Evel-andoung Andoung, (Fang).
+**1.** Leaves unijugate; Congolese species not known from Gabon or Cameroon → M. Richardsiae, M. Leonardii. Andoung F. Pellegrin, Bull. Soc. Bot. Fr. 84 : 642 (1937); Lég. Gabon : 74 (1948). — Heitz, Forêt Gabon : 118, pl. 35 (1943). — de Saint-Aubin, For. Gabon : 52 (1963). Large trees. Buds in scaly cones developing large striated bracts. Rachis 25-30 cm long, swollen and striated at the base, ferruginous pubescent. Leaves paripinnate, 25 to 35 pairs of opposite leaflets, sessile, glabrous, oblong, with obliquely truncate base, parallel to the rachis, attached at the apex of the anterior angle, the posterior part forming an auricle, oblique and acute at apex, 15 to 30 mm long, 4-5 mm wide. The principal vein borders the anterior margin. Secondary veins diverging from the point of attachment on the rachis, one of them extending to about two-thirds of the blade length. Inflorescences in terminal panicles, tawny pubescent. Pedicels 10-15 mm. Bractlets valvate, tawny silky-hairy, 15-20 mm long, 10-12 mm wide, somewhat keeled. Sepals 5, 4 × 2 mm, of which 2 united to mid-length, reddish. One large spatulate petal, clawed, emarginate at apex, silky-hairy within, 15-20 × 6 mm; the other 4 rudimentary, reduced to small hairy alternisepal teeth. Stamens 9, with filaments united to one-third. Ovary stipitate, hirsute, with 5-6 ovules. Style hairy at the base, then glabrous; stigma capitate. Large woody legumes, flat, oblong, apiculate at the apex, 12 to 20 × 5-6 cm, brown-maroon, slightly wrinkled, marked with a longitudinal vein. Seeds 3-5, flat, oval, 2.5 × 1.5 cm, chocolate-colored. Holotype : Heitz 16, Gabon (P). This Monopetalanthus, exclusively Gabonese, is the easiest to recognize among the Caesalpiniaceae with small leaflets. It is a very large tree able to reach 2 meters in diameter. Crown umbrella-shaped, with light canopy. The bole is straight, cylindrical, relatively short, provided at the base with thin buttresses, very well developed in large trees, spreading far from the base and not rising very high along the bole. Bark smooth and gray, very rugose and reddish-brown in large trees. The rhytidome exfoliates in places in small scales leaving characteristic dark red patches. Section thick, 2 cm, very fibrous, garnet red color. Wood pale rosy-brown, tender and light. This species is found especially in the northwest of Gabon in clusters of a few trees. Vernacular names: Evel-andoung Andoung, (Fang). Gabonese material studied: Gauchotte : 1775, Ikoy (fr. jan.). Griffon du Bellay : 160, Owala du Boquoé "Habeian". Heitz : 16, Sibang (fl.). Morel : 52, Est Cocobeach (fr. sept.); 19, riv. Noya. Normand : 219, rive droite de la Ngounié, N. de Sindara (fr. sept.). S. R. F.: s. n., Sud Coco-Beach (jeunes pousses jan.).
 
-Gabonese material studied:
-
-Gauchotte : 1775, Ikoy (fr. jan.).
-
-Griffon du Bellay : 160, Owala du Boquoé "Habeian".
-
----
-
-Heitz : 16, Sibang (fl.).
-
-Morel : 52, Est Cocobeach (fr. sept.); 19, riv. Noya.
-
-Normand : 219, rive droite de la Ngounié, N. de Sindara (fr. sept.).
-
-S. R. F.: s. n., Sud Coco-Beach (jeunes pousses jan.).
 
 ## Species in region
 

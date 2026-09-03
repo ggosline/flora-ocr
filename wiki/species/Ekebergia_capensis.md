@@ -35,7 +35,7 @@ limited to mountainous zones; up to 2600 m altitude. Taxonomic notes: 1 - We fol
 
 ![Ekebergia capensis](../sources/Meliaceae_vol47_liteparse/figures/fig_016_p0024.png)
 
-*Plate 2. Ekebergia capensis : A. Flowering branch (× 0.5). – B. Opened flower (× 3). – C. Ditto, longitudinal section (× 3). – D. Fruit (× 0.5). – E. Ditto, transverse section (× 1). (A : Louis 6700 ; B, C : Louis 16366 : D, E : Louis 4299 ). Drawing by J.M. Lerinckx, reproduced with permission from the National Botanical Garden of Belgium (©) from Staner & Gilbert (1958).*
+*PL. 2. — Ekebergia capensis : A. Flowering branch (× 0.5). – B. Opened flower (× 3). – C. Ditto, longitudinal section (× 3). – D. Fruit (× 0.5). – E. Ditto, transverse section (× 1). (A : Louis 6700 ; B, C : Louis 16366 : D, E : Louis 4299 ). Drawing by J.M. Lerinckx, reproduced with permission from the National Botanical Garden of Belgium (©) from Staner & Gilbert (1958).*
 
 ## Notes
 

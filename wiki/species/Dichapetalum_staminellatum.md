@@ -31,7 +31,7 @@ Leaves. Petiole sub- to hemicylindric, 2-5 mm long, pubescent like the young bra
 
 Inflorescences sessile or nearly so, condensed, ≤10-flowered, velvety-tomentose. Bracts and bracteoles narrow and triangular, 0.5-1 mm long. Pedicel ≤ 1.5 mm, upper part ≤ 0.5 mm.
 
-Flowers. Sepals suberect, shortly connate at the base, narrow and oblong, $ 1.5 \times 0.5 $ mm; silky tomentum on the outside and sparse pubescence especially on the upper part of the inner face. Petals narrow and obovate, 3.5-4 mm long, split for 1.5 mm, bent below the spreading lobes; lower part erect, 1.5 mm long, glabrous or with a few hairs above the slit on the outer side. Stamens erect, slightly longer than the sepals, ≈ 1.5 mm long, glabrous; anthers ≈ 0.3 mm, connective distinct. Staminodes narrow and oblong, 3-4 times longer than wide, ≈ 0.5 mm long, glabrous. Pistil 2-merous, often shorter than the stamens, ≤ 1.5 mm long; ovary velvety; style glabrous, terminated by two short lobes.
+Flowers. Sepals suberect, shortly connate at the base, narrow and oblong, 1.5 × 0.5 mm; silky tomentum on the outside and sparse pubescence especially on the upper part of the inner face. Petals narrow and obovate, 3.5-4 mm long, split for 1.5 mm, bent below the spreading lobes; lower part erect, 1.5 mm long, glabrous or with a few hairs above the slit on the outer side. Stamens erect, slightly longer than the sepals, ≈ 1.5 mm long, glabrous; anthers ≈ 0.3 mm, connective distinct. Staminodes narrow and oblong, 3-4 times longer than wide, ≈ 0.5 mm long, glabrous. Pistil 2-merous, often shorter than the stamens, ≤ 1.5 mm long; ovary velvety; style glabrous, terminated by two short lobes.
 
 Fruits unknown. – Pl. 49, p. 167.
 

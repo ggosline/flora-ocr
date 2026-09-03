@@ -25,16 +25,13 @@ Infructescences (often) with a hard zone and a softer zone containing the fruits
 
 A. altilis (Breadfruit tree) and A. heterophyllus (Jackfruit tree) are cultivated in the tropics. A. altilis has seeded and seedless forms and A. heterophyllus has forms with hard perianths or soft perianths in the fruit.
 
-### KEY TO SPECIES
-
-1. Ramiflorous trees; leaves lobed ..... 1. A. altilis.
-
-1'. Cauliflorous trees; leaves entire ..... 2. A. heterophyllus.
-
 ## Key to the species
 
-1. Trees ramiflorous; leaves lobed ..... 1. A. altilis.
-1'. Trees cauliflorous; leaves entire ..... 2. A. heterophyllus.
+
+**1.** Trees ramiflorous; leaves lobed → [[Artocarpus_altilis\|*A. altilis*]] ^k1
+
+**1′.** Trees cauliflorous; leaves entire → [[Artocarpus_heterophyllus\|*A. heterophyllus*]]
+
 
 ## Species in region
 

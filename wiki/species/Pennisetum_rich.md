@@ -36,7 +36,7 @@ tags: [species, generated]
 
 5. Rachis glabrous or hispidulous; leaf blade 3–12 mm wide; panicle narrower ..... P. macrourum
 
-$^{*}$47.1 Pennisetum glaucum (L.) R. Br.
+*47.1 Pennisetum glaucum (L.) R. Br.
 
 FTEA: 672; Fl. Zamb. 10(3): 180; Gram. Cam.: 344; Poac. Cl.: 466, 467.
 
@@ -82,9 +82,9 @@ Fl. Gab.: 94; FACB 2: 346, Pl. 51; FWTA: 461, 462; FTEA: 677, fig. 156; Fl. Zamb
 
 FTEA : 681 ; Fl. Zamb. 10(3) : 182 ; Gram. Cam. : 338, Pl. 72 ; Poac. CI. : 462, 463 ; Gram. CB. : 234. – Beckeropsis uniseta (Nees) K. Schum. – Fl. Gab. : 100 ; FACB 2 : 360, Pl. 53 ; FWTA : 459.
 
-$ ^{*} $48. Perotis Aiton
+*48. Perotis Aiton
 
-$ ^{*} $48.1 Perotis indica (L.) Kuntze
+*48.1 Perotis indica (L.) Kuntze
 
 FWTA : 411 ; FTEA : 395 ; Gram. Cam. : 164, Pl. 33 ; Poac. CI. : 218, 219 ; Gram. CB. : 137.
 

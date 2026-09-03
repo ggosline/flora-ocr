@@ -7,12 +7,6 @@ family: Cyperaceae
 vol: 44
 pages: 172-173
 source: sources/Cyperaceae_vol44_liteparse
-countries: [Cameroon, Gabon]
-in_region: true
-subdivisions:
-  Gabon: [Estuaire, Ngounié, Nyanga, Woleu-Ntem]
-habit: "herb"
-altitude_m: "0–500"
 tags: [species, generated]
 ---
 # *Mapania macrantha* (Boeckeler) H.Pfeiff. Figure 16b
@@ -21,9 +15,13 @@ tags: [species, generated]
 **Family**: [[Cyperaceae]]
 **Protologue**: Bot. Archiv. 12 : 450 (1925)
 
+## Synonyms
+
+- Hypolytrum macranthum Boeckeler, Bot. Jahrb. Syst. 5 : 507 (1884).
+
 ## Description
 
-Herb fairly robust, with a rhizome thick 4–6 mm; stem solitary, central, 40–100 cm × 4–6 mm, trigonous, glabrous. Leaves all basal; sheath linear–lanceolate, fairly thick, 7–15 × 1–1.5 cm, greenish; blade linear, plane, fairly thick, trinerved, the largest 100–150 cm × 45–65 mm, base gradually narrowed into sheath, without pseudo-petiole, gradually terminated in an acute or rarely acuminate apex. Inflorescence terminal, in a globose head, 37–55 mm in diameter, medium to dark brown, formed of numerous fairly distinct spikes; involucral bracts 3–4, spreading or slightly reflexed, foliaceous, linear to lanceolate, 2–90 × 1–6 cm, acute apex; spikes elliptic–oblanceolate, 15–18 × 3–5 mm, apex obtuse to rounded; spicoid bracts tightly packed, linear, 9–10 × 1–1.2 mm, brown, but with dark red-brown striae toward the apex, glabrous, plane, apex obtuse or sometimes split, each subtending a spicoid with 2 male flowers and 1 female. Flower: floral bracts 4, 8–11 mm long, the 2 lower linear, plane, 0.4–0.8 mm wide, brownish, keel narrowly winged, hispid, acute apex; the 2 upper linear to filiform, 0.1–0.3 mm wide, glabrous; style with 2 branches. Achene obovoid, 1.3–1.6 × 0.9–1.1 mm, lenticular, brown to blackish, rugose with 2 distinct lateral ribs and 1 anterior.
+Fairly robust herb, with a thick rhizome 4–6 mm; stem solitary, central, 40–100 cm × 4–6 mm, trigonous, glabrous. Leaves all basal; sheath linear–lanceolate, fairly thick, 7–15 × 1–1.5 cm, greenish; blade linear, flat, fairly thick, trinervate, the largest 100–150 cm × 45–65 mm, base gradually narrowed into sheath, without pseudo-petiole, gradually terminated in an acute or rarely acuminate apex. Inflorescence terminal, in a globose head, 37–55 mm in diameter, medium to dark brown, formed of numerous fairly distinct spikes; involucral bracts 3–4, spreading or slightly reflexed, foliaceous, linear to lanceolate, 2–90 × 1–6 cm, apex acute; spikes elliptic–oblanceolate, 15–18 × 3–5 mm, apex obtuse to rounded; spicoid bracts crowded, linear, 9–10 × 1–1.2 mm, brown, but with dark reddish-brown striae towards the apex, glabrous, flat, apex obtuse or sometimes split, each subtending a spicoid with 2 male flowers and 1 female. Flower: floral bracts 4, 8–11 mm long, the 2 lower ones linear, flat, 0.4–0.8 mm wide, brownish, keel narrowly winged, hispid, apex acute; the 2 upper ones linear to filiform, 0.1–0.3 mm wide, glabrous; style with 2 branches. Achene obovoid, 1.3–1.6 × 0.9–1.1 mm, lenticular, brown to blackish, rugulose with 2 distinct lateral ribs and 1 anterior.
 
 a b
 
@@ -33,7 +31,7 @@ Cameroon and Gabon; rare in Gabon, found in Estuaire, Ngounié, Nyanga and Woleu
 
 ## Ecology
 
-primary or secondary forests, often along rivers and streams; in Gabon, at 0–500 m altitude, in Cameroon, up to 1350 m. Taxonomic note: resembles M. purpuriceps very much, but without the purple color of that species. It differs from it also by a denser grouping of smaller and less distinct spikes. Under magnification, it differs from it by its narrower spicoid bracts and floral bracts with a hispid and not winged keel (coarsely denticulate–hispid in M. purpuriceps). b: Hooper & Napper (1972), Simpson (1992). Bibliography
+Primary or secondary forests, often along rivers and streams; in Gabon, at 0–500 m altitude, in Cameroon, up to 1350 m. Taxonomic note: resembles M. purpuriceps very closely, but without the purple color of that species. It differs further by a denser grouping of smaller and less distinct spikes. Under magnification, it is distinguished from it by its narrower spicoid bracts and floral bracts with a hispid, not winged keel (coarsely denticulate–hispid in M. purpuriceps). b: Hooper & Napper (1972), Simpson (1992). ibliography
 
 ## Figures
 

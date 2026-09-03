@@ -22,9 +22,9 @@ Fl. Gab.: 120, Pl. 19 ; FACB 1 : 50 ; FWTA : 502, fig. 459 ; FTEA : 832, fig. 19
 
 Genus Introduced
 
-$ ^{*} $70. Zoysia Willd.
+*70. Zoysia Willd.
 
-$ ^{*} $70.1 Zoysia matrella (L.) Merr.
+*70.1 Zoysia matrella (L.) Merr.
 
 FWTA : 413 ; FTEA : 392.
 
