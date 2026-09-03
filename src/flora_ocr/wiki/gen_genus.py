@@ -170,7 +170,8 @@ def diagnosis_text(body: str, limit: int = 2500) -> str:
 # Diospyros's 38-lead key among them. The wording varies ("Key to species",
 # "KEY TO SPECIES AND VARIETIES", "Cle de determination"), so the tail is loose.
 KEY_HEADING_RE = re.compile(
-    r"^\s*#{0,6}\s*(?:CL[EÉ]F?S?\s+(?:DES\s+ESP[EÈ]CES|DE\s+D[EÉ]TERMINATION)"
+    r"^\s*#{0,6}\s*(?:CL[EÉ]F?S?\s+(?:DES\s+(?:ESP[EÈ]CES|SOUS-GENRES|GENRES"
+    r"|VARI[EÉ]T[EÉ]S|SECTIONS)|DE\s+D[EÉ]TERMINATION)"
     r"|KEY\s+TO\s+(?:THE\s+)?(?:SPECIES|SUBGENERA|SECTIONS|VARIETIES|GENERA)"
     r"[A-Z ]*)\b.*$", re.I | re.M)
 KEY_LEAD_RE = re.compile(r"^\s*1\s*['’]?\s*[.\-)]\s*[-–—]?\s*\S.*\.{4,}", re.M)

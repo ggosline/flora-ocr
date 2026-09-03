@@ -41,6 +41,25 @@ Genus of 24 species of which 8 or 9 in America, 4 in Madagascar and one in Indon
 
 2. Disk distinctly 5-lobed, with lobes enclosing the base of the petals; flower sessile to subsessile; petals almost orbicular about 1 mm in diameter; leaf appearing often when dry thin and crisped ..... 1. P. paniculata.
 
+## Key to the species
+
+- **1.** Flowers urceolate to semi-rotate; sepals equal or subequal; petals suborbicular, ovate or oblong or furnished with a broad claw or sessile; disc inconspicuous, lobed or angular, cupuliform or not (subgenus Pristimera).
+  - **2.** Disc distinctly 5-lobed, with lobes clasping the base of the petals; flower sessile to subsessile; petals nearly orbicular about 1 mm in diameter; leaf appearing often dry thin and crisped → [[Pristimera_paniculata\|*P. paniculata*]]
+  - **2′.** Disc not lobed, at most pentagonal.
+    - **3.** Disc in a torus, cushion or ring.
+      - **4.** Disc in a torus, broad or ± inclined ridge, or in a cushion.
+        - **5.** Calyces and floral pedicels glabrous.
+          - **6.** Flower 3-3.5 mm in diameter, disc 1.2 mm in diameter; petals broadly ovate, 2.3 mm long; stigma trilobulate; 6-8 ovules per locule; pedicels 0.6-2 mm; leaves generally not distinctly crisped when dry → P. polyantha (Loes.) Hallé (East Africa).
+          - **6′.** Flower 2.5 mm in diameter, disc 1.1 mm in diameter; petals ovate 1.6 mm long; stigma punctiform; 4 ovules per locule; pedicels 0.8-2 mm → 1 bis. P. luteoviridis.
+        - **5′.** Calyces and floral pedicels puberulent; flowers 2.4 mm in diameter, disc 0.75 mm in diameter; 5-8 ovules per locule; pedicels 0.5-2 mm → 1 ter. P. plumbea.
+      - **4′.** Disc in a rather narrow ring (see 7a to 7d). 7a. Pedicels 2-3 mm; disc 1.7 mm in diameter; petals elliptic, 1.5-3 mm long; flower green 2. P. mouilensis. 7b. Pedicels 0.6-3 mm; disc 1.1-1.5 mm in diameter; petals suborbicular 1.3-1.5 mm P. longipetiolata (Oliv.) Hallé (South East Africa). 7c. Pedicels 1-1.2 mm; disc 0.6-0.9 mm in diameter; petals ovate not cucullate 1.3-1.4 mm; stigma trilobed; leaves ± olivaceous when dry, somewhat dentate 2 bis. P. breteleri. 7d. Pedicels 1.5-2.2 mm; disc 1 mm in diameter; petals ovate cucullate ovate 1.3-1.6 mm; stigma punctiform; leaves reddish-brown when dry, entire → 1 bis. P. luteoviridis (var. kribiana).
+    - **3′.** Disc cupuliform.
+      - **8.** Pedicels puberulent 0.8-1 mm; petals laterally imbricate, not overlapping each other at the apex of the bud and 1.2 mm long; disc 1.1 mm in diameter; 6-10 ovules per locule → 2 ter. P. biholongii.
+      - **8′.** Pedicels glabrous, 1-2.5 mm long; petals orbicular well overlapping each other, 1.8-2.3 mm long; disc 1.1-1.7 mm in diameter; 5-8 ovules per locule → [[Pristimera_andongensis\|*P. andongensis*]]
+        - **9.** Flowers, inflorescences and leaves often blackening when dry; petals not denticulate; flowers with pedicel 3-12 mm long; 4-10 ovules per locule → 3 bis. P. graciliflora.
+        - **9′.** Flowers, inflorescences and leaves little or not blackening when dry; petals denticulate; flowers with very short pedicel 0.2-1 mm; 6-7 ovules per locule → 3 ter. P. preussii.
+
+
 ## Species in region
 
 | Species | Vol | Pages |

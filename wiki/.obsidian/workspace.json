@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "genera/Diospyros.md",
+                "file": "species/Microdesmis_haumaniana.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Diospyros"
+              "title": "Microdesmis_haumaniana"
             }
           }
         ]
@@ -187,8 +187,9 @@
   },
   "active": "751504066fed907e",
   "lastOpenFiles": [
-    "species/Diospyros_piscatoria.md",
+    "genera/Microdesmis.md",
     "genera/Diospyros.md",
+    "species/Diospyros_piscatoria.md",
     "families/Ebenaceae.md",
     "species/Oncoba_mannii.md",
     "genera/Oncoba.md",
@@ -212,7 +213,6 @@
     "species/Vandellia_diffusa.md",
     "species/Urera_trinervis.md",
     "species/Turraeanthus_africanus.md",
-    "species/Trichoscypha_patens.md",
     "CuLX5GZw/Polygonaceae_vol7_paddle/figures/fig_002_p0015.png",
     "CuLX5GZw/Polygonaceae_vol7_paddle/figures/fig_001_p0009.png",
     "CuLX5GZw/Polygonaceae_vol7_paddle/figures/fig_000_p0002.png",

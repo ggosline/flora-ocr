@@ -41,6 +41,26 @@ Genus exclusively western, well represented in Gabon by eight species, several o
 
 3'. Cymes multiflorous, verticillate, terminal, sometimes a few axillary on the apical nodes; hypantho-calyx with glandular hairs ... 3. A. ciliatum.
 
+## Key to the species
+
+- **1.** Cymes solitary, erect, many-flowered; sepals with linear subapical appendage; epigynous crown prominent at maturity. Plant velutinous to hirsute (sect. Cincinnatiæ Engl.)
+- **1′.** Cymes digitate in groups of 2 to 5 in corymboid inflorescences, or contracted and umbelliform; sepals without appendage; epigynous crown included (sect. Corymbosæ Engl.).
+  - **2.** Herbaceous shrubs, erect, little-branched; stems relatively thick, 4-angled; leaves membranous, serrate-ciliate, substantially equal within the same pair; hypanth-calyx glabrescent or with glandular hairs, lobes broadly triangular or rounded.
+    - **3.** Cymules 3-5-flowered, exclusively axillary, mainly on leafless nodes; hypanth glabrescent, glandular hairs on the calyx . . . 2. A. soyauxii.
+    - **3′.** Cymes many-flowered, verticillate, terminal, sometimes a few axillary on the uppermost nodes; hypanth-calyx with glandular hairs → [[Amphiblemma_ciliatum\|*A. ciliatum*]]
+  - **2′.** Shrubs branched, often anisophyllous; branches relatively slender, woody or herbaceous; calyx lobes tooth-like, linear or subulate, separated by wide sinuses.
+    - **4.** Leaves with margins serrate-ciliate, very unequal; hypanth-calyx bristling with long setae → [[Amphiblemma_heterophyllum\|*A. heterophyllum*]]
+    - **4′.** Leaves with margins entire, ciliate or not.
+      - **5.** Plants glabrescent or sparsely hairy; calyx lobes triangular-subulate.
+        - **6.** Leaves oval, oval-lanceolate, to broadly elliptic.
+          - **7.** Hypanth 5 to 7 mm long, distinctly setulo-glandular; external stamens 18-20 mm; petiole almost as long as the lamina; terminal cymes → [[Amphiblemma_setosum\|*A. setosum*]]
+          - **7′.** Hypanth 3 to 4 mm long; setae few, caducous or not glandular; external stamens 8-10 mm; cymes often preceded by axillary or scattered cymules.
+            - **8.** Woody shrub, erect; terminal cymes and axillary cymules; pedoconnective of external stamens without spur, and that of internal stamens with well-developed anterior appendage.
+            - **8′.** Herbaceous shrub, sprawling; flowers solitary or cymes much reduced, scattered at the tip of stems and branches; pedoconnective of external stamens with spur and that of internal stamens without notable anterior appendage → 6'. A. gossweileri var. humifusum.
+        - **6′.** Leaves elliptic-lanceolate → [[Amphiblemma_cuneatum\|*A. cuneatum*]]
+      - **5′.** Plant hirsute, often reddish; calyx lobes linear; hypanth-calyx bristling with filiform setae → [[Amphiblemma_hallei\|*A. hallei*]]
+
+
 ## Species in region
 
 *No species blocks were segmented for this genus in the source.*

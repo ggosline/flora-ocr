@@ -113,13 +113,31 @@ def _is_bare_target(text: str) -> bool:
                 or FULL_SPECIES_TARGET_RE.match(candidate))
 
 
+# This volume prints the prime as a superscript and the scan keeps it: "2.1"
+# for 2', and a bare "1." on its own for the prime of the couplet in hand.
+SUPERSCRIPT_PRIME_RE = re.compile(r"^(\s*\d+)\s*\.\s*¹")
+BARE_SUPERSCRIPT_RE = re.compile(r"^\s*¹\s*\.\s*")
+
+
+def _normalise_primes(line: str, current: str) -> str:
+    line = SUPERSCRIPT_PRIME_RE.sub(r"\1'.", line)
+    if BARE_SUPERSCRIPT_RE.match(line) and current:
+        line = BARE_SUPERSCRIPT_RE.sub(f"{current}'. ", line)
+    return line
+
+
 def _rejoin(lines: list[str]) -> list[str]:
     """Merge continuation lines into the lead they belong to."""
     out: list[str] = []
+    last_number = ""
     for line in lines:
         stripped = line.strip()
         if not stripped or RULE_RE.match(stripped):
             continue
+        stripped = _normalise_primes(stripped, last_number)
+        nm = NUMBERED_LEAD_RE.match(stripped)
+        if nm and not nm.group(2):
+            last_number = nm.group(1)
         # Merge a bare target into the lead above when that lead has no target
         # of its own -- either no leader dots at all, or dots left dangling at
         # the end, which is precisely the case where the target was pushed onto
