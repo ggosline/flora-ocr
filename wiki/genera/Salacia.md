@@ -211,9 +211,7 @@ Fruits bacciform globular, cucumiform, pyriform or oblong, 1–12 cm long, with 
 
 **6′.** Disk as cushion 0.5 mm in thickness (pl. 10, fig. A); juvenile internodes subalate; flowers green, 2 ovules per locule → S. viridiflora Louis ex Wilczek (see also gr. 5, the anther sometimes lacking apicule).
 
-**7.** Medium blade, ± olivaceous and ± discolorous when dry; 2–6 ovules per locule
-
-**22.** S. erecta (note: the variation in the anther justifies cross-reference to gr. 4).
+**7.** Medium blade, ± olivaceous and ± discolorous when dry; 2–6 ovules per locule → S. erecta (note: the variation in the anther justifies cross-reference to gr. 4).
 
 **7.** Small blade, brownish concolorous when dry; 1–4 ovules per locule → 23. S. capitulata (note: species related to the foregoing and transferred to gr. 4). GROUP 8 Presence of rubber; style trilobed at the apex or even trifurcate; anther with or without apicule, with dehiscence slits forming a very acute angle, or subparallel; flowers very small 2–4.2 mm in diameter; small and low annular disk, 0.9–1.4 mm in diameter and 0.2–0.4 mm in thickness; perigynous groove rather distinct (pl. 12, fig. H): ovules 0–2 per locule.
 

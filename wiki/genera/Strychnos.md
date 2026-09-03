@@ -109,15 +109,11 @@ FOR SPECIMENS WITH FLOWERS
 
 **19′.** Corolla lobes spreading or recurved; small branches and leaves generally furnished with at least some hairs.
 
-**21.** Leaves 12–22 cm in length, pistil 2–2.2 mm in length; stamens slightly exserted; small branches brown-pubescent
-
-**27.** S. memecyloides.
+**21.** Leaves 12–22 cm in length, pistil 2–2.2 mm in length; stamens slightly exserted; small branches brown-pubescent → [[Strychnos_memecyloides\|*S. memecyloides*]]
 
 **21′.** Leaves up to 12 cm in length; pistil 4–8 mm in length, sometimes shorter; stamens well exserted.
 
-**22.** Leaves coriaceous, glabrous above; small branches generally glabrous; tendrils in pairs; mature bud 7–9.5 mm in length, glabrous or furnished with few hairs on the outside
-
-**35.** S. scheffleri.
+**22.** Leaves coriaceous, glabrous above; small branches generally glabrous; tendrils in pairs; mature bud 7–9.5 mm in length, glabrous or furnished with few hairs on the outside → [[Strychnos_scheffleri\|*S. scheffleri*]]
 
 **22′.** Leaves papyraceous or subcoriaceous.
 
@@ -161,9 +157,7 @@ FOR SPECIMENS WITH FLOWERS
 
 **33′.** Corolla with brushes of hairs recurved towards the inside at the apex of the lobes; the two large curved secondary nerves along the margin slightly more distinct than the others.
 
-**34.** Leaves much paler and very dull below, coriaceous or subcoriaceous; the secondary nerves and the main nerve form a fairly small angle
-
-**26.** S. malchairii.
+**34.** Leaves much paler and very dull below, coriaceous or subcoriaceous; the secondary nerves and the main nerve form a fairly small angle → [[Strychnos_malchairii\|*S. malchairii*]]
 
 **34′.** Leaves not or only slightly paler and glossy below, papyraceous; the secondary nerves and the main nerve form a right angle. 28. S. mimfiensis.
 
@@ -187,9 +181,7 @@ FOR SPECIMENS WITH FLOWERS
 
 **39.** Leaves with venation prominent on both faces or only below, ordinarily larger than in the following species; mature bud and pistil 4–4.5 mm in length → [[Strychnos_dale\|*S. dale*]]
 
-**39′.** Leaves with venation not or scarcely prominent below, not prominent above; mature bud 4.5–6 mm and pistil 3.2–6(–7) mm in length
-
-**18.** S. floribunda
+**39′.** Leaves with venation not or scarcely prominent below, not prominent above; mature bud 4.5–6 mm and pistil 3.2–6(–7) mm in length → [[Strychnos_floribunda\|*S. floribunda*]]
 
 **31′.** Branches not lenticellate (see also 33. S. retinervis).
 
@@ -197,9 +189,7 @@ FOR SPECIMENS WITH FLOWERS
 
 **41.** Brushes at the apex of the lobes, recurved; stamens at the throat; see n° 34 of this key.
 
-**41′.** Brushes at the throat, erect; stamens in the tube
-
-**24.** S. longicaudata
+**41′.** Brushes at the throat, erect; stamens in the tube → [[Strychnos_longicaudata\|*S. longicaudata*]]
 
 **40′.** Corolla internally pilose.
 
@@ -305,9 +295,7 @@ FOR SPECIMENS WITH FLOWERS
 
 **21.** Petiole rugose, pubescent as the small branches; fruiting inflorescence lax; see n° 28 of the preceding key.
 
-**21′.** Petiole not rugose; fruiting inflorescence contracted; plant dark brown when dry and with dark brown pubescence
-
-**6.** S. campic
+**21′.** Petiole not rugose; fruiting inflorescence contracted; plant dark brown when dry and with dark brown pubescence → *S. campic*
 
 **19′.** Small branches lenticellate; see n° 26 of this key.
 
@@ -333,9 +321,7 @@ FOR SPECIMENS WITH FLOWERS
 
 **26′.** Leaves coriaceous or subcoriaceous, not goffered; fruit ± 1–1.25 times as long as broad; seed subglobose or nearly so.
 
-**27.** Leaves very dull and distinctly paler below; testa sticking to the pulp, generally not visible
-
-**26.** S. malchairii.
+**27.** Leaves very dull and distinctly paler below; testa sticking to the pulp, generally not visible → [[Strychnos_malchairii\|*S. malchairii*]]
 
 **27′.** Leaves dull or glossy below; testa well visible, with fine pubescence.
 
@@ -399,9 +385,7 @@ FOR SPECIMENS WITH FLOWERS
 
 **42′.** Pistil 6–9 mm long; branches lenticellate or not; small branchlets glabrous or not as are the leaves.
 
-**43.** Leaves coriaceous; plant generally glabrous
-
-**35.** S. scheffleri.
+**43.** Leaves coriaceous; plant generally glabrous → [[Strychnos_scheffleri\|*S. scheffleri*]]
 
 **43′.** Leaves coriaceous; plant generally or at least partially hairy → [[Strychnos_ngouniensis\|*S. ngouniensis*]]
 

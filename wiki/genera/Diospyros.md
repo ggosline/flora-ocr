@@ -141,9 +141,7 @@ genus of the family recorded in Gabon.
 
 **12.** Blade exceeding 20 cm in length generally.
 
-**13.** Glands situated along the midvein and especially at the axil of the lateral veins
-
-**19.** D. longiflora.
+**13.** Glands situated along the midvein and especially at the axil of the lateral veins → [[Diospyros_longiflora\|*D. longiflora*]]
 
 **13′.** Glands not localized as above.
 
@@ -201,9 +199,7 @@ genus of the family recorded in Gabon.
 
 **26.** Lateral veins evanescent toward the blade margin, secondary veins scarcely visible on the lower surface of the blade; numerous and fine glands along the midvein.
 
-**27.** 3-6 pairs of lateral veins not forked
-
-**7.** D. cinnabarinus. (cf. D. simulans, see note to this species).
+**27.** 3-6 pairs of lateral veins not forked → D. cinnabarinus. (cf. D. simulans, see note to this species).
 
 **27′.** 5-8 pairs of lateral veins very often in part forked → [[Diospyros_gracilescens\|*D. gracilescens*]]
 
@@ -241,9 +237,7 @@ genus of the family recorded in Gabon.
 
 **34′.** Absence of the abnormal leaves mentioned above and the other characteristics mentioned together.
 
-**35.** Blade oblanceolate to obovate, 10-28 × 5-11 cm; ± 6-8 pairs of lateral veins; frequent presence of spiny points on branches and twigs; foliar pubescence formed sometimes of hairs which may appear appressed
-
-**23.** D. monbuttensis.
+**35.** Blade oblanceolate to obovate, 10-28 × 5-11 cm; ± 6-8 pairs of lateral veins; frequent presence of spiny points on branches and twigs; foliar pubescence formed sometimes of hairs which may appear appressed → [[Diospyros_monbuttensis\|*D. monbuttensis*]]
 
 **35′.** Blade not oblanceolate-obovate.
 
@@ -253,9 +247,7 @@ genus of the family recorded in Gabon.
 
 **37.** 6-8 pairs of lateral veins, the lower 2-3 pairs close together ± flabellate; petiole 6-8 mm; blade elliptic, more rarely lanceolate-elliptic, 10-28 × 3-10 cm; hispid or short ± caducous pubescence on twigs, petioles and lower surface of leaves → [[Diospyros_mannii\|*D. mannii*]]
 
-**37′.** 7-12 pairs of lateral veins, the lower pairs not close together and ± flabellate; petiole 10-12 mm; blade oblong or oblanceolate-elliptic, 18 (-30) × 6 (-10) cm; pubescence formed of R. LETOUZEY & F. WHITE short, rigid, scattered hairs, erect ± obliquely and sometimes apparently fascicled by 2-3
-
-**30.** D. pseudomespilus. II. Based on specimens with ♂ flowers*.
+**37′.** 7-12 pairs of lateral veins, the lower pairs not close together and ± flabellate; petiole 10-12 mm; blade oblong or oblanceolate-elliptic, 18 (-30) × 6 (-10) cm; pubescence formed of R. LETOUZEY & F. WHITE short, rigid, scattered hairs, erect ± obliquely and sometimes apparently fascicled by 2-3 → D. pseudomespilus. II. Based on specimens with ♂ flowers*.
 
 **1.** Corolla lobes as long as or longer than the corolla tube; anthers often exsert from the corolla throat.
 
@@ -335,9 +327,7 @@ genus of the family recorded in Gabon.
 
 **21′.** Calyx distinctly lobed, ± 10 mm in height.
 
-**22.** Calyx sparsely and finely pubescent, with rounded lobes; corolla 25-30 mm in height, ellipsoid, tube 22-28 mm in height; 40-110 stamens
-
-**9.** D. crassiflora.
+**22.** Calyx sparsely and finely pubescent, with rounded lobes; corolla 25-30 mm in height, ellipsoid, tube 22-28 mm in height; 40-110 stamens → [[Diospyros_crassiflora\|*D. crassiflora*]]
 
 **22′.** Calyx densely covered with chocolate-brown or blackish tomentum, with triangular lobes; corolla 18- 22 mm in height, infundibuliform; 20-30 stamens → [[Diospyros_gabunensis\|*D. gabunensis*]]
 
@@ -391,9 +381,7 @@ genus of the family recorded in Gabon.
 
 **34.** Corolla urceolate or botuliforme.
 
-**35.** Corolla urceolate; filament longer than anther; anthers setulose, briefly apiculate
-
-**27.** D. platanoides.
+**35.** Corolla urceolate; filament longer than anther; anthers setulose, briefly apiculate → [[Diospyros_platanoides\|*D. platanoides*]]
 
 **35′.** Corolla botuliforme; filament shorter than anther; anthers glabrous with apicule of ± 1 mm in length → [[Diospyros_vermoesenii\|*D. vermoesenii*]]
 
@@ -473,9 +461,7 @@ genus of the family recorded in Gabon.
 
 **7.** D. cinnabarina & 32. D. simulans (See note to these 2 species).
 
-**19′.** Flowers subsessile; corolla urceolate in the floral bud
-
-**36.** D. Vermoesenii.
+**19′.** Flowers subsessile; corolla urceolate in the floral bud → [[Diospyros_vermoesenii\|*D. vermoesenii*]]
 
 **15′.** Corolla tube at most 2 times as long as the corolla lobes.
 
@@ -551,9 +537,7 @@ genus of the family recorded in Gabon.
 
 **5′.** Fruit globular-depressed, at least 2 × 2 cm, first pubescent then subglabrous; ordinarily 6 seeds or more.
 
-**6.** Leaves glabrous; calyx lobes completely hiding the fruit, with margins distinctly incurved inward
-
-**5.** D. Boala.
+**6.** Leaves glabrous; calyx lobes completely hiding the fruit, with margins distinctly incurved inward → [[Diospyros_boala\|*D. boala*]]
 
 **6′.** Leaves puberulent below; calyx lobes not completely hiding the fruit, with margins not incurved inward → [[Diospyros_pseudomespilus\|*D. pseudomespilus*]]
 
@@ -619,9 +603,7 @@ genus of the family recorded in Gabon.
 
 **22.** Fruit reaching up to 2.5 × 1.5 cm, ovoid- conical, ± verrucose. 36. D. Vermoesenii.
 
-**22′.** Fruit reaching up to 1.4 × 0.9 cm, ellip- soid-conical, not verrucose
-
-**1.** D. abyssinica (See below).
+**22′.** Fruit reaching up to 1.4 × 0.9 cm, ellip- soid-conical, not verrucose → D. abyssinica (See below).
 
 **14′.** Fruit ellipsoid, globose, globular-depressed, ovoid, obovoid or cylindric, sometimes mucronate or umbonate, but never tapered to a pointed apex.
 

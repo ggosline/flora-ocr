@@ -54,13 +54,9 @@ Note. – The discovery of the genus Campylostemon is at the origin of the merge
 
 **4.** Leaves often olivaceous when dry and dentate, with fine venules clearly visible; blade most often 6-13 cm in length
 
-**4′.** Leaves often brownish when dry, scarcely dentate, with very fine indistinct veins; blade often 3.5-9 cm in length
+**4′.** Leaves often brownish when dry, scarcely dentate, with very fine indistinct veins; blade often 3.5-9 cm in length → *C. heaguertii*
 
-**2.** C. heaguertii
-
-**3′.** Petals rather thin, subspatulate, 3-4 mm long; inflorescence peduncles robust, 2 to 4 times longer than the petioles; 14-16 ovules per locule
-
-**3.** C. laurentii. Note. – Numerous differences, sometimes subtle and fairly difficult to observe, are expressed in the figures of plates 75 and 76. The constancy of these characters and their specific value remain to be defined to render their use desirable in a dichotomous key.
+**3′.** Petals rather thin, subspatulate, 3-4 mm long; inflorescence peduncles robust, 2 to 4 times longer than the petioles; 14-16 ovules per locule → C. laurentii. Note. – Numerous differences, sometimes subtle and fairly difficult to observe, are expressed in the figures of plates 75 and 76. The constancy of these characters and their specific value remain to be defined to render their use desirable in a dichotomous key.
 
 ## Species in region
 

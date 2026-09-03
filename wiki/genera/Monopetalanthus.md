@@ -53,9 +53,7 @@ We count 2 species in Sierra Leone and Liberia, M. pteridophyllus, M. compactus,
 
 **5′.** Approximately 20-25 pairs, 2-4 mm width; calyx absent.
 
-**6.** Stipules persistent; leaflets acute-falciform
-
-**3.** M. pectinatus.
+**6.** Stipules persistent; leaflets acute-falciform → [[Monopetalanthus_pectinatus\|*M. pectinatus*]]
 
 **6′.** Stipules caducous; leaflets ± acute or rounded at apex → [[Monopetalanthus_microphyllus\|*M. microphyllus*]]
 
@@ -73,9 +71,7 @@ We count 2 species in Sierra Leone and Liberia, M. pteridophyllus, M. compactus,
 
 **8′.** Leaflets not emarginate, with rounded apex.
 
-**10.** 7-12 × 2.5-3.5 mm; 14-22 pairs; 5 minute sepals
-
-**8.** M. longiracemosus.
+**10.** 7-12 × 2.5-3.5 mm; 14-22 pairs; 5 minute sepals → [[Monopetalanthus_longiracemosus\|*M. longiracemosus*]]
 
 **10′.** 20-30 × 4-5 mm; 25-30 pairs → [[Monopetalanthus_coriaceus\|*M. coriaceus*]]
 

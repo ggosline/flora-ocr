@@ -92,9 +92,7 @@ tags: [genus, generated]
 
 **3′.** F.  (4-15 × 2-5) not acuminate; petiole 5-10 mm → [[Beilschmiedia_oblongifolia\|*B. oblongifolia*]]
 
-**2′.** Young branches glabrous; f. (14-28 × 8-10); petiole 25-30 mm
-
-**2.** B. anacardioides.
+**2′.** Young branches glabrous; f. (14-28 × 8-10); petiole 25-30 mm → [[Beilschmiedia_anacardioides\|*B. anacardioides*]]
 
 **1′.** Leaves more or less hairy beneath; young branches hairy.
 

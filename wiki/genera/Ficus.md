@@ -193,9 +193,7 @@ also form 2 lips or simply a small slit and in this case, all the ostiolar bract
 
 **40.** Limb with 6–10 pairs of lateral veins, glabrous, figs ± depressed globose → [[Ficus_mallotoides\|*F. mallotoides*]]
 
-**40′.** Limb with 10–14 pairs of lateral veins, puberulent to pubescent beneath; figs usually more long than wide
-
-**32.** Figs pedunculate.
+**40′.** Limb with 10–14 pairs of lateral veins, puberulent to pubescent beneath; figs usually more long than wide → *F. pedunculate*
 
 **41.** Figs in the leaf axils or sometimes also (just) below the leaves, but not on well-developed spurs.
 

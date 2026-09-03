@@ -34,9 +34,7 @@ EXCLUDED SPECIES : Thyrsosalacia longipes (Oliv.) Loes., synonym of Salacia long
 
 **1.** Disk entire less than 2 mm in diameter; lateral cymes extremely slender, triflorous with alternate branches; abscission limit of the pedicel situated clearly beyond the upper bracteole → 1. T. nematobrachion. 1' Disk more than 4 mm in diameter
 
-**2.** Disk double, the lower one somewhat larger, with weakly lobed margin
-
-**2.** T. pararacemosa.
+**2.** Disk double, the lower one somewhat larger, with weakly lobed margin → [[Thyrsosalacia_pararacemosa\|*T. pararacemosa*]]
 
 **3.** Entire disk patelliform 2 bis. T. racemosa. 3' Disk scarcely cupuliform, with margin emarginate opposite each petal → [[Thyrsosalacia_viciflora\|*T. viciflora*]]
 

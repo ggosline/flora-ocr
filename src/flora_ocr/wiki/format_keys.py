@@ -80,7 +80,13 @@ def _rejoin(lines: list[str]) -> list[str]:
         stripped = line.strip()
         if not stripped or RULE_RE.match(stripped):
             continue
-        if out and _is_bare_target(stripped) and not LEADER_RE.search(out[-1]):
+        # Merge a bare target into the lead above when that lead has no target
+        # of its own -- either no leader dots at all, or dots left dangling at
+        # the end, which is precisely the case where the target was pushed onto
+        # the next line.
+        dangling = re.search(r"\.{3,}\s*$", out[-1]) if out else None
+        if out and _is_bare_target(stripped) and (
+                dangling or not LEADER_RE.search(out[-1])):
             m = NUMBERED_LEAD_RE.match(stripped)
             target = (m.group(3) if m else stripped).strip()
             out[-1] = f"{out[-1].rstrip('. ')} ..... {target}"

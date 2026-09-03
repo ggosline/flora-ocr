@@ -39,9 +39,7 @@ Except for the subforestry species (margins, clearings) of subgen. Dupineta, the
 
 **3′.** Emergences on the floral buds (sometimes very rapidly caducous) in addition to short pilosity.
 
-**4.** Leaves not or scarcely cordate; branches 4-angular not winged; sepals abruptly caudate over 2/3 of the length, loosely ciliate
-
-**3.** D. multiflora.
+**4.** Leaves not or scarcely cordate; branches 4-angular not winged; sepals abruptly caudate over 2/3 of the length, loosely ciliate → [[Dissotis_multiflora\|*D. multiflora*]]
 
 **4′.** Leaves cordate; branches 4-angular-winged; sepals moderately acuminate towards the middle, densely ciliate → [[Dissotis_brazza\|*D. brazza*]]
 

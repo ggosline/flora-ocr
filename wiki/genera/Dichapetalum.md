@@ -185,9 +185,7 @@ Flowers small, actinomorphic, 5-merous, hermaphrodite in African species, whitis
 
 **37.** Flowers in a subspherical capitulum with peduncle; lobes of petals pubescent on the outside → [[Dichapetalum_trichocephalum\|*D. trichocephalum*]]
 
-**37.** Flowers in a glomérule; lobes of petals glabrous on the outside
-
-**41.** D. pulchrum
+**37.** Flowers in a glomérule; lobes of petals glabrous on the outside → [[Dichapetalum_pulchrum\|*D. pulchrum*]]
 
 **36.** Stipules entire or otherwise early caducous.
 
@@ -279,9 +277,7 @@ Flowers small, actinomorphic, 5-merous, hermaphrodite in African species, whitis
 
 **56′.** Flowers in clearly branched pedunculate cymes.
 
-**60.** Style pubescent in its lower part; sepals (1) 1.5-2.5 (3) mm
-
-**29.** D. madagascariense
+**60.** Style pubescent in its lower part; sepals (1) 1.5-2.5 (3) mm → [[Dichapetalum_madagascariense\|*D. madagascariense*]]
 
 **60′.** Style glabrous in its lower part or only with very rare hairs; sepals (2.5) 3-6 (7) mm long → [[Dichapetalum_dewildei\|*D. dewildei*]]
 

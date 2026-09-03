@@ -91,9 +91,7 @@ Inflorescences very small, almost sessile: C. diffusiflora, C. Gossweileri, C. P
 
 **12.** Adult stems polygonal, narrowly winged, pedicels pilose → [[Cissus_leonardii\|*C. leonardii*]]
 
-**12′.** Adult stems cylindrical non-winged; pedicels glabrous
-
-**11′.** No domatia.
+**12′.** Adult stems cylindrical non-winged; pedicels glabrous → *N. domatia*
 
 **13.** Inflorescences very small, 1-2 cm long, sessile or briefly pedunculate.
 
@@ -103,9 +101,7 @@ Inflorescences very small, almost sessile: C. diffusiflora, C. Gossweileri, C. P
 
 **15′.** Leaves suborbicular, 2-3 cm long; stems cylindrical; pedicels pubescent → [[Cissus_gossweileri\|*C. gossweileri*]]
 
-**14′.** Plant more or less densely pubescent
-
-**14.** C. diffusiflora.
+**14′.** Plant more or less densely pubescent → [[Cissus_diffusiflora\|*C. diffusiflora*]]
 
 **13′.** Inflorescences large, 3-15 cm long, distinctly pedunculate.
 
