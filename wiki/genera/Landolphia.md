@@ -35,181 +35,103 @@ B: Endress et al. (2019), Jongkind & Lachenaud (2022), Persoon et al. (1992), va
 
 ## Key to the species
 
+(See also Clitandra cymulosa and Cylindropsis parvifolia allied to Landolphia.) Tube of the corolla up to 3 mm long; inflorescences axillary, sometimes with other pseudoterminal ones .................................................................................. 2 Tube of the corolla longer than 3 mm and inflorescences always terminal ............. 7 Branches densely lenticellate, almost pustulate; bark exfoliating ................ 3
 
-(See also Clitandra cymulosa and Cylindropsis parvifolia with respect to Landolphia.) Tube of corolla up to 3 mm in length; inflorescences axillary, sometimes also with other pseudoterminal ones .................................................................................. 2 Tube of corolla longer than 3 mm; inflorescences always terminal ............. 7 Branchlets densely lenticellate, almost pustulate; bark exfoliating ................ 3
+**—** Branches smoother, bark not exfoliating → couplet **4**
 
-**—** Branchlets smoother, bark not exfoliating → [[#^k4|4]]
+**3.** Tube of the corolla 1.5–2 mm long, with lobes 1.7–2.6 mm long → *L. pyramidata*
 
-**3.** Tube of corolla 1.5–2 mm long, lobes 1.7–2.6 mm long → *L. pyramidata* ^k3
+**3′.** Tube of the corolla 3.4–5.6 mm long, with lobes 3.8–11 mm long L. robustior Lobes of the corolla 1–2 times as long as the tube L. letestui Lobes of the corolla generally more than 2 times as long as the tube → couplet **5**
 
-**3′.** Tube of corolla 3.4–5.6 mm long, lobes 3.8–11 mm long → *L. robustior*.
+**5.** Leaf blade with 10 to 20 pairs of secondary veins → couplet **6**
 
-**4.** Lobes of corolla 1–1.5 times as long as tube → [[Landolphia_letestui\|*L. letestui*]] ^k4
+**5′.** Leaf blade with 5 to 8 pairs of secondary veins L. lepthantha Inflorescence compact, with hidden axes; pedicel 0.5–2 mm; leaf blade with midvein channelled above, lateral veins visible below L. anthonii Inflorescence less compact, with clearly visible axes; pedicel 3–5 mm; leaf blade with midvein prominent above, lateral veins scarcely visible below L. incerta Ovary glabrous with some scattered hairs or in a dense ring of hair at a certain distance from the apex → couplet **8**
 
-**4′.** Lobes of corolla generally more than 1.5 times as long as tube → [[#^k5|5]]
+**5′.** Ovary densely hairy over a large part of its surface, often excluding the apex or only at the apex → couplet **12**
 
-**5.** Leaf blade with 10 to 20 pairs of secondary nerves → [[#^k6|6]] ^k5
+**8.** Anthers included 1.2–6 mm (if included ± 1.2 mm and bark exfoliated, see L. noctiflora) → couplet **9**
 
-**5′.** Leaf blade with 5 to 8 pairs of secondary nerves → *L. lepthantha*.
+**8′.** Anthers barely exserted or barely included 11 Lobes of the corolla 1–2 times as long as the tube; stamens inserted at least 14 mm from the base of the tube L. breviloba Lobes of the corolla 2–3 times as long as the tube; stamens inserted at 3–12 mm from the base of the tube 10 Stamens inserted at 8 mm from the base of the tube; ovary with truncate apex L. landolphioides Stamens inserted at 4–6 mm from the base of the tube; ovary with conical apex → [[Landolphia_buchananii\|*L. buchananii*]]
 
-**6.** Inflorescence compact, with hidden axes; pedicel 0.5–1 mm; leaf blade with midvein channelled above, lateral nerves visible below → [[Landolphia_anthonii\|*L. anthonii*]] ^k6
+**11.** Branch with exfoliating bark; leaf blade not glandular-punctate below; style glabrous → *L. noctiflora*
 
-**6′.** Inflorescence less compact, axes clearly visible; pedicel 1–1.5 mm; leaf blade with prominent midvein above, lateral nerves little visible below → *L. incerta*.
+**11′.** Branch with non-exfoliating bark; leaf blade with small black glandular dots below; style pubescent L. stenogyna <<<---SECTION-BREAK--->>> Inflorescence axillary, sometimes also terminal (see also L. landolphioides) 13 Inflorescence terminal or usually with a true axillary or terminal tendril → couplet **36**
 
-**7.** Ovary glabrous with some scattered hairs or in a ring of dense hairiness at some distance from the apex → [[#^k8|8]] ^k7
+**13.** Branches hirsute to slightly hirsute → couplet **14**
 
-**7′.** Ovary densely hairy over a large part of its surface, often except the apex or only at the apex → [[#^k12|12]]
+**13′.** Branches with shorter pilosity or (sub)glabrous 17 Sepals and corolla lobes 0.5–1 times as long as wide L. jumellei Sepals erect; corolla lobes 1–2 times as long as wide → couplet **15**
 
-**8.** Anthers included 1.2–6 mm (if included c. 1.2 mm and bark exfoliated, see L. noctiflora) → [[#^k9|9]] ^k8
+**15.** Leaf blade cordate at the base, with 3 to 7 pairs of secondary veins → *L. parviflora*
 
-**8′.** Anthers barely exserted or barely included → [[#^k11|11]]
+**15′.** Leaf blade auriculate to obtuse or acute at the base, with 7 to 17 pairs of secondary veins → couplet **16**
 
-**9.** Lobes of corolla 1–1.5 times as long as tube; stamens inserted at least 14 mm from base of tube → *L. breviloba* ^k9
+**16.** Corolla lobes 2.8–7 mm long → [[Landolphia_subrepanda\|*L. subrepanda*]]
 
-**9′.** Lobes of corolla 2–3 times as long as tube; stamens inserted 5–8 mm from base of tube → [[#^k10|10]]
+**16′.** Corolla lobes 9.5–18 mm long → [[Landolphia_persooniana\|*L. persooniana*]]
 
-**10.** Stamens inserted 5 mm from base of tube; ovary with truncate apex → [[Landolphia_landolphioides\|*L. landolphioides*]] ^k10
+**17.** Corolla with hairy throat → couplet **18**
 
-**10′.** Stamens inserted 6–8 mm from base of tube; ovary with conical apex → [[Landolphia_buchananii\|*L. buchananii*]]
+**17′.** Corolla with glabrous throat 21 Lobes of the corolla ovate to narrowly ovate, 0.5–1 times as long as wide 19 Lobes of the corolla very narrowly elliptic, ovate to linear, more than 2 times as long as wide 20 Style 4–6 mm long; tube of the corolla 2–3 times as long as the calyx, with lobes pubescent to the apex on the exterior L. axillaris Style 7 mm long; tube of the corolla 2 times as long as the calyx, with lobes pubescent but glabrous to slightly pubescent toward the apex on the exterior → [[Landolphia_subrepanda\|*L. subrepanda*]]
 
-**11.** Branch with exfoliating bark; leaf blade not glandular-punctate below; style glabrous → *L. noctiflora* ^k11
+**20.** External bark exfoliated; tube of the corolla glabrous on the exterior; leaf blade with 6 to 8 pairs of secondary veins → *L. robustior*
 
-**11′.** Branch with non-exfoliating bark; leaf blade with small black glandular points below; style pubescent → [[Landolphia_stenogyna\|*L. stenogyna*]]
+**20′.** External bark not exfoliated; tube of the corolla puberulent on the exterior; leaf blade with 8 to 15 pairs of secondary veins L. persooniana Inflexed part of the tube of the corolla densely pubescent on the exterior 22 Inflexed part of the tube of the corolla glabrous or slightly pubescent on the exterior 24 Branches densely pubescent over the entire surface; inflorescence with 8–12 flowers L. foretiana Branches glabrous or partially pubescent; inflorescence with 5–8 flowers 23 Lobes of the corolla 2 times as long as the tube, 10 mm long L. breviloba Lobes of the corolla 3–4 times as long as the tube, 15–24 mm long → *L. uniflora*
 
-**12.** Inflorescence axillary, sometimes also terminal (see also L. landolphioides) → [[#^k13|13]] ^k12
+**24.** Ramilles with bark detaching in small scales → [[Landolphia_congolensis\|*L. congolensis*]]
 
-**12′.** Inflorescence terminal or very rarely an axillary or terminal tendril → [[#^k36|36]]
+**24′.** Ramilles with bark not detaching → couplet **25**
 
-**13.** Branchlets hirsute to somewhat hirsute → [[#^k14|14]] ^k13
+**25.** Ovary generally glabrous but base of the style (and sometimes also apex of ovary) hairy, style gradually widening in the ovary → 26 Ovary generally hairy; style often widening abruptly in the ovary . 27
 
-**13′.** Branchlets with shorter hairiness, or (sub)glabrous → [[#^k17|17]]
+**26.** Petiole 6–20 mm; leaf blade with 5 to 12 pairs of curved secondary veins → [[Landolphia_stenogyna\|*L. stenogyna*]]
 
-**14.** Sepals spread; lobes of corolla 1–1.5 times as long as wide → [[Landolphia_jumellei\|*L. jumellei*]] ^k14
+**26′.** Petiole 5–7 mm; leaf blade with 14 to 16 pairs of secondary veins nearly straight → [[Landolphia_coriacea\|*L. coriacea*]]
 
-**14′.** Sepals erect; lobes of corolla 2–2.5 times as long as wide → [[#^k15|15]]
+**27.** Leaf blade obovate, base generally cordate or auriculate → couplet **28**
 
-**15.** Leaf blade cordate at base, with 3 to 7 pairs of secondary nerves → *L. parviflora* ^k15
+**27′.** Leaf blade obovate or not, base never cordate or auriculate 29 Leaf blade nearly black above; on the lobes of the corolla 1–2 times as long as the tube, tube up to 5 mm long, hairy near the lobes on the exterior → [[Landolphia_obovata\|*L. obovata*]]
 
-**15′.** Leaf blade auriculate to obtuse or acute at base, with 7 to 17 pairs of secondary nerves → [[#^k16|16]]
+**27′.** Leaf blade generally much paler on the dry material; lobes of the corolla
 
-**16.** Lobes of corolla 2.8–7 mm long → [[Landolphia_subrepanda\|*L. subrepanda*]] ^k16
+**2.** 3 times as long as the tube, tube up to 4 mm long, glabrous or nearly so on the exterior → L. parviflora <<<---SECTION-BREAK--->>>
 
-**16′.** Lobes of corolla 9.5–18 mm long → [[Landolphia_persooniana\|*L. persooniana*]]
+**29.** Leaf blade 21.5–40 × 9.8–22.5 cm, with scalariform tertiary venation; tube of the corolla glabrous on the exterior L. maxima Leaf blade up to 24 × 15 cm, with tertiary venation generally reticulate; tube of the corolla glabrous to hairy on the exterior → couplet **30**
 
-**17.** Corolla with hairy throat → [[#^k18|18]] ^k17
+**30.** Leaf blade distinctly obovate, with 4 to 7 pairs of lateral veins, without parallel interstitial veins between them → [[Landolphia_glandulosa\|*L. glandulosa*]]
 
-**17′.** Corolla with glabrous throat → [[#^k21|21]]
+**30′.** Leaf blade obovate or not, with more than 8 pairs of secondary veins, often with parallel interstitial veins clearly visible between them → couplet **31**
 
-**18.** Lobes of corolla ovate to narrowly ovate, 1–2 times as long as wide → [[#^k19|19]] ^k18
+**31.** Tube of the corolla 6–13 mm long, glabrous on the exterior or if tube 12–13 mm long, then leaf blade 0.8–4.7 cm wide → couplet **32**
 
-**18′.** Lobes of corolla very narrowly elliptic, ovate to linear, more than 2 times as long as wide → [[#^k20|20]]
+**31′.** Tube of the corolla 12–34 mm long, glabrous or hairy on the exterior or if tube 12–13 mm long, then leaf blade up to 11.5 cm wide → couplet **33**
 
-**19.** Style 4–5 mm long; tube of corolla 2–3.5 times as long as calyx, lobes pubescent all the way to the apex on the exterior → [[Landolphia_axillaris\|*L. axillaris*]] ^k19
+**32.** Leaf blade generally rust-brown below on the dry material, with secondary veins flat above; tube of the corolla 8–10 mm long; ovary abruptly narrowed in the style; stamens included 0.7–1.2 mm → *L. ferrea*
 
-**19′.** Style 7 mm long; tube of corolla 3 times as long as calyx, lobes pubescent but glabrous to sparsely pubescent towards apex on the exterior → [[Landolphia_subrepanda\|*L. subrepanda*]]
+**32′.** Leaf blade dark brownish-green below on the dry material, with secondary veins prominent above; tube of the corolla 6–11 mm long; ovary gradually narrowed in the style; stamens at the throat or included 0.7 mm L. glabra Lobes of the corolla 2–3 times as long as the tube, 10–22 mm long; tube (at least the widest part) distinctly hairy on the exterior L. breviloba Lobes of the corolla 3–6 times as long as the tube; tube glabrous on the exterior or if partly hairy, then with corolla lobes 18.5–36 mm long → couplet **34**
 
-**20.** External bark exfoliated; tube of corolla glabrous on exterior; leaf blade with 6 to 8 pairs of secondary nerves → *L. robustior* ^k20
+**34.** Stamens inserted at 0.44–0.71 of the length of the tube of the corolla, with anther
 
-**20′.** External bark not exfoliated; tube of corolla puberulent on exterior; leaf blade with 8 to 15 pairs of secondary nerves → [[Landolphia_persooniana\|*L. persooniana*]]
+**2.** 3–3 mm long; tube of the corolla glabrous or partially hairy on the exterior → [[Landolphia_bruneelii\|*L. bruneelii*]]
 
-**21.** Inflexed part of tube of corolla densely pubescent on exterior → [[#^k22|22]] ^k21
+**2′.** Stamens inserted at 0.76–0.9 of the length of the tube of the corolla, with anther
 
-**21′.** Inflexed part of tube of corolla glabrous or sparsely pubescent on exterior → [[#^k24|24]]
+**1.** 5–2.5 mm long; tube of the corolla generally glabrous on the exterior 35 Leaf blade up to 20 × 10 cm, with venation generally not prominent below, generally gradually acuminate at the apex L. ligustrifolia Leaf blade up to 28 × 15 cm, with venation generally prominent below, generally abruptly acuminate at the apex L. violacea 36(no. 2). - Tube of the corolla 11–21 mm long; lower part of the style with cylindrical pilosity (see plate 56.7) → [[Landolphia_lecomtei\|*L. lecomtei*]]
 
-**22.** Branchlets densely pubescent over the whole surface; inflorescence with 3–6 flowers → [[Landolphia_foretiana\|*L. foretiana*]] ^k22
+**1′.** Tube of the corolla 3–10 mm long; style glabrous or hairy, but never with basal cylindrical pilosity → couplet **37**
 
-**22′.** Branchlets glabrous or partially pubescent; inflorescence with 2–3 flowers → [[#^k23|23]]
+**37.** Throat of the corolla hairy → couplet **38**
 
-**23.** Lobes of corolla 2 times as long as tube, 5–8 mm long → *L. breviloba* ^k23
+**37′.** Throat of the corolla glabrous 40 Lobes of the corolla 1–1.5 times as long as the tube, tube 3–5 mm long; style 1 mm; inflorescence elongated in the form of a tendril; leaf blade generally with short and dense brownish pilosity below L. reticulata Lobes of the corolla 1.5–2 times as long as the tube, tube 5–7 mm long; style 2 mm; inflorescence condensed but sometimes in tendril form; leaf blade rarely with dense brownish pilosity below 39 Lobes of the calyx 2–3 times as long as wide, apically recurved L. angustisepala Lobes of the calyx 1–1.5 times as long as wide, erect → [[Landolphia_owariensis\|*L. owariensis*]]
 
-**23′.** Lobes of corolla 3–4 times as long as tube, 12–15 mm long → *L. uniflora*.
+**40.** Tube of the corolla glabrous on the inside → [[Landolphia_verrucosa\|*L. verrucosa*]]
 
-**24.** Ramilles with bark detaching in small scales → [[Landolphia_congolensis\|*L. congolensis*]] ^k24
+**40′.** Tube of the corolla at least partially hairy on the inside → couplet **41**
 
-**24′.** Ramilles with bark not detaching → [[#^k25|25]]
+**41.** Leaf blade densely hairy below, on and between the veins L. dibatai Leaf blade glabrous below or with hairs only on the principal veins and the margin → 42 <<<---SECTION-BREAK--->>> Leaf blade up to 22 cm long; anther 3–3.5 mm long; fruit
 
-**25.** Ovary generally glabrous but base of style (and sometimes also summit of ovary) hairy, style gradually widening in ovary → [[#^k26|26]] ^k25
-
-**25′.** Ovary generally hairy, style often abruptly widening in ovary . 27.
-
-**26.** Petiole 6–20 mm; leaf blade with 5 to 12 pairs of curved secondary nerves → [[Landolphia_stenogyna\|*L. stenogyna*]] ^k26
-
-**26′.** Petiole 5–7 mm; leaf blade with 14 to 16 pairs of almost straight secondary nerves → [[Landolphia_coriacea\|*L. coriacea*]]
-
-**27.** Leaf blade obovate, base generally cordate or auriculate → [[#^k28|28]] ^k27
-
-**27′.** Leaf blade obovate or otherwise, base never cordate or auriculate → [[#^k29|29]]
-
-**28.** Leaf blade almost black on upper surface; lobes of corolla 1–1.5 times as long as tube; tube up to 4 mm in length; hairy near the lobes on the exterior → [[Landolphia_obovata\|*L. obovata*]] ^k28
-
-**28′.** Leaf blade generally much paler on the dried state; lobes of corolla.
-
-**1.** 5–2 times as long as tube; tube up to 3 mm in length; glabrous or almost so on the exterior → *L. parviflora* ^k1
-
-**29.** Leaf blade 21.5–40 × 9.8–22.5 cm, tertiary venation scalariform; tube of corolla glabrous on exterior → [[Landolphia_maxima\|*L. maxima*]] ^k29
-
-**29′.** Leaf blade up to 20 × 8 cm; tertiary venation generally reticulate; tube of corolla glabrous to hairy on exterior → [[#^k30|30]]
-
-**30.** Leaf blade distinctly obovate, with 4 to 7 pairs of lateral nerves, without parallel interstitial nerves between them → [[Landolphia_glandulosa\|*L. glandulosa*]] ^k30
-
-**30′.** Leaf blade obovate or otherwise, with more than 8 pairs of secondary nerves, often with well-visible parallel interstitial nerves between them → [[#^k31|31]]
-
-**31.** Tube of corolla 6–13 mm long, glabrous on exterior or if tube 12–13 mm long, then leaf blade 0.8–4.7 cm wide → [[#^k32|32]] ^k31
-
-**31′.** Tube of corolla 12–34 mm long, glabrous or hairy on exterior or if tube 12–14 mm long then leaf blade up to 8 cm wide → [[#^k33|33]]
-
-**32.** Leaf blade generally rust-brown below on dried state, secondary nerves flat above; tube of corolla 6–9 mm long; ovary abruptly narrowed into style; stamens included ^k32
-
-**0.** 7–1.2 mm → *L. ferrea* ^k0
-
-**0′.** Leaf blade dark brownish-green below on dried state, secondary nerves prominent above; tube of corolla 6–11 mm long; ovary gradually narrowed into style; stamens at throat level or included 0.7 mm → [[Landolphia_glabra\|*L. glabra*]]
-
-**33.** Lobes of corolla 2–3.5 times as long as tube, 8–17 mm long; tube (at least the widest part) distinctly hairy on exterior → *L. breviloba* ^k33
-
-**33′.** Lobes of corolla 3–5 times as long as tube; tube glabrous on exterior or if partly hairy, then lobes of corolla 18.5–36 mm long → [[#^k34|34]]
-
-**34.** Stamens inserted at 0.44–0.71 of the length of tube of corolla, with anther ^k34
-
-**2.** 3–3 mm long; tube of corolla glabrous or partially hairy on exterior → [[Landolphia_bruneelii\|*L. bruneelii*]] ^k2
-
-**2′.** Stamens inserted at 0.76–0.9 of the length of tube of corolla, with anther.
-
-**1.** 5–2.5 mm long; tube of corolla generally glabrous on exterior → [[#^k35|35]]
-
-**35.** Leaf blade up to 18 × 8 cm; venation generally not prominent below, generally gradually acuminate at apex → [[Landolphia_ligustrifolia\|*L. ligustrifolia*]] ^k35
-
-**35′.** Leaf blade up to 20 × 11 cm; venation generally prominent below, generally abruptly acuminate at apex L. violacea 36(NO). - Tube of corolla 11–21 mm long; lower part of style with cylindrifform hairiness (see plate 56.7) → [[Landolphia_lecomtei\|*L. lecomtei*]]
-
-**35′.** Tube of corolla 3–10 mm long; style glabrous or hairy, but never with cylindrifform basal hairiness → [[#^k37|37]]
-
-**37.** Throat of corolla hairy → [[#^k38|38]] ^k37
-
-**37′.** Throat of corolla glabrous → [[#^k40|40]]
-
-**38.** Lobes of corolla 1–1.5 times as long as tube, tube 4–6 mm long; style 2 mm; inflorescence elongate in the form of a tendril; leaf blade generally with short and dense brownish hairiness below → [[Landolphia_reticulata\|*L. reticulata*]] ^k38
-
-**38′.** Lobes of corolla 1.5–2.5 times as long as tube, tube 5–7 mm long; style 3 mm; inflorescence condensed but sometimes in tendril form; leaf blade rarely with dense brownish hairiness below → [[#^k39|39]]
-
-**39.** Lobes of calyx 1–1.5 times as long as wide, apically recurved → [[Landolphia_angustisepala\|*L. angustisepala*]] ^k39
-
-**39′.** Lobes of calyx 2–2.5 times as long as wide, erect → [[Landolphia_owariensis\|*L. owariensis*]]
-
-**40.** Tube of corolla glabrous inside → [[Landolphia_verrucosa\|*L. verrucosa*]] ^k40
-
-**40′.** Tube of corolla at least partially hairy inside → [[#^k41|41]]
-
-**41.** Leaf blade densely hairy below, on and between the nerves → [[Landolphia_dibatai\|*L. dibatai*]] ^k41
-
-**41′.** Leaf blade glabrous below or with hairs only on the main nerves and the margin → [[#^k42|42]]
-
-**42.** Leaf blade up to 30 cm in length; anther 1.3–1.8 mm long; fruit ^k42
-
-**8.** 5–26 cm long → [[Landolphia_mannii\|*L. mannii*]]
-
-**8′.** Leaf blade up to 15 cm in length; anther 0.8–1 mm long; fruit.
+**8.** 5–26 cm long → L. mannii Leaf blade up to 13 cm long; anther 2–2.5 mm long; fruit
 
 **2.** 6–7 cm long → [[Landolphia_dewevrei\|*L. dewevrei*]]
-
 
 ## Species in region
 

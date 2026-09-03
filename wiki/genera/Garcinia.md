@@ -31,67 +31,65 @@ Bi: Bamps (1970a), Bamps et al. (1978), Robson (1961), Sosef & Dauby (2012), Ste
 
 ## Key to the species
 
+**1.** Inflorescence very large, often more than 50 cm in length, bearing a few long simple branches, carrying glomerules spaced with small white sessile flowers; blade shining, (14 ‒ )25 ‒ 57 cm in length → [[Garcinia_lucida\|*G. lucida*]]
 
-**1.** Inflorescence very large, often more than 50 cm in length, bearing a few long simple branches, carrying glomerules of small sessile white flowers spaced apart; blade shining, (14 ‒ )25 ‒ 57 cm in length → [[Garcinia_lucida\|*G. lucida*]] ^k1
+**1′.** Inflorescence much smaller; flowers at least briefly pedicellate; blade shining or not, generally smaller, up to 28( ‒ 35) cm in length → couplet **2**
 
-**1′.** Inflorescence much smaller; flowers at least briefly pedicellate; blade shining or not, generally smaller, up to 28( ‒ 35) cm in length → [[#^k2|2]]
+**2.** Branchlets angular, slightly or sometimes strongly winged; petioles ridged transversely; latex white; flowers 5-merous, in racemes with tetragonal rachis and imbricate bracts; fruit smooth or verrucose → couplet **3**
 
-**2.** Branchlets angular, slightly or sometimes strongly winged; petioles wrinkled transversely; latex white; flowers 5-merous, in racemes with tetragonous rachis and imbricate bracts; fruit smooth or verrucose → [[#^k3|3]] ^k2
+**2′.** Branchlets rounded or angular; petioles ridged transversely or smooth; latex yellow or transparent; flowers 4-merous, in fascicles, cymes or solitary; fruit smooth → couplet **6**
 
-**2′.** Branchlets rounded or angular; petioles wrinkled transversely or smooth; latex yellow or transparent; flowers 4-merous, in fascicles, cymes or solitary; fruit smooth → [[#^k6|6]]
+**3.** Branchlets slightly winged; pedicel up to 1.5 cm (up to 2 cm in fruit) in length; blade 5 ‒ 21 × 2 ‒ 9.5 cm → couplet **4**
 
-**3.** Branchlets slightly winged; pedicel up to 1.5 cm (up to 2 cm in fruit) in length; blade 5 ‒ 21 × 2 ‒ 9.5 cm → [[#^k4|4]] ^k3
+**3′.** Branchlets strongly winged, wings 3 ‒ 5 mm in width; pedicel 3 ‒ 5.5 cm in length; blade (14 ‒ )18 ‒ 41 × (4.5 ‒ )6 ‒ 15.5 cm → *G. le-testui*
 
-**3′.** Branchlets strongly winged, wings 3 ‒ 5 mm in width; pedicel 3 ‒ 5.5 cm in length; blade (14 ‒ )18 ‒ 41 × (4.5 ‒ )6 ‒ 15.5 cm → *G. le-testui*.
-
-**4.** Ovary and fruit verrucose; inflorescence generally terminal, with solitary raceme 1.5 ‒ 3 cm in length → [[#^k5|5]] ^k4
+**4.** Ovary and fruit verrucose; inflorescence generally terminal, with solitary raceme 1.5 ‒ 3 cm in length → couplet **5**
 
 **4′.** Ovary and fruit smooth; inflorescence terminal and axillary, racemes 2 ‒ 10 mm in length, often several grouped → [[Garcinia_densivenia\|*G. densivenia*]]
 
-**5.** Inflorescence and fruit puberulent → G. quadrifaria var. chromocarpa ^k5
+**5.** Inflorescence and fruit puberulent → G. quadrifaria var. chromocarpa
 
-**5′.** Inflorescence and fruit glabrous → G. quadrifaria var. quadrifaria.
+**5′.** Inflorescence and fruit glabrous → G. quadrifaria var. quadrifaria
 
-**6.** Filaments fused at least at the base; blade without an inframarginal nerve or one situated at 0.5 ‒ 1 mm from the margin → [[#^k7|7]] ^k6
+**6.** Filaments fused at least at the base; blade without an inframarginal nerve or one situated 0.5 ‒ 1 mm from the margin → couplet **7**
 
 **6′.** Filaments entirely free; blade with a distinct inframarginal nerve at (1 ‒ )2 ‒ 3 mm from the margin → [[Garcinia_gabonensis\|*G. gabonensis*]]
 
-**7.** Androecial bundle with filaments free at least at the apex, with spherical or ovoid anthers; blade coriaceous → [[#^k8|8]] ^k7
+**7.** Phalanx with filaments free at least at the apex, with spherical or ovoid anthers; blade coriaceous → couplet **8**
 
-**7′.** Androecial bundle with filaments entirely fused, with ellipsoid to oblong and curved anthers; blade papyraceous or subcoriaceous → [[#^k12|12]]
+**7′.** Phalanx with filaments entirely fused, with ellipsoid to oblong and curved anthers; blade papyraceous or subcoriaceous → couplet **12**
 
-**8.** Blade green to brown when dry, with distinct to very conspicuous reticulation; sepals smooth or rugose; anthers 3 ‒ 20 per androecial bundle → [[#^k9|9]] ^k8
+**8.** Blade green to brown when dry, with distinct to very prominent reticulation; sepals smooth or rugose; anthers 3 ‒ 20 per phalanx → couplet **9**
 
-**8′.** Blade dark reddish brown when dry, with inconspicuous reticulation; sepals finely papillose; anthers very numerous → [[Garcinia_conrauana\|*G. conrauana*]]
+**8′.** Blade dark reddish-brown when dry, with indistinct reticulation; sepals finely papillose; anthers very numerous → [[Garcinia_conrauana\|*G. conrauana*]]
 
-**9.** Pedicels and sepals glabrous; sepals smooth or slightly rugose; inflorescence axillary → [[#^k10|10]] ^k9
+**9.** Pedicels and sepals glabrous; sepals smooth or slightly rugose; inflorescence axillary → couplet **10**
 
 **9′.** Pedicels and sepals puberulent; sepals distinctly rugose; inflorescence terminal → [[Garcinia_kola\|*G. kola*]]
 
-**10.** Stamens 3 ‒ 10 per androecial bundle; blade with 15 ‒ 20( ‒ 25) pairs of lateral nerves; petiole distinctly wrinkled transversely; fruit symmetric → [[#^k11|11]] ^k10
+**10.** Stamens 3 ‒ 10 per phalanx; blade with 15 ‒ 20( ‒ 25) pairs of lateral nerves; petiole distinctly ridged transversely; fruit symmetric → couplet **11**
 
-**10′.** Stamens 11 ‒ 19 per androecial bundle; blade with 6 ‒ 9 pairs of lateral nerves; petiole smooth or weakly wrinkled transversely; fruit oblique → [[Garcinia_obliqua\|*G. obliqua*]]
+**10′.** Stamens 11 ‒ 19 per phalanx; blade with 6 ‒ 9 pairs of lateral nerves; petiole smooth or weakly ridged transversely; fruit oblique → [[Garcinia_obliqua\|*G. obliqua*]]
 
-**11.** Pedicel 1.5 ‒ 6(-10) mm in length; androecial bundles of male flowers with 3( ‒ 4) stamens; petiole 1 ‒ 2 mm in thickness; blade 3 ‒ 15 × 0.5 ‒ 6 cm, often long acuminate or acuminate-caudate, with the true apex rounded.. G. ovalifolia ^k11
+**11.** Pedicel 1.5 ‒ 6(-10) mm in length; staminodial phalanges of male flowers with 3( ‒ 4) stamens; petiole 1 ‒ 2 mm in thickness; blade 3 ‒ 15 × 0.5 ‒ 6 cm, often long-acuminate or acuminate-caudate, with the true apex rounded.. G. ovalifolia
 
-**11′.** Pedicel (10 ‒ )15 ‒ 45 mm in length; androecial bundles of male flowers with (5 ‒ )6 ‒ 10 stamens; petiole 2 ‒ 4 mm in thickness; blade 8 ‒ 28( ‒ 35) × 3.5 ‒ 12( ‒ 17) cm, tapering to acuminate toward the apex, the true apex generally acute → [[Garcinia_smeathmannii\|*G. smeathmannii*]]
+**11′.** Pedicel (10 ‒ )15 ‒ 45 mm in length; staminodial phalanges of male flowers with (5 ‒ )6 ‒ 10 stamens; petiole 2 ‒ 4 mm in thickness; blade 8 ‒ 28( ‒ 35) × 3.5 ‒ 12( ‒ 17) cm, tapered to acuminate toward the apex, the true apex generally acute → [[Garcinia_smeathmannii\|*G. smeathmannii*]]
 
-**12.** Blade with lateral nerves forming an angle of (45 ‒ )60 ‒ 80° with the main nerve → [[#^k13|13]] ^k12
+**12.** Blade with lateral nerves forming an angle of (45 ‒ )60 ‒ 80° with the midvein → couplet **13**
 
-**12′.** Blade with lateral nerves forming an angle of 30 ‒ 45° with the main nerve → [[Garcinia_buchananii\|*G. buchananii*]]
+**12′.** Blade with lateral nerves forming an angle of 30 ‒ 45° with the midvein → [[Garcinia_buchananii\|*G. buchananii*]]
 
-**13.** Leaves opaque or with continuous translucid secretory canals → [[#^k14|14]] ^k13
+**13.** Leaves opaque or with continuous translucid secretory canals → couplet **14**
 
-**13′.** Leaves with discontinuous translucid secretory canals, formed of points and short lines → [[Garcinia_punctata\|*G. punctata*]]
+**13′.** Leaves with discontinuous translucid secretory canals, formed of dots and short lines → [[Garcinia_punctata\|*G. punctata*]]
 
-**14.** Anthers not locellate; androecial bundles longer than the ovary; petals white to yellow; blade with main lateral nerves spaced 3 ‒ 10 mm apart, the intermediate ones ending well before the marginal nerve, when dry secretory canals parallel to the lateral nerves not visible → [[#^k15|15]] ^k14
+**14.** Anthers non-loculed; phalanges longer than the ovary; petals white to yellow; blade with main lateral nerves spaced 3 ‒ 10 mm apart, the intermediate ones stopping well before the marginal nerve, when dry with secretory canals parallel to lateral nerves not visible → couplet **15**
 
-**14′.** Anthers locellate; androecial bundles as long as the ovary; petals red to orange-yellow or sometimes yellow; blade with lateral nerves spaced 1 ‒ 2( ‒ 3) mm apart, even the intermediate ones continuing to the marginal nerve, when dry with secretory canals parallel to the lateral nerves well visible and prominent → [[Garcinia_mannii\|*G. mannii*]]
+**14′.** Anthers loculed; phalanges as long as the ovary; petals red to orange-yellow or sometimes yellow; blade with lateral nerves spaced 1 ‒ 2( ‒ 3) mm apart, even the intermediate ones continuing to the marginal nerve, when dry with secretory canals parallel to lateral nerves clearly visible and prominent → [[Garcinia_mannii\|*G. mannii*]]
 
-**15.** Flowers and fruits with pedicel 1 ‒ 4 mm in length → [[Garcinia_epunctata\|*G. epunctata*]] ^k15
+**15.** Flowers and fruits with pedicel 1 ‒ 4 mm in length → [[Garcinia_epunctata\|*G. epunctata*]]
 
 **15′.** Flowers and fruits with pedicel 7 ‒ 18 mm in length → [[Garcinia_preussii\|*G. preussii*]]
-
 
 ## Species in region
 

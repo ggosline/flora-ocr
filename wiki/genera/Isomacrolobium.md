@@ -27,9 +27,7 @@ About a dozen species from West and equatorial Africa: I. elongatum in Sierra Le
 
 ## Key to the species
 
-
-**1′.** Panicles lax, up to 20 cm long; stipules small and caducous → [[Isomacrolobium_isopetalum\|*I. isopetalum*]]
-
+**1′.** Panicles lax, up to 20 cm in length; stipules small and caducous → [[Isomacrolobium_isopetalum\|*I. isopetalum*]]
 
 ## Species in region
 

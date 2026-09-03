@@ -25,119 +25,125 @@ Bibliography: Amaral & Bittrich (2014), Bamps & Farron (1967), Bissiengou (2014)
 
 ## Key to the species
 
+**1.** Monocaulous tree; leaves clustered at the apex of the trunk (litter-collecting); limb 17–70(–90) cm in length, narrowly spatulate to narrowly elliptic-obovate or rarely narrowly elliptic; tertiary veins perpendicular to secondary veins; inflorescence axillary or terminal on a short axillary branchlet (3–4 cm in length) → couplet **2**
 
-**1.** Monocaul tree; leaves in clusters at the trunk apex (litter-collecting); lamina 17–70(–90) cm in length, narrowly spatulate to narrowly elliptic-obovate or rarely narrowly elliptic; tertiary veins perpendicular to secondary veins; inflorescence axillary or terminal on a short axillary branchlet (3–4 cm in length) → [[#^k2|2]] ^k1
+**1′.** Shrub or tree with branched trunk; leaves well-spaced along the branchlets; limb (3–)4–35(–53) cm in length, (very) narrowly elliptic or (very) narrowly obovate to elliptic or obovate; tertiary veins generally perpendicular to the primary vein; inflorescence terminal → couplet **4**
 
-**1′.** Shrub or tree with branched trunk; leaves well-spaced along the branchlets; lamina (3–)4–35(–53) cm in length, (very) narrowly elliptic or (very) narrowly obovate to elliptic or obovate; tertiary veins generally perpendicular to the principal vein; inflorescence terminal → [[#^k4|4]]
+**2.** Inflorescence very dense, strongly branched and corymbiform, up to 7 cm in length → [[Campylospermum_duparquetianum\|*C. duparquetianum*]]
 
-**2.** Inflorescence very dense, strongly branched and corymbiform, up to 7 cm in length → [[Campylospermum_duparquetianum\|*C. duparquetianum*]] ^k2
+**2′.** Inflorescence dense or lax, unbranched, 15 cm or more in length → couplet **3**
 
-**2′.** Inflorescence dense or lax, unbranched, 15 cm or more in length → [[#^k3|3]]
-
-**3.** Inflorescence (peduncle included) 23–60(–83) cm in length; peduncle distinctly flattened, strap-like, without reduced leaves or leafy bracts at the base → [[Campylospermum_elongatum\|*C. elongatum*]] ^k3
+**3.** Inflorescence (peduncle included) 23–60(–83) cm in length; peduncle distinctly flattened, strap-like, without reduced leaves or leafy bracts at the base → [[Campylospermum_elongatum\|*C. elongatum*]]
 
 **3′.** Inflorescence (peduncle included) 15–20 cm in length; peduncle angular to slightly flattened, with 2 reduced leaves or leafy bracts subopposite at the base → [[Campylospermum_klainei\|*C. klainei*]]
 
-**4.** Lamina with base auriculate to deeply cordate → [[Campylospermum_auriculatum\|*C. auriculatum*]] ^k4
+**4.** Limb with auriculate to deeply cordate base → [[Campylospermum_auriculatum\|*C. auriculatum*]]
 
-**4′.** Lamina with base attenuate to cuneate or slightly cordate → [[#^k5|5]]
+**4′.** Limb with attenuate to cuneate or slightly cordate base → couplet **5**
 
-**5.** Lamina with margin spinescent-serrate at least on the upper half → [[Campylospermum_flavum\|*C. flavum*]] ^k5
+**5.** Limb with spinescent-serrate margin at least on the upper half → [[Campylospermum_flavum\|*C. flavum*]]
 
-**5′.** Lamina with margin entire to serrulate or serrate → [[#^k6|6]]
+**5′.** Limb with entire to serrulate or serrate margin → couplet **6**
 
-**6.** Lamina narrowly to very narrowly elliptic, 9.5–28 × 1.3–2.4 cm, length/width ratio 4.5–15; principal vein immersed in a groove on the upper face → [[Campylospermum_louisii\|*C. louisii*]] ^k6
+**6.** Limb narrowly to very narrowly elliptic, 9.5–28 × 1.3–2.4 cm, length/width ratio 4.5–15; primary vein immersed in a groove on the upper surface → [[Campylospermum_louisii\|*C. louisii*]]
 
-**6′.** Lamina narrowly elliptic or broader, length/width ratio < 4.5 or rarely up to 8, but then principal vein not immersed in a groove on the upper face → [[#^k7|7]]
+**6′.** Limb narrowly elliptic or wider, length/width ratio < 4.5 or rarely up to 8, but then primary vein not immersed in a groove on the upper surface → couplet **7**
 
-**7.** Lamina up to 10(–14) × 2(–3) cm, 0 to 7 pairs of lateral veins → [[#^k8|8]] ^k7
+**7.** Limb up to 10(–14) × 2(–3) cm, 0 to 7 pairs of lateral veins → couplet **8**
 
-**7′.** Lamina generally longer and broader, with (7–)9 or more pairs of lateral veins → [[#^k9|9]]
+**7′.** Limb generally longer and wider, with (7–)9 or more pairs of lateral veins → couplet **9**
 
-**8.** Lamina with 4 to 7 pairs of lateral veins and acute apex; racemes 3–6(–9) cm in length → [[Campylospermum_glomeratum\|*C. glomeratum*]] ^k8
+**8.** Limb with 4 to 7 pairs of lateral veins and acute apex; racemes 3–6(–9) cm in length → [[Campylospermum_glomeratum\|*C. glomeratum*]]
 
-**8′.** Lamina with 0 to 2(–5) pairs of lateral veins, apex apiculate; racemes 1–3 cm in length → [[Campylospermum_paucinervatum\|*C. paucinervatum*]]
+**8′.** Limb with 0 to 2(–5) pairs of lateral veins, apex apiculate; racemes 1–3 cm in length → [[Campylospermum_paucinervatum\|*C. paucinervatum*]]
 
-**9.** Lamina obovate, (24–)28–45(–53) × (8–)11–14(–17) cm; sepals 6–7 mm wide in flower, strongly enlarged in fruit and (20–)25–30(–35) × (10–)13–20(–25) mm (southern Cameroon and northern Gabon) → [[Campylospermum_umbricola\|*C. umbricola*]] ^k9
+**9.** Limb obovate, (24–)28–45(–53) × (8–)11–14(–17) cm; sepals 6–7 mm wide in flower, strongly enlarged in fruit and (20–)25–30(–35) × (10–)13–20(–25) mm (southern Cameroon and northern Gabon) → [[Campylospermum_umbricola\|*C. umbricola*]]
 
-**9′.** Lamina generally smaller, up to 30(–45) × 9(–12) cm; sepals up to 5 mm wide in flower and up to 13 × 8 mm in fruit → [[#^k10|10]]
+**9′.** Limb generally smaller, up to 30(–45) × 9(–12) cm; sepals up to 5 mm wide in flower and up to 13 × 8 mm in fruit → couplet **10**
 
-**10.** Lamina distinctly bullate → [[#^k11|11]] ^k10
+**10.** Limb distinctly bullate → couplet **11**
 
-**10′.** Lamina plane or sometimes slightly bullate → [[#^k15|15]]
+**10′.** Limb plane or sometimes slightly bullate → couplet **15**
 
-**11.** Stipules 14–17 mm in length; lamina with tertiary venation indistinct on both faces; inflorescence simple, 2–4 cm in length, very dense, cymules distant by 1–2 mm → [[Campylospermum_longestipulatum\|*C. longestipulatum*]] ^k11
+**11.** Stipules 14–17 mm in length; limb with tertiary venation indistinct on both surfaces; inflorescence simple, 2–4 cm in length, very dense, cymules distant by 1–2 mm → [[Campylospermum_longestipulatum\|*C. longestipulatum*]]
 
-**11′.** Stipules 2–13(–25) mm in length; lamina with tertiary venation distinct, at least on the lower face; inflorescence simple or branched, dense to lax, ≥ (1–)3 cm in length, with cymules distant by at least 3 mm → [[#^k12|12]]
+**11′.** Stipules 2–13(–25) mm in length; limb with tertiary venation distinct, at least on the lower surface; inflorescence simple or branched, dense to lax, ≥ (1–)3 cm in length, with cymules distant by at least 3 mm → couplet **12**
 
-**12.** Inflorescence simple, dense to fairly dense, cymules at the base of the inflorescence separated by ≤ 10 mm → [[#^k13|13]] ^k12
+**12.** Inflorescence simple, dense to rather dense, cymules at the base of the inflorescence separated by ≤ 10 mm → couplet **13**
 
-**12′.** Inflorescence branched or simple, lax, cymules at the base of the inflorescence distant by 10–20 mm → [[#^k14|14]]
+**12′.** Inflorescence branched or simple, lax, cymules at the base of the inflorescence distant by 10–20 mm → couplet **14**
 
-**13.** Lamina with principal vein distinctly prominent above, 10–16 pairs of lateral veins, tertiary veins scalariform perpendicular to the principal vein → [[Campylospermum_sulcatum\|*C. sulcatum*]] ^k13
+**13.** Limb with primary vein distinctly prominent above, with 10–16 pairs of lateral veins, tertiary veins scalariform perpendicular to the primary vein → [[Campylospermum_sulcatum\|*C. sulcatum*]]
 
-**13′.** Lamina with principal vein plane above, 14 to 27 pairs of lateral veins, tertiary veins scalariform perpendicular to the secondary veins → C. gabonense subsp. australe.
+**13′.** Limb with primary vein plane above, 14 to 27 pairs of lateral veins, tertiary veins scalariform perpendicular to the secondary veins → C. gabonense subsp. australe
 
-**14.** Lamina with tertiary veins very distinct and prominent on both faces (on dry material); inflorescence simple or sometimes branched, without gemmate scales at the base, principal axis (2–)4–10(–14) cm in length; racemes absent to 2(or 4), 2–4(–8) cm in length; cotyledons incumbent, unequal with small external cotyledon → [[Campylospermum_excavatum\|*C. excavatum*]] ^k14
+**14.** Limb with tertiary veins very distinct and prominent on both surfaces (on dry material); inflorescence simple or sometimes branched, without gemmate scales at the base, main axis (2–)4–10(–14) cm in length; racemes absent to 2(or 4),
 
-**14′.** Lamina with tertiary veins indistinct or distinct, but never prominent (on dry material); inflorescence branched, with persistent gemmate scales at the base, principal axis (8–)15–35(–38) cm in length; racemes 2 to 7, slender, (5–)8–19(–23) cm in length; cotyledons accumbent, ± equal → [[Campylospermum_calanthum\|*C. calanthum*]]
+**2.** 4(–8) cm in length; cotyledons incumbent, unequal with small external cotyledon → [[Campylospermum_excavatum\|*C. excavatum*]]
 
-**15.** Lamina bluish-green to greyish above on dry material; inflorescence pendulous → [[Campylospermum_glaucifolium\|*C. glaucifolium*]] ^k15
+**2′.** Limb with tertiary veins indistinct or distinct, but never prominent (on dry material); inflorescence branched, with persistent gemmate scales at the base, main axis (8–)15–35(–38) cm in length; racemes 2 to 7, slender, (5–)8–19(–23) cm in length; cotyledons accumbent, ± equal → [[Campylospermum_calanthum\|*C. calanthum*]]
 
-**15′.** Lamina greenish to brownish above on dry material or rarely bluish-green to greyish; inflorescence erect or erect-spreading → [[#^k16|16]]
+**15.** Limb bluish-green to greyish above when dry; inflorescence pendent → [[Campylospermum_glaucifolium\|*C. glaucifolium*]]
 
-**16.** Inflorescence dense, simple or sometimes with 1 or 2(or 3) racemes reaching 4 cm in length → [[#^k17|17]] ^k16
+**15′.** Limb greenish to brownish above when dry or rarely bluish-green to greyish; inflorescence erect or erect-spreading → couplet **16**
 
-**16′.** Inflorescence lax, branched, racemes generally more than 4 cm in length .. 20.
+**16.** Inflorescence dense, simple or sometimes with 1 or 2(or 3) racemes reaching 4 cm in length → couplet **17**
 
-**17.** Lamina bluish-green to greyish above on dry material; stipules 3–4 mm in length → [[Campylospermum_glaucum\|*C. glaucum*]] ^k17
+**16′.** Inflorescence lax, branched, racemes generally more than 4 cm in length .. 20
 
-**17′.** Lamina greenish to brownish above on dry material; stipules 4–17 mm in length → [[#^k18|18]]
+**17.** Limb bluish-green to greyish above when dry; stipules 3–4 mm in length → [[Campylospermum_glaucum\|*C. glaucum*]]
 
-**18.** Lamina (6–)9–17(–21) × (2–)3–6(–7) cm, 10 to 16 pairs of lateral veins; pedicel articulate at 2–3 mm from the base → [[Campylospermum_sulcatum\|*C. sulcatum*]] ^k18
+**17′.** Limb greenish to brownish above when dry; stipules 4–17 mm in length → couplet **18**
 
-**18′.** Lamina 16–30(–35) × 6–10(–11) cm, 14 to 27 pairs of lateral veins; pedicel articulate at 3–9 mm from the base → [[#^k19|19]]
+**18.** Limb (6–)9–17(–21) × (2–)3–6(–7) cm, 10 to 16 pairs of lateral veins; pedicel articulate 2–3 mm from the base → [[Campylospermum_sulcatum\|*C. sulcatum*]]
 
-**19.** Lamina bullate or rarely plane; tertiary veins scalariform perpendicular to the lateral veins → C. gabonense subsp. australe ^k19
+**18′.** Limb 16–30(–35) × 6–10(–11) cm, 14 to 27 pairs of lateral veins; pedicel articulate 3–9 mm from the base → couplet **19**
 
-**19′.** Lamina plane or rarely bullate; tertiary veins scalariform perpendicular to the principal veins → C. gabonense subsp. gabonense.
+**19.** Limb bullate or rarely plane; tertiary veins scalariform perpendicular to the lateral veins → C. gabonense subsp. australe
 
-**20.** Lamina with lateral veins indistinct or slightly prominent above, tertiary venation indistinct above → [[#^k21|21]] ^k20
+**19′.** Limb plane or rarely bullate; tertiary veins scalariform perpendicular to the primary veins → C. gabonense subsp. gabonense
 
-**20′.** Lamina with lateral veins prominent above, tertiary venation distinct above → [[#^k22|22]]
+**20.** Limb with lateral veins indistinct or slightly prominent above, tertiary venation indistinct above → couplet **21**
 
-**21.** Lamina with lateral veins distinct but not prominent below; inflorescence with ascending racemes; cotyledons incumbent, unequal with small external cotyledon → [[Campylospermum_densiflorum\|*C. densiflorum*]] ^k21
+**20′.** Limb with lateral veins prominent above, tertiary venation distinct above → couplet **22**
 
-**21′.** Lamina with lateral veins prominent below; inflorescence with spreading racemes; cotyledons accumbent, equal → [[Campylospermum_dybovskii\|*C. dybovskii*]]
+**21.** Limb with lateral veins distinct but not prominent below; inflorescence with ascending racemes; cotyledons incumbent, unequal with small external cotyledon → [[Campylospermum_densiflorum\|*C. densiflorum*]]
 
-**22.** Petiole (5–)10–20(–25) mm; lamina decurrent on the petiole or with margin thickened and revolute → [[#^k23|23]] ^k22
+**21′.** Limb with lateral veins prominent below; inflorescence with spreading racemes; cotyledons accumbent, equal → [[Campylospermum_dybovskii\|*C. dybovskii*]]
 
-**22′.** Petiole (0–)2–7(–10) mm; lamina not decurrent on the petiole, margin not thickened nor revolute → [[#^k24|24]]
+**22.** Petiole (5–)10–20(–25) mm; limb decurrent on the petiole or with thickened and revolute margin → couplet **23**
 
-**23.** Lamina not decurrent on the petiole, margin thickened and revolute; racemes erect-spreading to spreading, (2–)5–9(–14) cm in length → [[Campylospermum_laeve\|*C. laeve*]] ^k23
+**22′.** Petiole (0–)2–7(–10) mm; limb not decurrent on the petiole, margin not thickened nor revolute → couplet **24**
 
-**23′.** Lamina decurrent on the petiole, margin not thickened nor revolute; racemes spreading, (3–)8–23(–40) cm in length → [[Campylospermum_engama\|*C. engama*]]
+**23.** Limb not decurrent on the petiole, margin thickened and revolute; racemes erect-spreading to spreading, (2–)5–9(–14) cm in length → [[Campylospermum_laeve\|*C. laeve*]]
 
-**24.** Racemes branched, giving a corymbiform aspect to the inflorescence 4–8(–12) cm in length → [[Campylospermum_occidentale\|*C. occidentale*]] ^k24
+**23′.** Limb decurrent on the petiole, margin not thickened nor revolute; racemes spreading, (3–)8–23(–40) cm in length → [[Campylospermum_engama\|*C. engama*]]
 
-**24′.** Racemes simple; inflorescence ± paniculate, (3–)5 cm or more in length → [[#^k25|25]]
+**24.** Racemes branched, giving a corymbiform aspect to the inflorescence 4–8(–12) cm in length → [[Campylospermum_occidentale\|*C. occidentale*]]
 
-**25.** Peduncle flattened → [[#^k26|26]] ^k25
+**24′.** Racemes simple; inflorescence ± paniculate, (3–)5 cm or more in length → couplet **25**
 
-**25′.** Peduncle cylindric → [[#^k27|27]]
+**25.** Peduncle flattened → couplet **26**
 
-**26.** Inflorescence borne by a flattened and very robust branchlet; pedicel 3–7 mm, stout, articulate at 1–2 mm from the base → [[Campylospermum_costatum\|*C. costatum*]] ^k26
+**25′.** Peduncle cylindrical → couplet **27**
 
-**26′.** Inflorescence borne by a slender branchlet; pedicel 6–13 mm, slender, articulate at 3–7 mm from the base → [[Campylospermum_vogelii\|*C. vogelii*]]
+**26.** Inflorescence borne by a flattened and very robust branchlet; pedicel 3–7 mm, stout, articulate 1–2 mm from the base → [[Campylospermum_costatum\|*C. costatum*]]
 
-**27.** Lamina provided above with very small bosses between the tertiary veins (strong magnification!) giving the surface a rugose aspect → [[Campylospermum_laxiflorum\|*C. laxiflorum*]] ^k27
+**26′.** Inflorescence borne by a slender branchlet; pedicel 6–13 mm, slender, articulate
 
-**27′.** Lamina smooth above between the tertiary veins → [[#^k28|28]]
+**3.** 7 mm from the base → [[Campylospermum_vogelii\|*C. vogelii*]]
 
-**28.** Racemes bearing bracts at the apex; drupels ellipsoid-oblongoid, ± cylindric, 8–14 mm in length; lamina with apex slightly to distinctly acuminate over 8–15 mm; tertiary venation very apparent below, less dark than the parenchyma surrounding it → [[Campylospermum_plicatum\|*C. plicatum*]] ^k28
+**27.** Limb provided above with very small bumps between the tertiary veins (with strong magnification!) giving the surface a wrinkled aspect → [[Campylospermum_laxiflorum\|*C. laxiflorum*]]
 
-**28′.** Racemes without bracts at the apex; drupels reniform or subglobose to ellipsoid, 5–9 mm in length; lamina with apex acute to slightly acuminate; tertiary venation distinctly darker below than the parenchyma surrounding it → [[Campylospermum_reticulatum\|*C. reticulatum*]]
+**27′.** Limb smooth above between the tertiary veins → couplet **28**
 
+**28.** Racemes bearing bracts at the apex; drupeoles ellipsoid-oblong, ± cylindrical,
+
+**8.** 14 mm in length; limb with apex slightly to distinctly acuminate over 8–15 mm; tertiary venation very apparent below, less dark than the surrounding parenchyma → [[Campylospermum_plicatum\|*C. plicatum*]]
+
+**8′.** Racemes without bracts at the apex; drupeoles reniform or subglobose to ellipsoid,
+
+**5.** 9 mm in length; limb with acute to slightly acuminate apex; tertiary venation distinctly darker below than the surrounding parenchyma → [[Campylospermum_reticulatum\|*C. reticulatum*]]
 
 ## Species in region
 

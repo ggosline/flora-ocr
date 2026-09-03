@@ -26,13 +26,11 @@ Rootless submerged or floating freshwater herbs with branched stems and whorled,
 | [[Ceratophyllum_demersum\|*C. demersum*]] | Recorded in Gabon; cosmopolitan | 10–12 |
 | [[Ceratophyllum_submersum\|*C. submersum*]] | Recorded in Cameroon; expected in Gabon | 12–13 |
 
-## Key
+## Key to the species
 
+**1.** Leaves with blade 2-dichotomous, rarely 1- or 3-dichotomous (on the lower parts of the plant), with often numerous, prominent marginal teeth; mature fruit weakly flattened laterally, with ± smooth surface, with long apical spine and 2 long basal spines or barely prominent → [[Ceratophyllum_demersum\|*C. demersum*]]
 
-**1.** Leaves mostly twice dichotomous, marginal teeth usually numerous and prominent; mature fruit weakly flattened, surface nearly smooth, with a long apical spine and two long or weakly projecting basal spines — [[Ceratophyllum_demersum|*C. demersum*]]. ^k1
-
-**2.** Leaves mostly three or four times dichotomous, marginal teeth few and small; mature fruit distinctly flattened into a marginal ridge or wing, surface strongly papillose or warty, apical spine long or very short, basal and marginal spines present or absent — [[Ceratophyllum_submersum|*C. submersum*]]. ^k2
-
+**1′.** Leaves with blade, at least the majority on all parts of the plant, 3- or 4-dichotomous, with few small marginal teeth; mature fruit with ± marked lateral flattening forming a ridge or marginal longitudinal wing, with strongly papillose or verrucose surface, with long or very short apical spine, and with or without basal and marginal spines → [[Ceratophyllum_submersum\|*C. submersum*]]
 
 ## Treatment
 

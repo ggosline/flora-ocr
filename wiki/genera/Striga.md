@@ -35,19 +35,17 @@ Bibliography
 
 ## Key to the species
 
+**1.** Calyx with 5 nerves → couplet **2**
 
-**1.** Calyx with 5 nerves → [[#^k2|2]] ^k1
+**1′.** Calyx with 10 to 15 nerves → couplet **3**
 
-**1′.** Calyx with 10 to 15 nerves → [[#^k3|3]]
+**2.** Corolla purple, lower lip 5–5.5 mm long; limb narrowly triangular-ovate, 1–2.5 mm wide; savanna plant → [[Striga_bilabiata\|*S. bilabiata*]]
 
-**2.** Corolla purple, lower lip 5–5.5 mm in length; limb narrowly triangular-ovate, 1–2.5 mm in width; savanna plant → [[Striga_bilabiata\|*S. bilabiata*]] ^k2
+**2′.** Corolla yellowish orange, lower lip 35–40 mm long; limb triangular-ovate, 12–30 mm wide; forest plant → [[Striga_hallaei\|*S. hallaei*]]
 
-**2′.** Corolla yellowish orange, lower lip 35–40 mm in length; limb triangular-ovate, 12–30 mm wide; forest plant → [[Striga_hallaei\|*S. hallaei*]]
+**3.** Delicate plant, (5–)10–15(–30) cm tall; inflorescence in lax spike; corolla dark red to yellow; limb less than 1 mm wide → [[Striga_asiatica\|*S. asiatica*]]
 
-**3.** Delicate plant, (5–)10–15(–30) cm in height; inflorescence in loose spike; corolla dark red to yellow; limb less than 1 mm in width → [[Striga_asiatica\|*S. asiatica*]] ^k3
-
-**3′.** Robust plant, 50–150 cm in height; inflorescence in dense spike; corolla white with yellow throat; limb 3–12 mm in width → [[Striga_macrantha\|*S. macrantha*]]
-
+**3′.** Robust plant, 50–150 cm tall; inflorescence in dense spike; corolla white with yellow throat; limb 3–12 mm wide → [[Striga_macrantha\|*S. macrantha*]]
 
 ## Species in region
 

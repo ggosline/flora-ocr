@@ -31,11 +31,9 @@ This genus comprises approximately 85 paleotropical species, particularly from S
 
 ## Key to the species
 
+**1.** Spur prominent, 20-25 mm long, lateral lobes of the labellum prominent, triangular, acute → 1. P. ma
 
-**1.** Spur prominent, 20-25 mm long, lateral lobes of the labellum prominent, triangular, acute → 1. P. ma ^k1
-
-**1′.** Spur rudimentary, 1 mm long, lateral lobes of the labellum very inconspicuous, rounded → [[Phaius_occidentalis\|*P. occidentalis*]]
-
+**1′.** Spur rudimentary, 1 mm long, lateral lobes of the labellum scarcely visible, rounded → [[Phaius_occidentalis\|*P. occidentalis*]]
 
 ## Species in region
 

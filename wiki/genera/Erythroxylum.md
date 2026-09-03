@@ -33,9 +33,7 @@ The genus comprises more than 190 tropical species, most of which are found in A
 
 ## Key to the species
 
-
-**1′.** Styles of longistyle flowers fused over most of their length; nectariferous appendages inserted at the base on the ventral face of the petal; leaves with a pair of "false veins" → [[Erythroxylum_mannii\|*E. mannii*]]
-
+**1′.** Styles of the long-styled flowers fused over most of their length; nectariferous appendages inserted at the base on the ventral surface of the petal; leaves with a pair of "false veins" → [[Erythroxylum_mannii\|*E. mannii*]]
 
 ## Species in region
 

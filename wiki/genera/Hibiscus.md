@@ -31,51 +31,49 @@ Bibliography
 
 ## Key to the species
 
+**1.** Bracteoles of the epicalyx (calyculus) forming a cup with 8–10 teeth; coastal shrub → [[Hibiscus_tiliaceus\|*H. tiliaceus*]]
 
-**1.** Epicalyx bracteoles (calyculus) forming a cupule with 8–10 teeth; coastal shrub → [[Hibiscus_tiliaceus\|*H. tiliaceus*]] ^k1
+**1′.** Bracts of the epicalyx largely free, connate only at the base → couplet **2**
 
-**1′.** Epicalyx bracts for the most part free, fused only at the base → [[#^k2|2]]
+**2.** Calyx accrescent after flowering, becoming red and fleshy → [[Hibiscus_sabdariffa\|*H. sabdariffa*]]
 
-**2.** Calyx accrescent after flowering, becoming red and fleshy → [[Hibiscus_sabdariffa\|*H. sabdariffa*]] ^k2
+**2′.** Calyx little or not accrescent, not becoming fleshy → couplet **3**
 
-**2′.** Calyx little or not accrescent, not becoming fleshy → [[#^k3|3]]
+**3.** Bracteoles of the epicalyx clearly or obscurely forked → couplet **4**
 
-**3.** Epicalyx bracteoles clearly or obscurely forked → [[#^k4|4]] ^k3
+**3′.** Bracteoles simple → couplet **10**
 
-**3′.** Bracteoles simple → [[#^k10|10]]
+**4.** Stipules ovate, auriculate, amplexicaul; epicalyx with 10 foliaceous bracteoles, elliptic or ovate, remarkably spread out in a plane forming a crown → [[Hibiscus_surattensis\|*H. surattensis*]]
 
-**4.** Stipules oval, auriculate, amplexicaul; epicalyx with 10 foliaceous bracteoles, elliptic or ovate, remarkably spread out in a plane forming a crown → [[Hibiscus_surattensis\|*H. surattensis*]] ^k4
+**4′.** Stipules linear or subulate, not amplexicaul; epicalyx reflexed, spread or more or less appressed, not forming a crown, → couplet **5**
 
-**4′.** Stipules linear or subulate, not amplexicaul; epicalyx reflexed, spread out or more or less appressed, not forming a crown, → [[#^k5|5]]
+**5.** Flower or flowers on a set of peduncles and pedicels 3–11 cm, resembling a geniculate pedicel; hairs of the pedicel often longer than those of the peduncle; plant robust, hispid → [[Hibiscus_rostellatus\|*H. rostellatus*]]
 
-**5.** Flower or flowers on a set of peduncles and pedicels of 3–11 cm, resembling a geniculate pedicel; pedicel hairs often longer than those of the peduncle; plant robust, hispid → [[Hibiscus_rostellatus\|*H. rostellatus*]] ^k5
+**5′.** Flowers sessile or briefly pedicellate, no remarkable distinction between peduncle and pedicel → couplet **6**
 
-**5′.** Flowers sessile or briefly pedicellate, no remarkable distinction between peduncle and pedicel → [[#^k6|6]]
+**6.** Limb lobed to the midpoint or more, or if entire, smooth, with margin often purple 7
 
-**6.** Limb lobed to the middle or more, or if entire, smooth, often with purple margin 7 ^k6
+**6′.** Limb simple to palmately lobed or ovate-hastate and 3-lobed → couplet **9**
 
-**6′.** Limb simple, palmately lobed or ovate-hastate and 3-lobed → [[#^k9|9]]
+**7.** Limb smooth, often irregularly and slightly lobed toward the apex, often with purple margin → [[Hibiscus_acetosella\|*H. acetosella*]]
 
-**7.** Limb smooth, often irregularly and slightly lobed toward the apex, often with purple margin → [[Hibiscus_acetosella\|*H. acetosella*]] ^k7
+**7′.** Limb rugose or woolly, flowers yellow or violet → couplet **8**
 
-**7′.** Limb rugose or woolly, flowers yellow or violet → [[#^k8|8]]
-
-**8.** Limb rugose, stems with hooks, flowers yellow → [[Hibiscus_noldeae\|*H. noldeae*]] ^k8
+**8.** Limb rugose, stems with hooks, flowers yellow → [[Hibiscus_noldeae\|*H. noldeae*]]
 
 **8′.** Entire plant woolly, hairs yellowish, no hooks, flowers violet → [[Hibiscus_minkebeensis\|*H. minkebeensis*]]
 
-**9.** Limb pentagonal, slightly lobed, with irregularly dentate margin, plant covered with stellate hairs; flowers white → [[Hibiscus_ngokbanakii\|*H. ngokbanakii*]] ^k9
+**9.** Limb pentagonal, slightly lobed, with margin irregularly dentate, plant covered with stellate hairs; flowers white → [[Hibiscus_ngokbanakii\|*H. ngokbanakii*]]
 
-**9′.** Limb elongately ovate to ovate-hastate, plant hispid, flowers yellow H. sudanensis.
+**9′.** Limb long-ovate to ovate-hastate, plant hispid, flowers yellow H. sudanensis
 
-**10.** Limb simple, linear-lanceolate → [[Hibiscus_squamosus\|*H. squamosus*]] ^k10
+**10.** Limb simple, linear-lanceolate → [[Hibiscus_squamosus\|*H. squamosus*]]
 
-**10′.** Limb lobed or divided → [[#^k11|11]]
+**10′.** Limb lobed or divided → couplet **11**
 
-**11.** Limb lobed, the lower surface furnished with whitish incrustatations between the bases of the veins; irritant hairs; calyx foliaceous; epicalyx composed of 10 filiform divergent bracteoles → [[Hibiscus_physaloides\|*H. physaloides*]] ^k11
+**11.** Limb lobed, the lower surface furnished with whitish incrustations between the bases of the veins; irritant hairs; calyx foliaceous; epicalyx composed of 10 filiform divergent bracteoles → [[Hibiscus_physaloides\|*H. physaloides*]]
 
-**11′.** Limb 3–5-divided, without incrustatations between the veins; plant rugose; calyx coriaceous, epicalyx composed of 5(–7) narrowly triangular to linear, coriaceous and rugose bracteoles, more or less spread out → [[Hibiscus_asper\|*H. asper*]]
-
+**11′.** Limb 3–5-divided, without incrustations between the veins; plant rugose; calyx coriaceous, epicalyx composed of 5(–7) narrowly triangular to linear, coriaceous and rugose bracteoles, more or less spread → [[Hibiscus_asper\|*H. asper*]]
 
 ## Species in region
 

@@ -33,19 +33,17 @@ Bibliography
 
 ## Key to the species
 
+**1.** Umbelliform cymes, axes much reduced; cotyledons subplane-convex, incumbent → couplet **2**
 
-**1.** Umbelliform cymes, axes greatly reduced; cotyledons subplane-convex, incumbent → [[#^k2|2]] ^k1
+**1′.** Corymb-form cymes, axes more or less developed; cotyledons enrolled → couplet **3**
 
-**1′.** Corymbiform cymes, axes more or less developed; cotyledons enrolled → [[#^k3|3]]
+**2.** Lower surface of limb bordered by a line of relatively dense black glands, generally completed by scattered black glands of approximately 0.3 mm in diameter, this entire surface bearing small brownish-red spots P. membranaceum
 
-**2.** Lower surface of the lamina bordered by a line of relatively dense black glands, generally supplemented by scattered black glands approximately 0.3 mm in diameter, the entire surface furnished with small red-brown spots P. membranaceum ^k2
+**2′.** Lower surface of limb bearing numerous black glands of approximately 0.1 mm in diameter, no brownish-red spots (to be sought in Gabon) → P. staudtii Engl.
 
-**2′.** Lower surface of the lamina furnished with numerous black glands approximately 0.1 mm in diameter, no red-brown spots (to be sought in Gabon) → P. staudtii Engl.
+**3.** Limb herbaceous to papyraceous, cuneate at the base, lower surface generally bearing black glands and a weakly marked tertiary network; petiole of (2–)4–10 mm → [[Psorospermum_tenuifolium\|*P. tenuifolium*]]
 
-**3.** Lamina herbaceous to papyraceous, cuneate at the base, lower surface generally bearing black glands and a weakly marked tertiary network; petiole (2–)4–10 mm → [[Psorospermum_tenuifolium\|*P. tenuifolium*]] ^k3
-
-**3′.** Lamina coriaceous, subcordate to rounded or sometimes cuneate at the base, lower surface with ± scattered glandular punctations and very prominent tertiary network; petiole 0–2(–4) mm → [[Psorospermum_febrifugum\|*P. febrifugum*]]
-
+**3′.** Limb coriaceous, subcordate to rounded or sometimes cuneate at the base, lower surface with ± scattered glandular punctations and very prominent tertiary network; petiole of 0–2(–4) mm → [[Psorospermum_febrifugum\|*P. febrifugum*]]
 
 ## Species in region
 

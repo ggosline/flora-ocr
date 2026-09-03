@@ -27,11 +27,9 @@ This genus contains approximately 600 species from tropical and subtropical regi
 
 ## Key to the species
 
+**1.** Foliar rachis with clearly visible internodes; several spines on the stems per internode; fruit pubescent and bristly → [[Mimosa_pigra\|*M. pigra*]]
 
-**1.** Leaf rachis with clearly visible internodes; several spines on the stems per internode; fruit pubescent and bristly → [[Mimosa_pigra\|*M. pigra*]] ^k1
-
-**1′.** Leaf rachis with poorly visible internodes; a single hooked spine on the stems per internode; spiny fruit → [[Mimosa_pudica\|*M. pudica*]]
-
+**1′.** Foliar rachis with poorly visible internodes; a single hooked spine on the stems per internode; fruit spiny → [[Mimosa_pudica\|*M. pudica*]]
 
 ## Species in region
 

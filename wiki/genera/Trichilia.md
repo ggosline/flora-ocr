@@ -27,45 +27,43 @@ Bibliography
 
 ## Key to the species
 
+**1.** Staminal crown laciniate; trunk generally cylindric → couplet **2**
 
-**1.** Staminal crown lacinate; stem generally cylindric → [[#^k2|2]] ^k1
+**1′.** Staminal crown entire; trunk often fluted at base → T. prieureana subsp. vermoesenii
 
-**1′.** Staminal crown entire; stem often grooved at base → T. prieureana subsp. vermoesenii.
+**2.** Disc around ovary distinct, cupuliform; young branches hollow and with lenticellate bark → [[Trichilia_rubescens\|*T. rubescens*]]
 
-**2.** Disc around ovary distinct, cupuliform; young branches hollow and with lenticellate bark → [[Trichilia_rubescens\|*T. rubescens*]] ^k2
+**2′.** Disc poorly developed; branches neither hollow nor distinctly lenticellate → couplet **3**
 
-**2′.** Disc poorly developed; branches neither hollow nor distinctly lenticellate → [[#^k3|3]]
+**3.** Leaflets densely hairy below; lateral veins well marked, narrowly spaced, parallel and depressed above → [[Trichilia_tessmannii\|*T. tessmannii*]]
 
-**3.** Leaflets densely velutinous beneath; lateral nerves well-marked, closely spaced, parallel and depressed above → [[Trichilia_tessmannii\|*T. tessmannii*]] ^k3
+**3′.** Leaflets glabrous to glabrescent or rarely pubescent; lateral veins neither parallel nor distinctly depressed above → couplet **4**
 
-**3′.** Leaflets glabrous to glabrescent or rarely pubescent; lateral nerves neither parallel nor distinctly depressed above → [[#^k4|4]]
+**4.** Ovary and finally fruit 3-locular → couplet **5**
 
-**4.** Ovary and ultimately fruit 3-locular → [[#^k5|5]] ^k4
+**4′.** Ovary and fruit 2-locular → couplet **9**
 
-**4′.** Ovary and fruit 2-locular → [[#^k9|9]]
+**5.** Mature capsule distinctly rostrate at apex → [[Trichilia_zewaldae\|*T. zewaldae*]]
 
-**5.** Mature capsule distinctly rostrate at apex → [[Trichilia_zewaldae\|*T. zewaldae*]] ^k5
+**5′.** Mature capsule without rostrum at apex or mature fruits absent → couplet **6**
 
-**5′.** Mature capsule without rostrum at apex or mature fruits absent → [[#^k6|6]]
+**6.** Inflorescence with bracts and bracteoles fairly persistent; leaflets bearing distinct translucent dots and dashes → [[Trichilia_gilgiana\|*T. gilgiana*]]
 
-**6.** Inflorescence with bracts and bracteoles rather persistent; leaflets bearing distinct translucid dots and dashes → [[Trichilia_gilgiana\|*T. gilgiana*]] ^k6
+**6′.** Bracts and bracteoles early caducous; translucent dots and dashes absent or indistinct → couplet **7**
 
-**6′.** Bracts and bracteoles early caducous; translucid dots and dashes absent or indistinct → [[#^k7|7]]
+**7.** Appendages at apex of free filaments of staminal crown almost absent or very short and inconspicuous → couplet **8**
 
-**7.** Appendages at apex of free filaments of staminal crown nearly absent or very short and inconspicuous → [[#^k8|8]] ^k7
+**7′.** Appendages at apex of lobes of staminal crown well developed → [[Trichilia_gilgiana\|*T. gilgiana*]]
 
-**7′.** Appendages at apex of lobes of staminal crown well-developed → [[Trichilia_gilgiana\|*T. gilgiana*]]
-
-**8.** Fused part of staminal crown slightly pubescent within → [[Trichilia_monadelpha\|*T. monadelpha*]] ^k8
+**8.** Fused part of staminal crown slightly pubescent within → [[Trichilia_monadelpha\|*T. monadelpha*]]
 
 **8′.** Fused part of staminal crown glabrous within → [[Trichilia_zewaldae\|*T. zewaldae*]]
 
-**9.** Leaves with 3–4 pairs of leaflets, with the midvein glabrous and plane or slightly depressed above → [[Trichilia_gilletii\|*T. gilletii*]] ^k9
+**9.** Leaves with 3–4 pairs of leaflets, midvein glabrous and plane or slightly depressed above → [[Trichilia_gilletii\|*T. gilletii*]]
 
-**9′.** Leaves with (3–)5–7 pairs of leaflets, with the midvein hairy and depressed above → T. welwitschii <<<---SECTION-BREAK--->>> Functionally female flower, petals and part of sepals removed, longitudinal section (× 3). – D. Functionally male flower, ditto (× 3). – E. Staminal tube opened, inner face (× 6). – F. Ditto, outer face (× 6). – G. Infructescence (× 0.5). – K. Fruit in transverse section (× 0.5). – M. Seed (× 0.5). – N. Cotyledons juxtaposed (× 1). – P. Leaflet (× 1) – R. Fragment of a leaflet, lower face (× 12). (A : Breteler 2482 ; B, D–F, P–R : Breteler 2489 ; C : Devred 100 ; G–K : Wagemans 1051 ; M, N : Gilbert.
+**9′.** Leaves with (3–)5–7 pairs of leaflets, midvein hairy and depressed above → T. welwitschii <<<---SECTION-BREAK--->>> Functionally female flower, petals and part of sepals removed, longitudinal section (× 3). – D. Functionally male flower, ditto (× 3). – E. Staminal tube opened, inner face (× 6). – F. Ditto, outer face (× 6). – G. Infructescence (× 0.5). – K. Fruit in transverse section (× 0.5). – M. Seed (× 0.5). – N. Cotyledons juxtaposed (× 1). – P. Leaflet (× 1) – R. Fragment of a leaflet, lower face (× 12). (A: Breteler 2482; B, D–F, P–R: Breteler 2489; C: Devred 100; G–K: Wagemans 1051; M, N: Gilbert
 
-**9775.** . Drawing by Ike Zewald, Naturalis Biodiversity Center, Leiden (©). ^k9775
-
+**9775.** . Drawing by Ike Zewald, Naturalis Biodiversity Center, Leiden (©).
 
 ## Species in region
 

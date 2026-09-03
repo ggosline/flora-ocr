@@ -27,35 +27,33 @@ This genus comprises approximately 145 species from tropical and subtropical reg
 
 ## Key to the species
 
+(See keys at the tribal level page 132 sqq.) KEY TO THE SPECIES BY FRUITS
 
-(See keys at the tribe level page 132 sqq.) KEY TO SPECIES BY FRUITS
+**1.** Fruit clearly stipitate.
 
-**1.** Fruit distinctly stipitate. ^k1
+**2.** Pod ± pubescent or puberulent.
 
-**2.** Pod ± pubescent or puberulent. ^k2
+**3.** Venation of the faces very prominent; fruit clearly densely pubescent → 3. A. adianthifolia (var. adianthifolia, and var. intermedia)
 
-**3.** Venation of the faces very prominent; fruit distinctly densely pubescent → 3. A. adianthifolia (var. adianthifolia, and var. intermedia) ^k3
+**3′.** Venation of the faces slightly prominent.
 
-**3′.** Venation of the faces little prominent.
-
-**4.** Seed with central oblong aril → [[Albizia_laurentii\|*A. laurentii*]] ^k4
+**4.** Seed with central oblong aril → [[Albizia_laurentii\|*A. laurentii*]]
 
 **4′.** Seed with small apical aril → 2 bis. A. glaberrima.
 
-**5.** Seed with central oblong aril → [[#^k2|2]] ^k5
+**5.** Seed with central oblong aril → couplet **2**
 
-**5.** Seed with small apical aril → 2 bis. A.
+**5.** Seed with small apical aril → 2 bis. A
 
-**1′.** Fruit not distinctly stipitate or not stipitate.
+**1′.** Fruit not clearly stipitate or not stipitate.
 
-**6.** Seeds prominent alternately on one of the faces (undulate aspect of the fruit) → [[Albizia_lebbeck\|*A. lebbeck*]] ^k6
+**6.** Seeds prominent alternately on one of the faces (undulate aspect of the fruit) → [[Albizia_lebbeck\|*A. lebbeck*]]
 
-**7.** Venation of the fruit faces very effaced or absent → [[Albizia_chinensis\|*A. chinensis*]] ^k7
+**7.** Venation of the fruit faces very effaced or absent → [[Albizia_chinensis\|*A. chinensis*]]
 
-**8.** Venation prominent → [[Albizia_ferruginea\|*A. ferruginea*]] ^k8
+**8.** Venation prominent → [[Albizia_ferruginea\|*A. ferruginea*]]
 
 **8′.** Venation ± concave → [[Albizia_lebbekoides\|*A. lebbekoides*]]
-
 
 ## Species in region
 

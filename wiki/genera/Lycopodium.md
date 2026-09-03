@@ -22,13 +22,11 @@ Approximately 750 species.
 
 ## Key to the species
 
-
 **1′.** Strobili pedunculate; leaves dimorphous; strobili solitary, arising from creeping stems → [[Lycopodium_affine\|*L. affine*]]
 
-**1.** Lycopodium Staudtii (Ness.) Adams et Alst. (PL. V) ^k1
+**1.** Lycopodium Staudtii (Ness.) Adams et Alst. (PL. V)
 
-**1′.** Adams et Alston, Bull. Brit. Mus. I : 183 (1955); Alston, Mém. IFAN 50 : 23, p. 5 (1957). — Alston, FWTA : 12 (1959). = Urostachys Staudtii Nessel, Fedde Repert. 36 : 189, t. 175 (1934). = Urostachys Adolf-Friedericii Hert. ex Nessel, Bärlapp.: 226 (1939). Epiphytic with stems suberect, curved at the apex, approximately 35 cm long, simple or dichotomous. Leaves imbricate, spread, 14-20 mm long by 2 mm wide, lanceolate, rounded at the base, light green, shiny, flattened, with a slightly enrolled margin and an apparent costa. Strobili apical, lax, not pedunculate, simple or dichotomous. Sporophylls entirely different from the leaves, elliptic-lanceolate, 4 mm long by 2 mm wide, coriaceous, without a distinct costa. Sporanges yellowish-green. Type: Staudt 476, Johann-Albrechtshöhe. Gabonese material examined: N. Hallé: 835, riv. Wébé, Mts de Cristal; 1860, Ayem, SW de Ndjolé; 2375, 2417, Abanga, Mts de Cristal.
-
+**1′.** Adams et Alston, Bull. Brit. Mus. I : 183 (1955); Alston, Mém. IFAN 50 : 23, p. 5 (1957). — Alston, FWTA : 12 (1959). = Urostachys Staudtii Nessel, Fedde Repert. 36 : 189, t. 175 (1934). = Urostachys Adolf-Friedericii Hert. ex Nessel, Bärlapp.: 226 (1939). Epiphytic with subdecumbent stems, recurved at the apex, approximately 35 cm long, simple or dichotomous. Leaves imbricate, spreading, 14-20 mm long by 2 mm wide, lanceolate, rounded at the base, light green, shining, flattened, with a slightly enrolled margin and an apparent costa. Strobili apical, lax, not pedunculate, simple or dichotomous. Sporophylls entirely different from the leaves, elliptic-lanceolate, 4 mm long by 2 mm wide, coriaceous, without a distinct costa. Sporangia yellowish-green. Type: Staudt 476, Johann-Albrechtshöhe. Gabonese material studied: N. Hallé: 835, riv. Wébé, Mts de Cristal; 1860, Ayem, SW de Ndjolé; 2375, 2417, Abanga, Mts de Cristal.
 
 ## Species in region
 

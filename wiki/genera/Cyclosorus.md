@@ -28,9 +28,7 @@ Approximately 300 species, tropical and subtropical; 3 in Gabon.
 
 ## Key to the species
 
-
-**1′.** 4-5 pairs of veins united in 2 neighboring lobes; lower pinnae very decreasing and auriculate → [[Cyclosorus_afer\|*C. afer*]]
-
+**1′.** 4-5 pairs of veins united in 2 neighbouring lobes; lower pinnae very decreasing and auriculate → [[Cyclosorus_afer\|*C. afer*]]
 
 ## Species in region
 

@@ -35,29 +35,25 @@ Bibliography
 
 ## Key to the species
 
+**1.** Flower yellow, pale yellow or greenish white; spathe with margins bearing russet hairs → [[Commelina_capitata\|*C. capitata*]]
 
-**1.** Flower yellow, pale yellow or greenish white; spathe with margins bearing russet hairs → [[Commelina_capitata\|*C. capitata*]] ^k1
+**1′.** Flower white, mauve, pink or blue; spathe with glabrous margins or bearing colourless pubescence → couplet **2**
 
-**1′.** Flower white, mauve, pink or blue; spathe with margins glabrous or with colorless pubescence → [[#^k2|2]]
+**2.** Leaf blade relatively large, > 20 × 6 cm; several spathes grouped at the tip of the stem, surrounded by reduced leaves; spathes filled with transparent glutinous liquid → [[Commelina_longicapsa\|*C. longicapsa*]]
 
-**2.** Leaf blade relatively large, > 20 × 6 cm; several spathes grouped at the apex of the stem, surrounded by reduced leaves; spathes filled with transparent glutinous liquid → [[Commelina_longicapsa\|*C. longicapsa*]] ^k2
+**2′.** Leaf blade generally up to 10(–13) cm long; spathes solitary or several grouped at the tip of the stem → couplet **3**
 
-**2′.** Leaf blade generally up to 10(–13) cm in length; spathes solitary or several grouped at the apex of the stem → [[#^k3|3]]
+**3.** Spathe with margins partially fused at the base, resulting in a funicle with two (partially) straight ribs → couplet **4**
 
-**3.** Spathe with margins partially fused at the base, resulting in a funicule with two (partially) straight ribs → [[#^k4|4]] ^k3
+**3′.** Spathe entirely open, no basal suture, with rounded ventral margins → couplet **5**
 
-**3′.** Spathe entirely open, no basal suture, with rounded ventral margins → [[#^k5|5]]
+**4.** Spathes funnel-shaped to triangular, glabrous, numerous, grouped at the apex of the stem; flower pale violet or white; indigenous plant → [[Commelina_congesta\|*C. congesta*]]
 
-**4.** Spathes funnel-shaped to triangular, glabrous, numerous, grouped at the apex of the stem; flower pale violet or white; indigenous plant → [[Commelina_congesta\|*C. congesta*]] ^k4
+**4′.** Spathes hemicircular, pubescent, solitary or grouped at the apex of the stems; flowers bright blue or mauve; pantropical invasive plant of cultivated areas (to be sought in Gabon) → [[Commelina_benghalensis\|*C. benghalensis*]]
 
-**4′.** Spathes hemicircular, pubescent, solitary or grouped at the apex of the stems; flowers bright blue or mauve; pantropical weedy plant of cultivations (to be sought in Gabon) → [[Commelina_benghalensis\|*C. benghalensis*]]
+**5.** Spathe (2.5‒)3‒6.2 cm long; leaf blade narrowly elliptic-ovate, (3.5‒)5.5‒10.5(‒13) × (0.9‒)1.2‒1.7(‒2) cm; flower whitish, mauve or pale blue → [[Commelina_acutispatha\|*C. acutispatha*]]
 
-**5.** Spathe (2.5–)3–6.2 cm in length; leaf blade narrowly elliptic-ovate, (3.5–)5.5–10.5(–13) × (0.9–)1.2–1.7(–2) cm; flower whitish, mauve or pale blue → [[Commelina_acutispatha\|*C. acutispatha*]] ^k5
-
-**5′.** Spathe 0.8–4 cm in length; leaf blade narrowly ovate-oblong to ovate,.
-
-**1.** 5–8.5 × 0.6–2.7 cm; flower bright blue or violet → [[Commelina_diffusa\|*C. diffusa*]]
-
+**5′.** Spathe 0.8‒4 cm long; leaf blade narrowly ovate-oblong to ovate, 1.5‒8.5 × 0.6‒2.7 cm; flower bright blue or violet → [[Commelina_diffusa\|*C. diffusa*]]
 
 ## Species in region
 

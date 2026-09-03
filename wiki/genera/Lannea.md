@@ -28,11 +28,9 @@ Bi: Fernandes & Fernandes (1966), Keay (1958), Kokwaro (1986), Pell et al. (2011
 
 ## Key to the species
 
-
-**1.** Young branchlets and inflorescences glabrous or with very short simple hairs, distinctly appressed; male and female inflorescences narrowly paniculate to racemose, up to 18 cm in length → [[Lannea_glabrescens\|*L. glabrescens*]] ^k1
+**1.** Young branchlets and inflorescences glabrous or with very short simple hairs, clearly appressed; male and female inflorescences narrowly paniculate to racemose, up to 18 cm in length → [[Lannea_glabrescens\|*L. glabrescens*]]
 
 **1′.** Young branchlets often, but inflorescences always, with small stellate hairs; male inflorescences broadly paniculate, up to 20 cm in length and 8 cm in width, the female ones narrowly paniculate, ≤ 13 cm in length → [[Lannea_welwitschii\|*L. welwitschii*]]
-
 
 ## Species in region
 

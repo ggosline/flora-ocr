@@ -31,6 +31,16 @@ Trees and shrubs. Leaves unijugate to multijugate, stipulate. Stipules
 lanceolate, fused into an intrapetiolar blade, sometimes bearing auricle-shaped
 appendages; caducous or persistent. Leaflets opposite, rarely alternate.
 
+## Key to the species
+
+**1.** nerved → *G. dewevrei*
+
+**8.** G. demonstrans.
+
+**10.** G. imenænse.
+
+**11.** G. Preussii 1 (-2).
+
 ## Species in region
 
 *G. barbulatum*, *G. ngounyense*, *G. ogouense*, *G. brachystegioides*,

@@ -31,51 +31,53 @@ BIBLIOGRAPHY
 
 ## Key to the species
 
+**1.** Follicles flexible, pendulous → *S. bullenianus*
 
-**1.** Follicles flexible, pendulous → *S. bullenianus* ^k1
+**1′.** Follicles rigid, divergent → couplet **2**
 
-**1′.** Follicles rigid, divergent → [[#^k2|2]]
+**2.** Branches, leaf lamina and follicle surface hispid, rugose and like sandpaper → [[Strophanthus_hispidus\|*S. hispidus*]]
 
-**2.** Branches, leaf blade and follicle surface hispid, rugose and like sandpaper . → [[Strophanthus_hispidus\|*S. hispidus*]] ^k2
+**2′.** Branches, leaf lamina and follicle surface glabrous or with variable indumentum → couplet **3**
 
-**2′.** Branches, leaf blade and follicle surface glabrous or with variable indumentum → [[#^k3|3]]
+**3.** Leaves densely scabrous → [[Strophanthus_gracilis\|*S. gracilis*]]
 
-**3.** Leaves densely scabrous → [[Strophanthus_gracilis\|*S. gracilis*]] ^k3
+**3′.** Leaves glabrous or with variable indumentum, but not scabrous → couplet **4**
 
-**3′.** Leaves glabrous or with variable indumentum, but not scabrous → [[#^k4|4]]
+**3′.** Seed finely glabrous to puberulent → [[Strophanthus_gratus\|*S. gratus*]]
 
-**3′.** Seed glabrous or finely to puberulent → [[Strophanthus_gratus\|*S. gratus*]]
+**3′.** Seed densely puberulent or pubescent → couplet **5**
 
-**3′.** Seed densely puberulent or pubescent → [[#^k5|5]]
+**3′.** Follicles with rounded apex, apex pointed and obtuse → couplet **6**
 
-**3′.** Follicles with rounded apex, finely pointed, narrow and obtuse → [[#^k6|6]]
+**3′.** Follicles narrowing at apex, but terminating in a button → couplet **9**
 
-**3′.** Follicles narrowing at apex, but ending with a button → [[#^k9|9]]
+**3′.** Follicles longitudinally furrowed at apex, narrow, sometimes apex incurved, of (13-)15.5–46.5 × 0.9–3 cm → couplet **7**
 
-**3′.** Follicles longly finely pointed at apex, narrow, sometimes apex incurved, of (13-)15.5–46.5 × 0.9–3 cm → [[#^k7|7]]
+**3′.** Follicles with relatively broad and obtuse apex → couplet **8**
 
-**3′.** Follicles with relatively broad and obtuse apex → [[#^k8|8]]
+**7.** Seed with glabrous beak for 1.5–15 mm, bearing a coma for 12–21 mm ; coma long of
 
-**7.** Seed with beak glabrous for 1.5–15 mm, bearing a coma for 12–21 mm; coma 22–42 mm long → [[Strophanthus_thollonii\|*S. thollonii*]] ^k7
+**22.** 42 mm → [[Strophanthus_thollonii\|*S. thollonii*]]
 
-**7′.** Seed with beak glabrous for 3–8 mm, bearing a coma for 30–50 mm; coma 57–100 mm long → [[Strophanthus_preussii\|*S. preussii*]]
+**22′.** Seed with glabrous beak for 3–8 mm, bearing a coma for 30–50 mm ; coma long of
 
-**8.** Oldest branches with cork protuberances; seed with beak glabrous > 10 mm . → [[Strophanthus_sarmentosus\|*S. sarmentosus*]] ^k8
+**57.** 100 mm → [[Strophanthus_preussii\|*S. preussii*]]
 
-**8′.** Branches without cork protuberances; seed with beak glabrous < 9 mm → [[Strophanthus_congoensis\|*S. congoensis*]]
+**8.** Oldest branches with corky protuberances ; seed with glabrous beak > 10 mm . → [[Strophanthus_sarmentosus\|*S. sarmentosus*]]
 
-**9.** Leaf glabrous → [[#^k10|10]] ^k9
+**8′.** Branches without corky protuberances ; seed with glabrous beak < 9 mm → [[Strophanthus_congoensis\|*S. congoensis*]]
 
-**9′.** Leaf pilose → [[#^k11|11]]
+**9.** Leaf glabrous → couplet **10**
 
-**10.** Follicle weakly lenticellate, with small and round lenticels; petiole 1–3 mm . → *S. parviflorus* ^k10
+**9′.** Leaf pilose → couplet **11**
 
-**10′.** Follicle fairly densely lenticellate with elongate lenticels; petiole 6–12 mm . → [[Strophanthus_preussii\|*S. preussii*]]
+**10.** Follicle weakly lenticellate, with small and round lenticels ; petiole of 1–3 mm . → *S. parviflorus*
 
-**10′.** Follicle fairly densely lenticellate; leaf blade with pubescence clearly scattered above → [[Strophanthus_mortehanii\|*S. mortehanii*]]
+**10′.** Follicle fairly densely lenticellate with elongated lenticels ; petiole of 4–11 mm . → [[Strophanthus_preussii\|*S. preussii*]]
 
-**10′.** Follicle weakly lenticellate; leaf blade rarely puberulent on the nerves → S. parviflorus Strophanthus bullenianus Mast. Plate 100; Figure 11(E, F) Gard. Chron. S. erythroleucos Gilg, Bot. Jahrb. Syst. 32(1) : 160 (1902). S. wildemanianus Gilg, Bot. Jahrb. Syst. 32(1) : 159 (1902). Liane reaching 12 m in height; exudate clear or white; branches glabrous to hispid. Leaf: petiole 3–5 mm, blade elliptic to ovate or slightly obovate, 5–14 × 2.5–8 cm, cuneate to subcordate at base, acuminate at apex, glabrous to weakly hispid above, glabrous or hispid below; secondary nerves (6)7 to 10(13) pairs. Inflorescence lax, with 1 to 10 flowers. Flower: pedicel 6–21 mm; calyx with subequal to unequal lobes, 5–12 × 0.5–1.8 mm, obtuse or acute at apex, sometimes purple; corolla with cream tube becoming reddish, 9–15 mm long, widening at 60–90% of its length into a shallow cupuliform upper part, 6–12 mm wide at throat, puberulent, crown with lobes 0.5–2.5 mm long, red becoming purple, fleshy, with corolla lobes oval, 3–7 × 3.5–7 mm, yellow, sometimes with a straight red margin on the outside, spotted red on the inside, narrowing abruptly into puberulent tails, 8–33 × 0.5–1 mm; stamens exserted, anther 3.8–4.5 mm long, glabrous; ovary glabrous; style 8–12 mm. Fruit: follicles pendulous, diverging at 45–90°, 9–48 × 0.9–2.5 cm, exocarp fine and breaking slightly, shallowly furrowed, glabrous, scarcely lenticellate. Seed 21–25 × 4 mm, with persistent basal coma and apical coma inserted on the testa, 50–82 mm long; beak 20–30 mm long, entirely pilose. Distribution: Nigeria, Cameroon, Equatorial Guinea, Gabon, Republic of the Congo, Democratic Republic of the Congo and Angola. Cabinda au Gabon, Estuaire, Moyen-Ogooué, Ngounié, Ogooué, Ivindo and Ogooué-Lolo. Ecology: Forest in Gabon, up to 800 m altitude, elsewhere up to 600 m. B: Beentje (1982, 2021). Brass & Woodward 20834; 4: Breyne 3439). Drawing by Henk Beentje, Naturalis Biodiversity Center (©), reproduced from Beentje (1982).
+**10′.** Follicle fairly densely lenticellate, leaf lamina with pubescence, seeds sprinkled above . → [[Strophanthus_mortehanii\|*S. mortehanii*]]
 
+**10′.** Follicle weakly lenticellate ; leaf lamina rarely puberulent on the veins → S. parviflorus Strophanthus bullenianus Mast. Plate 100 ; Figure 11(E, F) Gard. Chron. S. erythroleucos Gilg, Bot. Jahrb. Syst. 32(1) : 160 (1902). S. wildemanianus Gilg, Bot. Jahrb. Syst. 32(1) : 159 (1902). Liane reaching 12 m in height ; exudate clear or white ; branches glabrous to hispid. Leaf : petiole of 3–8 mm, lamina elliptic to ovate or slightly obovate of 5–16 × 2–8 cm, cuneate to subcordate at base, acuminate at apex, glabrous to weakly hispid above, glabrous or hispid below ; secondary veins (6)7 to 10(13) pairs . Inflorescence lax, with 1 to 10 flowers. Flower : pedicel of 6–21 mm ; calyx with subequal to unequal lobes, of 5–12 × 0.5–1.8 mm, obtuse or acute at apex, sometimes purple ; corolla with cream tube becoming reddish, long of 9–15 mm, widening at 60–90% of its length into an upper cupuliform part not deep, wide of 6–12 mm at throat, puberulent, corona with lobes long of 0.5–2.5 mm, red becoming purple, fleshy, with corolla lobes ovate, of 3–7 × 3.5–7 mm, yellow, sometimes with a straight red edge outside, spotted red inside, narrowing abruptly into puberulent tails, of 8–33 × 0.5–1 mm ; stamens exserted, anther long of 3.8–4.5 mm, glabrous : ovary glabrous ; style of 8–12 mm. Fruit : follicles pendulous, divergent at 30–90° of 13–35 × 1–2 cm, exocarp fine and breaking slightly, furrowed, glabrous, slightly lenticellate. Seed of 21–25 × 4 mm, with persistent basal coma and apical coma inserted on the testa, long of 50–82 mm ; beak long of 20–30 mm, entirely pilose. Distribution Nigeria, Cameroon, Equatorial Guinea, Gabon, Republic of the Congo, Democratic Republic of the Congo and Angola. Cabinda at Gabon, Estuaire, Moyen-Ogooué, Ngounié, Ogooué, Ivindo and Ogooué-Lolo. Ecology Forest in Gabon up to m altitude elsewhere up to m. B : Beentje (1982, 2021). BIBLIOGRAPHY Brass & Woodward 20834 ; 4 : Breyne 3439 ). Drawing by Henk Beentje, Naturalis Biodiversity Center (©), reproduced from Beentje (1982).
 
 ## Species in region
 

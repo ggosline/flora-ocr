@@ -41,14 +41,13 @@ This essentially Neotropical genus is represented in Africa by introduced specie
 
 ## Key to the species
 
-
-**1.** Leaflets petiolulate → [[Pachira_aquatica\|*P. aquatica*]] ^k1
+**1.** Leaflets petiolulate → [[Pachira_aquatica\|*P. aquatica*]]
 
 **1′.** Leaflets sessile or subsessile.
 
-**2.** Abaxial surface of blade puberulent or lepidote → [[Pachira_glabra\|*P. glabra*]] ^k2
+**2.** Lower surface of blade puberulent or lepidote → [[Pachira_glabra\|*P. glabra*]]
 
-**2′.** Abaxial surface of blade glabrous → 2. P. sessilis KEY TO SPECIES BY FRUITS.
+**2′.** Lower surface of blade glabrous → 2. P. sessilis KEY TO SPECIES BY FRUITS
 
 **1.** Valves glabrous → [[Pachira_glabra\|*P. glabra*]]
 
@@ -57,7 +56,6 @@ This essentially Neotropical genus is represented in Africa by introduced specie
 **2.** Seeds with strongly prominent striations → [[Pachira_sessilis\|*P. sessilis*]]
 
 **2′.** Seeds with non-prominent striations → [[Pachira_aquatica\|*P. aquatica*]]
-
 
 ## Species in region
 

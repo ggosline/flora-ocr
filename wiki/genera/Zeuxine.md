@@ -27,15 +27,13 @@ Genus of about 50 species distributed from tropical Africa to the Pacific island
 
 ## Key to the species
 
-
-**1.** Flowers not resupinate, thus labellum uppermost → [[Zeuxine_stammleri\|*Z. stammleri*]] ^k1
+**1.** Flowers not resupinate, thus labellum uppermost → [[Zeuxine_stammleri\|*Z. stammleri*]]
 
 **1′.** Flowers resupinate, thus labellum lowermost.
 
-**2.** Apical lobe of labellum transverse-elliptic, up to 2 times wider than long ^k2
+**2.** Apical lobe of labellum transverse-elliptic, up to 2 times wider than long
 
-**2′.** Apical lobe of labellum reniform at least 2.5 times wider than long.
-
+**2′.** Apical lobe of labellum reniform at least 2.5 times wider than long
 
 ## Species in region
 

@@ -27,27 +27,25 @@ B: Fischer (1992, 2004), Fischer et al. (2013), Rahmanzadeh et al. (2005).
 
 ## Key to the species
 
+**1.** Corolla tube not exceeding 6 mm in length; species of open places (marshes, bays, ruderal stations, secondary forests, sometimes rocks) → couplet **2**
 
-**1.** Corolla tube not exceeding 6 mm in length; species of open places (marshes, bays, ruderal stations, secondary forests, sometimes rocks) → [[#^k2|2]] ^k1
+**1′.** Corolla tube at least 7 mm in length; species of primary forests, near streams, swampy forests and inselbergs at the forest edge → couplet **4**
 
-**1′.** Corolla tube at least 7 mm in length; species of primary forests, near streams, swamp forests and inselbergs at the forest edge → [[#^k4|4]]
+**2.** Limb ovate to lanceolate; appendage of anterior stamens short and indistinct, reduced to a gibbosity; corolla with pale purplish-violet spots, tube 6 mm in length; mainly open places → [[Torenia_thouarsii\|*T. thouarsii*]]
 
-**2.** Limb ovate to lanceolate; appendage of anterior stamens short and indistinct, reduced to a gibbosity; corolla with pale purplish-violet spots, tube 6 mm in length; mainly open places → [[Torenia_thouarsii\|*T. thouarsii*]] ^k2
+**2′.** Limb ovate to orbicular; appendage of anterior stamens distinct and claviform; corolla with dark blue or dark blue-violet spots, tube 4–5 mm in length; secondary forests and rocks → couplet **3**
 
-**2′.** Limb ovate to orbicular; appendage of anterior stamens distinct and claviform; corolla with dark blue or dark blue-violet spots, tube 4–5 mm in length; secondary forests and rocks → [[#^k3|3]]
+**3.** Upper lip of corolla entire, lower lip with triangular blue spots toward the edge of the 3 lobes (Fig. 28), the three lobes each bearing in their upper half a blue spot extending to their apex, tube ± included in the calyx; calyx with distinct wings 1.5 mm in height; capsule entirely included in the calyx → [[Torenia_dinklagei\|*T. dinklagei*]]
 
-**3.** Upper lip of corolla entire, lower lip with triangular blue spots towards the edge of the 3 lobes (Fig. 28), the three lobes each bearing in their upper half a blue spot extending to their apex, tube ± included in the calyx; calyx with distinct wings 1.5 mm in height; capsule entirely included in the calyx → [[Torenia_dinklagei\|*T. dinklagei*]] ^k3
+**3′.** Upper lip of corolla bilobed at the apex, lobes of the lower lip with blue edges, above the median lobe a blue spot (Fig. 28), the median lobe with a blue spot just above the throat, tube ± exsert; calyx with indistinct wings < 1 mm in height; apex of capsule slightly visible → [[Torenia_crustacea\|*T. crustacea*]]
 
-**3′.** Upper lip of corolla bilobed at the apex, lobes of the lower lip with blue edges, above the median lobe a blue spot (Fig. 28), the median lobe with a blue spot just above the throat, tube ± exsert; calyx with inconspicuous wings < 1 mm in height; apex of capsule slightly visible → [[Torenia_crustacea\|*T. crustacea*]]
+**4.** Corolla mauve with two white bands on the lower lip, tube 12–15 mm in length; on inselbergs and quartzitic rocks in forest → [[Torenia_mannii\|*T. mannii*]]
 
-**4.** Corolla mauve with two white bands on the lower lip, tube 12–15 mm in length; on inselbergs and quartzitic rocks in forest → [[Torenia_mannii\|*T. mannii*]] ^k4
+**4′.** Corolla white or pink, tube 7–9 mm in length; dense forest → couplet **5**
 
-**4′.** Corolla white or pink, tube 7–9 mm in length; dense forest → [[#^k5|5]]
-
-**5.** Corolla white with lower lip greenish to pinkish; calyx lobes obtuse; anterior stamens with filaments geniculate in Z-shape, anthers unequal; limb coriaceous, dark green on upper surface, pale green on lower surface → [[Torenia_silvicola\|*T. silvicola*]] ^k5
+**5.** Corolla white with lower lip greenish to pinkish; calyx lobes obtuse; anterior stamens with geniculate filaments Z-shaped, anthers unequal; limb coriaceous, dark green on upper surface, pale green on lower surface → [[Torenia_silvicola\|*T. silvicola*]]
 
 **5′.** Corolla pink and white; calyx lobes acute; anterior stamens with geniculate filaments and claviform appendages, anthers equal; limb herbaceous, more or less concolorous → [[Torenia_daubyi\|*T. daubyi*]]
-
 
 ## Species in region
 

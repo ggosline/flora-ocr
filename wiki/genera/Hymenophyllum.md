@@ -26,15 +26,13 @@ In the broad sense approximately 300 species, mostly tropical.
 
 ## Key to the species
 
-
-**1.** Frond glabrous, margin entire (Mecodium) → I. H. Kühnii. ^k1
+**1.** Frond glabrous, margin entire (Mecodium) → I. H. Kühnii.
 
 **1′.** Frond bearing stellate hairs (Sphaerocionium).
 
-**2.** Stellate hairs only on the veins and margins; frond 5-15 cm → [[Hymenophyllum_hirsutum\|*H. hirsutum*]] ^k2
+**2.** Stellate hairs only on the veins and margins; frond 5-15 cm → [[Hymenophyllum_hirsutum\|*H. hirsutum*]]
 
 **2′.** Stellate hairs also on the parenchyma; frond reaching 30 cm → [[Hymenophyllum_splendidum\|*H. splendidum*]]
-
 
 ## Species in region
 

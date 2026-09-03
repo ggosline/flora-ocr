@@ -25,15 +25,13 @@ BIBLIOGRAPHY: Clarke et al. (2006), Erickson et al. (2005), Jeffrey (1967), Kera
 
 ## Key to the species
 
+**1.** Monoecious plant; male flowers solitary → [[Lagenaria_siceraria\|*L. siceraria*]]
 
-**1.** Monoecious plant; male flowers solitary → [[Lagenaria_siceraria\|*L. siceraria*]] ^k1
+**1′.** Dioecious plant; male flowers in raceme → couplet **2**
 
-**1′.** Dioecious plant; male flowers in raceme → [[#^k2|2]]
-
-**2.** Sepals glandular on the margins; receptacle of the male flower 4–5 cm long ^k2
+**2.** Sepals glandular on the margins; receptacle of the male flower 4–5 cm long
 
 **2′.** Sepals non-glandular; receptacle of the male flower 2–3 cm long → [[Lagenaria_breviflora\|*L. breviflora*]]
-
 
 ## Species in region
 

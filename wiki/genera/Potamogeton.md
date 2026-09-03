@@ -27,17 +27,15 @@ Rhizomatous or rhizomeless aquatic herbs, often with broader, more coriaceous fl
 | *P. octandrus* | Cameroon; to be sought in Gabon | Key only |
 | *P. nodosus* | Cameroon; to be sought in Gabon | Key only |
 
-## Key
+## Key to the species
 
+**1.** Submerged leaves < 3 mm wide, floating leaves with blade < 4 cm long; fruiting spike (excluding the peduncle) < 2 cm (to be sought in Gabon) → P. octandrus Poir.
 
-**1.** Submerged leaves under 3 mm wide; floating blades under 4 cm; fruiting spike under 2 cm — *P. octandrus*. ^k1
+**1′.** Submerged leaves > 3 mm wide, floating leaves, if present, with blade > 4 cm long; fruiting spike (excluding the peduncle) (1.5–)3–9 cm → couplet **2**
 
-**2.** Submerged leaves over 3 mm wide; floating blades, when present, over 4 cm; fruiting spike (1.5–)3–9 cm. ^k2
+**2.** Submerged leaves with petiole 0–3 cm, blade acute to mucronate; floating leaves present or absent in fertile plants; spike 3–9 cm long in fruit → [[Potamogeton_schweinfurthii\|*P. schweinfurthii*]]
 
-**1.** Submerged-leaf petiole 0–3 cm, blade acute to mucronate; floating leaves present or absent; fruiting spike 3–9 cm — [[Potamogeton_schweinfurthii|*P. schweinfurthii*]].
-
-**2.** Submerged-leaf petiole 2–15 cm, blade obtuse to subacute; floating leaves present on fertile plants; fruiting spike 1.5–5 cm — *P. nodosus*.
-
+**2′.** Submerged leaves with petiole 2–15 cm; blade obtuse to subacute; floating leaves present in fertile plants; spike 1.5–5 cm long in fruit (to be sought in Gabon) → P. nodosus Poir.
 
 ## Treatment
 

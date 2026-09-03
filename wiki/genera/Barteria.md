@@ -29,19 +29,17 @@ Bibliography: Breteler (1999), Sinsin (2006), Sleumer (1976).
 
 ## Key to the species
 
+**1.** Lamina up to 15(–20) cm in length, with 9–11(–14) pairs of lateral nerves; branches solid and free of ants or swollen over only a few cm and inhabited by ants; flowers solitary or sometimes in pairs; bracts not tearing → couplet **2**
 
-**1.** Blade up to 15(–20) cm long, with 9–11(–14) pairs of lateral veins; branches solid and free of ants or swollen for only a few cm and inhabited by ants; flowers solitary or sometimes in pairs; bracts not tearing → [[#^k2|2]] ^k1
+**1′.** Lamina of well-developed leaves, 20–40(–50) cm in length, with 13–20 pairs of lateral nerves; branchlets hollow over most of their length and inhabited by ants; flowers rarely solitary, often in odd number, 3–11; bracts often lacerate at anthesis → couplet **3**
 
-**1′.** Blade of well-developed leaves, 20–40(–50) cm long, with 13–20 pairs of lateral veins; branchlets hollow for most of their length and inhabited by ants; flowers rarely solitary, often in odd number, 3–11; bracts often lacerate at flowering → [[#^k3|3]]
+**2.** Branches solid, no myrmecodomes → [[Barteria_solida\|*B. solida*]]
 
-**2.** Branches solid, no myrmecodomes → [[Barteria_solida\|*B. solida*]] ^k2
+**2′.** Branches provided with myrmecodomes a few cm in length; bracts with the midvein prolonged as an awn → [[Barteria_nigritana\|*B. nigritana*]]
 
-**2′.** Branches furnished with myrmecodomes several cm long; bracts with the midvein prolonged in the form of an awn → [[Barteria_nigritana\|*B. nigritana*]]
+**3.** Flowers 3, 5, 7, 9 (11), arranged in a horseshoe surrounding half of the stem; fruits ellipsoid, 3–3.5 × 2–2.5 cm; bracts rounded to obtuse, rarely apiculate → [[Barteria_fistulosa\|*B. fistulosa*]]
 
-**3.** Flowers 3, 5, 7, 9 (11), arranged in a horseshoe surrounding half of the stem; fruits ellipsoid, 3–3.5 × 2–2.5 cm; bracts rounded to obtuse, rarely apiculate → [[Barteria_fistulosa\|*B. fistulosa*]] ^k3
-
-**3′.** Flowers solitary or 3 (5), rather axillary; sub-globose, ± 2 cm in diameter; bracts generally apiculate → [[Barteria_dewevrei\|*B. dewevrei*]]
-
+**3′.** Flowers solitary or in 3 (5), rather axillary; sub-globose, ± 2 cm in diameter; bracts generally apiculate → [[Barteria_dewevrei\|*B. dewevrei*]]
 
 ## Species in region
 

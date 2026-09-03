@@ -29,15 +29,13 @@ Bibliography
 
 ## Key to the species
 
+**1.** Leaves linear-lanceolate or oblong-linear, often hastate or sagittate at the base, subsessile, (0.5–)1–5 cm in length, glabrous → M. tridentata subsp. angustifolia
 
-**1.** Leaves linear-lanceolate or oblong-linear, often hastate or sagittate at the base, subsessile, (0.5–)1–5 cm in length, glabrous → M. tridentata subsp. angustifolia ^k1
+**1′.** Leaves ± ovate or ± deeply dissected with sinuate-dentate segments → couplet **2**
 
-**1′.** Leaves ± ovate or ± deeply lobed with sinuous-dentate segments → [[#^k2|2]]
+**2.** Leaves ± ovate, entire or 3-lobed to the middle → [[Merremia_hederacea\|*M. hederacea*]]
 
-**2.** Leaves ± ovate, entire or 3-lobed to the middle → [[Merremia_hederacea\|*M. hederacea*]] ^k2
-
-**2′.** Leaves ± deeply lobed with sinuous-dentate segments; ornamental species, introduced → M. dissecta (Jacq.) Hallier f.
-
+**2′.** Leaves ± deeply dissected with sinuate-dentate segments; ornamental species, introduced → M. dissecta (Jacq.) Hallier f.
 
 ## Species in region
 

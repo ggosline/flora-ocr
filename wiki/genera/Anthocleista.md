@@ -35,39 +35,37 @@ The genus comprises 14 species distributed in tropical Africa, Madagascar, and t
 
 ## Key to the species
 
-
-**1.** Sepals acuminate and keeled → [[Anthocleista_laxiflora\|*A. laxiflora*]] ^k1
+**1.** Sepals acuminate and keeled → [[Anthocleista_laxiflora\|*A. laxiflora*]]
 
 **1′.** Sepals rounded, not keeled.
 
-**2.** Lateral veins distinct; leaves clustered at the apex of small branchlets; trees candelabra-shaped or shrubs with trunk more or less divided. ^k2
+**2.** Lateral veins distinct; leaves clustered at the apex of small branchlets; trees candelabra-shaped or shrubs with trunk more or less divided.
 
-**3.** Branchlets with short paired spines; flower buds uniformly rounded or subtruncate at the apex. ^k3
+**3.** Branchlets with short paired spines; floral buds uniformly rounded or subtruncate at the apex.
 
-**4.** Branchlets bristling with spines; spines confluent at the base; leaves distinctly paler and more or less glaucous beneath, generally sessile, often ± lyrate; margin usually reflexed and undulate; corolla in the mature bud 2.5–4 times longer than the calyx. ^k4
+**4.** Branchlets bristling with spines; spines confluent at the base; leaves distinctly paler and more or less glaucous beneath, generally sessile, often ± lyrate; margin usually reflexed and undulate; corolla in the mature bud 2.5–4 times longer than the calyx.
 
-**4′.** Branchlets not distinctly spiny; spines at least half-connate; leaves not distinctly paler beneath, petiolate; margin neither reflexed nor undulate; corolla in the mature bud 5.5–6 times longer than the calyx.
+**4′.** Branchlets not distinctly spiny; spines at least half-fused; leaves not distinctly paler beneath, petiolate; margin neither reflexed nor undulate; corolla in the mature bud 5.5–6 times longer than the calyx.
 
 **3′.** If branchlets spiny, corolla in the mature bud not rounded but attenuate at the apex.
 
-**5.** Flower buds generally uniformly rounded at the apex; leaves petiolate. ^k5
+**5.** Floral buds generally uniformly rounded at the apex; leaves petiolate.
 
-**6.** Leaves obovate, generally rounded at the base; calyx not distinctly constricted; branchlets with discrete and rare spines, berry smooth when dry, 35–50 × 25–35 mm at maturity, with thick wall (approximately 3 mm) ^k6
+**6.** Leaves obovate, generally rounded at the base; calyx not distinctly constricted; branchlets with discrete and rare spines, berry smooth when dry, 35–50 × 25–35 mm at maturity, with thick wall (approximately 3 mm)
 
 **6′.** Leaves very narrowly obovate, always cuneate at the base; calyx distinctly constricted at the apex; branchlets never spiny; berry irregularly wrinkled when dry, 15–27 × 10–18 mm at maturity, with thin wall (approximately 1 mm) → [[Anthocleista_liebrechtsiana\|*A. liebrechtsiana*]]
 
-**5′.** Flower buds not rounded but cuneate at the apex; leaves petiolate and cuneate at the base or sessile; sepals smooth, erect against the base of the corolla and spreading under the fruit when dry → [[Anthocleista_schweinfurthii\|*A. schweinfurthii*]]
+**5′.** Floral buds not rounded but wedge-shaped at the apex; leaves petiolate and with cuneate base or sessile; sepals smooth, erect against the base of the corolla and spreading under the fruit when dry → [[Anthocleista_schweinfurthii\|*A. schweinfurthii*]]
 
 **2′.** Lateral veins indistinct; leaves not clustered at the apex of small branchlets; lianes, shrubs or sometimes trees (?); (see also 3. A. liebrechtsiana).
 
-**7.** Outer sepals as long as broad. ^k7
+**7.** Outer sepals as long as broad.
 
-**8.** 20–30 mm in length → [[Anthocleista_scandens\|*A. scandens*]] ^k8
+**8.** 20–30 mm in length → [[Anthocleista_scandens\|*A. scandens*]]
 
 **8′.** 4–8 mm in length → [[Anthocleista_microphylla\|*A. microphylla*]]
 
 **7′.** Outer sepals 1.5–2 times longer than broad, 12–17 × 8–11 mm, often torn at the apex → [[Anthocleista_obanensis\|*A. obanensis*]]
-
 
 ## Species in region
 

@@ -34,22 +34,21 @@ TYPE SPECIES: Microdesmis puberula Hook. f. ex Planchon.
 
 ## Key to the species
 
+### I. According to the specimens:
 
-I. Based on the specimens:
+**1.** Branchlets ± strongly pubescent.
 
-**1.** Branchlets ± strongly pubescent. ^k1
+**2.** Petals glabrous internally → [[Microdesmis_klainei\|*M. klainei*]]
 
-**2.** Petals glabrous internally → [[Microdesmis_klainei\|*M. klainei*]] ^k2
-
-**3.** Pistillode pubescent → [[Microdesmis_pierlotiana\|*M. pierlotiana*]] ^k3
+**3.** Pistillode pubescent → [[Microdesmis_pierlotiana\|*M. pierlotiana*]]
 
 **3′.** Pistillode glabrous → [[Microdesmis_puberula\|*M. puberula*]]
 
 **1′.** Branchlets glabrous or very strongly glabrescent.
 
-**4.** Petals pubescent or puberulent internally → [[Microdesmis_haumaniana\|*M. haumaniana*]] ^k4
+**4.** Petals pubescent or puberulent internally → [[Microdesmis_haumaniana\|*M. haumaniana*]]
 
-**4′.** Petals glabrous internally → 5. M. camerunensis II. Based on the specimens.
+**4′.** Petals glabrous internally → 5. M. camerunensis II. According to the specimens
 
 **2.** Branchlets glabrous → [[Microdesmis_camerunensis\|*M. camerunensis*]]
 
@@ -59,20 +58,19 @@ I. Based on the specimens:
 
 **4.** Ovary glabrous → [[Microdesmis_haumaniana\|*M. haumaniana*]]
 
-**4′.** Ovary pubescent → 2. M. pierlotiana III. Based on the Fruiting Specimens:
+**4′.** Ovary pubescent → 2. M. pierlotiana III. According to the Fruiting Specimens:
 
 **1.** Fruit entirely or partially pubescent or puberulent.
 
-**2.** Fruit entirely puberulent; diameter 1–2 cm.
+**2.** Fruit entirely puberulent; diameter of 1–2 cm.
 
-**3.** Apex of fruit not depressed 1. M. ki ¹. Apex of fruit depressed → 2. M. pierloti Fruit partially puberulent or pubescent; diameter less than 1 cm.
+**3.** Fruit apex not depressed 1. M. klainei ¹. Fruit apex depressed → 2. M. pierlotiana Fruit partially puberulent or pubescent; diameter less than 1 cm.
 
 **4.** (1–) 2 (–3) locules; apex pubescent → [[Microdesmis_puberula\|*M. puberula*]]
 
 **4′.** 3 locules; apex puberulent → [[Microdesmis_camerunensis\|*M. camerunensis*]]
 
 **1′.** Fruit glabrous → [[Microdesmis_haumaniana\|*M. haumaniana*]]
-
 
 ## Species in region
 

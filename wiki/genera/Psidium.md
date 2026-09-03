@@ -30,19 +30,17 @@ Type species: Psidium guajava L.
 
 ## Key to the species
 
+**1.** Calyx lobed in bud; leaves obovate, glabrous.. 1. Ps. cattleyanum.
 
-**1.** Calyx lobed in the bud; leaves obovate, glabrous.. 1. Ps. cattleyanum. ^k1
+**1′.** Calyx closed in bud.
 
-**1′.** Calyx closed in the bud.
+**2.** Leaves and branchlets glabrous, young branchlets quadrangular. Ps. Friedrichstahlianum.
 
-**2.** Leaves and branches glabrous, young branches quadrangular. Ps. Friedrichstahlianum. ^k2
+**2′.** Leaves and young branchlets pubescent.
 
-**2′.** Leaves and young branches pubescent.
+**3.** Young branchlets quadrangular, lateral leaf veins 12–16 pairs impressed above → 2. Ps. guajava.
 
-**3.** Young branches quadrangular, lateral leaf veins 12–16 pairs impressed above → 2. Ps. guajava. ^k3
-
-**3′.** Young branches rounded, lateral leaf veins 7–10 pairs not impressed above → Ps. guineense. From Gabon we have seen only one specimen of Ps. cattleyanum Sabine, Ps. guajava L., however, is very often cultivated and naturalized in tropical Africa, as well as in Gabon. Ps. guineense Sw. (= Ps. araca Raddi) is less frequent.
-
+**3′.** Young branchlets rounded, lateral leaf veins 7–10 pairs not impressed above → Ps. guineense. From Gabon we have seen only one specimen of Ps. cattleyanum Sabine, Ps. guajava L., however, is very often cultivated and naturalized in tropical Africa, as well as in Gabon. Ps. guineense Sw. (= Ps. araca Raddi) is less frequent.
 
 ## Species in region
 

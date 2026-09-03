@@ -32,9 +32,7 @@ The characters chosen for the distinction of species are: the dimensions of the 
 
 ## Key to the species
 
-
-**1′.** Leaves 3–5 jugate, with petiole 3–4 cm; leaflets 14–18 × 5–6 cm, not punctate; branchlets slightly puberulent, hairs 0.1 mm; inflorescence branched 2–3 times, 12–15 cm, slender; cymules with 1–3 flowers; pedicel 3 mm; sepal 1 mm; petal 3 mm; limb glabrous; filament villous; fruit 2–2.5 cm high, 2.5–3.5 cm wide; valves 2.5–4 mm thick → [[Eriocelum_petiolare\|*E. petiolare*]]
-
+**1′.** Leaves 3-5 jugate, with petiole 3-4 cm; leaflets 14-18 × 5-6 cm, not punctate; branchlets slightly puberulent, hairs 0.1 mm; inflorescence branched 2-3 times, 12-15 cm, slender; cymules 1-3-flowered; pedicel 3 mm; sepal 1 mm; petal 3 mm; limb glabrous; filament hairy; fruit 2-2.5 cm high, 2.5-3.5 cm wide; valves 2.5-4 mm thick → [[Eriocelum_petiolare\|*E. petiolare*]]
 
 ## Species in region
 

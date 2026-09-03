@@ -27,13 +27,11 @@ Small genus of tropical Africa comprising 3 (4) species. By its outer valvate pe
 
 ## Key to the species
 
+### I. Inflorescences subumbelliform, with peduncle 2-7 mm long; 2-3 cucullate bracts, pedicellate; mericarps subsessile, ellipsoid, 15-25 mm long, 10-12 mm wide, with smooth pericarp; seeds with smooth or very slightly granulate testa.. 1. C. glauca I'. Inflorescences fasciculate, not pedicellate; absence of pedicellate cucullate bracts; mericarps subglobose, 15-23 mm long, 11-25 mm wide, with tuberculate pericarp; stipe thick, reaching 15 mm; seeds with tuberculate testa.
 
-I. Inflorescences subumbelliform, with peduncles 2-7 mm long; 2-3 cucullate bracts, pedicellate; mericarps subsessile, ellipsoid, 15-25 mm long, 10-12 mm wide, with smooth pericarp; seeds with smooth or very slightly granular testa.. 1. C. glauca I'. Inflorescences fasciculate, not pedunculate; absence of pedicellate cucullate bracts; mericarps subglobose, 15-23 mm long, 11-25 mm wide, with tuberculate pericarp; stipe thick, reaching 15 mm; seeds with tuberculate testa.
+**2.** Leaves oblong, oblong-lanceolate to slightly falcate, shiny on upper surface; petiole 3-12 mm long; lateral nerves 10-24 pairs; inflorescences 2-9-flowered; outer petals elliptic-oblong, 7-12 mm long, 2-4 mm wide; carpels approximately 10 → *C. patens*
 
-**2.** Leaves oblong, oblong-lanceolate to slightly falciform, glossy on the upper face; petiole 3-12 mm long; lateral veins 10-24 pairs; inflorescences 2-9-flowered; external petals elliptic-oblong, 7-12 mm long, 2-4 mm wide; carpels c. 10 → *C. patens* ^k2
-
-**2′.** Leaves elliptic-oblong to obovate, dull on the upper face; petiole 10-15 mm long; lateral veins 10-12 pairs; inflorescences 2-3-flowered; external petals linear, 15-20 mm long, 2-3 mm wide; carpels c. 20 → 3. C. Staudtii.
-
+**2′.** Leaves elliptic-oblong to obovate, matte on upper surface; petiole 10-15 mm long; lateral nerves 10-12 pairs; inflorescences 2-3-flowered; outer petals linear, 15-20 mm long, 2-3 mm wide; carpels approximately 20 → [[Cleistopholis_staudtii\|*C. staudtii*]]
 
 ## Species in region
 

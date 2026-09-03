@@ -31,41 +31,39 @@ Large pantropical genus of approximately 200 species, essentially African. The g
 
 ## Key to the species
 
+**1.** Two tufts, sometimes closely pressed against each other, rarely a single one, of fleshy papillae at the centre of the labellum or near the apex → 1. sect. Elasticae (p. 246)
 
-**1.** Two tufts, sometimes closely pressed against each other, rarely a single one, of fleshy papillae at the center of the labellum or near the apex → 1. sect. Elasticae (p. 246) ^k1
+**1′.** Labellum with a single papillose crest, when it exists, near its base or at the centre → couplet **2**
 
-**1′.** Labellum with a single papillose crest, when present, near its base or at the center → [[#^k2|2]]
+**2.** Pseudobulbs well compressed dorsiventrally, lying on the substrate → 2. sect. Affines (p. 250)
 
-**2.** Pseudobulbs well compressed dorsi-ventrally, lying on the substrate → 2. sect. Affines (p. 250) ^k2
+**2′.** Pseudobulbs vertical, generally longer than wide → couplet **3**
 
-**2′.** Pseudobulbs vertical, generally longer than wide → [[#^k3|3]]
+**3.** Single leaf at the apex of the pseudobulb → 3. sect. Cultriformes (p. 254)
 
-**3.** Single leaf at the apex of the pseudobulb → 3. sect. Cultriformes (p. 254) ^k3
+**3′.** Leaves several → couplet **4**
 
-**3′.** Leaves several → [[#^k4|4]]
+**4.** Rushlike stems, thickened into very poorly differentiated pseudobulbs → 4. sect. Caulescentes (p. 260)
 
-**4.** Stems rush-like, thickened into very poorly differentiated pseudobulbs → 4. sect. Caulescentes (p. 260) ^k4
+**4′.** Stem thickened, at least at the base, into pseudobulbs → couplet **5**
 
-**4′.** Stem thickened, at least at the base, into pseudobulbs → [[#^k5|5]]
+**5.** Pseudobulbs superposed → 5. sect. Superpositae (p. 274)
 
-**5.** Pseudobulbs superposed → 5. sect. Superpositae (p. 274) ^k5
+**5′.** Pseudobulbs more or less fasciculate → couplet **6**
 
-**5′.** Pseudobulbs more or less fasciculate → [[#^k6|6]]
+**6.** Inflorescence branched → 6. sect. Polystachya (p. 276)
 
-**6.** Inflorescence branched → 6. sect. Polystachya (p. 276) ^k6
+**6′.** Inflorescence simple → 7. sect. Calluniflorae (p. 290)
 
-**6′.** Inflorescence simple → 7. sect. Calluniflorae (p. 290).
+**1.** Sect. Elasticae Kraenzl. Rep. Sp. Nov. Regni Veg., Beih. 39 : 97 (1926). Plants often aphyllous at the time of flowering. Inflorescence unbranched, fairly dense, multiflorous. Flowers small to medium. Labellum deflexed just above the base, provided with two cushions of hairs at the centre or near the apex, sometimes with a distinct keel at the base.
 
-**1.** Sect. Elasticae Kraenzl. Rep. Sp. Nov. Regni Veg., Beih. 39 : 97 (1926). Plants often aphyllous at the time of flowering. Inflorescence unbranched, rather dense, multiflorous. Flowers small to medium. Labellum deflexed just above the base, provided with two cushions of hairs at the center or near the apex, sometimes with a distinct keel at the base.
+**1.** Labellum without callus, with deflexed, cucullate or saccate apex → 25. 2. P. saccata
 
-**1.** Labellum without callus, with deflexed, cucullate or saccate apex → 25. 2. P. saccata.
+**1′.** Labellum with a prominent callus at the base, apex flat → couplet **2**
 
-**1′.** Labellum with a prominent callus at the base, apex flat → [[#^k2|2]]
+**2.** Epichile flabellate, hair tufts separated, reaching almost to the margins of the mesochile → 25. 1. P. pobeguinii
 
-**2.** Epichile flabellate, tufts of hairs separate, reaching almost to the margins of the mesochile → 25. 1. P. pobeguinii.
-
-**2′.** Epichile with dentate margins, tufts of hairs not reaching the margins of the mesochile → 25. 3. P. victoriae 1 mm.
-
+**2′.** Epichile with dentate margins, hair tufts not reaching the margins of the mesochile → 25. 3. P. victoriae 1 mm
 
 ## Species in region
 

@@ -33,17 +33,15 @@ As has already been remarked by Sinclair (Gardens Bull. Singapore 14: 167, 171, 
 
 ## Key to the species
 
+### I. Lower surface of leaves covered with very dense felt of white-yellowish stellate hairs.
 
-I. Lower leaf surface covered with a very dense felt of whitish-yellowish stellate hairs.
+**2.** Flowers arising on leafless branches; floral bud 10-15 mm in diameter; leaves oblong-lanceolate, 20-40 cm long, 4-11 cm wide, attenuate toward the base, which is itself rounded and decurrent on the petiole → [[Pachypodanthium_confine\|*P. confine*]]
 
-**2.** Flowers arising on leafless branches; floral bud 10–15 mm in diameter; leaves oblong-lanceolate, 20–40 cm long, 4–11 cm wide, attenuate towards the base, itself rounded and decurrent on the petiole → [[Pachypodanthium_confine\|*P. confine*]] ^k2
+**2′.** Flowers axillary on leafy branches; floral bud 5 mm in diameter; leaves smaller, 10-14 cm long, 2.5-3.5 cm wide, cuneiform at the base → 2. P. confine var. Sargosii I'. Lower surface of leaves sparsely covered with small stellate hairs.
 
-**2′.** Flowers axillary on leafy branches; floral bud 5 mm in diameter; leaves smaller, 10–14 cm long, 2.5–3.5 cm wide, cuneiform at the base → 2. P. confine var. Sargosii I'. Lower leaf surface scattered with small stellate hairs.
+**3.** Flowers extra-axillary; leaves narrowly oblong, shortly attenuate at both ends; petals white nacré; ovaries pubescent; stigmas obovoid; fruit with mericarps contiguous, detaching easily from one another → [[Pachypodanthium_staudtii\|*P. staudtii*]]
 
-**3.** Flowers extra-axillary; leaves narrowly oblong, shortly attenuate at both ends; petals pearly white; ovaries pubescent; stigmas obovoid; fruit with contiguous mericarps, detaching easily from one another → 2. P. Staudtii ^k3
-
-**3′.** Flowers axillary; leaves elliptic-lanceolate, attenuate towards each end from the median portion; petals red, becoming pink-yellow; ovaries puberulent; stigmas subtrigonous; fruit with mericarps fused to one another at the lower portion → 3. P. Barteri.
-
+**3′.** Flowers axillary; leaves elliptic-lanceolate, attenuate toward each end from the middle part; petals red, becoming pink-yellow; ovaries puberulent; stigmas subtrigonous; fruit with mericarps fused to one another at the lower part → *P. barteri*
 
 ## Species in region
 

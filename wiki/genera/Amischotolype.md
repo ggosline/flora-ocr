@@ -29,11 +29,9 @@ Bibliography
 
 ## Key to the species
 
+**1.** Creeping and ascending habit on tree trunks by means of cauline and aerial roots, up to 3 m tall; leaf blade narrowly elliptic-ovate to elliptic, generally 3 times longer than wide; peduncle up to 12 mm → [[Amischotolype_scandens\|*A. scandens*]]
 
-**1.** Climbing and ascending habit on tree trunks by means of cauline and aerial roots, up to 3 m in height; leaf blade narrowly elliptic-ovate to elliptic, generally 3 times longer than wide; peduncle up to 12 mm → [[Amischotolype_scandens\|*A. scandens*]] ^k1
-
-**1′.** Decumbent or erect habit up to 1 m in height, without aerial roots; leaf blade broadly elliptic to elliptic, generally no more than 2 times longer than wide; peduncle up to 3 mm → [[Amischotolype_tenuis\|*A. tenuis*]]
-
+**1′.** Decumbent or erect habit up to 1 m tall, without aerial roots; leaf blade broadly elliptic to elliptic, generally not more than 2 times longer than wide; peduncle up to 3 mm → [[Amischotolype_tenuis\|*A. tenuis*]]
 
 ## Species in region
 

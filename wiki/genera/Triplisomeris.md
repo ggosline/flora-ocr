@@ -49,35 +49,35 @@ Shrubby species known only from the type from central Gabon.
 
 ## Key to the species
 
-
-**1.** Stipules very large, foliaceous, persistent, 6-8 cm long; shrubs → 1. A. stipulacea. ^k1
+**1.** Stipules very large, foliaceous, persistent, 6–8 cm long; shrubs → 1. A. stipulacea.
 
 **1′.** Stipules small and caducous.
 
-**2.** Inflorescences on old wood or on the trunk. ^k2
+**2.** Inflorescences on old wood or on the trunk.
 
-**3.** Long and pendulous, very briefly branched, reaching up to 40 cm long; leaflets pubescent beneath. ^k3
+**3.** Long and pendulous, very briefly branched, reaching up to 40 cm long; leaflets pubescent beneath.
 
-**4.** Leaflets densely ferrugineous tomentose beneath; approximately 8 pairs of ovate lanceolate to oblong leaflets; trees. 2. A. ferrugine ^k4
+**4.** Leaflets densely ferruginous tomentose beneath; approximately 8 pairs of ovate-lanceolate to oblong leaflets; trees. 2. A. ferrugine
 
-**4′.** Leaflets silky silvery beneath; 4-7 pairs; leaflets oblong elongate, caudate acuminate; trees, shrubs → A. lamprophylla.
+**4′.** Leaflets silky silvery beneath; 4–7 pairs; leaflets oblong, elongate, caudate-acuminate; trees, shrubs → A. lamprophylla.
 
 **3′.** Fascicles of short racemes on the trunk; leaflets glabrous; → A. trunciflora.
 
-**2′.** Inflorescences short or at most 15 cm, on current-year or older branchlets.
+**2′.** Inflorescences short or at most 15 cm, on the current year's or older branches.
 
-**5.** Fruits with prominent, anastomosing transverse nerves; leaflets 3-4 pairs, ferrugineous tomentose beneath; tall trees. → 5. A. fragrans. ^k5
+**5.** Fruits with prominent, anastomosing transverse veins; leaflets 3–4 pairs, ferruginous tomentose beneath; large trees. → 5. A. fragrans.
 
-**5′.** Fruits with transverse nerves; leaflets ± silky silvery or golden beneath.
+**5′.** Fruits transversely veined; leaflets ± silky silvery or golden beneath.
 
-**6.** Inflorescences fasciculiform condensed, axillary; leaflets 3-5 pairs, somewhat lustrous beneath; trees → 6. A. Pynærtii. ^k6
+**6.** Inflorescences fasciculate and condensed, axillary; leaflets
 
-**6′.** Inflorescences in small laxly flowered panicles; leaflets 2-4 pairs.
+**3.** 5 pairs, somewhat shining beneath; trees → 6. A. Pynærtii.
 
-**7.** Receptacle glabrous externally → 7. A. macrophylla. ^k7
+**6′.** Inflorescences in small, loosely flowered panicles; leaflets 2–4 pairs.
 
-**7′.** Receptacle silky externally → 8. A. acuminata. 5'''. Fruits unknown; leaves 5-7 jugate; leaflets densely rusty tomentose beneath; inflorescences in short panicles, densely rusty tomentose, very contracted at the axil of fallen leaves, on one-year-old branchlets. 9. A. Pellegrinii.
+**7.** Receptacle glabrous externally → 7. A. macrophylla.
 
+**7′.** Receptacle silky externally → 8. A. acuminata. 5'''. Fruits unknown; leaves 5–7 jugate; leaflets densely rousse tomentose beneath; inflorescences in short, densely rousse tomentose panicles, very contracted at the axil of fallen leaves, on one-year-old branches. 9. A. Pellegrinii.
 
 ## Species in region
 

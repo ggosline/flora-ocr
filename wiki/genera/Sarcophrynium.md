@@ -26,37 +26,35 @@ This genus comprises 4 or 5 species, all from the forest regions of tropical Afr
 
 ## Key to the species
 
+**1.** Dense spiciform inflorescences, spikes solitary or in panicles ; bracts narrowly imbricate ; leaves elliptic to linear-elliptic, lamina gradually attenuated towards the base
 
-**1.** Inflorescences spiciform and dense, spikes solitary or in a raceme; bracts narrowly imbricate; leaves elliptic to linear-elliptic, with blade progressively attenuate toward the base ^k1
+**2.** Lamina glabrous on the lower surface → *S. brachystachyum*
 
-**2.** Blade glabrous on the lower surface → *S. brachystachyum* ^k2
+**2′.** Lamina pubescent on the lower surface → 2. S. brachystachyum var. puberulifolium.
 
-**2′.** Blade pubescent on the lower surface → 2. S. brachystachyum var. puberulifolium.
+**1′.** Inflorescence in lax panicle, bracts not imbricate.
 
-**1′.** Inflorescence in a lax panicle, bracts not imbricate.
+**3.** Rachis and inflorescence bracts villous-pubescent, as well as the leaf sheaths ; laminae glabrous → [[Sarcophrynium_villosum\|*S. villosum*]]
 
-**3.** Rachis and inflorescence bracts villous-pubescent, as well as the leaf sheaths; blades glabrous → [[Sarcophrynium_villosum\|*S. villosum*]] ^k3
+**3′.** Rachis and inflorescence bracts glabrous ; laminae and leaf sheaths glabrous or pubescent.
 
-**3′.** Rachis and inflorescence bracts glabrous; blades and leaf sheaths glabrous or pubescent.
+**4.** Fruits drupe-like ; median transverse section of the seed ± rhombic, intersecting the embryo once ; base of leaves rounded and subcordate, bracts 25–30 mm long.
 
-**4.** Fruits plum-shaped; median transverse section of seed ± rhomboid, cutting the embryo once; leaf base rounded and subcordate, bracts 25-30 mm long. ^k4
+**5.** Leaves glabrous on the lower surface → [[Sarcophrynium_prionogonium\|*S. prionogonium*]]
 
-**5.** Leaf glabrous on the lower surface → [[Sarcophrynium_prionogonium\|*S. prionogonium*]] ^k5
+**5′.** Lamina finely and densely pubescent on its lower surface → 5. S. prionogonium var. puberulifolium.
 
-**5′.** Blade finely and densely pubescent on its lower surface → 5. S. prionogonium var. puberulifolium.
+**4′.** Fruits piriform to subglobose, seeds with median transverse section ± hexagonal, intersecting the embryo twice ; base of leaves gradually attenuated ; bracts 15 to 20 mm long.
 
-**4′.** Fruits pyriform to subglobose, seeds with median transverse section ± hexagonal, cutting the embryo twice; leaf base progressively attenuate; bracts 15 to 20 mm long.
+**6.** Laminae glabrous on the lower surface.. 6. S. Schweinfurthianum.
 
-**6.** Blades glabrous on the lower surface.. 6. S. Schweinfurthianum. ^k6
+**6′.** Laminae pubescent on the lower surface
 
-**6′.** Blades pubescent on the lower surface.
+**7.** S. Schweinfurthianum var. puberulifolium.
 
-**7.** S. Schweinfurthianum var. puberulifolium. ^k7
+**1.** Sarcophrynium brachystachys (Benth.) K. Schum. (Pl. XXXI), p. 149)
 
-**1.** Sarcophrynium brachystachys (Benth.) K. Schum. (Pl. XXXI), p. 149).
-
-**1′.** Pfl. R. 4, 48 : 36 (1902). = Maranta (?) brachystachys Benth., Hook. Nig. Fl : 531 (1849). = Phrynium brachystachyum (Benth.) Koern., B. Soc. Nat. Moscou, 35, 1:108 (1862). = Phyllodes brachystachyum (Benth.) K. Schum., B. Jahrb. 15: 445 (1892). = Phrynium villosum K. Schum., B. Jahrb. 15 : 445 (1892) non de Benth. = Thalia brachystachys K. Koch., Allg. Gartenzeit. 25 : 146 (1857). = Phrynium molle A. Chev., Expl. Bot. A.O.F.: 631 (1920). Tufts formed by up to a dozen leaves around the central stem, up to 1 m tall. Leaves with blade elongate, attenuate at the base, glabrous except on the central vein on the upper surface, 20 to 40 cm long and more and up to about twenty centimeters wide. Callus up to 5 cm, sheaths pubescent. Inflorescence formed of one or several racemes which are then densely grouped. Racemes subsessile or on a peduncle reaching ca. 6 cm long. Internodes about 5 mm, pubescent. Bracts imbricate, 10-15, sometimes 20 × 8-10 mm, axillary to 4 to 5 biflorous cymes; common peduncle <<<---SECTION-BREAK--->>> as long as the bract, pedicels subequal, about 1 mm. Bracteoles acuminate, 1.5 mm long. Flowers with corolla about ten millimeters long (?), whitish-pink to purplish, staminodes yellow. Fruits orange-red, subspheric, 12-15 mm in diameter. Seeds subpyramidal, oblique, median transverse section quadrangular and cutting the embryo once. Type: Mann 1335, Congo. From Guinea to Central African Republic, Cameroon, Gabon and Belgian Congo. Plant of forest understory in swampy forests. The leaves are used for the manufacture of roofing or packaging (cassava loaves). Stems used for making ties. Vernacular names (after Walker and Sillans): Nkènè-gènè (Mpongwé, Galoa, Nkomi, Orungu); Nokènè-gènè (Apindji); Ndèna (Fang); Kèlè-gèlè (Ngowé); Kéli-géli (Balumbu); Kèlègè (Bavové); Dugègèli (Eshira, Bavarama, Bavungu, Bapunu); Okèkègèè (Mitsogo); Apèpèkoyè (Bakèlè); Kèlkèlè (Banzabi); Dudumwè (Béséki). MATERIAL STUDIED FOR GABON: Mann: 1908, Nun River. Klaine: 2906, Libreville. N. Hallé: 2228, région des Monts de Cristal.
-
+**1′.** Pfl. R. 4, 48 : 36 (1902). = Maranta (?) brachystachys Benth., Hook. Nig. Fl : 531 (1849). = Phrynium brachystachyum (Benth.) Koern., B. Soc. Nat. Moscou, 35, 1:108 (1862). = Phyllodes brachystachyum (Benth.) K. Schum., B. Jahrb. 15: 445 (1892). = Phrynium villosum K. Schum., B. Jahrb. 15 : 445 (1892) non de Benth. = Thalia brachystachys K. Koch., Allg. Gartenzeit. 25 : 146 (1857). = Phrynium molle A. Chev., Expl. Bot. A.O.F.: 631 (1920). Tufts formed by up to a dozen leaves around the central stem, up to 1 m tall. Leaves with elongate lamina, attenuated at the base, glabrous except on the central vein on the upper surface, 20 to 40 cm long and more and up to about twenty centimetres wide. Callus up to 5 cm, sheaths pubescent. Inflorescence formed of one or several racemes which are then densely grouped. Racemes subsessile or on a peduncle reaching approximately 6 cm long. Internodes of approximately 5 mm, pubescent. Bracts imbricate, 10–15, sometimes 20 × 8–10 mm, axilling 4 to 5 biflorous cymes ; common peduncle <<<---SECTION-BREAK--->>> as long as the bract, pedicels subequal, approximately 1 mm. Bracteoles acuminate, 1.5 mm long. Flowers with corolla about ten millimetres long (?), whitish-pink to violet, staminodes yellow. Fruits red-orange, subspheric, 12–15 mm diameter. Seeds subpyramidal, oblique, median transverse section quadrangular and intersecting the embryo once. Type: Mann 1335, Congo. From Guinea to Central African Republic, Cameroon, Gabon and ex-Belgian Congo. Plant of forest understory in swamp forests. The leaves are used for making roofs or packaging (cassava bread). Stems used for making cordage. Vernacular names (according to Walker and Sillans) : Nkènè-gènè (Mpongwé, Galoa, Nkomi, Orungu) ; Nokènè-gènè (Apindji) ; Ndèna (Fang) ; Kèlè-gèlè (Ngowé) ; Kéli-géli (Balumbu) ; Kèlègè (Bavové) ; Dugègèli (Eshira, Bavarama, Bavungu, Bapunu) ; Okèkègèè (Mitsogo) ; Apèpèkoyè (Bakèlè) ; Kèlkèlè (Banzabi) ; Dudumwè (Béséki). MATERIAL STUDIED FOR GABON: Mann : 1908, Nun River. Klaine : 2906, Libreville. N. Hallé : 2228, région des Monts de Cristal.
 
 ## Species in region
 

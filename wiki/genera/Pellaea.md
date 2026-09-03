@@ -24,9 +24,7 @@ Approximately 80 species, xerophilous, mainly in America, South Africa and Madag
 
 ## Key to the species
 
-
-**1′.** Frond bipinnate at the base, rachis bearing crisp, scattered hairs → 2. P. Holstii.
-
+**1′.** Frond bipinnate at the base, rachis bearing crisp, scattered hairs → [[Pellaea_holstii\|*P. holstii*]]
 
 ## Species in region
 

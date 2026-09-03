@@ -33,9 +33,7 @@ Genus of tropical West Africa comprising 2 species which are present in Gabon.
 
 ## Key to the species
 
-
-**1′.** Inflorescences in pauciflorous glomerules; flowers subtended by small bracts (c. 2 mm long); stamens 7–8; absence of intrastaminal staminode crown; pistil glabrous or glabrescent; stigmas slightly papilliferous → [[Trichostephanus_gabonensis\|*T. gabonensis*]]
-
+**1′.** Inflorescences in few-flowered glomerules; flowers supported by small bracts (approximately 2 mm long); stamens 7-8; absence of a crown of intrastaminal staminodes; pistil glabrous or glabrescent; stigmas slightly papilliferous → [[Trichostephanus_gabonensis\|*T. gabonensis*]]
 
 ## Species in region
 

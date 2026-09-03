@@ -25,43 +25,41 @@ BIBLIOGRAPHY: Jeffrey (1967), Keraudren (1967), Keraudren-Aymonin (1975), Schaef
 
 ## Key to the species
 
+**1.** Leaf with 3 to 9 leaflets → couplet **2**
 
-**1.** Leaf with 3 to 9 leaflets → [[#^k2|2]] ^k1
+**1′.** Simple leaves, with entire or lobed blade → couplet **4**
 
-**1′.** Simple leaves, with entire or lobed blade → [[#^k4|4]]
+**2.** Leaf with 9 leaflets → [[Momordica_enneaphylla\|*M. enneaphylla*]]
 
-**2.** Leaf with 9 leaflets → [[Momordica_enneaphylla\|*M. enneaphylla*]] ^k2
+**2′.** Leaf with 3 to 5 leaflets → couplet **3**
 
-**2′.** Leaf with 3 to 5 leaflets → [[#^k3|3]]
+**3.** Male inflorescence enclosed within a large bract; fruit covered with coarse hairs, without tubercles → [[Momordica_cissoides\|*M. cissoides*]]
 
-**3.** Male inflorescence included within a large bract; fruit covered with coarse hairs, without tubercles → [[Momordica_cissoides\|*M. cissoides*]] ^k3
+**3′.** Male inflorescence not enclosed within a large bract; fruit glabrous, bristling with conical tubercles → [[Momordica_gilgiana\|*M. gilgiana*]]
 
-**3′.** Male inflorescence not included within a large bract; fruit glabrous, bristling with conical tubercles → [[Momordica_gilgiana\|*M. gilgiana*]]
+**4.** Leaf blade coriaceous or subcoriaceous → couplet **5**
 
-**4.** Leaf blade coriaceous or subcoriaceous → [[#^k5|5]] ^k4
+**4′.** Leaf blade chartaceous, papyraceous or membranous → couplet **7**
 
-**4′.** Leaf blade chartaceous, papyraceous or membranous → [[#^k7|7]]
+**5.** Pedicel of male flower winged; petals 2.5–3 cm long → [[Momordica_cabrae\|*M. cabrae*]]
 
-**5.** Pedicel of male flower winged; petals 2.5–3 cm long → [[Momordica_cabrae\|*M. cabrae*]] ^k5
+**5′.** Pedicel of male flower not winged; petals ±8 mm long (male flower unknown in M. breteleri) → couplet **6**
 
-**5′.** Pedicel of male flower not winged; petals ±8 mm long (male flower unknown in M. breteleri) → [[#^k6|6]]
-
-**6.** Fruit with 5 to 7 fleshy longitudinal ridges → [[Momordica_jeffreyana\|*M. jeffreyana*]] ^k6
+**6.** Fruit with 5 to 7 fleshy longitudinal ridges → [[Momordica_jeffreyana\|*M. jeffreyana*]]
 
 **6′.** Fruit smooth, without fleshy ridges → [[Momordica_breteleri\|*M. breteleri*]]
 
-**7.** Male flowers solitary → [[Momordica_charantia\|*M. charantia*]] ^k7
+**7.** Male flowers solitary → [[Momordica_charantia\|*M. charantia*]]
 
-**7′.** Male flowers in umbels → [[#^k8|8]]
+**7′.** Male flowers in umbels → couplet **8**
 
-**8.** Anther with straight or slightly curved thecae → [[Momordica_multiflora\|*M. multiflora*]] ^k8
+**8.** Anther with straight or slightly curved locules → [[Momordica_multiflora\|*M. multiflora*]]
 
-**8′.** Anther with flexuous thecae → [[#^k9|9]]
+**8′.** Anther with flexuous locules → couplet **9**
 
-**9.** Sepals acuminate at the apex; anther with thecae folded once, glabrous; fruit ridged → [[Momordica_parvifolia\|*M. parvifolia*]] ^k9
+**9.** Sepals acuminate at apex; anther with locules folded once, glabrous; fruit ribbed → [[Momordica_parvifolia\|*M. parvifolia*]]
 
-**9′.** Sepals obtuse at the apex; anther with thecae in inverted S-shape, ciliate on the margins; fruit densely spiny, with fleshy spines → [[Momordica_foetida\|*M. foetida*]]
-
+**9′.** Sepals obtuse at apex; anther with locules in reversed S-shape, ciliate on margins; fruit densely spiny, with fleshy spines → [[Momordica_foetida\|*M. foetida*]]
 
 ## Species in region
 

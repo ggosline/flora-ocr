@@ -37,11 +37,9 @@ This pantropical and subtropical genus groups approximately 200 species; two are
 
 ## Key to the species
 
-
-**1.** Shrub unarmed; vegetative apparatus containing latex threads, fruit bivalved; aril completely surrounding the seed; filament very short; style short; petals reflexed inwardly and pubescent at the apex → [[Maytenus_acuminata\|*M. acuminata*]] ^k1
+**1.** Shrub unarmed; vegetative apparatus containing latex threads, fruit bivalved; aril completely surrounding the seed; filament very short; style short; petals reflexed inwardly and pubescent at the apex → [[Maytenus_acuminata\|*M. acuminata*]]
 
 **1′.** Shrub spiny; vegetative apparatus without latex; fruit trivalved; aril basal; filament long; style long; petals erect and glabrous → [[Maytenus_buchananii\|*M. buchananii*]]
-
 
 ## Species in region
 

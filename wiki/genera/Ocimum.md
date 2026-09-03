@@ -23,19 +23,17 @@ Notes: An occurrence of O. basilicum L. has been reported at Cape Lopez. Raponda
 
 ## Key to the species
 
+**1.** Calyx throat with a ring of hairs inside; annual or ephemeral herb → [[Ocimum_americanum\|*O. americanum*]]
 
-**1.** Calyx throat with a ring of hairs inside; annual or ephemeral herb → [[Ocimum_americanum\|*O. americanum*]] ^k1
+**1′.** Calyx throat glabrous inside; perennial herb or suffrutex → couplet **2**
 
-**1′.** Calyx throat glabrous inside; perennial herb or suffrutex → [[#^k2|2]]
+**2.** Calyx throat in fruit closed by the median teeth of the lower lip incurved, lower lip much shorter than the upper lip ( O . gratissimum ) .. 3
 
-**2.** Fruiting calyx throat closed by the incurved median teeth of the lower lip, lower lip much shorter than the upper lip ( O. gratissimum ) .. 3 ^k2
+**2′.** Calyx throat in fruit open, the 2 median teeth of the lower lip as long as or longer than the upper lip → [[Ocimum_tenuiflorum\|*O. tenuiflorum*]]
 
-**2′.** Fruiting calyx throat open, the 2 median teeth of the lower lip as long as or longer than the upper lip → [[Ocimum_tenuiflorum\|*O. tenuiflorum*]]
+**3.** Stem hairy all around; leaf lamina generally pubescent; inflorescence lax or dense → O. gratissimum var. gratissimum
 
-**3.** Stem hairy all around; leaf blade generally pubescent; inflorescence lax or dense → O. gratissimum var. gratissimum ^k3
-
-**3′.** Stem glabrous toward the base or with short hairs on one or two sides of the stem only; leaf blade glabrous or with hairs confined to the veins below; inflorescence lax → O. gratissimum var. macrophyllum.
-
+**3′.** Stem glabrous toward the base or with short hairs on one or two sides of the stem only; leaf lamina glabrous or with hairs confined to the veins beneath; inflorescence lax → O. gratissimum var. macrophyllum
 
 ## Species in region
 

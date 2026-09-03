@@ -47,73 +47,71 @@ Inflorescences very small, almost sessile: C. diffusiflora, C. Gossweileri, C. P
 
 ## Key to the species
 
-
-**1.** Leaves compound digitate 5-7-foliolate; stems thick fleshy; leaflets oblong obovate, nearly entirely glabrous ^k1
+**1.** Leaves compound digitate 5-7 foliolate; stems thick fleshy; leaflets oblong obovate, almost entirely glabrous
 
 **1′.** Leaves simple entire.
 
-**2.** Leaves with entire margin not denticulate, furnished with domatia on the lower surface. ^k2
+**2.** Leaves with margin entirely non-denticulate, provided with domatia on the lower surface.
 
-**3.** Plant glabrous to glabrescent → 2. C. Dinklagei. ^k3
+**3.** Plant glabrous to glabrescent → [[Cissus_dinklagei\|*C. dinklagei*]]
 
 **3′.** Plant densely pilose → 2. C. Dinklagei var. pilosa.
 
 **2′.** Leaves with denticulate margin.
 
-**4.** Leaves presenting simultaneously all the following characters: limb oval cordate to more or less orbicular, with base more or less deeply cordate, with apex terminated by a clear acumen, with palmatipinnate venation with tertiary veins ± parallel forming a ladder-like network. ^k4
+**4.** Leaves presenting at the same time all the following characters: lamina oval cordate to more or less orbicular, with base more or less deeply cordate, with apex terminated by a distinct acumen, with palmatipinnate venation with tertiary veins ± parallel forming a ladder-like network.
 
-**5.** Plant presenting on its various organs small black glands more or less fusiform → 3. C. Dewevrei. ^k5
+**5.** Plant presenting on its various organs small black glands more or less fusiform → [[Cissus_dewevrei\|*C. dewevrei*]]
 
 **5′.** Plant devoid of small black glands.
 
-**6.** Leaves presenting on the lower surface a very dense whitish or reddish pubescence, covering the limb and the veins, sometimes forming a very dense and fine tomentum. ^k6
+**6.** Leaves presenting on the lower surface a very dense whitish or reddish piloseness, covering the lamina and the veins, sometimes forming a very dense and fine tomentum.
 
-**7.** Dark red pubescence on the lower surface of the leaves; inflorescences and flowers pubescent but devoid (except the ovary) of medifixed hairs → [[Cissus_ruginosicarpa\|*C. ruginosicarpa*]] ^k7
+**7.** Pubescence dark red on the lower surface of the leaves; inflorescences and flowers pubescent but devoid (except the ovary) of medifixed hairs → [[Cissus_ruginosicarpa\|*C. ruginosicarpa*]]
 
-**7′.** Whitish or somewhat reddish pubescence on the lower surface of the leaves forming a very fine tomentum (sometimes making the limb appear glabrous); inflorescence axes and calyx presenting medifixed hairs.
+**7′.** Pubescence whitish or somewhat reddish on the lower surface of the leaves forming a very fine tomentum (sometimes making the lamina appear glabrous); inflorescence axes and calyx presenting medifixed hairs.
 
-**8.** Stems bearing a dense pubescence of simple hairs; flower elongate, 3 mm; pedicel with pubescence mixed with curly hairs and medifixed hairs → 5. C. amæna. ^k8
+**8.** Stems bearing a dense pubescence of simple hairs; flower elongate, 3 mm; pedicel with piloseness mixed of curled hairs and medifixed hairs → 5. C. amæna.
 
-**8′.** Stems bearing a lax pubescence of medifixed hairs; flower 2 mm long; pedicel with pubescence formed solely of medifixed hairs → [[Cissus_oreophila\|*C. oreophila*]]
+**8′.** Stems bearing a loose piloseness of medifixed hairs; flower 2 mm long; pedicel with piloseness formed only of medifixed hairs → [[Cissus_oreophila\|*C. oreophila*]]
 
-**6′.** Leaves glabrous, glabrescent or presenting dense pubescence only on the principal veins.
+**6′.** Leaves glabrous, glabrescent or presenting dense pubescence only on the main veins.
 
-**9.** Leaves with undulate margin, with teeth almost always completely revolute toward the lower surface, with more or less dense pubescence on the principal veins; stems cylindric → 7. C. Smithiana. ^k9
+**9.** Leaves with undulate margin, with teeth almost always completely revolute toward the lower surface, with more or less dense pubescence on the main veins; stems cylindrical → [[Cissus_smithiana\|*C. smithiana*]]
 
-**9′.** Leaves with non-undulate, plane margin, with teeth spreading, entirely glabrous or nearly so.
+**9′.** Leaves with non-undulate, plane margin, with teeth spreading, entirely glabrous or almost.
 
-**10.** Adult stems ± clearly quadrangular and winged; calyx and corolla glabrous → [[Cissus_petiolata\|*C. petiolata*]] ^k10
+**10.** Adult stems ± distinctly quadrangular and winged; calyx and corolla glabrous → [[Cissus_petiolata\|*C. petiolata*]]
 
-**10′.** Adult stems ± cylindric non-winged, flowers entirely pubescent → [[Cissus_prunifera\|*C. prunifera*]]
+**10′.** Adult stems ± cylindrical non-winged, flowers entirely pubescent → [[Cissus_prunifera\|*C. prunifera*]]
 
-**4′.** Leaves not presenting all the characters combined indicated; limb of varied form, with venation generally pennate.
+**4′.** Leaves not presenting all the characters indicated together; lamina of varied form, with venation generally pinnate.
 
-**11.** Domatia on the lower surface of the leaves, at the angle of the principal veins. ^k11
+**11.** Domatia on the lower surface of the leaves, at the angle of the main veins.
 
-**12.** Adult stems polygonal, narrowly winged, pedicels pilose → 10. C. Leonardii. ^k12
+**12.** Adult stems polygonal, narrowly winged, pedicels pilose → [[Cissus_leonardii\|*C. leonardii*]]
 
-**12′.** Adult stems cylindric non-winged; pedicels glabrous...
+**12′.** Adult stems cylindrical non-winged; pedicels glabrous
 
 **11′.** No domatia.
 
-**13.** Inflorescences very small, 1-2 cm long, sessile or briefly pedunculate. ^k13
+**13.** Inflorescences very small, 1-2 cm long, sessile or briefly pedunculate.
 
-**14.** Plant entirely glabrous or nearly so. ^k14
+**14.** Plant entirely glabrous or almost.
 
-**15.** Leaves lanceolate, 4-12 cm long; stems somewhat polygonal, winged or ribbed; pedicels glabrous... ^k15
+**15.** Leaves lanceolate, 4-12 cm long; stems somewhat polygonal, winged or ribbed; pedicels glabrous
 
-**15′.** Leaves suborbicular, 2-3 cm long; stems cylindric; pedicels pubescent → 13. C. Gossweileri.
+**15′.** Leaves suborbicular, 2-3 cm long; stems cylindrical; pedicels pubescent → [[Cissus_gossweileri\|*C. gossweileri*]]
 
-**14′.** Plant more or less densely pubescent.
+**14′.** Plant more or less densely pubescent
 
 **14.** C. diffusiflora.
 
-**13′.** Inflorescences large, 3-15 cm long, clearly pedunculate.
+**13′.** Inflorescences large, 3-15 cm long, distinctly pedunculate.
 
-**16.** Leaves entirely glabrous; pedicels bearing small rounded hairs not dense; connective of anthers thickened → 15. C. Barteri. ^k16
+**16.** Leaves entirely glabrous; pedicels bearing small rounded hairs not dense; anther connective thickened → [[Cissus_barteri\|*C. barteri*]]
 
-**16′.** Leaves presenting some tufts of hairs at the base of the principal veins; pedicel bearing a dense pubescence of medifixed hairs; connective of anthers not thickened → [[Cissus_producta\|*C. producta*]]
-
+**16′.** Leaves presenting some tufts of hairs at the base of the main veins; pedicel bearing dense piloseness of medifixed hairs; anther connective not thickened → [[Cissus_producta\|*C. producta*]]
 
 ## Species in region
 

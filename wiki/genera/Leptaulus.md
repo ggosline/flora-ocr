@@ -28,9 +28,7 @@ African and Malagasy genus grouping 5 species, of which 4 are present in Cameroo
 
 ## Key to the species
 
-
-**1′.** Flowers small (4 mm); young branches ± pubescent; style equal to or slightly exceeding the length of the corolla tube → [[Leptaulus_holstii\|*L. holstii*]]
-
+**1′.** Flowers small (4 mm); young branchlets ± pubescent; style equal to or slightly exceeding the length of the corolla tube → [[Leptaulus_holstii\|*L. holstii*]]
 
 ## Species in region
 

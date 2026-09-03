@@ -25,39 +25,37 @@ Inflorescences axillary, arising at the base of leaves on horizontal branches. F
 
 ## Key to the species
 
-
-**1.** Perianth tube furnished with stipitate glands persisting on the fruit → I. D. glandulosa. ^k1
+**1.** Perianth tube furnished with stipitate glands that persist on the fruit → I. D. glandulosa.
 
 **1′.** Perianth tube not glandular.
 
-**2.** Perianth tube densely velvety-silky. ^k2
+**2.** Perianth tube densely velutinous-silky.
 
-**3.** Flowers large, often exceeding 35 mm in length, with petals longer than the sepals or equalling them, with perianth tube narrow. ^k3
+**3.** Flowers large, often exceeding 35 mm in length, with petals longer than the sepals or equalling them, with narrow perianth tube.
 
-**4.** Petal lobes distinctly lacerate-fimbriate.. 2. D. pulcherrima ^k4
+**4.** Petal lobes distinctly lacerate-fimbriate.. 2. D. pulcherrima
 
-**4′.** Petal lobes entire or somewhat dentate, with distal part enlarged into a spatule, far exceeding the sepals, the latter rounded at the apex D. grandiflora Engl. 4'' Petal lobes slightly dentate, acute; sepals lanceolate acute → 3. D. Baertsiana.
+**4′.** Petal lobes entire or somewhat dentate, with distal portion enlarged spatulate, much exceeding the sepals, the latter rounded at the apex D. grandiflora Engl. 4'' Petal lobes slightly dentate, acute; sepals lanceolate acute → [[Dicranolepis_baertsiana\|*D. baertsiana*]]
 
-**3′.** Flowers medium-sized, 25-30 mm in length, with petals most often shorter than the sepals, with perianth tube thick, widened at the base D. vestita Engl. 3''. Flowers less than 25 mm, with tube very narrow → 4. D. Soyauxii.
+**3′.** Flowers medium-sized, 25–30 mm in length, with petals most often shorter than the sepals, with thick perianth tube, enlarged at the base D. vestita Engl. 3''. Flowers less than 25 mm, with tube very narrow → [[Dicranolepis_soyauxii\|*D. soyauxii*]]
 
-**2′.** Perianth tube pubescent-greyish, with rather short and stiff hairs, not velvety-silky (see also 2'').
+**2′.** Perianth tube pubescent-greyish, with rather short and rigid hairs, not velutinous-silky (see also 2'').
 
-**5.** Flowers more than 25 mm, with petals equalling or exceeding the sepals in general. ^k5
+**5.** Flowers more than 25 mm, with petals equal to or exceeding the sepals in general.
 
-**6.** Flowers shorter than the leaves, the latter very ovate, slightly oblique → 3. D. Baertsiana. ^k6
+**6.** Flowers shorter than the leaves, the latter very ovate, little oblique → [[Dicranolepis_baertsiana\|*D. baertsiana*]]
 
-**6′.** Flowers almost as long as or longer than the leaves, <<<---SECTION-BREAK--->>> the latter very asymmetric-oblique → D. polygaloides Gilg ex Pears (PL. IX).
+**6′.** Flowers almost as long or longer than the leaves, the latter very asymmetric-oblique → D. polygaloides Gilg ex Pears (PL. IX).
 
-**5′.** Flowers less than 25 mm, with petals almost always shorter than the sepals, with tube very narrow; leaves densely velvety-hirsute on lower face, with stiff and long hairs → 4. D. Soyauxii. 2''. Perianth tube furnished with scattered appressed hairs, or completely glabrous.
+**5′.** Flowers less than 25 mm, with petals almost always shorter than the sepals, with tube very narrow; leaves densely velutinous-hirsute on the lower surface, with rigid and long hairs → 4. D. Soyauxii. 2''. Perianth tube furnished with scattered appressed hairs, or completely glabrous.
 
-**7.** Flowers more than 20 mm, often reaching one-third or one-half the length of the leaves, with petal lobes equalling the sepals → [[Dicranolepis_disticha\|*D. disticha*]] ^k7
+**7.** Flowers more than 20 mm, often reaching one-third or one-half the length of the leaves, with petal lobes equalling the sepals → [[Dicranolepis_disticha\|*D. disticha*]]
 
 **7′.** Flowers less than 15 mm.
 
-**8.** Flowers reaching 1/4 or 1/3 the length of the leaves, with petal lobes smaller than the sepals → 6. D. Buchholzii. ^k8
+**8.** Flowers reaching 1/4 or 1/3 of the length of the leaves, with petal lobes smaller than the sepals → [[Dicranolepis_buchholzii\|*D. buchholzii*]]
 
-**8′.** Flowers exceeding one-half the length of the leaves, with petal lobes almost equalling the sepals; leaves very small, without individualized acumen → [[Dicranolepis_pusilla\|*D. pusilla*]]
-
+**8′.** Flowers exceeding one-half the length of the leaves, with petal lobes almost equalling the sepals; leaves very small, without an individualized acumen → [[Dicranolepis_pusilla\|*D. pusilla*]]
 
 ## Species in region
 

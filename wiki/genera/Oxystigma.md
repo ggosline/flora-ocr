@@ -39,11 +39,9 @@ A 3rd species, a large upland tree, O. Gilbertii Léonard has been recognized on
 
 ## Key to the species
 
+**1.** Small mangrove tree; 1–2 pairs of opposite leaflets, obtusely acuminate; venation clearly visible → [[Oxystigma_mannii\|*O. mannii*]]
 
-**1.** Small mangrove tree; 1-2 pairs of opposite leaflets, obtusely acuminate; venation clearly visible → 1. O. Mannii. ^k1
-
-**1′.** Riparian tree or shrub; falcate leaflets, acuminate, only the terminal ones opposite, the others alternate; venation nearly invisible. → 2. O. Buchholzii.
-
+**1′.** Riparian tree or shrub; falcate leaflets, acuminate, only the terminal ones opposite, the others alternate; venation nearly invisible. → [[Oxystigma_buchholzii\|*O. buchholzii*]]
 
 ## Species in region
 

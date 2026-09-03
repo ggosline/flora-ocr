@@ -31,15 +31,13 @@ Genus of 6 species, all from the Old World: 3 in continental Africa, 1 in Madaga
 
 ## Key to the species
 
+**1.** Flowers entirely glabrous; petals entire, with attenuate subulate appearance; regions of dense humid forests.
 
-**1.** Flowers entirely glabrous; petals entire, with attenuated subulate aspect; regions of dense humid forests. ^k1
+**2.** Flowers white or yellowish, small, 1.2–2 mm in diameter; leaves rarely green and concolorous when dry; flowers often brown when dry; young branches often slender, often not distinctly quadrangular
 
-**2.** Flowers white or yellowish, small, 1.2-2 mm in diameter; leaves rarely green and concolorous when dry; flowers often brown when dry; young branches often slender, often not distinctly quadrangular ^k2
+**2′.** Flowers green, 2.5–4 mm in diameter; leaves often green and concolorous when dry; flowers often blackish when dry; young branches often vigorous and often distinctly quadrangular → 1b. R. indica var. astericantha.
 
-**2′.** Flowers green, 2.5-4 mm in diameter; leaves often green and concolorous when dry; flowers often blackish when dry; young branches often vigorous and often distinctly quadrangular → 1b. R. indica var. astericantha.
-
-**1.** Flowers somewhat or very pubescent; petals somewhat denticulate and with non-attenuated subulate aspect; species of drier regions and notably of East Africa R. buchananii, and R. parviflora.
-
+**1.** Flowers somewhat or very pubescent; petals somewhat denticulate and with non-attenuate subulate appearance; species from drier regions and notably from East Africa R. buchananii, and R. parviflora.
 
 ## Species in region
 

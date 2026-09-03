@@ -28,11 +28,9 @@ This genus contains about forty species in all tropical regions. In Africa and M
 
 ## Key to the species
 
+**1.** Venation of leaflets scarcely visible; wings of the pinnae axis folded toward the upper surface; fruit 23.5–37.5 × 2.5–4 cm → [[Parkia_bicolor\|*P. bicolor*]]
 
-**1.** Venation of leaflets scarcely visible; wings of the pinnae rachis folded toward the upper surface; fruit 23.5–37.5 × 2.5–4 cm → [[Parkia_bicolor\|*P. bicolor*]] ^k1
-
-**1′.** Venation of leaflets prominent; wings of the pinnae rachis folded toward the lower surface; fruit long ribbon-like 33–66 × 1–1.6 cm → [[Parkia_filicoidea\|*P. filicoidea*]]
-
+**1′.** Venation of leaflets prominent; wings of the pinnae axis folded toward the lower surface; fruit long ribbon-like 33–66 × 1–1.6 cm → [[Parkia_filicoidea\|*P. filicoidea*]]
 
 ## Species in region
 

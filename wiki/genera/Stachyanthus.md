@@ -25,11 +25,9 @@ This genus endemic to Africa contains 6 species, of which 2 are present in Camer
 
 ## Key to the species
 
+**1.** Leaf base rounded; petals pubescent on the outside → [[Stachyanthus_zenkeri\|*S. zenkeri*]]
 
-**1.** Leaf base rounded; petals pubescent externally → [[Stachyanthus_zenkeri\|*S. zenkeri*]] ^k1
-
-**1′.** Leaf base cuneate or attenuate; petals glabrous externally → [[Stachyanthus_cuneatus\|*S. cuneatus*]]
-
+**1′.** Leaf base cuneate or attenuate; petals glabrous on the outside → [[Stachyanthus_cuneatus\|*S. cuneatus*]]
 
 ## Species in region
 

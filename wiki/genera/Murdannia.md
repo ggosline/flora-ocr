@@ -29,11 +29,9 @@ Bi: Brenan (1952), van der Burg (2006), Faden (1998, 2012), Faden & Inman (1996)
 
 ## Key to the species
 
-
-**1.** Slender herb, supported by vegetation; inflorescence unbranched, in fascicles at the axil of 1 to 3 terminal leaves, bearing 1(–2) hermaphrodite flowers; stamens 3, staminodes absent → [[Murdannia_tenuissima\|*M. tenuissima*]] ^k1
+**1.** Slender herb, supported by vegetation; inflorescence unbranched, in fascicles at the axil of 1 to 3 terminal leaves, bearing 1(–2) hermaphrodite flowers; stamens 3, staminodes absent → [[Murdannia_tenuissima\|*M. tenuissima*]]
 
 **1′.** More robust herb; inflorescence branched, with several flowers on each branch of the floral axis; stamens 2, staminodes 4 → [[Murdannia_simplex\|*M. simplex*]]
-
 
 ## Species in region
 

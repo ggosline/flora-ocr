@@ -39,65 +39,63 @@ Inflorescences in racemes of terminal cymes on lateral branches; the 3–5(7) su
 
 ## Key to the species
 
+**1.** Anther ± straight with erect apex, with apiculate connective or not; internal pubescence of the corolla arranged in a single zone of hairs which are generally all erect-ascending; disk glabrous annular-smooth, mammillate or cupuliform; style always glabrous; corolla often long or very long; seeds irregular or ± angular → MUSSAENDINA (Ovary with 2 locules: 14, Heinsia; 15, Pseudomussaenda; 16, Mussaenda; 20, Pseudosabicea; 21, Ecpoma). (Ovary with 3-5 locules: 17, Temnopteryx; 18, Stipularia; 19, Sabicea.)
 
-**1.** Anther ± straight with erect apex, connectiv apiculate or not; internal indumentum of corolla arranged in a single zone of hairs which are generally all erect-ascending; disk glabrous annular-smooth, mammilate or cupuliform; style always glabrous; corolla often long or very long; seeds irregular or ± angular → MUSSAENDINA (Ovary with 2 locules: 14, Heinsia; 15, Pseudomussaenda; 16, Mussaenda; 20, Pseudosabicea; 21, Ecpoma). (Ovary with 3-5 locules: 17, Temnopteryx; 18, Stipularia; 19, Sabicea.) ^k1
+**1′.** Anther ± curved, ± concave on the internal face, with acuminate introrse connective; internal pubescence of the corolla in one or two zones of hairs, the lower ones generally refract-descending; disk sometimes papilliferous or pubescent, generally ornamented with pits or radiating furrows; style pubescent or not; corolla often short or very short; seeds most often globular.. UROPHYLLINAE. (Ovary with 2 locules: 22, Pentaloncha; 24, Pauridiantha; 25, Commitheca; 26, Stelecantha). (Ovary with 3-5 locules: 23, Poecilocalyx; 25, Commitheca). MUSSAENDEAE: KEY TO THE GENERA
 
-**1′.** Anther ± curved, ± concave on the inner face, with acuminate introrse connectiv; internal indumentum of corolla in one or two zones of hairs, the lower ones generally reflex-descending; disk sometimes papilliferous or pubescent, generally ornamented with pits or radiating furrows; style pubescent or not; corolla often short or very short; seeds mostly globose.. UROPHYLLINAE. (Ovary with 2 locules: 22, Pentaloncha; 24, Pauridiantha; 25, Commitheca; 26, Stelecantha). (Ovary with 3-5 locules: 23, Poecilocalyx; 25, Commitheca). MUSSAENDEAE: KEY TO GENERA.
+**1.** Inflorescence presenting one or more petaloid attractive sepals.
 
-**1.** Inflorescence presenting one or more attractive petaloid sepals.
+**2.** Attractive sepals ± isolated on only a few flowers per inflorescence, white, red or pale yellow; terminal inflorescences.
 
-**2.** Attractive sepals ± isolated on only a few flowers per inflorescence, white, red or pale yellow; inflorescences terminal. ^k2
+**3.** Fruit dry elongate; valvate induplicate prefloration; plant ± shrubby; stigma ovoid → 15. Pseudomussaenda.
 
-**3.** Fruit dry elongate; prefloration induplicate valvate; plant ± shrubby; stigma ovoid → 15. Pseudomussaenda. ^k3
+**3′.** Fruit fleshy ± globoid; valvate prefloration; plant ± sarmentose or liane; stigma elongate → 16. Mussaenda. PL. 25. — References and magnifications: 1, N. Hallé 2405, 2 mm; 2, Zenker 2378, 0.6 mm; 3, Le Testu 8639, 0.6 mm; 4 and 4', Schweinfurth 3490, 0.6 mm; 5, Jean-Louis 9545, 0.6 mm; 6, Thollon s. n., 0.7 mm; 7, Le Testu 7522, 0.7 mm; 8, Jean-Louis 7429, diam. 2 mm; 9, N. Hallé 1864, 0.5 mm; 10, N. H. and G. C. 5891, 0.7 mm; 11, Letouzey 4025, 2.6 mm; 12, N. H. 2267, 0.6 mm; 13, A. Chev. 19668, 0.8 mm; 14, Jacques-Félix 2302, 2 mm; 15, Gossweiler 7661, 1.2 mm. <<<---SECTION-BREAK--->>>
 
-**3′.** Fruit fleshy ± globoid; prefloration valvate; plant ± sarmentose or liane; stigma elongate → 16. Mussaenda. PL. 25. — References and magnifications: 1, N. Hallé 2405, 2 mm; 2, Zenker 2378, 0.6 mm; 3, Le Testu 8639, 0.6 mm; 4 et 4', Schweinfurth 3490, 0.6 mm; 5, Jean-Louis 9545, 0.6 mm; 6, Thollon s. n., 0.7 mm; 7, Le Testu 7522, 0.7 mm; 8, Jean-Louis 7429, diam. 2 mm; 9, N. Hallé 1864, 0.5 mm; 10, N. H. et G. C. 5891, 0.7 mm; 11, Letouzey 4025, 2.6 mm; 12, N. H. 2267, 0.6 mm; 13, A. Chev. 19668, 0.8 mm; 14, Jacques-Félix 2302, 2 mm; 15, Gossweiler 7661, 1.2 mm.
+**2′.** Attractive sepals numerous, 5 or at least several in each flower, white or pale purplish; axillary inflorescences.
 
-**2′.** Attractive sepals numerous, 5 or at least several in each flower, white or pale violet; inflorescences axillary.
+**4.** Plant erect exceeding 0.50 m in height; ligneous stem; ovary with 3-4-5 locules; seeds prismatic → 17. Temnopteryx.
 
-**4.** Plant erect exceeding 0.50 m in height; stem woody; ovary with 3-4-5 locules; seeds prismatic → 17. Temnopteryx. ^k4
+**4′.** Plant prostrate-erect not exceeding 0.30 m in height; sub-ligneous stems; ovary with 2 locules; seeds globular
 
-**4′.** Plant prostrate-ascending not exceeding 0.30 m in height; stems sub-woody; ovary with 2 locules; seeds globose.
+**22.** Pentaloncha
 
-**22.** Pentaloncha ^k22
+**1′.** Inflorescence lacking petaloid attractive sepals.
 
-**1′.** Inflorescence devoid of attractive petaloid sepals.
+**5.** Plants sarmentose, liane-like or trailing.
 
-**5.** Plants sarmentose, lianescent or trailing. ^k5
+**6.** Ovary with 2 locules; flowers short or long.
 
-**6.** Ovary with 2 locules; flowers short or long. ^k6
+**7.** Flowers brightly colored exceeding 20 mm in diam.; terminal inflorescences → 16. Mussaenda.
 
-**7.** Flowers brightly coloured exceeding 20 mm in diam.; inflorescences terminal → 16. Mussaenda. ^k7
-
-**7′.** Flowers white or little coloured less than 10 mm in diam.; inflorescences terminal or axillary → 20. Pseudosabicea.
+**7′.** Flowers white or lightly colored less than 10 mm in diam.; terminal or axillary inflorescences → 20. Pseudosabicea.
 
 **6′.** Ovary with 5 locules; flowers long; fruits fleshy → 19. Sabicea.
 
-**5′.** Plants shrubby or sub-woody (down to herbaceous) erect.
+**5′.** Plants shrubby or sub-ligneous (down to herbaceous) erect.
 
-**8.** Prefloration quincuncial; fruit 10-20 mm in diam. crowned with large laminate calycinal lobes; flowers more than 10 mm in diam.; inflorescences terminal → 14. Heinsia. ^k8
+**8.** Quincuncial prefloration; fruit 10-20 mm in diam. crowned with large laminate calycine lobes; flowers more than 10 mm in diam.; terminal inflorescences → 14. Heinsia.
 
-**8′.** Prefloration valvate; fruit ordinarily 5-12 mm in diam., with small or attenuate lobes; flower less than 10 mm in diam.; inflorescences rarely terminal.
+**8′.** Valvate prefloration; fruit ordinarily 5-12 mm in diam., with small or filiform lobes; flowers less than 10 mm in diam.; inflorescences rarely terminal.
 
-**9.** Inflorescence enveloped by a urceolate involucre; ovary with 3-5 locules; placentas long and narrow → 18. Stipularia. ^k9
+**9.** Inflorescence enveloped by a urceolate involucre; ovary with 3-5 locules; placentas long and narrow → 18. Stipularia.
 
 **9′.** Inflorescence not enveloped in a urceolate involucre.
 
-**10.** Plants little or not branched, without plagiotrophic branches; in case of cauliflory, the calyx lobes are long-attenuate; placentas heart-shaped; ovaries with 2 locules without additional partial septa; corolla tube more than 5 times longer than broad; seeds angular → 21. Ecpoma. ^k10
+**10.** Plants little or not branched, without plagiotropous branches; in case of cauliflory, the calyx lobes are long and filiform; placentas heart-shaped; ovaries with 2 locules without additional partial septa; corolla tube more than 5 times longer than wide; seeds angular → 21. Ecpoma.
 
-**10′.** Plants branched; plagiotrophic branches floriferous; sometimes cauliflory but with truncate cupuliform calyces; placentas U- or V-shaped, or sometimes divided into two juxtaposed masses in the locule; 2-5 locules partially divided from the upper part by a false septum; corolla tube less than 3-4 times longer than broad; seeds generally globose.
+**10′.** Plants branched; plagiotropous branches floriferous; sometimes cauliflorous but with cupuliform truncate calyces; placentas U-shaped or V-shaped, or sometimes divided into two juxtaposed masses in the locule; 2-5 locules partially divided from the upper part by a false septum; corolla tube less than 3-4 times longer than wide; seeds generally globular.
 
-**11.** Stipules ± pubescent, with broad insertion or ± spreading over the interpetiolary space. ^k11
+**11.** Stipules ± pubescent, with broad insertion or ± spreading over the interpetiolary space.
 
-**12.** Sepals developed 5-nerved; inflorescences briefly pseudoumbelliform when pluriflorous; leaf domatia absent; stipules multifid or not; placentas cleft but not divided → 23. Poecilocalyx. N. HALLÉ. — RUBIACEAE-MUSSAENDEAE ^k12
+**12.** Sepals developed 5-nerved; inflorescences briefly pseudoumbelliform when pluriflorous; leaf domatia absent; stipules multifid or not; placentas split but not divided → 23. Poecilocalyx. <<<---SECTION-BREAK--->>> N. HALLÉ. — RUBIACEAE-MUSSAENDEAE
 
 **12′.** Sepals reduced 0-1 nerved; inflorescences ± cymose when pluri- or multiflorous; leaf domatia generally visible; stipules entire; placentas bilobed or divided into 2 masses.
 
-**11′.** Stipules quite glabrous, with narrow insertion or narrowed over the interpetiolary space.
+**11′.** Stipules completely glabrous, with narrow or constricted insertion in the interpetiolary space.
 
-**13.** Domatia present; petiolar channel with margins ± pubescent and thin → 25. Commitheca. ^k13
+**13.** Domatia present; petiolar channel with margins thin ± pubescent; style pubescent → 25. Commitheca.
 
-**13′.** Domatia absent; petiolar channel with margins blunt and glabrous; style glabrous → 26. Stelecantha.
-
+**13′.** Domatia absent; petiolar channel with blunt and glabrous margins; style glabrous → 26. Stelecantha.
 
 ## Species in region
 

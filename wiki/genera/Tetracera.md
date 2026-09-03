@@ -74,35 +74,31 @@ The genus is divided into two sections recognised in this treatment:
 | [[Tetracera_poggei\|*T. poggei* Gilg]] | *Akara* | liana, ≤6 m | Haut-Og, Og-Maritime (rare) | Petiole short, not winged (≤7 mm); pedicel **6–20(–30) mm slender**; sepals 5–10 mm; petals 4, **bilobed**, 9–15 mm; tertiary venation **reticulate** |
 | [[Tetracera_rosiflora\|*T. rosiflora* Gilg]] | *Akara* | liana, ≤30 m | Haut-Og, Og-Ivindo, Og-Lolo, Woleu-Ntem | Petiole short, not winged; pedicel robust; sepals **10–15 mm densely silky inside**; petals 4, **bilobed**, 13–20 mm; lateral nerves strongly impressed |
 
-## Key to the species in Gabon
+## Key to the species
 
+**1.** Inflorescence shorter than the subtending leaf or barely exceeding it, with few flowers (1 to 15); flower with 4 petals 9–23 mm long, bilobed or emarginate at the apex, and 4 sepals ± erect and appressed against the carpels at the fruiting stage; pedicel 6–30 mm; fruit with carpels 10–20 mm long, erect or sometimes oblique; petiole ≤ 5(–10) mm, canaliculate (sect. Akara) → couplet **2**
 
-Translated from Niangadouma, Lachenaud & Sosef (2022). Two species non-Gabonese but cited in the key are marked **(NG)** = not yet known from Gabon.
+**1′.** Inflorescence generally far exceeding the subtending leaf, with numerous flowers; flower with 2 or 3 petals 4–7 mm long, entire or nearly so, and generally 5 to 8 sepals (if only 4, then reflexed from anthesis); pedicel absent or reaching 7(–10) mm; fruit (unknown in T. breteleri) with carpels 5–10 mm long, spreading or oblique; petiole generally longer, ± winged (sect. Tetracera) → couplet **4**
 
-**—** **1.** Inflorescence shorter than the subtending leaf or barely exceeding it, with few flowers (1–15); flower with 4 petals 9–23 mm long, **bilobed or emarginate at apex**, and 4 sepals ± erect and appressed against the carpels in fruit; pedicel 6–30 mm; fruit with carpels 10–20 mm long, erect or sometimes oblique; petiole ≤5(–10) mm, canaliculate (sect. *Akara*) → **2**.
+**2.** Subshrub ≤ 1 m tall, with erect stems; leaf blade pubescent on both surfaces (to be sought in Gabon) → T. masuiana De Wild. & T.Durand
 
-**—** **2.** Suffrutex ≤1 m tall, with erect stems; leaf blade pubescent on both faces (NG) → ***T. masuiana* De Wild. & T.Durand**.
+**2′.** Liane or lianescent shrub several meters tall; leaf blade glabrous on the upper surface, except sometimes the midvein → couplet **3**
 
-**—** **2′.** Liana or scandent shrub of several metres; leaf blade glabrous above except sometimes on the midrib → **3**.
+**3.** Sepals 5–10 mm long, with short appressed pubescence inside; floral bud 4–6 mm in diameter; leaf blade attenuate at the base and ± decurrent on the petiole, with rather fine secondary veins (less prominent than the midvein); tertiary venation reticulate; pedicel slender, ± flexuous, glabrous or very sparsely pubescent → [[Tetracera_poggei\|*T. poggei*]]
 
-**—** **3.** Sepals 5–10 mm long, with short appressed pubescence within; flower bud 4–6 mm in diameter; leaf blade attenuate at base and ± decurrent on the petiole, with rather slender secondary nerves (less prominent than the midrib); tertiary venation reticulate; pedicel slender, ± flexuose, glabrous or very sparsely pubescent → [[Tetracera_poggei|*T. poggei*]]
+**3′.** Sepals 10–15 mm long, densely tomentose-silky inside; floral bud (6–)8–12 mm in diameter; leaf blade rounded to obtuse or barely acute at the base, with strong secondary veins, nearly as prominent as the midvein; tertiary venation scalariform; pedicel robust, straight, with ± dense pubescence → [[Tetracera_rosiflora\|*T. rosiflora*]]
 
-**—** **3′.** Sepals 10–15 mm long, densely tomentose-silky within; flower bud (6–)8–12 mm in diameter; leaf blade rounded to obtuse or barely acute at base, with strong secondary nerves almost as prominent as the midrib; tertiary venation scalariform; pedicel robust, straight, with ± dense pubescence → [[Tetracera_rosiflora|*T. rosiflora*]]
+**4.** Leaf blade discolorous, lower surface entirely covered with beige felted hairs (mixed with longer more scattered hairs, see figure 3D) and with entire margin; sepals densely pubescent outside → [[Tetracera_breteleri\|*T. breteleri*]]
 
-**—** **1′.** Inflorescence generally exceeding the subtending leaf considerably, many-flowered; flower with 2 or 3 petals 4–7 mm long, **entire or nearly so**, and generally 5–8 sepals (if only 4, then reflexed from anthesis); pedicel absent or up to 7(–10) mm; fruit (unknown in *T. breteleri*) with carpels 5–10 mm long, spreading or oblique; petiole generally longer, ± winged (sect. *Tetracera*) → **4**.
+**4′.** Leaf blade green on both surfaces, with hairs (if present) not felted and not covering the lower surface; sepals glabrous or very sparsely pubescent outside .. 5
 
-**—** **4.** Leaf blade discolorous, the lower surface entirely covered with a beige felt of woolly hairs (mixed with sparser long hairs — see Figure 3D), and with the margin entire; sepals densely pubescent externally → [[Tetracera_breteleri|*T. breteleri*]]
+**5.** Flower with (5)6 to 8 sepals densely silky on the inner surface, very unequal, the 2 or 3 outer ones much smaller; leaf blade very scabrous on both surfaces (to be sought in Gabon) → T. potatoria Afzel. ex G.Don
 
-**—** **4′.** Leaf blade green on both faces, with hairs (if present) not felted and not covering the lower surface; sepals glabrous or very sparsely pubescent externally → **5**.
+**5′.** Flower with 4 or 5(6) sepals glabrous on the inner surface, slightly unequal or sometimes one outer one much smaller; leaf blade smooth, or sometimes slightly scabrous → couplet **6**
 
-**—** **5.** Flower with (5)6 to 8 sepals **densely silky on the inner face**, very unequal — the 2 or 3 outer much smaller; leaf blade very scabrid on both faces (NG) → ***T. potatoria* Afzel. ex G.Don**.
+**6.** Sepals 4(5), already reflexed at anthesis, 3–5 mm long; petiole generally long-hairy; leaf blade with secondary veins often strongly corrugate above; fruit with follicles 5–7(–8) × 3–5(–6) mm → [[Tetracera_podotricha\|*T. podotricha*]]
 
-**—** **5′.** Flower with 4 or 5(6) sepals glabrous on the inner face, little unequal or sometimes one outer much smaller; leaf blade smooth, or sometimes slightly scabrid → **6**.
-
-**—** **6.** Sepals **4(5), already reflexed at anthesis**, 3–5 mm long; petiole generally long-villous; leaf blade with secondary nerves often deeply impressed above; fruit with follicles 5–7(–8) × 3–5(–6) mm → [[Tetracera_podotricha|*T. podotricha*]]
-
-**—** **6′.** Sepals **5(6), ± erect and remaining appressed against the carpels in fruit**, 5–8 mm long; petiole glabrous or with short appressed hairs; leaf blade with secondary nerves flat or barely impressed above; fruit with follicles 7–10 × 5–7 mm → [[Tetracera_alnifolia|*T. alnifolia* subsp. *alnifolia*]]
-
+**6′.** Sepals 5(6), ± erect and remaining appressed against the carpels at the fruiting stage, 5–8 mm long; petiole glabrous or with short appressed hairs; leaf blade with secondary veins plane or barely impressed above; fruit with follicles 7–10 × 5–7 mm → T. alnifolia subsp. alnifolia
 
 ## Species to be sought in Gabon
 

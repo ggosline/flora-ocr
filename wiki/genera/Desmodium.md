@@ -31,73 +31,73 @@ Hepper (1958), Lewis et al. (2005), Mackinder et al. (2001), van der Maesen (200
 
 ## Key to the species
 
+**1.** Leaves, or at least most, unifoliolate → couplet **2**
 
-**1.** Leaves, or at least most, unifoliolate → [[#^k2|2]] ^k1
+**1′.** Leaves with 3 leaflets → couplet **6**
 
-**1′.** Leaves with 3 leaflets → [[#^k6|6]]
+**2.** Calyx with 5 linear ± equal teeth ; inflorescence with long hairs ; leaflets with lamina
 
-**2.** Calyx with 5 linear teeth ± equal; inflorescence with long hairs; leaflets with blade ^k2
+**1.** 5–5 × 0.5–2 cm → couplet **3**
 
-**1.** 5–5 × 0.5–2 cm → [[#^k3|3]]
+**1′.** Calyx bilabiate ; inflorescence puberulent to pubescent ; leaflets with lamina 3–12 ×
 
-**1′.** Calyx bilabiate; inflorescence puberulent to pubescent; leaflets with blade 3–12 × 1–8 cm → [[#^k4|4]]
+**1.** 8 cm → couplet **4**
 
-**3.** Leaflets with blade silky-silvery beneath → D. barbatum var. argyreum ^k3
+**3.** Leaflets with lamina silky-silvery beneath → D. barbatum var. argyreum
 
-**3′.** Leaflets with blade pubescent beneath → D. barbatum var. dimorphum.
+**3′.** Leaflets with lamina pubescent beneath → D. barbatum var. dimorphum
 
-**4.** Inflorescence loose, 3–25 cm long; stipules subulate → [[#^k5|5]] ^k4
+**4.** Inflorescence lax, 3–25 cm long ; stipules subulate → couplet **5**
 
-**4′.** Inflorescence dense, 5–10(–15) cm long; stipules narrowed from the base into a slender point → [[Desmodium_velutinum\|*D. velutinum*]]
+**4′.** Inflorescence dense, 5–10(–15) cm long ; stipules narrowed from the base into a slender point → [[Desmodium_velutinum\|*D. velutinum*]]
 
-**5.** Plant suffrutescent, 1–2 m tall → D. gangeticum var. gangeticum ^k5
+**5.** Plant suffrutescent, 1–2 m tall → D. gangeticum var. gangeticum
 
-**5′.** Herb arising from a woody rootstock → D. gangeticum var. maculatum.
+**5′.** Herb arising from a woody rootstock → D. gangeticum var. maculatum
 
-**6.** Leaflets with blade narrowly elliptic to narrowly ovate, (6–)9–17 × 2–6.5 cm, at least 3 times longer than wide → D. salicifolium var. salicifolium ^k6
+**6.** Leaflets with lamina narrowly elliptic to narrowly ovate, (6–)9–17 × 2–6.5 cm, at least 3 times longer than wide → D. salicifolium var. salicifolium
 
-**6′.** Leaflets with blade ovate to obovate or broader, 0.4–9 × 0.4–4.5 cm, at most 2.2 times longer than wide → [[#^k7|7]]
+**6′.** Leaflets with lamina ovate to obovate or wider, 0.4–9 × 0.4–4.5 cm, at most 2.2 times longer than wide → couplet **7**
 
-**7.** Pod with dorsal suture straight or notched between the articles → [[#^k8|8]] ^k7
+**7.** Pod with dorsal suture straight or emarginate between the articles → couplet **8**
 
-**7′.** Pod with dorsal suture notched in the middle of the articles → [[Desmodium_ramosissimum\|*D. ramosissimum*]]
+**7′.** Pod with dorsal suture emarginate at the middle of the articles → [[Desmodium_ramosissimum\|*D. ramosissimum*]]
 
-**8.** Plant with procumbent stems, forming a mat; leaflets with blade obtriangular to obovate, 0.4–1.5 × 0.4–1.2 cm; inflorescence small, with 1 to 6(–8) flowers in the axils of the leaves → [[Desmodium_triflorum\|*D. triflorum*]] ^k8
+**8.** Plant with procumbent stems, forming a mat ; leaflets with lamina obtriangular to obovate, 0.4–1.5 × 0.4–1.2 cm ; inflorescence small, with 1 to 6(–8) flowers in the leaf axils → [[Desmodium_triflorum\|*D. triflorum*]]
 
-**8′.** Plant with erect stems or if procumbent, not forming a mat; leaflets with blade ovate to obovate, (1.3–)1.5–9 × 0.6–5.5 cm; inflorescence elongate, axillary and terminal, with more than 8 flowers → [[#^k9|9]]
+**8′.** Plant with erect stems or if procumbent, not forming a mat ; leaflets with lamina ovate to obovate, (1.3–)1.5–9 × 0.6–5.5 cm ; inflorescence elongate, axillary and terminal, with more than 8 flowers → couplet **9**
 
-**9.** Pod dehiscent along the ventral suture, and sometimes also between the articles; peduncle and pedicel slender, filiform; calyx with teeth ± 1.5 mm long; corolla pink → [[Desmodium_hirtum\|*D. hirtum*]] ^k9
+**9.** Pod dehiscing along the ventral suture, and sometimes also between the articles ; peduncle and pedicel slender, filiform ; calyx with teeth ± 1.5 mm long ; corolla pink → [[Desmodium_hirtum\|*D. hirtum*]]
 
-**9′.** Pod dehiscent only between the articles, or, if dehiscent along the sutures, then calyx with teeth 2–3.5 mm long and corolla white or slightly bluish; peduncle and pedicel slender to rather robust → [[#^k10|10]]
+**9′.** Pod dehiscing only between the articles, or, if dehiscing along the sutures, then calyx with teeth 2–3.5 mm long and corolla white or slightly bluish ; peduncle and pedicel slender to fairly robust → couplet **10**
 
-**10.** Plant erect; stem with silky or hooked hairs (hook-shaped) sometimes mixed with straight hairs → [[#^k11|11]] ^k10
+**10.** Plant erect ; stem with silky or uncinate hairs (hook-shaped) sometimes mixed with straight hairs → couplet **11**
 
-**10′.** Plant trailing or climbing; stem with only straight hairs → [[#^k14|14]]
+**10′.** Plant trailing or climbing ; stem with only straight hairs → couplet **14**
 
-**11.** Pod clearly notched on both margins; stipules free; plant with hooked hairs, sometimes mixed with straight hairs → [[#^k12|12]] ^k11
+**11.** Pod distinctly emarginate on both margins ; stipules free ; plant with uncinate hairs, sometimes mixed with straight hairs → couplet **12**
 
-**11′.** Pod with dorsal suture straight, the ventral notched; stipules partially connate or, if free, plant with gray-silvery, silky pubescence, without hooked hairs → [[#^k13|13]]
+**11′.** Pod with dorsal suture straight, the ventral one emarginate ; stipules partially connate or, if free, plant with gray-silvery, silky pubescence, without uncinate hairs → couplet **13**
 
-**12.** Stipules up to 8 mm wide at the base; pedicel ≤ 7 mm; pod with articles ellipsoid, 2–3 × 2–2.5 mm → [[Desmodium_distortum\|*D. distortum*]] ^k12
+**12.** Stipules up to 8 mm wide at the base ; pedicel ≤ 7 mm ; pod with ellipsoid articles, 2–3 × 2–2.5 mm → [[Desmodium_distortum\|*D. distortum*]]
 
-**12′.** Stipules up to 3.5 mm wide at the base; pedicel 11–16 mm; corolla white, pink or purple; pod with articles rhombic, 3–6.5 × 3–4 mm → [[Desmodium_tortuosum\|*D. tortuosum*]]
+**12′.** Stipules up to 3.5 mm wide at the base ; pedicel 11–16 mm ; corolla white, pink or violet ; pod with rhombic articles, 3–6.5 × 3–4 mm → [[Desmodium_tortuosum\|*D. tortuosum*]]
 
-**13.** Stipules free; plant with gray-silvery, silky pubescence, without hooked hairs → D. barbatum var. dimorphum ^k13
+**13.** Stipules free ; plant with gray-silvery, silky pubescence, without uncinate hairs → D. barbatum var. dimorphum
 
-**13′.** Stipules partially connate; plant with hooked hairs, sometimes mixed with straight hairs → [[Desmodium_incanum\|*D. incanum*]]
+**13′.** Stipules partially connate ; plant with uncinate hairs, sometimes mixed with straight hairs → [[Desmodium_incanum\|*D. incanum*]]
 
-**14.** Pod with raised reticulate venation; stipules with broadly cordate base and often amplexicaul → [[Desmodium_scorpiurus\|*D. scorpiurus*]] ^k14
+**14.** Pod with raised reticulate venation ; stipules with broadly cordate base and often amplexicaul → [[Desmodium_scorpiurus\|*D. scorpiurus*]]
 
-**14′.** Pod without raised reticulate venation; stipules with rounded base, not amplexicaul → [[#^k15|15]]
+**14′.** Pod without raised reticulate venation ; stipules with rounded base, not amplexicaul → couplet **15**
 
-**15.** Pod with articles 3.5–5.5 mm long; corolla often bicolour, purple and white, reddish or purple → [[#^k16|16]] ^k15
+**15.** Pod with articles 3.5–5.5 mm long ; corolla often bicolored, purple and white, reddish or violet → couplet **16**
 
-**15′.** Pod with articles 2–3 mm long; corolla white or sometimes bluish → [[Desmodium_setigerum\|*D. setigerum*]]
+**15′.** Pod with articles 2–3 mm long ; corolla white or sometimes bluish → [[Desmodium_setigerum\|*D. setigerum*]]
 
-**16.** Leaflets with blade 2–3(–5.5) cm long, with appressed puberulence above; bracts puberulent to glabrescent → D. adscendens var. adscendens ^k16
+**16.** Leaflets with lamina 2–3(–5.5) cm long, with appressed pubescence above ; bracts puberulent to glabrescent → D. adscendens var. adscendens
 
-**16′.** Leaflets with blade 3–5.5 cm long, glabrous above; bracts densely appressed-hairy → D. adscendens var. robustum.
-
+**16′.** Leaflets with lamina 3–5.5 cm long, glabrous above ; bracts densely appressed-hairy → D. adscendens var. robustum
 
 ## Species in region
 

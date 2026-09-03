@@ -33,11 +33,9 @@ TYPE SPECIES: C. nitida Jacq.
 
 ## Key to the species
 
+**1.** Flowers in stipitate glomerules; branchlets pubescent; leaves densely villous on the lower surface; lateral nerves 12-16 pairs → [[Casearia_stipitata\|*C. stipitata*]]
 
-**1.** Flowers in stipitate glomerules; branches pubescent; leaves densely velutinous on the lower surface; lateral nerves 12-16 pairs → [[Casearia_stipitata\|*C. stipitata*]] ^k1
-
-**1′.** Flowers in sessile or subsessile glomerules; branches glabrous; leaves glabrous; lateral nerves (6)-8-10 pairs → [[Casearia_barteri\|*C. barteri*]]
-
+**1′.** Flowers in sessile or subsessile glomerules; branchlets glabrous; leaves glabrous; lateral nerves (6)-8-10 pairs → [[Casearia_barteri\|*C. barteri*]]
 
 ## Species in region
 

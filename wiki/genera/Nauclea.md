@@ -27,31 +27,29 @@ Type species, N. orientalis L. (= Sarcocephalus cordatus Miq.) from Asia.
 
 ## Key to the species
 
+**1.** Stipules reduced deltoid; calyx lobes free from their base.
 
-**1.** Stipules reduced deltoid; calyx lobes free from their base. ^k1
+**2.** Calyx lobes with flat obconic apex, ± pubescent and very caducous; seeds not margined; infructescence red adorned with apparent alveoles; midvein ± puberulent on the lower surface of the limb → I. N. latifolia.
 
-**2.** Calyx lobes with obconical flat apex, ± pubescent and very caducous; seeds not margined; fruit cluster red adorned with apparent alveoles; midvein ± puberulent on the lower surface of the blade → I. N. latifolia. ^k2
-
-**2′.** Calyx lobes with ± prominent apex, densely pubescent and persistent; seeds margined; fruit cluster yellowish finely spongy on surface, without apparent alveoles → 2. N. Pobeguini.
+**2′.** Calyx lobes with ± prominent apex, densely pubescent and persistent; seeds margined; infructescence yellowish finely spongy on the surface, without apparent alveoles → [[Nauclea_pobeguini\|*N. pobeguini*]]
 
 **1′.** Stipules developed ovate; calyx lobes ± concrescent.
 
-**3.** Keel thin, very prominent on the axis of the stipules; apex of the inflorescence peduncle swollen subcapitate; calyx lobes pubescent, fused by ± distinct groups and weakly adhering to each other: they isolate on the surface of the fruit giving it a ± echinulate aspect → 3. N. Diderrichii. ^k3
+**3.** Keel thin, very prominent on the axis of the stipules; apex of the inflorescence peduncle swollen subcapitate; calyx lobes pubescent, fused by ± distinct groups and weakly adhering to each other: they become isolated on the fruit surface giving it a ± echinoidal appearance → [[Nauclea_diderrichii\|*N. diderrichii*]]
 
-**3′.** No narrow keel on the stipules, sometimes only toward the base an ± obtuse bump; apex of the inflorescence peduncle attenuate; calyx lobes glabrous or moderately ciliate, all fused to each other; they form an uninterrupted network on the surface of the fruit.
+**3′.** No narrow keel on the stipules, sometimes only towards the base an obtuse ± boss; apex of the inflorescence peduncle attenuate; calyx lobes glabrous or moderately ciliate, all fused together; they form an uninterrupted network on the fruit surface.
 
-**4.** Inflorescence of approx. 4–6 cm diam.; stigmatic club 3 or 4 times longer than wide; internodes swollen by myrmeccocecidies; base of the leaf blade often very enlarged ^k4
+**4.** Inflorescence of ca. 4–6 cm in diam.; stigmatic club 3 or 4 times longer than wide; internodes swollen by myrmecocecidies; base of the leaf limb often very widened
 
-**4′.** Inflorescences of 3.5 cm diam. or less; stigmatic club 2 to 3 times longer than wide; no myrmeccocecidies; base of the blade rounded to cuneiform.
+**4′.** Inflorescences of 3.5 cm in diam. or less; stigmatic club 2 to 3 times longer than wide; no myrmecocecidies; base of the limb rounded to cuneiform.
 
-**5.** Leaves entirely glabrous. ^k5
+**5.** Leaves entirely glabrous.
 
-**6.** Vigorous young branches 2–5 mm wide; blade ± broadly ovate to obovate → 5. N. Gilletii. ^k6
+**6.** Young vigorous branches 2–5 mm wide; limb ± broadly ovate to obovate → [[Nauclea_gilletii\|*N. gilletii*]]
 
-**6′.** Slender young branches 1 to 3 mm wide; blade rather narrow lanceolate → 5 bis. N. Gilletii var. lancifolia.
+**6′.** Young slender branches 1 to 3 mm wide; limb rather narrow lanceolate → 5 bis. N. Gilletii var. lancifolia.
 
-**5′.** Leaves pubescent below → *N. xanthoxylon*.
-
+**5′.** Leaves pubescent below → *N. xanthoxylon*
 
 ## Species in region
 

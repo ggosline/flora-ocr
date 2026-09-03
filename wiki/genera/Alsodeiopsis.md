@@ -66,35 +66,33 @@ This African genus comprises 11 species, of which 7 are present in Cameroon and 
 
 ## Key to the species
 
+**1.** 8-19 pairs of secondary veins.
 
-**1.** 8-19 pairs of secondary nerves. ^k1
+**2.** Lower surface of lamina glabrous → [[Alsodeiopsis_mannii\|*A. mannii*]]
 
-**2.** Abaxial leaf surface glabrous → [[Alsodeiopsis_mannii\|*A. mannii*]] ^k2
+**2′.** Lower surface of lamina pubescent; petiole pubescent → [[Alsodeiopsis_rubra\|*A. rubra*]]
 
-**2′.** Abaxial leaf surface pubescent; petiole pubescent → [[Alsodeiopsis_rubra\|*A. rubra*]]
+**1′.** 6-8 pairs of secondary veins.
 
-**1′.** 6-8 pairs of secondary nerves.
+**3.** Hairs erect on lower surface → 7. A. poggei var. poggei.
 
-**3.** Hairs erect on the abaxial surface → 7. A. poggei var. poggei. ^k3
+**3′.** Hairs appressed on lower surface.
 
-**3′.** Hairs appressed on the abaxial surface.
+**4.** Upper surface pubescent → [[Alsodeiopsis_weissenborniana\|*A. weissenborniana*]]
 
-**4.** Adaxial surface pubescent → [[Alsodeiopsis_weissenborniana\|*A. weissenborniana*]] ^k4
+**4′.** Upper surface glabrous or glabrescent.
 
-**4′.** Adaxial surface glabrous or glabrescent.
+**5.** Lower surface with reddish-brown or yellowish pubescence; lamina narrowly elliptic in shape → [[Alsodeiopsis_zenkeri\|*A. zenkeri*]]
 
-**5.** Abaxial surface with reddish-brown or yellowish pubescence; leaf blade narrowly elliptic in shape → [[Alsodeiopsis_zenkeri\|*A. zenkeri*]] ^k5
+**5′.** Lower surface with white pubescence; lamina elliptic to oblong-elliptic in shape.
 
-**5′.** Abaxial surface with white pubescence; leaf blade elliptic to oblong-elliptic in shape.
+**6.** Apex of lamina distinctly acute acuminate mucronate → [[Alsodeiopsis_rowlandii\|*A. rowlandii*]]
 
-**6.** Leaf apex distinctly acute acuminate mucronate → [[Alsodeiopsis_rowlandii\|*A. rowlandii*]] ^k6
+**6′.** Apex of lamina obtuse acuminate mucronate.
 
-**6′.** Leaf apex obtuse acuminate mucronate.
+**7.** Base unequal-sided rounded on one side and attenuate on the other; pubescence of lower surface of lamina rather sparse → *A. staudti*
 
-**7.** Base inequilateral rounded on one side and attenuate on the other; pubescence of the abaxial leaf surface rather sparse → *A. staudti* ^k7
-
-**7′.** Leaf base inequilateral rounded on both sides; pubescence of the abaxial surface dense → 7. A. poggei var. robynsii.
-
+**7′.** Base of lamina unequal-sided rounded on both sides; pubescence of lower surface dense → 7. A. poggei var. robynsii.
 
 ## Species in region
 

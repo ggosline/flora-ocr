@@ -31,15 +31,13 @@ De la Estrella et al. (2010), Gillett (1963, 1971c), Cronquist (1954), Lewis et 
 
 ## Key to the species
 
+**1.** Petals reaching 12 cm in length, white, pink or red; seed ± 7 mm in length; plant cultivated and sometimes escaped from cultivation → [[Sesbania_grandiflora\|*S. grandiflora*]]
 
-**1.** Petals reaching 12 cm in length, white, pink or red; seed ± 7 mm in length; cultivated plant and sometimes escaped from cultivation → [[Sesbania_grandiflora\|*S. grandiflora*]] ^k1
+**1′.** Petals reaching 1.7 cm in length, yellow; seed 3–4 mm in length; indigenous plants → couplet **2**
 
-**1′.** Petals reaching 1.7 cm in length, yellow; seed 3–4 mm in length; indigenous plants → [[#^k2|2]]
+**2.** Branchlets with silky pubescence; leaflets with blade scattered above with small black dots; appendages of the standard entirely adnate → [[Sesbania_sericea\|*S. sericea*]]
 
-**2.** Branchlets with silky pubescence; leaflets with blade scattered above with small black dots; appendages of the standard entirely adnate → [[Sesbania_sericea\|*S. sericea*]] ^k2
-
-**2′.** Branchlets glabrous, sometimes somewhat spiny; leaflets with blade generally without black dots; appendages of the standard with apex free for ± 2 mm .. S. sesban subsp. punctata.
-
+**2′.** Branchlets glabrous, sometimes somewhat spiny; leaflets with blade generally without black dots; appendages of the standard with apex free for ± 2 mm .. S. sesban subsp. punctata
 
 ## Species in region
 

@@ -59,19 +59,13 @@ Bibliography: Aubréville (1968), Lewis et al. (2005), Velayos et al. (2010), Wi
 
 ## Key to the species
 
+**1.** Leaflets with limb pubescent or puberulent beneath → couplet **2**
 
-**1.** Leaflets more or less densely ferruginous-pubescent. Secondary veins and veinlets very prominent beneath → [[Amphimas_ferrugineus\|*A. ferrugineus*]] ^k1
+**1′.** Leaflets with limb glabrous beneath → [[Amphimas_pterocarpoides\|*A. pterocarpoides*]]
 
-**1′.** Leaflets glabrous, with midvein remaining pubescent beneath. Veins and veinlets slightly prominent beneath → [[Amphimas_pterocarpoides\|*A. pterocarpoides*]]
+**2.** Stipules 10–20 mm long; stipels 3–8 mm long; leaflets with limb apex obtuse to slightly acute → [[Amphimas_ferrugineus\|*A. ferrugineus*]]
 
-**1.** Leaflets with blade pubescent or puberulent beneath → [[#^k2|2]]
-
-**1′.** Leaflets with blade glabrous beneath → [[Amphimas_pterocarpoides\|*A. pterocarpoides*]]
-
-**2.** Stipules 10–20 mm long; stipels 3–8 mm long; leaflets with blade apex obtuse to slightly acute → [[Amphimas_ferrugineus\|*A. ferrugineus*]] ^k2
-
-**2′.** Stipules 20–25 mm long; stipels 10–20 mm long; leaflets with blade apex long-acuminate → [[Amphimas_tessmannii\|*A. tessmannii*]]
-
+**2′.** Stipules 20–25 mm long; stipels 10–20 mm long; leaflets with limb apex long-acuminate → [[Amphimas_tessmannii\|*A. tessmannii*]]
 
 ## Species in region
 

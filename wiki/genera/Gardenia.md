@@ -37,15 +37,13 @@ they frequent especially the regions of savannas and dry forests there.
 
 ## Key to the species
 
-
-**1.** Leaves opposite; flowers pendulous, large, pentamerous; corolla infundibuliform; style glabrous; small riparian tree of dense forest → [[Gardenia_imperialis\|*G. imperialis*]] ^k1
+**1.** Leaves opposite; flowers pendulous, large, pentamerous; corolla infundibuliform; style glabrous; small riparian tree of dense forest → [[Gardenia_imperialis\|*G. imperialis*]]
 
 **1′.** Leaves ternate; flowers ± erect, pleiomerous; corolla tubular; style pubescent; shrub or small tree.
 
-**2.** Leaves rather large, often 12-20 cm long, with acuminate apex; fruit narrowly fusiform, often curved; corolla with 6 or 7 lobes 3.5 to 6 cm long; unarmed shrub of ± dense forest ^k2
+**2.** Leaves rather large, often 12–20 cm long, with acuminate apex; fruit narrowly fusiform often curved; corolla with 6 or 7 lobes 3.5 to 6 cm long; unarmed shrub of ± dense forest → [[Gardenia_jovis-tonantis\|*G. jovis-tonantis*]]
 
-**2′.** Leaves small, 5-11 cm long, with obtuse or rounded apex; fruit ± briefly ellipsoid; corolla with 8-9 lobes 1.5-3.5 cm long; shrub with spiniform branches, of savanna → 3. G. Jovis-tonantis.
-
+**2′.** Leaves small, 5–11 cm long, with obtuse or rounded apex; fruit ± briefly ellipsoid; corolla with 8–9 lobes 1.5–3.5 cm long; shrub with spiniform branches, of savanna → [[Gardenia_jovis-tonantis\|*G. jovis-tonantis*]]
 
 ## Species in region
 

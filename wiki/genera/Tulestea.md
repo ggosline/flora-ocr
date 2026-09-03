@@ -24,6 +24,16 @@ are extrorse, longer than the filaments, somewhat acute-apiculate, and hairy
 internally. Staminodes are reduced to scales. The ovary is hairy and
 **5-locular**.
 
+## Key to the species
+
+**1.** Leaves lanceolate, long-acuminate, long-cuneate acute, pubescent beneath. Corolla lobes ovate. Anthers shorter than the lobes, somewhat apiculate → [[Tulestea_tomentosa\|*T. tomentosa*]]
+
+**1′.** Leaves glabrous. Anthers as long as the corolla lobes, lanceolate, very acute at the apex:
+
+**2.** Leaves oblong, with undulate margin. About a dozen secondary nerves, joined to a marginal nerve following the sinuosities of the margin → [[Tulestea_koulamoutouensis\|*T. koulamoutouensis*]]
+
+**2′.** Leaves of variable form, with margin not undulate. 6–10 pairs of secondary nerves → [[Tulestea_gabonensis\|*T. gabonensis*]]
+
 ## Species in Gabon
 
 | Species | Habit | Distribution (Gabon) | Page |

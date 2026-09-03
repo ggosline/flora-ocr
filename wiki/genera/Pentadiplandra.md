@@ -29,11 +29,9 @@ Pentadiplandra has an unstable systematic position. It was first placed by BAILL
 
 ## Key to the species
 
+**1.** Base of leaves attenuate; blade elliptic or lanceolate → …… P. brazzeana var. brazzeana.
 
-**1.** Leaf base attenuate; limb elliptic or lanceolate → …… P. brazzeana var. brazzeana. ^k1
-
-**1′.** Leaf base rounded; limb elliptic → P. brazzeana var. valida.
-
+**1′.** Base of leaves rounded; blade elliptic → P. brazzeana var. valida.
 
 ## Species in region
 

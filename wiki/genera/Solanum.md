@@ -25,63 +25,61 @@ Notes: The genus Solanum includes three species of major economic importance, cu
 
 ## Key to the species
 
+**1.** Leaves compound with imparipinnate limb; plants with simple or sometimes branched hairs, often glandular → couplet **2**
 
-**1.** Compound leaves with imparipinnate blade; plants with simple or sometimes branched hairs, often glandular → [[#^k2|2]] ^k1
+**1′.** Leaves simple; plants with simple, branched or stellate hairs → couplet **3**
 
-**1′.** Simple leaves; plants with simple, branched or stellate hairs → [[#^k3|3]]
+**2.** Corolla stellate, yellow; plant without tubers, viscous and very fragrant; anthers terminated by a beak (cultivated: tomato) → S. lycopersicum L.
 
-**2.** Corolla stellate, yellow; plant without tubers, viscous and very fragrant; anthers terminated by a beak (cultivated: the tomato) → S. lycopersicum L. ^k2
+**2′.** Corolla rotate, white to violet; plant with numerous tubers, non-viscous, weakly fragrant; anthers not terminated by a beak (cultivated: potato) → S. tuberosum L.
 
-**2′.** Corolla rotate, white to violet; plant with numerous tubers, not viscous, slightly fragrant; anthers not terminated by a beak (cultivated: the potato) → S. tuberosum L.
+**3.** Young branches, upper surface of limb and/or outer surface of calyx and corolla lobes furnished with simple and/or dendritic hairs, never stellate → couplet **4**
 
-**3.** Young branches, upper surface of the blade and/or outer surface of the calyx and corolla lobes equipped with simple and/or dendritic hairs, never stellate → [[#^k4|4]] ^k3
+**3′.** Young branches, upper surface of limb and/or outer surface of calyx and corolla lobes furnished with stellate hairs; more rarely plants glabrous with only a few stellate hairs on young leaves as well as on the outer surface of calyx and corolla lobes ( S. aethiopicum , S. macrocarpon , S. melongena ) 7
 
-**3′.** Young branches, upper surface of the blade and/or outer surface of the calyx and corolla lobes equipped with stellate hairs; more rarely plants glabrous with only a few stellate hairs on young leaves and on the outer surface of the calyx and corolla lobes ( S. aethiopicum , S. macrocarpon , S. melongena ) 7.
+**4.** Leaf limb furnished with simple and stellate hairs on the lower surface; plant very aculeate; fruit > 2 cm in diameter, yellow at maturity → [[Solanum_aculeatissimum\|*S. aculeatissimum*]]
 
-**4.** Leaf blade equipped with simple and stellate hairs on the lower surface; plant very prickly; fruit > 2 cm in diameter, yellow at maturity → [[Solanum_aculeatissimum\|*S. aculeatissimum*]] ^k4
+**4′.** Leaf limb furnished only with simple hairs on the lower surface, more rarely glabrous ( S. scabrum , S. terminale ); plant unarmed or spinescent; fruit < 2 cm in diameter, bright red or purple-black at maturity → couplet **5**
 
-**4′.** Leaf blade equipped only with simple hairs on the lower surface, more rarely glabrous ( S. scabrum , S. terminale ); plant unarmed or spinescent; fruit < 2 cm in diameter, bright red or purple-black at maturity → [[#^k5|5]]
+**5.** Shrub or climbing vine; inflorescence terminal, with up to 100 flowers → [[Solanum_terminale\|*S. terminale*]]
 
-**5.** Shrub or climbing vine; terminal inflorescence, with up to 100 flowers → [[Solanum_terminale\|*S. terminale*]] ^k5
+**5′.** Herb; inflorescence lateral, with generally < 10 flowers → couplet **6**
 
-**5′.** Herb; lateral inflorescence, with generally < 10 flowers → [[#^k6|6]]
-
-**6.** Anther ≤ 1.5 mm in length; fruit ≤ 1 cm in diameter; seed ≤ 1.5 × 1.3 mm → [[Solanum_americanum\|*S. americanum*]] ^k6
+**6.** Anther ≤ 1.5 mm in length; fruit ≤ 1 cm in diameter; seed ≤ 1.5 × 1.3 mm → [[Solanum_americanum\|*S. americanum*]]
 
 **6′.** Anther ≥ 2 mm in length; fruit ≥ 1 cm in diameter; seed ≥ 2 × 1.5 mm → [[Solanum_scabrum\|*S. scabrum*]]
 
-**7.** Axes of the inflorescence and pedicels equipped with simple glandular hairs → [[Solanum_torvum\|*S. torvum*]] ^k7
+**7.** Inflorescence axes and pedicels furnished with simple glandular hairs → [[Solanum_torvum\|*S. torvum*]]
 
-**7′.** Axes of the inflorescence and pedicels without simple glandular hairs → 8 D : Humbert & Swingle 5591 ). Drawing by Lucy T. Smith (©), reproduced with permission from Vorontsova & Knapp (2016).
+**7′.** Inflorescence axes and pedicels without simple glandular hairs → 8 D : Humbert & Swingle 5591 ). Drawing by Lucy T. Smith (©), reproduced with permission from Vorontsova & Knapp (2016).
 
-**8.** Fruit yellowish-green or yellow at maturity (sometimes white to black in certain forms of S. macrocarpon ), 2.5–8 cm in diameter; corolla 1.5–8 cm in diameter; plant andromonoecious → [[#^k9|9]] ^k8
+**8.** Fruit yellow-green or yellow at maturity (sometimes white to black in certain forms of S. macrocarpon ), 2.5–8 cm in diameter; corolla 1.5–8 cm in diameter; plant andromonoecious → couplet **9**
 
-**8′.** Fruit orange to bright red at maturity, 0.5–2.5 cm in diameter; corolla 0.7–1.8 cm in diameter; plant with flowers only bisexual → [[#^k12|12]]
+**8′.** Fruit orange to bright red at maturity, 0.5–2.5 cm in diameter; corolla 0.7–1.8 cm in diameter; plant with only bisexual flowers → couplet **12**
 
-**9.** Tree, often cultivated, 5–10 m in height; corolla 5.5–8 cm in diameter, bright purple, turning white with age and the inflorescence then appearing bicolored → [[Solanum_wrightii\|*S. wrightii*]] ^k9
+**9.** Tree, often cultivated, 5–10 m in height; corolla 5.5–8 cm in diameter, bright purple, becoming white with age and the inflorescence then appearing bicoloured → [[Solanum_wrightii\|*S. wrightii*]]
 
-**9′.** Herb or shrub, up to 1 m in height; corolla 1.5–6 cm in diameter, white, mauve or purple, color constant over time and inflorescence then uni- colored → [[#^k10|10]]
+**9′.** Herb or shrub, up to 1 m in height; corolla 1.5–6 cm in diameter, white, mauve or purple, colour constant over time and inflorescence then unicoloured → couplet **10**
 
-**10.** Petiole never decurrent on the stem; leaf blade moderately lobed, never doubly lobed; flowers often fasciated (up to 8-merous) (cultivated: Asian eggplant) → S. melongena L. ^k10
+**10.** Petiole never decurrent on the stem; leaf limb moderately lobed, never doubly lobed; flowers often fasciate (up to 8-merous) (cultivated: Asian eggplant) → S. melongena L.
 
-**10′.** Petiole often decurrent on the stem; leaf blade generally deeply and doubly lobed; flowers 5-merous → [[#^k11|11]]
+**10′.** Petiole often decurrent on the stem; leaf limb generally deeply and doubly lobed; flowers 5-merous → couplet **11**
 
-**11.** Plant densely to sparsely pubescent, densely prickly; wild species → [[Solanum_dasyphyllum\|*S. dasyphyllum*]] ^k11
+**11.** Plant densely to sparsely pubescent, densely aculeate; wild species → [[Solanum_dasyphyllum\|*S. dasyphyllum*]]
 
 **11′.** Plant generally glabrous and unarmed; cultivated species → [[Solanum_macrocarpon\|*S. macrocarpon*]]
 
-**12.** Leaf blade with entire margin, with dense grayish-white pubescence below; small tree, up to 4 m in height → [[Solanum_giganteum\|*S. giganteum*]] ^k12
+**12.** Leaf limb with entire margin, with dense greyish-white pubescence beneath; small tree, up to 4 m in height → [[Solanum_giganteum\|*S. giganteum*]]
 
-**12′.** Leaf blade with superficially to moderately lobed margin, with pubescence never grayish-white below; herb or small shrub, up to 2 m in height → [[#^k13|13]]
+**12′.** Leaf limb with superficially to moderately lobed margin, pubescence never greyish-white beneath; herb or small shrub, up to 2 m in height → couplet **13**
 
-**13.** Plant unarmed; inflorescence with 1 or 2(–10) flowers; fruit 1.5–2.5(–5) cm in diameter; cultivated species → [[Solanum_aethiopicum\|*S. aethiopicum*]] ^k13
+**13.** Plant unarmed; inflorescence with 1 or 2(–10) flowers; fruit 1.5–2.5(–5) cm in diameter; cultivated species → [[Solanum_aethiopicum\|*S. aethiopicum*]]
 
-**13′.** Plants generally prickly; inflorescence with 5 to 25 flowers; fruit 5–9 mm in diameter; wild species → [[#^k14|14]]
+**13′.** Plants generally aculeate; inflorescence with 5 to 25 flowers; fruit 5–9 mm in diameter; wild species → couplet **14**
 
-**14.** Inflorescence 1–2.5 cm in length; multangulate and porrigose stellate hairs on the surface of the leaf blade; calyx lobes ≤ 1 mm in length; plant prickly → [[Solanum_anomalum\|*S. anomalum*]] ^k14
+**14.** Inflorescence 1–2.5 cm in length; multangular and porrect stellate hairs on the surface of the leaf limb; calyx lobes ≤ 1 mm in length; plant aculeate → [[Solanum_anomalum\|*S. anomalum*]]
 
-**14′.** Inflorescence 2.5–6 cm in length; porrigose stellate hairs on the surface of the leaf blade; calyx lobes ≥ 1 mm in length; plant prickly, more rarely unarmed → [[Solanum_anguivi\|*S. anguivi*]]
-
+**14′.** Inflorescence 2.5–6 cm in length; porrect stellate hairs on the surface of the leaf limb; calyx lobes ≥ 1 mm in length; plant aculeate, more rarely unarmed → [[Solanum_anguivi\|*S. anguivi*]]
 
 ## Species in region
 

@@ -29,39 +29,37 @@ ibliography
 
 ## Key to the species
 
+**1.** Stipules generally asymmetric, ± falciform, 3–25 × 1–15 mm, persistent or caducous → couplet **2**
 
-**1.** Stipules generally asymmetric, ± falciform, 3–25 × 1–15 mm, persistent or caducous → [[#^k2|2]] ^k1
+**1′.** Stipules symmetric, narrowly triangular to lanceolate, 2–8(–13) × 0.5–1(–2) mm, early caducous → couplet **3**
 
-**1′.** Stipules symmetric, narrowly triangular to lanceolate, 2–8(–13) × 0.5–1(–2) mm, early caducous → [[#^k3|3]]
+**2.** Twigs, petiole and lamina hispid–setulose with spreading hairs ; inflorescences fasciculate on the trunk or on old branches → [[Maesobotrya_klaineana\|*M. klaineana*]]
 
-**2.** Branchlets, petiole and lamina hispid–setulose with spreading hairs ; inflorescences fasciculate on the trunk or on old branches → [[Maesobotrya_klaineana\|*M. klaineana*]] ^k2
+**2′.** Twigs, petiole and lamina pubescent (with ± soft hairs) when young, glabrescent when mature ; inflorescences axillary, solitary to ternate → [[Maesobotrya_bertramiana\|*M. bertramiana*]]
 
-**2′.** Branchlets, petiole and lamina pubescent (with ± soft hairs) when young, glabrescent when mature ; inflorescences axillary, solitary to ternate → [[Maesobotrya_bertramiana\|*M. bertramiana*]]
+**3.** Shrubs 0.5–2.5(–3.5) m tall ; inflorescences axillary, 0.5–2(–5) cm long ; fruits ovoid, acute → couplet **4**
 
-**3.** Shrubs 0.5–2.5(–3.5) m tall ; inflorescences axillary, 0.5–2 (–5) cm long ; fruits ovoid, acute → [[#^k4|4]] ^k3
+**3′.** Shrubs to small trees (2–)3–10(–12) m tall ; inflorescences axillary or on old branches and trunk, (1–)4–10(–17) cm long ; fruits globose or ellipsoid → couplet **5**
 
-**3′.** Shrubs to small trees (2–)3–10(–12) m tall ; inflorescences axillary or on old branches and trunk, (1–)4–10(–17) cm long ; fruits globose or ellipsoid → [[#^k5|5]]
+**4.** Twigs hirsute ; lamina rounded to subcordate at base, hirsute → [[Maesobotrya_oligantha\|*M. oligantha*]]
 
-**4.** Branchlets hirsute ; lamina rounded to subcordate at the base, hirsute → [[Maesobotrya_oligantha\|*M. oligantha*]] ^k4
+**4′.** Twigs glabrous or with appressed hairs ; lamina long-attenuate at base, glabrous or nearly so → [[Maesobotrya_pauciflora\|*M. pauciflora*]]
 
-**4′.** Branchlets glabrous or with appressed hairs ; lamina long-attenuate at the base, glabrous or nearly so → [[Maesobotrya_pauciflora\|*M. pauciflora*]]
+**5.** Twigs and leaves glabrous or early glabrescent → couplet **6**
 
-**5.** Branchlets and leaves glabrous or early glabrescent → [[#^k6|6]] ^k5
+**5′.** Twigs and leaves with persistent indument or leaves tardily glabrescent .. 7
 
-**5′.** Branchlets and leaves with persistent indumentum or leaves late glabrescent .. 7.
+**6.** Lamina with 4–6 pairs of lateral nerves → [[Maesobotrya_griffoniana\|*M. griffoniana*]]
 
-**6.** Lamina with 4–6 pairs of lateral veins → [[Maesobotrya_griffoniana\|*M. griffoniana*]] ^k6
+**6′.** Lamina with (6–)8–11 pairs of lateral nerves → [[Maesobotrya_longipes\|*M. longipes*]]
 
-**6′.** Lamina with (6–)8–11 pairs of lateral veins → [[Maesobotrya_longipes\|*M. longipes*]]
-
-**7.** Inflorescences on the trunk, old branches and sometimes at the same time axillary . 8 ^k7
+**7.** Inflorescences on the trunk, old branches and sometimes at the same time axillary . 8
 
 **7′.** Inflorescence axillary or on branches just below the leaves, never on the trunk or on old branches → [[Maesobotrya_floribunda\|*M. floribunda*]]
 
-**8.** Branchlets and leaves with ± appressed indumentum ; stipules (2–)4–7 mm long ; lamina cuneate to rounded-obtuse or sometimes slightly cordate at the base ; bracts 1–2 mm long ; ovary and fruit glabrous → [[Maesobotrya_barteri\|*M. barteri*]] ^k8
+**8.** Twigs and leaves with ± appressed indument ; stipules (2–)4–7 mm long ; lamina cuneate to rounded-obtuse or sometimes slightly cordate at base ; bracts 1–2 mm long ; ovary and fruit glabrous → [[Maesobotrya_barteri\|*M. barteri*]]
 
-**8′.** Branchlets and leaves with setulose–hispid indumentum ; stipules 2–3(–6) mm long ; lamina cordate to rounded at the base ; bracts ≤ 0.5 mm long ; ovary pilose ; fruit sparsely pubescent with appressed hairs → [[Maesobotrya_cordulata\|*M. cordulata*]]
-
+**8′.** Twigs and leaves with setulose–hispid indument ; stipules 2–3(–6) mm long ; lamina cordate to rounded at base ; bracts ≤ 0.5 mm long ; ovary pilose ; fruit sparsely pubescent with appressed hairs → [[Maesobotrya_cordulata\|*M. cordulata*]]
 
 ## Species in region
 

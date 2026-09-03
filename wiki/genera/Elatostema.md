@@ -33,15 +33,13 @@ Bibliography
 
 ## Key to the species
 
+**1.** Leaf blade pale green when dry, the adults 16–25 cm in length, with margin bearing on each side more than (16–)25 small teeth gradually diminishing toward the apex (to be sought in Gabon) → E. welwitschii Engl.
 
-**1.** Leaf blade pale green when dry, adults 16–25 cm in length, with margin bearing on each side more than (16–)25 small teeth gradually diminishing toward the apex (to be sought in Gabon) → E. welwitschii Engl. ^k1
+**1′.** Leaf blade dark green to almost black when dry, up to 15 cm in length, with margin bearing on each side fewer than 5–22 teeth not diminishing significantly in size toward the apex → couplet **2**
 
-**1′.** Leaf blade dark green to almost black when dry, up to 15 cm in length, with margin bearing on each side fewer than 5–22 teeth not significantly diminishing in size toward the apex → [[#^k2|2]]
+**2.** Longest stipule (5–)6–9(–12) mm; blade with (12–)16 to 22 teeth on the distal margin, generally glabrous above; female inflorescences 10–12 mm in diameter; Elatostema 55 male inflorescences with the widest bracts 3–5 mm → [[Elatostema_paivaeanum\|*E. paivaeanum*]]
 
-**2.** Longest stipule (5–)6–9(–12) mm; blade with (12–)16 to 22 teeth on the distal margin, generally glabrous above; female inflorescences 10–12 mm in diameter; Elatostema 55 male inflorescences with broadest bracts 3–5 mm → [[Elatostema_paivaeanum\|*E. paivaeanum*]] ^k2
-
-**2′.** Longest stipule (1–)2–4(–5) mm; blade with 5 to 10(–13) teeth on the distal margin, generally with scattered stiff hairs above; female inflorescences 4–8 mm in diameter; male inflorescences with broadest bracts 1–2.5 mm → E. monticola Hook.f.
-
+**2′.** Longest stipule (1–)2–4(–5) mm; blade with 5 to 10(–13) teeth on the distal margin, generally with scattered stiff hairs above; female inflorescences 4–8 mm in diameter; male inflorescences with the widest bracts 1–2.5 mm → E. monticola Hook.f.
 
 ## Species in region
 

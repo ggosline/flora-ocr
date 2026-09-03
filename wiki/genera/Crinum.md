@@ -20,6 +20,20 @@ bracts 2; flowers fewer than 15, white or white marked with red, with a long
 perianth tube. Fruit irregular and indehiscent; seeds numerous, greenish and
 irregularly shaped.
 
+## Key to the species
+
+**1.** Flowers regular, hypocratériform; perianth tube straight after anthesis; perianth segments linear or narrowly lanceolate, less than 1.6 cm wide ("Stenaster").
+
+**2.** Plants with leaves nearly erect, generally not submerged, margin rarely denticulate; inner perianth segments white, outer reddish, 0.3–0.7 cm wide; filaments purple towards apex → [[Crinum_purpurascens\|*C. purpurascens*]]
+
+**2′.** Plants with submerged leaves floating ribbon-like, margin sparsely denticulate; perianth segments white or with a cream dorsal stripe, 0.9–1.6 cm wide; filaments white → [[Crinum_natans\|*C. natans*]]
+
+**1′.** Flowers irregular, infundibuliform; perianth tube curved during anthesis; perianth segments lanceolate, more than 1.5 cm wide ("Codonocrinum").
+
+**3.** Flowers pure white or tinged with green, perianth tube (10–) 13–22 cm long; fruits with a long beak → [[Crinum_jagus\|*C. jagus*]]
+
+**3′.** Flowers white with a red dorsal stripe on the perianth segments; perianth tube 9–12 (–15) cm long; fruits with a very short beak or lacking a beak → 4. C. zeylanicum. Crinum sp. A, which could be of hybrid origin (? C. natans and C. jagus) is not included in the key.
+
 ## Species treated
 
 - [[Crinum_purpurascens|*C. purpurascens*]]

@@ -35,27 +35,25 @@ The type of the genus is Pt. roxburghii Sch. et Endl., from Asia.
 
 ## Key to the species
 
-
-**1.** Lamina fairly regularly ovate with obtuse or rounded base; 3–5 basal nerves; c. 3 pairs of non-basal pinnate nerves; stellate hairs very sparse, scarcely distinct on the extremities and petioles ^k1
+**1.** Lamina fairly regularly ovate with obtuse or rounded base; 3-5 basal nerves; ca. 3 pairs of non-basal pinnate nerves; stellate hairs very sparse, scarcely distinct on the extremities and petioles
 
 **1.** Pt. augouardii.
 
 **1′.** Lamina fairly broadly ovate or orbicular, with truncate or cordate base.
 
-**2.** Basal nerves 5, rarely 7; c. 4–5, rarely 3 pairs of non-basal pinnate nerves; stellate hairs forming a well-apparent tomentum on the extremities and young leaves; lamina base subtrun­cate to cordate → 2. Pt. bequaertii. ^k2
+**2.** Basal nerves 5, rarely 7; ca. 4-5, rarely 3 pairs of non-basal pinnate nerves; stellate hairs forming a well-apparent tomentum on the extremities and young leaves; base of lamina subtruncate to cordate → 2. Pt. bequaertii.
 
-**2′.** Basal nerves 7, sometimes 9; c. 3–4 pairs of non-basal pinnate nerves; hairs in stellate scales appressed on the extremities and young leaves; lamina base more or less deeply cordate → Pt. macrocarpa. KEY TO SPECIES BY FLOWERS AND INFLORESCENCES.
+**2′.** Basal nerves 7, sometimes 9; ca. 3-4 pairs of non-basal pinnate nerves; hairs in applied stellate scales on the extremities and young leaves; base of lamina more or less deeply cordate → Pt. macrocarpa. KEY TO SPECIES BY FLOWERS AND INFLORESCENCES
 
-**1.** Bracteoles caducous leaving along the rachis, cicatricial collars with acute lateral projections; 4–5 carpels 1. Pt. augouardii.
+**1.** Bracteoles caducous leaving along the rachis, cicatricial collars with acute lateral projections; 4-5 carpels 1. Pt. augouardii.
 
-**1′.** Bracteoles caducous leaving cicatricial collars rounded or scarcely prominent.
+**1′.** Bracteoles caducous leaving rounded or scarcely projecting cicatricial collars.
 
-**2.** Inflorescence axes with manifest russet pubescence; sepals with strongly pubescent inner face; 3 carpels, more rarely 4.
+**2.** Inflorescence axes with manifest russet pubescence; sepals with inner face strongly pubescent; 3 carpels, more rarely 4
 
 **2.** Pt. bequaertii.
 
-**2′.** Inflorescence axes with very fine ochraceous pubescence; sepals with glabrous inner face, at least towards the base; 5 carpels. Pt. macrocarpa.
-
+**2′.** Inflorescence axes with very fine ochraceous pubescence; sepals with inner face glabrous, at least toward the base; 5 carpels. Pt. macrocarpa.
 
 ## Species in region
 

@@ -29,27 +29,29 @@ Bibliography
 
 ## Key to the species
 
+**1.** Leaf blade entirely and strongly asymmetric, often falciform → couplet **2**
 
-**1.** Leaf blade entirely and strongly asymmetrical, often falciform → [[#^k2|2]] ^k1
+**1′.** Leaf blade symmetric, only the base sometimes asymmetric → couplet **3**
 
-**1′.** Leaf blade symmetrical, base only sometimes asymmetrical → [[#^k3|3]]
+**2.** Petiole 5–18 mm; blade 8–18 × 5–10 cm, glabrous or with a few hairs on the veins beneath; fruit broadly ovoid to obovoid, 15–21 × 13–18 mm → *C. adolfi-friderici*
 
-**2.** Petiole 5–18 mm; blade 8–18 × 5–10 cm, glabrous or with a few hairs on the veins below; fruit broadly ovoid to obovoid, 15–21 × 13–18 mm → *C. adolfi-friderici* ^k2
+**2′.** Petiole 2–4 mm; blade 4–11 × 2–4 cm, midvein pubescent above, pubescent at least on the basal portion of the veins beneath; fruit globose, 10–18 × 8–15 mm → [[Celtis_tessmannii\|*C. tessmannii*]]
 
-**2′.** Petiole 2–4 mm; blade 4–11 × 2–4 cm, midvein hairy above, hairy at least on the basal part of the veins below; fruit globose, 10–18 × 8–15 mm → [[Celtis_tessmannii\|*C. tessmannii*]]
+**3.** Leaf blade elliptic-ovate to narrowly elliptic-ovate; styles entire → [[Celtis_gomphophylla\|*C. gomphophylla*]]
 
-**3.** Leaf blade elliptic-ovate to narrowly elliptic-ovate; styles entire → [[Celtis_gomphophylla\|*C. gomphophylla*]] ^k3
+**3′.** Leaf blade broadly elliptic or elliptic-obovate to narrowly elliptic-obovate; styles branched → couplet **4**
 
-**3′.** Leaf blade broadly elliptic or elliptic-obovate to narrowly elliptic-obovate; styles branched → [[#^k4|4]]
+**4.** Basal secondary veins extending somewhat into the upper half of the leaf blade → [[Celtis_mildbraedii\|*C. mildbraedii*]]
 
-**4.** Basal secondary veins extending somewhat into the upper half of the leaf blade → [[Celtis_mildbraedii\|*C. mildbraedii*]] ^k4
+**4′.** Basal secondary veins reaching nearly to the apex of the leaf blade → couplet **5**
 
-**4′.** Basal secondary veins reaching almost to the apex of the leaf blade → [[#^k5|5]]
+**5.** Tree reaching up to 16 m in height; leaf blade acuminate for 10–20 mm; fruit
 
-**5.** Tree reaching up to 16 m in height; leaf blade acuminate for 10–20 mm; fruit 7–12 × 7–10 mm, glabrous → [[Celtis_prantlii\|*C. prantlii*]] ^k5
+**7.** 12 × 7–10 mm, glabrous → [[Celtis_prantlii\|*C. prantlii*]]
 
-**5′.** Tree up to 36 m in height; leaf blade acuminate for 6–9 mm; fruit 15–20 × 13–18 mm, glabrescens → C. adolfi-friderici Celtis adolfi-friderici Engl. Plate 32(1) Bot. Jahrb. Syst. 43: 308 (1909). C. fragifera A.Chev., Mém. Soc. Bot. France 8: 299 (1917). Tree 20–36 m in height, with buttresses, semi-deciduous, monoecious; sapwood cream with brown spots; branchlets pubescent or nearly glabrous when young. Stipules caducous, ± 3 mm long, extending weakly below the point of attachment, pubescent. Leaves: petiole 5–18 mm; blade broadly elliptic, symmetrical or asymmetrical and ± falciform, 8–18 × 5–10 cm, rounded and asymmetrical at the base, acuminate for 6–9 mm, entire margin, chartaceous or subcoriaceous, glabrous or with a few (scabrous) hairs on the lower veins, with 1 to 3 pairs of basal secondary veins extending almost to the apex of the blade. Inflorescence axillary or at the lower nodes, cymose, 1–5 cm long at anthesis, up to 6 cm in fruit, the lowest with numerous male flowers clustered together, the upper ones with several hermaphrodite and female flowers at the apex. Flower: tepals 5 or 6, 1–1.5 mm long, white or greenish, pubescent; ovary pubescent, with a ring of longer hairs at the base; styles 2, branched, 3–4 mm. Fruit with robust pedicel, broadly ovoid to obovoid, 15–21 × 13–18 mm, glabrescens, red to black at maturity. Distribution: known from West and Central tropical Africa, including Cameroon, Gabon, Republic of the Congo, Democratic Republic of the Congo and Central African Republic, and to the east, as far as Uganda; in Gabon: Ogooué-Ivindo and Woleu-Ntem. Ecology: very common in semi-deciduous forest, with a clear preference for dry forests, also in secondary forest, prefers fertile well-drained soils, cultivations in lowland rainforest; in Gabon at 100–500 m altitude, elsewhere at 0–900 m. Uses: In traditional medicine, bark decoction is taken to treat general malaise, severe cough, fever and headaches and as an emetic. Moreover, leaf decoction is used to treat eye affections. The seeds are said to be edible. Vernacular names: african ita or ita (English). Bibliography: Hutchinson et al. (1958), Jiofack Tafokou (2008), Letouzey (1968), Polhill (1966), Sattarian (2006).
+**7′.** Tree up to 36 m in height; leaf blade acuminate for 6–9 mm; fruit 15–20 × 13–18 mm, glabrescent → C. adolfi-friderici Celtis adolfi-friderici Engl. Plate 32(1) Bot. Jahrb. Syst. 43: 308 (1909). C. fragifera A.Chev., Mém. Soc. Bot. France 8: 299 (1917). Tree 20–36 m in height, with buttresses, semi-deciduous, monoecious; cross-section cream with brown spots; branchlets pubescent or nearly glabrous when young. Stipules caducous, approximately 3 mm long, extending weakly beyond the point of attachment, pubescent. Leaves: petiole 5–18 mm; blade broadly elliptic, symmetric or asymmetric and ± falciform, 8–18 × 5–10 cm, rounded and asymmetric at the base, acuminate for 6–9 mm, margin entire, cartaceous or subcoriaceous, glabrous or with a few (scabrous) hairs on the lower veins, with 1 to 3 pairs of basal secondary veins extending almost to the apex of the blade. Inflorescence axillary or at lower nodes, cymose, 1–5 cm long at anthesis, to 6 cm in fruit, the lowest with numerous male flowers grouped together, the upper ones with several hermaphrodite and female flowers at the apex. Flower: tepals 5 or 6, 1–1.5 mm long, white or greenish, pubescent; ovary pubescent, with a ring of longer hairs at the base; styles 2, branched, 3–4 mm. Fruit with a robust pedicel, broadly ovoid to obovoid, 15–21 × 13–18 mm, glabrescent, red to black at maturity. Distribution: known from tropical West and Central Africa, including Cameroon, Gabon, Republic of the Congo, Democratic Republic of the Congo and Central African Republic, and to the east, to Uganda; in Gabon: Ogooué-Ivindo and Woleu-Ntem. Ecology: very common in semi-deciduous forest, with a clear preference for dry forests, also in secondary forest, prefers fertile well-drained soils, cultivated areas in lowland rainforest; in Gabon at 100–500 m altitude, elsewhere at 0–900 m. Uses: In traditional medicine, the decoction of bark is taken to treat general malaise, severe cough, fever and headaches and as an emetic. Furthermore, the decoction of leaves is used to treat eye afflictions. The seeds are said to be edible. Vernacular names: african ita or ita (English). Flowering branchlet (× ⅔). – 3. Male flower (× 10). – 4. Female flower (× 10). – 5. Fruiting branchlet (× ⅔).
 
+**7′.** 6. Fruit (× 2). – 7. Leaf (× 0.6). (1: Letouzey 2999; 2-4: Tisserant 1130; 5, 6: Tisserant 2485; 7: Tisserant 486). Drawing by Marie-France Adam (1) and by Edmond Bounougou (2-7), Muséum national d'Histoire naturelle, Paris (©), reproduced with permission from Letouzey (1968). Bibliography: Hutchinson et al. (1958), Jiofack Tafokou (2008), Letouzey (1968), Polhill (1966), Sattarian (2006).
 
 ## Species in region
 

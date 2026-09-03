@@ -31,55 +31,55 @@ ibliography
 
 ## Key to the species
 
+**1.** Woody plants, shrubby, lianescent or arborescent → couplet **2**
 
-**1.** Woody plants, shrubby, lianescent or arborescent → [[#^k2|2]] ^k1
+**1′.** Herbaceous plants, sometimes woody at the base → couplet **7**
 
-**1′.** Herbaceous plants, sometimes woody at the base → [[#^k7|7]]
+**2.** Fruits dry at maturity, dehiscent; plants ± shrubby, ≤ 1.5 m tall → couplet **3**
 
-**2.** Fruits dry at maturity, dehiscent; plants ± shrubby, ≤ 1.5 m in height → [[#^k3|3]] ^k2
+**2′.** Fruits fleshy at maturity, indehiscent; plants shrubby, lianescent or arborescent → couplet **4**
 
-**2′.** Fruits fleshy at maturity, indehiscent; plants shrubby, lianescent or arborescent → [[#^k4|4]]
+**3.** Pedicel of the female flower ≥ 8 mm; limb suborbicular, obovate to elliptic- obovate, (2–)5–13(–20) × (2–)4–8(–11) mm → [[Phyllanthus_nummulariifolius\|*P. nummulariifolius*]]
 
-**3.** Pedicel of the female flower ≥ 8 mm; limb suborbicular, obovate to elliptic- obovate, (2–)5–13(–20) × (2–)4–8(–11) mm → [[Phyllanthus_nummulariifolius\|*P. nummulariifolius*]] ^k3
+**3′.** Pedicel of the female flower ≤ 1 mm; limb oblong to lanceolate, (2–)3–9 × (1.5–)
 
-**3′.** Pedicel of the female flower ≤ 1 mm; limb oblong to lanceolate, (2–)3–9 × (1.5–) 2–3 mm → [[Phyllanthus_sublanatus\|*P. sublanatus*]]
+**2.** 3 mm → [[Phyllanthus_sublanatus\|*P. sublanatus*]]
 
-**4.** Shrubs, often lianescent, with monoecious flowers; stipules and scale-like leaves recurved and spiny → [[#^k5|5]] ^k4
+**4.** Shrubs, often lianescent, with monoecious flowers; stipules and scaly leaves recurved and spiny → couplet **5**
 
-**4′.** Shrub to tree with dioecious flowers; stipules and scale-like leaves non-spiny → [[Phyllanthus_physocarpus\|*P. physocarpus*]]
+**4′.** Shrub to tree with dioecious flowers; stipules and scaly leaves non-spiny → [[Phyllanthus_physocarpus\|*P. physocarpus*]]
 
-**5.** Pedicel of the male flowers 2–3 mm; leaves (1–)2–6 × (0.8–)2–3.5 cm → [[#^k6|6]] ^k5
+**5.** Pedicel of the male flowers 2–3 mm; leaves (1–)2–6 × (0.8–)2–3.5 cm → couplet **6**
 
 **5′.** Pedicels of the male flowers 4–7.5 mm; leaves 1–1.5 × 0.5–0.7 cm → [[Phyllanthus_dinklagei\|*P. dinklagei*]]
 
-**6.** Flowers generally arranged in small glomérules on fascicled and leafless axes; fruit 3–5 mm in diameter → [[Phyllanthus_muellerianus\|*P. muellerianus*]] ^k6
+**6.** Flowers generally arranged in small glomérules on fasciculate and aphyllous axes; fruit 3–5 mm in diameter → [[Phyllanthus_muellerianus\|*P. muellerianus*]]
 
-**6′.** Flowers generally axillary on leafy non-fascicled axes; fruit 8.5–9.5 mm in diameter → [[Phyllanthus_polyspermus\|*P. polyspermus*]]
+**6′.** Flowers generally axillary on non-fasciculate leafy axes; fruit 8.5–9.5 mm in diameter → [[Phyllanthus_polyspermus\|*P. polyspermus*]]
 
-**7.** Male flower with 3 fused stamens → [[#^k8|8]] ^k7
+**7.** Male flower with 3 stamens connate → couplet **8**
 
 **7′.** Male flower with (3–)5 free stamens → [[Phyllanthus_nummulariifolius\|*P. nummulariifolius*]]
 
-**8.** Male and female flower with 6 sepals → [[#^k9|9]] ^k8
+**8.** Male and female flower with 6 sepals → couplet **9**
 
-**8′.** Male and female flower with 5 sepals → [[#^k10|10]]
+**8′.** Male and female flower with 5 sepals → couplet **10**
 
-**9.** Margin of the limb with 2–3 rows of small stiff hairs; ovary and fruit verrucose; seed dorsally with 10–12 transverse ridges → [[Phyllanthus_urinaria\|*P. urinaria*]] ^k9
+**9.** Margin of the limb with 2–3 rows of small stiff hairs; ovary and fruit verrucose; seed dorsally with 10–12 transverse ridges → [[Phyllanthus_urinaria\|*P. urinaria*]]
 
 **9′.** Margin of the limb without hairs; ovary and fruit smooth; seed dorsally with (7–)8 longitudinal costules → [[Phyllanthus_odontadenius\|*P. odontadenius*]]
 
-**10.** Sepals 1–2 mm in length in fruit, at most as long as the fruit → [[#^k11|11]] ^k10
+**10.** Sepals 1–2 mm long in fruit, at most as long as the fruit → couplet **11**
 
-**10′.** Sepals 4–5 mm in length in fruit, clearly longer than the fruit → [[Phyllanthus_gabonensis\|*P. gabonensis*]]
+**10′.** Sepals 4–5 mm long in fruit, distinctly longer than the fruit → [[Phyllanthus_gabonensis\|*P. gabonensis*]]
 
-**11.** Styles well developed; limb (4–)5–13 × (2–)3–5 mm → [[#^k12|12]] ^k11
+**11.** Styles well developed; limb (4–)5–13 × (2–)3–5 mm → couplet **12**
 
 **11′.** Styles absent, stigmas sessile; limb 2–4 × 1.5–2 mm → [[Phyllanthus_sublanatus\|*P. sublanatus*]]
 
-**12.** Sepals of the female flower with dark median zone 0.2–0.5 mm in width; ovary and fruit smooth → [[Phyllanthus_amarus\|*P. amarus*]] ^k12
+**12.** Sepals of the female flower with dark median zone 0.2–0.5 mm wide; ovary and fruit smooth → [[Phyllanthus_amarus\|*P. amarus*]]
 
-**12′.** Sepals of the female flower with dark median zone 0.6–1 mm in width; ovary and fruit generally verrucose → [[Phyllanthus_niruroides\|*P. niruroides*]]
-
+**12′.** Sepals of the female flower with dark median zone 0.6–1 mm wide; ovary and fruit generally verrucose → [[Phyllanthus_niruroides\|*P. niruroides*]]
 
 ## Species in region
 

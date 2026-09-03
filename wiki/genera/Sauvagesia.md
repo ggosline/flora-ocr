@@ -31,11 +31,9 @@ Bibliography: Amaral & Bittrich (2014), Bamps & Farron (1967), Robson (1963), Sa
 
 ## Key to the species
 
+**1.** Upper leaf blades progressively narrower; flowers grouped at the apex of stems, in uniparous cymes or sometimes solitary; staminodes in 1 whorl, petaloid → [[Sauvagesia_africana\|*S. africana*]]
 
-**1.** Upper leaf blades progressively narrower ; flowers grouped at the stem apex, in uniporous cymes or sometimes solitary ; staminodes in 1 whorl, petaloid → [[Sauvagesia_africana\|*S. africana*]] ^k1
-
-**1′.** All leaf blades of the same width ; flowers solitary or rarely fascicled by 2 or 3 ; staminodes in 2 whorls, the inner petaloid, the outer filiform, with apex reniform to triangular → [[Sauvagesia_erecta\|*S. erecta*]]
-
+**1′.** All leaf blades of the same width; flowers solitary or rarely fascicled in pairs or threes; staminodes in 2 whorls, the inner ones petaloid, the outer ones filiform, with reniform to triangular apex → [[Sauvagesia_erecta\|*S. erecta*]]
 
 ## Species in region
 

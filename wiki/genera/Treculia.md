@@ -33,15 +33,13 @@ In sect. Pseudotreculia BALL. (= sect. Microtreculia ENGL.) the plants are alway
 
 ## Key to the species
 
+**1.** Limb generally ± asymmetric; inflorescences with only peltate interflorals bracts; inflorescences at least 25 mm in diameter; anthers long and narrow → [[Treculia_africana\|*T. africana*]]
 
-**1.** Limb generally ± asymmetric; inflorescences with only peltate interflo­ral bracts; inflorescences at least 25 mm in diameter; anthers long and narrow → [[Treculia_africana\|*T. africana*]] ^k1
+**1.** Limb symmetric or slightly asymmetric; inflorescences generally with prickly interflorals bracts; if only peltate bracts, then inflorescences at least 5 mm in diameter; anthers short and broad.
 
-**1.** Limb symmetric or slightly asymmetric; inflorescences generally with spinose interflo­ral bracts; if only peltate bracts, then inflorescences at least 5 mm in diameter; anthers short and broad.
-
-**2.** Shrubs; nerves on the lower surface with scattered uncinate hairs; "spines" of the infructescence reaching 0.5 cm in length → [[Treculia_acuminata\|*T. acuminata*]] ^k2
+**2.** Shrubs; nerves on the lower surface with scattered uncinate hairs; "spines" of the infructescence reaching 0.5 cm in length → [[Treculia_acuminata\|*T. acuminata*]]
 
 **2.** Trees; nerves on the lower surface with only straight appressed hairs; "spines" of the infructescence reaching 2 cm in length → [[Treculia_obovoidea\|*T. obovoidea*]]
-
 
 ## Species in region
 

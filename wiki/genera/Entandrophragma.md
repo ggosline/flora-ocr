@@ -25,31 +25,29 @@ Bibliography: Aubréville (1959), Mabberley (2011), Pennington & Styles (1975), 
 
 ## Key to the species
 
+**1.** Leaflets (the largest of the leaf) with (13–)15–25 pairs of secondary veins → couplet **2**
 
-**1.** Leaflets (the largest ones of the leaf) with (13–)15–25 pairs of secondary nerves → [[#^k2|2]] ^k1
+**1′.** Leaflets (the largest of the leaf) with 6–15(–16) pairs of secondary veins → couplet **3**
 
-**1′.** Leaflets (the largest ones of the leaf) with 6–15(–16) pairs of secondary nerves → [[#^k3|3]]
+**2.** Leaflets fairly symmetrical, with secondary veins straight, close together, parallel, depressed above and prominent below; staminal tube deeply lobed into 10 lobes → [[Entandrophragma_candollei\|*E. candollei*]]
 
-**2.** Leaflets fairly symmetrical, with straight secondary nerves, close together, parallel, depressed above and prominent below; staminal tube deeply divided into 10 lobes → [[Entandrophragma_candollei\|*E. candollei*]] ^k2
+**2′.** Leaflets asymmetrical, often falcate, with secondary veins more widely spaced and curved; staminal tube entire → [[Entandrophragma_utile\|*E. utile*]]
 
-**2′.** Leaflets asymmetrical, often falcate, with secondary nerves more spaced and curved; staminal tube entire → [[Entandrophragma_utile\|*E. utile*]]
+**3.** Apex of leaflets often with a spoon-shaped acumen (the margins of the mucro folded toward the upper face); petals most often glabrous externally; capsule with basal dehiscence → couplet **4**
 
-**3.** Apex of leaflets often with a spoon-shaped acumen (the margins of the mucro folded towards the upper surface); petals mostly glabrous externally; capsule with basal dehiscence → [[#^k4|4]] ^k3
+**3′.** Apex of leaflets never mucronate-cuspidate, nor with margins curved upward; petals slightly pubescent externally; capsule with apical dehiscence → couplet **5**
 
-**3′.** Apex of leaflets never mucronate-cuspidate, nor with margins recurved upwards; petals slightly pubescent externally; capsule with apical dehiscence → [[#^k5|5]]
+**4.** Leaflet with midrib on lower face pubescent on its flanks; vein reticulum effaced; no domatia in hair tufts; staminal tube 3–4 mm in length → [[Entandrophragma_angolense\|*E. angolense*]]
 
-**4.** Leaflet with midrib on the lower surface pubescent on its flanks; network of veinlets effaced; no domatia in tufts of hairs; staminal tube 3–4 mm in length → [[Entandrophragma_angolense\|*E. angolense*]] ^k4
+**4′.** Leaflet with midrib on lower face glabrous on its flanks; vein reticulum prominent; sometimes with domatia in hair tufts at the vein axils; staminal tube 2–3 mm in length → [[Entandrophragma_congoense\|*E. congoense*]]
 
-**4′.** Leaflet with midrib on the lower surface glabrous on its flanks; network of veinlets prominent; sometimes with domatia in tufts of hairs at the intersection of the nerves; staminal tube 2–3 mm in length → [[Entandrophragma_congoense\|*E. congoense*]]
+**5.** Secondary veins 6–10 pairs; vein reticulum prominent on both faces; staminal tube 2 mm in length → [[Entandrophragma_cylindricum\|*E. cylindricum*]]
 
-**5.** Secondary nerves 6–10 pairs; network of veinlets prominent on both surfaces; staminal tube 2 mm in length → [[Entandrophragma_cylindricum\|*E. cylindricum*]] ^k5
+**5′.** Secondary veins 6–15(–20) pairs; vein reticulum prominent or not; staminal tube more than 2 mm in length → couplet **6**
 
-**5′.** Secondary nerves 6–15(–20) pairs; network of veinlets prominent or not; staminal tube more than 2 mm in length → [[#^k6|6]]
+**6.** Vein reticulum prominent; staminal tube lobed into 10 lobes; columella long-stipitate at the base → [[Entandrophragma_candollei\|*E. candollei*]]
 
-**6.** Network of veinlets prominent; staminal tube divided into 10 lobes; columella long-stipitate at the base → [[Entandrophragma_candollei\|*E. candollei*]] ^k6
-
-**6′.** Network of veinlets effaced, but sometimes distinct by a dark brown coloration; staminal tube entire; columella never clearly stipitate at the base → [[Entandrophragma_utile\|*E. utile*]]
-
+**6′.** Vein reticulum effaced, but sometimes distinct by dark brown coloration; staminal tube entire; columella never clearly stipitate at the base → [[Entandrophragma_utile\|*E. utile*]]
 
 ## Species in region
 

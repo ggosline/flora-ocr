@@ -34,11 +34,9 @@ Stipularia gabonica Hiern, to be excluded, is a Sabicea.
 
 ## Key to the species
 
+**1.** Involucre 4-lobed; lobes externally glabrous, reddish-brown when dry; lamina 12–30 cm long; stipules 15–30 mm wide and ± persistent → 1. St. africana.
 
-**1.** Involucre 4-lobed; lobes externally glabrous, reddish-brown when dry; limb 12-30 cm long; stipules 15-30 mm wide and ± persistent → 1. St. africana. ^k1
-
-**1′.** Involucre 2-3 lobed; lobes externally covered with a fine and dense whitish tomentellous indumentum when dry; limb 6 to 18 cm long; stipules 2 to 7 mm wide and ± caducous → St. elliptica.
-
+**1′.** Involucre 2–3 lobed; lobes externally covered with a fine and dense tomentellous whitish indumentum when dry; lamina 6–18 cm long; stipules 2–7 mm wide and ± caducous → St. elliptica.
 
 ## Species in region
 

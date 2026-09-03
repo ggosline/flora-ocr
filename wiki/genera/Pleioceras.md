@@ -27,11 +27,9 @@ BIBLIOGRAPHY
 
 ## Key to the species
 
+/LPEHILURODUH JODERUH RX SUHVTXH GH VRXV j QHUYDtLRQ WHUWLDLUH SHX YLVLEOH DSSRQ - dix médian de chaque lobe de la corolle arrondi au sommet et pubescent ... P. gilletii
 
-Corolla lobes almost lacking a tertiary venation visible under magnification, median appendix of each lobe of the corolla rounded at the apex and pubescent ... P. gilletii
-
-**—** Leaf blade densely pubescent on the midvein beneath, with tertiary venation apparent, median appendix of each lobe of the corolla bifid at the apex → [[Pleioceras_zenkeri\|*P. zenkeri*]]
-
+**—** Limbe foliaire densément pubescent sur la nervure médiane dessous, à nervation tertaire apparente, appendice médian de chaque lobe de la corolle bifide au som - met → [[Pleioceras_zenkeri\|*P. zenkeri*]]
 
 ## Species in region
 

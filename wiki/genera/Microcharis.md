@@ -27,15 +27,13 @@ Bibliography: Gillett (1958, 1971a), Lewis et al. (2005), Schrire (1992, 2012).
 
 ## Key to the species
 
+**1.** Perennial herb, with woody base, ± glabrous; leaf with rachis apex resembling a terminal leaflet (and thus leaf effectively paripinnate), leaflets 4 to 12, with linear limb 0.1–0.8 mm wide → [[Microcharis_asparagoides\|*M. asparagoides*]]
 
-**1.** Perennial herb, with woody base, ± glabrous; leaf with apex of rachis resembling a terminal leaflet (and thus leaf effectively paripinnate), leaflets 4 to 12, with linear lamina 0.1–0.8 mm wide → [[Microcharis_asparagoides\|*M. asparagoides*]] ^k1
+**1′.** Annual herb or rarely perennial, distinctly hairy; leaves at the base of the plant simple or 1-foliolate or else with 3 to 5(–7) leaflets, the terminal one well developed, with narrowly lanceolate to elliptic or obovate limb, sometimes suborbicular → couplet **2**
 
-**1′.** Annual or rarely perennial herb, distinctly hairy; leaves at the base of the plant simple or 1-foliolate or else with 3 to 5(–7) leaflets, the terminal one well developed, with narrowly lanceolate to elliptic or obovate lamina, sometimes suborbicular → [[#^k2|2]]
-
-**2.** Calyx 2–3 mm long, with subulate lobes, equalling to up to 2 times longer than the tube; legume with 8 to 14 seeds → [[Microcharis_welwitschii\|*M. welwitschii*]] ^k2
+**2.** Calyx 2–3 mm long, with subulate lobes, equalling to up to 2 times longer than the tube; legume with 8 to 14 seeds → [[Microcharis_welwitschii\|*M. welwitschii*]]
 
 **2′.** Calyx 1–1.5 mm long, with narrowly triangular lobes, ± as long as the tube; legume with 4 to 8 seeds → [[Microcharis_remotiflora\|*M. remotiflora*]]
-
 
 ## Species in region
 

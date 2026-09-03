@@ -25,9 +25,7 @@ Hubbard (F.T.A. X, r) distinguishes two species in tropical Africa which he sepa
 
 ## Key to the species
 
-
-**1′.** Callus hairs 4 to 7 mm long; glumes equal, subequal or rarely very unequal, the upper one ovate or ovate-oblong, rarely oblong, 2.5 to 5 and rarely 6 mm long; lower lemma 6 to 11 mm long → P. mauritianus Kunth. The only specimen examined for Gabon (Le Testu 2401, région de la Ngounyé) is unfortunately sterile, but given the geographic distribution of the two species, it is very probably P. mauritianus, the only one recorded thus far in the equatorial regions of West Africa.
-
+**1′.** Callus hairs 4 to 7 mm long; glumes equal, subequal or rarely very unequal, the upper one oval or oval-oblong, rarely oblong, 2.5 to 5 and rarely 6 mm long; lower lemma 6 to 11 mm long → P. mauritianus Kunth. The only specimen examined for Gabon (Le Testu 2401, Ngounyé region) is unfortunately sterile, but given the geographic distribution of the two species, it is very probably P. mauritianus, the only one recorded thus far in the equatorial regions of West Africa.
 
 ## Species in region
 

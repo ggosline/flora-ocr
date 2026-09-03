@@ -31,19 +31,19 @@ male flowers consist of a column bearing several stamens. Perianth absent.
 
 ## Key to the species
 
+**1.** Drupes 6 cm in length → [[Pandanus_parvicentralis\|*P. parvicentralis*]]
 
-**1.** Drupes 6 cm long → [[Pandanus_parvicentralis|*P. parvicentralis*]] ^k1
+**1′.** Drupes 3-4 cm in length.
 
-**1′.** Drupes 3–4 cm long.
+**2.** Drupes 4 cm in length, with conformable apex.
 
-**1′.** 2. Drupes 4 cm, apex conical.
+**3.** Infructescence with 1 syncarp → [[Pandanus_gabonensis\|*P. gabonensis*]]
 
-**1′.** 3. Infructescence with 1 syncarp → [[Pandanus_gabonensis|*P. gabonensis*]]
+**3′.** Infructescence with 3-5 syncarps → 2 bis. P. candelabrum.
 
-**1′.** 3'. Infructescence with 3–5 syncarps → [[Pandanus_candelabrum|*P. candelabrum*]]
+**2′.** Drupes 3 cm in length, with tabular apex → 3. P. teuszii. <table><tr><td>Characters</td><td>P. gabonensis</td><td>P. parvicentralis</td><td>P. teuszii</td></tr><tr><td>Length of the drupe</td><td>4 cm coniform, not compressed</td><td>6 cm coniform, compressed</td><td>3 cm tabular</td></tr><tr><td>Position of the centre of the seed chamber with respect to the length of the drupe</td><td>always supramedian</td><td>never supramedian</td><td>always supramedian</td></tr><tr><td>Shape of the endocarp at the periphery</td><td>endocarp scarcely shouldered</td><td>endocarp strongly shouldered</td><td>endocarp not shouldered</td></tr><tr><td>Position of the peripheral apex of the endocarp with respect to its axial apex</td><td>lower</td><td>higher</td><td>lower</td></tr><tr><td>Axial fibre compared at the level of the median of the upper mesocarp to the thickest extra-axial fibres</td><td>at most 2 times as thick</td><td>at most 1.5 times as thick</td><td>6-7 times as thick</td></tr><tr><td>Ratio between the axial length of the endocarp and that of the drupe</td><td>approx. 0.29</td><td>approx. 0.21</td><td>approx. 0.49</td></tr><tr><td>Hypodermic pileal cells</td><td>mostly not lignified; some giant lignified</td><td>mostly lignified; no giant lignified</td><td>mostly not lignified; some giant lignified</td></tr></table>
 
-**1′.** 2'. Drupes 3 cm, apex tabular → [[Pandanus_teuszii|*P. teuszii*]]
-
+**1.** See footnote p. 7.
 
 ## Species in the region
 

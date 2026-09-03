@@ -27,15 +27,13 @@ Bibliography
 
 ## Key to the species
 
-
-**1.** Fruit pilose; bracts and bracteoles suborbicular or oval to elliptic → [[#^k2|2]] ^k1
+**1.** Fruit pilose; bracts and bracteoles suborbicular or ovate to elliptic → couplet **2**
 
 **1′.** Fruit glabrous; bracts and bracteoles narrowly oblong-lanceolate to subulate → [[Carpolobia_alba\|*C. alba*]]
 
-**2.** Tree reaching 30 m; fruit puberulent to finely tomentose, the visible surface between the hairs; seeds with erect pilosities → [[Carpolobia_gossweileri\|*C. gossweileri*]] ^k2
+**2.** Tree reaching 30 m; fruit puberulent to finely tomentose, the visible surface between the hairs; seeds with erect pilosities → [[Carpolobia_gossweileri\|*C. gossweileri*]]
 
-**2′.** Shrub reaching 3 m; fruit densely and shortly velutinous, the surface obscured by the pilosities; seeds with appressed pilosities → [[Carpolobia_gabonica\|*C. gabonica*]]
-
+**2′.** Shrub reaching 3 m; fruit densely and shortly velutinous, the surface obscured by pilosities; seeds with appressed pilosities → [[Carpolobia_gabonica\|*C. gabonica*]]
 
 ## Species in region
 

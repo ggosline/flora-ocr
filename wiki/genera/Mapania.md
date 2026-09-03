@@ -73,95 +73,99 @@ Simpson (1992), Simpson et al. (2003).
 
 ## Key to the species
 
+**1.** Central flowering stem, often with a leaf → couplet **2**
 
-**1.** Central fertile stem, often with a leaf → [[#^k2|2]] ^k1
+**1′.** Lateral flowering stem, without a leaf, appearing at the axil of old basal leaves (sometimes decomposed) → 16 SPECIES WITH CENTRAL FLOWERING STEM
 
-**1′.** Lateral fertile stem, without a leaf, appearing at the axil of old basal leaves (sometimes decomposed) → 16 SPECIES WITH CENTRAL FERTILE STEM.
+**2.** Basal leaves reduced to sheaths; flowering stem leafy mainly in the upper 2/3 or stem leafless (involucral bracts present) → couplet **3**
 
-**2.** Basal leaves reduced to sheaths; fertile stem leafy mainly in the upper 2/3 or stem non-leafy (involucral bracts present) → [[#^k3|3]] ^k2
+**2′.** Flowering stem leafy near the base (sheaths without blade may also be present in addition to those bearing a blade) → couplet **4**
 
-**2′.** Fertile stem leafy near the base (sheaths without blade may also be present in addition to those bearing a blade) → [[#^k4|4]]
-
-**3.** Stem non-leafy; inflorescence surrounded by 3 involucral foliaceous bracts, equal, ovate, 3–6 cm long; basal leaves reduced to purplish sheaths; inflorescence in compact ovate head → M. sylvatica subsp. gabonica ^k3
+**3.** Stem leafless; inflorescence surrounded by 3 foliaceous involucral bracts, equal, ovate, 3–6 cm long; basal leaves reduced to violaceous sheaths; inflorescence in compact ovate head → M. sylvatica subsp. gabonica
 
 **3′.** Stem with 5–10 leaves, the largest 25–40 cm long; inflorescence surrounded by foliaceous involucral bracts of different sizes and at most 2 cm wide; inflorescence lax → [[Mapania_lancifolia\|*M. lancifolia*]]
 
-**4.** Inflorescence lax; blade linear; spicoid with 2 floral bracts → [[#^k5|5]] ^k4
+**4.** Inflorescence lax; blade linear; spicoid with 2 floral bracts → couplet **5**
 
-**4′.** Inflorescence compact, capitate; blade linear or lanceolate to ovate, sometimes with a pseudo-petiole between sheath and blade; spicoid with 4–6 floral bracts → [[#^k9|9]]
+**4′.** Inflorescence compact, capitate; blade linear or lanceolate to ovate, sometimes with a pseudo-petiole between sheath and blade; spicoid with 4–6 floral bracts → couplet **9**
 
-**5.** Spikes 3.5–5 mm long at maturity; spicoid bracts 1.5–2 mm long → [[Mapania_heterophylla\|*M. heterophylla*]] ^k5
+**5.** Spikes 3.5–5 mm long at maturity; spicoid bracts 1.5–2 mm long → [[Mapania_heterophylla\|*M. heterophylla*]]
 
-**5′.** Spikes 5–18 mm long at maturity; spicoid bracts 2.5–3 mm long → [[#^k6|6]]
+**5′.** Spikes 5–18 mm long at maturity; spicoid bracts 2.5–3 mm long → couplet **6**
 
-**6.** Spicoid bracts marbled; largest blade 3–4.5 cm wide → [[Mapania_polystachya\|*M. polystachya*]] ^k6
+**6.** Spicoid bracts marbled; largest blade 3–4.5 cm wide → [[Mapania_polystachya\|*M. polystachya*]]
 
-**6′.** Spicoid bracts without marbling; largest blade 2–3 cm wide → [[#^k7|7]]
+**6′.** Spicoid bracts without marbling; largest blade 2–3 cm wide → couplet **7**
 
-**7.** Achene entirely wrinkled → [[Mapania_chevalieri\|*M. chevalieri*]] ^k7
+**7.** Achene entirely wrinkled → [[Mapania_chevalieri\|*M. chevalieri*]]
 
-**7′.** Achene not entirely wrinkled, upper part almost smooth → [[#^k8|8]]
+**7′.** Achene not entirely wrinkled, upper part almost smooth → couplet **8**
 
-**8.** Achene straw yellow with reddish dots, smooth or with longitudinal lines or weak ribs or slightly wrinkled below, without constriction → [[Mapania_purpurascens\|*M. purpurascens*]] ^k8
+**8.** Achene straw-yellow with reddish dots, smooth or with longitudinal lines or weak ribs or slightly wrinkled at base, without constriction → [[Mapania_purpurascens\|*M. purpurascens*]]
 
-**8′.** Achene straw yellow to brownish, wrinkled or striated below, often constricted above the middle → [[Mapania_afro-orientalis\|*M. afro-orientalis*]]
+**8′.** Achene straw-yellow to brownish, wrinkled or striated at base, often constricted above the middle → [[Mapania_afro-orientalis\|*M. afro-orientalis*]]
 
-**9.** Leaf with a pseudo-petiole; blade linear to ovate–lanceolate → [[#^k10|10]] ^k9
+**9.** Leaf with a pseudo-petiole; blade linear to ovate–lanceolate → couplet **10**
 
-**9′.** Leaf without pseudo-petiole; blade linear, gradually narrowed into sheath → [[#^k13|13]]
+**9′.** Leaf without pseudo-petiole; blade linear, gradually narrowed into sheath → couplet **13**
 
-**10.** Spicoid bracts with hyaline hairs; style with 3 branches; 6 floral bracts → [[Mapania_pubisquama\|*M. pubisquama*]] ^k10
+**10.** Spicoid bracts with hyaline hairs; style with 3 branches; 6 floral bracts → [[Mapania_pubisquama\|*M. pubisquama*]]
 
-**10′.** Spicoid bracts glabrous or sparsely hairy; style with 2 branches; 4 floral bracts → [[#^k11|11]]
+**10′.** Spicoid bracts glabrous or sparsely hairy; style with 2 branches; 4 floral bracts florals → couplet **11**
 
-**11.** Terminal inflorescence formed of a dense globose cluster of spikes, often partially surrounded by the basal involucral bract; spicoid bracts 5–8 mm long, hispid toward the apex → [[Mapania_amplivaginata\|*M. amplivaginata*]] ^k11
+**11.** Terminal inflorescence formed of a globose cluster of spikes, dense, often partly surrounded by the basal involucral bract; spicoid bracts 5–8 mm long, hispid toward apex → [[Mapania_amplivaginata\|*M. amplivaginata*]]
 
-**11′.** Terminal or pseudolateral inflorescence formed of a cluster of spikes, dense or more lax, not hidden by the involucral bracts; spicoid bracts 4–5 mm long, glabrous → [[#^k12|12]]
+**11′.** Terminal or pseudolateral inflorescence formed of a cluster of spikes, dense or more lax, not hidden by involucral bracts; spicoid bracts 4–5 mm long, glabrous → couplet **12**
 
-**12.** Largest blades 2–6 cm wide; basal involucral bracts 2.5–5 cm wide; inflorescence 2–4.5 cm wide; floral bracts approximately the same length → [[Mapania_mannii\|*M. mannii*]] ^k12
+**12.** Largest blades 2–6 cm wide; basal involucral bracts 2.5–5 cm wide; inflorescence
 
-**12′.** Largest blades 1.5–2 cm wide; basal involucral bracts narrower (<1.8 cm); inflorescence 1.4–2.2 cm wide; lower floral bracts longer than the upper → [[Mapania_testui\|*M. testui*]]
+**2.** 4.5 cm wide; floral bracts approximately of the same length → [[Mapania_mannii\|*M. mannii*]]
 
-**13.** Largest blades less than 3.1 cm wide → [[Mapania_soyauxii\|*M. soyauxii*]] ^k13
+**2′.** Largest blades 1.5–2 cm wide; basal involucral bracts narrower (<1.8 cm); inflorescence 1.4–2.2 cm wide; lower floral bracts longer than upper ones → [[Mapania_testui\|*M. testui*]]
 
-**13′.** Largest blades more than 3.5 cm wide → [[#^k14|14]]
+**13.** Largest blades less than 3.1 cm wide → [[Mapania_soyauxii\|*M. soyauxii*]]
 
-**14.** Inflorescence in compact cluster of often indistinct spikes; spicoid bracts 9–10 × 1–1.2 mm; floral bracts 9–11 mm long → [[Mapania_macrantha\|*M. macrantha*]] ^k14
+**13′.** Largest blades more than 3.5 cm wide → couplet **14**
 
-**14′.** Inflorescence in slightly more open cluster of indistinct spikes; spicoid bracts 6–10 × 1.2–2.5 mm; floral bracts 6–11 mm long → [[#^k15|15]]
+**14.** Inflorescence in compact cluster of spikes often poorly distinct; spicoid bracts
 
-**15.** Inflorescence purplish; style 6.5–9 mm with branches 3–4.5 mm long; the 2 lower floral bracts 9–11 mm long → [[Mapania_purpuriceps\|*M. purpuriceps*]] ^k15
+**9.** 10 × 1–1.2 mm; floral bracts 9–11 mm long → [[Mapania_macrantha\|*M. macrantha*]]
 
-**15′.** Inflorescence medium to dark brown; style 4.9–5 mm with branches 1.5–2.3 mm long; the 2 lower floral bracts 6–7 mm long → M. raynaliana SPECIES WITH LATERAL FERTILE STEM.
+**9′.** Inflorescence in slightly more open cluster of poorly distinct spikes; spicoid bracts
 
-**16.** Inflorescence in lax corymbiform anthela, 3–15 cm wide; fruit with longitudinal ribs → [[Mapania_heteromorpha\|*M. heteromorpha*]] ^k16
+**6.** 10 × 1.2–2.5 mm; floral bracts 6–11 mm long → couplet **15**
 
-**16′.** Inflorescence in dense spheric head formed of crowded spikes, rarely in lax hemispherical anthela at most 3 cm wide; fruit tuberculate or smooth → [[#^k17|17]]
+**15.** Inflorescence violaceous; style 6.5–9 mm with branches 3–4.5 mm long; the 2 lower floral bracts 9–11 mm long → [[Mapania_purpuriceps\|*M. purpuriceps*]]
 
-**17.** Stem very scabrous below the inflorescence with narrow ribs bearing small teeth; inflorescence in very dense spheric head → [[Mapania_scaberrima\|*M. scaberrima*]] ^k17
+**15′.** Inflorescence medium to dark brown; style 4.9–5 mm with branches 1.5–2.3 mm long; the 2 lower floral bracts 6–7 mm long → M. raynaliana SPECIES WITH LATERAL FLOWERING STEM
 
-**17′.** Stem rounded below the inflorescence, smooth; inflorescence in dense or lax head → [[#^k18|18]]
+**16.** Inflorescence in lax corymbiform anthela, 3–15 cm wide; fruit with longitudinal ribs → [[Mapania_heteromorpha\|*M. heteromorpha*]]
 
-**18.** Inflorescence in spheric head 1–3 cm wide, rarely more; 2 floral bracts → [[#^k19|19]] ^k18
+**16′.** Inflorescence in dense spheric head formed of tight spikes, rarely in lax hemispherical anthela 3 cm wide at most; fruit tuberculate or smooth → couplet **17**
 
-**18′.** Inflorescence in spheric head 0.5–1.8 cm wide; 4–8 floral bracts → [[#^k21|21]]
+**17.** Stem very scabrous below the inflorescence with narrow ribs furnished with small teeth; inflorescence in very dense spheric head → [[Mapania_scaberrima\|*M. scaberrima*]]
 
-**19.** Spike pale or whitish or at least white toward the apex → [[Mapania_senegalensis\|*M. senegalensis*]] ^k19
+**17′.** Stem rounded below the inflorescence, smooth; inflorescence in dense or lax head → couplet **18**
 
-**19′.** Spike brown, without whitish parts → [[#^k20|20]]
+**18.** Inflorescence in spheric head 1–3 cm wide, rarely more; 2 floral bracts → couplet **19**
 
-**20.** Inflorescence in dense head of spikes or in umbel with branches terminating in a small cluster of spikes; involucral bracts purplish; achene 2–3 mm long, tuberculate → [[Mapania_secans\|*M. secans*]] ^k20
+**18′.** Inflorescence in spheric head 0.5–1.8 cm wide; 4–8 floral bracts → couplet **21**
 
-**20′.** Inflorescence in dense spheric head formed of crowded spikes; involucral bracts green; achene 3.5–4.5 mm long, weakly wrinkled, with a prominent beak → [[Mapania_pynaertii\|*M. pynaertii*]]
+**19.** Spike pale or whitish or at least white toward the apex → [[Mapania_senegalensis\|*M. senegalensis*]]
 
-**21.** Spicoid bracts 2–2.5 mm long; floral bracts 2.3–2.5 mm long → [[Mapania_pallescens\|*M. pallescens*]] ^k21
+**19′.** Spike brown, without whitish parts → couplet **20**
 
-**21′.** Spicoid bracts 3.5–5.5 mm long; floral bracts 3.5–5 mm long → [[#^k22|22]]
+**20.** Inflorescence in dense head of spikes or in umbel with branches ending in a small cluster of spikes; involucral bracts violaceous; achene 2–3 mm long, tuberculate → [[Mapania_secans\|*M. secans*]]
 
-**22.** Stem 0.9–2 mm wide, ± erect; inflorescence with at least 3 spikes → M. africana var. africana ^k22
+**20′.** Inflorescence in dense spheric head formed of tight spikes; involucral bracts green; achene 3.5–4.5 mm long, weakly wrinkled, with a prominent beak → [[Mapania_pynaertii\|*M. pynaertii*]]
 
-**22′.** Stem 0.4–0.7 mm wide, curved; inflorescence with 1–2 spikes → M. africana var. filipes.
+**21.** Spicoid bracts 2–2.5 mm long; floral bracts 2.3–2.5 mm long → [[Mapania_pallescens\|*M. pallescens*]]
 
+**21′.** Spicoid bracts 3.5–5.5 mm long; floral bracts 3.5–5 mm long → couplet **22**
+
+**22.** Stem 0.9–2 mm wide, ± erect; inflorescence with at least 3 spikes → M. africana var. africana
+
+**22′.** Stem 0.4–0.7 mm wide, arcuate; inflorescence with 1–2 spikes → M. africana var. filipes
 
 ## Species in region
 

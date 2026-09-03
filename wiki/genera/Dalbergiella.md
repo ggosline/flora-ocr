@@ -25,11 +25,9 @@ Bibliography: Brummitt et al. (2007), Lewis et al. (2005), Pellegrin (1949), Pol
 
 ## Key to the species
 
+**1.** Leaflets in 10 to 15 pairs, with oblong blade, the central ones 2.5–7 × 1–3 cm, ± rounded or sometimes emarginate at apex; ascending pseudoraceme, dense, 7–16 cm in length → [[Dalbergiella_welwitschii\|*D. welwitschii*]]
 
-**1.** Leaflets in 10 to 15 pairs, with oblong blade, the central ones 2.5–7 × 1–3 cm, ± rounded or sometimes emarginate at apex; pseudoraceme ascending, dense, 7–16 cm long → [[Dalbergiella_welwitschii\|*D. welwitschii*]] ^k1
-
-**1′.** Leaflets in 2 to 4 pairs, with ovate blade, 4–9.5 × 2–4.5 cm, acuminate at apex; pseudoraceme pendulous, lax, 5–9(–13) cm long → [[Dalbergiella_gossweileri\|*D. gossweileri*]]
-
+**1′.** Leaflets in 2 to 4 pairs, with ovate blade, 4–9.5 × 2–4.5 cm, acuminate at apex; pendulous pseudoraceme, lax, 5–9(–13) cm in length → [[Dalbergiella_gossweileri\|*D. gossweileri*]]
 
 ## Species in region
 

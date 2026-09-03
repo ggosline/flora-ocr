@@ -24,21 +24,11 @@ Trees with simple alternate leaves, caducous stipules leaving annular scars, and
 | [[Irvingia_cf_excelsa\|I. cf. excelsa]] | uncertain large-fruited northern form |
 | [[Irvingia_grandifolia\|I. grandifolia]] | large-leaved wet-ground tree |
 
-## Key
+## Key to the species
 
+**1′.** Flowers subsessile, inserted singly along the axes. Terminal panicles. Large elliptic or obovate-elliptic leaves, reaching 35 cm long by 18 cm wide, cordate or subcordate at the base
 
-**1.** Flowers distinctly pedicellate, grouped along the axes. ^k1
-
-**1.** Racemes short and axillary; pedicels 5–10 mm.
-
-**1.** Leaves obovate-elliptic or elliptic, base cuneate to obtuse — [[Irvingia_gabonensis|I. gabonensis]].
-
-**2.** Leaves oblong and distinctly cordate — *I. robur*. ^k2
-
-**2.** Panicles terminal; pedicels 3–5 mm; leaves ovate, base rounded or subcordate; riparian — *I. smithii*.
-
-**2.** Flowers subsessile and solitary; terminal panicles; leaves to 35 × 18 cm, base cordate or subcordate — [[Irvingia_grandifolia|I. grandifolia]].
-
+**2.** I. grandifolia.
 
 ## Treatments
 

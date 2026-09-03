@@ -31,11 +31,9 @@ Type of the genus: Euclinia longiflora Salisb., not yet known from Gabon; it is 
 
 ## Key to the species
 
+**1.** Corolla with tube 16–24 cm long; sepals narrowly oblong or ± unguiculate and distinctly spaced from one another at the base; flower pedicellate; approximately 9 pairs of secondary nerves
 
-**1.** Corolla with tube 16–24 cm long; sepals narrowly oblong or ± unguiculate and distinctly spaced from each other at the base; flower pedicellate; approximately 9 pairs of secondary veins ^k1
-
-**1′.** Corolla with tube 2–5 cm; sepals ± attenuate above the lower third and ± imbricate at the base; flower sessile; approximately 12 pairs of secondary veins → [[Euclinia_squamifera\|*E. squamifera*]]
-
+**1′.** Corolla with tube 2–5 cm; sepals ± attenuate above the lower third and ± imbricate at the base; flower sessile; approximately 12 pairs of secondary nerves → [[Euclinia_squamifera\|*E. squamifera*]]
 
 ## Species in region
 

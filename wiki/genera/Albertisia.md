@@ -32,6 +32,20 @@ A Palaeotropical genus of about **18 species**, of which 13 in tropical
 Africa and 5 in SE Asia. **Three or possibly four species in Gabon**, all
 endemic or near-endemic.
 
+## Key to the species
+
+**1.** Leaf blade with (2)3(4) pairs of basal nerves, if 1 pair of basal nerves, then longer than half the blade → couplet **2**
+
+**1′.** Leaf blade with 5 or 6 pairs of thin lateral nerves, without dominant basal nerves → [[Albertisia_mouilaensis\|*A. mouilaensis*]]
+
+**2.** Leaf blade ovate, (10–)17–31 × (5–)9–16 cm, with 2 to 4 pairs of basal nerves → couplet **3**
+
+**2′.** Leaf blade oblong-elliptic, 9–11 × 4–4.5 cm, with one pair of basal nerves longer than half the blade → [[Albertisia_badia\|*A. badia*]]
+
+**3.** Branchlets, petioles and lower nervation of leaf blade tomentose → [[Albertisia_porcata\|*A. porcata*]]
+
+**3′.** Branchlets, petioles and lower nervation of leaf blade hirsute → A. sp. (nov. ?)
+
 ## Species in Gabon
 
 | Species | Status | Distribution (Gabon) | Page |

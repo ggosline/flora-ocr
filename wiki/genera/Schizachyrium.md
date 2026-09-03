@@ -31,9 +31,7 @@ This genus is characterized essentially by its glumes with clearly folded margin
 
 ## Key to the species
 
-
-**1′.** Lower floret of the sessile spikelet shortly bidentate at the apex; lower glume flattened on the back, with fine but distinct nerves; erect perennial grasses with silky white pubescent racemes → 4. S. Thollonii. Schizachyrium are savanna grasses that can be found in quite diverse habitats. The ecological requirements of the different species are often quite narrow. The annual species are generally good forage plants, though of reduced interest due to their weak development and often low density in herbaceous stands.
-
+**1′.** Lower lemma of the sessile spikelet fertile, shortly bidentate at apex; lower glume flattened on the back, with fine but distinct nerves; erect perennial grasses with white silky pubescent racemes → 4. S. Thollonii. Schizachyrium species are savanna grasses, which may be found in rather diverse habitats. The ecological requirements of the different species are often quite narrow. The annual species are generally good forage plants, though their interest is reduced due to their poor development and often low density in herbaceous stands.
 
 ## Species in region
 

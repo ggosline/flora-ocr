@@ -21,17 +21,15 @@ pseudostem. Scape solid; involucre of 4 to many bracts; umbel conspicuous,
 with more than 20 red to pink flowers. Fruit an orange to red berry with 1–3
 pale, globose seeds.
 
-## Key
+## Key to the species
 
+**1.** Plants with rhizomes; floral scape apparently central among the leaves; perianth segments with 5 nerves and, most often, more than 2 mm wide.
 
-**1.** Rhizomatous; scape apparently central; perianth segments 5-veined, usually >2 mm wide ^k1
+**2.** Leaf base not forming a false stem; perianth tube 3-10 mm long → [[Scadoxus_cinnabarinus\|*S. cinnabarinus*]]
 
-**1′.** Leaf bases not forming a pseudostem; tube 3–10 mm → [[Scadoxus_cinnabarinus|*S. cinnabarinus*]]
+**2′.** Leaf bases sheathing, forming a false stem more than 15 cm long; perianth tube 10-18 mm long → [[Scadoxus_pseudocaulus\|*S. pseudocaulus*]]
 
-**1′.** Leaf bases forming a pseudostem >15 cm; tube 10–18 mm → [[Scadoxus_pseudocaulus|*S. pseudocaulus*]]
-
-**1′.** Bulb above a rhizomatous part; scape lateral; segments 3-veined, usually <2 mm wide → [[Scadoxus_multiflorus|*S. multiflorus* subsp. *multiflorus*]]
-
+**1′.** Plants with a bulb above a distinct rhizomatous portion; floral scape lateral with respect to the leaves; perianth segments with 3 nerves and, most often, less than 2 mm wide → [[Scadoxus_multiflorus\|*S. multiflorus*]]
 
 ## Source
 

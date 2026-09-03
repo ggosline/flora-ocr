@@ -25,45 +25,43 @@ This genus is African, Madagascan and Asian. Most of the 25 recognized species a
 
 ## Key to the species
 
+**1.** Leaves palmatinerved; inflorescences cauline; hydathodes 0.5 mm from the margin of the blade → [[Pyrenacantha_klaineana\|*P. klaineana*]]
 
-**1.** Leaves palmatinerved; inflorescences cauline; hydathodes 5 mm from the leaf margin → [[Pyrenacantha_klaineana\|*P. klaineana*]] ^k1
+**2.** Blade sparsely pubescent or tomentose; primary and secondary veins pubescent ___ var. klaineana.
 
-**2.** Limb sparsely pubescent or tomentose; primary and secondary nerves pubescent ___ var. klaineana. ^k2
+**2′.** Blade densely and very finely pubescent or tomentose; primary and secondary veins glabrous → var. congolana.
 
-**2′.** Limb densely and very finely pubescent or tomentose; primary and secondary nerves glabrous → var. congolana.
+**1′.** Leaves penninerved; inflorescences axillary; hydathodes absent or on the margin of the blade.
 
-**1′.** Leaves penninerved; inflorescences axillary; hydathodes absent or on the leaf margin.
+**3.** Blade glabrous or very sparsely pubescent.
 
-**3.** Limb glabrous or very sparsely pubescent. ^k3
+**4.** Base rounded or very weakly attenuate; blade 8–14 × 3.5–7 cm → [[Pyrenacantha_glabrescens\|*P. glabrescens*]]
 
-**4.** Base rounded or very weakly attenuate; limb 8–14 × 3.5–7 cm → [[Pyrenacantha_glabrescens\|*P. glabrescens*]] ^k4
+**4′.** Base obtuse or shortly auriculate; blade large: 20–23 × 9–10 cm → [[Pyrenacantha_grandifolia\|*P. grandifolia*]]
 
-**4′.** Base obtuse or shortly auriculate; limb large: 20–23 × 9–10 cm → [[Pyrenacantha_grandifolia\|*P. grandifolia*]]
+**3′.** Blade pubescent beneath → *H. present*
 
-**3′.** Limb pubescent beneath → *H. present*.
+**6.** Hairs appressed.
 
-**6.** Hairs appressed. ^k6
+**7.** Hydathodes globose slightly salient; midvein glabrous above; pubescence of the lower face fairly dense; stem glabrous; flowers sessile; prickles hooked on the inner face of the endocarp → …… 4. P. vogeliana.
 
-**7.** Hydathodes globose, slightly prominent; midvein glabrous above; pubescence of the lower face rather dense; stem glabrous; flowers sessile; prickles hooked on the inner face of the endocarp → …… 4. P. vogeliana. ^k7
-
-**7′.** Hydathodes pyriform, very prominent; midvein pubescent above; pubescence of the lower face very dense; stem pubescent; male flowers pedicellate; prickles straight on the inner face of the endocarp → [[Pyrenacantha_acuminata\|*P. acuminata*]]
+**7′.** Hydathodes pyriform very salient; midvein pubescent above; pubescence of the lower face very dense; stem pubescent; ♂ flowers pedicellate; prickles straight on the inner face of the endocarp → [[Pyrenacantha_acuminata\|*P. acuminata*]]
 
 **6′.** Hairs not appressed, erect and ‡ interlocking.
 
-**8.** Hydathodes globose, not erect; male inflorescences in dense spike; female inflorescences in glomerules → [[Pyrenacantha_staudtii\|*P. staudtii*]] ^k8
+**8.** Hydathodes globose not erect; ♂ inflorescences in dense spike; ♀ inflorescences in glomerules → [[Pyrenacantha_staudtii\|*P. staudtii*]]
 
-**8′.** Hydathodes pyriform; male inflorescences in loose multiflowered racemes; female inflorescences in racemes.
+**8′.** Hydathodes pyriform; ♂ inflorescences in loose many-flowered racemes; ♀ inflorescences in racemes.
 
-**9.** Bracts of male flowers at the apex of the pedicel; petals densely pubescent; prickles straight or forked on the inner face of the endocarp → [[Pyrenacantha_sylvestris\|*P. sylvestris*]] ^k9
+**9.** Bracts of ♂ flowers at the apex of the pedicel; petals densely pubescent; prickles straight or forked on the inner face of the endocarp → [[Pyrenacantha_sylvestris\|*P. sylvestris*]]
 
-**9′.** Bracts of male flowers at the base or middle of the pedicel; petals sparsely pubescent; prickles curved at the apex on the inner face of the endocarp → [[Pyrenacantha_lebrunii\|*P. lebrunii*]]
+**9′.** Bracts of ♂ flowers at the base or middle of the pedicel; petals sparsely pubescent; prickles curved at the apex on the inner face of the endocarp → [[Pyrenacantha_lebrunii\|*P. lebrunii*]]
 
 **5′.** Hydathodes absent.
 
-**10.** Leaf base attenuate or weakly cuneate; stem glabrous; limb elliptic; hairs of the lower face short → [[Pyrenacantha_longirostrata\|*P. longirostrata*]] ^k10
+**10.** Base of blade attenuate or weakly cuneiform; stem glabrous; blade elliptic; hairs of the lower face short → [[Pyrenacantha_longirostrata\|*P. longirostrata*]]
 
-**10′.** Leaf base cordate; stem pubescent; hairs of the lower face of the limb very dense → [[Pyrenacantha_cordicula\|*P. cordicula*]]
-
+**10′.** Base of blade cordate; stem pubescent; hairs of the lower face of the blade very dense → [[Pyrenacantha_cordicula\|*P. cordicula*]]
 
 ## Species in region
 

@@ -49,243 +49,241 @@ Flowers small, actinomorphic, 5-merous, hermaphrodite in African species, whitis
 
 ## Key to the species
 
+**1.** Pistil glabrous with at most a few very rare scattered hairs (very dense ovarian pubescence may form after fertilization).
 
-**1.** Pistil glabrous with at most a few very scattered hairs (very dense ovarian pubescence may form after fertilization). ^k1
+**2.** Leaves and young branchlets glabrous or nearly so; fruits glabrous → [[Dichapetalum_bellum\|*D. bellum*]]
 
-**2.** Leaves and young branches glabrous or nearly so; fruits glabrous → [[Dichapetalum_bellum\|*D. bellum*]] ^k2
+**2′.** Leaves and branchlets pubescent; fruits velvety → 50. D. umbellatum '. Pistil pubescent, at least on the ovary.
 
-**2′.** Leaves and branches pubescent; fruits velvety → 50. D. umbellatum '. Pistil pubescent, at least on the ovary.
+**3.** Indumentum of the ovary cottony-woolly formed of undulate or very crisp hairs, white or dirty brown.
 
-**3.** Indumentum of the ovary cottony-woolly formed of wavy or very crisp hairs, white or dirty brown. ^k3
+**4.** Leaves, at least initially, with long arachnoid hairs (like spider threads) on the lower surface, forming either a loose arachnoid covering or a true fur.
 
-**4.** Leaves, at least initially, with long arachnoid hairs (like spider's threads) on the lower surface, forming either a loose arachnoid coating or a true fur. ^k4
+**5.** Stipules, at least some, palmatifid in 2-4 (5) divisions leaving entirely separate or almost separate scars.
 
-**5.** Stipules, at least some, palmately parted into 2-4 (5) divisions leaving scars entirely or almost entirely separate. ^k5
-
-**6.** Sepals reflexed → [[Dichapetalum_nyangense\|*D. nyangense*]] ^k6
+**6.** Sepals reflexed → [[Dichapetalum_nyangense\|*D. nyangense*]]
 
 **6′.** Sepals erect or nearly so.
 
-**7.** Arachnoid indumentum present on the upper surface of young leaves and as often on young branches. 28. D. lujae ^k7
+**7.** Arachnoid indumentum present on the upper surface of young leaves and as often on young branchlets. 28. D. lujae
 
-**7′.** Arachnoid indumentum absent from the upper surface of young leaves and young branches → [[Dichapetalum_bangii\|*D. bangii*]]
+**7′.** Arachnoid indumentum absent from the upper surface of young leaves and young branchlets → [[Dichapetalum_bangii\|*D. bangii*]]
 
-**5′.** Stipules entire.
+**5.** Stipules entire.
 
-**8.** Arachnoid hairs forming a dense, persistent fur beneath the leaves → [[Dichapetalum_pallidum\|*D. pallidum*]] ^k8
+**8.** Arachnoid hairs forming a dense, persistent fur beneath the leaves → [[Dichapetalum_pallidum\|*D. pallidum*]]
 
 **8′.** Arachnoid hairs caducous beneath the leaves → [[Dichapetalum_arachnoideum\|*D. arachnoideum*]]
 
 **4′.** Leaves without arachnoid hairs on the lower surface.
 
-**9.** Stipules pinnately divided, or at least dentate, generally very persistent → [[Dichapetalum_angolense\|*D. angolense*]] ^k9
+**9.** Stipules pinnatisequate, or at least dentate, generally very persistent → [[Dichapetalum_angolense\|*D. angolense*]]
 
 **9′.** Stipules entire or stipules early caducous.
 
-**10.** Strong and abrupt folding of the extreme base of the margins of the adult limb covering 1 or 2 rather large glands on each side of the primary vein → [[Dichapetalum_congoense\|*D. congoense*]] ^k10
+**10.** Strong and abrupt infolding of the extreme base of the margins of the adult blade covering 1 or 2 rather large glands on each side of vein I → [[Dichapetalum_congoense\|*D. congoense*]]
 
-**10′.** Base of the limb not exhibiting this character.
+**10′.** Base of the blade not presenting this character.
 
-**11.** Sepals rather strongly reflexed on the open flowers. ^k11
+**11.** Sepals rather strongly reflexed on open flowers.
 
-**12.** All or nearly all flowers of the same specimen with a 2-lobed style and a 2-locular ovary. ^k12
+**12.** All or nearly all flowers of the same specimen with a 2-lobed style and a 2-locular ovary.
 
-**13.** Inflorescence sessile at the leaf axil or nearly so; petals dark brown to black when dried → [[Dichapetalum_choristilum\|*D. choristilum*]] ^k13
+**13.** Inflorescence sessile at the leaf axil or nearly so; petals dark brown to black on the dry specimen → [[Dichapetalum_choristilum\|*D. choristilum*]]
 
-**13′.** Inflorescence most often clearly pedunculate; petals yellowish to pale brown when dried → [[Dichapetalum_zenkeri\|*D. zenkeri*]]
+**13′.** Inflorescence most often distinctly pedunculate; petals yellowish to pale brown on the dry specimen → [[Dichapetalum_zenkeri\|*D. zenkeri*]]
 
 **12′.** All or nearly all flowers of the same specimen with a 3-lobed style and a 3-locular ovary.
 
-**14.** Styles deeply lobed for 1-3 mm. ^k14
+**14.** Styles deeply lobed for 1-3 mm.
 
-**15.** Leaves elliptic to obovate, acuminate, rarely otherwise, generally narrowed to a cuneate to narrowly rounded base → [[Dichapetalum_choristilum\|*D. choristilum*]] ^k15
+**15.** Leaves elliptic to obovate, acuminate, rarely otherwise, generally narrowed into a cuneate to narrowly rounded base → [[Dichapetalum_choristilum\|*D. choristilum*]]
 
-**15′.** Leaves ovate to elliptic, rounded apex, rarely acuminate, if so weakly, narrowly rounded to obtuse or cordate base → [[Dichapetalum_potamophilum\|*D. potamophilum*]]
+**15′.** Leaves ovate to elliptic, apex rounded, rarely acuminate, otherwise only weakly so, base narrowly rounded to obtuse or cordate → [[Dichapetalum_potamophilum\|*D. potamophilum*]]
 
-**14′.** Styles very shortly lobed.
+**14.** Styles very shortly lobed.
 
-**16.** Sepals: outer glabrous or nearly so, margin puberulent → [[Dichapetalum_mundense\|*D. mundense*]] ^k16
+**16.** Sepals: outer glabrous or nearly so, margin puberulent → [[Dichapetalum_mundense\|*D. mundense*]]
 
 **16′.** Sepals: outer entirely pubescent.
 
-**17.** Inflorescence: subspherical capitule with slender peduncle without clear branching (sometimes a single branching visible at the top of the peduncle, just below the capitule); leaves bearing rather long hairs ± appressed (but generally perpendicular on the veins) beneath the costa and beneath the principal veins II → *D. gill* ^k17
+**17.** Inflorescence: subspherical capitulum with a slender peduncle without clear branching (sometimes a single branching visible at the apex of the peduncle, just below the capitulum); leaves bearing rather long hairs ± appressed (but generally perpendicular on the veins) beneath the costa and beneath the main veins II → *D. gill*
 
-**17′.** Inflorescence different; leaves glabrous or nearly so, otherwise hairs appressed beneath the principal veins.
+**17′.** Inflorescence different; leaves glabrous or nearly so, otherwise hairs appressed beneath the main veins.
 
-**18.** Petiole (5) 7-10 (12) mm long; branches most often hollow → [[Dichapetalum_beilschmiedioides\|*D. beilschmiedioides*]] ^k18
+**18.** Petiole 7-10 (5) (12) mm long; branchlets most often hollow → [[Dichapetalum_beilschmiedioides\|*D. beilschmiedioides*]]
 
-**18′.** Petiole (1) 2-5 (10) mm long; branches not hollow.
+**18′.** Petiole (1) 2-5 (10) mm long; branchlets not hollow.
 
-**19.** Apex of the limb clearly glandular and tomentose on the lower surface → [[Dichapetalum_librevillense\|*D. librevillense*]] ^k19
+**19.** Apex of blade distinctly glandular and tomentose on the lower surface → [[Dichapetalum_librevillense\|*D. librevillense*]]
 
-**19′.** Apex of the limb not exhibiting these characters.
+**19′.** Apex of blade not presenting these characters.
 
-**20.** Fruits provided with a beak or an apicule, exocarp indehiscent → [[Dichapetalum_fructuosum\|*D. fructuosum*]] ^k20
+**20.** Fruits furnished with a beak or apicule, exocarp indehiscent → [[Dichapetalum_fructuosum\|*D. fructuosum*]]
 
-**20′.** Fruits rounded to obtuse at the apex; exocarp dehiscent.
+**20.** Fruits rounded to obtuse at apex; exocarp dehiscent.
 
-**21.** Limb (2) 3-4 (5) times longer than wide, (4) 6-10 (14) × (1) 2-4 (5) cm; exocarp not fissured in a network → [[Dichapetalum_acuminatum\|*D. acuminatum*]] ^k21
+**21.** Blade (2) 3-4 (5) times longer than wide, (4) 6-10 (14) × (1) 2-4 (5) cm; exocarp not fissured in a network → [[Dichapetalum_acuminatum\|*D. acuminatum*]]
 
-**21′.** Limb 2.5-3 times longer than wide, (6) 8-12 (16) × (2) 3-4 (6) cm; exocarp fissured in a network → *D. altescandes*.
+**21′.** Blade 2.5-3 times longer than wide, (6) 8-12 (16) × (2) 3-4 (6) cm; exocarp fissured in a network → *D. altescandes*
 
-**11′.** Sepals of the open flower not strongly reflexed, at least not in the majority on the same flower, but sepals erect or very slightly to loosely divergent.
+**11′.** Sepals of the open flower not strongly reflexed, at least not predominantly on the same flower, but sepals erect or very slightly to loosely divergent.
 
-**22.** Inflorescence: subspherical capitule with slender peduncle, without clear ramifications or with a single one located just below the capitule; peduncle not fused to the petiole. ^k22
+**22.** Inflorescence: subspherical capitulum with slender peduncle, without clear branching or with a single one located just below the capitulum; peduncle not fused to the petiole.
 
-**23.** Stamens clearly longer than the petals; fruit with dehiscent exocarp and caducous prickly hairs → *D. gillettii* ^k23
+**23.** Stamens clearly longer than the petals; fruit with dehiscent exocarp and caducous stinging hairs → *D. gillettii*
 
-**23′.** Stamens equal to the petals or nearly so; fruit indehiscent, velvety to tomentose → [[Dichapetalum_tomentosum\|*D. tomentosum*]]
+**23.** Stamens equal to the petals or nearly so; fruit indehiscent, velvety to tomentose → [[Dichapetalum_tomentosum\|*D. tomentosum*]]
 
-**22′.** Inflorescence, either with more than one very clear branching, or without a slender peduncle, or also these two characters together, or further peduncle fused to the petiole, or finally inflorescence sessile.
+**22′.** Inflorescence, either with more than one very clear branching, or without a slender peduncle, or both these characters together, or also peduncle fused to the petiole, or finally inflorescence sessile.
 
-**24.** Peduncle of the inflorescence fused to the petiole (the limb of the axillant leaf may be strongly reduced). ^k24
+**24.** Peduncle of the inflorescence fused to the petiole (the blade of the axillary leaf may be strongly reduced).
 
-**25.** Young and old branches hollow, at least between the nodes. ^k25
+**25.** Young and old branchlets hollow, at least between the nodes.
 
-**26.** Fresh leaves papyraceous, often with domatia at the axil of certain veins below; glands of the lower surface, diameter < 0.2 mm; petals 3-4.5 mm long, often somewhat shorter than the stamens; pistil 2-3-merous, 3-6 mm long .. 19. D. gabor ^k26
+**26.** Fresh leaves papyraceous, often with domatia at the axil of certain veins II beneath; glands on the lower surface, diameter < 0.2 mm; petals 3-4.5 mm long, often somewhat shorter than the stamens; pistil 2-3-merous, 3-6 mm long .. 19. D. gabor
 
-**26′.** Fresh leaves coriaceous, without domatia; glands of the lower surface, diameter = 0.3-1 mm; petals 5.5-8 mm long, often longer than the stamens; pistil 3-merous, 6.5-8 mm long → *D. thollon*.
+**26′.** Fresh leaves coriaceous, without domatia; glands on the lower surface, diameter = 0.3-1 mm; petals 5.5-8 mm long, often longer than the stamens; pistil 3-merous, 6.5-8 mm long → *D. thollon*
 
-**25′.** Young and old branches not hollow.
+**25′.** Young and old branchlets not hollow.
 
-**28.** Fruits lenticellate, beak present → [[Dichapetalum_mombuttense\|*D. mombuttense*]] ^k28
+**28.** Fruits lenticellate, beak present → 32 D. mombuttense
 
 **28′.** Fruits smooth, lenticels rare, apex obtuse to apiculate → [[Dichapetalum_affine\|*D. affine*]]
 
 **27′.** Fruits pubescent (hairs sometimes very short!).
 
-**29.** Young branches glabrous, otherwise puberulent and early glabrescent → [[Dichapetalum_pierrei\|*D. pierrei*]] ^k29
+**29.** Young branchlets glabrous, otherwise puberulent and early glabrescent → [[Dichapetalum_pierrei\|*D. pierrei*]]
 
-**29′.** Young branches with a brown powdery indumentum, often mixed with normally developed hairs, rather persistent → [[Dichapetalum_rudatisii\|*D. rudatisii*]]
+**29′.** Young branchlets with a brown powdery indumentum, often mixed with normally developed hairs, fairly persistent → [[Dichapetalum_rudatisii\|*D. rudatisii*]]
 
-**24′.** Peduncle of the inflorescence free relative to the petiole or inflorescence sessile or nearly so.
+**24′.** Peduncle of the inflorescence free with respect to the petiole or inflorescence sessile or nearly so.
 
-**30.** Style deeply cleft, lobes 1-3 mm. 13. D. choristilum ^k30
+**30.** Style deeply cleft, lobes 1-3 mm. 13. D. choristilum 30'. Style very shortly lobed.
 
-**30′.** Style very shortly lobed.
-
-**31.** Petals and stamens 2-3 mm long 46. D. tetrastachyum ^k31
+**31.** Petals and stamens 2-3 mm long 46. D. tetrastachyum
 
 **31′.** Petals and stamens (3.5) 4-6 mm long.
 
-**32.** Style 2-lobed, ovary 2-locular (rare 3-merous pistils sometimes present) → [[Dichapetalum_oblongum\|*D. oblongum*]] ^k32
+**32.** Style 2-lobed, ovary 2-locular (rare 3-merous pistils sometimes present) → [[Dichapetalum_oblongum\|*D. oblongum*]]
 
 **32′.** Style 3 (4)-lobed, ovary 3 (4)-locular (rarely sometimes 2-merous pistil).
 
-**33.** Petals, outer and inner face of the keel tomentose → [[Dichapetalum_pierrei\|*D. pierrei*]] ^k33
+**33.** Petals, outer and inner surface of the keel tomentose → [[Dichapetalum_pierrei\|*D. pierrei*]]
 
-**33′.** Petals glabrous or with very rare external hairs just below the slit.
+**33′.** Petals glabrous or with very rare external hairs just below the cleft.
 
-**34.** Sepals 5-6.5 mm long → [[Dichapetalum_witianum\|*D. witianum*]] ^k34
+**34.** Sepals 5-6.5 mm long → [[Dichapetalum_witianum\|*D. witianum*]]
 
 **34′.** Sepals 2.5-4 mm long → [[Dichapetalum_unguiculatum\|*D. unguiculatum*]]
 
-**3′.** Indumentum of the ovary formed of erect or nearly erect hairs, most often straight or somewhat curved, either short and rigid or long and flexuous.
+**3′.** Indumentum of the ovary formed of erect or nearly erect hairs, most often straight or somewhat curved, either short and stiff or long and flexuous.
 
-**35.** Base of the limb with 2 very distinct piriform pockets → [[Dichapetalum_gassitae\|*D. gassitae*]] ^k35
+**35.** Base of blade with 2 very distinct piriform pockets → 20. D. gassitae 35'. Base of blade not presenting this character.
 
-**35′.** Base of the limb not exhibiting this character.
+**36.** Stipules deeply lobed, otherwise at least dentate, generally very persistent.
 
-**36.** Stipules deeply lobed, if not at least dentate, generally very persistent. ^k36
+**37.** Flowers in a subspherical capitulum with peduncle; lobes of petals pubescent on the outside → [[Dichapetalum_trichocephalum\|*D. trichocephalum*]]
 
-**37.** Flowers in a pedunculate subspherical capitule; lobes of the petals pubescent on the exterior → [[Dichapetalum_trichocephalum\|*D. trichocephalum*]] ^k37
+**37.** Flowers in a glomérule; lobes of petals glabrous on the outside
 
-**37′.** Flowers in a glomérule; lobes of the petals glabrous on the exterior → [[Dichapetalum_pulchrum\|*D. pulchrum*]]
+**41.** D. pulchrum
 
-**36′.** Stipules entire or if not early caducous.
+**36.** Stipules entire or otherwise early caducous.
 
-**38.** Flowers with predominantly bilobed style. ^k38
+**38.** Flowers with a bilobed style predominant.
 
-**39.** Petals bent below the spread lobes; length of the stamens half-length of the petals → [[Dichapetalum_staminellatum\|*D. staminellatum*]] ^k39
+**39.** Petals bent below the spreading lobes; length of stamens half the length of the petals → [[Dichapetalum_staminellatum\|*D. staminellatum*]]
 
-**39′.** Petals bent or not; stamens relatively longer.
+**39.** Petals bent or not; stamens relatively longer.
 
-**40.** Petals and stamens united at the base in a distinct tube 0.5-1 mm long; stamens generally clearly shorter than the petals; anthers sometimes subsessile on the tube. ^k40
+**40.** Petals and stamens united at the base in a distinct tube 0.5-1 mm long; stamens generally clearly shorter than the petals; anthers sometimes subsessile on the tube.
 
-**41.** Young branches, pubescence sparse at first, then early glabrescent → [[Dichapetalum_montanum\|*D. montanum*]] ^k41
+**41.** Young branchlets, pubescence sparse initially, then early glabrescent → [[Dichapetalum_montanum\|*D. montanum*]]
 
-**41′.** Young branches, villous-tomentose indumentum dense very persistent → [[Dichapetalum_insigne\|*D. insigne*]]
+**41′.** Young branchlets, indumentum villous-tomentose dense very persistent → [[Dichapetalum_insigne\|*D. insigne*]]
 
-**40′.** Petals and stamens not fused or almost free.
+**40.** Petals and stamens not fused or nearly free.
 
-**42.** Young branches from glabrous to sparse puberulence and very early glabrescent; inflorescence in 7-flowered cymule; fruits glabrous → [[Dichapetalum_minutiflorum\|*D. minutiflorum*]] ^k42
+**42.** Young branchlets from glabrous to sparse puberulence and very early glabrescent; inflorescence in a 7-flowered cymule; fruits glabrous → [[Dichapetalum_minutiflorum\|*D. minutiflorum*]]
 
-**42′.** Young branches with dense pubescence, glabrescent or not, if not, glabrous or nearly so and with different inflorescence; fruits pubescent.
+**42′.** Young branchlets with dense pubescence, glabrescent or not, otherwise glabrous or nearly so and with a different inflorescence; fruits pubescent.
 
-**43.** Petiole 2-11 (13) mm long; sepals erect and petals suberect; lower part of the style pubescent. ^k43
+**43.** Petiole 2-11 (13) mm long; sepals erect and petals sub-erect; lower part of style pubescent.
 
-**44.** Sepals 4-6 (7) mm long; petals retuse to cleft for 1 mm, lobes rather flat → [[Dichapetalum_barteri\|*D. barteri*]] ^k44
+**44.** Sepals 4-6 (7) mm long; petals retuse to cleft for 1 mm, lobes rather flat → [[Dichapetalum_barteri\|*D. barteri*]]
 
 **44′.** Sepals (1) 1.5-2.5 (3) mm long; petals clearly bilobed, lobes concave → [[Dichapetalum_madagascariense\|*D. madagascariense*]]
 
-**43′.** Petiole 0-3 (5) mm long; sepals erect or reflexed; upper part of the petals, rather reduced, little visible often bent; style generally glabrous → *D. dewevre*.
+**43′.** Petiole 0-3 (5) mm long; sepals erect or reflexed; upper part of petals, rather reduced, often scarcely visible, bent; style generally glabrous → *D. dewevre*
 
-**38′.** Flowers with predominantly 3 (4)-lobed style.
+**38′.** Flowers with a 3 (4)-lobed style predominant
 
-**45.** Hispid liane or lianescent shrub with young hollow branches; stipules, bracts and bracteoles slender, generally bent; large flowers (10 mm) in 20-flowered inflorescences; petals pubescent on the interior, generally black when dried → [[Dichapetalum_chalotii\|*D. chalotii*]] ^k45
+**45.** Vine hispid or lianescent shrub with young hollow branchlets; stipules, bracts and bracteoles lanceolate, generally curved; large flowers (10 mm) in 20-flowered inflorescences; petals pubescent within, generally black on the dry specimen → [[Dichapetalum_chalotii\|*D. chalotii*]]
 
-**45′.** Plant not exhibiting this combination of characters.
+**45′.** Plant not presenting this combination of characters.
 
-**46.** Upper part of the pedicel length of the reflexed sepals and that of its lower part → [[Dichapetalum_parvifolium\|*D. parvifolium*]] ^k46
+**46.** Upper part of the pedicel length of the reflexed sepals and that of its lower part → [[Dichapetalum_parvifolium\|*D. parvifolium*]]
 
-**46′.** Upper part of the pedicel, either < length of its lower part and then = half-length of the sepals, or null, or further, flower sessile or nearly so, or finally, pedicel not articulate.
+**46′.** Upper part of the pedicel, either < length of its lower part and then = half the length of the sepals, or null, or else flower sessile or nearly so, or finally pedicel not articulate.
 
-**47.** Thin and hispid liane or lianescent shrub with non-hollow branches and sessile inflorescence, reduced to 1-3 flowers; sepals spread; petals glabrous on the interior, lobes flattened, spread; petals and stamens clearly fused at the base → [[Dichapetalum_geminostellatum\|*D. geminostellatum*]] ^k47
+**47.** Slender and hispid vine or lianescent shrub with non-hollow branchlets and sessile inflorescence, reduced to 1-3 flowers; sepals spreading; petals glabrous within, lobes flattened, spreading; petals and stamens clearly fused at the base → [[Dichapetalum_geminostellatum\|*D. geminostellatum*]]
 
-**47′.** Plant not exhibiting this combination of characters.
+**47′.** Plant not presenting this combination of characters.
 
-**48.** Petals clearly lobed and exterior of the lobes entirely pubescent → [[Dichapetalum_ruficeps\|*D. ruficeps*]] ^k48
+**48.** Petals clearly lobed and outer surface of lobes entirely pubescent → [[Dichapetalum_ruficeps\|*D. ruficeps*]]
 
-**48′.** Petals clearly lobed and exterior of the lobes glabrous, or entire and then apical region glabrous.
+**48′.** Petals clearly lobed and outer surface of lobes glabrous, or entire and then apical region glabrous.
 
-**49.** Bracts and bracteoles 3-5 (6) mm long equal to the length of the strong pedicel; young vegetative parts bearded with shaggy or hirsute indumentum; leaves generally cordate, veins I and II prominent on the upper surface → [[Dichapetalum_barbatum\|*D. barbatum*]] ^k49
+**49.** Bracts and bracteoles 3-5 (6) mm long length of the stout pedicel; young vegetative parts bearded with a densely furry or hirsute indumentum; leaves generally cordate, veins I and II prominent on the upper surface → [[Dichapetalum_barbatum\|*D. barbatum*]]
 
-**49′.** Plant not exhibiting this combination of characters.
+**49.** Plant not presenting this combination of characters.
 
-**50.** Pedicels not articulate; flowers persistent. ^k50
+**50.** Pedicels not articulate; flowers persistent.
 
-**51.** Stipules 1-5 (6) mm long; leaves (4) 10-16 (24) × (1.5) 3.5-6 (12) cm with 8-12 (16) main pairs of veins II; sepals 1.5-2.5 mm long; petals (3) 4-6 mm long ^k51
+**51.** Stipules 1-5 (6) mm long; leaves (4) 10-16 (24) × (1.5) 3.5-6 (12) cm with 8-12 (16) main pairs of veins II; sepals 1.5-2.5 mm long; petals (3) 4-6 mm long
 
-**51′.** Stipules (4) 8-17 (22) mm long; leaves (15) 20-35 (42) × (6) 7-11 (14) cm with (10) 11-14 (16) main pairs of veins II; sepals 3-5 mm long; petals 4.5-8 mm long 41. D. pulchrum.
+**51′.** Stipules (4) 8-17 (22) mm long; leaves (15) 20-35 (42) × (6) 7-11 (14) cm with (10) 11-14 (16) main pairs of veins II; sepals 3-5 mm long; petals 4.5-8 mm long 41. D. pulci
 
 **50′.** Pedicels articulate; flowers at least in part caducous.
 
-**52.** Fruits glabrous, otherwise sparse puberulence and then fruits 3 (4)-lobed and 1-seeded. ^k52
+**52.** Fruits glabrous, otherwise sparse puberulence and then fruits 3 (4)-lobed and 1-seeded.
 
-**53.** Leaves glabrous or nearly so, margins revolute at their basal extremity covering large glands on the lower surface; fruits lobed 1-3 (4)-seeded → *D. integripeta* ^k53
+**53.** Leaves glabrous or nearly so, margins revolute at their basal extremity covering large glands on the lower surface; fruits lobed 1-3 (4)-seeded → *D. integripeta*
 
 **53′.** Leaves different; if fruits lobed, then several seeds → [[Dichapetalum_bodyi\|*D. bodyi*]]
 
-**52′.** Fruits pubescent; if the pubescence is sparse, fruits different from the preceding.
+**52′.** Fruits pubescent; if pubescence is sparse, fruits different from the preceding.
 
-**54.** Freshly cut branches: reddish viscous exudate turning dark brown to black when dried; leaves often coriaceous, glabrous or rather early glabrescent; petals entire to emarginate, base clearly fused to the stamens in a tube 0.5-2.5 mm high → [[Dichapetalum_crassifolium\|*D. crassifolium*]] ^k54
+**54.** Freshly cut branchlets: reddish viscous exudate turning dark brown to black on drying; leaves often coriaceous, glabrous or fairly early glabrescent; petals entire to emarginate, base clearly fused to the stamens in a tube 0.5-2.5 mm high → [[Dichapetalum_crassifolium\|*D. crassifolium*]]
 
-**54′.** Plant not exhibiting this combination of characters.
+**54′.** Plant not presenting this combination of characters.
 
-**55.** Flowers 3 mm long; stamens clearly shorter than the petals and fused to them; anthers subsessile on the tube → [[Dichapetalum_melanocladum\|*D. melanocladum*]] ^k55
+**55.** Flowers 3 mm long; stamens clearly shorter than the petals and fused to them; anthers subsessile on the tube → [[Dichapetalum_melanocladum\|*D. melanocladum*]]
 
-**55′.** Petals and stamens free from each other, or nearly so, but if they are fused, then flowers much longer.
+**55′.** Petals and stamens free from each other, or nearly so, but if fused, then flowers much longer.
 
-**56.** Flowers in glomérules or in fascicles (certain inflorescences of the same specimen may be very shortly pedunculate and/or branched). ^k56
+**56.** Flowers in glomérules or in fascicles (certain inflorescences of the same specimen may be very shortly pedunculate and/or branched).
 
-**57.** Petals and stamens somewhat spread at the base, their upper parts generally curved inward; lobes of the petals flattened or nearly so 16. D. dewevre ^k57
+**57.** Petals and stamens somewhat spreading at the base, their upper parts generally incurved inward; lobes of petals flattened or nearly so 16. D. dewevre
 
-**57′.** Petals and stamens erect, their upper parts not curved inward; lobes of the petals concave.
+**57′.** Petals and stamens erect, their upper parts not incurved; lobes of petals concave.
 
-**58.** Lower half of the style pubescent → [[Dichapetalum_madagascariense\|*D. madagascariense*]] ^k58
+**58.** Lower half of style pubescent → [[Dichapetalum_madagascariense\|*D. madagascariense*]]
 
-**58′.** Lower half of the style glabrous or nearly so.
+**58′.** Lower half of style glabrous or nearly so.
 
-**59.** Acumen with a clear mucro, if not lower surface of the limb with at least very large glands (0.2-0.7 mm) and clear along the primary vein, especially at the base and/or on the acumen or apex (often hidden by the indumentum) → *D. heudelot* ^k59
+**59.** Acumen with a clear mucro, otherwise beneath the blade with at least rather large glands (0.2-0.7 mm) and clear along vein I, especially at the base and/or on the acumen or apex (often hidden by indumentum) → *D. heudelot*
 
-**59′.** Acumen generally rounded to obtuse and without a clear mucro; glands often smaller → *D. staudti*.
+**59′.** Acumen generally rounded to obtuse and without a clear mucro; glands often smaller → *D. staudti*
 
 **56′.** Flowers in clearly branched pedunculate cymes.
 
-**60.** Style pubescent in its lower part; sepals (1) 1.5-2.5 (3) mm → [[Dichapetalum_madagascariense\|*D. madagascariense*]] ^k60
+**60.** Style pubescent in its lower part; sepals (1) 1.5-2.5 (3) mm
+
+**29.** D. madagascariense
 
 **60′.** Style glabrous in its lower part or only with very rare hairs; sepals (2.5) 3-6 (7) mm long → [[Dichapetalum_dewildei\|*D. dewildei*]]
-
 
 ## Species in region
 

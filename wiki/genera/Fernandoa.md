@@ -43,11 +43,9 @@ TYPE SPECIES: Fernandoa superba Welw. ex Seem. (= F. ferdinandi (Welw.) Milne-Re
 
 ## Key to the species
 
-
-**1.** Flowers yellow, less than 6 cm long and less than 3 cm wide; leaves glabrous beneath except in the nerve axils and sometimes along the principal nerves → [[Fernandoa_adolfi-friderici\|*F. adolfi-friderici*]] ^k1
+**1.** Flowers yellow, less than 6 cm long and less than 3 cm wide; leaves glabrous beneath except in the nerve axils and sometimes along the main nerves → [[Fernandoa_adolfi-friderici\|*F. adolfi-friderici*]]
 
 **1′.** Flowers orange; more than 6 cm long and more than 3 cm wide, leaves densely tomentose beneath → [[Fernandoa_ferdinandi\|*F. ferdinandi*]]
-
 
 ## Species in region
 

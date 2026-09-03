@@ -23,206 +23,205 @@ Pantropical genus of ±210 species from dry and wet forests, sometimes in savann
 
 ## Key to the species
 
+**1.** Stamens arranged in an obscure manner, most apparently in a peripheral whorl around the disc, possibly weakly surrounded by folds or marginal lobes of the disc, but some or most deeply enclosed by the folds of the disc (Plate 45.3) → couplet **2**
 
-**1.** Stamens arranged in an obscure manner, most apparently in a peripheral verticil around the disk, possibly weakly surrounded by folds or marginal lobes of the disk, but some or most deeply enclosed by the folds of the disk (Plate 45.3) → [[#^k2|2]] ^k1
+**1′.** Stamens all apparently in a peripheral whorl around the disc, possibly slightly surrounded by folds or marginal lobes, but not extending toward its interior (Plate 48.5, 53.7) → couplet **9**
 
-**1′.** Stamens all apparently in a peripheral verticil around the disk, possibly slightly surrounded by folds or marginal lobes, but not extending into its interior (Plate 48.5, 53.7) → [[#^k9|9]]
+**2.** Inflorescence cauliflorous, mainly on cortical cushions on the trunk and oldest branches; leaf blade (21–23–29(−40) × (7.3–7.5–11(−13.5) cm) → [[Drypetes_staudtii\|*D. staudtii*]]
 
-**2.** Inflorescence cauliflorous, mainly on cortical cushions on the trunk and the oldest branches; leaf blade (21–23–29(−40) × (7.3–7.5–11(−13.5) cm) → [[Drypetes_staudtii\|*D. staudtii*]] ^k2
+**2′.** Inflorescence axillary, between the leaves or below the leafy portion of the twigs; leaf blade 4.2–20.5 × 1.2–9 cm → couplet **3**
 
-**2′.** Inflorescence axillary, between the leaves or below the leafy portion of the branchlets; leaf blade 4.2–20.5 × 1.2–9 cm → [[#^k3|3]]
+**3.** Most stamens deeply enclosed in the disc → couplet **4**
 
-**3.** Most stamens deeply enclosed in the disk → [[#^k4|4]] ^k3
+**3′.** Few stamens deeply enclosed in the disc, most peripheral, ±enclosed by marginal folds or lobes → couplet **6**
 
-**3′.** Few stamens deeply enclosed in the disk, most peripheral, ± enclosed by marginal folds or lobes → [[#^k6|6]]
+**4.** Sepals 4; disc very plicate, sparsely puberulent → [[Drypetes_chevalieri\|*D. chevalieri*]]
 
-**4.** Sepals 4; disk very plicate, sparsely pubérulent → [[Drypetes_chevalieri\|*D. chevalieri*]] ^k4
+**4′.** Sepals 5; disc rugose-tuberculate, densely puberulent → couplet **5**
 
-**4′.** Sepals 5; disk rugose-tuberculate, densely pubérulent → [[#^k5|5]]
+**5.** Stamens (8–)10 to 18; leaf blade (4.5–)6.5–8(−9.5) cm long, obliquely ovate to obliquely elliptic-ovate, papyraceous → [[Drypetes_inaequalis\|*D. inaequalis*]]
 
-**5.** Stamens (8–)10 to 18; leaf blade (4.5–)6.5–8(−9.5) cm long, obliquely ovate to obliquely elliptic-ovate, papyraceous → [[Drypetes_inaequalis\|*D. inaequalis*]] ^k5
+**5′.** Stamens 16 to 25; leaf blade (10–)11.5–15(−17) cm long, ovate to oblong, slightly oblique, often slightly ligulate, or even obovate, coriaceous → *D. cinnabarina*
 
-**5′.** Stamens 16 to 25; leaf blade (10–)11.5–15(−17) cm long, ovate to oblong, slightly oblique, often slightly ligulate, or even obovate, coriaceous → *D. cinnabarina*.
+**6.** Flower pendulous; pedicel 40–100 mm; sepals 5; stamens 18 to 25 → [[Drypetes_capillipes\|*D. capillipes*]]
 
-**6.** Flower pendulous; pedicel 40–100 mm; sepals 5; stamens 18 to 25 → [[Drypetes_capillipes\|*D. capillipes*]] ^k6
+**6′.** Flower subsessile or pedicellate, ±erect; pedicel (0.5–)1–10(−12) mm; sepals 4; stamens 6 to 12(−15) → couplet **7**
 
-**6′.** Flower subsessile or pedicellate, ± erect; pedicel (0.5–1–10(−12) mm; sepals 4; stamens 6 to 12(−15) → [[#^k7|7]]
+**7.** Pedicel (1.5–)3.5–10(−12) mm; leaf blade with subentire margin, slightly curved in the basal half of the blade → [[Drypetes_aframensis\|*D. aframensis*]]
 
-**7.** Pedicel (1.5–)3.5–10(−12) mm; leaf blade with subentire margin, slightly recurved in the basal half of the blade → [[Drypetes_aframensis\|*D. aframensis*]] ^k7
+**7′.** Pedicel 1–6 mm; leaf blade with crenate or serrulate margin, plane → couplet **8**
 
-**7′.** Pedicel 1–6 mm; leaf blade with crenate or serrulate margin, plane → [[#^k8|8]]
+**8.** Pedicel ± 6 mm; stamens 12 (to 15); petiole 0.5–2 mm; leaf blade with distinctly asymmetric base, with one side rounded to slightly cordate → [[Drypetes_gilgiana\|*D. gilgiana*]]
 
-**8.** Pedicel ± 6 mm; stamens 12 (to 15); petiole 0.5–2 mm; leaf blade with distinctly asymmetric base, with one side rounded to slightly cordate → [[Drypetes_gilgiana\|*D. gilgiana*]] ^k8
+**8′.** Pedicel 1–2 mm; stamens 8; petiole 1–11 mm; leaf blade with somewhat oblique base, often both sides cuneiform D. diopa 9(1). - Sepals 4(−5); stamens 4, surrounding the disc, not or barely surrounded by the outer margin of the disc; disc plane to concave; inflorescence axillary, between the leaves or below the leafy portion of the twigs → couplet **10**
 
-**8′.** Pedicel 1–2 mm; stamens 8; petiole 1–11 mm; leaf blade with somewhat oblique base, often both sides cuneate D. diopa 9(1). - Sepals 4(−5); stamens 4, surrounding the disk, not or scarcely surrounded by the outer margin of the disk; disk plane to concave; inflorescence axillary, between the leaves or below the leafy portion of the branchlets → [[#^k10|10]]
+**8′.** Sepals 4 or 5(or 6); stamens 3 to ±40, surrounding the disc and sometimes ±enclosed by the outer margin of the disc; disc plane-convex; inflorescence axillary, between the leaves or below the leafy portion of the twigs or cauliflorous on the trunk and old branches, often on cortical cushions → couplet **14**
 
-**8′.** Sepals 4 or 5(or 6); stamens 3 to ±40, surrounding the disk and sometimes ± enclosed by the outer margin of the disk; disk plane-convex; inflorescence axillary, between the leaves or below the leafy portion of the branchlets or cauliflorous on the trunk and old branches, often on cortical cushions → [[#^k14|14]]
+**10.** Inflorescence mainly below the leafy portion of the twigs; disc loosely and slightly foveolate; leaf blade (20–25–27.5(−40) cm long; stipules (13.5–)20–28(−60) mm long, persistent → [[Drypetes_magnistipula\|*D. magnistipula*]]
 
-**10.** Inflorescence mainly below the leafy portion of the branchlets; disk loosely and slightly foveolate; leaf blade (20–25–27.5(−40) cm long; stipules (13.5–)20–28(−60) mm long, persistent → [[Drypetes_magnistipula\|*D. magnistipula*]] ^k10
+**10′.** Inflorescence mainly between the leaves; disc smooth; leaf blade (3.1–)4–12.5(−15) cm long, oblique at base; stipules 1.1–4.3(−4.8) mm long, early caducous → couplet **11**
 
-**10′.** Inflorescence mainly between the leaves; disk smooth; leaf blade (3.1–)4–12.5(−15) cm long, with oblique base; stipules 1.1–4.3(−4.8) mm long, early caducous → [[#^k11|11]]
+**11.** Sepals ± 2.3 mm long; disc ±2 mm in diameter; leaf blade regularly dentate along most of the margin; young twigs slightly zigzag → [[Drypetes_paxii\|*D. paxii*]]
 
-**11.** Sepals ± 2.3 mm long; disk ± 2 mm in diameter; leaf blade regularly dentate along the greater part of the margin; young branchlets slightly zigzag → [[Drypetes_paxii\|*D. paxii*]] ^k11
+**11′.** Sepals 1.3–2.1(−2.3) mm long; disc (0.6–)0.9–1.9 mm in diameter; leaf blade with entire, subentire or irregularly crenate or serrulate margin, mainly toward the distal third; young twigs straight → couplet **12**
 
-**11′.** Sepals 1.3–2.1(−2.3) mm long; disk (0.6–)0.9–1.9 mm in diameter; leaf blade with entire, subentire or irregularly crenate or serrulate margin, mainly toward the distal third; young branchlets straight → [[#^k12|12]]
+**12.** Sepals (1.5–)1.7–2.1(−2.3) mm long; leaf blade (8–)8.5–12.5(−14.5) cm long; young twigs with whitish to brownish hairs → [[Drypetes_umbricola\|*D. umbricola*]]
 
-**12.** Sepals (1.5–)1.7–2.1(−2.3) mm long; leaf blade (8–)8.5–12.5(−14.5) cm long; young branchlets with whitish to brownish hairs → [[Drypetes_umbricola\|*D. umbricola*]] ^k12
+**12′.** Sepals 1.3–1.6(−1.9) mm long; leaf blade (3–)4–8.5(−15) cm long; young twigs with whitish, yellowish or golden hairs → couplet **13**
 
-**12′.** Sepals 1.3–1.6(−1.9) mm long; leaf blade (3–)4–8.5(−15) cm long; young branchlets with whitish, yellowish or golden hairs → [[#^k13|13]]
+**13.** Pedicel (2–)3.2–5(−5.5) mm; leaf blade (3–)4–5.5(−8) cm long, with entire or subentire margin, with light reticulation but clearly raised above → [[Drypetes_klainei\|*D. klainei*]]
 
-**13.** Pedicel (2–)3.2–5(−5.5) mm; leaf blade (3–)4–5.5(−8) cm long, with entire or subentire margin, with light reticulation but clearly raised above → [[Drypetes_klainei\|*D. klainei*]] ^k13
+**13′.** Pedicel 1.8–3.2 mm; leaf blade (4.4–)6.5–9(−15) cm long, with crenate or serrulate margin, mainly toward the distal third, with faintly raised reticulation above → [[Drypetes_celastrinea\|*D. celastrinea*]]
 
-**13′.** Pedicel 1.8–3.2 mm; leaf blade (4.4–)6.5–9(−15) cm long, with crenate or serrulate margin, mainly toward the distal third, with weakly raised reticulation above → [[Drypetes_celastrinea\|*D. celastrinea*]]
+**14.** Inflorescence between the leaves or below the leafy portion of the twigs → couplet **15**
 
-**14.** Inflorescence between the leaves or below the leafy portion of the branchlets → [[#^k15|15]] ^k14
+**14′.** Inflorescence cauliflorous on the trunk and the most ancient branches, often on cortical cushions → couplet **26**
 
-**14′.** Inflorescence cauliflorous on the trunk and the most ancient branches, often on cortical cushions → [[#^k26|26]]
+**15.** Pedicel 12–15 mm; sepals 8–14 mm long; stamens up to ±40; leaf blade with densely and more or less regularly crenate to dentate margin → [[Drypetes_gossweileri\|*D. gossweileri*]]
 
-**15.** Pedicel 12–15 mm; sepals 8–14 mm long; stamens up to ± 40; leaf blade with densely and more or less regularly crenate to dentate margin → [[Drypetes_gossweileri\|*D. gossweileri*]] ^k15
+**15′.** Pedicel 1–6.5(−8) mm; sepals (1–)14–39(−43) mm long; stamens 3 to 18; leaf blade with subentire to crenate or serrulate margin, regular or not → couplet **16**
 
-**15′.** Pedicel 1–6.5(−8) mm; sepals (12−)14–39(−43) mm long; stamens 3 to 18; leaf blade with subentire to crenate or serrulate margin, regularly or not → [[#^k16|16]]
+**16.** Sepals (3–)4(–5), imbricate; stamens 3; leaf blade coriaceous, with often remarkably asymmetric base → [[Drypetes_gabonensis\|*D. gabonensis*]]
 
-**16.** Sepals (3–)4(–5), imbricate; stamens 3; leaf blade coriaceous, with often remarkably asymmetric base → [[Drypetes_gabonensis\|*D. gabonensis*]] ^k16
+**16′.** Sepals 4 or 5(–6), imbricate or not; stamens 3 to 16(–18); leaf blade papyraceous to coriaceous, with generally oblique base → couplet **17**
 
-**16′.** Sepals 4 or 5(–6), imbricate or not; stamens 3 to 16(–18); leaf blade papyraceous to coriaceous, with generally oblique base → [[#^k17|17]]
+**17.** Sepals narrowly oblong to ligulate, "open" (not touching or barely touching during anthesis), often with finely crenate or serrulate margin → couplet **18**
 
-**17.** Sepals narrowly oblong to ligulate, "open" (not touching or scarcely touching during anthesis), with margin often slightly crenate or serrulate → [[#^k18|18]] ^k17
+**17′.** Sepals ovate to suborbicular or oblong, imbricate during anthesis, with entire margin, often finely ciliate → couplet **19**
 
-**17′.** Sepals ovate to suborbicular or oblong, imbricate during anthesis, with entire margin, often finely ciliate → [[#^k19|19]]
-
-**18.** Sepals (1.7–)2.2–2.9(–4.3) mm long; leaf blade (22.5–)27.5–35(–46) cm long, broadly oblong → [[Drypetes_similis\|*D. similis*]] ^k18
+**18.** Sepals (1.7–)2.2–2.9(–4.3) mm long; leaf blade (22.5–)27.5–35(–46) cm long, broadly oblong → [[Drypetes_similis\|*D. similis*]]
 
 **18′.** Sepals (1.2–)1.4–1.8(–2.2) mm long; leaf blade (7.5–)14.5–17.5(–24.9) cm long, elliptic-ovate to oblong → [[Drypetes_arborescens\|*D. arborescens*]]
 
-**19.** Pedicel 1–1.5(–4) mm; sepals 4 → [[#^k20|20]] ^k19
+**19.** Pedicel 1–1.5(–4) mm; sepals 4 → couplet **20**
 
-**19′.** Pedicel (1.5–)1.7–4.8(–5.8) mm; sepals 4 or 5(–6) → [[#^k21|21]]
+**19′.** Pedicel (1.5–)1.7–4.8(–5.8) mm; sepals 4 or 5(–6) → couplet **21**
 
-**20.** Pedicel densely pubérulent, with pale golden yellow to brownish hairs; disk (0.9–)1.7–1.9(–2.3) mm in diameter, densely pubérulent, the center with a tuft of hairs; leaf blade (13–)18–21.5(–31.5) cm long; stipules persistent → [[Drypetes_laciniata\|*D. laciniata*]] ^k20
+**20.** Pedicel densely puberulent, with pale yellow to brownish golden hairs; disc (0.9–)1.7–1.9(–2.3) mm in diameter, densely puberulent, the centre with a tuft of hairs; leaf blade (13–)18–21.5(–31.5) cm long; stipules persistent → [[Drypetes_laciniata\|*D. laciniata*]]
 
-**20′.** Pedicel glabrous, with whitish to brownish hairs; disk 1–3.5 mm in diameter, glabrous; leaf blade 4–15 cm long; stipules early caducous → [[Drypetes_bakembei\|*D. bakembei*]]
+**20′.** Pedicel glabrous, with whitish to brownish hairs; disc 1–3.5 mm in diameter, glabrous; leaf blade 4–15 cm long; stipules early caducous → [[Drypetes_bakembei\|*D. bakembei*]]
 
-**21.** Stamens 4 to 5(–6); leaf blade with margin dentate or denticulate over the greater part of its length, the teeth hooked or pointed → [[Drypetes_occidentalis\|*D. occidentalis*]] ^k21
+**21.** Stamens 4 to 5(–6); leaf blade with dentate or denticulate margin for most of its length, the teeth hooked or pointed → [[Drypetes_occidentalis\|*D. occidentalis*]]
 
-**21′.** Stamens (5–)8 to 16(–18); leaf blade with subentire margin, obscurely crenate or serrulate mainly toward the apex → [[#^k22|22]]
+**21′.** Stamens (5–)8 to 16(–18); leaf blade with subentire margin, obscurely crenate or serrulate mainly toward the apex → couplet **22**
 
-**22.** Pedicel (1.5–)2–3(–6) mm, robust; sepals (4–)5(–6) → [[Drypetes_moliwensis\|*D. moliwensis*]] ^k22
+**22.** Pedicel (1.5–)2–3(–6) mm, robust; sepals (4–)5(–6) → [[Drypetes_moliwensis\|*D. moliwensis*]]
 
-**22′.** Pedicel (1.2–)1.7–4.8(–5.6) mm, slender; sepals 4 → [[#^k23|23]]
+**22′.** Pedicel (1.2–)1.7–4.8(–5.6) mm, slender; sepals 4 → couplet **23**
 
-**23.** Inflorescence with 1 to 3 flowers; sepals ± 2 mm long; stamens 8(–12); leaf blade with margin very slightly serrulate, with rounded teeth → [[Drypetes_fallax\|*D. fallax*]] ^k23
+**23.** Inflorescence with 1 to 3 flowers; sepals ± 2 mm long; stamens 8(–12); leaf blade with very slightly serrulate margin, with rounded teeth → [[Drypetes_fallax\|*D. fallax*]]
 
-**23′.** Inflorescence with generally > 3 flowers; sepals 1.7–4.7(–5.6) mm long; stamens 5 to 16; leaf blade with subentire or obscurely crenate or serrulate margin, mainly toward the apex → [[#^k24|24]]
+**23′.** Inflorescence with usually >3 flowers; sepals 1.7–4.7(–5.6) mm long; stamens 5 to 16; leaf blade with subentire or obscurely crenate or serrulate margin, mainly toward the apex → couplet **24**
 
-**24.** Inflorescence with up to ± 20(–25) flowers, often less; pedicel and sepals glabrous or sparsely pilose; disk glabrous; leaf blade with margin often recurved over almost its entire length → [[Drypetes_aylmeri\|*D. aylmeri*]] ^k24
+**24.** Inflorescence with up to ±20(–25) flowers, often fewer; pedicel and sepals glabrous or sparsely hairy; disc glabrous; leaf blade with margin often recurved along almost its entire length → [[Drypetes_aylmeri\|*D. aylmeri*]]
 
-**24′.** Inflorescence with (1–)3 to 14 flowers, often in small dense clusters; pedicel and sepals pilose, sometimes densely; disk pubérulent or pilose; leaf blade with margin plane to slightly recurved near the base → [[#^k25|25]]
+**24′.** Inflorescence with (1–)3 to 14 flowers, often in small dense clusters; pedicel and sepals hairy, sometimes densely; disc puberulent or villous; leaf blade with margin plane to slightly recurved near the base → couplet **25**
 
-**25.** Disk pubérulent, the center often with a tuft of hairs; leaf blade with subentire to sparsely and slightly crenate or serrulate margin, mainly in the distal half; stipules (1.4–)1.6–2(–2.9) mm long, early caducous → [[Drypetes_principum\|*D. principum*]] ^k25
+**25.** Disc puberulent, the centre often with a tuft of hairs; leaf blade with subentire to sparsely and slightly crenate or serrulate margin, mainly in the distal half; stipules (1.4–)1.6–2(–2.9) mm long, early caducous → [[Drypetes_principum\|*D. principum*]]
 
-**25′.** Disk pilose; leaf blade with subentire margin; stipules 5–13 mm long, subpersistent D. bipindensis 26(14). - Pedicel 2.5–5 mm; sepals 5–6 mm long; stamens 26 to 28; leaf blade with margin bearing spinose teeth; stipules early caducous → [[Drypetes_spinosodentata\|*D. spinosodentata*]]
+**25′.** Disc pilose; leaf blade with subentire margin; stipules 5–13 mm long, subpersistent D. bipindensis 26(14). - Pedicel 2.5–5 mm; sepals 5–6 mm long; stamens 26 to 28; leaf blade with margin bearing spinose teeth; stipules early caducous → [[Drypetes_spinosodentata\|*D. spinosodentata*]]
 
-**25′.** Pedicel 5.4–30 mm; sepals 3.1–4.9 mm long; stamens 12 to 16; leaf blade with ± dentate margin, rarely spinose; stipules persistent or subpersistent → [[#^k27|27]]
+**25′.** Pedicel 5.4–30 mm; sepals 3.1–4.9 mm long; stamens 12 to 16; leaf blade with ±dentate margin, rarely spinose; stipules persistent or subpersistent → couplet **27**
 
-**27.** Pedicel 25–30 mm; leaf blade with strongly asymmetric base; stipules linear, often laciniate at the base → [[Drypetes_verrucosa\|*D. verrucosa*]] ^k27
+**27.** Pedicel 25–30 mm; leaf blade with strongly asymmetric base; stipules linear, often laciniate at the base → [[Drypetes_verrucosa\|*D. verrucosa*]]
 
-**27′.** Pedicel 1–11 mm; leaf blade with slightly asymmetric base; stipules wide to linear, not laciniate → [[#^k28|28]]
+**27′.** Pedicel 1–11 mm; leaf blade with slightly asymmetric base; stipules broad to linear, not laciniate → couplet **28**
 
-**28.** Stamens 12; disk 1.7–2.4 mm in diameter; leaf blade 16.5–23 cm long; stipules 7–9 mm long, triangular to narrowly triangular, persistent → [[Drypetes_stipularis\|*D. stipularis*]] ^k28
+**28.** Stamens 12; disc 1.7–2.4 mm in diameter; leaf blade 16.5–23 cm long; stipules 7–9 mm long, triangular to narrowly triangular, persistent → [[Drypetes_stipularis\|*D. stipularis*]]
 
-**28′.** Stamens 12 to 16; disk 2.7–3.2 mm in diameter; leaf blade 9–15(−17) cm long; stipules 3–4 mm long, linear to very narrowly triangular, subpersistent → D. preussii Key to the species for material with female flowers.
+**28′.** Stamens 12 to 16; disc 2.7–3.2 mm in diameter; leaf blade 9–15(−17) cm long; stipules 3–4 mm long, linear to very narrowly triangular, subpersistent → D. preussii Key to species for material with female flowers
 
-**1.** Female flowers on the main trunk, sometimes also on the branches → [[#^k2|2]]
+**1.** Female flowers on the main trunk, sometimes also on the branches → couplet **2**
 
-**1′.** Female flowers always on the branchlets, either between the leaves or on the older branchlets → [[#^k6|6]]
+**1′.** Female flowers always on the twigs, either between the leaves or on older twigs → couplet **6**
 
-**2.** Most leaf blades 16 to 40 cm long → [[#^k3|3]]
+**2.** Most leaf blades 16 to 40 cm long → couplet **3**
 
-**2′.** Most leaf blades 9 to 16 cm long → [[#^k4|4]]
+**2′.** Most leaf blades 9 to 16 cm long → couplet **4**
 
 **3.** Petiole glabrous; ovary glabrous; sepals generally 5–12 mm in length or width; stipules caducous → [[Drypetes_staudtii\|*D. staudtii*]]
 
-**3′.** Petiole pilose; ovary pilose; sepals generally 2–5 mm in length or width; stipules persistent → [[Drypetes_stipularis\|*D. stipularis*]]
+**3′.** Petiole hairy; ovary hairy; sepals generally 2–5 mm in length or width; stipules persistent → [[Drypetes_stipularis\|*D. stipularis*]]
 
 **4.** Pedicel 1.5–5 mm; stipules caducous; midvein glabrous below → [[Drypetes_gabonensis\|*D. gabonensis*]]
 
-**4′.** Pedicel 5–20 mm; stipules generally persistent; midvein pilose below → [[#^k5|5]]
+**4′.** Pedicel 5–20 mm; stipules generally persistent; midvein hairy below → couplet **5**
 
-**5.** Disk pilose; stipules divided at the base, each segment acicular; leaf blade with teeth spaced 1–1.5 cm apart → [[Drypetes_verrucosa\|*D. verrucosa*]]
+**5.** Disc hairy; stipules divided at the base, each segment acicular; leaf blade with teeth distant 1–1.5 cm apart → [[Drypetes_verrucosa\|*D. verrucosa*]]
 
-**5′.** Disk glabrous; stipules entire, narrowly triangular; leaf blade with teeth spaced 0.5–1 cm apart → [[Drypetes_preussii\|*D. preussii*]]
+**5′.** Disc glabrous; stipules entire, narrowly triangular; leaf blade with teeth distant 0.5–1 cm apart → [[Drypetes_preussii\|*D. preussii*]]
 
-**6.** Ovary 1-locular; stigma capitate; style unbranched, 0–1.5 mm → [[#^k7|7]]
+**6.** Ovary 1-locular; stigma capitate; style not branched, 0–1.5 mm → couplet **7**
 
-**6′.** Ovary with 2 or more locules; stigma variously lobed; style variously branched, 1–3.5 mm → [[#^k10|10]]
+**6′.** Ovary with 2 or more locules; stigma diversely lobed; style diversely branched, 1–3.5 mm → couplet **10**
 
-**7.** Sepals imbricate in flower and mature bud → [[#^k8|8]]
+**7.** Sepals imbricate in flower and mature bud → couplet **8**
 
-**7′.** Sepals not touching in the flower and mature bud → [[#^k9|9]]
+**7′.** Sepals not touching in the flower and mature bud → couplet **9**
 
-**8.** Disk pubérulent or sometimes glabrescent; sepals 2–4.5 mm in length and width; most leaf blades 12–21 cm long; petiole 10–14 mm → [[Drypetes_aylmeri\|*D. aylmeri*]]
+**8.** Disc puberulent or sometimes glabrescent; sepals 2–4.5 mm in length and width; most leaf blades 12–21 cm long; petiole 10–14 mm → [[Drypetes_aylmeri\|*D. aylmeri*]]
 
-**8′.** Disk glabrous; sepals 4.3–5.5–7 mm in length and width; most leaf blades 21–35 cm long; petiole 12–18 mm → [[Drypetes_moliwensis\|*D. moliwensis*]]
+**8′.** Disc glabrous; sepals 4.3–5.5–7 mm in length and width; most leaf blades 21–35 cm long; petiole 12–18 mm → [[Drypetes_moliwensis\|*D. moliwensis*]]
 
-**9.** Sepals 3.5–4 mm long; bracts on axillary buds coriaceous, triangular, > 6 mm long; leaf blade 22–46 cm long → [[Drypetes_similis\|*D. similis*]] ^k9
+**9.** Sepals 3.5–4 mm long; bracts on axillary buds coriaceous, triangular, >6 mm long; leaf blade 22–46 cm long → [[Drypetes_similis\|*D. similis*]]
 
-**9′.** Sepals 1–3 mm long; bracts on axillary buds scarcely visible; leaf blade 10–24 cm long → [[Drypetes_arborescens\|*D. arborescens*]]
+**9′.** Sepals 1–3 mm long; bracts on axillary buds barely visible; leaf blade 10–24 cm long → [[Drypetes_arborescens\|*D. arborescens*]]
 
-**10.** Stipules persistent, 7–28 mm long → [[#^k11|11]]
+**10.** Stipules persistent, 7–28 mm long → couplet **11**
 
-**10′.** Stipules caducous, 0.5–7 mm long (not seen in D. aframensis) → [[#^k14|14]]
+**10′.** Stipules caducous, 0.5–7 mm long (not seen in D. aframensis) → couplet **14**
 
 **11.** Stipules glabrous, 10–16 mm wide, with cordate base → [[Drypetes_magnistipula\|*D. magnistipula*]]
 
-**11′.** Stipules pilose, 1.5–6 mm wide, with non-cordate base → [[#^k12|12]]
+**11′.** Stipules hairy, 1.5–6 mm wide, with non-cordate base → couplet **12**
 
-**12.** Stipules with entire margin → [[#^k13|13]]
+**12.** Stipules with entire margin → couplet **13**
 
 **12′.** Stipules with laciniate margin → [[Drypetes_laciniata\|*D. laciniata*]]
 
-**13.** Stipules > 2.5–4 mm wide; leaf blade with ± entire margin; petiole 5–13 mm → [[Drypetes_bipindensis\|*D. bipindensis*]]
+**13.** Stipules >2.5–4 mm wide; leaf blade with ±entire margin; petiole 5–13 mm → [[Drypetes_bipindensis\|*D. bipindensis*]]
 
 **13′.** Stipules 0.8–2 mm wide; leaf blade with finely dentate margin; petiole 4–6 mm → [[Drypetes_fallax\|*D. fallax*]]
 
-**14.** Leaf blade with strongly dentate margin, with teeth 1–3 mm long over the entire length → [[#^k15|15]]
+**14.** Leaf blade with strongly dentate margin, teeth 1–3 mm long along the entire length → couplet **15**
 
-**14′.** Leaf blade with entire or weakly and irregularly dentate margin, with teeth 0.2–1 mm long → [[#^k18|18]]
+**14′.** Leaf blade with entire or weakly and irregularly dentate margin, teeth 0.2–1 mm long → couplet **18**
 
 **15.** Pedicel 1–2.5 cm; sepals 7–14 mm long; ovary with more than 5 locules; petiole 15–22 mm → [[Drypetes_gossweileri\|*D. gossweileri*]]
 
-**15′.** Pedicel 1–10 mm; sepals 2–7 mm long; ovary with fewer than 5 locules; petiole 1–15 mm → [[#^k16|16]]
+**15′.** Pedicel 1–10 mm; sepals 2–7 mm long; ovary with fewer than 5 locules; petiole 1–15 mm → couplet **16**
 
-**16.** Tree flowering only at a height of > 8 m; petiole 8–11 mm; branchlets with dense orange to red pubescence → [[Drypetes_occidentalis\|*D. occidentalis*]]
+**16.** Tree flowering only at a height of >8 m; petiole 8–11 mm; twigs with dense orange to red pubescence → [[Drypetes_occidentalis\|*D. occidentalis*]]
 
-**16′.** Tree flowering already at a height of < 8 m; petiole 1–8 mm; branchlets with sparse pubescence, of various colors → [[#^k17|17]]
+**16′.** Tree flowering already at a height of <8 m; petiole 1–8 mm; twigs with sparse pubescence, of varied colours → couplet **17**
 
-**17.** Flowers arranged on the branchlets below the leaves; petiole 5–8 mm → [[Drypetes_spinosodentata\|*D. spinosodentata*]]
+**17.** Flowers arranged on the twigs below the leaves; petiole 5–8 mm → [[Drypetes_spinosodentata\|*D. spinosodentata*]]
 
-**17′.** Flowers in the leaf axils; petiole 2–5 mm → *D. cinnabarina*.
+**17′.** Flowers at the leaf axil; petiole 2–5 mm → *D. cinnabarina*
 
-**18.** Leaf blade generally 3–10 × 1.5–5 cm → [[#^k19|19]]
+**18.** Leaf blade generally 3–10 × 1.5–5 cm → couplet **19**
 
-**18′.** Leaf blade generally 9–20 × 3–10 cm → [[#^k25|25]]
+**18′.** Leaf blade generally 9–20 × 3–10 cm → couplet **25**
 
-**19.** Leaf blade with truncate or slightly cordate base → [[#^k20|20]]
+**19.** Leaf blade with truncate or slightly cordate base → couplet **20**
 
-**19′.** Leaf blade with cuneate to acute base → [[#^k21|21]]
+**19′.** Leaf blade with cuneate to acute base → couplet **21**
 
 **20.** Petioles 1–1.5 mm; sepals 4; pedicel 6–9 mm; ovary glabrous → [[Drypetes_gilgiana\|*D. gilgiana*]]
 
-**20′.** Petioles 1.5–4 mm; sepals 5; pedicel 1–6 mm; ovary pilose → [[Drypetes_inaequalis\|*D. inaequalis*]]
+**20′.** Petioles 1.5–4 mm; sepals 5; pedicel 1–6 mm; ovary hairy → [[Drypetes_inaequalis\|*D. inaequalis*]]
 
-**21.** Ovary glabrous → [[#^k22|22]]
+**21.** Ovary glabrous → couplet **22**
 
-**21′.** Ovary pilose → [[#^k23|23]]
+**21′.** Ovary hairy → couplet **23**
 
-**22.** Branchlets and petioles glabrous → [[Drypetes_bakembei\|*D. bakembei*]]
+**22.** Twigs and petioles glabrous → [[Drypetes_bakembei\|*D. bakembei*]]
 
-**22′.** Branchlets and petioles pilose or very rarely glabrescent → [[Drypetes_diopa\|*D. diopa*]]
+**22′.** Twigs and petioles hairy or very rarely glabrescent → [[Drypetes_diopa\|*D. diopa*]]
 
 **23.** Leaf blade with midvein glabrous below → [[Drypetes_umbricola\|*D. umbricola*]]
 
-**23′.** Leaf blade with midvein pilose below → [[#^k24|24]]
+**23′.** Leaf blade with midvein hairy below → couplet **24**
 
 **24.** Leaf blade 3–5.5 × 1.5–2.4 cm → [[Drypetes_klainei\|*D. klainei*]]
 
@@ -230,20 +229,19 @@ Pantropical genus of ±210 species from dry and wet forests, sometimes in savann
 
 **25.** Pedicel 6–8 cm; petiole glabrous → [[Drypetes_capillipes\|*D. capillipes*]]
 
-**25′.** Pedicel 1–10 mm; petiole pilose or very rarely glabrescent → [[#^k26|26]]
+**25′.** Pedicel 1–10 mm; petiole hairy or very rarely glabrescent → couplet **26**
 
-**26.** Pedicel 8–10 mm, glabrous; ovary glabrous → [[Drypetes_aframensis\|*D. aframensis*]] ^k26
+**26.** Pedicel 8–10 mm, glabrous; ovary glabrous → [[Drypetes_aframensis\|*D. aframensis*]]
 
-**26′.** Pedicel 1–3 mm, pilose; ovary pilose → [[#^k27|27]]
+**26′.** Pedicel 1–3 mm, hairy; ovary hairy → couplet **27**
 
 **27.** Leaf blade with truncate to cordate base, distinctly asymmetric → [[Drypetes_chevalieri\|*D. chevalieri*]]
 
-**27′.** Leaf blade with cuneate to acute base, slightly oblique → [[#^k28|28]]
+**27′.** Leaf blade with cuneate to acute base, slightly oblique → couplet **28**
 
 **28.** Leaf blade oblong, with regularly crenate margin, each secondary vein looping and connected with the next; sepals 1.5–2.5 mm long → [[Drypetes_paxii\|*D. paxii*]]
 
-**28′.** Leaf blade elliptic-ovate to elliptic or even narrowly elliptic-obovate, with irregularly serrulate to subentire margin, with secondary veins looping in the distal part but not connected with the next (Plate 52.1); sepals 3–5.5 mm long → [[Drypetes_principum\|*D. principum*]]
-
+**28′.** Leaf blade elliptic-ovate to elliptic or even narrowly elliptic-obovate, with irregularly serrulate to subentire margin, with secondary veins looping in the distal part, but not connected with the next (Plate 52.1); sepals 3–5.5 mm long → [[Drypetes_principum\|*D. principum*]]
 
 ## Species in region
 

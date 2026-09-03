@@ -25,31 +25,29 @@ BIBLIOGRAPHY: Endress et al. (2019), Jongkind & Lachenaud (2022), Omino (1996, 2
 
 ## Key to the species
 
+Leaves all ternate or some opposite and others ternate on the same branch, sometimes in whorls of 3 to 5; ovary bicarpellate, each biovalate ................................................................................................................... P. pycnantha
 
-Leaves all ternate or some opposite and others ternate on the same branch, sometimes in whorls of 3 to 5; ovary bicarpellate, each biov­ulate ................................................................................................................... P. pycnantha
+**—** Leaves all opposite; ovary with 2 to 5 carpels, each with 1 or several ovules → couplet **2**
 
-**—** Leaves all opposite; ovary with 2 to 5 carpels, each with 1 or several ovules → [[#^k2|2]]
+**2.** Stamens inserted ± at the middle of the tube; style 1.2–1.5 mm long; mericarps with 1 or 2 seeds → [[Pleiocarpa_brevistyla\|*P. brevistyla*]]
 
-**2.** Stamens inserted ± at the middle of the tube; style 1.2–1.5 mm long; mericarps with 1 or 2 seeds → [[Pleiocarpa_brevistyla\|*P. brevistyla*]] ^k2
+**2′.** Stamens inserted between the middle and 92% of the tube length; style 5.5–16 mm long; mericarps with 1 to several seeds → couplet **3**
 
-**2′.** Stamens inserted between the middle and 92% of the tube length; style 5.5–16 mm long; mericarps with 1 to several seeds → [[#^k3|3]]
+**3.** Leaf lamina with secondary veins in 6 to 14 pairs, strongly curved and pro- minent below → couplet **4**
 
-**3.** Leaf blade with secondary veins in 6 to 14 pairs, strongly curved and prominent below → [[#^k4|4]] ^k3
+**3′.** Leaf lamina with secondary veins in 9 to 30 pairs, straight or slightly curved and scarcely prominent → couplet **5**
 
-**3′.** Leaf blade with secondary veins in 9 to 30 pairs, straight or slightly curved, barely prominent → [[#^k5|5]]
-
-**4.** Apex of stamens reaching the throat of the corolla; corolla lobes 5–6 × 3–4 mm; carpels and mericarps with 1 ovule, 1 seed → [[Pleiocarpa_robusta\|*P. robusta*]] ^k4
+**4.** Apex of stamens reaching the throat of the corolla; corolla lobes 5–6 × 3–5 mm; carpels and mericarps with 1 ovule, grain → [[Pleiocarpa_robusta\|*P. robusta*]]
 
 **4′.** Apex of stamens reaching 3–8 mm below the throat of the corolla; corolla lobes 5.5–26 × 4–15 mm; carpels with 3 to 6 ovules, mericarps with 1 to 5 seeds → [[Pleiocarpa_rostrata\|*P. rostrata*]]
 
-**5.** Leaf blade with secondary veins in 19 to 30 pairs; ovary with 2 carpels, each with 2 ovules → [[Pleiocarpa_bicarpellata\|*P. bicarpellata*]] ^k5
+**5.** Leaf lamina with secondary veins in 19 to 30 pairs; ovary with 2 carpels, each with 2 ovules → [[Pleiocarpa_bicarpellata\|*P. bicarpellata*]]
 
-**5′.** Leaf blade with secondary veins in 9 to 18 pairs; ovary with 3 to 5 carpels, each with 1 or several ovules → [[#^k6|6]]
+**5′.** Leaf lamina with secondary veins in 9 to 18 pairs; ovary with 3 to 5 carpels, each with 1 or several ovules → couplet **6**
 
-**6.** Leaf blade with secondary veins in 9 to 12 pairs; mericarps with 1 seed → [[Pleiocarpa_mutica\|*P. mutica*]] ^k6
+**6.** Leaf lamina with secondary veins in 9 to 12 pairs; mericarps with 1 seed → [[Pleiocarpa_mutica\|*P. mutica*]]
 
-**6′.** Leaf blade with secondary veins in 11 to 18 pairs; mericarps with 3 or 4 seeds → [[Pleiocarpa_picralimoides\|*P. picralimoides*]]
-
+**6′.** Leaf lamina with secondary veins in 11 to 18 pairs; mericarps with 3 or 4 seeds → [[Pleiocarpa_picralimoides\|*P. picralimoides*]]
 
 ## Species in region
 

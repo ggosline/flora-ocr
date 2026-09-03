@@ -29,23 +29,21 @@ BIBLIOGRAPHY: de Boer et al. (2015), de Wilde & Duyfjes (2010), Dwivedi et al. (
 
 ## Key to the species
 
+**1.** Leaf blade deeply 5- to 7-palmatilobed (similar to Momordica charantia) → [[Zehneria_palmatiloba\|*Z. palmatiloba*]]
 
-**1.** Leaf blade deeply 5- to 7-palmatilobed (similar to Momordica charantia) → [[Zehneria_palmatiloba\|*Z. palmatiloba*]] ^k1
+**1′.** Leaf blade entire to 3-lobed → couplet **2**
 
-**1′.** Leaf blade entire to 3-lobed → [[#^k2|2]]
+**2.** Fruit ± fusiform → couplet **3**
 
-**2.** Fruit ± fusiform → [[#^k3|3]] ^k2
+**2′.** Fruit globose → couplet **4**
 
-**2′.** Fruit globose → [[#^k4|4]]
+**3.** Monoecious herb; stamens subsessile or with filament very short (<0.5 mm) → [[Zehneria_tridactyla\|*Z. tridactyla*]]
 
-**3.** Herb monoecious; stamens subsessile or with very short filament (<0.5 mm) → [[Zehneria_tridactyla\|*Z. tridactyla*]] ^k3
+**3′.** Dioecious herb; stamens with filament ≥ 1 mm → [[Zehneria_minutiflora\|*Z. minutiflora*]]
 
-**3′.** Herb dioecious; stamens with filament ≥ 1 mm → [[Zehneria_minutiflora\|*Z. minutiflora*]]
-
-**4.** Male flowers solitary; fruiting pedicel >2 cm → [[Zehneria_capillacea\|*Z. capillacea*]] ^k4
+**4.** Male flowers solitary; fruiting pedicel >2 cm → [[Zehneria_capillacea\|*Z. capillacea*]]
 
 **4′.** Male flowers often fasciculate; fruiting pedicel <2 cm → [[Zehneria_gilletii\|*Z. gilletii*]]
-
 
 ## Species in region
 

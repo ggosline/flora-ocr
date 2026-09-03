@@ -34,11 +34,9 @@ Approximately 10 species, 8 in Africa and 2 in Southeast Asia; several African s
 
 ## Key to the species
 
-
-**1.** Calyx densely tomentose; leaflets ± puberulent beneath, at least along the veins, petioles less than 3 mm long; fruit puberulent; pseudo-stipules subulate → [[Markhamia_tomentosa\|*M. tomentosa*]] ^k1
+**1.** Calyx densely tomentose; leaflets ± puberulent beneath, at least along the nerves, petioles less than 3 mm long; fruit puberulent; pseudo-stipules subulate → [[Markhamia_tomentosa\|*M. tomentosa*]]
 
 **1′.** Calyx scaly; leaflets scaly beneath; distinctly petiolulate; fruit scaly; pseudo-stipules foliaceous → 1bis. M. lutea.
-
 
 ## Species in region
 

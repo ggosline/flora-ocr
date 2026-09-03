@@ -25,11 +25,9 @@ The genus comprises a very large number of species in tropical America (100–12
 
 ## Key to the species
 
+**1.** Leaflets ovate, acuminate → [[Swartzia_fistuloides\|*S. fistuloides*]]
 
-**1.** Leaflets ovate, acuminate → [[Swartzia_fistuloides\|*S. fistuloides*]] ^k1
-
-**1′.** Leaflets elliptic-oblong, with rounded apex and slightly emarginate → *S. madagascariensis*.
-
+**1′.** Leaflets elliptic-oblong, with rounded apex and slightly emarginate apex → *S. madagascariensis*
 
 ## Species in region
 

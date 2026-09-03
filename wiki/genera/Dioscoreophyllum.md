@@ -27,6 +27,12 @@ glabrous mericarps.
 
 A tropical African genus of **two species**, both present in Gabon.
 
+## Key to the species
+
+**1.** Stem glabrous or with scattered ± appressed hairs; male inflorescence 3–6 cm long, with peduncle 0.5–1.5 cm; male flower with 3 stamens in a ± cylindric synandry, with filaments fused into a stipe 1.5 mm → [[Dioscoreophyllum_gossweileri\|*D. gossweileri*]]
+
+**1′.** Stem with erect hairs; male inflorescence 17–20 cm long, with peduncle 4–11 cm; male flower with 6 stamens fused into a ± hemispheric synandry, sessile or subsessile → [[Dioscoreophyllum_volkensii\|*D. volkensii*]]
+
 ## Species in Gabon
 
 | Species | Habit | Distribution (Gabon) | Page |

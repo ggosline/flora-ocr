@@ -31,15 +31,13 @@ Type species: Blighia sapida Koenig.
 
 ## Key to the species
 
+**1.** Fruit with 3 obtuse carinae, glabrous on the exterior; locules pubescent on the interior; fruit large, ca. 10 cm (dry, 4–5 cm) × 5 cm; leaves (3–) 4 (–5)–jugate; petiole 5–20 mm, midvein sunken above → [[Blighia_sapida\|*B. sapida*]]
 
-**1.** Fruit with 3 obtuse keels, glabrous on the outside; locules pubescent on the inside; fruit large, ca. 10 cm (dry, 4–5 cm) × 5 cm; leaves (3–) 4 (–5)–jugate; petiole 5–20 mm, midvein grooved above → [[Blighia_sapida\|*B. sapida*]] ^k1
+**1′.** Fruit with 3 acute carinae, with thinned edges, glabrous on the exterior.
 
-**1′.** Fruit with 3 acute keels, with thinned edges, glabrous on the outside.
+**2.** Fruit medium, 4–8 cm long; endocarp pubescent on the interior of the locules, dense tomentum 1 mm; midvein of leaflets sunken on the upper surface; petiole 30–80 mm; no domatia at the axils of the secondary veins.
 
-**2.** Fruit medium, 4–8 cm long; endocarp pubescent on the inside of the locules, dense tomentum 1 mm; midvein of leaflets grooved on the upper surface; petiole 30–80 mm; no domatia at the axil of secondary veins. ^k2
-
-**2′.** Fruit small, 1.5–2.5 mm; endocarp glabrous on the inside of the locules; midvein of leaflets raised on the upper surface, between 2 furrows running along it; petiole 2–15 mm; small domatia at the axil of secondary veins → [[Blighia_unijugata\|*B. unijugata*]]
-
+**2′.** Fruit small, 1.5–2.5 mm; endocarp glabrous on the interior of the locules; midvein of leaflets prominent on the upper surface, between 2 furrows running along it; petiole 2–15 mm; small domatia at the axils of the secondary veins → [[Blighia_unijugata\|*B. unijugata*]]
 
 ## Species in region
 

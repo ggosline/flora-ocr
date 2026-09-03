@@ -31,11 +31,9 @@ This genus is represented in tropical Africa by 3 species whose ranges appear fa
 
 ## Key to the species
 
+**1.** Lamina broadly elliptic, 3-8 × 4-14 cm, with obtuse to rounded symmetric base, with obtuse apex abruptly acuminate → [[Scytopetalum_klaineanum\|*S. klaineanum*]]
 
-**1.** Lamina broadly elliptic, 3–8 × 4–14 cm, with base obtuse to rounded symmetric, with apex obtuse abruptly acuminate → [[Scytopetalum_klaineanum\|*S. klaineanum*]] ^k1
-
-**1′.** Lamina elliptic-oblong, generally obovate-elliptic and falcate, 2–6 × 5–16 cm, with base asymmetric and more often very asymmetric, with apex acute or obtuse ± gradually acuminate → [[Scytopetalum_pierreanum\|*S. pierreanum*]]
-
+**1′.** Lamina elliptic-oblong, generally obovate-elliptic and falciform, 2-6 × 5-16 cm, with asymmetric base and more often very asymmetric, with acute or obtuse apex ± gradually acuminate → [[Scytopetalum_pierreanum\|*S. pierreanum*]]
 
 ## Species in region
 

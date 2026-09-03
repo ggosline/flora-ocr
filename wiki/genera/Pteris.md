@@ -32,9 +32,7 @@ Type species: (lectotype of Christensen): Pteris longifolia L. Approximately 250
 
 ## Key to the species
 
-
 **1′.** Frond tripartite, that is to say divided into 3 equally developed primary branches, themselves bipinnate; veins forming costal areoles → [[Pteris_marginata\|*P. marginata*]]
-
 
 ## Species in region
 

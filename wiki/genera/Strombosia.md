@@ -48,23 +48,21 @@ starchy. Embryo small, apical.
 
 ## Key to the species
 
+**1.** Nervules less than 2 mm apart, distinct
 
-**1.** Nervilles less than 2 mm apart from one another, distinct ^k1
+**1′.** Nervules more than 2 mm apart or indistinct.
 
-**1′.** Nervilles more than 2 mm apart from one another or indistinct.
+**2.** Upper surface of the lamina with a granular appearance when dry → [[Strombosia_pustulata\|*S. pustulata*]]
 
-**2.** Upper surface of limb with granular aspect when dry → [[Strombosia_pustulata\|*S. pustulata*]] ^k2
+**3.** Upper surface dull; nervules indistinct → var. pustulata.
 
-**3.** Upper surface matt; nervilles indistinct → var. pustulata. ^k3
+**3′.** Upper surface glossy; nervules distinct → var. lucida.
 
-**3′.** Upper surface shiny; nervilles distinct → var. lucida.
+**2′.** Upper surface of the lamina smooth.
 
-**2′.** Upper surface of limb smooth.
+**4.** Floral bud ellipsoid; pedicel striate; nervules clearly distinct beneath → [[Strombosia_scheffleri\|*S. scheffleri*]]
 
-**4.** Floral bud ellipsoid; pedicel striate; nervilles clearly distinct below → [[Strombosia_scheffleri\|*S. scheffleri*]] ^k4
-
-**4′.** Floral bud globular; pedicel pustular; nervilles most often indistinct → [[Strombosia_zenkeri\|*S. zenkeri*]]
-
+**4′.** Floral bud globose; pedicel pustulate; nervules usually indistinct → [[Strombosia_zenkeri\|*S. zenkeri*]]
 
 ## Species in Gabon
 

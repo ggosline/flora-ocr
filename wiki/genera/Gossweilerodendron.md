@@ -27,11 +27,9 @@ Two species, one still poorly known. The first is widespread from southern Niger
 
 ## Key to the species
 
+**1.** Leaflets with a network of veins and veinlets finely prominent on both faces → [[Gossweilerodendron_balsamiferum\|*G. balsamiferum*]]
 
-**1.** Leaflets with a network of veins and veinlets finely prominent on both faces → [[Gossweilerodendron_balsamiferum\|*G. balsamiferum*]] ^k1
-
-**1′.** Leaflets with numerous lateral veins visible beneath not forming an equally visible reticulate network on both faces.
-
+**1′.** Leaflets with numerous lateral veins visible beneath not forming a reticulate network equally visible on both faces.
 
 ## Species in region
 

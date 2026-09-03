@@ -27,9 +27,7 @@ equal or nearly so, deciduous, leaving neat scars on the torus after their fall;
 
 ## Key to the species
 
-
-**1′.** Lianes or shrubs with slender and flexuous branches; inflorescences axillary, especially of leaves fairly distant from one another → [[Ritchiea_capparoides\|*R. capparoides*]]
-
+**1′.** Lianes or shrubs with slender and flexuous branches; inflorescences axillary chiefly of leaves fairly distant from one another → [[Ritchiea_capparoides\|*R. capparoides*]]
 
 ## Species in region
 

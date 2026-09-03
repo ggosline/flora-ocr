@@ -45,13 +45,11 @@ the margin, and 2-winged branchlets — against *Coula*'s 4 stamens per petal, a
 alternipetalous staminal whorl, secondary nerves running to the margin, and
 cylindrical branchlets.
 
-## Key to the varieties
+## Key to the species
 
+**1.** Flowers solitary on the inflorescence axis → P. petiolatum var. petiolatum.
 
-**1.** Flowers solitary on the inflorescence axis → **[[Ptychopetalum_petiolatum_var_petiolatum|var. petiolatum]]** ^k1
-
-**1′.** Flowers grouped in a fascicle on the inflorescence axis → **[[Ptychopetalum_petiolatum_var_paniculatum|var. paniculatum]]**.
-
+**1′.** Flowers grouped in fascicles on the inflorescence axis.. P. petiolatum var. paniculatum.
 
 ## Species in Gabon
 

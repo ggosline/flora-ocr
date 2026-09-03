@@ -39,19 +39,17 @@ The 4 species of very large trees known in the Cameroonian-Gabonese forest can b
 
 ## Key to the species
 
+**1.** Leaflets numerous, 9–14 pairs, less than 5 cm in length and 1.5 cm in width → [[Brachystegia_mildbraedii\|*B. mildbraedii*]]
 
-**1.** Leaflets numerous, 9-14 pairs, less than 5 cm long and 1.5 cm wide → 1. B. Mildbraedii. ^k1
+**1′.** Leaflets, at most 6 pairs.
 
-**1′.** Leaflets, 6 pairs at most.
-
-**2.** Leaflets distinctly petiolulate, 3 pairs → *B. cynometroides* ^k2
+**2.** Leaflets distinctly petiolulate, 3 pairs → *B. cynometroides*
 
 **2′.** Leaflets sessile.
 
-**3.** One pair of rudimentary leaflets, persistent at the base of the rachis, or caducous but leaving visible scars; 3-4 pairs; apex acuminate or obtuse → 2. B. Zenkeri. ^k3
+**3.** A pair of rudimentary leaflets, persistent at the base of the rachis, or caducous but leaving visible scars; 3–4 pairs; apex acuminate or obtuse → [[Brachystegia_zenkeri\|*B. zenkeri*]]
 
-**3′.** Leaflets of the basal pair similar to the others, and normally persistent; (4-) 5 (-6) pairs; distinctly rounded at the apex → *B. eurycoma*.
-
+**3′.** Leaflets of the basal pair similar to the others, and normally persistent; (4–) 5 (–6) pairs; distinctly rounded at the apex → *B. eurycoma*
 
 ## Species in region
 

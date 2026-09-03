@@ -25,9 +25,7 @@ About thirty species, principally from Africa and Madagascar. Two are recorded f
 
 ## Key to the species
 
-
-**1′.** Upper glume and sterile lemma entire, acuminate or mucronate; fertile lemma obtuse or acuminate, ciliate in its upper part; herb often exceeding 50 cm tall, leaf blades up to about fifty centimetres long and 8 mm wide, spread or folded; spikelets pubescent violet, savanna herb on sandy soil, flowering after fires → *R. amethystem*.
-
+**1′.** Upper glume and sterile lemma entire, acuminate or mucronate; fertile lemma obtuse or acuminate, ciliate in its upper part; grass often exceeding 50 cm tall, leaf blades up to about fifty centimetres long and 8 mm wide, spread or folded; spikelets pubescent violet, savanna grass on sandy soil, flowering after fires → *R. amethystem*
 
 ## Species in region
 

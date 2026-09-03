@@ -33,11 +33,9 @@ Bibliography
 
 ## Key to the species
 
+**1.** Flower 8–9.5 cm in length; inflorescence with dense flowers, distant 0.5–2 cm apart; leaves ± erect to spreading, generally > 7 cm wide, with red-brown edges and whitish hyaline margin; coastal species → [[Sansevieria_aubrytiana\|*S. aubrytiana*]]
 
-**1.** Flower 8–9.5 cm in length; inflorescence with flowers dense, distant 0.5–2 cm apart; leaves ± erect to spreading, generally > 7 cm wide, with red-brown edges and whitish hyaline margin; coastal species → [[Sansevieria_aubrytiana\|*S. aubrytiana*]] ^k1
-
-**1′.** Flower 1.8–2.5 cm in length; inflorescence with flowers distant 1–4 cm apart; leaves strictly erect, ≤ 7 cm wide, with dark green edges non-hyaline; inland species, often on hills, but often cultivated elsewhere → *S. trifasciata*.
-
+**1′.** Flower 1.8–2.5 cm in length; inflorescence with flowers distant 1–4 cm apart; leaves strictly erect, ≤ 7 cm wide, with dark green non-hyaline edges; interior species, often on hills, but often cultivated elsewhere → *S. trifasciata*
 
 ## Species in region
 

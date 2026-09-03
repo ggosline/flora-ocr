@@ -37,15 +37,13 @@ This genus contains 6 species in tropical Africa; 3 are represented in Cameroon 
 
 ## Key to the species
 
+**1.** Hydathodes absent.
 
-**1.** Hydathodes absent. ^k1
-
-**2.** Veinlets in lax reticulum; 8-9 pairs of secondary veins; petiole sparsely pubescent above and glabrous below → [[Chlamydocarya_anhydathoda\|*C. anhydathoda*]] ^k2
+**2.** Veinlets in lax reticulum; 8-9 pairs of secondary veins; petiole sparsely pubescent above and glabrous below → [[Chlamydocarya_anhydathoda\|*C. anhydathoda*]]
 
 **2′.** Veinlets in dense reticulum; 8-15 pairs of secondary veins; petiole entirely pubescent → [[Chlamydocarya_soyauxii\|*C. soyauxii*]]
 
 **1′.** Hydathodes present → [[Chlamydocarya_thomsoniana\|*C. thomsoniana*]]
-
 
 ## Species in region
 

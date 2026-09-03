@@ -30,47 +30,45 @@ Several species have edible fruits. The clove tree, S. aromaticum (L.) Merrill e
 
 ## Key to the species
 
+**1.** Indigenous species. Petals always connate.
 
-**1.** Indigenous species. Petals always connate. ^k1
+**2.** Leaves subsessile, cordate at the base, elongate, 10-25 cm long; flowers large: adult floral buds 8-10 mm diam → [[Syzygium_gilletii\|*S. gilletii*]]
 
-**2.** Leaves subsessile, cordate at the base, elongate, 10–25 cm long; flowers large: mature floral buds 8–10 mm diam. ^k2
+**2′.** Leaves petiolate, acute, obtuse or rounded at the base, smaller; flowers smaller: floral buds 2-5 mm diam.
 
-**2.** S. Gilletii.
+**3.** Young branchlets quadrangular; leaves rather small, 4-7 cm long; sepals barely developed → *S. staudti*
 
-**2′.** Leaves petiolate, acute, obtuse or rounded at the base, smaller; flowers smaller: floral buds 2–5 mm diam.
+**3′.** Young branchlets rounded; leaves broader.
 
-**3.** Young branches quadrangular; leaves rather small, 4–7 cm long; sepals scarcely developed → 1. S. Staudti. ^k3
+**4.** Sepals distinct, also on the fruit, subimbricate in the bud, 1 mm high; leaves obovate, long-cuneate at the base, shortly acuminate at the apex → [[Syzygium_congolense\|*S. congolense*]]
 
-**3′.** Young branches rounded; leaves broader.
+**4′.** Sepals barely developed.
 
-**4.** Sepals distinct, also on the fruit, subimbricately arranged in the bud, 1 mm tall; leaves obovate, long-cuneate at the base, shortly acuminate at the apex → [[Syzygium_congolense\|*S. congolense*]] ^k4
+**5.** Marsh tree, with stilt roots; leaves ovate-elliptic, often rounded at the base, long-acuminate at the apex and very acute → *S. ovariense*
 
-**4′.** Sepals scarcely developed.
+**5′.** Trees from non-marshy habitats, without stilt roots; leaves acute at the base → 5. S. guineense s.l.
 
-**5.** Marsh tree, with stilt roots; leaves ovate-elliptic, often rounded at the base, long-acuminate at the apex and very acute → *S. ovariense* ^k5
+**6.** Shrub or small tree from the seashore; leaves ovate-elliptic, extremely coriaceous, rounded or obtuse, sometimes shortly acuminate at the apex; petiole short and thick, about 5 mm long → 5 c. var. littorale.
 
-**5′.** Trees of non-swampy sites, without stilt roots; leaves acute at the base → 5. S. guineense s.l.
+**6′.** Trees or shrubs from savannas or forest galleries; petiole longer than above.
 
-**6.** Shrub or small tree of the seashore; leaves ovate-elliptic, extremely coriaceous, rounded or obtuse, sometimes shortly acuminate at the apex; petiole short and thick, about 5 mm long → 5 c. var. littorale. ^k6
+**7.** Savanna tree or shrub; petiole 2-4 cm long; leaves obovate, often rounded or obtuse at the apex; inflorescences often on leafless branchlets → 5 b. var. macrocarpon.
 
-**6′.** Trees or shrubs of savannas or forest galleries; petiole longer than above.
+**7′.** Forest gallery tree; petiole 0.5-2 cm long; leaves acuminate, persistent; inflorescences always terminal → 5 a. var. guineae
 
-**7.** Tree or shrub of savanna; petiole 2–4 cm long; leaves obovate, often rounded or obtuse at the apex; inflorescences often on leafless branches → 5 b. var. macrocarpon. ^k7
+**1′.** Cultivated species, sometimes naturalized; petals often free.
 
-**7′.** Tree of forest gallery; petiole 0.5–2 cm long; leaves acuminate, persistent; inflorescences always terminal → 5 a. var. guineae r'. Cultivated species, sometimes naturalized; petals often free.
+**8.** Petals connate, capping the floral bud, detaching all together.
 
-**8.** Petals connate, capping the floral bud, detaching all together. ^k8
+**9.** Ovary cylindric, somewhat quadrangular; sepals triangular; inflorescences terminal → [[Syzygium_aromaticum\|*S. aromaticum*]]
 
-**9.** Ovary cylindric, somewhat quadrangular; sepals triangular; inflorescences terminal → [[Syzygium_aromaticum\|*S. aromaticum*]] ^k9
+**9′.** Ovary obconic; sepals barely developed; inflorescences lateral, on the leafless parts of branchlets → [[Syzygium_cumini\|*S. cumini*]]
 
-**9′.** Ovary obconic; sepals scarcely developed; inflorescences lateral, on leafless portions of branches → [[Syzygium_cumini\|*S. cumini*]]
+**8′.** Petals free, fairly large, 1-2 cm long.
 
-**8′.** Petals free, rather large, 1–2 cm long.
-
-**10.** Inflorescence on old wood; flowers red → [[Syzygium_malaccense\|*S. malaccense*]] ^k10
+**10.** Inflorescence on old wood; flowers red → [[Syzygium_malaccense\|*S. malaccense*]]
 
 **10′.** Inflorescence terminal; flowers white; leaves narrow lanceolate → [[Syzygium_jambos\|*S. jambos*]]
-
 
 ## Species in region
 

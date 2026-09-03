@@ -41,9 +41,7 @@ known only from Bipindi, Yaoundé and Ndiki (Jacques-Félix 2560); with calyx lo
 
 ## Key to the species
 
-
-**1′.** Inflorescence pseudo-axillary appearing at the level of a reduced leaf opposite a normal leaf; inflorescence rather long-pedunculate and branched; calyx with briefly triangular lobes; bracts caducous in the inflorescence → *A. ochroleuca*.
-
+**1′.** Inflorescence pseudo-axillary appearing at the level of a reduced leaf opposite to a normal leaf; inflorescence rather long-pedunculate and branched; calyx with briefly triangular lobes; bracts caducous in the inflorescence → *A. ochroleuca*
 
 ## Species in region
 

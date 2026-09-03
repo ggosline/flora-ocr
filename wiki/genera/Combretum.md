@@ -31,195 +31,193 @@ Fruit dry (at least in Gabon) with 4 or 5 wings (most species), sessile or stipi
 
 ## Key to the species
 
+N.B. This key uses floral characters: C. erosum has been excluded from it as its flower is still unknown; however C. congolanum, not yet collected in Gabon, appears in this key, as it is present in Cameroon and Congo (Kinshasa).
 
-N.B. This key uses floral characters: C. erosum has been excluded from it because its flower is still unknown; but C. congolanum, not yet collected in Gabon, appears in this key because it is present in Cameroon and Congo (Kinshasa).
+**1.** Scales absent, even on young shoots or inflorescences. Flowers and fruits 4–5-merous; flowers ± distinctly stipitate; petals always clearly visible, red to yellow, rarely white.
 
-**1.** Scales absent, including on young shoots or inflorescences. Flowers and fruits 4-5-merous; flowers ± distinctly stipitate; petals always well visible, red to yellow, rarely white. ^k1
-
-**2.** Upper receptacle cupuliform. Petals white, glabrous, except for very small hairs along the margin. Stamens exserted < 5 mm → [[Combretum_mucronatum\|*C. mucronatum*]] ^k2
+**2.** Upper receptacle cupuliform. Petals white, glabrous, except for very small hairs along the edge. Stamens exsert < 5 mm → [[Combretum_mucronatum\|*C. mucronatum*]]
 
 **2′.** Upper receptacle different. Petals most often red or orange.
 
-**3.** Upper receptacle in a curved tube of 17-32 mm, base distinctly rounded, flowers generally in terminal raceme: ^k3
+**3.** Upper receptacle in a curved tube of 17–32 mm, base distinctly rounded, flowers generally in terminal raceme:
 
-**4.** Flowers, exterior covered with appressed ordinary hairs . . . . 39. C. platypterum ^k4
+**4.** Flowers, exterior covered with ordinary appressed hairs . . . . 39. C. platypterum
 
-**4′.** Flowers, exterior covered with erect ordinary hairs and glandular hairs → [[Combretum_bracteatum\|*C. bracteatum*]]
+**4′.** Flowers, exterior covered with ordinary erect hairs and glandular hairs → [[Combretum_bracteatum\|*C. bracteatum*]]
 
 **3′.** Flowers not showing these characters.
 
-**5.** Flowers with a long tube. Stamens not or shortly exserted; style partly united to the upper receptacle. ^k5
+**5.** Flowers with a long tube. Stamens not or shortly exsert; style in part united to upper receptacle.
 
-**6.** Upper receptacle, length > 4 cm → [[Combretum_indicum\|*C. indicum*]] ^k6
+**6.** Upper receptacle, length > 4 cm → [[Combretum_indicum\|*C. indicum*]]
 
-**6′.** Upper receptacle, length ≤ 3 cm.
+**6′.** Upper receptacle, length ≤ 3 cm
 
-**7.** Upper receptacle distinctly wider above the middle than at its opening; stamens not visible from outside → [[Combretum_inflatum\|*C. inflatum*]] ^k7
+**7.** Upper receptacle distinctly wider above the middle than at its opening; stamens not visible from outside → [[Combretum_inflatum\|*C. inflatum*]]
 
 **7′.** Upper receptacle nowhere wider than at its opening; stamens visible from outside.
 
-**8.** Hairs on the external face of petals distinctly concentrated on their midvein → [[Combretum_latialatum\|*C. latialatum*]] ^k8
+**8.** Hairs on the external face of petals distinctly concentrated on their midvein → [[Combretum_latialatum\|*C. latialatum*]]
 
-**8′.** Indumentum of petals evenly distributed over the entire external face → [[Combretum_falcatum\|*C. falcatum*]]
+**8′.** Indument of petals evenly distributed over the entire external face → [[Combretum_falcatum\|*C. falcatum*]]
 
 **5′.** Flowers different.
 
-**9.** Flowers 4-merous. ^k9
+**9.** Flowers 4-merous.
 
-**10.** Petals glabrous, except for very small glandular hairs on the margin → [[Combretum_paniculatum\|*C. paniculatum*]] ^k10
+**10.** Petals glabrous, except for very small glandular hairs on the edge → [[Combretum_paniculatum\|*C. paniculatum*]]
 
 **10′.** Petals pubescent.
 
-**11.** Upper receptacle: external face almost entirely glabrous → [[Combretum_racemosum\|*C. racemosum*]] ^k11
+**11.** Upper receptacle: external face almost entirely glabrous → [[Combretum_racemosum\|*C. racemosum*]]
 
 **11′.** Upper receptacle: exterior covered with a remarkable appressed silvery pubescence → [[Combretum_cinereopetalum\|*C. cinereopetalum*]]
 
 **9′.** Flowers 5-merous.
 
-**12.** Petals > 3 times longer than wide → [[Combretum_comosum\|*C. comosum*]] ^k12
+**12.** Petals > 3 times longer than wide → [[Combretum_comosum\|*C. comosum*]]
 
 **12′.** Petals < 2 times longer than wide:
 
-**13.** Petals > upper receptacle → [[Combretum_cinnabarinum\|*C. cinnabarinum*]] ^k13
+**13.** Petals > upper receptacle → [[Combretum_cinnabarinum\|*C. cinnabarinum*]]
 
 **13′.** Petals < upper receptacle:
 
-**14.** Inflorescences often terminal or axillary racemes; stamens exserted 10-20 mm → [[Combretum_confertum\|*C. confertum*]] ^k14
+**14.** Inflorescences often terminal or axillary racemes; stamens exsert 10–20 mm → [[Combretum_confertum\|*C. confertum*]]
 
-**14′.** Inflorescences often paniculate; stamens exserted < 5 mm → [[Combretum_mannii\|*C. mannii*]]
+**14′.** Inflorescences often paniculate; stamens exsert < 5 mm → [[Combretum_mannii\|*C. mannii*]]
 
 **1′.** Scales present, at least on young shoots and inflorescences and generally on (young) leaves, flowers and fruits. Flowers and fruits 4-merous; flowers sessile; petals white to yellowish, sometimes very small or absent.
 
-**15.** Upper receptacle almost patelliforme, approximately equal to the calyx lobes (which may give it a cupuliform appearance). ^k15
+**15.** Upper receptacle almost patellifform, approximately equal to the calyx lobes (which may give it a cupuliform appearance).
 
-**16.** Petals pubescent, on external face or only along the margin. ^k16
+**16.** Petals pubescent, external face or only along the edge.
 
-**17.** Flowers, external face covered with a glutinous layer; petals pubescent only on the margin → [[Combretum_paucinervium\|*C. paucinervium*]] ^k17
+**17.** Flowers, external face covered with a glutinous layer; petals pubescent only on the edge → [[Combretum_paucinervium\|*C. paucinervium*]]
 
-**17.** Flowers without a glutinous layer; petals pubescent over the entire external face → [[Combretum_pecoense\|*C. pecoense*]]
+**17.** Flowers without glutinous layer; petals pubescent over the entire external face → [[Combretum_pecoense\|*C. pecoense*]]
 
 **16′.** Petals glabrous.
 
-**18.** Lower face of leaf, permanent yellow hairs → *C. exellii* ^k18
+**18.** Lower surface of leaf, permanent yellow hairs → *C. exellii*
 
-**18′.** Lower face of leaf pubescent, only on the veins, or glabrous.
+**18′.** Lower surface of leaf pubescent, only on the veins, or glabrous.
 
-**19.** Veins III not distinctly parallel. ^k19
+**19.** Veins III not distinctly parallel.
 
-**20.** Major veins II of the largest leaves with sacciform axillary domatia (opening narrowed); fruit winged. 29. C. mortehanii ^k20
+**20.** Major veins II of the largest leaves with sacciform axillary domatia (opening narrowed); fruit winged. 29. C. mortehanii
 
 **20′.** Major veins II without domatia; fruit angular but without wings → [[Combretum_marginatum\|*C. marginatum*]]
 
 **19′.** Veins III parallel at ≤ 5 mm from one another.
 
-**21.** Dense pubescence on young branchlets and on the underside of veins; base of limb rounded to subcordate; style < 1 mm → *C. gabonensis* ^k21
+**21.** Dense pubescence on young branches and beneath the veins; leaf base rounded to subcordate; style < 1 mm → *C. gabonensis*
 
 **21′.** Plant not showing these characters.
 
-**22.** Colored stellate scales well visible on the lower face of the leaf and young branchlets. ^k22
+**22.** Colored stellate scales well visible on the lower surface of the leaf and young branches.
 
-**23.** Leaf base strongly cordate to auriculate → [[Combretum_adrianii\|*C. adrianii*]] ^k23
+**23.** Leaf base strongly cordate to auriculate → [[Combretum_adrianii\|*C. adrianii*]]
 
 **23′.** Leaf base at most subcordate → [[Combretum_demeusei\|*C. demeusei*]]
 
 **22′.** Scales different.
 
-**24.** Major veins II of large leaves with sacciform axillary domatia (opening narrowed) → [[Combretum_homalioides\|*C. homalioides*]] ^k24
+**24.** Major veins II of the large leaves with sacciform axillary domatia (opening narrowed) → [[Combretum_homalioides\|*C. homalioides*]]
 
-**24′.** Major veins II without well-visible domatia.
+**24′.** Major veins II without well visible domatia.
 
-**25.** Underside of leaves and exterior of flowers covered with very shiny and well-distributed scales → [[Combretum_erosum\|*C. erosum*]] ^k25
+**25.** Lower surface of leaves and exterior of flowers covered with very lustrous scales well distributed
 
 **25′.** Scales not having these characters.
 
-**26.** Base of limb rounded …… 44. C. scandens ^k26
+**26.** Leaf base rounded …… 44. C. scandens
 
-**26′.** Base of limb subcordate to auriculate . .
+**26′.** Leaf base subcordate to auriculate . .
 
 **15′.** Upper receptacle cupuliform to bucciniform; calyx lobes distinctly smaller than the upper part of the receptacle or not visible.
 
-**27.** Upper receptacle infundibuliform, base attenuate → *P. absent* ^k27
+**27.** Upper receptacle infundibuliform, base attenuate → *P. absent*
 
-**29.** Leaves, especially young ones, dense pubescence → [[Combretum_ndjoleense\|*C. ndjoleense*]] ^k29
+**29.** Leaves, especially the young ones, dense pubescence → [[Combretum_ndjoleense\|*C. ndjoleense*]]
 
 **29′.** Leaves almost glabrous.
 
-**30.** Inflorescences in short panicle → [[Combretum_clarensis\|*C. clarensis*]] ^k30
+**30.** Inflorescences in short panicle → [[Combretum_clarensis\|*C. clarensis*]]
 
 **30′.** Inflorescences in spike → [[Combretum_aphanopetalum\|*C. aphanopetalum*]]
 
 **28′.** Petals present but sometimes very small.
 
-**31.** Major secondary veins 15-25 pairs → [[Combretum_multinervium\|*C. multinervium*]] ^k31
+**31.** Major secondary veins 15–25 pairs → [[Combretum_multinervium\|*C. multinervium*]]
 
 **31′.** Major secondary veins fewer in number.
 
-**32.** Leaf base strongly cordate to auriculate. ^k32
+**32.** Leaf base strongly cordate to auriculate.
 
-**33.** Hairs on leaves few; fruit angular without wings → [[Combretum_auriculatum\|*C. auriculatum*]] ^k33
+**33.** Hairs of leaves few in number; fruit angular without wings → [[Combretum_auriculatum\|*C. auriculatum*]]
 
-**33′.** Hairs on leaves dense; fruit winged → [[Combretum_robustum\|*C. robustum*]]
+**33′.** Hairs of leaves dense; fruit winged → [[Combretum_robustum\|*C. robustum*]]
 
 **32′.** Leaf base at most slightly cordate.
 
-**34.** Upper receptacle: exterior covered only with scales → *C. congolanum* ^k34
+**34.** Upper receptacle: exterior covered solely with scales → *C. congolanum*
 
 **34′.** Upper receptacle: exterior covered with scales mixed with ordinary hairs → [[Combretum_oudenhovenii\|*C. oudenhovenii*]]
 
 **27′.** Upper receptacle cupuliform or campanulate, base rounded.
 
-**35.** Flowers without petals, exterior almost entirely covered with scales; leaves glabrous and shiny on both faces → [[Combretum_ivanii\|*C. ivanii*]] ^k35
+**35.** Flowers without petals, exterior almost entirely covered with scales; leaves glabrous and shining on both faces → [[Combretum_ivanii\|*C. ivanii*]]
 
 **35′.** Flowers with petals; plant showing different characters.
 
-**36.** Stamens not or barely exserted. ^k36
+**36.** Stamens not or scarcely exsert.
 
-**37.** Upper receptacle widely cupuliform; petals glabrous; exterior of flower almost entirely covered with scales → [[Combretum_paradoxum\|*C. paradoxum*]] ^k37
+**37.** Upper receptacle broadly cupuliform; petals glabrous; exterior of the flower almost entirely covered with scales → [[Combretum_paradoxum\|*C. paradoxum*]]
 
-**37′.** Upper receptacle approximately as high as wide; petals present, exterior pubescent; exterior of young flower covered with short ordinary hairs → [[Combretum_carringtonianum\|*C. carringtonianum*]]
+**37′.** Upper receptacle approximately as high as wide; petals present, exterior pubescent; exterior of the young flower covered with short ordinary hairs → [[Combretum_carringtonianum\|*C. carringtonianum*]]
 
-**36′.** Stamens distinctly exserted.
+**36′.** Stamens distinctly exsert.
 
-**38.** Petals pubescent on the margin → *C. rabiense* ^k38
+**38.** Petals pubescent on the edge → *C. rabiense*
 
 **38′.** Petals glabrous.
 
-**39.** Upper receptacle approximately as high as wide. ^k39
+**39.** Upper receptacle approximately as high as wide.
 
-**40.** Veins, upper face showing on dry specimens crystals distinctly raised on the epidermis → [[Combretum_longipilosum\|*C. longipilosum*]] ^k40
+**40.** Veins, upper surface showing on dry specimens crystals distinctly raised above the epidermis → [[Combretum_longipilosum\|*C. longipilosum*]]
 
-**40′.** Veins, upper face not thus.
+**40′.** Veins, upper surface not thus.
 
-**41.** Liane always living near water; leaves rarely acuminate; major veins II always without axillary domatia → [[Combretum_conchipetalum\|*C. conchipetalum*]] ^k41
+**41.** Vine always living near water; leaves rarely acuminate; major veins II always without axillary domatia → [[Combretum_conchipetalum\|*C. conchipetalum*]]
 
-**41′.** Liane not always near water; leaves (long) acuminate; major veins II with axillary domatia.
+**41′.** Vine not always near water; leaves (long) acuminate; major veins II with axillary domatia.
 
-**42.** Inflorescences on young shoots; major veins II, 5-8 pairs → [[Combretum_oyemense\|*C. oyemense*]] ^k42
+**42.** Inflorescences on young shoots; major veins II, 5–8 pairs → [[Combretum_oyemense\|*C. oyemense*]]
 
-**42′.** Inflorescences on old shoots; major veins II, 11-18 pairs → [[Combretum_cuspidatum\|*C. cuspidatum*]]
+**42′.** Inflorescences on old shoots; major veins II, 11–18 pairs → [[Combretum_cuspidatum\|*C. cuspidatum*]]
 
 **39′.** Upper receptacle distinctly longer than wide.
 
-**43.** Upper receptacle narrowed towards the opening on most flowers → [[Combretum_sordidum\|*C. sordidum*]] ^k43
+**43.** Upper receptacle narrowed towards the opening on most flowers → [[Combretum_sordidum\|*C. sordidum*]]
 
 **43′.** Upper receptacle not narrowed towards the opening.
 
-**44.** Disc without free margin → [[Combretum_fuscum\|*C. fuscum*]] ^k44
+**44.** Disk without free rim → [[Combretum_fuscum\|*C. fuscum*]]
 
-**44′.** Disc with free margin → 15. C. echirense PL. 1. – Combretum. – profile and cross-section of fruits (× 1): – A. C. marginatum Engler & Diels (De Wulf62). – B. C. demeusei de Wildemann (Achten345). – C. C. conchipetalum Engler & Diels = 'C. afzelii' (J. Louis7518). – D. C. cuspidatum Planchon ex Bentham (J. Louis5989). – E. C. mucronatum Thonn. ex Schum. = 'C. smeathmannii' (F. Hendricks735). – Drawings by M. ALLARD reproduced with permission from the Department of Spermatophytes and Pteridophytes of the National Botanical Garden of MEISE (Belgium). For several species, the fruit remains unknown, either totally (C. adrianii, clarensis, gabonense, ivanii, njoleense, polyanthum), or only from Gabon. It is therefore impossible to build a key to the species by fruits. Thus, the following table at least allows one to distinguish 4 groups of species by the main fruit characters:
+**44′.** Disk with free rim → 15. C. echirense PL. 1. – Combretum. – profile and cross-section of fruits (× 1): – A. C. marginatum Engler & Diels (De Wulf62). – B. C. demeusei de Wildemann (Achten345). – C. C. conchipetalum Engler & Diels = 'C. afzelii' (J. Louis7518). – D. C. cuspidatum Planchon ex Bentham (J. Louis5989). – E. C. mucronatum Thonn. ex Schum. = 'C. smeathmannii' (F. Hendricks735). – Drawings by M. ALLARD reproduced with the permission of the Department of Spermatophytes and Pteridophytes of the National Botanic Garden of MEISE (Belgium). For several species, the fruit remains unknown, either totally (C. adrianii, clarensis, gabonense, ivanii, njoleense, polyanthum), or only from Gabon. It is therefore impossible to construct a key to the species based on fruits. Thus, the following table allows at least the distinction of 4 groups of species by the principal characters of the fruit:
 
-**1.** Fruits with polyhedral or stellate cross-section, either fruits with narrow, woody or corky wings: C. auriculatum, carringtonianum, conchipetalum (Pl. 1 C, p. 11), demeusei (Pl. 1 B, p. 11), indicum, marginatum (Pl. 1 A, p. 11).
+**1.** Fruits with polyhedral or stellate cross-section, i.e. fruits with narrow, woody or corky wings: C. auriculatum, carringtonianum, conchipetalum (Pl. 1 C, p. 11), demeusei (Pl. 1 B, p. 11), indicum, marginatum (Pl. 1 A, p. 11).
 
-**1′.** Fruits with papyraceous to coriaceous wings, whose width is generally several times that of the central part of the fruit.
+**1′.** Fruits with papyraceous to coriaceous wings, the width of which is generally several times that of the central part of the fruit.
 
 **2.** Fruits with 5 wings: C. bracteatum, cinnabarinum, comosum, falcatum, inflatum, latialatum, mannii, platypterum.
 
 **2′.** Fruits with 4 wings.
 
-**3.** Ripe fruits, diameter ≤ 2.5 cm: C. cinereopetalum, exellii, fuscum, homalioides, longipilosum, mucronatum (Pl. 1 E, p. 11), oudenhovenii, paniculatum, paucinervium, rabiense, racemosum, scandens, sordidum, erosum.
+**3.** Mature fruits, diameter ≤ 2.5 cm: C. cinereopetalum, exellii, fuscum, homalioides, longipilosum, mucronatum (Pl. 1 E, p. 11), oudenhovenii, paniculatum, paucinervium, rabiense, racemosum, scandens, sordidum, erosum.
 
-**3′.** Ripe fruits, diameter distinctly > 2.5 cm: C. aphanopetalum, cuspidatum (Pl. 1D, p. 11), echirense, esteriense, mortehanii, multinervium, oyemense, paniculatum, paradoxum, pecoense, rabiense, robustum, sordidum.
-
+**3′.** Mature fruits, diameter distinctly > 2.5 cm: C. aphanopetalum, cuspidatum (Pl. 1 D, p. 11), echirense, esteriense, mortehanii, multinervium, oyemense, paniculatum, paradoxum, pecoense, rabiense, robustum, sordidum.
 
 ## Species in region
 

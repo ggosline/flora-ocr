@@ -27,11 +27,9 @@ B: Hauman (1954b), Mackinder et al. (2001), Pellegrin (1949), Verdcourt (1970, 1
 
 ## Key to the species
 
+**1.** Herb prostrate or climbing, with slender and ± rounded stem; terminal leaflet with blade 2.5–7 × 1.5–4 cm, ovate-elliptic; inflorescence slender, axis up to 10 cm; petals white, pink or purple → [[Teramnus_labialis\|*T. labialis*]]
 
-**1.** Herb prostrate or climbing, with slender and ± rounded stem; terminal leaflet with blade 2.5–7 × 1.5–4 cm, ovate-elliptic; inflorescence slender, axis up to 10 cm; petals white, pink or purple → [[Teramnus_labialis\|*T. labialis*]] ^k1
-
-**1′.** Climbing herb, with robust and distinctly quadrangular stem; terminal leaflet with blade 10–13.5 × 6–9 cm, rhomboidal to obovate; inflorescence robust, axis 6–25 cm; petals reddish to orange or blue (to be sought in Gabon) → [[Teramnus_micans\|*T. micans*]]
-
+**1′.** Climbing herb, with robust and clearly quadrangular stem; terminal leaflet with blade 10–13.5 × 6–9 cm, rhomboidal to obovate; inflorescence robust, axis 6–25 cm; petals reddish to orange or blue (to be sought in Gabon) → [[Teramnus_micans\|*T. micans*]]
 
 ## Species in region
 

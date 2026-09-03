@@ -32,13 +32,11 @@ Bibliography
 
 ## Key to the species
 
+**1.** Flower 4(–5)-merous, with pedicel up to 1 mm, articulate near the base; fruit up to
 
-**1.** Flower 4(–5)-merous, with pedicel up to 1 mm, articulate near the base; fruit up to ^k1
+**2.** 8 cm long, with 1 or 2 seeds → [[Pseudospondias_microcarpa\|*P. microcarpa*]]
 
-**2.** 8 cm in length, with 1 or 2 seeds → [[Pseudospondias_microcarpa\|*P. microcarpa*]] ^k2
-
-**2′.** Flower 3-merous, often ± sessile or with pedicel up to 1 mm, articulate at the apex; fruit (2–)2.5–3.5 cm in length, with 1 seed → P. longifolia Pseudospondias 15.
-
+**2′.** Flower 3-merous, often ± sessile or with pedicel up to 1 mm, articulate at the apex; fruit (2–)2.5–3.5 cm long, with 1 seed → P. longifolia Pseudospondias 15
 
 ## Species in region
 

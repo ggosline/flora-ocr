@@ -29,21 +29,19 @@ A genus of more than 700 species, the majority from tropical regions with a few 
 
 ## Key to the species
 
+**1′.** Long-cauline leaves → couplet **2**
 
-**1′.** Long-cauline leaves → [[#^k2|2]]
+**2.** Petals undivided → 2. Commelinifolia p. 32
 
-**2.** Petals undivided → 2. Commelinifolia p. 32 ^k2
+**2′.** Petals divided into two parts → couplet **3**
 
-**2′.** Petals divided into two parts → [[#^k3|3]]
+**3.** Fertile portion of the anther equal to the stigmaphores → 3. Pentaceras p. 38
 
-**3.** Fertile portion of anther equal to stigmaphores → 3. Pentaceras p. 38 ^k3
+**3′.** Fertile portion of the anther 2–4 times < stigmaphores
 
-**3′.** Fertile portion of anther 2–4 times < stigmaphores.
+**4.** Replicate p. 40
 
-**4.** Replicate p. 40 ^k4
-
-**1.** Sect. Diphyllae Kraenzl. Bot. Jahrb. 16 : 56, 147 (1892). Basal leaves 1–2, rooting, appressed to the ground, sessile, generally broader than long; on the stem, very numerous cauline sheaths, often ovate, acute, ± appressed, distinctly different from the basal leaves. Petals bipartite except in exceptional cases. <<<---SECTION-BREAK--->>> PL. 10. – Structure of the gynostemium of the genus Habenaria Willd.: A, lateral view; B, view from base; C, anterior view; D, viscidium and apex of caudicle; E, viscidium; F, lateral view; G, anterior view; H, viscidium and apex of caudicle, various aspects (ex SZLACHETKO & RUTKOWSKI, 2000). ^k1
-
+**1.** Sect. Diphyllae Kraenzl. Bot. Jahrb. 16 : 56, 147 (1892). Basal leaves 1–2, rooting, appressed to the ground, sessile, generally wider than long; on the stem, very developed cauline sheaths, often ovate, acute, ± appressed, clearly different from the basal leaves. Petals bipartite except in rare instances. * Szlachetko and his two co-authors have begun publication of the revision of the genus Habenaria (subtribe Habenariinae) in the journals Die Orchidee and Richardiana. PL. 10. – Structure of the gynostemium of the genus Habenaria Willd.: A, lateral view; B, view from the base; C, anterior view; D, viscidia and apex of the caudicle; E, viscidia; F, lateral view; G, anterior view; H, viscidia and apex of the caudicle, various aspects (ex SZLACHETKO & RUTKOWSKI, 2000).
 
 ## Species in region
 

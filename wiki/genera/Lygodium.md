@@ -26,11 +26,9 @@ Approximately 40 species, tropical or subtropical. Common in secondary forest, f
 
 ## Key to the species
 
+**1.** Pinnules articulate, often caducous, the fertile ones triangular, obtuse, 2-4 cm long, with hastate base → 1. T. microphyllum.
 
-**1.** Pinnules articulate, often caducous, the fertile ones triangular, obtuse, 2-4 cm long, with hastate base → 1. T. microphyllum. ^k1
-
-**1′.** Pinnules not articulate, the fertile ones linear, 5-9 cm long, with truncate base, slightly decurrent → 2. L. Smithianum.
-
+**1′.** Pinnules non-articulate, the fertile ones linear, 5-9 cm long, with truncate base, slightly decurrent → [[Lygodium_smithianum\|*L. smithianum*]]
 
 ## Species in region
 

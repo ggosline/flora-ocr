@@ -26,15 +26,13 @@ Tropical or subtropical genus.
 
 ## Key to the species
 
-
-**1.** Terminal pinna similar to the lateral ones → [[Tectaria_varians\|*T. varians*]] ^k1
+**1.** Terminal pinna similar to the lateral ones → [[Tectaria_varians\|*T. varians*]]
 
 **1′.** Terminal pinna deltoid-lobed.
 
-**2.** Rhizome long-creeping; sori situated at the junction of several veinlets → [[Tectaria_angelicifolia\|*T. angelicifolia*]] ^k2
+**2.** Rhizome long-creeping; sori situated at the meeting point of several veinlets → [[Tectaria_angelicifolia\|*T. angelicifolia*]]
 
 **2′.** Rhizome erect; fronds in tufts; sori situated at the apex of an included veinlet → [[Tectaria_fernandensis\|*T. fernandensis*]]
-
 
 ## Species in region
 
