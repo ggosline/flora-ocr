@@ -18,15 +18,7 @@ tags: [genus, generated]
 
 Rhizome long-creeping, covered with peltate scales.
 
-Fronds articulate, deltoid, usually dimorphic, coriaceous,
-
-pinnatifid or bipinnatifid, glabrous, with free venation. Sori
-
-submarginally, terminal on the veins, with coriaceous indusium,
-
-rounded or reniform, attached by the base only. Sporange pedicel
-
-with 3 rows of cells. Spores bilateral.
+Fronds articulate, deltoid, usually dimorphic, coriaceous, pinnatifid or bipinnatifid, glabrous, with free venation. Sori submarginally, terminal on the veins, with coriaceous indusium, rounded or reniform, attached by the base only. Sporange pedicel with 3 rows of cells. Spores bilateral.
 
 Approximately 50 species, from Malesia and Polynesia, one extending as far as Madagascar and Africa.
 

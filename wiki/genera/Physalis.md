@@ -17,45 +17,13 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-Herbs annual or perennial, or more rarely small shrubs, generally much-branched,
+Herbs annual or perennial, or more rarely small shrubs, generally much-branched, sometimes woody at the base, unarmed; stems pubescent with simple, branched or stellate hairs, glandular or not. Leaves alternate, more rarely in pairs or groups of 3, petiolate; blade with entire, sinuate or irregularly dentate margin. Inflorescences axillary, generally with solitary flowers or occasionally in fascicles of 2 to 7 flowers. Flowers bisexual, 5-merous, actinomorphic; calyx campanulate to cupuliform, enlarged and persistent in fruit; corolla with valvate prefloration, broadly campanulate to rotate, infundibuliform, more rarely urceolate, yellow or sometimes white to purple, often with 5 dark spots at the base, apex truncate or lobed; stamens generally equal, inserted at the base of the tube, anthers basifixed or dorsifixed, oblongoid, dehiscent by longitudinal slits; annular disk, sometimes absent; ovary 2-locular, glabrous; style filiform, glabrous, stigma discoid-capitate, bilobed. Fruits: spherical berries, enclosed in the accrescent enlarged calyx, urceolate, generally with prominent reticulate and coloured veins, with numerous seeds. Seeds flattened, circular to reniform; embryo curved.
 
-sometimes woody at the base, unarmed; stems pubescent with simple, branched or stellate hairs,
-
-glandular or not. Leaves alternate, more rarely in pairs or groups of 3, petiolate; blade with entire,
-
-sinuate or irregularly dentate margin. Inflorescences axillary, generally with solitary flowers or
-
-occasionally in fascicles of 2 to 7 flowers. Flowers bisexual, 5-merous, actinomorphic;
-
-calyx campanulate to cupuliform, enlarged and persistent in fruit; corolla with valvate prefloration,
-
-broadly campanulate to rotate, infundibuliform, more rarely urceolate, yellow or
-
-sometimes white to purple, often with 5 dark spots at the base, apex truncate or
-
-lobed; stamens generally equal, inserted at the base of the tube, anthers basifixed or
-
-dorsifixed, oblongoid, dehiscent by longitudinal slits; annular disk, sometimes absent;
-
-ovary 2-locular, glabrous; style filiform, glabrous, stigma discoid-capitate, bilobed. Fruits:
-
-spherical berries, enclosed in the accrescent enlarged calyx, urceolate, generally with
-
-prominent reticulate and coloured veins, with numerous seeds. Seeds flattened, circular to
-
-reniform; embryo curved.
-
-Genus comprising between 75 and 100 species, mainly originating from the New World and diversified
-
-in Central America (Mexico); a few species cultivated throughout the world and naturalized
-
-in all tropical regions. In Gabon, the genus comprises 2 introduced species.
+Genus comprising between 75 and 100 species, mainly originating from the New World and diversified in Central America (Mexico); a few species cultivated throughout the world and naturalized in all tropical regions. In Gabon, the genus comprises 2 introduced species.
 
 B: Barbosa et al. (2016), Bikandu et al. (2020), Edmonds (2012), Heine (1963), Hunziker
 
-Bibliography
-
-(2001), Waterfall (1967).
+Bibliography (2001), Waterfall (1967).
 
 ---
 

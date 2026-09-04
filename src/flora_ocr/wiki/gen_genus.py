@@ -33,6 +33,7 @@ from __future__ import annotations
 import argparse
 import json
 import re
+import statistics
 import sys
 from collections import defaultdict
 from pathlib import Path
@@ -144,6 +145,59 @@ def find_protologue(body: str) -> str:
     return ""
 
 
+SENTENCE_END_RE = re.compile(r'[.!?:][)"\u201d\u00bb]?$')
+
+# A line that opens a new paragraph even where the previous one ran full width:
+# the discussion, uses and bibliography that follow a genus description.
+PARA_OPENER_RE = re.compile(
+    r"^(?:Genre\b|Genus\b|This genus\b|A genus\b|Ce genre\b"
+    r"|Usages?\s*:|Uses?\s*:|Notes?\s*:|Type\b"
+    r"|B\s*:|Bi\s*:|Bibliograph|i ?B ?liograph)")
+
+
+def _paragraphs(lines: list[str]) -> list[str]:
+    """Rebuild paragraphs from the source's hard-wrapped lines.
+
+    The bundles keep the PDF's line breaks, so joining the lines with a blank
+    line each -- which is what this did -- made every line of the scan its own
+    markdown paragraph. Trema's diagnosis came out as fourteen one-line
+    paragraphs, several cut mid-sentence. A line ends a paragraph when it stops
+    on sentence punctuation *and* falls short of the block's usual line width,
+    which is what the last line of a paragraph looks like in a justified
+    column; an explicit opener on the next line ends one too.
+    """
+    if len(lines) < 2:
+        return list(lines)
+    width = statistics.median(len(x) for x in lines)
+    paragraphs: list[list[str]] = []
+    current: list[str] = []
+    for i, line in enumerate(lines):
+        current.append(line)
+        nxt = lines[i + 1] if i + 1 < len(lines) else None
+        ends = bool(SENTENCE_END_RE.search(line)) and len(line) < 0.85 * width
+        if nxt is not None and PARA_OPENER_RE.match(nxt):
+            ends = True
+        if ends:
+            paragraphs.append(current)
+            current = []
+    if current:
+        paragraphs.append(current)
+    return [_join(p) for p in paragraphs]
+
+
+def _join(lines: list[str]) -> str:
+    """Join wrapped lines, closing up words broken across a line end."""
+    out = ""
+    for line in lines:
+        if not out:
+            out = line
+        elif out.endswith("-"):
+            out = out[:-1] + line          # `late-` + `rales`
+        else:
+            out += " " + line
+    return out.strip()
+
+
 def diagnosis_text(body: str, limit: int = 2500) -> str:
     """The descriptive prose, minus the citation apparatus at the top."""
     lines = []
@@ -157,7 +211,7 @@ def diagnosis_text(body: str, limit: int = 2500) -> str:
         lines.append(s)
         if sum(len(x) for x in lines) > limit:
             break
-    return "\n\n".join(lines)
+    return "\n\n".join(_paragraphs(lines))
 
 
 # Where a genus treatment's key begins: an explicit heading, or failing that

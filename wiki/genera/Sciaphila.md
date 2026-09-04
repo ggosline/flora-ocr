@@ -17,9 +17,7 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-Herbs with simple or branched stems. Flowers pedicellate, unisexual or bisexual; stamens sessile, staminodes absent in female flowers. Follicles dehiscent in 2 valves by a dorsal longitudinal slit.
-
-Pantropical genus comprising approximately 30 species, most of them Asian and two African, one of which in Gabon.
+Herbs with simple or branched stems. Flowers pedicellate, unisexual or bisexual; stamens sessile, staminodes absent in female flowers. Follicles dehiscent in 2 valves by a dorsal longitudinal slit. Pantropical genus comprising approximately 30 species, most of them Asian and two African, one of which in Gabon.
 
 Bibliography
 

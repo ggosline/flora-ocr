@@ -17,25 +17,9 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-Lianes. Leaves entire. Inflorescences in panicles; bracteoles generally alternate.
+Lianes. Leaves entire. Inflorescences in panicles; bracteoles generally alternate. Flowers: sepals free, slightly unequal; corolla campanulate, deeply lobed; stamens with anthers included or exsert, pollen grains smooth; disk with diameter more or less equal to that of the ovary; pistil included or with exsert stigmas, ovary with pubescence of appressed multicellular glandular hairs and bifurcate hairs, unilocular, 2-ovulate; styles ± equal, connate at the base, stigmas globose. Fruit ellipsoid, enveloped by the calyx with two external sepals ± equal, greatly enlarged and the internal ones not enlarged.
 
-Flowers: sepals free, slightly unequal; corolla campanulate, deeply lobed;
-
-stamens with anthers included or exsert, pollen grains smooth; disk with diameter more
-
-or less equal to that of the ovary; pistil included or with exsert stigmas, ovary with
-
-pubescence of appressed multicellular glandular hairs and bifurcate hairs, unilocular,
-
-2-ovulate; styles ± equal, connate at the base, stigmas globose. Fruit ellipsoid, enveloped
-
-by the calyx with two external sepals ± equal, greatly enlarged and the internal ones not
-
-enlarged.
-
-Genus of central Africa, perhaps close to Calycobolus, comprising 3 species of which
-
-2 in Gabon.
+Genus of central Africa, perhaps close to Calycobolus, comprising 3 species of which 2 in Gabon.
 
 B: Breteler (1995, 2013), Lejoly & Lisowski (1993).
 

@@ -17,35 +17,11 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-Shrubs or perennial herbs, sometimes annual, monoecious, with erect or ascending stems;
-
-cystoliths punctiform. Stipules lateral, free. Leaves alternate, opposite or whorled,
-
-petiolate or sessile; blade narrowly ovate to narrowly elliptic, base generally
-
-rounded or cuneate, margin entire or dentate, chartaceous to subcoriaceous. Inflorescences in axillary
-
-glomerules, bisexual and compact. Male flowers pedicellate, 4- or 5-merous, often with
-
-hooked hairs; tepals generally muticous, rarely with crests or transverse
-
-wings; pistillode present or absent. Female flowers sessile, with tepals completely
-
-fused surrounding the ovary, sometimes apparently fused to it in the lower part,
-
-often with ± distinct longitudinal crests; staminodes absent; stigma sessile,
-
-filiform, sometimes coiled like a ball of wool, with lateral papillae, caducous. Fruit
+Shrubs or perennial herbs, sometimes annual, monoecious, with erect or ascending stems; cystoliths punctiform. Stipules lateral, free. Leaves alternate, opposite or whorled, petiolate or sessile; blade narrowly ovate to narrowly elliptic, base generally rounded or cuneate, margin entire or dentate, chartaceous to subcoriaceous. Inflorescences in axillary glomerules, bisexual and compact. Male flowers pedicellate, 4- or 5-merous, often with hooked hairs; tepals generally muticous, rarely with crests or transverse wings; pistillode present or absent. Female flowers sessile, with tepals completely fused surrounding the ovary, sometimes apparently fused to it in the lower part, often with ± distinct longitudinal crests; staminodes absent; stigma sessile, filiform, sometimes coiled like a ball of wool, with lateral papillae, caducous. Fruit
 
 ---
 
-66 Ib FRIIS
-
-ovoid, erect, with apex ± compressed and pointed, generally pearly white to glossy brown,
-
-completely surrounded by the persistent membranous perianth, but free from the latter
-
-which may present longitudinal wings.
+66 Ib FRIIS ovoid, erect, with apex ± compressed and pointed, generally pearly white to glossy brown, completely surrounded by the persistent membranous perianth, but free from the latter which may present longitudinal wings.
 
 Genus with approximately 50 species principally paleotropical; in Gabon, two species.
 

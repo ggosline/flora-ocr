@@ -17,59 +17,15 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-Herbs often robust, perennial, generally with short rhizome or stoloniferous plant;
-
-cataphylls present on lateral stems; fertile stems lateral or central,
-
-cylindric to triangular. Leaves usually basal; basal sheaths open,
-
-the cauline ones tubulous; ligule absent; blade rarely absent, linear to ovate–
-
-lanceolate, with entire margin or bearing numerous small teeth, progressively or
-
-abruptly narrowed at apex, acute to mucronate, sometimes with a pseudo-petiole formed of
-
-2 halves of blade narrowed and folded on the central vein. Inflorescence terminal, either
-
-on a central stem, or on several lateral stems, in compound panicle or in head
-
-formed of numerous crowded spikes, rarely in groups of few spikes or reduced
-
-to a single spike (M. africana var. filipes); involucral bracts often foliaceous on the
-
-central stem or glumaceous, rarely foliaceous on lateral stems; spikes composed of
+Herbs often robust, perennial, generally with short rhizome or stoloniferous plant; cataphylls present on lateral stems; fertile stems lateral or central, cylindric to triangular. Leaves usually basal; basal sheaths open, the cauline ones tubulous; ligule absent; blade rarely absent, linear to ovate– lanceolate, with entire margin or bearing numerous small teeth, progressively or abruptly narrowed at apex, acute to mucronate, sometimes with a pseudo-petiole formed of 2 halves of blade narrowed and folded on the central vein. Inflorescence terminal, either on a central stem, or on several lateral stems, in compound panicle or in head formed of numerous crowded spikes, rarely in groups of few spikes or reduced to a single spike (M. africana var. filipes); involucral bracts often foliaceous on the central stem or glumaceous, rarely foliaceous on lateral stems; spikes composed of
 
 ---
 
-several to numerous oval glumaceous bracts (spicoid bracts), arranged in spiral,
+several to numerous oval glumaceous bracts (spicoid bracts), arranged in spiral, each bract subtending a very reduced spikelet called spicoid; each spicoid composed of 2–6 floral bracts of which usually 1–3 subtend male flowers, 0–3 are empty, and the apical one bears a female flower; two lower bracts strongly keeled and concave, the upper ones very thin. Flowers: the male ones with 1 stamen, the female ones with 1 style with 2–3 branches; pollen spheroidal, with thick wall with a distinct anoporate aperture, not grouped in pseudomonad as in all other African Cyperaceae. Achene globose to obovoid, the base often narrowed, apex apiculate, with smooth, rugose, papillose or irregularly tuberculate surface; embryo of Carex type.
 
-each bract subtending a very reduced spikelet called spicoid; each spicoid
+Genus of medium size, comprising approximately 120 species, of which 22 in Gabon. They are present in all humid tropical regions. The genus Hypolytrum has been included in it very recently.
 
-composed of 2–6 floral bracts of which usually 1–3 subtend male flowers,
-
-0–3 are empty, and the apical one bears a female flower; two lower bracts
-
-strongly keeled and concave, the upper ones very thin. Flowers: the male
-
-ones with 1 stamen, the female ones with 1 style with 2–3 branches; pollen spheroidal, with thick
-
-wall with a distinct anoporate aperture, not grouped in pseudomonad as in all
-
-other African Cyperaceae. Achene globose to obovoid, the base often narrowed,
-
-apex apiculate, with smooth, rugose, papillose or irregularly tuberculate surface; em-
-
-bryo of Carex type.
-
-Genus of medium size, comprising approximately 120 species, of which 22 in Gabon. They are present
-
-in all humid tropical regions. The genus Hypolytrum has been included in it very
-
-recently.
-
-Bibliography: Hooper & Napper (1972), Lye (2011a), Nelmes (1955a), Raynal (1968b),
-
-Simpson (1992), Simpson et al. (2003).
+Bibliography: Hooper & Napper (1972), Lye (2011a), Nelmes (1955a), Raynal (1968b), Simpson (1992), Simpson et al. (2003).
 
 ## Key to the species
 

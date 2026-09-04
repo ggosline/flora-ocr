@@ -24,9 +24,7 @@ per lobe. Sori on the acroscopic division of the vein, on an elongate receptacle
 
 Type of the genus: X. serrulata (Sw.) Klf.
 
-This genus, often united with Ctenopteris (Alston, FWTA), is distinguished by the lobes bearing only a single vein, simple or bifurcate.
-
-About 50 species, pantropical. Only one species in Gabon.
+This genus, often united with Ctenopteris (Alston, FWTA), is distinguished by the lobes bearing only a single vein, simple or bifurcate. About 50 species, pantropical. Only one species in Gabon.
 
 ## Species in region
 

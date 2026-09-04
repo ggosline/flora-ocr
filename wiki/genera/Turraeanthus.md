@@ -17,35 +17,9 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-Trees or shrubs dioecious, with persistent foliage. Leaves compound, imparipinnate,
+Trees or shrubs dioecious, with persistent foliage. Leaves compound, imparipinnate, 1–12-pinnate; leaflets entire or rarely weakly lobed near the apex. Inflorescences axillary to supra-axillary or sometimes arising from stout branches, paniculate. Flowers 4–5-merous, functionally unisexual; pedicel with bracteoles; calyx cupuliform, entire or with undulate or very shortly dentate margins; petals valvate, fused to each other and to the staminal tube in the lower half, free at the apex; stamens 8 or 10, fused into a cylindrical staminal tube, with margin slightly lobed or entire, anthers 8 or 10(–11), sessile, inserted in a circle within the throat, almost included in the tube; disc absent; ovary (3–)4–5-locular, with axile placentation, ovules 2 per locule, superposed. Fruit capsular, subglobose or pyriform, loculicidal, opening into (2–)3–4(–5) valves, a single seed developed per locule. Seed with yellow sarcotesta; cotyledons plano-convex, superposed.
 
-1–12-pinnate; leaflets entire or rarely weakly lobed near the apex. Inflorescences
-
-axillary to supra-axillary or sometimes arising from stout branches, paniculate.
-
-Flowers 4–5-merous, functionally unisexual; pedicel with bracteoles; calyx cupuliform,
-
-entire or with undulate or very shortly dentate margins; petals valvate, fused to each other
-
-and to the staminal tube in the lower half, free at the apex; stamens 8 or 10, fused into
-
-a cylindrical staminal tube, with margin slightly lobed or entire, anthers 8 or 10(–11),
-
-sessile, inserted in a circle within the throat, almost included in the tube; disc absent;
-
-ovary (3–)4–5-locular, with axile placentation, ovules 2 per locule, superposed. Fruit
-
-capsular, subglobose or pyriform, loculicidal, opening into (2–)3–4(–5) valves, a single
-
-seed developed per locule. Seed with yellow sarcotesta; cotyledons plano-convex,
-
-superposed.
-
-Genus restricted to humid tropical Africa comprising 3 species, 2 of which occur in Gabon.
-
-The third species, T. mannii Baill., known from Nigeria (Calabar) and western Cameroon,
-
-is to be sought in Gabon.
+Genus restricted to humid tropical Africa comprising 3 species, 2 of which occur in Gabon. The third species, T. mannii Baill., known from Nigeria (Calabar) and western Cameroon, is to be sought in Gabon.
 
 B: Harms (1940), Staner & Gilbert (1958), Pennington & Styles (1975).
 

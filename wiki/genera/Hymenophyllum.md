@@ -16,9 +16,7 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-Filiform rhizome, extensively creeping. Frond with ultimate segments uninerved; no false veins. Sori with
-
-indusium divided into 2 valves, entire or dentate; receptacle generally included.
+Filiform rhizome, extensively creeping. Frond with ultimate segments uninerved; no false veins. Sori with indusium divided into 2 valves, entire or dentate; receptacle generally included.
 
 Type species: H. tunbridgense (L.) Sm.
 
