@@ -3,7 +3,7 @@ type: family
 name: Gramineae
 order:   # TODO: APG placement, not stated by the source
 genera_in_region: 74
-species_in_region: 160
+species_in_region: 145
 treatments:
   - vol: 05
     source: sources/Gramineae_vol05_paddle
@@ -13,7 +13,7 @@ tags: [family, generated]
 ---
 # Gramineae
 
-**Genera in region**: 74 · **Species in region**: 160
+**Genera in region**: 74 · **Species in region**: 145
 
 ## Diagnosis
 
@@ -133,21 +133,21 @@ Fascicule 16: Annonaceae (1969): 219 F.
 | [[Brachiaria]] | 4 |
 | [[Centotheca]] | 2 |
 | [[Chloris]] | 1 |
-| [[Chrysopogon]] | 2 |
+| [[Chrysopogon]] | 1 |
 | [[Commelinidium]] | 2 |
 | [[Ctenium]] | 1 |
 | [[Cymbopogon]] | 2 |
 | [[Cynodon]] | 1 |
 | [[Cyrtococcum]] | 0 |
 | [[Cyrtococcum]] | 2 |
-| [[Digitaria]] | 6 |
+| [[Digitaria]] | 5 |
 | [[Diheteropogon]] | 1 |
 | [[Echinochloa]] | 2 |
 | [[Eleusine]] | 2 |
 | [[Elionurus]] | 1 |
 | [[Elymandra]] | 1 |
 | [[Elyonurus]] | 2 |
-| [[Eragrostis]] | 8 |
+| [[Eragrostis]] | 7 |
 | [[Euclasta]] | 1 |
 | [[Guaduella]] | 4 |
 | [[Hackelochloa]] | 1 |
@@ -156,7 +156,7 @@ Fascicule 16: Annonaceae (1969): 219 F.
 | [[Hyparrhenia]] | 0 |
 | [[Hyparrhenia]] | 8 |
 | [[Hyperthelia]] | 1 |
-| [[Imperata]] | 2 |
+| [[Imperata]] | 1 |
 | [[Isachne]] | 1 |
 | [[Jardinea]] | 2 |
 | [[Leersia]] | 1 |
@@ -169,7 +169,7 @@ Fascicule 16: Annonaceae (1969): 219 F.
 | [[Olyra]] | 1 |
 | [[Oplismenus]] | 2 |
 | [[Oryza]] | 1 |
-| [[Ottochloa]] | 2 |
+| [[Ottochloa]] | 1 |
 | [[Panicum]] | 12 |
 | [[Paspalum]] | 4 |
 | [[Pennisetum]] | 5 |
@@ -185,17 +185,17 @@ Fascicule 16: Annonaceae (1969): 219 F.
 | [[Rottboellia]] | 1 |
 | [[Rytachne]] | 2 |
 | [[Sacciolepis]] | 0 |
-| [[Schizachyrium]] | 5 |
+| [[Schizachyrium]] | 4 |
 | [[Setaria]] | 4 |
 | [[Sorghastrum]] | 1 |
-| [[Sorghum]] | 3 |
+| [[Sorghum]] | 2 |
 | [[Sporobolus]] | 6 |
 | [[Stenotaphrum]] | 1 |
 | [[Streptogyne]] | 1 |
-| [[Thysanolaena]] | 2 |
+| [[Thysanolaena]] | 1 |
 | [[Trachypogon]] | 0 |
-| [[Tristachya]] | 2 |
-| [[Vetiveria]] | 2 |
+| [[Tristachya]] | 1 |
+| [[Vetiveria]] | 1 |
 | [[Vossia]] | 1 |
 
 ## Treatments

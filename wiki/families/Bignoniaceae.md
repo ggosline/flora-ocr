@@ -4,8 +4,8 @@ name: Bignoniaceae
 alternate_name_fr: Bignoniacées
 authority: Juss.
 order: Lamiales
-genera_in_region: 5
-species_in_region: 15
+genera_in_region: 17
+species_in_region: 19
 in_region: true
 treatments:
   - vol: 27

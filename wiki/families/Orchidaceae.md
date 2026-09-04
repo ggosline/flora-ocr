@@ -3,7 +3,7 @@ type: family
 name: Orchidaceae
 order:   # TODO: APG placement, not stated by the source
 genera_in_region: 53
-species_in_region: 224
+species_in_region: 223
 treatments:
   - vol: 36
     source: sources/Orchidaceae_vol36_paddle
@@ -13,7 +13,7 @@ tags: [family, generated]
 ---
 # Orchidaceae
 
-**Genera in region**: 53 · **Species in region**: 224
+**Genera in region**: 53 · **Species in region**: 223
 
 ## Diagnosis
 
@@ -97,7 +97,7 @@ auricles (f): appendages of the anthers situated on the back of the base of the 
 | [[Genyorchis]] | 3 |
 | [[Graphorkis]] | 1 |
 | [[Habenaria]] | 8 |
-| [[Halleorchis]] | 2 |
+| [[Halleorchis]] | 1 |
 | [[Hetaeria]] | 3 |
 | [[Homocolleticon]] | 2 |
 | [[Liparis]] | 6 |

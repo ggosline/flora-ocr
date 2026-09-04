@@ -301,6 +301,7 @@ def _headings(lines: list[str], only_family: str | None = None) -> tuple[list[di
     terminators: list[int] = []
     seen_families: set[str] = set()
     seen_genera: set[str] = set()
+    named_genera: set[str] = set()
     page = 0
     family = genus = species_ep = ""
 
@@ -319,6 +320,8 @@ def _headings(lines: list[str], only_family: str | None = None) -> tuple[list[di
             continue
 
         rank, _level = classify(heading)
+        if rank == "species" and _names_genus_and_author(heading, named_genera):
+            rank = "genus"               # '8. Adenanthera Linne'
         if rank in ("genus", "family") and _is_suprageneric(heading):
             continue                     # subtribe/tribe/subfamily heading
         if rank == "genus" and _heads_a_family(heading):
@@ -382,6 +385,8 @@ def _headings(lines: list[str], only_family: str | None = None) -> tuple[list[di
             species_ep = parsed.epithet
             parsed.family = family
 
+        if parsed.genus:
+            named_genera.add(parsed.genus)
         out.append({"line": i, "page": page, "rank": rank, "parsed": parsed})
 
     return _drop_barren_families(out), terminators
@@ -426,6 +431,31 @@ _STRUCTURAL_WORDS = {
     "ESPECE", "ESPECES", "FAMILLE", "BIBLIOGRAPHIE", "INTRODUCTION",
     "REPARTITION", "DISTRIBUTION", "ABREVIATIONS", "REMERCIEMENTS",
 }
+
+
+# "8. Adenanthera Linne", "21. Elionurus Kunth ex Willd." -- a numbered genus
+# heading whose author carries no abbreviating period, so classify() reads the
+# author as the epithet. The give-away is that the author is the whole
+# remainder: a species heading has an epithet *and* an author. One word, or a
+# chain opening on `ex` or `&`, is an author alone; "Renalmia Cabraei De Wild.
+# et Th. Dur." and "Uvaria Klainei Pierre ex Engler" both have a real epithet in
+# front and are left alone.
+#
+# The guard that makes this safe is seen_genera: a treatment heads each genus
+# once, so "4. Hymenostegia Klainei" -- an epithet that happens to stand alone
+# -- is still a species, because Hymenostegia was opened by its own heading
+# further up.
+_GENUS_AUTHOR_RE = re.compile(r"^(?:\d+|[IVX]{1,4})\.\s+([A-Z][a-z]{2,})\s+(\S.*)$")
+
+
+def _names_genus_and_author(heading: str, named_genera: set[str]) -> bool:
+    m = _GENUS_AUTHOR_RE.match(heading.strip())
+    if not m:
+        return False
+    genus, rest = m.group(1), m.group(2).split()
+    if genus in named_genera or not rest[0][:1].isupper():
+        return False
+    return len(rest) == 1 or rest[1].lower() in ("ex", "&")
 
 
 def _fallback_rank(heading: str, known: set[str]) -> str | None:
