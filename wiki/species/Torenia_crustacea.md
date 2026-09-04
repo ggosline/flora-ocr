@@ -20,7 +20,7 @@ tags: [species, generated, superseded-circumscription]
 
 **Genus**: [[Torenia]]
 **Family**: [[Scrophulariaceae]]
-**Modern family**: [[Linderniaceae]] — *Scrophulariaceae* as circumscribed here is superseded; see [[Scrophulariaceae]]
+**Modern family**: **Linderniaceae** — *Scrophulariaceae* as circumscribed here is superseded; see [[Scrophulariaceae]]
 **Protologue**: Linnaea 2 : 570 (1827)
 
 ## Synonyms
@@ -66,4 +66,3 @@ The species is used especially in Asia as a medicinal plant and has given good r
 - [[Torenia]]
 - [[Scrophulariaceae]]
 - [[vol48]]
-- [[Linderniaceae]] — where this taxon now belongs

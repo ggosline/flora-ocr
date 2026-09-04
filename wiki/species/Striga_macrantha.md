@@ -20,7 +20,7 @@ tags: [species, generated, superseded-circumscription]
 
 **Genus**: [[Striga]]
 **Family**: [[Scrophulariaceae]]
-**Modern family**: [[Orobanchaceae]] — *Scrophulariaceae* as circumscribed here is superseded; see [[Scrophulariaceae]]
+**Modern family**: **Orobanchaceae** — *Scrophulariaceae* as circumscribed here is superseded; see [[Scrophulariaceae]]
 
 ## Description
 
@@ -49,4 +49,3 @@ savannas; in Gabon, at 260 m elevation, in the Democratic Republic of the Congo 
 - [[Striga]]
 - [[Scrophulariaceae]]
 - [[vol48]]
-- [[Orobanchaceae]] — where this taxon now belongs

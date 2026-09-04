@@ -13,7 +13,7 @@ tags: [genus, generated, superseded-circumscription]
 # *Sansevieria* Petagna
 
 **Family**: [[Dracaenaceae]]
-**Modern family**: [[Asparagaceae]] subfam. Nolinoideae — *Dracaenaceae* as circumscribed here is superseded; see [[Dracaenaceae]]
+**Modern family**: **Asparagaceae** subfam. Nolinoideae — *Dracaenaceae* as circumscribed here is superseded; see [[Dracaenaceae]]
 **Authority**: Petagna
 **Protologue**: Inst. bot. 3 : 643 (1787), nom. cons
 
@@ -58,4 +58,3 @@ Bibliography
 
 - [[Dracaenaceae]]
 - [[vol54]]
-- [[Asparagaceae]] — where this taxon now belongs

@@ -13,7 +13,7 @@ tags: [genus, generated, superseded-circumscription]
 # *Cycnium* E.Mey. ex Benth. (1836)
 
 **Family**: [[Scrophulariaceae]]
-**Modern family**: [[Orobanchaceae]] — *Scrophulariaceae* as circumscribed here is superseded; see [[Scrophulariaceae]]
+**Modern family**: **Orobanchaceae** — *Scrophulariaceae* as circumscribed here is superseded; see [[Scrophulariaceae]]
 **Authority**: E.Mey. ex Benth. (1836)
 
 ## Diagnosis
@@ -48,4 +48,3 @@ ibliography
 
 - [[Scrophulariaceae]]
 - [[vol48]]
-- [[Orobanchaceae]] — where this taxon now belongs

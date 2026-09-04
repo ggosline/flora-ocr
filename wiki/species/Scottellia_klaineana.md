@@ -4,17 +4,19 @@ name: Scottellia klaineana
 authority: Pierre
 genus: Scottellia
 family: Flacourtiaceae
+modern_family: Achariaceae
 vol: 34
 pages: 35-38
 source: sources/Flacourtiaceae_vol34_paddle
 countries: [Angola, Cameroon, Cote d'Ivoire, Democratic Republic of the Congo, Equatorial Guinea, Gabon, Ghana, Guinea, Liberia, Nigeria, Sierra Leone]
 in_region: true
-tags: [species, generated]
+tags: [species, generated, superseded-circumscription]
 ---
 # *Scottellia klaineana* Pierre
 
 **Genus**: [[Scottellia]]
 **Family**: [[Flacourtiaceae]]
+**Modern family**: **Achariaceae** — *Flacourtiaceae* as circumscribed here is superseded; see [[Flacourtiaceae]]
 **Protologue**: BSLP, n. s., 14 : 113 (1899) ; GILG, EBJ 40 : 448 (1908) ; A. CHEV., Vég. Ut. Afr. Trop. Fr. 9, Bois du Gabon : 56 (1917). TYPE : Klaine 630, Gabon (lecto-, isolecto-); Klaine 1119, Gabon (syn-)
 
 ## Description

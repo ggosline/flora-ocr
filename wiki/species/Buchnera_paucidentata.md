@@ -20,7 +20,7 @@ tags: [species, generated, superseded-circumscription]
 
 **Genus**: [[Buchnera]]
 **Family**: [[Scrophulariaceae]]
-**Modern family**: [[Orobanchaceae]] — *Scrophulariaceae* as circumscribed here is superseded; see [[Scrophulariaceae]]
+**Modern family**: **Orobanchaceae** — *Scrophulariaceae* as circumscribed here is superseded; see [[Scrophulariaceae]]
 
 ## Description
 
@@ -49,4 +49,3 @@ humid savannas; in Gabon, at 640 m altitude, in Democratic Republic of the Congo
 - [[Buchnera]]
 - [[Scrophulariaceae]]
 - [[vol48]]
-- [[Orobanchaceae]] — where this taxon now belongs

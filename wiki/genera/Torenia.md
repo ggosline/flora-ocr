@@ -13,7 +13,7 @@ tags: [genus, generated, superseded-circumscription]
 # *Torenia* L.
 
 **Family**: [[Scrophulariaceae]]
-**Modern family**: [[Linderniaceae]] — *Scrophulariaceae* as circumscribed here is superseded; see [[Scrophulariaceae]]
+**Modern family**: **Linderniaceae** — *Scrophulariaceae* as circumscribed here is superseded; see [[Scrophulariaceae]]
 **Authority**: L.
 **Protologue**: Sp. pl . 2 : 619 (1753)
 
@@ -65,4 +65,3 @@ B: Fischer (1992, 2004), Fischer et al. (2013), Rahmanzadeh et al. (2005).
 
 - [[Scrophulariaceae]]
 - [[vol48]]
-- [[Linderniaceae]] — where this taxon now belongs

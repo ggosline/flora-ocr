@@ -74,16 +74,24 @@ def placement_for(placements: dict[str, dict[str, str]],
     return modern
 
 
-def link_for(modern: str) -> str:
+def link_for(modern: str, pages: set[str]) -> str:
+    """Link the modern family where the wiki has a page for it.
+
+    Nine of them do not -- Salicaceae, Asparagaceae, Orobanchaceae and the rest
+    are families this flora never treats under that name -- and linking them
+    anyway put 286 dangling references into the vault. They are named in plain
+    text until someone writes the page.
+    """
     m = FAMILY_NAME_RE.match(modern)
     if not m:
         return modern
     target = m.group(1)
     rest = modern[m.end():].strip()
-    return f"[[{target}]]" + (f" {rest}" if rest else "")
+    name = f"[[{target}]]" if target in pages else f"**{target}**"
+    return name + (f" {rest}" if rest else "")
 
 
-def patch(text: str, modern: str, family: str) -> str:
+def patch(text: str, modern: str, family: str, pages: set[str]) -> str:
     """Add the placement to frontmatter, the header block and See also."""
     if "modern_family:" in text:
         text = re.sub(r"^modern_family:.*$", f"modern_family: {modern}",
@@ -96,7 +104,7 @@ def patch(text: str, modern: str, family: str) -> str:
                   else f"{m.group(1)}, {SUPERSEDED_TAG}]",
                   text, count=1, flags=re.M)
 
-    line = (f"**Modern family**: {link_for(modern)} — "
+    line = (f"**Modern family**: {link_for(modern, pages)} — "
             f"*{family}* as circumscribed here is superseded; see [[{family}]]")
     if "**Modern family**:" in text:
         text = re.sub(r"^\*\*Modern family\*\*:.*$", line, text, count=1, flags=re.M)
@@ -105,7 +113,7 @@ def patch(text: str, modern: str, family: str) -> str:
                       rf"\1\n{line}", text, count=1, flags=re.M)
 
     target = FAMILY_NAME_RE.match(modern)
-    if target:
+    if target and target.group(1) in pages:
         link = f"- [[{target.group(1)}]] — where this taxon now belongs"
         if f"[[{target.group(1)}]]" not in text.split("## See also")[-1]:
             text = text.rstrip("\n") + "\n" + link + "\n"
@@ -120,6 +128,7 @@ def main(argv: list[str] | None = None) -> int:
 
     wiki = Path(args.dir)
     placements = read_placements(wiki / "families")
+    pages = {q.stem for q in wiki.rglob("*.md")}
     counts = {"genera": 0, "species": 0}
     unplaced: set[str] = set()
 
@@ -134,7 +143,7 @@ def main(argv: list[str] | None = None) -> int:
                 if family in placements:
                     unplaced.add(f"{family}/{genus}")
                 continue
-            patched = patch(text, modern, family)
+            patched = patch(text, modern, family, pages)
             if patched == text:
                 continue
             counts[kind] += 1

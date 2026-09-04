@@ -13,7 +13,7 @@ tags: [genus, generated, superseded-circumscription]
 # *Vandellia* L.
 
 **Family**: [[Scrophulariaceae]]
-**Modern family**: [[Linderniaceae]] — *Scrophulariaceae* as circumscribed here is superseded; see [[Scrophulariaceae]]
+**Modern family**: **Linderniaceae** — *Scrophulariaceae* as circumscribed here is superseded; see [[Scrophulariaceae]]
 **Authority**: L.
 **Protologue**: Mant. pl. 1 : 12 (1767)
 
@@ -60,4 +60,3 @@ B: Fischer (1992, 1995, 1999), Fischer et al. (2013), Ghazanfar et al. (2008).
 
 - [[Scrophulariaceae]]
 - [[vol48]]
-- [[Linderniaceae]] — where this taxon now belongs

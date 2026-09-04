@@ -17,7 +17,7 @@ tags: [species, generated, superseded-circumscription]
 
 **Genus**: [[Homalium]]
 **Family**: [[Flacourtiaceae]]
-**Modern family**: [[Salicaceae]] — *Flacourtiaceae* as circumscribed here is superseded; see [[Flacourtiaceae]]
+**Modern family**: **Salicaceae** — *Flacourtiaceae* as circumscribed here is superseded; see [[Flacourtiaceae]]
 **Protologue**: BJBB 43 : 309 (1973). TYPE : Thomson 40, Gabon (holo-, iso-)
 
 ## Description
@@ -53,4 +53,3 @@ Thomson 40, Billagone, 20/2/1939, fl. et fr. (isotype, P).
 - [[Homalium]]
 - [[Flacourtiaceae]]
 - [[vol34]]
-- [[Salicaceae]] — where this taxon now belongs

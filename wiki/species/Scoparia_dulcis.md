@@ -20,7 +20,7 @@ tags: [species, generated, superseded-circumscription]
 
 **Genus**: [[Scoparia]]
 **Family**: [[Scrophulariaceae]]
-**Modern family**: [[Plantaginaceae]] — *Scrophulariaceae* as circumscribed here is superseded; see [[Scrophulariaceae]]
+**Modern family**: **Plantaginaceae** — *Scrophulariaceae* as circumscribed here is superseded; see [[Scrophulariaceae]]
 **Protologue**: Sp. pl. 1 : 116 (1753)
 
 ## Description
@@ -58,4 +58,3 @@ herbe à balai, balai doux (fr.), licorice weed, sweet broomweed (angl.). B : Ag
 - [[Scoparia]]
 - [[Scrophulariaceae]]
 - [[vol48]]
-- [[Plantaginaceae]] — where this taxon now belongs

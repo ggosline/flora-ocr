@@ -13,7 +13,7 @@ tags: [genus, generated, superseded-circumscription]
 # *Ornithogalum* L.
 
 **Family**: [[Hyacinthaceae]]
-**Modern family**: [[Asparagaceae]] subfam. Scilloideae — *Hyacinthaceae* as circumscribed here is superseded; see [[Hyacinthaceae]]
+**Modern family**: **Asparagaceae** subfam. Scilloideae — *Hyacinthaceae* as circumscribed here is superseded; see [[Hyacinthaceae]]
 **Authority**: L.
 **Protologue**: Sp. pl. 1 : 306 (1753) ; Gen. pl., éd. 5 : 145 (1754)
 
@@ -55,4 +55,3 @@ meyer (1978), Speta (1998b).
 
 - [[Hyacinthaceae]]
 - [[vol40]]
-- [[Asparagaceae]] — where this taxon now belongs

@@ -20,7 +20,7 @@ tags: [species, generated, superseded-circumscription]
 
 **Genus**: [[Dracaena]]
 **Family**: [[Dracaenaceae]]
-**Modern family**: [[Asparagaceae]] subfam. Nolinoideae — *Dracaenaceae* as circumscribed here is superseded; see [[Dracaenaceae]]
+**Modern family**: **Asparagaceae** subfam. Nolinoideae — *Dracaenaceae* as circumscribed here is superseded; see [[Dracaenaceae]]
 **Protologue**: Ann. Mus. Congo belge, Bot., sér. 5, 2 : 119 (1907)
 
 ## Synonyms
@@ -58,4 +58,3 @@ See the note under D. aubryana. B: Bos (1984), Mwachala (2005, 2007). Bibliograp
 - [[Dracaena]]
 - [[Dracaenaceae]]
 - [[vol54]]
-- [[Asparagaceae]] — where this taxon now belongs

@@ -13,7 +13,7 @@ tags: [genus, generated, superseded-circumscription]
 # *Scoparia* L.
 
 **Family**: [[Scrophulariaceae]]
-**Modern family**: [[Plantaginaceae]] — *Scrophulariaceae* as circumscribed here is superseded; see [[Scrophulariaceae]]
+**Modern family**: **Plantaginaceae** — *Scrophulariaceae* as circumscribed here is superseded; see [[Scrophulariaceae]]
 **Authority**: L.
 **Protologue**: Sp. pl . 1 : 116 (1753) ; Gen. pl. éd. 5 : 52 (1754)
 
@@ -47,4 +47,3 @@ Fischer (2004), Ghazanfar et al. (2008).
 
 - [[Scrophulariaceae]]
 - [[vol48]]
-- [[Plantaginaceae]] — where this taxon now belongs

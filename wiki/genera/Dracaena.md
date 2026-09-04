@@ -13,7 +13,7 @@ tags: [genus, generated, superseded-circumscription]
 # *Dracaena* Vand. ex L.
 
 **Family**: [[Dracaenaceae]]
-**Modern family**: [[Asparagaceae]] subfam. Nolinoideae — *Dracaenaceae* as circumscribed here is superseded; see [[Dracaenaceae]]
+**Modern family**: **Asparagaceae** subfam. Nolinoideae — *Dracaenaceae* as circumscribed here is superseded; see [[Dracaenaceae]]
 **Authority**: Vand. ex L.
 **Protologue**: Mant. pl. 1 : 9 (1767) ; Syst. nat. ed. 12, 2 : 246 (1767)
 
@@ -227,4 +227,3 @@ There are two species (D. perrottetii and D. usambarensis) to be searched for in
 
 - [[Dracaenaceae]]
 - [[vol54]]
-- [[Asparagaceae]] — where this taxon now belongs

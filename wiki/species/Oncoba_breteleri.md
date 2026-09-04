@@ -17,7 +17,7 @@ tags: [species, generated, superseded-circumscription]
 
 **Genus**: [[Oncoba]]
 **Family**: [[Flacourtiaceae]]
-**Modern family**: [[Salicaceae]] — *Flacourtiaceae* as circumscribed here is superseded; see [[Flacourtiaceae]]
+**Modern family**: **Salicaceae** — *Flacourtiaceae* as circumscribed here is superseded; see [[Flacourtiaceae]]
 
 ## Description
 
@@ -68,4 +68,3 @@ Wieringa & Haegens 2535, Ogooué-Maritime, Gamba, env. 4 km E de l'aéroport, 2�
 - [[Oncoba]]
 - [[Flacourtiaceae]]
 - [[vol34]]
-- [[Salicaceae]] — where this taxon now belongs

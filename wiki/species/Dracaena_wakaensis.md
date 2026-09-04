@@ -21,7 +21,7 @@ tags: [species, generated, superseded-circumscription]
 
 **Genus**: [[Dracaena]]
 **Family**: [[Dracaenaceae]]
-**Modern family**: [[Asparagaceae]] subfam. Nolinoideae — *Dracaenaceae* as circumscribed here is superseded; see [[Dracaenaceae]]
+**Modern family**: **Asparagaceae** subfam. Nolinoideae — *Dracaenaceae* as circumscribed here is superseded; see [[Dracaenaceae]]
 **Protologue**: Blumea 63 : 46 (2018)
 
 ## Description
@@ -55,4 +55,3 @@ endo (babongo). B : Damen et al. (2018), Quiroz & Andel (2015). i B liographie
 - [[Dracaena]]
 - [[Dracaenaceae]]
 - [[vol54]]
-- [[Asparagaceae]] — where this taxon now belongs

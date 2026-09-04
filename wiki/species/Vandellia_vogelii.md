@@ -20,7 +20,7 @@ tags: [species, generated, superseded-circumscription]
 
 **Genus**: [[Vandellia]]
 **Family**: [[Scrophulariaceae]]
-**Modern family**: [[Linderniaceae]] — *Scrophulariaceae* as circumscribed here is superseded; see [[Scrophulariaceae]]
+**Modern family**: **Linderniaceae** — *Scrophulariaceae* as circumscribed here is superseded; see [[Scrophulariaceae]]
 **Protologue**: Willdenowi a 43 : 235 (2013)
 
 ## Synonyms
@@ -68,4 +68,3 @@ L. Alectra sessiliflora. (A, B, D–G: photo by J.-P. Vandeweghe; C, H–L: phot
 - [[Vandellia]]
 - [[Scrophulariaceae]]
 - [[vol48]]
-- [[Linderniaceae]] — where this taxon now belongs

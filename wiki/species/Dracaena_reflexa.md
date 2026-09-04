@@ -15,7 +15,7 @@ tags: [species, generated, superseded-circumscription]
 
 **Genus**: [[Dracaena]]
 **Family**: [[Dracaenaceae]]
-**Modern family**: [[Asparagaceae]] subfam. Nolinoideae — *Dracaenaceae* as circumscribed here is superseded; see [[Dracaenaceae]]
+**Modern family**: **Asparagaceae** subfam. Nolinoideae — *Dracaenaceae* as circumscribed here is superseded; see [[Dracaenaceae]]
 **Protologue**: Encycl. 2 : 324 (1786)
 
 ## Description
@@ -35,4 +35,3 @@ Species of the Mascarene Islands (Madagascar, Mauritius, Mayotte, Réunion and S
 - [[Dracaena]]
 - [[Dracaenaceae]]
 - [[vol54]]
-- [[Asparagaceae]] — where this taxon now belongs

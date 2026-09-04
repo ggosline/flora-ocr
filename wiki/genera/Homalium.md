@@ -13,7 +13,7 @@ tags: [genus, generated, superseded-circumscription]
 # *Homalium* Jacq.
 
 **Family**: [[Flacourtiaceae]]
-**Modern family**: [[Salicaceae]] — *Flacourtiaceae* as circumscribed here is superseded; see [[Flacourtiaceae]]
+**Modern family**: **Salicaceae** — *Flacourtiaceae* as circumscribed here is superseded; see [[Flacourtiaceae]]
 **Authority**: Jacq.
 **Protologue**: Enum. Pl. Carib.: 5 (1760); MAST., in OLIV., FTA 2: 497 (1871); WARB., in ENGL. & PRANTL, NPF 3 (6a): 34 (1893); GILG, EBJ 40: 488 (1908); HUTCH., DALZIEL & CHIPP, in HUTCH. & DALZIEL, FWTA 1 (1): 165 (1927); SLEUMER, BJBB 43: 239 (1973); (avec la coll. de BAMPS), FCBR, Flacourt. 2: 11 (1976)
 
@@ -99,4 +99,3 @@ This genus contains about 200 species distributed in tropical regions; in Africa
 
 - [[Flacourtiaceae]]
 - [[vol34]]
-- [[Salicaceae]] — where this taxon now belongs

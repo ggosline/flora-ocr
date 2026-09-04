@@ -16,7 +16,7 @@ tags: [species, generated, superseded-circumscription]
 
 **Genus**: [[Mocquerysia]]
 **Family**: [[Flacourtiaceae]]
-**Modern family**: [[Salicaceae]] — *Flacourtiaceae* as circumscribed here is superseded; see [[Flacourtiaceae]]
+**Modern family**: **Salicaceae** — *Flacourtiaceae* as circumscribed here is superseded; see [[Flacourtiaceae]]
 
 ## Description
 
@@ -67,4 +67,3 @@ Wilks 881, 15 km SE Ogooué-Ivindo, forêt des Abeilles, 28/2/1984, fl. (WAG) ; 
 - [[Mocquerysia]]
 - [[Flacourtiaceae]]
 - [[vol34]]
-- [[Salicaceae]] — where this taxon now belongs

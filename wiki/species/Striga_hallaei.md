@@ -20,7 +20,7 @@ tags: [species, generated, superseded-circumscription]
 
 **Genus**: [[Striga]]
 **Family**: [[Scrophulariaceae]]
-**Modern family**: [[Orobanchaceae]] — *Scrophulariaceae* as circumscribed here is superseded; see [[Scrophulariaceae]]
+**Modern family**: **Orobanchaceae** — *Scrophulariaceae* as circumscribed here is superseded; see [[Scrophulariaceae]]
 **Protologue**: Bull. Jard. Bot. Nat. Belg . 39 : 374 (1969)
 
 ## Description
@@ -56,4 +56,3 @@ ombroph ilous forests, river edge in forest; in Gabon, at 540 m, in the Democrat
 - [[Striga]]
 - [[Scrophulariaceae]]
 - [[vol48]]
-- [[Orobanchaceae]] — where this taxon now belongs

@@ -20,7 +20,7 @@ tags: [species, generated, superseded-circumscription]
 
 **Genus**: [[Cycnium]]
 **Family**: [[Scrophulariaceae]]
-**Modern family**: [[Orobanchaceae]] — *Scrophulariaceae* as circumscribed here is superseded; see [[Scrophulariaceae]]
+**Modern family**: **Orobanchaceae** — *Scrophulariaceae* as circumscribed here is superseded; see [[Scrophulariaceae]]
 **Protologue**: Dansk Bot. Ark. 32 : 53 (1978)
 
 ## Description
@@ -52,4 +52,3 @@ savannas; in Gabon, 100–600 m, in East Africa, up to 2500 m. Taxonomic note: C
 - [[Cycnium]]
 - [[Scrophulariaceae]]
 - [[vol48]]
-- [[Orobanchaceae]] — where this taxon now belongs

@@ -20,7 +20,7 @@ tags: [species, generated, superseded-circumscription]
 
 **Genus**: [[Dracaena]]
 **Family**: [[Dracaenaceae]]
-**Modern family**: [[Asparagaceae]] subfam. Nolinoideae — *Dracaenaceae* as circumscribed here is superseded; see [[Dracaenaceae]]
+**Modern family**: **Asparagaceae** subfam. Nolinoideae — *Dracaenaceae* as circumscribed here is superseded; see [[Dracaenaceae]]
 **Protologue**: Pleomele sanderiana (Sander ex Mast.) N.E.Br., Bull. Misc. Inform. Kew 1914 : 279 (1914)
 
 ## Description
@@ -54,4 +54,3 @@ dragonnier de Sander (fr.) ; lucky bamboo (angl.). B : Baker (1898), Damen et al
 - [[Dracaena]]
 - [[Dracaenaceae]]
 - [[vol54]]
-- [[Asparagaceae]] — where this taxon now belongs

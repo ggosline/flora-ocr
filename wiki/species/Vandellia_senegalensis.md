@@ -20,7 +20,7 @@ tags: [species, generated, superseded-circumscription]
 
 **Genus**: [[Vandellia]]
 **Family**: [[Scrophulariaceae]]
-**Modern family**: [[Linderniaceae]] — *Scrophulariaceae* as circumscribed here is superseded; see [[Scrophulariaceae]]
+**Modern family**: **Linderniaceae** — *Scrophulariaceae* as circumscribed here is superseded; see [[Scrophulariaceae]]
 **Protologue**: Lindernia senegalensis (Benth.) Hiern, Cat. afr. pl. 1 : 763 (1898)
 
 ## Description
@@ -50,4 +50,3 @@ primary and secondary rainforests, paths, clearings, river banks, on sandy soil;
 - [[Vandellia]]
 - [[Scrophulariaceae]]
 - [[vol48]]
-- [[Linderniaceae]] — where this taxon now belongs

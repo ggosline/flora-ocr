@@ -13,7 +13,7 @@ tags: [genus, generated, superseded-circumscription]
 # *Endodesmia* Benth.
 
 **Family**: [[Clusiaceae]]
-**Modern family**: [[Calophyllaceae]] — *Clusiaceae* as circumscribed here is superseded; see [[Clusiaceae]]
+**Modern family**: **Calophyllaceae** — *Clusiaceae* as circumscribed here is superseded; see [[Clusiaceae]]
 **Authority**: Benth.
 
 ## Diagnosis
@@ -48,4 +48,3 @@ Bibliography
 
 - [[Clusiaceae]]
 - [[vol45]]
-- [[Calophyllaceae]] — where this taxon now belongs

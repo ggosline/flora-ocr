@@ -20,7 +20,7 @@ tags: [species, generated, superseded-circumscription]
 
 **Genus**: [[Limnophila]]
 **Family**: [[Scrophulariaceae]]
-**Modern family**: [[Plantaginaceae]] — *Scrophulariaceae* as circumscribed here is superseded; see [[Scrophulariaceae]]
+**Modern family**: **Plantaginaceae** — *Scrophulariaceae* as circumscribed here is superseded; see [[Scrophulariaceae]]
 
 ## Description
 
@@ -51,4 +51,3 @@ Stamens. (A–E: Le Testu 6498). Drawing by E. Fischer (©).
 - [[Limnophila]]
 - [[Scrophulariaceae]]
 - [[vol48]]
-- [[Plantaginaceae]] — where this taxon now belongs

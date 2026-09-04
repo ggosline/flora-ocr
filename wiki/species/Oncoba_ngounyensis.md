@@ -17,7 +17,7 @@ tags: [species, generated, superseded-circumscription]
 
 **Genus**: [[Oncoba]]
 **Family**: [[Flacourtiaceae]]
-**Modern family**: [[Salicaceae]] — *Flacourtiaceae* as circumscribed here is superseded; see [[Flacourtiaceae]]
+**Modern family**: **Salicaceae** — *Flacourtiaceae* as circumscribed here is superseded; see [[Flacourtiaceae]]
 
 ## Synonyms
 
@@ -68,4 +68,3 @@ McPherson 15232, Moyen-Ogooué, SW Lambaréné, près du lac Ezanga, 1°0'S-10°
 - [[Oncoba]]
 - [[Flacourtiaceae]]
 - [[vol34]]
-- [[Salicaceae]] — where this taxon now belongs

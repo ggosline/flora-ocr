@@ -20,7 +20,7 @@ tags: [species, generated, superseded-circumscription]
 
 **Genus**: [[Drimia]]
 **Family**: [[Hyacinthaceae]]
-**Modern family**: [[Asparagaceae]] subfam. Scilloideae — *Hyacinthaceae* as circumscribed here is superseded; see [[Hyacinthaceae]]
+**Modern family**: **Asparagaceae** subfam. Scilloideae — *Hyacinthaceae* as circumscribed here is superseded; see [[Hyacinthaceae]]
 **Protologue**: Bot. Mag . 27 : t. 1074 (1808)
 
 ## Synonyms
@@ -55,4 +55,3 @@ savannas and open forests, dry or wet places, on sandy, clayey or rocky soils; i
 - [[Drimia]]
 - [[Hyacinthaceae]]
 - [[vol40]]
-- [[Asparagaceae]] — where this taxon now belongs

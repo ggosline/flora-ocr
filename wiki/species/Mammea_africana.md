@@ -19,7 +19,7 @@ tags: [species, generated, superseded-circumscription]
 
 **Genus**: [[Mammea]]
 **Family**: [[Clusiaceae]]
-**Modern family**: [[Calophyllaceae]] — *Clusiaceae* as circumscribed here is superseded; see [[Clusiaceae]]
+**Modern family**: **Calophyllaceae** — *Clusiaceae* as circumscribed here is superseded; see [[Clusiaceae]]
 **Protologue**: Trans. Hort. Soc. 5 : 457 (1824)
 
 ## Synonyms
@@ -66,4 +66,3 @@ The wood is valued for construction and joinery. It is suitable for railway slee
 - [[Mammea]]
 - [[Clusiaceae]]
 - [[vol45]]
-- [[Calophyllaceae]] — where this taxon now belongs

@@ -4,18 +4,20 @@ name: Phyllobotryon bracteatum
 authority: (Lecomte) Hul
 genus: Phyllobotryon
 family: Flacourtiaceae
+modern_family: Salicaceae
 vol: 34
 pages: 29-30
 source: sources/Flacourtiaceae_vol34_paddle
 countries: [Gabon]
 in_region: true
 habit: "shrub"
-tags: [species, generated]
+tags: [species, generated, superseded-circumscription]
 ---
 # *Phyllobotryon bracteatum* (Lecomte) Hul
 
 **Genus**: [[Phyllobotryon]]
 **Family**: [[Flacourtiaceae]]
+**Modern family**: **Salicaceae** — *Flacourtiaceae* as circumscribed here is superseded; see [[Flacourtiaceae]]
 **Protologue**: Bull. Mus. natl. Hist. nat. Paris, 4 ᵉ sér., sect. B, Adansonia 13 (3-4): 162 (1991)
 
 ## Description

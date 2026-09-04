@@ -5,8 +5,8 @@ alternate_name_fr: Flacourtiacées
 authority: Rich. ex DC.
 order: Malpighiales
 modern_placement: "dismantled — Salicaceae and Achariaceae"
-genera_in_region: 11
-species_in_region: 36
+genera_in_region: 13
+species_in_region: 34
 in_region: true
 treatments:
   - vol: 34
@@ -34,7 +34,7 @@ source.
 |-------|---------|---------------|
 | [[Oncoba]] | 9 | Salicaceae |
 | [[Homalium]] | 9 | Salicaceae |
-| [[Poggea]] | 3 | Achariaceae |
+| [[Poggea]] | 2 | Achariaceae |
 | [[Flacourtia]] | 2 | Salicaceae |
 | [[Casearia]] | 2 | Salicaceae |
 | [[Trichostephanus]] | 2 | Achariaceae |
@@ -43,8 +43,8 @@ source.
 | [[Mocquerysia]] | 1 | Salicaceae |
 | [[Dasylepis]] | 1 | Achariaceae |
 | [[Buchnerodendron]] | 1 | Achariaceae |
-| [[Phyllobotryon]] | 3 |
-| [[Scottellia]] | 1 |
+| [[Phyllobotryon]] | 2 | Salicaceae |
+| [[Scottellia]] | 1 | Achariaceae |
 
 ## Notes
 

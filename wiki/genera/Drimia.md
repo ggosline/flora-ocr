@@ -13,7 +13,7 @@ tags: [genus, generated, superseded-circumscription]
 # *Drimia* Jacq.
 
 **Family**: [[Hyacinthaceae]]
-**Modern family**: [[Asparagaceae]] subfam. Scilloideae — *Hyacinthaceae* as circumscribed here is superseded; see [[Hyacinthaceae]]
+**Modern family**: **Asparagaceae** subfam. Scilloideae — *Hyacinthaceae* as circumscribed here is superseded; see [[Hyacinthaceae]]
 **Authority**: Jacq.
 **Protologue**: Collectanea 5, Suppl. : 38 (1797)
 
@@ -55,4 +55,3 @@ Drawing by Margareth Tebbs (©), reproduced with permission from Stedje (1996).
 
 - [[Hyacinthaceae]]
 - [[vol40]]
-- [[Asparagaceae]] — where this taxon now belongs

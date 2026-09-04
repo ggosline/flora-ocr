@@ -13,7 +13,7 @@ tags: [genus, generated, superseded-circumscription]
 # *Dasylepis* Oliv.
 
 **Family**: [[Flacourtiaceae]]
-**Modern family**: [[Achariaceae]] — *Flacourtiaceae* as circumscribed here is superseded; see [[Flacourtiaceae]]
+**Modern family**: **Achariaceae** — *Flacourtiaceae* as circumscribed here is superseded; see [[Flacourtiaceae]]
 **Authority**: Oliv.
 **Protologue**: J. Linn. Soc. Bot. 9 : 170 (1867) ; OLIV. , FTA 1 : 123 (1868) ; WARB., in ENGL. & PRANTL, NPF 3 (6a) : 15 (1893) ; GILG, EBJ 40 : 450 (1908) ; CHIPP, Kew Bull. : 265 (1923) ; BAMPS, FCBR, Spermat., Flacourt. 1 : 5 (1968) ; SLEUMER, EBJ 92 (4) : 554 (1972)
 
@@ -45,4 +45,3 @@ Genus of tropical Africa comprising 5 species, of which 1 for the Flora.
 
 - [[Flacourtiaceae]]
 - [[vol34]]
-- [[Achariaceae]] — where this taxon now belongs

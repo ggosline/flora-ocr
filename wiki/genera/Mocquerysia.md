@@ -13,7 +13,7 @@ tags: [genus, generated, superseded-circumscription]
 # *Mocquerysia* Hua
 
 **Family**: [[Flacourtiaceae]]
-**Modern family**: [[Salicaceae]] — *Flacourtiaceae* as circumscribed here is superseded; see [[Flacourtiaceae]]
+**Modern family**: **Salicaceae** — *Flacourtiaceae* as circumscribed here is superseded; see [[Flacourtiaceae]]
 **Authority**: Hua
 
 ## Diagnosis
@@ -42,4 +42,3 @@ Genus of tropical western-central Africa comprising a single species, present in
 
 - [[Flacourtiaceae]]
 - [[vol34]]
-- [[Salicaceae]] — where this taxon now belongs

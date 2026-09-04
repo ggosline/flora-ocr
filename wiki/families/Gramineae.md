@@ -2,8 +2,8 @@
 type: family
 name: Gramineae
 order:   # TODO: APG placement, not stated by the source
-genera_in_region: 76
-species_in_region: 173
+genera_in_region: 74
+species_in_region: 160
 treatments:
   - vol: 05
     source: sources/Gramineae_vol05_paddle
@@ -13,7 +13,7 @@ tags: [family, generated]
 ---
 # Gramineae
 
-**Genera in region**: 76 · **Species in region**: 173
+**Genera in region**: 74 · **Species in region**: 160
 
 ## Diagnosis
 
@@ -121,7 +121,7 @@ Fascicule 16: Annonaceae (1969): 219 F.
 
 | Genus | Species |
 |-------|---------|
-| [[Acroceras]] | 2 |
+| [[Acroceras]] | 1 |
 | [[Anadelphia]] | 1 |
 | [[Andropogon]] | 7 |
 | [[Antephora]] | 1 |
@@ -131,25 +131,25 @@ Fascicule 16: Annonaceae (1969): 219 F.
 | [[Axonopus]] | 1 |
 | [[Beckeropsis]] | 1 |
 | [[Brachiaria]] | 4 |
-| [[Centotheca]] | 3 |
+| [[Centotheca]] | 2 |
 | [[Chloris]] | 1 |
 | [[Chrysopogon]] | 2 |
 | [[Commelinidium]] | 2 |
-| [[Ctenium]] | 2 |
-| [[Cymbopogon]] | 3 |
+| [[Ctenium]] | 1 |
+| [[Cymbopogon]] | 2 |
 | [[Cynodon]] | 1 |
 | [[Cyrtococcum]] | 0 |
 | [[Cyrtococcum]] | 2 |
 | [[Digitaria]] | 6 |
 | [[Diheteropogon]] | 1 |
 | [[Echinochloa]] | 2 |
-| [[Eleusine]] | 3 |
+| [[Eleusine]] | 2 |
 | [[Elionurus]] | 1 |
 | [[Elymandra]] | 1 |
 | [[Elyonurus]] | 2 |
 | [[Eragrostis]] | 8 |
-| [[Euclasta]] | 2 |
-| [[Guaduella]] | 5 |
+| [[Euclasta]] | 1 |
+| [[Guaduella]] | 4 |
 | [[Hackelochloa]] | 1 |
 | [[Heteranthoecia]] | 1 |
 | [[Heteranthoecia]] | 1 |
@@ -161,10 +161,10 @@ Fascicule 16: Annonaceae (1969): 219 F.
 | [[Jardinea]] | 2 |
 | [[Leersia]] | 1 |
 | [[Leptaspis]] | 1 |
-| [[Loudetia]] | 4 |
+| [[Loudetia]] | 3 |
 | [[Maltebrunia]] | 1 |
 | [[Melinis]] | 1 |
-| [[Microcalamus]] | 4 |
+| [[Microcalamus]] | 3 |
 | [[Mnesithea]] | 1 |
 | [[Olyra]] | 1 |
 | [[Oplismenus]] | 2 |
@@ -172,14 +172,14 @@ Fascicule 16: Annonaceae (1969): 219 F.
 | [[Ottochloa]] | 2 |
 | [[Panicum]] | 12 |
 | [[Paspalum]] | 4 |
-| [[Pennisetum]] | 6 |
-| [[Phacelurus]] | 2 |
-| [[Phragmites]] | 2 |
+| [[Pennisetum]] | 5 |
+| [[Phacelurus]] | 1 |
+| [[Phragmites]] | 1 |
 | [[Pleiadelphia]] | 1 |
 | [[Pobeguinea]] | 1 |
 | [[Potamophila]] | 1 |
-| [[Pseudechinolaena]] | 2 |
-| [[Puelia]] | 2 |
+| [[Pseudechinolaena]] | 1 |
+| [[Puelia]] | 1 |
 | [[Rhynchelytrum]] | 3 |
 | [[Rhytachne]] | 1 |
 | [[Rottboellia]] | 1 |
@@ -190,13 +190,13 @@ Fascicule 16: Annonaceae (1969): 219 F.
 | [[Sorghastrum]] | 1 |
 | [[Sorghum]] | 3 |
 | [[Sporobolus]] | 6 |
-| [[Stenotaphrum]] | 2 |
+| [[Stenotaphrum]] | 1 |
 | [[Streptogyne]] | 1 |
 | [[Thysanolaena]] | 2 |
 | [[Trachypogon]] | 0 |
 | [[Tristachya]] | 2 |
 | [[Vetiveria]] | 2 |
-| [[Vossia]] | 2 |
+| [[Vossia]] | 1 |
 
 ## Treatments
 

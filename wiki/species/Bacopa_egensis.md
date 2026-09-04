@@ -20,7 +20,7 @@ tags: [species, generated, superseded-circumscription]
 
 **Genus**: [[Bacopa]]
 **Family**: [[Scrophulariaceae]]
-**Modern family**: [[Plantaginaceae]] — *Scrophulariaceae* as circumscribed here is superseded; see [[Scrophulariaceae]]
+**Modern family**: **Plantaginaceae** — *Scrophulariaceae* as circumscribed here is superseded; see [[Scrophulariaceae]]
 **Protologue**: Proc. Acad. Nat. Sci. Philad . 98 : 96 (1946)
 
 ## Synonyms
@@ -54,4 +54,3 @@ humid places, pools, ponds, lakes and rivers; in Gabon, at 50 m altitude, elsewh
 - [[Bacopa]]
 - [[Scrophulariaceae]]
 - [[vol48]]
-- [[Plantaginaceae]] — where this taxon now belongs

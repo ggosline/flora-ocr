@@ -3,15 +3,17 @@ type: genus
 name: Scottellia
 authority: Oliv.
 family: Flacourtiaceae
+modern_family: Achariaceae
 species_in_region: 1
 treatments:
   - vol: 34
     source: sources/Flacourtiaceae_vol34_paddle
-tags: [genus, generated]
+tags: [genus, generated, superseded-circumscription]
 ---
 # *Scottellia* Oliv.
 
 **Family**: [[Flacourtiaceae]]
+**Modern family**: **Achariaceae** — *Flacourtiaceae* as circumscribed here is superseded; see [[Flacourtiaceae]]
 **Authority**: Oliv.
 
 ## Diagnosis

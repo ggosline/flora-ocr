@@ -16,7 +16,7 @@ tags: [species, generated, superseded-circumscription]
 
 **Genus**: [[Dovyalis]]
 **Family**: [[Flacourtiaceae]]
-**Modern family**: [[Salicaceae]] — *Flacourtiaceae* as circumscribed here is superseded; see [[Flacourtiaceae]]
+**Modern family**: **Salicaceae** — *Flacourtiaceae* as circumscribed here is superseded; see [[Flacourtiaceae]]
 **Protologue**: EBJ 40 : 507 (1908) ; in ENGL., PWA 3 (2) : 588 (1921) ; BAMPS, FCBR, Spermat., Flacourt. 1 : 54 (1968) ; SLEUMER, EBJ 92 : 73 (1972). TYPES : Zenker 1543, Cameroun (lecto-, isolecto-); Zenker 2219 et 3379, Cameroun (syn-)
 
 ## Description
@@ -74,4 +74,3 @@ Le Testu 8601, Lastourville, 20/12/1930, fl. ☀, j. fr. (P).
 - [[Dovyalis]]
 - [[Flacourtiaceae]]
 - [[vol34]]
-- [[Salicaceae]] — where this taxon now belongs

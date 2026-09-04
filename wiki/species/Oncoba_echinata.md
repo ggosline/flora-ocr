@@ -17,7 +17,7 @@ tags: [species, generated, superseded-circumscription]
 
 **Genus**: [[Oncoba]]
 **Family**: [[Flacourtiaceae]]
-**Modern family**: [[Salicaceae]] — *Flacourtiaceae* as circumscribed here is superseded; see [[Flacourtiaceae]]
+**Modern family**: **Salicaceae** — *Flacourtiaceae* as circumscribed here is superseded; see [[Flacourtiaceae]]
 **Protologue**: FTA 1 : 118 (1868) ; WARB., in ENGL. & PRANTL, NPF 3 (6a) : 18 (1893) ; A. CHEV., Expl. Bot. Afr. Occ. Fr. 1 : 37 (1920). TYPE : Mann 805, Sierra Leone (holo-)
 
 ## Description
@@ -59,4 +59,3 @@ Le Testu 7712, Lastoursville, 1929-1931, fr. (P).
 - [[Oncoba]]
 - [[Flacourtiaceae]]
 - [[vol34]]
-- [[Salicaceae]] — where this taxon now belongs

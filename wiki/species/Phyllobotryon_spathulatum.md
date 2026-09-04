@@ -4,17 +4,19 @@ name: Phyllobotryon spathulatum
 authority: Muell. Arg.
 genus: Phyllobotryon
 family: Flacourtiaceae
+modern_family: Salicaceae
 vol: 34
 pages: 27-29
 source: sources/Flacourtiaceae_vol34_paddle
 countries: [Cameroon, Equatorial Guinea, Gabon, Nigeria]
 in_region: true
-tags: [species, generated]
+tags: [species, generated, superseded-circumscription]
 ---
 # *Phyllobotryon spathulatum* Muell. Arg.
 
 **Genus**: [[Phyllobotryon]]
 **Family**: [[Flacourtiaceae]]
+**Modern family**: **Salicaceae** — *Flacourtiaceae* as circumscribed here is superseded; see [[Flacourtiaceae]]
 **Protologue**: Flora 47 : 534 (1864) ; WARB., in ENGL. & PRANTL, NPF 3 (6a) : 38 (1893) ; GILG, EBJ 40 : 500 (1908). TYPE : Mann 1737, Gabon (holo-, iso-)
 
 ## Description

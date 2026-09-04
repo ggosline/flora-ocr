@@ -13,7 +13,7 @@ tags: [genus, generated, superseded-circumscription]
 # *Flacourtia* Comm. ex L'Hér.
 
 **Family**: [[Flacourtiaceae]]
-**Modern family**: [[Salicaceae]] — *Flacourtiaceae* as circumscribed here is superseded; see [[Flacourtiaceae]]
+**Modern family**: **Salicaceae** — *Flacourtiaceae* as circumscribed here is superseded; see [[Flacourtiaceae]]
 **Authority**: Comm. ex L'Hér.
 **Protologue**: Stirp. Nov. 3 : 59, t. 30 et 30B (1785) ; OLIV., FTA 1 : 120 (1868) ; BAILL., Hist. Pl. 4 : 302 (1873) ; WARB., in ENGL. & PRANTL, NPF 3 (6a) : 43 (1893) ; GILG, in ENGL., PWA 3 (2) : 585 (1921) ; in ENGL. & PRANTL, NPF 21 : 438 (1925) ; HUTCH., DALZIEL & CHIPP, in HUTCH. & DALZIEL, FWTA 1 (1) : 162 (1927) ; BAMPS, FCBR, Spermat., Flacourt. 1 : 48 (1968) ; SLEUMER, FTEA, Flacourt. : 57 (1975)
 
@@ -58,4 +58,3 @@ This genus contains 15 species, in tropical and subtropical regions of Africa, A
 
 - [[Flacourtiaceae]]
 - [[vol34]]
-- [[Salicaceae]] — where this taxon now belongs

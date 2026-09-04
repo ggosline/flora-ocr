@@ -17,7 +17,7 @@ tags: [species, generated, superseded-circumscription]
 
 **Genus**: [[Ophiobotrys]]
 **Family**: [[Flacourtiaceae]]
-**Modern family**: [[Salicaceae]] — *Flacourtiaceae* as circumscribed here is superseded; see [[Flacourtiaceae]]
+**Modern family**: **Salicaceae** — *Flacourtiaceae* as circumscribed here is superseded; see [[Flacourtiaceae]]
 **Protologue**: EBJ 40 : 514 (1908) ; in ENGL., PWA 3 (2) : 592 (1921). TYPES : Zenker 2387, Cameroun (lecto-, isolecto-); Zenker 2124, 2302, 2417, 2537 et Winkler 86, Cameroun (syn-)
 
 ## Description
@@ -63,4 +63,3 @@ Le Testu 8687, Lastoursville, Miboba, 18/1/1931, fl. (P); 9466, Essough, Ogooué
 - [[Ophiobotrys]]
 - [[Flacourtiaceae]]
 - [[vol34]]
-- [[Salicaceae]] — where this taxon now belongs

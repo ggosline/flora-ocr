@@ -17,7 +17,7 @@ tags: [species, generated, superseded-circumscription]
 
 **Genus**: [[Oncoba]]
 **Family**: [[Flacourtiaceae]]
-**Modern family**: [[Salicaceae]] — *Flacourtiaceae* as circumscribed here is superseded; see [[Flacourtiaceae]]
+**Modern family**: **Salicaceae** — *Flacourtiaceae* as circumscribed here is superseded; see [[Flacourtiaceae]]
 **Protologue**: FTA 1 : 116 (1868) ; GILG, EBJ 40 : 454 (1908) ; HUTCH., DALZIEL & CHIPP, in HUTCH. & DALZIEL, FWTA : 160 (1927) ; BAMPS, FCBR, Spermat., Flacourt. 1 : 18 (1968). TYPE : Mann 829, Sierra Leone (holo-)
 
 ## Description
@@ -61,4 +61,3 @@ Chevalier 27085, Mboro, sur le Ramboué, 14/10/1912, bout. fl. (P). Louis, Brete
 - [[Oncoba]]
 - [[Flacourtiaceae]]
 - [[vol34]]
-- [[Salicaceae]] — where this taxon now belongs
