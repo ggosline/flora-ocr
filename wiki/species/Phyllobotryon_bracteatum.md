@@ -17,7 +17,7 @@ tags: [species, generated, superseded-circumscription]
 
 **Genus**: [[Phyllobotryon]]
 **Family**: [[Flacourtiaceae]]
-**Modern family**: **Salicaceae** — *Flacourtiaceae* as circumscribed here is superseded; see [[Flacourtiaceae]]
+**Modern family**: [[Salicaceae]] — *Flacourtiaceae* as circumscribed here is superseded; see [[Flacourtiaceae]]
 **Protologue**: Bull. Mus. natl. Hist. nat. Paris, 4 ᵉ sér., sect. B, Adansonia 13 (3-4): 162 (1991)
 
 ## Description
@@ -63,3 +63,4 @@ Le Testu 2182, vallée de l'Obi, affluent de l'Icobé, entre Ikoy et Ngounyé, 2
 - [[Phyllobotryon]]
 - [[Flacourtiaceae]]
 - [[vol34]]
+- [[Salicaceae]] — where this taxon now belongs

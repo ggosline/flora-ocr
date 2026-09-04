@@ -13,7 +13,7 @@ tags: [genus, generated, superseded-circumscription]
 # *Artanema* D.Don, nom. cons.
 
 **Family**: [[Scrophulariaceae]]
-**Modern family**: **Linderniaceae** — *Scrophulariaceae* as circumscribed here is superseded; see [[Scrophulariaceae]]
+**Modern family**: [[Linderniaceae]] — *Scrophulariaceae* as circumscribed here is superseded; see [[Scrophulariaceae]]
 **Authority**: D.Don, nom. cons.
 
 ## Diagnosis
@@ -48,3 +48,4 @@ Bibliography
 
 - [[Scrophulariaceae]]
 - [[vol48]]
+- [[Linderniaceae]] — where this taxon now belongs

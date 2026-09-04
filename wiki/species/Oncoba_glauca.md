@@ -15,7 +15,7 @@ tags: [species, generated, superseded-circumscription]
 
 **Genus**: [[Oncoba]]
 **Family**: [[Flacourtiaceae]]
-**Modern family**: **Salicaceae** — *Flacourtiaceae* as circumscribed here is superseded; see [[Flacourtiaceae]]
+**Modern family**: [[Salicaceae]] — *Flacourtiaceae* as circumscribed here is superseded; see [[Flacourtiaceae]]
 
 ## Description
 
@@ -120,3 +120,4 @@ Wieringa 341, Tchimbélé, 0°37'N-10°24'E, 2/1/1990, fr. (WAG).
 - [[Oncoba]]
 - [[Flacourtiaceae]]
 - [[vol34]]
+- [[Salicaceae]] — where this taxon now belongs

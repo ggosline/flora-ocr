@@ -20,7 +20,7 @@ tags: [species, generated, superseded-circumscription]
 
 **Genus**: [[Dracaena]]
 **Family**: [[Dracaenaceae]]
-**Modern family**: **Asparagaceae** subfam. Nolinoideae — *Dracaenaceae* as circumscribed here is superseded; see [[Dracaenaceae]]
+**Modern family**: [[Asparagaceae]] subfam. Nolinoideae — *Dracaenaceae* as circumscribed here is superseded; see [[Dracaenaceae]]
 **Protologue**: Bot. Jahrb. Syst. 45 : 153 (1910)
 
 ## Synonyms
@@ -54,3 +54,4 @@ rather open and dry forest, also in dwarf forest and at the edges of rivers; in 
 - [[Dracaena]]
 - [[Dracaenaceae]]
 - [[vol54]]
+- [[Asparagaceae]] — where this taxon now belongs

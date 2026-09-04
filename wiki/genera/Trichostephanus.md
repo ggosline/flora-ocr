@@ -13,7 +13,7 @@ tags: [genus, generated, superseded-circumscription]
 # *Trichostephanus* Gilg
 
 **Family**: [[Flacourtiaceae]]
-**Modern family**: **Achariaceae** — *Flacourtiaceae* as circumscribed here is superseded; see [[Flacourtiaceae]]
+**Modern family**: [[Achariaceae]] — *Flacourtiaceae* as circumscribed here is superseded; see [[Flacourtiaceae]]
 **Authority**: Gilg
 **Protologue**: EBJ 40 : 478 (1908) ; in ENGL., PWA 3 (2) : 574 (1921) ; HALLÉ & DE WILDE, Adansonia, sér. 2, 18 (2) : 167 (1978) ; BRETELER, BJBB 60 : 143 (1990)
 
@@ -58,3 +58,4 @@ Genus of tropical West Africa comprising 2 species which are present in Gabon.
 
 - [[Flacourtiaceae]]
 - [[vol34]]
+- [[Achariaceae]] — where this taxon now belongs

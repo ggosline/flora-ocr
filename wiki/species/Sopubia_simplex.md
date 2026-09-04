@@ -20,7 +20,7 @@ tags: [species, generated, superseded-circumscription]
 
 **Genus**: [[Sopubia]]
 **Family**: [[Scrophulariaceae]]
-**Modern family**: **Orobanchaceae** — *Scrophulariaceae* as circumscribed here is superseded; see [[Scrophulariaceae]]
+**Modern family**: [[Orobanchaceae]] — *Scrophulariaceae* as circumscribed here is superseded; see [[Scrophulariaceae]]
 **Protologue**: Flora 27 : 27 (1844)
 
 ## Description
@@ -50,3 +50,4 @@ swampy savannas; in Gabon, up to 250 m altitude, in East Africa, up to 2300 m. B
 - [[Sopubia]]
 - [[Scrophulariaceae]]
 - [[vol48]]
+- [[Orobanchaceae]] — where this taxon now belongs

@@ -16,7 +16,7 @@ tags: [species, generated, superseded-circumscription]
 
 **Genus**: [[Poggea]]
 **Family**: [[Flacourtiaceae]]
-**Modern family**: **Achariaceae** — *Flacourtiaceae* as circumscribed here is superseded; see [[Flacourtiaceae]]
+**Modern family**: [[Achariaceae]] — *Flacourtiaceae* as circumscribed here is superseded; see [[Flacourtiaceae]]
 **Protologue**: EBJ 18 : 162, t. 7 (1893) ; WARB., in ENGL. & PRANTL, NPF 3 (6a) : 16 (1893) ; GILG, in ENGL. & PRANTL, NPF 21 : 399 (1925) ; SLEUMER, EBJ 94 (3) : 298 (1974). TYPES : Pogge 609, Zaïre (lecto-) ; Pogge 1096 et 1648, Zaïre (syn-)
 
 ## Description
@@ -68,3 +68,4 @@ Soyaux 100, Sibang, Mondah, 21/7/1880, fr. (lectotype de P. stenura GILG, P).
 - [[Poggea]]
 - [[Flacourtiaceae]]
 - [[vol34]]
+- [[Achariaceae]] — where this taxon now belongs

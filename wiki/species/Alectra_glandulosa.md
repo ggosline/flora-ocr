@@ -20,7 +20,7 @@ tags: [species, generated, superseded-circumscription]
 
 **Genus**: [[Alectra]]
 **Family**: [[Scrophulariaceae]]
-**Modern family**: **Orobanchaceae** — *Scrophulariaceae* as circumscribed here is superseded; see [[Scrophulariaceae]]
+**Modern family**: [[Orobanchaceae]] — *Scrophulariaceae* as circumscribed here is superseded; see [[Scrophulariaceae]]
 **Protologue**: Bol. Soc. Brot., sér. 2, 60 : 269 (1987)
 
 ## Description
@@ -50,3 +50,4 @@ swampy savannas; in Gabon, at low altitude, in East Africa up to 1700 m. B: Miel
 - [[Alectra]]
 - [[Scrophulariaceae]]
 - [[vol48]]
+- [[Orobanchaceae]] — where this taxon now belongs

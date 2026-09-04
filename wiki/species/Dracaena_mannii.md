@@ -21,7 +21,7 @@ tags: [species, generated, superseded-circumscription]
 
 **Genus**: [[Dracaena]]
 **Family**: [[Dracaenaceae]]
-**Modern family**: **Asparagaceae** subfam. Nolinoideae — *Dracaenaceae* as circumscribed here is superseded; see [[Dracaenaceae]]
+**Modern family**: [[Asparagaceae]] subfam. Nolinoideae — *Dracaenaceae* as circumscribed here is superseded; see [[Dracaenaceae]]
 **Protologue**: J. Bot. 12 : 164 (1874)
 
 ## Synonyms
@@ -76,3 +76,4 @@ D. nitens, D. perrottetii and D. usambarensis are closely related to D. mannii a
 - [[Dracaena]]
 - [[Dracaenaceae]]
 - [[vol54]]
+- [[Asparagaceae]] — where this taxon now belongs

@@ -13,7 +13,7 @@ tags: [genus, generated, superseded-circumscription]
 # *Rhamphicarpa* Benth.
 
 **Family**: [[Scrophulariaceae]]
-**Modern family**: **Orobanchaceae** — *Scrophulariaceae* as circumscribed here is superseded; see [[Scrophulariaceae]]
+**Modern family**: [[Orobanchaceae]] — *Scrophulariaceae* as circumscribed here is superseded; see [[Scrophulariaceae]]
 **Authority**: Benth.
 
 ## Diagnosis
@@ -54,3 +54,4 @@ Stamens. – E. Fruit with calyx (A–E : Fischer s.n. ). Drawing by E. Fischer 
 
 - [[Scrophulariaceae]]
 - [[vol48]]
+- [[Orobanchaceae]] — where this taxon now belongs

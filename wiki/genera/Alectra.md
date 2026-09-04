@@ -13,7 +13,7 @@ tags: [genus, generated, superseded-circumscription]
 # *Alectra* Thunb.
 
 **Family**: [[Scrophulariaceae]]
-**Modern family**: **Orobanchaceae** — *Scrophulariaceae* as circumscribed here is superseded; see [[Scrophulariaceae]]
+**Modern family**: [[Orobanchaceae]] — *Scrophulariaceae* as circumscribed here is superseded; see [[Scrophulariaceae]]
 **Authority**: Thunb.
 **Protologue**: Nova gen. pl . 4 : 81 (1784)
 
@@ -53,3 +53,4 @@ B: Fischer (1996, 2006b), Hepper (1963), Mielcarek (1996), Morawetz & Wolfe (200
 
 - [[Scrophulariaceae]]
 - [[vol48]]
+- [[Orobanchaceae]] — where this taxon now belongs

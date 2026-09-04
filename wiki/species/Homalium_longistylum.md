@@ -16,7 +16,7 @@ tags: [species, generated, superseded-circumscription]
 
 **Genus**: [[Homalium]]
 **Family**: [[Flacourtiaceae]]
-**Modern family**: **Salicaceae** — *Flacourtiaceae* as circumscribed here is superseded; see [[Flacourtiaceae]]
+**Modern family**: [[Salicaceae]] — *Flacourtiaceae* as circumscribed here is superseded; see [[Flacourtiaceae]]
 
 ## Description
 
@@ -83,3 +83,4 @@ De Saint Aubin 1986 SRF, 18 km E Libreville, janv. 1959, fl. (P).
 - [[Homalium]]
 - [[Flacourtiaceae]]
 - [[vol34]]
+- [[Salicaceae]] — where this taxon now belongs

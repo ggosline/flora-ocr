@@ -16,7 +16,7 @@ tags: [species, generated, superseded-circumscription]
 
 **Genus**: [[Flacourtia]]
 **Family**: [[Flacourtiaceae]]
-**Modern family**: **Salicaceae** — *Flacourtiaceae* as circumscribed here is superseded; see [[Flacourtiaceae]]
+**Modern family**: [[Salicaceae]] — *Flacourtiaceae* as circumscribed here is superseded; see [[Flacourtiaceae]]
 **Protologue**: Interpr. Rumph. Herb. Amb. : 377 (1917) ; Comm. Lour., in Trans Amer. Phil. Soc., n. s., 24 (2) : 274 (1935) ; GILG, in ENGL. & PRANTL, NPF 21 : 440 (1925) ; WILD, Fl. Zamb. 1 : 277, t. 47B (1960) ; BAMPS, FCBR, Spermat., Flacourt. 1 : 48 (1968) ; SLEUMER, FTEA, Flacourt. : 57 (1975)
 
 ## Description
@@ -76,3 +76,4 @@ Dibata 171, Okala, Libreville, 0°29'N- 9°25'E, 5/6/1987, fl. ♂ (WAG). Hallé
 - [[Flacourtia]]
 - [[Flacourtiaceae]]
 - [[vol34]]
+- [[Salicaceae]] — where this taxon now belongs

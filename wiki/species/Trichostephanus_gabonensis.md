@@ -17,7 +17,7 @@ tags: [species, generated, superseded-circumscription]
 
 **Genus**: [[Trichostephanus]]
 **Family**: [[Flacourtiaceae]]
-**Modern family**: **Achariaceae** — *Flacourtiaceae* as circumscribed here is superseded; see [[Flacourtiaceae]]
+**Modern family**: [[Achariaceae]] — *Flacourtiaceae* as circumscribed here is superseded; see [[Flacourtiaceae]]
 **Protologue**: BJBB 60: 143 (1990). TYPE: De Wilde & Jongkind 9541, Gabon, 40 km NNW Doussala (holo- et iso-)
 
 ## Description
@@ -59,3 +59,4 @@ De Wilde & Jongkind 9541, 40 km NNW Doussala, env. 380 m alt., 24/3/1988, fl., f
 - [[Trichostephanus]]
 - [[Flacourtiaceae]]
 - [[vol34]]
+- [[Achariaceae]] — where this taxon now belongs

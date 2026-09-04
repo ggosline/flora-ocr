@@ -20,7 +20,7 @@ tags: [species, generated, superseded-circumscription]
 
 **Genus**: [[Craterostigma]]
 **Family**: [[Scrophulariaceae]]
-**Modern family**: **Linderniaceae** — *Scrophulariaceae* as circumscribed here is superseded; see [[Scrophulariaceae]]
+**Modern family**: [[Linderniaceae]] — *Scrophulariaceae* as circumscribed here is superseded; see [[Scrophulariaceae]]
 **Protologue**: Willdenowi a 43 : 222 (2013)
 
 ## Description
@@ -54,3 +54,4 @@ savannas, small marshes, quartzitic rocks and inselbergs; in Gabon, at 380 m alt
 - [[Craterostigma]]
 - [[Scrophulariaceae]]
 - [[vol48]]
+- [[Linderniaceae]] — where this taxon now belongs

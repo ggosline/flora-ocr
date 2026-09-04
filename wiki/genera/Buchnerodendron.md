@@ -13,7 +13,7 @@ tags: [genus, generated, superseded-circumscription]
 # *Buchnerodendron* Gürk
 
 **Family**: [[Flacourtiaceae]]
-**Modern family**: **Achariaceae** — *Flacourtiaceae* as circumscribed here is superseded; see [[Flacourtiaceae]]
+**Modern family**: [[Achariaceae]] — *Flacourtiaceae* as circumscribed here is superseded; see [[Flacourtiaceae]]
 **Authority**: Gürk
 **Protologue**: EBJ 18 : 161, t. 6 (1893) ; WARB., in ENGL. & PRANTL, NPF 3 (6a) : 20 (1893) ; GILG, EBJ 40 : 467 (1908) ; BAMPS, FCBR, Spermat., Flacourt. 1 : 37 (1968) ; SLEUMER, EBJ 94 (3) : 289 (1974)
 
@@ -51,3 +51,4 @@ Genus of tropical western-central and eastern Africa, comprising 2 species, of w
 
 - [[Flacourtiaceae]]
 - [[vol34]]
+- [[Achariaceae]] — where this taxon now belongs

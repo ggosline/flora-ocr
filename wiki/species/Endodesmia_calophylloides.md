@@ -21,7 +21,7 @@ tags: [species, generated, superseded-circumscription]
 
 **Genus**: [[Endodesmia]]
 **Family**: [[Clusiaceae]]
-**Modern family**: **Calophyllaceae** — *Clusiaceae* as circumscribed here is superseded; see [[Clusiaceae]]
+**Modern family**: [[Calophyllaceae]] — *Clusiaceae* as circumscribed here is superseded; see [[Clusiaceae]]
 
 ## Description
 
@@ -60,3 +60,4 @@ Regularly, the flowers show a monstrosity, probably caused by galls, and produce
 - [[Endodesmia]]
 - [[Clusiaceae]]
 - [[vol45]]
+- [[Calophyllaceae]] — where this taxon now belongs

@@ -20,7 +20,7 @@ tags: [species, generated, superseded-circumscription]
 
 **Genus**: [[Dracaena]]
 **Family**: [[Dracaenaceae]]
-**Modern family**: **Asparagaceae** subfam. Nolinoideae — *Dracaenaceae* as circumscribed here is superseded; see [[Dracaenaceae]]
+**Modern family**: [[Asparagaceae]] subfam. Nolinoideae — *Dracaenaceae* as circumscribed here is superseded; see [[Dracaenaceae]]
 **Protologue**: Blumea 63 : 47 (2018)
 
 ## Description
@@ -44,3 +44,4 @@ forest edges, shrubby savannas, inundated forests, gallery forests, dry forests 
 - [[Dracaena]]
 - [[Dracaenaceae]]
 - [[vol54]]
+- [[Asparagaceae]] — where this taxon now belongs

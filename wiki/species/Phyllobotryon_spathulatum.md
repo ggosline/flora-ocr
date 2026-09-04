@@ -16,7 +16,7 @@ tags: [species, generated, superseded-circumscription]
 
 **Genus**: [[Phyllobotryon]]
 **Family**: [[Flacourtiaceae]]
-**Modern family**: **Salicaceae** — *Flacourtiaceae* as circumscribed here is superseded; see [[Flacourtiaceae]]
+**Modern family**: [[Salicaceae]] — *Flacourtiaceae* as circumscribed here is superseded; see [[Flacourtiaceae]]
 **Protologue**: Flora 47 : 534 (1864) ; WARB., in ENGL. & PRANTL, NPF 3 (6a) : 38 (1893) ; GILG, EBJ 40 : 500 (1908). TYPE : Mann 1737, Gabon (holo-, iso-)
 
 ## Description
@@ -88,3 +88,4 @@ De Wilde & al. 9703, env. lac Divangui, Rabi, 1°56'S-9°59'E, env. 60 m alt., 2
 - [[Phyllobotryon]]
 - [[Flacourtiaceae]]
 - [[vol34]]
+- [[Salicaceae]] — where this taxon now belongs

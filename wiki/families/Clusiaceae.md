@@ -30,13 +30,13 @@ Seven genera and 23 species — trees with yellow or white latex, sharing
 
 | Genus | Species | Modern family |
 |-------|---------|---------------|
-| [[Garcinia]] | 14 | Clusiaceae |
-| [[Allanblackia]] | 3 | Clusiaceae |
-| [[Pentadesma]] | 2 | Clusiaceae |
-| [[Symphonia]] | 1 | Clusiaceae |
-| [[Calophyllum]] | 1 | **Calophyllaceae** |
-| [[Mammea]] | 1 | **Calophyllaceae** |
-| [[Endodesmia]] | 1 | **Calophyllaceae** |
+| [[Garcinia]] | 14 | [[Clusiaceae]] |
+| [[Allanblackia]] | 3 | [[Clusiaceae]] |
+| [[Pentadesma]] | 2 | [[Clusiaceae]] |
+| [[Symphonia]] | 1 | [[Clusiaceae]] |
+| [[Calophyllum]] | 1 | [[Calophyllaceae]] |
+| [[Mammea]] | 1 | [[Calophyllaceae]] |
+| [[Endodesmia]] | 1 | [[Calophyllaceae]] |
 
 ## Notes
 

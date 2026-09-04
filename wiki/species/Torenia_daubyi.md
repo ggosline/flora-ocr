@@ -21,7 +21,7 @@ tags: [species, generated, superseded-circumscription]
 
 **Genus**: [[Torenia]]
 **Family**: [[Scrophulariaceae]]
-**Modern family**: **Linderniaceae** — *Scrophulariaceae* as circumscribed here is superseded; see [[Scrophulariaceae]]
+**Modern family**: [[Linderniaceae]] — *Scrophulariaceae* as circumscribed here is superseded; see [[Scrophulariaceae]]
 **Protologue**: Phytotaxa 125(1) : 42 (2013)
 
 ## Description
@@ -51,3 +51,4 @@ dense rainforest on terra firme near a stream; at 580 m altitude. B: Fischer & L
 - [[Torenia]]
 - [[Scrophulariaceae]]
 - [[vol48]]
+- [[Linderniaceae]] — where this taxon now belongs

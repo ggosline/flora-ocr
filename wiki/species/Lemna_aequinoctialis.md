@@ -19,7 +19,7 @@ tags: [species, generated, superseded-circumscription]
 
 **Genus**: [[Lemna]]
 **Family**: [[Lemnaceae]]
-**Modern family**: **Araceae** subfam. Lemnoideae — *Lemnaceae* as circumscribed here is superseded; see [[Lemnaceae]]
+**Modern family**: [[Araceae]] subfam. Lemnoideae — *Lemnaceae* as circumscribed here is superseded; see [[Lemnaceae]]
 **Protologue**: Apont. : 578 (1859)
 
 ## Description
@@ -55,3 +55,4 @@ Taxonomic note: In African and Asian literature, L. aequinoctialis has often bee
 - [[Lemna]]
 - [[Lemnaceae]]
 - [[vol41]]
+- [[Araceae]] — where this taxon now belongs

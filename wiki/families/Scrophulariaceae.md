@@ -31,21 +31,21 @@ one whose circumscription has changed most drastically**.
 
 | Genus | Species | Modern family |
 |-------|---------|---------------|
-| [[Striga]] | 4 | Orobanchaceae |
-| [[Alectra]] | 2 | Orobanchaceae |
-| [[Buchnera]] | 3 | Orobanchaceae |
-| [[Cycnium]] | 1 | Orobanchaceae |
-| [[Rhamphicarpa]] | 1 | Orobanchaceae |
-| [[Sopubia]] | 1 | Orobanchaceae |
-| [[Micrargeria]] | 1 | Orobanchaceae |
-| [[Torenia]] | 6 | Linderniaceae |
-| [[Vandellia]] | 3 | Linderniaceae |
-| [[Lindernia]] | 2 | Linderniaceae |
-| [[Craterostigma]] | 1 | Linderniaceae |
-| [[Artanema]] | 1 | Linderniaceae |
-| [[Bacopa]] | 3 | Plantaginaceae |
-| [[Limnophila]] | 3 | Plantaginaceae |
-| [[Scoparia]] | 1 | Plantaginaceae |
+| [[Striga]] | 4 | [[Orobanchaceae]] |
+| [[Alectra]] | 2 | [[Orobanchaceae]] |
+| [[Buchnera]] | 3 | [[Orobanchaceae]] |
+| [[Cycnium]] | 1 | [[Orobanchaceae]] |
+| [[Rhamphicarpa]] | 1 | [[Orobanchaceae]] |
+| [[Sopubia]] | 1 | [[Orobanchaceae]] |
+| [[Micrargeria]] | 1 | [[Orobanchaceae]] |
+| [[Torenia]] | 6 | [[Linderniaceae]] |
+| [[Vandellia]] | 3 | [[Linderniaceae]] |
+| [[Lindernia]] | 2 | [[Linderniaceae]] |
+| [[Craterostigma]] | 1 | [[Linderniaceae]] |
+| [[Artanema]] | 1 | [[Linderniaceae]] |
+| [[Bacopa]] | 3 | [[Plantaginaceae]] |
+| [[Limnophila]] | 3 | [[Plantaginaceae]] |
+| [[Scoparia]] | 1 | [[Plantaginaceae]] |
 
 ## Notes
 

@@ -16,7 +16,7 @@ tags: [species, generated, superseded-circumscription]
 
 **Genus**: [[Oncoba]]
 **Family**: [[Flacourtiaceae]]
-**Modern family**: **Salicaceae** — *Flacourtiaceae* as circumscribed here is superseded; see [[Flacourtiaceae]]
+**Modern family**: [[Salicaceae]] — *Flacourtiaceae* as circumscribed here is superseded; see [[Flacourtiaceae]]
 
 ## Synonyms
 
@@ -73,3 +73,4 @@ Hallé & Villiers 4987, rocher Bangwé, 6/2/1968 (P).
 - [[Oncoba]]
 - [[Flacourtiaceae]]
 - [[vol34]]
+- [[Salicaceae]] — where this taxon now belongs

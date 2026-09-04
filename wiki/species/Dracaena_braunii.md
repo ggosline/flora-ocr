@@ -21,7 +21,7 @@ tags: [species, generated, superseded-circumscription]
 
 **Genus**: [[Dracaena]]
 **Family**: [[Dracaenaceae]]
-**Modern family**: **Asparagaceae** subfam. Nolinoideae — *Dracaenaceae* as circumscribed here is superseded; see [[Dracaenaceae]]
+**Modern family**: [[Asparagaceae]] subfam. Nolinoideae — *Dracaenaceae* as circumscribed here is superseded; see [[Dracaenaceae]]
 **Protologue**: Bot. Jahrb. Syst. 15 : 479 (1892)
 
 ## Synonyms
@@ -71,3 +71,4 @@ A B C D Leeuwenberg, Naturalis Biodiversity Center © ; D by Ehoarn Bidault).
 - [[Dracaena]]
 - [[Dracaenaceae]]
 - [[vol54]]
+- [[Asparagaceae]] — where this taxon now belongs

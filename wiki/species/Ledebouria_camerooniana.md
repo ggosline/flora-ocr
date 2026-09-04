@@ -18,7 +18,7 @@ tags: [species, generated, superseded-circumscription]
 
 **Genus**: [[Ledebouria]]
 **Family**: [[Hyacinthaceae]]
-**Modern family**: **Asparagaceae** subfam. Scilloideae — *Hyacinthaceae* as circumscribed here is superseded; see [[Hyacinthaceae]]
+**Modern family**: [[Asparagaceae]] subfam. Scilloideae — *Hyacinthaceae* as circumscribed here is superseded; see [[Hyacinthaceae]]
 **Protologue**: Phyton (Horn) 38(1) : 105 (1998)
 
 ## Synonyms
@@ -52,3 +52,4 @@ in coastal savannas and pond margins, on dry and wet soils; in Gabon at 0–250 
 - [[Ledebouria]]
 - [[Hyacinthaceae]]
 - [[vol40]]
+- [[Asparagaceae]] — where this taxon now belongs

@@ -21,7 +21,7 @@ tags: [species, generated, superseded-circumscription]
 
 **Genus**: [[Bacopa]]
 **Family**: [[Scrophulariaceae]]
-**Modern family**: **Plantaginaceae** — *Scrophulariaceae* as circumscribed here is superseded; see [[Scrophulariaceae]]
+**Modern family**: [[Plantaginaceae]] — *Scrophulariaceae* as circumscribed here is superseded; see [[Scrophulariaceae]]
 **Protologue**: Nat. Pflanzenfam. 4(3b) : 77 (1891) (comme « Bacopa monniera »)
 
 ## Description
@@ -59,3 +59,4 @@ water hyssop (angl.). B : Aguilar (2001), Fischer (2006a), Philcox (1990). iblio
 - [[Bacopa]]
 - [[Scrophulariaceae]]
 - [[vol48]]
+- [[Plantaginaceae]] — where this taxon now belongs

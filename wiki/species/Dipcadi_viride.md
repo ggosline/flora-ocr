@@ -18,7 +18,7 @@ tags: [species, generated, superseded-circumscription]
 
 **Genus**: [[Dipcadi]]
 **Family**: [[Hyacinthaceae]]
-**Modern family**: **Asparagaceae** subfam. Scilloideae — *Hyacinthaceae* as circumscribed here is superseded; see [[Hyacinthaceae]]
+**Modern family**: [[Asparagaceae]] subfam. Scilloideae — *Hyacinthaceae* as circumscribed here is superseded; see [[Hyacinthaceae]]
 **Protologue**: Suppl. Meth. : 267 (1802)
 
 ## Description
@@ -48,3 +48,4 @@ herbaceous and shrubby savannas, often on shallow soils or in rocky places; in G
 - [[Dipcadi]]
 - [[Hyacinthaceae]]
 - [[vol40]]
+- [[Asparagaceae]] — where this taxon now belongs

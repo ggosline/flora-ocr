@@ -21,7 +21,7 @@ tags: [species, generated, superseded-circumscription]
 
 **Genus**: [[Dracaena]]
 **Family**: [[Dracaenaceae]]
-**Modern family**: **Asparagaceae** subfam. Nolinoideae — *Dracaenaceae* as circumscribed here is superseded; see [[Dracaenaceae]]
+**Modern family**: [[Asparagaceae]] subfam. Nolinoideae — *Dracaenaceae* as circumscribed here is superseded; see [[Dracaenaceae]]
 **Protologue**: Bull. Soc. Hist. Nat. Autun 10 : 669 (1897)
 
 ## Synonyms
@@ -75,3 +75,4 @@ bongo (batéké). B : Baker (1898), Damen et al. (2018), Kikufi et al. (2016), M
 - [[Dracaena]]
 - [[Dracaenaceae]]
 - [[vol54]]
+- [[Asparagaceae]] — where this taxon now belongs

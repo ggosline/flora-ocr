@@ -13,7 +13,7 @@ tags: [genus, generated, superseded-circumscription]
 # *Sopubia* Buch.-Ham. ex D.Don
 
 **Family**: [[Scrophulariaceae]]
-**Modern family**: **Orobanchaceae** — *Scrophulariaceae* as circumscribed here is superseded; see [[Scrophulariaceae]]
+**Modern family**: [[Orobanchaceae]] — *Scrophulariaceae* as circumscribed here is superseded; see [[Scrophulariaceae]]
 **Authority**: Buch.-Ham. ex D.Don
 **Protologue**: Prodr. fl. nepal . : 88 (1825)
 
@@ -51,3 +51,4 @@ ibliography
 
 - [[Scrophulariaceae]]
 - [[vol48]]
+- [[Orobanchaceae]] — where this taxon now belongs

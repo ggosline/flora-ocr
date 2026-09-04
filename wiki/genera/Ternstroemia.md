@@ -13,7 +13,7 @@ tags: [genus, generated, superseded-circumscription]
 # *Ternstroemia* Mutis ex L.f. , nom . cons .
 
 **Family**: [[Ternstroemiaceae]]
-**Modern family**: **Pentaphylacaceae** — *Ternstroemiaceae* as circumscribed here is superseded; see [[Ternstroemiaceae]]
+**Modern family**: [[Pentaphylacaceae]] — *Ternstroemiaceae* as circumscribed here is superseded; see [[Ternstroemiaceae]]
 **Authority**: Mutis ex L.f. , nom . cons .
 **Protologue**: Suppl. Pl. : 39, 264 (1782)
 
@@ -53,3 +53,4 @@ Fruit. (1-2: de Carvalho 5672; 3-5: de Carvalho 5588; 6: Breteler 13158). Drawin
 
 - [[Ternstroemiaceae]]
 - [[vol41]]
+- [[Pentaphylacaceae]] — where this taxon now belongs

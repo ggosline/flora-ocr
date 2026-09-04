@@ -13,7 +13,7 @@ tags: [genus, generated, superseded-circumscription]
 # *Phyllobotryon* Muell. Arg.
 
 **Family**: [[Flacourtiaceae]]
-**Modern family**: **Salicaceae** — *Flacourtiaceae* as circumscribed here is superseded; see [[Flacourtiaceae]]
+**Modern family**: [[Salicaceae]] — *Flacourtiaceae* as circumscribed here is superseded; see [[Flacourtiaceae]]
 **Authority**: Muell. Arg.
 **Protologue**: Flora 47 : 534 (1864) ; BAILL., BSLP 1 : 287 (1881) ; WARB., in ENGL. & PRANTL, NPF 3 (6a) : 38 (1893) ; GILG, EBJ 40 : 500 (1908) ; BAMPS, FCBR, Spermat., Flacourt. 1 : 43 (1968) ; LETOUZEY, HALLÉ & CUSSET, Adansonia, sér. 2, 9 (4) : 515 (1969) ; HUL, Bull. Mus. natl. Hist. nat. Paris, 4° sér., sect. B, Adansonia 13 (3-4) : 157 (1991)
 
@@ -54,3 +54,4 @@ The genus Phyllobotryon MUELL. ARG. is divided into two subgenera (HUL, 1991): s
 
 - [[Flacourtiaceae]]
 - [[vol34]]
+- [[Salicaceae]] — where this taxon now belongs

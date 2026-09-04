@@ -20,7 +20,7 @@ tags: [species, generated, superseded-circumscription]
 
 **Genus**: [[Limnophila]]
 **Family**: [[Scrophulariaceae]]
-**Modern family**: **Plantaginaceae** — *Scrophulariaceae* as circumscribed here is superseded; see [[Scrophulariaceae]]
+**Modern family**: [[Plantaginaceae]] — *Scrophulariaceae* as circumscribed here is superseded; see [[Scrophulariaceae]]
 
 ## Description
 
@@ -51,3 +51,4 @@ marshes and small pools; in Gabon, at 100 m elevation, in East Africa, up to 100
 - [[Limnophila]]
 - [[Scrophulariaceae]]
 - [[vol48]]
+- [[Plantaginaceae]] — where this taxon now belongs

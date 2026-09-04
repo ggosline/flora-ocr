@@ -21,7 +21,7 @@ tags: [species, generated, superseded-circumscription]
 
 **Genus**: [[Lindernia]]
 **Family**: [[Scrophulariaceae]]
-**Modern family**: **Linderniaceae** — *Scrophulariaceae* as circumscribed here is superseded; see [[Scrophulariaceae]]
+**Modern family**: [[Linderniaceae]] — *Scrophulariaceae* as circumscribed here is superseded; see [[Scrophulariaceae]]
 **Protologue**: Gratiola rotundifolia L., Mant. : 174 (1771)
 
 ## Description
@@ -51,3 +51,4 @@ swampy places in rainforest, marshes, edge of lakes and rivers, swampy ruderal p
 - [[Lindernia]]
 - [[Scrophulariaceae]]
 - [[vol48]]
+- [[Linderniaceae]] — where this taxon now belongs

@@ -13,7 +13,7 @@ tags: [genus, generated, superseded-circumscription]
 # *Bacopa* Aubl., nom. cons.
 
 **Family**: [[Scrophulariaceae]]
-**Modern family**: **Plantaginaceae** — *Scrophulariaceae* as circumscribed here is superseded; see [[Scrophulariaceae]]
+**Modern family**: [[Plantaginaceae]] — *Scrophulariaceae* as circumscribed here is superseded; see [[Scrophulariaceae]]
 **Authority**: Aubl., nom. cons.
 **Protologue**: Hist. pl. Guiane 1 : 128, t. 48 (1775)
 
@@ -54,3 +54,4 @@ B: Fischer (1999, 2004), Ghazanfar et al. (2008).
 
 - [[Scrophulariaceae]]
 - [[vol48]]
+- [[Plantaginaceae]] — where this taxon now belongs

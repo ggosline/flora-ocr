@@ -18,7 +18,7 @@ tags: [species, generated, superseded-circumscription]
 
 **Genus**: [[Flacourtia]]
 **Family**: [[Flacourtiaceae]]
-**Modern family**: **Salicaceae** — *Flacourtiaceae* as circumscribed here is superseded; see [[Flacourtiaceae]]
+**Modern family**: [[Salicaceae]] — *Flacourtiaceae* as circumscribed here is superseded; see [[Flacourtiaceae]]
 
 ## Description
 
@@ -57,3 +57,4 @@ Florence 72, Ipassa, 10 km S Makokou, env. 500 m alt., 23/3/1977, fr. (P). Wilks
 - [[Flacourtia]]
 - [[Flacourtiaceae]]
 - [[vol34]]
+- [[Salicaceae]] — where this taxon now belongs

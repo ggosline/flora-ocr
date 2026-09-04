@@ -20,7 +20,7 @@ tags: [species, generated, superseded-circumscription]
 
 **Genus**: [[Ornithogalum]]
 **Family**: [[Hyacinthaceae]]
-**Modern family**: **Asparagaceae** subfam. Scilloideae — *Hyacinthaceae* as circumscribed here is superseded; see [[Hyacinthaceae]]
+**Modern family**: [[Asparagaceae]] subfam. Scilloideae — *Hyacinthaceae* as circumscribed here is superseded; see [[Hyacinthaceae]]
 **Protologue**: O. tenuifolium F.Delaroche subsp. robustum Stedje, Nordic J. Bot. 4 : 758 (1984)
 
 ## Description
@@ -64,3 +64,4 @@ Flower (× 5). – 5. Stamen, external face (× 3.5). – 6. Stamen, internal fa
 - [[Ornithogalum]]
 - [[Hyacinthaceae]]
 - [[vol40]]
+- [[Asparagaceae]] — where this taxon now belongs

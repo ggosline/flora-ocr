@@ -21,7 +21,7 @@ tags: [species, generated, superseded-circumscription]
 
 **Genus**: [[Striga]]
 **Family**: [[Scrophulariaceae]]
-**Modern family**: **Orobanchaceae** — *Scrophulariaceae* as circumscribed here is superseded; see [[Scrophulariaceae]]
+**Modern family**: [[Orobanchaceae]] — *Scrophulariaceae* as circumscribed here is superseded; see [[Scrophulariaceae]]
 **Protologue**: Revis. gen. pl. 2 : 466 (1891)
 
 ## Synonyms
@@ -61,3 +61,4 @@ B: Fischer (2006b), Ghazanfar et al. (2008), Hepper (1963), Mielcarek (1996), Mo
 - [[Striga]]
 - [[Scrophulariaceae]]
 - [[vol48]]
+- [[Orobanchaceae]] — where this taxon now belongs

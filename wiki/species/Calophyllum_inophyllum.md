@@ -19,7 +19,7 @@ tags: [species, generated, superseded-circumscription]
 
 **Genus**: [[Calophyllum]]
 **Family**: [[Clusiaceae]]
-**Modern family**: **Calophyllaceae** — *Clusiaceae* as circumscribed here is superseded; see [[Clusiaceae]]
+**Modern family**: [[Calophyllaceae]] — *Clusiaceae* as circumscribed here is superseded; see [[Clusiaceae]]
 **Protologue**: Sp. pl. 1 : 513 (1753)
 
 ## Description
@@ -59,3 +59,4 @@ the mother after childbirth. The oils of takamaka are today the subject of indus
 - [[Calophyllum]]
 - [[Clusiaceae]]
 - [[vol45]]
+- [[Calophyllaceae]] — where this taxon now belongs

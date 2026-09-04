@@ -16,7 +16,7 @@ tags: [species, generated, superseded-circumscription]
 
 **Genus**: [[Scottellia]]
 **Family**: [[Flacourtiaceae]]
-**Modern family**: **Achariaceae** — *Flacourtiaceae* as circumscribed here is superseded; see [[Flacourtiaceae]]
+**Modern family**: [[Achariaceae]] — *Flacourtiaceae* as circumscribed here is superseded; see [[Flacourtiaceae]]
 **Protologue**: BSLP, n. s., 14 : 113 (1899) ; GILG, EBJ 40 : 448 (1908) ; A. CHEV., Vég. Ut. Afr. Trop. Fr. 9, Bois du Gabon : 56 (1917). TYPE : Klaine 630, Gabon (lecto-, isolecto-); Klaine 1119, Gabon (syn-)
 
 ## Description
@@ -84,3 +84,4 @@ Guillery 1186 SRF, Oguémoné, 19/10/1953 (P).
 - [[Scottellia]]
 - [[Flacourtiaceae]]
 - [[vol34]]
+- [[Achariaceae]] — where this taxon now belongs

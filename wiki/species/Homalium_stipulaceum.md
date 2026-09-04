@@ -15,7 +15,7 @@ tags: [species, generated, superseded-circumscription]
 
 **Genus**: [[Homalium]]
 **Family**: [[Flacourtiaceae]]
-**Modern family**: **Salicaceae** — *Flacourtiaceae* as circumscribed here is superseded; see [[Flacourtiaceae]]
+**Modern family**: [[Salicaceae]] — *Flacourtiaceae* as circumscribed here is superseded; see [[Flacourtiaceae]]
 
 ## Description
 
@@ -62,3 +62,4 @@ Le Testu 1969, Tchibanga, 7/1/1915, fl. (P). Touzet 107, N'koulounga, 12/12/1958
 - [[Homalium]]
 - [[Flacourtiaceae]]
 - [[vol34]]
+- [[Salicaceae]] — where this taxon now belongs

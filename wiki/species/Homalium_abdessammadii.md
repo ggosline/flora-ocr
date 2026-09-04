@@ -17,7 +17,7 @@ tags: [species, generated, superseded-circumscription]
 
 **Genus**: [[Homalium]]
 **Family**: [[Flacourtiaceae]]
-**Modern family**: **Salicaceae** — *Flacourtiaceae* as circumscribed here is superseded; see [[Flacourtiaceae]]
+**Modern family**: [[Salicaceae]] — *Flacourtiaceae* as circumscribed here is superseded; see [[Flacourtiaceae]]
 **Protologue**: Sitzungsber. Ges. Nat. Freunde Berlin : 130 (1880) ; WARB., in ENGL. & PRANTL, NPF 3 (6a) : 36 (1893) ; GILG, EBJ 40 : 494 (1908) ; SLEUMER, BJBB 43 : 309 (1973) ; (avec la collab. de BAMPS), FCBR, Flacourt. 2 : 12 (1976). TYPE : Schweinfurth 3954, Soudan (lecto-, isolecto-)
 
 ## Description
@@ -87,3 +87,4 @@ HYLLOBOTRYON 6.1 spathulatum, p. 24. 6.2 bracteatum, p. 26.
 - [[Homalium]]
 - [[Flacourtiaceae]]
 - [[vol34]]
+- [[Salicaceae]] — where this taxon now belongs

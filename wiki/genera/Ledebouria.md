@@ -13,7 +13,7 @@ tags: [genus, generated, superseded-circumscription]
 # *Ledebouria* Roth
 
 **Family**: [[Hyacinthaceae]]
-**Modern family**: **Asparagaceae** subfam. Scilloideae — *Hyacinthaceae* as circumscribed here is superseded; see [[Hyacinthaceae]]
+**Modern family**: [[Asparagaceae]] subfam. Scilloideae — *Hyacinthaceae* as circumscribed here is superseded; see [[Hyacinthaceae]]
 **Authority**: Roth
 **Protologue**: Nov. pl. sp. : 194 (1821)
 
@@ -53,3 +53,4 @@ Bibliography
 
 - [[Hyacinthaceae]]
 - [[vol40]]
+- [[Asparagaceae]] — where this taxon now belongs

@@ -13,7 +13,7 @@ tags: [genus, generated, superseded-circumscription]
 # *Ophiobotrys* Gilg
 
 **Family**: [[Flacourtiaceae]]
-**Modern family**: **Salicaceae** — *Flacourtiaceae* as circumscribed here is superseded; see [[Flacourtiaceae]]
+**Modern family**: [[Salicaceae]] — *Flacourtiaceae* as circumscribed here is superseded; see [[Flacourtiaceae]]
 **Authority**: Gilg
 **Protologue**: EBJ 40 : 514 (1908) ; in ENGL., PWA 3 (2) : 592 (1921) ; KEAY, in HUTCH. & DALZIEL, FWTA, ed. 2, 1 (1) : 189 (1954) ; SLEUMER (avec la collab. de BAMPS), FCBR, Spermat., Flacourt. 2 : 34 (1976)
 
@@ -51,3 +51,4 @@ Monotypic genus of tropical western and central Africa.
 
 - [[Flacourtiaceae]]
 - [[vol34]]
+- [[Salicaceae]] — where this taxon now belongs

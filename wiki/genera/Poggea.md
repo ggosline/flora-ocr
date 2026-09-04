@@ -13,7 +13,7 @@ tags: [genus, generated, superseded-circumscription]
 # *Poggea* Gürk
 
 **Family**: [[Flacourtiaceae]]
-**Modern family**: **Achariaceae** — *Flacourtiaceae* as circumscribed here is superseded; see [[Flacourtiaceae]]
+**Modern family**: [[Achariaceae]] — *Flacourtiaceae* as circumscribed here is superseded; see [[Flacourtiaceae]]
 **Authority**: Gürk
 **Protologue**: EBJ 18 : 162, t. 7 (1893) ; WARB., in ENGL. & PRANTL, NPF 3 (6a) : 16 (1893) ; GILG, in ENGL., PWA 3 (2) : 563 (1921) ; BAMPS, FCBR, Spermat., Flacourt. 1 : 11 (1968) ; SLEUMER, EBJ 94 (3) : 296 (1974)
 
@@ -54,3 +54,4 @@ Genus of tropical West and Central Africa comprising 3 species, of which 2 for t
 
 - [[Flacourtiaceae]]
 - [[vol34]]
+- [[Achariaceae]] — where this taxon now belongs

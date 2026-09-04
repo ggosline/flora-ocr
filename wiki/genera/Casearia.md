@@ -13,7 +13,7 @@ tags: [genus, generated, superseded-circumscription]
 # *Casearia* Jacq.
 
 **Family**: [[Flacourtiaceae]]
-**Modern family**: **Salicaceae** — *Flacourtiaceae* as circumscribed here is superseded; see [[Flacourtiaceae]]
+**Modern family**: [[Salicaceae]] — *Flacourtiaceae* as circumscribed here is superseded; see [[Flacourtiaceae]]
 **Authority**: Jacq.
 **Protologue**: Enum. Pl. Carib.: 4 (1760); MAST., in OLIV., FTA 2: 493 (1871); WARB., in ENGL. & PRANTL, NPF 3 (6a): 50 (1893); GILG, EBJ 40: 509 (1908); HUTCH. & DALZIEL, Kew Bull.: 213 (1928); EXELL, J. Bot. 67, suppl.: 188 (1929); SLEUMER, (avec la collab. de BAMPS), FCBR, Spermat., Flacourt. 2: 36 (1976)
 
@@ -59,3 +59,4 @@ Pantropical genus, comprising approximately 180 species, of which 2 for the Flor
 
 - [[Flacourtiaceae]]
 - [[vol34]]
+- [[Salicaceae]] — where this taxon now belongs

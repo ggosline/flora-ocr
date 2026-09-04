@@ -16,7 +16,7 @@ tags: [species, generated, superseded-circumscription]
 
 **Genus**: [[Dasylepis]]
 **Family**: [[Flacourtiaceae]]
-**Modern family**: **Achariaceae** — *Flacourtiaceae* as circumscribed here is superseded; see [[Flacourtiaceae]]
+**Modern family**: [[Achariaceae]] — *Flacourtiaceae* as circumscribed here is superseded; see [[Flacourtiaceae]]
 **Protologue**: Kew Bull.: 265 (1923); GILG, in ENGL. & PRANTL, NPF 21: 394 (1925); HUTCH., DALZIEL & CHIPP, in HUTCH. & DALZIEL, FWTA 1 (1): 159 (1927)
 
 ## Description
@@ -78,3 +78,4 @@ McPherson 16074, Ogooué-Ivindo, 0°40'S-11°50'E, env. 200 m alt., 16/1/1993, f
 - [[Dasylepis]]
 - [[Flacourtiaceae]]
 - [[vol34]]
+- [[Achariaceae]] — where this taxon now belongs

@@ -30,8 +30,8 @@ Two genera, five species. Like [[Flacourtiaceae]] and [[Scrophulariaceae]],
 
 | Genus | Species | Modern family |
 |-------|---------|---------------|
-| [[Celtis]] | 4 | Cannabaceae |
-| [[Trema]] | 1 | Cannabaceae |
+| [[Celtis]] | 4 | [[Cannabaceae]] |
+| [[Trema]] | 1 | [[Cannabaceae]] |
 
 ## Notes
 

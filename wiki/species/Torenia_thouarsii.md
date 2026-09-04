@@ -20,7 +20,7 @@ tags: [species, generated, superseded-circumscription]
 
 **Genus**: [[Torenia]]
 **Family**: [[Scrophulariaceae]]
-**Modern family**: **Linderniaceae** — *Scrophulariaceae* as circumscribed here is superseded; see [[Scrophulariaceae]]
+**Modern family**: [[Linderniaceae]] — *Scrophulariaceae* as circumscribed here is superseded; see [[Scrophulariaceae]]
 **Protologue**: Rev. gen. pl . 2 : 468 (1891)
 
 ## Description
@@ -50,3 +50,4 @@ frequented places, fields, Cyperus marshes, secondary ombrophilous forests; in G
 - [[Torenia]]
 - [[Scrophulariaceae]]
 - [[vol48]]
+- [[Linderniaceae]] — where this taxon now belongs

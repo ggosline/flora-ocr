@@ -17,7 +17,7 @@ tags: [species, generated, superseded-circumscription]
 
 **Genus**: [[Homalium]]
 **Family**: [[Flacourtiaceae]]
-**Modern family**: **Salicaceae** — *Flacourtiaceae* as circumscribed here is superseded; see [[Flacourtiaceae]]
+**Modern family**: [[Salicaceae]] — *Flacourtiaceae* as circumscribed here is superseded; see [[Flacourtiaceae]]
 **Protologue**: Mém. Soc. Bot. Fr. : 119 (1953) ; SLEUMER, BJBB 43 : 281 (1973). TYPES : Le Testu 7900, Gabon (lecto-, isolecto-); 7039, Gabon (syn-)
 
 ## Description
@@ -51,3 +51,4 @@ Le Testu 7039, env. Lastoursville, 14/3/1929, fr. (syntype, P); 7192, l. c., 15/
 - [[Homalium]]
 - [[Flacourtiaceae]]
 - [[vol34]]
+- [[Salicaceae]] — where this taxon now belongs

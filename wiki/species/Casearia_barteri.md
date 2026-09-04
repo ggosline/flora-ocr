@@ -17,7 +17,7 @@ tags: [species, generated, superseded-circumscription]
 
 **Genus**: [[Casearia]]
 **Family**: [[Flacourtiaceae]]
-**Modern family**: **Salicaceae** — *Flacourtiaceae* as circumscribed here is superseded; see [[Flacourtiaceae]]
+**Modern family**: [[Salicaceae]] — *Flacourtiaceae* as circumscribed here is superseded; see [[Flacourtiaceae]]
 
 ## Description
 
@@ -58,3 +58,4 @@ Aubréville 89, 6/9/1945, bout. fl. et fr. (P). Chevalier (leg. Fleury) 26432, l
 - [[Casearia]]
 - [[Flacourtiaceae]]
 - [[vol34]]
+- [[Salicaceae]] — where this taxon now belongs

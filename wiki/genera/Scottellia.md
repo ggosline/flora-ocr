@@ -13,7 +13,7 @@ tags: [genus, generated, superseded-circumscription]
 # *Scottellia* Oliv.
 
 **Family**: [[Flacourtiaceae]]
-**Modern family**: **Achariaceae** — *Flacourtiaceae* as circumscribed here is superseded; see [[Flacourtiaceae]]
+**Modern family**: [[Achariaceae]] — *Flacourtiaceae* as circumscribed here is superseded; see [[Flacourtiaceae]]
 **Authority**: Oliv.
 
 ## Diagnosis
@@ -46,3 +46,4 @@ Genus of tropical West and Central Africa, comprising 3 species, of which 1 for 
 
 - [[Flacourtiaceae]]
 - [[vol34]]
+- [[Achariaceae]] — where this taxon now belongs

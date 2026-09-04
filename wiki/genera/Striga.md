@@ -13,7 +13,7 @@ tags: [genus, generated, superseded-circumscription]
 # *Striga* Lour.
 
 **Family**: [[Scrophulariaceae]]
-**Modern family**: **Orobanchaceae** — *Scrophulariaceae* as circumscribed here is superseded; see [[Scrophulariaceae]]
+**Modern family**: [[Orobanchaceae]] — *Scrophulariaceae* as circumscribed here is superseded; see [[Scrophulariaceae]]
 **Authority**: Lour.
 **Protologue**: Fl. cochinch. 1 : 22 (1790)
 
@@ -67,3 +67,4 @@ Bibliography
 
 - [[Scrophulariaceae]]
 - [[vol48]]
+- [[Orobanchaceae]] — where this taxon now belongs

@@ -21,7 +21,7 @@ tags: [species, generated, superseded-circumscription]
 
 **Genus**: [[Ternstroemia]]
 **Family**: [[Ternstroemiaceae]]
-**Modern family**: **Pentaphylacaceae** — *Ternstroemiaceae* as circumscribed here is superseded; see [[Ternstroemiaceae]]
+**Modern family**: [[Pentaphylacaceae]] — *Ternstroemiaceae* as circumscribed here is superseded; see [[Ternstroemiaceae]]
 **Protologue**: Notizbl. Bot. Gart. Berlin 8 : 659 (1924)
 
 ## Description
@@ -57,3 +57,4 @@ in mangrove forest, forest-savanna edge, but also in savanna, on sandy soil; up 
 - [[Ternstroemia]]
 - [[Ternstroemiaceae]]
 - [[vol41]]
+- [[Pentaphylacaceae]] — where this taxon now belongs

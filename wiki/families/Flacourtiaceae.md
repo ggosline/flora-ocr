@@ -32,19 +32,19 @@ source.
 
 | Genus | Species | Modern family |
 |-------|---------|---------------|
-| [[Oncoba]] | 9 | Salicaceae |
-| [[Homalium]] | 9 | Salicaceae |
-| [[Poggea]] | 2 | Achariaceae |
-| [[Flacourtia]] | 2 | Salicaceae |
-| [[Casearia]] | 2 | Salicaceae |
-| [[Trichostephanus]] | 2 | Achariaceae |
-| [[Dovyalis]] | 1 | Salicaceae |
-| [[Ophiobotrys]] | 1 | Salicaceae |
-| [[Mocquerysia]] | 1 | Salicaceae |
-| [[Dasylepis]] | 1 | Achariaceae |
-| [[Buchnerodendron]] | 1 | Achariaceae |
-| [[Phyllobotryon]] | 2 | Salicaceae |
-| [[Scottellia]] | 1 | Achariaceae |
+| [[Oncoba]] | 9 | [[Salicaceae]] |
+| [[Homalium]] | 9 | [[Salicaceae]] |
+| [[Poggea]] | 2 | [[Achariaceae]] |
+| [[Flacourtia]] | 2 | [[Salicaceae]] |
+| [[Casearia]] | 2 | [[Salicaceae]] |
+| [[Trichostephanus]] | 2 | [[Achariaceae]] |
+| [[Dovyalis]] | 1 | [[Salicaceae]] |
+| [[Ophiobotrys]] | 1 | [[Salicaceae]] |
+| [[Mocquerysia]] | 1 | [[Salicaceae]] |
+| [[Dasylepis]] | 1 | [[Achariaceae]] |
+| [[Buchnerodendron]] | 1 | [[Achariaceae]] |
+| [[Phyllobotryon]] | 2 | [[Salicaceae]] |
+| [[Scottellia]] | 1 | [[Achariaceae]] |
 
 ## Notes
 
@@ -67,4 +67,4 @@ is the mapping.
 ## See also
 
 - [[vol34]]
-- Salicaceae, Achariaceae — the destination families
+- [[Salicaceae]], [[Achariaceae]] — the destination families

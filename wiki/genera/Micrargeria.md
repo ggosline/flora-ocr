@@ -13,7 +13,7 @@ tags: [genus, generated, superseded-circumscription]
 # *Micrargeria* Benth.
 
 **Family**: [[Scrophulariaceae]]
-**Modern family**: **Orobanchaceae** — *Scrophulariaceae* as circumscribed here is superseded; see [[Scrophulariaceae]]
+**Modern family**: [[Orobanchaceae]] — *Scrophulariaceae* as circumscribed here is superseded; see [[Scrophulariaceae]]
 **Authority**: Benth.
 
 ## Diagnosis
@@ -52,3 +52,4 @@ Bibliography
 
 - [[Scrophulariaceae]]
 - [[vol48]]
+- [[Orobanchaceae]] — where this taxon now belongs
