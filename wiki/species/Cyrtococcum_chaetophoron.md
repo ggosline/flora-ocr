@@ -1,15 +1,15 @@
 ---
 type: species
-name: Cyrtococcus chaetophorum
+name: Cyrtococcum chaetophoron
 authority: (Roem. et Schult.) Dandy.
-genus: Cyrtococcus
+genus: Cyrtococcum
 family: Gramineae
 vol: 05
 pages: 78-81
 source: sources/Gramineae_vol05_paddle
 tags: [species, generated]
 ---
-# *Cyrtococcus chaetophorum* (Roem. et Schult.) Dandy.
+# *Cyrtococcum chaetophoron* (Roem. et Schult.) Dandy.
 
 **Genus**: [[Cyrtococcum]]
 **Family**: [[Gramineae]]
@@ -27,11 +27,11 @@ tags: [species, generated]
 
 Culms rooted at the nodes, branched, erect up to 1 m tall. Leaf blades linear-lanceolate, acuminate, narrowed at the base, up to 15 × 1 cm, finely pubescent or glabrous.
 
-Terminal panicle, oblong, about twenty centimeters long, axes pubescent. Spikelets up to 2 mm long, very flattened laterally, olive-green. Glumes unequal, membranous, the lower one lanceolate acuminate, about half the length of the spikelet, the upper one as long as the spikelet, with 5 nerves, silky and rounded on the back. Upper floret with lemma similar to the upper glume, but with straight back and 3 or 5 nerves; palea more or less reduced, with 3 nerves.
+Terminal panicle, oblong, approximately twenty centimeters long, axes pubescent. Spikelets up to 2 mm long, very flattened laterally, olive-green. Glumes unequal, membranous, the lower lanceolate acuminate, approximately half the length of the spikelet, the upper as long as the spikelet, with 5 nerves, silky and rounded on the back. Upper floret with lemma similar to the upper glume, but with straight back and 3 or 5 nerves; palea more or less reduced, with 3 nerves.
 
 Upper floret semi-elliptic, acuminate, brown.
 
-Grass of woodlands, from humid forest zones of West Africa, of no practical importance.
+Herb of woodland understory, from humid forest zones of West Africa, of no practical importance.
 
 ## Specimens examined
 

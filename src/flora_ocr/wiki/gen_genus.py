@@ -79,7 +79,24 @@ NAME_CORRECTIONS = {
     "Colecaryon": "Coelocaryon",
     "Hypodaphns": "Hypodaphnis",
     "Rhapiostylis": "Rhaphiostylis",
+    "Cyrtococcus": "Cyrtococcum",
 }
+
+# Epithets the scan corrupted, keyed by the corrected binomial. The genus map
+# above cannot reach these: volume 5 prints "Cyrtococcus chaetophorum" for
+# *Cyrtococcum chaetophoron*, so fixing the genus still leaves a wrong ending.
+# Verified against the published name one at a time; nothing here is inferred
+# from shape.
+EPITHET_CORRECTIONS = {
+    "Cyrtococcum chaetophorum": "chaetophoron",
+}
+
+
+def correct_binomial(name: str) -> str:
+    """The published binomial for a species block's name."""
+    genus, _, epithet = name.partition(" ")
+    genus = NAME_CORRECTIONS.get(genus, genus)
+    return f"{genus} {EPITHET_CORRECTIONS.get(f'{genus} {epithet}', epithet)}".strip()
 
 # Names that look wrong but that this module will not presume to correct.
 SUSPECT_NAMES: set[str] = set()
@@ -243,7 +260,16 @@ def split_key(text: str) -> tuple[str, str]:
 
 
 def species_rows(blocks: list[dict], genus: str) -> list[dict]:
-    return [b for b in blocks if b["rank"] == "species" and b.get("genus") == genus]
+    """The species blocks of one genus, under either spelling of its name.
+
+    A genus page is filed under the corrected name, but its species blocks
+    still carry the corruption the scan printed -- volume 5's species sit under
+    `Cyrtococcus` while the page is `Cyrtococcum` -- so matching on the raw name
+    alone left the page saying no species were segmented for it.
+    """
+    return [b for b in blocks
+            if b["rank"] == "species"
+            and NAME_CORRECTIONS.get(b.get("genus"), b.get("genus")) == genus]
 
 
 KEYED_HEADING = "## Keyed but not treated"
@@ -352,7 +378,7 @@ def render(genus: str, entries: list[tuple[dict, dict]]) -> str:
         body.append("|---------|-----|-------|")
         seen_rows: set[str] = set()
         for s, t in species_all:
-            name = s["name"]
+            name = correct_binomial(s["name"])
             if name in seen_rows:
                 continue        # a variety is its own block; one row per species
             seen_rows.add(name)

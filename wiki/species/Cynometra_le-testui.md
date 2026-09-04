@@ -1,8 +1,8 @@
 ---
 type: species
-name: Cynomectra le-
+name: Cynometra le-
 authority: Testui (Pellegr.) Léonard
-genus: Cynomectra
+genus: Cynometra
 family: Leguminosae
 vol: 15
 pages: 69-70
@@ -11,7 +11,7 @@ habit: "tree"
 habitat: [riverine]
 tags: [species, generated]
 ---
-# *Cynomectra le-* Testui (Pellegr.) Léonard
+# *Cynometra le-* Testui (Pellegr.) Léonard
 
 **Genus**: [[Cynometra]]
 **Family**: [[Leguminosae]]

@@ -138,8 +138,7 @@ Fascicule 16: Annonaceae (1969): 219 F.
 | [[Ctenium]] | 1 |
 | [[Cymbopogon]] | 2 |
 | [[Cynodon]] | 1 |
-| [[Cyrtococcum]] | 0 |
-| [[Cyrtococcum]] | 2 |
+| [[Cyrtococcum]] | 1 |
 | [[Digitaria]] | 5 |
 | [[Diheteropogon]] | 1 |
 | [[Echinochloa]] | 2 |

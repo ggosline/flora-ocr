@@ -196,7 +196,7 @@
 - [[Zingiberaceae|Zingiberaceae]] — 45 species in Gabon
 - [[Zygophyllaceae|Zygophyllaceae]] — 0 species in Gabon
 
-## Genera (1132)
+## Genera (1131)
 
 - [[Abelmoschus|Abelmoschus]] — [[Malvaceae]]
 - [[Abrus|Abrus]] — [[Leguminosae]]
@@ -494,7 +494,6 @@
 - [[Cyperus|Cyperus]] — [[Cyperaceae]]
 - [[Cyphostemma|Cyphostemma]] — [[Vitaceae]]
 - [[Cyrtococcum|Cyrtococcum]] — [[Gramineae]]
-- [[Cyrtococcus|Cyrtococcus]] — [[Gramineae]]
 - [[Cyrtorchis|Cyrtorchis]] — [[Orchidaceae]]
 - [[Dacryodes|Dacryodes]] — [[Burseraceae]]
 - [[Dalbergia|Dalbergia]] — [[Leguminosae]]
@@ -1331,7 +1330,7 @@
 - [[Zingiber|Zingiber]] — [[Zingiberaceae]]
 - [[Zornia|Zornia]] — [[Leguminosae]]
 
-## Species (3836)
+## Species (3835)
 
 - [[Abelmoschus_caillei|Abelmoschus caillei]] — herb
 - [[Abelmoschus_esculentus|Abelmoschus esculentus]] — herb
@@ -2406,7 +2405,7 @@
 - [[Cylindropsis_parvifolia|Cylindropsis parvifolia]] — liana
 - [[Cymbopogon_citratus|Cymbopogon citratus]] — species page
 - [[Cymbopogon_densiflorus|Cymbopogon densiflorus]] — herb
-- [[Cynomectra_le-testui|Cynomectra le-]] — tree
+- [[Cynometra_le-testui|Cynometra le-]] — tree
 - [[Cynometra_luja|Cynometra luja]] — tree
 - [[Cynometra_mannii|Cynometra mannii]] — tree
 - [[Cynometra_nyangensis|Cynometra nyangensis]] — tree
@@ -2486,8 +2485,7 @@
 - [[Cyphostemma_adenocaule|Cyphostemma adenocaule]] — herb
 - [[Cyphostemma_adenopodum|Cyphostemma adenopodum]] — herb
 - [[Cyphostemma_ukerewense|Cyphostemma ukerewense]] — herb
-- [[Cyrtococcum_chaetophorum|Cyrtococcum chaetophorum]] — species page
-- [[Cyrtococcus_chaetophorum|Cyrtococcus chaetophorum]] — species page
+- [[Cyrtococcum_chaetophoron|Cyrtococcum chaetophoron]] — species page
 - [[Cyrtorchis_chailluana|Cyrtorchis chailluana]] — species page
 - [[Dacryodes_buttneri|Dacryodes büttneri]] — tree
 - [[Dacryodes_ebatom|Dacryodes ebatom]] — tree
@@ -3590,10 +3588,10 @@
 - [[Mammea_africana|Mammea africana]] — tree
 - [[Mangifera_indica|Mangifera indica]] — tree
 - [[Manikara_fouilloyana|Manikara fouilloyana]] — tree
-- [[Manikara_le-testui|Manikara le-]] — species page
 - [[Manikara_microphylla|Manikara microphylla]] — shrub
 - [[Manilkara_fouilloyana|Manilkara fouilloyana]] — tree
 - [[Manilkara_lacera|Manilkara lacera]] — tree
+- [[Manilkara_le-testui|Manilkara le-]] — species page
 - [[Manilkara_le_testui|Manilkara le-testui]] — species page
 - [[Manilkara_microphylla|Manilkara microphylla]] — shrub
 - [[Manilkara_welwitschii|Manilkara welwitschii]] — tree

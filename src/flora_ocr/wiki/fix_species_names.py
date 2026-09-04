@@ -21,11 +21,12 @@ from pathlib import Path
 
 from flora_ocr.flora import REPO_ROOT
 from flora_ocr.wiki.fix_links import LINK_CORRECTIONS
-from flora_ocr.wiki.gen_genus import NAME_CORRECTIONS
+from flora_ocr.wiki.gen_genus import EPITHET_CORRECTIONS, NAME_CORRECTIONS
 
 WIKI_DIR = REPO_ROOT / "wiki"
 
 CORRECTIONS = {**LINK_CORRECTIONS, **NAME_CORRECTIONS}
+
 
 
 def main(argv: list[str] | None = None) -> int:
@@ -36,18 +37,19 @@ def main(argv: list[str] | None = None) -> int:
 
     wiki = Path(args.dir)
     species_dir = wiki / "species"
-    renames: list[tuple[Path, Path, str, str]] = []
+    renames: list[tuple[Path, Path, str, str, str, str]] = []
 
     for path in sorted(species_dir.glob("*.md")):
-        genus = path.stem.split("_")[0]
-        right = CORRECTIONS.get(genus)
-        if not right:
+        genus, _, epithet = path.stem.partition("_")
+        right = CORRECTIONS.get(genus, genus)
+        right_epithet = EPITHET_CORRECTIONS.get(f"{right} {epithet}", epithet)
+        if right == genus and right_epithet == epithet:
             continue
-        target = species_dir / (path.name.replace(f"{genus}_", f"{right}_", 1))
+        target = species_dir / f"{right}_{right_epithet}.md"
         if target.exists():
             print(f"  SKIP {path.name}: {target.name} already exists")
             continue
-        renames.append((path, target, genus, right))
+        renames.append((path, target, genus, right, epithet, right_epithet))
 
     print(f"{len(renames)} species pages to refile")
     if args.dry_run:
@@ -56,12 +58,17 @@ def main(argv: list[str] | None = None) -> int:
         return 0
 
     link_map: dict[str, str] = {}
-    for src, dst, wrong, right in renames:
+    for src, dst, wrong, right, was, now in renames:
         text = src.read_text(encoding="utf-8")
         text = re.sub(rf"^(name:\s*){wrong}\b", rf"\g<1>{right}", text, flags=re.M)
         text = re.sub(rf"^(genus:\s*){wrong}$", rf"\g<1>{right}", text, flags=re.M)
         text = re.sub(rf"^(# \*){wrong}\b", rf"\g<1>{right}", text, flags=re.M)
         text = text.replace(f"[[{wrong}]]", f"[[{right}]]")
+        if now != was:
+            text = re.sub(rf"^(name:\s*{right}\s+){was}\b", rf"\g<1>{now}",
+                          text, flags=re.M)
+            text = re.sub(rf"^(# \*{right}\s+){was}\b", rf"\g<1>{now}",
+                          text, flags=re.M)
         dst.write_text(text, encoding="utf-8")
         src.unlink()
         link_map[src.stem] = dst.stem

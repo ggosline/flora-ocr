@@ -1,15 +1,15 @@
 ---
 type: species
-name: Manikara le-
+name: Manilkara le-
 authority: Testui Aubréville et Pellegrin.
-genus: Manikara
+genus: Manilkara
 family: Sapotaceae
 vol: 01
 pages: 32-34
 source: sources/Sapotaceae_vol01_paddle
 tags: [species, generated]
 ---
-# *Manikara le-* Testui Aubréville et Pellegrin.
+# *Manilkara le-* Testui Aubréville et Pellegrin.
 
 **Genus**: [[Manilkara]]
 **Family**: [[Sapotaceae]]
