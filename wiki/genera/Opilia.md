@@ -17,7 +17,7 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-### OPILIACEAE
+OPILIACEAE
 
 Shrubs or lianes with coriaceous leaves. Axillary or very slightly supra-axillary racemes; flowers solitary or fasciculate. Bracts of variable size, caducous, those of large size giving a strobiliferous aspect to the young inflorescence. Flowers tetra- or pentamerous. Calyx small. Petals borne by the receptacle, free, valvate, reflexed. Stamens alternate with alternipetalous glands (sometimes entire disc). Ovary uniovulate; ovule pendulous from an erect central placenta. Style short and fine. Drupe containing a seed with endosperm.
 

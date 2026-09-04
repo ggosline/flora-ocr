@@ -23,7 +23,7 @@ Inflorescences multiflorous, terminal and axillary, formed of racemes grouped in
 
 Samaras with lateral membranous wing and distinct dorsal wing.
 
-### Monotypic genus of tropical Africa.
+Monotypic genus of tropical Africa.
 
 ## Species in region
 

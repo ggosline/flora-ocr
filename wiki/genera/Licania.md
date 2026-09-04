@@ -18,7 +18,7 @@ tags: [genus, generated, superseded-circumscription]
 
 ## Diagnosis
 
-### subg. Afrolicania (Mildbraed) F. white & Prance, comb. et stat. nov.
+subg. Afrolicania (Mildbraed) F. white & Prance, comb. et stat. nov.
 
 — Afrolicania MILDBR., Notizbl. Bot. Gart. Mus. Berlin 7 : 483 (1921).
 

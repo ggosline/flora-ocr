@@ -23,7 +23,7 @@ This monotypic genus is present in Cameroon and Gabon.
 
 ---
 
-### J.-F. VILLIERS
+J.-F. VILLIERS
 
 Pentadiplandra has an unstable systematic position. It was first placed by BAILLON in the Tiliaceæ, then it was incorporated into the family Capparaceæ. Currently it constitutes the family Pentadiplandraceæ created by HUTCHINSON.
 

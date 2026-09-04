@@ -29,7 +29,7 @@ The corollas of certain flowers split unilaterally and appear ± zygomorphic; th
 
 # N. HALLÉ. — RUBIACEAE–GARDENIEAE
 
-### KEY TO AULACOCALYX
+KEY TO AULACOCALYX
 
 ## Key to the species
 

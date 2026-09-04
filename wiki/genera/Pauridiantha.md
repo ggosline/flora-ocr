@@ -21,13 +21,13 @@ Shrubs, small shrubs or small trees. Internodes frequently pubescent. Stipules e
 
 Type: P. canthiflora Hook. f. This genus, fairly extensive and moderately homogeneous, has as neighbors or "satellites" the small homogeneous genera Commitheca, Stelecantha and Poecilocalyx.
 
-### Exclusively African, this genus contained only
+Exclusively African, this genus contained only
 
 ---
 
 3 species in 1940. At that date Bremekamp supplemented it with a certain number of species which he removed from the genus Urophyllum Wall., this latter now having not a single African representative. In 1959, Hepper added a few units to Pauridiantha. Currently this genus contains 25 species distributed from Portuguese Guinea to Uganda, plus one species from Madagascar; 9 inhabit West Africa; 12 are Gabonese.
 
-### PAURIDIANTHA: KEY TO SPECIES
+PAURIDIANTHA: KEY TO SPECIES
 
 1. Branches slender; young internodes ca. 1 mm wide or less; stipules narrower than the branch, often subulate; inflorescences pauciflorous or at once pluriflorous and contracted.
 

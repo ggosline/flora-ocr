@@ -23,7 +23,7 @@ Inflorescences sometimes axillary, in terminal, biporous cymes with reduced brac
 
 Fruit dry, globose, with irregular dehiscence. Seeds laterally compressed, broadly obtriangular through extension of the raphe; hilum punctiform, brown persistent aril; embryo straight.
 
-### Chromosome number (O. dicellandroides): n = 12 (FAVARGER).
+Chromosome number (O. dicellandroides): n = 12 (FAVARGER).
 
 TYPE SPECIES: Ochthocharis javanica Bl., Java.
 

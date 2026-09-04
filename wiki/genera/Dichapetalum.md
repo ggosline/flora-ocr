@@ -39,7 +39,7 @@ TYPE: I. annonoides ROBERTY = Dichapetalum barteri ENGL.
 
 Lianes, lianescent shrubs or not or small trees with sympodial branching and growth by flush. Stems often showing phloem intrusions into the xylem cylinder. Branches hollow or not, often bearing scattered lenticels or aligned vertically.
 
-### Stipules caducous or persistent, entire or variously lobed or divided.
+Stipules caducous or persistent, entire or variously lobed or divided.
 
 Leaves in spiral arrangement on orthotropic shoots, but pseudo-distichous on plagiotrophic axes, strongly reduced and even absent on orthotropic axes of certain lianes; petioles relatively short; blade entire, pinnately nerved, almost always bearing, usually on the lower surface, orbicular glands generally flattened.
 

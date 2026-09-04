@@ -25,7 +25,7 @@ Genus of 4 species, of which 2 are circumtropical, one from tropical Africa and 
 
 Notes: Verdcourt (1970, 1971b) recognized 17 species in the genus Abrus, but we follow the taxonomic revision of Breteler (1960) who conceived a more variable notion of species. Boutique (1954) describes the stipules as caducous, Breteler (1960) names them persistent.
 
-### Bibliography
+Bibliography
 
 b: Boutique (1954), Breteler (1960), Lewis et al. (2005), Pellegrin (1949), Verdcourt (1970, 1971b).
 

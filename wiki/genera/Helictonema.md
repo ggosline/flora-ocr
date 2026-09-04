@@ -25,7 +25,7 @@ Inflorescences with a base of cymes without supplementary branching. Bracts larg
 
 Fruit dry with three mericarps dehiscent in 2 non-caducous valves. Carpellary locule lined with hairs. Seeds pubescent around the embryo; wing developed, bordered but not traversed by the raphe. No differentiated funicular sheaths but sometimes remnants of arils.
 
-### Monotypic genus of humid continental Africa.
+Monotypic genus of humid continental Africa.
 
 Etymology: from Greek Helis, Helicos, spiral, and Nema, thread. Allusion to the staminal filaments which coil in a spiral; given the banality of this character, the choice of the name is not very fortunate.
 

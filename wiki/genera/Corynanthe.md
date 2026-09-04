@@ -17,7 +17,7 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-### Small trees with entirely glabrous vegetative apparatus. Stipules caducous.
+Small trees with entirely glabrous vegetative apparatus. Stipules caducous.
 
 Inflorescences either terminal (C. paniculata, on leafy sometimes short branches), or axillary, then arising near the apex of a branch. Flowers numerous, small, briefly pedicellate or sessile, 3–6-merous. Calyx with small lobes. Corolla with narrow tube, with lobes ± deeply separated, pubescent along the median line of the inner face, bearing at the apex an appendage in the form of a wart, digitiform or filiform, less than 6 mm. Anthers exsert. Style glabrous far exceeding the throat, with capitate or ovate stigma. Disk absent. Ovary 2-locular. Placentas fleshy pendulous, bearing numerous imbricate ascending ovules.
 

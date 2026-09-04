@@ -31,7 +31,7 @@ According to C. B. Clarke the genus comprises 120 species mainly paleotropical; 
 
 ---
 
-### FLORA OF GABON
+FLORA OF GABON
 
 ## Key to the species
 

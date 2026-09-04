@@ -21,7 +21,7 @@ Annual or perennial herbs, often from humid places. Culms slender, creeping at t
 
 Inflorescence in a strongly branched panicle. Spikelets elliptic or orbicular. Glumes similar, or the upper one somewhat wider, reaching the length of the spikelet, or its 2/3. The two florets can be hermaphrodite, or the lower male and the upper hermaphrodite. Lemmas of the two florets similar, elliptic, obtuse, as large as the spikelet, membranous or coriaceous, sometimes pubescent, with 5 or 7 nerves. Paleas of the same length, with two nerves, their margin covered by those of the lemma.
 
-### Two small lodicules; 3 stamens; styles distinct.
+Two small lodicules; 3 stamens; styles distinct.
 
 Numerous species, in all tropical regions of the Globe, particularly in Asia.
 

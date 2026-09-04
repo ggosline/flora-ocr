@@ -19,7 +19,7 @@ tags: [genus, generated]
 
 Epiphytic, lithophytic or terrestrial plants, rather large. Pseudobulbs fasciculate, fusiform, wrinkled when old. Leaves at the apex of pseudobulbs, large, plicate. Inflorescence axillary, at the apex of pseudobulbs. Flowers showy. Sepals and petals spreading, similar in size, shape and colour. Labellum without spur. Gynostemium slender, arcuate. Pollinia 2, flattened dorsiventrally, ellipsoid, forked. Stigma entire, deeply concave. Rostellum short, truncate, broad. Tegula short and very broad, thin. Viscidium crescent-shaped, very narrow yet broad, sticky. – Pl. 134, p. 305.
 
-### Monotypic genus widely distributed in tropical and southern Africa.
+Monotypic genus widely distributed in tropical and southern Africa.
 
 ## Species in region
 

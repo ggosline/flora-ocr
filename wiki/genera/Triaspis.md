@@ -23,7 +23,7 @@ Inflorescences axillary or terminal, racemes, umbels, often grouped into panicle
 
 Samara with lateral wing membranous or coriaceous, orbicular or ovate, and with dorsal wing smaller or absent.
 
-### African genus comprising 15 species.
+African genus comprising 15 species.
 
 TYPE SPECIES: Triaspis hypericoides Burch., southern Africa.
 

@@ -17,7 +17,7 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-### Small rooting herbs.
+Small rooting herbs.
 
 Inflorescences of 2 to 3 flowers, subtended by caducous non-enveloping bracts. Flowers normally 5-merous (varying from 4 to 7); hypanthium campanulate, calyx lobes persistent. Stamens homomorphic, or slightly unequal; anthers broadly ovoid, or oblong, with a wide pore; podoconnective slightly shorter than the anther, slightly arched, with a 2-tuberculate frontal protuberance. Ovary adnate by its lower half; apex free, convex, glabrous; style sigmoid, stigma capitate; placentas cymbiform, stipitate.
 

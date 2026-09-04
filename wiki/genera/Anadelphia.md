@@ -22,7 +22,7 @@ tags: [genus, generated]
 
 2.4 trispiculata
 
-### ANDROPOGON
+ANDROPOGON
 
 3.1 auriculatus
 
@@ -46,7 +46,7 @@ tags: [genus, generated]
 
 3.9 schirensis
 
-### ARISTIDA
+ARISTIDA
 
 ANTHEPHORA
 

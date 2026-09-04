@@ -28,7 +28,7 @@ Sori linear, submarginous, covered by an indusium formed of 3 rows of cells. Pre
 
 Type species: (lectotype of Christensen): Pteris longifolia L. Approximately 250 species, tropical and subtropical; 6 in Gabon.
 
-### KEY TO PTERIS (cf. add. p. 119)
+KEY TO PTERIS (cf. add. p. 119)
 
 ## Key to the species
 

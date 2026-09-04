@@ -22,13 +22,13 @@ Small trees or more often shrubs with petiolate leaves, dentate or entire.
 
 Inflorescences in axillary or extra-axillary fascicles. Flowers unisexual. Perianth of ♀ flowers similar to that of ♂ flowers: sepals slightly imbricate, petals contorted. ♂ Flowers: 5 stamens alternate with petals, filaments strongly appressed against the pistillode, anthers introrse or lateral with longitudinal dehiscence; ovary reduced. ♀ Flowers: fleshy ovary, 2–5 uniovulate locules.
 
-### Fleshy drupe with lignified stone. Seeds ovoid or obtriangular.
+Fleshy drupe with lignified stone. Seeds ovoid or obtriangular.
 
 TYPE SPECIES: Microdesmis puberula Hook. f. ex Planchon.
 
 ---
 
-### PANDACE
+PANDACE
 
 # This genus is distributed from the Philippines to Indonesia and in Africa where 8 species are recorded. Highly allied, they are often difficult to identify.
 

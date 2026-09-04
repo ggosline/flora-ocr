@@ -19,7 +19,7 @@ tags: [genus, generated]
 
 Trees monocaulous, monoecious. Leaves large, multifoliolate, paripinnate. Inflorescences cauline or axillary, in spiciform racemes, multiflorous subsessile, multibracteolate; bracts linear, large. Floral characters very similar to those of the genus Chytranthus, but the filaments are somewhat swollen at the base and their pubescence is somewhat different. The disc is perpendicular to the axis of the floral pedicel. Fruit pyriform or globoid without rib (6-7 locules).
 
-### Monotypic genus closely related to Chytranthus.
+Monotypic genus closely related to Chytranthus.
 
 ## Species in region
 

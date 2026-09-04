@@ -29,7 +29,7 @@ This African genus contains 6 species of which 3 are present in Gabon and 1 only
 
 ---
 
-### ICACINACEAE
+ICACINACEAE
 
 2. Inflorescence 5-8 cm long; rachis glabrous; flowers sessile; sepals glabrous; petals sparsely pubescent ..... 2. I. claessensii
 

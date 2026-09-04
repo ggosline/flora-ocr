@@ -97,7 +97,7 @@ OTTOCHLOA
 
 44.1 nodosa
 
-### PANICUM
+PANICUM
 
 45. 1. brazzavillense
 
@@ -131,7 +131,7 @@ OTTOCHLOA
 
 45. 15. repens
 
-### PASPALUM
+PASPALUM
 
 ## Species in region
 

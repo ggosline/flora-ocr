@@ -34,7 +34,7 @@ E. calophylloides DC. with broad leaves 10-20 cm long,
 
 with subsessile and pubescent flowers, does not seem to reach Gabon.
 
-### KEY TO EUGENIA
+KEY TO EUGENIA
 
 1. Indigenous species; pedicels rarely exceeding 1 cm in length, mostly less than 5 mm.
 

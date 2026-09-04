@@ -33,7 +33,7 @@ they frequent especially the regions of savannas and dry forests there.
 
 3 species in Gabon.
 
-### KEY TO GARDENIA
+KEY TO GARDENIA
 
 ## Key to the species
 

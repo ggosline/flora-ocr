@@ -18,7 +18,7 @@ tags: [genus, generated]
 
 Rhizome long-creeping, covered with thick, black hairs. Petiole violet, glossy. Frond with continuous growth, bearing reduced pinnules, stipuliform, at the base of the pinnae. Veins reticulate.
 
-### Sori continuous, protected by the reflexed margin of the lamina, without internal indusium.
+Sori continuous, protected by the reflexed margin of the lamina, without internal indusium.
 
 Type species: Histopteris incisa (Thbg.) J. Smith.
 

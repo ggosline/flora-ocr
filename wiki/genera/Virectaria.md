@@ -42,7 +42,7 @@ Virecta paniculata and lutea named by G. Don in 1834 and from Sierra Leone could
 
 7 species, 6 of which are from Gabon. African genus distributed from Senegal to the region of the great eastern lakes.
 
-### KEY TO VIRECTARIA
+KEY TO VIRECTARIA
 
 1. Disc cylindrical with truncate apex, entire and persistent on fruit
 

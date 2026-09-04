@@ -35,7 +35,7 @@ We propose here three keys. The best identification requires complete material, 
 
 ---
 
-### A. - Specimens with flowers and fruits
+A. - Specimens with flowers and fruits
 
 1. Follicle obliquely pyriform, ≤ 3.5 cm long, mucro lateral, rarely almost apical; radicle apical in the seed.
 

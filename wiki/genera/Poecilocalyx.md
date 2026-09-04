@@ -25,7 +25,7 @@ Genus of 4 species, only two known from Gabon. It is very probable that the type
 
 <<<---SECTION-BREAK--->>>
 
-### KEY TO POECILOCALYX SPECIES
+KEY TO POECILOCALYX SPECIES
 
 1. Stipules pluri- or multifid; calyx with 5–7 lanceolate lobes 5–6 × 2–3 mm, hirsute pubescent externally; ovary with 4–5 locules clothed with long hairs; upper surface of limb glabrous (typical form) or pubescent; secondary veins 11–12 pairs (typical form) or only 8–10 pairs. P. Schumannii (pl. 49)
 

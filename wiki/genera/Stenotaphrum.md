@@ -27,7 +27,7 @@ Plants generally from the seashore, 2 species in Africa, one on the western coas
 
 61.1 secundatum
 
-### STREPTOGYNA
+STREPTOGYNA
 
 62.1 crinita
 
@@ -71,7 +71,7 @@ ZOYSIA
 
 70.1a matrella var. pacificaA-
 
-### Specimens collected after 1962
+Specimens collected after 1962
 
 The complete list of voucher collections from this update can be obtained by contacting the author directly at Wageningen.
 

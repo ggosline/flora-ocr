@@ -73,6 +73,41 @@ SPECIES_NUMBERED_RE = re.compile(
     rf'([{_UC}]?[{_LC}][{_LC}\-]{{1,}}|sp\.)'                    # epithet or sp.
 )
 
+# A numbered heading whose second word is an author, not an epithet:
+# "6. Phyllobotryon Muell. Arg." is a genus, and looks exactly like a species
+# to SPECIES_NUMBERED_RE. It arises where the OCR returns a genus heading in
+# title case instead of the volume's all-caps, which GENUS_HEAD_RE requires --
+# in Flacourtiaceae vol 34 it did so for a run of five, numbers 6 to 10, so
+# Phyllobotryon's generic description ended up on a species page called
+# "Phyllobotryon muell" and the genus page was left an empty stub.
+#
+# Only headings shaped "N. Genus Capitalised" are re-examined: a lowercase
+# epithet is never in doubt. Among those, an author is recognised by the
+# abbreviating period ("Muell.", "Oliv.") or by name. Capitalised epithets --
+# Klaineana, Gilletii, the historical honorifics -- match neither and stay
+# species, which is why the list is surnames rather than a shape.
+KNOWN_AUTHORS = {
+    "Stapf", "Harms", "Hua", "Gurk", "Gürk", "Gurke", "Gürke", "Gilg",
+    "Pierre", "Engl", "Baill", "Benth", "Hook", "Welw", "Oliv", "Mast",
+    "Exell", "Sleumer", "Breteler", "Pellegr", "Aubrev", "Aubrév", "Hutch",
+    "Dalziel", "Robyns", "Mildbr", "Rendle", "Sprague", "Keay", "Merr",
+    "Jacq", "Forssk", "Planch", "Radlk", "Chev", "Wild", "Schum", "Beauv",
+}
+SPECIES_AUTHOR_RE = re.compile(
+    rf'^(?:\d+|[IVX]{{1,4}})\.\s+([{_UC}][{_LC}]{{2,}})\s+'
+    rf'([{_UC}][{_LC}]+\.?)(?:\s|$)'
+)
+
+
+def _second_word_is_author(heading: str) -> bool:
+    """True where "N. Genus Word" names a genus and its author."""
+    m = SPECIES_AUTHOR_RE.match(heading)
+    if not m:
+        return False
+    word = m.group(2)
+    return word.endswith('.') or word in KNOWN_AUTHORS
+
+
 # Species (UNNUMBERED, undetermined): "Genus sp. [letter]"
 SPECIES_SP_RE = re.compile(
     rf'^([{_UC}][{_LC}]{{2,}})\s+sp\.'
@@ -119,6 +154,8 @@ def classify(heading_text: str):
 
     # 4. Species — numbered binomial (handles both lower and upper-case epithets)
     if SPECIES_NUMBERED_RE.match(t):
+        if _second_word_is_author(t):
+            return 'genus', 3      # "6. Phyllobotryon Muell. Arg."
         return 'species', 4
 
     # 4b. Species — unnumbered undetermined (Genus sp. A)

@@ -23,7 +23,7 @@ Genus with pantropical distribution, with approximately 350 species, of which 17
 
 Notes: In addition to the species treated, several others might be expected, notably T. villosa (L.) Pers., very widespread in Africa, T. paniculata Baker from West, Central and Southern Africa and present in Cameroon, T. purpurea (L.) Pers., a pantropical species so common, and T. candida (Roxb.) DC., considered as introduced in Cameroon. T. bracteolata Guill. & Perr. is cited by Descoings (1974a) from the Booué region, but we were unable to confirm it from herbarium specimens. These are the reasons why all these species appear in the key below.
 
-### Bibliography
+Bibliography
 
 B: Bosman & de Haas (1983), Botton & Hallé (1957), Brummitt et al. (2007), Chevalier (1937a), Cronquist (1954), Geesink (1984), Gillett (1971d), Lewis et al. (2005), Pellegrin (1949).
 

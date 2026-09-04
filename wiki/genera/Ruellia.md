@@ -29,7 +29,7 @@ oval or orbicular, attached to the retinacula by their angles, covered with hygr
 
 Type species: Ruellia tuberosus L., tropical America.
 
-### Genus known from almost all warm countries of the globe.
+Genus known from almost all warm countries of the globe.
 
 The taxonomy of African species is very uncertain and requires critical revision. The only species of the section Dipteracanthus (Nees) C.B.Cl. represented in Gabon belongs to a group for which the name R. patula Jacq. has been used, up to 1963 (F.W.T.A.), in a fairly broad sense. The scanty and very young material, without fully opened flowers or fruits, studied from Gabon appears to have received a correct specific attribution, but the still imperfect knowledge of the genus in Africa does not allow one to be absolutely certain. The flowers are considerably smaller than those described by G. Lindau in his original description, but the character is doubtless due to the immature state; moreover, the dimensions of the floral organs are susceptible to varying individually in a rather considerable manner; in the present case, this in no way affects the conclusions or taxonomic delimitations.
 

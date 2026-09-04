@@ -23,7 +23,7 @@ TYPE GENUS: Dodonæa L.
 
 This tribe comprises 3 genera localized in New Caledonia and Australia, and one pantropical genus Dodonæa.
 
-### 22. DODONÆA Linné
+22. DODONÆA Linné
 
 Gen., ed. 1, Append. Octandria: 341 (1737); RADLK., in ENGL., Pflanzenreich, Sapindaceae: 1350 (1933).
 
@@ -35,7 +35,7 @@ TYPE SPECIES: Dodonæa viscosa (L.) Jacq.
 
 Genus comprising more than 50 species in Australia, 1 in Madagascar, 1 in the Hawaiian Islands and finally one pantropical species: D. viscosa.
 
-### Dodonæa viscosa (Linné) Jacquin
+Dodonæa viscosa (Linné) Jacquin
 
 Enum. Pl. Carib.: 19 (1760); RADLK., in ENGL., Pflanzenreich, Sapindaceae: 1363 (1933). The synonymy occupies 4 pages of this work.
 
@@ -45,7 +45,7 @@ Shrub or small tree 3–5 m tall, glabrous, viscous, with yellowish bark peeling
 
 Inflorescence a raceme, compound and also leafy. Flowers with pedicel 5–6 mm; sepals 3 mm, greenish; 8 stamens included, anthers yellow, oblong, apiculate, filament glabrous very short. Capsule 2 cm, septifrage, with (2–) 3 (–4) meridian wings 3–4 mm broad. Seeds ovoid, lenticular, with caruncle capping the radical hilum. PL. 40, 12–17", p. 175.
 
-### Bentham distinguishes 3 varieties (Fl. Austr. 1: 476, 1863):
+Bentham distinguishes 3 varieties (Fl. Austr. 1: 476, 1863):
 
 — var. viscosa, the most widespread. Blade 8–12 × 3–4 cm.
 

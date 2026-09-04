@@ -25,7 +25,7 @@ Inflorescences axillary or cauline, simple or branched, formed of spikes of very
 
 Fruit bacciform, coriaceous, with 3 deep furrows or 3 well-separated lobes, sometimes winged; style persistent and possibly then subgynobasic; seed elliptic, laterally compressed, testa brown scrobiculate; embryo with erect cotyledons, starch reserve with brown tanniliferous cells, radicle small, inferior.
 
-### Type species: Pancovia bijuga Willd.
+Type species: Pancovia bijuga Willd.
 
 About a dozen species in tropical Africa; their definition is often imprecise because fruits are insufficiently known; some are not indicated in the key but annexed to the descriptions that follow.
 

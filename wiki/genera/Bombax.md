@@ -25,7 +25,7 @@ Inflorescences in fascicles or solitary flowers, often at the apex of defoliate 
 
 ---
 
-### BOMBACACEAE
+BOMBACACEAE
 
 inner whorl of 5 phalanges with 2 stamens each; anther medifixed, hippocrepiform or linear, monotheca. Ovary sessile.
 

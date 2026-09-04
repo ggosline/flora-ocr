@@ -31,7 +31,7 @@ Excluded species: O.³ platystylis Hiern (F.T.A. 3: 109, 1877). The type, Mann 1
 
 mixture with a few corollas of an indeterminate Oxyanthus; Oxyanthus leptactina Wernh. is a synonym of Leptactina Laurenitiana Dewèvre (cf. p. 80).
 
-### KEY TO OXYANTHUS
+KEY TO OXYANTHUS
 
 1. Base of leaf limbs very unequal (leaves of flowering axes only); limbs 17) 20–55 cm long, with 10–17 pairs of secondary veins; no domatia.
 

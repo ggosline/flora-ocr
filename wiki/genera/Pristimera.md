@@ -35,7 +35,7 @@ Greek etymology: from "pristis", saw, and "meros", (floral) part; allusion to th
 
 Genus of 24 species of which 8 or 9 in America, 4 in Madagascar and one in Indonesia (P. glaga (Korth.) Hallé). In Africa 13 species; 6 in Cameroon (3 to be sought); 3 in Gabon (5 others to be sought); Zaire comprises 8 or 9. Only three species are known from West Africa. Some species are insufficiently known due to their rarity.
 
-### KEY TO SUBGENERA AND SPECIES
+KEY TO SUBGENERA AND SPECIES
 
 1. Flowers urceolate to semi-rotate; sepals equal or subequal; petals suborbicular, ovate or oblong or provided with a broad claw or sessile; disk inconspicuous, lobed or angular, cupuliform or not (subgenus Pristimera).
 

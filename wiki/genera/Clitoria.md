@@ -17,7 +17,7 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-### Climbing herbs (in Gabon) or shrubs, sometimes small trees. Stipules persistent.
+Climbing herbs (in Gabon) or shrubs, sometimes small trees. Stipules persistent.
 
 Leaves imparipinnate; stipelles present or absent; leaflets (1–)3 to 9. Inflorescences axillary, in short racemes, few-flowered or sometimes flowers solitary or geminate; rachis not swollen at the insertion of the pedicels; bracts persistent, stipuliform. Flowers resupinate (turned 180°), large; bracteoles large; calyx bilabiate, upper lip bilobed, the lower with 3 lobes of which the median longer; corolla of brilliant colour, standard rounded, much wider than the other petals, wings and keel longly unguiculate, keel acute; stamens 10, diadelphous, 9 united and one free or nearly so, filaments alternating long and short, anthers equal; ovary with short stipe, multiovulate; style curved, flattened, pubescent, bearded on the lower surface below the stigma. Legume dehiscent, linear, straight, flattened to cylindric, multiseeded, sometimes furnished with 2 longitudinal ribs.
 

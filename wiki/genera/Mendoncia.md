@@ -29,7 +29,7 @@ Type species: Mendozia (sic) aspera Ruiz et Pavon (Peru).
 
 More than 90 species have been described from the tropics of America (cf. E. C. Leonard, Contrib. U. S. Nat. Herb. 31, 1: 11, 1951); 3 species from Madagascar (cf. R. Benoist, l. c. 139, 1944) and, according to a revision of the species of the African continent for the Flora of Gabon, the genus is represented in tropical Africa by 4 species; besides the 3 recognized for Gabon, there exists only M. combretoides (A. Chev.) R. Benoist, endemic to Ivory Coast.
 
-### KEY TO MENDONCIA
+KEY TO MENDONCIA
 
 1. Plants entirely glabrous; flowers rather large, in pseudo-fascicles axillary (30–45 flowers in a pseudo-fascicle) ... 1. M. Lindaviana.
 

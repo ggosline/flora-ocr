@@ -31,7 +31,7 @@ Fruits: capsules with (2)-3-(4) valves; seeds generally numerous, surrounded by 
 
 TYPE SPECIES: C. nitida Jacq.
 
-### Pantropical genus, comprising approximately 180 species, of which 2 for the Flora.
+Pantropical genus, comprising approximately 180 species, of which 2 for the Flora.
 
 ## Key to the species
 

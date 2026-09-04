@@ -19,7 +19,7 @@ tags: [genus, generated]
 
 Terrestrial herb with a short, vertical rhizome. Leaves in a basal rosette, petiolate. Inflorescence terminal. Flowers long and tubular, somewhat arched. Labellum with a long claw, very thick, with 2 basal lobules. Gynostemium sigmoid. Column foot oblique, fused to the ovary. Staminodes large, aliform, rather thick, fleshy. Clinandrium absent – Pl. 35, p. 77.
 
-### No information available on the pollination of this monotypic genus.
+No information available on the pollination of this monotypic genus.
 
 ## Species in region
 

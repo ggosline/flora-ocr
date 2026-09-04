@@ -23,7 +23,7 @@ Inflorescences in branched racemes, axillary or terminal, bearing stipitate cymu
 
 TYPE SPECIES: Laccodiscus ferrugineus (Bak.) Radlk.
 
-### Genus comprising 4 species from West Africa.
+Genus comprising 4 species from West Africa.
 
 ---
 

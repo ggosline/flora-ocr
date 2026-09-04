@@ -31,7 +31,7 @@ Genus widely distributed in Africa, Madagascar, and as far as India, comprising 
 
 Only one species is known from Gabon. Other species should be sought among those in the key below which are the most widespread in Africa.
 
-### KEY TO KOHAUTIA
+KEY TO KOHAUTIA
 
 1. Fruits with pedicels of (2)10-32 mm long.
 

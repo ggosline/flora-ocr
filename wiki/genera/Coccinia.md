@@ -17,7 +17,7 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-### (by Norbert HOLSTEIN)
+(by Norbert HOLSTEIN)
 
 Prodr. fl. Ind. orient.: 347 (1834).
 

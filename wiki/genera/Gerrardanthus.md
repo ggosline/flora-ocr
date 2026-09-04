@@ -19,7 +19,7 @@ tags: [genus, generated]
 
 Perennial herbs, dioecious; stems climbing, woody at the base. Tendrils apically bifid, spiraling above and below the branching point. Leaves entire; lamina ovate-cordate or 3- to 5-palmatilobate. Inflorescences: the male ones in pauci- or pluriflorous panicles; the female ones with solitary flowers or in pauciflorous panicles. Male flowers: ± zygomorphic, receptacle poorly developed; sepals small, dentiform; petals unequal; stamens 5, all monothec­ous, grouped in 2 pairs and a solitary one (often reduced to a staminode), locules straight, horizontal. Female flowers: perianth similar to that of male flowers; ovary elongate, trigonous, trilocular, ovules pendulous; styles 3, short. Fruits in elongate capsule, obconic or cratériform, trigonous, dehiscent at maturity by an apical 3-radiate slit. Seeds fusiform, compressed, with at their apex a broad membranous wing.
 
-### African genus of five species, one of which is in Gabon.
+African genus of five species, one of which is in Gabon.
 
 BIBLIOGRAPHY: Keraudren-Aymonin (1975).
 

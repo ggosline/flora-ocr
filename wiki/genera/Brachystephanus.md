@@ -16,7 +16,7 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-### Chr. G. Nees von Esenbeck, in DC, Prodr. II : 511 (1841).
+Chr. G. Nees von Esenbeck, in DC, Prodr. II : 511 (1841).
 
 Herbaceous plants often creeping or rooting at the base. Leaves petiolate, simple.
 

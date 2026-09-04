@@ -24,7 +24,7 @@ Axillary fascicles, multiflorous; bracts orbicular, lobed and ciliolate. Flower 
 
 Capsule septicide, generally with 3 fertile locules. Seed 1 per locule, provided with an aril at the apex. Embryo straight.
 
-### Monotypic African genus.
+Monotypic African genus.
 
 ---
 

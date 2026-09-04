@@ -17,7 +17,7 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-### Small perennial or annual herbs with slender culms, filiform leaves.
+Small perennial or annual herbs with slender culms, filiform leaves.
 
 Cylindric or more or less compressed racemes, solitary at the apex of culms, disarticulating at the level of each joint. Joints and pedicels more or less linear or claviform, enclosing between them the sessile spikelet.
 

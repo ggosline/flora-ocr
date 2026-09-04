@@ -29,7 +29,7 @@ Biparious cymes; quincuncial prefloration with perianth pieces covering at the a
 
 Fruit with 3 mericarps dissociating into 6 caducous valves. Winged seeds 2 per mericarp, with transalary raphe; cotyledons adherent or not to one another; radicle very reduced. Seeds inserted on a biauricular base that encloses the placental tubules.
 
-### Monotypic genus of humid continental Africa.
+Monotypic genus of humid continental Africa.
 
 Hybrid etymology, from simius, monkey, and cratos, power, by analogy with Simirestis and Hippocratea.
 

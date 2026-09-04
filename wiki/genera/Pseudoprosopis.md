@@ -18,27 +18,27 @@ tags: [genus, generated]
 
 10.2. claessensii, p. 71.
 
-### ENTADA
+ENTADA
 
 11.1. gigas, p. 74.
 
 11.2. mannii, p. 81.
 
-### ADENOPODIA
+ADENOPODIA
 
 12. scelerata, p. 83.
 
-### MIMOSA
+MIMOSA
 
 13.1. pigra, p. 87.
 
-### SCHANCKIA
+SCHANCKIA
 
 13.2. pudica, p. 90.
 
 14. leptocarpa, p. 94.
 
-### CALPOCALYX
+CALPOCALYX
 
 15.1. dinklagei, p. 97.
 

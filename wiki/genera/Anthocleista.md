@@ -17,7 +17,7 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-### Trees reaching 35 m in height, shrubs or lianas, completely glabrous.
+Trees reaching 35 m in height, shrubs or lianas, completely glabrous.
 
 Leaves opposite, in each pair equal or unequal, petiolate or sessile; bases of petioles united, often auriculate; blade thin and fragile or coriaceous, entire or slightly crenulate.
 

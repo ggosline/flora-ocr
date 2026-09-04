@@ -24,7 +24,7 @@ Inflorescences axillary and terminal, generally in panicles. Bracts and bracteol
 
 Fruits formed of 1–3 samaras with suborbicular dorsal wing.
 
-### Genus essentially of tropical America with 80 species, one of which is African.
+Genus essentially of tropical America with 80 species, one of which is African.
 
 TYPE SPECIES: Heteropteris purpurea (L.) Kunth, Antilles.
 

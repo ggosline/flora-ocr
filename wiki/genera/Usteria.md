@@ -22,7 +22,7 @@ Climbing and twining shrubs or lianes, 0.60–12 (–30) m tall; stems cylindric
 
 Leaves opposite, equal in each pair, shortly petiolate; blade ± orbicular to elliptic, entire, glabrous on both surfaces; stipules reduced to an interpetiolar rim.
 
-### Terminal inflorescences, ± dichasial, many-flowered.
+Terminal inflorescences, ± dichasial, many-flowered.
 
 Flowers with pale green, pale yellow or cream calyx, often with small purple dots when dried; sepals 4, of which 3 very small and triangular and 1 much longer and narrowly oblong. Corolla lilac, mauve, violet, purple or white, often with yellow tint on the lobes, often with small purple dots when dried, narrowly tubular, puberulent without, like the calyx; tube cylindrical; lobes 4, subequal, valvate, spreading, narrowly triangular, acute, entire. Stamen 1, exserted, inserted near the corolla throat; anther elliptic, with 2 separate locules. Ovary superior, glabrous, globose or nearly so, 2-locular; style filiform, glabrous, exsert; stigma very small; one entire placenta with numerous ovules per locule.
 

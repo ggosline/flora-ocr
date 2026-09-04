@@ -29,7 +29,7 @@ corolla with 6–12 petals curved into a beak at apex, separating abruptly at an
 
 ---
 
-### R. LETOUZEY
+R. LETOUZEY
 
 the top, the shortest towards the interior; ovary globose, 3–5 locules biovulate, stigma excavate. Capsules subglobose or oblong-ovoid, normally monospermate; seed not tunicate with non-ruminate albumen.
 

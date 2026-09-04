@@ -27,7 +27,7 @@ Twelve species, all from humid intertropical Africa, 10 known between Bipindi an
 
 ---
 
-### PSEUDOSABICEA: KEY TO SPECIES
+PSEUDOSABICEA: KEY TO SPECIES
 
 1. Anisophylly strong or extreme: leaf base very clearly asymmetric; nerves rather less well clothed than the limb on the lower surface.
 

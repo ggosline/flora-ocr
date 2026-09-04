@@ -29,7 +29,7 @@ Type of the genus: Hymenodictyon excelsum Wall. from Malesia.
 
 About twenty tropical species from Asia, Indonesia, Madagascar and Africa. Two Gabonese species. A third, H. pachyantha K. Krause, known from Côte-d'Ivoire to S.E. Cameroon, to be sought in Gabon.
 
-### KEY TO THE HYMENODICTYON
+KEY TO THE HYMENODICTYON
 
 ## Key to the species
 

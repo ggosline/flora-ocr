@@ -31,7 +31,7 @@ Lianes or sarmentose shrubs. Branches cylindrical or very slightly lobed; wood a
 
 Leaves imparipinnate; leaflets opposite or subopposite, entire, symmetric or nearly so; venation resolving into a dense system of fine parallel veinules.
 
-### Inflorescences axillary in panicles or racemes.
+Inflorescences axillary in panicles or racemes.
 
 Flowers 5-merous, heterotrior heterodistylous, reddish to yellow. Sepals connate at the base, valvate in bud. Petals longer than the sepals, free, imbricate in bud. Androgynophore short but distinct. Stamens in 2 cycles, free, the 5 antisepalous longer than the antipetalous. Pistil with 5 free carpels.
 
@@ -39,7 +39,7 @@ Fruits: follicles 1–5 per flower, base constricted, apex beaked or not, interi
 
 Seed solitary, subovoid, attached to the ventral suture; testa shiny and entirely fleshy (sarcotesta) or with a thin part on the dorsal side, sarcotesta bearing a filiform appendage connecting the seed to the base of the follicle; hilum ventral; radicle apical; embryo with thin flat clearly-nerved cotyledons, entirely enclosed in abundant albumen.
 
-### Germination currently considered epigeal.
+Germination currently considered epigeal.
 
 This genus comprises 4 species and a putative hybrid from humid tropical Africa. Its range extends from western Guinea to eastern Zaire and from the Central African Republic to northern Angola. In drier regions it is restricted to gallery forests. In Gabon, 3 species are recognized as well as this hybrid.
 

@@ -29,7 +29,7 @@ Genus exclusively western, well represented in Gabon by eight species, several o
 
 ---
 
-### KEY TO SECTIONS AND SPECIES
+KEY TO SECTIONS AND SPECIES
 
 1. Cymes solitary, erect, multiflorous; sepals with a subapical linear appendage; epigynous crown salient at maturity. Plant velutinous to hirsute (sect. Cincinnatiæ Engl.)
 

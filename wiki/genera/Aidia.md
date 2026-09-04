@@ -31,7 +31,7 @@ Old World tropical and extending to Australia. 13 species—of which 8 African, 
 
 known only from Bipindi, Yaoundé and Ndiki (Jacques-Félix 2560); with calyx longly tubulous like the preceding, this species differs from it mainly by its obovate calyxinal lobes.
 
-### KEY TO AIDIA
+KEY TO AIDIA
 
 1. Pseudoaxillary inflorescence appearing at the level of a caducous scale; inflorescence subsessile ± briefly branched.
 

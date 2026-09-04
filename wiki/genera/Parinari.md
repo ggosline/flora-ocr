@@ -35,7 +35,7 @@ Pantropical genus comprising 44 species, of which 6 in tropical Africa; 4 specie
 
 Large forest trees (P. excelsa, P. hypochrysea), tree of river margins (P. congensis) or small tree often gregarious in savanna (P. curatellifolia); P. capensis Harv., suffrutescent rhizomatous shrub of southern Africa, is known from Congo and extends as far as the Impfondo region.
 
-### (normal leaves and not from young plants or shoots)
+(normal leaves and not from young plants or shoots)
 
 ## Key to the species
 

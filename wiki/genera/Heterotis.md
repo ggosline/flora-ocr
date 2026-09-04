@@ -17,7 +17,7 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-### Perennial herbs (rooting, or geophytes) or shrublets.
+Perennial herbs (rooting, or geophytes) or shrublets.
 
 Cymes often diffuse at the apex of branches or united in leafy panicles or racemes. Flowers 4–5-merous; hypanthium either variously pubescent: simple, stellate, glandular hairs, setulous emergences, with or without intersepalar lobes; or glabrous and often then with 5 or 10 membranous lobes forming a calycle; sepals persistent. Stamens with pedoconnective in both whorls; ± dimorphic: the outer ones with a bifid appendage, the two lobes being obtuse, thick or auriculate, or appendage entire, claviform, sometimes the head 3-tuberculate; the inner ones with shorter pedoconnective and appendage. Ovary with convex or truncate apex; tomentose without a collarette; setulous with collarette; glabrous with or without 5-partite collarette; style filiform, stigma punctiform; placentas cymbiform.
 

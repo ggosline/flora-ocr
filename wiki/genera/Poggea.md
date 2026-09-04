@@ -20,11 +20,11 @@ tags: [genus, generated, superseded-circumscription]
 
 10.2 gossweileri, p. 38.
 
-### BUCHNERODENDRON
+BUCHNERODENDRON
 
 11.1 speciosum, p. 39.
 
-### ONCOBA
+ONCOBA
 
 12.1 brachyanthera, p. 43.
 

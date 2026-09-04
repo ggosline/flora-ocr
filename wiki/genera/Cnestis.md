@@ -37,7 +37,7 @@ We present here three keys. With complete material, having precisely both flower
 
 ---
 
-### A – For specimens with flowers and fruits
+A – For specimens with flowers and fruits
 
 1. Outer face of follicle with very short spiny hairs and long urticating hairs easily deciduous; petals equalling or exceeding the sepals.
 

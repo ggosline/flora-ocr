@@ -38,7 +38,7 @@ Type: from du Petit Thouars, Madagascar.
 
 Alston believes it is not justified to separate D. Vogelii from D. chaerophylloides; the shape of the segments and of the indusium are somewhat different in one and in the other, but perhaps this is only a matter of the degree of variability of the species.
 
-### Tropical and southern Africa. Mascarene Islands.
+Tropical and southern Africa. Mascarene Islands.
 
 ---
 

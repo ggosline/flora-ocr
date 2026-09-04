@@ -23,7 +23,7 @@ Sepals erect in ♂ flowers, persistent in ♀ flowers. Petals free. Stamens exe
 
 Capsule 3-valvate, with septicidal dehiscence.
 
-### Monotypic African genus.
+Monotypic African genus.
 
 ## Species in region
 

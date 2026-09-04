@@ -35,7 +35,7 @@ Two species not known from Gabon are to be sought there: Rothmannia hispida (K. 
 
 The floral biology and notably the mode of pollination of species with large pendulous flowers is not known; it is not excluded, anthesis being often nocturnal and the fragrance strong, that Chiroptera could play a role in this. This remark applies to a few other species namely Gardenia imperialis and Pseudogardenia Kalbreyeri.
 
-### ROTHMANNIA: KEY TO FLOWERS
+ROTHMANNIA: KEY TO FLOWERS
 
 1. Corolla with lobes overlapping towards the right.
 

@@ -22,7 +22,7 @@ Sapindaceae with 2 ovules per locule. Leaves paripinnate. Trees or shrubs with r
 
 TYPE GENUS: Doratoxylon Thou.
 
-### Tribe comprising 9 extra-African genera and 2 African genera.
+Tribe comprising 9 extra-African genera and 2 African genera.
 
 ## Key to the species
 

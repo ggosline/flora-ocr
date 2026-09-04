@@ -45,7 +45,7 @@ Germination epigeal and hypogeal.
 
 Circumtropical genus of 40 to 70 species living in forest and savanna. Most species are restricted to tropical rainforests. Eleven of twelve species present in Africa have been encountered in Gabon.
 
-### (mainly based on fruiting material)
+(mainly based on fruiting material)
 
 1. Fruit velvety.
 

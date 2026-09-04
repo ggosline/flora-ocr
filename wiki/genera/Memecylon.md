@@ -35,7 +35,7 @@ TYPE SPECIES: Memecylon capitellatum L., Sri Lanka.
 
 This genus extends to all intertropical regions of the Old World. The species of Gabon are still very poorly known. The best means of correct identification is to seek the real affinities of the species in question and to place them in their respective section.
 
-### KEY TO SECTIONS AND SPECIES
+KEY TO SECTIONS AND SPECIES
 
 1. Fruits globose, or transversely ovoid; leaves "uninerved": the convergent veins being scarcely or not visible and less than 2 mm from the margin; the transverse veins are likewise scarcely visible.
 

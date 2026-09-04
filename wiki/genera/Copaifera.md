@@ -31,7 +31,7 @@ Léonard exclusively from Gabon and Mayombé, and C. Baumiana subshrub from the 
 
 The two species present in Gabon, but uncommon, are easily distinguished. C. religiosa is a very large tree, one of the tallest in the forest of Gabon and Mayumbé, remarkable even from a great distance by its red heartwood. The leaflets of the two species have the same form and the same type of venation; those of C. Mildbraedii are generally smaller and more numerous, 20-40, against 10-16 in C. religiosa.
 
-### 1. Copaífera Mildbrædii Harms (Pl. 30, p. 135)
+1. Copaífera Mildbrædii Harms (Pl. 30, p. 135)
 
 Andem-éviné
 

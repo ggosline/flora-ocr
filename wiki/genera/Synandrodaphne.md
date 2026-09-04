@@ -29,7 +29,7 @@ Fruit capsular, bivalvate, very small, less than 4 mm, each valve showing the tr
 
 Type species: Synandrodaphne paradoxa Gilg, described from Cameroon (Mildbraed 4591).
 
-### Monotypic genus, known only from western equatorial Africa.
+Monotypic genus, known only from western equatorial Africa.
 
 We have retained this genus, like the genus Octolepis, in the family Thymelaeaceae, although various characters appear aberrant, at least among the other African representatives. However, the presence of a stem furnished with numerous fibres, the instability of the floral structure (tetramery with transitions to pentamery), the absence of a stem, the presence of an androecial tube which could be the equivalent of the cycle of petaloid glands or of the hypogynous cupule, the existence of a fruit fairly comparable to that of African Octolepis or New Caledonian Solmsia, are criteria that prompt us to maintain the genus Synandrodaphne in this family.
 

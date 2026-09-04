@@ -22,7 +22,7 @@ Type of the genus: Ocotea guianensis Aubl., Guyana.
 
 Lemée (Dictionnaire 4: 798, 1932) estimates the number of species at 280, distributed in the tropical regions of the entire world. For Africa, Kostermans described four species in 1938 and Robyns counted seven in 1960, of which five in the intertropical regions (the other two occurring one in the Canary Islands, the other in southeast Africa). Here is the key to the Ocotea of intertropical Africa (after Robyns, with supplements).
 
-### GENUS OCOTEA, KEY FOR INTERTROPICAL AFRICA
+GENUS OCOTEA, KEY FOR INTERTROPICAL AFRICA
 
 ## Key to the species
 

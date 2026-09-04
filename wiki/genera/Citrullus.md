@@ -24,7 +24,7 @@ Genus with six species in Africa, western Asia and the eastern Mediterranean reg
 
 BIBLIOGRAPHY: Achigan-Dako et al. (2015), Chomicki & Renner (2015), Jeffrey (1967), Keraudren (1967), Keraudren-Aymonin (1975), Schaefer & Renner (2011a).
 
-### Key to taxa
+Key to taxa
 
 1. - Fruit with red, pink or rarely white, sweet pulp; pericarp <5 mm thick; seed non-mucilaginous, non-marginate, 10–15 × 5–8 mm
 

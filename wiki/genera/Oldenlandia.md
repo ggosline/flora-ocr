@@ -27,7 +27,7 @@ Seed germination is obtained in 50-60 days from fresh seeds; this time can be re
 
 Approximately 400 species according to the former concept of the genus. Currently about sixty species are counted in Africa, principally distributed in herbaceous tropical regions. 7 species in Gabon, including the type species O. corymbosa L.
 
-### KEY TO OLDENLANDIA
+KEY TO OLDENLANDIA
 
 1. Inflorescences pedunculate, cymose, pauciflorous or multiflorous; flowers blue, violet or white.
 

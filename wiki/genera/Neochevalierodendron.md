@@ -19,7 +19,7 @@ tags: [genus, generated]
 
 Inflorescences in racemes. Bracteoles petaloid, enveloping ± the bud but not valvate. Receptacle funnel-shaped. Sepals 4, imbricate. Petals 5 of which 2 minute and 3 large suborbicular. Stamens 10 united at the base. Ovary borne on a stipe united to the wall of the receptacle along its entire length. Ovules 2–4.
 
-### Woody legumes, nerved.
+Woody legumes, nerved.
 
 Type species: N. Stephanii (Chev.) Léonard.
 

@@ -33,7 +33,7 @@ This genus, which remained poorly known until around 1920, is close but well dis
 
 One excluded species, P. Talbotii Wernh., is a Corynanthe.
 
-### KEY TO PAUSINYSTALIA
+KEY TO PAUSINYSTALIA
 
 ## Key to the species
 

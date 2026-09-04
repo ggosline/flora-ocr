@@ -24,7 +24,7 @@ Herbs unifoliate, as in Acanthonema.
 
 Inflorescences arranged in acropetal series, at the apex of the hypocotyl and at the base of the nerve; peduncle unbranched, 5 cm long, without a bract at the base; cymes with flowers in pairs, branched unilaterally in the upper part. Pedicels as long as or longer than the flowers. Calyx divided very close to the base, into 5 segments. Corolla with a short, wide tube, expanded in the upper part; lobes 5, rounded, subequal or the 2 upper ones much smaller. Disk unilateral, oblique, distinctly shorter than the ovary. Fertile stamens 2; filaments arising from about or just below the middle of the corolla tube, usually extended beyond the anthers into an acute tooth; anther sacs divaricate. Staminode one, filiform. Ovary cylindrical, unilocular, with revolute lamellate placentas; style as long as the ovary, stigma bifid.
 
-### Capsule cylindrical, enclosed at the base in the calyx.
+Capsule cylindrical, enclosed at the base in the calyx.
 
 TYPE SPECIES: Trachystigma mannii C.B. Cl.
 

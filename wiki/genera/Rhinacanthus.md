@@ -17,7 +17,7 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-### Climbing or erect shrubs with entire leaves.
+Climbing or erect shrubs with entire leaves.
 
 Inflorescences terminal in rather few-flowered panicles, formed of divaricate cymes. Flowers solitary or grouped by 2–3. Bracts and bracteoles small. Calyx small with 5 ± deep segments linear-lanceolate with setaceous acumen. Corolla with long and attenuate tube, slightly widened near the apex, with spreading limb 2-lipped; the upper, inner in the bud, small, lanceolate, entire or bidentate, curved or twisted; the lower broad, plane trilobed, with median lobe outer in the bud. 2 stamens inserted near
 

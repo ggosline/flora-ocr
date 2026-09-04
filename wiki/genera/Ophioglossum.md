@@ -22,7 +22,7 @@ Type species: Ophioglossum vulgarum L.
 
 ---
 
-### FLORA OF GABON
+FLORA OF GABON
 
 ## Key to the species
 

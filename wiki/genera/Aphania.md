@@ -25,7 +25,7 @@ TYPE SPECIES: Aphania montana Blume.
 
 Endocarp cartilaginous, hardened; pollen ellipsoid subglobose; leaf epidermis without secretory cells; fruit cocci ellipsoid obovate (Section Pycnaphania Radlk.) — 1. A. senegalensis.
 
-### Endocarp cartilaginous, chartaceous; pollen triangular, flattened (Section Aphania)
+Endocarp cartilaginous, chartaceous; pollen triangular, flattened (Section Aphania)
 
 According to LEENHOUTS, these 21 species would be reduced to 3, the first being
 

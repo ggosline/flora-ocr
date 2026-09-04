@@ -30,7 +30,7 @@ All Gabon Stipularia belong to the type species of the genus. A second species S
 
 Stipularia gabonica Hiern, to be excluded, is a Sabicea.
 
-### KEY TO STIPULARIA
+KEY TO STIPULARIA
 
 ## Key to the species
 

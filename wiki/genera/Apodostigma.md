@@ -23,7 +23,7 @@ Inflorescences axillary in dichotomous cymes: at each fork a terminal flower and
 
 Fruits and seeds altogether similar to those of Reissantia indica, but cotyledons not distinctly veined.
 
-### African and Malagasy monotypic genus.
+African and Malagasy monotypic genus.
 
 Greek etymology: from "apodos", sessile and "stigma", stigma.
 

@@ -28,7 +28,7 @@ moderately reticulate exine. Style filiform moderately thickened at the level of
 
 Fruit berry-like globoid, multiseeded. Seeds large, lenticular.
 
-### Monotypic genus of West Africa.
+Monotypic genus of West Africa.
 
 ## Species in region
 

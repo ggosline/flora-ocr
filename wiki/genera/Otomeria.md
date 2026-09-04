@@ -27,7 +27,7 @@ Type of the genus: Otomeria guineensis Bentham. A related genus, Pentas, not kno
 
 Eight intertropical African species, 5 in Gabon.
 
-### KEY TO OTOMERIA
+KEY TO OTOMERIA
 
 ## Key to the species
 

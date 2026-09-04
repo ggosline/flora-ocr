@@ -35,7 +35,7 @@ These are herbs generally of small size, often characteristic of poor soils.
 
 ---
 
-### 1. Robeguinea hamata (Stapf.) J.-Fél.
+1. Robeguinea hamata (Stapf.) J.-Fél.
 
 = Anadelphia hamata Stapf.
 

@@ -27,7 +27,7 @@ This genus long misunderstood comprises 6 species, mostly Gabonese, perigabonese
 
 ---
 
-### ECPOMA: KEY TO THE SPECIES
+ECPOMA: KEY TO THE SPECIES
 
 ## Key to the species
 

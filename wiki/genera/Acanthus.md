@@ -23,7 +23,7 @@ Inflorescences in terminal ± dense spikes, provided with bracts and bracteoles.
 
 Type species: Acanthus mollis L., Mediterranean region.
 
-### Subtropical countries and Tropics of the Old World. Approximately 20 species.
+Subtropical countries and Tropics of the Old World. Approximately 20 species.
 
 1. Leaves more or less deeply pinnatifid, dentate-lobed, or in young individuals, subentire, but always in this case slightly denticulate towards the base; bracteoles spinose. 1. A. montanus.
 

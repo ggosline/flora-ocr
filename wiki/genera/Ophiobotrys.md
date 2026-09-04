@@ -29,7 +29,7 @@ Fruits: capsules with 3 valves; seeds 1-2.
 
 TYPE SPECIES: O. zenkeri GILG.
 
-### Monotypic genus of tropical western and central Africa.
+Monotypic genus of tropical western and central Africa.
 
 ## Species in region
 

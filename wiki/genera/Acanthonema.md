@@ -23,7 +23,7 @@ Inflorescence developing in acropetal series at the apex of the hypocotyl and at
 
 ---
 
-### GESNERIACEAE
+GESNERIACEAE
 
 narrow tooth; anther with divaricate thecae, coherent, facing each other; usually with a short tooth, reflexed downward, on the back of the connective. Staminodes 2, usually well developed, flattened, curved. Ovary conical, bilocular, placental laminae entirely ovuliferous; style approximately four times as long as the ovary, somewhat enlarged below the apex, stigma shortly bifid.
 

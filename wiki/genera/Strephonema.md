@@ -17,7 +17,7 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-### Large or small trees.
+Large or small trees.
 
 Leaves alternate, simple and entire, often bearing glands on the margins (stipitate glands near the petiole); penninerved. Large lateral veins, at least the upper ones, anastomosing a few mm from the margin; tertiary veins semiparallel and almost perpendicular to the midvein.
 

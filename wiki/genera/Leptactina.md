@@ -33,7 +33,7 @@ Nearly 25 species from tropical Africa, most from regions of dense forest. 2 spe
 
 The beauty of the floral bouquets is worth emphasizing for a possible horticultural use of these plants.
 
-### KEY TO LEPTACTINA
+KEY TO LEPTACTINA
 
 1. Stipules gibbose-cucullate and refracted; sepals elliptic, c. 2–6 × 0.4–1 cm.
 

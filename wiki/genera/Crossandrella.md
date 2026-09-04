@@ -16,7 +16,7 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-### C. B. Clarke, Bull. Misc. Inform. Kew 1906 : 251 (1906).
+C. B. Clarke, Bull. Misc. Inform. Kew 1906 : 251 (1906).
 
 Shrubs with elongate entire leaves.
 

@@ -31,7 +31,7 @@ Bibliography: Goetghebeur (1998), Haines & Lye (1983), Kern (1961, 1974), Napper
 
 a b
 
-### Eleocharis confervoides (Couteau 1078, Democratic Republic of the Congo).
+Eleocharis confervoides (Couteau 1078, Democratic Republic of the Congo).
 
 ## Species in region
 

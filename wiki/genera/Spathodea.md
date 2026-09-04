@@ -25,7 +25,7 @@ Fruit a narrowly oblong-elliptic capsule, valves keeled, narrowed at the extremi
 
 TYPE SPECIES: S. campanulata P.B.
 
-### Monotypic genus of tropical Africa.
+Monotypic genus of tropical Africa.
 
 ## Species in region
 
