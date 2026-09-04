@@ -4,15 +4,17 @@ name: Cola hypochrysea
 authority: K. Schumann.
 genus: Cola
 family: Sterculiaceae
+modern_family: Malvaceae s.l.
 vol: 02
 pages: 52-53
 source: sources/Sterculiaceae_vol02_paddle
-tags: [species, generated]
+tags: [species, generated, superseded-circumscription]
 ---
 # *Cola hypochrysea* K. Schumann.
 
 **Genus**: [[Cola]]
 **Family**: [[Sterculiaceae]]
+**Modern family**: [[Malvaceae]] s.l. — *Sterculiaceae* as circumscribed here is superseded; see [[Sterculiaceae]]
 **Protologue**: K. Schum., Notizbl. Berl. II : 306 (1899) et Sterc. Afr. : 131, t. XV, fig. A (1900)
 
 ## Description
@@ -54,3 +56,4 @@ Leaf glabrous with at most a few short hairs at the apex of the petiole; ovary c
 - [[Cola]]
 - [[Sterculiaceae]]
 - [[vol02]]
+- [[Malvaceae]] — where this taxon now belongs

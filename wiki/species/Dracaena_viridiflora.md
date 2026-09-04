@@ -4,6 +4,7 @@ name: Dracaena viridiflora
 authority: Engl. & K.Krause Planche 16(5–9)
 genus: Dracaena
 family: Dracaenaceae
+modern_family: Asparagaceae subfam. Nolinoideae
 vol: 54
 pages: 57-57
 source: sources/Dracaenaceae_vol54_liteparse
@@ -13,12 +14,13 @@ subdivisions:
   Gabon: [Moyen-Ogooué, Ngounié, Nyanga, Ogooué-Ivindo, Ogooué-Lolo, Ogooué-Maritime, Woleu-Ntem]
 habit: "tree"
 altitude_m: "0–1000"
-tags: [species, generated]
+tags: [species, generated, superseded-circumscription]
 ---
 # *Dracaena viridiflora* Engl. & K.Krause Planche 16(5–9)
 
 **Genus**: [[Dracaena]]
 **Family**: [[Dracaenaceae]]
+**Modern family**: [[Asparagaceae]] subfam. Nolinoideae — *Dracaenaceae* as circumscribed here is superseded; see [[Dracaenaceae]]
 **Protologue**: Bot. Jahrb. Syst. 45 : 153 (1910)
 
 ## Synonyms
@@ -52,3 +54,4 @@ rather open and dry forest, also in dwarf forest and at the edges of rivers; in 
 - [[Dracaena]]
 - [[Dracaenaceae]]
 - [[vol54]]
+- [[Asparagaceae]] — where this taxon now belongs

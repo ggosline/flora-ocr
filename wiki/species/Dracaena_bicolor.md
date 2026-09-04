@@ -4,6 +4,7 @@ name: Dracaena bicolor
 authority: Hook. Planche 5
 genus: Dracaena
 family: Dracaenaceae
+modern_family: Asparagaceae subfam. Nolinoideae
 vol: 54
 pages: 21-23
 source: sources/Dracaenaceae_vol54_liteparse
@@ -13,12 +14,13 @@ subdivisions:
   Gabon: [Estuaire, Moyen-Ogooué, Ngounié, Ogooué-Ivindo, Ogooué-Lolo, Woleu-Ntem]
 habit: "shrub"
 altitude_m: "5–800"
-tags: [species, generated]
+tags: [species, generated, superseded-circumscription]
 ---
 # *Dracaena bicolor* Hook. Planche 5
 
 **Genus**: [[Dracaena]]
 **Family**: [[Dracaenaceae]]
+**Modern family**: [[Asparagaceae]] subfam. Nolinoideae — *Dracaenaceae* as circumscribed here is superseded; see [[Dracaenaceae]]
 **Protologue**: Bot. Mag. 87 : t. 5248 (1861)
 
 ## Synonyms
@@ -56,3 +58,4 @@ The species often spreads by fallen branches that root rapidly, thus forming lar
 - [[Dracaena]]
 - [[Dracaenaceae]]
 - [[vol54]]
+- [[Asparagaceae]] — where this taxon now belongs

@@ -3,15 +3,17 @@ type: genus
 name: Hippobroma
 authority: G.Don
 family: Lobeliaceae
+modern_family: Campanulaceae subfam. Lobelioideae
 species_in_region: 1
 treatments:
   - vol: 40
     source: sources/Lobeliaceae_vol40_liteparse
-tags: [genus, generated]
+tags: [genus, generated, superseded-circumscription]
 ---
 # *Hippobroma* G.Don
 
 **Family**: [[Lobeliaceae]]
+**Modern family**: [[Campanulaceae]] subfam. Lobelioideae — *Lobeliaceae* as circumscribed here is superseded; see [[Lobeliaceae]]
 **Authority**: G.Don
 **Protologue**: Gen. hist. 3 : 717 (1834)
 
@@ -49,3 +51,4 @@ Bibliography
 
 - [[Lobeliaceae]]
 - [[vol40]]
+- [[Campanulaceae]] — where this taxon now belongs

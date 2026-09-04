@@ -4,6 +4,7 @@ name: Trema orientale
 authority: (L.) Blume Planche 35
 genus: Trema
 family: Ulmaceae
+modern_family: Cannabaceae
 vol: 58
 pages: 129-131
 source: sources/Ulmaceae_vol58_liteparse
@@ -12,12 +13,13 @@ in_region: true
 habit: "tree"
 habitat: [riverine]
 altitude_m: "0–690"
-tags: [species, generated]
+tags: [species, generated, superseded-circumscription]
 ---
 # *Trema orientale* (L.) Blume Planche 35
 
 **Genus**: [[Trema]]
 **Family**: [[Ulmaceae]]
+**Modern family**: [[Cannabaceae]] — *Ulmaceae* as circumscribed here is superseded; see [[Ulmaceae]]
 **Protologue**: Mus. bot . 2 : 62 (1856)
 
 ## Description
@@ -51,3 +53,4 @@ charcoal tree, pigeon wood (angl.) ; déwisikè (bakèlè) ; divèsèkó (bésé
 - [[Trema]]
 - [[Ulmaceae]]
 - [[vol58]]
+- [[Cannabaceae]] — where this taxon now belongs

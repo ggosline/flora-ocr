@@ -3,15 +3,17 @@ type: genus
 name: Waltheria
 authority: L.
 family: Sterculiaceae
+modern_family: Malvaceae s.l.
 species_in_region: 1
 treatments:
   - vol: 02
     source: sources/Sterculiaceae_vol02_paddle
-tags: [genus, generated]
+tags: [genus, generated, superseded-circumscription]
 ---
 # *Waltheria* L.
 
 **Family**: [[Sterculiaceae]]
+**Modern family**: [[Malvaceae]] s.l. — *Sterculiaceae* as circumscribed here is superseded; see [[Sterculiaceae]]
 **Authority**: L.
 **Protologue**: LINNÉ, Spec. Pl.: 673 (1753)
 
@@ -41,3 +43,4 @@ Approximately 45 species from a large number of tropical regions; especially num
 
 - [[Sterculiaceae]]
 - [[vol02]]
+- [[Malvaceae]] — where this taxon now belongs

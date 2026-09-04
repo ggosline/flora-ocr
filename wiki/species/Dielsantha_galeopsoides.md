@@ -4,6 +4,7 @@ name: Dielsantha galeopsoides
 authority: (Engl. & Diels) E.Wimm.
 genus: Dielsantha
 family: Lobeliaceae
+modern_family: Campanulaceae subfam. Lobelioideae
 vol: 40
 pages: 43-43
 source: sources/Lobeliaceae_vol40_liteparse
@@ -13,12 +14,13 @@ subdivisions:
   Gabon: [Estuaire, Ngounié]
 habit: "herb"
 altitude_m: "800"
-tags: [species, generated]
+tags: [species, generated, superseded-circumscription]
 ---
 # *Dielsantha galeopsoides* (Engl. & Diels) E.Wimm.
 
 **Genus**: [[Dielsantha]]
 **Family**: [[Lobeliaceae]]
+**Modern family**: [[Campanulaceae]] subfam. Lobelioideae — *Lobeliaceae* as circumscribed here is superseded; see [[Lobeliaceae]]
 **Protologue**: Ann. Naturhist. Mus. Wien 56 : 373 (1948)
 
 ## Synonyms
@@ -52,3 +54,4 @@ humid forests; between 320 and 800 m altitude. B: Wimmer (1953, 1963). i Bibliog
 - [[Dielsantha]]
 - [[Lobeliaceae]]
 - [[vol40]]
+- [[Campanulaceae]] — where this taxon now belongs

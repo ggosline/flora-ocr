@@ -4,6 +4,7 @@ name: Dracaena mannii
 authority: Baker Figure 3(A, B)
 genus: Dracaena
 family: Dracaenaceae
+modern_family: Asparagaceae subfam. Nolinoideae
 vol: 54
 pages: 41-43
 source: sources/Dracaenaceae_vol54_liteparse
@@ -14,12 +15,13 @@ subdivisions:
 habit: "tree"
 habitat: [primary forest]
 altitude_m: "0–900"
-tags: [species, generated]
+tags: [species, generated, superseded-circumscription]
 ---
 # *Dracaena mannii* Baker Figure 3(A, B)
 
 **Genus**: [[Dracaena]]
 **Family**: [[Dracaenaceae]]
+**Modern family**: [[Asparagaceae]] subfam. Nolinoideae — *Dracaenaceae* as circumscribed here is superseded; see [[Dracaenaceae]]
 **Protologue**: J. Bot. 12 : 164 (1874)
 
 ## Synonyms
@@ -74,3 +76,4 @@ D. nitens, D. perrottetii and D. usambarensis are closely related to D. mannii a
 - [[Dracaena]]
 - [[Dracaenaceae]]
 - [[vol54]]
+- [[Asparagaceae]] — where this taxon now belongs

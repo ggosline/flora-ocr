@@ -4,6 +4,7 @@ name: Hippobroma longiflora
 authority: (L.) G.Don
 genus: Hippobroma
 family: Lobeliaceae
+modern_family: Campanulaceae subfam. Lobelioideae
 vol: 40
 pages: 44-44
 source: sources/Lobeliaceae_vol40_liteparse
@@ -12,12 +13,13 @@ in_region: true
 subdivisions:
   Gabon: [Ngounié]
 habit: "herb"
-tags: [species, generated]
+tags: [species, generated, superseded-circumscription]
 ---
 # *Hippobroma longiflora* (L.) G.Don
 
 **Genus**: [[Hippobroma]]
 **Family**: [[Lobeliaceae]]
+**Modern family**: [[Campanulaceae]] subfam. Lobelioideae — *Lobeliaceae* as circumscribed here is superseded; see [[Lobeliaceae]]
 **Protologue**: Gen. Hist. 3: 717 (1834)
 
 ## Synonyms
@@ -45,3 +47,4 @@ Weed of gardens, perhaps formerly introduced as an ornamental. Use: the latex of
 - [[Hippobroma]]
 - [[Lobeliaceae]]
 - [[vol40]]
+- [[Campanulaceae]] — where this taxon now belongs

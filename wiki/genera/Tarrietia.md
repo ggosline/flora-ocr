@@ -3,15 +3,17 @@ type: genus
 name: Tarrietia
 authority: Bl.
 family: Sterculiaceae
+modern_family: Malvaceae s.l.
 species_in_region: 1
 treatments:
   - vol: 02
     source: sources/Sterculiaceae_vol02_paddle
-tags: [genus, generated]
+tags: [genus, generated, superseded-circumscription]
 ---
 # *Tarrietia* Bl.
 
 **Family**: [[Sterculiaceae]]
+**Modern family**: [[Malvaceae]] s.l. — *Sterculiaceae* as circumscribed here is superseded; see [[Sterculiaceae]]
 **Authority**: Bl.
 **Protologue**: Blume, Bijdr. Fl. Ned. Ind.: 227 (1825)
 
@@ -47,3 +49,4 @@ Tarrietia is clearly distinguished from neighbouring genera by the thin wing of 
 
 - [[Sterculiaceae]]
 - [[vol02]]
+- [[Malvaceae]] — where this taxon now belongs

@@ -4,6 +4,7 @@ name: Dracaena acutissima
 authority: Hua Planche 2, Figure 1(B, C)
 genus: Dracaena
 family: Dracaenaceae
+modern_family: Asparagaceae subfam. Nolinoideae
 vol: 54
 pages: 15-19
 source: sources/Dracaenaceae_vol54_liteparse
@@ -14,12 +15,13 @@ subdivisions:
 habit: "tree"
 habitat: [gallery forest, riverine]
 altitude_m: "350–600"
-tags: [species, generated]
+tags: [species, generated, superseded-circumscription]
 ---
 # *Dracaena acutissima* Hua Planche 2, Figure 1(B, C)
 
 **Genus**: [[Dracaena]]
 **Family**: [[Dracaenaceae]]
+**Modern family**: [[Asparagaceae]] subfam. Nolinoideae — *Dracaenaceae* as circumscribed here is superseded; see [[Dracaenaceae]]
 **Protologue**: Bull. Soc. Hist. Nat. Autun 10 : 669 (1897)
 
 ## Synonyms
@@ -73,3 +75,4 @@ bongo (batéké). B : Baker (1898), Damen et al. (2018), Kikufi et al. (2016), M
 - [[Dracaena]]
 - [[Dracaenaceae]]
 - [[vol54]]
+- [[Asparagaceae]] — where this taxon now belongs

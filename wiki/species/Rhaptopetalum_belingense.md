@@ -4,6 +4,7 @@ name: Rhaptopetalum belingense
 authority: R. Letouzey
 genus: Rhaptopetalum
 family: Scytopetalaceae
+modern_family: Lecythidaceae subfam. Scytopetaloideae
 vol: 24
 pages: 169-170
 source: sources/Scytopetalaceae_vol24_paddle
@@ -11,12 +12,13 @@ countries: [Gabon]
 in_region: true
 habit: "shrub"
 habitat: [savanna]
-tags: [species, generated]
+tags: [species, generated, superseded-circumscription]
 ---
 # *Rhaptopetalum belingense* R. Letouzey
 
 **Genus**: [[Rhaptopetalum]]
 **Family**: [[Scytopetalaceae]]
+**Modern family**: [[Lecythidaceae]] subfam. Scytopetaloideae — *Scytopetalaceae* as circumscribed here is superseded; see [[Scytopetalaceae]]
 **Protologue**: Adansonia, ser. 2, 17 (2): 132, tab. 2 (1977)
 
 ## Description
@@ -58,3 +60,4 @@ Hallé N. 4125, Bélinga, 70 km NNE Makokou (v. fl., j. fr., juin).
 - [[Rhaptopetalum]]
 - [[Scytopetalaceae]]
 - [[vol24]]
+- [[Lecythidaceae]] — where this taxon now belongs

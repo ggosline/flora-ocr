@@ -4,16 +4,18 @@ name: Cola lissachensis
 authority: Pellegrin.
 genus: Cola
 family: Sterculiaceae
+modern_family: Malvaceae s.l.
 vol: 02
 pages: 94-95
 source: sources/Sterculiaceae_vol02_paddle
 habit: "tree"
-tags: [species, generated]
+tags: [species, generated, superseded-circumscription]
 ---
 # *Cola lissachensis* Pellegrin.
 
 **Genus**: [[Cola]]
 **Family**: [[Sterculiaceae]]
+**Modern family**: [[Malvaceae]] s.l. — *Sterculiaceae* as circumscribed here is superseded; see [[Sterculiaceae]]
 **Protologue**: PELLEGR., Bull. S. B. Fr. 97 : 203 (1950), réf. orig., et Sterc. Gab., Mém. S. B. Fr. : 43 (1950-1951)
 
 ## Description
@@ -47,3 +49,4 @@ Le Testu : 8561 et s. n., environs de Koulamotou (fl. déc. janv.). N. Hallé : 
 - [[Cola]]
 - [[Sterculiaceae]]
 - [[vol02]]
+- [[Malvaceae]] — where this taxon now belongs

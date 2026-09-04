@@ -4,16 +4,18 @@ name: Homalium letestui
 authority: Pellegr.
 genus: Homalium
 family: Flacourtiaceae
+modern_family: Salicaceae
 vol: 34
 pages: 77-78
 source: sources/Flacourtiaceae_vol34_paddle
 countries_incomplete: true
-tags: [species, generated]
+tags: [species, generated, superseded-circumscription]
 ---
 # *Homalium letestui* Pellegr.
 
 **Genus**: [[Homalium]]
 **Family**: [[Flacourtiaceae]]
+**Modern family**: [[Salicaceae]] — *Flacourtiaceae* as circumscribed here is superseded; see [[Flacourtiaceae]]
 **Protologue**: Bull. Mus. Nat. Hist. Nat. Paris 27 (2) : 193 (1921) ; Fl. Mayombe : 23 (1924) ; Mém. Soc. Bot. Fr. : 118 (1952) ; SLEUMER, BJBB 43 : 267 (1973) ; (avec la collab. de BAMPS), FCBR, Flacourt. 2 : 12 (1976). TYPES : Le Testu 1118, Gabon (lecto-, isolecto-); 1765, Gabon (syn-)
 
 ## Description
@@ -69,3 +71,4 @@ Touzet 2, N'Koulounga, 6/5/1958 (P).
 - [[Homalium]]
 - [[Flacourtiaceae]]
 - [[vol34]]
+- [[Salicaceae]] — where this taxon now belongs

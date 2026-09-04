@@ -4,16 +4,18 @@ name: Scaphopetalum macranthum
 authority: K. Schumann.
 genus: Scaphopetalum
 family: Sterculiaceae
+modern_family: Malvaceae s.l.
 vol: 02
 pages: 125-126
 source: sources/Sterculiaceae_vol02_paddle
 habit: "shrub"
-tags: [species, generated]
+tags: [species, generated, superseded-circumscription]
 ---
 # *Scaphopetalum macranthum* K. Schumann.
 
 **Genus**: [[Scaphopetalum]]
 **Family**: [[Sterculiaceae]]
+**Modern family**: [[Malvaceae]] s.l. — *Sterculiaceae* as circumscribed here is superseded; see [[Sterculiaceae]]
 **Protologue**: K. Schum. Sterc. Afr.; 92, t. 6 C non B (1900), réf. orig
 
 ## Description
@@ -41,3 +43,4 @@ Klaine : 28, 3120, env. de Libreville (fl. oct.). Le Testu : 2143, 5503, 5568, 5
 - [[Scaphopetalum]]
 - [[Sterculiaceae]]
 - [[vol02]]
+- [[Malvaceae]] — where this taxon now belongs

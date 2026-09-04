@@ -4,16 +4,18 @@ name: Dracaena steudneri
 authority: Engl.
 genus: Dracaena
 family: Dracaenaceae
+modern_family: Asparagaceae subfam. Nolinoideae
 vol: 54
 pages: 62-62
 source: sources/Dracaenaceae_vol54_liteparse
 habit: "tree"
-tags: [species, generated]
+tags: [species, generated, superseded-circumscription]
 ---
 # *Dracaena steudneri* Engl.
 
 **Genus**: [[Dracaena]]
 **Family**: [[Dracaenaceae]]
+**Modern family**: [[Asparagaceae]] subfam. Nolinoideae — *Dracaenaceae* as circumscribed here is superseded; see [[Dracaenaceae]]
 **Protologue**: Pflanzenw. Ost-Afrikas C : 143 (1895)
 
 ## Description
@@ -33,3 +35,4 @@ Species of East Africa, easily confused with D. arborea when sterile. It differs
 - [[Dracaena]]
 - [[Dracaenaceae]]
 - [[vol54]]
+- [[Asparagaceae]] — where this taxon now belongs

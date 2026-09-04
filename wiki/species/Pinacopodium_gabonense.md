@@ -4,18 +4,20 @@ name: Pinacopodium gabonense
 authority: (Cavaco & Normand)
 genus: Pinacopodium
 family: Nectaropetalaceae
+modern_family: Erythroxylaceae
 vol: 21
 pages: 24-25
 source: sources/Nectaropetalaceae_vol21_paddle
 countries: [Gabon]
 in_region: true
 habit: "tree"
-tags: [species, generated]
+tags: [species, generated, superseded-circumscription]
 ---
 # *Pinacopodium gabonense* (Cavaco & Normand)
 
 **Genus**: [[Pinacopodium]]
 **Family**: [[Nectaropetalaceae]]
+**Modern family**: [[Erythroxylaceae]] — *Nectaropetalaceae* as circumscribed here is superseded; see [[Nectaropetalaceae]]
 **Protologue**: Bull. Jard. Bot. Brux. 21 : 45 (1951)
 
 ## Synonyms
@@ -57,3 +59,4 @@ Morel 145 SRFG, env. Libreville, cours moyen de la Mbéi.
 - [[Pinacopodium]]
 - [[Nectaropetalaceae]]
 - [[vol21]]
+- [[Erythroxylaceae]] — where this taxon now belongs

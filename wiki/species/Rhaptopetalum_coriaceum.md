@@ -4,6 +4,7 @@ name: Rhaptopetalum coriaceum
 authority: Oliver
 genus: Rhaptopetalum
 family: Scytopetalaceae
+modern_family: Lecythidaceae subfam. Scytopetaloideae
 vol: 24
 pages: 172-176
 source: sources/Scytopetalaceae_vol24_paddle
@@ -11,12 +12,13 @@ countries: [Cameroon, Equatorial Guinea, Gabon, Nigeria]
 in_region: true
 habit: "liana"
 habitat: [coastal, evergreen forest]
-tags: [species, generated]
+tags: [species, generated, superseded-circumscription]
 ---
 # *Rhaptopetalum coriaceum* Oliver
 
 **Genus**: [[Rhaptopetalum]]
 **Family**: [[Scytopetalaceae]]
+**Modern family**: [[Lecythidaceae]] subfam. Scytopetaloideae — *Scytopetalaceae* as circumscribed here is superseded; see [[Scytopetalaceae]]
 **Protologue**: Journ. Linn. Soc. 8 : 160, tab. 12 (1865); FTA 1 : 351 (1868); ENGL., Nat. Pflanzenfam., Nacht. I zu III, 6 : 244 (1897); V. TIENH., Ann. Sc. Nat., ser. 9, 1 : 370 (1905); ENGL., Nat. Pflanzenfam., Nacht. III zu III, 6 : 218 (1908); Pflanzenw. Afr. 3 (2) : 473 (1921); KEAY, FWTA, ed. 2, 1 (2) : 300 (1958); KEAY, ONOCHIE & STANFIELD, Niger. Trees 1 : 188 (1960); LETOUZEY, Adansonia, ser. 2, 1 (1) : 123 (1961)
 
 ## Description
@@ -68,3 +70,4 @@ Le Testu 8621, Mt. Iboundji, 90 km NNW Mbigou, soit 120 km NE Mouila (fl., déc.
 - [[Rhaptopetalum]]
 - [[Scytopetalaceae]]
 - [[vol24]]
+- [[Lecythidaceae]] — where this taxon now belongs

@@ -4,16 +4,18 @@ name: Cola cauliflora
 authority: Masters.
 genus: Cola
 family: Sterculiaceae
+modern_family: Malvaceae s.l.
 vol: 02
 pages: 70-72
 source: sources/Sterculiaceae_vol02_paddle
 habit: "tree"
-tags: [species, generated]
+tags: [species, generated, superseded-circumscription]
 ---
 # *Cola cauliflora* Masters.
 
 **Genus**: [[Cola]]
 **Family**: [[Sterculiaceae]]
+**Modern family**: [[Malvaceae]] s.l. — *Sterculiaceae* as circumscribed here is superseded; see [[Sterculiaceae]]
 **Protologue**: MAST., F.T.A. I : 221 (1868) p. p
 
 ## Synonyms
@@ -47,3 +49,4 @@ Thollon : 1322, f. du Mayombe, Kouilou.
 - [[Cola]]
 - [[Sterculiaceae]]
 - [[vol02]]
+- [[Malvaceae]] — where this taxon now belongs

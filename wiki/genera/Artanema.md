@@ -3,15 +3,17 @@ type: genus
 name: Artanema
 authority: D.Don, nom. cons.
 family: Scrophulariaceae
+modern_family: Linderniaceae
 species_in_region: 1
 treatments:
   - vol: 48
     source: sources/Scrophulariaceae_vol48_liteparse
-tags: [genus, generated]
+tags: [genus, generated, superseded-circumscription]
 ---
 # *Artanema* D.Don, nom. cons.
 
 **Family**: [[Scrophulariaceae]]
+**Modern family**: [[Linderniaceae]] — *Scrophulariaceae* as circumscribed here is superseded; see [[Scrophulariaceae]]
 **Authority**: D.Don, nom. cons.
 
 ## Diagnosis
@@ -46,3 +48,4 @@ Bibliography
 
 - [[Scrophulariaceae]]
 - [[vol48]]
+- [[Linderniaceae]] — where this taxon now belongs

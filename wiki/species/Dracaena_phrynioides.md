@@ -4,6 +4,7 @@ name: Dracaena phrynioides
 authority: Hook. Planche 18, Figure 4(E)
 genus: Dracaena
 family: Dracaenaceae
+modern_family: Asparagaceae subfam. Nolinoideae
 vol: 54
 pages: 51-53
 source: sources/Dracaenaceae_vol54_liteparse
@@ -13,12 +14,13 @@ subdivisions:
   Gabon: [Estuaire, Ogooué-Maritime]
 habit: "shrub"
 altitude_m: "0–150"
-tags: [species, generated]
+tags: [species, generated, superseded-circumscription]
 ---
 # *Dracaena phrynioides* Hook. Planche 18, Figure 4(E)
 
 **Genus**: [[Dracaena]]
 **Family**: [[Dracaenaceae]]
+**Modern family**: [[Asparagaceae]] subfam. Nolinoideae — *Dracaenaceae* as circumscribed here is superseded; see [[Dracaenaceae]]
 **Protologue**: Bot. Mag. 88 : t. 5352 (1862)
 
 ## Synonyms
@@ -52,3 +54,4 @@ Forest understory, river margins; in Gabon at 0–150 m altitude, elsewhere at 0
 - [[Dracaena]]
 - [[Dracaenaceae]]
 - [[vol54]]
+- [[Asparagaceae]] — where this taxon now belongs

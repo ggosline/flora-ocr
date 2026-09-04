@@ -4,6 +4,7 @@ name: Dracaena congoensis
 authority: Hua Planche 10
 genus: Dracaena
 family: Dracaenaceae
+modern_family: Asparagaceae subfam. Nolinoideae
 vol: 54
 pages: 31-34
 source: sources/Dracaenaceae_vol54_liteparse
@@ -13,12 +14,13 @@ subdivisions:
   Gabon: [Ogooué-Ivindo, Ogooué-Lolo, Woleu-Ntem]
 habit: "shrub"
 altitude_m: "200–700"
-tags: [species, generated]
+tags: [species, generated, superseded-circumscription]
 ---
 # *Dracaena congoensis* Hua Planche 10
 
 **Genus**: [[Dracaena]]
 **Family**: [[Dracaenaceae]]
+**Modern family**: [[Asparagaceae]] subfam. Nolinoideae — *Dracaenaceae* as circumscribed here is superseded; see [[Dracaenaceae]]
 **Protologue**: Bull. Soc. Hist. Nat. Autun 10 : 668 (1897)
 
 ## Synonyms
@@ -56,3 +58,4 @@ Naturalis Biodiversity Center (©), reproduced from Bos (1984).
 - [[Dracaena]]
 - [[Dracaenaceae]]
 - [[vol54]]
+- [[Asparagaceae]] — where this taxon now belongs

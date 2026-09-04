@@ -4,18 +4,20 @@ name: Oubanguia alata
 authority: Baker fil.
 genus: Oubanguia
 family: Scytopetalaceae
+modern_family: Lecythidaceae subfam. Scytopetaloideae
 vol: 24
 pages: 158-161
 source: sources/Scytopetalaceae_vol24_paddle
 countries: [Cameroon, Gabon, Nigeria]
 in_region: true
 habit: "tree"
-tags: [species, generated]
+tags: [species, generated, superseded-circumscription]
 ---
 # *Oubanguia alata* Baker fil.
 
 **Genus**: [[Oubanguia]]
 **Family**: [[Scytopetalaceae]]
+**Modern family**: [[Lecythidaceae]] subfam. Scytopetaloideae — *Scytopetalaceae* as circumscribed here is superseded; see [[Scytopetalaceae]]
 **Protologue**: Cat. Pl. Talbot.: 15 (1913); KEAY, FWTA, ed. 2, 1 (2): 300, tab. 113 (1958); KEAY, ONOCHIE & STANFIELD, Niger. Trees 1: 188, tab. 49 (1960); LETOUZEY, Adansonia, ser. 2, 1 (1): 113 (1961)
 
 ## Description
@@ -67,3 +69,4 @@ Bernard & Corbet 1056 SRF, Ezanga, 30 km S Lambaréné (stér., mars). Bernard &
 - [[Oubanguia]]
 - [[Scytopetalaceae]]
 - [[vol24]]
+- [[Lecythidaceae]] — where this taxon now belongs

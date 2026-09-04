@@ -4,16 +4,18 @@ name: Oncoba dentata
 authority: Oliv.
 genus: Oncoba
 family: Flacourtiaceae
+modern_family: Salicaceae
 vol: 34
 pages: 55-58
 source: sources/Flacourtiaceae_vol34_paddle
 countries_incomplete: true
-tags: [species, generated]
+tags: [species, generated, superseded-circumscription]
 ---
 # *Oncoba dentata* Oliv.
 
 **Genus**: [[Oncoba]]
 **Family**: [[Flacourtiaceae]]
+**Modern family**: [[Salicaceae]] — *Flacourtiaceae* as circumscribed here is superseded; see [[Flacourtiaceae]]
 **Protologue**: FTA 1 : 119 (1868) ; WARB., in ENGL. & PRANTL, NPF 3 (6a) : 18 (1893) ; DE WILD. & T. DURAND, BJBB 4 : 171 (1914). TYPES : Barter 1655, Nigeria (lecto-, isolecto-); Mann 1177, Cameroun, 2267, Nigeria et Welwitsch 535, Angola (syn-)
 
 ## Description
@@ -103,3 +105,4 @@ De Wilde & Jongkind 9318, 4 km WSW Doussala, env. 130 m alt., 13/3/1988, fr. (WA
 - [[Oncoba]]
 - [[Flacourtiaceae]]
 - [[vol34]]
+- [[Salicaceae]] — where this taxon now belongs

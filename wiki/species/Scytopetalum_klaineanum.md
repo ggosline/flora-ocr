@@ -4,18 +4,20 @@ name: Scytopetalum klaineanum
 authority: Pierre ex Engler
 genus: Scytopetalum
 family: Scytopetalaceae
+modern_family: Lecythidaceae subfam. Scytopetaloideae
 vol: 24
 pages: 189-193
 source: sources/Scytopetalaceae_vol24_paddle
 countries: [Angola, Cameroon]
 in_region: true
 habitat: [evergreen forest]
-tags: [species, generated]
+tags: [species, generated, superseded-circumscription]
 ---
 # *Scytopetalum klaineanum* Pierre ex Engler
 
 **Genus**: [[Scytopetalum]]
 **Family**: [[Scytopetalaceae]]
+**Modern family**: [[Lecythidaceae]] subfam. Scytopetaloideae — *Scytopetalaceae* as circumscribed here is superseded; see [[Scytopetalaceae]]
 **Protologue**: Nat. Pflanzenfam., Nacht. I zu III, 6 : 244, tab. 51 a (1897); Nat. Pflanzenfam., Nacht. III zu III, 6 : 218 (1908); Pflanzenw. Afr. 1 : tab. 601 (1910); A. Chev., Vég. Ut. Afr. trop. fr. 9, For. Bois Gabon : 84-85 (Scytopetalum sp.) (1917); Engl., Pflanzenw. Afr. 3 (2) : 471, tab. 218 (1921); Letouzey, Adansonia, ser. 2, 1 (1) : 116, tab. 2, fig. 1-2 (1961); Walker & Sillans, Pl. ut. Gabon : 398 (1961); De Saint-Aubin, Forêt Gabon : 190, photo. (1963)
 
 ## Description
@@ -111,3 +113,4 @@ Tonnelle 1463 SRF, R. Ikoy près Sindara? (stér., févr.).
 - [[Scytopetalum]]
 - [[Scytopetalaceae]]
 - [[vol24]]
+- [[Lecythidaceae]] — where this taxon now belongs

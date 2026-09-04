@@ -3,15 +3,17 @@ type: genus
 name: Acioa
 authority: Aublet
 family: Scytopetalaceae
+modern_family: Lecythidaceae subfam. Scytopetaloideae
 species_in_region: 13
 treatments:
   - vol: 24
     source: sources/Chrysobalanaceae_vol24_paddle
-tags: [genus, generated]
+tags: [genus, generated, superseded-circumscription]
 ---
 # *Acioa* Aublet
 
 **Family**: [[Scytopetalaceae]]
+**Modern family**: [[Lecythidaceae]] subfam. Scytopetaloideae — *Scytopetalaceae* as circumscribed here is superseded; see [[Scytopetalaceae]]
 **Authority**: Aublet
 **Protologue**: Hist. Pl. Guiane fr. 2 : 698, tab. 280 (1775); Baill., Adansonia 7 : 221 (1867); Engl., Pflanzenw. Afr. 3 (1) : 308 (1915); De Wild., BJBB 7 : 188 (1920); Haum., FCB 3 : 44 (1952); Keay, FWTA, ed. 2, 1 (2) : 430 (1958); Mendes, Consp. Fl. Angol. 4 : 19 (1970); Prance, Fl. Neotr. 9 : 357, tab. 58 (1972)
 
@@ -67,3 +69,4 @@ The source key separates these species but the volume gives them no treatment, u
 
 - [[Scytopetalaceae]]
 - [[vol24]]
+- [[Lecythidaceae]] — where this taxon now belongs

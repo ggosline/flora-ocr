@@ -3,15 +3,17 @@ type: genus
 name: Casearia
 authority: Jacq.
 family: Flacourtiaceae
+modern_family: Salicaceae
 species_in_region: 2
 treatments:
   - vol: 34
     source: sources/Flacourtiaceae_vol34_paddle
-tags: [genus, generated]
+tags: [genus, generated, superseded-circumscription]
 ---
 # *Casearia* Jacq.
 
 **Family**: [[Flacourtiaceae]]
+**Modern family**: [[Salicaceae]] — *Flacourtiaceae* as circumscribed here is superseded; see [[Flacourtiaceae]]
 **Authority**: Jacq.
 **Protologue**: Enum. Pl. Carib.: 4 (1760); MAST., in OLIV., FTA 2: 493 (1871); WARB., in ENGL. & PRANTL, NPF 3 (6a): 50 (1893); GILG, EBJ 40: 509 (1908); HUTCH. & DALZIEL, Kew Bull.: 213 (1928); EXELL, J. Bot. 67, suppl.: 188 (1929); SLEUMER, (avec la collab. de BAMPS), FCBR, Spermat., Flacourt. 2: 36 (1976)
 
@@ -57,3 +59,4 @@ TYPE SPECIES: C. nitida Jacq.
 
 - [[Flacourtiaceae]]
 - [[vol34]]
+- [[Salicaceae]] — where this taxon now belongs

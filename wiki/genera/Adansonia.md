@@ -3,15 +3,17 @@ type: genus
 name: Adansonia
 authority: Linné
 family: Bombacaceae
+modern_family: Malvaceae subfam. Bombacoideae
 species_in_region: 1
 treatments:
   - vol: 22
     source: sources/Bombacaceae_vol22_paddle
-tags: [genus, generated]
+tags: [genus, generated, superseded-circumscription]
 ---
 # *Adansonia* Linné
 
 **Family**: [[Bombacaceae]]
+**Modern family**: [[Malvaceae]] subfam. Bombacoideae — *Bombacaceae* as circumscribed here is superseded; see [[Bombacaceae]]
 **Authority**: Linné
 **Protologue**: Sp. Pl.: 1190 (1753)
 
@@ -47,3 +49,4 @@ This genus contains 12 species from Africa, Madagascar, and north-western Austra
 
 - [[Bombacaceae]]
 - [[vol22]]
+- [[Malvaceae]] — where this taxon now belongs

@@ -3,15 +3,17 @@ type: genus
 name: Triplochiton
 authority: K. Schum.
 family: Sterculiaceae
+modern_family: Malvaceae s.l.
 species_in_region: 1
 treatments:
   - vol: 02
     source: sources/Sterculiaceae_vol02_paddle
-tags: [genus, generated]
+tags: [genus, generated, superseded-circumscription]
 ---
 # *Triplochiton* K. Schum.
 
 **Family**: [[Sterculiaceae]]
+**Modern family**: [[Malvaceae]] s.l. — *Sterculiaceae* as circumscribed here is superseded; see [[Sterculiaceae]]
 **Authority**: K. Schum.
 **Protologue**: K. Schum., Engl. Bot. Jahrb. 28 : 330 (1900)
 
@@ -41,3 +43,4 @@ Genus from Tropical Africa. Two known species; Tr. scleroxylon, represented in G
 
 - [[Sterculiaceae]]
 - [[vol02]]
+- [[Malvaceae]] — where this taxon now belongs

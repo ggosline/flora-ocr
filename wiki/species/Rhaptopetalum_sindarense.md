@@ -4,18 +4,20 @@ name: Rhaptopetalum sindarense
 authority: Pellegrin
 genus: Rhaptopetalum
 family: Scytopetalaceae
+modern_family: Lecythidaceae subfam. Scytopetaloideae
 vol: 24
 pages: 186-188
 source: sources/Scytopetalaceae_vol24_paddle
 countries: [Gabon]
 in_region: true
 habit: "tree"
-tags: [species, generated]
+tags: [species, generated, superseded-circumscription]
 ---
 # *Rhaptopetalum sindarense* Pellegrin
 
 **Genus**: [[Rhaptopetalum]]
 **Family**: [[Scytopetalaceae]]
+**Modern family**: [[Lecythidaceae]] subfam. Scytopetaloideae — *Scytopetalaceae* as circumscribed here is superseded; see [[Scytopetalaceae]]
 **Protologue**: Bull. Mus. Nat. Hist. Nat. Paris 28 : 92 (1922); Fl. Mayombe 1 : 62 (1924); LETOUZEY, Adansonia, ser. 2, 2 (1) : 127, tab. 4 (1961)
 
 ## Description
@@ -63,3 +65,4 @@ Le Testu 2294, Sindara, 55 km SE Lambaréné (fl., oct.); 6486, Pèca (Pèka), H
 - [[Rhaptopetalum]]
 - [[Scytopetalaceae]]
 - [[vol24]]
+- [[Lecythidaceae]] — where this taxon now belongs

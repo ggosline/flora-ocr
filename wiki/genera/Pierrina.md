@@ -3,15 +3,17 @@ type: genus
 name: Pierrina
 authority: Engler
 family: Scytopetalaceae
+modern_family: Lecythidaceae subfam. Scytopetaloideae
 species_in_region: 1
 treatments:
   - vol: 24
     source: sources/Scytopetalaceae_vol24_paddle
-tags: [genus, generated]
+tags: [genus, generated, superseded-circumscription]
 ---
 # *Pierrina* Engler
 
 **Family**: [[Scytopetalaceae]]
+**Modern family**: [[Lecythidaceae]] subfam. Scytopetaloideae — *Scytopetalaceae* as circumscribed here is superseded; see [[Scytopetalaceae]]
 **Authority**: Engler
 **Protologue**: Bot. Jahrb. 43 : 374 (1909); Pflanzenw. Afr. 3 (2) : 473 (1921); LETOUZEY, Adansonia, ser. 2, 1 (1) : 138 (1961); HUTCH., Gen. Fl. Plants 2 : 470 (1967)
 
@@ -49,3 +51,4 @@ Pierrina Engl. comprises only a single species, P. zenkeri Engl., known only fro
 
 - [[Scytopetalaceae]]
 - [[vol24]]
+- [[Lecythidaceae]] — where this taxon now belongs

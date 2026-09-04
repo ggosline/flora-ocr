@@ -3,15 +3,17 @@ type: genus
 name: Ceiba
 authority: Miller
 family: Bombacaceae
+modern_family: Malvaceae subfam. Bombacoideae
 species_in_region: 1
 treatments:
   - vol: 22
     source: sources/Bombacaceae_vol22_paddle
-tags: [genus, generated]
+tags: [genus, generated, superseded-circumscription]
 ---
 # *Ceiba* Miller
 
 **Family**: [[Bombacaceae]]
+**Modern family**: [[Malvaceae]] subfam. Bombacoideae — *Bombacaceae* as circumscribed here is superseded; see [[Bombacaceae]]
 **Authority**: Miller
 **Protologue**: Gart. Dict. Abridg., ed. 4, 2 : 236 (1754)
 
@@ -47,3 +49,4 @@ This pantropical genus comprises 4 species; only one is present in West and Cent
 
 - [[Bombacaceae]]
 - [[vol22]]
+- [[Malvaceae]] — where this taxon now belongs

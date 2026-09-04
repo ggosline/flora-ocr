@@ -2,14 +2,16 @@
 type: genus
 name: Chlamydocola
 family: Sterculiaceae
+modern_family: Malvaceae s.l.
 species_in_region: 1
 treatments:
   - vol: 02
-tags: [genus, generated, stub]
+tags: [genus, generated, stub, superseded-circumscription]
 ---
 # *Chlamydocola*
 
 **Family**: [[Sterculiaceae]]
+**Modern family**: [[Malvaceae]] s.l. — *Sterculiaceae* as circumscribed here is superseded; see [[Sterculiaceae]]
 
 ## Diagnosis
 
@@ -29,3 +31,4 @@ tags: [genus, generated, stub]
 
 - [[Sterculiaceae]]
 - [[vol02]]
+- [[Malvaceae]] — where this taxon now belongs

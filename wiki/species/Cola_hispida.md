@@ -4,18 +4,20 @@ name: Cola hispida
 authority: Brenan et Keay.
 genus: Cola
 family: Sterculiaceae
+modern_family: Malvaceae s.l.
 vol: 02
 pages: 61-62
 source: sources/Sterculiaceae_vol02_paddle
 countries: [Nigeria]
 in_region: true
 habit: "tree"
-tags: [species, generated]
+tags: [species, generated, superseded-circumscription]
 ---
 # *Cola hispida* Brenan et Keay.
 
 **Genus**: [[Cola]]
 **Family**: [[Sterculiaceae]]
+**Modern family**: [[Malvaceae]] s.l. — *Sterculiaceae* as circumscribed here is superseded; see [[Sterculiaceae]]
 **Protologue**: BREN. et KEAY, Hook. Ic. Pl. t. 3531 (1955), réf. orig
 
 ## Description
@@ -55,3 +57,4 @@ Durand : 1690, station Skey. R. P. Klaine : 3492, env. de Libreville (fl. mai). 
 - [[Cola]]
 - [[Sterculiaceae]]
 - [[vol02]]
+- [[Malvaceae]] — where this taxon now belongs

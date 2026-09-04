@@ -2,15 +2,17 @@
 type: genus
 name: Mocquerysia
 family: Flacourtiaceae
+modern_family: Salicaceae
 species_in_region: 1
 treatments:
   - vol: 34
     source: sources/Flacourtiaceae_vol34_paddle
-tags: [genus, generated]
+tags: [genus, generated, superseded-circumscription]
 ---
 # *Mocquerysia*
 
 **Family**: [[Flacourtiaceae]]
+**Modern family**: [[Salicaceae]] — *Flacourtiaceae* as circumscribed here is superseded; see [[Flacourtiaceae]]
 
 ## Diagnosis
 
@@ -36,3 +38,4 @@ tags: [genus, generated]
 
 - [[Flacourtiaceae]]
 - [[vol34]]
+- [[Salicaceae]] — where this taxon now belongs

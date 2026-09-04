@@ -3,15 +3,17 @@ type: genus
 name: Ledebouria
 authority: Roth
 family: Hyacinthaceae
+modern_family: Asparagaceae subfam. Scilloideae
 species_in_region: 1
 treatments:
   - vol: 40
     source: sources/Hyacinthaceae_vol40_liteparse
-tags: [genus, generated]
+tags: [genus, generated, superseded-circumscription]
 ---
 # *Ledebouria* Roth
 
 **Family**: [[Hyacinthaceae]]
+**Modern family**: [[Asparagaceae]] subfam. Scilloideae — *Hyacinthaceae* as circumscribed here is superseded; see [[Hyacinthaceae]]
 **Authority**: Roth
 **Protologue**: Nov. pl. sp. : 194 (1821)
 
@@ -51,3 +53,4 @@ Bibliography
 
 - [[Hyacinthaceae]]
 - [[vol40]]
+- [[Asparagaceae]] — where this taxon now belongs

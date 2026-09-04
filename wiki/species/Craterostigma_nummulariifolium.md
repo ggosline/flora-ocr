@@ -4,6 +4,7 @@ name: Craterostigma nummulariifolium
 authority: (D.Don) Eb.Fisch., Schäferh. & Kai Müll.
 genus: Craterostigma
 family: Scrophulariaceae
+modern_family: Linderniaceae
 vol: 48
 pages: 112-113
 source: sources/Scrophulariaceae_vol48_liteparse
@@ -13,12 +14,13 @@ subdivisions:
   Gabon: [Haut-Ogooué, Ogooué-Lolo]
 habit: "herb"
 altitude_m: "380"
-tags: [species, generated]
+tags: [species, generated, superseded-circumscription]
 ---
 # *Craterostigma nummulariifolium* (D.Don) Eb.Fisch., Schäferh. & Kai Müll.
 
 **Genus**: [[Craterostigma]]
 **Family**: [[Scrophulariaceae]]
+**Modern family**: [[Linderniaceae]] — *Scrophulariaceae* as circumscribed here is superseded; see [[Scrophulariaceae]]
 **Protologue**: Willdenowi a 43 : 222 (2013)
 
 ## Description
@@ -52,3 +54,4 @@ savannas, small marshes, quartzitic rocks and inselbergs; in Gabon, at 380 m alt
 - [[Craterostigma]]
 - [[Scrophulariaceae]]
 - [[vol48]]
+- [[Linderniaceae]] — where this taxon now belongs

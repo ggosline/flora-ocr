@@ -4,6 +4,7 @@ name: Torenia silvicola
 authority: A.Raynal Planche 49, 55(E–G)
 genus: Torenia
 family: Scrophulariaceae
+modern_family: Linderniaceae
 vol: 48
 pages: 145-147
 source: sources/Scrophulariaceae_vol48_liteparse
@@ -14,12 +15,13 @@ subdivisions:
 habit: "herb"
 habitat: [swamp forest, evergreen forest]
 altitude_m: "300–400"
-tags: [species, generated]
+tags: [species, generated, superseded-circumscription]
 ---
 # *Torenia silvicola* A.Raynal Planche 49, 55(E–G)
 
 **Genus**: [[Torenia]]
 **Family**: [[Scrophulariaceae]]
+**Modern family**: [[Linderniaceae]] — *Scrophulariaceae* as circumscribed here is superseded; see [[Scrophulariaceae]]
 **Protologue**: Adansonia n.s. 5 : 522 (1965)
 
 ## Description
@@ -55,3 +57,4 @@ Corolla. – D. Corolla open and spread. – E. Adaxial stamen. – F. Abaxial s
 - [[Torenia]]
 - [[Scrophulariaceae]]
 - [[vol48]]
+- [[Linderniaceae]] — where this taxon now belongs

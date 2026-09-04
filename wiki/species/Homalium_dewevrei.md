@@ -4,18 +4,20 @@ name: Homalium dewevrei
 authority: De Wild. & T. Durand
 genus: Homalium
 family: Flacourtiaceae
+modern_family: Salicaceae
 vol: 34
 pages: 75-77
 source: sources/Flacourtiaceae_vol34_paddle
 countries: [Cameroon, Democratic Republic of the Congo, Gabon, Ghana]
 in_region: true
 habitat: [swamp forest]
-tags: [species, generated]
+tags: [species, generated, superseded-circumscription]
 ---
 # *Homalium dewevrei* De Wild. & T. Durand
 
 **Genus**: [[Homalium]]
 **Family**: [[Flacourtiaceae]]
+**Modern family**: [[Salicaceae]] — *Flacourtiaceae* as circumscribed here is superseded; see [[Flacourtiaceae]]
 **Protologue**: BJBB 38 (2) : 126 (1899) ; GILG, EBJ 40 : 489 (1908) ; SLEUMER, BJBB 43 : 267 (1973) ; (avec la collab. de BAMPS), FCBR, Flacourt. 2 : 12 (1976). TYPE : Dewèvre 861, Zaïre (holo-)
 
 ## Description
@@ -65,3 +67,4 @@ Hallé 2781, Bélinga, 24/10/1964, bout. fl. (P) ; 2809, l. c., 26/10/1964, fl. 
 - [[Homalium]]
 - [[Flacourtiaceae]]
 - [[vol34]]
+- [[Salicaceae]] — where this taxon now belongs

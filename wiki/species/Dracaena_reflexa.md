@@ -4,16 +4,18 @@ name: Dracaena reflexa
 authority: Lam.
 genus: Dracaena
 family: Dracaenaceae
+modern_family: Asparagaceae subfam. Nolinoideae
 vol: 54
 pages: 61-62
 source: sources/Dracaenaceae_vol54_liteparse
 habit: "tree"
-tags: [species, generated]
+tags: [species, generated, superseded-circumscription]
 ---
 # *Dracaena reflexa* Lam.
 
 **Genus**: [[Dracaena]]
 **Family**: [[Dracaenaceae]]
+**Modern family**: [[Asparagaceae]] subfam. Nolinoideae — *Dracaenaceae* as circumscribed here is superseded; see [[Dracaenaceae]]
 **Protologue**: Encycl. 2 : 324 (1786)
 
 ## Description
@@ -33,3 +35,4 @@ Species of the Mascarene Islands (Madagascar, Mauritius, Mayotte, Réunion and S
 - [[Dracaena]]
 - [[Dracaenaceae]]
 - [[vol54]]
+- [[Asparagaceae]] — where this taxon now belongs

@@ -4,6 +4,7 @@ name: Lindernia rotundifolia
 authority: (L.) Alston Planche 38, 54(G–H)
 genus: Lindernia
 family: Scrophulariaceae
+modern_family: Linderniaceae
 vol: 48
 pages: 123-123
 source: sources/Scrophulariaceae_vol48_liteparse
@@ -14,12 +15,13 @@ subdivisions:
 habit: "herb"
 habitat: [coastal, evergreen forest]
 altitude_m: "5–130"
-tags: [species, generated]
+tags: [species, generated, superseded-circumscription]
 ---
 # *Lindernia rotundifolia* (L.) Alston Planche 38, 54(G–H)
 
 **Genus**: [[Lindernia]]
 **Family**: [[Scrophulariaceae]]
+**Modern family**: [[Linderniaceae]] — *Scrophulariaceae* as circumscribed here is superseded; see [[Scrophulariaceae]]
 **Protologue**: Gratiola rotundifolia L., Mant. : 174 (1771)
 
 ## Description
@@ -49,3 +51,4 @@ swampy places in rainforest, marshes, edge of lakes and rivers, swampy ruderal p
 - [[Lindernia]]
 - [[Scrophulariaceae]]
 - [[vol48]]
+- [[Linderniaceae]] — where this taxon now belongs

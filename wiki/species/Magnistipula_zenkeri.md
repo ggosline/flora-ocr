@@ -4,17 +4,19 @@ name: Magnistipula zenkeri
 authority: Engler
 genus: Magnistipula
 family: Scytopetalaceae
+modern_family: Lecythidaceae subfam. Scytopetaloideae
 vol: 24
 pages: 95-99
 source: sources/Chrysobalanaceae_vol24_paddle
 countries: [Cameroon, Cote d'Ivoire, Equatorial Guinea, Gabon, Liberia, Sierra Leone]
 in_region: true
-tags: [species, generated]
+tags: [species, generated, superseded-circumscription]
 ---
 # *Magnistipula zenkeri* Engler
 
 **Genus**: [[Magnistipula]]
 **Family**: [[Scytopetalaceae]]
+**Modern family**: [[Lecythidaceae]] subfam. Scytopetaloideae — *Scytopetalaceae* as circumscribed here is superseded; see [[Scytopetalaceae]]
 **Protologue**: Bot. Jahrb. 36 : 227 (1905); Pflanzenw. Afr. 3 (1) : 308 (1915); HAUM., BJBB 21 : 173 (1951); WHITE, BJBB 46 : 293 (1976)
 
 ## Description
@@ -90,3 +92,4 @@ edou (yaoundé); endumde (fang)
 - [[Magnistipula]]
 - [[Scytopetalaceae]]
 - [[vol24]]
+- [[Lecythidaceae]] — where this taxon now belongs

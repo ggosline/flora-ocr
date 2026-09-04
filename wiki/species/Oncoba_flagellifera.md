@@ -4,17 +4,19 @@ name: Oncoba flagellifera
 authority: (MILDBR.) HUL, comb. nov.
 genus: Oncoba
 family: Flacourtiaceae
+modern_family: Salicaceae
 vol: 34
 pages: 63-65
 source: sources/Flacourtiaceae_vol34_paddle
 countries: [Cameroon, Democratic Republic of the Congo, Gabon]
 in_region: true
-tags: [species, generated]
+tags: [species, generated, superseded-circumscription]
 ---
 # *Oncoba flagellifera* (MILDBR.) HUL, comb. nov.
 
 **Genus**: [[Oncoba]]
 **Family**: [[Flacourtiaceae]]
+**Modern family**: [[Salicaceae]] — *Flacourtiaceae* as circumscribed here is superseded; see [[Flacourtiaceae]]
 
 ## Synonyms
 
@@ -71,3 +73,4 @@ Hallé & Villiers 4987, rocher Bangwé, 6/2/1968 (P).
 - [[Oncoba]]
 - [[Flacourtiaceae]]
 - [[vol34]]
+- [[Salicaceae]] — where this taxon now belongs

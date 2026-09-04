@@ -3,15 +3,17 @@ type: genus
 name: Oubanguia
 authority: Baillon
 family: Scytopetalaceae
+modern_family: Lecythidaceae subfam. Scytopetaloideae
 species_in_region: 3
 treatments:
   - vol: 24
     source: sources/Scytopetalaceae_vol24_paddle
-tags: [genus, generated]
+tags: [genus, generated, superseded-circumscription]
 ---
 # *Oubanguia* Baillon
 
 **Family**: [[Scytopetalaceae]]
+**Modern family**: [[Lecythidaceae]] subfam. Scytopetaloideae — *Scytopetalaceae* as circumscribed here is superseded; see [[Scytopetalaceae]]
 **Authority**: Baillon
 **Protologue**: Bull. Soc. Linn. Paris 2 (109) : 869 (1890); ENGL., Nat. Pflanzenfam., Nacht. I zu III, 6 : 233 (1897); V. TIERGH., Ann. Sc. Nat., ser. 9, 1 : 324 (1905); ENGL., Nat. Pflanzenfam., Nacht. III zu III, 6 : 218 (1908); Pflanzenw. Afr. 3 (2) : 471 (1921); LETOUZEY, Adansonia, ser. 2, 1 (1) : 108 (1961); GERMAIN, FCB 10 : 327 (1963); HUTCH., Gen. Fl. Plants 2 : 469 (1967)
 
@@ -67,3 +69,4 @@ This genus comprises only 3 species and is known only from South-East Nigeria, C
 
 - [[Scytopetalaceae]]
 - [[vol24]]
+- [[Lecythidaceae]] — where this taxon now belongs

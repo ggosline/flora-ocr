@@ -3,15 +3,17 @@ type: genus
 name: Magnistipula
 authority: Engler
 family: Scytopetalaceae
+modern_family: Lecythidaceae subfam. Scytopetaloideae
 species_in_region: 8
 treatments:
   - vol: 24
     source: sources/Chrysobalanaceae_vol24_paddle
-tags: [genus, generated]
+tags: [genus, generated, superseded-circumscription]
 ---
 # *Magnistipula* Engler
 
 **Family**: [[Scytopetalaceae]]
+**Modern family**: [[Lecythidaceae]] subfam. Scytopetaloideae — *Scytopetalaceae* as circumscribed here is superseded; see [[Scytopetalaceae]]
 **Authority**: Engler
 **Protologue**: Bot. Jahrb. 36 : 226 (1905); Haum., BJBB 21 : 173 (1951); Graham, FTEA, Rosacea :
 
@@ -68,3 +70,4 @@ Genus grouping 2 species (M. tamenaka (Cap.) Prance & F. White ms., M. cerebrifo
 
 - [[Scytopetalaceae]]
 - [[vol24]]
+- [[Lecythidaceae]] — where this taxon now belongs

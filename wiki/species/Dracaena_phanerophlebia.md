@@ -4,6 +4,7 @@ name: Dracaena phanerophlebia
 authority: Baker Figure 4(D)
 genus: Dracaena
 family: Dracaenaceae
+modern_family: Asparagaceae subfam. Nolinoideae
 vol: 54
 pages: 49-51
 source: sources/Dracaenaceae_vol54_liteparse
@@ -13,12 +14,13 @@ subdivisions:
   Gabon: [Estuaire, Ogooué-Ivindo, Woleu-Ntem]
 habit: "shrub"
 altitude_m: "60–650"
-tags: [species, generated]
+tags: [species, generated, superseded-circumscription]
 ---
 # *Dracaena phanerophlebia* Baker Figure 4(D)
 
 **Genus**: [[Dracaena]]
 **Family**: [[Dracaenaceae]]
+**Modern family**: [[Asparagaceae]] subfam. Nolinoideae — *Dracaenaceae* as circumscribed here is superseded; see [[Dracaenaceae]]
 **Protologue**: Pleomele phanerophlebia (Baker) N.E.Br., Bull. Misc. Inform. Kew 1914 : 278 (1914)
 
 ## Description
@@ -42,3 +44,4 @@ understory of primary and secondary forests, river margins, shaded stations; in 
 - [[Dracaena]]
 - [[Dracaenaceae]]
 - [[vol54]]
+- [[Asparagaceae]] — where this taxon now belongs

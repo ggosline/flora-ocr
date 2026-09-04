@@ -4,17 +4,19 @@ name: Avicennia germinans
 authority: (Linné) Linné
 genus: Avicennia
 family: Avicenniaceae
+modern_family: Acanthaceae subfam. Avicennioideae
 vol: 22
 pages: 66-69
 source: sources/Avicenniaceae_vol22_paddle
 habit: "tree"
 habitat: [mangrove]
-tags: [species, generated]
+tags: [species, generated, superseded-circumscription]
 ---
 # *Avicennia germinans* (Linné) Linné
 
 **Genus**: [[Avicennia]]
 **Family**: [[Avicenniaceae]]
+**Modern family**: [[Acanthaceae]] subfam. Avicennioideae — *Avicenniaceae* as circumscribed here is superseded; see [[Avicenniaceae]]
 **Protologue**: Sp. Pl., ed. 3, 2 : 891 (1764); STEARN, Kew Bull. : 4 34 (1958); COMPÈRE, Taxon 12 : 150 (1963)
 
 ## Synonyms
@@ -91,3 +93,4 @@ Villiers J.-F. 8, 23, 89, 143, riv. Maliba (fl., mars-juin); 262, plage de la Bl
 - [[Avicennia]]
 - [[Avicenniaceae]]
 - [[vol22]]
+- [[Acanthaceae]] — where this taxon now belongs

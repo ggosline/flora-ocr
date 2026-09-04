@@ -4,6 +4,7 @@ name: Dracaena tholloniana
 authority: Hua Planche 19
 genus: Dracaena
 family: Dracaenaceae
+modern_family: Asparagaceae subfam. Nolinoideae
 vol: 54
 pages: 53-55
 source: sources/Dracaenaceae_vol54_liteparse
@@ -13,12 +14,13 @@ subdivisions:
   Gabon: [Estuaire, Moyen-Ogooué, Ngounié, Ogooué-Ivindo, Ogooué-Lolo, Woleu-Ntem]
 habit: "shrub"
 altitude_m: "0–1000"
-tags: [species, generated]
+tags: [species, generated, superseded-circumscription]
 ---
 # *Dracaena tholloniana* Hua Planche 19
 
 **Genus**: [[Dracaena]]
 **Family**: [[Dracaenaceae]]
+**Modern family**: [[Asparagaceae]] subfam. Nolinoideae — *Dracaenaceae* as circumscribed here is superseded; see [[Dracaenaceae]]
 **Protologue**: Bull. Soc. Hist. Nat. Autun 10 : 662 (1897)
 
 ## Synonyms
@@ -68,3 +70,4 @@ See notes under D. aubryana. B: Baker (1898), Bos (1984), Damen et al. (2018), M
 - [[Dracaena]]
 - [[Dracaenaceae]]
 - [[vol54]]
+- [[Asparagaceae]] — where this taxon now belongs

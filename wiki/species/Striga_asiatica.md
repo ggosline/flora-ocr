@@ -4,6 +4,7 @@ name: Striga asiatica
 authority: (L.) Kuntze Planche 43(A–B), 56(C)
 genus: Striga
 family: Scrophulariaceae
+modern_family: Orobanchaceae
 vol: 48
 pages: 133-135
 source: sources/Scrophulariaceae_vol48_liteparse
@@ -14,12 +15,13 @@ subdivisions:
 habit: "herb"
 habitat: [rocky ground]
 altitude_m: "500"
-tags: [species, generated]
+tags: [species, generated, superseded-circumscription]
 ---
 # *Striga asiatica* (L.) Kuntze Planche 43(A–B), 56(C)
 
 **Genus**: [[Striga]]
 **Family**: [[Scrophulariaceae]]
+**Modern family**: [[Orobanchaceae]] — *Scrophulariaceae* as circumscribed here is superseded; see [[Scrophulariaceae]]
 **Protologue**: Revis. gen. pl. 2 : 466 (1891)
 
 ## Synonyms
@@ -59,3 +61,4 @@ B: Fischer (2006b), Ghazanfar et al. (2008), Hepper (1963), Mielcarek (1996), Mo
 - [[Striga]]
 - [[Scrophulariaceae]]
 - [[vol48]]
+- [[Orobanchaceae]] — where this taxon now belongs

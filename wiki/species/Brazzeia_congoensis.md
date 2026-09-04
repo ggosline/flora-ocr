@@ -4,18 +4,20 @@ name: Brazzeia congoensis
 authority: Baillon
 genus: Brazzeia
 family: Scytopetalaceae
+modern_family: Lecythidaceae subfam. Scytopetaloideae
 vol: 24
 pages: 145-148
 source: sources/Scytopetalaceae_vol24_paddle
 countries: [Cameroon, Central African Republic, Democratic Republic of the Congo, Gabon]
 in_region: true
 habitat: [savanna]
-tags: [species, generated]
+tags: [species, generated, superseded-circumscription]
 ---
 # *Brazzeia congoensis* Baillon
 
 **Genus**: [[Brazzeia]]
 **Family**: [[Scytopetalaceae]]
+**Modern family**: [[Lecythidaceae]] subfam. Scytopetaloideae — *Scytopetalaceae* as circumscribed here is superseded; see [[Scytopetalaceae]]
 **Protologue**: Bull. Soc. Linn. Paris 1 : 609 (1886); V. Tiegh., Ann. Sc. Nat., ser. 9, 1 : 352 (1905); Engl., Nat. Pflanzenfam., Nacht. III zu IV, 6 : 218 (1908); A. Chev., Veg. Ut. Afr. Trop. Fr. 9, For. Bois Gabon : 83 (1917); Engl., Pflanzenw. Afr. 3 (2) : 473 (1921); Letouzey, Adansonia, ser. 2, 1 (1) : 129, tab. 5 (1961); Germain, FCB 10 : 322 (1963)
 
 ## Description
@@ -103,3 +105,4 @@ Hladik 1837, R. Ivindo, Makokou (fr. nov.).
 - [[Brazzeia]]
 - [[Scytopetalaceae]]
 - [[vol24]]
+- [[Lecythidaceae]] — where this taxon now belongs

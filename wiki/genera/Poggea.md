@@ -2,15 +2,17 @@
 type: genus
 name: Poggea
 family: Flacourtiaceae
+modern_family: Achariaceae
 species_in_region: 3
 treatments:
   - vol: 34
     source: sources/Flacourtiaceae_vol34_paddle
-tags: [genus, generated]
+tags: [genus, generated, superseded-circumscription]
 ---
 # *Poggea*
 
 **Family**: [[Flacourtiaceae]]
+**Modern family**: [[Achariaceae]] — *Flacourtiaceae* as circumscribed here is superseded; see [[Flacourtiaceae]]
 
 ## Diagnosis
 
@@ -150,3 +152,4 @@ Hladik 1338 (12.8), 1535 (12.2), 1548 (12.6), 1836 (12.2), 1846 (12.8), 1550, 19
 
 - [[Flacourtiaceae]]
 - [[vol34]]
+- [[Achariaceae]] — where this taxon now belongs

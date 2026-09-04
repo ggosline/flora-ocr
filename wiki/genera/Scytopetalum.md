@@ -3,15 +3,17 @@ type: genus
 name: Scytopetalum
 authority: Pierre ex Engler
 family: Scytopetalaceae
+modern_family: Lecythidaceae subfam. Scytopetaloideae
 species_in_region: 2
 treatments:
   - vol: 24
     source: sources/Scytopetalaceae_vol24_paddle
-tags: [genus, generated]
+tags: [genus, generated, superseded-circumscription]
 ---
 # *Scytopetalum* Pierre ex Engler
 
 **Family**: [[Scytopetalaceae]]
+**Modern family**: [[Lecythidaceae]] subfam. Scytopetaloideae — *Scytopetalaceae* as circumscribed here is superseded; see [[Scytopetalaceae]]
 **Authority**: Pierre ex Engler
 **Protologue**: Nat. Pflanzenfam., Nacht. I zu III, 6 : 244, tab. 51a (1897); V. TIEGH., Ann. Sc. Nat., ser. 9, 1 : 341 (1905); ENGL., Nat. Pflanzenfam., Nacht. III zu III, 6 : 218 (1908); Pflanzenw. Afr. 3 (2) : 471 (1921); LETOUZEY, Adansonia, ser. 2, 1 (1) : 116 (1961); GERMAIN, FCB 10 : 326 (1963); HUTCH., Gen. Fl. Plants 2 : 470 (1967)
 
@@ -55,3 +57,4 @@ This genus is represented in tropical Africa by 3 species whose ranges appear fa
 
 - [[Scytopetalaceae]]
 - [[vol24]]
+- [[Lecythidaceae]] — where this taxon now belongs

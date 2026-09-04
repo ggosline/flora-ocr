@@ -4,18 +4,20 @@ name: Homalium abdessammadii
 authority: Asch. & Schweinf.
 genus: Homalium
 family: Flacourtiaceae
+modern_family: Salicaceae
 vol: 34
 pages: 79-81
 source: sources/Flacourtiaceae_vol34_paddle
 countries: [Angola, Cameroon, Democratic Republic of the Congo, Gabon, Kenya, Mozambique, Sudan, Tanzania, Zambia]
 in_region: true
 habitat: [riverine]
-tags: [species, generated]
+tags: [species, generated, superseded-circumscription]
 ---
 # *Homalium abdessammadii* Asch. & Schweinf.
 
 **Genus**: [[Homalium]]
 **Family**: [[Flacourtiaceae]]
+**Modern family**: [[Salicaceae]] — *Flacourtiaceae* as circumscribed here is superseded; see [[Flacourtiaceae]]
 **Protologue**: Sitzungsber. Ges. Nat. Freunde Berlin : 130 (1880) ; WARB., in ENGL. & PRANTL, NPF 3 (6a) : 36 (1893) ; GILG, EBJ 40 : 494 (1908) ; SLEUMER, BJBB 43 : 309 (1973) ; (avec la collab. de BAMPS), FCBR, Flacourt. 2 : 12 (1976). TYPE : Schweinfurth 3954, Soudan (lecto-, isolecto-)
 
 ## Description
@@ -85,3 +87,4 @@ HYLLOBOTRYON 6.1 spathulatum, p. 24. 6.2 bracteatum, p. 26.
 - [[Homalium]]
 - [[Flacourtiaceae]]
 - [[vol34]]
+- [[Salicaceae]] — where this taxon now belongs

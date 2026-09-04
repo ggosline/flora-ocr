@@ -3,15 +3,17 @@ type: genus
 name: Brazzeia
 authority: Baillon
 family: Scytopetalaceae
+modern_family: Lecythidaceae subfam. Scytopetaloideae
 species_in_region: 2
 treatments:
   - vol: 24
     source: sources/Scytopetalaceae_vol24_paddle
-tags: [genus, generated]
+tags: [genus, generated, superseded-circumscription]
 ---
 # *Brazzeia* Baillon
 
 **Family**: [[Scytopetalaceae]]
+**Modern family**: [[Lecythidaceae]] subfam. Scytopetaloideae — *Scytopetalaceae* as circumscribed here is superseded; see [[Scytopetalaceae]]
 **Authority**: Baillon
 **Protologue**: Bull. Soc. Linn. Paris 1 : 609 (1886); V. TIEGH., Ann. Sc. Nat., ser. 9, 1 : 352 (1905); ENGL., Nat. Pflanzenfam., Nacht. III zu III, 6 : 218 (1908); Pflanzenwelt Afr. 3 (2) : 471 (1921); LETOUZEY, Adansonia, ser. 2, 1 (1) : 129 (1961); GERMAIN, FCB 10 : 321
 
@@ -54,3 +56,4 @@ This African genus comprises only two species in central Africa, present in Came
 
 - [[Scytopetalaceae]]
 - [[vol24]]
+- [[Lecythidaceae]] — where this taxon now belongs

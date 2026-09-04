@@ -3,15 +3,17 @@ type: genus
 name: Calophyllum
 authority: L.
 family: Clusiaceae
+modern_family: Calophyllaceae
 species_in_region: 1
 treatments:
   - vol: 45
     source: sources/Clusiaceae_vol45_liteparse
-tags: [genus, generated]
+tags: [genus, generated, superseded-circumscription]
 ---
 # *Calophyllum* L.
 
 **Family**: [[Clusiaceae]]
+**Modern family**: [[Calophyllaceae]] — *Clusiaceae* as circumscribed here is superseded; see [[Clusiaceae]]
 **Authority**: L.
 **Protologue**: Sp. pl. : 513 (1753) ; Gen. pl. , éd. 5 : 229 (1754)
 
@@ -47,3 +49,4 @@ Bibliography
 
 - [[Clusiaceae]]
 - [[vol45]]
+- [[Calophyllaceae]] — where this taxon now belongs

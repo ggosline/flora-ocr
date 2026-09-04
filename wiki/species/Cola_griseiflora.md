@@ -4,16 +4,18 @@ name: Cola griseiflora
 authority: De Wildeman.
 genus: Cola
 family: Sterculiaceae
+modern_family: Malvaceae s.l.
 vol: 02
 pages: 78-80
 source: sources/Sterculiaceae_vol02_paddle
 habit: "tree"
-tags: [species, generated]
+tags: [species, generated, superseded-circumscription]
 ---
 # *Cola griseiflora* De Wildeman.
 
 **Genus**: [[Cola]]
 **Family**: [[Sterculiaceae]]
+**Modern family**: [[Malvaceae]] s.l. — *Sterculiaceae* as circumscribed here is superseded; see [[Sterculiaceae]]
 
 ## Synonyms
 
@@ -48,3 +50,4 @@ Le Testu : 2167, région de la Ngounyé (fl. oct.); 7534, 7659, 8269, 8531, rég
 - [[Cola]]
 - [[Sterculiaceae]]
 - [[vol02]]
+- [[Malvaceae]] — where this taxon now belongs

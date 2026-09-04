@@ -4,18 +4,20 @@ name: Acioa pallescens
 authority: Baillon
 genus: Acioa
 family: Scytopetalaceae
+modern_family: Lecythidaceae subfam. Scytopetaloideae
 vol: 24
 pages: 54-57
 source: sources/Chrysobalanaceae_vol24_paddle
 countries: [Angola, Cameroon, Central African Republic, Democratic Republic of the Congo, Nigeria]
 in_region: true
 habit: "tree"
-tags: [species, generated]
+tags: [species, generated, superseded-circumscription]
 ---
 # *Acioa pallescens* Baillon
 
 **Genus**: [[Acioa]]
 **Family**: [[Scytopetalaceae]]
+**Modern family**: [[Lecythidaceae]] subfam. Scytopetaloideae — *Scytopetalaceae* as circumscribed here is superseded; see [[Scytopetalaceae]]
 **Protologue**: Adansonia, ser. 1, 7 : 224 (1867); ENGL., Pflanzenw. Afr. 3 (1) : 309 (1915); DE WILD., BJBB 7 : 207 (1920); KEAY, FWTA, ed. 2, 1 (2) : 433, tab. 142 (1958); KEAY, ONOCHIE & STANFIELD, Nig. Trees 1 : 320, tab. 83 (1960)
 
 ## Description
@@ -89,3 +91,4 @@ Villiers J.-F. 252, 277, Mondah near Libreville (fl., Sept.).
 - [[Acioa]]
 - [[Scytopetalaceae]]
 - [[vol24]]
+- [[Lecythidaceae]] — where this taxon now belongs

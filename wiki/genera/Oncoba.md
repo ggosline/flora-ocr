@@ -3,15 +3,17 @@ type: genus
 name: Oncoba
 authority: Forssk.
 family: Flacourtiaceae
+modern_family: Salicaceae
 species_in_region: 9
 treatments:
   - vol: 34
     source: sources/Flacourtiaceae_vol34_paddle
-tags: [genus, generated]
+tags: [genus, generated, superseded-circumscription]
 ---
 # *Oncoba* Forssk.
 
 **Family**: [[Flacourtiaceae]]
+**Modern family**: [[Salicaceae]] — *Flacourtiaceae* as circumscribed here is superseded; see [[Flacourtiaceae]]
 **Authority**: Forssk.
 **Protologue**: Fl. Aegypt.-Arab. : 103 (1775) ; OLIV., FTA 1 : 114 (1868) ; WARB., in ENGL. & PRANTL, NPT 3 (6a) : 17 (1893) ; GILG, EBJ 40 : 454 (1908) ; HUTCH., DALZIEL & CHIPP, in HUTCH. & DALZIEL, FWTA 1 (1) : 160 (1927) ; BAMPS, FCBR, Spermat., Flacourt. 1 : 16 (1968) ; SLEUMER, FTEA, Flacourt. : 15 (1975)
 
@@ -79,3 +81,4 @@ Genus of Arabia, tropical Africa and America, comprising approximately 30 specie
 
 - [[Flacourtiaceae]]
 - [[vol34]]
+- [[Salicaceae]] — where this taxon now belongs

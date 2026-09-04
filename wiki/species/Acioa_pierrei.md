@@ -4,18 +4,20 @@ name: Acioa pierrei
 authority: De Wildeman
 genus: Acioa
 family: Scytopetalaceae
+modern_family: Lecythidaceae subfam. Scytopetaloideae
 vol: 24
 pages: 57-60
 source: sources/Chrysobalanaceae_vol24_paddle
 countries: [Gabon]
 in_region: true
 habit: "shrub"
-tags: [species, generated]
+tags: [species, generated, superseded-circumscription]
 ---
 # *Acioa pierrei* De Wildeman
 
 **Genus**: [[Acioa]]
 **Family**: [[Scytopetalaceae]]
+**Modern family**: [[Lecythidaceae]] subfam. Scytopetaloideae — *Scytopetalaceae* as circumscribed here is superseded; see [[Scytopetalaceae]]
 **Protologue**: BJBB 7:212 (1920); WALKER & SILLANS, Pl. Ut. Gabon : 358 (1961)
 
 ## Description
@@ -57,3 +59,4 @@ Le Testu 1119 (fl., August); 1779, 2114 (fl., September); Tchibanga.
 - [[Acioa]]
 - [[Scytopetalaceae]]
 - [[vol24]]
+- [[Lecythidaceae]] — where this taxon now belongs

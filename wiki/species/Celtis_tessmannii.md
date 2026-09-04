@@ -4,6 +4,7 @@ name: Celtis tessmannii
 authority: Rendle Planche 34
 genus: Celtis
 family: Ulmaceae
+modern_family: Cannabaceae
 vol: 58
 pages: 127-129
 source: sources/Ulmaceae_vol58_liteparse
@@ -14,12 +15,13 @@ subdivisions:
 habit: "tree"
 habitat: [secondary forest]
 altitude_m: "50–700"
-tags: [species, generated]
+tags: [species, generated, superseded-circumscription]
 ---
 # *Celtis tessmannii* Rendle Planche 34
 
 **Genus**: [[Celtis]]
 **Family**: [[Ulmaceae]]
+**Modern family**: [[Cannabaceae]] — *Ulmaceae* as circumscribed here is superseded; see [[Ulmaceae]]
 **Protologue**: J. Bot . 53 : 297 (1915)
 
 ## Description
@@ -53,3 +55,4 @@ diania (nom pilote) ; African celtis (angl.) ; engo (fang) ; ghétsemè (mitsogh
 - [[Celtis]]
 - [[Ulmaceae]]
 - [[vol58]]
+- [[Cannabaceae]] — where this taxon now belongs

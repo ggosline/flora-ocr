@@ -4,6 +4,7 @@ name: Striga hallaei
 authority: A.Raynal Planche 44, 56(K)
 genus: Striga
 family: Scrophulariaceae
+modern_family: Orobanchaceae
 vol: 48
 pages: 135-137
 source: sources/Scrophulariaceae_vol48_liteparse
@@ -13,12 +14,13 @@ subdivisions:
   Gabon: [Woleu-Ntem]
 habit: "herb"
 altitude_m: "540"
-tags: [species, generated]
+tags: [species, generated, superseded-circumscription]
 ---
 # *Striga hallaei* A.Raynal Planche 44, 56(K)
 
 **Genus**: [[Striga]]
 **Family**: [[Scrophulariaceae]]
+**Modern family**: [[Orobanchaceae]] — *Scrophulariaceae* as circumscribed here is superseded; see [[Scrophulariaceae]]
 **Protologue**: Bull. Jard. Bot. Nat. Belg . 39 : 374 (1969)
 
 ## Description
@@ -54,3 +56,4 @@ ombroph ilous forests, river edge in forest; in Gabon, at 540 m, in the Democrat
 - [[Striga]]
 - [[Scrophulariaceae]]
 - [[vol48]]
+- [[Orobanchaceae]] — where this taxon now belongs

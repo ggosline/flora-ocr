@@ -4,16 +4,18 @@ name: Cola letestui
 authority: Pellegrin.
 genus: Cola
 family: Sterculiaceae
+modern_family: Malvaceae s.l.
 vol: 02
 pages: 72-74
 source: sources/Sterculiaceae_vol02_paddle
 habit: "shrub"
-tags: [species, generated]
+tags: [species, generated, superseded-circumscription]
 ---
 # *Cola letestui* Pellegrin.
 
 **Genus**: [[Cola]]
 **Family**: [[Sterculiaceae]]
+**Modern family**: [[Malvaceae]] s.l. — *Sterculiaceae* as circumscribed here is superseded; see [[Sterculiaceae]]
 **Protologue**: PELL., Bull. Mus. Paris 27 : 445 (1921), réf. orig., Fl. Mayombe I : 35 (1924) et Sterc. Gab., Mém. S. B. Fr. : 38 (1950-1951)
 
 ## Description
@@ -51,3 +53,4 @@ Le Testu: 2325, 5120, Ngounyé (fl. Oct.; fr. Nov.); 7472, 7504, 7504 bis, Lasto
 - [[Cola]]
 - [[Sterculiaceae]]
 - [[vol02]]
+- [[Malvaceae]] — where this taxon now belongs

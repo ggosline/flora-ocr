@@ -3,15 +3,17 @@ type: genus
 name: Byttneria
 authority: Loefl. (nom. conserv.)^{(1).
 family: Sterculiaceae
+modern_family: Malvaceae s.l.
 species_in_region: 1
 treatments:
   - vol: 02
     source: sources/Sterculiaceae_vol02_paddle
-tags: [genus, generated]
+tags: [genus, generated, superseded-circumscription]
 ---
 # *Byttneria* Loefl. (nom. conserv.)^{(1).
 
 **Family**: [[Sterculiaceae]]
+**Modern family**: [[Malvaceae]] s.l. — *Sterculiaceae* as circumscribed here is superseded; see [[Sterculiaceae]]
 **Authority**: Loefl. (nom. conserv.)^{(1).
 **Protologue**: LoEFL., It. Hisp.: 313 (1758)
 
@@ -69,3 +71,4 @@ The source key separates these species but the volume gives them no treatment, u
 
 - [[Sterculiaceae]]
 - [[vol02]]
+- [[Malvaceae]] — where this taxon now belongs

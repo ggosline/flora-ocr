@@ -3,15 +3,17 @@ type: genus
 name: Avicennia
 authority: Linné
 family: Avicenniaceae
+modern_family: Acanthaceae subfam. Avicennioideae
 species_in_region: 1
 treatments:
   - vol: 22
     source: sources/Avicenniaceae_vol22_paddle
-tags: [genus, generated]
+tags: [genus, generated, superseded-circumscription]
 ---
 # *Avicennia* Linné
 
 **Family**: [[Avicenniaceae]]
+**Modern family**: [[Acanthaceae]] subfam. Avicennioideae — *Avicenniaceae* as circumscribed here is superseded; see [[Avicenniaceae]]
 **Authority**: Linné
 **Protologue**: Sp. Pl. : 110 (1753); l.c. : 110, « Avicenia »; l.c. : 116 « Avicenna »
 
@@ -41,3 +43,4 @@ TYPE SPECIES: Avicennia officinalis Linné.
 
 - [[Avicenniaceae]]
 - [[vol22]]
+- [[Acanthaceae]] — where this taxon now belongs

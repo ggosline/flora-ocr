@@ -4,18 +4,20 @@ name: Oncoba brachyanthera
 authority: Oliv.
 genus: Oncoba
 family: Flacourtiaceae
+modern_family: Salicaceae
 vol: 34
 pages: 46-47
 source: sources/Flacourtiaceae_vol34_paddle
 countries: [Cameroon, Cote d'Ivoire, Democratic Republic of the Congo, Gabon, Ghana, Guinea, Liberia, Nigeria, Sierra Leone, Togo]
 in_region: true
 habit: "tree"
-tags: [species, generated]
+tags: [species, generated, superseded-circumscription]
 ---
 # *Oncoba brachyanthera* Oliv.
 
 **Genus**: [[Oncoba]]
 **Family**: [[Flacourtiaceae]]
+**Modern family**: [[Salicaceae]] — *Flacourtiaceae* as circumscribed here is superseded; see [[Flacourtiaceae]]
 **Protologue**: FTA 1 : 116 (1868) ; GILG, EBJ 40 : 454 (1908) ; HUTCH., DALZIEL & CHIPP, in HUTCH. & DALZIEL, FWTA : 160 (1927) ; BAMPS, FCBR, Spermat., Flacourt. 1 : 18 (1968). TYPE : Mann 829, Sierra Leone (holo-)
 
 ## Description
@@ -59,3 +61,4 @@ Chevalier 27085, Mboro, sur le Ramboué, 14/10/1912, bout. fl. (P). Louis, Brete
 - [[Oncoba]]
 - [[Flacourtiaceae]]
 - [[vol34]]
+- [[Salicaceae]] — where this taxon now belongs

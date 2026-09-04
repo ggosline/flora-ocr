@@ -4,6 +4,7 @@ name: Torenia mannii
 authority: Skan Planche 48
 genus: Torenia
 family: Scrophulariaceae
+modern_family: Linderniaceae
 vol: 48
 pages: 141-145
 source: sources/Scrophulariaceae_vol48_liteparse
@@ -12,12 +13,13 @@ in_region: true
 habit: "herb"
 habitat: [rocky ground]
 altitude_m: "500"
-tags: [species, generated]
+tags: [species, generated, superseded-circumscription]
 ---
 # *Torenia mannii* Skan Planche 48
 
 **Genus**: [[Torenia]]
 **Family**: [[Scrophulariaceae]]
+**Modern family**: [[Linderniaceae]] — *Scrophulariaceae* as circumscribed here is superseded; see [[Scrophulariaceae]]
 **Protologue**: Fl. trop. Afr . 4(2) : 336 (1906)
 
 ## Description
@@ -51,3 +53,4 @@ rocky slabs on inselbergs in forest; probably always above 500 m, up to 1100 m a
 - [[Torenia]]
 - [[Scrophulariaceae]]
 - [[vol48]]
+- [[Linderniaceae]] — where this taxon now belongs

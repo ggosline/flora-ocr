@@ -4,6 +4,7 @@ name: Sopubia simplex
 authority: (Hochst.) Hochst. Planche 42
 genus: Sopubia
 family: Scrophulariaceae
+modern_family: Orobanchaceae
 vol: 48
 pages: 131-131
 source: sources/Scrophulariaceae_vol48_liteparse
@@ -13,12 +14,13 @@ subdivisions:
   Gabon: [Ngounié, Nyanga]
 habit: "herb"
 altitude_m: "250"
-tags: [species, generated]
+tags: [species, generated, superseded-circumscription]
 ---
 # *Sopubia simplex* (Hochst.) Hochst. Planche 42
 
 **Genus**: [[Sopubia]]
 **Family**: [[Scrophulariaceae]]
+**Modern family**: [[Orobanchaceae]] — *Scrophulariaceae* as circumscribed here is superseded; see [[Scrophulariaceae]]
 **Protologue**: Flora 27 : 27 (1844)
 
 ## Description
@@ -48,3 +50,4 @@ swampy savannas; in Gabon, up to 250 m altitude, in East Africa, up to 2300 m. B
 - [[Sopubia]]
 - [[Scrophulariaceae]]
 - [[vol48]]
+- [[Orobanchaceae]] — where this taxon now belongs

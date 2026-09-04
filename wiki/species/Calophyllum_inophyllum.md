@@ -4,6 +4,7 @@ name: Calophyllum inophyllum
 authority: L. Planche 2
 genus: Calophyllum
 family: Clusiaceae
+modern_family: Calophyllaceae
 vol: 45
 pages: 15-17
 source: sources/Clusiaceae_vol45_liteparse
@@ -12,12 +13,13 @@ in_region: true
 habit: "tree"
 habitat: [coastal, rocky ground]
 altitude_m: "200"
-tags: [species, generated]
+tags: [species, generated, superseded-circumscription]
 ---
 # *Calophyllum inophyllum* L. Planche 2
 
 **Genus**: [[Calophyllum]]
 **Family**: [[Clusiaceae]]
+**Modern family**: [[Calophyllaceae]] — *Clusiaceae* as circumscribed here is superseded; see [[Clusiaceae]]
 **Protologue**: Sp. pl. 1 : 513 (1753)
 
 ## Description
@@ -57,3 +59,4 @@ the mother after childbirth. The oils of takamaka are today the subject of indus
 - [[Calophyllum]]
 - [[Clusiaceae]]
 - [[vol45]]
+- [[Calophyllaceae]] — where this taxon now belongs

@@ -4,6 +4,7 @@ name: Ledebouria camerooniana
 authority: (Baker) Speta Planche 7
 genus: Ledebouria
 family: Hyacinthaceae
+modern_family: Asparagaceae subfam. Scilloideae
 vol: 40
 pages: 32-32
 source: sources/Hyacinthaceae_vol40_liteparse
@@ -11,12 +12,13 @@ countries: [Benin, Cameroon, Gabon]
 in_region: true
 habitat: [coastal]
 altitude_m: "0–250"
-tags: [species, generated]
+tags: [species, generated, superseded-circumscription]
 ---
 # *Ledebouria camerooniana* (Baker) Speta Planche 7
 
 **Genus**: [[Ledebouria]]
 **Family**: [[Hyacinthaceae]]
+**Modern family**: [[Asparagaceae]] subfam. Scilloideae — *Hyacinthaceae* as circumscribed here is superseded; see [[Hyacinthaceae]]
 **Protologue**: Phyton (Horn) 38(1) : 105 (1998)
 
 ## Synonyms
@@ -50,3 +52,4 @@ in coastal savannas and pond margins, on dry and wet soils; in Gabon at 0–250 
 - [[Ledebouria]]
 - [[Hyacinthaceae]]
 - [[vol40]]
+- [[Asparagaceae]] — where this taxon now belongs

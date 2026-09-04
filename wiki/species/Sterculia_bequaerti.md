@@ -4,16 +4,18 @@ name: Sterculia bequaerti
 authority: De Wildeman.
 genus: Sterculia
 family: Sterculiaceae
+modern_family: Malvaceae s.l.
 vol: 02
 pages: 17-20
 source: sources/Sterculiaceae_vol02_paddle
 habit: "tree"
-tags: [species, generated]
+tags: [species, generated, superseded-circumscription]
 ---
 # *Sterculia bequaerti* De Wildeman.
 
 **Genus**: [[Sterculia]]
 **Family**: [[Sterculiaceae]]
+**Modern family**: [[Malvaceae]] s.l. — *Sterculiaceae* as circumscribed here is superseded; see [[Sterculiaceae]]
 **Protologue**: Ann. Soc. Sc. Brux. Sess. 27 janv, 188 (1921) réf. orig
 
 ## Description
@@ -51,3 +53,4 @@ Single collection from Gabon: Le Testu 1875, Mayombe Bayaka, Tchi-banga (fl. Nov
 - [[Sterculia]]
 - [[Sterculiaceae]]
 - [[vol02]]
+- [[Malvaceae]] — where this taxon now belongs

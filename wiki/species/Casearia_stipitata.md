@@ -4,18 +4,20 @@ name: Casearia stipitata
 authority: Mast.
 genus: Casearia
 family: Flacourtiaceae
+modern_family: Salicaceae
 vol: 34
 pages: 22-23
 source: sources/Flacourtiaceae_vol34_paddle
 countries: [Cameroon, Cote d'Ivoire, Democratic Republic of the Congo, Gabon, Nigeria]
 in_region: true
 habit: "tree"
-tags: [species, generated]
+tags: [species, generated, superseded-circumscription]
 ---
 # *Casearia stipitata* Mast.
 
 **Genus**: [[Casearia]]
 **Family**: [[Flacourtiaceae]]
+**Modern family**: [[Salicaceae]] — *Flacourtiaceae* as circumscribed here is superseded; see [[Flacourtiaceae]]
 
 ## Description
 
@@ -62,3 +64,4 @@ Guillery 1198 SRF, Oguémoué, 20/11/1953, fr. (P). Hallé & Le Thomas 313, Mék
 - [[Casearia]]
 - [[Flacourtiaceae]]
 - [[vol34]]
+- [[Salicaceae]] — where this taxon now belongs

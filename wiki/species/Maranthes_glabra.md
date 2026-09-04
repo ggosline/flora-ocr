@@ -4,6 +4,7 @@ name: Maranthes glabra
 authority: (Oliver) Prance
 genus: Maranthes
 family: Scytopetalaceae
+modern_family: Lecythidaceae subfam. Scytopetaloideae
 vol: 24
 pages: 110-114
 source: sources/Chrysobalanaceae_vol24_paddle
@@ -11,12 +12,13 @@ countries: [Angola, Cameroon, Central African Republic, Democratic Republic of t
 in_region: true
 habitat: [swamp forest, coastal]
 altitude_m: "850"
-tags: [species, generated]
+tags: [species, generated, superseded-circumscription]
 ---
 # *Maranthes glabra* (Oliver) Prance
 
 **Genus**: [[Maranthes]]
 **Family**: [[Scytopetalaceae]]
+**Modern family**: [[Lecythidaceae]] subfam. Scytopetaloideae — *Scytopetalaceae* as circumscribed here is superseded; see [[Scytopetalaceae]]
 **Protologue**: Bol. Soc. Brot., ser. 2, 40 : 184 (1966); Mendes, Consp. Fl. Angol. 4 : 15 (1970); White, BJBB 46 : 300 (1976)
 
 ## Synonyms
@@ -126,3 +128,4 @@ In Congo it is involved (root powder) in the treatment of chronic mange and alop
 - [[Maranthes]]
 - [[Scytopetalaceae]]
 - [[vol24]]
+- [[Lecythidaceae]] — where this taxon now belongs

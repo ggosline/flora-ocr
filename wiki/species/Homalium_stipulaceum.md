@@ -4,16 +4,18 @@ name: Homalium stipulaceum
 authority: Welw. ex Mast.
 genus: Homalium
 family: Flacourtiaceae
+modern_family: Salicaceae
 vol: 34
 pages: 69-70
 source: sources/Flacourtiaceae_vol34_paddle
 countries_incomplete: true
-tags: [species, generated]
+tags: [species, generated, superseded-circumscription]
 ---
 # *Homalium stipulaceum* Welw. ex Mast.
 
 **Genus**: [[Homalium]]
 **Family**: [[Flacourtiaceae]]
+**Modern family**: [[Salicaceae]] — *Flacourtiaceae* as circumscribed here is superseded; see [[Flacourtiaceae]]
 
 ## Description
 
@@ -60,3 +62,4 @@ Le Testu 1969, Tchibanga, 7/1/1915, fl. (P). Touzet 107, N'koulounga, 12/12/1958
 - [[Homalium]]
 - [[Flacourtiaceae]]
 - [[vol34]]
+- [[Salicaceae]] — where this taxon now belongs

@@ -3,15 +3,17 @@ type: genus
 name: Celtis
 authority: L.
 family: Ulmaceae
+modern_family: Cannabaceae
 species_in_region: 4
 treatments:
   - vol: 58
     source: sources/Ulmaceae_vol58_liteparse
-tags: [genus, generated]
+tags: [genus, generated, superseded-circumscription]
 ---
 # *Celtis* L.
 
 **Family**: [[Ulmaceae]]
+**Modern family**: [[Cannabaceae]] — *Ulmaceae* as circumscribed here is superseded; see [[Ulmaceae]]
 **Authority**: L.
 **Protologue**: Sp. pl. : 1043 (1753)
 
@@ -65,3 +67,4 @@ Bibliography
 
 - [[Ulmaceae]]
 - [[vol58]]
+- [[Cannabaceae]] — where this taxon now belongs

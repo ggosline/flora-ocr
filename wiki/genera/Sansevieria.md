@@ -3,15 +3,17 @@ type: genus
 name: Sansevieria
 authority: Petagna
 family: Dracaenaceae
+modern_family: Asparagaceae subfam. Nolinoideae
 species_in_region: 1
 treatments:
   - vol: 54
     source: sources/Dracaenaceae_vol54_liteparse
-tags: [genus, generated]
+tags: [genus, generated, superseded-circumscription]
 ---
 # *Sansevieria* Petagna
 
 **Family**: [[Dracaenaceae]]
+**Modern family**: [[Asparagaceae]] subfam. Nolinoideae — *Dracaenaceae* as circumscribed here is superseded; see [[Dracaenaceae]]
 **Authority**: Petagna
 **Protologue**: Inst. bot. 3 : 643 (1787), nom. cons
 
@@ -56,3 +58,4 @@ Bibliography
 
 - [[Dracaenaceae]]
 - [[vol54]]
+- [[Asparagaceae]] — where this taxon now belongs

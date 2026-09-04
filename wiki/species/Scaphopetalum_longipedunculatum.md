@@ -4,15 +4,17 @@ name: Scaphopetalum longipedunculatum
 authority: Masters.
 genus: Scaphopetalum
 family: Sterculiaceae
+modern_family: Malvaceae s.l.
 vol: 02
 pages: 126-126
 source: sources/Sterculiaceae_vol02_paddle
-tags: [species, generated]
+tags: [species, generated, superseded-circumscription]
 ---
 # *Scaphopetalum longipedunculatum* Masters.
 
 **Genus**: [[Scaphopetalum]]
 **Family**: [[Sterculiaceae]]
+**Modern family**: [[Malvaceae]] s.l. — *Sterculiaceae* as circumscribed here is superseded; see [[Sterculiaceae]]
 **Protologue**: Mast., F. T. A. I : 237 (1868), réf. originale, et Journ. Linn. Soc. X : 28, t. 2 (1869)
 
 ## Synonyms
@@ -36,3 +38,4 @@ Of this insufficiently known species, we have not seen the type which is from Sp
 - [[Scaphopetalum]]
 - [[Sterculiaceae]]
 - [[vol02]]
+- [[Malvaceae]] — where this taxon now belongs

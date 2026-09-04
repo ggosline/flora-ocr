@@ -3,15 +3,17 @@ type: genus
 name: Trema
 authority: Lour.
 family: Ulmaceae
+modern_family: Cannabaceae
 species_in_region: 1
 treatments:
   - vol: 58
     source: sources/Ulmaceae_vol58_liteparse
-tags: [genus, generated]
+tags: [genus, generated, superseded-circumscription]
 ---
 # *Trema* Lour.
 
 **Family**: [[Ulmaceae]]
+**Modern family**: [[Cannabaceae]] — *Ulmaceae* as circumscribed here is superseded; see [[Ulmaceae]]
 **Authority**: Lour.
 **Protologue**: Fl . cochinch . : 562 (1790)
 
@@ -45,3 +47,4 @@ Bibliography (1991).
 
 - [[Ulmaceae]]
 - [[vol58]]
+- [[Cannabaceae]] — where this taxon now belongs

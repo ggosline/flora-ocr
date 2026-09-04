@@ -4,16 +4,18 @@ name: Chlamydocola chlamydantha
 authority: (K. Schum.) Bodard.
 genus: Chlamydocola
 family: Sterculiaceae
+modern_family: Malvaceae s.l.
 vol: 02
 pages: 34-40
 source: sources/Sterculiaceae_vol02_paddle
 habit: "tree"
-tags: [species, generated]
+tags: [species, generated, superseded-circumscription]
 ---
 # *Chlamydocola chlamydantha* (K. Schum.) Bodard.
 
 **Genus**: [[Chlamydocola]]
 **Family**: [[Sterculiaceae]]
+**Modern family**: [[Malvaceae]] s.l. — *Sterculiaceae* as circumscribed here is superseded; see [[Sterculiaceae]]
 **Protologue**: K. Schum. Sterc. Afr., 112 (1900), réf. orig. de l'espèce
 
 ## Synonyms
@@ -86,3 +88,4 @@ Le Testu : 7665, 9648, env. de Lastoursville (fl. et fr. en nov.).
 - [[Chlamydocola]]
 - [[Sterculiaceae]]
 - [[vol02]]
+- [[Malvaceae]] — where this taxon now belongs

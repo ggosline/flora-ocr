@@ -4,17 +4,19 @@ name: Dovyalis zenkeri
 authority: Gilg
 genus: Dovyalis
 family: Flacourtiaceae
+modern_family: Salicaceae
 vol: 34
 pages: 13-15
 source: sources/Flacourtiaceae_vol34_paddle
 countries: [Cameroon, Cote d'Ivoire, Democratic Republic of the Congo, Equatorial Guinea, Gabon, Ghana, Guinea, Guinea-Bissau, Nigeria, Sierra Leone]
 in_region: true
-tags: [species, generated]
+tags: [species, generated, superseded-circumscription]
 ---
 # *Dovyalis zenkeri* Gilg
 
 **Genus**: [[Dovyalis]]
 **Family**: [[Flacourtiaceae]]
+**Modern family**: [[Salicaceae]] — *Flacourtiaceae* as circumscribed here is superseded; see [[Flacourtiaceae]]
 **Protologue**: EBJ 40 : 507 (1908) ; in ENGL., PWA 3 (2) : 588 (1921) ; BAMPS, FCBR, Spermat., Flacourt. 1 : 54 (1968) ; SLEUMER, EBJ 92 : 73 (1972). TYPES : Zenker 1543, Cameroun (lecto-, isolecto-); Zenker 2219 et 3379, Cameroun (syn-)
 
 ## Description
@@ -72,3 +74,4 @@ Le Testu 8601, Lastourville, 20/12/1930, fl. ☀, j. fr. (P).
 - [[Dovyalis]]
 - [[Flacourtiaceae]]
 - [[vol34]]
+- [[Salicaceae]] — where this taxon now belongs

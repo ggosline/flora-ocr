@@ -4,16 +4,18 @@ name: Cola mahoundensis
 authority: Pellegrin.
 genus: Cola
 family: Sterculiaceae
+modern_family: Malvaceae s.l.
 vol: 02
 pages: 62-68
 source: sources/Sterculiaceae_vol02_paddle
 habit: "shrub"
-tags: [species, generated]
+tags: [species, generated, superseded-circumscription]
 ---
 # *Cola mahoundensis* Pellegrin.
 
 **Genus**: [[Cola]]
 **Family**: [[Sterculiaceae]]
+**Modern family**: [[Malvaceae]] s.l. — *Sterculiaceae* as circumscribed here is superseded; see [[Sterculiaceae]]
 **Protologue**: PELLEGR., Bull. Soc. Bot. Fr. 97 : 201 (1950) et Sterc. Gab., Mém. Soc. Bot. : 39 (1950-1951)
 
 ## Description
@@ -95,3 +97,4 @@ SOUS-GENRE IV. PSEUDOBICHEA N. Hallé.
 - [[Cola]]
 - [[Sterculiaceae]]
 - [[vol02]]
+- [[Malvaceae]] — where this taxon now belongs

@@ -3,15 +3,17 @@ type: genus
 name: Pterygota
 authority: Schott et Endl.
 family: Sterculiaceae
+modern_family: Malvaceae s.l.
 species_in_region: 1
 treatments:
   - vol: 02
     source: sources/Sterculiaceae_vol02_paddle
-tags: [genus, generated]
+tags: [genus, generated, superseded-circumscription]
 ---
 # *Pterygota* Schott et Endl.
 
 **Family**: [[Sterculiaceae]]
+**Modern family**: [[Malvaceae]] s.l. — *Sterculiaceae* as circumscribed here is superseded; see [[Sterculiaceae]]
 **Authority**: Schott et Endl.
 **Protologue**: Schott et Endl., Melet. Bot.: 32 (1832)
 
@@ -72,3 +74,4 @@ The source key separates these species but the volume gives them no treatment, u
 
 - [[Sterculiaceae]]
 - [[vol02]]
+- [[Malvaceae]] — where this taxon now belongs

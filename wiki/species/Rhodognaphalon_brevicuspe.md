@@ -4,18 +4,20 @@ name: Rhodognaphalon brevicuspe
 authority: (Sprague) Robert
 genus: Rhodognaphalon
 family: Bombacaceae
+modern_family: Malvaceae subfam. Bombacoideae
 vol: 22
 pages: 43-46
 source: sources/Bombacaceae_vol22_paddle
 countries: [Gabon, Sierra Leone]
 in_region: true
 habit: "tree"
-tags: [species, generated]
+tags: [species, generated, superseded-circumscription]
 ---
 # *Rhodognaphalon brevicuspe* (Sprague) Robert
 
 **Genus**: [[Rhodognaphalon]]
 **Family**: [[Bombacaceae]]
+**Modern family**: [[Malvaceae]] subfam. Bombacoideae — *Bombacaceae* as circumscribed here is superseded; see [[Bombacaceae]]
 **Protologue**: Bull. IFAN 15 : 1404 (1953); A. Robyns, Bull. Jard. Bot. Etat. Bruxelles 33 : 255 (1964)
 
 ## Synonyms
@@ -77,3 +79,4 @@ Fleury in Chevalier 26598, Lac Zilé près Atsié. Le Testu 1453, Dabilila (fl.,
 - [[Rhodognaphalon]]
 - [[Bombacaceae]]
 - [[vol22]]
+- [[Malvaceae]] — where this taxon now belongs

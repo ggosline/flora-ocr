@@ -4,6 +4,7 @@ name: Dracaena sanderiana
 authority: Sander ex Mast. Figure 5(A, B)
 genus: Dracaena
 family: Dracaenaceae
+modern_family: Asparagaceae subfam. Nolinoideae
 vol: 54
 pages: 53-53
 source: sources/Dracaenaceae_vol54_liteparse
@@ -13,12 +14,13 @@ subdivisions:
   Gabon: [Ogooué-Ivindo]
 habit: "herb"
 altitude_m: "110"
-tags: [species, generated]
+tags: [species, generated, superseded-circumscription]
 ---
 # *Dracaena sanderiana* Sander ex Mast. Figure 5(A, B)
 
 **Genus**: [[Dracaena]]
 **Family**: [[Dracaenaceae]]
+**Modern family**: [[Asparagaceae]] subfam. Nolinoideae — *Dracaenaceae* as circumscribed here is superseded; see [[Dracaenaceae]]
 **Protologue**: Pleomele sanderiana (Sander ex Mast.) N.E.Br., Bull. Misc. Inform. Kew 1914 : 279 (1914)
 
 ## Description
@@ -52,3 +54,4 @@ dragonnier de Sander (fr.) ; lucky bamboo (angl.). B : Baker (1898), Damen et al
 - [[Dracaena]]
 - [[Dracaenaceae]]
 - [[vol54]]
+- [[Asparagaceae]] — where this taxon now belongs

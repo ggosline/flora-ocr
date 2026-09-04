@@ -4,6 +4,7 @@ name: Striga bilabiata
 authority: (Thunb.) Kuntze subsp. bilabiata Planche 56(F)
 genus: Striga
 family: Scrophulariaceae
+modern_family: Orobanchaceae
 vol: 48
 pages: 135-135
 source: sources/Scrophulariaceae_vol48_liteparse
@@ -14,12 +15,13 @@ subdivisions:
 habit: "herb"
 habitat: [rocky ground]
 altitude_m: "600"
-tags: [species, generated]
+tags: [species, generated, superseded-circumscription]
 ---
 # *Striga bilabiata* (Thunb.) Kuntze subsp. bilabiata Planche 56(F)
 
 **Genus**: [[Striga]]
 **Family**: [[Scrophulariaceae]]
+**Modern family**: [[Orobanchaceae]] — *Scrophulariaceae* as circumscribed here is superseded; see [[Scrophulariaceae]]
 **Protologue**: Revis. gen. pl. 3(2) : 240 (1898)
 
 ## Description
@@ -49,3 +51,4 @@ rocky savannas; in Gabon, at 600 m, in East Africa, up to 1700 m. Taxonomic note
 - [[Striga]]
 - [[Scrophulariaceae]]
 - [[vol48]]
+- [[Orobanchaceae]] — where this taxon now belongs

@@ -3,15 +3,17 @@ type: genus
 name: Pinacopodium
 authority: Exell & Mendonça
 family: Nectaropetalaceae
+modern_family: Erythroxylaceae
 species_in_region: 2
 treatments:
   - vol: 21
     source: sources/Nectaropetalaceae_vol21_paddle
-tags: [genus, generated]
+tags: [genus, generated, superseded-circumscription]
 ---
 # *Pinacopodium* Exell & Mendonça
 
 **Family**: [[Nectaropetalaceae]]
+**Modern family**: [[Erythroxylaceae]] — *Nectaropetalaceae* as circumscribed here is superseded; see [[Nectaropetalaceae]]
 **Authority**: Exell & Mendonça
 **Protologue**: Bol. Soc. Brot., ser. 2, 25 : 105 (1951)
 
@@ -53,3 +55,4 @@ TYPE SPECIES: P. congolense (S. Moore) Exell & Mendonça.
 
 - [[Nectaropetalaceae]]
 - [[vol21]]
+- [[Erythroxylaceae]] — where this taxon now belongs

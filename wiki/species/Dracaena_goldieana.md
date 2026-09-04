@@ -4,6 +4,7 @@ name: Dracaena goldieana
 authority: Bullen ex Mast. & T.Moore Planche 11
 genus: Dracaena
 family: Dracaenaceae
+modern_family: Asparagaceae subfam. Nolinoideae
 vol: 54
 pages: 34-35
 source: sources/Dracaenaceae_vol54_liteparse
@@ -14,12 +15,13 @@ subdivisions:
 habit: "shrub"
 habitat: [rocky ground]
 altitude_m: "30–600"
-tags: [species, generated]
+tags: [species, generated, superseded-circumscription]
 ---
 # *Dracaena goldieana* Bullen ex Mast. & T.Moore Planche 11
 
 **Genus**: [[Dracaena]]
 **Family**: [[Dracaenaceae]]
+**Modern family**: [[Asparagaceae]] subfam. Nolinoideae — *Dracaenaceae* as circumscribed here is superseded; see [[Dracaenaceae]]
 **Protologue**: Gard. Chron. 1872 : 1232 (1872)
 
 ## Synonyms
@@ -58,3 +60,4 @@ In various botanical gardens, a plant is cultivated under the name D. goldieana 
 - [[Dracaena]]
 - [[Dracaenaceae]]
 - [[vol54]]
+- [[Asparagaceae]] — where this taxon now belongs

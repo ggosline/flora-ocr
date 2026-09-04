@@ -3,15 +3,17 @@ type: genus
 name: Torenia
 authority: L.
 family: Scrophulariaceae
+modern_family: Linderniaceae
 species_in_region: 6
 treatments:
   - vol: 48
     source: sources/Scrophulariaceae_vol48_liteparse
-tags: [genus, generated]
+tags: [genus, generated, superseded-circumscription]
 ---
 # *Torenia* L.
 
 **Family**: [[Scrophulariaceae]]
+**Modern family**: [[Linderniaceae]] — *Scrophulariaceae* as circumscribed here is superseded; see [[Scrophulariaceae]]
 **Authority**: L.
 **Protologue**: Sp. pl . 2 : 619 (1753)
 
@@ -63,3 +65,4 @@ B: Fischer (1992, 2004), Fischer et al. (2013), Rahmanzadeh et al. (2005).
 
 - [[Scrophulariaceae]]
 - [[vol48]]
+- [[Linderniaceae]] — where this taxon now belongs

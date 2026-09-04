@@ -4,15 +4,17 @@ name: Cola linearis
 authority: Pierre ex Pellegr. nom. nud.
 genus: Cola
 family: Sterculiaceae
+modern_family: Malvaceae s.l.
 vol: 02
 pages: 80-80
 source: sources/Sterculiaceae_vol02_paddle
-tags: [species, generated]
+tags: [species, generated, superseded-circumscription]
 ---
 # *Cola linearis* Pierre ex Pellegr. nom. nud.
 
 **Genus**: [[Cola]]
 **Family**: [[Sterculiaceae]]
+**Modern family**: [[Malvaceae]] s.l. — *Sterculiaceae* as circumscribed here is superseded; see [[Sterculiaceae]]
 
 ## Description
 
@@ -33,3 +35,4 @@ Only material studied, R. P. Trilles: 50, Monts de Cristal (fr. May) (P.).
 - [[Cola]]
 - [[Sterculiaceae]]
 - [[vol02]]
+- [[Malvaceae]] — where this taxon now belongs

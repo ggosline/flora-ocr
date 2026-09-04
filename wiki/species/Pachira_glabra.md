@@ -4,16 +4,18 @@ name: Pachira glabra
 authority: Pasquale
 genus: Pachira
 family: Bombacaceae
+modern_family: Malvaceae subfam. Bombacoideae
 vol: 22
 pages: 54-55
 source: sources/Bombacaceae_vol22_paddle
 habit: "tree"
-tags: [species, generated]
+tags: [species, generated, superseded-circumscription]
 ---
 # *Pachira glabra* Pasquale
 
 **Genus**: [[Pachira]]
 **Family**: [[Bombacaceae]]
+**Modern family**: [[Malvaceae]] subfam. Bombacoideae — *Bombacaceae* as circumscribed here is superseded; see [[Bombacaceae]]
 **Protologue**: Rendic. Acad. Sc. Fis. Mat., Napoli, 7 : 18 (1868)
 
 ## Synonyms
@@ -64,3 +66,4 @@ Chevalier 26983, Plantation Stéphane sur la Bokoué (fr., oct.)
 - [[Pachira]]
 - [[Bombacaceae]]
 - [[vol22]]
+- [[Malvaceae]] — where this taxon now belongs

@@ -3,15 +3,17 @@ type: genus
 name: Parinari
 authority: Aublet
 family: Scytopetalaceae
+modern_family: Lecythidaceae subfam. Scytopetaloideae
 species_in_region: 4
 treatments:
   - vol: 24
     source: sources/Chrysobalanaceae_vol24_paddle
-tags: [genus, generated]
+tags: [genus, generated, superseded-circumscription]
 ---
 # *Parinari* Aublet
 
 **Family**: [[Scytopetalaceae]]
+**Modern family**: [[Lecythidaceae]] subfam. Scytopetaloideae — *Scytopetalaceae* as circumscribed here is superseded; see [[Scytopetalaceae]]
 **Authority**: Aublet
 **Protologue**: Hist. Pl. Guiane Fr. 1 : 514, tab. 204-206 (1775); HAUM., BJBB 21 : 184 (1951), quoad subgenus Euparinari tantum ; HUTCH., Gen. Fl. Pl. 1 : 192 (1964), excl. syn. Maranthes etc. ; KOSTERMANS, Reinwardtia 7 : 147 (1965); MENDES, Consp. Fl. Angol. 4 : 8 (1970); PRANCE, Fl. Neotr. 9 : 178 (1972); WHITE, BJBB 46 : 310 (1976)
 
@@ -67,3 +69,4 @@ Large forest trees (P. excelsa, P. hypochrysea), tree of river margins (P. conge
 
 - [[Scytopetalaceae]]
 - [[vol24]]
+- [[Lecythidaceae]] — where this taxon now belongs

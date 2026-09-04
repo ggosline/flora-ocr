@@ -4,16 +4,18 @@ name: Cola tsandensis
 authority: Pellegrin.
 genus: Cola
 family: Sterculiaceae
+modern_family: Malvaceae s.l.
 vol: 02
 pages: 95-96
 source: sources/Sterculiaceae_vol02_paddle
 habit: "tree"
-tags: [species, generated]
+tags: [species, generated, superseded-circumscription]
 ---
 # *Cola tsandensis* Pellegrin.
 
 **Genus**: [[Cola]]
 **Family**: [[Sterculiaceae]]
+**Modern family**: [[Malvaceae]] s.l. — *Sterculiaceae* as circumscribed here is superseded; see [[Sterculiaceae]]
 **Protologue**: PELLEGR., Bull. S. B. Fr. 97 : 202 (1950) réf. orig., et Sterc. Gab., Mém. S. B. Fr. : 42 (1950-1951)
 
 ## Description
@@ -51,3 +53,4 @@ Le Testu : 7473, 7599, 8522, environs de Lastoursville (fl. oct. nov.).
 - [[Cola]]
 - [[Sterculiaceae]]
 - [[vol02]]
+- [[Malvaceae]] — where this taxon now belongs

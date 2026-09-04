@@ -4,6 +4,7 @@ name: Scoparia dulcis
 authority: L. Planche 41, 54(L)
 genus: Scoparia
 family: Scrophulariaceae
+modern_family: Plantaginaceae
 vol: 48
 pages: 127-129
 source: sources/Scrophulariaceae_vol48_liteparse
@@ -13,12 +14,13 @@ subdivisions:
   Gabon: [Estuaire, Moyen-Ogooué, Ngounié, Nyanga, Ogooué-Ivindo, Ogooué-Lolo, Ogooué-Maritime]
 habit: "herb"
 altitude_m: "500"
-tags: [species, generated]
+tags: [species, generated, superseded-circumscription]
 ---
 # *Scoparia dulcis* L. Planche 41, 54(L)
 
 **Genus**: [[Scoparia]]
 **Family**: [[Scrophulariaceae]]
+**Modern family**: [[Plantaginaceae]] — *Scrophulariaceae* as circumscribed here is superseded; see [[Scrophulariaceae]]
 **Protologue**: Sp. pl. 1 : 116 (1753)
 
 ## Description
@@ -56,3 +58,4 @@ herbe à balai, balai doux (fr.), licorice weed, sweet broomweed (angl.). B : Ag
 - [[Scoparia]]
 - [[Scrophulariaceae]]
 - [[vol48]]
+- [[Plantaginaceae]] — where this taxon now belongs

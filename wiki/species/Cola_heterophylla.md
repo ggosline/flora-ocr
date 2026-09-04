@@ -4,15 +4,17 @@ name: Cola heterophylla
 authority: (P. Beauv.) Schott et Endl.
 genus: Cola
 family: Sterculiaceae
+modern_family: Malvaceae s.l.
 vol: 02
 pages: 60-61
 source: sources/Sterculiaceae_vol02_paddle
-tags: [species, generated]
+tags: [species, generated, superseded-circumscription]
 ---
 # *Cola heterophylla* (P. Beauv.) Schott et Endl.
 
 **Genus**: [[Cola]]
 **Family**: [[Sterculiaceae]]
+**Modern family**: [[Malvaceae]] s.l. — *Sterculiaceae* as circumscribed here is superseded; see [[Sterculiaceae]]
 
 ## Synonyms
 
@@ -41,3 +43,4 @@ Aubréville : 168 (fr. sept.); Chevalier : 11307; Dybowski : 29 (fl. janv.); Lec
 - [[Cola]]
 - [[Sterculiaceae]]
 - [[vol02]]
+- [[Malvaceae]] — where this taxon now belongs

@@ -4,18 +4,20 @@ name: Acoa staudti
 authority: Engler
 genus: Acoa
 family: Scytopetalaceae
+modern_family: Lecythidaceae subfam. Scytopetaloideae
 vol: 24
 pages: 60-62
 source: sources/Chrysobalanaceae_vol24_paddle
 countries: [Cameroon, Gabon, Nigeria]
 in_region: true
 habit: "tree"
-tags: [species, generated]
+tags: [species, generated, superseded-circumscription]
 ---
 # *Acoa staudti* Engler
 
 **Genus**: [[Acioa]]
 **Family**: [[Scytopetalaceae]]
+**Modern family**: [[Lecythidaceae]] subfam. Scytopetaloideae — *Scytopetalaceae* as circumscribed here is superseded; see [[Scytopetalaceae]]
 **Protologue**: Bot. Jahrb. 26 : 379 (1899); Pflanzenw. Afr. 3 (1) : 309 (1915); DE WILD., BJBB 7 : 207 (1920)
 
 ## Description
@@ -65,3 +67,4 @@ Hallé N. 842, Ngongolane dans les Monts de Cristal (fl., août). Le Testu 6043,
 - [[Acioa]]
 - [[Scytopetalaceae]]
 - [[vol24]]
+- [[Lecythidaceae]] — where this taxon now belongs

@@ -4,16 +4,18 @@ name: Acioa eketensis
 authority: De Wildeman
 genus: Acioa
 family: Scytopetalaceae
+modern_family: Lecythidaceae subfam. Scytopetaloideae
 vol: 24
 pages: 30-32
 source: sources/Chrysobalanaceae_vol24_paddle
 habit: "tree"
-tags: [species, generated]
+tags: [species, generated, superseded-circumscription]
 ---
 # *Acioa eketensis* De Wildeman
 
 **Genus**: [[Acioa]]
 **Family**: [[Scytopetalaceae]]
+**Modern family**: [[Lecythidaceae]] subfam. Scytopetaloideae — *Scytopetalaceae* as circumscribed here is superseded; see [[Scytopetalaceae]]
 **Protologue**: BJBB 7 : 214 (1920); KEAY, FWTA, ed. 2, 1 : 433 (1958)
 
 ## Description
@@ -51,3 +53,4 @@ Chevalier 27127, haut Ramboué (fl., oct.).
 - [[Acioa]]
 - [[Scytopetalaceae]]
 - [[vol24]]
+- [[Lecythidaceae]] — where this taxon now belongs

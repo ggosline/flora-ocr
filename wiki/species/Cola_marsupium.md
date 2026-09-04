@@ -4,16 +4,18 @@ name: Cola marsupium
 authority: K. Schumann.
 genus: Cola
 family: Sterculiaceae
+modern_family: Malvaceae s.l.
 vol: 02
 pages: 53-56
 source: sources/Sterculiaceae_vol02_paddle
 habit: "shrub"
-tags: [species, generated]
+tags: [species, generated, superseded-circumscription]
 ---
 # *Cola marsupium* K. Schumann.
 
 **Genus**: [[Cola]]
 **Family**: [[Sterculiaceae]]
+**Modern family**: [[Malvaceae]] s.l. — *Sterculiaceae* as circumscribed here is superseded; see [[Sterculiaceae]]
 **Protologue**: K. Schum., Ber. Deutsch. bot. Ges. IX : 68 (1891) descr. orig., et Sterc. Afr. : 113 t. XII B, a-d. (1900)
 
 ## Synonyms
@@ -60,3 +62,4 @@ N. Hallé : 908, Sibang. R. P. Klaine : 217, 1992, 2984, 3308, env. de Librevill
 - [[Cola]]
 - [[Sterculiaceae]]
 - [[vol02]]
+- [[Malvaceae]] — where this taxon now belongs

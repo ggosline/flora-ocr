@@ -4,15 +4,17 @@ name: Cola verticillata
 authority: (Thonn.) Stapf. ex A. Chev.
 genus: Cola
 family: Sterculiaceae
+modern_family: Malvaceae s.l.
 vol: 02
 pages: 47-48
 source: sources/Sterculiaceae_vol02_paddle
-tags: [species, generated]
+tags: [species, generated, superseded-circumscription]
 ---
 # *Cola verticillata* (Thonn.) Stapf. ex A. Chev.
 
 **Genus**: [[Cola]]
 **Family**: [[Sterculiaceae]]
+**Modern family**: [[Malvaceae]] s.l. — *Sterculiaceae* as circumscribed here is superseded; see [[Sterculiaceae]]
 **Protologue**: Thonn. in Schum. Beskr. Guin. PL.: 240 (1827) réf. orig
 
 ## Synonyms
@@ -52,3 +54,4 @@ Le Testu : 5874 et 6003, Haute Ngounyé (fl. mars et juillet); 7736, région de 
 - [[Cola]]
 - [[Sterculiaceae]]
 - [[vol02]]
+- [[Malvaceae]] — where this taxon now belongs

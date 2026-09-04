@@ -4,16 +4,18 @@ name: Cola attiensis
 authority: Aubr. et Pellegr.
 genus: Cola
 family: Sterculiaceae
+modern_family: Malvaceae s.l.
 vol: 02
 pages: 75-78
 source: sources/Sterculiaceae_vol02_paddle
 habit: "shrub"
-tags: [species, generated]
+tags: [species, generated, superseded-circumscription]
 ---
 # *Cola attiensis* Aubr. et Pellegr.
 
 **Genus**: [[Cola]]
 **Family**: [[Sterculiaceae]]
+**Modern family**: [[Malvaceae]] s.l. — *Sterculiaceae* as circumscribed here is superseded; see [[Sterculiaceae]]
 **Protologue**: AUBR. et PELL., Bull. S. B. Fr. 92 : 255 (1945)
 
 ## Synonyms
@@ -61,3 +63,4 @@ Mgr. Leroy : s. n., Ogooué. Le Testu : 5477, 5496, Haute Ngounyé (fl. sept.); 
 - [[Cola]]
 - [[Sterculiaceae]]
 - [[vol02]]
+- [[Malvaceae]] — where this taxon now belongs

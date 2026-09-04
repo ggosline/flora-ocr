@@ -4,18 +4,20 @@ name: Triplochiton scleroxylon
 authority: K. Schum.
 genus: Triplochiton
 family: Sterculiaceae
+modern_family: Malvaceae s.l.
 vol: 02
 pages: 113-117
 source: sources/Sterculiaceae_vol02_paddle
 countries: [Democratic Republic of the Congo, Gabon, Guinea]
 in_region: true
 habit: "tree"
-tags: [species, generated]
+tags: [species, generated, superseded-circumscription]
 ---
 # *Triplochiton scleroxylon* K. Schum.
 
 **Genus**: [[Triplochiton]]
 **Family**: [[Sterculiaceae]]
+**Modern family**: [[Malvaceae]] s.l. — *Sterculiaceae* as circumscribed here is superseded; see [[Sterculiaceae]]
 
 ## Synonyms
 
@@ -73,3 +75,4 @@ Le Testu : 9594, Assoc (Ekoribé), (fl. avr.).
 - [[Triplochiton]]
 - [[Sterculiaceae]]
 - [[vol02]]
+- [[Malvaceae]] — where this taxon now belongs

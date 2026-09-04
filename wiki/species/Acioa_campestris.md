@@ -4,6 +4,7 @@ name: Acioa campestris
 authority: Engler
 genus: Acioa
 family: Scytopetalaceae
+modern_family: Lecythidaceae subfam. Scytopetaloideae
 vol: 24
 pages: 18-21
 source: sources/Chrysobalanaceae_vol24_paddle
@@ -11,12 +12,13 @@ countries: [Angola, Cameroon, Gabon, Nigeria]
 in_region: true
 habit: "tree"
 habitat: [swamp forest]
-tags: [species, generated]
+tags: [species, generated, superseded-circumscription]
 ---
 # *Acioa campestris* Engler
 
 **Genus**: [[Acioa]]
 **Family**: [[Scytopetalaceae]]
+**Modern family**: [[Lecythidaceae]] subfam. Scytopetaloideae — *Scytopetalaceae* as circumscribed here is superseded; see [[Scytopetalaceae]]
 **Protologue**: Bot. Jahrb. 17 : 87 (1893); Pflanzenw. Afr. 3 (1) : 311 (1915); DE WILD., BJBB 7 : 198 (1920)
 
 ## Description
@@ -94,3 +96,4 @@ mbangéfa (apindji); divala (bavungu); mumbundu (eshira); éfian (fang)
 - [[Acioa]]
 - [[Scytopetalaceae]]
 - [[vol24]]
+- [[Lecythidaceae]] — where this taxon now belongs

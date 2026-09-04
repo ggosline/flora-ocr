@@ -4,18 +4,20 @@ name: Ophiobotrys zenkeri
 authority: Gilg
 genus: Ophiobotrys
 family: Flacourtiaceae
+modern_family: Salicaceae
 vol: 34
 pages: 21-21
 source: sources/Flacourtiaceae_vol34_paddle
 countries: [Cameroon, Cote d'Ivoire, Democratic Republic of the Congo, Gabon, Ghana, Liberia, Nigeria, Sao Tome and Principe]
 in_region: true
 habit: "tree"
-tags: [species, generated]
+tags: [species, generated, superseded-circumscription]
 ---
 # *Ophiobotrys zenkeri* Gilg
 
 **Genus**: [[Ophiobotrys]]
 **Family**: [[Flacourtiaceae]]
+**Modern family**: [[Salicaceae]] — *Flacourtiaceae* as circumscribed here is superseded; see [[Flacourtiaceae]]
 **Protologue**: EBJ 40 : 514 (1908) ; in ENGL., PWA 3 (2) : 592 (1921). TYPES : Zenker 2387, Cameroun (lecto-, isolecto-); Zenker 2124, 2302, 2417, 2537 et Winkler 86, Cameroun (syn-)
 
 ## Description
@@ -61,3 +63,4 @@ Le Testu 8687, Lastoursville, Miboba, 18/1/1931, fl. (P); 9466, Essough, Ogooué
 - [[Ophiobotrys]]
 - [[Flacourtiaceae]]
 - [[vol34]]
+- [[Salicaceae]] — where this taxon now belongs

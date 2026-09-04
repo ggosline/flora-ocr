@@ -4,6 +4,7 @@ name: Acioa barteri
 authority: (Hooker fil. ex Oliver) Engler
 genus: Acioa
 family: Scytopetalaceae
+modern_family: Lecythidaceae subfam. Scytopetaloideae
 vol: 24
 pages: 12-15
 source: sources/Chrysobalanaceae_vol24_paddle
@@ -11,12 +12,13 @@ countries: [Cameroon, Democratic Republic of the Congo, Gabon, Ghana, Guinea, Li
 in_region: true
 habit: "tree"
 habitat: [mangrove]
-tags: [species, generated]
+tags: [species, generated, superseded-circumscription]
 ---
 # *Acioa barteri* (Hooker fil. ex Oliver) Engler
 
 **Genus**: [[Acioa]]
 **Family**: [[Scytopetalaceae]]
+**Modern family**: [[Lecythidaceae]] subfam. Scytopetaloideae — *Scytopetalaceae* as circumscribed here is superseded; see [[Scytopetalaceae]]
 **Protologue**: Bot. Jahrb. 26 : 382 (1899); Pflanzenw. Afr. 3 (1) : 311 (1915); De Wild., BJBB 7 : 210 (1920); Haum., FCB 3 : 47 (1952); Keay, FWTA, ed. 2, 1 (2) : 431 (1958); AUBR., FFCI, ed. 2, 1 : 190 (1959); Irvine, Woody Pl. Ghana : 258 (1961); Adam, Mém. Mus. Nat. Hist. Nat. París, Fl. descr. Monts Nimba 2 : 536, tab. 199 (1971). (Nota : Cette espèce n'est pas mentionnée par Keay, Onochie & Stanfield, Nig. Trees 1 : 320, 1960.)
 
 ## Description
@@ -72,3 +74,4 @@ Klaine 3448, R. Mondah, près Libreville (fl., nov.). Trilles 22 (type d'Acioa t
 - [[Acioa]]
 - [[Scytopetalaceae]]
 - [[vol24]]
+- [[Lecythidaceae]] — where this taxon now belongs

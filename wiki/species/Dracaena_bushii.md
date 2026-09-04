@@ -4,6 +4,7 @@ name: Dracaena bushii
 authority: Damen Planche 7, Figure 2(B)
 genus: Dracaena
 family: Dracaenaceae
+modern_family: Asparagaceae subfam. Nolinoideae
 vol: 54
 pages: 27-27
 source: sources/Dracaenaceae_vol54_liteparse
@@ -13,12 +14,13 @@ subdivisions:
   Gabon: [Estuaire, Ogooué-Ivindo]
 habit: "shrub"
 altitude_m: "100–340"
-tags: [species, generated]
+tags: [species, generated, superseded-circumscription]
 ---
 # *Dracaena bushii* Damen Planche 7, Figure 2(B)
 
 **Genus**: [[Dracaena]]
 **Family**: [[Dracaenaceae]]
+**Modern family**: [[Asparagaceae]] subfam. Nolinoideae — *Dracaenaceae* as circumscribed here is superseded; see [[Dracaenaceae]]
 **Protologue**: Blumea 63 : 35 (2018)
 
 ## Description
@@ -56,3 +58,4 @@ D. bushii is close to D. phrynioides, the two having capitate inflorescences and
 - [[Dracaena]]
 - [[Dracaenaceae]]
 - [[vol54]]
+- [[Asparagaceae]] — where this taxon now belongs

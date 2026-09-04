@@ -4,18 +4,20 @@ name: Pachira aquatica
 authority: Aublet
 genus: Pachira
 family: Bombacaceae
+modern_family: Malvaceae subfam. Bombacoideae
 vol: 22
 pages: 56-57
 source: sources/Bombacaceae_vol22_paddle
 countries: [Gabon]
 in_region: true
 habitat: [riverine]
-tags: [species, generated]
+tags: [species, generated, superseded-circumscription]
 ---
 # *Pachira aquatica* Aublet
 
 **Genus**: [[Pachira]]
 **Family**: [[Bombacaceae]]
+**Modern family**: [[Malvaceae]] subfam. Bombacoideae — *Bombacaceae* as circumscribed here is superseded; see [[Bombacaceae]]
 **Protologue**: Hist. Pl. Guianc Fr. 2 : 726, tab. 291 et 292 (1775)
 
 ## Synonyms
@@ -86,3 +88,4 @@ The kernels are eaten raw or cooked in ashes.
 - [[Pachira]]
 - [[Bombacaceae]]
 - [[vol22]]
+- [[Malvaceae]] — where this taxon now belongs

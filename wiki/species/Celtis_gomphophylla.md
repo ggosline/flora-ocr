@@ -4,6 +4,7 @@ name: Celtis gomphophylla
 authority: Baker Planche 33
 genus: Celtis
 family: Ulmaceae
+modern_family: Cannabaceae
 vol: 58
 pages: 124-126
 source: sources/Ulmaceae_vol58_liteparse
@@ -13,12 +14,13 @@ subdivisions:
   Gabon: [Moyen-Ogooué, Ogooué-Maritime]
 habit: "tree"
 altitude_m: "75"
-tags: [species, generated]
+tags: [species, generated, superseded-circumscription]
 ---
 # *Celtis gomphophylla* Baker Planche 33
 
 **Genus**: [[Celtis]]
 **Family**: [[Ulmaceae]]
+**Modern family**: [[Cannabaceae]] — *Ulmaceae* as circumscribed here is superseded; see [[Ulmaceae]]
 **Protologue**: J. Linn. Soc., Bot . 22 : 521 (1887)
 
 ## Description
@@ -54,3 +56,4 @@ bastard white stinkwood, forest celtis (angl.) ; ohia (nom pilote). Bi : Hutchin
 - [[Celtis]]
 - [[Ulmaceae]]
 - [[vol58]]
+- [[Cannabaceae]] — where this taxon now belongs

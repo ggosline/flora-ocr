@@ -4,18 +4,20 @@ name: Oncoba breteleri
 authority: Hul, sp. nov.
 genus: Oncoba
 family: Flacourtiaceae
+modern_family: Salicaceae
 vol: 34
 pages: 58-59
 source: sources/Flacourtiaceae_vol34_paddle
 countries: [Gabon]
 in_region: true
 habit: "shrub"
-tags: [species, generated]
+tags: [species, generated, superseded-circumscription]
 ---
 # *Oncoba breteleri* Hul, sp. nov.
 
 **Genus**: [[Oncoba]]
 **Family**: [[Flacourtiaceae]]
+**Modern family**: [[Salicaceae]] — *Flacourtiaceae* as circumscribed here is superseded; see [[Flacourtiaceae]]
 
 ## Description
 
@@ -66,3 +68,4 @@ Wieringa & Haegens 2535, Ogooué-Maritime, Gamba, env. 4 km E de l'aéroport, 2�
 - [[Oncoba]]
 - [[Flacourtiaceae]]
 - [[vol34]]
+- [[Salicaceae]] — where this taxon now belongs

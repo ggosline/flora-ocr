@@ -3,15 +3,17 @@ type: genus
 name: Micrargeria
 authority: Benth.
 family: Scrophulariaceae
+modern_family: Orobanchaceae
 species_in_region: 1
 treatments:
   - vol: 48
     source: sources/Scrophulariaceae_vol48_liteparse
-tags: [genus, generated]
+tags: [genus, generated, superseded-circumscription]
 ---
 # *Micrargeria* Benth.
 
 **Family**: [[Scrophulariaceae]]
+**Modern family**: [[Orobanchaceae]] — *Scrophulariaceae* as circumscribed here is superseded; see [[Scrophulariaceae]]
 **Authority**: Benth.
 
 ## Diagnosis
@@ -50,3 +52,4 @@ Bibliography
 
 - [[Scrophulariaceae]]
 - [[vol48]]
+- [[Orobanchaceae]] — where this taxon now belongs

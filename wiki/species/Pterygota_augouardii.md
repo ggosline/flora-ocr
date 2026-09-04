@@ -4,18 +4,20 @@ name: Pterygota augouardii
 authority: Pellegrin.
 genus: Pterygota
 family: Sterculiaceae
+modern_family: Malvaceae s.l.
 vol: 02
 pages: 25-30
 source: sources/Sterculiaceae_vol02_paddle
 countries: [Gabon]
 in_region: true
 habit: "tree"
-tags: [species, generated]
+tags: [species, generated, superseded-circumscription]
 ---
 # *Pterygota augouardii* Pellegrin.
 
 **Genus**: [[Pterygota]]
 **Family**: [[Sterculiaceae]]
+**Modern family**: [[Malvaceae]] s.l. — *Sterculiaceae* as circumscribed here is superseded; see [[Sterculiaceae]]
 **Protologue**: PELLEGR., Bull. Mus. Paris : 592 (1923), réf. orig.; Fl. Mayombe I : 37 (1924) et Sterc. Gab., Mém. Soc. Bot. : 44 (1950-1951), excl. Le Testu 5507
 
 ## Synonyms
@@ -79,3 +81,4 @@ Corbet: 1061 S.R.F., L. Ezanga; 860 S.R.F., Bokoué (fl. Sept.). Le Testu: 1863,
 - [[Pterygota]]
 - [[Sterculiaceae]]
 - [[vol02]]
+- [[Malvaceae]] — where this taxon now belongs

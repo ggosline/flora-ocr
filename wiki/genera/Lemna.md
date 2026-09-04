@@ -3,15 +3,17 @@ type: genus
 name: Lemna
 authority: L.
 family: Lemnaceae
+modern_family: Araceae subfam. Lemnoideae
 species_in_region: 1
 treatments:
   - vol: 41
     source: sources/Lemnaceae_vol41_liteparse
-tags: [genus, generated]
+tags: [genus, generated, superseded-circumscription]
 ---
 # *Lemna* L.
 
 **Family**: [[Lemnaceae]]
+**Modern family**: [[Araceae]] subfam. Lemnoideae — *Lemnaceae* as circumscribed here is superseded; see [[Lemnaceae]]
 **Authority**: L.
 **Protologue**: Sp. pl. 2 : 970 (1753) ; Gen. pl., éd. 5 : 417 (1754)
 
@@ -47,3 +49,4 @@ Bibliography: den Hartog & van der Plas (1970), Landolt (1986, 1998), Landolt & 
 
 - [[Lemnaceae]]
 - [[vol41]]
+- [[Araceae]] — where this taxon now belongs

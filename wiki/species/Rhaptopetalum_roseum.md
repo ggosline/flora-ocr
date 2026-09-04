@@ -4,17 +4,19 @@ name: Rhaptopetalum roseum
 authority: (Gürke) Engler
 genus: Rhaptopetalum
 family: Scytopetalaceae
+modern_family: Lecythidaceae subfam. Scytopetaloideae
 vol: 24
 pages: 180-184
 source: sources/Scytopetalaceae_vol24_paddle
 countries: [Cameroon, Democratic Republic of the Congo]
 in_region: true
-tags: [species, generated]
+tags: [species, generated, superseded-circumscription]
 ---
 # *Rhaptopetalum roseum* (Gürke) Engler
 
 **Genus**: [[Rhaptopetalum]]
 **Family**: [[Scytopetalaceae]]
+**Modern family**: [[Lecythidaceae]] subfam. Scytopetaloideae — *Scytopetalaceae* as circumscribed here is superseded; see [[Scytopetalaceae]]
 **Protologue**: Pflanzenw. Afr. 3 (2) : 475 (1921); LETOUZEY, Adansonia, ser. 2, 1 (1) : 125 (1961); GERMAIN, BJBB 32 : 489 (1962); FCB 10 : 324 (1963)
 
 ## Description
@@ -58,3 +60,4 @@ One may wonder whether this species from the low mountains of eastern Zaïre rea
 - [[Rhaptopetalum]]
 - [[Scytopetalaceae]]
 - [[vol24]]
+- [[Lecythidaceae]] — where this taxon now belongs

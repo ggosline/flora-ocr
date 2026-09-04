@@ -4,16 +4,18 @@ name: Octolobus spectabilis
 authority: Welwitsch.
 genus: Octolobus
 family: Sterculiaceae
+modern_family: Malvaceae s.l.
 vol: 02
 pages: 109-113
 source: sources/Sterculiaceae_vol02_paddle
 habit: "tree"
-tags: [species, generated]
+tags: [species, generated, superseded-circumscription]
 ---
 # *Octolobus spectabilis* Welwitsch.
 
 **Genus**: [[Octolobus]]
 **Family**: [[Sterculiaceae]]
+**Modern family**: [[Malvaceae]] s.l. — *Sterculiaceae* as circumscribed here is superseded; see [[Sterculiaceae]]
 **Protologue**: WELW., Trans. Linn. Soc. 27 : 18 t. 6 (1869), réf. orig
 
 ## Synonyms
@@ -46,3 +48,4 @@ This species is widespread from Sierra Leone to the Belgian Congo and Angola. Th
 - [[Octolobus]]
 - [[Sterculiaceae]]
 - [[vol02]]
+- [[Malvaceae]] — where this taxon now belongs

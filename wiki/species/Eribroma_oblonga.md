@@ -4,16 +4,18 @@ name: Eribroma oblonga
 authority: (Mast.) Bodard.
 genus: Eribroma
 family: Sterculiaceae
+modern_family: Malvaceae s.l.
 vol: 02
 pages: 20-24
 source: sources/Sterculiaceae_vol02_paddle
 habit: "tree"
-tags: [species, generated]
+tags: [species, generated, superseded-circumscription]
 ---
 # *Eribroma oblonga* (Mast.) Bodard.
 
 **Genus**: [[Eribroma]]
 **Family**: [[Sterculiaceae]]
+**Modern family**: [[Malvaceae]] s.l. — *Sterculiaceae* as circumscribed here is superseded; see [[Sterculiaceae]]
 
 ## Synonyms
 
@@ -76,3 +78,4 @@ R. P. Klaine : 498, 2456, env. de Libreville (fl. nov. déc.; fr. août). Le Tes
 - [[Eribroma]]
 - [[Sterculiaceae]]
 - [[vol02]]
+- [[Malvaceae]] — where this taxon now belongs

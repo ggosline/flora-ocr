@@ -3,15 +3,17 @@ type: genus
 name: Mammea
 authority: L.
 family: Clusiaceae
+modern_family: Calophyllaceae
 species_in_region: 1
 treatments:
   - vol: 45
     source: sources/Clusiaceae_vol45_liteparse
-tags: [genus, generated]
+tags: [genus, generated, superseded-circumscription]
 ---
 # *Mammea* L.
 
 **Family**: [[Clusiaceae]]
+**Modern family**: [[Calophyllaceae]] — *Clusiaceae* as circumscribed here is superseded; see [[Clusiaceae]]
 **Authority**: L.
 **Protologue**: Sp. pl. 1 : 512 (1753); Gen. pl. , éd. 5 : 228 (1754)
 
@@ -44,3 +46,4 @@ Bibliography (2007), de Wilde (1956).
 
 - [[Clusiaceae]]
 - [[vol45]]
+- [[Calophyllaceae]] — where this taxon now belongs

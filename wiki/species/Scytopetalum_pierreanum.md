@@ -4,17 +4,19 @@ name: Scytopetalum pierreanum
 authority: (De Wildeman) Van Tieghem
 genus: Scytopetalum
 family: Scytopetalaceae
+modern_family: Lecythidaceae subfam. Scytopetaloideae
 vol: 24
 pages: 193-196
 source: sources/Scytopetalaceae_vol24_paddle
 countries: [Cameroon, Central African Republic, Democratic Republic of the Congo]
 in_region: true
-tags: [species, generated]
+tags: [species, generated, superseded-circumscription]
 ---
 # *Scytopetalum pierreanum* (De Wildeman) Van Tieghem
 
 **Genus**: [[Scytopetalum]]
 **Family**: [[Scytopetalaceae]]
+**Modern family**: [[Lecythidaceae]] subfam. Scytopetaloideae — *Scytopetalaceae* as circumscribed here is superseded; see [[Scytopetalaceae]]
 **Protologue**: Ann. Sc. Nat., ser. 9, 1 : 343 (1905); Engl., Nat. Pflanzenfam., Nacht. III zu III, 6 : 218 (1908); Pflanzenw. Afr. 3 (2) : 471 (1921); Letouzey, Adansonia, ser. 2, 1 (1) : 120 (1961); Germain, FCB 10 : 326 (1963)
 
 ## Description
@@ -68,3 +70,4 @@ D. MOLEZ
 - [[Scytopetalum]]
 - [[Scytopetalaceae]]
 - [[vol24]]
+- [[Lecythidaceae]] — where this taxon now belongs

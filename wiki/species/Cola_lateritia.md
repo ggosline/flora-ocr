@@ -4,16 +4,18 @@ name: Cola lateritia
 authority: K. Schumann.
 genus: Cola
 family: Sterculiaceae
+modern_family: Malvaceae s.l.
 vol: 02
 pages: 49-52
 source: sources/Sterculiaceae_vol02_paddle
 habit: "tree"
-tags: [species, generated]
+tags: [species, generated, superseded-circumscription]
 ---
 # *Cola lateritia* K. Schumann.
 
 **Genus**: [[Cola]]
 **Family**: [[Sterculiaceae]]
+**Modern family**: [[Malvaceae]] s.l. — *Sterculiaceae* as circumscribed here is superseded; see [[Sterculiaceae]]
 **Protologue**: K. Schum., Notizbl. Berlin II : 307 (1899), rét. orig., et Sterc. Afr. : 131, t. 15 R. (1900)
 
 ## Description
@@ -65,3 +67,4 @@ Bernard : 803, Cap Esterias (fl. août). Fleury : 26617, près de la lagune de N
 - [[Cola]]
 - [[Sterculiaceae]]
 - [[vol02]]
+- [[Malvaceae]] — where this taxon now belongs

@@ -3,15 +3,17 @@ type: genus
 name: Leptonychia
 authority: Turcz.
 family: Sterculiaceae
+modern_family: Malvaceae s.l.
 species_in_region: 2
 treatments:
   - vol: 02
     source: sources/Sterculiaceae_vol02_paddle
-tags: [genus, generated]
+tags: [genus, generated, superseded-circumscription]
 ---
 # *Leptonychia* Turcz.
 
 **Family**: [[Sterculiaceae]]
+**Modern family**: [[Malvaceae]] s.l. — *Sterculiaceae* as circumscribed here is superseded; see [[Sterculiaceae]]
 **Authority**: Turcz.
 **Protologue**: Turcz. in Bull. Soc. Nat. Mose. XXXI, I: 222 (1858)
 
@@ -58,3 +60,4 @@ Leaves less than 6 cm wide; petals with external face pubescent..
 
 - [[Sterculiaceae]]
 - [[vol02]]
+- [[Malvaceae]] — where this taxon now belongs

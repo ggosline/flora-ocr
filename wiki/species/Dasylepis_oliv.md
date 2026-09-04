@@ -4,18 +4,20 @@ name: Dasylepis oliv
 authority: .
 genus: Dasylepis
 family: Flacourtiaceae
+modern_family: Achariaceae
 vol: 34
 pages: 31-35
 source: sources/Flacourtiaceae_vol34_paddle
 countries: [Cameroon, Cote d'Ivoire, Democratic Republic of the Congo, Equatorial Guinea, Gabon, Ghana, Guinea, Nigeria]
 in_region: true
 habit: "tree"
-tags: [species, generated]
+tags: [species, generated, superseded-circumscription]
 ---
 # *Dasylepis oliv* .
 
 **Genus**: [[Dasylepis]]
 **Family**: [[Flacourtiaceae]]
+**Modern family**: [[Achariaceae]] — *Flacourtiaceae* as circumscribed here is superseded; see [[Flacourtiaceae]]
 **Protologue**: J. Linn. Soc. Bot. 9 : 170 (1867) ; OLIV. , FTA 1 : 123 (1868) ; WARB., in ENGL. & PRANTL, NPF 3 (6a) : 15 (1893) ; GILG, EBJ 40 : 450 (1908) ; CHIPP, Kew Bull. : 265 (1923) ; BAMPS, FCBR, Spermat., Flacourt. 1 : 5 (1968) ; SLEUMER, EBJ 92 (4) : 554 (1972)
 
 ## Description
@@ -99,3 +101,4 @@ McPherson 16074, Ogooué-Ivindo, 0°40'S-11°50'E, env. 200 m alt., 16/1/1993, f
 - [[Dasylepis]]
 - [[Flacourtiaceae]]
 - [[vol34]]
+- [[Achariaceae]] — where this taxon now belongs

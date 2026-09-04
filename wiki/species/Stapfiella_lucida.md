@@ -4,6 +4,7 @@ name: Stapfiella lucida
 authority: Robyns Planche 27
 genus: Stapfiella
 family: Turneraceae
+modern_family: Passifloraceae subfam. Turneroideae
 vol: 42
 pages: 96-98
 source: sources/Turneraceae_vol42_liteparse
@@ -14,12 +15,13 @@ subdivisions:
 habit: "shrub"
 habitat: [primary forest]
 altitude_m: "800"
-tags: [species, generated]
+tags: [species, generated, superseded-circumscription]
 ---
 # *Stapfiella lucida* Robyns Planche 27
 
 **Genus**: [[Stapfiella]]
 **Family**: [[Turneraceae]]
+**Modern family**: [[Passifloraceae]] subfam. Turneroideae — *Turneraceae* as circumscribed here is superseded; see [[Turneraceae]]
 **Protologue**: Kew Bull. 28 : 320 (1978)
 
 ## Description
@@ -55,3 +57,4 @@ Fruit. – 6. Seed. Drawing by G. Van Assche, reproduced with permission of the 
 - [[Stapfiella]]
 - [[Turneraceae]]
 - [[vol42]]
+- [[Passifloraceae]] — where this taxon now belongs

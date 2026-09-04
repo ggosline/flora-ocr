@@ -4,6 +4,7 @@ name: Lemna aequinoctialis
 authority: Welw. Planche 11
 genus: Lemna
 family: Lemnaceae
+modern_family: Araceae subfam. Lemnoideae
 vol: 41
 pages: 48-51
 source: sources/Lemnaceae_vol41_liteparse
@@ -12,12 +13,13 @@ in_region: true
 subdivisions:
   Gabon: [Ogooué-Ivindo, Ogooué-Maritime]
 altitude_m: "500"
-tags: [species, generated]
+tags: [species, generated, superseded-circumscription]
 ---
 # *Lemna aequinoctialis* Welw. Planche 11
 
 **Genus**: [[Lemna]]
 **Family**: [[Lemnaceae]]
+**Modern family**: [[Araceae]] subfam. Lemnoideae — *Lemnaceae* as circumscribed here is superseded; see [[Lemnaceae]]
 **Protologue**: Apont. : 578 (1859)
 
 ## Description
@@ -53,3 +55,4 @@ Taxonomic note: In African and Asian literature, L. aequinoctialis has often bee
 - [[Lemna]]
 - [[Lemnaceae]]
 - [[vol41]]
+- [[Araceae]] — where this taxon now belongs

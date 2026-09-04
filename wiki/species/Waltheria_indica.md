@@ -4,16 +4,18 @@ name: Waltheria indica
 authority: L..
 genus: Waltheria
 family: Sterculiaceae
+modern_family: Malvaceae s.l.
 vol: 02
 pages: 143-150
 source: sources/Sterculiaceae_vol02_paddle
 habit: "shrub"
-tags: [species, generated]
+tags: [species, generated, superseded-circumscription]
 ---
 # *Waltheria indica* L..
 
 **Genus**: [[Waltheria]]
 **Family**: [[Sterculiaceae]]
+**Modern family**: [[Malvaceae]] s.l. — *Sterculiaceae* as circumscribed here is superseded; see [[Sterculiaceae]]
 **Protologue**: LINNÉ, Sp. Pl. 2 : 673 (1753)
 
 ## Synonyms
@@ -55,3 +57,4 @@ Lecomte : D. 41, Loango (fl. janv.). Soyaux : 350, Sibang (fl. déc.)
 - [[Waltheria]]
 - [[Sterculiaceae]]
 - [[vol02]]
+- [[Malvaceae]] — where this taxon now belongs

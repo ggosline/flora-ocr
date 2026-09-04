@@ -4,6 +4,7 @@ name: Drimia altissima
 authority: (L.f.) Ker Gawl. Planche 6
 genus: Drimia
 family: Hyacinthaceae
+modern_family: Asparagaceae subfam. Scilloideae
 vol: 40
 pages: 30-30
 source: sources/Hyacinthaceae_vol40_liteparse
@@ -13,12 +14,13 @@ subdivisions:
   Gabon: [Nyanga]
 habitat: [rocky ground]
 altitude_m: "600"
-tags: [species, generated]
+tags: [species, generated, superseded-circumscription]
 ---
 # *Drimia altissima* (L.f.) Ker Gawl. Planche 6
 
 **Genus**: [[Drimia]]
 **Family**: [[Hyacinthaceae]]
+**Modern family**: [[Asparagaceae]] subfam. Scilloideae — *Hyacinthaceae* as circumscribed here is superseded; see [[Hyacinthaceae]]
 **Protologue**: Bot. Mag . 27 : t. 1074 (1808)
 
 ## Synonyms
@@ -53,3 +55,4 @@ savannas and open forests, dry or wet places, on sandy, clayey or rocky soils; i
 - [[Drimia]]
 - [[Hyacinthaceae]]
 - [[vol40]]
+- [[Asparagaceae]] — where this taxon now belongs

@@ -4,16 +4,18 @@ name: Cola mayimbensis
 authority: Pellegrin.
 genus: Cola
 family: Sterculiaceae
+modern_family: Malvaceae s.l.
 vol: 02
 pages: 68-70
 source: sources/Sterculiaceae_vol02_paddle
 habit: "shrub"
-tags: [species, generated]
+tags: [species, generated, superseded-circumscription]
 ---
 # *Cola mayimbensis* Pellegrin.
 
 **Genus**: [[Cola]]
 **Family**: [[Sterculiaceae]]
+**Modern family**: [[Malvaceae]] s.l. — *Sterculiaceae* as circumscribed here is superseded; see [[Sterculiaceae]]
 **Protologue**: PELL., Bull. Soc. Bot. Fr. 97 : 189 (1950), réf. orig. et Sterc. Gab. in Mém. S. B. Fr. : 38 (1950-1951)
 
 ## Description
@@ -45,3 +47,4 @@ Type of the species and sole known specimen: Le Testu 7765, region of Lastoursvi
 - [[Cola]]
 - [[Sterculiaceae]]
 - [[vol02]]
+- [[Malvaceae]] — where this taxon now belongs

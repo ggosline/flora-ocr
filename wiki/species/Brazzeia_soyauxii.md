@@ -4,15 +4,17 @@ name: Brazzeia soyauxii
 authority: (Oliver) Van Tieghem
 genus: Brazzeia
 family: Scytopetalaceae
+modern_family: Lecythidaceae subfam. Scytopetaloideae
 vol: 24
 pages: 148-153
 source: sources/Scytopetalaceae_vol24_paddle
-tags: [species, generated]
+tags: [species, generated, superseded-circumscription]
 ---
 # *Brazzeia soyauxii* (Oliver) Van Tieghem
 
 **Genus**: [[Brazzeia]]
 **Family**: [[Scytopetalaceae]]
+**Modern family**: [[Lecythidaceae]] subfam. Scytopetaloideae — *Scytopetalaceae* as circumscribed here is superseded; see [[Scytopetalaceae]]
 **Protologue**: Ann. Sc. Nat., ser. 9, 1 : 356 (1905); Engl., Nat. Pflanzenfam., Nacht. III zu III, 6 :
 
 ## Description
@@ -60,3 +62,4 @@ SCYTOPETALACE
 - [[Brazzeia]]
 - [[Scytopetalaceae]]
 - [[vol24]]
+- [[Lecythidaceae]] — where this taxon now belongs

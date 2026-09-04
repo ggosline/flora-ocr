@@ -4,6 +4,7 @@ name: Dipcadi viride
 authority: (L.) Moench.
 genus: Dipcadi
 family: Hyacinthaceae
+modern_family: Asparagaceae subfam. Scilloideae
 vol: 40
 pages: 27-28
 source: sources/Hyacinthaceae_vol40_liteparse
@@ -11,12 +12,13 @@ countries: [Gabon]
 in_region: true
 habitat: [rocky ground]
 altitude_m: "700"
-tags: [species, generated]
+tags: [species, generated, superseded-circumscription]
 ---
 # *Dipcadi viride* (L.) Moench.
 
 **Genus**: [[Dipcadi]]
 **Family**: [[Hyacinthaceae]]
+**Modern family**: [[Asparagaceae]] subfam. Scilloideae — *Hyacinthaceae* as circumscribed here is superseded; see [[Hyacinthaceae]]
 **Protologue**: Suppl. Meth. : 267 (1802)
 
 ## Description
@@ -46,3 +48,4 @@ herbaceous and shrubby savannas, often on shallow soils or in rocky places; in G
 - [[Dipcadi]]
 - [[Hyacinthaceae]]
 - [[vol40]]
+- [[Asparagaceae]] — where this taxon now belongs

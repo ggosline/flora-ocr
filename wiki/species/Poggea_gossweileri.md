@@ -4,18 +4,20 @@ name: Poggea gossweileri
 authority: Exell
 genus: Poggea
 family: Flacourtiaceae
+modern_family: Achariaceae
 vol: 34
 pages: 41-42
 source: sources/Flacourtiaceae_vol34_paddle
 countries: [Angola, Democratic Republic of the Congo, Gabon]
 in_region: true
 habit: "shrub"
-tags: [species, generated]
+tags: [species, generated, superseded-circumscription]
 ---
 # *Poggea gossweileri* Exell
 
 **Genus**: [[Poggea]]
 **Family**: [[Flacourtiaceae]]
+**Modern family**: [[Achariaceae]] — *Flacourtiaceae* as circumscribed here is superseded; see [[Flacourtiaceae]]
 **Protologue**: J. Bot. 64, Suppl.: 20 (1926); J. Bot. 74, Suppl.: 15 (1936); SLEUMER, EBJ 94 (3): 297 (1974). TYPE : Gossweiler 7195, Angola (holo-, iso-)
 
 ## Description
@@ -63,3 +65,4 @@ Le Testu 1639, Mayombe Bayaka, Midounga, 25/10/1910, bout. fl. (P) ; 2319, l. c.
 - [[Poggea]]
 - [[Flacourtiaceae]]
 - [[vol34]]
+- [[Achariaceae]] — where this taxon now belongs

@@ -3,15 +3,17 @@ type: genus
 name: Cycnium
 authority: E.Mey. ex Benth. (1836)
 family: Scrophulariaceae
+modern_family: Orobanchaceae
 species_in_region: 1
 treatments:
   - vol: 48
     source: sources/Scrophulariaceae_vol48_liteparse
-tags: [genus, generated]
+tags: [genus, generated, superseded-circumscription]
 ---
 # *Cycnium* E.Mey. ex Benth. (1836)
 
 **Family**: [[Scrophulariaceae]]
+**Modern family**: [[Orobanchaceae]] — *Scrophulariaceae* as circumscribed here is superseded; see [[Scrophulariaceae]]
 **Authority**: E.Mey. ex Benth. (1836)
 
 ## Diagnosis
@@ -46,3 +48,4 @@ ibliography
 
 - [[Scrophulariaceae]]
 - [[vol48]]
+- [[Orobanchaceae]] — where this taxon now belongs

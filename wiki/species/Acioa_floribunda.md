@@ -4,6 +4,7 @@ name: Acioa floribunda
 authority: (Welwitsch) Exell
 genus: Acioa
 family: Scytopetalaceae
+modern_family: Lecythidaceae subfam. Scytopetaloideae
 vol: 24
 pages: 32-38
 source: sources/Chrysobalanaceae_vol24_paddle
@@ -11,12 +12,13 @@ countries: [Angola, Cameroon, Democratic Republic of the Congo, Gabon]
 in_region: true
 habit: "shrub"
 habitat: [coastal]
-tags: [species, generated]
+tags: [species, generated, superseded-circumscription]
 ---
 # *Acioa floribunda* (Welwitsch) Exell
 
 **Genus**: [[Acioa]]
 **Family**: [[Scytopetalaceae]]
+**Modern family**: [[Lecythidaceae]] subfam. Scytopetaloideae — *Scytopetalaceae* as circumscribed here is superseded; see [[Scytopetalaceae]]
 **Protologue**: J. of Bot. 66, Suppl. Polypet. : 161 (1928); HAUM., FCB 3 : 51 (1952); MENDES, Consp. Fl. Angol. 4 : 20 (1970)
 
 ## Synonyms
@@ -75,3 +77,4 @@ Le Testu 9130, Abam, 25 km WNW Oyem (fl., mai).
 - [[Acioa]]
 - [[Scytopetalaceae]]
 - [[vol24]]
+- [[Lecythidaceae]] — where this taxon now belongs

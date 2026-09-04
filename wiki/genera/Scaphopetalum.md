@@ -3,15 +3,17 @@ type: genus
 name: Scaphopetalum
 authority: Masters.
 family: Sterculiaceae
+modern_family: Malvaceae s.l.
 species_in_region: 4
 treatments:
   - vol: 02
     source: sources/Sterculiaceae_vol02_paddle
-tags: [genus, generated]
+tags: [genus, generated, superseded-circumscription]
 ---
 # *Scaphopetalum* Masters.
 
 **Family**: [[Sterculiaceae]]
+**Modern family**: [[Malvaceae]] s.l. — *Sterculiaceae* as circumscribed here is superseded; see [[Sterculiaceae]]
 **Authority**: Masters.
 **Protologue**: Mast., Journ. Linn. Soc. 10:28 (1869)
 
@@ -78,3 +80,4 @@ The source key separates these species but the volume gives them no treatment, u
 
 - [[Sterculiaceae]]
 - [[vol02]]
+- [[Malvaceae]] — where this taxon now belongs

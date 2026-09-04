@@ -4,6 +4,7 @@ name: Dracaena haemanthoides
 authority: Bos ex Damen Planche 12
 genus: Dracaena
 family: Dracaenaceae
+modern_family: Asparagaceae subfam. Nolinoideae
 vol: 54
 pages: 35-39
 source: sources/Dracaenaceae_vol54_liteparse
@@ -13,12 +14,13 @@ subdivisions:
   Gabon: [Woleu-Ntem]
 habit: "shrub"
 altitude_m: "25–450"
-tags: [species, generated]
+tags: [species, generated, superseded-circumscription]
 ---
 # *Dracaena haemanthoides* Bos ex Damen Planche 12
 
 **Genus**: [[Dracaena]]
 **Family**: [[Dracaenaceae]]
+**Modern family**: [[Asparagaceae]] subfam. Nolinoideae — *Dracaenaceae* as circumscribed here is superseded; see [[Dracaenaceae]]
 **Protologue**: Blumea 63 : 37 (2018)
 
 ## Description
@@ -52,3 +54,4 @@ National Herbarium Pretoria, reproduced from Killick (1959).
 - [[Dracaena]]
 - [[Dracaenaceae]]
 - [[vol54]]
+- [[Asparagaceae]] — where this taxon now belongs

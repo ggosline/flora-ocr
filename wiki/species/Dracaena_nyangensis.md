@@ -4,6 +4,7 @@ name: Dracaena nyangensis
 authority: Pellegr. Planche 16(1–4)
 genus: Dracaena
 family: Dracaenaceae
+modern_family: Asparagaceae subfam. Nolinoideae
 vol: 54
 pages: 47-49
 source: sources/Dracaenaceae_vol54_liteparse
@@ -14,12 +15,13 @@ subdivisions:
 habit: "herb"
 habitat: [primary forest]
 altitude_m: "0–460"
-tags: [species, generated]
+tags: [species, generated, superseded-circumscription]
 ---
 # *Dracaena nyangensis* Pellegr. Planche 16(1–4)
 
 **Genus**: [[Dracaena]]
 **Family**: [[Dracaenaceae]]
+**Modern family**: [[Asparagaceae]] subfam. Nolinoideae — *Dracaenaceae* as circumscribed here is superseded; see [[Dracaenaceae]]
 **Protologue**: Bull. Mus. Natl. Hist. Nat. , sér. 2, 2 : 571 (1930)
 
 ## Description
@@ -55,3 +57,4 @@ Flower. – 7. Corolla, open, and stamens. – 8. Gynoecium. – 9. Stamen. Draw
 - [[Dracaena]]
 - [[Dracaenaceae]]
 - [[vol54]]
+- [[Asparagaceae]] — where this taxon now belongs

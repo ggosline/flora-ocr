@@ -4,6 +4,7 @@ name: Alectra sessiliflora
 authority: (Vahl) Kuntze Planche 28, 56(L)
 genus: Alectra
 family: Scrophulariaceae
+modern_family: Orobanchaceae
 vol: 48
 pages: 100-101
 source: sources/Scrophulariaceae_vol48_liteparse
@@ -13,12 +14,13 @@ subdivisions:
   Gabon: [Ngounié]
 habit: "herb"
 altitude_m: "640"
-tags: [species, generated]
+tags: [species, generated, superseded-circumscription]
 ---
 # *Alectra sessiliflora* (Vahl) Kuntze Planche 28, 56(L)
 
 **Genus**: [[Alectra]]
 **Family**: [[Scrophulariaceae]]
+**Modern family**: [[Orobanchaceae]] — *Scrophulariaceae* as circumscribed here is superseded; see [[Scrophulariaceae]]
 **Protologue**: Rev. gen. pl . 2 : 458 (1891)
 
 ## Description
@@ -52,3 +54,4 @@ The flowers as well as the roots (haustoria) have been used to dye textiles and 
 - [[Alectra]]
 - [[Scrophulariaceae]]
 - [[vol48]]
+- [[Orobanchaceae]] — where this taxon now belongs

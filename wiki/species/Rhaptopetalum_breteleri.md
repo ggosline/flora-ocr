@@ -4,18 +4,20 @@ name: Rhaptopetalum breteleri
 authority: R. Letouzey
 genus: Rhaptopetalum
 family: Scytopetalaceae
+modern_family: Lecythidaceae subfam. Scytopetaloideae
 vol: 24
 pages: 170-172
 source: sources/Scytopetalaceae_vol24_paddle
 countries: [Cameroon]
 in_region: true
 habit: "shrub"
-tags: [species, generated]
+tags: [species, generated, superseded-circumscription]
 ---
 # *Rhaptopetalum breteleri* R. Letouzey
 
 **Genus**: [[Rhaptopetalum]]
 **Family**: [[Scytopetalaceae]]
+**Modern family**: [[Lecythidaceae]] subfam. Scytopetaloideae — *Scytopetalaceae* as circumscribed here is superseded; see [[Scytopetalaceae]]
 **Protologue**: Adansonia, ser. 2, 17 (2): 134, tab. 3 (1977)
 
 ## Description
@@ -59,3 +61,4 @@ Breteler 2754, Zilly près Nguéléméndouka, 50 km NW Abong Mbang (fl., j. fr.)
 - [[Rhaptopetalum]]
 - [[Scytopetalaceae]]
 - [[vol24]]
+- [[Lecythidaceae]] — where this taxon now belongs

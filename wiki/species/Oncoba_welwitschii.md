@@ -4,17 +4,19 @@ name: Oncoba welwitschii
 authority: Oliv.
 genus: Oncoba
 family: Flacourtiaceae
+modern_family: Salicaceae
 vol: 34
 pages: 49-53
 source: sources/Flacourtiaceae_vol34_paddle
 countries: [Angola, Cameroon, Democratic Republic of the Congo, Equatorial Guinea, Gabon, Malawi, Mozambique, Nigeria, Tanzania]
 in_region: true
-tags: [species, generated]
+tags: [species, generated, superseded-circumscription]
 ---
 # *Oncoba welwitschii* Oliv.
 
 **Genus**: [[Oncoba]]
 **Family**: [[Flacourtiaceae]]
+**Modern family**: [[Salicaceae]] — *Flacourtiaceae* as circumscribed here is superseded; see [[Flacourtiaceae]]
 **Protologue**: FTA 1 : 117 (1868) ; WARB., in ENGL. & PRANTL, NPF 3 (6a) : 18 (1893) ; DE WILD. & T. DURAND, BJBB 36 (2) : 50 (1897). TYPE : Welwitsch 537, Angola (holo-)
 
 ## Description
@@ -94,3 +96,4 @@ De Wilde & al. 422, 15 km Mimong-Mbigou, env. 480 m alt., 7/2/1983, fr. (WAG).
 - [[Oncoba]]
 - [[Flacourtiaceae]]
 - [[vol34]]
+- [[Salicaceae]] — where this taxon now belongs

@@ -4,6 +4,7 @@ name: Vandellia senegalensis
 authority: Benth. Planche 52, 54(I–K)
 genus: Vandellia
 family: Scrophulariaceae
+modern_family: Linderniaceae
 vol: 48
 pages: 151-151
 source: sources/Scrophulariaceae_vol48_liteparse
@@ -13,12 +14,13 @@ subdivisions:
   Gabon: [Ogooué-Ivindo, Ogooué-Lolo, Woleu-Ntem]
 habit: "herb"
 altitude_m: "450–570"
-tags: [species, generated]
+tags: [species, generated, superseded-circumscription]
 ---
 # *Vandellia senegalensis* Benth. Planche 52, 54(I–K)
 
 **Genus**: [[Vandellia]]
 **Family**: [[Scrophulariaceae]]
+**Modern family**: [[Linderniaceae]] — *Scrophulariaceae* as circumscribed here is superseded; see [[Scrophulariaceae]]
 **Protologue**: Lindernia senegalensis (Benth.) Hiern, Cat. afr. pl. 1 : 763 (1898)
 
 ## Description
@@ -48,3 +50,4 @@ primary and secondary rainforests, paths, clearings, river banks, on sandy soil;
 - [[Vandellia]]
 - [[Scrophulariaceae]]
 - [[vol48]]
+- [[Linderniaceae]] — where this taxon now belongs

@@ -4,6 +4,7 @@ name: Dracaena braunii
 authority: Engl. Planche 6, Figure 2(A)
 genus: Dracaena
 family: Dracaenaceae
+modern_family: Asparagaceae subfam. Nolinoideae
 vol: 54
 pages: 23-27
 source: sources/Dracaenaceae_vol54_liteparse
@@ -14,12 +15,13 @@ subdivisions:
 habit: "shrub"
 habitat: [mangrove, savanna, coastal]
 altitude_m: "0–20"
-tags: [species, generated]
+tags: [species, generated, superseded-circumscription]
 ---
 # *Dracaena braunii* Engl. Planche 6, Figure 2(A)
 
 **Genus**: [[Dracaena]]
 **Family**: [[Dracaenaceae]]
+**Modern family**: [[Asparagaceae]] subfam. Nolinoideae — *Dracaenaceae* as circumscribed here is superseded; see [[Dracaenaceae]]
 **Protologue**: Bot. Jahrb. Syst. 15 : 479 (1892)
 
 ## Synonyms
@@ -69,3 +71,4 @@ A B C D Leeuwenberg, Naturalis Biodiversity Center © ; D by Ehoarn Bidault).
 - [[Dracaena]]
 - [[Dracaenaceae]]
 - [[vol54]]
+- [[Asparagaceae]] — where this taxon now belongs

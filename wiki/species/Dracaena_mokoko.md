@@ -4,6 +4,7 @@ name: Dracaena mokoko
 authority: Mwachala & Cheek
 genus: Dracaena
 family: Dracaenaceae
+modern_family: Asparagaceae subfam. Nolinoideae
 vol: 54
 pages: 45-45
 source: sources/Dracaenaceae_vol54_liteparse
@@ -13,12 +14,13 @@ subdivisions:
   Gabon: [Ngounié, Ogooué-Maritime, Woleu-Ntem]
 habit: "shrub"
 altitude_m: "0–1020"
-tags: [species, generated]
+tags: [species, generated, superseded-circumscription]
 ---
 # *Dracaena mokoko* Mwachala & Cheek
 
 **Genus**: [[Dracaena]]
 **Family**: [[Dracaenaceae]]
+**Modern family**: [[Asparagaceae]] subfam. Nolinoideae — *Dracaenaceae* as circumscribed here is superseded; see [[Dracaenaceae]]
 **Protologue**: Nordic J. Bot. 30 : 390 (2012)
 
 ## Description
@@ -46,3 +48,4 @@ The protologue described only fruiting plants. The flowers are described here fo
 - [[Dracaena]]
 - [[Dracaenaceae]]
 - [[vol54]]
+- [[Asparagaceae]] — where this taxon now belongs

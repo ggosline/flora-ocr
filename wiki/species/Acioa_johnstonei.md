@@ -4,18 +4,20 @@ name: Acioa johnstonei
 authority: Hoyle
 genus: Acioa
 family: Scytopetalaceae
+modern_family: Lecythidaceae subfam. Scytopetaloideae
 vol: 24
 pages: 38-42
 source: sources/Chrysobalanaceae_vol24_paddle
 countries: [Cameroon, Gabon, Republic of the Congo]
 in_region: true
 habit: "tree"
-tags: [species, generated]
+tags: [species, generated, superseded-circumscription]
 ---
 # *Acioa johnstonei* Hoyle
 
 **Genus**: [[Acioa]]
 **Family**: [[Scytopetalaceae]]
+**Modern family**: [[Lecythidaceae]] subfam. Scytopetaloideae — *Scytopetalaceae* as circumscribed here is superseded; see [[Scytopetalaceae]]
 **Protologue**: Kew Bull.: 258 (1932); l.c.: 71 (1947); DALZIEL, Us. Pl. W. Trop. Afr.: 167 (1937); KEAY, FWTA, ed. 2, 1 (2): 433 (1958)
 
 ## Description
@@ -79,3 +81,4 @@ Klaine 1890 (fl. et fr., juill. et sept.-oct.); 2981, 3538 (fl., juill.), Librev
 - [[Acioa]]
 - [[Scytopetalaceae]]
 - [[vol24]]
+- [[Lecythidaceae]] — where this taxon now belongs

@@ -4,6 +4,7 @@ name: Vandellia diffusa
 authority: L. Planche 51, 54(E–F)
 genus: Vandellia
 family: Scrophulariaceae
+modern_family: Linderniaceae
 vol: 48
 pages: 149-151
 source: sources/Scrophulariaceae_vol48_liteparse
@@ -13,12 +14,13 @@ subdivisions:
   Gabon: [Estuaire, Moyen-Ogooué, Ngounié, Nyanga, Ogooué-Ivindo, Ogooué-Lolo, Ogooué-Maritime, Woleu-Ntem]
 habit: "herb"
 altitude_m: "0–620"
-tags: [species, generated]
+tags: [species, generated, superseded-circumscription]
 ---
 # *Vandellia diffusa* L. Planche 51, 54(E–F)
 
 **Genus**: [[Vandellia]]
 **Family**: [[Scrophulariaceae]]
+**Modern family**: [[Linderniaceae]] — *Scrophulariaceae* as circumscribed here is superseded; see [[Scrophulariaceae]]
 **Protologue**: Syst. Nat. éd. 12, 2 : 422 (1767)
 
 ## Synonyms
@@ -60,3 +62,4 @@ Fischer (©).
 - [[Vandellia]]
 - [[Scrophulariaceae]]
 - [[vol48]]
+- [[Linderniaceae]] — where this taxon now belongs

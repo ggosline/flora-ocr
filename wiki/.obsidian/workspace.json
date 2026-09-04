@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "species/Microdesmis_haumaniana.md",
+                "file": "species/Phyllobotryon_bracteatum.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Microdesmis_haumaniana"
+              "title": "Phyllobotryon_bracteatum"
             }
           }
         ]
@@ -187,6 +187,13 @@
   },
   "active": "751504066fed907e",
   "lastOpenFiles": [
+    "genera/Phyllobotryon.md",
+    "families/Flacourtiaceae.md",
+    "genera/Sansevieria.md",
+    "families/Dracaenaceae.md",
+    "genera/Trema.md",
+    "families/Cannabaceae.md",
+    "species/Microdesmis_haumaniana.md",
     "genera/Microdesmis.md",
     "species/Zenkerella_citrina.md",
     "species/Zehneria_gilletii.md",
@@ -206,13 +213,6 @@
     "species/Summerhayesia_laurentii.md",
     "species/Stachyanthus_zenkeri.md",
     "species/Sloetiopsis_usambarensis.md",
-    "species/Salacighia_letestuana.md",
-    "species/Salacia_pynaertii.md",
-    "species/Rothmannia_whitfieldii.md",
-    "species/Rhodognaphalon_lukayense.md",
-    "species/Rhodognaphalon_brevicuspe.md",
-    "species/Rhipidoglossum_rutilum.md",
-    "species/Rhipidoglossum_densiflorum.md",
     "CuLX5GZw/Polygonaceae_vol7_paddle/figures/fig_002_p0015.png",
     "CuLX5GZw/Polygonaceae_vol7_paddle/figures/fig_001_p0009.png",
     "CuLX5GZw/Polygonaceae_vol7_paddle/figures/fig_000_p0002.png",

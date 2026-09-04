@@ -4,6 +4,7 @@ name: Maranthes chrysophylla
 authority: (Oliver) Prance
 genus: Maranthes
 family: Scytopetalaceae
+modern_family: Lecythidaceae subfam. Scytopetaloideae
 vol: 24
 pages: 102-107
 source: sources/Chrysobalanaceae_vol24_paddle
@@ -11,12 +12,13 @@ countries: [Cameroon, Cote d'Ivoire, Democratic Republic of the Congo, Gabon, Gh
 in_region: true
 habit: "tree"
 habitat: [coastal]
-tags: [species, generated]
+tags: [species, generated, superseded-circumscription]
 ---
 # *Maranthes chrysophylla* (Oliver) Prance
 
 **Genus**: [[Maranthes]]
 **Family**: [[Scytopetalaceae]]
+**Modern family**: [[Lecythidaceae]] subfam. Scytopetaloideae — *Scytopetalaceae* as circumscribed here is superseded; see [[Scytopetalaceae]]
 
 ## Description
 
@@ -95,3 +97,4 @@ akoa (bakélé); ekoa, evess more, evzéó moro, mabamana, mebaméné, mebamenen
 - [[Maranthes]]
 - [[Scytopetalaceae]]
 - [[vol24]]
+- [[Lecythidaceae]] — where this taxon now belongs

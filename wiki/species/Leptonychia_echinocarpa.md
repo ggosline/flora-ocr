@@ -4,16 +4,18 @@ name: Leptonychia echinocarpa
 authority: K. Schum.
 genus: Leptonychia
 family: Sterculiaceae
+modern_family: Malvaceae s.l.
 vol: 02
 pages: 132-135
 source: sources/Sterculiaceae_vol02_paddle
 habit: "liana"
-tags: [species, generated]
+tags: [species, generated, superseded-circumscription]
 ---
 # *Leptonychia echinocarpa* K. Schum.
 
 **Genus**: [[Leptonychia]]
 **Family**: [[Sterculiaceae]]
+**Modern family**: [[Malvaceae]] s.l. — *Sterculiaceae* as circumscribed here is superseded; see [[Sterculiaceae]]
 **Protologue**: K. Schum., Engl. et Prtl. Planz. Nachtr. I : 241 (1897), rét. orig.; Sterc. Afr. : 95 (1900)
 
 ## Description
@@ -55,3 +57,4 @@ Nous rattachons avec doute à cette espèce, un échantillon de Le Testu, n° 81
 - [[Leptonychia]]
 - [[Sterculiaceae]]
 - [[vol02]]
+- [[Malvaceae]] — where this taxon now belongs

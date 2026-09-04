@@ -4,6 +4,7 @@ name: Dracaena marina
 authority: Bos ex Damen Planche 15, Figure 3(C–E)
 genus: Dracaena
 family: Dracaenaceae
+modern_family: Asparagaceae subfam. Nolinoideae
 vol: 54
 pages: 43-45
 source: sources/Dracaenaceae_vol54_liteparse
@@ -14,12 +15,13 @@ subdivisions:
 habit: "tree"
 habitat: [mangrove]
 altitude_m: "0–200"
-tags: [species, generated]
+tags: [species, generated, superseded-circumscription]
 ---
 # *Dracaena marina* Bos ex Damen Planche 15, Figure 3(C–E)
 
 **Genus**: [[Dracaena]]
 **Family**: [[Dracaenaceae]]
+**Modern family**: [[Asparagaceae]] subfam. Nolinoideae — *Dracaenaceae* as circumscribed here is superseded; see [[Dracaenaceae]]
 **Protologue**: Blumea 63 : 40 (2018)
 
 ## Description
@@ -61,3 +63,4 @@ D. marina is close to D. mannii and D. cerasifera, but is easily distinguished b
 - [[Dracaena]]
 - [[Dracaenaceae]]
 - [[vol54]]
+- [[Asparagaceae]] — where this taxon now belongs

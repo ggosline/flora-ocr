@@ -4,6 +4,7 @@ name: Dracaena nitens
 authority: Welw. ex Baker Figure 4(A)
 genus: Dracaena
 family: Dracaenaceae
+modern_family: Asparagaceae subfam. Nolinoideae
 vol: 54
 pages: 45-47
 source: sources/Dracaenaceae_vol54_liteparse
@@ -13,12 +14,13 @@ subdivisions:
   Gabon: [Estuaire, Haut-Ogooué, Ngounié, Nyanga, Ogooué-Ivindo, Ogooué-Lolo, Ogooué-Maritime]
 habit: "tree"
 altitude_m: "0–800"
-tags: [species, generated]
+tags: [species, generated, superseded-circumscription]
 ---
 # *Dracaena nitens* Welw. ex Baker Figure 4(A)
 
 **Genus**: [[Dracaena]]
 **Family**: [[Dracaenaceae]]
+**Modern family**: [[Asparagaceae]] subfam. Nolinoideae — *Dracaenaceae* as circumscribed here is superseded; see [[Dracaenaceae]]
 **Protologue**: Trans. Linn. Soc. London, Bot. 1 : 252 (1878)
 
 ## Description
@@ -68,3 +70,4 @@ See the note under D. mannii. Figueiredo (2008) mentioned this species under D. 
 - [[Dracaena]]
 - [[Dracaenaceae]]
 - [[vol54]]
+- [[Asparagaceae]] — where this taxon now belongs

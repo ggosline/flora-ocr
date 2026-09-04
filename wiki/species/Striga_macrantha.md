@@ -4,6 +4,7 @@ name: Striga macrantha
 authority: (Benth.) Benth. Planche 43(C–E)
 genus: Striga
 family: Scrophulariaceae
+modern_family: Orobanchaceae
 vol: 48
 pages: 137-137
 source: sources/Scrophulariaceae_vol48_liteparse
@@ -13,12 +14,13 @@ subdivisions:
   Gabon: [Ngounié]
 habit: "herb"
 altitude_m: "260"
-tags: [species, generated]
+tags: [species, generated, superseded-circumscription]
 ---
 # *Striga macrantha* (Benth.) Benth. Planche 43(C–E)
 
 **Genus**: [[Striga]]
 **Family**: [[Scrophulariaceae]]
+**Modern family**: [[Orobanchaceae]] — *Scrophulariaceae* as circumscribed here is superseded; see [[Scrophulariaceae]]
 
 ## Description
 
@@ -47,3 +49,4 @@ savannas; in Gabon, at 260 m elevation, in the Democratic Republic of the Congo 
 - [[Striga]]
 - [[Scrophulariaceae]]
 - [[vol48]]
+- [[Orobanchaceae]] — where this taxon now belongs

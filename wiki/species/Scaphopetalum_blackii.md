@@ -4,16 +4,18 @@ name: Scaphopetalum blackii
 authority: Masters.
 genus: Scaphopetalum
 family: Sterculiaceae
+modern_family: Malvaceae s.l.
 vol: 02
 pages: 121-125
 source: sources/Sterculiaceae_vol02_paddle
 habit: "shrub"
-tags: [species, generated]
+tags: [species, generated, superseded-circumscription]
 ---
 # *Scaphopetalum blackii* Masters.
 
 **Genus**: [[Scaphopetalum]]
 **Family**: [[Sterculiaceae]]
+**Modern family**: [[Malvaceae]] s.l. — *Sterculiaceae* as circumscribed here is superseded; see [[Sterculiaceae]]
 **Protologue**: Mast., J. Linn. Soc. X: 29, t. 3 f. 8-14 (1869), réf. orig
 
 ## Synonyms
@@ -79,3 +81,4 @@ Thollon : 61, Ndjolé (fl. déc.-janv.).
 - [[Scaphopetalum]]
 - [[Sterculiaceae]]
 - [[vol02]]
+- [[Malvaceae]] — where this taxon now belongs

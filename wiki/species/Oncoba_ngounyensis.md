@@ -4,18 +4,20 @@ name: Oncoba ngounyensis
 authority: (PELLEGR.) HUL, comb. nov.
 genus: Oncoba
 family: Flacourtiaceae
+modern_family: Salicaceae
 vol: 34
 pages: 53-55
 source: sources/Flacourtiaceae_vol34_paddle
 countries: [Gabon]
 in_region: true
 habit: "shrub"
-tags: [species, generated]
+tags: [species, generated, superseded-circumscription]
 ---
 # *Oncoba ngounyensis* (PELLEGR.) HUL, comb. nov.
 
 **Genus**: [[Oncoba]]
 **Family**: [[Flacourtiaceae]]
+**Modern family**: [[Salicaceae]] — *Flacourtiaceae* as circumscribed here is superseded; see [[Flacourtiaceae]]
 
 ## Synonyms
 
@@ -66,3 +68,4 @@ McPherson 15232, Moyen-Ogooué, SW Lambaréné, près du lac Ezanga, 1°0'S-10°
 - [[Oncoba]]
 - [[Flacourtiaceae]]
 - [[vol34]]
+- [[Salicaceae]] — where this taxon now belongs

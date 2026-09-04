@@ -4,6 +4,7 @@ name: Dracaena aubryana
 authority: Brongn. ex E.Morren Planche 4, Figure 1(D, E)
 genus: Dracaena
 family: Dracaenaceae
+modern_family: Asparagaceae subfam. Nolinoideae
 vol: 54
 pages: 21-21
 source: sources/Dracaenaceae_vol54_liteparse
@@ -13,12 +14,13 @@ subdivisions:
   Gabon: [Estuaire, Haut-Ogooué, Moyen-Ogooué, Nyanga, Ogooué-Lolo]
 habit: "shrub"
 altitude_m: "0–450"
-tags: [species, generated]
+tags: [species, generated, superseded-circumscription]
 ---
 # *Dracaena aubryana* Brongn. ex E.Morren Planche 4, Figure 1(D, E)
 
 **Genus**: [[Dracaena]]
 **Family**: [[Dracaenaceae]]
+**Modern family**: [[Asparagaceae]] subfam. Nolinoideae — *Dracaenaceae* as circumscribed here is superseded; see [[Dracaenaceae]]
 **Protologue**: Belgique Hort. 10 : 348 (1860)
 
 ## Synonyms
@@ -60,3 +62,4 @@ D. tholloniana and D. kindtiana are close to D. aubryana. They are treated as sy
 - [[Dracaena]]
 - [[Dracaenaceae]]
 - [[vol54]]
+- [[Asparagaceae]] — where this taxon now belongs

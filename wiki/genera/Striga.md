@@ -3,15 +3,17 @@ type: genus
 name: Striga
 authority: Lour.
 family: Scrophulariaceae
+modern_family: Orobanchaceae
 species_in_region: 4
 treatments:
   - vol: 48
     source: sources/Scrophulariaceae_vol48_liteparse
-tags: [genus, generated]
+tags: [genus, generated, superseded-circumscription]
 ---
 # *Striga* Lour.
 
 **Family**: [[Scrophulariaceae]]
+**Modern family**: [[Orobanchaceae]] — *Scrophulariaceae* as circumscribed here is superseded; see [[Scrophulariaceae]]
 **Authority**: Lour.
 **Protologue**: Fl. cochinch. 1 : 22 (1790)
 
@@ -65,3 +67,4 @@ Bibliography
 
 - [[Scrophulariaceae]]
 - [[vol48]]
+- [[Orobanchaceae]] — where this taxon now belongs

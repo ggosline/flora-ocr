@@ -4,6 +4,7 @@ name: Ornithogalum tenuifolium
 authority: F.Delaroche subsp. tenuifolium
 genus: Ornithogalum
 family: Hyacinthaceae
+modern_family: Asparagaceae subfam. Scilloideae
 vol: 40
 pages: 34-37
 source: sources/Hyacinthaceae_vol40_liteparse
@@ -13,12 +14,13 @@ subdivisions:
   Gabon: [Nyanga]
 habit: "herb"
 altitude_m: "150"
-tags: [species, generated]
+tags: [species, generated, superseded-circumscription]
 ---
 # *Ornithogalum tenuifolium* F.Delaroche subsp. tenuifolium
 
 **Genus**: [[Ornithogalum]]
 **Family**: [[Hyacinthaceae]]
+**Modern family**: [[Asparagaceae]] subfam. Scilloideae — *Hyacinthaceae* as circumscribed here is superseded; see [[Hyacinthaceae]]
 **Protologue**: O. tenuifolium F.Delaroche subsp. robustum Stedje, Nordic J. Bot. 4 : 758 (1984)
 
 ## Description
@@ -62,3 +64,4 @@ Flower (× 5). – 5. Stamen, external face (× 3.5). – 6. Stamen, internal fa
 - [[Ornithogalum]]
 - [[Hyacinthaceae]]
 - [[vol40]]
+- [[Asparagaceae]] — where this taxon now belongs

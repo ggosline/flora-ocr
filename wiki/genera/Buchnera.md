@@ -3,15 +3,17 @@ type: genus
 name: Buchnera
 authority: L.
 family: Scrophulariaceae
+modern_family: Orobanchaceae
 species_in_region: 3
 treatments:
   - vol: 48
     source: sources/Scrophulariaceae_vol48_liteparse
-tags: [genus, generated]
+tags: [genus, generated, superseded-circumscription]
 ---
 # *Buchnera* L.
 
 **Family**: [[Scrophulariaceae]]
+**Modern family**: [[Orobanchaceae]] — *Scrophulariaceae* as circumscribed here is superseded; see [[Scrophulariaceae]]
 **Authority**: L.
 **Protologue**: Sp. pl. 2 : 630 (1753) ; Gen. pl. éd. 5 : 278 (1754)
 
@@ -64,3 +66,4 @@ Bibliography
 
 - [[Scrophulariaceae]]
 - [[vol48]]
+- [[Orobanchaceae]] — where this taxon now belongs

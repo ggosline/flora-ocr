@@ -4,16 +4,18 @@ name: Cola pachycarpa
 authority: K. Schumann.
 genus: Cola
 family: Sterculiaceae
+modern_family: Malvaceae s.l.
 vol: 02
 pages: 96-98
 source: sources/Sterculiaceae_vol02_paddle
 habit: "tree"
-tags: [species, generated]
+tags: [species, generated, superseded-circumscription]
 ---
 # *Cola pachycarpa* K. Schumann.
 
 **Genus**: [[Cola]]
 **Family**: [[Sterculiaceae]]
+**Modern family**: [[Malvaceae]] s.l. — *Sterculiaceae* as circumscribed here is superseded; see [[Sterculiaceae]]
 **Protologue**: K. Schum., Bot. Jahrb. 15 : 137, t. 5-6 (1813), rét. orig., et Sterc. Afr. : 122, t. 12 E (1900)
 
 ## Description
@@ -59,3 +61,4 @@ Le Testu : 2156, Pingo, pays Mitsogho (fl. oct.); 2310, forêt des Echira (fl. o
 - [[Cola]]
 - [[Sterculiaceae]]
 - [[vol02]]
+- [[Malvaceae]] — where this taxon now belongs

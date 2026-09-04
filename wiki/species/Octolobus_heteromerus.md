@@ -4,16 +4,18 @@ name: Octolobus heteromerus
 authority: K. Schum.
 genus: Octolobus
 family: Sterculiaceae
+modern_family: Malvaceae s.l.
 vol: 02
 pages: 108-109
 source: sources/Sterculiaceae_vol02_paddle
 habit: "tree"
-tags: [species, generated]
+tags: [species, generated, superseded-circumscription]
 ---
 # *Octolobus heteromerus* K. Schum.
 
 **Genus**: [[Octolobus]]
 **Family**: [[Sterculiaceae]]
+**Modern family**: [[Malvaceae]] s.l. — *Sterculiaceae* as circumscribed here is superseded; see [[Sterculiaceae]]
 **Protologue**: K. Schum., Notizbl. Berl. 2 : 306 (1899), réf. orig., et Sterc. Afr. : 99
 
 ## Description
@@ -59,3 +61,4 @@ N. Hallé : 1449, Makokou.
 - [[Octolobus]]
 - [[Sterculiaceae]]
 - [[vol02]]
+- [[Malvaceae]] — where this taxon now belongs

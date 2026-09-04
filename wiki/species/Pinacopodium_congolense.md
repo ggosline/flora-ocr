@@ -4,18 +4,20 @@ name: Pinacopodium congolense
 authority: (S. Moore) Exell & Mendonça
 genus: Pinacopodium
 family: Nectaropetalaceae
+modern_family: Erythroxylaceae
 vol: 21
 pages: 22-24
 source: sources/Nectaropetalaceae_vol21_paddle
 countries: [Gabon]
 in_region: true
 habit: "tree"
-tags: [species, generated]
+tags: [species, generated, superseded-circumscription]
 ---
 # *Pinacopodium congolense* (S. Moore) Exell & Mendonça
 
 **Genus**: [[Pinacopodium]]
 **Family**: [[Nectaropetalaceae]]
+**Modern family**: [[Erythroxylaceae]] — *Nectaropetalaceae* as circumscribed here is superseded; see [[Nectaropetalaceae]]
 **Protologue**: Bol. Soc. Brot., ser. 2, 25 : 105 (1951); Consp. Fl. Angol. 1 : 246 (1951)
 
 ## Synonyms
@@ -64,3 +66,4 @@ Le Testu 5197, Haute Ngounyé, Mouila (fl., janv.); 5207, (fl., fév.); 5857, Sa
 - [[Pinacopodium]]
 - [[Nectaropetalaceae]]
 - [[vol21]]
+- [[Erythroxylaceae]] — where this taxon now belongs

@@ -4,6 +4,7 @@ name: Dracaena kindtiana
 authority: De Wild. Planche 13
 genus: Dracaena
 family: Dracaenaceae
+modern_family: Asparagaceae subfam. Nolinoideae
 vol: 54
 pages: 39-39
 source: sources/Dracaenaceae_vol54_liteparse
@@ -13,12 +14,13 @@ subdivisions:
   Gabon: [Ngounié, Ogooué-Ivindo]
 habit: "shrub"
 altitude_m: "150–650"
-tags: [species, generated]
+tags: [species, generated, superseded-circumscription]
 ---
 # *Dracaena kindtiana* De Wild. Planche 13
 
 **Genus**: [[Dracaena]]
 **Family**: [[Dracaenaceae]]
+**Modern family**: [[Asparagaceae]] subfam. Nolinoideae — *Dracaenaceae* as circumscribed here is superseded; see [[Dracaenaceae]]
 **Protologue**: Ann. Mus. Congo belge, Bot., sér. 5, 2 : 119 (1907)
 
 ## Synonyms
@@ -56,3 +58,4 @@ See the note under D. aubryana. B: Bos (1984), Mwachala (2005, 2007). Bibliograp
 - [[Dracaena]]
 - [[Dracaenaceae]]
 - [[vol54]]
+- [[Asparagaceae]] — where this taxon now belongs

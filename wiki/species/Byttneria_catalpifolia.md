@@ -4,16 +4,18 @@ name: Byttneria catalpifolia
 authority: Jacq.
 genus: Byttneria
 family: Sterculiaceae
+modern_family: Malvaceae s.l.
 vol: 02
 pages: 150-151
 source: sources/Sterculiaceae_vol02_paddle
 habit: "shrub"
-tags: [species, generated]
+tags: [species, generated, superseded-circumscription]
 ---
 # *Byttneria catalpifolia* Jacq.
 
 **Genus**: [[Byttneria]]
 **Family**: [[Sterculiaceae]]
+**Modern family**: [[Malvaceae]] s.l. — *Sterculiaceae* as circumscribed here is superseded; see [[Sterculiaceae]]
 **Protologue**: JACQ. Pl. Rar. Hort. Caes. Schoenbr. I: 21. t. 46 (1797)
 
 ## Synonyms
@@ -39,3 +41,4 @@ White flower with 5 sepals attenuate acute suberect at anthesis, emarginate up t
 - [[Byttneria]]
 - [[Sterculiaceae]]
 - [[vol02]]
+- [[Malvaceae]] — where this taxon now belongs

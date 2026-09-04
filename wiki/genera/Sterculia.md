@@ -2,15 +2,17 @@
 type: genus
 name: Sterculia
 family: Sterculiaceae
+modern_family: Malvaceae s.l.
 species_in_region: 2
 treatments:
   - vol: 02
     source: sources/Sterculiaceae_vol02_paddle
-tags: [genus, generated]
+tags: [genus, generated, superseded-circumscription]
 ---
 # *Sterculia*
 
 **Family**: [[Sterculiaceae]]
+**Modern family**: [[Malvaceae]] s.l. — *Sterculiaceae* as circumscribed here is superseded; see [[Sterculiaceae]]
 **Protologue**: C. M. Dassaw in Linné, Fl. Zeyl., suppl. Nov. Pl. Zeyl.: 13 (1747)
 
 ## Diagnosis
@@ -73,3 +75,4 @@ The genus Sterculia, for which the need for a comprehensive revision is felt, co
 
 - [[Sterculiaceae]]
 - [[vol02]]
+- [[Malvaceae]] — where this taxon now belongs

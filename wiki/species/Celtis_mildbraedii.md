@@ -4,6 +4,7 @@ name: Celtis mildbraedii
 authority: Engl. Planche 32(2-7)
 genus: Celtis
 family: Ulmaceae
+modern_family: Cannabaceae
 vol: 58
 pages: 126-126
 source: sources/Ulmaceae_vol58_liteparse
@@ -14,12 +15,13 @@ subdivisions:
 habit: "tree"
 habitat: [evergreen forest]
 altitude_m: "555"
-tags: [species, generated]
+tags: [species, generated, superseded-circumscription]
 ---
 # *Celtis mildbraedii* Engl. Planche 32(2-7)
 
 **Genus**: [[Celtis]]
 **Family**: [[Ulmaceae]]
+**Modern family**: [[Cannabaceae]] — *Ulmaceae* as circumscribed here is superseded; see [[Ulmaceae]]
 **Protologue**: Bot. Jahrb. Syst . 43 : 309 (1909)
 
 ## Description
@@ -57,3 +59,4 @@ C. soyauxii Engl. was reported for Gabon by Raponda-Walker & Sillans (1961). Fro
 - [[Celtis]]
 - [[Ulmaceae]]
 - [[vol58]]
+- [[Cannabaceae]] — where this taxon now belongs

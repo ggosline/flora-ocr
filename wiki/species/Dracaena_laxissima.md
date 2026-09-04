@@ -4,6 +4,7 @@ name: Dracaena laxissima
 authority: Engl. Planche 14
 genus: Dracaena
 family: Dracaenaceae
+modern_family: Asparagaceae subfam. Nolinoideae
 vol: 54
 pages: 39-41
 source: sources/Dracaenaceae_vol54_liteparse
@@ -14,12 +15,13 @@ subdivisions:
 habit: "shrub"
 habitat: [mangrove]
 altitude_m: "0–900"
-tags: [species, generated]
+tags: [species, generated, superseded-circumscription]
 ---
 # *Dracaena laxissima* Engl. Planche 14
 
 **Genus**: [[Dracaena]]
 **Family**: [[Dracaenaceae]]
+**Modern family**: [[Asparagaceae]] subfam. Nolinoideae — *Dracaenaceae* as circumscribed here is superseded; see [[Dracaenaceae]]
 **Protologue**: Bot. Jahrb. Syst. 15 : 478 (1892)
 
 ## Description
@@ -55,3 +57,4 @@ In the Democratic Republic of the Congo and Tanzania a form with white or yellow
 - [[Dracaena]]
 - [[Dracaenaceae]]
 - [[vol54]]
+- [[Asparagaceae]] — where this taxon now belongs

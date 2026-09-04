@@ -4,16 +4,18 @@ name: Tarrietia densiflora
 authority: (Pellegr.) Aubr. et Normand.
 genus: Tarrietia
 family: Sterculiaceae
+modern_family: Malvaceae s.l.
 vol: 02
 pages: 30-34
 source: sources/Sterculiaceae_vol02_paddle
 habit: "tree"
-tags: [species, generated]
+tags: [species, generated, superseded-circumscription]
 ---
 # *Tarrietia densiflora* (Pellegr.) Aubr. et Normand.
 
 **Genus**: [[Tarrietia]]
 **Family**: [[Sterculiaceae]]
+**Modern family**: [[Malvaceae]] s.l. — *Sterculiaceae* as circumscribed here is superseded; see [[Sterculiaceae]]
 
 ## Synonyms
 
@@ -103,3 +105,4 @@ Fruit composé d'un grand nombre de follicules insérés autour d'un réceptacle
 - [[Tarrietia]]
 - [[Sterculiaceae]]
 - [[vol02]]
+- [[Malvaceae]] — where this taxon now belongs

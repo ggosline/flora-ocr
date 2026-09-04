@@ -4,18 +4,20 @@ name: Maranthes aubrevillei
 authority: (Pellegrin) Prance
 genus: Maranthes
 family: Scytopetalaceae
+modern_family: Lecythidaceae subfam. Scytopetaloideae
 vol: 24
 pages: 101-102
 source: sources/Chrysobalanaceae_vol24_paddle
 countries: [Cameroon, Cote d'Ivoire, Ghana, Liberia, Sierra Leone]
 in_region: true
 habit: "tree"
-tags: [species, generated]
+tags: [species, generated, superseded-circumscription]
 ---
 # *Maranthes aubrevillei* (Pellegrin) Prance
 
 **Genus**: [[Maranthes]]
 **Family**: [[Scytopetalaceae]]
+**Modern family**: [[Lecythidaceae]] subfam. Scytopetaloideae — *Scytopetalaceae* as circumscribed here is superseded; see [[Scytopetalaceae]]
 
 ## Description
 
@@ -70,3 +72,4 @@ Mildbraed 5794, entre Ebolowa et Nkomakak (= Akom II) (stér., juill.) (HBG).
 - [[Maranthes]]
 - [[Scytopetalaceae]]
 - [[vol24]]
+- [[Lecythidaceae]] — where this taxon now belongs

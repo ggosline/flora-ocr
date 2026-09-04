@@ -4,6 +4,7 @@ name: Parinari hypochrysea
 authority: Mildbraed ex R. Letouzey & F. White
 genus: Parinari
 family: Scytopetalaceae
+modern_family: Lecythidaceae subfam. Scytopetaloideae
 vol: 24
 pages: 136-141
 source: sources/Chrysobalanaceae_vol24_paddle
@@ -11,12 +12,13 @@ countries: [Cameroon, Gabon, Nigeria]
 in_region: true
 habit: "tree"
 habitat: [coastal]
-tags: [species, generated]
+tags: [species, generated, superseded-circumscription]
 ---
 # *Parinari hypochrysea* Mildbraed ex R. Letouzey & F. White
 
 **Genus**: [[Parinari]]
 **Family**: [[Scytopetalaceae]]
+**Modern family**: [[Lecythidaceae]] subfam. Scytopetaloideae — *Scytopetalaceae* as circumscribed here is superseded; see [[Scytopetalaceae]]
 **Protologue**: Adansonia 16 (2) : 234, tab. 3 (1976); MILDBR., Wiss. Ergebn. Zweite Deutsch. Zentr.-Afr. Exped. 1910-11, 2 : 75 (1922), nom. nud
 
 ## Description
@@ -102,3 +104,4 @@ Sébire 488 SRF, Ramboué, 90 km SE Libreville (stér., nov.).
 - [[Parinari]]
 - [[Scytopetalaceae]]
 - [[vol24]]
+- [[Lecythidaceae]] — where this taxon now belongs

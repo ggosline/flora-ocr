@@ -4,15 +4,17 @@ name: Cola brevipes
 authority: K. Schum. var. hirsuta (Pellegr.) N. Hallé comb. nov.
 genus: Cola
 family: Sterculiaceae
+modern_family: Malvaceae s.l.
 vol: 02
 pages: 59-60
 source: sources/Sterculiaceae_vol02_paddle
-tags: [species, generated]
+tags: [species, generated, superseded-circumscription]
 ---
 # *Cola brevipes* K. Schum. var. hirsuta (Pellegr.) N. Hallé comb. nov.
 
 **Genus**: [[Cola]]
 **Family**: [[Sterculiaceae]]
+**Modern family**: [[Malvaceae]] s.l. — *Sterculiaceae* as circumscribed here is superseded; see [[Sterculiaceae]]
 **Protologue**: K. Schum. Sterc. Afr.: 119 (1900)
 
 ## Synonyms
@@ -44,3 +46,4 @@ Le Testu : 1676, 2079, 2322, région de la Nyanga et du Mayombe-Bayaka (fl. mars
 - [[Cola]]
 - [[Sterculiaceae]]
 - [[vol02]]
+- [[Malvaceae]] — where this taxon now belongs

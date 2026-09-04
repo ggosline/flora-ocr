@@ -4,6 +4,7 @@ name: Artanema longifolium
 authority: (L.) Vatke var. longifolium Planche 29, 55(H–K)
 genus: Artanema
 family: Scrophulariaceae
+modern_family: Linderniaceae
 vol: 48
 pages: 101-103
 source: sources/Scrophulariaceae_vol48_liteparse
@@ -13,12 +14,13 @@ subdivisions:
   Gabon: [Moyen-Ogooué, Ogooué-Maritime]
 habit: "herb"
 altitude_m: "100"
-tags: [species, generated]
+tags: [species, generated, superseded-circumscription]
 ---
 # *Artanema longifolium* (L.) Vatke var. longifolium Planche 29, 55(H–K)
 
 **Genus**: [[Artanema]]
 **Family**: [[Scrophulariaceae]]
+**Modern family**: [[Linderniaceae]] — *Scrophulariaceae* as circumscribed here is superseded; see [[Scrophulariaceae]]
 **Protologue**: Linnaea 43 : 307 (1882)
 
 ## Description
@@ -52,3 +54,4 @@ secondary rainforests, clearings; in Gabon, at 100 m altitude, elsewhere, at 15�
 - [[Artanema]]
 - [[Scrophulariaceae]]
 - [[vol48]]
+- [[Linderniaceae]] — where this taxon now belongs

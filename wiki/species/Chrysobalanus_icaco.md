@@ -4,15 +4,17 @@ name: Chrysobalanus icaco
 authority: Linné
 genus: Chrysobalanus
 family: Scytopetalaceae
+modern_family: Lecythidaceae subfam. Scytopetaloideae
 vol: 24
 pages: 63-69
 source: sources/Chrysobalanaceae_vol24_paddle
-tags: [species, generated]
+tags: [species, generated, superseded-circumscription]
 ---
 # *Chrysobalanus icaco* Linné
 
 **Genus**: [[Chrysobalanus]]
 **Family**: [[Scytopetalaceae]]
+**Modern family**: [[Lecythidaceae]] subfam. Scytopetaloideae — *Scytopetalaceae* as circumscribed here is superseded; see [[Scytopetalaceae]]
 **Protologue**: Sp. Pl. 1 : 513 (1753)
 
 ## Description
@@ -38,3 +40,4 @@ This species is represented in Cameroon and Gabon by two subspecies which are di
 - [[Chrysobalanus]]
 - [[Scytopetalaceae]]
 - [[vol24]]
+- [[Lecythidaceae]] — where this taxon now belongs

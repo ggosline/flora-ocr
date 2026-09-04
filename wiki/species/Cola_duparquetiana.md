@@ -4,18 +4,20 @@ name: Cola duparquetiana
 authority: H. Baillon.
 genus: Cola
 family: Sterculiaceae
+modern_family: Malvaceae s.l.
 vol: 02
 pages: 84-88
 source: sources/Sterculiaceae_vol02_paddle
 countries: [Gabon]
 in_region: true
 habit: "tree"
-tags: [species, generated]
+tags: [species, generated, superseded-circumscription]
 ---
 # *Cola duparquetiana* H. Baillon.
 
 **Genus**: [[Cola]]
 **Family**: [[Sterculiaceae]]
+**Modern family**: [[Malvaceae]] s.l. — *Sterculiaceae* as circumscribed here is superseded; see [[Sterculiaceae]]
 
 ## Synonyms
 
@@ -85,3 +87,4 @@ SOUS-GENRE VI. CHEIROCOLA K. Schum.
 - [[Cola]]
 - [[Sterculiaceae]]
 - [[vol02]]
+- [[Malvaceae]] — where this taxon now belongs

@@ -4,15 +4,17 @@ name: Cola nitida
 authority: (Vent.) Schott et Endl.
 genus: Cola
 family: Sterculiaceae
+modern_family: Malvaceae s.l.
 vol: 02
 pages: 46-47
 source: sources/Sterculiaceae_vol02_paddle
-tags: [species, generated]
+tags: [species, generated, superseded-circumscription]
 ---
 # *Cola nitida* (Vent.) Schott et Endl.
 
 **Genus**: [[Cola]]
 **Family**: [[Sterculiaceae]]
+**Modern family**: [[Malvaceae]] s.l. — *Sterculiaceae* as circumscribed here is superseded; see [[Sterculiaceae]]
 **Protologue**: VENT. Jard. Malmaison : t. 91 (1805) réf. orig
 
 ## Description
@@ -44,3 +46,4 @@ The seed of the Cola Tree is highly prized by Africans; its flavor is bitter. It
 - [[Cola]]
 - [[Sterculiaceae]]
 - [[vol02]]
+- [[Malvaceae]] — where this taxon now belongs

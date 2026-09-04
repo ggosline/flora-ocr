@@ -4,18 +4,20 @@ name: Acioa librevillensis
 authority: R. Letouzey
 genus: Acioa
 family: Scytopetalaceae
+modern_family: Lecythidaceae subfam. Scytopetaloideae
 vol: 24
 pages: 50-52
 source: sources/Chrysobalanaceae_vol24_paddle
 countries: [Angola, Democratic Republic of the Congo, Gabon, Liberia, Sierra Leone]
 in_region: true
 habit: "liana"
-tags: [species, generated]
+tags: [species, generated, superseded-circumscription]
 ---
 # *Acioa librevillensis* R. Letouzey
 
 **Genus**: [[Acioa]]
 **Family**: [[Scytopetalaceae]]
+**Modern family**: [[Lecythidaceae]] subfam. Scytopetaloideae — *Scytopetalaceae* as circumscribed here is superseded; see [[Scytopetalaceae]]
 **Protologue**: Adansonia, ser. 2, 16 (2) : 238, tab. 4 (1976)
 
 ## Description
@@ -61,3 +63,4 @@ Klein 55, Cap Esterias près Libreville (fl., févr.) (B, P).
 - [[Acioa]]
 - [[Scytopetalaceae]]
 - [[vol24]]
+- [[Lecythidaceae]] — where this taxon now belongs

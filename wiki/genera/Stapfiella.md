@@ -3,15 +3,17 @@ type: genus
 name: Stapfiella
 authority: Gilg
 family: Turneraceae
+modern_family: Passifloraceae subfam. Turneroideae
 species_in_region: 1
 treatments:
   - vol: 42
     source: sources/Turneraceae_vol42_liteparse
-tags: [genus, generated]
+tags: [genus, generated, superseded-circumscription]
 ---
 # *Stapfiella* Gilg
 
 **Family**: [[Turneraceae]]
+**Modern family**: [[Passifloraceae]] subfam. Turneroideae — *Turneraceae* as circumscribed here is superseded; see [[Turneraceae]]
 **Authority**: Gilg
 
 ## Diagnosis
@@ -46,3 +48,4 @@ Bibliography
 
 - [[Turneraceae]]
 - [[vol42]]
+- [[Passifloraceae]] — where this taxon now belongs

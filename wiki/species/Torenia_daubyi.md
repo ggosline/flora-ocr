@@ -4,6 +4,7 @@ name: Torenia daubyi
 authority: Eb.Fisch. & O.Lachenaud Planche 46
 genus: Torenia
 family: Scrophulariaceae
+modern_family: Linderniaceae
 vol: 48
 pages: 139-141
 source: sources/Scrophulariaceae_vol48_liteparse
@@ -14,12 +15,13 @@ subdivisions:
 habit: "herb"
 habitat: [evergreen forest]
 altitude_m: "580"
-tags: [species, generated]
+tags: [species, generated, superseded-circumscription]
 ---
 # *Torenia daubyi* Eb.Fisch. & O.Lachenaud Planche 46
 
 **Genus**: [[Torenia]]
 **Family**: [[Scrophulariaceae]]
+**Modern family**: [[Linderniaceae]] — *Scrophulariaceae* as circumscribed here is superseded; see [[Scrophulariaceae]]
 **Protologue**: Phytotaxa 125(1) : 42 (2013)
 
 ## Description
@@ -49,3 +51,4 @@ dense rainforest on terra firme near a stream; at 580 m altitude. B: Fischer & L
 - [[Torenia]]
 - [[Scrophulariaceae]]
 - [[vol48]]
+- [[Linderniaceae]] — where this taxon now belongs

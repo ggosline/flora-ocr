@@ -4,6 +4,7 @@ name: Dracaena usambarensis
 authority: Engl. Planche 20
 genus: Dracaena
 family: Dracaenaceae
+modern_family: Asparagaceae subfam. Nolinoideae
 vol: 54
 pages: 55-57
 source: sources/Dracaenaceae_vol54_liteparse
@@ -12,12 +13,13 @@ in_region: true
 habit: "tree"
 habitat: [savanna, coastal]
 altitude_m: "1800"
-tags: [species, generated]
+tags: [species, generated, superseded-circumscription]
 ---
 # *Dracaena usambarensis* Engl. Planche 20
 
 **Genus**: [[Dracaena]]
 **Family**: [[Dracaenaceae]]
+**Modern family**: [[Asparagaceae]] subfam. Nolinoideae — *Dracaenaceae* as circumscribed here is superseded; see [[Dracaenaceae]]
 **Protologue**: Pflanzenw. Ost-Afrikas, C : 144 (1895)
 
 ## Synonyms
@@ -58,3 +60,4 @@ See the notes under D. mannii. B: Bos (1992, as D. mannii), Damen et al. (2018),
 - [[Dracaena]]
 - [[Dracaenaceae]]
 - [[vol54]]
+- [[Asparagaceae]] — where this taxon now belongs

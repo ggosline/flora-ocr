@@ -4,6 +4,7 @@ name: Limnophila dasyantha
 authority: (Engl. & Gilg) Skan Planche 35
 genus: Limnophila
 family: Scrophulariaceae
+modern_family: Plantaginaceae
 vol: 48
 pages: 117-119
 source: sources/Scrophulariaceae_vol48_liteparse
@@ -13,12 +14,13 @@ subdivisions:
   Gabon: [Ngounié]
 habit: "herb"
 altitude_m: "1200"
-tags: [species, generated]
+tags: [species, generated, superseded-circumscription]
 ---
 # *Limnophila dasyantha* (Engl. & Gilg) Skan Planche 35
 
 **Genus**: [[Limnophila]]
 **Family**: [[Scrophulariaceae]]
+**Modern family**: [[Plantaginaceae]] — *Scrophulariaceae* as circumscribed here is superseded; see [[Scrophulariaceae]]
 
 ## Description
 
@@ -49,3 +51,4 @@ Stamens. (A–E: Le Testu 6498). Drawing by E. Fischer (©).
 - [[Limnophila]]
 - [[Scrophulariaceae]]
 - [[vol48]]
+- [[Plantaginaceae]] — where this taxon now belongs

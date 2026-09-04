@@ -4,16 +4,18 @@ name: Bombax buonopozense
 authority: Palisot de Beauvois
 genus: Bombax
 family: Bombacaceae
+modern_family: Malvaceae subfam. Bombacoideae
 vol: 22
 pages: 49-52
 source: sources/Bombacaceae_vol22_paddle
 habitat: [coastal]
-tags: [species, generated]
+tags: [species, generated, superseded-circumscription]
 ---
 # *Bombax buonopozense* Palisot de Beauvois
 
 **Genus**: [[Bombax]]
 **Family**: [[Bombacaceae]]
+**Modern family**: [[Malvaceae]] subfam. Bombacoideae — *Bombacaceae* as circumscribed here is superseded; see [[Bombacaceae]]
 **Protologue**: Fl. Oware et Benin 2 : 42, tab. 83, 1 a-c (1816); CHEVALIER, Vég. Ut. Afr. Trop. Fr. 5 : 187 (1909); Expl. Bot. A.O.F. 1 : 74 (1920); C.R.A. S. Paris, ser. D, 220 : 510 (1945); ULB.R.C.T. Jahr. 49 : 527 (1913); AUBRÉVILLE, FFSG : 710 (1950); FFCI, ed. 2, 2 : 262, tab. 225, 1-6 (1959); A. ROBYNS, Bull. Jard. Bot. Etat. Bruxelles 2 : 660, tab. 64 (1957); l.c. 33 : 104 (1963); KEAY, FWTA, ed. 2, 1 : 334 (1958); TAYLOR, Synecology and Sylviculture in Ghana : 105, tab. 21 (1960); IRVINE, Woody Pl. Ghana : 188 (1961)
 
 ## Description
@@ -85,3 +87,4 @@ Le Testu 1894, Tchibanga (fl., déc.).
 - [[Bombax]]
 - [[Bombacaceae]]
 - [[vol22]]
+- [[Malvaceae]] — where this taxon now belongs

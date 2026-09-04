@@ -3,18 +3,20 @@ type: species
 name: Mocquerysia hua
 genus: Mocquerysia
 family: Flacourtiaceae
+modern_family: Salicaceae
 vol: 34
 pages: 30-31
 source: sources/Flacourtiaceae_vol34_paddle
 countries: [Angola, Democratic Republic of the Congo, Gabon]
 in_region: true
 habit: "shrub"
-tags: [species, generated]
+tags: [species, generated, superseded-circumscription]
 ---
 # *Mocquerysia hua*
 
 **Genus**: [[Mocquerysia]]
 **Family**: [[Flacourtiaceae]]
+**Modern family**: [[Salicaceae]] — *Flacourtiaceae* as circumscribed here is superseded; see [[Flacourtiaceae]]
 
 ## Description
 
@@ -75,3 +77,4 @@ Wilks 881, 15 km SE Ogooué-Ivindo, forêt des Abeilles, 28/2/1984, fl. (WAG) ; 
 - [[Mocquerysia]]
 - [[Flacourtiaceae]]
 - [[vol34]]
+- [[Salicaceae]] — where this taxon now belongs

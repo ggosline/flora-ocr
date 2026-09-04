@@ -4,18 +4,20 @@ name: Oncoba mannii
 authority: Oliv.
 genus: Oncoba
 family: Flacourtiaceae
+modern_family: Salicaceae
 vol: 34
 pages: 59-63
 source: sources/Flacourtiaceae_vol34_paddle
 countries: [Angola, Cameroon, Democratic Republic of the Congo, Equatorial Guinea, Gabon, Nigeria]
 in_region: true
 habit: "herb"
-tags: [species, generated]
+tags: [species, generated, superseded-circumscription]
 ---
 # *Oncoba mannii* Oliv.
 
 **Genus**: [[Oncoba]]
 **Family**: [[Flacourtiaceae]]
+**Modern family**: [[Salicaceae]] — *Flacourtiaceae* as circumscribed here is superseded; see [[Flacourtiaceae]]
 **Protologue**: FTA 1 : 117 (1868). TYPES : Mann XI, Cameroun (lecto-, isolecto-) ; Mann 155, Guinée équatoriale, et Mann 2257, Nigeria (syn-)
 
 ## Description
@@ -113,3 +115,4 @@ Wieringa 562, Wolen-Ntem, env. 100 km Makokou, 1°29'N-12°48'E, 17/2/1990, bout
 - [[Oncoba]]
 - [[Flacourtiaceae]]
 - [[vol34]]
+- [[Salicaceae]] — where this taxon now belongs

@@ -4,6 +4,7 @@ name: Torenia crustacea
 authority: (L) Cham. & Schltdl. Planche 45, 55(A–B)
 genus: Torenia
 family: Scrophulariaceae
+modern_family: Linderniaceae
 vol: 48
 pages: 139-139
 source: sources/Scrophulariaceae_vol48_liteparse
@@ -13,12 +14,13 @@ subdivisions:
   Gabon: [Estuaire, Moyen-Ogooué, Nyanga, Ogooué-Maritime]
 habit: "herb"
 altitude_m: "0–160"
-tags: [species, generated]
+tags: [species, generated, superseded-circumscription]
 ---
 # *Torenia crustacea* (L) Cham. & Schltdl. Planche 45, 55(A–B)
 
 **Genus**: [[Torenia]]
 **Family**: [[Scrophulariaceae]]
+**Modern family**: [[Linderniaceae]] — *Scrophulariaceae* as circumscribed here is superseded; see [[Scrophulariaceae]]
 **Protologue**: Linnaea 2 : 570 (1827)
 
 ## Synonyms
@@ -64,3 +66,4 @@ The species is used especially in Asia as a medicinal plant and has given good r
 - [[Torenia]]
 - [[Scrophulariaceae]]
 - [[vol48]]
+- [[Linderniaceae]] — where this taxon now belongs

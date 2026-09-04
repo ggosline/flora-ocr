@@ -4,6 +4,7 @@ name: Sansevieria aubrytiana
 authority: Carrière
 genus: Sansevieria
 family: Dracaenaceae
+modern_family: Asparagaceae subfam. Nolinoideae
 vol: 54
 pages: 63-65
 source: sources/Dracaenaceae_vol54_liteparse
@@ -14,12 +15,13 @@ subdivisions:
 habit: "herb"
 habitat: [coastal, rocky ground]
 altitude_m: "0–25"
-tags: [species, generated]
+tags: [species, generated, superseded-circumscription]
 ---
 # *Sansevieria aubrytiana* Carrière
 
 **Genus**: [[Sansevieria]]
 **Family**: [[Dracaenaceae]]
+**Modern family**: [[Asparagaceae]] subfam. Nolinoideae — *Dracaenaceae* as circumscribed here is superseded; see [[Dracaenaceae]]
 **Protologue**: Rev. Hort. (Paris) 1861 : 449 (1861)
 
 ## Synonyms
@@ -65,3 +67,4 @@ langue de belle-mère (fr.) ; mother-in-law’s tongue, snake plant, viper’s b
 - [[Sansevieria]]
 - [[Dracaenaceae]]
 - [[vol54]]
+- [[Asparagaceae]] — where this taxon now belongs

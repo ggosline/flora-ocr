@@ -4,17 +4,19 @@ name: Oubanguia africana
 authority: Baillon
 genus: Oubanguia
 family: Scytopetalaceae
+modern_family: Lecythidaceae subfam. Scytopetaloideae
 vol: 24
 pages: 154-158
 source: sources/Scytopetalaceae_vol24_paddle
 countries: [Cameroon, Central African Republic, Democratic Republic of the Congo, Equatorial Guinea, Gabon]
 in_region: true
-tags: [species, generated]
+tags: [species, generated, superseded-circumscription]
 ---
 # *Oubanguia africana* Baillon
 
 **Genus**: [[Oubanguia]]
 **Family**: [[Scytopetalaceae]]
+**Modern family**: [[Lecythidaceae]] subfam. Scytopetaloideae — *Scytopetalaceae* as circumscribed here is superseded; see [[Scytopetalaceae]]
 **Protologue**: Bull. Soc. Linn. Paris 2 (109) : 869 (1890); Engl., Nat. Pflanzenfam., Nacht. I zu III, 6 : 233 (1897); V. Tiegh., Ann. Sc. Nat., ser. 9, 1 : 325 (1905); Engl., Pflanzenw. Afr. 3 (2) : 471 (1921); Letouzey, Adansonia, ser. 2, 1 (1) : 111, tab. 1, fig. 1-5 (1961); GerMAIN, FCB 10 : 328, tab. 30 (1963)
 
 ## Description
@@ -108,3 +110,4 @@ Thollon 32 (et 32 bis; cf. LETOUZEY, Adansonia, ser. 2, 1 (2) : 113, 1961) (type
 - [[Oubanguia]]
 - [[Scytopetalaceae]]
 - [[vol24]]
+- [[Lecythidaceae]] — where this taxon now belongs

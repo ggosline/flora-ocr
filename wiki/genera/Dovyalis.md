@@ -3,15 +3,17 @@ type: genus
 name: Dovyalis
 authority: E. Mey. ex Arn.
 family: Flacourtiaceae
+modern_family: Salicaceae
 species_in_region: 1
 treatments:
   - vol: 34
     source: sources/Flacourtiaceae_vol34_paddle
-tags: [genus, generated]
+tags: [genus, generated, superseded-circumscription]
 ---
 # *Dovyalis* E. Mey. ex Arn.
 
 **Family**: [[Flacourtiaceae]]
+**Modern family**: [[Salicaceae]] — *Flacourtiaceae* as circumscribed here is superseded; see [[Flacourtiaceae]]
 **Authority**: E. Mey. ex Arn.
 
 ## Diagnosis
@@ -50,3 +52,4 @@ This genus contains 15 species, of which 1 is found in Asia (Sri Lanka) and the 
 
 - [[Flacourtiaceae]]
 - [[vol34]]
+- [[Salicaceae]] — where this taxon now belongs

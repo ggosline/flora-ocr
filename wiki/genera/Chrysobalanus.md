@@ -3,15 +3,17 @@ type: genus
 name: Chrysobalanus
 authority: Linné
 family: Scytopetalaceae
+modern_family: Lecythidaceae subfam. Scytopetaloideae
 species_in_region: 1
 treatments:
   - vol: 24
     source: sources/Chrysobalanaceae_vol24_paddle
-tags: [genus, generated]
+tags: [genus, generated, superseded-circumscription]
 ---
 # *Chrysobalanus* Linné
 
 **Family**: [[Scytopetalaceae]]
+**Modern family**: [[Lecythidaceae]] subfam. Scytopetaloideae — *Scytopetalaceae* as circumscribed here is superseded; see [[Scytopetalaceae]]
 **Authority**: Linné
 **Protologue**: Gen. Pl. ed. 1 : 365 (1737); Sp. Pl. : 513 (1753); Gen. Pl. ed. 5 : 229 (1754); DC., Prodr. 2 : 525 (1825); BAILI., Hist. Pl. 1 : 425 (1869); Focke in Engl. & Prantl, Nat. Pflanzenfam. 3 (3) : 57 (1894); WHITE, BJBB 46 : 272 (1976)
 
@@ -49,3 +51,4 @@ A small genus comprising only 2 species in tropical America, one endemic (C. cus
 
 - [[Scytopetalaceae]]
 - [[vol24]]
+- [[Lecythidaceae]] — where this taxon now belongs

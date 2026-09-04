@@ -3,16 +3,18 @@ type: species
 name: Poggea gurk
 genus: Poggea
 family: Flacourtiaceae
+modern_family: Achariaceae
 vol: 34
 pages: 38-39
 source: sources/Flacourtiaceae_vol34_paddle
 habit: "shrub"
-tags: [species, generated]
+tags: [species, generated, superseded-circumscription]
 ---
 # *Poggea gurk*
 
 **Genus**: [[Poggea]]
 **Family**: [[Flacourtiaceae]]
+**Modern family**: [[Achariaceae]] — *Flacourtiaceae* as circumscribed here is superseded; see [[Flacourtiaceae]]
 **Protologue**: EBJ 18 : 162, t. 7 (1893) ; WARB., in ENGL. & PRANTL, NPF 3 (6a) : 16 (1893) ; GILG, in ENGL., PWA 3 (2) : 563 (1921) ; BAMPS, FCBR, Spermat., Flacourt. 1 : 11 (1968) ; SLEUMER, EBJ 94 (3) : 296 (1974)
 
 ## Description
@@ -44,3 +46,4 @@ Genus of tropical western and central Africa comprising 3 species, 2 of which oc
 - [[Poggea]]
 - [[Flacourtiaceae]]
 - [[vol34]]
+- [[Achariaceae]] — where this taxon now belongs

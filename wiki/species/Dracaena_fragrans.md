@@ -4,16 +4,18 @@ name: Dracaena fragrans
 authority: (L.) Ker Gawl.
 genus: Dracaena
 family: Dracaenaceae
+modern_family: Asparagaceae subfam. Nolinoideae
 vol: 54
 pages: 61-61
 source: sources/Dracaenaceae_vol54_liteparse
 habit: "tree"
-tags: [species, generated]
+tags: [species, generated, superseded-circumscription]
 ---
 # *Dracaena fragrans* (L.) Ker Gawl.
 
 **Genus**: [[Dracaena]]
 **Family**: [[Dracaenaceae]]
+**Modern family**: [[Asparagaceae]] subfam. Nolinoideae — *Dracaenaceae* as circumscribed here is superseded; see [[Dracaenaceae]]
 **Protologue**: Bot. Mag. 27 : t. 1081 (1808)
 
 ## Description
@@ -33,3 +35,4 @@ Species very widespread in Africa, easily confused in the sterile state with you
 - [[Dracaena]]
 - [[Dracaenaceae]]
 - [[vol54]]
+- [[Asparagaceae]] — where this taxon now belongs

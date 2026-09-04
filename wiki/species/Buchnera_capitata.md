@@ -4,6 +4,7 @@ name: Buchnera capitata
 authority: Benth. Planche 32
 genus: Buchnera
 family: Scrophulariaceae
+modern_family: Orobanchaceae
 vol: 48
 pages: 109-111
 source: sources/Scrophulariaceae_vol48_liteparse
@@ -13,12 +14,13 @@ subdivisions:
   Gabon: [Estuaire, Moyen-Ogooué, Ngounié]
 habit: "herb"
 altitude_m: "25–130"
-tags: [species, generated]
+tags: [species, generated, superseded-circumscription]
 ---
 # *Buchnera capitata* Benth. Planche 32
 
 **Genus**: [[Buchnera]]
 **Family**: [[Scrophulariaceae]]
+**Modern family**: [[Orobanchaceae]] — *Scrophulariaceae* as circumscribed here is superseded; see [[Scrophulariaceae]]
 
 ## Description
 
@@ -47,3 +49,4 @@ marshes and humid savannas; in Gabon, at 25–130 m altitude, in East Africa, up
 - [[Buchnera]]
 - [[Scrophulariaceae]]
 - [[vol48]]
+- [[Orobanchaceae]] — where this taxon now belongs

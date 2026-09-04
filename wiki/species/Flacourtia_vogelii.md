@@ -4,6 +4,7 @@ name: Flacourtia vogelii
 authority: Hook. f.
 genus: Flacourtia
 family: Flacourtiaceae
+modern_family: Salicaceae
 vol: 34
 pages: 11-13
 source: sources/Flacourtiaceae_vol34_paddle
@@ -11,12 +12,13 @@ countries: [Cameroon, Democratic Republic of the Congo, Gabon, Ghana, Nigeria, S
 in_region: true
 habit: "tree"
 habitat: [swamp forest]
-tags: [species, generated]
+tags: [species, generated, superseded-circumscription]
 ---
 # *Flacourtia vogelii* Hook. f.
 
 **Genus**: [[Flacourtia]]
 **Family**: [[Flacourtiaceae]]
+**Modern family**: [[Salicaceae]] — *Flacourtiaceae* as circumscribed here is superseded; see [[Flacourtiaceae]]
 
 ## Description
 
@@ -55,3 +57,4 @@ Florence 72, Ipassa, 10 km S Makokou, env. 500 m alt., 23/3/1977, fr. (P). Wilks
 - [[Flacourtia]]
 - [[Flacourtiaceae]]
 - [[vol34]]
+- [[Salicaceae]] — where this taxon now belongs

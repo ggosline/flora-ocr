@@ -4,6 +4,7 @@ name: Torenia thouarsii
 authority: (Cham. & Schltdl.) Kuntze Planche 50, 54(M–N)
 genus: Torenia
 family: Scrophulariaceae
+modern_family: Linderniaceae
 vol: 48
 pages: 147-147
 source: sources/Scrophulariaceae_vol48_liteparse
@@ -13,12 +14,13 @@ subdivisions:
   Gabon: [Estuaire, Haut-Ogooué, Moyen-Ogooué, Ogooué-Ivindo, Ogooué-Lolo, Ogooué-Maritime, Woleu-Ntem]
 habit: "herb"
 altitude_m: "0–530"
-tags: [species, generated]
+tags: [species, generated, superseded-circumscription]
 ---
 # *Torenia thouarsii* (Cham. & Schltdl.) Kuntze Planche 50, 54(M–N)
 
 **Genus**: [[Torenia]]
 **Family**: [[Scrophulariaceae]]
+**Modern family**: [[Linderniaceae]] — *Scrophulariaceae* as circumscribed here is superseded; see [[Scrophulariaceae]]
 **Protologue**: Rev. gen. pl . 2 : 468 (1891)
 
 ## Description
@@ -48,3 +50,4 @@ frequented places, fields, Cyperus marshes, secondary ombrophilous forests; in G
 - [[Torenia]]
 - [[Scrophulariaceae]]
 - [[vol48]]
+- [[Linderniaceae]] — where this taxon now belongs

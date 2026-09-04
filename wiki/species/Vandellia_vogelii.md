@@ -4,6 +4,7 @@ name: Vandellia vogelii
 authority: (Skan) Eb.Fisch., Schäferh. & Kai Müll. Planche 53
 genus: Vandellia
 family: Scrophulariaceae
+modern_family: Linderniaceae
 vol: 48
 pages: 151-167
 source: sources/Scrophulariaceae_vol48_liteparse
@@ -13,12 +14,13 @@ subdivisions:
   Gabon: [Estuaire, Ogooué-Maritime, Woleu-Ntem]
 habit: "herb"
 altitude_m: "0–700"
-tags: [species, generated]
+tags: [species, generated, superseded-circumscription]
 ---
 # *Vandellia vogelii* (Skan) Eb.Fisch., Schäferh. & Kai Müll. Planche 53
 
 **Genus**: [[Vandellia]]
 **Family**: [[Scrophulariaceae]]
+**Modern family**: [[Linderniaceae]] — *Scrophulariaceae* as circumscribed here is superseded; see [[Scrophulariaceae]]
 **Protologue**: Willdenowi a 43 : 235 (2013)
 
 ## Synonyms
@@ -66,3 +68,4 @@ L. Alectra sessiliflora. (A, B, D–G: photo by J.-P. Vandeweghe; C, H–L: phot
 - [[Vandellia]]
 - [[Scrophulariaceae]]
 - [[vol48]]
+- [[Linderniaceae]] — where this taxon now belongs

@@ -3,15 +3,17 @@ type: genus
 name: Lobelia
 authority: L.
 family: Lobeliaceae
+modern_family: Campanulaceae subfam. Lobelioideae
 species_in_region: 1
 treatments:
   - vol: 40
     source: sources/Lobeliaceae_vol40_liteparse
-tags: [genus, generated]
+tags: [genus, generated, superseded-circumscription]
 ---
 # *Lobelia* L.
 
 **Family**: [[Lobeliaceae]]
+**Modern family**: [[Campanulaceae]] subfam. Lobelioideae — *Lobeliaceae* as circumscribed here is superseded; see [[Lobeliaceae]]
 **Authority**: L.
 **Protologue**: Sp. pl . 2 : 929 (1753)
 
@@ -53,3 +55,4 @@ Bibliography
 
 - [[Lobeliaceae]]
 - [[vol40]]
+- [[Campanulaceae]] — where this taxon now belongs

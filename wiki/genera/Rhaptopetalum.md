@@ -3,15 +3,17 @@ type: genus
 name: Rhaptopetalum
 authority: Oliver
 family: Scytopetalaceae
+modern_family: Lecythidaceae subfam. Scytopetaloideae
 species_in_region: 8
 treatments:
   - vol: 24
     source: sources/Scytopetalaceae_vol24_paddle
-tags: [genus, generated]
+tags: [genus, generated, superseded-circumscription]
 ---
 # *Rhaptopetalum* Oliver
 
 **Family**: [[Scytopetalaceae]]
+**Modern family**: [[Lecythidaceae]] subfam. Scytopetaloideae — *Scytopetalaceae* as circumscribed here is superseded; see [[Scytopetalaceae]]
 **Authority**: Oliver
 **Protologue**: Journ. Linn. Soc. 8 : 159 (1865); Benth. & Hook., Gen. Pl. 1 : 995 (1865); ENGL., Nat. Pflanzenfam., Nacht. I zu III, 6 : 244 (1897); V. TIERGH., Ann. Sc. Nat., ser. 9, 1 : 370 (1905); ENGL., Nat. Pflanzenfam., Nacht. III zu III, 6 : 218 (1908); Pflanzenw. Afr. 3 (2) : 473 (1921); LETOUZEY, Adansonia, ser. 2, 1 (1) : 123 (1961); GERMAIN, FCB 10 : 323 (1963); HUTCH., Gen. Fl. Plants 2 : 470 (1967)
 
@@ -60,3 +62,4 @@ This genus, essentially of Central Africa, is represented in Cameroon by 5 speci
 
 - [[Scytopetalaceae]]
 - [[vol24]]
+- [[Lecythidaceae]] — where this taxon now belongs

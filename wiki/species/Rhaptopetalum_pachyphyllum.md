@@ -4,6 +4,7 @@ name: Rhaptopetalum pachyphyllum
 authority: (Gürke) Engler
 genus: Rhaptopetalum
 family: Scytopetalaceae
+modern_family: Lecythidaceae subfam. Scytopetaloideae
 vol: 24
 pages: 178-180
 source: sources/Scytopetalaceae_vol24_paddle
@@ -11,12 +12,13 @@ countries: [Cameroon, Democratic Republic of the Congo, Equatorial Guinea, Gabon
 in_region: true
 habit: "shrub"
 habitat: [swamp forest]
-tags: [species, generated]
+tags: [species, generated, superseded-circumscription]
 ---
 # *Rhaptopetalum pachyphyllum* (Gürke) Engler
 
 **Genus**: [[Rhaptopetalum]]
 **Family**: [[Scytopetalaceae]]
+**Modern family**: [[Lecythidaceae]] subfam. Scytopetaloideae — *Scytopetalaceae* as circumscribed here is superseded; see [[Scytopetalaceae]]
 **Protologue**: Pflanzenw. Afr. 3 (2) : 475 (1921); LETOUZEY, Adansonia, ser. 2, 1 (2) : 125, tab. 3 (1961)
 
 ## Description
@@ -70,3 +72,4 @@ Le Testu 8979, Bindjima, 30 km S Oyem (fl., janv.); 9442, Acourenzork (Akoulazor
 - [[Rhaptopetalum]]
 - [[Scytopetalaceae]]
 - [[vol24]]
+- [[Lecythidaceae]] — where this taxon now belongs

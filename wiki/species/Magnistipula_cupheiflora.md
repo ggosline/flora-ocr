@@ -4,18 +4,20 @@ name: Magnistipula cupheiflora
 authority: Mildbraed
 genus: Magnistipula
 family: Scytopetalaceae
+modern_family: Lecythidaceae subfam. Scytopetaloideae
 vol: 24
 pages: 86-89
 source: sources/Chrysobalanaceae_vol24_paddle
 countries: [Cameroon, Cote d'Ivoire, Gabon, Sierra Leone]
 in_region: true
 habit: "shrub"
-tags: [species, generated]
+tags: [species, generated, superseded-circumscription]
 ---
 # *Magnistipula cupheiflora* Mildbraed
 
 **Genus**: [[Magnistipula]]
 **Family**: [[Scytopetalaceae]]
+**Modern family**: [[Lecythidaceae]] subfam. Scytopetaloideae — *Scytopetalaceae* as circumscribed here is superseded; see [[Scytopetalaceae]]
 **Protologue**: Not. Bot. Gart. Mus. Berlin 8 : 57 (1921); WHITE, BJBB 46 : 289 (1976)
 
 ## Synonyms
@@ -59,3 +61,4 @@ Bernard & Durand 1371 SRF, Ndjolé (fl., juill.). Le Testu 5472, Guidouma, 50 km
 - [[Magnistipula]]
 - [[Scytopetalaceae]]
 - [[vol24]]
+- [[Lecythidaceae]] — where this taxon now belongs

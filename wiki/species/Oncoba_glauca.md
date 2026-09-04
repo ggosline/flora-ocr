@@ -4,16 +4,18 @@ name: Oncoba glauca
 authority: (P. Beauv.) Planch.
 genus: Oncoba
 family: Flacourtiaceae
+modern_family: Salicaceae
 vol: 34
 pages: 47-49
 source: sources/Flacourtiaceae_vol34_paddle
 countries_incomplete: true
-tags: [species, generated]
+tags: [species, generated, superseded-circumscription]
 ---
 # *Oncoba glauca* (P. Beauv.) Planch.
 
 **Genus**: [[Oncoba]]
 **Family**: [[Flacourtiaceae]]
+**Modern family**: [[Salicaceae]] — *Flacourtiaceae* as circumscribed here is superseded; see [[Flacourtiaceae]]
 
 ## Description
 
@@ -118,3 +120,4 @@ Wieringa 341, Tchimbélé, 0°37'N-10°24'E, 2/1/1990, fr. (WAG).
 - [[Oncoba]]
 - [[Flacourtiaceae]]
 - [[vol34]]
+- [[Salicaceae]] — where this taxon now belongs

@@ -4,6 +4,7 @@ name: Dracaena wakaensis
 authority: Damen & Quiroz Planche 21, Figure 5(C)
 genus: Dracaena
 family: Dracaenaceae
+modern_family: Asparagaceae subfam. Nolinoideae
 vol: 54
 pages: 57-59
 source: sources/Dracaenaceae_vol54_liteparse
@@ -14,12 +15,13 @@ subdivisions:
 habit: "shrub"
 habitat: [secondary forest]
 altitude_m: "700–950"
-tags: [species, generated]
+tags: [species, generated, superseded-circumscription]
 ---
 # *Dracaena wakaensis* Damen & Quiroz Planche 21, Figure 5(C)
 
 **Genus**: [[Dracaena]]
 **Family**: [[Dracaenaceae]]
+**Modern family**: [[Asparagaceae]] subfam. Nolinoideae — *Dracaenaceae* as circumscribed here is superseded; see [[Dracaenaceae]]
 **Protologue**: Blumea 63 : 46 (2018)
 
 ## Description
@@ -53,3 +55,4 @@ endo (babongo). B : Damen et al. (2018), Quiroz & Andel (2015). i B liographie
 - [[Dracaena]]
 - [[Dracaenaceae]]
 - [[vol54]]
+- [[Asparagaceae]] — where this taxon now belongs

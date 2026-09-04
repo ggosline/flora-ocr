@@ -4,6 +4,7 @@ name: Limnophila barteri
 authority: Skan Planche 34
 genus: Limnophila
 family: Scrophulariaceae
+modern_family: Plantaginaceae
 vol: 48
 pages: 115-117
 source: sources/Scrophulariaceae_vol48_liteparse
@@ -13,12 +14,13 @@ subdivisions:
   Gabon: [Ogooué-Ivindo]
 habit: "herb"
 altitude_m: "100"
-tags: [species, generated]
+tags: [species, generated, superseded-circumscription]
 ---
 # *Limnophila barteri* Skan Planche 34
 
 **Genus**: [[Limnophila]]
 **Family**: [[Scrophulariaceae]]
+**Modern family**: [[Plantaginaceae]] — *Scrophulariaceae* as circumscribed here is superseded; see [[Scrophulariaceae]]
 
 ## Description
 
@@ -49,3 +51,4 @@ marshes and small pools; in Gabon, at 100 m elevation, in East Africa, up to 100
 - [[Limnophila]]
 - [[Scrophulariaceae]]
 - [[vol48]]
+- [[Plantaginaceae]] — where this taxon now belongs

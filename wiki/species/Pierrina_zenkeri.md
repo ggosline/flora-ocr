@@ -4,18 +4,20 @@ name: Pierrina zenkeri
 authority: Engler
 genus: Pierrina
 family: Scytopetalaceae
+modern_family: Lecythidaceae subfam. Scytopetaloideae
 vol: 24
 pages: 164-167
 source: sources/Scytopetalaceae_vol24_paddle
 countries: [Cameroon]
 in_region: true
 habit: "shrub"
-tags: [species, generated]
+tags: [species, generated, superseded-circumscription]
 ---
 # *Pierrina zenkeri* Engler
 
 **Genus**: [[Pierrina]]
 **Family**: [[Scytopetalaceae]]
+**Modern family**: [[Lecythidaceae]] subfam. Scytopetaloideae — *Scytopetalaceae* as circumscribed here is superseded; see [[Scytopetalaceae]]
 **Protologue**: Bot. Jahrb. 43 : 376, tab. I, fig. A-P (1909); Pflanzenw. Afr. 1 (2) : tab. 602, fig. A-P (1910); 3 (2) : 473, tab. 219, fig. A-P (1921); LETOUZEY, Adansonia, ser. 2, 1 (1) : 138 (1961)
 
 ## Description
@@ -77,3 +79,4 @@ Zenker FvK 110, Bipindi (fr.) (LD, WAG); 1119 (voir ci-dessus syntypes), 3737, N
 - [[Pierrina]]
 - [[Scytopetalaceae]]
 - [[vol24]]
+- [[Lecythidaceae]] — where this taxon now belongs

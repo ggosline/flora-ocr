@@ -4,6 +4,7 @@ name: Licania elaeosperma
 authority: (Mildbraed) Prance & F. White
 genus: Licania
 family: Scytopetalaceae
+modern_family: Lecythidaceae subfam. Scytopetaloideae
 vol: 24
 pages: 70-73
 source: sources/Chrysobalanaceae_vol24_paddle
@@ -11,12 +12,13 @@ countries: [Cameroon, Gabon, Sierra Leone]
 in_region: true
 habit: "tree"
 habitat: [mangrove, riverine, coastal]
-tags: [species, generated]
+tags: [species, generated, superseded-circumscription]
 ---
 # *Licania elaeosperma* (Mildbraed) Prance & F. White
 
 **Genus**: [[Licania]]
 **Family**: [[Scytopetalaceae]]
+**Modern family**: [[Lecythidaceae]] subfam. Scytopetaloideae — *Scytopetalaceae* as circumscribed here is superseded; see [[Scytopetalaceae]]
 **Protologue**: BJBB 46:280 (1976)
 
 ## Synonyms
@@ -86,3 +88,4 @@ Pomeroy 217, R. Okana, 15 km E Mitzic (fl., août).
 - [[Licania]]
 - [[Scytopetalaceae]]
 - [[vol24]]
+- [[Lecythidaceae]] — where this taxon now belongs

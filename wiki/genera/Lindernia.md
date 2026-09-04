@@ -3,15 +3,17 @@ type: genus
 name: Lindernia
 authority: All.
 family: Scrophulariaceae
+modern_family: Linderniaceae
 species_in_region: 2
 treatments:
   - vol: 48
     source: sources/Scrophulariaceae_vol48_liteparse
-tags: [genus, generated]
+tags: [genus, generated, superseded-circumscription]
 ---
 # *Lindernia* All.
 
 **Family**: [[Scrophulariaceae]]
+**Modern family**: [[Linderniaceae]] — *Scrophulariaceae* as circumscribed here is superseded; see [[Scrophulariaceae]]
 **Authority**: All.
 **Protologue**: Mélanges Philos. Math. Soc. Roy. Turin 3 : 178, fig. 5 (1766)
 
@@ -53,3 +55,4 @@ Bibliography: Fischer (1992, 1999), Fischer et al. (2013), Lewis (2000), Philcox
 
 - [[Scrophulariaceae]]
 - [[vol48]]
+- [[Linderniaceae]] — where this taxon now belongs

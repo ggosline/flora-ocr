@@ -4,6 +4,7 @@ name: Cycnium adonense
 authority: E.Mey. ex Benth. subsp. camporum (Engl.) O.Hansen
 genus: Cycnium
 family: Scrophulariaceae
+modern_family: Orobanchaceae
 vol: 48
 pages: 113-115
 source: sources/Scrophulariaceae_vol48_liteparse
@@ -13,12 +14,13 @@ subdivisions:
   Gabon: [Haut-Ogooué, Ngounié, Nyanga, Ogooué-Ivindo]
 habit: "herb"
 altitude_m: "2500"
-tags: [species, generated]
+tags: [species, generated, superseded-circumscription]
 ---
 # *Cycnium adonense* E.Mey. ex Benth. subsp. camporum (Engl.) O.Hansen
 
 **Genus**: [[Cycnium]]
 **Family**: [[Scrophulariaceae]]
+**Modern family**: [[Orobanchaceae]] — *Scrophulariaceae* as circumscribed here is superseded; see [[Scrophulariaceae]]
 **Protologue**: Dansk Bot. Ark. 32 : 53 (1978)
 
 ## Description
@@ -50,3 +52,4 @@ savannas; in Gabon, 100–600 m, in East Africa, up to 2500 m. Taxonomic note: C
 - [[Cycnium]]
 - [[Scrophulariaceae]]
 - [[vol48]]
+- [[Orobanchaceae]] — where this taxon now belongs

@@ -4,6 +4,7 @@ name: Dracaena perrottetii
 authority: Baker Planche 17, Figure 4(B, C)
 genus: Dracaena
 family: Dracaenaceae
+modern_family: Asparagaceae subfam. Nolinoideae
 vol: 54
 pages: 49-49
 source: sources/Dracaenaceae_vol54_liteparse
@@ -12,12 +13,13 @@ in_region: true
 habit: "tree"
 habitat: [savanna]
 altitude_m: "0–1600"
-tags: [species, generated]
+tags: [species, generated, superseded-circumscription]
 ---
 # *Dracaena perrottetii* Baker Planche 17, Figure 4(B, C)
 
 **Genus**: [[Dracaena]]
 **Family**: [[Dracaenaceae]]
+**Modern family**: [[Asparagaceae]] subfam. Nolinoideae — *Dracaenaceae* as circumscribed here is superseded; see [[Dracaenaceae]]
 **Protologue**: J. Bot. 12 : 165 (1874)
 
 ## Synonyms
@@ -59,3 +61,4 @@ See notes under D. mannii. B: van der Burg (2006, under D. mannii), Damen et al.
 - [[Dracaena]]
 - [[Dracaenaceae]]
 - [[vol54]]
+- [[Asparagaceae]] — where this taxon now belongs

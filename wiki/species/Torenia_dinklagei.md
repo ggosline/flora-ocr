@@ -4,6 +4,7 @@ name: Torenia dinklagei
 authority: Engl. Planche 47, 55(C–D)
 genus: Torenia
 family: Scrophulariaceae
+modern_family: Linderniaceae
 vol: 48
 pages: 141-141
 source: sources/Scrophulariaceae_vol48_liteparse
@@ -14,12 +15,13 @@ subdivisions:
 habit: "herb"
 habitat: [secondary forest, evergreen forest]
 altitude_m: "400–500"
-tags: [species, generated]
+tags: [species, generated, superseded-circumscription]
 ---
 # *Torenia dinklagei* Engl. Planche 47, 55(C–D)
 
 **Genus**: [[Torenia]]
 **Family**: [[Scrophulariaceae]]
+**Modern family**: [[Linderniaceae]] — *Scrophulariaceae* as circumscribed here is superseded; see [[Scrophulariaceae]]
 **Protologue**: Bot. Jahrb. Syst. 57 : 610 (1922)
 
 ## Description
@@ -53,3 +55,4 @@ secondarized places, edges of roads and forest paths in rainforest, granitic ins
 - [[Torenia]]
 - [[Scrophulariaceae]]
 - [[vol48]]
+- [[Linderniaceae]] — where this taxon now belongs

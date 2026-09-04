@@ -4,18 +4,20 @@ name: Homalium fulviflorum
 authority: Sleumer
 genus: Homalium
 family: Flacourtiaceae
+modern_family: Salicaceae
 vol: 34
 pages: 78-79
 source: sources/Flacourtiaceae_vol34_paddle
 countries: [Gabon, Nigeria]
 in_region: true
 habit: "tree"
-tags: [species, generated]
+tags: [species, generated, superseded-circumscription]
 ---
 # *Homalium fulviflorum* Sleumer
 
 **Genus**: [[Homalium]]
 **Family**: [[Flacourtiaceae]]
+**Modern family**: [[Salicaceae]] — *Flacourtiaceae* as circumscribed here is superseded; see [[Flacourtiaceae]]
 **Protologue**: BJBB 43 : 309 (1973). TYPE : Thomson 40, Gabon (holo-, iso-)
 
 ## Description
@@ -51,3 +53,4 @@ Thomson 40, Billagone, 20/2/1939, fl. et fr. (isotype, P).
 - [[Homalium]]
 - [[Flacourtiaceae]]
 - [[vol34]]
+- [[Salicaceae]] — where this taxon now belongs

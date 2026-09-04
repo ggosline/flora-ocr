@@ -3,15 +3,17 @@ type: genus
 name: Bombax
 authority: Linné
 family: Bombacaceae
+modern_family: Malvaceae subfam. Bombacoideae
 species_in_region: 1
 treatments:
   - vol: 22
     source: sources/Bombacaceae_vol22_paddle
-tags: [genus, generated]
+tags: [genus, generated, superseded-circumscription]
 ---
 # *Bombax* Linné
 
 **Family**: [[Bombacaceae]]
+**Modern family**: [[Malvaceae]] subfam. Bombacoideae — *Bombacaceae* as circumscribed here is superseded; see [[Bombacaceae]]
 **Authority**: Linné
 **Protologue**: Sp. Pl. : 511 (1753)
 
@@ -53,3 +55,4 @@ This genus contains 8 Asian or African species; only one is present in Gabon.
 
 - [[Bombacaceae]]
 - [[vol22]]
+- [[Malvaceae]] — where this taxon now belongs

@@ -4,15 +4,17 @@ name: Magnistipula butayei
 authority: De Wildeman
 genus: Magnistipula
 family: Scytopetalaceae
+modern_family: Lecythidaceae subfam. Scytopetaloideae
 vol: 24
 pages: 76-81
 source: sources/Chrysobalanaceae_vol24_paddle
-tags: [species, generated]
+tags: [species, generated, superseded-circumscription]
 ---
 # *Magnistipula butayei* De Wildeman
 
 **Genus**: [[Magnistipula]]
 **Family**: [[Scytopetalaceae]]
+**Modern family**: [[Lecythidaceae]] subfam. Scytopetaloideae — *Scytopetalaceae* as circumscribed here is superseded; see [[Scytopetalaceae]]
 **Protologue**: Ann. Mus. Congo Bot. ser. 5, 2, Fl. Bas et Moyen Congo : 255 (1908). Nota : ENGLER (Pflanzenw. Afr. 3 (1) : 308, 1915) et CHEVALIER (Bull. Mus. Nat. Hist. Nat. Paris, ser. 2, 3 : 194, 1931) ont omis de citer cette espèce pour le genre Magnistipula
 
 ## Description
@@ -36,3 +38,4 @@ Under this name, and the synonymous one of Hirtella butayei (De Wild.) Brenan, T
 - [[Magnistipula]]
 - [[Scytopetalaceae]]
 - [[vol24]]
+- [[Lecythidaceae]] — where this taxon now belongs

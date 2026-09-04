@@ -4,6 +4,7 @@ name: Rhamphicarpa fistulosa
 authority: (Hochst.) Benth. Planche 40
 genus: Rhamphicarpa
 family: Scrophulariaceae
+modern_family: Orobanchaceae
 vol: 48
 pages: 127-127
 source: sources/Scrophulariaceae_vol48_liteparse
@@ -13,12 +14,13 @@ subdivisions:
   Gabon: [Estuaire, Moyen-Ogooué, Nyanga, Ogooué-Maritime]
 habit: "herb"
 altitude_m: "2–10"
-tags: [species, generated]
+tags: [species, generated, superseded-circumscription]
 ---
 # *Rhamphicarpa fistulosa* (Hochst.) Benth. Planche 40
 
 **Genus**: [[Rhamphicarpa]]
 **Family**: [[Scrophulariaceae]]
+**Modern family**: [[Orobanchaceae]] — *Scrophulariaceae* as circumscribed here is superseded; see [[Scrophulariaceae]]
 **Protologue**: Macrosiphon fistulosus Hochst., Flora 1 : 374 (1841)
 
 ## Description
@@ -48,3 +50,4 @@ marshes on granitic rocks, margins of lakes and rivers; in Gabon, at 2–10 m al
 - [[Rhamphicarpa]]
 - [[Scrophulariaceae]]
 - [[vol48]]
+- [[Orobanchaceae]] — where this taxon now belongs

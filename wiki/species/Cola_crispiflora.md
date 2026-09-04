@@ -4,16 +4,18 @@ name: Cola crispiflora
 authority: K. Schumann.
 genus: Cola
 family: Sterculiaceae
+modern_family: Malvaceae s.l.
 vol: 02
 pages: 98-101
 source: sources/Sterculiaceae_vol02_paddle
 habit: "tree"
-tags: [species, generated]
+tags: [species, generated, superseded-circumscription]
 ---
 # *Cola crispiflora* K. Schumann.
 
 **Genus**: [[Cola]]
 **Family**: [[Sterculiaceae]]
+**Modern family**: [[Malvaceae]] s.l. — *Sterculiaceae* as circumscribed here is superseded; see [[Sterculiaceae]]
 **Protologue**: K. Schum., Bot. Jahrb. 15 : 136 (1893), rét. orig., et Sterc. Afr. : 122 t. 14 A a-d (1900)
 
 ## Synonyms
@@ -66,3 +68,4 @@ Aubréville : 58, Kango (fl. août). Durand : 1563, station de l'Ikoy (fl. août
 - [[Cola]]
 - [[Sterculiaceae]]
 - [[vol02]]
+- [[Malvaceae]] — where this taxon now belongs

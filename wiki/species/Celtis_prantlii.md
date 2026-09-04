@@ -4,6 +4,7 @@ name: Celtis prantlii
 authority: Priemer ex Engl.
 genus: Celtis
 family: Ulmaceae
+modern_family: Cannabaceae
 vol: 58
 pages: 126-127
 source: sources/Ulmaceae_vol58_liteparse
@@ -13,12 +14,13 @@ subdivisions:
   Gabon: [Nyanga]
 habit: "tree"
 altitude_m: "75–200"
-tags: [species, generated]
+tags: [species, generated, superseded-circumscription]
 ---
 # *Celtis prantlii* Priemer ex Engl.
 
 **Genus**: [[Celtis]]
 **Family**: [[Ulmaceae]]
+**Modern family**: [[Cannabaceae]] — *Ulmaceae* as circumscribed here is superseded; see [[Ulmaceae]]
 **Protologue**: Notizbl. Königl. Bot. Gart. Berlin 3 : 23 (1902)
 
 ## Description
@@ -50,3 +52,4 @@ Hutchinson et al. (1958), Sattarian (2006)
 - [[Celtis]]
 - [[Ulmaceae]]
 - [[vol58]]
+- [[Cannabaceae]] — where this taxon now belongs

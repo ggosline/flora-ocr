@@ -4,18 +4,20 @@ name: Rhaptopetalum sessilifolium
 authority: Engler
 genus: Rhaptopetalum
 family: Scytopetalaceae
+modern_family: Lecythidaceae subfam. Scytopetaloideae
 vol: 24
 pages: 184-186
 source: sources/Scytopetalaceae_vol24_paddle
 countries: [Cameroon]
 in_region: true
 habit: "tree"
-tags: [species, generated]
+tags: [species, generated, superseded-circumscription]
 ---
 # *Rhaptopetalum sessilifolium* Engler
 
 **Genus**: [[Rhaptopetalum]]
 **Family**: [[Scytopetalaceae]]
+**Modern family**: [[Lecythidaceae]] subfam. Scytopetaloideae — *Scytopetalaceae* as circumscribed here is superseded; see [[Scytopetalaceae]]
 **Protologue**: Bot. Jahrb. 32 : 101 (1902); V. TIEGH., Ann. Sc. Nat., ser. 9, 1 : 373 (1905); Thonner, Blütenpfl. Afr. : tab. 96 (1908); Engl., Pflanzenw. Afr. 3 (2) : 473 (1921); Letouzey, Adansonia, ser. 2, 1 (2) : 126 (1961)
 
 ## Description
@@ -61,3 +63,4 @@ Zenker FvK 70, Mbiave près Bipindi (fl.) (B, WAG); FvK 427, Mimfia près Bipind
 - [[Rhaptopetalum]]
 - [[Scytopetalaceae]]
 - [[vol24]]
+- [[Lecythidaceae]] — where this taxon now belongs

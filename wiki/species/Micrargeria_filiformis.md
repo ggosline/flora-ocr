@@ -4,6 +4,7 @@ name: Micrargeria filiformis
 authority: (Schum. & Thonn.) Hutch. & Dalziel Planche 39
 genus: Micrargeria
 family: Scrophulariaceae
+modern_family: Orobanchaceae
 vol: 48
 pages: 125-125
 source: sources/Scrophulariaceae_vol48_liteparse
@@ -14,12 +15,13 @@ subdivisions:
 habit: "herb"
 habitat: [rocky ground]
 altitude_m: "100–300"
-tags: [species, generated]
+tags: [species, generated, superseded-circumscription]
 ---
 # *Micrargeria filiformis* (Schum. & Thonn.) Hutch. & Dalziel Planche 39
 
 **Genus**: [[Micrargeria]]
 **Family**: [[Scrophulariaceae]]
+**Modern family**: [[Orobanchaceae]] — *Scrophulariaceae* as circumscribed here is superseded; see [[Scrophulariaceae]]
 **Protologue**: Flora W. trop. Afr. 2 : 223 (1931)
 
 ## Description
@@ -49,3 +51,4 @@ marshes and grasslands, wet rocky savannas; in Gabon, at 100–300 m altitude, i
 - [[Micrargeria]]
 - [[Scrophulariaceae]]
 - [[vol48]]
+- [[Orobanchaceae]] — where this taxon now belongs

@@ -3,15 +3,17 @@ type: genus
 name: Limnophila
 authority: R.Br., nom. cons.
 family: Scrophulariaceae
+modern_family: Plantaginaceae
 species_in_region: 3
 treatments:
   - vol: 48
     source: sources/Scrophulariaceae_vol48_liteparse
-tags: [genus, generated]
+tags: [genus, generated, superseded-circumscription]
 ---
 # *Limnophila* R.Br., nom. cons.
 
 **Family**: [[Scrophulariaceae]]
+**Modern family**: [[Plantaginaceae]] — *Scrophulariaceae* as circumscribed here is superseded; see [[Scrophulariaceae]]
 **Authority**: R.Br., nom. cons.
 **Protologue**: Prodr. : 442 (1810)
 
@@ -54,3 +56,4 @@ Bibliography
 
 - [[Scrophulariaceae]]
 - [[vol48]]
+- [[Plantaginaceae]] — where this taxon now belongs

@@ -4,18 +4,20 @@ name: Buchnerodendron speciosum
 authority: Gürk
 genus: Buchnerodendron
 family: Flacourtiaceae
+modern_family: Achariaceae
 vol: 34
 pages: 42-43
 source: sources/Flacourtiaceae_vol34_paddle
 countries: [Angola, Cameroon, Central African Republic, Democratic Republic of the Congo, Gabon]
 in_region: true
 habit: "tree"
-tags: [species, generated]
+tags: [species, generated, superseded-circumscription]
 ---
 # *Buchnerodendron speciosum* Gürk
 
 **Genus**: [[Buchnerodendron]]
 **Family**: [[Flacourtiaceae]]
+**Modern family**: [[Achariaceae]] — *Flacourtiaceae* as circumscribed here is superseded; see [[Flacourtiaceae]]
 **Protologue**: EBJ 18 : 161, t. 6 (1893) ; WARB., in ENGL. & PRANTL, NPF 3 (6a) : 20 (1893) ; SLEUMER, EBJ 94 (3) : 291 (1974). TYPES : Mechow 562, Angola (lecto-)
 
 ## Description
@@ -63,3 +65,4 @@ Le Testu 1663, Mayombe bayaka, 1910-1912, j. fr. (P).
 - [[Buchnerodendron]]
 - [[Flacourtiaceae]]
 - [[vol34]]
+- [[Achariaceae]] — where this taxon now belongs

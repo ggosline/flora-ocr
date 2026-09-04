@@ -4,18 +4,20 @@ name: Casearia barteri
 authority: Mast.
 genus: Casearia
 family: Flacourtiaceae
+modern_family: Salicaceae
 vol: 34
 pages: 23-26
 source: sources/Flacourtiaceae_vol34_paddle
 countries: [Angola, Cameroon, Central African Republic, Cote d'Ivoire, Democratic Republic of the Congo, Equatorial Guinea, Gabon, Ghana, Liberia, Nigeria, Sao Tome and Principe, Sierra Leone, Sudan]
 in_region: true
 habitat: [swamp forest]
-tags: [species, generated]
+tags: [species, generated, superseded-circumscription]
 ---
 # *Casearia barteri* Mast.
 
 **Genus**: [[Casearia]]
 **Family**: [[Flacourtiaceae]]
+**Modern family**: [[Salicaceae]] — *Flacourtiaceae* as circumscribed here is superseded; see [[Flacourtiaceae]]
 
 ## Description
 
@@ -56,3 +58,4 @@ Aubréville 89, 6/9/1945, bout. fl. et fr. (P). Chevalier (leg. Fleury) 26432, l
 - [[Casearia]]
 - [[Flacourtiaceae]]
 - [[vol34]]
+- [[Salicaceae]] — where this taxon now belongs

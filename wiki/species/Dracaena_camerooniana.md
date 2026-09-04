@@ -4,6 +4,7 @@ name: Dracaena camerooniana
 authority: Baker Planche 8
 genus: Dracaena
 family: Dracaenaceae
+modern_family: Asparagaceae subfam. Nolinoideae
 vol: 54
 pages: 27-29
 source: sources/Dracaenaceae_vol54_liteparse
@@ -11,12 +12,13 @@ countries: [Angola, Burundi, Cameroon, Central African Republic, Cote d'Ivoire, 
 in_region: true
 habit: "tree"
 altitude_m: "0–1020"
-tags: [species, generated]
+tags: [species, generated, superseded-circumscription]
 ---
 # *Dracaena camerooniana* Baker Planche 8
 
 **Genus**: [[Dracaena]]
 **Family**: [[Dracaenaceae]]
+**Modern family**: [[Asparagaceae]] subfam. Nolinoideae — *Dracaenaceae* as circumscribed here is superseded; see [[Dracaenaceae]]
 **Protologue**: J. Bot. 12 : 166 (1874)
 
 ## Description
@@ -54,3 +56,4 @@ A species with variable leaves with short and long pseudopetioles even on the sa
 - [[Dracaena]]
 - [[Dracaenaceae]]
 - [[vol54]]
+- [[Asparagaceae]] — where this taxon now belongs

@@ -4,6 +4,7 @@ name: Mammea africana
 authority: Sabine Planche 9
 genus: Mammea
 family: Clusiaceae
+modern_family: Calophyllaceae
 vol: 45
 pages: 41-43
 source: sources/Clusiaceae_vol45_liteparse
@@ -12,12 +13,13 @@ in_region: true
 habit: "tree"
 habitat: [swamp forest, riverine]
 altitude_m: "650"
-tags: [species, generated]
+tags: [species, generated, superseded-circumscription]
 ---
 # *Mammea africana* Sabine Planche 9
 
 **Genus**: [[Mammea]]
 **Family**: [[Clusiaceae]]
+**Modern family**: [[Calophyllaceae]] — *Clusiaceae* as circumscribed here is superseded; see [[Clusiaceae]]
 **Protologue**: Trans. Hort. Soc. 5 : 457 (1824)
 
 ## Synonyms
@@ -64,3 +66,4 @@ The wood is valued for construction and joinery. It is suitable for railway slee
 - [[Mammea]]
 - [[Clusiaceae]]
 - [[vol45]]
+- [[Calophyllaceae]] — where this taxon now belongs

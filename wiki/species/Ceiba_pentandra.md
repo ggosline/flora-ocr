@@ -4,16 +4,18 @@ name: Ceiba pentandra
 authority: (Linné) Gaertner
 genus: Ceiba
 family: Bombacaceae
+modern_family: Malvaceae subfam. Bombacoideae
 vol: 22
 pages: 38-43
 source: sources/Bombacaceae_vol22_paddle
 habitat: [primary forest]
-tags: [species, generated]
+tags: [species, generated, superseded-circumscription]
 ---
 # *Ceiba pentandra* (Linné) Gaertner
 
 **Genus**: [[Ceiba]]
 **Family**: [[Bombacaceae]]
+**Modern family**: [[Malvaceae]] subfam. Bombacoideae — *Bombacaceae* as circumscribed here is superseded; see [[Bombacaceae]]
 **Protologue**: Fruct. Sem. : 244, tab. 133, 1 (1791); BAKHUIZEN, Bull. Jard. Bot. Buitenz., ser. 3, 6 : 194 (1924); IRVINE, Pl. Gold Coast : 92 (1930); Woody Pl. Ghana : 190-193 (1961); EXELL & MENDONÇA, Consp. Fl. Angol. 1 : 145 (1937); AUBRÉVILLE, FFCI, ed. 2, 2 : 264-268, tab. 227 (1959); KEAY, FWTA, ed. 2, 1 : 335 (1958); WALKER & SILLANS, Pl. Ut. Gabon : 106 (1961); WHITE, FFNR : 243 (1962); A. ROBYNS, Fl. Congo 10 : 203 (1963); Ann. Miss. Bot. Gard. 51 : 48 (1964); SAINT-AUBIN, For. Gabon : 141 (1963)
 
 ## Description
@@ -141,3 +143,4 @@ BOMBACACE
 - [[Ceiba]]
 - [[Bombacaceae]]
 - [[vol22]]
+- [[Malvaceae]] — where this taxon now belongs

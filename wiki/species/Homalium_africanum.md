@@ -4,17 +4,19 @@ name: Homalium africanum
 authority: (Hook. f.) Benth.
 genus: Homalium
 family: Flacourtiaceae
+modern_family: Salicaceae
 vol: 34
 pages: 70-73
 source: sources/Flacourtiaceae_vol34_paddle
 countries_incomplete: true
 habitat: [swamp forest]
-tags: [species, generated]
+tags: [species, generated, superseded-circumscription]
 ---
 # *Homalium africanum* (Hook. f.) Benth.
 
 **Genus**: [[Homalium]]
 **Family**: [[Flacourtiaceae]]
+**Modern family**: [[Salicaceae]] — *Flacourtiaceae* as circumscribed here is superseded; see [[Flacourtiaceae]]
 **Protologue**: J. Linn. Soc., Bot. 4 : 35 (1859) ; MAST., in OLIV., FTA 2 : 497 (1871) p. p. ; WARB., in ENGL. & PRANTL, NPF 3 (6a) : 36 (1893) ; SLEUMER, BJBB 43 : 281 (1973) ; (avec la collab. de BAMPS), FCBR, Flacourt. 2 : 16 (1976)
 
 ## Description
@@ -110,3 +112,4 @@ Walker s. n., St Martin, bord des fleuves, sept. 1938, fl. (P).
 - [[Homalium]]
 - [[Flacourtiaceae]]
 - [[vol34]]
+- [[Salicaceae]] — where this taxon now belongs

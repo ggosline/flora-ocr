@@ -4,17 +4,19 @@ name: Oubanguia laurifolia
 authority: (Pierre ex De Wildeman) Van Tieghem
 genus: Oubanguia
 family: Scytopetalaceae
+modern_family: Lecythidaceae subfam. Scytopetaloideae
 vol: 24
 pages: 161-163
 source: sources/Scytopetalaceae_vol24_paddle
 countries: [Cameroon, Gabon, Nigeria]
 in_region: true
-tags: [species, generated]
+tags: [species, generated, superseded-circumscription]
 ---
 # *Oubanguia laurifolia* (Pierre ex De Wildeman) Van Tieghem
 
 **Genus**: [[Oubanguia]]
 **Family**: [[Scytopetalaceae]]
+**Modern family**: [[Lecythidaceae]] subfam. Scytopetaloideae — *Scytopetalaceae* as circumscribed here is superseded; see [[Scytopetalaceae]]
 **Protologue**: Ann. Sc. Nat., ser. 9, 1 : 327 (avr. 1905); Engl., Nat. Pflanzenfam., Nacht. III zu III, 6 : 218 (1908); A. Chev., Vég. Ut. Afr. Trop. Fr. 9, For. Bois Gabon : 84 (1917); Engl., Pflanzenw. Afr. 3 (2) : 471 (1921); Pellegrin, Fl. Mayombe 1 : 61 (1924); Hutch., Fam. Flow. Pl., ed. 1, 1 : tab. 127 (1926); Keay, FWTA, ed. 2, 1 (2) : 300 (1958); Hutch., Fam. Flow. Pl., ed. 2, 1 : tab. 115 (1959); Keay, Onochie & Stanfield, Niger. Trees 1 : 188 (1961); Letouzey, Adansonia, ser. 2, 1 (1) : 114 (1961); Walker & Sillans, Pl. ut. Gabon : 398, tab. 51 (1961)
 
 ## Description
@@ -98,3 +100,4 @@ Le Testu 2144, riv. Younou, Ndougou près Ocounza, 25 km NNE Mouila (fl., oct.) 
 - [[Oubanguia]]
 - [[Scytopetalaceae]]
 - [[vol24]]
+- [[Lecythidaceae]] — where this taxon now belongs

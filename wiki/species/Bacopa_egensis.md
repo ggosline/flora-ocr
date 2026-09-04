@@ -4,6 +4,7 @@ name: Bacopa egensis
 authority: (Poepp. & Endl.) Pennell Planche 31
 genus: Bacopa
 family: Scrophulariaceae
+modern_family: Plantaginaceae
 vol: 48
 pages: 105-106
 source: sources/Scrophulariaceae_vol48_liteparse
@@ -13,12 +14,13 @@ subdivisions:
   Gabon: [Moyen-Ogooué]
 habit: "herb"
 altitude_m: "50"
-tags: [species, generated]
+tags: [species, generated, superseded-circumscription]
 ---
 # *Bacopa egensis* (Poepp. & Endl.) Pennell Planche 31
 
 **Genus**: [[Bacopa]]
 **Family**: [[Scrophulariaceae]]
+**Modern family**: [[Plantaginaceae]] — *Scrophulariaceae* as circumscribed here is superseded; see [[Scrophulariaceae]]
 **Protologue**: Proc. Acad. Nat. Sci. Philad . 98 : 96 (1946)
 
 ## Synonyms
@@ -52,3 +54,4 @@ humid places, pools, ponds, lakes and rivers; in Gabon, at 50 m altitude, elsewh
 - [[Bacopa]]
 - [[Scrophulariaceae]]
 - [[vol48]]
+- [[Plantaginaceae]] — where this taxon now belongs

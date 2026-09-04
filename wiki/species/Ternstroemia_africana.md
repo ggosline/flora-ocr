@@ -4,6 +4,7 @@ name: Ternstroemia africana
 authority: Melch. Planche 14
 genus: Ternstroemia
 family: Ternstroemiaceae
+modern_family: Pentaphylacaceae
 vol: 41
 pages: 64-65
 source: sources/Ternstroemiaceae_vol41_liteparse
@@ -14,12 +15,13 @@ subdivisions:
 habit: "tree"
 habitat: [mangrove, savanna]
 altitude_m: "50"
-tags: [species, generated]
+tags: [species, generated, superseded-circumscription]
 ---
 # *Ternstroemia africana* Melch. Planche 14
 
 **Genus**: [[Ternstroemia]]
 **Family**: [[Ternstroemiaceae]]
+**Modern family**: [[Pentaphylacaceae]] — *Ternstroemiaceae* as circumscribed here is superseded; see [[Ternstroemiaceae]]
 **Protologue**: Notizbl. Bot. Gart. Berlin 8 : 659 (1924)
 
 ## Description
@@ -55,3 +57,4 @@ in mangrove forest, forest-savanna edge, but also in savanna, on sandy soil; up 
 - [[Ternstroemia]]
 - [[Ternstroemiaceae]]
 - [[vol41]]
+- [[Pentaphylacaceae]] — where this taxon now belongs

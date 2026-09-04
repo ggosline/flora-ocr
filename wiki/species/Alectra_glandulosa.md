@@ -4,6 +4,7 @@ name: Alectra glandulosa
 authority: Philcox Planche 56(A–B)
 genus: Alectra
 family: Scrophulariaceae
+modern_family: Orobanchaceae
 vol: 48
 pages: 100-100
 source: sources/Scrophulariaceae_vol48_liteparse
@@ -13,12 +14,13 @@ subdivisions:
   Gabon: [Ngounié, Ogooué-Maritime]
 habit: "herb"
 altitude_m: "1700"
-tags: [species, generated]
+tags: [species, generated, superseded-circumscription]
 ---
 # *Alectra glandulosa* Philcox Planche 56(A–B)
 
 **Genus**: [[Alectra]]
 **Family**: [[Scrophulariaceae]]
+**Modern family**: [[Orobanchaceae]] — *Scrophulariaceae* as circumscribed here is superseded; see [[Scrophulariaceae]]
 **Protologue**: Bol. Soc. Brot., sér. 2, 60 : 269 (1987)
 
 ## Description
@@ -48,3 +50,4 @@ swampy savannas; in Gabon, at low altitude, in East Africa up to 1700 m. B: Miel
 - [[Alectra]]
 - [[Scrophulariaceae]]
 - [[vol48]]
+- [[Orobanchaceae]] — where this taxon now belongs

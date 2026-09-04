@@ -4,6 +4,7 @@ name: Dracaena acaulis
 authority: Baker Planche 1, Figure 1(A)
 genus: Dracaena
 family: Dracaenaceae
+modern_family: Asparagaceae subfam. Nolinoideae
 vol: 54
 pages: 15-15
 source: sources/Dracaenaceae_vol54_liteparse
@@ -12,12 +13,13 @@ in_region: true
 subdivisions:
   Gabon: [Estuaire, Ngounié, Woleu-Ntem]
 altitude_m: "0–950"
-tags: [species, generated]
+tags: [species, generated, superseded-circumscription]
 ---
 # *Dracaena acaulis* Baker Planche 1, Figure 1(A)
 
 **Genus**: [[Dracaena]]
 **Family**: [[Dracaenaceae]]
+**Modern family**: [[Asparagaceae]] subfam. Nolinoideae — *Dracaenaceae* as circumscribed here is superseded; see [[Dracaenaceae]]
 **Protologue**: Trans. Linn. Soc. London, Bot. 1 : 252 (1878)
 
 ## Description
@@ -51,3 +53,4 @@ Margins of primary and secondary forests in semi-shade; in Gabon as elsewhere at
 - [[Dracaena]]
 - [[Dracaenaceae]]
 - [[vol54]]
+- [[Asparagaceae]] — where this taxon now belongs

@@ -2,14 +2,16 @@
 type: genus
 name: Rhodognaphalon
 family: Bombacaceae
+modern_family: Malvaceae subfam. Bombacoideae
 species_in_region: 2
 treatments:
   - vol: 22
-tags: [genus, generated, stub]
+tags: [genus, generated, stub, superseded-circumscription]
 ---
 # *Rhodognaphalon*
 
 **Family**: [[Bombacaceae]]
+**Modern family**: [[Malvaceae]] subfam. Bombacoideae — *Bombacaceae* as circumscribed here is superseded; see [[Bombacaceae]]
 
 ## Diagnosis
 
@@ -30,3 +32,4 @@ tags: [genus, generated, stub]
 
 - [[Bombacaceae]]
 - [[vol22]]
+- [[Malvaceae]] — where this taxon now belongs

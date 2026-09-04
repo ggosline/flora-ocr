@@ -4,16 +4,18 @@ name: Cola glaucoviridis
 authority: Pellegrin.
 genus: Cola
 family: Sterculiaceae
+modern_family: Malvaceae s.l.
 vol: 02
 pages: 101-103
 source: sources/Sterculiaceae_vol02_paddle
 habit: "shrub"
-tags: [species, generated]
+tags: [species, generated, superseded-circumscription]
 ---
 # *Cola glaucoviridis* Pellegrin.
 
 **Genus**: [[Cola]]
 **Family**: [[Sterculiaceae]]
+**Modern family**: [[Malvaceae]] s.l. — *Sterculiaceae* as circumscribed here is superseded; see [[Sterculiaceae]]
 **Protologue**: PELLEGR., Bull. S. B. Fr. 97 : 202 (1950), réf. orig. et Sterc. Gab., Mém. S. B. Fr. : 41 (1950-1951)
 
 ## Description
@@ -39,3 +41,4 @@ The following species is very peculiar in its fruit and seed. Better knowledge o
 - [[Cola]]
 - [[Sterculiaceae]]
 - [[vol02]]
+- [[Malvaceae]] — where this taxon now belongs

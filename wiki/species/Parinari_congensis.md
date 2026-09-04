@@ -4,6 +4,7 @@ name: Parinari congensis
 authority: F. Didrichsen
 genus: Parinari
 family: Scytopetalaceae
+modern_family: Lecythidaceae subfam. Scytopetaloideae
 vol: 24
 pages: 126-128
 source: sources/Chrysobalanaceae_vol24_paddle
@@ -11,12 +12,13 @@ countries: [Cameroon, Central African Republic, Democratic Republic of the Congo
 in_region: true
 habit: "tree"
 habitat: [savanna]
-tags: [species, generated]
+tags: [species, generated, superseded-circumscription]
 ---
 # *Parinari congensis* F. Didrichsen
 
 **Genus**: [[Parinari]]
 **Family**: [[Scytopetalaceae]]
+**Modern family**: [[Lecythidaceae]] subfam. Scytopetaloideae — *Scytopetalaceae* as circumscribed here is superseded; see [[Scytopetalaceae]]
 **Protologue**: Vidensk. Medd. Naturhist. For. Kjøbenhavn : 197 (1854); HAUM., FCB 3 : 62, tab. 3 (1952); KEAY, FWTA, ed. 2, 1 (2) : 429 (1958); TISSERANT & SILLANS, Not. Syst. 15 (2) : 211 (1960); KEAY, ONOCHIE & STANFIELD, Nig. Trees 1 : 318 (1960); IRVINE, Woody Pl. Ghana : 263 (1961); BOUQUET, Féticheurs et médecines traditionnelles au Congo-Brazzaville : 204 (1969); MENDES, Consp. Fl. Angol. 4 : 11 (1970); ADAM, Mém. Mus. Nat. Hist. Nat. Paris, Fl. descr. Monts Nimba 2 : 536 (1971); WHITE, BJBB 46 : 321 (1976). (« S. » DIDR. : ENGL., Pflanzenw. Afr. 3 (1) : 303 (1915); « P. » DIDR. : AUBR., FFCI, ed. 2, 1 : 180, tab. 55 ; 1959)
 
 ## Description
@@ -70,3 +72,4 @@ Letouzey 12492, lac Ossa oriental, 8 km WNW Edéa (fl., déc.); 13173, rive de l
 - [[Parinari]]
 - [[Scytopetalaceae]]
 - [[vol24]]
+- [[Lecythidaceae]] — where this taxon now belongs

@@ -4,6 +4,7 @@ name: Limnophila indica
 authority: (L.) Druce Planche 36
 genus: Limnophila
 family: Scrophulariaceae
+modern_family: Plantaginaceae
 vol: 48
 pages: 119-119
 source: sources/Scrophulariaceae_vol48_liteparse
@@ -13,12 +14,13 @@ subdivisions:
   Gabon: [Nyanga]
 habit: "herb"
 altitude_m: "1250"
-tags: [species, generated]
+tags: [species, generated, superseded-circumscription]
 ---
 # *Limnophila indica* (L.) Druce Planche 36
 
 **Genus**: [[Limnophila]]
 **Family**: [[Scrophulariaceae]]
+**Modern family**: [[Plantaginaceae]] — *Scrophulariaceae* as circumscribed here is superseded; see [[Scrophulariaceae]]
 **Protologue**: Rep. Bot. Exch. Club Brit. Isles 3 : 420 (1914)
 
 ## Description
@@ -48,3 +50,4 @@ marshes and small ponds; in Gabon, at low altitude, in East Africa up to 1250 m.
 - [[Limnophila]]
 - [[Scrophulariaceae]]
 - [[vol48]]
+- [[Plantaginaceae]] — where this taxon now belongs

@@ -4,18 +4,20 @@ name: Maranthes sanagensis
 authority: F. White
 genus: Maranthes
 family: Scytopetalaceae
+modern_family: Lecythidaceae subfam. Scytopetaloideae
 vol: 24
 pages: 121-122
 source: sources/Chrysobalanaceae_vol24_paddle
 countries: [Cameroon]
 in_region: true
 habit: "tree"
-tags: [species, generated]
+tags: [species, generated, superseded-circumscription]
 ---
 # *Maranthes sanagensis* F. White
 
 **Genus**: [[Maranthes]]
 **Family**: [[Scytopetalaceae]]
+**Modern family**: [[Lecythidaceae]] subfam. Scytopetaloideae — *Scytopetalaceae* as circumscribed here is superseded; see [[Scytopetalaceae]]
 **Protologue**: Adansonia 16 (2) : 232, tab. 2 (1976); BJBB 46 : 307 (1976)
 
 ## Description
@@ -69,3 +71,4 @@ Raynal J. & A. 10531, rives de la Sanaga près Nachtigal, 60 km SE Bafia (fl., m
 - [[Maranthes]]
 - [[Scytopetalaceae]]
 - [[vol24]]
+- [[Lecythidaceae]] — where this taxon now belongs

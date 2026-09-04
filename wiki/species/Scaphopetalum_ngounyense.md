@@ -4,16 +4,18 @@ name: Scaphopetalum ngounyense
 authority: Pellegrin.
 genus: Scaphopetalum
 family: Sterculiaceae
+modern_family: Malvaceae s.l.
 vol: 02
 pages: 126-128
 source: sources/Sterculiaceae_vol02_paddle
 habit: "shrub"
-tags: [species, generated]
+tags: [species, generated, superseded-circumscription]
 ---
 # *Scaphopetalum ngounyense* Pellegrin.
 
 **Genus**: [[Scaphopetalum]]
 **Family**: [[Sterculiaceae]]
+**Modern family**: [[Malvaceae]] s.l. — *Sterculiaceae* as circumscribed here is superseded; see [[Sterculiaceae]]
 **Protologue**: PELLEGR. in Bull. Mus. Paris, 27 : 444 (1921), réf. orig. : Fl. Mayombe : 31 (1924), et Sterc. Gab. in Mém. S. B. Fr. : 47 (1950-1951)
 
 ## Description
@@ -37,3 +39,4 @@ Le Testu : 2138, 5508, pays Mitsogho, Haute-Ngounyé (fl. sept.-oct.).
 - [[Scaphopetalum]]
 - [[Sterculiaceae]]
 - [[vol02]]
+- [[Malvaceae]] — where this taxon now belongs

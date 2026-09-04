@@ -4,6 +4,7 @@ name: Lobelia gilletii
 authority: De Wild.
 genus: Lobelia
 family: Lobeliaceae
+modern_family: Campanulaceae subfam. Lobelioideae
 vol: 40
 pages: 46-47
 source: sources/Lobeliaceae_vol40_liteparse
@@ -13,12 +14,13 @@ subdivisions:
   Gabon: [Ogooué-Maritime]
 habit: "herb"
 altitude_m: "100–300"
-tags: [species, generated]
+tags: [species, generated, superseded-circumscription]
 ---
 # *Lobelia gilletii* De Wild.
 
 **Genus**: [[Lobelia]]
 **Family**: [[Lobeliaceae]]
+**Modern family**: [[Campanulaceae]] subfam. Lobelioideae — *Lobeliaceae* as circumscribed here is superseded; see [[Lobeliaceae]]
 **Protologue**: Ann. Mus. Congo , sér. 5, 1 : 85 (1904)
 
 ## Synonyms
@@ -54,3 +56,4 @@ humid forest; at 100–300 m altitude. Taxonomic note: In the Check-list of Vasc
 - [[Lobelia]]
 - [[Lobeliaceae]]
 - [[vol40]]
+- [[Campanulaceae]] — where this taxon now belongs

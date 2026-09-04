@@ -4,6 +4,7 @@ name: Lindernia parviflora
 authority: (Roxb.) Haines Planche 37
 genus: Lindernia
 family: Scrophulariaceae
+modern_family: Linderniaceae
 vol: 48
 pages: 121-123
 source: sources/Scrophulariaceae_vol48_liteparse
@@ -13,12 +14,13 @@ subdivisions:
   Gabon: [Ogooué-Ivindo]
 habit: "herb"
 altitude_m: "2000"
-tags: [species, generated]
+tags: [species, generated, superseded-circumscription]
 ---
 # *Lindernia parviflora* (Roxb.) Haines Planche 37
 
 **Genus**: [[Lindernia]]
 **Family**: [[Scrophulariaceae]]
+**Modern family**: [[Linderniaceae]] — *Scrophulariaceae* as circumscribed here is superseded; see [[Scrophulariaceae]]
 **Protologue**: Bot. Bihar & Orissa 4 : 635 (1922)
 
 ## Description
@@ -50,3 +52,4 @@ Abaxial staminodes. – G. Adaxial stamen. – H. Calyx. (A: Bullock 3628, B: Po
 - [[Lindernia]]
 - [[Scrophulariaceae]]
 - [[vol48]]
+- [[Linderniaceae]] — where this taxon now belongs

@@ -4,18 +4,20 @@ name: Magnistipula conrauana
 authority: Engler
 genus: Magnistipula
 family: Scytopetalaceae
+modern_family: Lecythidaceae subfam. Scytopetaloideae
 vol: 24
 pages: 81-84
 source: sources/Chrysobalanaceae_vol24_paddle
 countries: [Cameroon]
 in_region: true
 habit: "shrub"
-tags: [species, generated]
+tags: [species, generated, superseded-circumscription]
 ---
 # *Magnistipula conrauana* Engler
 
 **Genus**: [[Magnistipula]]
 **Family**: [[Scytopetalaceae]]
+**Modern family**: [[Lecythidaceae]] subfam. Scytopetaloideae — *Scytopetalaceae* as circumscribed here is superseded; see [[Scytopetalaceae]]
 **Protologue**: Bot. Jahrb. 36 : 226 (1905); Pflanzenw. Afr. 3 (1) : 308 (1915); HAUM., BJBB 21 : 174 (1951); WHITE, BJBB 46 : 289 (1976)
 
 ## Description
@@ -75,3 +77,4 @@ Rieth 1093 SRFCam, Bagnіou près Bangangté (fl., janv.).
 - [[Magnistipula]]
 - [[Scytopetalaceae]]
 - [[vol24]]
+- [[Lecythidaceae]] — where this taxon now belongs

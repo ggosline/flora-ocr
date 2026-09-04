@@ -4,16 +4,18 @@ name: Nesogordonia papaverifera
 authority: (A. Chev.) Capur.
 genus: Nesogordonia
 family: Sterculiaceae
+modern_family: Malvaceae s.l.
 vol: 02
 pages: 137-143
 source: sources/Sterculiaceae_vol02_paddle
 habit: "tree"
-tags: [species, generated]
+tags: [species, generated, superseded-circumscription]
 ---
 # *Nesogordonia papaverifera* (A. Chev.) Capur.
 
 **Genus**: [[Nesogordonia]]
 **Family**: [[Sterculiaceae]]
+**Modern family**: [[Malvaceae]] s.l. — *Sterculiaceae* as circumscribed here is superseded; see [[Sterculiaceae]]
 **Protologue**: A. Chev. Bull. S. B. Fr., Mém. VIII : 141 (1912), réf. orig
 
 ## Synonyms
@@ -97,3 +99,4 @@ Utilization. The wood, light red, with paler sapwood, is recommended for cabinet
 - [[Nesogordonia]]
 - [[Sterculiaceae]]
 - [[vol02]]
+- [[Malvaceae]] — where this taxon now belongs

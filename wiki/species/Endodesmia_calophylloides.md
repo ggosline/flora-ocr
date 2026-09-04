@@ -4,6 +4,7 @@ name: Endodesmia calophylloides
 authority: Benth. Planche 3
 genus: Endodesmia
 family: Clusiaceae
+modern_family: Calophyllaceae
 vol: 45
 pages: 17-19
 source: sources/Clusiaceae_vol45_liteparse
@@ -14,12 +15,13 @@ subdivisions:
 habit: "tree"
 habitat: [mangrove, secondary forest, riverine]
 altitude_m: "700"
-tags: [species, generated]
+tags: [species, generated, superseded-circumscription]
 ---
 # *Endodesmia calophylloides* Benth. Planche 3
 
 **Genus**: [[Endodesmia]]
 **Family**: [[Clusiaceae]]
+**Modern family**: [[Calophyllaceae]] — *Clusiaceae* as circumscribed here is superseded; see [[Clusiaceae]]
 
 ## Description
 
@@ -58,3 +60,4 @@ Regularly, the flowers show a monstrosity, probably caused by galls, and produce
 - [[Endodesmia]]
 - [[Clusiaceae]]
 - [[vol45]]
+- [[Calophyllaceae]] — where this taxon now belongs

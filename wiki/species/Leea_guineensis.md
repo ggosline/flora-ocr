@@ -4,16 +4,18 @@ name: Leea guineensis
 authority: G. Don
 genus: Leea
 family: Leeaceae
+modern_family: Vitaceae subfam. Leeoideae
 vol: 14
 pages: 118-122
 source: sources/Leeaceae_vol14_paddle
 habit: "shrub"
-tags: [species, generated]
+tags: [species, generated, superseded-circumscription]
 ---
 # *Leea guineensis* G. Don
 
 **Genus**: [[Leea]]
 **Family**: [[Leeaceae]]
+**Modern family**: [[Vitaceae]] subfam. Leeoideae — *Leeaceae* as circumscribed here is superseded; see [[Leeaceae]]
 **Protologue**: G. Don, Gen. Syst. Gard. Bot. 1:712 (1831)
 
 ## Synonyms
@@ -73,3 +75,4 @@ A. Walker : 10, Lamberné (fl. mars); s. nº., Saint-Martin (fl. et fr. sept., d
 - [[Leea]]
 - [[Leeaceae]]
 - [[vol14]]
+- [[Vitaceae]] — where this taxon now belongs

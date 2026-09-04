@@ -4,17 +4,19 @@ name: Poggea alata
 authority: Gürk
 genus: Poggea
 family: Flacourtiaceae
+modern_family: Achariaceae
 vol: 34
 pages: 39-41
 source: sources/Flacourtiaceae_vol34_paddle
 countries: [Angola, Cameroon, Democratic Republic of the Congo, Gabon, Guinea]
 in_region: true
-tags: [species, generated]
+tags: [species, generated, superseded-circumscription]
 ---
 # *Poggea alata* Gürk
 
 **Genus**: [[Poggea]]
 **Family**: [[Flacourtiaceae]]
+**Modern family**: [[Achariaceae]] — *Flacourtiaceae* as circumscribed here is superseded; see [[Flacourtiaceae]]
 **Protologue**: EBJ 18 : 162, t. 7 (1893) ; WARB., in ENGL. & PRANTL, NPF 3 (6a) : 16 (1893) ; GILG, in ENGL. & PRANTL, NPF 21 : 399 (1925) ; SLEUMER, EBJ 94 (3) : 298 (1974). TYPES : Pogge 609, Zaïre (lecto-) ; Pogge 1096 et 1648, Zaïre (syn-)
 
 ## Description
@@ -66,3 +68,4 @@ Soyaux 100, Sibang, Mondah, 21/7/1880, fr. (lectotype de P. stenura GILG, P).
 - [[Poggea]]
 - [[Flacourtiaceae]]
 - [[vol34]]
+- [[Achariaceae]] — where this taxon now belongs

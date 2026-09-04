@@ -4,6 +4,7 @@ name: Bacopa crenata
 authority: (P.Beauv.) Hepper Planche 30, 54(A)
 genus: Bacopa
 family: Scrophulariaceae
+modern_family: Plantaginaceae
 vol: 48
 pages: 105-105
 source: sources/Scrophulariaceae_vol48_liteparse
@@ -13,12 +14,13 @@ subdivisions:
   Gabon: [Estuaire, Nyanga, Ogooué-Ivindo, Ogooué-Maritime]
 habit: "herb"
 altitude_m: "0–520"
-tags: [species, generated]
+tags: [species, generated, superseded-circumscription]
 ---
 # *Bacopa crenata* (P.Beauv.) Hepper Planche 30, 54(A)
 
 **Genus**: [[Bacopa]]
 **Family**: [[Scrophulariaceae]]
+**Modern family**: [[Plantaginaceae]] — *Scrophulariaceae* as circumscribed here is superseded; see [[Scrophulariaceae]]
 **Protologue**: Kew Bull . 14 : 407 (1960)
 
 ## Synonyms
@@ -59,3 +61,4 @@ humid places, marshes, ponds, lakes and rivers; in Gabon, at 0–520 m altitude,
 - [[Bacopa]]
 - [[Scrophulariaceae]]
 - [[vol48]]
+- [[Plantaginaceae]] — where this taxon now belongs

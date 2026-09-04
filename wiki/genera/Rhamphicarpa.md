@@ -3,15 +3,17 @@ type: genus
 name: Rhamphicarpa
 authority: Benth.
 family: Scrophulariaceae
+modern_family: Orobanchaceae
 species_in_region: 1
 treatments:
   - vol: 48
     source: sources/Scrophulariaceae_vol48_liteparse
-tags: [genus, generated]
+tags: [genus, generated, superseded-circumscription]
 ---
 # *Rhamphicarpa* Benth.
 
 **Family**: [[Scrophulariaceae]]
+**Modern family**: [[Orobanchaceae]] — *Scrophulariaceae* as circumscribed here is superseded; see [[Scrophulariaceae]]
 **Authority**: Benth.
 
 ## Diagnosis
@@ -52,3 +54,4 @@ Stamens. – E. Fruit with calyx (A–E : Fischer s.n. ). Drawing by E. Fischer 
 
 - [[Scrophulariaceae]]
 - [[vol48]]
+- [[Orobanchaceae]] — where this taxon now belongs

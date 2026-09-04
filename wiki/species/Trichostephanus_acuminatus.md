@@ -4,18 +4,20 @@ name: Trichostephanus acuminatus
 authority: Gilg
 genus: Trichostephanus
 family: Flacourtiaceae
+modern_family: Achariaceae
 vol: 34
 pages: 16-17
 source: sources/Flacourtiaceae_vol34_paddle
 countries: [Cameroon, Gabon]
 in_region: true
 habit: "shrub"
-tags: [species, generated]
+tags: [species, generated, superseded-circumscription]
 ---
 # *Trichostephanus acuminatus* Gilg
 
 **Genus**: [[Trichostephanus]]
 **Family**: [[Flacourtiaceae]]
+**Modern family**: [[Achariaceae]] — *Flacourtiaceae* as circumscribed here is superseded; see [[Flacourtiaceae]]
 **Protologue**: EBJ 40 : 478 (1908) ; in ENGL., PWA 3 (2) : 574 (1921) ; HALLÉ & DE WILDE, Adansonia, sér. 2, 18 (2) : 167 (1978) ; BRETELER, BJBB 60 : 146, in clavi (1990). TYPE : Zenker 1764, Cameroun (lecto- et isolecto-)
 
 ## Description
@@ -63,3 +65,4 @@ Le Testu 7679, Lastoursville, reçu le 18/4/1932, bout. fl. (P) ; 8466, l. c., R
 - [[Trichostephanus]]
 - [[Flacourtiaceae]]
 - [[vol34]]
+- [[Achariaceae]] — where this taxon now belongs

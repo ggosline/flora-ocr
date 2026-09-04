@@ -3,15 +3,17 @@ type: genus
 name: Sopubia
 authority: Buch.-Ham. ex D.Don
 family: Scrophulariaceae
+modern_family: Orobanchaceae
 species_in_region: 1
 treatments:
   - vol: 48
     source: sources/Scrophulariaceae_vol48_liteparse
-tags: [genus, generated]
+tags: [genus, generated, superseded-circumscription]
 ---
 # *Sopubia* Buch.-Ham. ex D.Don
 
 **Family**: [[Scrophulariaceae]]
+**Modern family**: [[Orobanchaceae]] — *Scrophulariaceae* as circumscribed here is superseded; see [[Scrophulariaceae]]
 **Authority**: Buch.-Ham. ex D.Don
 **Protologue**: Prodr. fl. nepal . : 88 (1825)
 
@@ -49,3 +51,4 @@ ibliography
 
 - [[Scrophulariaceae]]
 - [[vol48]]
+- [[Orobanchaceae]] — where this taxon now belongs

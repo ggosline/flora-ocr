@@ -4,6 +4,7 @@ name: Parinari curatellifolia
 authority: Planchon ex Bentham
 genus: Parinari
 family: Scytopetalaceae
+modern_family: Lecythidaceae subfam. Scytopetaloideae
 vol: 24
 pages: 128-132
 source: sources/Chrysobalanaceae_vol24_paddle
@@ -11,12 +12,13 @@ countries: [Cameroon, Democratic Republic of the Congo, Madagascar, Senegal, Sud
 in_region: true
 habit: "tree"
 habitat: [coastal]
-tags: [species, generated]
+tags: [species, generated, superseded-circumscription]
 ---
 # *Parinari curatellifolia* Planchon ex Bentham
 
 **Genus**: [[Parinari]]
 **Family**: [[Scytopetalaceae]]
+**Modern family**: [[Lecythidaceae]] subfam. Scytopetaloideae — *Scytopetalaceae* as circumscribed here is superseded; see [[Scytopetalaceae]]
 
 ## Description
 
@@ -85,3 +87,4 @@ naude, naudehi (fulfuldé); nahudé (peuhl)
 - [[Parinari]]
 - [[Scytopetalaceae]]
 - [[vol24]]
+- [[Lecythidaceae]] — where this taxon now belongs

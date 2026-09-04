@@ -4,6 +4,7 @@ name: Dracaena arborea
 authority: (Willd.) Link Planche 3
 genus: Dracaena
 family: Dracaenaceae
+modern_family: Asparagaceae subfam. Nolinoideae
 vol: 54
 pages: 19-21
 source: sources/Dracaenaceae_vol54_liteparse
@@ -13,12 +14,13 @@ subdivisions:
   Gabon: [Estuaire, Moyen-Ogooué, Nyanga, Ogooué-Ivindo, Ogooué-Maritime, Woleu-Ntem]
 habit: "tree"
 altitude_m: "0–600"
-tags: [species, generated]
+tags: [species, generated, superseded-circumscription]
 ---
 # *Dracaena arborea* (Willd.) Link Planche 3
 
 **Genus**: [[Dracaena]]
 **Family**: [[Dracaenaceae]]
+**Modern family**: [[Asparagaceae]] subfam. Nolinoideae — *Dracaenaceae* as circumscribed here is superseded; see [[Dracaenaceae]]
 **Protologue**: Enum. hort. berol. alt. 1 : 341 (1821)
 
 ## Synonyms
@@ -64,3 +66,4 @@ The leaves of young specimens resemble those of D. fragrans. B: Baker (1898), Bo
 - [[Dracaena]]
 - [[Dracaenaceae]]
 - [[vol54]]
+- [[Asparagaceae]] — where this taxon now belongs

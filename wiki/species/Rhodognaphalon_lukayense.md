@@ -4,18 +4,20 @@ name: Rhodognaphalon lukayense
 authority: (De Wildeman & Th. Durand) A. Robyns
 genus: Rhodognaphalon
 family: Bombacaceae
+modern_family: Malvaceae subfam. Bombacoideae
 vol: 22
 pages: 46-48
 source: sources/Bombacaceae_vol22_paddle
 countries: [Democratic Republic of the Congo, Gabon]
 in_region: true
 habit: "tree"
-tags: [species, generated]
+tags: [species, generated, superseded-circumscription]
 ---
 # *Rhodognaphalon lukayense* (De Wildeman & Th. Durand) A. Robyns
 
 **Genus**: [[Rhodognaphalon]]
 **Family**: [[Bombacaceae]]
+**Modern family**: [[Malvaceae]] subfam. Bombacoideae — *Bombacaceae* as circumscribed here is superseded; see [[Bombacaceae]]
 **Protologue**: Bull. Jard. Bot. Etat. Bruxelles 33 : 268, tab. 9 et fig. 13 (1963); Fl. Congo 10 : 200, tab. 5 (1964)
 
 ## Synonyms
@@ -62,3 +64,4 @@ Chevalier 26984, plantation Stéphane, sur la Bokoué (fr., oct.).
 - [[Rhodognaphalon]]
 - [[Bombacaceae]]
 - [[vol22]]
+- [[Malvaceae]] — where this taxon now belongs

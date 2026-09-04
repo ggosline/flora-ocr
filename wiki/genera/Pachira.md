@@ -3,15 +3,17 @@ type: genus
 name: Pachira
 authority: Aublet
 family: Bombacaceae
+modern_family: Malvaceae subfam. Bombacoideae
 species_in_region: 3
 treatments:
   - vol: 22
     source: sources/Bombacaceae_vol22_paddle
-tags: [genus, generated]
+tags: [genus, generated, superseded-circumscription]
 ---
 # *Pachira* Aublet
 
 **Family**: [[Bombacaceae]]
+**Modern family**: [[Malvaceae]] subfam. Bombacoideae — *Bombacaceae* as circumscribed here is superseded; see [[Bombacaceae]]
 **Authority**: Aublet
 **Protologue**: Pl. Guiane Fr. 2:725, tab. 291, 292 (1775)
 
@@ -72,3 +74,4 @@ This essentially Neotropical genus is represented in Africa by introduced specie
 
 - [[Bombacaceae]]
 - [[vol22]]
+- [[Malvaceae]] — where this taxon now belongs

@@ -4,18 +4,20 @@ name: Acioa bellayana
 authority: Baillon
 genus: Acioa
 family: Scytopetalaceae
+modern_family: Lecythidaceae subfam. Scytopetaloideae
 vol: 24
 pages: 15-18
 source: sources/Chrysobalanaceae_vol24_paddle
 countries: [Angola, Cameroon, Cote d'Ivoire, Democratic Republic of the Congo, Gabon]
 in_region: true
 habit: "shrub"
-tags: [species, generated]
+tags: [species, generated, superseded-circumscription]
 ---
 # *Acioa bellayana* Baillon
 
 **Genus**: [[Acioa]]
 **Family**: [[Scytopetalaceae]]
+**Modern family**: [[Lecythidaceae]] subfam. Scytopetaloideae — *Scytopetalaceae* as circumscribed here is superseded; see [[Scytopetalaceae]]
 **Protologue**: Adansonia, ser. 1, 7 : 224 (1867); ENGL., Bot. Jahrb. 26 : 380 (1899); Pflanzenw. Afr. 3 (1) : 311 (1915); DE WILD., BJBB 7 : 199 (1920); HAUM., FCB 3 : 50 (1952)
 
 ## Description
@@ -75,3 +77,4 @@ Soyaux 123, Loango près Bango (fl., sept.) (photo exs. K in P).
 - [[Acioa]]
 - [[Scytopetalaceae]]
 - [[vol24]]
+- [[Lecythidaceae]] — where this taxon now belongs

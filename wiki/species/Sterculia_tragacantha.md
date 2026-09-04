@@ -4,18 +4,20 @@ name: Sterculia tragacantha
 authority: Lindley.
 genus: Sterculia
 family: Sterculiaceae
+modern_family: Malvaceae s.l.
 vol: 02
 pages: 15-17
 source: sources/Sterculiaceae_vol02_paddle
 countries: [Guinea]
 in_region: false
 habit: "tree"
-tags: [species, generated]
+tags: [species, generated, superseded-circumscription]
 ---
 # *Sterculia tragacantha* Lindley.
 
 **Genus**: [[Sterculia]]
 **Family**: [[Sterculiaceae]]
+**Modern family**: [[Malvaceae]] s.l. — *Sterculiaceae* as circumscribed here is superseded; see [[Sterculiaceae]]
 
 ## Synonyms
 
@@ -64,3 +66,4 @@ Uses. The bark is very fibrous; that of young branches can be used to make ties.
 - [[Sterculia]]
 - [[Sterculiaceae]]
 - [[vol02]]
+- [[Malvaceae]] — where this taxon now belongs
