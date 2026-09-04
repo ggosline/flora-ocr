@@ -1,26 +1,32 @@
 ---
 type: genus
 name: Phacelurus
+authority: Griseb.
 family: Gramineae
-species_in_region: 2
+species_in_region: 1
 treatments:
   - vol: 5bis
-tags: [genus, generated, stub]
+    source: sources/Gramineae_vol5bis_paddle
+tags: [genus, generated]
 ---
-# *Phacelurus*
+# *Phacelurus* Griseb.
 
 **Family**: [[Gramineae]]
+**Authority**: Griseb.
 
 ## Diagnosis
-
-*No genus description was segmented from the source. This page is built from the species treatments below.*
 
 ## Species in region
 
 | Species | Vol | Pages |
 |---------|-----|-------|
 | [[Phacelurus_gabonensis\|*P. gabonensis*]] | 5bis | 55–55 |
-| [[Phacelurus_griseb\|*P. griseb*]] | 5bis | 55–55 |
+
+## Treatments
+
+### Vol 5bis
+
+**Source**: `sources/Gramineae_vol5bis_paddle` · **Pages**: 55-55
 
 ## Notes
 

@@ -1,25 +1,34 @@
 ---
 type: genus
 name: Elymandra
+authority: Stapf
 family: Gramineae
-species_in_region: 1
+species_in_region: 0
 treatments:
   - vol: 5bis
-tags: [genus, generated, stub]
+    source: sources/Gramineae_vol5bis_paddle
+tags: [genus, generated]
 ---
-# *Elymandra*
+# *Elymandra* Stapf
 
 **Family**: [[Gramineae]]
+**Authority**: Stapf
 
 ## Diagnosis
 
-*No genus description was segmented from the source. This page is built from the species treatments below.*
+22.1 Elymandra gossweileri (Stapf) Clayton FWTA : 498 ; Poac. CI. : 614, 615 ; Gram. CB. : 315. – Pleiadelphia gossweileri Stapf – Fl. Gab. : 191. ADDITIONAL GABONESE MATERIAL STUDIED :
+
+van Nek 758, 23.03.1991, 2°44'S-10°01'E, Gamba-NW. ---
 
 ## Species in region
 
-| Species | Vol | Pages |
-|---------|-----|-------|
-| [[Elymandra_stapf\|*E. stapf*]] | 5bis | 28–29 |
+*No species blocks were segmented for this genus in the source.*
+
+## Treatments
+
+### Vol 5bis
+
+**Source**: `sources/Gramineae_vol5bis_paddle` · **Pages**: 28-31
 
 ## Notes
 
