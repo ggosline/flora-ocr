@@ -3,7 +3,7 @@ type: species
 name: Psilotum nudum
 authority: (L.) Grisebach
 genus: Psilotum
-family: Pteridophytes
+family: Salviniaceae
 vol: 08
 pages: 34-35
 source: sources/Salviniaceae_vol08_paddle
@@ -12,8 +12,7 @@ tags: [species, generated]
 # *Psilotum nudum* (L.) Grisebach
 
 **Genus**: [[Psilotum]]
-**Family**: [[Pteridophytes]]
-
+**Family**: [[Salviniaceae]]
 ## Synonyms
 
 - Lycopodium nudum L., Sp. pl., 2:1100 (1753).
@@ -54,5 +53,5 @@ Trois genres, dont un seul au Gabon.
 ## See also
 
 - [[Psilotum]]
-- [[Pteridophytes]]
+- [[Salviniaceae]]
 - [[vol08]]

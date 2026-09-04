@@ -3,7 +3,7 @@ type: species
 name: Acanthonema strigosum
 authority: Hooker f.
 genus: Acanthonema
-family: Bignoniaceae
+family: Gesneriaceae
 vol: 27
 pages: 14-17
 source: sources/Gesneriaceae_vol27_paddle
@@ -16,7 +16,7 @@ tags: [species, generated]
 # *Acanthonema strigosum* Hooker f.
 
 **Genus**: [[Acanthonema]]
-**Family**: [[Bignoniaceae]]
+**Family**: [[Gesneriaceae]]
 **Protologue**: Bot. Mag.: tab. 5339 (1862); CLARKE C.B., in DE CANDOLLE A. & C., Mon. Phan. 5 (1): 156 (1883); BAKER J.G. & CLARKE C.B., FTA 4 (2): 502 (1906); HUTCHINSON & DALZIEL, FWTA 2 (1): 237 (1931); BURTT, ed. 2, 2: 362 (1963); Fl. Cam. 27: 18, tab. 5 (1984)
 
 ## Description
@@ -56,5 +56,5 @@ Hallé N. 2219, 2381, 2427, Abanga, chantier CEFA (fl., juin).
 ## See also
 
 - [[Acanthonema]]
-- [[Bignoniaceae]]
+- [[Gesneriaceae]]
 - [[vol27]]

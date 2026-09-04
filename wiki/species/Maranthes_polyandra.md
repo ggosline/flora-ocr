@@ -3,7 +3,7 @@ type: species
 name: Maranthes polyandra
 authority: (Bentham) Prance
 genus: Maranthes
-family: Scytopetalaceae
+family: Chrysobalanaceae
 modern_family: Lecythidaceae subfam. Scytopetaloideae
 vol: 24
 pages: 118-121
@@ -16,7 +16,7 @@ tags: [species, generated, superseded-circumscription]
 # *Maranthes polyandra* (Bentham) Prance
 
 **Genus**: [[Maranthes]]
-**Family**: [[Scytopetalaceae]]
+**Family**: [[Chrysobalanaceae]]
 **Modern family**: [[Lecythidaceae]] subfam. Scytopetaloideae — *Scytopetalaceae* as circumscribed here is superseded; see [[Scytopetalaceae]]
 **Protologue**: Bol. Soc. Brot. ser. 2, 40 : 184 (1966), p.p., excl. subsp. floribunda (Bak.) Prance; WHITE, BJBB 46 : 304 (1976)
 
@@ -83,6 +83,6 @@ Letouzey 14056, Saka, 10 km NE Akwaya (fr., juill.).
 ## See also
 
 - [[Maranthes]]
-- [[Scytopetalaceae]]
+- [[Chrysobalanaceae]]
 - [[vol24]]
 - [[Lecythidaceae]] — where this taxon now belongs

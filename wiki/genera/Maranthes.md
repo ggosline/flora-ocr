@@ -2,7 +2,7 @@
 type: genus
 name: Maranthes
 authority: Blume
-family: Scytopetalaceae
+family: Chrysobalanaceae
 modern_family: Lecythidaceae subfam. Scytopetaloideae
 species_in_region: 8
 treatments:
@@ -12,7 +12,7 @@ tags: [genus, generated, superseded-circumscription]
 ---
 # *Maranthes* Blume
 
-**Family**: [[Scytopetalaceae]]
+**Family**: [[Chrysobalanaceae]]
 **Modern family**: [[Lecythidaceae]] subfam. Scytopetaloideae — *Scytopetalaceae* as circumscribed here is superseded; see [[Scytopetalaceae]]
 **Authority**: Blume
 **Protologue**: Bijdr. Fl. Nederl. Ind. 1 : 89 (1825); Kostermans, Candollea 20 : 106 (1965); Prance, Bol. Soc. Brot. ser. 2, 40 : 183 (1966); Brittonia 20 : 203 (1968); Fl. Neotr. 9 : 201, tab. 33 (1972); Mendes, Consp. Fl. Angol. 4 : 14 (1971); WHITE, BJBB 46 : 294 (1976)
@@ -73,6 +73,6 @@ Genus based on the sole tropical Asian and Oceanian species (M. corymbosa Bl.). 
 
 ## See also
 
-- [[Scytopetalaceae]]
+- [[Chrysobalanaceae]]
 - [[vol24]]
 - [[Lecythidaceae]] — where this taxon now belongs

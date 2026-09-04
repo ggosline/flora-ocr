@@ -3,7 +3,7 @@ type: species
 name: Acioa chevalieri
 authority: De Wildeman
 genus: Acioa
-family: Scytopetalaceae
+family: Chrysobalanaceae
 modern_family: Lecythidaceae subfam. Scytopetaloideae
 vol: 24
 pages: 21-24
@@ -17,7 +17,7 @@ tags: [species, generated, superseded-circumscription]
 # *Acioa chevalieri* De Wildeman
 
 **Genus**: [[Acioa]]
-**Family**: [[Scytopetalaceae]]
+**Family**: [[Chrysobalanaceae]]
 **Modern family**: [[Lecythidaceae]] subfam. Scytopetaloideae — *Scytopetalaceae* as circumscribed here is superseded; see [[Scytopetalaceae]]
 **Protologue**: BJBB 7:213 (1920)
 
@@ -64,6 +64,6 @@ Dybowsky 118, lac Awounga (Avanga? 50 km WSW Lambaréné) (fl., fr., août). Fle
 ## See also
 
 - [[Acioa]]
-- [[Scytopetalaceae]]
+- [[Chrysobalanaceae]]
 - [[vol24]]
 - [[Lecythidaceae]] — where this taxon now belongs

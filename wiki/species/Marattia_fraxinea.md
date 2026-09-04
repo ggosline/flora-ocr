@@ -3,7 +3,7 @@ type: species
 name: Marattia fraxinea
 authority: J. Smith
 genus: Marattia
-family: Pteridophytes
+family: Salviniaceae
 vol: 08
 pages: 38-45
 source: sources/Salviniaceae_vol08_paddle
@@ -14,8 +14,7 @@ tags: [species, generated]
 # *Marattia fraxinea* J. Smith
 
 **Genus**: [[Marattia]]
-**Family**: [[Pteridophytes]]
-
+**Family**: [[Salviniaceae]]
 ## Description
 
 — J. Sm., Ic. Pl.: t. 48 (1790). — C. Chr. Ind.: 414 (1906). — Tard., Mém. IFAN 28: 25 (1953). — Alston, FWTA: 19 (1959).
@@ -144,5 +143,5 @@ Un seul genre.
 ## See also
 
 - [[Marattia]]
-- [[Pteridophytes]]
+- [[Salviniaceae]]
 - [[vol08]]

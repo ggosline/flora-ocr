@@ -3,7 +3,7 @@ type: species
 name: Selaginella molliceps
 authority: Spring (P.L. III)
 genus: Selaginella
-family: Pteridophytes
+family: Salviniaceae
 vol: 08
 pages: 30-32
 source: sources/Salviniaceae_vol08_paddle
@@ -12,8 +12,7 @@ tags: [species, generated]
 # *Selaginella molliceps* Spring (P.L. III)
 
 **Genus**: [[Selaginella]]
-**Family**: [[Pteridophytes]]
-
+**Family**: [[Salviniaceae]]
 ## Synonyms
 
 - Selaginella rubricaulis Hort. Sun., Cat., nº 6 : 60 (1859).
@@ -57,5 +56,5 @@ Very primitive ferns, with limited geographical distribution, sole present repre
 ## See also
 
 - [[Selaginella]]
-- [[Pteridophytes]]
+- [[Salviniaceae]]
 - [[vol08]]

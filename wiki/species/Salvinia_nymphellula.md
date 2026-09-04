@@ -3,7 +3,7 @@ type: species
 name: Salvinia nymphellula
 authority: Desvaux (P.L. VII)
 genus: Salvinia
-family: Pteridophytes
+family: Salviniaceae
 vol: 08
 pages: 45-47
 source: sources/Salviniaceae_vol08_paddle
@@ -14,8 +14,7 @@ tags: [species, generated]
 # *Salvinia nymphellula* Desvaux (P.L. VII)
 
 **Genus**: [[Salvinia]]
-**Family**: [[Pteridophytes]]
-
+**Family**: [[Salviniaceae]]
 ## Synonyms
 
 - Salvinia nigropunctata A. Br. ex Kühn, Fil. Afr.: 20 (1868).
@@ -51,5 +50,5 @@ Lecomte : s.n., riv. Mbury, sur le Rhemba, Nkomi, Fernan-Vaz.
 ## See also
 
 - [[Salvinia]]
-- [[Pteridophytes]]
+- [[Salviniaceae]]
 - [[vol08]]

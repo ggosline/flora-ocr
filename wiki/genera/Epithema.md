@@ -2,7 +2,7 @@
 type: genus
 name: Epithema
 authority: Blume
-family: Bignoniaceae
+family: Gesneriaceae
 species_in_region: 1
 treatments:
   - vol: 27
@@ -11,7 +11,7 @@ tags: [genus, generated]
 ---
 # *Epithema* Blume
 
-**Family**: [[Bignoniaceae]]
+**Family**: [[Gesneriaceae]]
 **Authority**: Blume
 **Protologue**: Bijdr. Fl. Nederl. Ind. 14: 737 (1826); CLARKE C.B., in DE CANDOLLE A. & C., Mon. Phan. 5 (1): 179 (1832); WEBER, Plant. Syst. Evol. 126: 287-322 (1976); BURTT, Fl. Cam. 27: 5 (1984)
 
@@ -51,5 +51,5 @@ Epithema is a distinctly separate genus, both by its mode of growth (see notes a
 
 ## See also
 
-- [[Bignoniaceae]]
+- [[Gesneriaceae]]
 - [[vol27]]

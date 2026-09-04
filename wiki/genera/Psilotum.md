@@ -2,7 +2,7 @@
 type: genus
 name: Psilotum
 authority: Swartz
-family: Pteridophytes
+family: Salviniaceae
 species_in_region: 1
 treatments:
   - vol: 08
@@ -11,7 +11,7 @@ tags: [genus, generated]
 ---
 # *Psilotum* Swartz
 
-**Family**: [[Pteridophytes]]
+**Family**: [[Salviniaceae]]
 **Authority**: Swartz
 
 ## Diagnosis
@@ -42,5 +42,5 @@ A single species in Africa.
 
 ## See also
 
-- [[Pteridophytes]]
+- [[Salviniaceae]]
 - [[vol08]]

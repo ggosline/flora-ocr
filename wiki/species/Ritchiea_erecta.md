@@ -3,19 +3,21 @@ type: species
 name: Ritchiea erecta
 authority: Vogel ex Hooker
 genus: Ritchiea
-family: Brassicaceae
+family: Capparidaceae
+modern_family: Capparaceae
 vol: 30
 pages: 56-61
 source: sources/Capparidaceae_vol30_paddle
 countries: [Cameroon, Equatorial Guinea, Gabon, Guinea, Nigeria]
 in_region: true
 habitat: [coastal, rocky ground]
-tags: [species, generated]
+tags: [species, generated, superseded-circumscription]
 ---
 # *Ritchiea erecta* Vogel ex Hooker
 
 **Genus**: [[Ritchiea]]
-**Family**: [[Brassicaceae]]
+**Family**: [[Capparidaceae]]
+**Modern family**: [[Capparaceae]] — *Capparidaceae* as circumscribed here is superseded; see [[Capparidaceae]]
 **Protologue**: Icon. Pl. 8 : tab. 769-770 (1848) ; Hook.f., Niger Fl. : 216, fig. 19-20 (1849) ; GILG, Bot. Jahrb. 33 : 206 (1903) ; GILG & BENEDICT, Bot. Jahrb. 53 : 181 (1915) ; HUTCH. & DALZ., Nat. Pflanzenfam., ed. 2, 17 b : 169 (1936) ; KEAY, FWTA, ed. 2, 1 (1) : 91 (1954) ; DE WOLF, Kirkia 1 : 98, p.p. (1961) ; KERS, FCAM 29 : 104 (1968)
 
 ## Description
@@ -79,5 +81,6 @@ Klaine 1167, environs de Libreville (st., ?), K, P. Mann 1736, Sierra del Crysta
 ## See also
 
 - [[Ritchiea]]
-- [[Brassicaceae]]
+- [[Capparidaceae]]
 - [[vol30]]
+- [[Capparaceae]] — where this taxon now belongs

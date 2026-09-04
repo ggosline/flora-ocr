@@ -3,7 +3,7 @@ type: species
 name: Acioa mannii
 authority: (Oliver) Engler
 genus: Acioa
-family: Scytopetalaceae
+family: Chrysobalanaceae
 modern_family: Lecythidaceae subfam. Scytopetaloideae
 vol: 24
 pages: 52-54
@@ -16,7 +16,7 @@ tags: [species, generated, superseded-circumscription]
 # *Acioa mannii* (Oliver) Engler
 
 **Genus**: [[Acioa]]
-**Family**: [[Scytopetalaceae]]
+**Family**: [[Chrysobalanaceae]]
 **Modern family**: [[Lecythidaceae]] subfam. Scytopetaloideae — *Scytopetalaceae* as circumscribed here is superseded; see [[Scytopetalaceae]]
 **Protologue**: Bot. Jahrb. 26 : 381 (1899); Pflanzenw. Afr. 3 (1) : 311 (1915); DE WILD., BJBB 7 : 210 (1920); KEAY, FWTA, ed. 2, 1 (2) : 433 (1958)
 
@@ -59,6 +59,6 @@ Babute 9, Bay Manya, 15 km SW Kumba (fl., févr.) (FHO). Maitland 467, près Bue
 ## See also
 
 - [[Acioa]]
-- [[Scytopetalaceae]]
+- [[Chrysobalanaceae]]
 - [[vol24]]
 - [[Lecythidaceae]] — where this taxon now belongs

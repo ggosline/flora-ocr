@@ -3,7 +3,7 @@ type: species
 name: Selaginella cathedrifolia
 authority: Spring
 genus: Selaginella
-family: Pteridophytes
+family: Salviniaceae
 vol: 08
 pages: 29-30
 source: sources/Salviniaceae_vol08_paddle
@@ -14,8 +14,7 @@ tags: [species, generated]
 # *Selaginella cathedrifolia* Spring
 
 **Genus**: [[Selaginella]]
-**Family**: [[Pteridophytes]]
-
+**Family**: [[Salviniaceae]]
 ## Synonyms
 
 - Selaginella Zenkeri Hier. ex Bon., Not. Pter. 7 : 253 (1918), nomen.
@@ -47,5 +46,5 @@ Chevalier : 2143, Libreville. Nicklès : 67, Lebango.
 ## See also
 
 - [[Selaginella]]
-- [[Pteridophytes]]
+- [[Salviniaceae]]
 - [[vol08]]

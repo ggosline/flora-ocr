@@ -2,7 +2,7 @@
 type: genus
 name: Trachystigma
 authority: C.B. Clarke
-family: Bignoniaceae
+family: Gesneriaceae
 species_in_region: 1
 treatments:
   - vol: 27
@@ -11,7 +11,7 @@ tags: [genus, generated]
 ---
 # *Trachystigma* C.B. Clarke
 
-**Family**: [[Bignoniaceae]]
+**Family**: [[Gesneriaceae]]
 **Authority**: C.B. Clarke
 
 ## Diagnosis
@@ -48,5 +48,5 @@ The genus is monospecific and endemic to Gabon. It has superficial resemblance t
 
 ## See also
 
-- [[Bignoniaceae]]
+- [[Gesneriaceae]]
 - [[vol27]]

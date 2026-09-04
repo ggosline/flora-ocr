@@ -3,7 +3,7 @@ type: species
 name: Parinari curatellifolia
 authority: Planchon ex Bentham
 genus: Parinari
-family: Scytopetalaceae
+family: Chrysobalanaceae
 modern_family: Lecythidaceae subfam. Scytopetaloideae
 vol: 24
 pages: 128-132
@@ -17,7 +17,7 @@ tags: [species, generated, superseded-circumscription]
 # *Parinari curatellifolia* Planchon ex Bentham
 
 **Genus**: [[Parinari]]
-**Family**: [[Scytopetalaceae]]
+**Family**: [[Chrysobalanaceae]]
 **Modern family**: [[Lecythidaceae]] subfam. Scytopetaloideae — *Scytopetalaceae* as circumscribed here is superseded; see [[Scytopetalaceae]]
 
 ## Description
@@ -85,6 +85,6 @@ naude, naudehi (fulfuldé); nahudé (peuhl)
 ## See also
 
 - [[Parinari]]
-- [[Scytopetalaceae]]
+- [[Chrysobalanaceae]]
 - [[vol24]]
 - [[Lecythidaceae]] — where this taxon now belongs

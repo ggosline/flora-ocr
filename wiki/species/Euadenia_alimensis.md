@@ -3,19 +3,21 @@ type: species
 name: Euadenia alimensis
 authority: Hua
 genus: Euadenia
-family: Brassicaceae
+family: Capparidaceae
+modern_family: Capparaceae
 vol: 30
 pages: 42-45
 source: sources/Capparidaceae_vol30_paddle
 countries: [Cameroon, Democratic Republic of the Congo, Gabon, Uganda]
 in_region: true
 habitat: [evergreen forest]
-tags: [species, generated]
+tags: [species, generated, superseded-circumscription]
 ---
 # *Euadenia alimensis* Hua
 
 **Genus**: [[Euadenia]]
-**Family**: [[Brassicaceae]]
+**Family**: [[Capparidaceae]]
+**Modern family**: [[Capparaceae]] — *Capparidaceae* as circumscribed here is superseded; see [[Capparidaceae]]
 **Protologue**: Bull. Soc. Philom. Paris, sér. 8, 7:81 (1895); DE WILD. & T. DURAND, Ann. Mus. Congo, Bot., sér. 2, 1:3 (1900) & sér. 3, 1:10, excl. syn. Pteropetalum klingii (1901); T. & H. DURAND, Syll. Fl. Congo : 33 (1909); GILG & BENEDICT, Bot. Jahrb. 53:172 (1915); DE WILD, Pl. Bequaert. 1:210 (1922); PAX & HOFFMANN, in ENGL., Nat. Pflanzenfam., ed. 2, 17b:171 (1936); HAUM. & WILCZ., Fl. Congo 2:481 (1951); KERS, FCAM 29:74-77 (1987)
 
 ## Description
@@ -65,5 +67,6 @@ Klaine 1370, 2044, 2701, 2868, 2876, environs de Libreville (fl., janv., fév., 
 ## See also
 
 - [[Euadenia]]
-- [[Brassicaceae]]
+- [[Capparidaceae]]
 - [[vol30]]
+- [[Capparaceae]] — where this taxon now belongs

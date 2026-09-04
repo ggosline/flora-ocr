@@ -2,7 +2,7 @@
 type: genus
 name: Acanthonema
 authority: Hooker f.
-family: Bignoniaceae
+family: Gesneriaceae
 species_in_region: 2
 treatments:
   - vol: 27
@@ -11,7 +11,7 @@ tags: [genus, generated]
 ---
 # *Acanthonema* Hooker f.
 
-**Family**: [[Bignoniaceae]]
+**Family**: [[Gesneriaceae]]
 **Authority**: Hooker f.
 **Protologue**: Bot. Mag.: tab. 5339 (1862); CLARKE C. B., in DE CANDOLLE A. & C., Mon. Phan. 5(1): 156 (1883); BAKER J.G. & CLARKE C.B., FTA 4(2): 502 (1906); HUTCHINSON & DALZIEL, FWTA 2(1): 237, fig. 259 (1931); BURTT, FWTA, ed. 2, 2: 383, fig. 293 (1963); FL. Cam. 27: 16 (1984); IVANINA, Fam. Gesn.: 29 (1967)
 
@@ -59,5 +59,5 @@ The single leaf is extremely variable in size and shape; it is probably greatly 
 
 ## See also
 
-- [[Bignoniaceae]]
+- [[Gesneriaceae]]
 - [[vol27]]

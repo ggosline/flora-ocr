@@ -2,7 +2,7 @@
 type: genus
 name: Selaginella
 authority: P. Beauvois
-family: Pteridophytes
+family: Salviniaceae
 species_in_region: 8
 treatments:
   - vol: 08
@@ -11,7 +11,7 @@ tags: [genus, generated]
 ---
 # *Selaginella* P. Beauvois
 
-**Family**: [[Pteridophytes]]
+**Family**: [[Salviniaceae]]
 **Authority**: P. Beauvois
 
 ## Diagnosis
@@ -64,5 +64,5 @@ Cosmopolitan, approximately 800 species.
 
 ## See also
 
-- [[Pteridophytes]]
+- [[Salviniaceae]]
 - [[vol08]]

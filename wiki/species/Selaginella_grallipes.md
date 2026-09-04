@@ -3,7 +3,7 @@ type: species
 name: Selaginella grallipes
 authority: Alston
 genus: Selaginella
-family: Pteridophytes
+family: Salviniaceae
 vol: 08
 pages: 22-24
 source: sources/Salviniaceae_vol08_paddle
@@ -12,8 +12,7 @@ tags: [species, generated]
 # *Selaginella grallipes* Alston
 
 **Genus**: [[Selaginella]]
-**Family**: [[Pteridophytes]]
-
+**Family**: [[Salviniaceae]]
 ## Description
 
 — Alston, Mém. Soc. Linn. Normandie, bot. 3, 1 : 80 (1938); Mém. IFAN 50 : 32, pl. 7, f. 17 (1957).
@@ -47,5 +46,5 @@ Le Testu : 1598, entre Digoundou et Tono, région de la Nyanga. N. Hallé et G. 
 ## See also
 
 - [[Selaginella]]
-- [[Pteridophytes]]
+- [[Salviniaceae]]
 - [[vol08]]

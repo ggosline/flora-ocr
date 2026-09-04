@@ -3,7 +3,7 @@ type: species
 name: Trachystigma mannii
 authority: C.B. Clarke
 genus: Trachystigma
-family: Bignoniaceae
+family: Gesneriaceae
 vol: 27
 pages: 19-21
 source: sources/Gesneriaceae_vol27_paddle
@@ -13,8 +13,7 @@ tags: [species, generated]
 # *Trachystigma mannii* C.B. Clarke
 
 **Genus**: [[Trachystigma]]
-**Family**: [[Bignoniaceae]]
-
+**Family**: [[Gesneriaceae]]
 ## Description
 
 in DE CANDOLLE A. & C., Mon. Phan. 5 (1) : 131, tab. 14 (1883) ; BAKER C.G. & CLARKE C.B., FTA 4 (2) : 503 (1906) ; BURTT, Fl. Cam. 27 : 24, tab. 4, fig. 2-3 (1984).
@@ -62,5 +61,5 @@ Mann 1682, mts de Cristal.
 ## See also
 
 - [[Trachystigma]]
-- [[Bignoniaceae]]
+- [[Gesneriaceae]]
 - [[vol27]]

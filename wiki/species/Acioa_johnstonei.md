@@ -3,7 +3,7 @@ type: species
 name: Acioa johnstonei
 authority: Hoyle
 genus: Acioa
-family: Scytopetalaceae
+family: Chrysobalanaceae
 modern_family: Lecythidaceae subfam. Scytopetaloideae
 vol: 24
 pages: 38-42
@@ -16,7 +16,7 @@ tags: [species, generated, superseded-circumscription]
 # *Acioa johnstonei* Hoyle
 
 **Genus**: [[Acioa]]
-**Family**: [[Scytopetalaceae]]
+**Family**: [[Chrysobalanaceae]]
 **Modern family**: [[Lecythidaceae]] subfam. Scytopetaloideae — *Scytopetalaceae* as circumscribed here is superseded; see [[Scytopetalaceae]]
 **Protologue**: Kew Bull.: 258 (1932); l.c.: 71 (1947); DALZIEL, Us. Pl. W. Trop. Afr.: 167 (1937); KEAY, FWTA, ed. 2, 1 (2): 433 (1958)
 
@@ -79,6 +79,6 @@ Klaine 1890 (fl. et fr., juill. et sept.-oct.); 2981, 3538 (fl., juill.), Librev
 ## See also
 
 - [[Acioa]]
-- [[Scytopetalaceae]]
+- [[Chrysobalanaceae]]
 - [[vol24]]
 - [[Lecythidaceae]] — where this taxon now belongs

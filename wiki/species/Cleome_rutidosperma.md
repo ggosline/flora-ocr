@@ -3,19 +3,21 @@ type: species
 name: Cleome rutidosperma
 authority: De Candolle
 genus: Cleome
-family: Brassicaceae
+family: Capparidaceae
+modern_family: Cleomaceae
 vol: 30
 pages: 21-26
 source: sources/Capparidaceae_vol30_paddle
 countries: [Angola, Gabon, Senegal]
 in_region: true
 habitat: [coastal]
-tags: [species, generated]
+tags: [species, generated, superseded-circumscription]
 ---
 # *Cleome rutidosperma* De Candolle
 
 **Genus**: [[Cleome]]
-**Family**: [[Brassicaceae]]
+**Family**: [[Capparidaceae]]
+**Modern family**: [[Cleomaceae]] — *Capparidaceae* as circumscribed here is superseded; see [[Capparidaceae]]
 **Protologue**: Flou : 241 (1824), 115; Bithonia 12. 230 (1900), ELEPERS & AL, PLEA 66. 11 (1964); MALEY, Bull. IFAN 33 : tab. 218 (1971); J.-P. LEBRUN, Enumer. pl. vasc. Sénégal : 47 (1973); EXELL, Bull. Br. Mus. (Nat. Hist.), Bot. 4 : 339 (1973); BERHAUT, Fl. ill. Sénégal 2 : 201 (1974); KERS, FCAM 29 : 57 (198)
 
 ## Description
@@ -93,5 +95,6 @@ Hallé 2926, Gabon, s.l. (fl. & fr. sept.), P.
 ## See also
 
 - [[Cleome]]
-- [[Brassicaceae]]
+- [[Capparidaceae]]
 - [[vol30]]
+- [[Cleomaceae]] — where this taxon now belongs

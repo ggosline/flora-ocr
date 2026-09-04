@@ -3,7 +3,8 @@ type: species
 name: Cleome spinosa
 authority: Jacquin
 genus: Cleome
-family: Brassicaceae
+family: Capparidaceae
+modern_family: Cleomaceae
 vol: 30
 pages: 33-37
 source: sources/Capparidaceae_vol30_paddle
@@ -11,12 +12,13 @@ countries: [Cameroon, Gabon]
 in_region: true
 habit: "herb"
 habitat: [coastal]
-tags: [species, generated]
+tags: [species, generated, superseded-circumscription]
 ---
 # *Cleome spinosa* Jacquin
 
 **Genus**: [[Cleome]]
-**Family**: [[Brassicaceae]]
+**Family**: [[Capparidaceae]]
+**Modern family**: [[Cleomaceae]] — *Capparidaceae* as circumscribed here is superseded; see [[Capparidaceae]]
 **Protologue**: Enum. Syst. Pl. Carib.: 26 (1760); L., Sp. Pl., ed. 2: 939 (1763); DC., Prodr. 1: 239 (1824); ILTIS, Amer. J. Bot. 54: 953 (1967); KERS, Bot. Not. 122: 249 (1969); ADAMS, Fl. pl. Jamaica: 304 (1972); KERS, FCAM 29: 42 (1987)
 
 ## Description
@@ -64,5 +66,6 @@ Hallé 3985, Belinga, Mines de Fer, à Maybout 2, près de l'Ivindo, jardin afri
 ## See also
 
 - [[Cleome]]
-- [[Brassicaceae]]
+- [[Capparidaceae]]
 - [[vol30]]
+- [[Cleomaceae]] — where this taxon now belongs

@@ -256,7 +256,11 @@ def _known_genera(lines: list[str]) -> set[str]:
         hm = HEADING_RE.match(line.rstrip("\n"))
         if not hm:
             continue
-        heading = _despace_smallcaps(_normalise_enumerator(hm.group(2)))
+        # The prefix comes off before the small-caps repair: 'FAMILLE DES
+        # RUBIACEES' is three short uppercase tokens, so the repair reads it as
+        # letter-spaced small caps and runs it together into one word.
+        heading = FAMILY_PREFIX_RE.sub("", _normalise_enumerator(hm.group(2)))
+        heading = _despace_smallcaps(heading)
         if _is_suprageneric(heading):
             continue
         rank, _ = classify(heading)
@@ -288,6 +292,41 @@ def _known_genera(lines: list[str]) -> set[str]:
     return out
 
 
+# "FAMILLE DES RUBIACEES" -- the Rubiaceae volumes head the family that way, and
+# with the words run together by the small-caps repair it parses as a genus
+# called Familledesrubiaceae, which is the family every one of that treatment's
+# 140 pages then claimed.
+FAMILY_PREFIX_RE = re.compile(r"^\s*(?:FAMILLES?\s+DES?\s+|FAMILY\s+OF\s+)", re.I)
+
+
+def _is_truncated_family(heading: str, declared: str | None) -> bool:
+    """Is this the treatment's own family heading, with the ending clipped?
+
+    Volume 30 heads its first family '# CAPPARIDACE': the OCR dropped the final
+    'AE', so FAMILY_RE -- which wants an -aceae ending -- does not match, and
+    the only family heading left is the BRASSICACEAE printed on the cover page.
+    Every genus falls under it, and the treatment is filed under the wrong
+    family. Three volumes lose their family heading exactly this way.
+
+    The directory name already records the family, so a clipped all-caps word
+    that the declared name begins with is unambiguous. The length floor keeps
+    an abbreviation or a stray capital from matching.
+    """
+    if not declared:
+        return False
+    word = re.sub(r"[^A-Za-z]", "", N.strip_accents(heading)).upper()
+    want = re.sub(r"[^A-Za-z]", "", N.strip_accents(declared)).upper()
+    if len(word) < 6 or not want:
+        return False
+    if not (want.startswith(word) or word.startswith(want)):
+        return False
+    # A genus name is often a prefix of its family's -- STERCULIA of
+    # STERCULIACEAE, MUSA of MUSACEAE -- so a prefix alone is not enough. What
+    # the OCR clips is the ending, two or three letters of it, and what is left
+    # still carries the -ace- stem.
+    return abs(len(want) - len(word)) <= 3 and re.search(r"ACE[AE]?$", word)
+
+
 def _headings(lines: list[str], only_family: str | None = None) -> tuple[list[dict], list[int]]:
     """Locate every taxonomic heading, plus the lines where back matter starts.
 
@@ -297,6 +336,27 @@ def _headings(lines: list[str], only_family: str | None = None) -> tuple[list[di
     mints a phantom species page.
     """
     known = _known_genera(lines)
+    # Two passes. A repeated family heading must not open a block, but which
+    # occurrence is the repeat cannot be decided line by line: volume 30 prints
+    # both its families on the cover, so the first CAPPARIDACEAE heads nothing
+    # and the real one comes 58 lines later. The first pass finds which family
+    # headings survive -- barren ones dropped, then repeats -- and the second
+    # skips the rest outright, so a cover-page heading never resets the running
+    # family/genus context and orphans the varieties under it.
+    survivors = _surviving_family_lines(lines, known, only_family)
+    heads, terminators = _scan(lines, known, only_family, survivors)
+    return heads, terminators
+
+
+def _surviving_family_lines(lines, known, only_family) -> set[int] | None:
+    raw, _ = _scan(lines, known, only_family, None)
+    kept = _dedupe_families(_drop_barren_families(raw))
+    return {h["line"] for h in kept if h["rank"] == "family"}
+
+
+def _scan(lines: list[str], known: set[str], only_family: str | None,
+          family_lines: set[int] | None) -> tuple[list[dict], list[int]]:
+    """One pass over the headings. `family_lines` limits which may open a family."""
     out: list[dict] = []
     terminators: list[int] = []
     seen_families: set[str] = set()
@@ -314,12 +374,15 @@ def _headings(lines: list[str], only_family: str | None = None) -> tuple[list[di
         if not hm:
             continue
 
-        heading = _despace_smallcaps(_normalise_enumerator(hm.group(2)))
+        heading = FAMILY_PREFIX_RE.sub("", _normalise_enumerator(hm.group(2)))
+        heading = _despace_smallcaps(heading)
         if BACK_MATTER_RE.match(N.strip_accents(heading).strip().upper()):
             terminators.append(i)
             continue
 
         rank, _level = classify(heading)
+        if rank is None and _is_truncated_family(heading, only_family):
+            rank, heading = "family", only_family.upper()
         if rank == "species" and _names_genus_and_author(heading, named_genera):
             rank = "genus"               # '8. Adenanthera Linne'
         if rank in ("genus", "family") and _is_suprageneric(heading):
@@ -340,13 +403,16 @@ def _headings(lines: list[str], only_family: str | None = None) -> tuple[list[di
             continue
 
         if rank == "family":
-            # Running page headers repeat the family name; only the first
-            # occurrence opens a block. Whether a *different* family is a real
-            # section or a cross-reference is decided structurally afterwards —
-            # a family-split dir often carries several families, because the
-            # OCR splitter cannot see headings its own OCR truncated.
-            if parsed.name in seen_families:
-                continue
+            if family_lines is not None and i not in family_lines:
+                continue                 # a repeat, or a cover-page listing
+            # Running page headers repeat the family name, and the cover page
+            # of a two-family volume lists both. Only one occurrence may open a
+            # block, but which one cannot be decided here: dropping every
+            # repeat on sight let volume 30's cover-page 'CAPPARIDACEAE'
+            # consume the name, so the real '# CAPPARIDACE' heading 58 lines
+            # later was skipped as a duplicate and the treatment ended up under
+            # the BRASSICACEAE also printed on the cover. The repeats are
+            # dropped after the barren ones are, in _dedupe_families.
             seen_families.add(parsed.name)
 
         if rank == "genus":
@@ -389,8 +455,43 @@ def _headings(lines: list[str], only_family: str | None = None) -> tuple[list[di
             named_genera.add(parsed.genus)
         out.append({"line": i, "page": page, "rank": rank, "parsed": parsed})
 
-    return _drop_barren_families(out), terminators
+    return _claim_family(out, only_family), terminators
 
+
+def _claim_family(heads: list[dict], declared: str | None) -> list[dict]:
+    """Name the family block after the directory when no heading names it.
+
+    Volume 8 is Pteridophytes throughout and the splitter cut it into per-family
+    directories, so the only family heading in the Salviniaceae directory is
+    PTERIDOPHYTES. Where the declared family appears in no heading at all, the
+    first family heading is standing in for it and is renamed; where it does
+    appear, nothing is touched, so a directory that genuinely carries several
+    families keeps them.
+    """
+    if not declared:
+        return heads
+    families = [h for h in heads if h["rank"] == "family"]
+    if not families or any(h["parsed"].name == declared for h in families):
+        return heads
+    parsed = families[0]["parsed"]
+    parsed.name = parsed.canonical = parsed.family = declared
+    return heads
+
+def _dedupe_families(heads: list[dict]) -> list[dict]:
+    """Keep the first surviving heading for each family.
+
+    Run after _drop_barren_families, so a cover-page listing that heads nothing
+    is already gone and the first *real* heading is the one that survives.
+    """
+    seen: set[str] = set()
+    out = []
+    for h in heads:
+        if h["rank"] == "family":
+            if h["parsed"].name in seen:
+                continue
+            seen.add(h["parsed"].name)
+        out.append(h)
+    return out
 
 def _drop_barren_families(heads: list[dict]) -> list[dict]:
     """Remove family headings that head nothing.

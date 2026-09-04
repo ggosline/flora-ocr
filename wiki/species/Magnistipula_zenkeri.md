@@ -3,7 +3,7 @@ type: species
 name: Magnistipula zenkeri
 authority: Engler
 genus: Magnistipula
-family: Scytopetalaceae
+family: Chrysobalanaceae
 modern_family: Lecythidaceae subfam. Scytopetaloideae
 vol: 24
 pages: 95-99
@@ -15,7 +15,7 @@ tags: [species, generated, superseded-circumscription]
 # *Magnistipula zenkeri* Engler
 
 **Genus**: [[Magnistipula]]
-**Family**: [[Scytopetalaceae]]
+**Family**: [[Chrysobalanaceae]]
 **Modern family**: [[Lecythidaceae]] subfam. Scytopetaloideae — *Scytopetalaceae* as circumscribed here is superseded; see [[Scytopetalaceae]]
 **Protologue**: Bot. Jahrb. 36 : 227 (1905); Pflanzenw. Afr. 3 (1) : 308 (1915); HAUM., BJBB 21 : 173 (1951); WHITE, BJBB 46 : 293 (1976)
 
@@ -90,6 +90,6 @@ edou (yaoundé); endumde (fang)
 ## See also
 
 - [[Magnistipula]]
-- [[Scytopetalaceae]]
+- [[Chrysobalanaceae]]
 - [[vol24]]
 - [[Lecythidaceae]] — where this taxon now belongs

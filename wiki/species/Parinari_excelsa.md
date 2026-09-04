@@ -3,7 +3,7 @@ type: species
 name: Parinari excelsa
 authority: Sabine
 genus: Parinari
-family: Scytopetalaceae
+family: Chrysobalanaceae
 modern_family: Lecythidaceae subfam. Scytopetaloideae
 vol: 24
 pages: 132-136
@@ -18,7 +18,7 @@ tags: [species, generated, superseded-circumscription]
 # *Parinari excelsa* Sabine
 
 **Genus**: [[Parinari]]
-**Family**: [[Scytopetalaceae]]
+**Family**: [[Chrysobalanaceae]]
 **Modern family**: [[Lecythidaceae]] subfam. Scytopetaloideae — *Scytopetalaceae* as circumscribed here is superseded; see [[Scytopetalaceae]]
 **Protologue**: Trans. Roy. Hort. Soc. 5 : 451 (1824); GUILLEMIN, PERROTTE & RICHARD, Fl. Sengamb. Tent. 1 : 274, tab. 62 (1832); Hook., Niger Fl. : 333 (1849); Oliv., FTA 2 : 367 (1871); ENGL., Pflanzenw. Ost.-Afr. C : 191 (1895); Pflanzenw. Afr. 3 (1) : 303 (1915); DALZ., US. Pl. W. Trop. Afr. : 168 (1937); AUBR., FFSG : 202, cart. 17 (1950); ANDREWS, FLOW. Pl. Anglo-Egypt. Sudan 2 : 106, tab. 42 (1952); KEAY, FWTA, ed. 2, 1 (2) : 429, tab. 141 (1958); AUBR., FFCI, ed. 2, 1 : 180, tab. 53 (1959); GRAHAM, FTEA, Rosacee : 49 (1960); KEAY, ONOCHIE & STANFIELD, Nig. Trees 1 : 318 (1960); TAYLOR, Synec. Silv. Ghana : 284, tab. 88 (1960); IRVINE, Woody Pl. Ghana : 264, tab. 61 (1961); WHITE, For. Fl. North. Rhod. : 70 (1962); VOORHOEVE, Lib. For. Trees : 314, tab. 60, phot. 28 (1965); ADAM, Mém. Mus. Nat. Hist. Nat. Paris, Bot. 22, Fl. descr. Monts Nimba : 538, tab. 200 (1971); WHITE, BJBB 46 : 333 (1976)
 
@@ -117,6 +117,6 @@ Le Testu 1942, Tchibanga (fl., déc.); 8053, Minguembé, 60 km ENE Mbigou (fl., 
 ## See also
 
 - [[Parinari]]
-- [[Scytopetalaceae]]
+- [[Chrysobalanaceae]]
 - [[vol24]]
 - [[Lecythidaceae]] — where this taxon now belongs

@@ -3,7 +3,7 @@ type: species
 name: Acioa librevillensis
 authority: R. Letouzey
 genus: Acioa
-family: Scytopetalaceae
+family: Chrysobalanaceae
 modern_family: Lecythidaceae subfam. Scytopetaloideae
 vol: 24
 pages: 50-52
@@ -16,7 +16,7 @@ tags: [species, generated, superseded-circumscription]
 # *Acioa librevillensis* R. Letouzey
 
 **Genus**: [[Acioa]]
-**Family**: [[Scytopetalaceae]]
+**Family**: [[Chrysobalanaceae]]
 **Modern family**: [[Lecythidaceae]] subfam. Scytopetaloideae — *Scytopetalaceae* as circumscribed here is superseded; see [[Scytopetalaceae]]
 **Protologue**: Adansonia, ser. 2, 16 (2) : 238, tab. 4 (1976)
 
@@ -61,6 +61,6 @@ Klein 55, Cap Esterias près Libreville (fl., févr.) (B, P).
 ## See also
 
 - [[Acioa]]
-- [[Scytopetalaceae]]
+- [[Chrysobalanaceae]]
 - [[vol24]]
 - [[Lecythidaceae]] — where this taxon now belongs

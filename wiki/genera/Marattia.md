@@ -2,7 +2,7 @@
 type: genus
 name: Marattia
 authority: Swartz
-family: Pteridophytes
+family: Salviniaceae
 species_in_region: 1
 treatments:
   - vol: 08
@@ -11,7 +11,7 @@ tags: [genus, generated]
 ---
 # *Marattia* Swartz
 
-**Family**: [[Pteridophytes]]
+**Family**: [[Salviniaceae]]
 **Authority**: Swartz
 
 ## Diagnosis
@@ -40,5 +40,5 @@ Approximately 60 tropical species. Only one in Africa.
 
 ## See also
 
-- [[Pteridophytes]]
+- [[Salviniaceae]]
 - [[vol08]]

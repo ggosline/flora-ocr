@@ -3,18 +3,20 @@ type: species
 name: Ritchiea aprevaliana
 authority: (De Wildeman & T. Durand) Wilczek
 genus: Ritchiea
-family: Brassicaceae
+family: Capparidaceae
+modern_family: Capparaceae
 vol: 30
 pages: 49-53
 source: sources/Capparidaceae_vol30_paddle
 countries: [Cameroon, Central African Republic, Democratic Republic of the Congo, Gabon, Uganda]
 in_region: true
-tags: [species, generated]
+tags: [species, generated, superseded-circumscription]
 ---
 # *Ritchiea aprevaliana* (De Wildeman & T. Durand) Wilczek
 
 **Genus**: [[Ritchiea]]
-**Family**: [[Brassicaceae]]
+**Family**: [[Capparidaceae]]
+**Modern family**: [[Capparaceae]] — *Capparidaceae* as circumscribed here is superseded; see [[Capparidaceae]]
 **Protologue**: Maerua aprevaliana DE WILD. & T. DUR., Ann. Mus. Congo, sér. Bot. 2 (1): 5 (1899) & 3 (1): 9 (1901); DE WILD., Ann. Mus. Congo, sér. Bot. 5 (1): 37 (1903) & 5 (2): 252 (1908) & 5 (3): 395 (1912); GILG, Bot. Jahrb. 33: 225 (1903); T. & H. DURAND, Syll. Fl. Congo: 30 (1909); GILG & BENEDICT, Bot. Jahrb. 53: 261 (1915); GILG, in ENGL., Pflanzenw. Afr. 3 (1): 255 (1915); ROBYNS, Fl. Sperm. Parc nat. Albert 1: 208 (1948); TISSERANT & SILLANS, Not. Syst. 15: 200 (1956)
 
 ## Description
@@ -64,5 +66,6 @@ Hallé & Le Thomas 597, Bélinga, alt. ca. 850 m (st., ?), P. Le Testu 7147 & 71
 ## See also
 
 - [[Ritchiea]]
-- [[Brassicaceae]]
+- [[Capparidaceae]]
 - [[vol30]]
+- [[Capparaceae]] — where this taxon now belongs

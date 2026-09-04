@@ -3,19 +3,21 @@ type: species
 name: Cleome afrospina
 authority: Iltis
 genus: Cleome
-family: Brassicaceae
+family: Capparidaceae
+modern_family: Cleomaceae
 vol: 30
 pages: 29-33
 source: sources/Capparidaceae_vol30_paddle
 countries: [Cameroon, Democratic Republic of the Congo, Gabon, Nigeria]
 in_region: true
 habitat: [secondary forest]
-tags: [species, generated]
+tags: [species, generated, superseded-circumscription]
 ---
 # *Cleome afrospina* Iltis
 
 **Genus**: [[Cleome]]
-**Family**: [[Brassicaceae]]
+**Family**: [[Capparidaceae]]
+**Modern family**: [[Cleomaceae]] — *Capparidaceae* as circumscribed here is superseded; see [[Capparidaceae]]
 **Protologue**: Amer. J. Bot. 54: 995 (1967)
 
 ## Description
@@ -87,5 +89,6 @@ Descoings 6260, vallée de la Ngounié, route de Dolisie, à 19 km au Sud de N'D
 ## See also
 
 - [[Cleome]]
-- [[Brassicaceae]]
+- [[Capparidaceae]]
 - [[vol30]]
+- [[Cleomaceae]] — where this taxon now belongs

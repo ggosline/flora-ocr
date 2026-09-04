@@ -3,7 +3,7 @@ type: species
 name: Magnistipula bimarsupiata
 authority: R. Letouzey
 genus: Magnistipula
-family: Scytopetalaceae
+family: Chrysobalanaceae
 modern_family: Lecythidaceae subfam. Scytopetaloideae
 vol: 24
 pages: 75-76
@@ -16,7 +16,7 @@ tags: [species, generated, superseded-circumscription]
 # *Magnistipula bimarsupiata* R. Letouzey
 
 **Genus**: [[Magnistipula]]
-**Family**: [[Scytopetalaceae]]
+**Family**: [[Chrysobalanaceae]]
 **Modern family**: [[Lecythidaceae]] subfam. Scytopetaloideae — *Scytopetalaceae* as circumscribed here is superseded; see [[Scytopetalaceae]]
 **Protologue**: Adansonia, ser. 2, 16 (2): 229, tab. I (1976)
 
@@ -63,6 +63,6 @@ Bernard 507 SRF, Equata (= Ekwata), 80 km NE Port Gentil (fl.). Quint RICC 163 S
 ## See also
 
 - [[Magnistipula]]
-- [[Scytopetalaceae]]
+- [[Chrysobalanaceae]]
 - [[vol24]]
 - [[Lecythidaceae]] — where this taxon now belongs

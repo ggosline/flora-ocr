@@ -2,7 +2,7 @@
 type: genus
 name: Lycopodium
 authority: Linné
-family: Pteridophytes
+family: Salviniaceae
 species_in_region: 3
 treatments:
   - vol: 08
@@ -11,7 +11,7 @@ tags: [genus, generated]
 ---
 # *Lycopodium* Linné
 
-**Family**: [[Pteridophytes]]
+**Family**: [[Salviniaceae]]
 **Authority**: Linné
 
 ## Diagnosis
@@ -54,5 +54,5 @@ The source key separates these species but the volume gives them no treatment, u
 
 ## See also
 
-- [[Pteridophytes]]
+- [[Salviniaceae]]
 - [[vol08]]

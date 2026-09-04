@@ -3,7 +3,7 @@ type: species
 name: Selaginella versicolor
 authority: Spring
 genus: Selaginella
-family: Pteridophytes
+family: Salviniaceae
 vol: 08
 pages: 25-26
 source: sources/Salviniaceae_vol08_paddle
@@ -14,8 +14,7 @@ tags: [species, generated]
 # *Selaginella versicolor* Spring
 
 **Genus**: [[Selaginella]]
-**Family**: [[Pteridophytes]]
-
+**Family**: [[Salviniaceae]]
 ## Synonyms
 
 - Selaginella nitens Bak., Journ. Bot. 23 : 48 (1885).
@@ -49,5 +48,5 @@ Le Testu : 1555, rivière Bouboudou, Boutembe, région de Tchibanga; 9155, entre
 ## See also
 
 - [[Selaginella]]
-- [[Pteridophytes]]
+- [[Salviniaceae]]
 - [[vol08]]

@@ -3,7 +3,7 @@ type: species
 name: Magnistipula cuneatifolia
 authority: Hauman
 genus: Magnistipula
-family: Scytopetalaceae
+family: Chrysobalanaceae
 modern_family: Lecythidaceae subfam. Scytopetaloideae
 vol: 24
 pages: 84-86
@@ -16,7 +16,7 @@ tags: [species, generated, superseded-circumscription]
 # *Magnistipula cuneatifolia* Hauman
 
 **Genus**: [[Magnistipula]]
-**Family**: [[Scytopetalaceae]]
+**Family**: [[Chrysobalanaceae]]
 **Modern family**: [[Lecythidaceae]] subfam. Scytopetaloideae — *Scytopetalaceae* as circumscribed here is superseded; see [[Scytopetalaceae]]
 **Protologue**: BJBB 21 : 175 (1921); WHITE, BJBB 46 : 289 (1976)
 
@@ -57,6 +57,6 @@ Le Testu 9376, Nzec, 35 km WNW Mitzic (fl., nov.).
 ## See also
 
 - [[Magnistipula]]
-- [[Scytopetalaceae]]
+- [[Chrysobalanaceae]]
 - [[vol24]]
 - [[Lecythidaceae]] — where this taxon now belongs

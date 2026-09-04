@@ -3,7 +3,7 @@ type: species
 name: Magnistipula glaberrima
 authority: Engler
 genus: Magnistipula
-family: Scytopetalaceae
+family: Chrysobalanaceae
 modern_family: Lecythidaceae subfam. Scytopetaloideae
 vol: 24
 pages: 89-90
@@ -16,7 +16,7 @@ tags: [species, generated, superseded-circumscription]
 # *Magnistipula glaberrima* Engler
 
 **Genus**: [[Magnistipula]]
-**Family**: [[Scytopetalaceae]]
+**Family**: [[Chrysobalanaceae]]
 **Modern family**: [[Lecythidaceae]] subfam. Scytopetaloideae — *Scytopetalaceae* as circumscribed here is superseded; see [[Scytopetalaceae]]
 **Protologue**: Not. Bot. Gart. Mus. Berlin 6 : 35 (1913); Pflanzenw. Afr. 3 (1) : 308, tab. 198 (1915); WHITE, BJBB 46 : 290 (1976)
 
@@ -65,6 +65,6 @@ Le Testu 6026, Moucouna, 35 km NE Mouila (fl., août).
 ## See also
 
 - [[Magnistipula]]
-- [[Scytopetalaceae]]
+- [[Chrysobalanaceae]]
 - [[vol24]]
 - [[Lecythidaceae]] — where this taxon now belongs

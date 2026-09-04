@@ -3,7 +3,7 @@ type: species
 name: Tricalysia coriacea
 authority: (Benth.) Hiern
 genus: Tricalysia
-family: Familledesrubiaceae
+family: Rubiaceae
 vol: 17
 pages: 302-303
 source: sources/Rubiaceae_vol17_paddle
@@ -15,7 +15,7 @@ tags: [species, generated]
 # *Tricalysia coriacea* (Benth.) Hiern
 
 **Genus**: [[Tricalysia]]
-**Family**: [[Familledesrubiaceae]]
+**Family**: [[Rubiaceae]]
 **Protologue**: Hiern, F.T.A. 3 : 120 (1877)
 
 ## Synonyms
@@ -51,5 +51,5 @@ Aubréville 101, terrain d'aviation de Libreville (fr. sept.). Duparquet s.n., G
 ## See also
 
 - [[Tricalysia]]
-- [[Familledesrubiaceae]]
+- [[Rubiaceae]]
 - [[vol17]]

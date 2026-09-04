@@ -2,16 +2,18 @@
 type: genus
 name: Cleome
 authority: Linné
-family: Brassicaceae
+family: Capparidaceae
+modern_family: Cleomaceae
 species_in_region: 4
 treatments:
   - vol: 30
     source: sources/Capparidaceae_vol30_paddle
-tags: [genus, generated]
+tags: [genus, generated, superseded-circumscription]
 ---
 # *Cleome* Linné
 
-**Family**: [[Brassicaceae]]
+**Family**: [[Capparidaceae]]
+**Modern family**: [[Cleomaceae]] — *Capparidaceae* as circumscribed here is superseded; see [[Capparidaceae]]
 **Authority**: Linné
 **Protologue**: Sp. Pl.: 671 (1753); Gen. Pl., ed. 5: 302 (1790); PAX & HOFFMANN, in ENGL., Nat. Pflanzenfam., ed. 2, 17 b: 210 (1936)
 
@@ -64,5 +66,6 @@ The source key separates these species but the volume gives them no treatment, u
 
 ## See also
 
-- [[Brassicaceae]]
+- [[Capparidaceae]]
 - [[vol30]]
+- [[Cleomaceae]] — where this taxon now belongs

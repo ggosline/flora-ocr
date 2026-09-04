@@ -3,7 +3,7 @@ type: species
 name: Maranthes kerstingii
 authority: (Engler) Prance
 genus: Maranthes
-family: Scytopetalaceae
+family: Chrysobalanaceae
 modern_family: Lecythidaceae subfam. Scytopetaloideae
 vol: 24
 pages: 114-118
@@ -17,7 +17,7 @@ tags: [species, generated, superseded-circumscription]
 # *Maranthes kerstingii* (Engler) Prance
 
 **Genus**: [[Maranthes]]
-**Family**: [[Scytopetalaceae]]
+**Family**: [[Chrysobalanaceae]]
 **Modern family**: [[Lecythidaceae]] subfam. Scytopetaloideae — *Scytopetalaceae* as circumscribed here is superseded; see [[Scytopetalaceae]]
 **Protologue**: Nota : Parinari kerstingii sensu AUBR., FFCI ed. 1, 1 : 148, tab. 51 (1936) est en réalité Maranthes glabra (Oliv.) Prance (cf. AUBR., FFSG : 203, 1950)
 
@@ -74,6 +74,6 @@ kom (babouté); kanga (baya)
 ## See also
 
 - [[Maranthes]]
-- [[Scytopetalaceae]]
+- [[Chrysobalanaceae]]
 - [[vol24]]
 - [[Lecythidaceae]] — where this taxon now belongs

@@ -3,7 +3,7 @@ type: species
 name: Ophioglossum rcticulatum
 authority: Linné
 genus: Ophioglossum
-family: Pteridophytes
+family: Salviniaceae
 vol: 08
 pages: 36-37
 source: sources/Salviniaceae_vol08_paddle
@@ -14,7 +14,7 @@ tags: [species, generated]
 # *Ophioglossum rcticulatum* Linné
 
 **Genus**: [[Ophioglossum]]
-**Family**: [[Pteridophytes]]
+**Family**: [[Salviniaceae]]
 **Protologue**: Type : Linné cite, dans Tractatus de filicibus americanus (1705), la planche 163 de Plumier qui se rapporte à une plante de St-Domingue
 
 ## Synonyms
@@ -52,5 +52,5 @@ Le Testu : 1296, Loukandou, région de Tchibanga.
 ## See also
 
 - [[Ophioglossum]]
-- [[Pteridophytes]]
+- [[Salviniaceae]]
 - [[vol08]]

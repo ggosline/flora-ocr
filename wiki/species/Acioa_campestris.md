@@ -3,7 +3,7 @@ type: species
 name: Acioa campestris
 authority: Engler
 genus: Acioa
-family: Scytopetalaceae
+family: Chrysobalanaceae
 modern_family: Lecythidaceae subfam. Scytopetaloideae
 vol: 24
 pages: 18-21
@@ -17,7 +17,7 @@ tags: [species, generated, superseded-circumscription]
 # *Acioa campestris* Engler
 
 **Genus**: [[Acioa]]
-**Family**: [[Scytopetalaceae]]
+**Family**: [[Chrysobalanaceae]]
 **Modern family**: [[Lecythidaceae]] subfam. Scytopetaloideae — *Scytopetalaceae* as circumscribed here is superseded; see [[Scytopetalaceae]]
 **Protologue**: Bot. Jahrb. 17 : 87 (1893); Pflanzenw. Afr. 3 (1) : 311 (1915); DE WILD., BJBB 7 : 198 (1920)
 
@@ -94,6 +94,6 @@ mbangéfa (apindji); divala (bavungu); mumbundu (eshira); éfian (fang)
 ## See also
 
 - [[Acioa]]
-- [[Scytopetalaceae]]
+- [[Chrysobalanaceae]]
 - [[vol24]]
 - [[Lecythidaceae]] — where this taxon now belongs

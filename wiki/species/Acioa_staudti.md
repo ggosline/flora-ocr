@@ -3,7 +3,7 @@ type: species
 name: Acioa staudti
 authority: Engler
 genus: Acioa
-family: Scytopetalaceae
+family: Chrysobalanaceae
 modern_family: Lecythidaceae subfam. Scytopetaloideae
 vol: 24
 pages: 60-62
@@ -16,7 +16,7 @@ tags: [species, generated, superseded-circumscription]
 # *Acioa staudti* Engler
 
 **Genus**: [[Acioa]]
-**Family**: [[Scytopetalaceae]]
+**Family**: [[Chrysobalanaceae]]
 **Modern family**: [[Lecythidaceae]] subfam. Scytopetaloideae — *Scytopetalaceae* as circumscribed here is superseded; see [[Scytopetalaceae]]
 **Protologue**: Bot. Jahrb. 26 : 379 (1899); Pflanzenw. Afr. 3 (1) : 309 (1915); DE WILD., BJBB 7 : 207 (1920)
 
@@ -65,6 +65,6 @@ Hallé N. 842, Ngongolane dans les Monts de Cristal (fl., août). Le Testu 6043,
 ## See also
 
 - [[Acioa]]
-- [[Scytopetalaceae]]
+- [[Chrysobalanaceae]]
 - [[vol24]]
 - [[Lecythidaceae]] — where this taxon now belongs

@@ -3,7 +3,7 @@ type: species
 name: Selaginella leoneensis
 authority: Hieronymus
 genus: Selaginella
-family: Pteridophytes
+family: Salviniaceae
 vol: 08
 pages: 26-27
 source: sources/Salviniaceae_vol08_paddle
@@ -14,8 +14,7 @@ tags: [species, generated]
 # *Selaginella leoneensis* Hieronymus
 
 **Genus**: [[Selaginella]]
-**Family**: [[Pteridophytes]]
-
+**Family**: [[Salviniaceae]]
 ## Description
 
 — Hier. in Engler et Prantl, Naturl. Pflanzenfam. I (4) : 697 (1901). — Alston, Mém. IFAN 50 : 43 (1957); FWTA : 17 (1959).
@@ -43,5 +42,5 @@ N. Hallé : 2364, Abanga; 1839 bis, Ayem, 10 km SW Ndjolé.
 ## See also
 
 - [[Selaginella]]
-- [[Pteridophytes]]
+- [[Salviniaceae]]
 - [[vol08]]

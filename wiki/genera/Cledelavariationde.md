@@ -2,7 +2,7 @@
 type: genus
 name: Cledelavariationde
 authority: Cleome afrospina
-family: Brassicaceae
+family: Capparidaceae
 species_in_region: 0
 treatments:
   - vol: 30
@@ -11,7 +11,7 @@ tags: [genus, generated]
 ---
 # *Cledelavariationde* Cleome afrospina
 
-**Family**: [[Brassicaceae]]
+**Family**: [[Capparidaceae]]
 **Authority**: Cleome afrospina
 
 ## Diagnosis
@@ -48,5 +48,5 @@ C. afrospina is encountered in secondary forest, on the banks of river beds, in 
 
 ## See also
 
-- [[Brassicaceae]]
+- [[Capparidaceae]]
 - [[vol30]]

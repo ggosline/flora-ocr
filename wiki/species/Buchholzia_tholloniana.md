@@ -3,7 +3,8 @@ type: species
 name: Buchholzia tholloniana
 authority: Hua
 genus: Buchholzia
-family: Brassicaceae
+family: Capparidaceae
+modern_family: Capparaceae
 vol: 30
 pages: 13-17
 source: sources/Capparidaceae_vol30_paddle
@@ -11,12 +12,13 @@ countries: [Angola, Cameroon, Central African Republic, Democratic Republic of t
 in_region: true
 habit: "tree"
 habitat: [evergreen forest]
-tags: [species, generated]
+tags: [species, generated, superseded-circumscription]
 ---
 # *Buchholzia tholloniana* Hua
 
 **Genus**: [[Buchholzia]]
-**Family**: [[Brassicaceae]]
+**Family**: [[Capparidaceae]]
+**Modern family**: [[Capparaceae]] — *Capparidaceae* as circumscribed here is superseded; see [[Capparidaceae]]
 **Protologue**: Bull. Soc. Philom. Paris, sér. 8, 7 : 78 (1895) ; RISSEEUW, Acta Bot. Neerland. 13 : 169 (1964) ; KERS, FCAM 29 : 18-19 (1987)
 
 ## Synonyms
@@ -77,5 +79,6 @@ Mayombe Bayaka (II.) BIM, K, P ; S.N., Massagna (II., Sept.), BIM. Pobéguin 35,
 ## See also
 
 - [[Buchholzia]]
-- [[Brassicaceae]]
+- [[Capparidaceae]]
 - [[vol30]]
+- [[Capparaceae]] — where this taxon now belongs

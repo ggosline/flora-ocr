@@ -3,7 +3,7 @@ type: species
 name: Lycopodium cernuum
 authority: Linné
 genus: Lycopodium
-family: Pteridophytes
+family: Salviniaceae
 vol: 08
 pages: 14-17
 source: sources/Salviniaceae_vol08_paddle
@@ -12,8 +12,7 @@ tags: [species, generated]
 # *Lycopodium cernuum* Linné
 
 **Genus**: [[Lycopodium]]
-**Family**: [[Pteridophytes]]
-
+**Family**: [[Salviniaceae]]
 ## Description
 
 — L., Sp. pl. 2:1103 (1753). — Alston, Mém. IFAN 50:24 (1957); FWTA:12 (1959).
@@ -53,5 +52,5 @@ Le Testu : 1345, Kwango; 1552, Youlou-Mayombe.
 ## See also
 
 - [[Lycopodium]]
-- [[Pteridophytes]]
+- [[Salviniaceae]]
 - [[vol08]]

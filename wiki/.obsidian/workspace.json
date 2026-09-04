@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "families/Salicaceae.md",
+                "file": "genera/Cyrtococcum.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Salicaceae"
+              "title": "Cyrtococcum"
             }
           }
         ]
@@ -187,8 +187,14 @@
   },
   "active": "751504066fed907e",
   "lastOpenFiles": [
-    "genera/Phyllobotryon.md",
+    "families/Cleomaceae.md",
+    "families/Capparaceae.md",
+    "genera/Cyrtorchis.md",
+    "genera/Cyrtococcus.md",
+    "genera/Cyrtococcum.md",
+    "genera/Ritchiea.md",
     "families/Salicaceae.md",
+    "genera/Phyllobotryon.md",
     "families/Plantaginaceae.md",
     "families/Pentaphylacaceae.md",
     "families/Orobanchaceae.md",
@@ -208,12 +214,6 @@
     "species/Scottellia_klaineana.md",
     "species/Mocquerysia_multiflora.md",
     "species/Dasylepis_blackii.md",
-    "genera/Cyrtococcus.md",
-    "species/Phyllobotryon_muell.md",
-    "species/Phyllobotryon_spathulatum.md",
-    "species/Phyllobotryon_bracteatum.md",
-    "genera/Sansevieria.md",
-    "families/Dracaenaceae.md",
     "CuLX5GZw/Polygonaceae_vol7_paddle/figures/fig_002_p0015.png",
     "CuLX5GZw/Polygonaceae_vol7_paddle/figures/fig_001_p0009.png",
     "CuLX5GZw/Polygonaceae_vol7_paddle/figures/fig_000_p0002.png",

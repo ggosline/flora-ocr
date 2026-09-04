@@ -2,7 +2,7 @@
 type: genus
 name: Salvinia
 authority: Adanson
-family: Pteridophytes
+family: Salviniaceae
 species_in_region: 1
 treatments:
   - vol: 08
@@ -11,7 +11,7 @@ tags: [genus, generated]
 ---
 # *Salvinia* Adanson
 
-**Family**: [[Pteridophytes]]
+**Family**: [[Salviniaceae]]
 **Authority**: Adanson
 
 ## Diagnosis
@@ -40,5 +40,5 @@ Approximately 10 species, from tropical Africa and America especially. One in in
 
 ## See also
 
-- [[Pteridophytes]]
+- [[Salviniaceae]]
 - [[vol08]]

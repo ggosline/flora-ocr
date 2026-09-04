@@ -3,7 +3,7 @@ type: species
 name: Selaginella myosorus
 authority: (Sw.) Alston
 genus: Selaginella
-family: Pteridophytes
+family: Salviniaceae
 vol: 08
 pages: 19-22
 source: sources/Salviniaceae_vol08_paddle
@@ -14,8 +14,7 @@ tags: [species, generated]
 # *Selaginella myosorus* (Sw.) Alston
 
 **Genus**: [[Selaginella]]
-**Family**: [[Pteridophytes]]
-
+**Family**: [[Salviniaceae]]
 ## Synonyms
 
 - Lycopodium myosurus Sw., Schrad. Journ. 1800, t. 2 : 118 (1801).
@@ -67,5 +66,5 @@ Soyaux : 937, Munda (riv. Mondah).
 ## See also
 
 - [[Selaginella]]
-- [[Pteridophytes]]
+- [[Salviniaceae]]
 - [[vol08]]

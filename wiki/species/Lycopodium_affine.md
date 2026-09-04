@@ -3,7 +3,7 @@ type: species
 name: Lycopodium affine
 authority: Bory
 genus: Lycopodium
-family: Pteridophytes
+family: Salviniaceae
 vol: 08
 pages: 17-18
 source: sources/Salviniaceae_vol08_paddle
@@ -12,8 +12,7 @@ tags: [species, generated]
 # *Lycopodium affine* Bory
 
 **Genus**: [[Lycopodium]]
-**Family**: [[Pteridophytes]]
-
+**Family**: [[Salviniaceae]]
 ## Description
 
 — Bory, Voy. Iles Afr., 2 : 204, 262 (1804). — Alston, Mém. IFAN 50 : 25 (1957); FWTA : 12 (1959).
@@ -47,5 +46,5 @@ Une seule famille : Selaginellaceae avec un seul genre.
 ## See also
 
 - [[Lycopodium]]
-- [[Pteridophytes]]
+- [[Salviniaceae]]
 - [[vol08]]

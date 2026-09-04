@@ -3,7 +3,7 @@ type: species
 name: Magnistipula conrauana
 authority: Engler
 genus: Magnistipula
-family: Scytopetalaceae
+family: Chrysobalanaceae
 modern_family: Lecythidaceae subfam. Scytopetaloideae
 vol: 24
 pages: 81-84
@@ -16,7 +16,7 @@ tags: [species, generated, superseded-circumscription]
 # *Magnistipula conrauana* Engler
 
 **Genus**: [[Magnistipula]]
-**Family**: [[Scytopetalaceae]]
+**Family**: [[Chrysobalanaceae]]
 **Modern family**: [[Lecythidaceae]] subfam. Scytopetaloideae — *Scytopetalaceae* as circumscribed here is superseded; see [[Scytopetalaceae]]
 **Protologue**: Bot. Jahrb. 36 : 226 (1905); Pflanzenw. Afr. 3 (1) : 308 (1915); HAUM., BJBB 21 : 174 (1951); WHITE, BJBB 46 : 289 (1976)
 
@@ -75,6 +75,6 @@ Rieth 1093 SRFCam, Bagnіou près Bangangté (fl., janv.).
 ## See also
 
 - [[Magnistipula]]
-- [[Scytopetalaceae]]
+- [[Chrysobalanaceae]]
 - [[vol24]]
 - [[Lecythidaceae]] — where this taxon now belongs

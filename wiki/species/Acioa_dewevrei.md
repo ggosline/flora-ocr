@@ -3,7 +3,7 @@ type: species
 name: Acioa dewevrei
 authority: De Wildeman & Th. Durand
 genus: Acioa
-family: Scytopetalaceae
+family: Chrysobalanaceae
 modern_family: Lecythidaceae subfam. Scytopetaloideae
 vol: 24
 pages: 26-30
@@ -16,7 +16,7 @@ tags: [species, generated, superseded-circumscription]
 # *Acioa dewevrei* De Wildeman & Th. Durand
 
 **Genus**: [[Acioa]]
-**Family**: [[Scytopetalaceae]]
+**Family**: [[Chrysobalanaceae]]
 **Modern family**: [[Lecythidaceae]] subfam. Scytopetaloideae — *Scytopetalaceae* as circumscribed here is superseded; see [[Scytopetalaceae]]
 **Protologue**: Ann. Mus. Congo, Bot., ser. 2, Contr. Fl. Congo 1 (2) : 19 (1900); ser. 3, Reliq. Dewevr. 2 : 81 (1901); ser. 1, Ill. Fl. Congo 1 (8) : 185, tab. 93 (1902); De Wild., BJBB 7 : 201 (1920); Haum., FCB 3 : 48 (1952); Tiss. & SILL., Not. Syst. 15 (2) : 208 (1956), p.p., quoad var. seretii (De Wild.) Haum
 
@@ -93,6 +93,6 @@ Letouzey 4917, près Banga, 65 km SE Batouri (fr., avr.) (P, WAG).
 ## See also
 
 - [[Acioa]]
-- [[Scytopetalaceae]]
+- [[Chrysobalanaceae]]
 - [[vol24]]
 - [[Lecythidaceae]] — where this taxon now belongs

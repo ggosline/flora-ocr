@@ -3,7 +3,7 @@ type: species
 name: Acioa letestui
 authority: R. Letouzey
 genus: Acioa
-family: Scytopetalaceae
+family: Chrysobalanaceae
 modern_family: Lecythidaceae subfam. Scytopetaloideae
 vol: 24
 pages: 46-50
@@ -17,7 +17,7 @@ tags: [species, generated, superseded-circumscription]
 # *Acioa letestui* R. Letouzey
 
 **Genus**: [[Acioa]]
-**Family**: [[Scytopetalaceae]]
+**Family**: [[Chrysobalanaceae]]
 **Modern family**: [[Lecythidaceae]] subfam. Scytopetaloideae — *Scytopetalaceae* as circumscribed here is superseded; see [[Scytopetalaceae]]
 **Protologue**: Adansonia, ser. 2, 16 (2): 240, tab. 5 (1976)
 
@@ -76,6 +76,6 @@ Le Testu 6537, Mbigou (fl., juill.) (BM, BR, P); 9352, La Lara, 30 km S Mitzic (
 ## See also
 
 - [[Acioa]]
-- [[Scytopetalaceae]]
+- [[Chrysobalanaceae]]
 - [[vol24]]
 - [[Lecythidaceae]] — where this taxon now belongs

@@ -2,7 +2,7 @@
 type: genus
 name: Licania
 authority: Aublet
-family: Scytopetalaceae
+family: Chrysobalanaceae
 modern_family: Lecythidaceae subfam. Scytopetaloideae
 species_in_region: 1
 treatments:
@@ -12,7 +12,7 @@ tags: [genus, generated, superseded-circumscription]
 ---
 # *Licania* Aublet
 
-**Family**: [[Scytopetalaceae]]
+**Family**: [[Chrysobalanaceae]]
 **Modern family**: [[Lecythidaceae]] subfam. Scytopetaloideae — *Scytopetalaceae* as circumscribed here is superseded; see [[Scytopetalaceae]]
 **Authority**: Aublet
 
@@ -48,6 +48,6 @@ The genus Licania Aubl. (Hist. Pl. Guiane Fr. 1 : 119, tab. 45, 1775) groups tog
 
 ## See also
 
-- [[Scytopetalaceae]]
+- [[Chrysobalanaceae]]
 - [[vol24]]
 - [[Lecythidaceae]] — where this taxon now belongs

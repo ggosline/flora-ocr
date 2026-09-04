@@ -3,7 +3,7 @@ type: species
 name: Selaginella vogelii
 authority: Spring
 genus: Selaginella
-family: Pteridophytes
+family: Salviniaceae
 vol: 08
 pages: 24-25
 source: sources/Salviniaceae_vol08_paddle
@@ -14,8 +14,7 @@ tags: [species, generated]
 # *Selaginella vogelii* Spring
 
 **Genus**: [[Selaginella]]
-**Family**: [[Pteridophytes]]
-
+**Family**: [[Salviniaceae]]
 ## Synonyms
 
 - Selaginella Dinklageana Sadeb., Jahr. Hamb. Wiss. Ants. 14, suppl.: 16 (1897).
@@ -45,5 +44,5 @@ Le Testu : 1541, entre Tchibanga et Loango; 1761, région de la Nyanga. Thollon 
 ## See also
 
 - [[Selaginella]]
-- [[Pteridophytes]]
+- [[Salviniaceae]]
 - [[vol08]]

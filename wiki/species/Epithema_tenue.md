@@ -3,7 +3,7 @@ type: species
 name: Epithema tenue
 authority: C. B. Clarke
 genus: Epithema
-family: Bignoniaceae
+family: Gesneriaceae
 vol: 27
 pages: 10-13
 source: sources/Gesneriaceae_vol27_paddle
@@ -12,8 +12,7 @@ tags: [species, generated]
 # *Epithema tenue* C. B. Clarke
 
 **Genus**: [[Epithema]]
-**Family**: [[Bignoniaceae]]
-
+**Family**: [[Gesneriaceae]]
 ## Description
 
 in DE CANDOLLE A. & C., Mon. Phan. 5 (1): 181 (1883); BAKER J. G. & CLARKE C. B., FTA 4 (2): 501 (1906); HUTCHINSON, FWTA 2: 237 (1931); EXELL, Cat. Vasc. Pl. S. Thomé: 258 (1944); BURTT, FWTA, ed. 2, 2: 383 (1963); FL. Cam. 27: 6, tab. 1 (1984); HALLÉ F. & DELMOTTE A., Adansonia, ser. 2, 13 (3): 273 (1973).
@@ -57,5 +56,5 @@ Chevalier 26758, entre Libreville et Sibang (fl., fëvr.). Klaine 1617, 2666, en
 ## See also
 
 - [[Epithema]]
-- [[Bignoniaceae]]
+- [[Gesneriaceae]]
 - [[vol27]]

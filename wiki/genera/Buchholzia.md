@@ -2,16 +2,18 @@
 type: genus
 name: Buchholzia
 authority: Engler
-family: Brassicaceae
+family: Capparidaceae
+modern_family: Capparaceae
 species_in_region: 2
 treatments:
   - vol: 30
     source: sources/Capparidaceae_vol30_paddle
-tags: [genus, generated]
+tags: [genus, generated, superseded-circumscription]
 ---
 # *Buchholzia* Engler
 
-**Family**: [[Brassicaceae]]
+**Family**: [[Capparidaceae]]
+**Modern family**: [[Capparaceae]] — *Capparidaceae* as circumscribed here is superseded; see [[Capparidaceae]]
 **Authority**: Engler
 **Protologue**: Bot. Jahrb. 7: 335 (1886); PAX & HOFFMANN, in ENGL., Nat. Pflanzenfam., ed. 2, 17 b: 192 (1936); RISSEEUW, Acta Bot. Neerland. 13: 161 (1964)
 
@@ -51,5 +53,6 @@ The genus Buchholzia comprises 2 closely related species restricted to the weste
 
 ## See also
 
-- [[Brassicaceae]]
+- [[Capparidaceae]]
 - [[vol30]]
+- [[Capparaceae]] — where this taxon now belongs

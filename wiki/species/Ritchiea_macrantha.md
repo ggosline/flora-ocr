@@ -3,7 +3,8 @@ type: species
 name: Ritchiea macrantha
 authority: Pax & Gilg
 genus: Ritchiea
-family: Brassicaceae
+family: Capparidaceae
+modern_family: Capparaceae
 vol: 30
 pages: 53-56
 source: sources/Capparidaceae_vol30_paddle
@@ -12,12 +13,13 @@ in_region: true
 habit: "tree"
 habitat: [rocky ground]
 altitude_m: "620"
-tags: [species, generated]
+tags: [species, generated, superseded-circumscription]
 ---
 # *Ritchiea macrantha* Pax & Gilg
 
 **Genus**: [[Ritchiea]]
-**Family**: [[Brassicaceae]]
+**Family**: [[Capparidaceae]]
+**Modern family**: [[Capparaceae]] — *Capparidaceae* as circumscribed here is superseded; see [[Capparidaceae]]
 **Protologue**: Bot. Jahrb. 33: 210 (1903); GILG & BENEDICT, Bot. Jahrb. 53: 180 (1915); HUTCH. & DALZ., FWTA, ed. 1, 1 (1): 89 (1927); PAX & HOFFMANN, in ENGL., Nat. Pflanzenfam., ed. 2, 17 b: 169 (1936); KEAY, FWTA, cd. 2, 1 (1): 91 (1954); KERS, FCAM 29: 108-110 (1987)
 
 ## Description
@@ -59,5 +61,6 @@ De Wilde, Arends & al. 36, Monts de Cristal, km 7 de la piste de Tchimbélé à 
 ## See also
 
 - [[Ritchiea]]
-- [[Brassicaceae]]
+- [[Capparidaceae]]
 - [[vol30]]
+- [[Capparaceae]] — where this taxon now belongs

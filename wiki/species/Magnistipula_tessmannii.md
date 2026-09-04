@@ -3,7 +3,7 @@ type: species
 name: Magnistipula tessmannii
 authority: (Engler) Prance
 genus: Magnistipula
-family: Scytopetalaceae
+family: Chrysobalanaceae
 modern_family: Lecythidaceae subfam. Scytopetaloideae
 vol: 24
 pages: 90-95
@@ -17,7 +17,7 @@ tags: [species, generated, superseded-circumscription]
 # *Magnistipula tessmannii* (Engler) Prance
 
 **Genus**: [[Magnistipula]]
-**Family**: [[Scytopetalaceae]]
+**Family**: [[Chrysobalanaceae]]
 **Modern family**: [[Lecythidaceae]] subfam. Scytopetaloideae — *Scytopetalaceae* as circumscribed here is superseded; see [[Scytopetalaceae]]
 **Protologue**: Bol. Soc. Brot., ser. 2, 40 : 185 (1966); Mendes, Consp. Fl. Angol. 4 : 19 (1970); White, BJBB 46 : 292 (1976)
 
@@ -76,6 +76,6 @@ Le Testu 1333 (type de Parinari ingangense), 1746 (paratype), Inganga, 20 km E T
 ## See also
 
 - [[Magnistipula]]
-- [[Scytopetalaceae]]
+- [[Chrysobalanaceae]]
 - [[vol24]]
 - [[Lecythidaceae]] — where this taxon now belongs

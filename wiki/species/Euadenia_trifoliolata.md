@@ -3,19 +3,21 @@ type: species
 name: Euadenia trifoliolata
 authority: (Vahl ex Thonner) Oliver
 genus: Euadenia
-family: Brassicaceae
+family: Capparidaceae
+modern_family: Capparaceae
 vol: 30
 pages: 39-42
 source: sources/Capparidaceae_vol30_paddle
 countries: [Benin, Cameroon, Gabon, Guinea, Nigeria, Togo]
 in_region: true
 habitat: [rocky ground]
-tags: [species, generated]
+tags: [species, generated, superseded-circumscription]
 ---
 # *Euadenia trifoliolata* (Vahl ex Thonner) Oliver
 
 **Genus**: [[Euadenia]]
-**Family**: [[Brassicaceae]]
+**Family**: [[Capparidaceae]]
+**Modern family**: [[Capparaceae]] — *Capparidaceae* as circumscribed here is superseded; see [[Capparidaceae]]
 **Protologue**: In BENTH. & HOOK. f., Gen. Pl. 1: 969 «trifoliata» (1867); OLIV., FTA 1: 91 (1868); VALLOT, Bull. Soc. Bot. France 29: 234 (1882); PAX, in ENGL., Nat. Pflanzenfam., ed. 1, 3 (2): 228 (1891); PAX & GILG, in ENGL., Nat. Pflanzenfam., ed. 1, 3 (2): 178 (1897); T. DURAND & SCHINZ, Consp. Fl. Afr. 1 (2): 178 (1898); T. & H. DURAND, Syll. Fl. Congo: 33 (1909); GILG & BENEDICT, Bot. Jahrb. 53: 179 (1915); ENGL., Pflanzenw. Afr. 3 (1): 233 (1915); AUBR., FFCI 1: 134 & Pl. 47, fig. 5-10 (1936); PAX & HOFFMANN, in Engl., Nat. Pflanzenfam., ed. 2, 17b: 170 (1936); DALZ., The useful pl. WTA: 21 (1954); A. CHEV., Fl. viv. A.O.F. 1: 184 (1938); ROBERTY, Petite Fl. Ouest-Afr.: 276 (1954); KEAY, FWTA, ed. 2, 1: (1): 93 (1954); IRVINE, Woody pl. Ghana: 49 (1961); KERS, FCAM 29: 72-74 (1987)
 
 ## Description
@@ -61,5 +63,6 @@ Hallé 2653, 15 km au S-O de Makokou, bord de ruisseau sous la forêt (fl., oct.
 ## See also
 
 - [[Euadenia]]
-- [[Brassicaceae]]
+- [[Capparidaceae]]
 - [[vol30]]
+- [[Capparaceae]] — where this taxon now belongs

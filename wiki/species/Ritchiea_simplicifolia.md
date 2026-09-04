@@ -3,18 +3,20 @@ type: species
 name: Ritchiea simplicifolia
 authority: Oliver
 genus: Ritchiea
-family: Brassicaceae
+family: Capparidaceae
+modern_family: Capparaceae
 vol: 30
 pages: 61-65
 source: sources/Capparidaceae_vol30_paddle
 countries: [Cameroon, Gabon]
 in_region: true
-tags: [species, generated]
+tags: [species, generated, superseded-circumscription]
 ---
 # *Ritchiea simplicifolia* Oliver
 
 **Genus**: [[Ritchiea]]
-**Family**: [[Brassicaceae]]
+**Family**: [[Capparidaceae]]
+**Modern family**: [[Capparaceae]] — *Capparidaceae* as circumscribed here is superseded; see [[Capparidaceae]]
 **Protologue**: FTA 1: 100 (1868); T. DURAND & SCHINZ, Consp. Fl. Afr. 1: 177 (1898); GILG, Bot. Jahrb. 33: 206 (1903); GILG & BENEDICT, Bot. Jahrb. 53: 183 (1915); GILG, in ENGL., Pflanzenw. Afr. 3 (1): 231 (1915); HUTCH. & DALZ., FWTA, ed. 1, 1 (1): 86 (1927); PAX & HOFFMANN, in ENGL., Nat. Pflanzenfam., ed. 2, 17 b: 170 (1936); KEAY, FWTA, ed. 2, 1 (1): 91 (1954); DE WOLF, Kirkia 1: 98, p.p. (1961); KERS, FCAM 29: 99 (1986)
 
 ## Description
@@ -60,5 +62,6 @@ KEY TO THE VARIETIES
 ## See also
 
 - [[Ritchiea]]
-- [[Brassicaceae]]
+- [[Capparidaceae]]
 - [[vol30]]
+- [[Capparaceae]] — where this taxon now belongs

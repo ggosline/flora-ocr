@@ -3,7 +3,7 @@ type: species
 name: Lycopodium phlegmaria
 authority: Linné
 genus: Lycopodium
-family: Pteridophytes
+family: Salviniaceae
 vol: 08
 pages: 13-14
 source: sources/Salviniaceae_vol08_paddle
@@ -13,8 +13,7 @@ tags: [species, generated]
 # *Lycopodium phlegmaria* Linné
 
 **Genus**: [[Lycopodium]]
-**Family**: [[Pteridophytes]]
-
+**Family**: [[Salviniaceae]]
 ## Synonyms
 
 - Urostachys phlegmaria (L.) Hert., Brot. Archiv. 3 : 17 (1923).
@@ -38,5 +37,5 @@ Le Testu : 8900, bords de la Limboumba, N. du Gabon.
 ## See also
 
 - [[Lycopodium]]
-- [[Pteridophytes]]
+- [[Salviniaceae]]
 - [[vol08]]

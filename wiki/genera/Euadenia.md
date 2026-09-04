@@ -2,16 +2,18 @@
 type: genus
 name: Euadenia
 authority: Oliver
-family: Brassicaceae
+family: Capparidaceae
+modern_family: Capparaceae
 species_in_region: 3
 treatments:
   - vol: 30
     source: sources/Capparidaceae_vol30_paddle
-tags: [genus, generated]
+tags: [genus, generated, superseded-circumscription]
 ---
 # *Euadenia* Oliver
 
-**Family**: [[Brassicaceae]]
+**Family**: [[Capparidaceae]]
+**Modern family**: [[Capparaceae]] — *Capparidaceae* as circumscribed here is superseded; see [[Capparidaceae]]
 **Authority**: Oliver
 
 ## Diagnosis
@@ -44,5 +46,6 @@ Inflorescence in short or elongate racemes, rigidly erect at the apex of the mai
 
 ## See also
 
-- [[Brassicaceae]]
+- [[Capparidaceae]]
 - [[vol30]]
+- [[Capparaceae]] — where this taxon now belongs

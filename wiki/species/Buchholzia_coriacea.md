@@ -3,18 +3,20 @@ type: species
 name: Buchholzia coriacea
 authority: Engler
 genus: Buchholzia
-family: Brassicaceae
+family: Capparidaceae
+modern_family: Capparaceae
 vol: 30
 pages: 17-18
 source: sources/Capparidaceae_vol30_paddle
 countries: [Gabon, Guinea, Guinea-Bissau]
 in_region: true
-tags: [species, generated]
+tags: [species, generated, superseded-circumscription]
 ---
 # *Buchholzia coriacea* Engler
 
 **Genus**: [[Buchholzia]]
-**Family**: [[Brassicaceae]]
+**Family**: [[Capparidaceae]]
+**Modern family**: [[Capparaceae]] — *Capparidaceae* as circumscribed here is superseded; see [[Capparidaceae]]
 **Protologue**: Bot. Jahrb. 7: 335-336 (1886); PAX, in ENGL., Nat. Pflanzenfam., ed. 1, 3 (2): 1891; Bot. Jahrb. 14: 301, Taf. 4 (1892); T. DURAND & SCHINZ, Consp. Fl. Afr. 1: 173 (1898); T. & H. DURAND, Syll. Fl. Congo: 31 (1909); GILG & BENEDICT, Bot. Jahrb. 53: 213 (1915); ENGL., Pflanzenf. Afr. 3 (1): 243, 244, fig. 159 (1915); PAX & HOFFMANN, in ENGL., Nat. Pflanzenfam., ed. 2, 17 b: 192-193 (1936); HUTCH. & DALZ, FWTA 1: 89 (1927); PAX & HOFFMANN, in ENGL., Nat. Pflanzenfam., ed. 2, 17 b: 192-193 (1936); AUBR., FFCI 1: 132, fig. 46 (1936); KENNEDY, Forest Fl. S. Nigeria: 23 (1936); A. CHEV., Fl. viv. A.O.F. 1: 184-185 (1938); KERHARO & BOUQUET, Pl. méd. tox. Côte-d'Ivoire - Haute-Volta: 28 (1950); NORMAND, Atlas Bois, Côté-d'Ivoire 1: 90-91, pl. 20 (1950); KEAY, FWTA, ed. 2, 1 (1): 93 (1954); ROBERTY, Petite Fl. Ouest-Afr.: 278 (1954); DALZ, The useful pl. WTA: 19 (1955); KEAY & AL., Nigerian trees 1: 79 (1960); IRVINE, Woody pl. Ghana: 44 (1961); RISSEEUW, Acta Bot. Neerland. 13: 163-169 (1964); KERS, FCAM 29: 15-18 (1987)
 
 ## Description
@@ -50,5 +52,6 @@ Soyaux 457, région de Libreville, Ferme Sibang, B.
 ## See also
 
 - [[Buchholzia]]
-- [[Brassicaceae]]
+- [[Capparidaceae]]
 - [[vol30]]
+- [[Capparaceae]] — where this taxon now belongs

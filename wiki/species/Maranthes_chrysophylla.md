@@ -3,7 +3,7 @@ type: species
 name: Maranthes chrysophylla
 authority: (Oliver) Prance
 genus: Maranthes
-family: Scytopetalaceae
+family: Chrysobalanaceae
 modern_family: Lecythidaceae subfam. Scytopetaloideae
 vol: 24
 pages: 102-107
@@ -17,7 +17,7 @@ tags: [species, generated, superseded-circumscription]
 # *Maranthes chrysophylla* (Oliver) Prance
 
 **Genus**: [[Maranthes]]
-**Family**: [[Scytopetalaceae]]
+**Family**: [[Chrysobalanaceae]]
 **Modern family**: [[Lecythidaceae]] subfam. Scytopetaloideae — *Scytopetalaceae* as circumscribed here is superseded; see [[Scytopetalaceae]]
 
 ## Description
@@ -95,6 +95,6 @@ akoa (bakélé); ekoa, evess more, evzéó moro, mabamana, mebaméné, mebamenen
 ## See also
 
 - [[Maranthes]]
-- [[Scytopetalaceae]]
+- [[Chrysobalanaceae]]
 - [[vol24]]
 - [[Lecythidaceae]] — where this taxon now belongs

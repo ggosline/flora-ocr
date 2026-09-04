@@ -3,7 +3,7 @@ type: species
 name: Acoa lehmbachii
 authority: Engler
 genus: Acoa
-family: Scytopetalaceae
+family: Chrysobalanaceae
 modern_family: Lecythidaceae subfam. Scytopetaloideae
 vol: 24
 pages: 42-46
@@ -16,7 +16,7 @@ tags: [species, generated, superseded-circumscription]
 # *Acoa lehmbachii* Engler
 
 **Genus**: [[Acioa]]
-**Family**: [[Scytopetalaceae]]
+**Family**: [[Chrysobalanaceae]]
 **Modern family**: [[Lecythidaceae]] subfam. Scytopetaloideae — *Scytopetalaceae* as circumscribed here is superseded; see [[Scytopetalaceae]]
 **Protologue**: Bot. Jahrb. 26 : 379 (1899); Pflanzenw. Afr. 3 (1) : 311, tab. 200, fig. A-D (1915); DE WILD., BJBB 7 : 201 (1920)
 
@@ -71,6 +71,6 @@ Bates 855, Bitye, 50 km ENE Sangmélima (fl.) (BM et photo, P); 1375, 1395, ibid
 ## See also
 
 - [[Acioa]]
-- [[Scytopetalaceae]]
+- [[Chrysobalanaceae]]
 - [[vol24]]
 - [[Lecythidaceae]] — where this taxon now belongs

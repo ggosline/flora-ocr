@@ -3,7 +3,8 @@ type: species
 name: Cleome iberidella
 authority: Welwitsch ex Oliver
 genus: Cleome
-family: Brassicaceae
+family: Capparidaceae
+modern_family: Cleomaceae
 vol: 30
 pages: 26-29
 source: sources/Capparidaceae_vol30_paddle
@@ -11,12 +12,13 @@ countries: [Angola, Cameroon, Democratic Republic of the Congo, Gabon, Guinea, N
 in_region: true
 habitat: [rocky ground]
 altitude_m: "600"
-tags: [species, generated]
+tags: [species, generated, superseded-circumscription]
 ---
 # *Cleome iberidella* Welwitsch ex Oliver
 
 **Genus**: [[Cleome]]
-**Family**: [[Brassicaceae]]
+**Family**: [[Capparidaceae]]
+**Modern family**: [[Cleomaceae]] — *Capparidaceae* as circumscribed here is superseded; see [[Capparidaceae]]
 **Protologue**: FTA 1: 79 (1868); HiERN, Cat. Welw. Afr. pl. 1: 28 (1896), p.p.; T. DURANT & SCHINZ, Consp. Pl. Afr. 1 (2): 159 (1898); GILG & BENEDICT, Bot. Jahrb. 53: 160 (1915), p.p.; ENGL., Pflanzenw. Afr. 3 (1): 288 (1915); EXELL, Journ. Bot. 64, Suppl.: 15 (1926) & 73, Suppl.: 11 (1935); PAX & HOFFMANN, in ENGLER, Nat. Pflanzenfam, ed. 2, 17b: 213 (1936); EXELL & MENDONCA, Consp. Fl. Angol. 1 (1): 54 (1937), p.p.; ROESSLER, Prodr. Fl. S.W. Africa 47: 10 (1966); COOD & KERS, Fl. Southern Afr. 13:129 (1970); KERS, FCAM 20:60 (1987)
 
 ## Description
@@ -62,5 +64,6 @@ Breteler & De Wilde 764, km 33, piste Lastoursville-Moanda (fl. & fr., sept.), W
 ## See also
 
 - [[Cleome]]
-- [[Brassicaceae]]
+- [[Capparidaceae]]
 - [[vol30]]
+- [[Cleomaceae]] — where this taxon now belongs

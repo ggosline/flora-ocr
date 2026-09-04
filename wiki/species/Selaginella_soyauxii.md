@@ -3,7 +3,7 @@ type: species
 name: Selaginella soyauxii
 authority: Hieronymus (P.L. III)
 genus: Selaginella
-family: Pteridophytes
+family: Salviniaceae
 vol: 08
 pages: 27-29
 source: sources/Salviniaceae_vol08_paddle
@@ -14,8 +14,7 @@ tags: [species, generated]
 # *Selaginella soyauxii* Hieronymus (P.L. III)
 
 **Genus**: [[Selaginella]]
-**Family**: [[Pteridophytes]]
-
+**Family**: [[Salviniaceae]]
 ## Description
 
 — Hier., in Engler et Prantl, Natur. Pflanzenfam. I (4): 697 (1901).
@@ -45,5 +44,5 @@ Soyaux : 419, ferme de Sibang, près de la Mondah.
 ## See also
 
 - [[Selaginella]]
-- [[Pteridophytes]]
+- [[Salviniaceae]]
 - [[vol08]]

@@ -3,7 +3,7 @@ type: species
 name: Acioa floribunda
 authority: (Welwitsch) Exell
 genus: Acioa
-family: Scytopetalaceae
+family: Chrysobalanaceae
 modern_family: Lecythidaceae subfam. Scytopetaloideae
 vol: 24
 pages: 32-38
@@ -17,7 +17,7 @@ tags: [species, generated, superseded-circumscription]
 # *Acioa floribunda* (Welwitsch) Exell
 
 **Genus**: [[Acioa]]
-**Family**: [[Scytopetalaceae]]
+**Family**: [[Chrysobalanaceae]]
 **Modern family**: [[Lecythidaceae]] subfam. Scytopetaloideae — *Scytopetalaceae* as circumscribed here is superseded; see [[Scytopetalaceae]]
 **Protologue**: J. of Bot. 66, Suppl. Polypet. : 161 (1928); HAUM., FCB 3 : 51 (1952); MENDES, Consp. Fl. Angol. 4 : 20 (1970)
 
@@ -75,6 +75,6 @@ Le Testu 9130, Abam, 25 km WNW Oyem (fl., mai).
 ## See also
 
 - [[Acioa]]
-- [[Scytopetalaceae]]
+- [[Chrysobalanaceae]]
 - [[vol24]]
 - [[Lecythidaceae]] — where this taxon now belongs

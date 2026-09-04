@@ -3,19 +3,21 @@ type: species
 name: Ritchiea capparoides
 authority: (Andrews) Britten
 genus: Ritchiea
-family: Brassicaceae
+family: Capparidaceae
+modern_family: Capparaceae
 vol: 30
 pages: 65-72
 source: sources/Capparidaceae_vol30_paddle
 countries: [Cameroon, Gabon, Nigeria]
 in_region: true
 habitat: [coastal]
-tags: [species, generated]
+tags: [species, generated, superseded-circumscription]
 ---
 # *Ritchiea capparoides* (Andrews) Britten
 
 **Genus**: [[Ritchiea]]
-**Family**: [[Brassicaceae]]
+**Family**: [[Capparidaceae]]
+**Modern family**: [[Capparaceae]] — *Capparidaceae* as circumscribed here is superseded; see [[Capparidaceae]]
 **Protologue**: Journ. Bot. 55: 279 (1917); PAX & HOFFMANN, in Engl., Nat. Pflanzenfam., ed. 2, 17 b: 169 (1936); KEAY, FWTA, ed. 2, 1 (1): 92 (1954); BULLOCK, KEW Bull. 1958: 100 (1958); IRVINE, Woody Pl. Ghana: 51 (1961); DALE & GREENWAY, KTS: 128 (1961); DE WOLF, Kirkia 1: 95 (1961); ELFFERS & AL, FTEA: 23 (1964); WILD & GONCALVES, FL. Mocamb. 12: 62 (1973); BERHAUT, FL. ill. Sénégal 2: 299 & fig. (1974); KERS, FCAM 29: 113 (1987)
 
 ## Description
@@ -99,5 +101,6 @@ Le Testu 7132, Lastoursville (fl., avril), BM, P; 8267, Didati (fl., août), BM,
 ## See also
 
 - [[Ritchiea]]
-- [[Brassicaceae]]
+- [[Capparidaceae]]
 - [[vol30]]
+- [[Capparaceae]] — where this taxon now belongs

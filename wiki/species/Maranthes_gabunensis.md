@@ -3,7 +3,7 @@ type: species
 name: Maranthes gabunensis
 authority: (Engler) Prance
 genus: Maranthes
-family: Scytopetalaceae
+family: Chrysobalanaceae
 modern_family: Lecythidaceae subfam. Scytopetaloideae
 vol: 24
 pages: 107-110
@@ -16,7 +16,7 @@ tags: [species, generated, superseded-circumscription]
 # *Maranthes gabunensis* (Engler) Prance
 
 **Genus**: [[Maranthes]]
-**Family**: [[Scytopetalaceae]]
+**Family**: [[Chrysobalanaceae]]
 **Modern family**: [[Lecythidaceae]] subfam. Scytopetaloideae — *Scytopetalaceae* as circumscribed here is superseded; see [[Scytopetalaceae]]
 **Protologue**: Bol. Soc. Brot., ser. 2, 40 : 184 (1966); Mendes, Consp. Fl. Angol. 4 : 15 (1970); White, BJBB 46 : 299 (1976)
 
@@ -107,6 +107,6 @@ Touzet 99, Nkoulounga, 55 km NE Libreville (fl.).
 ## See also
 
 - [[Maranthes]]
-- [[Scytopetalaceae]]
+- [[Chrysobalanaceae]]
 - [[vol24]]
 - [[Lecythidaceae]] — where this taxon now belongs

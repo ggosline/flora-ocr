@@ -3,7 +3,7 @@ type: species
 name: Rothmannia whitfieldii
 authority: (Lindl.) Dandy
 genus: Rothmannia
-family: Familledesrubiaceae
+family: Rubiaceae
 vol: 17
 pages: 254-257
 source: sources/Rubiaceae_vol17_paddle
@@ -15,7 +15,7 @@ tags: [species, generated]
 # *Rothmannia whitfieldii* (Lindl.) Dandy
 
 **Genus**: [[Rothmannia]]
-**Family**: [[Familledesrubiaceae]]
+**Family**: [[Rubiaceae]]
 **Protologue**: Dandy in F. W. Andrews, Fl. Pl. A.-E. Sud. 2:461, fig. 165 (1952)
 
 ## Synonyms
@@ -90,5 +90,5 @@ G. Touzet 150, Nkoulounga (vieille fl. et fr. juin). Walker s.n., env. de Sindar
 ## See also
 
 - [[Rothmannia]]
-- [[Familledesrubiaceae]]
+- [[Rubiaceae]]
 - [[vol17]]

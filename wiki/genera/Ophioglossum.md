@@ -2,7 +2,7 @@
 type: genus
 name: Ophioglossum
 authority: Linné
-family: Pteridophytes
+family: Salviniaceae
 species_in_region: 2
 treatments:
   - vol: 08
@@ -11,7 +11,7 @@ tags: [genus, generated]
 ---
 # *Ophioglossum* Linné
 
-**Family**: [[Pteridophytes]]
+**Family**: [[Salviniaceae]]
 **Authority**: Linné
 
 ## Diagnosis
@@ -48,5 +48,5 @@ FLORA OF GABON
 
 ## See also
 
-- [[Pteridophytes]]
+- [[Salviniaceae]]
 - [[vol08]]

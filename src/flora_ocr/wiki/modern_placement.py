@@ -27,8 +27,8 @@ FRONTMATTER_RE = re.compile(r"\A---\n(.*?)\n---\n", re.S)
 PLACEMENT_RE = re.compile(r'^modern_placement:\s*"?(.+?)"?\s*$', re.M)
 # A row of the family page's genus table: | [[Oncoba]] | 9 | Salicaceae |
 GENUS_ROW_RE = re.compile(
-    r"^\|\s*\[\[([A-Z][A-Za-z\- ]+?)(?:\\?\|[^\]]*)?\]\]\s*\|[^|]*\|\s*\*{0,2}([^|*]+?)\*{0,2}\s*\|",
-    re.M)
+    r"^\|\s*\[\[([A-Z][A-Za-z\- ]+?)(?:\\?\|[^\]]*)?\]\]\s*\|[^|]*\|\s*"
+    r"(?:\[\[)?\*{0,2}([^|*\]]+?)\*{0,2}(?:\]\])?\s*\|", re.M)
 FIELD_RE = re.compile(r"^{field}:\s*(.+?)\s*$", re.M)
 # "Malvaceae subfam. Bombacoideae" links to Malvaceae; a dismantled family has
 # no single target and is only ever resolved per genus.

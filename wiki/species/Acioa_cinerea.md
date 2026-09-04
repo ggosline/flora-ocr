@@ -3,7 +3,7 @@ type: species
 name: Acioa cinerea
 authority: Engler ex De Wildeman
 genus: Acioa
-family: Scytopetalaceae
+family: Chrysobalanaceae
 modern_family: Lecythidaceae subfam. Scytopetaloideae
 vol: 24
 pages: 24-26
@@ -16,7 +16,7 @@ tags: [species, generated, superseded-circumscription]
 # *Acioa cinerea* Engler ex De Wildeman
 
 **Genus**: [[Acioa]]
-**Family**: [[Scytopetalaceae]]
+**Family**: [[Chrysobalanaceae]]
 **Modern family**: [[Lecythidaceae]] subfam. Scytopetaloideae — *Scytopetalaceae* as circumscribed here is superseded; see [[Scytopetalaceae]]
 **Protologue**: BJBB 7 : 211 (1920); ENGL., Pflanzenw. Afr. 3 (1) : 311, tab. 199 (1915), nom. nud
 
@@ -57,6 +57,6 @@ Zenker 2903 (fl.) (B, BR, K, P, Z); 3210 (stér.) (BR, K, P, sous le nom de « M
 ## See also
 
 - [[Acioa]]
-- [[Scytopetalaceae]]
+- [[Chrysobalanaceae]]
 - [[vol24]]
 - [[Lecythidaceae]] — where this taxon now belongs

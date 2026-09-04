@@ -3,7 +3,7 @@ type: species
 name: Ophioglossum thomasii
 authority: Clausen (P.L. VI)
 genus: Ophioglossum
-family: Pteridophytes
+family: Salviniaceae
 vol: 08
 pages: 37-38
 source: sources/Salviniaceae_vol08_paddle
@@ -12,8 +12,7 @@ tags: [species, generated]
 # *Ophioglossum thomasii* Clausen (P.L. VI)
 
 **Genus**: [[Ophioglossum]]
-**Family**: [[Pteridophytes]]
-
+**Family**: [[Salviniaceae]]
 ## Description
 
 — Mem. Torrey Bot. Club 19 : 152 (1938). — Tard., Mém. IFAN 28 : 22 (1953).
@@ -43,5 +42,5 @@ Famille très bien délimitée, comprenant environ 200 espèces tropicales ou su
 ## See also
 
 - [[Ophioglossum]]
-- [[Pteridophytes]]
+- [[Salviniaceae]]
 - [[vol08]]

@@ -2,16 +2,18 @@
 type: genus
 name: Ritchiea
 authority: R. Brown ex G. Don
-family: Brassicaceae
+family: Capparidaceae
+modern_family: Capparaceae
 species_in_region: 5
 treatments:
   - vol: 30
     source: sources/Capparidaceae_vol30_paddle
-tags: [genus, generated]
+tags: [genus, generated, superseded-circumscription]
 ---
 # *Ritchiea* R. Brown ex G. Don
 
-**Family**: [[Brassicaceae]]
+**Family**: [[Capparidaceae]]
+**Modern family**: [[Capparaceae]] — *Capparidaceae* as circumscribed here is superseded; see [[Capparidaceae]]
 **Authority**: R. Brown ex G. Don
 **Protologue**: Gen. Syst. 1: 276 (1831), «Richiea»; PAX & HOFFMANN, in ENGL., Nat. Pflanzenfam., ed. 2, 17b: 167 (1936); DE WOLF, Kirkia 1: 90 (1961); KERS, FCAM 29: 95 (1987)
 
@@ -51,5 +53,6 @@ equal or nearly so, deciduous, leaving neat scars on the torus after their fall;
 
 ## See also
 
-- [[Brassicaceae]]
+- [[Capparidaceae]]
 - [[vol30]]
+- [[Capparaceae]] — where this taxon now belongs

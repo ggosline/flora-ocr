@@ -3,7 +3,7 @@ type: species
 name: Acanthonema diandrum
 authority: (Engler) B.L. Burtt
 genus: Acanthonema
-family: Bignoniaceae
+family: Gesneriaceae
 vol: 27
 pages: 17-18
 source: sources/Gesneriaceae_vol27_paddle
@@ -13,7 +13,7 @@ tags: [species, generated]
 # *Acanthonema diandrum* (Engler) B.L. Burtt
 
 **Genus**: [[Acanthonema]]
-**Family**: [[Bignoniaceae]]
+**Family**: [[Gesneriaceae]]
 **Protologue**: Bull. Mus. natn. Hist. nat. Paris, 4° sér., 3, section B, Adansonia, 4: 416 (1982); Fl. Cam. 27: 21 (1984)
 
 ## Synonyms
@@ -45,5 +45,5 @@ Jacques-Félix 5513, Oyem, Woleu-Ntem (fl., nov.). Le Testu 8959, Oyem, Woleu-Nt
 ## See also
 
 - [[Acanthonema]]
-- [[Bignoniaceae]]
+- [[Gesneriaceae]]
 - [[vol27]]

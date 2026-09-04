@@ -3,7 +3,7 @@ type: species
 name: Licania elaeosperma
 authority: (Mildbraed) Prance & F. White
 genus: Licania
-family: Scytopetalaceae
+family: Chrysobalanaceae
 modern_family: Lecythidaceae subfam. Scytopetaloideae
 vol: 24
 pages: 70-73
@@ -17,7 +17,7 @@ tags: [species, generated, superseded-circumscription]
 # *Licania elaeosperma* (Mildbraed) Prance & F. White
 
 **Genus**: [[Licania]]
-**Family**: [[Scytopetalaceae]]
+**Family**: [[Chrysobalanaceae]]
 **Modern family**: [[Lecythidaceae]] subfam. Scytopetaloideae — *Scytopetalaceae* as circumscribed here is superseded; see [[Scytopetalaceae]]
 **Protologue**: BJBB 46:280 (1976)
 
@@ -86,6 +86,6 @@ Pomeroy 217, R. Okana, 15 km E Mitzic (fl., août).
 ## See also
 
 - [[Licania]]
-- [[Scytopetalaceae]]
+- [[Chrysobalanaceae]]
 - [[vol24]]
 - [[Lecythidaceae]] — where this taxon now belongs
