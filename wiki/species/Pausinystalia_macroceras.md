@@ -68,6 +68,10 @@ A. Walker : A, Saint-Martin (fl. janv.).
 
 ![Pausinstalia macroceras](../sources/Rubiaceae_vol12_paddle/figures/fig_016_p0075.png)
 
+## Synonyms
+
+- Corynanthe gabonensis A. Chev., Bois du Gabon : 222 (1916).
+
 ## Notes
 
 <!-- TODO:notes -->

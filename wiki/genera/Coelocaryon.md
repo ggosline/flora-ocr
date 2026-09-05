@@ -19,7 +19,7 @@ tags: [genus, generated, stub]
 
 | Species | Vol | Pages |
 |---------|-----|-------|
-| [[Colecaryon_preussii\|*C. preussii*]] | 10 | 96–99 |
+| [[Coelocaryon_preussii\|*C. preussii*]] | 10 | 96–99 |
 
 ## Notes
 

@@ -1330,7 +1330,7 @@
 - [[Zingiber|Zingiber]] — [[Zingiberaceae]]
 - [[Zornia|Zornia]] — [[Leguminosae]]
 
-## Species (3835)
+## Species (3773)
 
 - [[Abelmoschus_caillei|Abelmoschus caillei]] — herb
 - [[Abelmoschus_esculentus|Abelmoschus esculentus]] — herb
@@ -1368,9 +1368,6 @@
 - [[Acioa_pallescens|Acioa pallescens]] — tree
 - [[Acioa_pierrei|Acioa pierrei]] — shrub
 - [[Acioa_staudti|Acioa staudti]] — tree
-- [[Acoa_bellayana|Acoa bellayana]] — shrub
-- [[Acoa_lehmbachii|Acoa lehmbachii]] — tree
-- [[Acoa_staudti|Acoa staudti]] — tree
 - [[Acridocarpus_camerounensis|Acridocarpus camerounensis]] — liana
 - [[Acridocarpus_longifolius|Acridocarpus longifolius]] — species page
 - [[Acridocarpus_macrocalyx|Acridocarpus macrocalyx]] — liana
@@ -1514,14 +1511,6 @@
 - [[Amischotolype_scandens|Amischotolype scandens]] — species page
 - [[Amischotolype_tenuis|Amischotolype tenuis]] — herb
 - [[Ampelocissus_cavicaulis|Ampelocissus cavicaulis]] — herb
-- [[Amphibemma_ciliatum|Amphibemma ciliatum]] — shrub
-- [[Amphibemma_cuneatum|Amphibemma cuneatum]] — species page
-- [[Amphibemma_gossweileri|Amphibemma gossweileri]] — species page
-- [[Amphibemma_hallei|Amphibemma hallei]] — shrub
-- [[Amphibemma_heterophyllum|Amphibemma heterophyllum]] — shrub
-- [[Amphibemma_molle|Amphibemma molle]] — shrub
-- [[Amphibemma_setosum|Amphibemma setosum]] — shrub
-- [[Amphibemma_soyauxii|Amphibemma soyauxii]] — shrub
 - [[Amphiblemma_ciliatum|Amphiblemma ciliatum]] — shrub
 - [[Amphiblemma_cuneatum|Amphiblemma cuneatum]] — species page
 - [[Amphiblemma_gossweileri|Amphiblemma gossweileri]] — species page
@@ -1807,9 +1796,6 @@
 - [[Beilschmiedia_versicolor|Beilschmiedia versicolor]] — tree
 - [[Beilschmiedia_yangambiensis|Beilschmiedia yangambiensis]] — tree
 - [[Beirnaertia_cabindensis|Beirnaertia cabindensis]] — liana
-- [[Beischmiedia_anacardioides|Beischmiedia anacardioides]] — tree
-- [[Beischmiedia_fulva|Beischmiedia fulva]] — tree
-- [[Beischmiedia_minutiflora|Beischmiedia minutiflora]] — tree
 - [[Belvisia_spicata|Belvisia spicata]] — species page
 - [[Bequaertia_mucronata|Bequaertia mucronata]] — species page
 - [[Berlinia_auriculata|Berlinia auriculata]] — shrub
@@ -2098,7 +2084,6 @@
 - [[Cheirostylis_divina|Cheirostylis divina]] — species page
 - [[Cheirostylis_lepida|Cheirostylis lepida]] — species page
 - [[Chenopodium_ambrosioides|Chenopodium ambrosioides]] — herb
-- [[Chestis_uncata|Chestis uncata]] — liana
 - [[Chlamydocardia_buettneri|Chlamydocardia buettneri]] — species page
 - [[Chlamydocarya_anhydathoda|Chlamydocarya anhydathoda]] — liana
 - [[Chlamydocarya_soyauxii|Chlamydocarya soyauxii]] — liana
@@ -2232,7 +2217,6 @@
 - [[Cola_urceolata|Cola urceolata]] — shrub
 - [[Cola_verticillata|Cola verticillata]] — species page
 - [[Coleactina_papalis|Coleactina papalis]] — shrub
-- [[Colecaryon_preussii|Colecaryon preussii]] — tree
 - [[Coleotrype_laurentii|Coleotrype laurentii]] — herb
 - [[Coleus_bojeri|Coleus bojeri]] — herb
 - [[Coleus_calaminthoides|Coleus calaminthoides]] — herb
@@ -2577,7 +2561,6 @@
 - [[Dicellandra_barteri|Dicellandra barteri]] — species page
 - [[Dicellandra_descoingsii|Dicellandra descoingsii]] — shrub
 - [[Dicellandra_glanduligera|Dicellandra glanduligera]] — species page
-- [[Diceranolepis_disticha|Diceranolepis disticha]] — species page
 - [[Diceratostele_gabonensis|Diceratostele gabonensis]] — species page
 - [[Dichaetanthera_africana|Dichaetanthera africana]] — tree
 - [[Dichaetanthera_corymbosa|Dichaetanthera corymbosa]] — tree
@@ -2635,9 +2618,6 @@
 - [[Dichapetalum_unguiculatum|Dichapetalum unguiculatum]] — species page
 - [[Dichapetalum_witianum|Dichapetalum witianum]] — liana
 - [[Dichapetalum_zenkeri|Dichapetalum zenkeri]] — species page
-- [[Dicipltera_elliotii|Dicipltera elliotii]] — species page
-- [[Dicipltera_obanensis|Dicipltera obanensis]] — species page
-- [[Dicipltera_verticillata|Dicipltera verticillata]] — species page
 - [[Dicliptera_elliotii|Dicliptera elliotii]] — species page
 - [[Dicliptera_obanensis|Dicliptera obanensis]] — species page
 - [[Dicliptera_ocymoides|Dicliptera ocymoides]] — species page
@@ -2662,7 +2642,6 @@
 - [[Didymosalpinx_konguensis|Didymosalpinx konguensis]] — shrub
 - [[Didymosalpinx_lanciloba|Didymosalpinx lanciloba]] — shrub
 - [[Dielsantha_galeopsoides|Dielsantha galeopsoides]] — herb
-- [[Dietyandra_involucrata|Dietyandra involucrata]] — shrub
 - [[Digitaria_hackelii|Digitaria hackelii]] — herb
 - [[Digitaria_horizontalis|Digitaria horizontalis]] — species page
 - [[Digitaria_longiflora|Digitaria longiflora]] — species page
@@ -3158,7 +3137,6 @@
 - [[Hetaeria_mannii|Hetaeria mannii]] — species page
 - [[Hetaeria_tetraptera|Hetaeria tetraptera]] — species page
 - [[Heteranthera_callifolia|Heteranthera callifolia]] — herb
-- [[Heteranthocia_guineensis|Heteranthocia guineensis]] — species page
 - [[Heteranthoecia_guineensis|Heteranthoecia guineensis]] — species page
 - [[Heteropteris_leona|Heteropteris leona]] — shrub
 - [[Heterostylie_entre|Heterostylie entre]] — species page
@@ -3220,7 +3198,6 @@
 - [[Hymenocardia_acida|Hymenocardia acida]] — tree
 - [[Hymenocardia_ulmoides|Hymenocardia ulmoides]] — tree
 - [[Hymenodictyon_biafranum|Hymenodictyon biafranum]] — tree
-- [[Hymenodietyon_biafranum|Hymenodietyon biafranum]] — tree
 - [[Hymenophyllum_hirsutum|Hymenophyllum hirsutum]] — herb
 - [[Hymenophyllum_kuhnii|Hymenophyllum kuhnii]] — species page
 - [[Hymenophyllum_splendidum|Hymenophyllum splendidum]] — species page
@@ -3237,14 +3214,6 @@
 - [[Hyparrhenia_lecomtei|Hyparrhenia lecomtei]] — species page
 - [[Hyparrhenia_rufa|Hyparrhenia rufa]] — herb
 - [[Hyparrhenia_welwitschii|Hyparrhenia welwitschii]] — species page
-- [[Hyperrhenia_cyanescens|Hyperrhenia cyanescens]] — species page
-- [[Hyperrhenia_diplandra|Hyperrhenia diplandra]] — species page
-- [[Hyperrhenia_dissoluta|Hyperrhenia dissoluta]] — species page
-- [[Hyperrhenia_familiaris|Hyperrhenia familiaris]] — species page
-- [[Hyperrhenia_filipendula|Hyperrhenia filipendula]] — species page
-- [[Hyperrhenia_lecomtei|Hyperrhenia lecomtei]] — species page
-- [[Hyperrhenia_rufa|Hyperrhenia rufa]] — herb
-- [[Hyperrhenia_welwitschii|Hyperrhenia welwitschii]] — species page
 - [[Hyphaene_guineensis|Hyphaene guineensis]] — tree
 - [[Hypodaphnis_zenkeri|Hypodaphnis zenkeri]] — tree
 - [[Hypoestes_aristata|Hypoestes aristata]] — species page
@@ -3450,7 +3419,6 @@
 - [[Leersia_hexandra|Leersia hexandra]] — herb
 - [[Lemna_aequinoctialis|Lemna aequinoctialis]] — species page
 - [[Leonardendron_gabunense|Leonardendron gabunense]] — species page
-- [[Leonardoa_bequaertii|Leonardoa bequaertii]] — tree
 - [[Leonardoxa_africana|Leonardoxa africana]] — shrub
 - [[Leonardoxa_bequaertii|Leonardoxa bequaertii]] — tree
 - [[Leonotis_nepetifolia|Leonotis nepetifolia]] — herb
@@ -3523,7 +3491,6 @@
 - [[Loeseneriella_crenata|Loeseneriella crenata]] — species page
 - [[Loeseneriella_iotricha|Loeseneriella iotricha]] — species page
 - [[Loeseneriella_yaundina|Loeseneriella yaundina]] — liana
-- [[Loesnera_gabonensis|Loesnera gabonensis]] — tree
 - [[Lomariopsis_hederacea|Lomariopsis hederacea]] — species page
 - [[Lomariopsis_palustris|Lomariopsis palustris]] — species page
 - [[Lomariopsis_rossii|Lomariopsis rossii]] — species page
@@ -3548,7 +3515,6 @@
 - [[Ludwigia_octovalvis|Ludwigia octovalvis]] — herb
 - [[Ludwigia_stenorraphe|Ludwigia stenorraphe subsp. stenorraphe]] — shrub
 - [[Luffa_aegyptiaca|Luffa aegyptiaca]] — herb
-- [[Lvchnodiscus_brevibracteatus|Lvchnodiscus brevibracteatus]] — tree
 - [[Lychnodiscus_brevibracteatus|Lychnodiscus brevibracteatus]] — tree
 - [[Lychnodiscus_grandifolius|Lychnodiscus grandifolius]] — tree
 - [[Lychnodiscus_papillosus|Lychnodiscus papillosus]] — tree
@@ -3587,8 +3553,6 @@
 - [[Malouetia_mildbraedii|Malouetia mildbraedii]] — tree
 - [[Mammea_africana|Mammea africana]] — tree
 - [[Mangifera_indica|Mangifera indica]] — tree
-- [[Manikara_fouilloyana|Manikara fouilloyana]] — tree
-- [[Manikara_microphylla|Manikara microphylla]] — shrub
 - [[Manilkara_fouilloyana|Manilkara fouilloyana]] — tree
 - [[Manilkara_lacera|Manilkara lacera]] — tree
 - [[Manilkara_le-testui|Manilkara le-]] — species page
@@ -3623,7 +3587,6 @@
 - [[Mapania_sylvatica|Mapania sylvatica]] — herb
 - [[Mapania_testui|Mapania testui]] — herb
 - [[Maranta_arundinacea|Maranta arundinacea]] — herb
-- [[Marantachloa_congensis|Marantachloa congensis]] — herb
 - [[Maranthes_aubrevillei|Maranthes aubrevillei]] — tree
 - [[Maranthes_chrysophylla|Maranthes chrysophylla]] — tree
 - [[Maranthes_gabunensis|Maranthes gabunensis]] — tree
@@ -3631,7 +3594,6 @@
 - [[Maranthes_kerstingii|Maranthes kerstingii]] — tree
 - [[Maranthes_polyandra|Maranthes polyandra]] — species page
 - [[Maranthes_sanagensis|Maranthes sanagensis]] — tree
-- [[Maranthochloa_holostachya|Maranthochloa holostachya]] — herb
 - [[Marantochloa_congensis|Marantochloa congensis]] — species page
 - [[Marantochloa_cordifolia|Marantochloa cordifolia]] — herb
 - [[Marantochloa_cuspidata|Marantochloa cuspidata]] — herb
@@ -3699,7 +3661,6 @@
 - [[Microdesmis_puberula|Microdesmis puberula]] — species page
 - [[Microgramma_owariensis|Microgramma owariensis]] — species page
 - [[Microlepia_speluncae|Microlepia speluncae]] — species page
-- [[Microsodium_punctatum|Microsodium punctatum]] — species page
 - [[Microsorium_punctatum|Microsorium punctatum]] — species page
 - [[Milicia_excelsa|Milicia excelsa]] — tree
 - [[Millettia_aboensis|Millettia aboensis]] — tree
@@ -4049,9 +4010,6 @@
 - [[Pauridiantha_siderophila|Pauridiantha siderophila]] — shrub
 - [[Pauridiantha_venusta|Pauridiantha venusta]] — shrub
 - [[Pauridiantha_verticillata|Pauridiantha verticillata]] — shrub
-- [[Pausinstalia_ituriense|Pausinstalia ituriense]] — tree
-- [[Pausinstalia_johimbe|Pausinstalia johimbe]] — tree
-- [[Pausinstalia_macroceras|Pausinstalia macroceras]] — tree
 - [[Pausinystalia_ituriense|Pausinystalia ituriense]] — tree
 - [[Pausinystalia_johimbe|Pausinystalia johimbe]] — tree
 - [[Pausinystalia_macroceras|Pausinystalia macroceras]] — tree
@@ -4317,8 +4275,6 @@
 - [[Pyrenacantha_staudtii|Pyrenacantha staudtii]] — species page
 - [[Pyrenacantha_sylvestris|Pyrenacantha sylvestris]] — species page
 - [[Pyrenacantha_vogeliana|Pyrenacantha vogeliana]] — liana
-- [[Pyrosiia_lanceolata|Pyrosiia lanceolata]] — species page
-- [[Pyrosiia_mechowii|Pyrosiia mechowii]] — species page
 - [[Pyrostegia_venusta|Pyrostegia venusta]] — liana
 - [[Pyrrosia_lanceolata|Pyrrosia lanceolata]] — species page
 - [[Pyrrosia_mechowii|Pyrrosia mechowii]] — species page
@@ -4340,11 +4296,6 @@
 - [[Ravenala_madagascariensis|Ravenala madagascariensis]] — tree
 - [[Reissantia_indica|Reissantia indica]] — species page
 - [[Remirea_maritima|Remirea maritima]] — herb
-- [[Renalmia_africana|Renalmia africana]] — herb
-- [[Renalmia_cabraei|Renalmia cabraei]] — herb
-- [[Renalmia_cincinnati|Renalmia cincinnati]] — herb
-- [[Renalmia_congoensis|Renalmia congoensis]] — herb
-- [[Renalmia_macrocolea|Renalmia macrocolea]] — herb
 - [[Renealmia_africana|Renealmia africana]] — herb
 - [[Renealmia_cabraei|Renealmia cabraei]] — herb
 - [[Renealmia_cincinnati|Renealmia cincinnati]] — species page
@@ -4366,7 +4317,6 @@
 - [[Rhaphiostylis_fusca|Rhaphiostylis fusca]] — liana
 - [[Rhaphiostylis_poggei|Rhaphiostylis poggei]] — shrub
 - [[Rhaphiostylis_preussii|Rhaphiostylis preussii]] — liana
-- [[Rhapiostylis_beninensis|Rhapiostylis beninensis]] — species page
 - [[Rhaptopetalum_belingense|Rhaptopetalum belingense]] — shrub
 - [[Rhaptopetalum_breteleri|Rhaptopetalum breteleri]] — shrub
 - [[Rhaptopetalum_coriaceum|Rhaptopetalum coriaceum]] — liana
@@ -4576,7 +4526,6 @@
 - [[Sclerosperma_profiziana|Sclerosperma profiziana]] — species page
 - [[Sclerosperma_walkeri|Sclerosperma walkeri]] — species page
 - [[Scoparia_dulcis|Scoparia dulcis]] — herb
-- [[Scorodophleus_zenkeri|Scorodophleus zenkeri]] — tree
 - [[Scorodophloeus_zenkeri|Scorodophloeus zenkeri]] — tree
 - [[Scottellia_klaineana|Scottellia klaineana]] — species page
 - [[Scyphocephalium_ochocoa|Scyphocephalium ochocoa]] — tree
@@ -4663,7 +4612,6 @@
 - [[Stachyanthus_cuneatus|Stachyanthus cuneatus]] — liana
 - [[Stachyanthus_zenkeri|Stachyanthus zenkeri]] — species page
 - [[Stachyothyrsus_staudtii|Stachyothyrsus staudtii]] — tree
-- [[Stachyothyrus_staudtii|Stachyothyrus staudtii]] — tree
 - [[Stachytarpheta_cayennensis|Stachytarpheta cayennensis]] — herb
 - [[Stachytarpheta_indica|Stachytarpheta indica]] — herb
 - [[Stachytarpheta_jamaicensis|Stachytarpheta jamaicensis]] — herb
@@ -4795,8 +4743,6 @@
 - [[Tapura_fischeri|Tapura fischeri]] — tree
 - [[Tapura_letestui|Tapura letestui]] — tree
 - [[Tapura_neglecta|Tapura neglecta]] — tree
-- [[Tarena_jolinonii|Tarena jolinonii]] — shrub
-- [[Tarena_precidantenna|Tarena precidantenna]] — shrub
 - [[Tarenna_baconoides|Tarenna baconoides]] — species page
 - [[Tarenna_caliblepharis|Tarenna caliblepharis]] — shrub
 - [[Tarenna_conferta|Tarenna conferta]] — tree
@@ -4813,7 +4759,6 @@
 - [[Tectaria_angelicifolia|Tectaria angelicifolia]] — species page
 - [[Tectaria_fernandensis|Tectaria fernandensis]] — species page
 - [[Tectaria_varians|Tectaria varians]] — species page
-- [[Telecantha_cauliflora|Telecantha cauliflora]] — shrub
 - [[Telfairia_occidentalis|Telfairia occidentalis]] — liana
 - [[Temnopteryx_sericea|Temnopteryx sericea]] — species page
 - [[Tephrosia_densiflora|Tephrosia densiflora]] — shrub
@@ -4866,7 +4811,6 @@
 - [[Thyrsosalacia_pararacemosa|Thyrsosalacia pararacemosa]] — species page
 - [[Thyrsosalacia_viciflora|Thyrsosalacia viciflora]] — species page
 - [[Thysanolaena_maxima|Thysanolaena maxima]] — herb
-- [[Tiegemella_africana|Tiegemella africana]] — tree
 - [[Tieghemella_africana|Tieghemella africana]] — tree
 - [[Tiliacora_gabonensis|Tiliacora gabonensis]] — liana
 - [[Tiliacora_klaineana|Tiliacora klaineana]] — liana
@@ -5107,12 +5051,6 @@
 - [[Voyria_primuloides|Voyria primuloides]] — herb
 - [[Wahlenbergia_perrottetii|Wahlenbergia perrottetii]] — herb
 - [[Waltheria_indica|Waltheria indica]] — shrub
-- [[Warnecka_cauliflora|Warnecka cauliflora]] — shrub
-- [[Warnecka_floribunda|Warnecka floribunda]] — tree
-- [[Warnecka_pulcherrima|Warnecka pulcherrima]] — tree
-- [[Warnecka_reygaerti|Warnecka reygaerti]] — shrub
-- [[Warnecka_sapinii|Warnecka sapinii]] — tree
-- [[Warnecka_wildeana|Warnecka wildeana]] — tree
 - [[Warneckea_bebaiensis|Warneckea bebaiensis]] — shrub
 - [[Warneckea_cauliflora|Warneckea cauliflora]] — shrub
 - [[Warneckea_fascicularis|Warneckea fascicularis]] — species page

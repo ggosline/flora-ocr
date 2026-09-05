@@ -27,6 +27,14 @@ Humid forest understorey from Côte d’Ivoire to Cameroon and Gabon, probably C
 
 ![Plate IV — leaf venation and infructescence](../sources/Zingiberaceae_vol9_paddle/figures/fig_006_p0027.png)
 
+## Type
+
+Soyaux 180, Gabon (B). Espèce de sous-bois plutôt humide, connue de la Côte d'Ivoire jusqu'au Cameroun, au Gabon et probablement au Congo
+
+## Specimens examined
+
+Duparquet : s. n., Mont Bouet. Mgr. Leroy : 1, Dongila. Klaine : 248, 425, 769, env. de Libreville; 431, Mont Bouet. Thollon : 305, Ogooué. Le Testu : 1274, Loukandou, rég. de la Nyanga. Chevalier : 26121, Lambaréné. N. Hallé : 796, La Bokoué; 2391, Abanga, Monts de Cristal. N. Hallé et G. Cours : 5941, Ovala et 6006, Moumba, env. d'Étélé.
+
 ## Source
 
 Koechlin, J. (1964). Zingibéracées. *Flore du Gabon* 9: 25–26.

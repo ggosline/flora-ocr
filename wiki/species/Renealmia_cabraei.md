@@ -25,6 +25,18 @@ Slender herb under 1 m. Petiole 1–4 cm; narrow lanceolate glabrous blade 25–
 
 Known from Cameroon and Congo; presence in Gabon considered probable. The treatment questions whether it is distinct from *R. congoensis*.
 
+## Type
+
+Cabra, Bas-Congo, s. n. (BR)
+
+## Discussion
+
+This species appears very close to R. congoensis and more abundant material would be necessary to verify whether there is good reason to separate these two species.
+
+Plants of the understory, known from Cameroon and Congo.
+
+Probable presence in Gabon.
+
 ## Source
 
 Koechlin, J. (1964). Zingibéracées. *Flore du Gabon* 9: 30–31.

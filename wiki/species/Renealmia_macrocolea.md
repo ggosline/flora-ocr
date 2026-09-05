@@ -28,6 +28,18 @@ Humid forest understorey in Togo, Cameroon and Gabon.
 
 ![Plate VI — infructescence and leafy-stem base](../sources/Zingiberaceae_vol9_paddle/figures/fig_008_p0033.png)
 
+## Type
+
+Baumann 315, Togo (B)
+
+## Discussion
+
+Species of humid understory, described from Togo. We refer to it a certain number of Cameroonian and Gabonese specimens.
+
+## Specimens examined
+
+N. Hallé : 1080, Makokou.
+
 ## Source
 
 Koechlin, J. (1964). Zingibéracées. *Flore du Gabon* 9: 34–35.

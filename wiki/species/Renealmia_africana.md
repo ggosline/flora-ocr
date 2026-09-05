@@ -28,6 +28,20 @@ Cameroon, Equatorial Guinea, Gabon, Congo and Angola.
 
 ![Plate V — leaf base and infructescence](../sources/Zingiberaceae_vol9_paddle/figures/fig_007_p0029.png)
 
+## Type
+
+Mann s.n., Fernando-Po (K)
+
+## Discussion
+
+Species also known from Cameroon, Gabon, Congo, and Angola.
+
+## Specimens examined
+
+Le Testu : 8931, Milongo, région entre l'Ogooué et le Cameroun; 7056, Lastoursville.
+
+N. Hallé et G. Cours : 5959, Ovala (jachères forestières), près d'Étélé.
+
 ## Source
 
 Koechlin, J. (1964). Zingibéracées. *Flore du Gabon* 9: 32–34.

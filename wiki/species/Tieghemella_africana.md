@@ -62,6 +62,22 @@ whitish latex; flowering and fruiting are both reported in **December-January**.
 Aubreville A. (1961) *Sapotacees*. In: Aubreville A. (ed.), *Flore du Gabon,
 Volume 1*. Museum national d'Histoire naturelle, Paris.
 
+## Specimens examined
+
+Aubry le Comte : 3604.
+
+R. P. Klaine : 5 Fernan Vaz.
+
+Fleury : 33624 Libreville; 26673 Fernan Vaz.
+
+Le Testu : 1416 Mayombe bavili; 1972 Tchibanga (fl. janv); 2255 et 2304 Sindara (fl. janv.); 8546 Koulamoutou (fl. déc.).
+
+Aubréville : 122, km 18, Libreville (fr. déc.).
+
+## Vernacular names
+
+Douka
+
 ## Notes
 
 The treatment emphasizes the economic importance of the wood under the

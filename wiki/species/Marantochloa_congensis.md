@@ -57,6 +57,14 @@ Type: N. Hallé and G. Cours: 6023, east of Moumba, vicinity of Etéké, 750–8
 
 This variety is known only from this single collection.
 
+## Type
+
+Buttner 547, Congo (B)
+
+## Discussion
+
+From Côte-d'Ivoire to Central African Republic, Cameroon, Gabon and as far as former Belgian Congo. Forest understory and forest regrowth.
+
 ## Notes
 
 <!-- TODO:notes -->

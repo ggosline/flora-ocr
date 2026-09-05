@@ -28,6 +28,20 @@ Humid forest understorey in Cameroon, Gabon and Congo.
 
 ![Plate V — inflorescence and infructescence details](../sources/Zingiberaceae_vol9_paddle/figures/fig_007_p0029.png)
 
+## Type
+
+Lecomte E 33, Gabon (P)
+
+## Discussion
+
+Plant of damp woodland, known from Cameroon, Gabon and Congo.
+
+## Specimens examined
+
+Lecomte : E 33, Mayumba.
+
+Le Testu : 1882, Tchibanga; 5084, Sainte Croix des Eshiras; 7677, Micouma, région de Lastoursville; 975, Mayumba; 1288, région de la Nyanga. N. Hallé : 1087, Makokou; 2272, 2422, Abanga; 1977 bis, SW de Ndjolé.
+
 ## Source
 
 Koechlin, J. (1964). Zingibéracées. *Flore du Gabon* 9: 28–30.

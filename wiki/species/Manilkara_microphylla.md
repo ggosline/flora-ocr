@@ -63,6 +63,12 @@ with littoral small-leaved species such as [[Manilkara_lacera]] and
 Aubreville A. (1961) *Sapotacees*. In: Aubreville A. (ed.), *Flore du Gabon,
 Volume 1*. Museum national d'Histoire naturelle, Paris.
 
+## Specimens examined
+
+Gabon. — Le Testu : 8408 (holotype), Poupa (fl. oct.); 8377, Lindémé (fl. sept.).
+
+Rép. Congo. — Koechlin : 6043, Brazzaville (fl. sept.).
+
 ## Notes
 
 The source calls this species remarkable at first sight because of the very

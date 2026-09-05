@@ -56,6 +56,10 @@ as a tall straight-boled tree of very humid and rainy regions.
 Aubreville A. (1961) *Sapotacees*. In: Aubreville A. (ed.), *Flore du Gabon,
 Volume 1*. Museum national d'Histoire naturelle, Paris.
 
+## Specimens examined
+
+Le Testu : 6424, Poungui Essouma (fl. mars); 6452, Iména (Dijabi, fl. mars); 7285, Lastoursville (fl. mai); 7722, Missoungala; 8799, Maouya (fl. mai). Service forestier : 978, Kougouleu; 1365, 1394, Ndjolé. Aubréville : 6113, Libreville; G. 131, Monts de Cristal.
+
 ## Notes
 
 The treatment separates this species from [[Manilkara_lacera]] chiefly by its
