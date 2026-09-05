@@ -31,7 +31,8 @@ from dataclasses import dataclass, field, asdict
 from pathlib import Path
 
 from flora_ocr.flora import REPO_ROOT, add_flora_arg, load_flora
-from flora_ocr.pipeline.reclassify_headings import PAGE_RE, classify
+from flora_ocr.pipeline.reclassify_headings import (PAGE_RE, _is_structural_keyword,
+                                                    classify)
 from flora_ocr.wiki import names as N
 
 # Engines in the preference order given by wiki/CLAUDE.md.
@@ -327,6 +328,25 @@ def _is_truncated_family(heading: str, declared: str | None) -> bool:
     return abs(len(want) - len(word)) <= 3 and re.search(r"ACE[AE]?$", word)
 
 
+# An unnumbered binomial opening a treatment that heads no genus is the one
+# heading that has to stand on its own, with no genus above it to vouch for it.
+# The front matter of these volumes is full of things that parse as binomials:
+# index entries ('Tribulus terrestris L..... 110'), plate credits
+# ('Illustrations de M le H. Lamourdedieu'), the CC licence paragraph, and the
+# French 'Genre unique IMPATIENS'. So it must look like a heading and not like
+# any of those.
+LEADER_DOTS_RE = re.compile(r"\.{4,}")
+MAX_ORPHAN_HEADING = 80
+MIN_ORPHAN_EPITHET = 4
+
+
+def _is_orphan_species(heading: str, parsed) -> bool:
+    return (len(heading) <= MAX_ORPHAN_HEADING
+            and not LEADER_DOTS_RE.search(heading)
+            and len(parsed.epithet) >= MIN_ORPHAN_EPITHET
+            and not _is_structural_keyword(parsed.genus))
+
+
 def _headings(lines: list[str], only_family: str | None = None) -> tuple[list[dict], list[int]]:
     """Locate every taxonomic heading, plus the lines where back matter starts.
 
@@ -343,19 +363,22 @@ def _headings(lines: list[str], only_family: str | None = None) -> tuple[list[di
     # headings survive -- barren ones dropped, then repeats -- and the second
     # skips the rest outright, so a cover-page heading never resets the running
     # family/genus context and orphans the varieties under it.
-    survivors = _surviving_family_lines(lines, known, only_family)
-    heads, terminators = _scan(lines, known, only_family, survivors)
-    return heads, terminators
-
-
-def _surviving_family_lines(lines, known, only_family) -> set[int] | None:
-    raw, _ = _scan(lines, known, only_family, None)
+    raw, _ = _scan(lines, known, only_family, None, False)
     kept = _dedupe_families(_drop_barren_families(raw))
-    return {h["line"] for h in kept if h["rank"] == "family"}
+    survivors = {h["line"] for h in kept if h["rank"] == "family"}
+    # A monogeneric family is sometimes written with no genus heading at all --
+    # Hydroleaceae vol 40 goes straight from the family to '### Hydrolea
+    # palustris (Aublet) Raeuschel' -- and an unnumbered binomial only opens a
+    # species block under an open genus, so the whole treatment came to
+    # nothing. Where the treatment heads no genus anywhere, that guard is
+    # lifted for a binomial whose genus the pre-pass already knows.
+    monogeneric = not any(h["rank"] == "genus" for h in raw)
+    return _scan(lines, known, only_family, survivors, monogeneric)
 
 
 def _scan(lines: list[str], known: set[str], only_family: str | None,
-          family_lines: set[int] | None) -> tuple[list[dict], list[int]]:
+          family_lines: set[int] | None,
+          orphan_species: bool) -> tuple[list[dict], list[int]]:
     """One pass over the headings. `family_lines` limits which may open a family."""
     out: list[dict] = []
     terminators: list[int] = []
@@ -431,9 +454,13 @@ def _scan(lines: list[str], known: set[str], only_family: str | None,
                 # An unnumbered binomial is only a species heading when it sits
                 # under its own genus. Otherwise it is prose, or a mention in
                 # the front matter's list of new taxa.
-                if not genus:
+                if not genus and not (orphan_species and parsed.genus in known
+                                     and _is_orphan_species(heading, parsed)):
                     continue
-                resolved = _resolve_genus(parsed.genus, genus, set())
+                if not genus:
+                    resolved = parsed.genus
+                else:
+                    resolved = _resolve_genus(parsed.genus, genus, set())
                 if resolved is None:
                     continue
             if resolved != parsed.genus:

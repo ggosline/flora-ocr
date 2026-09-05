@@ -73,7 +73,7 @@ Guillery 1186 SRF, Oguémoné, 19/10/1953 (P).
 
 ![Scottellia klaineana](../sources/Flacourtiaceae_vol34_paddle/figures/fig_009_p0036.png)
 
-*PL. 9. – Scottelia klaineana Pierre : 1, rameau florifère : 2, fleur ; 3, pétale, face inférieure ; 4, étamine ; 5, coupe transversale de l'ovaire ; 6, fruit ouvert ; 7, graine. (1-5. Klaine 3438 ; 6 et 7. Klaine 3289).*
+*PL. 9. – Scottelia klaineana Pierre : 1, flowering branch : 2, flower ; 3, petal, lower surface ; 4, stamen ; 5, transverse section of the ovary ; 6, open fruit ; 7, seed. (1-5. Klaine 3438 ; 6 et 7. Klaine 3289).*
 
 ## Notes
 

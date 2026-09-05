@@ -17,6 +17,7 @@ Large herbs or tree-like plants resembling Musaceae but with distichous leaves, 
 
 | Genus | Species |
 |-------|---------|
+| [[Ravenala]] | 1 |
 | [[Strelitzia]] | 0 |
 
 ## See also

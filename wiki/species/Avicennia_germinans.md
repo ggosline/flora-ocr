@@ -82,7 +82,7 @@ Villiers J.-F. 8, 23, 89, 143, riv. Maliba (fl., mars-juin); 262, plage de la Bl
 
 ![Avicennia germinans](../sources/Avicenniaceae_vol22_paddle/figures/fig_020_p0067.png)
 
-*PL. 16. — Avicennia germinans (L.) L. : 1, leafy branch and inflorescences × 2/3; 2, flower × 3; 3, floral diagram; 4, bract × 7; 5, detail of the internal surface of the corolla × 4; 6, anther × 9, 7, pistil × 5,6; 8, fruit × 0,8; 9, cotyledons and feathery radicle × 1 (1-7, Villiers J.-F. 89; Hallé N. 1551).*
+*PL. 16. — Avicennia germinans (L.) L. : 1, leafy branch and inflorescences × 2/3; 2, flower × 3; 3, floral diagram; 4, bract × 7; 5, detail of the internal surface of the corolla × 4; 6, anther × 9; 7, pistil × 5,6; 8, fruit × 0,8; 9, cotyledons and feathery radicle × 1 (1-7, Villiers J.-F. 89; Hallé N. 1551).*
 
 ## Notes
 

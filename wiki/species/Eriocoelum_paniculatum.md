@@ -1,8 +1,8 @@
 ---
 type: species
-name: Eriocelum paniculatum
+name: Eriocoelum paniculatum
 authority: Baker
-genus: Eriocelum
+genus: Eriocoelum
 family: Sapindaceae
 vol: 23
 pages: 178-180
@@ -12,9 +12,9 @@ in_region: true
 habit: "tree"
 tags: [species, generated]
 ---
-# *Eriocelum paniculatum* Baker
+# *Eriocoelum paniculatum* Baker
 
-**Genus**: [[Eriocelum]]
+**Genus**: [[Eriocoelum]]
 **Family**: [[Sapindaceae]]
 **Protologue**: FTA 1 : 428 (1868); RADLK., in ENGL., Pflanzenreich, Sapindaceae : 1155 (1933)
 
@@ -46,6 +46,6 @@ Species known from Central African Republic and Gabon. To be searched for in Cam
 
 ## See also
 
-- [[Eriocelum]]
+- [[Eriocoelum]]
 - [[Sapindaceae]]
 - [[vol23]]

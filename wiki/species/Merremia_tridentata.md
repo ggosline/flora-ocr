@@ -43,7 +43,7 @@ sandy beaches, savannas on sand, ruderal stations; in Gabon, up to approximately
 
 ![Merremia tridentata](../sources/Convolvulaceae_vol46_liteparse/figures/fig_034_p0052.png)
 
-*Plate 22. Merremia tridentata subsp. angustifolia : 1. Floriferous branches. – 2, 3. Sepals. – 4. Corolla spread with stamens. – 5. Gynoecium with part of the calyx. – 6. Ovary in longitudinal section. – 7. Fruit. – 8. Seed. (2–8 : Peltier 5001 ). Drawing by T. Peng (1) and Thierry Deroin (2–8) reproduced with permission of the Publications Scientifiques du Muséum national d'Histoire naturelle, Paris (©) from Berhaut (1975) and Deroin (2001).*
+*Plate 22. Merremia tridentata subsp. angustifolia : 1. Floriferous branches. – 2, 3. Sepals. – 4. Corolla spread with stamens. – 5. Gynoecium with part of the calyx. – 6. Ovary in longitudinal section. – 7. Fruit. – 8. Seed. (2–8 : Peltier 5001 ). Drawing by T. Peng (1) and Thierry Deroin (2–8) reproduced with permission of the Scientific Publications of the National Museum of Natural History, Paris (©) from Berhaut (1975) and Deroin (2001).*
 
 ## Notes
 

@@ -1,6 +1,6 @@
 ---
 type: genus
-name: Eriocelum
+name: Eriocoelum
 authority: Hooker fil.
 family: Sapindaceae
 species_in_region: 6
@@ -9,7 +9,7 @@ treatments:
     source: sources/Sapindaceae_vol23_paddle
 tags: [genus, generated]
 ---
-# *Eriocelum* Hooker fil.
+# *Eriocoelum* Hooker fil.
 
 **Family**: [[Sapindaceae]]
 **Authority**: Hooker fil.
@@ -32,18 +32,18 @@ The characters chosen for the distinction of species are: the dimensions of the 
 
 ## Key to the species
 
-- **1′.** Leaves 3-5 jugate, with petiole 3-4 cm; leaflets 14-18 × 5-6 cm, not punctate; branchlets slightly puberulent, hairs 0.1 mm; inflorescence branched 2-3 times, 12-15 cm, slender; cymules 1-3-flowered; pedicel 3 mm; sepal 1 mm; petal 3 mm; limb glabrous; filament hairy; fruit 2-2.5 cm high, 2.5-3.5 cm wide; valves 2.5-4 mm thick → [[Eriocelum_petiolare\|*E. petiolare*]]
+- **1′.** Leaves 3-5 jugate, with petiole 3-4 cm; leaflets 14-18 × 5-6 cm, not punctate; branchlets slightly puberulent, hairs 0.1 mm; inflorescence branched 2-3 times, 12-15 cm, slender; cymules 1-3-flowered; pedicel 3 mm; sepal 1 mm; petal 3 mm; limb glabrous; filament hairy; fruit 2-2.5 cm high, 2.5-3.5 cm wide; valves 2.5-4 mm thick → [[Eriocoelum_petiolare\|*E. petiolare*]]
 
 ## Species in region
 
 | Species | Vol | Pages |
 |---------|-----|-------|
-| [[Eriocelum_racemosum\|*E. racemosum*]] | 23 | 175–176 |
-| [[Eriocelum_microspermum\|*E. microspermum*]] | 23 | 176–176 |
-| [[Eriocelum_kerstingii\|*E. kerstingii*]] | 23 | 176–178 |
-| [[Eriocelum_paniculatum\|*E. paniculatum*]] | 23 | 178–180 |
-| [[Eriocelum_macrocarpum\|*E. macrocarpum*]] | 23 | 180–182 |
-| [[Eriocelum_petiolare\|*E. petiolare*]] | 23 | 182–183 |
+| [[Eriocoelum_racemosum\|*E. racemosum*]] | 23 | 175–176 |
+| [[Eriocoelum_microspermum\|*E. microspermum*]] | 23 | 176–176 |
+| [[Eriocoelum_kerstingii\|*E. kerstingii*]] | 23 | 176–178 |
+| [[Eriocoelum_paniculatum\|*E. paniculatum*]] | 23 | 178–180 |
+| [[Eriocoelum_macrocarpum\|*E. macrocarpum*]] | 23 | 180–182 |
+| [[Eriocoelum_petiolare\|*E. petiolare*]] | 23 | 182–183 |
 
 ## Treatments
 

@@ -67,7 +67,7 @@ McPherson 16074, Ogooué-Ivindo, 0°40'S-11°50'E, env. 200 m alt., 16/1/1993, f
 
 ![Dasylepis blackii](../sources/Flacourtiaceae_vol34_paddle/figures/fig_008_p0034.png)
 
-*PL. 8. – Dasylepis blackii (Oliv.) Chipp : 1, rameau florifère ; 2, fleur ; 3, sépale ; 4, pétale, face interne ; 5, étanine ; 6, pistil ; 7, coupe transversale de l'ovaire ; 8, fruit ; 9, un autre fruit ; 10, graine. (1-7. Le Testu 8420 ; 8. Mann 1775 ; 9 et 10. Sita 3806).*
+*PL. 8. – Dasylepis blackii (Oliv.) Chipp : 1, flowering branch ; 2, flower ; 3, sepal ; 4, petal, internal surface ; 5, stamen ; 6, pistil ; 7, transverse section of ovary ; 8, fruit ; 9, another fruit ; 10, seed. (1-7. Le Testu 8420 ; 8. Mann 1775 ; 9 and 10. Sita 3806).*
 
 ## Notes
 

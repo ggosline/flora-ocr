@@ -1,8 +1,8 @@
 ---
 type: species
-name: Eriocelum macrocarpum
+name: Eriocoelum macrocarpum
 authority: Gilg ex Radlkofer
-genus: Eriocelum
+genus: Eriocoelum
 family: Sapindaceae
 vol: 23
 pages: 180-182
@@ -12,9 +12,9 @@ in_region: true
 habit: "tree"
 tags: [species, generated]
 ---
-# *Eriocelum macrocarpum* Gilg ex Radlkofer
+# *Eriocoelum macrocarpum* Gilg ex Radlkofer
 
-**Genus**: [[Eriocelum]]
+**Genus**: [[Eriocoelum]]
 **Family**: [[Sapindaceae]]
 
 ## Description
@@ -55,6 +55,6 @@ Fleury in Chevalier 26637, lac Ayem, env. Ebimangha. Hallé N. & Le Thomas 710, 
 
 ## See also
 
-- [[Eriocelum]]
+- [[Eriocoelum]]
 - [[Sapindaceae]]
 - [[vol23]]

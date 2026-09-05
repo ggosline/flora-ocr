@@ -44,7 +44,7 @@ Fruit with filaments and perianth segments. Original drawing by Richard W. Haine
 
 ![Eleocharis geniculata](../sources/Cyperaceae_vol44_liteparse/figures/fig_109_p0133.png)
 
-*Plate 83 . Eleocharis geniculata . A. Plant. Plate 84 . Eleocharis mutata . A. Plant. – B. Base – B. Top of the leaf sheath. – C. Young spikelet. and top of the spikelet. – C. Base of the spikelet. – D. – D. Mature spikelet. – E. Glume. – F. Flower. – G. Glume. – E. Fruit with style, filaments and segments of the*
+*Plate 83. Eleocharis geniculata. A. Plant. Plate 84. Eleocharis mutata. A. Plant. – B. Base – B. Top of the leaf sheath. – C. Young spikelet. and top of the spikelet. – C. Base of the spikelet. – D. – D. Mature spikelet. – E. Glume. – F. Flower. – G. Glume. – E. Fruit with style, filaments and segments of the*
 
 ![Eleocharis geniculata](../sources/Cyperaceae_vol44_liteparse/figures/fig_110_p0133.png)
 

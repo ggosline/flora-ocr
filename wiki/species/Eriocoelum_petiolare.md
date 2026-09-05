@@ -1,8 +1,8 @@
 ---
 type: species
-name: Eriocelum petiolare
+name: Eriocoelum petiolare
 authority: Radlkofer
-genus: Eriocelum
+genus: Eriocoelum
 family: Sapindaceae
 vol: 23
 pages: 182-183
@@ -12,9 +12,9 @@ in_region: true
 habit: "tree"
 tags: [species, generated]
 ---
-# *Eriocelum petiolare* Radlkofer
+# *Eriocoelum petiolare* Radlkofer
 
-**Genus**: [[Eriocelum]]
+**Genus**: [[Eriocoelum]]
 **Family**: [[Sapindaceae]]
 
 ## Description
@@ -49,6 +49,6 @@ Gauchotte 132, lac Oguémoué (fr., oct.). Le Testu 7727, Sacamicanda près Last
 
 ## See also
 
-- [[Eriocelum]]
+- [[Eriocoelum]]
 - [[Sapindaceae]]
 - [[vol23]]

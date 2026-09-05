@@ -1,8 +1,8 @@
 ---
 type: species
-name: Eriocelum kerstingii
+name: Eriocoelum kerstingii
 authority: Gilg ex Engler
-genus: Eriocelum
+genus: Eriocoelum
 family: Sapindaceae
 vol: 23
 pages: 176-178
@@ -12,9 +12,9 @@ in_region: true
 habit: "tree"
 tags: [species, generated]
 ---
-# *Eriocelum kerstingii* Gilg ex Engler
+# *Eriocoelum kerstingii* Gilg ex Engler
 
-**Genus**: [[Eriocelum]]
+**Genus**: [[Eriocoelum]]
 **Family**: [[Sapindaceae]]
 **Protologue**: Sitzungsber. Bayer. Akad. Wiss. München 38 : 817 (1908); RADLK., in ENGL., Pflanzenreich, Sapindaceae : 1153 (1933)
 
@@ -60,6 +60,6 @@ Arbre de 25 m, rameaux brun-doré, poils denses. Feuilles à pétiole de 5 mm et
 
 ## See also
 
-- [[Eriocelum]]
+- [[Eriocoelum]]
 - [[Sapindaceae]]
 - [[vol23]]

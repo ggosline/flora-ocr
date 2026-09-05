@@ -73,7 +73,7 @@ oguguma, getsimba (Apindji) ; mukaguma (Baduma, Bavili) ; date (Bakèlè) ; gyag
 
 ![Tetrapleura tetraptera](../sources/Leguminosae_vol31_paddle/figures/fig_028_p0068.png)
 
-*PL. 16. – Tetrapleura tetraptera (Schumach. & Thonn.) Taub.: 1, aspect général × 1; 2, foliole, face inférieure × 3; 3, bouton floral et bractéole × 8; 4, fleur × 8; 5, fruit × 4/5; 6, fruit, coupe transversale × 1; 7, graine × 4,5. (1-4, Letouzey 3315 (Cameroun); 5-7, Sargos 57 (Congo)).*
+*PL. 16. – Tetrapleura tetraptera (Schumach. & Thonn.) Taub.: 1, general aspect × 1; 2, leaflet, lower surface × 3; 3, flower bud and bracteole × 8; 4, flower × 8; 5, fruit × 4/5; 6, fruit, transverse section × 1; 7, seed × 4,5. (1-4, Letouzey 3315 (Cameroon); 5-7, Sargos 57 (Congo)).*
 
 ## Notes
 

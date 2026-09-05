@@ -19,6 +19,12 @@ Giant herbs with pseudostems formed from overlapping petiole bases, alternate no
 
 No wild species is recorded. Vol. 9 discusses cultivated clones derived from [[Musa_acuminata|*Musa acuminata*]] and hybrids between it and [[Musa_balbisiana|*M. balbisiana*]]. Plantains are of major dietary importance in Gabon.
 
+## Genera in region
+
+| Genus | Species |
+|-------|---------|
+| [[Musa]] | 2 |
+
 ## See also
 
 - [[vol09]]

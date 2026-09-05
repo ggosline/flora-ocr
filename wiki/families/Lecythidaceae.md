@@ -30,7 +30,7 @@ Four genera and nine species — the Brazil-nut family, in its African guise.
 | [[Napoleonaea]] | 5 | *N. imperialis*, *N. vogelii*, *N. gabonensis*, *N. talbotii*, *N. egertonii* |
 | [[Crateranthus]] | 2 | |
 | [[Petersianthus]] | 1 | *P. macrocarpus* |
-| [[Combretodendron]] | 1 | = *Petersianthus*, older name |
+| [[Petersianthus\|Combretodendron]] | 1 | = *Petersianthus*, older name |
 
 ## Notes
 

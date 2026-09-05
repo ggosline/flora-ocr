@@ -61,6 +61,8 @@ NOT_A_TAXON = {
     "Cl", "St", "Ilomba", "Ossoko", "Ekoune", "Noticealamemoirede",
     # "Ordre I. LYCOPODIALES" -- a French ordinal heading, not a genus
     "Ordre", "Ordres", "Famille", "Familles", "Tribu", "Tribus",
+    # "ESPECE IMPARFAITEMENT CONNUE" -- imperfectly known species
+    "Espece", "Especes",
 }
 
 # Genus names the scan corrupts, with the correction verified against the source.
@@ -80,6 +82,7 @@ NAME_CORRECTIONS = {
     "Hypodaphns": "Hypodaphnis",
     "Rhapiostylis": "Rhaphiostylis",
     "Cyrtococcus": "Cyrtococcum",
+    "Eriocelum": "Eriocoelum",
 }
 
 # Epithets the scan corrupted, keyed by the corrected binomial. The genus map

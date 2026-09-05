@@ -160,7 +160,6 @@ Family Davalliaceae (8 sp.).
 | [[Lycopodium]] | 3 |
 | [[Marattia]] | 1 |
 | [[Ophioglossum]] | 2 |
-| [[Ordre]] | 0 |
 | [[Psilotum]] | 1 |
 | [[Salvinia]] | 1 |
 | [[Selaginella]] | 8 |

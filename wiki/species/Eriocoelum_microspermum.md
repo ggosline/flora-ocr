@@ -1,8 +1,8 @@
 ---
 type: species
-name: Eriocelum microspermum
+name: Eriocoelum microspermum
 authority: Radlkofer
-genus: Eriocelum
+genus: Eriocoelum
 family: Sapindaceae
 vol: 23
 pages: 176-176
@@ -12,9 +12,9 @@ in_region: true
 habit: "tree"
 tags: [species, generated]
 ---
-# *Eriocelum microspermum* Radlkofer
+# *Eriocoelum microspermum* Radlkofer
 
-**Genus**: [[Eriocelum]]
+**Genus**: [[Eriocoelum]]
 **Family**: [[Sapindaceae]]
 
 ## Description
@@ -43,6 +43,6 @@ Fleury in Chevalier 33440, bassin du Mungo, près gare Mujuka, km 59 chemin de f
 
 ## See also
 
-- [[Eriocelum]]
+- [[Eriocoelum]]
 - [[Sapindaceae]]
 - [[vol23]]

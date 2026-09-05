@@ -13,6 +13,12 @@ tags: [family]
 
 Rhizomatous herbs with distichous eligulate leaves, brightly coloured zygomorphic flowers and a highly modified androecium containing only half of one fertile stamen. The sole subspontaneous Gabon species is [[Canna_bidentata|*Canna bidentata*]].
 
+## Genera in region
+
+| Genus | Species |
+|-------|---------|
+| [[Canna]] | 1 |
+
 ## See also
 
 - [[vol09]]

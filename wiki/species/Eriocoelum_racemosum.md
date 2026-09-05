@@ -1,8 +1,8 @@
 ---
 type: species
-name: Eriocelum racemosum
+name: Eriocoelum racemosum
 authority: Baker
-genus: Eriocelum
+genus: Eriocoelum
 family: Sapindaceae
 vol: 23
 pages: 175-176
@@ -12,9 +12,9 @@ in_region: true
 habit: "tree"
 tags: [species, generated]
 ---
-# *Eriocelum racemosum* Baker
+# *Eriocoelum racemosum* Baker
 
-**Genus**: [[Eriocelum]]
+**Genus**: [[Eriocoelum]]
 **Family**: [[Sapindaceae]]
 **Protologue**: FTA 1 : 427 (1868); RADLK., in ENGL., Pflanzenreich, Sapindaceae : 1152 (1933)
 
@@ -46,6 +46,6 @@ Le Testu 9196, 9484, Oyem, entre Ogooué et Cameroun (fl., juil., fév.). Trille
 
 ## See also
 
-- [[Eriocelum]]
+- [[Eriocoelum]]
 - [[Sapindaceae]]
 - [[vol23]]

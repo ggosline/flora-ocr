@@ -56,7 +56,7 @@ Wilks 881, 15 km SE Ogooué-Ivindo, forêt des Abeilles, 28/2/1984, fl. (WAG) ; 
 
 ![Mocquerysia multiflora](../sources/Flacourtiaceae_vol34_paddle/figures/fig_007_p0032.png)
 
-*PL. 7. - Mocquerysia multiflora Hua : 1, rameau florifère avec des fleurs sur le limbe ; 2, autre rameau avec des fleurs sur le pétiole ; 3, stipule ; 4, bractée ; 5, fleur ; 6, étamine, face ventrale ; 7, id., face dorsale ; 8, pistil ; 9, coupe transversale de l'ovaire ; 10, jeune fruit entouré de périanthe ; 11, jeune capsule. (1, 3-11. Louis & al. 732 ; 2. Toussaint 648).*
+*PL. 7. - Mocquerysia multiflora Hua : 1, flowering branch with flowers on the blade ; 2, another branch with flowers on the petiole ; 3, stipule ; 4, bract ; 5, flower ; 6, stamen, ventral face ; 7, id., dorsal face ; 8, pistil ; 9, ovary cross section ; 10, young fruit surrounded by perianth ; 11, young capsule. (1, 3-11. Louis & al. 732 ; 2. Toussaint 648).*
 
 ## Notes
 

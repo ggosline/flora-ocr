@@ -586,12 +586,11 @@
 - [[Eremospatha|Eremospatha]] — [[Arecaceae]]
 - [[Eribroma|Eribroma]] — [[Sterculiaceae]]
 - [[Eriocaulon|Eriocaulon]] — [[Eriocaulaceae]]
-- [[Eriocelum|Eriocelum]] — [[Sapindaceae]]
+- [[Eriocoelum|Eriocoelum]] — [[Sapindaceae]]
 - [[Eriosema|Eriosema]] — [[Leguminosae]]
 - [[Erythrina|Erythrina]] — [[Leguminosae]]
 - [[Erythrophleum|Erythrophleum]] — [[Leguminosae]]
 - [[Erythroxylum|Erythroxylum]] — [[Erythroxylaceae]]
-- [[Espece|Espece]] — [[Burseraceae]]
 - [[Euadenia|Euadenia]] — [[Capparidaceae]]
 - [[Eucalyptus|Eucalyptus]] — [[Myrtaceae]]
 - [[Euclasta|Euclasta]] — [[Gramineae]]
@@ -689,6 +688,7 @@
 - [[Humata|Humata]] — [[Davalliaceae]]
 - [[Hunteria|Hunteria]] — [[Apocynaceae]]
 - [[Hydrocharis|Hydrocharis]] — [[Hydrocharitaceae]]
+- [[Hydrolea|Hydrolea]] — [[Hydroleaceae]]
 - [[Hylodendron|Hylodendron]] — [[Leguminosae]]
 - [[Hylodesmum|Hylodesmum]] — [[Leguminosae]]
 - [[Hymenocardia|Hymenocardia]] — [[Phyllanthaceae]]
@@ -1330,7 +1330,7 @@
 - [[Zingiber|Zingiber]] — [[Zingiberaceae]]
 - [[Zornia|Zornia]] — [[Leguminosae]]
 
-## Species (3773)
+## Species (3774)
 
 - [[Abelmoschus_caillei|Abelmoschus caillei]] — herb
 - [[Abelmoschus_esculentus|Abelmoschus esculentus]] — herb
@@ -2883,12 +2883,12 @@
 - [[Eriocaulon_mannii|Eriocaulon mannii]] — herb
 - [[Eriocaulon_nadjae|Eriocaulon nadjae]] — herb
 - [[Eriocaulon_setaceum|Eriocaulon setaceum]] — herb
-- [[Eriocelum_kerstingii|Eriocelum kerstingii]] — tree
-- [[Eriocelum_macrocarpum|Eriocelum macrocarpum]] — tree
-- [[Eriocelum_microspermum|Eriocelum microspermum]] — tree
-- [[Eriocelum_paniculatum|Eriocelum paniculatum]] — tree
-- [[Eriocelum_petiolare|Eriocelum petiolare]] — tree
-- [[Eriocelum_racemosum|Eriocelum racemosum]] — tree
+- [[Eriocoelum_kerstingii|Eriocoelum kerstingii]] — tree
+- [[Eriocoelum_macrocarpum|Eriocoelum macrocarpum]] — tree
+- [[Eriocoelum_microspermum|Eriocoelum microspermum]] — tree
+- [[Eriocoelum_paniculatum|Eriocoelum paniculatum]] — tree
+- [[Eriocoelum_petiolare|Eriocoelum petiolare]] — tree
+- [[Eriocoelum_racemosum|Eriocoelum racemosum]] — tree
 - [[Eriosema_batekense|Eriosema batekense]] — herb
 - [[Eriosema_glomeratum|Eriosema glomeratum]] — species page
 - [[Eriosema_griseum|Eriosema griseum]] — herb
@@ -3193,6 +3193,7 @@
 - [[Hunteria_oxyantha|Hunteria oxyantha]] — tree
 - [[Hunteria_umbellata|Hunteria umbellata]] — tree
 - [[Hydrocharis_chevalieri|Hydrocharis chevalieri]] — herb
+- [[Hydrolea_palustris|Hydrolea palustris]] — herb
 - [[Hylodendron_gabunense|Hylodendron gabunense]] — species page
 - [[Hylodesmum_repandum|Hylodesmum repandum]] — herb
 - [[Hymenocardia_acida|Hymenocardia acida]] — tree
